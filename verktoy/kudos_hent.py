@@ -16,7 +16,7 @@ ROT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EKSPORT = "https://kudos.dfo.no/api/v0/documents/download/csv"
 UA = "Mozilla/5.0 (offentlige dokumenter)"
 OVERSIKT = os.path.join(ROT, "dokumenter.tsv")
-FELT = ["id", "type", "ar", "tittel", "eiere", "utforere", "fil", "kudos", "kilde", "ord", "hentet"]
+FELT = ["id", "type", "ar", "tittel", "eiere", "mottakere", "utforere", "fil", "kudos", "kilde", "ord", "hentet"]
 
 
 def hent(url, forsok=4, pause=40):
@@ -87,9 +87,12 @@ def main():
         av_type = [r for r in alle if r.get("type") == t]
         mine = [r for r in av_type if eiere & set(liste(r.get("owners")))
                 and int((r.get("publish_date") or "0")[:4] or 0) >= o.get("fra_ar", 0)]
+        if o.get("ta_med"):   # bare dokumenter med disse titlene (for eksempel «NOU 2025: 1»)
+            mine = [r for r in mine if (r.get("title") or "").strip() in set(o["ta_med"])]
         print(f"{t}: {len(av_type)} i alt, {len(mine)} valgt")
         if diagnose:
             print("  Vanligste eiere:", Counter(e for r in av_type for e in liste(r.get("owners"))).most_common(15))
+            print("  Mottakere blant de valgte:", Counter(e for r in mine for e in liste(r.get("recipients"))).most_common(60))
             print("  Utførere blant de valgte:", Counter(e for r in mine for e in liste(r.get("authoring_actors"))).most_common(40))
             print("  År blant de valgte:", sorted(Counter((r.get("publish_date") or "")[:4] for r in mine).items()))
             for r in mine[:8]:
@@ -125,6 +128,8 @@ def main():
         kilde = (liste(r.get("source_file_urls")) or [r.get("external_public_url") or ""])[0]
         hode = [f"# {r.get('title') or ''}", "", f"- Type: {t}", f"- Publisert: {r.get('publish_date') or ''}",
                 f"- Eier: {', '.join(liste(r.get('owners')))}"]
+        if liste(r.get("recipients")):
+            hode.append(f"- Mottaker: {', '.join(liste(r.get('recipients')))}")
         if liste(r.get("authoring_actors")):
             hode.append(f"- Utført av: {', '.join(liste(r.get('authoring_actors')))}")
         hode += [f"- Kudos: {kudos}", f"- Original: {kilde}" if kilde else "", f"- Hentet: {time.strftime('%Y-%m-%d')}",
@@ -132,7 +137,7 @@ def main():
         with open(os.path.join(ROT, sti), "w", encoding="utf-8") as f:
             f.write("\n".join(x for x in hode if x is not None) + "\n" + tekst + "\n")
         oversikt[rid] = {"id": rid, "type": t, "ar": ar, "tittel": (r.get("title") or "").replace("\t", " "),
-                         "eiere": "|".join(liste(r.get("owners"))), "utforere": "|".join(liste(r.get("authoring_actors"))),
+                         "eiere": "|".join(liste(r.get("owners"))), "mottakere": "|".join(liste(r.get("recipients"))), "utforere": "|".join(liste(r.get("authoring_actors"))),
                          "fil": sti, "kudos": kudos, "kilde": kilde, "ord": str(len(tekst.split())), "hentet": time.strftime("%Y-%m-%d")}
         nye += 1
         print(f"  {sti} ({len(tekst.split())} ord)", flush=True)
