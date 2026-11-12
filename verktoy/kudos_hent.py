@@ -16,6 +16,8 @@ ROT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EKSPORT = "https://kudos.dfo.no/api/v0/documents/download/csv"
 UA = "Mozilla/5.0 (offentlige dokumenter)"
 OVERSIKT = os.path.join(ROT, "dokumenter.tsv")
+START = time.time()
+MINUTTER = 140
 FELT = ["id", "type", "ar", "tittel", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "hentet"]
 
 
@@ -134,7 +136,7 @@ def main():
             if not gml.get("mottakere"):
                 gml["mottakere"] = "|".join(liste(r.get("recipients")))
             continue
-        if nye >= maks:
+        if nye >= maks or time.time() - START > MINUTTER * 60:   # stopp i tide, så det som er hentet blir lagret
             break
         ar = (r.get("publish_date") or "0000")[:4]
         pdf = next((f for f in liste(r.get("file_urls")) if f.lower().endswith(".pdf")), "")
