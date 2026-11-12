@@ -1,6 +1,41 @@
 {
-  "eiere": ["Kunnskapsdepartementet"],
+  "eiere": [
+    "Kunnskapsdepartementet"
+  ],
   "typer": {
-    "Tildelingsbrev": {"mappe": "tildelingsbrev", "fra_ar": 2020}
+    "Tildelingsbrev": {
+      "mappe": "tildelingsbrev",
+      "fra_ar": 2020
+    },
+    "NOU": {
+      "mappe": "nou",
+      "fra_ar": 2015,
+      "eiere": [],
+      "ta_med": [
+        "NOU 2015: 1",
+        "NOU 2016: 3",
+        "NOU 2016: 7",
+        "NOU 2018: 2",
+        "NOU 2018: 13",
+        "NOU 2018: 15",
+        "NOU 2019: 2",
+        "NOU 2019: 7",
+        "NOU 2019: 12",
+        "NOU 2019: 23",
+        "NOU 2019: 25",
+        "NOU 2020: 2",
+        "NOU 2020: 3",
+        "NOU 2021: 2",
+        "NOU 2021: 4",
+        "NOU 2022: 2",
+        "NOU 2022: 16",
+        "NOU 2022: 17",
+        "NOU 2023: 4",
+        "NOU 2023: 19",
+        "NOU 2024: 8",
+        "NOU 2025: 1",
+        "NOU 2026: 10"
+      ]
+    }
   }
 }

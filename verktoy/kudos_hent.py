@@ -85,7 +85,8 @@ def main():
     valgte = []
     for t, o in typer.items():
         av_type = [r for r in alle if r.get("type") == t]
-        mine = [r for r in av_type if eiere & set(liste(r.get("owners")))
+        egne = set(o.get("eiere", eiere))   # typen kan ha egne eiere; tom liste betyr alle eiere
+        mine = [r for r in av_type if (not egne or egne & set(liste(r.get("owners"))))
                 and int((r.get("publish_date") or "0")[:4] or 0) >= o.get("fra_ar", 0)]
         if o.get("ta_med"):   # bare dokumenter med disse titlene (for eksempel «NOU 2025: 1»)
             mine = [r for r in mine if (r.get("title") or "").strip() in set(o["ta_med"])]
