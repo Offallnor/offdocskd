@@ -104,6 +104,16 @@ def main():
                 and int((r.get("publish_date") or "0")[:4] or 0) >= o.get("fra_ar", 0)]
         if o.get("ta_med"):   # bare dokumenter med disse titlene (for eksempel «NOU 2025: 1»)
             mine = [r for r in mine if (r.get("title") or "").strip() in set(o["ta_med"])]
+            # Samme tittel kan stå flere ganger (engelsk utgave, kopi uten sammendrag): behold én,
+            # helst norsk, med sammendrag og PDF.
+            beste = {}
+            for r in mine:
+                t_ = (r.get("title") or "").strip()
+                poeng = ((r.get("language") or "").lower() not in ("en", "eng", "engelsk", "english"),
+                         bool(r.get("abstract")), any(f.lower().endswith(".pdf") for f in liste(r.get("file_urls"))))
+                if t_ not in beste or poeng > beste[t_][0]:
+                    beste[t_] = (poeng, r)
+            mine = [r for _, r in beste.values()]
         print(f"{t}: {len(av_type)} i alt, {len(mine)} valgt")
         if diagnose:
             print("  Vanligste eiere:", Counter(e for r in av_type for e in liste(r.get("owners"))).most_common(15))
