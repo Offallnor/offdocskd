@@ -13,6 +13,9 @@ on:
       liste:
         description: "Bare skriv ut alle dokumenter av denne typen (for eksempel «Melding til Stortinget»)"
         default: ""
+      sok:
+        description: "Bare dokumenter der tittel, sammendrag eller eier passer med dette uttrykket"
+        default: ""
       fra:
         description: "Første år for lista"
         default: "2015"
@@ -47,8 +50,9 @@ jobs:
           DIAGNOSE: ${{ inputs.diagnose && '--diagnose' || '' }}
           LISTE: ${{ inputs.liste }}
           FRA: ${{ inputs.fra || '2015' }}
+          SOK: ${{ inputs.sok }}
         run: |
-          if [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA"
+          if [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
           else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE; fi
 
       - name: Lagre

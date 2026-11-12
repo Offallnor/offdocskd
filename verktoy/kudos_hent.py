@@ -86,6 +86,10 @@ def main():
         t = sys.argv[sys.argv.index("--liste") + 1]
         fra = int(sys.argv[sys.argv.index("--fra") + 1]) if "--fra" in sys.argv else 0
         for r in sorted(alle, key=lambda r: r.get("publish_date") or "", reverse=True):
+            sok = sys.argv[sys.argv.index("--sok") + 1] if "--sok" in sys.argv else ""
+            tekst = " ".join([r.get("title") or "", r.get("abstract") or "", r.get("owners") or ""])
+            if sok and not re.search(sok, tekst, re.I):
+                continue
             if r.get("type") == t and int((r.get("publish_date") or "0")[:4] or 0) >= fra:
                 print("|".join([(r.get("publish_date") or "")[:10], (r.get("title") or "").strip(), ",".join(liste(r.get("owners"))),
                                 re.sub(r"\s+", " ", r.get("abstract") or "")[:200]]))
