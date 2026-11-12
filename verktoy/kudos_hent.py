@@ -116,7 +116,19 @@ def main():
     nye, feil = 0, []
     for t, o, r in valgte:
         rid = "KU-" + r["uuid"]
-        if rid in oversikt:
+        if rid in oversikt:   # lagret fra før: fyll inn felt som kom til senere, uten å hente på nytt
+            gml = oversikt[rid]
+            side = (r.get("external_public_url") or "").strip()
+            if side and not gml.get("side"):
+                gml["side"] = side
+                p = os.path.join(ROT, gml["fil"])
+                if os.path.exists(p):
+                    tekst = open(p, encoding="utf-8").read()
+                    if "- Les hele dokumentet:" not in tekst:
+                        tekst = tekst.replace("\n- Type:", f"\n- Les hele dokumentet: {side}\n- Type:", 1)
+                        open(p, "w", encoding="utf-8").write(tekst)
+            if not gml.get("mottakere"):
+                gml["mottakere"] = "|".join(liste(r.get("recipients")))
             continue
         if nye >= maks:
             break
