@@ -31,11 +31,12 @@ concurrency:
 jobs:
   hent:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: ${{ github.ref_name }}
+          fetch-depth: 0
 
       - name: Installer pdftotext
         run: sudo apt-get install -y -qq poppler-utils >/dev/null
@@ -60,4 +61,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -q -F "$melding"
-          git push
+          # main kan ha fått nye commits mens jobben kjørte; legg lagringen oppå før push.
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
