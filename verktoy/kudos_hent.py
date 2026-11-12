@@ -16,7 +16,7 @@ ROT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EKSPORT = "https://kudos.dfo.no/api/v0/documents/download/csv"
 UA = "Mozilla/5.0 (offentlige dokumenter)"
 OVERSIKT = os.path.join(ROT, "dokumenter.tsv")
-FELT = ["id", "type", "ar", "tittel", "eiere", "mottakere", "utforere", "fil", "kudos", "kilde", "ord", "hentet"]
+FELT = ["id", "type", "ar", "tittel", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "hentet"]
 
 
 def hent(url, forsok=4, pause=40):
@@ -134,20 +134,21 @@ def main():
         sti = os.path.join("dokumenter", o["mappe"], ar, f"{r['uuid'][:8]}-{slug(r.get('title') or '')}.md")
         os.makedirs(os.path.join(ROT, os.path.dirname(sti)), exist_ok=True)
         kudos = "https://kudos.dfo.no/dokument/" + r["uuid"]
-        kilde = (liste(r.get("source_file_urls")) or [r.get("external_public_url") or ""])[0]
+        kilde = (liste(r.get("source_file_urls")) or [""])[0]
+        side = (r.get("external_public_url") or "").strip()
         hode = [f"# {r.get('title') or ''}", "", f"- Type: {t}", f"- Publisert: {r.get('publish_date') or ''}",
                 f"- Eier: {', '.join(liste(r.get('owners')))}"]
         if liste(r.get("recipients")):
             hode.append(f"- Mottaker: {', '.join(liste(r.get('recipients')))}")
         if liste(r.get("authoring_actors")):
             hode.append(f"- Utført av: {', '.join(liste(r.get('authoring_actors')))}")
-        hode += [f"- Kudos: {kudos}", f"- Original: {kilde}" if kilde else "", f"- Hentet: {time.strftime('%Y-%m-%d')}",
+        hode += [f"- Les hele dokumentet: {side}" if side else "", f"- Original-PDF: {kilde}" if kilde else "", f"- Kudos: {kudos}", f"- Hentet: {time.strftime('%Y-%m-%d')}",
                  "", "Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.", "", "---", ""]
         with open(os.path.join(ROT, sti), "w", encoding="utf-8") as f:
             f.write("\n".join(x for x in hode if x is not None) + "\n" + tekst + "\n")
         oversikt[rid] = {"id": rid, "type": t, "ar": ar, "tittel": (r.get("title") or "").replace("\t", " "),
                          "eiere": "|".join(liste(r.get("owners"))), "mottakere": "|".join(liste(r.get("recipients"))), "utforere": "|".join(liste(r.get("authoring_actors"))),
-                         "fil": sti, "kudos": kudos, "kilde": kilde, "ord": str(len(tekst.split())), "hentet": time.strftime("%Y-%m-%d")}
+                         "fil": sti, "kudos": kudos, "side": side, "kilde": kilde, "ord": str(len(tekst.split())), "hentet": time.strftime("%Y-%m-%d")}
         nye += 1
         print(f"  {sti} ({len(tekst.split())} ord)", flush=True)
     skriv_oversikt(oversikt)
