@@ -10,6 +10,12 @@ on:
       maks:
         description: "Høyst så mange nye dokumenter i denne kjøringen"
         default: "300"
+      liste:
+        description: "Bare skriv ut alle dokumenter av denne typen (for eksempel «Melding til Stortinget»)"
+        default: ""
+      fra:
+        description: "Første år for lista"
+        default: "2015"
       diagnose:
         description: "Bare vis hva eksporten inneholder, lagre ingenting"
         type: boolean
@@ -38,7 +44,11 @@ jobs:
         env:
           MAKS: ${{ inputs.maks || '300' }}
           DIAGNOSE: ${{ inputs.diagnose && '--diagnose' || '' }}
-        run: python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE
+          LISTE: ${{ inputs.liste }}
+          FRA: ${{ inputs.fra || '2015' }}
+        run: |
+          if [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA"
+          else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE; fi
 
       - name: Lagre
         if: success() || failure()

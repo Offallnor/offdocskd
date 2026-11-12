@@ -82,6 +82,14 @@ def main():
         return 1
     alle = list(csv.DictReader(io.StringIO(data.decode("utf-8-sig", "replace")), delimiter=";"))
     print(f"{len(alle)} dokumenter i eksporten")
+    if "--liste" in sys.argv:   # skriv ut alle dokumenter av én type fra et år, uten å lagre noe
+        t = sys.argv[sys.argv.index("--liste") + 1]
+        fra = int(sys.argv[sys.argv.index("--fra") + 1]) if "--fra" in sys.argv else 0
+        for r in sorted(alle, key=lambda r: r.get("publish_date") or "", reverse=True):
+            if r.get("type") == t and int((r.get("publish_date") or "0")[:4] or 0) >= fra:
+                print("|".join([(r.get("publish_date") or "")[:10], (r.get("title") or "").strip(), ",".join(liste(r.get("owners"))),
+                                re.sub(r"\s+", " ", r.get("abstract") or "")[:200]]))
+        return 0
     valgte = []
     for t, o in typer.items():
         av_type = [r for r in alle if r.get("type") == t]
