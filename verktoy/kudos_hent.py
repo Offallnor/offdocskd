@@ -102,15 +102,22 @@ def main():
         egne = set(o.get("eiere", eiere))   # typen kan ha egne eiere; tom liste betyr alle eiere
         mine = [r for r in av_type if (not egne or egne & set(liste(r.get("owners"))))
                 and int((r.get("publish_date") or "0")[:4] or 0) >= o.get("fra_ar", 0)]
-        if o.get("ta_med"):   # bare dokumenter med disse titlene (for eksempel «NOU 2025: 1»)
-            mine = [r for r in mine if (r.get("title") or "").strip() in set(o["ta_med"])]
+        if o.get("ta_med") or o.get("ta_med_start"):
+            # ta_med: nøyaktig tittel (for eksempel «NOU 2025: 1»); ta_med_start: tittelen begynner slik
+            def nokkel(r):
+                t_ = (r.get("title") or "").strip()
+                if t_ in set(o.get("ta_med", [])):
+                    return t_
+                return next((s for s in o.get("ta_med_start", []) if t_.lower().startswith(s.lower())), None)
+            mine = [r for r in mine if nokkel(r)]
             # Samme tittel kan stå flere ganger (engelsk utgave, kopi uten sammendrag): behold én,
             # helst norsk, med sammendrag og PDF.
             beste = {}
             for r in mine:
-                t_ = (r.get("title") or "").strip()
+                t_ = nokkel(r)
                 poeng = ((r.get("language") or "").lower() not in ("en", "eng", "engelsk", "english"),
-                         bool(r.get("abstract")), any(f.lower().endswith(".pdf") for f in liste(r.get("file_urls"))))
+                         bool(r.get("abstract")), any(f.lower().endswith(".pdf") for f in liste(r.get("file_urls"))),
+                         r.get("publish_date") or "")
                 if t_ not in beste or poeng > beste[t_][0]:
                     beste[t_] = (poeng, r)
             mine = [r for _, r in beste.values()]
