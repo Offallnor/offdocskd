@@ -1,0 +1,53 @@
+name: Hent dokumenter fra Kudos
+
+# Hver uke: henter nye dokumenter (se dokumenter.json) fra DFØs Kudos og lagrer dem som tekst.
+# Se verktoy/kudos_hent.py. Endringene går rett i main.
+on:
+  schedule:
+    - cron: "20 5 * * 2"
+  workflow_dispatch:
+    inputs:
+      maks:
+        description: "Høyst så mange nye dokumenter i denne kjøringen"
+        default: "300"
+      diagnose:
+        description: "Bare vis hva eksporten inneholder, lagre ingenting"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kudos
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Installer pdftotext
+        run: sudo apt-get install -y -qq poppler-utils >/dev/null
+
+      - name: Hent dokumentene
+        env:
+          MAKS: ${{ inputs.maks || '300' }}
+          DIAGNOSE: ${{ inputs.diagnose && '--diagnose' || '' }}
+        run: python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE
+
+      - name: Lagre
+        if: success() || failure()
+        run: |
+          melding="$RUNNER_TEMP/melding.txt"
+          if [ -f kudos-rapport.txt ]; then mv kudos-rapport.txt "$melding"; else echo "Dokumenter fra Kudos" > "$melding"; fi
+          git add dokumenter dokumenter.tsv 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -F "$melding"
+          git push
