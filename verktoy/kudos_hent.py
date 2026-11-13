@@ -86,6 +86,10 @@ def main():
     print(f"{len(alle)} dokumenter i eksporten")
     if "--liste" in sys.argv:   # skriv ut alle dokumenter av én type fra et år, uten å lagre noe
         t = sys.argv[sys.argv.index("--liste") + 1]
+        if t == "typer":   # skriv ut hvilke dokumenttyper eksporten har
+            for k, n in Counter(r.get("type") for r in alle).most_common():
+                print(f"{n}\t{k}")
+            return 0
         fra = int(sys.argv[sys.argv.index("--fra") + 1]) if "--fra" in sys.argv else 0
         for r in sorted(alle, key=lambda r: r.get("publish_date") or "", reverse=True):
             sok = sys.argv[sys.argv.index("--sok") + 1] if "--sok" in sys.argv else ""
