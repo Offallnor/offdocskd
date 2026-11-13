@@ -6,10 +6,9 @@
 - Mottaker: De nasjonale forskningsetiske komiteene (FEK)
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629574
 - Original-PDF: https://www.regjeringen.no/contentassets/542398107435486b9aedb0737f9e3d34/statsbudsjettet-for-2022-tildelingsbrev-for-de-nasjonale-forskningsetiske-komiteene-.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/666df4de-54b9-466a-bf9b-5c8bcc388e8a
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

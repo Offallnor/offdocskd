@@ -18,7 +18,7 @@ UA = "Mozilla/5.0 (offentlige dokumenter)"
 OVERSIKT = os.path.join(ROT, "dokumenter.tsv")
 START = time.time()
 MINUTTER = 140
-FELT = ["id", "type", "ar", "tittel", "sammendrag", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "hentet"]
+FELT = ["id", "type", "ar", "tittel", "sammendrag", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "tekstkilde", "tabeller", "figurer", "tall_linjer", "hentet"]
 VEIVISER = os.path.join(ROT, "VEIVISER.md")
 
 
@@ -50,6 +50,54 @@ def slug(s, n=60):
 def sammendrag(r, n=300):
     t = re.sub(r"\s+", " ", r.get("abstract") or "").strip()
     return t if len(t) <= n else t[:n].rsplit(" ", 1)[0] + " …"
+
+
+def kvalitet(tekst):
+    """Tegn på at tabeller og figurer kan være lest feil: tabell- og figurtitler, budsjettabeller
+    og linjer som bare har tall (tall som er revet løs fra tabellen eller figuren de hørte til)."""
+    tabeller = len(re.findall(r"(?m)^\s*Tabell\s+\d+(\.\d+)*\s+[A-ZÆØÅ«]", tekst))
+    tabeller += 1 if re.search(r"(?m)^\s*(Kap\.|Post)\s*$", tekst) else 0   # budsjettabell der kolonnene er splittet
+    figurer = len(re.findall(r"(?m)^\s*Figur\s+\d+(\.\d+)*\s+[A-ZÆØÅ«]", tekst))
+    # Linjer med bare tall: beløp med tusenskille, desimaltall, prosent eller flere tall etter hverandre.
+    # Et enkelt heltall er oftest et sidetall.
+    # Kapittelnumre (9.4.2) og sesjoner (2022–2023) telles ikke.
+    tall = sum(1 for x in re.findall(r"(?m)^[ \t]*[-–]?\d[\d.,% \t–-]*$", tekst)
+               if re.search(r"\d \d{3}|\d,\d|%|\d\s+[-–]?\d", x.strip()) and not re.fullmatch(r"\d{4}\s*[–-]\s*\d{4}", x.strip()))
+    return tabeller, figurer, tall
+
+
+def varsel(tabeller, figurer, tall):
+    """Linja øverst i fila som sier om tabeller og figurer kan være lest feil."""
+    if tabeller == 0 and figurer == 0 and tall < 10:
+        return "- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil."
+    deler = []
+    if tabeller:
+        deler.append(f"{tabeller} {'tabell' if tabeller == 1 else 'tabeller'}")
+    if figurer:
+        deler.append(f"{figurer} {'figur' if figurer == 1 else 'figurer'}")
+    if tall >= 10:
+        deler.append(f"{tall} linjer med løsrevne tall")
+    return (f"- Tekst: hentet fra PDF. OBS: {', '.join(deler)}. Tall i tabeller og figurer kan være forskjøvet eller mangle. "
+            "Kontroller mot originalen før du bruker dem.")
+
+
+def merk_kvalitet(rad):
+    """Teller og skriver varsellinja i en lagret fil som har tekst fra PDF (gjøres på nytt hver kjøring, billig)."""
+    p = os.path.join(ROT, rad["fil"])
+    if not os.path.exists(p) or (rad.get("tekstkilde") or "pdf") != "pdf":
+        return
+    tekst = open(p, encoding="utf-8").read()
+    hode, sep, kropp = tekst.partition("\n---\n")
+    t, f, n = kvalitet(kropp)
+    rad.update(tekstkilde="pdf", tabeller=str(t), figurer=str(f), tall_linjer=str(n))
+    linje = varsel(t, f, n)
+    linjer = [x for x in hode.split("\n") if not x.startswith("- Tekst:")]
+    i = next((k for k, x in enumerate(linjer) if x.startswith("- Kudos:")), len(linjer))
+    linjer.insert(i, linje)
+    linjer = [x for x in linjer if not x.startswith("Teksten er hentet automatisk fra PDF-en")]
+    ny = "\n".join(linjer).rstrip("\n") + "\n" + sep + kropp
+    if ny != tekst:
+        open(p, "w", encoding="utf-8").write(ny)
 
 
 def arstall(tittel, publisert, o):
@@ -277,7 +325,7 @@ def main():
         if liste(r.get("authoring_actors")):
             hode.append(f"- Utført av: {', '.join(liste(r.get('authoring_actors')))}")
         hode += [f"- Les hele dokumentet: {side}" if side else "", f"- Original-PDF: {kilde}" if kilde else "", f"- Kudos: {kudos}", f"- Hentet: {time.strftime('%Y-%m-%d')}",
-                 "", "Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.", "", "---", ""]
+                 "", "---", ""]
         with open(os.path.join(ROT, sti), "w", encoding="utf-8") as f:
             f.write("\n".join(x for x in hode if x is not None) + "\n" + tekst + "\n")
         oversikt[rid] = {"id": rid, "type": t, "ar": ar, "tittel": (r.get("title") or "").replace("\t", " "), "sammendrag": sammendrag(r),
@@ -286,6 +334,8 @@ def main():
         nye += 1
         print(f"  {sti} ({len(tekst.split())} ord)", flush=True)
     flytt_til_riktig_ar(oversikt, typer)
+    for rad in oversikt.values():
+        merk_kvalitet(rad)
     skriv_oversikt(oversikt)
     skriv_veiviser(oversikt, typer)
     gjenstar = sum(1 for _, _, r in valgte if "KU-" + r["uuid"] not in oversikt) - len(feil)

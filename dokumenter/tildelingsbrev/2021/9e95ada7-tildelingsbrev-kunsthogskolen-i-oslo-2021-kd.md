@@ -6,10 +6,9 @@
 - Mottaker: Kunsthøgskolen i Oslo
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
 - Original-PDF: https://www.regjeringen.no/contentassets/72751a723c654b029d7c04f67e171275/tildelingsbrev-2021-for-kunsthogskolen-i-oslo-khio-.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-f5e0-432c-b6b6-05e09e95ada7
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: Norsk utenrikspolitisk institutt
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629603
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/tildelingsbrev-2026-til-norsk-utenrikspolitisk-institutt.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/2d7b7446-843a-45a6-8396-ce99a09766a3
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

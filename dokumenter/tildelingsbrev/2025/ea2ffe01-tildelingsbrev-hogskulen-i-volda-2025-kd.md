@@ -6,10 +6,9 @@
 - Mottaker: Høgskulen i Volda
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-2025/id3075320/
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-hogskulen-i-volda2454441.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-26e2-4df0-bd26-c27bea2ffe01
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

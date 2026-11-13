@@ -6,10 +6,9 @@
 - Mottaker: Høgskulen på Vestlandet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2023/id2952224/
 - Original-PDF: https://www.regjeringen.no/contentassets/7ec338e7b2254a078a51d173ed214968/supplerende-tildelingsbrev-2023-til-hogskulen-pa-vestlandet-hvl.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7793-33a0-4c7c-b881-01e3f4f7043d
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

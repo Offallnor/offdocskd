@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/videre-vekst-og-kvalitet-strategi-for-hoyere-yrkesfaglig-utdanning/id2865542/
 - Original-PDF: https://www.regjeringen.no/contentassets/73bad6b273184a5b9d41f7da9db50e4a/no/pdfs/strategi_yrkesfaglig-utdanning_kd.pdf
+- Tekst: hentet fra PDF. OBS: 56 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/f802e317-1c43-4ec9-b928-4513abcc3bdd
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

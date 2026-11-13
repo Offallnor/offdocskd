@@ -6,10 +6,9 @@
 - Mottaker: Høgskolen i Østfold
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-2025/id3075320/
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-hogskolen-i-ostfold2454447.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-1ded-4f65-ae98-a8fb5b8139f2
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

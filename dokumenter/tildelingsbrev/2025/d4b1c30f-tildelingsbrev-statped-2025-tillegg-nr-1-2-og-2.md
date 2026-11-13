@@ -6,10 +6,9 @@
 - Mottaker: Statped
 
 - Original-PDF: https://www.regjeringen.no/globalassets/departementene/kd/dokumenter/tillegg-til-tildelingsbrev-1-3-til-statped-2025.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 18 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/287cd49a-89db-49ce-be93-1eded4b1c30f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

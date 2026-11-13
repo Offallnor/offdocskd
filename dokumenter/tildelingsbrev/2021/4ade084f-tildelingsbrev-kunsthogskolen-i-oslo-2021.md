@@ -6,10 +6,9 @@
 - Mottaker: Kunsthøgskolen i Oslo
 - Les hele dokumentet: https://khio.no/om-kunsthogskolen-i-oslo/organisasjon#styringsdokument
 - Original-PDF: /dokument/f2cae8d1-4267-410f-8890-0b774ade084f/filer/e05e96ec-5fef-4f8c-aa4b-a463e2f3fddd.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/f2cae8d1-4267-410f-8890-0b774ade084f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

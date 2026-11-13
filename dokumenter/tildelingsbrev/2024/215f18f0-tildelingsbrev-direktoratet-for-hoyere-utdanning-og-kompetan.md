@@ -6,10 +6,9 @@
 - Mottaker: Direktoratet for høyere utdanning og kompetanse
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/sarskilte-oppdrag-hk-dir-2024.pdf
+- Tekst: hentet fra PDF. OBS: 15 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a14aee79-688e-40a5-bbf2-a413215f18f0
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

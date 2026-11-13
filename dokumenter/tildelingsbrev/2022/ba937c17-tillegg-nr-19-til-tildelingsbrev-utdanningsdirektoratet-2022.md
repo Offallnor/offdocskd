@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629613
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-nr.-19-til-tildelingsbrev-til-udir-for-2022-.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/7b3ad6f5-306d-4493-bf1d-8eddba937c17
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: Norges grønne fagskole (Vea)
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629601
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/vea-2-statsbudsjettet-2024-tillegg-til-tildelingsbrev-02-242453752.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/3f10f81f-a9a9-42ae-83db-a0d8c6a77eb5
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

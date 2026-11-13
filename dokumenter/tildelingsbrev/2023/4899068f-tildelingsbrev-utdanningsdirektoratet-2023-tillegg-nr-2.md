@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-til-tildelingsbrev-for-2023-til-udir-10.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 48 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/e347b6f8-a344-4e18-bd5c-fe744899068f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

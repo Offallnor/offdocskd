@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629598
 - Original-PDF: https://www.regjeringen.no/contentassets/2cb3961679964e34bc9c9c3f3d73565d/supplerande-tildelingsbrev-til-noregs-forskningsrad-for-2023-3.pdf
+- Tekst: hentet fra PDF. OBS: 18 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/3a88e8a2-1c13-4fe2-b3b9-ff72a5458537
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

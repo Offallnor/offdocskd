@@ -6,10 +6,9 @@
 - Mottaker: Arkitektur- og designhøgskolen i Oslo, Høgskolen i Molde, Høgskolen i Østfold, Høgskulen i Volda, Høgskulen på Vestlandet, Kunsthøgskolen i Oslo, Nord universitet, Norges handelshøgskole, Norges idrettshøgskole, NMBU, Norges musikkhøgskole, NTNU, OsloMet - storbyuniversitetet, Sámi allaskuvla Samisk høgskole, Universitetet i Agder, Universitetet i Bergen, Universitetet i Innlandet, Universitetet i Oslo, Universitetet i Stavanger, Universitetet i Sørøst-Norge, Universitetet i Tromsø
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629610
 - Original-PDF: https://www.regjeringen.no/contentassets/13ee8262d9d14e789db11fef841a3f29/supplerende-tildelingsbrev-nr.-3-til-de-statlige-uh-institusjonene-2022.pdf
+- Tekst: hentet fra PDF. OBS: 60 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/d6a478b3-655c-4be6-838f-3948d61bc062
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

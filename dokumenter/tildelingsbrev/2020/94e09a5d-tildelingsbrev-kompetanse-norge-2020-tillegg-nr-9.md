@@ -6,10 +6,9 @@
 - Mottaker: Direktoratet for høyere utdanning og kompetanse
 
 - Original-PDF: https://www.regjeringen.no/contentassets/e161bcf2b5bb44de99f4c19f45b2bc6e/tillegg-til-tildelingsbrev-nr.-09-2020-kompetanse-norge.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/c410ce97-3a52-4dc8-ba3c-081094e09a5d
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: Direktoratet for høyere utdanning og kompetanse
 
 - Original-PDF: https://www.regjeringen.no/contentassets/e161bcf2b5bb44de99f4c19f45b2bc6e/tillegg-til-tildelingsbrev-til-kompetanse-norge-nr.-3-2021.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/b75291c2-b3a8-487c-8d87-e8b326b0e056
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

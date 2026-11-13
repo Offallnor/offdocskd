@@ -6,10 +6,9 @@
 - Mottaker: Kunnskapssektorens tjenesteleverandør (Sikt)
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2894087
 - Original-PDF: https://www.regjeringen.no/contentassets/8f689d805906494c95b9aaeb45578e1f/tildelingsbrev-sikt-2023.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/39d5ba17-9b00-4d10-bf52-a87bcc444210
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

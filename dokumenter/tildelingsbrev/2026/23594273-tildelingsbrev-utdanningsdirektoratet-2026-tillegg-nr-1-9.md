@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 
 - Original-PDF: https://www.regjeringen.no/globalassets/episerver-forms/kd/tillegg-til-tildelingsbrev-udir-1-9-2026.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 47 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a1d1b66d-42b8-43a7-ad11-e1ab23594273
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

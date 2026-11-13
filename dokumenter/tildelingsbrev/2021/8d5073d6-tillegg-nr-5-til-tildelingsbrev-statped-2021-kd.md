@@ -6,10 +6,9 @@
 - Mottaker: Statped
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2692978
 - Original-PDF: https://www.regjeringen.no/contentassets/be296e8b0d8a48cc9ded7326b0330865/tillegg-til-tildelingsbrev-nr.-5-til-statped-2021.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/b777c3a1-0c44-4a5a-bd3d-a81f8d5073d6
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

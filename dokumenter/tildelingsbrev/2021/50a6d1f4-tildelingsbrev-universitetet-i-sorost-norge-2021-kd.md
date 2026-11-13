@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Sørøst-Norge
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
 - Original-PDF: https://www.regjeringen.no/contentassets/72751a723c654b029d7c04f67e171275/tildelingsbrev-2021-for-universitetet-i-sorost-norge-usn-.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 12 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-a1a8-464b-aa6a-834a50a6d1f4
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

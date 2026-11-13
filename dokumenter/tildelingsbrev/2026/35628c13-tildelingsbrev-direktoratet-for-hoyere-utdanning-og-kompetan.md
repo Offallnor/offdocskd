@@ -6,10 +6,9 @@
 - Mottaker: Direktoratet for høyere utdanning og kompetanse
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/hk-dir-supplerende-tildelingsbrev-2026-1-2.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a159035b-d1f3-433f-b793-699d35628c13
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

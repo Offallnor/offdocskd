@@ -6,10 +6,9 @@
 - Mottaker: Norsk utenrikspolitisk institutt
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629603
 - Original-PDF: https://www.regjeringen.no/contentassets/f4b2e51a8cfd4a7980caa2d2e6352825/statsbudsjettet-for-2022-tildelingsbrev-til-norsk-utenrikspolitisk-institutt-.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/bdf370a6-8093-4a56-aa37-9ddfe31e2cc3
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

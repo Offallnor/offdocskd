@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Sørøst-Norge
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-2025/id3075320/
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/supplerende-tildelingsbrev-statsbudsjettet-2025-kap.-275-post-21-midler-til-forsok-med-alternativ-organisering-av-larerutdanningene.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-fd43-4ed0-a4ea-73fbefb6bd3c
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

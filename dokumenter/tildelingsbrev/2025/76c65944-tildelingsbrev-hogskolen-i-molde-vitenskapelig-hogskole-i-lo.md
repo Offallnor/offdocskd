@@ -6,10 +6,9 @@
 - Mottaker: Høgskolen i Molde
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-2025/id3075320/
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-hogskolen-i-molde-vitenskapelig-hogskole-i-logistikk2454452.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-15bf-4a26-adc7-897c76c65944
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

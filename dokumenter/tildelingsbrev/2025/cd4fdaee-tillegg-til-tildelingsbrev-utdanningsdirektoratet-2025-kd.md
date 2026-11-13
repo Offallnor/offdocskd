@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629613
 - Original-PDF: /dokument/067b2ed2-17b7-487f-bcc6-54adcd4fdaee/filer/2af16381-b9d0-4162-9a92-a34f26e5c837.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 170 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/067b2ed2-17b7-487f-bcc6-54adcd4fdaee
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

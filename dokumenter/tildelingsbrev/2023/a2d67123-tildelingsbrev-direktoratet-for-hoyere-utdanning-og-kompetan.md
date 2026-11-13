@@ -6,10 +6,9 @@
 - Mottaker: Direktoratet for høyere utdanning og kompetanse
 
 - Original-PDF: https://www.regjeringen.no/contentassets/a72885b2c807452ebd81b0fc32bd1e52/supplerende-tildelingsbrev-til-hk-dir-for-2023-62.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 18 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/44e6f768-eb19-4b4c-b69d-3ccba2d67123
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

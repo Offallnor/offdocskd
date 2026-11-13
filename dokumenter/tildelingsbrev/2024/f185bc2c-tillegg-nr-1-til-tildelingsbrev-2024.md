@@ -6,10 +6,9 @@
 - Mottaker: Foreldreutvalget for grunnopplæring
 
 - Original-PDF: https://www.regjeringen.no/globalassets/departementene/kd/dokumenter/tillegg-nr-1-til-tildelingsbrevet-for-fug-og-fub-2024.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/c844aa89-209b-4b69-ba72-7679f185bc2c
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

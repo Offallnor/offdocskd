@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629613
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-til-tildelingsbrev-til-udir-nr.-14-for-2021.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 20 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/d43a8175-663b-4bd7-bd86-d293ab37c95b
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/tildelingsbrev-2022/tildelingsbrev-norges-forskningsrad-2022/id2892236/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc3a93ed689341d0ace62f13a4b40d0a/tildelingsbrev-til-norges-forskningsrad-for-2022-.pdf
+- Tekst: hentet fra PDF. OBS: 16 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a778b-ae92-4ae5-857a-4d15f2f91e42
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

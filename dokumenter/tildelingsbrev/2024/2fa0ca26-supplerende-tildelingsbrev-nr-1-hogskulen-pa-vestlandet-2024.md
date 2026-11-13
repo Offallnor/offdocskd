@@ -6,10 +6,9 @@
 - Mottaker: Høgskulen på Vestlandet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2024/id3018875/
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/statsbudsjettet-2024-kap.-275-post-21.-supplerende-tildelingsbrev-til-hogskulen-pa-vestlandet-om-evaluerin621924930.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7792-3400-43f2-8178-dfc62fa0ca26
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

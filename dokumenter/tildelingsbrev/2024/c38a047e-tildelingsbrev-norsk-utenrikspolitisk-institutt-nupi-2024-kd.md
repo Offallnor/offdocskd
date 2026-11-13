@@ -6,10 +6,9 @@
 - Mottaker: Norsk utenrikspolitisk institutt
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629603
 - Original-PDF: https://www.regjeringen.no/contentassets/f4b2e51a8cfd4a7980caa2d2e6352825/tildelingsbrev-nupi-20242295115.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/2762e4a0-e30d-4da8-b081-7a72c38a047e
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

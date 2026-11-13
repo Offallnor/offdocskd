@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/strategi-for-norsk-deltakelse-i-erasmus-og-det-europeiske-utdanningsomradet/id2863355/
 - Original-PDF: https://www.regjeringen.no/contentassets/b5b57900ef6b4542b8b2d70b2c46b658/212540-kd-strategi-erasmus-web.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/0b5c8be2-c16a-402b-95e8-4509f59cba7f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

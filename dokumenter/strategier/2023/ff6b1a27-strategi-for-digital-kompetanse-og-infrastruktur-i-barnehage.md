@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/strategi-for-digital-kompetanse-og-infrastruktur-i-barnehage-og-skole/id2972254/
 - Original-PDF: https://www.regjeringen.no/contentassets/3fc31c3d9df14cc4a91db85d3421501e/no/pdfs/strategi-for-digital-kompetanse-og-infrastruktur.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/c9a47260-87e7-4baa-b281-14b1ff6b1a27
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

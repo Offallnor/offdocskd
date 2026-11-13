@@ -6,10 +6,9 @@
 - Mottaker: Foreldreutvalget for grunnopplæring
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629580
 - Original-PDF: https://www.regjeringen.no/contentassets/23667471e5dd4406a238a8c05052940b/supplerende-tildelingsbrev-til-fek-for-2023-4.pdf
+- Tekst: hentet fra PDF. OBS: 12 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/eb8132e8-448a-4b59-8124-836290013785
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

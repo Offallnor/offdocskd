@@ -6,10 +6,9 @@
 - Mottaker: Integrerings- og mangfoldsdirektoratet
 
 - Original-PDF: https://www.regjeringen.no/contentassets/5be5c97123954550a313256d8bad54e8/tillegg-nr.-6-til-tildelingsbrev-2021-for-imdi.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/8e5cdf25-cb38-4344-9603-7482ae8a0b0b
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

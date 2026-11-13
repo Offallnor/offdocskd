@@ -6,10 +6,9 @@
 - Mottaker: NOKUT
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629594
 - Original-PDF: https://www.regjeringen.no/contentassets/4bb631b61a64468d88a69176ed9097d8/supplerende-tildelingsbrev-nr.-1-til-nokut-overforte-midler-fra-2025-til-2026.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a154fd64-47ce-4daa-8a4a-c5576a46e9fb
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: Arkitektur- og designhøgskolen i Oslo, Høgskolen i Molde, Høgskolen i Østfold, Høgskulen i Volda, Høgskulen på Vestlandet, Kunsthøgskolen i Oslo, Nord universitet, Norges handelshøgskole, Norges idrettshøgskole, NMBU, Norges musikkhøgskole, NTNU, OsloMet - storbyuniversitetet, Sámi allaskuvla Samisk høgskole, Universitetet i Agder, Universitetet i Bergen, Universitetet i Innlandet, Universitetet i Oslo, Universitetet i Stavanger, Universitetet i Sørøst-Norge, Universitetet i Tromsø
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629610
 - Original-PDF: https://www.regjeringen.no/contentassets/a4d6e8be817b481885d12b0e5a6dde39/supplerende-tildelingsbrev-nr-1-uh-prop-51-s.pdf
+- Tekst: hentet fra PDF. OBS: 52 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/75426904-48d6-4378-8bd1-58493778090d
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

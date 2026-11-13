@@ -6,10 +6,9 @@
 - Mottaker: De nasjonale forskningsetiske komiteene (FEK)
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629574
 - Original-PDF: https://www.regjeringen.no/contentassets/542398107435486b9aedb0737f9e3d34/tildelingsbrev-fek-20242296378.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/406fc81f-af45-465f-9c96-ac3977ecc217
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

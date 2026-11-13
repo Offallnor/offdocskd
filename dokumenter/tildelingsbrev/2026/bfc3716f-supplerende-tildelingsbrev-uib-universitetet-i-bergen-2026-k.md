@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Bergen
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2026/id3141095/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd39e5357ca74704a531e63be939a233/supplerende-tildelingsbrev-statsbudsjettet-2026-kap.-289-post-51-uib-holbergprisen.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a778f-f1b3-46a5-bcad-bb8abfc3716f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

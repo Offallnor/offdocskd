@@ -6,10 +6,9 @@
 - Mottaker: Foreldreutvalget for grunnopplæring
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629580
 - Original-PDF: https://www.regjeringen.no/contentassets/23667471e5dd4406a238a8c05052940b/tildelingsbrev-til-fub-og-fug-for-2023.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/5b9a6c7a-080a-4fdb-b15f-53cd5cab774d
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

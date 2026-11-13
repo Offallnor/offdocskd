@@ -6,10 +6,9 @@
 - Mottaker: Kunnskapssektorens tjenesteleverandør (Sikt)
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/supplerende-tildelingsbrev-statsbudsjettet-2025-kap-201-post-21-til-sikt-om-oppfolging-av-grunnleggende-na372356182.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/fdee815c-75f3-47eb-a8cd-8128875a80ab
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

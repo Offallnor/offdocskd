@@ -6,10 +6,9 @@
 - Mottaker: Høgskolen i Østfold
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2024/id3018875/
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/tildelingsbrev-2024-hogskolen-i-ostfold2296912.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7792-1b71-4c8f-8c84-9aa68e4827b4
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

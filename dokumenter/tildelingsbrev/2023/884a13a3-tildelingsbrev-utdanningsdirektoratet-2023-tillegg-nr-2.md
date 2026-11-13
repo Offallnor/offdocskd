@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-til-tildelingsbrev-for-2023-til-udir-3.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/9ca1cae5-aea1-45fe-9622-5710884a13a3
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

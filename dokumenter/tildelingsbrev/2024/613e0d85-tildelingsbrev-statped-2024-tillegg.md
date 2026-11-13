@@ -6,10 +6,9 @@
 - Mottaker: Statped
 
 - Original-PDF: https://www.regjeringen.no/contentassets/be296e8b0d8a48cc9ded7326b0330865/tillegg-nr-1-til-tildelingsbrev-til-statped-for-2024.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/8097577e-be8b-4bcf-b952-54c3613e0d85
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

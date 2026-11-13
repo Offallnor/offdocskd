@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/strategi-for-digital-omstilling-i-universitets-og-hoyskolesektoren/id2870981/
 - Original-PDF: https://www.regjeringen.no/contentassets/c151afba427f446b8aa44aa1a673e6d6/no/pdfs/kd-strategi-digital-omstilling.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/6ef3ef54-4b6a-417e-98ad-08fc63815adf
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

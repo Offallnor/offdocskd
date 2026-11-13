@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Sørøst-Norge
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
 - Original-PDF: https://www.regjeringen.no/contentassets/72751a723c654b029d7c04f67e171275/supplerende-tildelingsbrev-statsbudsjettet-2021-usn-markom2020-soknad-om-tildeling-av-pro.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-aa75-43ad-b809-6fc9fa1986b6
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

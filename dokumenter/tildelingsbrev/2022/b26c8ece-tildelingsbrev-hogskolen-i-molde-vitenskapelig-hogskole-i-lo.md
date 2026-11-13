@@ -6,10 +6,9 @@
 - Mottaker: Høgskolen i Molde
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2022/id2892154/
 - Original-PDF: https://www.regjeringen.no/contentassets/a51ecc138e1c4f85b66c490415771025/statsbudsjettet-2022-tildelingsbrev-for-hogskolen-i-molde-vitenskapelig-hogskole-i-log.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7793-fca2-4431-8692-aed2b26c8ece
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

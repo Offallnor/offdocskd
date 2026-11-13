@@ -6,10 +6,9 @@
 - Mottaker: 22. juli-senteret
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2668747
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/statsbudsjettet-2025-tillegg-til-tildelingsbrev-nr.-01-2025-22.juli-senteret-overforing-av-ubrukte-midler-fra-2024.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/1c4fdcc9-9bb0-4ad9-9b4b-15ec98ec8c87
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

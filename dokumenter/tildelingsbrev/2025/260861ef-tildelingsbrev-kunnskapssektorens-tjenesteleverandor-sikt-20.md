@@ -6,10 +6,9 @@
 - Mottaker: Kunnskapssektorens tjenesteleverandør (Sikt)
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/sikt-supplerende-tildelingsbrev-2025-1-3.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/f3c61a0b-228e-4394-b333-cd87260861ef
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

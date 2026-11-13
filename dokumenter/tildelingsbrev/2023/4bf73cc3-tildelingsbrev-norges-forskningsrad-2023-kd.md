@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/tildelingsbrev-2023/tildelingsbrev-norges-forskningsrad-2023/id2952357/
 - Original-PDF: https://www.regjeringen.no/contentassets/522cd896e17c4e90adbcf4752e1932e3/tildelingsbrev-til-norges-forskningsrad-for-2023.pdf
+- Tekst: hentet fra PDF. OBS: 14 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a778b-944d-4716-aeb1-49354bf73cc3
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

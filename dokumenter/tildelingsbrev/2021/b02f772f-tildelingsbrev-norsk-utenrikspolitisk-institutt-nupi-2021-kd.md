@@ -6,10 +6,9 @@
 - Mottaker: Norsk utenrikspolitisk institutt
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629603
 - Original-PDF: https://www.regjeringen.no/contentassets/f4b2e51a8cfd4a7980caa2d2e6352825/statsbudsjettet-for-2021-tildelingsbrev-for-norsk-utenrikspolitisk-institutt-.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/6a99f7aa-ac69-4b2c-882d-ba6db02f772f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

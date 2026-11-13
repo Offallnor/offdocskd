@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Innlandet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2024/id3018875/
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/tildelingsbrev-2024-hogskolen-i-innlandet2296892.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7792-0b6d-4d18-9ae2-36a99590bf2e
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

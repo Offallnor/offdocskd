@@ -6,10 +6,9 @@
 - Mottaker: NOKUT
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629594
 - Original-PDF: https://www.regjeringen.no/contentassets/4bb631b61a64468d88a69176ed9097d8/supplerende-tildelingsbrev-nr.-6-til-nokut-for-2022.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/7f4619d1-848a-46cb-8654-819604cf1c32
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

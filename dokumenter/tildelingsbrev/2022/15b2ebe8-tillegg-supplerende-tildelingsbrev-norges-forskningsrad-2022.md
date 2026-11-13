@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629598
 - Original-PDF: https://www.regjeringen.no/contentassets/2cb3961679964e34bc9c9c3f3d73565d/tillegg-supplerende-tildelingsbrev-nfr-2022.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/42d20c07-504b-4e33-86ab-b74d15b2ebe8
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

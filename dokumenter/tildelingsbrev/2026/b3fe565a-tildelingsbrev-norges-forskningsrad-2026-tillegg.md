@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd, Riksrevisjonen
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/supplerende-tildelingsbrev-nr.-2-til-norges-forskningsrad-2026-oppdrag-om-kunnskapsgrunnlag-for-vurdering-av-sensitive-te260435.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/17991fad-14d8-47c5-be34-5477b3fe565a
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

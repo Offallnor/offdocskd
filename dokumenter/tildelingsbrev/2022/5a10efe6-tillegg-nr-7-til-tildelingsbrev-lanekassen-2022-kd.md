@@ -6,10 +6,9 @@
 - Mottaker: Statens lånekasse for utdanning
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629591
 - Original-PDF: https://www.regjeringen.no/contentassets/27d3c565a1594d629a77d519ed546218/tillegg-nr.-7-til-tildelingsbrev-til-lanekassen-for-2022.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 87 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/8fbd1da2-9d58-4c37-8e6a-62f95a10efe6
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

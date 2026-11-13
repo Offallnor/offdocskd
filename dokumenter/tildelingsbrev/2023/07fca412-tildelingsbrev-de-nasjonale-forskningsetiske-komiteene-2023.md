@@ -6,10 +6,9 @@
 - Mottaker: De nasjonale forskningsetiske komiteene (FEK)
 
 - Original-PDF: https://www.regjeringen.no/contentassets/542398107435486b9aedb0737f9e3d34/supplerende-tildelingsbrev-til-fek-for-2023.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/595b1679-a338-465c-b548-b50f07fca412
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

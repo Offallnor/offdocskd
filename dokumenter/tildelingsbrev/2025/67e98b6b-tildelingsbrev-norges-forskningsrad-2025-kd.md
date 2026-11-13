@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/tildelingsbrev-20252/tildelingsbrev-norges-forskningsrad-2025/id3080158/
 - Original-PDF: https://www.regjeringen.no/contentassets/57ee20c58c6f4aef97d237089217ee67/tildelingsbrev-for-2025-til-norges-forskningsrad2454444.pdf
+- Tekst: hentet fra PDF. OBS: 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a778b-6cb2-4712-9b89-d57967e98b6b
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

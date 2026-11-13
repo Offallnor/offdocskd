@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/strategi-for-forskerrekruttering-og-karriereutvikling/id2903920/
 - Original-PDF: https://www.regjeringen.no/contentassets/f14b4981c2f549489941bc607cf9bc5f/strategi-forskning-web_uu.pdf
+- Tekst: hentet fra PDF. OBS: 7 tabeller, 10 figurer, 339 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/30cc4e06-f15d-4293-a1a4-dfc9efd10c38
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: De nasjonale forskningsetiske komiteene (FEK)
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629574
 - Original-PDF: https://www.regjeringen.no/contentassets/542398107435486b9aedb0737f9e3d34/supplerende-tildelingsbrev-nr.-2-til-fek-2022.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/d2a24ad7-509c-4a71-a802-fc0d6a0085a1
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

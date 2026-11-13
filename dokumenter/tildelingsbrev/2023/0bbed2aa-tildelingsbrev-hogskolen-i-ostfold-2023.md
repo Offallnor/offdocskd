@@ -6,10 +6,9 @@
 - Mottaker: Høgskolen i Østfold
 - Les hele dokumentet: https://www.hiof.no/om/styringsdokumenter-rapporter/styringsdokumenter/
 - Original-PDF: /dokument/4d840556-9ee4-4f55-b138-b3d90bbed2aa/filer/5ab973ae-969a-4c29-93ee-198689e07b24.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/4d840556-9ee4-4f55-b138-b3d90bbed2aa
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

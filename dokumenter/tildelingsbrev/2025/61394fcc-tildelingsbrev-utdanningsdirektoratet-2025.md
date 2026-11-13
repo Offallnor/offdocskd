@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/tildelingsbrev-utdanningsdirektoratet-2025.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 111 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/51914b15-3b9e-426c-8744-884761394fcc
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

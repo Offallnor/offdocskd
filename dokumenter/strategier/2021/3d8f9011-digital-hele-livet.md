@@ -5,10 +5,9 @@
 - Eier: Digitaliserings- og forvaltningsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/digital-hele-livet/id2870833/
 - Original-PDF: https://www.regjeringen.no/contentassets/8f8751780e9749bfa8946526b51f10f4/digital-hele-livet.pdf
+- Tekst: hentet fra PDF. OBS: 2 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/4e0c267d-f3e5-48eb-b9ca-822f3d8f9011
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

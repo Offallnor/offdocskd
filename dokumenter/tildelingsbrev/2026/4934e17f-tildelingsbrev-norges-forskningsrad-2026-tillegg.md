@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/nfr-supplerende-tildelingsbrev-1-3-2026.pdf
+- Tekst: hentet fra PDF. OBS: 13 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a154fd63-ffb6-4673-a9dc-84b34934e17f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

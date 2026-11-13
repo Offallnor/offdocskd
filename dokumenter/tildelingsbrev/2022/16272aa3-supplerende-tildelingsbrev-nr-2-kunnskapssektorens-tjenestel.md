@@ -6,10 +6,9 @@
 - Mottaker: Kunnskapssektorens tjenesteleverandør (Sikt)
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2894087
 - Original-PDF: https://www.regjeringen.no/contentassets/8f689d805906494c95b9aaeb45578e1f/supplerende-tildelingsbrev-nr.-2-til-sikt-for-2022-.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/c3db7f49-660a-485a-a484-352416272aa3
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

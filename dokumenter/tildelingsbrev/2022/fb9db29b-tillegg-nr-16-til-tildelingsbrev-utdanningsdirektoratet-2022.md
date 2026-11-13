@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629613
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-nr.-16-til-tildelingsbrev-til-udir-for-2022.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 32 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a8296233-27c6-487a-a524-a9c4fb9db29b
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

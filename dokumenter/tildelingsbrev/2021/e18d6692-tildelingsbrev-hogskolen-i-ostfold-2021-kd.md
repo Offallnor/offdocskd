@@ -6,10 +6,9 @@
 - Mottaker: Høgskolen i Østfold
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
 - Original-PDF: https://www.regjeringen.no/contentassets/72751a723c654b029d7c04f67e171275/tildelingsbrev-2021-for-hogskolen-i-ostfold-.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-d361-4164-99a1-963be18d6692
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

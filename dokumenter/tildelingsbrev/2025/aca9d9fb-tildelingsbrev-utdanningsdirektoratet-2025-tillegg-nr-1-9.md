@@ -7,10 +7,9 @@
 - Utført av: Kunnskapsdepartementet
 
 - Original-PDF: https://www.regjeringen.no/globalassets/departementene/kd/dokumenter/tillegg-til-tildelingsbrev-til-udir-1-9-2025.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 37 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/3b531979-d89d-4094-ac4c-3c8faca9d9fb
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

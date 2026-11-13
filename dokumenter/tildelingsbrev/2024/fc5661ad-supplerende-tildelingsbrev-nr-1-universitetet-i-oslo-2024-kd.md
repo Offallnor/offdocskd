@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Oslo
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2024/id3018875/
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/supplerende-tildelingsbrev-nr.-1-til-universitetet-i-oslo-for-norwegian-internet-exchange-nix.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-ccc7-473e-b7cc-02d3fc5661ad
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

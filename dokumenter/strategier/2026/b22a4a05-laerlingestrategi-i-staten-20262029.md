@@ -6,10 +6,9 @@
 - Utført av: Digitaliserings- og forvaltningsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/larlingestrategi-i-staten/id3164761/
 - Original-PDF: https://www.regjeringen.no/contentassets/fda6c43704074a01a8798d6ee46a7201/no/pdfs/laerlingestrategi-i-staten.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a1fb5edf-20d7-448e-9cc8-ba86b22a4a05
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

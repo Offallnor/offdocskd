@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 
 - Original-PDF: https://www.regjeringen.no/contentassets/2cb3961679964e34bc9c9c3f3d73565d/supplerende-tildelingsbrev-nr.-2-til-norges-forskningsrad-2022.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/43ab2ad8-1780-481d-afa9-c9a13bec7ef1
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

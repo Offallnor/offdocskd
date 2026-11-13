@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Bergen
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2022/id2892154/
 - Original-PDF: https://www.regjeringen.no/contentassets/a51ecc138e1c4f85b66c490415771025/supplerende-tildelingsbrev-nr.-2-til-uib-for-2022.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7793-a699-401e-b37e-36615b4a0aba
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

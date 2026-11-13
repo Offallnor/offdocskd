@@ -6,10 +6,9 @@
 - Mottaker: Nord universitet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
 - Original-PDF: https://www.regjeringen.no/contentassets/72751a723c654b029d7c04f67e171275/tildelingsbrev-2021-for-nord-universitet-.pdf
+- Tekst: hentet fra PDF. OBS: 12 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-467c-42c5-aa20-8d8c349f6272
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

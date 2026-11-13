@@ -6,10 +6,9 @@
 - Mottaker: 22. juli-senteret
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2668747
 - Original-PDF: https://www.regjeringen.no/contentassets/91a9b88028c94e1dab5fb0ad0b4f7148/tildelingsbrev-til-22.-juli-senteret-for-2021.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/b7a71934-056d-4d23-92af-b278a94d92f2
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

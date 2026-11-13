@@ -6,10 +6,9 @@
 - Mottaker: Norges handelshøgskole
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2026/id3141095/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd39e5357ca74704a531e63be939a233/tildelingsbrev-2026-norges-handelshoyskole.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-67f0-4df0-ad63-764e4cdb46ac
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: 22. juli-senteret
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2668747
 - Original-PDF: https://www.regjeringen.no/contentassets/91a9b88028c94e1dab5fb0ad0b4f7148/tillegg-nr.-2-til-tildelingsbrev-til-22.-juli-senteret-2022.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/e52fbd08-fe4d-4764-9804-40bc68d63bb6
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

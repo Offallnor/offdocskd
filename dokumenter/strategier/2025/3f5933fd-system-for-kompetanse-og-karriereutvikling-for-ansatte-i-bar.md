@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/system-for-kompetanse-og-karriereutvikling-for-ansatte-i-barnehage-og-skole/id3098922/
 - Original-PDF: https://www.regjeringen.no/contentassets/ea77600fe5a64ac39c245d8396e0e328/no/pdfs/strategi-kompetanseutvikling-for-alle-ansatte.pdf
+- Tekst: hentet fra PDF. OBS: 1 figur. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/b25a18a1-3756-496b-8d58-1cfa3f5933fd
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

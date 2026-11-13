@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Agder
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-2025/id3075320/
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-universitetet-i-agder2454455.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-ccd9-4925-8073-8a1cc9d71059
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

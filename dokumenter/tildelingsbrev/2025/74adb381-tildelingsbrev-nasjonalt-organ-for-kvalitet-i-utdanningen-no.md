@@ -6,10 +6,9 @@
 - Mottaker: NOKUT
 
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/supplerende-tildelingsbrev-nr.-til-nokut-kap.-271-om-overforte-midler-fra-2024-til-2025-2485767.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/0ac08a42-3e62-4845-a41c-d7fa74adb381
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

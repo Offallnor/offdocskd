@@ -6,10 +6,9 @@
 - Utført av: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/desentralisert-og-fleksibel-utdanning-ved-fagskoler-hoyskoler-og-universiteter/id2861368/
 - Original-PDF: https://www.regjeringen.no/contentassets/a8e31ac92f1244d0ac3644d4a1c08d03/desentralisert_og_fleksibel_utdanning_ved_fagskoler_hoyskoler_og_universiteter_250621.pdf
+- Tekst: hentet fra PDF. OBS: 2 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/97e79b84-2fce-4fca-840b-8cb05b5b406d
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

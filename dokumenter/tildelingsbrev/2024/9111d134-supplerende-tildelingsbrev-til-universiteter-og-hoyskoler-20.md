@@ -6,10 +6,9 @@
 - Mottaker: Arkitektur- og designhøgskolen i Oslo, Høgskolen i Molde, Høgskolen i Østfold, Høgskulen i Volda, Høgskulen på Vestlandet, Kunsthøgskolen i Oslo, Nord universitet, Norges handelshøgskole, Norges idrettshøgskole, NMBU, Norges musikkhøgskole, NTNU, OsloMet - storbyuniversitetet, Sámi allaskuvla Samisk høgskole, Universitetet i Agder, Universitetet i Bergen, Universitetet i Innlandet, Universitetet i Oslo, Universitetet i Stavanger, Universitetet i Sørøst-Norge, Universitetet i Tromsø
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629610
 - Original-PDF: https://www.regjeringen.no/contentassets/13ee8262d9d14e789db11fef841a3f29/supplerende-tildelingsbrev-revidert-nasjonalbudsjett-2024-kap.-260-post-50-statlige-universiteter-og-2383249.pdf
+- Tekst: hentet fra PDF. OBS: 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/5aba49fe-7cb5-46de-97b4-017a9111d134
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

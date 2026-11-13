@@ -6,10 +6,9 @@
 - Mottaker: NOKUT
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629594
 - Original-PDF: https://www.regjeringen.no/contentassets/4bb631b61a64468d88a69176ed9097d8/tildelingsbrev-2024-til-nasjonalt-organ-for-kvalitet-i-utdanningen2296720.pdf
+- Tekst: hentet fra PDF. OBS: 12 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/cb6bdd8e-0c8d-4081-9634-71e72d4554b8
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629598
 - Original-PDF: https://www.regjeringen.no/contentassets/2cb3961679964e34bc9c9c3f3d73565d/revidert-nasjonalbudsjett-2024-kap.-285-post-55.-supplerende-tildelingsbrev-til-norges-forskningsrad.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/9b76b832-538e-48b1-85d9-9239e7b90b63
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

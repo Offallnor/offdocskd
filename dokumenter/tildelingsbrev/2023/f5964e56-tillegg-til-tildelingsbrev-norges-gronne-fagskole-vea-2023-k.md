@@ -6,10 +6,9 @@
 - Mottaker: Norges grønne fagskole (Vea)
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629601
 - Original-PDF: https://www.regjeringen.no/contentassets/fd0e674f1d324b25818659cd425012b4/tillegg-til-tildelingsbrev-til-vea-for-2023-4.pdf
+- Tekst: hentet fra PDF. OBS: 12 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/8d22eb77-c3aa-43ed-ab69-47d1f5964e56
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

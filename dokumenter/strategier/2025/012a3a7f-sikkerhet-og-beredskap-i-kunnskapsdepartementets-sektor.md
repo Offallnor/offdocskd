@@ -6,10 +6,9 @@
 - Utført av: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/styringsdokument-for-arbeid-med-sikkerhet-og-beredskap-i-kunnskapsdepartementets-sektor/id3096694/
 - Original-PDF: https://www.regjeringen.no/contentassets/f856bbb85cf9499cb5fbfb74110b23bc/no/pdfs/styringsdokument_sikkerhet-og-beredskap.pdf
+- Tekst: hentet fra PDF. OBS: 1 figur. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/c2ab23a9-5590-4234-99e2-b97c012a3a7f
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

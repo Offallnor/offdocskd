@@ -6,10 +6,9 @@
 - Utført av: Næringslivets hovedorganisasjon, KS Kommunesektorens organisasjon, Private barnehagers landsforbund, Utdanningsforbundet, Elevorganisasjonen
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/strategi-for-larerrekruttering/id3025152/
 - Original-PDF: https://www.regjeringen.no/contentassets/8128968a5e434438bf01f9ca0eced5cf/no/pdfs/f-4489-b_strategi-for-laererrekruttering.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 4 figurer, 28 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/7e920f7d-e0b0-4a21-bafa-59c2072700c2
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

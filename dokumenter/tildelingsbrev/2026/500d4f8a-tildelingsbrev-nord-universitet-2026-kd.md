@@ -6,10 +6,9 @@
 - Mottaker: Nord universitet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2026/id3141095/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd39e5357ca74704a531e63be939a233/tildelingsbrev-2026-nord-universitet.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a778f-bde4-43d7-8ea6-4440500d4f8a
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

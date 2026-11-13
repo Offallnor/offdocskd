@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/panorama/id2845297/
 - Original-PDF: https://www.regjeringen.no/contentassets/aaea1ae1efe142b9b0f5b7541b6338c0/f-4462-b_panorama_strategi.pdf
+- Tekst: hentet fra PDF. OBS: 16 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/4059df7f-71fd-4f2f-a320-a7f94aff1108
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

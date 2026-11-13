@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/tildelingsbrev-2024/tildelingsbrev-norges-forskningsrad-20242/id3019270/
 - Original-PDF: https://www.regjeringen.no/contentassets/6b5ce1d6d8f9444bb9c8b23abb946aa3/tildelingsbrev-for-2024-til-norges-forskningsrad.pdf
+- Tekst: hentet fra PDF. OBS: 16 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a778b-7c94-47a9-b459-ad7585a2853b
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

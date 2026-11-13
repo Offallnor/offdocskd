@@ -6,10 +6,9 @@
 - Mottaker: Arkitektur- og designhøgskolen i Oslo, Høgskolen i Molde, Høgskolen i Østfold, Høgskulen i Volda, Høgskulen på Vestlandet, Kunsthøgskolen i Oslo, Nord universitet, Norges handelshøgskole, Norges idrettshøgskole, NMBU, Norges musikkhøgskole, NTNU, OsloMet - storbyuniversitetet, Sámi allaskuvla Samisk høgskole, Universitetet i Agder, Universitetet i Bergen, Universitetet i Innlandet, Universitetet i Oslo, Universitetet i Stavanger, Universitetet i Sørøst-Norge, Universitetet i Tromsø
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629610
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/supplerende-tildelingsbrev-nr.-1-til-statlige-universiteter-og-hoyskoler-om-tilleggsbevilgninger-og-omprioriteringer-i-statsbuds.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a26bfb41-6477-4c76-9c20-3189aa2ae1e6
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

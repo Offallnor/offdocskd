@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/tildelingsbrev-2021/tildelingsbrev-norges-forskningsrad-2021/id2815510/
 - Original-PDF: https://www.regjeringen.no/contentassets/b38191c18b7b423496022e468c98c4aa/nfr-supplerende-tildelingsbrev-for-2021.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a778b-dd57-4f0d-a49c-bfd7dfd30dd4
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

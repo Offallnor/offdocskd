@@ -6,10 +6,9 @@
 - Mottaker: Statped
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2692978
 - Original-PDF: https://www.regjeringen.no/contentassets/be296e8b0d8a48cc9ded7326b0330865/tildelingsbrev-til-statped-2024.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/5384221e-cdc5-4848-b03d-744f884cbfef
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

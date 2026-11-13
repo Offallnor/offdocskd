@@ -6,10 +6,9 @@
 - Mottaker: Høgskolen i Molde
 - Les hele dokumentet: https://www.himolde.no/om/
 - Original-PDF: /dokument/a15383d9-505c-456d-97cd-fc420ba98318/filer/83d21ecb-1940-4f59-830f-a3aa427f522c.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a15383d9-505c-456d-97cd-fc420ba98318
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

@@ -6,10 +6,9 @@
 - Mottaker: OsloMet - storbyuniversitetet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-2025/id3075320/
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/supplerende-tildelingsbrev-2025-nr.-1-oslomet-fagskolelarerutdanningen-kap.-241-post-21-l2497211.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-c461-4782-94b5-4ff06e24e4a2
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

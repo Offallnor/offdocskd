@@ -6,10 +6,9 @@
 - Mottaker: Utdanningsdirektoratet
 
 - Original-PDF: /dokument/3dfa1a6d-1c22-473f-85fb-34f8e70056f6/filer/f287c967-b1ac-4602-8a4e-14fa5ceaadfb.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/3dfa1a6d-1c22-473f-85fb-34f8e70056f6
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

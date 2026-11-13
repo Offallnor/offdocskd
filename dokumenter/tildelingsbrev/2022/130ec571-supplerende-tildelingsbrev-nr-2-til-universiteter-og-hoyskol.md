@@ -6,10 +6,9 @@
 - Mottaker: Arkitektur- og designhøgskolen i Oslo, Høgskolen i Molde, Høgskolen i Østfold, Høgskulen i Volda, Høgskulen på Vestlandet, Kunsthøgskolen i Oslo, Nord universitet, Norges handelshøgskole, Norges idrettshøgskole, NMBU, Norges musikkhøgskole, NTNU, OsloMet - storbyuniversitetet, Sámi allaskuvla Samisk høgskole, Universitetet i Agder, Universitetet i Bergen, Universitetet i Innlandet, Universitetet i Oslo, Universitetet i Stavanger, Universitetet i Sørøst-Norge, Universitetet i Tromsø
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629610
 - Original-PDF: https://www.regjeringen.no/contentassets/a4d6e8be817b481885d12b0e5a6dde39/supplerende-tildelingsbrev-nr-2-prop-51-s-sykepleierplasser.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/d1fb5055-d9fb-4caa-b24e-0285130ec571
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

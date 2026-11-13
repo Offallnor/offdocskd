@@ -6,10 +6,9 @@
 - Mottaker: NTNU
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2026/id3141095/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd39e5357ca74704a531e63be939a233/tildelingsbrev-2026-norges-teknisk-naturvitenskapelige-universitet-.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a778f-c6b7-4fa8-b440-8a714fa8bc14
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

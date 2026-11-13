@@ -6,10 +6,9 @@
 - Mottaker: Statped
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2692978
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/tillegg-nr-1-3-til-tildelingsbrev-til-statped-for-2024.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 20 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/52faa70e-9fcb-4951-b754-298a868fd714
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

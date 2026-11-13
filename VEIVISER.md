@@ -20,7 +20,7 @@ Hvert dokument er én fil: `dokumenter/<mappe>/<år>/<id>-<tittel>.md`. Tildelin
 - **Original-PDF**: PDF-en dokumentet er hentet fra.
 - **Kudos**: dokumentets side i Kudos. Noen tildelingsbrev har bare denne lenken.
 
-Teksten er hentet automatisk fra PDF-en. Tabeller, figurer, fotnoter og orddeling kan være rotete. Kontroller tall og sitater mot originalen før de brukes i noe som skal ut.
+Teksten er hentet automatisk fra PDF-en. Løpende tekst blir som regel riktig, men tabeller og figurer blir ofte oppløst: tallene havner på egne linjer og kan bli skilt fra radene og kolonnene de hørte til. Av figurene blir som regel bare akseverdier og etiketter igjen. Linja **Tekst** øverst i hver fil sier om det er tegn til dette (antall tabell- og figurtitler og linjer med løsrevne tall). Kolonnene `tabeller`, `figurer` og `tall_linjer` i `dokumenter.tsv` har de samme tallene. Kontroller tall mot originalen før de brukes i noe som skal ut.
 
 `dokumenter.tsv` har én rad per dokument: id, type, år, tittel, sammendrag (fra Kudos), eiere, mottakere, utførere, fil og lenker. Bruk den til å søke på tvers, for eksempel alle tildelingsbrev til én mottaker.
 

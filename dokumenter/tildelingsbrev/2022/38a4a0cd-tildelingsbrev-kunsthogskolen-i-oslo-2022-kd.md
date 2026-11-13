@@ -6,10 +6,9 @@
 - Mottaker: Kunsthøgskolen i Oslo
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2022/id2892154/
 - Original-PDF: https://www.regjeringen.no/contentassets/a51ecc138e1c4f85b66c490415771025/statsbudsjettet-2022-tildelingsbrev-for-kunsthogskolen-i-oslo-.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-1d83-4b79-95ca-0d4738a4a0cd
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

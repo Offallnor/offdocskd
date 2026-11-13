@@ -6,10 +6,9 @@
 - Mottaker: Universitetet i Bergen
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2023/id2952224/
 - Original-PDF: https://www.regjeringen.no/contentassets/7ec338e7b2254a078a51d173ed214968/supplerende-tildelingsbrev-til-universitetet-i-bergen-uib-for-2023.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7792-bec7-45bb-8a3c-946f23b5f16e
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

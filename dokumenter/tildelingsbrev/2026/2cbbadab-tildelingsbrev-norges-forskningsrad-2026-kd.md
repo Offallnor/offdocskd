@@ -6,10 +6,9 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-norges-forskningsrad-2026/id3144156/
 - Original-PDF: https://www.regjeringen.no/contentassets/562c3ae1ca294c509768ea3061e1174d/tildelingsbrev-for-2026-til-norges-forskningsrad.pdf
+- Tekst: hentet fra PDF. OBS: 22 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a778b-5c01-45f2-ad44-ccb72cbbadab
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

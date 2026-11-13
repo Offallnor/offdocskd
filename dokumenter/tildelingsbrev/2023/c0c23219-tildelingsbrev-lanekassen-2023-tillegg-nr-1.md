@@ -6,10 +6,9 @@
 - Mottaker: Statens lånekasse for utdanning
 
 - Original-PDF: https://www.regjeringen.no/contentassets/27d3c565a1594d629a77d519ed546218/tillegg-til-tildelingsbrev-til-lanekassen-for-2023.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/84b52e14-c02e-4dbd-bcd5-77bfc0c23219
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

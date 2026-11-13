@@ -5,10 +5,9 @@
 - Eier: Kultur- og likestillingsdepartementet, Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/strategi-for-et-mer-likestilt-utdannings-og-arbeidsmarked-2021-2024/id2870870/
 - Original-PDF: https://www.regjeringen.no/contentassets/678d5431d03a4f9b9882b3d36c759256/strategi-for-et-mer-likestilt-utdannings-og-arbeidsmarked-20212014_uu.pdf
+- Tekst: hentet fra PDF. OBS: 44 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/8334cf40-6854-4e1b-ad0a-23e42577e438
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

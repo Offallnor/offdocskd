@@ -5,10 +5,9 @@
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/handlingsplan-for-norsk-fagsprak-i-akademia/id2984345/
 - Original-PDF: https://www.regjeringen.no/contentassets/1800367dc51846b98a0b33817f03c958/no/pdfs/handlingsplan-fra-ord-til-handling.pdf
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/e1331e1a-92de-4906-91b2-bd4024a3d7f6
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 

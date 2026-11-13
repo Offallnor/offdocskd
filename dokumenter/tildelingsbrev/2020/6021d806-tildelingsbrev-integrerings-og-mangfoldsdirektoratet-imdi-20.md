@@ -6,10 +6,9 @@
 - Mottaker: Integrerings- og mangfoldsdirektoratet
 
 - Original-PDF: https://www.regjeringen.no/contentassets/1b2c407e1c0d4d459e2dfcfe5eaeb8e5/supplerende-tildelingsbrev-nr.1-5-2020-imdi.pdf
+- Tekst: hentet fra PDF. OBS: 15 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a0fcd744-4028-4ecc-9f73-dfa26021d806
 - Hentet: 2026-11-13
-
-Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.
 
 ---
 
