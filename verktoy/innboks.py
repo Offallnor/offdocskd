@@ -2,7 +2,7 @@
 
 Bruk: python3 -I verktoy/innboks.py
 
-Filen kobles til dokumentet i dokumenter.tsv på id-en (de åtte tegnene foran tittelen i filnavnet
+Filen kobles til dokumentet i dokumenter.tsv på filnavnet fra regjeringen.no (som følger PDF-navnet), id-en (de åtte tegnene foran tittelen i filnavnet
 i dokumenter/, eller hele KU-id-en) eller på tittelen (for eksempel «NOU 2019 2.docx» eller
 «Meld. St. 14 (2022–2023).epub»). Teksten gjøres om med pandoc, med tabeller. Ordtallet kontrolleres
 mot PDF-teksten, så en feil fil ikke erstatter riktig dokument. Toppen av dokumentfilen med lenkene
@@ -28,6 +28,14 @@ def finn(navn, rader):
     m = re.match(r"([0-9a-f]{8})(?:-|$)", stamme)
     if m:
         treff = [r for r in rader.values() if os.path.basename(r["fil"]).startswith(m.group(1) + "-")]
+        if len(treff) == 1:
+            return treff[0], ""
+    # Filnavnet fra regjeringen.no: Word-filen heter som PDF-filen, med docx i stedet for pdfs
+    # (…/pdfs/nou202520250001_kddddpdfs.pdf og …/docx/nou202520250001_kdddddocx.docx).
+    kjerne = re.sub(r"(docx|epub|html?|odt|pdfs)$", "", stamme.lower())
+    if len(kjerne) >= 8:
+        treff = [r for r in rader.values()
+                 if re.sub(r"pdfs$", "", os.path.splitext(os.path.basename(r.get("kilde") or ""))[0].lower()) == kjerne]
         if len(treff) == 1:
             return treff[0], ""
     s = slug(stamme, 200)

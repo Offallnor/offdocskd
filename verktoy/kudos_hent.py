@@ -194,7 +194,11 @@ def pdf_til_tekst(data, valg=()):
         open(p, "wb").write(data)
         r = subprocess.run(["pdftotext", "-enc", "UTF-8", *valg, p, "-"], capture_output=True, timeout=300)
         tekst = r.stdout.decode("utf-8", "replace")
-    tekst = re.sub(r"\f", "\n\n", tekst)
+    # Hver side i PDF-en får et merke, [Side N], så svar kan lenke til riktig side (PDF-lenke + #page=N).
+    sider = tekst.split("\f")
+    while sider and not sider[-1].strip():
+        sider.pop()
+    tekst = "".join(f"\n\n[Side {i}]\n\n{side}" for i, side in enumerate(sider, 1))
     tekst = re.sub(r"[ \t]+\n", "\n", tekst)
     return re.sub(r"\n{3,}", "\n\n", tekst).strip()
 
@@ -284,7 +288,9 @@ def main():
     nye, feil = 0, []
     for t, o, r in valgte:
         rid = "KU-" + r["uuid"]
-        if rid in oversikt:   # lagret fra før: fyll inn felt som kom til senere, uten å hente på nytt
+        ny_tekst = rid in oversikt and "--ny-tekst" in sys.argv and (oversikt[rid].get("tekstkilde") or "pdf") == "pdf" \
+            and "\n[Side 1]\n" not in open(os.path.join(ROT, oversikt[rid]["fil"]), encoding="utf-8").read()
+        if rid in oversikt and not ny_tekst:   # lagret fra før: fyll inn felt som kom til senere, uten å hente på nytt
             gml = oversikt[rid]
             side = (r.get("external_public_url") or "").strip()
             if side and not gml.get("side"):
@@ -309,7 +315,8 @@ def main():
             continue
         fil = hent(pdf, forsok=3, pause=20)
         time.sleep(2)
-        tekst = pdf_til_tekst(fil) if fil else ""
+        # Sidelayout holder tabellradene samlet, men blander spaltene i dokumenter med to spalter.
+        tekst = pdf_til_tekst(fil, ["-layout"] if o.get("layout") else []) if fil else ""
         if len(tekst) < 200:
             feil.append(f"Ingen tekst ({len(fil)} byte): {r.get('title')} ({rid})")
             continue
@@ -324,7 +331,7 @@ def main():
             hode.append(f"- Mottaker: {', '.join(liste(r.get('recipients')))}")
         if liste(r.get("authoring_actors")):
             hode.append(f"- Utført av: {', '.join(liste(r.get('authoring_actors')))}")
-        hode += [f"- Les hele dokumentet: {side}" if side else "", f"- Original-PDF: {kilde}" if kilde else "", f"- Kudos: {kudos}", f"- Hentet: {time.strftime('%Y-%m-%d')}",
+        hode += [f"- Les hele dokumentet: {side}" if side else "", f"- Original-PDF: {kilde}" if kilde else f"- PDF: {pdf}", f"- Kudos: {kudos}", f"- Hentet: {time.strftime('%Y-%m-%d')}",
                  "", "---", ""]
         with open(os.path.join(ROT, sti), "w", encoding="utf-8") as f:
             f.write("\n".join(x for x in hode if x is not None) + "\n" + tekst + "\n")

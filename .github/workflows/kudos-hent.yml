@@ -22,6 +22,10 @@ on:
       test:
         description: "Bare lagre tekst med og uten -layout for disse id-ene (KU-…, skilt med mellomrom) i tester/"
         default: ""
+      ny_tekst:
+        description: "Hent teksten på nytt for dokumenter som mangler sidemerker (tekst fra PDF)"
+        type: boolean
+        default: false
       diagnose:
         description: "Bare vis hva eksporten inneholder, lagre ingenting"
         type: boolean
@@ -53,12 +57,13 @@ jobs:
           DIAGNOSE: ${{ inputs.diagnose && '--diagnose' || '' }}
           LISTE: ${{ inputs.liste }}
           TEST: ${{ inputs.test }}
+          NY_TEKST: ${{ inputs.ny_tekst && '--ny-tekst' || '' }}
           FRA: ${{ inputs.fra || '2015' }}
           SOK: ${{ inputs.sok }}
         run: |
           if [ -n "$TEST" ]; then python3 -I verktoy/kudos_hent.py --test "$TEST"
           elif [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
-          else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE; fi
+          else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE $NY_TEKST; fi
 
       - name: Lagre
         if: success() || failure()
