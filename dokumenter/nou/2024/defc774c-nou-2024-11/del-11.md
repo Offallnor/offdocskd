@@ -1,0 +1,1083 @@
+# NOU 2024: 11, del 11 av 16 (side 142–152)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/defc774c-nou-2024-11.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-11/id3045067/
+- Original-PDF: https://www.regjeringen.no/contentassets/02c2c00e81844931b028606567a99395/no/pdfs/nou202420240011000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 14 tabeller, 116 figurer, 540 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 142]
+
+140
+
+Kapittel 9
+
+NOU 2024: 11
+Lavlønn i Norge
+
+lavtlønte og medianen heller ikke holdt tritt med
+gjennomsnittlig lønnsvekst, som betyr at høye lønninger har vokst mer enn andre lønninger. Dette
+omtaler OECD (2018) som frakobling av lønnsveksten fra produktivitetsveksten. Det er imidlertid store forskjeller på tvers av land. Forfatterne
+mener at nasjonale institusjoner og politikk trolig
+kan forklare forskjellene i hvordan lønnsdannelsen deler verdiskapingen mellom arbeid og kapital. Det må bety at det er underliggende mekanismer som i hvert fall delvis settes til side i den faktiske lønnsfastsettelsen. Konkrete forhold ved den
+norske lønnsdannelsen er omtalt i kapittel 3 og 4.
+De underliggende økonomiske mekanismene
+som beskrives i dette kapittelet vil være mer eller
+mindre til stede i alle arbeidsmarkeder. Den empiriske litteraturen det vises til, dekker også både
+Norge og andre europeiske land med koordinering i lønnsdannelsen. Koordinering i lønnsdannelsen vil i mange land være betinget av høy oppslutning om fagforeninger og organisering av
+arbeidsgiversiden. Koordinering av arbeidsgiversiden bidrar til å støtte opp om koordineringen
+ved å danne hensiktsmessige motparter til fagforeningene.
+Ettersom fagforeninger har en sentral rolle i å
+balansere arbeidsgivers potensielle makt i lønnsfastsettelsen, vil konsekvensene av monopsoni
+typisk kunne få mer gjennomslag i det uorganiserte arbeidslivet enn i det organiserte. Også
+innenfor områder av det organiserte arbeidslivet
+med betydelige sentrale tillegg vil mye av lønnsfastsettelsen bestemmes ut fra lokale forhold på
+virksomhetsnivå, og makt og markedskrefter vil
+spille inn.
+Økonomisk teori tar generelt utgangspunkt i
+markeder med fullkommen konkurranse. Dette
+utgangspunktet skiller mellom tilpasningen til
+hver enkelt bedrift, som er liten i forhold til det
+totale markedet, og utfallet i markedet som helhet. Nedenfor tar vi samme utgangspunkt for
+arbeidsmarkedet. Deretter utvides resonnementene med mer realistiske beskrivelser av markedsforholdene.
+
+9.2.1 Fullkommen konkurranse
+I et arbeidsmarked med fullkommen konkurranse
+bestemmes lønnen av likhet mellom tilbud av og
+etterspørsel etter arbeidskraft, og likevektslønnen
+er lik verdien av arbeidskraftens marginalprodukt.
+Det vil si at lønn per time er lik verdien av det som
+på marginen produseres med én arbeidstime. En
+sentral forutsetning for fullkommen konkurranse
+er at det er mange aktører på begge sider av mar-
+
+kedet, slik at både arbeidstakere og arbeidsgivere
+forholder seg til en gitt «markedslønn» når de velger sin tilpasning.
+I denne situasjonen gir markedslikevekten det
+lønns- og sysselsettingsnivået som maksimerer
+samfunnsøkonomisk velferd (se boks 9.1 for nærmere forklaring). Reguleringer av lønn, for
+eksempel innføring av en minstelønn som er høyere enn likevekstlønnen, vil føre til et samfunnsøkonomisk velferdstap: sysselsettingen vil reduseres, og samfunnet går glipp av produksjonen fra
+de som er tilstrekkelig produktive til å få jobb i det
+uregulerte markedet, men ikke tilstrekkelig produktive til å få jobb etter innføringen av minstelønn.
+I realiteten er det imidlertid en rekke av premissene for fullkommen konkurranse som ikke
+holder i et arbeidsmarked. Mangelfull informasjon og ulike individuelle preferanser kan ha stor
+betydning slik at arbeidsmarkedet kan avvike
+betydelig fra en situasjon med fullkommen konkurranse. I mangel av motmakt fra arbeidstakerne kan arbeidsgiverne potensielt sett være i
+stand til å sette en lønn betydelig under nivået
+som maksimerer samfunnsøkonomisk velferd,
+slik forskningslitteraturen som siteres i kapittelet
+tyder på. Samtidig har fagforeninger innflytelse,
+og arbeidsgiversiden er koordinert.
+
+9.2.2
+
+Virksomheten og fagforeningen har
+markedsmakt
+Situasjoner som innebærer at den enkelte kjøper
+kan påvirke prisen på innsatsfaktorer, omtales
+gjerne som monopsoni. I arbeidsmarkedet kan
+monopsoni oppstå av flere grunner. For det første
+vil et arbeidsmarked med få arbeidsgivere kunne
+gi arbeidsgivere større innflytelse på lønnsnivået
+enn i et arbeidsmarked med mange arbeidsgivere
+og større konkurranse om arbeidskraften. Dette
+omtales som situasjoner med høy konsentrasjon i
+arbeidsmarkedet. Jo høyere konsentrasjonen er,
+jo større er den potensielle innflytelsen arbeidsgivere har over lønningene. Virksomheten kan være
+den eneste eller en av svært få virksomheter som
+etterspør en bestemt type arbeidskraft i markedet.
+Dette er den opprinnelige begrunnelsen for
+monopsoni. I dag brukes begrepet imidlertid i
+videre forstand. Det forutsetter ikke at virksomhetene er den eneste dominerende etterspørreren
+etter arbeidskraft i markedet.
+En annen kilde til monopsonimakt er ulike
+typer jobbsøkerfriksjoner. Tilsettingsprosesser
+tar tid og medfører kostnader både for arbeidstaker og -giver. Det er umulig for arbeidstaker å ha
+
+[Side 143]
+
+141
+
+NOU 2024: 11
+Lavlønn i Norge
+
+Kapittel 9
+
+Boks 9.1 Lønn og sysselsetting under fullkommen konkurranse
+Markedslikevekten i et arbeidsmarked med fullranse følger det at den enkelte virksomhet vil
+kommen konkurranse kan illustreres i et diamåtte ta lønnen den må betale for sin arbeidsgram med sysselsettingsnivå på den horisontale
+kraft som gitt i markedet, se figur 9.1 B. Hvis
+aksen og lønnsnivå på den vertikale aksen. I et
+virksomheten forsøker å betale lavere lønn, vil
+slikt diagram vil etterspørselskurven være falalle ansatte si opp og ta jobb i konkurrende virklende på grunn av avtakende skalautbytte, mens
+somheter som betaler markedslønnen.
+tilbudskurvene er stigende fordi flere ønsker å
+Idéen om fullkommen konkurranse er
+tilby sin arbeidskraft når lønnsnivået stiger.
+basert på flere forutsetninger som er avgjørende
+Ingen aktører er i stand til å påvirke marfor resultatene. Det må være et betydelig antall
+kedslønnen, det vil si at det er ingen koordinevirksomheter som konkurrerer om den samme
+ring mellom aktørene. Markedslikevekten er da
+type arbeidskraft og det må være mange kvalifigitt ved skjæringspunktet mellom tilbuds- og
+serte personer som uavhengig av hverandre tiletterspørselskurven, og gir det lønns- og sysselbyr sin arbeidskraft til dette markedet. Verken
+settingsnivået som maksimerer samfunnsøkonovirksomhetene eller arbeiderne skal kunne
+misk overskudd, se figur 9.1 A. Virksomheter
+påvirke markedslønnen og det er ingen koordisom ikke har evne til å betale markedslønnen,
+nering. I tillegg forutsettes det at informasjon
+vil ikke ansette, og personer som ikke er villig til
+om blant annet jobbmuligheter og produktivitet
+å arbeide for markedslønnen, vil ikke delta i
+er fritt tilgjengelig for alle uten kostnader, mens
+arbeidsmarkedet. Under fullkommen konkurarbeidskraften er perfekt mobil.
+A
+
+B
+
+Hele arbeidsmarkedet
+
+Den enkelte virksomhet
+
+Lønn
+
+Lønn
+Tilbud av
+arbeidskraft
+
+L*
+
+Tilbud av
+arbeidskraft
+
+L*
+
+Etterspørsel
+etter arbeidskraft
+
+Etterspørsel
+etter arbeidskraft
+S*
+
+Sysselsetting
+
+S*
+
+Sysselsetting
+
+Figur 9.1 Tilbud og etterspørsel etter arbeidskraft under fullkommen konkurranse.
+
+full oversikt over alle sider ved alternative jobber,
+og derfor vil man ikke skifte jobb kun for marginal
+økning i lønn. I tillegg er det krevende for arbeidsgivere å tilegne seg god informasjon om hvor godt
+en arbeidssøker vil prestere dersom hen blir tilsatt. Derfor er det til dels omfattende søkeprosesser knyttet til rekruttering, jobbskifter og inntre-
+
+den i arbeidslivet. Manglende informasjon både
+om hver enkelt arbeidstaker og tilgjengelige relevante jobber kalles «søkefriksjoner». Reguleringer
+i arbeidsmarkedet og av konkurranseforhold kan
+virke inn på både markedskonsentrasjon og hvor
+lett det er å skifte jobb.
+
+[Side 144]
+
+142
+
+Kapittel 9
+
+NOU 2024: 11
+Lavlønn i Norge
+
+En tredje kilde til monopsonimakt er ikkelønnsmessige jobbpreferanser. Det er preferanser
+hos den enkelte arbeidstaker knyttet til forhold
+hos en eller få arbeidsgivere, som gjelder andre
+forhold enn selve lønnen. I tillegg til interesse for
+selve oppgavene, kan det for eksempel være et
+ønske om kort reisevei til jobb, gunstige og fleksible arbeidstider eller andre arbeidsvilkår. Innslag
+av dette kan også gjelde mer idealistiske preferanser for hvor en ønsker å jobbe med hensyn til hva
+som er virksomhetens formål. Slike preferanser
+hos arbeidstakeren selv, kan gjøre at arbeidstakeren er lite tilbøyelig til å bytte jobb selv om
+arbeidsgiver skulle sette ned lønnen. Det reelle
+antall aktuelle arbeidsgivere for en arbeidstaker
+kan derfor være mer begrenset enn antall aktører
+i markedet skulle tilsi.
+Konsentrasjonen i arbeidsmarkedet, jobbsøkerfriksjoner og ikke-lønnsmessige jobbpreferanser er alle forhold som reduserer arbeidstakernes
+motivasjon og mulighet til å skifte jobb og dermed
+reduserer mobiliteten i arbeidsmarkedet. Det har
+betydning for den potensielle makten virksomhetene har til å påvirke lønningene. Digitaliseringen
+av jobbsøkertjenester kan redusere arbeidssøkerfriksjoner ved å gi bedre markedsinformasjon,
+som er lettere tilgjengelig for både arbeidssøker
+og arbeidsgiver. En rimelig og godt utbygd barnehage og skolefritidsording kan tenkes å ha samme
+virkning for arbeidstakere med omsorgsbehov for
+barn. Mer utbredt bruk av hjemmekontor kan
+redusere betydningen av avstand og dermed minske makten til noen arbeidsgivere.
+Oppsummert kan det være mange grunner til
+at arbeidsmarkeder i større eller mindre grad er
+preget av monopsoni. Det prinsipielle er uansett at
+den enkelte virksomhet ikke trenger å tilby en gitt
+markedslønn, i motsetning til under fullkommen
+konkurranse. Dette kan virksomhetene utnytte
+ved å tilby lavere lønn uten at særlig mange forlater bedriften. Vi ser her bort fra eventuelle bindinger som måtte følge av tariffavtaler eller lignende.
+Virksomheten maksimerer sin profitt ved å sette
+et lavere lønns- og sysselsettingsnivå enn det som
+følger av markedslikevekten under fullkommen
+konkurranse, se boks 9.2.
+Også fagforeninger kan ha lønnssettingsmakt.
+Gitt fullkommen konkurranse, fører økt lønn til at
+sysselsettingen samlet sett reduseres. Redusert
+sysselsetting gir et samlet velferdstap. Hvor langt
+fagforeningen vil kunne ønske å presse lønningene opp på bekostning av sysselsettingen, vil
+avhenge av fagforeningens preferanser. Brede
+fagforeninger vil gjennomgående legge større
+vekt på å unngå redusert sysselsetting. Det skyl-
+
+des både at de trolig vil ha medlemmer som rammes av slike endringer, og at deres valg betyr mye
+for det generelle lønnsnivået og dermed får større
+effekt på sysselsettingen. I forskningslitteraturen
+om lønn er det vanlig å anta at fagforeninger
+ønsker høy lønn og sikkerhet om arbeidsplassen
+på virksomhetsnivå. Videre er det vanlig å anta at
+de på nasjonalt nivå ønsker høy sysselsetting og
+lav arbeidsløshet (Layard mfl., 2005; Freeman &
+Medoff, 1984). Det er vanlig å anta at disse preferansene veies opp mot hverandre fordi høyere
+lønn kan gi lavere sysselsetting. Fagforeningenes
+lønnskrav vil dermed være begrenset av negative
+effekter på sysselsetting.
+I et marked med monopsoni (ikke fullkommen
+konkurranse) vil fagforeningens motmakt derimot kunne presse lønningene tilbake mot likevektslønnen. Da vil sysselsettingen kunne øke. I
+en slik situasjon vil den samfunnsøkonomiske velferden bli høyere enn den ville vært uten innflytelsen fra fagforeningen (Dodini mfl., 2022; Elert &
+Westerberg, 2023; Falch & Strøm, 2006; OECD,
+2022b). I denne situasjonen er det dermed ikke
+nødvendigvis et motsetningsforhold mellom økt
+lønn og økt sysselsetting. Dersom innflytelse over
+lønningene fra fagforeningens side er sterk nok,
+kan de imidlertid presse lønningene opp over likevektsnivået. Da vil økt lønn også i monopsonistiske markeder kunne gå på bekostning av sysselsetting. Det vises til boks 9.2 for nærmere forklaring.
+Fagforeningenes reelle innflytelse vil avhenge
+av den relative forhandlingsstyrken til de to partene. Det er mange forhold som kan påvirke partenes forhandlingsstyrke. Fagforeningens oppslutning blant arbeidstakerne er vesentlig. Et
+annet viktig forhold er hva som følger som konsekvenser dersom partene ikke blir enige. Det vil
+også ha betydning hvor lett det er for virksomheten å erstatte fagorganisert arbeidskraft med kapital eller andre arbeidstakere uten de samme kravene. Virksomhetens tilbøyelighet til å møte lønnskravene vil påvirkes av hvor hard konkurransen
+er i det markedet den opererer i, hva slags profitt
+evt. merprofitt som finnes og virksomhetens evne
+til å tiltrekke seg og holde på arbeidskraft (Barth
+mfl., 2020).
+I et monopsonistisk marked vil arbeidstakerne
+potensielt ha mye å tjene på å organisere seg og
+forhandle samlet om lønn, fordi det er betydelig
+potensiale for merprofitt hos eierne. Men samtidig påvirkes forhandlingsstyrken til fagforeningene av hvilke alternative jobber de ansatte har
+utenfor virksomheten. Det er derfor ikke opplagt
+
+[Side 145]
+
+NOU 2024: 11
+Lavlønn i Norge
+
+143
+
+Kapittel 9
+
+Boks 9.2 Lønn og sysselsetting under monopsoni
+kraft). Da blir sysselsettingen i virksomheten S1,
+Marginalog inntekten som genereres per arbeidsenhet er
+kostnad ved
+Lønn
+L2. Virksomheten trenger imidlertid bare å
+arbeidskraft
+Tilbud av
+betale en lønn tilsvarende L1. Virksomhetens
+arbeidskraft
+ekstrainntekter per arbeidsenhet tilsvarer da differansen mellom L2 og L1. Denne tilpasningen
+gir lavere sysselsetting og lønn enn under fullb
+d
+L2
+Tariffavtalt
+kommen konkurranse (gitt ved punktet a, med
+a
+minstelønn
+sysselsetting lik S* og lønn lik L*). Samfunnet
+L*
+får et samlet velferdstap lik størrelsen på tric
+L1
+angelet abc. Tilpasningen innebærer et effektivitetstap fordi verdien av arbeidskraft er større
+enn lønnskostnaden ved en ekspansjon av virksomheten.
+Etterspørsel etter arbeidskraft
+La oss nå introdusere en fagforening med
+0
+S1
+S* S2
+makt til å påvirke lønninger. I dette tilfelle ser vi
+Sysselsetting (S)
+for oss at fagforeningen bruker sin makt til å
+framforhandle et lønnsgulv eller en minstelønn,
+Figur 9.2 Tilbud og etterspørsel etter arbeidskraft
+f.eks. regulert i en tariffavtale for et bestemt yrke
+ved en enkel virksomhet, med markedsmakt for
+i en næring. Dersom minstenivået tilsvarer marvirksomheten og motmakt hos fagforening
+kedslønnen under fullkommen konkurranse,
+Figur 9.2 illustrerer en virksomhet som står
+som skissert i figuren med den røde horisontale
+overfor en stigende tilbudskurve, noe som betyr
+linjen «tariffavtalt minstelønn», vil dette øke lønat den har monopsonimakt. Med en stigende tilnen fra L1 til L* og sysselsettingen fra S1 til S*,
+budskurve responderer arbeidstilbudet i mindre
+altså til likevektsnivået. Dersom fagforeningen
+grad på lønnsendringer enn i tilfellet med fullfår presset lønnen ytterligere opp til eksempelvis
+kommen konkurranse. Det betyr også at økt
+L2, faller sysselsettingen tilbake, her til S1. Det
+lønn vil øke antallet personer som ønsker arbeid
+innebærer også et velferdstap, i dette eksempei virksomheten. Det som gir høyest avkastning
+let til samme sysselsetting som vi fikk med
+for virksomheten i denne situasjonen er å vurmonopsonimakt uten fagforeninger. Men i motdere den økte lønnskostnaden ved økt sysselsetsetning til i tilfellet med monopsonimakt uten
+ting i forhold til økt inntjening, i en situasjon der
+fagforeninger, betaler nå virksomheten en lønn
+alle arbeidstakere har samme lønn. Virksomhesom er lik marginalinntekten, mens arbeidstatens marginalkostnad ved arbeidskraft ligger
+kerne sitter igjen med en større del av overskudover tilbudskurven (gjennomsnittskostnad ved
+det. Vi ser altså at når vi går fra en situasjon med
+arbeidskraft), da virksomheten vil måtte øke
+monopsoni til at fagforeninger får økende innflylønnsnivået generelt i virksomheten for å få
+telse beveger vi oss i figur 9.2 først fra punktet c
+ansatt en ekstra medarbeider. Virksomhetens
+langs tilbudskurven til punkt a (likevektsløsninprofitt maksimeres i punktet b der kurven for
+gen), og deretter langs etterspørselskurven opparbeidskraftens marginalkostnad krysser etterover fra punktet a til punktet b.
+spørselskurven (marginalinntekt av arbeids-
+
+at fagfagforeningen får gjennomslag i en slik situasjon (Dodini mfl., 2022).
+Falch og Strøm (2006) argumenterer for at når
+både virksomheten og fagforeningen har markedsmakt, må det trolig være en betydelig ubalanse i forhandlingsmakten mellom dem for at
+utfallet skal avvike fra sysselsettings- og lønnsni-
+
+vået under fullkommen konkurranse. Det finnes
+altså i følge forfatterne mekanismer som bidrar til
+stabilitet i lønn og sysselsetting til nivåer tilsvarende tilpasningen under fullkommen konkurranse. Så lenge det er kun en liten overvekt av forhandlingsstyrke hos fagforeningen, vil deres hensyn til sysselsettingsvirkninger virke stabilise-
+
+[Side 146]
+
+144
+
+Kapittel 9
+
+NOU 2024: 11
+Lavlønn i Norge
+
+rende. Med kun en liten overvekt av forhandlingsstyrke på arbeidsgiversiden, er det lite sannsynlig
+at arbeidsgiver vil søke, og at fagforeningen vil
+akseptere, en reduksjon i både lønn og sysselsetting.
+
+9.3
+
+Analyser av virksomhetenes makt
+til å påvirke lønninger
+
+9.3.1
+
+Innslag av monopsoni i arbeidsmarkedet
+De siste årene har det kommet en lang rekke studier av monopsonimakt i arbeidsmarkedet. De
+konkluderer gjennomgående med at det er imperfekt konkurranse i moderne arbeidsmarkeder (se
+for eksempel Manning, 2021; OECD, 2022b; Berger mfl., 2023; Dodini mfl., 2022; Diez mfl., 2022;
+Sokolova & Sorensen, 2021; Hirsch mfl., 2022).
+En metaanalyse av Sokolova og Sorensen
+(2021) gir en grundig gjennomgang av
+forskningslitteraturen på feltet. Studien støtter
+opp om at det er sterke bevis for monopsoni i
+arbeidsmarkedet som kan gi klart lavere lønn enn
+under fullkommen konkurranse. Det at lønningene kan settes lavere enn de kunne vært satt i en
+situasjon med fullkommen konkurranse, definerer litteraturen som «lønnsnedslag». Samtidig
+viser de at anslagene for det potensielle «lønnsnedslaget» varierer betydelig. De peker på at
+estimatene varierer på tvers av land, men også
+med valg av metode og data og kvaliteten på
+forskningen. Potensiale for lønnsnedslag skyldes
+at tilbudselastisiteten en bedrift står overfor er
+begrenset. OECD (2021) finner en gjennomsnittlig tilbudselastistitet i arbeidsmarkedene i OECDland, som impliserer at optimal lønn fra virksomhetenes perspektiv er på 2/3 av arbeidstakernes
+marginale produktivitet.1 Elert og Westerberg
+(2023) studerer utvalgte europeiske land og særlig de nordiske landene. De rapporterer at de tilsvarende verdiene i nordiske studier ligger i et
+intervall som impliserer at lønningene potensielt
+kan settes ned til å utgjøre rundt 45–75 prosent av
+arbeidernes marginale produktivitet. For Norge
+ligger estimatene i hovedsak i midtre til nedre del
+av dette intervallet.2 Anslagene tilsier altså at virksomheter potensielt kan ha betydelige muligheter
+til å påvirke lønningene i arbeidsmarkedet.
+1
+
+Dette tilsvarer en tilbudselastisitet på 2. Med en tilbudselastisitet på 2, så vil en økning på 1 prosent i lønningene gi 2
+prosent økning i tilbudet av arbeidskraft. Arbeidstilbudet
+reagerer altså på endringer i lønnen, men i langt mindre
+grad enn om tilbudet hadde vært perfekt elastisk.
+
+Selv om lave arbeidstilbudselastisiteter er en
+indikasjon på markedsmakt i lønnssettingen, følger det ikke nødvendigvis at virksomhetene faktisk utnytter denne verken fullt eller delvis (Manning, 2021; Sokolova & Sorensen, 2021; Elert &
+Westerberg, 2023). Elert og Westerberg (2023)
+trekker et tydelig skille mellom det de kaller
+potensiell eller teoretisk markedsmakt på den ene
+siden og faktisk markedsmakt på den andre siden.
+De argumenterer for at faktorer som blant annet
+fagforeningsmakt kan motvirke den teoretiske
+markedsmakten, slik at den reelle makten blir
+mindre enn den teoretiske. Sokolova og Sorensen
+(2021) er også inne på at arbeidsmarkedsinstitusjoner kan motvirke virksomhetenes lønnsmakt i
+betydelig grad og ser det i sammenheng med variasjonen i estimert markedsmakt som de observerte i ulike metodiske tilnærminger. Fagforeningers innflytelse omtales nærmere under punkt
+9.4.
+
+9.3.2
+
+Omfang av konsentrasjon og andre
+kilder til monopsoni
+Som nevnt over er det flere kilder til markedsmakt i arbeidsmarkedet. Særlig har internasjonal forskning den senere tiden satt søkelys på
+konsentrasjon i arbeidsmarkedet som opphav til
+at lønninger settes lavere enn verdien av arbeidskraftens marginale produktivitet. I motsetning til
+den mer vanlige forståelsen av konsentrasjon som
+noe som gjelder produktmarkeder, vises det i
+denne konteksten utelukkende til selve arbeidsmarkedet og antallet arbeidsgivere. Det kan likevel være sammenheng mellom konsentrasjon i
+produktmarkedet og konsentrasjon i arbeidsmarkedet.
+I USA har det vært økende oppmerksomhet
+om elementer i arbeidsmarkedet som vurderes
+som konkurransehemmende og gir høy konsentrasjon. Dette kan for eksempel være klausuler i
+arbeidskontrakter om at man ikke kan jobbe i
+konkurrerende virksomheter direkte etter oppsigelse, avtaler mellom virksomheter om at de ikke
+skal konkurrere om arbeidstakerne og effekten
+av selskapssammenslåinger. Forskning har vist at
+slike elementer i arbeidsmarkedet reduserer
+mobiliteten og lønningene både for de som direkte
+berøres av avtalene, men også i arbeidsmarkedet
+forøvrig (Manning, 2021). Konkurranselovgivnin2
+
+I en studie av arbeidstilbudet i det norske lærerarbeidsmarkedet, skiller Falch (2011) mellom kortsiktig og langsiktig
+elastisitet. Han finner betydelig mindre potensiell lønnsmakt hos arbeidsgiver på lengre sikt.
+
+[Side 147]
+
+145
+
+NOU 2024: 11
+Lavlønn i Norge
+
+Kapittel 9
+
+30
+25
+20
+15
+10
+5
+
+Estland
+
+Latvia
+
+Sverige
+
+Singapore
+
+Tsjekkia
+
+Kanada
+
+Australia
+
+USA
+
+Østerrike
+
+Frankrike
+
+OECD
+
+Nederland
+
+Luxemburg
+
+Storbritannia
+
+Tyskland
+
+Sveits
+
+Belgia
+
+0
+
+Figur 9.3 Andel sysselsatte som er tilknyttet konsentrerte arbeidsmarkeder i privat sektor.1, 2 Prosent. 2019
+1
+
+Konsentrerte arbeidsmarkeder er her definert som markeder som er minst moderat konsentrerte og har en verdi på 1500 eller
+mer etter Herfindahl-Hirschman-indeksen. Denne indeksen benyttes av mange konkurransemyndigheter når de vurderer markedskonsentrasjon.
+2 Privat sektor omfatter det OECD (2022b) referer til som «business sector». Næringer med betydelig grad av offentlig sysselsetting som offentlig administrasjon, forsvar, undervisning og helse- og sosialtjenester er tatt ut.
+3 For OECD er andelen et uvektet gjennomsnitt av landene i studien utenom Singapore.
+Kilde: OECD (2022b).
+
+gen vil i slike situasjoner kunne spille en rolle for å
+redusere uønskede utslag.
+I OECDs årlige utgave av Employment Outlook for 2022 er det viet et kapittel til monopsoni
+og konsentrasjon i arbeidsmarkedet (OECD,
+2022b). Ifølge rapporten er konsentrasjonen i
+arbeidsmarkedet omfattende i mange OECD-land.
+Norge inngår ikke i analysen. I gjennomsnitt er
+minst 16 prosent av de sysselsatte i privat sektor
+tilknyttet et arbeidsmarked som kan klassifiseres
+som konsentrert, se figur 9.3. OECD (2021) peker
+på at det overordnede nivået på konsentrasjonen i
+arbeidsmarkedet har vært forholdsvis stabilt mellom 2003 og 2017, dog basert på utviklingen i kun
+syv OECD-land, herunder Danmark og Finland.3
+OECD (2022b) finner i tråd med litteraturen
+på feltet at for alle landene i undersøkelsen er
+arbeidsmarkedskonsentrasjonen høyere i mindre
+sentrale strøk enn i urbane strøk. For OECD-gjennomsnittet er andelen som jobber i konsentrerte
+markeder 29 prosent i mindre sentrale strøk, mot
+11 prosent i urbane strøk. Også Hirsch mfl. (2022)
+finner at arbeidsgivere har mindre mulighet til å
+redusere lønningene i mindre konsentrerte,
+urbane arbeidsmarkeder. De finner at lønnstilleg3
+
+Landene som er dekket i OECD (2021) er Østerrike, Costa
+Rica, Danmark, Finland, Frankrike, Portugal og Spania.
+
+get som vanligvis gjelder i urbane strøk, til dels
+kan forklares med at det er bedre konkurranse i
+arbeidsmarkeder med større befolkningstetthet.
+Det supplerer tidligere studier som har fokusert
+på at et urbant lønnstillegg kommer fra at arbeiderne har høyere produktivitet i byene.
+OECD (2022b) viser til at det er estimert en
+effekt av konsentrasjon på lønn i Tyskland, Danmark, Frankrike og Portugal. I snitt for disse landene tyder resultatene på at en økning i markedskonsentrasjon på 10 prosent kan gi en reduksjon i
+lønningene på 0,2–0,3 prosent. I gjennomsnitt
+fremstår dette som en relativt beskjeden lønnseffekt. Konsentrasjonen er imidlertid nokså ujevnt
+fordelt på tvers av arbeidsmarkedet. Eksempelvis
+får sysselsatte som arbeider i de 10 prosent mest
+konsentrerte markedene, en lønnsreduksjon i
+forhold til medianarbeidstakeren på 5 prosent.
+OECD (2022b) påpeker at de ikke finner vesentlig forskjell på lønnseffekten av konsentrasjon
+mellom kvinner og menn i disse tallene. OECD
+(2021) estimerer effekten av konsentrasjon på
+lønn til å ha blitt sterkere de to siste tiårene. Selve
+konsentrasjonen har ikke økt, men den kan synes
+å ha fått større betydning for lønningene. En
+mulig forklaring på det er ifølge OECD (2021)
+nedgangen man har sett i tariffavtaledekning og
+
+[Side 148]
+
+146
+
+Kapittel 9
+
+NOU 2024: 11
+Lavlønn i Norge
+
+fagorganisering i mange OECD-land, også
+beskrevet i kapittel 4.
+Vi har ikke direkte sammenlignbare tall for
+Norge. Imidlertid har Berger mfl. (2023) sett på i
+hvilken grad forhold knyttet til konsentrasjon
+samt andre kilder til markedsmakt påvirker lønningene i Norge. De har utviklet en teoretisk
+modell for arbeidsmarkedet kalibrert på norske
+data for perioden 2006–2016. De finner også at
+arbeidsgivere har monopsonimakt i Norge og at
+alle de tre kildene til monopsonimakt er virksomme. Størst effekt finner de av jobbsøkefriksjoner. Dernest er det forhold relatert til konsentrasjon i arbeidsmarkedet som har hatt betydning.
+Virkningen av ikke-lønnsmessige jobbpreferanser har også hatt betydning.
+
+9.3.3
+
+Betydning av monopsoni for ulike
+arbeidsmarkedssegmenter
+Betydningen av virksomhetenes makt i lønnsfastsettelsen vil variere på tvers av næringer, etter
+virksomhetsstørrelse og for grupper av arbeidstakere. De tre kildene til monopsonimakt, konsentrasjon, jobbsøkerfriksjoner og heterogene preferanser, kan også virke ulikt på ulike grupper
+arbeidstakere og for ulike næringer. Eksempelvis
+synes høyt utdannende og høytlønte å ha sterkere
+
+heterogene preferanser, mens de kan møte mindre arbeidsmarkedsfriksjoner, særlig i storbyene
+(Elert & Westerberg, 2023).
+Det er behov for mer forskning for å etablere
+en fullstendig forståelse av virkninger av monopsoni på ulike næringer og grupper på tvers av land.
+Vi har valgt å gjengi noen sentrale forskningsfunn
+som ikke direkte er knyttet til de lavest lønte, men
+som likevel kan ha relevans for lavtlønte grupper.
+Omfang av lavlønn varierer betydelig mellom
+næringer, se kapittel 7. Diez mfl. (2022) har sett på
+graden av markedsmakt over lønninger på tvers
+av sektorer i ti europeiske land, inkludert Norge, i
+perioden 2000–2017, se tabell 9.1. En verdi under
+100 i tabellen tilsier at lønningene potensielt kan
+settes under arbeidskraftens marginale produktivitet. Jo lavere verdi, jo høyere er den potensielle
+lønnsmakten til arbeidsgiver. Tabellen viser at studien finner stort potensielt lønnsnedslag i næringene som er undersøkt. På medianen er optimal
+lønn fra virksomhetens ståsted i underkant av 2/3
+av marginalinntekten av arbeidskraften. Det er en
+del forskjeller mellom næringene. Det er klart
+minst markedsmakt i næringene overnatting og
+serveringsvirksomhet samt transport og lagring. I
+disse næringene er det estimert at lønningene
+utgjør over 80 prosent av den marginale inntekten. Dette er næringer med relativt stort innslag
+
+Tabell 9.1 Potensielt lønnsnedslag. Forholdet mellom optimal lønn fra virksomhetens ståsted og
+virksomhetenes marginale inntekt av arbeidskraft i prosent. Gjennomsnitt og median for virksomheter i ti
+europeiske land. 2000–20171
+Næring
+
+Median
+
+Gjennomsnitt
+
+Jordbruk, skogbruk og fiske
+
+64
+
+55
+
+Bergverksdrift og utvinning
+
+45
+
+41
+
+Industri
+
+61
+
+55
+
+Bygge- og anleggsvirksomhet
+
+59
+
+50
+
+Transport og lagring
+
+81
+
+59
+
+Overnattings- og serveringsvirksomhet
+
+85
+
+74
+
+Informasjon og kommunikasjon
+
+56
+
+44
+
+Finansierings- og forsikringsvirksomhet
+
+50
+
+44
+
+Omsetting og drift av fast eiendom
+
+49
+
+42
+
+Faglig, vitenskapelig og teknisk tjenesteyting
+
+56
+
+46
+
+Forretningsmessig tjenesteyting
+
+61
+
+49
+
+I alt
+
+63
+
+55
+
+1
+
+Det er benyttet ORBIS-data med tall for virksomheter i analysen. I studien er det vist til forholdstallet mellom virksomhetenes
+marginale inntekt av arbeid over optimal lønn fra virksomhetenes ståsted, mens vi her gjengir forholdstallet med omvendte størrelser i nevner og teller av brøken. Studien omfatter Norge, Sverige, Finland, Østerrike, Belgia, Tyskland, Spania, Frankrike, Italia og Portugal. For Norge og noen flere land er første år med data i analysen 2006. Gjennomsnitt er uvektede.
+Kilde: Diez mfl. (2022).
+
+[Side 149]
+
+NOU 2024: 11
+Lavlønn i Norge
+
+av lavtlønte jobber i Norge, se kapittel 7. Næringen bergverksdrift og utvinning har størst innslag
+av markedsmakt. Her utgjør lønningene 45 prosent av marginale inntekten. I denne næringen er
+det imidlertid lite omfang av lavtlønte jobber i
+Norge, se kapittel 7.
+For Norges del finner Diez mfl. (2022) at det i
+gjennomsnitt har vært en nedgang eller ingen
+endring i markedsmakten for virksomheter i alle
+næringer, bortsett fra landbruk, skogbruk og
+fiske.
+Tabell 9.1 gir et overordnet bilde av ulike
+næringer. Studien finner også betydelig variasjon i
+markedsmakt mellom ulike virksomheter innenfor samme næring. Videre viser forfatterne at det
+er en tydelig positiv sammenheng mellom virksomhetens lønnsmakt og virksomhetens størrelse
+i antall sysselsatte. Større virksomheter i form av
+sysselsatte har i gjennomsnitt mer lønnsmakt. Studien sier imidlertid ikke noe om hvilke arbeidstakergrupper som er påvirket av arbeidsgivernes
+lønnsmakt.
+OECD (2022b) har sett på hvilke yrkesgrupper som i særlig grad arbeider i de mest konsentrerte arbeidsmarkedene. Norge inngår som tidligere nevnt, ikke i studien. I de mest konsentrerte
+arbeidsmarkedene finner studien yrker som
+instrumentmakere og -reparatører (eks. urmakere), kunsthåndverkere, grafiske arbeidere mv.,
+medisinske og helserelaterte yrker, hjelpearbeidere i primærnæringene og renovasjons- og gjenvinningsarbeidere og andre hjelpearbeidere. For
+disse yrkene er om lag 45–55 prosent av arbeiderne sysselsatt i markeder som er konsentrerte.
+Dette dreier seg delvis om yrker som hjelpearbeidere med lave kvalifikasjoner og med lavt lønnsnivå, men samtidig også håndverksyrker og andre
+mer spesialiserte yrker. I den andre enden av skalaen, hvor det er lite konsentrasjon i arbeidsmarkedet, identifiserer OECD (2022b) flere yrker med
+få formelle kompetansekrav som yrker innenfor
+salg, renhold og hjelpearbeidere i bergverk,
+industri, bygg og anlegg og transport. Slike yrker
+ser i større grad ut til å være knyttet til et bredt
+spekter av næringer.
+OECD (2022b) konkluderer samlet sett med at
+arbeidstakere i yrker med middels kompetansenivå har den høyeste sannsynligheten for å være
+sysselsatt i arbeidsmarkeder med relativt høy
+konsentrasjon, mens personer i yrker med lav
+kompetanse har lavest sannsynlighet, se figur 9.4.
+Det er betydelig variasjon på tvers av land i studien.
+Barth og Dale-Olsen (2009) finner at i Norge
+er personer med kort utdanning mer tilbøyelige til
+
+147
+
+Kapittel 9
+
+å skifte jobb ved lønnsendringer enn personer
+med lang utdanning.4 Det indikerer at virksomhetenes makt i lønnsfastsettelsen kan være mindre
+relevant i arbeidsmarkeder der det etterspørres
+arbeidskraft med kort utdanning fremfor i
+arbeidsmarkeder der det etterspørres arbeidskraft med lang utdanning. Verdiene tilsier imidlertid forholdsvis uelastisk arbeidstilbud – altså lite
+lønnssensitivitet – for begge typer arbeidskraft.
+Det gir potensiell lønnsmakt for virksomhetene
+både for arbeidskraft med kort og lang utdanning.
+Samme studie finner også at arbeidsgivere har
+større lønnsmakt overfor kvinner enn menn med
+samme utdanningslengde. Studien konkluderer
+derfor med at monopsoni kan være en vesentlig
+faktor som bidrar til lønnsforskjellene mellom
+kvinner og menn i Norge, spesielt når det gjelder
+de med kort utdanning. At arbeidsgivere har mer
+monopsonimakt over kvinner enn menn er også i
+tråd med funn i andre studier (Sokolova & Sorensen, 2021). OECD (2022b) finner likevel ikke at
+konsentrasjon som kilde til markedsmakt gir
+større utslag på lønnen til kvinner enn menn. Det
+kan i så fall indikere at markedsfriksjoner ved
+jobbskifte og ulike preferanser for arbeidsgivere
+er viktigere faktorer for å forklare at arbeidsgiver
+har større lønnsmakt ovenfor kvinner enn menn.
+En mulig årsak kan være at omsorgsoppgaver i
+familien påvirker kvinners valg av arbeidsgiver i
+større grad enn menns, og gjør andre forhold ved
+arbeidsstedet enn lønn viktigere. Lønn blir dermed relativt sett mindre viktig for kvinner enn
+menn.
+Konkurransebegrensende avtaler gir arbeidstakerne mindre muligheter til å skifte jobb og
+arbeidsgiver, og kan dermed gi økt makt til
+arbeidsgiver, som igjen kan påvirke lønningene i
+markedet. I USA er konkurransebegrensende
+avtaler generelt svært utbredt. Dette gjelder særlig innenfor kunnskapsintensive bransjer og profesjoner som ingeniører. Innenfor IKT-bransjene i
+USA har mer enn en tredjedel av arbeidstakerne
+konkurranseklausuler i sine arbeidsavtaler. Det
+finnes slike klausuler innenfor mange ulike yrker.
+Også blant arbeidstakere som ikke har lang
+utdanning har om lag 15 prosent av alle arbeidsta-
+
+4
+
+Kort utdanning omfatter i studien inntil høyeste utdanningsnivå mindre enn fem års utdanning etter ni års obligatorisk grunnskole. Det omfatter personer som er
+ufaglærte, har yrkesfaglig utdanning eller annen videregående skole. Lang utdanning omfatter personer med universitetsgrad. Analysen dekker alle ansatte i Sørøst-Norge i
+alder 20–60 år i perioden 1989–1997. Det dekker om lag
+45 prosent av alle ansatte i Norge i perioden.
+
+[Side 150]
+
+148
+
+NOU 2024: 11
+
+Kapittel 9
+
+Lavlønn i Norge
+
+35
+30
+25
+20
+15
+10
+5
+
+Lavt
+
+Middels
+
+Singapore
+
+Latvia
+
+Frankrike
+
+Australia
+
+Sverige
+
+USA
+
+Luxemburg
+
+Tsjekkia
+
+OECD
+
+Kanada
+
+Nederland
+
+Østerrike
+
+Estland
+
+Storbritannia
+
+Sveits
+
+Belgia
+
+Tyskland
+
+0
+
+Høyt
+
+Figur 9.4 Andel sysselsatte etter kompetansenivå (lavt, middels, høyt)1 som er tilknyttet konsentrerte
+arbeidsmarkeder i privat sektor.2, 3 Prosent. 2019
+1
+
+Kompetansenivåene er definert etter ILOs internasjonale standard for yrkesklassifisering (ISCO-08) på ett-siffernivå. Lavt kompetansenivå omfatter salgs- og serviceyrker og renholdere, hjelpearbeidere mv. (5, 9), middels kompetansenivå omfatter kontoryrker, håndverkere og prosess- og maskinoperatører, transportarbeidere mv. (4, 7- 8) og høyt kompetansenivå omfatter ledere,
+akademiske yrker og høyskoleyrker (1-3).
+2 Konsentrerte arbeidsmarkeder er her definert som markeder som er minst moderat konsentrerte og har en verdi på 1500 eller
+mer etter Herfindahl-Hirschman-indeksen. Indeksen benyttes av mange konkurransemyndigheter når de vurderer markedskonsentrasjon.
+3 Privat sektor omfatter det OECD (2022) referer til som «business sector». Næringer med betydelig grad av offentlig sysselsetting som offentlig administrasjon, forsvar, undervisning og helse- og sosialtjenester er tatt ut.
+4 For OECD er andelen et uvektet gjennomsnitt av landene i studien utenom Singapore.
+Kilde: OECD (2022b).
+
+kere i USA en eller annen form for konkurranseklausul i sine arbeidsavtaler (Skogli mfl., 2016).
+Skogli mfl. (2016; 2023) har kartlagt omfanget
+av konkurransebegrensende avtaler i arbeidsforhold i Norge. De har brukt spørreundersøkelser
+til å undersøke omfanget av konkurranseklausuler, kundeklausuler og rekrutteringsklausuler i
+Norge. En konkurranseklausul er en avtale mellom arbeidsgiver og arbeidstaker som begrenser
+arbeidstakers adgang til å ta ansettelse i, etablere
+eller drive konkurrerende virksomhet med
+arbeidsgiver etter arbeidsforholdets opphør. En
+kundeklausul er en avtale mellom arbeidsgiver og
+arbeidstaker som begrenser arbeidstakers mulighet til å kontakte arbeidsgivers kunder etter at
+vedkommende har avsluttet sitt arbeidsforhold.
+En rekrutteringsklausul er i denne sammenheng
+en avtale som begrenser arbeidstakers mulighet å
+rekruttere tidligere kollegaer i en periode etter
+arbeidsforholdets opphør. Undersøkelsene viser
+at om lag 20 prosent av norske virksomheter
+hadde konkurransebegrensende avtaler i én eller
+flere av arbeidskontraktene med sine ansatte. For-
+
+fatterne fant ingen signifikant endring i andelen
+med konkurransebegrensende avtaler mellom
+2016 og 2023. En finner konkurransebegrensende
+avtaler i arbeidsforhold også innenfor bransjer
+som ikke er blant de typisk mer kunnskapsintensive med mange høyt utdannede spesialister i
+Norge. To spørreundersøkelser fra 2016 og fra
+2023 tyder likevel på at slike avtaler er mest
+utbredt i Norge blant ledere, spesialister og salgsog kundeansvarlige (Skogli mfl., 2016; 2023).
+Undersøkelsen fra 2023 viste samtidig at antallet
+tvistesaker om konkurransebegrensende avtaler i
+arbeidsforhold hadde falt etter innstramningene i
+regelverket i 2016/2017. Innstramningene gjaldt
+karanteneperiodens varighet og bestemmelser
+om å betale kompensasjon når klausulene gjøres
+gjeldende.
+Innvandrere er en annen gruppe som forskningen finner at arbeidsgiver har mer makt i lønnsfastsettelsen overfor enn befolkningen for øvrig.
+Innvandrere i Tyskland er generelt mindre lønnsfølsomme (lavere lønnselastisiteter) enn øvrig
+befolkning, og dette er spesielt tydelig blant inn-
+
+[Side 151]
+
+NOU 2024: 11
+Lavlønn i Norge
+
+vandrere med kortere arbeidserfaring i det tyske
+arbeidsmarkedet (Hirsch & Jahn, 2015). Studier
+har også vist at arbeidsmarkeder i USA med en
+høyere andel innvandrere typisk viser tegn til i
+større grad å være monopsonistiske (Amior &
+Manning, 2021). Innvandrere kan på grunn av
+språkbarriere ha større utfordringer med å få og
+skifte jobb. Slike barrierer kan også komme fra
+begrensninger i oppholdstillatelsene som i større
+grad enn hos øvrig befolkning kan låse innvandrere til samme jobb, samme næring eller geografisk område. Faglærte arbeidsinnvandrere fra
+tredjeland i Norge må eksempelvis ha et konkret
+arbeidstilbud fra en arbeidsgiver for å søke om
+oppholdstillatelse og det må i utgangspunktet
+søkes om ny oppholdstillatelse om en skal bytte
+arbeids- eller oppdragsgiver. Flyktninger blir ofte
+værende i bosettingskommunen de fem første
+årene i Norge, blant annet for å ha rett til introduksjonsprogram, introduksjonsstønad og annen
+økonomisk bistand.
+En annen måte virksomhetene kan utøve makt
+over arbeidstakerne enn ved å trekke lønnen ned,
+er ved endringer i arbeidsvilkår. Dette kan få utslag
+i større omfang av løsere og mer alternative tilknytningsformer enn ordinært ansatt i et arbeidsmarked. En virksomhet med markedsmakt kan eksempelvis tenkes å ha større sannsynlighet på marginen for å tilby arbeidstakerne midlertidige stillinger. Det er lite empiri på feltet, men Bassanini mfl.
+(2022) finner at konsentrasjon i arbeidsmarkedet
+reduserer sannsynligheten for faste stillinger og
+overgang fra midlertidig til fast stilling i en analyse
+av disse forholdene i Tyskland, Frankrike, Spania
+og Italia. Norge inngår ikke i studien. Regulering
+av arbeidsvilkår i et land kan være viktig for å redusere utnyttelse av monopsonimakt.
+En annen måte virksomheter med markedsmakt kan utøve denne på, er å bli mer selektiv med tanke på hvem de ansetter, hva de krever
+av kompetanse, og hva de forventer av allerede
+ansatte arbeidstakere. Det kan medføre en
+ulempe for unge med kort arbeidserfaring. OECD
+(2022b) finner i en analyse som omfatter Australia,
+Canada, USA og Storbritannia en viss sammenheng mellom konsentrasjon og etterspørsel etter
+antall ferdigheter i stillingsannonser. Dette indikerer at markedsmakt kan øke etterspørselen etter
+arbeidskraft med høyere kompetanse.
+
+9.4
+
+Fagforeninger som motmakt
+
+Barth mfl. (2020) undersøkte effekten av fagforeninger i Norge for perioden 2001–2012 ved å se på
+
+149
+
+Kapittel 9
+
+endringer i fradraget for fagforeningsmedlemsskap i inntektsskatten som eksogen variasjon. Studien dekker i hovedsak arbeidstakere i industrien.
+Forfatterne fant at økt fagforeningsgrad på
+arbeidsplassen, gir økt lønn. I tillegg til høyere
+lønninger, fant forfatterne at mer fagorganisering
+i virksomheten gir økt produktivitet og at lønnen
+øker mest i produktive virksomheter. Forfatterne
+peker på at den positive lønns- og produktivitetssøkningen ved økt fagforeningsgrad i stor grad er
+knyttet til variasjon i hvordan forholdet mellom
+ledelsen og arbeidstakerne er organisert på
+arbeidsplassen. Økt fagforeningsmedlemskap i
+analysen stammer i stor grad fra at arbeidstakere i
+små virksomheter med forholdsvis beskjedne
+organisasjonsgrader organiserer seg. Økt fagforeningsmedlemskap bidrar dermed til å nå det nødvendige antallet (eller andelen) personer en virksomhet trenger for enten å etablere eller beholde
+mer formelle kanaler av påvirkning mellom de
+ansatte og virksomheten. Effekten på produktivitet og lønninger vil dermed kunne være mindre
+om fagorganiseringen i virksomheten er svært lav
+eller for eksempel allerede er høy og endringen i
+andel med fagorganisering i liten grad vil påvirke
+innretninger som at det eksisterer en tariffavtale
+og at arbeidsgiver er organisert. Forfatterne påpeker at spørsmålet om økt fagorganisering gir økt
+produktivitet er trolig avhengig av organiseringen
+av lønnsdannelsen og fagforeninger i et hvert land
+og må dermed leses i en norsk kontekst.
+Dodini mfl. (2022) benytter samme metode
+som Barth mfl. (2020) og ser også på lønnseffekten av fagforeninger i Norge basert på data for
+perioden 2001–2015 og for hele økonomien. Forfatterne finner i tråd med det Barth mfl. (2020) at
+økning i fagforeningsgraden på arbeidsplassen i
+gjennomsnitt fører til økte lønninger. Forfatterne
+påpeker at den positive lønnseffekten ved fagforeningsmedlemsskap drives av virkninger i privat
+sektor.
+I tillegg til å vurdere den generelle virkningen
+økt fagforeningsmedlemskap har på lønn, har
+Dodini mfl. (2022) også sett på hvordan lønnseffekten varierer med konsentrasjonsgraden i
+arbeidsmarkedet i Norge. De finner betydelig
+større effekt på lønninger av økt fagforeningsgrad
+i mer konsentrerte arbeidsmarkeder. Dette betyr
+at fagforeningene klarer å hente ut større lønnsøkning i konsentrerte markeder selv om arbeiderne her har færre alternative arbeidsgivere å gå
+til. Forfatterne finner at fagforeninger klarer å
+hente ut mer lønn fra høyt overskudd som stammer fra konsentrasjon både i produkt- og arbeidsmarkedet. Forfatterne finner videre at virksomhe-
+
+[Side 152]
+
+150
+
+Kapittel 9
+
+NOU 2024: 11
+Lavlønn i Norge
+
+ter svarer på økningen i fagforeningsgrad og økt
+lønn med økt bruk av arbeidskraft i konsentrerte
+markeder og redusere bruk av arbeidskraft i markeder uten konsentrasjon. Det gir støtte til teorien
+om hva en kan forvente av sysselsettingsvirkninger av fagforeninger i markeder med monopsoni
+og markeder mer preget av fullkommen konkurranse.
+Vi ser av dette at fagforeninger klarer å øke
+lønningene og også motvirke monopsonimakt.
+Det er likevel et gjenstående spørsmål i hvilken
+grad fagforeninger evner å øke lønningene ikke
+bare i gjennomsnitt, men også for de lavtlønte.
+Ifølge Svarstad (2023) har økt fagorganisering på
+arbeidsplassen bidratt til å redusere sannsynligheten for å være lavtlønnet i Norge. Dette finner hun
+både når lavlønnsgrensen defineres som under
+85 prosent av industriarbeiderlønn og som under
+2/3 av medianlønn.5 Analysen er begrenset til
+ansatte i privat sektor, men som vist i kapittel 7 er
+det også her andelen lavlønte er størst.
+Svarstad (2023) finner at en økning på 10 prosentpoeng i fagforeningsandel i en virksomhet,
+reduserer sannsynligheten for å være lønnet
+under 85 prosent av industriarbeiderlønn med 1,17,2 prosentpoeng. Effekten er noe mindre når hun
+benytter en lavlønnsgrense på 2/3 av medianlønnen. Hun finner at økt fagorganisering reduserer
+sannsynlighet for å være under lavlønnsgrensen,
+definert som under 85 prosent av industriarbeiderlønn, isolert også for næringene industri og
+varehandel.
+Videre finner hun at fagforeningsgraden i virksomheten har mer å si for innvandrere6 enn øvrig
+befolkning, og at dette er særlig tydelig for innvandringsgruppen fra EU/EØS-land. Dette kan
+skyldes at virksomheten har større monopsonimakt overfor innvandrere enn andre, og at de derfor tjener relativt mer på økt fagorganisering på
+arbeidsplassen. En annen mulig forklaring er at
+en større andel av innvandrerne er nærmere lavlønnsgrensen initialt enn øvrig befolkning. Det er
+tenkelig at avstanden til lavlønnsgrensen også har
+noe å si for i hvor stor grad økt fagforeningsandel i
+virksomheten påvirker sannsynligheten for å
+være lavtlønnet i bestemte næringer.
+
+5
+
+6
+
+Det er tatt utgangspunkt i norske data for 2000–2014, personer som jobber minst 20 timer i uken og som i hovedsak
+er ansatt i virksomheter med ti eller flere ansatte.
+Innvandrere er definert som personer som selv har innvandret til Norge, og som er født i utlandet av utenlandsfødte
+foreldre og fire utenlandsfødte besteforeldre i tråd med
+SSBs definisjon av innvandrere.
+
+9.5
+
+Minstelønningers virkning på
+sysselsettingen
+
+Som vist til i punkt 9.2 om det teoretiske bakteppet, vil et lønnsgulv både kunne øke og redusere
+sysselsetting, avhengig av nivået det settes til og i
+hvilken grad monopsoni og fagforeningsmakt har
+påvirket lønnsnivået. Det må forventes at ulike
+studier i forskjellige land og markeder finner ulike
+effekter. Sammenhengen oppsummeres i figur
+9.5. For relativt lave lønnsnivåer i markeder med
+innslag av monopsoni, vil lønnsgulv kunne presse
+opp lønningene og samtidig øke sysselsettingen.
+Dette kan skje inntil lønnsnivået nærmer seg
+arbeidskraftens marginale produktivitet. Gitt at
+arbeidsmarkeder er komplekse og det er et visst
+intervall for lønnen der sysselsettingen endrer
+seg lite, er det rimelig å anta at det finnes et
+område der lønnsendringer har liten betydning
+for sysselsettingen. For høyere lønnsnivåer, vil det
+derimot være en negativ sammenheng mellom
+lønninger og sysselsetting, se figur 9.5. I tråd med
+dette finner den internasjonale forskningen både
+positive, negative og tilnærmet ingen effekt på
+sysselsettingen av minstelønninger (OECD, 2022;
+Elert & Westerberg, 2023).
+Manning (2021) referer til at det over de siste
+årene har vært en dreining både blant politikere
+og innenfor akademia i retning av mer støtte til
+bruken av minstelønninger, forutsatt at de ikke
+settes for høyt. Han peker videre på at det er funnet mer positive effekter av minstelønninger i
+arbeidsmarkeder med lite konkurranse.
+Elert og Westerberg (2023) har oppsummert
+studier som har sett på sysselsettingsvirkninger
+av endringer i tariffastsatte minstelønninger i nordiske og noen andre europeiske land. Det er ikke
+inkludert studier fra Norge her, men mange fra
+Sverige. Samlet viser et flertall av studiene indikasjoner på negative sysselsettingsvirkninger. Forfatterne viser til at dette trolig har sammenheng
+med at slike tariffavtalte minstelønninger allerede
+er forholdsvis høye i disse landene i internasjonal
+sammenheng. I tilfeller der det allerede er etablert en minstelønn for yrkesgruppen, og det er
+snakk om en økning i satsen, er det mer sannsynlig at man allerede er kommet opp på et nivå som
+er mer i tråd med arbeidskraftens marginale produktivitet og en vil se negative sysselsettingsvirkninger av ytterligere satsøkninger. I de svenske
+studiene, er det en tydelig tendens til negative sysselsettingseffekter, selv om disse effektene til dels
+er beskjedne. Det er særlig funnet negative sysselsettingseffekter av inngangslønninger bestemt i
+tariffavtaler for unge, innvandrere og andre grup-

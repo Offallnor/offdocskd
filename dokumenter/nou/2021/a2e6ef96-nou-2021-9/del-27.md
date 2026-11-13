@@ -1,0 +1,884 @@
+# NOU 2021: 9, del 27 av 36 (side 291–300)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
+- Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 291]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+289
+
+Kapittel 13
+
+Kapittel 13
+
+Innleie og entreprise
+13.1 Innledning og oversikt
+I visse situasjoner kan virksomheter se seg tjent
+med, eller nødt til, å innhente arbeidskraft fra,
+og/eller sette ut oppdrag til, andre virksomheter. I
+dette kapitlet vil utvalget konsentrere seg om innleie og entreprise, herunder særlig den rettslige
+grensen mellom disse to kontraktsformene. Utvalget viser til mandatet som blant annet ber utvalget
+om å gjennomgå rammeverket for organisering av
+arbeid og virksomhet. Etter utvalgets vurdering
+ligger arbeidsrettslige reguleringer og konsekvenser for arbeidsforhold ved både innleie og
+entreprise naturlig innenfor mandatets rammer
+selv om entreprise, i motsetning til innleie, ikke er
+en tilknytningsform.
+Arbeidsrettslige problemstillinger rundt entreprise har ikke vært særlig fremtredende i samfunnsdebatten før relativt nylig. De store diskusjonene har særlig fra 1990-tallet handlet om bruken
+av og vilkår for midlertidig ansettelse, og til dels
+også bruken av oppdragstakere/kontraktører.
+Siden har også innleiereglene fått økende oppmerksomhet, først ved oppmykningen i 2000, deretter i forbindelse med gjennomføringen av likebehandlingsprinsippet med Europaparlaments- og
+rådsdirektiv 2008/104/EF om vikararbeid (vikarbyrådirektivet) i 2013, samt senere lovendringer.
+Heller ikke internasjonalt synes arbeidsrettslige
+problemstillinger knyttet til entreprise å ha vært
+særlig debattert eller analysert. Av denne grunn
+finnes forholdsvis lite bakgrunnsmateriale,
+forskning og analyser om omfang, konsekvenser
+for arbeidsforhold mv. ved bruk av entreprisekontrakter i arbeidslivet. På nasjonalt nivå utløste
+imidlertid særlig den såkalte Norwegian-saken
+debatt.
+Til bruk for utvalgets arbeid ble det høsten
+2019 tatt initiativ til å få gjennomført en utredning
+og beskrivelse av bruken av entreprisekontrakter.
+Utredningen ble avgrenset til å beskrive omfang
+og særtrekk ved entreprise som utføres «på stedet» («on-site») hos en oppdragsgiver, for eksempel kantine og renhold (Oslo Economics, 2020).
+
+Rapporten gir uttrykk for et øyeblikksbilde. Det
+foreligger ikke statistikk som gir grunnlag for å
+måle utvikling over tid. Utvalget konstaterer likevel at det kan være et behov for mer systematisk
+kunnskapsbygging når det gjelder å dokumentere
+utviklingstrekk i næringslivet som kan ha konsekvenser for utøvelse av ansvar som arbeidsgiver
+og oppdragsgiver. Dette kan for eksempel være
+tidsserier som gjør det mulig å si noe om utviklingen i bruken av entrepriser, utsetting av oppgaver
+og tjenester og andre sentrale tema som gjelder
+hvordan virksomheter organiserer seg og samhandler med andre. Dette kunnskapsbehovet har
+også en viktig side til det offentliges bruk av konsulenttjenester mv. og det offentliges bruk av private og andre til å utføre tjenester.
+Med innleie menes at en virksomhet (innleier/oppdragsgiver) for en tidsbegrenset periode
+leier inn en arbeidstaker fra en annen virksomhet
+(utleier/oppdragstaker), og hvor arbeidet utføres
+under innleiers tilsyn og ledelse. Den utleide
+arbeidstakeren er ansatt hos utleier og arbeider
+som en arbeidstaker hos innleier, men altså uten å
+være ansatt der. Innleie kan ha visse likhetstrekk
+med entreprise. Med entreprise menes at en virksomhet
+(oppdragstaker/entreprenør/tjenesteleverandør) bruker egne arbeidstakere for å
+utføre et oppdrag for en annen virksomhet (oppdragsgiver), og hvor arbeidstakerne er underlagt
+entreprenørens tilsyn og ledelse. I entreprise forplikter entreprenøren seg til å levere et bestemt
+resultat til oppdragsgiver. Entreprise er dermed
+ikke en tilknytningsform, men en kontraktsform
+mellom virksomheter, hvor entreprenøren er bundet av de samme arbeidsrettslige regler som
+andre arbeidsgivere. Arbeidsgiver og arbeidstaker har dermed de samme sett rettigheter og plikter overfor hverandre.
+Grensen mellom hva som er innleie og hva
+som er entreprise kan i enkelte tilfeller være vanskelig å trekke. I begge situasjoner kan det være
+arbeidstakere i én virksomhet som utfører arbeid i
+en annen virksomhet. Begge deler kan betegnes
+som et flerpartsforhold, hvor det i relasjonen mel-
+
+[Side 292]
+
+290
+
+Kapittel 13
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+lom arbeidstaker A og virksomhet B er et arbeidsforhold, og det mellom virksomhet B og virksomhet C er et oppdragsforhold. Entrepriser er ikke
+omfattet av arbeidsmiljølovens regler om innleie,
+og kan avtales fritt. Det har dermed stor betydning for rettigheter og plikter om det er tale om
+arbeidsleie eller entreprise. Grensedragningen
+mellom innleie og entreprise vil alltid måtte foretas så lenge det er forskjeller i regler og vilkår
+mellom innleie og entreprise. Grensedragningen
+avgjøres etter gjeldende rett gjennom en helhetsvurdering med utgangspunkt i et sett momenter,
+se punkt 8.6.6.
+Tradisjonelt har entreprisekontrakter vært forbundet med tidsbegrensede avtaler om levering
+av et produkt, vare eller gjenstand, for eksempel i
+bygge- og anleggsnæringen. Senere har det også
+blitt vanlig på mer varig basis å sette ut («outsource») ulike støttefunksjoner, som kantine, renhold og vakthold, i entreprisekontrakter. Kontraktsgjenstanden i slike tilfeller er ikke en ting,
+men en tjeneste. I de tilfeller arbeidskraft står sentralt i slike leveranser kan det etter omstendighetene være vanskelig å trekke grensen mellom innleie og entreprise. To høyesterettsdommer, Rt.
+2013 side 998 (Quality People) og HR-2018-2371-A
+(Norwegian), har i løpet av det siste tiåret synliggjort flere problemstillinger i dette grenselandet
+mellom innleie og entreprise. I begge saker var
+bemanning sentralt i leveransen, og entreprisene
+omtales som «bemanningsentreprise». Slik utvalget forstår begrepet kan det likestilles med tjenestekjøp mellom virksomheter hvor arbeidskraft
+eller bemanning utgjør den bærende innsatsfaktoren, men hvor det samtidig er avtalt en resultatforpliktelse. Også ved innleie er arbeidskraften eller
+«bemanningen» det sentrale i avtalen, men innleier står selv til ansvar for resultatet. Det kan reises spørsmål om det er behov for et tydeligere
+skille mellom hva som er levering av ren bemanning (innleie), og hva som er levering av en resultatforpliktelse (entreprise).
+Flertallet viser til Norwegian-saken som et
+eksempel på en virksomhetsorganisering som
+innebar en mer varig utsetting i entreprise, ikke
+av støttefunksjoner som renhold, vakthold og kantine, men av oppgaver som lå innenfor virksomhetens hovedbeskjeftigelse eller kjerneproduksjon.
+Avtalen gikk ut på at datterselskap skulle levere
+kabin- og pilottjenester til driftsselskapene i Norwegian. Alt flygende personell som skulle muliggjøre det å tilby flytransport for reisende, det vil si
+flyselskapets primæroppgave, var satt ut i entreprise. Saken har reist debatt om hvilke konsekvenser fragmentering av virksomhet har for
+
+arbeidsgiveransvar og arbeidstakerrettigheter.
+Flertallet viser til kapittel 11 ovenfor hvor saken
+omtales i relasjon til arbeidsgiverbegrepet.
+Sentrale spørsmål for utvalget i dette kapitlet
+er å vurdere hvorvidt gjeldende regler om grensedragningen mellom innleie og entreprise, herunder bruken av såkalte «bemanningsentrepriser», er hensiktsmessige. Flertallet vil også se
+nærmere på hvilken betydning fragmentering av
+virksomhet gjennom entrepriser kan ha for
+arbeidstakerrettigheter, og vurdere om det er
+behov for tiltak.
+
+13.2 Vurdering av mulige utfordringer
+13.2.1 Innleie
+Innleie er en kontrakts- og tilknytningsform som
+gjør at virksomhetene kan dekke sine midlertidige behov for arbeidskraft. Innleie er gjerne et
+alternativ til midlertidig ansettelse, jf. også at vilkårene for midlertidig ansettelse og innleie langt
+på vei speiler hverandre. Både reglene om innleie
+og midlertidig ansettelse kan sies å være en del av
+rammeverket som regulerer korttidsarbeidsmarkedet.
+Det foreligger ikke samlet statistikk om bruken av innleie. Basert på registerdata fra SSB
+anslås det at omfanget av innleie fra bemanningsforetak var om lag 1,5 prosent av samlet sysselsetting i 2018 (Strøm og von Simson, 2020). Bruken
+av innleie økte etter at regelverket ble endret i
+2000, og etter EU-utvidelsen i 2004. Arbeidstakere
+fra nye EU-land utgjør nå over en tredjedel av alle
+som er ansatt i bemanningsforetak (Nergaard,
+2018).
+Oslo Economics (2020) anslår en noe høyere
+andel innleide i norsk arbeidsliv. De bygger på
+SSBs nasjonalregnskapsstatistikk, hvor sysselsatte innen arbeidskrafttjenester utgjorde 1,75
+prosent av de sysselsatte i 2017. I tillegg kommer
+leie av arbeidskraft som foregår mellom produksjonsbedrifter. Oslo Economics anslår at samlet
+omfang for innleie fra bemanningsforetak og produksjonsbedrifter utgjør 2,5–5 prosent av arbeidsstyrken, men understreker at det er betydelig
+usikkerhet om dette. Det foreligger imidlertid
+ikke egen statistikk over leie mellom produksjonsbedrifter.
+Bruken av innleie fra bemanningsforetak varierer mellom næringer, og har vært særlig høy
+innen bygg og anlegg. Innleieandelen i byggenæringen i Oslo-området var kommet opp i 14–15
+prosent i gjennomsnitt i 2018, mot om lag 6,5 prosent i landet totalt (Nergaard, 2018). Dette kunne
+
+[Side 293]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+tyde på at en permanent del av virksomhetenes
+arbeidskraftsbehov ble dekket gjennom innleie fra
+bemanningsforetak. Også innen industrien benyttes innleie i relativt stort omfang, men da i første
+rekke knyttet til prosjektgjennomføring som krever økt arbeidskraftsbehov i en tidsbegrenset
+periode. En annen side av bruken av innleie fra
+bemanningsforetak er virksomhetenes behov for
+å dekke vikariater når de ordinære arbeidstakerne er fraværende av ulike årsaker. Dette kan
+typisk gjelde vikarbehov innen helse og omsorg,
+administrasjon mv. Innen helse og omsorg er det
+anslått at innleie utgjør om lag 1 prosent av årsverkene.
+Med virkning fra 2019 ble adgangen til innleie
+fra bemanningsforetak strammet inn. Endringene
+ble blant annet begrunnet i et mål om å få ned innleieandelen i bygge- og anleggsbransjen, jf. Prop.
+73 L (2017–2018). Lovendringen er nærmere
+omtalt i punkt 8.6.3. Bemanningsbedriftene som
+er medlemmer i NHO Service og Handel hadde
+en nedgang på nærmere 30 prosent i utleie til
+bygg og anlegg fra 2019 til 2020. Bemanningsbransjen i NHO Service og Handel (2020) har selv
+pekt på at mange virksomheter ikke tilfredsstilte
+det nye avtalekravet. Disse tallene gir ikke informasjon om aktiviteten hos andre virksomheter
+enn deres egne medlemsbedrifter. Imidlertid
+viser også SSBs registerbaserte sysselsettingsstatistikk en viss reduksjon i sysselsettingen innen
+arbeidskrafttjenester fra 2019 til 2020. Koronapandemien og redusert aktivitet innen olje- og
+gassnæringen har ført til en generell og forsterket
+nedgang i bruken av innleie fra bemanningsforetak (Bemanningsbransjen i NHO Service og Handel, 2020).
+En gruppe fagforeninger har gjennomført
+egne kartlegginger på enkelte byggeplasser.
+Deres funn kan tyde på at mye av innleien til byggenæringen har vært i strid med loven. I mange
+tilfeller mangler det avtaler med tillitsvalgte. Det
+er imidlertid usikkert i hvilken grad slike funn er
+representative for hele næringen. Statsbygg gjennomfører regelmessige kontroller av hvordan
+deres entreprenører benytter innleie. I november
+2020 ble 44 virksomheter som benyttet innleie
+kontrollert. Av disse var det 21 virksomheter som
+kunne dokumentere at innleien var lovlig, jf. punkt
+5.7.1. Fra 1. juli 2020 har Arbeidstilsynet fått kompetanse til å føre tilsyn med innleiereglene.
+Arbeidstilsynet gjennomførte høsten 2020 et pilotprosjekt ved bygge- og anleggsvirksomheter i
+Oslo og omegn. Det ble funnet brudd på regelverket i ett av fem tilsyn. Det ble funnet flest brudd på
+
+291
+
+Kapittel 13
+
+arbeidsgivers plikt til å drøfte bruken av innleide
+arbeidstakere med de tillitsvalgte, jf. punkt 5.7.2.
+Tall fra bemanningsbransjen selv viser at
+omfanget av innleie er blitt redusert. Også SSBs
+statistikk viser en viss reduksjon i sysselsettingen
+innen arbeidskrafttjenester fra 2019 til 2020. Etter
+utvalgets vurdering er det imidlertid for tidlig å si
+sikkert om regelverksendringene i 2019 har virket etter sin hensikt.
+Utvalget peker på behovet for mer samlet statistikk og analyser når det gjelder innleie. Data om
+innleie mellom produksjonsbedrifter foreligger
+ikke i det hele tatt, og når det gjelder innleie fra
+bemanningsforetak, foreligger det først og fremst
+statistikk for NHOs medlemsbedrifter. Utvalget
+anbefaler at det prioriteres tiltak for å benytte
+eksisterende rapportering fra virksomhetene til
+offentlige myndigheter, blant annet gjennom aordningen og andre rapporteringsplikter, som
+grunnlag for samlet statistikk fra hele arbeidslivet.
+Dette kan for eksempel ses i sammenheng med
+den allerede eksisterende registreringsplikten
+som bemanningsforetak har hos Arbeidstilsynet.
+Utvalget peker på at tallgrunnlaget om innleie av
+arbeidskraft ikke er tilfredsstillende og anbefaler
+at det prioriteres tiltak for å lage en bedre og mer
+helhetlig og løpende statistikk på dette området,
+jf. punkt 9.6.2.
+De fleste ansettelsesforhold i norske bemanningsforetak er kortvarige. En undersøkelse fra
+2016 viste at gjennomsnittlig ansettelsestid var om
+lag fire måneder. Tall fra bemanningsbransjen i
+NHO Service og Handel viser at gjennomsnittlig
+varighet på deres utleieoppdrag er om lag fire
+uker. Det finnes ikke tilsvarende tall for utenlandsk arbeidskraft ansatt i utenlandske selskaper
+som driver utleie i Norge.
+Utvalget viser til omtale i punkt 5.6 når det gjelder forskjeller i arbeidssituasjon og arbeidsvilkår
+mellom arbeidstakere som leies ut fra et bemanningsforetak og arbeidstakere som har fast ansettelse i en ordinær virksomhet. Det vises blant
+annet til at de ansatte i bemanningsforetak har
+lavere jobbtilfredshet, færre er medlemmer i
+arbeidstakerorganisasjoner og gjennomsnittlig
+timelønn er lavere (Strøm og von Simson, 2020).
+Utvalget viser til NOU 1998: 15 (punkt 10.1)
+hvor det ble påpekt at kortvarige arbeidsforhold
+fører til at inntektsgrunnlaget for arbeidstakere
+blir usikkert og at det er vanskeligere å bygge opp
+gode relasjoner til arbeidsgivere og kolleger når
+man flytter fra arbeidsplass til arbeidsplass. I tillegg kan kortvarige arbeidsforhold føre til at det
+blir vanskeligere å delta i utviklingsarbeid, opplæring og kompetanseoppbyggende oppgaver.
+
+[Side 294]
+
+292
+
+Kapittel 13
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+Videre ble det pekt på som et problem at arbeidstakere må forholde seg til flere arbeidsgivere, og
+kan oppleve mangel på tilhørighet med den virksomheten man er innleid til og de kolleger man
+omgås. Utvalget mener dette fortsatt er en dekkende beskrivelse av utfordringene ved bruk av
+innleie, særlig dersom innleie blir mye benyttet i
+virksomheter. Derfor er det bred enighet om at
+det må gjelde klare vilkår for når innleie kan
+benyttes.
+Utvalget legger imidlertid til grunn at innleie i
+enkelte situasjoner kan være hensiktsmessig og
+nødvendig for å få skaffet til veie arbeidskraft for å
+avhjelpe et bemanningsbehov i en tidsbegrenset
+periode. Under koronapandemien er det imidlertid tydelig kommet frem at flere norske næringer
+på permanent basis er avhengig av utenlandsk
+innleid arbeidskraft. Det vises også til at lønns- og
+arbeidsvilkårene for innleide ble styrket i 2013 i
+forbindelse med innføringen av likebehandlingsprinsippet, og at adgangen til bruk av innleie ble
+strammet inn i 2019. Utvalget vil på denne bakgrunn ikke foreslå endringer i grunnlagene og vilkårene for innleie nå. I tillegg har Arbeidstilsynet
+fått tilsyns- og påleggsmyndighet på innleiereglene fra 2020 som forhåpentligvis vil styrke etterlevelsen. Flertallet, medlemmene Fougner, Almestrand, Brandshaug Dale, Juliussen, Olsen, Salvanes og Spjelkavik mener at disse nye reglene må få
+tid til å virke, og deretter evalueres.
+Mindretallet, medlemmene Dahle, Kastet, Stokland og Tinnlund, viser til at det allerede i dag er
+omgåelser av reglene i § 14-12 første ledd, jf. § 14-9
+andre ledd bokstav a. Arbeidstilsynet har uttalt at
+tilsynet med denne bestemmelsen er utfordrende
+som følge av den konkrete og skjønnsmessige
+vurderingen bestemmelsen legger opp til. Statsbygg har varslet at de vil presentere en rapport
+om innleie i løpet av kort tid. I denne rapporten
+går det frem at over 50 prosent av innleien på
+Statsbyggs prosjekter ikke kunne dokumenteres
+som lovlig innleie. Disse medlemmene kan derfor
+ikke slutte seg til utvalgets beskrivelse i dette
+punktet.
+Før endringen 1. januar 2019 kunne det leies
+inn arbeidskraft i tariffbundne bedrifter etter
+avtale med tillitsvalgt. Denne bestemmelsen førte
+til et stort press på lokale tillitsvalgte, og mye innleie skjedde med denne bestemmelsen som hjemmel. Etter innstrammingen av denne bestemmelsen har mye av innleien skjedd gjennom § 14-12
+første ledd, jf. § 14-9 andre ledd bokstav a. Problemet ligger i ordlyden i § 14-9 andre ledd bokstav a;
+innleie kan skje i henhold til denne bestemmelsen
+når «arbeidet er av midlertidig karakter». Når et
+
+arbeid er av midlertidig karakter, er lett å misforstå. Antakelig er det en utbredt misforståelse at
+for eksempel prosjektarbeid alltid er arbeid av
+midlertidig karakter. Generelt er veldig mye
+arbeid av midlertidig karakter, særlig i byggebransjen, ettersom det på et gitt tidspunkt er ferdigstilt. Dette betyr imidlertid ikke at arbeidet er av
+midlertidig karakter i henhold til § 14-9 andre
+ledd bokstav a. Regler som er lette å misforstå,
+fører erfaringsmessig også til mer misbruk.
+Begrepet «arbeidets karakter» fra 2005-loven
+ble introdusert ved loven av 1977. Uttrykket er lite
+spesifikt og gir anvisning om en konkret, skjønnsmessig vurdering av det enkelte ansettelsesforhold. Tilsvarende gjelder for dagens ordlyd. I forarbeidene er det vist til at det må vurderes konkret om arbeidets karakter tilsier at avtalen skal
+gjelde for et bestemt tidsrom eller for å utføre et
+bestemt arbeid av forbigående art. Det er videre
+uttalt at «[o]fte vil det avgjørende bevis finnes i de
+faktiske sysselsettingsmuligheter vedkommende
+virksomhet har ved avtalens utløp», jf. Ot.prp. nr.
+41 (1975–76), side 71.
+Formålet med lovendringen i 1977 var å styrke
+oppsigelsesvernet, og Høyesterett har i lys av
+dette uttalt i Rt. 1985 side 1141 at vilkåret «når
+arbeidets karakter tilsier det» må tolkes strengt.
+Forarbeidene til den tidligere bestemmelsen
+peker på at det ofte vil være en glidende overgang
+mellom varige og mer avgrensede arbeidsoppgaver, jf. Ot.prp. nr. 50 (1993–94), side 166. Grensen
+må vurderes og fastsettes konkret i det enkelte tilfellet. Ved forlengelser og fornyelser av et midlertidig arbeidsforhold vil årsaken til forlengelsen
+være en viktig tolkningsfaktor. Dersom forlengelsen skyldes at prosjektet tar lengre tid enn forutsatt, vil det stort sett måtte aksepteres.
+Tidligere hadde det som i dag er § 14-9 andre
+ledd bokstav a et tillegg om at arbeidet i tillegg
+måtte skille seg fra det som ordinært utføres i
+virksomheten. I dag er ordlyden endret, og det
+vises ikke lenger til dette tillegget. I Prop. 39 L
+(2014–2015) side 118 er det tydelig presisert at
+både forskjeller i arbeidets art og markerte forskjeller i arbeidsmengde fortsatt skal gi grunnlag
+for midlertidig ansettelse. Hvorvidt arbeidet
+atskiller seg fra det som ordinært utføres i virksomheten, vil fortsatt være et viktig moment ved
+vurderingen av om «arbeidet er av midlertidig
+karakter», jf. dagens lovtekst.
+Ut fra det ovenstående legger § 14-9 andre
+ledd bokstav a tydelig opp til en konkret og
+skjønnsmessig helhetsvurdering, som krever god
+oversikt over virksomhetens situasjon, bemanningen, arbeidet som utføres, arbeidsforholdet til den
+
+[Side 295]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+innleide (eventuelt midlertidig ansatte) mv. Selv
+om Arbeidstilsynets planlagte pilotprosjektet i
+Oslo-området ikke ble gjennomført etter planen
+som følge av koronapandemien, står Arbeidstilsynet i alle tilfeller overfor utfordringer med hensyn
+til å føre tilsyn med etterlevelsen av bestemmelsen.
+I høringsrunden før forslaget om å utvide tilsynskompetansen til Arbeidstilsynet ble presentert i Prop. 61 LS (2019–2020). Endringer i arbeidsmiljøloven og allmenngjøringsloven mv., pekte
+Arbeidstilsynet på problemet med å håndheve
+bestemmelsen i § 14-12 første ledd, jf. § 14-9 andre
+ledd bokstav a. Arbeidstilsynet uttalte at slike tilsyn ofte vil «basere seg på individuelle vurderinger av den enkelte arbeidstakers situasjon. Det
+må derfor tas høyde for at denne type tilsyn både
+vil bli ressurskrevende, og at virkningen av våre
+pålegg kan bli begrenset», jf. Arbeidstilsynets
+høringssvar 13. september 2019. Videre peker
+Arbeidstilsynet på at innleieforholdet ofte er av så
+kort varighet at tilsynets saksbehandlingstid som
+regel vil være lenger enn varigheten til innleieforholdet. Arbeidstilsynet viser til at det «er få andre
+tilsyn som vi gjennomfører i dag som vil kreve så
+mye dokumentasjonsinnhenting som tilsyn med
+innleie- og likebehandlingsreglene vil kreve».
+Endelig viser Arbeidstilsynet til at dokumentasjon
+må innhentes fra bemanningsforetaket og innleier, og i noen tilfeller også fra arbeidstaker og tillitsvalgte, og videre «skal opplysningene og dokumentasjonen underlegges krevende og svært
+skjønnsmessige vurderinger». Vurderingene av
+om reglene er overholdt «vil kreve inngående
+kunnskap om virksomhetens drift og organisatoriske forhold». I denne sammenhengen viser disse
+medlemmene til beskrivelsen av gjeldende rett
+ovenfor.
+Kort oppsummert legger § 14-12 første ledd, jf.
+§ 14-9 andre ledd bokstav a opp til konkrete og
+skjønnsmessige helhetsvurderinger som det er
+krevende for Arbeidstilsynet å gjennomføre, selv
+med økte ressurser. I høringen pekte også
+Arbeidstilsynet på behov som ikke er imøtekommet, slik som blant annet krav om skriftlig redegjørelse for grunnlaget for innleie og sanksjoneringsmulighet for manglende dokumentasjon og
+innføring av rapporteringsplikt via Altinn for
+enklere saksbehandling for Arbeidstilsynet.
+Et alternativ kunne også være å fjerne henvisningen fra § 14-12 første ledd til § 14-9 andre ledd
+bokstav a, slik at innleie er lovlig etter avtale med
+fagforening med innstillingsrett og ved vikariater,
+jf. § 14-12 første ledd, jf. § 14-9 andre ledd bokstav
+b–e. Dette vil være en innstramming som likevel
+
+293
+
+Kapittel 13
+
+gir større grad av fleksibilitet enn et forbud mot
+innleie i byggebransjen.
+Som følge av erfaringene med omgåelser på
+dette feltet og Arbeidstilsynets uttalelser om utfordringer med tilsyn, foreslår disse medlemmene
+videre utredning for så vidt gjelder adgangen til
+innleie av arbeidskraft.
+Et annet mindretall, medlemmet Sverdrup
+Svendsen, mener at de nye reglene om innleie som
+er gjort gjeldende de senere år må evalueres og
+utredes. En slik utredning må være kunnskapsbasert. Dette medlemmet finner det ikke riktig å
+legge føringer på særskilte løsninger for en slik
+utredning. Dette medlemmet anser ikke en generell innstramming i henvisningen i § 14-12 første
+ledd til § 14-9 andre ledd bokstav a som et riktig
+og kunnskapsbasert utgangspunkt for videre
+utredning.
+Utvalget går nå over til å se nærmere på entreprise. Som det fremgår i punkt 13.1 er entreprise
+ikke en tilknytningsform, men en kontraktsform
+mellom virksomheter hvor entreprenøren er bundet av de samme arbeidsrettslige regler som
+andre arbeidsgivere. Det kan likevel være grunn
+til å se nærmere på bruken av entreprise i norsk
+næringsliv herunder den rettslige grensen mellom hva som er innleie og hva som er entreprise.
+Det er et viktig prinsipp i norsk arbeidsrett at de
+underliggende reelle forhold er avgjørende for
+klassifikasjonsspørsmålet. Det er derfor viktig
+også å ha fokus på omgåelser av innleieregelverket. Innleie som av kontraktspartene benevnes
+entreprise må derfor regnes som innleie og bli
+gjenstand for lovens regulering av innleie.
+
+13.2.2 Entreprise
+Bruken av entreprisekontrakter er en sentral del
+av arbeidsdelingen mellom virksomheter, men
+hvilket omfang dette har og hvordan og hvor
+entreprise benyttes er i liten grad blitt undersøkt.
+I utgangspunktet er det naturlig å anta at omfanget av entreprisekontrakter vil speile det generelle aktivitetsnivået i økonomien. I kontraktsrettslig forstand vil entreprisebegrepet omfatte
+svært mange ulike anskaffelser, alt fra innkjøp av
+for eksempel rørleggertjenester i et privat hjem til
+milliardkontrakter om store anleggsprosjekter.
+Virksomhetenes valg av entreprise vil være basert
+på ulike faktorer knyttet til kompetanse og mulighet til å løse oppgaven og bedriftsøkonomisk
+effektivitet. Den fleksibiliteten som en entrepriseorganisering gir, er sentral i mange bransjer og
+sikrer et velfungerende næringsliv med effektiv
+arbeidsdeling.
+
+[Side 296]
+
+294
+
+Kapittel 13
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+Samtidig kan oppsplitting av arbeidsplasser og
+arbeidsprosesser, blant annet ved bruk av entreprise og outsourcing av tjenester, ha konsekvenser for arbeidstakere. Flere internasjonale studier
+viser at økende kompleksitet i organiseringen av
+virksomheter har konsekvenser for blant annet
+lønnsutviklingen for arbeidstakerne og har en
+negativ påvirkning på arbeidsforhold og gruppedynamikken i virksomheten, jf. punkt 4.3.1.
+En måte å tilnærme seg tematikken i en
+arbeidsrettslig kontekst, er å vurdere ulike typer
+av entreprise etter graden av avstand eller nærhet
+mellom kontraktspartene, jf. tilnærmingen Oslo
+Economics (2020) har valgt i sin rapport som er
+utarbeidet til bruk for utvalget. En kan tenke seg
+tre hovedtyper av entreprisekontrakter:
+1. Entreprisekontrakter der arbeidet (som oftest)
+utføres på oppdragstakers egen lokasjon med
+oppdragstakers utstyr, med fysisk avstand fra
+oppdragsgiver og med relativt begrenset samarbeid og påvirkning fra oppdragsgiver underveis. Et eksempel her er «når et skipsverft setter ut produksjon av skipsskrog til en underleverandør lokalisert et annet sted»1 («Off-site»
+entreprise). Denne type entreprise reiser normalt ikke problemstillinger om tilknytning.
+2. Oppdrag som utføres hos en oppdragsgiver
+og/eller ved hjelp av oppdragsgivers utstyr.
+Dette kan omfatte ulike typer oppdrag av ulik
+varighet. Kantinedrift, renhold og andre støttefunksjoner i oppdragsgivers lokaler er eksempler her. Et fellestrekk er at oppgaveløsningen
+skjer gjennom større nærhet, mer samhandling og større påvirkning fra oppdragsgivervirksomheten («On-site» entreprise).
+3. «Interne» entrepriser hvor oppdragsgiver og
+oppdragstaker er bundet sammen gjennom
+eierinteresser, for eksempel innad i et konsern. I slike tilfeller vil det være en tydelig
+nærhet og økonomisk avhengighet mellom
+kontraktspartene. Slike tilfeller kan også tenkes å bære preg av en oppdeling av arbeidsgiverfunksjoner, med mulig mindre samsvar
+mellom ansvar og innflytelse. Dette synes å
+være mindre vanlig, men det finnes eksempler
+fra enkelte bransjer, jf. nedenfor.
+Oslo Economics har i sin rapport konsentrert seg
+om den andre hovedtypen, der arbeidet foregår
+hos oppdragsgiveren («on-site entreprise»). De
+anslår at vel 8,5 prosent av arbeidsstyrken arbeider gjennom slike entreprisekontrakter. Disse er
+først og fremst utbredt innenfor næringene bygg
+1
+
+Oslo Economics (2020), side 11.
+
+og anlegg og forretningsmessig tjenesteyting. Det
+anslås å være i overkant av 90 000 arbeidstakere
+innen bygg og anlegg som arbeider for underleverandører. Det anslås at 50 000–60 000 personer
+utfører ulike former for konkurranseutsatte støttefunksjoner (fasilitetsstyring) hos oppdragsgivere
+innenfor områder som serveringsvirksomhet, renhold, vaktmestertjenester, avfallshåndtering mv.,
+og at dette er et marked i betydelig vekst. Ifølge
+Oslo Economics er andre næringer med et visst
+innslag av sysselsatte gjennom «on-site entreprise» informasjons- og kommunikasjonsteknologi, transport, overnatting/servering og personlig tjenesteyting.
+Offentlige anskaffelser av velferdstjenester er
+et annet eksempel på kontrakter som i mange tilfeller vil utgjøre en entreprise. Slike kontrakter
+innebærer gjerne at en offentlig virksomhet, for
+eksempel en kommune, setter ut lovpålagte tjenester på anbud, og tildeler oppdraget til en privat
+oppdragstaker. Samlet har dette et betydelig
+omfang. Velferdstjenesteutvalget (NOU 2020: 13)
+beregnet at av totalt rundt 800 000 arbeidsforhold
+innen velferdstjenester var det litt over 100 000
+hos kommersielle leverandører av offentlig finansierte velferdstjenester, mens om lag 45 000 arbeidet for ideelle aktører, jf. punkt 4.4.3. Dette kan ha
+ulike former. I noen tilfeller kan en tenke seg at
+oppdragsgiver, for eksempel en kommune, står
+som eier av bygningen leverandøren benytter (for
+eksempel et sykehjem), eller at oppgavene på
+andre måter gjennomføres med større nærhet til
+oppdragsgiver. Andre ganger eier leverandøren
+arbeidsstedet og oppgavene gjennomføres med
+større avstand. Dersom arbeidet utføres utelukkende av ansatte fra leverandøren, uten at oppdragsgiver er til stede, fremstår det som mest
+naturlig å omtale dette som «off site» entreprise.
+Når det offentlige inngår slike kontrakter gjelder det særlige krav til den offentlige oppdragsgiveren, blant annet når det gjelder krav til lønns- og
+arbeidsvilkår for ansatte hos oppdragstaker. Det
+vises til omtale av forskrift om lønns- og arbeidsvilkår i offentlige kontrakter i punkt 8.7.5 ovenfor.
+I tillegg til krav som følger av lovverket, har også
+enkelte større offentlige innkjøpere innført egne
+krav og vilkår. Et eksempel på dette er Oslomodellen, hvor det som del av kontraktsvilkårene
+for nærmere spesifiserte anskaffelser stilles ulike
+krav til leverandørene om blant annet lønns- og
+arbeidsvilkår, og krav om at det i all hovedsak skal
+benyttes fast ansatte med høyest mulig stillingsprosent.2 Når det gjelder anskaffelser av helse og
+omsorgstjenester stiller Velferdsetaten i Oslo
+kommune dessuten krav om at leverandørene må
+
+[Side 297]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+gjennomføre medarbeiderundersøkelser, som skal
+analyseres i årsrapportene. Sikring av arbeidsmiljøet og rutiner for forebygging og håndtering av
+konflikter og slitasje/utbrenthet, samt leders rolle
+og ansvar i dette, er dessuten omfattet av tildelingskriteriene.3
+Som nevnt kan entreprisekontrakter også inngås mellom virksomheter innenfor samme konsern. Norwegian-saken er et kjent eksempel.
+I sin rapport på side 14 peker Oslo Economics
+(2020) på følgende:
+Noen bedrifter har videre organisert sin virksomhet slik at ett datterselskap driver utleie av
+arbeidskraft til andre datterselskap. Dette er
+ikke uvanlig i skipsfartsnæringene og luftfart.
+Det er også eksempler fra bygg og anlegg.
+I spørreundersøkelser svarer virksomheter at de
+benytter et bredt spekter av ulike ordninger/virkemidler for å dekke sine behov for personell.
+Bygg/anlegg og industri er eksempler på store
+næringer med skiftende behov for arbeidskraft.
+Her svarer virksomhetene at de benytter både innleie fra bemanningsforetak, innleie mellom produksjonsbedrifter, bruk av selvstendige oppdragstakere og entreprise (Nesheim, 2017).
+Bygg og anlegg preges av høy grad av spesialisering. Det er sjelden en hovedleverandør har fagkompetanse til å løse alle deler av et oppdrag. Det
+er derfor nødvendig å sette ut oppgaver til underleverandører. Men det er betydelige variasjoner i
+hvordan gjennomføring av prosjekter organiseres.
+En spørreundersøkelse Oslo Economics gjennomførte blant aktører i byggenæringen indikerer
+at om lag 40 prosent av arbeidstakere på et typisk
+bygg- og anleggsprosjekt var ansatt hos hovedleverandøren, omtrent 40 prosent var ansatt hos
+underleverandører og omtrent 20 prosent ble oppgitt å være innleide.
+Når det gjelder det som Oslo Economics
+betegner som konkurranseutsatte støttefunksjoner (fasilitetsstyring), finner man hoveddelen av
+dette markedet i det private næringslivet, men det
+benyttes også på mange områder i offentlig sektor. Ifølge Oslo Economics kan virksomhetene ha
+ulike begrunnelser for å sette ut støttefunksjoner i
+entreprisekontrakter. Noen virksomheter gjør det
+for å la sine ansatte konsentrere seg om kjernevirksomhet, mens andre begrunner valget med
+bærekraft og ressursbruk. Utviklingen av marke2
+3
+
+For omtale av Oslomodellen når det gjelder helse- og
+omsorgstjenester, se NOU 2020: 13, boks 8.1.
+NOU 2020: 13, boks 22.1.
+
+295
+
+Kapittel 13
+
+det ser ifølge Oslo Economics ut til å gå i retning
+av å sette ut prosjekter der aktører får et totalansvar for utbygging og drift. Kontraktene i dette
+markedet har typisk to års varighet med opsjon på
+forlengelse i inntil tre ettårsperioder.
+Selv om entreprise er en mindre undersøkt
+kontraktsform sett fra et arbeidsrettslig ståsted,
+har kartleggingene som er gjennomført gitt et viktig bidrag til forståelsen av bruken av entreprise i
+norsk arbeidsliv. Entreprisekontrakter hvor arbeidet utføres i tilknytning til oppdragsgivers virksomhet, enten på oppdragsgivers sted eller med
+oppdragsgivers utstyr, er først og fremst utbredt
+innenfor næringene bygg og anlegg og forretningsmessig tjenesteyting.
+Som et klart utgangspunkt mener utvalget at å
+organisere arbeid i entrepriser er en nødvendig,
+legitim og bedriftsøkonomisk gunstig arbeidsdeling mellom virksomheter, hvor spesialiserte
+funksjoner kan kjøpes fra andre. Entreprise kan
+også være samfunnsøkonomisk gunstig. Det er
+viktig å sikre virksomheters konkurransekraft og
+effektivitet gjennom den type virksomhetsorganisering som entreprisekontrakter muliggjør.
+Samtidig er det noe ulike syn i utvalget. På den
+ene siden pekes det på at bruk av entrepriser i
+visse tilfeller kan ha en negativ effekt på individuelle arbeidsforhold, og på målet om at fast tilsetting i et topartsforhold skal være hovedregelen i
+norsk arbeidsliv, noe som igjen kan svekke den
+norske modellen. Det vises til at eventuelle utfordringer er mer nærliggende ved entrepriser som
+utføres i nær tilknytning til oppdragsgiver («onsite» entreprise), og som dermed ligner mer på
+innleie-situasjonen, enn ved «off-site» entreprise.
+På den andre siden pekes det på at en entreprenør
+er en vanlig arbeidsgiver med et ordinært topartsforhold til de som utfører arbeidet, og at et vel så
+viktig fokus er at ansatte hos entreprenøren sikres
+gode arbeidsforhold hos sin arbeidsgiver.
+Utviklingstrekk og konsekvenser for arbeidsforhold vurderes i punkt 13.2.3 nedenfor.
+
+13.2.3 Vurdering av utviklingstrekk og
+konsekvenser for arbeidsforhold
+Bruken av innleie fra bemanningsforetak har vært
+økende, fra 0,4 prosent i 1995 til vel 1,5 prosent i
+2018 (Strøm og von Simson, 2020). Økningen kan
+sies å være en naturlig konsekvens av at det fra
+2000 på visse vilkår ble åpnet for innleie. De tall
+som foreligger tyder på at det har vært en reduksjon de siste par årene, som følge av regelverksendringer og deretter et generelt fall i etterspørselen som følge av koronapandemien.
+
+[Side 298]
+
+296
+
+NOU 2021: 9
+
+Kapittel 13
+
+Den norske modellen og fremtidens arbeidsliv
+
+Når det gjelder entreprise foreligger det ikke
+statistikk som kan si noe om utviklingen over tid.
+Oslo Economics bygger sin rapport på et øyeblikksbilde, basert på de data som har vært tilgjengelige. På bakgrunn av de intervjuer og kartlegginger som er gjort vurderer Oslo Economics
+(2020) bruken av entreprise som en essensiell
+kontraktsform i et velfungerende næringsliv med
+effektiv arbeidsdeling. De skriver videre på side 5
+at:
+Det er vår anbefaling at man er varsom med en
+omlegging av alt som i dag kommer innunder
+begrepet entreprise, og heller ser på problemstillinger knyttet til undergrupper av entreprisekontrakter med mulige implikasjoner for
+arbeidstakeres tilknytning.
+De peker at på at dersom man skal vurdere entrepriser med implikasjoner for arbeidstakeres tilknytning, er det «on-site» entrepriser og gråsonen
+mellom innleie og entreprise som er relevant.4
+Enkelte studier tyder på at bruk av eksterne
+tjenesteleverandører eller innleide arbeidstakere
+kan ha noen negative konsekvenser for arbeidsforholdene i den virksomheten som er oppdragsgiver, jf. Olsen, 2016 og Nesheim mfl., 2014.
+Nykamp mfl. (2011) har gjort en undersøkelse av
+tiltak for sikkerhet, helse og arbeidsmiljø i fire
+byggeprosjekter og sett nærmere på hvordan
+kompleks organisering påvirket arbeidsmiljøet.
+Her fant de at mange underleverandører påvirker
+arbeidsmiljøet negativt. Deres resultater peker på
+at fragmentering av arbeidet til mange underleverandører fører til flere ulykker og dårligere helse
+og arbeidsmiljø. Dette er blant annet på grunn av
+ansettelsesavtaler og lønn, samt at det er vanskelig å utvikle en sikkerhetskultur på tvers av mange
+mindre virksomheter (Nykamp mfl., 2011).
+Undersøkelsen gjaldt imidlertid fire byggeprosjekter, og ikke entrepriseforhold generelt.
+Ingelsrud mfl. (2020) gjennomførte kvalitative
+undersøkelser blant arbeidstakere i enkelte
+næringer, blant annet i verftsindustrien. Her fant
+de tegn til at omfanget av innleie og entreprise har
+vært økende og utviklet seg til å bli et permanent
+innslag i virksomhetene. En lavere andel fast
+ansatte fører til at fagforeningenes posisjon i virksomhetene svekkes og at virksomhetene gjør seg
+mer økonomisk avhengige av å bruke innleie eller
+entreprise. De tillitsvalgte som er intervjuet i
+undersøkelsen peker på en opplevelse av økende
+avstand mellom ledelse og ansatte. Det er imidler4
+
+Oslo Economics (2020), side 25.
+
+tid ulike erfaringer fra ulike virksomheter, også
+når det gjelder omfanget av partssamarbeid og
+bruken av drøftinger i forbindelse med beslutninger om innleie.
+Det kan reises spørsmål ved om reguleringer
+av innleie, herunder både strenge vilkår for
+adgangen til innleie, samt likebehandlingsreglene, fører til mer entreprise. Temaet er lite
+undersøkt. I en intervjuundersøkelse om etterlevelse av likebehandlingsreglene som ble gjort i
+2016, fant Fafo at virksomhetene hadde vansker
+med å skille klart mellom henholdsvis innleie fra
+bemanningsforetak, innleie fra andre produksjonsbedrifter og entreprise (Alsos mfl., 2016). På
+områder hvor tariffavtalene var allmenngjort ble
+det ifølge Fafo ikke så store forskjeller i praksis
+fordi arbeidstakerne i hovedsak fikk minstelønn
+eller en lønn rett over denne. Deres inntrykk den
+gangen var at aktørene i liten grad forsøkte å
+omgå likebehandlingsreglene ved å fremstille
+utleie fra bemanningsforetak som å være underrentreprise eller utleie fra produksjonsbedrifter.
+Kontrollmyndighetene har avdekket enkelte
+tilfeller av omgåelser der innleie kamufleres som
+entreprise, blant annet i fiskeindustrien, jf. punkt
+4.6.4.
+I undersøkelsen Oslo Economics5 har gjort
+kommer det frem fra intervjuobjekter på både
+arbeidstaker- og arbeidsgiversiden en uttrykt
+bekymring om at særlig likebehandlingsprinsippet har ført til at flere definerer innleievirksomhet
+som underentreprise eller såkalt «bemanningsentreprise». Videre at det innenfor byggebransjen
+finnes enkelte bemanningsselskaper som har
+omregistrert seg til byggefirmaer. Representanter
+for næringsmiddelindustrien opplyser også om at
+enkelte useriøse aktører går fra innleie til «on-site
+entreprise» som følge av innstramminger i regelverket. En representant for arbeidsgiversiden i
+byggebransjen uttaler at en utvikling hvor bemanningsforetak blir omgjort til bemanningsentrepriser gir dårlig omdømme for bruk av entreprise.
+En representant fra arbeidstakersiden hevder at
+innleie kamuflert som entreprise for å unngå likebehandling har kommet tydelig til syne i forbindelse med koronapandemien. Det hevdes at mens
+bemanningsselskapene har blitt hardt rammet,
+har selskapene som driver innleievirksomhet
+kamuflert som entreprise klart seg bedre. Disse
+utsagnene kommer frem i kvalitative intervjuer,
+og er ikke fulgt opp gjennom kvantitative undersøkelser.
+5
+
+Oslo Economics (2020), side 23.
+
+[Side 299]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+Etter utvalgets vurdering har det også når det
+gjelder bruken av entrepriser vært krevende å
+skaffe tilstrekkelig kunnskap om både omfanget
+og eventuelle tilfeller av omgåelse av innleiereglene, og om konsekvenser for arbeidsforhold.
+Utvalget viser likevel til at bruk av entrepriser og
+fragmentering av arbeid, på samme måte som ved
+innleie, kan skape en kompleksitet ved visse sider
+av ansettelsesforholdene, for eksempel når det
+gjelder HMS-ansvar og partssamarbeid, jf. ovenfor.
+Etter utvalgets vurdering er det behov for mer
+systematisk kunnskapsbygging om utviklingstrekk i næringslivet og hvordan virksomheter
+organiserer seg og samarbeider med andre, herunder også om konsekvenser for arbeidsforhold
+ved entreprise, jf. omtale foran i punkt 13.1 og
+punkt 9.6.2.
+
+13.2.4 Vurdering av rettsutvikling og
+rettstilstand
+Det har vært et behov for en rettslig avgrensning
+mellom innleie og entreprise helt siden arbeidsleie ble regulert fra 1971. Den gang ble arbeidsutleie med visse unntak forbudt, jf. dagjeldende sysselsettingslov § 27.6 Entreprise var ikke omfattet
+av forbudet, og det var derfor behov for en rettslig
+grensedragning. Adgangen til arbeidsleie ble deretter myket opp i 2000, hvor man fikk den gjeldende reguleringen av innleie i arbeidsmiljøloven.7 Selv om innleie ble tillatt fra 2000, er det
+begrensninger i adgangen, og det var (og er) dermed fortsatt behov for en avgrensning mot entrepriser. Senere har også likebehandlingsprinsippet
+ved innleie fra bemanningsforetak blitt innført, og
+også i denne sammenheng er avgrensningen mot
+entreprise relevant.8
+Lovgivers begrunnelser for begrensninger og
+vilkår ved innleie har vært tydelig uttalt. I 1971
+uttalte tjenestemannsutvalget9 blant annet at:
+Leiearbeiderne har ikke de samme fordeler
+som de faste arbeiderne. De har ingen tariffavtaler og nyter ikke godt av spesielle pensjonsordninger, medbestemmelsesrett, velferdstiltak o.a. Disse arbeidere vil i regelen heller ikke
+kunne få videreopplæring i bedriften. Fordi de
+også ofte skifter arbeidsplass, vil de vanskelig
+gli inn i miljøet i den enkelte bedrift.
+6
+7
+8
+9
+
+Ot.prp. nr. 53 (1970–71).
+NOU 1998: 15 og Ot.prp. nr. 70 (1998–99).
+Prop. 74 L (2011–2012).
+Ot.prp. nr. 53 (1970–71), side 21.
+
+297
+
+Kapittel 13
+
+Utvalget er videre kjent med at det volder
+irritasjon og misnøye blant bedriftens egne
+ansatte at leiearbeiderne får bedre betalt for
+samme arbeid. Enkelte aksjoner har derfor
+forekommet for å oppnå lik lønn med leiearbeiderne. Også leiearbeidere har gått til aksjon
+mot utleiefirmaet fordi de har vært misfornøyde med den lønn eller diettgodtgjøring som
+utleiefirmaet har betalt.
+Ved oppmykningen i 2000 fremkom det at behovet
+for begrensninger «i adgangen til innleie bygger
+hovedsakelig på lovgivers utgangspunkt om at
+fast tilsetting i et topartsforhold skal være det normale. Dette er vurderinger departementene slutter seg til».10
+Likebehandlingsprinsippet ble innført i 2013
+som et ledd i gjennomføringen av EUs vikarbyrådirektiv i norsk rett. Vikarbyrådirektivets formål
+er å sikre beskyttelse av innleide arbeidstakere og
+bedre deres vilkår, anerkjenne vikarbyråene som
+arbeidsgivere og å etablere passende rammer for
+anvendelsen av innleid arbeidskraft.11 Departementet påpekte at uavhengig av direktivet ville
+likebehandling bidra til at bruk av innleie ikke
+undergraver målene om et arbeidsmarked med en
+hovedvekt på faste og direkte ansettelser. Det ble
+også påpekt at likebehandlingsprinsippet ville
+kunne bidra til at utleie fra vikarbyrå kunne fungere som et mer likeverdig alternativ til midlertidig ansettelse for arbeidstaker, at arbeidsleie i
+større grad ville begrense seg til de situasjoner
+der det faktisk er et reelt behov for fleksibilitet og
+at arbeidsgiver i mindre grad ville ha reduserte
+lønnskostnader som motivasjon for innleie.12
+Samlet synes innleiebegrensninger særlig å
+være begrunnet i hensynet til å sikre trygge
+ansettelsesforhold med hovedvekt på faste og
+direkte ansettelser. Begrunnelsene for å unnta
+entrepriser fra arbeidsleiereguleringene har vært
+mindre tydelig uttalt.
+Når det gjelder innleie synes det historisk særlig å ha vært et poeng med forbud eller begrensninger der innleier selv har egne ansatte til å
+utføre samme arbeid, og at forbud og begrensninger særlig skulle ramme arbeidskraft som var en
+del av bedriftens ordinære økonomiske virksomhet. Det vises til uttalelser i NOU 1998: 15 (Blaalid-utvalget punkt 5.1.4) om det daværende forbudet:
+10
+11
+12
+
+Ot.prp. nr. 70 (1998–99), punkt 6.3.1.1.
+Prop. 74 L (2011–2012), punkt 2.1.
+Prop. 74 L (2011–2012), punkt 8.3.1.
+
+[Side 300]
+
+298
+
+NOU 2021: 9
+
+Kapittel 13
+
+Den norske modellen og fremtidens arbeidsliv
+
+Behovet for å hente inn ekstern arbeidskraft «dersom virksomheten ikke har og heller ikke burde
+ha tilsatte til å utføre visse arbeidsoppgaver»,
+synes dermed gjennomgående å ha vært anerkjent. Utvalget viser til at entreprise også i dag
+omtales som «en sentral kontraktsform i et velfungerende næringsliv med effektiv arbeidsdeling».13 I tradisjonelle entreprenørbedrifter har
+arbeidstakerne hatt regulære ansettelsesforhold
+hos entreprenøren som arbeidsgiver, slik at særlige spørsmål om tilknytning ikke har vært relevante. Spørsmålet om entreprisekontrakters
+betydning for arbeidstakerrettigheter har imidlertid blitt reist i forbindelse med særlig to høyesterettsdommer den senere tid, jf. Rt. 2013 side 998
+(Quality People) og HR-2018-2371-A (Norwegian).
+Begge sakene gjaldt kjøp av tjenester, hvor tjenestekjøpene (entreprisene) bar preg av å være av
+langvarig karakter. I Quality People gjaldt tjenestekjøpet drift av Statoils interne postkontor, altså
+en typisk støttefunksjon. I Norwegian gjaldt tjenestekjøpet en komplett leveranse av trente og
+kvalifiserte piloter og kabinpersonale på rett sted
+og i rett tid til alle flygningene i henhold til det
+oppsatte ruteprogrammet. Tjenestekjøpet omfattet også å sette opp arbeidsplaner («rostere») som
+bestemmer hvilke piloter og kabinansatte som
+skal delta på de ulike flygningene, og som samlet
+etter utvalgets vurdering må sies å ligge innenfor
+Norwegians kjernevirksomhet. I begge sakene
+ble entreprisen omtalt som «bemanningsentreprise». Begrepet «bemanningsentreprise» synes
+første gang å ha blitt nevnt i Ot.prp. nr. 74 L
+(2011–2012), punkt 8.3.3, i forbindelse med
+avgrensningen av likebehandlingsprinsippets vir-
+
+keområde, og er deretter gjentatt i begge de
+nevnte dommene. Begrepet i seg selv, eller hva
+som ligger i begrepet, synes ikke å ha vært problematisert eller kommentert av Høyesterett.
+Som påpekt innledningsvis i punkt 13.1 er
+entreprise ikke en tilknytningsform, men en kontraktsform mellom virksomheter hvor entreprenøren er bundet av de samme arbeidsrettslige regler
+som andre arbeidsgivere. Utvalget vurderer at
+begrepet «bemanningsentreprise» ikke har et
+klart, avgrenset innhold, men kan likestilles med
+tjenestekjøp mellom virksomheter hvor arbeidskraften utgjør den bærende innsatsfaktoren, men
+hvor det fortsatt er, eller hevdes å være, avtalt en
+resultatforpliktelse. Også innleie er levering av
+bemanning. Utvalget vil drøfte om det er behov
+for et tydeligere skille mellom innleie av arbeidskraft og entreprise (leveranse av en resultatforpliktelse) i punkt 13.3 nedenfor.
+En annen side ved disse to dommene fra Høyesterett er at det i begge sakene ble anført av
+arbeidstakersiden at fragmentering av virksomhet
+gjennom entrepriser kan innebære at arbeidsmiljølovens formål om å sikre trygge ansettelsesforhold utfordres. Felles for begge sakene var at det
+var tale om entrepriser som innebar varig utsetting av visse sider av virksomhetens drift.
+Det vises til omtalen av rettsutviklingen og
+gjeldende rett i punkt 8.6.6 ovenfor. Selv om lovendringene rundt innleie i 2000 ikke var ment å
+innebære en endring i grensen mellom innleie og
+entreprise,14 ble omtalen i proposisjonen fra
+departementet om hva som kjennetegnet innleie,
+altså momentlisten, noe forkortet. Momentlisten
+bygde på Blaalid-utvalgets innstilling. For eksempel ble ikke momenter som at entreprenøren utfører et bestemt arbeid ofte innen en bestemt tid, og at
+et indisium på entreprise er at arbeidsoppgaven
+skiller seg fra hva oppdragsgiverens egen arbeidsstyrke arbeider med, videreført i momentlisten i
+proposisjonen. Forarbeidene bærer ikke preg av
+at dette var bevisste utelatelser. Disse to momentene har fått en mindre tydelig plass og vekting
+når domstolene i ettertid har vurdert grensen
+mellom innleie og entreprise. Som det vil fremgå
+av vurderingen i punkt 13.3.2 nedenfor, kan nettopp disse momentene etter flertallets vurdering
+illustrere hvorfor entrepriser i noen tilfeller kan
+utfordre arbeidsmiljølovens formål om å sikre
+trygge ansettelsesforhold.
+Når det gjelder Norwegian-saken særskilt,
+viser utvalget til at også Luftfartsutvalgets innstilling (NOU 2019: 22) har uttalelser om de arbeids-
+
+13
+
+14
+
+Det forbudet rammer er den utleie av arbeidskraft som er en del av bedriftens ordinære økonomiske virksomhet. For at et forhold skal
+karakteriseres som utleie av arbeidskraft må
+oppdragsgiveren (innleieren) videre «selv ha
+tilsatte til å utføre arbeid av samme art eller driver en virksomhet hvor slikt arbeid inngår som
+et naturlig ledd.» Det vil si at utleie av arbeidskraft til en virksomhet kan være lovlig dersom
+virksomheten ikke har og heller ikke burde ha
+tilsatte til å utføre visse arbeidsoppgaver.
+Denne begrensning ble gjort «fordi det unntaksvis kan tenkes situasjoner der noen har
+bruk for å engasjere arbeid vedkommende selv
+ikke har ansatte til.» (Ot.prp.nr.53 (1970–
+1971)). Oppdrag vil i disse tilfelle vanligvis utføres som entreprise eller regningsarbeid.
+
+Oslo Economics (2020).
+
+Ot.prp. nr. 70 (1998–99), side 41.

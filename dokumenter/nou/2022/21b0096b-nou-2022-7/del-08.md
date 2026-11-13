@@ -1,0 +1,918 @@
+# NOU 2022: 7, del 8 av 31 (side 91–100)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
+- Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 91]
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+I dette avsnittet gjennomgås de ulike omfordelende elementene i gammel og ny alderspensjon.
+Hensikten er å beskrive hvordan de ulike elementene bidrar til at pensjonsinntekten er jevnere fordelt enn arbeidsinntekten som yrkesaktiv. Se
+kapittel 3 Det norske pensjonssystemet for en mer
+detaljert beskrivelse av gammel og ny alderspensjon i folketrygden.
+
+6.3.1
+Gammel alderspensjon i folketrygden
+Det er flere elementer i gammel alderspensjonsmodell som virker omfordelende mellom ulike
+grupper.
+Systemet sikrer alle personer som har hatt lav
+eller ingen inntekt et minste pensjonsnivå. Dette
+bidrar til omfordeling til personer som har hatt lav
+eller ingen yrkesinntekt. Minstesikringen i gammel alderspensjon består av en universell grunnpensjon og et særtillegg som avkortes krone-forkrone mot opptjent tilleggspensjon.
+Alderspensjonen utbetales livsvarig. Gitt at
+utgangspunktet for vurderingen av fordelingseffekter er fordelingen av samlet utbetalt alderspensjon i perioden som pensjonist, vil livsvarig pensjon virke klart omfordelende siden personer som
+lever lenge får utbetalt alderspensjon i flere år enn
+personer som lever kort. Dermed får de som lever
+lenge også høyere samlet utbetalt pensjon, selv
+om årlig pensjon er lik. Kvinner lever generelt sett
+lenger enn menn. Dermed bidrar livsvarig utbetaling til omfordeling fra menn til kvinner – hvis
+utgangspunktet for fordelingsanalysen er samlet
+utbetalt alderspensjon. Også andre grupper som
+lever lenger eller kortere enn gjennomsnittet –
+eksempelvis ulike yrkesgrupper – vil henholdsvis
+tjene eller tape på livsvarig utbetaling.
+For personer som får pensjon over minstepensjon, beregnes alderspensjonen med utgangspunkt i de 20 årene som har gitt størst pensjonsopptjening (høyest pensjonspoeng). Denne
+såkalte besteårsregelen bidrar til omfordeling fra
+grupper med jevn inntekt gjennom karrieren til
+grupper med ujevne inntekter.
+For å få full alderspensjon er det et krav om
+minst 40 års pensjonsopptjening. Det kreves en
+årlig inntekt minst på nivå med folketrygdens
+grunnbeløp (G) for å få opptjening (poengår) i et
+gitt år. 40-årsregelen innebærer at personer med
+lengre inntektskarrierer enn 40 år ikke får pensjon for alle år med inntekt, hvilket betyr en
+omfordeling fra personer med karrierer på mer
+enn 40 år til personer med kortere karrierer.
+Det er satt et opptjeningstak, som innebærer at
+inntekter over en viss grense kun gir pensjons-
+
+89
+
+Kapittel 6
+
+opptjening for den delen av inntekten som er
+under den øvre grensen. Dette opptjeningstaket
+har variert noe etter at folketrygdens alderspensjon ble innført i 1967. Siden 1992 har det blitt gitt
+full pensjonsopptjening for inntekter mellom 1 og
+6 G og en tredels opptjening for inntekter mellom
+6 G og 12 G. Det tjenes ikke opp pensjon for inntekt over 12 G. Opptjeningstaket bidrar til omfordeling fra personer med høye inntekter til personer med lavere inntekter.
+Utgangspunktet for pensjonsopptjeningen er
+såkalt pensjonsgivende inntekt. Ulike ytelser den
+enkelte mottar fra folketrygden i perioder vedkommende ikke har egen arbeidsinntekt, regnes
+også som pensjonsgivende inntekt. Både dagpenger, uføretrygd, sykepenger, arbeidsavklaringspenger og omsorgsstønad gir pensjonsopptjening
+i folketrygden. Det varierer om opptjeningen
+skjer ut fra beregningsgrunnlaget for ytelsene
+eller ut fra selve ytelsen fra folketrygden.
+Videre gis det pensjonsopptjening ved ulønnet
+omsorgsarbeid, eksempelvis til personer som har
+vært hjemmeværende med barn under seks år.1
+Tradisjonelt har en større andel kvinner enn
+menn hatt ulønnet omsorgsarbeid. Den direkte
+effekten av opptjening ved ulønnet omsorgsarbeid
+er derfor at ordningen har bidratt til omfordeling
+fra menn til kvinner. Ulønnet omsorgsarbeid kan
+imidlertid også ha en indirekte negativ effekt på
+pensjonsopptjeningen ved at personer som er
+hjemmeværende med små barn, er utenfor
+arbeidslivet i en periode av karrieren der
+lønnsveksten normalt er sterkest. I den grad dette
+fraværet fører til et permanent lavere lønnsnivå
+enn disse personene ville fått dersom de ikke
+hadde vært hjemmeværende, kan ordningen med
+ulønnet omsorgsarbeid gi lavere pensjonsopptjening i alle år etter perioden med omsorgsarbeid er
+avsluttet. I så fall er det usikkert om denne ordningen samlet sett virker omfordelende.
+Alderspensjonen til gjenlevende ektefeller og
+samboere beregnes i gammel alderspensjon etter
+særskilte regler som innebærer at den gjenlevende kan «arve» en del av den avdødes opptjente
+pensjon. Denne ordningen tilgodeser generelt
+etterlatte som har hatt lavere inntekt enn avdøde.
+Siden kvinner både gjennomgående lever lenger
+enn menn og ofte er yngst i ekteskapet/samboerskapet, er det klart flest kvinner som har nytt godt
+av denne ordningen. Den har derfor bidratt til
+1
+
+Perioden det kan godskrives pensjonspoeng for i gammel
+alderspensjon ble i forbindelse med pensjonsreformen
+redusert fra syv til seks år på grunn av skolestart fra seks
+år. Samtidig økte antall pensjonspoeng som kan godskrives
+per år fra tre til tre og et halvt pensjonspoeng.
+
+[Side 92]
+
+90
+
+Kapittel 6
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+omfordeling fra menn til kvinner. Etterlattepensjonsutvalget, jf. NOU 2017: 3 Folketrygdens ytelser
+til etterlatte – Forslag til reform avsnitt 8.2, pekte
+imidlertid på at ordningen «vanskelig [kan] hevdes å ha godt begrunnede fordelingsvirkninger»,
+og at ordningen favoriserer par som har skjevfordelt inntekten seg imellom. Se for øvrig omtale av
+oppfølgingen av Etterlattepensjonsutvalgets utredning i avsnitt 6.3.2.
+
+6.3.2
+Ny alderspensjon i folketrygden
+Som omtalt innledningsvis, var en av målsetningene med pensjonsreformen å få en sterkere og
+mer direkte sammenheng mellom inntekten den
+enkelte har i yrkesaktiv alder og størrelsen på den
+alderspensjonen vedkommende mottar. Dette er
+også utgangspunktet for den nye opptjeningsmodellen i folketrygden der pensjonsopptjeningen i
+utgangspunktet er proporsjonal med yrkesinntekten i alle år mellom 13 og 75 år. Ny alderspensjon
+har imidlertid innebygget en rekke elementer
+som svekker proporsjonaliteten mellom yrkesinntekt og pensjon, men som samtidig bidrar til
+omfordeling mellom ulike grupper.
+Garantipensjon sikrer en minimumspensjon til
+alle pensjonister, uavhengig av hvilken yrkesinntekt de har hatt. Garantipensjonen avkortes 80
+prosent mot den inntektsavhengige delen av
+alderspensjonen, inntektspensjon. Nivået på
+garantipensjonen og den gradvise avkortningen
+mot inntektspensjon innebærer at mange pensjonister som har hatt relativt mye yrkesinntekt, vil
+motta en andel garantipensjon, og dermed få høyere alderspensjon enn en strengt proporsjonal
+modell ville gitt. Når samlet pensjonsgivende inntekt overstiger et visst nivå, vil garantipensjonen
+være helt avtrappet, og fra og med dette nivået er
+systemet proporsjonalt opp til den øvre grensen
+for årlig opptjening på 7,1 G. Garantipensjonen
+omfordeler fra personer med høy yrkesinntekt og
+lange karrierer til personer som har hatt lavere
+inntekt og/eller korte karrierer.
+Alderspensjonen utbetales livsvarig på samme
+måte som alderspensjonen fra gammel pensjonsordning. Som i gammel alderspensjon innebærer
+livsvarig pensjon en omfordeling til personer som
+lever lenge.
+Med pensjonsreformen ble det innført levealdersjustering av pensjon fra både ny og gammel
+alderspensjonsmodell. Levealdersjusteringen –
+som innebærer at alderspensjonene justeres etter
+utviklingen i levealderen i befolkningen – er
+kjønnsnøytral, det vil si at kvinner og menn i
+samme årskull får justert alderspensjonen på
+
+samme måte selv om kvinner i gjennomsnitt lever
+en god del lenger enn menn. Dersom utgangspunktet for fordelingsanalysen er samlet pensjonsutbetaling, bidrar kjønnsnøytral levealdersjustering
+til omfordeling fra menn til kvinner. Hvis kvinners
+levealder framover viser seg å øke mindre enn
+menns levealder, vil effekten av denne omfordelingen naturlig nok reduseres.
+Reglene for regulering av alderspensjon under
+utbetaling ble endret med pensjonsreformen. De
+nye reglene, som også ble gjort gjeldende for
+alderspensjon fra den gamle pensjonsordningen,
+innebar at alderspensjon under utbetaling skulle
+reguleres med lønnsveksten og deretter fratrekkes 0,75 prosent. Dette innebar en svakere regulering enn tidligere på 2000-tallet. Fra 2022 er reguleringsreglene endret, og alderspensjon under
+utbetaling skal heretter reguleres med gjennomsnittet av lønns- og prisveksten. Dersom lønnsveksten i gjennomsnitt er 1,5 prosent høyere enn
+prisveksten, vil imidlertid utviklingen i pensjonene over tid bli om lag den samme som med de
+tidligere reglene.
+Isolert sett betyr svakere regulering at framtidige pensjonsutbetalinger blir mindre verdt. De
+nye reguleringsreglene må imidlertid ses i sammenheng med innføringen av levealdersjustering i
+og med at levealdersjusteringsfaktorene, forholdsog delingstall, fastsettes blant annet med utgangspunkt i at pensjonene skal reguleres svakere enn
+lønnsveksten. Effekten er at pensjonene blir høyere på uttakstidspunktet. Se også kapittel 12 Levealdersjustering og fleksibel pensjon. Reguleringsreglene innebærer dermed at det utbetales en
+større andel av opptjent pensjon de første årene
+etter pensjonsuttak enn det som ville ha blitt utbetalt dersom det ikke ble gjort et fradrag på 0,75
+prosent. Denne løsningen tilgodeser isolert sett
+grupper med kort forventet levetid, og den bidrar
+dermed blant annet til en viss svekkelse av omfordelingen fra menn til kvinner.
+Satsene for garantipensjon har fra 2011 blitt
+regulert i takt med lønnsveksten og deretter justert for effekten av levealdersjusteringen for 67åringer i reguleringsåret. Satsene skulle likevel
+ikke reguleres lavere enn pensjon under utbetaling som er høyere enn minstenivåene. Fra 2022
+skal garantipensjonen reguleres med gjennomsnittet av pris- og lønnsveksten, altså på samme
+måte som opptjent pensjon under utbetaling.
+Dette vil over tid føre til at garantipensjonsnivået
+reduseres sammenliknet med lønnsnivået i samfunnet. Det er en del av utvalgets mandat å vurdere reglene for regulering av garantipensjon, se
+kapittel 11 Minsteytelsene i pensjonssystemet.
+
+[Side 93]
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+Inntekt over opptjeningstaket på 7,1 G gir ikke
+opptjening i ny alderspensjon. Dette bidrar til
+omfordeling fra personer med inntekter over
+7,1 G til personer med lavere inntekter. Ifølge tall
+fra NAV hadde 18,6 prosent av arbeidsstyrken
+høyere pensjonsgivende inntekt enn 7,1 G i 2020,
+herav 10,6 prosent av kvinnene og 25,8 prosent av
+mennene.
+Personer som har hatt omsorg for barn under
+seks år får godskrevet såkalt omsorgsopptjening
+dersom de har lavere inntekt enn 4,5 G. Det gis
+også omsorgsopptjening til personer som tar seg
+av syke, funksjonshemmede eller eldre dersom
+omsorgen gis over en viss periode og har et visst
+ukentlig omfang.
+Førstegangstjeneste med varighet på over seks
+måneder gir pensjonsopptjening i ny alderspensjon. Opptjeningen tilsvarer en årlig inntekt på
+2,5 G.
+På samme måte som i gammel alderspensjon
+gis det pensjonsopptjening i ny alderspensjon for
+perioder der en person mottar dagpenger, uføretrygd, sykepenger (med utgangspunkt i inntektsgrunnlag) og arbeidsavklaringspenger (med
+utgangspunkt i stønaden).
+I gammel alderspensjon kan etterlatte, som
+omtalt i avsnitt 6.3.1, «arve» deler av pensjonsopptjeningen til avdøde, hvilket innebærer at de får
+høyere alderspensjon enn egen pensjonsopptjening tilsier. En slik ordning er ikke videreført i ny
+alderspensjon. Dette er i samsvar med forslagene
+fra Etterlattepensjonsutvalget, jf. NOU 2017: 3. I
+departementets oppfølging av denne utredningen,
+Prop. 13 L (2020–2021) Endringer i folketrygdloven
+(nye etterlatteytelser), la departementet til grunn at
+gjenlevendefordeler i folketrygdens alderspensjon «opprettholder […] en barriere som stimulerer til skjevfordeling av inntekt i husholdningen».
+Departementets begrunnelse for å ikke videreføre
+ordningen i ny alderspensjon var derfor at en
+avvikling av gjenlevendefordelene ville styrke
+kvinners arbeidsinsentiver, jf. Prop. 13 L (2020–
+2021) avsnitt 7.6.4. Samtidig mente departementet
+at ordningen hadde hatt uheldige fordelingsvirkninger:
+«Departementet vil også understreke at omleggingen av etterlatteytelsene i folketrygden har
+som formål å stimulere til eget arbeid over en
+lengre periode av yrkeskarrieren, noe som vil
+resultere i økte pensjonsnivåer, særlig for kvinner. Dette vil etter departementets oppfatning
+kunne bidra til å utjevne de initiale kjønnsforskjellene i pensjonsutbetalingene. Den velferdsmessige effekten av omleggingen kan
+
+91
+
+Kapittel 6
+
+dermed ikke bare ses i lys av at overføringene
+fra staten reduseres, det må også tas i betraktning at kvinner får sterkere motivasjon til eget
+arbeid med egen inntekt, noe som i sin tur fører
+til økt egen pensjonsopptjening.
+Samtidig mener departementet at dagens
+regler for beregning av alderspensjon til etterlatte har uheldige fordelingsvirkninger. For
+eksempel ligger det et insentiv i etterlatteytelsene til å skjevfordele inntekt mellom menn og
+kvinner i husholdningen mest mulig, noe som i
+dag særlig svekker arbeidsinsentivene for kvinner. Langvarig mottak av ytelser fører til passivitet, svak arbeidsmarkedstilknytning og dermed lav pensjonsopptjening. Departementet
+vektlegger at det ikke bør foreligge elementer
+i utformingen av velferdsytelsene som er
+basert på en utdatert oppfatning av kjønnsrollemønstre og fordeling av oppgaver i husholdningen, som gir insentiver til skjevfordeling av
+både formelt og ikke-formelt arbeid. Systemet
+med gjenlevendefordeler i alderspensjonen har
+etter departementets oppfatning slike effekter,
+og dette rammer særlig kvinner.»
+Skattesystemet for alderspensjon ble lagt om i forbindelse med pensjonsreformen. Det nye skattesystemet for pensjonister er sterkt progressivt,
+særlig på grunn av et særskilt skattefradrag for
+pensjonsinntekt. Fradraget avkortes gradvis mot
+pensjonsinntekt, og faller helt bort når pensjonsinntekten når en viss størrelse. Fradraget innebærer at gjennomsnittsskatten på pensjonsinntekter opp til nivået der fradraget faller helt bort, blir
+lavere enn for arbeidsinntekt. Skattereglene
+bidrar til omfordeling fra personer med høye pensjonsinntekter til personer med lave pensjonsinntekter. Typeeksemplene i avsnitt 6.6.5 illustrerer
+hvordan forskjellen mellom pensjon før og etter
+skatt varierer med nivået på samlet pensjon før
+skatt.
+Med pensjonsreformen ble det også innført
+fleksibelt uttak av pensjon mellom 62 og 75 år.
+Utsatt uttak av pensjon gir en høyere årlig pensjon
+enn tidlig uttak. Samtidig er det mulig å kombinere uttak av pensjon med fortsatt arbeid, uten at
+pensjonen avkortes. Dermed vil nivået på årlig
+utbetalt pensjon variere for personer født i samme
+årskull som har nøyaktig samme pensjonsopptjening dersom de velger å starte pensjonsuttaket
+ved ulike aldre. Samtidig kan personer som har
+hatt høye inntekter og har mye pensjonsopptjening, få samme årlige pensjon som personer som
+har hatt lav inntekt og lite opptjening dersom
+førstnevnte starter uttaket tidlig og sistnevnte
+
+[Side 94]
+
+92
+
+Kapittel 6
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+starter uttaket sent. De fleksible uttaksreglene
+innebærer derfor at årlig utbetalt pensjon ikke
+nødvendigvis gir et godt bilde på den enkeltes
+pensjonsrettigheter fra folketrygden.
+De fleksible uttaksreglene kan likevel påvirke
+fordelingen mellom ulike grupper. Som omtalt
+over ble det med pensjonsreformen innført levealdersjustering av alderspensjon. Det er mulig å
+kompensere for effekten av levealdersjusteringen
+ved å stå lenger i arbeid enn tidligere årskull.
+Dette gir høyere pensjonsopptjening og høyere
+pensjon – både årlig og samlet alderspensjon. I
+den grad ulike grupper ikke har den samme
+muligheten til å kunne stå lenger i jobb for å kompensere for levealdersjusteringen, kan levealdersjustering i kombinasjon med fleksible uttaksregler
+ha fordelingseffekter.
+Folketrygdens alderspensjon har alltid omfordelt fra grupper som lever kort til grupper som
+lever lenge. Innføringen av levealdersjustering
+påvirker i utgangspunktet ikke denne omfordelingen, heller ikke fordelingen mellom grupper med
+ulik utvikling i levealder. Før innføringen av levealdersjustering var alderspensjonen for en gitt
+opptjening uavhengig av utviklingen i befolkningens levealder. Økt levealder innebar da at en pensjon av en gitt størrelse ble utbetalt over en lengre
+periode. Grupper som hadde større økning i levealder enn gjennomsnittet, fikk utbetalt pensjonen
+lengre enn andre, og fikk dermed samlet sett mer
+fra pensjonssystemet.
+Etter innføringen av levealdersjustering reduseres pensjonsnivåene for alle dersom den generelle levealderen øker. Da får alle nye alderspensjonister i utgangspunktet en lavere alderspensjon. Det er imidlertid fremdeles slik at grupper
+som har bedre levealdersutvikling enn andre får
+pensjonen utbetalt over en lengre periode og dermed samlet sett får utbetalt mer fra systemet.
+
+6.3.3
+
+Fordelingseffekter av
+tjenestepensjon og AFP
+Alderspensjon fra folketrygden suppleres av
+arbeidsmarkedsbaserte pensjonsordninger; tjenestepensjon og AFP. Disse ordningene er skattefavoriserte ved at innbetalinger til ordningene er
+fradragsberettigede for arbeidsgiver og eventuelt
+arbeidstakerne hvis det betales egenandel, samt
+at opptjeningen ikke anses som skattbar inntekt
+eller formue for arbeidstaker før pensjonene tas
+ut. Privat AFP finansieres av tilsluttede private
+foretak og staten i fellesskap. Staten dekker en
+tredel av AFP-utgiftene.
+
+Det er ulike ordninger i privat og offentlig sektor. Siden ordningene varierer både i utbredelse
+og kvalitet, varierer det mellom ulike grupper
+hvor mye pensjon de får fra slike ordninger. Dermed har de arbeidsmarkedsbaserte ordningene
+betydning for fordelingen av samlet pensjonsinntekt mellom ulike grupper.
+Folketrygdens alderspensjon skal sikre både
+et visst minimumsnivå på pensjonene og at pensjonene står i et visst forhold til tidligere inntekt. De
+arbeidsmarkedsbaserte ordningene skal derimot
+først og fremst sikre en pensjon som står i forhold
+til den arbeidsinntekten arbeidstakerne har hatt.
+Dette avsnittet gir en overordnet beskrivelse
+av ulike tjenestepensjons- og AFP-ordninger og
+hvordan de kan påvirke fordelingsprofilen i det
+samlede pensjonssystemet. En nærmere beskrivelse av tjenestepensjonsordninger og AFP-ordninger finnes i kapittel 4.
+Offentlig sektor
+Ansatte i offentlig sektor har i utgangspunktet
+enhetlige tjenestepensjons- og AFP-ordninger. De
+aller fleste tjenestepensjonsordningene er omfattet av overføringsavtalen, en avtale som innebærer
+at all opptjening i offentlige tjenestepensjonsordninger skal ses i sammenheng og beregnes og
+utbetales fra den siste pensjonsordningen arbeidstakeren var medlem av. Offentlig tjenestepensjon
+utbetales livsvarig og reguleres på samme måte
+som alderspensjon fra folketrygden.
+Alle offentlig ansatte født til og med 1962, har
+en sluttlønnsbasert «bruttopensjonsordning» som
+sikrer ansatte med full opptjening, minst 30 år, en
+samlet pensjon fra folketrygden og offentlig tjenestepensjon før levealdersjustering på 66 prosent
+av sluttlønn inntil 12 G. Hvor mye som blir utbetalt fra tjenestepensjonsordningen, avhenger dermed av utbetalingen fra folketrygden. De som får
+en høy andel av sluttlønn i pensjon fra folketrygden, får relativt sett lite tjenestepensjon, mens de
+som får en relativt lav andel av pensjon fra folketrygden, får mye fra tjenestepensjonsordningen.
+Blant annet reglene om minstepensjon/
+garantipensjon og reglene om opptjeningstak som
+er omtalt i avsnitt 6.3.1 og 6.3.2, gjør at folketrygden har en fordelingsprofil der lavtlønte får en
+større andel av lønn i pensjon enn høytlønte.
+Siden den sluttlønnsbaserte offentlige tjenestepensjonsordningen sikrer ansatte med full opptjening en samlet pensjon fra folketrygd og tjenestepensjon på 66 prosent for inntekt opp til 12 G,
+utlikner den offentlige tjenestepensjonsordningen
+folketrygdens opptjeningsprofil fullt ut for inntekt
+
+[Side 95]
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+opp til 12 G for personer med full opptjening i
+offentlig tjenestepensjon.
+Etter omleggingen av de offentlige tjenestepensjonsordningene fra 2020, har ansatte født fra
+og med 1963 tjent opp pensjon i en ny tjenestepensjonsordning der pensjonene skal beregnes uavhengig av hva den enkelte får fra folketrygden –
+en såkalt påslagsordning. Den nye tjenestepensjonsordningen gjelder altså for de samme årskullene som er fullt ut omfattet av ny alderspensjon i
+folketrygden. Ansatte i denne gruppen som har
+opptjente rettigheter i den gamle bruttopensjonsordningen fra før 2020, får videreført disse rettighetene i form av en såkalt «oppsatt pensjon».
+Påslagsordningen har likhetstrekk med ny
+alderspensjon i folketrygden ved at den har alleårsopptjening og at ansatte tjener opp en viss
+andel av lønn til en pensjonsbeholdning hvert år.
+Pensjonsbeholdningen i påslagsordningen skal
+også reguleres på samme måte som pensjonsbeholdningen i ny alderspensjon i folketrygden og
+deles på de samme delingstallene som ny alderspensjon i folketrygden.
+Opptjeningssatsene i påslagsordningen er 5,7
+prosent av lønn inntil 7,1 G og 23,8 prosent av lønn
+mellom 7,1 og 12 G. Høytlønte får med andre ord
+relativt sett størst pensjonsopptjening i denne ordningen.
+I ny alderspensjon i folketrygden tjenes det til
+sammenlikning opp 18,1 prosent av pensjonsgivende inntekt inntil 7,1 G. Offentlig ansatte som er
+omfattet av påslagsordningen er dermed sikret en
+samlet opptjening fra folketrygd og tjenestepensjon på 23,8 prosent av all inntekt inntil 12 G så
+lenge opptjeningsgrunnlaget er det samme. Siden
+blant annet overtid kun er pensjonsgivende i folketrygden, vil ikke opptjeningsgrunnlagene alltid
+være like. Overordnet kan imidlertid påslagsordningen langt på vei sies å utlikne den avtagende
+opptjeningsprofilen i folketrygden for inntekt inntil 12 G.
+Både i ny og gammel offentlig tjenestepensjon
+får ansatte i staten pensjonsopptjening også mens
+de er i visse typer permisjon. Hvilke typer permisjon det er snakk om går fram av den såkalte «permisjonsavtalen». I kommunal sektor kan det gis
+pensjonsopptjening ved utdanningspermisjon i
+inntil fire år.
+Det gis også opptjening av offentlig tjenestepensjon til sykemeldte i sykemeldingsperioden,
+og til 67 år til ansatte som blir helt eller delvis
+uføre.
+Pensjonsordningen for offentlig ansatte har
+også tilknyttet AFP. For ansatte født før 1963 gir
+AFP rett til tidligpensjon i alderen 62 til 66 år. Slik
+
+93
+
+Kapittel 6
+
+AFP kan ikke kombineres med folketrygd eller
+offentlig tjenestepensjon. Uttak av gammel AFP
+innebærer at uttaket av folketrygd og tjenestepensjon kan utsettes til 67 år. Dermed kommer de
+som benytter seg av denne ordningen relativt sett
+bedre ut enn personer i samme årskull som må ta
+ut folketrygd og tjenestepensjon dersom de
+ønsker å ta ut pensjon før fylte 67 år.
+Ansatte født i 1963 eller senere vil få rett til en
+ny livsvarig AFP som kan tas ut parallelt med
+alderspensjon fra folketrygden og offentlig tjenestepensjon uten å bli avkortet. De endelige reglene
+for ny offentlig AFP er ikke fastsatt, men i henhold til pensjonsavtalen mellom partene i offentlig
+sektor av 3. mars 2018 skal ordningen utformes
+etter mønster av AFP-ordningen i privat sektor.
+Dette innebærer blant annet at pensjonen vil bli
+beregnet ut fra årlig pensjonsgivende inntekt i folketrygden opp til 7,1 G i alderen 13–61 år. Denne
+ordningen har med andre ord samme opptjeningstak som ny alderspensjon i folketrygden, slik at
+ansatte med lavere og midlere inntekter får relativt sett mer i pensjon sammenliknet med tidligere
+inntekt enn ansatte med høye inntekter.
+Uføre vil ikke få rett til ny offentlig AFP, men
+slik den vedtatte loven er, vil de få en såkalt «betinget tjenestepensjon». Betinget tjenestepensjon tjenes opp parallelt med påslagspensjon fra 1. januar
+2020 og kommer til utbetaling til personer som av
+ulike årsaker ikke får rett til hverken offentlig
+eller privat AFP.
+Omleggingen av offentlig tjenestepensjon og
+offentlig AFP har åpenbart slått positivt ut for
+visse grupper offentlig ansatte og mindre positivt
+ut for andre grupper. Den gamle tjenestepensjonsordningen, som gir full pensjon etter 30 års opptjening og der samlet pensjonsnivå beregnes ut fra
+siste inntekt, har åpenbart vært spesielt gunstig
+for personer med relativt korte karrierer og personer som har hatt høy lønnsvekst mot slutten av
+karrieren. Den gamle ordningen tilgodeser også
+personer som tar ut AFP, siden disse får anledning
+til å gå av med fullverdig førtidspensjon samtidig
+som de kan utsette uttaket av folketrygd og tjenestepensjon til 67 år. Personer som har jobbet hele
+eller deler av karrieren i redusert stilling, har
+også nytt godt av særlig gunstige regler for samordning av folketrygd og tjenestepensjon.
+De som trolig har kommet best ut av overgangen til ny offentlig tjenestepensjon og ny AFP er
+personer med lange karrierer i offentlig sektor.
+Samtidig kommer personer med jevne inntekter
+gjennom karrieren relativt sett best ut av overgangen til alleårsopptjening av offentlig tjenestepensjon. Personer som fratrer tidlig, kommer derimot
+
+[Side 96]
+
+94
+
+NOU 2022: 7
+
+Kapittel 6
+
+Et forbedret pensjonssystem
+
+gjennomgående noe dårligere ut siden de må ta ut
+folketrygd og tjenestepensjon før fylte 67 år.
+Ny offentlig AFP vil være en kvalifikasjonsordning, det vil si at den ansatte må tilfredsstille visse
+krav for å få rett på pensjon. Herunder må den
+ansatte ha vært tilsluttet AFP-ordningen i minst
+sju av de siste ni årene før fylte 62 år.2 Det går
+fram av pensjonsavtalen av 3. mars 2018 at:
+«Det forutsettes at det etableres systemer for
+medregning av kvalifikasjonstid og refusjoner
+mellom AFP-ordningene i offentlig og privat
+sektor, slik at kvalifikasjonstid fra privat sektor
+kan medregnes i offentlig sektor og omvendt.»
+En slik ordning med medregning av kvalifikasjonstid vil bidra til at færre mister retten til AFP
+på grunn av at de mangler tilstrekkelig tilslutningstid før fylte 62 år.
+Privat sektor
+I privat sektor finnes det flere ulike tjenestepensjonsordninger som gir foretakene skattefradrag
+for innbetalte pensjonspremier. Disse ordningene
+er regulert i tre ulike pensjonslover; lov om foretakspensjon (regulerer ytelsespensjoner), lov om
+innskuddspensjon og lov om tjenestepensjon
+(regulerer såkalte hybridpensjonsordninger). De
+tre pensjonslovene er rammelover, det vil si at de
+regulerer grensene for hva som er tillatt innenfor
+de ulike typene pensjonsordninger. Alle foretak i
+privat sektor med minst to ansatte er pålagt å ha
+en tjenestepensjonsordning som har innskuddssatser på 2 prosent av lønn inntil 12 G og fortsatt
+opptjening for ansatte som blir uføre. Ut over
+dette står foretakene stort sett fritt til å bestemme
+hvor god kvalitet tjenestepensjonsordningene skal
+ha. Det er stor variasjon i privat sektor med hensyn til hvor gode tjenestepensjonsordninger de
+ansatte har.
+Alle tjenestepensjonslovene i privat sektor
+åpner for at det kan gis høyere pensjonsopptjening for inntekter over opptjeningstaket på 7,1 G i
+folketrygden og opp til 12 G for å kompensere for
+at folketrygden ikke gir opptjening for slik inntekt. De aller fleste ytelsespensjonsordninger kompenserer for manglende opptjening av folketrygd
+for høye inntektsnivåer. Innenfor innskuddspen2
+
+LO og NHO vurderer endringer i AFP-ordningen i privat
+sektor som vil kunne redusere antallet kvalifikasjonskrav
+betraktelig sammenliknet med dagens ordning. Siden ny
+offentlig AFP skal utformes etter modell av privat AFP, vil
+endringer i kvalifikasjonsreglene i privat AFP også kunne
+bli gjort gjeldende for offentlig AFP.
+
+sjonsordninger – som langt de fleste arbeidstakere
+i privat sektor nå er omfattet av – og hybridpensjonsordninger varierer det mer om det gis høyere
+innskudd for inntekter over 7,1 G. Det varierer
+også hvor mye høyere innskuddene er for slike
+inntekter i slike ordninger.
+Fram til 1. januar 2022 var det tillatt å unnlate å
+betale innskudd for 1 G av den ansattes inntekt i
+innskuddspensjonsordninger. Stortinget har imidlertid vedtatt at det fra 1. januar 2022 skal betales
+innskudd av all inntekt inntil 12 G, jf. Lovvedtak 22
+(2021–2022). Bedrifter som før reglene ble endret
+hadde innskuddspensjonsordning med opptjening
+fra 1 G har frist til 1. juli 2022 med å endre tjenestepensjonsordningen.
+I en undersøkelse Actecan har utført for Handel og kontor i Norge kartlegges det hvordan kvaliteten på innskuddspensjonsordninger varierer
+mellom ulike næringer, se Actecan (2019). Kartleggingen bygger på informasjon fra de fem største leverandørene av innskuddspensjon, og dekket nærmere 90 prosent av alle arbeidstakere i
+Norge med innskuddspensjon i kartleggingsåret
+2019.
+Undersøkelsen viser at den gjennomsnittlige
+innskuddssatsen for inntekt mellom 0/1 G og
+12 G for alle ansatte med innskuddspensjon, uavhengig av om de har opptjening fra første krone
+eller ikke, var 3,6 prosent. Det er imidlertid, som
+det går fram av figur 6.1, store forskjeller mellom
+ulike næringer. Figuren viser gjennomsnittlige
+«grunnsatser», det vil si satsen som er lik for innskudd fra 0 eller 1 G til 12 G (maksimalt 7 prosent) i ulike næringer. Næringen «Hotell og
+restaurant» har den laveste gjennomsnittlige satsen med 2,3 prosent – altså kun 0,3 prosentpoeng
+over minimumsnivået, mens næringen «Olje og
+gass» ligger på topp med et gjennomsnitt på 6,5
+prosent.
+Rapporten viser at også når det gjelder tilleggssatser for inntekt mellom 7,1 og 12 G er det
+store forskjeller mellom næringene. Det overordnede bildet synes å være at de næringene som har
+lave (høye) grunnsatser også har lave (høye) tilleggssatser.
+I avsnitt 3.4.4 vises en oversikt over fordelingen av innskuddssatser blant alle ansatte i privat
+sektor med innskuddspensjon. Oversikten viser at
+hele 1 av 3 er tilsluttet en innskuddsordning med
+minimumssats på 2 prosent av lønn. Samtidig har
+13 prosent maksimal grunnsats på 7 prosent. Kun
+3,5 prosent har både maksimal grunnsats og maksimal tilleggssats. Siden tjenestepensjonsordningene i privat sektor varierer i kvalitet, vil naturlig
+nok fordelingen av tjenestepensjon også variere.
+
+[Side 97]
+
+95
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+Kapittel 6
+
+Olje og gass
+Finans og forsikring
+Lufttransport
+Kraft
+Medlemsorganisasjoner
+FoU
+IKT
+Informasjon og kommunikasjon
+Helse og sosial
+Jus, konsulenttjenester, mv.
+Annet
+Eiendomsmegling mv.
+Engros
+Konkurranseutsatt industri
+Transport og lagring
+Undervisning
+Skjermet industri
+Vann og avløp
+Kultur, underholdning og fritid
+Bygg og anlegg
+Bilhandel
+Tjenesteyting
+Frisør o.l.
+Vikar og bemanning
+Detaljhandel
+Hotell og restaurant
+0%
+
+1%
+
+2%
+
+3%
+
+4%
+
+5%
+
+6%
+
+7%
+
+Figur 6.1 Gjennomsnittlig grunnsats for innskuddspensjonsordninger i ulike næringer. Prosent
+Kilde: Actecan-rapport 2019–2, side 15.
+
+Tjenestepensjonsordninger som gir høyere pensjonsopptjening for høye inntekter vil ha fordelingsegenskaper som, på samme måte som offentlig tjenestepensjon, motvirker en del av fordelingseffektene som følger av opptjeningstaket i folketrygdens alderspensjon. Tjenestepensjonsordninger som gir samme opptjening for all inntekt
+vil derimot ha en fordelingsprofil som likner mer
+på folketrygdens, men også disse gir opptjening
+for inntekt helt opp til 12 G. I ny alderspensjon i
+folketrygden stopper opptjeningen som nevnt ved
+7,1 G.
+Et særskilt kjennetegn ved innskuddspensjonsordninger er at disse ordningene ikke gir
+livsvarige utbetalinger. Den ansatte kan selv velge
+lengde på utbetalingsperioden. Loven fastlegger
+at utbetalingstiden – med mindre opptjent kapital
+er for lav til å gi en årlig pensjon på minimum
+0,2 G – minst skal være på 10 år. Dersom uttaket
+starter før 67 år, skal utbetalingen likevel vare
+minst til 77 år. Siden kvinner forventes å leve lengre enn menn, vil kvinner med innskuddspensjon
+derfor gjennomgående få flere år uten pensjonsutbetaling fra innskuddsordninger enn menn. For-
+
+ventet samlet utbetaling blir imidlertid lik for kvinner og menn som har hatt lik opptjening. Det
+samme gjelder for andre grupper med ulik forventet levealder.
+Gitt at utgangspunktet for vurderingen av fordelingseffekter er samlet utbetalt alderspensjon,
+omfordeler folketrygdens alderspensjon fra grupper som lever kort til grupper som lever lenge, alt
+annet likt. Siden innskuddspensjonsordninger gir
+samme forventede utbetaling til grupper med ulik
+levealder, har slike ordninger dermed andre fordelingsegenskaper enn folketrygdens alderspensjon.
+Fram til det i 2001 ble åpnet for at private virksomheter kunne ha innskuddspensjonsordning,
+hadde alle virksomheter som hadde tjenestepensjonsordning i privat sektor en ytelsesbasert pensjonsordning. Ved inngangen til 2003 var i overkant av 600 000 ansatte i privat sektor omfattet av
+en tjenestepensjonsordning (NOU 2004: 1, tabell
+11.4). Av disse var kun 15 000 omfattet av en innskuddspensjonsordning.
+I 2006 trådte lov om obligatorisk tjenestepensjon i kraft, og med ble det innført et obligatorisk
+
+[Side 98]
+
+96
+
+NOU 2022: 7
+
+Kapittel 6
+
+Et forbedret pensjonssystem
+
+krav for foretak i privat sektor om å etablere en
+tjenestepensjonsordning. Dette kravet førte til en
+markant økning i antallet private tjenestepensjonsordninger. De nye tjenestepensjonsordningene
+som da ble etablert var i all hovedsak innskuddspensjonsordninger.
+Parallelt med at foretak som tidligere ikke har
+hatt tjenestepensjonsordning har etablert slike
+ordninger, har de fleste foretak som tidligere
+hadde en ytelsespensjonsordning avviklet disse
+og erstattet dem med innskuddsbaserte tjenestepensjonsordninger. Figur 6.2 viser utviklingen i
+antall aktive medlemmer i ulike typer private tjenestepensjonsordninger fra 2005 til 2021. I 2021
+var om lag 95 prosent av de ansatte i privat sektor
+medlem av en innskuddspensjonsordning.
+Siden de ulike typene tjenestepensjon i privat
+sektor har noe ulik fordelingsprofil, har overgangen fra ytelsespensjonsordninger til innskuddspensjonsordninger trolig også påvirket fordelingen av pensjon fra private tjenestepensjonsordninger. Ansatte i bedrifter som har endret pensjonsordning fra ytelsespensjon til innskuddspensjon kan i mange tilfeller ha fått dårligere
+pensjonsordninger enn tidligere.
+Samtidig har mange ansatte i privat sektor
+som tidligere bare hadde pensjon fra folketrygden
+fått pensjonsopptjening i en tjenestepensjonsordning etter innføringen av obligatorisk tjenestepensjon. I en rapport om obligatorisk tjenestepensjon
+utarbeidet av Fafo og ECON Analyse for Storebrand ASA (Hippe m.fl. 2005) i forkant av innføringen av obligatorisk tjenestepensjon, ble det anslått
+at om lag 600 000 ansatte i privat sektor ikke tjente
+
+opp pensjon i en tjenestepensjonsordning. Disse
+jobbet i stor grad i små og mellomstore bedrifter.
+Ifølge rapporten var det særlig foretak innenfor
+næringer som bygg og anlegg, varehandel og
+hotell og restaurant som ikke hadde etablert en
+tjenestepensjonsordning for sine ansatte.
+At det fram til obligatorisk tjenestepensjon ble
+innført i 2006 var mange i privat sektor som ikke
+tjente opp tjenestepensjon, betyr at det vil ta
+mange år før alle nye alderspensjonister har tjent
+opp tjenestepensjon i hele yrkeskarrieren. Det vil
+derfor i lang tid være store forskjeller mellom nye
+alderspensjonister med hensyn til hvor mye pensjon de har opptjent utover alderspensjon fra folketrygden.
+Mange ansatte i privat sektor er også omfattet
+av privat AFP. Den private AFP-ordningen var
+fram til 2011 en ren tidligpensjonsordning som ga
+personer som fratrådte i alderen 62–66 år en pensjon tilsvarende det de ville fått fra gammel alderspensjon fra folketrygden pluss et AFP-tillegg. Personer som sto i jobb ut over 67 år fikk ikke noe fra
+den gamle AFP-ordningen.
+Fra 2011 ble ordningen lagt om, og den gir nå
+et livsvarig tillegg til alderspensjon fra folketrygden som kan tas ut fleksibelt fra 62 til 70 år.
+Omleggingen av AFP-ordningen har medført en
+omfordeling fra personer som uansett ville fratrådt tidlig til personer som uansett ville ventet
+med å fratre. Den sistnevnte gruppen ville fått lite
+eller ingenting fra AFP-ordningen dersom den
+gamle ordningen hadde blitt videreført, men får
+nå en betydelig livsvarig pensjon fra den nye ordningen.
+
+1 800 000
+1 600 000
+1 400 000
+1 200 000
+1 000 000
+800 000
+600 000
+400 000
+200 000
+
+År
+Ytelsespensjon
+
+Innskuddspensjon
+
+Hybridpensjon
+
+Figur 6.2 Antall aktive medlemmer i private tjenestepensjonsordninger
+Kilde: Finans Norge.
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+0
+
+[Side 99]
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+I NHO og LO (2017) som evaluerte AFP-ordningen i privat sektor, ble det anslått at om lag 40
+prosent av alle ansatte i privat sektor mellom 13
+og 70 år var omfattet av AFP i 2016. Ved 55 år og
+61 år var andelene som var omfattet henholdsvis
+51 og 55 prosent.
+AFP-ordningen er en kvalifikasjonsordning,
+det vil si at den enkelte som arbeider i en tilsluttet
+virksomhet må tilfredsstille visse kvalifikasjonskrav for å få rett til AFP. Kravene knytter seg blant
+annet til tilslutning et visst antall år før fylte 62 år
+(«ansiennitet» i ordningen) og før uttak. Evalueringsrapporten viser også at det er relativt mange
+ansatte i virksomheter som er tilsluttet AFP-ordningen som av ulike årsaker ikke kvalifiserer for
+AFP. Eksempelvis fikk om lag 13 prosent av
+arbeidstakere i 1955-kullet som arbeidet i en AFPtilsluttet virksomhet ikke AFP fordi de ikke hadde
+tilstrekkelig ansiennitet i ordningen før fylte 62 år.
+Privat AFP beregnes ut fra årlig pensjonsgivende inntekt i folketrygden opp til 7,1 G i alderen
+13–61 år. Ordningen har med andre ord samme
+opptjeningstak som ny alderspensjon i folketrygden, slik at ansatte med lavere og midlere inntekter får relativt sett mer i pensjon sammenliknet
+med tidligere inntekt enn ansatte med høye inntekter. Personer som hadde omsorg for små barn
+opp til 7 år før 1992, kan få godskrevet pensjonsopptjening og få dette medregnet ved beregningen av AFP. Uføre får ikke AFP dersom de mottar
+uføretrygd etter fylte 62 år.
+Privat AFP påvirker dermed fordelingen av
+samlet pensjon både ved at det er ulikt fordelt
+hvem som er tilsluttet ordningen og får rett til
+pensjon, og ved at det blant de som er tilsluttet
+omfordeles fra personer med høye inntekter til
+personer med lave inntekter.
+
+6.4
+
+Pensjonsreformen og
+inntektsfordelingen blant
+pensjonister
+
+6.4.1
+Innledning
+Det er gjort en rekke analyser av hvilke konsekvenser pensjonsreformen har hatt for inntektsfordelingen blant pensjonister. Dette avsnittet oppsummerer resultatene fra noen fordelingsanalyser.
+Analysene har hatt ulike innfallsvinkler. I noen
+analyser sammenliknes fordelingsvirkningene i
+ny alderspensjon med fordelingsvirkningene med
+en videreføring av det gamle pensjonssystemet, se
+avsnitt 6.4.2. Andre analyser går mer i dybden på
+
+97
+
+Kapittel 6
+
+fordelingsvirkningene innenfor det nye pensjonssystemet isolert sett, se avsnitt 6.4.3.
+Alle fordelingsanalysene av folketrygdens
+alderspensjon som omtales her er basert på
+beregninger på SSBs simuleringsmodell Mosart.
+Se nærmere omtale av Mosart i kapittel 8.
+
+6.4.2
+
+Fordeling i gammel alderspensjon
+sammenliknet med ny alderspensjon
+
+Analysene som er gjennomført til nå viser at fordelingseffektene i ny alderspensjon fra folketrygden ikke skiller seg mye fra fordelingseffektene
+med en videreføring av den gamle alderspensjonen. Dette gjelder både den generelle fordelingsprofilen og fordelingen mellom kvinner og menn.
+Resultatene avhenger til en viss grad av om
+det tas hensyn til mulige endringer i atferd på
+grunn av innføringen av levealdersjustering og
+fleksibelt uttak, det vil si at ulike grupper kan tilpasse seg disse nye ordningene på ulik måte.
+Christensen m.fl. (2012) viser til at selv om det
+er en tettere sammenheng mellom tidligere inntekt og pensjonsytelser i ny alderspensjon, så er
+flere av de sentrale omfordelende elementene i
+gammel alderspensjon videreført, herunder minstesikring gjennom garantipensjon, øvre inntektsgrense for opptjening og omsorgsopptjening.
+Analysen viser at både gammelt og nytt pensjonssystem i stor grad omfordeler fra personer
+med høye livsinntekter til personer med lavere
+livsinntekter og fra menn til kvinner. De to viktigste grunnene er at begge pensjonssystemene har
+en minsteytelse og et opptjeningstak.
+Samtidig finner de at pensjonsreformen virker
+innstrammende på alle inntektsnivåer, men minst
+i de to laveste inntektsdesilene. Det siste skyldes
+at det er mindre avkorting av garantipensjonen i
+ny alderspensjon enn av særtillegget i gammel
+alderspensjon. Også de øverste inntektsdesilene
+ser ut til å få noe mindre innstramming på grunn
+av en noe høyere opptjeningsprosent og en nærmere sammenheng mellom inntekt og pensjon i
+ny alderspensjon.
+Også Fredriksen og Stølen (2014) finner at det
+er en sterk omfordeling fra høyinntektsgrupper til
+lavinntektsgrupper og fra menn til kvinner i både
+gammelt og nytt system. De finner imidlertid at
+en nærmere sammenheng mellom inntekt og pensjon i ny alderspensjon gir noe mindre omfordeling i ny pensjonsordning når de ser på estimerte
+pensjonsinntekter før skatt i 2050. De fem øverste
+inntektsdesilene ser da ut til å tjene mest på reformen, og menn tjener noe mer enn kvinner. Ifølge
+forfatterne skyldes dette en noe høyere opptje-
+
+[Side 100]
+
+98
+
+Kapittel 6
+
+NOU 2022: 7
+Et forbedret pensjonssystem
+
+ningsprosent i ny pensjonsordning, og at det det
+gis full pensjonsopptjening til en noe høyere inntekt i ny ordning; 7,1 G i ny pensjonsordning, mot
+6 G i gammel pensjonsordning. Også denne studien finner at de to laveste inntektsdesilene kommer relativt sett noe bedre ut med ny alderspensjon på grunn av mindre avkorting av garantipensjon enn særtillegg.
+Fredriksen og Stølen sammenlikner også gammelt og nytt system med utgangspunkt i samlede
+livsvarige utbetalinger i perioden som pensjonist i
+stedet for kun nivået i ett år (2050). I denne delen
+av analysen tas det i tillegg hensyn til mulige
+arbeidstilbudseffekter. De finner da at personer i
+de laveste inntektsdesilene kommer noe dårligere
+ut av overgangen til ny pensjonsordning enn personer med høyere inntekt som yrkesaktiv. Dette
+skyldes først og fremst at uføre – som er overrepresentert i de laveste inntektsdesilene – ikke kan
+øke pensjonsopptjeningen for å motvirke effekten
+av levealdersjusteringen på samme måte som
+arbeidsføre.
+Fredriksen og Stølen finner videre at det er en
+betydelig omfordeling fra menn til kvinner også i
+nytt pensjonssystem. Grunnen er at det er videreført en minstesikringsordning, at det er et opptjeningstak på 7,1 G, at kvinner tjener på omsorgsopptjeningen i større grad enn menn, og at kvinner lever lenger enn menn. Selv om flere av disse
+elementene er modifisert i nytt system, består de
+viktigste egenskapene fra det gamle systemet.
+Fredriksen og Stølen mener derfor at disse elementene ikke er mye påvirket av omleggingen av
+pensjonssystemet.
+Fredriksen og Stølen har også analysert effektene av å fjerne den såkalte besteårsregelen i gammel pensjonsordning – at alderspensjonen beregnes ut fra de 20 beste inntektsårene. De finner at
+en videreføring av denne regelen ikke ville vært til
+fordel for kvinner. Besteårsregelen tilgodeser
+kvinner og menn på alle inntektsnivåer i like stor
+grad. Herunder tilgodeses også menn med høye
+inntekter – som ofte har hatt lavere inntekter i de
+første inntektsårene i karrieren.
+Dette funnet støttes av en analyse fra NAV
+(Dahl 2009) som ser på hvordan besteårsregelen
+har slått ut for menn og kvinner født i 1940. Analysen viser at besteårsregelen har vært mest fordelaktig for menn både målt i prosent og i kroner.
+Analysen viser også at kvinner med høyest inntekt
+er den gruppen som har hatt størst fordel av
+besteårsregelen. Når besteårsregelen sammenliknes med en alleårsregel, kan det synes som om
+besteårsregelen for begge kjønn samlet gir marginalt jevnere fordeling enn en alleårsregel. For-
+
+skjellene mellom de to opptjeningsordningene er
+imidlertid svært små.
+Nicolajsen og Stølen (2016) analyserer fordelingsvirkningene av pensjonsreformen med ulike
+utgangspunkt og finner at resultatene varierer
+avhengig av hvordan fordelingsvirkningene
+måles. Overordnet finner de at samlet pensjonsutbetaling over livsløpet til årskull som er fullt ut
+omfattet av det nye systemet, ser ut til å bli jevnere fordelt etter pensjonsreformen enn om det
+gamle systemet hadde blitt videreført. Dersom
+utgangspunktet for analysen derimot er fordeling
+av alderspensjoner for en gitt kohort i et bestemt
+år, eventuelt for alle alderspensjonsmottakere i et
+gitt år, finner de at fordelingen blir mer ulik etter
+pensjonsreformen.
+Når det gjelder samlede pensjonsutbetalinger
+finner de – som de øvrige analysene – at de omfordelende elementene i pensjonssystemet fører til at
+samlet utbetalt alderspensjon er jevnere fordelt
+enn samlet arbeidsinntekt både i gammelt og nytt
+system. Fordelingen av samlet alderspensjon
+synes imidlertid å bli jevnere med ny alderspensjon enn om det gamle systemet videreføres. Det
+er mange ulike faktorer som sammen bidrar til
+denne konklusjonen:
+«Både kvinner og menn med høy utdanning og
+inntekt kommer bedre ut med den nye opptjeningsmodellen, og dette bidrar isolert sett til at
+ulikheten i utbetalingen av alderspensjon øker.
+Denne effekten dominerer for kvinnene. For
+mennene derimot ser det ut til at de med høy
+utdanning og inntekt i forholdsvis stor grad
+kombinerer arbeid og uttak av pensjon med det
+nye systemet. På grunn av delingstallene får de
+dermed en god del lavere pensjoner med det
+nye systemet enn med det gamle. Ettersom
+menn i denne kategorien vanligvis lever lenger
+enn menn med lav utdanning, vil relativt mange
+år med lav alderspensjon med det nye systemet
+innebære at de kommer dårlig ut av reformen
+på grunn av sin tilpasning. Dermed blir fordelingen av utbetalt alderspensjon over livsløpet
+mye jevnere for menn som følge av reformen.
+Denne effekten bidrar også til at utbetalt alderspensjon over livsløpet for kvinner og menn sett
+under ett blir jevnere med reformen enn om
+det gamle systemet hadde blitt ført videre.»
+Nicolajsen og Stølen finner videre at innføringen
+av levealdersjustering vil gi lavere samlet pensjon
+på så å si alle inntektsnivåer. Reduksjonen er imidlertid minst for dem som har lavest samlet yrkesinntekt blant annet på grunn av gunstigere regule-

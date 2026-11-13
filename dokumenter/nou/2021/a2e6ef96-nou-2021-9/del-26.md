@@ -1,0 +1,922 @@
+# NOU 2021: 9, del 26 av 36 (side 281–290)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
+- Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 281]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+hjemmelen. De kartleggingene som er gjort tyder
+imidlertid på at bruken av midlertidige ansettelser ikke har økt i tiden etter regelendringen. Sammensetningen av de midlertidig ansatte, det vil si
+om de er vikarer, ekstrahjelp mv., er omtrent den
+samme som før endringen.
+En undersøkelse som bygde på data fra årene
+2015–2016 fant få tegn til at den utvidede adgangen til midlertidige ansettelser som ble innført i
+2015 bidro til økt sysselsetting totalt sett, eller at
+de med svakere tilknytning til arbeidsmarkedet
+fikk bedret sin situasjon (Strøm mfl., 2018).
+I en ny undersøkelse som gjelder tidsrommet
+1995–2018 finner Strøm og von Simson (2020),
+som nevnt over, at mange av de midlertidig
+ansatte oppnår fast ansettelse i løpet av ett år. De
+finner imidlertid at utsatte grupper på arbeidsmarkedet, som innvandrere og personer med grunnskole som høyeste utdanning, har lavere sannsynlighet for å gå fra midlertidig til fast jobb. Denne
+undersøkelsen gjelder alle former for midlertidig
+ansettelse, ikke bare de som er ansatt etter den
+generelle adgangen.
+En undersøkelse blant arbeidsgivere i kommunesektoren viste at den nye generelle adgangen
+ble lite benyttet og at den ble oppfattet som komplisert og lite nødvendig ut fra behovene (Alsos
+mfl., 2017). Mange kommuner har også fattet politiske vedtak om å ikke benytte den generelle
+adgangen.
+En undersøkelse basert på kvalitative intervjuer med arbeidsgivere i mellomstore og større
+virksomheter i privat sektor gir inntrykk av at en
+del arbeidsgivere foretrekker andre løsninger
+som innleie, tilkallingsvikarer, bruk av overtid,
+merarbeid ved deltid mv. fremfor den generelle
+adgangen til midlertidige ansettelser. Flere svarte
+at de allerede eksisterende hjemmelsgrunnlagene
+for midlertidig ansettelse ble opplevd som tilstrekkelige, og at de opplevde begrensningene knyttet
+til den generelle regelen som kompliserende. Det
+ble også vist til at regelen var omstridt og at fagforeninger var negative til bruk av den (Sletvold
+Øistad mfl., 2019).
+
+12.2.4 Særlig om midlertidige ansettelser
+i universitets- og høyskolesektoren
+Innen deler av høyere utdanning og forskning er
+det en omfattende bruk av midlertidige ansettelser som skiller seg fra arbeidslivet for øvrig, jf.
+punkt 5.4.2.3. Når det gjelder ansettelser ved universiteter og høyskoler gjelder de alminnelige
+reglene i arbeidsmiljøloven og statsansatteloven,
+for henholdsvis private og statlige institusjoner,
+
+279
+
+Kapittel 12
+
+med de særregler som følger av universitets- og
+høyskoleloven, jf. universitets- og høyskoleloven
+§ 6-1.
+Det gjelder noe andre regler for midlertidige
+ansettelser etter statsansatteloven og universitetsog høyskoleloven enn etter arbeidsmiljøloven, jf.
+punkt 8.4.11 og 8.4.12. Reglene for statsansatte ga
+tidligere noe større adgang til å benytte midlertidige ansettelser i situasjoner der det var usikkerhet om bemanningsbehovet. Etter at tjenestemannsloven av 1983 ble avløst av ny lov om statens ansatte mv. i 2017 er reglene mer like reglene
+i arbeidsmiljøloven. Statsansatteloven åpner for
+midlertidig ansettelse når arbeidet er av midlertidig karakter, i vikariat og for en periode på inntil
+seks måneder når det har oppstått et uforutsett
+behov. Disse grunnlagene gir rett til fast ansettelse når vedkommende har vært sammenhengende ansatt i virksomheten i mer enn tre år. Dessuten er det etter loven gitt særskilte bestemmelser om midlertidig ansettelse i praksisarbeid og
+utdanningsstillinger samt i åremålsstillinger.
+En evaluering av regelendringene tyder på at
+bruken av midlertidig ansettelse i staten er blitt
+redusert, men at dette skyldes generelle føringer
+og økonomiske innsparinger i vel så stor grad
+som nytt regelverk. Eksempler fra virksomheter
+tyder på at en mer restriktiv adgang til bruk av
+midlertidige ansettelser ikke bare kan skape flere
+faste stillinger, men også føre til et større press på
+eksisterende, faste ansatte og mulig økt bruk av
+oppsigelser også innen staten (Underthun mfl.,
+2019).
+En viktig endring i statsansatteloven var at retten til fast ansettelse inntrer etter tre års sammenhengende midlertidig ansettelse, mot fire år tidligere. Ifølge Underthun mfl. (2019) har endringen
+ført til økt oppmerksomhet og strengere praksis
+knyttet til lengden på midlertidige engasjementer,
+og at enkelte statlige virksomheter vurderer at
+faste ansettelser blir mer aktuelt enn tidligere.
+Hovedbildet er likevel at en reduksjon i bruken av
+midlertidige ansettelser allerede var i gang før lovendringene.
+I universitets- og høyskoleloven er regler for
+ansettelser ved åremål og midlertidige ansettelser
+gitt i §§ 6-4–6-6, jf. punkt 8.4.12. Særreguleringen
+skal sikre like vilkår for ansatte ved alle utdanningsinstitusjonene, og lik mulighet for fleksibilitet og omstilling for institusjonene, uavhengig av
+eierform.
+I 2020 var det, ifølge NSDs Database for statistikk om høgre utdanning, samlet sett 31,4 prosent
+i universitets- og høyskolesektoren som var midlertidig ansatt, jf. punkt 5.4.2.3. Dersom en bare
+
+[Side 282]
+
+280
+
+Kapittel 12
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+ser på undervisnings- og forskerstillinger, unntatt
+personer ansatt i åremålsstillinger (inkludert
+rekrutteringsstillinger som stipendiat, postdoktor,
+spesialistkandidat og vitenskapelig assistent) var
+det ifølge NSD en andel på 13,2 prosent midlertidig ansatte i 2020. Ifølge NSD ligger bruken av
+midlertidige ansettelser noe lavere i de privateide
+institusjonene sammenlignet med de statlige. De
+private utgjør imidlertid ikke mer enn om lag
+6 prosent av de samlede årsverkene i sektoren.
+Statistikken om midlertidige ansettelser i universitets- og høyskolesektoren kan tolkes på ulike
+måter. Dersom enkelte av de vitenskapelige stillingene på åremål tas med i beregningene, er andelen midlertidig ansatte i sektoren om lag 24 prosent i vitenskapelige stillinger. Utdanningsstillinger som stipendiat, spesialistkandidat og vitenskapelig assistent er da ikke med i beregningen.
+Åremålsstillinger opphører uten oppsigelse
+ved åremålsperiodens utløp, oftest etter fire eller
+seks år. Enkelte ganger er det mulighet til å fornye åremålet. Ifølge NOU 2020: 3, punkt 28.5.7 er
+åremål for lederstillinger begrunnet med at
+enkeltpersoner ikke skal sitte for lenge i slike
+posisjoner, mens begrunnelsen for å bruke åremål for utdanningsstillinger er at kvalifiseringen
+skjer over en viss periode og at den ansatte deretter skal over i en annen stillingskategori eller
+annen sektor.
+Rene forskerstillinger har ofte vært midlertidige fordi de har vært koblet til tidsavgrensede og
+bidragsavhengige forskningsprosjekter. Det har
+også vært en høy andel midlertidige undervisningsstillinger mv. i sektoren.
+Reguleringene og bruken av midlertidig ansettelse i universitets- og høyskolesektoren er blitt
+vurdert av Universitets- og høyskolelovutvalget
+som har lagt frem forslag til ny universitets- og
+høyskolelov (NOU 2020: 3). Det uttales i utredningen at midlertidige ansettelser i sektoren grovt
+kan deles inn i tre grupper. De to første gruppene,
+åremålsstillingene for henholdsvis leder- og
+utdanningsstillinger, kan ifølge utvalget sies å
+være ønsket i sektoren, jf. NOU 2020: 3, punkt
+28.5.6. Universitets- og høyskolelovutvalget viser
+imidlertid til at det er mer problematisk med midlertidige ansettelser som, på bakgrunn av midlertidig finansiering, hjemles i statsansatteloven § 9
+første ledd bokstav a som hjemler midlertidig
+ansettelse «når arbeidet er av midlertidig karakter». De viser videre til at de er kjent med at det i
+slike tilfeller noen ganger feilaktig blir henvist til
+forskrift til statsansatteloven1 § 3 tredje ledd som
+hjemmel for å ansette midlertidig. Det presiseres
+av Universitets- og høyskolelovutvalget at denne
+
+bestemmelsen ikke regulerer midlertidige ansettelser, men hjemler en forenklet ansettelsesprosess der vilkårene for å ansette midlertidig etter
+statsansatteloven er oppfylt.
+Ifølge Universitets- og høyskolelovutvalget
+indikerer den høye andelen midlertidig ansatte i
+sektoren at «institusjonene ansetter i midlertidige
+stillinger utover det som er nødvendig, og bruker
+de rettslige grunnlagene for midlertidige stillinger i større grad enn det er faktisk grunnlag for»,
+jf. NOU 2020: 3, punkt 28.5.6.
+Utover et forslag om at det ikke skal være
+adgang til å gi ansettelse for mer enn én periode
+som postdoktor, fremmet ikke utvalget egne forslag til regelendringer i disse reglene, men viste
+til den nye statsansatteloven. I innstillingen punkt
+28.5.6 heter det:
+Utvalget oppfordrer derfor sektoren selv, og
+hver enkelt institusjon, til å arbeide systematisk med å etablere en god kultur og hensiktsmessige rutiner ved ansettelser. Målet er å
+sikre at hovedregelen om fast ansettelse følges
+uavhengig av finansieringskilde, og at hjemlene for å ansette midlertidig anvendes korrekt.
+I proposisjonen som er fremmet av Kunnskapsdepartementet, som oppfølging av Universitets- og
+høyskolelovutvalgets arbeid, bekreftes utvalgets
+oppfattelse om bruken av midlertidig ansettelse i
+sektoren. Det beskrives under et avsnitt om
+anvendelse av statsansatteloven § 9 bokstav a at:
+Inntrykket er at det er kultur og praksis i sektoren for å benytte bestemmelsen som grunnlag for å ansette midlertidig når arbeidet er
+eksternt finansiert, og at bestemmelsen brukes i større omfang enn den egentlig åpner
+for.2
+Forskriften til statsansatteloven § 3 tredje ledd blir
+ifølge departementet feilaktig tolket på enkelte
+institusjoner og også ofte benyttet som hjemmel
+for å ansette midlertidig dersom en stilling er
+eksternt finansiert. Ifølge departementet har det i
+utgangspunktet ikke betydning for rettigheter og
+plikter i et arbeidsforhold hvordan en stilling er
+finansiert. Det presiseres imidlertid at mange
+oppdrag som er eksternt finansiert er arbeid av
+midlertidig karakter, og at vilkåret for å ansette
+1
+2
+
+Forskrift 21. juni 2017 nr. 838 til lov om statens ansatte mv.
+Jf. Prop. 111 L (2020–2021), punkt 2.12.2.3.
+
+[Side 283]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+midlertidig med hjemmel i statsansatteloven § 9 i
+så fall kan være oppfylt.
+Generelt uttaler departementet på samme sted
+at:
+Etter at det i en periode har vært søkelys på
+problemstillingen om midlertidige ansettelser,
+og regelverket er tydelig formidlet til sektoren,
+ser det ut til at institusjonene gradvis er i ferd
+med å endre praksis. Det foretas nå i økt
+utstrekning vurderinger av hvorvidt et arbeid
+er av midlertidig karakter, eller om det kan
+ansettes fast i slike tilfelle.
+Det påpekes videre at institusjonene i sektoren,
+etter departementets syn, bør vurdere tiltak som
+kan bidra til å øke kompetansen på det arbeidsrettslige området.
+Utvalget vil i det følgende ikke gå nærmere
+inn på de særlige reglene for midlertidig ansettelse innenfor staten generelt, eller universitet og
+høyskole spesielt. Det forutsettes at også denne
+sektoren anvender hjemlene for midlertidig ansettelse korrekt. Uavhengig av bransje og sektor, så
+er det uheldig for arbeidstakere å oppleve gjentatte perioder med midlertidighet, med den usikkerhet det kan innebære for inntekter, etableringsmuligheter mv.
+Flertallet, medlemmene Fougner, Dahle, Kastet,
+Olsen, Salvanes, Stokland, Sverdrup Svendsen og
+Tinnlund, viser til at andelen midlertidige i universitets- og høyskolesektoren er høy sammenlignet
+med resten av arbeidslivet. Særskilte behov for
+utdanningsstillinger begrunner dette delvis, men
+ikke fullt ut. Gjennomgang av sektorens praksis
+har gjentatte ganger konkludert med at sektoren
+preges av en uklar praksis når det gjelder koblingen mellom ekstern finansiering og midlertidig
+tilsetting, senest Universitets- og høyskolelovutvalget. Disse medlemmene konkluderer, med
+utgangspunkt i sektorens omfattende bruk av
+midlertidig tilsetting, at det er behov for en gjennomgang av de særlige ansettelsesforskriftene.
+Disse medlemmene mener det også er behov for å
+vurdere om regelverket kan tydeliggjøres for å
+begrense uklar praksis knyttet til ekstern finansiering og midlertidig tilsetting.
+
+12.2.5 Særlig om begrepet praksisarbeid
+i § 14-9 andre ledd bokstav c
+Etter § 14-9 andre ledd bokstav c kan avtale om
+midlertidig ansettelse inngås for «praksisarbeid»,
+jf. omtale i punkt 8.4.3. Flertallet, medlemmene
+Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland,
+
+281
+
+Kapittel 12
+
+Sverdrup Svendsen og Tinnlund ønsker å knytte
+noen kommentarer til begrepet «praksisarbeid».
+Muligheten for praksisarbeid er viktig for
+gjennomføring av en rekke utdanningsløp, for
+eksempel lærlingeordningen.
+Utover ordlyden gir loven ingen holdepunkter
+for forståelsen av begrepet «praksisarbeid». I forarbeider til bestemmelsen vises det til at praksisarbeid normalt skjer i forbindelse med opplæring
+eller kvalifisering innenfor et fagområde, og ofte
+vil være et utgangspunkt for videre utdanning, jf.
+Ot.prp. nr. 50 (1993–94), side 165. Av Ot.prp. nr. 49
+(2004–2005), side 331, følger at praksisarbeid som
+ikke inngår som et ledd i et fastsatt utdanningsløp,
+men som for eksempel tas med sikte på å oppnå
+poengkrav for inntak til høyere utdanning, faller
+utenfor bestemmelsen.
+I rettspraksis er det på bakgrunn av forarbeider og teori utledet en del utgangspunkter for
+hvordan begrepet «praksisarbeid» skal forstås. I
+Rt. 2013 side 1392 er det lagt til grunn at begrepet
+favner både det å anvende eller praktisere teoretiske kunnskaper man har fra før og det å erverve
+nye kunnskaper gjennom utførelse av arbeidsoppgaver. I Rt. 2009 side 578 uttales det:
+Det kreves ikke at utdannelseselementet
+utgjør en overveiende og nødvendig del av stillingens arbeidsområde. Et midlertidig arbeid
+vil kunne være praksisarbeid i lovens forstand
+selv om det ikke er knyttet en organisert veiledningsfunksjon til stillingen, selv om hovedformålet med stillingen ikke er at arbeidstakeren skal lære seg noe genuint nytt, men at han
+eller hun skal praktisere sine teoretiske kunnskaper, og selv om arbeidstakeren utfører
+arbeid som tilsvarer det fast ansatte utfører og
+på denne måten fyller et arbeidskraftsbehov.
+Men de nevnte forhold vil kunne ha betydning
+i en helhetsvurdering av stillingens karakter.
+Også arbeid med sikte på å gi opplæring
+eller kvalifisering innenfor et fagområde som
+utføres etter endt grunnutdanning, vil kunne
+være praksisarbeid i lovens forstand. Særlig
+gjelder det dersom arbeidet skjer som en integrert del av et utdanningsløp i regi av en utdanningsinstitusjon med sikte på formell kompetanse, og ganske særlig dersom arbeidet skjer
+i en øremerket praksisstilling. Dersom en
+arbeidstaker derimot gis permisjon fra sitt daglige virke for å delta på et kurs eller annen teoretisk utdanning, vil ikke stillingen av den
+grunn få karakter av praksisstilling selv om
+arbeidstakeren vil kunne praktisere sin
+nyvunne kunnskap når han eller hun er tilbake
+
+[Side 284]
+
+282
+
+NOU 2021: 9
+
+Kapittel 12
+
+Den norske modellen og fremtidens arbeidsliv
+
+på jobb. Det vil heller ikke uten videre bli praksisarbeid om arbeidsgiveren sender arbeidstakeren på kurs i deler av arbeidstiden for å dyktiggjøre seg i arbeidet.
+Flertallet mener at forarbeidene og rettspraksis
+gir uklare holdepunkter for avgrensing av begrepet «praksisarbeid», og at senere dommer aktualiserer behovet for avgrensning. Den klare hovedregel i norsk arbeidsliv er fast ansettelse. For å
+unngå at hovedregelen uthules er det viktig at
+unntaksbestemmelsene avgrenses så tydelig som
+mulig. De aller fleste arbeidstakere i norsk
+arbeidsliv vil også etter endt utdanning forventes
+å oppdatere og videreutvikle sin kompetanse.
+Utviklingen tilsier at dette vil gjelde i økende grad,
+se punkt 4.7 om kompetanse i arbeidslivet. Flertallet mener derfor at forståelsen av begrepet praksisarbeid i § 14-9 andre ledd bokstav c bør klargjøres.
+
+12.2.6 Oppsummering
+– Omfanget av midlertidige ansettelser er noe
+redusert. Mange er unge arbeidstakere på vei
+inn i arbeidslivet, og mange er i vikariater. De
+fleste ønsker å bli fast ansatt.
+– Nærmere halvparten av de som ansettes midlertidig går over i fast stilling i løpet av ett år,
+men utsatte grupper på arbeidsmarkedet har
+lavere sannsynlighet for å gå fra midlertidig til
+fast jobb.
+– Det er markant lavere organisasjonsgrad blant
+midlertidig ansatte sammenlignet med fast
+ansatte.
+– De midlertidig ansatte har lavere inntektsnivå
+enn fast ansatte og andre grupper med alternative tilknytningsformer.
+– Midlertidig ansatte opplever noe svakere tilknytning til arbeidsplassen og noe mindre selvbestemmelse enn fast ansatte. De er imidlertid
+like motiverte og tilfredse med jobben som fast
+ansatte.
+– Den generelle adgangen til midlertidig ansettelse ser ut til å ha blitt lite benyttet og ikke ha
+ført til endringer i måten virksomhetene benytter midlertidige ansettelser på.
+– Universitets- og høyskolesektoren skiller seg
+ut med en vesentlig høyere andel midlertidige
+ansatte enn arbeidslivet for øvrig.
+– Omfanget av midlertidige ansettelser er høyest
+innen offentlig sektor, særlig innen helse- og
+sosialtjenester og undervisning. I staten har
+blant annet nytt regelverk bidratt til noe reduksjon i omfanget.
+
+12.3 Utvalgets vurderinger og forslag
+12.3.1 Utvalgets generelle vurdering
+Regelverket for midlertidige ansettelser har vært
+gjenstand for mye diskusjon gjennom lang tid. På
+den ene siden legges det gjerne vekt på virksomhetenes behov for fleksibilitet, for eksempel ved
+sykefravær, ulike permisjoner, i en oppstartsfase,
+eller ved omlegging av drift for tilpasning til ny
+markedssituasjon hvor det vil være usikkerhet om
+det vil være grunnlag for en permanent fast ansettelse. Det er også blitt lagt vekt på betydningen av
+midlertidige ansettelser som et springbrett inn i
+arbeidslivet. På den andre siden er det pekt på at
+midlertidige ansettelser innebærer økt usikkerhet
+for den enkelte, både når det gjelder arbeidssituasjon og fremtidige jobbutsikter, tilgang til forsikrings- og pensjonsordninger og manglende
+økonomisk sikkerhet for å kunne ta opp lån og
+etablere seg i boligmarkedet. Det er også vektlagt
+at omfattende bruk av midlertidige ansettelser kan
+føre til en todeling av arbeidsmarkedet, og at
+utsatte arbeidstakere kan risikere å bli gående inn
+og ut av midlertidige ansettelser i lengre tid.
+Sysselsettingsutvalget (NOU 2021: 2) har nylig
+vurdert tiltak for å gjøre det lettere å få innpass i
+arbeidslivet for grupper som stiller svakere i
+arbeidsmarkedet. De viser til at midlertidige
+ansettelser og formidling av arbeid gjennom vikarbyråer kan gi enkelte arbeidstakere mulighet til å
+oppnå fast ansettelse. Samtidig kan midlertidige
+ansettelser og vikarbyråer innebære visse ulemper sammenlignet med fast ansettelse. Sysselsettingsutvalget uttaler at en prøvetidsperiode som
+oppleves som mer reell enn i dag vil kunne bidra
+til å redusere risikoen for arbeidsgiver, og legge
+til rette for at unge og personer fra utsatte grupper kan styrke sine muligheter til å komme inn på
+arbeidsmarkedet. Det vil også kunne begrense
+behovet for midlertidige ansettelser. Sysselsettingsutvalget mener det er behov for å se nærmere på handlingsrommet arbeidsgivere har i
+prøvetiden, og klargjøre og eksemplifisere hva
+regelverket skal innebære, slik at prøvetiden oppleves som mer reell enn i dag. For å styrke utsatte
+gruppers mulighet til å oppnå fast ansettelse og
+samtidig redusere arbeidsgivers risiko ved faste
+ansettelser, foreslår Sysselsettingsutvalget å
+utrede mulighetene til å forlenge prøvetiden der
+det for eksempel foreligger store inkluderingsutfordringer, store helseproblemer eller manglende
+kompetanse, og det er i arbeidstakers interesse at
+prøvetiden forlenges. De foreslår også å utrede
+muligheten for en mer automatisk forlengelse av
+
+[Side 285]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+prøvetiden ved sykdomsfravær slik at arbeidstaker og arbeidsgiver skal ha mer tid til tilrettelegging og utprøving av arbeidstakers tilpasning til
+arbeidet i prøvetiden. Sysselsettingsutvalget peker
+på at forslagene må utredes nærmere og ligge
+innenfor rammen av det som følger av EU/EØSretten, jf. NOU 2021: 2, punkt 7.5.
+Utvalget viser her til Sysselsettingsutvalgets
+vurderinger og går ikke nærmere inn på spørsmål
+knyttet til prøvetid i denne sammenheng.
+Det kan være grunn til å følge med på utviklingen etter koronapandemien og om denne situasjonen skulle medføre økende bruk av midlertidige
+ansettelser, jf. utvalgets vurderinger i punkt 9.6.2.
+Derfor er det viktig at arbeidslivets parter og myndighetene samarbeider om å ha et oppdatert
+kunnskapsbilde om bruken av midlertidige ansettelser og andre alternative tilknytningsformer.
+Utvalget peker på at det er politisk omstridt
+hvordan midlertidige ansettelser skal reguleres.
+Et eksempel på dette er spørsmålet om hvorvidt
+det skal være en generell adgang til midlertidige
+ansettelser. I 2005 vedtok Stortinget den nye
+arbeidsmiljøloven, som inneholdt en generell
+adgang til midlertidig ansettelse. Etter stortingsvalget og det påfølgende regjeringsskiftet i 2005
+ble vedtaket reversert, slik at arbeidsmiljøloven
+ikke åpnet for en generell adgang til midlertidig
+ansettelse da den trådte i kraft fra 2006. Etter stortingsvalget i 2013 ble det på nytt flertall for en slik
+generell adgang. På bakgrunn av forslag fra regjeringen Solberg vedtok stortingsflertallet en regelendring som trådte i kraft i 2015, jf. Prop. 39 L
+(2014–2015) og Innst. 208 L (2014–2015).
+I forbindelse med lovendringen i 2015 ba stortingsflertallet regjeringen om å evaluere ordningen med midlertidig ansettelse i samarbeid med
+partene i arbeidslivet. Evalueringen skulle særlig
+se på om hensikten med lovendringen ble oppnådd, og om det har oppstått eventuelle negative
+virkninger, slik som økt bruk av midlertidighet på
+bekostning av faste stillinger, eller at enkelte
+grupper «fanges» i midlertidige stillinger selv om
+det bør finnes faste stillinger til dem. Arbeids- og
+sosialdepartementet har i dialog med partene i
+arbeidslivet gjennomført flere kartleggingsprosjekter, jf. omtale over. Et pågående prosjekt i regi
+av Institutt for samfunnsforskning vil bli avsluttet i
+2022.
+Studiene som er gjort av midlertidige ansettelser viser ulike resultater. I en del tilfeller kan midlertidig ansettelse fungere som en vei til fast
+ansettelse, men det kan også lede til marginalisering i arbeidsmarkedet. Utvalget finner ikke
+grunn til å gjenta de brede diskusjonene som har
+
+283
+
+Kapittel 12
+
+vært om hvilken rolle midlertidige ansettelser
+skal ha i arbeidsmarkedet, men velger å rette oppmerksomheten mot enkelte sider ved dagens
+reguleringer.
+Det er bred enighet om at hovedregelen i
+norsk arbeidsliv skal være faste ansettelser.
+Denne hovedregelen danner etter utvalgets
+mening det beste utgangspunktet for trygghet,
+stabilitet og godt arbeidsmiljø. I tillegg er det
+behov for at virksomhetene som et unntak fra
+hovedregelen kan benytte midlertidig ansettelse
+på bestemte vilkår, blant annet for å bidra til at
+virksomhetene skal kunne drive effektivt og konkurransedyktig. Virksomhetenes adgang til bruk
+av vikariater er også viktig for å sikre at gode permisjonsrettigheter, rettigheter ved sykefravær mv.
+kan opprettholdes. Disse fordelene må avveies
+mot de negative konsekvensene midlertidig ansettelse kan ha for arbeidstakerne.
+Det er ulike vurderinger i utvalget av hvordan
+dagens regulering av midlertidige ansettelser fungerer. Utvalget har vurdert om det kan være
+behov for å gjøre visse tilpasninger av reglene.
+Ved endring av reglene mener utvalget at det er
+viktig at forslagene sett under ett, på en hensiktsmessig måte, balanserer hensynet til vern av
+arbeidstakerne og virksomhetenes mulighet til å
+benytte midlertidige ansettelser når det er reelt
+behov for det. Det er også viktig at reglene er brukervennlige og enkle å forstå både for virksomheter og arbeidstakere.
+Når det gjelder grunnlag og vilkår for midlertidig ansettelse, har utvalget særlig vurdert om den
+generelle adgangen til midlertidige ansettelser i
+arbeidsmiljøloven § 14-9 andre ledd bokstav f bør
+videreføres. Utvalget har videre vurdert om det
+bør innføres en tariffavtaleadgang for midlertidige
+ansettelser. Utvalget har også vurdert om det bør
+gjøres endringer i lovens tre-/fireårsregel i § 14-9
+sjuende ledd.
+
+12.3.2 Generell adgang til midlertidig
+ansettelse i § 14-9 andre ledd bokstav f
+Med virkning fra 1. juli 2015 ble det innført en
+generell adgang til å ansette midlertidig i tolv
+måneder i § 14-9 andre ledd bokstav f.3 Bestemmelsen åpner for midlertidig ansettelse uten at
+det foreligger særlig grunn. Arbeidsforholdet må
+avsluttes senest tolv måneder etter tiltredelse,
+eller videreføres som fast eller midlertidig ansettelse på annet grunnlag. Dersom en arbeidstaker
+som er midlertidig ansatt på generelt grunnlag
+3
+
+Prop. 39 L (2014–2015).
+
+[Side 286]
+
+284
+
+NOU 2021: 9
+
+Kapittel 12
+
+Den norske modellen og fremtidens arbeidsliv
+
+ikke får videre ansettelse ved avtaleperiodens
+utløp, inntrer en karanteneperiode på tolv måneder. Arbeidsgiveren kan i karanteneperioden ikke
+foreta nye ansettelser med samme hjemmel for
+arbeidsoppgaver av samme art innenfor virksomheten, jf. § 14-9 åttende ledd. Avtaler på generelt
+grunnlag kan omfatte inntil 15 prosent av arbeidstakerne i virksomheten avrundet oppover, men
+kan likevel inngås med minst én arbeidstaker, jf.
+§ 14-9 andre ledd bokstav f.
+Lovendringen ble særlig begrunnet med at en
+utvidet adgang til midlertidige ansettelser ville
+kunne fungere som et springbrett for personer i
+situasjoner hvor arbeidsgiver kan oppleve at det
+er risiko knyttet til ansettelsen. Formålet var altså
+at en slik adgang ville gjøre det lettere for flere å
+få arbeid. Dette ble blant annet beskrevet slik i
+punkt 5.1.1 i Prop. 39 L (2014–2015):
+Personer som av ulike årsaker har redusert
+arbeidsevne og usikker produktivitet opplever
+at det kan være vanskelig å oppnå ansettelse.
+En av grunnene til dette kan være at arbeidsgivere er bekymret for kostnader ved eventuell
+feilansettelse og eventuell oppsigelse. Det tilsier at det er behov for virkemidler som kan
+bidra til å redusere arbeidsgivernes usikkerhet
+ved ansettelser.
+Regelendringen var også ment å bidra til et mer
+velfungerende arbeidsmarked og å gi virksomheter noe mer fleksibilitet, for eksempel i oppstartfasen og ved omorganisering. Departementet
+omtalte dette blant annet slik i punkt 1.1 i Prop. 39
+L (2014–2015):
+Økt adgang til midlertidig ansettelse vil bidra
+til et mer velfungerende arbeidsmarked. Med
+økt fleksibilitet vil arbeidsgivere raskere kunne
+tilpasse seg endringer i etterspørselen. En utvidet adgang til midlertidige ansettelser kan
+bidra til å redusere arbeidsgivers opplevde
+risiko, både når det gjelder ansettelser av personer med usikker produktivitet, over konjunkturer, ved oppstart eller omstrukturering. Det
+kan gjøre det lettere å øke tilbudet av jobber i
+en begynnende oppgang eller ved en usikker
+og kanskje midlertidig økning i arbeidskraftsbehovet.
+Utvalget viser til omtale i punkt 12.2.3. Kartleggingene som er gjort så langt er ikke fullstendige,
+men gir indikasjoner på at regelendringen ikke
+har hatt den ønskede effekt i forhold til de uttalte
+målene. Undersøkelsene tyder på at bestemmel-
+
+sen er blitt lite benyttet og ikke ser ut til å ha lettet
+adgangen til arbeidsmarkedet for personer som
+tilhører grupper hvor arbeidsgiver kan oppleve at
+det er risiko knyttet til ansettelsen. Analysene
+viser videre at utsatte grupper på arbeidsmarkedet, som innvandrere og personer med grunnskole som høyeste utdanning, har lavere sannsynlighet for å gå fra midlertidig til fast jobb enn gjennomsnittet. Dette gjelder både før og etter regelendringen.
+Regelendringen var også ment å skulle bidra
+til et mer velfungerende arbeidsmarked og å gi
+virksomheter noe mer fleksibilitet, for eksempel i
+oppstartfasen og ved omorganisering. Kartlegginger tyder på at det har skjedd få endringer i bruken av midlertidige ansettelser sammenlignet
+med situasjonen før endringen. Videre viser
+undersøkelser at mange arbeidsgivere opplever
+den nye bestemmelsen som komplisert og lite
+nødvendig ut fra behovene. Samtidig er det heller
+ikke noe som tilsier at bestemmelsen har hatt en
+negativ betydning for sysselsettingen eller ført til
+en dreining fra faste til midlertidige ansettelser,
+slik flere høringsinstanser fryktet før regelen ble
+innført.
+Selv om den generelle adgangen til midlertidig ansettelse har en tidsbegrensning på ett år,
+kan den benyttes der arbeidskraftsbehovet er av
+mer varig karakter. Bestemmelsen bryter slik sett
+med lovens systematikk om at midlertidige ansettelser i utgangspunktet skal dekke midlertidige
+arbeidskraftsbehov.
+Spørsmålet blir så om regelen bør beholdes
+eller oppheves. Det at bestemmelsen har blitt lite
+benyttet, kan brukes som argument i begge retninger. På den ene siden kan det argumenteres
+med at den bør oppheves fordi den ikke er blitt
+benyttet eller oppfyller de intensjonene bestemmelsen hadde som siktemål. På den andre siden
+kan det anføres at ettersom den er lite benyttet, er
+det heller ikke behov for å fjerne den. Utvalget utelukker ikke at bestemmelsen kan dekke et reelt
+behov i visse situasjoner. Det vises til at det i noen
+tilfeller kan være vanskelig å vurdere om vilkårene i § 14-9 andre ledd bokstav a til e, og da særlig vilkårene etter bokstav a er oppfylt. Dette kan
+for eksempel gjelde for virksomheter i en oppstartsfase eller i forbindelse med en oppbemanning eller omorganisering hvor det foreligger et
+uavklart arbeidskraftsbehov.
+Flertallet, medlemmene Fougner, Dahle, Kastet,
+Olsen, Salvanes, Stokland, Sverdrup Svendsen og
+Tinnlund, mener at bestemmelsen i § 14-9 andre
+ledd bokstav f bør oppheves. Det vises særlig til at
+bestemmelsen bryter med lovens systematikk om
+
+[Side 287]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+at midlertidige ansettelser i utgangspunktet skal
+dekke midlertidige arbeidskraftsbehov. Bestemmelsen synes heller ikke å fungere etter sin hensikt. Den er lite brukt og det ser ut til at virksomhetenes behov i all hovedsak ivaretas gjennom de
+andre hjemlene for midlertidige ansettelser.
+Videre ser bestemmelsen heller ikke ut til å ha
+gitt ønsket springbretteffekt for personer i situasjoner hvor arbeidsgiver kan oppleve at det er
+risiko knyttet til ansettelsen ettersom utsatte
+grupper på arbeidsmarkedet fortsatt har lavere
+sannsynlighet for å gå fra midlertidig til fast jobb
+enn gjennomsnittet. De kartlegginger som er
+gjort tyder dessuten på at midlertidige ansettelser
+i mindre grad ser ut til å fungere som et springbrett inn i arbeidsmarkedet for disse gruppene.
+Det er etter flertallets mening derfor heller ikke
+grunn til å vurdere å endre bestemmelsen slik at
+den blir enklere for virksomhetene å anvende.
+Flertallet foreslår etter dette at § 14-9 andre
+ledd bokstav f, femte ledd siste punktum og
+åttende ledd oppheves.
+Flertallet viser til at § 10-5 første ledd siste
+punktum i så fall også må oppheves, samt at henvisningen til § 14-9 andre ledd bokstav f andre
+punktum i § 18-6 første ledd skal fjernes.
+Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik mener bestemmelsen i § 14-9 andre ledd bokstav f bør beholdes
+som i dag. Mindretallet er av den oppfatning at fast
+ansettelse fortsatt skal være hovedregelen og at
+det også klart er situasjonen i dagens arbeidsliv.
+Bruken av midlertidige ansettelser er lav i Norge.
+Undersøkelser viser at innføringen av bestemmelsen i bokstav f ikke har endret dette bildet.
+Da bestemmelsen trådte i kraft i 2015, hadde
+den et todelt mål – øke mulighet for innpass i
+arbeidslivet for grupper som hadde utfordringer
+med å komme i arbeid, og å gjøre det enklere for
+virksomheter å ta ansettelsesrisiko.
+Bokstav f utgjør fortsatt en mulighet for
+enkelte grupper som erfaringsvis har problemer
+med å komme seg inn i arbeidslivet. Det at den
+foreløpig i begrenset grad er benyttet til dette, tilsier ikke at den skal fjernes. Dersom bestemmelsen førte til at arbeidstakere som ellers ville vært
+fast ansatt, ble ansatt på midlertidige kontrakter,
+kunne det være grunn til å revurdere bestemmelsen. Kunnskapsgrunnlaget har ikke avdekket en
+slik effekt. Mindretallet kan derfor ikke se gode
+argumenter for å fjerne bestemmelsen, og mener
+at det er viktig å bevare alle virkemidler som kan
+øke yrkesdeltakelsen i befolkningen.
+Bestemmelsen har også en funksjon i forbindelse med nyetableringer, endringer i virksomhe-
+
+285
+
+Kapittel 12
+
+tens satsningsområder og innovasjonsprosjekter
+der bedriften ikke har grunnlag for midlertidig
+ansettelse i andre av lovens bestemmelser. Alternativet i slike situasjoner vil ofte ikke være fast
+ansettelse, men ingen ansettelse. En av Gründerrådets anbefalinger (2012)4 var nettopp en utvidet
+mulighet for midlertidige ansettelser slik bokstav
+f representerer. Dagens generelle adgang til midlertidig ansettelse, imøtekommer i noen grad
+behovet hos virksomheter i slike situasjoner. Samtidig verner den om fast ansettelse som den klare
+hovedregelen, siden bestemmelsen inneholder
+strenge begrensninger.
+En generell, men tidsbegrenset adgang som
+dagens bestemmelse representerer, vil være særlig viktig når mange sterkt rammede virksomheter nå etter korona igjen skal våge å satse. Bokstav f vil også kunne gi en økt mulighet for de
+mange arbeidsledige det siste året.
+Mindretallet mener det er riktig å opprettholde
+denne muligheten
+
+12.3.3 Generell adgang til å inngå tariffavtale
+om midlertidig ansettelse
+Utvalget mener i utgangspunktet at midlertidige
+ansettelser skal dekke midlertidige arbeidskraftsbehov. Det kan likevel oppstå situasjoner hvor det
+kan være vanskelig for virksomhetene å vite om et
+arbeidskraftsbehov er varig eller midlertidig.
+Utvalget har derfor vurdert om det er behov for
+en regel som gir virksomheter noe fleksibilitet
+utover det som følger av de ordinære grunnlagene
+for midlertidige ansettelser i § 14-9 andre ledd
+bokstav a til e. Slik fleksibilitet følger i dag av bokstav f, men som det fremgår av punkt 12.3.2
+mener utvalgets flertall at denne bestemmelsen
+bør oppheves. Utvalget har etter dette vurdert om
+det bør innføres en generell adgang til å inngå
+tariffavtale om midlertidige ansettelser.
+Det er i dag adgang til å inngå tariffavtale om
+midlertidig ansettelse mellom landsomfattende
+arbeidstakerorganisasjon og arbeidsgiver eller
+arbeidsgiverforening, men denne avtaleadgangen
+er begrenset til arbeidstakergrupper innenfor
+kunstnerisk arbeid, forskningsarbeid og arbeid i
+forbindelse med idrett, jf. § 14-9 fjerde ledd, jf.
+punkt 8.4.5.
+
+4
+
+Gründerrådrapporten (2012). Gründerrådet ble satt ned av
+Kommunal- og regionaldepartementet for å drøfte hvilke
+rammebetingelser som er det viktigste for nyetableringer i
+distrikts-Norge spesielt. Se nettside: https://www.regjeringen.no/globalassets/upload/krd/rapporter/rapporter_2012/grunderraadrapporten_hr.pdf.
+
+[Side 288]
+
+286
+
+Kapittel 12
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+En generell avtaleadgang for midlertidige
+ansettelser har vært diskutert flere ganger tidligere. Arbeidslivslovutvalget (NOU 2004: 5) foreslo at adgangen i daværende § 58 A nr. 1 (nåværende § 14-9 fjerde ledd) skulle gjøres generell.
+Forslaget ble blant annet begrunnet med at behovet for tidsavgrensede ansettelser kunne variere
+over tid og mellom ulike næringer, bransjer og
+sektorer, og at en tariffavtaleadgang ville gjøre det
+mulig å imøtekomme reelle behov uten å åpne for
+midlertidig ansettelse der det ikke er nødvendig.
+Det ble videre trukket frem at dette området, etter
+Arbeidslivslovutvalgets syn, egner seg for avtaleadgang og at avtaler ville kunne balansere hensynene til arbeidstakers og arbeidsgivers interesser og kunne tilpasses virksomhetenes behov i
+større grad enn de generelle reglene om midlertidig ansettelse. Det ble også uttalt at Arbeidslivslovutvalget la betydelig vekt på at partene i
+arbeidslivet er gitt en slik avtalekompetanse i EUdirektivet om midlertidig ansettelse5, jf. NOU
+2004: 5, punkt 15.3.7.
+Arbeidslivslovutvalgets forslag ble fulgt opp i
+Ot.prp. nr. 49 (2004–2005) og vedtatt som en del
+av arbeidsmiljøloven i 2005, men reversert etter
+regjeringsskiftet i 2005 før arbeidsmiljøloven
+trådte i kraft, jf. Ot.prp. nr. 24 (2005–2006). Reverseringen ble begrunnet med at tariffavtaleadgangen fortsatt burde være begrenset med hensyn til
+hva slags arbeid det dreier seg om.
+Utvalget har vurdert argumenter både for og
+mot å innføre en generell tariffavtaleadgang for
+midlertidige ansettelser, men har etter en vurdering av argumentene kommet til at det ikke
+ønsker å foreslå lovendring. Nedenfor følger en
+kort oppsummering av en del av momentene som
+er vurdert av utvalget.
+På den ene siden er det trukket frem at en
+tariffavtaleadgang vil kunne gi en mer fleksibel og
+treffsikker løsning der det er reelt behov for midlertidige ansettelser, enn det som er mulig etter
+de ordinære grunnlagene i § 14-9 andre ledd bokstav a til e. Det er også blitt pekt på at partene i
+arbeidslivet i fellesskap vil ha gode forutsetninger
+for å komme frem til en løsning som balanserer
+arbeidstakerens behov for trygghet og virksomhetens behov for fleksibilitet. Et annet argument
+for tariffavtaleadgang er at en slik regulering vil
+gjøre innleiereglene og reglene for midlertidig
+ansettelse mer like. Det er også blitt fremhevet at
+reguleringer som gir organiserte en fordel gjennom økt fleksibilitet vil kunne bidra til å styrke det
+organiserte arbeidslivet, og dermed bidra til å iva5
+
+Rådsdirektiv 1999/70/EF.
+
+reta den norske modellen. Ifølge OECDs indeks er
+Norge et av landene med strengest regulering av
+adgangen til midlertidig ansettelse, jf. punkt 5.8.1.
+Dette har vært trukket frem som et moment i vurderingen av om det av hensyn til arbeidsgivernes
+fleksibilitet vil være riktig å åpne for en tariffavtaleadgang. Det er også vist til at Arbeidslivslovutvalget la betydelig vekt på at partene i arbeidslivet
+er gitt en slik avtalekompetanse i EU-direktivet
+om midlertidig ansettelse, men ikke alle utvalgsmedlemmene er enige i denne tolkningen av
+direktivet.
+På den andre siden er det argumentert med at
+en tariffavtaleadgang vil kunne åpne for midlertidig ansettelser der det ikke foreligger et midlertidig behov og at dette vil kunne svekke de ansattes
+stillingsvern. Det er videre brukt som argument
+mot innføring av en tariffavtaleadgang at det vil
+kunne føre til flere midlertidige ansettelser, potensielt på bekostning av faste ansettelser. Det er
+også lagt vekt på at dagens tariffavtaleadgang i
+§ 14-9, etter det utvalget erfarer, ikke er brukt i
+stor utstrekning og at det derfor kan reises tvil
+ved om en tariffavtaleadgang faktisk vil bli brukt
+dersom den innføres.
+Utvalget har, som nevnt ovenfor, etter en vurdering av argumentene for og mot innføring av en
+tariffavtaleadgang kommet til at det ikke ønsker å
+foreslå lovendring på dette punktet. I denne vurderingen har flere utvalgsmedlemmer lagt vekt på at
+en slik bestemmelse vil bryte med prinsippet om
+at midlertidig ansettelse kun skal benyttes når det
+foreligger midlertidig arbeidskraftsbehov. Andre
+utvalgsmedlemmer har vektlagt at det er tvilsomt
+om en slik bestemmelse vil bli brukt.
+
+12.3.4 Fast ansettelse etter tre eller fire år
+Det følger av arbeidsmiljøloven § 14-9 sjuende
+ledd at arbeidstakere som har vært sammenhengende midlertidig ansatt i mer enn fire år for å
+utføre arbeid av midlertidig karakter (andre ledd
+bokstav a) eller i mer enn tre år i vikariat (andre
+ledd bokstav b) og på generelt grunnlag (andre
+ledd bokstav f), skal anses som fast ansatt. Det er
+fra 1. januar 2019 presisert i loven at også en kombinasjon av flere av grunnlagene, gir rett til fast
+ansettelse etter tre år.
+Frem til 1. juli 2015 gjaldt fireårsregelen for
+midlertidig ansettelse etter både bokstav a og b.
+Fireårsregelen ble tatt inn i arbeidsmiljøloven
+etter forslag fra Arbeidslivslovutvalget, jf. NOU
+2004: 5, jf. Ot.prp. nr. 49 (2004–2005), punkt 16.4.3.
+Innføringen av regelen ble begrunnet med at midlertidige ansettelser verken burde vare over et for
+
+[Side 289]
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+langt tidsrom eller gjenopptas i for stor utstrekning. Det ble også vist til direktivet om midlertidige ansettelser som pålegger landene å treffe tiltak for å hindre misbruk ved gjentatte midlertidige ansettelser. Videre ble regelen begrunnet
+med en harmonisering med tjenestemannsloven
+som den gang hadde en slik fireårsregel.
+Om valget av innslagstidspunktet på fire år
+skrev departementet:
+Etter departementets oppfatning er fire år en
+hensiktsmessig grense for hva som er akseptabel maksimal lengde på midlertidig ansettelse
+og som sikrer tilstrekkelig fleksibilitet i de
+fleste tilfeller. Dersom en arbeidstaker har
+vært ansatt i en og samme virksomhet i over
+fire år, indikerer dette normalt et stabilt behov
+for arbeidskraft og det er rimelig at arbeidstaker i et slikt tilfelle omfattes av lovens krav til
+saklig grunn for oppsigelse.
+I de samme forarbeidene uttales det videre at:
+En øvre grense for varigheten av en midlertidig ansettelse kan bidra til å tydeliggjøre
+lovens intensjon om at midlertidig ansettelse i
+hovedsak skal benyttes ved midlertidige behov
+og underbygger prinsippet om at fast ansettelse er lovens hovedregel.
+Utvalget er enig i dette. Lovens hovedregel om fast
+ansettelse underbygges både av at det er vilkår for
+når det er lov å benytte midlertidig ansettelse, og
+regler for hvor lenge en midlertidig ansettelse kan
+vare. Det er etter utvalgets syn fornuftig med en
+regel som begrenser varigheten av midlertidige
+ansettelser. Utvalget har likevel vurdert om det er
+behov for endring for å skape en enklere regel og
+for å styrke vernet av midlertidig ansatte.
+Under stortingsbehandlingen av utvidelsen av
+adgangen til midlertidig ansettelse i 2015, ble
+bestemmelsen endret. Fireårsregelen ble opprettholdt for midlertidige ansettelser når arbeidet er
+av midlertidig karakter (bokstav a). For midlertidige ansettelser begrunnet i behovet for vikar
+(bokstav b) og den generelle adgangen (bokstav
+f) ble innslagstidspunktet endret til tre år. Det
+samme gjaldt sammenhengende midlertidige
+ansettelser som er en kombinasjon av midlertidige
+ansettelser etter de tre nevnte grunnlagene (bokstav a, b og f). Bestemmelsen oppstiller dermed to
+ulike innslagstidspunkter for når retten til fast
+ansettelse inntrer.
+Det er ulike synspunkter i utvalget på om det i
+praksis oppleves som vanskelig å forholde seg til
+
+287
+
+Kapittel 12
+
+regelen med to ulike innslagstidspunkter. Noen
+utvalgsmedlemmer mener at regelverket oppleves
+komplisert og vanskelig. Andre utvalgsmedlemmer beskriver at regelverket fungerer godt og
+sjelden skaper problemer.
+Utvalget har etter dette vurdert om regelen
+bør tilbakeføres til en ren fireårsregel, om den bør
+omgjøres til en ren treårsregel, eller om regelen
+bør beholdes slik den er i dag.
+Utviklingen av regelen har gått i retning av å
+styrke de midlertidige ansattes stilling. Allerede
+mindretallet i arbeidsmiljølovutvalget i 1992 foreslo at rett til fast ansettelse skulle oppnås etter tre
+års sammenhengende tjeneste. Da fireårsregelen
+ble innført i 2005 viste departementet i hovedsak
+til at det var naturlig å harmonisere med tjenestemannslovens fireårsregel, jf. Ot.prp. nr. 49 (2004–
+2005). Det ble ikke ut over dette ført argumenter
+for hvorfor akkurat fire år ble ansett som en passende varighet.
+I forbindelse med revisjonen av tjenestemannsregelverket ble regelen i tjenestemannsloven
+endret til tre år. Det ble argumentert med en utvikling i retning av å styrke midlertidig ansattes stilling ved at de får oppsigelsesvern etter kortere tid.
+Det ble videre vist til regelen i arbeidsmiljøloven
+som inneholder både en treårsregel og en fireårsregel, avhengig av grunnlaget for den midlertidige
+ansettelsen. Departementet konkluderte med at
+ulike innslagstidspunkter for når den ansatte ville
+oppnå slikt vern lett ville føre til en komplisert
+regel, jf. Prop. 94 L (2016–2017), punkt 13.4.4.
+En evaluering av statsansatteloven tyder på at
+virksomhetene som ble intervjuet tilpasset seg
+lovendringen blant annet med mer kortvarige
+midlertidige ansettelser, og vurdering av flere
+faste ansettelser ved behov for jobb utover tre år
+(jf. Underthun mfl., 2019). Terskelen for å si opp
+en ansatt etter statsansatteloven er høy, jf. Prop.
+94 L (2016–2017), kapittel 29, og gir generelt et
+noe sterkere vern mot oppsigelser sammenlignet
+med arbeidsmiljøloven. Kartlegginger viser at det
+er mer utstrakt bruk av midlertidige ansettelser i
+staten enn i det private.
+Utvalget er enige om at en sammenhengende
+midlertidig ansettelse etter en viss tid skal gi rett
+til fast ansettelse. Utvalget er imidlertid delt i
+synet på innslagstidspunket og om dagens regulering bør endres.
+Utvalgets flertall, medlemmene Fougner, Dahle,
+Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund mener at arbeidsmiljølovens brede
+brukergruppe trekker i retning av at reglene bør
+tilstrebes å være enklest mulig. Det å ha ett innslagstidspunkt er en måte å skape slik forenkling.
+
+[Side 290]
+
+288
+
+Kapittel 12
+
+NOU 2021: 9
+Den norske modellen og fremtidens arbeidsliv
+
+Flertallet kan ikke se at det foreligger tungtveiende
+grunner som tilsier at det bør være ulike regler for
+staten på den ene siden og kommunene og de private på den andre siden, når det gjelder tidspunktet
+for når en midlertidig ansettelse bør anses som
+fast. Harmoniseringshensyn trekker etter flertallets
+mening derfor sterkt i retning av å ha samme terskel for når vern som fast ansatt inntrer etter
+arbeidsmiljøloven og statsansatteloven.
+Ettersom utvalgets flertall har foreslått å oppheve § 14-9 andre ledd bokstav f er det i praksis
+snakk om å innføre likt innslagstidspunkt for bokstav a og b. Flertallet kjenner ikke til tungtveiende
+argumenter som kan begrunne opprettholdelsen
+av en fireårsregel for arbeid av midlertidig karakter når det gjelder en treårsregel for vikariater.
+Etter flertallets syn vil tre års sammenhengende
+arbeidskraftsbehov i utgangspunktet vise et tilstrekkelig stabilt behov hos arbeidsgiver til at
+arbeidstaker bør kunne omfattes av lovens krav til
+saklig grunn for oppsigelse, uavhengig av om
+grunnlaget er et vikariat eller at arbeidet er av
+midlertidig karakter.
+Utvalgets flertall utelukker ikke at det kan
+være situasjoner hvor det saklig sett kan være
+behov for midlertidig ansettelse utover tre år, og
+at dette kan gjelde midlertidige ansettelser etter
+både bokstav a og b. Eksempelvis kan ulike politiske verv eller doktorgradsstipendiater typisk ha
+en varighet på fire år. Ved bruk av vikar ved permisjoner i slike tilfeller, kan det oppstå en overtallighetssituasjon når arbeidstakeren som har hatt permisjon returnerer. Flertallet viser til at vikariater
+etter § 14-9 andre ledd bokstav b på tross av dette
+allerede er underlagt treårsregelen. Dette hensynet kan derfor ikke begrunne å opprettholde ulikt
+innslagstidspunkt for at arbeidstaker skal anses
+fast etter bokstav a og b. Ved en eventuell overtallighetssituasjon i slike tilfeller vil de ordinære oppsigelsesregler eventuelt måtte tas i bruk.
+Flertallet viser videre til at SSB-AKU viser at
+det er et begrenset antall arbeidstakere som er
+midlertidig ansatt med varighet mellom tre og
+fem år, uavhengig av grunnlag for den midlertidige ansettelsen. Ifølge SSB-AKU dreier det seg
+om åtte prosent av de midlertidig ansatte, jf. tabell
+5.4. En endring i regelen kan dermed ikke forventes å få store konsekvenser for virksomhetene.
+Utvalgets flertall foreslår etter dette at § 14-9
+sjuende ledd endres slik at også arbeidstaker som
+er midlertidig ansatt etter § 14-9 andre ledd bokstav a skal anses som fast ansatt etter tre år.
+Etter dette foreslår utvalgets flertall at § 14-9
+sjuende ledd skal lyde:
+
+Arbeidstaker som har vært sammenhengende
+midlertidig ansatt i mer enn tre år etter andre
+ledd bokstav a eller b, eller disse i kombinasjon,
+skal anses som fast ansatt slik at reglene om
+oppsigelse av arbeidsforhold kommer til
+anvendelse. Ved beregning av ansettelsestid
+skal det ikke gjøres fradrag for arbeidstakers
+fravær.
+Utvalgets mindretall, medlemmene Almestrand,
+Brandshaug Dale, Juliussen og Spjelkavik, vil
+beholde dagens regelverk med både en tre- og
+fireårsregel.
+Mindretallet er av den oppfatning at faste ansettelse fortsatt skal være hovedregelen og at det
+også klart er situasjonen i dagens arbeidsliv. Andelen midlertidig ansettelser er lav og stabil i Norge
+(i underkant av åtte prosent). Mindretallet mener
+det derfor ikke er funn i kunnskapsgrunnlaget
+som tilsier en innstramming til en ren treårsregel.
+Det er kun ved sammenhengende ansettelse
+etter bare bokstav a i hele perioden det gjelder en
+fireårsregel. Hensynet til forenkling til samme lovbestemte varighet for alle grunnlag, er ikke i seg
+selv nok for å stramme inn bestemmelsen da den
+ikke er vanskelig å forstå.
+Det gjelder en treårsregel for vikariater etter
+bokstav b og i tilfellene der bokstav a, b og f brukes
+i kombinasjon. Dette mener mindretallet er tilstrekkelig for å imøtekomme behovet for fast stilling
+etter en viss periode med midlertidige ansettelser.
+
+12.4 Lovforslag
+12.4.1 Flertallets forslag
+Flertallet, medlemmene Fougner, Dahle, Kastet,
+Olsen, Salvanes, Stokland, Sverdrup Svendsen og
+Tinnlund, foreslår at § 14-9 sjuende ledd skal lyde:
+Arbeidstaker som har vært sammenhengende
+midlertidig ansatt i mer enn tre år etter andre ledd
+bokstav a eller b, eller disse i kombinasjon, skal
+anses som fast ansatt slik at reglene om oppsigelse av arbeidsforhold kommer til anvendelse.
+Ved beregning av ansettelsestid skal det ikke gjøres fradrag for arbeidstakers fravær.
+§ 14-9 andre ledd bokstav f, femte ledd siste punktum og åttende ledd oppheves.
+§ 10-5 første ledd siste punktum oppheves.
+Henvisningen til § 14-9 andre ledd bokstav f
+andre punktum i § 18-6 første ledd fjernes.
