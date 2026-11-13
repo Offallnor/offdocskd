@@ -1,6 +1,6 @@
 # Dokumenter på utdanningsområdet – veiviser
 
-Denne basen har offentlige dokumenter om videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd: utvalgte NOU-er, stortingsmeldinger, lovproposisjoner, strategier og handlingsplaner, og tildelingsbrev til etatene og institusjonene fra 2020. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her, men i regelverksbasen (Offallnor/offdocs).
+Denne basen har offentlige dokumenter om utdanning og kompetanse, med vekt på videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd: utvalgte NOU-er, stortingsmeldinger, lovproposisjoner, strategier og handlingsplaner, og tildelingsbrev til etatene og institusjonene fra 2020. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her, men i regelverksbasen (Offallnor/offdocs).
 
 ## Slik henter du filer
 
@@ -20,7 +20,7 @@ Hvert dokument er én fil: `dokumenter/<mappe>/<år>/<id>-<tittel>.md`. Tildelin
 - **Original-PDF**: PDF-en dokumentet er hentet fra.
 - **Kudos**: dokumentets side i Kudos. Noen tildelingsbrev har bare denne lenken.
 
-Teksten er hentet automatisk fra PDF-en. Løpende tekst blir som regel riktig, men tabeller og figurer blir ofte oppløst: tallene havner på egne linjer og kan bli skilt fra radene og kolonnene de hørte til. Av figurene blir som regel bare akseverdier og etiketter igjen. Linja **Tekst** øverst i hver fil sier om det er tegn til dette (antall tabell- og figurtitler og linjer med løsrevne tall). Kolonnene `tabeller`, `figurer` og `tall_linjer` i `dokumenter.tsv` har de samme tallene. Kontroller tall mot originalen før de brukes i noe som skal ut.
+Teksten er hentet automatisk fra PDF-en. Løpende tekst blir som regel riktig, men tabeller og figurer blir ofte oppløst: tallene havner på egne linjer og kan bli skilt fra radene og kolonnene de hørte til. Av figurene blir som regel bare akseverdier og etiketter igjen. Linja **Tekst** øverst i hver fil sier om det er tegn til dette (antall tabell- og figurtitler og linjer med løsrevne tall). Kolonnene `tabeller`, `figurer` og `tall_linjer` i `dokumenter.tsv` har de samme tallene. Kontroller tall mot originalen før de brukes i noe som skal ut. For noen dokumenter er PDF-teksten byttet ut med tekst fra Word, epub eller HTML. Da står det i linja **Tekst**, og tabellene er med som tabeller.
 
 `dokumenter.tsv` har én rad per dokument: id, type, år, tittel, sammendrag (fra Kudos), eiere, mottakere, utførere, fil og lenker. Bruk den til å søke på tvers, for eksempel alle tildelingsbrev til én mottaker.
 
@@ -187,5 +187,6 @@ Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mo
 
 - Hvilke dokumenter som hentes, står i `dokumenter.json`: per Kudos-type en mappe, første år (`fra_ar`), eiere (tom liste betyr alle) og eventuelt `ta_med` (nøyaktige titler) eller `ta_med_start` (titler som begynner slik). Legg til en tittel der, så hentes dokumentet ved neste kjøring.
 - `verktoy/kudos_hent.py` kjøres hver tirsdag og ved behov (`kudos-hent.yml`), og går rett i main. Lagrede dokumenter hentes ikke på nytt. `--liste <type> --fra <år> --sok <regex>` lister kandidater uten å lagre, og `--liste typer` viser hvilke typer Kudos har.
+- Bedre tekst for et dokument med rotete tabeller: legg Word-, epub- eller HTML-fila i `innboks/`, se `innboks/README.md`. Jobben `innboks.yml` leser den inn med `verktoy/innboks.py`, og Kudos-hentingen skriver ikke over teksten senere.
 - Lista over er laget av skriptet. Rediger teksten utenfor AUTO-blokken.
 - Repoet er åpent. Legg ikke inn interne dokumenter, utkast eller svar som ikke er publisert.

@@ -1,0 +1,47 @@
+name: Les inn filer fra innboksen
+
+on:
+  push:
+    branches: [main]
+    paths: ["innboks/**", "!innboks/README.md", "!innboks/rapport.md"]
+  workflow_dispatch:
+    inputs:
+      tving:
+        description: "Les inn selv om ordtallet avviker mye fra PDF-teksten"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kudos
+  cancel-in-progress: false
+
+jobs:
+  innboks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - name: Installer pandoc
+        run: sudo apt-get install -y -qq pandoc >/dev/null
+      - name: Les inn
+        run: python3 -I verktoy/innboks.py ${{ inputs.tving && '--tving' || '' }}
+      - name: Lagre
+        run: |
+          melding="$RUNNER_TEMP/melding.txt"
+          if [ -f innboks-melding.txt ]; then mv innboks-melding.txt "$melding"; else echo "Innboks" > "$melding"; fi
+          git add -A innboks dokumenter dokumenter.tsv
+          if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -F "$melding"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
