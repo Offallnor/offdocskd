@@ -12,74 +12,62 @@
 
 ---
 
-SIKT
-5883 Majorstuen
-0308 Oslo
+[Side 1]
 
-Deres ref
+   SIKT
+   5883 Majorstuen
+   0308 Oslo
 
-Vår ref 21/4886
+   Deres ref                             Vår ref 21/4886                  Dato 23.06.2022
 
-Dato 23.06.2022
+  Revidert nasjonalbudsjett 2022, kap. 273, post 50. Supplerende
+  tildelingsbrev til Kunnskapssektorens tjenesteleverandør (Sikt) om gevinst
+  fra endrede jobbreisevaner
+  Vi viser til at Stortinget vedtok endringer i statsbudsjettet for 2022 den 17. juni 2022, jf. Innst.
+  Innst. 450 S (2021-2022) og Prop. 115 S (2021–2022). Videre viser vi til tildelingsbrevet for
+  2022 til Sikt fra Kunnskapsdepartementet den 4. januar 2022.
 
-Revidert nasjonalbudsjett 2022, kap. 273, post 50. Supplerende
-tildelingsbrev til Kunnskapssektorens tjenesteleverandør (Sikt) om gevinst
-fra endrede jobbreisevaner
-Vi viser til at Stortinget vedtok endringer i statsbudsjettet for 2022 den 17. juni 2022, jf. Innst.
-Innst. 450 S (2021-2022) og Prop. 115 S (2021–2022). Videre viser vi til tildelingsbrevet for
-2022 til Sikt fra Kunnskapsdepartementet den 4. januar 2022.
+  1. Reduksjon som følge av gevinst fra endrede jobbreisevaner
 
-1. Reduksjon som følge av gevinst fra endrede jobbreisevaner
-Pandemien har medført økt bruk av digitale møter og gitt statlige virksomheter en mulighet til å
-redusere reiseomfanget både på kort og lang sikt. Redusert reiseaktivitet vil både redusere
-reiseutgifter i virksomhetene og spare reisetid for de ansatte. Selv om reiseaktiviteten er
-høyere nå enn under pandemien, vil nivået på reiseaktiviteten trolig være varig redusert.
-I forbindelse med Revidert nasjonalbudsjett 2022 er det vedtatt å redusere bevilgningen til
-statlige virksomheter som følge av forventet gevinst av endrede jobbreisevaner.
-Bevilgningen til Sikt på kap. 273, post 50 reduseres med 279 000 kroner på grunn av
-forventede budsjettgevinster fra endrede jobbreisevaner som følge av pandemien.
+  Pandemien har medført økt bruk av digitale møter og gitt statlige virksomheter en mulighet til å
+  redusere reiseomfanget både på kort og lang sikt. Redusert reiseaktivitet vil både redusere
+  reiseutgifter i virksomhetene og spare reisetid for de ansatte. Selv om reiseaktiviteten er
+  høyere nå enn under pandemien, vil nivået på reiseaktiviteten trolig være varig redusert.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+  I forbindelse med Revidert nasjonalbudsjett 2022 er det vedtatt å redusere bevilgningen til
+  statlige virksomheter som følge av forventet gevinst av endrede jobbreisevaner.
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+  Bevilgningen til Sikt på kap. 273, post 50 reduseres med 279 000 kroner på grunn av
+  forventede budsjettgevinster fra endrede jobbreisevaner som følge av pandemien.
 
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
+Postadresse            Kontoradresse      Telefon *             Avdeling:                   Saksbehandler
+Postboks 8119 Dep      Kirkeg. 18         22 24 90 90           Avdeling for eierskap i     Maria Elise Rød
+0032 Oslo                                 Org nr.               høyere utdanning og         22 24 73 80
+postmottak@kd.dep.no   www.kd.dep.no      872 417 842           forskning
 
-Avdeling:
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Maria Elise Rød
-22 24 73 80
+[Side 2]
 
 2. Tilbakebetaling
+
 Sikt skal derfor betale tilbake 279 000 kroner til Kunnskapsdepartementets konto 8276 01
 00451. Merk innbetalingen "Tilbakebetaling ifm. RNB 2022, kap. 273, post 50 ". Kontroll
 
 3. Kontroll
+
 Kunnskapsdepartementet og Riksrevisjonen kan kontrollere at midlene blir brukt etter
 forutsetningene, jf. bevilgningsreglementet og lov om Riksrevisjonen § 12. De tildelte midlene
 kan kreves helt eller delvis tilbakebetalt dersom de ikke benyttes i samsvar med
 forutsetningene.
+
 Med hilsen
+
 Hedda Huseby (e.f.)
 avdelingsdirektør
-
-Maria Elise Rød
-rådgiver
+                                                                           Maria Elise Rød
+                                                                           rådgiver
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
 
 Kopi: Riksrevisjonen
 
-Side 2
+ Side 2

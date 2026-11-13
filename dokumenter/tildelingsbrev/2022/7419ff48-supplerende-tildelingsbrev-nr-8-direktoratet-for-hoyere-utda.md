@@ -12,69 +12,60 @@
 
 ---
 
-Direktoratet for høyere utdanning og kompetanse
-Postboks 1093
-5809 Bergen
+[Side 1]
 
-Deres ref
+   Direktoratet for høyere utdanning og kompetanse
+   Postboks 1093
+   5809 Bergen
 
-Vår ref
-22/62
+   Deres ref                           Vår ref                         Dato
+                                       22/62                           11.08.2022
 
-Dato
-11.08.2022
+  Statsbudsjettet 2022, kap. 200, post 21. Supplerende tildelingsbrev til HK-dir
+  om konferansen DigiNorden
 
-Statsbudsjettet 2022, kap. 200, post 21. Supplerende tildelingsbrev til HK-dir
-om konferansen DigiNorden
-Vi viser til Stortingets behandling av statsbudsjettet for 2022 på Kunnskapsdepartementets
-område jf. Innst. 12 S (2021–2022), Prop. 1 S Tillegg 1 (2021-2022) og Prop. 1 S (2021–2022).
-Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til HK-dir datert 22.
-desember 2021.
+  Vi viser til Stortingets behandling av statsbudsjettet for 2022 på Kunnskapsdepartementets
+  område jf. Innst. 12 S (2021–2022), Prop. 1 S Tillegg 1 (2021-2022) og Prop. 1 S (2021–2022).
 
-1. Mål for tildelingen
-HK-dir skal som del av det norske ordførerskapet i Nordisk ministerråd i 2022 arrangere
-konferansen Digital kompetanse og livslang læring for bærekraftig omstilling i Norden
-(DigiNorden). Konferansen arrangeres 20.-21.september i Tromsø.
+  Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til HK-dir datert 22.
+  desember 2021.
 
-2. Beløp og utbetaling
-Kunnskapsdepartementet gir med dette HK-dir fullmakt til å belaste kapittel 200, post 21
-(prosjektnummer: 90202) med inntil 700 000 kroner. Midlene fordeles som 500 000 fra
-Kunnskapsdepartementet, 200 000 fra nordiske budsjetter.
+  1. Mål for tildelingen
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+  HK-dir skal som del av det norske ordførerskapet i Nordisk ministerråd i 2022 arrangere
+  konferansen Digital kompetanse og livslang læring for bærekraftig omstilling i Norden
+  (DigiNorden). Konferansen arrangeres 20.-21.september i Tromsø.
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+  2. Beløp og utbetaling
 
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
+  Kunnskapsdepartementet gir med dette HK-dir fullmakt til å belaste kapittel 200, post 21
+  (prosjektnummer: 90202) med inntil 700 000 kroner. Midlene fordeles som 500 000 fra
+  Kunnskapsdepartementet, 200 000 fra nordiske budsjetter.
 
-Avdeling:
-Avdeling for eierskap i
-høyere utdanning og
-forskning
+Postadresse            Kontoradresse     Telefon *           Avdeling:                 Saksbehandler
+Postboks 8119 Dep      Kirkeg. 18        22 24 90 90         Avdeling for eierskap i
+0032 Oslo                                Org nr.             høyere utdanning og
+postmottak@kd.dep.no   www.kd.dep.no     872 417 842         forskning
 
-Saksbehandler
+[Side 2]
 
 3. Føringer for tildelingen
+
 Forutsetningene for tildelingen følger av Innst. 12 S (2021–2022), Prop. 1 S (2021–2022) og av
 forutsetningene og kravene fastsatt i dette brevet.
 
 4. Krav til rapportering
+
 Kunnskapsdepartementet er påkrevd å rapportere fra aktiviteter som finansieres eller
 delfinansieres av midler fra Nordisk ministerråd. Departementet ber derfor om en kort
 sluttrapport på bruk av midler og gjennomføring av konferansen. Rapporten sendes til
 postmottak@kd.dep.no (ref: Håkon Halgrimsen) innen 1. desember 2022.
+
 HK-dir skal inkludere rapportering om bruk av midlene i årsrapporten for 2022 som skal sendes
 til postmottak@kd.dep.no innen 15. mars 2023.
 
 5. Kontroll
+
 Kunnskapsdepartementet og Riksrevisjonen kan kontrollere at midlene blir brukt etter
 forutsetningene, jf. bevilgningsreglementet og lov om Riksrevisjonen § 12. De tildelte midlene
 kan kreves helt eller delvis tilbakebetalt dersom de ikke benyttes i samsvar med
@@ -84,10 +75,11 @@ Med hilsen
 
 Marthe Nordtug
 Avdelingsdirektør
-Håkon Halgrimsen
-Prosjektleder
+                                                                              Håkon Halgrimsen
+                                                                              Prosjektleder
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi: Riksrevisjonen
 
-Side 2
+ Side 2

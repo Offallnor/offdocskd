@@ -12,28 +12,26 @@
 
 ---
 
+[Side 1]
+
 Nasjonalt organ for kvalitet i utdanningen
 Postboks 578
 1327 LYSAKER
 
-Deres ref
-
-Vår ref
-
-Dato
-
-23/5805-
-
-5. april 2024
+Deres ref                                          Vår ref                                Dato
+                                                   23/5805-                               5. april 2024
 
 Supplerende tildelingsbrev nr. 1 til NOKUT, kap. 271, post 21, om
 overførte midler fra 2023 til 2024
 Vi viser til tildelingsbrevet for 2024.
+
 Kunnskapsdepartementet viser til Finansdepartementets rundskriv R-2/2024 om overføring
 av ubrukt bevilgning fra 2023 til 2024.
+
 Kunnskapsdepartementet stiller med dette 87 000 kroner til disposisjon for Nasjonalt organ
 for kvalitet i utdanningen (NOKUT) over kap. 271, post 21. Beløpet gjelder overføring av
 ubrukt bevilgning fra 2023 til 2024.
+
 Departementet viser til kravene om rapportering i det ordinære tildelingsbrevet til HK-dir for
 2024.
 
@@ -41,34 +39,19 @@ Med hilsen
 
 Hedda Huseby (e.f.)
 avdelingsdirektør
-Lea Jorselje Fuglestad
-seniorrådgiver
+                                                                          Lea Jorselje Fuglestad
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+ Postadresse                 Kontoradresse             Telefon*               Avdeling                    Saksbehandler
+ Postboks 8119 Dep           Kirkeg. 18                22 24 90 90            Avdeling for eierskap i     Lea Jorselje
+ 0032 Oslo                                             Org.nr.                høyere utdanning og         Fuglestad
+ postmottak@kd.dep.no        www.kd.dep.no             872 417 842            forskning                   22 24 76 88
 
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Lea Jorselje
-Fuglestad
-22 24 76 88
+[Side 2]
 
 Riksrevisjonen
 

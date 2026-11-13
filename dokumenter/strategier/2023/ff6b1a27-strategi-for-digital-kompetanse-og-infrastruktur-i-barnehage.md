@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Strategi
@@ -19,6 +21,10 @@ Strategi for digital
 kompetanse og infrastruktur
 i barnehage og skole
 2023-2030
+
+[Side 2]
+
+[Side 3]
 
 Forord
 Digitalisering har stor innflytelse på samfunnet og påvirker oss på stadig nye måter.
@@ -49,6 +55,8 @@ støtte. Barnehage- og skoleeiere har ansvaret for å ha systemer for å følge 
 
 3
 
+[Side 4]
+
 I ­hverdagen må ledelsen, lærerne og de administrativt ansatte ta gode valg om pedagogisk og administrativ praksis ut fra de rammene de har. Framover må vi samarbeide
 om bedre løsninger for at tilgang til og bruk av digitale løsninger i barnehage og skole er
 hensiktsmessig og forsvarlig, med mål om å gi barn og unge et best mulig tilbud ut fra
@@ -69,6 +77,8 @@ for de minste.
 • Våge å stille vanskelige spørsmål og tåle nyanserte svar.
 
 4
+
+[Side 5]
 
 Digitaliseringen i barnehage og skole har vært gjennom flere faser siden digital teknologi
 kom inn i skolen på 1980-tallet. Arbeidet med å bygge opp profesjonsfaglig digital kompetanse har tatt tid, og det er fortsatt behov for å utvikle kompetanse i hele sektoren i
@@ -109,6 +119,8 @@ til å ta grep om utviklingen, og til å få tilstrekkelig støtte i de valgene 
 
 5
 
+[Side 6]
+
 kommet langt i å definere utfordringer med personvern, valg, anskaffelser og bruk av læremidler og skolenes og lærernes digitale kompetanse. Denne strategien skal gi en tydeligere
 retning for hvordan disse utfordringene best kan løses, på en effektiv og bærekraftig måte.
 Nye verktøy med kunstig intelligens som utfordrer praksis og vurderingsformer i skolen
@@ -138,6 +150,8 @@ Styreleder
 Kunnskapsdepartementet
 
 6
+
+[Side 7]
 
 Innhold
 Forord ................................................................................................................................. 3
@@ -180,6 +194,8 @@ Kunnskapsutvikling i sammenheng . ..............................................
 
 7
 
+[Side 8]
+
 1 Hovedmål
 Hovedmålene for strategien er:
 
@@ -211,6 +227,8 @@ og blir utviklet som sammenhengende tjenester.
 
 8
 
+[Side 9]
+
 Samarbeid og samstyring for felles mål
 Kunnskapsdepartementet og KS har samarbeidet om å lage denne ­strategien. Samarbeid om digitalisering i skolen er forankret i Samstyrings­rådet for digitalisering i
 grunnopplæringen mellom staten og KS. Oppnåelsen av målene, ambisjonene og
@@ -240,6 +258,8 @@ det kan gjennomføres.
 
 9
 
+[Side 10]
+
 2 Barnehage og skole i
 digital utvikling
 Ambisjon
@@ -264,6 +284,8 @@ Digitale løsninger er tjenester, programmer og apper som er i bruk i oppvekstse
 verktøy og ressurser, læringsplattformer, administrative systemer og programmer samt løsninger for foreldrekommunikasjon.
 
 10
+
+[Side 11]
 
 til og mer bruk av data, digitale tjenester og teknologi. Økende bruk av
 kunstig intelligens vil forsterke effektene av digitaliseringen. Yrkeslivet,
@@ -315,6 +337,8 @@ https://www.regjeringen.no/no/dokumenter/nou-2022-11/id2928543/
 
 11
 
+[Side 12]
+
 på en gjennomgående tendens til at digitaliseringen skjer på bekostning av personvernet.
 De er særlig opptatt av barn og unges situasjon. Kommisjonen gir et overblikk over denne
 utviklingen og peker på mulige veier framover for å sikre og styrke personvernet i det
@@ -354,7 +378,11 @@ KS vil:
 
 12
 
+[Side 13]
+
 13
+
+[Side 14]
 
 3 Digital praksis og
 kompetanse i barnehagen
@@ -385,6 +413,8 @@ medier_2020.pdf
 https://www.udir.no/tall-og-forskning/finn-forskning/rapporter/sporsmal-til-barnehage-norge-2021/
 
 14
+
+[Side 15]
 
 3.1 Digital praksis i barnehagen
 Ambisjoner
@@ -432,6 +462,8 @@ Se kapittel 5.3 for en nærmere beskrivelse av tjenestekatalog.
 
 15
 
+[Side 16]
+
 Utforsking og lek med digitalisering i barnehagen
 Hva er en robot, og hvordan kan man få en robot til å bevege seg? Må den gå til høyre
 eller venstre for å komme inn i huset sitt. Oi, nå skjedde noe rart … hva har vi gjort feil?
@@ -473,6 +505,8 @@ https://www.helsedirektoratet.no/faglige-rad/fysisk-aktivitet-i-forebygging-og-b
 
 16
 
+[Side 17]
+
 Tiltak
 Regjeringen vil:
 • Videreutvikle støttemateriell for god digital praksis i barnehagen, i samarbeid med
@@ -492,6 +526,8 @@ KS vil:
 barnehage–hjem samarbeidet.
 
 17
+
+[Side 18]
 
 3.2 Profesjonsfaglig digital kompetanse i
 barnehagen
@@ -546,6 +582,8 @@ Barnehageloven § 7
 
 18
 
+[Side 19]
+
 et behov for å styrke de ansattes digitale kompetanse både gjennom videreutdanning på
 det digitale området og i øvrige videreutdanningstilbud. Flertallet av barnehagelærerne
 som tok videreutdanning i andre fagområder i 2022, opplevde ikke at videreutdanningen
@@ -593,6 +631,8 @@ https://www.regjeringen.no/no/dokumenter/nou-2022-13/id2929000/?ch=1
 
 19
 
+[Side 20]
+
 Tiltak
 Regjeringen vil:
 • Sørge for et godt etter- og videreutdanningstilbud for ansatte i barnehage­sektoren,
@@ -614,7 +654,11 @@ tildeling av Feide-tilganger for studenter på praksisstedet.
 
 20
 
+[Side 21]
+
 21
+
+[Side 22]
 
 4 Digital praksis og
 kompetanse i grunnskole
@@ -633,6 +677,8 @@ teknologi, programmering og algoritmisk tenkning, skal elevene samlet sett oppn�
 kompetanse.
 
 22
+
+[Side 23]
 
 4.1 Digital praksis i grunnskole og
 videregående skole
@@ -671,6 +717,8 @@ ledere og lærere må vurdere og bruke teknologien forsvarlig og på en måte so
 å fremme læring hos elevene.
 
 23
+
+[Side 24]
 
 Forskning viser samlet sett at bruk av digitale enheter og læremidler har en moderat positiv
 effekt på elevenes læring, og at denne effekten øker med alderen.21 Vi mangler imidlertid
@@ -723,6 +771,8 @@ Digitalisering gir bedre muligheter for læring (udir.no)
 
 24
 
+[Side 25]
+
 Tverrfaglig prosjekt om brobygging og programmering på femte trinn
 Tverrfaglig, tematisk og prosjektbasert arbeid er arbeidsformer der digital teknologi
 ofte brukes med gode resultater. Elever i en femteklasse fikk i oppgave å bygge en bro
@@ -767,6 +817,8 @@ https://digital-education-outlook.oecd.org/
 https://files.nettsteder.regjeringen.no/wpuploads01/sites/451/2022/10/Rapport_PVK_Intervjuer-med-barn_GFC_180222.pdf
 
 25
+
+[Side 26]
 
 barn og unges rettigheter. Det innebærer blant annet å ikke ta i bruk apper som samler
 inn informasjon om dem, som selges videre. Slikt videresalg kan føre til at barn og unge
@@ -826,6 +878,8 @@ https://laringsanalyse.no/
 
 26
 
+[Side 27]
+
 Det er viktig at skolens digitale praksis er ledet av
 lærerne, begrunnet pedagogisk og gjennomført
 etter målet med opplæringen. For at skolen skal
@@ -874,6 +928,8 @@ læring kan bli mer individualisert når innhold, oppgaver og tilbakemeldinger b
 https://www.regjeringen.no/no/dokumenter/nasjonal-strategi-for-kunstig-intelligens/id2685594/
 
 27
+
+[Side 28]
 
 ut ­automatisk og tilpasset ferdighetsnivået til den enkelte. Samtidig kan slik informasjon
 hjelpe lærerne i å vurdere hvilke elever som bør samarbeide eller som trenger ekstra
@@ -925,6 +981,8 @@ dilemma rundt dette. https://www.datatilsynet.no/regelverk-og-verktoy/sandkasse-
 
 28
 
+[Side 29]
+
 Om systemer som er bygget på KI inneholder algoritmeskjevheter som kan føre til usaklig
 forskjellsbehandling og diskriminering på bakgrunn av kjønn, alder, etnisitet eller andre
 kriterier, må egnede organisatoriske og om mulig tekniske tiltak settes i verk for å veie
@@ -966,6 +1024,8 @@ ahus-sluttrapport-ekg-ai/tiltak-som-kan-redusere-algoritmeskjevhet/
 
 29
 
+[Side 30]
+
 større enn ulempene, noe som særlig vil være aktuelt i videregående opplæring. Forslaget
 vil legge til rette for å gi fagtilbud og muligheter for tilpasninger til elevene som de ellers
 ikke ville fått.
@@ -1004,6 +1064,8 @@ ansatte, barnehager og skoler.
 Se: https://www.udir.no/tall-og-forskning/finn-forskning/rapporter/digitalisering-i-grunnopplaringen-bedre-muligheter-for-laring/
 
 30
+
+[Side 31]
 
 Involvering av foreldre i skolens og elevenes arbeid
 
@@ -1047,6 +1109,8 @@ Se NOU 2021: 3, https://www.regjeringen.no/no/dokumenter/nou-2021-3/id2838679/
 
 31
 
+[Side 32]
+
 Tiltak
 Regjeringen vil:
 • Utvikle en handlingsplan for digital kompetanse og infrastruktur for fag- og yrkesopplæringen med forankring i samstyringsmodellen og partssamarbeidet.
@@ -1083,6 +1147,8 @@ digital praksis i skolen.
 • Stimulere til at lokale tiltak for innbyggernes digitale kompetanse støtter skolehjem samarbeidet.
 
 32
+
+[Side 33]
 
 4.2 Profesjonsfaglig digital kompetanse i
 grunnskole og videregående skole
@@ -1121,6 +1187,8 @@ https://www.fafo.no/zoo-publikasjoner/fafo-rapporter/handtering-og-konsekvenser-
 https://www.regjeringen.no/no/dokumenter/laringsanalyse-noen-sentrale-dilemmaer/id2916747/?ch=1
 
 33
+
+[Side 34]
 
 Profesjonsfaglig digital kompetanse
 Profesjonsfaglig digital kompetanse handler om å ta i bruk digital læringsteknologi
@@ -1173,6 +1241,8 @@ https://nifu.brage.unit.no/nifu-xmlui/bitstream/handle/11250/2660412/NIFUrapport
 
 34
 
+[Side 35]
+
 Gjennom videreutdanning kan lærere og ledere bygge opp en spesialisert kompetanse
 innenfor fagområder som profesjonsfaglig digital kompetanse og programmering. Slik
 kompetanse skal benyttes i utvikling av den kollektive digitale kompetansen i lærings­
@@ -1215,6 +1285,8 @@ id2870981/?ch=1
 
 35
 
+[Side 36]
+
 Tiltak
 Regjeringen vil:
 • Sørge for at lærerutdanningene og etter- og videreutdanningstilbud til lærere,
@@ -1239,7 +1311,11 @@ om rutiner rundt tildeling av Feide-tilganger på praksisstedet.
 
 36
 
+[Side 37]
+
 37
+
+[Side 38]
 
 5 Digitale læremidler og
 læringsressurser i skolen
@@ -1255,6 +1331,8 @@ kunnskapsløftet. De fleste skoler bruker i tillegg en rekke ikke-digitale og di
 https://www.nifu.no/publications/1982968/
 
 38
+
+[Side 39]
 
 5.1 Kvalitet og tilbud
 Ambisjoner
@@ -1299,6 +1377,8 @@ https://www.udir.no/kvalitet-og-kompetanse/laremidler/kvalitetskriterier-for-lar
 
 39
 
+[Side 40]
+
 Feide
 Feide er utdanningssektorens fellesløsning for sikker innlogging og datadeling. Med
 Feide får alle elever og lærere en sikker pålogging til en rekke tjenester fra ulike
@@ -1336,6 +1416,8 @@ l­æringsaktiviteter.
 
 40
 
+[Side 41]
+
 5.2 Likeverdig tilbud av digitale læremidler og
 løsninger for alle elever
 Ambisjoner
@@ -1365,6 +1447,8 @@ sterkt svaksynte, døve og hørselshemmede, ut over kravene for universell utfor
 https://statped.no/
 
 41
+
+[Side 42]
 
 ­Statped har videre en viktig rolle med å gi råd om tilrettelegging og bruk av læremidler og
 læringsteknologi til tjenesteytingen i kommunene. Regjeringen vil videreføre og vurdere å
@@ -1415,6 +1499,8 @@ til å skaffe morsmålslærer og tospråklig lærer kan digitale løsninger og f
 
 42
 
+[Side 43]
+
 være gode alternativ, som tilbudene i Fleksibel opplæring.49 Regjeringen vil arbeide for at
 fjernundervisning i morsmål og tospråklig opplæring er av god kvalitet og brukes på en
 måte som er til elevenes beste.
@@ -1461,6 +1547,8 @@ https://nafo.oslomet.no/om-nafo/fleksibel-opplaering/
 
 43
 
+[Side 44]
+
 5.3 Anskaffelser av digitale læremidler og andre
 digitale løsninger
 Ambisjoner
@@ -1506,6 +1594,8 @@ dyrket i alle ledd.
 
 44
 
+[Side 45]
+
 Digitale løsninger i skolen skal være universelt utformet, slik at så mange elever og ansatte
 som mulig kan ta dem i bruk. Det er likevel mange digitale læremidler som ikke oppfyller
 alle kravene til universell utforming.50 Å vurdere om digitale løsninger oppfyller kravene til
@@ -1542,6 +1632,8 @@ læremidler kan gi betydelig effektivisering og innsparinger, og samtidig styrke
 https://osloeconomics.no/publication/universell-utforming-av-digitale-laeremidler-en-analyse-av-status-og-relevante-tiltak/
 
 45
+
+[Side 46]
 
 og informasjonssikkerhet i skolen.51 Gjennom felles støttetjenester, regionalt eller nasjonalt,
 kan vurderingene som skoleeiere må gjøre for å overholde regelverket bli bedre og mer
@@ -1593,6 +1685,8 @@ https://osloeconomics.no/publication/markedet-for-digitale-laeremidler-og-laerin
 
 46
 
+[Side 47]
+
 l­æringsressurser, kan lettere bli tatt i bruk gjennom en tjenestekatalog. I FOU-prosjektet
 Aktivitetsdata for vurdering og tilpassing (AVT2)52 utvikler og piloterer KS i samarbeid med
 SLATE53 (Universitetet i Bergen), Utdanningsetaten i Oslo kommune og Inn-Trøndelag-­
@@ -1640,6 +1734,8 @@ https://www.regjeringen.no/no/dokumenter/digitaliseringsrundskrivet/id2895185/
 
 47
 
+[Side 48]
+
 6 Den digitale grunnmuren
 Den digitale grunnmuren i barnehage, skolen og SFO skal sørge for at alle barn, elever og
 ansatte har en funksjonell og trygg digital innramming av barnehage- og skolehverdagen.
@@ -1658,6 +1754,8 @@ muren utvikles og tilpasses barnehagenes og skolenes behov. Regjeringen og KS le
 til utstrakt samarbeid og til tematiske handlingsplaner for å se tiltakene i sammenheng.
 
 48
+
+[Side 49]
 
 6.1 Digital infrastruktur
 Ambisjoner
@@ -1700,6 +1798,8 @@ https://www.udir.no/tall-og-forskning/publikasjoner/utdanningsspeilet/utdannings
 
 49
 
+[Side 50]
+
 Høyere tetthet og økt bruk av digitale enheter legger press på alle elementene i infra­
 strukturen. Fremdeles er det mange barnehage- og skoleeiere som mener at i­nfrastrukturen
 ikke er god nok til at lærerne kan bruke et bredt spekter av digitale løsninger og lære­
@@ -1724,6 +1824,8 @@ sikre likeverdige muligheter for barn og elever.
 https://www.udir.no/tall-og-forskning/finn-forskning/rapporter/sporsmal-til-skole-norge-varen-2022/
 
 50
+
+[Side 51]
 
 6.2 Digitale løsninger og behandling av data
 Ambisjoner
@@ -1763,6 +1865,8 @@ formell behandlingsprotokoll over behandlingsaktiviteten. En særlig utfordring 
 av nettbaserte digitale løsninger, kan være at databehandleren (systemleverandøren)
 
 51
+
+[Side 52]
 
 befinner seg utenfor EØS-området, og at det dermed er særlig strenge restriksjoner for
 overføring av personopplysninger.
@@ -1812,6 +1916,8 @@ https://www.ks.no/fagomrader/digitalisering/felleslosninger/fiks-plattformen/
 
 52
 
+[Side 53]
+
 Utfordringene ved personvern og informasjonssikkerhet er annerledes og av mindre
 omfang i barnehagen enn i skolen. Barn i barnehagen er som regel ikke personlig innlogget
 i de digitale løsningene i barnehagen og generer dermed mindre person­sensitive data. Det
@@ -1839,6 +1945,8 @@ særlig med tanke på regulering av kandidatenes tilgang til nettbaserte hjelpem
 eksamen med åpen nettilgang.
 
 53
+
+[Side 54]
 
 Datakvaliteten er i mange digitale løsninger utilstrekkelig, både i den enkelte barnehage og
 skole, hos eier og på nasjonalt nivå. Ofte må data legges inn manuelt eller gjennom ekstra
@@ -1892,6 +2000,8 @@ https://www.arkivverket.no/arkivutvikling/innebygd-arkivering
 
 54
 
+[Side 55]
+
 Tiltak
 Regjeringen vil:
 • I samarbeid med KS utvikle en handlingsplan for nasjonal digital infrastruktur,
@@ -1920,6 +2030,8 @@ gyldig gjennomføring av digital eksamen.
 
 55
 
+[Side 56]
+
 7 Kunnskapsutvikling i
 sammenheng
 Flere tiltak i denne strategien handler om kunnskapsutvikling, blant annet om barnehagens
@@ -1941,6 +2053,8 @@ Elevers bruk av digitale læremidler kan generere store mengder data. Forskere k
 data generert av elever for å utvikle kunnskap om læring. Myndighetene kan bruke aggregerte data for å tilpasse virkemiddelbruken for å bedre skolenes situasjon.
 
 56
+
+[Side 57]
 
 Aktivitetsdata er de opplysningene som blir skapt når en elev eksempelvis gjør oppgaver
 i et læremiddel. Det kan være svaret som en elev gir til en oppgave, og opplysninger om
@@ -2001,6 +2115,8 @@ https://www.ks.no/fagomrader/forskning-og-utvikling-fou/forskning-og-utvikling/f
 
 57
 
+[Side 58]
+
 politikkutforming og lokale beslutninger om anskaffelser, planlegging og bruk av digitale
 løsninger og infrastruktur.
 Strategiens tiltak strekker seg over mange ulike temaer som skal gjennomføres over et
@@ -2026,6 +2142,10 @@ utviklingsarbeid.
 formål på en hensiktsmessig og forsvarlig måte.
 
 58
+
+[Side 59]
+
+[Side 60]
 
 Kunnskapsdepartementet
 

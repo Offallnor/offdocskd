@@ -12,19 +12,14 @@
 
 ---
 
+[Side 1]
+
 Statens lånekasse for utdanning
 Postboks 430 Alnabru
 0614 OSLO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-20/6523-14
-
-21. mai 2021
+Deres ref                               Vår ref                       Dato
+                                        20/6523-14                    21. mai 2021
 
 Statsbudsjettet for 2021. Tillegg til tildelingsbrev LK 04/21. Lavere
 behovsprøvingsgrense for kombinasjonen av dagpenger og
@@ -32,7 +27,8 @@ utdanningsstøtte i høyere utdanning
 Kunnskapsdepartementet viser til tildelingsbrevet for 2021. I dette tillegget gir departementet
 Lånekassen i oppdrag å utvikle tekniske løsninger for å endre grensen for behovsprøving av
 stipend ved kombinasjonen av dagpenger og utdanningsstøtte i høyere utdanning.
-1. Bakgrunn
+
+    1. Bakgrunn
 Regjeringen satser på kompetanse for å øke tilknytningen til arbeidslivet for ledige og
 permitterte. Det skal i større grad være mulig å ta utdanning mens man mottar dagpenger.
 Regjeringen har besluttet at dagpengesatsen under utdanning ikke skal reduseres. For
@@ -41,38 +37,23 @@ adgang til å ta utdanning med maksimalt 50 prosent av normal studieprogresjon- 
 studiepoeng per semester- i maksimalt tolv måneder jf. forslag til nytt dagpengeregelverk
 under utdanning i Prop. 170 L (2020–2021) - regjeringen.no. Nytt dagpengeregelverk skal
 etter planen tre i kraft fra og med 1. oktober 2021.
+
 For å unngå uheldige insentiver knyttet til finansiering av livsopphold under høyere
 utdanning, har regjeringen også besluttet at en lavere beløpsgrense for behovsprøving av
 stipend i Lånekassen for studenter som får både dagpenger og utdanningsstøtte skal
 innføres fra og med 1. januar 2022. Denne endringen må innarbeides i forslag til
 statsbudsjett for 2022.
+
 Departementet sendte 15. mars 2021 en bestilling hvor Lånekassen ble bedt om å utrede to
 mulige alternativer for å avkorte stipend til dagpengemottakere som tar høyere utdanning.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*        Avdeling                 Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     Avdeling for             Måseide Torill
+ 0032 Oslo                                  Org.nr.         videregående             Margrethe
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842     opplæring, fagskole      22 24 90 87
+                                                            og kompetansepolitikk
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-videregående
-opplæring, fagskole
-og kompetansepolitikk
-
-Saksbehandler
-Måseide Torill
-Margrethe
-22 24 90 87
+[Side 2]
 
 I sitt svar anbefalte Lånekassen alternativet som innebærer å bruke den eksisterende
 behovsprøvingsgrensen for trygde- og pensjonsytelser i forskrift om utdanningsstøtte § 99.
@@ -80,6 +61,7 @@ Etter gjeldende praksis behovsprøves dagpenger mot inntektsgrensen for person- 
 kapitalinntekt i forskriftens § 98. Alternativet ble valgt på bakgrunn av anbefalinger fra både
 Lånekassen og Arbeids- og velferdsdirektoratet om hva som er mulig å gjennomføre på kort
 sikt.
+
 I revidert budsjett for 2021 foreslår regjeringen å åpne for at deltakerne i prosjektet "Menn i
 helse" og tilsvarende utdanninger som er lagt opp på samme måte, får rett til lån og stipend i
 periodene uten livsoppholdsytelser fra Nav. I forbindelse med budsjettet for 2022 vurderer
@@ -88,37 +70,46 @@ knyttet til Navs medvirkning til utdanning. Med prinsippet som er lagt til grunn
 dagpengeregelverk om å kombinere utdanningsstøtte og dagpenger basert på
 behovsprøving av stipend, kan det argumenteres for at dette prinsippet bør gjelde universelt
 for all utdanning under ledighetsperioden.
-2. Oppdrag
+
+   2. Oppdrag
 Departementet ber Lånekassen utvikle tekniske løsninger i henhold til regjeringens
 beslutning om lavere grense for behovsprøving av stipend ved kombinasjonen av dagpenger
 og utdanningsstøtte i høyere utdanning. Dette innebærer å legge til grunn den eksisterende
 behovsprøvingsgrensen for trygde- og pensjonsytelser i forskrift om utdanningsstøtte § 99.
 Ny behovsprøvingsgrense skal gjelde fra 1. januar 2022.
+
 Vi ber Lånekassen samarbeide med Arbeids- og velferdsdirektoratet. Ole Christian Lien,
-leder for Seksjon for stønadsbudsjett i Kunnskapsavdelingen, kan kontaktes. Ifølge Arbeidsog sosialdepartementet viser foreløpige prognoser over antall dagpengemottakere i 2022 at
+leder for Seksjon for stønadsbudsjett i Kunnskapsavdelingen, kan kontaktes. Ifølge Arbeids-
+og sosialdepartementet viser foreløpige prognoser over antall dagpengemottakere i 2022 at
 antall ledige med dagpenger i høyere utdanning vil ligge et sted mellom 300 og 400 personer
 per måned i 2022.
+
 Departementet kommer tilbake til spørsmålet om finansiering av kostnader oppdraget
 medfører.
+
 Departementet vurderer om endret behovsprøvingsgrense for dagpengemottakere i høyere
 utdanning er en praksisendring som kan gjennomføres kun gjennom budsjettbehandling,
 eller om det bør innebære en forskriftsendring. Vi vil ha videre dialog med Lånekassen om
 dette.
-3. Leveranser
-Departementet ber om at Lånekassen leverer følgende innen 1. juni 2021:
-1. Oppdaterte anslag for utviklingskostnader og budsjetteffekter av å behovsprøve
-dagpenger i høyere utdanning mot inntektsgrense for trygde- og pensjonsytelser i §
-99.
-2. Budsjettberegninger for en avvikling av godkjenningsforskriftens § 5 bokstav c.
 
-Side 2
+      3. Leveranser
+Departementet ber om at Lånekassen leverer følgende innen 1. juni 2021:
+   1. Oppdaterte anslag for utviklingskostnader og budsjetteffekter av å behovsprøve
+      dagpenger i høyere utdanning mot inntektsgrense for trygde- og pensjonsytelser i §
+      99.
+   2. Budsjettberegninger for en avvikling av godkjenningsforskriftens § 5 bokstav c.
+
+ Side 2
+
+[Side 3]
 
 Med hilsen
 
 Torkel Nybakk Kvaal (e.f.)
 avdelingsdirektør
-Torill Margrethe Måseide
-seniorrådgiver
+                                                                              Torill Margrethe Måseide
+                                                                              seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 3
+ Side 3

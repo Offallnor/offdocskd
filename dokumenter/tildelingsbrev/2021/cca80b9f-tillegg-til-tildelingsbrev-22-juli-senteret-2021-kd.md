@@ -12,21 +12,17 @@
 
 ---
 
+[Side 1]
+
 22. juli-senteret
 
-Deres ref
-
-Vår ref
-
-Dato
-
-20/3529-10
-
-23. mars 2021
+Deres ref                                  Vår ref                      Dato
+                                           20/3529-10                   23. mars 2021
 
 Statsbudsjettet 2021 Tillegg til tildelingsbrev nr. 01-2021
 Kunnskapsdepartementet viser til tildelingsbrevet for 2021 til 22. juli-senteret og til søknad
 datert 31. januar om overføring av ubrukte midler fra 2020.
+
 Med grunnlag i Finansdepartementets godkjenning av 3. mars 2021 til å overføre ubrukte
 bevilgninger fra statsbudsjettet for 2020, gis med dette 22. juli-senteret fullmakt til ytterligere
 å belaste de respektive kapitler og poster på statsbudsjettet for 2021 med inntil de beløp som
@@ -35,60 +31,27 @@ faseforskyvninger og utgifter som fremgår i søknaden om overføring av ubrukte
 2020.
 
 1. Overføring av ubrukte midler fra 2020
+
 Tabell 1 (i 1000 kroner)
 
-Kap. Post Kapittelnavn
-Postbenevnelse
-251
+ Kap. Post Kapittelnavn                                                Tidligere        Endring nå
+           Postbenevnelse                                              tildelt
 
-Tidligere
-tildelt
+ 251               22. juli-senteret
+            01     Driftsutgifter                                            15 714               879
+ 226               kvalitetsutvikling i grunnopplæringen
+            21     Spesielle driftsutgifter, kan overføres                                      1 000
 
-Endring nå
+ Postadresse               Kontoradresse       Telefon*       Avdeling                Saksbehandler
+ Postboks 8119 Dep         Kirkeg. 18          22 24 90 90    Avdeling for            Espen Moseng
+ 0032 Oslo                                     Org.nr.        videregående            22 24 75 45
+ postmottak@kd.dep.no      www.kd.dep.no       872 417 842    opplæring, fagskole
+                                                              og kompetansepolitikk
 
-22. juli-senteret
-01
-
-226
-
-Driftsutgifter
-
-15 714
-
-879
-
-kvalitetsutvikling i grunnopplæringen
-21
-
-Spesielle driftsutgifter, kan overføres
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-1 000
-
-Avdeling
-Avdeling for
-videregående
-opplæring, fagskole
-og kompetansepolitikk
-
-Saksbehandler
-Espen Moseng
-22 24 75 45
+[Side 2]
 
 2. Tidspunkt for etatsstyringsmøte
+
 Det er avtalt etatsstyringsmøte mellom Kunnskapsdepartementet og 22. juli-senteret tirsdag
 11. mai. Kl. 10.00-12.00.
 
@@ -96,11 +59,13 @@ Med hilsen
 
 Marius Seljedal (e.f.)
 avdelingsdirektør
-Espen Moseng
-førstekonsulent
+                                                                              Espen Moseng
+                                                                              førstekonsulent
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Riksrevisjonen
 
-Side 2
+ Riksrevisjonen
+
+ Side 2

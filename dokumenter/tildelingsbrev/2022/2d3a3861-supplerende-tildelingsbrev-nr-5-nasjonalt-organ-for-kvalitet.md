@@ -12,19 +12,14 @@
 
 ---
 
+[Side 1]
+
 Nasjonalt organ for kvalitet i utdanningen
 Postboks 578
 1327 LYSAKER
 
-Deres ref
-
-Vår ref
-
-Dato
-
-22/2848-3
-
-19. oktober 2022
+Deres ref                               Vår ref                       Dato
+                                        22/2848-3                     19. oktober 2022
 
 Statsbudsjettet 2022, kap. 275, post 21. Supplerende tildelingsbrev til
 NOKUT om analyse av forskningskompetansen og
@@ -32,6 +27,7 @@ forskningsproduksjonen i GLU-, BSV- og eventuelt sykepleieutdanning
 Vi viser til Stortingets behandling av statsbudsjettet for 2022 på Kunnskapsdepartementets
 område jf. Innst. 12 S (2021–2022), Prop. 1 S Tillegg 1 (2021-2022) og Prop. 1 S (2021–
 2022).
+
 Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til Nasjonalt organ
 for kvalitet i utdanningen (NOKUT) datert 21. desember 2021.
 
@@ -42,48 +38,36 @@ grunnskolelærerutdanningsmiljøene i Norge. I tillegg skal samme type analyse g
 miljøene som står for barnevern, sosialt arbeid og vernepleie- (BSV) og eventuelt
 sykepleieutdanningene i Norge. Det endelige omfanget av analysene diskuteres og avtales
 med Kunnskapsdepartementet.
+
 Når det gjelder delen som handler om grunnskolelærerutdanning, skal analysen følge opp
 SINTEF-rapporten "R&D in teacher education milieus" (2017) og dermed kartlegge
 utviklingen av forskning og utviklingsarbeid i grunnskolelærerutdanningens fagmiljøer siden
 2016.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse        Telefon*      Avdeling                Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18           22 24 90 90   Avdeling for høyere     Pål Rune Aam
+ 0032 Oslo                                   Org.nr.       utdanning, forskning    22 24 75 57
+ postmottak@kd.dep.no   www.kd.dep.no        872 417 842   og internasjonalt
+                                                           arbeid
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for høyere
-utdanning, forskning
-og internasjonalt
-arbeid
-
-Saksbehandler
-Pål Rune Aam
-22 24 75 57
+[Side 2]
 
 2. Beløp og utbetaling
 Kunnskapsdepartementet tildeler med dette 800 000 kroner til Nasjonalt organ for kvalitet i
 utdanningen (NOKUT).
+
 Midlene stilles til disposisjon for NOKUT over kap. 275, post 21.
 
 3. Føringer for tilskuddet
 Analysen bør være klar senest ved årsskiftet 2023/2024.
+
 Forutsetningene for tildelingen følger av Innst. 12 S (2021–2022), Prop. 1 S (2021–2022) og
 av forutsetningene og kravene fastsatt i dette brevet.
 
 4. Krav til rapportering
 NOKUT skal inkludere rapportering om bruk av midlene i årsrapporten for 2023 som skal
 sendes til postmottak@kd.dep.no innen 15. mars 2024.
+
 Rapporteringen skal beskrive måloppnåelse og resultater av tiltaket og bekrefte at tilskuddet
 er benyttet i samsvar med forutsetningene i tilskuddsbrevet.
 
@@ -97,11 +81,13 @@ Med hilsen
 
 Marthe Nordtug (e.f.)
 avdelingsdirektør
-Pål Rune Aam
-seniorrådgiver
+                                                                          Pål Rune Aam
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
+
 Riksrevisjonen
 
-Side 2
+ Side 2

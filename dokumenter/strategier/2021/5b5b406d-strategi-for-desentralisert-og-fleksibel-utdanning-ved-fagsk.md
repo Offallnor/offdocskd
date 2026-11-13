@@ -12,6 +12,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Desentralisert og fleksibel
@@ -20,11 +22,15 @@ høyskoler og universiteter
 
 Strategi
 
+[Side 2]
+
 Foto: shutterstock.com
 
 02
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 3]
 
 Forord
 
@@ -98,6 +104,8 @@ forsknings- og høyere utdanningsminister
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 4]
+
 Innhold
 
 04
@@ -143,6 +151,8 @@ Veien videre
 s. 39
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 5]
 
 Innledning
 
@@ -224,6 +234,8 @@ Ett og samme tilbud kan ha flere fleksible
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 6]
+
 Innledning
 
 organisatoriske komponenter, som emner
@@ -277,6 +289,8 @@ sammenheng og peker ut kursen fremover.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 7]
+
 Innledning
 
 Boks 1
@@ -310,6 +324,8 @@ Med den økte bruken av digitale- og nettbaserte læringsressurser blir skillet 
 07
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 8]
 
 Innledning
 
@@ -412,6 +428,8 @@ og universitetene og høyskolene.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 9]
+
 Innledning
 
 Videre peker denne strategien
@@ -440,6 +458,8 @@ regioner og Innst. 119 S (2018–2019).
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 10]
+
 Kart 1
 
 Universiteter og høyskolers studiesteder
@@ -452,6 +472,8 @@ markert med bare én prikk.
 10
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 11]
 
 Muligheter og utfordringer
 
@@ -533,6 +555,8 @@ utdanning der. Det kan være nettbasert,
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 12]
+
 Muligheter og utfordringer
 
 samlingsbasert, desentralisert, og
@@ -606,6 +630,8 @@ i livslang læring.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 13]
+
 Muligheter og utfordringer
 
 Figur 1
@@ -668,6 +694,8 @@ organiseres på deltid og etter planen tilbys i Nordland fra våren 2022.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 14]
+
 Kart 2
 
 Fagskolers studiesteder
@@ -680,6 +708,8 @@ markert med bare én prikk.
 14
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 15]
 
 Mål og innsatsområder
 
@@ -706,6 +736,8 @@ og studentene større muligheter.
 15
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 16]
 
 Innsatsområde 1
 
@@ -784,6 +816,8 @@ som støtter opp under ønsket utvikling.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 17]
+
 Innsatsområde 1
 
 Boks 3
@@ -829,6 +863,8 @@ høyskoler kan søke. Til nå er det tildelt rundt 193 mill. kroner.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 18]
+
 Innsatsområde 1
 
 Boks 4
@@ -855,6 +891,8 @@ av campus.
 18
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 19]
 
 Innsatsområde 1
 
@@ -901,6 +939,8 @@ fleksible tilbud kan bli bedre.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 20]
+
 Innsatsområde 1
 
 Nærmere om tiltakene
@@ -929,6 +969,8 @@ belønnes, vil støtte opp under styringsdialog og utviklingsavtaler.
 20
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 21]
 
 Innsatsområde 1
 
@@ -1005,6 +1047,8 @@ del av den helhetlige gjennomgangen av
 finansieringen. Regjeringen har i styrings-
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 22]
 
 Innsatsområde 1
 
@@ -1085,6 +1129,8 @@ rapporteringer og kunnskapsgrunnlag kan styrkes.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 23]
+
 Innsatsområde 2
 
 2: Styrke samarbeidet mellom
@@ -1148,6 +1194,8 @@ dette opplegget finnes alle forutsetninger for å få det til.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 24]
+
 Kart 3
 
 Studiesentre og lignende
@@ -1162,6 +1210,8 @@ geografisk område.
 24
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 25]
 
 Innsatsområde 2
 
@@ -1198,6 +1248,8 @@ for prosjekter og aktiviteter i samarbeid med
 utdanningstilbydere.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 26]
 
 Innsatsområde 2
 
@@ -1274,6 +1326,8 @@ samarbeid mellom aktørene og til at arbeidslivet er med på å definere behoven
 En annen effekt av tettere og mer forpliktende samarbeid er at utdannings-
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 27]
 
 Innsatsområde 2
 
@@ -1352,6 +1406,8 @@ bruk og treffer den enkeltes behov.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 28]
+
 Innsatsområde 2
 
 Tett samhandling mellom fylkeskommunens karrieresentre, virksomheter
@@ -1404,6 +1460,8 @@ det strategiske kompetansearbeidet i fylkene.
 28
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 29]
 
 Innsatsområde 2
 
@@ -1486,6 +1544,8 @@ i statsbudsjettet.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 30]
+
 Innsatsområde 3
 
 3: Jobbe for at fleksible tilbud
@@ -1566,6 +1626,8 @@ læringsmiljø og fleksibilitet.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 31]
+
 Innsatsområde 3
 
 Figur 2
@@ -1616,6 +1678,8 @@ hadde evne til og var villig til å tilegne seg ny kunnskap.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 32]
+
 Innsatsområde 3
 
 Innsatsområde 3
@@ -1654,6 +1718,8 @@ utenlandsk utdanning.
 Vurdere gjennomgang av kvalitetskriteriene.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 33]
 
 Innsatsområde 3
 
@@ -1735,6 +1801,8 @@ av grunnutdanninger.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 34]
+
 Innsatsområde 3
 
 Det ligger bl.a. et potensiale i å
@@ -1782,6 +1850,8 @@ av kvalitetskriterier
 34
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 35]
 
 Innsatsområde 4
 
@@ -1834,6 +1904,8 @@ fungerer fint ved siden av å drive eget firma.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 36]
+
 Innsatsområde 4
 
 Innsatsområde 4
@@ -1863,6 +1935,8 @@ til rette for at studenter får gode rammer for å
 gjennomføre fleksibel og desentralisert utdanning.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 37]
 
 Innsatsområde 4
 
@@ -1950,6 +2024,8 @@ dagens opptaksregelverk, inkludert
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
 
+[Side 38]
+
 Innsatsområde 4
 
 desentralisert utdanning, og komme
@@ -1990,6 +2066,8 @@ tilrettelegging rundt studiene sine.
 38
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 39]
 
 Veien videre
 
@@ -2063,6 +2141,8 @@ Finansieringssystemet for fagskolene er
 under evaluering. Lov- og forskriftsendringer vil bli fulgt opp på vanlig måte.
 
 Desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter
+
+[Side 40]
 
 Utgitt av:
 Kunnskapsdepartementet

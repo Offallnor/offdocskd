@@ -12,57 +12,37 @@
 
 ---
 
+[Side 1]
+
 De nasjonale forskningsetiske komiteene
 Kongens gate 14
 0153 Oslo
 
-Deres ref
-
-Vår ref
-
-Dato
-
-21/4886
-
-14. mars 2022
+Deres ref                                          Vår ref                                Dato
+                                                   21/4886                                14. mars 2022
 
 Statsbudsjettet 2022, kap. 284, post 01. Supplerende tildelingsbrev
+
 Kunnskapsdepartementet viser til Finansdepartementets rundskriv R-2/2022 om overføring
 av ubrukte bevilgning til 2022 og stiller med dette 984 000 kroner til disposisjon for De
 nasjonale forskningsetiske komiteene (FEK) over kap. 284, post 01. Beløpet gjelder
 overføring av ubrukte bevilgninger fra 2021 til 2022.
+
 Departementet viser til kravene om økonomirapportering i det ordinære tildelingsbrevet til
 FEK for 2022, datert 22. desember 2021.
+
 Med hilsen
 
 Hedda Huseby (e.f.)
 avdelingsdirektør
-
-Ingvild Mageli
-rådgiver
+                                                                          Ingvild Mageli
+                                                                          rådgiver
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi:
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Ingvild Mageli
+ Postadresse                 Kontoradresse             Telefon*               Avdeling                  Saksbehandler
+ Postboks 8119 Dep           Kirkeg. 18                22 24 90 90            Avdeling for eierskap i   Ingvild Mageli
+ 0032 Oslo                                             Org.nr.                høyere utdanning og
+ postmottak@kd.dep.no        www.kd.dep.no             872 417 842            forskning

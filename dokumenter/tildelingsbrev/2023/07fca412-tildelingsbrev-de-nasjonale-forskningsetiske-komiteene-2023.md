@@ -12,19 +12,14 @@
 
 ---
 
+[Side 1]
+
 De nasjonale forskningsetiske komiteene
 Kongens gate 14
 0153 OSLO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-22/5447-5
-
-17. mars 2023
+Deres ref                                          Vår ref                                  Dato
+                                                   22/5447-5                                17. mars 2023
 
 Statsbudsjettet 2023, kap. 284, post 01. Supplerende tildelingsbrev om
 overføring fra 2022 til 2023
@@ -32,6 +27,7 @@ Kunnskapsdepartementet viser til Finansdepartementets rundskriv R-2/2023 om over
 av ubrukte bevilgning til 2023 og stiller med dette 1 002 000 kroner til disposisjon for De
 nasjonale forskningsetiske komiteene over kap. 284, post 01. Beløpet gjelder overføring av
 ubrukte bevilgninger fra 2022 til 2023.
+
 Departementet viser til kravene om økonomirapportering i det ordinære tildelingsbrevet til De
 nasjonale forskningsetiske komiteene for 2022, datert 20. desember 2022.
 
@@ -39,29 +35,12 @@ Med hilsen
 
 Hedda Huseby (e.f.)
 avdelingsdirektør
-Sonja M. Tronsmo
-seniorrådgiver
+                                                                              Sonja M. Tronsmo
+                                                                              seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierkap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Sonja M. Tronsmo
-22 24 75 36
+ Postadresse                  Kontoradresse            Telefon*                 Avdeling                 Saksbehandler
+ Postboks 8119 Dep            Kirkeg. 18               22 24 90 90              Avdeling for eierkap i   Sonja M. Tronsmo
+ 0032 Oslo                                             Org.nr.                  høyere utdanning og      22 24 75 36
+ postmottak@kd.dep.no         www.kd.dep.no            872 417 842              forskning

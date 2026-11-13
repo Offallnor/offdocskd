@@ -12,17 +12,13 @@
 
 ---
 
+[Side 1]
+
 Nasjonalt organ for kvalitet i utdanningen
 
-Deres ref.
+Deres ref.                                                Vår ref                                      Dato
 
-Vår ref
-
-Dato
-
-24/548824/2488
-
-19. desember 2024
+                                                          24/548824/2488                               19. desember 2024
 
 Tildelingsbrev til Nasjonalt organ for kvalitet i utdanningen for 2025
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025, jf. Innst. 12 S (2024–
@@ -39,38 +35,19 @@ Tildelingsbrevet for 2025 består av følgende deler:
 3 Tildeling .................................................................................................................................5
 4 Rapportering og resultatoppfølging .....................................................................................10
 
-1
-1.1
+1      Innledning
 
-Innledning
-Regjeringens prioriteringer og forventninger
-
+1.1        Regjeringens prioriteringer og forventninger
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse                      Kontoradresse                Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep                Kirkeg. 18                   22 24 90 90                Avdeling for eierskap i      Christoffer Wiig
+ 0032 Oslo                                                                                høyere utdanning og
+ postmottak@kd.dep.no             www.kd.dep.no                Org.nr.                    forskning
+                                                               872 417 842
 
-Kontoradresse
-Kirkeg. 18
-
-Telefon*
-22 24 90 90
-
-www.kd.dep.no
-
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Christoffer Wiig
+[Side 2]
 
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
 universitetene, høyskolene og fagskolene omstiller seg for å bidra til å møte disse
@@ -116,18 +93,16 @@ Norge skal bli verdens mest digitaliserte land, i tråd med Nasjonal digitaliser
 5 Meld. St. 7 (2020–2021) En verden av muligheter — Internasjonal studentmobilitet i høyere utdanning
 6 Nasjonal digitaliseringsstrategi 2024-2030
 
-Side
+ Side   2
 
-2
+[Side 3]
 
-datadeling og «Orden i eget hus» (jf. digitaliseringsrundskrivet kap. 1.27). Gjennom KUDAFprogrammet har HK-dir utviklet felles spilleregler og tjenester som virksomhetene bør benytte
+datadeling og «Orden i eget hus» (jf. digitaliseringsrundskrivet kap. 1.27). Gjennom KUDAF-
+programmet har HK-dir utviklet felles spilleregler og tjenester som virksomhetene bør benytte
 for å dele data for analyse, innsikt og innovasjon, og bidra til en sterkere kultur for samarbeid
 om data i sektoren.
 
-1.2
-
-Særskilte forventninger
-
+1.2      Særskilte forventninger
 Behovet for akkreditering vil fortsatt være en særlig utfordring for NOKUT i 2025.
 Kunnskapsdepartementet har en særlig forventning om at NOKUT prioriterer akkreditering av
 både høyere yrkesfaglig utdanning og høyere utdanning i 2025. Det er viktig at NOKUT får
@@ -139,7 +114,8 @@ NOKUT skal, basert på risikovurdering og årlig kontroll av private fagskoler, 
 økonomiske tilsyn. Dette er viktig for å opprettholde tilliten til fagskolene i samfunnet.
 Innenfor høyere utdanning vil det være viktig med en god start på den fjerde runden med
 periodisk tilsyn. Kunnskapsdepartementet viser i den forbindelse til at det blir mulig å
-redusere krav til mengden dokumentasjon fra institusjonene, jf. nytt kapittel 1 i universitetsog høyskoleforskriften som var på høring høsten 2024.
+redusere krav til mengden dokumentasjon fra institusjonene, jf. nytt kapittel 1 i universitets-
+og høyskoleforskriften som var på høring høsten 2024.
 Kunnskapsdepartement ber NOKUT arbeide videre med å effektivisere saksbehandlingen av
 søknader om akkreditering med sikte på å få ned behandlingstiden i 2025 uten at dette går
 utover andre lovpålagte oppgaver.
@@ -160,31 +136,21 @@ våre forventninger.
 
 7 Digitaliseringsrundskrivet - regjeringen.no
 
-Side
+ Side   3
 
-3
+[Side 4]
 
 Departementet forventer at midlene som har vært brukt på undersøkelsene knyttet til høyere
 utdanning, blant annet skal bidra til å styrke NOKUTs arbeid med evaluering av høyere
 utdanning i tråd med det nasjonale rammeverket for evaluering.
 
-2
+2       Mål
 
-Mål
-
-2.1
-
-Målstrukturen for sektoren
-
+2.1      Målstrukturen for sektoren
 Kunnskapsdepartementet har tre overordnede mål:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •    Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •    Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •    Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver Kunnskapsdepartementets samfunnsoppdrag. De blir utdypet
 gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (2024–2025)
 for Kunnskapsdepartementet.
@@ -192,32 +158,32 @@ Virksomhetene spiller en sentral rolle for å nå målene, og det er viktig med 
 mellom Kunnskapsdepartementets underliggende virksomheter slik at alle bidrar til
 hverandres måloppnåelse.
 
-2.2
-
-Mål for NOKUT
-
+2.2      Mål for NOKUT
 Nedenfor følger mål og styringsparametere for NOKUT. Kunnskapsdepartementet
 understreker at NOKUT skal rapportere på effekter og resultater av virksomhetens
 virkemidler og arbeid.
+
 Mål 1: Norsk høyere utdanning og høyere yrkesfaglig utdanning har god kvalitet
 Styringsparametere
 1.1 Kvalitetsarbeid som sikrer og videreutvikler kvalitet på høyt nasjonalt og internasjonalt
 nivå
 1.2 God tilgang til kunnskap om kvalitet gjennom veiledning og erfaringsdeling
+
 Mål 2 – NOKUTs virkemidler for ekstern kvalitetssikring er treffsikre og bidrar til
 utvikling
 Styringsparametere
 2.1 Kvalitetskontroll gjennom regelmessig tilsyn og forutsigbart system for akkreditering
 2.2 Institusjonenes erfaringer med NOKUTs virkemidler for ekstern kvalitetssikring
 2.3 Etterlevelse av regelverk og forskrifter som NOKUT forvalter
+
 Mål 3 – Samfunnet er godt informert om kvaliteten i norsk høyere utdanning og høyere
 yrkesfaglig utdanning
 Styringsparametere
 3.1 Kunnskap om kvalitet formidles til og brukes av sektor og samfunn
 
-Side
+ Side    4
 
-4
+[Side 5]
 
 3.2 Kunnskap om kvalitet brukes i fagpolitisk utvikling
 3.3 Gode arenaer og plattformer for kunnskapsspredning til ulike målgrupper
@@ -229,10 +195,7 @@ styringen er systemer, strukturer og rutiner som på en tilstrekkelig og hensikt
 følger opp effektiviteten og kvaliteten i virksomhetens ressursbruk og leveranser, jf.
 økonomiregelverkets §§ 14 og 15.
 
-3
-
-Tildeling
-
+3       Tildeling
 Kunnskapsdepartementet stiller med dette driftsmidlene og prosjektmidlene under punkt 3.1
 og 3.2 nedenfor til disposisjon for NOKUT i 2025. NOKUT har fullmakt til å disponere
 midlene innenfor beløpene på hver enkelt post og til de målene og kravene som fremkommer
@@ -243,54 +206,41 @@ NOKUT er bruttobudsjettert og inngår i nettoordningen for merverdiavgift, og ti
 derfor ekskl. merverdiavgift.
 Sammenlignet med saldert budsjett for 2024 er lagt til grunn følgende prisjusteringsfaktorer i
 statsbudsjettet for 2025:
--
-
-01-poster: 2,7 pst. (driftsutgifter utenom lønn)
-21-poster: 3,8 pst.
+-     01-poster: 2,7 pst. (driftsutgifter utenom lønn)
+-     21-poster: 3,8 pst.
 
 Det er lagt inn en anslått helårsvirkning av lønnsoppgjøret for 2024 i statsbudsjettet for 2025.
 Bevilgning for lønnsregulering i 2025 som følge av lønnsoppgjøret i 2025 behandles som
 egen sak i Stortinget. Departementet sender supplerende tildelingsbrev om dette i
 oktober/november 2025.
 
-3.1
-
-Driftsmidler
-
-Kap. 271 Nasjonalt organ for kvalitet i utdanningen
-Post 01
-
-Driftsutgifter
-
-Post 21
-
-Spesielle driftsutgifter
-
-Sum
-
-Kroner
-135 052 000
-4 478 000
-139 530 000
+3.1      Driftsmidler
+ Kap. 271 Nasjonalt organ for kvalitet i utdanningen                                      Kroner
+ Post 01            Driftsutgifter                                                  135 052 000
+ Post 21            Spesielle driftsutgifter                                            4 478 000
+ Sum                                                                                139 530 000
 
 Bevilgningen på post 01 skal dekke utgifter til lønn, godtgjørelser og øvrig drift av
 virksomheten.
 Bevilgningen på post 21 skal dekke særskilte driftsutgifter og utgifter til oppdragsvirksomhet
 og prosjektarbeid. Tidsavgrensede oppdragsstillinger lønnes som hovedregel over post 21.
 
-Side
+ Side    5
 
-5
+[Side 6]
 
 Bevilgningen på post 01 er økt med 12,5 mill. kroner for at NOKUT skal føre mer økonomisk
 og faglig tilsyn i høyere yrkesfaglig utdanning og behandle flere søknader om akkreditering i
 høyere yrkesfaglig utdanning.
+
 Bevilgningen på post 01 er redusert med 1,5 mill. kroner som følge av at ansvaret for å
 kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssektoren
 etterlever kravene til arbeidet med sikkerhet og beredskap, flyttes fra NOKUT til Direktoratet
 for høyere utdanning og kompetanse fra 1. januar 2025.
+
 Bevilgningen på post 01 er også redusert med 94 000 kroner som følge av regjeringens
 arbeid med mer effektive kontorleieavtaler for statlige virksomheter.
+
 Fra og med 2025 flyttes ansvaret for studiebarometeret for høyere utdanning og høyere
 yrkesfaglig utdanning fra NOKUT til Direktoratet for høyere utdanning og kompetanse.
 Virksomhetene avtaler overtakelsen seg imellom og holder departementet orientert. Midlene
@@ -322,9 +272,9 @@ Behandling av klager på godkjenning av utenlandsk utdanning
 
 8 Commission presents a blueprint for a European degree | European Education Area
 
-Side
+ Side   6
 
-6
+[Side 7]
 
 NOKUTs klagenemnd for høyere utdanning bes behandle klager på vedtak om generell
 godkjenning av utenlandsk høyere utdanning fattet av Direktoratet for høyere utdanning og
@@ -348,51 +298,31 @@ evalueringsarbeidet og vurdere hvilke endringer som er nødvendige for å nå m�
 på en mest mulig ressurseffektiv måte. Hovedtrekkene i det nasjonale rammeverket skal
 ligge til grunn for gjennomgangen.
 Følgende momenter skal vurderes særskilt:
-•
-
-NOKUTs lovregulerte særstilling gir en unik mulighet for å gjennomføre eksterne og
-faglig uavhengige evalueringer av kvaliteten i studieprogrammene. NOKUT bes
-vurdere hva potensialet for forenkling og målretting er ved å gjøre evalueringene
-tydeligere fokusert på selve programkvaliteten. Som et ledd i dette bør det vurderes i
-hvilken grad analyser av bakgrunnsvariabler og årsakssammenhenger kan overlates
-til lærestedene, slik at det blir mulig for NOKUT på sikt å evaluere bredden i høyere
-utdanning.
-
-•
-
-Rapporten om det nasjonale rammeverket drøfter potensialet for ressursbesparelser
-ved å utnytte eksisterende data og informasjon fra institusjonene og nasjonale
-registre/databaser, jf. studiekvalitetsforskriften § 2-1 annet ledd. NOKUT bes vurdere
-hvordan slik informasjon kan utnyttes mer effektivt, herunder hvilke regelendringer
-som eventuelt er nødvendige.
-
+    •   NOKUTs lovregulerte særstilling gir en unik mulighet for å gjennomføre eksterne og
+        faglig uavhengige evalueringer av kvaliteten i studieprogrammene. NOKUT bes
+        vurdere hva potensialet for forenkling og målretting er ved å gjøre evalueringene
+        tydeligere fokusert på selve programkvaliteten. Som et ledd i dette bør det vurderes i
+        hvilken grad analyser av bakgrunnsvariabler og årsakssammenhenger kan overlates
+        til lærestedene, slik at det blir mulig for NOKUT på sikt å evaluere bredden i høyere
+        utdanning.
+    •   Rapporten om det nasjonale rammeverket drøfter potensialet for ressursbesparelser
+        ved å utnytte eksisterende data og informasjon fra institusjonene og nasjonale
+        registre/databaser, jf. studiekvalitetsforskriften § 2-1 annet ledd. NOKUT bes vurdere
+        hvordan slik informasjon kan utnyttes mer effektivt, herunder hvilke regelendringer
+        som eventuelt er nødvendige.
 NOKUT bes legge til rette for dialog med departementet underveis i arbeidet.
 NOKUTs arbeid med å bistå departementet skal dekkes innenfor de midlene som er stilt til
 disposisjon på kap. 271 i 2025, jf. tabellen over.
 
-Kap. 3271 Nasjonalt organ for kvalitet i utdanningen
+ Kap. 3271 Nasjonalt organ for kvalitet i utdanningen                                    Kroner
 
-Side
+ Side   7
 
-7
+[Side 8]
 
-Kroner
-
-Post 01
-
-Inntekter fra oppdrag
-
-4 464 000
-
-Post 02
-
-Salgsinntekter o.l.
-
-400 000
-
-Sum
-
-4 864 000
+ Post 01         Inntekter fra oppdrag                                              4 464 000
+ Post 02         Salgsinntekter o.l.                                                 400 000
+ Sum                                                                                4 864 000
 
 Inntektene på post 01 gjelder inntekter NOKUT får fra oppdrag de utfører.
 Inntektene på post 02 gjelder salgsinntekter, kurs og konferanser, og refusjoner.
@@ -402,15 +332,9 @@ kap. 3271, post 01. Merinntekter som gir grunnlag for overskridelser av utgiftsb
 skal også dekke merverdiavgift knyttet til overskridelsen og påvirker derfor også kap. 1633,
 post 01 for statlige forvaltningsorganer som inngår i nettoordningen for merverdiavgift.
 
-3.2
-
-Prosjektmidler
-
-Kap. 241 Tiltak for høyere yrkesfaglig utdanning
-Post 21 Spesielle driftsutgifter, kan overføres
-
-Kroner
-1 600 000
+3.2     Prosjektmidler
+ Kap. 241 Tiltak for høyere yrkesfaglig utdanning                                      Kroner
+ Post 21 Spesielle driftsutgifter, kan overføres                                    1 600 000
 
 Regjeringen har som mål at 80 prosent av offentlig sektor skal bruke kunstig intelligens (KI)
 innen 2025. NOKUT har i årsrapporten sin for 2023 vist til bruk av KI, blant annet i analyser
@@ -420,19 +344,13 @@ KI i arbeidet med faglig tilsyn i høyere yrkesfaglig utdanning. Målet med oppd
 om ulike tilsyn med fagskoler kan gjennomføres mer effektivt og/eller treffsikkert med tanke
 på risiko. Resultatene skal omtales i årsrapporten for 2025.
 
-3.3
-
-Fullmakter
-
+3.3     Fullmakter
 Stortinget har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse med
 Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert administrativ
 fullmakt til virksomheten. Oversikt over delegerte fullmakter er vedlagt. Andre forutsetninger
 og krav. Andre forutsetninger og krav
 
-3.4
-
-Fellesføringer fra regjeringen
-
+3.4     Fellesføringer fra regjeringen
 3.4.1 Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
@@ -442,9 +360,9 @@ skal også vurdere hvordan klimaendringene vil påvirke virksomheten. NOKUT skal
 systematiske vurderinger av egen energibruk og ta i bruk lønnsomme energieffektive
 løsninger, samt øke energifleksibiliteten der dette er relevant.
 
-Side
+ Side   8
 
-8
+[Side 9]
 
 3.4.2 Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
 eller fravær fra arbeid, utdanning eller opplæring
@@ -456,10 +374,8 @@ virksomhetens egenart og størrelse. NOKUT skal i årsrapporten oppgi antallet a
 personer med funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i
 2025 og det totale antallet ansettelser i virksomheten i 2025. Virksomheten skal også omtale
 utviklingen i 2025 sett opp mot det virksomheten har rapportert for 2024.
-3.4.3
 
-Redusere konsulentbruken
-
+3.4.3       Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. NOKUT skal arbeide for å redusere konsulentbruken på områder der det ligger
 til rette for å benytte interne ressurser og kompetanse. Utover informasjons- og
@@ -475,14 +391,9 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 årsregnskapet spesifisere dette nærmere. Dersom virksomheten har større kjøp av
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
-3.5
+3.5     Andre krav
 
-Andre krav
-
-3.5.1
-
-Sikkerhet og beredskap
-
+3.5.1       Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -495,25 +406,23 @@ kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssek
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 NOKUT skal i årsrapporten for 2025 rapportere om følgende:
 
-Side
+ Side   9
 
-9
+[Side 10]
 
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har NOKUT for dette arbeidet?
-2. Når reviderte NOKUT sist sin ROS-analyse? Hvilke overordnede områder er
-identifisert som de med høyest risiko for virksomheten?
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
-3.5.2
+    1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+       nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+       og avhengigheter, hvilke planer har NOKUT for dette arbeidet?
+    2. Når reviderte NOKUT sist sin ROS-analyse? Hvilke overordnede områder er
+       identifisert som de med høyest risiko for virksomheten?
+    3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+       er gjennomført i 2025.
+    4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
+       styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+       informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+       samordnes med hverandre og med virksomhetsstyringen for øvrig.
 
-Informasjonssikkerhet og personvern
-
+3.5.2     Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
 arbeidet med informasjonssikkerhet og personvern i NOKUT. I lys av det skjerpede
@@ -522,10 +431,8 @@ den raske teknologiske utviklingen, forventer Kunnskapsdepartementet at NOKUT st
 arbeid med å forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser og brudd
 på personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende
 kontinuitets- og beredskapsplaner særlig viktig.
-3.5.3
 
-Krav ved inngåelse av leieavtaler
-
+3.5.3     Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten9 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
 som gjelder for inngåelse av slike avtaler. Ved inngåelse av leieavtaler der leieavtalens
@@ -534,12 +441,9 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-4
-4.1
+4       Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
-
+4.1      Rapportering om resultater
 Årsrapport for 2025 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2026, med kopi til Riksrevisjonen og database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -548,9 +452,9 @@ på virksomhetens nettside innen 1. mai, jf. Bestemmelser om økonomistyring i s
 
 9 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side
+ Side    10
 
-10
+[Side 11]
 
 Årsrapporten skal gi et dekkende bilde av virksomhetens resultater og gi departementet
 grunnlag for å vurdere måloppnåelse og ressursbruk, jf. Bestemmelser om økonomistyring i
@@ -563,18 +467,12 @@ hvilke frister og krav som gjelder for delårsregnskapene og årsregnskapet. Dep
 viser til Finansdepartementets rundskriv R-10/2024 når det gjelder rapportering av
 regnskapsopplysninger til statsregnskapet for 2025.
 
-4.2
-
-Satsingsforslag for 2027
-
+4.2      Satsingsforslag for 2027
 NOKUT kan sende inn eventuelle satsingsforslag i tråd med vedlagte veiledning.
 Frist for innsendelse av satsingsforslag og mulige omprioriteringer for 2027 er 1. november
 2025. Forslaget sendes til postmottak@kd.dep.no.
 
-4.3
-
-Styringsdialogen i 2025
-
+4.3      Styringsdialogen i 2025
 Etatsstyringsmøtene skal være en strategisk dialog om virksomhetens utvikling. Sentrale
 temaer i møtet er resultater, ambisjoner, strategiske prioriteringer og utfordringer.
 Departementet inviterer med dette styret og NOKUTs ledelse til etatsstyringsmøte i 2025.
@@ -584,34 +482,27 @@ sendes departementet senest en måned før etatsstyringsmøtet. Til hver innmeld
 det gis bakgrunnsinformasjon på inntil en halv side.
 NOKUT får en skriftlig tilbakemelding fra departementet på bakgrunn av årsrapporten for
 2024 og dialogen i etatsstyringsmøtet.
+
 Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                              Charlotte Rustad
+                                                                              konst. avdelingsdirektør
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side
+ Side   11
 
-11
+[Side 12]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på Kunnskapsdepartementets nettside:
-▪
-▪
-▪
-▪
-▪
-
-Krav til årsrapport 2025
-Oversikt over styringsdialogen 2025
-Fullmakter 2025
-Veiledning til fremstilling av satsninsgforslag for 2027
-Virksomhets- og økonomiinstruks for NOKUT
+    ▪   Krav til årsrapport 2025
+    ▪   Oversikt over styringsdialogen 2025
+    ▪   Fullmakter 2025
+    ▪   Veiledning til fremstilling av satsninsgforslag for 2027
+    ▪   Virksomhets- og økonomiinstruks for NOKUT
 
 Kopi
-Riksrevisjonen
+ Riksrevisjonen
 
-Side
-
-12
+ Side   12

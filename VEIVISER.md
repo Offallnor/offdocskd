@@ -214,7 +214,6 @@ Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mo
 | Norges grønne fagskole (Vea) | 12 | 2021 (3), 2022 (1), 2023 (3), 2024 (3), 2025 (2) |
 | Integrerings- og mangfoldsdirektoratet | 8 | 2020 (3), 2021 (5) |
 | Norsk utenrikspolitisk institutt | 7 | 2021 (1), 2022 (1), 2023 (2), 2024 (1), 2025 (1), 2026 (1) |
-| Riksrevisjonen | 1 | 2026 (1) |
 
 <!-- AUTO-SLUTT -->
 

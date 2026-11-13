@@ -12,58 +12,39 @@
 
 ---
 
-Nasjonalt organ for kvalitet i utdanningen
-Postboks 578
-1327 LYSAKER
+[Side 1]
 
-Deres ref
+   Nasjonalt organ for kvalitet i utdanningen
+   Postboks 578
+   1327 LYSAKER
 
-Vår ref
+   Deres ref                                       Vår ref                                 Dato
+                                                   25/5599-                                17. mars 2026
 
-Dato
+  Supplerende tildelingsbrev nr. 1 til NOKUT, kap. 271, post 01, om overførte
+  midler fra 2025 til 2026
+  Vi viser til tildelingsbrev fra Kunnskapsdepartementet til Nasjonalt organ for kvalitet i
+  utdanningen (NOKUT) for 2026 og til Finansdepartementets rundskriv R-2/2026 om overføring
+  av ubrukte bevilgninger fra 2025 til 2026.
 
-25/5599-
+  Kunnskapsdepartementet stiller med dette 7 328 000 kroner til disposisjon for NOKUT over
+  kapittel 271, post 01.
 
-17. mars 2026
+  Beløpet gjelder overføring av ubrukt bevilgning fra 2025 til 2026. Departementet viser til kravene
+  om rapportering i det ordinære tildelingsbrevet til NOKUT for 2026.
 
-Supplerende tildelingsbrev nr. 1 til NOKUT, kap. 271, post 01, om overførte
-midler fra 2025 til 2026
-Vi viser til tildelingsbrev fra Kunnskapsdepartementet til Nasjonalt organ for kvalitet i
-utdanningen (NOKUT) for 2026 og til Finansdepartementets rundskriv R-2/2026 om overføring
-av ubrukte bevilgninger fra 2025 til 2026.
-Kunnskapsdepartementet stiller med dette 7 328 000 kroner til disposisjon for NOKUT over
-kapittel 271, post 01.
-Beløpet gjelder overføring av ubrukt bevilgning fra 2025 til 2026. Departementet viser til kravene
-om rapportering i det ordinære tildelingsbrevet til NOKUT for 2026.
-Med hilsen
-Bjørn Tore Bertheussen
-kst. avdelingsdirektør
+  Med hilsen
 
-Maria Elise Rød
-seniorrådgiver
+  Bjørn Tore Bertheussen
+  kst. avdelingsdirektør
+                                                                             Maria Elise Rød
+                                                                             seniorrådgiver
 
-Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
+  Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
 
-Kopi: Riksrevisjonen
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+  Kopi: Riksrevisjonen
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
-
-Avdeling:
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Maria Elise Rød
-22 24 73 80
+Postadresse               Kontoradresse              Telefon *                   Avdeling:                 Saksbehandler
+Postboks 8119 Dep         Kirkeg. 18                 22 24 90 90                 Avdeling for eierskap i   Maria Elise Rød
+0032 Oslo                                            Org nr.                     høyere utdanning og       22 24 73 80
+postmottak@kd.dep.no      www.kd.dep.no              872 417 842                 forskning

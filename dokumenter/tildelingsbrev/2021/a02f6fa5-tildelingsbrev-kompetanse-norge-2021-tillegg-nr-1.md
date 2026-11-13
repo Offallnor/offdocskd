@@ -12,90 +12,67 @@
 
 ---
 
-Check Point Threat Extraction secured this document
+[Side 1]
 
-Get Original
+Check Point Threat Extraction secured this document                                                         Get Original
 
-Kompetanse Norge
-Postboks 236 Sentrum
-0103 OSLO
+        Kompetanse Norge
+        Postboks 236 Sentrum
+        0103 OSLO
 
-Deres ref
+        Deres ref                               Vår ref                       Dato
+                                                20/5234-8                     14. januar 2021
 
-Vår ref
+        Statsbudsjettet 2021 Tillegg til tildelingsbrev nr. 01-2021
 
-Dato
+        Vi viser til det ordinære tildelingsbrevet til Kompetanse Norge for 2021, oppdrag nr. 2020-
+        020, samt Prop. 127 S (2019-2020) med økonomiske tiltak i møte med virusutbruddet (fase 3
+        av tiltakspakken).
 
-20/5234-8
+        Nedenfor følger et nytt oppdrag.
 
-14. januar 2021
+        Oppdrag
 
-Statsbudsjettet 2021 Tillegg til tildelingsbrev nr. 01-2021
-Vi viser til det ordinære tildelingsbrevet til Kompetanse Norge for 2021, oppdrag nr. 2020020, samt Prop. 127 S (2019-2020) med økonomiske tiltak i møte med virusutbruddet (fase 3
-av tiltakspakken).
-Nedenfor følger et nytt oppdrag.
+         Oppdrag nr. 2021-012                    Kvalifisering under Covid-19 – utarbeidelse av
+                                                 veileder
+         Tildeling:                              Oppdraget gjennomføres innenfor gjeldende
+                                                 budsjettrammer.
+         Frist:                                   15.2.2021
+         Bakgrunn for oppdraget:
+         Som en del av regjeringens krisepakke 3 i forbindelse med koronapandemien, ble det våren
+         2020 satt av midler til en egen integreringspakke. Integreringspakken er en tiltakspakke på
+         456 mill. kroner for å gi et styrket opplæringstilbud for flyktninger og andre nyankomne
+         innvandrere under pandemien. Vi viser her til oppdrag nr. 2020-020 og tildelingsbrev for
+         2021. I løpet av høsten 2020 utviklet det seg et høyt smittetrykk, som har ytterligere forsterket
+         seg på nyåret. Dette gjør at det er behov for ytterligere veiledningstiltak ut mot kommunene.
 
-Oppdrag
-Oppdrag nr. 2021-012
+         Beskrivelse av oppdraget:
 
-Kvalifisering under Covid-19 – utarbeidelse av
-veileder
+         Postadresse            Kontoradresse       Telefon*        Avdeling                Saksbehandler
+         Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     Avdeling for            Espen Moseng
+         0032 Oslo                                  Org.nr.         videregående            22 24 75 45
+         postmottak@kd.dep.no   www.kd.dep.no       872 417 842     opplæring, fagskole
+                                                                    og kompetansepolitikk
 
-Tildeling:
+[Side 2]
 
-Oppdraget gjennomføres innenfor gjeldende
-budsjettrammer.
+ IMDi og Kompetanse Norge får derfor i oppdrag å utarbeide en dynamisk veileder for
+ kommunene med beskrivelse av forskjellige metoder og tiltak for å kunne gi et best mulig
+ kvalifiseringstilbud til forskjellige grupper ved varierende grad av nedstengning. Veilederen
+ skal være basert på beste praksis, foreliggende kunnskap og videreutvikles utover våren ved
+ behov. Veilederen skal være et hjelpemiddel for kommunene i deres kvalifiseringsarbeid etter
+ introduksjons- og integreringsloven og for mer digital tilrettelegging på lengre sikt. KS bør
+ også involveres på en måte dere tenker er hensiktsmessig.
 
-15.2.2021
-Frist:
-Bakgrunn for oppdraget:
-Som en del av regjeringens krisepakke 3 i forbindelse med koronapandemien, ble det våren
-2020 satt av midler til en egen integreringspakke. Integreringspakken er en tiltakspakke på
-456 mill. kroner for å gi et styrket opplæringstilbud for flyktninger og andre nyankomne
-innvandrere under pandemien. Vi viser her til oppdrag nr. 2020-020 og tildelingsbrev for
-2021. I løpet av høsten 2020 utviklet det seg et høyt smittetrykk, som har ytterligere forsterket
-seg på nyåret. Dette gjør at det er behov for ytterligere veiledningstiltak ut mot kommunene.
-Beskrivelse av oppdraget:
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-videregående
-opplæring, fagskole
-og kompetansepolitikk
-
-Saksbehandler
-Espen Moseng
-22 24 75 45
-
-IMDi og Kompetanse Norge får derfor i oppdrag å utarbeide en dynamisk veileder for
-kommunene med beskrivelse av forskjellige metoder og tiltak for å kunne gi et best mulig
-kvalifiseringstilbud til forskjellige grupper ved varierende grad av nedstengning. Veilederen
-skal være basert på beste praksis, foreliggende kunnskap og videreutvikles utover våren ved
-behov. Veilederen skal være et hjelpemiddel for kommunene i deres kvalifiseringsarbeid etter
-introduksjons- og integreringsloven og for mer digital tilrettelegging på lengre sikt. KS bør
-også involveres på en måte dere tenker er hensiktsmessig.
-IMDi får hovedansvar for oppdraget.
+ IMDi får hovedansvar for oppdraget.
 
 Med hilsen
 
 Torkel Nybakk Kvaal (e.f.)
 avdelingsdirektør
-Espen Moseng
-førstekonsulent
+                                                                              Espen Moseng
+                                                                              førstekonsulent
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 2
+ Side 2

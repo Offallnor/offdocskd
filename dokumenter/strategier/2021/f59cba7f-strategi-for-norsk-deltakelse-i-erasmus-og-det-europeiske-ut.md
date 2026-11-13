@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Strategi
@@ -18,6 +20,10 @@ Strategi
 Strategi for norsk deltakelse
 i Erasmus+ og Det europeiske
 utdanningsområdet
+
+[Side 2]
+
+[Side 3]
 
 Innhold
 1.
@@ -94,6 +100,8 @@ Europeisk ungdomspolitikk
 
 25
 
+[Side 4]
+
 4
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
@@ -137,6 +145,8 @@ gjennom ungdomsårene, i frivillig sektor og gjennom
 hele utdanningsløpet. Det er også avgjørende å knytte
 sammen utdanning og forskning.
 
+[Side 5]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 Europeisk samarbeid om utdanning, opplæring,
@@ -173,6 +183,8 @@ Kultur- og
 likestillingsminister
 
 5
+
+[Side 6]
 
 6
 
@@ -244,6 +256,8 @@ europeiske samarbeidet bidrar til kvalitet, ny kunnskap,
 interkulturell kompetanse, innovasjon og nettverk for
 fremtiden.
 
+[Side 7]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 Regjeringen ønsker å gi flere elever, ungdommer og
@@ -260,6 +274,8 @@ og aktiv deltakelse i Erasmus+ og Det europeiske
 utdanningsområdet.
 
 7
+
+[Side 8]
 
 8
 
@@ -335,6 +351,8 @@ kvalitetsutvikling i høyere utdanning (Diku), Kompetanse Norge og deler
 av Direktoratet for IKT og fellestjenester i høyere utdanning og forskning
 (Unit). Universell, som i dag er tilknyttet NTNU, vil også bli en del av
 direktoratet.
+
+[Side 9]
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
@@ -413,6 +431,8 @@ prosjekter ha kombinert fysisk og digital
 mobilitet
 
 9
+
+[Side 10]
 
 10
 
@@ -506,6 +526,8 @@ Nasjonal strategi for digital sikkerhetskompetanse - regjeringen.no.
 
 https://test.researchyouth.net/projects/digi/
 
+[Side 11]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 viktig. Utdanningsinstitusjonene forventes derfor å ta
@@ -562,6 +584,8 @@ medvirkningsorgan.
 
 11
 
+[Side 12]
+
 12
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
@@ -610,6 +634,8 @@ bruke programmet strategisk til å øke kunnskaps- og
 kompetansenivået lokalt og regionalt. Ansatte med
 internasjonal erfaring og kunnskap vil kunne styrke
 lokalt og regionalt næringsliv. Gjennom økt samarbeid
+
+[Side 13]
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
@@ -710,6 +736,8 @@ arbeidslivsrelevans
 
 13
 
+[Side 14]
+
 14
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
@@ -798,6 +826,8 @@ alle studieprogrammer, og at den faglige kvaliteten
 på mobilitetsoppholdene er god. Universiteter
 og høyskoler bør bruke Erasmus+ til å styrke
 samarbeidsrelasjoner med europeiske partnere.
+
+[Side 15]
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
@@ -907,6 +937,8 @@ Erasmus Charter for Higher Education 2014-2020 (europa.eu)
 
 15
 
+[Side 16]
+
 16
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
@@ -967,6 +999,8 @@ videregående opplæring, som et ledd i å gjøre elevene
 bedre forberedt for videre studier og arbeidsliv. Elever,
 lærlinger og lærere skal få mulighet til å være mobile.
 
+[Side 17]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 Tiltak mål 3
@@ -1026,6 +1060,8 @@ påvirkningsarbeid for å forenkle søknads- og
 rapporteringsprosesser i Erasmus+.
 
 17
+
+[Side 18]
 
 18
 
@@ -1120,6 +1156,8 @@ praksis. Tilsvarende må oppfølgingen av deltakere på
 opplæringsaktiviteter styrkes ytterligere, slik at økt
 innsikt fører til nye prosjekter.
 
+[Side 19]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 Skape koblinger til nasjonal politikk
@@ -1176,6 +1214,8 @@ Det følger av kap. 5 i utredningsinstruksen å medvirke til EUs politikk- og
 regelverksutforming som er av vesentlig betydning for Norge.
 
 19
+
+[Side 20]
 
 20
 
@@ -1277,6 +1317,8 @@ Panorama-strategien gjelder for perioden 2021-2027 og omfatter ni land
 utenfor EU/EØS-området av strategisk betydning for kunnskapssektoren –
 Brasil, Canada, India, Japan, Kina, Russland, Sør-Afrika, Sør-Korea og USA.
 
+[Side 21]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 Tiltak mål 4
@@ -1316,6 +1358,8 @@ utdanning, opplæring, ungdom og idrett midtveis i
 perioden, men ikke senere enn 2024.
 
 21
+
+[Side 22]
 
 22
 
@@ -1394,6 +1438,8 @@ videreutvikle kvalitet og relevans i yrkesopplæringen,
 og Erasmus Teacher Academies/lærerakademier
 som skal utviklet og bidra til å styrke lærere og
 undervisnings- og læringspraksis.
+
+[Side 23]
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
@@ -1496,6 +1542,8 @@ Norwegian comment to the European Education Area - regjeringen.no.
 
 23
 
+[Side 24]
+
 24
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
@@ -1595,6 +1643,8 @@ synergier med Bologna-prosessen for høyere utdanning
 
 https://www.consilium.europa.eu/media/48584/st06289-re01-en21.pdf
 
+[Side 25]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 og København-prosessen for fag- og yrkesopplæring,
@@ -1679,13 +1729,19 @@ i strategien.
 
 25
 
+[Side 26]
+
 26
 
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
+[Side 27]
+
 Strategi for norsk deltakelse i Erasmus+ og Det europeiske utdanningsområdet
 
 27
+
+[Side 28]
 
 Utgitt av:
 Kunnskapsdepartementet

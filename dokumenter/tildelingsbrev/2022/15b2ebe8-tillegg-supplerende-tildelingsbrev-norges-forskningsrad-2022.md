@@ -12,62 +12,48 @@
 
 ---
 
-Norges forskningsråd
-Postboks 564
-1327 Lysaker
+[Side 1]
 
-Deres ref
+   Norges forskningsråd
+   Postboks 564
+   1327 Lysaker
 
-Vår ref
-21/4886
+   Deres ref                             Vår ref                          Dato
+                                         21/4886                          29.06.2022
 
-Dato
-29.06.2022
+  Revidert nasjonalbudsjett 2022, kap. 288, post 21. Supplerende
+  tildelingsbrev til Norges forskningsråd
+  Vi viser til det supplerende tildelingsbrevet datert 24. juni 2022 hvor det ble vist til at Stortinget i
+  revidert budsjett for 2022 økte bevilgningen over kap. 285, post 53 med 22 mill. kroner mot en
+  tilsvarende reduksjon på kap. 288, post 21 og kap. 272, post 52, jf. Innst. 450 S (2021–2022) og
+  Prop. 115 S (2021–2022).
 
-Revidert nasjonalbudsjett 2022, kap. 288, post 21. Supplerende
-tildelingsbrev til Norges forskningsråd
-Vi viser til det supplerende tildelingsbrevet datert 24. juni 2022 hvor det ble vist til at Stortinget i
-revidert budsjett for 2022 økte bevilgningen over kap. 285, post 53 med 22 mill. kroner mot en
-tilsvarende reduksjon på kap. 288, post 21 og kap. 272, post 52, jf. Innst. 450 S (2021–2022) og
-Prop. 115 S (2021–2022).
-Ved en feil kom det ikke med i brevet at tildelingen til Norges forskningsråd over kap. 288, post
-21, gitt i tildelingsbrevet datert 21. desember 2021, reduseres med 13 mill. kroner som en følge
-av dette. Etter reduksjonen vil tildelingen til Norges forskningsråd over kap. 288, post 21
-dermed være 25 814 000 kroner. Reduksjonen vil håndteres gjennom at utbetalingen av andre
-rate av tildelingen den 30. august 2022 reduseres med 13 mill. kroner sammenlignet med
-beløpet i tildelingsbrevet 21. desember 2021.
-Reduksjonen i tildelingen over kap. 288, post 21 er knyttet til avlyst fellesutlysning med
-Russland.
-Med hilsen
-Kristin Celius (e.f.)
-fung. avdelingsdirektør
-Ingvild Mageli
-rådgiver
+  Ved en feil kom det ikke med i brevet at tildelingen til Norges forskningsråd over kap. 288, post
+  21, gitt i tildelingsbrevet datert 21. desember 2021, reduseres med 13 mill. kroner som en følge
+  av dette. Etter reduksjonen vil tildelingen til Norges forskningsråd over kap. 288, post 21
+  dermed være 25 814 000 kroner. Reduksjonen vil håndteres gjennom at utbetalingen av andre
+  rate av tildelingen den 30. august 2022 reduseres med 13 mill. kroner sammenlignet med
+  beløpet i tildelingsbrevet 21. desember 2021.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+  Reduksjonen i tildelingen over kap. 288, post 21 er knyttet til avlyst fellesutlysning med
+  Russland.
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+  Med hilsen
 
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
+  Kristin Celius (e.f.)
+  fung. avdelingsdirektør
+                                                              Ingvild Mageli
+                                                              rådgiver
 
-Avdeling:
-Avdeling for eierskap i
-høyere utdanning og
-forskning
+Postadresse            Kontoradresse       Telefon *            Avdeling:                 Saksbehandler
+Postboks 8119 Dep      Kirkeg. 18          22 24 90 90          Avdeling for eierskap i   Ingvild Mageli
+0032 Oslo                                  Org nr.              høyere utdanning og
+postmottak@kd.dep.no   www.kd.dep.no       872 417 842          forskning
 
-Saksbehandler
-Ingvild Mageli
+[Side 2]
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
 
 Kopi: Riksrevisjonen
 
-Side 2
+ Side 2

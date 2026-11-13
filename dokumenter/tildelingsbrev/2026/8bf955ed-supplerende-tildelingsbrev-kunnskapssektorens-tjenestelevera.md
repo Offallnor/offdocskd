@@ -12,29 +12,26 @@
 
 ---
 
+[Side 1]
+
 Sikt Kunnskapssektorens tjenesteleverandør
 
-Deres ref
-
-Vår ref
-
-Dato
-
-25/4963-
-
-4. februar 2026
+Deres ref                               Vår ref                       Dato
+                                        25/4963-                      4. februar 2026
 
 Supplerende tildelingsbrev nr. 1 2026
 I 2025 reviderte Nasjonal sikkerhetsmyndighet det nasjonale rammeverket for håndtering av
 digitale angrep og cyberhendelser. I denne forbindelse har Kunnskapsdepartementet
 samarbeidet med cybersikkerhetssenteret til Sikt for å gjennomgå og oppdatere sektorens
 rutiner slik at de er i tråd med den nasjonale retningslinjen.
+
 Kunnskapsdepartementet utpeker Sikt sitt Cybersikkerhetssenter for forskning og utdanning
 (eduCSC) som sektorvist responsmiljø for høyere utdanning og forskning, slik dette er
 definert i Nasjonalt rammeverk for håndtering av digitale angrep og cyberhendelser fra
 Nasjonal sikkerhetsmyndighet. Kunnskapsdepartementet forventer at eduCSC fortsetter å
 oppfylle den høyeste profilen i modenhetsmodellen og kravene som stilles til et sektorvist
 responsmiljø.
+
 Varslingsrutine
 EduCSC skal varsle Kunnskapsdepartementet om digitale angrep og cyberhendelser i
 kunnskapssektoren i henhold til nasjonalt rammeverk, inkludert virksomheter i eduCSCs
@@ -44,32 +41,18 @@ opprettholder egen varslingslinje til dette departementet. EduCSC skal etablere 
 varslingslinje med Helse- og KommuneCERT som sikrer at Kunnskapsdepartementet mottar
 varsling om hendelser i barnehage og grunnopplæring. Berørte sektordepartement er satt
 som kopimottakere.
+
 I tillegg skal eduCSC varsle Kunnskapsdepartementet om saker det kan være relevant for
 departementet å være informert om. Dette inkluderer endringer i trussel- eller
 sårbarhetssituasjonen, og andre saker som kan dukke opp i nyhetsbildet hvor det er viktig for
 departementet å vite i hvilken grad sektoren er berørt.
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+ Postadresse            Kontoradresse       Telefon*      Avdeling                  Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90   Avdeling for eierskap i   Christina Laastad
+ 0032 Oslo                                  Org.nr.       høyere utdanning og       22 24 73 37
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842   forskning
 
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Christina Laastad
-22 24 73 37
+[Side 2]
 
 Samarbeid med Direktoratet for høyere utdanning og kompetanse
 For å sikre sin helhetsforståelse av sikkerhetsutfordringene i sektoren har Direktoratet for
@@ -77,50 +60,50 @@ høyere utdanning og kompetanse behov for bred innsikt i hendelser ved virksomhe
 sektoren. Som en del av samarbeidet mellom departement, direktorat og sektorvist
 responsmiljø skal eduCSC sende kopi til direktoratet ved alle eskalerende varsler til
 Kunnskapsdepartementet.
+
 Fullmakter
 I situasjoner hvor det er nødvendig å raskt hindre betydelig skadevirkning for forskningsnettet
 eller virksomheter i kunnskapssektoren gir Kunnskapsdepartementet ihht. styringsmodellen
 Sikt følgende fullmakter i rollen som sektorvist responsmiljø:
-• å pålegge virksomheter underlagt Kunnskapsdepartementets eierstyring tiltak for å
-stanse hendelser og begrense skadeomfang.
-• å selvstendig iverksette tiltak dersom virksomhetens egne tiltak ikke kan skje
-tilstrekkelig raskt eller med tilstrekkelig virkning. Tiltak inkluderer å begrense eller
-blokkere tilgangen til ressurser i eller utenfor forskningsnettet, i ytterste instans
-nettforbindelsen til en virksomhet.
+     • å pålegge virksomheter underlagt Kunnskapsdepartementets eierstyring tiltak for å
+         stanse hendelser og begrense skadeomfang.
+     • å selvstendig iverksette tiltak dersom virksomhetens egne tiltak ikke kan skje
+         tilstrekkelig raskt eller med tilstrekkelig virkning. Tiltak inkluderer å begrense eller
+         blokkere tilgangen til ressurser i eller utenfor forskningsnettet, i ytterste instans
+         nettforbindelsen til en virksomhet.
+
 All bruk av slike tiltak skal rapporteres til Kunnskapsdepartementet og til Nasjonal
 sikkerhetsmyndighet.
+
 Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Christina Laastad
-seniorrådgiver
+                                                                              Christina Laastad
+                                                                              seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Digitaliserings- og forvaltningsdepartementet
-Direktoratet for høyere utdanning og kompetanse
-Helse- og omsorgsdepartementet
-Klima- og miljødepartementet
-Kommunal- og distriktsdepartementet
-Kultur- og likestillingsdepartementet
-Landbruks- og matdepartementet
-Nærings- og fiskeridepartementet
-Riksrevisjonen
 
-Side 2
+ Digitaliserings- og forvaltningsdepartementet
+ Direktoratet for høyere utdanning og kompetanse
+ Helse- og omsorgsdepartementet
+ Klima- og miljødepartementet
+ Kommunal- og distriktsdepartementet
+ Kultur- og likestillingsdepartementet
+ Landbruks- og matdepartementet
+ Nærings- og fiskeridepartementet
+ Riksrevisjonen
+
+ Side 2
+
+[Side 3]
 
 Sikt Kunnskapssektorens tjenesteleverandør
 
-Deres ref
-
-Vår ref
-
-Dato
-
-25/4963-
-
-18. mars 2026
+Deres ref                               Vår ref                         Dato
+                                        25/4963-                        18. mars 2026
 
 Statsbudsjettet 2026, kap. 201, post 21. Supplerende tildelingsbrev nr. 2
 til Sikt – Kunnskapssektorens tjenesteleverandør om flytting av
@@ -128,6 +111,7 @@ oppgaven med koordinering og pådriverfunksjon for datadeling i
 kunnskapssektoren
 Vi viser til Stortingets behandling av statsbudsjettet for 2026 på Kunnskapsdepartementets
 område jf. Innst. 12 S (2025-2026) og Prop. 1 S (2025-2026).
+
 Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til Sikt datert 19.
 desember 2025, til brev fra Kunnskapsdepartementet til virksomhetene datert 3. desember
 2025 med beslutning om at ansvaret for koordinering og pådriverfunksjon for arbeidet med
@@ -138,40 +122,27 @@ oppgaven og deling av tildelingen for 2026.
 1. Mål for tildelingen
 Det er besluttet at ansvaret for koordinering og pådriverfunksjon for arbeidet med datadeling
 skal flyttes fra HK-dir til Sikt.
+
 Dato for formell overføring av oppgaven settes til 1. mars 2026. Det legges ikke opp til å
 overføre ansatte fra HK-dir til Sikt.
 
 2. Beløp og utbetaling
 Kunnskapsdepartementet tildeler med dette 12 057 000 kroner til
 Sikt – Kunnskapssektorens tjenesteleverandør. Midlene tildeles over kap. 201 post 21.
+
 Midlene utbetales til Sikt sin konto 7694 05 18292.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*        Avdeling                  Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     Avdeling for eierskap i   Siri Elen Brattli-
+ 0032 Oslo                                  Org.nr.         høyere utdanning og       Singh
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842     forskning                 22 24 73 27
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Siri Elen BrattliSingh
-22 24 73 27
+[Side 4]
 
 3. Føringer for tildelingen
 Midlene skal benyttes i Sikt til å videreføre arbeidet med koordinering og pådriverfunksjon for
 datadeling.
+
 Overtakelse av ansvaret for oppgaven med koordinering og pådriverfunksjon for datadeling
 vil for Sikt innebære å videreutvikle arbeidet med datadeling utover gjeldende praksis ved
 HK-dir og Sikt, og derved sikre økt verdi. Arbeidet vil også inkludere å ferdigstille sentrale
@@ -181,6 +152,7 @@ av hvordan de skal arbeide med dette i 2026 innen 20. april d.å.
 4. Krav til rapportering
 Sikt skal inkludere rapportering om bruk av midlene i årsrapporten for 2026 som skal sendes
 til postmottak@kd.dep.no innen 15. mars 2027.
+
 Rapporteringen skal gi en overordnet beskrivelse av måloppnåelse og resultater av tiltaket
 og bekrefte at midlene er benyttet i samsvar med forutsetningene i det supplerende
 tildelingsbrevet.
@@ -189,12 +161,14 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Siri Elen Brattli-Singh
-seniorrådgiver
+                                                                          Siri Elen Brattli-Singh
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Riksrevisjonen
 
-Side 2
+ Direktoratet for høyere utdanning og kompetanse
+ Riksrevisjonen
+
+ Side 2

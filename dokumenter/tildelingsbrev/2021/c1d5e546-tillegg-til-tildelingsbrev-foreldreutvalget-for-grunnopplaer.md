@@ -12,60 +12,41 @@
 
 ---
 
+[Side 1]
+
 Foreldreutvalget for grunnopplæringen
 Foreldreutvalget for grunnopplæringen
 
-Deres ref
-
-Vår ref
-
-Dato
-
-20/5847-6
-
-24. mars 2021
+Deres ref                                          Vår ref                                Dato
+                                                   20/5847-6                              24. mars 2021
 
 Tillegg nr. 1 til tildelingsbrev for 2021 Overføring av ubrukte midler fra
 2020 til 2021
 Vi viser til tildelingsbrevet til foreldreutvalgene for 2021.
 Departementet har mottatt søknad fra foreldreutvalgene om overføring av ubrukte midler fra
 2020 til 2021.
+
 Med grunnlag i Finansdepartementets godkjenning 03.03.2021 til å overføre ubrukte
 bevilgninger fra statsbudsjettet for 2020, gis med dette sekretariatet for foreldreutvalgene
 fullmakt til ytterligere å belaste kap. 221 post 01 med inntil 0,797 mill. kroner.
+
 Midlene skal brukes til formål og tiltak som angitt i tildelingsbrevet for 2021 og innen de
 fullmakter som departementet har tildelt sekretariatet for foreldreutvalgene.
+
 Når det gjelder rapportering om bruk av midlene, vises det til kap. 8 i tildelingsbrevet for
 2021.
+
 Med hilsen
 
 Matias Nissen-Meyer (e.f.)
 avdelingsdirektør
-May-Lill Næss
-rådgiver
-Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
+                                                                              May-Lill Næss
+                                                                              rådgiver
 
+Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 Kopi Riksrevisjonen
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-barnehage og
-grunnskole
-
-Saksbehandler
-May-Lill Næss
-22 24 76 83
+ Postadresse                  Kontoradresse            Telefon*                 Avdeling              Saksbehandler
+ Postboks 8119 Dep            Kirkeg. 18               22 24 90 90              Avdeling for          May-Lill Næss
+ 0032 Oslo                                             Org.nr.                  barnehage og          22 24 76 83
+ postmottak@kd.dep.no         www.kd.dep.no            872 417 842              grunnskole

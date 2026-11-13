@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Strategi
@@ -40,6 +42,10 @@ Kval
 itet i ba
 le
 rnehage og sko
+
+[Side 2]
+
+[Side 3]
 
 Innhold
 Forord . ......................................................................................................................................... 4
@@ -80,6 +86,8 @@ Følge med på og evaluere .....................................................
 5
 
 Videre plan . ........................................................................................................................ 19
+
+[Side 4]
 
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
@@ -129,6 +137,8 @@ Perspektivmeldingen 2024.
 Når vi omtaler ansatte i barnehage og skole i det videre, omfatter dette ansatte i grunnskole,
 videregående opplæring, SFO, PP-tjeneste, kulturskole og voksenopplæring.
 
+[Side 5]
+
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
 Det helhetlige systemet for kompetanse- og karriereutvikling erstatter
@@ -175,6 +185,8 @@ Meld. St. 21 (2020–2021) Fullføringsreformen
 Meld. St. 11 (2024–2025) Fagfolk for en ny tid – med høyere yrkesfaglig utdanning
 
 5
+
+[Side 6]
 
 h
 a
@@ -224,6 +236,8 @@ beholder lærere og andre yrkesgrupper.
 Jf. opplæringsloven kapittel 17, privatskoleloven kapittel 4 og forskrift om rammeplan for
 barnehagens innhold og oppgaver, kap. 2.
 
+[Side 7]
+
 og skol
 e
 
@@ -265,6 +279,8 @@ læreplan. Kompetanseutvikling er en viktig del av det systematiske arbeidet
 med kvalitetsutvikling.
 
 7
+
+[Side 8]
 
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
@@ -312,6 +328,8 @@ samarbeid og tilrettelegging for erfaringsdeling.
 
 8
 
+[Side 9]
+
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
 Likeverdige partnerskap
@@ -357,6 +375,8 @@ og i utviklingen av profesjonelle læringsfellesskap, blant annet gjennom
 tilskuddsordning for kollektiv kompetanseutvikling.
 
 9
+
+[Side 10]
 
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
@@ -425,6 +445,8 @@ ordningen
 Kommuner med svake resultater på sentrale
 områder av opplæringen
 
+[Side 11]
+
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
 2 Nærmere om hovedtiltakene
@@ -463,6 +485,8 @@ har ansvar for å gi når annet personale enn de som er ansatt i lærerstilling
 bidrar i opplæringen, jf. opplæringsloven § 17-6 og privatskoleloven § 4-5.
 
 11
+
+[Side 12]
 
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
@@ -507,6 +531,8 @@ grunnutdanning, videreutdanning og kollektiv kompetanseutvikling, i dialog med
 barnehage- og skolesektoren.
 
 12
+
+[Side 13]
 
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
@@ -554,6 +580,8 @@ Tidligere kalt tilskuddsordningene for lokal kompetanseutvikling.
 
 13
 
+[Side 14]
+
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
 Boks 2.3 Nasjonalt forum for samisk språk og kultur i barnehage og skole
@@ -599,6 +627,8 @@ partsforankret.
 
 14
 
+[Side 15]
+
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
 2.6 Oppfølgingsordningen
@@ -641,6 +671,8 @@ Kilde: Sluttrapport om prosjektet: Sosial handlingskompetanse – sosial og
 faglig læring i sammenheng
 
 15
+
+[Side 16]
 
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
@@ -688,6 +720,8 @@ barnehagens innhold og oppgaver, kap. 2.
 
 16
 
+[Side 17]
+
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
 å prioritere hvem som skal få videreutdanning og kan søke om tilskudd til
@@ -727,6 +761,8 @@ nettverkssamarbeid for ulike aktører i systemet.
 
 17
 
+[Side 18]
+
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
 4 Følge med på og evaluere
@@ -740,6 +776,8 @@ kunnskapsgrunnlag for å følge med på og evaluere helheten og delene i
 systemet og har frist for å levere et forslag i mai 2025.
 
 18
+
+[Side 19]
 
 System for kompetanse- og karriereutvikling for ansatte i barnehage og skole
 
@@ -782,6 +820,8 @@ trer i kraft.
 innføres.
 
 19
+
+[Side 20]
 
 Utgitt av: Kunnskapsdepartementet
 

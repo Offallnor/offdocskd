@@ -12,17 +12,13 @@
 
 ---
 
+[Side 1]
+
 Sikt Kunnskapssektorens tjenesteleverandør
 
-Deres ref.
+Deres ref.                                              Vår ref                                      Dato
 
-Vår ref
-
-Dato
-
-24/5486
-
-19. desember 2024
+                                                        24/5486                                      19. desember 2024
 
 Tildelingsbrev 2025 til Sikt – Kunnskapssektorens tjenesteleverandør
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025, jf. Innst. 12 S (2024–
@@ -32,59 +28,25 @@ Kunnskapsdepartementets årlige styringsdokument. Eventuelle endringer eller ytt
 tildelinger blir formidlet gjennom supplerende tildelingsbrev i løpet av 2025.
 Tildelingsbrevet og eventuelle supplerende tildelingsbrev skal publiseres på virksomhetens
 nettsider så snart de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
+
 Tildelingsbrevet for 2025 består av følgende deler:
-1
+1    Innledning........................................................................................................................ 2
+2    Mål .................................................................................................................................. 4
+3    Tildeling ........................................................................................................................... 5
+4    Andre forutsetninger og krav ........................................................................................... 6
+5    Rapportering og resultatoppfølging.................................................................................. 8
 
-Innledning........................................................................................................................ 2
+ Postadresse                    Kontoradresse                Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep              Kirkeg. 18                   22 24 90 90                Avdeling for eierskap i      Sander Tufte
+ 0032 Oslo                                                                              høyere utdanning og
+ postmottak@kd.dep.no           www.kd.dep.no                Org.nr.                    forskning
+                                                             872 417 842
 
-2
+[Side 2]
 
-Mål .................................................................................................................................. 4
+1     Innledning
 
-3
-
-Tildeling ........................................................................................................................... 5
-
-4
-
-Andre forutsetninger og krav ........................................................................................... 6
-
-5
-
-Rapportering og resultatoppfølging.................................................................................. 8
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-
-Telefon*
-22 24 90 90
-
-www.kd.dep.no
-
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Sander Tufte
-
-1
-
-Innledning
-
-1.1
-
-Regjeringens prioriteringer og forventninger
-
+1.1       Regjeringens prioriteringer og forventninger
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
@@ -121,28 +83,25 @@ muliggjør eksperimentell tungregning- og KI-forskning skal styrke innovasjon i 
 og offentlig sektor, samt sikre at teknologien brukes ansvarlig og bærekraftig og i tråd med
 
 1 Meld. St. 31 (2023–2024) Perspektivmeldingen 2024
-
 2 Meld. St. 14 (2022–2023) Utsyn over kompetansebehovet i Norge
-
 3 Meld. St. 19 (2023–2024) Profesjonsnære utdanningar over heile landet
-
 4 Meld. St. 5 (2022–2023) Langtidsplan for forskning og høyere utdanning 2023–2032
-
 5 Meld. St. 7 (2020–2021) En verden av muligheter — Internasjonal studentmobilitet i høyere utdanning
 
-Side 2
+ Side 2
+
+[Side 3]
 
 våre verdier. Regjeringen forventer at virksomhetene følger etiske prinsipper for ansvarlig og
 pålitelig KI, jf. Fremtidens digitale Norge – Nasjonal digitaliseringsstrategi 2024–2030 6.
 Norge skal bli verdens mest digitaliserte land, i tråd med Nasjonal digitaliseringsstrategi
 2024–2030. Kunnskapsdepartementet forventer at virksomhetene øker innsatsen med
-datadeling og «Orden i eget hus» (jf. digitaliseringsrundskrivet kap. 1.2 7). Gjennom KUDAFprogrammet har HK-dir utviklet felles spilleregler og tjenester som virksomhetene bør benytte
+datadeling og «Orden i eget hus» (jf. digitaliseringsrundskrivet kap. 1.2 7). Gjennom KUDAF-
+programmet har HK-dir utviklet felles spilleregler og tjenester som virksomhetene bør benytte
 for å dele data for analyse, innsikt og innovasjon, og bidra til en sterkere kultur for samarbeid
 om data i sektoren.
 
-1.2
-
-Særskilte forventninger
+1.2       Særskilte forventninger
 
 Samarbeid for en bedre kunnskapssektor
 For å lykkes i sitt oppdrag, er Sikt avhengig av å samarbeide med en rekke aktører.
@@ -151,7 +110,9 @@ brukervennlige og relevante fellestjenester. Det er viktig at Sikt tar tilstrekk
 brukerinstitusjonenes kapasitetsutfordringer knyttet til mottak av nye tjenester.
 Departementet forventer også at Sikt har en god dialog med institusjonene om hvilke
 fellestjenester som bør brukes av alle og prisingen av disse tjenestene.
-Sikt er eneste etat under Kunnskapsdepartementet som er representert i SKATEsamarbeidet, og må der ivareta også resten av kunnskapssektoren.
+Sikt er eneste etat under Kunnskapsdepartementet som er representert i SKATE-
+samarbeidet, og må der ivareta også resten av kunnskapssektoren.
+
 Utviklingsportefølje og risikostyring i virksomheten
 Sikt har en ambisiøs utviklingsportefølje, og virksomheten vil også i 2025 være preget av en
 rekke større utviklingsprosjekter. Departementet vil følge Framtidens opptak gjennom egen
@@ -159,10 +120,12 @@ rapportering for prosjektet. Også moderniseringen av Forskningsnettet og arbeid
 sette i drift NVA, fortsetter i 2025. Departementet forventer at Sikt har en aktiv og helhetlig
 risikostyring i virksomheten og sikrer at utviklingsporteføljen realiseres på en planlagt og
 formålstjenlig måte samtidig som forsvarlig løpende drift ivaretas.
+
 Feide
 Feide skal videreutvikles som en løsning for brukere og ansatte i kunnskapssektoren, jf.
 Nasjonal strategi for eID i offentlig sektor. Departementet forventer at Sikt viderefører det
 velfungerende samarbeidet med Utdanningsdirektoratet om strategisk utvikling av tjenesten.
+
 Forvaltning av eierskapet i Sigma2 AS
 Regjeringen vil frem mot 2030 etablere en nasjonal infrastruktur for kunstig intelligens (KI),
 hvor superdatamaskiner (tungregning) og norskutviklede språkmodeller utgjør en viktig del,
@@ -170,73 +133,65 @@ jf. Nasjonal digitaliseringsstrategi 2024–2030. Sigma2 AS står for investerin
 største nasjonale superdatamaskinene. Nasjonalbiblioteket skal stå for utvikling og drift av
 språkmodellene. Departementet forventer at Sikt bidrar til et godt samarbeid mellom Sigma2
 og Nasjonalbiblioteket om trening av språkmodeller. Dette arbeidet skal sees i sammenheng
+
 6 Nasjonal digitaliseringsstrategi 2024–2030
 7 Digitaliseringsrundskrivet - regjeringen.no
 
-Side 3
+ Side 3
+
+[Side 4]
 
 med oppdraget Forskningsrådet har fått om å utrede det nasjonale behovet for
 tungeregnekraft til formålene forskning, offentlig forvaltning og utvikling og bruk av KI,
 herunder hvordan en nasjonal infrastruktur for tungregning bør organiseres.
 
-2
+2       Mål
 
-Mål
-
-2.1
-
-Målbilde for kunnskapssektoren
-
+2.1       Målbilde for kunnskapssektoren
 Kunnskapsdepartementet har følgende tre overordnede mål for kunnskapssektoren:
--
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    -     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    -     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    -     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 Virksomhetene spiller en viktig rolle for å nå målene. Det er viktig med godt samspill mellom
 Kunnskapsdepartementets underliggende virksomheter slik at alle bidrar til hverandres
 måloppnåelse.
 
-2.2
-
-Mål for Sikt
+2.2       Mål for Sikt
 
 Mål 1: Kunnskapssektoren har god tilgang til infrastruktur og fellestjenester av høy
 kvalitet
 Styringsparametere:
-1.1. Økt brukertilfredshet i alle brukergrupper
-1.2. Økt bruk og utnyttelse av fellestjenester og infrastruktur gjennom tjenesteutvikling
-1.3. Internasjonalt samarbeid gir bedre digital omstilling
-1.4. Systemarkitektur og infrastruktur som følger internasjonale standarder og er tilpasset
-fremtidige behov
+    1.1. Økt brukertilfredshet i alle brukergrupper
+    1.2. Økt bruk og utnyttelse av fellestjenester og infrastruktur gjennom tjenesteutvikling
+    1.3. Internasjonalt samarbeid gir bedre digital omstilling
+    1.4. Systemarkitektur og infrastruktur som følger internasjonale standarder og er tilpasset
+         fremtidige behov
+
 Mål 2: Kunnskapssektoren deler data for økt kunnskapsutvikling, innovasjon og
 verdiskaping
 Styringsparametere:
-2.1. Tilrettelegger for deling av data for innovasjon og utvikling
-2.2. Forskningsresultater og forskningsdata er enkelt tilgjengelig
-2.3. Utvikle nasjonale registre som felles masterdatakilder
-2.4. Økt bruk av ny teknologi innenfor tungregning, stordata, kunstig intelligens og
-analyse i kunnskapssektoren
+    2.1. Tilrettelegger for deling av data for innovasjon og utvikling
+    2.2. Forskningsresultater og forskningsdata er enkelt tilgjengelig
+    2.3. Utvikle nasjonale registre som felles masterdatakilder
+    2.4. Økt bruk av ny teknologi innenfor tungregning, stordata, kunstig intelligens og
+         analyse i kunnskapssektoren
+
 Mål 3: God informasjonssikkerhet og godt personvern i kunnskapssektoren
 Styringsparametere:
-3.1. Høy deteksjonsevne og proaktiv varsling
-3.2. Forsvarlig håndtering av trusler og hendelser
-3.3. Færre personvernbrudd i forskningen
-3.4. Økt kompetanse og bevissthet i sektoren
+    3.1. Høy deteksjonsevne og proaktiv varsling
+    3.2. Forsvarlig håndtering av trusler og hendelser
+    3.3. Færre personvernbrudd i forskningen
+    3.4. Økt kompetanse og bevissthet i sektoren
 
-Side 4
+ Side 4
 
-3.5. Personvern og informasjonssikkerhet er innebygd i tjenestene
+[Side 5]
 
-3
+    3.5. Personvern og informasjonssikkerhet er innebygd i tjenestene
 
-Tildeling
+3     Tildeling
 
-3.1
-
-Tildeling over kap. 273, post 50
-
+3.1       Tildeling over kap. 273, post 50
 Kunnskapsdepartementet tildeler 442 769 000 kroner til Sikt. Sikt har ansvar for å prioritere
 innenfor tildelingen for å nå målene og kravene som fremkommer i tildelingsbrevet.
 Departementet tar forbehold om at Stortinget kan vedta budsjettendringer i løpet av 2025.
@@ -254,64 +209,52 @@ Sikt fra og med 2025 blir redusert med 20 760 000 kroner over den estimerte leve
 investeringen på 20 år, som Sikt skal dekke inn gjennom brukerbetaling.
 I bevilgningen inngår også 72 330 000 kroner til utvikling av nytt IT-system for Samordna
 opptak. Det er forventet at det nye systemet er ferdig utviklet i 2027. En kritisk suksessfaktor
-for prosjektet er et tett og vellykket samarbeid mellom Sikt som utvikler av det nye ITsystemet og Direktoratet for høyere utdanning og kompetanse (HK-dir) som har ansvar for
+for prosjektet er et tett og vellykket samarbeid mellom Sikt som utvikler av det nye IT-
+systemet og Direktoratet for høyere utdanning og kompetanse (HK-dir) som har ansvar for
 gjennomføring av samordnet opptak. Det nye systemet er forventet å gi gevinster for
 sektoren i 2027–2037 på 6 400 000 kroner årlig, som vil bli tatt inn gjennom en tilsvarende
 samlet reduksjon i bevilgningen til universitetene og høyskolene, HK-dir og Sikt fra 2027.
 Bevilgningen er økt med 4 328 000 kroner som følge av at midlene som Sikt tidligere har fått
 over kap. 275, post 21 til arbeidet med sektorvist responsmiljø er flyttet til
-virksomhetsbudsjettet. Sektorvist responsmiljø skal forebygge, oppdage og håndtere IKTsikkerhetshendelser.
+virksomhetsbudsjettet. Sektorvist responsmiljø skal forebygge, oppdage og håndtere IKT-
+sikkerhetshendelser.
 Bevilgningen er redusert med 678 000 kroner som følge av at Sikt har inngått avtale med
 Direktoratet for forvaltning og økonomistyring om levering av lønns- og regnskapstjenester.
 Bevilgningen til NORDUnet-kontingenten utgjør 46 952 000 kroner.
 
-Side 5
+ Side 5
+
+[Side 6]
 
 Særskilte samarbeidsoppgaver med Utdanningsdirektoratet
-Sikt bes samarbeide med Utdanningsdirektoratet om leveranser, produkter og
-tjenester hvor de to virksomhetene har felles eller tilgrensende ansvar.
-Virksomhetene skal sammen sørge for at samstyringsstrukturen for Sikts tjenester
-fungerer hensiktsmessig for grunnopplæringen.
-Sikt og Utdanningsdirektoratet skal forberede utvikling av framtidige produkter med
-generativ KI basert på kommende norske språkmodeller, både med tanke på egne
-produkter og for å tilrettelegge for et innovativt læremiddelmarked som tar hensyn til
-små aktører.
-Departementet varsler at det kan komme et oppdrag til Sikt og/eller
-Utdanningsdirektoratet for en eventuell rolle i implementeringen av Felles
-støttetjenester for personvern, informasjonssikkerhet og universell utforming.
-Utdanningsdirektoratets utredning kommer i desember 2024 og vil presentere ulike
-modeller for organiseringen av og innholdet i støttetjenestene. Departementet vil
-vurdere forslagene i utredningen og eventuell involvering av underliggende
-virksomheter i etableringen av støttetjenestene. Mulig oppdragsbrev vil komme i
-2025.
+    •     Sikt bes samarbeide med Utdanningsdirektoratet om leveranser, produkter og
+          tjenester hvor de to virksomhetene har felles eller tilgrensende ansvar.
+          Virksomhetene skal sammen sørge for at samstyringsstrukturen for Sikts tjenester
+          fungerer hensiktsmessig for grunnopplæringen.
+    •     Sikt og Utdanningsdirektoratet skal forberede utvikling av framtidige produkter med
+          generativ KI basert på kommende norske språkmodeller, både med tanke på egne
+          produkter og for å tilrettelegge for et innovativt læremiddelmarked som tar hensyn til
+          små aktører.
+    •     Departementet varsler at det kan komme et oppdrag til Sikt og/eller
+          Utdanningsdirektoratet for en eventuell rolle i implementeringen av Felles
+          støttetjenester for personvern, informasjonssikkerhet og universell utforming.
+          Utdanningsdirektoratets utredning kommer i desember 2024 og vil presentere ulike
+          modeller for organiseringen av og innholdet i støttetjenestene. Departementet vil
+          vurdere forslagene i utredningen og eventuell involvering av underliggende
+          virksomheter i etableringen av støttetjenestene. Mulig oppdragsbrev vil komme i
+          2025.
 
-•
-
-•
-
-•
-
-3.2
-
-Utbetaling
-
+3.2       Utbetaling
 Midlene utbetales til Sikts bankkonto 7694 05 18292 i to rater, hhv. i januar og juni.
 
-3.3
-
-Fullmakter
-
+3.3       Fullmakter
 Stortinget har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse med
 Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert administrativ
 fullmakt til virksomheten. Oversikt over delegerte fullmakter er vedlagt.
 
-4
+4       Andre forutsetninger og krav
 
-Andre forutsetninger og krav
-
-4.1
-
-Fellesføringer fra regjeringen
+4.1       Fellesføringer fra regjeringen
 
 4.1.1 Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk
@@ -322,7 +265,9 @@ også vurdere hvordan klimaendringene vil påvirke virksomheten. Sikt skal gjør
 vurderinger av egen energibruk og ta i bruk lønnsomme energieffektive løsninger, samt øke
 energifleksibiliteten der dette er relevant.
 
-Side 6
+ Side 6
+
+[Side 7]
 
 4.1.2 Positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og eller fravær fra arbeid, utdanning eller opplæring
@@ -335,10 +280,7 @@ personer med funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller o
 2025 og det totale antallet ansettelser i virksomheten i 2025. Virksomheten skal også omtale
 utviklingen i 2025 sett opp mot det virksomheten har rapportert for 2024.
 
-4.1.3
-
-Redusere konsulentbruken
-
+4.1.3      Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Sikt skal arbeide for å redusere konsulentbruken på områder der det ligger til
 rette for å benytte interne ressurser og kompetanse. Utover informasjons- og
@@ -355,14 +297,9 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 årsregnskapet spesifisere dette nærmere. Dersom virksomheten har større kjøp av
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
-4.2
+4.2       Andre krav
 
-Andre krav
-
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2.1      Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -374,37 +311,34 @@ samfunnssikkerhet og nasjonal sikkerhet. Fra og med 2025 blir i tillegg oppgaven
 kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssektoren
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 
-Side 7
+ Side 7
+
+[Side 8]
 
 Sikt skal i årsrapporten for 2025 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Sikt for dette arbeidet?
-2. Når reviderte Sikt sist sin ROS-analyse? Hvilke overordnede områder er identifisert
-som de med høyest risiko for virksomheten?
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for Sikts arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
+    1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+       nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+       og avhengigheter, hvilke planer har Sikt for dette arbeidet?
+    2. Når reviderte Sikt sist sin ROS-analyse? Hvilke overordnede områder er identifisert
+       som de med høyest risiko for virksomheten?
+    3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+       er gjennomført i 2025.
+    4. Redegjør for Sikts arbeid med sikkerhetsstyring, herunder etablering av
+       styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+       informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+       samordnes med hverandre og med virksomhetsstyringen for øvrig.
 
-4.2.2
-
-Informasjonssikkerhet og personvern
-
+4.2.2      Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
 arbeidet med informasjonssikkerhet og personvern i Sikt. I lys av det skjerpede trusselbildet
 internasjonalt, den økende avhengigheten av digital teknologi i samfunnet og den raske
 teknologiske utviklingen, forventer Kunnskapsdepartementet at Sikt styrker sitt arbeid med å
 forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser og brudd på
-personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitetsog beredskapsplaner særlig viktig.
+personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitets-
+og beredskapsplaner særlig viktig.
 
-4.2.3
-
-Krav ved inngåelse av leieavtaler
-
+4.2.3      Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten 8 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
 som gjelder for inngåelse av slike avtaler. Ved inngåelse av leieavtaler der leieavtalens
@@ -413,14 +347,9 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-5
+5     Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-
-5.1
-
-Rapportering om resultater
-
+5.1       Rapportering om resultater
 Årsrapport for 2025 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2026, med kopi til Riksrevisjonen og Database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -429,7 +358,9 @@ på virksomhetens nettside innen 1. mai, jf. Bestemmelser om økonomistyring i s
 
 8 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side 8
+ Side 8
+
+[Side 9]
 
 Årsrapporten skal gi et dekkende bilde av virksomhetens resultater og gi departementet
 grunnlag for å vurdere måloppnåelse og ressursbruk, jf. Bestemmelser om økonomistyring i
@@ -445,18 +376,12 @@ Sikt skal innen 15. september 2025 melde til Kunnskapsdepartementet hvilke belø
 faktisk har betalt til NORDUnet i 2025, slik at departementet eventuelt kan foreslå å justere
 bevilgningen i nysaldering av statsbudsjettet 2025.
 
-5.2
-
-Satsingsforslag for 2027
-
+5.2       Satsingsforslag for 2027
 Sikt kan sende inn eventuelle satsingsforslag i tråd med vedlagte veiledning. Frist for
 innsendelse av satsingsforslag for 2027 er 1. november 2025. Forslaget sendes til
 postmottak@kd.dep.no.
 
-5.3
-
-Styringsdialogen i 2025
-
+5.3       Styringsdialogen i 2025
 Etatsstyringsmøtene skal være en strategisk dialog om institusjonens utvikling. Sentrale
 temaer i møtet er resultater, ambisjoner, strategiske prioriteringer og utfordringer.
 Etatsstyringsmøtet er berammet til 5. mai 2025 kl. 12.00-14.00. Møtet vil finne sted i
@@ -465,33 +390,31 @@ og deltakerliste sendes departementet senest to uker før møtedato. Til hver in
 skal det gis bakgrunnsinformasjon på inntil en halv side.
 
 Med hilsen
+
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                     Charlotte Rustad
+                                                                     konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 9
+ Side 9
+
+[Side 10]
 
 Vedlegg og instrukser oppgitt nedenfor finnes også på Kunnskapsdepartementets nettside:
-
-
-
-
-
-
-Krav til årsrapport 2025
-Hovedtrekk i styringsdialogen 2025
-Fullmakter 2025
-Veiledning til fremstilling av satsingsforslag for 2027
-Virksomhets- og økonomiinstruks
+      Krav til årsrapport 2025
+      Hovedtrekk i styringsdialogen 2025
+      Fullmakter 2025
+      Veiledning til fremstilling av satsingsforslag for 2027
+      Virksomhets- og økonomiinstruks
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Utdanningsdirektoratet
-Riksrevisjonen
-Riksrevisjonen
-Utdanningsdirektoratet
 
-Side 10
+ Direktoratet for høyere utdanning og kompetanse
+ Utdanningsdirektoratet
+ Riksrevisjonen
+ Riksrevisjonen
+ Utdanningsdirektoratet
+
+ Side 10

@@ -12,6 +12,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Flere lærere
@@ -19,6 +21,10 @@ i barnehage og skole
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
 
 Strategi
+
+[Side 2]
+
+[Side 3]
 
 Innhold
 Forord ............................................................................................................................................................................................................... 2
@@ -34,6 +40,8 @@ Aktørenes forpliktelser .......................................................
 Utviklingstrekk og utfordringer . ................................................................................................................................ 26
 Eksempler på lokalt samarbeid om lærerrekruttering ................................................................. 34
 Pågående og relevant arbeid .......................................................................................................................................... 36
+
+[Side 4]
 
 2
 
@@ -106,6 +114,8 @@ https://www.regjeringen.no/contentassets/d0c1da83bce94e2da21d5f631bbae817/kd_nas
 
 https://fn.no/om-fn/fns-baerekraftsmaal/god-ut­danning
 
+[Side 5]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 Kari Nessa Nordtun
@@ -163,6 +173,8 @@ i Kunnskapsdepartementet.
 
 3
 
+[Side 6]
+
 4
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -201,6 +213,8 @@ https://www.uis.no/sites/default/files/2022-08/L%C3%A6rerrekruttering%2013614200
 4
 
 https://skriftserien.oslomet.no/index.php/skriftserien/article/view/657/171
+
+[Side 7]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -245,6 +259,8 @@ opptak
 
 5
 
+[Side 8]
+
 6
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -279,6 +295,8 @@ finansiert av Kunnskapsdepartementet og ledet av Høgskulen på Vestlandet.
 I 2023 styrket regjeringen tildelingen til prosjektet og i 2024 får prosjektet 10 mill.
 kroner til dette arbeidet.
 https://www.hvl.no/samarbeid/samarbeid-lararutdanning-og-kreative-fag/mangfoldlaerer/
+
+[Side 9]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -333,6 +351,8 @@ https://skriftserien.oslomet.no/index.php/skriftserien/article/view/657/171
 
 7
 
+[Side 10]
+
 8
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -351,6 +371,8 @@ rekrutterer og beholder lærere
 Mål 3 Alle nyutdannede lærere opplever
 en positiv overgang mellom utdanning og
 yrke og får veiledning
+
+[Side 11]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -387,6 +409,8 @@ videreutvikle Nasjonalt prosjekt for lærerrekruttering. Prosjektet skal ha en n
 kunnskapsgrunnlag, og promotere lærerutdanningene og læreryrket.
 
 9
+
+[Side 12]
 
 10
 
@@ -429,6 +453,8 @@ i barnehage og skole.
 i skolen som ønsker å fullføre en relevant lærer­utdanning eller få formell
 kompetanse til å undervise.
 
+[Side 13]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 1.7 Styrke rekrutteringen og kompetansen om samiske språk og samisk kultur
@@ -470,6 +496,8 @@ https://hkdir.no/rapporter-undersokelser-og-statistikk/fleksible-profesjonsutdan
 
 11
 
+[Side 14]
+
 12
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -503,6 +531,8 @@ Utdanningsdirektoratet støtter ABLU-studier ved OsloMet, Høgskulen på Vest­
 landet og Universitetet i Stavanger. Det er mulig for barnehageeiere å søke
 tilretteleggingsmidler hos statsforvalteren i fylket til den som skal studere.
 https://www.udir.no/kvalitet-og-kompetanse/etter-og-videreutdanning/arbeidsplassbasert-barnehagelarerutdanning/
+
+[Side 15]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -624,6 +654,8 @@ Kilde: Sametinget
 
 13
 
+[Side 16]
+
 14
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -656,6 +688,8 @@ danninger av høy kvalitet.
 høyskoler og barnehage-/skoleeiere og lærerprofesjonen. Partnerskap skal bidra
 til å videreutvikle profesjons­relevans og praksis i lærerutdanningene og gi bedre
 kvalitet og mer kunnskaps­basert profesjonsutøvelse i barnehager og skoler.
+
+[Side 17]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -693,6 +727,8 @@ https://nettsteder.regjeringen.no/frlu/
 
 15
 
+[Side 18]
+
 16
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -723,6 +759,8 @@ etter å ha jobbet som lærer i noen år.
 • Regjeringen vil undersøke årsaker til at noen nyutdannede lærere ikke starter
 i læreryrket.
 
+[Side 19]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 Boks 1.12 Nasjonale tiltak for veiledning av nyutdannede lærere
@@ -749,6 +787,8 @@ https://www.regjeringen.no/contentassets/0081e41fad994cfdbb4e0364a2eb8f65/veiled
 https://www.udir.no/kvalitet-og-kompetanse/veiledning-av-nyutdannede/hvordan-kan-det-gjennomfores/
 
 17
+
+[Side 20]
 
 18
 
@@ -784,6 +824,8 @@ det vil si å jobbe som lærer i barnehage og skole.
 
 https://www.uis.no/sites/default/files/2022-08/L%C3%A6rerrekruttering%2013614200%20Rapport%20juli-22.pdf
 
+[Side 21]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 Tiltak
@@ -818,6 +860,8 @@ det også å lovfeste at skolen skal arbeide systematisk og forebyggende mot sit
 
 19
 
+[Side 22]
+
 20
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -848,6 +892,8 @@ involvert i arbeidet og systemet skal etter planen være klart i løpet av 2025.
 
 NOU 2022: 13 Med videre betydning – Et helhetlig system for kompetanse- og karriereutvikling
 i barnehage og skole
+
+[Side 23]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -889,6 +935,8 @@ https://www.regjeringen.no/no/dokumenter/barnehagen-for-en-ny-tid/id2959402/?ch=
 
 21
 
+[Side 24]
+
 22
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -925,6 +973,8 @@ fagorganene har observatører fra profesjons- og praksis­feltet
 • skape gode møteplasser for universiteter og høyskoler, nasjonale myndigheter og
 andre nasjonale og internasjonale aktører
 
+[Side 25]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 KS skal:
@@ -960,6 +1010,8 @@ barnehagelærerutdanningen og yrket
 
 23
 
+[Side 26]
+
 24
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -990,6 +1042,8 @@ Sametinget skal:
 • forvalte stipendordninger som kan bidra til studentrekruttering
 • forvalte tilskuddsordninger hvor formålet er å sikre samiske barn, elever og
 voksne et kvalitativt godt barnehage-, opplærings- og utdanningstilbud
+
+[Side 27]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -1037,6 +1091,8 @@ https://www.norsklektorlag.no/nyheter/10-rad-for-a-rekruttere-og-beholde-laerere
 https://skoleneslandsforbund.no/blogg-hvordan-rekruttere-og-beholde-laerere/
 
 25
+
+[Side 28]
 
 26
 
@@ -1095,6 +1151,8 @@ utdanningen, det vil si de som har startet på en lærerutdanning og fortsatt st
 2023
 
 YFL
+
+[Side 29]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -1213,6 +1271,8 @@ I 2013 var det 56 prosent som gjennomførte på normert tid, i 2022 var det 65 p
 
 27
 
+[Side 30]
+
 28
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -1268,6 +1328,8 @@ NOU 2023: 9 Generalistkommunesystemet – Likt ansvar – ulike forutsetninger
 https://www.ssb.no/arbeid-og-lonn/sysselsetting/artikler/laerermod-2020-2040/_/
 attachment/inline/88e4a930-a958-4dcf-8e60-a6b5a346a131:bb13eb2cac67aecc1a4b5b001a849a835a56a2b9/RAPP2023-13.pdf
 
+[Side 31]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 På landsbasis oppfylte 67 prosent av barnehagene normen for pedagogisk bemanning i 2022, mot 71 prosent året før. I tillegg oppfylte 25 prosent normen med
@@ -1295,6 +1357,8 @@ https://www.udir.no/tall-og-forskning/statistikk/statistikk-barnehage/analyser/f
 https://www.oecd.org/education/talis/TALIS-Starting-Strong-2018-Technical-Report.pdf
 
 29
+
+[Side 32]
 
 30
 
@@ -1474,6 +1538,8 @@ et
 
 0,0 %
 
+[Side 33]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 Mange nyutdannede lærere får ikke tilbud om veiledning
@@ -1537,6 +1603,8 @@ https://www.ssb.no/arbeid-og-lonn/artikler-og-publikasjoner/_attachment/427377?_
 ts=17400d03458
 
 31
+
+[Side 34]
 
 32
 
@@ -1607,6 +1675,8 @@ https://www.ssb.no/utdanning/barnehager/statistikk/ansatte-i-barnehage-og-skole
 
 https://www.ssb.no/innvandring-og-innvandrere/faktaside/innvandring
 
+[Side 35]
+
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
 Mangel på lærere med samiskspråklig kompetanse
@@ -1654,6 +1724,8 @@ Meld. St. 14 (2022–2023) Utsyn over kompetansebehovet i Norge
 
 33
 
+[Side 36]
+
 34
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -1688,6 +1760,8 @@ har fra 2022 vært en del av områdesatsingen i bydel Søndre Nordstrand.
 57
 
 https://www.nord.no/om/fakulteter-og-sentre/fakultet-for-laererutdanning-og-kunst-og-kulturfag/laererinord
+
+[Side 37]
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024-2030
 
@@ -1737,6 +1811,8 @@ https://www.ntnu.no/studier/byrk
 
 35
 
+[Side 38]
+
 36
 
 Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030
@@ -1776,6 +1852,10 @@ mer og trives bedre.
 62
 
 https://nettsteder.regjeringen.no/stylu/fase-2/
+
+[Side 39]
+
+[Side 40]
 
 Utgitt av:
 Kunnskapsdepartementet

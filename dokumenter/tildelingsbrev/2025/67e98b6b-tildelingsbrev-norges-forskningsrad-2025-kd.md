@@ -6,23 +6,19 @@
 - Mottaker: Norges forskningsråd
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/tildelingsbrev-20252/tildelingsbrev-norges-forskningsrad-2025/id3080158/
 - Original-PDF: https://www.regjeringen.no/contentassets/57ee20c58c6f4aef97d237089217ee67/tildelingsbrev-for-2025-til-norges-forskningsrad2454444.pdf
-- Tekst: hentet fra PDF. OBS: 21 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a778b-6cb2-4712-9b89-d57967e98b6b
 - Hentet: 2026-11-13
 
 ---
 
+[Side 1]
+
 Norges forskningsråd
 
-Deres ref.
+Deres ref.                              Vår ref                         Dato
 
-Vår ref
-
-Dato
-
-24/5477
-
-19. desember 2024
+                                        24/5477                         19. desember 2024
 
 Tildelingsbrev 2025 til Norges forskningsråd
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025 sender
@@ -34,160 +30,60 @@ Eventuelle endringer eller ytterligere tildelinger blir formidlet gjennom supple
 tildelingsbrev i løpet av 2025. Tildelingsbrevet og eventuelle supplerende tildelingsbrev skal
 publiseres på virksomhetens nettsider så snart de er mottatt, jf. Bestemmelser om
 økonomistyring i staten, pkt. 2.3.2.
+
 Tildelingsbrevet fra Kunnskapsdepartementet består av to deler:
-• Del 1, punkt 1-5, Kunnskapsdepartementet som etatsstyrer
-• Del 2, punkt 1-5, Kunnskapsdepartementet som sektordepartement
+    • Del 1, punkt 1-5, Kunnskapsdepartementet som etatsstyrer
+    • Del 2, punkt 1-5, Kunnskapsdepartementet som sektordepartement
 
-Postadresse
+ Postadresse            Kontoradresse       Telefon*        Avdeling                  Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     Avdeling for eierskap i   Ane Bilstad Brøyn
+                                                            høyere utdanning og
+ 0032 Oslo                                  Org.nr.         forskning
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842
 
-Kontoradresse
-
-Telefon*
-
-Avdeling
-
-Saksbehandler
-
-Postboks 8119 Dep
-
-Kirkeg. 18
-
-22 24 90 90
-
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Ane Bilstad Brøyn
-
-0032 Oslo
-postmottak@kd.dep.no
-
-Org.nr.
-www.kd.dep.no
-
-872 417 842
+[Side 2]
 
 Tildelingsbrev til Norges forskningsråd 2025 Del 1 – Kunnskapsdepartementet som
 etatsstyrer ...............................................................................................................................3
-1.1
-
-Regjeringens prioriteringer ..........................................................................................3
-
-1.2
-
-Særskilte forventninger................................................................................................4
-
-2
-
-Mål, strategiske områder og styringsinformasjon...............................................................6
-
-3
-
-Tildeling ............................................................................................................................10
-
-4
-
-5
-
-3.1
-
-Driftsmidler ................................................................................................................10
-
-3.2
-
-Oversikt over oppdrag for 2025 .................................................................................13
-
-3.3
-
-Avsetning til usikker framdrift – kap. 285 post 75 ......................................................15
-
-3.4
-
-Fullmakter ..................................................................................................................15
-
-Andre forutsetninger og krav ............................................................................................15
-4.1
-
-Fellesføringer fra regjeringen ....................................................................................15
-
-4.2
-
-Andre krav .................................................................................................................16
-
-Rapportering og resultatoppfølging for 2025....................................................................17
-5.1
-
-Årsrapport 2025 .........................................................................................................17
-
-5.2
-
-Innspill til de årlige statsbudsjettmilepælene .............................................................18
-
-5.3
-
-Etatsstyringsmøtet 2025 ............................................................................................19
-
-5.4
-
-Frister ........................................................................................................................19
-
+    1.1     Regjeringens prioriteringer ..........................................................................................3
+    1.2     Særskilte forventninger................................................................................................4
+2     Mål, strategiske områder og styringsinformasjon...............................................................6
+3     Tildeling ............................................................................................................................10
+    3.1     Driftsmidler ................................................................................................................10
+    3.2     Oversikt over oppdrag for 2025 .................................................................................13
+    3.3     Avsetning til usikker framdrift – kap. 285 post 75 ......................................................15
+    3.4     Fullmakter ..................................................................................................................15
+4     Andre forutsetninger og krav ............................................................................................15
+    4.1     Fellesføringer fra regjeringen ....................................................................................15
+    4.2     Andre krav .................................................................................................................16
+5     Rapportering og resultatoppfølging for 2025....................................................................17
+    5.1     Årsrapport 2025 .........................................................................................................17
+    5.2     Innspill til de årlige statsbudsjettmilepælene .............................................................18
+    5.3     Etatsstyringsmøtet 2025 ............................................................................................19
+    5.4     Frister ........................................................................................................................19
 Tildelingsbrev til Norges forskningsråd 2025 del 2 – Kunnskapsdepartementet som
 sektordepartement ...............................................................................................................22
-1
+1     Innledning.........................................................................................................................22
+2     Mål, strategiske områder og styringsinformasjon.............................................................22
+    2.1      Sektorpolitiske prioriteringer fra Kunnskapsdepartementet......................................22
+    2.2      Styringsinformasjon ..................................................................................................22
+3     Tildeling ...........................................................................................................................23
+    3.1      Kap. 285 ...................................................................................................................23
+    3.2      Kap. 201, post 70 .....................................................................................................26
+    3.3      Kap. 226, post 71 .....................................................................................................27
+4     Rapportering og resultatoppfølging for 2025 ...................................................................27
+    4.1      Årsrapport.................................................................................................................27
+    4.2      Innspill til de årlige statsbudsjettmilepælene ............................................................28
+    4.3      Styringsmøter 2025 ..................................................................................................28
 
-Innledning.........................................................................................................................22
+ Side 2
 
-2
-
-Mål, strategiske områder og styringsinformasjon.............................................................22
-
-3
-
-4
-
-2.1
-
-Sektorpolitiske prioriteringer fra Kunnskapsdepartementet......................................22
-
-2.2
-
-Styringsinformasjon ..................................................................................................22
-
-Tildeling ...........................................................................................................................23
-3.1
-
-Kap. 285 ...................................................................................................................23
-
-3.2
-
-Kap. 201, post 70 .....................................................................................................26
-
-3.3
-
-Kap. 226, post 71 .....................................................................................................27
-
-Rapportering og resultatoppfølging for 2025 ...................................................................27
-4.1
-
-Årsrapport.................................................................................................................27
-
-4.2
-
-Innspill til de årlige statsbudsjettmilepælene ............................................................28
-
-4.3
-
-Styringsmøter 2025 ..................................................................................................28
-
-Side 2
+[Side 3]
 
 Tildelingsbrev til Norges forskningsråd 2025 Del 1 –
 Kunnskapsdepartementet som etatsstyrer
-1.1
 
-Regjeringens prioriteringer
-
+1.1       Regjeringens prioriteringer
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
@@ -209,7 +105,8 @@ rette for at det skal bli mer forskningssamarbeid mellom sivil og militær sekto
 skal være frivillig og ivareta akademisk frihet.
 Norge har siden 2005 hatt et mål om å heve det samlede nivået på FoU-innsatsen til tre pst.
 av BNP. I dette målet inngår både offentlig finansiert FoU og næringslivets FoU-innsats, hvor
-næringslivets innsats skal utgjøre to pst. Norge har de senere årene hatt en samlet FoUinnsats på om lag to pst. av BNP, hvor nivået på offentlig finansiering av FoU har vært på
+næringslivets innsats skal utgjøre to pst. Norge har de senere årene hatt en samlet FoU-
+innsats på om lag to pst. av BNP, hvor nivået på offentlig finansiering av FoU har vært på
 cirka en pst. og i tråd med målsettingen. Utfordringen er dermed å øke næringslivets
 investeringer i FoU som fortsatt er betydelig lavere enn målsettingen. Våren 2024 la
 regjeringen fram Strategi for å øke næringslivets investeringer i forskning og utvikling2, og
@@ -220,9 +117,12 @@ videreutviklingen av det næringsrettede virkemiddelapparatet gjennom prosjektet
 Virkemiddelapparatet 2.0.
 
 1 Meld. St. 5 Langtidsplan for forskning og høyere utdanning 2023–2032 - Innst. 170 S (2022–2023)
+
 2 Strategi for å øke næringslivets investeringer i forskning og utvikling
 
-Side 3
+ Side 3
+
+[Side 4]
 
 Regjeringen forventer at Norges forskningsråd følger opp mål og tiltak i Handlingsplan for
 norsk fagspråk i akademia3. HK-dir har veiledningsansvar for språkkravene som ble innført 1.
@@ -233,6 +133,7 @@ muliggjør eksperimentell tungregning- og KI-forskning skal styrke innovasjon i 
 og offentlig sektor, samt sikre at teknologien brukes ansvarlig og bærekraftig. Regjeringen
 forventer at Norges forskningsråd følger de etiske prinsippene for ansvarlig og pålitelig KI, jf.
 Nasjonal digitaliseringsstrategi 2024–20304.
+
 Regjeringens nye nasjonale digitaliseringsstrategi (2024–2030) legger opp til å øke
 datadelingen og utnytte mulighetene i data og datadrevet innovasjon i offentlig sektor. En
 viktig forutsetning for å lykkes er at alle Kunnskapsdepartementets virksomheter øker
@@ -241,10 +142,7 @@ Gjennom KUDAF-programmet har HK-dir utviklet felles spilleregler og tjenester so
 virksomhetene bør benytte for å dele data for analyse, innsikt og innovasjon, og bidra til en
 sterkere kultur for samarbeid om data.
 
-1.2
-
-Særskilte forventninger
-
+1.2       Særskilte forventninger
 Overgang til ny budsjettmodell
 Arbeidet med ny budsjettmodell har vært en sentral del av oppfølgingen av
 økonomisituasjonen i Forskningsrådet. Forskningsrådet må ha gode rammevilkår for å løse
@@ -264,11 +162,16 @@ porteføljestyringen og utlysningene til prosjekter understøtter jevn aktivitet
 følge av normal syklisk tildelingsprofil. Forskningsrådet må videre påse at de samlede
 forpliktelsene som forfaller etter vedkommende budsjettår, ikke overstiger Stortingets
 tilsagnsfullmakt.
+
 3 Handlingsplan for norsk fagspråk i akademia
+
 4 Nasjonal digitaliseringsstrategi 2024-2030
+
 5 Digitaliseringsrundskrivet – regjeringen.no
 
-Side 4
+ Side 4
+
+[Side 5]
 
 For øvrig er det viktig at forskningsmidler så raskt som mulig kommer til anvendelse i tråd
 med føringer som er gitt, samtidig som det opprettholdes god kvalitet i søknads- og
@@ -312,7 +215,9 @@ at kunnskap deles mer og tas raskere i bruk enn i dag. Dette vil kreve nye virke
 endret innretning av eksisterende virkemidler, nye samarbeidsrelasjoner og endrede behov
 for samordning. Sentrale spørsmål er hvor ansvaret ligger i overgangen mellom forskning og
 
-Side 5
+ Side 5
+
+[Side 6]
 
 implementering av resultater, herunder å vurdere hvilke forskningsresultater som er
 relevante for bestemte utfordringer, og hvordan vi kan sikre at overgangen går mest mulig
@@ -321,10 +226,12 @@ dette. Forskningsrådet har et nasjonalt ansvar for forskningsformidling og skal
 resultater fra forskningen tas i bruk. Kunnskapsdepartementet vil ha videre dialog med
 Forskningsrådet om å ta kunnskap i bruk generelt, og mer konkret for å avklare forventninger
 og rådets rolle fremover når det gjelder de europeiske og nasjonale samfunnsoppdragene.
+
 De målrettede samfunnsoppdragene, som ble lansert av regjeringen i langtidsplanen for
 forskning og høyere utdanning 2023–2032, jf. Meld. St. 5 (2022–2023), er et eksempel på et
 policyinstrument hvor det kan være sentralt å ha oppmerksomhet på hvordan relevante
 forskningsresultater kan tas i bruk.
+
 Strategisk rådgivning
 For departementene er det avgjørende at Forskningsrådets råd er kunnskapsbaserte,
 relevante og forståelige, og at de kommer til riktig tid. Departementet forventer at
@@ -342,42 +249,36 @@ Departementet forventer at Forskningsrådet vurderer hvordan rådet kan forbedre
 av egne data som en del av kunnskapsgrunnlaget for rådgivning. Dette er en viktig
 forutsetning for god kunnskapsbasert rådgivning som også er sentralt i rådets nye strategi.
 
-2
-
-Mål, strategiske områder og styringsinformasjon
+2    Mål, strategiske områder og styringsinformasjon
 
 Nedenfor følger omtale av mål, strategiske områder og styringsinformasjon for
 Forskningsrådets virksomhet i 2025. Mål og strategiske områder er det samme som for
 2024. Deler av den faste styringsinformasjonen er justert, og tilleggsinformasjonen er ny for
 2025.
+
 Mål 1 Økt vitenskapelig kvalitet
 Forskningsrådet skal tildele etter konkurranse, og skal identifisere og støtte forskning av høy
 vitenskapelig kvalitet. Forskningsrådet skal også bidra til å forbedre den vitenskapelige
 kvaliteten i det enkelte forskningsmiljø eller på det enkelte forskningsområde.
 Strategisk område: Verdensledende fagmiljøer
 
-Side 6
+ Side 6
+
+[Side 7]
 
 Forskningsrådet skal mobilisere talentene, bidra til kvalitetsutvikling og legge til rette for at
 potensialet i de fremste miljøene virkeliggjøres.
 Styringsinformasjon
 Fast monitorering:
-•
-•
-•
-
-Utvikling i publisering og siteringer fra Forskningsrådets prosjekter sammenlignet med
-nasjonale tall, med vekt på utvalgte dimensjoner.
-Utvikling i åpen publisering i Forskningsrådets prosjekter sammenlignet med
-nasjonale tall.
-Volum på søknader og tildelte ERC-stipend, samt karakter for søknader, jf. mål 4.
-
+   •      Utvikling i publisering og siteringer fra Forskningsrådets prosjekter sammenlignet med
+          nasjonale tall, med vekt på utvalgte dimensjoner.
+   •      Utvikling i åpen publisering i Forskningsrådets prosjekter sammenlignet med
+          nasjonale tall.
+   •      Volum på søknader og tildelte ERC-stipend, samt karakter for søknader, jf. mål 4.
 Tilleggsinformasjon 2025:
-•
-
-Oppdatert statusrapport for arbeidet med omleggingen av FRIPRO til løpende
-søknadsmottak, behandling og tildeling med vekt på erfaringer i sektoren og
-Forskningsrådet og innvirkning på kvalitet, antall søknader og tildelingsprosent.
+   •      Oppdatert statusrapport for arbeidet med omleggingen av FRIPRO til løpende
+          søknadsmottak, behandling og tildeling med vekt på erfaringer i sektoren og
+          Forskningsrådet og innvirkning på kvalitet, antall søknader og tildelingsprosent.
 
 Strategisk område: Identifisering og stimulering av vitenskapelig kvalitet generelt
 Forskningsrådet skal sikre god vitenskapelig kvalitet i alle sine tildelinger. Forskningsrådet
@@ -385,17 +286,12 @@ skal også bidra til fornyelse ved å identifisere potensial for kvalitet og sti
 kvalitetsutvikling i forskningen.
 Styringsinformasjon
 Fast monitorering:
-•
-
-Søknadsdata og resultater fra fagfellevurderingene (karakterer).
-
+   •      Søknadsdata og resultater fra fagfellevurderingene (karakterer).
 Tilleggsinformasjon 2025:
-•
-
-Forskningsrådets vurderinger av hvordan anbefalinger og konsekvenser for videre
-fag- og disiplinutvikling bør følges opp, som følge av fagevalueringene innenfor
-livsvitenskap (Biovitenskap + Medisin og helse) og naturvitenskap og teknologi
-(Naturvitenskap + Matematikk, IKT og teknologi).
+   •      Forskningsrådets vurderinger av hvordan anbefalinger og konsekvenser for videre
+          fag- og disiplinutvikling bør følges opp, som følge av fagevalueringene innenfor
+          livsvitenskap (Biovitenskap + Medisin og helse) og naturvitenskap og teknologi
+          (Naturvitenskap + Matematikk, IKT og teknologi).
 
 Mål 2 Økt verdiskaping i næringslivet
 Forskningsrådet skal utløse FoU som, på kort og/eller lang sikt, skal øke den samlede
@@ -406,32 +302,25 @@ næringslivet. Forskningsrådet skal utløse økt FoU-innsats i bedriftene og ø
 prosjektene.
 Styringsinformasjon
 Fast monitorering:
-•
+   •      Forskningsrådets vurdering av bedrifts- og samfunnsøkonomisk effekt.
 
-Side 7
+ Side 7
 
-Forskningsrådets vurdering av bedrifts- og samfunnsøkonomisk effekt.
+[Side 8]
 
-•
-•
-
-Kun i oddetallsår: FoU-innsatsen i foretakene med støtte sammenlignet med FoUinnsatsen i foretakene med avslåtte søknader som er vurdert som gode
-Kun i oddetallsår: Utvikling i FoU-innsats for foretak med støtte
+   •      Kun i oddetallsår: FoU-innsatsen i foretakene med støtte sammenlignet med FoU-
+          innsatsen i foretakene med avslåtte søknader som er vurdert som gode
+   •      Kun i oddetallsår: Utvikling i FoU-innsats for foretak med støtte
 
 Strategisk område: Styrket evne til omstilling i norsk økonomi
 Forskningsrådet skal identifisere, bygge opp kunnskap og legge til rette for utvikling av
 forskningsmiljøer på områder som er viktige for omstilling i økonomien.
 Styringsinformasjon
 Fast monitorering:
-•
-
-Forskningsrådets vurdering av sitt bidrag til å styrke omstillingsevnen i norsk økonomi
-
+   •      Forskningsrådets vurdering av sitt bidrag til å styrke omstillingsevnen i norsk økonomi
 Tilleggsinformasjon 2025:
-•
-
-Hvordan Forskningsrådets næringslivsportefølje treffer næringslivet i ulike deler av
-landet og ulike bransjer.
+   •      Hvordan Forskningsrådets næringslivsportefølje treffer næringslivet i ulike deler av
+          landet og ulike bransjer.
 
 Strategisk område: Bedre samspill og kunnskapsoverføring mellom FoU-miljøer og
 næringsliv
@@ -443,42 +332,29 @@ finansierte institusjoner kommer til bedre utnyttelse i næringslivet, blant ann
 kommersialisering av forskningsresultater.
 Styringsinformasjon
 Fast monitorering:
-•
-•
-
-Forskningsrådets vurdering av sitt bidrag for å styrke kunnskapsoverføring og
-samspill mellom foretak og forskningsinstitusjoner
-Private investeringer i kommersialiseringsprosjekter med støtte fra Forskningsrådet
-ved offentlig finansierte forskningsinstitusjoner
-
+   •      Forskningsrådets vurdering av sitt bidrag for å styrke kunnskapsoverføring og
+          samspill mellom foretak og forskningsinstitusjoner
+   •      Private investeringer i kommersialiseringsprosjekter med støtte fra Forskningsrådet
+          ved offentlig finansierte forskningsinstitusjoner
 Tilleggsinformasjon 2025:
-•
-
-Forskningsrådets vurdering av resultatene av arbeidet med å følge opp de relevante
-tiltakene i strategien for å øke næringslivets investeringer i forskning og utvikling.
+   •      Forskningsrådets vurdering av resultatene av arbeidet med å følge opp de relevante
+          tiltakene i strategien for å øke næringslivets investeringer i forskning og utvikling.
 
 Mål 3 Møte store samfunnsutfordringer
 Forskningsrådet skal finansiere forskning som er nyttig for samfunnet, og for å møte de store
 samfunnsutfordringene. Langtidsplanen for forskning og høyere utdanning har seks
 tematiske prioriteringer:
-•
+   •      Hav og kyst
 
-Side 8
+ Side 8
 
-Hav og kyst
+[Side 9]
 
-•
-•
-•
-•
-•
-
-Helse
-Klima, miljø og energi
-Muliggjørende og industrielle teknologier
-Samfunnssikkerhet og beredskap
-Tillit og fellesskap
-
+   •      Helse
+   •      Klima, miljø og energi
+   •      Muliggjørende og industrielle teknologier
+   •      Samfunnssikkerhet og beredskap
+   •      Tillit og fellesskap
 Styringsinformasjon
 Forskningsrådet skal rapportere på sitt bidrag til tilstanden og utviklingen innenfor de seks
 tematiske prioriteringene i Langtidsplan for forskning og høyere utdanning. Det bør være en
@@ -487,6 +363,7 @@ mål tre.
 Forskningsrådet skal gjøre kvalitative vurderinger av egen innsats og rolle innenfor de
 tematiske prioriteringene og styringsinformasjonen skal settes inn i en kontekst som viser
 Forskningsrådets merverdi.
+
 Mål 4 Velfungerende forskningssystem
 Forskningsrådet skal legge til rette for at forskningsressurser og - resultater utnyttes best
 mulig. Forskningsrådet skal bidra til å utvikle det nasjonale forskningssystemet, til styrket
@@ -496,36 +373,29 @@ Forskningsrådet skal bidra til å mobilisere til økt deltakelse i rammeprogram
 søknadene i større grad kvalifiserer til støtte.
 Styringsinformasjon
 Fast monitorering:
-•
-
-Deltakelsen i EU-prosjekter langs ulike dimensjoner. Skal ses i sammenheng med
-deltakelsen i Forskningsrådets satsinger.
-
+   •      Deltakelsen i EU-prosjekter langs ulike dimensjoner. Skal ses i sammenheng med
+          deltakelsen i Forskningsrådets satsinger.
 Tilleggsinformasjon 2025:
-•
-
-Analyse av EUs forskningsprioriteringer, tematisk og strukturell profil på norsk retur
-og satsinger i Forskningsrådet. Skal gi kunnskapsgrunnlag for bedre samspill og
-arbeidsdeling mellom EU-midler og nasjonale midler samt mer effektiv bruk av
-Forskningsrådets midler.
+   •      Analyse av EUs forskningsprioriteringer, tematisk og strukturell profil på norsk retur
+          og satsinger i Forskningsrådet. Skal gi kunnskapsgrunnlag for bedre samspill og
+          arbeidsdeling mellom EU-midler og nasjonale midler samt mer effektiv bruk av
+          Forskningsrådets midler.
 
 Strategisk område: Strukturerende endringer
 Forskningsrådet skal stimulere til endringer som gjør forskningssystemet bedre i stand til å
 svare på forventningene i forskningspolitikken.
 Styringsinformasjon
 Fast monitorering:
-•
+   •      Samspill og samarbeid i forskningssystemet. Monitorere samarbeidsmønstre i
+          Forskningsrådets prosjekter.
 
-Side 9
+ Side 9
 
-Samspill og samarbeid i forskningssystemet. Monitorere samarbeidsmønstre i
-Forskningsrådets prosjekter.
+[Side 10]
 
 Tilleggsinformasjon 2025:
-•
-
-Resultat av Forskningsrådets gjennomgang av virkemidler for å vurdere om det er
-lagt tilstrekkelig til rette for samhandling på tvers av forskningssektorer.
+    •     Resultat av Forskningsrådets gjennomgang av virkemidler for å vurdere om det er
+          lagt tilstrekkelig til rette for samhandling på tvers av forskningssektorer.
 
 Mål 5 God rådgivning
 Forskningsrådet skal gi råd som grunnlag for utforming av forskningspolitikken (herunder
@@ -533,20 +403,14 @@ sektorvise problemstillinger), og for hvordan de gjeldende forskningspolitiske p
 bør følges opp.
 Strategisk område: Relevante og velbegrunnede forskningspolitiske råd til departementene
 Styringsinformasjon
-•
+    •     En kvalitativ vurdering av hvordan Forskningsrådet forbedrer utnyttelsen av egne
+          data som en del av kunnskapsgrunnlaget for rådgiving, med særlig vekt på
+          budsjettforslagene
+    •     En kvalitativ vurdering av hvordan Forskningsrådet har fulgt opp føringen om å gi
+          myndighetene helhetlige og uavhengige forskningspolitiske råd, som grunnlag for
+          utforming av forskningspolitikken, utover egne bevilgninger og virkemidler
 
-En kvalitativ vurdering av hvordan Forskningsrådet forbedrer utnyttelsen av egne
-data som en del av kunnskapsgrunnlaget for rådgiving, med særlig vekt på
-budsjettforslagene
-En kvalitativ vurdering av hvordan Forskningsrådet har fulgt opp føringen om å gi
-myndighetene helhetlige og uavhengige forskningspolitiske råd, som grunnlag for
-utforming av forskningspolitikken, utover egne bevilgninger og virkemidler
-
-•
-
-3
-
-Tildeling
+3       Tildeling
 
 Kunnskapsdepartementet stiller med dette midlene nevnt nedenfor til disposisjon for
 Forskningsrådet i 2025. Forskningsrådet har fullmakt til å disponere midlene innenfor
@@ -556,38 +420,24 @@ målene og realisere oppdragene. Departementet tar forbehold om at Stortinget ka
 budsjettendringer i løpet av 2025. Avvik fra spesifikke føringer i tildelingsbrevet og/eller
 vesentlige omdisponeringer skal alltid tas opp med departementet som tildeler midler.
 
-3.1
+3.1      Driftsmidler
 
-Driftsmidler
-
-Kap. 285 Norges forskningsråd
-
-Kroner
-
-Post 01
-
-Driftsutgifter
-
-804 120 000
-
-Post 21
-
-Særskilte driftsutgifter
-
-47 214 000
-
-Sum
-
-851 334 000
+ Kap. 285 Norges forskningsråd                                                     Kroner
+ Post 01     Driftsutgifter                                                  804 120 000
+ Post 21     Særskilte driftsutgifter                                         47 214 000
+ Sum                                                                         851 334 000
 
 Forskningsrådet er bruttobudsjettert og inngår i nettoføringsordningen for budsjettering og
 regnskapsføring av merverdiavgift i statsforvaltningen. Tildelingen på post 01 og 21 skulle
 derfor i utgangspunktet vært ekskl. merverdiavgift. Ved en inkurie ble ikke tildelingen på post
 01 og 21 nedjustert for effekten av mva.-fradraget i nettoføringsordningen for merverdiavgift i
-2025. Forskningsrådet må planlegge for at post 01 og 21 nedjusteres med effekten av mva.fradraget i nettoføringsordningen for merverdiavgift i revidert nasjonalbudsjett for 2025. Se
+2025. Forskningsrådet må planlegge for at post 01 og 21 nedjusteres med effekten av mva.-
+fradraget i nettoføringsordningen for merverdiavgift i revidert nasjonalbudsjett for 2025. Se
 omtale i tabell under pkt. 5.4.
 
-Side 10
+ Side 10
+
+[Side 11]
 
 Bevilgningen på kap. 285 post 01 og post 21 skal dekke utgifter til drift av Forskningsrådet,
 dvs. bevilgning som ikke er tilskuddsmidler gjennom Forskningsrådet.
@@ -618,89 +468,51 @@ oppfølging av satsingen Fremtidens databehandling og 2 000 000 kroner for å de
 utredningsbehov. Bruk av midlene til utredning avklares i dialog med
 Kunnskapsdepartementet.
 Endringer på post 01:
--
+   -   En økning på 700 000 kroner i forbindelse med at Forskningsrådet overtar oppgaven
+       med å foreslå kandidater til de regionale komiteene for medisinsk og helsefaglig
+       forskningsetikk (REK) og regionale komiteer for utprøving av legemidler og medisinsk
+       utstyr (REK KULMU). Forskningsrådet overtar oppgaven med å foreslå kandidater til
+       komiteene, på lik linje med oppgaven de allerede har for de nasjonale
+       forskningsetiske komiteene og Granskningsutvalget. Formålet med å delegere
+       oppgaven er å sikre at de mest kompetente kandidatene oppnevnes til komiteene,
+       samt å sikre en mer effektiv oppnevningsprosess for hele det forskningsetiske
+       komitesystemet.
+   -   En reduksjon på 1 038 000 kroner som følge av at arbeidet med å gjennomføre
+       en naturvitenskapelig fagfellevurdering av fagsystemet for økologisk tilstand er
+       avsluttet. Midlene føres tilbake til Klima- og miljødepartementets budsjett.
 
-En økning på 700 000 kroner i forbindelse med at Forskningsrådet overtar oppgaven
-med å foreslå kandidater til de regionale komiteene for medisinsk og helsefaglig
-forskningsetikk (REK) og regionale komiteer for utprøving av legemidler og medisinsk
-utstyr (REK KULMU). Forskningsrådet overtar oppgaven med å foreslå kandidater til
-komiteene, på lik linje med oppgaven de allerede har for de nasjonale
-forskningsetiske komiteene og Granskningsutvalget. Formålet med å delegere
-oppgaven er å sikre at de mest kompetente kandidatene oppnevnes til komiteene,
-samt å sikre en mer effektiv oppnevningsprosess for hele det forskningsetiske
-komitesystemet.
+ Side 11
 
--
+[Side 12]
 
-En reduksjon på 1 038 000 kroner som følge av at arbeidet med å gjennomføre
-en naturvitenskapelig fagfellevurdering av fagsystemet for økologisk tilstand er
-avsluttet. Midlene føres tilbake til Klima- og miljødepartementets budsjett.
-
-Side 11
-
--
-
-Videreføring av den særskilte bevilgningen på 4 000 000 kroner fra 2024 til
-arbeidet med å redusere risiko ved overgangen til ny budsjettmodell.
+   -   Videreføring av den særskilte bevilgningen på 4 000 000 kroner fra 2024 til
+       arbeidet med å redusere risiko ved overgangen til ny budsjettmodell.
 
 Endringer på post 21:
--
+   -   En økning på 5 000 000 kroner for å bidra til videre fremdrift og kontinuitet i
+       samfunnsoppdraget om bærekraftig fôr. Midlene skal gå til dette arbeidet, og
+       blant annet dekke sekretariatsfunksjonen som Forskningsrådet skal være
+       vertskap for og en nasjonal konferanse om bærekraftig fôr.
+   -   En økning på 2 595 000 kroner for å videreføre oppdraget fra Nærings- og
+       fiskeridepartementet om å administrere arbeidsgiveransvar og faglig oppfølging
+       av en nasjonal ekspert til Europakommisjonen DG Research and Innovation.
+   -   En økning på 5 000 000 kroner for å videreføre oppdraget fra Nærings- og
+       fiskeridepartementet om å følge opp mineralstrategien til regjeringen.
+   -   En økning på 2 076 000 kroner for å videreføre oppdraget fra
+       Samferdselsdepartementet om å følge opp tiltak i Nasjonal transportplan.
+   -   En teknisk flytting på 13 300 000 kroner fra Nærings- og fiskeridepartementets
+       budsjett til drift av Teknologirådet.
+   -   En teknisk flytting på 6 643 000 kroner fra Kunnskapsdepartementets kap. 285,
+       post 52 til finansiering av Kilden.
+   -   En økning på 500 000 kroner fra Barne- og familiedepartementets budsjett i
+       forbindelse med gjennomføring av samfunnsoppdraget om å inkludere barn og
+       unge.
 
-En økning på 5 000 000 kroner for å bidra til videre fremdrift og kontinuitet i
-samfunnsoppdraget om bærekraftig fôr. Midlene skal gå til dette arbeidet, og
-blant annet dekke sekretariatsfunksjonen som Forskningsrådet skal være
-vertskap for og en nasjonal konferanse om bærekraftig fôr.
-
--
-
-En økning på 2 595 000 kroner for å videreføre oppdraget fra Nærings- og
-fiskeridepartementet om å administrere arbeidsgiveransvar og faglig oppfølging
-av en nasjonal ekspert til Europakommisjonen DG Research and Innovation.
-
--
-
-En økning på 5 000 000 kroner for å videreføre oppdraget fra Nærings- og
-fiskeridepartementet om å følge opp mineralstrategien til regjeringen.
-
--
-
-En økning på 2 076 000 kroner for å videreføre oppdraget fra
-Samferdselsdepartementet om å følge opp tiltak i Nasjonal transportplan.
-
--
-
-En teknisk flytting på 13 300 000 kroner fra Nærings- og fiskeridepartementets
-budsjett til drift av Teknologirådet.
-
--
-
-En teknisk flytting på 6 643 000 kroner fra Kunnskapsdepartementets kap. 285,
-post 52 til finansiering av Kilden.
-
--
-
-En økning på 500 000 kroner fra Barne- og familiedepartementets budsjett i
-forbindelse med gjennomføring av samfunnsoppdraget om å inkludere barn og
-unge.
-
-Kap. 3285 Norges forskningsråd
-Kroner
-Post 01
-
-Inntekter fra oppdrag
-
-12 100 000
-
-Post 02
-
-Inntekter fra refusjoner mv.
-
-11 900 000
-
-Sum
-
-24 000 000
-
+ Kap. 3285 Norges forskningsråd
+                                                                   Kroner
+ Post 01   Inntekter fra oppdrag                                   12 100 000
+ Post 02   Inntekter fra refusjoner mv.                            11 900 000
+ Sum                                                               24 000 000
 Inntektene på post 01 gjelder inntekter Norges forskningsråd får fra oppdragsvirksomhet.
 Inntektene på post 02 gjelder inntekter Norges forskningsråd får innbetalt i form av
 refusjoner mv.
@@ -709,180 +521,131 @@ Bevilgningen på kap. 285, post 21 kan overskrides mot tilsvarende merinntekter 
 merinntekt på kap. 3285, post 02. Merinntekter som gir grunnlag for overskridelser av
 utgiftsbevilgninger, skal også dekke merverdiavgift knyttet til overskridelsen og påvirker
 
-Side 12
+ Side 12
+
+[Side 13]
 
 derfor også kap. 1633, post 01 for statlige forvaltningsorganer som inngår i
 nettoordningen for merverdiavgift.
 
-3.2
-
-Oversikt over oppdrag for 2025
-
+3.2    Oversikt over oppdrag for 2025
 Her samles nye oppdrag for 2025, der økte driftsutgifter dekkes av departementene, som
 departementene har meldt inn til Kunnskapsdepartementet i forbindelse med arbeidet med
 tildelingsbrev for 2025.
 
-Oppdrag
+ Oppdrag                      Departe   Utfyllende informasjon
+                              ment
 
-Departe
+ HelseOmsorg21-monitor        HOD       HOD viser til regjeringens Kvinnehelsestrategi og ønsker
+                                        at HelseOmsorg21-monitoren også skal inneholde
+ og kvinnehelse
+                                        kjønnsvariabler. Det bes om at det gjøres en utredning ila.
+                                        av 2025 om hvordan en skal få dette til med hensyn til av
+                                        hva som er relevant og praktisk gjennomførbart, med
+                                        hensyn til datainnhenting fra Forskningsrådet og andre
+                                        aktuelle finansieringskilder. Det settes av inntil 900 000
+                                        kroner til oppdraget for midler øremerket til
+                                        HelseOmsorg21-monitoren. Det tas sikte på å
+                                        rammeoverføre beløpet til KDs kap. 285 post 21 i
+                                        forbindelse med revidert nasjonalbudsjett for 2025.
 
-Utfyllende informasjon
+ Programmet for et digitalt   DFD       Digitaliseringsdirektoratet, Innovasjon Norge og Norges
+                                        forskningsråd har sammen det daglige ansvaret for
+ Europa (DIGITAL)
+                                        oppfølging av norsk deltakelse i DIGITAL.
+                                        Det tas sikte på å rammeoverføre 1 mill. kroner fra DFDs
+                                        kap. 1541 post 22 til KDs kap. 285 post 21, til
+                                        Forskningsrådets drift av nasjonalt koordineringspunkt for
+                                        DIGITAL, i forbindelse med revidert nasjonalbudsjett for
+                                        2025. Vi viser til DFDs tildelingsbrev til Forskningsrådet
+                                        for 2025, for å utdypende omtale.
 
-ment
-HelseOmsorg21-monitor
+ Nasjonaljubileet 2030        KD        KD ber Forskningsrådet om å gjøre en vurdering av
+                                        forskningsbehovet og ev. behov for en egen
+                                        forskningssatsing i Forskningsrådet knyttet til
+                                        Nasjonaljubileet 2030. Dette skal gjennomføres innenfor
+                                        egne rammer.
 
-HOD
+ Svarbardkonferansen          KD        KD tar sikte på å flytte 700 000 kroner til kap. 285 post 21,
+                                        for gjennomføring av Svalbardkonferansen, i forbindelse
+                                        med revidert nasjonalbudsjett for 2025.
 
-HOD viser til regjeringens Kvinnehelsestrategi og ønsker
-at HelseOmsorg21-monitoren også skal inneholde
-kjønnsvariabler. Det bes om at det gjøres en utredning ila.
-av 2025 om hvordan en skal få dette til med hensyn til av
-hva som er relevant og praktisk gjennomførbart, med
-hensyn til datainnhenting fra Forskningsrådet og andre
-aktuelle finansieringskilder. Det settes av inntil 900 000
-kroner til oppdraget for midler øremerket til
-HelseOmsorg21-monitoren. Det tas sikte på å
-rammeoverføre beløpet til KDs kap. 285 post 21 i
-forbindelse med revidert nasjonalbudsjett for 2025.
+ Evaluering av SpedAims       KD        KD tar sikte på å flytte 125 000 kroner til kap. 285 post 21,
+                                        for at Forskningsrådet kan gjennomføre en evaluering av
+                                        SpedAims – senter for forskning på spesialpedagogikk og
+                                        inkludering i 2025, i forbindelse med revidert
+                                        nasjonalbudsjett for 2025.
 
-DFD
+ Side 13
 
-Digitaliseringsdirektoratet, Innovasjon Norge og Norges
-forskningsråd har sammen det daglige ansvaret for
-oppfølging av norsk deltakelse i DIGITAL.
+[Side 14]
 
-og kvinnehelse
+Talentsenter i realfag       KD       Talentsenterordningen utvides med lærerkurs på alle
+                                      talentsentrene, slik at den kompetansen som
+                                      talentsentrene har opparbeidet seg, kommer flere elever
+                                      til gode. Talentsentrene skal også reise ut til skolene for å
+                                      bistå lærerne i arbeidet med å lage gode
+                                      undervisningsopplegg. Se omtale under punkt 3.3, i del 2
+                                      av dette tildelingsbrevet, om kap.226 post 71.
+                                      KD vil ha dialog med Forskningsrådet om dekning av
+                                      driftskostnader til ordningen, og det tas sikte på å
+                                      håndtere dette i forbindelse med revidert nasjonalbudsjett
+                                      for 2025.
 
-Programmet for et digitalt
-Europa (DIGITAL)
-
-Det tas sikte på å rammeoverføre 1 mill. kroner fra DFDs
-kap. 1541 post 22 til KDs kap. 285 post 21, til
-Forskningsrådets drift av nasjonalt koordineringspunkt for
-DIGITAL, i forbindelse med revidert nasjonalbudsjett for
-2025. Vi viser til DFDs tildelingsbrev til Forskningsrådet
-for 2025, for å utdypende omtale.
-Nasjonaljubileet 2030
-
-KD
-
-KD ber Forskningsrådet om å gjøre en vurdering av
-forskningsbehovet og ev. behov for en egen
-forskningssatsing i Forskningsrådet knyttet til
-Nasjonaljubileet 2030. Dette skal gjennomføres innenfor
-egne rammer.
-
-Svarbardkonferansen
-
-KD
-
-KD tar sikte på å flytte 700 000 kroner til kap. 285 post 21,
-for gjennomføring av Svalbardkonferansen, i forbindelse
-med revidert nasjonalbudsjett for 2025.
-
-Evaluering av SpedAims
-
-KD
-
-KD tar sikte på å flytte 125 000 kroner til kap. 285 post 21,
-for at Forskningsrådet kan gjennomføre en evaluering av
-SpedAims – senter for forskning på spesialpedagogikk og
-inkludering i 2025, i forbindelse med revidert
-nasjonalbudsjett for 2025.
-
-Side 13
-
-Talentsenter i realfag
-
-KD
-
-Talentsenterordningen utvides med lærerkurs på alle
-talentsentrene, slik at den kompetansen som
-talentsentrene har opparbeidet seg, kommer flere elever
-til gode. Talentsentrene skal også reise ut til skolene for å
-bistå lærerne i arbeidet med å lage gode
-undervisningsopplegg. Se omtale under punkt 3.3, i del 2
-av dette tildelingsbrevet, om kap.226 post 71.
-KD vil ha dialog med Forskningsrådet om dekning av
-driftskostnader til ordningen, og det tas sikte på å
-håndtere dette i forbindelse med revidert nasjonalbudsjett
-for 2025.
-
-KUD
-
-Forskningsrådet har fått i oppdrag å være sekretariat for
-en interdepartemental arbeidsgruppe som arbeider med å
-utvikle en tverrsektoriell FoU-strategi for likestilling, ikkediskriminering og mangfold og ta oppdrag som inngår som
-en del av arbeidet med å utvikle strategien, samt
-oppfølging av denne. Det tas sikte på å rammeoverføre
-1,6 mill. kroner til KDs kap. 285 post 21 i forbindelse med
-revidert nasjonalbudsjett for 2025.
-
-Sekretariatsfunksjon ifb.
-
-NFD og
-
-samfunnsoppdrag om
-bærekraftig fôr
-
-LMD
-
-Regjeringen har lansert et målrettet samfunnsoppdrag om
-bærekraftig fôr med mål om at innen 2034 skal alt fôr til
-oppdrettsfisk og husdyr komme fra bærekraftige kilder og
-bidra til å redusere klimagassutslippene i matsystemene.
-Samfunnsoppdraget skal bidra til å bevare naturmangfold,
-utvikle en sterk fôringrediensindustri og øke
-forsyningssikkerheten i Norge. Det er nedsatt en
-styringsgruppe som skal komme med faglige råd om
-hvordan vi skal nå målene og det er etablert et sekretariat
-som skal bistå styringsgruppen.
-
-Tverrsektoriell FoUstrategi for likestilling,
+Tverrsektoriell FoU-         KUD      Forskningsrådet har fått i oppdrag å være sekretariat for
+                                      en interdepartemental arbeidsgruppe som arbeider med å
+strategi for likestilling,
+                                      utvikle en tverrsektoriell FoU-strategi for likestilling, ikke-
 ikke-diskriminering og
-mangfold
+                                      diskriminering og mangfold og ta oppdrag som inngår som
+mangfold                              en del av arbeidet med å utvikle strategien, samt
+                                      oppfølging av denne. Det tas sikte på å rammeoverføre
+                                      1,6 mill. kroner til KDs kap. 285 post 21 i forbindelse med
+                                      revidert nasjonalbudsjett for 2025.
 
-Forskningsrådet skal i 2025 bidra til videre framdrift og
-kontinuitet i samfunnsoppdraget. Tildelingen på kap. 285
-post 21 er styrket med 5 mill. kroner, som skal dekke
-utgifter Forskningsrådet har ifm. deres
-sekretariatsfunksjon for styringsgruppen, en nasjonal
-konferanse om bærekraftig fôr, samt kostnader for
-styringsgruppa og eventuelle ekspertgrupper. Det videre
-arbeidet skal bygge på god samhandling og koordinering
-med relevante aktører.
-Evaluering av
+Sekretariatsfunksjon ifb.    NFD og   Regjeringen har lansert et målrettet samfunnsoppdrag om
+                                      bærekraftig fôr med mål om at innen 2034 skal alt fôr til
+samfunnsoppdrag om           LMD
+                                      oppdrettsfisk og husdyr komme fra bærekraftige kilder og
+bærekraftig fôr
+                                      bidra til å redusere klimagassutslippene i matsystemene.
+                                      Samfunnsoppdraget skal bidra til å bevare naturmangfold,
+                                      utvikle en sterk fôringrediensindustri og øke
+                                      forsyningssikkerheten i Norge. Det er nedsatt en
+                                      styringsgruppe som skal komme med faglige råd om
+                                      hvordan vi skal nå målene og det er etablert et sekretariat
+                                      som skal bistå styringsgruppen.
+                                      Forskningsrådet skal i 2025 bidra til videre framdrift og
+                                      kontinuitet i samfunnsoppdraget. Tildelingen på kap. 285
+                                      post 21 er styrket med 5 mill. kroner, som skal dekke
+                                      utgifter Forskningsrådet har ifm. deres
+                                      sekretariatsfunksjon for styringsgruppen, en nasjonal
+                                      konferanse om bærekraftig fôr, samt kostnader for
+                                      styringsgruppa og eventuelle ekspertgrupper. Det videre
+                                      arbeidet skal bygge på god samhandling og koordinering
+                                      med relevante aktører.
+
+Evaluering av                SD       SD ønsker å igangsette en evaluering av
+                                      transportforskningsporteføljen, inkludert Pilot-T-ordningen
 transportforskningsportef
+                                      i 2025. SD vil gå i dialog med Forskningsrådet og
 øljen
+                                      Innovasjon Norge om hvordan evalueringen skal
+                                      gjennomføres og rammene for evalueringen, herunder
+                                      økonomiske rammer, tidsplan og omfang. Evalueringen vil
+                                      være en del av kunnskapsgrunnlaget for arbeidet med ny
+                                      Nasjonal transportplan.
 
 Side 14
 
-SD
+[Side 15]
 
-SD ønsker å igangsette en evaluering av
-transportforskningsporteføljen, inkludert Pilot-T-ordningen
-i 2025. SD vil gå i dialog med Forskningsrådet og
-Innovasjon Norge om hvordan evalueringen skal
-gjennomføres og rammene for evalueringen, herunder
-økonomiske rammer, tidsplan og omfang. Evalueringen vil
-være en del av kunnskapsgrunnlaget for arbeidet med ny
-Nasjonal transportplan.
+3.3    Avsetning til usikker framdrift – kap. 285 post 75
 
-3.3
-
-Avsetning til usikker framdrift – kap. 285 post 75
-
-Kap. 285 Norges forskningsråd
-Kroner
-Post 75
-
-Avsetning til usikker fremdrift
-
-Sum
-
-500 000 000
-500 000 000
-
+ Kap. 285 Norges forskningsråd
+                                                                   Kroner
+ Post 75   Avsetning til usikker fremdrift                         500 000 000
+ Sum                                                               500 000 000
 I forbindelse med overgangen til ny budsjettmodell for Forskningsrådet er det opprettet en ny
 felles post 75, som skal håndtere usikkerhet i utbetalingstakten i departementenes bevilgning
 til forskning.
@@ -890,21 +653,15 @@ Bevilgningen på posten skal dekke uventede merutgifter som overstiger bevilgnin
 budsjettåret på tilskuddsposter under alle de aktuelle departementene. Bruken av midlene er
 begrenset til tilskuddsposter og omfatter ikke gjennomstrømmingsmidler.
 
-3.4
-
-Fullmakter
-
+3.4    Fullmakter
 Stortinget har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse med
 Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert administrativ
 fullmakt til virksomheten. Oversikt over delegerte fullmakter følger i vedlegg 3 Fullmakter
 2025 for Norges forskningsråd.
 
-4
-4.1
+4     Andre forutsetninger og krav
 
-Andre forutsetninger og krav
-Fellesføringer fra regjeringen
-
+4.1    Fellesføringer fra regjeringen
 Systematisk og helhetlig arbeid for å redusere klimagassutslipp, naturfotavtrykk og
 energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
@@ -913,6 +670,7 @@ skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og kostnads
 Forskningsrådet skal også vurdere hvordan klimaendringene vil påvirke virksomheten.
 Forskningsrådet skal gjøre systematiske vurderinger av egen energibruk og ta i bruk
 lønnsomme energieffektive løsninger, samt øke energifleksibiliteten der dette er relevant.
+
 Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og eller
 fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
@@ -921,12 +679,15 @@ funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Ar
 skal i samarbeid med de tillitsvalgte selv definere et hensiktsmessig ambisjonsnivå ut fra
 virksomhetens egenart og størrelse.
 
-Side 15
+ Side 15
+
+[Side 16]
 
 Forskningsrådet skal i årsrapporten oppgi antallet ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2025 og det totale
 antallet ansettelser i virksomheten i 2025. Forskningsrådet skal også omtale utviklingen i
 2025 sett opp mot det virksomheten har rapportert for 2024.
+
 Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Norges forskningsråd skal arbeide for å redusere konsulentbruken på områder
@@ -945,10 +706,7 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 årsregnskapet spesifisere dette nærmere. Dersom virksomheten har større kjøp av
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
-4.2
-
-Andre krav
-
+4.2    Andre krav
 Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
@@ -961,20 +719,22 @@ samfunnssikkerhet og nasjonal sikkerhet. Fra og med 2025 blir i tillegg oppgaven
 kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssektoren
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 Forskningsrådet skal i årsrapporten for 2025 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Forskningsrådet for dette arbeidet?
-2. Når reviderte Forskningsrådet sist sin ROS-analyse? Hvilke overordnede områder er
-identifisert som de med høyest risiko for virksomheten?
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Forskningsrådet for dette arbeidet?
+   2. Når reviderte Forskningsrådet sist sin ROS-analyse? Hvilke overordnede områder er
+      identifisert som de med høyest risiko for virksomheten?
 
-Side 16
+ Side 16
 
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
+[Side 17]
+
+    3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+       er gjennomført i 2025.
+    4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
+       styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+       informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+       samordnes med hverandre og med virksomhetsstyringen for øvrig.
 Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
@@ -984,6 +744,7 @@ den raske teknologiske utviklingen, forventer Kunnskapsdepartementet at Forsknin
 styrker sitt arbeid med å forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser
 og brudd på personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende
 kontinuitets- og beredskapsplaner særlig viktig.
+
 Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten6 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
@@ -993,12 +754,9 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-5
-5.1
+5     Rapportering og resultatoppfølging for 2025
 
-Rapportering og resultatoppfølging for 2025
-Årsrapport 2025
-
+5.1     Årsrapport 2025
 Kunnskapsdepartementet understreker at Forskningsrådet skal legge større vekt på
 virkninger og effekter av sin virksomhet, og mindre vekt på aktiviteter i rapporteringen.
 Nærmere krav til årsrapporten framgår av Vedlegg 1 Krav til årsrapport for Forskningsrådet
@@ -1011,31 +769,25 @@ og andre rapporteringskrav (administrative forhold og lovpålagt rapportering).
 
 6 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side 17
+ Side 17
 
-5.1.1
+[Side 18]
 
-Årsrapporten (rapport på samlet måloppnåelse)
-
+5.1.1      Årsrapporten (rapport på samlet måloppnåelse)
 I årsrapporten skal Forskningsrådet presentere all informasjon knyttet til Forskningsrådets
 måloppnåelse. Mål, strategiske områder og hvilken styringsinformasjon som Forskningsrådet
 skal rapportere på framgår i punkt 2 ovenfor.
 Når det gjelder videre utvikling av rapport på samlet måloppnåelse, framgår
 departementenes forventninger i tilbakemeldingen fra etatsstyringsmøte 2024.
-5.1.2
 
-Vedlegg til årsrapporten (departementsvise rapporter)
-
+5.1.2      Vedlegg til årsrapporten (departementsvise rapporter)
 De departementsvise rapportene skal supplere rapport på samlet måloppnåelse ved å gi
 relevant informasjon som grunnlag for departementenes styringsmøter og arbeid med
 Prop.1 S. I punktet om Rapportering og resultatoppfølging for 2025, i departementenes
 tildelingsbrev (Del 2 av dette brevet), framgår det hvilke sektorpolitiske prioriteringer det
 aktuelle departement forventer å få rapportering på.
 
-5.2
-
-Innspill til de årlige statsbudsjettmilepælene
-
+5.2     Innspill til de årlige statsbudsjettmilepælene
 Forskningsrådet er fra og med 1. januar 2025 bruttobudsjettert med tilsagnsfullmakter.
 Forskningsrådet skal ifm. forberedelser til de årlige statsbudsjettene utarbeide anslag for
 tilsagnsramme, tilsagnsfullmakt, bevilgning, samt synliggjøre oversikt over samlede flerårige
@@ -1059,46 +811,31 @@ Forskningsrådet og det aktuelle departement. Spørsmål av mer generell art, ek
 problemstillinger knyttet til selve bruttobudsjettmodellen, kan rettes til
 Kunnskapsdepartementet. Innspillene leveres jf. tabellen under:
 
-Side 18
+ Side 18
 
-Leveranser av innspill
+[Side 19]
 
-Frist
+ Leveranser av innspill                                                   Frist
+ Statsbudsjettet 2025
+ 1. Revidert nasjonalbudsjett 2025                                        14. februar 2025
+ Oppdaterte anslag for tilsagnsramme, tilsagnsfullmakt og bevilgning.
+ Oppdaterte oversikter over samlede flerårige forpliktelser.
+ 2. Nysaldering 2025                                                      15. september
+ Oppdaterte anslag for tilsagnsramme, tilsagnsfullmakt og bevilgning.     2025
+ Oppdaterte oversikter over samlede flerårige forpliktelser.
+ Statsbudsjettet 2026
+ 1. Augustkonferansen 2026-budsjettet                                     22. april 2025
+    Oppdaterte anslag for tilsagnsramme, tilsagnsfullmakt, bevilgning
+    og oversikter over samlede flerårige forpliktelser.
+ Statsbudsjettet 2027
+ 1. Marskonferansen 2027-budsjettet
+    Anslag for tilsagnsramme, tilsagnsfullmakt og bevilgning for 2027
+                                                                          8. desember
+    og fremtidige år. Oversikter over samlede flerårige forpliktelser.
+                                                                          2025
+    Anslagene skal normalt utarbeides med utgangspunkt i nullvekst.
 
-Statsbudsjettet 2025
-1. Revidert nasjonalbudsjett 2025
-Oppdaterte anslag for tilsagnsramme, tilsagnsfullmakt og bevilgning.
-Oppdaterte oversikter over samlede flerårige forpliktelser.
-
-14. februar 2025
-
-2. Nysaldering 2025
-Oppdaterte anslag for tilsagnsramme, tilsagnsfullmakt og bevilgning.
-Oppdaterte oversikter over samlede flerårige forpliktelser.
-
-15. september
-2025
-
-Statsbudsjettet 2026
-1. Augustkonferansen 2026-budsjettet
-Oppdaterte anslag for tilsagnsramme, tilsagnsfullmakt, bevilgning
-og oversikter over samlede flerårige forpliktelser.
-
-22. april 2025
-
-Statsbudsjettet 2027
-1. Marskonferansen 2027-budsjettet
-Anslag for tilsagnsramme, tilsagnsfullmakt og bevilgning for 2027
-og fremtidige år. Oversikter over samlede flerårige forpliktelser.
-Anslagene skal normalt utarbeides med utgangspunkt i nullvekst.
-
-5.3
-
-8. desember
-2025
-
-Etatsstyringsmøtet 2025
-
+5.3    Etatsstyringsmøtet 2025
 Kunnskapsdepartementet vil på etatsstyringsmøtet i 2025 ha strategisk dialog om
 Forskningsrådets måloppnåelse og forventninger om framtidig utvikling og prioriteringer,
 inkludert virksomheten i Forskningsrådet. Kunnskapsdepartementet vil i forkant involvere de
@@ -1109,212 +846,118 @@ om at strategisk viktige saker og deltakerliste sendes departementet senest en m
 etatsstyringsmøtet. Kunnskapsdepartementet vil sende Forskningsrådet dagsorden for møtet
 i god tid. Departementet forventer bred deltakelse fra Forskningsrådets styre.
 
-5.4
-
-Frister
-
+5.4    Frister
 Følgende forkortelser er brukt i tabellen under:
 KD (Kunnskapsdepartementet), NFR (Norges forskningsråd).
-Leveranse
+ Leveranse              Frist     Mottakere            Utfyllende informasjon
+ Estimat for mva.       14.       KD                   NFR skal estimere hvor mye
+                        februar                        merverdiavgiften utgjør av
+                        2025                           driftsbevilgningene på kap. 285, post 01
+                                                       og 21 basert på regnskapstall for 2024.
+                                                       Estimatet legges til grunn ved korrigering
+                                                       av bevilgningen ifb. revidert
 
-Frist
+ Side 19
 
-Mottakere
+[Side 20]
 
-Utfyllende informasjon
-
-Estimat for mva.
-
-14.
-februar
-2025
-
-KD
-
-NFR skal estimere hvor mye
-merverdiavgiften utgjør av
-driftsbevilgningene på kap. 285, post 01
-og 21 basert på regnskapstall for 2024.
-Estimatet legges til grunn ved korrigering
-av bevilgningen ifb. revidert
-
-Side 19
-
-nasjonalbudsjett for 2025, jf. omtale
-under pkt. 3.1.
-Årsrapport 2025
-(rapport på samlet
-måloppnåelse)
-
-15.
-mars
-2026
-
-Departementene,
-DBH
-
-Vedlegg til
-årsrapport
+                                                    nasjonalbudsjett for 2025, jf. omtale
+                                                    under pkt. 3.1.
+Årsrapport 2025        15.        Departementene,   Viser til punkt 5.1 over om årsrapport
+(rapport på samlet     mars       DBH               2025, samt vedlegg 1 om krav til
+måloppnåelse)          2026                         årsrapport 2025.
+Vedlegg til            1. mai     Departementene
+årsrapport             2026
 (departementsvise
 rapporter)
-
-1. mai
-2026
-
-Departementene
-
-Årsrapport for de
-samfunnsvitenskape
-lige forskningsinstituttene 2025
-
-30. juni
-2026
-
-Departementene
-
-Rapporten skal redegjøre for instituttenes
-virksomhet i 2025.
-
-Forslag til
-styringsinformasjon
-for 2026
-
-1.juli
-2025
-
-KD
-
-NFR skal levere forslag til
-styringsinformasjon for 2026 innen 1. juli
-2025.
-
-Rapportering om
-Skattefunnordningen for 2024
-
-1. mai
-2025
-
-NFD
-
-NFD ber NFR, innen 1. mai 2025,
-rapportere på hensiktsmessig måte om
-utviklingen i administrasjonen,
-godkjenninger og tilbakemeldinger fra
-brukere for Skattefunn gjennom 2024.
-
-Vedtatt budsjett for
-2025
-
-1. mars
-2025
-
-Departementene
-
-Budsjettet skal inneholde en redegjørelse
-for hvordan NFR vil følge opp de
-prioriteringer som er gitt i Prop. 1 S
-(2024–2025) og i departementenes
-tildelingsbrev. I budsjettet skal det
-avslutningsvis gis en departementsvis
-oversikt over endelig fordeling av tildelt
-budsjettramme på porteføljer og kap. og
-post. Oversikten skal gi informasjon om
-de ulike porteføljenes totale
-budsjettramme samt vise hvor stor andel
-hvert departement har i de ulike
-budsjettporteføljene.
-
-Budsjettforslag 2027
-
-1. nov.
-2025
-
-Departementene
-
-Budsjettforslaget skal inneholde:
-- Budsjettforslag 2027 innenfor nullvekst.
-Forslaget skal inkludere prognoser for
-utbetaling og forpliktelser for 2027, 2028
-og 2029 per portefølje (se over
-vedrørende budsjettformål) og per
-budsjettpost. Dersom det foreslås
-omprioriteringer innenfor post og eller
-mellom poster, skal det synliggjøres hvor
-frihetsgraden er, ev. hva som
-nedprioriteres.
-- Forslag til satsinger finansiert gjennom
-økt bevilgning.
-- Oppfølging av langtidsplanen for
-forskning og høyere utdanning.
+Årsrapport for de      30. juni   Departementene    Rapporten skal redegjøre for instituttenes
+samfunnsvitenskape     2026                         virksomhet i 2025.
+lige forsknings-
+instituttene 2025
+Forslag til            1.juli     KD                NFR skal levere forslag til
+styringsinformasjon    2025                         styringsinformasjon for 2026 innen 1. juli
+for 2026                                            2025.
+Rapportering om        1. mai     NFD               NFD ber NFR, innen 1. mai 2025,
+Skattefunn-            2025                         rapportere på hensiktsmessig måte om
+ordningen for 2024                                  utviklingen i administrasjonen,
+                                                    godkjenninger og tilbakemeldinger fra
+                                                    brukere for Skattefunn gjennom 2024.
+Vedtatt budsjett for   1. mars    Departementene    Budsjettet skal inneholde en redegjørelse
+2025                   2025                         for hvordan NFR vil følge opp de
+                                                    prioriteringer som er gitt i Prop. 1 S
+                                                    (2024–2025) og i departementenes
+                                                    tildelingsbrev. I budsjettet skal det
+                                                    avslutningsvis gis en departementsvis
+                                                    oversikt over endelig fordeling av tildelt
+                                                    budsjettramme på porteføljer og kap. og
+                                                    post. Oversikten skal gi informasjon om
+                                                    de ulike porteføljenes totale
+                                                    budsjettramme samt vise hvor stor andel
+                                                    hvert departement har i de ulike
+                                                    budsjettporteføljene.
+Budsjettforslag 2027   1. nov.    Departementene    Budsjettforslaget skal inneholde:
+                       2025                         - Budsjettforslag 2027 innenfor nullvekst.
+                                                    Forslaget skal inkludere prognoser for
+                                                    utbetaling og forpliktelser for 2027, 2028
+                                                    og 2029 per portefølje (se over
+                                                    vedrørende budsjettformål) og per
+                                                    budsjettpost. Dersom det foreslås
+                                                    omprioriteringer innenfor post og eller
+                                                    mellom poster, skal det synliggjøres hvor
+                                                    frihetsgraden er, ev. hva som
+                                                    nedprioriteres.
+                                                    - Forslag til satsinger finansiert gjennom
+                                                    økt bevilgning.
+                                                    - Oppfølging av langtidsplanen for
+                                                    forskning og høyere utdanning.
 
 Side 20
 
-Viser til punkt 5.1 over om årsrapport
-2025, samt vedlegg 1 om krav til
-årsrapport 2025.
+[Side 21]
 
-Det stilles stadig større krav til det faglige
-grunnlaget for forslag til satsinger på
-forskning og innovasjon. NFRs
-budsjettråd bør speile kunnskapsbaserte
-vurderinger av kortsiktige og langsiktige
-forskningsbehov.
+          Det stilles stadig større krav til det faglige
+          grunnlaget for forslag til satsinger på
+          forskning og innovasjon. NFRs
+          budsjettråd bør speile kunnskapsbaserte
+          vurderinger av kortsiktige og langsiktige
+          forskningsbehov.
 
 Side 21
 
+[Side 22]
+
 Tildelingsbrev til Norges forskningsråd 2025 del 2 –
 Kunnskapsdepartementet som sektordepartement
-1
 
-Innledning
+1       Innledning
 
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025,
 jf. Innst. 12 S (2024–2025), Prop. 1 S (2024–2025), sender Kunnskapsdepartementet som
 sektordepartement med dette tildelingsbrev til Norges forskningsråd.
 
-2
-
-Mål, strategiske områder og styringsinformasjon
+2       Mål, strategiske områder og styringsinformasjon
 
 Forskningsrådet har fem mål:
-•
-•
-•
-•
-•
-
-Mål 1 Økt vitenskapelig kvalitet
-Mål 2 Økt verdiskaping i næringslivet
-Mål 3 Møte store samfunnsutfordringer
-Mål 4 Et velfungerende forskningssystem
-Mål 5 God rådgivning
-
+    •    Mål 1 Økt vitenskapelig kvalitet
+    •    Mål 2 Økt verdiskaping i næringslivet
+    •    Mål 3 Møte store samfunnsutfordringer
+    •    Mål 4 Et velfungerende forskningssystem
+    •    Mål 5 God rådgivning
 Vi viser også til del 1 av dette tildelingsbrevet for en nærmere omtale av målene, strategiske
 områder og styringsinformasjon.
 
-2.1
-
-Sektorpolitiske prioriteringer fra Kunnskapsdepartementet
-
+2.1      Sektorpolitiske prioriteringer fra Kunnskapsdepartementet
 Kunnskapsdepartementet har følgende tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •    Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •    Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •    Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i
 Prop. 1 S (2024–2025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for
 å nå målene. Det er viktig med godt samspill mellom departementets underliggende
 virksomheter slik at alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Styringsinformasjon
-
+2.2      Styringsinformasjon
 Når det gjelder omtale av styringsinformasjon for de fem målene, viser vi til punkt 2 (Mål,
 strategiske områder og styringsinformasjon) i del 1 av dette tildelingsbrevet.
 Styringsinformasjon for de sektorpolitiske prioriteringene framgår i Vedlegg 1 Krav til
@@ -1322,9 +965,12 @@ Styringsinformasjon for de sektorpolitiske prioriteringene framgår i Vedlegg 1 
 for presisering av hvilke sektorpolitiske prioriteringer Kunnskapsdepartementet forventer at
 Forskningsrådet skal rapportere på.
 
-Side 22
+ Side 22
+
+[Side 23]
 
 3 Tildeling
+
 Kunnskapsdepartementet stiller med dette midlene nedenfor til disposisjon for
 Forskningsrådet i 2025. Forskningsrådet har fullmakt til å disponere midlene innenfor
 tilsagnsrammen på hver enkelt post og i tråd med styringssignalene som fremkommer av
@@ -1333,30 +979,15 @@ målene. Departementet tar forbehold om at Stortinget kan vedta budsjettendringe
 2025. Avvik fra spesifikke føringer i tildelingsbrevet og/eller vesentlige omdisponeringer skal
 alltid tas opp med departementet som tildeler midler.
 
-3.1
-
-Kap. 285
+3.1    Kap. 285
 
 For omtale av kap. 285, post 01, post 21 og post 75 vises det til del 1 av tildelingsbrevet.
 
-Kap. 285 Norges forskningsråd
-Post 71
-
-Kroner
-
-Strategiske forskningsprioriteringer
-
-Bevilgning
-
-2 950 898 000
-
-Tilsagnsfullmakt
-
-11 212 600 000
-
-Tilsagnsramme
-
-4 416 000 000
+ Kap. 285 Norges forskningsråd                                                        Kroner
+ Post 71             Strategiske forskningsprioriteringer
+ Bevilgning                                                                   2 950 898 000
+ Tilsagnsfullmakt                                                            11 212 600 000
+ Tilsagnsramme                                                                4 416 000 000
 
 Post 71 Strategiske forskningsprioriteringer erstatter tidligere post 51 Strategiske
 forskningsprioriteringer. Tildelingen skal støtte forskning med høy relevans og kvalitet på
@@ -1379,7 +1010,9 @@ kommer til utbetaling etter 2025. Tildeling og tilsagnsfullmakt gir en tilsagnsr
 på 4,416 mrd. kroner. Tilsagnsrammen er summen av nye forpliktelser som Forskningsrådet
 kan pådra staten i 2025.
 
-Side 23
+ Side 23
+
+[Side 24]
 
 Midlene på post 71 skal gå til en styrking av forskningen på kvanteteknologi gjennom
 Forskningsrådet slik at den årlige tildelingen på sikt blir 70 mill. kroner høyere enn dagens
@@ -1387,7 +1020,9 @@ innsats. Styrkingen vil bestå av 30 mill. kroner over Kunnskapsdepartementets b
 40 mill. kroner over Forsvarsdepartementets budsjett. Satsingen på kvanteteknologi skal
 innrettes slik at det blir bygd opp solide nasjonale fagmiljøer av høy internasjonal kvalitet
 som vil kunne konkurrere og lykkes på andre arenaer. Til sammen bør fagmiljøene dekke
-hovedområdene i kvanteteknologien, altså kvanteregning og -simulering, kvantemåling og sensorer i tillegg til kvantekommunikasjon. Satsingen skal ha hovedvekt på matematisknaturvitenskapelig og teknologisk forskning, men kan også finansiere forskning om
+hovedområdene i kvanteteknologien, altså kvanteregning og -simulering, kvantemåling og -
+sensorer i tillegg til kvantekommunikasjon. Satsingen skal ha hovedvekt på matematisk-
+naturvitenskapelig og teknologisk forskning, men kan også finansiere forskning om
 kvanteteknologiens konsekvenser og spesielt betydningen for stats- og samfunnssikkerhet.
 Tilskudd til forskningsinfrastruktur kan inngå i rammen for satsingen.
 Satsingen skal ses i sammenheng med regjeringens satsing på fremtidens databehandling
@@ -1408,16 +1043,11 @@ gå til Retur-EU, en ordning for å støtte opp om de norske instituttene sin de
 rammeprogram for forskning og innovasjon, Horisont Europa.
 Midlene på posten skal også finansiere Forskningsrådets ordning Nasjonal satsing på
 infrastruktur, samt følgende særskilte formål:
--
-
--
-
-Norsk bidrag til de internasjonale infrastrukturprosjektene CESSDA ERIC,
-ECCSEL, ERIC, Svalbard Integrated Arctic Earth Observing System, European
-Spallation Source og EISCAT.
-Basistildelingen til Sigma2 AS videreføres for 2025. 50 mill. kroner skal gå til
-øremerket tilskudd til Sigma2 AS.
-
+       -   Norsk bidrag til de internasjonale infrastrukturprosjektene CESSDA ERIC,
+           ECCSEL, ERIC, Svalbard Integrated Arctic Earth Observing System, European
+           Spallation Source og EISCAT.
+       -   Basistildelingen til Sigma2 AS videreføres for 2025. 50 mill. kroner skal gå til
+           øremerket tilskudd til Sigma2 AS.
 Ordningene offentlig sektor-ph.d. og nærings-ph.d. er virkemidler som fremmer
 forskningsbasert utvikling i offentlig og privat sektor. Forskningsrådet kan vurdere om disse
 ordningene bør brukes bredere, for å møte behovet for forskingskompetanse i offentlig sektor
@@ -1427,29 +1057,18 @@ som kan sikkerhetsklareres. Dette er for å møte et økende behov for sikkerhet
 arbeidstakere med doktorgradskompetanse innenfor sensitive fagområder. Forskningsrådet
 må løpende vurdere om krav til sikkerhetsklarering også bør stilles for offentlig sektor-ph.d.
 
-Side 24
+ Side 24
+
+[Side 25]
 
 og nærings-ph.d. på andre fagområder. Dersom ordningene finansieres med midler fra både
 post 71 og post 72, gjelder føringene i dette avsnittet for begge poster.
 
-Kap. 285 Norges forskningsråd
-Post 72
-
-Kroner
-
-Langsiktig, grunnleggende forskning
-
-Bevilgning
-
-1 663 129 000
-
-Tilsagnsfullmakt
-
-6 025 100 000
-
-Tilsagnsramme
-
-2 044 000 000
+ Kap. 285 Norges forskningsråd                                                       Kroner
+ Post 72            Langsiktig, grunnleggende forskning
+ Bevilgning                                                                  1 663 129 000
+ Tilsagnsfullmakt                                                            6 025 100 000
+ Tilsagnsramme                                                               2 044 000 000
 
 Post 72 Langsiktig, grunnleggende forskning erstatter tidligere post 52 Langsiktig,
 grunnleggende forskning. Kunnskapsdepartementet har et særskilt ansvar for å finansiere
@@ -1457,6 +1076,7 @@ grunnleggende forskning av høy kvalitet uavhengig av fagområde. Tildelingen ov
 posten skal finansiere langsiktig, grunnleggende forskning, bidra til å forbedre den
 vitenskapelige kvaliteten og utvikle fagmiljøer av fremragende kvalitet. 83,6 mill. kroner av
 tildelingen skal gå til øremerket tilskudd til Simula AS.
+
 Midlene skal dekke forventede utbetalinger i det gjeldende budsjettåret av tilsagn som
 Forskningsrådet allerede har inngått fra tidligere år, og av nye tilsagn som skal utbetales i
 budsjettåret. Av dette er 128,2 mill. kroner til nye tilsagn som er forventet utbetalt i 2025, og
@@ -1468,14 +1088,9 @@ kommer til utbetaling etter 2025. Tildeling og tilsagnsfullmakt gir en tilsagnsr
 på 2,044 mrd. kroner. Tilsagnsrammen er summen av nye forpliktelser som Forskningsrådet
 kan pådra staten i 2025.
 
-Kap. 285
-Post 73
-
-Kroner
-Grunnbevilgning til samfunnsvitenskapelige
-forskningsinstitutt
-
-253 626 000
+ Kap. 285                                                                            Kroner
+ Post 73    Grunnbevilgning til samfunnsvitenskapelige                         253 626 000
+            forskningsinstitutt
 
 Kap. 285, post 73 Grunnbevilgning til samfunnsvitenskapelig forskningsinstitutt erstatter
 tidligere kap. 287, post 70 Grunnbevilgning til samfunnsvitenskapelig forskningsinstitutt.
@@ -1484,7 +1099,9 @@ næringsliv og offentlig sektor relevant kompetanse og forskningstjenester av h�
 internasjonal kvalitet. Midlene skal også bidra til en bærekraftig utvikling og omstilling i
 nærings- og samfunnsliv likt andre institutt som mottar statlig grunnbevilgning.
 
-Side 25
+ Side 25
+
+[Side 26]
 
 5,6 mill. kroner av midlene på posten skal gå til Norsk senter for bærekraftig klimatilpasning
 (Nordapt) ved Vestlandsforskning i Sogndal.
@@ -1492,29 +1109,14 @@ Tildelingen over Utenriksdepartementets kap. 161, post 71 gjelder grunnbevilgnin
 Christian Michelsens institutt (CMI). Disse midlene utbetales i tillegg til bevilgningen til de
 samfunnsvitenskapelige forskningsinstituttene på kap. 285, post 73.
 
-3.2
+3.2        Kap. 201, post 70
 
-Kap. 201, post 70
-
-Kap. 201 Analyse og kunnskapsgrunnlag
-Post 70
-
-Kroner
-
-Norges forskningsråd – forskning om
-utdanning og forskning
-
-Bevilgning
-
-265 064 000
-
-Tilsagnsfullmakt
-
-799 900 000
-
-Tilsagnsramme
-
-223 800 000
+ Kap. 201 Analyse og kunnskapsgrunnlag                                               Kroner
+ Post 70            Norges forskningsråd – forskning om
+                    utdanning og forskning
+ Bevilgning                                                                    265 064 000
+ Tilsagnsfullmakt                                                              799 900 000
+ Tilsagnsramme                                                                 223 800 000
 
 Kap. 201, post 70 Norges forskningsråd – forskning om utdanning og forskning erstatter
 tidligere kap. 201, post 50 Norges forskningsråd – forskning om utdanning og forskning.
@@ -1523,7 +1125,8 @@ kunnskapsgrunnlaget om sektorene departementet har ansvaret for. Forskningsråde
 også bruke midler fra posten til initiativer som skal bidra til god forsknings-, utdannings- og
 innovasjonsvirksomhet i universitets- og høyskolesektoren og styrket samspill mellom
 institusjonene og samfunnet.
-Midlene skal bidra til å nå målene i departementets Strategi for utdanningsforskning 20252029. Midlene skal blant annet fremme metodemangfold i utdanningsforskning, styrke
+Midlene skal bidra til å nå målene i departementets Strategi for utdanningsforskning 2025-
+2029. Midlene skal blant annet fremme metodemangfold i utdanningsforskning, styrke
 vitenskapelig kompetanse der forskningstradisjonene er svake, og stimulere både til arbeid
 på tvers av forskningsdisipliner, og til brukermedvirkning i utdanningsforskningen. Videre skal
 midlene stimulere til satsing på unge talenter for å bygge framtidens fremragende fagmiljøer,
@@ -1542,7 +1145,9 @@ til forskning på høyere yrkesfaglig utdanning og fag- og yrkesopplæring. Depa
 at det er behov for mer langsiktig forskning på yrkesutdanninger, og mener at mer kunnskap
 på sikt vil medvirke til å øke kvaliteten i de yrkesfaglige utdanningene.
 
-Side 26
+ Side 26
+
+[Side 27]
 
 En egen satsning i Forskningsrådet (FORINNPOL) har finansiert tre sentre som har styrket
 kunnskapsgrunnlaget for forsknings- og innovasjonspolitikken. Det er fortsatt behov for
@@ -1552,17 +1157,10 @@ kan fremme omstillingen til en mer bærekraftig og smartere norsk økonomi. Midl
 posten gir rom for å videreføre satsingen for å styrke kunnskapsgrunnlaget for forsknings- og
 innovasjonspolitikken.
 
-3.3
+3.3    Kap. 226, post 71
 
-Kap. 226, post 71
-
-Kap. 226
-Post 71
-
-Kroner
-Tilskudd til vitensentre
-
-119 977 000
+ Kap. 226                                                                         Kroner
+ Post 71    Tilskudd til vitensentre                                        119 977 000
 
 Vitensentrene er et viktig virkemiddel for å øke kunnskap i og interessen for teknologi og
 realfag og bidrar til økt rekruttering til et kompetanseområde Norge trenger. Vitensentrene
@@ -1570,6 +1168,7 @@ bidrar til økt kvalitet i opplæringen i realfagene ved å gi verktøy og støt
 lærerne i opplæringen, og bidra til å følge opp nasjonale strategier. Tilbudet knyttes til
 gjeldende læreplaner i realfag. Høsten 2024 er det 13 vitensentre i Vitensenterprogrammet i
 Forskningsrådet.
+
 17,9 mill. kroner på posten skal gå til talentsenterordningen, som ble flyttet til posten i
 statsbudsjettet for 2024. Ordningen ble da styrket, og det ble varslet at ordningen skulle
 legges om. Talentsenterordningen utvides med lærerkurs på alle talentsentrene, slik at den
@@ -1582,38 +1181,27 @@ Tilskuddet går til de samme seks sentrene som har fått tilskudd tidligere. Mid
 skal dekke et tilskudd på 0,3 mill. kroner til Vitensenterforeningen.
 
 4 Rapportering og resultatoppfølging for 2025
-4.1
 
-Årsrapport
-
+4.1    Årsrapport
 Kunnskapsdepartementet ber om rapportering på:
-•
-•
-•
-
-Strategiske forskningsprioriteringer
-Langsiktig, grunnleggende forskning
-Forskning om utdanning og forskning
-
+   •   Strategiske forskningsprioriteringer
+   •   Langsiktig, grunnleggende forskning
+   •   Forskning om utdanning og forskning
 Rapportering på bruk av midlene skal skje i tråd med kravene i vedlegg 1 Krav til årsrapport
 2025, under punktet om Vedlegg til årsrapport (departementsvise rapporter).
 
-Side 27
+ Side 27
 
-4.2
+[Side 28]
 
-Innspill til de årlige statsbudsjettmilepælene
-
+4.2       Innspill til de årlige statsbudsjettmilepælene
 Forskningsrådet er fra og med 1. januar 2025 bruttobudsjettert med tilsagnsfullmakter.
 Forskningsrådet skal ifm. forberedelser til de årlige statsbudsjettmilepælene utarbeide anslag
 for tilsagnsramme, tilsagnsfullmakt, bevilgning, samt synliggjøre oversikt over samlede
 flerårige forpliktelser per tilskuddspost. Det vises pkt. 5.2. i del 1 av dette tildelingsbrevet, om
 innspill til de årlige statsbudsjettene, herunder leveranser av innspill og tilhørende frister.
 
-4.3
-
-Styringsmøter 2025
-
+4.3       Styringsmøter 2025
 Departementet legger opp til å avholde ett styringsmøte i 2025. Møtet er arena for strategisk
 dialog med Forskningsrådet om forskning om utdanning og forskning.
 Styringsmøtet vil finne sted 12. juni 2025 klokken 09.00-11.00 i Kunnskapsdepartementets
@@ -1625,42 +1213,37 @@ dagsorden for møtet i god tid.
 Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
-ekspedisjonssjef
-
-Charlotte Rustad
-konst. avdelingsdirektør
+ekspedisjonssjef                                                              Charlotte Rustad
+                                                                              konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 28
+ Side 28
+
+[Side 29]
 
 Vedlegg og instrukser oppgitt nedenfor finnes også på Kunnskapsdepartementets nettside
-▪
-▪
-▪
-▪
-
-Vedlegg 1: Krav til årsrapport 2025
-Vedlegg 2: Retningslinjer for styring av driftsutgifter i Norges forskningsråd
-Vedlegg 3: Fullmakter 2025 Norges forskningsråd
-Virksomhets- og økonomiinstruks for Norges forskningsråd
+   ▪   Vedlegg 1: Krav til årsrapport 2025
+   ▪   Vedlegg 2: Retningslinjer for styring av driftsutgifter i Norges forskningsråd
+   ▪   Vedlegg 3: Fullmakter 2025 Norges forskningsråd
+   ▪   Virksomhets- og økonomiinstruks for Norges forskningsråd
 
 Kopi
-Arbeids- og inkluderingsdepartementet
-Barne- og familiedepartementet
-Digitaliserings- og forvaltningsdepartementet
-Energidepartementet
-Finansdepartementet
-Forsvarsdepartementet
-Helse- og omsorgsdepartementet
-Justis- og beredskapsdepartementet
-Klima- og miljødepartementet
-Kommunal- og distriksdepartementet
-Kultur- og likestillingsdepartementet
-Landbruks- og matdepartementet
-Nærings- og fiskeridepartementet
-Samferdselsdepartementet
-Utenriksdepartementet
-Riksrevisjonen
+ Arbeids- og inkluderingsdepartementet
+ Barne- og familiedepartementet
+ Digitaliserings- og forvaltningsdepartementet
+ Energidepartementet
+ Finansdepartementet
+ Forsvarsdepartementet
+ Helse- og omsorgsdepartementet
+ Justis- og beredskapsdepartementet
+ Klima- og miljødepartementet
+ Kommunal- og distriksdepartementet
+ Kultur- og likestillingsdepartementet
+ Landbruks- og matdepartementet
+ Nærings- og fiskeridepartementet
+ Samferdselsdepartementet
+ Utenriksdepartementet
+ Riksrevisjonen
 
-Side 29
+ Side 29

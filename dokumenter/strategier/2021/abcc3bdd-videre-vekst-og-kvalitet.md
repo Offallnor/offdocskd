@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Videre vekst og kvalitet
@@ -18,8 +20,14 @@ Strategi for høyere yrkesfaglig utdanning
 
 Strategi
 
+[Side 2]
+
+[Side 3]
+
 Videre vekst og kvalitet
 Strategi for høyere yrkesfaglig utdanning
+
+[Side 4]
 
 Innhold
 Del 1 Fra fagskole­meldingen til i dag
@@ -56,6 +64,8 @@ Implementering og oppfølging
 
 28
 
+[Side 5]
+
 Forord
 Regjeringen ønsker at fagskolesektoren skal vokse, og har som ambisjon at kvalite­
 ten skal styrkes i takt med veksten. Formålet med strategien er å skape et ramme­
@@ -87,6 +97,8 @@ og påført statsrådens signatur
 
 3
 
+[Side 6]
+
 Del 1
 
 fagskole­
@@ -95,6 +107,8 @@ meldingen
 Fra
 
 til i dag
+
+[Side 7]
 
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
@@ -350,6 +364,8 @@ Kilde: NSD/DBH-F.
 
 5
 
+[Side 8]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 Fagskolestudenter ulike kategorier
@@ -432,6 +448,8 @@ særtrekk ved helsefag, kreative fag og tekniske fag.
 
 6
 
+[Side 9]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 2. Fagmiljøene skal ha oppdatert og praksisnær fag- og yrkeskompetanse
@@ -483,6 +501,8 @@ uteksaminert med fagskoleutdanning i 2017 og 2018.
 nyutdannede fra universiteter, høgskoler og fagskoler.
 
 7
+
+[Side 10]
 
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
@@ -544,6 +564,8 @@ studenter og ansatte i tillegg til skoleeier, og med minimum sju medlemmer.
 
 8
 
+[Side 11]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 skal være godt organisert, med tydelig eierskap og god
@@ -589,10 +611,14 @@ tiltak i fagskolemeldingen.
 
 9
 
+[Side 12]
+
 Del 2
 
 Veien
 videre
+
+[Side 13]
 
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
@@ -641,6 +667,8 @@ høyere nivå i Nasjonalt kvalifikasjonsrammeverk.
 
 11
 
+[Side 14]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 En forutsetning for å nå målene er implementering av tiltak på alle nivå i sektoren,
@@ -680,6 +708,8 @@ nale arbeidskraftsbehov.
 
 12
 
+[Side 15]
+
 1
 Innsatsområde 1:
 Fagskolesektorens vekst
@@ -706,6 +736,8 @@ l­egges frem før sommeren, viser til fagskolene som en viktig leverandør av
 ­desentralisert og fleksibel utdanning.
 
 13
+
+[Side 16]
 
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
@@ -741,6 +773,8 @@ ningstilbud innenfor digital kompetanse. I tillegg har mange fagskoler bidratt
 til regjeringens store satsing på kompetanseutvikling for ledige og permitterte
 under koronakrisen.
 
+[Side 17]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 Erfaringer fra arbeidet med fordeling av nye studieplasser i 2020
@@ -769,6 +803,8 @@ Bedre kunnskap om fremtidige kompetansebehov vil gi et bedre grunnlag for
 dimensjonering av høyere yrkesfaglig utdanning. Et system for fordeling av midler
 til studieplasser bør derfor kobles tett til en vurdering av kompetansebehov i
 arbeidslivet i hver enkelt region.
+
+[Side 18]
 
 Regionale kompetanseplaner utarbeidet av fylkeskommunene vil hjelpe fylkeskom­
 munene i arbeidet med å identifisere kompetansebehov. Dette arbeidet vil også
@@ -806,6 +842,8 @@ skoletypemenuid=2&sammenstilling=1
 
 16
 
+[Side 19]
+
 legging. En kartlegging bør vurdere om det er gode veier fra videregående opp­
 læring til fagskoleutdanning, med bakgrunn i dagens struktur i videregående opp­
 læring. Kartleggingen bør også vurdere om det er andre deler av arbeidslivet som
@@ -839,6 +877,8 @@ informasjon om fagskoleutdanning på Utdanning.no
 
 17
 
+[Side 20]
+
 2
 Innsatsområde 2:
 Kvalitetsutvikling i høyere
@@ -870,6 +910,8 @@ teknologi, bygg og IKT, teknologi og ledelse.
 
 18
 
+[Side 21]
+
 Et eksempel er Trøndelag ortopediske verksted som fremstiller ulike ortope­
 diske hjelpemidler. Bedriften har utført klassisk håndverk i mange år, men ny
 teknologi som 3D-print utfordret det gamle håndverket, og kunnskap om
@@ -897,6 +939,8 @@ neste steget for de fagskolene som i dag har kommet lengst i å etablere systeme
 16 NOU 2019: 12 Lærekraftig utvikling — Livslang læring for omstilling og konkurranseevne.
 
 19
+
+[Side 22]
 
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
@@ -930,6 +974,8 @@ kompetanse.
 
 20
 
+[Side 23]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 Høyere yrkesfaglig utdanning blir i stadig økende grad tilbudt som nett- og samlings­
@@ -961,6 +1007,8 @@ utdanning, hvor fagskolene kan hente kunnskap og inspirasjon.
 kesfagleg-utdanning
 
 21
+
+[Side 24]
 
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
@@ -1008,6 +1056,8 @@ legger til rette for oppbevaring og tilgjengeliggjøring av vitnemål fra fagsko
 
 22
 
+[Side 25]
+
 3
 Innsatsområde 3:
 Stimulere til fremragende
@@ -1040,6 +1090,8 @@ Stølen: Framskrivinger av arbeidsstyrken og sysselsettingen etter utdanning mot
 
 23
 
+[Side 26]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 Regjeringen vil i første omgang lyse ut midler til forsøk slik det ble gjort for SFU-­
@@ -1059,6 +1111,8 @@ til å utvikle prosjekter som skal fremme faglig utvikling og nye svar på
 kompetanse­behov i arbeidslivet
 
 24
+
+[Side 27]
 
 4
 Innsatsområde 4:
@@ -1092,6 +1146,8 @@ ner. EQF inneholder åtte referansenivåer som spenner over hele registeret av
 21 Prop. 47 L (2017–2018).
 
 25
+
+[Side 28]
 
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
@@ -1144,6 +1200,8 @@ kvalifikasjons­rammeverk, jamfør mulighetsstudiens to ulike strukturmodeller.
 
 26
 
+[Side 29]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 Gode overganger mellom fagskoleutdanning og universitetsog høyskoleutdanninger
@@ -1172,6 +1230,8 @@ av NKR før endelig beslutning
 
 27
 
+[Side 30]
+
 VIDERE VEKST OG KVALITET – STRATEGI FOR HØYERE YRKESFAGLIG UTDANNING
 
 Implementering og oppfølging
@@ -1196,6 +1256,8 @@ høy kvalitet.
 
 28
 
+[Side 31]
+
 Takk til fagskolene som har gitt oss lov til å bruke bilder:
 Fagskolen i Agder
 Fagskolen i Oslo
@@ -1203,6 +1265,8 @@ Fagskolen i Viken
 Fagskolen Kristiania
 Norges grønne fagskole – Vea, Dorte Finstad
 Einar Granum Kunstfagskole, Olai Baik
+
+[Side 32]
 
 Utgitt av:
 Kunnskapsdepartementet

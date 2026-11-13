@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 Kultur- og likestillingsdepartementet
 
@@ -21,7 +23,11 @@ Handlingsplan for norsk fagspråk i akademia
 
 Handlingsplan
 
+[Side 2]
+
 2
+
+[Side 3]
 
 Innhald
 Føreord ....................................................................................................... 5
@@ -40,7 +46,11 @@ Føreord .......................................................................
 
 3
 
+[Side 4]
+
 4
+
+[Side 5]
 
 Føreord
 Norsk språk har tradisjonelt stått sterkt i norske akademiske miljø. Eit hovudformål
@@ -81,6 +91,8 @@ kultur- og likestillingsminister
 
 5
 
+[Side 6]
+
 1 Innleiing
 Det norske språket er berar av den norske kulturhistoria. Dei to skriftspråka og dei
 mange dialektane våre er heilt avgjerande for den kulturelle identiteten vår og for
@@ -104,6 +116,8 @@ har Stortinget fleire gonger understreka at det norske fagspråket må bevarast 
 vidareutviklast parallelt med ei ønskt og nødvendig internasjonalisering, og uttrykt
 
 6
+
+[Side 7]
 
 uro for kor sterk auken i bruk av engelsk har vore. Særleg dei siste ti åra har det vore
 sett i verk ulike språkpolitiske tiltak. Men den negative utviklinga for norsk fagspråk i
@@ -161,6 +175,8 @@ SSBs statistikk om forskarpersonale (doktorgradsavhandlingar etter språk).
 SSBs statistikk om forskarpersonale.
 
 7
+
+[Side 8]
 
 Hausten 2022 gjennomførte Rambøll ei undersøking om norsk fagspråk og terminologi i
 universitets- og høgskulesektoren for Språkrådet og Språksamlingane ved Universitetet i
@@ -232,6 +248,8 @@ Rambøll (2023) Undersøkelse om norsk fagspråk og terminologi i universitets- 
 
 8
 
+[Side 9]
+
 kunne tilby engelskspråklege emne retta mot internasjonale studentar, men rapportar
 frå sektoren tyder på at overgangen til engelsk ofte skjer utan at det er teke fagleg
 grunngjevne val om dette, og ofte utan at studentane på førehand kan lese det ut av
@@ -277,6 +295,8 @@ institusjonane, og i kva grad institusjonane hadde forsøkt å implementere dei.
 
 9
 
+[Side 10]
+
 2 Tiltak
 2.1 Norsk språk i undervisning og læring
 Dei aller fleste norske studentar skal ut i eit norskspråkleg samfunns- og arbeidsliv.
@@ -299,6 +319,8 @@ blir teken inn i nasjonalt kvalifikasjonsrammeverk og at studentane får rett ti
 oppgåver på norsk.
 
 10
+
+[Side 11]
 
 Nr.
 
@@ -357,6 +379,8 @@ gjerast eit løft, og det må leggjast til rette for erfaringsdeling mellom inst
 dømes i regi av Universitets- og høgskulerådet.
 
 11
+
+[Side 12]
 
 Nr.
 
@@ -418,6 +442,8 @@ søking at Kunnskapsdepartementet tek sikte på ei styrking for å støtte fleir
 
 12
 
+[Side 13]
+
 tidsskrift. Ordninga for lærebøker vart gjennomgått i 2021, og fagområde med stort
 domenetap til engelsk og bøker på samisk og på nynorsk har fått auka prioritet i
 ordninga, men søkinga i seinare år har vore moderat. I lys av ambisjonane til denne
@@ -449,6 +475,8 @@ skaffe- og leveringsplikt og høve til å forhandle om normalkontraktar også kj
 delen av bokmarknaden til gode.
 
 13
+
+[Side 14]
 
 Nr.
 
@@ -523,6 +551,8 @@ med føringar på eigna måte.
 
 14
 
+[Side 15]
+
 Språkteknologiske verktøy som maskinomsetjing, talesyntese, talegjenkjenning og
 stave- og grammatikkontrollar har blitt ein sjølvsagd del av kvardagen til mange – også
 i akademia. Teknologien er i rask utvikling og er i stand til å effektivt løyse ei rekkje
@@ -581,6 +611,8 @@ høgskulane, medrekna arbeidet institusjonane gjer med eigne språkstrategiar
 
 15
 
+[Side 16]
+
 3 Økonomiske og
 administrative konsekvensar
 Dei viktigaste konsekvensane for universiteta og høgskulane vil vere ein auke i
@@ -594,6 +626,8 @@ språkteknologi på norsk. Tiltak som har budsjetteffektar, vil bli vurderte i d
 budsjettprosessen.
 
 16
+
+[Side 17]
 
 4 Oversyn over ressursar for
 norsk fagspråk
@@ -616,6 +650,8 @@ Skrivesenter – Mange av universiteta og høgskulane har anten kurs i eller eit
 akademisk skriving for studentane (sjå nettside hos dei einskilde institusjonane).
 
 17
+
+[Side 18]
 
 Norskopplæring – Det europeiske rammeverket for språk set opp ferdigheiter i lesing,
 skriving, lytting og tale frå nivå A1 (lågast) til nivå C2 (høgast). Rammeverket er å finne
@@ -648,7 +684,11 @@ til bruk i emne- og programplanlegginga
 
 18
 
+[Side 19]
+
 19
+
+[Side 20]
 
 Utgjeven av:
 Kunnskapsdepartementet

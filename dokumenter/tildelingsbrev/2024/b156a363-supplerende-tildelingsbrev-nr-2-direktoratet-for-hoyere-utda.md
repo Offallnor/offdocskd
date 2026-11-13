@@ -12,20 +12,15 @@
 
 ---
 
+[Side 1]
+
 Direktoratet for høyere utdanning og
 kompetanse
 PB 1093
 5809 BERGEN
 
-Deres ref
-
-Vår ref
-
-Dato
-
-23/394-
-
-25. juni 2024
+Deres ref                               Vår ref                           Dato
+                                        23/394-                           25. juni 2024
 
 Supplerende tildelingsbrev nr. 2 til Direktoratet for høyere utdanning og
 kompetanse, endringer ifm. RNB 2024
@@ -36,72 +31,42 @@ ordinære tildelingsbrevet til HK-dir, datert 20. desember 2023.
 1. Endringer i midler til HK-dir i 2024
 Kunnskapsdepartementet hhv. øker og reduserer midlene til disposisjon for Direktoratet for
 høyere utdanning og kompetanse (HK-dir) i 2024 på følgende poster:
-Kapittel og post
-Kap. 240, post 61
-Kap. 241, post 21
 
-Kap. 256, post 01
+ Kapittel og post           Endring i kroner   Beskrivelse
+ Kap. 240, post 61                 10 000 000 Utviklingsmidler til fagskolene
+ Kap. 241, post 21                   1 500 000 Kartlegging av tilbud i nettpedagogikk
+                                               tilpasset lærere i høyere
+                                               yrkesfaglig utdanning (HYU).
+ Kap. 256, post 01                   1 600 000 Knyttet til flyttingen av
+                                               sekretariatsoppgaven i RETHOS fra
+                                               departementet til HK-dir.
+ Kap. 257, post 70                -10 000 000 Reduksjon som følge av overføring av
+                                               ubrukt bevilgning fra 2023 til 2024.
+ Kap. 270, post 74                   2 000 000 Ettårig økning til Norges Arktiske
+                                               Studentsamskipnad (NAS) for merutgifter til
+                                               å drifte boliger i Nybyen på Svalbard.
+ Kap. 272, post 51                  -2 600 000 Omdisponering til post 52 for å dekke
+                                               forpliktede utbetalinger.
+ Kap. 272, post 52                 16 000 000 Dekke forpliktede utbetalinger.
 
-Kap. 257, post 70
-Kap. 270, post 74
+ Postadresse            Kontoradresse       Telefon*          Avdeling for eierskap i     Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90       høyere utdanning og         Lea Jorselje
+ 0032 Oslo                                  Org.nr.           forskning                   Fuglestad
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842                                   22 24 76 88
 
-Kap. 272, post 51
-Kap. 272, post 52
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+[Side 2]
 
-Endring i kroner
-Beskrivelse
-10 000 000 Utviklingsmidler til fagskolene
-1 500 000 Kartlegging av tilbud i nettpedagogikk
-tilpasset lærere i høyere
-yrkesfaglig utdanning (HYU).
-1 600 000 Knyttet til flyttingen av
-sekretariatsoppgaven i RETHOS fra
-departementet til HK-dir.
--10 000 000 Reduksjon som følge av overføring av
-ubrukt bevilgning fra 2023 til 2024.
-2 000 000 Ettårig økning til Norges Arktiske
-Studentsamskipnad (NAS) for merutgifter til
-å drifte boliger i Nybyen på Svalbard.
--2 600 000 Omdisponering til post 52 for å dekke
-forpliktede utbetalinger.
-16 000 000 Dekke forpliktede utbetalinger.
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Lea Jorselje
-Fuglestad
-22 24 76 88
-
-Kap. 272, post 71
-
-Kap. 275, post 21
-
--19 745 000 Lavere betalt kontingent for den nordiske
-avtalen om gjensidig tilgang til høyere
-utdanning.
-1 500 000 Utredning av små og sårbare utdanninger
-innen helsefag som er viktige for helse- og
-omsorgstjenestene. Utredningen skal ta for
-seg universitets- og høyskolesektorens
-forutsetninger for å ivareta slike fag og
-hensiktsmessig arbeidsdeling, sett opp mot
-arbeidslivets behov. KD vil sende detaljert
-oppdragsbeskrivelse.
+ Kap. 272, post 71                           -19 745 000 Lavere betalt kontingent for den nordiske
+                                                         avtalen om gjensidig tilgang til høyere
+                                                         utdanning.
+ Kap. 275, post 21                             1 500 000 Utredning av små og sårbare utdanninger
+                                                         innen helsefag som er viktige for helse- og
+                                                         omsorgstjenestene. Utredningen skal ta for
+                                                         seg universitets- og høyskolesektorens
+                                                         forutsetninger for å ivareta slike fag og
+                                                         hensiktsmessig arbeidsdeling, sett opp mot
+                                                         arbeidslivets behov. KD vil sende detaljert
+                                                         oppdragsbeskrivelse.
 
 2. Rapportering
 Departementet viser til kravene om rapportering i det ordinære tildelingsbrevet til HK-dir for
@@ -111,11 +76,13 @@ Med hilsen
 
 Hedda Huseby (e.f.)
 avdelingsdirektør
-Lea Jorselje Fuglestad
-seniorrådgiver
+                                                                          Lea Jorselje Fuglestad
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
+
 Riksrevisjonen
 
-Side 2
+ Side 2

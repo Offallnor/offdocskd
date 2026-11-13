@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kommunal- og
 moderniseringsdepartementet
 
@@ -20,6 +22,8 @@ Digital hele livet
 Nasjonal strategi for økt digital deltakelse og kompetanse i befolkningen
 
 1
+
+[Side 2]
 
 Innhold
 Forord  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
@@ -45,6 +49,8 @@ De digitalt sårbare .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
 Vedlegg - Oversikt over sentrale strategier, planverk og aktører . .  .  .  .  .  .  .  .  . 21
 
 2
+
+[Side 3]
 
 Digitalisere ved å inkludere
 Digitaliseringen av samfunnet går raskt og forenkler hverdagen for de fleste av oss. Digitalisering gir gode og moderne tjenester og gjør at vi slipper å fylle ut skjemaer eller vente i
@@ -79,6 +85,8 @@ distrikts- og digitaliseringsminister
 
 3
 
+[Side 4]
+
 1 Bakgrunn
 Denne strategien har til hensikt å motvirke digitalt utenforskap i Norge. Mål, overordnede
 tiltak og innsatsområdene som fremheves her skal bidra til å sikre at alle innbyggere som
@@ -105,6 +113,8 @@ etter at koronapandemien brøt ut, og Norge stengte ned i mars 2020. Koronakrise
 mange måter virket som en slags katalysator for det digitale skiftet. Pålegg om hjemmekon-
 
 4
+
+[Side 5]
 
 tor, restriksjoner på reising og økt etterspørsel etter informasjon og tjenester på nett har
 hatt en rekke konsekvenser for bruken av IKT generelt og digitalisering av offentlig sektor
@@ -152,6 +162,8 @@ https://www.kompetansenorge.no/nyheter/okt-behov-for-digital-kompetanse-under-ko
 https://www.kompetansenorge.no/Grunnleggende-ferdigheter/Digitale-ferdigheter/
 
 5
+
+[Side 6]
 
 Det er viktig at innbyggere får mer kunnskap og forståelse om temaer og utfordringer knyttet til personvern og informasjonssikkerhet ved bruk av digitale verktøy og løsninger. Dette
 er viktig for å unngå å bli utsatt for bl.a. dataangrep, svindel og andre trusler og sårbarheter.
@@ -201,6 +213,8 @@ https://www.kompetansenorge.no/statistikk-og-analyse/publikasjoner/befolkningens
 
 6
 
+[Side 7]
+
 67 prosent av innbyggerne oppgir at de ønsker å utvikle sine digitale ferdigheter ved å prøve
 seg fram på egenhånd og 60 prosent sier de ønsker å få veiledning av familie eller bekjente.
 35 prosent oppgir at de ønsker kurs tilbudt eller finansiert av det offentlige. Cirka 70 prosent
@@ -246,6 +260,8 @@ https://dfo.no/filer/Fagområder/Rapporter/Rapporter-Difi/innbyggerundersokelsen
 under Kapittel 7 Vurdering av myndighetenes arbeid.
 
 7
+
+[Side 8]
 
 Årsakene til at noen innbyggere er mindre deltakende i det digitale samfunnet enn andre
 er sammensatte. Det handler ofte om manglende tilgang på teknologi, dårlig økonomi eller
@@ -296,6 +312,8 @@ Digital ekskludering i NAV – hvem, når, hvordan? SINTEF-rapport.
 
 8
 
+[Side 9]
+
 relevant for egen sak i tillegg til hva, og hvilke felt, som skal fylles ut. Mangel på forvaltningskompetanse innebærer også at det kan være en utfordring å vite hva man skal spørre om
 eller hvor man skal henvende seg.
 Ifølge Midtgård kommer helserelaterte utfordringer inn som ekstra utfordring for en del
@@ -307,6 +325,8 @@ og fullføre digitale oppgaver. Mestringstro og selvtillit er det som ligger til
 motivasjonen som trengs for å gi seg i kast med digitale oppgaver på selvstendig basis.
 
 9
+
+[Side 10]
 
 2 Iverksatte tiltak for å øke den
 digitale kompetansen blant
@@ -331,6 +351,8 @@ disse ressursene som brukes i forbindelse med kurs og opplæring, eller av de so
 å lære på egen hånd.
 
 10
+
+[Side 11]
 
 Kommunale Digihjelpen-tilbud
 Siden 2018 har KMD og kommunenes organisasjon KS hatt en samarbeidsavtale11 for å
@@ -384,6 +406,8 @@ vil bli publisert i september 2021.
 
 11
 
+[Side 12]
+
 Rambøll har avdekket at det imidlertid finnes en rekke tilskudd- og støtteordninger som
 har økt digital kompetanse og deltakelse som delmål eller som gir støtte til brede formål
 som indirekte rommer digital kompetanse og deltakelse. Totalt har de identifisert 40 slike
@@ -420,6 +444,8 @@ er også til en viss grad en målgruppe, men hovedsakelig innen feltet digital d
 
 12
 
+[Side 13]
+
 Figur 2.1 Oversikt over offentlige tilskuddsordninger og -forvaltere
 
 2.2 Digital kompetanseheving gjennom ulike livsfaser
@@ -431,6 +457,8 @@ I vedlegg 1 finnes en oversikt over de mest sentrale strategier, planverk og akt
 omhandler heving av digital kompetanse gjennom ulike livsfaser.
 
 13
+
+[Side 14]
 
 3 Strategiens mål, overordnede
 tiltak og innsatsområder
@@ -455,6 +483,8 @@ Regjeringen vil:
 • videreutvikle samarbeidet med kommunenes organisasjon KS for å tilrettelegge for utvikling av gode lokale veiledningstilbud i hele landet
 
 14
+
+[Side 15]
 
 • arbeide for å ansvarliggjøre næringslivet i større grad for å inkludere alle innbyggere i
 deres digitale tjenestetilbud
@@ -497,6 +527,8 @@ for sammenligning av priser for ulike bredbåndstilbud
 
 15
 
+[Side 16]
+
 Tilgjengelig IKT-utstyr
 I dag finnes det et stort utvalg i PC-er, nettbrett og smarttelefoner i ulike priskategorier på
 markedet. Nordmenn er på verdenstoppen når det gjelder tilgang til, og bruk av, IKT- og
@@ -537,6 +569,8 @@ slik at det er enkelt å delta. Å jobbe med å øke motivasjon og tilby læring
 virker meningsfulle og overkommelige vil kunne bidra til økt etterspørsel.
 
 16
+
+[Side 17]
 
 Regjeringen vil:
 
@@ -579,6 +613,8 @@ fungerer og er organisert
 
 17
 
+[Side 18]
+
 • sørge for at offentlig informasjon når fram til alle, om de er digitale eller ikke, gjennom
 økt bruk av alternative informasjonskanaler som benyttes av f.eks. innvandrere, eldre og
 unge utenfor arbeidsliv/utdanning
@@ -620,6 +656,8 @@ Nasjonal strategi for digital sikkerhet – regjeringen.no
 
 18
 
+[Side 19]
+
 Regjeringen vil:
 
 • sørge for at kunnskap om personvern og informasjonssikkerhet ivaretas ved utvikling av
@@ -639,6 +677,8 @@ utvalgte målgrupper
 
 19
 
+[Side 20]
+
 4 Gjennomføring og
 handlingsplan
 Strategiens hovedmål og innsatsområder skal følges opp med en handlingsplan med konkrete tiltak knyttet til økt digital deltakelse og kompetanse i befolkningen. Planen skal foreligge før utgangen av 2021.
@@ -654,6 +694,8 @@ koordinere den nasjonale innsatsen for økt digital kompetanse og deltakelse i b
 dekkes innenfor til enhver tid gjeldende budsjettrammer.
 
 20
+
+[Side 21]
 
 Vedlegg - Oversikt over sentrale
 strategier, planverk og aktører
@@ -696,6 +738,8 @@ Den teknologiske skolesekken. Satsingen skal gi elever kunnskap om og forståels
 teknologi, algoritmisk tenkning og programmering, tilgang til gode digitale læremidler og
 
 21
+
+[Side 22]
 
 sikre gode, trygge og moderne innloggingsløsninger som gjør det enkelt å bruke digitale
 læremidler. Den teknologiske skolesekken har en ramme på til sammen 450 millioner
@@ -742,6 +786,8 @@ dimensjoneringen av utdanningssektoren. Fremover vil utvalget også få en vikti
 men også for alle de som har behov for å formalisere eller oppdatere kompetansen sin.
 
 22
+
+[Side 23]
 
 Kompetansepolitisk strategi
 
@@ -794,6 +840,8 @@ Ibid.
 
 23
 
+[Side 24]
+
 ter kan utvikle videreutdanningstilbud sammen med næringslivet, kommuner og andre
 virksomheter. Tilbudene skal være tilpasset arbeidslivets behov og fleksible slik at de kan
 kombineres med jobb.
@@ -834,6 +882,8 @@ i introduksjonsprogrammet. I tillegg til de obligatoriske kravene med opplæring
 samfunnskunnskap og arbeid eller utdanning legger loven også til rette for at kommunene
 
 24
+
+[Side 25]
 
 kan tilby integreringsfremmende innhold som del av introduksjonsprogrammet. Digital
 kompetanse er et av flere eksempler på integreringsfremmende innhold kommunene kan
@@ -876,6 +926,8 @@ Gjennom livshendelsen ønsker vi å gi nyankomne innvandrere gode tjenester knyt
 kvalifisering og etablering i samfunnet ved å skape mer sammenheng i den offentlige tje-
 
 25
+
+[Side 26]
 
 neste- og systemsiden. Dette vil tilrettelegge for trygg kommunikasjon og sikker informasjonsutveksling for bruker og tjenesteyter, og forenkle deres utdannings- og etableringsløp
 ved å samle sentrale prosesser i integreringsløpet ett sted.
@@ -924,6 +976,8 @@ http://publications.jrc.ec.europa.eu/repository/bitstream/JRC103155/lfna28133enn
 
 26
 
+[Side 27]
+
 Etter likestillings- og diskrimineringsloven har offentlige og private virksomheter en plikt
 til universell utforming av hovedløsninger for IKT rettet mot eller stilt til rådighet for bruker, slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av
 funksjonsnedsettelse. Brukerbegrepet dekker, i tillegg til generelt publikum (allmennheten),
@@ -963,6 +1017,8 @@ nødvendig for at man skal kunne kommunisere, vil fortsatt kunne dekkes. Det er 
 https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/tilrettelegging/arbeid-og-utdanning/datahjelpemidler
 
 27
+
+[Side 28]
 
 Barn under skolepliktig alder, skoleelever og personer som har fått innvilget utdanningstiltak fra NAV (tidligere yrkesrettet attføring) kan i noen tilfeller få låne ordinært datautstyr
 dersom krevende tilpasninger av datautstyr og hjelpemidler gjør det mer hensiktsmessig
@@ -1005,6 +1061,8 @@ Strategi for å øke helsekompetansen i befolkningen, 2019–2023 (regjeringen.n
 
 28
 
+[Side 29]
+
 • Utvikle en helse- og omsorgstjeneste som er utformet for å kunne ivareta og gjøre folk
 helsekompetente, og som har holdninger hos de ansatte som speiler dette.
 • Beskrive kunnskapen om helsekompetansen i befolkningen.
@@ -1039,6 +1097,8 @@ kompetanse.
 HLS19-rapport_Befolkningens helsekompetanse del I
 
 29
+
+[Side 30]
 
 Arbeids- og velferdsområdet
 Arbeids- og velferdsforvaltningen yter tjenester til arbeidsgivere og brukere i ulike livsfaser
@@ -1077,6 +1137,8 @@ og de brukerne som trengte denne kanalen mest.
 
 30
 
+[Side 31]
+
 Økonomisk sosialhjelp
 Det følger av Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven) § 18 Stønad til livsopphold22 at:
 «De som ikke kan sørge for sitt livsopphold gjennom arbeid eller ved å gjøre gjeldende
@@ -1095,6 +1157,8 @@ som hovedregel være nødvendig.»
 https://lovdata.no/lov/2009-12-18-131/§18
 
 31
+
+[Side 32]
 
 Utgitt av:
 Kommunal- og moderniseringsdepartementet

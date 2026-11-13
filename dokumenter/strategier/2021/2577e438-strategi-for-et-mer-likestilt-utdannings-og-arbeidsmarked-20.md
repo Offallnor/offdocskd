@@ -11,14 +11,22 @@
 
 ---
 
+[Side 1]
+
 Strategi
 
 Strategi for et mer likestilt
 utdannings- og arbeidsmarked 2021–2024
 
+[Side 2]
+
+[Side 3]
+
 Strategi for
 et mer likestilt
 utdanningsog arbeidsmarked
+
+[Side 4]
 
 Innhold
 Forord
@@ -75,6 +83,8 @@ Fagskoleloven
 Foreldrepengeordningen
 
 39
+
+[Side 5]
 
 Regjeringens grep for et mer likestilt
 utdannings- og arbeidsmarked
@@ -140,6 +150,8 @@ Litteraturliste
 
 5
 
+[Side 6]
+
 Forord
 
 Norge er god på likestilling mellom kvinner
@@ -197,6 +209,8 @@ integreringsminister
 Henrik Asheim
 Forsknings- og høyere
 utdanningsminister
+
+[Side 7]
 
 15 %
 
@@ -264,7 +278,11 @@ bufdir.no
 
 7
 
+[Side 8]
+
 8
+
+[Side 9]
 
 1
 Et likestilt
@@ -276,6 +294,8 @@ Strategien tar for seg en vedvarende likestillings­
 utfordring: det kjønnsdelte arbeidsmarkedet.
 
 9
+
+[Side 10]
 
 1
 
@@ -305,6 +325,8 @@ læring for alle.
 Oppnå likestilling
 og styrke jenters og kvinners
 stilling i samfunnet.
+
+[Side 11]
 
 I regjeringens likestillingsmelding slås det fast at
 for den enkelte er kjønnsdelingen på arbeids­
@@ -346,6 +368,8 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 11
 
+[Side 12]
+
 1
 
 Regjeringens
@@ -363,6 +387,8 @@ Hovedmål 2
 Flere menn i kvinnedominerte næringer
 
 Flere kvinner i manns­­dominerte næringer
+
+[Side 13]
 
 1
 
@@ -398,6 +424,8 @@ området
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 13
+
+[Side 14]
 
 1
 
@@ -451,6 +479,8 @@ gründere
 Flere kvinnelige
 ledere
 
+[Side 15]
+
 Om strategien
 Denne strategien beskriver regjeringens
 politikk for et mer likestilt utdannings- og
@@ -488,7 +518,11 @@ blant barn og unge
 
 15
 
+[Side 16]
+
 16
+
+[Side 17]
 
 Et likestilt samfunn
 Regjeringens mål er et likestilt samfunn der alle har like mulig­
@@ -508,7 +542,11 @@ identitet, kjønnsuttrykk og kjønnskarakteristika 2021–2024.
 
 17
 
+[Side 18]
+
 18
+
+[Side 19]
 
 2
 Kjønnsdelt
@@ -522,6 +560,8 @@ og omtaler også omfanget av seksuell trakassering
 i arbeids­livet.
 
 19
+
+[Side 20]
 
 2
 
@@ -594,6 +634,8 @@ eller helsefagarbeider (Reisel et al., 2019).
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 21]
+
 1 av 10
 Kun ett av de ti vanligste yrkene
 i Norge er ett mannsdominert yrke
@@ -614,6 +656,8 @@ Figur: Eksempler på kjønnsfordeling på yrker, næringer og sektor
 (Bufdir, 2020b; Reisel et al., 2019, s. 17).
 
 21
+
+[Side 22]
 
 2
 
@@ -675,6 +719,8 @@ det er få menn i disse næringene.
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 23]
+
 Deltidsandelen er spesielt høy i varehandel og i
 helse- og omsorgssektoren. Disse næringene
 sysselsetter mange og står for halvparten av
@@ -724,6 +770,8 @@ I 2020 var deltidsandelen blant menn 15 prosent
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 23
+
+[Side 24]
 
 2
 
@@ -789,6 +837,8 @@ timelønn 92 prosent av menns lønn (CORE, 2019a).
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 25]
+
 Kvinner jobber også oftere deltid. Selv om man
 regner om lønnen til hva man ville hatt i en hel­
 tidsstilling, er deltidsarbeid generelt lavere lønnet
@@ -841,6 +891,8 @@ omsorg (CORE, 2019b).
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 25
+
+[Side 26]
 
 2
 
@@ -917,6 +969,8 @@ ere lønnsnivå enn kvinnedominerte yrker. Det
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 27]
+
 betyr at det i mange tilfeller vil være mer lønn­
 somt både for gutter og jenter å velge et tradi­
 sjonelt mannsdominert yrke som medisin, enn
@@ -961,6 +1015,8 @@ med mindre enn 40 prosent jenter eller gutter
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 27
+
+[Side 28]
 
 FIGUR 1
 
@@ -1025,6 +1081,8 @@ Kilde: Utdanningsdirektoratet, 2021a.
 
 Andel jente
 
+[Side 29]
+
 Kjønnsforskjellene i de yrkesfaglige
 programmene har holdt seg stabil
 over tid.
@@ -1077,6 +1135,8 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 29
 
+[Side 30]
+
 Utjevning i kjønnsdelingen
 i høyere utdanning
 Kvinner har utgjort om lag 60 prosent av studen­
@@ -1122,6 +1182,8 @@ vil ha særlig stor betydning for målet om et
 mindre kjønnsdelt arbeidsliv.
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
+
+[Side 31]
 
 FIGUR 2
 
@@ -1182,7 +1244,11 @@ SSB, 2020d. Uoppgitte fag er ikke med i tabellen.
 
 31
 
+[Side 32]
+
 32
+
+[Side 33]
 
 3
 Rammer for
@@ -1197,6 +1263,8 @@ likestilt utdannings- og arbeidsmarked:
 • Foreldrepengeordningen
 
 33
+
+[Side 34]
 
 3
 
@@ -1273,6 +1341,8 @@ Se for eksempel https://bufdir.no/fagstotte/produkter/aktivitets__og_redegjorels
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 35]
+
 arbeidsgivere har også en plikt til å dokumentere
 sitt likestillingsarbeid eller å utarbeide en likestil­
 lingsredegjørelse om det.
@@ -1326,6 +1396,8 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 35
 
+[Side 36]
+
 Likestilling og kjønn er også tydelig framhevet i
 rammeplanen. Den sier at: «Barnehagen skal
 fremme likeverd og likestilling uavhengig av kjønn,
@@ -1372,6 +1444,8 @@ Regjeringen har med fagfornyelsen fastsatt nye
 læreplaner for grunnskole og videregående
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
+
+[Side 37]
 
 Skolens formålsparagraf i opplæringslova er tydelig på at opplæringen skal
 fremme likestilling.
@@ -1434,6 +1508,8 @@ For trinn 1–9, og Vg1. Fra høsten 2021 for trinn 10 og Vg 2. Fra høsten 2022
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 37
+
+[Side 38]
 
 3
 
@@ -1510,6 +1586,8 @@ to tilleggspoeng til det underrepresenterte
 kjønn når hun eller han søker studieplass
 på et gitt studium.
 
+[Side 39]
+
 •
 
 I dag er det 126 studier ved 13 universiteter
@@ -1573,6 +1651,8 @@ med 80 prosent.
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 39
+
+[Side 40]
 
 3
 
@@ -1669,6 +1749,8 @@ i Forsvaret. (Hovedansvarlig: FD)
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 41]
+
 Vil du vite mer?
 Informasjon om utdanningsvalg
 Det finnes en rekke tjenester som gir
@@ -1704,7 +1786,11 @@ chat og telefon.
 
 41
 
+[Side 42]
+
 42
+
+[Side 43]
 
 4
 Regjeringens grep
@@ -1713,6 +1799,8 @@ utdannings- og
 arbeidsmarked
 
 43
+
+[Side 44]
 
 4
 
@@ -1731,6 +1819,8 @@ arbeidet med likestilling i utdanning og arbeidsliv, ved å:
 på likestillings- og diskrimineringsområdet
 
 44
+
+[Side 45]
 
 Det er særlig noen deler av arbeidslivet som
 bidrar til at kjønnsdelingen er så tydelig som den
@@ -1791,6 +1881,8 @@ ledere
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 45
+
+[Side 46]
 
 Videreutvikle Bufdir som
 fagdirektorat for likestilling
@@ -1871,6 +1963,8 @@ videregående opplæring. (Hovedansvarlig: KD)
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 47]
+
 Om Bufdir
 
 Om Utdanningsdirektoratet
@@ -1949,6 +2043,8 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 47
 
+[Side 48]
+
 4
 
 Regjeringens grep for et mer likestilt
@@ -2018,6 +2114,8 @@ https://likestillingssenteret.no/bevisste-utdanningsvalg/
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 49]
+
 Fortsette regionalt arbeid
 med likestilling
 
@@ -2076,6 +2174,8 @@ sektorer. (Hovedansvarlig: KUD)
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 49
+
+[Side 50]
 
 4
 
@@ -2164,6 +2264,8 @@ strategi for å bedre kjønnsbalansen i fagog yrkesopplæring og arbeidsliv. De
 det lettere for gutter og jenter å velge
 utradisjonelle fagutdanninger.
 
+[Side 51]
+
 Pågående nordiske prosjekter
 Nordisk Ministerråd for
 likestilling og LGBTI
@@ -2209,7 +2311,11 @@ framtidens högteknologiska arbetsliv
 
 51
 
+[Side 52]
+
 52
+
+[Side 53]
 
 Satsingsområder
 I tillegg ønsker regjeringen særlig innsats for å få
@@ -2218,6 +2324,8 @@ omsorgssektoren, flere kvinner i teknologi, flere
 kvinnelige gründere og flere kvinnelige ledere.
 
 53
+
+[Side 54]
 
 4
 
@@ -2272,6 +2380,8 @@ lederne og 10 prosent av annen grunnbemanning
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 55]
+
 Gode prosjekter og eksempler
 på igangsatte tiltak
 Ressurshefte for likestilt og likeverdig
@@ -2299,6 +2409,8 @@ det har vært satset på
 arbeid i barnehage.
 
 55
+
+[Side 56]
 
 4
 
@@ -2357,6 +2469,8 @@ departementet.
 https://www.hvl.no/samarbeid/samarbeid-lararutdanning-og-kreative-fag/
 mangfoldlaerer/
 
+[Side 57]
+
 2/10
 
 2 av 10 som jobber i helseog sosialtjenester er menn
@@ -2414,6 +2528,8 @@ https://proba.no/rapport/utredning-om-rekruttering-av-menn-til-helse-og-omsorgss
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 57
+
+[Side 58]
 
 4
 
@@ -2482,6 +2598,8 @@ som utdanner seg
 til helsefagarbeidere
 i 2021.
 
+[Side 59]
+
 Gode prosjekter og eksempler
 på igangsatte tiltak
 
@@ -2524,6 +2642,8 @@ https://mennihelse.no/om-prosjektet/
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 59
+
+[Side 60]
 
 4
 
@@ -2604,6 +2724,8 @@ og unge kunnskap om programmering
 og algoritmisk tenkning.
 (Hovedansvarlig: KD)
 
+[Side 61]
+
 Gode prosjekter og eksempler
 på igangsatte tiltak
 •
@@ -2661,6 +2783,8 @@ https://bufdir.no/Bibliotek/Dokumentside/?docId=BUF00005325
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 61
+
+[Side 62]
 
 4
 
@@ -2720,6 +2844,8 @@ for kvinner å satse på
 gründer­skap og å lykkes
 med egen bedrift.
 
+[Side 63]
+
 Gode prosjekter og eksempler
 på igangsatte tiltak
 
@@ -2763,6 +2889,8 @@ merket bistand til elever som vil etablere
 innovative bedrifter.
 
 63
+
+[Side 64]
 
 4
 
@@ -2828,6 +2956,8 @@ begrunnes med at vi er avhengig av at
 selskapene benytter seg av kompetan­
 sen fra alle deler av befolkningen.
 
+[Side 65]
+
 Gode prosjekter og eksempler
 på igangsatte tiltak
 CORE TOPPLEDERBAROMETER
@@ -2853,6 +2983,8 @@ publikasjoner/core-indikator-status/
 core-topplederbarometer/
 
 65
+
+[Side 66]
 
 4
 
@@ -2898,6 +3030,8 @@ Det er en rekke krav
 til representasjon
 av begge kjønn i styresammensettinger.
 
+[Side 67]
+
 Gode prosjekter og eksempler
 på igangsatte tiltak
 CORE næringslivsstudie:
@@ -2915,7 +3049,11 @@ CORE – Senter for likestillingsforskning.
 
 67
 
+[Side 68]
+
 68
+
+[Side 69]
 
 5
 Et likestilt
@@ -2929,6 +3067,8 @@ Regjeringen ønsker:
 • Et likestilt arbeidsliv i framtiden
 
 69
+
+[Side 70]
 
 Økt deltakelse i arbeidslivet
 Perspektivmeldingen viser at økt sysselsetting
@@ -2992,6 +3132,8 @@ over i ordinære jobber.
 Regjeringen vil:
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
+
+[Side 71]
 
 Gode prosjekter og eksempler
 på igangsatte tiltak
@@ -3087,6 +3229,8 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 71
 
+[Side 72]
+
 5
 
 Et likestilt
@@ -3162,6 +3306,8 @@ eksempel på hvordan en lønnskartlegging
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 73]
+
 Regjeringen vil:
 
 etter aktivitets- og rapporteringsplikten
@@ -3230,6 +3376,8 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 73
 
+[Side 74]
+
 Nemnda er gitt myndighet til å håndheve for­
 bud­et mot seksuell trakassering i likestillings- og
 diskrimineringsloven. De er videre gitt myndighet
@@ -3291,6 +3439,8 @@ i kulturlivet. (Hovedansvarlig: KUD)
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 75]
+
 Ny teknologi og kunstig intelligens
 kan bidra i arbeidet for et likestilt
 arbeidsliv.
@@ -3342,6 +3492,8 @@ likestilling.pdf
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 75
+
+[Side 76]
 
 5
 
@@ -3395,12 +3547,18 @@ html
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 77]
+
 77
+
+[Side 78]
 
 6
 Litteraturliste
 
 78
+
+[Side 79]
 
 Arbeidsmiljøloven. (2005). Lov om arbeidsmiljø,
 arbeidstid og stillingsvern mv. (LOV-2005-06-1762). Hentet fra https://lovdata.no/dokument/LTI/
@@ -3483,6 +3641,8 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 79
 
+[Side 80]
+
 6
 
 Litteraturliste
@@ -3555,6 +3715,8 @@ Samordna opptak. (2020). Sluttstatistikk.
 
 Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
+[Side 81]
+
 Samordna opptak. (2021). Søker- og opptakstall
 2021. Hentet fra https://www.samordnaopptak.no/
 info/om/sokertall/sokertall-2021/
@@ -3623,11 +3785,17 @@ Strategi for et mer likestilt utdannings- og arbeidsmarked 2021–2024
 
 81
 
+[Side 82]
+
 Strategien er et utgangspunkt
 for videre arbeid og vil videreutvikles
 i strategiperioden.
 
 82
+
+[Side 83]
+
+[Side 84]
 
 Utgitt av:
 Kulturdepartementet

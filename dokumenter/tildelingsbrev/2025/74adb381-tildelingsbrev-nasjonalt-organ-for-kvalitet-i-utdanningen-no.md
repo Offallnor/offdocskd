@@ -12,54 +12,40 @@
 
 ---
 
-Nasjonalt organ for kvalitet i utdanningen
-Postboks 578
-1327 LYSAKER
+[Side 1]
 
-Deres ref
+   Nasjonalt organ for kvalitet i utdanningen
+   Postboks 578
+   1327 LYSAKER
 
-Vår ref
-24/5488
+   Deres ref                                       Vår ref                                 Dato
+                                                   24/5488                                 17. mars 2025
 
-Dato
-17. mars 2025
+  Supplerende tildelingsbrev nr. 1 til NOKUT, kap. 271, post 01, om
+  overførte midler fra 2024 til 2025
 
-Supplerende tildelingsbrev nr. 1 til NOKUT, kap. 271, post 01, om
-overførte midler fra 2024 til 2025
-Vi viser til tildelingsbrev fra Kunnskapsdepartementet til Nasjonalt organ for kvalitet i
-utdanningen (NOKUT) for 2025 og til Finansdepartementets rundskriv R-2/2025 om overføring
-av ubrukt bevilgning fra 2024 til 2024.
-Kunnskapsdepartementet stiller med dette 2 455 000 kroner til disposisjon for NOKUT over
-kap. 271, post 01.
-Beløpet gjelder overføring av ubrukt bevilgning fra 2024 til 2025. Departementet viser til kravene
-om rapportering i det ordinære tildelingsbrevet til NOKUT for 2025.
-Med hilsen
-Hedda Huseby (e.f.)
-avdelingsdirektør
-Maria Elise Rød
-seniorrådgiver
-Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
+  Vi viser til tildelingsbrev fra Kunnskapsdepartementet til Nasjonalt organ for kvalitet i
+  utdanningen (NOKUT) for 2025 og til Finansdepartementets rundskriv R-2/2025 om overføring
+  av ubrukt bevilgning fra 2024 til 2024.
 
-Kopi: Riksrevisjonen
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+  Kunnskapsdepartementet stiller med dette 2 455 000 kroner til disposisjon for NOKUT over
+  kap. 271, post 01.
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+  Beløpet gjelder overføring av ubrukt bevilgning fra 2024 til 2025. Departementet viser til kravene
+  om rapportering i det ordinære tildelingsbrevet til NOKUT for 2025.
 
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
+  Med hilsen
 
-Avdeling:
-Avdeling for eierskap i
-høyere utdanning og
-forskning
+  Hedda Huseby (e.f.)
+  avdelingsdirektør
+                                                                             Maria Elise Rød
+                                                                             seniorrådgiver
 
-Saksbehandler
-Maria Elise Rød
-22 24 73 80
+  Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
+
+  Kopi: Riksrevisjonen
+
+Postadresse               Kontoradresse              Telefon *                   Avdeling:                 Saksbehandler
+Postboks 8119 Dep         Kirkeg. 18                 22 24 90 90                 Avdeling for eierskap i   Maria Elise Rød
+0032 Oslo                                            Org nr.                     høyere utdanning og       22 24 73 80
+postmottak@kd.dep.no      www.kd.dep.no              872 417 842                 forskning

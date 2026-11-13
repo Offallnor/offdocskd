@@ -12,23 +12,19 @@
 
 ---
 
+[Side 1]
+
 Foreldreutvalget for barnehager
 Foreldreutvalget for grunnopplæringen
 
-Deres ref
-
-Vår ref
-
-Dato
-
-21/6423-11
-
-22. juni 2022
+Deres ref                                          Vår ref                                Dato
+                                                   21/6423-11                             22. juni 2022
 
 Tillegg nr. 2 til tildelingsbrevet for 2022 Justert tildeling som følge av
 RNB
 Dette tillegget til tildelingsbrev inneholder justert tildeling knyttet til behandling av
 Prop. 115 S (2021-2022), jf. Innst. 450 S (2021-2022) og vedtak 827.
+
 Bevilgningen på kap. 221 post 01 er redusert med 62 000 kroner knyttet til forventede
 budsjettgevinster fra endrede jobbreisevaner som følge av pandemien.
 
@@ -36,32 +32,16 @@ Med hilsen
 
 Matias Nissen-Meyer (e.f.)
 avdelingsdirektør
-May-Lill Næss
-rådgiver
+                                                                              May-Lill Næss
+                                                                              rådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
+
 Riksrevisjonen
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-barnehage og
-grunnskole
-
-Saksbehandler
-May-Lill Næss
-22 24 76 83
+ Postadresse                  Kontoradresse            Telefon*                 Avdeling                  Saksbehandler
+ Postboks 8119 Dep            Kirkeg. 18               22 24 90 90              Avdeling for              May-Lill Næss
+ 0032 Oslo                                             Org.nr.                  barnehage og              22 24 76 83
+ postmottak@kd.dep.no         www.kd.dep.no            872 417 842              grunnskole

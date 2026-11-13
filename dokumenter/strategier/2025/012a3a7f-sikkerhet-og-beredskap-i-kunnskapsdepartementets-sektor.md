@@ -12,6 +12,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 April 2025
@@ -19,6 +21,10 @@ April 2025
 Styringsdokument for arbeidet
 med sikkerhet og beredskap i
 Kunnskapsdepartementets sektor
+
+[Side 2]
+
+[Side 3]
 
 Innhold
 Forord .......................................................................................................................... 5
@@ -129,6 +135,8 @@ Sikkerhetstruende investeringer og oppkjøp ....................................
 
 Forskningssikkerhet og internasjonalt akademisk samarbeid ..................... 38
 
+[Side 4]
+
 6
 
 7
@@ -172,6 +180,8 @@ Sikresiden.no ..................................................................
 
 Nyttige lenker ..................................................................................................... 53
 
+[Side 5]
+
 ﻿
 
 Forord
@@ -205,6 +215,8 @@ departementsråd
              Oslo, 9. april 2025
 
 5
+
+[Side 6]
 
 Innledning
 
@@ -250,6 +262,8 @@ ikke er underlagt) oppsummeres i grå bokser i kapitlene 4, 5 og 6.
 Justis- og beredskapsdepartementet (2017): Instruks for departementenes arbeid med samfunns­
 sikkerhet (samfunnssikkerhetsinstruksen).
 
+[Side 7]
+
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
 2 Begreper og sammenhenger
@@ -294,6 +308,8 @@ Kommentardelen til samfunnssikkerhetsinstruksen, punkt 2, kapittel IV.
 Se for eksempel NS-ISO/IEC 27000 og NS-EN ISO/IEC 27001:2023.
 
 7
+
+[Side 8]
 
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
@@ -354,6 +370,8 @@ Sikkerhetsloven § 1-5, punkt 3.
 Forsvarskommisjonen NOU 2023: 14 Forsvarskommisjonen NOU 2023: 14 Forsvarskommisjonen
 av 2021 Forsvar for fred og frihet s. 358.
 
+[Side 9]
+
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
 Totalforsvar er en fellesbetegnelse for det militære forsvaret og den sivile bered­
@@ -403,6 +421,8 @@ Totalberedskapskommisjonen: NOU 2023: 17 s. 40.
 
 9
 
+[Side 10]
+
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
 Både samfunnssikkerhet og statssikkerhet er kollektive goder og en offentlig oppgave, men dette må bygges i fellesskap av blant annet befolkningen og private og
@@ -428,6 +448,8 @@ sammenheng.
 10
 
 Kapittel II i samfunnssikkerhetsinstruksen.
+
+[Side 11]
 
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
@@ -462,6 +484,8 @@ Denne versjonen av figuren er hentet fra Meld. St. 9 (2024–2025) Totalberedska
 ­Forberedt på kriser og krig.
 
 11
+
+[Side 12]
 
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
@@ -514,6 +538,8 @@ Meld. St. 9 (2024–2025): s. 87.
 Våren 2025 legger regjeringen fram en ny strategi for å styrke befolkningens motstandskraft mot
 desinformasjon.
 
+[Side 13]
+
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
 ser vi at forsyningssikkerhet blir stadig viktigere, blant annet gjennom virksomhetenes egenberedskap og deres evne til å håndtere forstyrrelser i forsyningskjeder.
@@ -558,6 +584,8 @@ Meld. St. 9 (2024–2025): s. 85.
 
 13
 
+[Side 14]
+
 Begreper og sammenhenger i sikkerhets- og beredskaps­arbeidet
 
 Riktig kompetanse til å jobbe med sikkerhet og beredskap fordrer planmessig
@@ -570,6 +598,8 @@ grunnleggende for alt arbeid med sikkerhet og beredskap.
 14
 
 Forskrift om virksomheters arbeid med forebyggende sikkerhet (virksomhetssikkerhetsforskriften (VSF)) 2019.
+
+[Side 15]
 
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
@@ -614,6 +644,8 @@ håndteres på lavest mulig nivå.
 
 15
 
+[Side 16]
+
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
 mentets og sektorens funksjonsevne og sette lov, helse og materielle verdier i fare.
@@ -646,6 +678,8 @@ i all behandling av personopplysninger. Universitetene, høyskolene og universit
 forskningsinfrastrukturer, samlinger og historiske bygninger.
 
 16
+
+[Side 17]
 
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
@@ -680,6 +714,8 @@ styringsvirkemidler kan deles inn i følgende hovedgrupper (som i praksis ikke t
 kapitlene 4, 5, og 6.
 
 17
+
+[Side 18]
 
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
@@ -720,6 +756,8 @@ og kontrollerer arbeidet med sikkerhet og beredskap på litt ulike måter innenf
 henholdsvis høyere utdannings- og forskningssektoren på den ene siden, og barnehage- og skolesektoren på den andre siden.
 
 18
+
+[Side 19]
 
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
@@ -764,6 +802,8 @@ Barnehagens arbeid med beredskap er regulert i forskrift om helse og miljø i ba
 hager, skoler og skolefritidsordninger som er en del av Helse- og omsorgsdeparte-
 
 19
+
+[Side 20]
 
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
@@ -810,6 +850,8 @@ Se ellers også avsnitt 7.1 om Beredskapsrådet, der fagskolene er representert.
 
 Forskrift om helse og miljø i barnehager, skoler og skolefritidsordninger.
 
+[Side 21]
+
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
 Private høyskoler
@@ -853,6 +895,8 @@ til selskapets administrasjon og styre. Styret har ansvar for å forvalte selska
 beste for eierne og må foreta de konkrete avveininger og beslutninger.
 
 21
+
+[Side 22]
 
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
@@ -901,6 +945,8 @@ akademisk samarbeid.
 Rundskriv F-04-20 Policy for informasjonssikkerhet og personvern i høyere utdanning og
 forskning. Policyen gjelder for alle statlige universiteter og høyskoler, HK-dir, NOKUT, Sikt, Norges forskningsråd, UNIS, Simula, De nasjonale forskningsetiske komiteer og NUPI.
 
+[Side 23]
+
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
 Virksomhet i utlandet
@@ -946,6 +992,8 @@ Instruks for statsforvalteren og Sysselmesteren på Svalbard sitt arbeid med sam
 beredskap og krisehåndtering.
 
 23
+
+[Side 24]
 
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
@@ -997,6 +1045,8 @@ DSB (2016): Samfunnets kritiske funksjoner.
 
 Regjeringen (2021): Liste over kritiske samfunnsfunksjoner, tilgjengelig på: https://www.regjeringen.no/contentassets/8da70b8196a24296ae730eaf99056c1b/liste-over-kritiske-samfunnsfunksjoner_oppdatert.pdf.
 
+[Side 25]
+
 Kunnskapsdepartementets ansvar for sikkerhet og beredskap
 
 Kritisk infrastruktur i KDs sektor
@@ -1024,6 +1074,8 @@ opprettholde denne infrastrukturen. Som en viktig del av slik kontinuitetsplanle
 ing er det å kartlegge egen sårbarhet og iverksette tiltak for å redusere denne.
 
 25
+
+[Side 26]
 
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
@@ -1090,6 +1142,8 @@ inneholde:
 • Tidsramme/frist for gjennomføring av tiltakene
 • Ansvarlig for hvert enkelt tiltak
 
+[Side 27]
+
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
 4.1 Risiko- og sårbarhetsanalyser
@@ -1135,6 +1189,8 @@ Beredskapsrådet (2022): Veileder i risiko- og sårbarhetsanalyser for kunnskaps
 
 27
 
+[Side 28]
+
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
 De ulike trinnene i ROS-analysearbeidet skal dokumenteres i en helhetlig rapport.
@@ -1173,6 +1229,8 @@ Alle virksomheter må utvikle og vedlikeholde beredskapsplaner for håndtering a
 uønskede hendelser eller kriser. Planen skal utarbeides på grunnlag av ROS-analysen.
 
 28
+
+[Side 29]
 
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
@@ -1218,6 +1276,8 @@ som er den øvingsformen som ligner mest på en virkelig situasjon ved at man ø
 
 29
 
+[Side 30]
+
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
 mot reelle instanser. Hvilken form som er hensiktsmessig, avhenger av øvelsens
@@ -1254,6 +1314,8 @@ kan være nyttige å benytte.
 
 Forskrift om virksomheters arbeid med forebyggende sikkerhet (virksomhetssikkerhets­
 forskriften) § 9.
+
+[Side 31]
 
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
@@ -1297,6 +1359,8 @@ Terrorsikring – en veileder i sikrings- og beredskapstiltak mot tilsiktede uø
 
 31
 
+[Side 32]
+
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
 Veiledere for beredskap ved barnehager og utdanningsinstitusjoner
@@ -1338,6 +1402,8 @@ motstandskraft fra mars 2025 lanserer regjeringen en rekke tiltak. Et av
 
 32
 
+[Side 33]
+
 Krav og forventninger til virksomhetenes arbeid med samfunnssikkerhet
 
 tiltakene er et nytt nasjonalt senter for innsats mot radikalisering og voldelig
@@ -1348,6 +1414,8 @@ utviklingstrekk og forebyggende arbeid til nasjonale, regionale og lokale aktør
 kunnskapssektoren.
 
 33
+
+[Side 34]
 
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
@@ -1408,6 +1476,8 @@ Alle virksomheter i sektoren som er underlagt sikkerhetsloven skal:
 
 Virksomhetssikkerhetsforskriften § 2.
 
+[Side 35]
+
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
 5.1 Lov om nasjonal sikkerhet (sikkerhetsloven)
@@ -1453,6 +1523,8 @@ Virksomhetssikkerhetsforskriften § 3.
 
 35
 
+[Side 36]
+
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
 5.3 Sikkerhetsklarering og autorisasjon
@@ -1497,6 +1569,8 @@ Sikkerhetsloven § 8-1.
 
 Sikkerhetsloven § 8-9.
 
+[Side 37]
+
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
 5.5 Skjermingsverdige verdier
@@ -1539,6 +1613,8 @@ Sikkerhetsloven § 7-1 første ledd.
 
 37
 
+[Side 38]
+
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
 For å vurdere om det foreligger en mulig sikkerhetstruende aktivitet, kan følgende
@@ -1580,6 +1656,8 @@ kunnskap innenfor sensitive fagområder som er attraktive også utenfor våre gr
 årenes trusselvurderinger omtaler norske forskningsinstitusjoner og kunnskaps-
 
 38
+
+[Side 39]
 
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
@@ -1626,6 +1704,8 @@ forberedt på å møte i sitt internasjonale virke.
 Retningslinjer for ansvarlig internasjonalt samarbeid | HK-dir
 
 39
+
+[Side 40]
 
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
@@ -1679,6 +1759,8 @@ no/nb/samarbeid/eksportkontroll-i-kunnskapssektoren
 HK-dir (2024): Eksportkontroll, lisens og oppholdstillatelse, tilgjengelig på: Eksportkontroll, lisens
 og oppholdstillatelse | HK-dir (hkdir.no)
 
+[Side 41]
+
 Krav og forventninger til virksomhetenes arbeid med nasjonal sikkerhet
 
 som vi vet utenlandske aktører forsøker å anskaffe fra Norge til militær bruk i
@@ -1708,6 +1790,8 @@ samt sørge for ledelsesforankring av dette arbeidet. Det kan være hensiktsmess
 utnevne roller med særskilt ansvar for å søke om eksportlisenser.
 
 41
+
+[Side 42]
 
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
@@ -1748,6 +1832,8 @@ Fremtidens digitale Norge. Nasjonal digitaliseringsstrategi 2024–2030
 Digdir: Helhetlig styring og kontroll av informasjonssikkerhet, tilgjengelig på: https://www.digdir.
 no/informasjonssikkerhet/helhetlig-styring-og-kontroll-av-informasjonssikkerhet/2284
 
+[Side 43]
+
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
 KDs underliggende virksomheter som er omfattet av KDs styrings­
@@ -1777,6 +1863,8 @@ med handlingsplan.
 Data Protection Impact Assessment
 
 43
+
+[Side 44]
 
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
@@ -1822,6 +1910,8 @@ modellen er tilgjengelig på HK-dir sine nettsider: Styring av informasjonssikke
 Se oversikter over regelverk i vedlegg til NOU 2018: 14 – IKT-sikkerhet i alle ledd — Organisering
 og regulering av nasjonal IKT-sikkerhet og i vedlegg til F-04-20 Policy for informasjonssikkerhet
 og personvern i høyere utdanning og forskning.
+
+[Side 45]
 
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
@@ -1871,6 +1961,8 @@ Internkontroll/ styringssystem/ ledelsessystem for informasjonssikkerhet (hentet
 
 45
 
+[Side 46]
+
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
 helhetlige styringssystem for sikkerhet. Omfanget av ledelsessystemet bør tilpasses
@@ -1917,6 +2009,8 @@ JD (2015): NOU 2015: 13 – Digital sårbarhet – sikkert samfunn, tilgjengelig
 48
 
 HK-dir (2023): Rammeverk for håndtering av IKT-sikkerhetshendelser i UH-sektoren.
+
+[Side 47]
 
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
@@ -1968,6 +2062,8 @@ NOU 2015: 13 – Digital sårbarhet – sikkert samfunn.
 
 47
 
+[Side 48]
+
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
 praksis. Hvis overføringsgrunnlaget ikke sikrer god nok beskyttelse for personopplysningene i seg selv, må man i tillegg iverksette andre tiltak. Formålet er å sikre at
@@ -2017,6 +2113,8 @@ Datatilsynet (2023): Nye regler for overføring av personopplysninger til USA | 
 
 Datatilsynet: Virksomhetens plikter (hentet 13.02.2025)
 
+[Side 49]
+
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
 Datatilsynet har utarbeidet en rekke veiledere, blant annet om internkontroll og
@@ -2062,6 +2160,8 @@ informasjonssikkerhet for råd om hvordan ledelsens gjennomgang kan gjennomføre
 
 49
 
+[Side 50]
+
 Krav og forventninger til sektorens arbeid med informasjonssikkerhet
 
 også en samling ressurser om informasjonssikkerhet som virksomheter i sektoren
@@ -2075,6 +2175,8 @@ bidra til økt informasjonssikkerhet i kommuner og fylkeskommuner, og tilbyr kur
 og verktøy til bruk i lokalt arbeid med informasjonssikkerhet.
 
 50
+
+[Side 51]
 
 Andre ressurser
 
@@ -2113,6 +2215,8 @@ Med sikresiden.no har sikkerhetspersonell i UH-sektoren også fått etablert en 
 
 51
 
+[Side 52]
+
 Andre ressurser
 
 laget for en mer helhetlig sikkerhetskultur i UH-sektoren og sparer den enkelte
@@ -2130,6 +2234,8 @@ Arbeidet med utvikling, drift og forvaltning av sikresiden.no ledes fra OsloMet,
 alle som deltar i sikresiden-samarbeidet spleiser på utgiftene.
 
 52
+
+[Side 53]
 
 Andre ressurser
 
@@ -2161,6 +2267,8 @@ om internkontroll og informasjonssikkerhet
 – Utdanningsdirektoratet: Sikkerhet og beredskap
 
 53
+
+[Side 54]
 
 Utgitt av: Kunnskapsdepartementet
 Bestilling av publikasjoner:

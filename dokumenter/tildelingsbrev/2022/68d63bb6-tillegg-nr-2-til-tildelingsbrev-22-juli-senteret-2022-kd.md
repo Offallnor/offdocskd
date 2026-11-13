@@ -12,60 +12,40 @@
 
 ---
 
+[Side 1]
+
 22. juli-senteret
 
-Deres ref
-
-Vår ref
-
-Dato
-
-21/6778-
-
-21. juni 2022
+Deres ref                                          Vår ref                                Dato
+                                                   21/6778-                               21. juni 2022
 
 Statsbudsjettet 2022 Tillegg til tildelingsbrev nr. 02-2022 etter RNB 2022
+
 Kunnskapsdepartementet viser til Innst. 450 S (2021-2022), jf. Prop. 115 S (2021-2022)
 Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2022, som ble vedtatt av Stortinget
 17. juni 2022. Likeledes viser vi til tildelingsbrevet for 2022 til 22. juli-senteret, og til søknad
 fra senteret i forbindelse med revidert nasjonalbudsjett.
+
 Stortinget har vedtatt å øke bevilgningen på kap. 251, post 45 Større utstyrsanskaffelser og
-vedlikehold med 2,3 mill. kroner. Midlene er ettårige og knyttet til arbeidet med 22. julisenterets digitale plattformer. Disponibelt beløp på posten i 2022 blir dermed 12,3 mill.
+vedlikehold med 2,3 mill. kroner. Midlene er ettårige og knyttet til arbeidet med 22. juli-
+senterets digitale plattformer. Disponibelt beløp på posten i 2022 blir dermed 12,3 mill.
 kroner.
+
 Når det gjelder rapportering om bruk av midlene, vises det til pkt. 8.3 i tildelingsbrevet for
 2022.
 
 Med hilsen
 
 Marius Seljedal (e.f.)
-avdelingsdirektør
-
-Young-Ai Hwang
-seniorrådgiver
+avdelingsdirektør                                                             Young-Ai Hwang
+                                                                              seniorrådgiver
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi: Riksrevisjonen
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-videregående
-opplæring, fagskole
-og kompetansepolitikk
-
-Saksbehandler
-Young-Ai Hwang
-22 24 75 17
+ Postadresse                  Kontoradresse            Telefon*                 Avdeling                  Saksbehandler
+ Postboks 8119 Dep            Kirkeg. 18               22 24 90 90              Avdeling for              Young-Ai Hwang
+ 0032 Oslo                                             Org.nr.                  videregående              22 24 75 17
+ postmottak@kd.dep.no         www.kd.dep.no            872 417 842              opplæring, fagskole
+                                                                                og kompetansepolitikk

@@ -12,6 +12,8 @@
 
 ---
 
+[Side 1]
+
 Digitaliserings- og
 forvaltnings­departementet
 
@@ -19,6 +21,10 @@ Lærlingestrategi i staten
 (2026–2029)
 
 Strategi
+
+[Side 2]
+
+[Side 3]
 
 Til virksomhetsleder
 Statlige virksomheter spiller en viktig rolle i lærlinge­
@@ -45,6 +51,8 @@ Bente Kraugerud
 Lærlingestrategi i staten (2026–2029)
 
 3
+
+[Side 4]
 
 Utfordringsbilde
 Statistisk sentralbyrå (SSB) anslår at Norge
@@ -84,6 +92,8 @@ kan mangle opp til
 85 000
 
 fagarbeidere i 2035.
+
+[Side 5]
 
 Målbilde
 I løpet av strategiens virkeperiode har statlige
@@ -155,11 +165,15 @@ Lærlingestrategi i staten (2026–2029)
 
 5
 
+[Side 6]
+
 Innsatsområder
 
 6
 
 Lærlingestrategi i staten (2026–2029)
+
+[Side 7]
 
 Bidra til mangfold og inkludering
 i rekrutteringen til læreplasser
@@ -213,6 +227,8 @@ Lærlingestrategi i staten (2026–2029)
 
 7
 
+[Side 8]
+
 Legge til rette for praksisplasser
 for elever på videregående skole
 Mange elever ønsker seg et mer praktisk løp
@@ -251,6 +267,8 @@ en relevant utplassering i løpet av skoletiden,
 og kan også gi virksomheter verdifull erfaring
 når de skal rekruttere lærlinger.
 
+[Side 9]
+
 Øke virksomhetenes
 lærefagportefølje
 Statlige virksomheter bør kartlegge behov og
@@ -272,6 +290,8 @@ virksomheter.
 • Statlige virksomheter tar inn
 flere lærlinger i lærefag som
 samfunnet har behov for.
+
+[Side 10]
 
 Hvem kan bli
 faglig leder?
@@ -318,6 +338,10 @@ Noen virksomheter velger å invitere
 skoleklasser med lærere på bedrifts­
 besøk, der de gir dem presentasjon og
 en omvisning på arbeidsplassen.
+
+[Side 11]
+
+[Side 12]
 
 Utgitt av:
 Digitaliserings- og forvaltningsdepartementet

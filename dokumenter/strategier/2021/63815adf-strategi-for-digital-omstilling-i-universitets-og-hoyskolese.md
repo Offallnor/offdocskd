@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Strategi for digital
@@ -19,6 +21,8 @@ høyskolesektoren
 2021–2025
 
 Strategi
+
+[Side 2]
 
 Forord
 
@@ -44,6 +48,8 @@ Henrik Asheim
 forsknings- og høyere utdanningsminister
 
 2
+
+[Side 3]
 
 Innhold
 
@@ -147,6 +153,8 @@ Universell utforming og tilgjengelighet
 
 34
 
+[Side 4]
+
 1 Innledning
 Formål
 Den digitale omstillingen er en av de største endringene samfunnet vårt skal
@@ -165,6 +173,8 @@ for påfyll. Det innebærer at høyere utdanning må gjøres mer tilgjengelig.
 Universiteter og høyskoler må involvere seg mer i livslang læring. De må ha
 
 4
+
+[Side 5]
 
 desentraliserte og fleksible studietilbud for dem som på grunn av bosted eller
 livssituasjon ikke kan studere fulltid ved en institusjon.1 God digital utdanning
@@ -215,6 +225,8 @@ En slik helhetlig tilnærming for å omforme virksomheten, der teknologien er en
 kalles ofte «digital transformasjon». Se f.eks. omtale hos Digitaliseringsdirektoratet.
 
 5
+
+[Side 6]
 
 Hvem strategien gjelder for
 Denne strategien erstatter Digitaliseringsstrategi for universitets- og
@@ -280,6 +292,8 @@ Meld St. 22 (2020­­–2021) Data som ressurs – Datadrevet økonomi og innova
 
 6
 
+[Side 7]
+
 2 Seks strategiske
 innsatsområder
 For å gi en tydelig retning til det videre arbeidet med hvordan digital
@@ -296,6 +310,8 @@ Kunnskapsdepartementet forventer at tiltak som egner seg som fellesløsninger,
 blir realisert som fellesløsninger.
 
 7
+
+[Side 8]
 
 Digitalisering for fleksibel utdanning
 Ambisjoner
@@ -316,6 +332,8 @@ kombinere fysisk tilstedeværelse og digitalt tilbud på en måte som fremmer
 læring, læringsmiljø og fleksibilitet.
 
 8
+
+[Side 9]
 
 BOKS 1
 
@@ -353,6 +371,8 @@ regionale eller campusbaserte samlinger. En fordel med heldigitale studietilbud
 er at de gjør det mulig å ta høyere utdanning helt uavhengig av hvor man bor.
 
 9
+
+[Side 10]
 
 Institusjoner som samarbeider godt med arbeidslivet og samfunnet, vet
 bedre hvilken kompetanse som trengs. Det gjør det lettere å skape attraktive
@@ -401,6 +421,8 @@ av digital teknologi, jf. Innst. 457 S (2020–2021), S-delen.
 
 10
 
+[Side 11]
+
 Fleksible studietilbud må være nært knyttet til arbeidslivets og samfunnets
 ulike kompetansebehov samt etterspørselen etter utdanning og
 kompetanseutvikling i ulike regionale og lokale arbeidsmarkeder. Utvikling av
@@ -442,6 +464,8 @@ Utvikle ansattes kompetanse om kravene til universell digital utforming.
 Se også Strategi for desentralisert og fleksibel utdanning ved fagskoler, høyskoler og universiteter.
 
 11
+
+[Side 12]
 
 Digital innovasjon i undervisning og læring
 Ambisjoner
@@ -485,6 +509,8 @@ Kunnskapsdepartementet har varslet at det skal nedsettes en ekspertgruppe som sk
 bruk av digital læringsanalyse i grunnopplæring, høyere yrkesfaglig utdanning og høyere utdanning.
 
 12
+
+[Side 13]
 
 Forutsetninger
 Underviserrollen må utvikles slik at den i tillegg til å legge vekt på fagkunnskap,
@@ -534,6 +560,8 @@ Units nettside for arbeid med en nasjonal løsning for tilgang til læringsressu
 melding om Digital Education Action Plan (2021–2027), COMM(2020) 624.
 
 13
+
+[Side 14]
 
 Digitale temaer, metoder og kompetanse i alle fag
 Ambisjoner
@@ -586,6 +614,8 @@ studietilbud.
 
 14
 
+[Side 15]
+
 BOKS 2
 
 Begreper for digital kompetanse
@@ -622,6 +652,8 @@ til å utnytte mulighetene og møte utfordringene som digitaliseringen gir. Det 
 samtidig nødvendig for å kunne utvikle innholdet i utdanningene.
 
 15
+
+[Side 16]
 
 Dersom institusjonene integrerer digitaliseringsrelevante temaer i det faglige
 innholdet i alle studietilbud, vil studentene få en mer relevant utdanning som
@@ -664,6 +696,8 @@ utdanning.
 
 16
 
+[Side 17]
+
 Ansvaret for å utvikle fagområdene og innholdet i utdanningene ligger hos
 fagmiljøene ved hver enkelt institusjon. I mange utdanninger, særlig dem
 som tilbys ved flere institusjoner, kan samarbeid på tvers av institusjonene
@@ -705,6 +739,8 @@ Nærmere omtale i Meld. St. 19 (2020–2021) Styring av statlige universiteter o
 
 17
 
+[Side 18]
+
 Åpen forskning og nye forskningsmuligheter
 Ambisjoner
 • Forskningskvaliteten skal styrkes gjennom digitale teknologier og bruk av
@@ -745,6 +781,8 @@ IT-støtte for samarbeid. Dette vil åpne opp nye forskningsmuligheter.
 
 18
 
+[Side 19]
+
 Etablering av nasjonale stordatasamlinger på områder som for eksempel
 bærekraft og og grønn omstilling muliggjør blant annet stordataanalyser som
 bidrar til at norsk forskning, verdiskaping og forvaltning styrkes.
@@ -777,6 +815,8 @@ FAIR er en engelsk forkortelse: F=findable, A=accessible, I=interoperable, R=reu
 
 19
 
+[Side 20]
+
 Tiltaksområder
 14. Styrke kompetansen innenfor åpen forskning og digital teknologi blant
 forskere og administrativt personell.
@@ -790,6 +830,8 @@ publisering og arkivering av forskningsdata og vurdere nasjonale
 stordatasamlinger på utvalgte områder.
 
 20
+
+[Side 21]
 
 Utnytte data om kunnskapssektoren
 Ambisjoner
@@ -826,6 +868,8 @@ arbeidshverdagen og frigjøre tid til kjerneaktiviteten.
 
 21
 
+[Side 22]
+
 Forutsetninger
 Bruken av digital teknologi for å utnytte data i og om kunnskapssektoren
 må ta hensyn til behovene og interessene til studentene og de ansatte. Det
@@ -857,6 +901,8 @@ Om «orden i eget hus», se f.eks. Digitaliseringsdirektoratets Veileder for ord
 
 22
 
+[Side 23]
+
 Tiltaksområder
 18. Sikre at administrative opplysninger om studenter, forskere og undervisere
 registreres kun én gang og tilgjengeliggjøres fra én kilde.
@@ -874,6 +920,8 @@ sektorens data.
 interessenter.
 
 23
+
+[Side 24]
 
 Ledelse og kultur for digital omstilling
 Ambisjoner
@@ -907,6 +955,8 @@ brukes i dag store ressurser på å utvikle de samme løsningene flere steder, o
 mer deling og samhandling vil kunne redusere den totale ressursbruken.
 
 24
+
+[Side 25]
 
 Forutsetninger
 Organisasjonsutvikling og endringsarbeid ved den enkelte institusjon må ta
@@ -942,6 +992,8 @@ næringsliv, arbeidsliv og offentlig sektor.
 
 25
 
+[Side 26]
+
 3 Fem visjoner for
 framtida
 Hensikten med å presentere fem visjoner for den framtidige tilstanden
@@ -961,6 +1013,8 @@ fleksible opplegg for gjennomføring både på og utenfor campus
 slik at dette fremmer læring og arbeidslivsrelevans
 
 26
+
+[Side 27]
 
 • har tilgang til et personlig digitalt læringsmiljø som er tilpasset mange ulike
 studiesituasjoner og forutsetninger og legger til rette for studentaktiv læring
@@ -1002,6 +1056,8 @@ støttetjenester for sin bruk av digitale verktøy og tjenester i utdanningen
 på sine fagområder
 
 27
+
+[Side 28]
 
 Forskeren:
 • har god forståelse og kunnskap om hvordan digitalisering endrer faget og
@@ -1046,6 +1102,8 @@ med digital utvikling av utdanningene
 
 28
 
+[Side 29]
+
 • sørger for å ha kompetanse, rutiner og retningslinjer som sikrer at
 personvern og informasjonssikkerhet blir ivaretatt på en god måte
 • utnytter digital teknologi til å skaffe seg god styringsinformasjon,
@@ -1073,6 +1131,8 @@ personvern, immaterielle rettigheter og forretningshemmeligheter
 
 29
 
+[Side 30]
+
 4 Forutsetninger
 for arbeidet med
 digital omstilling
@@ -1089,6 +1149,8 @@ europeiske samarbeidsprogrammer som Horisont Europa, Programmet
 for et digitalt Europa og Erasmus+.
 
 30
+
+[Side 31]
 
 Regjeringen forventer at digitalisering skal føre til løsninger som hever
 kvaliteten og møter brukernes behov på en bedre måte. Regjeringen forventer
@@ -1136,6 +1198,8 @@ Begrepet «undervisningstjenester» betyr her f.eks. læringsplattformer, videot
 
 31
 
+[Side 32]
+
 i grunnopplæringen eller fagskolesektoren, og motsatt, om løsninger i andre
 deler av kunnskapssektoren kan utnyttes i universitets- og høyskolesektoren.
 For å kunne realisere gevinstene av den digitaliseringen som strategien legger
@@ -1174,6 +1238,8 @@ det viktig at institusjonene arbeider målrettet og har høy kompetanse om
 
 32
 
+[Side 33]
+
 universell digital utforming. Kompetansen må omfatte både kunnskap om
 tekniske krav og om universell tilrettelegging av digital utdanning. Kravene
 til universell utforming favner forskere, undervisere og studenter i tillegg
@@ -1188,6 +1254,8 @@ utdanning og forskning er nødvendig for å sikre utviklingen av samisk språk,
 kultur og samfunnsliv.
 
 33
+
+[Side 34]
 
 5 Veien videre
 Kunnskapsdepartementet forventer at universitetene, høyskolene, relevante
@@ -1209,6 +1277,8 @@ statlige universiteter og høyskoler.31
 Meld. St. 19 (2020–2021) Styring av statlige universiteter og høyskoler.
 
 34
+
+[Side 35]
 
 Kunnskapsdepartementet forventer at universiteter og høyskoler følger
 opp strategien gjennom sine virksomhetsstrategier og sitt utviklingsarbeid.
@@ -1255,6 +1325,8 @@ Mandat for digitaliseringsstyret fra 2021
 Strategi for helhetlig instituttpolitikk
 
 35
+
+[Side 36]
 
 Utgitt av:
 Kunnskapsdepartementet

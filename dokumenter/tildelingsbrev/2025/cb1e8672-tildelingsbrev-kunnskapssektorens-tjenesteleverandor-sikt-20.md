@@ -12,23 +12,20 @@
 
 ---
 
+[Side 1]
+
 Sikt Kunnskapssektorens tjenesteleverandør
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/6098-
-
-3. mars 2025
+Deres ref                               Vår ref                          Dato
+                                        24/6098-                         3. mars 2025
 
 Statsbudsjettet 2025, kap. 201, post 21. Supplerende tildelingsbrev nr. 1
 til Sikt – Kunnskapssektorens tjenesteleverandør om oppfølging av
 grunnleggende nasjonal funksjon innenfor forskning og utvikling
+
 Vi viser til Stortingets behandling av statsbudsjettet for 2025 på Kunnskapsdepartementets
 område, jf. Innst. 12 S (2024–2025) og Prop. 1 S (2024–2025).
+
 Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til Sikt –
 Kunnskapssektorens tjenesteleverandør datert 19. desember 2024.
 
@@ -44,31 +41,16 @@ Kunnskapsdepartementet tildeler med dette 900 000 kroner til Kunnskapssektorens
 tjenesteleverandør – Sikt. Midlene tildeles over kap. 201 post 21. Sikt skal samarbeide med
 Sigma2 AS om bruken av midlene, og skal videreformidle deler av midlene til Sigma2 AS
 etter behov og i tråd med formålet for tildelingen.
+
 Midlene utbetales til Sikts konto 7694 05 18292 i én rate.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*         Avdeling                   Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90      Avdeling for               Katja Evjen
+ 0032 Oslo                                  Org.nr.          fellestjenester og         22 24 74 16
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842      strategiske
+                                                             satsingsområder
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-fellestjenester og
-strategiske
-satsingsområder
-
-Saksbehandler
-Katja Evjen
-22 24 74 16
+[Side 2]
 
 3. Føringer for tildelingen
 Midlene skal benyttes i Sikts arbeid med å følge opp avgrensingen av en GNF innenfor
@@ -78,6 +60,7 @@ forskning og utvikling.
 Sikt skal inkludere rapportering om bruk av midlene i årsrapporten for 2025 som skal sendes
 til postmottak@kd.dep.no innen 15. mars 2026. Vi forutsetter at virksomheten fører
 prosjektregnskap for disse midlene.
+
 Rapporteringen skal gi en overordnet beskrivelse av måloppnåelse og resultater av tiltaket
 og bekrefte at midlene er benyttet i samsvar med forutsetningene i tildelingsbrevet.
 Skjermingsverdig informasjon skal håndteres i tråd med kravene i sikkerhetsloven § 5-3.
@@ -86,80 +69,59 @@ Med hilsen
 
 Jan Emil Gran (e.f.)
 avdelingsdirektør
-Katja Evjen
-seniorrådgiver
+                                                                          Katja Evjen
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Riksrevisjonen
-Sigma2 AS
 
-Side 2
+ Riksrevisjonen
+ Sigma2 AS
+
+ Side 2
+
+[Side 3]
 
 Sikt Kunnskapssektorens tjenesteleverandør
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/5486-
-
-25. april 2025
+Deres ref                               Vår ref                          Dato
+                                        24/5486-                         25. april 2025
 
 Supplerende tildelingsbrev nr 2 2025
 Vi viser til Kunnskapsdepartementets tildelingsbrev til Sikt – kunnskapssektorens
 tjenesteleverandør for 2025, datert 19. desember 2024. I dette supplerende tildelingsbrevet
 gis Sikt to utredningsoppdrag der utkast tidligere har vært drøftet med Sikt.
-Oppdrag nr:
-Oppdrag:
 
-1/25
-Utrede Sikts rolle som tjenesteleverandør til
-kunnskapssektoren
-Foreløpig utredning innen 20. juni 2025, endelig
-utredning innen 1. november 2025.
-Oppdraget finansieres innenfor gjeldende rammer
-under kap 273 post 50.
+ Oppdrag nr:                             1/25
+ Oppdrag:                                Utrede Sikts rolle som tjenesteleverandør til
+                                         kunnskapssektoren
+ Frist:                                  Foreløpig utredning innen 20. juni 2025, endelig
+                                         utredning innen 1. november 2025.
+ Tildeling:                              Oppdraget finansieres innenfor gjeldende rammer
+                                         under kap 273 post 50.
+ Bakgrunn for oppdraget:
+ Kunnskapsdepartementet har i virksomhets- og økonomiinstruksen angitt at Sikts
+ virkeområde og målgruppe i hovedsak er virksomheter og brukere i kunnskapssektoren.
+ Gjennom sine roller som fellestjenesteleverandør, tilrettelegger for deling og gjenbruk av data
+ og sektorvist responsmiljø for IKT-sikkerhetshendelser, skal Sikt legge til rette for at
+ kunnskapssektoren kan nå sine politiske målsetninger.
 
-Frist:
-Tildeling:
+ I Nasjonal digitaliseringsstrategi 2024–2030 setter regjeringen ambisiøse mål for
+ digitaliseringen av Norge. Strategien legger blant annet vekt på at innbyggerne i Norge skal få
+ enklere og mer sammenhengende offentlige tjenester, nyttiggjøring av kunstig intelligens og
+ at digitaliseringen må ha sterkere styring og samordning på tvers av sektorer. I
+ kunnskapssektoren spiller Sikt en sentral rolle for å nå disse målsettingene.
 
-Bakgrunn for oppdraget:
-Kunnskapsdepartementet har i virksomhets- og økonomiinstruksen angitt at Sikts
-virkeområde og målgruppe i hovedsak er virksomheter og brukere i kunnskapssektoren.
-Gjennom sine roller som fellestjenesteleverandør, tilrettelegger for deling og gjenbruk av data
-og sektorvist responsmiljø for IKT-sikkerhetshendelser, skal Sikt legge til rette for at
-kunnskapssektoren kan nå sine politiske målsetninger.
-I Nasjonal digitaliseringsstrategi 2024–2030 setter regjeringen ambisiøse mål for
-digitaliseringen av Norge. Strategien legger blant annet vekt på at innbyggerne i Norge skal få
-enklere og mer sammenhengende offentlige tjenester, nyttiggjøring av kunstig intelligens og
-at digitaliseringen må ha sterkere styring og samordning på tvers av sektorer. I
-kunnskapssektoren spiller Sikt en sentral rolle for å nå disse målsettingene.
-Etter departementets syn er Sikts rolle som en fellestjenesteleverandør for hele
-kunnskapssektoren ennå ikke tilstrekkelig utviklet. Sikt tilbyr i dag et bredt spekter av
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Etter departementets syn er Sikts rolle som en fellestjenesteleverandør for hele
+ kunnskapssektoren ennå ikke tilstrekkelig utviklet. Sikt tilbyr i dag et bredt spekter av
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+ Postadresse            Kontoradresse       Telefon*         Avdeling                     Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90      Avdeling for eierskap i      Sander Tufte
+ 0032 Oslo                                  Org.nr.          høyere utdanning og
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842      forskning
 
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Sander Tufte
+[Side 4]
 
 tjenester til universitets- og høyskolesektoren, men for andre deler av kunnskapssektoren er
 Sikts rolle pr i dag mer begrenset. I lys av de nasjonale målsettingene for digitaliseringen og
@@ -169,33 +131,20 @@ kunnskapssektoren.
 Beskrivelse av oppdraget:
 Basert på nytte- og kostnadsvurderinger for samfunn, virksomheter og brukere, bes Sikt i
 dette arbeidet blant annet om å konkretisere og begrunne:
-•
 
-Prioriterte brukergrupper i kunnskapssektoren for Sikt framover.
-
-•
-
-Prioriterte tjenesteområder for Sikt framover.
-Dersom det vurderes som hensiktsmessig, kan det tas utgangspunkt i en deling
-mellom eksisterende områder/løsninger som har stort nyttepotensiale gjennom
-bredere bruk i kunnskapssektoren, og nye løsninger/områder der det
-sannsynligvis er et stort uutnyttet potensiale.
-
-•
-
-Rolle- og ansvarsdeling som legger til rette for god samordning med andre virksomheter i
-kunnskapssektoren, både tjenesteutførende virksomheter og de øvrige
-sentraladministrative organene.
-
-•
-
-Rolle- og ansvarsdeling som legger til rette for god samordning med øvrige
-tjenesteleverandører i offentlig sektor.
-
-•
-
-Hvordan man ivaretar god brukermedvirkning og hensiktsmessig styring av
-fellestjenestene, samt andre betingelser for å lykkes.
+•   Prioriterte brukergrupper i kunnskapssektoren for Sikt framover.
+•   Prioriterte tjenesteområder for Sikt framover.
+           Dersom det vurderes som hensiktsmessig, kan det tas utgangspunkt i en deling
+           mellom eksisterende områder/løsninger som har stort nyttepotensiale gjennom
+           bredere bruk i kunnskapssektoren, og nye løsninger/områder der det
+           sannsynligvis er et stort uutnyttet potensiale.
+•   Rolle- og ansvarsdeling som legger til rette for god samordning med andre virksomheter i
+    kunnskapssektoren, både tjenesteutførende virksomheter og de øvrige
+    sentraladministrative organene.
+•   Rolle- og ansvarsdeling som legger til rette for god samordning med øvrige
+    tjenesteleverandører i offentlig sektor.
+•   Hvordan man ivaretar god brukermedvirkning og hensiktsmessig styring av
+    fellestjenestene, samt andre betingelser for å lykkes.
 
 Eventuelle andre føringer for hvordan oppdraget skal utføres:
 Sikt må i utredningen ta tilstrekkelig hensyn til at kunnskapssektoren består av brukere og
@@ -206,6 +155,7 @@ endringer i disse betingelsene, ber vi om at dette konkretiseres. I denne forbin
 også vurdere forholdet til nåværende myndighets-/forvaltningsoppgaver og forholdet mellom
 disse oppgavene og rollen som tjenesteleverandør. Sikt bør også grovt skissere hvilke interne
 konsekvenser i Sikt de foreslåtte strategiske grepene vil ha.
+
 Det finnes i dag ulike strategier med mål for digitalisering på ulike nivåer i
 kunnskapssektoren. Departementet forutsetter at Sikt viser hvordan anbefalingene støtter
 opp om disse strategiene der det er relevant. Det er videre etablert flere samarbeidsarenaer
@@ -219,20 +169,18 @@ kan også inneholde forslag til endringer i mål og parametere som det etter Sik
 
 Side 2
 
+[Side 5]
+
 være nyttig å innarbeide i styringsdokumentene for 2026. Fullstendig utredning leveres innen
 1. november 2025.
-Oppdrag nr:
-Oppdrag:
-Frist:
-Tildeling:
 
-2/25
-Utrede samstyringsmodellen for fellestjenester i
-universitets- og høyskolesektoren
-1. september 2025.
-Oppdraget finansieres innenfor gjeldende rammer
-under kap 273 post 50.
+Oppdrag nr:                            2/25
+Oppdrag:                               Utrede samstyringsmodellen for fellestjenester i
+                                       universitets- og høyskolesektoren
+Frist:                                 1. september 2025.
 
+Tildeling:                             Oppdraget finansieres innenfor gjeldende rammer
+                                       under kap 273 post 50.
 Bakgrunn for oppdraget:
 Basert på erfaringer med dagens samstyringsmodell for uh-sektoren og ambisjonene i
 Nasjonal digitaliseringsstrategi (2024–2030), ser Kunnskapsdepartementet behov for at det
@@ -255,26 +203,29 @@ utganspunkt at dette videreføres i en revidert modell. I dagens modell har HK-d
 sekretariatet for Digitaliseringsstyret. Departementet legger til grunn at Sikt og HK-dir i
 samarbeid tar utgangspunkt i de erfaringer som er opparbeidet i dagens modell som grunnlag
 for vurderinger av aktuelle endringer.
+
 Med utgangspunkt i vurderingene og anbefalingene bes Sikt også utarbeide forslag til et
 revidert mandat for Digitaliseringsstyret. Departementet legger til grunn at Sikt innhenter råd
 og vurderinger fra HK-dir og Digitaliseringsstyret samt andre relevante parter i dette arbeidet.
+
 Leveranse:
 Sikts utredning og forslag til revidert mandat leveres innen 1. september 2025.
 
 Side 3
 
+[Side 6]
+
 Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
-ekspedisjonssjef
-
-Sander Tufte
-avdelingsdirektør
+ekspedisjonssjef                                                          Sander Tufte
+                                                                          avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Riksrevisjonen
 
-Side 4
+ Direktoratet for høyere utdanning og kompetanse
+ Riksrevisjonen
+
+ Side 4

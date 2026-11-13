@@ -12,64 +12,53 @@
 
 ---
 
-Forskningsrådet
-Drammensveien 288
-0283 Oslo
-NordForsk
-Stensberggata 27
-NO-0170 Oslo
-Deres ref
+[Side 1]
 
-Vår ref
-22/62
+   Forskningsrådet
+   Drammensveien 288
+   0283 Oslo
 
-Dato
-29.11.2022
+   NordForsk
+   Stensberggata 27
+   NO-0170 Oslo
 
-Statsbudsjettet 2022, kap. 200, post 21. Supplerende tildelingsbrev for
-konferansen «Blir alt bra? Pandemiens konsekvenser for barn og unge i
-Norden»
-Vi viser til Stortingets behandling av statsbudsjettet for 2022 på Kunnskapsdepartementets
-område jf. Innst. 12 S (2021–2022), Prop. 1 S Tillegg 1 (2021-2022) og Prop. 1 S (2021–2022).
-Vi viser videre til dialog med NordForsk og Forskningsrådet vår og høst 2021, samt bekreftelse
-på tilsagn i epost datert 28.juni 2021.
+   Deres ref                           Vår ref                           Dato
+                                       22/62                             29.11.2022
 
-1. Mål for tildelingen
-Målet for tildelingen er konferansen «Blir alt bra? Pandemiens konsekvenser for barn og unge i
-Norden» på Doga 10.november. Tematikken er relevant opp imot det nasjonale arbeidet med å
-vurdere langsiktige effekter av COVID-19, bl.a. på læring; helse bruk av digitale hjelpemidler og
-plattformer integrering av barn med minoritetsbakgrunn, flyktninger og enslige mindreårige
-asylsøkere; kjønnsforskjeller; deltakelse og inkludering, organisasjonsliv, kulturaktiviteter og
-sivilsamfunn; vennskap og sosiale relasjoner. Tematikken er av høy relevans på tvers av de
-nordiske landene.
-Se her for lenke til konferansen hjemmeside med informasjon om program.
+  Statsbudsjettet 2022, kap. 200, post 21. Supplerende tildelingsbrev for
+  konferansen «Blir alt bra? Pandemiens konsekvenser for barn og unge i
+  Norden»
 
-2. Beløp og utbetaling
-Kunnskapsdepartementet bekrefter herved utbetaling av kr 500 000 til Forskningsrådet og
-NordForsk.
+  Vi viser til Stortingets behandling av statsbudsjettet for 2022 på Kunnskapsdepartementets
+  område jf. Innst. 12 S (2021–2022), Prop. 1 S Tillegg 1 (2021-2022) og Prop. 1 S (2021–2022).
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+  Vi viser videre til dialog med NordForsk og Forskningsrådet vår og høst 2021, samt bekreftelse
+  på tilsagn i epost datert 28.juni 2021.
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+  1. Mål for tildelingen
+  Målet for tildelingen er konferansen «Blir alt bra? Pandemiens konsekvenser for barn og unge i
+  Norden» på Doga 10.november. Tematikken er relevant opp imot det nasjonale arbeidet med å
+  vurdere langsiktige effekter av COVID-19, bl.a. på læring; helse bruk av digitale hjelpemidler og
+  plattformer integrering av barn med minoritetsbakgrunn, flyktninger og enslige mindreårige
+  asylsøkere; kjønnsforskjeller; deltakelse og inkludering, organisasjonsliv, kulturaktiviteter og
+  sivilsamfunn; vennskap og sosiale relasjoner. Tematikken er av høy relevans på tvers av de
+  nordiske landene.
 
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
+  Se her for lenke til konferansen hjemmeside med informasjon om program.
 
-Avdeling:
-Avdeling for eierskap i
-høyere utdanning og
-forskning
+  2. Beløp og utbetaling
+  Kunnskapsdepartementet bekrefter herved utbetaling av kr 500 000 til Forskningsrådet og
+  NordForsk.
 
-Saksbehandler
+Postadresse            Kontoradresse    Telefon *            Avdeling:                 Saksbehandler
+Postboks 8119 Dep      Kirkeg. 18       22 24 90 90          Avdeling for eierskap i
+0032 Oslo                               Org nr.              høyere utdanning og
+postmottak@kd.dep.no   www.kd.dep.no    872 417 842          forskning
+
+[Side 2]
 
 Midlene utbetales til Forskningsrådet sin konto:
+
 6345 05 31105
 
 3. Føringer for tildelingen
@@ -81,8 +70,10 @@ Kunnskapsdepartementet er påkrevd å rapportere fra aktiviteter som finansieres
 delfinansieres av midler fra Nordisk ministerråd. Departementet ber derfor om en kort
 sluttrapport på bruk av midler og gjennomføring av aktivitetene. Rapporten skal også inneholde
 regnskap som viser bruk av midlene.
+
 Forskningsrådet og NordForsk skal samlet sende sluttrapport til postmottak@kd.dep.no med
 kopi til hakon.halgrimsen@kd.dep.no og hakon.kavli@kd.dep.no innen 18. desember 2022.
+
 Rapporteringen skal beskrive måloppnåelse og resultater av tiltaket og bekrefte at tildelingen er
 benyttet i samsvar med forutsetningene.
 
@@ -91,14 +82,16 @@ Kunnskapsdepartementet og Riksrevisjonen kan kontrollere at midlene blir brukt e
 forutsetningene, jf. bevilgningsreglementet og lov om Riksrevisjonen § 12. De tildelte midlene
 kan kreves helt eller delvis tilbakebetalt dersom de ikke benyttes i samsvar med
 forutsetningene.
+
 Med hilsen
+
 Svend Erik Haaland (e.f.)
 Avdelingsdirektør
-Håkon Kavli
-Avdelingsdirektør
+                                                                           Håkon Kavli
+                                                                           Avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
 
 Kopi: Riksrevisjonen
 
-Side 2
+ Side 2

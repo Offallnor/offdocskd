@@ -12,40 +12,31 @@
 
 ---
 
+[Side 1]
+
 Direktoratet for høyere utdanning og
 kompetanse
 PB 1093
 5809 BERGEN
 
-Deres ref
-
-Vår ref
-
-Dato
-
-25/5031-
-
-22. januar 2026
+Deres ref                                  Vår ref                           Dato
+                                           25/5031-                          22. januar 2026
 
 Supplerende tildelingsbrev nr. 1, korreksjon av tildelingsbrev 2026 til
 Direktoratet for høyere utdanning og kompetanse
 Vi viser til tildelingsbrev til Direktoratet for høyere utdanning og kompetanse (HK-dir) for
 2026, datert 19. desember 2025.
+
 Tildeling
 I tildelingsbrevet for 2026 i del 3 Tildeling var to beløp ved en feil utelatt fra brevet.
+
 Departementet stiller med dette følgende midler til disposisjon for HK-dir i 2026:
-Kapittel og post
-201.21
-275.21
 
-Tiltak
-Videreføring av prosjektet ADMOD i SSB
-Prosjekt for å styrke kvaliteten i praksis i
-lærerutdanningene
-
-Beløp i kroner
-1 200 000
-6 600 000
+ Kapittel og post       Tiltak                                                        Beløp i kroner
+ 201.21                 Videreføring av prosjektet ADMOD i SSB                                1 200 000
+                        Prosjekt for å styrke kvaliteten i praksis i                          6 600 000
+ 275.21
+                        lærerutdanningene
 
 Presisering av tildeling på Kap. 270 post 74 Tilskudd til velferdsarbeid
 Av tilskuddet til studentsamskipnadene er 4,1 mill. kroner øremerket Studentinords
@@ -54,54 +45,32 @@ velferdstilbud på Nesna, jf. Prop. 1 S (2023–2024) for Kunnskapsdepartementet
 Med hilsen
 
 Sander Tufte (e.f.)
-avdelingsdirektør
+avdelingsdirektør                                            Lea Fuglestad
+                                                             seniorrådgiver
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse              Kontoradresse        Telefon*          Avdeling                  Saksbehandler
+ Postboks 8119 Dep        Kirkeg. 18           22 24 90 90       Avdeling for eierskap i   Lea Fuglestad
+ 0032 Oslo                                     Org.nr.           høyere utdanning og       22 24 76 88
+ postmottak@kd.dep.no     www.kd.dep.no        872 417 842       forskning
 
-Lea Fuglestad
-seniorrådgiver
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Lea Fuglestad
-22 24 76 88
+[Side 2]
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Riksrevisjonen
+ Riksrevisjonen
 
-Side 2
+ Side 2
+
+[Side 3]
 
 Direktoratet for høyere utdanning og
 kompetanse
 PB 1093
 5809 BERGEN
 
-Deres ref
-
-Vår ref
-
-Dato
-
-25/5031-
-
-18. mars 2026
+Deres ref                               Vår ref                         Dato
+                                        25/5031-                        18. mars 2026
 
 Statsbudsjettet 2026, kap. 201, post 21. Supplerende tildelingsbrev nr. 2
 til Direktoratet for høyere utdanning og kompetanse om flytting av
@@ -109,49 +78,40 @@ oppgaven med koordinering og pådriverfunksjon for datadeling i
 kunnskapssektoren
 Vi viser til Stortingets behandling av statsbudsjettet for 2026 på Kunnskapsdepartementets
 område jf. Innst. 12 S (2025-2026) og Prop. 1 S (2025-2026).
+
 Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til Direktoratet for
 høyere utdanning og kompetanse (HK-dir) datert 19. desember 2025, til brev fra
 Kunnskapsdepartementet til virksomhetene datert 3. desember 2025 med beslutning om at
 ansvaret for koordinering og pådriverfunksjon for arbeidet med datadeling skal flyttes fra
 HK-dir til Sikt – Kunnskapssektorens tjenesteleverandør og til brev fra Sikt datert 24. februar
 d.å. med forslag til dato for formell overføring av oppgaven og deling av tildelingen for 2026.
+
 1. Mål for tildelingen
 Det er besluttet at ansvaret for koordinering og pådriverfunksjon for arbeidet med datadeling
 skal flyttes fra HK-dir til Sikt.
+
 Dato for formell overføring av oppgaven settes til 1. mars 2026. Det legges ikke opp til å
 overføre ansatte fra HK-dir til Sikt.
+
 2. Beløp og utbetaling
 Kunnskapsdepartementet stiller med dette 2 943 000 kroner til disposisjon for HK-dir på kap.
 201, post 21.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*        Avdeling                  Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     avdeling for eierskap i   Siri Elen Brattli-
+ 0032 Oslo                                  Org.nr.         høyere utdanning og       Singh
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842     forskning                 22 24 73 27
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Siri Elen BrattliSingh
-22 24 73 27
+[Side 4]
 
 3. Føringer for tildelingen
-Tildelingen til HK-dir skal benyttes til å finansiere avsluttende forpliktelser knyttet til KUDAFoppgaven.
+Tildelingen til HK-dir skal benyttes til å finansiere avsluttende forpliktelser knyttet til KUDAF-
+oppgaven.
+
 4. Krav til rapportering
 HK-dir skal inkludere rapportering om bruk av midlene i årsrapporten for 2026 som skal
 sendes til postmottak@kd.dep.no innen 15. mars 2027.
+
 Rapporteringen skal gi en overordnet beskrivelse av måloppnåelse og resultater av tiltaket
 og bekrefte at midlene er benyttet i samsvar med forutsetningene i det supplerende
 tildelingsbrevet.
@@ -160,12 +120,14 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Siri Elen Brattli-Singh
-seniorrådgiver
+                                                                          Siri Elen Brattli-Singh
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Riksrevisjonen
-Sikt Kunnskapssektorens tjenesteleverandør
 
-Side 2
+ Riksrevisjonen
+ Sikt Kunnskapssektorens tjenesteleverandør
+
+ Side 2

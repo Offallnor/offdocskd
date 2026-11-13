@@ -11,10 +11,14 @@
 
 ---
 
+[Side 1]
+
 Strategi
 
 Strategi for forskerrekruttering
 og karriereutvikling
+
+[Side 2]
 
 Innhold
 Forord ved minister
@@ -133,6 +137,8 @@ Hvem har hvilke roller og ansvar for hva i rekrutterings-, karriereog ansattpoli
 
 2
 
+[Side 3]
+
 Forord ved minister
 Koronapandemien har igjen gjort det svært tydelig for oss hvor viktig forskning og forskere
 er. Uten sterke forskningsmiljøer og dedikerte forskere hadde det ikke vært mulig å utvikle
@@ -159,6 +165,8 @@ Forsknings- og høyere utdanningsminister
 
 3
 
+[Side 4]
+
 1
 Ambisjoner og
 mål for strategien
@@ -184,6 +192,8 @@ Hvor doktorene arbeider etter avlagt grad, varierer fra fagområde til fagområd
 tallet av doktorene fra humaniora og samfunnsvitenskap fortsetter å arbeide i universitets-
 
 4
+
+[Side 5]
 
 og høyskolesektoren, gjelder det et mindretall av doktorene innenfor teknologi, matematikk
 og naturvitenskap, medisin og helsefag samt landbruksfag og veterinærmedisin.3 Sektor­
@@ -229,6 +239,8 @@ ansvarsfordelingen i rekrutterings- og karrierepolitikken.
 
 5
 
+[Side 6]
+
 2
 3
 Endringer i
@@ -262,6 +274,8 @@ jobber utenfor universitets- og høyskolesektoren, eller ønsker dette, opplever
 utdanningen er mindre relevant.
 
 6
+
+[Side 7]
 
 Ph.d.-utdanning
 
@@ -314,6 +328,8 @@ institutter som mottar sin statlige grunnfinansiering gjennom Norges forskningsr
 graden ved en gradsgivende institusjon.
 
 7
+
+[Side 8]
 
 Ph.d.-utdanning fortsetter
 
@@ -371,6 +387,8 @@ Seks år etter at innstegsstillingen ble innført er den, med unntak av ved
 Som figur 1 viser, har antallet vitenskapelig ansatte med doktorgrad ved de høyere ­utdanningsog forskningsinstitusjonene økt de siste 20 årene. Veksten har imidlertid vært sterkest for
 
 8
+
+[Side 9]
 
 rekrutteringsstillingene. Det er i stor grad et resultat av en villet politikk: De siste 20 årene
 har det vært lagt fram flere opptrappingsplaner. Den første opptrappingen kom med
@@ -467,6 +485,8 @@ Foreløpige tall for 2020.
 
 9
 
+[Side 10]
+
 3
 4
 Fem rekrutterings- og
@@ -492,6 +512,8 @@ enn det reelt er behov for og rettslig adgang til.»34 I tillegg bemannes forskn
 ifra behov for spisskompetanse som trengs for å løse spesifikke prosjektoppgaver, og som
 
 10
+
+[Side 11]
 
 nødvendigvis ikke speiler institusjonenes langsiktige kompetanse- og rekrutteringsbehov eller
 behov for handlingsrom. Mange av dem som ansettes til å utføre prosjektoppgavene som
@@ -536,6 +558,8 @@ fra fagområde til fagområde og fra bransje til bransje. Framover kreves økt i
 rekruttering av kandidater fra norske institusjoner og arbeidsliv for øvrig til forskning.
 
 11
+
+[Side 12]
 
 3.3 Manglende karriereveiledning
 Manglende karriereveiledning bidrar til at forskerkompetansen ikke blir godt nok utnyttet
@@ -583,6 +607,8 @@ ressurskrevende og mer gruppebasert. Et mer allsidig evaluerings- og merittering
 
 12
 
+[Side 13]
+
 ansees også som et bidrag til å øke mangfoldet og styrke likestillingen blant de vitenskapelig
 ansatte. Dette kan i tillegg redusere overdrevent konkurransefokus. Initiativene kan leses som
 et forsøk på å adressere en lite transparent rekrutteringskultur og uheldige maktstrukturer i
@@ -612,6 +638,8 @@ forskningsinstitusjonene.
 
 13
 
+[Side 14]
+
 4
 Fem innsatsområder
 
@@ -639,6 +667,8 @@ blant studenter er å skape økt bevissthet om at doktorgradsutdanningen er en i
 jobber i alle sektorer.
 
 14
+
+[Side 15]
 
 Interessen for doktorgradsutdanning i arbeidslivet generelt økes
 Arbeidsgivere i offentlig og privat sektor bør legge til rette for at ansatte som ønsker å
@@ -679,6 +709,8 @@ ansvar for å sikre at dimensjoneringen er i tråd med samfunnsbehovene.60 Samti
 også framover bli nødvendig for sentrale myndigheter å supplere institusjonenes dimensjonering ved underdekning i arbeidsmarkedet eller ut fra politiske prioriteringer.
 
 15
+
+[Side 16]
 
 For å bidra til et godt beslutningsgrunnlag, vil det legges til rette for at doktorgradsutdanningen
 kan inngå i det helhetlige analyse- og informasjonssystemet om de nasjonale og regionale
@@ -725,6 +757,8 @@ doktorgradsutdanningen på en god måte.
 
 16
 
+[Side 17]
+
 4.2 Sikre gode og forutsigbare rammer for å videreutvikle unge
 forskertalenter
 Skal vi klare å beholde forskertalentene i forskning og høyere utdanning, trenger vi forutsigbare
@@ -770,6 +804,8 @@ beyond academia.65
 
 17
 
+[Side 18]
+
 Kunnskapsdepartementet mener det viktig å fange opp disse signalene i revisjonen av
 forskriften.66
 Aune-utvalget foreslo at det ikke skulle være adgang til å gi ansettelse til mer enn én periode som postdoktor i Norge.67 Forslaget fikk lite gehør i høringsrunden. Flere påpekte at en
@@ -805,6 +841,8 @@ For postdoktorer med doktorgrad fra utlandet skal det, der det er relevant
 andre forskningsmiljøer i Norge.
 
 18
+
+[Side 19]
 
 Innstegsstillingen
 For å svare på rekrutteringsutfordringer ved universitetene og høyskolene og gi unge forskere
@@ -851,6 +889,8 @@ og Komité for kjønnsbalanse og mangfold i forskning (Kif) med EU-landene for �
 
 19
 
+[Side 20]
+
 Virkemidler rettet mot karriereutvikling for unge forskere
 
 VIRKEMIDLER I NORGES FORSKNINGSRÅD:
@@ -892,6 +932,8 @@ bedre forskeres betingelser, spesielt Charter&Code og HRS4R og bruke Euraxess-po
 
 20
 
+[Side 21]
+
 4.3 Styrke karriereveiledning inn og ut av forskning og høyere utdanning
 Skal vi som samfunn få mest mulig ut av ressursene vi investerer i forskning og høyere utdanning
 er det avgjørende at det jobbes mer systematisk med karriereveiledning for vitenskapelig ansatte
@@ -931,6 +973,8 @@ karriereveiledning.
 
 21
 
+[Side 22]
+
 TILTAK OG OPPFØLGING:
 • Kunnskapsdepartementet vil sette ned et prosjekt for å utvikle et rammeverk for
 karriereveiledning for ansatte i rekrutteringsstillinger. Disse bør være i tråd med
@@ -966,6 +1010,8 @@ slik omlegging hvor en i større grad bruker stillingstyper som ikke er hjemlet 
 finansiering der stillinger er finansiert over flere kilder.
 
 22
+
+[Side 23]
 
 En strategisk og målrettet rekrutteringspolitikk
 De høyere utdannings- og forskningsinstitusjonene har et viktig ansvar for å legge til
@@ -1009,6 +1055,8 @@ midlertidigheten i UH-sektoren hvor prinsipper for beste praksis er utviklet.72
 
 23
 
+[Side 24]
+
 Kunnskapsdepartementets virkemidler for
 personal- og karrierepolitikken
 
@@ -1044,6 +1092,8 @@ i strategien og nye krav i det internasjonale forsknings- og innovasjonssamarbei
 utenfor EU.
 
 24
+
+[Side 25]
 
 Vedlegg
 
@@ -1152,6 +1202,8 @@ Figur 2 Antall doktorgrader, og prosentandel avlagte doktorgrader av kvinner og 
 Kilde: NIFU, Doktorgradsregisteret.
 
 25
+
+[Side 26]
 
 Prosent
 100
@@ -1293,6 +1345,8 @@ Kilde: NIFU, Doktogradsregisteret.
 
 26
 
+[Side 27]
+
 Prosent
 100
 
@@ -1396,6 +1450,8 @@ Figur 6 Stipendiater etter region for fødeland og kjønn. 2007, 2010, 2014, 201
 Kilde: NIFU/SSB, mangfoldstatistikk.
 
 27
+
+[Side 28]
 
 Fagområde
 
@@ -1739,6 +1795,8 @@ Foreløpige tall for 2020.
 
 28
 
+[Side 29]
+
 Antall
 2 500
 
@@ -1894,6 +1952,8 @@ Foreløpige tall for 2020.
 
 10
 
+[Side 30]
+
 Prosent – Andel med utenlandsk doktorgrad
 100
 90
@@ -1971,6 +2031,8 @@ Foreløpige tall for 2020.
 10
 
 Humaniora og kunstfag
+
+[Side 31]
 
 Forskerstillingene
 
@@ -2229,6 +2291,8 @@ Tabell 5 Forskerstillinger fordelt på finansiering og fast vs. midlertidig tils
 si Forsker (1109), Forsker (1110), Forsker (1183). Kilde: DBH.
 
 31
+
+[Side 32]
 
 B Utviklingstrekk for midlertidighet
 2016
@@ -2635,6 +2699,8 @@ som midlertidige. Inkluderer stillingskoder i kategoriene UN1, AD3, ST1, ST2 og 
 
 32
 
+[Side 33]
+
 Tiltak regjeringen har gjort for å redusere midlertidighet
 Regjeringen har slått fast i Granavolden-plattformen (17. januar 2019) at fast ansettelse skal være hovedregelen
 i det norske arbeidslivet.
@@ -2671,6 +2737,8 @@ ivaretakelse av tilliten til statsforvaltningen. Loven gjelder for arbeidsforhol
 
 33
 
+[Side 34]
+
 Likestillings- og diskrimineringslovens formål er å fremme likestilling og hindre diskriminering blant annet
 på grunnlag av kjønn og etnisitet. Loven gjelder på alle samfunnsområder. Loven pålegger offentlige myndigheter og arbeidsgivere å jobbe aktivt for å fremme likestilling. Dette innebærer at offentlige myndigheter i all
 sin virksomhet skal arbeide aktivt, målrettet og planmessig for å fremme likestilling og hindre diskriminering.
@@ -2702,6 +2770,8 @@ for rekrutterings, undervisnings- og forskningsstillinger under Kunnskapsdeparte
 
 34
 
+[Side 35]
+
 Hvem har hvilke roller og ansvar for hva i rekrutterings-, karriere- og ansattpolitikken?
 Arbeidslivet generelt:
 Kommunal- og moderniseringsdepartementet (KMD) har ansvaret for den sektorovergripende arbeidsgiverpolitikken i staten. Denne gir rammer for utøvelsen av arbeidsgiverfunksjonen i statlige virksomheter. Som
@@ -2732,6 +2802,8 @@ av arbeidet er å støtte og gi anbefalinger om karrierefremmende tiltak og vær
 om dette arbeidet for å fremme et større mangfold.
 
 35
+
+[Side 36]
 
 Referanser
 1
@@ -2835,6 +2907,8 @@ erfaringer. NIFU Rapport 2020:31, s. 105.
 
 36
 
+[Side 37]
+
 32 OECD definerer proletariat som «postdoctoral researchers holding fixed-term positions without permanent or continuous
 employment prospects». Se OECD 2021. Reducing the precarity of academic research careers. OECD Science, Technology,
 and Industry Policy Papers No. 113, s. 3.
@@ -2906,6 +2980,8 @@ om ansettelsesvilkår for stillinger som postdoktor, stipendiat, vitenskapelig a
 
 37
 
+[Side 38]
+
 71 Prop. 111 L Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
 (samleproposisjon), s. 68.
 72 Tiltak for reduksjon av midlertidigheten i UH-sektoren. Rapport fra arbeidsgruppe nedsatt av Kunnskapsdepartementet.
@@ -2917,6 +2993,8 @@ erfaringer. NIFU Rapport 2020:31, s. 105.
 75 SSB 2021. 05612: Midlertidig ansatte, etter statistikkvariabel og år.
 
 38
+
+[Side 39]
 
 Bilde eller grafikk legges inn her
 

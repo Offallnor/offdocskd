@@ -12,27 +12,24 @@
 
 ---
 
+[Side 1]
+
 22. juli-senteret
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/7160-
-
-13. mars 2025
+Deres ref                                          Vår ref                              Dato
+                                                   24/7160-                             13. mars 2025
 
 Statsbudsjettet 2025 Tillegg til tildelingsbrev nr. 01-2025 - Overføring av
 ubrukte midler fra 2024
 Kunnskapsdepartementet viser til tildelingsbrevet for 2025 til 22. juli-senteret og til søknad fra
 22. juli-senteret om overføring av ubrukte midler fra 2024 (jf. brev av 10. februar 2025).
+
 Med grunnlag i Finansdepartementets godkjenning 4. mars 2025 til å overføre ubrukte
 bevilgninger fra statsbudsjettet for 2024, gis med dette 22. juli-senteret fullmakt til ytterligere
 å belaste kap. 229, post 01 med inntil 1,452 mill. kroner og kap. 229, post 45 med inntil
 40,013 mill. kroner på statsbudsjettet for 2024. 22. juli-senteret disponerer da 35,480 mill.
 kroner på kap. 229, post 01 og 64,413 mill. kroner på kap. 229, post 45.
+
 Når det gjelder rapportering om bruk av midlene, vises det til pkt. 8 i tildelingsbrevet for 2025.
 
 Tidspunkt for etatsstyringsmøte
@@ -43,35 +40,21 @@ Med hilsen
 
 Ronja Andresen (e.f.)
 avdelingsdirektør
-Young-Ai Hwang
-seniorrådgiver
+                                                                          Young-Ai Hwang
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse                 Kontoradresse             Telefon*               Avdeling                Saksbehandler
+ Postboks 8119 Dep           Kirkeg. 18                22 24 90 90            Avdeling for            Young-Ai Hwang
+ 0032 Oslo                                             Org.nr.                videregående            22 24 75 17
+ postmottak@kd.dep.no        www.kd.dep.no             872 417 842            opplæring, fagskole
+                                                                              og kompetansepolitikk
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-videregående
-opplæring, fagskole
-og kompetansepolitikk
-
-Saksbehandler
-Young-Ai Hwang
-22 24 75 17
+[Side 2]
 
 Kopi
+
 Riksrevisjonen
 
 Side 2

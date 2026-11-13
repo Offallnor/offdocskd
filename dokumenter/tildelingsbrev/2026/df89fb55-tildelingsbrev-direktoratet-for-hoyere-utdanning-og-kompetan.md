@@ -6,24 +6,19 @@
 - Mottaker: Direktoratet for høyere utdanning og kompetanse
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2864833
 - Original-PDF: https://www.regjeringen.no/contentassets/35e08b38d60a46b9b1ef32ee999b853b/tildelingsbrev-til-hk-dir-2026.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 23 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/72cac111-c736-494e-ac92-c166df89fb55
 - Hentet: 2026-11-13
 
 ---
 
+[Side 1]
+
 Direktoratet for høyere utdanning og
 kompetanse
 
-Deres ref.
-
-Vår ref
-
-Dato
-
-25/5031
-
-19. desember 2025
+Deres ref.                                              Vår ref                                      Dato
+                                                        25/5031                                      19. desember 2025
 
 Tildelingsbrev til Direktoratet for høyere utdanning og kompetanse for
 2026
@@ -36,58 +31,23 @@ Tildelingsbrevet og eventuelle supplerende tildelingsbrev skal publiseres på vi
 nettsider så snart de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2026 består av følgende deler:
-1
+1    Innledning........................................................................................................................ 2
+2    Mål .................................................................................................................................. 5
+3    Tildeling ........................................................................................................................... 7
+4    Andre forutsetninger og krav ......................................................................................... 15
+5    Rapportering og resultatoppfølging................................................................................ 17
 
-Innledning........................................................................................................................ 2
+ Postadresse                    Kontoradresse                Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep              Kirkeg. 18                   22 24 90 90                Avdeling for eierskap i      Lea Fuglestad
+ 0032 Oslo                                                                              høyere utdanning og
+ postmottak@kd.dep.no           www.kd.dep.no                Org.nr.                    forskning
+                                                             872 417 842
 
-2
+[Side 2]
 
-Mål .................................................................................................................................. 5
+1     Innledning
 
-3
-
-Tildeling ........................................................................................................................... 7
-
-4
-
-Andre forutsetninger og krav ......................................................................................... 15
-
-5
-
-Rapportering og resultatoppfølging................................................................................ 17
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-
-Telefon*
-22 24 90 90
-
-www.kd.dep.no
-
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Lea Fuglestad
-
-1
-
-Innledning
-
-1.1
-
-Regjeringens prioriteringer og forventninger
-
+1.1       Regjeringens prioriteringer og forventninger
 Regjeringen ønsker å ta Norge videre – tryggere, mer rettferdig og med sterkere fellesskap.
 Regjeringens plan for Norge handler om trygghet for økonomien, for arbeids- og
 næringslivet, for barn og unge, for helse og for landet. Utdanning, forskning og innovasjon er
@@ -124,15 +84,16 @@ Redusert økonomisk handlingsrom i Norge i årene som kommer vil kunne medføre
 strammere driftsrammer, også for virksomhetene i kunnskapssektoren. Departementet
 forventer at HK-dir utvikler egen omstillingsevne for å kunne møte endrede økonomiske
 rammer framover
+
 1 Meld. St. 5 (2022-2023) – Langtidsplan for forskning og høyere utdanning 2023–2032
+
 2 Meld. St. 14 (2024-2025) – Sikker kunnskap i en usikker verden
 
-Side 2
+ Side 2
 
-1.2
+[Side 3]
 
-Særskilte forventninger
-
+1.2       Særskilte forventninger
 Oppfølging av Meld. St. 11 (2024–2025) Fagfolk for en ny tid – med høyere yrkesfaglig
 utdanning
 HK-dir skal fortsette å bidra til oppfølging av tiltak i fagskolemeldingen rettet mot fagskoler,
@@ -144,6 +105,7 @@ ansvar for høyere yrkesfaglig utdanning. HK-dir skal bidra inn i arbeidet med �
 Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR). HK-dir skal samarbeide med
 Sikt, NOKUT og fylkeskommunene der hvor det er nødvendig for å sikre gode løsninger for
 forvaltning og kvalitetsutvikling i fagskolesektoren.
+
 Godkjenning av utenlandsk utdanning
 HK-dir skal fortsette arbeidet med å effektivisere godkjenningsordningene og gjøre
 informasjon om utenlandsk utdanning lett tilgjengelig for arbeidsgivere og andre aktører. Her
@@ -151,6 +113,7 @@ viser departementet også til oppdraget fra Arbeids- og inkluderingsdepartemente
 nr. 2024-10), særlig arbeidet med en database, som det forventes vil gi positive effekter på
 søknadsinngangen og på saksbehandlingstiden. Direktoratet skal jobbe for å redusere
 etterslepet betydelig, særlig hva gjelder godkjenning av utenlandsk høyere utdanning.
+
 Internasjonalisering
 HK-dir skal i 2026 fortsette å bidra til KDs arbeid med på- og medvirkning av og
 forberedelser til ny programperiode for Erasmus+ og følge opp nye EU-initiativ med relevans
@@ -159,9 +122,11 @@ programperiode for EØS-midlene. I forbindelse med norsk formannskap i Nordisk M
 i 2027 forventes HK-dir å bidra i planleggingen av formannskapsprogrammet i 2026, samt
 gjennomføringen av programmet i 2027. HK-dir skal bidra til å følge opp det bilaterale
 utdanningssamarbeidet med regjeringens prioriterte samarbeidsland.
+
 Oppfølging av Meld. St.14. (2024–2025) Sikker kunnskap i en usikker verden
 Systemmeldingen redegjør for forskningssikkerhet som et nytt politikkområde i rask utvikling,
-og legger stor vekt på behovet for å tydeliggjøre ulike aktørers roller og ansvar, herunder HKdirs rolle og ansvar. KD forventer at HK-dir følger opp forventningene i meldingen, og
+og legger stor vekt på behovet for å tydeliggjøre ulike aktørers roller og ansvar, herunder HK-
+dirs rolle og ansvar. KD forventer at HK-dir følger opp forventningene i meldingen, og
 fortsetter å ta en aktiv rolle i arbeidet med å fremme kunnskap og bevissthet om
 forskningssikkerhet og ansvarlig internasjonalt samarbeid, og at disse temaene integreres i
 direktoratets analyse- og formidlingsarbeid, rådgiving, utlysninger og søknadsbehandling der
@@ -170,10 +135,13 @@ Meldingen adresserer også verdien av arbeidstakere med forskerkompetanse i nors
 arbeidsliv, og behov for å koble nyutdannede forskere med virksomheter i bredden av
 arbeidslivet, samt bistå både nasjonale og internasjonale stipendiater i rekrutterings- og
 
-Side 3
+ Side 3
+
+[Side 4]
 
 søknadsprosessene. Departementet forventer at HK-dir følger opp dette tiltakspunktet i
 dialog med KD.
+
 Tverrsektorielt samarbeid for at flere skal få en varig tilknytning til arbeidslivet
 Arbeidsmarkeds-, integrerings- og utdanningsmyndighetene har felles mål om å gi flere
 muligheten til å fullføre videregående opplæring, herunder en fagopplæring, eller annen
@@ -185,6 +153,7 @@ inn i samarbeidet med de øvrige virksomhetene innen sine ansvarsområder for å
 kjente barrierer for tilgang til opplæring. Samarbeidet kan handle om livsopphold og
 tilpasning av tjenestene til målgruppen, og skal bidra til at tiltak som treffer målgruppen skal
 henge bedre sammen.
+
 Annet
 Departementet vil arbeide med nye utviklingsavtaler med de statlige universitetene og
 høyskolene i 2026, og vil ved behov be HK-dir om å bistå med analyser.
@@ -209,100 +178,94 @@ gjelder Kunnskapsdepartementets ansvarsområde.
 Se ellers vedlegg med særskilte oppdrag for HK-dir i 2026.
 
 3 Tildelingsbrev 2026 til IMDi
+
 4 Handlingsplan: Sjef i eget liv – styrket innsats mot negativ sosial kontroll og æresmotivert vold 2025-2028
 
-Side 4
+ Side 4
 
-2
+[Side 5]
 
-Mål
+2       Mål
 
-2.1
-
-Målstrukturen for sektoren
-
+2.1       Målstrukturen for sektoren
 Kunnskapsdepartementet har følgende tre overordnede mål for kunnskapssektoren:
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-
-•
-
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-
-•
-
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
-utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (20252026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
+utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (2025-
+2026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
 Det er viktig med godt samspill mellom departementets underliggende virksomheter slik at
 alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Mål for HK-dir
-
+2.2       Mål for HK-dir
 Nedenfor følger mål og styringsparametere for direktoratets virksomhet.
+
 Mål 1: Utdanningsinstitusjoner og opplæringstilbydere har tilbud av høy kvalitet
 Styringsparametere
-1.1 Kvalitetsutvikling i utdanningene og livslang læring
-1.2 Internasjonalisering i hele utdanningsløpet
-1.3 Samordning og iverksetting av digital omstilling i universitets- og høyskolesektoren
-1.4 Inkluderende og universelt utformet læringsmiljø
+    1.1 Kvalitetsutvikling i utdanningene og livslang læring
+    1.2 Internasjonalisering i hele utdanningsløpet
+    1.3 Samordning og iverksetting av digital omstilling i universitets- og høyskolesektoren
+    1.4 Inkluderende og universelt utformet læringsmiljø
+
 Mål 2: Den enkelte har god kunnskap om og tilgang til utdanning, karriereveiledning
 og livslang læring
 Styringsparametere
-2.1 Effektivitet og brukervennlighet i opptak til høyere utdanning og høyere yrkesfaglig
-utdanning
-2.2 Effektivitet og brukervennlighet i norskopplæringstilbud for voksne innvandrere
-2.3 Tilgang til fleksible utdannings- og opplæringstilbud hele livet, i hele landet
-2.4 Tilgang til og bruk av karriereveiledningstjenester av høy kvalitet
-2.5 Tilgang på og bruk av nøytral og kvalitetssikret informasjon om kvalifikasjoner,
-utdanning og arbeidsmarked
+    2.1 Effektivitet og brukervennlighet i opptak til høyere utdanning og høyere yrkesfaglig
+    utdanning
+    2.2 Effektivitet og brukervennlighet i norskopplæringstilbud for voksne innvandrere
+    2.3 Tilgang til fleksible utdannings- og opplæringstilbud hele livet, i hele landet
+    2.4 Tilgang til og bruk av karriereveiledningstjenester av høy kvalitet
+    2.5 Tilgang på og bruk av nøytral og kvalitetssikret informasjon om kvalifikasjoner,
+    utdanning og arbeidsmarked
+
 Mål 3: Dokumentasjon av utdanning, kompetanse og kvalifikasjoner gir den enkelte
 adgang til utdanning og arbeid
 Styringsparametere
-3.1 Kvalitet i innhold og rammer for gjennomføring av prøver i norsk og
-samfunnskunnskap samt statsborgerprøve, rettet mot voksne innvandrere
+    3.1 Kvalitet i innhold og rammer for gjennomføring av prøver i norsk og
+    samfunnskunnskap samt statsborgerprøve, rettet mot voksne innvandrere
 
-Side 5
+ Side 5
 
-3.2 Effektivitet og brukervennlighet i godkjenning av utenlandsk utdanning og
-yrkeskvalifikasjoner
-3.3 Tilbydernes og veiledningsapparatets kunnskap om og bruk av
-realkompetansevurdering
-3.4 Arbeids- og samfunnslivets kunnskap om ferdighetsnivåer i norsk språk
-3.5 Arbeids- og samfunnslivets kunnskap om utenlandsk utdanning
+[Side 6]
+
+  3.2 Effektivitet og brukervennlighet i godkjenning av utenlandsk utdanning og
+  yrkeskvalifikasjoner
+  3.3 Tilbydernes og veiledningsapparatets kunnskap om og bruk av
+  realkompetansevurdering
+  3.4 Arbeids- og samfunnslivets kunnskap om ferdighetsnivåer i norsk språk
+  3.5 Arbeids- og samfunnslivets kunnskap om utenlandsk utdanning
+
 Mål 4: Kompetansepolitikken er godt samordnet og stimulerer til kompetanseutvikling
 og samarbeid mellom arbeidsliv og utdanning
 Styringsparametere
-4.1 Aktørene i arbeidslivets involvering i utvikling av strategier og virkemidler for
-kompetanseutvikling i arbeidslivet
-4.2 Vilkår for og deltakelse i læring og kompetanseutvikling i hele arbeidslivet
-4.3 Tverrsektorielt samarbeid om kvalifisering
-4.4 Samsvar mellom arbeidslivets etterspørsel etter kompetanse og utdannings- og
-opplæringstilbud
-4.5 Tverrsektorielt samarbeid om å bidra til balanse mellom tilbud og etterspørsel etter
-kompetent arbeidskraft
+  4.1 Aktørene i arbeidslivets involvering i utvikling av strategier og virkemidler for
+  kompetanseutvikling i arbeidslivet
+  4.2 Vilkår for og deltakelse i læring og kompetanseutvikling i hele arbeidslivet
+  4.3 Tverrsektorielt samarbeid om kvalifisering
+  4.4 Samsvar mellom arbeidslivets etterspørsel etter kompetanse og utdannings- og
+  opplæringstilbud
+  4.5 Tverrsektorielt samarbeid om å bidra til balanse mellom tilbud og etterspørsel etter
+  kompetent arbeidskraft
+
 Mål 5: Myndigheter, institusjoner og aktørene i arbeidslivet har et godt
 kunnskapsgrunnlag for sine beslutninger om utdanning, forskning og
 kompetanseutvikling
 Styringsparametere
-5.1 Relevante analyser og kunnskapsgrunnlag innenfor direktoratets ansvarsområder
-5.2 Formidling og bruk av kunnskapsgrunnlaget
-5.3 Tilgjengelighet og gjenbruk av data i kunnskapssektoren
-5.4 Oversikt over risiko- og sikkerhetstilstand i forsknings- og høyere utdanningssektoren
-innenfor sikkerhetsdomenene samfunnssikkerhet og beredskap, nasjonal sikkerhet,
-informasjonssikkerhet og personvern.
-5.5 Kunnskap om effektene av internasjonalisering, internasjonalt samarbeid og
-internasjonal utveksling av elever, studenter og ansatte på alle utdanningsnivåer
+  5.1 Relevante analyser og kunnskapsgrunnlag innenfor direktoratets ansvarsområder
+  5.2 Formidling og bruk av kunnskapsgrunnlaget
+  5.3 Tilgjengelighet og gjenbruk av data i kunnskapssektoren
+  5.4 Oversikt over risiko- og sikkerhetstilstand i forsknings- og høyere utdanningssektoren
+  innenfor sikkerhetsdomenene samfunnssikkerhet og beredskap, nasjonal sikkerhet,
+  informasjonssikkerhet og personvern.
+  5.5 Kunnskap om effektene av internasjonalisering, internasjonalt samarbeid og
+  internasjonal utveksling av elever, studenter og ansatte på alle utdanningsnivåer
 
-Side 6
+ Side 6
 
-3
+[Side 7]
 
-Tildeling
+3       Tildeling
 
 Kunnskapsdepartementet stiller med dette driftsmidlene og midlene til prosjekter,
 programmer og tilskuddsordninger under punkt 3.1 og 3.2 nedenfor til disposisjon for HK-dir i
@@ -314,42 +277,20 @@ HK-dir er bruttobudsjettert og inngår i nettoordningen for merverdiavgift, og t
 derfor ekskl. merverdiavgift.
 Sammenlignet med saldert budsjett for 2025 er det lagt til grunn følgende
 prisjusteringsfaktorer i statsbudsjettet for 2026:
-•
-•
-•
-
-01-poster: 2,7 pst. (driftsutgifter utenom lønn)
-21-, 50- og 70-poster: 3,6 pst.
-60-poster: 3,7 pst
-
+    •     01-poster: 2,7 pst. (driftsutgifter utenom lønn)
+    •     21-, 50- og 70-poster: 3,6 pst.
+    •     60-poster: 3,7 pst
 Det er lagt inn helårsvirkning av lønnsoppgjøret for 2025 i statsbudsjettet for 2026.
 Bevilgning for lønnsregulering i 2026 som følge av lønnsoppgjøret i 2026 behandles som
 egen sak i Stortinget. Departementet sender supplerende tildelingsbrev om dette i oktober/
 november 2026.
 
-3.1
+3.1       Driftsmidler
 
-Driftsmidler
-
-Kap. 256 Direktoratet for høyere utdanning og kompetanse
-
-Kroner
-
-Post 01
-
-Driftsutgifter
-
-525 287
-
-Post 21
-
-Spesielle driftsutgifter
-
-15 699
-
-Sum
-
-540 986
+ Kap. 256 Direktoratet for høyere utdanning og kompetanse                          Kroner
+ Post 01          Driftsutgifter                                                  525 287
+ Post 21          Spesielle driftsutgifter                                          15 699
+ Sum                                                                              540 986
 
 Bevilgningen på post 01 skal dekke utgifter til lønn, godtgjørelser og øvrig drift av
 virksomheten.
@@ -364,13 +305,16 @@ virksomhet etter beslutning fra komiteen, i tillegg til sekretariatsfunksjonen. 
 føringer i oppnevningsbrev til ny Kif-komité for perioden 2026–2029, med brevdato
 10. november 2025.
 
-Side 7
+ Side 7
+
+[Side 8]
 
 Bevilgningen på post 01 er økt med 3 000 000 kroner til drift av nasjonalt studentombud for
 fagskolestudenter, mot en tilsvarende reduksjon på kap. 241, post 21.
 Det er flyttet 5 204 000 kroner til post 01 fra post 21, som følge av at arbeidet med universell
 utforming har blitt varig. Bevilgningen på post 01 er også økt med 1 000 000 kroner for å
 videre styrke dette arbeidet.
+
 Det er flyttet 2 500 000 kroner til post 01 fra post 21, fordi dette er midler til faste driftsutgifter.
 I bevilgningen på post 21 inngår 3 mill. kroner til prosjektet Fremtidens opptak. I
 statsbudsjettet for 2026 er det bevilget totalt 18,5 mill. kroner til prosjektet. Midlene var fordelt
@@ -380,6 +324,7 @@ fordelingen i 2026, ved å flytte 1,9 mill. kroner fra kap. 256, post 21 til Sik
 Departementet tar sikte på å komme tilbake til dette i forbindelse med revidert
 nasjonalbudsjett for 2026. 1,9 mill. kroner på kap. 256, post 21 stilles derfor ikke til
 disposisjon for HK-dir.
+
 Bevilgningen på post 01 er redusert med 10 000 000 kroner som følge av Stortingets
 budsjettvedtak om å redusere byråkrati i sentralforvaltningen. Kunnskapsdepartementet viser
 i denne forbindelse til forventningen i punkt 1.1 i tildelingsbrevet om at HK-dir utvikler sin
@@ -390,34 +335,23 @@ godkjenning av yrkeskvalifikasjoner skal ligge under Nærings- og fiskerideparte
 Digitaliserings- og forvaltningsdepartementet skal styrke Statens innkjøpssenters arbeid med
 felles nye innkjøpsavtaler for staten. Bevilgningen på post 01 er redusert med 45 000 kroner
 til formålet.
+
 Departementet legger til grunn at HK-dir benytter minimum samme beløp i 2025 som i 2024
 som medfinansiering til drift av HK-dir som nasjonalkontor for Erasmus+.
 Departementet viderefører tildelingen på 2 000 000 kroner fra 2024 til arbeidet med
 godkjenning av utenlandsk utdanning til og med 2026.
-Kap. 3256 Direktoratet for høyere utdanning og kompetanse
 
-Kroner
+ Kap. 3256 Direktoratet for høyere utdanning og kompetanse                                 Kroner
+ Post 01      Inntekter ved oppdrag                                                    7 189 000
+ Post 02      Inntekter fra refusjoner mv.                                            36 069 000
 
-Post 01
-
-Inntekter ved oppdrag
-
-7 189 000
-
-Post 02
-
-Inntekter fra refusjoner mv.
-
-36 069 000
-
-Sum
-
-43 258 000
-
+ Sum                                                                                  43 258 000
 Inntektene på post 01 gjelder inntekter HK-dir får fra oppdrag de utfører.
 Inntektene på post 02 gjelder i hovedsak inntekter fra refusjoner av kostnader.
 
-Side 8
+ Side 8
+
+[Side 9]
 
 Bevilgningen på kap. 256, post 01 kan overskrides mot tilsvarende merinntekt på kap. 3256,
 post 02. Bevilgningen på kap. 256, post 21 kan overskrides mot tilsvarende merinntekt på
@@ -425,139 +359,58 @@ kap. 3256, post 01. Merinntekter som gir grunnlag for overskridelser av utgiftsb
 skal også dekke merverdiavgift knyttet til overskridelsen og påvirker derfor også kap. 1633,
 post 01 for statlige forvaltningsorganer som inngår i nettoordningen for merverdiavgift.
 
-3.2
-
-Midler til prosjekter, programmer og tilskuddsordninger
-
+3.2       Midler til prosjekter, programmer og tilskuddsordninger
 Nærmere føringer for tildelingene er omtalt per kapittel.
-Kap. 201 Analyse og kunnskapsgrunnlag
-Post 21
 
-Spesielle driftsutgifter
-
-Kroner
-1 500 000
-
+Kap. 201 Analyse og kunnskapsgrunnlag                                              Kroner
+Post 21    Spesielle driftsutgifter                                             1 500 000
 Kap. 225 Tiltak i grunnopplæringen
-Post 69
-
-Tiltak for fullføring og kvalifisering i videregående opplæring
-
-98 200 000
-
+Post 69    Tiltak for fullføring og kvalifisering i videregående opplæring     98 200 000
 Kap. 240 Fagskoler
-Post 60
-
-Driftstilskudd til fagskoler
-
-Post 61
-
-Utviklingsmidler til fagskoler, kan overføres
-
-1 800 463 000
-78 270 000
-
+Post 60    Driftstilskudd til fagskoler                                      1 800 463 000
+Post 61    Utviklingsmidler til fagskoler, kan overføres                       78 270 000
 Kap. 241 Felles tiltak for fagskoler
-Post 21
-
-Spesielle driftsutgifter, kan overføres
-
-14 100 000
-
+Post 21    Spesielle driftsutgifter, kan overføres                             14 100 000
 Kap. 254 Studieforbund mv.
-Post 70
-
-Tilskudd til studieforbund
-
-67 312 000
-
-Post 73
-
-Tilskudd til voksenopplæringsorganisasjoner
-
-2 573 000
-
+Post 70    Tilskudd til studieforbund                                          67 312 000
+Post 73    Tilskudd til voksenopplæringsorganisasjoner                          2 573 000
 Kap. 257 Kompetanseprogrammet
-Post 70
-
-Tilskudd, kan overføres
-
-232 786 000
-
+Post 70    Tilskudd, kan overføres                                            232 786 000
 Kap. 258 Tiltak for livslang læring
-Post 21
-
-Spesielle driftsutgifter, kan overføres
-
-75 300 000
-
+Post 21    Spesielle driftsutgifter, kan overføres                             75 300 000
 Kap. 270 Studentvelferd
-Post 74
-
-Tilskudd til velferdsarbeid m.v.
-
-93 538 000
-
+Post 74    Tilskudd til velferdsarbeid m.v.                                    93 538 000
 Kap. 272 Tiltak for internasjonalisering og høyere utdanning
-Post 71
-
-Tilskudd til tiltak for internasjonalisering, kan overføres
-
-225 626 000
-
-Post 72
-
-Tilskudd til tiltak for høyere utdanning, kan overføres
-
-68 007 000
-
+Post 71    Tilskudd til tiltak for internasjonalisering, kan overføres        225 626 000
+Post 72    Tilskudd til tiltak for høyere utdanning, kan overføres             68 007 000
 Kap. 275 Tiltak for høyere utdanning og forskning
-Post 21 Spesielle driftsutgifter, kan overføres, kan nyttes under post 70
+Post 21 Spesielle driftsutgifter, kan overføres, kan nyttes under post 70       2 000 000
 Kap. 288 Internasjonale samarbeidstiltak
 
-Side 9
+ Side 9
 
-2 000 000
+[Side 10]
 
-Post 74
+Post 74     EUs program for utdanning, opplæring, ungdom og idrett               10 600 000
+Totalt til prosjekter, programmer og tilskuddsordninger                       2 770 275 000
 
-EUs program for utdanning, opplæring, ungdom og idrett
-
-Totalt til prosjekter, programmer og tilskuddsordninger
-
-3.2.1
-
-10 600 000
-2 770 275 000
-
-Nærmere om tildelingen på kap. 201 Analyse og kunnskapsgrunnlag
-
+3.2.1      Nærmere om tildelingen på kap. 201 Analyse og kunnskapsgrunnlag
 Tildelingen gjelder 1 500 000 kroner til forskningsprosjekt om godkjenning av utenlandsk
 utdanning. Se også vedlegg med særskilte oppdrag.
 Departementet ber HK-dir sørge for videreføring av prosjektet ADMOD i SSB. Med forbehold
 om Stortingets bevilgning løper den nye prosjektperioden til 1.12.2028.
-3.2.2
 
-Nærmere om tildelingen på kap. 225 Tiltak i grunnopplæringen
-
+3.2.2      Nærmere om tildelingen på kap. 225 Tiltak i grunnopplæringen
 Tildelingen på post 69 gjelder følgende tilskudd til fylkeskommunene:
--
-
-83 200 000 kroner til å stimulere til økt bruk av ordningen Fagbrev på jobb. Midlene
-skal fordeles basert på oppdaterte tall fra SSB over utdanningsnivå og alder i fylkene.
-
--
-
-15 000 000 kroner til tilskuddsordning for utprøving av ulike modeller for samarbeid
-mellom karrieresentre og ungdomsskole og videregående opplæring, jf. oppdrag
-2025-002.
-
+    -     83 200 000 kroner til å stimulere til økt bruk av ordningen Fagbrev på jobb. Midlene
+          skal fordeles basert på oppdaterte tall fra SSB over utdanningsnivå og alder i fylkene.
+    -     15 000 000 kroner til tilskuddsordning for utprøving av ulike modeller for samarbeid
+          mellom karrieresentre og ungdomsskole og videregående opplæring, jf. oppdrag
+          2025-002.
 Fra 2026 er tilskudd til å bygge ut tilbudet om videregående opplæring i tråd med
 fullføringsretten innlemmet i rammetilskuddet til fylkeskommunene.
-3.2.3
 
-Nærmere om tildelingen på kap. 240 Fagskoler
-
+3.2.3      Nærmere om tildelingen på kap. 240 Fagskoler
 Tildelingen på post 60 er driftstilskuddet til offentlige og private fagskoler, som HK-dir skal
 fordele til fylkeskommunene. Tilskuddsordningen omfatter et tilskudd som er øremerket tolv
 private fagskoler som tidligere var godkjente etter privatskoleloven kap. 6A. Ordningen
@@ -577,7 +430,9 @@ Fra 2026 er kapittel 240, post 61 budsjettert med en årlig bevilgning og en til
 med tilhørende tilsagnsfullmakt, jf. vedlegg om fullmakter for 2026. Tilsagnsrammen for
 posten skal svare til summen av tilsagn som HK-dir kan gi i budsjettåret. Det er
 
-Side 10
+ Side 10
+
+[Side 11]
 
 tilsagnsrammen som definerer hvor mye midler som kan lyses ut av HK-dir i budsjettåret,
 ikke bevilgningen. Tilsagnsrammen for 2026 er på 80 651 000 kroner.
@@ -590,35 +445,21 @@ forpliktelser og nye tilsagn som kommer til utbetaling etter 2026.
 HK-dir skal ifm. forberedelser til de årlige statsbudsjettmilepælene utarbeide anslag for
 tilsagnsramme, tilsagnsfullmakt, bevilgning, samt synliggjøre oversikt over samlede flerårige
 forpliktelser på tilskuddsposten. Se vedlegg om frister for budsjettarbeidet.
+
 Tabell 1 Kap. 240, post 61. Tilsagnsramme, bevilgning og tilsagnsfullmakt for 2026
-Tilsagnsramme
 
-80 651 000 kroner
+ Tilsagnsramme                                    80 651 000 kroner
+ Bevilgning                                       78 270 000 kroner
+ Tilsagnsfullmakt                                 33 300 000 kroner
 
-Bevilgning
-
-78 270 000 kroner
-
-Tilsagnsfullmakt
-
-33 300 000 kroner
-
-3.2.4
-
-Nærmere om tildelingen på kap. 241 Felles tiltak for fagskoler
-
+3.2.4      Nærmere om tildelingen på kap. 241 Felles tiltak for fagskoler
 Tildelingen skal gå til tiltak som skal utvikle kvaliteten i høyere yrkesfaglig utdanning og
 kunnskapsgrunnlaget om fagskolesektoren. Dette gjelder blant annet følgende tiltak:
--
+   -    3 100 000 kroner til arbeid med å synliggjøre høyere yrkesfaglig utdanning, formidle
+        kunnskap om høyere yrkesfaglig utdanning til karriereveiledere, og tilrettelegge for
+        mangfold og universell utforming i høyere yrkesfaglig utdanning
 
-3 100 000 kroner til arbeid med å synliggjøre høyere yrkesfaglig utdanning, formidle
-kunnskap om høyere yrkesfaglig utdanning til karriereveiledere, og tilrettelegge for
-mangfold og universell utforming i høyere yrkesfaglig utdanning
-
-3.2.5
-
-Nærmere om tildelingen på kap. 254 Studieforbund
-
+3.2.5      Nærmere om tildelingen på kap. 254 Studieforbund
 Tildelingen på post 70 gjelder tilskudd til Akademisk Studieforbund, Studieforbundet Livslang
 Læring og Studieforbundet næring og samfunn. Tildelingen er redusert med 6 mill. kroner
 som følge av konkursen til AOF Norge, og at det ikke har kommet søknader om å etablere et
@@ -632,23 +473,22 @@ Studieforbundene under Kunnskapsdepartementet skal rapportere inn fjorårets akt
 SSB via Kompetanseforbundet.
 Tildelingen på post 73 gjelder tilskudd til Fleksibel utdanning Norge (FuN).
 
-Side 11
+ Side 11
 
-3.2.6
+[Side 12]
 
-Nærmere om tildelingen på kap. 257 Kompetanseprogrammet
-
+3.2.6      Nærmere om tildelingen på kap. 257 Kompetanseprogrammet
 Tildelingen på post 70 gjelder ulike tiltak for kompetanseutvikling i arbeidslivet. I
 Kompetanseprogrammet inngår programområdene for treparts bransjeprogram for
 kompetanseutvikling og Kompetansepluss.
 Treparts bransjeprogram for kompetanseutvikling omfatter følgende bransjer i 2026:
-- Industri- og byggenæringen
-- Finansnæringen
-- Informasjonssikkerhet og IKT
-- Helse- og omsorgssektoren
-- Solkraftbransjen
-- Barnehagesektoren
-- SFO-sektoren
+   - Industri- og byggenæringen
+   - Finansnæringen
+   - Informasjonssikkerhet og IKT
+   - Helse- og omsorgssektoren
+   - Solkraftbransjen
+   - Barnehagesektoren
+   - SFO-sektoren
 I revidert budsjett for 2025 ble det vedtatt å bevilge midler til å opprette et bransjeprogram for
 ansatte i barnehagesektoren, bevilgningen på posten økes derfor med 15 000 000 kroner i
 2026. I tillegg økes bevilgningen på posten med ytterligere 15 000 000 kroner til et
@@ -669,98 +509,48 @@ HK-dir skal ifm. forberedelser til de årlige statsbudsjettmilepælene utarbeide
 tilsagnsramme, tilsagnsfullmakt, bevilgning, samt synliggjøre oversikt over samlede flerårige
 forpliktelser på tilskuddsposten. Se vedlegg om frister for budsjettarbeidet.
 Tabell 2 Kap. 257, post 70. Tilsagnsramme, bevilgning og tilsagnsfullmakt for 2026
-Tilsagnsramme
 
-267 000 000 kroner
+ Tilsagnsramme                                    267 000 000 kroner
+ Bevilgning                                       232 786 000 kroner
+ Tilsagnsfullmakt                                 143 700 000 kroner
 
-Bevilgning
-
-232 786 000 kroner
-
-Tilsagnsfullmakt
-
-143 700 000 kroner
-
-3.2.7
-
-Nærmere om tildelingen på kap. 258 Tiltak for livslang læring
-
+3.2.7      Nærmere om tildelingen på kap. 258 Tiltak for livslang læring
 Tildelingen på post 21 finansierer tidsbegrensede tiltak innenfor kompetansepolitikken.
 
-Side 12
+ Side 12
+
+[Side 13]
 
 I 2026 er bevilgningen på posten redusert med 7 mill. kroner. Driften av den nasjonale
 digitale karriereveiledningstjenesten karriereveiledning.no er tidligere tildelt
 fylkeskommunene over denne posten. Samarbeidsavtalen med fylkeskommunene som har
 bidratt til driften er nå utfaset og driften er overført til HK-dir.
+
 Tildelingen på kapittel 258, post 21 fordeler seg slik:
 25 000 000 kroner til pilot for kompetansereform i industrien.
 18 500 000 kroner til modulstrukturert voksenopplæring.
 4 700 000 kroner til karriereveiledning som skal dekke:
--
-
-arbeid med kvalitetsrammeverk for karriereveiledning
-
--
-
-tiltak for å gjøre karriereveiledning.no bedre kjent
-
--
-
-tilskudd til miljøer som tilbyr masterutdanning i karriereveiledning
-
+   -    arbeid med kvalitetsrammeverk for karriereveiledning
+   -    tiltak for å gjøre karriereveiledning.no bedre kjent
+   -    tilskudd til miljøer som tilbyr masterutdanning i karriereveiledning
 27 100 000 kroner til kvalitetsutvikling som skal dekke:
--
+   -    Kompetansebehovsutvalget
+   -    tilskudd til kompetanseutvikling for lærere i voksenopplæringen
+   -    samarbeid mellom HK-dir, AV-dir og IMDi for at flere ledige, permitterte og utsatte
+        grupper på arbeidsmarkedet skal fullføre videregående opplæring og få varig
+        tilknytning til arbeidslivet, jf. oppdrag nr. 2021-014. Det omfatter digitale verktøy for
+        voksne som ønsker å ta fagutdanning.
+   -    Finnlærebedrift.no, jf. oppdrag nr. 2022-012
+   -    videreutdanning av fagkonsulenter i realkompetansevurdering
+   -    evaluering av Kompetansepluss
 
-Kompetansebehovsutvalget
-
--
-
-tilskudd til kompetanseutvikling for lærere i voksenopplæringen
-
--
-
-samarbeid mellom HK-dir, AV-dir og IMDi for at flere ledige, permitterte og utsatte
-grupper på arbeidsmarkedet skal fullføre videregående opplæring og få varig
-tilknytning til arbeidslivet, jf. oppdrag nr. 2021-014. Det omfatter digitale verktøy for
-voksne som ønsker å ta fagutdanning.
-
--
-
-Finnlærebedrift.no, jf. oppdrag nr. 2022-012
-
--
-
-videreutdanning av fagkonsulenter i realkompetansevurdering
-
--
-
-evaluering av Kompetansepluss
-
-3.2.8
-
-Nærmere om tildeling på kap. 270 Tilskudd til velferdsarbeid
-
+3.2.8      Nærmere om tildeling på kap. 270 Tilskudd til velferdsarbeid
 Tildelingen innebærer følgende fordeling av tilskudd:
--
-
-Studentsamskipnadene: 74 353 000 kroner
-
--
-
-Association of Norwegian Students Abroad: 11 450 000 kroner
-
--
-
-Norsk studentorganisasjon: 4 300 000 kroner
-
--
-
-Organisasjon for norske fagskolestudenter: 2 900 000 kroner
-
--
-
-Stipendiatorganisasjonene i Norge: 535 000 kroner
+    -      Studentsamskipnadene: 74 353 000 kroner
+    -      Association of Norwegian Students Abroad: 11 450 000 kroner
+    -      Norsk studentorganisasjon: 4 300 000 kroner
+    -      Organisasjon for norske fagskolestudenter: 2 900 000 kroner
+    -      Stipendiatorganisasjonene i Norge: 535 000 kroner
 
 3.2.9 Nærmere om tildeling på kap. 272 Tiltak for internasjonalisering og høgare
 utdanning
@@ -768,115 +558,59 @@ Tildelingen på post 71 finansierer tiltak for internasjonalisering. Fra 2026 fa
 Norgeskunnskap i utlandet gradvis ut over to år. Ordningen blir redusert med 4,5 mill. kroner
 i 2026, og avvikles helt fra 2027.
 Post 71 skal dekke:
--
+   -    programmet UTFORSK (oppfølging av Panorama-strategien)
+   -    77 256 000 kroner til Den nordiske avtalen om gjensidig tilgang til høyere utdanning
 
-programmet UTFORSK (oppfølging av Panorama-strategien)
+ Side 13
 
--
+[Side 14]
 
-77 256 000 kroner til Den nordiske avtalen om gjensidig tilgang til høyere utdanning
-
-Side 13
-
--
-
-10 001 000 kroner i tilskudd til The U.S.-Norway Fulbright Foundation for Educational
-Exchange
-
--
-
-5 600 000 til ordningen Norgeskunnskap i utlandet
-
--
-
-prosjektetableringsstøtte Erasmus+
-
--
-
-tilskudd til internasjonalt samarbeid og utveksling i grunnskolen og den videregående
-skolen
-
--
-
-7 097 000 kroner til United World College
-
--
-
-Det europeiske ungdomsparlamentet
-
--
-
-Den norske UNESCO-kommisjonens tilskuddsordning for UNESCO-formål
-
--
-
-forpliktede utbetalinger til ordninger og program som ble avviklet i 2024 og 2025
-
--
-
-Tilskudd til det europeiske senteret for moderne språk i Graz
+   -     10 001 000 kroner i tilskudd til The U.S.-Norway Fulbright Foundation for Educational
+         Exchange
+   -     5 600 000 til ordningen Norgeskunnskap i utlandet
+   -     prosjektetableringsstøtte Erasmus+
+   -     tilskudd til internasjonalt samarbeid og utveksling i grunnskolen og den videregående
+         skolen
+   -     7 097 000 kroner til United World College
+   -     Det europeiske ungdomsparlamentet
+   -     Den norske UNESCO-kommisjonens tilskuddsordning for UNESCO-formål
+   -     forpliktede utbetalinger til ordninger og program som ble avviklet i 2024 og 2025
+   -     Tilskudd til det europeiske senteret for moderne språk i Graz
 
 Tildelingen på post 72 finansierer tiltak for høyere utdanning. Fra 2026 fases tilskuddet til
 International Council for Open and Distance Education (ICDE) gradvis ut over to år.
 Tilskuddet blir redusert med 1,5 mill. kroner i 2026, og avvikles helt fra 2027.
 Post 72 skal dekke:
--
+   -     Lærebokordningen for høyere utdanning
+   -     Støtteordningen for åpne norskspråklige tidsskrift innenfor humaniora og
+         samfunnsvitenskap
+   -     Utdanningskvalitetsprisen for høyere utdanning
+   -     1 450 000 kroner i tilskudd til International Council for Open and Distance Education
+         (ICDE)
+   -     2 500 000 kroner til tilskuddsordningen for universell utforming i høyere utdanning
+   -     Forpliktede utbetalinger til ordninger og program som ble avviklet i 2024
 
-Lærebokordningen for høyere utdanning
-
--
-
-Støtteordningen for åpne norskspråklige tidsskrift innenfor humaniora og
-samfunnsvitenskap
-
--
-
-Utdanningskvalitetsprisen for høyere utdanning
-
--
-
-1 450 000 kroner i tilskudd til International Council for Open and Distance Education
-(ICDE)
-
--
-
-2 500 000 kroner til tilskuddsordningen for universell utforming i høyere utdanning
-
--
-
-Forpliktede utbetalinger til ordninger og program som ble avviklet i 2024
-
-3.2.10
-
-Nærmere om tildelingen på kap. 275 Tiltak for høyere utdanning og forskning
-
+3.2.10     Nærmere om tildelingen på kap. 275 Tiltak for høyere utdanning og forskning
 Tildelingen skal gå til å gjennomføre en undersøkelse av norske arbeidsgiveres perspektiv
 på kompetansen fra høyere utdanning, jf. de tidligere nasjonale arbeidsgiverundersøkelsene.
 Departementet ønsker dialog med direktoratet om planlegging av undersøkelsen, jf. 1.2.
 ovenfor.
-3.2.11
 
-Nærmere om tildelingen på kap. 288 Internasjonale samarbeidstiltak
-
+3.2.11     Nærmere om tildelingen på kap. 288 Internasjonale samarbeidstiltak
 Tildelingen skal gå til å lønne nasjonale eksperter i Europakommisjonen.
 
-3.3
-
-Fullmakter
-
+3.3      Fullmakter
 Departementet har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse
 med Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert
 administrativ fullmakt til virksomheten. Oversikt over delegerte fullmakter er vedlagt.
 
-Side 14
+ Side 14
 
-4
+[Side 15]
 
-Andre forutsetninger og krav
+4     Andre forutsetninger og krav
 
-4.1
-
-Fellesføringer fra regjeringen
+4.1     Fellesføringer fra regjeringen
 
 4.1.1 Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk
@@ -886,6 +620,7 @@ hensyn til ivaretakelse av virksomhetens kjerneoppgaver og kostnadseffektivitet.
 HK-dir skal også vurdere hvordan klimaendringene vil påvirke virksomheten. HK-dir skal
 gjøre systematiske vurderinger av egen energibruk og ta i bruk lønnsomme energieffektive
 løsninger, samt øke energifleksibiliteten der dette er relevant.
+
 4.1.2 Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
 eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
@@ -897,10 +632,8 @@ HK-dir skal i årsrapporten oppgi antallet ansettelser av personer med funksjons
 og/eller fravær fra arbeid, utdanning eller opplæring i 2026 og det totale antallet ansettelser i
 virksomheten i 2026. Virksomheten skal også omtale utviklingen i 2026 sett opp mot det
 virksomheten har rapportert for 2025.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3      Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. HK-dir skal arbeide for å redusere konsulentbruken på områder der det ligger til
 rette for å benytte interne ressurser og kompetanse. Utover informasjons- og
@@ -917,16 +650,13 @@ konsulenttjenester er vesentlige, bør virksomheten i note til årsregnskapet sp
 nærmere. Dersom HK-dir har større kjøp av konsulenttjenester fra andre statlige
 leverandører, bør dette fremgå særskilt.
 
-Side 15
+ Side 15
 
-4.2
+[Side 16]
 
-Andre krav
+4.2     Andre krav
 
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2.1      Sikkerhet og beredskap
 Det forutsettes at virksomheten holder seg oppdatert om trusselvurderinger fra nasjonale
 fagmyndigheter og støtter opp om hovedprioriteringene i Nasjonal sikkerhetsstrategi.
 2026 markeres som Totalforsvarsåret, hvis mål er å styrke Norges evne til å forebygge og
@@ -949,20 +679,16 @@ identifisert som de med høyest risiko for virksomheten?
 4. Redegjør for arbeidet med styringssystem for sikkerhet, herunder hvordan dette
 samordnes med ledelsessystem for informasjonssikkerhet og virksomhetsstyringen for øvrig.
 (jf. kap. 5 i styringsdokumentet).
-4.2.2
 
-Krav ved inngåelse av leieavtaler
-
+4.2.2      Krav ved inngåelse av leieavtaler
 Kunnskapsdepartementet minner om regelverket som gjelder for inngåelse av leieavtaler i
 markedet. Ved inngåelse av leieavtaler der leieavtalens samlede forpliktelse overstiger 30
 mill. kroner skal Statsbygg brukes som rådgiver. Leieavtaler med samlet forpliktelse over 100
 mill. kroner, inkludert opsjoner, skal godkjennes av departementet. Disse kravene gjelder
 også ved forlengelse av eksisterende avtaler. Det vises også til vedlegg til tildelingsbrevet
 om fullmakter.
-4.2.3
 
-Oppfølging av nasjonal digitaliseringsstrategi
-
+4.2.3      Oppfølging av nasjonal digitaliseringsstrategi
 Fremtidens digitale Norge – Nasjonal digitaliseringsstrategi 2024–2030 peker ut regjeringens
 digitaliseringspolitikk fram til 2030. Alle offentlige virksomheter skal bidra til å realisere
 strategien. Det innebærer både å støtte opp under regjeringens tiltak og å innrette egen
@@ -970,7 +696,9 @@ digitalisering slik at den bidrar til å nå strategiens mål. Samarbeid og samo
 sektorer og forvaltningsnivå er avgjørende for å lykkes, og skal bygge på prinsippene i
 strategien.
 
-Side 16
+ Side 16
+
+[Side 17]
 
 Datadeling er et særskilt prioritert område i kunnskapssektoren. Departementet ber HK-dir
 utarbeide en plan for sitt arbeid med orden i eget hus og datadeling. Arbeidet med datadeling
@@ -980,20 +708,14 @@ tjenesteleverandør overtar i løpet av første halvår i 2026 oppgaven med koor
 pådriverfunksjon for datadeling i kunnskapssektoren. Virksomhetenes plan for datadeling vil
 være et viktig grunnlag for virksomhetens samarbeid med Sikt på dette området.
 
-4.3
-
-Tilskuddskontroll
-
+4.3    Tilskuddskontroll
 HK-dir skal levere en særskilt rapport om tilskuddsforvaltning og tilskuddskontroll for den
 delen av tilskuddsporteføljen som hører under Kunnskapsdepartementet. Rapporten skal
 være et vedlegg til årsrapporten.
 
-5
-5.1
+5     Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
-
+5.1    Rapportering om resultater
 Årsrapport for 2026 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2027, med kopi til Riksrevisjonen og database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -1012,20 +734,16 @@ hvilke frister og krav som gjelder for delårsregnskapene og årsregnskapet. Dep
 viser til Finansdepartementets rundskriv R-10/2025 når det gjelder rapportering av
 regnskapsopplysninger til statsregnskapet for 2025.
 
-5.2
-
-Satsingsforslag for 2028
-
+5.2    Satsingsforslag for 2028
 HK-dir kan sende inn eventuelle satsingsforslag i tråd med vedlagte veiledning. Frist for
 innsendelse av satsingsforslag for 2028 er 1. november 2026. Forslaget sendes til
 postmottak@kd.dep.no.
 
-Side 17
+ Side 17
 
-5.3
+[Side 18]
 
-Styringsdialogen i 2026
-
+5.3      Styringsdialogen i 2026
 Etatsstyringsmøtene skal være en strategisk dialog om direktoratets utvikling. Sentrale
 temaer i møtet er resultater, ambisjoner, strategiske prioriteringer og utfordringer.
 Departementet inviterer med dette HK-dir til etatsstyringsmøte i 2026. Etatsstyringsmøtet er
@@ -1034,29 +752,22 @@ lokaler i Kirkegata 18 i Oslo. Vi ber om at HK-dir sender strategisk viktige sak
 departementet senest en måned før etatsstyringsmøtet. Til hver innmeldt sak skal det følge
 med bakgrunnsinformasjon på inntil en halv side. HK-dir får et referat fra departementet etter
 møtet.
+
 Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
-ekspedisjonssjef
-
-Sander Tufte
-avdelingsdirektør
+ekspedisjonssjef                                                              Sander Tufte
+                                                                              avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Vedlegg og instrukser oppgitt nedenfor finnes på Kunnskapsdepartementets nettside:
-▪
-▪
-▪
-▪
-▪
-
-Særskilte oppdrag for HK-dir 2026
-Krav til årsrapport 2026
-Frister for budsjettarbeidet og veiledning for budsjettforslag for 2028
-Fullmakter 2026
-Virksomhets- og økonomiinstruks for Direktoratet for høyere utdanning og
-kompetanse
+     ▪    Særskilte oppdrag for HK-dir 2026
+     ▪    Krav til årsrapport 2026
+     ▪    Frister for budsjettarbeidet og veiledning for budsjettforslag for 2028
+     ▪    Fullmakter 2026
+     ▪    Virksomhets- og økonomiinstruks for Direktoratet for høyere utdanning og
+          kompetanse
 
 Kopi
 Riksrevisjonen
@@ -1064,4 +775,4 @@ Norges forskningsråd
 Sikt – Kunnskapssektorens tjenesteleverandør
 Nasjonalt organ for kvalitet i utdanningen
 
-Side 18
+ Side 18

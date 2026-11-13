@@ -11,6 +11,8 @@
 
 ---
 
+[Side 1]
+
 Kunnskapsdepartementet
 
 Panorama
@@ -20,12 +22,18 @@ USA (2021–2027)
 
 Strategi
 
+[Side 2]
+
 Panorama
 Regjeringens strategi for forsknings- og høyere utdanningssamarbeid
 med Brasil, Canada, India, Japan, Kina, Russland, Sør-Afrika, Sør-Korea og
 USA (2021–2027)
 
 April 2021
+
+[Side 3]
+
+[Side 4]
 
 Innholdsfortegnelse
 Forord . ....................................................................................................................... 5
@@ -34,6 +42,10 @@ Forord . .......................................................................
 3. Tiltak....................................................................................................................10
 4. Evaluering. .........................................................................................................13
 Anneks . ....................................................................................................................14
+
+[Side 5]
+
+[Side 6]
 
 Forord
 Verden er i rask endring. Vi befinner oss i en geopolitisk
@@ -83,6 +95,8 @@ Foto: Marte Garman
 Henrik Asheim
 Forsknings- og høyere utdanningsminister
 
+[Side 7]
+
 1. Formålet med strategien
 Formålet med strategien er økt kvalitet og relevans i
 norsk høyere utdanning, forskning og innovasjon gjennom internasjonalisering, og i kobling til næringslivssamarbeid. Strategien skal tydeliggjøre overordnede
@@ -131,6 +145,8 @@ samarbeidet skal se utdanning, forskning og innovasjon
 i sammenheng. I kommende strategiperiode ønsker
 regjeringen også et ytterligere fokus på koblingen til
 næringslivssamarbeid med strategilandene.
+
+[Side 8]
 
 2. Overordnede prioriteringer
 Panorama-strategien skal være et ledd i oppfølgingen
@@ -205,6 +221,8 @@ hele grader. Den gjør derfor endringer i Lånekassens
 PANORAMA ·﻿
 
 7
+
+[Side 9]
 
 regelverk for å øke mobilitet til prioriterte samarbeidsland. Det er samtidig på det rene at potensialet
 for studieopphold i Panorama-landene er svært ulikt,
@@ -281,6 +299,8 @@ grunnforskning vil være viktig. I tillegg vil koblingen
 til innovasjon for å bringe frem nye løsninger samt
 involvering av næringslivet øke muligheten for å lykkes med implementeringen av bærekraftsmålene.
 
+[Side 10]
+
 Følgende prinsipper legges til grunn for det bilaterale høyere utdannings- og
 forskningssamarbeidet med Panorama-landene fra norsk side:
 Kvalitet - Internasjonalt samarbeid er et sentralt virkemiddel for økt kvalitet i høyere utdanning,
@@ -352,6 +372,8 @@ LAND
 PANORAMA ·﻿
 
 9
+
+[Side 11]
 
 3. Tiltak
 I arbeidet med å videreutvikle samarbeidet med
@@ -428,6 +450,8 @@ i innovasjons- og bærekraftsamarbeid med Norge.
 Forskningsrådet og Innovasjon Norge vil samarbeide om å mobilisere til dette gjennom EUs rammeprogram Horisont Europa. I tillegg finansieres
 mye næringsrettet innovasjonsarbeid med internasjonale partnere gjennom INs ordinære virkemidler
 som innovasjonskontrakter og klyngesamarbeid.
+
+[Side 12]
 
 2. Mer systematisk kontakt og samordning på norsk side,
 på tvers av ulike departementers ansvarsområder
@@ -511,6 +535,8 @@ PANORAMA ·﻿
 
 11
 
+[Side 13]
+
 og tilrettelagt informasjon om studier i utlandet er
 et sentralt virkemiddel for gode studievalg. I mobilitetsmeldingen fremhever regjeringen nødvendigheten av at de ulike nasjonale aktørene som har et
 ansvar på dette området i større grad samarbeider
@@ -555,6 +581,8 @@ lisens utstedt av Utenriksdepartementet. Kontrollen kan også legge begrensninge
 
 PANORAMA · ﻿
 
+[Side 14]
+
 4. Evaluering
 Utviklingen i samarbeidet innen høyere utdanning
 og forskning med Panorama-landende vil i perioden
@@ -584,6 +612,8 @@ PANORAMA ·﻿
 
 13
 
+[Side 15]
+
 Anneks
 
 De økonomiske virkemidlene UTFORSK OG INTPART
@@ -610,6 +640,8 @@ Mer om evalueringen: https://www.regjeringen.no/no/dokumenter/mot-mer-og-bedre-�
 14
 
 PANORAMA · ﻿
+
+[Side 16]
 
 Annex Panorama
 Annex Panorama
@@ -920,6 +952,8 @@ PANORAMA ·﻿
 
 15
 
+[Side 17]
+
 UTFORSK
 Å skape varige nettverk innen romforskning og -utdanning
 Universitetet i Oslo samarbeider med Space Research Institute of the Russian Academy of Science om å
@@ -955,6 +989,8 @@ tillegg til utveksling av både forskere og MSc studenter.
 16
 
 PANORAMA · ﻿
+
+[Side 18]
 
 Antall totalt nye prosjekter med Panorama-landene i hht evaluering av Panorama I
 (alle programmer Forskningsrådet, Diku/Direktoratet for høyere utdanning og kompetanse og EU)
@@ -1009,6 +1045,8 @@ Forsknings- og teknologiavtale (2005)
 PANORAMA ·﻿
 
 17
+
+[Side 19]
 
 Utgitt av:
 Kunnskapsdepartementet
