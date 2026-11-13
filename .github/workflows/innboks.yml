@@ -35,14 +35,13 @@ jobs:
         run: |
           melding="$RUNNER_TEMP/melding.txt"
           if [ -f innboks-melding.txt ]; then mv innboks-melding.txt "$melding"; else echo "Innboks" > "$melding"; fi
-          git add -A innboks dokumenter dokumenter.tsv
-          git add -A -- '*.docx' '*.epub' '*.html' '*.htm' '*.odt' 2>/dev/null || true
+          git add -A
           if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -q -F "$melding"
           for i in 1 2 3 4 5; do
-            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            git pull -q --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
             sleep $((i * 10))
           done
           exit 1
