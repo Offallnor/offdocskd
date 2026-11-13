@@ -4,7 +4,7 @@ Bruk: python3 -I verktoy/kudos_hent.py [--maks N] [--diagnose]
 
 Laster ned DFØs åpne CSV-eksport (ett kall), velger dokumentene i dokumenter.json
 (dokumenttype, eier og første år), henter PDF-en fra Kudos og gjør den om til tekst med
-pdftotext. Hvert dokument blir én fil: dokumenter/<mappe>/<år>/<kort-id>-<tittel>.md, med
+pdftotext. Hvert dokument blir én fil: dokumenter/<mappe>/<år>/<kort-id>-<tittel>.md (tildelingsbrev under budsjettåret), med
 tittel, år, eiere, utførere og lenker øverst. dokumenter.tsv er oversikten over alt som er lagret.
 Dokumenter som er lagret fra før, hentes ikke på nytt. --diagnose skriver ut hva eksporten
 inneholder for de valgte typene, uten å lagre noe.
@@ -52,6 +52,46 @@ def sammendrag(r, n=300):
     return t if len(t) <= n else t[:n].rsplit(" ", 1)[0] + " …"
 
 
+def arstall(tittel, publisert, o):
+    """Året dokumentet legges under: publiseringsåret, eller året i tittelen når typen har "ar": "tittel"
+    (tildelingsbrev ligger under budsjettåret de gjelder, ikke året de ble publisert)."""
+    if o.get("ar") == "tittel":
+        m = re.search(r"(?<!\d)(19|20)\d\d(?!\d)", tittel or "")
+        if m:
+            return m.group(0)
+    return (publisert or "0000")[:4]
+
+
+def filsti(o, ar, uuid, tittel):
+    # Slutten av uuid-en skiller dokumentene; begynnelsen er lik for dokumenter lagt inn samtidig.
+    return os.path.join("dokumenter", o["mappe"], ar, f"{uuid[-8:]}-{slug(tittel or '')}.md")
+
+
+def flytt_til_riktig_ar(rader, typer):
+    """Flytter lagrede filer som har fått ny plass, for eksempel etter at regelen for året eller filnavnet er endret."""
+    flytt = []
+    for r in rader.values():
+        o = typer.get(r["type"])
+        if not o:
+            continue
+        ar = arstall(r["tittel"], r["ar"], o)
+        ny = filsti(o, ar, r["id"][3:], r["tittel"])
+        if ny != r["fil"]:
+            flytt.append((r, ar, ny))
+    nye = [ny for _, _, ny in flytt]
+    if len(set(nye)) != len(nye) or set(nye) & ({r["fil"] for r in rader.values()} - {r["fil"] for r, _, _ in flytt}):
+        print("Flytting stoppet: to dokumenter ville fått samme filnavn")
+        return
+    for r, ar, ny in flytt:
+        if os.path.exists(os.path.join(ROT, r["fil"])):
+            os.makedirs(os.path.join(ROT, os.path.dirname(ny)), exist_ok=True)
+            os.replace(os.path.join(ROT, r["fil"]), os.path.join(ROT, ny))
+            gml = os.path.join(ROT, os.path.dirname(r["fil"]))
+            if os.path.isdir(gml) and not os.listdir(gml):
+                os.rmdir(gml)
+        r["ar"], r["fil"] = ar, ny
+
+
 def skriv_veiviser(rader, typer):
     """Skriver lista over dokumentene mellom AUTO-START og AUTO-SLUTT i VEIVISER.md."""
     if not os.path.exists(VEIVISER):
@@ -67,7 +107,7 @@ def skriv_veiviser(rader, typer):
             for r in av:
                 for m in liste(r.get("mottakere")) or ["(ukjent mottaker)"]:
                     per.setdefault(m, Counter())[r["ar"]] += 1
-            ut += [f"Mappe: `dokumenter/{o['mappe']}/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mottakere`) for å finne brevene til én mottaker. Brev og tillegg per mottaker og publiseringsår:", "",
+            ut += [f"Mappe: `dokumenter/{o['mappe']}/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mottakere`) for å finne brevene til én mottaker. Brev og tillegg per mottaker og budsjettår:", "",
                    "| Mottaker | Brev | År |", "|---|---|---|"]
             for m, c in sorted(per.items(), key=lambda x: (-sum(x[1].values()), x[0])):
                 ut.append(f"| {m} | {sum(c.values())} | {', '.join(f'{a} ({n})' for a, n in sorted(c.items()))} |")
@@ -200,7 +240,7 @@ def main():
             continue
         if nye >= maks or time.time() - START > MINUTTER * 60:   # stopp i tide, så det som er hentet blir lagret
             break
-        ar = (r.get("publish_date") or "0000")[:4]
+        ar = arstall(r.get("title"), r.get("publish_date"), o)
         pdf = next((f for f in liste(r.get("file_urls")) if f.lower().endswith(".pdf")), "")
         if not pdf:
             feil.append(f"Ingen PDF: {r.get('title')} ({rid})")
@@ -211,7 +251,7 @@ def main():
         if len(tekst) < 200:
             feil.append(f"Ingen tekst ({len(fil)} byte): {r.get('title')} ({rid})")
             continue
-        sti = os.path.join("dokumenter", o["mappe"], ar, f"{r['uuid'][:8]}-{slug(r.get('title') or '')}.md")
+        sti = filsti(o, ar, r["uuid"], r.get("title"))
         os.makedirs(os.path.join(ROT, os.path.dirname(sti)), exist_ok=True)
         kudos = "https://kudos.dfo.no/dokument/" + r["uuid"]
         kilde = (liste(r.get("source_file_urls")) or [""])[0]
@@ -231,6 +271,7 @@ def main():
                          "fil": sti, "kudos": kudos, "side": side, "kilde": kilde, "ord": str(len(tekst.split())), "hentet": time.strftime("%Y-%m-%d")}
         nye += 1
         print(f"  {sti} ({len(tekst.split())} ord)", flush=True)
+    flytt_til_riktig_ar(oversikt, typer)
     skriv_oversikt(oversikt)
     skriv_veiviser(oversikt, typer)
     gjenstar = sum(1 for _, _, r in valgte if "KU-" + r["uuid"] not in oversikt) - len(feil)

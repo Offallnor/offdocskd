@@ -117,7 +117,8 @@
     },
     "Tildelingsbrev": {
       "mappe": "tildelingsbrev",
-      "fra_ar": 2020
+      "fra_ar": 2020,
+      "ar": "tittel"
     }
   }
 }
