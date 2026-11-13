@@ -19,6 +19,9 @@ on:
       fra:
         description: "Første år for lista"
         default: "2015"
+      test:
+        description: "Bare lagre tekst med og uten -layout for disse id-ene (KU-…, skilt med mellomrom) i tester/"
+        default: ""
       diagnose:
         description: "Bare vis hva eksporten inneholder, lagre ingenting"
         type: boolean
@@ -49,10 +52,12 @@ jobs:
           MAKS: ${{ inputs.maks || '300' }}
           DIAGNOSE: ${{ inputs.diagnose && '--diagnose' || '' }}
           LISTE: ${{ inputs.liste }}
+          TEST: ${{ inputs.test }}
           FRA: ${{ inputs.fra || '2015' }}
           SOK: ${{ inputs.sok }}
         run: |
-          if [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
+          if [ -n "$TEST" ]; then python3 -I verktoy/kudos_hent.py --test "$TEST"
+          elif [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
           else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE; fi
 
       - name: Lagre
@@ -60,7 +65,7 @@ jobs:
         run: |
           melding="$RUNNER_TEMP/melding.txt"
           if [ -f kudos-rapport.txt ]; then mv kudos-rapport.txt "$melding"; else echo "Dokumenter fra Kudos" > "$melding"; fi
-          git add dokumenter dokumenter.tsv VEIVISER.md 2>/dev/null || true
+          git add dokumenter dokumenter.tsv VEIVISER.md tester 2>/dev/null || true
           if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

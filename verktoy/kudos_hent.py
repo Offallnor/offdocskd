@@ -140,11 +140,11 @@ def skriv_oversikt(rader):
             w.writerow(r)
 
 
-def pdf_til_tekst(data):
+def pdf_til_tekst(data, valg=()):
     with tempfile.TemporaryDirectory() as d:
         p = os.path.join(d, "f.pdf")
         open(p, "wb").write(data)
-        r = subprocess.run(["pdftotext", "-enc", "UTF-8", p, "-"], capture_output=True, timeout=300)
+        r = subprocess.run(["pdftotext", "-enc", "UTF-8", *valg, p, "-"], capture_output=True, timeout=300)
         tekst = r.stdout.decode("utf-8", "replace")
     tekst = re.sub(r"\f", "\n\n", tekst)
     tekst = re.sub(r"[ \t]+\n", "\n", tekst)
@@ -163,6 +163,20 @@ def main():
         return 1
     alle = list(csv.DictReader(io.StringIO(data.decode("utf-8-sig", "replace")), delimiter=";"))
     print(f"{len(alle)} dokumenter i eksporten")
+    if "--test" in sys.argv:   # lagre teksten fra pdftotext med og uten -layout for noen id-er, til sammenligning
+        ids = sys.argv[sys.argv.index("--test") + 1].split()
+        os.makedirs(os.path.join(ROT, "tester"), exist_ok=True)
+        for r in alle:
+            if "KU-" + r["uuid"] not in ids:
+                continue
+            pdf = next((f for f in liste(r.get("file_urls")) if f.lower().endswith(".pdf")), "")
+            fil = hent(pdf, forsok=3, pause=20) if pdf else b""
+            for navn, valg in (("vanlig", []), ("layout", ["-layout"])):
+                tekst = pdf_til_tekst(fil, valg) if fil else ""
+                with open(os.path.join(ROT, "tester", f"{r['uuid'][-8:]}-{slug(r.get('title') or '')}-{navn}.txt"), "w", encoding="utf-8") as f:
+                    f.write(tekst + "\n")
+            print(r.get("title"), len(fil), "byte")
+        return 0
     if "--liste" in sys.argv:   # skriv ut alle dokumenter av én type fra et år, uten å lagre noe
         t = sys.argv[sys.argv.index("--liste") + 1]
         if t == "typer":   # skriv ut hvilke dokumenttyper eksporten har
