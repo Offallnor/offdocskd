@@ -189,8 +189,8 @@ def main():
             tekst = " ".join([r.get("title") or "", r.get("abstract") or "", r.get("owners") or ""])
             if sok and not re.search(sok, tekst, re.I):
                 continue
-            if r.get("type") == t and int((r.get("publish_date") or "0")[:4] or 0) >= fra:
-                print("|".join([(r.get("publish_date") or "")[:10], (r.get("title") or "").strip(), ",".join(liste(r.get("owners"))),
+            if r.get("type") in t.split(",") and int((r.get("publish_date") or "0")[:4] or 0) >= fra:
+                print("|".join([(r.get("publish_date") or "")[:10], r.get("type") or "", "KU-" + r["uuid"], (r.get("title") or "").strip(), ",".join(liste(r.get("owners"))),
                                 re.sub(r"\s+", " ", r.get("abstract") or "")[:200]]))
         return 0
     valgte = []
