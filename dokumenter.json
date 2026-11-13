@@ -84,6 +84,37 @@
         "Sikkerhet og beredskap i Kunnskapsdepartementets sektor"
       ]
     },
+    "Proposisjon til Stortinget": {
+      "mappe": "proposisjoner",
+      "fra_ar": 2015,
+      "eiere": [],
+      "ta_med": [
+        "Prop. 118 L (2024–2025)",
+        "Prop. 111 L (2024–2025)",
+        "Prop. 64 L (2023–2024)",
+        "Prop. 58 L (2023–2024)",
+        "Prop. 126 L (2022–2023)",
+        "Prop. 57 L (2022–2023)",
+        "Prop. 68 L (2022–2023)",
+        "Prop. 15 L (2022–2023)",
+        "Prop. 98 L (2021–2022)",
+        "Prop. 74 L (2021–2022)",
+        "Prop. 111 L (2020–2021)",
+        "Prop. 96 L (2019–2020)",
+        "Prop. 89 L (2018–2019)",
+        "Prop. 64 L (2017–2018)",
+        "Prop. 51 L (2017–2018)",
+        "Prop. 47 L (2017–2018)",
+        "Prop. 78 L (2016–2017)",
+        "Prop. 44 L (2016–2017)",
+        "Prop. 139 L (2015–2016)",
+        "Prop. 95 L (2015–2016)",
+        "Prop. 72 L (2015–2016)",
+        "Prop. 7 L (2015–2016)",
+        "Prop. 84 L (2014-2015)",
+        "Prop. 60 L (2014-2015)"
+      ]
+    },
     "Tildelingsbrev": {
       "mappe": "tildelingsbrev",
       "fra_ar": 2020

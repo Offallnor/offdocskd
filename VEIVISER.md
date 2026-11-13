@@ -1,6 +1,6 @@
 # Dokumenter på utdanningsområdet – veiviser
 
-Denne basen har offentlige dokumenter om videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd: utvalgte NOU-er, stortingsmeldinger, strategier og handlingsplaner, og tildelingsbrev til etatene og institusjonene fra 2020. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her, men i regelverksbasen (Offallnor/offdocs).
+Denne basen har offentlige dokumenter om videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd: utvalgte NOU-er, stortingsmeldinger, lovproposisjoner, strategier og handlingsplaner, og tildelingsbrev til etatene og institusjonene fra 2020. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her, men i regelverksbasen (Offallnor/offdocs).
 
 ## Slik henter du filer
 
@@ -26,7 +26,7 @@ Teksten er hentet automatisk fra PDF-en. Tabeller, figurer, fotnoter og orddelin
 
 ## Kjente feller
 
-- **Utredninger og meldinger er ikke vedtak.** En NOU er et utvalgs forslag. En melding til Stortinget er regjeringens politikk på det tidspunktet. Si hvilken type dokument svaret bygger på, og at forslagene kan være endret eller forkastet. Bruk regelverksbasen for gjeldende regler og Stortingets vedtak for hva som ble vedtatt.
+- **Utredninger, meldinger og proposisjoner er ikke vedtak.** En NOU er et utvalgs forslag. En melding til Stortinget er regjeringens politikk på det tidspunktet. En lovproposisjon er regjeringens lovforslag og er en del av forarbeidene: Stortinget kan ha endret forslaget, så sjekk gjeldende lovtekst i regelverksbasen. Si hvilken type dokument svaret bygger på, og at forslagene kan være endret eller forkastet. Bruk regelverksbasen for gjeldende regler og Stortingets vedtak for hva som ble vedtatt.
 - **Tildelingsbrev kommer i flere deler.** Det første brevet for et år følges ofte av tillegg («Supplerende tildelingsbrev», «Tillegg nr. 3»). Et oppdrag eller en bevilgning kan være endret i et senere tillegg. Se alle brevene for samme mottaker og år før du svarer.
 - **Universiteter og høyskoler** får både et felles tildelingsbrev («til universiteter og høyskoler») og egne brev. Les begge.
 - **Navn som er endret.** Direktoratet for høyere utdanning og kompetanse (HK-dir) ble opprettet i 2022 av blant annet Diku, Kompetanse Norge og deler av Unit. Sikt ble opprettet samme år. Søk på de gamle navnene for årene før.
