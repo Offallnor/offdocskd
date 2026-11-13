@@ -4,7 +4,7 @@ Denne basen har offentlige dokumenter om videregående opplæring, fagskole, hø
 
 ## Regler for svar
 
-1. Åpne dokumentet før du svarer. Svar ikke fra hukommelsen om hva et dokument sier.
+1. Åpne dokumentet før du svarer. Svar ikke fra hukommelsen om hva et dokument sier. Store dokumenter er delt: hovedfila har en innholdsfortegnelse med stien til hver del. Åpne delen som har kapitlet eller sidene du trenger, ikke alle.
 2. **Kildehenvisning med lenke og side.** Hvert svar som bygger på et dokument, skal ha en kildehenvisning brukeren kan klikke på. Oppgi dokumentet med eget navn (for eksempel «NOU 2019: 2 Fremtidige kompetansebehov II, kapittel 4», «Prop. 126 L (2022–2023), merknaden til § 3-1» eller «tildelingsbrevet til Lånekassen for 2025»).
    - Tekst fra PDF har sidemerker, `[Side N]`, der side N i PDF-en begynner. Lenk til PDF-en (linja «Original-PDF» eller «PDF» øverst i fila) med `#page=N` bak adressen, så åpnes den på riktig side, for eksempel `[NOU 2019: 2, s. 45](https://…/nou201920190002000dddpdfs.pdf#page=45)`. N er sidetallet i PDF-filen. Det trykte sidetallet kan være et annet; står det nær merket, kan du oppgi det i tillegg.
    - Er det vanskelig å fastslå riktig side, for eksempel fordi merket ligger langt fra stedet eller teksten går over flere sider, holder det å oppgi kapittel eller delkapittel (for eksempel «NOU 2019: 2, punkt 4.3»), fortsatt med lenke til PDF-en eller dokumentsiden. Gjett ikke på et sidetall.

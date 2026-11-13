@@ -11,6 +11,7 @@ beholdes. Filer som er lest inn, slettes fra innboksen. Resultatet står i innbo
 import csv, os, re, subprocess, sys, time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import deling  # noqa: E402
 from kudos_hent import FELT, OVERSIKT, ROT, les_oversikt, skriv_oversikt, slug  # noqa: E402
 
 INNBOKS = os.path.join(ROT, "innboks")
@@ -93,15 +94,14 @@ def main():
                            "Er det riktig fil? Er den det, kjør jobben med «tving».")
             continue
         p = os.path.join(ROT, r["fil"])
-        hode = open(p, encoding="utf-8").read().partition("\n---\n")[0]
+        hode = deling.les(r["fil"])[0]
         fra = FORMATER[os.path.splitext(navn)[1].lower()]
         kilde = {"docx": "Word-fil", "odt": "ODT-fil", "epub": "epub-fil", "html": "HTML-side"}[fra]
         linjer = [x for x in hode.split("\n") if not x.startswith("- Tekst:")]
         i = next((k for k, x in enumerate(linjer) if x.startswith("- Kudos:")), len(linjer))
         linjer.insert(i, f"- Tekst: fra {kilde} lastet opp {time.strftime('%Y-%m-%d')}, ikke fra PDF. Tabellene er med. "
                          "Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.")
-        with open(p, "w", encoding="utf-8") as f:
-            f.write("\n".join(linjer).rstrip("\n") + "\n\n---\n\n" + tekst + "\n")
+        deling.skriv(r["fil"], "\n".join(linjer), tekst)
         r.update(tekstkilde=fra, ord=str(ny), tabeller=str(len(re.findall(r"(?m)^\|.*\|$\n^\|[ :|-]+\|$", tekst))
                                                           + tekst.count("<table")), figurer="", tall_linjer="")
         os.remove(sti)

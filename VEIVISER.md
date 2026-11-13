@@ -10,11 +10,11 @@ Alle stier er relative til rotadressen:
 https://raw.githubusercontent.com/Offallnor/offdocskd/main/
 ```
 
-Hent med `curl -sL <adresse>` eller med hentverktøyet ditt. Hent bare filene du trenger. Mange dokumenter er store (en NOU kan ha over 100 000 ord). Bruk lista nedenfor og `dokumenter.tsv` til å finne riktig fil, og søk i fila etter kapittel eller stikkord framfor å lese alt.
+Hent med `curl -sL <adresse>` eller med hentverktøyet ditt. Hent bare filene du trenger. Mange dokumenter er store (en NOU kan ha over 100 000 ord). Bruk lista nedenfor og `dokumenter.tsv` til å finne riktig fil. Dokumenter på over 100 000 tegn er delt i deler på høyst om lag 75 000 tegn, se under.
 
 ## Hva filene inneholder
 
-Hvert dokument er én fil: `dokumenter/<mappe>/<år>/<id>-<tittel>.md`. Tildelingsbrev ligger under budsjettåret de gjelder (året i tittelen), også når de ble publisert året før. Andre dokumenter ligger under året de ble publisert. Øverst i hver fil står tittel, type, publiseringsdato, eier, mottaker og lenker:
+Hvert dokument har én fil: `dokumenter/<mappe>/<år>/<id>-<tittel>.md`. Er dokumentet stort, har fila bare toppen med lenker og en innholdsfortegnelse, og teksten ligger i en mappe med samme navn: `dokumenter/<mappe>/<år>/<id>-<tittel>/del-01.md`, `del-02.md` og så videre. Innholdsfortegnelsen viser hvilke kapitler (Word-tekst) eller sider og kapitler (PDF-tekst) hver del har, og hele stien til delen. Åpne hovedfila først og så bare delen eller delene du trenger. I PDF-tekst er kapitlene i innholdsfortegnelsen funnet automatisk og kan mangle; sidetallene er sikre. Hver del har lenkene og linja **Tekst** øverst, så sidelenker og varsel om tabeller kan hentes fra delen alene. Tildelingsbrev ligger under budsjettåret de gjelder (året i tittelen), også når de ble publisert året før. Andre dokumenter ligger under året de ble publisert. Øverst i hver fil står tittel, type, publiseringsdato, eier, mottaker og lenker:
 
 - **Les hele dokumentet**: dokumentets side på regjeringen.no (eller institusjonens nettside). Gi brukeren denne lenken når du viser til dokumentet.
 - **Original-PDF**: PDF-en dokumentet er hentet fra.
@@ -219,6 +219,7 @@ Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mo
 ## For redaktører
 
 - Hvilke dokumenter som hentes, står i `dokumenter.json`: per Kudos-type en mappe, første år (`fra_ar`), eiere (tom liste betyr alle) og eventuelt `ta_med` (nøyaktige titler) eller `ta_med_start` (titler som begynner slik). Legg til en tittel der, så hentes dokumentet ved neste kjøring.
+- Dokumenter på over 100 000 tegn deles automatisk av `verktoy/deling.py` hver gang de lagres, både ved henting fra Kudos og fra innboksen. `python3 -I verktoy/deling.py` deler alle på nytt etter gjeldende regler.
 - `verktoy/kudos_hent.py` kjøres hver tirsdag og ved behov (`kudos-hent.yml`), og går rett i main. Lagrede dokumenter hentes ikke på nytt. `--liste <type> --fra <år> --sok <regex>` lister kandidater uten å lagre, og `--liste typer` viser hvilke typer Kudos har.
 - Bedre tekst for et dokument med rotete tabeller: legg Word-, epub- eller HTML-fila i `innboks/`, se `innboks/README.md`. Jobben `innboks.yml` leser den inn med `verktoy/innboks.py`, og Kudos-hentingen skriver ikke over teksten senere.
 - Lista over er laget av skriptet. Rediger teksten utenfor AUTO-blokken.

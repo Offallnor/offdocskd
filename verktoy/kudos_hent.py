@@ -12,6 +12,9 @@ inneholder for de valgte typene, uten å lagre noe.
 import csv, gzip, io, json, os, re, subprocess, sys, tempfile, time, unicodedata, urllib.request
 from collections import Counter
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import deling  # noqa: E402
+
 ROT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EKSPORT = "https://kudos.dfo.no/api/v0/documents/download/csv"
 UA = "Mozilla/5.0 (offentlige dokumenter)"
@@ -86,8 +89,7 @@ def merk_kvalitet(rad):
     p = os.path.join(ROT, rad["fil"])
     if not os.path.exists(p) or (rad.get("tekstkilde") or "pdf") != "pdf":
         return
-    tekst = open(p, encoding="utf-8").read()
-    hode, sep, kropp = tekst.partition("\n---\n")
+    hode, kropp = deling.les(rad["fil"])
     t, f, n = kvalitet(kropp)
     rad.update(tekstkilde="pdf", tabeller=str(t), figurer=str(f), tall_linjer=str(n))
     linje = varsel(t, f, n)
@@ -95,9 +97,7 @@ def merk_kvalitet(rad):
     i = next((k for k, x in enumerate(linjer) if x.startswith("- Kudos:")), len(linjer))
     linjer.insert(i, linje)
     linjer = [x for x in linjer if not x.startswith("Teksten er hentet automatisk fra PDF-en")]
-    ny = "\n".join(linjer).rstrip("\n") + "\n" + sep + kropp
-    if ny != tekst:
-        open(p, "w", encoding="utf-8").write(ny)
+    deling.skriv(rad["fil"], "\n".join(linjer), kropp)
 
 
 def arstall(tittel, publisert, o):
@@ -134,6 +134,8 @@ def flytt_til_riktig_ar(rader, typer):
         if os.path.exists(os.path.join(ROT, r["fil"])):
             os.makedirs(os.path.join(ROT, os.path.dirname(ny)), exist_ok=True)
             os.replace(os.path.join(ROT, r["fil"]), os.path.join(ROT, ny))
+            if os.path.isdir(os.path.join(ROT, deling.mappe(r["fil"]))):
+                os.replace(os.path.join(ROT, deling.mappe(r["fil"])), os.path.join(ROT, deling.mappe(ny)))
             gml = os.path.join(ROT, os.path.dirname(r["fil"]))
             if os.path.isdir(gml) and not os.listdir(gml):
                 os.rmdir(gml)
@@ -289,7 +291,7 @@ def main():
     for t, o, r in valgte:
         rid = "KU-" + r["uuid"]
         ny_tekst = rid in oversikt and "--ny-tekst" in sys.argv and (oversikt[rid].get("tekstkilde") or "pdf") == "pdf" \
-            and "\n[Side 1]\n" not in open(os.path.join(ROT, oversikt[rid]["fil"]), encoding="utf-8").read()
+            and "\n[Side 1]\n" not in deling.les(oversikt[rid]["fil"])[1]
         if rid in oversikt and not ny_tekst:   # lagret fra før: fyll inn felt som kom til senere, uten å hente på nytt
             gml = oversikt[rid]
             side = (r.get("external_public_url") or "").strip()
@@ -297,10 +299,9 @@ def main():
                 gml["side"] = side
                 p = os.path.join(ROT, gml["fil"])
                 if os.path.exists(p):
-                    tekst = open(p, encoding="utf-8").read()
-                    if "- Les hele dokumentet:" not in tekst:
-                        tekst = tekst.replace("\n- Type:", f"\n- Les hele dokumentet: {side}\n- Type:", 1)
-                        open(p, "w", encoding="utf-8").write(tekst)
+                    topp, kropp = deling.les(gml["fil"])
+                    if "- Les hele dokumentet:" not in topp:
+                        deling.skriv(gml["fil"], topp.replace("\n- Type:", f"\n- Les hele dokumentet: {side}\n- Type:", 1), kropp)
             if not gml.get("sammendrag"):
                 gml["sammendrag"] = sammendrag(r)
             if not gml.get("mottakere"):
@@ -333,8 +334,7 @@ def main():
             hode.append(f"- Utført av: {', '.join(liste(r.get('authoring_actors')))}")
         hode += [f"- Les hele dokumentet: {side}" if side else "", f"- Original-PDF: {kilde}" if kilde else f"- PDF: {pdf}", f"- Kudos: {kudos}", f"- Hentet: {time.strftime('%Y-%m-%d')}",
                  "", "---", ""]
-        with open(os.path.join(ROT, sti), "w", encoding="utf-8") as f:
-            f.write("\n".join(x for x in hode if x is not None) + "\n" + tekst + "\n")
+        deling.skriv(sti, "\n".join(x for x in hode[:-3] if x is not None), tekst)
         oversikt[rid] = {"id": rid, "type": t, "ar": ar, "tittel": (r.get("title") or "").replace("\t", " "), "sammendrag": sammendrag(r),
                          "eiere": "|".join(liste(r.get("owners"))), "mottakere": "|".join(liste(r.get("recipients"))), "utforere": "|".join(liste(r.get("authoring_actors"))),
                          "fil": sti, "kudos": kudos, "side": side, "kilde": kilde, "ord": str(len(tekst.split())), "hentet": time.strftime("%Y-%m-%d")}
@@ -343,6 +343,7 @@ def main():
     flytt_til_riktig_ar(oversikt, typer)
     for rad in oversikt.values():
         merk_kvalitet(rad)
+        deling.ordne(rad["fil"])
     skriv_oversikt(oversikt)
     skriv_veiviser(oversikt, typer)
     gjenstar = sum(1 for _, _, r in valgte if "KU-" + r["uuid"] not in oversikt) - len(feil)
