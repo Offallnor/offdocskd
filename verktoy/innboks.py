@@ -65,6 +65,10 @@ def tellbare_ord(tekst):
 def main():
     if not os.path.isdir(INNBOKS):
         return 0
+    # Filer som er lastet opp i rotmappa ved en feil, flyttes inn i innboksen.
+    for f in os.listdir(ROT):
+        if os.path.splitext(f)[1].lower() in FORMATER and os.path.isfile(os.path.join(ROT, f)):
+            os.replace(os.path.join(ROT, f), os.path.join(INNBOKS, f))
     rader = les_oversikt()
     filer = sorted(f for f in os.listdir(INNBOKS) if os.path.splitext(f)[1].lower() in FORMATER)
     if not filer:

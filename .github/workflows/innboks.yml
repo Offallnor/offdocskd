@@ -3,7 +3,7 @@ name: Les inn filer fra innboksen
 on:
   push:
     branches: [main]
-    paths: ["innboks/**", "!innboks/README.md", "!innboks/rapport.md"]
+    paths: ["innboks/**", "*.docx", "*.epub", "*.html", "*.htm", "*.odt", "!innboks/README.md", "!innboks/rapport.md"]
   workflow_dispatch:
     inputs:
       tving:
@@ -36,6 +36,7 @@ jobs:
           melding="$RUNNER_TEMP/melding.txt"
           if [ -f innboks-melding.txt ]; then mv innboks-melding.txt "$melding"; else echo "Innboks" > "$melding"; fi
           git add -A innboks dokumenter dokumenter.tsv
+          git add -A -- '*.docx' '*.epub' '*.html' '*.htm' '*.odt' 2>/dev/null || true
           if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
