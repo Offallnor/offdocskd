@@ -1,13 +1,13 @@
-# Dokumenter på utdanningsområdet – veiviser
+# Dokumenter om utdanning, arbeid og velferd – veiviser
 
-Denne basen har offentlige dokumenter om utdanning og kompetanse, med vekt på videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd: utvalgte NOU-er, stortingsmeldinger, lovproposisjoner, strategier og handlingsplaner, og tildelingsbrev til etatene og institusjonene fra 2020. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her, men i regelverksbasen (Offallnor/offdocs).
+Denne basen har offentlige dokumenter om to områder. **Utdanning og kompetanse**, med vekt på videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd. **Arbeid og velferd**: arbeidsliv og arbeidsmiljø, Nav og arbeidsmarkedspolitikken, trygdeytelser, pensjon, sosiale tjenester, integrering og diskriminering. For begge områdene finnes utvalgte NOU-er, stortingsmeldinger, lovproposisjoner, strategier og handlingsplaner, og tildelingsbrev til etatene og institusjonene fra 2020. Dokumentene er hentet fra Kudos (kudos.dfo.no), DFØs åpne arkiv over statlige dokumenter. Lov og forskrift ligger ikke her, men i regelverksbasen (Offallnor/offdocs).
 
 ## Slik henter du filer
 
 Alle stier er relative til rotadressen:
 
 ```
-https://raw.githubusercontent.com/Offallnor/offdocskd/main/
+https://raw.githubusercontent.com/Offallnor/offdocsfor/main/
 ```
 
 Hent med `curl -sL <adresse>` eller med hentverktøyet ditt. Hent bare filene du trenger. Mange dokumenter er store (en NOU kan ha over 100 000 ord). Bruk lista nedenfor og `dokumenter.tsv` til å finne riktig fil. Dokumenter på over 100 000 tegn er delt i deler på høyst om lag 75 000 tegn, se under.
@@ -28,8 +28,10 @@ Teksten fra PDF-en har et merke, `[Side N]`, der hver side begynner. Lenken til 
 
 - **Utredninger, meldinger og proposisjoner er ikke vedtak.** En NOU er et utvalgs forslag. En melding til Stortinget er regjeringens politikk på det tidspunktet. En lovproposisjon er regjeringens lovforslag og er en del av forarbeidene: Stortinget kan ha endret forslaget, så sjekk gjeldende lovtekst i regelverksbasen. Si hvilken type dokument svaret bygger på, og at forslagene kan være endret eller forkastet. Bruk regelverksbasen for gjeldende regler og Stortingets vedtak for hva som ble vedtatt.
 - **Tildelingsbrev kommer i flere deler.** Det første brevet for et år følges ofte av tillegg («Supplerende tildelingsbrev», «Tillegg nr. 3»). Et oppdrag eller en bevilgning kan være endret i et senere tillegg. Se alle brevene for samme mottaker og år før du svarer.
+- **Etater med flere departementer.** Norges forskningsråd og noen andre får tildelingsbrev fra flere departementer. Se på eieren øverst i fila hvilket departement brevet er fra.
+- **TBU-rapportene og trygdeoppgjøret.** Basen har bare de siste årgangene av rapportene fra Det tekniske beregningsutvalget for inntektsoppgjørene og meldingene om trygdeoppgjøret. Bruk den nyeste for gjeldende tall.
 - **Universiteter og høyskoler** får både et felles tildelingsbrev («til universiteter og høyskoler») og egne brev. Les begge.
-- **Navn som er endret.** Direktoratet for høyere utdanning og kompetanse (HK-dir) ble opprettet i 2022 av blant annet Diku, Kompetanse Norge og deler av Unit. Sikt ble opprettet samme år. Søk på de gamle navnene for årene før.
+- **Navn som er endret.** Direktoratet for høyere utdanning og kompetanse (HK-dir) ble opprettet i 2022 av blant annet Diku, Kompetanse Norge og deler av Unit. Sikt ble opprettet samme år. Arbeids- og sosialdepartementet skiftet navn i 2022, og Petroleumstilsynet heter Havindustritilsynet fra 2024. Søk på de gamle navnene for årene før.
 - **Utvalget er ikke fullstendig.** Basen har et utvalg NOU-er, meldinger, proposisjoner og strategier, ikke alle. Finner du ikke et dokument, si at det ikke er i dokumentbasen, og tilby å finne det og lese det, se regel 5 i `CLAUDE.md`.
 
 ## Dokumenter i basen
@@ -220,7 +222,7 @@ Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mo
 
 - Hvilke dokumenter som hentes, står i `dokumenter.json`: per Kudos-type en mappe, første år (`fra_ar`), eiere (tom liste betyr alle) og eventuelt `ta_med` (nøyaktige titler) eller `ta_med_start` (titler som begynner slik). Legg til en tittel der, så hentes dokumentet ved neste kjøring.
 - Dokumenter på over 100 000 tegn deles automatisk av `verktoy/deling.py` hver gang de lagres, både ved henting fra Kudos og fra innboksen. `python3 -I verktoy/deling.py` deler alle på nytt etter gjeldende regler.
-- `verktoy/kudos_hent.py` kjøres hver tirsdag og ved behov (`kudos-hent.yml`), og går rett i main. Lagrede dokumenter hentes ikke på nytt. `--liste <type> --fra <år> --sok <regex>` lister kandidater uten å lagre, og `--liste typer` viser hvilke typer Kudos har.
+- `verktoy/kudos_hent.py` kjøres hver tirsdag og ved behov (`kudos-hent.yml`), og går rett i main. Lagrede dokumenter hentes ikke på nytt. `--liste <type> --fra <år> --sok <regex>` lister kandidater uten å lagre, og `--liste typer` viser hvilke typer Kudos har. Jobben `kudos-liste.yml` (`verktoy/kudos_liste.py`) gjør det samme med lenker til dokumentside og originalfil, og kan kjøre mens hentingen pågår.
 - Bedre tekst for et dokument med rotete tabeller: legg Word-, epub- eller HTML-fila i `innboks/`, se `innboks/README.md`. Jobben `innboks.yml` leser den inn med `verktoy/innboks.py`, og Kudos-hentingen skriver ikke over teksten senere.
 - Lista over er laget av skriptet. Rediger teksten utenfor AUTO-blokken.
 - Repoet er åpent. Legg ikke inn interne dokumenter, utkast eller svar som ikke er publisert.

@@ -1,6 +1,6 @@
-# Dokumentbasen for utdanningsområdet
+# Dokumentbasen for utdanning, arbeid og velferd
 
-Denne basen har offentlige dokumenter om videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd: NOU-er, stortingsmeldinger, lovproposisjoner, strategier og tildelingsbrev. Start i `VEIVISER.md`. Den forklarer hvordan filene hentes, hva de inneholder, kjente feller og lista over alle dokumentene.
+Denne basen har offentlige dokumenter om utdanning og kompetanse (videregående opplæring, fagskole, høyere utdanning, kompetansepolitikk, studiestøtte og studentvelferd) og om arbeid og velferd (arbeidsliv, Nav, trygd, pensjon, sosiale tjenester og integrering): NOU-er, stortingsmeldinger, lovproposisjoner, strategier og tildelingsbrev. Start i `VEIVISER.md`. Den forklarer hvordan filene hentes, hva de inneholder, kjente feller og lista over alle dokumentene.
 
 ## Regler for svar
 
