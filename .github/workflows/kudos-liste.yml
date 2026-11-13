@@ -1,0 +1,36 @@
+name: List dokumenter i Kudos
+
+# Skriver ut dokumenter fra DFØs Kudos som passer et søk, uten å lagre noe.
+# Har egen køgruppe, så den kan kjøre mens hentejobben går. Se verktoy/kudos_hent.py --liste.
+on:
+  workflow_dispatch:
+    inputs:
+      liste:
+        description: "Dokumenttyper, skilt med komma (for eksempel «NOU,Melding til Stortinget»)"
+        default: "NOU,Melding til Stortinget,Strategi/plan,Proposisjon til Stortinget"
+      sok:
+        description: "Bare dokumenter der tittel, sammendrag eller eier passer med dette uttrykket"
+        default: ""
+      fra:
+        description: "Første år"
+        default: "2015"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: kudos-liste
+  cancel-in-progress: false
+
+jobs:
+  liste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: List dokumentene
+        env:
+          LISTE: ${{ inputs.liste }}
+          SOK: ${{ inputs.sok }}
+          FRA: ${{ inputs.fra }}
+        run: python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
