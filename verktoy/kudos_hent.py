@@ -18,7 +18,8 @@ UA = "Mozilla/5.0 (offentlige dokumenter)"
 OVERSIKT = os.path.join(ROT, "dokumenter.tsv")
 START = time.time()
 MINUTTER = 140
-FELT = ["id", "type", "ar", "tittel", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "hentet"]
+FELT = ["id", "type", "ar", "tittel", "sammendrag", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "hentet"]
+VEIVISER = os.path.join(ROT, "VEIVISER.md")
 
 
 def hent(url, forsok=4, pause=40):
@@ -44,6 +45,44 @@ def slug(s, n=60):
     s = unicodedata.normalize("NFKD", s.lower().replace("ø", "o").replace("æ", "ae").replace("å", "a"))
     s = re.sub(r"[^a-z0-9]+", "-", s.encode("ascii", "ignore").decode()).strip("-")
     return s[:n].rstrip("-") or "dokument"
+
+
+def sammendrag(r, n=300):
+    t = re.sub(r"\s+", " ", r.get("abstract") or "").strip()
+    return t if len(t) <= n else t[:n].rsplit(" ", 1)[0] + " …"
+
+
+def skriv_veiviser(rader, typer):
+    """Skriver lista over dokumentene mellom AUTO-START og AUTO-SLUTT i VEIVISER.md."""
+    if not os.path.exists(VEIVISER):
+        return
+    ut = ["<!-- AUTO-START: lages av verktoy/kudos_hent.py, rediger ikke for hånd -->", ""]
+    for t, o in typer.items():
+        av = [r for r in rader.values() if r["type"] == t]
+        if not av:
+            continue
+        ut += [f"### {t} ({len(av)})", ""]
+        if t == "Tildelingsbrev":
+            per = {}
+            for r in av:
+                for m in liste(r.get("mottakere")) or ["(ukjent mottaker)"]:
+                    per.setdefault(m, Counter())[r["ar"]] += 1
+            ut += [f"Mappe: `dokumenter/{o['mappe']}/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mottakere`) for å finne brevene til én mottaker. Brev og tillegg per mottaker og publiseringsår:", "",
+                   "| Mottaker | Brev | År |", "|---|---|---|"]
+            for m, c in sorted(per.items(), key=lambda x: (-sum(x[1].values()), x[0])):
+                ut.append(f"| {m} | {sum(c.values())} | {', '.join(f'{a} ({n})' for a, n in sorted(c.items()))} |")
+        else:
+            ut += ["| År | Tittel | Innhold | Fil |", "|---|---|---|---|"]
+            for r in sorted(av, key=lambda r: (r["ar"], r["tittel"]), reverse=True):
+                inn = (r.get("sammendrag") or "").replace("|", "/")[:220]
+                ut.append(f"| {r['ar']} | {r['tittel'].replace('|', '/')} | {inn} | `{r['fil']}` |")
+        ut.append("")
+    ut.append("<!-- AUTO-SLUTT -->")
+    tekst = open(VEIVISER, encoding="utf-8").read()
+    a, b = tekst.find("<!-- AUTO-START"), tekst.find("<!-- AUTO-SLUTT -->")
+    if a < 0 or b < 0:
+        return
+    open(VEIVISER, "w", encoding="utf-8").write(tekst[:a] + "\n".join(ut) + tekst[b + len("<!-- AUTO-SLUTT -->"):])
 
 
 def les_oversikt():
@@ -154,6 +193,8 @@ def main():
                     if "- Les hele dokumentet:" not in tekst:
                         tekst = tekst.replace("\n- Type:", f"\n- Les hele dokumentet: {side}\n- Type:", 1)
                         open(p, "w", encoding="utf-8").write(tekst)
+            if not gml.get("sammendrag"):
+                gml["sammendrag"] = sammendrag(r)
             if not gml.get("mottakere"):
                 gml["mottakere"] = "|".join(liste(r.get("recipients")))
             continue
@@ -185,12 +226,13 @@ def main():
                  "", "Teksten er hentet automatisk fra PDF-en og kan ha feil i tabeller og oppsett. Kontroller sitater mot originalen.", "", "---", ""]
         with open(os.path.join(ROT, sti), "w", encoding="utf-8") as f:
             f.write("\n".join(x for x in hode if x is not None) + "\n" + tekst + "\n")
-        oversikt[rid] = {"id": rid, "type": t, "ar": ar, "tittel": (r.get("title") or "").replace("\t", " "),
+        oversikt[rid] = {"id": rid, "type": t, "ar": ar, "tittel": (r.get("title") or "").replace("\t", " "), "sammendrag": sammendrag(r),
                          "eiere": "|".join(liste(r.get("owners"))), "mottakere": "|".join(liste(r.get("recipients"))), "utforere": "|".join(liste(r.get("authoring_actors"))),
                          "fil": sti, "kudos": kudos, "side": side, "kilde": kilde, "ord": str(len(tekst.split())), "hentet": time.strftime("%Y-%m-%d")}
         nye += 1
         print(f"  {sti} ({len(tekst.split())} ord)", flush=True)
     skriv_oversikt(oversikt)
+    skriv_veiviser(oversikt, typer)
     gjenstar = sum(1 for _, _, r in valgte if "KU-" + r["uuid"] not in oversikt) - len(feil)
     with open(os.path.join(ROT, "kudos-rapport.txt"), "w", encoding="utf-8") as f:
         f.write(f"Dokumenter fra Kudos: {nye} nye, {len(oversikt)} i alt\n\n")

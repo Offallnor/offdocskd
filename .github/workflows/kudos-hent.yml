@@ -60,7 +60,7 @@ jobs:
         run: |
           melding="$RUNNER_TEMP/melding.txt"
           if [ -f kudos-rapport.txt ]; then mv kudos-rapport.txt "$melding"; else echo "Dokumenter fra Kudos" > "$melding"; fi
-          git add dokumenter dokumenter.tsv 2>/dev/null || true
+          git add dokumenter dokumenter.tsv VEIVISER.md 2>/dev/null || true
           if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
