@@ -1,0 +1,833 @@
+# NOU 2026: 10, del 22 av 31 (side 266–275)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
+- Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 266]
+
+264
+
+Kapittel 12
+
+NOU 2026: 10
+Fellesskolen
+
+felles rammeplan, til profesjonsbygging og til å
+fremme høye faglige ambisjoner på vegne av studentene. Overgangen til en ny felles rammeplan
+gir lærerutdanningene ansvar for å samordne seg
+slik at de utvikler likeverdige utdanninger av høy
+kvalitet til det beste for barnehagen, skolen og
+samfunnet som helhet. Lærerutdanningene må
+utdanne kompetente lærere med felles verdier og
+kompetanser i tråd med fellesskolens rammer.
+Utvalget mener at forventningene til lærerstudentene må speile det komplekse yrket, og at
+lærerstudentene må legge ned en studieinnsats
+som tilsvarer sammenlignbare profesjonsutdanninger som for eksempel medisin, odontologi og sivilingeniør. Utvalget registrerer at lærerstudenter på
+de femårige utdanningene bruker mindre tid på
+studiene enn sammenlignbare profesjonsutdanninger, men at de likevel får gjennomsnittlig gode
+karakterer. Utvalget mener dette vitner om at
+utdanningsinstitusjonenes ambisjonsnivå på vegne
+av studentene ikke samsvarer med de høye kravene som stilles når de nyutdannede lærerne kommer ut i skolen. Med dagens gjennomsnittlige tidsbruk i lærerutdanningene, så er det også betydelig
+rom for å øke omfanget av studieplanene.
+Utvalget forventer at lærerutdanningene påvirkes av og må tilpasse seg utviklingstrekkene som
+har blitt beskrevet i denne utredningen. For
+eksempel krever økningen i nevroutviklingsdiagnoser (som ADHD og autisme), som beskrevet i
+kapittel 4.5, at alle lærere får større bevissthet og
+kunnskap om hvordan ulike diagnoser kan
+komme til uttrykk i skolehverdagen, og hvordan
+tilpasse undervisning og læringsmiljø på en hensiktsmessig måte. Framover vil de fleste lærere
+møte elever med slike diagnoser i sine klasser.
+Dette kan stille økte krav til spesialpedagogisk
+kompetanse, både i grunnutdanningene og i ulike
+videreutdanningstilbud for lærere.
+Lærerutdanningsinstitusjonene må utvikle
+utdanningene i lys av rådene fra de nyeste evalueringene, lokale behov og utviklingen i samfunnet
+generelt. En høyere omstillingstakt i samfunnet
+stiller høyere krav til at institusjonene justerer
+utdanningene i tråd med endringer i samfunnet.
+Utvalget mener at utfordringene for fellesskolen som kommer fram i denne utredingen må få
+implikasjoner for utviklingen av lærerutdanningene, blant annet betydningen av skolens danningsoppdrag. For å snu de negative resultatene
+må også noen fag- og fagområder få spesiell oppmerksomhet. Det vil være viktig at ny rammeplan
+for lærerutdanning særlig ivaretar at studentene
+blir gjort i stand til å gi god opplæring i lesing,
+skriving og regning/matematikk, drive god demo-
+
+kratiopplæring og å kunne støtte elevenes sosiale
+og emosjonelle utvikling.
+Utviklingen av lærerutdanningene bør følge
+den fremste forskningen. Forskningen i lærerutdanningen er viktig, men det foregår også mye
+relevant forskning for lærerutdanningene i ulike
+fagdisipliner. Lærerutdanningene er tjent med et
+samarbeid med relevante fagmiljø utenfor lærerutdanningene og har et betydelig ansvar for å integrere kunnskap som utvikles i andre fagmiljøer.
+Evalueringene av lærerutdanningene viser at
+en gjenstridig utfordring for lærerutdanningen er
+å utvikle god integrasjon og sammenheng i utdanningene
+(Kunnskapsdepartementet,
+2017a;
+Munthe et al., 2024; NOKUT, 2022). Utvalget
+mener det er viktig at lærerutdanningene jobber
+videre med dette. Verdigrunnlaget i overordnet
+del av læreplanverket er et eksempel på et område
+som må integreres som en naturlig del i alle de
+ulike fagene. Lærerutdanningenes heterogene
+kunnskapsgrunnlag krever at mange fagmiljøer
+bidrar inn til studentenes læring. Utvalget mener
+at studentene må få muligheter til å trene på kunnskapsintegrasjon og undervisning også på campus. Et eksempel på dette er undervisning om
+leseopplæringen. For å legge til rette for god leseopplæring trenger studentene å trekke sammen
+innsikter fra mange ulike fagfelt, som kognitiv
+teori, språkvitenskap, litteraturvitenskap, motivasjonsteori og lesedidaktikk. Disse fagfeltene
+undervises i ulike emner og av ulike faglærere.
+Lesing er en grunnleggende ferdighet og en del
+av kompetanse i alle fag. Det er derfor viktig at
+lærere, også i andre fag enn norsk, vet hvordan
+språklige ferdigheter i fagene påvirker lesing,
+læring og faglig utvikling, og hvordan de kan
+støtte utviklingen i undervisningen.
+Tett og gjensidig samarbeid med skolesektoren
+Utvalget mener at den gjensidige avhengigheten
+mellom lærerutdanningene og skolesektoren tilsier at samarbeidet mellom dem bør dyrkes og
+forsterkes. Lærerutdanningene må bidra til skoleutvikling, og skolesektoren må bidra til at lærerutdanningene blir relevante og praksisnære. Lærerutdanningene trenger å være tett på arbeidshverdagen og utfordringene i skolen, og skolene trenger å få tilgang på den nyeste relevante forskningen.
+Det er særlig i praksisperioden at studentene
+får øvd på å integrere det de har lært i ulike fag på
+campus i møte med elevene i klasserommet. Fordi
+praksis er helt nødvendig for å utdanne gode
+lærere, stilles det også krav til et minimum av
+
+[Side 267]
+
+NOU 2026: 10
+Fellesskolen
+
+praksis. Lærerutdanningene har ansvar for å
+utdanne lærere, men de er fullstendig avhengig av
+samarbeid med kommuner og fylkeskommuner
+for at lærerstudentene skal få god praksis i utdanningen. Kommunene er avhengig av at lærerutdanningene både utdanner nok lærere og at
+lærerne har blitt godt forberedt til yrkeslivet.
+Det er ikke enkelt å lage gode strukturer for
+samarbeid mellom lærerutdanningene og skolene, fordi disse er finansiert og regulert i hver sin
+sektor. Praksisstudiet til lærerstudentene blir
+styrt og rammet inn av flere nasjonale og lokale
+styringsdokumenter, fra både universitets- og høyskolesektoren, skolesektoren og barnehagesektoren (Arbeidsgruppe NFLP, 2023). Som omtalt i
+kapittel 8, må skoler, skoleledere og lærere forholde seg til et mangfold av styringsvirkemidler
+og styringssignaler i sitt arbeid. De må forholde
+seg til både nasjonale og lokale utdanningspolitiske prioriteringer. Disse er ikke nødvendigvis
+sammenfallende og dette kan skape manglende
+forutsigbarhet for skolen. At styringen kommer
+fra ulike nivåer og med ulike virkemidler, kan føre
+til at de som jobber i skolen opplever blandede
+styringssignaler. Politikkutviklingen de siste
+tiårene bygger på erkjennelsen om hvor avgjørende det er med et tett samarbeid mellom disse
+sektorene. Det er en underliggende utfordring at
+lærerutdanningene og skolene har ulike formål
+og er underlagt ulike styringslinjer. Utvalget
+mener det er viktig å styrke det gjensidige samarbeidet mellom lærerutdanningene og skolesektoren. Dette innebærer også å vurdere juridiske
+og økonomiske virkemidler.
+Lærerutdanningene gir direkte kompensasjon til praksislærerne og praksisstedene med
+utgangpunkt i øvingslæreravtalen. Dette skiller
+seg fra hvordan praksis er finansiert innenfor
+helse- og sosialfagutdanningene. Der må kommuner og helseforetak dekke kostnader til praksis innenfor sine ordinære budsjetter (Oslo
+Economics, 2025). En kunnskapsoppsummering
+peker på at vellykket praksis handler om både
+kapasitet og kvalitet. Samarbeid, organisering og
+veileders tid og kompetanse er viktige stikkord
+(Flobakk-Sitter et al., 2023). Oslo Economics har
+gjort en gjennomgang av finansiering av praksis i
+profesjonsutdanningene. De vurderer overordnet at finansieringsmodellen med direkte kompensasjon til skolene og praksisveilederne fungerer. Dette gjør den fordi den bidrar til tilstrekkelig antall praksisplasser. Samtidig trekker Oslo
+Economics fram at finansieringsmodellen bidrar
+til å individualisere ansvaret for veiledning. Dette
+kan føre til mindre helhetlige praksisopphold. De
+
+265
+
+Kapittel 12
+
+peker også på at det kan gjøre praksisopplæringen mer transaksjonsbasert og underminere
+målet om at UH-institusjonene og praksisfeltet
+skal være likeverdige parter med et felles ansvar
+for kvaliteten i praksis (Oslo Economics, 2025).
+Siden dagens finansieringsmodell bidrar til å
+skaffe praksisplasser foreslår ikke utvalget å
+gjøre endringer i denne. Utvalget mener likevel
+det er grunn til å gi kommunene et tydeligere og
+mer formelt ansvar for å bidra til arbeidet med å
+utdanne lærere. I helseutdanningene er det til
+sammenligning sterkere styring av praksisfeltets
+ansvar. Kommunene har plikt etter helse- og
+omsorgstjenesteloven § 8-1 til å medvirke til
+undervisning og praktisk opplæring av helsepersonell. Dette er en plikt til å bidra, ikke en plikt
+til å tilby et bestemt antall praksisplasser. Utvalget mener at kommuner og fylkeskommuner
+også bør bli forpliktet til å bidra i arbeidet med å
+utdanne lærere. Å tydeliggjøre kommunenes
+ansvar for å bidra til utdanning av lærerstudentene, på linje som ansvaret for å medvirke til
+utdanningen av helsepersonell, kan ses som en
+harmonisering på tvers av sektorer. Mangel på
+harmonisering av regelverket kan bidra til en
+omprioritering mellom sektorer og nedprioritering av skolesektoren (NOU 2023: 9).
+Utvalget oppfatter at det er enighet om at tett
+og gjensidig samarbeid mellom lærerutdanningene og skolesektoren er nødvendig, både for å
+utdanne så gode lærere som mulig og for at skolene skal få tilgang til den nyeste oppdaterte forskningen. Formuleringer som for eksempel «praksisnære lærerutdanninger» og «forskningsinformert skoleutvikling» er uttrykk som kan beskrive
+nettopp hvordan de to sektorene er avhengig av et
+tett samarbeid. Utvalget registrerer at dette samarbeidet på mange områder har en positiv utvikling, blant annet på grunn utbredelsen av partnerskap. Partnerskapstankegangen innebærer systematisk arbeid for likeverd og balanse mellom
+lærerutdanningene og skolesektoren. Strukturer
+som partnerskap, delte stillinger og hospiteringsordninger mellom skolene og lærerutdanningene
+er viktige tiltak som bør forsterkes og utvides. For
+å tydeliggjøre det likeverdige samarbeidet i partnerskapene, foreslo Faglig råd for lærerutdanning
+at det burde være overordnende og generelle forventninger om partnerskapsdannelse i både rammeplanene for lærerutdanning og i eksisterende
+rettslige dokumenter for skolen, og at det burde
+være langsiktig finansiering der partene er mottakere av midlene (Faglig råd for lærerutdanning,
+2020a). I ny felles rammeplan er det foreslått å
+regulere at all lærerutdanning skal «bygge på
+
+[Side 268]
+
+266
+
+Kapittel 12
+
+NOU 2026: 10
+Fellesskolen
+
+langsiktige, likeverdige og forpliktende partnerskap som omfatter lærerutdanningsinstitusjon,
+barnehager/skoler og eiere/lokale myndigheter,
+og eventuelt andre relevante aktører». Utvalget
+mener det er god grunn til å følge opp anbefalingene fra Faglig råd for lærerutdanning.
+Lærerutdanningene må sikres bedre rammevilkår
+Gode lærerutdanninger er avgjørende for å styrke
+fellesskolen. Utvalget mener at politikkutviklingen bør ta hensyn til at lærerutdanningene er
+avgjørende for fellesskolens framtid. Utdanningene krever samarbeid både mellom ulike fagmiljøer og med skolesektoren. Ansvaret lærerutdanningene har for å justere utdanningene i takt
+med utviklingen i samfunnet og skolen krever
+mye av dem. Det viktigste nasjonale myndigheter
+kan gjøre for at utdanningene skal møte behovene
+i fellesskolen, er å styrke rammevilkårene. I tillegg til strukturer for samarbeid med skolesektoren, er tilstrekkelige økonomiske rammer avgjørende for hvilke ambisjoner det er realistisk for
+utdanningene å innfri.
+Utvalget mener at fellesskolen er avhengig av at
+lærerutdanningene holder høy kvalitet, og fellesskolen blir tilsvarende skadelidende dersom lærerutdanningene ikke har tilstrekkelig finansiering til
+å utvikle denne kvaliteten. Evalueringer av lærerutdanningene viser gjennomgående at lærerutdanningene er kostnadskrevende utdanninger som
+krever tilstrekkelig god finansiering (Advisory
+Panel for Teacher Education, 2020; Følgjegruppa
+for lærarutdanningsreforma, 2015; NOKUT, 2022).
+Lærerutdanningene er integrerte masterutdanninger og avhengige av høyt kompetente fagmiljøer fra ulike disipliner for å kunne tilby utdanning i bredden av skolens undervisningsfag. Fellesskolen er avhengig av lærere i alle skolens fag,
+og det er i dag kun de største institusjonene som
+tilbyr en full fagvifte. Flere institusjoner oppgir at
+de vurderer å kutte i fagtilbudene (Haugen et al.,
+2024). Utvalget mener det vil skade fellesskolen
+dersom fagmiljø i små fag forsvinner, eller kun tilbys ved et fåtall institusjoner. Når institusjonene
+er under press, er det vanskelig å skjerme fagmiljøer som ikke er økonomisk bærekraftige. Det
+kan ta kort tid å legge ned et fagmiljø, men å gjenreise det eller etablere nye miljøer tar lang tid.
+Hvis lærerutdanningene skal kunne utdanne
+lærere i alle skolens fag, må det være forutsigbar
+økonomi. Utvalget mener det er nødvendig å opprettholde sterke fagmiljøer innenfor bredden av
+skolens fag, selv om søkertallene til lærerutdanningene kan svinge.
+
+Lærerutdanningene har høye utgifter til praksis
+(Oslo Economics, 2025). Utvalget mener finansieringen av lærerutdanningene må dekke både nødvendig praksis og kvalitet i studiet ellers. Kvalitet
+og omfang på praksis bør være et spørsmål om hva
+som gir studentene best mulig utdanning, ikke et
+spørsmål om finansiering. Dersom vi skal utdanne
+lærere som kan gi praktisk og variert undervisning, må lærerstudentene gjennom utdanningen
+også ha fått tilgang til relevant utstyr, spesialrom,
+læremidler og læringsressurser på campus.
+Universitetene og høyskolene er rammefinansierte og har et ansvar for å dimensjonere og utvikle utdanningene etter samfunnets behov. Innenfor denne rammefinansieringen har institusjonene
+et ansvar for å ivareta mangfold av utdanninger og
+ulike hensyn. Utvalget har ikke innsikt i hvordan
+institusjonene fordeler ressurser mellom utdanningsprogrammer. Utvalget er likevel bekymret
+for om lærerutdanningene, som femårige profesjonsutdanninger med stort innslag av praksis,
+har tilstrekkelig finansiering.
+Da de femårige grunnskolelærerutdanningene ble innført, ble det satt ned et panel med
+internasjonale eksperter for å gi råd om reformen.
+Rådgivningsgruppen mente at tilstrekkelig finansiering var viktig for å lykkes med reformen på
+lang sikt, og anbefalte derfor at de femårige
+grunnskolelærerutdanningene burde flyttes fra
+kategori D til kategori C i det norske finansieringssystemet for høyere utdanning (Advisory
+Panel for Teacher Education, 2020).1 Utvalget
+registrer at flyttingen ikke skjedde. Selv om det
+ble bevilget midler i forbindelse med innføringen
+av reformen, mener utvalget at det bare ble bevilget et minimum da det femte året i lærerutdanningen ble finansiert (Prop. 1 S (2020–2021); Prop.
+1 S (2021–2022)). Beløpet som ble tilført institusjonene var langt under det Universitets- og høgskolerådet hadde formulert krav om. Kravet var
+på 1,1 mrd. kroner og basert på kompensert endring av finansiering fra «gammel kategori D til C»
+(Tønnessen et al., 2020). Utvalget ser at en medlems- og interesseorganisasjon nødvendigvis vil
+være ekspansiv i beregning av kostnader ved en
+reform. Utvalget mener like fullt det er god dekning for påstanden om at reformen ble tydelig
+underfinansiert, sammenlignet med de uttrykte
+politiske ambisjonene og de faglige rådene
+(Advisory Panel for Teacher Education, 2020).
+1
+
+I det tidligere finansieringssystemet for universitet og høgskoler var det seks finansieringskategorier for den resultatbaserte uttellingen for studiepoeng (kategori A til F). Med
+virkning fra statsbudsjettet for 2025, ble disse redusert til
+tre kategorier (kategori 1– 3).
+
+[Side 269]
+
+NOU 2026: 10
+Fellesskolen
+
+267
+
+Kapittel 12
+
+Utvalget mener at basert på grep som ble tatt
+ved overgangen fra allmennlærerutdanning til
+grunnskolelærerutdanning i 2011, kostnader til
+praksisplasser og hevingen av lærerutdanningene
+til masternivå, så ville en rimelig finansiering
+utover det som ble lagt inn i 2021 og 2022 være i
+størrelsesorden 250–350 mill. kroner. Utvalget
+mener det er nødvendig å prioritere å styrke finansieringen av lærerutdanningene slik at de kan
+videreutvikle og tilby utdanninger av høy kvalitet
+og relevans.
+
+utvikles og at det kan være en styrke med flere
+lærere med doktorgrad i skolen.
+Utdanningsforskningen er viktig for et velfungerende utdanningssystem. Som vist i kapittel 10,
+er det en positiv utvikling på dette området. For å
+få mer kunnskap om kvaliteten og utviklingen
+innen utdanningsforskning, mener utvalget det nå
+er på tide å gjennomføre ny fagevaluering av
+utdanningsforskningen i Norge.
+
+Satsning på utdanningsforskning og sammenkobling til skolesektoren
+
+Skolen og lærerutdanningene spiller også en viktig rolle for å sikre samisk kompetanse i samfunnet. Det er stort behov for slik kompetanse. Å ha
+samisk kompetanse vil si både å beherske samisk
+språk og ha god kunnskap om samisk kultur.
+Utvalget mener fellesskolen og lærerutdanningene spiller en nøkkelrolle for å sikre at samiske
+elever får lære sitt eget språk, lære om egen kultur og historie og om de rettighetene den samiske
+folkegruppen har.
+Det er behov for formell samisk kompetanse
+innenfor mange fagområder og på mange områder
+i samfunnet, som utdanning, helse, rettsvesen og
+offentlig forvaltning. Vi trenger flere samiske
+språkbrukere for å få en positiv utviklingsspiral for
+samisk språk og kultur. Samisk barnehage og
+skole er avgjørende for å kvalifisere samiske språkbrukere som videre er kvalifisert til å starte på
+samisk lærerutdanning, slik at vi kan utdanne flere
+samiske lærere (Meld. St. 13 (2022–2023)). I dag er
+det egne samiske lærerutdanninger, og en ny felles
+samisk rammeplan for lærerutdanning er under
+utvikling (Kunnskapsdepartementet, 2025a). Utvalget mener det er nødvendig både at det utdannes
+nok samiske lærere og at alle lærerutdanninger og
+skoler bidrar til kunnskap om det samiske urfolket
+og om samisk språk, kultur og samfunnsliv.
+Tidligere i utredningen har vi beskrevet hvordan skolen var et viktig verktøy for fornorskingspolitikken. Denne politikken førte til at flere generasjoner samer og nasjonale minoriteter mistet
+språk og kultur, og senvirkningen av fornorskningspolitikken gjør seg fortsatt gjeldene. Da
+Stortinget behandlet Sannhets- og forsoningskommisjonens rapport, ba Stortinget regjeringen om å:
+– gjennomgå språkopplæringen i samisk og
+kvensk, og iverksette tiltak for at flere barn
+skal lære språkene i opplæringsløpet. Samarbeidet mellom språksentre, kommuner, fylkeskommuner og andre relevante aktører innen
+språkopplæring bør styrkes. I dette arbeidet
+må hindringer identifiseres og tiltak for rekrut-
+
+Gode lærerutdanninger forutsetter også forskning
+av høy kvalitet. Utvalget mener det er viktig å satse
+på utdanningsforskning og strukturer for å videreformidle forskningen til skolesektoren. I et samfunn i rask endring er det behov for god forskningsberedskap. Det stiller krav til videreutvikling av
+forskningsfeltene og nye måter å samarbeide på
+tvers av fag, sektorer og landegrenser. Utvalget
+merker seg at det er en aktiv strategi for å styrke
+utdanningsforskningen fram mot 2029 (Kunnskapsdepartementet, 2025c). Utvalget mener dette
+legger et godt grunnlag for å satse på utdanningsforskning og sammenkobling mellom universitetsog høyskolesektoren og skolesektoren.
+Det er ingen automatikk i at utdanningsforskningen som skjer i akademia finner veien til skolene og klasserommet. Strategien for utdanningsforskning legger blant annet vekt på at et velfungerende økosystem for forskning krever både produksjon av forskning, bruk av forskning og en
+form for kunnskapsmegling, altså aktiviteter som
+fremmer bruk av forskning. (Kunnskapsdepartementet, 2025c). Det er flere tiltak som skal bidra
+til en slik sammenkobling. Her spiller Kunnskapssenter for utdanning og de nasjonale sentrene viktige roller. Det er også flere tiltak i lærerutdanningene som er ment å bygge sterkere kunnskapsbroer mellom akademia og skolesektoren, blant
+annet gjennom satsningen på partnerskap. Masterutdanningen er i seg selv viktig for at studentene kan trene på å omsette forskning til praksis.
+Det er med andre ord mange gode tiltak på dette
+området. Utvalget mener likevel det er viktig å
+undersøke hvordan man kan jobbe for å legge til
+rette for å fremme bruk av utdanningsforskningen. Endring i rammeplanen for lærerutdanningene framstår som en egnet mulighet også for
+dette. Utvalget vil i denne forbindelse også peke
+på at ordningen med offentlig sektor ph.d. bør
+
+Lærere med kunnskap om samisk språk, kultur og
+samfunnsliv
+
+[Side 270]
+
+268
+
+Kapittel 12
+
+–
+
+–
+
+NOU 2026: 10
+Fellesskolen
+
+tering av samisk og kvensk språkkompetanse
+til barnehage og skole forbedres.
+komme raskt tilbake til Stortinget med forslag
+til en nasjonal satsing på gjennomgående språkopplæring for kvensk og samiske språk fra
+barnehage til voksenopplæring.
+aktivt støtte opp under teknologiutvikling og
+nye undervisningsmuligheter som kan bidra til
+bedre tilgang på utdanning i og på kvensk og
+samiske språk, og komme tilbake til Stortinget
+på egnet måte (Innst. 30 S (2024–2025)).
+
+Utvalget mener at disse vedtakene må følges opp
+og er kjent med at Kunnskapsdepartementet allerede er i gang med dette.
+Utvalget understreker igjen at den beklagelsen Stortinget ga i forbindelse med behandlingen
+av rapporten fra Sannhets- og forsoningskommisjonen, gir en særskilt forpliktelse for fellesskolen
+til å ivareta samiske barn og unges rettigheter til
+eget språk og kultur, og til å motvirke senskadene
+av fornorskningspolitikken.
+
+12.1.2 Regulering av profesjonsfaglig
+veiledning for nyutdannede lærere
+Det er viktig at alle nyutdannede lærere får god
+profesjonsfaglig veiledning de første årene i yrket.
+Overgangsperioden er sentral for både lærernes og
+elevenes læring. Utvalget mener det er nødvendig
+å regulere en plikt for kommunen og fylkeskommunen til å gi alle nyutdannede lærere to introduksjonsår med profesjonsfaglig veiledning. De nyutdannede lærerne skal ha plikt til å delta i ordningen. Utvalget foreslår at introduksjonsperioden
+skal innebære at 10 prosent av arbeidstiden de
+første to årene skal kunne brukes til introduksjonsaktiviteter, veiledning og for- og etterarbeid til
+undervisning. Utvalget mener at ordningen etter
+en periode bør evalueres for å vurdere om den bør
+endres.
+Det er flere grunner til at utvalget mener det
+er nødvendig å regulere en introduksjonsperiode
+med profesjonsfaglig veiledning. En nyutdannet
+lærer er en viktig ressurs i profesjonsfellesskapene og kan bidra med ny forskning og nye perspektiver fra lærerutdanningene. Samtidig er en
+nyutdannet lærer fortsatt i en intensiv læreprosess de første årene i yrket. For å gi nye lærere en
+god start på yrkeslivet og tid til utvikling og modning, mener utvalget det er nødvendig at de får
+mer tid til for- og etterarbeid, introduksjonsaktiviteter og god profesjonsfaglig veiledning. Utvalget
+mener at en slik introduksjonsperiode også er viktig for å beholde nyutdannede lærere i yrket. En
+
+god overgang mellom utdanning og yrke er dermed også viktig i et rekrutteringsperspektiv.
+Utvalget understreker at veiledning er et svar
+på kompleksiteten i læreryrket. Det er noen sider
+ved lærernes profesjonskunnskap som læres best
+i yrket. Det er et begrenset antall dager i året
+lærerstudentene er i praksis. I disse periodene vil
+de ha en klasse på lån for en kort tid og sjelden ha
+det fulle ansvaret. En kort praksisperiode vil ikke
+kunne forberede for alle sider av lærergjerningen.
+I praksisperiodene vil det være et element av forutsigbarhet, og man kan ikke planlegge for alle de
+erfaringer en lærer gjør i løpet av et skoleår. Det
+er noen områder som læres best i de første årene i
+yrket. Områder som skole-hjem-samarbeid, samarbeid med andre instanser, relasjonsarbeid og
+klasseledelse, håndtering av skolemiljøsaker og
+planlegging av skoleåret, er eksempler på områder som må videreutvikles i yrket.
+Utvalget mener en stor fordel ved å regulere at
+nyutdannede lærere skal få en obligatorisk introduksjonsperiode, er at det vil gjøre det mulig å ha
+tydeligere forventinger til hva de nyutdannede
+bør lære disse årene. I dag skal organiseringen av
+og innholdet i veiledningen utformes lokalt. Lokal
+tilpasning er viktig, men utvalget mener også at
+det kan være hensiktsmessig med noe regulering
+av hva introduksjonsperioden skal inneholde.
+Regulering er nødvendig
+Utvalget vil understreke at det har skjedd en positiv utvikling knyttet til veiledning av nyutdannede
+lærere i løpet av de senere årene. Som beskrevet i
+kapittel 10, registrerer utvalget at det både er faglig og politisk konsensus om at nyutdannede
+lærere skal få veiledning. Det har blitt satset aktivt
+på dette i to tiår, og utvalget mener det er med
+rette at Norge har blitt betraktet som et foregangsland (Bjerkholt & Olsen, 2025). Til tross for aktiv
+politikk, en dedikert tilskuddordning og partenes
+enighet om de nasjonale prinsippene og forpliktelsene, viser de nyeste kartleggingene dessverre at
+det er for stor variasjon i utbredelse og kvalitet
+(Halmrast et al., 2021; White et al., 2025). Utvalget
+mener det neppe er vond vilje som gjør at det fortsatt er mange nyutdannede som ikke får veiledning. Mange steder i landet er rekrutteringssituasjonen krevende. Utvalget ser at det i en sitasjon
+med mangel på lærerkompetanse kan være krevende å prioritere at lærere skal bruke tid på veiledning. Utvalget mener at gode intensjoner ikke
+har vært nok, og at det nå er nødvendig å regulere
+at alle nyutdannede lærere skal sikres profesjonsfaglig veiledning.
+
+[Side 271]
+
+NOU 2026: 10
+Fellesskolen
+
+269
+
+Kapittel 12
+
+Boks 12.1 Prinsipper for profesjonsfaglig veiledning
+Partene er enige om følgende prinsipper for pro• tilpasses den nyutdannedes forutsetninger
+fesjonsfaglig veiledning for nyutdannede lærere
+og behov
+• tilpasses lokale forhold når det gjelder orgai barnehage og skole:
+nisering og innhold
+Prinsipper for innhold
+Profesjonsfaglig veiledning
+• skaper en god overgang og sammenheng
+mellom kvalifiseringen som skjer i utdanningen og videre profesjonsutvikling i yrket
+• er basert på forskning og erfaringsbasert
+kunnskap om veiledning for nyutdannede
+lærere og betydningen av videre profesjonsutvikling i yrket
+• videreutvikler den nyutdannedes profesjonsfaglige kompetanse og praksis
+• inkluderer, anerkjenner og bruker den nyutdannede som ressurs og bidragsyter i profesjonsfellesskapet
+• motiverer den nyutdannede til videre profesjonsfaglig utvikling og til å bli værende i
+yrket
+• ses i sammenheng med øvrige kompetansetiltak i barnehage og skole
+
+Å innføre en plikt for kommunen og fylkeskommunen til å gi alle nyutdannede lærere to obligatoriske introduksjonsår med profesjonsfaglig
+veiledning, er en sterk form for styring av kommuner og fylkeskommuner, og det er en inngripen i
+det kommunale selvstyret. Det skal alltid angis ett
+eller flere nasjonale hensyn som tilsier at slik inngripen er nødvendig (Kommunal- og moderniseringsdepartementet, 2020). Utvalget viser til at
+forsøkene med mykere styringsgrep gjennom tilskuddsordninger og avtaler ikke har gitt tilstrekkelig effekt, og at mange nyutdannede lærere fortsatt ikke får veiledning. Utvalget mener derfor at
+lovregulering er et nødvendig og forholdsmessig
+virkemiddel som vil sikre at kommunene må prioritere ressurser til dette.
+Å innføre to obligatoriske introduksjonsår
+med profesjonsfaglig veiledning og 10 prosent
+redusert undervisning, har en økonomisk kostnad, og det vil kreve flere lærerårsverk. Forslaget
+innebærer at både nyutdannede lærere og veilederne deres får mindre tid til undervisning. Utvalget vil understreke at det er nødvendig at disse
+
+Prinsipper for gjennomføring
+Profesjonsfaglig veiledning
+• gjennomføres og prioriteres på en systematisk måte de to første yrkesårene
+– gjennom avsatt tid til planlegging og gjennomføring hos både veiledere og nyutdannede
+– etter en strukturert og målrettet plan
+– med en hyppighet og et omfang som
+bidrar til læring og utvikling
+– både individuelt og i grupper
+• utføres fortrinnsvis av kvalifiserte veiledere.
+• bør fortrinnsvis gjennomføres av veileder
+som ikke har formelt lederansvar for den
+nyutdannede
+Kilde: Kunnskapsdepartementet, 2025d
+
+årsverkene kompenseres, for at det ikke skal
+svekke elevenes opplæring.
+Til tross for disse konsekvensene, mener
+utvalget en obligatorisk introduksjonsperiode
+med profesjonsfaglig veiledning er et viktig tiltak
+som vil styrke skolen i det lange løp. Det vil kunne
+bidra til bedre lærere, styrke opplæringen til elevene og til å gjøre læreryrket mer attraktivt slik at
+vi beholder gode lærere i yrket.
+Gode forutsetninger for gjennomføring
+Utvalget mener det allerede er gode forutsetninger for å regulere at alle nyutdannede lærere
+får veiledning. Blant annet legger partenes enighet om de nasjonale prinsippene for veiledning, og
+midlene som nå er overført til kommunerammen
+et godt grunnlag for å innføre en regulering. Det
+er også et godt utgangspunkt at partene gjennom
+arbeidstidsavtalen er enige om at lærere det første
+yrkesåret skal få redusert undervisningen med
+inntil 6 prosent fra skoleårets begynnelse. Dette
+mener utvalget er positivt.
+
+[Side 272]
+
+270
+
+Kapittel 12
+
+NOU 2026: 10
+Fellesskolen
+
+Utvalget merker seg at de nasjonale prinsippene legger til grunn at en kvalifisert veileder er
+en lærerutdannet som fortrinnsvis har formell veilederkompetanse, nødvendig fagkompetanse og
+minst tre års erfaring som lærer. Formell veilederkompetanse innebærer at man har studiepoeng i
+veiledning fra høyere utdanning. Forskningen
+understøtter betydningen av at veiledningen gis
+av lærere med formell veilederkompetanse (Frederiksen, 2020; Ingersoll & Strong, 2011), og
+utvalget støtter at veiledningen fortrinnsvis bør
+skje med kvalifiserte veiledere.
+En evaluering viser at om lag halvparten av
+veilederne ikke hadde noen studiepoeng i veiledning (Halmrast et al., 2021). Å sørge for at nok veiledere får videreutdanning i veiledning er viktig
+for kvaliteten på den profesjonsfaglige veiledningen i denne innføringsperioden. Utvalget mener
+at det å investere i veilederkompetanse også kan
+styrke kvaliteten i praksis i lærerutdanningene.
+De nasjonale rammene presiserer at organisering
+av veiledningen bør tilpasses lokale forhold. Utvalget mener derfor det bør være mulig å finne smidige, lokale løsninger for å samarbeide om veiledningsordninger slik at mindre skoler kan tilby
+nyutdannede lærere veiledning av kvalifiserte veiledere. Utvalget mener det er en styrke at det finnes et nasjonalt nettverk for profesjonsfaglig veiledning for nyutdannede som kan bidra til kunnskapsdeling og kvalitetsutvikling innenfor feltet
+(Nettverk for profesjonsfaglig veiledning for nyutdannede lærere, 2026).
+Det er avgjørende at det settes av dedikert og
+tilstrekkelig tid til veilederne. De nasjonale prinsippene presiserer at profesjonsfaglig veiledning
+skal gjennomføres i avsatt tid til planlegging og
+gjennomføring hos både veiledere og nyutdannede, og det skal være med hyppighet og omfang
+som bidrar til læring og utvikling (Kunnskapsdepartementet, 2025d). I den nyeste evalueringen av
+veiledningsordningen rapporterte 65 prosent av
+grunnskolelederne og 32 prosent av ledere i
+videregående opplæring at mengden formell veiledning er definert i den lokale arbeidstidsavtalen
+(Halmrast et al., 2021).
+I system for kompetanse- og karriereutvikling
+blir rollen som veileder for nyutdannede lærere,
+praksisstudenter og kolleger trukket fram som et
+godt eksempel på en spesialisert rolle eller funksjon. Utvalget mener også at rollen som veileder
+kan ses i sammenheng med en ordning for utviklingslærere.
+
+12.1.3 Kontinuerlig kompetanseutvikling
+gjennom yrkeslivet
+Utvalget mener at det er nødvendig at lærerne,
+som del av en lærende profesjon, utvikler kompetanse gjennom hele yrkeslivet, også etter de første
+introduksjonsårene. Utdanningspolitikken bør
+støtte en slik utvikling, og rammene for profesjonens kompetanseutvikling må derfor videreføres
+og videreutvikles i framtiden. En profesjon som
+skal bidra til læring og utvikling for kommende
+generasjoner, må utvikle og fornye seg i takt med
+endringene i samfunnet og ny forskning. Utviklingstrekkene som er beskrevet i denne utredningen understreker et slikt behov. Det er også behov
+for videreutdanning for å sikre at flere lærere får
+undervisningskompetanse i fagene de underviser
+i. Det nylig vedtatte systemet for kompetanse- og
+karriereutvikling, som omtalt i kapittel 10, gir et
+godt utgangspunkt for å sikre den kontinuerlige
+kompetanseutviklingen til lærerprofesjonen.
+Utvalget mener at utvikling av lærerprofesjonen ikke vil lykkes uten kollektiv profesjonalisering som mål. Profesjonsutviklingen må skje i faglige fellesskap mellom lærerne som jobber i skolen for at de ulike tiltakene for å løfte profesjonen
+skal virke etter hensikten.
+Kollektiv læring og samarbeid i profesjonsfellesskapene er avgjørende
+Profesjonsfellesskapene er grunnleggende for
+lærernes kompetanseutvikling. Profesjonelle
+læringsfellesskap skaper et rom der lærere
+sammen utvikler kunnskap, deler erfaringer og
+reflekterer over praksis med elevenes læring,
+utvikling, trivsel og danning som felles mål. Når
+lærere samarbeider på tvers av erfaringer og perspektiver, styrkes både kvaliteten i undervisningen og den profesjonelle tryggheten i yrket.
+Den enkelte lærer er avhengig av autonomi i
+yrket. Samtidig er det nødvendig at profesjonen
+som helhet får tillit og handlingsrom til å ta faglige
+beslutninger. Dette handler om profesjonens kollektive autonomi. Gjennom samarbeid, dialog og
+gjensidig ansvar utvikles en kultur der lærere ikke
+står alene i vurderinger og utviklingsarbeid, men
+at de sammen bygger et profesjonelt skjønn
+basert på forskning, erfaring og kjennskap til elevenes behov. Slik blir profesjonelle læringsfellesskap ikke bare en arbeidsform, men en viktig forutsetning for skoleutvikling, kvalitet og profesjonsutøvelse.
+Kollektiv profesjonsutvikling blant lærere bør
+skje innenfor rammer med klare mål og med til-
+
+[Side 273]
+
+NOU 2026: 10
+Fellesskolen
+
+strekkelig autonomi for lærerne til kontinuerlig å
+utvikle praksis i tråd med oppdatert kunnskap.
+Profesjonsfellesskapene i skolen må være systematiske, lærende og i en kontinuerlig forbedringsprosess. På sitt beste vil profesjonsfellesskapene
+bruke sin kompetanse og kunnskap til å utvikle
+seg sammen mot felles mål.
+Skolelederne har et ansvar for å lede profesjonsutviklingen og må ha de riktige verktøyene
+og rammene for å legge til rette for at slik utvikling kan skje. En kollektiv samarbeidskultur krever tid, en kultur for deling og aktiv deltakelse fra
+alle som er med.
+Rammer for å sikre lærernes profesjonsutvikling
+gjennom yrkeslivet
+Lærerprofesjonens kontinuerlige utvikling ivaretas på flere måter. Opplæringslova § 17-8 regulerer at kommunen «skal sørgje for at dei som er tilsett i lærarstilling, rektorar og andre tilsette i skolen får høve til å utvikle seg fagleg og pedagogisk
+så dei kan vere på høgd med utviklinga i skolen og
+samfunnet» (Opplæringslova, 2024). I arbeidstidsavtalen for skole, SFS 2213, er det satt av tid til
+kompetanseutvikling og faglig ajourføring for
+lærerne. Ledelsen gis et særlig ansvar for å styrke
+og støtte profesjonsfellesskapets faglige utvikling
+og samarbeid (SFS 2213, 2025).
+Utvalget mener at lærerne bør utvikle sin kompetanse gjennom hele yrkeslivet. En slik kompetanseutvikling bør skje i arbeidstiden og være betalt av
+arbeidsgiver. For å bygge opp under den kontinuerlige kompetanseutviklingen i profesjonen, er det
+både viktig med tid til faglig og pedagogisk utvikling i det daglige arbeidet, i noen perioder også
+gjennom formell videreutdanning. Lokale og sentrale myndigheter kan legge til rette for lærernes
+formelle kompetanseutvikling.
+Statlig finansiering av kompetanseutvikling
+gjennom «System for kompetanse- og karriereutvikling i barnehage og skole», kan bidra til å sikre
+et mer likeverdig tilbud på tvers av kommuner og
+fylkeskommuner, særlig ved å kompensere for
+ulik kapasitet og ressurstilgang lokalt. Felles rammer for kompetanseutvikling kan også gi tydeligere retning for utviklingsarbeidet i sektoren.
+Det finnes egne tilskuddsordninger som skal
+støtte lærernes kompetanseutvikling gjennom
+videreutdanning og kollektiv kompetanseutvikling. Kommunekommisjonen har foreslått at tilskuddsordningen for viderutdanning skal innlemmes i kommunerammen. Som vi argumenterer
+for i kapittel 13, mener utvalget det er avgjørende
+at tilskuddordningene bevares. Skolens ansatte
+
+271
+
+Kapittel 12
+
+må sikres relevant og oppdatert kompetanse.
+Utvalget mener også at tilskuddsordningene bør
+øke betraktelig for at lærerprofesjonen skal ha
+oppdatert og relevant kunnskap i møte med utviklingstrekkene i samfunnet. Økt tilskudd til kompetanseutvikling må ses i sammenheng med
+utvalgets forslag om å innføre krav om 15 studiepoeng for undervisning i alle fag på barnetrinnet
+som ikke har krav til faglig fordypning i dag, og
+forslaget om å innføre en ordning med utviklingslærere.
+
+12.1.4 Spesialisering gjennom en ordning for
+utviklingslærere
+Et viktig ledd i arbeidet for å styrke lærerprofesjonen, er å gi erfarne lærere mulighet til spesialisering og et spesielt ansvar for å støtte utviklingsarbeidet ved skolene. Utvalget mener differensiering og spesialisering er en naturlig følge av lærerprofesjonens heterogene kunnskapsgrunnlag, en
+stadig høyere utviklingstakt og endringsbehovene
+i skolen. I lys av den raske utviklingstakten vil det
+være avgjørende å lage systemer som sørger for
+koblinger mellom forskningsmiljøene i høyere
+utdanning og skolene. Utvalget anbefaler å innføre en ordning med utviklingslærere, som skal
+ha et særlig utviklingsansvar innenfor prioriterte
+områder på skolen eller i kommunen. For den
+enkelte lærer vil rollen innebære en anerkjennelse av spesialisert kompetanse og mulighet for
+faglig fordypning. For praksisfellesskapet er det
+nyttig at noen spesialiserer seg. Utviklingslærere
+bør få et særlig ansvar for samarbeid, nettverk og
+utviklingsarbeid mellom skolene og lærerutdanningene. Utviklingslærere kan fungere som motorer i utviklingsarbeidet i skolen.
+Formålet med spesialiseringen bør være å
+styrke arbeidet med å gi et godt faglig og pedagogisk tilbud til elevene. Utvalget mener utviklingslærere kan være nav for utvikling i skolesektoren,
+i tett samarbeid med ledelsen ved den enkelte
+skole.
+Spesialiserte utviklingslærere vil kunne styrke
+skolen, elevenes opplæring og læreprofesjonen
+som helhet. I andre sammenlignbare profesjoner
+er spesialisering utbredt. Utvalget mener det er
+viktig å anerkjenne at lærerne gjennom yrkeslivet
+vil få mer spesialisert kompetanse. En erfaren
+lærer med videreutdanning vil gjennom et langt
+yrkesliv ha en annen kompetanse enn en nyutdannet lærer. Utvalget mener at en slik ordning må
+innføres i lys av de egalitære normene i lærerprofesjonen og i lys av utdanningsnivået og spesialiseringen til lærerprofesjonen.
+
+[Side 274]
+
+272
+
+Kapittel 12
+
+NOU 2026: 10
+Fellesskolen
+
+En stadig mer spesialisert lærerprofesjon
+Lærerprofesjonen har blitt beskrevet som en profesjon som i liten grad har vært opptatt av spesialisering, og den har historisk sett vært preget av
+egalitære normer. Lærere omtales gjerne som
+sterkt likhetsorienterte, for eksempel når det gjelder lønn, autoritet og ansvar. Likevel har det de
+siste tiårene, både i Norge og internasjonalt,
+skjedd en dreining mot stadig større grad av spesialisering av lærerrollen (Lorentzen, 2023).
+Utviklingen de siste tiårene har bidratt til at
+lærere har fått en mer spesialisert kunnskap og
+kompetanse. Spesialiseringen har skjedd gjennom
+tiltak som trinndelingen av grunnskolelærerutdanningen i 2010, innføringen av femårig masterutdanning i 2017, skjerpede krav til læreres fagspesifikke kompetanse og økt satsing på læreres
+etter- og videreutdanning. Stadig flere lærere har
+en fordypning (Lorentzen, 2023, 2024).
+Tidligere forslag om spesialiserte lærerroller har ikke
+fått fotfeste
+Utvalget erkjenner at forslaget om utviklingslærere bør ses i lys av tidligere forsøk med spesialiserte lærerroller, som ikke har funnet en etablert
+form. Utvalget mener det er nødvendig å lære av
+disse erfaringene.
+Innføringen av lærerspesialister i 2015 er et
+eksempel på en spesialisert lærerrolle. Formålet
+med ordningen var todelt. Det ene formålet var å
+bidra til at dyktige lærere opplever faglige utviklingsmuligheter og ønsker å fortsette i jobben.
+Det andre var å styrke det kollektive profesjonsfellesskapet og utviklingen av skolen som lærende
+organisasjon. Lærerspesialistordningen ble avviklet
+fra og med høsten 2021. Regjeringen Støre ønsket å
+erstatte «lærarspesialistordninga med ei partsforankra ordning som gir lærarar betre tid til utviklingsarbeid, og som styrkjer profesjonsfellesskapa i skulen.» (Arbeiderpartiet & Senterpartiet, 2021).
+Etter- og videreutdanningsutvalget (NOU
+2022: 13) foreslo at det i stedet for lærerspesialistordningen burde innføres et nasjonalt system for
+karriereveier for ansatte i skolen innenfor fire
+utvalgte områder:2
+– fag- og skoleutvikling
+– forskning og partnerskap
+– inkluderende praksis
+– ledelse
+2
+
+Etter- og videreutdanningsutvalget vurderte også kompetanseutvikling for barnehagelærere. Her konsentrer vi oss
+om forslagene som gjaldt lærere.
+
+Etter- og videreutdanningsutvalget framhevet at
+faglige utviklingsmuligheter for den enkelte kan
+bidra til å styrke det profesjonelle fellesskapet på
+og mellom skoler og utvikle lærende organisasjoner. På bakgrunn av evalueringer, forskning og
+erfaringer fra blant annet lærerspesialistordningen foreslo dette utvalget blant annet:
+– å utvikle videreutdanningstilbud knyttet til karriereveiene
+– at minimum 20 prosent av arbeidstiden skulle
+gå til karriereveien
+– å utforme nasjonale rammer for karriereveier
+– å utforme nasjonale standarder til hva karriereveien skal bidra med i kvalitetsarbeidet
+– å utvide offentlig sektor ph.d.-ordningen rettet
+mot lærere og andre ansatte i skolen
+– å øke antallet kombinasjonsstillinger mellom
+universiteter og høyskoler og skoler (NOU
+2022: 13)
+I det nye systemet for kompetanse- og karriereutvikling som fulgte opp forslagene til Etter- og videreutdanningsutvalget, ble karriereveier omtalt
+som spesialiserte roller og funksjoner. I strategien
+står det:
+Spesialiserte roller og funksjoner skal styrke
+kvalitetsarbeidet og det profesjonelle læringsfellesskapet innenfor et fag- eller arbeidsområde i barnehage og skole, i en kommune,
+fylkeskommune eller region. Spesialiserte roller og funksjoner skal gi lærere og andre yrkesgrupper med høyere utdanning eller fagbrev
+utvidet ansvar og faglige utviklingsmuligheter
+og bidra til at barnehager og skoler er attraktive arbeidsplasser.
+(…)
+Departementet har jobbet sammen med
+partene for å utvikle veiledende rammer for
+spesialiserte roller og funksjoner, men har
+foreløpig ikke kommet fram til noe alle kan
+stille seg bak. Mange av problemstillingene i
+arbeidet hører hjemme hos partene, og det er
+derfor en forutsetning at arbeidet er partsforankret.
+Kunnskapsdepartementet 2025f
+
+Partene kom med andre ord ikke til enighet om
+veiledende rammer for spesialiserte roller og
+funksjoner. Fellesskoleutvalget tar ikke stilling til
+hvorfor partene ikke kom til enighet, men vil
+påpeke at de har et felles ansvar for å løse slike
+utfordringer.
+
+[Side 275]
+
+NOU 2026: 10
+Fellesskolen
+
+Utvalget mener likevel det bør innføres en ordning
+med utviklingslærere
+Utvalget mener det bør utvikles en ordning med
+utviklingslærere med spesialisert ansvar, selv om
+tidligere forsøk med spesialiserte lærerroller har
+strandet. Erfaringene med lærerspesialistordningen, etter- og videreutdanningsutvalgets utredning og oppfølgingen av denne gir verdifull kunnskap å bygge videre på i en ny ordning.
+Det er avgjørende at en ordning for spesialisering er partsforankret. Utvalget oppfatter ikke at
+partene er imot å utvikle et system for spesialiserte roller. Skal det lages et godt system for utviklingslærere, mener utvalget det er sentralt at
+partene må samarbeide og bli enige hvordan et
+slikt system skal fungere. Utvalget vil likevel peke
+på noen sentrale momenter å ta stilling til i en slik
+diskusjon.
+Utviklingslærer som tittel
+Det er nødvendig med en begrepsbruk som funger i lærerprofesjonen. Selv om det i helseprofesjonene er vanlig å bruke ordet spesialist, mener
+utvalget det vil være bedre å bruke betegnelsen
+utviklingslærer, eventuelt «utviklingslærer med
+spesialisering i [et gitt område]». Betegnelsen
+utviklingslærer signaliserer at målet med stillingen er å bidra til utvikling av skolen, kollegiet og
+profesjonen generelt. Den peker også mot utviklingsmulighetene til den enkelte utviklingslærer. Utvalget presiserer at det er partene som
+må bli enige om hvilken tittel som er best egnet.
+En stadig bedre utdannet og spesialisert lærerprofesjon
+Det høyere utdanningsnivået til lærerprofesjonen
+danner et bakteppe for hvordan en ordning med
+utviklingslærere bør fungere. Utvalget mener det
+er positivt at lærernes utdanningsnivå har blitt
+styrket. Samtidig erfarer utvalget at smal spesialisering av lærerne også skaper utfordringer for
+rekruttering. Som vist har lærerprofesjonen et
+heterogent kunnskapsgrunnlag, og utvalget oppfatter at det stadig er utfordringer med å få til god
+integrasjon mellom kunnskapsområder og sammenheng mellom kunnskapsutviklingen som
+skjer i skolen og i forskningen. Fordi lærerprofesjonen allerede har blitt stadig mer spesialisert, er
+det viktig at en ordning med utviklingslærere
+bidrar til bedre integrasjon mellom fagområder,
+og til bedre kunnskapsutvikling og erfaringsdeling mellom skolene og lærerutdanningene. Utval-
+
+273
+
+Kapittel 12
+
+get mener utviklingslærere bør ha funksjoner
+som bidrar til slike sammenhenger.
+Utviklingslærere for skoleutvikling og nasjonalt og
+lokalt samarbeid
+Et sentralt argument for å innføre en ordning med
+utviklingslærere er at de kan bidra til utvikling,
+samarbeid og erfaringsutveksling på tvers.
+Hovedjobben til utviklingslærere bør være knyttet
+til utvikling ved den enkeltes skole, men siden
+ikke alle skoler nødvendigvis vil ha mulighet til ha
+egne utviklingslærere, bør utviklingslærere også
+ha ansvar for erfaringsutveksling gjennom nettverk av skoler og kommuner.
+Utvalget mener utviklingslærere kan være
+sentrale for implementeringsarbeid og støtte
+skoleledelsen ved den enkelte skole, i samarbeidet mellom skoler kommunalt, samarbeidet mellom lærerutdanningene og for nasjonale myndigheter. Internasjonalt har både myndigheter og forskere argumentert for at spesialiserte lærerroller
+bidrar til å styrke læreres eierskap til utviklingsprosesser, og de kan bidra til å distribuere ansvar
+og kontroll i skolens systemer (Lorentzen, 2024).
+Utviklingslærere vil være en kilde til økt kollektiv
+autonomi for lærerprofesjonen som helhet og
+styrke profesjonens stemme i utviklings- og implementeringsarbeid.
+Krav og rammevilkår for utviklingslærene
+Utvalget mener at utviklingslærere bør legge til
+rette for læreres læring, arbeide med utviklingsoppgaver (ikke ordinære driftsoppgaver) og inngå
+i arbeidet med å lede utvikling av kvalitet i undervisning. For å bidra til kunnskapsutvikling og erfaringsdeling kan utviklingslærere for eksempel få
+ansvar for veiledning av lærerstudenter og nyutdannede lærere, forskningssamarbeid, partnerkapsarbeid og samarbeid med lærerutdanningene. Utviklingslærere kan også få ansvar for
+ulike fagområder som lesing, demokrati, digitalisering eller praktiske og estetiske fag.
+Utvalget presiserer at myndighetene bør gå i
+dialog med partene i arbeidslivet om å utforme
+detaljene i en ordning med spesialiserte utviklingslærere. En stadig større andel av lærerprofesjonen vil i framtiden være masterutdannede
+med ulik spesialisering. Utvalget mener at dersom
+spesialiseringsordning skal ha legitimitet, må det
+være formelle og forutsigbare kvalifikasjonskrav
+knyttet til utdanning og erfaring som samsvarer
+med ansvaret som gis til utviklingslærere. Profesjonen bør oppleve at kravene og rammevilkårene

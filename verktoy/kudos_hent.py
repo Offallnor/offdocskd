@@ -291,7 +291,7 @@ def main():
     for t, o, r in valgte:
         rid = "KU-" + r["uuid"]
         ny_tekst = rid in oversikt and "--ny-tekst" in sys.argv and (oversikt[rid].get("tekstkilde") or "pdf") == "pdf" \
-            and "\n[Side 1]\n" not in deling.les(oversikt[rid]["fil"])[1]
+            and not re.search(r"(?m)^\[Side 1\]$", deling.les(oversikt[rid]["fil"])[1])
         if rid in oversikt and not ny_tekst:   # lagret fra før: fyll inn felt som kom til senere, uten å hente på nytt
             gml = oversikt[rid]
             side = (r.get("external_public_url") or "").strip()

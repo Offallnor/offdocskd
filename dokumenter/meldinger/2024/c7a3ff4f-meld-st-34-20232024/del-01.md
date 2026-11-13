@@ -1,0 +1,1520 @@
+# Meld. St. 34 (2023–2024), del 1 av 12 (side 1–21)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2024/c7a3ff4f-meld-st-34-20232024.md
+- Original-PDF: /dokument/f00a6655-6244-4d9b-a126-62c9c7a3ff4f/filer/03a0aabb-722f-41dd-b757-4a17c74c7fd4.pdf
+- Tekst: hentet fra PDF. OBS: 1 tabell, 17 figurer, 56 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 1]
+
+Meld. St. 34
+(2023 – 2024)
+Melding til Stortinget
+
+En mer praktisk skole
+Bedre læring, motivasjon og trivsel på 5.–10. trinn
+
+[Side 2]
+
+[Side 3]
+
+Meld. St. 34
+(2023–2024)
+
+Melding til Stortinget
+
+En mer praktisk skole
+Bedre læring, motivasjon og trivsel på 5.–10. trinn
+
+[Side 4]
+
+[Side 5]
+
+Innhold
+Del I
+1
+1.1
+1.2
+1.3
+1.4
+2
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.2.1
+3.2.2
+3.3
+3.4
+
+Bakgrunn og
+kunnskapsgrunnlag ....................
+En fellesskole for vår tid ...........
+En verden i rask endring krever
+omstilling ........................................
+Fellesskolen er viktigere enn
+noen gang ........................................
+En mer praktisk skole ....................
+Om meldingen ................................
+Status for elevenes læring,
+motivasjon og trivsel ..................
+Negativ utvikling i læringsresultater de siste årene ................
+Økende forskjeller mellom
+elever ...............................................
+Kjønnsforskjeller i læringsresultater og trivsel ........................
+Økende utfordringer
+i skolemiljøet ...................................
+Økende vold i skolen .....................
+Økende skolefravær .......................
+Synkende motivasjon .....................
+Flere strever med å håndtere
+forventninger og krav ....................
+Ulike utfordringer henger
+sammen ...........................................
+Hva kan være årsaker til de
+negative utviklingstrekkene?.....
+Nedstengning og hjemmeskole
+som følge av koronapandemien ....
+Digitalisering og skjermbruk ........
+Private enheter og skjermbruk
+utenfor skoletiden ..........................
+Digitale enheter og skjermbruk
+i skoletiden ......................................
+Økning i psykiske helseplager
+og ensomhet ...................................
+Flere med behov for individuell
+tilpasning og oppfølging ................
+
+9
+11
+
+4.2
+4.2.1
+
+12
+
+4.2.2
+
+13
+14
+15
+
+4.2.3
+
+17
+
+4.2.6
+
+17
+20
+21
+23
+25
+26
+26
+27
+27
+
+4.2.4
+4.2.5
+
+4.2.7
+4.3
+4.3.1
+4.4
+4.4.1
+4.4.2
+4.4.3
+4.4.4
+5
+5.1
+
+30
+
+5.1.1
+
+30
+31
+
+5.1.2
+
+31
+33
+34
+
+5.1.3
+5.1.4
+5.1.5
+5.1.6
+5.1.7
+
+36
+
+Bedre læring, motivasjon og
+trivsel ..............................................
+
+5.1.8
+5.2
+
+37
+
+5.2.1
+
+Innledning .......................................................
+
+38
+
+5.2.2
+
+Del II
+
+4
+4.1
+
+Mer praktisk og motiverende
+læring .............................................
+Fagfornyelsen skal realiseres .......
+
+39
+39
+
+5.2.3
+5.2.4
+5.2.5
+
+Nasjonalt program for en mer
+praktisk skole .................................
+Skolebygg og utstyr må gi
+bedre rammer for praktisk læring
+i alle fag ...........................................
+Pedagogisk og kompetansebyggende støtte .............................
+Styrke de praktiske og estetiske
+fagene ..............................................
+Støtte til mer fysisk aktivitet .........
+Støtte til mer undervisning utenfor
+klasserommet .................................
+Støtte til å bruke lokalt
+handlingsrom for mer praktisk
+læring ..............................................
+Regjeringen vil ...............................
+Valgfag på mellomtrinnet ..............
+Regjeringen vil ...............................
+Mer arbeidslivsopplæring på
+ungdomstrinnet .............................
+Arbeidslivsfaget .............................
+Vurdere fremmedspråkenes
+omfang og innretning ....................
+Utdanningsvalg ..............................
+Regjeringen vil ...............................
+Styrke elevenes læring i fag
+og utvikling av ferdigheter .......
+Styrke elevenes lese- og
+skriveferdigheter ...........................
+Nedgang i leseferdigheter og
+leseglede .........................................
+En systematisk og motiverende
+lese- og skriveopplæring ...............
+Tid for lesing – en nasjonal satsing
+på lesing ..........................................
+Styrking av Skrivesenteret ............
+Tilskudd til trykte lærebøker .......
+Skolebibliotekene styrkes .............
+Stimulere barn og unges
+leselyst ............................................
+Regjeringen vil ...............................
+Styrke elevenes kompetanse
+i realfag og økonomi ......................
+Svakere resultater og flere på lavt
+nivå i realfag ...................................
+Nye læreplaner med mer praktisk
+og relevant realfagsopplæring ......
+En helhetlig satsing på realfag .....
+Styrke kompetanse i personlig
+økonomi ..........................................
+Regjeringen vil ...............................
+
+41
+41
+42
+45
+47
+48
+49
+50
+50
+51
+51
+51
+52
+53
+54
+55
+55
+55
+55
+56
+57
+57
+57
+59
+59
+59
+59
+60
+61
+62
+62
+
+[Side 6]
+
+5.3
+5.3.1
+5.3.2
+5.3.3
+5.3.4
+5.4
+5.4.1
+5.4.2
+5.4.3
+5.4.4
+5.4.5
+5.4.6
+6
+6.1
+6.1.1
+6.1.2
+6.1.3
+6.2
+6.2.1
+6.2.2
+
+6.2.3
+6.2.4
+6.3
+6.3.1
+6.3.2
+6.3.3
+6.3.4
+6.4
+6.4.1
+6.4.2
+6.4.3
+
+Styrke demokratiopplæring,
+kritisk tenkning og
+elevmedvirkning .............................
+Nedgang i kunnskap om
+demokrati ........................................
+Styrke demokratiopplæringen ......
+Bedre elevmedvirkning .................
+Regjeringen vil ................................
+Like muligheter for alle elever ......
+Gode skoler er gode for
+alle elever ........................................
+Utnytte fleksibilitet i fag- og
+timefordelingen for enkeltelever ..
+Ulike former for tidlig innsats
+ved behov ........................................
+Vurdere alternativer til forsering
+i yrkesfaglig opplæring ..................
+Bruk av alternative opplæringsarenaer ............................................
+Regjeringen vil ................................
+Trivsel, trygghet og tilstedeværelse ...........................................
+Elevenes sosiale og emosjonelle
+kompetanse .....................................
+Sosial og emosjonell kompetanse
+må læres og øves på .......................
+Læreplanene legger til rette for
+å styrke arbeidet med sosial og
+emosjonell kompetanse .................
+Regjeringen vil ................................
+Et trygt og godt skolemiljø ............
+Et bedre og tydeligere regelverk...
+Støtte til å utvikle kompetanse
+om trygt og godt skolemiljø
+for skoler og lokale
+skolemyndigheter ..........................
+Det er behov for en styrket innsats
+for trygge og gode skolemiljø .......
+Regjeringen vil ................................
+Oppfølging og forebygging av
+skolefravær .....................................
+Bekymringsfullt fravær krever
+samarbeid på tvers av tjenester ....
+Styrket kunnskapsgrunnlag og et
+nytt nasjonalt fraværsregister .......
+Tiltak for å støtte oppfølging og
+forebygging av fravær ....................
+Regjeringen vil ................................
+Gode overganger i skoleløpet .......
+Overganger i grunnskolen ............
+Overgangen til videregående
+opplæring ........................................
+Utdannings- og
+yrkesrådgivningen .........................
+
+6.4.4
+6.5
+6.5.1
+
+Regjeringen vil ...............................
+Samarbeid mellom skole og hjem
+Regjeringen vil ...............................
+
+63
+63
+65
+66
+66
+
+7
+
+66
+
+7.3
+
+66
+
+7.4
+7.5
+7.6
+
+En trygg digital skolehverdag
+som fremmer læring ..................
+En bedre balanse mellom det
+digitale og det analoge ..................
+En skole som gir digital
+kompetanse ....................................
+Lærere med god digital
+kompetanse ....................................
+En mobilfri skole ...........................
+Kunstig intelligens i skolen ..........
+Trygge og inkluderende digitale
+læremidler ......................................
+Læremiddelvalg og valgfrihet ......
+Kommersielt press og skadelig
+innhold ............................................
+Digitale løsninger og samarbeid
+med hjemmet .................................
+Styrket kunnskapsgrunnlag om
+digitalisering i skolen ....................
+Regjeringen vil ...............................
+
+63
+
+67
+67
+68
+70
+71
+71
+71
+72
+72
+72
+73
+
+76
+76
+79
+80
+80
+81
+82
+82
+83
+83
+
+7.1
+7.2
+
+7.7
+7.8
+7.9
+7.10
+7.11
+Del III
+
+87
+87
+88
+89
+90
+91
+92
+93
+95
+97
+97
+98
+98
+99
+99
+
+Kvalitetsutvikling,
+kompetanseutvikling og
+samarbeid i skolen .................... 101
+
+Innledning ...................................................... 102
+8
+8.1
+8.2
+8.2.1
+8.2.2
+8.2.3
+8.2.4
+8.3
+8.4
+8.5
+8.5.1
+8.5.2
+
+84
+
+8.5.3
+
+85
+
+8.6
+
+Kvalitetsutvikling i skolen ........
+Utfordringer med dagens
+kvalitetsvurderingssystem ............
+Et nytt kvalitetsutviklingssystem ..
+Nye prøver med tydelig læringsstøttende formål .............................
+Fortsatt deltakelse i de internasjonale undersøkelsene .............
+Ny skolemiljøundersøkelse ..........
+Kvalitetsutvikling i samisk skole...
+Støtte til lokale kvalitetsutviklingsprosesser .......................
+Regjeringen vil ...............................
+Underveis- og sluttvurdering ........
+God underveisvurdering er
+viktig for læring, motivasjon
+og lærelyst ......................................
+Sluttvurderingens betydning
+for opplæringen på ungdomstrinnet og for kvalitetsutviklingen
+i skolen ............................................
+Den digitale utviklingen påvirker
+skolenes vurderingspraksis ..........
+Regjeringen vil ...............................
+
+103
+103
+105
+106
+108
+109
+110
+110
+112
+112
+113
+
+114
+115
+117
+
+[Side 7]
+
+9
+9.1
+9.2
+9.3
+9.4
+9.5
+10
+10.1
+10.2
+10.3
+10.3.1
+10.3.2
+10.4
+
+Profesjonelle læringsfellesskap
+og skoleledelse ............................ 118
+Behov for videreutvikling av de
+nasjonale kompetansetiltakene ..... 119
+Et nytt system for kompetanse- og
+karriereutvikling ............................. 120
+Profesjonelle læringsfellesskap
+må ledes .......................................... 121
+Styrking av skoleledelse ................ 122
+Regjeringen vil ................................ 122
+Laget rundt elevene .................... 123
+Utfordringer ved tverrfaglig
+samarbeid på den enkelte skole ... 124
+Utfordringer ved tverrsektorielt
+samarbeid i kommunen ................. 124
+Styrke laget rundt elevene ............ 125
+Tiltak som er satt i gang ................ 125
+Nye tiltak for å styrke
+laget rundt ....................................... 127
+Regjeringen vil ................................ 128
+
+11
+11.1
+12
+12.1
+12.2
+
+13
+
+Fellesskolens rolle i framtidens
+samfunn ........................................ 129
+Regjeringen vil ............................... 129
+Samlet oversikt over alle
+tiltakene i meldingen ................. 130
+Del 2 Mer læring, motivasjon
+og trivsel ......................................... 130
+Del 3 Kvalitetsutvikling,
+kompetanseutvikling og
+samarbeid i skolen ......................... 132
+Økonomiske og administrative
+konsekvenser ............................... 134
+
+Litteratur ......................................................... 137
+Vedlegg
+1
+Rapport fra Elevpanelet ................. 153
+
+[Side 8]
+
+[Side 9]
+
+Meld. St. 34
+(2023–2024)
+
+Melding til Stortinget
+
+En mer praktisk skole
+Bedre læring, motivasjon og trivsel på 5.–10. trinn
+Tilråding fra Kunnskapsdepartementet 13. september 2024,
+godkjent i statsråd samme dag.
+(Regjeringen Støre)
+
+[Side 10]
+
+[Side 11]
+
+Del I
+Bakgrunn og kunnskapsgrunnlag
+
+[Side 12]
+
+[Side 13]
+
+2023–2024
+
+Meld. St. 34
+En mer praktisk skole
+
+11
+
+1 En fellesskole for vår tid
+Elever skal lære godt og trives i norsk skole. De
+skal oppleve mestring, tilhørighet og trygghet.
+Dette er avgjørende for å nå regjeringens overordnede mål om et tryggere og mer rettferdig Norge.
+Skolen skal gi barn og unge kunnskap og
+ferdigheter til å klare seg videre i livet. Den skal
+bidra til at samfunnet får arbeidskraft, kompetanse
+og aktive innbyggere. At elever lærer å lese, skrive
+og regne tidlig, legger et godt grunnlag for videre
+læring. Skolen skal stille krav til elevene, ha forventninger og gi støtte når det trengs. Elevene skal
+lære å delta og være en del av et fellesskap.
+Den negative utviklingen i læring og trivsel de
+siste ti årene er alvorlig. Elevenes læringsresultater i lesing, realfag og demokratikunnskap går
+ned. Flere presterer på lavt nivå, blant dem er flest
+gutter. Antall elever som rapporterer om mobbing, lav trivsel og fallende motivasjon går opp.
+Det er for mange som ikke lærer det de trenger
+for å klare seg videre i livet og som ikke finner seg
+til rette i skolen. For disse hjelper det ikke at
+mange lærer og trives. Alle barn og unge fortjener
+en skole som gir dem muligheter videre i livet.
+Framover trenger Norge å få flere inn i arbeidslivet. Skolen er viktig for å nå dette målet.
+Regjeringen mener mer praktisk, aktiv og variert læring i skolen er det viktigste grepet for å snu
+den negative utviklingen i læringsresultater og
+trivsel. Motiverte elever lærer mer. I arbeidet med
+meldingen har mange elever gitt klar beskjed om
+at de ønsker en skole der de er mer i aktivitet og
+der det de lærer oppleves mer forståelig og relevant for deres hverdag. Tilbakemeldingen fra
+lærere er at de ønsker mer tid og ressurser til
+utvikling av praktisk og utforskende undervisning. Mer praktisk og utforskende læring kan
+gjøre skolen mer meningsfull og motiverende for
+elevene. Det kan også stimulere til mer nysgjerrighet og til at flere blir inkludert i læringen.
+Regjeringen vil derfor ha mer praktisk læring i
+alle fag i skolen.
+Det har ikke manglet på ambisjoner om bedre
+læring og mer praktisk læring de siste 20 årene.
+Utviklingen i elevenes læring og trivsel viser at vi
+er langt unna målet, og at tiltakene som har vært
+satt inn ikke har vært tilstrekkelige eller de rik-
+
+tige. Noen endringer, som digitaliseringen av skolen, har også blitt gjennomført uten at det ligger et
+tilstrekkelig kunnskapsgrunnlag til grunn.
+Gjennom praktisk læring får elevene utvikle
+praktiske ferdigheter og kompetanse. Praktisk
+læring kan samtidig gjøre det lettere å forstå sammenhengen mellom teori og den virkelige verden,
+og gi flere mestringsopplevelser i skolehverdagen. At elevene får utvikle praktisk kompetanse
+i skolen er blitt viktigere når vi i hverdagen fikser,
+skrur og lager færre ting selv. En mer praktisk og
+relevant opplæring vil bidra til at elevene som skal
+velge vei videre, vet mer om praktisk arbeid og
+hva de kan trives med. Elevene vil dermed også
+være bedre forberedt til å ta gode utdannings- og
+yrkesvalg, til å gjennomføre videregående opplæring og til å delta i et samfunns- og arbeidsliv i
+endring.
+Regjeringen vil ha en mobilisering rundt
+læring og konsentrasjon i skolen. Elevene skal
+møte tydelige krav og klare forventninger. Grunnleggende ferdigheter som lesing, skriving og regning er avgjørende for videre læring i skolen, og
+for resten av livet. Derfor må alle elever lære å
+lese, skrive og regne godt i skolen.
+Norsk skole skal ikke sende barn og unge
+først inn i den digitale utviklingen – vi skal ta oss
+tid til å velge verktøyene som gir best læring. Det
+handler om å balansere bok og skjerm, blyant og
+tastatur, og bruke digitale verktøy som gir bedre
+læring. Vi skal legge kunnskap og føre-var-prinsippet til grunn for utviklingen. Slik skal vi gi elevene
+både god digital kompetanse og balanse i verktøybruken.
+Den tydelige anbefalingen om å få private
+mobiltelefoner ut av klasserommet og skolegården er et viktig første steg i riktig retning. Skal vi
+snu den negative utviklingen må vi ta grepene
+som trengs for å fjerne forstyrrelser som hemmer
+læring, konsentrasjon og bidrar til dårligere skolemiljø. I følge spørsmål til Skole-Norge følger det
+store flertallet av skoler anbefalingen. Det vil
+bidra til at elevene i større grad klarer å fordype
+seg i fagstoff over tid, får trent utholdenheten i
+skolearbeid og til å styrke sosiale relasjoner og
+ferdigheter.
+
+[Side 14]
+
+12
+
+Meld. St. 34
+En mer praktisk skole
+
+Regjeringen er opptatt av å legge godt til rette
+for at lærere og skoleledere skal ha tillit og handlingsrom til å gjøre jobben sin. Det er lærerne
+som vet hva som motiverer, fungerer og engasjerer sin klasse – hva som gir god læring. Læreren
+må ha autoritet i klasserommet. Trygg og tydelig
+klasseledelse legger bedre til rette for praktisk
+læring og et trygt læringsmiljø. Lærerne verken
+kan eller skal gjøre jobben alene – det trengs et
+lag rundt elevene. Flere oppgaver i skolen må
+løses av andre fagfolk, for eksempel miljøterapeuter og helsesykepleiere, med kompetanse til å
+hjelpe, støtte og følge opp.
+Skolens mål og verdier skal stå støtt, nettopp
+derfor må skolen justere kursen når samfunnet
+rundt endrer seg. Ikke ved å tilpasse seg siste
+nytt, men også ved å være en motvekt. Å lære
+barn og unge det de trenger for å klare seg videre
+i livet stiller nye krav: Når teknologien påvirker
+evnen til konsentrasjon, må skolen ta grep for at
+elever skal lære godt og utvikle utholdenhet. Når
+for mange elever opplever at skolen ikke er relevant, at de ikke hører til eller passer inn, må skolen gi alle elever mulighet til mestring, motivasjon
+og bedre læring. Når elever opplever stress og
+ubehag i møte med skolens krav og forventninger,
+må ikke skolen fire på kravene, men lære barn og
+unge å håndtere situasjoner de vil møte resten av
+livet.
+Kapittel 1 i meldingen beskriver hvordan samfunnsendringer og endringer i ungdomslivet
+påvirker skolens rammer og forutsetninger for å
+lykkes med oppdraget om å danne og utdanne
+barn og unge.
+
+1.1
+
+En verden i rask endring krever
+omstilling
+
+De siste tiårene har det skjedd store endringer,
+med blant annet rask teknologiutvikling, økt
+migrasjon og et mer kunnskapsintensivt arbeidsliv. Utviklingen og bruken av kunstig intelligens
+er bare i startgropen, og vil stille nye krav til hva
+skolen lærer barn og unge om kritisk tenkning,
+og hvilket arbeidsliv de forberedes til. Ny teknologi og sosiale medier gir flere muligheter til å
+uttrykke meninger og gruppeidentiteter på nye
+måter, men algoritmebaserte plattformer bidrar
+også til å begrense hvilken informasjon vi presenteres for. Nye former for tilhørighet og samarbeid
+på tvers av landegrenser vokser fram. Samtidig
+ser vi at flere av de tradisjonelle båndene i samfunnet, som religion, kultur og nasjonalitet, har fått
+mindre betydning flere steder.
+
+2023–2024
+
+Boks 1.1 Ungdomstid i endring
+Det er ikke lett å være ung i denne generasjonen
+Du er teit om du gir blanke, men nerd om du
+bryr deg om skolen
+Du skal være helt A4, men du skal også være
+unik
+Sikker på at du skal kle deg sånn? Vil du virkelig gå slik?
+Du blir ekskludert om du ikke vil drikke
+Men drikker du for mye, liker folk deg ikke
+Er du deppa, er du oppmerksomhetssyk og litt
+teit. Men hey! Snakk åpent om det hvis du
+har det leit!
+Elias Esteban Omberg
+
+Koronapandemien er et eksempel på at hendelser vi ikke hadde planlagt for, kan endre samfunnet raskt. Det er også krig i Europa og i Midtøsten, og det er en negativ utvikling for demokratiet flere steder i verden. Ekstremismekommisjonen peker på at desinformasjon, konspirasjonsteorier og ekstreme utsagn i større grad har blitt en
+del av det offentlige ordskiftet de siste ti-femten
+årene. Dette er bare noen eksempler på endringer
+som alle påvirker unges opplevelse av trygghet og
+tro på framtiden.
+Utdraget av diktet Ungdomstid i endring gjengitt i boks 1.1 er hentet fra en skrivekonkurranse
+for ungdom i Aftenposten i 2022. Det sier noe om
+hvordan det kan oppleves å være ung i dag.
+Dagens ungdom har flere muligheter enn noen
+generasjon før dem. Samtidig innebærer flere
+muligheter og en åpnere verden at de navigerer i
+en mer kompleks og krevende virkelighet der de
+kan oppleve at forventningene er både høye og
+utydelige, også forventningene de har til seg selv.
+De fleste unge som vokser opp i Norge i dag opplever trygghet og har gode muligheter for å få seg
+utdanning og jobb. Samtidig påvirker større usikkerhet rundt økonomi, klimaendringer, konflikter
+og økt polarisering unges opplevelse av framtiden
+og egne muligheter.
+Ungdom flest er fortsatt optimistiske for framtiden.1 Men, siden midten av 2010-tallet har norske tenåringer blitt noe mindre optimistiske for
+framtiden. Ungdommene som har svart på Opini1
+
+Bakken, 2022.
+
+[Side 15]
+
+2023–2024
+
+Meld. St. 34
+En mer praktisk skole
+
+ons Ung23-undersøkelse, forteller at de bekymrer
+seg for økte priser, krig og uro i verden og klima
+og miljø. Flere forteller om økt følelse av apati og
+avmakt og synkende klimaengasjement.2
+En god skole er viktig for at Norge har nok
+arbeidskraft til å ivareta grunnleggende samfunnsoppgaver framover. Arbeidskraften er den
+enkeltes og samfunnets viktigste ressurs til å
+skape verdier. Skolen skal legge til rette for at de
+unge kan ta del i arbeidslivet, og bidra til velferd
+og verdiskaping i nye eller eksisterende virksomheter. Elevene skal få innsikt i hvilke yrker og
+kompetanser som er viktig for fellesskapet, og
+som vi vet det er stort behov for i framtiden.
+Det vil bli relativt færre mennesker i arbeidsfør alder og det kan bli knapphet på kompetanse,
+som Meld. St. 14 (2022–2023) Utsyn over kompetansebehovet i Norge viser. Det er allerede mangel
+på folk innen bygg- og anlegg, industri, IKT og
+helse-, pleie- og omsorgsyrker. Vi vil for eksempel
+ha behov for tusenvis av nye fagarbeidere for å
+ivareta grunnleggende oppgaver i samfunnet.
+Også barnehager og skoler mange steder i landet
+opplever rekrutteringsutfordringer, og søkingen
+til lærerutdanningene har gått ned.3 Knapphet på
+arbeidskraft og høyere utgifter til forsvar,
+eldreomsorg, helse, klimatiltak og utgifter for å
+bøte på konsekvensene av klimaendringer innebærer at utfordringene ikke kan løses med mer
+folk og mer ressurser. Det gjelder også i skolen.
+Vi må bruke de ressursene vi har enda bedre.
+
+1.2
+
+Fellesskolen er viktigere enn
+noen gang
+
+Samfunnet vårt har blitt mer mangfoldig, vi har
+fått flere valgmuligheter og flere rettigheter for
+hver enkelt. Et mer individualisert og rettighetsbasert samfunn gjenspeiles også i skolen, både i
+form av sterkere rettigheter for den enkelte elev
+og i forventningene foreldre har til skolen. Den
+enkelte elevs rettigheter er viktige, men en ensidig vekt på enkeltindividet kan gå på bekostning
+av fellesskapet og det kollektive. Svekkes dette i
+skolen rammer det også det fellesskapslimet skolen skal være. At vi er et land med små forskjeller,
+høy tillit, sterke fellesskap og et levende folkestyre – er noe av det som gjør Norge til Norge.
+Skolen skal bygge på sentrale verdier for demokratiet vårt, slik det er uttrykt i skolens formålsparagraf, og hjelpe oss å leve, lære og arbeide
+2
+3
+
+Videopresentasjon på https://www.opinion.no/ung
+Kunnskapsdepartementet, 2024a.
+
+13
+
+sammen i en kompleks samtid og i møte med en
+ukjent framtid.4
+Regjeringens mål er at skolen skal bidra til å
+utjevne sosiale forskjeller, samtidig som innsatsen
+for mindre forskjeller i oppvekstvilkår også vil
+legge bedre til rette for læring og trivsel i skolen.
+Det er en klar sammenheng mellom barnas oppvekstvilkår og hvordan de presterer på skolen. Å
+vokse opp med trange boforhold og foreldre med
+dårlig råd kan gå utover trivsel og forutsetninger
+for konsentrasjon om skolearbeidet.5 Andelen
+barn som vokser opp i familier med vedvarende
+lavinntekt har økt de siste tiårene.6 De siste årene
+har prisstigning og renteøkninger gjort hverdagsøkonomien mer utfordrende for mange familier.
+Skolen kan ikke utjevne sosiale forskjeller
+alene, eller isolere læring og trivsel fra resten av
+barn og unges oppvekstvilkår, men skolen må ta
+sin del av ansvaret for å bidra til å redusere forskjellene. Elever med høyere sosioøkonomisk
+bakgrunn rapporterer om færre psykiske plager,
+har bedre skoleprestasjoner, skårer høyere på alle
+målte sosiale og emosjonelle ferdigheter, føler
+sterkere tilknytning til skolen og har bedre relasjoner til lærerne sine. Målet om at skolen skal
+bidra til å redusere forskjeller og gi like muligheter har vært en politisk ambisjon lenge, men realiteten er at de sosiale forskjellene i læringsresultatene heller forsterkes gjennom skoleløpet. Regjeringen vil styrke innsatsen på tvers av velferdssektorene for at barn og unges bakgrunn ikke
+skal avgjøre hvilke muligheter de får videre i livet.
+I februar 2024 mottok regjeringen rapporten til
+ekspertgruppen om betydningen av barnehage,
+skole og SFO for sosial utjevning og sosial mobilitet. Utvalget peker på at årsakene til at levekårsutfordringer går i arv er sammensatte, og kommer med en rekke forslag til tiltak.7 Disse vil
+regjeringen følge opp i stortingsmeldingen om
+sosial utjevning og sosial mobilitet som skal legges fram våren 2025.8
+Befolkningen i Norge har blitt mer mangfoldig. Skolen er en viktig integreringsarena. God
+integrering er viktig for elevers læring og trivsel.
+Større forskjeller i elevers bakgrunn og referanserammer stille større krav til fellesskolen i opp4
+5
+6
+7
+8
+
+Kunnskapsdepartementet, 2017.
+Ekspertgruppen om barn i fattige familier, 2023.
+Normann, 2024.
+Ekspertgruppen om betydningen av barnehage, skole og
+SFO for sosial utjevning og sosial mobilitet, 2024.
+Meldingen er et samarbeid mellom Arbeids- og inkluderingsdepartementet, Barne- og familiedepartementet,
+Helse- og omsorgsdepartementet, Kultur- og likestillingsdepartementet og Kunnskapsdepartementet
+
+[Side 16]
+
+14
+
+2023–2024
+
+Meld. St. 34
+En mer praktisk skole
+
+gaven med å forberede alle elever til å ta del i
+arbeids- og samfunnsliv. Det innebærer blant
+annet at de må lære å møte forventninger og krav,
+respektere forskjeller og felles verdigrunnlag,
+håndtere uenighet og motsetninger. Skolen kan
+også ha stor betydning for foreldre, som en viktig
+kontaktflate og trygg inngang til fellesskapet.
+Variasjonen blant folk i Norge med innvandringsbakgrunn er stor, det gjelder også i skolen.
+Mange elever med innvandrerbakgrunn lykkes
+godt i utdanningssystemet i Norge. De er motiverte for å gå på skolen, bruker mer tid på skolearbeid og har mer konkrete planer for høyere
+utdanning enn elever uten innvandrerbakgrunn.
+Men det er også større avstand i skoleresultater
+mellom elever som lykkes og ikke lykkes blant
+unge med innvandrerbakgrunn enn i den øvrige
+delen av befolkningen.
+Regjeringens gjennomgående satsing på
+lesing og en restriktiv og kunnskapsbasert holdning til bruk av skjerm og digitale læremidler og
+ressurser, skal bidra til bedre læring i alle fag,
+men også til bedre språkkunnskaper. I verdigrunnlaget i overordnet del av læreplanen slås det
+fast at opplæringen skal sikre at elevene blir
+trygge språkbrukere, at de utvikler sin språklige
+identitet, og at de kan bruke språk for å tenke,
+skape mening, kommunisere og knytte bånd til
+andre.9 Språk er en nøkkel til deltakelse i samfunnets store og små fellesskap både i barndommen
+og resten av livet, og god språkopplæring er viktig
+for å nå målene om fellesskap, sosial utjevning og
+demokrati. I lys av dette er opplæring i fellesspråket norsk avgjørende.10 Samtidig er norske språkkunnskaper og kulturforståelse stadig viktigere i
+en tid der befolkningen er mer sammensatt enn
+noen gang, og der verden knyttes tettere sammen.
+Økningen i voldshendelser og kriminalitet
+begått av barn under kriminell lavalder har fått
+stor oppmerksomhet. Det generelle bildet er at
+den registrerte ungdomskriminaliteten i Norge
+har sunket de siste 20 årene, men etter pandemien har utviklingen vært negativ og særlig blant
+barn under kriminell lavalder. Barn og unge som
+begår kriminalitet har oftere dårligere oppvekstvilkår enn andre, ifølge en rapport fra Oslo Economics fra 2022.11 Halvparten har lave eller ingen
+grunnskolepoeng. De har oftere innvandrerbakgrunn og det store flertallet er gutter. I 2023 ble
+
+4600 barn siktet for lovbrudd begått da de var
+under 15 år.12 Det utgjør under én prosent av alle
+elever i grunnskolen. Utviklingen utgjør i så måte
+ikke et sentralt utviklingstrekk i skolen. Kriminelle handlinger begått av barn kan imidlertid
+også føre til utrygghet i skolemiljøet. Det kan
+gjelde for langt flere enn de som rammes direkte.
+Regjeringen satte i august 2024 ned en hurtigarbeidende ekspertgruppe som skal utrede tiltak
+som kan settes i verk ovenfor gruppen unge som
+begår gjentatt og alvorlig kriminalitet, og varslet
+at det også vil bli satt ned en ekspertgruppe som
+skal se helhetlig på det forebyggende arbeidet
+mot barne- og ungdomskriminalitet.13
+Skolen skal sørge for at alle elever gis gode
+muligheter for læring og utvikling, med de utfordringene de kommer til skolen med. Det er et krevende oppdrag, og kan ikke alltid løses av skolen
+alene. Det viktigste for elevenes læring, motivasjon og trivsel er at de møter kvalifiserte lærere,
+som de har gode relasjoner til. Relasjonen til læreren og å oppleve at man hører til er viktig for god
+læring. Det er også gode relasjoner til medelever
+på skolen, et trygt og stimulerende skolemiljø og
+inkluderende fellesskap. Skolelederne må bidra til
+at lærere og andre ansatte i skolen kan jobbe systematisk i profesjonelle læringsfellesskap, og etablere gode relasjoner til foreldre og samfunnet
+rundt skolen. Kommunene har det overordnede
+ansvaret for at elevene får den opplæringen de har
+krav på. De må sikre god dialog og medvirkning
+fra alle aktører om hvordan man sammen skal nå
+målene for opplæringen og slik bidra til gode oppvekst vilkår. Lokal skolemyndighet må også legge
+til rette for at skolene kan lære av hverandre, både
+i egen kommune og i samarbeid med andre kommuner.
+
+1.3
+
+Jeg er lei av å sitte inne på klasserommet hele
+skoledagen, 6 hele timer på rumpa. Jeg ønsker
+alternative og forskjellige skoledager. Jeg vil at
+vi plutselig skal sitte på musikkrommet når vi
+har norsk. Jeg vil at vi skal ha mer praktisk
+naturfag. Mer forsøk og eksplosjoner hvor vi
+lærer om stoffer som både er farlig og grei. Jeg
+ønsker det som i USA blir kalt for «science
+fair». Jeg ønsker pålagte opplegg i løpet av skoleåret som gir mulighet til frihet og kreativitet.
+
+9
+
+Kunnskapsdepartementet, 2017.
+Ifølge språkloven skal norsk språk styrkes, men ikke på en
+slik måte at norsk språk fortrenger de andre språkene
+loven favner om.
+11
+Oslo Economics, 2022.
+
+En mer praktisk skole
+
+10
+
+12
+13
+
+Dyrstad & Stene, 2024.
+Se https://www.regjeringen.no/no/aktuelt/skal-utrede-tiltak-for-barn-og-unge-som-begar-kriminalitet/id3049873/
+
+[Side 17]
+
+2023–2024
+
+Meld. St. 34
+En mer praktisk skole
+
+Jeg ønsker å ha noen uker/dager slik det var på
+barneskolen. Engelsk-uke eller engelsk-dag.
+Jeg vil ha flere lærere i mattetimene, og kanskje et opplegg som gjør at matten blir en konkurranse, slik Multi Smart Øving var på barneskolen. Jeg vil lage mat i spansktimen, mens vi
+hører på spansk radio og prater spansk.
+Elev på 10. trinn i Elevpanelet
+
+En mer praktisk, variert og relevant skole er et
+hovedgrep for å snu den negative utviklingen i
+læring, motivasjon og trivsel. I arbeidet med meldingen har det kommet mange innspill om at elevene er for lite i aktivitet og at opplæringen bør
+kobles tettere på elevenes hverdag. Elever lærer
+på ulike måter. Derfor er det viktig med varierte
+skoledager der alle elever får mulighet til å oppleve mestring.
+En mer aktiv og variert skoledag gir også elevene større mulighet til å bli kjent med ulike sider
+av seg selv, og utvikle et bredt sett av ferdigheter.
+Egenskaper som empati og toleranse, og evne til å
+samarbeide og kommunisere, er grunnleggende
+for vårt tillitsbaserte og demokratiske samfunn.
+Det store omfanget av lett tilgjengelig informasjon
+fra digitale flater krever evne til kritisk tenkning
+og etisk bevissthet, mens kreative og skapende
+evner bidrar til å berike samfunnet. Å utvikle gode
+lese-, skrive- og regneferdigheter er en forutsetning for å delta i utdanning og arbeidsliv.
+Denne meldingen legger til grunn at arbeid
+med de nye læreplanene vil være en nøkkelfaktor
+for å svare på mange av utfordringene vi som samfunn vil stå overfor i framtiden. Det nye læreplanverket slår fast at skolen har både et danningsoppdrag og et utdanningsoppdrag. Prinsippene for
+arbeid med læring, utvikling og danning i overordnet del skal hjelpe skolene til å løse dette doble
+oppdraget.
+Etter en omfattende prosess der både lærere
+og andre fagfolk var involvert, ble de nye læreplanene tatt i bruk høsten 2020. Læreplanverket vektlegger at elevene skal være godt forberedt til et
+samfunnsliv og arbeidsliv i rask endring, og at
+elevene skal utvikle varig kunnskap og forståelse.
+De nye læreplanene angir med andre ord viktige
+og betydningsfulle retningsvalg for norsk skole i
+årene framover. De nye læreplanene er kompetansebaserte. Det innebærer at de angir hvordan
+elevene skal kunne anvende kunnskaper og
+ferdigheter, i både kjente og ukjente sammenhenger. Dette var et viktig premiss i utviklingen av
+læreplanene, både for å redusere innholdet i
+fagene slik at de skulle legge bedre til rette for
+dybdelæring, men ikke minst for at det skal være
+
+15
+
+mulig å gjøre opplæringen mer relevant gjennom
+å tilpasse innholdet til elevgruppen, til lokale forhold og til aktuelle hendelser.
+Regjeringen er opptatt av å legge godt til rette
+for at lærerne skal ha tillit og handlingsrom til å
+gjøre jobben sin. Det er lærerne som har det
+grunnleggende ansvaret for det pedagogiske og
+faglige arbeidet i skolen. Samtidig er det flere oppgaver i skolen som krever en annen kompetanse.
+Lærerne og andre ansatte må jobbe sammen i profesjonelle læringsfellesskap på skolen og i kommunen, og lærerne må få støtte i sitt daglige arbeid fra
+andre profesjoner og tjenester som kan bidra med
+sin spisskompetanse. Vi trenger derfor et sterkt
+lag rundt elevene og lærerne. Fagfolk med ulik
+kompetanse kan være en støtte i skolehverdagen.
+Skal vi nå målet om at alle elever trives og lærer,
+og opplever mestring, trygghet og tilhørighet, er vi
+avhengige av at alle aktørene på ulike nivåer i skolesektoren trekker i samme retning.
+Tiltakene som fremmes i denne meldingen er
+et viktig steg i riktig retning for å snu de negative
+utviklingstrekkene vi har sett den siste tiden.
+Regjeringen vurderer imidlertid at det er behov
+for en større og grundig gjennomgang av om skolen som samfunnsinstitusjon er tilstrekkelig forberedt på utviklingstrekk vi ser i dag og i framtiden.
+Regjeringen vil derfor sette ned et utvalg som skal
+vurdere hvordan vi kan ivareta fellesskolens rolle
+i framtidens samfunn. Et hovedspørsmål i dette
+arbeidet vil være om skolen forbereder hver
+enkelt elev til deltakelse i utdanning, arbeid og
+samfunnsliv, men også ivaretar fellesskolens rolle
+i å bygge fellesskapet vårt og oppslutningen om
+den.
+
+1.4
+
+Om meldingen
+
+Samfunnet har høye forventninger til hva skolen
+kan og skal bidra med. Skolen må endre seg i takt
+med samfunnstrender, men skal også være en
+motkraft når utviklingen går i feil retning. Kommunene og skolene er forskjellige. De har ulike
+behov og forutsetninger. Denne meldingen bygger på en klar tilbakemelding fra elever, lærere,
+skoleledere og andre om at skolen må bli mer
+praktisk og relevant, og at ord må følges opp med
+handling. De nye læreplanene er en god ramme,
+men det trengs utstyr, tilrettelagte bygg, støtteressurser og veiledning for å legge til rette for at det
+blir mer praktisk læring i alle fag – på alle skoler.
+Denne meldingen viser en tydelig retning og
+setter et felles mål for norsk skole, men det er
+lokale skolemyndigheter og de som jobber i sko-
+
+[Side 18]
+
+16
+
+Meld. St. 34
+En mer praktisk skole
+
+len som hver dag må bruke sitt handlingsrom og
+faglige skjønn til det beste for elevene. Alle elever
+skal få en mer praktisk og variert skolehverdag,
+men det vil ikke se likt ut på alle skoler. Det er alltid et spenn mellom nasjonale ambisjoner i skolepolitikken og lokalt ansvar for gjennomføring.
+Men hvis vi alle trekker i samme retning, har vi
+gode forutsetninger for å lykkes med god praktisk
+undervisning. Skoler er forskjellige, ingen klasser
+er like og elevenes nysgjerrighet og lærelyst vekkes på ulike måter. Det er lærerne som kjenner
+sin klasse og som har det beste utgangspunktet
+for å vurdere hvilken undervisning som vil styrke
+motivasjon, mestring og læring for sine elever.
+Lærere, skoleledere, andre ansatte og lokale
+skolemyndigheter ønsker mer praktisk læring,
+bedre trivsel og mer motivasjon. De trenger ikke
+flere krav om rapportering for å følge opp ambisjonen om bedre læring, de trenger rammer som gir
+dem rom til å gjennomføre.
+Dette er den første stortingsmeldingen som
+tar for seg både mellomtrinnet og ungdomsskolen. Årene fra 5.–10. trinn er viktige år i livet, der
+elevene går gjennom en stor utvikling fra å være
+barn til å bli ungdom. Mellomtrinnet er for mange
+elever både en forberedelse og en overgang til
+ungdomstrinnet, og regjeringen mener derfor det
+er viktig å se mellomtrinnet og ungdomstrinnet i
+sammenheng. Samtidig er det også i disse årene
+vi ser den mest negative utviklingen i elevenes
+læring, og dermed er det også her mulighetene
+for forbedring er størst.
+Denne meldingen presenterer kunnskap om
+status skolen, basert både på et forsknings- og
+erfaringsbasert kunnskapsgrunnlag. Det erfaringsbaserte kunnskapsgrunnlaget bygger blant
+annet på dialog og innspill fra elever, lærere, skoleledere, kommuner og organisasjoner. Kunnskapsdepartementet har besøkt og hatt dialog
+med mange ulike kommuner, hatt møter med partene og en rekke organisasjoner, deltatt på nettverksmøter og mottatt mange skriftlige innspill.
+Vi har særlig fått innspill fra åtte utvalgte dialogkommuner; Alta, Kristiansand, Larvik, Sunnfjord, Sandnes, Skiptvedt, Tromsø og Øyer. Dette
+er kommuner som har god erfaring med et bredt
+samarbeid og dialog om kvalitetsutvikling i skolen, og noen har hatt skoler med utfordringer og
+hvor det er satt inn tiltak som har hatt god effekt.
+
+2023–2024
+
+Ved besøkene har vi møtt representanter for
+elever, lærere, tillitsvalgte, skoleledere, representanter for kommuneadministrasjonen, foreldre, og
+andre relevante roller i kommunens arbeid med
+barn og unge.
+I arbeidet har også departementet satt ned et
+eget elevpanel som har kommet med sine råd til
+utvikling av skolen. Elevpanelets rapport er vedlagt meldingen. Til inspirasjon løfter meldingen
+fram en rekke sitater og gode eksempler fra
+møtene og innspillsrundene.
+Det forskningsbaserte kunnskapsgrunnlaget
+består av undersøkelser, statistikk og forskning
+som både bidrar til situasjonsbeskrivelsen og status for forholdene i skolen. Meldingen presenterer i tillegg kunnskap om hva som skal til for at
+skolene og kommunene videreutvikler kvaliteten i
+fellesskap, og foreslår tiltak som kan bidra til å
+støtte skolene i det viktige arbeidet de har foran
+seg.
+I arbeidet med ny opplæringslov som trådte i
+kraft denne høsten pekte flere på at skoleeierbegrepet er et styringsbegrep som ikke ivaretar
+elevene som hovedpersoner i opplæringen, og
+heller ikke lærere og ledere som hovedaktører i
+arbeidet med opplæringen. I ny opplæringslov er
+derfor skoleeier-begrepet fjernet, og loven omtaler kommunen og fylkeskommunen som ansvarlig
+rettssubjekt. I andre sammenhenger hører vi at
+sentrale aktører bruker for eksempel lokal skolemyndighet som begrep. I meldingen bruker vi
+derfor lokal skolemyndighet og kommunen når vi
+adresserer det som tidligere ble kalt skoleeier. I
+omtalen tar vi også utgangspunkt i at flertallet av
+skoler i Norge er en del av kommunal tjenesteyting. Men prinsippene vil gjelde også private skoler og deres ulike eierorganisasjoner.
+Regjeringen vil i denne meldingen følge opp
+Kvalitetsutviklingsutvalgets anbefalinger i NOU
+2023: 27 Et nytt system for kvalitetsutvikling – for
+elevenes læring og trivsel. Et viktig tiltak er å
+utvikle et nytt kvalitetsutviklingssystem for skolen. I tillegg omtales regjeringens innsats for å
+bygge et sterkere lag rundt elevene og det pågående arbeidet med å utvikle et nytt system for
+kompetanse- og karriereutviklingen i skolen. Samlet er dette alle viktige initiativ som skal bidra til å
+snu den negative utviklingen i skolen.
+
+[Side 19]
+
+2023–2024
+
+Meld. St. 34
+En mer praktisk skole
+
+17
+
+2 Status for elevenes læring, motivasjon og trivsel
+Selv om mye går bra i norsk skole, peker mange
+piler i feil retning når det gjelder læringsresultater, skolemiljø, trivsel og motivasjon. Flere presterer på lavt nivå, forskjellene mellom elever øker
+og færre trives på skolen. Dette utfordrer skolens
+grunnleggende oppdrag i å forberede alle elever
+til videre utdanning, arbeid og deltakelse. Sterke
+fagkunnskaper danner grunnlaget for innovasjon,
+kreativitet og nye løsninger på utfordringer i
+arbeidslivet og for samfunnet. Det er bekymringsfulle utviklingstrekk på mange områder i skolen
+samtidig. Kapittel 2 gir en kort omtale av noen
+sentrale utviklingstrekk.
+Når vi skal løse utfordringene, må vi samtidig
+bygge videre på det som er bra i norsk skole, som
+blant annet:
+I Elevundersøkelsen fra 2023 svarer 83 prosent av elevene på 7. trinn og 81 prosent av elevene på 10. trinn at de trives godt eller svært godt
+på skolen. De fleste svarer også at de får god
+støtte fra lærerne og hjemmet, og at de får faglige
+utfordringer og opplever mestring.1
+Den internasjonale HEVAS-undersøkelsen2
+(fra 2017/2018) fant at norske elever trivdes bedre
+på skolen enn elevene i andre nordiske land.3
+Resultatene fra PISA 2022 viser at norske elever
+rapporterer om større grad av tilhørighet4 enn
+elever i de andre nordiske landene og gjennomsnittet for OECD-landene.5
+PISA-undersøkelsene viser at det har blitt mindre bråk og mer arbeidsro6 i norske klasserom de
+1
+2
+3
+4
+
+5
+6
+
+Utdanningsdirektoratet, 2024a.
+HEVAS er en WHO-undersøkelse i flere land som gjennomføres blant elever som er 11 ½ år, 13 ½ år og 15 ½ år.
+Haug, 2020.
+Tilhørighet er undersøkt gjennom seks spørsmål: «Jeg
+føler meg annerledes og at jeg ikke passer inn på skolen»,
+«Jeg føler meg ensom på skolen», «Jeg føler at jeg blir holdt
+utenfor på skolen», «Det virker som andre elever liker
+meg», «Jeg får lett venner på skolen» og «Jeg føler at jeg
+hører til på skolen».
+Jensen mfl., 2023.
+Arbeidsro undersøkes gjennom fem spørsmål: «Det er bråk
+og uro», «Elevene begynner ikke å arbeide før lenge etter
+timen har begynt», «Læreren må vente lenge før elevene
+roer seg», «Elevene hører ikke etter hva læreren sier» og
+«Elevene får ikke arbeidet ordentlig».
+
+siste 15–20 årene.7 Dette kommer også fram i
+observasjonsstudier, som finner at norske lærere
+har blitt stadig bedre på klasseledelse.8 I PISA
+2022 rapporterer svenske og finske elever om litt
+dårligere arbeidsro enn norske elever.9
+Stadig flere elever fullfører videregående opplæring. 81 prosent av de som startet videregående
+opplæring i 2016 hadde fullført etter 5–6 år, mot 72
+prosent av de som startet i 2006.10
+
+2.1
+
+Negativ utvikling i
+læringsresultater de siste årene
+
+Norske elever har deltatt i internasjonale undersøkelser siden midten av 1990-tallet. Undersøkelser som TIMSS, PISA og PIRLS gjør det mulig å
+se utviklingen i elevenes læringsresultater over
+tid, og sammenlikne mellom land. Kapittel 8 gir en
+oversikt over de ulike internasjonale undersøkelsene Norge deltar i.
+Utviklingen i resultater fra de internasjonale
+undersøkelsene i perioden 1995–2015 var preget
+av en nedgang etterfulgt av en framgang.11 Den
+positive utviklingen var i stor grad knyttet til
+bedring i resultater for de svakest presterende
+elevene. Framgangen var også mest markant for
+matematikk og naturfag på 4. trinn. PIRLS 2016
+viste at norske 10-åringer lå langt over det internasjonale snittet i lesing, og at norske elever hadde
+hatt en tydelig framgang fra PIRLS 2006.
+Fra 2015 ser vi tegn til nedgang på flere undersøkelser. I PISA 2018 presterte de norske 15-åringene svakere i naturfag og lesing sammenliknet
+med PISA 2015. Dette året var det også en tydelig
+endring i elevenes lesevaner sammenliknet med
+PISA 2009. Flere elever fortalte at de brukte mindre tid på å lese i fritiden. Samtidig økte tiden de
+brukte på å lese på skjerm.12
+7
+8
+9
+10
+11
+12
+
+Bergem, 2018.
+Bergem, 2018; Klette mfl., 2017; Ødegaard mfl., 2020.
+Jensen mfl., 2023.
+Statistisk sentralbyrå, u.å.
+Björnsson & Olsen, 2018.
+Jensen mfl., 2019.
+
+[Side 20]
+
+18
+
+2023–2024
+
+Meld. St. 34
+En mer praktisk skole
+
+570
+
+550
+
+530
+
+510
+
+490
+
+470
+
+450
+
+430
+
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+TIMSS 4. trinn nat
+TIMSS 9. trinn nat
+TIMSS 4. trinn mat
+
+PIRLS 4. trinn
+TIMSS 8. trinn nat
+PIRLS 5. trinn
+
+TIMSS 8. trinn mat
+ICCS 9. trinn
+TIMSS 5. trinn nat
+
+TIMSS 5. trinn mat
+PISA 10. trinn LES
+PISA 10. trinn mat
+
+TIMSS 9. trinn mat
+PISA 10. trinn nat
+
+Figur 2.1 Norske elevers skår på de internasjonale undersøkelsene i perioden 1995–2022
+I perioden 1995–2007 deltok norske elever på 4. og 8. trinn i TIMSS-undersøkelsene. Fra 2015 ble dette endret til 5. og 9. trinn, siden norske elever er yngre enn i mange andre land vi sammenlikner oss med. På liknende vis ble PIRLS-undersøkelsen i 2001 gjennomført med norske elever på 4. trinn, før både 4. og 5. trinn deltok i perioden 2006 – 2016. Fra 2021 deltar kun elevene på 5. trinn.
+Selv om PISA har målt både fagområdene matematikk og naturfag siden 2000, var det først i henholdsvis 2003 og 2006 at fagområdene var fullt utviklet og implementert for første gang. Den første ICCS-undersøkelsen ble gjennomført på både 8. og 9. trinn, men
+vi viser resultatene fra 9. trinn her siden Norge har deltatt med dette trinnet i de to neste undersøkelsene. Vi gjør oppmerksom på
+at resultatene fra undersøkelsene ikke nødvendigvis kan settes på samme skala for å direkte sammenliknes. Likevel kan det være
+relevant å se på utviklingstrekkene samtidig for å se om flere resultater peker i samme retning på samme tid.1
+1
+Figuren er en sammenstilling av samtlige landrapporter for de internasjonale undersøkelsene. Se https://www.udir.no/tall-ogforskning/internasjonale-studier/ for en oversikt.
+
+TIMSS 2019 viste stabilt gode resultater i
+matematikk og naturfag på barnetrinnet, men en
+signifikant nedgang i resultatene på ungdomstrinnet.13 PIRLS 2021 viste for første gang en nedgang
+i 10-åringenes leseferdigheter. Resultatene var
+likevel godt over det internasjonale gjennomsnittet. Norske tiåringer rapporterte om lavest leseglede av samtlige land i undersøkelsen.14 PIRLS
+2021 viste også en markant økning i bruk av digitale enheter i skolen fra 2016–2021.
+PISA 2022 viste en tilbakegang i lesing, matematikk og naturfag sammenliknet med 2018. Tilbakegangen var stor i matematikk og lesing, og
+noe mindre i naturfag. Det var også en betydelig
+
+økning av elever på de laveste mestringsnivåene.
+OECD-gjennomsnittet gikk ned i alle fagområdene, sammenliknet med 2018. Men nedgangen i
+Norge var større enn i de fleste andre OECD-landene.15
+Et utvalg av de norske 15-åringene som deltok
+i PISA 2022 svarte også på oppgaver og spørsmål
+om personlig økonomi (Financial Literacy).
+Denne delen viser at det er store forskjeller i norske elevers kunnskap om personlig økonomi og
+økonomiske begreper. De norske elevene skårer
+rett under OECD-snittet, og over én av fem elever
+presterer på de laveste nivåene.16
+
+13
+
+15
+
+14
+
+Bergem, 2016.
+Wagner mfl., 2023.
+
+16
+
+Jensen mfl., 2023.
+Jensen mfl., 2024.
+
+[Side 21]
+
+2023–2024
+
+19
+
+Meld. St. 34
+En mer praktisk skole
+
+52
+51
+50
+
+50
+
+50
+
+50
+
+50
+
+50
+
+50
+
+50
+
+50
+
+50
+49
+
+49
+
+49
+
+49
+
+48
+47
+46
+45
+44
+43
+42
+2022–2023
+
+2023–2024
+
+2022–2023
+
+5. trinn
+
+2023–2024
+8. trinn
+
+Engelsk
+
+Lesing
+
+Regning
+
+Figur 2.2 Resultater på nasjonale prøver 5. og 8. trinn i skoleårene 2022–2024
+Kilde: Utdanningsdirektoratet.
+
+I tillegg til undersøkelsene som måler lesing,
+naturfag og matematikk, deltar norske elever
+også i undersøkelser som gir informasjon om
+utviklingen i kunnskap om demokrati og medborgerskap (ICCS). De norske elevene viste gode
+kunnskaper og ferdigheter sammenliknet med
+andre land som deltok i ICCS-undersøkelsene i
+2009 og 2016. Norske elever som deltok i ICCS
+2016 hadde også et høyere kunnskapsnivå om
+demokrati enn elevene som deltok i 2009. ICCS
+2022 viste for første gang en nedgang i elevenes
+kunnskap om demokrati. Resultatene på kunnskapstesten var lavere i 2022 enn i 2009. Norske
+elever lå fortsatt over det internasjonale gjennomsnittet i undersøkelsen, men hadde den største
+nedgangen av alle deltakerland.17
+Norske elever gjennomfører også nasjonale
+prøver hvert år.18 Dette gjelder omtrent 90 prosent av elevene på 5., 8. og 9. trinn. Resultatene fra
+2023 viser små endringer i resultatene på nasjonale prøver for 5. trinn sammenliknet med 202219,
+se figur 2.2. Fordelingen av elever på de tre mestringsnivåene endrer seg lite sammenliknet med
+2022.20
+
+Figur 2.2 viser at elevene på 8. trinn gjør det noe
+svakere i 2023 enn i 2022 i både lesing og regning,
+mens resultatene i engelsk endrer seg lite.21 I
+2023 er det flere elever på 8. trinn som presterer
+på de to laveste mestringsnivåene i både lesing og
+regning enn i 2022.
+Det har vært en økning i oppnådde grunnskolepoeng over tid. Elever som gikk ut av grunnskolen i 2024 oppnådde i gjennomsnitt 42,2 grunnskolepoeng.22 Dette er 0,2 poeng lavere enn året før,
+men omtrent 2 poeng høyere enn avgangselevene
+i 2014.23 I pandemien gikk resultatene vesentlig
+opp fra årene før. Dette skyldes trolig en kombinasjon av avlyste eksamener og at lærerne endret
+vurderingspraksis. Både elever, lærere og skoleledere rapporterer om læringstap under pandemien
+til tross for at standpunktkarakterene økte.24
+Stadig flere elever har nå fritak fra vurdering i
+fag. I 2023–2024 hadde 23 prosent av elevene fritak i norsk sidemål. Andelen elever med dette fritaket har økt med seks prosentpoeng på fem år.
+Også i matematikk, engelsk, norsk hovedmål og
+21
+22
+
+17
+
+Storstad mfl., 2023.
+Vi refererer kun til resultatene fra 2022 og 2023 på grunn
+av bruddet i trendmålingen som kom som følge av ny læreplan og ny analysemetode for beregning av trend.
+19
+Utdanningsdirektoratet, 2023c.
+20
+På nasjonale prøver 5. trinn er det tre mestringsnivåer,
+mens på 8. trinn er det fem nivåer.
+18
+
+23
+24
+
+Utdanningsdirektoratet, 2023d.
+Grunnskolepoeng er et mål for elevenes karaktersnitt på
+vitnemålet. Poengene beregnes ved å summere tallkarakterene i alle fag, både standpunkt- og eksamenskarakterer,
+og dele på antall karakterer. Gjennomsnittet, med to desimaler, multipliseres deretter med 10. Det beregnes ikke
+grunnskolepoeng for elever som mangler karakter i mer
+enn halvparten av fagene.
+Utdanningsdirektoratet, 2024i.
+Vennerød-Diesen mfl., 2024.

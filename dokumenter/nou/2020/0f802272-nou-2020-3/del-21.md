@@ -1,0 +1,908 @@
+# NOU 2020: 3, del 21 av 42 (side 230–239)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
+- Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 230]
+
+228
+
+Kapittel 23
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+eller oppgaver knyttet til, mindreårige. I politiregisterloven omtales en slik politiattest som
+«barneomsorgsattest».
+Formålet med barneomsorgsattester er å forhindre overgrep mot eller skadelig innflytelse på
+mindreårige og å bidra til å øke tilliten til at
+mindreårige tas hånd om av skikkede personer, jf.
+politiregisterloven § 37 første ledd nr. 4. Dette er
+et bredere formål enn tidligere, da kravet om
+politiattest først og fremst var begrunnet i å hindre seksuelle overgrep mot barn som mottar tiltak
+fra barneverntjenesten.
+Hensikten med politiregisterloven § 39, som
+regulerer barneomsorgsattesten, er å skape en
+ensartet praksis på de områdene der det kreves
+politiattest for personer som har omsorg for eller
+oppgaver knyttet til barn. Reglene om barneomsorgsattester er utformet slik at hensyn til personvern, resosialisering og ressursbruk er ivaretatt så langt som mulig innenfor det overordnede
+beskyttelseshensynet.
+På barneomsorgsattesten skal det anmerkes
+om personen er siktet, tiltalt, har vedtatt forelegg
+eller er dømt etter de nærmere angitte straffebestemmelsene i politiregisterloven § 39 første ledd.
+Barneomsorgsattesten er derfor utvidet, men
+avgrenset. At politiattesten er utvidet, innebærer
+at den inneholder alle strafferettslige reaksjoner,
+både siktelser, tiltaler, forelegg og domfellelser. At
+attesten er avgrenset innebærer at ikke alle reaksjoner skal påføres, bare på de straffebestemmelsene som er listet opp i politiregisterloven § 39 første ledd. Det som skal anmerkes, er reaksjoner
+som anses som relevante for formålet om å
+beskytte barn og unge, som seksualforbrytelser,
+volds- og ransforbrytelser og narkotikaforbrytelser.3
+Vilkåret for å kreve politiattest etter universitets- og høyskoleloven § 4-9 første ledd er at studenten kan komme i kontakt med «mindreårige»
+gjennom praksisstudier eller som del av klinisk
+undervisning. «Mindreårige» er barn som ikke er
+myndige, altså under 18 år. Kunnskapsdepartementet har lagt til grunn at i de utdanningene der
+en student kan komme i kontakt med utviklingshemmede eller andre sårbare grupper, kan det
+også være mulig for studenten å komme i kontakt
+med mindreårige, slik at kravet om barneomsorgsattest gjelder for disse utdanningene.4
+
+23.2.1.2 Studier som fører frem til yrker der det
+kreves politiattest
+Dersom det for bestemte typer yrkesutøving er
+gitt særlige regler om politiattest, gjelder disse
+reglene tilsvarende for studenter som deltar i
+praksisstudier eller klinisk undervisning.
+En rekke lover inneholder krav om politiattest
+for bestemte typer yrkesutøving. Flere av disse
+lovbestemmelsene viser til politiregisterloven § 39
+og reglene om barneomsorgsattest. I tillegg er det
+enkelte lovbestemmelser som selv lister opp
+hvilke straffebud som er aktuelle, og som dermed
+avviker fra politiregisterloven § 39.
+Eksempler på lovbestemmelser som viser til
+politiregisterloven § 39 er helsepersonelloven5
+§ 20a første ledd, opplæringsloven6 § 10-9 og
+barnehageloven7 § 19.
+Etter helsepersonelloven § 20a første ledd skal
+den som skal yte spesialisthelsetjenester og tannhelsetjenester til barn fremlegge politiattest som
+nevnt i politiregisterloven § 39. Det vil si en politiattest med merknader om seksualforbrytelser,
+narkotikaforbrytelser og volds- og ransforbrytelser. Etter opplæringsloven § 10-9 må den som skal
+ansettes fast eller midlertidig i grunnskolen eller i
+videregående skole, i musikk- og kulturskolen, i
+skolefritidsordningen eller for å gi leksehjelp,
+legge frem politiattest med tilsvarende innhold
+som er nevnt i politiregisterloven § 39 første ledd.
+Kravet gjelder også for personer som skal ansettes fast eller midlertidig i skolelignende aktivitetstilbud. Skolelignende aktivitetstilbud vil si aktivitetstilbud som gis i regi av skoleeieren og i tilknytning til skolen, og som har karakter av opplæring,
+for eksempel tilbud om sommerskole. Etter
+barnehageloven § 19 skal den som skal ansettes
+fast eller midlertidig i en barnehage, fremlegge
+politiattest.
+Et annet eksempel på en lov som viser til politiregisterloven § 39, er kirkeloven.8 Etter kirkeloven § 29 andre ledd kan lovbestemte organer i
+Den norske kirke kreve at en person skal fremlegge politiattest som nevnt i politiregisterloven
+§ 39 første ledd, hvis vedkommende skal ansettes,
+utføre oppgaver eller inneha tillitsverv der vedkommende vil ha omsorg for eller oppgaver knyttet til mindreårige. Kirkelige instanser har utar5
+
+3
+4
+
+Ot.prp. nr. 108 (2008–2009) Om lov om behandling av opplysninger i politiet og påtalemyndigheten s. 312–313.
+Kunnskapsdepartementet. Rundskriv F-03-18: Forskrift om
+opptak til høgre utdanning – endringar s. 11–12.
+
+6
+7
+8
+
+Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven).
+Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringsloven).
+Lov 17. juni 2005 nr. 64 om barnehager (barnehageloven).
+Lov 7. juni 1996 nr. 31 om Den norske kirke (kirkeloven).
+
+[Side 231]
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+beidet retningslinjer for praktiseringen av bestemmelsen i Den norske kirke, og etter retningslinjene kreves politiattest fremlagt ved tilsetting.
+Eksempler på lovbestemmelser som selv lister
+opp hvilke straffebud som er aktuelle på politiattesten, er helsepersonelloven § 20a andre ledd
+og helse- og omsorgstjenesteloven § 5-4.9
+Etter helsepersonelloven § 20a andre ledd skal
+også den som skal yte spesialisthelsetjenester og
+tannhelsetjenester til personer med utviklingshemming fremlegge politiattest. For dem kreves
+imidlertid bare en politiattest som viser om de er
+siktet, tiltalt, gitt forelegg eller dømt for seksuallovbrudd – altså ikke den samme barneomsorgsattesten som kreves av dem som skal arbeide
+med barn etter helsepersonelloven.
+Helse- og omsorgstjenesteloven § 5-4 inneholder særlige regler om politiattest for bestemte
+typer yrkesutøving. Alle som skal yte tjenester
+etter helse- og omsorgstjenesteloven, skal legge
+frem politiattest når de blir tilbudt en stilling eller
+et oppdrag. Politiattesten som kreves etter helseog omsorgstjenesteloven, inneholder flere straffebud enn barneomsorgsattesten.
+Utdanninger som fører frem til yrker som er
+omfattet av disse lovene, slik som helse-, lærer- og
+teologiutdanninger, har dermed også krav om
+politiattest for studenter som deltar i praksisstudier eller klinisk undervisning på arbeidsplasser for slike yrker. Kravene til politiattest etter
+profesjonslovgivningen er delvis knyttet til profesjon og delvis til stilling. Eksempler på krav knyttet til profesjon finnes i barnehageloven, mens
+opplæringsloven har krav knyttet til stilling. Flere
+yrker er knyttet til en profesjonsutdanning, slik
+som sykepleieryrket, og da vil kravene om politiattest som gjelder for sykepleieryrket, gjelde for
+sykepleierstudenter som deltar i praksis eller klinisk undervisning. Et annet eksempel er at
+reglene om politiattest som gjelder for ansatte ved
+barnehager, gjelder tilsvarende for studentene når
+de gjennom undervisningen deltar i praksis i
+barnehager.
+
+229
+
+Kapittel 23
+
+23.2.1.3 Saksbehandlingen ved krav om
+politiattest
+I tillegg til det universitets- og høyskoleloven § 4-9
+sier om kravene til politiattest, er flere av kravene
+til politiattest omtalt i kapittel 6 i forskrift om opptak til høgre utdanning10 (opptaksforskriften),
+som er gitt med hjemmel i universitets- og høy-
+
+skoleloven. Bestemmelsene i opptaksforskriften
+går ikke lenger enn kravene til politiattest i universitets- og høyskoleloven gjør, men forskriften gir
+regler om saksbehandlingen ved krav om politiattest.
+Det følger av opptaksforskriften § 6-1 tredje
+ledd at den enkelte utdanningsinstitusjon selv må
+vurdere om den tilbyr studier der studentene
+enten kan komme i kontakt med mindreårige,
+eller vil delta i praksisstudier eller klinisk undervisning med tilsvarende krav om politiattest for
+bestemte typer yrkesutøving. Dersom institusjonen tilbyr slike studier, praksisstudier eller klinisk
+undervisning, skal den kreve at studenten legger
+frem politiattest.
+For studier hvor studentene kan komme i kontakt med mindreårige, følger det av universitetsog høyskoleloven § 4-9 første ledd og opptaksforskriften § 6-1 første ledd at det bare kan kreves
+politiattest når studentene «kan komme i kontakt»
+med mindreårige. Dette innebærer at det ikke kan
+stilles krav om politiattest i utdanninger hvor studenten ikke kommer i kontakt med mindreårige.
+Dersom denne hjemmelen skal brukes må derfor
+studenten kunne komme i kontakt med personer
+under 18 år.
+Det er ikke nødvendig at studentene med sikkerhet vil komme i kontakt med mindreårige for
+at et studium skal kreve politiattest. Det er tilstrekkelig at det er en mulighet for at de i forbindelse med praksisstudier eller klinisk undervisning kan komme i situasjoner hvor overgrep kan
+finne sted. Kravet om politiattest er et inngripende
+tiltak overfor den enkelte, og det må derfor ikke
+stilles krav om politiattest i situasjoner hvor dette
+er åpenbart unødvendig.
+Når en student skal delta i praksisstudier eller
+klinisk undervisning hvor politiattest for yrkesutøvingen gjelder, må institusjonen innhente tilsvarende politiattest som gjelder for yrket. Dersom studenten ikke kommer i kontakt med de
+brukergruppene som yrkeslovgivningen er ment
+å beskytte, vil ikke institusjonen kunne kreve
+politiattest.
+Etter reglene om politiattest for bestemte
+typer yrkesutøving er det også satt begrensninger
+for muligheten til å kreve politiattest etter hvor
+mye de ansatte er i kontakt med mindreårige eller
+den sårbare gruppen. Som eksempel kan det vises
+til helsepersonelloven § 20a tredje ledd, som sier
+at plikten til å fremlegge politiattest ikke gjelder
+for personell som bare sporadisk yter de aktuelle
+
+9
+
+10
+
+Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven).
+
+Forskrift 6. januar 2017 nr. 13 om opptak til høgre utdanning (opptaksforskriften).
+
+[Side 232]
+
+230
+
+Kapittel 23
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+helsetjenestene og som i alminnelighet ikke vil
+være alene med barn eller personer med
+utviklingshemning. I forarbeidene til helsepersonelloven11 står det også at «det overordnende vurderingstema vil uansett ansettelsesforhold, være
+hvorvidt personellet ved utøvelsen av sitt arbeid
+kan komme i situasjoner med barnet eller den
+utviklingshemmede hvor seksuelle overgrep kan
+finne sted». Dette vurderingstemaet vil også være
+relevant for vurderingen av om det skal kreves
+politiattest i de enkelte studiene etter universitetsog høyskoleloven.
+Dersom et studium krever politiattest fra studentene, følger det av universitets- og høyskoleloven § 4-9 første ledd at politiattesten skal legges
+frem «ved opptak til eller underveis i studiet». Det
+er dermed grunnlag for å hente inn politiattest
+enten ved opptak til studiet eller senere når praksisstudier eller klinisk undervisning blir aktuelt.
+I noen studier er praksis eller klinisk undervisning ikke en obligatorisk del av utdanningsløpet.
+Det at det bare er en mulighet for at studentene
+velger praksisopplæring eller klinisk undervisning i fremtiden, vil da ikke være tilstrekkelig
+grunnlag for å kreve politiattest ved opptak til studiet. I slike tilfeller kan institusjonene kreve at studentene legger frem politiattest dersom de senere
+i utdanningsløpet bestemmer seg for å gjennomføre praksis eller klinisk undervisning der kravet
+om politiattest gjelder.
+Opptaksforskriften § 6-3 sier at tidspunktet for
+fremleggelse av politiattest er ved oppstart av studiet. I tillegg sier opptaksforskriften § 6-5 at en fornyet vandelskontroll kan utføres i samsvar med
+politiregisterloven § 43. Denne bestemmelsen gir
+bare hjemmel til å innhente nye eller oppdaterte
+opplysninger når det er sendt ut en politiattest tidligere.
+
+23.2.1.4 Konsekvenser ved anmerkning på
+politiattesten
+Hvilke konsekvenser en anmerkning på politiattesten kan få er ikke regulert i politiregisterloven § 39, men i spesiallovgivningen. Dette er
+gjort for ulike yrker, slik som i helsepersonelloven
+og barnehageloven. Etter barnehageloven § 19
+tredje ledd er personer som er dømt for seksuelle
+overgrep mot mindreårige utelukket fra fast eller
+midlertidig ansettelse i barnehager, mens andre
+merknader må vurderes konkret. Helsepersonel11
+
+Ot.prp. nr. 86 (2005–2006) Om lov om endringer i helsepersonelloven, sosialtjenesteloven og i enkelte andre lover punkt
+2.6.5.3
+
+loven § 20a regner opp bestemte typer seksuallovbrudd, og fastsetter at de som har vedtatt forelegg
+eller er domfelt for brudd på disse er utelukket fra
+å yte helse- og omsorgstjenester til barn eller personer med utviklingshemming. For studenter er
+det universitets- og høyskoleloven som regulerer
+konsekvensene av merknader på politiattesten.
+Det følger av universitets- og høyskoleloven
+§ 4-9 tredje ledd at en student som har merknader
+på politiattesten som viser at hun eller han er
+«dømt eller har vedtatt forelegg» for forhold som
+innebærer at studenten må anses som uskikket til
+å delta i arbeid med pasienter, brukere, barnehagebarn, elever eller andre, «kan» utestenges fra
+praksisstudier eller klinisk undervisning. Dersom politiattesten viser at en student er «siktet
+eller tiltalt» for det aktuelle straffebudet, «kan»
+studenten utestenges fra praksisstudier eller klinisk undervisning «frem til rettskraftig dom foreligger eller […] saken er henlagt», jf. universitetsog høyskoleloven § 4-9 fjerde ledd. Bestemmelsene innebærer at studenter som har en anmerkning på politiattesten sin, ikke automatisk blir utestengt fra praksis eller klinisk undervisning, men
+at det må foretas en konkret vurdering av om de
+skal utestenges. I tillegg innebærer universitetsog høyskoleloven § 4-9 fjerde ledd at de bare kan
+utestenges midlertidig, frem til det foreligger rettskraftig dom eller saken er henlagt.
+Det er institusjonens klagenemnd som skal
+vurdere konsekvensene av merknader på politiattester, jf. opptaksforskriften § 6-8 fjerde ledd. Vurderingen er skjønnsmessig. Nemnda skal med
+bakgrunn i forholdene ved den kliniske undervisningen eller praksisdelen av studiet ved den aktuelle utdanningen, og opplysningene om forholdene som ligger til grunn for politiattesten, vurdere om hensynet til pasienter, brukere, barnehagebarn, elever eller andre medfører at studenten skal utestenges fra klinisk undervisning eller
+praksisstudium, jf. opptaksforskriften § 6-8 femte
+ledd. Nemda skal også ta hensyn til om studenten
+har fått forelegg eller er siktet, tiltalt eller dømt.
+Hvilke straffebud studenten har merknader
+om på politiattesten er særlig relevant for om studenten skal utestenges. Merknader om seksuallovbrudd, narkotikalovbrudd eller voldskriminalitet vil ofte bli tillagt vekt, mens det ved enkelte
+andre lovbrudd ofte skal mer til for at studenten
+skal bli utestengt. I tillegg er det relevant når lovbruddet har funnet sted, og om det dreier seg om
+flere lovbrudd over en lengre periode. Dreier det
+seg om forhold som har funnet sted for kort tid
+siden, taler det for utestenging. Klagenemda må
+vurdere om det er nødvendig å utestenge studen-
+
+[Side 233]
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+ten for å kunne ivareta sikkerheten til de sårbare
+gruppene. Hensynet til beskyttelse av mindreårige og sårbare grupper skal tillegges avgjørende vekt for utfallet av saken. Videre er det relevant om merknadene ville ført til utelukkelse etter
+den relevante lovgivningen for det aktuelle yrket
+siden det er visse forskjeller knyttet til hvilke lovbrudd som fører til utelukkelse og hvem lovbruddet eventuelt er begått overfor.
+Felles klagenemnd er klageinstans for vedtak i
+nemnda, jf. opptaksforskriften § 6-8 syvende ledd.
+Hovedkonsekvensen for en student som blir
+utestengt fra praksis eller klinisk undervisning, er
+at studenten ikke vil få vitnemål om fullført grad
+eller utdanning, jf. opptaksforskriften § 6-7.
+Studentens rett til å få utgifter til advokatbistand dekket av institusjonen er omtalt i kapittel
+24.
+
+231
+
+Kapittel 23
+
+kunne være lang og usikker og lite betryggende
+for elever eller andre som måtte komme i kontakt
+med de uskikkede personene.
+Spørsmålet om det skulle være regler om skikkethetsvurdering også ved andre studietilbud enn
+lærerutdanningen, var omdiskutert. Andre aktuelle profesjoner, som helsefag og advokatvirksomhet, hadde tilsynsordninger som var i stand til å
+luke ut uegnede yrkesutøvere enten ved å nekte
+eller ved å trekke tilbake autorisasjon, og behovet
+var derfor mindre her.
+I 2002 ble ordlyden i universitetsloven fra
+199514 § 42b endret fra «utdanning som er nevnt i
+§ 54b» (førskolelærerutdanning, allmennlærerutdanning, faglærerutdanning, yrkesfaglærerutdanning og praktisk-pedagogisk utdanning) til
+«de utdanninger som Kongen bestemmer».15
+
+23.2.2.2 Om skikkethetsvurderingen
+23.2.2 Skikkethet
+Det følger av universitets- og høyskoleloven § 4-10
+første ledd at institusjonen i bestemte utdanninger
+skal vurdere om den enkelte student er skikket
+for yrket vedkommende utdanner seg til. Kongen
+fastsetter hvilke utdanninger som skal være
+omfattet av en slik skikkethetsvurdering. Skikkethetsforskriften12 er gitt med hjemmel i universitets- og høyskoleloven § 4-10. Skikkethetsforskriften § 1 lister opp hvilke utdanninger det skal foretas en skikkethetsvurdering i. Listen er uttømmende og består av 27 utdanninger – i hovedsak
+pedagogiske utdanninger og helse- og sosialutdanninger.
+Formålet med vurderingen er å avdekke om
+studenten har de nødvendige forutsetningene for
+å utøve yrket, jf. skikkethetsforskriften § 2.
+23.2.2.1 Bakgrunnen for bestemmelsen om
+skikkethetsvurdering
+Bestemmelsen om skikkethet kom inn i lærerutdanningsloven fra 1973.13 Bakgrunnen var at
+det ble opplevd som problematisk at det ikke fantes regler om autorisasjon for læreryrket. Uskikkede personer ville dermed først kunne bli fjernet
+fra yrket hvis det oppsto problemer etter at de var
+ansatt, ved hjelp av de alminnelige arbeidsrettslige reglene om disiplinærreaksjoner, oppsigelse
+eller avskjed. Veien frem til utelukkelse fra yrket
+
+Skikkethetsvurderingen skal ifølge skikkethetsforskriften § 2 andre ledd foregå gjennom hele
+studiet, og «inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i
+yrket». Kriteriet for manglende skikkethet er at
+studenten «utgjør en mulig fare for liv, fysisk og
+psykisk helse, rettigheter og sikkerhet til de pasienter, brukere, barnehagebarn, elever, eller andre
+studenten vil komme i kontakt med under praksisstudiene eller under fremtidig yrkesutøvelse
+[…]».
+Nærmere kriterier for skikkethetsvurderingen
+innenfor de ulike utdanningene er angitt i §§ 3, 4
+og 5 i skikkethetsforskriften. Kriteriene i §§ 3, 4
+og 5 omfatter blant annet at studenten viser:
+– manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt,
+– manglende vilje eller evne til å samarbeide og
+til å etablere tillitsforhold,
+– truende eller krenkende adferd,
+– for liten grad av selvinnsikt.
+Minst ett av kriteriene må være oppfylt for at en
+student skal kunne vurderes som uskikket for
+yrket.16 Det viktigste hensynet bak en skikkethetsvurdering er å sikre at pasienter, klienter,
+14
+15
+
+12
+
+Forskrift 30. juni 2006 nr. 859 om skikkethetsvurdering i
+høyere utdanning (skikkethetsforskriften).
+13
+Lov 8. juni 1973 nr. 49 om lærarutdanning (lærerutdanningsloven).
+
+16
+
+Lov 12. mai 1995 nr. 22 om universiteter og høgskoler (universitetsloven).
+Innst. O. nr. 58 (2001–2002) Innstilling fra kirke-, utdannings- og forskningskomiteen om lov om endringer i lov
+12. mai 1995 nr. 22 om universiteter og høgskoler og lov
+2. juli 1999 nr. 64 om helsepersonell.
+Kunnskapsdepartementet. Rundskriv F-07-16: Forskrift om
+skikkethetsvurdering i høyere utdanning s. 4.
+
+[Side 234]
+
+232
+
+Kapittel 23
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+brukere, barnehagebarn, elever og andre blir tatt
+hånd om av en skikket person.
+Sak om særskilt skikkethetsvurdering skal reises hvis det er «begrunnet tvil om en student er
+skikket», jf. skikkethetsforskriften § 2 tredje ledd.
+En skikkethetsvurdering skal foretas av alle studentene, mens den særskilte skikkethetshetsvurderingen bare foretas av studenter som institusjonen er i tvil om er skikket. Den særskilte skikkethetsvurderingen fører til at det opprettes en sak
+som skal gjennomføres i en fastsatt prosess som
+er beskrevet i skikkethetsforskriften §§ 9 til 12.
+Saken starter med en tvilsmelding, som blir
+behandlet av institusjonsansvarlig. Deretter går
+saken eventuelt til behandling i skikkethetsnemnda og til slutt eventuelt til behandling i styret
+eller ved institusjonens klagenemnd.
+Utdanningsinstitusjonene har et selvstendig
+ansvar for å foreta skikkethetsvurderinger. Dette
+gjelder også på områder hvor det finnes adekvate
+systemer for autorisasjon og løpende kontroll med
+yrkes- og profesjonsutøving, slik som i helsesektoren.
+Skikkethetsvurderingen skal foretas uavhengig av eksamensresultater og praksisevaluering,
+og kommer i tillegg til disse vurderingene. Forholdene som vurderes knytter seg normalt til
+studiesituasjonen, både teori- og praksisundervisningen. Forhold eller hendelser som ligger utenfor studiesituasjonen, for eksempel hendelser i
+studentens fritid, kan tillegges vekt hvis de har,
+eller må antas å kunne ha, innvirkning på hvordan
+studenten vil utføre oppgavene i yrket.
+Muligheten til å vurdere en student som uskikket etter en særskilt skikkethetsvurdering benyttes som hovedregel bare når andre formelle og
+uformelle virkemidler underveis i studiet som
+skal sikre at bare studenter som oppfyller kravene, får vitnemål, ikke har avhjulpet situasjonen.
+I de fleste tilfeller vil det vise seg under praksisstudiene om en student ikke er skikket for det
+aktuelle yrket, og da vil ikke studenten få godkjent
+praksisperioden. En student kan likevel bli vurdert som uskikket for yrket selv om vedkommende har bestått praksisstudiene. Ved bestått
+praksis vil normalt ikke forhold som bare knytter
+seg til selve praksisperioden, kunne føre til at studenten blir vurdert som uskikket. Forhold som
+knytter seg til praksisperioden, kan imidlertid bli
+tillagt vekt i en helhetsvurdering av studentens
+skikkethet, jf. skikkethetsforskriften § 2 andre
+ledd.
+Andre momenter som kan vektlegges i skikkethetsvurderingen, er hvor langt studenten har
+kommet i studiet, og om læring og utvikling i det
+
+videre studiet kan tenkes å gjøre studenten skikket for det aktuelle yrket. Tidlig i studieløpet kan
+studenten være mindre moden og reflektert og
+det vil også være tid til at studenten kan justere
+adferden sin. Senere i studieløpet forventes det
+mer av studentene, og terskelen for å slå fast at
+studenten ikke er skikket, vil kunne være lavere.
+Når institusjonen skal vurdere en students
+skikkethet, vil den kunne legge vekt på om studenten har vært bortvist etter § 4-8, men en slik
+bortvisning behøver ikke i seg selv å være tilstrekkelig til at studenten vurderes som uskikket.
+Det følger av universitets- og høyskoleloven
+§ 4-10 andre ledd at når utdanningsinstitusjonen
+utsteder vitnemål for fullført utdanning, har den
+også vurdert studenten som skikket for yrket. En
+student som ikke er skikket har krav på å få
+utstedt en karakterutskrift, jf. universitets- og høyskoleloven § 3-11 andre ledd, for de emnene han
+eller hun har bestått. Dette gjelder også der studenten har gjennomført hele studieløpet. Slik
+karakterutskrift vil gi studenten mulighet til å få
+utdanningen godskrevet ved andre institusjoner,
+jf. universitets- og høyskoleloven § 3-5.17
+
+23.2.2.3 Saksgang og vedtak om uskikkethet og
+utestenging
+Hvis noen er i tvil om en student er skikket, skal
+de melde dette skriftlig til institusjonsansvarlig, jf.
+skikkethetsforskriften § 9. Det er ingen begrensninger når det gjelder hvem som kan levere tvilsmeldinger; alle som er i kontakt med studenten,
+kan levere en tvilsmelding. Institusjonsansvarlig
+skal ikke behandle innleverte tvilsmeldinger som
+er åpenbart ugrunnet. Den som leverer en tvilsmelding, regnes ikke som part i saken, jf. skikkethetsforskriften § 9.
+Tvilsmeldinger kan leveres anonymt. En anonym tvilsmelding kan enten være levert av en anonym innsender, eller så er ikke vedkommende
+anonym, men ønsker ikke å bli identifisert overfor
+den meldingen gjelder.
+Studenten som tvilsmeldingen gjelder, har rett
+til å gjøre seg kjent med sakens dokumenter, jf.
+forvaltningsloven § 18.18 Dette innebærer at studenten i utgangspunktet har rett til å få vite hvem
+som har levert tvilsmeldingen, selv om den som
+har gjort det ikke ønsker å bli identifisert overfor
+17
+
+18
+
+Ot.prp. nr. 77 (1997–98) Om lov om oppheving av lov om
+lærarutdanning av 8. juni 1973 nr. 49 og endringer i enkelte
+andre lover s. 16.
+Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
+
+[Side 235]
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+den tvilsmeldingen gjelder. Melderen kan bare
+anonymiseres dersom det foreligger særlige
+grunner som taler for anonymisering, jf. forvaltningsloven § 19 andre ledd bokstav b. Når institusjonen vurderer om anonymisering av melderen
+skal tillates skal det legges vekt på om det er av
+vesentlig betydning for studenten det er varslet
+om at vedkommende får vite identiteten til melderen. Dette kan være nødvendig for at studenten
+skal kunne ivareta egne interesser i saken, for
+eksempel der melderen utelukkende er ute etter å
+gjøre skade for den han eller hun melder om. I tillegg kan det i vurderingen legges vekt på hvilke
+konsekvenser det kan ha for den som har levert
+tvilsmeldingen om hennes eller hans identitet blir
+kjent. Det kan for eksempel være fare for gjengjeldelse.19
+Institusjonsansvarlig for skikkethetsvurderinger utreder saken og har ansvar for at det eventuelt blir utarbeidet et utvidet veiledningsopplegg
+for studenten. Hovedregelen er at studenten skal
+få tilbud om utvidet oppfølging og veiledning, jf.
+skikkethetsforskriften § 10. Det er bare i saker
+hvor det er åpenbart at utvidet oppfølging ikke er
+egnet til å gjøre studenten skikket at dette kan
+unnlates. Hvis institusjonsansvarlig mener at utvidet veiledning ikke er egnet til å hjelpe studenten,
+eller hvis utvidet veiledning er gitt uten at det har
+medført den nødvendige endringen og utviklingen hos studenten, går saken til behandling i
+skikkethetsnemnda.
+Styret ved institusjonen skal selv oppnevne en
+skikkethetsnemnd, jf. skikkethetsforskriften § 7.
+Det følger av universitets- og høyskoleloven § 4-10
+tredje ledd at skikkethetsnemnda innstiller til styret selv eller til institusjonens klagenemnd, som
+på bakgrunn av innstillingen kan fatte vedtak om
+at en student ikke er skikket for yrket, og eventuelt vedtak om å utestenge studenten som følge
+av dette. Felles klagenemnd er klageinstans for
+vedtak om skikkethet som styret eller institusjonens klagenemnd har fattet.
+Hvis en student blir vurdert som uskikket for
+yrket, blir vedkommende vanligvis også utestengt
+fra studiet. Forholdene kan unntaksvis være slik
+at utestenging vil representere et uforholdsmessig inngrep i studiesituasjonen. I tråd med
+bestemmelsene i universitets- og høyskoleloven
+§§ 4-8 og 4-9 om bortvisning og utestenging er
+§ 4-10 tredje ledd derfor formulert slik at studenten «kan» utestenges dersom vedkommende er
+uskikket for yrket. Institusjonen har adgang til å la
+studenten fullføre studiet, for eksempel der dette
+19
+
+Kunnskapsdepartementet. Rundskriv F-07-16.
+
+233
+
+Kapittel 23
+
+er forsvarlig og meningsfylt, typisk fordi utdanningen kan brukes i andre funksjoner enn det aktuelle yrket.
+Vedtak om skikkethet og utestenging skal
+registreres i RUST (Register for utestengte studenter), jf. universitets og høyskoleloven § 4-12
+andre ledd. Formålet med RUST er å hindre at en
+kandidat eller søker som har mistet rettigheter
+som følge av vedtak om for eksempel utestenging,
+får slike rettigheter ved en annen institusjon, jf.
+RUST-forskriften20 § 2.
+Hvis institusjonen ikke fatter vedtak om utestenging, har studenten mulighet til å søke opptak
+på nytt ved en annen institusjon. Dette gjelder
+også dersom skikkethetssaken ikke blir avsluttet
+fordi studenten for eksempel blir veiledet ut av
+studiet. Studenten har da anledning til å starte opp
+på samme studium ved en annen institusjon.
+Andre institusjoner vil bare ha informasjon om
+den tidligere saken hvis det er fattet vedtak som
+er registrert i RUST. Tas studenten opp på nytt, vil
+det kunne bli gjort en ny særskilt skikkethetsvurdering av ham eller henne.
+Skikkethetsforskriften § 12 gir nærmere
+regler om utestengingsvedtak når en student er
+funnet uskikket. Det skal fattes særskilt vedtak
+om utestenging, og studenten kan utestenges fra
+utdanningen i inntil fem år. Den maksimal lengden på utestengingsperioden i skikkethetssaker
+ble endret fra tre til fem år i 2016. Høringsnotatet
+om endringen presiserte at studenten ikke skal
+utestenges i en lengre periode enn det som er
+nødvendig ut fra årsaken til at han eller hun er
+vurdert som uskikket. Utestenging i mer enn tre
+år skal være forbeholdt de særlig graverende tilfellene.21
+Dersom studenten utestenges i mindre enn
+fem år, kan institusjonen fatte vedtak med vilkår
+som må være oppfylt for at studenten skal kunne
+gjenoppta utdanningen, jf. skikkethetsforskriften
+§ 12 andre ledd. Slike vilkår kan for eksempel
+bestå i at studenten gjennomgår behandling.
+Formålet med å utestenge en student er å
+beskytte sårbare grupper fra å bli utsatt for en person som ikke er skikket for yrket. I tillegg forhindres personen i å fullføre studiet for så å kunne
+utøve yrket.
+20
+21
+
+Forskrift 27. juni 2016 nr. 820 om register for utestengte
+studenter – RUST.
+Regjeringen. Høring om skikkethetsvurdering i høyere
+utdanning. Høringsnotat – forslag til endringer i forskrift
+om skikkethetsvurdering i høyere utdanning, s. 13 https://
+www.regjeringen.no/no/dokumenter/horing-om-skikkethetsvurdering-i-hoyere-utdanning/id2362414/
+?expand=horingsnotater hentet 21.1.2020.
+
+[Side 236]
+
+234
+
+Kapittel 23
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+Det er styret eller institusjonens klagenemnd
+som treffer vedtak om uskikkethet og utestenging, og vedtakene krever minst to tredjedels flertall, jf. universitets- og høyskoleloven § 4-10 fjerde
+ledd. I vedtak om utestenging må institusjonen
+opplyse om at studenten ikke kan søke eller ta
+imot plass ved tilsvarende utdanninger i utestengingsperioden. I tillegg må det presiseres hvilken
+utdanning det gjelder. Med tilsvarende utdanninger menes den aktuelle utdanningen, også når
+den blir tilbudt under et annet navn.
+Studentens rett til å få utgifter til advokatbistand dekket av institusjonen er omtalt i kapittel
+24.
+
+23.2.2.4 Søknad om gjenopptak av utdanning
+En student som ønsker å gjenoppta utdanningen
+etter en utestengingsperiode, må søke om opptak.
+Studenten har de samme rettighetene og pliktene
+som andre studenter, og har følgelig krav på å få
+godskrevet tidligere avlagte eksamener etter
+reglene i universitets- og høyskoleloven § 3-5.
+Dette er tilfellet hvis studenten velger å søke opptak ved en annen utdanningsinstitusjon enn den
+vedkommende ble utestengt fra. Hvis studenten
+har søkt opptak ved samme institusjon som vedkommende ble utestengt fra, følger det av utdanningsinstitusjonens egne forskrifter hvordan slik
+godskriving av tidligere bestått utdanning skal
+innpasses i en ny grad. Hvis det igjen oppstår tvil
+om studentens skikkethet, skal det foretas en ny
+særskilt skikkethetsvurdering, uavhengig av den
+tidligere skikkethetsvurderingen.
+
+23.3 Utvalgets vurderinger
+23.3.1 Politiattest
+23.3.1.1 Nasjonal nemnd for politiattestsaker?
+Tidligere var det oppnevnt en nasjonal nemnd for
+politiattestsaker som avgjorde om studenter med
+merknader på politiattesten skulle utestenges fra
+praksisstudier eller klinisk undervisning, jf. den
+tidligere bestemmelsen i universitets- og høyskoleloven § 4-9 femte ledd. Politiattestnemnda
+behandlet disse sakene som førsteinstans, og felles klagenemnd var klageinstans. Institusjonens
+klagenemnd, eller styret selv, ga bare en uttalelse
+i saken som dannet grunnlag for politiattestnemndas avgjørelse.
+Fra 1. januar 2015 ble reglene endret slik at
+førsteinstansbehandlingen av disse sakene ble
+lagt til institusjonens klagenemnd, jf. universitets-
+
+og høyskoleloven § 5-1. Bakgrunnen for endringen var et ønske om å gjøre behandlingen av
+politiattester med merknader enklere og raskere.22 Endringen har medført at utdanningsinstitusjonene i større grad enn tidligere tilfredsstiller
+kravet om effektiv saksbehandling, og gir studenten en rask avklaring av om vedkommende kan
+fortsette på utdanningen. En raskere saksgang
+ivaretar på en bedre måte enn tidligere hensynet
+til pasienter, klienter og andre som skal beskyttes
+mot studenter som ikke bør delta i praksisopplæring eller klinisk undervisning, selv om det er
+en fare for regionale forskjeller.
+Utvalget anser at dagens ordning fungerer
+godt, og at det ikke er behov for å gå tilbake til en
+egen nemnd for politiattestsaker.
+
+23.3.1.2 Mindreårige
+Utvalget oppfatter at det kan ha oppstått usikkerhet rundt gjeldende rett og forståelsen av «mindreårige», og tror noen av uklarhetene kan
+stamme fra Rundskriv F-03-18. Utvalget har derfor
+vurdert om det er behov for tydeliggjøring eller
+endringer i universitets- og høyskoleloven § 4-9.
+Det følger av Rundskriv F-03-18 at «[d]epartementet legg til grunn at det i dei utdanningane der ein
+student kan komme i kontakt med utviklingshemma eller andre sårbare grupper, [sic] kan det
+òg kan vere mogleg for studenten å komme i kontakt med mindreårige, slik at utdanninga er
+omfatta av kravet om barneomsorgsattest».23 En
+forståelse av denne uttalelsen kan være at i utdanninger der en student kan komme i kontakt med
+utviklingshemmede eller andre sårbare grupper,
+vil være omfattet av «mindreårige» fordi studenten også kan komme i kontakt med mindreårige.
+Utvalget mener at denne betydningen er en unødvendig presisering fordi dette allerede vil falle inn
+under ordlyden «mindreårige».
+Dersom bestemmelsen skal tolkes utvidende
+ved at «mindreårige» skal inkludere personer
+med utviklingshemning og andre sårbare grupper, fører dette til et strengere krav til å innhente
+politiattest for studenter enn det som følger av
+profesjonslovgivningen. Som eksempel kan det
+nevnes at etter helsepersonelloven § 20a skal de
+som yter tjenester til barn, fremlegge politiattest
+med merknader om seksualforbrytelser, volds- og
+ransforbrytelser og narkotikaforbrytelser, mens
+de som skal yte tjenester til personer med
+22
+23
+
+Prop. 59 L (2013–2014) Endringer i universitets- og høyskoleloven.
+Kunnskapsdepartementet. Rundskriv F-03-18 s. 11–12.
+
+[Side 237]
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+utviklingshemning bare skal legge frem politiattest med merknader om seksuallovbrudd. Dersom universitets- og høyskoleloven § 4-9 første
+ledd også skal gjelde for utdanninger hvor studentene kan komme i kontakt med personer med
+utviklingshemning, så skal institusjonene innhente politiattest med de samme anmerkningene
+som på barneomsorgsattesten, altså en mer
+omfattende politiattest enn etter profesjonslovgivningen. Utvalget anser at sårbare grupper allerede er dekket av dagens universitets- og høyskolelov § 4-9 andre ledd. Barn vil alltid være
+dekket av kravet om politiattest i § 4-9 første ledd,
+mens andre sårbare grupper som gir grunnlag for
+å innhente politiattest, vil være dekket av § 4-9
+andre ledd.
+Utvalget anser ikke at det er gode grunner for
+å stille et strengere krav til politiattest for studenter enn for profesjonsutøvere ettersom et av formålene med politiregisterloven § 39 og det samlede regelverket om politiattest er å skape et ensartet system for politiattester. Utvalget anser derfor at «mindreårige» i universitets- og høyskoleloven § 4-9 første ledd skal tolkes som personer
+under 18 år.
+Utvalget foreslår imidlertid å slå sammen første og andre ledd i dagens universitets- og høyskolelov § 4-9. Hjemmelen for å innhente politiattest ligger i dag i både første og andre ledd. Dersom de blir slått sammen, antar utvalget at det vil
+komme tydeligere frem at det er to ulike grunnlag
+for å innhente politiattest. Det er ikke bare i situasjoner hvor en student kan komme i kontakt med
+mindreårige at det er anledning til å innhente
+politiattest. Det kan også gjøres når studenten kan
+komme i kontakt med sårbare grupper som er
+beskyttet gjennom profesjonslovgivningen.
+
+23.3.1.3 Bestemmelser fra profesjonslovgivningen
+Felles klagenemnd har anmodet utvalget om å gå
+nærmere gjennom hvilke bestemmelser i spesiallovgivningen som skal falle inn under universitetsog høyskoleloven § 4-9, slik at de anmerkningene
+som fremkommer på politiattesten i henhold til
+universitets- og høyskoleloven, oppfyller det
+grunnleggende formålet om at mindreårige skal
+ivaretas av skikkede personer. Bakgrunnen for
+anmodningen er en sak som felles klagenemnd
+har behandlet. Saken dreide seg om en sykepleierstudent som ble utestengt fra praksisopplæring fordi vedkommende hadde en anmerkning
+om underslag på politiattesten.24 Underslag ligger
+ikke i kjernen av hva som er formålet med barneomsorgsattesten.
+
+235
+
+Kapittel 23
+
+Etter universitets- og høyskoleloven § 4-9 er det
+to hjemmelsgrunnlag for å innhente politiattest,
+enten at studentene kommer i kontakt med mindreårige eller at politiattest er et krav for å kunne
+utøve yrket. Formålet med politiregisterloven § 39
+og det samlede regelverket om politiattest er å ha
+et ensartet system for politiattester.25 For å realisere målet om et ensartet system er det viktig at
+kravet til politiattest for studenter ikke er strengere
+enn det som følger av profesjonslovgivningen.26 I
+tillegg er det hensiktsmessig å ikke utdanne personer som mest sannsynlig ikke vil kunne utøve yrket
+når de er ferdig utdannet.
+Helse- og omsorgstjenesteloven gir særlige
+regler om politiattest for bestemte typer yrkesutøving. Flere av helse- og sosialutdanningene,
+blant annet sykepleierutdanningen, fører til yrker
+som faller inn under helse- og omsorgstjenesteloven, slik at kravet om politiattest gjelder tilsvarende for disse utdanningene. For yrkesutøverne
+som faller under denne lovgivningen kan det kreves fremlagt politiattester som enten viser til flere
+eller færre straffebestemmelser enn de som er
+listet opp i politiregisterloven § 39, dersom det
+foreligger særlige grunner for det, jf. politiregisterloven § 39 andre ledd. I yrker regulert av
+helse- og omsorgstjenesteloven foreligger det
+særlige grunner for å innhente politiattest med
+flere straffebestemmelser, inkludert straffebestemmelser om underslag, for å verne de sårbare gruppene som loven skal beskytte. Disse
+særlige grunnene vil også være relevante for
+utdanninger som fører til yrker som faller inn
+under helse- og omsorgstjenesteloven, og for studenter som skal delta i praksis eller klinisk undervisning på arbeidsplasser som faller inn under
+helse- og omsorgstjenesteloven. Det er relevant
+for vurderingen av politiattesten ved utdanningsinstitusjonene hvorvidt en student potensielt
+ikke kan arbeide innenfor et yrke fordi studenten
+har anmerkninger på politiattesten, som for
+eksempel ved anmerkninger om underslag. I tillegg vil formålet om å verne sårbare grupper ikke
+være oppfylt dersom politiattesten som kreves av
+studentene, omfatter færre straffebestemmelser
+enn politiattesten som kreves av yrkesutøverne.
+Dersom en politiattest har merknader om
+underslag, fører det derimot ikke automatisk til at
+24
+
+25
+26
+
+Felles klagenemd, sak 87/2018. Referert i innspill fra Felles
+klagenemnd til Universitets- og høyskolelovutvalgets 6.
+møte om studentrettigheter og –plikter. Se https://
+www.universitetsoghoyskolelovutvalget.no/innspill/mottatte-innspill/.
+Ot.prp. nr. 108 (2008–2009) s. 312–313.
+Kunnskapsdepartementet. Rundskriv F-03-18 s. 13.
+
+[Side 238]
+
+236
+
+Kapittel 23
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+studenten skal utestenges, ettersom det alltid skal
+foretas en konkret vurdering av straffebudet og
+forholdene i den aktuelle utdanningen. Hva slags
+straffebud det gjelder, og hvorvidt hendelsene har
+skjedd for kort eller lang tid siden, er særlig relevante momenter i vurderingen av om studenten
+skal utestenges. Utvalget mener det er fare for at
+institusjonene vil miste verdifull informasjon dersom hjemmelen i universitets- og høyskoleloven
+§ 4-9 endres slik at politiattesten ikke kan inneholde informasjon om like mange straffebestemmelser som i dag. Dersom en anmerkning om en
+straffebestemmelse på politiattesten ikke innebærer at studenten er uskikket til å delta i arbeidet, eller at utestenging er nødvendig av hensyn
+til sikkerheten eller behandlingsmiljøet til brukergruppen, skal ikke studenten utestenges.
+Utvalget anser derfor at det ikke er behov for
+å avgrense hvilke bestemmelser i spesiallovgivningen som skal være omfattet av universitetsog høyskoleloven § 4-9. Utvalget vil likevel
+understreke at institusjonene møter noen utfordringer når de skal vurdere kravet om politiattest
+og om studenter skal utestenges. Noen utdanninger fører typisk direkte til enkelte yrker, særlig
+profesjonsutdanningene, slik som sykepleier- og
+barnehagelærerutdanningen, selv om disse også
+kan gå inn i stillinger uten direkte kontakt med
+barn eller pasienter. Andre utdanninger kan derimot føre til mange forskjellige yrker. Da kan det
+være vanskelig å vite om merknader på politiattesten vil være relevant for yrket personen velger. I tillegg varierer kravene alt etter hvilken
+stilling studenten skal ut i senere. Enkelte
+straffebud vil tilnærmet alltid føre til utestenging, slik som seksuallovbrudd, mens andre
+straffebud først er relevante hvis studentene skal
+ha nærmere bestemte stillinger, typisk innenfor
+kommunal helse- og omsorgstjeneste. Dette gjør
+det krevende for institusjonene å vurdere om
+studenter skal utestenges eller ikke, fordi utdanningen kan brukes til ulike yrkesvalg med forskjellige krav til politiattest.
+
+23.3.1.4 Når kan politiattesten innhentes?
+Det følger av universitets- og høyskoleloven § 4-9
+første ledd at institusjonen kan kreve at en søker
+eller en student fremlegger politiattest «ved opptak eller underveis i studiet.» Etter bestemmelsen
+kan politiattesten fremlegges enten ved opptaket
+til studiet eller underveis i studiet. Etter opptaksforskriften § 6-3 er hovedregelen er at politiattesten blir krevd fremlagt ved opptaket. I tillegg
+kan institusjonen kreve fornyet vandelskontroll.
+
+Praksisstudier og klinisk undervisning skal
+ofte gjennomføres et stykke ut i studiet. Ved opptaket vil det derfor ofte ikke være riktig å ta endelig stilling til spørsmålet om en student skal utestenges som følge av anmerkninger på politiattesten.
+Vurderingen av om en student skal utestenges, skal være konkret og gjøres der og da. Den
+bør derfor ikke gjøres før studenten er kommet til
+det stadiet i studiet der utestenging er aktuelt. Studenten må få mulighet til å vise at han eller hun
+har utviklet seg og kommet over problemene sine
+på en slik måte at det ikke lenger er nødvendig å
+utestenge vedkommende.
+Hvis politiattest kreves ved opptaket til studiet,
+kan det føre til en oppfatning av at avgjørelsen om
+utestenging skal tas allerede da. Utvalget mener
+det kan være en fordel å kreve politiattest allerede
+ved opptaket fordi informasjonen om anmerkninger på politiattesten da vil komme frem på et tidlig
+stadium. I noen tilfeller vil anmerkningene være
+av en slik karakter at det allerede på det tidspunktet vil være klart at studenten vil bli utestengt fra
+praksis og klinisk undervisning. I tillegg vil institusjonen kunne gjøre studenten oppmerksom på
+forholdene, og informere om at det er en mulighet
+for at studenten vil bli utestengt på et senere tidspunkt. Da kan studenten selv vurdere om han
+eller hun ønsker å fortsette på studiet likevel.
+Utvalget anser at det er problematisk dersom
+institusjonen gir en student en tilbakemelding i
+forbindelse med opptaket om hvor sannsynlig det
+er at vedkommende blir utestengt på et senere
+tidspunkt, dersom denne tilbakemeldingen har
+karakter av å være en foregrepet saksbehandling.
+Et alternativ er å informere studentene ved opptak
+at politiattest kan kreves senere, men utvalgets
+oppfatning er at hensynet bak kravet om politiattest ivaretas bedre ved å kreve fremlagt politiattest alt ved opptak.
+Utvalget vil likevel understreke at det ikke er
+tilstrekkelig om institusjonene nøyer seg med en
+politiattest ved opptaket i de tilfeller hvor praksisstudier og klinisk undervisning kommer et
+stykke ut i studiet. Politiattesten bør være mest
+mulig oppdatert. Det er uheldig dersom institusjonen ender med å måtte bygge på dokumentasjon
+som er flere år gammel fordi institusjonen bare
+har innhentet attest ved opptaket. I slike tilfeller
+må institusjonen kreve to attester, én ved opptaket
+og én ved oppstarten av praksisstudier eller klinisk undervisning.
+Slik lovteksten er formulert i dag, sier den at
+institusjonene bare har anledning til å innhente
+politiattest enten ved opptaket til eller underveis i
+
+[Side 239]
+
+NOU 2020: 3
+Ny lov om universiteter og høyskoler
+
+studiet. Samtidig sier opptaksforskriften at politiattesten skal innhentes ved opptak, men at det kan
+innhentes en fornyet vandelsattest. Utvalget
+mener at lovteksten ikke samsvarer med reglene i
+forskriften, som best ivaretar forvaltningens plikt
+til forsvarlig saksbehandling. Utvalget foreslår
+derfor å endre ordlyden i dagens universitets- og
+høyskolelov § 4-9 første ledd til «ved opptak til og
+underveis i studiet.»
+
+23.3.1.5 Utestengning eller utelukkelse
+Ordlyden i dagens universitets- og høyskolelov
+§ 4-9 sier at studenten kan «utestenges» fra praksisstudier eller klinisk undervisning. Utestenging
+blir ellers i loven praktisert som full utestengelse
+fra hele studiet, og ikke bare deler av det. Utvalget
+foreslår derfor å bruke ordet «utelukke» istedenfor ordet «utestenge» i bestemmelsen for å vise at
+denne formen skiller seg fra de andre ved at studenten bare utelukkes fra deler av studiet.
+Universitets- og høyskoleloven § 4-9 fjerde
+ledd kan bare anvendes frem til det foreligger en
+rettskraftig dom eller saken er henlagt. Utvalget
+foreslår derfor også å presisere i den nye bestemmelsen at utelukkelse etter dette leddet er midlertidig.
+
+23.3.2 Skikkethet
+23.3.2.1 Lovstruktur
+Det står i dag i § 4-10 første ledd at «Kongen kan
+fastsette at i enkelte utdanninger skal institusjonen vurdere om den enkelte student er skikket for
+yrket.» Hvilke utdanninger dette gjelder er regulert i skikkethetsforskriften. I tillegg har dagens
+§ 4-10 siste ledd også en forskriftshjemmel. Tidligere var det en egen forskrift om hvilke utdanninger skikkethetsvurderingen skulle gjelder for,
+men denne er i dag opphevet,27 og listen over
+utdanningene er tatt inn i skikkethetsforskriften
+§ 1. Utvalget vurderer at det ikke lenger er behov
+for en egen bestemmelse i universitets- og høyskoleloven om at Kongen kan bestemme hvilke
+utdanninger som er omfattet av skikkethetsvurderingen. Utvalget foreslår derfor å endre ordlyden i
+dagens § 4-10 første ledd til «departementet gir
+forskrift om hvilke utdanninger som er omfattet av
+skikkethetsvurderingen og om saksbehandlingen
+i skikkethetssaker.» På bakgrunn av forslaget kan
+27
+
+Forskrift 7. oktober 2005 nr. 1109 om hvilke utdanninger
+som skal omfattes av skikkethetsvurdering etter lov om
+universiteter og høyskoler § 4-10.
+
+237
+
+Kapittel 23
+
+siste ledd oppheves, da denne bestemmelsen flyttes til første leddet.
+Utvalget foreslår videre å flytte bestemmelsen
+i skikkethetsforskriften § 2 inn i universitets- og
+høyskolelovens bestemmelse om skikkethet
+(dagens § 4-10). Skikkethetsforskriften § 2 beskriver hva en skikkethetsvurdering går ut på, og
+utvalget foreslår å flytte bestemmelsen for at den
+skal være lettere tilgjengelig, og for å forenkle
+regelverket. Vi foreslår også å endre ordlyden i
+bestemmelsen til følgende: «En student som oppfyller minst ett av kriteriene i forskrift 30. juni
+2006 nr. 859 om skikkethetsvurdering i høyere
+utdanning § x på en måte som utgjør en mulig fare
+for liv, fysisk eller psykisk helse, rettigheter eller
+sikkerhet til de pasienter, brukere, barnehagebarn, elever, eller andre studenten vil komme i
+kontakt med under praksisstudiene eller under
+fremtidig yrkesutøvelse, er ikke skikket for
+yrket.» Bakgrunnen for dette forslaget er at slik
+dagens § 2 og §§ 3 til 5 i skikkethetsforskriften er
+utformet, utgjør alle bestemmelsene alene selvstendige vilkår for at en student er uskikket. Ordlyden i §§ 3 til 5 tilsier at dersom et av vurderingskriteriene i bestemmelsene er oppfylt, er studenten uskikket, men det overordnede vilkåret fremkommer av § 2 i forskriften. Disse vurderingene
+burde ikke gjøres separat, men under ett. Etter
+utvalgets vurdering er ordlyden i § 2 grunnvilkåret for hva som må være oppfylt for at en student er uskikket, mens §§ 3 til 5 inneholder kriterier hvorav minst ett må være oppfylt på en måte
+som tilfredsstiller kravet i § 2.
+Videre mener utvalget at det er en svakhet ved
+dagens § 4-10 at den bare fastslår at en student
+som er funnet uskikket «kan» utestenges, uten å
+gi noen materielle kriterier for når en slik utestenging kan eller bør vedtas i tillegg til vedtak om
+uskikkethet. Utvalget foreslår derfor å ta inn i
+bestemmelsen hvor lenge studenten kan utestenges, og dermed flytte dette fra dagens § 12 i
+skikkethetsforskriften og inn i loven. I tillegg foreslår utvalget å legge til i bestemmelsen at studenten ikke skal utestenges i en lengre periode enn
+det som er nødvendig ut fra årsaken til at studenten er vurdert som uskikket.
+For å gjøre bestemmelsen mer forståelig foreslår utvalget å endre ordlyden i nytt tredje ledd fra
+«skal det foretas en særskilt skikkethetsvurdering» til «skal institusjonen åpne sak om skikkethetsvurdering». «Særskilt skikkethetsvurdering»
+er i dag verken forklart i loven eller i skikkethetsforskriften. Utvalgets oppfatning er at begrepet
+ikke gir veiledning. Hele ordlyden i tredje ledd
+blir da slik: «Hvis det er begrunnet tvil om en stu-

@@ -1,0 +1,856 @@
+# NOU 2023: 1, del 13 av 18 (side 142–151)
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/8ab02d64-nou-2023-1.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-1/id2961070/
+- Original-PDF: https://www.regjeringen.no/contentassets/8758c1a973ae4f94ab67e3830c96b9c9/no/pdfs/nou202320230001000dddpdfs.pdf
+- Tekst: hentet fra PDF. OBS: 12 tabeller, 6 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+
+---
+
+[Side 142]
+
+140
+
+Kapittel 10
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+skapskravene for de ulike fagene. Kunnskapskravene er fastsatt i læreplanverket for grunnskolen
+og den videregående opplæringen, både i form av
+overordnede mål og gjennom konkrete kursplaner for hvert enkelt fag. Sluttvurderingene gjøres
+blant annet gjennom utviklingssamtaler mellom
+elevene og lærerne, bruken av individuelle
+utviklingsplaner og karaktersetting. I grunnskolen settes det karakterer fra og med 6. trinn, men
+sluttvurdering gis bare ved slutten av 9. trinn. I
+den videregående opplæringen gis sluttvurdering
+når et kurs (fag) er gjennomført, noe som innebærer at elevene vil få noe sluttvurdering på alle
+trinn (Hovdhaugen mfl., 2022a).
+I Sverige inneholder sluttvitnemålet bare
+karakterer satt av lærere, og det finnes ingen felles eksamen i verken grunnskolen eller i den videregående opplæringen som kvalitetssikrer elevenes karakterer. I Sverige benytter de seg heller av
+tiltak som lærergodkjenning og nationella prov
+(nasjonale prøver) for å sikre god og likeverdig
+karaktersetting. Lærergodkjenning ble innført i
+2011, etter et vedtak i Riksdagen. Godkjenningsordningen omfatter alle lærere i grunnskolen og
+den videregående opplæringen, og er ment å sikre
+at bare lærere som har godkjent utdanning får lov
+til å sette karakterer. Det er Skolverket som godkjenner lærerne. Nyutdannede lærere må ha et
+prøveår, hvor de veiledes av en erfaren lærer, før
+de kan få godkjenning til å sette karakterer på
+egenhånd (Hovdhaugen mfl., 2022a).
+
+10.2.2 Videreutviklingen av kvalitetssystemet
+i Sverige
+Kvalitetssystemet i Sverige er i endring. Det nye
+kvalitetssystemet i Sverige, består av nasjonale
+målsettinger, delmål, indikatorer og utviklingsfaktorer (framgångsfaktorer) (Skolverket, 2022f).
+Systemet legger stor vekt på at skolene og skoleeierne skal få et bedre utgangspunkt for å identifisere viktige utviklingsområder, og bidra til å
+skape en felles forståelse for hva kvalitet og likeverd innebærer for skolevesenet. Det nye kvalitetssystemet består av
+– nasjonale målsettinger
+– delmål og indikatorer som synliggjør virksomhetenes resultater i forhold til de nasjonale målsettingene
+– utviklingsfaktorer som beskriver kvalitative
+aspekter ved opplæringen som også kan bidra
+til at skolene og skoleeierne oppnår de nasjonale målsettingene
+
+Med utgangspunkt i disse tre delene skal skolene
+og skoleeierne analysere resultatene sine og forutsetningene for å drive med systematisk kvalitetsutviklingsarbeid. Deretter skal denne analysen brukes som utgangspunkt i den påfølgende
+kvalitetsdialogen som skoleeierne får tilbud om.
+Kvalitetsdialoger vil dermed bli en sentral del av
+det nye systemet, hvor skoleeiere i løpet av en toårsperiode får tilbud om et samarbeid med Skolverket og Specialpedagogiska skolmyndigheten.
+Kvalitetsdialogen skal i hovedsak bestå av tre
+deler. Disse er
+– introduksjon til kvalitetsdialog, i form av digitale møter med vekt på prosessplanlegging,
+forutsetninger og analysegrunnlag
+– gjennomføring av kvalitetsdialog, hvor deltakerne i hovedsak møtes fysisk og samarbeider
+om skoleeierens styrker, utfordringer og
+behov. Dialogen i denne fasen baserer seg på
+skoleeierens systematiske kvalitetsarbeid
+(SKA)
+– oppfølging mot slutten av kvalitetsdialogen,
+hvor partene møtes fysisk eller digitalt og
+arbeider med viktige refleksjoner og erfaringer
+fra kvalitetsdialogen
+Kvalitetsdialogene er frivillige, og Skolverket og
+Specialpedagogiska skolmyndigheten kan gjennomføre dialogene med flere skoleeiere samtidig.
+Dette skiller kvalitetsdialogene fra tilsynsarbeidet
+til Skolinspektionen. Kvalitetsdialogen er i 2022 i
+en utprøvingsfase hvor bare et mindre utvalg skoleeiere er involvert (15 skoleeiere totalt). Utvalget
+skal i perioden 2022–2023 øke betraktelig, fra 15
+til 600, før ordningen med kvalitetsdialog skal
+være fullt implementert i andre halvdel av 2025.
+Det er om lag 1100 skoleeiere i Sverige, hvorav
+299 er kommunale. Alle skoleeiere får tilbud om
+én kvalitetsdialog i løpet av implementeringsfasen. Når implementeringsfasen er over, går ordningen over i toårssyklusen (Skolverket, 2022a).
+I videreutviklingen av kvalitetssystemet har
+svenske skolemyndigheter lagt vekt på å etablere
+et mer oversiktlig system. Et hovedmål har vært å
+konsentrere seg om et mindre antall nasjonale
+målsettinger som går på tvers av skoleformer. I
+videreutviklingen har myndighetene tenkt at skoleeiere skal benytte støttemateriellet som Skolverket utvikler i forbindelse med Systematiskt kvalitetsarbete i kvalitetsdialogene. Arbeidet med et
+nytt kvalitetssystem skal ses i sammenheng med
+arbeidet med Samverkan för bästa skola. Det nye
+systemet skal være ferdig utviklet før sommeren
+2023 (Lundahl, 2022; Skolverket, 2022a, 2022f).
+
+[Side 143]
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+10.3 Kvalitetsstyringssystemet i Finland
+I Finland er det Nationella centret för utbildningsutvärdering (NCU – Nasjonalt senter for
+utdanningsevaluering) som har ansvaret for kvalitetssikringsarbeid på nasjonalt nivå. Gjennom
+eksterne evalueringer produserer NCU-informasjon og anbefalinger om kvalitetsutvikling for
+lokale, regionale og nasjonale beslutningstakere.
+NCU har også i oppgave å støtte kommunene i
+deres arbeid med å evaluere og kvalitetssikre opplæringen.
+I Finland blir grunnskolene og de videregående skolene administrert av kommunene. Ansvaret for lokal tilrettelegging og prioriteringer i skolene er i stor grad desentralisert til lokale myndigheter. Det vil si til kommunene og til skolene selv.
+Ifølge opplæringsloven plikter kommunene å
+evaluere egen opplæring og delta i eksterne evalueringer av opplæringsvirksomheten. Kommunene
+som er ansvarlige for videregående skoler, plikter
+i tillegg å ha et fungerende kvalitetsstyringssystem (Huusko mfl., 2021).
+Kommunale selvevalueringer
+I Finland benytter kommunene selvevalueringer
+til å utvikle kvaliteten i skolen. Tanken er at kommunene, ved hjelp av informasjon fra selvevalueringene, skal utvikle egen virksomhet og undervisningskvalitet. Kommunene kan selv velge hvilken evalueringsmetode de vil benytte, men det er
+krav om at de publiserer de mest sentrale resultatene sine. Formålet med selvevalueringen er å
+støtte utviklingen av utdanningen og bedre forholdene for læring.
+En evaluering av selvevalueringssystemet
+viste at mange kommuner ikke utvikler kvalitetsstyringen sin i tilstrekkelig grad og dermed ikke
+utvikler en systematisk evalueringskultur. I tillegg
+viste evalueringen at mange kommuner ikke har
+tid, ressurser eller kompetanse til å gjennomføre
+arbeidet (Harjunen mfl., 2017). Etter at evalueringsresultatene ble gjort kjent, har det finske
+kunnskapsdepartementet utarbeidet en plan for
+hvordan staten skal utvikle støttetiltak for å forbedre kvalitetsstyringen i kommunene. Blant
+annet skal det utvikles nye nasjonale kvalitetskriterier for grunnskolen som skal gjelde i perioden
+2022–2028.
+
+141
+
+Kapittel 10
+
+Nasjonale utvalgsundersøkelser av elevenes læringsresultater
+På nasjonalt nivå er Nationella centret för utbildningsutvärdering (NCU) ansvarlig for å gjennomføre eksterne evalueringer i de ulike skolene og
+kommunene. Evalueringene gir informasjon om i
+hvilken grad skolene og kommunene oppnår
+læringsmålene, og de undersøker nivået på elevenes læringsresultater. NCU gjennomfører evalueringene som utvalgsundersøkelser og velger ut
+skoler og kommuner til å gjennomføre prøver i
+utvalgte fag. På denne måten får nasjonale
+myndigheter informasjon om elevenes kunnskaper og læringsresultater i ulike fag som de
+benytter i kvalitetsutviklingsarbeidet.
+På bakgrunn av resultatene fra utvalgsprøvene
+utarbeider NCU egne resultatrapporter til alle deltakerskolene og til kommunene som skolene tilhører. Rapportene er digitale og utformet slik at
+skolen eller kommunen kan sammenlikne egne
+resultater med gjennomsnittlige resultater på
+nasjonalt nivå. I tillegg får skolene tilgang til den
+nasjonale sluttrapporten som oppsummerer situasjonen for bestemte fag. Sluttrapporten er også
+viktig som en situasjonsbeskrivelse for det finske
+kunnskapsdepartementet, som har ansvaret for
+læreplanutviklingen og lærerutdanningen.
+Utover dette gjennomfører NCU tematiske
+evalueringer innenfor ulike temaer som det er
+behov for å evaluere. Disse temaevalueringene
+har de siste årene eksempelvis handlet om effektene av bedre undervisningspraksis og morsmålsundervisning for elever med innvandrerbakgrunn, i tillegg til ulike metoder for å forebygge
+mobbing. Også i slike tilfeller får kommunene vite
+hvordan deres eget resultat er opp mot det nasjonale gjennomsnittet.
+Nasjonale myndigheter i Finland gjennomfører andre evalueringer i skolene i tillegg til kvalitetsstøttearbeidet. De gjennomfører både nasjonale evalueringer og internasjonale undersøkelser
+som PISA, TIMSS og PIRLS. Finske myndigheter
+er i en prosess hvor de vurderer om det er behov
+for å evaluere flere fag parallelt, enn det som er tilfellet i dag.
+I dialogen med de finske skolemyndighetene
+trekker de også fram viktigheten av den
+forskningsbaserte universitetsutdanningen for
+lærere, som de mener er med på å opprettholde
+kvaliteten i grunnopplæringen i Finland.
+
+[Side 144]
+
+142
+
+Kapittel 10
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+Sluttvurdering og eksamen
+Formålet med vurdering i det finske utdanningssystemet er å veilede og følge med på elevenes
+opplæring, styrke deres forutsetninger for å drive
+med egenvurdering og å fremme en enhetlig og
+likeverdig grunnskoleopplæring. Dette bidrar
+lærerne til ved blant annet å gi elevene tilbakemeldinger som beskriver elevens framgang i forhold
+til opplæringsmålene som er satt for faget. Overordnet sett skal lærerne basere vurderingene av
+elevene på prestasjoner som eleven har vist, hvor
+det blir tydelig hvor godt elevene har nådd målene
+som er satt for faget. Formålet er med andre ord å
+støtte og veilede undervisning og skolearbeid, og
+å fremme en enhetlig grunnopplæring på like vilkår.
+Elevene i den finske grunnopplæringen gjennomfører ingen nasjonale prøver eller eksamener.
+Sluttvurdering gjøres i stedet av læreren på alle
+trinn, basert på de målene som er spesifisert for
+hvert fag i de lokale læreplanene. Dette gjelder
+også karakterene i grunnskolebeviset som elevene får når de fullfører 9. trinn, som danner grunnlaget for elevenes opptak til en videregående
+utdanning. For å bidra til stabilitet og likeverd i
+lærernes vurderinger, på tvers av klasser og skoler, inneholder den nasjonale læreplanen retningslinjer for vurdering i alle grunnskolens fellesfag.
+Disse kan benyttes av lærerne når de skal vurdere
+elevenes måloppnåelse i fagene.
+I Finland er det bare ved avslutningen av den
+studieforberedende videregående opplæringen at
+elever må gjennomføre eksamener. Disse eksamenene omtales som studenteksamen, og er de
+eneste eksamenene som finnes i den finske skolen. Studenteksamen består av en obligatorisk
+eksamen i finsk eller svensk morsmål og tre eksamener som eleven velger selv. Elevene kan da
+velge å ta eksamen i matematikk, finsk eller
+svensk språk (det språket som ikke tas som morsmålseksamen), fremmedspråk eller generelle fag
+(realfag, humaniora eller samfunnsfag). Elevene
+kan også velge å gjennomføre flere eksamener om
+de selv ønsker det. Elevene kan gjennomføre
+eksamener både på våren i mars og på høsten i
+oktober, som er de finske eksamensperiodene
+(Hovdhaugen mfl., 2022a).
+
+Boks 10.2 Videreutvikling av
+kvalitetsstyringssystemet i Finland
+Nye kvalitetsmål i grunnskolen
+Nasjonale myndigheter i Finland arbeider
+med å forbedre kvalitetsstyringen i grunnskolen. Den nåværende regjeringen har foreslått
+at det skal utarbeides klare og forpliktende
+kvalitetsmål for organisering av grunnskolen
+og indikatorer som beskriver hvordan skolene
+og kommunene oppnår målene. Formålet med
+kvalitetsmålene er å fastsette et likt nivå for
+opplæringstilbudet og lik undervisningskvalitet overalt i Finland.
+Kvalitetsprogram i den videregående opplæringen
+I 2021 startet det finske undervisnings- og kulturministeriet et kvalitets- og tilgjengelighetsprogram for de videregående skolene. Programmet har blant annet mål om å utvikle en
+kvalitetsstrategi for videregående skole, forbedre kvaliteten og tilgjengeligheten og å gi
+støtte til kommunene. Støtten til kommunene
+gjelder utvikling av ledelse av kvalitetsarbeid,
+kontinuerlig forbedring av kvalitet og utvikle en
+virksomhetskultur som støtter opp om dette.
+NCU deltar i kvalitetsprogrammets oppfølgingsgruppe (Huusko mfl., 2021).
+
+10.4 Oppsummering og utvalgets
+vurdering
+Utvalget merker seg at det er mange likhetstrekk,
+men også forskjeller i de danske, svenske og finske kvalitetsvurderingssystemene, sammenliknet
+med det norske systemet. Utvalget merker seg
+også at systemene og de enkelte delene i
+systemene blir debattert både i Danmark og Sverige. Utvalget merker seg også at det er enten vedtatt endringer for å legge større vekt på kvalitetsutvikling eller at slike endringer blir diskutert.
+Utvalget vil ta med seg disse betraktningene og
+diskutere dette videre inn i arbeidet med hovedinnstillingen.
+
+[Side 145]
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+143
+
+Kapittel 11
+
+Kapittel 11
+
+Spenninger knyttet til kvalitetsvurdering og kvalitetsutvikling
+i grunnopplæringen
+Kvalitetsvurdering og kvalitetsutvikling i grunnopplæringen har vært et område der mange spenninger, dilemmaer og kryssende hensyn har preget utviklingen. Av mandatet til utvalget går det
+fram at det har vært uenigheter og ulike oppfatninger om formålet med og omfanget av kvalitetsvurderingssystemet og hvordan man skal bruke
+resultatene. Spenningene er sammensatte og
+komplekse, og de omfatter flere nivåer og aktører.
+Kontroversene, spenningene og den offentlige
+diskursen handler om store temaer som hva skolen skal være, hvem som skal styre og kontrollere
+hva som skal skje i skolen og på hvilken måte.
+Samfunnet og hvilke politiske strømninger skolepolitikken til enhver tid befinner seg i, påvirker
+også spenningene.
+I dette kapitlet ser utvalget nærmere på noen
+av disse spenningene og dilemmaene.
+
+11.1 Spenninger knyttet til
+ansvarliggjøring og delegering
+Bakgrunn
+Innføringen av et nytt inntektssystem, befestningen av prinsippet om kommunalt selvstyre og den
+gradvise innføringen av mål- og resultatstyring på
+1980-tallet og 1990-tallet, førte til en utvikling der
+desentraliseringen av makt og oppgaver i skolesektoren på 1970-tallet, tok en ny form. En velkjent OECD-rapport (1989) satte som vist i kapittel 4 sitt tydelige preg på den offentlige debatten
+på slutten av 1980-tallet. Rapporten konkluderte
+med at nasjonale myndigheter hadde for lite informasjon til å utforme god skolepolitikk i et desentralisert system.
+Økt vektlegging av kommunenes og fylkeskommunenes skoleeieransvar hadde utviklet seg
+som en del av internasjonale reformer. Ulike rapporter pekte på hvordan OECD var en drivkraft
+for dette. Utviklingen kan knyttes til tre trender i
+internasjonal skolepolitikk de siste tretti årene,
+
+vektleggingen av 1) ansvarsstyring med vekt på 2)
+mål- og resultatoppnåelse innenfor 3) et forsvarlig
+system for skoleeierskapet (Grindheim mfl.,
+2014).
+Nye nasjonale verktøy ble etter hvert utviklet
+for å håndtere styringsdilemmaet og spenningene
+mellom sentrale mål og lokal frihet. Ansvarliggjøring gjennom målstyring og evaluering stod sentralt (Mausethagen og Hermansen, 2022). Dette
+var viktige begrunnelser for opprettelsen av et
+nasjonalt kvalitetsvurderingssystem.
+Spenningene, dilemmaene og de kryssende
+hensynene knyttet til ansvarliggjøring ble etter
+hvert tydelige på flere nivåer. Ekspertgrupperapporten om lærerrollen fra 2016 pekte på et sentralt dilemma som kom til uttrykk hos lærerne,
+skolelederne, skoleeierne og direktoratet. Dilemmaet handlet om å finne en hensiktsmessig
+balanse mellom strukturelle begrensninger (som
+lover og reguleringer) og kunnskapsmessige
+begrensninger (som veiledninger og satsinger) av
+det profesjonelle skjønnet på den ene siden og
+bevare et nødvendig lokalt handlingsrom på den
+andre siden (Ekspertgruppe om lærerrollen,
+2016).
+Forventningsstyring kan sees som et uttrykk
+for myndighetenes tillit til at oppgaver kan løses
+lokalt på skolene og i kommunene. Denne formen
+for styring kan samtidig bidra til usikkerhet i skolene og kommunene dersom forventningene oppleves som komplekse og oppdraget for «åpent»
+(Gunnulfsen mfl., 2022).
+Delegering av oppgaver og ansvar til skoleeierne
+Hensynet til det kommunale selvstyret og ønsket
+om lokal tilpasning og deltakelse er ofte begrunnelsen for å gi skoleeierne ansvaret for ulike tjenester og plikter. Samtidig har nasjonale myndigheter et legitimt behov for å styre for å oppnå
+nasjonale mål knyttet til for eksempel likhet og
+likeverd i tjenestetilbudet, rettssikkerhet og nasjo-
+
+[Side 146]
+
+144
+
+Kapittel 11
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+naløkonomi. Hvor balansepunktet er og bør være
+mellom lokal autonomi og behovet for nasjonal
+prioritering av viktige oppgaver, kan de ulike
+aktørene i skolen oppleve ulikt. Det kan dermed
+skape spenninger. I tillegg kan autonomien som
+tilsynelatende blir delegert gjennom desentralisering ofte skjule en tradisjonell maktutøvelse (Mausethagen og Hermansen, 2022).
+Et paradoks som blir tatt opp i flere sammenhenger er at de nasjonale overordnede målsettingene går i en retning av et større kommunalt handlingsrom, mens utviklingen på opplæringsområdet
+i realiteten går i en retning av mer regelstyring. Det
+kan utfordre den reelle muligheten skoleeierne har
+til å utnytte det lokale handlingsrommet. Enkelte
+har for eksempel pekt på at selv om de nasjonale
+kravene i skolesektoren kan sies å være få, skaper
+spesielt tilsynsordningens veiledere og anbefalinger likevel et stort behov for å ha kontroll med hva
+som skjer i skolene (Grindheim mfl., 2014).
+I et FoU-prosjekt på oppdrag fra KS er det
+gjennomført en studie av statlig styring av kommunene på blant annet opplæringsområdet. Analysene viser blant annet at ulike partier og regjeringskonstellasjoner i stor grad forfekter verdien
+av kommunalt handlingsrom i programerklæringer, men blir gjennomgående mer orienterte mot
+sentral styring når generelle styringsideer skal
+omsettes til faktisk politikk via sektorlovene
+(Danielsen mfl., 2019).
+Opplæringslovutvalget pekte i NOU 2019: 23
+Ny opplæringslov på at kommunene og fylkeskommunene opplever at de gjennomgående er for
+stramt styrt på opplæringsområdet, noe som kan
+få konsekvenser for muligheten de har til å drive
+lokal kvalitetsutvikling. Blant annet legger individuelle rettigheter og ulike krav til dokumentasjon,
+rapportering og systemer, føringer for hva som
+kommunene og fylkeskommunene skal prioritere.
+Noen av disse reglene har en viktig rolle i å sikre
+barn, unge og voksne i grunnopplæringen grunnleggende rettigheter, mens andre regler oppleves
+som mer uklare når det gjelder hvilket behov de i
+praksis skal ivareta.
+Opplæringslovutvalget pekte videre på at de
+mange skjønnsmessige reglene i loven gjør den
+krevende å anvende. I noen tilfeller oppleves det
+som uklart hva som skal være grunnlaget for den
+skjønnsmessige vurderingen, hvem som har myndighet til å gjøre vurderingen og i hvilken grad
+nasjonale myndigheter gjennom tilsyn kan overprøve skjønnsutøvelsen. Opplæringslovutvalget
+pekte på at selv om lærere og rektorer har en viktig rolle i utøvelsen av det faglige skjønnet, har
+skoleeierne også en sentral rolle når det gjelder å
+
+legge til rette for faglig utvikling og dialog mellom
+aktørene og å etterspørre faglige begrunnelser.
+Dette kan samtidig føre til spenninger knyttet til
+hvor grensene går for den faglig-pedagogiske
+skjønnsutøvelsen (NOU 2019: 23).
+Delegering av oppgaver og ansvar til skolelederne
+Det er ikke bare nasjonale myndigheter som delegerer oppgaver nedover i ansvarskjeden. Opplæringslovutvalget pekte på at en økende grad av
+delegering av oppgaver fra kommunen som skoleeier gjør dagens rektorrolle krevende (NOU 2019:
+23). I forskningen blir det pekt på at desentralisering og at ledere blir ansvarliggjort for elevresultater er en av driverne for en stadig mer krevende
+lederrolle i skolen (Møller, 2019).
+Opplæringslovutvalget understreker at det å
+delegere oppgaver krever at kommunen sikrer at
+rektor har god kunnskap om forvaltningsloven og
+annet aktuelt regelverk, i tillegg til bestemmelsene som er av mer direkte betydning for opplæringen. En forsvarlig delegering forutsetter også
+at det finnes et godt system for rapportering til
+nivået over og at rammebetingelsene for øvrig er
+tilstrekkelige (NOU 2019: 23).
+Det er dessuten pekt på at skoleledere opplever at de mangler kompetanse og kapasitet til å
+nyttiggjøre seg informasjonen fra det nasjonale
+kvalitetsvurderingssystemet (Ekspertgruppe for
+skolebidrag, 2021). Skoleledere rapporterer om
+konkrete dilemmaer i arbeidet med å prioritere og
+planlegge skolens arbeid på kort og lengre sikt,
+og med å definere hva som skal anses som et godt
+resultat (Skedsmo og Mausethagen, 2017a).
+Skoleledere må samtidig håndtere brytninger
+mellom styring og tillit, mellom relasjonelt arbeid
+og kunnskapsarbeid og mellom den lokale skolen
+og omverdenen, der mange interessenter har en
+mening om skolen (Møller, 2019).
+Skolelederne må også være til stede og lage
+gode samhandlingsrom og vise tillit til medarbeiderne sine gjennom å gi dem ansvar. Samtidig
+impliserer tillit risiko, som når ledere fordeler
+oppgaver som de selv blir målt på og selv må stå til
+ansvar for når noen etterspør det (Helstad mfl.,
+2019a).
+Som faglig-pedagogiske ledere av skolens
+samlede virksomhet har også skolelederne, med
+rektorene i spissen, en sentral rolle i oversettelsesarbeidet som skjer når lærere utvikler praksiser i den lokale skolen med støtte fra eksterne
+kompetansemiljøer (Helstad mfl., 2019a).
+Kravene til rapportering og dokumentasjon i
+skolen er i flere sammenhenger tatt opp som en
+
+[Side 147]
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+utfordring for det profesjonelle handlingsrommet.
+Utredningen av rapporterings- og dokumentasjonskrav i skolen fra 2014 viste at når kommuner,
+fylkeskommuner og nasjonale myndigheter driver
+kvalitetssikring og kvalitetsutvikling, fører det til
+økte forventninger og krav til at skolene dokumenterer og rapporterer om virksomheten sin.
+Rapporten pekte på at omfanget av rapporteringsog dokumentasjonskravene som stilles til skolene
+skyldes at kommuner, fylkeskommuner og nasjonale myndigheter «dels spiller med hverandre,
+dels mot hverandre» (Grindheim mfl., 2014).
+Delegering av oppgaver og ansvar til lærerne
+Selv om ansvaret for kvalitetsutvikling i skolen i
+stort er lagt på skoleeiernivået i lover og styringsdokumenter, er det i klasserommet og i samspillet
+mellom elevene og lærerne at skolens omfattende
+mandat realiseres. Det fører til det er lærerne som
+i stor grad må utføre oppgavene i forbindelse med
+blant annet testing, måling og rapportering av
+elevenes måloppnåelse.
+Studier har vist at nasjonale krav i kvalitetsvurderingssystemet gir et begrenset merarbeid for
+lærerne og skolelederne, men at rundt halvparten
+av kommunene pålegger for eksempel barneskolene å bruke flere kartleggingsprøver enn det de
+nasjonale myndighetene krever. Rundt halvparten
+av grunnskolene pålegger også lærerne å skriftliggjøre oppfølgingspunkter etter at de nasjonale
+prøvene er gjennomført, mens rundt en tredjedel
+av alle skoleslag skriftliggjorde oppfølgingspunkter etter Elevundersøkelsen. Spesielt kommunene, og til en viss grad fylkeskommunene, krever at skolene har skriftlige rutiner for den skolebaserte vurderingen (Grindheim mfl., 2014). I
+evalueringen av nye læringsmiljøregler går det
+fram at flere lærere opplever en økt dokumentasjonsbyrde. Noe er knyttet til en usikkerhet om
+hva som faktisk er kravene for rapportering. For
+eksempel viser evalueringen at enkelte lærere
+opplever å måtte lage aktivitetsplaner for å være
+på den sikre siden, selv om framstår som uklart
+om det er et behov eller et krav (Deloitte, 2019).
+Opplevde forventninger om raske forbedringer knyttet til elevenes resultater spiller ikke nødvendigvis på lag med lærernes syn på undervisning og læring, faglig skjønn og etablerte normer
+og etikk for lærerne som profesjon (Skedsmo,
+2022). Dette bidrar til at spenningene knyttet til
+styring også flytter inn i skolen. Standardisering
+av praksiser i klasserommene og skolene kan
+påvirke lærernes (og rektorenes) handlingsrom,
+og dermed skape nye spenninger dersom de opp-
+
+145
+
+Kapittel 11
+
+lever at endringene ikke er til det gode for å møte
+elevene på best mulig måte (Mausethagen mfl.,
+2019).
+Ulike logikker i styringen av skolene kan også
+føre til ulike ideer om hva det innebærer å være
+en lærer. Ekspertgruppen om lærerrollen omtaler
+lærernes behov for å bruke sin vurderingsevne i
+yrkesutøvelsen og påpeker at «utøvelse av skjønn
+kan beskrives som kjernen i profesjonelt arbeid».
+Et situasjonstilpasset profesjonsskjønn, der også
+deres egne erfaringer og elevkunnskap ses på
+som sentralt for å planlegge, gjennomføre og vurdere opplæringen, og gjennom dette å realisere
+skolens doble formål.
+Det har for eksempel blitt vist til at omfattende
+testing og offentliggjøring av resultatene kan stå i
+et misforhold til lærernes tradisjonelle oppfatning
+av yrkesgruppens profesjonalitet og den norske
+skolens verdigrunnlag (Seland mfl., 2015).
+Spenninger kan også oppstå mellom kollegaer
+internt på skoler. Resultater fra noen undersøkelser
+viser at til tross for lite bruk av sanksjoner, kan et
+sterkt driv for å få gode resultater påvirke forholdet
+mellom kollegaer negativt. Ofte står skolens rykte i
+lokalsamfunnet på spill. Spesielt i små kommuner
+med få skoler kan resultater fra de nasjonale prøvene spores tilbake til en liten gruppe lærere som
+er ansvarlige for elevene som har gjennomført prøvene. På denne måten er det et spørsmål om resultatene på nasjonale prøver kan bli «high stakes» for
+den enkelte læreren og skolelederen selv uten bruk
+av insentiver og formelle sanksjoner (Skedsmo,
+2022).
+Utover på 2000-tallet gikk myndighetene i
+større grad inn for å støtte skolene i arbeidet med
+utviklingsarbeid, der tiltakene på flere områder
+veiledet arbeidet til lærerne og skolelederne i
+bestemte retninger. Ekspertgruppen om lærerrollen beskrev dette som en form for profesjonalisering ovenfra og stilte spørsmålet om det i dette
+landskapet så en «ny reform» innenfor rammen av
+Kunnskapsløftet. Ekspertgruppen mente det var
+grunn til å tro at flere av initiativene som kom i
+kjølvannet av LK06 og LK06S, handlet om en kombinasjon av at lokale nivåer hadde etterspurt mer
+nasjonal støtte på den ene siden og utålmodighet
+fra nasjonale myndigheter om ønskede endringer
+på den andre. Dette mente ekspertgruppen kanskje kunne beskrives som «desentraliseringens
+paradoks». Nasjonale myndigheter desentraliserer oppgaver og ansvar til lærerne, men gjennom
+verktøyene og tiltakene som settes i gang for å
+«sikre» at lærerne gjør dette, genereres en
+mengde informasjon som politikerne oppfatter at
+
+[Side 148]
+
+146
+
+Kapittel 11
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+de må gjøre noe med (Ekspertgruppe om lærerrollen, 2016).
+
+11.2 Spenninger knyttet til det som
+måles og det som ikke måles
+Styringsdokumentene på 2000-tallet erstattet ofte
+begrepet skoleutvikling med kvalitetsutvikling, og
+vektla at kvalitet skulle vurderes i lys av resultater.
+Tanken var at dokumentasjon av resultater skulle
+bidra til at skolene og skoleeierne skulle kunne
+drive kvalitetsutvikling i tråd med behovene (Ottesen og Møller, 2010). Mens skoleutvikling typisk
+hadde fokusert på prosesser, ble søkelyset nå i
+større grad rettet mot læringsutbyttet (Aasen mfl.,
+2012).
+Forskning viser imidlertid at det fins ulikheter
+mellom lærernes, forskernes og politikernes forståelser av læringsutbytte. Det har konsekvenser
+for både pedagogiske og utdanningspolitiske prioriteringer og beslutninger. Hvordan læringsutbytte forstås er blant annet dypt forankret i
+spørsmål om hva læring er, og hvordan man bør
+arbeide med og anerkjenne læring. Lærere i ulike
+fag forstår læringsutbytte ulikt avhengig av fagenes egenart og praksis i ulike fag. Forskere forstår begrepet etter hvilke syn de har på læring.
+Politikere har omfavnet begrepet i vid forstand,
+men forstår det på ulike måter avhengig av politisk ståsted og knytter dermed ulike utdanningspolitiske tiltak og virkemidler til begrepet.
+Forskning har også vist at den dominerende forståelsen av læringsutbytte, med hovedvekt på
+resultater framfor prosesser, kan bidra til ensidighet i forståelsen av hva som er verdifull læring.
+Dette gjelder for eksempel når kvantitativ informasjon synes å ha en tendens til å bli definerende
+for hva som anerkjennes som læring. Å arbeide
+for en bred forståelse av læringsutbytte i opplæringen, og ta i bruk flere perspektiver for et sammensatt syn på hva læring er, synes å være viktig
+for ivaretakelse av all læring (Prøitz, 2015).
+Mens den norske grunnskolen primært har
+vært innrettet mot å gi alle innbyggerne en lik rett
+til utdanning i en landsdekkende og offentlig institusjon fundert på en kristen og humanistisk formålsparagraf, har lærerprofesjonaliteten blitt forstått som en særlig kompetanse for omsorg og
+læring og en etikk som bygger på ideer om hva
+som er best for elevene (Seland mfl., 2015).
+Enkelte har pekt på at det nasjonale kvalitetsvurderingssystemet og det daglige arbeidet i klasserommene og skolene, nærmest befinner seg i to
+parallelle verdener (Roald, 2010).
+
+I NOU 2015: 8 Fremtidens skole – Fornyelse av
+fag og kompetanser pekte utvalget på at kvalitetsvurderingssystemet måtte gjenspeile vesentlige
+endringer i skolens innhold. Utvalget mente at det
+var komplekse kompetanser elevene skulle
+utvikle i framtidens skole, og at elevene måtte
+kunne anvende kunnskaper og ferdigheter i ulike
+sammenhenger. Utvalget mente at standardiserte
+prøver ikke kunne fange opp kompleksiteten i fag
+og kompetanser. Utvalget understreket i tillegg at
+«det ikke er ønskelig eller gjennomførbart at verktøy i kvalitetsvurderingssystemet skal være heldekkende for den kompetansen elevene skal
+utvikle» og at «styrking av kollektive prosesser
+knyttet til skolebasert vurdering, lokalt læreplanarbeid og læreres standpunktvurderingspraksis
+kan bidra til kunnskapsbasert utvikling» (NOU
+2015: 8).
+Andre viser til at utviklingen mot et læringsfokusert ansvar gradvis har blitt styrket over tid, og
+at prestasjonsorienteringen i skolen til en viss
+grad har blitt institusjonalisert som en del av skolens praksis. Slik kan institusjonalisering føre til at
+politikere, forskere og andre i større grad snakker
+om å ta i bruk resultater fra tester og evalueringer
+som kunnskapsressurser i analysearbeid og skoleutvikling lokalt (Helstad og Mausethagen, 2022).
+En annen spenning knyttet til kvalitetsvurdering handler om hva kvalitetsvurderingssystemet
+gir informasjon om. Opplevelsen av at det bare er
+noen utvalgte grunnleggende ferdigheter og fag
+som blir målt, og at det er et for stort søkelys på
+elevenes faglige resultater (for enkelte områder)
+som kan gå på bekostning av de bredere målene.
+Forskere har beskrevet dette som et spenningsforhold mellom to ulike ansvarslogikker: å legge
+vekt på at det å forbedre elevenes faglige resultater er det viktigste målet for og i skolen, eller å
+fremheve bredere utdanningsmål og skolens samfunnsmandat (Mausethagen mfl., 2018b).
+
+11.3 Spenninger mellom kontroll og
+utvikling
+Flere studier problematiserer bruken av elevresultater. Dette gjelder spesielt nasjonale prøveresultater som grunnlag for utviklingsarbeid. Bruken av elevresultater får flere til å stille spørsmål
+om hva slags rom som skapes for utvikling og
+læring. Prøvenes doble formål om at resultatene
+skal å gi muligheten for kontroll og samtidig føre
+til utvikling blir trukket fram, og at den nasjonale
+utdanningspolitikken gjennomgående har under-
+
+[Side 149]
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+kommunisert kontrolldimensjonen (Skedsmo, 2022;
+Skedsmo og Mausethagen, 2017a).
+Når det gjelder kartleggingsprøver, er dette et
+område flere undersøkelser viser at spesielt
+lærerne har ulike holdninger til. I evalueringen av
+6-års-reformen framgår det at et stort flertall av
+skoleeiere og skoleledere mener at resultatene fra
+lokale og nasjonale kartleggingsprøver benyttes
+til kvalitetsutvikling av den enkelte skolen. Om lag
+halvparten av lærerne sier at kartleggingsprøvene
+påvirker undervisningen. Enkelte lærere uttrykker at kontroll av elevenes bokstavlæring og leseopplæring på den ene siden, og vektlegging av lek
+og å skape trygge læringsmiljø på den andre siden,
+oppleves som et krysspress (Bjørnestad mfl., 2022).
+Spenning mellom kontroll og utvikling kan
+man også finne igjen knyttet til andre statlige virkemidler, som tilsyn. Kontroll er tenkt å føre til
+utvikling, men i hvilken grad det blir opplevd som
+det ene eller det andre, kan avhenge av måten det
+gjøres på. Tilsynene kan for eksempel øke omfanget av rutiner og dokumentasjonskrav og øke oppmerksomheten mot spesifikke lovområder. I tillegg kan for eksempel tilsyn av elevenes utbytte
+av opplæringen bety et økt fokus på prosess og på
+arbeidet som foregår i klasserommet, men det
+kan også skape standardiserte praksiser som går
+utover muligheten til å gi tilpasset opplæring og la
+elevene medvirke. Forskere peker på at i hvilken
+grad tilsyn og andre kontrollmekanismer helt konkret påvirker lokale kvalitetsvurderingssystemer,
+bør diskuteres opp mot spørsmålet om hvordan
+systemene bidrar til å utvikle og sikre god praksis,
+samt hvilken ressursfordeling og hvilket kompetansebehov som er nødvendig (Mausethagen mfl.,
+2019b).
+Ekspertgruppen for skolebidrag konkluderer
+med at uenigheter om formålet med systemet kan
+føre til usikkerhet. Usikkerhet kan i sin tur gjøre
+rolle- og ansvarsfordelingen utydelig og påvirke
+handlingskompetansen. De peker videre på at en
+manglende helhet og sammenheng i kvalitetsvurderingssystemet kanskje kan forklare manglende
+helhet og sammenheng i det lokale arbeidet med
+kvalitetsutvikling. Ekspertgruppen mener at
+arbeidet med kvalitet i skolen og ansvaret for å
+bedre elevenes utbytte av opplæringen ikke kan
+legges på skolen alene, men må betraktes og
+behandles som et systemansvar. Det må være
+enighet blant alle aktørene i systemet om skolens
+doble oppdrag. Det skolefaglige innholdet i de lovfestede forpliktelsene må også være forstått på
+alle nivåene. Klar kommunikasjon og konsistent
+begrepsbruk fra toppen er en forutsetning for fel-
+
+147
+
+Kapittel 11
+
+les forståelse (Ekspertgruppe for skolebidrag,
+2021).
+
+11.4 Spenninger knyttet til «myk»
+styring
+Statlige reformer og tiltak i dag kan sies å være
+mer flersidig enn tidligere. Dels handler det om
+oppriktige ønsker om å gi støtte og hjelp og tilførsel av nødvendig kunnskap og ressurser. Dels
+handler det om å styre for å sikre at virksomheter
+som ikke leverer på definerte mål og som har
+negativ utvikling blir bragt inn i linjen. Samtidig er
+det pekt på at denne måten å styre på, gjerne kalt
+«myk styring» eller «modern governance», kan ha
+en tendens til å dekke over konflikter mellom
+ulike aktørgrupper og føre til mer styring (Prøitz,
+2021).
+Etter innføringen av Kunnskapsløftet i 2006
+ble flere nasjonale kompetanse- og utviklingstiltak
+igangsatt. Nasjonale myndigheter styrket den
+støttende delen av virkemiddelapparatet sitt i betydelig grad. Målgruppen for nasjonale støtte- og
+utviklingstiltak ble utvidet fra å gjelde kommunene, til også å gjelde lærerne og skolelederne.
+Det ble iverksatt en rekke målrettede kompetansetiltak som videreutdanning for lærere og rektorutdanningen. Nasjonale kompetanseutviklingstiltak rettet seg både mot spesielle trinn i skolen
+(Ungdomstrinn i utvikling) og utvalgte fag (Tett
+på realfag). Tiltakene var rettet mot ulike oppgaver (støtte til nyutdannede) og mot skole- og
+kommunenivået (veilederkorps, støtte til nettverk). Andre tiltak som Vurdering for læring handlet om å etablere lærende nettverk og om å bygge
+strukturer og kultur for kompetanse- og praksisutvikling. Utdanningsdirektoratet utviklet også en
+rekke verktøy som kunne støtte utviklingen av
+kvaliteten i opplæringen, som tilstandsrapporten,
+skoleeieranalysen og ståstedsanalysen for skoler.
+Tiltak som oppfølgingsordningen ble lansert med
+mål om å bidra til å heve kvaliteten lokalt.
+I forskningsprosjektet Tracing learning outcomes across policy and practice (LOaPP)/Læringsutbytte i politikk og praksis har forskerne studert
+utdanningspolitiske dokumenter i perioden 2010
+til 2018. Forskerne forklarer signalene i de siste
+årenes utdanningspolitiske dokumenter som en
+politikk som forsøker å balansere nasjonal styring
+via kompetansemål og profesjonell frihet i det
+pedagogiske arbeidet for å nå målene. Politikken
+gir også klare føringer på hva som er rett lærerkvalifikasjon, og forsøker å sikre måloppnåelse
+gjennom blant annet karakterkrav ved opptak til
+
+[Side 150]
+
+148
+
+Kapittel 11
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+lærerutdanning, innføring av masterutdanning og
+nasjonale etter- og videreutdanningstiltak (Prøitz,
+2020).
+Implementeringen av den desentraliserte ordningen for kompetanseutvikling hadde som mål å
+styrke den kollektive kompetansen i skolene ut fra
+lokale behov. Det skulle skje i samarbeid med universiteter og høgskoler lokalt. Det ble utviklet og
+forskriftsfestet retningslinjer for en tilskuddsordning som trådte i kraft fra årsskiftet 2020–2021. I
+den fikk statsforvalterne en avgjørende koordineringsrolle. I evalueringsrapporten av ordningen
+peker forskerne på at desentraliseringsgrepet i de
+nye ordningene for lokal kompetanseutvikling
+kan sies å være «i overensstemmelse med en
+generell utvikling, hvor man i økende grad søker
+å flytte makt og myndighet nedover i forvaltningen og å styre gjennom prosedyre- og kompetansekrav i lover og forskrifter». Rapporten identifiserer også noen spenninger. Gjennom de nye retningslinjene formaliseres desentralisert ordning
+som en tilskuddsordning. Rapporten peker på at
+statsforvalterne dermed får en tydeligere kontrollerende rolle. Statsforvalterne opplever på sin side
+at de nye retningslinjene har tydeliggjort forvalterrollen deres og brakt dem «tettere» på tilskuddsmottakerne. Tillitsvalgte opplever seg
+samtidig lite involvert i arbeidet, og skolelederne
+deler mange av disse synspunktene. Rapporten
+stiller spørsmål ved om dette kan være et område
+der aktørene snakker forbi hverandre (Fossestøl
+mfl., 2021).
+Til de nye læreplanene etter LK20 og LK20S
+ble det utviklet en digital læreplanvisning og en
+digital kompetansepakke som skulle gi støtte til
+skolene i arbeidet med å bruke, tolke og forstå det
+nye læreplanverket. Slike verktøy sammen med
+læreplanverket kan på den ene siden bidra til at
+lærerne og skolelederne får et godt arbeidsverktøy for det lokale læreplanarbeidet. På den andre
+siden kan skolene oppfatte disse verktøyene som
+bindende, og dermed kan de bidra til en sterkere
+nasjonal styring enn det som ligger i den rettslige
+reguleringen (Karseth, 2022).
+
+11.5 Spenninger knyttet til involvering
+og samarbeid
+Samhandlingsprosesser på ulike nivåer
+Økt vekt på deregulering og kvalitetsutvikling kan
+både øke avstanden og styrke samarbeidet mellom den enkelte skolen, den enkelte kommunen
+og staten. Samhandlingsprosessene man legger
+opp til er avgjørende for hvordan dette utvikler
+
+seg i den enkelte kommunen. Velutbygde
+systemer for egenvurdering ved den enkelte skolen, og involverende prosesser som inkluderer
+elevene, lærerne, foreldrene, skoleeierne og det
+politiske nivået pekes på som en viktig suksessfaktor (Roald og Øydvin, 2009).
+Dette bekreftes også av ekspertgruppen for
+skolebidrag. De konkluderer med at en forutsetning for at arbeidet med kvalitetsutvikling skal
+lykkes, er at det er god kontakt mellom skolelederne og skoleeierne, at kontakten er preget av
+gjensidig respekt, og at de er enige i grunnleggende spørsmål som skolens doble oppdrag og
+prinsipper for arbeid med kvalitetsutvikling.
+Ekspertgruppen løfter også fram at «medvirkning
+i alle ledd» kjennetegner skoler som gjør det bra i
+lys av skolebidragsindikatorene. Det går også
+fram av rapporten at det at lærerprofesjonen har
+et eierskap til tiltakene er en forutsetning for å
+lykkes (Ekspertgruppe for skolebidrag, 2021).
+Flere studier viser at der det er tillit mellom
+skoleledere og lærere, erfarer elevene en praksis
+som er i tråd med intensjonene i kvalitetsvurderingssystemet (Hopfenbeck, 2022). Andre studier
+legger vekt på at de som «lykkes» med bruk av
+nasjonale prøver er skoler hvor lærere og ledere
+tar et felles ansvar for kvalitetsutvikling og har en
+samarbeidsorientert kultur (Vestheim, 2018; Allerup, 2009).
+I Difis kartlegging av statlig styring av kommunene fra 2015 framgikk det at en økt vilje til og
+enighet om et behov for involvering og medvirkning mellom forvaltningsnivåene var et merkbart trekk ved grunnskoleområdet. Utviklingen
+med etablering av en rekke ulike partnerskap,
+nettverk og grupper på tvers av nivåer og med
+ulike aktørgrupper blir trukket fram i rapporten
+som et tegn på at det hadde skjedd en dreining i
+holdninger til samarbeid (Difi, 2015).
+Det er for eksempel signert en avtale om kvalitetsutvikling i barnehage og skole mellom KS og
+Kunnskapsdepartementet. Avtalen har blitt fornyet (med ulike endringer) flere ganger, og
+senest i 2022. Formålet med avtalen er å styrke
+kvaliteten i barnehagen og skolen og fremme
+læring, inkludering, motivasjon og mestring for
+alle barn og unge. Avtalen skal være et redskap
+for kvalitetsutvikling i barnehagen, grunnskolen
+og videregående opplæring. Ifølge pressemeldingen vil avtalen bli fulgt opp i konsultasjonsordningen mellom KS og regjeringen, og avtalepartene
+vil jevnlig ha dialog om tiltak og måloppnåelse.
+Avtalen gir ingen nye økonomiske forpliktelser
+(Kunnskapsdepartementet, 2022b).
+
+[Side 151]
+
+NOU 2023: 1
+Kvalitetsvurdering og kvalitetsutvikling i skolen
+
+149
+
+Kapittel 11
+
+KS har også utviklet et eget utviklingsprogram, ABSLOUTT, som samler aktører i lokalsamfunnet med ansvar for barn og unges oppvekst. I
+programmet deltar ordførere, kommunedirektører, ledere av oppvekstkomiteer, kommunalsjefer
+med ansvar for barnehage, skoler og oppvekst,
+ledere av barnehager, skoler, kulturskoler og PPtjenester, tillitsvalgte og barn og unge fra ungdomsråd. ABSOLUTT-programmet har oppmerksomheten rettet mot at de folkevalgte skal ha tett
+dialog med barn og unge, tillitsvalgte og administrasjon for å utvikle forståelse for egen rolle og
+ansvar, innsikt i hva som virker inn på barn og
+unges læring og utvikling og handlingskapasitet
+gjennom lærende prosesser.
+Evalueringen av programmet viser at kommuner som lykkes best med ABSOLUTT-programmet har et tett samarbeid mellom administrasjon
+og folkevalgte. Det samme gjelder arbeidet med å
+engasjere barn og unge blant annet gjennom å
+involvere ungdomsråd og elevråd. Evalueringen
+anbefaler at de gode erfaringene med å involvere
+foresatte, tillitsvalgte og andre aktører i lokalsamfunnet bør videreføres. Samtidig peker evalueringer på at tid, kapasitet, økonomi og manglende
+engasjement fra politisk hold har vært de viktigste
+utfordringene med satsingen. Rapporten peker
+også på utfordringer når det gjelder forholdet mellom å være i prosess og det å være en del av
+beslutningstakingen i et representativt demokrati
+(Buland mfl., 2022).
+Evalueringen av den desentraliserte ordningen for kompetanseutvikling identifiserer noen
+spenninger. Forskerne beskriver disse som klassiske problemstillinger i forholdet mellom stat og
+kommune, mellom kommune og skole, og mellom
+standardisering og lokal ressursutløsning basert
+på partnerskap og samarbeid. Forskerne peker
+samtidig på at det ikke eksisterer noen prinsipiell
+motsetning mellom disse spenningene. De forklarer dette med at lokalt og nasjonalt nivå ivaretar
+ulike hensyn og interesser som det er viktig at
+brynes mot hverandre, og som kan skape bedre
+løsninger enn hvis en part gjør det alene. Slike
+spenninger kan også utløse muligheter for
+ledelse, handlingsrom og lokalt tilpassede løsninger hvor aktører enkeltvis og sammen kan utvikle
+innovative og nye måter å løse oppgaver på,
+mener forskerne (Fossestøl mfl. 2021).
+
+ren og partene i arbeidslivet. Som en oppfølging
+av Meld. St. 28 (2015–2016) Fag – Fordypning –
+Forståelse – En fornyelse av Kunnskapsløftet og
+Innst. 19 S (2016–2017) utarbeidet departementet
+i enighet med partene i fagfornyelsen1 Strategi for
+fagfornyelsen av Kunnskapsløftet og Kunnskapsløftet
+Samisk (Kunnskapsdepartementet, 2017a). I strategien beskrives fasene i læreplanutviklingen og
+forventningene til aktørene. Strategien skulle
+bidra til bred involvering, legitimitet i prosessen
+og oppslutning om målsettingene og skulle sikre
+eierskap til læreplanverket.
+Fra høsten 2020 ble ny overordnet del og nye
+læreplaner for alle fagene i grunnskolen og den
+videregående opplæringen, inkludert opplæring i
+bedrift, innført som en del av det nye læreplanverket LK20 og LK20S.2 Samtidig med innføringen av
+det nye læreplanverket, ble det igangsatt en
+ekstern evaluering av fagfornyelsen. Evalueringen har vist at myndighetene lyktes med å involvere ulike aktører i utformingen av de nye læreplanene. Gjennom omfattende innspillsrunder har
+profesjonen,
+utdanningsinstitusjonene,
+ulike
+myndigheter, partene og interesseorganisasjonene fått mulighet til å fremme synspunktene
+sine. Likeledes uttrykker partene i strategien, i
+noe ulik grad, at involveringen har gitt dem mulighet til å delta både i etableringen av prinsippene
+for læreplanverket og i utformingen av læreplanverket. Denne involveringen er i mange sammenhenger beskrevet som samskaping. Samtidig kan
+begrepet samskaping også tilsløre den makten
+som er uttrykt gjennom grunnleggende føringer,
+innramming og sluttføring av prosessen, noe
+enkelte av aktørene gir uttrykk for (Karseth mfl.,
+2020). Det er også identifisert utfordringer og
+dilemmaer knyttet til «aktørmangfoldet» i skolen,
+nærmere bestemt at de mange aktørene som er
+involvert i arbeidet i og på tvers av nivåer og kontekster gjør det lokale arbeidet med å lande læreplanverkets sentrale begreper ekstra krevende
+(Gunnulfsen mfl., 2022).
+Første del av implementeringen av det nye
+læreplanverket har i stor grad vært preget av
+korona-pandemien. Det har gått ut over tid til det
+kollektive arbeidet og utviklingen av tolkningsfellesskapene i fagene som er viktig i implementeringen av et nytt læreplanverk.
+
+Samhandling om skolens innhold
+
+1
+
+I arbeidet med å utvikle nye læreplaner i fag gjennom fagfornyelsen ble det også lagt stor vekt på
+involvering og samskaping med utdanningssekto-
+
+2
+
+Sametinget, Kommunesektorens Organisasjon (KS),
+Norsk Lektorlag, Skolelederforbundet, Skolenes landsforbund, Utdanningsforbundet, Nasjonalt råd for lærerutdanning (NRLU) og Elevorganisasjonen
+Overordnet del ble fastsatt i 2019

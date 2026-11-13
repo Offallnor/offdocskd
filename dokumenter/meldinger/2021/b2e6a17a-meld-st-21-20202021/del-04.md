@@ -1,0 +1,94 @@
+# Meld. St. 21 (2020–2021), del 4 av 13
+
+- Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2021/b2e6a17a-meld-st-21-20202021.md
+- Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-21-20202021/id2840771/
+- Original-PDF: https://www.regjeringen.no/contentassets/581b5c91e6cf418aa9dcc84010180697/no/pdfs/stm202020210021000dddpdfs.pdf
+- Tekst: fra Word-fil lastet opp 2026-11-13, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
+
+---
+
+## Rett til læreplass eller likeverdig tilbud
+
+Regjeringen har som mål at flere skal få læreplass, og har satt i gang flere tiltak for å nå målet. *Samfunnskontrakt for flere læreplasser* har dannet et systematisk og målrettet grunnlag for samarbeid mellom partene i arbeidslivet og nasjonale myndigheter om læreplasser. Samarbeidet har forpliktet aktørene til å arbeide for å rekruttere flere lærebedrifter og styrke det lokale arbeidet med læreplasser. Kontrakten har gitt arbeidet med å skaffe flere læreplasser nødvendig oppmerksomhet, og antallet nye lærekontrakter har økt med 24 prosent i samfunnskontraktens to perioder fra 2012 til 2019. Tall for 2020 viser en nedgang på fire prosent fra året før, men det er grunn til å tro at nedgangen skyldes koronapandemien.
+
+For å få flere læreplasser og motvirke økonomisk kriminalitet innførte regjeringen 1. januar 2017 et krav om å bruke lærlinger i offentlige anbud, ofte omtalt som lærlingklausulen. Regjeringen har også innført en merkeordning for godkjente lærebedrifter for å synliggjøre hvilke bedrifter som har lærlinger og som dermed tar et samfunnsansvar. Regjeringen har på sin side tatt samfunnssvar ved å lage en strategi for å øke antallet lærlinger i offentlig sektor og kreve at statlige virksomheter skal ha minst én lærling. For å stimulere lærebedrifter til å ta inn lærlinger, har regjeringen økt lærlingtilskuddet med nær 25 000 kroner per kontrakt. Utstyrsstipendet for elever i fag- og yrkesopplæringen ble i 2020 økt med 25 millioner kroner for at det skulle bli bedre samsvar mellom stipendet og elevens utgifter til utstyr. Under koronapandemien innførte regjeringen tiltak rettet mot lærlinger og lærefag som ble spesielt hardt rammet. Det ble bevilget 170 millioner kroner som fylkeskommunene kunne bruke til lokalt tilpassede tiltak for lærlinger, og 175 millioner kroner til en ekstraordinær økning i lærlingtilskuddet.
+
+De siste ti årene har altså stadig flere fått den læreplassen de trenger for å fullføre opplæringen, men fortsatt står det hvert år en gruppe elever uten læreplass. I 2019 gjaldt det 6 300 søkere. 3 990 av dem var ungdommer med ungdomsrett.[^105] I 2020 steg antallet til omtrent 4 400 ungdommer uten læreplass. Det er trolig koronapandemien som forklarer denne økningen. Av ungdom som ikke får læreplass, er det noen som tegner lærekontrakt senere. Andre begynner i annen fagopplæring, som Vg3 i skole eller lærekandidat, eller de tar påbygging til generell studiekompetanse.[^106]
+
+Elever som ikke får læreplass, fullfører VGO i mindre grad enn de som får læreplass, og mange står uten arbeid senere i livet. En analyse av dem som søkte, men ikke fikk læreplass i 2010, viser at 56 prosent hadde fullført VGO innen skoleåret 2018–2019. Det er 31 prosentpoeng lavere enn de som fikk læreplass i samme periode. Ni år etter er andelen som verken er i arbeid eller utdanning, nær dobbelt så stor for dem som ikke fikk læreplass sammenlignet med dem som fikk plass.[^107]
+
+Retten til VGO innebærer ikke en rett til læreplass. Overgangen fra skole til læretid blir derfor pekt på som et strukturelt hinder i VGO.[^108] Mens elever i studieforberedende utdanningsprogrammer er tatt inn til et sammenhengende treårig løp, er de fleste som ønsker en fagutdanning, avhengige av å bli valgt ut av en lærebedrift.
+
+2.
+
+Det er sammensatte årsaker til at ungdommer ikke får læreplass og noen utfordringer har vist seg å være kompliserte å løse opp i. Et problem er at tilgangen til læreplasser er konjunkturavhengig, og at ikke alle bedrifter som trenger arbeidskraft i fremtiden, kan ta inn lærlinger hvert år. I flere bransjer har dette blitt en særlig aktuell problemstilling som følge av de økonomiske utfordringene av koronapandemien. Et annet problem er at det ikke alltid vil være samsvar mellom kortsiktige og langsiktige kompetansebehov i regionen, ungdommenes utdanningsønsker og tilgang på læreplasser.[^109] Fylkeskommunenes arbeid med og tiltak for bedre dimensjonering av det videregående tilbudet er nærmere beskrevet i kapittel 8.2.
+
+Et siste problem er at ikke alle ungdommer er klare til å gå ut i arbeidslivet rett etter Vg2, og opplever at overgangen fra skole til lære blir krevende og brå. Noen ungdommer er ikke modne nok til å mestre arbeidsdagen og arbeidstagerrollen. Andre kan ha psykiske utfordringer som gjør arbeidet med å skaffe seg læreplass og etablere kontakt med lærebedrift utfordrende. Noen ungdommer kan også ha særskilte behov som krever god tilrettelegging og oppfølgning både fra skolen og i lærebedriften. Bedrifter kan være nølende fordi de ikke vet hvordan ungdommene vil fungere som lærlinger, eller hva som kreves av ekstra tilrettelegging.[^110] Det kan også hende at opplæringen vil kreve mer ressurser enn det virksomhetene har mulighet til å gi.
+
+Dette fører til at en del ikke får læreplass selv om bedriftene har behov for eller ønsker lærlinger. I NHOs kompetansebarometer svarer 40 prosent av lærebedriftene i undersøkelsen at de har latt være å ta inn lærlinger selv om de har et behov. Bedriftene begrunner dette med at de har erfaring med lærlinger som har hatt høyt fravær og dårlige praktiske og sosiale ferdigheter.[^111] Elevenes karakterer og fravær fra skolen ser også ut til å påvirke i hvilken grad de får læreplass. En analyse fra Utdanningsdirektoratet peker blant annet på at elever med lave karakterer og høyt fravær på Vg1 og Vg2 i mindre grad får læreplass enn andre elever.[^112] En annen analyse finner at gutter med innvandringsbakgrunn er overrepresentert i gruppa med ungdommer uten læreplass. Selv kontrollert for fravær og karakterer kommer gutter med innvandringsbakgrunn vesentlig dårligere ut enn øvrige søkere.[^113]
+
+Elever som ikke får læreplass, har rett på Vg3 i skole. I 2020 var det 1 304 elever som benyttet seg av tilbudet, og flere fylkeskommuner har økt antallet elevplasser som følge av koronapandemien.[^114] Antallet elever som deltar i tilbudet, er imidlertid lavt sammenlignet med antallet som står uten en læreplass. En årsak til det kan være at tilbudet har vesentlige mangler og anses som en nødløsning av fylkeskommunene, elevene og partene i arbeidslivet.[^115] De fleste tilbudene om Vg3 i skole starter sent på høsten, og noen så sent som november.[^116] Elevene får dermed et unødvendig opphold i opplæringen som kan øke sannsynligheten for frafall. Vg3 i skole varer som regel ett år, men flere fylkeskommuner har etablert utvidede ordninger.<sup>�</sup>[^117] Av dem som begynte på Vg3 i skole i 2014, hadde 70,5 prosent fullført innen fem år. Tilsvarende tall for lærlinger er 85 prosent.
+
+Flere offentlige utvalg har diskutert å innføre en rett til læreplass for elever i fag- og yrkesopplæringen. Liedutvalget og opplæringslovutvalget mente at å innføre en rett til læreplass alene ville innebære en urimelig inngripen overfor bedriftenes frihet, da det ville vært bedrifter som måtte innfri retten. Stoltenbergutvalget foreslo å innføre en rett til læreplass for alle elever som fullfører Vg2 yrkesfag, og at fylkeskommunene gis en rekke virkemidler for å skape den nødvendige likevekten i markedet for læreplasser.[^118]
+
+### Regjeringens vurderinger og tiltak
+
+Fag- og yrkesopplæringen er et satsingsområde for regjeringen. Det har gitt gode resultater. Blant annet søker omtrent halvparten av elevkullene seg til fag- og yrkesopplæringen, flere fullfører og antallet som får lærekontrakt etter Vg2, har økt. Samtidig viser de økonomiske konsekvensene av koronapandemien at det er noe vanskeligere å få læreplass, at mange lærlinger har vært permittert, og at flere er avhengige av Vg3 i skole for å fullføre.
+
+Regjeringen mener at både ringvirkningene av koronapandemien og mangelen på læreplasser viser at det er behov for å gi elevene i fag- og yrkesopplæringen en større sikkerhet for at de får gjennomført et helt og sammenhengende opplæringsløp enn hva tilfellet er i dag. Elevene som begynner i studieforberedende løp, risikerer ikke på samme måte som fag- og yrkeselever å ikke få gjennomført Vg3. Elever som begynner på et yrkesfaglig utdanningsprogram, må også vite at de kan fullføre med en verdsatt kompetanse uten mye venting, usikkerhet og store forsinkelser. Dette er viktig for å nå regjeringens mål om god rekruttering til yrkesfag og flere fagarbeidere. Regjeringen vil derfor innføre en *rett til læreplass eller et likeverdig tilbud.* Retten vil gi et tydelig signal til elever om at læreplass er målet, men også at de i større grad er sikret progresjon i opplæringsløpet.
+
+Regjeringen vil ikke innføre en rett som bare kan oppfylles gjennom at søkeren får læreplass. Det måtte enten ha medført svært streng styring av elevenes utdanningsvalg eller å pålegge bedrifter å ta inn lærlinger. Regjeringen ønsker heller ikke at opprettelse av lærebedrifter skal være en plikt for fylkeskommunene, slik Stoltenbergutvalget foreslo. Retten til læreplass skal derfor kunne oppfylles gjennom en læreplass, eller at søkere som ikke får læreplass, får et likeverdig tilbud. Med likeverdig tilbud mener regjeringen tilbudet som i Prop. 1 S 2020–2021 blir kalt Fagbrev som elev, som det er bevilget 150 millioner kroner til. Fagbrev som elev vil ha ny organisering, innhold og finansiering som til sammen skal gi et likeverdig tilbud som læreplass. Det blir et utvidet tilbud som har bedre kvalitet sammenlignet med dagens Vg3 i skole. Elevene skal, som i dag, møte de samme kravene til sluttkompetansen i fag- eller svenneprøven som lærlingene i faget. Kunnskapsdepartementet leder våren 2021 en prosess med partene i arbeidslivet, lærer- og elevorganisasjoner og fylkeskommunene for å utvikle et best mulig tilbud.
+
+Lærlingordningen er og skal fortsatt være førstevalget for dem som ønsker et fag- eller svennebrev. Tilbudet skal ikke være en del av det ordinære tilbudet elevene kan søke seg til, og eleven skal fortsatt kunne formidles til læreplass i løpet av opplæringsperioden.
+
+Det er nødvendig å se nærmere på en eventuell rett til læreplass eller likeverdig tilbud til voksne i fag- og yrkesopplæringen. Dette følges opp i arbeidet med ny opplæringslov og vil blant annet avhenge av hvordan voksnes rett til inntak i VGO blir.
+
+Ny samfunnskontrakt for flere læreplasser
+
+Det har over tid vært gjort et systematisk og målrettet arbeid med å skaffe flere læreplasser. Arbeidet har involvert partene i arbeidslivet, fylkeskommunene og nasjonale myndigheter og samarbeidet gjennom *Samfunnskontrakt for flere læreplasser* har spilt en sentral rolle. Blant annet har antallet nye lærekontrakter økt med 24 prosent i perioden før koronapandemien fra 2012 til 2019. Det har også blitt 3 588 flere godkjente lærebedrifter som har lærling i perioden fra 2012 til 2020.[^119] Det viser at det fungerer med målrettede tiltak for å rekruttere nye lærebedrifter og for å få godkjente lærebedrifter til å ta inn lærlinger.
+
+Regjeringen ønsker derfor å videreføre og styrke samarbeidet mellom partene i arbeidslivet og utdanningsmyndighetene gjennom *Samfunnskontrakt for flere læreplasser*. Samarbeidet har forpliktet aktørene til å arbeide systematisk og målrettet med å rekruttere flere lærebedrifter og til å styrke det lokale arbeidet for læreplasser. Samfunnskontraktene har gitt resultater og bidratt til oppmerksomhet. En ny samfunnskontrakt må fortsatt ha som mål at alle kvalifiserte søkere skal få tilbud om læreplass, og at flere skal bli kvalifisert til læreplass. Det vil også være aktuelt å legge vekt på hvordan flere gutter med innvandrerbakgrunn kan få læreplass. En ny samfunnskontrakt må ta høyde for at koronapandemien skaper utfordringer for elever og lærlinger i fag- og yrkesopplæringen.
+
+Videreutvikle lærlingklausulen for å få flere læreplasser
+
+Lærlingklausulen ble innført 1. januar 2017 og innebærer at offentlige oppdragsgivere stiller krav til at leverandører er tilknyttet lærlingordningen og har med lærlinger i arbeidet med å oppfylle kontrakten. Klausulen skal motvirke økonomisk kriminalitet, bidra til flere læreplasser og utdanne flere fagarbeidere. En evaluering finner at innføringen av lærlingklausulen sammenfaller med en vesentlig økning i antallet læreplasser i privat sektor.[^120] Beregninger viser at det er en stigning på 2,2 prosentpoeng i sannsynlighet for at en søker får læreplass etter at lærlingklausulen ble innført. Det betyr at 640 flere læreplasser etter 2017 kan tilskrives klausulen. Evalueringen finner også at det har vært en økning i andelen offentlige kontrakter som stiller krav om bruk av lærlinger, og peker på at mye av denne økningen kan forklares med innføringen av lærlingklausulen.
+
+Regjeringen mener det er positivt at lærlingklausulen har bidratt til en økning i antall læreplasser, og merker seg at evalueringen viser at klausulen har potensial til å skape enda flere. Regjeringen vil vurdere hvordan lærlingklausulen kan videreutvikles for at den skal bidra til enda flere læreplasser, og vil vurdere tiltak for å sikre bedre etterlevelse av klausulen.
+
+I lærlingklausulen gis det fleksibilitet til at oppdragsgivere kan stille krav om bruk av lærlinger der de mener det er et særlig behov for læreplasser. Fleksibiliteten til oppdragsgiver gjør klausulen målrettet. Samtidig viser evalueringen at oppdragsgivere finner det utfordrende å vurdere hvilke bransjer som har særlig behov for læreplasser, og anbefaler at informasjon om dette må gjøres bedre tilgjengelig. Evalueringen peker også på at et mulig forbedringspunkt kan være å klargjøre regelverket i situasjoner der bedrifter ikke får tak i lærlinger.
+
+Evalueringen anbefaler en mer systematisk oppfølgning av hvordan krav om lærlinger etterleves etter at kontrakter er inngått. Et minimumsnivå av oppfølgning av alle kontrakter kan bidra til en større grad av etterlevelse og dermed en større effekt på antall læreplasser. Samtidig er det grunn til å vurdere dette i sammenheng med nivået på terskelverdiene, som er offentlige kontrakter med en verdi på mer enn 1,3/2,05 millioner kroner og med varighet på mer enn 3 måneder. Det kan tenkes at en lavere terskelverdi kan føre til at flere oppdrag favnes av lærlingklausulen. Men en lavere terskelverdi kan gjøre det mer utfordrende å følge opp og kontrollere at kravet om lærlinger faktisk følges. I det videre arbeidet med lærlingklausulen må de ulike hensynene vurderes.
+
+1.  Kampanjen Læreplassjeger
+
+Læreplassjeger er en landsomfattende kampanje i regi av WorldSkills Norway som handler om å jakte læreplasser. Hensikten er å bidra til at flest mulig skal få en læreplass, bli lærling og fullføre med fag- eller svennebrev. Kampanjen avholdes årlig og ble lansert for første gang i forbindelse med Yrkesfagenes år i 2018. En rekke organisasjoner og fylkeskommunene samarbeider om kampanjen. Bransjeorganisasjoner, opplæringskontor og skoler bidrar til at potensielle lærebedrifter blir oppsøkt og oppfordret til å ta inn lærlinger. Som del av Utdanningsløftet ble det bevilget fem millioner kroner til organisasjonen WorldSkills for å gjennomføre aksjonen Læreplassjeger.
+
+Rammeslutt
+
+Likeverdig tilbud til dem som ikke får læreplass
+
+Det å fullføre en utdanning er viktig for fremtidig sysselsetting. Elever som ikke får læreplass, har lavere fullføringsgrad og er i mindre grad sysselsatt enn dem som får læreplass. Samtidig viser en analyse fra SSB av søkere som ikke fikk læreplass, at det å fullføre en utdanning har en sterkere betydning for tilknytning til arbeidsmarkedet enn det få læreplass.[^121] Det taler for at de som ikke får læreplass, bør få mulighet til å fullføre sin VGO på en annen måte og i et tilbud med bedre kvalitet enn i dag.
+
+For at flere skal fullføre fag- og yrkesopplæringen og for at arbeidslivet skal få tilgang på fagarbeidere, vil regjeringen erstatte Vg3 i skole med et nytt tilbud som foreløpig er kalt Fagbrev som elev. Elevene skal møte de samme kravene til sluttkompetanse i fag- eller svenneprøven som lærlingene i faget. Et forbedret tilbud kan føre til at elever som ellers ville takket nei til Vg3 i skole, takker ja til det nye tilbudet. Det gir flere mulighet til å fullføre VGO med fag- eller svennebrev.
+
+Kunnskapsgrunnlaget viser at det er vesentlige mangler ved dagens tilbud om Vg3 i skole når det gjelder varigheten på tilbudet, når tilbudet starter opp, og hvordan tilbudet organiseres.[^122] Vg3 i skole varer som regel ett år, mens lærlingene har to års læretid. Tiden lærlingene bruker til verdiskaping, fører også til læring og erfaring fra arbeidslivet. Det nye tilbudet må derfor ha lengre varighet enn dagens Vg3 i skole.
+
+Vg3 i skole starter gjerne sent i skoleåret, slik at mange får et opphold i opplæringen sin i overgangen fra Vg2 til Vg3. Mange fylkeskommuner melder om at Vg3 i skole som regel starter sent på høsten, og at oppstart så sent som november forekommer. At tilbudet starter sent, er uheldig for ungdommene det gjelder, samtidig som det kan øke sannsynligheten for frafall. Det nye tilbudet må starte opp tidligere enn dagens Vg3 i skole.
+
+Fagbrev som elev må favne en variert elevgruppe. Enkelte kan ha behov for tilbudet på grunn av lavkonjunktur i arbeidsmarkedet og mangel på læreplasser som følge av koronapandemien. Andre har svake faglige forutsetninger eller andre utfordringer som gjør overgangen til lære utfordrende.
+
+Tilbudet bør ikke være en del av det ordinære tilbudet elevene kan søke seg til, og det er et mål at eleven fortsatt skal kunne formidles til læreplass i løpet av opplæringsperioden. Dette kan bidra til å kvalifisere flere elever som ikke er klare for overgangen til lære rett etter Vg2.
+
+Regjeringen vil utforme tilbudet i dialog med partene i arbeidslivet, lærer- og elevorganisasjoner og fylkeskommunene. Regjeringen vil legge opp til en bred prosess for å utvikle rammene for Fagbrev som elev, slik at tilbudet organiseres bedre og blir et likeverdig tilbud til læreplass.
+
+Regjeringen vil
+
+- foreslå å innføre en ny rett til læreplass eller et likeverdig tilbud som del av opplæringsloven
+
+- videreføre og styrke *Samfunnskontrakt for flere læreplasser* en ny periode
+
+- videreutvikle lærlingklausulen for at den skal bidra til enda flere læreplasser, og vurdere tiltak for å sikre bedre etterlevelse av klausulen
+
+- foreslå å opprette et nytt likeverdig tilbud for dem som ikke får læreplass. Tilbudets innretning og innhold utvikles i samarbeid med partene i arbeidslivet, lærer- og elevorganisasjoner og fylkeskommunene.
+
+5.

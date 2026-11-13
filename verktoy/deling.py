@@ -89,7 +89,7 @@ def _grupper(enheter):
 def _pdf_overskrifter(tekst):
     """Nummererte overskrifter i PDF-tekst (1, 1.2, 1.2.3 fulgt av tekst med stor forbokstav på egen, kort linje)."""
     funnet = []
-    for m in re.finditer(r"(?m)^ *(\d{1,2}(?:\.\d{1,2})?) {1,3}([A-ZÆØÅ][^\n]{2,70})$", tekst):
+    for m in re.finditer(r"(?m)^ *(\d{1,2}(?:\.\d{1,2}){0,2}) {1,3}([A-ZÆØÅ][^\n]{2,70})$", tekst):
         nr, tittel = m.group(1), m.group(2).strip()
         if re.search(r"\d{3,}|  {2,}|\.{3}", tittel) or (nr.isdigit() and int(nr) > 40):
             continue
