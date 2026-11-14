@@ -1,981 +1,158 @@
-# NOU 2025: 5, del 10 av 17 (side 135–145)
+# NOU 2025: 5, del 10 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2025/f0f29cae-nou-2025-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2025-5/id3094205/
 - Original-PDF: https://www.regjeringen.no/contentassets/3851f71301cf4747875a444d10b7b379/no/pdfs/nou202520250005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 41 tabeller, 53 figurer, 1670 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 135]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-På bakgrunn av økningen i «uhelse» i kvinnedominerte sektorer gjennomførte Arbeidsmiljøverket prosjektet «Kvinnors arbetsmiljø» i perioden
-2011–2016. Prosjektet ble videreført i en særskilt
-satsing for å skape bedre arbeidsmiljø for både
-kvinner og menn i kvinnedominerte sektorer med
-høyt sykefravær, se boks 7.2.
-
-7.1.1
-
-Utviklingen av
-arbeidervernlovgivningen
-I tiden før fabrikktilsynsloven fra 1892, var arbeidervernlovgivningen knyttet til vern av særskilte
-grupper arbeidstakere, som tjenestefolk, håndverksarbeidere i byene, sjøfolk, bergverksarbeidere og jordbruksarbeidere. I 1885 nedsatte
-Indredepartementet en arbeiderkommisjon som
-fikk i oppdrag å komme med forslag til lov for
-vern av arbeidstakerne mot ulykker, og om offentlig tilsyn med arbeidsforholdene i fabrikker. I innstillingen som ble gitt i 1887, ble det også foreslått
-bestemmelser om begrensninger i arbeidstiden,
-inkludert innskrenkninger i muligheten til å
-benytte nattarbeid, kontraktsvern og særregler
-for kvinner, barn og unge.
-Forslaget var omdiskutert, og etter flere utsettelser ble loven vedtatt i 1892 og trådte i kraft
-1. juli 1893. Fabrikktilsynsloven (190) innførte et
-generelt vern for arbeidstakere i «enhver fabrikkmessig drevet virksomhet». Selv om behovet for
-vernebestemmelser kunne ha sin opprinnelse i
-kvinnedominerte virksomheter, ble bestemmelsene gjort gjeldende for alle. Tilsynet skulle utføres av to fabrikkinspektører og av kommunale tilsynsorganer.
-Det ble utover 1900-tallet vedtatt flere
-endringer i fabrikktilsynsloven, bl.a. ble det i 1909
-besluttet at en av fabrikkinspektørene skulle være
-kvinne, og «Det kvinnelige fabrikkinspektorat»
-skulle ha ansvaret for de kvinnelige arbeidsplassene. Dette kunne være arbeid i tekstilindustrien,
-bryggerier og mineralvannfabrikker, fyrstikkfabrikker og bakerier. Den første kvinnelige
-fabrikkinspektøren var Betzy Kjelsberg, som
-hadde denne stillingen i perioden 1910 til 1936.
-I 1919 ble arbeidstiden satt ned til 48 timer per
-uke, og åtte-timersdagen ble innført.
-Først i 1936 ble en ny lov om arbeidervern
-vedtatt. Loven dekket med få unntak alle arbeidsforhold til lands, og kan kalles den første alminnelige arbeidervernlov. Alminnelige regler om vern
-mot usaklig oppsigelse og om rett til ferie ble innført. Med enkelte mindre endringer ble loven av
-1936 stående til 1956, da en ny arbeidervernlov
-ble vedtatt. Denne inneholdt en rekke nye regler,
-
-133
-
-Kapittel 7
-
-bl.a. om utvidet ansvar for arbeidsgiver på arbeidsplasser med flere arbeidsgivere, om det organiserte vernearbeidet, om adgang til å påby legekontroll og om oppsigelsesvern for sykmeldte
-arbeidere.
-Samfunnsutviklingen og utvikling av teknologi
-i industrien, førte etter hvert til behov for en ny og
-mer moderne arbeidervernlovgivning. Kommunal- og arbeidsdepartementet satte i 1974, i gang
-arbeidet med en større revisjon av arbeidsmiljøloven. Lov om arbeidervern og arbeidsmiljø mv.,
-trådte i kraft 1. juli 1977. Kravet om at både fysisk
-og psykisk arbeidsmiljø skulle være fullt forsvarlig, ble for første gang presisert i arbeidsmiljøloven av 1977.
-I løpet av 1980- og 1990-tallet ble det betydelig
-mer søkelys på psykososiale og organisatoriske
-risikofaktorer på arbeidsplassen. På 2000-tallet ble
-det innført mer spesifikk lovgivning og veiledning
-om psykososialt arbeidsmiljø. På bakgrunn av
-Arbeidslivslovutvalgets (191) forslag kom dagens
-arbeidsmiljølov i 2005 med vesentlige endringer,
-og erstattet arbeidsmiljøloven av 1977. I 2005loven om arbeidsmiljø, arbeidstid og stillingsvern
-(arbeidsmiljøloven) ble reglene om krav til organisatoriske og psykiske faktorer i arbeidsmiljøet
-styrket, bl.a. ved at loven fikk en egen bestemmelse om krav til det psykososiale arbeidsmiljøet i
-§ 4-3. Det ble tydeliggjort at arbeidsgivere har
-ansvaret for å identifisere og håndtere risikofaktorer i det psykososiale arbeidsmiljøet som kan
-påvirke arbeidstakernes fysiske og psykiske
-helse.
-
-7.1.1.1
-
-Krav til kvinners arbeidsmiljø
-og arbeidsforhold
-Kvinnehelse har fra arbeiderkommisjonen i 1885,
-vært tema i diskusjonene om hvilke krav som
-skulle stilles til arbeidervernlovgivningen. Dette
-handlet i hovedsak om kvinners arbeid og fikk
-betydning for fertilitet, svangerskap, fødsel og
-moderskap, se oversikt over utvikling av rettigheter i boks 7.5.
-Fra starten av var det forbud mot at barn og
-unge menn under 16 år, og kvinner uansett alder,
-skulle benyttes til arbeid «under dagen» ved bergverksvirksomhet. I tillegg skulle ikke kvinner
-benyttes til
-rensning, smøring eller ettersyn av akselledninger eller maskiner under gang, eller pålegging av remme, taug eller deslike på omdreiende skiver, mens disse er i bevægelse, uden
-hvor det er aldeles ufarlig.
-
-[Side 136]
-
-134
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-Begrunnelsen var at kvinnenes bekledning kunne
-innebære en særskilt risiko.
-I forbindelse med endringene i fabrikktilsynsloven i 1915 ble det innført forbud mot å ansette
-fruktsommelige kvinner i virksomheter med særskilte risikoforhold. Forslaget var opprinnelig
-ment å omfatte alle kvinner, fordi
-Den beskyttelse hvormed kvinders sysselsættelse i industrielle virksomheter antages at
-burde være omgjærdet, antages det at være
-inkonsekvent alene at la fruktsommelige kvinder bli tildel. Denne beskyttelse er begrundet
-dels i kvinders svakere fysiske kræfter og dels
-nødvendigheten av at beskytte moderskapet.
-
-Forslag om forbud mot nattarbeid ble diskutert i
-flere omganger. Det ble påpekt at nattarbeid
-hadde uheldige virkninger på helse, og burde
-begrenses i størst mulig grad for alle. Etter omfattende diskusjoner ble nattarbeid tillatt for voksne
-menn og kvinner, mens det ble innført begrensninger for barn og unge.
-I kraft av samfunnsutviklingen i første del av
-1900-tallet, ble innstramningene for barn og unge
-stadig utvidet, men det ble flere ganger tatt opp at
-også kvinner burde være underlagt forbudet mot
-nattarbeid.
-Medicinaldirektøren (192) begrunner dette
-slik i 1914:
-Men for kvinderne kommer her særlige
-momenter til, som gjør de uheldige virkninger
-av natarbeidet, navnlig naar det fortsættes
-gjennem længre tid, særlig fremtrædende for
-deres vedkommende. Deres legemskræfter er
-gjennemgaaede mindre end mændenes, og
-deres nervesystem bringes – gjennemsnitlig
-set – lettere ut av likevegt. Hertil kommer, for
-saavidt angåar de kvinder som er hustruer eller
-mødre, at de har endnu vanskeligere end mændene til at skaffe sig den fornødne hvile og søvn
-i løpet av dagen. Fra et hygienisk standpunkt
-maa det derfor ansees for en fordel, at kvinders
-natarbeide i industrien mest mulig indskrænkes.
-
-Ifølge historikeren Edvard Bull (193) falt forsøket
-på å innføre lovforbud mot nattarbeid for kvinner
-etter sterk motbør fra deler av kvinnebevegelsen.
-Lovforbudet ble av den borgerlige delen av
-kvinnebevegelsen ansett som et angrep på kvinners rett til lønnet arbeid til fordel for mennene,
-og derfor også et angrep på kvinnefrigjøringen og
-kampen for kvinners rettigheter. Arbeiderkvin-
-
-nene derimot ønsket flere særregler til beskyttelse av kvinnelige arbeidstakere. LO ønsket derimot ikke forskjellsbehandling i regelverket, og
-gikk imot forslaget. Et generelt forbud mot nattarbeid for kvinner ble aldri vedtatt i norsk lov, selv
-om dette ikke var uvanlig i andre europeiske land
-på denne tiden.1
-Betzy Kjelsberg var opptatt av sanitære forhold på arbeidsplassene, og fikk gjennomført en
-rekke hygienetiltak i virksomhetene. Det var særlig muligheten til håndhygiene og bedring av kvaliteten på spiserom hun ivret for. Hun var også en
-forkjemper for sikker bekledning for kvinner som
-arbeidet ved maskiner, og bestemmelser om disse
-forholdene kom etter hvert på plass i lovverket. I
-tillegg anbefalte tilsynet at det på arbeidsplasser
-med mye stående arbeid skulle være et passende
-antall sitteplasser, dersom det var mulig. Det ble
-antatt at dersom man ikke i ledige stunder fikk
-sitte ned, kunne dette ha betydning for kvinnenes
-helse, særlig knyttet til moderskap.
-I forbindelse med forslag til revisjon av
-fabrikktilsynsloven i 1914, foreslo Betzy Kjelsberg
-at det ikke skulle være noen grense for antall
-ansatte i en virksomhet2 for at virksomheten
-skulle komme inn under loven. Kjelsberg viste til
-at det i de minste virksomhetene både var barn og
-kvinner som jobbet under vanskelige arbeidsforhold. Hun foreslo også at det i tillegg til de virksomhetene som allerede var underlagt tilsynet,
-skulle tas med flere typer virksomheter som
-benyttet kvinnelig arbeidskraft, bl.a. sykeetablissementer, vaskerier og strykerier, i tillegg til
-arbeid ved sjoddi- og fillerivingsanlegg.3 Hun
-mente at det også var behov for å beskytte arbeidere i hjemmeindustrien.
-Ved lov 1913 ble innførsel, tilvirkning eller salg
-av fyrstikker med hvitt fosfor forbudt. Bruk av fosfor i fyrstikkproduksjonen førte til fosfornekrose,
-som angrep kjevebena og var invalidiserende.
-Streiken ved fyrstikkfabrikkene Bryn og Grønvold i 1889 hadde sitt utspring i bruken av fosfor
-og dennes konsekvenser, hvor kravene fra fyrstikkpakkerskene både innbar opprettholdelse av
-lønn, og bedre sanitærforhold (190).
-Særbestemmelsene om forbud mot å sette
-kvinner til arbeid «under dagen», og til beskyttelse mot farlig arbeid, ble ikke videreført i den
-1
-2
-3
-
-Norge har ikke vedtatt ILO-konvensjon nr. 4 (1921) da det i
-artikkel 3 er et generelt forbud mot nattarbeid for kvinner.
-Grensen i fabrikktilsynsloven for en del type virksomhet,
-var minst fem menn.
-Sjoddi og fillerivingsanlegg ble underlagt lov om arbeidsbeskyttelse i 1915, og det ble utferdiget særskilte forskrifter
-for å ivareta sikkerheten.
-
-[Side 137]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-nye arbeidervernloven i 1936. Sterk motstand fra
-en rekke kvinneorganisasjoner mot slike særbestemmelser, medførte at forslaget falt under stortingsbehandlingen. Kun bestemmelsene om rettigheter for barselkvinner ble videreført.
-Arbeidsmiljøloven av 1977 hadde ingen særbestemmelser rettet spesielt mot kvinner, bortsett
-fra rettigheter om permisjoner i forbindelse med
-svangerskap og fødsel.
-Det ble imidlertid gitt hjemmel til å gi «forskrifter om begrensninger i adgangen til å sysselsette visse grupper av arbeidstakere som i særlig
-grad kan være utsatt for ulykkes- eller helsefare.»
-Forarbeidene viser til at lovens intensjoner er at
-«også gravide eller fertile kvinner skal ha et fullt
-forsvarlig arbeidsmiljø, uansett hvor de sysselsettes. Særregler må bare bli aktuelt der hvor tilfredsstillende vern ikke kan oppnås på annen
-måte.»
-I perioden 1980–1997 ble det fastsatt bestemmelser om forbud mot arbeid under svangerskap,
-grenseverdier, kontroller og omplassering i følgende forskrifter:
-– 1980: Forskrift om håndtering av cytostatika
-§5
-– 1984: Forskrift for arbeid med narkosegasser
-§ 17
-– 1985: Forskrift om arbeid med ioniserende
-stråling §§ 3 og 6
-– 1995: Forskrift om forplantningsskader og
-arbeidsmiljø
-– 1997: Forskrift om arbeid med bly og blyforbindelser §§ 13 og 17
-Arbeidsmiljøloven av 2005 har fulgt systemet i
-1977-loven, og har kun bestemmelser knyttet til
-permisjonsrettigheter i forbindelse med svangerskap og fødsel m.m. Ved forskriftssammenslåingen i 2011, ble bestemmelsene om vern av barselkvinner og kvinner i fertil alder flyttet over til et
-eget kapittel i forskrift om utførelse av arbeid
-(194) kapittel 7 om arbeid med fare for forplantningsskader.
-Her stilles det på generelt grunnlag, krav til
-arbeidsgivers plikter til risikovurderinger, informasjon og tiltak ved arbeid med fare for forplantningsskader. I tillegg er det gitt forbud mot at gravide og ammende arbeidstakere skal settes til
-arbeid når risikovurderingen viser at arbeidet kan
-medføre forplantningsskade.
-Forskriften gir arbeidsgiver plikt til omplassering av gravide og ammende arbeidstakere, der
-det er risiko for forplantningsskader på barnet.
-Krav til omplassering gjelder også andre arbeids-
-
-135
-
-Kapittel 7
-
-takere i forplantningsdyktig alder, dersom det er
-nødvendig og praktisk mulig.
-I forskrift om tiltaksverdier og grenseverdier
-for fysiske og kjemiske faktorer i arbeidsmiljøet
-samt smitterisikogrupper for biologiske faktorer,
-er grenseverdiene som tidligere sto i de forskjellige forskriftene samlet. I tråd med økt kunnskap
-om de forskjellige faktorenes innvirkning på helsen, skjer det stadig endringer i disse verdiene, og
-forskriften oppdateres fortløpende.
-
-7.1.2 Dagens rettslige rammer
-I det følgende redegjøres det for rettslige rammer
-som er av særlig relevans for kvinners arbeidshelse og tilknytning til arbeidslivet.
-Den mest omfattende loven som ivaretar
-helse-, miljø- og sikkerhet på arbeidsplassene er
-arbeidsmiljøloven. Også likestillings- og diskrimineringsloven og folketrygdloven er viktige verktøy for arbeidstakernes helse.
-Det framgår av forarbeidene til arbeidsmiljøloven (10) at formålsbestemmelsen først og fremst
-skal gi veiledning, ved at den angir retning, gir
-inspirasjon og gir uttrykk for lovens overordnede
-visjon og verdisyn, jf. også kapittel 7.1.
-
-Boks 7.3 Arbeidsmiljøloven
-§ 1-1 Lovens formål
-Lovens formål er:
-a. å sikre et arbeidsmiljø som gir grunnlag
-for en helsefremmende og meningsfylt
-arbeidssituasjon, som gir full trygghet mot
-fysiske og psykiske skadevirkninger, og
-med en velferdsmessig standard som til
-enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,
-b. å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet,
-c. å legge til rette for et godt ytringsklima i
-virksomheten,
-d. å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,
-e. å gi grunnlag for at arbeidsgiver og
-arbeidstakerne i virksomhetene selv kan
-ivareta og utvikle sitt arbeidsmiljø i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig
-myndighet,
-f. å bidra til et inkluderende arbeidsliv.
-
-[Side 138]
-
-136
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-Formålsbestemmelsen har imidlertid en realitet utover det rent veiledningsmessige. Den gir
-informasjon om regelverkets hensikt og viktige
-forutsetninger som ligger til grunn for reglene.
-Den vil derfor ha en mer eller mindre direkte
-rettslig betydning, selv om formålsbestemmelsen
-i seg selv ikke innebærer noen bindende materiellrettslig regulering. Tolkning av lovens materiellrettslige bestemmelser skal skje i lys av formålet og formålsbestemmelsen kan derfor etter
-omstendighetene være avgjørende for tolkningsresultatet.
-Det følger direkte av arbeidsmiljøloven § 1-9 at
-den ikke kan fravikes til ugunst for arbeidstaker
-med mindre det er særskilt fastsatt. Det betyr at
-det er lov å inngå avtaler eller legge til rette for
-andre ordninger som er bedre enn lovens minstekrav, men at det som den klare hovedregel er forbudt for arbeidsgiver å ha dårligere arbeidsavtaler
-eller arbeidsvilkår enn det som følger av loven.
-Mange tariffavtaler har bestemmelser som sikrer
-arbeidstakerne bedre rettigheter enn det loven
-gir. Bl.a. er normalarbeidsuken i loven 40 timer
-per uke, mens den er 37,5 timer etter tariffavtalene.
-På enkelte områder kan loven likevel fravikes,
-men for at dette skal være lovlig må det skje på
-den måten som loven gir anvisning om i det
-enkelte tilfellet, f.eks. ved skriftlig avtale eller
-tariffavtale. Også bestemmelser i tariffavtalen må
-vike for lovens regler hvis de er i strid med disse.
-
-7.1.2.1
-
-Arbeidsgivers ansvar for et fullt forsvarlig
-arbeidsmiljø
-Arbeidsmiljøloven § 2-1 tredje ledd slår fast at
-arbeidsgiver skal sørge for at bestemmelsene i
-arbeidsmiljøloven blir overholdt.
-Arbeidsgiver kan delegere oppgaver i forbindelse med gjennomføringen av lovens krav til
-lavere nivå i virksomheten, men dette fritar ikke
-arbeidsgiver fra det overordnede ansvaret. Det
-betyr at arbeidsgiver selv, eller den som i dennes
-sted leder virksomheten, må vurdere hvordan
-arbeidsmiljøproblemene best kan løses og hvordan myndighet kan delegeres slik at kravene overholdes.
-Arbeidsgiver har plikt til å sikre et fullt forsvarlig arbeidsmiljø, jf. arbeidsmiljøloven § 4-1 første
-ledd. Kravet er en rettslig standard, og et dynamisk begrep, som innebærer at innholdet endres i
-forhold til den teknologiske utviklingen, endringer i kunnskap osv. Det betyr bl.a. at en arbeidsmiljøstandard som var ansett som «fullt forsvar-
-
-lig» i 1977, ikke nødvendigvis er det i 2025. Videre
-har arbeidsgiver det overordnete ansvaret for å ta
-i bruk arbeidsmiljølovens virkemidler for å oppnå
-et fullt forsvarlig arbeidsmiljø. Dette innebærer at
-arbeidsgiver bl.a. har ansvar for:
-– at organisatoriske, psykososiale, ergonomiske,
-fysiske og tekniske, kjemiske og biologiske
-arbeidsbetingelser enkeltvis og samlet ikke
-påfører arbeidstakerne uheldige helsebelastninger eller skade (bl.a. arbeidsmiljøloven
-kapittel 4 og kapittel 10)
-– en organisert vernetjeneste (arbeidsmiljøloven
-kapittel 6 og 7)
-– at det drives et systematisk arbeidsmiljøarbeid
-(arbeidsmiljøloven § 3-1)
-– å være tilknyttet godkjent bedriftshelsetjeneste
-når risikoforholdene i virksomheten tilsier det
-(arbeidsmiljøloven § 3-3 og forskrift om organisering, ledelse og medvirkning § 13-1)
-
-7.1.2.2 Arbeidstakers medvirkningsplikt
-Arbeidsmiljøloven § 2-3 pålegger arbeidstakere å
-medvirke ved utforming, gjennomføring og oppfølging av virksomhetenes systematiske helse-,
-miljø- og sikkerhetsarbeid. Arbeidstakere skal
-delta i det organiserte verne- og miljøarbeidet i
-virksomheten og skal aktivt medvirke ved gjennomføringen av de tiltak som blir satt i verk for å
-skape et godt og sikkert arbeidsmiljø. Arbeidstaker skal bl.a. sørge for at arbeidsgiver eller verneombudet blir underrettet så snart arbeidstaker
-blir kjent med at det forekommer trakassering
-eller diskriminering på arbeidsplassen.
-7.1.2.3
-
-Det forebyggende aspektet –
-grunntanken bak loven
-Arbeidsmiljøloven § 4-1 andre ledd første punktum presiserer lovens forebyggingsaspekt. Ved
-planlegging og utforming av arbeidet skal det legges vekt på å forebygge skader og sykdommer. At
-forebygging er selve grunntanken bak arbeidsmiljøloven, går også tydelig fram av forarbeidene til
-loven, jf. NOU 2004: 5 kapittel 23.2, (191) og
-Ot.prp. nr. 49 (2004–2005) side 307 (10).
-Hva som er et fullt forsvarlig arbeidsmiljø, må
-vurderes både ut fra de enkelte risikofaktorene
-hver for seg, og disse sett i sammenheng. Å se
-risikofaktorene i sammenheng kan bety at hver
-enkelt arbeidsbetingelse for seg kan være fullt forsvarlig, men at en samlet vurdering av to eller
-flere arbeidsmiljøfaktorer til sammen kan føre til
-at arbeidsmiljøet sett under ett ikke er det.
-
-[Side 139]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-Bestemmelsen fanger opp alle faktorer som
-ligger i begrepet arbeidsmiljø, også det psykososiale arbeidsmiljøet.
-
-7.1.2.4
-
-Krav til systematisk helse-, miljøog sikkerhetsarbeid
-For å sikre at ingen blir skadet eller syke av jobben, skal alle arbeidsforhold som kan føre til skader eller helseplager hos arbeidstakerne kartlegges, forebygges og følges opp.
-Det følger av arbeidsmiljøloven § 3-1 at
-arbeidsgiver har en plikt til å gjennomføre systematisk helse-, miljø- og sikkerhetsarbeid på alle
-plan i virksomheten. Dette skal gjøres i samarbeid
-med arbeidstakerne og deres tillitsvalgte.
-Arbeidsgiver skal bl.a. kartlegge farer og problemer, og iverksette rutiner for å avdekke, rette opp
-og forebygge arbeidsrelaterte skader og sykdommer. Plikten omfatter også å sørge for løpende
-kontroll med arbeidsmiljøet og arbeidstakernes
-
-137
-
-Kapittel 7
-
-helse når risikoforholdene tilsier det. Videre stiller forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter (internkontrollforskriften) nærmere
-krav til innholdet i det systematiske helse-, miljøog sikkerhetsarbeidet. Arbeidsgiver plikter å kartlegge alle typer risiko, lage en plan for forebygging og iverksette tiltak for å redusere risikoen,
-når dette er relevant for virksomheten. Alle
-mulige risikoforhold dekkes av dette generelle
-kravet, også psykososiale risikoforhold.
-
-7.1.2.5 HMS-opplæring
-Alle arbeidstakere skal få den opplæring, øvelse
-og instruksjon som er nødvendig for å ivareta sikkerheten. Dette følger av arbeidsmiljøloven § 3-2
-første ledd bokstav a.
-Det følger videre av bokstav b at arbeidstakere
-som har til oppgave å lede eller kontrollere andre
-har nødvendig kompetanse til å føre kontroll med
-
-Boks 7.4 Risikovurdering
-Ifølge Arbeidstilsynet omfatter en risikovurde– at alle farer og problemer knyttet til arbeidet
-ring:
-kartlegges og risikovurderes
-– en systematisk kartlegging og vurdering av
-– at arbeidstakere får medvirket i kartlegginalle forhold i arbeidet som kan føre til persongen og risikovurderingen
-skader, helseplager eller sykdom
-– å bruke nødvendig fagkompetanse i
-– et systematisk arbeid med å identifisere og
-risikovurderingen, f.eks. fra en bedriftshelsevurdere effekten av tiltak som kan redusere
-tjeneste
-risikoen ved disse forholdene
-– å sette inn tiltak for å redusere risikoen,
-basert på funn i risikovurderingen, og følge
-Kartleggingen av farer og problemer, vurdering
-opp effekten av tiltakene
-av risiko, planer og tiltak skal:
-– være skriftlig og oppdatert
-Verneombud skal tas med på råd ved planlegging
-– dokumenteres i form av omfang som er nødog gjennomføring av tiltak som har betydning for
-vendig på bakgrunn av typen og størrelsen
-arbeidsmiljøet innenfor eget verneområde.
-på virksomheten, arbeidsoppgavene og forRisikovurderingen skal gjennomføres i samholdene
-arbeid med arbeidstakerne, og tillitsvalgte. Sam– være en del av det systematiske arbeidet med
-arbeid med arbeidstakerne vil:
-helse, miljø og sikkerhet.
-– bidra til å gi et mer realistisk bilde av arbeidet
-– bidra til økt risikoforståelse
-og mulige utfordringer i arbeidsmiljøet.
-– bidra til relevante tiltak
-– bidra til økt risikoforståelse
-– bidra til å skape eierskap til tiltakene og mot– bidra til relevante tiltak
-ivasjon til å gjennomføre endringer hos
-– bidra til å skape eierskap til tiltakene og motarbeidstakerne
-ivasjon til å gjennomføre endringer hos
-arbeidstakerne
-I arbeidet med risikovurderingen er det arbeidsgiver som har ansvaret for:
-Dersom virksomheten er knyttet til en bedrifts– at arbeidstakere har et fullt forsvarlig
-helsetjeneste, kan denne bistå med kartlegging
-arbeidsmiljø
-og risikovurdering.
-
-[Side 140]
-
-138
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-at arbeidet blir utført på en helse- og sikkerhetsmessig forsvarlig måte.
-Arbeidsgivere skal etter lovens § 3-5 gjennomgå opplæring i helse-, miljø- og sikkerhetsarbeid. Plikten er personlig for øverste leder, og kan
-ikke delegeres.
-Lovens § 6-5 og § 7-4 stiller krav til at verneombud og medlemmer av arbeidsmiljøutvalg skal gis
-den opplæringen som er nødvendig for å kunne
-utføre vernet på forsvarlig måte. I forskrift om
-organisering, ledelse og medvirkning er kravene
-ytterligere utdypet.
-
-tivt innhold gjennom at arbeidstakere skal gis
-mulighet for faglig og personlig utvikling gjennom
-arbeidet. Det er dermed ikke nok at arbeidsgiver
-kun fokuserer på å unngå de negative konsekvensene av arbeidet.
-Arbeidsgiver skal ta hensyn til den enkelte
-arbeidstakers arbeidsevne, kyndighet og alder
-mv. Bestemmelsen er sentral i vurderingen av
-arbeidstakeres arbeidsbelastning. I utformingen
-av den enkelte arbeidssituasjon skal det legges
-vekt på å gi arbeidstaker mulighet til selvbestemmelse, innflytelse og faglig ansvar.
-
-7.1.2.6
-
-Særskilte krav til det psykososiale arbeidsmiljøet
-
-Krav til tilrettelegging, medvirkning
-og utvikling
-Generell tilrettelegging
-Arbeidsmiljøloven § 4-1 andre ledd andre punktum uttrykker et generelt tilretteleggingskrav.
-Arbeidet skal organiseres slik at arbeidstakere
-ikke utsettes for uheldige fysiske eller psykiske
-belastninger og slik at sikkerhetshensyn ivaretas.
-Bestemmelsen viser til eksempler på organisatoriske faktorer som arbeidets organisering, tilrettelegging og ledelse, arbeidstidsordninger, lønnssystemer, prestasjonslønn og teknologi. De faktorene som nevnes i selve lovteksten er ikke uttømmende. Formuleringen «ledelse» er tatt med for å
-vise at hvordan arbeidet og arbeidstakerne blir
-ledet, er en viktig arbeidsmiljøfaktor.
-Alenearbeid
-Lovens § 4-1 tredje ledd sier at arbeidsgiver skal
-vurdere om det er særlig risiko knyttet til alenearbeid. Arbeidsgiver må iverksette tiltak for å forebygge og redusere risiko ved alenearbeid.
-Bestemmelsen er imidlertid ikke et generelt forbud mot alenearbeid.
-Informasjon om systemer m.m.
-Arbeidsmiljøloven § 4-2 første ledd sier at arbeidstakere og deres tillitsvalgte skal informeres om
-systemer som brukes ved planlegging og gjennomføring av arbeidet. De skal gis nødvendig opplæring for å sette seg inn i systemene og skal medvirke ved utformingen av dem.
-Arbeidssituasjonens utforming
-Bestemmelsen i § 4-2 andre ledd er generell, og
-de forholdene som nevnes her skal tas i betraktning ved utformingen av arbeidssituasjonen. Det
-skal legges til rette for at arbeidet skal gis et posi-
-
-Lovens § 4-3 er en spesialbestemmelse om krav til
-det psykososiale arbeidsmiljøet. Bestemmelsen er
-dels en videreføring av krav fra 1977-loven, og
-dels var den ny i 2005. Ifølge forarbeidene skal
-bestemmelsen løfte fram og understreke lovens
-krav rettet mot arbeidsmiljøproblemer av sosial/
-psykososial art, f.eks. trakassering, mobbing,
-sosial isolasjon med videre.
-Loven stiller krav om at arbeidsgiver skal
-legge til rette for at arbeidstakers integritet og
-verdighet skal ivaretas. I forarbeidene nevnes at
-den direkte foranledningen til at begrepet «integritet» ble tatt inn i loven, var et ønske om å forby
-såkalt toppløsservering. I Ot.prp. nr. 49 (2004–
-2005) side 101, uttaler departementet imidlertid at
-«bestemmelsen har, og skal ha, en mer generell
-rekkevidde enn dette».
-Arbeidet skal søkes utformet slik at det gir
-mulighet for kontakt og kommunikasjon med
-andre arbeidstakere i virksomheten. Dette kravet
-var nytt med loven av 2005 og kravet skal forebygge arbeidsmiljøproblemer knyttet til isolasjon i
-arbeidet. Formuleringen «arbeidet skal søkes
-utformet slik at» viser at kravet ikke er en plikt til
-å ha flere arbeidstakere enn det saklig sett er
-behov for, og skal ikke forstås som et forbud mot
-alenearbeid.
-Vern mot trakassering og annen utilbørlig opptreden er en videreføring av 1977-loven. Kravet
-omfatter forholdet til andre mennesker som f.eks.
-kunder, elever, brukere og andre arbeidstakere i
-virksomheten. Kravet omfatter f.eks. uønskede
-negative handlinger, unnlatelser eller ytringer
-som virker eller har til formål å virke krenkende,
-skremmende, fiendtlige, nedverdigende eller
-ydmykende. Dette kan f.eks. være uønsket seksuell oppmerksomhet, plaging, utfrysing eller
-sårende fleiping og erting. Trakassering kan være
-både enkelthendelser og hendelser som skjer
-gjentatte ganger. Dersom det er en enkelthen-
-
-[Side 141]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-delse må den være av en viss alvorlighetsgrad for
-at det faller inn under begrepet. Hvis handlingene
-derimot er systematiske og gjentas over tid, vil det
-ofte dreie seg om mobbing, som er en form for
-trakassering.
-Fra 1. januar 2024 er det presisert i arbeidsmiljøloven § 4-3 tredje ledd at seksuell trakassering
-omfattes av trakasseringsbegrepet.
-Arbeidstilsynet hadde høsten 2024 forslag til
-endringer i arbeidsmiljøloven og forskrift om utførelse av arbeid på høring. Formålet med forslagene er å synliggjøre og tydeliggjøre regelverket
-om psykososialt arbeidsmiljø. Selv om det ikke
-innføres nye krav på området, er det likevel et forbedringspotensial i å løfte fram og synliggjøre
-dagens krav til det psykososiale arbeidsmiljøet,
-slik at regelverket bedre kan bidra til å hjelpe virksomhetene til et godt systematisk forebyggende
-arbeidsmiljøarbeid på dette området. Saken er til
-vurdering i Arbeids- og inkluderingsdepartementet.
-Vold, trusler og uheldige belastninger som følge
-av kontakt med andre
-Arbeidstaker skal, så langt det er mulig, beskyttes
-mot vold, trusler og uheldige belastninger som
-følge av kontakt med andre. Forarbeidene viser at
-begrepet «trusler» omfatter alle typer trusler,
-f.eks. trusler om vold, økonomiske trusler eller
-trusler om å sverte arbeidstakerens omdømme.
-Kravet er ikke et absolutt krav, men arbeidsgiver skal «så langt det er mulig» organisere arbeidet slik at arbeidstakere er vernet mot risikoene.
-Bestemmelsene om vold og trusler er utdypet
-i forskrift om utførelse av arbeid § 23 A.
-I 2023 ratifiserte Norge ILO-konvensjon nr.
-190 om avskaffelse av vold og trakassering i
-arbeidslivet. Konvensjonen ble vedtatt i 2019 og er
-den første internasjonale avtalen som retter seg
-mot vold og trakassering i arbeidslivet. Den stiller
-bl.a. krav til at medlemsstatene skal definere og
-forby vold og trakassering i arbeidslivet. Både
-medlemsstatene og arbeidsgivere skal treffe tiltak
-for å forebygge vold og trakassering, inkludert
-kjønnsbasert vold og trakassering. Konvensjonen
-krever også at medlemsstatene treffer hensiktsmessige tiltak for å håndheve nasjonale regler om
-vold og trakassering i arbeidslivet. Ratifisering av
-konvensjonen krevde ikke endringer i norsk rett,
-men i forbindelse med ratifikasjon ble definisjonen av trakassering og seksuell trakassering inntatt i arbeidsmiljøloven, tilsvarende definisjonene i
-likestillings- og diskrimineringsloven. Samtidig
-
-139
-
-Kapittel 7
-
-ble verneombudets oppgaver når det gjelder psykososialt arbeidsmiljø presisert i loven.
-Særlig om tilrettelegging for arbeidstakere med
-redusert arbeidsevne
-Dersom en arbeidstaker har fått redusert arbeidsevne som følge av ulykke, sykdom, slitasje e.l.,
-skal arbeidsgiver, så langt det er mulig, iverksette
-nødvendige tiltak for at arbeidstaker skal kunne
-beholde eller få passende arbeid. Dette følger av
-arbeidsmiljøloven § 4-6. Ifølge forarbeidene tar
-bestemmelsen særlig sikte på tilbakeføring av
-sykmeldte arbeidstakere og gir arbeidsgiver tilretteleggingsplikt når arbeidstakere underveis i
-arbeidsforholdet av en eller annen grunn får redusert arbeidsevne som følge av ulykke, sykdom, slitasje e.l. Arbeidsevnen kan ha blitt redusert på
-grunn av psykiske, fysiske eller sosiale forhold,
-eller sammensatte forhold, og bestemmelsen gjelder uavhengig av om endringen i helsetilstand har
-sammenheng med arbeidsforholdene eller ikke.
-Tilretteleggingskravet er vidtrekkende, men ikke
-absolutt; det skal legges til rette «så langt det er
-mulig». Det skal foretas en konkret helhetsvurdering, der virksomhetens art, størrelse, økonomi
-og arbeidstakers forhold skal veies opp mot hverandre.
-Dersom det ikke er mulig å tilrettelegge slik at
-arbeidstaker kan fortsette i sitt vanlige arbeid skal
-arbeidsgiver vurdere omplassering/overgang til
-annet arbeid. Plikten går ikke så langt som til å
-opprette en ny stilling, men dersom det er eller
-blir ledig en passende stilling i virksomheten, skal
-den tilbys arbeidstakeren hvis vedkommende
-ellers er skikket for den.
-Også likestillings- og diskrimineringsloven
-kapittel 3 har bestemmelser om tilrettelegging for
-arbeidstakere og arbeidssøkere med funksjonsnedsettelser eller som er gravide.
-
-7.1.2.7 Verneombud og arbeidsmiljøutvalg
-Plikt til å velge verneombud
-Det følger av dagens § 6-1 at det i enhver virksomhet skal velges verneombud. Ved virksomheter
-med mindre enn 5 arbeidstakere kan partene
-skriftlig avtale en annen ordning, herunder at det
-ikke skal være verneombud ved virksomheten.
-Verneombudets oppgaver
-Det følger av § 6-2 første ledd at verneombudet
-skal ivareta arbeidstakernes interesser i saker
-
-[Side 142]
-
-140
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-som angår arbeidsmiljøet. Det innebærer at verneombudet, knyttet til det psykososiale arbeidsmiljøet, bl.a. må:
-– delta i observasjon og kartlegging av forhold
-som påvirker det psykososiale arbeidsmiljøet
-negativt
-– delta i risikovurderinger av psykososiale faktorer som f.eks. stress, konflikter, trakassering
-m.m.
-– delta i utvikling og gjennomføring av tiltak for å
-forbedre det psykososiale arbeidsmiljøet
-– samarbeide og medvirke for å fremme et godt
-psykososialt arbeidsmiljø
-Verneombudets oppgaver omfatter også ansvar
-for innleide og for selvstendige oppdragstakere
-som utfører arbeid i nær tilknytning til virksomheten.
-Dersom verneombudet mener at det foreligger umiddelbar fare for arbeidstakernes liv
-eller helse, og faren ikke kan avverges på annen
-måte, kan verneombudet stanse arbeidet inntil
-Arbeidstilsynet har tatt stilling til om det kan fortsette.
-Plikt til å ha arbeidsmiljøutvalg
-Det følger av § 7-1 at alle virksomheter med minst
-30 arbeidstakere har plikt til å opprette et arbeidsmiljøutvalg (AMU). Hvis en av partene krever det,
-skal også virksomheter med mellom ti og 30
-ansatte ha AMU. Arbeidstilsynet kan også
-bestemme at det skal være AMU i en virksomhet.
-Arbeidsmiljøutvalgets oppgaver
-AMU skal arbeide for et fullt forsvarlig arbeidsmiljø i virksomheten.
-Utvalget skal delta i planleggingen av verneog miljøarbeidet i virksomheten, og følge nøye
-med på utviklingen av arbeidsmiljøet. Dette innebærer bl.a. å:
-– behandle spørsmål som angår bedriftshelsetjenesten og vernetjenesten
-– behandle spørsmål om opplæring og instruksjon på områder som har betydning for arbeidsmiljøet
-– behandle planer om nye lokaler, prosesser eller
-ombygginger som krever samtykke fra
-Arbeidstilsynet
-– behandle andre planer som kan få vesentlig
-betydning for arbeidsmiljøet, som nye maskiner, rasjonaliseringstiltak, endringer i arbeidsprosesser og forebyggende vernetiltak
-
-–
-
-–
-–
-
-–
-–
-–
-
-delta aktivt i virksomhetens helse-, miljø- og
-sikkerhetsarbeid. Delta i kartlegginger, utarbeidelser av handlingsplaner og gi råd til prioriteringer og tiltak
-vurdere helse- og velferdsaspekter ved
-arbeidstidsordninger
-gjennomgå alle rapporter om ulykker, nestenulykker og sykdom som kan skyldes arbeidsmiljøet. Ha fokus på årsaken til hendelsen og se
-til at arbeidsgiveren gjør det som er nødvendig
-for å hindre at det skjer igjen
-gjennomgå alle rapporter om yrkeshygieniske
-undersøkelser og måleresultater
-behandle spørsmål om tilrettelegging for
-arbeidstakere med redusert funksjonsevne
-utarbeide en årsrapport om arbeidet
-
-7.1.2.8 Bedriftshelsetjeneste
-Alle arbeidsgivere har plikt til å knytte virksomheten sin til en godkjent bedriftshelsetjeneste dersom risikoforholdene tilsier det. Det følger av
-arbeidsmiljøloven § 3-3. Arbeidstilsynet kan derfor pålegge enhver virksomhet å knytte til seg en
-godkjent bedriftshelsetjeneste dersom de ser et
-særlig behov for overvåking av arbeidsmiljøet og
-arbeidshelsen til de ansatte i virksomheten.
-Noen bransjer har et mer risikofylt arbeidsmiljø enn andre, med større risiko for sykdommer,
-skader og psykiske belastninger. I forskrift om
-hvilke virksomheter som skal ha verne- og helsepersonale (bedriftshelsetjeneste), også kalt bransjeforskriften fra 1989, ble det foretatt en risikoanalyse av en hel rekke bransjer som man vurderte
-hadde risikoforhold som gjorde det nødvendig
-med tilknytning til bedriftshelsetjeneste (195).
-Vurderingene den gang hadde søkelys på det
-fysiske arbeidsmiljøet, og omfattet i det store og
-hele industri og mannsdominerte arbeidsplasser,
-hvor ulykkesrisiko og skadetall ble lagt til grunn
-for utvelgelsen.
-Da forskriften ble revidert i 2009 ble det tatt
-utgangspunkt i en helhetsvurdering basert på risikopotensial ved utførelse av arbeidsoppgavene og
-i arbeidssituasjonen og på registrerte konsekvenser. På konsekvenssiden ble det lagt vekt på kriterier som frafall og sykefravær. Valg av bransjer la
-større vekt på både kjemiske, biologiske, ergonomiske og organisatoriske og psykososiale kriterier. Både arbeidsbetingelser, opplevd belastning
-og andre tallfestede konsekvenser ble vurdert.
-Vurderingene resulterte i at sju nye bransjer ble
-tilføyd listen: helse- og omsorgssektoren, undervisningssektoren, frisørbransjen, fiskeoppdrett og
-
-[Side 143]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-klekkerier, gjenvinning, vakttjenester og kraft- og
-vannforsyning.
-Plikten til å knytte bedriftshelsetjeneste til
-virksomheten følger nå av forskrift 6. desember
-2011 nr. 1355 om organisering, ledelse og medvirkning, kapittel 13.
-Bedriftshelsetjenestens oppgaver
-Bedriftshelsetjeneste er en fagkyndig rådgivende
-tjeneste innen forebyggende HMS-arbeid.
-Tjenesten skal bistå arbeidsgiver og arbeidstakere med å følge opp arbeidsmiljøet i virksomheten.
-Dette innebærer bl.a. å bistå med:
-– kartlegging av arbeidsmiljøet, foreta undersøkelser og vurdere risiko
-– å foreslå og gjennomføre forebyggende tiltak
-som kan redusere risiko for arbeidsrelaterte
-helseskader
-– planlegging og gjennomføring av fysiske og
-organisatoriske endringer, f.eks. ved nybygg
-eller endring av arbeidslokaler
-– utarbeidelse av internkontroll i helse-, miljø- og
-sikkerhetsarbeidet
-– å overvåke og følge opp arbeidstakernes helse
-når arbeidssituasjonen tilsier det, begrunnet ut
-fra et arbeidshelseperspektiv eller når virksomhetens risikovurdering tilsier det
-– å foreslå og gjennomføre tilrettelegging av
-arbeidet for den enkelte
-– informasjon og opplæring om helse, miljø og
-sikkerhet
-– oppfølging av henvendelser fra arbeidstaker,
-verneombud og arbeidsmiljøutvalg
-Arbeids- og inkluderingsdepartementet hadde i
-2016 over tid fått signaler, særlig fra arbeidsgiversiden, om at kravene knyttet til bedriftshelsetjeneste oppleves som omfattende og kostnadskrevende og at ordningen i mange tilfeller ikke fungerer etter intensjonen. Dette gjaldt særlig i små
-virksomheter. Departementet iverksatte derfor i
-perioden 2016–2017 en evaluering og en faglig
-ekspertgjennomgang av bedriftshelsetjenesten.
-Resultatene av disse viste bl.a. at det var forskjeller på tvers av bransjer når det gjelder bruk av
-bedriftshelsetjenesten og om denne oppleves å
-bidra i utviklingen av HMS- og arbeidsmiljøarbeidet. Det framgikk videre at bedriftshelsetjenesten
-generelt i stor grad tilbyr og brukes til individuell
-oppfølging av arbeidstakere, som generelle helsekontroller, trening mv. Det ble pekt på at en del
-bedriftshelsetjenester og virksomheter har for lav
-bevissthet om hva som er bedriftshelsetjenestens
-
-141
-
-Kapittel 7
-
-samfunnsoppdrag og oppgaver, og at det er nødvendig å tydeliggjøre oppdraget knyttet til målrettet forebyggende arbeidsmiljøarbeid (196, 197).
-Det ble på denne bakgrunn gjennomført et utviklingsprosjekt for bedriftshelsetjenesten i samarbeid med partene i arbeidslivet og det ble i 2023
-vedtatt en tiltakspakke med flere endringer i
-regelverket om utbygging av bedriftshelsetjeneste
-og om bedriftshelsetjenesters oppgaver og arbeid
-i virksomhetene. Dette gjaldt bl.a. å tydeliggjøre
-bedriftshelsetjenestens oppgaver som et forebyggende arbeidsmiljø- og arbeidshelsetiltak. Samtidig ble det innført nye forskriftskrav rettet mot
-bedriftshelsetjenesten, som krav til dokumentasjon av arbeidsmetodikk, obligatorisk opplæring
-og at Arbeidstilsynet kan føre tilsyn med bedriftshelsetjenestene. Arbeidstilsynet og Statens arbeidsmiljøinstitutt (STAMI) iverksatte også en rekke
-tiltak for å støtte opp under regelverksendringene.
-Arbeidstilsynet har som ledd i dette igangsatt et
-arbeid med å gjennomgå listen over de næringsgrupper som plikter å knytte seg til bedriftshelsetjeneste etter forskrift om organisering, ledelse og
-medvirkning § 13-1 andre ledd, med sikte på at
-listen skal oppdateres i løpet av 2025. Det framgår
-av bestemmelsens andre ledd at listen skal gjennomgås og oppdateres hvert sjette år.
-STAMIs Faktabok om arbeidsmiljø og -helse
-2024 viser at andelen som har en jobb som er tilknyttet en bedriftshelsetjeneste, og andelen som
-har vært i kontakt med bedriftshelsetjenesten
-siste år, er forskjellig for ulike grupper av sysselsatte. Kvinner svarer oftere «vet ikke» enn menn
-på spørsmål om jobben er tilknyttet en bedriftshelsetjeneste (29 prosent blant kvinner mot 22 prosent blant menn). Kvinner svarer også sjeldnere
-enn menn at de har vært i kontakt med bedriftshelsetjenesten i løpet av de siste tolv månedene
-(tolv prosent mot 21 prosent). Andelen som har
-hatt kontakt med bedriftshelsetjenesten er relativt
-lav i helse- og omsorgsnæringene. Ansatte i kvinnedominerte bransjer som hjemmetjenesten,
-sykehjem og omsorgsinstitusjoner, benytter ikke i
-stor grad bedriftshelsetjenesten til primærforebyggende tjenester som kurs/opplæring og kartlegging av arbeidsmiljø, eller sekundærforebyggende tiltak som konsultasjon ved sykdom/skade
-eller tilrettelegging (1).
-Arbeids- og inkluderingsdepartementet har
-igangsatt en følgeevaluering for å dokumentere
-om «tiltakspakken» bidrar til den ønskede justeringen og målrettingen av bedriftshelsetjenestens
-virksomhet. Evalueringen gjennomføres av Oslo
-Economics, og sluttrapport fra prosjektet skal
-foreligge innen 1. oktober 2025.
-
-[Side 144]
-
-142
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-7.1.2.9 Rettigheter ved svangerskap og fødsel mv.
-Tilrettelegging, omplassering og krav på
-svangerskapspenger
-I tillegg til tilretteleggingspliktene som er omtalt
-ovenfor regulerer forskrift om utførelse av arbeid
-kapittel 7 arbeid med fare for forplantningsskader.
-Det følger av forskriften at arbeidsgiver skal
-risikovurdere og informere om fare for slike skader. Dersom det foreligger risiko skal arbeidsgiver sørge for nødvendig tilrettelegging eller eventuelt omplassering av den gravide. Dersom tilrettelegging eller omplassering ikke er mulig, skal
-den gravide tas midlertidig ut av arbeid. Arbeidstakere som tas ut av arbeid etter bestemmelsen vil
-vanligvis ha krav på svangerskapspenger etter folketrygdloven § 14-4 (198).
-Permisjon
-Rett til permisjon er regulert i arbeidsmiljøloven
-kapittel 12. Folketrygdloven regulerer retten til
-økonomisk kompensasjon. De permisjonsrettighetene som omtales her er permisjoner som knytter seg til svangerskap og fødsel, samt pårørendeomsorg. Rett til økonomiske ytelser for å sikre
-foreldres inntekt ved svangerskap, fødsler og
-adopsjon følger av folketrygdloven kapittel 14.
-Svangerskap og fødsel
-Arbeidstaker som er gravid har rett til fri fra
-arbeid med lønn i forbindelse med svangerskapskontroll dersom slike undersøkelser med rimelighet ikke kan finne sted utenfor arbeidstiden. Det
-følger av arbeidsmiljøloven § 12-1. Arbeidsgiver
-betaler lønn for den tiden arbeidstaker er borte fra
-arbeid.
-Foreldrene har rett til foreldrepermisjon i inntil tolv måneder for hver fødsel, samt når det ytes
-foreldrepenger etter folketrygden. Det følger av
-arbeidsmiljøloven § 12-5. Arbeidstaker som er gravid, har etter § 12-2, rett til permisjon i inntil tolv
-uker under svangerskapet. Etter fødselen skal
-mor ha permisjon i de seks første ukene med mindre hun framlegger legeattest på at det er bedre
-for henne å komme i arbeid, se § 12-4. Svangerskapspermisjon etter § 12-2 og fødselspermisjon etter § 12-4 inngår i de tolv månedene.
-
-Foreldrepengeperioden består av en mødrekvote på 15 uker, (hvorav de første seks ukene må
-tas rett etter fødselen), en fedrekvote på 15 uker,
-en periode på tre uker før termin til mor og en fellesperiode på 16 uker (totalt 49 uker).
-Ammefri
-Det følger av arbeidsmiljøloven § 12-8 at kvinne
-som ammer sitt barn kan kreve den fri hun av den
-grunn trenger. Det følger videre av bestemmelsen
-at fritiden f.eks. kan tas ut to ganger daglig eller
-som redusert arbeidstid med inntil én time hver
-dag.
-Dersom den ammende har en avtalt arbeidstid
-på sju timer eller mer per dag, har hun rett til lønn
-inntil én time per dag. Det følger av bestemmelsens andre ledd.
-Rett til ammefri ble innført i arbeidervernloven av 1956, og ble videreført med enkelte
-endringer i arbeidsmiljøloven av 1977 og senere
-arbeidsmiljøloven av 2005.
-Bestemmelsen om rett til lønnet ammefri
-trådte i kraft 1. januar 2014. Det framgår av forarbeidene:
-Formålet med lovforslaget er å legge til rette
-for at mødre som går ut i arbeid i barnets første
-leveår skal kunne fortsette å amme uten
-vesentlig inntektstap. Dette vil både legge til
-rette for at flere kvinner kan amme sitt barn og
-for økt yrkesdeltakelse blant kvinner som
-ammer. Høyere yrkesaktivitet blant mødre i
-barnets første leveår åpner for at fedre kan ta
-en større del av foreldrepermisjonen og bidrar
-dermed til mer likestilte foreldreskap.
-
-Flere tariffavtaler gir ammende bedre rettigheter i
-forbindelse med amming enn det som følger av
-loven. Bl.a. i staten gis ammende rett til inntil to
-timer lønnet fri per dag for å amme.
-I samsvar med «Folkehelsemeldingen» har
-Helsedirektoratet iverksatt et samarbeid mellom
-arbeidsgiver- og arbeidstakerorganisasjonene,
-relevante brukerorganisasjoner og kompetansemiljø, med mål om å gjøre regelverket om ammefri bedre kjent og praktiserbart (199). Helsedirektoratet skal også utarbeide et forslag til hvordan
-kvinners mulighet til å amme i arbeidstiden i tråd
-med helsefaglige råd kan kartlegges.
-
-[Side 145]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-143
-
-Kapittel 7
-
-Boks 7.5 Oversikt over utviklingen av rettigheter knyttet til svangerskap og fødsel
-kalle kvinnen tilbake til arbeid før dette. Som
-Lov 27. juni 1892 nr. 1 om tilsyn med arbeid i fabrikker
-eksempel på slike forhold nevnes at det ikke
-(fabrikktilsynsloven)
-ville være mulig å skaffe vikar.
-Loven ga forbud mot å sette barselkvinner i
-Kvinnen har rett til å amme sitt barn med
-arbeid de første seks uker etter nedkomst, med
-minst en halv time to ganger daglig.
-mulighet til å gjenoppta arbeidet etter fire uker,
-Lov 7. desember 1956 nr. 2 om arbeidervern
-dersom man hadde legeerklæring om dette.
-(arbeidervernloven)
-Lov 18. september 1915 om arbeideres beskyttelse
-Her har lovgiver gått tilbake til at kvinnen skal
-i industriell virksomhet (arbeidsbeskyttelsesloven)
-ha fri de første seks ukene etter fødselen. Loven
-I tillegg til forbudet mot å settes i arbeid de første seks uker etter nedkomst, ga loven kvinner
-rett til å ta fri fire uker før lege eller jordmor har
-anslått nedkomst. I tillegg kunne ikke arbeidsgiver nekte kvinnen å amme sitt barn.
-Lov 19. juni 1936 nr. 8 om arbeidervern
-(arbeidervernloven)
-I 1936-loven er bestemmelsen om barselkvinner
-endret til rettigheter for kvinnen, i motsetning til
-et forbud mot å sette kvinner i arbeid i perioder
-før og etter fødselen. Kvinnen kan med minst tre
-dagers varsel, kreve å få arbeidsfri de siste seks
-ukene før fødsel. Varslingsbestemmelsen kom
-inn i loven under komitebehandlingen, fordi
-man ønsket at arbeidsgiver skulle ha mulighet
-til å skaffe vikar. Regelen om pliktig fri de første
-seks uker etter fødselen er gjort om til en «bør»
-bestemmelse, fordi sosialkomiteen i Stortinget
-mente at med den utvidelsen som ble foreslått,
-ville det kunne være «vanskelig å praktisere et
-slikt forbud». Forutsetningene fra lovgivers
-hånd har imidlertid vært at seks uker fortsatt
-skal være hovedregelen, og at det kun er særlige forhold som skulle tilsi at arbeidsgiver kan
-
-Barns og barnepassers sykdom
-Rett til permisjon ved barns og barnepassers sykdom er regulert i arbeidsmiljøloven § 12-9.
-Omsorgspenger ved barns eller barnepassers
-sykdom er regulert i folketrygdloven §§ 9-5 – 9-9.
-Pleie av nærstående/pårørendeomsorg
-Arbeidstaker som pleier nærstående i hjemmet i
-livets sluttfase har rett til permisjon i 60 dager for
-pleie av den enkelte nærstående. Det følger av
-arbeidsmiljøloven § 12-10. Det følger av folke-
-
-ble endret for å kunne ratifiserer ILO-konvensjon nr. 103, om mødrevern, hvor kravet om fri
-etter fødselen er obligatorisk. I tillegg kan hun
-kreve å få fri i ytterligere seks uker som kan legges både før og etter fødselen. Varslingsregelen
-på tre dager er opprettholdt, det samme er rettigheten til fri til amming.
-Lov 4. februar 1977 nr. 4 om arbeidervernog arbeidsmiljø (arbeidsmiljøloven)
-Retten til fri er ytterligere utvidet i 1977-loven.
-Retten til fri under svangerskapet er satt til tolv
-uker. Etter fødselen er kravet fortsatt at hun skal
-ha seks uker fri. Det kan gjøres unntak fra dette
-dersom hun har legeattest som viser at det er
-bedre for henne å komme i arbeid. I tillegg skal
-hun ha rett til fri med lønn til svangerskapskontroller, dersom slike ikke med rimelighet kan
-legges utenom arbeidstiden.
-Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid
-og stillingsvern mv. (arbeidsmiljøloven)
-Bestemmelsene er en videreføring av bestemmelsene fra 1977-loven.
-
-trygdloven § 9-13 at det ytes pleiepenger i opptil
-60 dager for hver pasient. Det kan ytes pleiepenger til inntil to personer samtidig for pleie av
-samme person.
-Fra 1. juli 2010 fikk bestemmelsen i arbeidsmiljøloven § 12-10 et nytt andre ledd som gir arbeidstaker rett til permisjon i inntil ti dager hvert kalenderår for å gi nødvendig omsorg til foreldre, ektefelle, samboer eller registrert partner. Det gis
-ingen rett til økonomisk kompensasjon fra folketrygden. Mange kan imidlertid ha rett på permisjon med lønn som følge av tariffavtale eller virk-
+# Andre forhold av betydning for kvinners deltakelse i arbeidslivet
+
+ 
+
+Det pekes i utvalgets mandat på at utgangspunktet for utvalgets oppdrag og arbeid er kvinners «arbeidshelse»: Helseforhold som helt eller delvis skyldes utøvelsen av arbeidet og påvirkninger fra arbeidsmiljøet. I tillegg til slike vurderinger knyttet til arbeidshelse, omfatter utvalgets oppdrag å vurdere hvordan rammebetingelser og arbeidslivet/arbeidsmiljøet kan legges til rette for at kvinner som har helseutfordringer som i utgangspunktet ikke skyldes jobben, kan arbeide. Kvinners helse i bredere forstand er nylig behandlet av Kvinnehelseutvalget i NOU 2023: 5, og i *Regjeringens kvinnehelsestrategi – betydningen av kjønn for helse*, 2024. Problemstillinger og tiltak som ikke omhandler forholdet ved og mellom arbeid og helse, anses hovedsakelig ikke som relevant for dette utvalgets arbeid, jf. kapittel 2.2 Utvalgets mandat og fortolkning av mandatet.
+
+I kapittel 6 viser *utvalget* derfor til kunnskap som kan belyse sammenhenger mellom kvinners helseutfordringer som ikke skyldes påvirkninger fra arbeidet/arbeidsmiljøet (arbeidshelse) og arbeidsdeltakelse. Dette kan handle om kvinners helse i ulike livsfaser eller livssituasjoner, og sykdommer som i særlig grad rammer kvinner.
+
+*Hypoteser om årsaker til helseplager, sykefravær og frafall*
+
+Kvinner har høyere legemeldt sykefravær enn menn, også når en ser bort fra sykefraværet blant gravide. Kvinners høye sykefravær har vært et forskningstema gjennom mange år, og har vært forsøkt forklart gjennom ulike hypoteser: «Den biologiske hypotesen» forklarer kvinners helseplager og sykdommer med biologiske faktorer (herunder konsekvenser av menstruasjonsplager, graviditet og overgangsalder) som øker risikoen for helseplager. «Dobbeltarbeidshypotesen» forklarer kvinners nivå av helseplager med at kvinner (i større grad enn menn) kombinerer yrkesaktivitet med større ansvar og tidsbruk knyttet til omsorgsoppgaver i hjemmet. «Den sosiokulturelle hypotesen» forklarer kjønnsforskjeller ut fra ulik sykdomsatferd mellom kvinner og menn (148). I kapittel 6 gjennomgås kunnskap om i hvilken grad, og ev. hvordan, disse hypotesene kan forklare kvinners høyere nivåer av helseplager, sykefravær og frafall fra arbeidslivet. «Arbeidsmiljøhypotesen» forklarer i tillegg kvinners relativt høye nivå av helseplager og fravær med at mange kvinner jobber i yrker med stor arbeidsbelastning som øker risikoen for helseplager eller forverring av plager og/eller kan gjøre det utfordrende å stå i jobb med helseplager. Dette tema behandles i kapittel 4.
+
+Oppsummert viser forskningen at når de ulike hypotesene prøves ut, gjenstår likevel uforklarte forskjeller i sykefravær. FoU-programmet under IA-avtalen arrangerte høsten 2022 et forskerseminar om kunnskap om årsaker til kjønnsforskjeller i sykefravær og hvor kunnskapshullene er størst. Forskerseminaret ble oppsummert av Hoff og Mykletun (149). Det var enighet om at årsakene til kjønnsforskjeller i sykefravær er sammensatte og at det sannsynligvis er flere forklaringer på dette. Det ble pekt på at det er lite kunnskap om hvor mye ulike helseaspekter (sykdom, helseatferd, helsevesenet) kan forklare av kjønnsforskjellene i sykefravær, og hvordan disse faktorene samspiller med holdninger, normer og forventninger i samfunnet. Basert på tidsbruksundersøkelser i hjemmet og ny kunnskap om kjønnsforskjeller i sykefravær, ble dobbeltarbeidshypotesens forklaringskraft ansett som svekket. Mastekaasa har også gjennomgått en rekke studier av kvinners sykefravær og konkluderer med at det er vanskelig å finne enkeltstående årsaker som kan forklare at kvinner har høyere sykefravær enn menn (150). Årsakene til sykefravær og frafall blant kvinner er sammensatte og kompliserte. På de fleste områder pekes det derfor på et videre behov for forskning og kunnskapsutvikling. Norges forskningsråd har tildelt midler til et langsiktig forskningsprosjekt om kjønnsforskjeller i sykefravær og effekten av en klinisk intervensjon for å fremme tilbakevending til arbeid blant kvinner. Prosjektet gjennomføres i regi av Helse Nord i perioden 2024–2030.
+
+## Kvinners livsfaser
+
+Det er flere innfallsvinkler til forståelsen av livsfaseproblematikk. Hormonelle endringer påvirker kvinners liv gjennom ulike livsfaser. De samme livsfasene preges også av ansvar og oppgaver knyttet til familierelasjoner. Den biologiske alderen er ikke alltid et godt mål på hvilken livsfase den enkelte befinner seg i, selv om det for mange vil være en stor grad av overlapp. Betydningsfulle overganger og rolleendringer er ofte mer betegnende for hvilken livsfase man befinner seg i. Det er overganger og rolleendringer som knytter plikter, oppgaver og forventninger til de ulike livsfasene. Betydningsfulle hendelser kan være å etablere seg i parforhold, få barn, fullføre en utdanning, gå ut i yrkeslivet eller bli pensjonist. De ulike livsfasene preges av ulike helseutfordringer. En grunnleggende antakelse er at et individs helse på et gitt tidspunkt (stadium i livsløpet) er påvirket av et samspill mellom ressurser, seleksjon, egne valg, samt handlinger og tilpasninger tidligere i livsløpet (151).
+
+### Livsfaser med hormonell påvirkning
+
+Menn og kvinner kan reagere ulikt på noen arbeidsmiljøfaktorer. F.eks. kan eksponering for kjemiske stoffer føre til større helseproblemer hos kvinner enn menn, på grunn av ulike fysiologiske forutsetninger. Arbeidsmiljøet har også betydning for i hvilken grad arbeidshelse og arbeidstilknytning påvirkes av kvinners forskjellige livsfaser og hormonelle forandringer over tid.
+
+«Den biologiske hypotesen» handler om hvordan hormonell påvirkning påvirker kvinners helse og evne til å møte kravene som stilles i arbeidet. Graviditetsplager som kan hindre kvinner fra å jobbe som normalt (f.eks. kvalme, bekkenløsning og ryggsmerter) hører til under denne hypotesen, sammen med menstruasjonssmerter, hormonelle endringer og helseplager som en del av overgangsalderen.
+
+En oversikt fra 2023 identifiserte 130 vitenskapelige artikler om kvinners biologi i relasjon til arbeidskapasitet og sykefravær (152). Konklusjonen var at hormonelle endringer og menstruasjonsrelaterte plager, graviditet og reproduktive forhold, samt kroniske og komplekse lidelser påvirket arbeidsdeltakelse, men at det manglet en helhetlig oversikt over kvinnearbeidshelse fra et biologisk perspektiv (152). Dette er en del av doktorgradsavhandlingen «Kvinnehelse og arbeid i et folkehelseperspektiv». Hensikten med dette forskningsprosjektet var å utforske sammenhenger mellom kvinnehelse og kvinners deltakelse i arbeidslivet. Kvinnehelse og arbeid ble utforsket i et folkehelseperspektiv, der arbeidslivet er en viktig arena for å bedre folkehelse og levekår (153).
+
+Kvinnehelseutvalget (154) drøfter hvordan biologiske forutsetninger kan påvirke kvinners deltakelse i arbeidslivet, både for den enkelte kvinne og i et samfunnsperspektiv. Disse hormonelle påvirkningene knyttes opp mot ulike faser i kvinners fertile periode: menstruasjon, svangerskap og fødsel og overgangsalder. Den fertile perioden strekker seg derfor gjennom store deler av kvinners yrkesaktive alder. Denne delen av kvinnelivet omfatter mange tilstander som er normale hormonelle prosesser, men som samtidig kan disponere for ubalanser og sykdom (152). Nyere kvalitativ forskning fra henholdsvis helse- og utdanningssektoren peker på at kvinners spesifikke helseforhold kan påvirke deltakelse og likestilling i arbeidslivet, og argumenterer for at problemstillinger som gjelder mange kvinner bør løftes fra individuelt til strukturelt nivå (155).
+
+#### Menstruasjon
+
+Kvinnehelseutvalget viser til at man vet lite om hvordan menstruasjonen påvirker arbeidsevne og sykefravær. De peker likevel på at det finnes eksempler på internasjonal forskning som viser til at menstruasjon kan innvirke på arbeidsevne og føre til økt sykefravær, f.eks. ved premenstruelt syndrom (PMS) og endometriose. En nederlandsk tverrsnittsundersøkelse blant nærmere 33 000 kvinner i alderen 15–45 år viste at menstruasjonsrelaterte symptomer forårsaket mye tapt produktivitet, både ved nærvær og fravær. Gjennomsnittlig fravær relatert til en kvinnes menstruasjon var 1,3 dager per år. Om lag 80 prosent av respondentene rapporterte nærvær og redusert produktivitet i gjennomsnitt 23,2 dager per år. Kvinner under 21 år hadde større sannsynlighet for å rapportere fravær på grunn av menstruasjonsrelaterte symptomer (156). Det vises også til studier om at mulighet til fleksibilitet i arbeidssituasjonen, godt arbeidsmiljø og god tilgang på fasiliteter er viktig for å opprettholde arbeidskapasiteten. Kvinnehelseutvalget viser for øvrig til at kunnskap om hvordan menstruasjonsplager og -smerter påvirker arbeidsevne og sykefravær i Norge, er så godt som fraværende.
+
+#### Graviditet
+
+Graviditet kan medføre både plager og sykdom som påvirker arbeidsevnen. En del av kjønnsforskjellene i sykefravær kan forklares med graviditet, jf. bl.a. kapittel 3.7.1.5. Mastekaasa viser til at kvinner har et høyere fravær i de periodene de er gravide (150). I perioden 2015–2022 var sykefraværet for gravide mellom 20 og 44 år 19 prosent. For ikke-gravide i den samme aldersgruppen var sykefraværet fem prosent (31). Sykefravær blant gravide er høyest i yrkesgruppene renholdere og helsefagarbeidere. Sykefravær varierer avhengig av yrke bl.a. fordi arbeidsinnholdet og kravene til arbeidet varierer avhengig av yrke. Enkelte yrker er forbundet med mer fraværsfremmende arbeidsforhold enn andre, som tunge løft, skiftarbeid, tidspress og liten grad av muligheter til å påvirke arbeidssituasjonen (157). Graviditet og arbeid har fått mye oppmerksomhet gjennom de siste 20 årene, både mht. risikovurdering av arbeidsmiljø og individuell tilrettelegging. God tilrettelegging av arbeidet kan gi et trygt arbeidsmiljø for den gravide og det ufødte barnet. Mange arbeidsplasser har også utarbeidet rutiner for oppfølging av gravide ansatte i samråd med jordmødre eller bedriftshelsetjeneste. Veiledning om tilrettelegging for gravide omtales nærmere i kapittel 7.2.3.4.
+
+Likestillings- og diskrimineringsombudet har opplyst til Kvinnearbeidshelseutvalget at de hvert år får inn om lag 2 500 henvendelser til sin veiledningstjeneste. Den største enkeltkategorien av saker om diskriminering i arbeidslivet, handler om diskriminering på grunn av graviditet og foreldrepermisjon. Det er flest kvinner som henvender seg om slike problemstillinger. Ombudet viser videre til at det er godt dokumentert i en rekke studier at det er sammenheng mellom opplevd diskriminering, stress, helseatferd og sykdom (158). De som diskrimineres i arbeidslivet opplever ofte økonomiske tap og det følger ofte en psykisk belastning med å bli forbigått og utsatt for urettferdig behandling. For å bedre kvinners arbeidshelse, foreslår ombudet konkrete tiltak for å oppfylle aktivitets- og redegjørelsesplikten i likestillings- og diskrimineringsloven, jf. kapittel 7.1.3.14. Ombudet foreslår bl.a. å etablere en «best practice» rundt arbeidsliv/familieliv gjennom trepartssamarbeidet i ulike sektorer og at det gjennomføres standardiserte samtaler med gravide og ansatte i foreldrepermisjon.
+
+Juridisk Rådgivning for Kvinner (JURK) har også kommet med innspill til utvalget når det gjelder problemstillinger knyttet til diskriminering på grunn av graviditet. JURK blir ofte kontaktet av kvinner som er utsatt for diskriminering som følge av graviditet og foreldrepermisjon. Kvinnene opplever manglende tilrettelegging på grunn av graviditeten, at midlertidige kontrakter ikke fornyes, ekskludering fra lønnsforhandlinger og at arbeidsoppgavene endres etter endt foreldrepermisjon. Erfaringen er at graviditetsdiskriminering er et sektorovergripende problem. Det er deres erfaring at diskriminering av gravide skjer med kvinner uavhengig av yrke, utdanningsbakgrunn og hvorvidt de er offentlig eller privat ansatt. JURK viser også til at klienter opplever negative konsekvenser som følge av trakassering og diskriminering på arbeidsplassen. De opplever nedstemthet, skam, ubehag og usikkerhet. I de alvorligste tilfellene oppgir klientene at de har fått symptomer på posttraumatisk stresslidelse i etterkant av hendelsene. En fellesnevner er at klienter har hatt lengre perioder med sykefravær som en direkte følge av trakasseringen/diskrimineringen. I boks 6.1 presenteres noen eksempler på slike saker fra JURKs praksis.
+
+JURK: Eksempler på saker om diskriminering ved graviditet
+
+Eksempelsak – Stine
+
+Stine hadde lederstilling med personalansvar i en mellomstor bedrift. Da Stine ga beskjed til arbeidsgiver om at hun var gravid og kom til å gå ut i foreldrepermisjon, lovet arbeidsgiver å opprette en ny stilling til henne etter permisjonen. Mot slutten av permisjonstiden kontaktet Stine arbeidsgiver gjentatte ganger for å høre nærmere om den nye stillingen. Et par dager før permisjonen var over, hadde hun fremdeles ikke fått svar. Da hun kom tilbake på jobb, ble hun satt til en midlertidig servicestilling. Stine ble ikke inkludert i lønnsforhandlinger under permisjonen, og mottok ikke lønnsøkning på lik linje med kollegaer i sammenlignbare stillinger i bedriften, til tross for at hun hadde lengst ansiennitet.
+
+Eksempelsak – Mariam
+
+Mariam ble ansatt som tilkallingsvikar i en renholderstilling. Hun ble raskt spurt om hun kunne tenke seg en stilling som vikar på fulltid, hvilket hun takket ja til. Hun fant ut at hun var gravid kort tid etter dette og ga beskjed til arbeidsgiver. Tre måneder etter hun hadde fått forespørselen, etterlyste Mariam kontrakten for vikarstillingen. Hun fikk da beskjed om at de ikke kunne tilby henne vikariatet likevel siden hun skulle i permisjon før utløpet av vikarstillingen. På vegne av Mariam, klaget JURK saken inn for Diskrimineringsnemnda. Nemnda konkluderte med at bedriften hadde handlet i strid med forbudet mot diskriminering i ansettelsesprosesser, og tilkjente Mariam oppreisning på 20 000 kroner.
+
+Eksempelsak – Vilde
+
+Vilde jobbet som konsulent. Mens hun var i foreldrepermisjon, ble det besluttet å gjennomføre lønnsøkninger i bedriften. Vilde ble ikke inkludert i lønnsøkningen. Da hun spurte om begrunnelse for dette, begrunnet arbeidsgiver manglende lønnsøkning med at hun var i foreldrepermisjon. Før permisjonen lå Vilde an til å få høyeste lønnsøkning. Etter at møter med arbeidsgiver ikke førte fram, tok Vilde kontakt med JURK. Først etter at JURK skrev et brev til arbeidsgiver som informerte om at arbeidstakere i foreldrepermisjon har rett til å bli vurdert i lønnsforhandlinger på lik linje med andre arbeidstakere i tråd med likestillings- og diskrimineringsloven § 33 bokstav c, ble Vilde etterbetalt.
+
+\[Boks slutt\]
+
+Det antas i dag at om lag ti prosent av par trenger assistanse for å bli gravide, og fertilitetsbehandling kan ha plagsomme fysiske og psykiske bivirkninger. Også aborter kan oppleves som en stor påkjenning for kvinner, og spesielt gjentatte spontanaborter kan gi bekymring for aktivitetsnivå og fysisk og psykisk stress på jobb. Man mangler i dag kunnskap om disse problemstillingene (152), men Lima har vist at assistert befruktning og aborter bidrar til økt sykefravær (159).
+
+#### Overgangsalder
+
+Kvinner kommer vanligvis i overgangsalder i 45–55 årsalderen, med variasjon fra 40–60 år. Det er til en viss grad mulig å bruke alder som et mål på overgangsalderen. Dette gjør det mulig å sammenligne yngre kvinner med de som sannsynligvis er i overgangsalderen for å se om det er noen forskjeller. Men denne metoden fører sannsynligvis til en del misklassifisering, i og med at det varierer når kvinner kommer i overgangsalderen og dette bl.a. gjør det vanskelig å identifisere kvinner som har kommet i overgangsalderen tidlig (47).
+
+Mange kvinner opplever i denne fasen symptomer som hetetokter, søvnproblemer, nedsatt konsentrasjonsevne, humørsvingninger og muskel- og skjelettplager. 30 prosent har plager som er så uttalte at det går ut over livskvaliteten (154). En litteraturstudie om overgangsalder, helse og arbeid fra 2022 viser at kvinner med betydelige plager i overgangsalderen kan ha lavere arbeidskapasitet, høyere korttidsfravær og forhøyet risiko for å avslutte arbeidslivet før pensjonsalder (160). Imidlertid refereres det også til studier som ikke fant tilsvarende sammenhenger, noe som viser et behov for ytterligere forskning på feltet.
+
+Det er forsket lite på sammenhengen mellom overgangsalder og arbeidsdeltakelse i Norge, herunder sammenhengen med sykefravær og uførepensjonering. Tall fra 2024 viser at det er høyest andel kvinnelige mottakere av arbeidsavklaringspenger i aldersgruppen 40–49 år (33). Ser man på lønnstakere med legemeldt sykefravær, er det høyest sykefravær blant kvinner i alderen 50–64 år. Hellevik og Herlofsen har fulgt kvinner over tid fra de var i førti- og femtiårene i 2007 og fram til 2021 ved hjelp av data fra Den norske studien av livsløp, aldring og generasjon (2007 og 2017) som er koblet til registeropplysninger om inntekt (70). Formålet med analysene var å undersøke om det er særlige forhold ved kvinners liv som kan ha betydning for om de senere har en helseavgang fra arbeidslivet. Mottak av arbeidsavklaringspenger eller uføretrygd ble regnet som en helserelatert avgang. Undersøkelsen viste at kvinners egen helsestatus (selvrapportert) har stor betydning og forklarer en vesentlig del av sannsynligheten for en helserelatert avgang fra arbeidslivet.
+
+Kvinnehelseutvalget oppsummerer med at internasjonal og nasjonal forskning viser at kvinners biologi gir belastninger som kan påvirke arbeidsdeltakelse, men at man vet for lite om hvordan dette påvirker kjønnsforskjeller i arbeidslivet og betydningen for folkehelse og levekår (154). Det er behov for mer forskning for å fastslå hvilken rolle overgangsalder spiller for kvinners frafall fra arbeidslivet i denne alderen. Kvinnehelseutvalget foreslår derfor å øke kunnskapen om overgangsalder og arbeidsliv, se boks 6.2.
+
+Kvinnehelseutvalget – tiltak nr. 53
+
+«Det er lite kunnskap om hvordan kvinners arbeidshelse og livskvalitet påvirkes av overgangsalderen. Plager i forbindelse med overgangsalder er skambelagt, og kan for mange kvinner medføre utfordringer i arbeidslivet. Det mangler imidlertid god og oppdatert forskning på arbeidshelse blant kvinner i overgangsalderen. Utvalget anbefaler at det legges til rette for mer forskning på sammenhengen mellom overgangsalder og arbeidsliv. Utvalget ser fordeler ved at ulike fagmiljøer samarbeider på tvers med kunnskapsutvikling og forskning, f.eks. i samråd med partene i arbeidslivet. Tiltaket må ses i sammenheng med utvalgets foreslåtte tiltak for å sikre et nasjonalt strategisk forskningsløft.»
+
+\[Boks slutt\]
+
+Det kan samtidig vises til pågående forskning om tematikken overgangsalder og arbeidsdeltakelse for kvinner. Conti mfl. (161) har benyttet omfattende registerdata fra Norge for å undersøke effekten av overgangsalder på kvinners arbeidsdeltakelse, sykefravær, uføretrygd og lønn. Studien viser at overgangsalderen reduserer sannsynligheten for at kvinner jobber fulltid og øker sannsynligheten for sykmelding og uføretrygd blant kvinner uten høyere utdanning. Samlet gir dette en betydelig nedgang i kvinners produktivitet. Fire år etter at overgangsalderen inntreffer, er inntekten redusert med 25 prosent, sammenlignet med andre kvinner som ikke ennå har nådd overgangsalder. Samtidig er det 15 prosent større sannsynlighet for at de er uføretrygdet.
+
+Prosjektet KLAR – kvinnehelse, overgangsalder og arbeid gjennomføres i perioden 2024–2027 i samarbeid mellom NORCE og Universitetet i Bergen. Prosjektet ser på hvordan kvinners månedlige svingninger og livsfaser påvirker arbeidshelse og fravær fra arbeidet. Det ses videre på hvordan rammebetingelser og arbeidslivet kan bidra til at kvinner er i jobb i disse livsfasene, og dermed reduserer risikoen for fravær og eksklusjon fra arbeidslivet. Utgangspunktet er at det er typisk for overgangsalder at flere betydelige plager virker sammen, og at plager/sykdommer en har levd med forverres i denne perioden av livet. KLAR-prosjektet består av tre «arbeidspakker», hvor data fra ulike helseregistre og trygderegisteret kobles for å undersøke helseplager, behandling og legemiddelbruk og hvordan dette henger sammen med bærekraftig arbeidsdeltakelse hos kvinner i alderen fra 35 til 65 år. Arbeidspakke 3 omfatter bl.a. en Delphi-studie av relevans, nytte og tilpasning av europeiske anbefalinger for overgangsalder i arbeidslivet til norsk arbeidsliv. Målet er å bidra til at kvinner står i arbeid gjennom overgangsalderen.
+
+Kvinnehelseutvalget påpeker at det er behov for mer åpenhet om kvinners helse i overgangsalderen (154). Dette utvalget understreker behovet for at kvinner får god tilgang til oppdatert kunnskap om ulike plager som følger av overgangsalderen, og hvilke tiltak og livsstilsvalg kvinner kan gjøre for å ivareta god helse, oppleve mestring og forebygge sykdomsutvikling og sykefravær. Overgangsalder hos kvinner bør inngå som del av den målrettede kunnskapsformidlingen til tjenesteytere, både i spesialisthelsetjenesten og i kommunene. I regjeringens «kvinnehelsestrategi» pekes det på at man stadig får mer kunnskap om overgangsalderen. Det framgår av strategien at regjeringen vil be Helsedirektoratet om å oppdatere kunnskapsgrunnlaget og sikre at informasjon om overgangsalder når kvinner, herunder nytten av hormonbehandling (162).
+
+### Arbeid – familiebalansen – «De tre skiftene»
+
+«Dobbeltarbeidshypotesen» forklarer kvinners nivå av helseplager med at kvinner (i større grad enn menn) kombinerer yrkesaktivitet («det første skiftet») med større ansvar og tidsbruk knyttet til omsorgsoppgaver i hjemmet («det andre skiftet»). Kvinnehelseutvalget (154) peker videre på at kvinner i større grad tar ansvaret for og belastes med «familiens tredje skift», som handler om planlegging og det administrative arbeidet i hjemmet på kveldstid. Dobbeltarbeidshypotesen forklarer kvinners nivå av helseplager og manglende tilknytning til arbeidslivet med at kvinner i tillegg til jobb også tar hovedansvaret utenfor arbeidsplassen, med hjemmearbeid og omsorgsoppgaver. Dette ser imidlertid ut til å være avhengig av sosioøkonomisk status og har lite støtte i forskningen. Det kan likevel være at den høye andelen av kvinner som jobber deltid er en effekt av dette, og at flere hadde jobbet heltid hvis oppgavene i hjemmet hadde vært av mindre omfang. YS Arbeidslivsbarometer viser en nedgang i andelen respondenter som føler en god balanse mellom hjem og jobb fra 2023 (64 prosent) til 2024 (57 prosent). Dette gjelder spesielt blant unge mennesker. Tidspress på jobb ser ikke ut til å være den viktigste faktoren som påvirker balansen mellom jobb og hjem. Det pekes på at andre faktorer, som kanskje er relatert til endringer i arbeidslivet eller samfunnet generelt, kan spille en større rolle. Forventningene til å stille opp i hjemmet kan ha økt, og selv om det gis god tid til å fullføre oppgaver innen ordinær arbeidstid, har arbeidsoppgavene i hjemmet blitt flere og krever tid utover det som før ble regnet som privattid (42).
+
+Kvinnehelseutvalget viser til at det store ansvaret kvinner tar i familien vedvarer gjennom livsløpet, enten det er ansvar knyttet til småbarnsfasen, omsorg for syke partnere eller for foreldre i eldre år. Flere studier viser at den utfordrende balansegangen mellom arbeid og barneomsorg kan få konsekvenser for kvinners helse, i form av belastninger, stress, utbrenthet og depresjon. Hellevik og Herlofsen viser at kvinner i femtiårene oftest oppgir egen sykdom/uførhet som årsaken til at de arbeider deltid, mens omsorg for egne barn var vanligste grunn for førtiåringene. De peker på muligheten for at flere av kvinnene med helseutfordringer kunne endt opp med en tidligere helseavgang dersom de ikke hadde hatt muligheten til å jobbe redusert (70). Lima har undersøkt om det å få barn fører til økt sykefravær og til økte kjønnsforskjeller i sykefraværet (159). Sykefraværet til førstegangsfødende kvinner og deres samboere, før og etter fødsel, ble sammenlignet. Denne studien viser at det legemeldte sykefraværet øker betydelig for både menn og kvinner etter fødsel av første barn, men at både den relative og absolutte økningen er størst for kvinner, særlig fra år to til seks etter fødsel. Blant de som føder to barn øker kvinners sykefravær ytterligere i en periode på ca. fire år ved fødsel av barn nummer to. Sykefraværet skyldes i hovedsak at en gruppe får mye lengre sykefravær, og ikke at mange kvinner får noe mer sykefravær. Sykefraværet begynner å avta fra fire til fem år etter andre fødsel. Det å få barn forstås derfor som en viktig forklaring på de betydelige kjønnsforskjellene i sykefravær. En sterk økning i symptomplager som tretthet/slapphet og psykiske symptomer og plager ses i sammenheng med stor samlet arbeidsbyrde etter at en har fått barn. Andre studier finner imidlertid begrenset støtte til hypotesen om at kombinasjon av ansvar for barn og arbeidsdeltakelse kan forklare et høyt sykefravær blant kvinner (150). Det er i denne sammenheng også påpekt at det å kombinere flere sosiale roller, f.eks. rollen som forelder og arbeidstaker, kan ha gunstige helsemessige effekter. Statens arbeidsmiljøinstitutt (STAMI) viser også til at en kombinasjon av arbeid og hjemmeoppgaver kan virke gunstig på helse (47).
+
+Statistisk sentralbyrås (SSBs) tidsbruksundersøkelser (163) viser at den største endringen i tidsbruk i familier siden 1970-tallet består i at kvinner har brukt stadig mindre tid på husarbeid og mer tid på inntektsgivende arbeid. I dag bruker kvinner nesten tre timer mindre på husarbeid om dagen (en time og 23 minutter i gjennomsnitt), enn på 1970-tallet. Menn har hatt en liten økning i tiden de bruker på husarbeid per dag (52 minutter i gjennomsnitt). I 2022 var tidsbruk blant de som utførte en omsorgsoppgave på det høyeste målt i tidsbruksundersøkelsen, for både kvinner og menn. Det var en nedgang i kvinners tidsbruk på omsorgsoppgaver mellom 1990 og 2000, men denne økte i både 2010 og 2022. Økningen ses også blant menn. Man bruker mer tid på omsorgsoppgaver når barna er små enn når barna blir eldre. I par med barn under sju år bruker kvinner nesten en time mer på omsorgsoppgaver enn menn en gjennomsnittsdag. Disse kjønnsforskjellene forsvinner nesten helt når parets yngste barn er sju år eller eldre. Når barna er små bruker både menn og kvinner mer tid på husarbeid enn når barna er eldre. I par med små barn bruker både menn og kvinner mindre tid på inntektsgivende arbeid. Mødre i par med små barn bruker i gjennomsnitt seks timer og 33 minutter på jobb en arbeidsdag. Til sammenligning bruker fedre i par med små barn sju timer og 46 minutter på jobb en arbeidsdag. Kjønnsforskjellene er også til stede blant mødre og fedre i par med eldre barn, hvor mødrenes arbeidsdag er seks timer og 56 minutter i gjennomsnitt mens fedrenes er åtte timer og ti minutter. Mannsutvalget peker på at menn og kvinner har ulike rammer for å få til balanse mellom arbeid og familieliv. Innsats for økt likestilling i arbeidslivet har hovedsakelig vært rettet mot kvinnedominerte bransjer og kvinners mangel på likestilling, og det er lite systematisk kunnskap om hvordan mannsdominerte bransjer tilrettelegger for arbeid – familiebalansen (164). Et tiltak i regjeringens likestillingsstrategi (2025–2030) er å etablere et trepartssamarbeid for å bedre balansen mellom arbeid og familie i mannsdominerte og kvinnedominerte bransjer. Arbeidet skal starte med kunnskapsinnhenting, og innretningen skal drøftes i Arbeidsgruppe for likestilling i arbeidslivet under Arbeidslivs- og pensjonspolitisk råd, jf. kapittel 7.3.1.4.
+
+Kombinasjonen av høye krav, både på jobb og hjemme, løftes tidvis fram som en mulig forklaring på kvinners sykefravær, bl.a. knyttet til psykiske lidelser (154). SSB viser at kvinneliv og kvinnehelse er tett forbundet, og mange kvinner sjonglerer en rekke ulike roller, som elev, student, arbeidstaker, partner, mor, datter og venninne. Mange kvinner er også omsorgsgivere og støttepersoner for personer i og utenfor egen husholdning (151).
+
+Kvinnehelseutvalget viser til at den demografiske utviklingen tilsier at dersom omsorgstilbudet skal opprettholdes, må pårørendeomsorg også opprettholdes (154). Det er personer i alderen 45–66 år som i størst grad yter denne omsorgen. Helsepersonellkommisjonen (81) peker på at samfunnet i stor grad er avhengig av pårørendes innsats for mennesker som har behov for hjelp og støtte. Store omsorgsoppgaver bidrar til at noen pårørende selv får behov for helse- og omsorgstjenester som følge av belastningen, eller at de faller ut av arbeidslivet. Sentralt her er at kvinner i tillegg til å yte pårørendeinnsats samtidig utgjør majoriteten av de ansatte i helse- og omsorgstjenesten, som ifølge kommisjonen står overfor betydelig knapphet på personell. Den nasjonale pårørendeundersøkelsen (165) viser at kvinner bruker mer tid på pårørendeomsorg enn menn, men andelen middelaldrende menn som gir hjelp til syke, eldre eller funksjonshemmede er økende. Dette ses også i sammenheng med at norske menn bruker mer tid på husarbeid og omsorg for barn, jf. omtale av tidsbruksundersøkelsene over. Gautun og Bratt undersøkte hvordan omsorg for gamle foreldre påvirker omsorgsgivernes arbeidsmarkedsdeltakelse (166). Resultatene indikerte at pårørendeomsorg ikke hadde noen vesentlig innvirkning på den samlede deltakelsen i arbeidsstyrken. Ansatte brukte imidlertid arbeidsfravær for å hjelpe foreldrene sine. Med arbeidsfravær menes i studien ferie, avspasering, lønnet og ulønnet permisjon og sykefravær. Kvinner var moderat mer tilbøyelige til å bruke arbeidsfravær til å ta vare på foreldre. Gautun og Bratt konkluderer likevel med at omsorg for eldre foreldre i dag har liten effekt på arbeidsdeltakelse, og tilskriver dette det omfattende offentlige eldreomsorgssystemet i Norge. Hellevik og Herlofsen har også vist at potensielle omsorgsoppgaver i familien (spesielt partner med langvarig sykdom) har betydning for avgang fra arbeidslivet, men i langt mindre grad enn selvrapportert helsestatus (70).
+
+I en gjennomgang av norske registerdata undersøkte Lizardi mfl. hvordan et plutselig «helsesjokk» hos eldre i form av hjerneslag eller hoftebrudd påvirket deres voksne barns yrkesdeltakelse. Analysene viste at det å ha omsorgstrengende foreldre i liten grad har innvirkning på sysselsetting og inntekt, og at virkningen i hovedsak er en høyere risiko for legemeldt sykefravær i etterkant av «helsesjokket», heller enn frafall fra arbeidslivet. Risikoen for sykefravær var større for voksne døtre enn voksne sønner, men i stor grad forbigående for begge kjønn (167). Funnene fra registerdataene er konsistente med funnene fra Gautun og Bratts undersøkelse.
+
+## Vold og seksuelle overgrep
+
+Kvinner i ulike yrker utsettes for vold og trakassering gjennom arbeidet, og dette har betydning for arbeidshelse. Vold og trakassering som arbeidsmiljøfaktorer og helseeffekter av dette, beskrives i kapittel 4 og 5. Vold og overgrep utenfor arbeidet, har imidlertid også betydning for kvinners helse og arbeidsdeltakelse. Kvinner er i større grad enn menn utsatt for seksuell vold og vold i nære relasjoner, og er også oftere utsatt for vold gjennom livet (154).
+
+Funn i flere studier viser at det trolig er reelle samfunnsøkonomiske kostnader knyttet til redusert produktivitet som følge av vold i nære relasjoner, men at det er krevende å anslå omfanget. Menon beregnet i 2023 samfunnskostnadene ved vold i nære relasjoner (168). Det ble anslått at om lag 200 000 personer har vært utsatt for vold i nære relasjoner i Norge i femårsperioden 2016–2021. Vold i nære relasjoner påvirker folkehelsen negativt. Det fører til svakere fysisk og mental helse, og til tidlig død. Vold i nære relasjoner fører bl.a. til at personer som ellers ville vært i arbeid, faller helt eller delvis utenfor arbeidsstyrken eller på andre måter har en redusert arbeidsinnsats i en kortere eller lengre periode.
+
+Norske funn tyder på at voldsutsatthet øker risikoen for arbeidsledighet (169). En kvalitativ studie fra 2016 undersøkte hva lønnet arbeid betyr for kvinner utsatt for partnervold, og hvordan det å leve sammen med en voldelig partner påvirket deres arbeidsliv. Arbeid var viktig for kvinnene, da det representerte fri fra vold, kontakt med andre som tok vare på dem og opprettholdelse av selvtillit og selvrespekt. Å ha egne penger ga trygghet og styrket troen på at de kunne klare seg selv. Spredningen av problemer med vold i nære relasjoner dukket opp gjennom følelser av frykt, skam og skyld på jobben.
+
+En norsk befolkningsstudie fant at seksuelle overgrep i barndommen dobler risikoen for uføretrygd på et senere tidspunkt (170). Hensikten med denne studien var å undersøke om det var en statistisk sammenheng mellom seksuelle overgrep i barndommen og arbeidsuførhet i et befolkningsutvalg av voksne personer i Norge. I et utvalg rekruttert fra den representative voksne befolkningen i Norge, var det en økt sannsynlighet for arbeidsuførhet blant personer som hadde blitt utsatt for seksuelle overgrep før fylte 16 år. Denne sammenhengen kan sannsynligvis delvis forklares av økte mentale og somatiske helseproblemer blant overgrepsutsatte.
+
+Nasjonalt kunnskapssenter om vold og traumatisk stress (NKVTS) gjennomførte i 2014 en undersøkelse av forekomsten av vold og seksuelle overgrep i den norske befolkningen (171). Undersøkelsen viste at vold og overgrep har et betydelig omfang, og at vold i nære relasjoner rammer mange. Det var klare forskjeller mellom kvinner og menn med hensyn til hva slags hendelser og i hvilke relasjoner de var mest utsatt. Menn hadde størst risiko for å utsettes for fysisk vold, mens voldtekt i hovedsak rammet kvinner. Menn og kvinner var omtrent like utsatt for mindre alvorlig vold fra sin partner, mens det var kvinner som var mest utsatt for den mer alvorlige psykiske partnervolden.
+
+NKVTS beregnet igjen i 2023 omfanget av vold og overgrep i den norske befolkningen (172). Denne studien inngår i et forskningsprogram om vold i nære relasjoner (2019–2024). Sammenlignet med 2014-studien fant man en økning i rapportert omfang av voldtekt ved makt og tvang, alvorlig fysisk vold og alvorlig partnervold. Det kan ikke fastslås om denne økningen representerer en reell økning av voldsforekomst eller økt grad av rapportering. Et tydelig funn er likevel at voldsforekomsten er høy i begge undersøkelsene. NKVTS fant klare kjønnsforskjeller i typer vold man blir utsatt for og hvem som er utøver. Kvinner er mer utsatt for gjentatt vold, flere typer vold, samt vold og overgrep i nære relasjoner. Kvinner er også særlig utsatt for voldtekt og seksuelle overgrep. Én av fem kvinner rapporterer voldtekt ved makt og tvang eller sovevoldtekt. Elleve prosent av kvinnene har vært utsatt for alvorlig partnervold. Yngre personer er mer utsatt for både alvorlig fysisk vold, voldtekt og partnervold, sammenlignet med personer i eldre aldersgrupper. De som utsettes for vold i barndommen, går inn i voksenlivet med økt risiko for å utsettes på nytt (reviktimisering). NKVTS fant i denne studien at slik reviktimisering har tydelig sammenheng med økt nivå av angst, depresjon og posttraumatiske stressreaksjoner.
+
+Det mangler fortsatt kunnskap om hvilken effekt vold har på arbeidsdeltakelse, og om hvordan rammebetingelser og oppfølgingstiltak i arbeidslivet kan bidra til å styrke tilknytningen til arbeidslivet for kvinner som har helseutfordringer på grunn av vold og overgrep. NKVTS samarbeider med Folkehelseinstituttet (FHI) og STAMI om en ny studie; «Arbeid etter vold. Konsekvensene av vold for arbeidslivet» (2023–2026). Dette prosjektet undersøker sammenhengen mellom voldsutsatthet og arbeidsdeltakelse med sykefraværs- og trygdedata fra Nav og SSB. Målet er å få økt kunnskap om konsekvensene av vold og overgrep for arbeidsdeltakelse, og mulige forebyggende tiltak for arbeid etter vold. Dette kan være tiltak for bedre oppfølging og tilrettelegging, samt samhandling mellom voldsutsatte arbeidstakere, arbeidsgivere, Nav og helsetjenesten.
+
+En studie av Bjørnholt belyser hvordan «fortsettelsesvold» etter et samlivsbrudd kan påvirke arbeidsdeltakelse (173). Studien gir gjennom intervjuer med 46 voldsutsatte mødre eksempler på hvordan deres arbeidsevne har blitt påvirket av vold i etterkant av bruddet. En del ble syke eller presset ut av arbeidslivet under samlivet, og belastningene har hindret dem i å komme seg i jobb igjen etter bruddet. Andre ble først syke av belastningene og volden etter bruddet. Noen hadde også sagt opp jobben for å ta seg av barn som var blitt syke eller sterkt preget av volden. Felles er at de har mistet nettverk og at økonomien er svekket når de står utenfor arbeidslivet.
+
+Det er utarbeidet egne retningslinjer om Navs ansvar og plikter ved oppfølging av personer som er utsatt for vold i nære relasjoner eller menneskehandel.[^17] Det vises her bl.a. til at arbeidstilknytning og selvforsørging kan være viktig for muligheten til å bryte ut av et voldelig forhold. Utgangspunktet er at innsats med riktig hjelp er nøkkelen til økt arbeidsevne. Både omfanget av vold i nære relasjoner og konsekvensene vold kan gi for arbeidslivstilknytning er omfattende. I Regjeringens handlingsplan for å forebygge og bekjempe vold i nære relasjoner 2021–2024, er det nedfelt et tiltak (tiltak 5) om å opprette et ressurssenter i Nav med ansvar for nasjonal kompetanseheving og utvikling av arbeidsmetodikk for arbeidsinkludering av voldsutsatte. Dette ressurssenteret er opprettet, og det arbeides med utvikling og uttesting av en fagmodul til bruk i Nav. Målgruppen er veiledere i etaten, men også ansatte i kommunene vil kunne ha nytte av kurset. Det er et mål å få ferdigstilt modulen innen første kvartal 2025.
+
+## Kvinners sykdom
+
+En rekke plager og sykdommer som i stor grad rammer kvinner, har betydning for kvinners deltakelse i arbeidslivet. Dette er plager og sykdommer som ikke i seg selv karakteriseres som «kvinnesykdommer» eller knyttes direkte til kvinners biologiske forhold, jf. kapittel 6.1.1.
+
+Kvinnehelseutvalget (154) viser til at kvinner oftere enn menn har lidelser som er kroniske og som har komplekse årsaksmekanismer. Symptomer kan framstå som diffuse, og utredning og diagnostisering kan ta tid. Dette gjør at man trekker plagene med seg gjennom livet, i større grad enn hvis det handler om en akutt skade eller sykdom som lett lar seg diagnostisere og behandle. Spesielt når det gjelder sykdommer som er relatert til hormon- og reproduksjonssystemet, kan det være vanskelig å skille mellom hva som er normalt og hva som er sykdom, da tilstandene for mange normalt sett medfører et visst nivå av smerte eller ubehag. Dette kan resultere i at kvinner går lenge med plager før de oppsøker medisinsk hjelp, og det kan gjøre at de kvier seg for å informere arbeidsgiver selv om tilstandene går ut over arbeidsevnen. Samtidig er åpenhet med arbeidsgiver og god dialog avgjørende for å få til tilrettelegging som treffer de faktiske problemstillingene.
+
+Kvinnehelseutvalget viser også at de fleste jenter har det godt i Norge i dag, og rapporterer om god fysisk og psykisk helse. En rekke studier viser samtidig at andelen jenter i alderen 13–24 år som rapporterer om psykiske plager som stress har økt de siste tiårene. Et høyt nivå av selvrapporterte psykiske plager er vanligere hos jenter enn hos gutter (174). Ulike undersøkelser har målt og definert psykiske plager ulikt, men rapporterer samtidig om et økt nivå. Andelen barn og unge som blir diagnostisert med en psykisk lidelse i spesialisthelsetjenesten har økt de siste ti årene, spesielt for jenter og kvinner i alderen 12–24 år. Hele 22 prosent av unge kvinner mellom 16 og 24 år hadde betydelige psykiske plager i 2019. Forekomsten av depresjon er høyere hos jenter enn hos gutter fra tolvårsalderen, og kjønnsforskjellene øker i ungdomstiden før den minker noe igjen (174). Samtidig er den egenvurderte helsen langt bedre blant yngre enn eldre kvinner, primært fordi unge i mindre grad har varig sykdom, begrensinger i hverdagen og funksjonsnedsettelser (151).
+
+Flesteparten av voksne kvinner (25–44 år) har god egenvurdert helse, og kun en liten andel har dårlig helse (151). Samtidig lever mange med ulike plager, som migrene, hodepine og smerter i kroppen. En del opplever også ulike psykiske lidelser som depresjon og angst. Blant middelaldrende kvinner (45–64 år) har livskvaliteten økt noe over tid og nær halvparten er tilfredse med livet. Mange oppgir at de har god helse, men flere enn før har imidlertid søvnproblemer, og det samme gjelder hodepine og kroppslige smerter (151).
+
+Mange middelaldrende kvinner opplever flere plager i muskler og skjelett. Kroniske smerter kan påvirke både arbeidsevne og sykefravær, og muskel- og skjelettlidelser utgjør en høy prosentandel av sykmeldinger generelt.
+
+SSBs rapport om kvinners liv og helse siste 20 år (151) har vist at kunnskapsgrunnlaget er varierende på områder med betydning for kvinners liv og helse. Her viser nye tall at 43 prosent av alle kvinner i alderen 25–44 år har varige eller tilbakevendende hodesmerter. Det er per i dag lite forskning om hvordan kroniske sykdommer og tilstander påvirker arbeidshelsen. Nedsatt arbeidskapasitet, kanskje også i kombinasjon med krevende arbeidsforhold, kan føre til slitasje som igjen gir høyere sykefravær. I rapporten pekes det på at tett oppfølging av leder og individuelle tiltak er suksessfaktorer når det gjelder å stå i jobb med redusert helse. Andre studier peker på at mangel på ledertilgjengelighet kan være en sårbarhet i situasjoner hvor ansatte med helseutfordringer har behov for dialog og oppfølging og blir forklart med ledernes overbelastning av administrative oppgaver og store kontrollspenn (175).
+
+En del kvinner har høyt blodtrykk og høyt kolesterol, mens det er relativt få som får alvorligere hjerte- og karsykdommer som infarkt, angina og slag. Hjertesykdom kan arte seg ulikt hos kvinner og menn, hvor biologiske og psykologiske kjønnsfaktorer gir variasjon i både risiko og symptomer. Manglende kunnskap om kjønnsforskjell i symptombildet kan resultere i forsinket behandling av kvinner som ikke har de klassiske symptomene på akutt hjertesykdom (154).
+
+## Sykdomsatferd
+
+«Den sosiokulturelle hypotesen» legger til grunn at kvinner tilsynelatende har høyere fravær og dårligere helse sammenlignet med menn fordi de har andre normer når det gjelder håndtering av helseplager og jobbfravær. Mastekaasa viser til at for mange, eller trolig de fleste sykdomstilstander er det ikke mulig å gjøre et klart skille mellom sykdommen «i seg selv» på den ene siden og hvordan man reagerer på sykdommen på den andre, eller med andre ord mellom sykdom og sykdomsatferd (150). Dermed er det heller ikke mulig å skille klart mellom sykdom og sosiale eller kulturelle påvirkninger (f.eks. sosiale normer) som årsaker til sykefravær.
+
+En ambisjon om at forskning skal kunne si hvor mye av sykefraværet eller av kjønnsforskjellen i sykefravær som er rent sykdomsbetinget, er derfor urealistisk. Det betyr imidlertid ikke at studier av hvordan kvinner og menn reagerer på sykdomstilstander er uinteressante.
+
+Tidligere forskning gir begrenset forståelse for hvorfor sykefraværet er høyere blant kvinner enn blant menn, men holdninger og normer har blitt foreslått som en forklaring på denne kjønnsforskjellen. Holdningsundersøkelser har vist at kvinner gjennomgående er mindre strenge enn menn i synet på sykefravær (176). I gjennomsnitt synes kvinner i større grad enn menn at det er greit med sykmelding i ulike situasjoner, og de aksepterer oftere lengre sykmeldinger. Kjønnsforskjellen er størst i holdninger til å benytte sykmelding ved store livshendelser. Holdningsundersøkelsen viser ikke kjønnsforskjeller i holdning til mottak av uberettiget trygd. Separate analyser for kvinner og menn viser imidlertid at den økte tilbøyeligheten til å akseptere sykmelding ved omsorg for familie når alderen stiger, kun gjelder for kvinner, og ikke menn. Det kan ikke slås fast om holdninger forårsaker sykefravær eller om sykefravær forårsaker visse typer holdninger – eller om sykdom påvirker både holdninger og sykefravær. Nossen (177) poengterer f.eks. at det ikke nødvendigvis er slik at mer liberale holdninger er en årsak til kvinners høyere sykefravær – det kan like gjerne være at de som har mer erfaring med helseplager får mer liberale holdninger til sykefravær.
+
+Hellevik mfl. (178) har videre vist at kvinner i snitt har et høyere sykefravær enn menn. Analysen viser at kvinner også har en noe større tilbøyelighet enn menn til å akseptere sykefravær i en situasjon der dette egentlig ikke er berettiget etter regelverket, fordi det medisinske vilkåret ikke er oppfylt (man er strengt tatt frisk nok til å gå på jobb). Kjønnsforskjellen er robust over tid og mellom aldersgrupper. Også når det gjelder spørsmål som spesifiserer ulike typer jobb- eller familierelaterte årsaker til sykefravær, er menn gjennomgående mer restriktive enn kvinner i synet på om det er rimelig med sykefravær og hvor lenge et eventuelt fravær bør vare. Resultatene tyder på at ulik tilknytning til arbeidslivet betyr mer enn ulikheter i familiesituasjon. At menn har lengre arbeidsuker og oftere lederstillinger enn kvinner er noe av forklaringen på hvorfor de er mindre villige enn kvinner til å godta sykefravær når man strengt tatt er frisk nok til å gå på jobb. Kvinners og menns familiesituasjon ser derimot ut til å bety lite for holdningsforskjellen, først og fremst fordi det her er mindre variasjon mellom kjønnene sammenlignet med forskjellene i arbeidssituasjon, men også fordi effekten av familievariablene på sykefraværsholdning er svakere. Endelig er kvinner og menn mer uenige om hvorvidt det er noen grunn til sykefravær i forbindelse med en vanskelig eller slitsom arbeidssituasjon, enn en situasjon med omsorgsbehov i familien. Høyest grad av samstemthet mellom kjønnene finner man i synet på sykefravær og sykefraværslengde når det er spørsmål om å ta seg av syke barn. Det vises for øvrig i kapittel 6.1.2, til at kvinner kan være moderat mer tilbøyelige til å bruke sykefravær til å ta vare på eldre foreldre (166, 167).
+
+Begrepet «sykenærvær» beskriver en situasjon hvor arbeidstaker møter på arbeid når en burde ha vært fraværende på grunn av sykdom eller helseplager (179). Sykenærvær er ofte et resultat av en kombinasjon av individuelle og organisatoriske faktorer. Individuelle faktorer kan være helseproblemer, stress og personlige forventninger til arbeidsprestasjon, mens organisatoriske faktorer kan omfatte arbeidsmiljø, ledelsespraksis og kulturelle normer på arbeidsplassen (180). Aronsson og Gustafsson har undersøkt hvordan sykenærvær kan ha langsiktige negative konsekvenser for både individet og organisasjonen (179). De argumenterer for at ansatte som opplever sykenærvær, ofte har høyere risiko for framtidig sykefravær, noe som kan påvirke produktiviteten og arbeidsmiljøet negativt (180, 181). Sykenærvær har tidligere vist å ha negative konsekvenser, ikke bare for den enkelte arbeidstaker, men også for kollegaer, organisasjon og samfunnet (179, 181, 182). Likevel kan sykenærvær også ses på som en ressurs fordi arbeid i seg selv kan virke helsefremmende for arbeidstakeren.
+
+«Restitusjon» innebærer å gjenopprette fysisk og psykisk helse etter sykdom eller stress (183). Aktiviteter som fremmer restitusjon, som fysisk trening og psykologisk avkobling fra arbeid, er negativt assosiert med symptomer på belastning og positivt assosiert med velvære. Dette indikerer at ansatte som får tilstrekkelig tid og mulighet til å restituere seg, er mindre tilbøyelige til å oppleve sykenærvær og til å ha en bedre helse generelt. Samtidig kan sykenærvær også ha negative konsekvenser for restitusjon. Når ansatte møter opp på jobb til tross for helseproblemer, kan dette hindre dem i å oppnå tilstrekkelig restitusjon, noe som kan føre til en forverring av deres helse og økt risiko for framtidig sykefravær (184, 185).
+
+Kvinner søker helserelatert hjelp oftere enn menn, bl.a. for psykiske lidelser, som historisk sett har vært mer utbredt blant kvinner. I denne sammenheng kan det vises til at arbeidslivet i Norge er kjønnsdelt, og at kvinner og menn har ulikt omfang og type av eksponeringer i arbeidet. Kvinnedominerte arbeidsplasser preges i større grad av psykososiale arbeidsmiljøeksponeringer, som f.eks. emosjonelle og relasjonelle krav, jf. kapittel 4. Løset mfl. har undersøkt om kjønnsforskjellen i sykefravær gjenspeiler kjønnsforskjeller i sykefraværsholdninger eller kjønnede normer for sykefravær i samfunnet (186). Analysene er basert på data fra et faktorundersøkelsesforsøk som omfattet 1 800 mannlige og kvinnelige sysselsatte respondenter i Norge i 2016. Løset mfl. fant ikke vesentlige kjønnsforskjeller, verken i holdninger til sykefravær eller sykefraværsnormer. Videre analyser indikerte imidlertid mer tolerante sosiale normer for sykefravær for ansatte i kjønnsdominerte yrker enn for ansatte i kjønnsintegrerte yrker. Dette mønsteret kan være et resultat av typen arbeid som tilskrives disse yrkene snarere enn deres kjønnssammensetning. Løset mfl. konkluderte derfor med at utbredte holdninger og normer for sykefravær neppe er drivere for kjønnsforskjellen i sykefravær.
+
+# Rammebetingelser og oppfølgingstiltak
+
+ 

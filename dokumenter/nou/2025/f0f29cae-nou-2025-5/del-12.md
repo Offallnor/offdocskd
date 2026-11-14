@@ -1,838 +1,544 @@
-# NOU 2025: 5, del 12 av 17 (side 157–166)
+# NOU 2025: 5, del 12 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2025/f0f29cae-nou-2025-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2025-5/id3094205/
 - Original-PDF: https://www.regjeringen.no/contentassets/3851f71301cf4747875a444d10b7b379/no/pdfs/nou202520250005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 41 tabeller, 53 figurer, 1670 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 157]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-Det ble til sammen gjennomført 2 315 tilsyn i
-hjemmetjenester i alle landets 434 kommuner i tre
-runder; 2002–2003, 2003–2004 og i 2007. Alle tilsynsrundene avdekket store arbeidsmiljøutfordringer knyttet til temaene tidspress, tunge løft,
-uheldige arbeidsstillinger og vold og trusler i
-hjemmetjenesten. I tillegg til tilsyn ble det igangsatt et stort informasjons- og veiledningsarbeid i
-form av møter med målgruppene og partene i
-arbeidslivet, distribusjon av en rekke veiledningsmateriell og oppslag i ulike medier og fagblader.
-Jobbing uten mobbing (2005–2007)
-«Jobbing uten mobbing» var en informasjons- og
-veiledningskampanje der formålet var å øke kunnskap og sette både arbeidsgivere og arbeidstakere
-i stand til å forebygge og håndtere mobbing og
-trakassering på jobb. Et viktig formål var også å
-tydeliggjøre at forebygging og håndtering av mobbing er en viktig del av det systematiske HMSarbeidet i enhver virksomhet. Prosjektet ble initiert av partene i arbeidslivet, og fikk mye oppmerksomhet. I samarbeid med forskere og partene i arbeidslivet ble det utviklet veiledningsmateriell og verktøy som ble samlet på en felles nettside. I samme periode kom forbudet mot trakassering inn i arbeidsmiljøloven.
-God vakt! Arbeidsmiljø i sykehus (2005–2011)
-God vakt! var en landsdekkende tilsynskampanje
-der Arbeidstilsynet gjennomførte til sammen 875
-tilsyn og møter i 22 offentlige helseforetak og fem
-private sykehus i 2005 og i 2008. Kampanjen
-skulle føre til reduksjon i de belastningene som
-bidrar til arbeidsrelaterte skader og sykdommer i
-helseforetakene, og hadde som mål at helseforetakene skulle ha fungerende HMS-systemer, og
-skulle organisere arbeidet slik at ansatte ikke ble
-utsatt for helseskadelige psykiske eller fysiske
-belastninger i arbeidet. Relevante temaer som ble
-vektlagt var organisering av arbeidet, omstilling,
-psykiske og sosiale belastninger, ergonomiske
-belastninger, og kjemisk og biologisk helsefare.
-Det ble avdekket brudd på arbeidsmiljøregelverket og gitt reaksjoner i form av pålegg til samtlige
-helseforetak/private sykehus. I tillegg til tilsyn
-ble det gjennomført informasjons- og veivisningstiltak i form av en veiledningsbrosjyre, publisering
-av påleggsdokumentene, utgivelse av en informasjonsavis i 40 000 eksemplarer og pressemeldinger i nasjonal og lokal presse.
-
-155
-
-Kapittel 7
-
-3-2-1 Sammen for et godt arbeidsmiljø
-Dette samarbeidsprosjektet ble initiert med bakgrunn i Avtalen om et mer inkluderende arbeidsliv (IA-avtalen) 2006–2009. Nav og arbeidsgiverog arbeidstakerorganisasjonene deltok også i prosjektet. Målene i prosjektet var å forbedre arbeidsmiljøet, redusere sykefravær og øke den reelle
-pensjoneringsalderen i to utvalgte bransjer med
-store utstøtingsproblemer: sykehjem og kjøttindustrien. Prosjektets navn refererer til tre parter i
-arbeidslivet, to bransjer og ett felles mål. For
-begge målgrupper var muskel- og skjelettlidelser
-fulgt av psykiske lidelser de største diagnosegruppene for sykefravær og uførepensjonering.
-Ved oppstart av prosjektet ble det gjennomført
-samlinger der systematisk HMS- og IA-arbeid ble
-presentert og samarbeid etablert. Det ble avholdt
-regionale, bransjevise samlinger i flere runder,
-der hensikten var kunnskaps- og erfaringsdeling
-på tvers av virksomhetene. Det ble avsatt midler
-til gjennomføring av arbeidsmiljøtiltak på virksomhetsnivå, og midlene gikk bl.a. til personalsamlinger, lederopplæring, kurs i kommunikasjon og
-konfliktløsning, og opplæring i refleksjonsverktøy.
-Med skolen som arbeidsplass (2009–2010)
-«Med skolen som arbeidsplass» inngikk i Arbeidstilsynets innsats for et inkluderende arbeidsliv.
-Målet var at skolene og skoleeiere skulle bli bedre
-i stand til å forebygge sykefravær og utstøting ved
-å jobbe systematisk med HMS for å sikre et godt
-og inkluderende arbeidsmiljø for alle ansatte i
-skolen. Psykososiale og inneklimarelaterte risikofaktorer i sektoren var særlig i fokus i tilsynene.
-Mer konkret handlet det bl.a. om kartlegging,
-risikovurdering og oppfølging av psykososiale
-arbeidsmiljøutfordringer med særlig fokus på
-konflikter, vold og trusler, omstillinger og sikring
-av et fullt forsvarlig inneklima. Arbeidstilsynet
-gjennomførte 831 tilsyn i grunnskoler og videregående skoler. I 76 prosent av tilsynene ble det
-avdekket brudd på arbeidsmiljølovens krav som
-resulterte i reaksjoner i form av pålegg.
-Arbeid for helse (2010–2012)
-Hovedmålet til satsingen «Arbeid for helse» var å
-sette virksomhetene bedre i stand til å forebygge
-psykiske belastninger som kan oppstå på grunn
-av uheldige psykososiale og organisatoriske
-arbeidsmiljøforhold. Aktuelle temaer var bl.a. vold
-og trusler, konflikter, trakassering, omstilling,
-varsling, uheldig stressbelastning, sosial støtte,
-
-[Side 158]
-
-156
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-autonomi, opplæring og medvirkning. Alle temaene ble knyttet til systematisk helse-, miljø- og sikkerhetsarbeid, herunder kartlegging, risikovurdering, plan og avvikssystem. 1 360 tilsyn ble gjennomført i hele landet i bransjer med særlig risiko
-for muskel- og skjelettplager og psykiske belastninger. Dette inkluderte bl.a. barnevernsinstitusjoner, kommunalt barnevern, asylmottak og
-mediebedrifter. Det ble avdekket brudd på
-arbeidsmiljølovens krav i totalt 61 prosent av tilsynene. I tillegg til tilsyn, ble det i satsingen gjennomført omfattende informasjons- og veiledningsarbeid.
-På lag (2011–2012)
-«På lag» var en tilsyns- og veiledningssatsing hvor
-tilsyn med helse, miljø og sikkerhet først og
-fremst ble sett i sammenheng med organisatoriske og psykososiale arbeidsbetingelser. Prosjektet prioriterte bransjer og virksomheter med særlige utfordringer med hensyn til tilrettelegging,
-sykefravær og utstøting fra arbeidslivet. Det inkluderte flere kvinnedominerte næringer og bransjer, bl.a. store deler av helse- og sosialsektoren
-(sykehjem, aldershjem og hjemmetjeneste, tannhelse), undervisning, varehandel, kultursektoren
-(bl.a. kommunale bibliotek), forretningsmessig
-tjenesteyting (renholdsvirksomheter) og annen
-tjenesteyting (frisører). Totalt ble det gjennomført
-3 758 tilsyn, og i 69 prosent av tilsynene ble det
-gitt én eller flere reaksjoner.
-Føre var! – forebygging av arbeidsrelaterte muskel- og
-skjelettplager (2010–2012)
-Formålet med «Føre var!» var å bidra til at flere
-virksomheter arbeidet systematisk med å forebygge muskel- og skjelettplager. Om lag 4 200 tilsyn ble gjennomført i en rekke bransjer, bl.a. kvinnedominerte arbeidsplasser som barnehager,
-overnattingsvirksomheter og kontorarbeidsplasser. Tilsynene kontrollerte forhold knyttet til organisatorisk, psykososialt og ergonomisk arbeidsmiljø. 60 prosent av de kontrollerte virksomhetene
-hadde brudd på arbeidsmiljølovens krav til kartlegging og risikovurdering av forhold i arbeidsmiljøet med vekt på forebygging av muskel- og skjelettplager. 60 prosent av virksomhetene hadde
-ikke gjennomført lovpålagt opplæring om forebygging av muskel- og skjelettplager. Flest tilsyn ble
-gjennomført i barnehagene, og her ble det registrert én eller flere reaksjoner i 83 prosent av tilsynene. Oppfølgingstilsyn ble gjennomført i 2012.
-
-Frisørkampanjen (2002–2011)
-To nasjonale kampanjer rettet mot frisørers
-arbeidsmiljø ble gjennomført i denne tidsperioden, henholdsvis «Frisørkampanjen» i 2004–2005
-og «Bedre kjemi» fra 2008–2011. I perioden ble
-det gjennomført 2 400 tilsyn i frisørsalonger.
-Tema for tilsynene var kjemisk arbeidsmiljø, ergonomi og inneklima. Forhold knyttet til stoffkartotek, bruk av personlig verneutstyr og ventilasjon
-ble kontrollert, i tillegg til bruk av godkjent
-bedriftshelsetjeneste. I en av tilsynsrundene fikk
-90 prosent av de kontrollerte virksomhetene ett
-eller flere pålegg. Det ble også utviklet veiledningsmateriell i kampanjeperioden.
-Satsing i renholdsbransjen (2013–2017)
-Renholdsbransjen var i perioden 2013–2017 en av
-Arbeidstilsynets store nasjonale satsinger. Satsingens overordnete mål var å redusere sosial dumping ved at alle arbeidstakere i næringen skulle få
-lovlige lønns- og arbeidsbetingelser, redusere
-arbeidsrelaterte belastninger som fører til helseplager, og å legge til rette for mer inkluderende
-arbeidsplasser og redusert sykefravær i næringen. Totalt ble det gjennomført 4 900 tilsyn, med
-både renholdsvirksomheter og virksomheter som
-kjøper renholdstjenester. Det ble avdekket brudd
-og gitt én eller flere reaksjoner i 75 prosent av tilsynene med godkjente renholdsvirksomheter. Det
-ble avdekket brudd på regelverket i 63 prosent av
-tilsynene med ikke godkjente renholdsvirksomheter. I tillegg til tilsyn, ble det gjennomført en rekke
-veilednings- og kommunikasjonsaktiviteter.
-Sykehusrevisjonen (2014)
-Sykehusrevisjonen omfattet seks sykehus og var
-en del av Arbeidstilsynets satsing i helse- og sosialsektoren i perioden 2013–2016. Tilsynene ble
-gjennomført som revisjoner, det vil si grundig
-gjennomgang av HMS-arbeidet knyttet opp mot
-kravene i forskrift om systematisk HMS-arbeid.
-Målet med tilsynene var å bidra til gode arbeidsbetingelser i sykehusene og at sykehusene forebygger sykefravær og utvikler et så bra arbeidsmiljø som mulig. Tema for tilsynene var arbeidsbetingelser ved endring og omstilling, arbeidstilknytning, arbeidstidsordninger, vold og trusler,
-bruk av bedriftshelsetjeneste og forebygging av
-stikkskader.
-
-[Side 159]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-Forebygge vold og trusler
-Arbeidstilsynet har i en rekke år hatt tilsyns- og
-veiledningsaktiviteter rette mot forebygging av
-vold og trusler. Temaet har inngått i tilsynsaktiviteter der det har vært relevant, men har også vært
-gjennomført som selvstendige satsinger i særlig
-utsatte næringer, herunder:
-– 2016: Tilsyn og veiledning i to særlig utsatte
-deler av arbeidslivet: barnevernsinstitusjoner
-og kriminalomsorgen.
-– 2017: Med regelverksendringene som kom
-knyttet til vold og trusler, ble det iverksatt en
-nasjonal omfattende informasjonskampanje for
-å gjøre endringene kjent og for å sette vold og
-trusler på dagsorden i arbeidslivet. Målgruppen var arbeidstakere og arbeidsgivere i helseog sosialtjenester.
-– 2017: Veiledningsaktiviteter i kommunale
-helse- og sosialtjenester med forebygging av
-vold og trusler som tema.
-– 2018: 93 tilsyn i tilfeldig utvalgte grunnskoler
-med forebygging av vold og trusler som tema.
-Det ble avdekket brudd på arbeidsmiljølovens
-krav til kartlegging, risikovurdering, plan og
-tiltak ved nær ni av ti skoler.
-– 2019: Det er gjennomført flere veiledningsaktiviteter med vold og trusler som tema i kommunale helse- og sosialtjenester, særlig i sykehjem, mot kommunal ledelse og i hjemmetjenesten.
-– 2023: Kampanje for å gjøre skoleledere og
-ansatte i undervisning bevisst på arbeidsmiljøforhold som kan være spesielt viktige å jobbe
-med for å redusere fravær og frafall og for å øke
-trivsel og produktiviteten i sektoren. Arbeidstilsynet gjennomførte omfattende veiledning i
-undervisningssektoren gjennom bl.a. e-læringskurs, informasjon i sosiale medier og flere
-webinarer om arbeidsmiljø i skolen som tema
-(vold og trusler m.m.).
-– 2024: Videre oppfølging med tilsynsaktivitet i
-undervisning med forebygging av vold og trusler som tema.
-Forebygge arbeidsrelaterte psykiske plager
-og muskel- og skjelettplager
-At arbeidsgivere skal forebygge arbeidsrelaterte
-muskel- og skjelettplager og psykiske plager har
-vært ett av tre prioriterte mål i Arbeidstilsynets
-forebyggende aktivitet siden 2023. Helsevirksomheter og byggevirksomheter er særlig prioriterte
-målgrupper i dette arbeidet. I 2023 ble det gjennomført 1 765 tilsyn med forebygging av arbeids-
-
-157
-
-Kapittel 7
-
-relaterte muskel- og skjelettplager og psykiske
-plager. Tilsynet fant ett eller flere brudd i 83 prosent av tilsynene. Flest tilsyn (571) ble gjennomført i helse- og sosialtjenester, hvor det ble avdekket brudd i 89 prosent av tilsynene.
-Arbeidsrelaterte muskel- og skjelettplager og
-psykiske plager er det temaet Arbeidstilsynet veileder aller mest om, sammenlignet med andre
-temaer. I 2023 ble det gjennomført 121 veiledningsseminarer knyttet til forebygging av arbeidsrelaterte muskel- og skjelettplager og psykiske
-plager, med til sammen nær 46 700 deltakere og
-visninger. Tilsynet gjennomførte tre kampanjer,
-med over sju millioner visninger.
-Sammen setter vi strek for seksuell trakassering
-(2018–2025)
-I 2018 lanserte Arbeidstilsynet, Likestillings- og
-diskrimineringsombudet (LDO) og partene i utelivsbransjen kampanjen «Sammen setter vi strek
-for seksuell trakassering» (#settestrek). Kampanjen er løftet i flere runder, og har som mål å øke
-kunnskapen til arbeidsgivere og arbeidstakere i
-bransjen, om hva seksuell trakassering er og hvordan det kan forebygges og håndteres på arbeidsplassen. Det er utarbeidet en nettbasert veileder
-med konkrete og praktiske råd. Arbeidstilsynet og
-LDO har også arrangert flere kurs om temaet og
-produsert to webinarer. I 2025 skal det lanseres et
-oppgradert samtaleverktøy med tolv oppgaver
-som skal fungere som samtalestartere. Verktøyet
-kan brukes på personalmøter og skal bidra til å
-senke terskelen for å snakke om et vanskelig tema
-på arbeidsplassen. Utviklet materiell og verktøy er
-tilgjengelig på www.settestrek.no
-Seksjon for kunnskapsformidling inkluderende
-arbeidsliv
-Seksjon for kunnskapsformidling inkluderende
-arbeidsliv (KIA) ble opprettet i Arbeidstilsynet
-som ledd i Arbeidsmiljøsatsingen i 2019. KIA driver målrettet og kunnskapsbasert veiledning og
-veivisning i forebyggende arbeidsmiljøarbeid. KIA
-har siden opprettelsen veiledet i forebyggende
-arbeidsmiljøarbeid i prioriterte bransjer på de
-områder som i størst grad fører til sykefravær og
-frafall; organisatoriske, ergonomiske og psykososiale arbeidsmiljøforhold. Flere av de prioriterte
-bransjene i dette arbeidet er kvinnedominerte. I
-2023 gjennomførte Arbeidstilsynet 196 aktiviteter
-og veiledet over 50 000 personer. Målgruppene
-fikk bransjetilpasset veiledning og økt kjennskap
-til Arbeidsmiljøportalen og dens verktøy, og kunn-
-
-[Side 160]
-
-158
-
-NOU 2025: 5
-
-Kapittel 7
-
-Kvinners arbeidshelse
-
-skap om å forebygge muskel- og skjelettplager og
-psykiske plager. Arbeidstilsynet jobbet ut mot et
-bredt utvalg målgrupper, som ledere, verneombud, tillitsvalgte og HR/HMS-ansvarlige, dvs.
-aktører med størst påvirkning på arbeidsmiljøet i
-virksomhetene.
-
-7.2.2 Statens arbeidsmiljøinstitutt (STAMI)
-Statens arbeidsmiljøinstitutt (STAMI) er det
-nasjonale forskningsinstituttet for arbeidsmiljø og
-arbeidshelse. Instituttet er en uavhengig kunnskapsformidler, underlagt Arbeids- og inkluderingsdepartementet. STAMI frambringer, foredler
-og formidler kunnskap om arbeidsmiljø og
-arbeidshelse. STAMI bygger sin virksomhet på
-forskning, som sammen med bl.a. kunnskapsformidling og utdanning står sentralt i instituttets
-samfunnsoppdrag. Gjennom dette skal STAMI nå
-ut til norsk arbeidsliv og aktører av betydning for
-arbeidslivet, og bidra til forskningsbasert systematisk arbeid for å skape gode arbeidsmiljøer, og
-redusere frafall og fravær. Kunnskap fra STAMI
-skal dyktiggjøre arbeidslivets parter og arbeidsmiljømyndighetene, inkludert ansatte i Arbeidstilsynet og Navs arbeidslivssentre.
-STAMI har det nasjonale ansvaret for arbeidet
-med arbeidsmiljøovervåking hvor de med
-utgangspunkt i etablert forskingsbasert kunnskap
-og foreliggende nasjonale data, kontinuerlig arbeider med å definere og utvikle indikatorer som er
-egnet til å beskrive utviklingen i den norske
-arbeidsmiljøtilstanden. Målsettingen er å framskaffe pålitelig og kvalitetssikret underlagsmateriale til arbeidsmiljømyndighetene, partene i
-arbeidslivet, helsevesenet og andre forskningsmiljøer. En sentral del i overvåkningsarbeidet er utarbeidelsen av «Faktabok om arbeidsmiljø og
--helse». Faktaboka publiseres hvert tredje år og er
-et felles fakta- og diskusjonsunderlag for arbeidsmiljømyndighetene og arbeidslivets prioriteringer for forebyggende virksomhet på arbeidsmiljøområdet.
-
-7.2.3
-
-Informasjon og veiledning
-
-7.2.3.1 Arbeidsmiljøsatsingen
-I 2019 ble det gjennom IA-avtalen etablert en ny
-arbeidsmiljøsatsing. Hovedmålet med arbeidsmiljøsatsingen er å bidra til bedre innhold og retning
-i arbeidsmiljøarbeidet på den enkelte arbeidsplass. Arbeidsmiljøsatsingen handler om målrettet
-bransje- og arbeidsplassrettet kunnskapsutvikling, formidling og veivisning i forebyggende
-
-arbeidsmiljøarbeid på områder som i størst mulig
-grad bidrar til sykefravær og frafall.
-Arbeidsmiljøsatsingen retter arbeidsmiljøarbeidet mot de sentrale faktorene:
-– hvor forskning viser sammenheng med selve
-arbeidet
-– hvor forebyggingspotensialet knyttet til sykefravær er størst
-– hvor en med riktige virkemidler kan gi størst
-effekt
-Arbeidsmiljøsatsingen er organisert i et samarbeid mellom STAMI, Arbeidstilsynet, Nav og
-Havindustritilsynet. Det er etablert samarbeid
-mellom etatene og partene i arbeidslivet, noe som
-er sentralt for å nå godt ut med budskapet og produktene i satsingen. Verktøyene i satsingen er per
-1. mars 2025 tilpasset 29 bransjer.
-Satsingen består bl.a. av kunnskapsoppsummeringer og utvikling av konkrete verktøy. Myndighetene har også økt veilednings-, informasjonsog tilsynsarbeidet. Tiltakene skal treffe virksomhetene, og rettes mot bransjer som har utfordringer knyttet til sykefravær og frafall fra arbeidslivet. Agenda Kaupang gjennomførte i forbindelse
-med en evaluering av arbeidsmiljøsatsingen en
-undersøkelse i over 2 000 virksomheter i statlig,
-privat og kommunal sektor (215). Denne undersøkelsen viste at de fleste virksomhetene som har
-brukt de ulike produktene i satsingen, opplever
-dem som både nyttige og relevante. Evalueringen
-viste en økende etterspørsel etter satsingen i
-større deler av det norske arbeidslivet, samtidig
-som kjennskapen til, og kunnskapen om satsingen
-og dens ulike elementer er økende. Arbeidsmiljøsatsingen har likevel et stort potensial for mer
-bruk hos virksomhetene, og produktene i satsingen er fortsatt ikke tilstrekkelig kjent. Agenda
-Kaupang trekker fram formidling under sine
-anbefalinger. Det er indikasjoner på at satsingen
-fortsatt ikke er godt nok kjent blant målgruppene,
-og formidlingsarbeidet bør ha høy prioritet og bør
-styrkes mot det regionale leddet framover (215).
-De involverte etatene opplever også at arbeidsmiljøsatsingen og budskapene og verktøyene i
-denne har blitt godt kjent de siste årene, men at
-det er et stort potensial i å nå ut til mange flere
-virksomheter. Satsingen er mest brukt av de første bransjene som ble lansert, og potensialet i å nå
-ut til flere bransjer er stort. Det blir viktig at dette
-både skjer gjennom samarbeid mellom etatene og
-med partene, men også gjennom formidlingsaktiviteter der hovedbudskapet i satsingen framheves. Formidlingsaktiviteten fra etatene har vært
-økende de siste årene, og man ser at etterspørse-
-
-[Side 161]
-
-159
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-len etter samarbeid og deltakelse på ulike formidlingsarenaer er økende (216).
-Arbeidsmiljøportalen, En bra dag på jobb
-og Arbeidsmiljøhjelpen
-Som en del av arbeidsmiljøsatsingen opprettet
-arbeidsmiljømyndighetene
-den
-nettbaserte
-«Arbeidsmiljøportalen»5. Portalen inneholder
-bl.a. konkrete verktøy og fakta om hvordan man
-effektivt kan jobbe forebyggende med arbeidsmiljø i ulike bransjer, sektorer og virksomheter, med
-utgangspunkt i forskningsbasert kunnskap. Ved
-utgangen av februar 2025 hadde portalen kunnskap om 29 ulike bransjer, inkludert kvinnedominerte bransjer som sykehus, sykehjem, barnevern, barnehage, renhold, frisør, grunnskole, servering, varehandel, hjemmetjenesten og helseklinikker. Verktøyene En bra dag på jobb og Arbeidsmiljøhjelpen er tilgjengelige fra portalen for de
-samme 29 bransjene.
-En bra dag på jobb er et verktøy til bruk i
-arbeidsmiljøarbeidet på den enkelte virksomhet,
-utviklet av STAMI som en del av arbeidsmiljøsatsingen. Verktøyet er tilpasset ulike bransjer og
-skal gjøre det enkelt å jobbe med arbeidsmiljø på
-en måte som bidrar til redusert sykefravær og hindrer frafall. Det baserer seg på forskning fra
-STAMI om arbeidsmiljø- og arbeidshelseutfor5
-
-https://www.arbeidsmiljoportalen.no/
-
-Kapittel 7
-
-dringer i ulike bransjer og sektorer og er utviklet
-gjennom dialog med virksomheter. Ved å presentere filmer med typiske utfordringer i en bestemt
-bransje, legges det til rette for at ansatte kan diskutere utfordringene på sin egen arbeidsplass. I
-fellesskap skal de komme fram til en konkret
-handlingsplan som vil hjelpe dem til å få et bedre
-arbeidsmiljø. Det lokale partssamarbeidet er viktig for å skape et godt arbeidsmiljø, og det er lagt
-opp til at leder, tillitsvalgt og verneombud samarbeider om å lede prosessen.
-Arbeidsmiljøhjelpen er et bransjetilpasset selvbetjeningsverktøy utviklet av Arbeidstilsynet som
-en del av arbeidsmiljøsatsingen. Arbeidsmiljøhjelpen er et verktøy som kan benyttes av leder, verneombud, tillitsvalgte og ansatte i samarbeid for å
-forbedre arbeidsmiljøet. Innholdet i verktøyet er
-utviklet i samarbeid med fagfolk fra bransjene.
-Arbeidsmiljøhjelpen handler om det organisatoriske, psykososiale og ergonomiske arbeidsmiljøet. Temaer i verktøyet som bransjene skal jobbe
-med er organisering av arbeidet (krav og forventninger, sosial støtte, opplæring, alenearbeid),
-jobbe med mennesker (sterke følelser, vold og
-trusler, seksuell trakassering, samarbeid), manuelt arbeid (arbeidsstillinger, variasjon), arbeidstid
-(nattarbeid, lange arbeidsdager), tids- og arbeidspress (arbeidstempo, pauser) og omstilling (usikkerhet, effektivisering og opplæring). Disse temaene gir bransjespesifikke, konkrete eksempler på
-hvordan arbeidsmiljøfaktorer kan se ut hos virk-
-
-180 000
-160 000
-140 000
-120 000
-100 000
-80 000
-60 000
-40 000
-20 000
-2020
-
-2021
-
-2022
-
-Figur 7.2 Utvikling av antall visninger «En bra dag på jobb»
-Grafen viser veksten av antall unike visninger av «En bra dag på jobb» i perioden 2020–2023.
-Kilde: Arbeidstilsynet 2025.
-
-2023
-
-[Side 162]
-
-160
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-somheter i en gitt bransje. Verktøyet gir også tips
-til forbedringsområder virksomhetene kan jobbe
-videre med.
-Partene i arbeidslivet har foreslått hvilke bransjer som skal prioriteres i arbeidsmiljøsatsingen,
-og hvordan verktøyene skal innrettes. Verktøyene
-er bygget opp forskjellig med ulike virkemidler,
-men har samme mål: Å være et verktøy som bistår
-arbeidsplassene i å bygge et bedre arbeidsmiljø.
-Årsrapporten til arbeidsmiljøsatsingen 2023
-viser at det er en økning i bruken av En bra dag på
-jobb.
-I 2023 var det 123 000 unike sidehenvisninger.
-De mest brukte bransjene i 2023 er barnehage og
-kontorarbeidsplasser. En bra dag på jobb har blitt
-tatt i bruk i bransjeprogram etablert gjennom IAavtalen, bl.a. i de kvinnedominerte bransjene
-sykehjem og barnehager. Dette har bidratt til den
-relativt høye andelen av brukere hvert år. Kontorarbeidsplasser treffer flest brukere på tvers av
-sektorer. Undervisning (grunnskole) kommer på
-tredjeplass i 2023, og det vises til at det har vært et
-stort søkelys på spesielt vold og trusler i skolen
-(216).
-
-7.2.3.2 Veiledning på arbeidstilsynet.no
-Nettsider som arbeidstilsynet.no er en sentral
-kanal for veiledning. Her finnes en rekke veiledninger knyttet til arbeidsmiljøregelverket. Nettsidene blir stadig oppdatert med nye veiledninger,
-og revidert i tråd med endringer i regelverket og
-ny kunnskap. Veiledningene har i all hovedsak en
-temainngang (stress, graviditet og arbeidsmiljø,
-vold og trusler, seksuell trakassering osv.).
-Mange av veiledningene er relevante for kvinnearbeidshelse, men få av dem omtaler kjønn eksplisitt. Veiledningene retter seg mot arbeidsgivere,
-verneombud, tillitsvalgte, arbeidstakere, bedriftshelsetjeneste og andre aktører som er opptatt av
-arbeidsmiljø, med beskrivelser av krav, plikter og
-rettigheter i arbeidsmiljøsammenheng. Dette
-omtales uten referanse til kjønn, med unntak av
-der loven stiller særlige krav til å hensynta kjønn,
-som f.eks. kjønnsdelte garderober og gravide
-arbeidstakere eller der kvinner utgjør en særlig
-utsatt gruppe, som f.eks. når det gjelder risiko for
-seksuell trakassering og vold og trusler.
-Risikohjelpen
-Risikohjelpen er et bransjespesifikt selvbetjeningsverktøy utviklet av Arbeidstilsynet i samarbeid med partene i arbeidslivet. Det er et verktøy
-som hjelper virksomheter med å redusere risiko
-
-for sykdom og skade på arbeidsplassen. Utviklingen av Risikohjelpen er inspirert av andre
-risikovurderingsverktøy, som f.eks. Online interactive Risk Assessment tool (OiRA tool av EUOSHA) og Arbejdspladsvurdering (APV av
-Arbejdstilsynet Danmark). Risikohjelpen ble lansert første gang i 2018 for bransjene renhold og
-frisør. Hittil er verktøyet tilgjengelig for fem bransjer, hvorav fire av dem er kvinnedominerte (renhold, frisør, servering og hjemmetjenesten). Flere
-av temaene som inngår i verktøyet er relatert til
-kvinnearbeidshelse: vold og trusler, trakassering,
-uønsket seksuell oppmerksomhet, emosjonelle
-krav, tids- og arbeidspress, tilrettelegging,
-arbeidstid, gravide medarbeidere, alenearbeid og
-rollekonflikt, tunge og ubekvemme løft, arbeid på
-knær og huk, stående arbeid, arbeid med armene
-hevet, samt uheldige arbeidsstillinger.
-
-7.2.3.3
-
-Idébanken – for et arbeidsliv som
-inkluderer
-Idébanken er et virkemiddel for formidling av
-informasjon som skal bidra til å få ned sykefraværet, hindre frafall og få flere i arbeid i norsk
-arbeidsliv. Idébanken skal støtte, men ikke
-erstatte, partenes og myndighetenes arbeid med å
-formidle informasjon om inkluderende arbeidsliv.
-Tjenesten leveres av Nav. Idébanken har en rådgivende referansegruppe som består av representanter for partene i arbeidslivet og sentrale
-myndigheter.
-7.2.3.4 Veiledning om tilrettelegging for gravide
-På Arbeidstilsynets nettsider finnes det omfattende informasjon om arbeid og graviditet, herunder om risikofaktorer i arbeidsmiljøet, plikter til
-tilrettelegging for gravide og vern mot diskriminering av gravide. Ved STAMI er det også etablert
-en egen rådgivningstjeneste for gravide i arbeid,
-som bistår med råd om tilrettelegging og hvordan
-gjennomføre risikovurdering av arbeidsmiljøet.
-De fleste som kontakter STAMIs rådgivningstjeneste er gravide, ansatte i bedriftshelsetjenester
-og annet helsepersonell, som jordmødre. Andre
-grupper er hovedsakelig arbeidsgivere og verneombud. Henvendelsene angår i hovedsak kjemisk
-arbeidsmiljø, men inkluderer også fysisk belastning, arbeidstidsordninger, smitterisiko, støy,
-vibrasjon, stråling, voldsrisiko og psykososialt
-arbeidsmiljø. Idebanken – for et arbeidsliv som
-inkluderer inneholder også veiledning og eksempler om god tilrettelegging for gravide.
-
-[Side 163]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-7.2.4 Myndighetssamarbeid
-Arbeidstilsynet, STAMI, Havindustritilsynet og
-Nav arbeider i fellesskap med å styrke og tilgjengeliggjøre kunnskapsgrunnlaget knyttet til
-arbeidsmiljøforhold av betydning for sykefravær
-og frafall, bl.a. gjennom videreutvikling av IAarbeidsmiljøsatsingen. Etatene samarbeider også
-med partene i arbeidslivet i dette arbeidet.
-Regjeringen viser i «Folkehelsemeldinga» til at
-deltakelse i arbeidslivet er knyttet til velferd langs
-flere dimensjoner, som helse, levealder og materiell levestandard (199). Det vises videre i meldingen til at samarbeid mellom arbeidsmiljø- og helsemyndighetene var avgjørende for å nå ut med
-informasjon og veiledning til arbeidslivet under
-koronapandemien, se boks 7.9.
-Som oppfølging av «Folkehelsemeldinga» er
-det enighet om å styrke det strategiske samarbeidet mellom arbeidsmiljømyndighetene og helse-
-
-161
-
-Kapittel 7
-
-myndighetene om beredskaps- og krisesituasjoner, forebygging av dagens og framtidas
-arbeidslivs- og arbeidsmiljøutfordringer, utvikling
-av et bedre datagrunnlag og kunnskapsutvikling
-og forebyggende tiltak for å møte konsekvensene
-av klima- og miljøendringer.
-Helse og arbeid henger tett sammen. God
-helse vil ofte medføre god arbeidsevne, og det å
-være i arbeid er i seg selv helsefremmende (217).
-Dette perspektivet kan ses i sammenheng med
-Verdens Helseorganisasjon (WHO) sin definisjon
-på arbeidshelse: «et område innen folkehelse for å
-fremme og opprettholde høyeste grad av fysisk,
-psykisk og sosialt velvære hos arbeidstakere i alle
-yrker».
-
-7.2.5 De arbeidsmedisinske avdelingene
-De arbeidsmedisinske spesialistavdelingene inngår i de regionale helseforetakene og er lokalisert
-
-Boks 7.9 Meld. St. 15 (2022–2023) Folkehelsemeldinga
-tenester. […] Samhandlingsmodellen HelseIArKapittel 3.4 Arbeid og inntekt
-beid er eit anna døme, med helsefremjande og
-førebyggande tiltak retta mot grupper i arbeids«Å halde ein stor del av befolkninga i arbeid og
-livet som står i fare for å bli sjukmelde eller falle
-inkludere fleire av dei som er i ytterkanten av
-ut av arbeidslivet på grunn av muskel- og skjearbeidsmarknaden, vil ha positiv verknad på follettplager og/eller psykiske plager.
-kehelsa generelt og på sosiale helseforskjellar
-[…]
-spesielt. Dersom arbeidet blir organisert på ein
-Arbeidslivet og arbeidsplassen er ein viktig
-måte som skaper balanse mellom krava som blir
-arena for førebygging, og det er eit stort potenstilte i arbeidet, og den yrkesaktive sine ressursial for gjensidig gevinst for både arbeidshelse
-sar, kan det å vere i arbeid ha positive verknader
-og folkehelse. Ved betre samarbeid mellom
-gjennom aktivisering, sosial kontakt og opplearbeidshelse og folkehelse kan ein i større grad
-ving av meining i kvardagen. Arbeid vil i mange
-realisere dette potensialet. Derfor er det viktig
-tilfelle vere helsefremjande, også for personar
-med meir heilskapleg tenking om og tilnærming
-med helseplager. […] Arbeids- og velferdsfortil arbeidshelse og folkehelse. Samarbeidet melvaltninga forvaltar ein brei portefølje av verkelom arbeidsmiljø- og helsemiljøstyresmaktene
-middel som skal bidra til å auke moglegheitene i
-under pandemien var avgjerande for å nå ut med
-arbeidsmarknaden for dei som treng bistand til
-å komme i arbeid, eller som står i fare for å falle
-koordinert informasjon og rettleiing til arbeidslivet. Det er viktig å føre det strategiske samarbeiut av arbeidslivet. Målet er å motverke avgang
-det mellom arbeidsmiljø- og helsemiljøstyfrå arbeidslivet til varige trygdeytingar og å
-resmaktene vidare og styrke det også på andre
-redusere og førebygge arbeidsløyse. […]
-område. Det gjeld blant anna samarbeid om
-Å lykkast med å få kvinner i arbeid er også
-førebygging av dagens og framtidas arbeidslivsviktig for å oppnå likestilling mellom kjønna, og
-for at barna deira skal få høve til full deltaking i
-og arbeidsmiljøutfordringar, utvikling av eit
-betre datagrunnlag og kunnskapsutvikling, og
-det norske samfunnet. […]
-førebyggande tiltak for å møte konsekvensane
-Dette gjer at helse- og omsorgstenesta og
-av klima- og miljøendringar.»
-arbeids- og velferdsforvaltninga må samarbeide
-for å kunne møte brukarane sine behov for
-
-[Side 164]
-
-162
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-i Bergen, Trondheim, Skien, Tromsø og Oslo. Det
-er også etablert en arbeidsmedisinsk poliklinikk
-ved STAMI. Avdelingene utreder pasienter ved
-mistanke om arbeidsrelaterte sykdommer, og har
-oppgaver knyttet til forskning, samt utdanning av
-spesialister i arbeidsmedisin. Avdelingene inngår i
-spesialisthelsetjenesten, men har samtidig viktige
-roller knyttet til kunnskapsbasert, forebyggende
-arbeidsmiljøarbeid. STAMI har en koordinerende
-rolle for de arbeidsmedisinske avdelingene. Det
-utarbeides felles faglige arbeidsmedisinske retningslinjer, og det er etablert et felles anonymt
-register over utredningssaker for alle pasienter
-som er utredet ved avdelingene. STAMI har
-ansvar for drift av registeret, og utarbeider årlige
-rapporter basert på den registrerte virksomheten.
-Som ledd i oppfølgingen av IA-avtalen, ble det i
-2008 satt av årlige midler til en økning av utdanningskapasiteten ved de arbeidsmedisinske avdelingene.
-
-7.3
-
-Rammer og oppfølging i regi av
-toparts- og trepartssamarbeidet
-
-Det norske arbeidslivet er organisert med et trepartssamarbeid mellom myndighetene og hovedorganisasjonene på arbeidstaker- og arbeidsgiversiden sentralt og et velutviklet topartssamarbeid
-mellom arbeidstakerorganisasjoner og arbeidsgivere på virksomhetsnivå. Trepartssamarbeidet
-mellom arbeidsgiver- og arbeidstakerorganisasjonene og myndighetene er sentralt for å få en felles
-virkelighetsforståelse, forstå hverandres partsinteresser og for å utvikle en felles forståelse av
-samspillet mellom ulike elementer i organiseringen av det norske samfunnet. Merverdien av trepartssamarbeidet består bl.a. i at det bidrar til få
-oppslutning om nødvendige tiltak for å oppnå en
-god samfunnsutvikling med høy sysselsetting.
-Medvirkning og partssamarbeid er vesentlige
-forutsetninger og viktige arenaer i arbeidet for et
-godt og helsefremmende arbeidsmiljø og for å
-forebygge frafall fra arbeidslivet. Samarbeid og
-gjensidig tillit og respekt mellom partene er viktige forutsetninger for et godt partssamarbeid.
-Dette gjelder både arbeidstakermedvirkning på
-virksomhetsnivå, i topartssamarbeidet og på de
-ulike arenaene for trepartssamarbeid.
-
-7.3.1
-
-Arenaer for trepartssamarbeid
-
-7.3.1.1 Arbeidslivs- og pensjonspolitisk råd
-Arbeidslivs- og pensjonspolitisk råd er et samarbeidsforum mellom regjeringen ved arbeids- og
-inkluderingsministeren og de åtte hovedorganisasjonene i arbeidslivet. Staten som arbeidsgiver
-ved statens personaldirektør, samt Arbeidstilsynet
-og Arbeids- og velferdsdirektoratet er også representert i rådet. Arbeidslivs- og pensjonspolitisk
-råd skal ivareta en jevnlig dialog mellom statsråden og organisasjonsledere for arbeidslivets
-parter om sentrale utfordringer i arbeidslivs- og
-pensjonspolitikken. Ved behandling av aktuelle
-likestillingspolitiske spørsmål møter også likestillingsministeren i rådet.
-7.3.1.2
-
-Samarbeid om et mer inkluderende
-arbeidsliv – IA-avtalen
-Begrepet «Et inkluderende arbeidsliv» ble først
-introdusert i Sandmanutvalget (218). Utvalget,
-som var satt ned for å utrede årsaker til økningen i
-sykefraværet og uførepensjon og foreslå tiltak for
-å motvirke denne utviklingen, pekte på arbeidsplassen som den viktigste arenaen for å forebygge
-sykefravær og utstøting. Utvalget la vekt på at tiltak for å forebygge at personer faller varig ut av
-arbeid skulle forankres i arbeidslivet, og iverksettes i samarbeid mellom partene og myndighetene.
-Tankene til Sandmanutvalget om ansvarliggjøring
-av arbeidsplassen, arbeidsgiver og arbeidstaker,
-fokus på arbeidstakers funksjonsevne samt tilpassede offentlige støtteordninger, ble fulgt opp gjennom Intensjonsavtalen om et mer inkluderende
-arbeidsliv – IA-avtalen mellom myndighetene og
-partene i arbeidslivet. Hovedprinsippet bak IAavtalen var at det er arbeidsplassen som er arenaen for å tilrettelegge og forebygge frafall, følge
-opp utsatte arbeidstakere og fremme inkludering
-– med støtte fra myndighetene.
-Partene har i løpet av IA-periodene blitt enige
-om at det forebyggende arbeidsmiljøarbeidet skal
-være en større del av det praktiske arbeidet med
-IA-avtalen. Dette ble tydeliggjort i formålet med
-avtalen fra 2014, og fra 2018 ble det etablert virkemidler for å bygge kompetanse og støtte opp
-under det forebyggende arbeidsmiljøarbeidet i
-virksomhetene, herunder arbeidsmiljøsatsingen,
-jf. kapittel 7.2.3.1 og bransjeprogrammer, kapittel
-7.3.1.3.
-IA-avtalen kan sies å ha bidratt til utvikling i
-norsk arbeidsliv. Det er bred enighet om at samarbeidet om IA-avtalen i seg selv har bidratt til endring i holdninger og atferd når det gjelder oppføl-
-
-[Side 165]
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-ging av sykmeldte, og at dette er satt på dagsorden i den offentlige debatten. Trepartssamarbeidet om IA-avtalen har også i seg selv hatt merverdi og sannsynligvis gitt en arena og lagt til
-rette for godt samarbeid innenfor andre samfunnsområder, også regionalt.
-Erfaringene viser også at partssamarbeidet på
-virksomhetsnivå har verdi og er viktig for det forebyggende og inkluderende arbeidsmiljøarbeidet.
-Kunnskapen om hvordan virksomheter med gode
-resultater jobber for å lykkes, peker bl.a. på en
-ansvarlig og engasjert ledelse, og samarbeid og
-arbeidstakermedvirkning der verneombud og tillitsvalgte har aktive roller, kunnskap og kompetanse. Merverdi av to- og trepartssamarbeidet kan
-sies å være en «rød tråd» på alle nivå i IA-arbeidet
-der man lykkes.
-IA-avtalen 2025–2028, «Avtale om redusert
-sykefravær og frafall fra arbeidslivet», ble inngått
-mellom arbeids- og inkluderingsministeren og
-partene i arbeidslivet 12. februar 2025 (219). I
-denne avtalen legges det vekt på:
-– å forsterke den forebyggende arbeidsmiljøinnsatsen, gjennom eksisterende og nye bransjeprogram, arbeidsmiljøsatsingen i regi av
-Arbeidstilsynet og STAMI og Nav Arbeidslivssenter
-– å bedre sykefraværsoppfølgingen, bl.a. gjennom økt etterlevelse av pliktene i regelverket
-fra alle aktører
-– å bidra til forsterket innsats på den enkelte
-arbeidsplass gjennom økt informasjons- og
-opplæringsaktivitet rettet mot virksomhetene
-– å øke kunnskapen om sykefravær, frafall og virkningsfulle tiltak for å få ned fraværet
-Det understrekes i IA-avtalen at innsatsen på den
-enkelte arbeidsplass er sentral for å få ned sykefraværet, enten årsaken til helseplagene er
-arbeidsrelaterte eller ikke. De overordnede tiltakene har begrenset effekt om de ikke følges opp
-på den enkelte arbeidsplassen. Partene skal bidra
-til at partene lokalt følger opp avtalen og tar i bruk
-avtalens virkemidler med sikte på en sterkere
-lokal forankring av IA-arbeidet i den enkelte virksomhet. Den viktigste innsatsen for å få ned sykefraværet og hindre frafall gjøres av ledere, tillitsvalgte, verneombud og ansatte på den enkelte
-virksomhet. Partene er enige om at det må satses
-mer på formidling av informasjon om avtalen og
-virkemidlene i denne.
-Virkemidlene
-IA-bransjeprogrammer
-og
-arbeidsmiljøsatsingen, som retter seg mot forebyggende arbeid og gode arbeidsmiljø, videreføres i den nye avtaleperioden. Eksisterende bran-
-
-163
-
-Kapittel 7
-
-sjeprogram skal formidle og spre aktivitet, tiltak
-og verktøy for bedre arbeidsmiljø og lavere sykefravær til resten av sin bransje. Det tas også sikte
-på å opprette enkelte nye bransjeprogram innenfor det utvalg av aktuelle bransjer som er kartlagt
-av STAMI. Arbeidsmiljøsatsingen skal intensiveres for at flere skal ta verktøyene i bruk, ved at
-partene i arbeidslivet forplikter seg til å spre
-kunnskap om arbeidsmiljøportalen og virkemidlene i satsingen til sine medlemmer. Kunnskap og
-verktøy skal gjøres mer tilgjengelig for virksomhetene ved å videreutvikle Idébanken som en
-samlende informasjons- og veiledningskanal.
-
-7.3.1.3 Bransjeprogram
-Et bransjeprogram danner en felles ramme rundt
-innsats og er et operativt samarbeid mot en
-utvalgt bransje. Formålet med bransjeprogram er
-å mobilisere partene på bransjenivå til i fellesskap
-å dokumentere og ta fatt i felles erkjente utfordringer. Det avgjørende for at de skal lykkes er at partene i bransjen har eierskap til og tar ansvar for
-programmene. Utformingen og organiseringen av
-de konkrete bransjeprogrammene tilpasses hver
-enkelt bransje (220).
-Det finnes i dag flere forskjellige bransjeprogrammer med ulike formål, organisering og innretning. Det ble etablert et treparts bransjeprogram for renholdsbransjen i 2012, i utelivsbransjen
-og deler av transportbransjen i 2014 og i bilbransjen i 2018. Formålet med disse bransjeprogrammene er å mobilisere arbeidsgivere, arbeidstakere
-og myndigheter til i fellesskap å dokumentere og
-ta fatt i felles utfordringer når det gjelder arbeidsforhold og arbeidsmiljø i utsatte bransjer. Disse
-bransjeprogrammene har særlig fokus på oppfølging av useriøsitet og arbeidslivskriminalitet.
-«Samarbeid for sikkerhet i bygg- og anlegg SfS
-BA» (tidligere «Charter for en skadefri bygge- og
-anleggsnæring») ble etablert i 2014 etter initiativ
-fra aktører i næringen. Dette er et bransjeovergripende samarbeid for å få ned antall ulykker i
-næringen. Deltakerne er byggherrer, prosjekterende, utførende, arbeidstakersiden, arbeidsmiljømyndighetene og NTNU. SfS BA er et samarbeid om konkrete problemstillinger som er viktige
-for den enkelte bedrift/organisasjon og for fellesskapet. Samarbeidet foregår i all hovedsak i prosjektbaserte arbeidsgrupper. Prosjektene ledes
-og bemannes av deltakere fra flere ledd i næringskjeden, for å bidra til tillit og samarbeid på tvers av
-fag og roller. Arbeidet med utvikling av veiledere,
-bransjestandarder mv. ledes og finansieres av partene i samarbeidet. Arbeidsmiljømyndighetene
-
-[Side 166]
-
-164
-
-Kapittel 7
-
-NOU 2025: 5
-
-Kvinners arbeidshelse
-
-bidrar i dette samarbeidet ved at Arbeidstilsynet
-og STAMI i fellesskap utarbeider årlige rapporter
-over skader og yrkesrelaterte sykdommer i
-næringen. Rapportene er en leveranse til Styringsgruppen for SfS BA og brukes til å identifisere
-problemområder og til å måle endringer over tid.
-Bransjeprogram som IA-virkemiddel ble etablert i IA-avtalen fra 2019, i bransjer hvor IA-partene var enige om å sette inn prioritert innsats.
-Ved etableringen var det en forutsetning at de prioriterte bransjene var en del av det organiserte
-arbeidslivet, siden oppfølging og gjennomføring
-av programmene skjer i samarbeid mellom partene, og partsengasjement og partsinvolvering på
-sentralt og lokalt nivå ligger til grunn for gjennomføring av programmene.
-Ved oppstart av disse bransjeprogrammene
-ble det gjort et forarbeid der en partssammensatt
-arbeidsgruppe la fram forslag til hvilke bransjer
-som skulle omfattes av bransjeprogram (220).
-Forarbeidet redegjorde bl.a. for sykefravær og
-arbeidsmiljøeksponeringer i de ulike bransjene,
-og viste slik også tydelig forebyggingspotensialet
-i bransjene. På bakgrunn av dette ble det i 2019
-opprettet bransjeprogram i sju ulike bransjer:
-sykehus, sykehjem, barnehager, næringsmiddelindustrien, rutebuss og persontrafikk, bygg og
-anlegg og leverandørindustrien til olje- og gassnæringen. Kjønnssammensetningen i de ulike bransjene var ikke et eget vurderingskriterium ved
-valg av bransjer, men kunnskapsgrunnlaget som
-ble brukt ved valg av bransjer viser til kjønnssammensetningen. Av de sju bransjene er barnehager,
-sykehjem og sykehus kvinnedominerte, med en
-kvinneandel på over 74 prosent (1, 108). Bransjeprogrammene er finansiert av statlige midler.
-IA-bransjeprogrammene har utviklet og prøvd
-ut ulike bransjerettede tiltak innenfor de valgte
-satsingsområdene: forebyggende arbeidsmiljøarbeid og oppfølging av lange og/eller hyppig gjentagende sykefravær. Tiltakene og virkemidlene
-skulle være kunnskapsbaserte, og det ble satt i
-gang følgeforskning og effektevalueringer av prioriterte satsinger og virkemidler. Tiltakene som
-har blitt utviklet og gjennomført i bransjeprogrammene kan deles inn i to hovedkategorier:
-sentrale tiltak, som er utviklet av bransjeprogrammet eller andre, og virksomhetsspesifikke tiltak,
-som er identifisert og gjennomført av virksomheten selv, med tilskudd fra bransjeprogrammet sentralt.
-På oppdrag fra Arbeids- og inkluderingsdepartementet gjennomførte STAMI i perioden 2020–
-2024 tre arbeidsmiljøkartlegginger i virksomheter
-med bransjeprogram (221). Kartleggingene viser
-
-fremdeles et vesentlig forebyggingspotensial i de
-kartlagte virksomhetene. Andelen som oppgir at
-det er gjennomført tiltak for å bedre arbeidsmiljøet på arbeidsplassen har økt fra 40 prosent i 2021
-til 47 prosent i 2023 og 46 prosent i 2024. Fra 2021
-til 2024 er det en litt høyere andel respondenter
-som opplever at tiltakene har bidratt til å forbedre
-samarbeidet og samhandlingen mellom kollegaer,
-samt mellom de ansatte og ledelsen. Det er særlig
-en positiv endring i bransjene barnehage, sykehjem og bygg og anlegg. Samtidig har det ikke
-vært noen nedgang i sykefraværet. Det arbeidsrelaterte egenmeldte fraværet var stabilt fra 2021 til
-2023, men økte i 2024. Sykefravær over 14 dager
-var om lag på samme nivå i 2024 som i 2021, med
-et litt høyere nivå i 2023.
-Deloitte leverte i 2023 en evalueringsrapport
-av bransjeprogram som virkemiddel (222). Deloitte ser bl.a. på om bransjeprogrammene kan vise
-til at utvikling og igangsetting av tiltak bygger på
-kunnskap. For de virksomhetsspesifikke tiltakene
-er det varierende om bedriftene har dokumentert
-hvilket kunnskapsgrunnlag som ligger til grunn
-for tiltakene. Noen virksomheter har samarbeidet
-med forskningsmiljøer for å velge ut tiltak tilpasset sin bedrift, eller de har gjennomført egne kartlegginger. Andre virksomheter kan ikke vise til et
-kunnskapsgrunnlag om hvordan tiltaket forebygger sykefravær og/eller frafall. Tiltakene er dermed heller ikke overførbare til resten av bransjen.
-Deloitte observerer at flere av tiltakene er basert
-på bedriftenes egne antagelser om hva som kan
-påvirke sykefravær i bedriften. De sentrale tiltakene er i stor grad kunnskapsbaserte og målrettede mot å forebygge sykefravær og frafall. Tiltakene er i større grad rettet mot systematiske
-utfordringer i bransjen, tilpasset den enkelte
-arbeidsplass. Systematiske og kunnskapsbaserte
-tiltak muliggjør overførbarhet til andre deler av
-bransjen. Deloitte peker på at programmene
-burde hatt tydeligere dokumentasjonskrav om
-kunnskapsgrunnlaget for tiltakene, og at programmene burde ses i tettere sammenheng med
-arbeidsmiljøsatsingen. Andre viktige forbedringspunkter for å lykkes med bransjeprogrammene
-knytter seg bl.a. til organisering og prosjektstyring. I de første årene av bransjeprogrammenes
-drift var de noe preget av mangel på klare mål og
-planer, og lav bevissthet til risikohåndtering og
-roller og ansvar. Bedre systematikk for oppfølging
-av mål og resultater fra oppstart ville også bidratt
-til at aktivitetene i større grad oppfylte IA-avtalens
-mål (222).
-Selv om Deloitte pekte på en rekke forbedringspunkter, konkluderes det i rapporten med
+### Dagens rettslige rammer
+
+I det følgende redegjøres det for rettslige rammer som er av særlig relevans for kvinners arbeidshelse og tilknytning til arbeidslivet.
+
+Den mest omfattende loven som ivaretar helse-, miljø- og sikkerhet på arbeidsplassene er arbeidsmiljøloven. Også likestillings- og diskrimineringsloven og folketrygdloven er viktige verktøy for arbeidstakernes helse.
+
+Arbeidsmiljøloven § 1-1 Lovens formål
+
+Lovens formål er:
+
+a\. å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som gir full trygghet mot fysiske og psykiske skadevirkninger, og med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,
+
+b\. å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet,
+
+c\. å legge til rette for et godt ytringsklima i virksomheten,
+
+d\. å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,
+
+e\. å gi grunnlag for at arbeidsgiver og arbeidstakerne i virksomhetene selv kan ivareta og utvikle sitt arbeidsmiljø i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig myndighet,
+
+f\. å bidra til et inkluderende arbeidsliv.
+
+\[Boks slutt\]
+
+Det framgår av forarbeidene til arbeidsmiljøloven (10) at formålsbestemmelsen først og fremst skal gi veiledning, ved at den angir retning, gir inspirasjon og gir uttrykk for lovens overordnede visjon og verdisyn, jf. også kapittel 7.1.
+
+Formålsbestemmelsen har imidlertid en realitet utover det rent veiledningsmessige. Den gir informasjon om regelverkets hensikt og viktige forutsetninger som ligger til grunn for reglene. Den vil derfor ha en mer eller mindre direkte rettslig betydning, selv om formålsbestemmelsen i seg selv ikke innebærer noen bindende materiellrettslig regulering. Tolkning av lovens materiellrettslige bestemmelser skal skje i lys av formålet og formålsbestemmelsen kan derfor etter omstendighetene være avgjørende for tolkningsresultatet.
+
+Det følger direkte av arbeidsmiljøloven § 1-9 at den ikke kan fravikes til ugunst for arbeidstaker med mindre det er særskilt fastsatt. Det betyr at det er lov å inngå avtaler eller legge til rette for andre ordninger som er bedre enn lovens minstekrav, men at det som den klare hovedregel er forbudt for arbeidsgiver å ha dårligere arbeidsavtaler eller arbeidsvilkår enn det som følger av loven. Mange tariffavtaler har bestemmelser som sikrer arbeidstakerne bedre rettigheter enn det loven gir. Bl.a. er normalarbeidsuken i loven 40 timer per uke, mens den er 37,5 timer etter tariffavtalene.
+
+På enkelte områder kan loven likevel fravikes, men for at dette skal være lovlig må det skje på den måten som loven gir anvisning om i det enkelte tilfellet, f.eks. ved skriftlig avtale eller tariffavtale. Også bestemmelser i tariffavtalen må vike for lovens regler hvis de er i strid med disse.
+
+#### Arbeidsgivers ansvar for et fullt forsvarlig arbeidsmiljø
+
+Arbeidsmiljøloven § 2-1 tredje ledd slår fast at arbeidsgiver skal sørge for at bestemmelsene i arbeidsmiljøloven blir overholdt.
+
+Arbeidsgiver kan delegere oppgaver i forbindelse med gjennomføringen av lovens krav til lavere nivå i virksomheten, men dette fritar ikke arbeidsgiver fra det overordnede ansvaret. Det betyr at arbeidsgiver selv, eller den som i dennes sted leder virksomheten, må vurdere hvordan arbeidsmiljøproblemene best kan løses og hvordan myndighet kan delegeres slik at kravene overholdes.
+
+Arbeidsgiver har plikt til å sikre et fullt forsvarlig arbeidsmiljø, jf. arbeidsmiljøloven § 4-1 første ledd. Kravet er en rettslig standard, og et dynamisk begrep, som innebærer at innholdet endres i forhold til den teknologiske utviklingen, endringer i kunnskap osv. Det betyr bl.a. at en arbeidsmiljøstandard som var ansett som «fullt forsvarlig» i 1977, ikke nødvendigvis er det i 2025. Videre har arbeidsgiver det overordnete ansvaret for å ta i bruk arbeidsmiljølovens virkemidler for å oppnå et fullt forsvarlig arbeidsmiljø. Dette innebærer at arbeidsgiver bl.a. har ansvar for:
+
+- at organisatoriske, psykososiale, ergonomiske, fysiske og tekniske, kjemiske og biologiske arbeidsbetingelser enkeltvis og samlet ikke påfører arbeidstakerne uheldige helsebelastninger eller skade (bl.a. arbeidsmiljøloven kapittel 4 og kapittel 10)
+
+- en organisert vernetjeneste (arbeidsmiljøloven kapittel 6 og 7)
+
+- at det drives et systematisk arbeidsmiljøarbeid (arbeidsmiljøloven § 3-1)
+
+- å være tilknyttet godkjent bedriftshelsetjeneste når risikoforholdene i virksomheten tilsier det (arbeidsmiljøloven § 3-3 og forskrift om organisering, ledelse og medvirkning § 13-1)
+
+#### Arbeidstakers medvirkningsplikt
+
+Arbeidsmiljøloven § 2-3 pålegger arbeidstakere å medvirke ved utforming, gjennomføring og oppfølging av virksomhetenes systematiske helse-, miljø- og sikkerhetsarbeid. Arbeidstakere skal delta i det organiserte verne- og miljøarbeidet i virksomheten og skal aktivt medvirke ved gjennomføringen av de tiltak som blir satt i verk for å skape et godt og sikkert arbeidsmiljø. Arbeidstaker skal bl.a. sørge for at arbeidsgiver eller verneombudet blir underrettet så snart arbeidstaker blir kjent med at det forekommer trakassering eller diskriminering på arbeidsplassen.
+
+#### Det forebyggende aspektet – grunntanken bak loven
+
+Arbeidsmiljøloven § 4-1 andre ledd første punktum presiserer lovens forebyggingsaspekt. Ved planlegging og utforming av arbeidet skal det legges vekt på å forebygge skader og sykdommer. At forebygging er selve grunntanken bak arbeidsmiljøloven, går også tydelig fram av forarbeidene til loven, jf. NOU 2004: 5 kapittel 23.2, (191) og Ot.prp. nr. 49 (2004–2005) side 307 (10).
+
+Hva som er et fullt forsvarlig arbeidsmiljø, må vurderes både ut fra de enkelte risikofaktorene hver for seg, og disse sett i sammenheng. Å se risikofaktorene i sammenheng kan bety at hver enkelt arbeidsbetingelse for seg kan være fullt forsvarlig, men at en samlet vurdering av to eller flere arbeidsmiljøfaktorer til sammen kan føre til at arbeidsmiljøet sett under ett ikke er det.
+
+Bestemmelsen fanger opp alle faktorer som ligger i begrepet arbeidsmiljø, også det psykososiale arbeidsmiljøet.
+
+#### Krav til systematisk helse-, miljø- og sikkerhetsarbeid
+
+For å sikre at ingen blir skadet eller syke av jobben, skal alle arbeidsforhold som kan føre til skader eller helseplager hos arbeidstakerne kartlegges, forebygges og følges opp.
+
+Det følger av arbeidsmiljøloven § 3-1 at arbeidsgiver har en plikt til å gjennomføre systematisk helse-, miljø- og sikkerhetsarbeid på alle plan i virksomheten. Dette skal gjøres i samarbeid med arbeidstakerne og deres tillitsvalgte. Arbeidsgiver skal bl.a. kartlegge farer og problemer, og iverksette rutiner for å avdekke, rette opp og forebygge arbeidsrelaterte skader og sykdommer. Plikten omfatter også å sørge for løpende kontroll med arbeidsmiljøet og arbeidstakernes helse når risikoforholdene tilsier det. Videre stiller forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter (internkontrollforskriften) nærmere krav til innholdet i det systematiske helse-, miljø- og sikkerhetsarbeidet. Arbeidsgiver plikter å kartlegge alle typer risiko, lage en plan for forebygging og iverksette tiltak for å redusere risikoen, når dette er relevant for virksomheten. Alle mulige risikoforhold dekkes av dette generelle kravet, også psykososiale risikoforhold.
+
+#### HMS-opplæring
+
+Alle arbeidstakere skal få den opplæring, øvelse og instruksjon som er nødvendig for å ivareta sikkerheten. Dette følger av arbeidsmiljøloven § 3-2 første ledd bokstav a.
+
+Det følger videre av bokstav b at arbeidstakere som har til oppgave å lede eller kontrollere andre har nødvendig kompetanse til å føre kontroll med at arbeidet blir utført på en helse- og sikkerhetsmessig forsvarlig måte.
+
+Arbeidsgivere skal etter lovens § 3-5 gjennomgå opplæring i helse-, miljø- og sikkerhetsarbeid. Plikten er personlig for øverste leder, og kan ikke delegeres.
+
+Lovens § 6-5 og § 7-4 stiller krav til at verneombud og medlemmer av arbeidsmiljøutvalg skal gis den opplæringen som er nødvendig for å kunne utføre vernet på forsvarlig måte. I forskrift om organisering, ledelse og medvirkning er kravene ytterligere utdypet.
+
+Risikovurdering
+
+Ifølge Arbeidstilsynet omfatter en risikovurdering:
+
+- en systematisk kartlegging og vurdering av alle forhold i arbeidet som kan føre til personskader, helseplager eller sykdom
+
+- et systematisk arbeid med å identifisere og vurdere effekten av tiltak som kan redusere risikoen ved disse forholdene
+
+Kartleggingen av farer og problemer, vurdering av risiko, planer og tiltak skal:
+
+- være skriftlig og oppdatert
+
+- dokumenteres i form av omfang som er nødvendig på bakgrunn av typen og størrelsen på virksomheten, arbeidsoppgavene og forholdene
+
+- være en del av det systematiske arbeidet med helse, miljø og sikkerhet.
+
+- bidra til økt risikoforståelse
+
+- bidra til relevante tiltak
+
+- bidra til å skape eierskap til tiltakene og motivasjon til å gjennomføre endringer hos arbeidstakerne
+
+I arbeidet med risikovurderingen er det arbeidsgiver som har ansvaret for:
+
+- at arbeidstakere har et fullt forsvarlig arbeidsmiljø
+
+- at alle farer og problemer knyttet til arbeidet kartlegges og risikovurderes
+
+- at arbeidstakere får medvirket i kartleggingen og risikovurderingen
+
+- å bruke nødvendig fagkompetanse i risikovurderingen, f.eks. fra en bedriftshelsetjeneste
+
+- å sette inn tiltak for å redusere risikoen, basert på funn i risikovurderingen, og følge opp effekten av tiltakene
+
+Verneombud skal tas med på råd ved planlegging og gjennomføring av tiltak som har betydning for arbeidsmiljøet innenfor eget verneområde.
+
+Risikovurderingen skal gjennomføres i samarbeid med arbeidstakerne, og tillitsvalgte. Samarbeid med arbeidstakerne vil:
+
+- bidra til å gi et mer realistisk bilde av arbeidet og mulige utfordringer i arbeidsmiljøet.
+
+- bidra til økt risikoforståelse
+
+- bidra til relevante tiltak
+
+- bidra til å skape eierskap til tiltakene og motivasjon til å gjennomføre endringer hos arbeidstakerne
+
+Dersom virksomheten er knyttet til en bedriftshelsetjeneste, kan denne bistå med kartlegging og risikovurdering.
+
+\[Boks slutt\]
+
+#### Krav til tilrettelegging, medvirkning og utvikling
+
+Generell tilrettelegging
+
+Arbeidsmiljøloven § 4-1 andre ledd andre punktum uttrykker et generelt tilretteleggingskrav. Arbeidet skal organiseres slik at arbeidstakere ikke utsettes for uheldige fysiske eller psykiske belastninger og slik at sikkerhetshensyn ivaretas. Bestemmelsen viser til eksempler på organisatoriske faktorer som arbeidets organisering, tilrettelegging og ledelse, arbeidstidsordninger, lønnssystemer, prestasjonslønn og teknologi. De faktorene som nevnes i selve lovteksten er ikke uttømmende. Formuleringen «ledelse» er tatt med for å vise at hvordan arbeidet og arbeidstakerne blir ledet, er en viktig arbeidsmiljøfaktor.
+
+Alenearbeid
+
+Lovens § 4-1 tredje ledd sier at arbeidsgiver skal vurdere om det er særlig risiko knyttet til alenearbeid. Arbeidsgiver må iverksette tiltak for å forebygge og redusere risiko ved alenearbeid. Bestemmelsen er imidlertid ikke et generelt forbud mot alenearbeid.
+
+Informasjon om systemer m.m.
+
+Arbeidsmiljøloven § 4-2 første ledd sier at arbeidstakere og deres tillitsvalgte skal informeres om systemer som brukes ved planlegging og gjennomføring av arbeidet. De skal gis nødvendig opplæring for å sette seg inn i systemene og skal medvirke ved utformingen av dem.
+
+Arbeidssituasjonens utforming
+
+Bestemmelsen i § 4-2 andre ledd er generell, og de forholdene som nevnes her skal tas i betraktning ved utformingen av arbeidssituasjonen. Det skal legges til rette for at arbeidet skal gis et positivt innhold gjennom at arbeidstakere skal gis mulighet for faglig og personlig utvikling gjennom arbeidet. Det er dermed ikke nok at arbeidsgiver kun fokuserer på å unngå de negative konsekvensene av arbeidet.
+
+Arbeidsgiver skal ta hensyn til den enkelte arbeidstakers arbeidsevne, kyndighet og alder mv. Bestemmelsen er sentral i vurderingen av arbeidstakeres arbeidsbelastning. I utformingen av den enkelte arbeidssituasjon skal det legges vekt på å gi arbeidstaker mulighet til selvbestemmelse, innflytelse og faglig ansvar.
+
+Særskilte krav til det psykososiale arbeidsmiljøet
+
+Lovens § 4-3 er en spesialbestemmelse om krav til det psykososiale arbeidsmiljøet. Bestemmelsen er dels en videreføring av krav fra 1977-loven, og dels var den ny i 2005. Ifølge forarbeidene skal bestemmelsen løfte fram og understreke lovens krav rettet mot arbeidsmiljøproblemer av sosial/psykososial art, f.eks. trakassering, mobbing, sosial isolasjon med videre.
+
+Loven stiller krav om at arbeidsgiver skal legge til rette for at arbeidstakers integritet og verdighet skal ivaretas. I forarbeidene nevnes at den direkte foranledningen til at begrepet «integritet» ble tatt inn i loven, var et ønske om å forby såkalt toppløsservering. I Ot.prp. nr. 49 (2004–2005) side 101, uttaler departementet imidlertid at «bestemmelsen har, og skal ha, en mer generell rekkevidde enn dette».
+
+Arbeidet skal søkes utformet slik at det gir mulighet for kontakt og kommunikasjon med andre arbeidstakere i virksomheten. Dette kravet var nytt med loven av 2005 og kravet skal forebygge arbeidsmiljøproblemer knyttet til isolasjon i arbeidet. Formuleringen «arbeidet skal søkes utformet slik at» viser at kravet ikke er en plikt til å ha flere arbeidstakere enn det saklig sett er behov for, og skal ikke forstås som et forbud mot alenearbeid.
+
+Vern mot trakassering og annen utilbørlig opptreden er en videreføring av 1977-loven. Kravet omfatter forholdet til andre mennesker som f.eks. kunder, elever, brukere og andre arbeidstakere i virksomheten. Kravet omfatter f.eks. uønskede negative handlinger, unnlatelser eller ytringer som virker eller har til formål å virke krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende. Dette kan f.eks. være uønsket seksuell oppmerksomhet, plaging, utfrysing eller sårende fleiping og erting. Trakassering kan være både enkelthendelser og hendelser som skjer gjentatte ganger. Dersom det er en enkelthendelse må den være av en viss alvorlighetsgrad for at det faller inn under begrepet. Hvis handlingene derimot er systematiske og gjentas over tid, vil det ofte dreie seg om mobbing, som er en form for trakassering.
+
+Fra 1. januar 2024 er det presisert i arbeidsmiljøloven § 4-3 tredje ledd at seksuell trakassering omfattes av trakasseringsbegrepet.
+
+Arbeidstilsynet hadde høsten 2024 forslag til endringer i arbeidsmiljøloven og forskrift om utførelse av arbeid på høring. Formålet med forslagene er å synliggjøre og tydeliggjøre regelverket om psykososialt arbeidsmiljø. Selv om det ikke innføres nye krav på området, er det likevel et forbedringspotensial i å løfte fram og synliggjøre dagens krav til det psykososiale arbeidsmiljøet, slik at regelverket bedre kan bidra til å hjelpe virksomhetene til et godt systematisk forebyggende arbeidsmiljøarbeid på dette området. Saken er til vurdering i Arbeids- og inkluderingsdepartementet.
+
+Vold, trusler og uheldige belastninger som følge av kontakt med andre
+
+Arbeidstaker skal, så langt det er mulig, beskyttes mot vold, trusler og uheldige belastninger som følge av kontakt med andre. Forarbeidene viser at begrepet «trusler» omfatter alle typer trusler, f.eks. trusler om vold, økonomiske trusler eller trusler om å sverte arbeidstakerens omdømme.
+
+Kravet er ikke et absolutt krav, men arbeidsgiver skal «så langt det er mulig» organisere arbeidet slik at arbeidstakere er vernet mot risikoene.
+
+Bestemmelsene om vold og trusler er utdypet i forskrift om utførelse av arbeid § 23 A.
+
+I 2023 ratifiserte Norge ILO-konvensjon nr. 190 om avskaffelse av vold og trakassering i arbeidslivet. Konvensjonen ble vedtatt i 2019 og er den første internasjonale avtalen som retter seg mot vold og trakassering i arbeidslivet. Den stiller bl.a. krav til at medlemsstatene skal definere og forby vold og trakassering i arbeidslivet. Både medlemsstatene og arbeidsgivere skal treffe tiltak for å forebygge vold og trakassering, inkludert kjønnsbasert vold og trakassering. Konvensjonen krever også at medlemsstatene treffer hensiktsmessige tiltak for å håndheve nasjonale regler om vold og trakassering i arbeidslivet. Ratifisering av konvensjonen krevde ikke endringer i norsk rett, men i forbindelse med ratifikasjon ble definisjonen av trakassering og seksuell trakassering inntatt i arbeidsmiljøloven, tilsvarende definisjonene i likestillings- og diskrimineringsloven. Samtidig ble verneombudets oppgaver når det gjelder psykososialt arbeidsmiljø presisert i loven.
+
+Særlig om tilrettelegging for arbeidstakere med redusert arbeidsevne
+
+Dersom en arbeidstaker har fått redusert arbeidsevne som følge av ulykke, sykdom, slitasje e.l., skal arbeidsgiver, så langt det er mulig, iverksette nødvendige tiltak for at arbeidstaker skal kunne beholde eller få passende arbeid. Dette følger av arbeidsmiljøloven § 4-6. Ifølge forarbeidene tar bestemmelsen særlig sikte på tilbakeføring av sykmeldte arbeidstakere og gir arbeidsgiver tilretteleggingsplikt når arbeidstakere underveis i arbeidsforholdet av en eller annen grunn får redusert arbeidsevne som følge av ulykke, sykdom, slitasje e.l. Arbeidsevnen kan ha blitt redusert på grunn av psykiske, fysiske eller sosiale forhold, eller sammensatte forhold, og bestemmelsen gjelder uavhengig av om endringen i helsetilstand har sammenheng med arbeidsforholdene eller ikke. Tilretteleggingskravet er vidtrekkende, men ikke absolutt; det skal legges til rette «så langt det er mulig». Det skal foretas en konkret helhetsvurdering, der virksomhetens art, størrelse, økonomi og arbeidstakers forhold skal veies opp mot hverandre.
+
+Dersom det ikke er mulig å tilrettelegge slik at arbeidstaker kan fortsette i sitt vanlige arbeid skal arbeidsgiver vurdere omplassering/overgang til annet arbeid. Plikten går ikke så langt som til å opprette en ny stilling, men dersom det er eller blir ledig en passende stilling i virksomheten, skal den tilbys arbeidstakeren hvis vedkommende ellers er skikket for den.
+
+Også likestillings- og diskrimineringsloven kapittel 3 har bestemmelser om tilrettelegging for arbeidstakere og arbeidssøkere med funksjonsnedsettelser eller som er gravide.
+
+#### Verneombud og arbeidsmiljøutvalg
+
+Plikt til å velge verneombud
+
+Det følger av dagens § 6-1 at det i enhver virksomhet skal velges verneombud. Ved virksomheter med mindre enn 5 arbeidstakere kan partene skriftlig avtale en annen ordning, herunder at det ikke skal være verneombud ved virksomheten.
+
+Verneombudets oppgaver
+
+Det følger av § 6-2 første ledd at verneombudet skal ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet. Det innebærer at verneombudet, knyttet til det psykososiale arbeidsmiljøet, bl.a. må:
+
+- delta i observasjon og kartlegging av forhold som påvirker det psykososiale arbeidsmiljøet negativt
+
+- delta i risikovurderinger av psykososiale faktorer som f.eks. stress, konflikter, trakassering m.m.
+
+- delta i utvikling og gjennomføring av tiltak for å forbedre det psykososiale arbeidsmiljøet
+
+- samarbeide og medvirke for å fremme et godt psykososialt arbeidsmiljø
+
+Verneombudets oppgaver omfatter også ansvar for innleide og for selvstendige oppdragstakere som utfører arbeid i nær tilknytning til virksomheten.
+
+Dersom verneombudet mener at det foreligger umiddelbar fare for arbeidstakernes liv eller helse, og faren ikke kan avverges på annen måte, kan verneombudet stanse arbeidet inntil Arbeidstilsynet har tatt stilling til om det kan fortsette.
+
+Plikt til å ha arbeidsmiljøutvalg
+
+Det følger av § 7-1 at alle virksomheter med minst 30 arbeidstakere har plikt til å opprette et arbeidsmiljøutvalg (AMU). Hvis en av partene krever det, skal også virksomheter med mellom ti og 30 ansatte ha AMU. Arbeidstilsynet kan også bestemme at det skal være AMU i en virksomhet.
+
+Arbeidsmiljøutvalgets oppgaver
+
+AMU skal arbeide for et fullt forsvarlig arbeidsmiljø i virksomheten.
+
+Utvalget skal delta i planleggingen av verne- og miljøarbeidet i virksomheten, og følge nøye med på utviklingen av arbeidsmiljøet. Dette innebærer bl.a. å:
+
+- behandle spørsmål som angår bedriftshelsetjenesten og vernetjenesten
+
+- behandle spørsmål om opplæring og instruksjon på områder som har betydning for arbeidsmiljøet
+
+- behandle planer om nye lokaler, prosesser eller ombygginger som krever samtykke fra Arbeidstilsynet
+
+- behandle andre planer som kan få vesentlig betydning for arbeidsmiljøet, som nye maskiner, rasjonaliseringstiltak, endringer i arbeidsprosesser og forebyggende vernetiltak
+
+- delta aktivt i virksomhetens helse-, miljø- og sikkerhetsarbeid. Delta i kartlegginger, utarbeidelser av handlingsplaner og gi råd til prioriteringer og tiltak
+
+- vurdere helse- og velferdsaspekter ved arbeidstidsordninger
+
+- gjennomgå alle rapporter om ulykker, nestenulykker og sykdom som kan skyldes arbeidsmiljøet. Ha fokus på årsaken til hendelsen og se til at arbeidsgiveren gjør det som er nødvendig for å hindre at det skjer igjen
+
+- gjennomgå alle rapporter om yrkeshygieniske undersøkelser og måleresultater
+
+- behandle spørsmål om tilrettelegging for arbeidstakere med redusert funksjonsevne
+
+- utarbeide en årsrapport om arbeidet
+
+#### Bedriftshelsetjeneste
+
+Alle arbeidsgivere har plikt til å knytte virksomheten sin til en godkjent bedriftshelsetjeneste dersom risikoforholdene tilsier det. Det følger av arbeidsmiljøloven § 3-3. Arbeidstilsynet kan derfor pålegge enhver virksomhet å knytte til seg en godkjent bedriftshelsetjeneste dersom de ser et særlig behov for overvåking av arbeidsmiljøet og arbeidshelsen til de ansatte i virksomheten.
+
+Noen bransjer har et mer risikofylt arbeidsmiljø enn andre, med større risiko for sykdommer, skader og psykiske belastninger. I forskrift om hvilke virksomheter som skal ha verne- og helsepersonale (bedriftshelsetjeneste), også kalt bransjeforskriften fra 1989, ble det foretatt en risikoanalyse av en hel rekke bransjer som man vurderte hadde risikoforhold som gjorde det nødvendig med tilknytning til bedriftshelsetjeneste (195). Vurderingene den gang hadde søkelys på det fysiske arbeidsmiljøet, og omfattet i det store og hele industri og mannsdominerte arbeidsplasser, hvor ulykkesrisiko og skadetall ble lagt til grunn for utvelgelsen.
+
+Da forskriften ble revidert i 2009 ble det tatt utgangspunkt i en helhetsvurdering basert på risikopotensial ved utførelse av arbeidsoppgavene og i arbeidssituasjonen og på registrerte konsekvenser. På konsekvenssiden ble det lagt vekt på kriterier som frafall og sykefravær. Valg av bransjer la større vekt på både kjemiske, biologiske, ergonomiske og organisatoriske og psykososiale kriterier. Både arbeidsbetingelser, opplevd belastning og andre tallfestede konsekvenser ble vurdert. Vurderingene resulterte i at sju nye bransjer ble tilføyd listen: helse- og omsorgssektoren, undervisningssektoren, frisørbransjen, fiskeoppdrett og klekkerier, gjenvinning, vakttjenester og kraft- og vannforsyning.
+
+Plikten til å knytte bedriftshelsetjeneste til virksomheten følger nå av forskrift 6. desember 2011 nr. 1355 om organisering, ledelse og medvirkning, kapittel 13.
+
+Bedriftshelsetjenestens oppgaver
+
+Bedriftshelsetjeneste er en fagkyndig rådgivende tjeneste innen forebyggende HMS-arbeid.
+
+Tjenesten skal bistå arbeidsgiver og arbeidstakere med å følge opp arbeidsmiljøet i virksomheten.
+
+Dette innebærer bl.a. å bistå med:
+
+- kartlegging av arbeidsmiljøet, foreta undersøkelser og vurdere risiko
+
+- å foreslå og gjennomføre forebyggende tiltak som kan redusere risiko for arbeidsrelaterte helseskader
+
+- planlegging og gjennomføring av fysiske og organisatoriske endringer, f.eks. ved nybygg eller endring av arbeidslokaler
+
+- utarbeidelse av internkontroll i helse-, miljø- og sikkerhetsarbeidet
+
+- å overvåke og følge opp arbeidstakernes helse når arbeidssituasjonen tilsier det, begrunnet ut fra et arbeidshelseperspektiv eller når virksomhetens risikovurdering tilsier det
+
+- å foreslå og gjennomføre tilrettelegging av arbeidet for den enkelte
+
+- informasjon og opplæring om helse, miljø og sikkerhet
+
+- oppfølging av henvendelser fra arbeidstaker, verneombud og arbeidsmiljøutvalg
+
+Arbeids- og inkluderingsdepartementet hadde i 2016 over tid fått signaler, særlig fra arbeidsgiversiden, om at kravene knyttet til bedriftshelsetjeneste oppleves som omfattende og kostnadskrevende og at ordningen i mange tilfeller ikke fungerer etter intensjonen. Dette gjaldt særlig i små virksomheter. Departementet iverksatte derfor i perioden 2016–2017 en evaluering og en faglig ekspertgjennomgang av bedriftshelsetjenesten. Resultatene av disse viste bl.a. at det var forskjeller på tvers av bransjer når det gjelder bruk av bedriftshelsetjenesten og om denne oppleves å bidra i utviklingen av HMS- og arbeidsmiljøarbeidet. Det framgikk videre at bedriftshelsetjenesten generelt i stor grad tilbyr og brukes til individuell oppfølging av arbeidstakere, som generelle helsekontroller, trening mv. Det ble pekt på at en del bedriftshelsetjenester og virksomheter har for lav bevissthet om hva som er bedriftshelsetjenestens samfunnsoppdrag og oppgaver, og at det er nødvendig å tydeliggjøre oppdraget knyttet til målrettet forebyggende arbeidsmiljøarbeid (196, 197). Det ble på denne bakgrunn gjennomført et utviklingsprosjekt for bedriftshelsetjenesten i samarbeid med partene i arbeidslivet og det ble i 2023 vedtatt en tiltakspakke med flere endringer i regelverket om utbygging av bedriftshelsetjeneste og om bedriftshelsetjenesters oppgaver og arbeid i virksomhetene. Dette gjaldt bl.a. å tydeliggjøre bedriftshelsetjenestens oppgaver som et forebyggende arbeidsmiljø- og arbeidshelsetiltak. Samtidig ble det innført nye forskriftskrav rettet mot bedriftshelsetjenesten, som krav til dokumentasjon av arbeidsmetodikk, obligatorisk opplæring og at Arbeidstilsynet kan føre tilsyn med bedriftshelsetjenestene. Arbeidstilsynet og Statens arbeidsmiljøinstitutt (STAMI) iverksatte også en rekke tiltak for å støtte opp under regelverksendringene. Arbeidstilsynet har som ledd i dette igangsatt et arbeid med å gjennomgå listen over de næringsgrupper som plikter å knytte seg til bedriftshelsetjeneste etter forskrift om organisering, ledelse og medvirkning § 13-1 andre ledd, med sikte på at listen skal oppdateres i løpet av 2025. Det framgår av bestemmelsens andre ledd at listen skal gjennomgås og oppdateres hvert sjette år.
+
+STAMIs Faktabok om arbeidsmiljø og -helse 2024 viser at andelen som har en jobb som er tilknyttet en bedriftshelsetjeneste, og andelen som har vært i kontakt med bedriftshelsetjenesten siste år, er forskjellig for ulike grupper av sysselsatte. Kvinner svarer oftere «vet ikke» enn menn på spørsmål om jobben er tilknyttet en bedriftshelsetjeneste (29 prosent blant kvinner mot 22 prosent blant menn). Kvinner svarer også sjeldnere enn menn at de har vært i kontakt med bedriftshelsetjenesten i løpet av de siste tolv månedene (tolv prosent mot 21 prosent). Andelen som har hatt kontakt med bedriftshelsetjenesten er relativt lav i helse- og omsorgsnæringene. Ansatte i kvinnedominerte bransjer som hjemmetjenesten, sykehjem og omsorgsinstitusjoner, benytter ikke i stor grad bedriftshelsetjenesten til primærforebyggende tjenester som kurs/opplæring og kartlegging av arbeidsmiljø, eller sekundærforebyggende tiltak som konsultasjon ved sykdom/skade eller tilrettelegging (1).
+
+Arbeids- og inkluderingsdepartementet har igangsatt en følgeevaluering for å dokumentere om «tiltakspakken» bidrar til den ønskede justeringen og målrettingen av bedriftshelsetjenestens virksomhet. Evalueringen gjennomføres av Oslo Economics, og sluttrapport fra prosjektet skal foreligge innen 1. oktober 2025.
+
+#### Rettigheter ved svangerskap og fødsel mv.
+
+Tilrettelegging, omplassering og krav på svangerskapspenger
+
+I tillegg til tilretteleggingspliktene som er omtalt ovenfor regulerer forskrift om utførelse av arbeid kapittel 7 arbeid med fare for forplantningsskader. Det følger av forskriften at arbeidsgiver skal risikovurdere og informere om fare for slike skader. Dersom det foreligger risiko skal arbeidsgiver sørge for nødvendig tilrettelegging eller eventuelt omplassering av den gravide. Dersom tilrettelegging eller omplassering ikke er mulig, skal den gravide tas midlertidig ut av arbeid. Arbeidstakere som tas ut av arbeid etter bestemmelsen vil vanligvis ha krav på svangerskapspenger etter folketrygdloven § 14-4 (198).
+
+Permisjon
+
+Rett til permisjon er regulert i arbeidsmiljøloven kapittel 12. Folketrygdloven regulerer retten til økonomisk kompensasjon. De permisjonsrettighetene som omtales her er permisjoner som knytter seg til svangerskap og fødsel, samt pårørendeomsorg. Rett til økonomiske ytelser for å sikre foreldres inntekt ved svangerskap, fødsler og adopsjon følger av folketrygdloven kapittel 14.
+
+Svangerskap og fødsel
+
+Arbeidstaker som er gravid har rett til fri fra arbeid med lønn i forbindelse med svangerskapskontroll dersom slike undersøkelser med rimelighet ikke kan finne sted utenfor arbeidstiden. Det følger av arbeidsmiljøloven § 12-1. Arbeidsgiver betaler lønn for den tiden arbeidstaker er borte fra arbeid.
+
+Foreldrene har rett til foreldrepermisjon i inntil tolv måneder for hver fødsel, samt når det ytes foreldrepenger etter folketrygden. Det følger av arbeidsmiljøloven § 12-5. Arbeidstaker som er gravid, har etter § 12-2, rett til permisjon i inntil tolv uker under svangerskapet. Etter fødselen skal mor ha permisjon i de seks første ukene med mindre hun framlegger legeattest på at det er bedre for henne å komme i arbeid, se § 12-4. Svangerskapspermisjon etter § 12-2 og fødselspermisjon etter § 12-4 inngår i de tolv månedene.
+
+Foreldrepengeperioden består av en mødrekvote på 15 uker, (hvorav de første seks ukene må tas rett etter fødselen), en fedrekvote på 15 uker, en periode på tre uker før termin til mor og en fellesperiode på 16 uker (totalt 49 uker).
+
+Oversikt over utviklingen av rettigheter knyttet til svangerskap og fødsel
+
+Lov 27. juni 1892 nr. 1 om tilsyn med arbeid i fabrikker (fabrikktilsynsloven)
+
+Loven ga forbud mot å sette barselkvinner i arbeid de første seks uker etter nedkomst, med mulighet til å gjenoppta arbeidet etter fire uker, dersom man hadde legeerklæring om dette.
+
+Lov 18. september 1915 om arbeideres beskyttelse i industriell virksomhet (arbeidsbeskyttelsesloven)
+
+I tillegg til forbudet mot å settes i arbeid de første seks uker etter nedkomst, ga loven kvinner rett til å ta fri fire uker før lege eller jordmor har anslått nedkomst. I tillegg kunne ikke arbeidsgiver nekte kvinnen å amme sitt barn.
+
+Lov 19. juni 1936 nr. 8 om arbeidervern (arbeidervernloven)
+
+I 1936-loven er bestemmelsen om barselkvinner endret til rettigheter for kvinnen, i motsetning til et forbud mot å sette kvinner i arbeid i perioder før og etter fødselen. Kvinnen kan med minst tre dagers varsel, kreve å få arbeidsfri de siste seks ukene før fødsel. Varslingsbestemmelsen kom inn i loven under komitebehandlingen, fordi man ønsket at arbeidsgiver skulle ha mulighet til å skaffe vikar. Regelen om pliktig fri de første seks uker etter fødselen er gjort om til en «bør» bestemmelse, fordi sosialkomiteen i Stortinget mente at med den utvidelsen som ble foreslått, ville det kunne være «vanskelig å praktisere et slikt forbud». Forutsetningene fra lovgivers hånd har imidlertid vært at seks uker fortsatt skal være hovedregelen, og at det kun er særlige forhold som skulle tilsi at arbeidsgiver kan kalle kvinnen tilbake til arbeid før dette. Som eksempel på slike forhold nevnes at det ikke ville være mulig å skaffe vikar.
+
+Kvinnen har rett til å amme sitt barn med minst en halv time to ganger daglig.
+
+Lov 7. desember 1956 nr. 2 om arbeidervern (arbeidervernloven)
+
+Her har lovgiver gått tilbake til at kvinnen skal ha fri de første seks ukene etter fødselen. Loven ble endret for å kunne ratifiserer ILO-konvensjon nr. 103, om mødrevern, hvor kravet om fri etter fødselen er obligatorisk. I tillegg kan hun kreve å få fri i ytterligere seks uker som kan legges både før og etter fødselen. Varslingsregelen på tre dager er opprettholdt, det samme er rettigheten til fri til amming.
+
+Lov 4. februar 1977 nr. 4 om arbeidervern- og arbeidsmiljø (arbeidsmiljøloven)
+
+Retten til fri er ytterligere utvidet i 1977-loven. Retten til fri under svangerskapet er satt til tolv uker. Etter fødselen er kravet fortsatt at hun skal ha seks uker fri. Det kan gjøres unntak fra dette dersom hun har legeattest som viser at det er bedre for henne å komme i arbeid. I tillegg skal hun ha rett til fri med lønn til svangerskapskontroller, dersom slike ikke med rimelighet kan legges utenom arbeidstiden.
+
+Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)
+
+Bestemmelsene er en videreføring av bestemmelsene fra 1977-loven.
+
+\[Boks slutt\]
+
+Ammefri
+
+Det følger av arbeidsmiljøloven § 12-8 at kvinne som ammer sitt barn kan kreve den fri hun av den grunn trenger. Det følger videre av bestemmelsen at fritiden f.eks. kan tas ut to ganger daglig eller som redusert arbeidstid med inntil én time hver dag.
+
+Dersom den ammende har en avtalt arbeidstid på sju timer eller mer per dag, har hun rett til lønn inntil én time per dag. Det følger av bestemmelsens andre ledd.
+
+Rett til ammefri ble innført i arbeidervernloven av 1956, og ble videreført med enkelte endringer i arbeidsmiljøloven av 1977 og senere arbeidsmiljøloven av 2005.
+
+Bestemmelsen om rett til lønnet ammefri trådte i kraft 1. januar 2014. Det framgår av forarbeidene:
+
+Formålet med lovforslaget er å legge til rette for at mødre som går ut i arbeid i barnets første leveår skal kunne fortsette å amme uten vesentlig inntektstap. Dette vil både legge til rette for at flere kvinner kan amme sitt barn og for økt yrkesdeltakelse blant kvinner som ammer. Høyere yrkesaktivitet blant mødre i barnets første leveår åpner for at fedre kan ta en større del av foreldrepermisjonen og bidrar dermed til mer likestilte foreldreskap.
+
+Flere tariffavtaler gir ammende bedre rettigheter i forbindelse med amming enn det som følger av loven. Bl.a. i staten gis ammende rett til inntil to timer lønnet fri per dag for å amme.
+
+I samsvar med «Folkehelsemeldingen» har Helsedirektoratet iverksatt et samarbeid mellom arbeidsgiver- og arbeidstakerorganisasjonene, relevante brukerorganisasjoner og kompetansemiljø, med mål om å gjøre regelverket om ammefri bedre kjent og praktiserbart (199). Helsedirektoratet skal også utarbeide et forslag til hvordan kvinners mulighet til å amme i arbeidstiden i tråd med helsefaglige råd kan kartlegges.
+
+Barns og barnepassers sykdom
+
+Rett til permisjon ved barns og barnepassers sykdom er regulert i arbeidsmiljøloven § 12-9.
+
+Rett til permisjon for arbeidstaker som har omsorg for barn:
+
+(1) Arbeidstaker som har omsorg for barn har rett til permisjon:
+
+a\. for nødvendig tilsyn med barnet når det er sykt,
+
+b\. hvis barnet skal følges til legeundersøkelse eller annen oppfølging i forbindelse med sykdom, eller
+
+c\. hvis den som har det daglige barnetilsynet er syk eller har permisjon etter denne paragraf på grunn av et annet barn.
+
+(2) Retten til permisjon etter paragrafen her gjelder til og med det kalenderåret barnet fyller 12 år. Arbeidstaker har rett til permisjon inntil 10 dager hvert kalenderår eller inntil 15 dager dersom arbeidstaker har omsorg for mer enn to barn.
+
+(3) Dersom barnet har kronisk sykdom, langvarig sykdom eller har nedsatt funksjonsevne og det derfor er en markert økning av risikoen for at arbeidstaker får fravær fra arbeidet, har arbeidstaker rett til fri etter første ledd i inntil 20 dager hvert kalenderår. Retten til permisjon gjelder til og med det kalenderåret barnet fyller 18 år. Arbeidstaker har i tillegg rett til permisjon for å delta i opplæring ved godkjent helseinstitusjon eller offentlig kompetansesenter for å kunne ta seg av og behandle barnet.
+
+(4) Arbeidstaker som har omsorg for barn har rett til permisjon dersom:
+
+a\. barnet blir innlagt i helseinstitusjon og arbeidstaker oppholder seg ved helseinstitusjonen
+
+b\. barnet er utskrevet fra helseinstitusjon og arbeidstaker må være hjemme fordi barnet trenger kontinuerlig tilsyn og pleie, eller
+
+c\. barnet har livstruende eller annen svært alvorlig sykdom eller skade
+
+Ved permisjon etter bokstavene a og b gjelder aldersgrensene i andre og tredje ledd. Rett til permisjon etter bokstav c gjelder til og med det kalenderåret barnet fyller 18 år, men uten hensyn til alder hvis barnet er psykisk utviklingshemmet.
+
+(5) Arbeidstaker har uansett rett til permisjon når det ytes omsorgspenger, pleiepenger eller opplæringspenger fra folketrygden.
+
+(6) Arbeidstaker som er alene om omsorgen for barn har rett til dobbelt så mange permisjonsdager som etter andre og tredje ledd. Det samme gjelder hvis det er to om omsorgen, men en av dem er langvarig avskåret fra tilsynet med barnet på grunn av nedsatt funksjonsevne, innleggelse i helseinstitusjon som langtidspasient, er i fengsel, avtjener verneplikt eller tilsvarende forhold. Retten til permisjon kan overføres med inntil halvparten av dagene hvert kalenderår til mor eller far med samværsrett eller til den som arbeidstaker bor sammen med og som ikke har omsorg for egne barn.
+
+\[Boks slutt\]
+
+Omsorgspenger ved barns eller barnepassers sykdom er regulert i folketrygdloven §§ 9-5 – 9-9.
+
+Pleie av nærstående/pårørendeomsorg
+
+Arbeidstaker som pleier nærstående i hjemmet i livets sluttfase har rett til permisjon i 60 dager for pleie av den enkelte nærstående. Det følger av arbeidsmiljøloven § 12-10. Det følger av folketrygdloven § 9-13 at det ytes pleiepenger i opptil 60 dager for hver pasient. Det kan ytes pleiepenger til inntil to personer samtidig for pleie av samme person.
+
+Fra 1. juli 2010 fikk bestemmelsen i arbeidsmiljøloven § 12-10 et nytt andre ledd som gir arbeidstaker rett til permisjon i inntil ti dager hvert kalenderår for å gi nødvendig omsorg til foreldre, ektefelle, samboer eller registrert partner. Det gis ingen rett til økonomisk kompensasjon fra folketrygden. Mange kan imidlertid ha rett på permisjon med lønn som følge av tariffavtale eller virksomhetsbaserte bestemmelser om velferdspermisjoner mv.
+
+At det ikke gis økonomisk kompensasjon, medfører manglende kunnskap om bruken av bestemmelsen.
+
+Stortinget har bedt regjeringen om å «gjennomgå og forbedre regelverket for pårørendes permisjonsmuligheter i arbeidslivet for å sikre likestilling og bedre mulighetene til å kombinere arbeid og omsorg uten å pådra seg økonomiske problemer eller falle ut av arbeidslivet». Saken følges opp av regjeringen.
+
+#### Arbeidstid
+
+Arbeidstid handler ikke bare om antall timer som tilbringes på jobb, men også om når på døgnet vi jobber.
+
+Arbeidsmiljøloven kapittel 10 regulerer innenfor hvilke rammer arbeidsgiver kan organisere arbeidet i sin virksomhet. Kapittelet har bl.a. bestemmelser om ordinær arbeidstid, hvor mye overtid og merarbeid som kan utføres, daglig og ukentlig hviletid, hva som defineres som nattarbeid og når arbeid kan skje på søndager. I tillegg inneholder kapittelet bestemmelser om hvordan arbeidsgiver og den enkelte arbeidstaker eller arbeidstakers organisasjoner kan avtale avvikende ordninger. Dersom arbeidstakerne arbeider til ulike tider på døgnet skal det etter § 10-3 utarbeides arbeidsplaner. Arbeidsplanen skal utarbeides i samarbeid med arbeidstakernes tillitsvalgte, og drøftes med de tillitsvalgte senest to uker før iverksettelsen.
+
+Det følger av § 10-2 at arbeidstidsordninger skal være slik at arbeidstakerne ikke utsettes for uheldige fysiske eller psykiske belastninger, og slik at det er mulig å ivareta sikkerhetshensyn. I forarbeidene er dette presisert slik:
+
+For å komme fram til resultatet må ulike risikoforhold kartlegges og vurderes. Bestemmelsen innebærer en begrensning i adgangen til å utnytte de maksimale rammer loven setter dersom dette vil medføre uheldige psykiske eller fysiske belastninger eller at arbeidstakernes mulighet til å ivareta sikkerhetshensyn reduseres.
+
+Regelen i § 10-4 fastsetter at den alminnelige arbeidstiden ikke må overstige ni timer i løpet av 24 timer, og 40 timer i løpet av sju dager.
+
+For døgnkontinuerlig skiftarbeid og sammenlignbart turnusarbeid må den alminnelige arbeidstiden ikke overstige ni timer i løpet av 24 timer og 38 timer i løpet sju dager, og for helkontinuerlig skiftarbeid og sammenlignbart turnusarbeid må den ikke overstige ni timer i løpet av 24 timer og 36 timer i løpet av sju dager.
+
+Mange arbeidstakere vil imidlertid, enten gjennom tariffavtale eller praksis, ha en arbeidstid i samsvar med tariffavtale. Etter den tariffavtalte arbeidstidsforkortelsen som ble gjennomført per 1. januar 1987 er den ukentlige ordinære arbeidstiden 37,5 timer, og 35,5 timer for døgnkontinuerlig skift/turnusarbeid og 33,5 timer for helkontinuerlig skift/turnusarbeid.
+
+De nærmere definisjonene av hva som er å regne som turnus og skiftarbeid, er bl.a. omtalt i Ot.prp. nr. 54 (2008–2009) (200). I denne proposisjonen ble det foreslått å likestille turnus og skiftarbeid. Bakgrunnen for dette forslaget var et ønske fra særlig kvinnedominerte helsepersonellgrupper om å likestille tredelt turnus, med helkontinuerlig skiftarbeid og dermed ha rett på kortere ukentlig arbeidstid. Det ble bl.a. hevdet at arbeidsmiljølovens arbeidstidsbestemmelser knyttet til skift/turnus innebar en urettferdig forskjellsbehandling av kvinner, fordi det stort sett er kvinner som arbeider i helsevesenet og menn tradisjonelt i industrien. I 1996 uttalte Likestillingsombudet at reguleringen «innebærer en indirekte forskjellsbehandling av kvinner og menn, og derfor ansees å være i strid med likestillingsloven». Det daværende Kommunal- og arbeidsdepartementet påpekte at det er forskningsmessig støtte for at både skiftarbeid og turnusarbeid der nattarbeidet er omfattende, kan være skadelig for helsen. Nattarbeid kan i seg selv utgjøre en helserisiko, og denne risikoen forsterkes ved arbeidstidsordninger der nattarbeid kombineres med skift mellom dag- og kveldsarbeid. Resultatet ble et nytt sjette ledd i arbeidsmiljøloven § 10-4 som innebærer at arbeidstiden blir redusert for personell som arbeider på søndager og nattarbeid avhengig av omfanget av dette arbeidet. Endringen trådte i kraft 1. januar 2010.
+
+Fagforening med innstillingsrett etter arbeidstvistloven eller tjenestetvistloven[^21] kan, med visse unntak inngå tariffavtale som fraviker bestemmelsene i arbeidstidskapittelet. Det er en forutsetning at arbeidstakerne sikres tilsvarende kompenserende hvileperioder, eller der det ikke er mulig, annet passende vern. Det er inngått en rekke slike avtaler, bl.a. i helsesektoren.
+
+Rett til redusert arbeidstid
+
+Arbeidsmiljøloven § 10-2 fjerde ledd gir arbeidstakere som er fylt 62 år, eller som av helsemessige, sosiale eller andre vektige velferdsgrunner har behov for det, rett til å få redusert arbeidstid. Forutsetningen er at dette ikke medfører vesentlige ulemper for virksomheten.
+
+I bestemmelsen stilles det krav om at arbeidstaker må ha et behov for redusert arbeidstid ut fra «helsemessige, sosiale eller andre vektige velferdsgrunner». I forarbeidene er dette presisert slik:
+
+Helsemessige grunner refererer seg til sykdom hos arbeidstakeren selv, og må kunne dokumenteres med legeattest. Sosiale grunner knytter seg til forhold hos arbeidstakerens familie eller nærmeste omgivelser, og utløser gjerne omsorgsoppgaver eller belastninger utenom det vanlige. Velferdsgrunner kan fange opp tilfeller som ligger nær opp til helsemessige eller sosiale grunner, men har en videre karakter. Det må imidlertid foreligge et kvalifisert behov for redusert arbeidstid om denne skal gis på velferdsmessig grunnlag, og dette er understreket ved at det i lovteksten er krav om vektige velferdsgrunner. Det mest vanlige eksempelet på en vektig velferdsgrunn er arbeidstaker med små barn som i en periode ønsker mer tid til samvær eller som har problemer med å skaffe barnepass i arbeidstiden.
+
+Rett til fleksibel arbeidstid
+
+Arbeidslivslovutvalget foreslo i NOU 2004: 5 *Et arbeidsliv for trygghet, inkludering og vekst,* å lovfeste en generell rett til fleksitid, slik at arbeidstakerne kunne ha mulighet til «å tilpasse sin arbeidstid, arbeidsmengde og innholdet i arbeidet til sin generelle livssituasjon». Forslaget ble fulgt opp i Ot.prp. nr. 49 (2004–2005) og innebærer at arbeidstaker etter arbeidsmiljøloven § 10-2 tredje ledd har rett til fleksibel arbeidstid, dersom dette ikke medfører vesentlige ulemper for virksomheten.
+
+Det framgår av forarbeidene at fleksibel arbeidstid innebærer en mulighet for arbeidstaker til å få arbeidstiden tilpasset sine behov. Det nærmere innholdet i «fleksibel arbeidstid» er ikke definert. Det vil være opp til arbeidsgiver og arbeidstaker i fellesskap å finne fram til løsninger som ivaretar arbeidstakers ønsker og behov, samtidig som de oppfyller kravet om «uten vesentlig ulempe» for virksomheten.
+
+#### Ansettelse – heltid/deltid og fast/midlertidig
+
+Hovedregelen i arbeidsmiljøloven er at arbeidstakere skal ansettes fast og på heltid, se lovens § 14-9 første ledd og § 14-1b første ledd. Behovet for arbeidskraft kan imidlertid variere, og skape behov for midlertidig ansatte og arbeidstakere ansatt på deltid. Noen ønsker deltidsarbeid, mens andre kan være i situasjoner hvor de etter loven har krav på redusert arbeidstid.
+
+Deltid
+
+Før arbeidsgiver fatter beslutning om ansettelse i deltidsstilling, skal arbeidsgiver skriftlig dokumentere behovet for deltidsansettelse. Dokumentasjonen skal være tilgjengelig for tillitsvalgte, og spørsmålet om deltidsansettelse skal drøftes med de tillitsvalgte.
+
+Arbeidsgiver skal i tillegg minst én gang i året drøfte bruken av deltid med de tillitsvalgte.
+
+Det følger av arbeidsmiljøloven § 14-3 at deltidsansatte har rett til utvidet stilling framfor at arbeidsgiver foretar ny ansettelse i virksomheten. Med deltidsansatt menes her en person som har avtalt arbeidstid som er lavere enn normal arbeidstid i vedkommende yrke eller bransje.
+
+Ifølge forarbeidene skal bestemmelsen forstås slik at den ikke gir deltidsansatte adgang til å velge å utvide sin eksisterende stillingsbrøk ut fra egne preferanser. En deltidsansatt som gjør fortrinnsrett gjeldende må ta hele den utlyste/ledige stillingen. Bestemmelsen er likevel ikke til hinder for at partene kan avtale løsninger som innebærer at den ledige stillingen blir besatt delvis av en fortrinnsberettiget deltidsansatt.
+
+Rett til stilling for deltidsansatte tilsvarende faktisk arbeidstid
+
+Fra 1. januar 2014 ble det innført en ny bestemmelse i arbeidsmiljøloven som gir deltidsansatte som de siste tolv måneder jevnlig har arbeidet utover avtalt arbeidstid, rett til stilling tilsvarende faktisk arbeidstid i denne perioden, med mindre arbeidsgiver kan dokumentere at behovet for merarbeidet ikke lenger foreligger. Tolvmånedersperioden skal beregnes med utgangspunkt i det tidspunkt arbeidstaker fremmet sitt krav.
+
+Ifølge lovteksten er det «arbeid utover avtalt arbeidstid» som utløser retten til stilling tilsvarende faktisk arbeidstid. Den typiske situasjonen vil være der arbeidstaker arbeider «ekstravakter» utover avtalen, eller av andre grunner arbeider «overtid» i sin deltidsstilling; såkalt merarbeid. Bestemmelsen skal gjelde uavhengig av om det er økt arbeidsmengde, sykefravær eller andre forhold som begrunner behovet.
+
+Kravet om «jevnlig» merarbeid innebærer at merarbeidet må ha en viss hyppighet og at det samlet sett må ha et visst omfang. Det vil kreves innslag av merarbeid i den løpende driften. Merarbeidet må ikke nødvendigvis være tilnærmet likt fordelt over hele tolvmånedersperioden. Det framgår av forarbeidene at hovedpoenget er at bruken av merarbeid skal framstå som en etablert praksis i den aktuelle referanseperioden (201).
+
+Midlertidig ansettelse
+
+Etter arbeidsmiljøloven § 14-9 kan det inngås avtale om midlertidig ansettelse:
+
+a\. når arbeidet er av midlertidig karakter
+
+b\. for arbeid i stedet for en annen eller andre (vikariat)
+
+c\. for praksisarbeid
+
+d\. med deltaker i arbeidsmarkedstiltak i regi av eller i samarbeid med arbeids- og velferdsetaten
+
+e\. med idrettsutøvere, idrettstrenere, dommere og andre ledere innen den organiserte idretten
+
+Fortrinnsretten etter § 14-2 første ledd gjelder også for midlertidig ansatte som på grunn av virksomhetens forhold ikke får fortsatt ansettelse.
+
+#### Likestillings- og diskrimineringsloven
+
+Reglene om diskriminering på grunn av bl.a. kjønn, funksjonsnedsettelse, etnisitet, graviditet, fødsel og adopsjon og omsorgsoppgaver framgår av likestillings- og diskrimineringsloven (202).
+
+Likestillings- og diskrimineringsloven har til formål å fremme likestilling og hindre diskriminering på alle samfunnsområder. Alle norske virksomheter, uavhengig av størrelse, skal jobbe aktivt, målrettet og planmessig for å fremme likestilling og hindre diskriminering.
+
+For å sikre at arbeidstakere og arbeidssøkere får like muligheter er alle arbeidsgivere i Norge, selv de minste, pålagt en generell aktivitetsplikt som er beskrevet i § 26 i likestillings- og diskrimineringsloven, se boks 7.7.
+
+§ 26 Arbeidsgivers aktivitets- og redegjørelsesplikt
+
+Alle arbeidsgivere skal, innenfor sin virksomhet, arbeide aktivt, målrettet og planmessig for å fremme likestilling, hindre diskriminering på grunn av kjønn, graviditet, permisjon ved fødsel eller adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk, eller kombinasjoner av disse grunnlagene, og søke å hindre trakassering, seksuell trakassering og kjønnsbasert vold. Arbeidet skal bl.a. omfatte områdene rekruttering, lønns- og arbeidsvilkår, forfremmelse, utviklingsmuligheter, tilrettelegging og mulighet for å kombinere arbeid og familieliv.
+
+I alle offentlige virksomheter, uavhengig av størrelse, og i private virksomheter som jevnlig sysselsetter mer enn 50 ansatte, skal arbeidsgiver innenfor sin virksomhet
+
+a\. undersøke om det finnes risiko for diskriminering eller andre hindre for likestilling, herunder annethvert år kartlegge lønnsforhold fordelt etter kjønn og bruken av ufrivillig deltidsarbeid
+
+b\. analysere årsakene til identifiserte risikoer
+
+c\. iverksette tiltak som er egnet til å motvirke diskriminering, og bidra til økt likestilling og mangfold i virksomheten og
+
+d\. vurdere resultater av arbeidet etter bokstav a til c
+
+Det samme gjelder arbeidsgiver i private virksomheter som jevnlig sysselsetter mellom 20 og 50 ansatte, når en av arbeidslivets parter i virksomheten krever det.
+
+Med ufrivillig deltidsarbeid menes deltidsarbeid der stillingsinnehaveren ønsker og er tilgjengelig for å jobbe mer.
+
+Arbeid som nevnt i denne bestemmelsen skal dokumenteres. Arbeid som nevnt i bestemmelsens andre ledd skal skje fortløpende og i samarbeid med de ansattes representanter.
+
+Kongen kan i forskrift gi nærmere regler om innholdet i og gjennomføringen av lønnskartleggingen.
+
+\[Boks slutt\]
+
+For alle offentlige arbeidsgivere, uavhengig av størrelse, og private arbeidsgivere som jevnlig sysselsetter mer enn 50 ansatte, gjelder en spesifisert og konkret plikt som er beskrevet i likestillings- og diskrimineringsloven § 26 andre ledd. Det samme gjelder arbeidsgivere i private virksomheter som jevnlig sysselsetter mellom 20 og 50 ansatte, når en av arbeidslivets parter i virksomheten krever det. Disse arbeidsgiverne skal redegjøre for den faktiske tilstanden når det gjelder kjønnslikestilling i virksomheten og hva de gjør for å oppfylle aktivitetsplikten.
+
+Også offentlige myndigheter er pålagt aktivitets- og redegjørelsesplikt etter loven. Arbeidslivets organisasjoner skal, innenfor sine virkefelt, arbeide aktivt, målrettet og planmessig for å fremme likestilling og hindre diskriminering bl.a. på grunn av kjønn, graviditet, permisjon ved fødsel og adopsjon, omsorgsoppgaver mv.
+
+Arbeidsgivere som har plikter etter § 26 andre ledd, skal redegjøre for den faktiske tilstanden når det gjelder kjønnslikestilling i virksomheten og hva de gjør for å oppfylle aktivitets- og redegjørelsesplikten etter § 26.
+
+Redegjørelsen etter første ledd skal gis i årsberetningen eller i annet offentlig tilgjengelig dokument. Dersom redegjørelsen gis i annet offentlig tilgjengelig dokument, og foretaket har en plikt til å levere årsberetning, skal det i årsberetningen opplyses hvor dokumentet finnes offentlig tilgjengelig. Arbeidsgivere i offentlige virksomheter som ikke er pålagt å utarbeide årsberetning, skal ta redegjørelsen etter første ledd inn i sin årsrapport eller i et annet offentlig tilgjengelig dokument.
+
+Likestillings- og diskrimineringsloven har i kapittel 3 egne bestemmelser om tilrettelegging for arbeidstakere og arbeidssøkere med funksjonsnedsettelser eller som er gravide. Kapittel 5 inneholder særlige regler i arbeidsforhold. Det er bl.a. presisert at forbud mot å diskriminere gjelder alle sider av et arbeidsforhold, herunder bl.a. utlysning av stilling, ansettelse, omplassering og forfremmelse, opplæring og kompetanseutvikling, lønns- og arbeidsvilkår og opphør av stilling. Arbeidsgivere må ikke i ansettelsesprosessen innhente opplysninger, f.eks. om en søkers graviditet, adopsjon eller planer om å få barn. Arbeidssøkere som mener seg forbigått, kan kreve at arbeidsgiveren skriftlig gir opplysninger om den som ble ansatt.
+
+I loven er det presisert at arbeidstakere som er eller har vært i lovbestemt foreldrepermisjon har rett til å komme tilbake til samme, eventuelt tilsvarende stilling, nyte godt av forbedringer av arbeidsvilkårene som arbeidstakerne ellers ville vært berettiget til under fraværet og fremme lønnskrav og bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.
+
+Loven har også regler om lik lønn for arbeid av lik verdi, og at arbeidsgiver har opplysningsplikt om lønn til den som mener seg diskriminert.
+
+Et eget kapittel i loven omhandler håndheving, bevisbyrde og reaksjoner. Diskrimineringsnemnda er et statlig domstollignende organ som avgjør enkeltsaker om diskriminering og trakassering. Sammen med Likestillings- og diskrimineringsombudet (LDO) er Diskrimineringsnemnda den sentrale aktøren i arbeidet for å gjennomføre diskrimineringslovgivningen.
+
+Diskrimineringsnemnda er et alternativ til å bringe saker inn for de ordinære domstolene, og er ment å være enklere, raskere og billigere. Det er gratis å få en sak avgjort av nemnda, og partene velger selv om de vil bruke advokat. Nemndas kompetanse er regulert i diskrimineringsombudslovens § 7. Nemnda kan behandle saker om de fleste av bestemmelsene i likestillings- og diskrimineringsloven, samt diskrimineringsbestemmelsene bl.a. i arbeidsmiljøloven. Nemnda kan fatte vedtak om at et forhold er i strid med diskrimineringslovgivningen. Vedtakene er endelige, men kan bringes inn for domstolene for full prøving.
+
+Vedtakene kan pålegge stansing, retting eller andre tiltak som er nødvendige, og inneholde en frist for oppfyllelse. Nemnda kan også ilegge tvangsmulkt der slike pålegg ikke blir fulgt opp innen fristen.
+
+Fra 1. januar 2018 kan nemnda, ved enstemmighet, fatte vedtak om erstatning for økonomisk tap. Innenfor arbeidslivets område kan den også tilkjenne oppreisning.
+
+Nemnda kan imidlertid ikke kjenne en ansettelse ugyldig, eller pålegge en arbeidsgiver å ansette en arbeidstaker.
+
+LDO skal arbeide for å fremme reell likestilling og hindre diskriminering på alle samfunnsområder, bl.a. på grunn av kjønn, graviditet, permisjon ved fødsel og adopsjon og omsorgsoppgaver.
+
+Grove overtredelser av diskrimineringsforbudet kan straffes med bøter eller fengsel.
+
+#### Særaldersgrenser
+
+Systemet med særaldersgrenser bygger på en forutsetning om at grupper av arbeidstakere ikke kan fortsette i stillingen utover en gitt alder, med bakgrunn i at tjenesten stiller spesielle krav til fysiske eller psykiske egenskaper som normalt svekkes ved alder, eller at stillingen medfører uvanlig fysisk eller psykisk belastning. Særaldersgrenser er utførlig behandlet i en rapport fra en arbeidsgruppe i 2023 (39).
+
+I dag har bl.a. følgende yrkesgrupper særaldersgrenser: politi, brannfolk og forsvarsansatte (60 år), kriminalomsorgen (63 år) og helsepersonell (65 år), se boks 7.8. Samlet utgjør det over 200 000 offentlig ansatte; nesten én av tre offentlig ansatte.
+
+Ulike særaldersgrenser
+
+For ansatte i staten følger aldersgrensene av aldersgrenseloven (203). Det følger av loven at den alminnelige aldersgrensen er 70 år, mens de lavere aldersgrensene kan være 65, 63 og 60 år.
+
+I kommunal sektor er det tariffestet en alminnelig aldersgrense på 70 år og særaldersgrenser. En forskrift om pensjonsordninger for kommunalt eller fylkeskommunalt ansatte (204) fastsetter at aldersgrensene ikke må være lavere enn for tilsvarende stillinger for offentlige tjenestemenn etter aldersgrenseloven. I en særavtale om pensjonsordninger i KS-området fra 2020 følger det at særaldersgrensene i kommunal sektor skal følge det som gjelder i staten for tilsvarende stillinger (205).
+
+Aldersgrenser for sykepleiere framgår av sykepleierpensjonsloven (206). Offentlig godkjente sykepleiere i privat, fylkeskommunal eller statlig virksomhet omfattet av spesialisthelsetjenesteloven og helseforetaksloven skal være medlemmer i pensjonsordningen for sykepleiere. Aldersgrensen er 70 år for overordnede sykepleiere, sykepleiere i administrative stillinger og undervisningsstillinger, og 65 år for underordnede sykepleiere.
+
+Aldersgrensene for ballettdansere, sangsolister og korsangere ved Den Norske Opera & Ballett følger av operapensjonsloven, og er 41 år for ballettdansere, 52 år for sangsolister og 56 år for korsangere.
+
+\[Boks slutt\]
+
+85-årsregelen, innebærer at alderspensjon kan tas ut på 57 år for de med aldersgrense på 60 år, eller 62 år for de med aldersgrense på 65 år, dersom tjenestetiden og alderen til sammen er minst 85 år. Det betyr f.eks. at mange sykepleiere kan gå av allerede ved 62 år.
+
+Inntil 2021 ga særaldersgrensene lite rom for fleksibilitet for videre arbeid. I 2021 ble plikten til å fratre ved særaldersgrenser fjernet for alle unntatt ansatte i Forsvaret (fra 1. juli 2021 i statlig sektor og 1. januar 2022 for kommunal sektor). Retten til pensjon ved oppnådd særaldersgrense er imidlertid videreført (39). Dersom man har arbeid i offentlig sektor som gir rett til medlemskap i offentlig tjenestepensjonsordning, vil pensjonen avkortes.
+
+Et forslag fra regjeringen, som var på høring i 2024, innebærer å innføre et særalderspåslag for dem som har stilling med særaldersgrense 60, 63 og 65 år og som er født i 1963 eller senere. Særalderspåslaget er et livsvarig tillegg til ordinær pensjon. Forslaget gjaldt også videreføring av gjeldende tidligpensjonsordning for enkelte årskull og innføring av en ny tidligpensjonsordning for de med særaldersgrense 60 og 63 år. Det var også en del av forslaget å fase ut 85-årsregelen, som gir mulighet for uttak av pensjon tre år før aldersgrensen. Forslagene var basert på en avtale som ble inngått 25. august 2023 mellom Arbeids- og inkluderingsdepartementet, Landsorganisasjonen i Norge (LO), Unio, Yrkesorganisasjonenes Sentralforbund (YS), Akademikerne, KS og Arbeidsgiverforeningen Spekter om pensjonsregler for personer med særaldersgrense. I avtalen framgår det også at særaldersgrensene skal øke i takt med økende levealder. Det innebærer at utbetalingsperioden for tidligpensjon og særalderspåslag forskyves. Økningen skal skje i tråd med økningen i aldersgrensen for rett til ubetinget uttak av alderspensjon fra folketrygden. I Meld. St. 6 (2023–2024) er det foreslått å øke aldersgrensene i pensjonssystemet og i de andre inntektssikringsordningene i folketrygden (207). Stortinget har stilt seg bak forslagene. Forslaget om å øke aldersgrensene i takt med levealderen gjelder alle, ikke bare for stillinger med særaldersgrenser. Arbeidet med lovforslag om økte aldersgrenser er pågående, og dette arbeidet vil også omfatte forslag om økte aldersgrenser for personer med særaldersgrenser. Det ble derfor ikke foreslått regler for økte aldersgrenser i høringsnotatet fra 2024, men lovforslagene er utformet slik at det vises til alderen for ubetinget rett til alderspensjon fra folketrygden og ikke til dagens særaldersgrenser på 60, 63 og 65 år. Formålet er å sikre at det foreslåtte regelverket også fungerer i et system med økende aldersgrenser. Høringsforslaget er til behandling i Arbeids- og inkluderingsdepartementet, med sikte på å legge fram et lovforslag i løpet av våren 2025.
