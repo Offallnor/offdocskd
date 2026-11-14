@@ -1,909 +1,188 @@
-# NOU 2024: 13, del 43 av 47 (side 476–486)
+# NOU 2024: 13, del 43 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 476]
-
-474
-
-Kapittel 39
-
-NOU 2024: 13
-Lov og frihet
-
-lig fare. Forholdene barnet risikerer å bli utsatt
-for. kan samlet sett utgjøre en alvorlig fare for barnets liv eller helse, selv om hvert enkelt forhold
-isolert sett ikke når opp til terskelen.
-Bokstav b omfatter situasjoner der det er alvorlig fare for at barnet vil bli utsatt for en eller flere
-av de straffbare handlingene som er listet opp i
-bestemmelsen. Det er uten betydning om handlingene er straffbare i det landet barnet sendes til.
-Det er ikke tilstrekkelig med en fjern eller teoretisk risiko for at barnet kan bli utsatt for noen av
-de straffbare handlingene som er nevnt i bestemmelsen. Det må foreligge objektive holdepunkter
-som tilsier at barnet kan bli utsatt for en eller flere
-av de straffbare handlingene.
-Etter bestemmelsens andre ledd straffes den
-som etterlater et barn hen har foreldreansvar for,
-under forhold som nevnt i første ledd. Dette
-omfatter tilfeller der en av eller begge foreldrene
-reiser til utlandet sammen med barnet for deretter
-å la barnet være igjen uten en forelder med foreldreansvar. Det har ikke betydning hvor eller hos
-hvem barnet etterlates. Bestemmelsen vil derfor
-komme til anvendelse også i de tilfeller der barnet
-etterlates hos slektninger i utlandet.
-Etter tredje ledd straffes passivitet til at et skadelig utenlandsopphold kommer i stand, og tilfeller der en forelder kjenner til eller blir kjent med
-at oppholdet medfører slik fare bestemmelsen
-omfatter, men unnlater å hente barnet tilbake til
-Norge eller foreta seg andre handlinger som er
-egnet til å hjelpe barnet ut av faren.
-Etter fjerde ledd kan straff bortfalle dersom
-personen bistår med å få barnet hjem til Norge.
-Slike bidrag kan for eksempel være at forelderen
-sørger for at barnet raskt får nødvendige reisedokumenter, at det bestilles reise for barnet tilbake
-til Norge, og at personen om nødvendig sørger for
-at noen kan følge barnet på reisen.
-I vurderingen av om bortfallsgrunnen skal
-komme til anvendelse i den enkelte sak, er det av
-særlig betydning om forelderen har hentet barnet
-hjem av egen vilje, om barnet har kommet raskt
-tilbake til Norge og om barnet har vært utsatt for
-skade i utlandet. Dersom forelderen bistår med å
-hente barnet hjem, er det opp til påtalemyndigheten å vurdere om den enkelte sak skal henlegges,
-om det skal reageres på annen måte, for eksempel
-med påtaleunnlatelse, eller om forelderen likevel
-skal tiltales. Straffutmålingsutsetting og straffutmålingsfrafall kan også være aktuelle reaksjoner.
-
-Til § 282
-I første ledd innledningen flyttes ordene «alvorlig
-eller gjentatt» til starten av gjerningsbeskrivelsen
-for å synliggjøre at vilkårene refererer til de
-enkelte krenkelsene i bestemmelsen, og ikke til
-vilkåret «mishandler». Endringen er av ren språklig karakter.
-I tillegg presiseres det at «andre krenkelser»
-omfatter både fysiske og psykiske krenkelser.
-Fysiske krenkelser er i stor grad fanget opp ved
-de øvrige alternativene i bestemmelsen, særlig vilkåret «vold». Det tas likevel inn for ikke å utelate
-eventuelle krenkelser, som for eksempel å
-pålegge et barn å stå i en ubehagelig stilling eller
-posisjon over tid.
-I tillegg tilføyes formuleringen «psykiske krenkelser». Forslaget innebærer ingen endring av
-hvilke typer psykiske krenkelser som kan omfattes av bestemmelsen. Dette kan for eksempel
-være frihetsinnskrenkninger som ikke utgjør frihetsberøvelse, kontroll, overvåking, isolering,
-ydmykende eller nedverdigende behandling,
-ikke-straffbare trusler, verbal trakassering,
-aggressiv atferd, å være vitne til vold mot andre
-(«indirekte» vold), personforfølgelse, eller materielle krenkelser. Krenkelser av økonomisk karakter som det å ta kontroll over en nær relasjons
-bankkonto, tvungen overføring av lønn, tvungen
-signering på ektepakter eller lånedokumenter,
-eller ID-tyveri er også handlinger som kan inngå i
-en vurdering av om det foreligger psykisk mishandling. Tilsvarende kan tilfeller hvor en person
-misbruker rettssystemet ved stadig å ta ut åpenbart grunnløse søksmål eller på annen måte åpenbart misbruker offentlige klageordninger eller lignende, med sikte på å plage en person være psykiske krenkelser. Opplistingen er ikke ment å
-være uttømmende.
-I tråd med gjeldende rett, beror vurderingen
-av når slike psykiske krenkelser alene utgjør
-«mishandling», på hvorvidt krenkelsene danner et
-mønster som resulterer i at den som rammes må
-leve under et «regime» preget av kontinuerlig
-utrygghet og frykt for nye krenkelser. Det er tilstrekkelig at den fornærmede føler frykt for at
-gjerningspersonen skal begå nye psykiske krenkelser. Hvorvidt et slikt regime av frykt foreligger,
-beror på en konkret helhetsvurdering av en rekke
-forhold, slik som alvorlighetsgraden av de psykiske krenkelsene, hyppigheten, den totale varigheten, konteksten handlingene utspiller seg i,
-styrkeforholdet mellom partene og hvordan krenkelsene påvirker den fornærmede. De enkelte
-handlingene må sees i sammenheng. Maktulikhet
-
-[Side 477]
-
-NOU 2024: 13
-Lov og frihet
-
-mellom partene og fornærmedes sårbarhet er
-særlig sentralt. Barn er langt mer forsvarsløse og
-svake, og flere typer handlinger kan være skadelige overfor barn enn en voksen. Det skal derfor
-mindre til for at et barn anses for å være utsatt for
-mishandling enn der handlingene er rettet mot en
-voksen person. Det samme gjelder andre sårbare
-grupper, se for eksempel HR-2019-621-A til illustrasjon.
-Bokstav a og b viderefører den vernede personkretsen omfattet av dagens bokstav a, men er delt
-opp i to grupper. Gjerningspersonens nåværende
-ektefelle og samboer omfattes av bokstav a, mens
-gjerningspersonens tidligere ektefelle og samboer omfattes av bokstav b.
-Bokstav c, j og k viderefører dagens bokstav b,
-men er delt opp i tre grupper. Bokstav c verner
-gjerningspersonens barn, bokstav j verner barn
-av gjerningspersons ektefelle eller samboer, og
-bokstav k verner barn av gjerningspersonens tidligere ektefelle eller samboer. Også barnebarn og
-videre nedstigende ledd vernes.
-Bokstav d tilsvarer dagens bokstav c, og verner
-typisk gjerningspersonens foreldre og besteforeldre.
-Bokstav e er ny, og utvider personkretsen til
-også å omfatte gjerningspersonens søsken. Dette
-innebærer at bestemmelsen vil omfatte søsken
-som ikke bor i samme husstand, men hvor den
-ene likevel er i posisjon til å mishandle den andre.
-Bokstav f er ny og utvider personkretsen til å
-omfatte gjerningspersonens onkel og tante. Selv
-om disse ikke bor i samme husstand som gjerningspersonen, kan de etter omstendighetene
-være utsatt for mishandling. Det kan for eksempel
-være en tante som holdes under kontroll av en
-nevø gjennom mishandling.
-Bokstav g er ny og utvider personkretsen til å
-omfatte gjerningspersonens niese og nevø.
-Bokstav h er ny og utvider personkretsen til å
-omfatte gjerningspersonens søskenbarn.
-Bokstav i er ny og utvider den vernede personkretsen til å omfatte gjerningspersonens svigerforeldre og videre oppstigende ledd.
-Bokstav l er ny, og innebærer at også nåværende ektefeller eller samboere til relasjonene i
-bokstav c til k omfattes. Disse kan være ektefeller
-og samboere til gjerningspersonens nåværende
-svigerfamilie, og de kan være nåværende ektefeller eller samboere til slektninger i gjerningspersonens egen familie («inngiftede slektninger»),
-blant andre gjerningspersonens svogere og svigerinner.
-Bokstav m og n viderefører dagens bokstav d
-og e.
-
-475
-
-Kapittel 39
-
-Endringene i andre ledd er en følge av at nåværende bokstav b deles i tre bokstaver, og innebærer ikke realitetsendringer.
-Til § 283
-Etter ny bokstav d skal det ved avgjørelsen av om
-mishandlingen er grov særlig legges vekt på om
-den er begått mot et barn. Med barn menes personer under 18 år. Det er ingen automatikk i at mishandling av en person under 18 år vil utgjøre grov
-mishandling, men momentet skal særlig tillegges
-vekt.
-Etter ny bokstav e skal det ved avgjørelsen av
-om mishandlingen er grov særlig legges vekt på
-om den er begått av flere i fellesskap. Det er tilstrekkelig at det er minst to personer som er
-sammen om å utføre mishandlingen. Det er ingen
-automatikk i at mishandling begått av flere i fellesskap vil utgjøre grov mishandling, men momentet
-skal særlig tillegges vekt.
-
-39.2 Straffeprosessloven
-Til § 107 a
-Endringen i første ledd bokstav a innebærer at den
-fornærmede gis en ubetinget rett til bistandsadvokat i saker om barneekteskap, på samme måte
-som for tvangsekteskap. Videre gis fornærmede
-en ubetinget rett til bistandsadvokat i sak om skadelig utenlandsopphold etter straffeloven ny
-§ 269.
-Til § 239
-Endringen i første ledd innebærer at tilrettelagt
-avhør alltid skal benyttes ved avhør av vitner
-under 16 år i saker om skadelig utenlandsopphold, tvangsekteskap eller barneekteskap. Endringen i tredje ledd innebærer at det samme gjelder ved avhør av vitner med psykisk utviklingshemning eller annen funksjonsnedsettelse som
-medfører samme behov for tilrettelagt avhør.
-
-39.3 Skadeserstatningsloven
-Til § 3-3
-Endringen er en følge av forslagene om en egen
-straffebestemmelse om barneekteskap og en ny
-bestemmelse om straff ved skadelig utenlandsopphold. Straffeloven ny § 253 a og ny § 269 tilføyes i opplistingen.
-
-[Side 478]
-
-476
-
-Kapittel 39
-
-NOU 2024: 13
-Lov og frihet
-
-39.4 Ekteskapsloven
-Til § 16 fjerde ledd:
-Endringsforslaget innebærer at søksmålsfristen
-endres fra fem år til ti år. Forslaget har to formål:
-Å bedre den tvungne ektefellens mulighet til å få
-kjent et tvangsekteskap ugyldig og å skape samsvar mellom søksmålsfristen i ekteskapsloven og
-foreldelsesfristen for straff for brudd på straffeloven § 253 om tvangsekteskap, jf. straffeloven § 86
-første ledd bokstav c. Endringen innebærer at tilsvarende frist også vil gjelde i saker om skilsmisse
-på grunn av tvangsekteskap etter ekteskapsloven
-§ 23 tredje ledd.
-
-39.5 Barnelova
-Til § 30 tredje ledd
-Tredje punktum har fått en tilføyelse om at bruk av
-«kontrollerande» og «nedverdigande» atferd er
-forbudt. Formålet med endringen er å synligjøre
-flere elementer av psykisk vold og negativ sosial
-kontroll. Tilsvarende tilføyelse er foreslått inntatt i
-straffeloven § 266 om hensynsløs atferd.
-
-39.6 Barnevernsloven
-Til § 1-2
-I fjerde ledd presiseres det at det ikke kan treffes
-akuttvedtak om utreiseforbud etter ny § 4-6 for
-barn som befinner seg i Norge, men som har vanlig bosted i en annen stat.
-Femte ledd er nytt og innebærer at barnevernslovens virkeområde etter § 1-2 utvides, slik at
-barnevernstjenesten får en rett og plikt til å tilby
-frivillig hjelpetiltak når foreldrene oppholder seg i
-Norge, selv om barnet oppholder seg i et annet
-land og ikke lenger har vanlig bosted her. Formålet med bestemmelsen er å sikre at barn og unge
-som er utsatt for ufrivillig og skadelig utenlandsopphold i størst mulig grad kan hjelpes hjem der
-dette er til barnets beste, og foreldrene oppholder
-seg i Norge.
-Sjette ledd er nytt og synliggjør adgangen til å
-anmode andre land som har tiltrådt Haagkonvensjonen 1996 om overføring av jurisdiksjon for et
-barn som har vanlig bosted i et annet konvensjonsland. Videre angir bestemmelsen hvilke
-typer tiltak som kan iverksettes i slike tilfeller. Tiltakene samsvarer med tiltak som kan iverksettes
-overfor barn som oppholder seg i en annen stat,
-
-men har sitt vanlige bosted i Norge, jf. bestemmelsens tredje ledd.
-Sjuende ledd er nytt og synliggjør at barnevernstjenesten har rett og plikt til å gjennomgå
-bekymringsmeldinger etter lovens § 2-1, og at
-plikten til å gjennomføre undersøkelser etter § 2-3
-gjelder uavhengig av hvor barnet har sitt vanlige
-bosted.
-Til § 2-2 nytt fjerde ledd (alternativ I):
-Endringsforslaget innebærer at barnevernstjenesten får en plikt til å foreta en risikovurdering
-før foreldre involveres eller informeres om at det
-er iverksatt undersøkelse i en sak, eller gis innsyn
-i sakens dokumenter.
-Formålet med bestemmelsen er å sikre
-risikovurderinger på et tidlig stadium i en barnevernssak, og dermed sikre at barnet eller andre,
-for eksempel søsken, ikke utsettes for fare eller
-skade ved foreldreinvolvering. Videre er det et
-formål å sikre barnet et trygt samarbeid med barnevernet i undersøkelsesfasen. Risikoen barnevernstjenesten plikter å vurdere etter forslagene
-er særlig knyttet til to situasjoner: At undersøkelsen ellers ikke lar seg gjennomføre fordi barnet
-ikke forteller om sin situasjon eller trekker forklaringen sin, eller at barnet eller andre personer
-utsettes for fare eller skade. Sistnevnte vurdering
-vil gjelde på ethvert stadium av en barnevernssak.
-Dersom det foreligger en risiko for en eller begge
-av disse forholdene, må barnevernstjenesten
-utsette å informere foreldre om at undersøkelse
-er åpnet. Bestemmelsen skal særlig sikre at barn
-utsatt for negativ sosial kontroll eller æresmotivert vold mottar betryggende hjelp uten å bli
-utsatt for mer kontroll eller fare ved foreldreinvolvering.
-Til § 2-2 nytt fjerde og femte ledd (alternativ II)
-Endringen innebærer at barnevernstjenesten får
-en plikt til å foreta risikovurdering før foreldre
-involveres eller informeres om at det er iverksatt
-undersøkelse i en sak, eller gis innsyn i sakens
-dokumenter, dersom gjennomgangen av en
-bekymringsmelding viser at barnet kan være
-utsatt for negativ sosial kontroll, æresmotivert
-vold eller står i fare for å bli utsatt for et skadelig
-utenlandsopphold som nevnt i § 5-12 bokstav a til
-c.
-Formålet med bestemmelsen er å sikre
-risikovurderinger på et tidlig stadium i en barnevernssak, og dermed sikre at barnet eller andre,
-for eksempel søsken, ikke utsettes for fare eller
-
-[Side 479]
-
-NOU 2024: 13
-Lov og frihet
-
-skade ved foreldreinvolvering. Videre er det et
-formål å sikre barnet et trygt samarbeid med barnevernet i undersøkelsesfasen. Risikoen barnevernstjenesten plikter å vurdere etter forslagene
-er særlig knyttet til to situasjoner: At undersøkelsen ellers ikke lar seg gjennomføre fordi barnet
-ikke forteller om sin situasjon eller trekker forklaringen sin, eller at barnet eller andre personer
-utsettes for fare eller skade. Sistnevnte vurdering
-vil gjelde på ethvert stadium av en barnevernssak.
-Dersom det foreligger en risiko for en eller begge
-av disse forholdene, må utgangspunktet være at
-barnevernstjenesten utsetter å informere foreldre
-om at undersøkelse er åpnet.
-Nytt femte ledd definerer begrepet negativ
-sosial kontroll.
-Til § 3-1 (flertallets forslag)
-Andre ledd tydeliggjør for det første at det i vurderingen av om barnet på grunn av sin omsorgssituasjon eller atferd har et særlig behov for hjelp,
-skal legges særlig vekt på om det er mangler ved
-den psykiske omsorgen barnet får. Formålet er å
-tydeliggjøre gjeldende rett og å signalisere at
-mangler ved den psykiske omsorgen barnet får,
-kan medføre alvorlige skadevirkninger for barn.
-Endringen innebærer for det andre at det skal
-legges vekt på om barnets rett til medvirkning og
-selvbestemmelse er alvorlig krenket i § 3-1 (om frivillig hjelpetiltak). Formålet er å styrke beskyttelsen
-av barn og unge som ikke får ivaretatt sin medvirknings- og selvbestemmelsesrett i egen familie,
-der dette går ut over deres personlige utvikling og
-autonomi. Endringen vil også sikre at alvorlig
-krenkelse av barns medvirknings- og selvbestemmelsesrett også tillegges vekt i vurderingen av om
-det er grunnlag for å åpne undersøkelse i saken,
-jf. § 2-2 første ledd (om barnevernstjenestens rett
-og plikt til å gjennomføre undersøkelser). Hvor
-stor vekt momentene skal tillegges, må bero på en
-konkret vurdering. Det bør stilles strengere krav
-til krenkelsen i vurderingen av om vilkårene for
-omsorgsovertakelse er oppfylt enn om det er
-grunnlag for å åpne undersøkelse eller tilby frivillig hjelpetiltak i en sak.
-Til § 3-1 (mindretallets forslag)
-Mindretallets forslag til andre ledd tydeliggjør for
-det første at det i vurderingen av om barnet på
-grunn av sin omsorgssituasjon eller atferd har et
-særlig behov for hjelp, skal legges særlig vekt på
-om det er mangler ved den psykiske omsorgen barnet får. Formålet er å tydeliggjøre gjeldende rett
-
-477
-
-Kapittel 39
-
-og å signalisere at mangler ved den psykiske
-omsorgen barnet får, kan medføre alvorlige skadevirkninger for barn.
-Endringen innebærer for det andre at det skal
-legges særlig vekt på om barnet er utsatt for negativ sosial kontroll, herunder om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket.
-Formålet er å styrke beskyttelsen av barn og unge
-som er utsatt for negativ sosial kontroll, herunder
-ikke får ivaretatt sin medvirknings- og selvbestemmelsesrett i egen familie, der dette går ut over
-deres personlige utvikling og autonomi. Endringen vil også sikre at det legges vekt på momentene i vurderingen av om det er grunnlag for å
-åpne undersøkelse i saken, jf. § 2-2 første ledd
-(om barnevernstjenestens rett og plikt til å gjennomføre undersøkelser). Hvor stor vekt momentene skal tillegges, må bero på en konkret vurdering. Det bør stilles strengere krav til krenkelsen i
-vurderingen av om vilkårene for omsorgsovertakelse er oppfylt enn om det er grunnlag for å åpne
-undersøkelse eller tilby frivillig hjelpetiltak i en
-sak.
-Til ny § 4-6
-Bestemmelsen er ny. Første ledd åpner for at det
-kan treffes akuttvedtak om at et barn ikke kan
-reise eller bli tatt med ut av landet hvis det er nærliggende fare for at det kan bli utsatt for forhold
-som nevnt i § 5-12 dersom vedtaket ikke treffes
-straks. Kompetansen er lagt til barnevernstjenestens leder, lederens stedfortreder eller påtalemyndigheten, på samme måte som for akuttvedtak om omsorgsovertakelse etter § 4-2.
-Ette andre ledd skal akuttvedtak om utreiseforbud følges opp med en begjæring til barnevernsog helsenemnda snarest, dersom det er behov for
-videre tiltak. Akuttvedtaket faller bort dersom en
-slik begjæring ikke foreligger innen seks uker.
-Bestemmelsen tilsvarer § 4-2 tredje ledd om akuttvedtak om omsorgsovertakelse.
-Til § 5-1 (flertallets forslag)
-Første ledd bokstav a: Endringen tydeliggjør at
-mangler ved den omsorgen barnet får omhandler
-både fysisk og psykisk omsorg. Formålet med forslaget er å tydeliggjøre gjeldende rett og å signalisere at psykisk omsorgssvikt kan medføre alvorlige skadevirkninger for barn.
-Videre innebærer endringen at det at det i vurderingen av om det er «alvorlige mangler ved den
-omsorgen barnet får», skal legges vekt på om barnets rett til medvirkning og selvbestemmelse er
-
-[Side 480]
-
-478
-
-Kapittel 39
-
-NOU 2024: 13
-Lov og frihet
-
-alvorlig krenket. Formålet er å styrke beskyttelsen
-av barn og unge som ikke får ivaretatt sin medvirknings- og selvbestemmelsesrett i egen familie,
-der dette går ut over deres personlige utvikling og
-autonomi. Hvor stor vekt momentet skal tillegges,
-vil avhenge av i hvor stor grad retten er krenket.
-Det bør stilles strengere krav til krenkelsen i vurderingen av om vilkårene for omsorgsovertakelse
-er oppfylt enn om det er grunnlag for å åpne
-undersøkelse eller tilby frivillig hjelpetiltak i en
-sak.
-Til § 5-1 (mindretallets forslag)
-Første ledd bokstav a: Endringen tydeliggjør at
-mangler ved den omsorgen barnet får omhandler
-både fysisk og psykisk omsorg. Formålet med forslaget er å tydeliggjøre gjeldende rett og å signalisere at psykisk omsorgssvikt kan medføre alvorlige skadevirkninger for barn.
-Videre innebærer endringen at det i vurderingen av om det er «alvorlige mangler ved den
-omsorgen barnet får», skal legges vekt på om barnet er utsatt for «negativ sosial kontroll, herunder
-om barnets rett til medvirkning og selvbestemmelse
-er alvorlig krenket». Formålet med å innta negativ
-sosial kontroll som moment i bestemmelsen er å
-synliggjøre at alvorlige former for negativ sosial
-kontroll kan utgjøre omsorgssvikt og utløse tiltak
-etter bestemmelsen. Det er videre et formål å
-styrke beskyttelsen av barn og unge som ikke får
-ivaretatt sin medvirknings- og selvbestemmelsesrett i egen familie, der dette går ut over deres personlige utvikling og autonomi. Hvor stor vekt
-momentene skal tillegges, vil avhenge av alvorlighetsgraden av den negative sosiale kontrollen,
-eller i hvor stor grad retten til medvirkning og
-selvbestemmelse er krenket. Det bør stilles strengere krav til krenkelsen i vurderingen av om vilkårene for omsorgsovertakelse er oppfylt enn om
-det er grunnlag for å åpne undersøkelse eller tilby
-frivillig hjelpetiltak i en sak. Dette kommer til
-uttrykk i formuleringen «skal det legges særlig
-vekt på» i tilsvarende forslaget til nytt andre ledd i
-§ 3-1 om frivillig hjelpetiltak.
-Til § 5-1
-Første ledd bokstav c: Forslaget innebærer en presisering av at mishandlingen kan være fysisk eller
-psykisk. En slik forståelse følger allerede av gjeldende rett og forslaget innebærer ingen realitetsendring. Formålet med forslaget er å tydeliggjøre
-at psykisk mishandling alene kan danne grunnlag
-for omsorgsovertakelse, og å synliggjøre «usyn-
-
-lige» former for mishandling. Negativ sosial kontroll vil i de fleste tilfeller innebære psykiske krenkelser av den utsatte, i form av overvåkning, kontroll, trusler og press. I de grovere tilfellene med
-omfattende trusler, ydmykende behandling m.m.
-kan kontrollen utgjøre psykisk mishandling av
-barnet som kan gi grunnlag for omsorgsovertakelse etter bestemmelsen.
-Til § 5-2
-Andre ledd er nytt og innebærer at et vedtak om
-omsorgsovertakelse av et barn som befinner seg i
-et land som ikke er medlem av Haagkonvensjonen
-1996 består i seks måneder dersom barnevernstjenesten har varslet norsk utenrikstjeneste i
-vedkommende land. Nemndlederen kan forlenge
-fristen med seks nye måneder når særlige grunner tilsier det.
-Til § 5-6
-Andre punktum: Det foreslås et nytt andre punktum som gjør det ulovlig å ta barnet med ut av landet når det er truffet akuttvedtak om utreiseforbud etter ny § 4-6 eller vedtak om utreiseforbud
-etter § 5-12, og der det er sendt begjæring om
-utreiseforbud til barneverns- og helsenemnda.
-Dette tilsvarer reglene for akuttvedtak og vedtak
-om omsorgsovertakelse. Straffetrusselen dersom
-barnet tas med ut av landet er inntatt i straffeloven
-§ 261 om omsorgsunndragelse.
-Til ny § 5-12
-Bestemmelsen er ny. Første ledd åpner for at barneverns- og helsenemnda kan treffe vedtak om at
-et barn ikke kan reise eller bli tatt med ut av landet i visse tilfeller, et såkalt utreiseforbud. Det må
-være nærliggende fare for at barnet vil bli sendt til
-utlandet til forhold som nevnt i bestemmelsen.
-«Nærliggende fare» innebærer at det som
-utgangspunkt må være sannsynlighetsovervekt,
-men der faren framstår som konkret og svært
-alvorlig kan en lavere sannsynlighetsgrad aksepteres. Dette kan være dersom det barnet risikerer
-å bli utsatt for er svært alvorlig. Det gjelder for
-eksempel fare for kjønnslemlestelse, seksuelle
-overgrep, menneskehandel eller tvangsekteskap.
-Etter første punktum første alternativ kan utreiseforbud ilegges der det er nærliggende fare for at
-barnet vil bli utsatt for forhold som medfører
-alvorlig fare for barnets liv eller helse. Dette vil
-blant annet omfatte straffbare handlinger som
-nevnt i straffeloven ny § 269, men er ikke begren-
-
-[Side 481]
-
-NOU 2024: 13
-Lov og frihet
-
-set til dette. Alvorlig fare for liv eller helse trenger
-ikke å skyldes straffbare forhold, men kan for
-eksempel også være at barnet ikke vil få helt nødvendig helsehjelp, eller at det er en risiko for at
-barnet blir sendt til eller etterlatt i et krigsrammet
-konfliktområde. Med helse forstås både barnets
-fysiske og psykiske tilstand.
-Etter første punktum andre alternativ kan utreiseforbud ilegges dersom det er nærliggende fare
-for at barnet blir utsatt for forhold som nevnt i barnevernsloven § 5-1 første ledd bokstav a til d, det
-vil si fare for at barnet vil bli utsatt for alvorlig
-omsorgssvikt.
-Etter første ledd andre punktum kan utreiseforbud ilegges dersom det er nærliggende fare for at
-barnet vil bli fratatt mulighetene til grunnleggende utdanning, fordi foreldre eller andre
-omsorgspersoner aktivt motarbeider at barnet får
-skolegang. Det må foreligge objektive holdepunkter og sannsynlighetsovervekt for slik motarbeidelse. Det vil ikke være tilstrekkelig til å ilegge
-utreiseforbud at utdanningen vil være av lavere
-kvalitet eller mindre omfattende enn barnet ville
-fått i Norge, eller at utenlandsoppholdet vil medføre et kortvarig avbrudd i utdanningsløpet. Det
-må være sannsynsynlighetsovervekt for at barnet
-helt vil bli fratatt mulighetene for grunnleggende
-utdanning. Med grunnleggende utdanning menes
-utdanning som barnet har rett og plikt til etter barnekonvensjonen artikkel 28 og 29 og EMKs tilleggsprotokoll 1 artikkel 2.
-Etter andre ledd kan utreiseforbudet ikke ha
-lengre varighet enn nødvendig for å forhindre
-faren, og ikke lengre varighet enn seks måneder.
-Vedtaket kan fornyes for inntil seks måneder av
-gangen dersom vilkårene fremdeles er oppfylt.
-Hvis vedtaket ikke fornyes innen fristen, faller det
-bort. Vedtaket faller uansett bort senest når barnet fyller 18 år.
-Etter tredje ledd opphører utreiseforbud for et
-barn som er utenlandsk statsborger dersom barnet har plikt til å forlate riket etter utlendingsloven, for eksempel ed iverksettelse av vedtak om
-avslag på opphold etter utlendingsloven § 90.
-Etter fjerde ledd kan barnevernstjenesten gi tillatelse til enkeltreiser selv om det er truffet vedtak
-om utreiseforbud, dersom det er åpenbart at reisen ikke medfører fare for barnet. Kravet om at
-det er åpenbart at reisen ikke medfører fare, innebærer at det må være høy grad av sikkerhet. Et
-eksempel kan være en skoletur der barnet vil
-være sammen med lærere og medelever under
-hele utenlandsoppholdet.
-
-479
-
-Kapittel 39
-
-Til ny § 8-7
-Bestemmelsen er ny og gir barnevernstjenesten
-plikt til å følge opp barnet og foreldrene etter at
-det er truffet vedtak om utreiseforbud, på samme
-måte som når det er truffet andre inngripende
-barnevernstiltak.
-Til § 12-6
-Første ledd, tredje punktum: Forslaget innebærer
-at barnevernstjenesten må foreta en risikovurdering før barnets foreldre får innsyn i sakens dokumenter eller blir forelagt opplysninger. Formålet
-med forslaget er å sikre risikovurderinger på et
-tidlig stadium i en barnevernssak og dermed
-sikre at barnet eller andre, for eksempel søsken,
-ikke utsettes for fare eller skade ved foreldreinvolvering. Videre er det et formål å sikre barnet et
-trygt samarbeid med barnevernet i undersøkelsesfasen. Risikoen barnevernstjenesten plikter å
-vurdere etter forslaget er særlig knyttet til to situasjoner: At undersøkelsen ellers ikke lar seg gjennomføre fordi barnet ikke forteller om sin situasjon eller trekker forklaringen sin, eller at barnet
-eller andre personer utsettes for fare eller skade.
-Sistnevnte vurderingsplikt vil gjelde på ethvert
-stadium av en barnevernssak.
-Til § 13-2
-Første ledd bokstav a er endret slikt at begrepet
-«daglig omsorg» er erstattet med «fysisk og psykisk omsorg». Formålet er å synliggjøre den mer
-usynlige omsorgssvikten og på den måten sikre at
-barn får nødvendig hjelp, omsorg og beskyttelse
-til rett tid.
-Etter gjeldende rett skal begrepet «omsorg» i
-barnevernsloven § 13-2 første ledd bokstav a forstås som både den materielle, fysiske eller emosjonelle omsorgen og kombinasjoner av dette. Tilføyelsen innebærer dermed ingen realitetsendringer, men signaliserer tydeligere at mangler
-ved den psykiske omsorgen barnet får, kan medføre alvorlige skadevirkninger for barn, og dermed også alvorlig omsorgssvikt.
-Et annet formål med endringen er å skape
-samsvar i begrepsbruk i lovgivningen. Begrepet
-«daglig omsorg» benyttes ikke barnelova og er
-heller ikke benyttet i barnevernsloven § 5-1 første
-ledd bokstav a om omsorgsovertakelse. Utelatelsen av begrepet er en språklig tilpasning og innebærer ikke en endring i gjeldende rett.
-Første ledd ny bokstav f etablerer meldeplikt til
-barnevernstjenesten når det er grunn til å tro at et
-
-[Side 482]
-
-480
-
-Kapittel 39
-
-NOU 2024: 13
-Lov og frihet
-
-barn blir eller vil bli utsatt for et utenlandsopphold
-som kan medføre slike farer at det kan gi grunnlag for utreiseforbud etter barnevernsloven § 5-12.
-Meldeplikten oppstår både der det er grunn til å
-tro at barnet allerede er i utlandet under slike forhold, og der bekymringen er knyttet til fare for et
-framtidig utenlandsopphold. Sannsynlighetskravet er det samme som etter første ledd bokstav a
-til c og f, det vil si at det ikke må være sannsynlighetsovervekt for at faren vil inntre.
-Meldeplikten vil for det første utløses dersom
-det er grunn til å tro at utenlandsoppholdet kan
-medføre alvorlig fare for barnets liv eller helse.
-Det omfatter fare for at barnet vil bli utsatt for
-alvorlige straffbare handlinger som vold, tvang,
-trusler,
-tvangsekteskap,
-frihetsberøvelse,
-kjønnslemlestelse eller mishandling i nære relasjoner. Det har ikke betydning om handlingene er
-straffbare i det landet barnet risikerer å bli sendt
-til. I tillegg omfattes forhold som ikke nødvendigvis er straffbare. Alvorlig fare for liv vil for eksempel omfatte tilfeller der det er risiko for at barnet
-ikke vil få strengt nødvendig helsehjelp eller der
-det er en risiko for at barnet blir sendt til eller
-etterlatt i et krigsrammet konfliktområde. Med
-helse forstås både fysisk og psykisk helse. Alvorlig
-fare for helse kan omfatte tilfeller der barnet ikke
-vil få helt nødvendig helsehjelp, eller der det er
-risiko for at barnet utsettes for alvorlig undertrykkelse, gjenoppdragelsesreiser eller konverteringsterapi på grunn av sin legning eller kjønnsidentitet. At barnet blir etterlatt alene i utlandet
-uten kjente omsorgspersoner rundt seg eller blir
-isolert fra omverdenen vil også kunne innebære
-en alvorlig fare for barnets fysiske og psykiske
-helse.
-For det andre vil meldeplikten utløses dersom
-det er grunn til å tro at barnet vil bli utsatt for
-alvorlig omsorgssvikt i utlandet. Dette kan eksempelvis omfatte tilfeller der det er fare for at barnet
-blir plassert hos personer som ikke vil ivareta barnets behov for kontakt og trygghet, at det blir
-holdt borte fra den andre forelderen ved barnebortføring eller at det er en risiko for at barnet vil
-havne i en situasjon der det må begå alvorlig kriminalitet eller leve i et miljø der alvorlig kriminalitet begås.
-For det tredje vil meldeplikten utløses dersom
-det er grunn til å tro at utenlandsoppholdet vil
-innebære at barnet mister mulighetene til grunnleggende utdanning. Med grunnleggende utdanning menes utdanning som barnet har rett og
-plikt til etter opplæringsloven § 2-1, det vil si
-grunnskoleutdanning. Det vil ikke være tilstrekkelig at utdanningen vil være av lavere kvalitet
-
-eller mindre omfattende enn barnet ville fått i
-Norge, eller at utenlandsoppholdet vil medføre et
-kortvarig avbrudd i utdanningsløpet. Det må være
-grunn til å tro at foreldre eller andre omsorgspersoner vil frata barnet muligheten til grunnleggende utdanning.
-Andre ledd er endret slik at det blant annet skal
-legges vekt på om barnets rett til medvirkning og
-selvbestemmelse er alvorlig krenket i vurderingen av om det er grunn til å tro at et barn blir
-utsatt for forhold som nevnt i første ledd bokstav a
-(mishandling, alvorlige mangler ved den fysiske
-og psykiske omsorgen barnet får, eller annen
-alvorlig omsorgssvikt). Formålet er å styrke
-beskyttelsen av barn og unge som ikke får ivaretatt sin medvirknings- og selvbestemmelsesrett i
-egen familie, der dette går ut over deres personlige utvikling og autonomi. Hvor stor vekt momentet skal tillegges, vil avhenge av i hvor stor grad
-retten er krenket.
-Tredje ledd er nytt, og innebærer at melderen
-skal gjøre en risikovurdering før foreldre informeres om en melding som nevnt i første ledd. Dersom melderen er usikker på om foreldrene bør
-informeres, kan melderen overlate til barnevernstjenesten eller politiet å vurdere når og på
-hvilken måte foreldrene skal involveres. Formålet
-med forslaget er å sikre risikovurderinger på et
-tidlig stadium i en barnevernssak, og dermed
-sikre at barnet eller andre, for eksempel søsken,
-ikke utsettes for fare eller skade ved for tidlig foreldreinvolvering. Videre er det et formål å sikre
-barnet et trygt samarbeid med barnevernet i
-undersøkelsesfasen.
-Til § 13-4
-Første ledd ny bokstav g og m gir barnevernstjenesten og barneverns- og helsenemnda hjemmel
-til å pålegge offentlige organer å utlevere opplysninger som er nødvendige for å vurdere, forberede og behandle saker om henholdsvis akuttvedtak om utreiseforbud etter ny § 4-6 og vedtak om
-utreiseforbud etter ny § 5-12.
-Til § 13-5
-Nytt tredje ledd gir barnevernstjenesten plikt til å
-varsle politiet om akuttvedtak og vedtak om utreiseforbud uten ugrunnet opphold, jf. lovforslagene
-§§ 4-6 oh 5-12. Underretningen skal blant annet
-sikre at barnets reisedokumenter tilbakekalles, jf.
-passloven § 7 jf. § 5. Dersom barnet ikke er norsk
-statsborger, skal også utlendingsmyndighetene
-varsles. Dette er både for å sikre at eventuelle rei-
-
-[Side 483]
-
-NOU 2024: 13
-Lov og frihet
-
-sedokumenter utstedt av utlendingsmyndighetene blir tilbakekalt, og for å sikre at opplysninger
-om utreiseforbudet inngår i en eventuell utlendingssak.
-Dersom utreiseforbudet er begrunnet i fare
-for barnebortføring, at barnet blir et offer for menneskehandel, tvangsgiftet, kjønnslemlestet, utsatt
-for andre former for kjønnsbasert vold, utsatt for
-eller involvert i terrorisme, eller at det blir vervet
-til væpnet konflikt, skal barnevernstjenesten
-anmode om at vedtaket blir registrert i Schengen
-informasjonssystem.
-Til § 14-22
-Tilføyelsen av et nytt andre punktum i første ledd
-innebærer at akuttvedtak om utreiseforbud etter
-ny § 4-6 straks etter vedtakelse skal sendes til barneverns- og helsenemnda, på samme måte som
-andre akuttvedtak.
-Til § 14-23
-I første ledd første punktum tilføyes ny § 4-6 om
-akuttvedtak om utreiseforbud, slik at de private
-partene kan påklage også slike akuttvedtak.
-Til § 15-3
-I tredje ledd tilføyes at barnevernstjenesten har
-ansvaret for å treffe vedtak om unntak fra utreiseforbud, jf. ny § 5-12 fjerde ledd.
-Til § 15-5
-I første ledd presiseres at det er kommunen der
-barnet oppholder seg, som har ansvaret for å reise
-sak om utreiseforbud etter ny § 5-12 for barneverns- og helsenemnda.
-
-39.7 Utlendingsloven
-Til § 51
-Andre ledd: Endringsforslaget innebærer at utlendingsloven § 51 andre ledd om å nekte oppholdstillatelse for familieinnvandring ved ufrivillige ekteskap utvides til å omfatte ekteskapslignende forbindelser. Tilsvarende endring foreslås i
-lovens § 120 sjette ledd om EØS-borgere og deres
-familiemedlemmer. Det er også foreslått tekniske
-endringer i bestemmelsen ved å synliggjøre de to
-ulike avslagsgrunnene i henholdsvis bokstav a og
-b.
-
-481
-
-Kapittel 39
-
-Om forståelsen av «ekteskapslignende forbindelser» vises det til forarbeidene til straffeloven
-§ 253 om kriminalisering av utenomrettslige
-tvangsekteskap, jf. Prop. 66 L (2019–2020)
-Endringer i straffeloven mv. (avvergingsplikt, utenomrettslig tvangsekteskap, diskrimineringsvern, skyting mot politiet mv.) Det skal ifølge merknadene
-til straffeloven § 253 legges vekt på tre momenter.
-For det første skal det legges vekt på om forbindelsen er varig. Den må være av en viss fast karakter. Normalt vil ekteskapslignende forbindelser i
-utgangspunktet være tidsubegrensede. Det kan
-likevel tenkes tidsbegrensede ekteskapslignende
-forbindelser. For det andre skal det legges vekt på
-om forbindelsen oppleves som bindende for partene selv og for deres sosiale krets. For det tredje
-skal det legges vekt på om forbindelsen etablerer
-rettigheter og plikter mellom partene. Disse kan
-bygge på både formelle og uformelle normer. Rettighetene og pliktene kan være av en type rettslig
-karakter som ikke anerkjennes i Norge. De kan
-også være av religiøs, kulturell eller sosial natur.
-Det er delvis overlapp og ikke noe klart skille mellom de nevnte kategoriene. Rettighetene og pliktene kan for eksempel gjelde reproduksjon og
-seksuell omgang.
-Beviskravet er sannsynlighetsovervekt, tilsvarende det som gjelder etter utlendingsloven § 51
-andre ledd om ufrivillige ekteskap. Det er utlendingsmyndighetene som har bevisbyrden.
-Til § 53
-Første ledd bokstav b er endret slik at det synligjøres at en utlending med tillatelse etter lovens
-§§ 40 og 41 har rett på en tillatelse dersom samlivet er opphørt og det er grunn til å anta at vedkommende eller eventuelle barn har blitt «fysisk
-eller psykisk» mishandlet. Formålet med å innta
-formuleringen fysisk eller psykisk er å synliggjøre
-de mer usynlige formene for mishandling. Det er
-et formål med endringen å skape økt forutberegnelighet for utlendinger som er utsatt for psykisk
-mishandling og å bidra til en økt oppmerksomhet
-om ulike former for psykisk vold og negativ sosial
-kontroll i saksbehandlingen.
-Det følger allerede av både forarbeider, rundskriv og forvaltningspraksis at mishandlingsbegrepet i utlendingsloven § 53 første ledd bokstav b
-omfatter handlinger og atferd av psykisk art. Endringen er dermed en presisering uten andre realitetsendringer enn at dagens kunnskap om psykisk
-vold må tas i betraktning i vurderingen av om det
-foreligger mishandling.
-
-[Side 484]
-
-482
-
-Kapittel 39
-
-NOU 2024: 13
-Lov og frihet
-
-I vurderingen av om det foreligger psykisk
-mishandling må det ses hen til kompleksiteten av
-en mishandlingssituasjon, herunder maktforholdet mellom partene, for eksempel som følge av at
-den utsatte har dårlig norskkunnskaper, manglende kjennskap til det norske samfunnet eller
-blir truet med å bli sendt tilbake til hjemlandet om
-hen ikke følger ektefellens ønsker og behov.
-Eksempler på krenkelser som kan inngå i vurderingen av om det foreligger psykisk mishandling
-kan være at referansepersonen tar kontroll over
-utlendingens økonomi, nekter vedkommende å ta
-arbeid eller delta på norskkurs, nekter vedkommende å være med venner, eller for øvrig utøver
-press, oppsyn, trusler eller tvang som systematisk
-begrenser utlendingen i sin livsutfoldelse eller
-gjentatte ganger hindrer vedkommende i å treffe
-selvstendige valg om eget liv og framtid.
-Med bakgrunn i at terskelen for når
-handlinger skal kunne anses som mishandling
-etter utlendingsloven skal ligge noe under tilsvarende begrep i straffeloven § 282, kan forarbeider
-og rettspraksis fra strafferetten si noe om hva som
-i alle fall bør anses som mishandling i utlendingslovens forstand.
-Psykisk mishandling kan påføre den utsatte
-alvorlige og langvarige skadevirkninger og redusere vedkommendes livskvalitet. Reduksjonen i
-livskvalitet omfatter blant annet psykiske lidelser,
-som angst og depresjon. Skadevirkningen kan
-oppstå lang tid etter mishandlingssituasjonen.
-Tredje ledd innebærer at barn og unge voksne
-som har oppholdstillatelse etter lovens § 42 (om
-oppholdstillatelse for barn), § 43 andre ledd (søsken som gjenforenes med en mindreårig flyktning) og § 49 (om familieinnvandring i andre tilfeller) har rett til oppholdstillatelse på selvstendig
-grunnlag dersom familielivet opphører og det er
-grunn til å tro at utlendingen, dennes søsken eller
-foreldre har vært utsatt for mishandling. Bestemmelsen er utformet slik at den rammer mishandling som er utøvet i familien eller av andre medlemmer av samme husstand. Med familien menes
-kjernefamilien som mor, far og søsken. Dersom
-familien ikke beskytter barnet mot mishandling
-som blir utøvet av andre, og barnet har behov for
-å flytte fra familien for å bli beskyttet, skal dette
-også omfattes av bestemmelsen. Eksempler på
-sistnevnte tilfelle kan være der familien ikke
-beskytter barnet mot mishandling utøvet av for
-eksempel besteforeldre, onkler, tanter eller andre
-medlemmer av en storfamilie eller et lukket samfunn.
-
-Formålet med forslaget er å sikre at barn og
-unge ikke føler seg presset til å bli værende i et
-familieliv hvor de blir utsatt for mishandling eller
-opplever at søsken eller foreldre blir utsatt for
-mishandling. Beviskravet er lavt (grunn til å anta)
-og tilsvarer beviskravet etter § 53 første ledd bokstav b. Til forskjell fra sistnevnte bestemmelse, er
-det ikke et krav om at familielivet er opphørt.
-Dette innebærer at tillatelse kan gis i forkant av at
-barnet eller den unge flytter ut av familien.
-Det er ikke et krav om at den unges livskvalitet er redusert. Der det er konstatert mishandling
-er det en presumsjon for at mishandlingen i seg
-selv utgjør redusert livskvalitet enten på kort eller
-på lang sikt. Der den utsatt er et barn under 18 år,
-må det legges til grunn at det skal mindre til for å
-konstatere mishandling enn der utlendingen er
-voksen. Dette fordi skadevirkningene av fysisk og
-psykisk mishandling er spesielt framtredende for
-barn og kan gi alvorlige skadevirkninger langt ut i
-voksenlivet, som for eksempel angst og depresjon
-i voksen alder.
-Fjerde ledd innebærer at barn som har oppholdstillatelse etter lovens § 42 (om oppholdstillatelse for barn), § 43 andre ledd (søsken som gjenforenes med en mindreårig flyktning) og § 49 (om
-familieinnvandring i andre tilfeller) har rett til oppholdstillatelse på selvstendig grunnlag dersom
-barnevernet har overtatt omsorgen for barnet
-etter barnevernsloven § 5-1. Formålet med endringen er å sikre at barn som lever under forhold
-som kvalifiserer for omsorgsovertakelse etter barnevernsloven kan oppsøke hjelp og støtte uten
-frykt for eget oppholdsgrunnlag. Tilsvarende vil
-et sikkert oppholdsgrunnlag gjøre hjelpeapparatet
-bedre i stand til å vurdere riktig oppfølging og tiltak for å sikre at barnet får nødvendig hjelp,
-omsorg og beskyttelse til rett tid.
-Femte ledd gir hjemmel til å fastsette nærmere
-regler i forskrift om kravet til mishandling.
-Til § 120
-Sjette ledd: Endringsforslaget innebærer at utlendingsloven § § 120 sjette ledd om å nekte oppholdskort dersom det er sannsynlig at ekteskapet
-er inngått mot en av partenes vilje, utvides til også
-å gjelde ufrivillige ekteskapslignende forbindelser. Det vises til merknader til utlendingsloven
-§ 51 andre ledd om forståelsen av «ekteskapslignende forbindelser». Det er også foreslått tekniske endringer i bestemmelsen ved å synliggjøre
-de tre ulike avslagsgrunnene i henholdsvis bokstav a, b og c.
-
-[Side 485]
-
-NOU 2024: 13
-Lov og frihet
-
-39.8 Rettshjelploven
-Til § 11
-I første ledd nr. 7 tilføyes barneekteskap etter straffeloven ny § 253 a. Endringen innebærer at den
-som er utsatt for barneekteskap, men hvor forholdet ikke er anmeldt, kan innvilges rettshjelp uten
-behovsprøving på samme vilkår som personer
-utsatt for tvangsekteskap.
-Første ledd nr. 9 til 11 omhandler rettshjelp til
-personer som er holdt tilbake i utlandet mot sin
-vilje eller som er utsatt for skadelig utenlandsopphold.
-Første ledd nr. 9 innebærer at personer over 18
-år som er holdt tilbake i utlandet mot sin vilje av
-nære relasjoner kan søke om fritt rettsråd uten
-behovsprøving. Formålet med bestemmelsen er å
-styrke rettsvernet og bedre muligheten for retur
-til personer som er utsatt for negativ sosial kontroll av nære relasjoner, der kontrollen er av en
-slik art at den utsatte ikke står fritt i å returnere til
-Norge.
-Med nære relasjoner menes samme personkrets som er omfattet av straffeloven § 282 om
-mishandling i nære relasjoner. Bestemmelsen
-skal sikre rettshjelp som dekker nødvendig og
-relevant bistand for den utsattes retur til Norge.
-Bistanden kan blant annet omfatte hjelp til å søke
-om nytt pass eller ny oppholdstillatelse, hjelp til å
-undersøke hvilke stønader de utsatte kan få med
-tanke på utgifter til hjemreise og forberedelse av
-retur til Norge. Bistanden omfatter også oppfølgning etter retur til Norge, blant annet bistand til å
-finne et sted å bo, undersøke muligheter for
-norskopplæring og skolegang, få adressesperre,
-navneendring og voldsalarm, bistand i forbindelse
-med separasjon eller skilsmisse og til å undersøke
-muligheter for økonomisk bistand fra NAV eller
-andre ordninger. Utenfor faller bistand som den
-enkelte trenger i møte med myndighetene i oppholdslandet. Fri rettshjelp til bistand i oppholdslandet må behandles etter rettshjelploven § 12.
-Første ledd nr. 10 omfatter rettshjelp til barn og
-unge som er utsatt for, eller som risikerer å bli
-utsatt for, skadelige utenlandsopphold, jf. forslag
-til straffeloven ny § 269 (skadelige utenlandsopphold for barn). Rettshjelpen gis som fritt rettsråd
-uten behovsprøving. Rettshjelpen er ment å dekke
-relevant bistand som er nødvendig for den utsattes retur til Norge, tilsvarende rettshjelp etter forslaget i rettshjelpsloven § 11 ny nr. 9. Barn og
-unge som er holdt tilbake i utlandet mot sin vilje,
-men som ikke er utsatt for eller risikerer å bli
-utsatt for skadelige utenlandsopphold, vil falle
-
-483
-
-Kapittel 39
-
-utenfor bestemmelsen. Disse kan etter omstendighetene omfattes av alternativet i første ledd nr.
-11.
-Som omtalt i kapittel 14 har utvalget foreslått
-at fornærmede i saker etter straffeloven ny § 269
-om skadelig utenlandsopphold, skal gis en ubetinget rett til bistandsadvokat, jf. straffeprosessloven
-§ 107 a første ledd bokstav a. En konsekvens er at
-den utsatte også vil ha mulighet til rettshjelp etter
-rettshjelpsloven § 11 nr. 6 for å vurdere forhold av
-betydning for en anmeldelse. Alternativet i § 11
-første ledd ny nr. 10 innebærer en ytterligere utvidelse av muligheten til rettshjelp.
-Første ledd nr. 11 omfatter rettshjelp til barn
-over 12 år som er ufrivillig i utlandet uten en forelder med foreldreansvar. Rettshjelpen gis som fritt
-rettsråd uten behovsprøving. Barn som er fylt 12
-år må samtykke i avgjørelsen om å flytte, ta opphold eller reise til utlandet uten en forelder med
-foreldreansvar, jf. §§ 40 tredje ledd og 41 femte
-ledd. Det er uklart hvorvidt rettshjelp for denne
-gruppen allerede er dekket gjennom rettshjelpsloven §§ 11 andre ledd nr. 1. og 16 andre ledd nr. 1,
-som henviser til barnelova kapittel 5 der både
-§§ 40 og 41 er plassert, dersom foreldrene bryter
-samtykkekravet. Bestemmelsen vil ha mest praktisk betydning i forkant av utenlandsoppholdet,
-men kan også være relevant når barnet allerede
-oppholder seg i et annet land, men hvor rettshjelpen ikke allerede dekkes av nr. 9 om rettshjelp i
-forbindelse med skadelig utenlandsopphold. I forkant av utenlandsoppholdet kan advokaten bistå
-barnet med henblikk på å hindre utreise. Advokaten kan undersøke barnets rettslige stilling,
-knytte kontakt med barnevernet, bistå barnet i å
-håndheve sine rettigheter overfor foreldre og barnevernstjenesten og være barnets representant i
-møte med forvaltningen, herunder utlendingsmyndighetene og passmyndighetene.
-
-39.9 Passloven
-Til § 5
-Endringen i første ledd bokstav b innebærer at pass
-ikke skal utstedes dersom det er ilagt akuttvedtak
-eller vedtak om utreiseforbud etter barnevernsloven henholdsvis §§ 4-6 og 5-12.
-Endringen i femte ledd åpner for at pass med
-begrenset gyldighetstid eller begrenset gyldighetsområde likevel kan utstedes i særlige tilfeller,
-selv om det er truffet vedtak om utreiseforbud
-etter barnevernslovens regler. Et slikt tilfelle vil
-først og fremst være dersom barnevernstjenesten
-
-[Side 486]
-
-484
-
-Kapittel 39
-
-NOU 2024: 13
-Lov og frihet
-
-har gitt samtykke til en konkret utenlandsreise
-etter barnevernsloven ny § 5-12 fjerde ledd.
-Til passloven § 12
-Andre ledd ny bokstav d åpner for at det kan gis
-forskrifter om momenter som kan vektlegges i
-vurderingen av om pass skal utstedes uten samtykke fra den eller de som har foreldreansvar, jf.
-lovens § 4 tredje ledd. Formålet er særlig å sikre
-mulighet til å tydeliggjøre i forskrift at barn som
-er utsatt for et langvarig og ufrivillig opphold i
-utlandet uten en forelder med foreldreansvar, som
-utgangspunkt bør få utstedt pass, uten samtykke
-fra foreldre, for å gjenopprette normalsituasjonen
-i Norge.
-
-39.10 ID-kortloven
-Til § 5
-Endringen i første ledd bokstav b innebærer at
-nasjonalt ID-kort med reiserett ikke skal utstedes
-dersom det er ilagt akuttvedtak eller vedtak om
-utreiseforbud etter barnevernsloven §§ 4-6 eller 512.
-
-39.11 Integreringsloven
-Til § 8
-Nytt tredje ledd innebærer at retten og plikten til å
-delta i introduksjonsprogrammet i særlige tilfeller
-
-kan inntre fra det tidspunktet krav om program
-settes fram. Formålet med forslaget er å sikre at
-tilbudet ikke nektes som følge av deltakerens ufrivillige fravær. Hva som skal betegnes som særlige
-grunner, kan fastsettes nærmere i forskrift.
-Bestemmelsen er særlig ment å fange opp ufrivillig fravær som skyldes mishandling, negativ sosial
-kontroll, æresmotivert vold eller ufrivillig utenlandsopphold. Dette bør tas inn i forskrift.
-Til § 9
-I første ledd bokstav g er den opprinnelige henvisningen til utlendingsloven § 53 tredje ledd endret
-til § 53 fjerde ledd. Dette fordi utvalget har foreslått endringer i utlendingsloven § 53 som innebærer at gjeldende tredje ledd blir til nytt fjerde
-ledd. Endringen innebærer dermed ingen realitetsendring.
-Første ledd bokstav h er ny og innebærer at
-utlendinger som har blitt holdt tilbake i utlandet
-mot sin vilje, og som får en fornybar oppholdstillatelse etter utlendingsloven på dette grunnlaget, jf.
-utlendingsforskriften § 8-9 jf. utlendingsloven
-§ 38, skal inngå i målgruppen for rett og plikt til å
-delta i introduksjonsprogrammet.
+# Avvergingsplikten
+
+ 
+
+## Innledning
+
+Etter straffeloven § 196 straffes den som unnlater å forsøke å avverge nærmere bestemte straffbare handlinger. I dette kapittelet undersøker utvalget enkelte spørsmål om avvergingsplikten som kan være av betydning for rettsvernet til utsatte personer. Utvalget vurderer hvor langt avvergingsplikten strekker seg når den straffbare handlingen finner sted i utlandet. Utvalget vurderer videre om det er behov for regelverksendringer for å tydeliggjøre når negativ sosial kontroll utløser avvergingsplikt etter straffeloven § 196, se revidert mandat bokstav a. Deretter vurderer utvalget om flere straffebud bør omfattes av avvergingsplikten.[^1804]
+
+## Gjeldende rett
+
+### Menneskerettslige forpliktelser
+
+Verken Grunnloven eller internasjonale konvensjoner som Norge har sluttet seg til, stiller uttrykkelig krav om kriminalisering av manglende avverging av straffbare handlinger. Statens sikringsplikt mot krenkelser av menneskerettighetene etter blant annet Grunnloven og Den europeiske menneskerettskonvensjonen (EMK) innebærer imidlertid at det må etableres mekanismer for å beskytte den enkelte mot menneskerettighetsbrudd.[^1805] Det innebærer at staten har en plikt til å ha straffelovgivning mot alvorlige menneskerettighetskrenkelser, i tillegg til en effektiv håndhevelse av lovgivningen, slik som mekanismer for å oppdage og rapportere straffbare handlinger. Helsepersonells og andre profesjoners meldeplikt til politi og barnevernstjeneste, og straffelovens generelle avvergingsplikt er eksempler på slike mekanismer.[^1806] Den europeiske menneskerettsdomstol (EMD) har ikke tatt stilling til om statens forpliktelse til å beskytte borgerne mot menneskerettighetsbrudd krever en straffsanksjonert allmenn avvergingsplikt. I saken *O’Keeffe mot Irland* ble imidlertid Irland dømt for ikke å ha tilstrekkelig betryggende ordninger for å avverge misbruk av barn på 1970-tallet.[^1807]
+
+Istanbul-konvensjonen kapittel 5 stiller krav til statenes materielle strafferett for å bekjempe vold mot kvinner, men den inneholder ingen forpliktelse til å innføre en straffsanksjonert avvergingsplikt. Enkelte av bestemmelsene i Istanbul-konvensjonen er likevel relevante for avvergingsplikten. Artikkel 27 pålegger statene å treffe nødvendige tiltak for å oppmuntre personer som er vitne til voldshandlinger som er omfattet av konvensjonen, som har rimelig grunn til å tro at slike handlinger vil bli begått, eller at det kan fryktes nye voldshandlinger, til å melde fra til kompetente organisasjoner eller myndigheter. En lignende forpliktelse finnes i Lanzarote-konvensjonen artikkel 12 som gjelder seksuell utnyttelse eller misbruk av barn og i Europarådkonvensjonen om tiltak mot menneskehandel.
+
+Istanbul-konvensjonen artikkel 28 regulerer opplysningsplikt for yrkesutøvere. Bestemmelsen pålegger statene å treffe tiltak som sikrer at regler om taushetsplikt for visse yrkesgrupper ikke er til hinder for at disse melder fra til kompetente organisasjoner eller myndigheter dersom de har god grunn til å tro at det er utøvd en alvorlig voldshandling som er omfattet av konvensjonen, og at det er grunn til å frykte flere alvorlige voldshandlinger. Konvensjonen angir ikke hvilke yrkesgrupper som omfattes.
+
+Da Istanbul-konvensjonen ble ratifisert i 2017, la departementet til grunn at Norge oppfylte konvensjonen i sin helhet.[^1808] En utfordring er likevel at Istanbul-konvensjonen uttrykkelig tar med partnere som ikke har bodd sammen, mens den norske straffebestemmelsen i § 282 ikke beskytter kjærester og særboere (heller ikke om de har barn sammen). Straffeloven § 253 om tvangsekteskap og straffeloven § 262 andre ledd om barneekteskap rammer også «ekteskapsliknende forbindelser», der det skal «legges vekt på om forbindelsen er varig, oppleves som bindende og etablerer rettigheter og plikter mellom partene av rettslig, religiøs, sosial eller kulturell karakter». Avvergingsplikten dekker dermed disse forbindelsene, men hvis paret enda ikke har flyttet sammen, er dette ikke en « nær relasjon» etter straffeloven § 282.[^1809]
+
+### Straffeloven § 196 om plikt til å søke å avverge et straffbart forhold
+
+Etter straffeloven § 196 straffes den som unnlater gjennom anmeldelse eller på annen måte å søke å avverge et lovbrudd eller følgene av det, på et tidspunkt da dette fortsatt er mulig, og det framstår som sikkert eller mest sannsynlig at lovbruddet er eller vil bli begått. Avvergingsplikten gjelder uten hensyn til taushetsplikt, og den gjelder nærmere bestemte lovbrudd opplistet i § 196 første ledd bokstav a til c. Strafferammen for brudd på avvergingsplikten er bot eller fengsel i inntil 1 år.
+
+Avvergingsplikten er begrenset til bestemte lovbrudd. I Ot.prp. nr. 8 (2007–2008) uttaler departementet at «\[k\]jernen i avvergingsplikten bør være en plikt til å hindre alvorlige forbrytelser mot rikets indre og ytre sikkerhet, store skadeforvoldelser, terrorhandlinger, grove seksuallovbrudd og grove legemskrenkelser».[^1810] Det gjentas i flere senere forarbeider at avvergingspliktens kjerne er å hindre alvorlige lovbrudd.[^1811]
+
+Avvergingsplikten omfatter flere straffebestemmelser som denne utredningen behandler, blant annet straffeloven § 253 (tvangsekteskap)[^1812], § 255 (grov frihetsberøvelse), § 256 (forbund om grov frihetsberøvelse), § 258 (grov menneskehandel), § 259 (slaveri), § 262 andre ledd (barneekteskap), § 274 (grov kroppsskade), §§ 282 og 283 (alminnelig og grov mishandling i nære relasjoner), §§ 284 og 285 (alminnelig og grov kjønnslemlestelse) og § 288 (hensettelse i hjelpeløs tilstand mv.). Det samme gjelder en rekke seksuallovbrudd (blant annet voldtekt og seksuallovbrudd mot barn).
+
+Straffebestemmelsene som er listet opp i § 196 er uttømmende, og det foreligger ingen straffsanksjonert plikt til å avverge handlinger som rammes av straffebestemmelser som ikke er nevnt i § 196. Det oppstår derfor ikke avvergingsplikt, selv om det framstår som sikkert eller mest sannsynlig at det vil skje brudd på straffeloven §§ 251 og 252 (tvang), § 257 (simpel menneskehandel), §§ 263 og 264 (trusler), § 266 (hensynsløs atferd), § 254 (frihetsberøvelse), §§ 271 og 272 (kroppskrenkelser) eller § 273 (kroppsskade). Ulike yrkesgrupper kan likevel ha særlige plikter, for eksempel helsepersonell etter helsepersonelloven § 31. Brudd på disse pliktene kan etter omstendighetene være tjenestefeil.
+
+Det finnes få domsavgjørelser om brudd på avvergingsplikten, både etter den tilsvarende bestemmelsen i straffeloven 1902 § 139 og etter gjeldende straffelov § 196. Dette kan skyldes flere forhold. I forarbeidene uttales det at «\[d\]ette kan tyde på at bestemmelsen har liten virkning, men det kan også ha sin bakgrunn i at bestemmelsen angir en atferdsregel som har sitt utspring i en grunnleggende samfunnsplikt og at regelen i stor grad etterleves. Til en viss grad kan også medvirkningsansvaret gjøre at bestemmelsen er mindre praktisk».[^1813]
+
+Avverging kan skje gjennom «anmeldelse eller på annen måte». Det er ikke en plikt til faktisk å avverge lovbruddet, men bare til å «søke å avverge» det. Den viktigste og mest praktiske måten er å anmelde forholdet til politiet, men etter omstendighetene kan det foreligge en plikt til å søke å avverge handlingene eller følgene «på annen måte». Det kan for eksempel være å melde fra til andre aktører som er i en posisjon til å treffe tiltak for å avverge handlingen, som barnevernstjenesten. Forholdet mellom avvergingsplikten og meldeplikten til barnevernstjenesten er nærmere omtalt i kapittel 36. For privatpersoner vil det ofte ikke være plikt til å foreta aktive handlinger (utover å varsle) for å avverge lovbrudd, med unntak for omsorgspersoner, jf. bestemmelsens fjerde ledd som omtales nedenfor.[^1814]
+
+For at avvergingsplikten skal utløses, må varsleren holde det som «sikkert eller mest sannsynlig» at lovbruddet er eller vil bli begått, jf. § 196 første ledd første punktum. Formuleringen «sikkert eller mest sannsynlig» innebærer et krav om alminnelig sannsynlighetsovervekt.[^1815] Prop. 66 L (2019–2020), som blant annet tilførte avvergingsplikt for tvangsekteskap, grov menneskehandel og grov seksuell omgang mv. med barn, viser til at vurderingen kan være vanskelig, og at det må være tilstrekkelig å foreta en «forstandig vurdering» av om vilkårene er oppfylt:
+
+Flere av straffebudene som inntas i oppregningen er straffebud med sterkt vurderingspregete vilkår. Det kan være vanskelig å avgjøre om gjerningsbeskrivelsen i det aktuelle straffebudet er oppfylt. En praktisk situasjon er at personer som får kunnskap som kan medføre en avvergingsplikt, også har straffesanksjonert taushetsplikt. I slike tilfeller må terskelen for å godta rettsuvitenhet som unnskyldningsgrunn ikke være høy.
+
+Avvergingsplikten legger etter omstendighetene en nokså inngripende handleplikt på enkeltindividet. Det må være tilstrekkelig å foreta en forstandig vurdering av om vilkårene er oppfylt. Sentralt i vurderingen bør være om situasjonen var slik at det for en alminnelig borger, ut fra en etisk vurdering, ville være naturlig å forsøke å avverge den.[^1816]
+
+Brudd på avvergingsplikten straffes ikke når handlingen ikke har kommet så langt som til straffbart forsøk etter § 16, jf. § 196 tredje ledd bokstav b. Denne bestemmelsen kan lett misforstås. Poenget er at avvergingsplikten gjelder så lenge avvergeren holder det som sikkert eller mest sannsynlig at lovbruddet er eller vil bli begått. Avvergeren *straffes* derimot ikke når handlingen det er tale om å avverge ennå ikke har nådd stadiet til straffbart forsøk.[^1817] Et eksempel kan illustrere poenget. A (avvergeren) får i januar tilstrekkelig kunnskap om at en kvinne skal sendes ut av landet for å tvinges til ekteskap i april. Da oppstår avvergingsplikten. Om turen blir avlyst fordi kvinnen kommer seg til et krisesenter, kan A likevel ikke straffes for eventuelt brudd på avvergingsplikt. Men A hadde avvergingsplikt fram til turen ble avlyst.
+
+Etter § 196 tredje ledd bokstav b er brudd på avvergingsplikten også straffri dersom plikten ikke kunne oppfylles uten å utsette seg selv, sine nærmeste eller noen uskyldige for siktelse eller tiltale eller fare for liv, helse eller velferd. «De nærmeste» omfatter blant annet ektefelle og personer som bor fast sammen under ekteskapsliknende forhold, slektninger i direkte linje og søsken, jf. straffeloven § 9. Kan avverging skje på forskjellige måter, og bare en av dem kan få følger som nevnt i bokstav b, plikter vedkommende å velge en av de andre avvergingshandlingene. Dette unntaket gjelder ikke dersom fornærmede er mindreårig, og den som unnlater å avverge er barnets omsorgsperson, jf. fjerde ledd, se neste punkt.
+
+### Særlig om straffeloven § 196 fjerde ledd
+
+Etter § 196 fjerde ledd gjelder straffrihetsgrunnen i tredje ledd bokstav b ikke dersom den fornærmede er mindreårig, og den som unnlater å avverge er barnets forelder, steforelder, fosterforelder eller en annen som har daglig omsorg for barnet. Fjerde ledd ble tilføyd etter forslag fra Justiskomiteen i Innst. 41 L (2020–2021).[^1818] Komiteen begrunnet unntaket med at også barns nærstående bør ha en plikt til å varsle barnevernet eller politiet om overgrep mot et barn de har omsorg for. Komiteen mente at et unntak fra straffrihetsgrunnen i tredje ledd bokstav b var et velegnet lovgivningsmessig virkemiddel for å ivareta den plikten som staten har til å verne barn mot vold og overgrep etter Grunnloven § 104 og barnekonvensjonen artikkel 19 nr. 1.[^1819] Selv om endringen til dels hadde bakgrunn i Høyesteretts praksis om passivt medvirkningsansvar, særlig HR-2019-561-A, ble spørsmålet om konkurrens med reglene om passiv medvirkning ikke drøftet i innstillingen. Innstillingen kommenterer heller ikke forholdet til selvinkrimineringsvernet.[^1820] Bestemmelsen gjør at i de tilfellene der en omsorgsperson ikke er skyldig i (passiv) medvirkning, kan hen likevel bli skyldig i å overtre av avvergingsplikten. Etter Høyesteretts praksis om passiv medvirkning er det likevel neppe mange i persongruppen i straffeloven § 196 fjerde ledd som «bare» vil bli dømt for overtredelse av § 196 dersom de har den nødvendige kunnskapen til å ha avvergingsplikt.[^1821] Omsorgspersoner vil normalt ha ansvar for å forsøke å hindre at barn og andre som de har i sin omsorg utsettes for alvorlige straffbare handlinger.
+
+Straffeloven § 196 fjerde ledd står i et spenningsforhold til flere andre strafferettslige og straffeprosessuelle bestemmelser, der innstillingen ikke gir noe svar på det nærmere forhold mellom bestemmelsene. Dette gjelder blant annet reglene om fritak fra vitneplikt for nærstående etter straffeprosessloven §§ 122 og 123. Etter straffeprosessloven § 122 er blant annet den siktedes nåværende eller tidligere ektefelle, samboer, søsken, slektning i rett linje eller like nært svigerfamilie fritatt fra vitneplikt i retten. Etter § 123 kan et vitne nekte å svare på spørsmål som risikerer å utsette noen av personene nevnt i § 122 for straff. Konsekvensen av dette er at en omsorgsperson vil kunne ha plikt til å anmelde en nærstående for å oppfylle avvergingsplikten, men vil kunne nekte å forklare seg i en etterfølgende straffesak mot den nærstående.
+
+Unntaket i § 196 fjerde ledd gjelder uavhengig av hvilket straffebud det er snakk om å avverge, og det gjelder etter ordlyden for alle typer risiko som er nevnt i tredje ledd bokstav b. På bakgrunn av begrunnelsen for unntaket, må fjerde ledd antakeligvis tolkes innskrenkende til i hovedsak å gjelde faren for å utsette seg selv eller nærstående for siktelse og tiltale. En straffesanksjonert plikt til å risikere livet er lite rimelig.[^1822] Det finnes foreløpig ingen publiserte rettsavgjørelser knyttet til § 196 fjerde ledd. Se imidlertid Høyesteretts uttalelser i HR-2019-561-A.
+
+### Avvergingsplikt ved negativ sosial kontroll mv.
+
+For at negativ sosial kontroll skal utløse avvergingsplikt, må kontrollen utgjøre et brudd på en av straffebestemmelsene som er listet opp i straffeloven § 196. Listen over straffebud i § 196 er begrenset til alvorlige lovbrudd, se forrige punkt. Dette gjør at en del straffebud som kan ramme negativ sosial kontroll, som tvang (§§ 251 og 252), trusler (§§ 263 og 264) og hensynsløs atferd (§ 266), ikke er omfattet, og dermed ikke utløser avvergingsplikt. Den mest sentrale straffebestemmelsen for negativ sosial kontroll som etter gjeldende rett omfattes av avvergingsplikten, er straffeloven § 282 om mishandling i nære relasjoner. Alvorlige eller omfattende former for negativ sosial kontroll kan utgjøre en del av mishandlingsregimet etter straffeloven §§ 282 og 283. Se blant annet dom fra Agder lagmannsrett, LA-2020-106948, der en far hadde utøvd «streng kontroll» over datteren, i tillegg til å utsette henne for et betydelig antall psykiske krenkelser og voldshandlinger.[^1823] Faren ble dømt for grov mishandling etter straffeloven 1902 § 219 andre ledd (i dag straffeloven 2005 § 283) til fengsel i ett år og tre måneder. Dommene illustrerer at alvorlige eller omfattende former for negativ sosial kontroll kan utgjøre en sentral del av bevisbildet for at det foreligger et mishandlingsregime som rammes av straffeloven §§ 282 og 283. Den domfeltes anke til Høyesterett ble nektet fremmet.[^1824] Saken er nærmere omtalt i kapittel 7.
+
+Straffeloven § 255 om grov frihetsberøvelse utløser også avvergingsplikten etter § 196. Det stilles krav til at gjerningspersonen «ved innesperring, bortføring eller på annen måte rettsstridig fratar noen friheten», jf. § 254, og at denne frihetsberøvelsen er «grov». Ved avgjørelsen av om frihetsberøvelsen er grov, skal det «særlig legges vekt på dens varighet, om den har voldt ualminnelige lidelser, død eller hatt betydelig skade på kropp eller helse til følge». Bestemmelsen kan være aktuell ved grove tilfeller av innesperring som utøves som et ledd i negativ sosial kontroll. Utvalget antar likevel at bestemmelsen er mindre praktisk på slike tilfeller, blant annet fordi bestemmelsen i utgangspunktet stiller krav til at frihetsberøvelsen skjer ved fysiske hindringer, slik som innesperring, og ikke psykiske midler, slik som press og trusler.[^1825] I tillegg oppstiller § 255 om grov frihetsberøvelse en høy terskel. Det kan likevel tenkes at bestemmelsen kan komme til anvendelse for eksempel der noen er tatt med til utlandet og holdes innelåst i et hus over en lengre periode eller holdes urettmessig innesperret på en institusjon. Se mer om bestemmelsen om grov frihetsberøvelse i punkt 7.3.4 og 14.3.2 og avvergingsplikt på handlinger i utlandet i punktet nedenfor.
+
+Også straffeloven § 288 om hensettelse i hjelpeløs tilstand mv. utløser avvergingsplikten. Bestemmelsen rammer den som «hensetter en annen i hjelpeløs tilstand med fare for liv, kropp eller helse», samt den som «unnlater å gi hjelp til noen i hjelpeløs tilstand som vedkommende har en plikt til å dra omsorg for». Eksempler på «plikt til å dra omsorg for» er foreldres ansvar for sine barn.[^1826] I saker om negativ sosial kontroll kan bestemmelsen være aktuell der et barn er i en hjelpeløs tilstand uten å få hjelp av sine foreldre, typisk der barnet utsettes for mishandling av den ene forelderen eller en annen omsorgsperson og det er fare for liv, kropp eller helse. Dette utløser avvergingsplikten etter § 196. Les mer om straffeloven § 288 i utredningens punkt 14.3.2.
+
+### Avvergingsplikten når lovbruddet skjer i utlandet
+
+Rettslige utgangspunkt
+
+Avvergingsplikten er en *straffebestemmelse* for manglende avverging av visse alvorlige straffbare handlinger eller følgene av dem. Hovedregelen er at straffelovens virkeområde er i Norge og på norske jurisdiksjonsområder, jf. straffeloven § 4. Handlinger begått i utlandet kan likevel straffeforfølges i Norge etter nærmere vilkår angitt i straffeloven § 5.
+
+Hovedregelen etter § 5 første ledd nr. 1 er at straffelovgivningen får anvendelse på handlinger som utføres i utlandet av en norsk statsborger eller av en person med bosted i Norge, dersom handlingene er straffbare også i landet der handlingene er foretatt. Denne hovedregelen omtales gjerne som kravet om dobbelt straffbarhet. Straffeloven § 5 første ledd nr. 2 til 13 gjør unntak fra kravet om dobbelt straffbarhet for nærmere bestemte *alvorlige lovbrudd*. For eksempel kan tvangsekteskap, menneskehandel, barneekteskap, kjønnslemlestelse og flere seksuallovbrudd, på visse vilkår, straffes i Norge selv om handlingen er begått i et annet land og handlingen er ikke straffbart der. Overtredelse av straffeloven § 282 er ikke omfattet av unntaket. Straffeloven § 196 er ikke unntatt fra kravet om dobbelt straffbarhet etter straffeloven § 5. Unnlatt avverging i utlandet kan dermed ikke straffeforfølges i Norge, med mindre unnlatt avverging av forholdet også er straffbart etter det aktuelle landets rett. Se nærmere om straffelovens anvendelse på handlinger begått i utlandet i punkt 14.3.1.
+
+Personer som befinner seg i Norge
+
+Spørsmålet om personer som befinner seg i Norge, har en avvergingsplikt for lovbrudd som begås eller vil bli begått i utlandet, er ikke omtalt i forarbeidene til straffeloven § 196. Det finnes heller ikke rettspraksis om spørsmålet. Straffeloven § 196 presiserer ikke hvor den straffbare handlingen må finne sted, og ordlyden stenger derfor ikke for at avvergingsplikten kan gjelde også når handlingen som skal avverges vil finne eller finner sted i utlandet.
+
+Etter utvalgets syn bør det i prinsippet foreligge en plikt til å søke å avverge lovbrudd uavhengig av hvor de finner sted, dersom det er sikkert eller mest sannsynlig at handlingen vil bli begått, og dersom det fremdeles er mulig å avverge handlingen eller følgene av den. Avvergingsplikten representerer en grunnleggende samfunnsplikt, som i utgangspunktet ikke bør avhenge av hvor handlingen finner sted. Dette bør gjelde uavhengig av om den konkrete handlingen er straffbar i det landet der den sikkert eller mest sannsynlig vil bli begått. Unnlatelsen av å avverge finner sted i Norge, slik at det etter utvalgets syn ikke oppstår jurisdiksjonsspørsmål. Når handlingen omfattes av unntakene for dobbelt straffbarhet etter § 5 første ledd nr. 1, taler de samme hensyn for at det også bør være en plikt for å avverge slike handlinger i utlandet når personen har anledning til det fra Norge.
+
+I praksis kan en person som befinner seg i Norge ha begrensede muligheter til å avverge handlinger i utlandet eller følgene av dem. Selv om personen anmelder forholdet til norsk politi, er det begrenset hva norsk politi kan gjøre for å forhindre lovbrudd i utlandet. Avvergingsplikten innebærer imidlertid at man må forsøke å avverge lovbruddet, selv om utsiktene til å lykkes er små.[^1827] Hvilke utsikter man har til å lykkes, kan også avhenge av hvilket forhold personen har til den fornærmede eller gjerningspersonen. For eksempel kan omsorgspersoner ha større muligheter til å avverge straffbare handlinger mot personer de har omsorgsansvar for, enn hva utenforstående har.
+
+I tillegg til anmeldelse kan avvergingen skje «på annen måte», jf. § 196 første ledd. Når handlingen begås i utlandet, er det vanskelig for personer i Norge å forsøke å avverge på andre måter enn ved å anmelde. Bekymringsmelding til barnevernstjenesten kan imidlertid være aktuelt. Barnevernstjenesten har myndighet til å sette inn tiltak overfor barn og familier når barnet oppholder seg i en annen stat, men har vanlig bosted i Norge. Videre har barnevernstjenesten varslingsplikt til andre stater der et barn er i alvorlig fare i en annen stat, jf. Haagkonvensjonen 1996 artikkel 36. Varslingsplikten gjelder også til stater som ikke er medlem av konvensjonssamarbeidet.[^1828] Også andre måter å avverge på kan være aktuelle i den enkelte sak, for eksempel å kontakte personen som risikerer å bli utsatt for lovbruddet og advare om risikoen. Omsorgspersoner vil kunne ha flere handlingsalternativer enn andre. Avvergingsplikten vil som hovedregel ikke innebære en plikt for den enkelte til å kontakte utenlandske myndigheter, men det kan finnes situasjoner der avverging «på annen måte» vil være en plikt. Det kan dessuten være grunn til forsiktighet med å kontakte andre lands myndigheter på egenhånd, for eksempel der personen det gjelder kan være utsatt for forfølgelse av staten, eller der tvangsekteskap eller barneekteskap er godtatt i oppholdslandet. Avvergingsplikten må anses oppfylt om norske myndigheter varsles. Norsk politi vil kunne kontakte politiet i det aktuelle landet.
+
+Personell ved norske utenriksstasjoner
+
+Et annet viktig spørsmål er om avvergingsplikten gjelder for personell ved norske utenriksstasjoner. Slikt personell kan enten være utsendt personell, lokalt ansatte eller stedlig oppnevnte honorære representanter.[^1829] Utsendt personell vil normalt være norske borgere, mens lokalt ansatte kan være både norske borgere, borgere av staten der utenriksstasjonen ligger (vertslandet), eller borgere av tredjestater. Honorære representanter er normalt borgere av vertslandet eller tredjestater, men kan også være norske borgere.
+
+Det rettslige utgangpunktet for utenriksstasjoner og personellet, er at de er underlagt jurisdiksjonen til vertslandet, jf. prinsippet om territorialjurisdiksjon. Etter folkeretten gjelder det også visse begrensninger i vertslandets jurisdiksjon overfor utenriksstasjoner og personellet på stasjonen, særlig etter Wien-konvensjonen om diplomatisk samkvem av 1961. Reglene i Wien-konvensjon 1961, som begrenser vertslandets jurisdiksjon, gjelder for vertslandets domsjurisdiksjon jf. immunitetsbestemmelsene i artikkel 31 og tvangsjurisdiksjon jf. ukrenkelighetsbestemmelsene i artikkel 29 og 30. Når det gjelder lovgivningsjurisdiksjon slår konvensjonen i artikkel 41 derimot uttrykkelig fast at vertslandets lover og bestemmelser må respekteres, men uten at dette er av betydning for den immunitet og ukrenkelighet som framgår av de øvrige bestemmelsene. I tillegg til at territorialjurisdiksjonsprinsippet og Wien-konvensjon 1961 fastslår at personellet ved utenriksstasjonene er underlagt de lover og bestemmelser som gjelder i vertslandet, vil norske lover og bestemmelser gjelde dersom disse på grunnlag av personaljurisdiksjon er gitt virkning for norske fysiske og juridiske personer i utlandet. Det følger for øvrig også av Wien-konvensjon 1961 artikkel 31 nr. 4 at immunitetsreglene ikke fritar personell fra senderstatens jurisdiksjon, altså fra norsk jurisdiksjon. Norske lover kan dermed gjelde for personellet ved utenriksstasjonene i tillegg til vertslandets lover og bestemmelser.
+
+Det avgjørende for om avvergingsplikten etter strl. § 196 gjelder for personell ved utenriksstasjonene, er dermed om denne bestemmelsen er gitt anvendelse utenfor Norge og norske jurisdiksjonsområder mv. jf. strl. § 5. Det vises her til framstillingen av gjeldende rett etter § 5 i punktet ovenfor, og konklusjonen om at avvergingsplikten etter § 196 bare kommer til anvendelse i utlandet dersom også vertslandet har en avvergingsplikt som er belagt med straffeansvar i stedlig lovgivning. Dersom avvergingsplikten etter § 196 kommer til anvendelse fordi tilsvarende plikt finnes i vertslandets lover og bestemmelser, vil avvergingsplikten etter § 196 kunne gjelde for personell ved utenriksstasjonene. Likevel vil § 196 kun gjelde for personell som er norske borgere, jf. strl. § 5 første ledd bokstav a, uavhengig av om vedkommende er utsendt, lokalt ansatte eller stedlig oppnevnte honorære representanter.
+
+Dersom personell ved norske utenriksstasjoner som er norske statsborgere, anser det som sikkert eller mest sannsynlig at en norsk borger eller person med lovlig oppholdstillatelse i Norge vil bli utsatt for eksempelvis tvangsekteskap eller kjønnslemlestelse, plikter de å søke å avverge dette gjennom anmeldelse til norsk politi «eller på annen måte», jf. straffeloven § 196, for eksempel ved at barnet får bistand på stedet fra lokale aktører. Konsulær bistand etter utenrikstjenesteloven er i dag ikke et rettskrav, og kan neppe anses som en pliktig avvergingshandling etter straffeloven § 196. En forsettlig eller grovt uaktsom unnlatelse av å handle kan etter omstendighetene være en overtredelse av straffeloven §§ 171 eller 172 om tjenestefeil. Videre vil unntaksregelen i § 196 tredje ledd bokstav b kunne være særlig aktuell for lokalt ansatte. Unntaket innebærer at brudd på avvergingsplikten ikke straffes når «plikten ikke kunne oppfylles uten å utsette ham selv, hans nærmeste eller noen uskyldige for siktelse eller tiltale eller fare for liv, helse eller velferd».
+
+Avvergingsplikten oppstiller en handleplikt, men gir i utgangspunktet ikke noe hjemmelsgrunnlag for å bryte andre rettsregler. Dette gjelder uavhengig av om handlingen som søkes avverget skjer i Norge eller i utlandet. Den straffesanksjonerte avvergingsplikten innebærer derfor verken rett eller plikt til å bryte vertslandets regler. Avvergingsplikten gir heller ikke hjemmelsgrunnlag for handlinger som ellers krever hjemmel i lov eller annet rettsgrunnlag. En eventuell avvergingsplikt for personell ved utenriksstasjoner vil dermed være begrenset til slike avvergingshandlinger som er omtalt ovenfor i punkt 35.2.2, eksempelvis å kontakte norsk politi. Etter omstendighetene kan avvergingsplikten oppfylles ved kontakt med vertslandets myndigheter, avhengig av en konkret vurdering. I noen tilfeller vil kontakt med andre lands myndigheter forsterke risikoen eller trusselbildet for den utsatte, og vil dermed ikke være egnet til å avverge handlingen.
+
+Det antas etter dette at avvergingsplikten etter § 196 for personell ved norske utenriksstasjoner ikke vil skille seg vesentlig fra den avvergingsplikten som gjelder for alle andre personer etter straffeloven § 5.
+
+## Andre lands rett
+
+### Danmark
+
+Den danske straffeloven § 141 om avvergingsplikt lyder:
+
+Stk. 1. Den, som er vidende om, at nogen af de i §§ 98, 99, 102, 106, 109, 110, 111, 112 og 113 omhandlede forbrydelser mod staten eller de øverste statsmyndigheder eller en forbrydelse, der medfører fare for menneskers liv eller velfærd eller for betydelige samfundsværdier, tilsigtes begået, og som ikke gør, hvad der står i hans magt, for at forebygge forbrydelsen eller dens følger, om fornødent ved anmeldelse til øvrigheden, straffes, hvis forbrydelsen bliver begået eller forsøgt, med bøde eller fængsel indtil 3 år.
+
+Stk. 2. Den, der undlader at foretage sådanne forebyggelseshandlinger, straffes dog ikke, hvis deres foretagelse for ham selv eller hans nærmeste ville medføre fare for liv, helbred eller velfærd.
+
+Straffebudene som er eksplisitt nevnt, er knyttet til landsforræderi, lovbrudd mot statens selvstendighet og sikkerhet og lovbrudd mot statsforfatningen og de øverste statsmyndighetene. Det er ikke nærmere presisert hvilke straffebestemmelser som omfattes av forbrytelser som medfører fare for menneskers liv eller velferd.
+
+Avvergingsplikten gjelder uavhengig av taushetsplikt.[^1830]
+
+Manglende avverging straffes ikke dersom avvergingshandlingene medfører fare for at personen eller hens nærmeste blir tiltalt for lovbruddet som skal avverges. Dette følger av alternativet fare for «velfærd».[^1831] Hvem som er de nærmeste er ikke definert i loven, men omfatter i hvert fall ektefeller, slektninger i rett linje, søsken, adoptivbarn og -foreldre og fosterbarn og -foreldre. Begrepet vil også kunne omfatte samboere, forlovede, andre slektninger som siktede har et nært forhold til og nært besvogrede.[^1832]
+
+### Sverige
+
+Reglene om avvergingsplikt følger av den svenske straffeloven (brottsbalken) 23 kap. 6 §, som lyder:
+
+Den som underlåter att i tid anmäla eller annars avslöja ett förestående eller pågående brott ska, i de fall det är särskilt föreskrivet, dömas för underlåtenhet att avslöja brottet enligt vad som är föreskrivet för den som medverkat endast i mindre mån till sådant brott. Högre straff än fängelse i två år får dock inte dömas ut. I de fall det är särskilt föreskrivet ska för underlåtenhet att avslöja brott även den dömas som inte haft uppsåt till men borde ha insett att brottet var förestående eller pågick.
+
+Den som har ett bestämmande inflytande i en sammanslutning och underlåter att förhindra ett brott inom ramen för sammanslutningen ska, i de fall det är särskilt föreskrivet, dömas för underlåtenhet att förhindra brottet enligt första stycket.
+
+För underlåtenhet att förhindra brott döms också en förälder eller annan uppfostrare eller förmyndare som underlåter att hindra den som står under hans eller hennes vård eller lydnad från att begå brott.
+
+Ansvar för underlåtenhet att avslöja eller förhindra brott förutsätter att
+
+1\. gärningen har fortskridit så långt att den är straffbar, och
+
+2\. brottet kan avslöjas eller förhindras utan fara för den handlande eller för någon annan och, i fall som avses i tredje stycket, att brottet kan förhindras utan anmälan till myndighet.
+
+Formuleringen «fare för den handlande» i fjerde ledd nr. 2 omfatter blant annet risiko for straffeforfølging.[^1833]
+
+Det er straffbart å unnlate å avsløre eller anmelde et forestående eller pågående lovbrudd for noen av lovbruddene denne utredningen omfatter, som menneskehandel og frihetsberøvelse, jf. 4 kap. 10 §, og kjønnslemlestelse, jf. lag (1982:316) med förbud mot könsstympning av kvinnor 2 §. Straffebudene om tvangsekteskap og *fridskränkning* er ikke omfattet av avvergingsplikten.
+
+23 kap. 6 § første ledd setter bare straff for å unnlate å anmelde lovbruddet eller avsløre det på annen måte, som å varsle den som lovbruddet er planlagt mot. Bestemmelsen stiller, i motsetning til den norske straffeloven § 196, ingen plikt til å avverge på andre måter enn ved anmeldelse eller avsløring.[^1834]
+
+## Hva er problemet?
+
+I mandatets bakgrunnsdel vises det til at fraværet av begrepet negativ sosial kontroll i lovgivningen kan bidra til uklarhet i tjenestene om når avvergingsplikten utløses. Utvalget er kjent med at mange opplever det som vanskelig å vurdere forholdet mellom taushetsplikt og avvergingsplikt. Tilsvarende gjelder forholdet mellom yrkesutøveres meldeplikt til barnevernstjenesten og avvergingsplikten. Ekspertgruppa om unge som etterlates i utlandet mot sin vilje (2020) har pekt på at det ikke er klart når ufrivillige utenlandsopphold utløser avvergingsplikt.[^1835] Utvalget har også notert seg at det i den pågående samfunnsdebatten etterlyses en avvergingsplikt etter mønster fra dansk lovgivning.
+
+## Utvalgets vurderinger og forslag
+
+### Hvordan vurdere om negativ sosial kontroll og ufrivillig utenlandsopphold utløser avvergingsplikten?
+
+Det kan være vanskelig å avgjøre om negativ sosial kontroll er så alvorlig at den rammes av straffebud som er omfattet av avvergingsplikten. Vurderingen vil blant annet avhenge av hvilke virkemidler som er benyttet i kontrollen og situasjonen for øvrig. Negativ sosial kontroll kan etter omstendighetene være av et slikt omfang, varighet og alvorlig karakter at terskelen for straffbar mishandling i nære relasjoner etter straffeloven § 282 er overtrådt. Straffebudet rammer både enkeltstående krenkelser (alvorlig mishandling) og handlingsmønstre som foregår over tid (gjentatt mishandling). Det mest aktuelle alternativet ved negativ sosial kontroll er handlingsmønstre som foregår over tid. For at negativ sosial kontroll skal utgjøre gjentatt mishandling av fornærmede, må krenkelsene samlet ha skapt «et mønster som resulterer i at den som rammes må leve under et ‘regime’ preget av kontinuerlig utrygghet og frykt».[^1836] Hvorvidt den negative sosiale kontrollen skaper et slikt fryktregime, beror på en konkret helhetsvurdering av hvor alvorlige krenkelsene har vært, hvordan de har påvirket fornærmedes liv og sinnstilstand, hvor hyppig og langvarig krenkelsene har foregått, samt fornærmedes sårbarhet og avhengighet av gjerningspersonen. For at psykiske krenkelser alene skal utgjøre mishandling, uten bruk av fysisk vold, skal det «en god del mer til».[^1837] Det er altså bare de mer alvorlige tilfellene av negativ sosial kontroll som utgjør mishandling etter § 282 og dermed utløser avvergingsplikten. Etter straffeloven § 196 kreves det da ikke bare at man holder det som sikkert eller mest sannsynlig at det vil bli begått en (ny) slik handling, men også at avvergeren har forsett om de andre vilkårene i bestemmelsen.[^1838]
+
+Den vanskelige vurderingen knyttet til mishandlingsbestemmelsen er blant annet omtalt i Justis- og beredskapsdepartementets veileder om taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen:
+
+Det kan være vanskelig å avgjøre om krenkelser i nære relasjoner er så alvorlige eller gjentatte at de rammes av denne bestemmelsen. Også andre straffebud som ikke er omfattet av avvergingsplikten kan være aktuelle. Gir en person sin ektefelle en ørefik, er det straffbart etter straffeloven § 271 om kroppskrenkelse, men slaget kan også være en del av gjentatte krenkelser som gjør at det kan oppstå spørsmål om overtredelse av straffeloven § 282.[^1839]
+
+Tilsvarende kan det være vanskelig å vurdere når negativ sosial kontroll når opp til terskelen for mishandling, eller om det kun handler om hensynsløs atferd etter straffeloven § 266, som ikke er omfattet av avvergingsplikten. Videre kan det være vanskelig å vurdere når risiko for ufrivillig eller skadelig utenlandsopphold utløser avvergingsplikten. For at avvergingsplikten skal inntre, må avvergeren holde det for sikkert eller mest sannsynlig at noen vil bli utsatt for straffbare handlinger som omtalt i § 196 i utlandet, for eksempel mishandling i nære relasjoner, grov frihetsberøvelse, hensettelse i hjelpeløs tilstand, tvangsekteskap, barneekteskap eller kjønnslemlestelse.[^1840] Risiko for ufrivillig utenlandsopphold for barn, uten at det også er risiko for handlinger som nevnt i § 196, er ikke omfattet av avvergingsplikten, men kan etter omstendighetene være omfattet av meldeplikt til barnevernstjenesten, se nærmere i kapittel 36.
+
+Med utvalgets forslag til nytt straffebud om skadelig utenlandsopphold, som også foreslås inntatt i straffeloven § 196 om avvergingsplikt, vil praktiseringen av avvergingsplikt ved risiko for skadelig utenlandsopphold bli enklere å praktisere.[^1841] Forslaget til nytt straffebud gjør det straffbart for personer med foreldreansvar å sende eller ta med et barn de har foreldreansvar for til utlandet til forhold som medfører alvorlig fare for barnet. Tilsvarende vil det være straffbart å etterlate et barn i utlandet til slike forhold. Hva slags forhold som anses å medføre alvorlig fare, er nærmere angitt i bestemmelsen og merknadene til bestemmelsen.
+
+Mange hjelpeinstanser står i dilemmaet mellom risikoen for å bryte lovbestemt taushetsplikt og å misligholde avvergingsplikten.[^1842] Begge forholdene er belagt med straff. Flere av straffebudene inntatt i bestemmelsen om avvergingsplikt inneholder sterkt vurderingspregete vilkår. I den forbindelse viser utvalget til at den som vurderer sin avvergingsplikt, ikke skal måtte ta stilling til spørsmålet om det allerede er begått tilstrekkelig alvorlige handlinger til at noen vil kunne straffes etter bestemmelser inntatt i straffeloven § 196 om avvergingsplikt. Spørsmålet er om opplysningene avvergeren sitter på, gjør at en holder det som «sikkert eller mest sannsynlig» at det *vil skje* slike straffbare handlinger.[^1843] Som omtalt i Justis- og beredskapsdepartementets veileder, vil en varsler som foretar en forsvarlig vurdering av situasjonen, og velger å anmelde eller på annen måte søke å avverge lovbruddet, ikke ha brutt taushetsplikten, selv om en senere rettslig vurdering viser at forholdet ikke ble rammet av et straffebud.
+
+Når ulike hjelpeinstanser som ellers er underlagt lovbestemt taushetsplikt skal foreta en forsvarlig vurdering av om negativ sosial kontroll i et konkret tilfelle utløser avvergingsplikten, må man se på den utsattes helhetlige situasjon. Både virkemidlene som er anvendt i kontrollen, kjennskap til familiens posisjon i storfamilie og nettverk (hva er for eksempel konsekvensen for familien ved et ærestap), hva slags reaksjoner den utsatte tidligere har fått på grunn av normbrudd mv. er av betydning ved vurderingen av om en person mest sannsynlig er eller vil bli utsatt for en handling som nevnt i § 196. Dersom barnevernstjenesten for eksempel er kjent med at en jente har blitt utsatt for tvangsekteskap, og søsteren nå har blitt avslørt i å ha kjæreste, kan dette etter en konkret vurdering tilsi at søsteren mest sannsynlig vil bli utsatt for handlinger omfattet av avvergingsplikten. At hjelpeinstansene har god fenomenforståelse og kjennskap til indikatorer på negativ sosial kontroll, æresmotivert vold, tvangsekteskap, kjønnslemlestelse og skadelig utenlandsopphold er av stor betydning for avvergingspliktens praktiske effekt for å forhindre at personer utsettes for slike handlinger. Som nevnt i kapittel 19 har flere kompetansemiljøer utarbeidet indikatorlister på negativ sosial kontroll og risikofaktorer for mer alvorlige straffbare handlinger.[^1844] Det er imidlertid viktig å arbeide videre med et felles verktøy for risikoanalyse, noe utvalget er kjent med er omfattet av Regjeringens opptrappingsplan mot vold og overgrep mot barn og vold i nære relasjoner (2024–2028).[^1845]
+
+### Er det behov for regelverksendringer for å tydeliggjøre når negativ sosial kontroll utløser avvergingsplikt?
+
+Som omtalt i kapittel 7, er utvalget av den oppfatning at negativ sosial kontroll er et uegnet begrep som utløsende vilkår for straffansvar. Utvalget foreslår derfor ikke at begrepet negativ sosial kontroll tas inn i straffeloven, verken som en egen straffebestemmelse eller i eksisterende bestemmelser. Utvalget anbefaler derfor heller ikke å gjøre endringer for å tydeliggjøre når negativ sosial kontroll utløser avvergingsplikten etter straffeloven § 196. Avvergingsplikten er knyttet til konkrete straffebud, og utvalget ser ingen grunn til å endre på det.[^1846] Derimot har utvalget forsøkt å klargjøre når handlinger som anses som negativ sosial kontroll kan være av en slik alvorlig karakter at de anses som straffbar mishandling som rammes av straffeloven § 282, og som derved utløser avvergingsplikt etter straffeloven § 196, se kapittel 7.
+
+### Bør flere straffebestemmelser tas inn i straffeloven § 196?
+
+Utvalget foreslår at straffeloven § 261 om omsorgsunndragelse omfattes av avvergingsplikten i straffeloven § 196. Bestemmelsen er nærmere omtalt i kapittel 14 om straff ved utenlandsopphold. Som omtalt i samme kapittel foreslår utvalget at en ny bestemmelse i straffeloven (§ 269) om skadelige utenlandsopphold bør omfattes av avvergingsplikten. Det er flere likhetstrekk mellom omsorgsunndragelse og det å utsette barn for skadelige utenlandsopphold. Etter utvalgets syn bør derfor avvergingsplikten omfatte begge lovbruddene. Når barnet er tatt med ut av landet, uavhengig av årsaken, er det ofte begrenset hva offentlige myndigheter kan gjøre for å få barnet tilbake. Utvalget mener derfor at det er av stor betydning å forhindre skadelige utenlandsopphold. Et egnet virkemiddel for å forebygge skadelige utenlandsopphold er å inkludere både omsorgsunndragelse og et nytt straffebud om skadelig utenlandsopphold i avvergingsplikten. For øvrig foreslår utvalget i utredningens kapittel 12 at utvalgets forslag til ny bestemmelse om barneekteskap (§ 253 a) tas inn i straffeloven § 196, slik at barneekteskap fortsatt er omfattet av avvergingsplikten.
+
+Med unntak for omsorgsunndragelse omfattes de fleste straffebudene som er aktuelle for denne utredningen allerede av avvergingsplikten i straffeloven § 196. Avvergingsplikten er begrenset til alvorlige lovbrudd, og ikke alle straffbare handlinger bør være omfattet. Utvalget ser ikke grunn til å inkludere andre straffebestemmelser som faller innenfor utredningens mandat i straffeloven § 196.
+
+### Bør avvergingsplikten i § 196 forenkles eller gjøres mer generell?
+
+Formålet med avvergingsplikten i straffeloven § 196 er å forsøke å forhindre grov kriminalitet ved å pålegge alle individer i samfunnet en plikt til å avverge konkrete alvorlige straffbare handlinger. I praksis vil plikten ofte bestå i å anmelde forhold til politiet. Gjennom en slik plikt til å anmelde personer, skal andre personer beskyttes mot å bli utsatt for grov kriminalitet.
+
+Bestemmelsen om avvergingsplikt blir ofte kritisert for å være komplisert og vanskelig å anvende. Det kan derfor være grunn til å vurdere om avvergingsplikten bør forenkles eller gjøres mer generell, som for eksempel etter modell av den danske straffeloven § 141. Etter denne bestemmelsen plikter enhver å avverge en «forbrydelse, der medfører fare for menneskers liv eller velfærd eller for betydelige samfundsværdier». Utvalget mener imidlertid at tilsvarende ordning ikke bør innføres i det norske regelverket. Etter hva utvalget er kjent med, anvendes ikke den danske straffeloven § 141 så vidt som ordlyden kan tilsi, og etter utvalgets oppfatning vil det være krevende å gi borgere en så vidtrekkende avvergingsplikt som den som følger av dansk straffelov § 141.
+
+Et moment som taler mot den danske løsningen, er at den danske ordlyden er både vid og vag. Alle personer i samfunnet pålegges en straffsanksjonert plikt til (i praksis) å anmelde et vidt spekter av pågående kriminalitet, uten at kriminaliteten er definert presist. Det vil være svært vanskelig for alle borgere å vite hvor grensen for straffbar opptreden går. Lovlydige borgere vil sannsynligvis bygge inn en sikkerhetsmargin. Et problem med dette, er at man kan nærme seg et angiversamfunn.
+
+Etter utvalgets oppfatning kan det ikke forventes at enhver har detaljert kunnskap om straffebudene som listes opp i den norske bestemmelsen, og utvalget erkjenner at innholdet kan være vanskelig å formidle til borgerne. Felles for de straffebudene som er listet opp i straffeloven § 196, som er aktuelle for temaet for denne utredningen, er imidlertid at handlingene kan føre til alvorlig fare for liv og helse. Det kan ikke utelukkes at bestemmelsen blir lettere å kommunisere dersom den i likhet med den danske loven tydeliggjør at enhver har en avvergingsplikt for «lovbrudd som kan føre til at en person vil bli utsatt for en handling som fører til alvorlig fare for liv og helse». På den annen side vil vurderingen av om et lovbrudd vil føre til alvorlig fare for liv og helse, også være en vanskelig vurdering. Klarhetskravet tilsier derfor at bestemmelsen fortsatt bør inneholde konkret opplistede straffebud som utløser avvergingsplikten. Bestemmelsene bør imidlertid konkretiseres og tydeliggjøres i veiledere for de ulike yrkesgruppene som særlig berøres.
+
+### Bør det gjøres endringer i straffeloven § 196 fjerde ledd?
+
+Utvalget ønsker å påpeke at flere spørsmål knyttet til straffeloven § 196 bør utredes nærmere. Etter bestemmelsens fjerde ledd gis omsorgspersoner en mer omfattende avvergingsplikt enn andre personer. Bestemmelsen ble i liten grad utredet i forkant av vedtakelsen. Tar man fjerde ledd på ordet, vil det også foreligge avvergingsplikt dersom gjerningspersonen truer med å ta livet av det fornærmede barnet eller andre barn om omsorgspersonen ringer politiet.
+
+Som omtalt under gjeldende rett ble bestemmelsen tilføyd av justiskomiteen uten forutgående høring, og forholdet til selvinkrimineringsvernet, passivt medvirkningsansvar og reglene om vitnefritak ble ikke vurdert i innstillingen. Bestemmelsen har hittil ikke vært prøvd i rettssystemet, og det er usikkert hvordan den vil fortolkes i praksis.
+
+Etter utvalgets syn er det grunn til å utrede nærmere om det er behov for endringer i bestemmelsen, både med tanke på hvilke lovbrudd avvergingsplikten bør gjelde for, hvilke farer det er rimelig at omsorgspersoner utsetter seg for ved avverging av lovbrudd, samt forholdet til selvinkrimineringsvernet, passivt medvirkningsansvar og reglene om vitnefritak.

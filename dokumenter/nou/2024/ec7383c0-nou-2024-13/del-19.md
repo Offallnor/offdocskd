@@ -1,909 +1,330 @@
-# NOU 2024: 13, del 19 av 47 (side 203–212)
+# NOU 2024: 13, del 19 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 203]
-
-NOU 2024: 13
-Lov og frihet
-
-rekryterar, transporterar, överför, inhyser
-eller tar emot en person i syfte att han eller hon
-ska exploateras för sexuella ändamål, avlägsnande av organ, krigstjänst, tvångsarbete eller
-annan verksamhet i en situation som innebär
-nödläge för den utsatte, döms för människohandel till fängelse i lägst två och högst tio år.
-Den som begår en gärning som avses i första stycket mot en person som inte har fyllt
-arton år döms för människohandel även om
-inte något sådant otillbörligt medel som anges
-där har använts. Detta gäller även om den som
-begår en sådan gärning inte haft uppsåt till
-men varit oaktsam beträffande omständigheten att den andra personen inte fyllt arton år.
-Är ett brott som avses i första eller andra
-stycket mindre grovt, döms till fängelse i lägst
-sex månader och högst fyra år.28
-Selv om tvangsekteskap og barneekteskap ikke er
-nevnt som utnyttelsesformål, er det forutsatt i forarbeidene at bestemmelsen etter omstendighetene vil kunne komme til anvendelse både ved
-tvangsekteskap og barneekteskap. En ung person
-som utnyttes seksuelt og til husarbeid i et
-tvangsekteskap nevnes i Prop. 2003/04:11129
-punkt 12 som et eksempel på at en person i en
-nødssituasjon (situation som innebär nödläge)
-utnyttes, jf. bestemmelsens første ledd. I Prop.
-2019/20:13130 punkt 5.4 nevnes flere eksempler
-på situasjoner som rammes av bestemmelsen:
-[…] tvångsäktenskap mot ersättning till annan
-(s.k. brudköp), situationer där en make eller
-hans familj eller klan har rätt att överlåta en
-kvinna till annan, situationer där en kvinna vid
-makens död är skyldig att låta sig ‘ärvas’ och
-situationer där personer under 18 år levereras
-av föräldrar eller förmyndare till annan i syfte
-att barnet ska exploateras […].
-
-Samme sted i proposisjonen er det vist til at foreldre som tar med seg et barn ut av landet med
-sikte på at barnet skal inngå ekteskap under visse
-omstendigheter kan gjøre seg skyldige i menneskehandel.
-I 2020 ble det gjort endringer i bestemmelsene
-om tvangsekteskap og barneekteskap (4. kap. 4 c
-§ og 4 d §, omtalt i punkt 12.3.2 slik at disse ble
-28
-
-Brottsbalk (1962:700): 4. kapittel 1 a §.
-29 Prop. 2003/04:111 Ett utvidgat straffansvar för människohandel.
-30 Prop. 2019/20:131 Ökat skydd mot hedersrelaterad brottslighet.
-
-201
-
-Kapittel 13
-
-gjort uttrykkelig subsidiære til menneskehandelsbestemmelsen.31 Dette innebærer at bestemmelsene om tvangsekteskap og barneekteskap bare
-skal brukes dersom bestemmelsen om menneskehandel ikke er anvendelig, jf. Prop. 2019/20:131
-punkt 5.4. Hvis den som skal dømmes for barneekteskap også har gjort seg skyldig i menneskehandel, skal personen derfor i stedet dømmes for
-menneskehandel, jf. samme sted i proposisjonen.
-Begrunnelsen for endringen er blant annet at
-manglende klarhet om subsidiaritetsspørsmålet
-kan medføre at politi og påtalemyndighet ikke stiller seg spørsmålet om det kan være snakk om
-menneskehandel, og dermed ikke benytter seg av
-alle de straffeprosessuelle tvangsmidlene som
-menneskehandelsbestemmelsens høye strafferamme åpner for. Dermed kan etterforskingen av
-saker som gjelder mistanke om kollektivt gjennomførte handlinger av denne typen bli mindre
-effektiv.
-
-13.3.3 Andre utvalgte land
-Enkelte andre land har tatt inn tvangsekteskap
-eksplisitt som en utnyttelsesform i sine straffebestemmelser om menneskehandel. Nedenfor nevnes noen eksempler. Gjennomgangen er ikke
-ment å være en uttømmende.
-Den islandske straffeloven artikkel 227a angir
-at utnyttelse av en person til tvangsekteskap kan
-utgjøre menneskehandel. Strafferammen er fengsel inntil 12 år. Bestemmelsen ble endret i mars
-2021 blant annet ved at tvangsekteskap ble tatt
-inn, og det foreligger ikke en offisiell engelsk
-oversettelse av bestemmelsen i skrivende stund.
-Artikkel 106 i kroatisk straffelov nevner blant
-annet det å utveksle eller overføre kontroll over
-en person med det formål å inngå ulovlig ekteskap
-og tvangsekteskap som en form for menneskehandel. Strafferammen er fengsel i 1 til 10 år, og 3
-til 15 år hvis forholdet er grovt.32
-13.3.4 EU
-I januar 2024 ble det i Den europeiske union (EU)
-oppnådd enighet mellom Europarådet og Europarlamentet om å inkludere tvangsekteskap, illegale adopsjoner og surrogati i EU Anti-trafficking
-Directive som særskilte utnyttelsesformer som
-31
-
-Brottsbalken er bygd opp slik at en rekke straffebestemmelser er gjort uttrykkelig subsidiære til hverandre for å
-unngå konkurrensspørsmål: For eksempel er menneskehandelsbestemmelsen uttrykkelig subsidiær til bestemmelsen om människorov (4. kap. 1 §).
-32
-Criminal Code of the Republic of Croatia article 106.
-
-[Side 204]
-
-202
-
-Kapittel 13
-
-NOU 2024: 13
-Lov og frihet
-
-skal dekkes av EUs Anti-trafficking law.33 Oppdatering av direktivet medfører at disse utnyttelsesformene nå tas inn i definisjonen av menneskehandel i EU.
-Direktivet angir minimumsregler som innebærer at det kan gjøres nasjonale tilpasninger i
-hvordan regelverket gjennomføres i hvert enkelt
-land. En forordning er identisk for alle EU/EØSland, mens et direktiv er et rammevedtak innenfor
-et bestemt virkeområde som setter mål og
-betingelser hvor medlemslandene selv må
-utforme spesifikk lovtekst. Oppdateringen av EUs
-Anti-trafficking direktivet medfører følgelig at
-EUs medlemsland må bringe sin nasjonale lovgivning i samsvar med direktivet ved å inkludere de
-nevnte utnyttelsesformene i definisjonen av menneskehandel i nasjonal lovgivning. Direktivet
-medfører også en harmonisering av definisjonen
-av menneskehandel i EU og hvilke utnyttelsesformer som rammes. Norge er ikke bundet av direktivet.
-
-13.4 Utvalgets vurderinger og forslag
-13.4.1 Oppfyller norsk rett våre
-menneskerettslige forpliktelser?
-Ingen internasjonale forpliktelser som Norge er
-bundet av, krever at tvangsekteskap eller barneekteskap skal regnes som et utnyttelsesformål i
-menneskehandelsbestemmelsen.
-Ekspertorganet for Europarådskonvensjonen om bekjempelse
-av menneskehandel, GRETA,34 har imidlertid ved
-flere anledninger anmodet medlemslandene om å
-sørge for at lovgivningen dekker tvangsekteskap
-som ledd i menneskehandel.35
-Etter utvalgets mening er den norske straffeloven i samsvar med våre internasjonale forpliktelser knyttet til menneskehandel og organisert kriminalitet. Utvalget mener imidlertid at Høyesteretts tolking av hva som skal anses som menneskehandel etter Palermo-protokollen ikke er korrekt, og derfor har ledet til noen domsavgjørelser
-i strid med denne. Utvalget viser til drøftelsen
-under punkt 1.2.3.2, og til særmerknaden fra Rui
-og Christoffersen i vedlegg 1.
-Utvalget foreslår enkelte lovendringer, se de
-følgende punktene.
-33
-
-https://ec.europa.eu/commission/presscorner/detail/
-en/ip_24_343
-34 Group of Experts on Action against Trafficking in Human
-Beings.
-35
-GRETA 2019: avsnitt 151.
-
-13.4.2 Bør tvangsekteskap og barneekteskap
-inntas som utnyttelsesformål
-i menneskehandelsbestemmelsen?
-Etter utvalgets mening bør tvangsekteskap og
-barneekteskap tas inn som utnyttelsesformål som
-kan utgjøre menneskehandel etter straffeloven
-§ 257. Dette kan gjøres ved å tilføye en ny bokstav
-e i bestemmelsens første ledd.
-Tvangsekteskap og barneekteskap utgjør i
-utgangspunktet ikke menneskehandel etter straffelov § 257. Personen som utsettes for tvangsekteskap eller barneekteskap kan imidlertid samtidig
-blir tvunget, utnyttet eller forledet til ett eller flere
-av formålene i bokstav a til d. I noen barneekteskap og tvangsekteskap benyttes barnet eller den
-voksne som en handelsvare for at noen andre skal
-oppnå en fordel. Dette er etter utvalgets syn i
-praksis handel med mennesker, men det er likevel
-uklart om dette rammes som menneskehandel
-etter dagens straffebestemmelse. Straffebudene
-om tvangsekteskap (§ 253) og barneekteskap
-(§ 262 andre ledd) fanger ikke opp det transaksjonselementet som ligger i straffebudet mot menneskehandel.
-Utvalget mener at det bør gjøres endringer i
-menneskehandelsbestemmelsen, slik at det ikke
-er tvil om at handlinger som har til formål å bringe
-en person inn i et tvangsekteskap eller barneekteskap kan straffes som menneskehandel. Det er
-etter utvalgets syn et behov for å synliggjøre og
-tydeliggjøre at tilfeller der et barn eller en voksen
-blir benyttet som en handelsvare utgjør menneskehandel i straffelovens forstand. Transaksjonselementet representerer en ytterligere krenkelse
-av personens menneskeverd, som ikke fanges opp
-av tvangsekteskapsbestemmelsen eller utvalgets
-forslag til en ny bestemmelse om barneekteskap,
-omtalt i kapittel 12.
-Forslaget om å ta inn tvangsekteskap som en
-særskilt form for menneskehandel innebærer å
-kriminalisere handlinger som i dag faller utenfor
-virkeområdet for tvangsekteskapsbestemmelsen i
-straffeloven § 253, blant annet forberedende
-handlinger som rekruttering og transport. I tillegg vil det innebære en tydelig presisering av at
-personer som utsettes for tvangsekteskap eller
-barneekteskap kan være ofre for menneskehandel og at handlingen derfor også skal kunne straffes som menneskehandel. Dette er i tråd med
-prinsippet om såkalt fair labelling eller målet om å
-finne adekvate merkelapper på ulike krenkelser.36
-36
-
-Jacobsen 2019: side 320-321; Holmberg 2020: side 410-413.
-
-[Side 205]
-
-NOU 2024: 13
-Lov og frihet
-
-Å bruke barn og voksne som et transaksjonsmiddel er en grov krenkelse av menneskeverdet,
-som både Grunnloven og EMK bygger på. Tilfeller
-der barn, eller voksne mot sin vilje, blir giftet bort
-og det er et klart element av at personen benyttes
-som en handelsvare, som et formuesgode eller for
-å oppnå en fordel, bør derfor etter utvalgets syn
-anses som en form for utnyttelse som kan rammes
-som menneskehandel. Dette bør gjelde uavhengig
-av om tvangsekteskapet eller barneekteskapet er
-økonomisk motivert, eller har sin årsak i andre
-motiver. Flere andre land har valgt å ta inn
-tvangsekteskap som en særlig utnyttelsesform i
-menneskehandelsbestemmelsen, og tvangsekteskap er også foreslått inntatt i EUs direktiv om
-menneskehandel. Selv om EU-direktivet ikke er
-bindende for Norge, taler dette for at tvangsekteskap og barneekteskap også bør tas inn i den norske straffebestemmelsen. Saker om menneskehandel er ofte transnasjonale, og det er en fordel om
-straffebestemmelsene på dette feltet er mest mulig
-like i de europeiske landene.
-Hva skal til for at et tvangsekteskap eller barneekteskap anses som menneskehandel?
-Etter utvalgets syn inngås ikke alle tvangsekteskap og barneekteskap på en slik måte at de bør
-rammes av straffeloven § 257 om menneskehandel. Det må derfor gjøres en nærmere avgrensning av hvilke ekteskap som skal rammes.
-Dersom tvangsekteskapet har et klart økonomisk motiv, taler dette for at det utgjør menneskehandel. Et eksempel kan være at familien må nedbetale gjelden sin ved å selge en datter, eller at
-motivet for ekteskapet er at familien får tilgang til
-eiendommer og penger.
-Også tilfeller der formålet er vinning av ikkeøkonomisk art, som at den ene parten oppnår
-vesentlig høyere sosial status eller andre goder
-ved å knytte to familier sammen gjennom ekteskap, kan etter omstendighetene rammes. Et
-tvangsekteskap kan også være en måte å få slektninger til Norge gjennom familieinnvandring.
-Utvalget mener at også slike motiv både kan og
-bør føre til at forholdet rammes som menneskehandel. Utvalgets forslag til endringer vil tydeliggjøre dette.
-Utvalget erkjenner at det ikke alltid vil være
-klart om en ekteskapsinngåelse skjer med sikte
-på at foreldre eller andre skal oppnå en fordel av
-økonomisk eller ikke-økonomisk art. Dette gjør at
-det i noen tilfeller kan bli vanskelig å vurdere hvilket straffebud som skal brukes i en konkret sak.
-Det kan for eksempel være tilfelle der motivasjo-
-
-203
-
-Kapittel 13
-
-nen bak ekteskapet alene er å gjenopprette eller
-bevare familiens ære, særlig datterens seksuelle
-ærbarhet. Da er ikke formålet nødvendigvis å
-oppnå en fordel, men å unngå tap av sosial posisjon, økonomiske fordeler eller viktige sosiale forbindelser. I slike tilfeller må det vurderes konkret
-om forholdet vil omfattes av menneskehandelsbestemmelsen.
-Utvalget understreker at grunnleggende menneskerettigheter og de rettigheter barn har etter
-barnekonvensjonen gjelder for alle uavhengig av
-religion og kultur. Et tvangsekteskap eller barneekteskap som har sin bakgrunn i tradisjon eller
-kultur der det er vanlig at foreldre velger ektefelle
-for sine barn, vil like fullt kunne være en skadelig
-praksis etter barnekonvensjonen og utgjøre et
-tvangsekteskap som rammes av menneskehandelsbestemmelsen der det er brukt virkemidler
-og begått handlinger som omfattes av ordlyden i
-§ 257 andre ledd bokstav a til c.
-Personkretsen som rammes
-Som nevnt i punkt 13.2.3, har Høyesterett slått fast
-at straffeloven § 257 om menneskehandel skal tolkes slik at bestemmelsen bare rammer den som
-har hatt en rolle som bakmann.37 Tolkingen er
-basert på at kriminaliseringsforpliktelsen etter
-Palermo-protokollen ikke strekker seg lenger enn
-til slike bakmenn, se punkt 13.2.1. Utvalget er
-uenig i Høyesteretts tolking av rekkevidden av
-kriminaliseringsforpliktelsen etter Palermo-protokollen. Utvalgets syn er at kriminaliseringsforpliktelsen går vesentlig lenger enn det Høyesterett la
-til grunn i de nevnte avgjørelsene. Det er heller
-ikke uvanlig at nasjonal rett går lenger enn forpliktelsene etter konvensjonene krever, og lovgiver
-uttrykte dette tydelig da menneskehandel ble tatt
-inn i den norske straffeloven i 2003.38
-I saker om tvangsekteskap og barneekteskap
-vil foreldre, søsken og andre som bidrar til at et
-tvangsekteskap eller barneekteskap kommer i
-stand kunne utføre typiske «bakmannshandlinger», selv om det ikke er like naturlig å betegne
-dem som «menneskehandlere». Slike handlinger
-vil for eksempel kunne være å motta betaling eller
-fordel for å samtykke til ekteskapet eller den ekteskapslignende forbindelsen, jf. § 257 andre ledd
-bokstav c, eller på annen måte bidra til at
-tvangsekteskapet eller barneekteskapet kommer i
-stand ved for eksempel å anskaffe og transportere
-37
-38
-
-HR-2020-2136-A og HR-2020-2137-A.
-Ot.prp. nr. 62 (2002–2003) punkt 6.5.1.3 og merknader til
-straffeloven 1902 § 224.
-
-[Side 206]
-
-204
-
-Kapittel 13
-
-NOU 2024: 13
-Lov og frihet
-
-personen til landet hvor personen skal giftes bort,
-jf. § 257 andre ledd bokstav a. Personene bidrar da
-til at den utsatte bringes inn i en situasjon som
-hen ikke har noen reell mulighet til å komme seg
-ut av. Slike handlinger vil i tråd med utvalgets forslag kunne rammes av § 257 andre ledd.
-I de tilfeller der et tvangsekteskap eller barneekteskap inngås for at noen skal oppnå en fordel,
-vil det ofte være foreldre, slektninger eller andre
-personer som oppnår denne fordelen. Det kan for
-eksempel være et betydelig økonomisk vederlag
-fra slekten til den kommende ektefellen, eventuelt
-i kombinasjon med høyre sosial status, eller gjentjenester av ikke-økonomisk art. En slik bruk av
-andre mennesker for å oppnå en økonomisk eller
-annen fordel, vil klart falle inn under ordlyden i
-§ 257 andre ledd bokstav c, og bør derfor rammes
-av bestemmelsen om menneskehandel. Hvis
-tvangsekteskap og barneekteskap eksplisitt tas
-inn som utnyttelsesformål i straffebestemmelsen
-om menneskehandel, vil bestemmelsen ramme
-transaksjoner og avtaler som klart bærer preg av
-at mennesker utnyttes som formuesgoder, også
-der det er foreldre, søsken, andre slektninger
-eller nærstående utenfor familien som står for
-utnyttelsen.
-Enkelte konsekvenser av forslaget
-Strafferammen for tvangsekteskap og simpel
-menneskehandel er den samme, og utvalgets forslag vil derfor ikke nødvendigvis medføre at handlingene vil bli straffet strengere enn i dag. Forslaget vil imidlertid innebære at grove tilfeller vil
-kunne falle inn under straffeloven § 258, og dermed ha en strafferamme på fengsel i inntil 10 år.
-Dette vil særlig ha betydning i tilfeller hvor personen som utsettes for tvangsekteskapet er under 18
-år, da disse tilfellene normalt vil anses som grov
-menneskehandel. Det er i dag ingen bestemmelse
-om «grove» tvangsekteskap eller barneekteskap,
-og strafferammen er den samme enten personen
-er over eller under 18 år.
-Forslaget innebærer også at flere personer
-kan bli holdt strafferettslig ansvarlig for sin delak-
-
-tighet i tvangsekteskap og barneekteskap, da personkretsen som kan rammes av straffebestemmelsen om menneskehandel er noe videre enn i
-straffebestemmelsen om tvangsekteskap og utvalgets forslag til en ny bestemmelse om barneekteskap. Forslaget kan derfor ha en viktig allmennpreventiv effekt, i tillegg til at det er i samsvar
-med forslag til endringer i EU-direktivet om menneskehandel og anbefalingene fra GRETA til
-Norge og andre land.
-Bestemmelsene om tvangsekteskap og barneekteskap kan i dag etter omstendighetene benyttes i konkurrens med bestemmelsen om menneskehandel. En konsekvens av utvalgets forslag er
-at disse bestemmelsene ikke lenger vil kunne
-benyttes i konkurrens fordi menneskehandelsbestemmelsene vil anvendes der tvangs- eller barneekteskap inngås i et transaksjonsøyemed.
-
-13.4.3 Menneskehandelsbestemmelsen bør
-revideres i sin helhet
-Menneskehandelsbestemmelsen er i liten grad
-endret siden den ble vedtatt i 2002. Bestemmelsen
-tar ikke høyde for alle formål ofre for menneskehandel kan utnyttes til, som ulovlig adopsjon og
-seksuelle overgrep og utnyttelse på nett. Bestemmelsen reflekterer heller ikke den rettstilstanden
-som er etablert ved HR-2020-2136-A og HR-20202137-A, som innebærer at straffebestemmelsen
-bare rammer personer som har en rolle som bakmenn, eventuelt kombinert med egen utnyttelse.
-Det ligger utenfor utvalgets mandat å foreslå
-en større revidering av menneskehandelsbestemmelsen. Utvalget vil likevel understreke at det er
-et stort behov for at straffeloven §§ 257 og 258
-revideres i sin helhet. I dette arbeidet bør det også
-ses hen til forslaget endringer i EUs menneskehandelsdirektiv, slik at straffebestemmelsene er
-mest mulig like i de europeiske landene. For øvrig
-vises det til særmerknad fra Christoffersen og Rui
-«Behov for revisjon av straffeloven § 257 om menneskehandel», se vedlegg 1.
-
-[Side 207]
-
-NOU 2024: 13
-Lov og frihet
-
-205
-
-Kapittel 14
-
-Kapittel 14
-
-Straff ved skadelige utenlandsopphold
-14.1 Innledning
-I dette kapittelet belyser utvalget de strafferettslige
-delene av bokstav c i mandatet om «styrking av
-rettsvernet for barn og unge som er ufrivillig etterlatt i utlandet». Utvalget tolker mandatet til å
-omfatte barn og unge både over og under 18 år.
-Utvalget vurderer «hvilke straffebud som gjelder i
-slike saker, og om det er behov for å tydeliggjøre
-hjemler i straffeloven som holder foreldre ansvarlige dersom barn sendes på utenlandsopphold mot
-sin vilje». Videre omhandler kapittelet spørsmålet
-om «hvorvidt/når forberedelse til slike reiser er
-straffbart». På bakgrunn av disse vurderingene
-drøfter utvalget om det er behov for et eget straffebud som rammer skadelige utenlandsopphold.
-
-14.2 Menneskerettslige
-kriminaliseringsforpliktelser
-Ingen menneskerettslige bestemmelser i Grunnloven eller i internasjonale konvensjoner som
-Norge er bundet av, stiller eksplisitt krav om at
-Norge kriminaliserer ufrivillige eller skadelige
-utenlandsopphold. Som omtalt i kapittel 5, 6 og 7
-har staten etter flere menneskerettighetsbestemmelser plikt til å kriminalisere forsettlige
-handlinger som grovt krenker grunnlovfestede
-rettigheter. Barn har etter Grunnloven § 104 rett
-til vern om sin personlige integritet, og statens
-myndigheter skal sikre barnets sosiale og helsemessige trygghet. Fra denne forpliktelsen kan det
-likevel ikke utledes et særskilt krav om kriminalisering av skadelige utenlandsopphold i egne straffebud.
-Barnekonvensjonen artikkel 19 pålegger statene å treffe alle egnede tiltak for å beskytte barn
-mot alle former for vold og mishandling. Kriminalisering må anses som et egnet, nødvendig og proporsjonalt tiltak ved grove krenkelser av barns
-rettigheter. I dette kapittelet drøftes det blant
-annet om straffelovgivningen bør inneholde
-bestemmelser som kriminaliserer foreldre som
-
-sender eller etterlater barn i utlandet med stor
-risiko for alvorlige skadefølger.
-
-14.3 Gjeldende rett
-14.3.1 Straffelovens anvendelse på
-handlinger begått i utlandet
-Saker om ufrivillige eller skadelige utenlandsopphold reiser ikke sjeldent spørsmål om jurisdiksjon. For spørsmålene i mandatet om hvilke straffebud som gjelder i saker om ufrivillige utenlandsopphold, er det derfor av betydning om norsk
-straffelov får anvendelse på handlinger begått i
-utlandet eller ikke. Hovedregelen er at straffelovens virkeområde er i Norge og på norske jurisdiksjonsområder, jf. straffeloven § 4. Norsk strafferett kan likevel gjelde for handlinger begått i
-utlandet etter nærmere vilkår angitt i straffeloven
-§ 5.
-Hovedregelen etter § 5 første ledd nr. 1 er at
-straffelovgivningen får anvendelse på handlinger
-som utføres i utlandet av en norsk statsborger eller
-av en person med bosted i Norge, dersom handlingene er straffbare også i landet der handlingene er
-begått. Bestemmelsen oppstiller altså en hovedregel om et krav om dobbel straffbarhet. Det kreves
-ikke full identitet mellom straffebudene, men handlingen må kunne bli rammet av et straffebud også i
-det landet den finner sted. Straffbarhetsbetingelsene på handlingsstedet må være oppfylt,1 og ulike
-unnskyldningsgrunner vil kunne utelukke straffansvar. Dette er praktisk viktig ettersom lovgivningen
-i enkelte land gir en ektefelle (typisk mannen) rett
-til å bestemme over kvinnen, og i noen land er
-ellers straffbare handlinger mot barn straffrie dersom de skjer som ledd i oppdragelsen eller disiplineringen av barnet.
-Selv om den aktuelle handlingen er straffbar i
-gjerningslandet, kan kravet om dobbel straffbarhet
-likevel vanskeliggjøre straffeforfølging i Norge.
-1
-
-Ot.prp. nr. 90 (2003–2004) merknader til straffeloven 2005
-§ 5.
-
-[Side 208]
-
-206
-
-Kapittel 14
-
-NOU 2024: 13
-Lov og frihet
-
-Gjerningslandets lovgivning må kunne dokumenteres, noe som kan være vanskelig dersom gjerningslandet er utenfor Europa. Etter rettspraksis stilles
-det strenge krav til dokumentasjonen. Ifølge Høyesterett må domstolene «på et betryggende grunnlag ha kunnet avklare at handlingen er straffbar
-også etter loven i landet den er foretatt».2 Det kan i
-noen tilfeller være krevende å få nødvendig dokumentasjon for hva som er straffbart, for eksempel
-på grunn av krig eller at landet av andre grunner
-mangler et velfungerende statsapparat.3
-Unntakene fra krav om dobbel straffbarhet får
-dermed praktisk stor betydning for adgangen til å
-straffe handlinger begått i utlandet av norske
-statsborgere eller personer bosatt i Norge. Straffeloven § 5 første ledd nr. 2 til 13 etablerer jurisdiksjon for nærmere bestemte lovbrudd selv om
-vilkåret om dobbel straffbarhet ikke er oppfylt.
-Dette gjelder blant annet for straffebudene om
-tvangsekteskap (§ 253), menneskehandel (§§ 257
-og 258), barneekteskap (§ 262 andre ledd) og
-kjønnslemlestelse (§§ 284 og 285). Det samme
-gjelder flere typer seksuallovbrudd, blant annet
-voldtekt og seksuelle overgrep mot barn (§§ 291
-til 296, 299 til 306 og 309 til 316).
-I straffeloven 1902 § 12 var flere straffebestemmelser unntatt fra kravet om dobbel straffbarhet
-enn etter straffeloven 2005. For eksempel var frihetsberøvelse unntatt fra krav om dobbel straffbarhet etter straffeloven 1902, mens bestemmelsene ikke er unntatt etter straffeloven 2005.
-Begrunnelsen for at opplistingen i straffeloven
-2005 § 5 er snevrere og at det oppstilles en hovedregel om krav om dobbel straffbarhet, er særlig
-hensynet til forutberegnelighet og til handlingslandets suverenitet, jf. Ot.prp. nr. 90 (2003–2004).4
-Listen over unntak er siden vedtakelsen av straffeloven 2005 utvidet en rekke ganger, blant annet er
-enkelte seksuallovbrudd, menneskehandel og
-omsorgsunndragelse i ettertid unntatt fra kravet
-om dobbel straffbarhet.
-Selv om et straffebud ikke er unntatt fra krav
-om dobbel straffbarhet, kan handlinger som er
-2
-3
-
-4
-
-HR-2017-1947-A (avsnitt 25).
-Se til illustrasjon LH-2016-48433, som gjaldt en norsk statsborger tiltalt for å ha frihetsberøvet kone og fem barn i
-Syria i 2014. Mannen ble frifunnet i tingretten fordi det ikke
-var bevist at kravet om dobbel straffbarhet var oppfylt. Lagmannsretten opphevet tingrettens dom på grunn av saksbehandlingsfeil, både manglende kontradiksjon og manglende opplysning av saken. I 2020 henla Riksadvokaten
-saken med begrunnelsen at det ikke var mulig å finne ut
-om det var syrisk lovgivning eller islamsk shariarett (som
-gir mannen rett til å bestemme hvor familien skal bo) som
-gjaldt i 2014 i området der de hadde oppholdt seg.
-Ot.prp. nr. 90 (2003–2004) punkt 13.5.5.4.2.
-
-begått delvis i Norge og delvis i utlandet likevel
-under visse omstendigheter straffes i Norge, jf.
-HR-2018-2043-A og HR-2018-2044-A.5 Det kreves
-for det første at straffebudet beskriver det straffbare forholdet på en måte som rommer flere
-enkelthandlinger, eller at det gjelder en fortsatt
-straffbar handling. Straffebestemmelsene om mishandling i nære relasjoner (§§ 282 og 283) og frihetsberøvelse (§§ 254 og 255) er eksempler på
-straffebud som rommer flere enkelthandlinger. I
-slike saker kan de forskjellige handlingene være
-begått i ulike land.
-For det andre er det et krav om at den straffbare handlingen er påbegynt i Norge, og at oppholdet i utlandet er midlertidig.6 I slike tilfeller
-kan norsk straffelovgivning anvendes også på de
-handlingene som har funnet sted i utlandet, jf.
-straffeloven § 4. Hvis gjerningspersonen har
-bosatt seg i et annet land permanent, kan norsk
-straffelovgivning likevel ikke anvendes på handlingene i utlandet, ettersom det ikke ville være i
-samsvar med hensynet til forutberegnelighet.7
-
-14.3.2 Aktuelle straffebud i saker om
-utenlandsopphold
-14.3.2.1 Oversikt
-Straffeloven har ikke et straffebud som særskilt
-rammer det å sende barn eller voksne på ufrivillige eller skadelige utenlandsopphold. En rekke
-straffebestemmelser kan imidlertid ramme
-handlinger som begås i forbindelse med reisen.
-Det kan skilles mellom handlinger som begås før
-eller under reisen fra Norge, og handlinger som
-begås under oppholdet i utlandet.
-Enkelte handlinger som begås før eller under
-reisen fra Norge med sikte på å få personen ut av
-landet, kan innebære overtredelse av ulike straffebestemmelser. Aktuelle straffebestemmelser etter
-straffeloven er for eksempel trusler (§§ 263 og
-264), tvang (§§ 251 og 252) og frihetsberøvelse
-(§§ 254 og 255), se utredningens punkt kapittel 7
-for en nærmere omtale av disse bestemmelsene.
-Dersom foreldre truer barna med vold om de ikke
-blir med på reisen, kan det innebære straffbar
-tvang (§ 251) eller trusler (§ 263). Dersom en ung
-voksen kjøres til flyplassen uten mulighet til å
-komme seg ut av bilen, for deretter å trues til å bli
-med på flyet, kan straffebudene om trusler (§ 263)
-og frihetsberøvelse (§ 254) være aktuelle.
-5
-6
-7
-
-Se også Frøberg 2021.
-Holmboe 2019: punkt 2.2.
-HR-2018-2043-A; Frøberg 2021.
-
-[Side 209]
-
-NOU 2024: 13
-Lov og frihet
-
-En rekke handlinger i forbindelse med reisen
-fra Norge vil ikke være straffbare, for eksempel
-om det benyttes ikke-straffbare trusler eller tvang.
-Straffeloven § 251 omfatter for eksempel ikke
-ulike former for påvirkning og press som får en
-person av egen vilje til å foreta seg noe.
-Handlinger som begås under oppholdet i utlandet kan rammes av ett eller flere straffebud i straffeloven. For eksempel kan fornærmede bli tvangsgiftet (§ 253), kjønnslemlestet (§ 284) eller bli utsatt
-for alvorlige voldslovbrudd (§§ 274 følgende), seksuallovbrudd (§§ 291 følgende) eller mishandling i
-nære relasjoner (§§ 282 og 283). Om handlingen
-skjer i Norge eller utlandet, har ikke betydning for
-vurderingen av om gjerningsbeskrivelsen er oppfylt. Det som avgjør om handlingene kan straffes
-etter norsk lov er om vilkårene i straffeloven § 5 er
-oppfylt, se forrige punkt om straffelovens anvendelse på handlinger begått i utlandet.
-
-14.3.2.2 Nærmere om frihetsberøvelse
-(straffeloven §§ 254 og 255)
-Straffeloven §§ 254 og 255 om frihetsberøvelse er
-grundig omtalt i utredningens kapittel 7. Spørsmålet i det følgende er om skadelige eller ufrivillige
-utenlandsopphold kan falle inn under disse
-bestemmelsene.
-Frihetsberøvelse etter straffeloven § 254 må i
-utgangspunktet skje ved fysiske hindringer, og frihetsberøvelsen må være total. Dersom en person
-rettsstridig innesperres i utlandet, enten det skjer
-i et privat hjem, på en institusjon eller andre steder, vil innesperringen klart utgjøre frihetsberøvelse etter § 254. Det gjelder selv om vedkommende kan bevege seg fritt innenfor et større
-område, som et hus med tilhørende hage, hvis
-høye murer gjør det vanskelig å forlate stedet.
-En person kan være frihetsberøvet selv om det
-i perioder ikke foreligger fysiske hindringer. Det
-kan for eksempel være dersom personen iblant er
-alene i et privat hjem og ikke er fysisk forhindret i
-å forlate huset, men der det foreligger trusler om
-vold eller andre alvorlige integritetskrenkelser
-dersom hen forlater huset. Hvis personen som
-følge av trusler ikke tør å forlate hjemmet, men
-det ikke på noe tidspunkt foreligger fysiske hindringer, er det imidlertid ikke tilstrekkelig til å
-utgjøre frihetsberøvelse.8
-Ekspertgruppa om unge som etterlates i utlandet mot sin vilje har i sin rapport stilt spørsmål om
-fratakelse av identitetspapirer, reisedokumenter,
-mobiltelefon, penger eller andre gjenstander som
-8
-
-Se kapittel 7.
-
-207
-
-Kapittel 14
-
-er nødvendige for å returnere til Norge kan utgjøre
-frihetsberøvelse i straffelovens forstand.9 I lys av at
-det som utgangspunkt kreves fysiske hindringer,
-vil det å bli fratatt identitetsdokumenter eller reisedokumenter i seg selv neppe utgjøre frihetsberøvelse i straffelovens forstand. Det må det skilles
-mellom fratakelse av bevegelsesfriheten og begrensninger i denne friheten. Selv om reisedokumenter
-eller andre gjenstander er en nødvendig forutsetning for å reise hjem til Norge, vil fratakelse av
-slike dokumenter snarere utgjøre innskrenkninger
-i bevegelsesfriheten enn fratakelse av denne. Fratakelse av reisedokumenter kan imidlertid være en
-av flere begrensninger som til sammen innebærer
-at personen må anses frihetsberøvet. For eksempel
-kan kontroll av en persons bevegelser, trusler om
-vold dersom hen forlater et sted og fratakelse av
-reisedokumenter og mobiltelefon, til sammen innebære så omfattende begrensninger i bevegelsesfriheten at personen anses frihetsberøvet.
-Grensene mellom begrensninger i bevegelsesfriheten og frihetsberøvelse er imidlertid ikke
-klare. Utvalget kjenner heller ikke til rettspraksis
-som belyser spørsmålet. Bortføring og innesperring, som nevnes konkret i § 254, trekker i retning
-av at det kreves omfattende inngrep i bevegelsesfriheten for at bestemmelsen skal komme til
-anvendelse. I lys av det strafferettslige klarhetskravet, kan anvendelsesområdet for det straffbare
-ikke trekkes for langt.
-Noen særlige spørsmål oppstår ved spørsmål
-om et barn anses frihetsberøvet. Som det er redegjort for i kapittel 26 om foreldreansvar og barnets rettigheter, har foreldre en viss myndighet til
-å begrense barns bevegelsesfrihet etter foreldreansvaret, avhengig av barnets alder og modenhet.
-I vurderingen av om frihetsberøvelsen er lovlig,
-vil varigheten av restriksjonene, barnets alder og
-forholdene ellers ha betydning. Det avgjørende vil
-være om barnet rettsstridig er ilagt så strenge
-restriksjoner i bevegelsesfriheten at dette innebærer at barnet er «fratatt friheten» etter § 254.
-Hvor strenge restriksjoner som skal til for at
-denne grensen er overtrådt, er imidlertid ikke
-klart etter gjeldende rett.
-Det synes likevel klart at de fleste ufrivillige
-eller skadelige utenlandsopphold ikke vil rammes
-av straffeloven § 254.
-Straffebudet om frihetsberøvelse er ikke unntatt kravet om dobbelt straffbarhet etter straffeloven § 5. For å kunne bli dømt for frihetsberøvelse i Norge, kreves det derfor at forholdet også
-9
-
-Spørsmålet har vært reist i Ekspertgruppa om unge som
-etterlates i utlandet mot sin vilje 2020: punkt 7.3.
-
-[Side 210]
-
-208
-
-Kapittel 14
-
-NOU 2024: 13
-Lov og frihet
-
-er straffbart i landet der utenlandsoppholdet foregår.
-
-følges i Norge dersom handlingen også er straffbar i gjerningslandet.
-
-14.3.2.3 Nærmere om hensettelse i hjelpeløs
-tilstand (straffeloven § 288)
-Straffeloven § 288 første punktum rammer den
-som «hensetter en annen i hjelpeløs tilstand med
-fare for liv, kropp og helse». Strafferammen er
-fengsel i inntil tre år.
-Ifølge forarbeidene er kjernen i kriteriet «hjelpeløs tilstand» at personen trenger hjelp, og at situasjonen utgjør en fare for liv, kropp eller helse.10
-Det stilles ikke et strengt krav til sannsynligheten
-for skade. Fornærmedes hjelpeløshet må skyldes
-gjerningspersonens handling, jf. ordet «hensetter».
-Etter andre punktum rammes den som «unnlater å gi hjelp til noen i hjelpeløs tilstand som vedkommende har en plikt til å dra omsorg for». Formuleringen «plikt til å dra omsorg for» omfatter
-blant annet den med foreldreansvar for barn.11 I
-motsetning til i § 288 første punktum behøver
-ikke omsorgspersonen å ha forårsaket den hjelpeløse tilstanden for å ha en aktivitetsplikt.12
-Paragraf 288 kan etter sin ordlyd være aktuell
-å anvende på tilfeller der et barn sendes til eller
-etterlates i utlandet. Det kan være tilfeller der et
-lite barn etterlates i utlandet uten egnede
-omsorgspersoner under forhold som gjør at barnets liv eller helse vil være i fare. Det kan også
-tenkes at en forelder får kunnskap om at hens
-barn er i en situasjon i utlandet som utgjør en fare
-for liv og helse, og unnlater å hjelpe ved for
-eksempel å hente barnet hjem eller samtykke til
-passutstedelse så barnet kan returnere. Det vil
-være utfordrende å bevise slike situasjoner.
-Bestemmelsen er i tillegg utformet med tanke på
-de mer akutte faresituasjonene, særlig der gjerningspersonen har forårsaket den hjelpeløse tilstanden. I praksis kommer ofte straffeloven § 288
-til anvendelse i forbindelse med voldsutøvelse, og
-da først og fremst knyttet til gjerningspersonens
-handlinger eller unnlatelser etter at voldsutøvelsen er avsluttet. Utvalget har ikke funnet eksempler på at bestemmelsen er brukt ved ufrivillig
-eller skadelige utenlandsopphold, verken for
-voksne eller barn.
-Straffebestemmelsen er ikke unntatt krav om
-dobbel straffbarhet etter § 5, og hensettelse i hjelpeløs tilstand i utlandet kan derfor bare straffefor-
-
-14.3.2.4 Nærmere om omsorgsunndragelse
-(straffeloven § 261)
-Straffeloven § 261 rammer omsorgsunndragelse.
-Etter første ledd andre punktum straffes den som
-«tar en mindreårig ut av landet eller holder tilbake
-en mindreårig i utlandet og ved det ulovlig unndrar den mindreårige fra noen som i henhold til
-lov, avtale eller rettsavgjørelse har foreldreansvar». Tilsvarende gjelder når det er eller er i ferd
-med å bli fattet nærmere definerte vedtak etter
-barnevernsloven, blant annet vedtak om institusjonsplassering eller omsorgsovertakelse, jf.
-tredje punktum og barnevernsloven § 5-6. Strafferammen er bot eller fengsel inntil to år.
-Straffeloven § 261 rammer både bortføring av
-barnet fra Norge og tilbakeholdelse i utlandet,
-typisk etter en ferie eller samvær med slektninger
-eller en forelder. Det har ikke betydning for straffansvar hvem som bortfører barnet.13 At unndragelsen må være ulovlig, betyr ifølge forarbeidene
-at den må skje i strid med den underliggende sivilretten, først og fremst reglene i barnelova og barnevernsloven. Det er tilstrekkelig for straffansvar
-at unndragelsen blir ulovlig i utlandet, for eksempel dersom barnet ikke returnerer til avtalt tid. En
-svært kortvarig tilbakeholdelse er likevel ikke tilstrekkelig for straff.14 Straffebestemmelsen rammer ikke situasjoner der foreldrene er enige om at
-barnet skal bo eller oppholde seg i utlandet, for
-eksempel dersom foreldrene etterlater barnet hos
-slektninger.
-Grov omsorgsunndragelse straffes med fengsel i inntil seks år, jf. § 261 andre ledd. Ved avgjørelsen av om omsorgsunndragelsen er grov skal
-det særlig legges vekt på hvilken belastning den
-har påført barnet. Ifølge forarbeidene er viktige
-momenter i denne vurderingen «hvor og under
-hvilke forhold barnet har måttet oppholde seg
-under omsorgsunndragelsen, om barnet er bortført til et annet land, hvor lenge unndragelsen har
-vart, og hva slags kontakt barnet har fått ha med
-den omsorgsberettigede».15 Barnebortføring til
-utlandet etter første ledd andre punktum vil lett
-kunne regnes som grovt, «særlig hvis barnet da er
-sammen med en eller to foreldre som er vurdert
-som uskikket til å ha barnet».16
-
-10
-
-Ot.prp. nr. 22 (2008–2009) punkt 16.6.
-11
-Ibid.
-12
-Ibid.
-
-13
-
-Prop. 46 L (2011–2012) merknader til straffeloven 2005
-§ 261.
-14
-Ibid.
-15
-Ot.prp. nr. 22 (2008–2009) merknader til § 261.
-
-[Side 211]
-
-NOU 2024: 13
-Lov og frihet
-
-Straffeloven § 261 er unntatt kravet om dobbel
-straffbarhet etter § 5 første ledd nr. 8. Omsorgsunndragelser i utlandet kan derfor straffeforfølges i Norge uavhengig av om forholdet er straffbart i gjerningslandet.
-
-14.3.3 Når er forberedelse til ufrivillige
-utenlandsopphold straffbart?
-14.3.3.1 Innledning
-Den klare hovedregelen i norsk strafferett er at
-forberedelseshandlinger ikke er straffbare. Straffansvar inntrer først når terskelen for straffbart forsøk etter straffeloven § 16 er overtrådt. Enkelte
-straffebestemmelser har imidlertid kriminalisert
-forberedelsesstadiet. Av særlig betydning i saker
-om utenlandsopphold er straffebestemmelsene
-om forledelse til tvangsekteskap (§ 253 andre
-ledd) og forbund om grov frihetsberøvelse (§ 256)
-som omhandles nærmere nedenfor.
-14.3.3.2 Forsøk
-Det å sende barn og unge på ufrivillige eller skadelig utenlandsopphold er i seg selv ikke straffbart etter gjeldende rett. Forberedelser til et utenlandsopphold kan imidlertid straffes dersom en
-straffbar handling skal begås under oppholdet, og
-terskelen for straffbart forsøk etter straffeloven
-§ 16 er passert. Slik lyder § 16:
-Den som har forsett om å fullbyrde et lovbrudd som kan medføre fengsel i 1 år eller mer,
-og som foretar seg noe som leder direkte mot
-utføringen, straffes for forsøk, når ikke annet
-er bestemt.
-Den som frivillig avstår fra å fullbyrde lovbruddet eller avverger at det blir fullbyrdet,
-straffes likevel ikke for forsøk.
-Straffbart forsøk krever både at gjerningspersonen
-må ha «forsett om å fullbyrde et lovbrudd», og at
-hen foretar seg noe som «direkte leder mot utføringen». I vurderingen av sistnevnte må det blant
-annet legges vekt på «den tidsmessige nærhet mellom det som er gjort, og det som gjenstår, handlingenes karakter og den psykologiske forskjell mellom dem», jf. Rt. 2008 s. 867.17 Grensen mellom
-straffbart forsøk og straffrie forberedende
-handlinger beror på en konkret vurdering, der både
-16
-17
-
-Ibid.
-Rt. 2008 s. 867 (avsnitt 20).
-
-209
-
-Kapittel 14
-
-straffebudet, faktum og gjerningspersonens forsett
-om den videre gjennomføringen er av betydning.18
-For at forsøksansvar skal være aktuelt i saker
-om utenlandsopphold, må gjerningspersonen ha
-et forsett om å utføre en handling i et annet land
-som kan rammes av en norsk straffebestemmelse
-«som kan medføre fengsel i 1 år eller mer». Dette
-kan for eksempel være tilfelle ved kjønnslemlestelse eller tvangsekteskap der begge straffebestemmelsene er omfattet av unntakene for dobbel
-straffbarhet i § 5. For frihetsberøvelse eller voldshandlinger vil det være et krav om at dette også er
-straffbart i landet den straffbare handlingen skal
-begås. Deretter må gjerningspersonen foreta seg
-noe som «leder direkte» mot utføringen av den
-straffbare handlingen. Hva som skal til for at terskelen for straffbart forsøk er overtrådt i Norge,
-vil bero på en konkret vurdering av hvilke
-handlinger som er gjort og hva som gjenstår, og
-vil også avhenge av hvilken straffbar handling
-som skal begås i utlandet.
-Forberedelser til selve utenlandsreisen, som
-for eksempel å bestille flybilletter, ta ut ferie,
-pakke kofferter og reise til flyplassen, er ikke i
-seg selv tilstrekkelig til at terskelen for straffbart
-forsøk på en straffbar handling som først skal
-finne sted i utlandet er overtrådt.
-Utvalget har ikke funnet rettspraksis som belyser grensen for når terskelen for straffbart forsøk
-vil være overtrådt i saker om skadelige utenlandsopphold. Ved at terskelen for straffbart forsøk
-neppe er overtrådt før reisen faktisk er påbegynt,
-vil det også være et svært kort tidsvindu der det
-kan være aktuelt å gripe inn straffeprosessuelt
-fordi terskelen for straffbart forsøk er overtrådt.
-Dette gjør at forsøksansvar er mindre egnet for å
-forhindre at et barn eller en voksen utsettes for
-straffbare handlinger i utlandet, med unntak av
-forledelse til tvangsekteskap og forbund om grov
-frihetsberøvelse, se nedenfor.
-
-14.3.3.3 Nærmere om forledelse til tvangsekteskap
-etter § 253 andre ledd
-Noen typer forberedelser til tvangsekteskap er
-straffbare etter straffeloven § 253 andre ledd.
-Bestemmelsen rammer den som «forleder eller på
-annen måte medvirker til at en person reiser til et
-annet land enn der personen er bosatt, med forsett
-om at personen der vil bli [tvangsgiftet]». Fornærmede kan for eksempel forledes ved at gjerningspersonen oppgir et annet formål med reisen enn
-tvangsekteskap, typisk at reisens formål er å
-18
-
-Husabø 1999: side 281.
-
-[Side 212]
-
-210
-
-Kapittel 14
-
-NOU 2024: 13
-Lov og frihet
-
-besøke slektninger eller lignende. Bestemmelsen
-rammer også tilfeller der fornærmede er klar over
-det reelle formålet med reisen, og derfor ikke kan
-sies å være forledet, ettersom medvirkning til reisen på annen måte enn ved å forlede fornærmede
-omfattes av ordlyden.19 Foreldre som sender barn
-på ufrivillig utenlandsopphold for å bli tvangsgiftet, også der barnet er klar over formålet med reisen, kan derfor straffes for brudd på § 253 andre
-ledd, selv der tvangsekteskapet likevel ikke blir
-gjennomført.20 Forsøk rammes på vanlig måte
-etter straffeloven § 16. Det vil si at straffansvar
-kan inntre på et tidlig stadium og gjøre det mulig å
-gripe inn før reisen har skjedd.
-
-14.3.3.4 Nærmere om forbund om grov
-frihetsberøvelse etter straffeloven § 256
-Det kan også tenkes at et forbund om grov frihetsberøvelse, jf. straffeloven § 256, inngås i Norge,
-mens selve frihetsberøvelsen først skal skje i
-utlandet.21 Dersom to eller flere personer, for
-eksempel foreldre eller andre slektninger, avtaler
-å utsette noen for handlinger i utlandet som utgjør
-grov frihetsberøvelse, vil selve avtalen være straffbar før reisen er gjennomført. Også en avtale om å
-medvirke til at andre begår grov frihetsberøvelse
-rammes av bestemmelsen.22
-I vurderingen av om frihetsberøvelsen er grov,
-er momentet om at frihetsberøvelsen skal være
-langvarig særlig aktuelt ved utenlandsopphold.
-Varigheten av frihetsberøvelsen er ikke tidfestet,
-men bestemmelsen tar ifølge forarbeidene sikte
-på å videreføre gjeldende rett.23 Etter straffeloven
-1902 § 223 andre ledd var det et krav at frihetsberøvelsen hadde vart over en måned, slik at en
-måned vil danne et naturlig skjæringspunkt også
-etter § 255. Det vil si at personer i Norge som seg
-imellom avtaler at et barn skal oppholde seg i
-utlandet i over en måned under forhold som kan
-innebære frihetsberøvelse, for eksempel innesperres på en lukket institusjon, etter omstendighetene kan straffes etter § 256. Det samme gjelder
-dersom en person avtaler å bidra til denne frihetsberøvelsen, for eksempel tilbyr seg å låse inn den
-fornærmede i en bolig i utlandet.
-Utvalget har ikke funnet eksempler på at straffeloven § 256 er brukt i saker der frihetsberøvel19
-
-Prop. 42 L (2015–2016) punkt 8.2.
-Ibid.
-21 Frøberg 2021: punkt 3.2.
-22
-Ot.prp. nr. 64 (1998–99) merknader til straffeloven 1902 § 223.
-23
-Ot.prp. nr. 22 (2008–2009) merknader til straffeloven 2005
-§ 255.
-20
-
-sen først skjer i utlandet. Selv om bestemmelsen
-etter sin ordlyd kan ramme avtaler om frihetsberøvelse i utlandet, kan det i praksis være utfordrende å bevise at avtalen er inngått.
-
-14.4 Andre lands rett
-14.4.1 Danmark
-Den danske straffeloven § 215 a setter straff for
-såkalte «genopdragelsesrejser». Bestemmelsen
-lyder:
-Med bøde eller fængsel indtil 4 år straffes den,
-som sender sit barn til udlandet til forhold, der
-bringer barnets sundhed eller udvikling i alvorlig fare, eller lader sit barn tage del i et sådant
-udlandsophold.
-
-Med formuleringen «sit barn» menes at gjerningspersonen må være forelder til et barn under 18 år.
-Bestemmelsen rammer også foreldre som ikke
-har foreldreansvaret til barnet. Barnet må ha
-dansk statsborgerskap, være bosatt i Danmark
-eller ha fast opphold i Danmark.24
-Alvorlig fare for «barnets sundhet eller udvikling» omfatter ikke bare helsemessige forhold,
-men også forhold av betydning for barnets trivsel.25 I forarbeidene nevnes eksempler som mishandling eller andre alvorlige overgrep, sviktende
-omsorg, utilstrekkelig oppfyllelse av behovet for
-mat, undervisning eller helsehjelp. I vurderingen
-skal det tas hensyn til både barnets tilstand på det
-aktuelle tidspunktet og barnets framtidige oppvekstbetingelser. Det er ingen betingelse at det
-allerede har skjedd en alvorlig skade.
-Barnets alder og modenhet, herunder barnets
-evne til å ta vare på seg selv, kan ha betydning for
-vurderingen av om barnets helse eller utvikling er
-i alvorlig fare. Forholdene i landet der barnet oppholder seg kan ha betydning for vurderingen av
-om barnets utvikling er i fare. Det er ifølge forarbeidene26 ikke avgjørende at barnet befinner seg i
-et land med andre verdier enn de danske, eller er
-utsatt for restriksjoner som ikke er vanlige i Danmark. Dette er imidlertid forhold som kan inngå
-som momenter i en samlet vurdering av om utenlandsoppholdet kan ha alvorlige konsekvenser for
-barnets utvikling.
-24
-
-2018/1 LSF 22 Forslag til Lov om ændring av straffeloven,
-pasloven og politiloven (Initiativer mot parallelsamfund)
-merknader til § 215 side 24-25.
-25 Ibid.
-26 Ibid.
+# Tvangsekteskap og barneekteskap
+
+## Innledning
+
+I dette kapittelet besvarer utvalget de strafferettslige delene av mandatet knyttet til tvangsekteskap. Etter mandatets innledende punkt skal det avklares «om gjeldende regelverk \[om tvangsekteskap\] gir et tilstrekkelig godt rettsvern for utsatte, eller om det er behov for endringer/ytterligere regulering». Straffelovens regler om barneekteskap er nært knyttet til reglene om tvangsekteskap. Utvalget vurderer derfor også om straffeloven § 262 andre ledd om barneekteskap gir et tilstrekkelig godt rettsvern for de utsatte. Spørsmålet om tvangsekteskap under visse omstendigheter kan anses som menneskehandel eller organisert kriminalitet, behandles i kapittel 11 og 13.
+
+## Gjeldende rett
+
+### Menneskerettslige forpliktelser
+
+Flere menneskerettigheter har betydning for den strafferettslige reguleringen av tvangsekteskap og barneekteskap.
+
+Etter Grunnloven § 102 og Den europeiske menneskerettskonvensjonen (EMK) artikkel 8 har enhver rett på respekt for sitt privatliv og sitt familieliv. Bestemmelsene pålegger statene visse positive forpliktelser til å kriminalisere tvangsekteskap og barneekteskap for å sikre disse rettighetene (sikringsplikter), jf. også EMK artikkel 1 og Grunnloven § 92 om at staten skal respektere og sikre menneskerettighetene. Tilsvarende forpliktelser følger av Grunnloven § 93 andre ledd og EMK artikkel 3 om forbud mot tortur, umenneskelig og nedverdigende behandling.[^837]
+
+Tvangsekteskap er videre i strid med EMK artikkel 12 om retten til å gifte seg.[^838] Også Grunnloven § 104, som gir barn rett til vern om sin personlige integritet, innebærer en positiv forpliktelse til å etablere rettsregler mot og kriminalisere barneekteskap.[^839] I tillegg har staten en rekke forpliktelser til å sikre at ekteskap inngås basert på gyldig, fritt og uforbeholdent samtykke, og til å verne barn mot ekteskap. Disse forpliktelsene er nærmere omtalt i et eget kapittel om tiltak mot tvangsekteskap i ekteskapsloven.
+
+Istanbul-konvensjonen artikkel 37 nr. 1 pålegger statene å treffe nødvendige tiltak for å kriminalisere forsettlig atferd som tvinger en voksen person eller et barn til å inngå ekteskap, enten ved lovgivning eller på annen måte. Tilsvarende skal statene ifølge samme artikkel nr. 2 kriminalisere at noen forsettlig lures til en annen stat enn der vedkommende bor for å inngå ekteskap.
+
+FNs kvinnediskrimineringskomité og barnekomité har utgitt en felles generell anbefaling om skadelige praksiser.[^840] En skadelig praksis er definert som vedvarende praksiser og atferd som innebærer diskriminering på grunnlag av blant annet kjønn, kjønnsuttrykk og alder, som ofte omfatter vold, og som forårsaker fysiske og/eller psykiske skader eller lidelser.[^841] Forpliktelsen er forankret i flere bestemmelser i konvensjonene, særlig plikten til å hindre vold mot kvinner og barn, jf. kvinnediskrimineringskonvensjonen artikkel 2 og barnekonvensjonen artikkel 19. Barneekteskap er definert som en slik skadelig praksis.[^842] Komiteene anbefaler at medlemsstatene vedtar lovgivning med sikte på å effektivt få slutt på slike skadelige praksiser.[^843]
+
+### Tvangsekteskap
+
+Straffeloven § 253 om tvangsekteskap er plassert i kapittel 24 om vern av den personlige frihet og fred, og lyder slik:
+
+Med fengsel inntil 6 år straffes den som ved vold, frihetsberøvelse, annen straffbar eller urettmessig atferd eller utilbørlig press tvinger noen
+
+a\. til å inngå ekteskap
+
+b\. inn i en ekteskapslignende forbindelse. I vurderingen av om det foreligger en ekteskapslignende forbindelse skal det legges vekt på om forbindelsen er varig, oppleves som bindende og etablerer rettigheter og plikter mellom partene av rettslig, religiøs, sosial eller kulturell karakter.
+
+På samme måte straffes den som ved å forlede eller på annen måte medvirker til at en person reiser til et annet land enn der personen er bosatt, med forsett om at personen der vil bli utsatt for en handling som nevnt i første ledd.
+
+Bestemmelsen er en videreføring av straffeloven 1902 § 222 andre ledd med enkelte pedagogiske endringer. Et eget forbud mot tvangsekteskap ble først vedtatt i 2003.[^844] Straffebudet verner om retten til å kunne definere sitt eget liv gjennom å ta selvstendige valg, altså personlig frihet, herunder den fornærmedes fysiske integritet og selvråderett.[^845]
+
+Den straffbare handlingen i § 253 første ledd består i å «tvinge noen» til å inngå ekteskap eller inn i en ekteskapslignende forbindelse. Formuleringen «tvinger» innebærer ifølge forarbeidene å sette noen ute av stand til å handle frivillig.[^846] Den fornærmede må selv mene seg utsatt for tvang.[^847] I utgangspunktet må den som inngår ekteskapet selv ha blitt utsatt for et press.[^848] Men den rettsstridige atferden kan også være rettet mot andre som står i et slikt forhold til den som inngår ekteskap, at vedkommende tvinges til å handle mot sin vilje.[^849]
+
+Tvangsvilkåret innebærer at bestemmelsen avgrenses mot arrangerte ekteskap. I Innst. O. nr. 106 (2002–2003) omtales skillet mellom tvangsekteskap og arrangerte ekteskap slik:
+
+Begrepet arrangerte ekteskap henspeiler etter komiteens mening til at familien deltar aktivt for å finne eller foreslå kandidater til ektemake. Avgjørende for spørsmålet om det foreligger tvang, blir om forslaget til ektemake reelt gir den unge en mulighet til å takke nei. Dersom det arrangerte ekteskapet er inngått fordi en part er utsatt for et press, og dette presset er så utilbørlig at vedkommende opplever å ikke ha et valg, vil det etter komiteens mening være straffbar tvang.[^850]
+
+Tvangen må gjennomføres ved et middel, enten ved vold, frihetsberøvelse, annen straffbar eller urettmessig atferd eller utilbørlig press. Med mindre slike midler benyttes, vil ikke ekteskapet være et tvangsekteskap i straffelovens forstand. Alternativene «vold» og «frihetsberøvelse» tilsvarer henholdsvis vilkårene i straffeloven § 271 om kroppskrenkelse og § 254 om frihetsberøvelse. For eksempel kan den fornærmede tvinges til å inngå et ekteskap gjennom å bli slått eller sperret inne.
+
+Alternativet «annen straffbar eller urettmessig atferd» tilsvarer vilkårene i straffeloven § 251 om tvang. Et klart eksempel på slik atferd er ifølge forarbeidene at den fornærmede blir utsatt for vanskjøtsel slik at vedkommende aksepterer å inngå ekteskap.[^851] Trusler om en straffbar handling vil også innebære rettsstridig atferd.[^852] Vilkåret «urettmessig atferd» viser til «andre normer enn rettsregler, som for eksempel hva som regnes som akseptabel atferd på et bestemt livsområde».[^853] Det er tilstrekkelig at handlingen er tillagt negative rettsvirkninger.[^854] Se mer om vilkåret «urettmessig atferd» i kapittel 7.
+
+Straffbar tvang til å inngå ekteskap kan også skje i form av «utilbørlig press». Dette innebærer at terskelen for straffbar tvang er lavere etter denne bestemmelsen enn etter den generelle tvangsbestemmelsen i § 251. Ifølge forarbeidene sikter begrepet til «sosiale sanksjoner som kan ramme hardt, men som ikke er straffbare og som heller ikke strider mot andre rettslige normer».[^855] Som et eksempel vises det til «varig utelukkelse fra et sosialt fellesskap av stor betydning, eller å true med dette.»[^856] I Innst. O. nr. 106 (2002–2003) presiserer justiskomiteen at psykisk press vil kunne rammes:
+
+For eksempel vil trusselen om å fullstendig avskjære en person fra familien om vedkommende ikke gifter seg, kunne utsette personen for et så sterkt press at trusselen er rettsstridig. Videre vil komiteen påpeke at ulike former for psykisk press, som enkeltvis ikke er å anse som rettstridig adferd i straffelovens forstand, må vurderes samlet i relasjon til spørsmålet om det i det konkrete tilfellet har forekommet rettstridig adferd eller tvang.[^857]
+
+Et eksempel på psykisk press til å inngå ekteskap finnes i Rt. 2014 s. 205. Dommen gjaldt straffutmåling for forsøk på et religiøst inngått tvangsekteskap. Den domfelte var funnet skyldig i å ha forsøkt å tvinge datteren til å gifte seg ved utilbørlig press. Høyesterett uttalte at forsøket skjedde gjennom et vedvarende sosialt press og ved å iverksette konkrete tiltak for å gjennomføre tvangsekteskapet.[^858] Det ble ikke brukt fysisk vold eller trusler om fysisk vold.
+
+Etter straffeloven § 253 første ledd bokstav b rammes den som tvinger noen til å inngå en «ekteskapslignende forbindelse». Alternativet ble tatt inn i 2021.[^859] Formuleringen sikrer at såkalte utenrettslige ekteskap, altså ekteskap som ikke er formelt gyldige, likestilles med sivilrettslige ekteskap. Formålet er å sikre at straffebudet rammer forbindelser som skaper en tilknytning mellom partene som i praksis har sterke fellestrekk med tilknytningen i rettslig gyldige ekteskap.[^860]
+
+Ifølge departementet er det uten betydning hvordan forbindelsen etableres, og det er ikke nødvendig at det skjer en seremoniell inngåelse.[^861] Det er heller ikke nødvendig at forbindelsen etableres på et bestemt tidspunkt. Etter omstendighetene kan en person tvinges inn i en slik forbindelse over tid.[^862]
+
+For at det skal foreligge en ekteskapslignende forbindelse, er det ikke nok at forbindelsen ligner på et hvilket som helst samboerforhold.[^863] I vurderingen av om noe er en ekteskapslignende forbindelse, skal det legges vekt på om forbindelsen er varig, om den oppleves som bindende av partene selv og deres sosiale krets, og om den etablerer rettigheter og plikter mellom partene av rettslig, religiøs, sosial eller kulturell karakter. Rettighetene og pliktene kan bygge på både formelle og uformelle normer, og de kan ha en rettslig karakter som ikke anerkjennes i Norge.[^864]
+
+Etter straffeloven § 253 andre ledd straffes den som «forleder eller på annen måte medvirker til at en person reiser til et annet land for å bli tvunget inn i et ekteskap eller en ekteskapslignende forbindelse». Bestemmelsen ble innført for å oppfylle kravet i Istanbul-konvensjonen artikkel 37 nr. 2, som forplikter partene til å kriminalisere det å forlede noen til å reise til utlandet dersom handlingen skjer med forsett om å tvinge personen til å inngå ekteskap. Straffeloven § 253 andre ledd omtales nærmere i kapittel 14 om straff ved skadelig utenlandsopphold.
+
+Straffeloven § 253 omfattes av avvergingsplikten etter straffeloven § 196. Handlinger som anses som tvangsekteskap er også unntatt fra kravet om dobbelt straffbarhet, jf. straffeloven § 5 første ledd nr. 4. At unntaket fra krav om dobbel straffbarhet gjelder handlinger som «anses som» tvangsekteskap, gjør at unntaket også gjelder ekteskapslignende forbindelser, jf. lovens § 253 første ledd bokstav b.
+
+Bestemmelsen er videre omfattet av reglene om utskutt tidspunkt for foreldelse, slik at utgangspunktet for foreldelsesfristen etter § 87 er den dagen den fornærmede fyller 18 år.
+
+Det finnes få rettsavgjørelser etter straffeloven § 253 om tvangsekteskap. Lidén og Bredal (2017) identifiserte totalt 13 straffesaker om tvangsekteskap og/eller barneekteskap i perioden mellom 2002 og 2016.[^865]
+
+### Barneekteskap
+
+Straffeloven § 262, som er plassert i straffeloven kapittel 24 om vern av den personlige frihet og fred, omhandler straff ved brudd på ekteskapsloven. Andre ledd straffer den som inngår ekteskap med noen under 16 år, og lyder slik:
+
+Den som inngår ekteskap med noen under 16 år, straffes med fengsel inntil 3 år. På samme måte straffes den som etablerer en ekteskapslignende forbindelse som nevnt i § 253, med noen som er under 16 år. Den som var uvitende om at fornærmede var under 16 år, kan likevel straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet. Straff kan bortfalle dersom ektefellene er omtrent jevnbyrdige i alder og utvikling.
+
+Forbudet mot barneekteskap ble inntatt i straffeloven 1902 § 220 i 2003.[^866] Begrunnelsen for et eget straffebud om barneekteskap er at det er en sterk presumsjon for at det foreligger tvang når ektefellen er under 16 år, uavhengig av barnets opplevelse. Ifølge forarbeidene kan alle ekteskap inngått med barn under 16 år defineres som tvangsekteskap, fordi barn ikke har samtykkekompetanse til å inngå ekteskap.[^867]
+
+Da straffebestemmelsen ble innført, var det mulig for personer mellom 16 og 18 år å inngå ekteskap etter samtykke fra fylkesmannen. Da det i 2018 ble innført en absolutt aldersgrense på 18 år for å inngå ekteskap i Norge, ble det ikke ansett å være grunn til å heve aldersgrensen i straffeloven § 262. I Prop. 49 L (2017–2018) forklares denne vurderingen:
+
+Bakgrunnen for regelen i straffeloven er blant annet at det er en sterk presumsjon for at ekteskapet er inngått ved tvang, når minst én av ektefellene er yngre enn 16 år. Denne presumsjonen gjør seg ikke gjeldende på samme måte når personene er mellom 16 og 18 år. Det vises også til at den seksuelle lavalder i dag er 16 år, og at seksuell omgang med personer under 16 år er straffbart jf. straffeloven §§ 302 flg.[^868]
+
+Straffeloven § 262 andre ledd rammer både sivilrettslige ekteskap og ekteskapslignende forbindelser med noen som er under 16 år. Bestemmelsen rammer bare den som inngår ekteskapet. Foreldre med foreldreansvar eller verger som samtykker og arrangerer ekteskapet, rammes dermed ikke direkte av bestemmelsen, men vil kunne omfattes av straffeloven § 15 om medvirkning.
+
+Utgangspunktet er at det kreves forsett for overtredelse av straffeloven § 262 andre ledd, se straffeloven § 21. Loven gjør imidlertid et unntak fra forsettskravet når det gjelder kunnskap om ektefellens alder. Etter § 262 andre ledd tredje punktum kan den som var uvitende om at den fornærmede var under 16 år, likevel straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet. Ordlyden «på noe punkt kan klandres» viser at det er et strengt aktsomhetskrav. Spørsmålet er om tiltalte burde ha forstått hvor gammel ektefellen reelt sett var ved ekteskapsinngåelsen, typisk fordi vedkommende kunne og burde ha funnet ut av dette ved å undersøke nærmere.[^869]
+
+Etter § 262 andre ledd fjerde punktum kan straff bortfalle dersom ektefellene eller partnerne var omtrent jevnbyrdige i alder og utvikling. Det er relativt hva som aksepteres som jevnbyrdig, og forholdet vil bedømmes strengere hvis barnet er 14 år eller yngre.[^870] Ordlyden «kan bortfalle» innebærer at det må gjøres en vurdering av om bestemmelsen skal brukes.
+
+Straffeloven § 262 andre ledd er omfattet av avvergingsplikten etter straffeloven § 196. Det er ikke gitt særlige regler om foreldelse av brudd på reglene om barneekteskap, og straffansvaret foreldes dermed etter 5 år fra ekteskapet ble inngått, jf. straffeloven § 86 første ledd bokstav b. Handlinger som anses som barneekteskap, er unntatt fra kravet om dobbelt straffbarhet, jf. straffeloven § 5 første ledd nr. 4. At unntaket fra krav om dobbel straffbarhet gjelder handlinger som «anses som» barneekteskap, gjør at unntaket også gjelder ekteskapslignende forbindelser med en person under 16 år, jf. § 262 andre ledd andre punktum.
+
+Bestemmelsen om barneekteskap kan benyttes i konkurrens med bestemmelsen om tvangsekteskap.[^871] Bestemmelsen om barneekteskap kan også benyttes i konkurrens med straffeloven §§ 282 og 283 om mishandling i nære relasjoner, ettersom det kan være snakk om flere faktiske handlinger som gjelder ulike faktiske overtredelser som beskytter ulike rettsgoder. Det samme gjelder straffeloven §§ 251 og 252 om tvang, 254 og 255 om frihetsberøvelse, 263 og 264 om trusler og kapittel 26 om seksuallovbrudd.
+
+Bestemmelsen om barneekteskap er lite anvendt i rettspraksis. Det er bare inntatt én dom i lovdata om barneekteskap etter 2015, LF-2019-105361, med tiltale for forsøk på ekteskapsinngåelse med noen under 16 år, og seksuell omgang med barn mellom 14 og 16 år. Lagmannsretten fant det bevist ut over enhver rimelig tvil at den tiltalte forsøkte å inngå ekteskap med den fornærmede. Den tiltalte ble likevel frifunnet, fordi flertallet kom til at det var tvil om den fornærmede var under 16 år på handlingstiden, særlig på grunnlag av motstridende opplysninger i syriske og irakiske dokumenter.[^872]
+
+Det har imidlertid nylig (7. mars 2024) vært avsagt en lagmannsrettsdom om barnekteskap etter straffeloven § 262.[^873] Saken gjaldt inngåelse av et ekteskapslignende forhold med et barn under 16 år. Spørsmålet var om de tiltalte hadde medvirket til at det ble etablert en ekteskapslignende forbindelse mellom tiltalte og fornærmede. Hovedtiltalte er vedkommende som inngikk det ekteskapslignende forholdet og de to øvrige tiltalte er hans foreldre. For post I reiste saken også et spørsmål om norsk jurisdiksjon. For post II var det et spørsmål om bilder tatt av fornærmede var å anse som framstilling som seksualiserer barn og som rammes av straffeloven § 311 første ledd jf. andre ledd. De tre tiltalte ble i tingretten dømt til fengsel i 11 måneder og til å betale oppreisningserstatning til fornærmede. Etter ankeforhandlingen i lagmannsretten ble de tiltalte dømt til samme straffereaksjon og erstatning.
+
+### Enkelte straffeprosessuelle spørsmål
+
+I saker om tvangsekteskap og menneskehandel har den fornærmede en ubetinget rett på bistandsadvokat, jf. straffeprosessloven § 107 første ledd bokstav a. Straffeloven § 262 andre ledd om barneekteskap utløser ikke en slik ubetinget rett. I slike saker kan bistandsadvokat oppnevnes der sakens art og alvor, hensynet til de berørte eller andre særlige forhold tilsier det, jf. § 107 tredje ledd.
+
+Etter straffeprosessloven § 239 første ledd skal tilrettelagte avhør brukes ved avhør av vitner under 16 år, herunder fornærmede, i saker om seksuallovbrudd, kroppsskade, drap, mishandling i nære relasjoner og kjønnslemlestelse. Det samme gjelder ved avhør av vitner med psykisk utviklingshemming eller annen funksjonsnedsettelse som medfører det samme behovet for tilrettelagte avhør. Tilrettelagt avhør kan også brukes i andre saker dersom hensynet til vitnet tilsier det.
+
+Tilrettelagt avhør kan brukes i saker om tvangsekteskap eller barneekteskap dersom hensynet til vitnet tilsier det, men det er ikke noe lovpålagt krav om tilrettelagte avhør i slike saker. Kjernen i ordningen med tilrettelagte avhør er at vitnene ikke avhøres av en dommer, men på et barnehus av en spesialutdannet politietterforsker under ledelse av en påtalejurist, innen korte frister og uten at den mistenke normalt varsles om det første avhøret.[^874] Videoopptak av det tilrettelagte avhøret trer som hovedregel i stedet for personlig forklaring ved hovedforhandling for tingretten, jf. straffeprosessloven § 298.
+
+Reglene om tilrettelagt avhør trådte i kraft 2. oktober 2015. Tidligere var det krav om dommeravhør i saker om «forbrytelse eller forseelse mot sedelighet». I praksis ble dommeravhør også benyttet i saker om drap og familievold (straffeloven 1902 § 219), og av og til i andre voldssaker. Dommeravhør har også blitt benyttet i saker om ran og om kjønnslemlestelse.[^875]
+
+Vitner under 15 år og vitner med høy grad av psykisk utviklingshemming kan ikke fritas for vitneplikt eller forklaringsplikt etter straffeprosessloven §§ 122 og 123 i saker der tilrettelagte avhør er obligatoriske, jf. § 239 a andre ledd. Begrunnelsen er ifølge forarbeidene at det vil være i strid med barnets beste å sette det i en lojalitetskonflikt ved å overlate avgjørelsen om å forklare seg til barnet i denne typen saker.[^876] I forarbeidene er det videre vist til at konsekvensen av at et barn ikke forklarer seg kan være at saken ikke blir oppdaget slik at siktede fortsetter å begå overgrep. Barnet vil heller ikke få hjelp til å bearbeide hendelsene.[^877] Dersom tilrettelagte avhør blir brukt i andre saker enn de lovpålagte, gjelder vitnefritaksreglene på vanlig måte.
+
+## Andre lands rett
+
+### Danmark
+
+Den danske straffeloven § 260 om ulovlig tvang rammer blant annet den som ved vold eller trusler om vold, om betydelig skade på gods eller om frihetsberøvelse tvinger noen til å gjøre, tåle eller unnlate noe. De relevante delene av bestemmelsen lyder slik:
+
+Stk. 1. Med bøde eller fængsel indtil 2 år straffes for ulovlig tvang den, som
+
+1\) ved vold eller ved trussel om vold, om betydelig skade på gods, om frihedsberøvelse eller om at fremsætte usand sigtelse for strafbart eller ærerørigt forhold eller at åbenbare privatlivet tilhørende forhold tvinger nogen til at gøre, tåle eller undlade noget,
+
+\[…\]
+
+Stk. 2. Tvinges nogen til at indgå ægteskab eller til en religiøs vielse uden borgelig gyldighed eller til at indgå i et andet ægteskabslignende forhold, eller fastholdes nogen ved tvang i et sådant ægteskab eller forhold, kan straffen stige til fængsel indtil 4 år.
+
+Strafferammen er bøter eller fengsel i inntil to år. Etter stk. 2 forhøyes strafferammen til inntil fire år dersom noen tvinges til å inngå ekteskap, til en religiøs vielse uten borgerlig gyldighet eller til å inngå et annet ekteskapslignende forhold. Den samme strafferammen gjelder dersom noen tvinges til å bli i et slikt ekteskap eller forhold. I forarbeidene er det uttalt at tvangsbestemmelsens første ledd rammer tilfeller der en person ved vold eller trusler om vold tvinges til å bli i et ekteskap.[^878] Også de som medvirker, for eksempel foreldre som oppfordrer sin sønn til å utøve vold for å få sin ektefelle til å bli i ekteskapet, vil kunne rammes av den eksisterende bestemmelsen, jf. § 23 om medvirkningsansvar. Det ble ikke ansett som rimelig at den som tvinger en annen til å bli i et ekteskap, skulle straffes mildere enn den som tvinger personen til å inngå ekteskapet. Også det å tvinge noen til å bli i et ekteskap burde etter departementets syn omfattes av den høyere strafferammen på fire år.[^879]
+
+Straffeloven § 260 a om barneekteskap lyder slik:
+
+Stk. 1. Den, som forestår en religiøs vielse uden borgerlig gyldighed eller indgåelsen af et andet ægteskabslignende forhold med en person under 18 år, straffes med bøde eller fængsel indtil 2 år.
+
+Stk. 2. På samme måde straffes den, som lader sit barn indgå i en religiøs vielse uden borgerlig gyldighed eller i et andet ægteskabslignende forhold, og den, som efter at være fyldt 18 år frivilligt indgår i en religiøs vielse uden borgerlig gyldighed eller i et andet ægteskabslignende forhold med en person under 18 år.
+
+Bestemmelsen stk. 1 rammer den som forretter en religiøs vielse uten borgerlig gyldighet eller inngåelsen av et annet ekteskapslignende forhold der en av partene er under 18 år. Strafferammen er bøter eller fengsel i inntil to år. Bestemmelsen rammer også dem som forretter en vielse som ville vært borgerlig gyldig dersom partene var over 18 år. Bestemmelsen krever forsett for alle deler av bestemmelsens innhold, herunder partenes alder.[^880]
+
+Paragraf 260 a stk. 2 rammer foreldre som lar sitt barn inngå i en religiøs vielse uten borgerlig gyldighet eller i et annet ekteskapslignende forhold. Paragrafen rammer også den som er over 18 år, og som frivillig inngår en slik forbindelse med en person under 18 år. Det er uten betydning om foreldrene har foreldreansvar eller ikke.[^881] Bestemmelsen rammer både aktive handlinger og passivitet fra foreldrenes side for å forhindre inngåelsen. Strafferammen er også her bøter eller fengsel i inntil to år.
+
+Foreldelsesfristen både for tvangsekteskap og for barneekteskap løper fra den fornærmede fyller 21 år, jf. straffeloven § 94 stk. 4.
+
+### Sverige
+
+Den svenske brottsbalken (1962:700) 4. kap. 4 c § kriminaliserer både tvangsekteskap og barneekteskap, og lyder slik:
+
+Den som, i annat fall än som avses i 1 a § \[*om menneskehandel – utvalgets tilføyelse*\], genom olaga tvång eller utnyttjande av utsatt belägenhet förmår en person att ingå ett äktenskap som är giltigt i den stat där det ingås, i den stat enligt vars lag det ingås eller i en stat i vilken minst en av makarna är medborgare eller har hemvist döms för äktenskapstvång till fängelse i högst fyra år.
+
+Detsamma gäller den som på sätt som anges i första stycket förmår någon att ingå en äktenskapsliknande förbindelse, om den ingås enligt regler som gäller inom en grupp och som
+
+1\. innebär att parterna betraktas som makar och anses ha rättigheter eller skyldigheter i förhållande till varandra, och
+
+2\. innefattar frågan om upplösning av förbindelsen.
+
+Den som begår en gärning som avses i första eller andra stycket mot en person som inte har fyllt arton år, döms för barnäktenskapsbrott till fängelse i högst fyra år. För barnäktenskapsbrott döms också den som i annat fall förmår eller tillåter en person som inte har fyllt arton år att ingå ett äktenskap som är giltigt på sätt som anges i första stycket eller en äktenskapsliknande förbindelse enligt vad som anges i andra stycket. Detta gäller även om den som begår en sådan gärning inte haft uppsåt till men varit oaktsam beträffande omständigheten att den andra personen inte fyllt arton år.
+
+Straffansvaret etter bestemmelsen omfatter flere handlinger enn dem som rammes av bestemmelsen om ulovlig tvang i brottsbalken 4. kap. 4 §. I forarbeidene er det vist til at det ofte ikke er nødvendig å utøve tvang i egentlig forstand for å få en yngre person til å inngå ekteskap mot sin vilje.[^882]
+
+Tredje ledd om barneekteskap trådte i kraft 1. juli 2020. I motsetning til tvangsekteskap krever ikke bestemmelsen at det er benyttet ulovlig tvang eller utnyttelse av en utsatt posisjon. Selv om barneekteskap før dette i stor grad ville kunne rammes av de eksisterende bestemmelsene om tvangsekteskap, også der det var anvendt mildere påtrykk enn ulovlig tvang, ble det i forarbeidene vist til at flere forhold talte for å innføre et særskilt straffebud.[^883] Blant annet ville det sende et tydelig signal fra lovgiver om at barneekteskap ikke er akseptabelt. Videre ville en særskilt straffebestemmelse kunne virke avskrekkende for dem som vurderer å medvirke til et barneekteskap, og det ville kunne hjelpe familier til å stå imot press fra slektninger. Et eget straffebud ville også kunne hjelpe dem som står under press om å gifte seg med et barn, og barn som risikerer press for å gifte seg. Alternativet om at noen «tillåter» at en mindreårig inngår ekteskap, omfatter både aktive handlinger og passiv tillatelse.[^884]
+
+Strafferammen for tvangsekteskap og barneekteskap er fengsel i inntil fire år. Bestemmelsen er unntatt fra kravet om dobbel straffbarhet, jf. 1. kap. 5 § andre ledd nr. 4 bokstav a. Det er ikke gitt regler om utskutt foreldelsesfrist for barneekteskap og tvangsekteskap.
+
+Etter brottsbalken 4. kap. 4 d § straffes den som villeder en annen til å reise til en annen stat for å bli utsatt for en handling som rammes av 4 c §. Strafferammen er fengsel i inntil to år. For overtredelser begått i utlandet er det krav om dobbel straffbarhet, jf. 1. kap. 5 § første ledd.
+
+Brottsbalken 4. kap. 4 c § rammer ikke tvang til å forbli i et ekteskap eller et barneekteskap. Spørsmålet om slik tvang burde omfattes av bestemmelsen ble vurdert i Prop. 2019/20:131,[^885] men det ble avvist blant annet fordi personkretsen ville være vanskelig å avgrense, og fordi det er ulikt syn på oppløsning av ekteskap innenfor ulike religioner. Det ville derfor være vanskelig å utforme et straffebud som kunne forventes å bli tilstrekkelig effektivt. Det ble i tillegg vist til at tvang til å forbli i et ekteskap ville kunne rammes av den alminnelige tvangsbestemmelsen.
+
+## Utvalgets vurderinger og forslag
+
+### Straffeloven § 253 om tvangsekteskap
+
+Utvalget har vurdert om straffeloven § 253 om tvangsekteskap bør utvides til å omfatte tvang til å forbli i et ekteskap. Etter dagens straffebestemmelse rammes ikke det å tvinge noen til å forbli i et ekteskap, bare det å tvinge noen til å inngå ekteskapet eller den ekteskapslignende forbindelsen. Den danske straffeloven § 260 a stk. 2 rammer det å tvinge noen til å forbli i et ekteskap.
+
+Utvalget har likevel kommet til at det ikke er behov for en slik endring. Hovedbegrunnelsen er at tvang til å forbli i et ekteskap i all hovedsak allerede rammes av andre straffebestemmelser, slik som straffeloven § 251 om tvang. Utvalget har også lagt en viss vekt på at norsk lovgivning gir en ektefelle rett til skilsmisse uavhengig av om den andre samtykker.
+
+Om straffeloven § 253 utvides til å ramme press til å forbli i et ekteskap, vil det riktignok øke strafferammen for denne typen tvang fra fengsel inntil 2 år (§ 251) til fengsel inntil 6 år (§ 253). Grov tvang kan straffes med fengsel inntil 6 år etter straffeloven § 252, noe som reduserer behovet for en endring av § 253. Men det å tvinge en person til å bli i et ekteskap gjennom «utilbørlig press» rammes ikke av § 251, som har et strengere tvangsbegrep, se ovenfor. Utilbørlig press kan være for eksempel trusler om sosiale sanksjoner, moralsk fordømmelse og utestengelse fra familien eller miljøet dersom en person skiller seg. Utvalget ser likevel ikke dette som et tilstrekkelig tungtveiende argument for å utvide § 253, og viser til at heller ikke den danske bestemmelsen rammer andre former for tvang enn det som rammes av den alminnelige tvangsbestemmelsen. Etter utvalgets oppfatning vil atferd som presser noen til å forbli i et ekteskap dekkes av andre straffebestemmelser, i første rekke bestemmelsene om straffbare trusler og hensynsløs atferd. Alvorlige krenkelser vil også kunne rammes av bestemmelsen om mishandling i nære relasjoner.
+
+Press til å forbli i et ekteskap kan være en del av et mishandlingsregime som rammes av straffeloven §§ 282 og 283 om mishandling i nære relasjoner. Det kreves da at slikt press inngår i et mønster som resulterer i at den som rammes, må leve i et regime preget av kontinuerlig utrygghet og frykt for vold, jf. for eksempel HR-2019-621-A.[^886] I denne vurderingen kan krenkelser som i seg selv ikke er straffbare, vektlegges, jf. for eksempel HR-2018-112-A.[^887] Det innebærer at press til å forbli i et ekteskap eller en ekteskapslignende forbindelse kan være en del av et mishandlingsregime, selv om presset som utøves isolert sett ikke utgjør straffbar tvang etter straffeloven § 251. Dette gjelder uavhengig av om det er tale om et sivilrettslig gyldig ekteskap eller en ekteskapslignende forbindelse, og om ekteskapet eller forbindelsen ble frivillig inngått.
+
+Situasjoner der personer holdes fast i ekteskapslignende forbindelser som ikke er rettslig bindende i Norge, reiser enkelte særlige spørsmål. For noen slike forbindelser vil en part, typisk mannen, kunne holde den andre fast mot hens vilje fordi forbindelsen ikke kan opphøre uten partens samtykke. Det at en part nekter å samtykke til å oppløse en ekteskapslignende forbindelse, rammes ikke av noen eksisterende straffebestemmelser. Se mer om utenomrettslig ekteskap og utfordringene personer i slike ekteskap kan oppleve, i kapittel 3. Utvalget har ikke gått nærmere inn på om det kan finnes strafferettslige virkemidler som er egnet til å avhjelpe situasjoner der personer holdes fast i utenomrettslige ekteskap, men vil peke på at Nederland nylig har innført sivilrettslige tiltak som skal gjøre det enklere å oppløse utenrettslige ekteskap. Se mer om dette i kapittel 16, hvor utvalget anbefaler at det utredes nærmere om slike tiltak kan være egnet i en norsk rettslig kontekst.
+
+Hva er problemet?
+
+Barneekteskap der den fornærmede er mellom 16 og 18 år er ikke straffbare etter straffeloven § 262 andre ledd. Dersom det ikke kan bevises at et barn mellom 16 og 18 år er tvunget inn i ekteskapet eller den ekteskapslignende forbindelsen i tråd med straffeloven § 253 om tvangsekteskap, er slike ekteskap straffrie. Ifølge Kompetanseteamet mot negativ sosial kontroll og æresrelatert vold er saker som gjelder barneekteskap med barn mellom 16 og 18 år utfordrende, ettersom disse barna faller utenfor personkretsen i straffeloven § 262.<sup>1</sup> Barna selv innrømmer ofte ikke at de er utsatt for tvangsekteskap, blant annet på grunn av lojalitet til sine foreldre. Terskelen for å be om hjelp er høy.
+
+Dagens straffebestemmelse om barneekteskap i § 262 andre ledd rammer bare den som inngår ekteskapet. Personer som medvirker til barneekteskap, slik som foreldre og vigslere, kan ikke dømmes direkte for brudd på bestemmelsen. De kan bare straffes for medvirkning etter straffeloven § 15.
+
+Dagens straffebestemmelse rammer bare inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen, og ikke det å leve sammen med et barn i en slik forbindelse.
+
+<sup>1</sup> Kompetanseteamets årsrapport 2021: punkt 2.3.6.
+
+\[Boks slutt\]
+
+### Straffeloven § 262 andre ledd om barneekteskap
+
+#### Bør barneekteskap skilles ut i en egen straffebestemmelse?
+
+Dagens straffebestemmelse om ekteskap med barn under 16 år er plassert sammen med forbudet mot bigami i straffeloven § 262 første ledd med overskriften «Brudd på ekteskapsloven mv.». Etter utvalgets vurdering er denne plasseringen verken egnet eller heldig. Første og andre ledd ivaretar svært forskjellige rettsgoder. Første ledd om bigami verner om integriteten og valgfriheten til den som inngår ekteskap med en person som allerede er gift, og det verner om ekteskapet som sosial og rettslig institusjon.[^888] Andre ledd om barneekteskap er begrunnet i at et slikt forhold i seg selv regnes som et overgrep mot barnet.[^889]
+
+Plasseringen sammen med forbudet mot bigami synliggjør ikke straffverdigheten og alvorligheten av det å inngå ekteskap med et barn. Utvalget mener derfor at forbudet mot barneekteskap bør plasseres i en egen bestemmelse. Likhetene mellom straffebudene om barneekteskap og tvangsekteskap gjør at bestemmelsen om barneekteskap bør plasseres etter bestemmelsen om tvangsekteskap, i en ny § 253 a.
+
+#### Bør alle ekteskap med personer under 18 år kunne straffes som barneekteskap?
+
+Dersom det ikke kan bevises at barnet er tvunget inn i ekteskapet ved bruk av noen av midlene som er nevnt i straffeloven § 253, er det ikke straffbart å inngå ekteskap eller en ekteskapslignende forbindelse med en person mellom 16 og 18 år, jf. straffeloven § 262 andre ledd. Utvalget mener at aldersgrensen bør heves til 18 år, slik at bestemmelsen også rammer ekteskap inngått med barn mellom 16 og 18 år.
+
+En slik kriminalisering er i tråd med skadefølgeprinsippet. Forslaget skal verne barn mot de skadene et barneekteskap kan påføre dem. Et ekteskap innebærer regelmessig følelsesmessige og seksuelle relasjoner som kan være svært skadelige for et barn. I tillegg har et ekteskap både økonomiske og sosiale dimensjoner som et barn ikke har forutsetninger for å forstå eller forholde seg til. Forslaget skal verne barns rett til barndom og selvstendig utvikling. Lovgivningen verner barn mot en rekke potensielt skadelige avtaler og forhold avhengig av barnets alder, som deltakelse i krig, farlig arbeid og seksuelle relasjoner.[^890] Utvalget mener at hensynet til barnet tilsier at det også bør vernes mot ekteskap og ekteskapslignende forbindelser.
+
+Straffebudet om barneekteskap bygger på en presumsjon om at barnet er tvunget inn i ekteskapet. Etter utvalgets syn gjelder dette også for barn mellom 16 og 18 år. Barn mellom 16 og 18 år har vanligvis ikke den modenheten som kreves for selvstendig å ta stilling til konsekvensene av å inngå ekteskap. De er også sårbare for press fra familie og nære relasjoner. Dette illustreres også i rettspraksis, der flere av sakene om tvangsekteskap gjelder personer mellom 16 og 18 år, se for eksempel Rt. 2014 s. 205 (der den fornærmede var 16 år) og Rt. 2006 s. 140 (der den fornærmede var 17 år).
+
+Barnekomiteen og kvinnediskrimineringskomiteen har uttalt at barneekteskap der minst en av partene er under 18 år er en form for tvangsekteskap.[^891] Komiteene anbefaler at statene vedtar lovbestemmelser eller endrer lovgivningen for å adressere og bekjempe skadelige praksiser på en effektiv måte, herunder tvangsekteskap.[^892] Selv om uttalelsen ikke innebærer en rettslig forpliktelse til å kriminalisere ekteskap med personer mellom 16 og 18 år, gir den et sterkt signal om at ekteskap der en av partene er under 18 år er uønsket og bør reageres mot. I tillegg har utvalget lagt vekt på at både svenske og danske strafferegler definerer barneekteskap som ekteskap med personer under 18 år, se punktet om andre lands rett.
+
+Forslaget vil innebære en delvis nykriminalisering, ved at ekteskap med en person mellom 16 og 18 år vil bli kriminalisert uavhengig av om det er benyttet vold, frihetsberøvelse, annen straffbar eller urettmessig atferd eller utilbørlig press for å tvinge personen inn i ekteskapet. Siden barn under 18 år ikke har samtykkekompetanse til å inngå ekteskap, og siden slike ekteskap allerede etter gjeldende rett bør anses som tvangsekteskap, vil nykriminaliseringen etter utvalgets vurdering være begrenset.
+
+Handlinger som anses som barneekteskap er unntatt fra kravet om dobbel straffbarhet, jf. straffeloven § 5 første ledd nr. 4. Utvalget foreslår ingen endringer i dette. Det vil dermed ikke ha betydning om ekteskapet eller den ekteskapslignende forbindelsen er lovlig i det landet det ble inngått. Den som inngår et ekteskap med et barn under 18 år, hvor ekteskapet er frivillig fra barnets side og uten noen form for tvang, i et land med en lavere ekteskapsalder enn i Norge, vil dermed kunne straffes etter den nye bestemmelsen. Det er en forutsetning at tilknytningskravene i straffeloven § 5 er oppfylt. Bestemmelsen må imidlertid leses med en rettsstridsreservasjon i disse tilfellene. Det vises til at ekteskapsloven er endret (ikke trådt i kraft) og på nærmere vilkår vil åpne for å anerkjenne ekteskap inngått i utlandet der ingen av ektefellene har tilknytning til Norge, også der en av partene var under 18 år.[^893] Anerkjennes ekteskapet av norske myndigheter, er det ikke aktuelt å straffeforfølge den av ektefellene som var over 18 år ved ekteskapsinngåelsen.
+
+#### Bør personer med foreldreansvar rammes direkte av straffebudets ordlyd?
+
+Straffeloven § 262 andre ledd rammer bare personer som inngår ekteskap med noen under 16 år. Andre personer, for eksempel foreldre og andre som tillater eller legger til rette for ekteskapet, rammes ikke direkte av straffebudet. Disse kan straffes for medvirkning til barneekteskap etter straffeloven § 15. Etter utvalgets syn bør imidlertid også foreldre som tillater, legger til rette for eller er pådrivere for at deres barn inngår ekteskap eller en ekteskapslignende forbindelse, omfattes direkte av straffebudets ordlyd. I både svensk og dansk rett kan foreldre holdes direkte ansvarlige etter straffebestemmelsene om barneekteskap. Hensynet til like regler i de nordiske landene er etter utvalgets oppfatning et tungtveiende argument.
+
+Som følge av at barn ikke har rettslig handleevne til å inngå ekteskap, er det foreldrene som juridisk sett inngår ekteskapet på vegne av barnet. I praksis vil foreldrene ha en vel så sentral, og dermed også en mer straffverdig, rolle i det straffbare forholdet som den som inngår ekteskapet.[^894] Dette er klart i strid med den omsorgsplikten som følger av foreldreansvaret etter barnelova § 30, herunder det å utøve foreldreansvaret ut fra hva som er barnets beste. Foreldrene har primæransvaret for å sikre barnets beste og verne barnet mot den integritetskrenkelsen det er å inngå et ekteskap før barnet er tilstrekkelig modent. Etter utvalgets vurdering er det derfor gode grunner for at straffebestemmelsen bør ramme foreldrene direkte om de tilskynder eller aksepterer ekteskapet. En slik utvidelse er nødvendig for å gi barn et tilstrekkelig vern mot barneekteskap, og den er i tråd med statens positive forpliktelse til å beskytte barns integritet etter Grunnloven § 104 tredje ledd og etter barnekonvensjonen.
+
+Utvalget foreslår at bestemmelsen utvides til å ramme foreldrenes aktive handlinger for at ekteskapet kommer i stand. Disse handlingene kan for eksempel være at de avtaler med den kommende ektefellen eller ektefellens familie, at de organiserer det praktiske rundt seremonien, eller at de legger press på barnet til å samtykke til ekteskapet. Slike handlinger kan etter gjeldende rett straffes som medvirkning til barneekteskap eller forsøk på barneekteskap etter straffeloven § 15, men vil etter utvalgets forslag rammes direkte av ordlyden i straffebestemmelsen om barneekteskap.
+
+Videre foreslår utvalget at straffebestemmelsen utvides til å ramme passivitet fra foreldre til at et ekteskap eller en ekteskapslignende forbindelse kommer i stand. Dette kan for eksempel være der en forelder kjenner til at den andre planlegger et ekteskap for barnet, men lar være å gripe inn. Et annet eksempel er der foreldrene kjenner til at den mindreårige selv planlegger å inngå en ekteskapslignende forbindelse med en voksen person, uten at foreldrene forsøker å forhindre dette. Det å forholde seg passiv til at et barneekteskap inngås, kan være like alvorlig og straffverdig som det å aktivt handle for at det skal komme i stand.
+
+Selv om en forelders passivitet etter omstendighetene vil kunne rammes som passiv medvirkning, mener utvalget likevel at passivitet bør være en selvstendig overtredelse av bestemmelsen. Det er avgjørende for barnet at foreldrene aktivt beskytter det mot å inngå ekteskap.
+
+Utvalget har lagt en viss vekt på at når passivitet blir eksplisitt kriminalisert, oppstår det færre vanskelige spørsmål i vurderingen av om en forelder har opptrådt på en slik måte at passivt medvirkningsansvar er aktuelt. Om en forelder kan straffes for passivt medvirkningsansvar avhenger etter rettspraksis av en helhetlig vurdering av en rekke ulike forhold, blant annet hvor alvorlig lovbruddet er, hvor omfattende og lenge det har pågått, barnets alder, utvikling og sosiale situasjon, styrkeforholdet og relasjonen mellom omsorgspersonen og gjerningspersonen, om omsorgspersonen hadde en særlig foranledning til å gripe inn ut fra sin kunnskap om tidligere lovbrudd mot barnet, og hvilke virkemidler og handlingsalternativer omsorgspersonen hadde til rådighet for å gripe inn.[^895] En eksplisitt kriminalisering av slik passivitet er i samsvar med det strafferettslige klarhetskravet. Når passivitet blir klart kriminalisert, er det ikke tvil om at passivitet er straffbart.
+
+#### Bør vigsleren rammes av straffebudet om barneekteskap?
+
+I tillegg til å innføre et direkte straffansvar for personer med foreldreansvar, jf. punktet ovenfor, mener utvalget at straffebudet direkte bør ramme personer som har en nøkkelrolle i selve ekteskapsinngåelsen. Disse personene vil i dag bare kunne straffes for medvirkning etter straffeloven § 15. Etter utvalgets mening bør personer som forestår inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen rammes direkte av straffebudet om barneekteskap og ikke bare som medvirker.
+
+En vigsler eller en person med en lignende rolle er som regel en nødvendig forutsetning for å inngå et ekteskap eller en ekteskapelig forbindelse. Vedkommende bidrar dermed i en slik grad til at barnet havner i en skadelig situasjon, at atferden etter utvalgets syn må kriminaliseres direkte.
+
+Det har ikke betydning hvordan inngåelsen finner sted. Forslaget til bestemmelse rammer derfor både den som forestår vielser i tradisjonell forstand, den som forestår andre seremonier med lignende funksjon, og den som utferdiger en skriftlig avtale om ekteskap eller en ekteskapslignende forbindelse mellom partene. Utvalget har sett hen til at den danske straffeloven § 260 a rammer den som forretter en religiøs vielse uten borgerlig gyldighet, eller den som forestår inngåelsen av et annet ekteskapslignende forhold der en av partene er under 18 år (vigsleren). Det vil ikke ha betydning om partene selv ønsker å bli viet eller å inngå avtalen.
+
+#### Bør det å leve i et barneekteskap kriminaliseres?
+
+Utvalget foreslår at også det å leve i et ekteskap eller en ekteskapslignende forbindelse med et barn kriminaliseres.
+
+Etter utvalgets syn er det ikke bare selve inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen som barn bør beskyttes mot. Selve ekteskapet innebærer negative konsekvenser for barnet også etter inngåelsen, både følelsesmessige, seksuelle, sosiale og økonomiske konsekvenser. Det at bare inngåelsen av ekteskapet er kriminalisert, er etter utvalgets syn derfor ikke tilstrekkelig til å beskytte interessene som straffebudet skal verne.
+
+Ekteskapsinngåelsen innebærer at barnet må leve eller risikerer å leve i en intim relasjon med en voksen person, noe som etter utvalgets syn betyr at barnet frarøves en «vanlig» barndom. Utvalget mener derfor at straffebudet om barneekteskap også bør ramme det å leve i et ekteskap eller en ekteskapslignende forbindelse med et barn, og ikke bare inngåelsen av relasjonen.
+
+Utvalgets forslag innebærer at det etableres et straffansvar for den som lever i et ekteskap eller en ekteskapslignende forbindelse med barn, uavhengig av om det begås andre straffbare handlinger. En slik kriminalisering vil reflektere at det i første rekke anses som uønsket og skadelig at en voksen person lever i et ekteskap med et barn. Dersom barnet utsettes for andre straffbare handlinger, for eksempel seksuelle overgrep, utnyttelse, mishandling i nære relasjoner eller andre krenkelser av barnets integritet, vil de kunne straffeforfølges etter andre straffebestemmelser.
+
+I noen land er ekteskapsalderen lavere enn i Norge, og personer kan lovlig ha inngått ekteskap før de flyttet til Norge. Det er nylig foretatt en endring i ekteskapsloven som foreløpig ikke er trådt i kraft. Endringen innebærer at ekteskap som er lovlig inngått i utlandet av personer uten tilknytning til Norge, kan anerkjennes etter ekteskapsloven selv om en av partene fremdeles er under 18 år, dersom sterke grunner taler for det, jf. ekteskapsloven ny § 18 c.[^896] Anerkjennes ekteskapet av norske myndigheter etter de nye bestemmelsene i ekteskapsloven, kan det ikke samtidig være straffbart å leve i det. Da straffebudet om barneekteskap ble innført, ble det lagt til grunn at i de tilfellene fylkesmannen (nå statsforvalteren) godkjente et ekteskap etter anerkjennelsesbestemmelsene i ekteskapsloven, ville det ikke være aktuelt å straffeforfølge noen for at ekteskapet ble inngått.[^897] Dette kunne forankres i den generelle, ulovfestede rettsstridsreservasjonen. Utvalgets forslag til en ny straffebestemmelse må leses med den samme reservasjonen. Rettsstridsreservasjonen kan også gjøre at det i noen tilfeller ikke vil være aktuelt å straffeforfølge dem som lever i en ekteskapslignende forbindelse med et barn når forbindelsen er inngått i utlandet, selv der forbindelsen ikke anerkjennes i Norge.
+
+Forslaget vil ikke ramme det å leve i et samboerskap som ikke kan anses som en ekteskapslignende forbindelse, for eksempel der en 17-åring flytter inn hos en noe eldre kjæreste av praktiske årsaker, og der samboerskapet er av midlertidig karakter. Selv om noen samboerskap kan ha likhetstrekk med ekteskapslignende forbindelser, vil de ikke nødvendigvis være varige, oppleves som bindende eller etablere rettigheter og plikter mellom partene av rettslig, religiøs, sosial eller kulturell karakter, jf. straffeloven § 253 første ledd bokstav b. Det må derfor vurderes konkret om forbindelsen mellom partene utgjør en ekteskapslignende forbindelse eller ikke, på samme måte som ved inngåelsen.
+
+Verken svenske eller danske straffebestemmelser rammer det å leve i et ekteskap eller en ekteskapslignende forbindelse med en mindreårig. Utvalget har heller ikke funnet eksempler i andre lands rett på at det å leve i et ekteskap eller en ekteskapslignende forbindelse med et barn i seg selv kan straffes.
+
+Utvalget mener at passivitet fra en person med foreldreansvar til at barnet lever i et ekteskap eller en ekteskapslignende forbindelse, bør omfattes av bestemmelsen. Selv om slik passivitet etter omstendighetene kan rammes som passiv medvirkning, mener utvalget, på samme måte som for inngåelsen, at personer med foreldreansvar bør rammes direkte om de ikke griper inn. I slike tilfeller kan straffansvar oppstå etter at ekteskapet er inngått eller forbindelsen er etablert, for eksempel der en forelder har vært uvitende om at den andre har organisert et ekteskap for barnet. Det at en forelder forholder seg passiv til at barnet lever i et ekteskap eller ekteskapslignende forhold, kan etter utvalgets oppfatning være en så alvorlig krenkelse av barnets rettigheter at det bør ses som en overtredelse av straffebestemmelsen.
+
+I noen tilfeller kan det være vanskelig å bevise omstendighetene rundt inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen, for eksempel hvis inngåelsen har skjedd i utlandet. Det kan likevel være på det rene at partene lever sammen, og at de selv og omverdenen anser dem for å være gift. I dag kan ikke slike situasjoner straffes etter bestemmelsen om barneekteskap. En konsekvens av utvalgets forslag er at den voksne parten kan straffes for å leve i ekteskapet, og at personer med foreldreansvar kan straffes for passivitet, selv om deres medvirkning til selve inngåelsen ikke kan bevises.
+
+#### Strafferamme
+
+Etter gjeldende rett er strafferammen for barneekteskap etter straffeloven § 262 andre ledd fengsel i inntil tre år, mens strafferammen for tvangsekteskap etter § 253 er fengsel i inntil seks år. Forskjellen i strafferammene for tvangsekteskap og barneekteskap er ikke begrunnet av lovgiver.
+
+Etter utvalgets syn bør strafferammene være sammenfallende. Det er likhetstrekk mellom tvangsekteskap og barneekteskap. Det er en sterk presumsjon for at ekteskapet er inngått ved tvang når en av partene er barn. Et ekteskap inngått som barn vil kunne ha like alvorlige konsekvenser for den fornærmede som et tvangsekteskap. Den fornærmede kan være i et avhengighetsforhold til ektefellen som det er vanskelig å komme ut av, og risikoen for at barnet blir utsatt for ytterligere krenkelser, er stor. Dette tilsier at de to straffebestemmelsene bør ha samme strafferamme på fengsel i inntil seks år.
+
+Strafferammen for foreldre som medvirker til inngåelse av barneekteskap bør være den samme som for den som selv inngår ekteskap med barnet. Foreldrene har et særlig ansvar for å sikre sine barn mot integritetskrenkelser. Det er like alvorlig at foreldre unnlater å gripe inn mot, eller aktivt tilskynder at et ekteskap blir inngått, som at en person inngår selve ekteskapet med barnet.
+
+Å tillate eller tilskynde at et barn blir gift er utvilsomt straffverdig og krenker barnets grunnleggende rettigheter. Det dreier seg om sterkt beskyttelsesverdige interesser. Det er noe usikkert om en *høyere* strafferamme i seg selv vil ha en preventiv effekt, men dette er etter utvalgets syn ikke et tungtveiende argument mot å heve strafferammen. Hensynet til å beskytte barn er i seg selv tungtveiende og gir grunnlag for en høyere strafferamme enn i dag.
+
+For dem som utfører vigsel eller en lignende seremoni, mener utvalget at den gjeldende strafferammen i § 262 andre ledd, altså fengsel inntil tre år, er rett nivå. Dette gjør at strafferammen for vigslere vil være lavere enn strafferammen for ektefellen og foreldrene. Selv om vigslerens handlinger vil være nødvendige forutsetninger for at ekteskapet eller den ekteskapslignende forbindelsen kommer i stand, er ikke straffverdigheten den samme som for den som gifter seg med barnet, og foreldrene som tilskynder ekteskapet eller forholder seg passive til det.
+
+#### Uvitenhet om alder
+
+Utvalget foreslår å videreføre straffeloven § 262 andre ledd tredje punktum om at den som var uvitende om at den fornærmede var under 16 år, likevel kan straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet. Aktsomhetskravet bør etter utvalgets syn også gjelde der den fornærmede er mellom 16 og 18 år. Hensynet til barnet taler for å beholde et særlig strengt aktsomhetskrav for alle barn under 18 år.
+
+Utvalget foreslår at aktsomhetskravet gjelder både for den som inngår ekteskapet, personer med foreldreansvar og vigslere. Kravet er i første rekke aktuelt for den som gifter seg med den mindreårige, og som har særlig grunn til å forsikre seg om den kommende ektefellens riktige alder. For personer med foreldreansvar vil ikke unntaket for uvitenhet om alder være særlig relevant i praksis, men utvalget foreslår likevel et særlig strengt aktsomhetskrav også for disse personene av hensyn til sammenhengen i regelverket.
+
+Det strenge aktsomhetskravet skal etter forslaget også gjelde for den som forestår inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen. Den danske straffeloven § 260 a om den som forestår inngåelsen av et barneekteskap, krever forsett om den fornærmedes alder. Et forsettskrav om alder vil imidlertid gjøre det svært enkelt for vigslere å unngå straffansvar. Utvalget vektlegger også at vigslere enkelt kan forsikre seg om personenes alder før ekteskapsinngåelsen. For gyldige ekteskap kreves det prøvelsesattest fra Skatteetaten, som ikke vil bli utstedt dersom en av partene er under 18 år. For ekteskapslignende forbindelser uten sivilrettslig gyldighet er det ingen formelle formkrav. Det er etter utvalgets syn likevel rimelig å kreve at den som skal forestå seremonien eller avtalen krever framlagt gyldig legitimasjon der fødselsdato kommer fram. Derfor foreslår utvalget at også vigslere som var uvitende om at den fornærmede var under 16 år, likevel kan straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet.
+
+#### Jevnbyrdighet i alder og utvikling
+
+Utvalget mener at det fremdeles bør være en mulighet for å unnta for straffansvar dersom ektefellene er omtrent jevnbyrdige i alder og utvikling, jf. gjeldende straffelov § 262 andre ledd fjerde punktum.
+
+Etter utvalgets syn bør bestemmelsen utformes i tråd med Straffelovrådets forslag i NOU 2022: 21 om unntak fra straffbarhet i visse tilfeller.[^898] I stedet for en skjønnsmessig frifinnelsesgrunn foreslår Straffelovrådet en rettsstridsavgrensning, slik at visse handlinger ikke er straffbare dersom de involverte er omtrent jevnbyrdige i alder og utvikling og omstendighetene tilsier at handlingene ikke er krenkende.[^899] Dette skiller seg fra gjeldende rett, der handlingene er rettsstridige, men straff kan bortfalle ved jevnbyrdighet i alder og utvikling. Vilkåret om at omstendighetene tilsier at handlingene ikke er krenkende, skal fange opp vesentlige elementer i dagens skjønnsmessige vurdering.[^900]
+
+Straffelovrådets forslag til straffrihetsgrunn vil kunne avhjelpe uheldige konsekvenser av forslaget om å kriminalisere det å leve i en ekteskapslignende forbindelse med et barn. At handlingene vil anses som lovlige, kan ha stor betydning for de involverte, ved at de slipper å bli assosiert med å ha begått eller blitt utsatt for straffbare handlinger, noe som kan være belastende dersom begge parter har ønsket forholdet.
+
+Utvalgets forslag tar høyde for at straff vil kunne ramme urimelig hardt i noen tilfeller der ektefellene er nær hverandre både i alder og utvikling. En person som nærmer seg 18 år, vil kunne være i et forhold med en person som er noe over 18 år, og også frivillig etablere et samliv med denne personen. Det samme vil gjelde der ekteskapet er lovlig inngått i et annet land og det ikke er indikasjoner på tvang, og partene i etterkant etablerer seg i Norge og fortsetter et frivillig samliv her.
+
+Som omtalt i punkt 12.4.2.9 er det etter rettspraksis relativt hva som aksepteres som jevnbyrdighet i alder, og aldersforskjellen som aksepteres er mindre jo yngre den fornærmede er. Det samme vil gjelde etter utvalgets forslag. Dersom barnet er under 16 år, legger utvalget til grunn at det skal mye til for at unntaket kan komme til anvendelse, da det sjelden kan tenkes at handlingene ikke er krenkende.
+
+#### Konkurrens
+
+Ved konkurrens øker strafferammen etter straffeloven § 79 bokstav a. Etter gjeldende rett er det lagt til grunn at straffebudene om tvangsekteskap (§ 253) og barneekteskap (§ 262 andre ledd) etter omstendighetene kan brukes i konkurrens, dersom det er utøvd tvang mv. for å tvinge en person under 16 år inn i et ekteskap eller en ekteskapslignende forbindelse.[^901]
+
+Etter utvalgets mening bør den nye straffebestemmelsen om barneekteskap i utgangspunktet ikke brukes i konkurrens med straffebudet om tvangsekteskap. Inngåelse av ekteskap eller en ekteskapslignende forbindelse med en person under 18 år bør etter utvalgets vurdering forfølges etter den nye § 253 a, uavhengig av om det er benyttet handlinger som nevnt i § 253.
+
+Straffebudet om barneekteskap skal beskytte barn mot å inngå og leve i en samlivsform som er forbeholdt voksne. Det er bare denne interessen som vernes av det nye straffebudet. Dersom det er benyttet straffbare handlinger for å få barnet til å inngå ekteskap eller en ekteskapslignende forbindelse, som vold, tvang, trusler eller frihetsberøvelse, vil straffebudene som rammer disse handlingene, kunne benyttes i konkurrens med bestemmelsen om barneekteskap. Dersom det er benyttet utilbørlig press som ikke rammes av noen konkrete straffebestemmelser, vil dette etter omstendighetene kunne tillegges vekt i skjerpende retning i straffutmålingen.
+
+Utvalget legger til grunn at det nye straffebudet, på samme måte som i dag, vil kunne brukes i konkurrens med straffebud som rammer eventuelle krenkelser som skjer etter at ekteskapet eller den ekteskapslignende forbindelsen er inngått. For eksempel vil straffeloven § 282 om mishandling i nære relasjoner kunne ramme handlinger som har karakter av mishandling og som skjer etter ekteskapsinngåelsen. På samme måte vil bestemmelsene i straffeloven kapittel 26 kunne benyttes i konkurrens med straffebudet dersom det begås seksuallovbrudd, herunder forsøk på slike lovbrudd eller medvirkningshandlinger, i ekteskapet eller den ekteskapslignende forbindelsen.
+
+#### Foreldelse
+
+Foreldelsesfristen for tvangsekteskap begynner først å løpe den dagen den fornærmede fyller 18 år, jf. straffeloven § 87 første ledd andre punktum. Foreldelsesfristen for barneekteskap løper imidlertid fra den dagen det straffbare forholdet opphørte, det vil si da ekteskapet eller den ekteskapslignende forbindelsen ble inngått. Med dagens foreldelsesfrist på fem år vil straffansvaret foreldes få år etter at den fornærmede har fylt 18 år.[^902] En følge av utvalgets forslag om å heve aldersgrensen for barneekteskap fra 16 til 18 år er at ekteskapsinngåelse med et barn under 18 år som utgangspunkt skal straffes som barneekteskap og ikke tvangsekteskap. For å opprettholde dagens rettstilstand bør det etter utvalgets syn innføres utskutt foreldelsesfrist etter straffeloven § 87 også for barneekteskap.
+
+De samme hensynene som gir grunnlag for utskutt foreldelsesfrist for tvangsekteskap, gjelder også for barneekteskap. Den fornærmede vil kunne være enda yngre enn i saker om tvangsekteskap og vil ofte stå i et avhengighetsforhold til gjerningspersonen. Den fornærmede bør derfor ha lengre tid på seg til å anmelde forholdet enn i dag. Selv med en foreldelsesfrist på ti år som følge av høyere strafferamme mener utvalget at fristen først bør begynne å løpe når den fornærmede fyller 18 år.
+
+Når utvalget samtidig foreslår å kriminalisere det å leve i et ekteskap eller en ekteskapslignende forbindelse med et barn, vil det straffbare forholdet kunne opphøre først når den fornærmede fyller 18 år. Utvalgets forslag om utskutt foreldelsesfrist vil derfor bare ha praktisk betydning for de tilfellene der ekteskapet eller den ekteskapslignende forbindelsen opphører på et tidligere tidspunkt.
+
+Når det gjelder straffansvaret for den som forestår vielsen, seremonien eller avtaleinngåelsen om ekteskap, er utvalget i tvil om hvorvidt det er behov for utskutt foreldelsesfrist. I disse tilfellene står den fornærmede som regel ikke i et avhengighetsforhold til den som begår handlingen. Samtidig kan det være vanskelig for den fornærmede å anmelde forholdet før myndighetsalder, noe som taler for at det bør være utskutt foreldelse også i dette tilfellet. Med en strafferamme på tre år for denne gruppen vil foreldelsen dermed først inntre når den fornærmede fyller 23 år.
+
+#### Forslagets forhold til menneskerettighetene
+
+Barn mellom 16 og 18 år er i dag ikke vernet mot ekteskap eller ekteskapslignende forbindelser, med mindre de blir tvunget inn i en slik forbindelse ved bruk av noen av tvangsmidlene som er nevnt i straffeloven § 253. Et straffebud som rammer det å inngå og det å leve i et ekteskap med et barn under 18 år, vil bidra til å sikre barns rett til vern av sin personlige integritet etter Grunnloven § 104 og barnekonvensjonen. Barneekteskap er en «tradisjonsbunden praksis som er skadelig for barns helse», jf. barnekonvensjonen artikkel 24 nr. 3. Kriminalisering av slike ekteskap uavhengig av om det er benyttet tvang, vil kunne være et egnet og effektivt tiltak for å bekjempe barneekteskap der en av partene eller begge er under 18 år. Utvalgets forslag vil være egnet til å beskytte barn mot barneekteskap i større grad enn dagens straffebestemmelse. Utvalget mener også at utvidelsen av personkretsen som rammes av straffebudet ikke går lenger enn nødvendig. Skal straffebudet ha effekt, må det også ramme personer med foreldreansvar som ikke har beskyttet barnet mot å inngå eller leve i et ekteskap med en voksen person.
+
+Forslaget vil gripe inn i retten til privatliv etter EMK artikkel 8 nr. 1, særlig forslaget om å kriminalisere det å leve i et ekteskap eller en ekteskapslignende forbindelse med en person under 18 år. Dersom et ekteskap eller en ekteskapslignende forbindelse først er inngått, vil det kunne være etablert et familieliv som et straffansvar for den ene parten vil gripe inn i. Utvalget mener likevel at forslaget om et straffebud om å leve i et barneekteskap kan innføres innenfor våre internasjonale forpliktelser og rettferdiggjøres etter EMK artikkel 8 nr. 2. Forslaget skal beskytte barn mot å inngå i en relasjon som er forbeholdt voksne, det vil si å beskytte barnets rettigheter og friheter, herunder barns rett til å være barn. Dette er et legitimt formål som etter utvalgets syn gir en tilstrekkelig begrunnelse for å gripe inn i retten til privat- og familieliv. Forslaget vil også oppfylle kravet om klar hjemmel i lov.
+
+Forslaget er videre nødvendig i et demokratisk samfunn og er etter utvalgets syn forholdsmessig. Utvalget anser at mindre inngripende tiltak ikke vil være tilstrekkelige. Hensynet til å beskytte barn mot voksne relasjoner som kan være skadelige for dem, er tungtveiende interesser som kan begrunne en mer omfattende kriminalisering enn dagens bestemmelse. Skal formålet bak forslaget realiseres, kan ikke kriminaliseringen begrenses til ritualet eller avtaleinngåelsen som etablerer selve relasjonen. Det er etter utvalgets syn selve samlivet som i størst grad krenker barnets integritet og behov for beskyttelse, og som derfor må kriminaliseres. Kriminaliseringen av å leve i et ekteskap eller en ekteskapslignende forbindelse med et barn eller å tillate at barnet lever i et barneekteskap, er derfor proporsjonal.
+
+Ved at det innføres en straffrihetsgrunn dersom ektefellene er jevnbyrdige i alder og utvikling og omstendighetene tilsier at handlingene ikke er krenkende, tar forslaget høyde for at det kan være tilfeller der det verken er nødvendig eller rimelig å straffe ektefellen eller foreldrene.
+
+Samlet sett mener utvalget at forslaget om en ny straffebestemmelse om barneekteskap er i tråd med og bidrar til å oppfylle våre internasjonale forpliktelser.
+
+### Straffeprosessuelle spørsmål
+
+#### Bistandsadvokat i straffesaker om barneekteskap
+
+Etter utvalgets syn bør det være en ubetinget rett til bistandsadvokat i saker om barneekteskap. Likhetstrekkene mellom barneekteskap og tvangsekteskap er store. Det legges også vekt på utvalgets forutsetning om at bestemmelsene om barneekteskap og tvangsekteskap ikke lenger skal kunne brukes i konkurrens. Den fornærmede bør derfor ha en ubetinget rett på bistandsadvokat i saker om barneekteskap, se utvalgets forslag til tilføyelse i straffeprosessloven § 107 a første ledd bokstav a.
+
+#### Tilrettelagte avhør ved tvangsekteskap og barneekteskap
+
+Etter straffeprosessloven § 239 første ledd skal tilrettelagte avhør brukes ved avhør av vitner under 16 år, herunder fornærmede, i saker om seksuallovbrudd, kroppsskade, drap, mishandling i nære relasjoner og kjønnslemlestelse. Etter utvalgets syn er det gode grunner for at tilrettelagte avhør også skal brukes i saker om tvangsekteskap og barneekteskap. Selv om disse sakene omfattes av kan-regelen i straffeprosessloven § 239 fjerde ledd, mener utvalget at det er en fordel om tilrettelagte avhør gjøres obligatorisk.
+
+Det er viktig å legge til rette for at tvangsekteskap og barneekteskap blir anmeldt og avdekket, og at barn og særlig sårbare voksne som utsettes for slike handlinger, blir ivaretatt. I likhet med saker om mishandling i nære relasjoner er den fornærmede i saker om tvangsekteskap og barneekteskap ofte nært knyttet til den siktede. Det kan derfor oppleves som svært belastende å forklare seg i slike saker. Tilrettelagte avhør skal tas raskt og ved barnehusene, som har særlig kompetanse i å ivareta barn. Dette vil sikre at barns særlige behov blir bedre ivaretatt enn ved vanlige avhørsmetoder. Det samme gjelder for personer med psykisk utviklingshemming. Utvalget mener at krav om bruk av tilrettelagt avhør vil gi bedre vern for barn og særlig sårbare personer som er utsatt for slike straffbare handlinger.
+
+En konsekvens av forslaget er at barn mellom 12 og 16 år og personer med psykisk utviklingshemming eller annen funksjonsnedsettelse som medfører samme behov for tilrettelagte avhør, vil få forklaringsplikt for politiet i saker om tvangsekteskap og barneekteskap, og at de ikke kan fritas forvitne- og forklaringsplikt etter straffeprosessloven §§ 122 og 123. Utvalget mener at de hensynene som gir grunnlag for at barn ikke fritas fra vitne- og forklaringsplikt ved tilrettelagte avhør ved mishandling i nære relasjoner, gjelder også i saker om tvangsekteskap og barneekteskap. Forklarer ikke barnet seg, er det en risiko for at forholdet ikke avdekkes og barnet må fortsette å leve i ekteskapet. Videre bør barnet slippe lojalitetskonflikten ved å velge om de vil forklare seg mot nærstående eller ikke i slike saker, og det bør slippe eventuelt press om ikke å forklare seg.

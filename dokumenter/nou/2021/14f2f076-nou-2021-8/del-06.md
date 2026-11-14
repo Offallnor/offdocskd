@@ -1,918 +1,308 @@
-# NOU 2021: 8, del 6 av 35 (side 59–68)
+# NOU 2021: 8, del 6 av 39
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/14f2f076-nou-2021-8.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-8/id2860696/
 - Original-PDF: https://www.regjeringen.no/contentassets/be04c89d055e481a97201c3c81c6560a/no/pdfs/nou202120210008000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 59]
+# Koordineringsprinsippene
 
-NOU 2021: 8
-Trygd over landegrensene
+## Innledning
 
-for å oppholde seg eller å bo i en annen EØSstat. Et «opphold» omfatter både et kortvarig
-opphold og besøk av lengre varighet (jf. dommen i I, C-255/13, EU:C:2014:1291, avsnitt 50).
-Denne forståelse bekreftes blant annet av en
-sammenligning av de ulike språkversjoner,
-herunder den danske, franske, tyske og svenske tekst. Følgelig må uttrykket «oppholder
-seg» i artikkel 21 nr. 1 forstås slik at det omfatter kortvarige opphold slik som i hovedsaken.»
-Også handleturen til Strømstad og helgeturen til
-Paris vil følgelig måtte anses som «opphold» i
-trygdeforordningens forstand.
+Internasjonal trygdekoordinering bygger tradisjonelt på fem grunnprinsipper: enstatsprinsippet, likebehandlingsprinsippet, sammenleggingsprinsippet, eksportabilitetsprinsippet og delpensjonsprinsippet. Disse grunnleggende utgangspunktene gjenfinnes også i trygdeforordningen, i henholdsvis artikkel 11, 4, 6, 7 og 52. I forlengelsen av likebehandlingsprinsippet har dessuten EU-domstolen utviklet prinsippet om likestilling av ytelser, inntekter og (andre) rettsstiftende faktiske omstendigheter inntruffet i ulike medlemsstater. Dette prinsippet er nå kodifisert i trygdeforordningen artikkel 5, og utvalget finner det hensiktsmessig å omtale dette på linje med de nevnte grunnprinsippene.
 
-4.4.8 Den administrative kommisjon
-I trygdeforordningen artikkel 1 bokstav n) er Den
-administrative kommisjon definert som den kommisjon som er omtalt i forordningen artikkel 71.
-Utvalget omtaler Den administrative kommisjon i punkt 3.5.1. Øvrig administrativt samarbeid
-er omtalt i punkt 3.5.2.
-4.4.9
+Som omtalen av de enkelte prinsippene vil vise, er det tidvis uklart hvor langt de rekker og hvordan de skal avstemmes mot hverandre. Det kan også være uklart hvordan enkelte av prinsippene forholder seg til trygdeforordningens øvrige bestemmelser, og da særlig til bestemmelser som gir anvisning på andre løsninger enn dem som prinsippene understøtter. Noe av utfordringen skyldes at det ikke uten videre er klart hvilken rettslig betydning det har at EU-domstolen og EU-lovgiver setter merkelappen «prinsipp» på normer som knesetter utgangspunkter og hovedregler, men som ikke hindrer at EU-lovgiver setter dem helt eller delvis til side gjennom særregler.[^157] Prinsippbegrepet brukes ofte av EU-domstolen i tilfeller hvor den utfyller den skrevne EU-retten med ulovfestede normer, men merkelappen følger gjerne med også når prinsippene senere kodifiseres av EU-lovgiver. Slik utvalget ser det, kan koordineringsprinsippene som omtales i det følgende, betraktes som en kombinasjon av *hovedregler*, som gjelder med de unntak som følger av andre bestemmelser i forordningen, og en form for *bakgrunnsrett* for tolkningen av trygdeforordningens øvrige bestemmelser.[^158]
 
-Den kompetente myndighet, den
-kompetente institusjon og den
-kompetente medlemsstat
-Uttrykkene «den kompetente myndighet», «den
-kompetente institusjon» og «den kompetente
-medlemsstat» er definert i artikkel 1 bokstavene
-s, m og q.
-«Kompetent medlemsstat» er den medlemsstaten der den kompetente institusjonen er lokalisert.
-«Kompetent institusjon» er enten institusjonen
-der den berørte personen er trygdedekket på søknadstidspunktet for en ytelse, eller institusjonen
-vedkommende har rett til eller ville hatt rett til
-ytelser fra, hvis han/hun eller hans/hennes fami-
+EU-lovgivers påminnelse i fortalen avsnitt 37 om betydningen av eksportabilitetsprinsippet er illustrerende:
 
-57
+«Som Domstolen gjentatte ganger har uttalt, må bestemmelser som fraviker prinsippet om at trygdeytelser kan eksporteres, gis en streng fortolkning. …»
 
-Kapittel 4
+Som fremstillingen nedenfor og i kapittel 8 vil vise, er det nokså mange særregler i trygdeforordningen som fraviker koordineringsprinsippene. Dette er årsaken til at utvalget i punkt 15.6 fraråder forsøk på å gjengi disse prinsippene i folketrygdloven.
 
-liemedlem eller familiemedlemmer var bosatt i
-den staten der institusjonen er beliggende.
-«Kompetent myndighet» skal bety statsråden
-eller statsrådene eller annen tilsvarende myndighet som er ansvarlig for trygdeordningene i hele
-eller deler av vedkommende medlemsstat.
-I Norge vil Arbeids- og velferdsetaten i de
-fleste tilfeller være kompetent institusjon når det
-gjelder kontantytelser som omfattes av trygdeforordningen.
-Betydningen av hvilken stat som pekes ut som
-kompetent stat, er nærmere omtalt i punkt 6.2.3.
+Ut over de koordineringsprinsippene som fremstilles i det følgende, finnes flere generelle EU-og EØS-rettslige prinsipper som også har betydning for nasjonale trygdemyndigheter. Et eksempel er prinsippet om god forvaltning, som forordningen selv viser til i artikkel 76 om administrativt samarbeid. Et annet er det generelle lojalitetsprinsippet, nedfelt i EØS-avtalen artikkel 3, som vil ha betydning både for det nevnte administrative samarbeidet (jf. punkt 3.5) og for den nasjonale gjennomføringen av trygdeforordningens krav til nasjonal rett (jf. kapittel 15). Et tredje eksempel er forholdsmessighetsprinsippet, som vil ha betydning i alle tilfeller hvor nasjonal trygdelovgivning innebærer en restriksjon på den frie bevegeligheten i EØS og som også vil kunne dukke opp i andre konstellasjoner.[^159] Disse og andre relevante prinsipper vil bli omtalt flere steder i de påfølgende kapitlene, men i dette kapitlet har utvalget funnet det hensiktsmessig å løfte frem de prinsippene som spesifikt gjelder trygdeforordningen.
 
-4.4.10 Trygdetid, tid med lønnet arbeid, tid
-med selvstendig virksomhet, botid
-De fleste nasjonale trygdeordninger knytter vilkår
-og rettigheter til at det tidligere er gjennomført
-opptjeningsperioder av ulik art. Dette knytter seg
-ofte til perioder der man har vært trygdedekket i
-en stats nasjonale trygdeordning, har vært i
-arbeid eller selvstendig virksomhet, eller har vært
-bosatt i staten.
-Disse uttrykkene er definert i trygdeforordningen artikkel 1 bokstav t), u) og v), og får blant
-annet betydning for sammenleggingsprinsippet.
-Dette er nærmere omtalt i punkt 5.5, og under de
-enkelte ytelsene i kapittel 8.
-Det som i norsk oversettelse av forordningen
-er kalt «trygdetid», er i dansk oversettelse kalt
-«forsikringsperioder» og i engelsk oversettelse
-«period of insurance». Hva som menes med trygdetid i forordningens forstand, må avgjøres etter
-definisjonen i artikkel 1 bokstav t). Det er verdt å
-merke seg at «trygdetid» også er definert i folketrygdloven § 3-5, men med en annen betydning
-enn i trygdeforordningen. Etter utvalgets syn er
-dette uheldig. En alternativ norsk oversettelse
-kunne vært «tid med trygdedekning», se utvalgets omtale av «medlem i trygdeordningen» i
-punkt 4.4.3.
+## Enstatsprinsippet
 
-[Side 60]
+Enstatsprinsippet har som formål å sikre at en person skal være underlagt trygdelovgivningen til en stat av gangen. Prinsippet fremgår av artikkel 11 nr. 1 første punktum i trygdeforordningen, som lyder slik:
 
-58
+«Personer som omfattes av denne forordning, skal være undergitt lovgivningen i bare én medlemsstat.»[^160]
 
-NOU 2021: 8
+Dette har to sider. For det første skal det hindre at en person blir medlem av to eller flere staters trygdeordninger samtidig, med tilhørende plikt til å betale trygdeavgift. For det andre skal det hindre at vedkommende faller mellom to stoler og blir stående uten mulighet for trygdedekning i noen stat.
 
-Kapittel 5
+Behovet for å regulere dette kan synliggjøres med følgende eksempel:
 
-Trygd over landegrensene
+Trygdesystemet i stat A gir medlemskap bare til personer som er bosatt i staten, mens trygdesystemet i stat B gir medlemskap bare til personer som arbeider der. Hvis en person bor i stat A og arbeider i stat B, vil vedkommende etter statenes nasjonale regler bli medlem i begge statenes trygdeordninger. Hvis personen bor i stat B, men arbeider i stat A, vil vedkommende etter statenes nasjonale regler ikke kunne få trygdedekning i noen av statene.
 
-Kapittel 5
+Enstatsprinsippet er kommet til uttrykk i trygdeforordningen ved at det er fastsatt regler om lovvalg. Disse reglene angir hvilken stats trygdelovgivning som skal få virkning i et bestemt tilfelle. Den staten som pekes ut etter disse reglene, omtales i utredningen her som lovvalgsstat. Avdeling II i trygdeforordningen (artiklene 11 til 16) samt avdeling II i gjennomføringsforordningen (artiklene 14 til 21) regulerer lovvalget for personer som omfattes av forordningen.[^161] Særlige regler om lovvalg for arbeidsløshetsytelser følger av trygdeforordningen artikkel 65, jf. artikkel 11 nr. 3 bokstav c.[^162] For en nærmere redegjørelse vises det til fremstillingen i punkt 8.16.
 
-Koordineringsprinsippene
-5.1
+Selv om lovvalgsreglene sørger for at det til enhver tid er en medlemsstat som er utpekt som lovvalgsstat for en person som omfattes av trygdeforordningens personkrets, betyr ikke dette at lovvalgsstaten må tilby trygdedekning til vedkommende. I mange medlemsstater faller selvstendig næringsdrivende utenfor trygdeordningene. Den eneste virkningen av lovvalgsreglene i slike tilfeller er at de unngår eventuelle krav om innbetaling av trygdeavgift fra andre medlemsstater. Et særegent norsk eksempel er regelen i folketrygdloven § 2-12, som unntar ansatte i hotell- og restaurantvirksomhet om bord på turistskip registrert i norsk internasjonalt skipsregister fra medlemskap i folketrygden, se nærmere omtale i punkt 6.12.
 
-Innledning
+For å sikre at en person bare er omfattet av én stats trygdelovgivning, har lovvalgsreglene *obligatorisk* og *eksklusiv* effekt. Forordningen krever at den utpekte medlemsstat gir sin trygdelovgivning anvendelse, og er samtidig til hinder for at stater som ikke pekes ut etter lovvalgsreglene anvender sin lovgivning.
 
-Internasjonal trygdekoordinering bygger tradisjonelt på fem grunnprinsipper: enstatsprinsippet,
-likebehandlingsprinsippet, sammenleggingsprinsippet, eksportabilitetsprinsippet og delpensjonsprinsippet. Disse grunnleggende utgangspunktene gjenfinnes også i trygdeforordningen, i henholdsvis artikkel 11, 4, 6, 7 og 52. I forlengelsen av
-likebehandlingsprinsippet har dessuten EU-domstolen utviklet prinsippet om likestilling av ytelser,
-inntekter og (andre) rettsstiftende faktiske
-omstendigheter inntruffet i ulike medlemsstater.
-Dette prinsippet er nå kodifisert i trygdeforordningen artikkel 5, og utvalget finner det hensiktsmessig å omtale dette på linje med de nevnte
-grunnprinsippene.
-Som omtalen av de enkelte prinsippene vil
-vise, er det tidvis uklart hvor langt de rekker og
-hvordan de skal avstemmes mot hverandre. Det
-kan også være uklart hvordan enkelte av prinsippene forholder seg til trygdeforordningens øvrige
-bestemmelser, og da særlig til bestemmelser som
-gir anvisning på andre løsninger enn dem som
-prinsippene understøtter. Noe av utfordringen
-skyldes at det ikke uten videre er klart hvilken
-rettslig betydning det har at EU-domstolen og EUlovgiver setter merkelappen «prinsipp» på normer
-som knesetter utgangspunkter og hovedregler,
-men som ikke hindrer at EU-lovgiver setter dem
-helt eller delvis til side gjennom særregler.1 Prinsippbegrepet brukes ofte av EU-domstolen i tilfeller hvor den utfyller den skrevne EU-retten med
-ulovfestede normer, men merkelappen følger
-gjerne med også når prinsippene senere kodifise1
+I sak 302/84 *Ten Holder* la EU-domstolen til grunn at enstatsprinsippet var absolutt, jf. avsnitt 19 flg:
 
-I trygdeforordningens fortale settes merkelappen «prinsipp» på forbudet mot nasjonalitetsbasert forskjellsbehandling (åttende avsnitt), kravet til likebehandling av ytelser,
-inntekter og faktiske forhold (niende avsnitt), kravet til
-sammenlegging av tid (tiende avsnitt) og retten til eksport
-av trygdeytelser (37. avsnitt). Fortalen inneholder også en
-henvisning til det generelle forholdsmessighetsprinsippet
-(tolvte avsnitt). I forordningens artikkel 76 om administrativt samarbeid vises det til «prinsippet om god forvaltning».
+«… efter Domstolens faste praksis følger det af afsnit II i forordningerne nr. 3 og nr. 1408/71, som bestemmer, hvilken lovgivning der skal anvendes på arbejdstagere, der flytter inden for Fællesskabet, at arbejdstagerne alene er undergivet socialsikringen i én medlemsstat for at undgå, at forskellige landes lovgivninger overlapper hinanden med de deraf følgende forviklinger. \[…\]
 
-res av EU-lovgiver. Slik utvalget ser det, kan koordineringsprinsippene som omtales i det følgende,
-betraktes som en kombinasjon av hovedregler,
-som gjelder med de unntak som følger av andre
-bestemmelser i forordningen, og en form for bakgrunnsrett for tolkningen av trygdeforordningens
-øvrige bestemmelser.2
-EU-lovgivers påminnelse i fortalen avsnitt 37
-om betydningen av eksportabilitetsprinsippet er
-illustrerende:
-«Som Domstolen gjentatte ganger har uttalt,
-må bestemmelser som fraviker prinsippet om
-at trygdeytelser kan eksporteres, gis en streng
-fortolkning. …»
-Som fremstillingen nedenfor og i kapittel 8 vil
-vise, er det nokså mange særregler i trygdeforordningen som fraviker koordineringsprinsippene. Dette er årsaken til at utvalget i punkt 15.6
-fraråder forsøk på å gjengi disse prinsippene i folketrygdloven.
-Ut over de koordineringsprinsippene som
-fremstilles i det følgende, finnes flere generelle
-EU-og EØS-rettslige prinsipper som også har
-betydning for nasjonale trygdemyndigheter. Et
-eksempel er prinsippet om god forvaltning, som
-forordningen selv viser til i artikkel 76 om administrativt samarbeid. Et annet er det generelle lojalitetsprinsippet, nedfelt i EØS-avtalen artikkel 3,
-som vil ha betydning både for det nevnte administrative samarbeidet (jf. punkt 3.5) og for den nasjonale gjennomføringen av trygdeforordningens
-krav til nasjonal rett (jf. kapittel 15). Et tredje
-eksempel er forholdsmessighetsprinsippet, som
-vil ha betydning i alle tilfeller hvor nasjonal trygdelovgivning innebærer en restriksjon på den frie
-bevegeligheten i EØS og som også vil kunne
+Afsnit II indeholder nemlig et sæt udtømmende kollisionsnormer, således at lovgiveren i den enkelte medlemsstat herefter ikke er beføjet til at fastlægge rækkevidden og anvendelsesbetingelserne for national lovgivning, for så vidt angår de omfattede personer samt det område, inden for hvilket de nationale forskrifter finder anvendelse. …»
 
-2
+I sak C-352/06 *Bosmann* slo EU-domstolen fast at lovvalgsreglenes eksklusive effekt ikke avskjærer bosettingsstatens adgang til å innvilge ytelser. At Tyskland ikke var utpekt som lovvalgsstat etter forordningen, var ikke til hinder for at tyske trygdemyndigheter i henhold til EU-retten kunne – og derfor i henhold til tysk rett måtte – utbetale barnetrygd til en mor som var bosatt i Tyskland og som fylte alle vilkår etter tysk rett for rett til ytelsen. I forente saker C-611/10 og C-612/10 *Hudzinski och Wawrzyniak* presiserte EU-domstolen at prinsippet fra *Bosmann*-saken ikke var betinget av bosetting. Retten til barnetrygd etter tysk rett tilkom ikke bare bosatte, men også personer som var skattepliktige i Tyskland. Forordningens lovvalgsregler kunne i et slikt tilfelle ikke påberopes som grunnlag for å nekte å utbetale barnetrygd til to utsendte polske arbeidstakere som var underlagt ubegrenset skatteplikt i Tyskland, under henvisning til at de var bosatt og trygdedekket i Polen. En stat som ikke er utpekt som lovvalgsstat vil imidlertid kunne avskjære retten til ytelser i slike tilfeller gjennom nasjonale vilkår som forbeholder ytelsene til personer som er trygdedekket i vedkommende stat, jf. forente saker C-95/18 og C-96/18 *van den Berg* og omtalen av denne dommen i punkt 2.4.3. Denne problematikken er aktuell både for barnetrygd og kontantstøtte fordi norsk rett ikke stiller krav til medlemskap i folketrygden for disse ytelsene, se punkt 8.18.2.2 og 8.19.2.2.
 
-Se nærmere Pennings, Principles of EU coordination of
-social security, side 338-340, som problematiserer ulike forståelser av prinsippbegrepet på EU-trygderettens område.
+At lovvalgsreglene peker ut én lovvalgsstat, innebærer likevel ikke at det bare er én stat som kan og må betale ut ytelser. Det er en betingelse for *opptjening* av trygdeytelser, men ikke nødvendigvis for *utbetaling*, at en er dekket av statens trygdelovgivning på det aktuelle tidspunktet. Opptjente rettigheter fra en medlemsstat vil være i behold, selv om denne ikke lenger er å anse som lovvalgsstat etter lovvalgsreglene. Langtidsytelser, som uføretrygd og pensjon, er gjerne opptjent over lang tid gjennom arbeid eller bosetting. Når en person har vært omfattet av trygdelovgivningen i flere stater, åpner forordningen for at slike ytelser tilkjennes av flere stater, beregnet etter forordningenes *pro rata*-regler.[^163] Dette innebærer at man får en ytelse fra hver enkelt stat, beregnet på grunnlag av hvilken opptjening man har i den enkelte staten. Forordningens regler om *pro rata*-utbetaling har ingen innvirkning på lovvalgsreglene. Selv om flere stater er ansvarlig for samtidig utbetaling av ytelser i disse tilfellene, vil det til enhver tid bare være én medlemsstat som er lovvalgsstat for mottakeren av ytelsene. Tilsvarende gjelder ved utbetaling av differanseberegnede familieytelser fra flere stater.
 
-[Side 61]
+Videre vil en innvilget trygdeytelse være i behold når mottaker bosetter seg i en annen EØS-stat, selv om lovvalget skulle gå over på bosettingsstaten i medhold av trygdeforordningen artikkel 11 nr. 3 bokstav e. Prinsippet om eksport av trygdeytelser, jf. trygdeforordningen artikkel 7, vil i et slikt tilfelle innebære at den medlemsstat som var kompetent på søknadstidspunktet, må utbetale ytelser som allerede er innvilget, selv om denne ikke lenger er lovvalgstat, se nærmere i punkt 5.6 nedenfor.
 
-NOU 2021: 8
-Trygd over landegrensene
+Også i visse andre tilfeller kan en stat etter EØS-retten måtte utbetale ytelser til en person som ikke er omfattet av dennes lovgivning etter lovvalgsreglene. For så vidt gjelder familieytelser, kan en stat være forpliktet til å betale ytelser til et familiemedlem til en person som er underlagt denne statens lovgivning, selv om det aktuelle familiemedlemmet selv er underlagt en annen stats lovgivning.[^164]
 
-dukke opp i andre konstellasjoner.3 Disse og
-andre relevante prinsipper vil bli omtalt flere steder i de påfølgende kapitlene, men i dette kapitlet
-har utvalget funnet det hensiktsmessig å løfte
-frem de prinsippene som spesifikt gjelder trygdeforordningen.
+Eksempel på anvendelse av enstatsprinsippet
 
-5.2
+Anna har jobbet som resepsjonist i Norge på flere ulike hoteller de siste fem årene og har i hvert av disse årene hatt en årslønn på ca. 375 000 kroner. Hun har i hele perioden vært bosatt i Sverige og har pendlet hver helg fra sin norske hybel til sin bolig i Sverige.
 
-Boks 5.1 Eksempel på anvendelse av
-enstatsprinsippet
-Anna har jobbet som resepsjonist i Norge på
-flere ulike hoteller de siste fem årene og har i
-hvert av disse årene hatt en årslønn på ca.
-375 000 kroner. Hun har i hele perioden vært
-bosatt i Sverige og har pendlet hver helg fra
-sin norske hybel til sin bolig i Sverige.
-Hotellet hun jobber på må som følge av få
-turister legge ned, og hun blir derfor helt
-arbeidsløs. Anna anses etter trygdeforordningen artikkel 1 bokstav f som en grensearbeider. Det følger da av artikkel 65 nr. 2 at hun
-som helt ledig grensearbeider ikke skal ha
-dagpenger fra Norge, men fra sin bostedsstat,
-altså Sverige.
-Som arbeidstaker i Norge har hun vært
-medlem i folketrygden. Hun har også hatt tilstrekkelig inntekt i Norge til at hun fyller de
-nasjonale vilkårene for dagpenger. Forutsatt at
-hun oppholder seg i Norge, vil hun også fylle
-alle øvrige nasjonale dagpengevilkår.
-Selv om hun fyller alle nasjonale vilkårene
-for dagpenger, vil hun ikke kunne søke dagpenger i Norge fordi trygdeforordningen her
-legger ansvaret for dagpenger under arbeidsløshet til Sverige.
+Hotellet hun jobber på må som følge av få turister legge ned, og hun blir derfor helt arbeidsløs. Anna anses etter trygdeforordningen artikkel 1 bokstav f som en grensearbeider. Det følger da av artikkel 65 nr. 2 at hun som helt ledig grensearbeider ikke skal ha dagpenger fra Norge, men fra sin bostedsstat, altså Sverige.
 
-Enstatsprinsippet
+Som arbeidstaker i Norge har hun vært medlem i folketrygden. Hun har også hatt tilstrekkelig inntekt i Norge til at hun fyller de nasjonale vilkårene for dagpenger. Forutsatt at hun oppholder seg i Norge, vil hun også fylle alle øvrige nasjonale dagpengevilkår.
 
-Enstatsprinsippet har som formål å sikre at en
-person skal være underlagt trygdelovgivningen til
-en stat av gangen. Prinsippet fremgår av artikkel
-11 nr. 1 første punktum i trygdeforordningen, som
-lyder slik:
-«Personer som omfattes av denne forordning,
-skal være undergitt lovgivningen i bare én
-medlemsstat.»4
-Dette har to sider. For det første skal det hindre at
-en person blir medlem av to eller flere staters
-trygdeordninger samtidig, med tilhørende plikt til
-å betale trygdeavgift. For det andre skal det hindre at vedkommende faller mellom to stoler og
-blir stående uten mulighet for trygdedekning i
-noen stat.
-Behovet for å regulere dette kan synliggjøres
-med følgende eksempel:
-Trygdesystemet i stat A gir medlemskap bare
-til personer som er bosatt i staten, mens trygdesystemet i stat B gir medlemskap bare til personer
-som arbeider der. Hvis en person bor i stat A og
-arbeider i stat B, vil vedkommende etter statenes
-nasjonale regler bli medlem i begge statenes trygdeordninger. Hvis personen bor i stat B, men
-arbeider i stat A, vil vedkommende etter statenes
-nasjonale regler ikke kunne få trygdedekning i
-noen av statene.
-Enstatsprinsippet er kommet til uttrykk i trygdeforordningen ved at det er fastsatt regler om
-lovvalg. Disse reglene angir hvilken stats trygdelovgivning som skal få virkning i et bestemt tilfelle. Den staten som pekes ut etter disse reglene,
-omtales i utredningen her som lovvalgsstat. Avdeling II i trygdeforordningen (artiklene 11 til 16)
-samt avdeling II i gjennomføringsforordningen
-3
+Selv om hun fyller alle nasjonale vilkårene for dagpenger, vil hun ikke kunne søke dagpenger i Norge fordi trygdeforordningen her legger ansvaret for dagpenger under arbeidsløshet til Sverige.
 
-4
+\[Boks slutt\]
 
-Jf. for eksempel fortalens tolvte avsnitt, hvor forholdsmessighetsprinsippet påkalles for å begrense rekkevidden av
-prinsippet om sidestilling av faktiske forhold eller hendelser, for å unngå «resultater som objektivt sett er urettmessige», eller som fører til «sammenfall av ytelser av samme
-art for samme tidsrom».
-Dansk: «Personer, som er omfattet af denne forordning, er
-alene undergivet lovgivningen i én medlemsstat».
+## Prinsippet om likebehandling av personer
 
-59
+Likebehandling av statsborgere fra alle EU/EØS-stater er grunnleggende i EU/EØS-retten. I generell form kommer dette prinsippet til uttrykk i EØS-avtalen artikkel 4 og i TEUV artikkel 18, og det gjenfinnes blant annet i bestemmelsene om fri bevegelighet av arbeidstakere i EØS-avtalen artikkel 28 og TEUV artikkel 45. Prinsippet om likebehandling av arbeidstakere fra andre EØS-stater og deres familiemedlemmer følger også av artikkel 7 nr. 2 i arbeidstakerforordningen.[^165] Denne bestemmelsen nevner uttrykkelig retten til å nyte godt av de samme ytelser og sosiale fordeler som innenlandske borgere.
 
-Kapittel 5
-
-(artiklene 14 til 21) regulerer lovvalget for personer som omfattes av forordningen.5 Særlige regler
-om lovvalg for arbeidsløshetsytelser følger av
-trygdeforordningen artikkel 65, jf. artikkel 11 nr.
-3 bokstav c.6 For en nærmere redegjørelse vises
-det til fremstillingen i punkt 8.16.
-Selv om lovvalgsreglene sørger for at det til
-enhver tid er en medlemsstat som er utpekt som
-lovvalgsstat for en person som omfattes av trygdeforordningens personkrets, betyr ikke dette at lovvalgsstaten må tilby trygdedekning til vedkommende. I mange medlemsstater faller selvstendig
-næringsdrivende utenfor trygdeordningene. Den
-eneste virkningen av lovvalgsreglene i slike tilfeller er at de unngår eventuelle krav om innbetaling
-av trygdeavgift fra andre medlemsstater. Et særegent norsk eksempel er regelen i folketrygdlo5
-6
-
-Lovvalgsreglene omtales nærmere i kapittel 6.
-Artikkel 65 kan karakteriseres som en sektorspesifikk lovvalgsregel for arbeidsløshetsytelser, men det er artikkel 11
-nr. 3 bokstav c som sørger for at lovvalget generelt går over
-til bosettingsstaten i disse tilfellene, i tråd med enstatsprinsippet.
-
-[Side 62]
-
-60
-
-NOU 2021: 8
-
-Kapittel 5
-
-Trygd over landegrensene
-
-ven § 2-12, som unntar ansatte i hotell- og restaurantvirksomhet om bord på turistskip registrert i
-norsk internasjonalt skipsregister fra medlemskap i folketrygden, se nærmere omtale i punkt
-6.12.
-For å sikre at en person bare er omfattet av én
-stats trygdelovgivning, har lovvalgsreglene obligatorisk og eksklusiv effekt. Forordningen krever at
-den utpekte medlemsstat gir sin trygdelovgivning
-anvendelse, og er samtidig til hinder for at stater
-som ikke pekes ut etter lovvalgsreglene anvender
-sin lovgivning.
-I sak 302/84 Ten Holder la EU-domstolen til
-grunn at enstatsprinsippet var absolutt, jf. avsnitt
-19 flg:
-«… efter Domstolens faste praksis følger det af
-afsnit II i forordningerne nr. 3 og nr. 1408/71,
-som bestemmer, hvilken lovgivning der skal
-anvendes på arbejdstagere, der flytter inden for
-Fællesskabet, at arbejdstagerne alene er
-undergivet socialsikringen i én medlemsstat
-for at undgå, at forskellige landes lovgivninger
-overlapper hinanden med de deraf følgende
-forviklinger. […]
-Afsnit II indeholder nemlig et sæt udtømmende kollisionsnormer, således at lovgiveren
-i den enkelte medlemsstat herefter ikke er
-beføjet til at fastlægge rækkevidden og anvendelsesbetingelserne for national lovgivning, for
-så vidt angår de omfattede personer samt det
-område, inden for hvilket de nationale forskrifter finder anvendelse. …»
-I sak C-352/06 Bosmann slo EU-domstolen fast at
-lovvalgsreglenes eksklusive effekt ikke avskjærer
-bosettingsstatens adgang til å innvilge ytelser. At
-Tyskland ikke var utpekt som lovvalgsstat etter
-forordningen, var ikke til hinder for at tyske trygdemyndigheter i henhold til EU-retten kunne – og
-derfor i henhold til tysk rett måtte – utbetale barnetrygd til en mor som var bosatt i Tyskland og
-som fylte alle vilkår etter tysk rett for rett til
-ytelsen. I forente saker C-611/10 og C-612/10
-Hudzinski och Wawrzyniak presiserte EU-domstolen at prinsippet fra Bosmann-saken ikke var betinget av bosetting. Retten til barnetrygd etter tysk
-rett tilkom ikke bare bosatte, men også personer
-som var skattepliktige i Tyskland. Forordningens
-lovvalgsregler kunne i et slikt tilfelle ikke påberopes som grunnlag for å nekte å utbetale barnetrygd til to utsendte polske arbeidstakere som var
-underlagt ubegrenset skatteplikt i Tyskland,
-under henvisning til at de var bosatt og trygdedekket i Polen. En stat som ikke er utpekt som
-
-lovvalgsstat vil imidlertid kunne avskjære retten
-til ytelser i slike tilfeller gjennom nasjonale vilkår
-som forbeholder ytelsene til personer som er trygdedekket i vedkommende stat, jf. forente saker C95/18 og C-96/18 van den Berg og omtalen av
-denne dommen i punkt 2.4.3. Denne problematikken er aktuell både for barnetrygd og kontantstøtte fordi norsk rett ikke stiller krav til medlemskap i folketrygden for disse ytelsene, se punkt
-8.18.2.2 og 8.19.2.2.
-At lovvalgsreglene peker ut én lovvalgsstat,
-innebærer likevel ikke at det bare er én stat som
-kan og må betale ut ytelser. Det er en betingelse
-for opptjening av trygdeytelser, men ikke nødvendigvis for utbetaling, at en er dekket av statens
-trygdelovgivning på det aktuelle tidspunktet. Opptjente rettigheter fra en medlemsstat vil være i
-behold, selv om denne ikke lenger er å anse som
-lovvalgsstat etter lovvalgsreglene. Langtidsytelser, som uføretrygd og pensjon, er gjerne opptjent
-over lang tid gjennom arbeid eller bosetting. Når
-en person har vært omfattet av trygdelovgivningen i flere stater, åpner forordningen for at slike
-ytelser tilkjennes av flere stater, beregnet etter
-forordningenes pro rata-regler.7 Dette innebærer
-at man får en ytelse fra hver enkelt stat, beregnet
-på grunnlag av hvilken opptjening man har i den
-enkelte staten. Forordningens regler om pro ratautbetaling har ingen innvirkning på lovvalgsreglene. Selv om flere stater er ansvarlig for samtidig utbetaling av ytelser i disse tilfellene, vil det til
-enhver tid bare være én medlemsstat som er lovvalgsstat for mottakeren av ytelsene. Tilsvarende
-gjelder ved utbetaling av differanseberegnede
-familieytelser fra flere stater.
-Videre vil en innvilget trygdeytelse være i
-behold når mottaker bosetter seg i en annen EØSstat, selv om lovvalget skulle gå over på bosettingsstaten i medhold av trygdeforordningen
-artikkel 11 nr. 3 bokstav e. Prinsippet om eksport
-av trygdeytelser, jf. trygdeforordningen artikkel
-7, vil i et slikt tilfelle innebære at den medlemsstat
-som var kompetent på søknadstidspunktet, må
-utbetale ytelser som allerede er innvilget, selv om
-denne ikke lenger er lovvalgstat, se nærmere i
-punkt 5.6 nedenfor.
-Også i visse andre tilfeller kan en stat etter
-EØS-retten måtte utbetale ytelser til en person
-som ikke er omfattet av dennes lovgivning etter
-lovvalgsreglene. For så vidt gjelder familieytelser,
-kan en stat være forpliktet til å betale ytelser til et
-7
-
-Se om pro rata-beregning i punkt 5.7 om delpensjonsprinsippet, og under omtalen av uføretrygd og pensjonsytelsene i kapittel 8.
-
-[Side 63]
-
-NOU 2021: 8
-Trygd over landegrensene
-
-familiemedlem til en person som er underlagt
-denne statens lovgivning, selv om det aktuelle
-familiemedlemmet selv er underlagt en annen
-stats lovgivning.8
-
-5.3
-
-Prinsippet om likebehandling av
-personer
-
-Likebehandling av statsborgere fra alle EU/EØSstater er grunnleggende i EU/EØS-retten. I generell form kommer dette prinsippet til uttrykk i
-EØS-avtalen artikkel 4 og i TEUV artikkel 18, og
-det gjenfinnes blant annet i bestemmelsene om fri
-bevegelighet av arbeidstakere i EØS-avtalen artikkel 28 og TEUV artikkel 45. Prinsippet om likebehandling av arbeidstakere fra andre EØS-stater og
-deres familiemedlemmer følger også av artikkel 7
-nr. 2 i arbeidstakerforordningen.9 Denne bestemmelsen nevner uttrykkelig retten til å nyte godt av
-de samme ytelser og sosiale fordeler som innenlandske borgere.
 Dette likebehandlingsprinsippet er også nedfelt i trygdeforordningen, hvor artikkel 4 lyder:
-«Med mindre det er fastsatt noe annet i denne
-forordning, skal personer som omfattes av
-denne forordning, ha de samme rettigheter og
-plikter etter en medlemsstats lovgivning som
-denne medlemsstats borgere.»
-Vernet gjelder alle som omfattes av trygdeforordningens personkrets. Det omfatter ikke bare statsborgere av EU/EØS-stater, men også statsløse og
-flyktninger og familiemedlemmer til disse.10
-Internt i EU er trygdeforordningens personelle
-virkeområde gjennom forordning 1231/2010 utvidet til også å gjelde statsborgere fra tredjeland
-som er bosatt i en EU-stat. For EU-statene vil dermed prinsippet om likebehandling også gjelde for
-tredjelandsborgere når det er snakk om trygdekoordinering.11 Denne forordningen er ikke inkorporert i EØS-avtalen, og gjelder ikke for EFTA/
-EØS-statene, se punkt 4.2.
-Likebehandlingsprinsippet i trygdeforordningen artikkel 4 må tolkes i lys av det generelle forbudet mot nasjonalitetsbasert forskjellsbehand8
 
-Se punkt 8.18 til 8.20 om barnetrygd, kontantstøtte og stønad til enslig mor eller far.
-9
-Forordning (EU) nr. 492/2011 om fri rørsle av arbeidstakarar innanfor EØS-området, som er gjennomført i norsk rett
-gjennom EØS-arbeidstakarlova (lov 14. desember 2012 nr.
-81).
-10 Se punkt 4.2 om forordningens personkrets.
-11
-Danmark tar ikke del i forordning 1231/2010, se punkt 4.2.
+«Med mindre det er fastsatt noe annet i denne forordning, skal personer som omfattes av denne forordning, ha de samme rettigheter og plikter etter en medlemsstats lovgivning som denne medlemsstats borgere.»
 
-61
+Vernet gjelder alle som omfattes av trygdeforordningens personkrets. Det omfatter ikke bare statsborgere av EU/EØS-stater, men også statsløse og flyktninger og familiemedlemmer til disse.[^166] Internt i EU er trygdeforordningens personelle virkeområde gjennom forordning 1231/2010 utvidet til også å gjelde statsborgere fra tredjeland som er bosatt i en EU-stat. For EU-statene vil dermed prinsippet om likebehandling også gjelde for tredjelandsborgere når det er snakk om trygdekoordinering.[^167] Denne forordningen er ikke inkorporert i EØS-avtalen, og gjelder ikke for EFTA/EØS-statene, se punkt 4.2.
 
-Kapittel 5
+Likebehandlingsprinsippet i trygdeforordningen artikkel 4 må tolkes i lys av det generelle forbudet mot nasjonalitetsbasert forskjellsbehandling. EU-domstolen har lagt til grunn at dette forbudet ikke bare rammer direkte diskriminering på grunnlag av nasjonalitet, men også indirekte diskriminering gjennom bruk av kriterier som i praksis fører til at statsborgere fra andre EU/EØS-stater kommer dårligere ut enn norske borgere.[^168] Slike kriterier kan for eksempel være krav om at en person må ha bosted i en stat eller må ha tilbakelagt en bostedsperiode av en viss lengde for å få rett til ytelser fra trygdeordningen der, men også andre vilkår kan støte an mot prinsippet om likebehandling. Eksempelvis kreves det etter folketrygdloven kapittel 14 for fars rett til foreldrepenger i visse situasjoner at mor er i aktivitet. Et krav om at slik aktivitet må gjennomføres i Norge, utfordrer likebehandlingsprinsippet. Situasjonen kan kreve anvendelse av trygdeforordningens prinsipp om likestilling av ytelser, inntekter og fakta.
 
-ling. EU-domstolen har lagt til grunn at dette forbudet ikke bare rammer direkte diskriminering
-på grunnlag av nasjonalitet, men også indirekte
-diskriminering gjennom bruk av kriterier som i
-praksis fører til at statsborgere fra andre EU/
-EØS-stater kommer dårligere ut enn norske borgere.12 Slike kriterier kan for eksempel være krav
-om at en person må ha bosted i en stat eller må ha
-tilbakelagt en bostedsperiode av en viss lengde for
-å få rett til ytelser fra trygdeordningen der, men
-også andre vilkår kan støte an mot prinsippet om
-likebehandling. Eksempelvis kreves det etter folketrygdloven kapittel 14 for fars rett til foreldrepenger i visse situasjoner at mor er i aktivitet. Et
-krav om at slik aktivitet må gjennomføres i Norge,
-utfordrer likebehandlingsprinsippet. Situasjonen
-kan kreve anvendelse av trygdeforordningens
-prinsipp om likestilling av ytelser, inntekter og
-fakta.
-Folketrygdloven etablerer en bostedsbasert,
-universell trygdeordning, hvor alle som har lovlig
-opphold i riket – og intensjon om å bli værende i
-minst tolv måneder – blir pliktige medlemmer.
-Det er derfor naturlig at loven i liten utstrekning
-sondrer mellom norske og utenlandske statsborgere. De eneste unntakene er i medlemskapsbestemmelsene i §§ 2-5, 2-6 og 2-11.13 Bestemmelsen i § 2-5 slår fast at også enkelte grupper norske
-borgere med opphold i utlandet er pliktige medlemmer. Av Navs rundskriv fremgår det at
-bestemmelsen praktiseres slik at EØS-borgere i
-denne sammenhengen behandles som norske
-borgere. For §§ 2-6 og 2-11 viser Navs rundskriv
-til trygdeforordningens lovvalgsregler for løsning
-av EØS-tilfellene. Utvalget legger til grunn at dette
-betyr at statsborgere fra andre EØS-stater likestilles med norske statsborgere også her.
-Også i barnetrygdloven § 7 og kontantstøtteloven § 4 er det gitt regler som knytter vilkår til
-statsborgerskap. Likebehandlingsprinsippet innebærer at også disse reglene må forstås slik at
-statsborgerskap i en annen EØS-stat likestilles
-med å være statsborger i Norge.14
-Medlemstatene plikter å sikre likebehandling
-av alle personer underlagt trygdeforordningens
-12
-13
+Folketrygdloven etablerer en bostedsbasert, universell trygdeordning, hvor alle som har lovlig opphold i riket – og intensjon om å bli værende i minst tolv måneder – blir pliktige medlemmer. Det er derfor naturlig at loven i liten utstrekning sondrer mellom norske og utenlandske statsborgere. De eneste unntakene er i medlemskapsbestemmelsene i §§ 2-5, 2-6 og 2-11.[^169] Bestemmelsen i § 2-5 slår fast at også enkelte grupper norske borgere med opphold i utlandet er pliktige medlemmer. Av Navs rundskriv fremgår det at bestemmelsen praktiseres slik at EØS-borgere i denne sammenhengen behandles som norske borgere. For §§ 2-6 og 2-11 viser Navs rundskriv til trygdeforordningens lovvalgsregler for løsning av EØS-tilfellene. Utvalget legger til grunn at dette betyr at statsborgere fra andre EØS-stater likestilles med norske statsborgere også her.
 
-14
+Også i barnetrygdloven § 7 og kontantstøtteloven § 4 er det gitt regler som knytter vilkår til statsborgerskap. Likebehandlingsprinsippet innebærer at også disse reglene må forstås slik at statsborgerskap i en annen EØS-stat likestilles med å være statsborger i Norge.[^170]
 
-Se for eksempel forente saker C-570/07 og C-571/07 Pérez
-og Gómez.
-Disse bestemmelsene omhandler henholdsvis pliktig medlemskap i folketrygden for personer som oppholder seg
-utenfor Norge, pliktig medlemskap i folketrygden for utenlandske statsborgere som ikke er bosatt i Norge, som bare
-gir trygdedekning ved yrkesskade og dødsfall, og unntak
-fra pliktig medlemskap i folketrygden for ambassadepersonell og visse andre personkategorier.
-Se nærmere omtale av disse reglene i punkt 8.18.2.3 om
-barnetrygd og punkt 8.19.2.3 om kontantstøtte.
+Medlemstatene plikter å sikre likebehandling av alle personer underlagt trygdeforordningens virkeområde, også når staten ikke er lovvalgsstat for den det gjelder. Dette vil for eksempel gjelde i tilfeller der bostedsstaten skal gi naturalytelser på vegne av den staten der en person arbeider,[^171] eller der oppholdsstaten må innvilge rettigheter til personer som oppholder seg der midlertidig.[^172]
 
-[Side 64]
+Retten til likebehandling gjelder også for de såkalte «særlige ikke-avgiftsbaserte kontantytelsene».[^173] Dette er ytelser som omfattes av trygdeforordningen, men som statene i henhold til artikkel 70 i trygdeforordningen ikke behøver å tillate eksport av, dersom de har fått dem oppført i vedlegg X til trygdeforordningen.[^174] Den omstendighet at disse ytelsene er unntatt fra retten til eksport, innebærer ikke at de er unntatt fra likebehandlingsprinsippet. EØS-statene har ikke anledning til å forbeholde slike ytelser for egne statsborgere. For så vidt gjelder de aktuelle norske ytelsene oppstiller imidlertid loven ikke statsborgerskapsvilkår.
 
-62
+Både prinsippet om likestilling av ytelser, inntekter og fakta i artikkel 5, sammenleggingsprinsippet i artikkel 6 og eksportabilitetsprinsippet i artikkel 7 kan sees som ulike utslag av – og potensielt overlappe med – regelen om likebehandling av personer i artikkel 4.[^175]
 
-NOU 2021: 8
-
-Kapittel 5
-
-Trygd over landegrensene
-
-virkeområde, også når staten ikke er lovvalgsstat
-for den det gjelder. Dette vil for eksempel gjelde i
-tilfeller der bostedsstaten skal gi naturalytelser på
-vegne av den staten der en person arbeider,15 eller
-der oppholdsstaten må innvilge rettigheter til personer som oppholder seg der midlertidig.16
-Retten til likebehandling gjelder også for de
-såkalte «særlige ikke-avgiftsbaserte kontantytelsene».17 Dette er ytelser som omfattes av trygdeforordningen, men som statene i henhold til artikkel 70 i trygdeforordningen ikke behøver å tillate
-eksport av, dersom de har fått dem oppført i vedlegg X til trygdeforordningen.18 Den omstendighet at disse ytelsene er unntatt fra retten til
-eksport, innebærer ikke at de er unntatt fra likebehandlingsprinsippet. EØS-statene har ikke
-anledning til å forbeholde slike ytelser for egne
-statsborgere. For så vidt gjelder de aktuelle norske ytelsene oppstiller imidlertid loven ikke statsborgerskapsvilkår.
-Både prinsippet om likestilling av ytelser, inntekter og fakta i artikkel 5, sammenleggingsprinsippet i artikkel 6 og eksportabilitetsprinsippet i
-artikkel 7 kan sees som ulike utslag av – og potensielt overlappe med – regelen om likebehandling
-av personer i artikkel 4.19
-
-5.4
-
-Se omtale av hjelpemidler i punkt 8.6.2.7.
-Fuchs/Cornelissen, EU Social Security Law. A commentary
-on EU Regulations 883/2004 and 987/2009, side 103
-17
-Se sak C-333/13 Dano, spesielt avsnitt 46 til 55.
-18 For Norges del gjelder dette særreglene for personer som
-er født ufør eller blir ufør før fylte 26 år, se punkt 8.11.2.6,
-og supplerende stønad til personer med kort botid i Norge,
-jf. EØS-avtalen vedlegg VI nr. 1 bokstav k.
-19
-I litteraturen skriver Fuchs og Cornelissen at artikkel 4 er
-subsidiær til artikkel 5, 6 og 7, se Fuchs/Cornelissen, EU
-Social Security Law – A commentary on EU Regulations
-883/2004 and 987/2009, side 103
-16
+Eksempler på anvendelse av likebehandlingsprinsippet i trygdeforordningen
 
 Eksempel 1
-Peter fra Sortland har flyttet til en annen EØSstat, hvor han både bor og jobber. Peter skal
-etter hovedregelen om lex loci laboris være
-omfattet av trygdelovgivning i arbeidsstaten,
-men den aktuelle lovgivningen oppstiller et vilkår om statsborgerskap for å få en bestemt
-form for trygdedekning. Peter er imidlertid
-omfattet av trygdeforordningen og får trygdedekning.
+
+Peter fra Sortland har flyttet til en annen EØS-stat, hvor han både bor og jobber. Peter skal etter hovedregelen om *lex loci laboris* være omfattet av trygdelovgivning i arbeidsstaten, men den aktuelle lovgivningen oppstiller et vilkår om statsborgerskap for å få en bestemt form for trygdedekning. Peter er imidlertid omfattet av trygdeforordningen og får trygdedekning.
+
 Eksempel 2
-Helga fra Wien har mønstret på et skip registrert i Norsk internasjonalt skipsregister
-(NIS). Etter artikkel 11 i trygdeforordningen
-skal hun derfor være underlagt norsk lovgivning. Folketrygdloven § 2-5 første ledd bokstav f krever av arbeidstakere på norskregistrerte skip må være norske statsborgere for at
-de skal være omfattet av pliktig trygdedekning. Som følge av artikkel 4 i forordningen
-skal imidlertid Helga likebehandles. Helga
-blir pliktig medlem i folketrygden.
 
-Prinsippet om likestilling av
-ytelser, inntekter og fakta
+Helga fra Wien har mønstret på et skip registrert i Norsk internasjonalt skipsregister (NIS). Etter artikkel 11 i trygdeforordningen skal hun derfor være underlagt norsk lovgivning. Folketrygdloven § 2-5 første ledd bokstav f krever av arbeidstakere på norskregistrerte skip må være norske statsborgere for at de skal være omfattet av pliktig trygdedekning. Som følge av artikkel 4 i forordningen skal imidlertid Helga likebehandles. Helga blir pliktig medlem i folketrygden.
 
-EU-domstolen har gjennom en rekke saker videreutviklet likebehandlingsprinsippets forbud mot
-indirekte forskjellsbehandling av personer omfattet av trygdeforordningen til et eget prinsipp om
-likestilling av faktiske forhold inntruffet i den
-kompetente medlemsstaten og i øvrige EU/EØSstater.20 Under henvisning til denne utviklingen
-besluttet EU-lovgiver å kodifisere dette prinsippet
-i trygdeforordningen artikkel 5, jf. fortalen avsnitt
-9. I norsk språkdrakt betegner EU-lovgiver dette i
-fortalen avsnitt 10 som «[p]rinsippet om å
-behandle bestemte faktiske forhold eller hendel15
+\[Boks slutt\]
 
-Boks 5.2 Eksempler på anvendelse av
-likebehandlingsprinsippet
-i trygdeforordningen
+## Prinsippet om likestilling av ytelser, inntekter og fakta
 
-ser inntruffet på en annen medlemsstats territorium som om de hadde funnet sted på territoriet
-til den medlemsstat hvis lovgivning får anvendelse». På norsk er kortformen «prinsippet om
-likestilling av ytelser, inntekter og fakta» benyttet,21 mens det på engelsk er vanlig å nøye seg
-med å vise til «assimilation of facts». Prinsippet
-innebærer i sin kjerne at rettsstiftende faktiske
-omstendigheter inntrådt på en annen EØS-stats
-territorium skal likestilles med slike omstendigheter inntrådt på eget territorium.
-20
-
-Se sak 439/78 Paraschi, sak 20/88 Roviello, sak C-228/88
-Bronzino, sak C-443/93 Vougioukas, sak C-278/94 Kommisjonen mot Belgia, sak C-131/96 Mora Romero, sak C-28/00
-Kauer, sak C-290/00 Duchon, sak C-372/02 Adanez Vega,
-sak C-373/02 Öztürk, sak C-258/04 Ioannidis og sak C-507/
-06 Kloppel. Koblingen mellom forbudet mot indirekte diskriminering og prinsippet om likestilling av ytelser, inntekter og faktiske forhold omtales nærmere av Pennings, Principles of EU coordination of social security, side 326–327.
-
-[Side 65]
-
-NOU 2021: 8
-Trygd over landegrensene
+EU-domstolen har gjennom en rekke saker videreutviklet likebehandlingsprinsippets forbud mot indirekte forskjellsbehandling av personer omfattet av trygdeforordningen til et eget prinsipp om likestilling av faktiske forhold inntruffet i den kompetente medlemsstaten og i øvrige EU/EØS-stater.[^176] Under henvisning til denne utviklingen besluttet EU-lovgiver å kodifisere dette prinsippet i trygdeforordningen artikkel 5, jf. fortalen avsnitt 9. I norsk språkdrakt betegner EU-lovgiver dette i fortalen avsnitt 10 som «\[p\]rinsippet om å behandle bestemte faktiske forhold eller hendelser inntruffet på en annen medlemsstats territorium som om de hadde funnet sted på territoriet til den medlemsstat hvis lovgivning får anvendelse». På norsk er kortformen «prinsippet om likestilling av ytelser, inntekter og fakta» benyttet,[^177] mens det på engelsk er vanlig å nøye seg med å vise til «assimilation of facts». Prinsippet innebærer i sin kjerne at rettsstiftende faktiske omstendigheter inntrådt på en annen EØS-stats territorium skal likestilles med slike omstendigheter inntrådt på eget territorium.
 
 Prinsippet er formulert slik i den norske oversettelsen av forordningen:
-«Med mindre det er bestemt noe annet i denne
-forordning, og på bakgrunn av de særlige gjennomføringsbestemmelser som er fastsatt, får
-følgende anvendelse:
-a) når mottak av trygdeytelser og andre inntekter har visse rettsvirkninger etter den
-kompetente medlemsstats lovgivning, skal
-de relevante bestemmelser i denne lovgivning også få anvendelse på mottak av tilsvarende ytelser etter en annen medlemsstats
-lovgivning eller på inntekter i en annen
-medlemsstat,
-b) når visse faktiske forhold eller hendelser
-gir rettsvirkninger etter den kompetente
-medlemsstats lovgivning, skal denne medlemsstat ta hensyn til tilsvarende faktiske
-forhold eller hendelser som inntreffer i en
-annen medlemsstat, som om de hadde funnet sted på dens eget territorium.»
-Når mottak av trygdeytelser og andre inntekter
-har en bestemt rettsvirkning etter den kompetente medlemsstatens lovgivning, skal tilsvarende
-ytelser og inntekter mottatt i en annen medlemsstat ha den samme rettsvirkning, jf. artikkel 5 bokstav a. I sak C-453/14 Knauer tok EU-domstolen
-stilling til hva som kan anses som «tilsvarende
-ytelser» etter artikkel 5 bokstav a. Domstolen presiserte at det ikke nødvendigvis kan legges til
-grunn at begrepet «tilsvarende ytelser» har
-samme betydning som «ytelser av samme art»
-som er benyttet i trygdeforordningen artikkel 53,
-og at to ytelser heller ikke kan anses for å være
-«tilsvarende» bare fordi de dekker den samme
-risiko. Etter domstolens syn var det i vurderingen
-nødvendig å ta hensyn til «… det formål, der forfølges med disse ydelser og med de bestemmelser, der har indført dem». Domstolen la i den konkrete vurderingen vekt på hvorvidt de konkrete
-ytelsene «… forfølger det samme formål om at
-sikre modtagerne, at de kan opretholde en levestandard, der svarer til den, som de pågældende
-havde før deres pension».22 Etter folketrygdloven
 
-§ 8-12, opphører retten til sykepenger dersom den
-sykmeldte har mottatt sykepenger i til sammen
-248/250/260 dager de siste tre årene, og for å
-opparbeide ny rett til sykepenger, må vedkommende være helt arbeidsfør i 26 uker. Prinsippet
-om likestilling av ytelser i forordningen artikkel 5
-bokstav a vil innebære at mottak av tilsvarende
-ytelse som sykepenger etter lovgivningen i en
-annen EØS-stat får betydning for retten til sykepenger i Norge.
-Etter artikkel 5 bokstav b skal faktiske forhold
-eller hendelser som inntreffer i en annen medlemsstat, få samme rettsvirkning som om det var
-inntruffet på den kompetente statens eget territorium. Når folketrygdloven § 14-13 gjør fars uttak
-av foreldrepenger betinget av mors aktivitet, krever artikkel 5 bokstav b at aktivitet i andre EØSstater likestilles med aktivitet i Norge, se nærmere i punkt 8.8.2.3.
-Det fremgår av fortalen avsnitt 10 at prinsippet
-om likestilling av ytelser, inntekter og fakta etter
-artikkel 5 ikke må «påvirke» prinsippet om sammenlegging etter artikkel 6, som innebærer at
-trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som er tilbakelagt etter
-en annen medlemsstatslovgivning, skal legges
-sammen med den tid som er tilbakelagt etter den
-kompetente medlemsstats lovgivning.23 Tid som
-er tilbakelagt etter en annen medlemsstats lovgivning, bør derfor utelukkende tas i betraktning ved
-anvendelse
-av
-sammenleggingsprinsippet.24
-Videre fremgår det av fortalen avsnitt 11 at likestilling av faktiske forhold eller hendelser ikke på
-noen måte kan føre til at en annen stat blir kompetent stat eller lovvalgsstat.25 I dette ligger for det
-første at forordningen artikkel 5 bare kommer til
-anvendelse etter at lovvalgsreglene har pekt ut
-hvilken stats lovgivning som skal komme til
-anvendelse. Lovvalgsreglene nedfelt i trygdeforordningen artiklene 11 til 16 berøres ikke av
-prinsippet om likestilling av fakta. For det annet
-antar utvalget at denne begrensningen i rekkevidden av artikkel 5 innebærer at bestemmelsen ikke
-kan påberopes for å sette til side kravet om at siste
-23
-24
+«Med mindre det er bestemt noe annet i denne forordning, og på bakgrunn av de særlige gjennomføringsbestemmelser som er fastsatt, får følgende anvendelse:
 
-21
+a\) når mottak av trygdeytelser og andre inntekter har visse rettsvirkninger etter den kompetente medlemsstats lovgivning, skal de relevante bestemmelser i denne lovgivning også få anvendelse på mottak av tilsvarende ytelser etter en annen medlemsstats lovgivning eller på inntekter i en annen medlemsstat,
 
-Jf. senest Prop. 10 LS (2020–2021) Lov om overgangsregler
-mv. ved Storbritannias uttreden fra Den europeiske union
-(brexit-loven) og samtykke til ratifikasjon av avtale om ordninger mellom Island, Liechtenstein, Norge og Storbritannia
-som følge av Storbritannias uttreden fra Den europeiske
-union, EØS-avtalen og andre avtaler og til deltakelse i EØSkomiteens beslutning om innlemmelse av avtale mellom EU
-og EØS/EFTA-statene om trygdekoordinering for britiske
-statsborgere, side 23.
-22
-Se C- 453/14 Knauer, avsnitt 28, 32, 34 og 35.
+b\) når visse faktiske forhold eller hendelser gir rettsvirkninger etter den kompetente medlemsstats lovgivning, skal denne medlemsstat ta hensyn til tilsvarende faktiske forhold eller hendelser som inntreffer i en annen medlemsstat, som om de hadde funnet sted på dens eget territorium.»
 
-63
+Når mottak av trygdeytelser og andre inntekter har en bestemt rettsvirkning etter den kompetente medlemsstatens lovgivning, skal tilsvarende ytelser og inntekter mottatt i en annen medlemsstat ha den samme rettsvirkning, jf. artikkel 5 bokstav a. I sak C-453/14 *Knauer* tok EU-domstolen stilling til hva som kan anses som «tilsvarende ytelser» etter artikkel 5 bokstav a. Domstolen presiserte at det ikke nødvendigvis kan legges til grunn at begrepet «tilsvarende ytelser» har samme betydning som «ytelser av samme art» som er benyttet i trygdeforordningen artikkel 53, og at to ytelser heller ikke kan anses for å være «tilsvarende» bare fordi de dekker den samme risiko. Etter domstolens syn var det i vurderingen nødvendig å ta hensyn til «… det formål, der forfølges med disse ydelser og med de bestemmelser, der har indført dem». Domstolen la i den konkrete vurderingen vekt på hvorvidt de konkrete ytelsene «… forfølger det samme formål om at sikre modtagerne, at de kan opretholde en levestandard, der svarer til den, som de pågældende havde før deres pension».[^178] Etter folketrygdloven § 8-12, opphører retten til sykepenger dersom den sykmeldte har mottatt sykepenger i til sammen 248/250/260 dager de siste tre årene, og for å opparbeide ny rett til sykepenger, må vedkommende være helt arbeidsfør i 26 uker. Prinsippet om likestilling av ytelser i forordningen artikkel 5 bokstav a vil innebære at mottak av tilsvarende ytelse som sykepenger etter lovgivningen i en annen EØS-stat får betydning for retten til sykepenger i Norge.
 
-Kapittel 5
+Etter artikkel 5 bokstav b skal faktiske forhold eller hendelser som inntreffer i en annen medlemsstat, få samme rettsvirkning som om det var inntruffet på den kompetente statens eget territorium. Når folketrygdloven § 14-13 gjør fars uttak av foreldrepenger betinget av mors aktivitet, krever artikkel 5 bokstav b at aktivitet i andre EØS-stater likestilles med aktivitet i Norge, se nærmere i punkt 8.8.2.3.
 
-25
+Det fremgår av fortalen avsnitt 10 at prinsippet om likestilling av ytelser, inntekter og fakta etter artikkel 5 ikke må «påvirke» prinsippet om sammenlegging etter artikkel 6, som innebærer at trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som er tilbakelagt etter en annen medlemsstatslovgivning, skal legges sammen med den tid som er tilbakelagt etter den kompetente medlemsstats lovgivning.[^179] Tid som er tilbakelagt etter en annen medlemsstats lovgivning, bør derfor utelukkende tas i betraktning ved anvendelse av sammenleggingsprinsippet.[^180] Videre fremgår det av fortalen avsnitt 11 at likestilling av faktiske forhold eller hendelser ikke på noen måte kan føre til at en annen stat blir kompetent stat eller lovvalgsstat.[^181] I dette ligger for det første at forordningen artikkel 5 bare kommer til anvendelse *etter* at lovvalgsreglene har pekt ut hvilken stats lovgivning som skal komme til anvendelse. Lovvalgsreglene nedfelt i trygdeforordningen artiklene 11 til 16 berøres ikke av prinsippet om likestilling av fakta. For det annet antar utvalget at denne begrensningen i rekkevidden av artikkel 5 innebærer at bestemmelsen ikke kan påberopes for å sette til side kravet om at siste arbeidsforhold må være i Norge for rett til for eksempel sykepenger eller foreldrepenger fra folketrygden, se nærmere i punkt 8.8.2.4.
 
-Se om sammenleggingsprinsippet i punkt 5.5.
-Forholdet mellom artikkel 5 og artikkel 6 er omtalt i beslutning H6 av 16. desember 2010 fra Den administrative kommisjon, se også omtale under punkt 5.5.
-I norsk oversettelse er det angitt at en stat ikke kan bli
-«ansvarlig», men av andre oversettelser fremgår det at det
-er ment at staten ikke kan bli kompetent stat, forutsetningsvis i den betydning som legaldefinisjonen i artikkel 1
-gir dette uttrykket. I engelsk språkdrakt er dette uttrykt
-som at likestilling av faktiske forhold og hendelser «can in
-no way render another Member State competent or its
-legislation applicable».
+Prinsippet om likestilling av ytelser, inntekter og fakta må heller ikke føre til sammenfall av ytelser av samme art for samme tidsrom, jf. fortalen avsnitt 12.
 
-[Side 66]
+Forholdet mellom prinsippet om likestilling av ytelser, inntekter og fakta og andre av trygdeforordningens koordineringsprinsipper er ikke klar i alle henseender.[^182] I sak E-13/20 *O mot Arbeids- og velferdsdirektoratet*, som er under behandling i EFTA-domstolen, har Trygderetten blant annet spurt om oppholdskravet for rett til dagpenger i folketrygdloven § 4-2 er forenlig med trygdeforordningen artikkel 5 bokstav b. Ettersom dette spørsmål vil kunne bli belyst ved domstolens avgjørelse i saken, forfølges det ikke nærmere her.
 
-64
+Det følger av fortalen avsnitt 12 at prinsippet om likestilling av fakta «i lys av forholdsmessighetsprinsippet» ikke bør gi «resultater som objektivt sett er urettmessige». Hva som ligger i dette, er ikke klart. Hvorvidt likestilling av fakta er påkrevd, må vurderes konkret, under en avveining av den nasjonale lovgiverens kompetanse til å fastsette vilkårene for å tilkjenne trygdeytelser og samtidig sikre likebehandling. Avveiningen vil bli den samme som etter det generelle prinsippet om likebehandling i trygdeforordningen artikkel 4, omtalt i punkt 5.3 ovenfor. For å kunne rettferdiggjøres, må det diskriminerende tiltaket være egnet til å sikre oppfyllelsen av et lovlig mål og ikke gå ut over det som er nødvendig for å nå dette målet, jf. sak C-20/12 *Giersch* m.fl. Etter å ha identifisert hvilket formål det nasjonale kravet er ment å forfølge, må det derfor vurderes om formålet også kan oppnås gjennom å likestille fakta fra andre medlemsstater.
 
-NOU 2021: 8
+Forente saker C-398/18 og C-428/18 *Bocero Torrico* gir en god illustrasjon på EU-domstolens tilnærming til prinsippet om likestilling av ytelser, inntekter og fakta. Saken gjaldt to søkere som i løpet av sin yrkeskarriere begge hadde arbeidet både i Spania og Tyskland, men som ble nektet førtidspensjon i Spania fordi de ikke nådde innslagspunktet for ytelsen. Det sentrale spørsmålet for EU-domstolen var om Spania etter trygdeforordningen var forpliktet til å ta hensyn til tilsvarende ytelser ervervet i andre medlemsstater ved beregningen av førtidspensjon. Domstolen falt ned på at unnlatelsen av å vurdere en tilsvarende ytelse søkerne fikk i Tyskland, utgjorde indirekte diskriminering i strid med forordningen artikkel 4. Avgjørelsen viser tydelig hvordan prinsippet om likestilling av faktiske forhold er en konkretisering av det overordnede likebehandlingsprinsippet i forordningen artikkel 4. Fra domstolens begrunnelse i avsnittene 39 til 43 gjengis:
 
-Kapittel 5
+«Denne konklusion understøttes af undersøgelsen af de i hovedsagerne omhandlede situationer, henset til ligebehandlingsprincippet, med hensyn til hvilket ligestilling af ydelser, indtægter, begivenheder og forhold i denne forordnings artikel 5 udgør et særligt udtryk \[…\].
 
-Trygd over landegrensene
+I denne henseende bemærkes, at ligebehandlingsprincippet således som anført i artikel 4 i forordning nr. 883/2004 forbyder ikke blot åbenbar forskelsbehandling begrundet i nationaliteten hos de personer, der er berettiget i henhold til en social sikringsordning, men også enhver form for skjult forskelsbehandling, som ved anvendelse af andre sondringskriterier faktisk fører til samme resultat \[…\].
 
-arbeidsforhold må være i Norge for rett til for
-eksempel sykepenger eller foreldrepenger fra folketrygden, se nærmere i punkt 8.8.2.4.
-Prinsippet om likestilling av ytelser, inntekter
-og fakta må heller ikke føre til sammenfall av
-ytelser av samme art for samme tidsrom, jf. fortalen avsnitt 12.
-Forholdet mellom prinsippet om likestilling av
-ytelser, inntekter og fakta og andre av trygdeforordningens koordineringsprinsipper er ikke
-klar i alle henseender.26 I sak E-13/20 O mot
-Arbeids- og velferdsdirektoratet, som er under
-behandling i EFTA-domstolen, har Trygderetten
-blant annet spurt om oppholdskravet for rett til
-dagpenger i folketrygdloven § 4-2 er forenlig med
-trygdeforordningen artikkel 5 bokstav b. Ettersom dette spørsmål vil kunne bli belyst ved domstolens avgjørelse i saken, forfølges det ikke nærmere her.
-Det følger av fortalen avsnitt 12 at prinsippet
-om likestilling av fakta «i lys av forholdsmessighetsprinsippet» ikke bør gi «resultater som objektivt sett er urettmessige». Hva som ligger i dette,
-er ikke klart. Hvorvidt likestilling av fakta er
-påkrevd, må vurderes konkret, under en avveining av den nasjonale lovgiverens kompetanse til
-å fastsette vilkårene for å tilkjenne trygdeytelser
-og samtidig sikre likebehandling. Avveiningen vil
-bli den samme som etter det generelle prinsippet
-om likebehandling i trygdeforordningen artikkel
-4, omtalt i punkt 5.3 ovenfor. For å kunne rettferdiggjøres, må det diskriminerende tiltaket være
-egnet til å sikre oppfyllelsen av et lovlig mål og
-ikke gå ut over det som er nødvendig for å nå
-dette målet, jf. sak C-20/12 Giersch m.fl. Etter å ha
-identifisert hvilket formål det nasjonale kravet er
-ment å forfølge, må det derfor vurderes om formålet også kan oppnås gjennom å likestille fakta
-fra andre medlemsstater.
-Forente saker C-398/18 og C-428/18 Bocero
-Torrico gir en god illustrasjon på EU-domstolens
-tilnærming til prinsippet om likestilling av ytelser,
-inntekter og fakta. Saken gjaldt to søkere som i
-løpet av sin yrkeskarriere begge hadde arbeidet
-både i Spania og Tyskland, men som ble nektet
-førtidspensjon i Spania fordi de ikke nådde inn26
+Nationale retsforskrifter må derfor anses for at medføre indirekte forskelsbehandling, når de heri indeholdte betingelser, selv om de gælder uden forskel efter nationalitet, først og fremmest berører vandrende arbejdstagere eller dog overvejende berører sådanne arbejdstagere, eller når de heri indeholdte betingelser gælder uden forskel, men lettere kan opfyldes af indenlandske end af vandrende arbejdstagere eller navnlig risikerer at ramme de sidstnævnte \[…\].
 
-For noen av disse, se Tarjei Bekkedal, The Internal, Systemic and Constitutional Integrity of EU Regulation 883/2004
-on the Coordination of Social Security Systems, Oslo Law
-Review 2020, side 145, Yves Joerns, Simon Roberts (red.)
-m.fl, Analysis of selected concepts of the regulatory framework
-and practical consequences on the social security coordination, 2010, Yves Jorens og Filip Van Overmeiren, General
-principles of coordination in regulation 883/2004, 2009, a,
-og Carlos Garcia de Cortazar og Essi Rentola m.fl. (red.),
-Coordination of Unemployment Benefits, 2012.
+De kompetente myndigheder i en medlemsstats afvisning af, med henblik på at afgøre, om der er ret til en førtidig alderspension, at tage hensyn til de pensionsydelser, som en arbejdstager, der har gjort brug af sin ret til fri bevægelighed, har ret til i en anden medlemsstat, kan placere denne arbejdstager i en mindre gunstig situation end situationen for en arbejdstager, som har tilbagelagt hele sin karriere i den første medlemsstat.
 
-slagspunktet for ytelsen. Det sentrale spørsmålet
-for EU-domstolen var om Spania etter trygdeforordningen var forpliktet til å ta hensyn til tilsvarende ytelser ervervet i andre medlemsstater ved
-beregningen av førtidspensjon. Domstolen falt
-ned på at unnlatelsen av å vurdere en tilsvarende
-ytelse søkerne fikk i Tyskland, utgjorde indirekte
-diskriminering i strid med forordningen artikkel
-4. Avgjørelsen viser tydelig hvordan prinsippet om
-likestilling av faktiske forhold er en konkretisering av det overordnede likebehandlingsprinsippet i forordningen artikkel 4. Fra domstolens
-begrunnelse i avsnittene 39 til 43 gjengis:
-«Denne konklusion understøttes af undersøgelsen af de i hovedsagerne omhandlede situationer, henset til ligebehandlingsprincippet,
-med hensyn til hvilket ligestilling af ydelser,
-indtægter, begivenheder og forhold i denne
-forordnings artikel 5 udgør et særligt udtryk
-[…].
-I denne henseende bemærkes, at ligebehandlingsprincippet således som anført i artikel 4 i forordning nr. 883/2004 forbyder ikke
-blot åbenbar forskelsbehandling begrundet i
-nationaliteten hos de personer, der er berettiget i henhold til en social sikringsordning, men
-også enhver form for skjult forskelsbehandling, som ved anvendelse af andre sondringskriterier faktisk fører til samme resultat […].
-Nationale retsforskrifter må derfor anses
-for at medføre indirekte forskelsbehandling,
-når de heri indeholdte betingelser, selv om de
-gælder uden forskel efter nationalitet, først og
-fremmest berører vandrende arbejdstagere
-eller dog overvejende berører sådanne
-arbejdstagere, eller når de heri indeholdte
-betingelser gælder uden forskel, men lettere
-kan opfyldes af indenlandske end af vandrende
-arbejdstagere eller navnlig risikerer at ramme
-de sidstnævnte […].
-De kompetente myndigheder i en medlemsstats afvisning af, med henblik på at
-afgøre, om der er ret til en førtidig alderspension, at tage hensyn til de pensionsydelser, som
-en arbejdstager, der har gjort brug af sin ret til
-fri bevægelighed, har ret til i en anden medlemsstat, kan placere denne arbejdstager i en
-mindre gunstig situation end situationen for en
-arbejdstager, som har tilbagelagt hele sin karriere i den første medlemsstat.
-En national lovgivning som den i hovedsagerne omhandlede kan ikke desto mindre
-være berettiget, for så vidt som den forfølger et
-formål af almen interesse, er egnet til at sikre
+En national lovgivning som den i hovedsagerne omhandlede kan ikke desto mindre være berettiget, for så vidt som den forfølger et formål af almen interesse, er egnet til at sikre virkeliggørelsen af dette og ikke går ud over, hvad der er nødvendigt for at opnå det tilsigtede formål. …»
 
-[Side 67]
+Etter omstendighetene kan prinsippet om likestilling av ytelser, inntekter og fakta også føre til at retten til en ytelse begrenses eller faller bort. Det vil være tilfelle der retten til en ytelse bare består i et visst antall dager eller uker, eller retten til ytelsen forutsetter at man har vært uten rett til ytelsen i en viss tid. Dette vil for eksempel gjøre seg gjeldende for sykepenger, ved at det i folketrygdloven § 8-12 er bestemt at retten til sykepenger opphører dersom den sykmeldte har mottatt sykepenger i til sammen 248/250/260 dager de siste tre årene. Her vil også sykepenger mottatt i andre stater måtte likestilles med mottak av sykepenger fra Norge. Dette er nærmere omtalt i punkt 8.2.2.4 om sykepenger. Tilsvarende spørsmål kan oppstå for rett til arbeidsavklaringspenger, for eksempel for bestemmelsen i folketrygdloven § 11-31 om at et medlem som har gått ut maksimal stønadsperiode må vente 52 uker før ny periode kan innvilges, se omtale i punkt 8.3.2.4. Også i andre situasjoner kan prinsippet om likestilling av ytelser, inntekter og fakta slå ut i den trygdedes disfavør. Eksempelvis faller arbeidsavklaringspenger etter folketrygdloven § 11-26 bort når man soner straff, og her må soning i en annen EØS-stat vurderes på samme måte som soning i Norge.
 
-65
+Prinsippet om likestilling av ytelser, inntekter og fakta i trygdeforordningen artikkel 5 får også praktisk betydning i andre sammenhenger enn eksemplene nevnt her, se herunder punkt 8.8.2.3 og 8.8.2.7 om foreldrepenger og 8.16.2.5 om dagpenger under arbeidsløshet.
 
-NOU 2021: 8
-Trygd over landegrensene
+## Sammenleggingsprinsippet
 
-virkeliggørelsen af dette og ikke går ud over,
-hvad der er nødvendigt for at opnå det tilsigtede formål. …»
-Etter omstendighetene kan prinsippet om likestilling av ytelser, inntekter og fakta også føre til at
-retten til en ytelse begrenses eller faller bort. Det
-vil være tilfelle der retten til en ytelse bare består i
-et visst antall dager eller uker, eller retten til
-ytelsen forutsetter at man har vært uten rett til
-ytelsen i en viss tid. Dette vil for eksempel gjøre
-seg gjeldende for sykepenger, ved at det i folketrygdloven § 8-12 er bestemt at retten til sykepenger opphører dersom den sykmeldte har mottatt
-sykepenger i til sammen 248/250/260 dager de
-siste tre årene. Her vil også sykepenger mottatt i
-andre stater måtte likestilles med mottak av sykepenger fra Norge. Dette er nærmere omtalt i
-punkt 8.2.2.4 om sykepenger. Tilsvarende spørsmål kan oppstå for rett til arbeidsavklaringspenger, for eksempel for bestemmelsen i folketrygdloven § 11-31 om at et medlem som har gått ut
-maksimal stønadsperiode må vente 52 uker før ny
-periode kan innvilges, se omtale i punkt 8.3.2.4.
-Også i andre situasjoner kan prinsippet om likestilling av ytelser, inntekter og fakta slå ut i den
-trygdedes disfavør. Eksempelvis faller arbeidsavklaringspenger etter folketrygdloven § 11-26 bort
-når man soner straff, og her må soning i en annen
-EØS-stat vurderes på samme måte som soning i
-Norge.
-Prinsippet om likestilling av ytelser, inntekter
-og fakta i trygdeforordningen artikkel 5 får også
-praktisk betydning i andre sammenhenger enn
-eksemplene nevnt her, se herunder punkt 8.8.2.3
-og 8.8.2.7 om foreldrepenger og 8.16.2.5 om dagpenger under arbeidsløshet.
+I alle EØS-stater er retten til visse ytelser betinget av at man har fullført en opptjeningsperiode. For eksempel kan det være krav om arbeid og innbetaling av avgift eller bosetting i en nærmere angitt periode i vedkommende stat. Personer som har opptjeningsperioder i flere stater, kunne dermed risikert å ikke oppfylle kravet til opptjening i noen stat. For å forhindre dette krever trygdeforordningen artikkel 6 at perioder tilbakelagt i andre EØS-stater, skal legges sammen med innenlandske perioder i angitte situasjoner, såfremt ikke forordningen selv bestemmer noe annet. Sammenleggingsprinsippet er et grunnleggende prinsipp innen trygdekoordinering, jf. sak C-440/09 *Tomaszewska,* avsnitt 30:
 
-5.5
+«… princippet om sammenlægning af forsikrings-, bopæls- eller beskæftigelsesperioder \[er\] et af de grundlæggende principper for Unionens samordning af medlemsstaternes sociale sikringsordninger, og det skal sikre, at udøvelsen af den ved EF-traktaten tildelte ret til fri bevægelighed ikke bevirker, at en arbejdstager mister de sociale fordele, som han ville have haft krav på, hvis han havde tilbragt hele sit erhvervsaktive liv i en enkelt medlemsstat. Hvis dette var konsekvensen, ville det kunne afholde arbejdstagere i Unionen fra at udøve deres ret til fri bevægelighed og ville dermed være en hindring for denne frihed …»
 
-Sammenleggingsprinsippet
-
-I alle EØS-stater er retten til visse ytelser betinget
-av at man har fullført en opptjeningsperiode. For
-eksempel kan det være krav om arbeid og innbetaling av avgift eller bosetting i en nærmere angitt
-periode i vedkommende stat. Personer som har
-opptjeningsperioder i flere stater, kunne dermed
-risikert å ikke oppfylle kravet til opptjening i noen
-stat. For å forhindre dette krever trygdeforordningen artikkel 6 at perioder tilbakelagt i andre EØSstater, skal legges sammen med innenlandske
-perioder i angitte situasjoner, såfremt ikke forordningen selv bestemmer noe annet. Sammenleggingsprinsippet er et grunnleggende prinsipp
-
-innen trygdekoordinering,
-Tomaszewska, avsnitt 30:
-
-Kapittel 5
-
-jf.
-
-sak
-
-C-440/09
-
-«… princippet om sammenlægning af forsikrings-, bopæls- eller beskæftigelsesperioder
-[er] et af de grundlæggende principper for Unionens samordning af medlemsstaternes sociale sikringsordninger, og det skal sikre, at udøvelsen af den ved EF-traktaten tildelte ret til fri
-bevægelighed ikke bevirker, at en arbejdstager
-mister de sociale fordele, som han ville have
-haft krav på, hvis han havde tilbragt hele sit
-erhvervsaktive liv i en enkelt medlemsstat.
-Hvis dette var konsekvensen, ville det kunne
-afholde arbejdstagere i Unionen fra at udøve
-deres ret til fri bevægelighed og ville dermed
-være en hindring for denne frihed …»
 Artikkel 6 i trygdeforordningen lyder slik:
-«Med mindre det er fastsatt noe annet i denne
-forordning, skal den kompetente institusjon i
-en medlemsstat hvis lovgivning setter tilbakelagt trygdetid, tid med lønnet arbeid, tid med
-selvstendig virksomhet eller botid som et vilkår for
-– å oppnå, beholde eller få tilbake rett til
-ytelser, eller for at denne rettighet skal ha
-en viss varighet,
-– å få lovfestet trygdedekning,
+
+«Med mindre det er fastsatt noe annet i denne forordning, skal den kompetente institusjon i en medlemsstat hvis lovgivning setter tilbakelagt trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som et vilkår for
+
+- å oppnå, beholde eller få tilbake rett til ytelser, eller for at denne rettighet skal ha en viss varighet,
+
+- å få lovfestet trygdedekning,
+
 eller
-– å få adgang til eller fritak for pliktig trygd,
-frivillig trygd eller frivillig fortsatt trygd,
-i den utstrekning det er nødvendig ta hensyn til
-trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som er tilbakelagt etter en annen medlemsstats lovgivning,
-som om dette var tid tilbakelagt etter lovgivningen den anvender.»
-Det følger av trygdeforordningens fortale avsnittene 13 og 14 at formålet er å hindre at personer
-som flytter innenfor EØS, og deres familier, skal
-tape rettigheter de har opparbeidet eller som er
-under opptjening. Bestemmelsene i trygdeforordningen artikkel 6 suppleres av bestemmelsene i
-artikkel 12 i gjennomføringsforordningen. Av
-bestemmelsen følger at den kompetente institusjonen, så langt det er nødvendig, må innhente
-informasjon om og ta hensyn til relevante perioder tilbakelagt etter lovgivningen i andre EØS-stater.
-Disse periodene skal behandles som om de
-var tilbakelagt under den lovgivningen som institusjonen anvender, altså norsk rett dersom det er
 
-[Side 68]
+- å få adgang til eller fritak for pliktig trygd, frivillig trygd eller frivillig fortsatt trygd,
 
-66
+i den utstrekning det er nødvendig ta hensyn til trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som er tilbakelagt etter en annen medlemsstats lovgivning, som om dette var tid tilbakelagt etter lovgivningen den anvender.»
 
-Kapittel 5
+Det følger av trygdeforordningens fortale avsnittene 13 og 14 at formålet er å hindre at personer som flytter innenfor EØS, og deres familier, skal tape rettigheter de har opparbeidet eller som er under opptjening. Bestemmelsene i trygdeforordningen artikkel 6 suppleres av bestemmelsene i artikkel 12 i gjennomføringsforordningen. Av bestemmelsen følger at den kompetente institusjonen, så langt det er nødvendig, må innhente informasjon om og ta hensyn til relevante perioder tilbakelagt etter lovgivningen i andre EØS-stater.
 
-NOU 2021: 8
-Trygd over landegrensene
+Disse periodene skal behandles som om de var tilbakelagt under den lovgivningen som institusjonen anvender, altså norsk rett dersom det er spørsmål om en ytelse fra Nav. Dette gjelder også der slike perioder tillegges vekt for å bestemme varigheten av en ytelsesperiode, for å få lovfestet trygdedekning, eller for å oppnå adgang til eller unntak fra obligatorisk trygdedekning, valgfri fortsettelse av pliktig trygdedekning eller frivillig trygdedekning.
 
-spørsmål om en ytelse fra Nav. Dette gjelder også
-der slike perioder tillegges vekt for å bestemme
-varigheten av en ytelsesperiode, for å få lovfestet
-trygdedekning, eller for å oppnå adgang til eller
-unntak fra obligatorisk trygdedekning, valgfri
-fortsettelse av pliktig trygdedekning eller frivillig
-trygdedekning.
-En rekke ytelser etter folketrygdloven er
-betinget av opptjeningsperioder. For sykepenger
-er det etter folketrygdloven § 8-2 et krav om at
-medlemmet har vært i arbeid i minst fire uker
-umiddelbart før han eller hun ble arbeidsufør. For
-en person som ikke har fire ukers opptjeningstid i
-Norge, følger det av forordningen artikkel 6 at
-også perioder med arbeid i andre EØS-stater
-umiddelbart før han eller hun ble arbeidsufør, skal
-tas i betraktning. For arbeidsavklaringspenger
-stiller folketrygdloven § 11-2 som hovedregel krav
-om forutgående medlemskap i trygden fem år
-umiddelbart før krav om arbeidsavklaringspenger
-fremmes. Etter sammenleggingsprinsippet i artikkel 6 skal også perioder med trygdetid tilbakelagt
-i andre EØS-stater tas i betraktning.
-«Trygdetid» er definert i forordningen artikkel 1 bokstav t som «tid med avgiftsinnbetaling,
-med lønnet arbeid eller med selvstendig virksomhet definert eller anerkjent som trygdetid etter
-lovgivningen den er tilbakelagt eller anses som tilbakelagt under» og all tid som etter nevnte lovgivning sidestilles med slik tid. «Tid med lønnet
-arbeid» eller «tid med selvstendig virksomhet» er
-i forordningen artikkel 1 bokstav u angitt som «tid
-definert eller anerkjent som slik tid etter lovgivningen den er tilbakelagt under» og all tid som
-etter nevnte lovgivning sidestilles med slik tid. I
-forordningen artikkel 1 bokstav v er «botid» angitt
-som «tid definert eller anerkjent som botid etter
-lovgivningen den er tilbakelagt eller ansett som tilbakelagt under».
-Som definisjonene viser, er det et minimumskrav for anvendelse av trygdeforordningen artikkel 6 at perioden tilbakelagt i den andre staten
-kvalifiserer som relevant periode etter denne statens lovgivning. Det er ikke relevant i denne sammenheng om perioden ville kvalifisert etter den
-kompetente statens lovgivning. I sak C-372/02
-Adanez Vega slo EU-domstolen fast at Tyskland
-som kompetent stat ikke var forpliktet til å regne
-med militærtjeneste fra Spania som «tid med lønnet arbeid», med mindre slik militærtjeneste ble
-anerkjent i Spania der den var avtjent. Saken gjaldt
-krav på dagpenger ved arbeidsløshet, og spørsmålet for EU-domstolen var hvorvidt nevnte militærtjeneste skulle anses å utgjøre «ansettelsestid […]
-tilbakelagt som arbeidstaker etter [en] annen
+En rekke ytelser etter folketrygdloven er betinget av opptjeningsperioder. For sykepenger er det etter folketrygdloven § 8-2 et krav om at medlemmet har vært i arbeid i minst fire uker umiddelbart før han eller hun ble arbeidsufør. For en person som ikke har fire ukers opptjeningstid i Norge, følger det av forordningen artikkel 6 at også perioder med arbeid i andre EØS-stater umiddelbart før han eller hun ble arbeidsufør, skal tas i betraktning. For arbeidsavklaringspenger stiller folketrygdloven § 11-2 som hovedregel krav om forutgående medlemskap i trygden fem år umiddelbart før krav om arbeidsavklaringspenger fremmes. Etter sammenleggingsprinsippet i artikkel 6 skal også perioder med trygdetid tilbakelagt i andre EØS-stater tas i betraktning.
 
-medlemsstats lovgivning», jf. artikkel 67 i den tidligere trygdeforordningen. EU-domstolen viste til
-definisjonen i den tidligere trygdeforordningen
-artikkel 1 bokstav s (viderført i artikkel 1 bokstav
-u i den nye forordningen) hvor det avgjørende var
-hvorvidt den påberopte aktiviteten regnes som tid
-med lønnet arbeid i opptjeningsstaten. En anførsel
-om at det var i strid med likebehandlingsprinsippet at Tyskland ikke likestilte militærtjeneste
-avtjent i Spania med militærtjeneste avtjent i Tyskland, ble avvist under henvisning til at spørsmålet
-var særskilt regulert i artikkel 67 (avsnittene 5557). Det hadde derfor ingen betydning i denne
-sammenheng at militærtjeneste ble ansett som
-«tid med lønnet arbeid» etter tysk rett.
-Etter sin ordlyd taler trygdeforordningen
-artikkel 6 og definisjonene av de relevante tidsperiodene i artikkel 1 for at all tid som etter én stats
-lovgivning utgjør en relevant tidsperiode, helt
-uten videre må tas i betraktning av den staten som
-er kompetent stat. Dersom det i Adanez Vega-dommen i stedet var slik at militærtjenesten var gjennomført i Tyskland, og spørsmålet var om Spania
-måtte anerkjenne dette som tid med lønnet
-arbeid, tilsier ordlyden at dette må besvares
-bekreftende.27 Beslutning nr. H6 av 16. desember
-2010 fra Den administrative kommisjon reiser
-imidlertid tvil om dette.28 Beslutningen avdekker
-det spenningsforholdet som eksisterer mellom
-plikten til å anerkjenne andre medlemsstaters vurdering av hva som skal anses som likestilt med
-lønnet arbeid, og retten til å avgjøre de materielle
-vilkårene for trygdeytelser. Trygdeforordningen
-skal bare koordinere, ikke harmonisere medlemsstatenes trygdelovgivning, og det kan hevdes at
-denne grensen overskrides dersom Spania i
-eksempelet ovenfor tvinges til å innvilge en ytelse
-basert på omstendigheter som etter spansk rett
-ikke regnes som likestilt med lønnet arbeid. Den
-administrative kommisjonens pragmatiske forsøk
-på å løse dette lyder som følger (avsnittene 2 og
-3):
-«2. Alle de perioder vedrørende den relevante
-begivenhed, som er tilbagelagt under lovgivningen i en anden medlemsstat, tages i
-betragtning ved udelukkende at anvende princippet om sammenlægning af perioder, jf. artikel 6 i forordning (EF) nr. 883/2004 og artikel
-12 i forordning (EF) nr. 987/2009. Princippet
-27
+«Trygdetid» er definert i forordningen artikkel 1 bokstav t som «tid med avgiftsinnbetaling, med lønnet arbeid eller med selvstendig virksomhet definert eller anerkjent som trygdetid etter lovgivningen den er tilbakelagt eller anses som tilbakelagt under» og all tid som etter nevnte lovgivning sidestilles med slik tid. «Tid med lønnet arbeid» eller «tid med selvstendig virksomhet» er i forordningen artikkel 1 bokstav u angitt som «tid definert eller anerkjent som slik tid etter lovgivningen den er tilbakelagt under» og all tid som etter nevnte lovgivning sidestilles med slik tid. I forordningen artikkel 1 bokstav v er «botid» angitt som «tid definert eller anerkjent som botid etter lovgivningen den er tilbakelagt eller ansett som tilbakelagt under».
 
-28
+Som definisjonene viser, er det et minimumskrav for anvendelse av trygdeforordningen artikkel 6 at perioden tilbakelagt i den andre staten kvalifiserer som relevant periode etter *denne statens lovgivning*. Det er ikke relevant i denne sammenheng om perioden ville kvalifisert etter den kompetente statens lovgivning. I sak C-372/02 *Adanez Vega* slo EU-domstolen fast at Tyskland som kompetent stat ikke var forpliktet til å regne med militærtjeneste fra Spania som «tid med lønnet arbeid», med mindre slik militærtjeneste ble anerkjent i Spania der den var avtjent. Saken gjaldt krav på dagpenger ved arbeidsløshet, og spørsmålet for EU-domstolen var hvorvidt nevnte militærtjeneste skulle anses å utgjøre «ansettelsestid \[…\] tilbakelagt som arbeidstaker etter \[en\] annen medlemsstats lovgivning», jf. artikkel 67 i den tidligere trygdeforordningen. EU-domstolen viste til definisjonen i den tidligere trygdeforordningen artikkel 1 bokstav s (viderført i artikkel 1 bokstav u i den nye forordningen) hvor det avgjørende var hvorvidt den påberopte aktiviteten regnes som tid med lønnet arbeid i opptjeningsstaten. En anførsel om at det var i strid med likebehandlingsprinsippet at Tyskland ikke likestilte militærtjeneste avtjent i Spania med militærtjeneste avtjent i Tyskland, ble avvist under henvisning til at spørsmålet var særskilt regulert i artikkel 67 (avsnittene 55-57). Det hadde derfor ingen betydning i denne sammenheng at militærtjeneste ble ansett som «tid med lønnet arbeid» etter tysk rett.
 
-Eksempelet forutsetter imidlertid at Adanez Vega krevde
-en annen ytelse enn dagpenger ettersom trygdeforordningen artikkel 61 nr. 1 andre ledd fastslår at det for ytelser
-ved arbeidsløshet kreves at også den kompetente staten
-anerkjenner den aktuelle aktiviteten som trygdetid.
-2011/C 45/04
+Etter sin ordlyd taler trygdeforordningen artikkel 6 og definisjonene av de relevante tidsperiodene i artikkel 1 for at all tid som etter én stats lovgivning utgjør en relevant tidsperiode, helt uten videre må tas i betraktning av den staten som er kompetent stat. Dersom det i *Adanez Vega*-dommen i stedet var slik at militærtjenesten var gjennomført i Tyskland, og spørsmålet var om Spania måtte anerkjenne dette som tid med lønnet arbeid, tilsier ordlyden at dette må besvares bekreftende.[^183] Beslutning nr. H6 av 16. desember 2010 fra Den administrative kommisjon reiser imidlertid tvil om dette.[^184] Beslutningen avdekker det spenningsforholdet som eksisterer mellom plikten til å anerkjenne andre medlemsstaters vurdering av hva som skal anses som likestilt med lønnet arbeid, og retten til å avgjøre de materielle vilkårene for trygdeytelser. Trygdeforordningen skal bare koordinere, ikke harmonisere medlemsstatenes trygdelovgivning, og det kan hevdes at denne grensen overskrides dersom Spania i eksempelet ovenfor tvinges til å innvilge en ytelse basert på omstendigheter som etter spansk rett ikke regnes som likestilt med lønnet arbeid. Den administrative kommisjonens pragmatiske forsøk på å løse dette lyder som følger (avsnittene 2 og 3):
+
+«2. Alle de perioder vedrørende den relevante begivenhed, som er tilbagelagt under lovgivningen i en anden medlemsstat, tages i betragtning ved udelukkende at anvende princippet om sammenlægning af perioder, jf. artikel 6 i forordning (EF) nr. 883/2004 og artikel 12 i forordning (EF) nr. 987/2009. Princippet om sammenlægning forudsætter, at de perioder, der er meddelt af andre medlemsstater, sammenlægges, uden at der sættes spørgsmål ved kvaliteten heraf.
+
+3\. Medlemsstaterne har dog – når de anvender princippet om sammenlægning i punkt 2 – fortsat kompetence til at fastsætte de øvrige betingelser for at få bevilget sociale sikringsydelser under hensyntagen til artikel 5 i forordning (EF) nr. 883/2004 – forudsat at disse betingelser anvendes på en ikke diskriminerende måde – og dette princip påvirkes ikke af artikel 6 i forordning (EF) nr. 883/2004.»
+
+I beslutningen er dette konkretisert blant annet ved følgende eksempel:
+
+«Forsikringstageren har i 30 år indbetalt bidrag i henhold til lovgivningen i medlemsstat A i forbindelse med den faktiske erhvervsudøvelse. Lovgivningen i medlemsstat A fastsætter som en national betingelse for at opnå pension før tiden, at den pågældende skal kunne dokumentere bidrag i mindst 35 år i forbindelse med den faktiske erhvervsudøvelse.
+
+Forsikringstageren har i henhold til lovgivningen i medlemsstat B studeret i 2 år (meddelt som ligestillede studieperioder) og bidraget i 3 år i forbindelse med den faktiske erhvervsudøvelse.
+
+Som anført i punkt 2 i denne afgørelse skal medlemsstat A tage hensyn til disse 5 års perioder i forbindelse med sammenlægningen (første skridt).
+
+Som anført under punkt 3 i denne afgørelse skal medlemsstat A dernæst kontrollere, om de øvrige nationale betingelser i henhold til dens lovgivning er opfyldt (i dette tilfælde ‘faktisk erhvervsudøvelse’), og om disse betingelser anvendes på en ikke diskriminerende måde (andet skridt).
+
+Da der kun er bidraget i 3 år i forbindelse med den faktiske erhvervsudøvelse i medlemsstat B, er kravet i henhold til lovgivningen i medlemsstat A om 35 års faktisk erhvervsudøvelse ikke opfyldt. Da det antages, at der ikke er tale om en (indirekte) forskelsbehandling på grundlag af nationalitet, skal der ikke udredes førtidspension i henhold til lovgivningen i medlemsstat A.»
+
+I norsk sammenheng oppstår det ikke bare spørsmål om hvilke opptjeningsperioder fra andre stater som skal anerkjennes i vurderingen av om vilkår i norsk trygdelovgivning er oppfylt, men også spørsmål om hvilke opptjeningsperioder som skal rapporteres til andre kompetente stater på forespørsel. Spesielt gjelder dette vurderingen av hvilke tidsperioder som er likestilt med tid med lønnet arbeid, jf. definisjonen i artikkel 1 bokstav u. Det følger av folketrygdloven § 8-2 andre ledd og § 14-6 andre og tredje ledd at hva som anses likestilt med lønnet arbeid, kan variere fra ytelse til ytelse. Utvalget har ikke hatt kapasitet til å gå nærmere inn på dette.
+
+Av avsnitt 10 i fortalen til trygdeforordningen fremgår det at prinsippet om likestilling av ytelser, inntekter og fakta i artikkel 5 ikke må påvirke prinsippet i artikkel 6 om sammenlegging. Reglene om sammenlegging i artikkel 6 kan derfor anses som *lex specialis* av det generelle prinsippet om likestilling av ytelser, inntekter, faktiske forhold eller hendelser i artikkel 5, og med forrang foran dette.[^185] Det tilsier at «opptjeningsstatens» regler er avgjørende selv om dette gir dårligere vern enn den kompetente statens regler, jf. EU-domstolens tilnærming i sak C-372/02 *Adanez Vega*. Forstått slik innebærer artikkel 6 en innskrenking av prinsippet om likestilling av fakta i artikkel 5, hvor bestemte faktiske forhold eller hendelser inntruffet på en annen medlemsstats territorium skal bedømmes som om de hadde funnet sted i den kompetente medlemsstaten. Etter forordningen artikkel 6 kan bare opparbeidet trygdetid legges sammen; nye perioder kan ikke etableres i medhold av prinsippet om sammenlegging. Og det er neppe anledning til å supplere artikkel 6 med artikkel 5 her, jf. også presiseringen i fortalen avsnitt 11 om at likestilling av faktiske forhold eller hendelser som har funnet sted i én medlemsstat ikke på noen måte kan føre til at en annen medlemsstat blir kompetent.
+
+Artikkel 6 innledes med et forbehold om at sammenleggingsprinsippet bare gjelder dersom annet ikke er fastsatt andre steder i forordningen. Artikkel 57 i trygdeforordningen oppstiller et unntak fra sammenleggingsprinsippet. Her fremgår det at en medlemsstat ikke er forpliktet til å gi alders- og etterlattepensjoner dersom vedkommende har opptjeningsperioder i den kompetente staten som til sammen er kortere enn ett år. Dette gjelder selv om vedkommende har lang opptjening i andre medlemsstater.[^186]
+
+De generelle sammenleggingsbestemmelsene suppleres med særskilte bestemmelser for enkelte ytelser. For ytelser ved uførhet og for arbeidsløshetsytelser finnes sammenleggingsbestemmelser i henholdsvis artikkel 45 og artikkel 61. For arbeidsløshetsytelsene følger det av artikkel 61 nr. 1 andre ledd at det kun er perioder som ville kvalifisere som relevante i den kompetente stats lovgivning, som skal telles med ved sammenlegging av perioder. Når folketrygdloven § 4-4 stiller krav om en viss minste arbeidsinntekt de siste tolv eller 36 månedene før søknadstidspunktet, innebærer dette at arbeidsperioder fra andre EØS-stater tas i betraktning hvis det er tale om perioder med aktivitet som ville gitt rett til dagpenger etter norske regler. Sammenleggingsprinsippet for disse ytelsene gjelder bare dersom arbeidssøkerens siste periode fant sted i den kompetente staten, jf. artikkel 61 nr. 2. Det innebærer at vedkommende må ha hatt sitt siste arbeidsforhold i Norge. Denne begrensningen gjelder likevel ikke der bostedsstaten skal utbetale arbeidsløshetsytelser etter artikkel 65 nr. 2.
+
+Artikkel 51 inneholder sammenleggingsbestemmelser for alders- og etterlattepensjoner. Her er det blant annet uttrykkelig sagt at dersom retten til en ytelse er betinget av at den berørte personen var trygdedekket da trygdetilfellet inntraff, skal dette vilkåret anses oppfylt om vedkommende på det tidspunktet var trygdedekket i en annen medlemsstat.
+
+For en nærmere redegjørelse for forholdet mellom forordningen artikkel 5 og 6, vises det særlig til punkt 8.8.2.4 om foreldrepenger, hvor utvalget drøfter om artikkel 5 og/eller artikkel 6 er til hinder for at rett til foreldrepenger forbeholdes foreldre som har siste arbeidsforhold i Norge.
+
+Sammenleggingsprinsippet har også praktisk betydning for flere av de norske trygdeytelsene. Se som eksempel punkt 8.2.2.4 om sykepenger, punkt 8.12.2.4 om alderspensjon og punkt 8.19.2.4 om kontantstøtte.
+
+Eksempler på anvendelse av sammenleggingsprinsippet
+
+Eksempel 1
+
+Jane fra Dublin har fått jobb i Oslo. To uker etter at hun begynte i jobben, faller hun stygt på isen og pådrar seg flere bruddskader. Hun blir sykmeldt av legen i seks uker. Etter folketrygdloven § 8-2 er det et vilkår for rett til sykepenger at man har vært i arbeid i minst fire uker. Jane arbeidet imidlertid i Dublin før hun kom til Oslo, og var da trygdedekket med rett til sykepenger i Irland. Hun oppfyller dermed fireukerskravet i folketrygdloven gjennom sammenlegging.
+
+Eksempel 2
+
+Agata fra Gdansk har jobbet i Norge i to år. Før hun kom til Norge, hadde hun arbeidet i fem år i Sverige. Hun er nå 67 år, og krever alderspensjon fra Nav. Etter folketrygdloven kreves minst fem års trygdetid. På grunn av sammenleggingsbestemmelsen i artikkel 51 i trygdeforordningen, oppfyller Agata dette kravet ved hjelp av sammenlegging av svensk og norsk trygdetid. Hun kan derfor kreve alderpensjon (også) fra Nav, beregnet ut fra de to årene hun har jobbet i Norge *(pro rata)*.
+
+Eksempel 3
+
+Agatas tvillingsøster, Janina, har også arbeidet i Sverige i mange år. Hun begynte å arbeide i Norge for ni måneder siden. Hun setter også frem krav om alderspensjon fra Nav. Kravet avslås, siden trygdetiden hennes er mindre enn ett år, jf. artikkel 57 i trygdeforordningen. Hvis Janina fortsetter å arbeide i Norge, kan hun imidlertid fremsette nytt krav om tre måneder, så snart ettårskravet er oppfylt.
+
+\[Boks slutt\]
+
+## Eksportabilitetsprinsippet
+
+Det femte prinsippet gjelder eksportabilitet. Prinsippet innebærer tradisjonelt at kontantytelser som ellers kan utbetales i henhold til lovgivningen i en EØS-stat eller trygdeforordningen, ikke skal være gjenstand for reduksjon, tillegg, suspensjon, tilbaketrekking eller konfiskering fordi den begunstigede eller vedkommendes familiemedlemmer bor i en annen EØS-stat. Prinsippet kommer til uttrykk i trygdeforordningen artikkel 7, som i norsk oversettelse lyder slik:
+
+«Med mindre det er fastsatt noe annet i denne lovgivning, skal kontantytelser som utbetales etter en eller flere medlemsstaters lovgivning eller etter denne forordning, ikke reduseres, endres, midlertidig stanses, bortfalle eller beslaglegges som følge av at mottakeren eller medlemmer av hans/hennes familie er bosatt i en annen medlemsstat enn medlemsstaten der institusjonen som har ansvar for å gi ytelsene, ligger.»[^187]
+
+Med mindre noe annet er bestemt annet sted i trygdeforordningen, gjelder artikkel 7 alle kontantytelser som omfattes av forordningen. Dette er en viktig endring fra den gamle trygdeforordningen, hvor artikkel 10 var begrenset til nærmer angitte ytelser og blant annet ikke omfattet kontantytelser ved sykdom eller ytelser ved svangerskap og fødsel.[^188] Både engangsytelser og løpende trygdeytelser er omfattet av artikkel 7.
+
+Bestemmelsen gjelder ikke tilsvarende for naturalytelser, noe som blant annet har betydning for ytelser etter folketrygdloven kapittel 10 (hjelpemidler), se omtalen i punkt 8.6.2.6.
+
+Eventuelle nasjonale bestemmelser om reduksjon av kontantytelser fordi den begunstigede bor i en annen stat med et lavere kostnadsnivå, rammes etter Kommisjonens oppfatning av artikkel 7, jf. Meld. St. 40 (2016–2017) kapittel 5 og punkt 6.4.2. Norske myndigheter har tatt til etterretning at Kommisjonen mener at slike bestemmelser ikke kan anvendes overfor personer som kan påberope trygdeforordningen. For EU-domstolen verserer det flere saker i kjølvannet av Østerrikes beslutning om å indeksregulere barnetrygd til foreldre bosatt i andre medlemsstater, jf. traktatbruddsaken C-328/20 *Kommisjonen mot Østerrike* og forleggelsessakene C-163/20 *AZ mot Finanzamt Hollabrunn Korneuburg Tulln* og C-574/20 *XO mot Finanzamt Waldviertel*.[^189] Norge har intervenert i traktatbruddssaken til støtte for Østerrike og avgitt skriftlig innlegg både i denne saken og i sak C-163/20, hvor det argumenteres for at kjøpekraftjustering av barnetrygd ikke er diskriminerende, og derfor forenlig med artikkel 7 i trygdeforordningen (og artiklene 4 og 5 og særreglene om barnetrygd i artikkel 67). Samtidig har ESA intervenert til støtte for Kommisjonen i traktatbruddsaken. Ettersom spørsmålet om indeksregulering av barnetrygd nå står for EU-domstolen, har ikke utvalget funnet grunn til å drøfte det nærmere, verken for barnetrygd eller for andre trygdeytelser. Ettersom norske trygdeytelser per i dag ikke indeksreguleres, inngår ikke en vurdering av den eventuelle muligheten for slik regulering som noe naturlig innslag i utvalgets gjennomgang av trygdelovgivningen.
+
+Av avsnitt 16 i fortalen til trygdeforordningen fremgår det at det innenfor Fellesskapet i prinsippet ikke kan forsvares at trygderettigheter skal gjøres avhengige av den berørte personens bosted. I enkelte tilfeller, ved ytelser knyttet til personens økonomiske og sosiale situasjon, kan bostedet likevel tas med i betraktning. Som nevnt gjelder ikke artikkel 7 dersom noe annet er bestemt andre steder i trygdeforordningen. I artikkel 70 er det gitt egne regler for såkalte særlige, ikke-avgiftsbaserte kontantytelser, ofte omtalt som «hybridytelser». Dette er ytelser som har trekk både av trygd og sosialhjelp. Det følger av artikkel 70 nr. 3 at slike ytelser kan unntas fra reglene om eksport som følger av artikkel 7.[^190] For ytelser ved arbeidsløshet er det i artikkel 63 gitt regler som innebærer at artikkel 7 bare vil gjelde for de tilfellene som omfattes av artiklene 64, 65 og 65 a, og innenfor de rammene som er fastsatt der.
+
+Artikkel 7 i trygdeforordningen omhandler etter sin ordlyd bare opphevelse av bostedskrav. Spørsmålet om bestemmelsen likevel forbyr også oppholdskrav rettet mot personer bosatt i den kompetente staten, er ikke helt klart og har vært gjenstand for debatt i kjølvannet av saken om feilpraktisering av trygdeforordningen. Professor Tarjei Bekkedal har tatt til orde for en formålsorientert tolkning av artikkel 7 som også rammer nasjonale oppholdskrav,[^191] mens Granskningsutvalget inntok motsatt standpunkt i NOU 2020: 9, punkt 5.3.3.
+
+I sak C-503/09 *Stewart* anførte Kommisjonen at et nasjonalt vilkår om opphold i den kompetente staten i perioder forut for tildeling av en særlig kontantytelse til unge handikappede måtte likestilles med et bostedskrav, og derfor var uforenlig med artikkel 10 i den tidligere trygdeforordningen (forløperen til artikkel 7 i dagens forordning). EU-domstolen sluttet seg ikke fullt ut til dette, men kom med en sidebemerkning om at et vilkår om opphold i den kompetente stat «under hele udbetalingen af den pågældende ydelse» måtte sidestilles med et bostedskrav etter artikkel 10.[^192]
+
+Under henvisning til denne uttalelsen la EFTA-domstolen i sak E-8/20 *N* til grunn at et krav om opphold «… i praksis \[kan\] tilsvare et vilkår om vanlig bosted, særlig dersom vilkåret forutsetter lange perioder med opphold i den berørte EØS-stat og/eller *vilkåret må være oppfylt så lenge den aktuelle ytelse utbetales*».[^193] I slike tilfeller kan et krav om opphold etter EFTA-domstolens syn ikke bare tilsvare og i praksis utgjøre et bostedskrav etter artikkel 7, men også være «betydelig mer inngripende enn et bostedskrav». EFTA-domstolen konkluderte med at artikkel 7 hindrer EØS-statene i å gjøre ytelsene betinget av bosted, og at statene dermed heller ikke kan gjøre slike ytelser betinget av «kontinuerlig fysisk opphold».[^194]
+
+EFTA-domstolens tolkning av artikkel 7 i sak E-8/20 *N* er tett knyttet til domstolens tolkning av artikkel 21 nr. 1. Forholdet mellom disse to bestemmelsene er ikke klart og har vært gjenstand for debatt i kjølvannet av saken om feilpraktisering av trygdeforordningen.[^195] Ordlyden i de to bestemmelsene kan tilsi en sondring ut fra om en person befinner seg i den kompetente staten eller i en annen stat når et krav om en kontantytelse fremsettes. Artikkel 7 gjelder etter sin ordlyd kontantytelser «som utbetales», og sikrer at flytting til, og eventuelt opphold i, en annen medlemstat ikke fører til at ytelsen reduseres, endres, midlertidig stanses eller bortfaller bare fordi mottakeren gjør bruk av retten til fri bevegelighet. Artikkel 21 nr. 1 gjelder derimot etter sin ordlyd en trygdedekket person (og medlemmer av hans/hennes familie) som «bor eller oppholder seg i en annen medlemsstat», og slår fast at dette ikke avskjærer retten til kontantytelser fra den kompetente staten. En slik forståelse av artikkel 21 nr. 1 kan også hevdes å ha støtte i de påfølgende leddene i bestemmelsen, som alle gjelder forhold av betydning for en søknad om en (ny) kontantytelse, og i de tilhørende bestemmelsene i gjennomføringsforordningen artiklene 27 og 28, som gjelder medisinske undersøkelser i bosettings- eller oppholdsstaten. Mulig, om enn usikker, støtte finnes også i reguleringen i den tidligere trygdeforordningen. I denne ble det sondret mellom kontantytelser til personer som på søknadstidspunktet var bosatt i en annen medlemsstat enn den kompetente (artikkel 19 nr. 1 bokstav b), og personer som forutsetningsvis var bosatt i den kompetente stat på søknadstidspunktet, men senere ønsket å ta med seg en slik ytelse til en annen medlemsstat (artikkel 22 nr. 1 bokstav c punkt (ii)). EU-domstolen understreket i sak C-430/15 *Tolley* at disse to bestemmelsene ikke overlappet, men regulerte ulike tilfeller.[^196] Dersom man forstår artikkel 7 i den nye forordningen slik at den forutsetningsvis også regulerer retten til å ta med kontantytelser under opphold i andre medlemsstater, falt behovet for særregelen i artikkel 22 nr. 1 bokstav c punkt (ii) bort med den nye forordningen, ettersom artikkel 7 gjelder for alle kontantytelser. Det kan i så fall, som lagt til grunn av generaladvokat Saugmandsgaard Øe i sak C-430/15 *Tolley*, synes nærliggende å betrakte artikkel 7, og altså ikke artikkel 21 nr. 1, som etterfølgeren til (blant annet) artikkel 22 nr. 1 bokstav c punkt (ii).[^197] Artikkel 21 nr. 1 fremstår til gjengjeld som etterfølgeren til (blant annet) artikkel 19 og artikkel 22 nr. 1 bokstav a punkt (ii), hvor sistnevnte forklarer hvorfor artikkel 21 nr. 1 også gjelder for *opphold* i en annen medlemsstat enn den kompetente. Bestemmelsen kan i så fall betraktes som en konkretisering av artikkel 5 bokstav b: Artikkel 21 nr. 1 sikrer at bosetting eller opphold i en annen medlemsstat enn den staten man er trygdedekket i, ikke får negative konsekvenser når behovet for en ytelse fra den kompetente staten melder seg.
+
+Forholdet mellom artikkel 7 og artikkel 21 nr. 1 kompliseres imidlertid av at EU-domstolen, som alt nevnt, tolket artikkel 10 i den tidligere forordningen slik at den også gjaldt ved søknader om kontantytelser fra personer som var bosatt i en annen medlemsstat enn den kompetente.[^198] Bortsett fra verbformen er det heller ikke noe i ordlyden til artikkel 21 nr. 1 som tilsier at den bare gjelder for saker hvor den som søker om en kontantytelse, befinner seg i en annen medlemsstat enn den kompetente på søknadstidspunktet. I litteraturen finnes det dem som anser artikkel 21 nr. 1 som en konkretisering av artikkel 7, og altså ikke som et supplement, og som av den grunn mener det er riktig å betrakte artikkel 21 nr. 1 som etterfølgeren til (også) artikkel 22 nr. 1 punkt (ii) i den gamle forordningen.[^199]
+
+I lys av EFTA-domstolens tolkning av artikkel 7 og artikkel 21 nr. 1 i sak E-8/20 *N* ser ikke utvalget grunn til å drøfte forholdet mellom disse bestemmelsene nærmere. Med EFTA-domstolens tilnærming smelter de to bestemmelsene langt på vei sammen til en felles regel for så vidt gjelder kontantytelser ved sykdom og ytelser i anledning av svangerskap og fødsel. Når artikkel 7 tolkes slik at den også sikrer retten til å ta med slike kontantytelser under kortere opphold i andre medlemsstater, betyr dette at ytelser ikke kan nektes *som følge av* at mottakeren oppholder seg i en annen medlemsstat enn den kompetente staten, jf. ordlyden i artikkel 7. Dette er i realiteten samme norm som EFTA-domstolens utleder av artikkel 21 nr. 1 når den slår fast at bestemmelsens henvisning til nasjonal rett ikke tillater noe oppholdskrav.[^200] Begge bestemmelsene tillater at kontantytelser stanses, bortfaller mv. av andre grunner, slik som for eksempel manglende etterlevelse av aktivitetsplikter, men ikke at selve den omstendighet at mottaker oppholder seg i en annen EØS-stat, får slike virkninger.
+
+Med denne forståelsen av artikkel 7 fremstår det langt på vei som en smakssak om man vil vise til den bestemmelsen, til artikkel 21 nr. 1 eller til begge to i vurderingen av retten til å ta med kontantytelser ved sykdom og ytelser i anledning av svangerskap og fødsel til andre medlemsstater. Dette gjelder likevel ikke i tilfeller hvor en slik ytelse ikke stanses som følge av at mottaker oppholder seg i en annen medlemsstat, men fordi yrkesaktivitet i den nye oppholdsstaten fører til at lovvalget går over til denne staten. Spørsmålet om artikkel 21 nr. 1 gir rett til å beholde kontantytelser fra den tidligere lovvalgsstaten i disse tilfellene drøftes nærmere i punkt 6.2.
+
+Artikkel 7 utdyper det mer generelle prinsippet om likestilling av ytelser, inntekter og fakta i artikkel 5, se nærmere omtale under punkt 5.4. Artikkel 7 vil dermed kunne anses som en spesialregel når det gjelder spørsmål knyttet til så vel eksportabilitet i tradisjonell forstand, som retten til å ta med seg kontantytelser under kortere opphold i andre medlemsstater.[^201]
+
+Det tradisjonelle eksportabilitetsprinsippets betydning for norske trygdeytelser er blant annet omtalt i punkt 8.11.2.6 om uføretrygd og punkt 8.12.2.6 om alderspensjon. Den betydning som artikkel 7 har for retten til fri bevegelighet også ut over tradisjonell eksportabilitet omtales en rekke steder i kapittel 8.
+
+Eksempler på anvendelse av eksportabilitetsprinsippet
+
+Eksempel 1
+
+Paul fra Ringsaker har tatt ut alderspensjon fra folketrygden. Som 75-åring selger Paul huset sitt og flytter til Alicante. Artikkel 7 i trygdeforordningen sikrer Paul rett til å fortsatt motta alderspensjonen i Spania, med samme beløp som han fikk på Ringsaker.
+
+Eksempel 2
+
+Sigurd fra Notodden ble 100 prosent ufør etter en skiulykke som attenåring, og han har derfor uføretrygd fra folketrygden, fastsatt etter særreglene i folketrygdloven § 12-13 for personer som er født ufør eller blir ufør før fylte 26 år. Han får derfor den garanterte minstesatsen på 2,91 G for enslige unge uføre. Sigurd flytter til Helsinki. Siden tillegget til unge uføre er en ikke-avgiftsbasert ytelse som er oppført i vedlegg X til trygdeforordningen, får han ikke dette tillegget etter at han har flyttet til Helsinki. Dette innebærer imidlertid ikke at Sigurd ikke får utbetalt uføretrygd overhodet, bare at tillegget til unge uføre faller bort. Ytelsen blir dermed redusert til lovens ordinære minstesats for enslige på 2,48 G, som er en ytelse som kan eksporteres innenfor EØS.
+
+Eksempel 3
+
+For barnetrygd er reglene om eksportabilitet i artikkel 7 supplert med særbestemmelsen i artikkel 67. Keith fra Dublin ukependler til Norge, hvor han arbeider på et fiskemottak. Han har kone og tre mindreårige barn hjemme i Dublin. Minstesønnen Neil er ett år. Keith har krav på barnetrygd for alle de tre barna og kontantstøtte for Neil. Familier i grensekryssende situasjoner vil kunne ha krav på barnetrygd fra flere EØS-stater samtidig. Om det også skal utbetales barnetrygd etter irsk lovgivning, og hvilken av statene som i tilfelle er såkalt primær- og sekundærstat, avhenger av reglene i irsk lovgivning, sammenholdt med prioriteringsreglene i trygdeforordningen artiklene 67–69. Prioriteringsreglene innebærer at én stat har det primære ansvaret for å utbetale ytelsen (primærstaten), mens den andre staten utbetaler et eventuelt supplement dersom ytelsen i sistnevnte stat er høyere (differansebetaling).
+
+\[Boks slutt\]
+
+## Delpensjonsprinsippet
+
+Når en person har vært trygdedekket i flere stater, og så får behov for en trygdeytelse, kan det tenkes flere løsninger med hensyn til hvilken stat som skal bære kostnadene.
+
+En løsning kan være at det er den staten der vedkommende er trygdedekket når trygdetilfellet inntrer, som skal ta stilling til kravet og eventuelt betale ut trygdeytelsen. Denne løsningen, som iblant omtales som et «risikoprinsipp», gjelder etter trygdeforordningen for enkelte ytelser, blant annet ytelser ved sykdom.
+
+For familieytelser kan ulike familiemedlemmer være trygdedekket i ulike stater, og tilsvarende problemstillinger kan oppstå. For disse oppstiller trygdeforordningen det som kalles et «differanseprinsipp». I tilfeller hvor det i utgangspunktet foreligger rett til slike ytelser fra flere stater for samme barn, avgjøres det etter nærmere regler i trygdeforordningen hvilken stat som er primærstaten og hvilken stat som er sekundærstaten. Dersom ytelsen er høyere i sekundærstaten enn i primærstaten, skal sekundærstaten utbetale et differansebeløp, som mottakeren får i tillegg til ytelsen fra primærstaten. Ingen av statene må imidlertid utbetale en høyere ytelse enn hva vedkommende har krav på etter statens nasjonale regler. Formålet med denne differanseutbetalingen er at familien skal sikres et beløp tilsvarende det høyeste av de ytelsesbeløpene de har rett til, men uten at primærstaten skal pålegges å øke trygdesatsene sine.[^202]
+
+For pensjoner oppstiller imidlertid trygdeforordningen en tredje løsning. For disse gjelder det såkalte delpensjonsprinsippet. Dette prinsippet innebærer at en ytelse utmåles i forhold til hvor lang opptjening vedkommende har i hver enkelt stat. Ytelsene utbetales av hver av de involverte medlemsstatene i form av delpensjoner.
+
+I disse tilfellene oppstilles en egen beregningsmåte, omtalt som «*pro rata temporis*»-beregning. Delpensjonsprinsippet blir derfor også omtalt som «*pro rata*-prinsippet».
+
+De nærmere reglene fremgår av artikkel 52 i trygdeforordningen.
+
+Ved en *pro rata*-beregning skal man først finne frem til en hjelpestørrelse kalt det *teoretiske beløpet*. Dette beløpet er den pensjonen vedkommende ville hatt rett til dersom all trygdetid vedkommende har i alle EØS-stater hadde vært tilbakelagt i den aktuelle staten, jf. artikkel 52 nr. 1 bokstav b punkt (i). Her må det altså foretas en beregning etter de ordinære nasjonale bestemmelsene, men slik at man medregner all «EØS-trygdetid».
+
+Deretter skal det fastsettes et *faktisk beløp*, som er det beløpet som skal komme til utbetaling. Dette gjøres ved at det teoretiske beløpet multipliseres med en brøk der tilbakelagt trygdetid i vedkommende stat er telleren og summen av tilbakelagt trygdetid i alle EØS-stater utgjør nevneren, jf. artikkel 52 nr. 1 bokstav b punkt (ii). Dersom vedkommende har ti år trygdetid i Norge, og 35 år trygdetid sammenlagt fra alle EØS-stater, vil brøken bli 10/35. Norge vil dermed bli ansvarlig for å utbetale 10/35 av det teoretiske beløpet.
+
+Det er i forskrift fastsatt at det aldri skal anvendes mer enn 40 år i nevneren i brøken ved beregningen av det faktiske pensjonsbeløpet, selv om summen av tilbakelagt trygdetid i alle EØS-stater skulle være større.[^203] En større nevner ville kunne føre til at pensjonen ble mindre ved beregning etter trygdeforordningens *pro rata*-regler enn dersom den ble beregnet etter nasjonale regler, noe Norge har ønsket å forhindre.
+
+Trygdeforordningen sondrer mellom situasjoner hvor de nasjonale inngangsvilkårene er oppfylt uten sammenlegging av trygdetid, og situasjoner der slik sammenlegging er nødvendig for å oppfylle inngangsvilkårene. I norsk trygdelovgivning er det kravet til forutgående trygdetid som er av betydning for dette skillet.
+
+Hvis inngangsvilkårene er oppfylt uten sammenlegging med trygdetid fra andre EØS-stater, skal pensjonen beregnes både etter nasjonal lovgivning og *pro rata*. Deretter skal det gunstigste alternativet velges, jf. artikkel 52 nr. 3 i trygdeforordningen.
+
+Hvis sammenlegging av trygdetid er nødvendig for å oppfylle inngangsvilkårene, skal imidlertid pensjonen alltid beregnes *pro rata.*
+
+For Norges del skal folketrygdens pensjon og overgangsstønad til gjenlevende ektefelle, barnepensjon, ytelse til tidligere familiepleier og uføretrygd beregnes etter bestemmelsene i artikkel 52 i trygdeforordningen.[^204]
+
+Folketrygdens alderspensjon beregnes imidlertid som hovedregel ikke etter artikkel 52 i trygdeforordningen, men etter de ordinære bestemmelsene i folketrygdloven.[^205] Dette følger av Norges unntak i merknad til vedlegg VIII til trygdeforordningen inntatt i vedlegg VI til EØS-avtalen.[^206]
+
+Bakgrunnen for dette er at folketrygdlovens beregningsmodell i seg selv er en *pro rata*-beregning. Et unntak fra denne hovedregelen gjelder ved overgang fra uføretrygd eller gjenlevendepensjon til alderspensjon. I slike tilfeller må ytelsen omregnes. Dersom den tidligere uføretrygden eller gjenlevendepensjonen var beregnet *pro rata* etter artikkel 52 i trygdeforordningen, må det gjøres en sammenlignende beregning mellom en vanlig alderspensjon og en *pro rata*-beregnet alderspensjon.
+
+Eksempel på anvendelse av delpensjonsprinsippet
+
+Ekteparet Frank og Tore fra Moss har bare 15 års trygdetid i Norge. De har bodd flere år i stater utenfor EØS, men de har i de siste 25 årene bodd i Roma. Tore dør i en bilulykke og Frank krever pensjon til gjenlevende ektefelle fra Nav. Siden sammenlegging av trygdetid var nødvendig for å oppfylle inngangsvilkårene, skal pensjonen beregnes *pro rata*. Nav fastsetter derfor først et teoretisk beløp, hvor både trygdetiden i Norge, 15 år, og de 25 årene i Italia regnes med. Deretter fastsettes Franks faktiske pensjonsbeløp fra Norge ved å multiplisere det teoretiske beløpet med 15/40.
+
+Såfremt vilkårene for etterlattepensjon er oppfylt i Italia, vil Frank også motta en delpensjon derfra.
+
+\[Boks slutt\]

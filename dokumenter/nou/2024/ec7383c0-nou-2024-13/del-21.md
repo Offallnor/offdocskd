@@ -1,983 +1,308 @@
-# NOU 2024: 13, del 21 av 47 (side 224–238)
+# NOU 2024: 13, del 21 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 224]
-
-222
-
-Kapittel 15
-
-NOU 2024: 13
-Lov og frihet
-
-som lovbruddet er mindre grovt, er straffen fengsel inntil 4 år. Er bruddet grovt, økes straffen til
-fengsel i 5 til 10 år. Ved vurderingen av om
-kjønnslemlestelsen er grov, skal det særlig tas
-hensyn til om den er særlig omfattende, om handlingen har medført fare for liv eller alvorlig sykdom eller om gjerningspersonen på annen måte
-har utvist «synnerlig hänsynslöshet».
-Det foreligger ingen domsavgjørelser etter
-kjønnslemlestelsesloven fra den svenske Høyesterett.24 Det finnes enkelte avgjørelser fra svenske
-hovrätter. I dom 14. februar 2018 fra Hovrätten
-över Skåne och Blekinge ble en mann dømt for
-forberedelse til kjønnslemlestelse av sine to
-døtre.25 Mannen hadde gjennom en bekjent vært i
-kontakt med faren sin i Nigeria, som hadde sagt at
-mannen kunne returnere til Nigeria dersom han
-tok med seg døtrene sine for å kjønnslemleste
-dem der.26 I en dom av 27. februar 2023 fra Göta
-Hovrätt ble en mann frikjent for medvirkning til
-kjønnslemlestelse.27 Bevisene var ikke sterke
-nok, blant annet fordi det ikke kunne utelukkes at
-inngrepene hadde skjedd på et annet tidspunkt
-enn det tiltalen gjaldt.28
-
-15.4 Utvalgets vurderinger
-Norsk straffelov oppfyller etter utvalgets syn folkerettslige forpliktelser som gjelder kjønnslemlestelse. Som nevnt ovenfor har GREVIO anbefalt
-Norge å kriminalisere særskilt medvirkning til
-kjønnslemlestelse, slik dette er definert i Istanbulkonvensjonen artikkel 38 bokstav b og c. Medvirkning til kjønnslemlestelse er allerede tilstrekkelig kriminalisert gjennom straffeloven § 15.
-Utvalget ser ingen grunn til å innføre en egen straffebestemmelse om medvirkning til kjønnslemlestelse.
-Hovedutfordringen med å straffeforfølge
-kjønnslemlestelse synes ikke å være mangelfulle
-straffebestemmelser, men at straffbare forhold
-ikke straffeforfølges i tilstrekkelig grad grunnet
-manglende bevis og lav oppdagelsesrisiko. Ingen
-anmeldte saker om kjønnslemlestelse i Norge har
-hittil resultert i tiltale. Det foreligger dermed
-24
-
-Høyesterettsavgjørelse NJA 2006 s. 708, som gjaldt barnebortføring, berørte indirekte kjønnslemlestelse ved at retten stadfestet hovrettens avgjørelse om tiltalepunktet om
-kjønnslemlestelse.
-25
-HovR B 132-18. (2018).
-26
-Fra Blekinge tingsrett (2018-01-09) side 8, opprettholdt i
-Hovrätten över Skåne och Blekinge.
-27 HovR B 1032-22.
-28 HovR B 1032-22: side 10-11.
-
-ingen Høyesteretts- eller underrettsavgjørelser
-etter verken straffeloven §§ 284 og 285 eller den
-tidligere kjønnslemlestelsesloven av 1995.
-For å finne ut hvorfor kjønnslemlestelse straffeforfølges så sjelden i Norge, analyserte Inger-Lise
-Lien 20 av 53 politiregistrerte saker om kjønnslemlestelse og intervjuet politimenn og leger om utfordringer ved sakene.29 Lien fant at politiets vansker
-med å få sakene behandlet for retten i hovedsak
-skyldtes bevisutfordringer. Utfordringene oppsummerte hun i syv problemområder:
-1. Det mangler medisinske bevis.
-2. Det er vansker med å stadfeste tidspunktet da
-inngrepet fant sted.
-3. Foreldrene nekter for at de visste om prosedyren.
-4. Det mangler vitner i Norge som kan knytte
-foreldrene til handlingen.
-5. Barna husker ikke eller vet ikke om de har
-blitt utsatt for kjønnslemlestelse ettersom prosedyren ble gjort da de var barn.
-6. Det mangler kompetanse blant de som rapporterer sakene, noe som kan skape feilaktige
-anmeldelser.
-7. Uskyldspresumsjonen innebærer at tvil skal
-komme tiltalte til gode.
-Norge er ikke alene om å ha utfordringer med å
-strafforfølge kjønnslemlestelse. I en oversiktsstudie fra 2015 over straffesaker om kjønnslemlestelse fra elleve ulike EU-medlemsstater, ble det
-funnet færre enn 50 straffesaker totalt, og de
-fleste straffesakene ble gjennomført på 1980- og
-1990-tallet.30
-Det er ikke grunn til å anta at en endring av
-straffeloven §§ 284 og 285 vil avhjelpe problemene
-med å føre tilstrekkelig bevis for kjønnslemlestelse.31 Norge har en betydelig strengere strafferamme for kjønnslemlestelse enn andre nordiske
-land, se omtalen av andre lands rett ovenfor. Utvalget ser ingen grunn til å heve strafferammene.
-Utvalget viser til at tiltak som foreslås i andre
-kapitler i denne utredningen vil kunne bidra til å
-forebygge kjønnslemlestelse. I kapittel 27 foreslår
-utvalget et utreiseforbud i barnevernsloven for å
-hindre reiser som blant annet skaper alvorlig fare
-for barnets helse. Fare for kjønnslemlestelse vil
-kunne danne grunnlag for utreiseforbud. Også
-29
-
-Lien 2017: side 191-206.
-Mestre i Mestre og Johnsdotter 2019.
-31
-Se Prop. 36 S (2023–2024) Opptrappingsplan mot vold og
-overgrep mot barn og vold i nære relasjoner (2024–2028)
-Trygghet for alle, som beskriver hvordan arbeidet mot
-kjønnslemlestelse skal følges opp videre av regjeringen.
-30
-
-[Side 225]
-
-NOU 2024: 13
-Lov og frihet
-
-utvalgets forslag til en egen straffebestemmelse
-om skadelige utenlandsopphold vil kunne motvirke kjønnslemlestelse, se kapittel 14. Den foreslåtte straffebestemmelsen vil omfatte tilfeller der
-personer med foreldreansvar sender, tar med eller
-
-223
-
-Kapittel 15
-
-etterlater et barn i utlandet under forhold som
-medfører alvorlig fare for at barnet vil bli
-kjønnslemlestet. For øvrig vises det til at fare for
-kjønnslemlestelse kan danne grunnlag for beskyttelse (asyl) etter utlendingsloven.
-
-[Side 226]
-
-224
-
-Kapittel 15
-
-NOU 2024: 13
-Lov og frihet
-
-[Side 227]
-
-Del III
-Ekteskapsloven og utlendingsloven mv.
-
-Figur 16.1
-
-[Side 228]
-
-[Side 229]
-
-NOU 2024: 13
-Lov og frihet
-
-227
-
-Kapittel 16
-
-Kapittel 16
-
-Tiltak mot tvangsekteskap i ekteskapsloven og
-trossamfunnsloven
-16.1 Innledning
-Dette kapittelet omhandler regler i ekteskapsloven og trossamfunnsloven som skal forhindre
-tvangsekteskap og barneekteskap. Reglene i ekteskapsloven har betydning som bakgrunnsrett for
-kapittel 12 om straff for tvangsekteskap og barneekteskap og kapittel 17 om utlendingslovens
-regler for å forhindre tvangsekteskap.
-
-Boks 16.1 Begrepsforståelse
-Tvangsekteskap, herunder barneekteskap,
-handler tradisjonelt om partenes vilje på vigselstidspunktet. Dersom ekteskapet ble inngått
-frivillig, men samlivet har utviklet seg til å bli
-påtvunget, er det ikke vanlig å omtale fenomenet som tvangsekteskap. FNs kvinnekomité
-har imidlertid brukt betegnelsen tvangsekteskap også om de tilfellene der minst en av partene ikke står fritt til å avslutte ekteskapet eller
-forlate sin ektefelle. Ekteskap som ikke kan
-oppløses ensidig, omtales også som «haltende
-skilsmisser» i juridisk litteratur. Europarådets
-parlamentarikerforsamlings resolusjon nr. 2481
-omtaler det å bli holdt i ekteskapet mot ens vilje
-som «marital captivity», direkte oversatt til
-«ekteskapelig fangenskap».1
-Utenomrettslige ekteskap, som bare inngås kulturelt eller religiøst, har ikke sivilrettslige rettsvirkninger. Slike ekteskap kan likevel
-oppleves som like bindende for partene som et
-formelt gyldige ekteskap, og forbindes med
-økt risiko for utenomrettslige barneekteskap,
-tvangsekteskap og ekteskapelig fangenskap,
-se kapittel 3.
-1
-
-Europarådets parlamentarikerforsamling 2023: resolusjon 2481.
-
-16.2 Gjeldende rett
-16.2.1 Menneskerettslige forpliktelser
-Retten til vern mot tvangsekteskap og rett til skilsmisse er omtalt i punkt 5.3.8, men omtales også
-kort her. Etter Grunnloven § 102 og den europeiske menneskerettskonvensjonen (EMK) artikkel 8 har alle krav på respekt for sitt privatliv og
-familieliv. Retten til privat- og familieliv er imidlertid ikke absolutt. I noen tilfeller kan det å
-bekjempe tvangsekteskap og barneekteskap være
-et nødvendig og forholdsmessig inngrep i retten
-til privat- og familieliv for å beskytte andres rettigheter og friheter. I utlendingsloven er det for
-eksempel innført et 24-årskrav for familieinnvandring som har til hensikt å motvirke tvangsekteskap. Høyesterett kom i HR-2022-2329-A til at et
-avslag om familieinnvandring begrunnet i 24-årskravet, bygget på en rimelig balanse mellom individets og samfunnets interesser, og at alderskravet i utlendingsloven § 41a bygger på en saklig
-begrunnelse og ikke er i strid med EMK artikkel
-8 eller diskrimineringsforbudet i EMK artikkel 14.
-EMK artikkel 12 gir menn og kvinner i gifteferdig alder rett til å gifte seg og til å stifte familie,
-men heller ikke denne retten er absolutt. Retten til
-å inngå ekteskap kan begrenses både materielt og
-formelt så framt begrensningene ikke er av et
-slikt omfang at selve kjernen i retten til å gifte seg
-og stifte familie gjøres innholdsløs.1
-FNs konvensjon om avskaffelse av alle former
-for diskriminering av kvinner (kvinnediskrimineringskonvensjonen) artikkel 16 nr. 1 bokstav a til c
-pålegger statene blant annet å sikre at kvinner og
-menn har den samme retten til å inngå ekteskap,
-til fritt å velge ektefelle og til bare å inngå ekteskap når det skjer på fritt grunnlag og med fullt
-samtykke, og til å ha lik rett til skilsmisse. Etter
-artikkel 16 nr. 2 skal ikke forlovelse og ekteskaps1
-
-EMD avgjørelse B. og L. mot Storbritannia 13. desember
-2005, saksnr. 36536/02 (avsnitt 34).
-
-[Side 230]
-
-228
-
-Kapittel 16
-
-NOU 2024: 13
-Lov og frihet
-
-inngåelse med barn ha noen rettsvirkning, og
-minstealder for inngåelse av ekteskap skal fastsettes i lovs form.
-FNs barnekonvensjon nevner ikke tvangsekteskap eksplisitt, men flere artikler innebærer en
-plikt for statene til å forhindre barne- og tvangsekteskap. I 2019 kom en ny revidert utgave av barneog kvinnekomiteenes generelle uttalelse om skadelige praksiser.2 I punkt f anbefaler komiteene en
-absolutt 18-års grense for inngåelse av ekteskap,
-uten unntak: «That a minimum legal age of marriage for girls and boys, with or without parental
-consent, is established at 18 years». I den reviderte uttalelsen påpekes det at også gutter kan
-være utsatt for vold og skadelige praksiser. Barnekomiteens og kvinnekomiteens anbefalinger og
-generelle kommentarer er ikke rettslig bindende
-for medlemsstatene, men er likevel anerkjent i folkeretten som tungtveiende kilder ved tolkingen
-og anvendelsen av konvensjonene.
-Ekteskapelig fangenskap er ikke definert i
-norsk lovgivning, og begrepet er foreløpig ikke
-innarbeidet i internasjonale rettighetsdokumenter. Europarådets parlamentarikerforsamling
-framhever i sin resolusjon nr. 2461 at ekteskapelig
-fangenskap kan utgjøre brudd på blant annet
-EMK artikkel 5 om retten til frihet og sikkerhet,
-artikkel 8 om retten til respekt for privatliv og
-familieliv, artikkel 14 om diskrimineringsforbud
-og artikkel 12 om retten til å gifte seg.3 Parlamentarikerforsamlingen oppfordrer medlemstatene til
-å gjøre grep for å bekjempe problemet og til å
-finne tilgjengelige løsninger for ofrene.
-Ekteskapelig fangenskap kan også utgjøre brudd
-på en rekke bestemmelser i Istanbul-konvensjonen og kvinnekonvensjonen.
-
-16.2.2 Tiltak i ekteskapsloven
-Regler om inngåelse av ekteskap
-
-heten ble fjernet ved lov 15. juni 2018 nr. 31,4 og
-ekteskapsalderen på 18 år er nå absolutt for ekteskapsinngåelser i Norge.
-Begge ektefellene må ha rettslig handleevne,
-det vil si «evne til normal forståelse av hva en ekteskapsinngåelse innebærer, og evne til normal motivering for å inngå ekteskap», jf. lovens § 9. Hvis
-en av ektefellene mangler rettslig handleevne, er
-ekteskapsinngåelsen ugyldig, jf. lovens § 16 femte
-ledd.
-Det kreves en gyldig prøvingsattest for å
-kunne inngå ekteskap, jf. lovens § 10. Prøvingen
-gjøres av folkeregistermyndigheten eller av norsk
-utenrikstjenesteansatt, jf. lovens § 6. Brudefolkene skal hver for seg erklære på ære og samvittighet at ekteskapet blir inngått av egen fri vilje,
-og at de anerkjenner hverandres like rett til skilsmisse, jf. lovens § 7 bokstav l. Dersom en av ektefellene er under 18 år, utstedes ikke prøvingsattest.
-Ekteskap mellom nære slektninger i rett oppeller nedstigende linje eller mellom søsken er forbudt, jf. lovens § 3 første ledd. Forbudet gjelder
-også halvsøsken. For adoptivbarn gjelder forbudet overfor både den opprinnelige slekten, adoptivforeldrene og deres slekt, jf. lovens § 3 andre
-ledd. Det er også forbud mot ekteskap når tidligere ekteskap eller registrert partnerskap ikke er
-oppøst (bigami), jf. lovens § 4. Det er ikke noe forbud mot ekteskap mellom søskenbarn eller andre
-slektninger enn dem som er direkte nevnt i loven.
-Avtaler som foreldre eller andre gjør om ekteskap på vegne av barnet er ikke bindende, jf. barnelova § 30 a. Selv om dette prinsippet allerede
-fulgte av norsk rett før lovfestingen, mente departementet at en lovfesting kunne være et virkemiddel i arbeidet med å opplyse miljøer der det forekommer at foreldre avtaler ekteskap for sine mindreårige barn.5
-
-Lov 4. juli 1991 nr. 47 om ekteskap (ekteskapsloven) regulerer vilkårene for å inngå og oppløse
-ekteskap. Ekteskapsloven bygger på et grunnleggende prinsipp om at ekteskap skal inngås av
-egen fri vilje og med eget samtykke, jf. lovens
-§ 1 b. Tidligere var det mulig for personer mellom
-16 og 18 år å inngå ekteskap etter samtykke fra
-dem eller den som hadde foreldreansvaret og
-etter tillatelse fra statsforvalteren. Denne mulig-
-
-Anerkjennelse av utenlandsk ekteskap
-
-2
-
-4
-
-3
-
-FNs kvinnediskrimineringskomité og FNs barnekomité
-2019, Joint general recommendation.
-Europarådets parlamentarikerforsamling 2023: punkt 2 til
-6.
-
-Hovedregelen er at et utenlandsk ekteskap anerkjennes i Norge dersom ekteskapet er gyldig inngått i vigselslandet.6 Det utenlandske ekteskapet
-anerkjennes imidlertid ikke hvis «dette åpenbart
-ville virke støtende på norsk rettsorden (ordre
-public)», jf. ekteskapsloven § 18 a første ledd siste
-punktum. Dette vil være tilfellet dersom den ene
-ektefellen er langt under alderskravet etter norsk
-
-5
-6
-
-Lov 15. juni 2018 nr. 31 om endringer i ekteskapsloven
-(absolutt 18-årsgrense for å inngå ekteskap i Norge).
-Ot.prp. nr. 103 (2002–2003) punkt 7.4.
-Ekteskapsloven § 18 a første ledd første punktum.
-
-[Side 231]
-
-NOU 2024: 13
-Lov og frihet
-
-229
-
-Kapittel 16
-
-rett og ekteskapet framstår som et tvangsekteskap.7
-Det utenlandske ekteskapet anerkjennes heller ikke dersom minst en av partene var norsk
-statsborger eller fast bosatt i Norge på vigselstidspunktet og ekteskapet a) er inngått uten at begge
-parter var til stede under vigselen, b) en av partene var under 18 år, eller c) en av partene allerede var gift, jf. lovens § 18 a andre ledd bokstav a,
-b og c. Statsforvalteren i Oslo og Viken kan likevel anerkjenne ekteskapet etter begjæring fra
-begge parter hvis «sterke grunner» taler for det,
-jf. ekteskapsloven § 18 tredje ledd. Barne-, ungdoms- og familiedirektoratet (Bufdir) er klageinstans ved avslag.
-Ekteskapslovens bestemmelser om unntak fra
-anerkjennelse av utenlandske ekteskap gjelder i
-dag bare tilfeller der minst en av partene var
-norsk borger eller fast bosatt i Norge på vigselstidspunktet (personer med tilknytning til Norge).
-Det er vedtatt endringer om anerkjennelse av
-ekteskap mellom personer uten tilknytning til
-Norge, men disse er foreløpig ikke trådt i kraft.8
-Etter de nye bestemmelsene vil som hovedregel
-barneekteskap mellom personer som verken var
-norske statsborgere eller fast bosatt i Norge på
-vigselstidspunktet ikke bli anerkjent. Unntakene
-for å anerkjenne slike ekteskap er snevre, jf. ny
-§ 18 c første ledd. Forarbeidene inneholder en
-grundig redegjørelse for de internasjonale forpliktelsene som er aktuelle ved anerkjennelse av ekteskap med en mindreårig.9
-
-Når ektefellen er blitt «fri for tvangen», vurderes konkret. I forarbeidene til bestemmelsen er
-det vist til at en ektefelle kan ha blitt fri for tvangen ved fysisk atskillelse fra den eller dem som
-har utsatt vedkommende for press, men tvangen
-kan også vedvare selv etter fysisk atskillelse.12
-Hver av ektefellene har adgang til å reise sak
-om ekteskapets ugyldighet eller om skilsmisse
-uten forutgående separasjon, uavhengig av hvem
-som har utøvet tvangen. For at en utenlandsk
-ektefelle skal ha rett til fortsatt oppholdstillatelse
-etter utlendingsloven § 53 tredje ledd i tilfeller der
-ekteskapet er kjent ugyldig, gjelder det imidlertid
-et krav om at vedkommende ikke har utøvd eller
-medvirket til tvangen.13
-Grensene for hva som utgjør «rettstridig
-atferd», er ikke definert i lovproposisjonen, men
-det er vist til Ot.prp. nr. 51 (2002–2003) om lov om
-endringar i straffelova mv. (styrka innsats mot
-tvangsekteskap mv.):
-
-Virkninger av tvangsekteskap og barneekteskap
-
-Brudd på vilkåret om at begge ektefeller skal
-være minst 18 år, innebærer ikke at ekteskapet er
-ugyldig. Begrunnelsen for dette er at ugyldighet
-kan ha inngripende virkning, og at det kan tenkes
-situasjoner der en ugyldighetsvirkning kan framstå som urimelig. I stedet for ugyldighetsvirkning
-kan hver av ektefellene etter ekteskapsloven § 24
-første ledd kreve ekteskapet oppløst. Dersom
-ingen av ektefellene reiser sak, skal statsforvalteren reise sak for å få ekteskapet oppløst, med mindre sterke grunner taler mot det, for eksempel
-hensynet til felles barn og til partene selv.15 Hvorvidt ekteskap som er inngått med en mindreårig
-burde føre til ugyldighet, er nylig vurdert av
-Barne- og familiedepartementet, som også gjorde
-
-Hver av ektefellene kan reise søksmål om å få et
-ekteskap kjent ugyldig eller oppløst uten forutgående separasjonstid, dersom vedkommende er
-blitt tvunget til å inngå ekteskapet «ved rettsstridig atferd», jf. ekteskapsloven § 16 tredje ledd og
-§ 23 tredje ledd. Søksmålet må være reist innen
-ett år etter at ektefellen er blitt fri for tvangen, og
-senest fem år etter ekteskapets inngåelse.10 Ettårsfristen var tidligere seks måneder, men ble
-utvidet i 2021 for å gi personer som er utsatt for
-tvangsekteskap bedre tid til å reise sak.11
-7
-
-Se for eksempel sak HR-2021-1345-A.
-Lov 11. juni 2021 nr. 63 om endringer i ekteskapsloven
-(ekteskap inngått med mindreårig, etter utenlandsk rett
-mv.).
-9
-Prop. 135 L (2020–2021) punkt 5.2.2 og 5.5.1.
-10 Ekteskapsloven §§ 16 fjerde ledd og 23 tredje ledd siste
-punktum.
-11 Prop. 135 L (2020–2021) merknader til § 16.
-8
-
-Ein føresetnad for at eit arrangert ekteskap
-skal vere lovleg, er at det er inngått frivillig. Om
-dette grunnleggjande vilkåret er oppfylt, er det
-i utgangspunktet ikkje noko i vegen rettsleg for
-at ekteskapet kjem i stand på bakgrunn av ei
-avtale mellom familiane deira. Avgjerande blir
-om det er reelt at ekteskapet er inngått frivillig,
-eller om det kjem av eit press, og om dette presset i tilfelle er så utilbørleg at det må seiast å
-vere rettsstridig og straffbart. Dei nærare
-grensene for det straffbare må fastleggjast
-gjennom rettspraksis.14
-
-12
-
-Ibid.
-Se kapittel 17.
-14 Ot.prp. nr. 103 (2002–2003) punkt 5.5, jf. Ot.prp. nr. 51
-(2002–2003) punkt 3.1.1.
-15 Prop. 49 L (2017–2018) merknader til § 24.
-13
-
-[Side 232]
-
-230
-
-Kapittel 16
-
-NOU 2024: 13
-Lov og frihet
-
-en grundig gjennomgang av de internasjonale forpliktelsene, særlig forholdet til FNs kvinnekonvensjonen og barnekonvensjonen, jf. Prop. 135 L
-(2020–2021).
-
-16.2.3 Tiltak i trossamfunnsloven
-Registrerte tros- og livssynssamfunn kan etter
-søknad tildeles vigselsrett, jf. trossamfunnsloven
-§ 9.16 Vigsleren skal følge ekteskapslovens regler
-om inngåelse og oppløsning av ekteskap, se foregående punkt. Forsømmer vigsleren pliktene
-etter ekteskapslovgivningen, kan statsforvalteren
-frata vigsleren vigselsretten etter nærmere vilkår
-fastsatt i forskrift om vigselsrett i tros- og livssynssamfunn § 2.
-Et tros- og livssynssamfunn kan bli nektet tilskudd hvis samfunnet eller enkeltpersoner som
-opptrer på vegne av samfunnet, «utøver vold eller
-tvang, fremsetter trusler, krenker barns rettigheter, bryter lovbestemte diskrimineringsforbud
-eller på andre måter alvorlig krenker andres rettigheter og friheter», jf. trossamfunnsloven § 6 første ledd første punktum.
-Trossamfunnsloven § 6 første ledd omfatter
-straffebud nevnt i straffeloven kapittel 25 om
-voldslovbrudd mv. og kapittel 24 om vern av den
-personlige frihet og fred, særlig §§ 251 til 253 om
-tvang og §§ 263 til 264 om trusler.17 Bestemmelsen dekker også ulike krenkelser av barns rettigheter, som staten er forpliktet til å beskytte gjennom barnekonvensjonen.18 I forarbeidene nevnes
-for eksempel negativ sosial kontroll som retter
-seg mot barn, psykisk vold, tvangsekteskap,
-kjønnslemlestelse eller æresvold.19 Andre forhold
-kan være utnyttelse av personer som er i en sårbar eller utsatt posisjon, manglende respekt for
-skilsmisse og aktive bidrag til «haltende ekteskap».20 Med «haltende ekteskap» menes situasjoner der et par er sivilrettslig skilt, men fremdeles anses gift etter religiøse regler.21 Dette omtales i denne utredningen som «ekteskapelig fangenskap».
-Tilskudd kan også nektes eller avkortes dersom tros- og livssynssamfunnet oppfordrer eller
-gir støtte til disse krenkelsene, jf. trossamfunnsloven § 6 første ledd andre punktum. Dette gjelder
-16
-
-Lov 24. april 2020 nr. 31 om tros- og livssynssamfunn (trossamfunnsloven).
-17
-Prop. 130 L (2018–2019) merknader til § 6.
-18 Ibid.
-19 Ibid.
-20 Ibid.
-21
-Ibid.
-
-eksempelvis et tros- og livssynssamfunn som
-fremmer barneekteskap ved å formidle kontakter
-i utlandet.22
-
-16.3 Andre lands rett23
-16.3.1 Danmark
-I Danmark må begge partene være minst 18 år for
-å inngå ekteskap, jf. lov om ægteskabs indgåelse
-og opløsning § 2 (ægteskabsloven).24 Ekteskap
-mellom slektninger i rett oppstigende eller nedstigende linje eller mellom søsken er forbudt, jf.
-lovens § 6. Det samme gjelder ekteskap mellom
-adoptivbarn og adoptivforeldre jf. lovens § 8. Søskenbarnekteskap er ikke forbudt etter dansk rett.
-Det må foretas prøving etter lovens kapittel 2
-før et ekteskap kan inngås. Prøvingen foretas av
-kommunalbestyrelsens formann, jf. lovens § 13.
-Ekteskapet kan inngås borgerlig hos en kommune, kirkelig i folkekirken, eller ved et anerkjent
-trossamfunn, jf. §§ 15 og 16.
-Ekteskap som er inngått i utlandet, anerkjennes i Danmark hvis det er gyldig inngått i vigselslandet, jf. lovens § 22 b. Dette gjelder likevel ikke
-hvis ekteskapet er inngått uten at begge parter var
-til stede samtidig, eller at ekteskapet er proforma,
-hvis en av partene var under 18 år, eller hvis ekteskapet strider mot «grundlæggende danske retsprincipper», jf. lovens § 22 b stk. 2. Ekteskapet
-kan likevel anerkjennes hvis det foreligger «tvingende grunde» og ektefellene stilles i en urimelig
-situasjon hvis ekteskapet ikke blir anerkjent, jf.
-lovens § 22 b stk. 3.
-Ekteskap kan omstøtes dersom det er inngått
-med tvang, jf. lovens § 24 stk. 1 nr. 2. En part må
-reise sak om å omstøte ekteskapet innen seks
-måneder etter at tvangen er opphørt, og senest
-innen tre år etter at ekteskapet er inngått. Omstøtelsen får samme rettsvirkninger som skilsmisse,
-jf. lovens § 25.
-16.3.2 Sverige
-Det gjelder en 18-årsgrense for å inngå ekteskap i
-Sverige, jf. äktenskapsbalken (1987:230) 2 kap. 1
-§. Det er i tillegg et krav om at begge ektefellene
-samtykker til ekteskapet, jf. 4 kap. 2 §. Ekteskap
-mellom personer som er i slekt med hverandre i
-oppstigende eller nedstigende linje eller som er
-22
-
-Ibid.
-Se kapittel 1 om utvalg av andre lands rett som presenteres
-i utredningen.
-24
-LBK nr. 1080 af 14/08/2023.
-23
-
-[Side 233]
-
-NOU 2024: 13
-Lov og frihet
-
-helsøsken er forbudt, jf. 2 kap. 3 §. Forbudet gjelder også for adoptivbarn. Det er ikke forbudt for
-søskenbarn å inngå ekteskap i Sverige. Regjeringen har oppnevnt et utvalg som skal vurdere om
-det bør innføres et forbud mot ekteskap mellom
-søskenbarn og andre nære slektninger. Formålet
-er å motvirke æreskriminalitet og ekteskap som
-inngås som følge av press eller annen påvirkning.
-Utvalget leverer sin rapport 1. oktober 2024.
-Før det inngås ekteskap, må Skatteverket
-foreta en prøving av om det foreligger ekteskapshindringer, jf. 3 kap. 1 §. Ekteskapet kan inngås
-borgerlig eller religiøst ved et anerkjent trossamfunn med vigselsrett, jf. 4. kap. 3 §.
-Når et ekteskap er inngått etter utenlandsk
-rett, er hovedregelen at ekteskapet anerkjennes i
-Sverige hvis ekteskapet er gyldig inngått i vigselslandet, jf. 1 kap. 7 § i lov (1904:26) om vissa internationella rättsförhållanden rörande äktenskap och
-förmynderskap. I 1 kap. 8 a er det gjort en rekke
-unntak fra dette utgangspunktet. Ekteskapet anerkjennes ikke dersom det på vigselstidspunktet
-ville ha vært hinder for ekteskapet etter svensk
-rett, eller hvis det er sannsynlig at ekteskapet ble
-inngått under tvang, eller dersom partene ikke var
-til stede ved ekteskapsinngåelsen og minst en av
-dem var svensk statsborger eller var bosatt i Sverige på vigselstidspunktet, jf. 1 kap. 8 a § stk. 1 nr.
-1, 2 og 3. Ekteskap som faller inn innenfor 1 stk. i
-8 a §, kan likevel anerkjennes hvis begge parter er
-over 18 år og det foreligger særlige grunner, jf. 1
-kap. 8 a § stk. 2.
-En ektefelle har rett til skilsmisse uten refleksjonsperiode hvis vedkommende sannsynliggjør
-at hen ble tvunget til å gifte seg, eller hvis hen inngikk ekteskapet før fylte 18 år, jf. 5 kap. 5 §. Sak
-om skilsmisse for å oppløse tvangsekteskap eller
-barneekteskap, kan også reises av påtalemyndigheten, jf. 5 kap. 5 §. Sverige har ikke spesielle
-regler som gjelder når en ektefelle skiller seg
-etter svensk lov, men nektes skilsmisse av sitt
-trossamfunn.
-
-16.3.3 Nederland
-Etter nederlandsk sivilstatusloven må begge parter være minst 18 år for å inngå ekteskap, jf. artikkel 1: 31 nr. 1.25 Et ekteskap med en mindreårig
-kan likevel inngås dersom begge parter er minst
-16 år og kvinnen framlegger legeerklæring på at
-hun er gravid eller at hun allerede har født et
-barn, jf. artikkel 1: 31 andre ledd. Det er bare sivilrettslige ekteskap som har sivilrettslige virknin25
-
-Burgerlijk Wetboek Boek 1 (overheid.nl).
-
-231
-
-Kapittel 16
-
-ger, jf. artikkel 1: 30. Etter artikkel 1: 68 første
-ledd er det forbudt å gjennomføre en religiøs vigsel før ekteskapet er registrert sivilrettslig. Begge
-partene må legge fram en erklæring om at ekteskapsinngåelsen er frivillig for å kunne gifte seg
-med søskenbarn.
-Ekteskapet kan oppløses ved at det begjæres
-skilsmisse, det tas ut separasjon eller ekteskapet
-annulleres. Det er bare nederlandske domstoler
-som har rettslig kompetanse til å oppløse eller
-annullere et ekteskap, jf. artikkel 10: 44. Ekteskapet kan annulleres hvis aldersvilkåret ikke er
-oppfylt, med mindre parten som var mindreårig
-på vigselstidspunktet er blitt myndig, eller kvinnen er blitt gravid før kravet om ugyldighet ble
-framsatt, jf. artikkel 1: 74. Ekteskapet kan også
-annulleres hvis det er inngått under tvang, jf.
-artikkel 1: 71 første ledd. En ektefelles rett til å
-kreve annullering av ekteskapet på grunn av
-tvang, faller bort når ektefellene har bodd
-sammen i tre år uten å bli tvunget til å forbli i ekteskapet, jf. artikkel 1: 71 tredje ledd.
-Den 9. mars 2023 ble det gjort endringer i nederlandsk tvistelov og ekteskapslov for å hindre
-ekteskapelig fangenskap.26 I ekteskapsloven
-artikkel 1: 68 er det tilføyd et nytt andre ledd som
-gir hjemmel til å pålegge en part i et religiøst ekteskap plikt til å samarbeide for å oppløse ekteskapet dersom den andre parten ber om dette,
-med mindre det er rimelig ut fra viktige interesser
-at dette ikke kan kreves. I tvisteloven artikkel 827
-ble det innført en ny bokstav e som gir dommeren
-i en skilsmissesak hjemmel til å pålegge partene å
-samarbeide om å oppløse det religiøse ekteskapet.
-Brudd på plikten til å samarbeide kan sanksjoneres med dagbøter. De nye lovendringene har gjort
-det mulig for domstolene å behandle krav om religiøs skilsmisse parallelt med krav om sivilrettslig
-skilsmisse. Før lovendringen trådte i kraft, måtte
-parten som ønsket å oppløse det religiøse ekteskapet, be om dette gjennom en egen prosedyre.
-
-16.4 Behov og problemstillinger
-Som omtalt i kapittel 3 nektes noen kvinner religiøs eller kulturell skilsmisse. En kvinne kan være
-lovlig skilt etter norsk rett, men blir nektet religiøs eller kulturell skilsmisse fordi mannen ikke
-26
-
-Wet van 9 maart 2023 tot wijziging van het Wetboek van
-Burgerlijke Rechtsvordering, het Burgerlijk Wetboek en
-enige andere wetten (tegengaan huwelijkse gevangenschap en enige andere onderwerpen). [Lov av 9. mars 2023
-om endring av tvisteloven, silvilstatusloven og visse andre
-lover (bekjempelse av ekteskapelig fangenskap mv.)].
-
-[Side 234]
-
-232
-
-Kapittel 16
-
-NOU 2024: 13
-Lov og frihet
-
-samtykker. Dette rammer både kvinner som har
-inngått et sivilrettslig ekteskap parallelt med et
-kulturelt eller religiøst ekteskap, og kvinner som
-bare har inngått ekteskapet religiøst eller kulturelt. Konsekvensen av å ikke få gjennomført en
-religiøs eller kulturell skilsmisse kan være at både
-kvinnen og omgivelsene oppfatter henne som fortsatt gift, noe som kan legge begrensninger på
-muligheten til å innlede nye forhold eller ekteskap. Gjennom å nekte kvinnen religiøs eller kulturell skilsmisse, opprettholder ektefellen kontroll
-over henne. Enkelte kvinner som forsøker å
-avslutte ekteskapet, risikerer å bli utstøtt fra sitt
-nærmeste miljø og å bli utsatt for alvorlige overgrep i form av æresmotivert vold, særlig hvis de
-innleder et nytt forhold eller ønsker å gifte seg på
-nytt.
-Forskningsrapporter og studier viser at kvinner overlates til seg selv for å finne løsninger og
-for å forhandle fram sin rett til religiøs eller kulturell skilsmisse.27 Under slike prosesser kan kvinnene oppleve ulike grader av negativ sosial kontroll og stigma i nærmiljøet sitt, mens i mer alvorlige tilfeller må kvinnene gi avkall på formelle rettigheter, slik som verdier fra skifteoppgjøret eller
-samværsrettigheter med barn, for å kunne få en
-religiøs skilsmisse. Noen opplever å bli lurt til
-opprinnelseslandet der de blir fratatt reisedokumenter, eller at de nektes skilsmisse mens mannen får en sivilrettslig skilsmisse og inngår et nytt
-ekteskap. Noen kvinner opplever at mannen forventer at kvinnen skal stille seg seksuelt til rådighet fordi de fortsatt er religiøst gift. Enkelte kvinner opplever å måtte «kjøpe seg ut» av ekteskapet
-ved å betale tilbake medgift (mahr), noe som kan
-være en utfordring når kvinnen ikke har egne
-økonomiske midler. Det er behov for tiltak som
-kan gjøre det enklere for kvinner å oppnå religiøs
-og kulturell skilsmisse når mannen ikke samarbeider.
-Kripos, Oslo politidistrikt v/RISK og flere
-andre aktører har gitt innspill til utvalget om at
-søskenbarnekteskap forbindes med høyere risiko
-for tvangsekteskap og æresmotivert vold, og etterlyser et forbud mot søskenbarnekteskap. Det er
-behov for tiltak for å motvirke ekteskapspress,
-tvangsekteskap og ufrivillige utenlandsopphold i
-denne gruppen.
-Søksmålsfristen for å reise sak om ugyldighet
-av tvangsekteskap eller om direkte skilsmisse,
-kan slå uheldig ut for unge utsatte. En 18-åring
-som tvinges til ekteskap, må i ung alder ta stilling
-til om hen vil gå til søksmål mot ektefellen. Det
-27
-
-kan virke lite rimelig at en ektefelle ikke kan
-kreve ugyldighetsdom hvis det er mer enn fem år
-siden ekteskapet ble inngått, særlig i de tilfeller
-der det er en pågående mishandling i nære relasjoner som hindrer ektefellen i å gå til sak. Fristene ser også ut til å gjelde der ugyldighetskravet
-fremmes i forbindelse med en straffesak om
-tvangsekteskap, se henvisningen i straffeprosessloven § 3 første ledd nr. 7. Foreldelsesfristen
-for straff for inngåelse av tvangsekteskap er imidlertid ti år (straffeloven § 87 første ledd bokstav
-c). Det er grunn til å vurdere om den absolutte
-fristen på fem år for å reise sak om tvangsekteskapets ugyldighet eller oppløsning etter ekteskapsloven § 16 fjerde ledd og § 23 tredje ledd
-siste punktum bør utvides.28
-
-16.5 Utvalgets vurderinger og forslag
-16.5.1 Bør ekteskapsloven inneholde et
-forbud mot søskenbarnekteskap?
-Utvalget har ikke tilstrekkelig grunnlag til å foreslå innføring av et generelt forbud mot søskenbarnekteskap begrunnet i hensynet til å forebygge
-tvangsekteskap. Utvalget foreslår imidlertid
-enkelte grep i utlendingsregelverket som kan
-bidra til å synliggjøre at søskenbarnekteskap kan
-være et moment i vurderingen av om et ekteskap
-er frivillig, se kapittel 17.
-Barne- og familiedepartementet har nylig foreslått et forbud mot ekteskap med søskenbarn
-(kusine og fetter) eller mellom tante eller onkel
-og nevø eller niese, som er beslektet (heretter forkortet som søskenbarnekteskap mv.).29 Formålet
-Boks 16.2 Behov og problemstillinger:
-– Det er behov for tiltak for å motvirke
-ekteskapelige fangenskap, særlig tiltak
-som kan bidra til at begge parter gis lik
-adgang til en religiøs eller kulturell skilsmisse.
-– Det er behov for tiltak for å motvirke ekteskapspress, tvangsekteskap og ufrivillige
-utenlandsopphold i ekteskap som inngås i
-nær slekt, særlig mellom søskenbarn.
-– En 18-åring som tvinges til ekteskap, må i
-ung alder ta stilling til om hen vil gå til søksmål mot ektefellen.
-
-28
-
-Se f.eks. Wærstad 2017; Liversage og Petersen 2020.
-
-Holmboe 2024: Merknader til ekteskapsloven § 16 på Lovdata PRO, 16. februar 2024.
-
-[Side 235]
-
-NOU 2024: 13
-Lov og frihet
-
-med forslaget er å redusere helserisikoen for barn
-født av søskenbarn mv. I lovproposisjonen er det
-vist til at departementet ikke har hatt tilstrekkelig
-grunnlag for å begrunne et forbud mot søskenbarnekteskap mv. i hensynet til å motvirke tvangsekteskap og negativ sosial kontroll. Departementet
-antar likevel at forbudet vil kunne ha en positiv
-virkning for å redusere risiko for tvang.
-Det ser ut til å være en klar tendens til at de
-fleste ekteskap mellom personer i nær slekt blant
-etniske minoriteter i Europa er transnasjonale.30
-Ekteskap mellom søskenbarn eller nær slekt er
-ofte forbundet med arrangerte ekteskap. I Norge
-har det vært en nedgang i antall ekteskap i nær
-slekt, både blant dem som selv har innvandret og
-blant deres barn.31 Tjenesteapparatet erfarer
-imidlertid at søskenbarnekteskap mv. forekommer, og at slike ekteskap forbindes med høyere
-risiko for tvangsekteskap enn i andre saker.32 I
-perioden fra 2018 til 2023 avslo Utlendingsdirektoratet 61 søknader om familieinnvandring med
-begrunnelse i at ekteskapet mest sannsynlig ble
-inngått mot en eller begge partenes vilje. Av disse
-61 avslagene gjaldt 30 av dem ekteskap mellom
-søskenbarn, og 13 ekteskap mellom personer som
-er i slekt på annen måte.33 Direktoratet understreker imidlertid at det også har erfaring med familieinnvandringssaker der det er inngått frivillige
-ekteskap mellom søskenbarn.34
-Etter utvalgets vurdering kan et generelt forbud mot søskenbarnekteskap være et effektivt tiltak for å beskytte personer som risikerer
-tvangsekteskap, men forbudet kan også ramme
-frivillige ekteskap, enten de er arrangert eller
-ikke. Dersom regjeringens forslag om forbud mot
-søskenbarnekteskap mv. (begrunnet i helserisiko) ikke blir vedtatt, anbefaler utvalget at det
-innhentes mer kunnskap om sammenhengen mellom tvangsekteskap og søskenbarnekteskap med
-sikte på å vurdere om det kan være et nødvendig
-og forholdsmessig tiltak å innføre et generelt forbud mot ekteskap i nær slekt begrunnet i hensynet til å forebygge tvangsekteskap.
-
-29
-
-Prop. 99 L (2023–2024) .
-Aarset mfl. 2020: side 38-42.
-31 Ibid.
-32 Blant annet Kripos, Risk og politietterforsker ved Oslo politidistrikt.
-33 Utlendingsdirektoratets høringssvar 14. desember 2023.
-34 Utlendingsdirektoratets høringssvar 27. september 2023.
-30
-
-233
-
-Kapittel 16
-
-16.5.2 Bør det innføres tiltak for å sikre
-muligheten for religiøs og kulturell
-skilsmisse?
-Utvalget anbefaler at muligheten til å innføre tiltak
-som kan gjøre det enklere for kvinner å oppnå
-religiøs eller kulturell skilsmisse, utredes nærmere. Det bør blant annet vurderes om en ektefelle som ensidig motsetter seg en religiøs skilsmisse kan pålegges en plikt til å samarbeide om å
-oppløse ekteskapet religiøst eller kulturelt. Den
-nederlandske ordningen som er omtalt ovenfor, er
-ikke direkte overførbar til det norske rettssystemet, men kan være egnet som inspirasjonskilde.
-Norske ekteskapsregler gir kvinner og menn
-lik adgang til skilsmisse, uten å måtte oppgi en
-grunn for skilsmissen, såkalt «no-fault divorce».
-Denne rettigheten gjelder for alle kvinner i Norge,
-inkludert minoritetskvinner, såframt tilknytningskravet etter ekteskapsloven er oppfylt. Minoritetskvinner møter dermed ingen rettslige hindre for å
-oppløse ekteskapet etter norsk rett. Det er likevel
-en realitet for mange kvinner at de ikke oppnår
-religiøs eller kulturell skilsmisse og at dette skaper utfordringer og begrenser deres rett til å
-bestemme over eget liv. Både den siste tidens
-samfunnsdebatt og innspill utvalget har mottatt
-fra ulike aktører og organisasjoner, har tatt opp
-utfordringene disse kvinnene møter. Spørsmålet
-er om det finnes tiltak som kan sikre at kvinnene
-faktisk får likestilte rettigheter med mannen i
-saker om religiøse eller kulturelle skilsmisser.
-Problemstilling er ikke ny, og det ble forsøkt å
-finne løsninger på utfordringen allerede tidlig på
-2000-tallet. I 2003 fremmet stortingsrepresentanter fra seks partier et privat lovforslag knyttet til
-tematikken som senere ble fulgt opp med anmodningsvedtak fra Stortinget.35 Forslaget var firedelt, hvorav de to første delforslagene ble fulgt
-opp i ekteskapsloven § 7 første ledd bokstav l (kravet om at hver av brudefolkene hver for seg skal
-erklære på ære og samvittighet at ekteskapet blir
-inngått av egen fri vilje, og at de anerkjenner hverandres like rett til skilsmisse). I det fjerde delforslaget ble regjeringen bedt om å endre utlendingsforskriften slik at det kan stilles som vilkår for
-familiegjenforening med ektefelle at det kan dokumenteres at ekteskapskontrakten gir ektefellene
-lik rett til skilsmisse.
-35
-
-Dokument nr. 8: 122 (2002–2003) ble fremmet av stortingsrepresentantene Signe Øye (AP), Karin Andersen (SV),
-Magnhild Meltveit Kleppa (Sp), Kari Lise Holmberg (H) og
-Per Sandberg (Frp). Anmodningsvedtak nr. 611 og nr. 612
-av 19 juni 2003. Anmodningsvedtak nr. 517 og nr. 611 av 17.
-juni 2004.
-
-[Side 236]
-
-234
-
-Kapittel 16
-
-NOU 2024: 13
-Lov og frihet
-
-Siden forslaget innebar en begrensning av retten til familiegjenforening etter gjeldende rett, og
-hadde betydning for flere prinsipielle, praktiske
-og juridiske problemstillinger, ble det innhentet
-uttalelser fra Justisdepartementets lovavdeling og
-henholdsvis Institutt for kulturstudier og Norsk
-senter for menneskerettigheter ved Universitetet i
-Oslo. Også relevante norske utenriksstasjoner ble
-bedt om å uttale seg, samt anerkjente jurister i
-Pakistan. De videre prosessene og vurderingene
-som ble gjort for å følge opp forslagene er beskrevet av Eli Ferrari de Carli i rapporten Religion, juss
-og rettigheter: Om skilsmisse, polygami og shari’aråd fra 2008.36 Kort oppsummert viste utredningene at:
-– forslaget kan bidra til indirekte diskriminering,
-– norske myndigheter ikke har en positiv menneskerettslig forpliktelse til å innføre tiltak i utlendingsloven for å sikre lik rett til skilsmisse gjennom forskriftsendringer som foreslått i anmodningsvedtakene, verken for å sikre retten til privatliv eller like rettigheter i ekteskapet,
-– Norge kan ikke påvirke andre lands privatrettslige og familierettslige forhold,
-– å innføre krav om at ekteskapsattesten gir kvinner lik rett til skilsmisse kan gi en rekke uheldige konsekvenser. Blant annet kan det føre til
-at utlendinger som ikke tilkjennes lik rett til
-skilsmisse i henhold til hjemlandets lovgivning, eller som i henhold til hjemlandets lovgivning ikke kan gis lik rett til skilsmisse, faktisk
-ikke kan få oppholdstillatelse på grunnlag av
-familiegjenforening med ektefelle i Norge.
-
-Ordningen har satt domstolene i stand til å
-behandle krav om religiøs skilsmisse parallelt
-med krav om sivilrettslig skilsmisse. Det bør
-undersøkes om en lignende ordning kan innføres
-i norsk rett, for eksempel i saker der det er reist
-søksmål om å få kjent et tvangsekteskap ugyldig
-etter ekteskapsloven § 16 tredje ledd, eller om å
-oppløse ekteskapet uten forutgående separasjonstid etter lovens § 23 tredje ledd. Det kan også vurderes om det kan innføres konsekvenser av manglende samarbeid gjennom utlendingslovgivningen. Det bør i så fall undersøkes om den nederlandske ordningen har hatt positive virkninger og
-om ordningen har hatt utilsiktede konsekvenser.
-
-16.5.3 Bør søksmålsfristen i ekteskapsloven
-§ 16 endres?
-Utvalget foreslår at søksmålsfristen i ekteskapsloven § 16 fjerde ledd endres slik at fristen blir i
-samsvar med den strafferettslige foreldelsesfristen. Professor Morten Holmboe skriver følgende
-om problemstillingen og behovet for endring:38
-Etter ekteskapsloven § 1 b skal ekteskap inngås av egen fri vilje og med eget samtykke. Det
-er fastsatt i § 16 tredje ledd at en ektefelle som
-er blitt tvunget til å inngå ekteskapet ved rettsstridig atferd, kan reise søksmål for å få kjent
-ekteskapet ugyldig, uansett hvem som har
-utøvd tvangen. På samme vilkår kan den krenkede ektefellen kreve skilsmisse, jf. ekteskapsloven § 23 tredje ledd. I begge tilfeller gjelder
-det en søksmålsfrist på ett år fra ektefellen er
-blitt fri fra tvangen, og søksmål kan ikke i noe
-tilfelle reises senere enn fem år etter ekteskapets inngåelse (ekteskapsloven § 16 fjerde
-ledd jf. § 23 tredje ledd tredje punktum).
-I forarbeidene ble det lagt til grunn at femårsfristen var «den same som foreldingsfristen
-for straffeansvar i samband med tilsvarande
-lovbrot» (Ot.prp. nr. 44 (1993–94) punkt IV.3;
-se også spesialmerknaden til § 16 i samme proposisjon).
-Etter straffeprosessloven § 3 første ledd nr.
-7 kan et slikt krav tas med i straffesak om
-tvangsekteskap etter straffeloven § 253. Det er
-uttrykkelig vist til ekteskapsloven § 16 fjerde
-ledd, som fastsetter frister for søksmål.
-Forutsetningen om at femårsfristen er samsvarende med den strafferettslige foreldelsesfristen, var verken riktig da loven ble gitt, eller
-
-Utvalget har ikke hatt anledning til å gå i dybden
-av vurderingene som ble gjort, men har notert
-seg at spørsmålet har kommet opp på nytt gjennom skriftlig spørsmål fra Abid Raja (V) til justisog beredskapsministeren.37 I sitt svar stiller statsråden seg ikke avvisende til forslaget, men understreker at det er nødvendig å utrede mulige konsekvenser nærmere, blant annet må en eventuell
-begrensning i retten til familieinnvandring ikke
-komme i konflikt med den retten til et familieliv
-som følger av internasjonale konvensjoner.
-Utvalget mener at også andre tiltak er nærliggende å vurdere. Nederland har innført en ordning som gir dommeren i en skilsmissesak hjemmel til å pålegge partene å samarbeide om å oppløse det religiøse ekteskapet. En part som ikke
-samarbeider kan sanksjoneres med dagbøter.
-36
-37
-
-Ferrari de Carli 2008.
-Se Dokument nr. 15: 1187 (2023–2024) Skriftlig spørsmål
-fra Abid Raja (V) til justis- og beredskapsministeren.
-
-38
-
-Holmboe 2024: Merknader til ekteskapsloven § 16 på Lovdata PRO, 16. februar 2024.
-
-[Side 237]
-
-NOU 2024: 13
-Lov og frihet
-
-nå. Da bestemmelsene i ekteskapsloven § 16
-tredje og fjerde ledd ble gitt ved lov 24. juni
-1994 nr. 24, var den ordinære strafferammen
-etter straffeloven 1902 § 222 bot eller fengsel
-inntil tre år. I seg selv ville en slik strafferamme
-medføre at foreldelsesfristen var fem år, se
-straffeloven 1902 § 67 første ledd. Men under
-særdeles skjerpende omstendigheter økte
-strafferammen til fengsel inntil seks år (straffeloven 1902 § 222 første ledd andre punktum).
-Det var da den forhøyede strafferammen som
-skulle anvendes ved fastsettelsen av foreldelsesfristen.
-Straffeloven 2005 § 253 om tvangsekteskap
-har strafferamme på seks års fengsel, og det er
-dermed også etter gjeldende rett en tiårs foreldelsesfrist ved tvangsekteskap (straffeloven
-§ 86 første ledd bokstav c).
-Det er neppe upraktisk at et ekteskap inngått ved tvang fører til et samliv der den krenkede ektefellen har liten frihet, og i en del tilfeller utsettes for en pågående mishandling i
-nære relasjoner. Under enhver omstendighet
-kan det altså reises straffesaker der foreldelsesfristen avbrytes mer enn fem år etter at
-ekteskapet ble inngått. Den krenkede ektefellen vil i slike tilfeller kunne bli møtt med at fris-
-
-235
-
-Kapittel 16
-
-ten for å kunne kreve ekteskapet kjent ugyldig,
-er utløpt selv om straffesaken ender med straffedom for at ekteskapet ble inngått ved tvang.
-Tanken i forarbeidene om at søksmålsfristen i ekteskapsloven § 16 fjerde ledd skal være
-(minst) like lang som den strafferettslige foreldelsesfristen, er god. Men departementet bygget altså i 1994 på en feilaktig tolking av
-reglene.
-Som et ledd i arbeidet mot tvangsekteskap
-kan det være naturlig å vurdere å endre regelen i ekteskapsloven § 16 fjerde ledd slik at fristen blir i samsvar med den strafferettslige foreldelsesfristen. Der det er den andre ektefellen
-som er den skyldige i tvangen, kan det også
-være naturlig å vurdere å endre loven slik at
-den krenkede ektefellens krav om ugyldighet
-eller skilsmisse kan tas med i straffesaken også
-etter utløpet av fristen.
-Utvalget slutter seg til Holmboes problemforståelse, vurdering og begrunnelse, og foreslår at
-søksmålsfristen i ekteskapsloven § 16 fjerde ledd
-endres fra fem til ti år. Endringen vil få som konsekvens at tilsvarende frist vil gjelde i saker om
-skilsmisse på grunn av tvangsekteskap etter ekteskapsloven § 23 tredje ledd.
-
-[Side 238]
-
-236
-
-NOU 2024: 13
-
-Kapittel 17
-
-Lov og frihet
-
-Kapittel 17
-
-Tiltak mot tvangsekteskap i utlendingsloven
-17.1 Innledning
-I dette kapittelet vurderer utvalget om det bør gjøres endringer i utlendingslovens regler om
-tvangsekteskap og barneekteskap. Spørsmålet følger av mandatets første punkt, som ber utvalget
-vurdere hvorvidt det gjeldende regelverket om
-blant annet tvangsekteskap gir et tilstrekkelig
-godt rettsvern for utsatte, eller om det er behov
-for endringer eller ytterligere regulering.
-Stadig flere mennesker finner kjærlighet på
-tvers av landegrenser og inngår frivillige transnasjonale ekteskap. Transnasjonale ekteskap kan
-imidlertid også ha blitt til under press eller tvang.
-Utlendingsmyndighetene kan være i posisjon til å
-avdekke ufrivillige ekteskap, blant annet i saker
-om familieinnvandring. Både utlendingen (søkeren) og ektefellen som bor i Norge (referansepersonen), kan ha vært presset til å inngå ekteskapet
-mot sin vilje. Motivet kan for eksempel være foreldrenes ønske om å styrke båndene til slekten i
-utlandet, å kontrollere unges seksualitet eller å
-sikre et oppholdsgrunnlag for nære slektninger. I
-noen tilfeller kan tvangsekteskapet være motivert
-av ære, der ekteskapet blir sett på som en løsning
-for å bevare eller gjenopprette familiens ære.
-Utlendingsloven inneholder flere bestemmelser som har til hensikt å avdekke og forebygge
-
-tvangsekteskap, og som skal forhindre at det gis
-oppholdstillatelse for familieinnvandring i saker
-hvor ekteskapet er inngått mot en av partenes
-vilje (ufrivillige ekteskap). Disse bestemmelsene
-omhandles nedenfor under punktet om gjeldende
-rett.
-Utlendingsloven inneholder også andre
-bestemmelser som kan være aktuelle i saker om
-tvangsekteskap eller barneekteskap. Blant annet
-kan en utlending bli utvist etter utlendingsloven
-§§ 66 flg. hvis hen er ilagt straff for brudd på straffeloven § 253 om tvangsekteskap og § 262 andre
-ledd om barneekteskap. Videre kan en utlending
-som risikerer å bli utsatt for tvangsekteskap ved
-retur til hjemlandet etter omstendighetene fylle
-vilkårene for beskyttelse (asyl) etter utlendingsloven §§ 28 flg. Utvalget behandler ikke disse
-reglene nærmere, da dette ligger på siden av
-utvalgets mandat.
-
-17.2 Gjeldende rett
-17.2.1 Menneskerettslige forpliktelser
-Utlendingsloven gjelder med de begrensningene
-som følger av Grunnloven, og skal anvendes i
-samsvar med de internasjonale reglene som
-Norge er bundet av når disse har til formål å
-
-Boks 17.1 Kort om begrepsbruk
-Ekteskapsloven, straffeloven og utlendingsloven
-graden av frivillighet, ikke middelet som ble
-brukt for å presse ektefellene inn i ekteskapet.
-definerer tvangsekteskap ulikt. Etter straffeloven og ekteskapsloven er tvangsekteskap å
-Bestemmelsen ble innført for å motvirke at det
-gis oppholdstillatelse i Norge basert på ektetvinge noen inn i ekteskap gjennom vold, frihetsberøvelse, annen straffbar eller urettmessig
-skap som er inngått etter tvang eller alvorlig
-atferd eller utilbørlig press. Utlendingsloven
-press. Terskelen for når et ekteskap anses å
-bruker ikke begrepet tvangsekteskap, men har
-være inngått mot en parts vilje etter utlendingsregler om unntak fra familieinnvandring dersom
-lovens § 51 andre ledd, er dermed lavere enn
-terskelen for tvangsekteskap i straffeloven og
-det er sannsynlig at ekteskapet er inngått «mot
-en av partenes vilje». Vurderingen handler om
-ekteskapsloven.
+# Straff ved skadelige utenlandsopphold
+
+## Innledning
+
+I dette kapittelet belyser utvalget de strafferettslige delene av bokstav c i mandatet om «styrking av rettsvernet for barn og unge som er ufrivillig etterlatt i utlandet». Utvalget tolker mandatet til å omfatte barn og unge både over og under 18 år. Utvalget vurderer «hvilke straffebud som gjelder i slike saker, og om det er behov for å tydeliggjøre hjemler i straffeloven som holder foreldre ansvarlige dersom barn sendes på utenlandsopphold mot sin vilje». Videre omhandler kapittelet spørsmålet om «hvorvidt/når forberedelse til slike reiser er straffbart». På bakgrunn av disse vurderingene drøfter utvalget om det er behov for et eget straffebud som rammer skadelige utenlandsopphold.
+
+## Menneskerettslige kriminaliseringsforpliktelser
+
+Ingen menneskerettslige bestemmelser i Grunnloven eller i internasjonale konvensjoner som Norge er bundet av, stiller eksplisitt krav om at Norge kriminaliserer ufrivillige eller skadelige utenlandsopphold. Som omtalt i kapittel 5, 6 og 7 har staten etter flere menneskerettighetsbestemmelser plikt til å kriminalisere forsettlige handlinger som grovt krenker grunnlovfestede rettigheter. Barn har etter Grunnloven § 104 rett til vern om sin personlige integritet, og statens myndigheter skal sikre barnets sosiale og helsemessige trygghet. Fra denne forpliktelsen kan det likevel ikke utledes et særskilt krav om kriminalisering av skadelige utenlandsopphold i egne straffebud.
+
+Barnekonvensjonen artikkel 19 pålegger statene å treffe alle egnede tiltak for å beskytte barn mot alle former for vold og mishandling. Kriminalisering må anses som et egnet, nødvendig og proporsjonalt tiltak ved grove krenkelser av barns rettigheter. I dette kapittelet drøftes det blant annet om straffelovgivningen bør inneholde bestemmelser som kriminaliserer foreldre som sender eller etterlater barn i utlandet med stor risiko for alvorlige skadefølger.
+
+## Gjeldende rett
+
+### Straffelovens anvendelse på handlinger begått i utlandet
+
+Saker om ufrivillige eller skadelige utenlandsopphold reiser ikke sjeldent spørsmål om jurisdiksjon. For spørsmålene i mandatet om hvilke straffebud som gjelder i saker om ufrivillige utenlandsopphold, er det derfor av betydning om norsk straffelov får anvendelse på handlinger begått i utlandet eller ikke. Hovedregelen er at straffelovens virkeområde er i Norge og på norske jurisdiksjonsområder, jf. straffeloven § 4. Norsk strafferett kan likevel gjelde for handlinger begått i utlandet etter nærmere vilkår angitt i straffeloven § 5.
+
+Hovedregelen etter § 5 første ledd nr. 1 er at straffelovgivningen får anvendelse på handlinger som utføres i utlandet av en norsk statsborger eller av en person med bosted i Norge, dersom handlingene er straffbare også i landet der handlingene er begått. Bestemmelsen oppstiller altså en hovedregel om et krav om *dobbel straffbarhet*. Det kreves ikke full identitet mellom straffebudene, men handlingen må kunne bli rammet av et straffebud også i det landet den finner sted. Straffbarhetsbetingelsene på handlingsstedet må være oppfylt,[^941] og ulike unnskyldningsgrunner vil kunne utelukke straffansvar. Dette er praktisk viktig ettersom lovgivningen i enkelte land gir en ektefelle (typisk mannen) rett til å bestemme over kvinnen, og i noen land er ellers straffbare handlinger mot barn straffrie dersom de skjer som ledd i oppdragelsen eller disiplineringen av barnet.
+
+Selv om den aktuelle handlingen er straffbar i gjerningslandet, kan kravet om dobbel straffbarhet likevel vanskeliggjøre straffeforfølging i Norge. Gjerningslandets lovgivning må kunne dokumenteres, noe som kan være vanskelig dersom gjerningslandet er utenfor Europa. Etter rettspraksis stilles det strenge krav til dokumentasjonen. Ifølge Høyesterett må domstolene «på et betryggende grunnlag ha kunnet avklare at handlingen er straffbar også etter loven i landet den er foretatt».[^942] Det kan i noen tilfeller være krevende å få nødvendig dokumentasjon for hva som er straffbart, for eksempel på grunn av krig eller at landet av andre grunner mangler et velfungerende statsapparat.[^943]
+
+Unntakene fra krav om dobbel straffbarhet får dermed praktisk stor betydning for adgangen til å straffe handlinger begått i utlandet av norske statsborgere eller personer bosatt i Norge. Straffeloven § 5 første ledd nr. 2 til 13 etablerer jurisdiksjon for nærmere bestemte lovbrudd selv om vilkåret om dobbel straffbarhet ikke er oppfylt. Dette gjelder blant annet for straffebudene om tvangsekteskap (§ 253), menneskehandel (§§ 257 og 258), barneekteskap (§ 262 andre ledd) og kjønnslemlestelse (§§ 284 og 285). Det samme gjelder flere typer seksuallovbrudd, blant annet voldtekt og seksuelle overgrep mot barn (§§ 291 til 296, 299 til 306 og 309 til 316).
+
+I straffeloven 1902 § 12 var flere straffebestemmelser unntatt fra kravet om dobbel straffbarhet enn etter straffeloven 2005. For eksempel var frihetsberøvelse unntatt fra krav om dobbel straffbarhet etter straffeloven 1902, mens bestemmelsene ikke er unntatt etter straffeloven 2005. Begrunnelsen for at opplistingen i straffeloven 2005 § 5 er snevrere og at det oppstilles en hovedregel om krav om dobbel straffbarhet, er særlig hensynet til forutberegnelighet og til handlingslandets suverenitet, jf. Ot.prp. nr. 90 (2003–2004).[^944] Listen over unntak er siden vedtakelsen av straffeloven 2005 utvidet en rekke ganger, blant annet er enkelte seksuallovbrudd, menneskehandel og omsorgsunndragelse i ettertid unntatt fra kravet om dobbel straffbarhet.
+
+Selv om et straffebud ikke er unntatt fra krav om dobbel straffbarhet, kan handlinger som er begått delvis i Norge og delvis i utlandet likevel under visse omstendigheter straffes i Norge, jf. HR-2018-2043-A og HR-2018-2044-A.[^945] Det kreves for det første at straffebudet beskriver det straffbare forholdet på en måte som rommer flere enkelthandlinger, eller at det gjelder en fortsatt straffbar handling. Straffebestemmelsene om mishandling i nære relasjoner (§§ 282 og 283) og frihetsberøvelse (§§ 254 og 255) er eksempler på straffebud som rommer flere enkelthandlinger. I slike saker kan de forskjellige handlingene være begått i ulike land.
+
+For det andre er det et krav om at den straffbare handlingen er påbegynt i Norge, og at oppholdet i utlandet er midlertidig.[^946] I slike tilfeller kan norsk straffelovgivning anvendes også på de handlingene som har funnet sted i utlandet, jf. straffeloven § 4. Hvis gjerningspersonen har bosatt seg i et annet land permanent, kan norsk straffelovgivning likevel ikke anvendes på handlingene i utlandet, ettersom det ikke ville være i samsvar med hensynet til forutberegnelighet.[^947]
+
+### Aktuelle straffebud i saker om utenlandsopphold
+
+#### Oversikt
+
+Straffeloven har ikke et straffebud som særskilt rammer det å sende barn eller voksne på ufrivillige eller skadelige utenlandsopphold. En rekke straffebestemmelser kan imidlertid ramme handlinger som begås i forbindelse med reisen. Det kan skilles mellom handlinger som begås før eller under reisen fra Norge, og handlinger som begås under oppholdet i utlandet.
+
+Enkelte handlinger som begås *før eller under reisen fra Norge* med sikte på å få personen ut av landet, kan innebære overtredelse av ulike straffebestemmelser. Aktuelle straffebestemmelser etter straffeloven er for eksempel trusler (§§ 263 og 264), tvang (§§ 251 og 252) og frihetsberøvelse (§§ 254 og 255), se utredningens punkt kapittel 7 for en nærmere omtale av disse bestemmelsene. Dersom foreldre truer barna med vold om de ikke blir med på reisen, kan det innebære straffbar tvang (§ 251) eller trusler (§ 263). Dersom en ung voksen kjøres til flyplassen uten mulighet til å komme seg ut av bilen, for deretter å trues til å bli med på flyet, kan straffebudene om trusler (§ 263) og frihetsberøvelse (§ 254) være aktuelle.
+
+En rekke handlinger i forbindelse med reisen fra Norge vil ikke være straffbare, for eksempel om det benyttes ikke-straffbare trusler eller tvang. Straffeloven § 251 omfatter for eksempel ikke ulike former for påvirkning og press som får en person av egen vilje til å foreta seg noe.
+
+Handlinger som begås *under oppholdet i utlandet* kan rammes av ett eller flere straffebud i straffeloven. For eksempel kan fornærmede bli tvangsgiftet (§ 253), kjønnslemlestet (§ 284) eller bli utsatt for alvorlige voldslovbrudd (§§ 274 følgende), seksuallovbrudd (§§ 291 følgende) eller mishandling i nære relasjoner (§§ 282 og 283). Om handlingen skjer i Norge eller utlandet, har ikke betydning for vurderingen av om gjerningsbeskrivelsen er oppfylt. Det som avgjør om handlingene kan straffes etter norsk lov er om vilkårene i straffeloven § 5 er oppfylt, se forrige punkt om straffelovens anvendelse på handlinger begått i utlandet.
+
+#### Nærmere om frihetsberøvelse (straffeloven §§ 254 og 255)
+
+Straffeloven §§ 254 og 255 om frihetsberøvelse er grundig omtalt i utredningens kapittel 7. Spørsmålet i det følgende er om skadelige eller ufrivillige utenlandsopphold kan falle inn under disse bestemmelsene.
+
+Frihetsberøvelse etter straffeloven § 254 må i utgangspunktet skje ved fysiske hindringer, og frihetsberøvelsen må være total. Dersom en person rettsstridig innesperres i utlandet, enten det skjer i et privat hjem, på en institusjon eller andre steder, vil innesperringen klart utgjøre frihetsberøvelse etter § 254. Det gjelder selv om vedkommende kan bevege seg fritt innenfor et større område, som et hus med tilhørende hage, hvis høye murer gjør det vanskelig å forlate stedet.
+
+En person kan være frihetsberøvet selv om det i perioder ikke foreligger fysiske hindringer. Det kan for eksempel være dersom personen iblant er alene i et privat hjem og ikke er fysisk forhindret i å forlate huset, men der det foreligger trusler om vold eller andre alvorlige integritetskrenkelser dersom hen forlater huset. Hvis personen som følge av trusler ikke tør å forlate hjemmet, men det ikke på noe tidspunkt foreligger fysiske hindringer, er det imidlertid ikke tilstrekkelig til å utgjøre frihetsberøvelse.[^948]
+
+Ekspertgruppa om unge som etterlates i utlandet mot sin vilje har i sin rapport stilt spørsmål om fratakelse av identitetspapirer, reisedokumenter, mobiltelefon, penger eller andre gjenstander som er nødvendige for å returnere til Norge kan utgjøre frihetsberøvelse i straffelovens forstand.[^949] I lys av at det som utgangspunkt kreves fysiske hindringer, vil det å bli fratatt identitetsdokumenter eller reisedokumenter *i seg selv* neppe utgjøre frihetsberøvelse i straffelovens forstand. Det må det skilles mellom *fratakelse* av bevegelsesfriheten og *begrensninger* i denne friheten. Selv om reisedokumenter eller andre gjenstander er en nødvendig forutsetning for å reise hjem til Norge, vil fratakelse av slike dokumenter snarere utgjøre innskrenkninger i bevegelsesfriheten enn fratakelse av denne. Fratakelse av reisedokumenter kan imidlertid være en av flere begrensninger som til sammen innebærer at personen må anses frihetsberøvet. For eksempel kan kontroll av en persons bevegelser, trusler om vold dersom hen forlater et sted og fratakelse av reisedokumenter og mobiltelefon, til sammen innebære så omfattende begrensninger i bevegelsesfriheten at personen anses frihetsberøvet.
+
+Grensene mellom begrensninger i bevegelsesfriheten og frihetsberøvelse er imidlertid ikke klare. Utvalget kjenner heller ikke til rettspraksis som belyser spørsmålet. Bortføring og innesperring, som nevnes konkret i § 254, trekker i retning av at det kreves omfattende inngrep i bevegelsesfriheten for at bestemmelsen skal komme til anvendelse. I lys av det strafferettslige klarhetskravet, kan anvendelsesområdet for det straffbare ikke trekkes for langt.
+
+Noen særlige spørsmål oppstår ved spørsmål om et barn anses frihetsberøvet. Som det er redegjort for i kapittel 26 om foreldreansvar og barnets rettigheter, har foreldre en viss myndighet til å begrense barns bevegelsesfrihet etter foreldreansvaret, avhengig av barnets alder og modenhet. I vurderingen av om frihetsberøvelsen er lovlig, vil varigheten av restriksjonene, barnets alder og forholdene ellers ha betydning. Det avgjørende vil være om barnet rettsstridig er ilagt så strenge restriksjoner i bevegelsesfriheten at dette innebærer at barnet er «fratatt friheten» etter § 254. Hvor strenge restriksjoner som skal til for at denne grensen er overtrådt, er imidlertid ikke klart etter gjeldende rett.
+
+Det synes likevel klart at de fleste ufrivillige eller skadelige utenlandsopphold ikke vil rammes av straffeloven § 254.
+
+Straffebudet om frihetsberøvelse er ikke unntatt kravet om dobbelt straffbarhet etter straffeloven § 5. For å kunne bli dømt for frihetsberøvelse i Norge, kreves det derfor at forholdet også er straffbart i landet der utenlandsoppholdet foregår.
+
+#### Nærmere om hensettelse i hjelpeløs tilstand (straffeloven § 288)
+
+Straffeloven § 288 første punktum rammer den som «hensetter en annen i hjelpeløs tilstand med fare for liv, kropp og helse». Strafferammen er fengsel i inntil tre år.
+
+Ifølge forarbeidene er kjernen i kriteriet «hjelpeløs tilstand» at personen trenger hjelp, og at situasjonen utgjør en fare for liv, kropp eller helse.[^950] Det stilles ikke et strengt krav til sannsynligheten for skade. Fornærmedes hjelpeløshet må skyldes gjerningspersonens handling, jf. ordet «hensetter».
+
+Etter andre punktum rammes den som «unnlater å gi hjelp til noen i hjelpeløs tilstand som vedkommende har en plikt til å dra omsorg for». Formuleringen «plikt til å dra omsorg for» omfatter blant annet den med foreldreansvar for barn.[^951] I motsetning til i § 288 første punktum behøver ikke omsorgspersonen å ha forårsaket den hjelpeløse tilstanden for å ha en aktivitetsplikt.[^952]
+
+Paragraf 288 kan etter sin ordlyd være aktuell å anvende på tilfeller der et barn sendes til eller etterlates i utlandet. Det kan være tilfeller der et lite barn etterlates i utlandet uten egnede omsorgspersoner under forhold som gjør at barnets liv eller helse vil være i fare. Det kan også tenkes at en forelder får kunnskap om at hens barn er i en situasjon i utlandet som utgjør en fare for liv og helse, og unnlater å hjelpe ved for eksempel å hente barnet hjem eller samtykke til passutstedelse så barnet kan returnere. Det vil være utfordrende å bevise slike situasjoner. Bestemmelsen er i tillegg utformet med tanke på de mer akutte faresituasjonene, særlig der gjerningspersonen har forårsaket den hjelpeløse tilstanden. I praksis kommer ofte straffeloven § 288 til anvendelse i forbindelse med voldsutøvelse, og da først og fremst knyttet til gjerningspersonens handlinger eller unnlatelser etter at voldsutøvelsen er avsluttet. Utvalget har ikke funnet eksempler på at bestemmelsen er brukt ved ufrivillig eller skadelige utenlandsopphold, verken for voksne eller barn.
+
+Straffebestemmelsen er ikke unntatt krav om dobbel straffbarhet etter § 5, og hensettelse i hjelpeløs tilstand i utlandet kan derfor bare straffeforfølges i Norge dersom handlingen også er straffbar i gjerningslandet.
+
+#### Nærmere om omsorgsunndragelse (straffeloven § 261)
+
+Straffeloven § 261 rammer omsorgsunndragelse. Etter første ledd andre punktum straffes den som «tar en mindreårig ut av landet eller holder tilbake en mindreårig i utlandet og ved det ulovlig unndrar den mindreårige fra noen som i henhold til lov, avtale eller rettsavgjørelse har foreldreansvar». Tilsvarende gjelder når det er eller er i ferd med å bli fattet nærmere definerte vedtak etter barnevernsloven, blant annet vedtak om institusjonsplassering eller omsorgsovertakelse, jf. tredje punktum og barnevernsloven § 5-6. Strafferammen er bot eller fengsel inntil to år.
+
+Straffeloven § 261 rammer både bortføring av barnet fra Norge og tilbakeholdelse i utlandet, typisk etter en ferie eller samvær med slektninger eller en forelder. Det har ikke betydning for straffansvar hvem som bortfører barnet.[^953] At unndragelsen må være ulovlig, betyr ifølge forarbeidene at den må skje i strid med den underliggende sivilretten, først og fremst reglene i barnelova og barnevernsloven. Det er tilstrekkelig for straffansvar at unndragelsen blir ulovlig i utlandet, for eksempel dersom barnet ikke returnerer til avtalt tid. En svært kortvarig tilbakeholdelse er likevel ikke tilstrekkelig for straff.[^954] Straffebestemmelsen rammer ikke situasjoner der foreldrene er enige om at barnet skal bo eller oppholde seg i utlandet, for eksempel dersom foreldrene etterlater barnet hos slektninger.
+
+Grov omsorgsunndragelse straffes med fengsel i inntil seks år, jf. § 261 andre ledd. Ved avgjørelsen av om omsorgsunndragelsen er grov skal det særlig legges vekt på hvilken belastning den har påført barnet. Ifølge forarbeidene er viktige momenter i denne vurderingen «hvor og under hvilke forhold barnet har måttet oppholde seg under omsorgsunndragelsen, om barnet er bortført til et annet land, hvor lenge unndragelsen har vart, og hva slags kontakt barnet har fått ha med den omsorgsberettigede».[^955] Barnebortføring til utlandet etter første ledd andre punktum vil lett kunne regnes som grovt, «særlig hvis barnet da er sammen med en eller to foreldre som er vurdert som uskikket til å ha barnet».[^956]
+
+Straffeloven § 261 er unntatt kravet om dobbel straffbarhet etter § 5 første ledd nr. 8. Omsorgsunndragelser i utlandet kan derfor straffeforfølges i Norge uavhengig av om forholdet er straffbart i gjerningslandet.
+
+### Når er forberedelse til ufrivillige utenlandsopphold straffbart?
+
+#### Innledning
+
+Den klare hovedregelen i norsk strafferett er at forberedelseshandlinger ikke er straffbare. Straffansvar inntrer først når terskelen for straffbart forsøk etter straffeloven § 16 er overtrådt. Enkelte straffebestemmelser har imidlertid kriminalisert forberedelsesstadiet. Av særlig betydning i saker om utenlandsopphold er straffebestemmelsene om forledelse til tvangsekteskap (§ 253 andre ledd) og forbund om grov frihetsberøvelse (§ 256) som omhandles nærmere nedenfor.
+
+#### Forsøk
+
+Det å sende barn og unge på ufrivillige eller skadelig utenlandsopphold er i seg selv ikke straffbart etter gjeldende rett. Forberedelser til et utenlandsopphold kan imidlertid straffes dersom en straffbar handling skal begås under oppholdet, og terskelen for straffbart forsøk etter straffeloven § 16 er passert. Slik lyder § 16:
+
+Den som har forsett om å fullbyrde et lovbrudd som kan medføre fengsel i 1 år eller mer, og som foretar seg noe som leder direkte mot utføringen, straffes for forsøk, når ikke annet er bestemt.
+
+Den som frivillig avstår fra å fullbyrde lovbruddet eller avverger at det blir fullbyrdet, straffes likevel ikke for forsøk.
+
+Straffbart forsøk krever både at gjerningspersonen må ha «forsett om å fullbyrde et lovbrudd», og at hen foretar seg noe som «direkte leder mot utføringen». I vurderingen av sistnevnte må det blant annet legges vekt på «den tidsmessige nærhet mellom det som er gjort, og det som gjenstår, handlingenes karakter og den psykologiske forskjell mellom dem», jf. Rt. 2008 s. 867.[^957] Grensen mellom straffbart forsøk og straffrie forberedende handlinger beror på en konkret vurdering, der både straffebudet, faktum og gjerningspersonens forsett om den videre gjennomføringen er av betydning.[^958]
+
+For at forsøksansvar skal være aktuelt i saker om utenlandsopphold, må gjerningspersonen ha et forsett om å utføre en handling i et annet land som kan rammes av en norsk straffebestemmelse «som kan medføre fengsel i 1 år eller mer». Dette kan for eksempel være tilfelle ved kjønnslemlestelse eller tvangsekteskap der begge straffebestemmelsene er omfattet av unntakene for dobbel straffbarhet i § 5. For frihetsberøvelse eller voldshandlinger vil det være et krav om at dette også er straffbart i landet den straffbare handlingen skal begås. Deretter må gjerningspersonen foreta seg noe som «leder direkte» mot utføringen av den straffbare handlingen. Hva som skal til for at terskelen for straffbart forsøk er overtrådt i Norge, vil bero på en konkret vurdering av hvilke handlinger som er gjort og hva som gjenstår, og vil også avhenge av hvilken straffbar handling som skal begås i utlandet.
+
+Forberedelser til selve utenlandsreisen, som for eksempel å bestille flybilletter, ta ut ferie, pakke kofferter og reise til flyplassen, er ikke i seg selv tilstrekkelig til at terskelen for straffbart forsøk på en straffbar handling som først skal finne sted i utlandet er overtrådt.
+
+Utvalget har ikke funnet rettspraksis som belyser grensen for når terskelen for straffbart forsøk vil være overtrådt i saker om skadelige utenlandsopphold. Ved at terskelen for straffbart forsøk neppe er overtrådt før reisen faktisk er påbegynt, vil det også være et svært kort tidsvindu der det kan være aktuelt å gripe inn straffeprosessuelt fordi terskelen for straffbart forsøk er overtrådt. Dette gjør at forsøksansvar er mindre egnet for å forhindre at et barn eller en voksen utsettes for straffbare handlinger i utlandet, med unntak av forledelse til tvangsekteskap og forbund om grov frihetsberøvelse, se nedenfor.
+
+#### Nærmere om forledelse til tvangsekteskap etter § 253 andre ledd
+
+Noen typer forberedelser til tvangsekteskap er straffbare etter straffeloven § 253 andre ledd. Bestemmelsen rammer den som «forleder eller på annen måte medvirker til at en person reiser til et annet land enn der personen er bosatt, med forsett om at personen der vil bli \[tvangsgiftet\]». Fornærmede kan for eksempel forledes ved at gjerningspersonen oppgir et annet formål med reisen enn tvangsekteskap, typisk at reisens formål er å besøke slektninger eller lignende. Bestemmelsen rammer også tilfeller der fornærmede er klar over det reelle formålet med reisen, og derfor ikke kan sies å være forledet, ettersom medvirkning til reisen på annen måte enn ved å forlede fornærmede omfattes av ordlyden.[^959] Foreldre som sender barn på ufrivillig utenlandsopphold for å bli tvangsgiftet, også der barnet er klar over formålet med reisen, kan derfor straffes for brudd på § 253 andre ledd, selv der tvangsekteskapet likevel ikke blir gjennomført.[^960] Forsøk rammes på vanlig måte etter straffeloven § 16. Det vil si at straffansvar kan inntre på et tidlig stadium og gjøre det mulig å gripe inn før reisen har skjedd.
+
+#### Nærmere om forbund om grov frihetsberøvelse etter straffeloven § 256
+
+Det kan også tenkes at et *forbund* om grov frihetsberøvelse, jf. straffeloven § 256, inngås i Norge, mens selve frihetsberøvelsen først skal skje i utlandet.[^961] Dersom to eller flere personer, for eksempel foreldre eller andre slektninger, avtaler å utsette noen for handlinger i utlandet som utgjør grov frihetsberøvelse, vil selve avtalen være straffbar før reisen er gjennomført. Også en avtale om å medvirke til at andre begår grov frihetsberøvelse rammes av bestemmelsen.[^962]
+
+I vurderingen av om frihetsberøvelsen er grov, er momentet om at frihetsberøvelsen skal være langvarig særlig aktuelt ved utenlandsopphold. Varigheten av frihetsberøvelsen er ikke tidfestet, men bestemmelsen tar ifølge forarbeidene sikte på å videreføre gjeldende rett.[^963] Etter straffeloven 1902 § 223 andre ledd var det et krav at frihetsberøvelsen hadde vart over en måned, slik at en måned vil danne et naturlig skjæringspunkt også etter § 255. Det vil si at personer i Norge som seg imellom avtaler at et barn skal oppholde seg i utlandet i over en måned under forhold som kan innebære frihetsberøvelse, for eksempel innesperres på en lukket institusjon, etter omstendighetene kan straffes etter § 256. Det samme gjelder dersom en person avtaler å bidra til denne frihetsberøvelsen, for eksempel tilbyr seg å låse inn den fornærmede i en bolig i utlandet.
+
+Utvalget har ikke funnet eksempler på at straffeloven § 256 er brukt i saker der frihetsberøvelsen først skjer i utlandet. Selv om bestemmelsen etter sin ordlyd kan ramme avtaler om frihetsberøvelse i utlandet, kan det i praksis være utfordrende å bevise at avtalen er inngått.
+
+## Andre lands rett
+
+### Danmark
+
+Den danske straffeloven § 215 a setter straff for såkalte «genopdragelsesrejser». Bestemmelsen lyder:
+
+Med bøde eller fængsel indtil 4 år straffes den, som sender sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare, eller lader sit barn tage del i et sådant udlandsophold.
+
+Med formuleringen «sit barn» menes at gjerningspersonen må være forelder til et barn under 18 år. Bestemmelsen rammer også foreldre som ikke har foreldreansvaret til barnet. Barnet må ha dansk statsborgerskap, være bosatt i Danmark eller ha fast opphold i Danmark.[^964]
+
+Alvorlig fare for «barnets sundhet eller udvikling» omfatter ikke bare helsemessige forhold, men også forhold av betydning for barnets trivsel.[^965] I forarbeidene nevnes eksempler som mishandling eller andre alvorlige overgrep, sviktende omsorg, utilstrekkelig oppfyllelse av behovet for mat, undervisning eller helsehjelp. I vurderingen skal det tas hensyn til både barnets tilstand på det aktuelle tidspunktet og barnets framtidige oppvekstbetingelser. Det er ingen betingelse at det allerede har skjedd en alvorlig skade.
+
+Barnets alder og modenhet, herunder barnets evne til å ta vare på seg selv, kan ha betydning for vurderingen av om barnets helse eller utvikling er i alvorlig fare. Forholdene i landet der barnet oppholder seg kan ha betydning for vurderingen av om barnets utvikling er i fare. Det er ifølge forarbeidene[^966] ikke avgjørende at barnet befinner seg i et land med andre verdier enn de danske, eller er utsatt for restriksjoner som ikke er vanlige i Danmark. Dette er imidlertid forhold som kan inngå som momenter i en samlet vurdering av om utenlandsoppholdet kan ha alvorlige konsekvenser for barnets utvikling.
+
+Den straffbare handlingen anses fullbyrdet når barnet har forlatt sitt bosted eller oppholdssted i Danmark for å reise til utlandet. Straffansvar inntrer også når foreldre får kunnskap om at barnets helse og utvikling er satt i fare under et pågående opphold i utlandet, og likevel godtar at oppholdet fortsetter.
+
+Skyldkravet er forsett, som omfatter både det forholdet at barnet sendes til utlandet, og at forholdene under oppholdet medfører alvorlig fare for barnets helse og utvikling. Forsett kan foreligge på utreisetidspunktet, eller oppstå senere ved kjennskap til faren for helse eller utvikling. Bestemmelsen gjelder både tilfeller der foreldrene er i utlandet sammen med barnet, og der barnet bor hos andre enn foreldrene. At barnet samtykker til utenlandsoppholdet, fritar ikke foreldrene for straffeansvar.
+
+Forsøk og medvirkning er straffbart, jf. straffeloven kapittel 4.
+
+Utenlandsoppholdet kan etter omstendighetene også rammes av andre straffebud, som vanrøkt etter § 213, omsorgsunndragelse etter § 215, vold etter §§ 244 til 246, ulovlig tvang etter § 260, frihetsberøvelse etter § 261 eller trusler etter § 266, så lenge forholdet faller inn under dansk jurisdiksjon.[^967] Bestemmelsene kan da benyttes i konkurrens.
+
+Det er foreløpig lite rettspraksis knyttet til bestemmelsen. Utvalget har ikke funnet eksempler på saker fra rettspraksis som utelukkende gjelder brudd på straffeloven § 215 a. En dom fra 2022[^968] kan likevel illustrere hvor terskelen for domfellelse ligger. I saken ble en mor dømt til tre års fengselsstraff, fratatt sitt danske statsborgerskap og utvist fra Danmark for å ha holdt datteren tilbake i Pakistan fra 2017 til 2020. Jenta ble mishandlet av moren under oppholdet. Hun ble over lengre tid (om lag ett år) holdt innesperret i to ulike hus uten tilgang til telefon eller internett og i perioder innelåst på et rom. Tiltalte ble dømt for frihetsberøvelse (straffeloven § 261) for innesperringen og for å forhindre fornærmede i å reise tilbake til Danmark. Jentas stefar, som i praksis fungerte som en far for fornærmede, ble dømt for blant annet medvirkning til frihetsberøvelse. Han var kjent med at fornærmede var innesperret og oppholdt seg i Pakistan mot sin vilje, og ved å forholde seg passiv aksepterte han forholdene.
+
+Moren ble i tillegg domfelt etter § 215 a for perioden fra straffebudet trådte i kraft og til fornærmede fylte 18 år (i underkant av ti måneder). Domfellelsen var begrunnet i at volden moren utsatte fornærmede for under oppholdet, brakte fornærmedes helse og utvikling i alvorlig fare. Stefaren var ikke tiltalt for overtredelse av § 215 a.
+
+### Sverige
+
+Den svenske straffeloven (brottsbalken) har ingen egen bestemmelse om ufrivillige utenlandsopphold. Slike saker kan rammes av flere generelle straffebestemmelser, som tvang, frihetsberøvelse, tvangsekteskap og kjønnslemlestelse, avhengig av hvordan utenlandsoppholdet kommer i stand, og hva personen utsettes for under oppholdet. Ufrivillige utenlandsopphold kan også rammes av 4 kap. 4 d § om villedning til ekteskapsreise, og 7 kap. 4 § om omsorgsunndragelse.
+
+Sverige innførte regler om sivilrettslig utreiseforbud i saker om tvangsekteskap og kjønnslemlestelse 1. juli 2020, og brudd på utreiseforbudet er straffbart. Disse reglene er nærmere omtalt i kapittel 27.
+
+Hva er problemet?
+
+Foreldre som sender sine barn til utlandet til forhold som medfører en alvorlig fare for barnets liv eller helse, kan i liten grad straffes etter gjeldende rett. Heller ikke det å utsette et barn for en risiko for straffbare handlinger i utlandet er straffbart. For eksempel vil foreldre som sender barna sine til slektninger i utlandet, eller etterlater dem der, og det er fare for at barnet vil bli utsatt for tvang, trusler eller vold, ikke kunne holdes strafferettslig ansvarlig for å utsette barnet for en slik risiko. Det samme gjelder foreldre som sender sine barn til skoler eller institusjoner i utlandet der vold er en akseptert disiplineringsmetode. Det er heller ikke straffbart å sende barnet sitt til eller etterlate det i et krigsherjet område, eller i et land der det er fare for at barnet ikke vil få nødvendig helsehjelp. Dagens straffebestemmelser er derfor ikke tilstrekkelige til å fange opp alvorlige farer som et barn kan utsettes for i et annet land. Dersom barnet faktisk blir utsatt for en straffbar handling i utlandet, kan straffansvar for medvirkning etter omstendighetene være aktuelt. Mishandling i nære relasjoner og frihetsberøvelse er ikke unntatt fra krav om dobbel straffbarhet, og slike handlinger begått i utlandet straffeforfølges i liten grad i Norge.
+
+\[Boks slutt\]
+
+## Utvalgets vurderinger og forslag
+
+### Bør straffebestemmelsene om mishandling i nære relasjoner og frihetsberøvelse unntas fra krav om dobbel straffbarhet?
+
+Utvalget mener straffeloven § 282 om mishandling i nære relasjoner og § 254 om frihetsberøvelse bør unntas fra kravet om dobbel straffbarhet etter straffeloven § 5.
+
+Mishandling i nære relasjoner og frihetsberøvelse er alvorlige straffbare handlinger som er svært aktuelle ved ufrivillige og skadelige utenlandsopphold. I land der familielovgivningen er annerledes enn i Norge, der mannen har rett til å bestemme over sin ektefelle, og der vold som ledd i oppdragelsen av barn er mer er akseptert og ikke straffebelagt, vil kravet til dobbel straffbarhet ofte ikke være oppfylt.
+
+Etter straffeloven 1902 var straffebestemmelsen om frihetsberøvelse unntatt fra kravet om dobbel straffbarhet. Utvalget mener at den avkriminaliseringen som straffeloven 2005 medførte på dette området, bør reverseres. I tillegg bør mishandling i nære relasjoner unntas fra krav om dobbel straffbarhet. Dette vil stille foreldre og andre til ansvar for mishandling og frihetsberøvelse som er påført barn og voksne i utlandet, og kan også ha en forebyggende effekt for å unngå at personer utsettes for frihetsberøvelse og mishandling i nære relasjoner under utenlandsopphold.
+
+Et forslag om å gjeninnta straffeloven §§ 282 og 254 i straffeloven § 5 har vært på høring og er i skrivende stund under behandling i Justis- og beredskapsdepartementet[^969] Departementet har foreslått at unntaket ikke skal omfatte personer som etter handlingstidspunktet har blitt norsk statsborger eller har fått bosted i Norge, eller personer som er eller etter handlingen har blitt statsborger i eller bosatt i et annet nordisk land, og som oppholder seg i Norge (straffeloven § 5 andre ledd bokstav a og b). Begrunnelsen i høringsnotatet er hensynet til forutberegnelighet og innrettelse, samt respekt for andre staters suverenitet. Utvalget har ikke hatt anledning til å vurdere spørsmålet grundig, men er som utgangspunkt, i likhet med flere av høringsinstansene, ikke enig i at det er behov for en slik begrensning av unntaket fra krav om dobbel straffbarhet.[^970]
+
+### Bør det innføres et eget straffebud om skadelige utenlandsopphold?
+
+Utvalget mener det bør innføres et eget straffebud som rammer personer med foreldreansvar som sender eller tar med et barn til utlandet til forhold som medfører alvorlig fare for barnets liv eller helse, eller der barnet utsettes for alvorlige straffbare handlinger (heretter omtalt som skadelig utenlandsopphold), se forslag til ny § 269.
+
+Det er behov for en rekke ulike virkemidler for å forhindre og reagere mot at barn utsettes for skadelige utenlandsopphold, både muligheter for at barnevernet kan sette inn tiltak i familier der det er fare for slike opphold, tiltak for å hjelpe personer som har vært utsatt for skadelige utenlandsopphold og virkemidler for å forhindre utreisen dersom andre tiltak er utilstrekkelige. Blant annet foreslår utvalget i kapittel 27 at barnevernstjenesten på visse vilkår kan ilegge utreiseforbud. Utvalget mener at det i tillegg til forebyggende tiltak og hjelpetiltak, er behov for en egen straffebestemmelse som rammer personer med foreldreansvar som utsetter barn for alvorlige farer i utlandet. Når barnet først er i utlandet, er det ofte begrenset hva norske myndigheter kan gjøre for å hjelpe, selv der barnet er i alvorlig fare. Det må derfor etableres ulike mekanismer for å forhindre slike opphold, herunder mener utvalget at det er behov for en straffetrussel.
+
+Barn har rett til vern av sin personlige integritet og til å beskyttes mot alvorlige farer for deres liv eller helse. Dette gjelder uavhengig av om de utsettes for farer i Norge eller i et annet land. Hensyn til å beskytte barnets liv og helse er legitime formål som kan begrunne en kriminalisering.
+
+Utvalget mener at kriminalisering vil være et forholdsmessig tiltak. Ikke enhver negativ konsekvens eller fare for barnet vil medføre straffansvar. Forslaget her tar sikte på å ramme de mest alvorlige handlingene, og er begrenset til utenlandsopphold som medfører *alvorlig* fare for barnets liv eller helse samt for at barnet blir utsatt for alvorlige straffbare handlinger. Dette er i tråd med skadefølgeprinsippet. Å kriminalisere det å sende barn på skadelige utenlandsopphold er etter utvalgets syn ikke i strid med retten til privatliv og respekt for foreldrenes rett til å bestemme hvor deres barn skal bo, og hvordan de skal oppdras.
+
+En straffebestemmelse som holder foreldrene ansvarlige for farer som barn utsettes for i utlandet, kan i tillegg ha en viktig forebyggende effekt slik at færre foreldre sender sine barn på skadelige utenlandsopphold. Dette er viktig fordi dagens regelverk sjelden gjør det mulig å gripe inn med strafferettslige virkemidler før reisen faktisk er gjennomført. Grensen for et straffbart forsøk på overtredelse av enkelte gjeldende straffebestemmelser vil svært sjelden være overtrådt før avreise dersom handlingen skal utføres i utlandet, jf. omtale ovenfor.
+
+I de følgende punktene drøfter utvalget hvordan et straffebud om skadelige utenlandsopphold bør utformes, i lys av de grunnleggende kriminaliseringsprinsippene som er omtalt i kapittel 6. I vurderingene er det særlig tatt hensyn til følgende:
+
+- Straffebudet skal ramme handlinger som utvilsomt medfører skade eller fare for skade.
+
+- Straffebudet skal ramme de mest klanderverdige handlingene, der alternative tiltak ikke er tilstrekkelige.
+
+- Straffebudet skal innrettes for å ha en allmenn- og individualpreventiv effekt.
+
+Etter dansk straffelov § 215 a er det straffbart for foreldre å sende et barn til utlandet til forhold som setter barnets helse eller utvikling i alvorlig fare, eller å la barnet ta del i et slikt opphold. Som et utgangspunkt innebærer dette straffebudet etter utvalgets syn en god innramming av handlingene som bør kriminaliseres. Utvalget foreslår likevel en noe annen utforming av bestemmelsen, for å sikre at forslaget er i tråd med kriminaliseringsprinsippene.
+
+En konsekvens av forslaget er at en utlending som blir dømt for brudd på straffebudet om skadelig utenlandsopphold vil kunne vurderes utvist etter utlendingsloven kapittel 8 om utvisning.
+
+### Nærmere om utformingen av straffebestemmelsen
+
+#### Hva slags farer må utenlandsoppholdet medføre?
+
+Det hører i utgangspunktet til foreldreansvaret å bestemme hvor barnet skal bo, også der avgjørelsen ikke er den beste for det aktuelle barnet. Det kan for eksempel tenkes at hensynet til familiens enhet og hensynet til andre barn i familien tillegges større vekt. Straffansvar kan ikke inntre ved enhver avgjørelse som er i strid med barnets beste eller som får negative konsekvenser for barnet. Etter skadefølgeprinsippet må straffebudet begrenses til å omfatte utenlandsopphold som innebærer skade eller fare for skade av en viss alvorlighetsgrad. Tilsvarende er gjort i den danske bestemmelsen, der utenlandsoppholdet må sette «barnets sundhed eller udvikling i alvorlig fare». De danske forarbeidene framhever at
+
+\[e\]n alvorlig fare for barnets sundhed og udvikling kan f.eks. være mishandling eller andre alvorlige overgreb samt svigtende omsorg, herunder såvel egentlig vanrøgt som utilstrækkelig opfyldelse af barnet eller den unges basale behov for f.eks. mad, undervisning eller lægelig behandling.
+
+Der vil ved vurderingen af, om der foreligger en alvorlig fare for barnets sundhed og udvikling, skulle tages hensyn til såvel barnets eller den unges øjeblikkelige tilstand som til dets fremtidige opvækstbetingelser.[^971]
+
+Etter utvalgets syn har denne eksemplifiseringen overføringsverdi til den typen farer utvalget mener utenlandsoppholdet må medføre, for at utsendelsen eller etterlatelsen bør kunne møtes med straff. Samtidig mener utvalget at farene utenlandsoppholdet kan medføre bør utformes mer detaljert og presist enn det danske straffebudet i lys av det strafferettslige klarhetskravet.
+
+Utvalget foreslår for det første at bestemmelsen skal omfatte tilfeller der barnet sendes til, tas med til eller etterlates i utlandet under forhold hvor det er alvorlig fare for at det blir utsatt for nærmere bestemte alvorlige straffbare handlinger. De straffbare handlingene som utvalget foreslår at skal omfattes er straffeloven §§ 251 (tvang), 253 (tvangsekteskap), 253 a (barneekteskap), 254 (frihetsberøvelse), 257 (menneskehandel), 259 (slaveri), 263 (trusler), 266 (hensynsløs atferd), 271 (kroppskrenkelse), 273 (kroppsskade), 275 (drap), 282 (mishandling i nære relasjoner), 284 (kjønnslemlestelse), 288 (hensettelse i hjelpeløs tilstand mv.), 291 (voldtekt), 294 (grovt uaktsom voldtekt), 295 (misbruk av overmaktsforhold og lignende), 296 (seksuell omgang med innsatte mv. i institusjon), 299 (voldtekt av barn under 14 år), 302 (seksuell omgang med barn mellom 14 og 16 år), 304 (seksuell handling med barn under 16 år), 305 (seksuelt krenkende atferd mv. overfor barn under 16 år), 309 (kjøp av seksuelle tjenester fra mindreårige), 312 (incest), 313 (søskenincest) eller 314 (seksuell omgang mellom andre nærstående).
+
+Straffebestemmelsene som er listet opp er plassert i kapitlene i straffeloven om vern av den personlige frihet og fred, voldslovbrudd og seksuallovbrudd, og er etter utvalgets syn de straffebestemmelsene som det er størst risiko for at barn utsettes for under skadelige utenlandsopphold, og er alle svært alvorlige.
+
+Når barnet først er i utlandet, er det svært vanskelig for norske myndigheter å forhindre at barnet blir utsatt for slike handlinger. Utvalget ser det som avgjørende at det å utsette sine barn for alvorlig fare for slike handlinger kan møtes med straff. Det er ikke noe krav at handlingene er straffbare i det landet barnet blir sent til eller etterlatt i.
+
+Det må være en *alvorlig* fare for at barnet vil bli utsatt for slike straffbare handlinger som bestemmelsen krever. Det er dermed ikke tilstrekkelig med en fjern eller teoretisk risiko for at barnet kan bli utsatt for noen av de straffbare handlingene som er nevnt i bestemmelsen. Dersom barnet faktisk blir utsatt for en eller flere av de nevnte handlingene, kan straffebestemmelsene brukes i konkurrens.
+
+Det kan ikke utelukkes at et barn utsettes for handlinger som rammes av andre straffebud under utenlandsoppholdet, eller for andre alvorlige farer enn straffbare forhold. Utvalget foreslår derfor at bestemmelsen i tillegg skal omfatte at barnet sendes til, tas med til eller etterlates under forhold som innebærer *alvorlig fare for barnets liv eller helse.* Alvorlig fare for barnets liv vil for eksempel omfatte tilfeller der et barn kan stå i fare for å dø fordi det ikke får livsnødvendig helsehjelp, eller der et barn sendes til eller etterlates i et krigsherjet konfliktområde.
+
+Med helse forstås både fysisk og psykisk helse. Alvorlig fare for helse kan eksempelvis være at barnet ikke får helt nødvendig helsehjelp. At barnet blir isolert fra omverdenen eller utsatt for alvorlig omsorgssvikt vil også kunne innebære en alvorlig fare for barnets psykiske helse.
+
+Oppholdet må etter dette alternativet innebære en *alvorlig* fare for barnets liv eller helse. Det vil for eksempel ikke være nok at helsevesenet i det aktuelle landet er dårligere utbygd eller at helsehjelpen som tilbys er av lavere kvalitet enn i Norge. Det er ikke noe krav om at faren faktisk materialiserer seg.
+
+Utvalget foreslår ikke at bestemmelsen skal omfatte forhold som medfører alvorlig fare for barnets *utvikling*. Det er ingen entydig definisjon av hva som ligger i begrepet utvikling, og «alvorlig fare for helse» og «alvorlig fare for utvikling» er delvis overlappende. Begrepet «utvikling» benyttes i flere menneskerettighetskonvensjoner, blant annet i barnekonvensjonen artikkel 6 og i annen lovgivning, som barnevernsloven, jf. f.eks. § 1-1 (lovens formål). Barnekomitéen forstår utvikling bredt, «as a holistic concept, embracing the child’s physical, mental, spiritual, moral, psychological and social development».[^972] Utviklingsbegrepet favner med andre ord vidt, og innebærer at mange forhold av ulik art, som mangelfull skolegang, enklere levekår og strenge normsett, kan sette barnets utvikling i fare. Selv om det kreves at faren er alvorlig, mener utvalget at det å sende barn til forhold som medfører fare for barnets utvikling vil sette terskelen for det straffbare for lavt. Det er for øvrig ingen andre straffebestemmelser som bruker «fare for utvikling» i gjerningsbeskrivelsen.
+
+Det avgjørende vil være om oppholdet medfører slike farer som bestemmelsen gir anvisning på, ikke om barnet har samtykket til reisen eller ikke. Barnets eventuelle samtykke til utenlandsoppholdet fritar derfor ikke for straffansvar.
+
+#### Både aktive handlinger og passivitet bør kunne straffes
+
+Den danske straffebestemmelsen rammer den som «sender» sitt barn til utlandet. Ordlyden kan tyde på at bestemmelsen tar sikte på situasjoner der barnet reiser alene til utlandet, eller der barnet reiser sammen med en annen enn forelderen. «Sendes» skal imidlertid forstås videre, og forarbeidene omtaler også situasjoner der barnet reiser sammen med forelderen, både der barnet etterlates i utlandet og der en av eller begge foreldrene blir igjen sammen med barnet[^973]
+
+Etter utvalgets vurdering bør den norske bestemmelsen utformes slik at de ulike måtene bestemmelsen kan bli overtrådt på kommer klart fram i ordlyden. Dette vil være i samsvar med det strafferettslige klarhetskravet og gjør at man unngår tvil om hvilke handlinger som kan straffes. Utvalget foreslår derfor at det i ordlyden framgår at både det at barnet sendes til, tas med til eller etterlates i utlandet under forhold som omfattes av bestemmelsen, er straffbart.
+
+Bestemmelsen vil også ramme situasjoner der barnet er i utlandet sammen med en forelder under forhold som medfører alvorlig fare for liv eller helse eller for at barnet utsettes for alvorlige straffbare handlinger. Dersom barnet for eksempel må oppholde seg i et krigsherjet område, må gå på en skole der det risikerer å bli utsatt for fysiske avstraffelser eller blir avskåret fra nødvendig helsehjelp, kan forholdet være like alvorlig uavhengig av om barnet er sammen med en forelder eller ikke.
+
+Det følger av forarbeidene til den danske straffeloven § 215 a at straffebudet er brutt når barnet har forlatt sitt bosted eller oppholdssted i Danmark for å reise til utlandet.[^974] Etter utvalgets forslag vil gjerningsbeskrivelsen ikke være oppfylt før barnet faktisk sendes til, tas med til eller etterlates i utlandet, det vil si når barnet krysser landegrensen eller foreldrene forlater landet barnet blir etterlatt i. Straffbart forsøk vil imidlertid kunne foreligge idet barnet forlater bostedet for å reise ut av landet, jf. straffeloven § 16.
+
+Etter utvalgets syn bør straffebestemmelsen ikke bare ramme aktive handlinger, men også passivitet til at et skadelig utenlandsopphold kommer i stand eller fortsetter. En eksplisitt kriminalisering av passiv medvirkning til skadelige utenlandsopphold vil være i samsvar med det strafferettslige klarhetskravet. Bestemmelsen kriminaliserer derfor for det første tilfeller der en person med foreldreansvar unnlater å gripe inn mot at noen andre sender barnet til, tar det med til eller etterlater det i utlandet under forhold som omfattes av bestemmelsen. For det andre vil den ramme tilfeller der en forelder etter at oppholdet er påbegynt, får kjennskap til at oppholdet setter barnets liv eller helse i alvorlig fare eller det er alvorlig fare for at barnet blir utsatt for alvorlige straffbare handlinger, og unnlater å hente barnet tilbake eller foreta andre handlinger for å hjelpe barnet.
+
+Personer som unnlater å gripe inn for å hindre at et barn de har foreldreansvar for sendes til, eller etterlates i utlandet, under forhold som medfører alvorlig fare for barnet, kan sies å krenke barnets rett til integritet og beskyttelse i samme grad som den som selv står for utsendelsen eller etterlatelsen. Selv om en forelders passivitet etter omstendighetene vil kunne rammes som passiv medvirkning, mener utvalget likevel at passivitet bør være et selvstendig brudd på bestemmelsen. Det er av avgjørende betydning for barnet at foreldrene aktivt beskytter det mot skadelige utenlandsopphold.
+
+Utvalget har i tillegg lagt en viss vekt på at en eksplisitt kriminalisering av passivitet gjør at man unngår at det oppstår vanskelige spørsmål i vurderingen av om en forelder har opptrådt på en slik måte at passivt medvirkningsansvar er aktuelt. Det vises til vurderingen av kriminaliseringen av foreldres passivitet til at et barn inngår eller lever i et barneekteskap i kapittel 12. De samme hensyn gjør seg gjeldende for kriminalisering av passivitet til skadelige utenlandsopphold.
+
+#### Bortfall av straff dersom barnet blir returnert til Norge
+
+Eksistensen av en straffetrussel dersom barn utsettes for skadelige utenlandsopphold garanterer ikke at barnet blir returnert til Norge. Hvis foreldrene befinner seg i utlandet, enten sammen med barnet eller i et annet land, kan trusselen om straff ved retur til Norge gjøre at de velger å bli i utlandet. Det å unnlate å hente hjem barnet vil være et pågående straffbart forhold. Foreldrene som siktes for brudd på bestemmelsen kan etterlyses internasjonalt, men de kan bare straffeforfølges dersom de befinner seg i Norge.
+
+Utvalget mener derfor at det bør etableres en straffbortfallsgrunn dersom en forelder bidrar til at barnet blir returnert til Norge. En slik regel vil gi foreldrene et insentiv til å hente barnet tilbake til Norge, og dermed unngå straffeforfølging. Et bidrag som kan medføre straffbortfall vil for eksempel være at forelderen sørger for at barnet raskt får nødvendige reisedokumenter, og at det bestilles reise for barnet tilbake til Norge. Er barnet så lite at det ikke kan reise alene, må forelderen sørge for at noen kan følge barnet på reisen. I utgangspunktet må forelderen selv dekke kostnadene ved retur av barnet. Dersom forelderen ikke har midler til dette, kan det være aktuelt at det gis refusjon etter refusjonsordningen for utsatte for negativ sosial kontroll, tvangsekteskap og kjønnslemlestelse, som er omtalt i kapittel 29.
+
+Straffbortfallsgrunnen kan komme til anvendelse både under etterforskingen og etter at tiltale er tatt ut. Spørsmålet om straff skal bortfalle vil være en konkret vurdering fra påtalemyndigheten og eventuelt retten i den enkelte sak. I denne vurderingen vil det ha stor betydning om vedkommende henter barnet raskt tilbake til Norge. Det vil også ha betydning om forelderen har hentet barnet hjem av egen vilje, samt om barnet har vært utsatt for skade i utlandet.
+
+I saker om skadelige utenlandsopphold, i hvert fall der faren ikke har ført til en faktisk skade for barnet, er det ikke gitt at straffeforfølging er den mest hensiktsmessige reaksjonen. Det kan være grunn til å reagere med påtaleunnlatelse eller frafalle straffeforfølgingen dersom forelderen frivillig returnerer barnet til Norge, dersom dette er til det beste for barnet. Det vil være opp til påtalemyndigheten å vurdere hva som bør gjøres i den enkelte sak.
+
+Utvalget foreslår ikke en tilsvarende straffbortfallsgrunn i straffeloven § 261 om omsorgsunndragelse. Utvalget har lagt vekt på at § 261 rammer brudd på sivilrettslige regler om hvem barnet skal oppholde seg hos, og ikke er utformet med tanke på å beskytte barn mot fare eller skade. I forarbeidene til straffeloven § 261 er det lagt til grunn at straffeforfølging ikke alltid vil være den mest hensiktsmessige reaksjonen, og at det kan være grunn til å reagere med påtaleunnlatelse dersom forelderen frivillig returnerer barnet til Norge, eller dersom det er til det beste for barnet.[^975] Etter det utvalget kjenner til, praktiseres bestemmelsen på denne måten i dag, og behovet for å lovfeste en straffbortfallsgrunn i § 261 ser derfor ut til å være begrenset.
+
+#### Personkrets
+
+Det er ikke bare barn som utsettes for ufrivillige utenlandsopphold. De som sendes på utenlandsopphold av foreldrene, kan være unge over 18 år som fremdeles bor hjemme, eller unge som blir myndige under utenlandsoppholdet. Voksne kvinner kan også påtvinges et ufrivillig utenlandsopphold av sin ektemann i land der de er avhengige av mannens samtykke for å reise ut av landet.
+
+Utvalget er likevel av den oppfatning at barn har et særlig behov for den beskyttelsen et eget straffebud om utenlandsopphold vil gi, og at straffebestemmelsen ikke bør omfatte ufrivillige utenlandsopphold for voksne. Personer over 18 år vil i de fleste tilfeller ha større muligheter til å komme seg ut av situasjonen enn et barn. Voksne vil for eksempel ikke være avhengige av foreldrenes samtykke for å få utstedt reisedokumenter dersom disse er fratatt dem. Etter utvalgets forslag er det den som har foreldreansvar for barnet, og som svikter i ivaretakelsen av dette ansvaret, som kan straffes. Det å ta med eller etterlate en myndig person i utlandet under forhold som medfører fare for personen, innebærer som regel ikke at personen svikter i sitt omsorgsansvar, med mindre særlige omstendigheter foreligger, som psykisk utviklingshemming. Behovet for å kunne straffeforfølge handlinger voksne personer utsettes for i utlandet, vil også avhjelpes av forslaget i punktet ovenfor om å unnta mishandling i nære relasjoner og frihetsberøvelse fra krav om dobbel straffbarhet.
+
+Straffebestemmelsen kan komme til anvendelse uavhengig av barnets statsborgerskap, oppholdsgrunnlag eller oppholdstid i Norge. Der utlendingsmyndighetene har truffet et vedtak som innebærer at barnet må forlate riket, kan imidlertid ikke foreldrene holdes strafferettslig ansvarlig for etterlevelsen av vedtaket. Tilsvarende gjelder dersom barnet må forlate riket på grunn av manglende oppholdstillatelse. At reisen ikke er straffbar i slike tilfeller, følger av den alminnelige rettsstridsreservasjonen.
+
+#### Skyldkravet
+
+Utvalget legger til grunn at skyldkravet i det foreslåtte straffebudet i tråd med straffelovens hovedregel bør være forsett, jf. straffeloven §§ 21 og 22. Dette er samme skyldkrav som etter den danske straffebestemmelsen. Forelderen må derfor ha forsett både om at barnet sendes til eller etterlates i utlandet, og om at utenlandsoppholdet medfører en alvorlig fare for barnets liv eller helse eller for straffbare handlinger som nevnes i bestemmelsen. Utvalget understreker at det er tilstrekkelig med forsett om at utenlandsoppholdet medfører alvorlig fare, og at det ikke er noe krav etter bestemmelsen at barnet faktisk blir utsatt for skade.
+
+#### Strafferamme
+
+Som omtalt i kapittel 6 er det flere hensyn som må avveies ved fastsettelse av strafferammer. Strafferammen må kunne begrunnes i handlingens straffverdighet, forholdsmessigheten mellom ulike overtredelser, og den avskrekkende virkningen på mulige gjerningspersoner. Det å sende mindreårige på skadelige utenlandsopphold, er etter utvalgets syn et alvorlig inngrep i barnets integritet, noe som taler for en høy strafferamme. Samtidig stilles det ikke krav om at barnet faktisk blir utsatt for skade, for at foreldrene kan straffes, noe som tilsier at strafferammen ikke bør settes for høyt. Etter utvalgets syn bør derfor strafferammen settes til bot eller fengsel i inntil tre år, noe som tilsvarer strafferammen for frihetsberøvelse etter § 254 og hensettelse i hjelpeløs tilstand etter § 288.
+
+#### Foreldelse
+
+Utvalget foreslår at foreldelsesfristen for det nye straffebudet skal være utskutt, slik at den først begynner å løpe fra den dagen den fornærmede fyller 18 år. Barn som utsettes for skadelige utenlandsopphold vil ofte stå i et avhengighetsforhold til gjerningspersonen, og fornærmedes alder kan variere fra spedbarnsalder opp til myndighetsalder. Dette tilsier at den fornærmede bør ha lengre tid på seg til å anmelde forholdet enn den alminnelige foreldelsesfristen på fem år, og at foreldelsesfristen først bør begynne å løpe når den fornærmede fyller 18 år. Se utvalgets forslag til endringer i straffeloven § 87 første ledd andre punktum.
+
+#### Om konkurrens
+
+Ved konkurrens øker strafferammen i medhold av straffeloven § 79 bokstav a. Et utenlandsopphold vil etter omstendighetene kunne innebære brudd på flere straffebestemmelser, avhengig av hva barnet utsettes for under oppholdet.
+
+Straffebudet som foreslås her, krever ikke at barnet faktisk blir utsatt for skade, for at straffebudet er brutt. Dersom barnet blir utsatt for eksempelvis vold, mishandling eller frihetsberøvelse under oppholdet, vil det nye straffebudet kunne brukes i konkurrens med straffebudene som rammer de konkrete handlingene. Det vil her være snakk om brudd på ulike straffebestemmelser som skal ivareta ulike interesser.
+
+Det nye straffebudet vil også kunne benyttes i konkurrens med § 261 om omsorgsunndragelse, ettersom bestemmelsene skal verne til dels ulike interesser. Et straffebud om skadelige utenlandsopphold skal beskytte barnet mot alvorlig fare, mens bestemmelsen om omsorgsunndragelse skal verne barnets interesse av å få best mulig omsorg fra begge foreldre og den omsorgsberettigedes rett til å ha omsorg for eget barn. Det er den omsorgsberettigede som er fornærmet etter straffeloven § 261.
+
+### Særlig om diskrimineringsforbudet
+
+Utvalget har vurdert om forslaget om et eget straffebud om skadelige utenlandsopphold er i strid med diskrimineringsforbudet, jf. Grunnloven § 98 andre ledd og EMK artikkel 14. Diskrimineringsforbudet er inntatt i likestillings- og diskrimineringsloven § 6. Som omtalt i kapittel 10 (om æresmotiv som straffskjerpelsesgrunn) innebærer diskrimineringsforbudet at lovgivningen ikke kan utformes slik at enkeltpersoner blir direkte eller indirekte rammet på grunn av nærmere angitte forhold. En eventuell indirekte forskjellbehandling kan likevel være lovlig dersom den har et saklig formål, er nødvendig for å oppnå formålet og ikke er uforholdsmessig inngripende overfor den eller dem som forskjellsbehandles, jf. likestillings- og diskrimineringsloven § 9.
+
+Utvalgets forslag om et straffebud om skadelige utenlandsopphold er nøytralt utformet. Det vil likevel kunne ramme foreldre som har sterk tilhørighet til andre land i større grad enn andre, og dermed innebære indirekte diskriminering. Utvalget mener likevel at en eventuell forskjellsbehandling av disse foreldrene vil oppfylle kravene i likestillings- og diskrimineringsloven § 9.
+
+Det vises til vurderingen i punkt 14.5.2 om forslagets legitime formål og vurderingen av om tiltaket er forholdsmessig og nødvendig. Hensynet til å beskytte barn mot alvorlige farer utgjør et legitimt og saklig formål. Tiltaket går ikke lenger enn *nødvendig* for å oppnå formålet. Straffebudet er begrenset til de mest alvorlige tilfellene, og det åpnes for at straff kan bortfalle dersom foreldrene henter barnet tilbake til Norge. Utvalget mener at en eventuell indirekte forskjellsbehandling som følge av forslaget vil være *forholdsmessig*. Det kan ikke utelukkes at politiet vil etterforske om et utenlandsopphold er skadelig oftere der familien har innvandrerbakgrunn, enn der familien er etnisk norsk. Utvalget mener likevel at eventuelle ulemper ved slik etterforsking ikke er uforholdsmessige sett opp mot behovet for å beskytte barn mot skadelige utenlandsopphold.
+
+Det er derfor utvalgets vurdering at et straffebud om skadelige utenlandsopphold ikke strider mot forbudet mot diskriminering. En eventuell indirekte forskjellsbehandling vil ha et legitimt og saklig formål, være nødvendig for å oppnå formålet og vil ikke være et uforholdsmessig tiltak overfor den eller dem som eventuelt forskjellsbehandles.
+
+### Straff for å etterlate et barn i utlandet uten identitetsdokumenter bør utredes nærmere
+
+Utvalgets forslag til en ny straffebestemmelse vil ikke ramme personer som etterlater barn i utlandet uten pass eller andre gyldige identitetsdokumenter, så lenge utenlandsoppholdet ikke medfører alvorlig fare for liv og helse eller for at barnet blir utsatt for straffbare handlinger. Det å etterlate et barn uten identitetsdokumenter vil heller ikke i seg selv være straffbart etter andre straffebestemmelser. Til illustrasjon vises det til Gulating lagmannsretts dom av 03.10.2022 (LG-2022-84550), der moren ikke ble straffet for å etterlate et lite barn i et krigsherjet land uten ID-papirer eller nære omsorgspersoner. Hun ble bare straffet for omsorgsunndragelse etter straffeloven § 261 for å unndra to andre barn fra barnas far.
+
+Det kan ha flere negative konsekvenser for et barn å bli etterlatt i utlandet uten pass eller andre gyldige identitetsdokumenter, også der omsorgen for barnet er ivaretatt av andre enn foreldrene. At barnet mangler dokumenter, kan gjøre at barnet ikke har noen reell mulighet til å komme seg ut av landet det befinner seg i. I tillegg kan muligheten til å bevege seg fritt i landet begrenses, fordi det kan være straffbart å oppholde seg i landet uten gyldige identitetsdokumenter. Dersom barnet er ulovlig i landet, risikerer det å bli straffeforfulgt eller utsatt for andre inngripende tiltak av myndighetene. Selv om oppholdet ikke er ulovlig, for eksempel fordi barnet er statsborger i landet, kan mangelen på identitetsdokumenter gjøre at barnet ikke får grunnleggende skolegang eller nødvendige helsetjenester.
+
+Utvalget mener at det er gode grunner som tilsier at det å etterlate barn i utlandet uten pass eller andre gyldige identitetsdokumenter bør være straffbart etter en egen straffebestemmelse. Utvalget har ikke hatt anledning til å gå grundig inn i problemstillingen, men anbefaler at dette utredes nærmere.
+
+### Enkelte straffeprosessuelle spørsmål
+
+I saker om tvangsekteskap og menneskehandel har den fornærmede en ubetinget rett på bistandsadvokat, jf. straffeprosessloven § 107 a første ledd bokstav a. Utvalget foreslår at nytt straffebud om skadelig utenlandsopphold også utløser en slik ubetinget rett, se forslag til tilføyelse i straffeprosessloven § 107 a første ledd bokstav a.
+
+Etter straffeprosessloven § 239 første ledd skal tilrettelagte avhør brukes ved avhør av vitner under 16 år, herunder fornærmede, i saker om seksuallovbrudd, kroppsskade, drap, mishandling i nære relasjoner og kjønnslemlestelse. Det samme gjelder ved avhør av vitner med psykisk utviklingshemming eller annen funksjonsnedsettelse som medfører det samme behovet for tilrettelagte avhør. Tilrettelagt avhør kan også brukes i andre saker dersom hensynet til vitnet tilsier det. Kjernen i ordningen med tilrettelagte avhør er at vitnene ikke avhøres av en dommer, men på et barnehus av en spesialutdannet politietterforsker under ledelse av en påtalejurist, innen korte frister og uten at den mistenkte normalt varsles om det første avhøret.[^976] Videoopptak av det tilrettelagte avhøret trer som hovedregel i stedet for personlig forklaring ved hovedforhandling for tingretten, jf. straffeprosessloven § 298. Utvalget foreslår at bestemmelsen om tilrettelagt avhør også omfatter utvalgets forslag til ny § 269 om skadelig utenlandsopphold. Dette vil sikre at barns særlige behov blir bedre ivaretatt enn ved vanlige avhørsmetoder. Det samme gjelder for personer med psykisk utviklingshemming. Utvalget mener at krav om bruk av tilrettelagt avhør vil gi bedre vern for barn og særlig sårbare personer som er utsatt for skadelig utenlandsopphold.

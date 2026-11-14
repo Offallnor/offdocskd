@@ -1,957 +1,170 @@
-# NOU 2024: 13, del 17 av 47 (side 182–191)
+# NOU 2024: 13, del 17 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 182]
-
-180
-
-Kapittel 12
-
-NOU 2024: 13
-Lov og frihet
-
-12.2.2 Tvangsekteskap
-Straffeloven § 253 om tvangsekteskap er plassert i
-kapittel 24 om vern av den personlige frihet og
-fred, og lyder slik:
-Med fengsel inntil 6 år straffes den som ved
-vold, frihetsberøvelse, annen straffbar eller
-urettmessig atferd eller utilbørlig press tvinger
-noen
-a. til å inngå ekteskap
-b. inn i en ekteskapslignende forbindelse. I
-vurderingen av om det foreligger en ekteskapslignende forbindelse skal det legges
-vekt på om forbindelsen er varig, oppleves
-som bindende og etablerer rettigheter og
-plikter mellom partene av rettslig, religiøs,
-sosial eller kulturell karakter.
-På samme måte straffes den som ved å forlede eller på annen måte medvirker til at en person reiser til et annet land enn der personen er
-bosatt, med forsett om at personen der vil bli
-utsatt for en handling som nevnt i første ledd.
-Bestemmelsen er en videreføring av straffeloven
-1902 § 222 andre ledd med enkelte pedagogiske
-endringer. Et eget forbud mot tvangsekteskap ble
-først vedtatt i 2003.8 Straffebudet verner om retten til å kunne definere sitt eget liv gjennom å ta
-selvstendige valg, altså personlig frihet, herunder
-den fornærmedes fysiske integritet og selvråderett.9
-Den straffbare handlingen i § 253 første ledd
-består i å «tvinge noen» til å inngå ekteskap eller
-inn i en ekteskapslignende forbindelse. Formuleringen «tvinger» innebærer ifølge forarbeidene å
-sette noen ute av stand til å handle frivillig.10 Den
-fornærmede må selv mene seg utsatt for tvang.11 I
-utgangspunktet må den som inngår ekteskapet
-selv ha blitt utsatt for et press.12 Men den rettsstridige atferden kan også være rettet mot andre som
-står i et slikt forhold til den som inngår ekteskap,
-at vedkommende tvinges til å handle mot sin
-vilje.13
-8
-
-Ved lov 4. juli 2003 nr. 76 om endringar i straffelova mv.
-(styrka innsats mot tvangsekteskap mv.).
-9 Holter 2022: Karnov lovkommentar til straffeloven 2005
-§ 253.
-10 Ot.prp. nr. 51 (2002–2003) punkt 3.1.1 og Innst. O. nr. 106
-(2002–2003) side 3.
-11 Ot.prp. nr. 51 (2002–2003) punkt 3.1.1.
-12
-Innst. O. nr. 106 (2002–2003) punkt 3.
-13 Innst. O. nr. 106 (2002–2003) punkt 3.1.
-
-Tvangsvilkåret innebærer at bestemmelsen
-avgrenses mot arrangerte ekteskap. I Innst. O. nr.
-106 (2002–2003) omtales skillet mellom tvangsekteskap og arrangerte ekteskap slik:
-Begrepet arrangerte ekteskap henspeiler etter
-komiteens mening til at familien deltar aktivt
-for å finne eller foreslå kandidater til ektemake.
-Avgjørende for spørsmålet om det foreligger
-tvang, blir om forslaget til ektemake reelt gir
-den unge en mulighet til å takke nei. Dersom
-det arrangerte ekteskapet er inngått fordi en
-part er utsatt for et press, og dette presset er så
-utilbørlig at vedkommende opplever å ikke ha
-et valg, vil det etter komiteens mening være
-straffbar tvang.14
-
-Tvangen må gjennomføres ved et middel, enten
-ved vold, frihetsberøvelse, annen straffbar eller
-urettmessig atferd eller utilbørlig press. Med mindre slike midler benyttes, vil ikke ekteskapet være
-et tvangsekteskap i straffelovens forstand. Alternativene «vold» og «frihetsberøvelse» tilsvarer
-henholdsvis vilkårene i straffeloven § 271 om
-kroppskrenkelse og § 254 om frihetsberøvelse.
-For eksempel kan den fornærmede tvinges til å
-inngå et ekteskap gjennom å bli slått eller sperret
-inne.
-Alternativet «annen straffbar eller urettmessig atferd» tilsvarer vilkårene i straffeloven § 251
-om tvang. Et klart eksempel på slik atferd er ifølge
-forarbeidene at den fornærmede blir utsatt for
-vanskjøtsel slik at vedkommende aksepterer å
-inngå ekteskap.15 Trusler om en straffbar handling vil også innebære rettsstridig atferd.16 Vilkåret «urettmessig atferd» viser til «andre normer
-enn rettsregler, som for eksempel hva som regnes
-som akseptabel atferd på et bestemt livsområde».17 Det er tilstrekkelig at handlingen er tillagt negative rettsvirkninger.18 Se mer om vilkåret
-«urettmessig atferd» i kapittel 7.
-Straffbar tvang til å inngå ekteskap kan også
-skje i form av «utilbørlig press». Dette innebærer
-at terskelen for straffbar tvang er lavere etter
-denne bestemmelsen enn etter den generelle
-tvangsbestemmelsen i § 251. Ifølge forarbeidene
-sikter begrepet til «sosiale sanksjoner som kan
-ramme hardt, men som ikke er straffbare og som
-heller ikke strider mot andre rettslige normer».19
-14
-
-Ibid.
-Ibid.
-16 Ibid.
-17
-Ot.prp. nr. 8 (2007–2008) punkt 2.3.8.
-18 Ot.prp. nr. 22 (2008–2009) punkt 5.2.1.2.
-15
-
-[Side 183]
-
-NOU 2024: 13
-Lov og frihet
-
-Som et eksempel vises det til «varig utelukkelse
-fra et sosialt fellesskap av stor betydning, eller å
-true med dette.»20 I Innst. O. nr. 106 (2002–2003)
-presiserer justiskomiteen at psykisk press vil
-kunne rammes:
-For eksempel vil trusselen om å fullstendig
-avskjære en person fra familien om vedkommende ikke gifter seg, kunne utsette personen
-for et så sterkt press at trusselen er rettsstridig.
-Videre vil k o m i t e e n påpeke at ulike former
-for psykisk press, som enkeltvis ikke er å anse
-som rettstridig adferd i straffelovens forstand,
-må vurderes samlet i relasjon til spørsmålet om
-det i det konkrete tilfellet har forekommet rettstridig adferd eller tvang.21
-
-Et eksempel på psykisk press til å inngå ekteskap
-finnes i Rt. 2014 s. 205. Dommen gjaldt straffutmåling for forsøk på et religiøst inngått tvangsekteskap. Den domfelte var funnet skyldig i å ha forsøkt å tvinge datteren til å gifte seg ved utilbørlig
-press. Høyesterett uttalte at forsøket skjedde gjennom et vedvarende sosialt press og ved å iverksette konkrete tiltak for å gjennomføre
-tvangsekteskapet.22 Det ble ikke brukt fysisk vold
-eller trusler om fysisk vold.
-Etter straffeloven § 253 første ledd bokstav b
-rammes den som tvinger noen til å inngå en «ekteskapslignende forbindelse». Alternativet ble tatt
-inn i 2021.23 Formuleringen sikrer at såkalte utenrettslige ekteskap, altså ekteskap som ikke er formelt gyldige, likestilles med sivilrettslige ekteskap. Formålet er å sikre at straffebudet rammer
-forbindelser som skaper en tilknytning mellom
-partene som i praksis har sterke fellestrekk med
-tilknytningen i rettslig gyldige ekteskap.24
-Ifølge departementet er det uten betydning
-hvordan forbindelsen etableres, og det er ikke
-nødvendig at det skjer en seremoniell inngåelse.25
-Det er heller ikke nødvendig at forbindelsen etableres på et bestemt tidspunkt. Etter omstendighetene kan en person tvinges inn i en slik forbindelse over tid.26
-
-19
-
-Ot.prp. nr. 22 (2008–2009) merknader til § 253.
-Ibid.
-21 Innst. O. nr. 106 (2002–2003) punkt 3.1.
-22 Rt. 2014 s. 205 (avsnitt 10).
-23 Ved lov 5. mars 2021 nr. 6 om endringer i lov 20. mai 2005
-nr. 28 om straff.
-24 Prop. 66 L (2019–2020) punkt. 4.7.
-25 Prop. 66 L (2019–2020) merknader til § 253.
-26 Ibid.
-20
-
-181
-
-Kapittel 12
-
-For at det skal foreligge en ekteskapslignende
-forbindelse, er det ikke nok at forbindelsen ligner
-på et hvilket som helst samboerforhold.27 I vurderingen av om noe er en ekteskapslignende forbindelse, skal det legges vekt på om forbindelsen er
-varig, om den oppleves som bindende av partene
-selv og deres sosiale krets, og om den etablerer
-rettigheter og plikter mellom partene av rettslig,
-religiøs, sosial eller kulturell karakter. Rettighetene og pliktene kan bygge på både formelle og
-uformelle normer, og de kan ha en rettslig karakter som ikke anerkjennes i Norge.28
-Etter straffeloven § 253 andre ledd straffes
-den som «forleder eller på annen måte medvirker
-til at en person reiser til et annet land for å bli
-tvunget inn i et ekteskap eller en ekteskapslignende forbindelse». Bestemmelsen ble innført for
-å oppfylle kravet i Istanbul-konvensjonen artikkel
-37 nr. 2, som forplikter partene til å kriminalisere
-det å forlede noen til å reise til utlandet dersom
-handlingen skjer med forsett om å tvinge personen til å inngå ekteskap. Straffeloven § 253 andre
-ledd omtales nærmere i kapittel 14 om straff ved
-skadelig utenlandsopphold.
-Straffeloven § 253 omfattes av avvergingsplikten etter straffeloven § 196. Handlinger som anses
-som tvangsekteskap er også unntatt fra kravet om
-dobbelt straffbarhet, jf. straffeloven § 5 første ledd
-nr. 4. At unntaket fra krav om dobbel straffbarhet
-gjelder handlinger som «anses som» tvangsekteskap, gjør at unntaket også gjelder ekteskapslignende forbindelser, jf. lovens § 253 første ledd
-bokstav b.
-Bestemmelsen er videre omfattet av reglene
-om utskutt tidspunkt for foreldelse, slik at
-utgangspunktet for foreldelsesfristen etter § 87 er
-den dagen den fornærmede fyller 18 år.
-Det finnes få rettsavgjørelser etter straffeloven
-§ 253 om tvangsekteskap. Lidén og Bredal (2017)
-identifiserte totalt 13 straffesaker om tvangsekteskap og/eller barneekteskap i perioden mellom
-2002 og 2016.29
-
-12.2.3 Barneekteskap
-Straffeloven § 262, som er plassert i straffeloven
-kapittel 24 om vern av den personlige frihet og
-fred, omhandler straff ved brudd på ekteskapsloven. Andre ledd straffer den som inngår ekteskap
-med noen under 16 år, og lyder slik:
-27
-
-Holter 2022: Karnov lovkommentar til straffeloven 2005
-§ 253.
-28 Prop. 66 L (2019–2020) merknader til § 253.
-29 Lidén og Bredal 2017: side 109.
-
-[Side 184]
-
-182
-
-Kapittel 12
-
-NOU 2024: 13
-Lov og frihet
-
-Den som inngår ekteskap med noen under 16
-år, straffes med fengsel inntil 3 år. På samme
-måte straffes den som etablerer en ekteskapslignende forbindelse som nevnt i § 253, med
-noen som er under 16 år. Den som var uvitende
-om at fornærmede var under 16 år, kan likevel
-straffes hvis vedkommende på noe punkt kan
-klandres for sin uvitenhet. Straff kan bortfalle
-dersom ektefellene er omtrent jevnbyrdige i
-alder og utvikling.
-
-Forbudet mot barneekteskap ble inntatt i straffeloven 1902 § 220 i 2003.30 Begrunnelsen for et
-eget straffebud om barneekteskap er at det er en
-sterk presumsjon for at det foreligger tvang når
-ektefellen er under 16 år, uavhengig av barnets
-opplevelse. Ifølge forarbeidene kan alle ekteskap
-inngått med barn under 16 år defineres som
-tvangsekteskap, fordi barn ikke har samtykkekompetanse til å inngå ekteskap.31
-Da straffebestemmelsen ble innført, var det
-mulig for personer mellom 16 og 18 år å inngå
-ekteskap etter samtykke fra fylkesmannen. Da det
-i 2018 ble innført en absolutt aldersgrense på 18 år
-for å inngå ekteskap i Norge, ble det ikke ansett å
-være grunn til å heve aldersgrensen i straffeloven
-§ 262. I Prop. 49 L (2017–2018) forklares denne
-vurderingen:
-Bakgrunnen for regelen i straffeloven er blant
-annet at det er en sterk presumsjon for at ekteskapet er inngått ved tvang, når minst én av
-ektefellene er yngre enn 16 år. Denne presumsjonen gjør seg ikke gjeldende på samme måte
-når personene er mellom 16 og 18 år. Det vises
-også til at den seksuelle lavalder i dag er 16 år,
-og at seksuell omgang med personer under 16
-år er straffbart jf. straffeloven §§ 302 flg.32
-
-Straffeloven § 262 andre ledd rammer både sivilrettslige ekteskap og ekteskapslignende forbindelser med noen som er under 16 år. Bestemmelsen rammer bare den som inngår ekteskapet. Foreldre med foreldreansvar eller verger som samtykker og arrangerer ekteskapet, rammes dermed
-ikke direkte av bestemmelsen, men vil kunne
-omfattes av straffeloven § 15 om medvirkning.
-Utgangspunktet er at det kreves forsett for
-overtredelse av straffeloven § 262 andre ledd, se
-straffeloven § 21. Loven gjør imidlertid et unntak
-30
-
-Ved lov 4. juli 2003 nr. 76 om endringar i straffelova mv.
-(styrka innsats mot tvangsekteskap mv.).
-31 Ot.prp. nr. 51 (2002–2003) punkt 3.3.3.
-32 Prop. 49 L (2017–2018) punkt 8.2.
-
-fra forsettskravet når det gjelder kunnskap om
-ektefellens alder. Etter § 262 andre ledd tredje
-punktum kan den som var uvitende om at den fornærmede var under 16 år, likevel straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet. Ordlyden «på noe punkt kan klandres»
-viser at det er et strengt aktsomhetskrav. Spørsmålet er om tiltalte burde ha forstått hvor gammel
-ektefellen reelt sett var ved ekteskapsinngåelsen,
-typisk fordi vedkommende kunne og burde ha
-funnet ut av dette ved å undersøke nærmere.33
-Etter § 262 andre ledd fjerde punktum kan
-straff bortfalle dersom ektefellene eller partnerne
-var omtrent jevnbyrdige i alder og utvikling. Det
-er relativt hva som aksepteres som jevnbyrdig, og
-forholdet vil bedømmes strengere hvis barnet er
-14 år eller yngre.34 Ordlyden «kan bortfalle» innebærer at det må gjøres en vurdering av om
-bestemmelsen skal brukes.
-Straffeloven § 262 andre ledd er omfattet av
-avvergingsplikten etter straffeloven § 196. Det er
-ikke gitt særlige regler om foreldelse av brudd på
-reglene om barneekteskap, og straffansvaret foreldes dermed etter 5 år fra ekteskapet ble inngått,
-jf. straffeloven § 86 første ledd bokstav b.
-Handlinger som anses som barneekteskap, er
-unntatt fra kravet om dobbelt straffbarhet, jf. straffeloven § 5 første ledd nr. 4. At unntaket fra krav
-om dobbel straffbarhet gjelder handlinger som
-«anses som» barneekteskap, gjør at unntaket også
-gjelder ekteskapslignende forbindelser med en
-person under 16 år, jf. § 262 andre ledd andre
-punktum.
-Bestemmelsen om barneekteskap kan benyttes i konkurrens med bestemmelsen om
-tvangsekteskap.35 Bestemmelsen om barneekteskap kan også benyttes i konkurrens med straffeloven §§ 282 og 283 om mishandling i nære relasjoner, ettersom det kan være snakk om flere faktiske handlinger som gjelder ulike faktiske overtredelser som beskytter ulike rettsgoder. Det
-samme gjelder straffeloven §§ 251 og 252 om
-tvang, 254 og 255 om frihetsberøvelse, 263 og 264
-om trusler og kapittel 26 om seksuallovbrudd.
-Bestemmelsen om barneekteskap er lite
-anvendt i rettspraksis. Det er bare inntatt én dom i
-lovdata om barneekteskap etter 2015, LF-2019105361, med tiltale for forsøk på ekteskapsinngåelse med noen under 16 år, og seksuell omgang
-33
-
-Holter 2022: Karnov lovkommentar til straffeloven 2005
-§ 262.
-34 Se blant annet Rt. 2005 s. 1651, Rt. 2010 s. 669 og Rt. 2013 s.
-734.
-35 Ot.prp. nr. 51 (2002–2003) punkt 3.3.5.
-
-[Side 185]
-
-NOU 2024: 13
-Lov og frihet
-
-med barn mellom 14 og 16 år. Lagmannsretten
-fant det bevist ut over enhver rimelig tvil at den tiltalte forsøkte å inngå ekteskap med den fornærmede. Den tiltalte ble likevel frifunnet, fordi flertallet kom til at det var tvil om den fornærmede
-var under 16 år på handlingstiden, særlig på
-grunnlag av motstridende opplysninger i syriske
-og irakiske dokumenter.36
-Det har imidlertid nylig (7. mars 2024) vært
-avsagt en lagmannsrettsdom om barnekteskap
-etter straffeloven § 262.37 Saken gjaldt inngåelse
-av et ekteskapslignende forhold med et barn
-under 16 år. Spørsmålet var om de tiltalte hadde
-medvirket til at det ble etablert en ekteskapslignende forbindelse mellom tiltalte og fornærmede.
-Hovedtiltalte er vedkommende som inngikk det
-ekteskapslignende forholdet og de to øvrige tiltalte er hans foreldre. For post I reiste saken også
-et spørsmål om norsk jurisdiksjon. For post II var
-det et spørsmål om bilder tatt av fornærmede var
-å anse som framstilling som seksualiserer barn og
-som rammes av straffeloven § 311 første ledd jf.
-andre ledd. De tre tiltalte ble i tingretten dømt til
-fengsel i 11 måneder og til å betale oppreisningserstatning til fornærmede. Etter ankeforhandlingen i lagmannsretten ble de tiltalte dømt til
-samme straffereaksjon og erstatning.
-
-12.2.4 Enkelte straffeprosessuelle spørsmål
-I saker om tvangsekteskap og menneskehandel
-har den fornærmede en ubetinget rett på
-bistandsadvokat, jf. straffeprosessloven § 107 første ledd bokstav a. Straffeloven § 262 andre ledd
-om barneekteskap utløser ikke en slik ubetinget
-rett. I slike saker kan bistandsadvokat oppnevnes
-der sakens art og alvor, hensynet til de berørte
-eller andre særlige forhold tilsier det, jf. § 107
-tredje ledd.
-Etter straffeprosessloven § 239 første ledd skal
-tilrettelagte avhør brukes ved avhør av vitner
-under 16 år, herunder fornærmede, i saker om
-seksuallovbrudd, kroppsskade, drap, mishandling
-i nære relasjoner og kjønnslemlestelse. Det
-samme gjelder ved avhør av vitner med psykisk
-utviklingshemming eller annen funksjonsnedsettelse som medfører det samme behovet for tilrettelagte avhør. Tilrettelagt avhør kan også brukes i
-andre saker dersom hensynet til vitnet tilsier det.
-36
-
-En annen dom er LB-2012-116152, men denne dreier seg
-om et ganske spesielt tilfelle der datteren selv ønsket å
-inngå ekteskap i Pakistan pga. graviditet. Se også TOSLO2010-188517.
-37 LA-2023-183523.
-
-183
-
-Kapittel 12
-
-Tilrettelagt avhør kan brukes i saker om
-tvangsekteskap eller barneekteskap dersom hensynet til vitnet tilsier det, men det er ikke noe lovpålagt krav om tilrettelagte avhør i slike saker.
-Kjernen i ordningen med tilrettelagte avhør er at
-vitnene ikke avhøres av en dommer, men på et
-barnehus av en spesialutdannet politietterforsker
-under ledelse av en påtalejurist, innen korte frister og uten at den mistenke normalt varsles om
-det første avhøret.38 Videoopptak av det tilrettelagte avhøret trer som hovedregel i stedet for personlig forklaring ved hovedforhandling for tingretten, jf. straffeprosessloven § 298.
-Reglene om tilrettelagt avhør trådte i kraft 2.
-oktober 2015. Tidligere var det krav om dommeravhør i saker om «forbrytelse eller forseelse mot
-sedelighet». I praksis ble dommeravhør også
-benyttet i saker om drap og familievold (straffeloven 1902 § 219), og av og til i andre voldssaker.
-Dommeravhør har også blitt benyttet i saker om
-ran og om kjønnslemlestelse.39
-Vitner under 15 år og vitner med høy grad av
-psykisk utviklingshemming kan ikke fritas for vitneplikt eller forklaringsplikt etter straffeprosessloven §§ 122 og 123 i saker der tilrettelagte
-avhør er obligatoriske, jf. § 239 a andre ledd.
-Begrunnelsen er ifølge forarbeidene at det vil
-være i strid med barnets beste å sette det i en lojalitetskonflikt ved å overlate avgjørelsen om å forklare seg til barnet i denne typen saker.40 I forarbeidene er det videre vist til at konsekvensen av at
-et barn ikke forklarer seg kan være at saken ikke
-blir oppdaget slik at siktede fortsetter å begå overgrep. Barnet vil heller ikke få hjelp til å bearbeide
-hendelsene.41 Dersom tilrettelagte avhør blir
-brukt i andre saker enn de lovpålagte, gjelder vitnefritaksreglene på vanlig måte.
-
-12.3 Andre lands rett
-12.3.1 Danmark
-Den danske straffeloven § 260 om ulovlig tvang
-rammer blant annet den som ved vold eller trusler
-om vold, om betydelig skade på gods eller om frihetsberøvelse tvinger noen til å gjøre, tåle eller
-unnlate noe. De relevante delene av bestemmelsen lyder slik:
-38
-
-Keiserud m.fl. 2023: Juridika lovkommentar til straffeprosessloven § 239.
-39 Prop. 112 L (2014–2015) punkt 5.1.
-40 Prop. 112 L (2014–2015) punkt 10.4.
-41 Ibid.
-
-[Side 186]
-
-184
-
-Kapittel 12
-
-NOU 2024: 13
-Lov og frihet
-
-Stk. 1. Med bøde eller fængsel indtil 2 år straffes for ulovlig tvang den, som
-1) ved vold eller ved trussel om vold, om
-betydelig skade på gods, om frihedsberøvelse
-eller om at fremsætte usand sigtelse for strafbart eller ærerørigt forhold eller at åbenbare
-privatlivet tilhørende forhold tvinger nogen til
-at gøre, tåle eller undlade noget,
-[…]
-Stk. 2. Tvinges nogen til at indgå ægteskab
-eller til en religiøs vielse uden borgelig gyldighed eller til at indgå i et andet ægteskabslignende forhold, eller fastholdes nogen ved
-tvang i et sådant ægteskab eller forhold, kan
-straffen stige til fængsel indtil 4 år.
-Strafferammen er bøter eller fengsel i inntil to år.
-Etter stk. 2 forhøyes strafferammen til inntil fire
-år dersom noen tvinges til å inngå ekteskap, til en
-religiøs vielse uten borgerlig gyldighet eller til å
-inngå et annet ekteskapslignende forhold. Den
-samme strafferammen gjelder dersom noen tvinges til å bli i et slikt ekteskap eller forhold. I forarbeidene er det uttalt at tvangsbestemmelsens første ledd rammer tilfeller der en person ved vold
-eller trusler om vold tvinges til å bli i et ekteskap.42 Også de som medvirker, for eksempel foreldre som oppfordrer sin sønn til å utøve vold for å
-få sin ektefelle til å bli i ekteskapet, vil kunne rammes av den eksisterende bestemmelsen, jf. § 23
-om medvirkningsansvar. Det ble ikke ansett som
-rimelig at den som tvinger en annen til å bli i et
-ekteskap, skulle straffes mildere enn den som
-tvinger personen til å inngå ekteskapet. Også det
-å tvinge noen til å bli i et ekteskap burde etter
-departementets syn omfattes av den høyere strafferammen på fire år.43
-Straffeloven § 260 a om barneekteskap lyder
-slik:
-
-borgerlig gyldighed eller i et andet ægteskabslignende forhold med en person under 18 år.
-Bestemmelsen stk. 1 rammer den som forretter
-en religiøs vielse uten borgerlig gyldighet eller
-inngåelsen av et annet ekteskapslignende forhold
-der en av partene er under 18 år. Strafferammen
-er bøter eller fengsel i inntil to år. Bestemmelsen
-rammer også dem som forretter en vielse som
-ville vært borgerlig gyldig dersom partene var
-over 18 år. Bestemmelsen krever forsett for alle
-deler av bestemmelsens innhold, herunder partenes alder.44
-Paragraf 260 a stk. 2 rammer foreldre som lar
-sitt barn inngå i en religiøs vielse uten borgerlig
-gyldighet eller i et annet ekteskapslignende forhold. Paragrafen rammer også den som er over 18
-år, og som frivillig inngår en slik forbindelse med
-en person under 18 år. Det er uten betydning om
-foreldrene har foreldreansvar eller ikke.45
-Bestemmelsen rammer både aktive handlinger og
-passivitet fra foreldrenes side for å forhindre inngåelsen. Strafferammen er også her bøter eller
-fengsel i inntil to år.
-Foreldelsesfristen både for tvangsekteskap og
-for barneekteskap løper fra den fornærmede fyller
-21 år, jf. straffeloven § 94 stk. 4.
-
-12.3.2 Sverige
-Den svenske brottsbalken (1962:700) 4. kap. 4 c §
-kriminaliserer både tvangsekteskap og barneekteskap, og lyder slik:
-Den som, i annat fall än som avses i 1 a §
-[om menneskehandel – utvalgets tilføyelse],
-genom olaga tvång eller utnyttjande av utsatt
-belägenhet förmår en person att ingå ett äktenskap som är giltigt i den stat där det ingås, i den
-stat enligt vars lag det ingås eller i en stat i vilken minst en av makarna är medborgare eller
-har hemvist döms för äktenskapstvång till fängelse i högst fyra år.
-Detsamma gäller den som på sätt som
-anges i första stycket förmår någon att ingå en
-äktenskapsliknande förbindelse, om den ingås
-enligt regler som gäller inom en grupp och
-som
-1. innebär att parterna betraktas som makar
-och anses ha rättigheter eller skyldigheter i
-förhållande till varandra, och
-
-Stk. 1. Den, som forestår en religiøs vielse
-uden borgerlig gyldighed eller indgåelsen af et
-andet ægteskabslignende forhold med en person under 18 år, straffes med bøde eller fængsel indtil 2 år.
-Stk. 2. På samme måde straffes den, som lader
-sit barn indgå i en religiøs vielse uden borgerlig gyldighed eller i et andet ægteskabslignende forhold, og den, som efter at være fyldt
-18 år frivilligt indgår i en religiøs vielse uden
-42
-
-2020/1 LSF 126 Forslag til lov om ændring af straffeloven,
-lov om pas til danske statsborgere m.v. og udlændingeloven
-(Styrket indsats mod negativ social kontrol m.v.) punkt 2.2.
-43 2020/1 LSF 126 punkt 2.2.
-
-44
-45
-
-2020/1 LSF 126 merknader til § 260 a.
-Ibid.
-
-[Side 187]
-
-NOU 2024: 13
-Lov og frihet
-
-2. innefattar frågan om upplösning av förbindelsen.
-Den som begår en gärning som avses i första eller andra stycket mot en person som inte
-har fyllt arton år, döms för barnäktenskapsbrott till fängelse i högst fyra år. För barnäktenskapsbrott döms också den som i annat fall
-förmår eller tillåter en person som inte har fyllt
-arton år att ingå ett äktenskap som är giltigt på
-sätt som anges i första stycket eller en äktenskapsliknande förbindelse enligt vad som
-anges i andra stycket. Detta gäller även om den
-som begår en sådan gärning inte haft uppsåt till
-men varit oaktsam beträffande omständigheten att den andra personen inte fyllt arton år.
-Straffansvaret etter bestemmelsen omfatter flere
-handlinger enn dem som rammes av bestemmelsen om ulovlig tvang i brottsbalken 4. kap. 4 §. I
-forarbeidene er det vist til at det ofte ikke er nødvendig å utøve tvang i egentlig forstand for å få en
-yngre person til å inngå ekteskap mot sin vilje.46
-Tredje ledd om barneekteskap trådte i kraft 1.
-juli 2020. I motsetning til tvangsekteskap krever
-ikke bestemmelsen at det er benyttet ulovlig
-tvang eller utnyttelse av en utsatt posisjon. Selv
-om barneekteskap før dette i stor grad ville kunne
-rammes av de eksisterende bestemmelsene om
-tvangsekteskap, også der det var anvendt mildere
-påtrykk enn ulovlig tvang, ble det i forarbeidene
-vist til at flere forhold talte for å innføre et særskilt
-straffebud.47 Blant annet ville det sende et tydelig
-signal fra lovgiver om at barneekteskap ikke er
-akseptabelt. Videre ville en særskilt straffebestemmelse kunne virke avskrekkende for dem
-som vurderer å medvirke til et barneekteskap, og
-det ville kunne hjelpe familier til å stå imot press
-fra slektninger. Et eget straffebud ville også
-kunne hjelpe dem som står under press om å gifte
-seg med et barn, og barn som risikerer press for å
-gifte seg. Alternativet om at noen «tillåter» at en
-mindreårig inngår ekteskap, omfatter både aktive
-handlinger og passiv tillatelse.48
-Strafferammen for tvangsekteskap og barneekteskap er fengsel i inntil fire år. Bestemmelsen
-er unntatt fra kravet om dobbel straffbarhet, jf. 1.
-kap. 5 § andre ledd nr. 4 bokstav a. Det er ikke gitt
-
-46
-
-Prop. 2013/14:208 Stärkt skydd mot tvångsäktenskap och
-barnäktenskap samt tillträde till Europarådets konvention
-om våld mot kvinnor punkt 6.1.
-47 Prop. 2019/20:131 Ökat skydd mot hedersrelaterad brottslighet punkt 5.2.
-48
-Prop. 2019/20:131 merknader til 4 c § tredje ledd.
-
-185
-
-Kapittel 12
-
-regler om utskutt foreldelsesfrist for barneekteskap og tvangsekteskap.
-Etter brottsbalken 4. kap. 4 d § straffes den
-som villeder en annen til å reise til en annen stat
-for å bli utsatt for en handling som rammes av 4 c §.
-Strafferammen er fengsel i inntil to år. For overtredelser begått i utlandet er det krav om dobbel
-straffbarhet, jf. 1. kap. 5 § første ledd.
-Brottsbalken 4. kap. 4 c § rammer ikke tvang
-til å forbli i et ekteskap eller et barneekteskap.
-Spørsmålet om slik tvang burde omfattes av
-bestemmelsen ble vurdert i Prop. 2019/20:131,49
-men det ble avvist blant annet fordi personkretsen
-ville være vanskelig å avgrense, og fordi det er
-ulikt syn på oppløsning av ekteskap innenfor ulike
-religioner. Det ville derfor være vanskelig å
-utforme et straffebud som kunne forventes å bli
-tilstrekkelig effektivt. Det ble i tillegg vist til at
-tvang til å forbli i et ekteskap ville kunne rammes
-av den alminnelige tvangsbestemmelsen.
-
-12.4 Utvalgets vurderinger og forslag
-12.4.1 Straffeloven § 253 om tvangsekteskap
-Utvalget har vurdert om straffeloven § 253 om
-tvangsekteskap bør utvides til å omfatte tvang til å
-forbli i et ekteskap. Etter dagens straffebestemmelse rammes ikke det å tvinge noen til å forbli i
-et ekteskap, bare det å tvinge noen til å inngå
-ekteskapet eller den ekteskapslignende forbindelsen. Den danske straffeloven § 260 a stk. 2 rammer det å tvinge noen til å forbli i et ekteskap.
-Utvalget har likevel kommet til at det ikke er
-behov for en slik endring. Hovedbegrunnelsen er
-at tvang til å forbli i et ekteskap i all hovedsak allerede rammes av andre straffebestemmelser, slik
-som straffeloven § 251 om tvang. Utvalget har
-også lagt en viss vekt på at norsk lovgivning gir en
-ektefelle rett til skilsmisse uavhengig av om den
-andre samtykker.
-Om straffeloven § 253 utvides til å ramme
-press til å forbli i et ekteskap, vil det riktignok øke
-strafferammen for denne typen tvang fra fengsel
-inntil 2 år (§ 251) til fengsel inntil 6 år (§ 253).
-Grov tvang kan straffes med fengsel inntil 6 år
-etter straffeloven § 252, noe som reduserer behovet for en endring av § 253. Men det å tvinge en
-person til å bli i et ekteskap gjennom «utilbørlig
-press» rammes ikke av § 251, som har et strengere tvangsbegrep, se ovenfor. Utilbørlig press
-kan være for eksempel trusler om sosiale sanksjoner, moralsk fordømmelse og utestengelse fra
-49
-
-Prop. 2019/20:131 punkt 5.5.4.
-
-[Side 188]
-
-186
-
-Kapittel 12
-
-NOU 2024: 13
-Lov og frihet
-
-familien eller miljøet dersom en person skiller
-seg. Utvalget ser likevel ikke dette som et tilstrekkelig tungtveiende argument for å utvide § 253, og
-viser til at heller ikke den danske bestemmelsen
-rammer andre former for tvang enn det som rammes av den alminnelige tvangsbestemmelsen.
-Etter utvalgets oppfatning vil atferd som presser
-noen til å forbli i et ekteskap dekkes av andre
-straffebestemmelser, i første rekke bestemmelsene om straffbare trusler og hensynsløs atferd.
-Alvorlige krenkelser vil også kunne rammes av
-bestemmelsen om mishandling i nære relasjoner.
-Press til å forbli i et ekteskap kan være en del
-av et mishandlingsregime som rammes av straffeloven §§ 282 og 283 om mishandling i nære relasjoner. Det kreves da at slikt press inngår i et
-mønster som resulterer i at den som rammes, må
-leve i et regime preget av kontinuerlig utrygghet
-og frykt for vold, jf. for eksempel HR-2019-621-A.50
-I denne vurderingen kan krenkelser som i seg
-selv ikke er straffbare, vektlegges, jf. for eksempel
-HR-2018-112-A.51 Det innebærer at press til å forbli i et ekteskap eller en ekteskapslignende forbindelse kan være en del av et mishandlingsregime,
-selv om presset som utøves isolert sett ikke utgjør
-straffbar tvang etter straffeloven § 251. Dette gjelder uavhengig av om det er tale om et sivilrettslig
-gyldig ekteskap eller en ekteskapslignende forbindelse, og om ekteskapet eller forbindelsen ble frivillig inngått.
-Situasjoner der personer holdes fast i ekteskapslignende forbindelser som ikke er rettslig
-bindende i Norge, reiser enkelte særlige spørsmål. For noen slike forbindelser vil en part, typisk
-mannen, kunne holde den andre fast mot hens
-vilje fordi forbindelsen ikke kan opphøre uten partens samtykke. Det at en part nekter å samtykke
-til å oppløse en ekteskapslignende forbindelse,
-rammes ikke av noen eksisterende straffebestemmelser. Se mer om utenomrettslig ekteskap og
-utfordringene personer i slike ekteskap kan oppleve, i kapittel 3. Utvalget har ikke gått nærmere
-inn på om det kan finnes strafferettslige virkemidler som er egnet til å avhjelpe situasjoner der personer holdes fast i utenomrettslige ekteskap, men
-vil peke på at Nederland nylig har innført sivilrettslige tiltak som skal gjøre det enklere å oppløse utenrettslige ekteskap. Se mer om dette i
-kapittel 16, hvor utvalget anbefaler at det utredes
-nærmere om slike tiltak kan være egnet i en norsk
-rettslig kontekst.
-50
-51
-
-HR-2019-621-A (avsnitt 18).
-HR-2018-112-A (avsnitt 18). Se nærmere omtale i kapittel 7.
-
-12.4.2 Straffeloven § 262 andre ledd om
-barneekteskap
-12.4.2.1 Bør barneekteskap skilles ut i en egen
-straffebestemmelse?
-Dagens straffebestemmelse om ekteskap med
-barn under 16 år er plassert sammen med forbudet mot bigami i straffeloven § 262 første ledd
-med overskriften «Brudd på ekteskapsloven mv.».
-Etter utvalgets vurdering er denne plasseringen
-verken egnet eller heldig. Første og andre ledd
-ivaretar svært forskjellige rettsgoder. Første ledd
-om bigami verner om integriteten og valgfriheten
-til den som inngår ekteskap med en person som
-allerede er gift, og det verner om ekteskapet som
-sosial og rettslig institusjon.52 Andre ledd om barneekteskap er begrunnet i at et slikt forhold i seg
-selv regnes som et overgrep mot barnet.53
-
-Boks 12.1 Hva er problemet?
-Barneekteskap der den fornærmede er mellom 16 og 18 år er ikke straffbare etter straffeloven § 262 andre ledd. Dersom det ikke kan
-bevises at et barn mellom 16 og 18 år er tvunget inn i ekteskapet eller den ekteskapslignende forbindelsen i tråd med straffeloven
-§ 253 om tvangsekteskap, er slike ekteskap
-straffrie. Ifølge Kompetanseteamet mot negativ sosial kontroll og æresrelatert vold er
-saker som gjelder barneekteskap med barn
-mellom 16 og 18 år utfordrende, ettersom
-disse barna faller utenfor personkretsen i
-straffeloven § 262.1 Barna selv innrømmer ofte
-ikke at de er utsatt for tvangsekteskap, blant
-annet på grunn av lojalitet til sine foreldre.
-Terskelen for å be om hjelp er høy.
-Dagens straffebestemmelse om barneekteskap i § 262 andre ledd rammer bare den
-som inngår ekteskapet. Personer som medvirker til barneekteskap, slik som foreldre og
-vigslere, kan ikke dømmes direkte for brudd
-på bestemmelsen. De kan bare straffes for
-medvirkning etter straffeloven § 15.
-Dagens straffebestemmelse rammer bare
-inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen, og ikke det å leve
-sammen med et barn i en slik forbindelse.
-1
-
-52
-53
-
-Kompetanseteamets årsrapport 2021: punkt 2.3.6.
-
-Ot.prp. nr. 22 (2008–2009) punkt 5.7.1.
-Ot.prp. nr. 51 (2002–2003) punkt 3.3.3.
-
-[Side 189]
-
-NOU 2024: 13
-Lov og frihet
-
-Plasseringen sammen med forbudet mot
-bigami synliggjør ikke straffverdigheten og alvorligheten av det å inngå ekteskap med et barn.
-Utvalget mener derfor at forbudet mot barneekteskap bør plasseres i en egen bestemmelse. Likhetene mellom straffebudene om barneekteskap og
-tvangsekteskap gjør at bestemmelsen om barneekteskap bør plasseres etter bestemmelsen om
-tvangsekteskap, i en ny § 253 a.
-
-12.4.2.2 Bør alle ekteskap med personer under
-18 år kunne straffes som barneekteskap?
-Dersom det ikke kan bevises at barnet er tvunget
-inn i ekteskapet ved bruk av noen av midlene som
-er nevnt i straffeloven § 253, er det ikke straffbart
-å inngå ekteskap eller en ekteskapslignende forbindelse med en person mellom 16 og 18 år, jf.
-straffeloven § 262 andre ledd. Utvalget mener at
-aldersgrensen bør heves til 18 år, slik at bestemmelsen også rammer ekteskap inngått med barn
-mellom 16 og 18 år.
-En slik kriminalisering er i tråd med skadefølgeprinsippet. Forslaget skal verne barn mot de
-skadene et barneekteskap kan påføre dem. Et
-ekteskap innebærer regelmessig følelsesmessige
-og seksuelle relasjoner som kan være svært skadelige for et barn. I tillegg har et ekteskap både
-økonomiske og sosiale dimensjoner som et barn
-ikke har forutsetninger for å forstå eller forholde
-seg til. Forslaget skal verne barns rett til barndom
-og selvstendig utvikling. Lovgivningen verner
-barn mot en rekke potensielt skadelige avtaler og
-forhold avhengig av barnets alder, som deltakelse
-i krig, farlig arbeid og seksuelle relasjoner.54
-Utvalget mener at hensynet til barnet tilsier at det
-også bør vernes mot ekteskap og ekteskapslignende forbindelser.
-Straffebudet om barneekteskap bygger på en
-presumsjon om at barnet er tvunget inn i ekteskapet. Etter utvalgets syn gjelder dette også for
-barn mellom 16 og 18 år. Barn mellom 16 og 18 år
-har vanligvis ikke den modenheten som kreves
-for selvstendig å ta stilling til konsekvensene av å
-inngå ekteskap. De er også sårbare for press fra
-familie og nære relasjoner. Dette illustreres også i
-rettspraksis, der flere av sakene om tvangsekteskap gjelder personer mellom 16 og 18 år, se for
-eksempel Rt. 2014 s. 205 (der den fornærmede var
-16 år) og Rt. 2006 s. 140 (der den fornærmede var
-17 år).
-54
-
-Se for eksempel straffeloven § 103 første ledd bokstav f,
-straffeloven §§ 299 til 311 om seksuallovbrudd mot barn og
-arbeidsmiljøloven § 11-1 om forbud mot barnearbeid.
-
-187
-
-Kapittel 12
-
-Barnekomiteen og kvinnediskrimineringskomiteen har uttalt at barneekteskap der minst en av
-partene er under 18 år er en form for tvangsekteskap.55 Komiteene anbefaler at statene vedtar lovbestemmelser eller endrer lovgivningen for å
-adressere og bekjempe skadelige praksiser på en
-effektiv måte, herunder tvangsekteskap.56 Selv
-om uttalelsen ikke innebærer en rettslig forpliktelse til å kriminalisere ekteskap med personer
-mellom 16 og 18 år, gir den et sterkt signal om at
-ekteskap der en av partene er under 18 år er uønsket og bør reageres mot. I tillegg har utvalget
-lagt vekt på at både svenske og danske strafferegler definerer barneekteskap som ekteskap med
-personer under 18 år, se punktet om andre lands
-rett.
-Forslaget vil innebære en delvis nykriminalisering, ved at ekteskap med en person mellom 16 og
-18 år vil bli kriminalisert uavhengig av om det er
-benyttet vold, frihetsberøvelse, annen straffbar
-eller urettmessig atferd eller utilbørlig press for å
-tvinge personen inn i ekteskapet. Siden barn
-under 18 år ikke har samtykkekompetanse til å
-inngå ekteskap, og siden slike ekteskap allerede
-etter gjeldende rett bør anses som tvangsekteskap, vil nykriminaliseringen etter utvalgets vurdering være begrenset.
-Handlinger som anses som barneekteskap er
-unntatt fra kravet om dobbel straffbarhet, jf. straffeloven § 5 første ledd nr. 4. Utvalget foreslår
-ingen endringer i dette. Det vil dermed ikke ha
-betydning om ekteskapet eller den ekteskapslignende forbindelsen er lovlig i det landet det ble
-inngått. Den som inngår et ekteskap med et barn
-under 18 år, hvor ekteskapet er frivillig fra barnets
-side og uten noen form for tvang, i et land med en
-lavere ekteskapsalder enn i Norge, vil dermed
-kunne straffes etter den nye bestemmelsen. Det
-er en forutsetning at tilknytningskravene i straffeloven § 5 er oppfylt. Bestemmelsen må imidlertid
-leses med en rettsstridsreservasjon i disse tilfellene. Det vises til at ekteskapsloven er endret
-(ikke trådt i kraft) og på nærmere vilkår vil åpne
-for å anerkjenne ekteskap inngått i utlandet der
-ingen av ektefellene har tilknytning til Norge,
-også der en av partene var under 18 år.57 Anerkjennes ekteskapet av norske myndigheter, er det
-ikke aktuelt å straffeforfølge den av ektefellene
-som var over 18 år ved ekteskapsinngåelsen.
-55
-
-FNs kvinnediskrimineringskomité og FNs barnekomité
-2019, Joint general recommendation.
-56 FNs kvinnediskrimineringskomité og FNs barnekomité
-2019, Joint general recommendation: avsnitt 55.
-57
-Se kapittel 16.
-
-[Side 190]
-
-188
-
-Kapittel 12
-
-NOU 2024: 13
-Lov og frihet
-
-12.4.2.3 Bør personer med foreldreansvar rammes
-direkte av straffebudets ordlyd?
-Straffeloven § 262 andre ledd rammer bare personer som inngår ekteskap med noen under 16 år.
-Andre personer, for eksempel foreldre og andre
-som tillater eller legger til rette for ekteskapet,
-rammes ikke direkte av straffebudet. Disse kan
-straffes for medvirkning til barneekteskap etter
-straffeloven § 15. Etter utvalgets syn bør imidlertid også foreldre som tillater, legger til rette for
-eller er pådrivere for at deres barn inngår ekteskap eller en ekteskapslignende forbindelse,
-omfattes direkte av straffebudets ordlyd. I både
-svensk og dansk rett kan foreldre holdes direkte
-ansvarlige etter straffebestemmelsene om barneekteskap. Hensynet til like regler i de nordiske
-landene er etter utvalgets oppfatning et tungtveiende argument.
-Som følge av at barn ikke har rettslig handleevne til å inngå ekteskap, er det foreldrene som
-juridisk sett inngår ekteskapet på vegne av barnet.
-I praksis vil foreldrene ha en vel så sentral, og dermed også en mer straffverdig, rolle i det straffbare forholdet som den som inngår ekteskapet.58
-Dette er klart i strid med den omsorgsplikten som
-følger av foreldreansvaret etter barnelova § 30,
-herunder det å utøve foreldreansvaret ut fra hva
-som er barnets beste. Foreldrene har primæransvaret for å sikre barnets beste og verne barnet
-mot den integritetskrenkelsen det er å inngå et
-ekteskap før barnet er tilstrekkelig modent. Etter
-utvalgets vurdering er det derfor gode grunner
-for at straffebestemmelsen bør ramme foreldrene
-direkte om de tilskynder eller aksepterer ekteskapet. En slik utvidelse er nødvendig for å gi
-barn et tilstrekkelig vern mot barneekteskap, og
-den er i tråd med statens positive forpliktelse til å
-beskytte barns integritet etter Grunnloven § 104
-tredje ledd og etter barnekonvensjonen.
-Utvalget foreslår at bestemmelsen utvides til å
-ramme foreldrenes aktive handlinger for at ekteskapet kommer i stand. Disse handlingene kan for
-eksempel være at de avtaler med den kommende
-ektefellen eller ektefellens familie, at de organiserer det praktiske rundt seremonien, eller at de
-legger press på barnet til å samtykke til ekteskapet. Slike handlinger kan etter gjeldende rett
-straffes som medvirkning til barneekteskap eller
-forsøk på barneekteskap etter straffeloven § 15,
-men vil etter utvalgets forslag rammes direkte av
-ordlyden i straffebestemmelsen om barneekteskap.
-58
-
-Ot.prp. nr. 51 (2002–2003) punkt 3.3.3.
-
-Videre foreslår utvalget at straffebestemmelsen utvides til å ramme passivitet fra foreldre til at
-et ekteskap eller en ekteskapslignende forbindelse kommer i stand. Dette kan for eksempel
-være der en forelder kjenner til at den andre planlegger et ekteskap for barnet, men lar være å
-gripe inn. Et annet eksempel er der foreldrene
-kjenner til at den mindreårige selv planlegger å
-inngå en ekteskapslignende forbindelse med en
-voksen person, uten at foreldrene forsøker å forhindre dette. Det å forholde seg passiv til at et barneekteskap inngås, kan være like alvorlig og
-straffverdig som det å aktivt handle for at det skal
-komme i stand.
-Selv om en forelders passivitet etter omstendighetene vil kunne rammes som passiv medvirkning, mener utvalget likevel at passivitet bør
-være en selvstendig overtredelse av bestemmelsen. Det er avgjørende for barnet at foreldrene
-aktivt beskytter det mot å inngå ekteskap.
-Utvalget har lagt en viss vekt på at når passivitet blir eksplisitt kriminalisert, oppstår det færre
-vanskelige spørsmål i vurderingen av om en forelder har opptrådt på en slik måte at passivt medvirkningsansvar er aktuelt. Om en forelder kan straffes for passivt medvirkningsansvar avhenger etter
-rettspraksis av en helhetlig vurdering av en rekke
-ulike forhold, blant annet hvor alvorlig lovbruddet
-er, hvor omfattende og lenge det har pågått, barnets alder, utvikling og sosiale situasjon, styrkeforholdet og relasjonen mellom omsorgspersonen
-og gjerningspersonen, om omsorgspersonen
-hadde en særlig foranledning til å gripe inn ut fra
-sin kunnskap om tidligere lovbrudd mot barnet,
-og hvilke virkemidler og handlingsalternativer
-omsorgspersonen hadde til rådighet for å gripe
-inn.59 En eksplisitt kriminalisering av slik passivitet er i samsvar med det strafferettslige klarhetskravet. Når passivitet blir klart kriminalisert,
-er det ikke tvil om at passivitet er straffbart.
-
-12.4.2.4 Bør vigsleren rammes av straffebudet om
-barneekteskap?
-I tillegg til å innføre et direkte straffansvar for personer med foreldreansvar, jf. punktet ovenfor,
-mener utvalget at straffebudet direkte bør ramme
-personer som har en nøkkelrolle i selve ekteskapsinngåelsen. Disse personene vil i dag bare kunne
-straffes for medvirkning etter straffeloven § 15.
-Etter utvalgets mening bør personer som forestår
-59
-
-Kjelby og Øyen 2020: punkt 6, med henvisning til HR-20192205-A (særlig avsnitt 59, 63, 68 og 77), som er fulgt opp i
-HR-2020-1343-A.
-
-[Side 191]
-
-NOU 2024: 13
-Lov og frihet
-
-inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen rammes direkte av straffebudet om barneekteskap og ikke bare som medvirker.
-En vigsler eller en person med en lignende
-rolle er som regel en nødvendig forutsetning for å
-inngå et ekteskap eller en ekteskapelig forbindelse. Vedkommende bidrar dermed i en slik grad
-til at barnet havner i en skadelig situasjon, at atferden etter utvalgets syn må kriminaliseres direkte.
-Det har ikke betydning hvordan inngåelsen
-finner sted. Forslaget til bestemmelse rammer
-derfor både den som forestår vielser i tradisjonell
-forstand, den som forestår andre seremonier med
-lignende funksjon, og den som utferdiger en
-skriftlig avtale om ekteskap eller en ekteskapslignende forbindelse mellom partene. Utvalget har
-sett hen til at den danske straffeloven § 260 a rammer den som forretter en religiøs vielse uten borgerlig gyldighet, eller den som forestår inngåelsen av et annet ekteskapslignende forhold der en
-av partene er under 18 år (vigsleren). Det vil ikke
-ha betydning om partene selv ønsker å bli viet
-eller å inngå avtalen.
-
-12.4.2.5 Bør det å leve i et barneekteskap
-kriminaliseres?
-Utvalget foreslår at også det å leve i et ekteskap
-eller en ekteskapslignende forbindelse med et
-barn kriminaliseres.
-Etter utvalgets syn er det ikke bare selve inngåelsen av ekteskapet eller den ekteskapslignende forbindelsen som barn bør beskyttes mot.
-Selve ekteskapet innebærer negative konsekvenser for barnet også etter inngåelsen, både følelsesmessige, seksuelle, sosiale og økonomiske konsekvenser. Det at bare inngåelsen av ekteskapet er
-kriminalisert, er etter utvalgets syn derfor ikke tilstrekkelig til å beskytte interessene som straffebudet skal verne.
-Ekteskapsinngåelsen innebærer at barnet må
-leve eller risikerer å leve i en intim relasjon med
-en voksen person, noe som etter utvalgets syn
-betyr at barnet frarøves en «vanlig» barndom.
-Utvalget mener derfor at straffebudet om barneekteskap også bør ramme det å leve i et ekteskap
-eller en ekteskapslignende forbindelse med et
-barn, og ikke bare inngåelsen av relasjonen.
-Utvalgets forslag innebærer at det etableres et
-straffansvar for den som lever i et ekteskap eller
-en ekteskapslignende forbindelse med barn, uavhengig av om det begås andre straffbare
-handlinger. En slik kriminalisering vil reflektere
-at det i første rekke anses som uønsket og skade-
-
-189
-
-Kapittel 12
-
-lig at en voksen person lever i et ekteskap med et
-barn. Dersom barnet utsettes for andre straffbare
-handlinger, for eksempel seksuelle overgrep,
-utnyttelse, mishandling i nære relasjoner eller
-andre krenkelser av barnets integritet, vil de
-kunne straffeforfølges etter andre straffebestemmelser.
-I noen land er ekteskapsalderen lavere enn i
-Norge, og personer kan lovlig ha inngått ekteskap
-før de flyttet til Norge. Det er nylig foretatt en endring i ekteskapsloven som foreløpig ikke er trådt i
-kraft. Endringen innebærer at ekteskap som er
-lovlig inngått i utlandet av personer uten tilknytning til Norge, kan anerkjennes etter ekteskapsloven selv om en av partene fremdeles er under 18
-år, dersom sterke grunner taler for det, jf. ekteskapsloven ny § 18 c.60 Anerkjennes ekteskapet av
-norske myndigheter etter de nye bestemmelsene i
-ekteskapsloven, kan det ikke samtidig være straffbart å leve i det. Da straffebudet om barneekteskap ble innført, ble det lagt til grunn at i de tilfellene fylkesmannen (nå statsforvalteren) godkjente et ekteskap etter anerkjennelsesbestemmelsene i ekteskapsloven, ville det ikke være
-aktuelt å straffeforfølge noen for at ekteskapet ble
-inngått.61 Dette kunne forankres i den generelle,
-ulovfestede rettsstridsreservasjonen. Utvalgets
-forslag til en ny straffebestemmelse må leses med
-den samme reservasjonen. Rettsstridsreservasjonen kan også gjøre at det i noen tilfeller ikke vil
-være aktuelt å straffeforfølge dem som lever i en
-ekteskapslignende forbindelse med et barn når
-forbindelsen er inngått i utlandet, selv der forbindelsen ikke anerkjennes i Norge.
-Forslaget vil ikke ramme det å leve i et samboerskap som ikke kan anses som en ekteskapslignende forbindelse, for eksempel der en 17-åring
-flytter inn hos en noe eldre kjæreste av praktiske
-årsaker, og der samboerskapet er av midlertidig
-karakter. Selv om noen samboerskap kan ha likhetstrekk med ekteskapslignende forbindelser, vil
-de ikke nødvendigvis være varige, oppleves som
-bindende eller etablere rettigheter og plikter mellom partene av rettslig, religiøs, sosial eller kulturell karakter, jf. straffeloven § 253 første ledd bokstav b. Det må derfor vurderes konkret om forbindelsen mellom partene utgjør en ekteskapslignende forbindelse eller ikke, på samme måte som
-ved inngåelsen.
-Verken svenske eller danske straffebestemmelser rammer det å leve i et ekteskap eller en
-ekteskapslignende forbindelse med en mindreå60
-61
-
-Prop. 135 L (2020–2021).
-Ot.prp. nr. 51 (2002–2003) punkt 3.3.5.
+# Æresmotiv som straffskjerpende moment
+
+## Innledning
+
+I dette kapittelet vurderer utvalget om æresmotiv bør tas inn som et straffskjerpende moment i straffeloven § 77 om skjerpende omstendigheter, jf. mandatets bokstav b. Utvalget benytter formuleringen «æresmotivert kriminalitet» som kortform for enhver straffbar handling som er begått for å gjenopprette eller bevare en persons, families eller en større krets personers forestilling om ære.
+
+## Gjeldende rett
+
+### Menneskerettslige forpliktelser
+
+Ingen internasjonale konvensjoner forplikter Norge til å ha lovgivning som sikrer at æresmotiv tillegges vekt i skjerpende retning ved straffutmålingen. Flere konvensjoner stiller imidlertid krav om å sikre at ære ikke tillegges vekt i formildende retning ved straffutmålingen.
+
+Etter Europarådets konvensjon om forebygging og bekjempelse av vold mot kvinner og vold i nære relasjoner 11. mai 2011 (Istanbul-konvensjonen) artikkel 12 nr. 5 skal statene sørge for at kultur, skikk, religion, tradisjon eller æresmotiv ikke utgjør en unnskyldning for voldshandlinger som faller inn under konvensjonen. Konvensjonens artikkel 42 nr. 1, som presiserer denne forpliktelsen på strafferettens område, lyder:
+
+Parties shall take the necessary legislative or other measures to ensure that, in criminal proceedings initiated following the commission of any of the acts of violence covered by the scope of this Convention, culture, custom, religion, tradition or so-called ‘honour’ shall not be regarded as justification for such acts. This covers, in particular, claims that the victim has transgressed cultural, religious, social or traditional norms or customs of appropriate behaviour.
+
+Etter artikkel 46 skal statene treffe tiltak for å sikre at omstendighetene som er listet i bokstav a til i kan vurderes som skjerpende ved utmåling av straff for handlinger som skal være straffbare etter konvensjonen. Æresmotiv er ikke blant omstendighetene som er listet opp i bestemmelsen, uten at dette er nærmere begrunnet i Europarådets forklarende rapport til konvensjonen.
+
+FNs kvinnediskrimineringskomité og barnekomité har utgitt en felles generell anbefaling om skadelige praksiser. En skadelig praksis er definert som vedvarende praksiser og atferd som diskriminerer på grunnlag av blant annet kjønn, kjønnsuttrykk og alder, som ofte omfatter vold, og som forårsaker fysiske og/eller psykologiske skader eller lidelser.[^788] Forpliktelsen er forankret i flere bestemmelser i konvensjonene, særlig plikten til å hindre vold mot kvinner og barn utøvet av andre privatpersoner, jf. kvinnediskrimineringskonvensjonen artikkel 2 og barnekonvensjonen artikkel 19. Æresmotivert kriminalitet er definert som en slik skadelig praksis.[^789] Komiteene anbefaler at medlemsstatene vedtar lovgivning med sikte på å effektivt få slutt på slike skadelige praksiser. De anbefaler å oppheve all lovgivning som tolererer, tillater eller fører til skadelige praksiser, deriblant lovgivning som aksepterer æresmotiv som forsvar for eller formildende omstendighet i straffutmålingen i straffesaker om æresmotivert kriminalitet.[^790]
+
+### Straffebestemmelser som kan anvendes på æresmotivert vold og andre krenkelser
+
+Straffeloven inneholder ikke en egen straffebestemmelse om æresmotiverte handlinger. Begrepet ære brukes heller ikke i straffelovgivningen. Flere straffebestemmelser kan imidlertid ramme slike handlinger eller atferd. Som nevnt i kapittel 3 kan æresmotiverte voldshandlinger og andre krenkelser omfatte et vidt spekter av handlinger av ulik art og alvorlighetsgrad, både psykiske krenkelser, tvangsekteskap, fysisk vold og drap (æresdrap). Slike handlinger kan etter omstendighetene rammes av blant annet straffebudene om vold (§§ 271 til 274), mishandling i nære relasjoner (§§ 282 og 283), tvang (§§ 251 og 252), tvangsekteskap (§ 253), trusler (§§ 263 og 264), hensynsløs atferd (§ 266), personforfølgelse (§ 266 a), drap (§ 275) og forbund om drap eller å volde betydelig skade på kropp og helse (§ 279).[^791] Listen er ikke uttømmende.
+
+### Reaksjonsfastsettelse i saker om æresmotivert kriminalitet
+
+Straffelovens kapittel 14 (§§ 77 til 84) inneholder generelle bestemmelser om reaksjonsfastsettelse i straffesaker. Paragraf 77 om skjerpende omstendigheter nevner hensyn som domstolen særlig skal ta i betraktning i skjerpende retning ved straffutmålingen. Bestemmelsen lyder slik i sin helhet:
+
+Ved straffutmålingen skal det i skjerpende retning især tas i betraktning at lovbruddet:
+
+a\. er begått med midler eller metoder som er særlig farlige eller har stort skadepotensial,
+
+b\. har satt menneskers liv eller helse i fare eller voldt velferdstap,
+
+c\. er tilsiktet et vesentlig mer alvorlig resultat eller det lett kunne ha blitt følgen,
+
+d\. er begått på en særlig hensynsløs måte,
+
+e\. er ledd i en planlagt eller organisert virksomhet,
+
+f\. er begått av flere i fellesskap,
+
+g\. er forøvet ved at lovbryteren har utnyttet eller forledet unge personer, personer i en meget vanskelig livssituasjon, som er psykisk utviklingshemmet eller står i et avhengighetsforhold til lovbryteren,
+
+h\. har rammet personer som er forsvarsløse eller særlig utsatt for lovbrudd,
+
+i\. har sin bakgrunn i andres religion eller livssyn, hudfarge, nasjonale eller etniske opprinnelse, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk, funksjonsevne eller andre forhold som støter an mot grupper med et særskilt behov for vern,
+
+j\. er begått i offentlig tjeneste eller er forøvet ved brudd på en særlig tillit,
+
+k\. er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger eller andre handlinger som er av betydning for saken,
+
+l\. er begått i nærvær av barn under 15 år.
+
+Bestemmelsen er ny i straffeloven 2005, men kodifiserer i all hovedsak rettspraksis under straffeloven 1902.[^792] Ordet «især» viser at oppregningen av momenter ikke er uttømmende. Ifølge forarbeidene har momentene heller ikke forrang foran andre momenter, men domstolen bør særskilt vurdere om noen av momentene er relevante i en konkret sak.[^793] Normalt vil de oppregnede momentene måtte tillegges vekt, men det er opp til domstolene å avgjøre hvor stor vekt de skal få. Det kan også være situasjoner hvor momenter som er oppregnet i bestemmelsene, får liten eller ingen vekt.[^794]
+
+Formålet med kodifiseringen var ifølge forarbeidene å skape en «mer informativ, brukervennlig og tilgjengelig straffelov for publikum» samt å bidra til å «opprettholde og kanskje også styrke en ensartet straffutmåling i likeartede saker».[^795] Bestemmelsen fungerer altså som en sjekkliste, og domstolene skal fortsatt basere sine avgjørelser på en vurdering av hva som i det konkrete tilfellet framstår som en adekvat og rimelig reaksjon.[^796]
+
+Æresmotiv er ikke listet opp i bestemmelsen. Æresmotivert kriminalitet kan likevel falle inn under enkelte av momentene avhengig av de konkrete omstendighetene i saken. Særlig aktuelle er bokstavene e, f, g, h og i.
+
+Etter *bokstav e* skal det tas i betraktning at lovbruddet «er ledd i en planlagt eller organisert virksomhet». Det sentrale er ifølge forarbeidene at gjerningspersonene har «samordnet eller koordinert sin opptreden, i motsetning til opptreden av mer leilighetspreget karakter».[^797] Æresmotivert vold er ofte planlagt og utført av flere personer i fellesskap, og bokstav e kan være aktuell i slike saker.
+
+Av samme grunn kan også *bokstav f* være aktuell for æresmotivert kriminalitet. Etter bestemmelsen skal det tas i betraktning at lovbruddet «er begått av flere i fellesskap». Det kreves at minst to personer har vært involvert, jf. HR-2019-1644-A.[^798] Æresmotivert vold har ofte, men ikke alltid, en kollektiv karakter med flere involverte personer som på ulike måter samarbeider om den straffbare handlingen.
+
+Etter *bokstav g* skal det tas i betraktning at lovbruddet er begått ved at «lovbryteren har utnyttet eller forledet unge personer, personer i en meget vanskelig livssituasjon, som er psykisk utviklingshemmet eller står i et avhengighetsforhold til lovbryteren». Alternativet tar først og fremst sikte på tilfeller hvor hovedgjerningspersonen får andre til å utføre lovbruddet, eller får dem til å foreta medvirkningshandlinger.[^799] Alternativet kan være aktuelt der familiens overhode, som en far eller onkel, utnytter eller forleder et yngre medlem av familien til å utføre en straffbar handling for å bevare eller gjenopprette familiens ære.
+
+Etter *bokstav h* skal det tas i betraktning at lovbruddet har rammet personer som er «forsvarsløse eller særlig utsatt for lovbrudd». Med «forsvarsløse» menes ifølge forarbeidene at fornærmede enten varig eller midlertidig har reduserte muligheter til å verge seg eller sitt mot forbrytelsen, for eksempel som følge av høy eller lav alder, psykisk eller fysisk sykdom eller handikap.[^800] Hva det vil si å være «forsvarsløs», må ses i lys av hvilket lovbrudd det gjelder.[^801] Miljøer der ære står sentralt, har som regel en patriarkalsk og hierarkisk familiestruktur som gir menn betydelig makt og autoritet over kvinner og yngre familiemedlemmer. Jenter og kvinner forventes å være lydige overfor menn i familien. Samtidig kan også kvinnene ha en sentral rolle i familien, og ha både makt og autoritet over yngre kvinner i familien, typisk døtre og svigerdøtre. Unge gutter forventes å være lydige overfor eldre menn i familien.[^802] De patriarkalske og hierarkiske familiestrukturene kan dermed innebære at både jenter, kvinner og gutter etter omstendighetene anses for å være «forsvarsløse» i saker om æresmotiverte krenkelser, for eksempel i saker om mishandling i nære relasjoner (§§ 282 og 283), trusler (§§ 263 og 264) og tvang (§§ 251 og 252). En slik forståelse av bokstav *h* i straffeloven § 77 er imidlertid ikke prøvd i rettspraksis og må anses for å være usikker.
+
+*Bokstav i* er det eneste alternativet som tillegger gjerningspersonens *motiv* betydning for straffutmålingen. Etter bestemmelsen skal det tas i betraktning om lovbruddet «har sin bakgrunn i andres religion eller livssyn, hudfarge, nasjonale eller etniske opprinnelse, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk, funksjonsevne eller andre forhold som støter an mot grupper som har et særlig behov for vern». Formuleringen «grupper som har et særlig behov for vern» er ifølge forarbeidene en «åpen kategori» som kan omfatte andre minoritetsgrupper enn dem som uttrykkelig er nevnt.[^803] Formuleringen «har sin bakgrunn i» innebærer ifølge forarbeidene at «forbrytelsens motiv helt eller delvis kan tilskrives disse omstendighetene».[^804] Det synes altså å være tilstrekkelig at ett motiv for lovbruddet kan tilskrives de opplistede omstendighetene, uten at det behøver å være det eneste motivet eller hovedmotivet. Visse grupper kan være særlig utsatte for æresmotivert vold, som for eksempel homofile innenfor et minoritetsmiljø, samt personer med tilhørighet til et religiøst miljø som åpent tar avstand fra miljøets religion. Bokstav *i* kan komme til anvendelse ved slike straffbare handlinger.
+
+Straffeloven § 77 er ikke uttømmende, og ikke til hinder for at domstolene vektlegger andre momenter enn de opplistede. I eldre rettspraksis har det blitt reist spørsmål om tiltaltes kulturbakgrunn, deriblant forestillinger om ære, kunne utgjøre en *formildende* omstendighet ved straffutmålingen. Høyesterett har gitt varierende svar på dette. I Rt. 1984 s. 1146 ble tre tyrkiske innvandrere, far og to sønner, dømt for å ha drept en fjerde tyrkisk mann for å ha hatt seksuell omgang med de tiltaltes datter og søster. Høyesterett vektla i formildende retning at de domfeltes handling var «slik influert og motivert av det krav det hjemlige miljø og deres landsmenn her i landet stiller til dem i den situasjonen de var kommet opp i».[^805] I etterfølgende dommer har tiltaltes kulturbakgrunn ikke blitt tillagt vekt i formildende retning. I Rt. 1987 s. 1318 ble en vietnamesisk mann dømt for å ha slått sin samboers datter. Ved straffutmålingen uttalte førstvoterende at «domfeltes kulturbakgrunn og de avvikende normer som i tilfelle måtte følge av denne, ikke kan tillegges særlig vekt».[^806] Se tilsvarende konklusjon i Rt. 1994 s. 1392, Rt. 2004 s. 750 og HR-2017-2415-A.[^807]
+
+I nyere rettspraksis er æresmotiv tillagt vekt i *straffskjerpende* retning. Den sentrale dommen er her HR-2019-440-A, der en mann ble dømt til fengsel i ett år og åtte måneder for grove trusler etter straffeloven § 264, jf. § 263. Domfelte hadde flere ganger truet med å drepe sin datter og sin sønn, som han mente hadde krenket familiens ære. Domfelte hadde også oppfordret sønnen til å drepe datteren. Om betydningen av ære ved straffutmålingen uttaler førstvoterende:
+
+Familiens «ære» og «æresdrap» danner bakteppe for denne saken. Trusler med en slik bakgrunn må tas på største alvor, og det gjør seg gjeldende sterke allmennpreventive hensyn. I relasjon til straffeutmålingen får dette aspektet særlig betydning fordi dette underbygger truslenes alvor og fordi slike trusler ikke er situasjonsbestemte, men vedvarer over tid.[^808]
+
+Vektleggingen av æresmotivet i HR-2019-440-A er fulgt opp i flere underrettsavgjørelser. I LG-2021-157019 ble en syrisk mann bosatt i Norge dømt for drap på sin tidligere ektefelle og hennes nye samboer. Med henvisning til HR-2019-440-A ble æresmotivet ansett som «klart» skjerpende ved straffutmålingen. Lagmannsretten skriver:
+
+Gjennomføring av drap av tidligere partner og hennes nye kjæreste som følge av en forestilling om at dette «gjenoppretter æren», er uttrykk for et alvorlig samfunnsproblem. Det samlede bevisbildet etterlater ingen tvil om at slike forestillinger er sterkt og vedvarende til stede i miljøet som tiltalte var en del av, og allmennpreventive hensyn veier tungt ved den konkrete straffeutmålingen. Tilsvarende problematikk knyttet til såkalt «æresdrap» er omhandlet i HR-2019-440-A, som gjaldt trusler.[^809]
+
+Det samme gjelder LB-2020-141535, der en far og sønn ble dømt til fengsel i henholdsvis seks år og seks måneder og seks år for drapsforsøk på broren til datterens (søsterens) ektefelle. Datteren (søsteren) av de tiltalte hadde giftet seg med en mann mot sin families vilje og reist fra landet. Med henvisning til HR-2019-440-A uttalte lagmannsretten at det var «klart skjerpende at dette var en hevnbasert handling». Retten skriver:
+
+Et angrep i form av drapsforsøk på en bror til den som har krenket ens ære, omfattes etter lagmannsrettens syn av familiens ære og innebærer at sterke allmennpreventive hensyn gjør seg gjeldende også i saken her, noe som tilsier en streng reaksjon. Lagmannsretten finner det videre skjerpende i denne sammenheng at angrepet rettes mot et for øvrig utenforstående familiemedlem, som ikke har hatt noe med den krenkende handling å gjøre.[^810]
+
+I LF-2019-63144 ble tre menn dømt for grov vold og grove trusler mot et familiemedlem, jf. straffeloven §§ 282 og 264, jf. § 263. De tre tiltalte var fornærmedes ektemann og to onkler, og de hadde utsatt fornærmede for et kontrollregime preget av kontinuerlig utrygghet og frykt for vold, trusler og andre krenkelser. Om den ene onkelens rolle i familien, uttaler lagmannsretten:
+
+Lagmannsretten er, som tingretten, ikke i tvil om at A er familiens overhode, og viser til det som ovenfor er beskrevet om hans rolle i storfamilien. Han er den eldste av brødrene og i tråd med \[kultur\] tradisjon har han forsørget dem i familien som trengte det. Dette gjaldt blant annet to av hans søstre med barn, det vil si moren til D og moren til B. I egenskap av å være familiens overhode har A styrt familien og vært involvert når det har oppstått situasjoner som kan tenkes å utfordre familiens ære.[^811]
+
+Med henvisning til HR-2019-440-A satte lagmannsretten straffen for A til fengsel i fire år. De øvrige tiltalte fikk fengsel i tre år.
+
+## Andre lands rett
+
+### Danmark
+
+Den danske straffeloven kapittel 10 (§§ 80-89 a) inneholder generelle bestemmelser om straffutmålingen. Etter straffeloven § 80 tredje ledd kan det ved vurderingen av forbrytelsens grovhet «ikke indgå som formildende omstændighed, at gerningen har baggrund i tro, kulturelle forhold el. lign». Formuleringen «el. lign.» omfatter ifølge forarbeidene kulturelle eller religiøse skikker, tradisjoner eller såkalt ære, samt andre kulturelle eller religiøse normer.[^812] Bestemmelsen trådte i kraft 1. april 2019, og ble innført på bakgrunn av at en dansk tingrettsdom vektla i formildende retning ved straffutmålingen at gjerningspersonens vold mot sin datter var kulturelt betinget.[^813] Bestemmelsen skulle også sikre at dansk rett er i tråd med artikkel 42 i Istanbul-konvensjonen.
+
+Straffeloven § 81 lister opp forhold som domstolene skal tillegge vekt i skjerpende retning. Bestemmelsen inneholder ikke et eget punkt om æresmotiv. Oppregningen er imidlertid ikke uttømmende, og domstolen kan vektlegge andre hensyn enn de opplistede.[^814] I forarbeidene til straffeloven § 80 stk. 3 er det vist til at ære er tillagt vekt i skjerpende retning av danske domstoler, men uten at det er vist til konkret rettspraksis.[^815]
+
+### Sverige
+
+Den svenske straffeloven (brottsbalken (1962: 700)) 29. kap. 2 § inneholder en liste over forhold som skal anses som straffskjerpende ved straffutmålingen. Etter bestemmelsens nr. 10 skal det anses som straffskjerpende «om ett motiv för brottet varit att bevara eller återupprätta en persons eller familjs, släkts eller annan liknande grupps heder». Bestemmelsen trådte i kraft 1. juli 2020, og ble innført som ledd i et større arbeid for å styrke vernet mot æresmotivert kriminalitet, på svensk kalt *hedersrelaterad brottslighet*.[^816] Ordet *heder* (ære) skal ifølge forarbeidene forstås som en kollektiv ære preget av sterke patriarkalske forestillinger, og der omdømmet, statusen eller lignende til familien eller klanen er avhengig av de enkelte medlemmenes handlinger.[^817] Æren kan for eksempel være knyttet til kvinnelige familiemedlemmers kyskhet og uskyld, samt deres faktiske og påståtte oppførsel. Begrepet er innholdsmessig likt det norske begrepet æresmotivert kriminalitet.
+
+Ifølge forarbeidene behøver ikke æresmotivet å være det eneste motivet eller hovedmotivet for forbrytelsen for at det kan tillegges vekt i straffskjerpende retning. Det er tilstrekkelig at ære utgjør ett av flere motiv.[^818] Formuleringen «bevara eller återupprätta» innebærer at bestemmelsen både omfatter lovbrudd som skal forhindre at æren blir skadet eller tapt, og lovbrudd som begås når tæresapet- eller skaden allerede har skjedd.
+
+For at momentet skal medføre straffskjerpelse, må det etter bestemmelsen dreie seg om «en persons eller familjs, släkts eller annan liknande grupps» ære. Begrepene familie og slekt skal ifølge forarbeidene forstås i vid forstand og omfatter både nære familiemedlemmer og fjernere slektninger. Med annen lignende gruppe menes ifølge forarbeidene andre grupper som kan sammenlignes med familien eller slektninger, men som i formell betydning ikke utgjør familie eller slekt, som for eksempel en klan. Grupper og foreninger som ikke kan likestilles med familie eller slekt, som for eksempel kriminelle nettverk, faller utenfor.
+
+Bestemmelsen rammer også æren til et enkeltindivid, jf. ordet «persons». I forarbeidene nevnes som et eksempel at en far på grunn av sin oppfatning om ære begår et lovbrudd mot sin datter fordi hun anses å ha krenket familiens ære, som faren er bærer av. Det behøver ikke å handle om gjerningspersonens egen ære. Også en straffbar handling for å gjenopprette eller bevare en annen persons ære omfattes.
+
+Den 1. juni 2022 trådte en egen straffebestemmelse om *hedersförtryck* (æresundertrykkelse) i kraft i brottsbalken 4 kapittel 4 e §. Bestemmelsen lyder:
+
+Den som mot en person begår brottsliga gärningar enligt 3 eller 4 kap., 5 kap. 1 eller 2 §, 6 eller 12 kap. eller enligt 24 § lagen (1988:688) om kontaktförbud och ett motiv varit att bevara eller återupprätta en persons eller familjs, släkts eller annan liknande grupps heder, döms, om var och en av gärningarna utgjort led i en upprepad kränkning av personens integritet och gärningarna varit ägnade att allvarligt skada personens självkänsla, för hedersförtryck till fängelse i lägst ett och högst sex år.
+
+Bestemmelsen er strukturert på samme måte som brottsbalken 4 kapittel 4 a § om grov *fridskränkning.*[^819] Det kreves i tillegg at handlingene er begått med et æresmotiv, noe som skal forstås på samme måte som etter straffskjerpelsesgrunnlaget i brottsbalken 29 kap. 2 § nr. 10.[^820]
+
+## Utvalgets vurderinger og forslag
+
+### Æresmotiv bør inntas som en straffskjerpende omstendighet
+
+Utvalget foreslår å ta inn en ny bokstav m i straffeloven § 77 slik at det vil være en straffskjerpende omstendighet at lovbruddet er begått for å bevare eller gjenopprette en persons, families, slekts eller annen gruppes ære.
+
+Æresmotivert kriminalitet er et samfunnsproblem som kan ha store negative konsekvenser for både fornærmede selv og for andre personer i fornærmedes miljø. Kriminaliteten består ofte av ulike krenkelser av fornærmedes fysiske og psykiske integritet som kan medføre alvorlige fysiske og psykiske skadevirkninger i ettertid. Handlingene kan i tillegg ha et kollektiv aspekt, ved å være forventet eller legitimert av storfamilien og familiens kulturelle miljø, både i Norge og i utlandet. Gjerningspersonen blir gjerne oppfordret til å gjenopprette familiens ære ved å begå straffbare handlinger, og hedres i etterkant når handlingen offentliggjøres i miljøet. Det kan også være et poeng i seg selv at handlingen gjøres på en særlig smertefull måte. Den fornærmede kan bli støtt ut av hele sitt sosiale nettverk, leve med frykt for vold i flere år og miste muligheten til å leve et fritt og selvstendig liv. For noen er trusselbildet så alvorlig at de må kutte all kontakt med familien, få ny identitet, ikke være på sosiale medier og ha ulike sikkerhetstiltak som voldsalarm og sperret adresse. I tillegg til skadefølgene for den direkte utsatte kan den æresmotiverte volden skape frykt blant andre personer i samme miljø som kan tenkes å bli mistenkt for lignende normbrudd. På grunn av det store skadepotensialet ved slik kriminalitet bør myndighetene ta i bruk et bredt spekter av virkemidler for å motvirke og reagere på slike krenkelser.[^821]
+
+I noen samfunn kan æreskriminalitet tillegges vekt som formildende omstendighet, for eksempel når det utøves alvorlig vold mot nære familiemedlemmer som ikke opprettholder æreskodeksen i familien eller storsamfunn.[^822] Lovforslaget vil bidra til å markere samfunnets sterke fordømmelse av æresmotivert kriminalitet. En uttrykkelig presisering i straffeloven § 77 vil være ett av flere egnede tiltak i arbeidet med å forebygge, avdekke og straffeforfølge æreskriminalitet.
+
+Det mangler tilstrekkelig gode data på omfanget av æresmotivert kriminalitet i Norge. Tall fra hjelpeapparatet indikerer imidlertid at omfanget er betydelig.[^823] Utvalget legger til grunn at mørketallene sannsynligvis er store. Uavhengig av de nøyaktige tallene for æresmotivert kriminalitet i Norge er det ikke tvil om at slik kriminalitet skjer i et ikke ubetydelig omfang, og at noen av sakene er svært alvorlige. Det bør derfor være en prioritert samfunnsoppgave å bekjempe denne kriminaliteten.
+
+Formålet med å ta inn æresmotiv som et straffskjerpende moment ved straffutmålingen, er å forebygge kriminelle handlinger med æresmotiv og å sikre at æresmotiv tas i betraktning gjennom hele straffesakskjeden. Å innta æresmotiv som en straffskjerpelsesgrunn kan både ha en allmennpreventiv og en individualpreventiv effekt. Æresmotivert kriminalitet gir uttrykk for skadelige holdninger som ikke er forenelig med grunnleggende rettsstatlige verdier, som respekt for enkeltindividets autonomi og frihet. En vektlegging av æresmotiv i straffskjerpende retning kan ha en viss avskrekkende virkning og over tid virke holdningsdannende.
+
+Æresmotiv tillegges allerede vekt i straffskjerpende retning i rettspraksis.[^824] Etter utvalgets syn er det likevel grunn til å lovfeste momentet uttrykkelig i straffeloven § 77. Riksrevisjonens undersøkelse av myndighetenes innsats mot vold i nære relasjoner viser at mange politidistrikter rapporterer om manglende kompetanse på etterforsking av æresmotivert vold.[^825] Dette tyder på at æresmotiv ikke oppdages og møtes godt nok av strafferettssystemet. En lovfesting kan bidra til at æresmotivet synliggjøres og vektlegges i større grad både av politiet og domstolene. Lovfestingen kan bidra til oppmerksomhet om fenomenet tidlig i en straffesak og dermed styrke politiets overordnede arbeid mot æresmotivert kriminalitet. Dette kan igjen medføre en bredere og grundigere etterforsking, blant annet ved at det undersøkes om flere gjerningspersoner er involvert.
+
+En innvending mot forslaget er at æresmotiv er et mer vurderingspreget straffutmålingsmoment enn de øvrige momentene i straffeloven § 77, og at det kan forstås og tolkes ulikt av ulike fagdisipliner og samfunnsaktører. Det bør som hovedregel ikke innføres for vurderingspregede momenter i bestemmelsen, jf. lovkravet. Æresmotivert kriminalitet utgjør imidlertid et samfunnsproblem som ikke har fått tilstrekkelig oppmerksomhet og oppfølging i straffesakskjeden. Det rapporteres om manglende kunnskap om fenomenet. Det kollektive aspektet ved æresmotivert kriminalitet skaper et særlig behov for å tydeliggjøre for omverdenen at slike handlinger ikke aksepteres. Personer som utsettes for æresmotivert kriminalitet utgjør en særlig sårbar gruppe. Som omtalt i kapittel 3 kommer de ofte fra en familiebakgrunn med tydelige makthierarkier basert på generasjon og kjønn, der det kan være sterke kulturelle barrierer mot å søke hjelp utenfor familien. De utsatte kan oppleve å stå alene uten støtte fra familie eller nettverk. Disse forholdene tilsier at det er et særlig behov for å synliggjøre det skjerpende ved æresmotivert kriminalitet i straffeloven.
+
+En annen innvending mot lovforslaget er at det finnes andre motiver for vold som det kan være like stor grunn til å sikre at blir tatt i betraktning i skjerpende retning i straffutmålingen. I sitt innspill til utvalget stiller blant annet Islamsk Råd Norge spørsmål ved hva som er forskjellen mellom æresmotivert vold og vold motivert av andre forhold, slik som stolthet, kontrolltrang eller sjalusi. Som nevnt i kapittel 3 er det sentrale forskjeller mellom æresmotivert vold og annen type vold, som tilsier at det er behov for å synliggjøre æresmotiv som et straffskjerpende moment i straffelovgivningen. For fornærmede kan konsekvensene av æresmotivert vold og annen type vold riktignok være relativt like. For eksempel kan også sjalusidrevet vold innebære at fornærmede lever med frykt for voldsutøveren i flere år i ettertid, og mister muligheten til å leve et fritt og selvstendig liv.[^826] Utvalget legger imidlertid vekt på at det kollektive aspektet ved æresmotivert kriminalitet gjør handlingene særlig alvorlige, og har potensial til å ramme fornærmede på andre måter enn annen type vold. Blant annet kan fornærmede støtes ut av hele sitt sosiale nettverk. I tillegg har utvalget lagt vekt på den innebygde trusselen ikke bare mot fornærmede, men også mot andre familiemedlemmer eller andre i fornærmedes sosiale krets.
+
+Enkelte organisasjoner utvalget har fått innspill fra mener at æresmotiv som straffskjerpelsesgrunn kan virke diskriminerende overfor personer innenfor enkelte minoritetsgrupper, [^827] og at det er en risiko for at personens bakgrunn i seg selv påvirker straffutmålingen. Et grunnleggende prinsipp i norsk rett er at alle er like for loven og ingen skal utsettes for usaklig eller uforholdsmessig forskjellsbehandling, jf. Grunnloven § 98 og EMK artikkel 14. Diskrimineringsforbudet er tatt inn i likestillings- og diskrimineringsloven[^828] § 6. Prinsippet innebærer at lovgivningen ikke kan utformes slik at enkeltpersoner blir direkte eller indirekte rammet på grunn av nærmere angitte forhold, som etnisitet, religion og livssyn eller en kombinasjon av disse. Med etnisitet menes blant annet nasjonal opprinnelse, avstamning, hudfarge og språk.
+
+Utvalgets forslag om å ta inn æresmotiv som straffskjerpelsesgrunn er nøytralt utformet. Forslaget vil likevel kunne få særlig betydning for personer fra grupper der æresnormer står sterkt, blant annet i enkelte grupper med innvandrerbakgrunn. En eventuell indirekte forskjellbehandling er lovlig dersom den har et saklig formål, er nødvendig for å oppnå formålet og ikke er uforholdsmessig inngripende overfor den eller dem som forskjellsbehandles, jf. likestillings- og diskrimineringsloven § 9.
+
+Å synliggjøre at æresmotiv kan vektlegges i straffskjerpende retning, er begrunnet i et saklig behov for å verne særskilt utsatte grupper. Unge kvinner og jenter er overrepresentert i statistikken for æresmotivert kriminalitet.[^829] Norge har forpliktet seg til å hindre vold og skadelige praksiser som er direkte rettet mot kvinner og jenter, jf. Istanbul-konvensjonen, kvinnediskrimineringskonvensjonen og barnekonvensjonen. Også personer som identifiserer seg som lhbtiq+ kan være ekstra utsatt for æresmotivert kriminalitet, og har et legitimt behov for beskyttelse mot slike handlinger.
+
+Utvalget mener videre at tiltaket ikke går lenger enn nødvendig for å oppnå formålet. Æresmotivet kan allerede tas i betraktning ved straffutmålingen i skjerpende retning etter rettspraksis. Om æresmotivet synliggjøres i straffeloven, styrkes forutberegneligheten for potensielle gjerningspersoner. Synliggjøringen er et viktig bidrag i arbeidet for å verne særlig utsatte grupper ved at flere saker som omhandler æresmotivert vold, faktisk etterforskes og straffeforfølges. Synliggjøring av æresmotivet i straffeloven vil kunne bidra til bedre fenomenforståelse slik at etterforskingen tidligere kommer i et riktig spor og gir potensielle utsatte nødvendig beskyttelse i tide. Dette vil, sammen med en nødvendig kunnskapsheving i politiet, påtalemyndigheten og domstolene, vil gi utsatte et bedre rettsvern.
+
+Utvalget mener også at en eventuell indirekte forskjellsbehandling som følge av forslaget er forholdsmessig. Det vil ikke være tilstrekkelig at gjerningspersonen tilhører en gruppe der æresnormer står sentralt. Det må bevises at den konkrete straffbare handlingen faktisk var motivert av ære, for at straffen skal skjerpes. Det kan ikke utelukkes at en synliggjøring av æresmotivet vil føre til at politiet etterforsker bredere ved straffbare handlinger mot nærstående som begås av gjerningspersoner tilhørende enkelte grupper med innvandrerbakgrunn enn der den mistenkte ikke har slik bakgrunn. Den ulempen en mistenkt opplever som følge av at etterforskingen eventuelt går bredt ut for å undersøke om et straffbart forhold er æresmotivert, er etter utvalgets vurdering ikke uforholdsmessig sett opp mot behovet for å beskytte de utsatte for slik kriminalitet. Utvalget mener videre at å synliggjøre æresmotiv i straffelovgivningen kan ha en viktig preventiv funksjon, noe som klart veier opp for ulempene med en slik bestemmelse.
+
+Avslutningsvis er det grunn til å påpeke at æresmotivert kriminalitet ikke bare foregår i minoritetsmiljøer med bakgrunn fra andre land. Også i etnisk norske miljøer med tradisjon for æreskultur kan slik kriminalitet skje. En ny bestemmelse vil blant annet ramme æresmotivert vold begått i kriminelle miljøer med sterk æreskultur, som for eksempel i enkelte MC-miljøer.
+
+Utvalget konkluderer med at å synliggjøre æresmotiv som et straffskjerpende moment ikke strider mot forbudet mot diskriminering, og at en indirekte forskjellsbehandling vil ha et saklig formål, være nødvendig for å oppnå formålet og ikke være et uforholdsmessig tiltak overfor den eller dem som eventuelt forskjellsbehandles.
+
+### Utforming av bestemmelsen
+
+Utvalget har hentet inspirasjon fra den svenske brottsbalken 29. kap. 2 § nr. 10, som bestemmer at *heder* (ære) skal anses straffskjerpende. Det foreslås imidlertid enkelte justeringer fra den svenske bestemmelsen.
+
+I utvalgets forslag skal «ære» forstås som omdømme, anseelse eller status knyttet til en gruppe. Bestemmelsen skal tydeliggjøre at domstolene i straffutmålingen især skal ta i betraktning om lovbruddet er begått for å bevare eller gjenopprette ære. Utvalget mener at bestemmelsen bør formuleres slik at den rammer et kollektivistisk æresbegrep. Med kollektiv ære menes at en persons handlinger anses for å påvirke en hel gruppes anseelse eller respekt, eller anseelsen eller respekten til andre enkeltpersoner som tilhører gruppen. Den straffbare handlingen har som motiv å bevare eller gjenopprette en slik kollektiv ære, enten æren til hele gruppen eller til enkeltmedlemmer av gruppen. Et eksempel er en far som begår vold mot sin datter fordi han mener at datterens valg av kjæreste går ut over æren til hele familien eller hans egen ære. Det er ikke et krav om at andre personer enn gjerningspersonen faktisk mener at gjerningspersonens, slektens eller gruppens ære står i fare eller er krenket.
+
+Både handlinger for å bevare æren og handlinger for å gjenopprette æren bør omfattes av bestemmelsen. Det betyr at bestemmelsen vil omfatte både lovbrudd som er begått for å hindre et framtidig tap av ære, samt lovbrudd som er begått for å straffe tap av ære eller å bøte på et tap av ære som allerede har skjedd. Den straffbare handlingen må ikke faktisk ha ført til at personen eller gruppens ære blir gjenopprettet eller bevart, så lenge handlingen er begått med denne hensikt.
+
+Det må være årsakssammenheng mellom æresmotivet og lovbruddet. Det betyr at den straffbare handlingen faktisk må ha vært motivert av ære. Ære må ha vært en vesentlig del av motivasjonen for lovbruddet, men behøver ikke å ha vært det eneste motivet eller hovedmotivet for handlingene.
+
+Utvalget mener at bestemmelsens ordlyd ikke bør begrenses til grupper som ligner på familie og slekt, slik som den svenske bestemmelsen. Æresmotivert kriminalitet forekommer ikke bare innenfor familie eller slekt, men også innenfor etniske, kulturelle eller religiøse grupper som i formell betydning ikke utgjør familie eller slekt. Også kriminelle miljøer kan ha sterkt indre samhold med en sterk æreskodeks. Volden kan være forventet eller legitimert av gruppen for å gjenopprette ære. Det kan være en forventning om at medlemmene skal være lydige mot leder og innordne seg gruppens normer. Det samme kan være tilfelle med religiøse grupper med sterke hierarkiske og patriarkalske strukturer. Utvalget har ikke hatt kapasitet til å undersøke grundig i hvilken grad æresmotiv vektlegges i slike grupper i dag, men ser ingen prinsipielle eller andre innvendinger mot at også slike grupper kan omfattes. Nedslagsfeltet blir dermed noe videre enn for tilsvarende bestemmelse i Sverige, som ikke omfatter grupper som ikke ligner familier.
+
+Forslaget innebærer å lovfeste at domstolene må ta æresmotivet i betraktning i forbindelse med straffutmålingen, slik det allerede gjøres i en del saker i dag. Hvilken vekt momentet skal tillegges i den enkelte sak er fortsatt opp til domstolen å vurdere, basert på hva som i det konkrete tilfellet framstår som en adekvat og rimelig reaksjon. Momentet er relevant uavhengig av lovbruddets art, men utvalget antar at det vil ha særlig betydning for lovbrudd etter kapittel 24 om vern av den personlige frihet og fred og kapittel 25 om voldslovbrudd mv.

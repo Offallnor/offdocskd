@@ -1,933 +1,304 @@
-# NOU 2024: 13, del 28 av 47 (side 306–316)
+# NOU 2024: 13, del 28 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 306]
-
-304
-
-Kapittel 23
-
-NOU 2024: 13
-Lov og frihet
-
-innebære «alvorlige mangler» i den omsorgen
-barnet får.
-Etter bokstav c kan omsorgsovertakelse iverksettes når barnet blir mishandlet eller utsatt for
-andre alvorlige overgrep i hjemmet. Mishandlingen og overgrepene kan være av både fysisk og
-psykisk karakter.19 At barnet er vitne til eller kjent
-med mishandling av eller alvorlige voldshandlinger mot andre nærstående i hjemmet, utgjør et
-alvorlig psykisk overgrep. Ikke all bruk av makt
-utgjør mishandling. Forarbeidene peker på at
-«holding og andre lette beskyttende eller avvergende tiltak» ikke er mishandling. Bestemmelsen
-vil heller ikke kunne brukes bare på grunn av én
-enkelt og mindre alvorlig krenkelse dersom barnevernstjenesten alt i alt vurderer hjemmesituasjonen som tilfredsstillende for barnet.
-Selv om bokstav a i mange tilfeller vil være
-oppfylt dersom barnet er mishandlet eller utsatt
-for overgrep, var det ifølge forarbeidene til ny barnevernslov ikke et ønske om å fjerne alternativene i bokstav b fra lovteksten.20 Begrunnelsen
-var at det på grunn av tiltakets inngripende karakter er en fordel med så klar hjemmel som mulig.
-Foreldrenes kontroll, restriksjoner og represalier kan være av et slikt omfang og alvorlighetsgrad at det kan anses som mishandling av barnet.
-Systematisk press, overvåking, oppsyn, trusler og
-tvang som gjøres samlet over tid, kan etter
-omstendighetene innebære psykisk mishandling.
-Det må foreligge en viss intensitet i de virkemidlene som brukes. I tillegg beror vurderingen på
-hvordan det enkelte barnet påvirkes av kontrollen. Mildere former for kontroll faller utenfor.
-Et vedtak om omsorgsovertakelse må settes i
-verk senest innen seks uker etter nemndas vedtak. Dersom barnet ikke er plassert innen fristen,
-vil vedtaket falle bort, jf. § 5-2.
-Dersom barnet oppholder seg i en annen stat,
-men har sitt vanlige bosted i Norge, kan det treffes vedtak om omsorgsovertakelse etter barnevernsloven § 5-1, jf. § 1-2 tredje ledd.
-
-23.2.4 Plassering på institusjon etter
-barnevernsloven § 6-2
-Et barn kan plasseres på institusjon uten samtykke fra barnet selv eller foreldrene dersom barnet etter barnevernsloven § 6-2 bokstav a til c har
-vist «alvorlige atferdsvansker» ved å begå alvorlig
-eller gjentatte lovbrudd, ved vedvarende problematisk bruk av rusmidler eller ved annen form for
-19
-20
-
-Prop. 133 L (2020–2021) punkt 11.2.4.2.
-Ibid.
-
-utpreget normløs atferd. I tillegg må nemnda vurdere at institusjonene barnet foreslås plassert i er
-faglig og materielt i stand til å tilby barnet forsvarlig hjelp, jf. barnevernsloven § 6-2 fjerde ledd.
-Kriteriet «alvorlig lovbrudd» omfatter blant
-annet volds- og seksuallovbrudd av alvorlig karakter, mens «gjentatte lovbrudd» blant annet omfatter «serier av tyverier, ran og hærverk». Bokstav b
-omfatter ikke enhver form for rusmiddelbruk, det
-kreves en relativt omfattende bruk både i tid og
-omfang og type rusmidler. Alternativet «(a)nnen
-form for utpreget normløs atferd» i bokstav c
-omfatter blant annet ugyldig skolefravær eller at
-barnet utagerer i grensesettingssituasjoner, tar tilhold i uheldige miljøer, ikke kommer hjem, men
-streifer rundt ute dag og natt, eller unndrar seg
-omsorg.21
-At foreldre bruker streng kontroll for å hindre
-at ungdom bruker narkotika eller er i et kriminelt
-miljø, vil i Norge ofte anses som legitimt. Foreldrekontroll kan imidlertid bli så sterk eller omfattende at den på en uforholdsmessig måte innskrenker barns og ungdoms autonomi. Barnevernstjenesten bør avdekke om barnets atferdsproblemer skyldes barnets opprør og motstand
-mot den sterke kontrollen, enten i familien eller
-for eksempel i et sterkt religiøst trossamfunn.
-Skyldes barnets atferd slike forhold, vil andre tiltak enn plassering i institusjon kunne være mer
-egnet. Dette må vurderes konkret.22
-Dersom barnet oppholder seg i en annen stat,
-men har sitt vanlige bosted i Norge, kan det treffes vedtak om plassering på institusjon etter barnevernsloven § 6-2, jf. § 1-2 tredje ledd.
-
-23.3 Andre lands rett
-23.3.1 Danmark23
-I forbindelse med vedtakelse av ny barnets lov i
-Danmark, ble begrepene negativ sosial kontroll
-og æresrelaterte konflikter tatt inn i fire bestemmelser i barnets lov:24 § 15 om kommunenes
-beredskapsplan mot blant annet negativ sosial
-kontroll og æresmotivert vold, §18 om screening
-av saker, § 113 om ungstøtte (ettervern) og § 137
-om adgang til å holde samtale med barn uten foreldrenes samtykke under behandling av bekym21
-
-Prop. 133 L (2020–2021) merknader til § 6-2.
-Se også NOU 2023: 24 punkt 7.3.
-23 Se kapittel 1 om utvalgets omtale av andre lands rett og
-utvalg av land som omtales.
-24 Lov nr. 721 af 13. juni 2023 om barnet, som ændret ved lov
-nr. 217 af 05. marts 2024 og lov nr. 329 af 09. april 2024
-[Lest i Retsinformation.dk].
-22
-
-[Side 307]
-
-NOU 2024: 13
-Lov og frihet
-
-ringsmeldinger. Se for øvrig foregående kapittel
-om dansk rett.
-
-23.4 Behov og problemstillinger
-Med bakgrunn i innspill fra aktører og organisasjoner har utvalget identifisert følgende problemer av særlig betydning for dette kapittelet:
-– Barnevernstjenesten og hjelpeapparatet for
-øvrig har manglende kunnskap om negativ
-sosial kontroll og æresmotivert vold.
-– Det kan være vanskelig å vite når ulike former
-for negativ sosial kontroll utløser tiltak etter
-barnevernsloven.
-– Det er varierende kunnskap om skadevirkningene av negativ sosial kontroll og risikoen for
-mer alvorlige handlinger som tvangsekteskap,
-æresmotivert vold og ufrivillig utenlandsopphold.
-
-23.5 Utvalgets vurderinger og forslag
-23.5.1 Innledning
-Det er ikke tvil om at barn som utsettes for ulike
-former for press, oppsyn, trusler eller tvang som
-systematisk begrenser dem i deres livsutfoldelse
-eller gjentatte ganger hindrer dem i å treffe selvstendige valg om eget liv og framtid, kan ha et
-særlig behov for hjelp, og dermed rett til tiltak
-etter barnevernsloven. I grove tilfeller vil barnevernet også ha en plikt til å avverge straffbare forhold ved å varsle politiet, jf. straffeloven § 196 om
-avvergingsplikt. Der de fleste tilfellene av negativ
-sosial kontroll kan utløse rett til hjelpetiltak etter
-barnevernsloven, vil kun de grovere tilfellene oppfylle vilkårene for akutte tiltak eller omsorgsovertakelse.25 Loven gir liten veiledning om hvilken
-vekt og relevans negativ sosial kontroll har ved
-vurderingen av hjelpetiltak etter § 3-1 og ved
-omsorgsovertakelse etter § 5-1. Det er heller ikke
-mye veiledning å finne om negativ sosial kontroll i
-forarbeidene eller rettspraksis.
-Det er ikke mulig, og heller ikke ønskelig, å
-angi presist når negativ sosial kontroll faktisk utløser tiltak eller hvilke tiltak som bør iverksettes.
-Det vesentlige i vurderingen av om kontrollen
-utløser rett og plikt på barnevernstiltak, er ikke
-om handlingene eller atferden som barnet utsettes for faller inn under definisjonen negativ sosial
-kontroll. Det sentrale er å undersøke barnets helhetlige omsorgssituasjon og behov for hjelp.
-25
-
-Göller 2020: punkt 9.3.5.
-
-305
-
-Kapittel 23
-
-Hvorvidt barnet er utsatt for negativ sosial kontroll kan ha betydning for vurderingen. Kunnskap
-om indikasjoner på negativ sosial kontroll, skadevirkninger og risikofaktorer for mer alvorlige
-handlinger er av stor betydning for barnevernets
-vurderinger.
-Det er etter utvalgets syn problematisk at barnevernstjenesten har manglende eller varierende
-kunnskap om fenomenet negativ sosial kontroll
-og de skadevirkningene dette kan ha for barn.
-Dette kan medføre at barn som utsettes for sterke
-restriksjoner og begrensninger og som av den
-grunn har behov for hjelp, risikerer å ikke motta
-egnede tiltak til rett tid. Dette gjelder særlig barn
-som ikke også er utsatt for fysisk vold eller mangler i den praktiske omsorgen. Negativ sosial kontroll kan være mer «usynlig» og derfor vanskeligere å avdekke. Særlig viktig er det å identifisere
-negativ sosial kontroll som er begrunnet i familiens ønske om å bevare eller gjenopprette ære, slik
-at det kan foretas en grundig vurdering av risiko
-og best egnede tiltak. Spørsmålet er om endringer
-i lovens tiltakshjemler i seg selv kan føre til bedre
-kunnskap og forståelse og lette barnevernets vurderinger.
-Nedenfor vurderer utvalget om det er særlige
-elementer av negativ sosial kontroll som bør løftes
-fram og synliggjøres i tiltakshjemlene i barnevernsloven. Videre vurderer utvalget om begrepet
-negativ sosial kontroll bør innføres som et selvstendig utløsende vilkår for frivillig hjelpetiltak, et
-inngrepskriterium for omsorgsovertakelse (heretter kalt inngangsvilkår for begge tilfellene), eller
-som et moment ved vurderingen av om tiltak skal
-iverksettes, jf. mandatets bokstav a.
-
-23.5.2 Medvirkning og selvbestemmelse som
-moment i vurderingen
-Utvalget foreslår å tilføye et nytt ledd i barnevernsloven § 3-1 (om frivillig hjelpetiltak) som tydeliggjør at det skal legges vekt på om barnets rett til
-medvirkning og selvbestemmelse er alvorlig krenket
-i vurderingen av om barnet på grunn av sin
-omsorgssituasjon eller atferd har et særlig behov
-for hjelp. Utvalget foreslår i tillegg å tilføye i
-lovens § 5-1 bokstav a om omsorgsovertakelse at
-det skal legges vekt på om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket i
-vurdering av om det er «alvorlige mangler ved
-den omsorgen barnet får».
-Barns medvirknings- og selvbestemmelsesrett
-innebærer at barn skal ha anledning til å medvirke og bestemme utfra barnets alder og utvikling, jf. barnekonvensjonen artikkel 12 og bar-
-
-[Side 308]
-
-306
-
-Kapittel 23
-
-NOU 2024: 13
-Lov og frihet
-
-nelova §§ 31 og 33. Barns medvirknings- og selvbestemmelsesrett springer ut av retten til privatliv
-etter Grunnloven § 102 og EMK artikkel 8 nr. 1
-som beskytter den enkeltes rett til personlig utvikling og autonomi. Retten til privatliv tilfaller
-«enhver», inkludert barn, jf. også barnekonvensjonen artikkel 16. Barnekonvensjonen artikkel 5 om
-gradvis utvikling av evner og anlegg, indikerer
-også at barnet må gis en gradvis autonomi i personlige forhold.
-Negativ sosial kontroll innebærer begrensninger i barnets autonomi og mulighet til å
-bestemme over eget liv i tråd med dets alder og
-modenhet. Barnet får for eksempel ikke gi uforbeholdent uttrykk for sine synspunkter ved at det
-utsettes for systematisk og utilbørlig påvirkning
-eller press, og ved at det forventes at barnet innordner seg familiens behov og normer. Kontrollen
-kan innebære at et barn må avstå fra å utvikle et
-forhold til klassekamerater og barn i nabolaget.
-Kontrollen kan videre innebære at barnet må
-avstå fra å delta på ulike fritidsaktiviteter og dermed hindres i å utforske egne interesser og talenter. Kontrollen kan legge begrensninger på barn
-og unges mulighet til å uttrykke sin seksuelle legning og kjønnsidentitet. Barn og unge kan også
-presses inn i relasjoner eller aktiviteter de ikke
-ønsker eller tar avstand fra. Slike systematiske
-begrensninger eller pålegg kan skade barnets
-mulighet til å utvikle en egen identitet, og evne til
-å ta selvstendige valg senere i livet.26
-Et særlig kjennetegn ved saker om negativ
-sosial kontroll er dermed at barnets medvirknings- og selvbestemmelsesrett er tilsidesatt
-eller sterkt begrenset, enten av foreldre, andre
-familiemedlemmer, eller av barnets øvrige sosiale
-omgangskrets. Barns medvirkning og selvbestemmelse forutsetter at barnet faktisk er i stand
-til å gi uttrykk for sin egen vilje, noe som nettopp
-kan være utfordrende i saker om negativ sosial
-kontroll. Negativ sosial kontroll over tid kan føre
-til at barnet ikke lenger har en egen vilje, fordi det
-ikke er trent eller vant til å ta egne valg i livet.
-Dette er en utfordring som krever tilrettelegging
-for prosesser som kan sikre at barnet kan komme
-i posisjon til å snakke trygt og til å gi uttrykk for
-egne behov og oppfatninger. Foreldre er forpliktet
-til å legge til rette for dette i kraft av foreldreansvaret, og barnevernet må sikre gode arenaer for barnets medvirkning ved iverksettelse av tiltak etter
-barnevernsloven.
-26
-
-Se mer om skadevirkninger av negativ sosial kontroll i
-kapittel 3.
-
-I barnevernsloven kommer barnets medvirknings- og selvbestemmelsesrett til uttrykk i § 1-4
-(om barnets rett til medvirkning), § 10-2 (om
-barns rettigheter i barnevernsinstitusjon), § 3-3
-(om frivillig opphold i fosterhjem eller barnevernsinstitusjon mv.) og § 14-3 (om høring av barn i
-saker for nemnda). Disse bestemmelsene er knyttet til barnets medvirkning i forbindelse med barnevernstjenestens håndtering av saker etter barnevernsloven. Barnevernsloven har imidlertid
-ingen bestemmelser som synligjør at krenkelse av
-barnets rett til medvirkning og selvbestemmelse
-etter omstendighetene kan innebære en form for
-omsorgssvikt i seg selv.
-Utvalgets forslag om å føye til at det skal legges særlig vekt på om barnets rett til medvirkning
-og selvbestemmelse er alvorlig krenket i § 3-1 (om
-frivillig hjelpetiltak), vil sikre at dette hensynet
-også tillegges vekt i vurderingen av om det er
-grunnlag for å åpne undersøkelse i saken, jf. § 2-2
-første ledd (om barnevernstjenestens rett og plikt
-til å gjennomføre undersøkelser). Det vises til at
-den nedre terskelen for å iverksette undersøkelse
-reguleres av vilkårene for frivillig hjelpetiltak etter
-lovens § 3-1. Ved å tilføye i lovens § 5-1 (om
-omsorgsovertakelse) at det i vurderingen av om
-det er «alvorlige mangler ved den omsorgen barnet får», skal legges vekt på om barnets rett til
-medvirkning og selvbestemmelse er alvorlig krenket
-blir dette et selvstendig moment ved vurderingen
-av om vilkårene for omsorgsovertakelse er oppfylt.
-Formålet med forslagene er å styrke beskyttelsen av barn og unge som ikke får ivaretatt sin
-medvirknings- og selvbestemmelsesrett i egen
-familie, der dette går ut over deres personlige
-utvikling og autonomi. Hvor stor vekt momentet
-skal tillegges vil avhenge av i hvor stor grad retten
-er krenket. Det bør stilles strengere krav til krenkelsen i vurderingen av om vilkårene for omsorgsovertakelse er oppfylt enn om det er grunnlag for
-å åpne undersøkelse eller tilby frivillig hjelpetiltak. Forslagene er etter utvalgets vurdering egnet
-til å løfte fram og sikre at elementer av negativ
-sosial kontroll blir tillagt vekt og vurdert når barnevernstjenesten vurderer om det skal åpnes
-undersøkelse eller iverksettes tiltak etter barnevernsloven.
-
-23.5.3 Tydeliggjøring av psykisk omsorg
-i barnevernslovens tiltakshjemler
-Utvalget foreslår å tydeliggjøre at mangler ved
-den omsorgen barnet får omhandler både fysisk
-og psykisk omsorg etter barnevernslovens § 5-1
-
-[Side 309]
-
-NOU 2024: 13
-Lov og frihet
-
-307
-
-Kapittel 23
-
-bokstav a. Formålet med forslaget er å tydeliggjøre gjeldende rett og å signalisere at psykisk
-omsorgssvikt kan medføre alvorlige skadevirkninger for barn. Utvalget foreslår en tilsvarende endring i lovens § 3-1 om frivillig hjelpetiltak.
-Etter barnevernsloven § 5-1 bokstav a kan det
-treffes vedtak om omsorgsovertakelse for et barn
-dersom «det er alvorlige mangler ved den omsorgen barnet får, herunder den personlige kontakt
-og trygghet, sett hen til det barnet trenger etter
-sin alder og utvikling». Ifølge forarbeidene tar
-bestemmelsen «sikte på å fange opp alvorlige
-mangler ved den daglige praktiske omsorgen», og
-at også «alvorlige mangler i den emosjonelle og
-psykiske kontakten mellom barn og foreldre
-omfattes av bestemmelsen».27 Utvalget mener at
-bestemmelsens ordlyd ikke er tydelig nok på at
-mangler ved den psykiske omsorgen er omfattet.
-Ved å endre ordlyden til «alvorlige mangler ved
-den fysiske og psykiske omsorgen barnet får, herunder den personlige kontakt og trygghet (…)»,
-vil det komme tydeligere fram at elementer av
-psykisk vold og negativ sosial kontroll, som ikke
-nødvendigvis når opp til terskelen for mishandling
-som nevnt i barnevernsloven § 5-1 bokstav c,
-omfattes av bestemmelsen.28 En presisering i
-bestemmelsen vil ikke innebære en realitetsendring.
-Barn som blir utsatt for negativ sosial kontroll,
-slik som press trusler, oppsyn og overvåking,
-eller som blir systematisk oversett og frosset ut av
-sine omsorgspersoner fordi de ikke følger familiens normer og regler, er etter utvalgets syn utsatt
-for mangler ved den psykiske omsorgen. Disse
-eksemplene kan også falle inn under formuleringen «den personlige kontakt og trygghet» som
-allerede er inntatt i bestemmelsens ordlyd som
-eksempler på mangler ved den omsorgen barnet
-får. Utvalget mener likevel at det er grunn til å
-framheve mangler som på annen måte berører
-den unge psykisk. Det er en glidende overgang
-mellom streng oppdragelse og sosial kontroll som
-ligger innenfor hva foreldre kan gjøre i kraft av sitt
-foreldreansvar, og kontroll som går over til å bli
-negativ og ikke akseptabel. Det kan ikke utelukkes at en situasjon der et barn er utsatt for negativ
-sosial kontroll kan mistolkes som et uttrykk for
-grensesetting og trygge rammer. Utvalget mener
-bestemmelsen bør utformes slik at oppmerksomheten rettes mot barnets behov for psykisk
-
-omsorg, som er en videre betegnelse enn «kontakt og trygghet».
-Det finnes ulike måter å beskrive mangler ved
-den psykiske omsorgen. Forarbeidene til barnevernsloven viser til «den emosjonelle og psykiske
-kontakten mellom barn og foreldre».29 Utvalget
-mener at formuleringen «fysisk eller psykisk»
-omsorg egner seg bedre, da den i større grad vil
-fange opp de elementer som kjennetegner negativ
-sosial kontroll og psykisk vold.
-Utvalget foreslår tilsvarende endring med tilsvarende begrunnelse i barnevernsloven § 3-1 om
-frivillig hjelpetiltak, slik at det ved vurderingen av
-om «barnet på grunn av sin omsorgssituasjon
-eller atferd har et særlig behov for hjelp» blant
-annet kan legges vekt på om det er mangler ved den
-psykiske omsorgen barnet får.
-Etter utvalgets syn vil dette forslaget, sammen
-med utvalgets forslag om å legge vekt på om barnets medvirknings- og selvbestemmelsesrett er
-alvorlig krenket, signalisere et behov for mer
-fokus og kompetanseheving i saker om psykisk
-vold og negativ sosial kontroll i barnevernstjenesten. Dette kan bidra til at det utvikles tiltak
-som gir barnevernstjenesten flere metoder for å
-gi råd og veiledning i saker der barnets frihet
-begrenses av for strenge foreldrerestriksjoner.
-Dette kan også bidra til at psykisk vold og negativ
-sosial kontroll og dens skadevirkninger i større
-grad synliggjøres i utdanningsforløpet.30
-
-27
-
-29
-
-Prop. 133 L (2020–2021) punkt 11.2.4.2 og merknader til
-§ 5-1.
-28 Se kapittel 3 om utvalgets forståelse og bruk av begrepet
-psykisk vold i denne utredningen.
-
-23.5.4 Negativ sosial kontroll som et
-inngangsvilkår for tiltak
-Utvalget mener at begrepet negativ sosial kontroll
-ikke bør inntas som et grunnvilkår i barnevernsloven § 3-1 om frivillig hjelpetiltak eller § 5-1 om
-omsorgsovertakelse.
-Flere av tiltakene i barnevernsloven er inngripende, noe som stiller et særlig krav til klarhet for
-å ivareta partenes rettssikkerhet i tråd med legalitetsprinsippet. Begrepet negativ sosial kontroll
-omfatter en rekke ulike handlinger og atferder av
-mer eller mindre alvorlig grad. Etter utvalgets syn
-er ikke begrepet egnet som et inngangsvilkår for
-tiltak i en lov som allerede har i seg bestemmelser
-som dekker fenomenet.
-Også Göller (2020) frarådet å innta begrepet
-negativ sosial kontroll som et inngangsvilkår for
-tiltak etter barnevernloven av 1992 om frivillig
-Prop. 133 L (2020–2021) punkt 11.2.4.2 og merknader til
-§ 5-1.
-30 Se om behovet i utdanningsforløpet i Lidén og Bredal 2017:
-side 114.
-
-[Side 310]
-
-308
-
-Kapittel 23
-
-NOU 2024: 13
-Lov og frihet
-
-hjelpetiltak og omsorgsovertakelse.31 Hun begrunner dette slik:
-Dersom rettsvirkningen knyttes til en vurdering av om barnet er utsatt for negativ sosial
-kontroll eller ikke, vil enkelte elementer ved
-barnets situasjon måtte vurderes løsrevet fra
-de øvrige – nemlig i hvilken grad barnets valgfrihet og livsutfoldelse er undergitt begrensninger i større grad enn det barnets alder og utvikling skulle tilsi, og eventuelt hvilke virkemidler
-foreldrene har anvendt for å oppnå denne kontrollen. I tillegg oppstår et problem i neste ledd
-– som redegjort for over er det jo ikke slik at
-alle tilfeller av negativ sosial kontroll bør utløse
-den samme rettsvirkningen. Å innføre «negativ
-sosial kontroll» som en rettighetsutløsende
-faktor vil dermed gå på tvers av den eksisterende strukturen i barnevernloven, der de
-enkelte bestemmelsene er organisert etter
-hvilken rettsvirkning som utløses. Resultatet
-vil være at flere hjemler kommer til anvendelse
-på samme faktum, og det vil måtte foretas kompliserte vurderinger av hvilken hjemmel som
-til enhver tid skal benyttes, ettersom det ikke
-vil være klart hvilken som er den mest spesialiserte (jf. prinsippet om lex specialis). Dette
-skaper en risiko for at tilfeller som under tvil
-finnes å ikke utgjøre negativ sosial kontroll,
-ikke fører til tiltak fra barnevernet fordi man
-ikke tenker på at det likevel kan være aktuelt å
-benytte en av de eksisterende hjemlene. Dette
-vil gi en uklar rettstilstand, og vil i verste fall
-kunne svekke barnas rettsvern uten at det
-egentlig tilføyer noen merverdi sammenlignet
-med dagens situasjon.32
-
-Utvalget er enig med Göller i at begrepet negativ
-sosial kontroll ikke egner seg som et inngangsvilkår i tiltakshjemlene, samt hennes videre argumenter om at det:
-[å] oppstille en spesialkategori for saker om
-negativ sosial kontroll vil vanskeliggjøre rettsanvendelse og i verste fall også svekke de kontrollerte barnas rettsvern. Både hensynet til
-barnas rettssikkerhet og rettstekniske hensyn
-taler mot en slik endring. Utfra formuleringene
-i lovverket er det allerede rom for å legge vekt
-på de ulike elementene som kjennetegner barnas situasjon når de utsettes for negativ sosial
-kontroll. Det synes dermed ikke å være behov
-31
-32
-
-Göller 2020: punkt 9.3.5.
-Ibid.
-
-for en materiell endring. Dertil kommer at innføringen av begrepet «negativ sosial kontroll»
-som inngangsvilkår vil kunne komplisere rettsanvendelsen og virke mot sin hensikt ved at
-forutberegneligheten svekkes.33
-
-For spørsmålet om omsorgsovertakelse etter § 5-1
-skal både grunnvilkåret og nødvendighetsvilkåret i bestemmelsen være oppfylt. Her spiller flere
-momenter inn, særlig omfanget og alvorlighetsgraden av kontrollen, virkningen den har for barnet, virkemidlene som benyttes og barnets individuelle omsorgsbehov. En innføring av begrepet
-negativ sosial kontroll som et grunnvilkår for tiltak, vil ikke nødvendigvis tydeliggjøre denne vurderingen. Det kan tvert imot innebære en risiko
-for at barnevernstjenesten foretar en isolert vurdering av hvorvidt barnet er utsatt for negativ
-sosial kontroll, framfor å vurdere den helhetlige
-omsorgssituasjonen til barnet og behovet for
-hjelp.
-
-23.5.5 Negativ sosial kontroll som moment
-Utvalget er samlet om problemforståelsen og de
-ulike og til dels alvorlige utfordringer det medfører for barn å bli utsatt for alvorlig negativ sosial
-kontroll og påfølgende skadevirkninger. Negativ
-sosial kontroll er et fenomen som eksisterer i
-Norge, og utsatte barn har behov for å bli tatt på
-det største alvor i sitt møte med hjelpeapparatet.
-Det er svært uheldig om barnevernstjenesten
-ikke fanger opp barnets behov for hjelp og beskyttelse på grunn av manglende kunnskap og fenomenforståelse. Utvalget er også samlet om at det
-bør tilstrebes å gjøre endringer i barnevernsloven
-for å løfte tematikken og dermed bidra til et kunnskapsløft for å sikre at riktige vurderinger blir tatt
-til rett tid. Utvalget er imidlertid delt i vurderingen
-av om det å innta begrepet negativ sosial kontroll
-som et moment i loven vil føre til økt kunnskap
-om, og avdekking av negativ sosial kontroll, bedre
-vurderinger og derigjennom bedre rettsvern for
-utsatte barn. Nedenfor følger en gjennomgang av
-fordeler og ulemper ved begge alternativene.
-Å lovfeste begrepet negativ sosial kontroll som
-et moment som skal vektlegges i helhetsvurderingen av om barnet på grunn av sin omsorgssituasjon eller atferd har et «særlig behov for hjelp»
-etter § 3-1, kan bidra til å synliggjøre fenomenet.
-Tilsvarende gjelder om begrepet tas inn som et
-moment som skal vektlegges i helhetsvurderingen av om det er «alvorlige mangler ved den
-33
-
-Ibid.
-
-[Side 311]
-
-NOU 2024: 13
-Lov og frihet
-
-omsorgen barnet får», jf. § 5-1. Gode grunner kan
-tale for å løfte begrepet på lovs nivå, for å tydeliggjøre at negativ sosial kontroll er et fenomen som
-barn kan være utsatt for, og som kan utgjøre en
-form for omsorgssvikt som gir barn rett til hjelpetiltak eller omsorgsovertakelse. En innvending er
-likevel at barnevernsloven §§ 3-1 og 5-1 i all
-hovedsak er generelt utformet uten å inneholde
-konkrete former for omsorgssvikt. Det kan bryte
-med lovens struktur å innta brudd på enkelte av
-barns rettigheter eller en spesiell form for
-omsorgssvikt som momenter i vurderingen.
-Begrepet negativ sosial kontroll er et paraplybegrep som inneholder et vidt spekter av praksiser av ulik form og alvorlighetsgrader. Styrken i
-begrepet er at det kan belyse underliggende fellestrekk knyttet til utøverens motivasjon og maktforholdet mellom utøver og det utsatte barnet,
-skadevirkninger og risikoen for mer alvorlige
-handlinger. Å innta begrepet som moment i vurderingene av om frivillig hjelpetiltak eller omsorgsovertakelse skal iverksettes, kan dermed bidra til
-at barnevernstjenesten i større grad ser og undersøker barnets helhetlige omsorgssituasjon og
-behov. Ved å innta begrepet i loven, må barnevernstjenesten forholde seg til fenomenet og
-aktivt gjøre seg kjent med indikatorer for om et
-barn er utsatt for denne formen for omsorgssvikt.
-En svakhet ved begrepet er at det er upresist,
-noe som taler mot å lovfeste det som et moment
-det skal legges vekt på i vurderingen av om vilkårene for tiltak er oppfylt. Negativ sosial kontroll er
-ikke et enhetlig fenomen, men omfatter en rekke
-ulike praksiser av ulik alvorlighetsgrad. Kontrollen kan være omfattende og utgjøre svært alvorlige og straffbare inngrep i barnets liv, men kan
-også være av mildere art, begrenset til enkelte
-deler av barnets hverdag, ha et begrenset omfang
-eller hyppighet og skje ved bruk av mindre inngripende virkemidler. Begrepets mangfoldige innhold vil være krevende å forholde seg til, også
-som moment, og kan medføre uklarhet knyttet til
-både lovforståelse og vurderinger av hvilke tiltak
-som er nødvendige. Omsorgsovertakelse er et
-særlig alvorlig inngrep i foreldrenes rett til familieliv og kravet til klar lovhjemmel gjør seg gjeldende. Et upresist begrep kan dermed være problematisk selv om det ikke innføres som et utløsende vilkår. Slik Göller argumenterer for, kan lovfesting av begrepet negativ sosial kontroll bidra til
-å vanskeliggjøre rettsanvendelsen og i verste fall
-svekke forutberegneligheten og rettsvernet for
-både barn og foreldre. Begrepet kan også bidra til
-å tilsløre alvorlige handlinger som rammes av
-straffeloven, som vold og mishandling. Dette kan
-
-309
-
-Kapittel 23
-
-imidlertid avhjelpes gjennom styrket opplæring
-og tydelige retningslinjer.
-Enkelte innspill utvalget har mottatt, peker på
-risikoen for å stigmatisere minoritetsmiljøer med
-bakgrunn fra enkelte land, kulturer og religiøse
-miljøer ved å ta begrepet negativ sosial kontroll
-inn i lovgivningen. Begrepet er assosiert med oppdragelsesnormer i en del konservative muslimske
-miljøer. Det blir vist til at mange i disse miljøene
-er utsatt for stigmatisering, diskriminering og
-rasisme.34 Studier viser at det allerede er utfordrende for barnevernstjenesten å bygge tillit og et
-godt samarbeidsklima med enkelte familier med
-innvandrerbakgrunn.35 Utvalget viser i den forbindelse til at negativ sosial kontroll også forekommer i andre grupper, blant annet i lukkede
-trossamfunn i Norge, i familier hvor sterk kontroll
-er begrunnet i en overdreven frykt for at barnet
-skal bli utsatt for skade eller fare, eller der en eller
-begge foreldrene har en svært autoritær oppdragerstil eller et omfattende kontrollbehov. Likestillingssenteret KUN viser blant annet til at majoritetsnorske barn utsatt for negativ sosial kontroll,
-for eksempel barn i lukkede trossamfunn, «må
-bevise at deres opplevelser kan plasseres innenfor
-denne kategorien».
-Selv om negativ sosial kontroll skjer i mange
-ulike grupper og miljøer, forekommer det oftere i
-familier med bakgrunn fra land der patriarkalske
-og kollektivistiske familiestrukturer og konservative holdninger til kjønn og seksualitet er mer
-utbredt enn i Norge.36 Barn som opplever alvorlige former for negativ sosial kontroll er en sårbar
-gruppe med et særlig behov for beskyttelse.
-Forskning fra Danmark viser at barn fra Midtøsten fikk hjelp av barnevernstjenesten langt senere
-enn barn med opprinnelse i Danmark. For barn
-fra Midtøsten krevde det i gjennomsnitt 34 meldinger til barnevernstjenesten før et barn under
-seks år ble plassert av barnevernstjenesten i 2019,
-mens det for barn med opprinnelse i Danmark i
-gjennomsnitt krevdes åtte bekymringsmeldinger.37 Det kan ikke utelukkes en tilsvarende erfaring i Norge. Utvalget anser det ikke som diskriminering at barnevernstjenesten i sin saksbehandling retter oppmerksomheten mot barn fra
-land, samfunn eller miljøer hvor patriarkalske
-holdninger og praksiser er utbredt. Men en
-bekymringsmelding eller et tiltak etter barnevernsloven kan selvsagt ikke utelukkende bygge på for34
-
-MiRA-Senteret og Islamsk Råd Norge.
-Bredal og Melby 2018: side 93.
-36 Friberg 2019.
-37 Schneider 2021; Social- og Ældreministeriet 2021: side 1.
-35
-
-[Side 312]
-
-310
-
-Kapittel 23
-
-NOU 2024: 13
-Lov og frihet
-
-eldrenes bakgrunn.38 For å unngå diskriminering
-i praksis, er kunnskap om tematikken og risikoutsatte grupper avgjørende slik at alle barn har
-samme vern mot negativ sosial kontroll.
-Dersom begrepet lovfestes som et moment i
-§§ 3-1 om frivillig hjelpetiltak og 5-1 om omsorgsovertakelse, er det behov for at begrepet defineres
-direkte i lovteksten som «press, oppsyn, trusler
-eller tvang som systematisk begrenser barnet i
-sin livsutfoldelse eller gjentatte ganger hindrer
-det i å treffe selvstendige valg om eget liv og framtid». I vurderingen av om et handlingsmønster
-utgjør negativ sosial kontroll, må det «tas hensyn
-til barnets alder og utvikling og prinsippet om barnets beste». Flere kompetansemiljøer har utarbeidet indikatorlister som kan være veiledende, og
-som sammen med lovfesting av begrepet kan føre
-til en bedre begrepsforståelse og et tydeligere innhold, se kapittel 19.
-Utvalgsmedlemmenes vurderinger
-Selv om det er rettslige betenkeligheter knyttet til
-å innlemme begrepet i lovgivningen, er utvalgets
-klare utgangspunkt at det er behov for tiltak som
-kan bidra til en bedre forståelse av fenomenet
-negativ sosial kontroll ved anvendelsen av barnevernsloven. Utvalget anser det som særdeles viktig å styrke barnevernets kompetanse om fenomenet negativ sosial kontroll.
-Utvalgsmedlem Aasen, Christoffersen, Dinardi,
-Eritsland, Friberg og Rui anbefaler at begrepet
-ikke tas inn som moment i tiltaksbestemmelsene.
-Disse medlemmene legger størst vekt på at begrepet negativ sosial kontroll er et upresist begrep
-som ikke er godt egnet til å tas direkte inn i loven.
-Å tillegge negativ sosial kontroll selvstendig rettslig betydning vil skape uklarhet opp mot definisjonen av hva som faller inn under foreldreansvaret
-etter barneloven, samt retten til familieliv, jf. EMK
-artikkel 8 og Grunnloven § 102. Disse utvalgsmedlemmene legger vekt på at det som særlig
-kjennetegner saker om negativ sosial kontroll er
-at barnets medvirknings- og selvbestemmelsesrett er tilsidesatt eller sterkt begrenset. Disse
-utvalgsmedlemmene mener derfor at den beste
-løsningen er å framheve barnets rettigheter etter
-Grunnloven og menneskerettighetene, i tillegg til
-å framheve at alvorlig omsorgssvikt kan skyldes
-alvorlige mangler ved den psykiske omsorgen.
-Disse utvalgsmedlemmene mener denne løsnin38
-
-Se klagesaker fra Likestillings- og diskrimineringsnemnda
-om diskriminering på grunn av etnisitet ved mistanke om
-kjønnslemlestelse, sak 09/2527, sak 15/65 og sak 18/197.
-
-gen vil være best i tråd med barnevernslovens rettighetsbaserte tilnærming, som også er framhevet
-av Barnekomitéen og lagt til grunn i forarbeidene.39
-Utvalgsmedlem El Abassi anbefaler at begrepet
-negativ sosial kontroll tas inn som et moment i
-vurderingene av om vilkårene etter barnevernsloven § 3-1 om frivillig hjelpetiltak og § 5-1 om
-omsorgsovertakelse er oppfylt. Abassi framhever
-at negativ sosial kontroll er en effektiv språkdrakt
-på et fenomen som eksisterer i Norge, og som
-sammen med forslagene om å framheve hvorvidt
-barnets medvirknings- og selvbestemmelsesrett
-er alvorlig krenket og om barnet er utsatt for
-omsorgssvikt av psykisk karakter, kan bidra til å
-løfte fram saker om negativ sosial kontroll i barnevernstjenestens vurdering av om det er behov for
-å iverksette frivillige hjelpetiltak eller omsorgsovertakelse.
-Utvalgsmedlem Martnes ser både fordeler og
-ulemper ved å ta begrepet negativ sosial kontroll
-inn i barnevernsloven som moment i vurderingen
-av om vilkårene for frivillig hjelpetiltak eller
-omsorgsovertakelse er oppfylt. Det er en fordel at
-begge forslagene legges fram til vurdering som
-mulige tiltak. Martnes er for øvrig enig i at det
-som særlig kjennetegner saker om negativ sosial
-kontroll er at barnets medvirknings- og selvbestemmelsesrett er tilsidesatt eller sterkt begrenset, og at barnets rettigheter etter Grunnloven og
-menneskerettighetene bør framheves, i tillegg til
-å framheve at alvorlig omsorgssvikt kan skyldes
-alvorlige mangler ved den psykiske omsorgen.
-Uavhengig av hvilke forslag som fremmes
-mener et samlet utvalg at en endring av bestemmelser i barnevernsloven langt fra er tilstrekkelig
-til å styrke barnevernets arbeid mot negativ sosial
-kontroll og æresmotivert vold. Supplerende tiltak
-er avgjørende for å sikre barns rettigheter i tråd
-med barnevernsloven. Barnevernets fenomenkunnskap må styrkes, i tillegg til kunnskap om
-regelverket.40
-
-23.5.6 Synliggjøring av psykisk mishandling
-i barnevernsloven § 5-1 bokstav c
-Utvalget foreslår at det presiseres i barnevernsloven § 5-1 bokstav c at mishandlingen kan være
-fysisk eller psykisk. Formålet med forslaget er å
-tydeliggjøre at psykisk mishandling alene kan
-danne grunnlag for omsorgsovertakelse, og at
-barnevernstjenesten plikter å avverge videre mis39
-40
-
-Se NOU 2016: 16 punkt 3.4.4 og 5.3.2.2.
-Lidén og Bredal 2017: side 120.
-
-[Side 313]
-
-NOU 2024: 13
-Lov og frihet
-
-handling, jf. straffeloven § 196. En slik forståelse
-følger allerede av gjeldende rett og forslaget innebærer derfor ingen realitetsendring.
-Etter barnevernsloven § 5-1 bokstav c kan barneverns- og helsenemnda treffe vedtak om
-omsorgsovertakelse dersom «barnet blir mishandlet eller utsatt for andre alvorlige overgrep i
-hjemmet». I begrepet «mishandlet» inngår både
-psykisk og fysisk mishandling.41 Psykisk mishandling kan blant annet bestå av frihetsinnskrenkning gjennom kontroll, overvåking, isolering, ydmykende behandling, trusler, verbal trakassering, aggressiv atferd eller å være vitne til
-vold mot andre («indirekte» vold), og handlingene
-foregår ofte i sammenheng og over tid. Slik mishandling er svært skadelig for barn. Det kan forhindre eller ødelegge barnets utvikling, trygghetsfølelse, selvfølelse og selvtillit, og medføre en
-rekke psykiske og somatiske sykdommer og plager i barndommen og i senere voksenliv, som
-posttraumatiske stressreaksjoner, depresjon,
-angst, atferdsvansker, spiseforstyrrelser og søvnproblemer.42
-Formålet med forslaget er å synliggjøre «usynlige» former for mishandling. Negativ sosial kontroll vil i de fleste tilfeller innebære psykiske krenkelser av den utsatte, slik som overvåkning, kontroll, trusler og press. I de grovere tilfellene med
-omfattende trusler, ydmykende behandling m.m.
-kan kontrollen utgjøre psykisk mishandling av
-barnet som kan gi grunnlag for omsorgsovertakelse etter bestemmelsen.
-Forslaget bidrar til å styrke barns rett til vern
-mot alle former for vold og integritetskrenkelser
-etter Grunnloven § 104 tredje ledd og barnekonvensjonen artikkel 19 som skal beskytte barnet
-mot «alle former for fysisk eller psykisk vold,
-skade eller misbruk, vanskjøtsel eller forsømmelig behandling, mishandling eller utnytting (…)
-mens en eller begge foreldre, verge(r) eller eventuell annen person har omsorgen for barnet».
-Barn er særlig sårbare, og trenger i større
-utstrekning enn voksne, myndighetenes hjelp til å
-beskytte sin personlige integritet.43 Dette begrunner en synliggjøring av psykisk mishandling i barnevernsloven.
-Forslaget er i tråd med utvalgets øvrige forslag
-om å innta psykisk mishandling i utlendingsloven
-§ 53, psykiske krenkelser i straffeloven § 282 om
-mishandling i nære relasjoner, tilføyelser i straffeloven § 266 om hensynsløs atferd, og om endring
-41
-
-Prop. 133 L (2020–2021) punkt 11.2.4.2.
-Thoresen mfl. 2015.
-43 Dokument 16 (2011–2012) punkt 32.5.5.
-42
-
-311
-
-Kapittel 23
-
-av forbudet mot vold mot barn i utøvelsen av foreldreansvaret i barnelova § 30 tredje ledd. Alle forslagene springer ut av formålet om å styrke
-rettsvernet mot psykisk vold og negativ sosial
-kontroll.44 Hensynet til sammenhengen i regelverket tilsier at barns rettsvern mot psykiske
-krenkelser og mishandling også bør framkomme
-tydelig av barnevernsloven.
-
-23.5.7 Synliggjøring av æresmotivert
-kriminalitet i barnevernsloven
-Barn som er utsatt for, eller risikerer å bli utsatt
-for, æresmotivert kriminalitet er en særlig sårbar
-gruppe, se kapittel 3. Kripos har i sitt innspill til
-utvalget foreslått at ærestematikken tas inn i flere
-av bestemmelsene i barnevernsloven:
-Å sette inn hjelpetiltak der hvor æreskriminalitet er et tema, vil både være til hjelp for utsatte
-barn, og dessuten en inngang for barneverntjenesten til å bedre forstå hva som skjer i familien. Dersom hjelpetiltaket følges opp tett, vil
-det være mulig å avdekke faren for alvorlige
-overgrep (vold, tvangsekteskap, reiser til utlandet) på et tidligere tidspunkt enn om tiltak ikke
-iverksettes. Dette er med andre ord god forebygging. Barneverntjenesten står fritt i valg av
-hjelpetiltak, og bør utarbeide et sett tiltak for
-slike tilfeller.
-
-Kripos foreslår blant annet at det innføres et nytt
-punkt i barnevernsloven § 3-1 om hjelpetiltak:
-«Barneverntjenesten skal særlig være oppmerksom på hvorvidt barnet er utsatt for æresrelatert
-kontroll eller vold». Formålet med hjelpetiltakene
-kan for eksempel være å hjelpe barnet inn i ulike
-fritidsaktiviteter som bringer det ut av familiens
-og miljøets kontroll. Det blir vist til at en æresrelatert konflikt etter sin art ikke er kortvarig. Hjelpetiltak må igangsettes i et langsiktig perspektiv, og
-bør som utgangspunkt ta sikte på å forlenges til
-etter at barnet har fylt 18 år, jf. barnevernloven
-§ 1-3. Kripos foreslår også at ærestematikken på
-tilsvarende måte løftes fram i barnevernsloven
-§ 4-2 om hjelpetiltak. Det blir vist til at denne
-bestemmelsen er i kjerneområdet for arbeidet
-mot æreskriminalitet i Norge. Videre foreslår
-Kripos at ærestematikken tas inn i flere andre
-bestemmelser i barnevernsloven, blant annet
-bestemmelser om frivillig plassering i fosterhjem,
-plassering utenfor hjemmet, ved vedtak om medi44
-
-Se kapittel 3 om utvalgets forståelse og bruk av begrepet
-psykisk vold i denne utredningen.
-
-[Side 314]
-
-312
-
-Kapittel 23
-
-NOU 2024: 13
-Lov og frihet
-
-sinsk behandling, valg av plasseringssted, bestemmelser om samværsrett og plassering og tilbakehold i institusjon uten eget samtykke.
-Utvalget er i hovedsak enig i vurderingene til
-Kripos, men har ikke hatt anledning til å foreslå
-
-regelverksendringer utover forslaget om at barnevernstjenesten må foreta en risikovurdering før
-foreldreinvolvering dersom det viser seg at barnet
-kan være utsatt for æresmotivert vold, jf. utvalgets
-forslag til endringer i § 2-2, alternativ II.
-
-[Side 315]
-
-NOU 2024: 13
-Lov og frihet
-
-313
-
-Kapittel 24
-
-Kapittel 24
-
-Andre anbefalinger – ettervern, risikovurdering mv.
-24.1 Ettervernstiltak for risikoutsatte
-ungdommer over 18 år
-24.1.1 Bakgrunn
-Utvalget anbefaler at det utredes nærmere om
-unge personer over 18 år som har vært utsatt for
-skadelig omsorg under oppveksten, men som tidligere har blitt avskåret fra å motta hjelp etter barnevernsloven, på visse vilkår bør gis adgang til
-hjelpetiltak etter barnevernsloven. Anbefalingen
-springer ut av det særlige behovet unge, som har
-vært utsatt for ufrivillig utenlandsopphold, har for
-hjelp og bistand ved retur til Norge. Også unge
-personer som har hatt en oppvekst i strenge lukkede trossamfunn, kan ha et slikt behov dersom
-de for eksempel ekskluderes fra samfunnet etter
-fylte 18 år.
-Barn som er utsatt for ufrivillig utenlandsopphold har i mange tilfeller vært utsatt for omsorgssvikt i utlandet før de ble 18 år, men har ikke mottatt bistand fra barnevernstjenesten nettopp fordi
-de befant seg i utlandet. Ved retur til Norge kan de
-mangle kompetanse både i å orientere seg og fungere i det norske samfunnet. De kan også ha manglende nettverk. Dette er særlig framhevet i
-ekspertgrupperapporten «Det var ikke bare
-ferie».1 I rapporten vises det til informasjon som
-indikerer at mange unge som returnerer til Norge
-etter en skadelig utenlandsreise ikke blir fulgt
-godt nok opp. Ekspertgruppa framhever en rekke
-behov, som spenner fra rent praktiske bistandsbehov som å skaffe identifikasjonspapirer og legitimasjon, bosted, penger og klær, til hjelp til reetablering i samfunnet, herunder skolegang eller
-dagtilbud og behov for helsehjelp. Hjelpetiltak fra
-barnevernstjenesten kan bidra til å samordne tiltak fra ulike hjelpeinstanser som skal ivareta ulike
-deler av den unges behov.
-Også unge over 18 år som har brutt med et
-strengt religiøst miljø, kan ha behov for hjelp og
-1
-
-Ekspertgruppa om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 6.8.
-
-støtte uavhengig av om de har hatt tiltak fra barnevernstjenesten tidligere. Denne gruppen kan ha
-fått lov av familien til å bo hjemme til de er 18 år,
-men må flytte hjemmefra ved myndighetsalder
-fordi de lever i strid med gruppens regler og normer. Noen har gått på skoler som tilhører det religiøse miljøet, og har levd på siden av storsamfunnet. De unge kan miste store deler av sin sosiale
-omgangskrets og nettverk, inkludert nære familiemedlemmer, når de må forlate familien og trossamfunnet, som kan være en betydelig psykisk
-påkjenning.2 De kan være svært sårbare i møte
-med nye relasjoner, noe som særlig påpekes i
-Hjelpekilden sin erfaringsrapport om unge som
-blir ekskludert fra religiøse fellesskap.3 Unge
-voksne som har brutt med religiøse miljøer kan
-mangle sosialisering og tilhørighet til storsamfunnet som de tidligere har blitt advart mot. Den nye
-situasjonen kan skape eksistensielle utfordringer,
-og det kan være vanskelig å forstå hvordan verden
-utenfor trossamfunnet fungerer.
-Negativ sosial kontroll, æresmotivert vold,
-risiko for tvangsekteskap, psykisk vold og ufrivillig utenlandsopphold avtar ikke nødvendigvis ved
-fylte 18 år. De fleste ungdommer vil bo hjemme
-hos foreldrene i noe tid etter at de har blitt myndige, gjerne fram til fullført videregående skole.
-Noen er også tvunget til å bo hjemme fram til de
-gifter seg. I tillegg vil unge som bryter med familien og nettverket sitt som følge av restriksjonene
-være særlig sårbare. Den unge vil kunne ha et
-fortsatt behov for hjelp og støtte fra barnevernstjenesten for overgang til voksenlivet og til å løsrive
-seg fra foreldrene. Særlig viktig vil ettervern være
-der den unge bryter ut av en familie med sterk
-æreskultur.
-
-24.1.2 Gjeldende rett
-Tiltak etter barnevernsloven som er iverksatt før
-en ungdom har fylt 18 år, skal videreføres eller
-2
-3
-
-Hjelpekilden 2022.
-Ibid.
-
-[Side 316]
-
-314
-
-Kapittel 24
-
-NOU 2024: 13
-Lov og frihet
-
-erstattes av andre tiltak når ungdommen samtykker og har behov for hjelp eller støtte fra barnevernstjenesten til en god overgang til voksenlivet.
-Dette følger av barnevernsloven § 3-6 (om hjelpetiltak til ungdom over 18 år). Det framgår av
-bestemmelsen at tiltak kan iverksettes selv om
-ungdommen har vært uten tiltak en periode. Tiltak kan iverksettes fram til ungdommen fyller 25
-år.
-Begrunnelsen for å gi barnevernstiltak til ungdom over 18 år, er å bidra til at ungdom med barnevernserfaring skal få nødvendig hjelp og støtte i
-overgangsfasen til en selvstendig voksentilværelse. Det skal ifølge forarbeidene til barnevernsloven tas utgangspunkt i at en ungdoms behov
-for fortsatt hjelp og støtte, vanligvis vil ha sammenheng med det tidligere behovet for tiltak fra
-barnevernet:
-Det må imidlertid foretas en vurdering. Dersom hjelpebehovet primært har andre årsaker,
-vil det ikke være barnevernstjenesten som har
-plikt til å ivareta ungdommens hjelpebehov. I
-ettervernsfasen vil spørsmålet om barnevernstjenestens ansvar i større grad måtte vurderes opp mot hvilken type tiltak barnet har
-behov for og om det er hjelp fra barnevernet,
-og ikke andre hjelpeinstanser, som ungdommen trenger. Det er dette formuleringen
-«behov for hjelp fra barnevernet» er ment å gi
-uttrykk for. En viktig oppgave for barnevernstjenesten i ettervernsarbeidet vil ofte
-være å bistå med å formidle kontakt med andre
-deler av hjelpeapparatet. Dette gjelder også
-ved avslutning av ettervern. Det vises til barnevernstjenestens plikt til å samarbeide med
-andre instanser, jf. § 15-9 og barnevernstjenestens oppfølgingsansvar jf. § 8-5.4
-
-Gjeldende rett åpner ikke for å iverksette tiltak til
-ungdommer med behov for hjelp og støtte til en
-god overgang til voksenlivet, dersom de ikke har
-mottatt tiltak fra barnevernstjenesten før de ble 18
-år. Ettervernstiltak etter barnevernsloven vil normalt omfatte oppgaver som foreldre ellers har, slik
-som praktisk hjelp og tilrettelegging av bolig,
-hjelp til å følge opp skolegang, overgang til videre
-utdanning eller arbeid, til å legge framtidsplaner
-og til å følge opp eventuell kontakt med hjelpeapparatet. Mange ungdommer vil også være i behov
-av noen til å rådføre seg med om ulike spørsmål
-om livet og det daglige.5
-4
-
-24.1.3 Utvalgets vurderinger
-Utvalget anbefaler at det utredes og vurderes nærmere om unge personer over 18 år som har vært
-utsatt for skadelig omsorg under oppveksten, men
-som tidligere har blitt avskåret fra å motta hjelp
-etter barnevernsloven, på visse vilkår gis adgang
-til hjelpetiltak, i form av ettervern.
-Utvalget ser at det særlig kan være behov for
-frivillige tiltak fra barnevernstjenesten for unge
-som har returnert til Norge etter et ufrivillig eller
-skadelig utenlandsopphold, unge som er ekskludert eller har brutt med strengt lukkede trossamfunn, og unge som har vært utsatt for psykisk
-vold, negativ sosial kontroll eller æresmotivert
-vold eller kontroll, og som av den grunn ikke har
-hatt anledning eller mulighet til å be om hjelp.6
-Utvalget ser også at det kan være behov for ettervern i tilfeller der barnevernstjenesten har mottatt
-bekymringsmeldinger om barn, men allikevel
-ikke har klart å fange opp sakens alvorlige karakter eller på annen måte har sviktet i å gi nødvendig
-hjelp før barnet fylte 18 år.
-Forarbeidene til barnevernsloven viser til
-forskning som tilsier at ungdom som har opplevd
-omsorgssvikt har høy risiko for å havne utenfor
-utdanning og arbeidsliv. Videre blir det vist til at
-unge med barnevernserfaring som har mottatt
-ettervern, klarer seg bedre senere i livet, enn
-unge med barnevernserfaring som ikke har mottatt ettervern.7 I saker der barn har blitt utsatt for
-negativ sosial kontroll i oppveksten, avtar ikke
-nødvendigvis kontrollen ved fylte 18 år, tvert imot
-kan den øke, og hjelp og tiltak fra barnevernet kan
-være særlig viktig også etter myndighetsalder.
-Utvalget har ikke hatt anledning til å innhente
-tilstrekkelig dokumentasjon til å foreta grundige
-vurderinger av hvilke unge som bør omfattes av
-en slik ordning, om det eventuelt er grunnlag for å
-begrense en ordning til bare å gjelde målgruppen
-for denne utredningen. Utvalget har heller ikke
-grunnlag for å vurdere økonomiske og samfunnsmessige konsekvenser av et konkret lovforslag
-eller forholdet til andre hjelpetilbud de utsatte kan
-ha tilgang til, men anbefaler at forslaget vurderes
-nærmere.
-
-5
-6
-7
-
-Prop. 133 L (2020–2021) merknader til § 3-6.
-
-Stang og Sanberg 2023: side 484.
-Se kapittel 3 om utvalgets anvendelse av begrepet psykisk
-vold.
-Se Prop. 133 L (2020–2021) punkt 9.2.4.1; Stein og Munro
-2008. Se også Backe-Hansen mfl. 2024.
+# Negativ sosial kontroll, foreldreansvaret og barns rettigheter
+
+## Innledning
+
+I dette kapittelet vurderer utvalget om det er behov for regelverksendringer for å tydeliggjøre når negativ sosial kontroll utgjør et brudd på barnelovas bestemmelser om foreldreansvar og barns medvirknings- og selvbestemmelsesrett, jf. mandatets bokstav a.
+
+Hovedregelen i norsk rett er at foreldre i kraft av foreldreansvaret har stor frihet til å treffe beslutninger og å føre tilsyn med sine barn, jf. barnelova § 30.[^1188] Dette bygger på erkjennelsen av at barn og ungdom trenger veiledning og rammer, og at grensesetting er en nødvendig del av omsorgen for barnet. For lite kontroll kan være skadelig for barnet. Utgangspunktet er også at foreldre har rett til å oppdra sine barn i tråd med sin kulturelle bakgrunn og religiøse overbevisning.[^1189] Menneskerettighetene og særlovgivningen setter imidlertid flere viktige begrensninger for utøvelsen av foreldreansvaret. Barn og unge har blant annet rett til medvirkning og selvbestemmelse i tråd med alder og utvikling. Videre utgjør hensynet til barnets beste en grense for hvilken oppdragelse foreldrene har rett til å gi sine barn. Foreldrekontroll som krenker disse rettighetene, og hindrer barnets selvstendige utvikling og livsutfoldelse på en urimelig måte, er ikke i samsvar med barnets rettigheter. Problemstillingen i saker om negativ sosial kontroll av barn er knyttet til spenningsforholdet mellom foreldrenes og barnas rettigheter.
+
+Grensene for hva slags kontroll foreldre kan utøve over egne barn, har endret seg de siste tiårene. Oppfatningen av hva som er «passende» eller «upassende» oppdragelsesmetoder er blant annet farget av samfunnets kulturelle verdier, normene i nærmiljøet og av den enkeltes personlige erfaringer.[^1190] Det som tidligere ble sett på som legitime handlinger knyttet til barneoppdragelse, for eksempel klapsing av barn, faller i dag utenfor grensene for foreldreansvaret, og kan etter omstendighetene også føre til sanksjoner mot foreldrene. Det norske samfunnet har også blitt mer internasjonalisert. Ved inngangen av 2023 utgjorde innvandrere[^1191] 16 prosent av befolkningen i Norge,[^1192] noe som innebærer en tredobling siden 2000.[^1193] Økt mangfold i befolkningen innebærer også økt mangfold i oppdragelsesstiler, der foreldre har ulike forventninger til sine barn, for eksempel i spørsmål om seksualitet, privatliv, utdanningsvalg og fritid. Videre kan en streng oppdragerstil og kontroll være mer akseptert når graden av kjærlighet og lydhørhet overfor barnet ellers er høy, mens samme type kontroll kan utgjøre omsorgssvikt dersom barnet ikke blir møtt med forståelse, kjærlighet og omsorg.[^1194]
+
+De menneskerettslige rammene for foreldreansvaret er omhandlet i kapittel 5. I dette kapittelet kommenterer utvalget menneskerettighetene fortløpende. Barnelovutvalget har i NOU 2020: 14 *Ny barnelov – Til barnets beste* utredet forslag til en ny barnelov, som per nå er under behandling i Barne- og familiedepartementet. Barnelovutvalgets lovforslag presenteres i bokser underveis i kapittelet.
+
+## Gjeldende rett
+
+### Foreldreansvarets innhold
+
+Oversikt
+
+Foreldreansvaret er sammen med barnets medvirknings- og selvbestemmelsesrett et grunnleggende begrep for å beskrive det personlige rettsforholdet mellom barn og foreldre.[^1195] Til foreldreansvaret knytter det seg både rettigheter og plikter. Foreldres rett og plikt til å ta vare på egne barn er beskyttet av Grunnloven § 102 og EMK artikkel 8 og kommer til uttrykk i flere av barnekonvensjonens artikler. Blant annet krever barnekonvensjonen artikkel 5 at staten respekterer foreldrenes ansvar, rettigheter og plikter, og uttrykker at foreldreansvaret omfatter å gi barnet «veiledning og støtte, tilpasset dets gradvise utvikling av evner og anlegg» under barnets utøvelse av rettighetene etter barnekonvensjonen. I norsk rett reguleres foreldreansvarets innhold av barnelova § 30, som lyder:
+
+Barnet har krav på omsut og omtanke frå dei som har foreldreansvaret. Dei har rett og plikt til å ta avgjerder for barnet i personlege tilhøve innanfor dei grensene som §§ 31 til 33 set. Har foreldra sams foreldreansvar, skal dei ta avgjerdene saman. Foreldreansvaret skal utøvast ut frå barnet sine interesser og behov.
+
+Dei som har foreldreansvaret, er skyldige til å gje barnet forsvarleg oppseding og forsyting. Dei skal syte for at barnet får utdanning etter evne og givnad.
+
+Barnet må ikkje bli utsett for vald eller på anna vis bli handsama slik at den fysiske eller psykiske helsa blir utsett for skade eller fare. Dette gjeld òg når valden brukast som ledd i oppsedinga av barnet. Bruk av vald og skremmande eller plagsam framferd eller annan omsynslaus åtferd overfor barnet er forbode.
+
+Om retten til å ta avgjerd for barnet i økonomiske tilhøve gjeld reglane i vergemålsloven.
+
+Bestemmelsen oppstiller både en omsorgsplikt og en bestemmelsesrett og -plikt for foreldre med foreldreansvar. Disse skal utøves ut fra barnets interesser og behov, jf. bestemmelsens første ledd siste punktum. I tillegg fastslår tredje ledd at barnet ikke skal utsettes for vold eller andre handlinger som kan skade barnet, heller ikke i oppdragelsesøyemed. Forbudet mot vold gjennomgås i eget punkt nedenfor.
+
+Barnelova angir ingen sanksjoner ved brudd på foreldreansvaret. Ifølge forarbeidene er reglene i barnelova § 30 «i første rekke en prinsipperklæring».[^1196] Brudd på foreldreansvaret kan likevel danne bakgrunn for undersøkelse eller tiltak etter barnevernsloven, se kapittel 22 flg. Videre kan vold, overgrep, alvorlig omsorgssvikt og andre alvorlige krenkelser av barn sanksjoneres etter straffeloven, se utredningens del II.
+
+Omsorgsplikten
+
+Etter § 30 første ledd første punktum har barnet krav på omsorg og omtanke fra de som har foreldreansvaret. I dette ligger en plikt blant annet til å gi kjærlighet, trygghet, oppmerksomhet, stell og pleie, tilsyn og mulighet for lek og samvær med andre.[^1197] Omsorgen skal stimulere barnets utvikling. En annen sentral del av omsorgsplikten er å avverge og forebygge både fysiske og psykiske skader, for eksempel å varsle og følge opp med tiltak dersom et barn opplever mobbing i barnehagen eller på skolen.[^1198] Tilsvarende vil omsorgsplikten innebære en plikt til å beskytte barnet mot skadelig kontroll fra andre enn foreldrene, som for eksempel i strengt religiøse eller kulturelle miljøer.
+
+En annen del av omsorgsplikten følger av § 30 andre ledd, som bestemmer at de med foreldreansvar skal gi barnet «forsvarleg oppseding og forsyting». Med forsørgelse («forsyting») menes ifølge forarbeidene det rent praktiske, som å sørge for mat, klær, bosted mv.[^1199] Plikten til å gi oppdragelse («oppseding») består for eksempel i å gi veiledning i sosial omgang mellom mennesker samt lek og samvær med andre barn.
+
+Etter andre ledd andre punktum skal foreldre sørge for at barnet får utdanning «etter evne og givnad». Ifølge forarbeidene ligger foreldrenes oppgaver på den personlige omsorgen, som går ut på å stimulere og legge forholdene praktisk til rette for at barnet får den utdanningen som passer.[^1200] Ordlyden «evne og givnad» understreker at valget skal skje ut fra det individuelle barnets forutsetninger og personlighet. Barnets ønsker skal tillegges vesentlig vekt.[^1201] Barns rett til utdanning følger av Grunnloven § 109 og barnekonvensjonen artikkel 28.
+
+Omsorgsplikten etter barnelova § 30 går ut på å dekke eller legge til rette for dekning av nødvendige fysiske og psykiske behov hos barnet.[^1202] Når det gjelder grensen mot negativ sosial kontroll, er det særlig relevant at det i omsorgsplikten ligger en plikt til å gi barnet tilsyn og oppdragelse. Dette innebærer at en viss grad av kontroll og tilsyn er pålagt foreldre i kraft av foreldreansvaret. Kontroll og tilsyn skal imidlertid utøves ut fra barnets interesser og behov. Oppdragerrollen endres i takt med barnets økende alder og modenhet. Den skal utøves annerledes overfor tenåringer enn små barn, ved at støtte- og rådgiverrollen blir mer fremtredende i takt med barnets alder og modenhet.
+
+Beslutningsretten
+
+Barnelova § 30 første ledd andre punktum gir foreldre med foreldreansvar rett og plikt til å ta avgjørelser for barnet i «personlege tilhøve» innenfor grensene for barnets med- og selvbestemmelse, jf. §§ 31 til 33. Etter ordlyden «personlige tilhøve» omfatter foreldrenes bestemmelsesrett det meste som gjelder barnet, som for eksempel mat og påkledning, leggetider, venner, forhold knyttet til skole, samt tilsyn og oppfølging. Utenfor faller økonomiske spørsmål, som er særskilt regulert av vergemålsloven, jf. barnelova § 30 fjerde ledd. Hovedregelen er imidlertid at det er den eller de med foreldreansvar som er verge for barnet, jf. vergemålsloven § 16.
+
+Ved siden av barnelova § 30, gir både barnelova og særlovgivningen enkelte konkrete oppgaver og myndighet til den eller dem som har foreldreansvaret. Etter barnelova §§ 40 og 41 gjelder dette beslutninger om hvorvidt barnet skal flytte utenlands, se om dette i utredningens kapittel 26. I særlovgivningen gis foreldre med foreldreansvar myndighet til å bestemme i spørsmål om medisinsk behandling, økonomiske forhold, pass, valg av navn mv.
+
+Eksempler på beslutninger som hører inn under foreldreansvaret
+
+- Personlige forhold, jf. barnelova § 30
+
+- Vergemål, jf. vergemålsloven § 16
+
+- Medisinsk behandling, jf. pasient- og brukerrettighetsloven § 4-4
+
+- Utstedelse av pass, jf. passloven § 4
+
+- Valg av type skole
+
+- Navnevalg, jf. navneloven § 3 andre ledd
+
+- Innmelding i trossamfunn, jf. trossamfunnsloven § 2
+
+- Flytting og opphold i utlandet, jf. barnelova §§ 40 og 41
+
+\[Boks slutt\]
+
+Bestemmelsesretten etter foreldreansvaret er med andre ord omfattende. Foreldres rett til å bestemme over sine barn gjelder imidlertid ikke ubegrenset. For det første gjelder den generelle begrensningen om at foreldreansvaret skal utøves ut fra barnets interesser og behov, jf. barnelova § 30 første ledd fjerde punktum, samt Grunnloven § 104 og barnekonvensjonen artikkel 3 nr. 1 og artikkel 18 nr. 1. Forarbeidene til barnelova utdyper dette slik:
+
+I tredje punktum \[nå fjerde punktum\] understrekes det at foreldreansvaret ikke er gitt foreldrene for deres egen skyld. Dette betyr ikke at de skal føye seg etter barnet i ett og alt og bøye seg for barnets ønsker i den konkrete situasjon. De må også tenke på hva som objektivt sett vil gagne barnet og være til fordel for det på lengre sikt. Men de må heller ikke ubetinget hindre det i å gjøre sine egne erfaringer og lære av dem. Og foreldrene kan selvsagt pålegge barnet å delta i oppgaver som må utføres i et slikt livsfellesskap som familien er – det er en forutsetning for barnets sosiale tilpasning, noe som utgjør en viktig del av oppdragelsen: også barnet må lære å ta hensyn til andre.[^1203]
+
+Selv om barnets interesser skal være styrende for utøvelsen av foreldrenes bestemmelsesrett, utelukker ikke dette at det tas hensyn til andre interesser, som for eksempel andre familiemedlemmers behov:
+
+Også den øvrige familie – f.eks. søsken – har rett til å bli tatt hensyn til. Likeledes har foreldrene krav på å få leve et liv som på rimelig måte tilfredsstiller dem selv. Avveiningen av barnets interesser mot den øvrige families er ikke lett. Det må dels bero på hvem beslutningen angår sterkest – barnet eller familien som helhet. Også utover dette må barna under oppveksten ha en prioritet fremfor foreldrenes personlige interesser.[^1204]
+
+Foreldrenes bestemmelsesrett er videre begrenset av barnets rett til medvirkning og selvbestemmelse, se nedenfor.
+
+Foreldremyndigheten begrenses også av konkrete bestemmelser som har til formål å beskytte barn. I barnelova § 30 a er det fastslått at avtaler om ekteskap på vegne av barn ikke er bindende. Bestemmelsen kom inn i loven i 2003,[^1205] og var ifølge forarbeidene ment for å opplyse miljøer der det er vanlig at foreldre avtaler ekteskap for sine barn.[^1206] Det er ingen sanksjoner i barnelova for brudd på bestemmelsen, men et eventuelt ekteskap inngått på denne måten vil kunne være ugyldig etter ekteskapsloven § 16. En avtale om ekteskap på vegne av et barn vil også kunne anses som straffbar medvirkning til tvangsekteskap, jf. straffeloven § 253, jf. § 15 eller forsøk på dette.
+
+Foreldre kan heller ikke treffe avgjørelser som medfører at barnet ikke får den lovbestemte retten og plikten til opplæring, jf. opplæringsloven § 2-1 første og femte ledd, eller ta avgjørelser som tillater at barnet tar arbeid som er i strid med arbeidsmiljølovens regler om barnearbeid, jf. arbeidsmiljøloven § 11-1. Bestemmelsesretten er også begrenset av generelle forbud og påbud, slik som lovbestemte aldersgrenser.[^1207]
+
+Foreldreansvaret kan ikke utøves ved bruk av fysisk eller psykisk vold, se neste punkt. Handlinger eller unnlatelser i strid med foreldreansvaret kan etter omstendighetene lede til tiltak etter barnevernsloven, se utredningens kapittel 22 flg.
+
+Barnelovutvalgets forslag i NOU 2020: 14 *Til barnets beste*
+
+Barnelovutvalget foreslår å videreføre reglene om foreldreansvar i barnelova § 30 i to bestemmelser: lovforslagets §§ 6-4 (omsorgsplikt) og 6-5 (bestemmelsesplikt). Utvalget foreslår ingen grunnleggende materielle endringer i innholdet i foreldreansvaret, men enkelte språklige oppdateringer av bestemmelsen, se NOU 2020: 14 side 382 flg., merknader til bestemmelsene.
+
+\[Boks slutt\]
+
+### Forbud mot vold
+
+Retten til beskyttelse mot vold og overgrep er en av barnets grunnleggende rettigheter, jf. Grunnloven § 104 tredje ledd og barnekonvensjonen artikkel 19. I nasjonal rett kommer forbud mot vold til uttrykk i barnelova § 30 tredje ledd:
+
+Barnet må ikkje bli utsett for vald eller på anna vis bli handsama slik at den fysiske eller psykiske helsa blir utsett for skade eller fare. Dette gjeld òg når valden brukast som ledd i oppsedinga av barnet. Bruk av vald og skremmande eller plagsam framferd eller annan omsynslaus åtferd overfor barnet er forbode.
+
+Fram til 1972 hadde foreldre en rett til «maadeholden legemlig Revselse» av sine barn.[^1208] Tredje ledd første punktum i barnelova § 30 kom inn i loven i 1987.[^1209] Tredje ledd andre og tredje punktum kom inn i 2010 for å tydeliggjøre at verken fysisk eller psykisk vold mot barn er tillatt, heller ikke i oppdragerøyemed.[^1210] Det følger av forarbeidene til lovendringen i 2010 at bestemmelsen skal tolkes i lys av barnekonvensjonen artikkel 19, slik denne er tolket og presisert av FNs barnekomité.[^1211]
+
+Voldsforbudet omfatter fysisk vold mot barnet, også i oppdragelsesøyemed. I forarbeidene understrekes det at all form for fysisk avstraffelse som ledd i barneoppdragelse er uakseptabelt, også milde former som klaps, dytting og ørefik.[^1212]
+
+Utøvelsen av foreldreansvaret innebærer behov for korrigering og veiledning av barns atferd. I forarbeidene understrekes det at handlingene må skje i et avvergings- eller omsorgsøyemed for å være lovlige, og ikke som en etterfølgende straffereaksjon.[^1213] Å holde en toåring fast for å hindre at det løper over en trafikkert vei er åpenbart nødvendig. Enhver form for fysisk avstraffelse av barnet, både umiddelbar og etterfølgende, er forbudt. Restriksjoner for å avverge skade eller for å reagere mot et barns dårlige oppførsel, må være rimelige og forholdsmessige.[^1214]
+
+Etter § 30 tredje ledd tredje punktum forbys bruk av «skremmande eller plagsam framferd eller annan omsynslaus åtferd» mot barnet. Ifølge forarbeidene gir formuleringen uttrykk for at psykisk vold mot barn er forbudt.[^1215] I spesialmerknadene utdyper departementet hva som ligger i formuleringen:
+
+Skremmende eller plagsom opptreden eller annen hensynsløs atferd omfatter alle måter å skade, skremme, ydmyke eller på andre måter krenke barnet uten bruk av fysisk makt, som er egnet til å gi barnet en følelse av frykt, avmakt, skyld, skam, mindreverd eller fortvilelse eller en grunnleggende følelse av ikke å være ønsket eller elsket. Det kan for eksempel omfatte innelåsning av barnet i et rom, bruk av trusler om straff eller trusler om at barnet skal bli forlatt eller skadet, trusler om å skade en av barnets omsorgspersoner, søsken eller kjæledyr, ydmykelser, utskjelling, herunder å kalle barnet ved ukvemsord, følelsesmessig manipulering, latterliggjøring, særlig mens andre hører på, nedvurdering, verbal trakassering og følelsesmessig avvisning. Eksemplene er ikke ment å være uttømmende. Ved gjentagende mønstre skal det mindre til for at atferden vil rammes. Ved mer ekstreme handlinger vil en enkelthendelse være nok til at det rammes.[^1216]
+
+Det opprinnelige lovforslaget forbød «all form for vold, både fysisk og psykisk». Da flere høringsinstanser påpekte at begrepet psykisk vold falt utenfor den etablerte forståelsen av voldsbegrepet i straffeloven, foreslo departementet i stedet formuleringen som brukes i straffeloven § 266 om hensynsløs atferd.[^1217]
+
+Barnelovutvalgets forslag i NOU 2020: 14 *Ny barnelov – Til barnets beste*
+
+I Barnelovutvalgets lovforslag fremgår forbudet mot vold av to bestemmelser. Lovforslagets § 1-3 andre ledd gir en generalbestemmelse om forbud mot vold:
+
+Barn har rett til vern mot vald, overgrep og anna omsynslaus åtferd. Dei skal ikkje utsetjast for noko som dei kan ta fysisk eller psykisk skade av, verken i oppsedinga eller i andre samanhengar.
+
+I lovforslagets § 6-4 andre ledd om omsorgsplikt oppstilles et forbud mot «vald eller noko anna som det kan ta fysisk eller psykisk skade av». Bestemmelsene bygger på ordlyden i gjeldende barnelov § 30 tredje ledd, og skal ifølge utvalget forstås på samme måte.
+
+\[Boks slutt\]
+
+### Barnets rett til medvirkning
+
+Medvirkning handler om barnets deltakelse i avgjørelser som angår egen situasjon. Både internasjonal og nasjonal rett gir barn rett til å delta ved avgjørelser som angår dem. Barnets rett til medvirkning følger av Grunnloven § 104 første ledd andre punktum og barnekonvensjonen artikkel 12. Medvirkningsretten følger dessuten av flere nasjonale lover.
+
+Barnelova § 31 første ledd slår fast at etter hvert som barnet blir i stand til å danne seg egne synspunkter skal foreldrene «høyre kva barnet har å seie før dei tek avgjerd». Retten innebærer en plikt for foreldrene til å legge til rette for at barnet kan gi uttrykk for sine synspunkter. Den innebærer derimot ingen plikt for barnet til å uttale seg. Retten til å bli hørt gjelder for alle barn uavhengig av alder, og skal øke i tråd med barnets alder og modenhet.
+
+I likhet med foreldrenes bestemmelsesrett etter barnelova § 30, gjelder medvirkningsretten for avgjørelser om «personlege forhold». Det er altså på de områdene hvor foreldre har bestemmelsesrett og -plikt, at barnet har en medvirkningsrett.[^1218] Forholdet mellom reglene er at foreldrene har den endelige bestemmelsesretten, men med føringen om at barnet skal ha rett til å medvirke ved beslutningen i tråd med § 31.
+
+Barnets rett til å bli hørt er tett sammenvevd med prinsippet om barnets beste. Å høre på barnet og gi det mulighet til å si sin mening er en forutsetning for å finne ut hva som er det enkelte barns beste.[^1219] Foreldre må høre barnets egne meninger, og vektlegge disse i vurderingen av barnets beste.
+
+Det er ingen som sjekker eller etterprøver om foreldre gir barnet rett til medvirkning, og barn har ingen rettslige muligheter til å kreve at retten til medvirkning etterleves i tråd med barnelova § 31. Medvirkningsretten gjelder også overfor andre som barnet bor hos eller som har med barnet å gjøre, jf. første ledd tredje punktum. Dette innebærer at plikten gjelder for slektninger som er med barnet, samt i religiøse og andre miljøer som barnet er en del av.
+
+Selv om barnets mening skal tillegges vekt, vil den ikke nødvendigvis være avgjørende. Foreldrene skal vektlegge barnets synspunkt alt etter hvor gammelt og modent det er, jf. barnelova § 31 første ledd andre punktum. Andre momenter i vurderingen av hvor stor vekt barnets mening skal tillegges, er om barnet forstår rekkevidden av det aktuelle spørsmålet, hvor fast barnet er i sin oppfatning og hva bakgrunnen for barnets standpunkt er.[^1220] I tillegg må det vektlegges om andre berøres av spørsmålet.[^1221] Ifølge forarbeidene «lar \[det\] seg ikke gjøre å si noe generelt om hvor stor vekt foreldrene skal legge på barnets mening – dette vil bero på omstendighetene og foreldrenes skjønn».[^1222]
+
+Eksempler på lovgivning om barns rett til medvirkning
+
+- Barnelova § 31 andre ledd gir barn fra 7 år en ubetinget rett til å uttale seg. Fra 12 år skal det legges stor vekt på barnets mening.
+
+- Barnevernsloven § 1-4 inneholder en generell bestemmelse om barnets rett til medvirkning i alle forhold som vedrører barnet etter barnevernsloven, uten aldersgrense. I tillegg er det en egen forskrift som skal ivareta barns medvirkning og innflytelse i sin kontakt med barnevernet, jf. forskrift 12. oktober 2023 nr. 1631.
+
+- Pasient- og brukerrettighetsloven § 4-4 gir barn fra 7 år og yngre barn som er i stand til å danne seg egne synspunkter, en ubetinget rett til å uttale seg knyttet til foreldrenes samtykke på vegne av barn. Fra barnet er fylt 12 år skal det legges stor vekt på hva barnet mener. Barns generelle rett til medvirkning etter pasient- og brukerrettighetsloven gjelder alle barn som er i stand til å danne seg egne synspunkter jf. § 3-1 første ledd.
+
+- Utlendingsforskriften § 17-3 gir barn fra 7 år, og yngre barn som er i stand til å danne seg egne synspunkter, en ubetinget anledning til å bli hørt før det treffes avgjørelser i saker som vedrører dem etter utlendingsloven.
+
+- Forvaltningsloven § 16 innebærer at en mindreårig over 15 år som er part i en sak og som blir representert av verge, skal varsles før vedtak treffes, og gis mulighet til å uttale seg. I § 17 gis det en generell adgang for barn til å gi uttrykk for sitt syn, i den grad de er i stand til å danne seg egne synspunkter på det saken gjelder. Etter § 18 skal som hovedregel en mindreårig part ha rett til å gjøre seg kjent med sakens dokumenter. I NOU 2019: 5 *Ny forvaltningslov. Lov om saksbehandlingen i offentlig forvaltning (forvaltningsloven)* er det foreslått en generell medbestemmelsesrett uten aldersgrense i forvaltningsloven, se lovforslag § 46.
+
+\[Boks slutt\]
+
+Etter barnelova § 31 andre ledd skal barn som er fylt sju år, og yngre barn som er i stand til å danne seg egne synspunkt, få informasjon og mulighet til å si meningen sin før det blir tatt avgjørelser om personlige forhold for barnet. Etter andre ledd andre punktum skal barnets mening bli vektlagt etter alder og modenhet.
+
+Barnelovutvalgets forslag i NOU 2020: 14 *Til barnets beste*
+
+Barnelovutvalget foreslår å samle foreldrenes plikt til å oppfylle barnets selvbestemmelsesrett og medvirkningsrett i én bestemmelse, se lovforslagets § 6-6. Lovforslagets første ledd om barnets rett til medvirkning inneholder i motsetning til gjeldende barnelov § 31 ingen aldersangivelser, slik at medvirkningsretten i prinsippet gjelder fra barnet er helt lite. Dette samsvarer med tilsvarende bestemmelse i barnekonvensjonen artikkel 12. Det vil imidlertid etter barnelovutvalgets syn være naturlig at graden av medvirkning øker med alder og modenhet, og varierer med ulike typer av beslutninger.
+
+\[Boks slutt\]
+
+I tillegg til den generelle medvirkningsretten i barnelova § 31, oppstiller en rekke lovbestemmelser rett til medvirkning for barn i konkrete spørsmål, se boks 20.4.[^1223]
+
+### Barnets selvbestemmelsesrett
+
+Et sentralt prinsipp i norsk rett er individets rett til å bestemme over seg selv. For barn er dette prinsippet i stor grad fraveket på bakgrunn av forutsetningen om at barn ikke er i stand til å treffe beslutninger i saker som gjelder dem, og at de derfor verken skal ha rett eller plikt til å treffe slike avgjørelser.[^1224] Det er i stedet barnets foreldre, eller andre i foreldrenes sted, som er ansvarlige for å ivareta barnets interesser og behov, i tråd med prinsippene om foreldreansvar og barnets beste. Som hovedregel oppnår barn full selvbestemmelse først ved myndighetsalder (18 år), jf. vergemålsloven § 2 tredje ledd.
+
+Eksempler på lovgivning med aldersgrenser for barns rett til selvbestemmelse
+
+- Barnelova § 32: Avgjørelser om valg av utdanning og inn- og utmelding av foreninger fra 15 år.
+
+- Barnelova §§ 40 tredje ledd og 41 femte ledd: Krav om samtykke fra barn over 12 år ved flytting eller reiser utenlands uten foreldre med foreldreansvar.
+
+- Lov om tros- og livssynssamfunn (trossamfunnsloven) § 2: Inn- og utmelding av tros- og livssynssamfunn fra 15 år.
+
+- Pasient- og brukerrettighetsloven § 4-3 første ledd bokstav b: Ved 16 år er det krav om barnets samtykke til helsehjelp, unntatt der lovgivning oppstiller andre aldersgrenser.
+
+- Opplæringsloven 1998 § 3-1 første ledd: Ungdom som har fylt 15 år søker selv om inntak til videregående opplæring.
+
+- Vergemålsloven §§ 10 og 12: Mindreårig som har fylt 15 år kan selv inngå arbeidsavtale og råder over midler som hen selv har tjent mv.
+
+- Straffeloven kap. 26: Seksuell lavalder er 16 år. (Aldersgrensen nedad i de straffebud som setter straff for seksuell omgang med barn i Norge.)
+
+- Lov om endring av juridisk kjønn § 4: Ungdom som har fylt 16 år kan selv søke om endring av juridisk kjønn.
+
+- Navneloven § 12: Ungdom som har fylt 16 år kan sende melding om å ta, endre eller sløyfe navn.
+
+\[Boks slutt\]
+
+Det finnes likevel flere lovbestemmelser som gir barn under 18 år rett til å treffe egne beslutninger. Bestemte aldersgrenser følger blant annet av særlovningen, se boks 20.6. Når barnet har selvbestemmelsesrett etter disse bestemmelsene, opphører foreldrenes rett og plikt til å ta beslutninger i det aktuelle spørsmålet.[^1225] Videre slår barnelova § 33 fast at foreldre skal gi barnet «stendig større sjølvråderett med alderen og fram til det fyller 18 år». Det er altså ikke grunnlag for å hevde at foreldre har full bestemmelsesrett over barn fram til de er myndige i Norge.[^1226] Ifølge forarbeidene innebærer barnelova § 33 at foreldres bestemmelsesrett på mange områder vil være falt bort før 18-årsalderen.[^1227] Begrunnelsen for bestemmelsen er delvis at en gradvis større selvbestemmelsesrett med alderen gjør at barn og unge lettere vil utvikle seg til selvstendige mennesker.[^1228] Verken bestemmelsen eller forarbeidene angir nøyaktig når barnet skal ha selvbestemmelsesrett. Ifølge forarbeidene varierer dette mellom ulike avgjørelsestyper: «Allerede fra barnet er forholdsvis lite, vil denne regelen få betydning i utpreget personlige spørsmål, f.eks. om hva slags klær som skal kjøpes til barnet eller om hvem det skal omgås».[^1229] Valg som har ubetydelige konsekvenser taler for selvbestemmelse. At bestemmelsen er av utpreget personlig art, kan også være et moment. I likhet med barnets rett til medvirkning, må det legges til grunn at selvbestemmelsesretten også varierer avhengig av det enkelte barnets modenhet.
+
+Det føres ingen kontroll med foreldrenes avgjørelser, og i praksis er det dermed opp til foreldrene å avgjøre hva barnet selv skal få bestemme.[^1230] Omfattende kontroll med foreldrenes avgjørelser ville stride mot retten til privat- og familieliv. Barnekonvensjonen forutsetter et ganske stort handlingsrom for foreldre, jf. blant annet artikkel 5 (om rettigheter og forpliktelser til dem som oppdrar barnet). I forarbeidene til barnelova § 33 påpekes det at bestemmelsen er vag, og dermed vanskelig å bruke som «et klart argument i konkrete konflikter».[^1231] Det påpekes likevel at bestemmelsen gir uttrykk for et verdifullt prinsipp og kan være «et visst bidrag i en holdningsskapende prosess».[^1232] Sammen med mer spesifikke lovbestemmelser om selvbestemmelsesrett, innebærer barnelova § 33 at et barn som har tilstrekkelige evner, modenhet og forståelse, har rett til å treffe egne beslutninger, avhengig av beslutningens art.
+
+Barnelovutvalgets forslag i NOU 2020: 14 *Til barnets beste*
+
+Barnelovutvalget foreslår å videreføre barnelova § 33 om barnets selvbestemmelsesrett, se utvalgets lovforslag § 6-6 andre ledd. Etter utvalgets syn har den en viktig funksjon for å oppmuntre til å understøtte barnets gradvise modning og evne til å ta ansvarlige valg på egne vegne. Bestemmelsen kompenserer også for at regelverket ellers består av nokså faste aldersgrenser for selvbestemmelse, der barn kan oppnå den nødvendige modenheten tidligere enn lovens aldersgrenser gir uttrykk for.
+
+\[Boks slutt\]
+
+### Menneskerettslige krav
+
+Menneskerettighetene anerkjenner foreldres rett til å utøve foreldreansvaret i tråd med egne verdier, men setter også grenser for utøvelsen av foreldreansvaret.
+
+Barnets rett til privatliv er beskyttet av både Grunnloven §§ 102 og 104 tredje ledd første punktum, barnekonvensjonen artikkel 16, EMK artikkel 8. Kjernen i retten til privatliv er retten til uforstyrret å kunne utfolde og utvikle sin identitet og personlighet, samt i et visst omfang retten til å danne relasjoner til andre mennesker. I tillegg omfattes den enkeltes moralske overbevisning og psykiske integritet. Kontroll som ikke gir barnet en privat sfære, for eksempel ved overdreven overvåking av barnet, vil bryte med barnets rett til privatliv.
+
+Etter barnekonvensjonen artikkel 31 nr. 1 anerkjenner partene barnets rett til hvile og fritid og til å delta i lek og fritidsaktiviteter som passer for barnets alder. Etter artikkel 31 nr. 2 skal medlemsstatene respektere og fremme barnets rett til fullt ut å delta i det kulturelle og kunstneriske liv, og skal oppmuntre tilgangen til egnede og like muligheter for kulturelle, kunstneriske, rekreasjons- og fritidsaktiviteter. Rettighetene oppstilt i artikkel 31 er ifølge barnekomitéen av grunnleggende betydning for en god barndom, barns rett til utvikling og til realisering av andre rettigheter.[^1233] Formuleringene «respektere» og «fremme» innebærer at medlemsstatene aktivt skal legge til rette for å bidra til barns deltakelse.
+
+Artikkel 31 må ses i sammenheng med artikkel 15, som gir barn rett til organisasjonsfrihet og frihet til å delta i fredelige forsamlinger. Ifølge barnekomiteen er organisasjonsfriheten en integrert dimensjon av barnets rettigheter etter artikkel 31, siden «barn sammen skaper former for fantasifull lek som sjelden blir oppnådd i voksenbarn-relasjoner».[^1234] Ifølge barnekomiteen innebærer bestemmelsene at barn har rett til å foreta egne valg angående vennskap og medlemskap i sosiale, kulturelle, sportslige og andre organisasjoner.[^1235] Komiteen framhever at barn trenger å samhandle med jevnaldrende av begge kjønn, samt med mennesker med ulike evner og ulik alder og bakgrunn.[^1236] En oppdragelse som utelukker at barn treffer egne valg angående vennskap, aktiviteter, deltakelse i organisasjoner mv. kan innebære et brudd på barnets rettigheter.
+
+Barnet har etter artikkel 8 rett til å bevare sin egen identitet, herunder personlighet og overbevisning.[^1237] Videre gir artikkel 14 barn rett til tanke- og religionsfrihet, som også er beskyttet av EMK artikkel 9 og SP artikkel 18. Etter artikkel 14 nr. 2 skal staten respektere foreldres rett og plikt til å veilede barnet om utøvelse av rettigheter i samsvar med barnets gradvise utvikling. Forholdet mellom barnets rettigheter og foreldrenes oppdragelsesrett i tråd med egen overbevisning reiser en rekke spørsmål som utvalget må avgrense mot.
+
+## Andre lands rett
+
+Reglene om innholdet i foreldreansvaret og barnets rett til medvirkning og selvbestemmelse i de nordiske landene er forholdsvis like den norske reguleringen. Unntaket er at tendensen i de andre landenes barnelover er at de ikke har fastsatte aldersgrenser- eller angivelser for barnets rett til medvirkning. Ingen av de nordiske landene anvender begrepet negativ sosial kontroll i lovbestemmelsene om grensene for foreldreansvaret. Se mer om de nordiske reglene i NOU 2020: 14 *Ny barnelov – Til barnets beste*.[^1238]
+
+## Hva er problemet?
+
+Ekspertgruppa om unge som etterlates i utlandet mot sin vilje, viser til at flere aktører, blant annet barnevernstjenesten, kan være usikre på hva foreldre kan bestemme i kraft av foreldreansvaret, da særlig med fokus på ufrivillige utenlandsopphold. Ekspertgruppa trekker fram behovet for å utrede grensene mellom foreldreansvaret og barns rettigheter.[^1239] Også flere av instansene utvalget har mottatt innspill fra, enten skriftlig eller muntlig, blant annet mangfoldsrådgivere, påpeker at grensen mellom streng foreldreoppdragelse og negativ sosial kontroll er uklar.
+
+Samtidig påpeker flere aktører at begrepet negativ sosial kontroll er upresist. Enkelte stiller spørsmål om hvem som skal avgjøre om kontrollen er positiv eller negativ. Andre peker på at begrepet kan virke stigmatiserende overfor enkelte innvandrergrupper, og at det er uklart hvilke normer og verdier som skal legges til grunn i vurderingen av om et barn er utsatt for negativ sosial kontroll. I denne sammenhengen framheves det også at det kan være utfordrende å vurdere om foreldrerestriksjonene skyldes en systematisk negativ sosial kontroll, eller andre forhold, som for eksempel levekårsutfordringer, å motvirke at barnet havner i miljøer med rus/kriminalitet, ungdommens kognitive fungering eller forhold ved foreldrene, som rus, psykiatri mv.
+
+Foreningen HjelpMeg StoppeVolden og Foreningen mot psykisk vold anbefaler å innta begrepet psykisk vold i barnelova § 30 tredje ledd. Videre foreslår de to organisasjonene at det tas inn i bestemmelsen at foreldre ikke har lov til å utøve vold mot den andre forelderen eller mot andre nære omsorgspersoner for barnet.
+
+## Utvalgets vurderinger og forslag
+
+### Bør det tydeliggjøres når negativ sosial kontroll utgjør brudd på barnelova?
+
+Utvalgets flertall mener det ikke er behov for eller hensiktsmessig å innta begrepet negativ sosial i barnelova eller på annen måte gjøre endringer for å tydeliggjøre grensen mellom hva som er lovlig foreldrekontroll og negativ sosial kontroll.
+
+Det er ikke mulig å trekke klare juridiske grenser for når foreldrenes sosiale kontroll overfor et barn er innenfor eller utenfor hva foreldre kan gjøre i kraft av foreldreansvaret. Å innta begrepet i barnelova med tilhørende definisjon, vil ikke bidra til å tydeliggjøre denne grensen. Det er også vanskelig å foreta andre hensiktsmessige presiseringer i loven som er egnet for klargjøring. Grensen mellom akseptabel barneoppdragelse og for streng kontroll avhenger av de konkrete omstendighetene i den enkelte sak, slik som barnets alder, modenhet, sårbarhet og individuelle omsorgsbehov. Både press, oppsyn og overtalelse kan etter omstendighetene benyttes i barneoppdragelse i tråd med rettsreglene. Foreldre kan i en viss utstrekning bestemme over barnets omgang med venner, påkledning, skole og fritidsaktiviteter som legger begrensninger på barnets livsutfoldelse. Grensene beror på de konkrete omstendighetene i den enkelte sak, deriblant det individuelle barnets tilsyns- og omsorgsbehov. For eksempel kan ganske omfattende kontroll være legitimt overfor et barn som er i risikosonen for å begå kriminalitet eller utvikle rusproblemer, men ikke overfor et barn som ikke er i en slik risiko. Praksiser som dekkes av begrepet negativ sosial kontroll er mange og ulikeartet. Kontrollen kan bestå i alt fra svært alvorlige inngrep i barnets liv, til mildere former for kontroll på enkeltområder. Det er med andre ord vanskelig å trekke opp en grense eller definisjon i lovgivningen for hva som er lovlig kontroll ut over de generelle reglene som allerede eksisterer i barnelova som blant annet innebærer at foreldreansvaret skal utøves ut fra barnets interesser og behov, og at avgjørelser skal treffes innenfor grensene for barnets rett til medvirkning og selvbestemmelse.
+
+Heller ikke Göller (2020) anbefaler å ta inn begrepet negativ sosial kontroll i barnelova.[^1240] Hun peker på at det er vanskelig å se et behov for presiseringer ut over det som allerede følger av lovens bestemmelser. De samme momentene som er avgjørende for om man står overfor et tilfelle av negativ sosial kontroll, inngår allerede i vurderingen av om barnets fysiske eller psykiske helse er skadet eller i fare. Det må i begge tilfeller gjøres en helhetlig vurdering av barnets situasjon samlet sett. Hun peker dessuten på at det å fremheve enkelte elementer som spesielt betydningsfulle bryter med gjeldende systematikk i loven. Utvalget er enig i Göllers vurdering.
+
+Utvalget ser riktignok at en lovfesting av begrepet kan øke bevisstheten og kunnskapen om negativ sosial kontroll i samfunnet, og belyse de alvorlige skadevirkningene dette kan ha for barn og unge. Å innta begrepet i barnelova kunne føre til at offentlige myndigheter blir mer bevisst på fenomenet og skadevirkningene. Lovfesting kunne også ha en pedagogisk effekt overfor foreldre og andre som bistår i oppdragelsen av barn, samt gjøre barn selv mer bevisst på sine rettigheter overfor egne foreldre. Dette kunne til sammen ha en forebyggende effekt mot skadelig og systematisk foreldrekontroll.
+
+Begrensninger i foreldrekontrollen
+
+- Hensynet til barnets beste skal alltid være et grunnleggende hensyn, jf. Grunnloven § 104, 2. ledd, jf. barnelova § 30.
+
+- Barnets selvbestemmelsesrett. Barnelova § 33 oppstiller en gradvis og generell rett til selvbestemmelse. I tillegg oppstiller særlovningen bestemte aldersgrenser i konkrete spørsmål.
+
+- Barnets rett til å bli hørt og få sin mening vektlagt. Foreldrene skal høre hva barnet har å si før de tar avgjørelser om personlige forhold for barnet, jf. barnelova § 31. De skal legge vekt på det barnet mener utfra alder og modenhet.
+
+- Barnets rett til beskyttelse mot alle former for vold og overgrep. Barnet må ikke bli utsatt for vold eller på annet måte bli behandlet slik at den fysiske eller psykiske helsen blir utsatt for skade eller fare, jf. barnelova § 30 tredje ledd.
+
+- Barnets har rett til privatliv, herunder rett til fritid, hvile, identitet og relasjonsbygging mv. Barnets rettigheter er vernet gjennom Grunnloven og flere konvensjoner.
+
+Listen er ikke uttømmende.
+
+\[Boks slutt\]
+
+Etter utvalgets syn er det imidlertid behov for andre virkemidler enn endringer av barnelova for å forebygge og bekjempe foreldrekontroll som faller utenfor rammene for foreldreansvaret. Mye handler om å være i stand til å se og forstå hva barnet faktisk har vært utsatt for. Det å kjenne til indikatorer og vurderingstemaer av betydning for å identifisere om et barn kan være utsatt for negativ sosial kontroll er sentralt.[^1241] Det er videre behov for opplysningsarbeid og bevisstgjøring rundt grensene for foreldrekontrollen i hjelpeapparatet og blant ulike grupper av befolkningen. For foreldre med en annen kulturell bakgrunn kan det være særlig utfordrende både å få kunnskap om og å innrette seg etter reglene om barns rett til medvirkning og gradvise selvbestemmelsesrett, slik dette er lovfestet i Norge. I strenge religiøse trossamfunn kan foreldrene ha et negativt syn på normer og verdier i majoritetsbefolkningen. Dette gjør det viktig med informasjon og veiledning til foreldre slik at de kan utøve foreldreansvaret i tråd med loven. Samfunnet som helhet må også bli mer bevisst på praksiser i enkelte grupper som innebærer uforholdsmessig streng kontroll av barn, noe som kan ha en forebyggende effekt og gjøre det lettere for barn i slike grupper å søke hjelp.
+
+Momenter i vurderingen
+
+Momenter i vurderingen av om kontrollen er utenfor grensene for foreldreansvaret:
+
+- Den samlede virkningen kontrollen har for barnets liv og helse
+
+  - om barnets fysiske eller psykiske helse blir utsatt for skade eller fare
+
+  - om kontrollen hindrer barnet i ha privatliv, delta i fritids- og skoleaktiviteter, ha omgang med venner, og delta i sosiale, kulturelle, sportslige og andre organisasjoner
+
+- Om barnet får utøve sin rett til medvirkning og selvbestemmelse
+
+- Virkemidlene som benyttes for å utøve kontrollen
+
+  - Om kontrollen utøves ved bruk av fysisk eller psykisk vold eller avstraffelse, herunder trusler og uforholdsmessige restriksjoner.
+
+- Om kontrollen utøves av hensyn til barnet selv, eller om kontrollen er begrunnet i andre årsaker
+
+- Om kontrollen utøves i samsvar med barnets interesser, omsorgs- og beskyttelsesbehov, alder og modenhet
+
+\[Boks slutt\]
+
+### Kan det gjøres andre endringer for å synliggjøre kontrollaspektet?
+
+Utvalget foreslår å synliggjøre flere sider av psykisk vold og negativ sosial kontroll i barnelova § 30 tredje ledd ved å innta at «kontrollerende» og «nedverdigende» atferd er forbudt i leddets tredje punktum. Utvalget anbefaler tilsvarende tilpasning i ny barnelov som er under utarbeidelse.
+
+Den klare yttergrensen for foreldrenes handlinger og atferd finnes i straffeloven, og i barnelova § 30 tredje ledd. Sistnevnte bestemmelse innebærer at ingen foreldre må utsette barnet for vold eller på annet vis behandle barnet slik at den fysiske eller psykiske helsen blir utsatt for skade eller fare. Bruk av vold og skremmende eller plagsom framferd eller annen hensynsløs atferd overfor barnet er forbudt.
+
+I barnelovutvalgets forslag til ny barnelov i NOU 2020: 14 *Ny barnelov – Til barnets beste* framgår forbudet mot vold mot barn av to lovbestemmelser (§§ 1-3 og 6-4). Lovforslagets § 1-3 andre ledd gir en generalbestemmelse om forbud mot vold:
+
+Barn har rett til vern mot vald, overgrep og anna omsynslaus åtferd. Dei skal ikkje utsetjast for noko som dei kan ta fysisk eller psykisk skade av, verken i oppsedinga eller i andre samanhengar.
+
+Lovforslagets § 6-4 regulerer omsorgsplikten som følger med foreldreansvaret. Bestemmelsens andre ledd lyder:
+
+Dei som har foreldreansvaret, skal gje barnet omsorg, kjærleik og ei oppseding med respekt for eigenverdet til barnet. Verken i oppsedinga eller i andre samanhengar skal dei utsetje barnet for vald eller noko anna som det kan ta fysisk eller psykisk skade av.
+
+Barnelovutvalget så det som «helt avgjørende at det synliggjøres at barnets rett til vern ikke bare er avgrenset til fysisk vold», men alle former for vold som blant annet inngår i barnekonvensjonen artikkel 19, som gir barn rett til vern mot «alle former for fysisk eller psykisk vold, skade eller misbruk, vanskjøtsel eller forsømmelig behandling, mishandling eller utnytting, herunder seksuelt misbruk». Barnelovutvalgets forslag er ment å være en komprimert versjon av gjeldende lov § 30 tredje ledd for å lette lesingen av bestemmelsen, men inneholder mange av de samme begrepene og skal forstås på samme måte.[^1242] I sine innspill til lovforslaget har flere høringsinstanser påpekt at det ikke framgår tydelig av lovforslaget at psykisk vold mot barn er forbudt.[^1243]
+
+Utvalget har i herværende utredning foreslått endringer i flere bestemmelser i ulik lovgivning for å synligjøre elementer av psykisk vold og negativ sosial kontroll. I straffeloven §§ 266 om hensynsløs atferd er dette gjort ved å innta formuleringen «kontrollerende og nedverdigende» atferd, og «krenker en annens psykiske integritet» i bestemmelsen. I straffeloven § 282 om mishandling i nære relasjoner foreslår utvalget at formuleringen «andre fysiske eller psykiske krenkelser» inntas som erstatning for «andre krenkelser». I utlendingsloven § 53 første ledd bokstav b om oppholdstillatelse til utlending som er utsatt for mishandling er det foreslått å innta formuleringen «fysisk og psykisk mishandling». Også i barnevernsloven § 3-1 om frivillig hjelpetiltak og § 5-1 om omsorgsovertakelse, foreslår utvalget endringer i ordlyden for å framheve psykisk omsorgssvikt. Sammenhengen i regelverket tilsier etter utvalgets oppfatning at vernet mot psykiske krenkelser også bør komme klart fram i barnelova § 30 tredje ledd, hvor siste punktum delvis er utformet etter inspirasjon fra straffeloven § 266 (se under gjeldende rett). Barnelovas forbud mot vold er ment å samsvare med barnekonvensjonen artikkel 19 som gir barn et vern mot alle former for vold, både fysisk og psykisk vold. Dette bør komme enda tydeligere fram i barnelovas bestemmelse som har til hensikt å gi barnet et slikt vern.
+
+Som innspill til arbeidet med ny barnelov foreslår utvalget at nåværende formulering i barnelova § 30 tredje ledd tredje punktum videreføres, men tilpasset utvalgets endringsforslag i § 266 om hensynsløs atferd:
+
+Barn har rett til vern mot vald, overgrep og anna omsynslaus åtferd. Dei skal ikkje utsetjast for noko som dei kan ta fysisk eller psykisk skade av, verken i oppsedinga eller i andre samanhengar. *Bruk av skremmande, kontrollerande, nedverdigande, plagsam eller annan omsynslaus åtferd overfor barnet er forbode*.
+
+Som forslag til endringer i gjeldende barnelov foreslår utvalget at «kontrollerande og nedverdigande atferd» inntas i § 30 tredje ledd tredje punktum slik at bestemmelsen vil lyde:
+
+Bruk av vald og skremmande, *kontrollerande, nedverdigande* eller plagsam framferd eller annan omsynslaus åtferd overfor barnet er forbode.
+
+*Utvalgets mindretall, Halima El Abassi*, foreslår at også begrepet negativ sosial kontroll tas inn i barnelova § 30 tredje ledd, se mindretallets forslag til lovendring. Abassi framhever at negativ sosial kontroll er en effektiv språkdrakt på et fenomen som eksisterer i Norge og som gjennom lovregulering kan bidra til å løfte fram saker om negativ sosial kontroll blant aktører som skal hjelpe utsatte barn og unge. Å synliggjøre at det å utøve negativ sosial kontroll ikke er innenfor hva foreldre kan gjøre i kraft av sitt foreldreansvar, kan bidra til større forståelse for fenomenet, både i hjelpeapparatet, hos foreldre og barna selv. Forøvrig vises det til Abassis begrunnelse for å innta begrepet i barnevernsloven og utlendingsloven under de respektive kapitlene.

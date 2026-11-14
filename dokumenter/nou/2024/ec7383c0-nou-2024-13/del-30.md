@@ -1,989 +1,220 @@
-# NOU 2024: 13, del 30 av 47 (side 331–341)
+# NOU 2024: 13, del 30 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 331]
-
-NOU 2024: 13
-Lov og frihet
-
-26.5.3 Behovet for utredning av barns
-klagerett
-Utvalget ønsker avslutningsvis å peke på behovet
-for en gjennomgang av barns prosessuelle rettsstilling. En klageordning eller adgang til å utøve
-andre partsrettigheter kan ha betydning for barn
-som risikerer ufrivillige utenlandsopphold, ved at
-de kan bringe en sak om foreldrenes utøving av
-foreldreansvar ved utenlandsopphold inn for et
-offentlig organ.
-FNs barnekomité har ved to anledninger kritisert Norge for å ikke ha tilgjengelige og effektive
-klagemekanismer for barn.27 Norges institutt for
-menneskerettigheter (NIM) har også påpekt at
-barns muligheter til å klage over brudd på sine
-rettigheter må styrkes.28 I 2023 ba Stortinget
-regjeringen om å «iverksette et arbeid for å sikre
-barns nasjonale klagemuligheter samt bedre
-informasjonen til barn og unge om retten til å
-klage i enkeltsaker og de klagerettigheter som finnes».29 Barne- og familiedepartementet varslet i
-budsjettproposisjonen for 2024 at de er i gang
-med å vurdere eksisterende klageordninger og
-hvordan informasjonen om dem skal nå bedre
-ut.30
-Det ligger utenfor utvalgets mandat å vurdere
-innføring av en generell klageordning for barn.
-Utvalget støtter imidlertid behovet for en utredning som kan se helhetlig på barns rett til å klage
-gjennom ulike instanser i norsk offentlig forvaltning. En utredning vil kunne identifisere både
-rettslige og faktiske hindre, og vurdere hvordan
-barns klagerett kan styrkes, slik at barns rettigheter i større grad også blir oppfylt i praksis. Barn
-som risikerer å bli sendt til utlandet mot sin vilje
-bør inngå i en slik utredning.
-Utenlandsopphold av lengre varighet er av
-stor betydning for barnets liv, og det vil være
-svært vanskelig for norske myndigheter å hjelpe
-barnet hjem når barnet først befinner seg i et land
-som Norge ikke har samarbeidsavtaler med. Barnets rett til medvirkning og selvbestemmelse sikres ikke i tilstrekkelig grad etter gjeldende rett.
-Utvalget har ikke anbefalt å innføre formkrav eller
-sanksjonsmuligheter ved manglende samtykke
-ved utenlandsopphold uten en forelder med forel27
-
-FNs barnekomité 2010: punkt 13 og 14; FNs barnekomité
-2018: punkt 7 og 9.
-28 Innspill fra Norsk institusjon for menneskerettigheter til
-Stortings- familie- og kulturkomité om behov for styrking
-av barns muligheter til å klage over brudd på sine rettigheter, se NiM 2022.
-29 Dokument 8: 22 S (2022–2023) og Innst. 207 S (2022–2023).
-30 Prop. 1 S (2023–2024) punkt 3.
-
-329
-
-Kapittel 26
-
-dreansvar etter barnelova §§ 40 og 41, se begrunnelsen over. Barn har få praktiske muligheter til å
-hindre et utenlandsopphold som foreldrene
-ønsker og mener er til deres eller familiens beste,
-og vil være avhengige av at voksne tar ansvar for å
-tale barnets sak og sørger for at dets behov og
-interesser blir ivaretatt.
-Forslaget om utreiseforbud i saker om skadelig utenlandsopphold og passlovens regler om tilbakekall og utstedelse av pass i slike saker, vil
-kunne komme barnet til unnsetning der barn og
-foreldre har motstridende interesser i en sak om
-utenlandsopphold. Barnet vil ha anledning til å
-henvende seg til både politiet og barnevernstjenesten for hjelp. Terskelen for å henvende seg til
-barnevernstjenesten og politiet kan imidlertid
-være høy. IMDis ungdomspanel etterlyser derfor
-klagemuligheter for barn og tiltak av mindre inngripende karakter. En klageordning til en offentlig
-myndighet, for eksempel Statsforvalteren, vil etter
-utvalgets oppfatning kunne bidra til at barn i risikosonen for ufrivillige utenlandsopphold får et
-bedre rettsvern.
-En eventuell ordning for å overprøve foreldrenes avgjørelser om utenlandsopphold må utredes
-nærmere. Det kan være uklart hva som blir konsekvensen av et slikt vedtak, om det innebærer et
-forbud om å sende barnet til utlandet, eller et
-pålegg om at foreldrene skal akseptere barnets
-samtykkerett i framtiden. Dersom klagen ikke tas
-til følge, blir spørsmålet hva som da skal skje. Det
-kan også påpekes at enkelte barn som vokser opp
-i en lydighetskultur ikke nødvendigvis vil ha forutsetninger for å benytte seg av en klageordning.
-Det er dermed usikkert om tilbudet vil hjelpe de
-barna som har størst behov for hjelp. Samtidig vil
-andre barn kunne ha både evne og mulighet til å
-benytte seg av en klageordning. Utvalget mener at
-dette bør være tilstrekkelig til å innføre en slik
-ordning. De barna som av ulike grunner ikke
-benytter seg av en klageordning må få hjelp på
-andre måter, i første rekke av barnevernstjenesten.
-Avslutningsvis vil utvalget peke på behovet for
-en gjennomgang som kan se helhetlig på barns
-prosessuelle rettigheter i tillegg til klagemuligheter. Barn kan i enkelte tilfeller ha et behov for selv
-å kunne fremme en sak om for eksempel utreiseforbud eller i særlig alvorlige tilfeller om omsorgsovertakelse. Der en av foreldrene med felles foreldreansvar ikke framstår skikket til å utøve foreldreansvaret for barnet og den andre forelderen
-ikke makter å foreta seg noe, kan dette medføre
-store konsekvenser for barnet det gjelder. I saker
-etter barnelova er «partene» foreldrene, og barn
-
-[Side 332]
-
-330
-
-Kapittel 26
-
-NOU 2024: 13
-Lov og frihet
-
-har ikke partsrettigheter. I enkelte saker om ufrivillige utenlandsopphold kan det oppstå situasjoner hvor det nettopp kan være viktig for barnet å
-få tilkjent partsrettigheter.31
-Barnelovsaker som er bragt inn for domstolene og som gjelder ufrivillige utenlandsopphold
-vil kunne oppfylle vilkåret om «særlege høve»
-31
-
-Se NOU 2020: 5 kapittel 16 og NOU 2017: 8 punkt 9.3.
-
-etter barnelova § 61 første nr. 5 som gir barn en
-unntaksvis adgang til å få oppnevnt egen advokat
-eller representant. Selv om bestemmelsen ikke gir
-barn partsrettigheter, innebærer den en styrking
-av barnets prosessuelle rettsvern. Utvalget anbefaler at det bør tydeliggjøres i bestemmelsen, eller
-i forskrift, at slike «særlege høve» kan foreligge
-når det dreier seg om et ufrivillig utenlandsopphold.
-
-[Side 333]
-
-NOU 2024: 13
-Lov og frihet
-
-331
-
-Kapittel 27
-
-Kapittel 27
-
-Tiltak for å forhindre ufrivillige og skadelige utenlandsopphold
-27.1 Innledning
-Utvalget skal ifølge mandatet bokstav c vurdere
-om rettsvernet for barn og unge som er ufrivillig
-etterlatt i utlandet er godt nok, eller bør styrkes.
-Etter utvalgets syn kan barn og unges rettsvern
-først og fremst styrkes ved å sikre at myndighetene har egnede virkemidler til å forebygge og forhindre at reisen finner sted. Når barn og unge
-først befinner seg i utlandet, er det ofte begrenset
-hva norske myndigheter kan gjøre for å hjelpe
-barnet. Det vil også kunne være en svært tidkrevende prosess.
-I dette kapittelet vil utvalget presentere eksisterende rettslige muligheter for å forhindre
-utreise for barn og unge som risikerer ufrivillige
-eller skadelige utenlandsopphold, for deretter å
-vurdere om det er behov for å innføre andre tiltak.
-I den forbindelse foreslår utvalget at det innføres
-en ny ordning med utreiseforbud for barn som
-risikerer å bli sendt på skadelig utenlandsopphold.1
-
-27.2 Gjeldende rett
-27.2.1 Menneskerettslige forpliktelser
-EMK artikkel 8 gir enhver rett til respekt for sitt
-privatliv, familieliv, hjem og korrespondanse. Retten til å utøve familieliv innebærer også en rett for
-foreldre til å utøve foreldreansvar. Det innebærer
-blant annet en rett til å bestemme hvor barnet skal
-bo, også der dette er i utlandet. Foreldrenes rett
-er imidlertid ikke uten begrensninger og må utøves i tråd med barnets rettigheter, herunder hensynet til barnets beste, barnets medvirkningsrett,
-barns rett til vern mot alle former for vold, rett til
-liv og utvikling, rett til helse og tilfredsstillende
-levestandard og rett til utdanning.
-Det er usikkert hvor langt statens plikt til å
-verne barn mot ufrivillig utenlandsopphold strek1
-
-Se kapittel 3 om hvordan utvalget benytter begrepene ufrivillig og skadelig utenlandsopphold for barn.
-
-ker. Barnets rett til medbestemmelse og selvbestemmelse må veies opp mot foreldrenes rett til å
-utøve foreldreansvar. Det er ingen menneskerettigheter som uttrykkelig pålegger staten konkrete
-forpliktelser til å motvirke at foreldre tar barnet
-med til eller etterlater det i utlandet mot sin vilje.
-Uavhengig av om reisen i utgangspunktet var frivillig, kan imidlertid barn som tas med til utlandet
-eller etterlates der i enkelte tilfeller risikere krenkelser av sine rettigheter etter blant annet EMK
-artikkel 8 (retten til respekt for familieliv og privatliv), barnekonvensjonen artikkel 19 (frihet fra
-alle former for vold), artikkel 24 (høyeste oppnåelig helsestandard) og artikkel 28 og 29 (retten til
-utdanning). Staten har en plikt til å sikre at barn
-ikke utsettes for utenlandsopphold som kan innebærer en alvorlig fare barnets liv og helse eller
-der barnet risikerer å bli utsatt for vold, tvangsekteskap, kjønnslemlestelse eller andre alvorlige
-krenkelser av barnets autonomi.
-Flere menneskerettigheter kan legge begrensninger på hvilke tiltak som kan settes i verk mot
-foreldres rett til å ta med seg eller sende et barn til
-utlandet. Grunnloven § 102 og EMK artikkel 8 gir
-enhver rett til respekt for sitt privatliv og familieliv.
-Retten til å utøve familieliv innebærer blant annet
-en rett for foreldre til å utøve foreldreansvar, og
-innebærer som nevnt en rett til å bestemme hvor
-barnet skal bo. Barnets beste forutsettes imidlertid ivaretatt som ledd i utøvelsen av foreldreansvaret, jf. blant annet barnekonvensjonen artikkel 18
-nr. 1. Statens myndigheter har ansvar for å forebygge vold og overgrep mot barn og for å treffe
-alle nødvendige tiltak for å sikre at foreldre og
-andre omsorgspersoner vil respektere og
-beskytte barns rettigheter.
-Når et barn risikerer å bli sendt på et ufrivillig
-utenlandsopphold, kan statens forpliktelse til å
-beskytte barnet komme i et spenningsforhold
-med foreldrenes rett til respekt for privatliv og
-familieliv, jf. Grunnloven § 102 og EMK artikkel 8.
-Et klart utgangspunkt er at statens myndigheter
-ikke kan forholde seg passivt til barnets egne rettigheter, herunder hensynet til barnets beste og
-
-[Side 334]
-
-332
-
-Kapittel 27
-
-NOU 2024: 13
-Lov og frihet
-
-barnets selvstendige rett til respekt for privatliv
-og familieliv. En uttalelse i EMDs dom Osman mot
-Danmark illustrerer dette. Saken gjaldt danske
-myndigheters nektelse av å fornye oppholdstillatelsen for et barn som mot sin vilje var sendt til
-utlandet i to år for å pleie sin bestemor.2 EMD
-uttalte følgende:
-[…] the applicant’s view that her father’s decision to send her to Kenya for so long had been
-against her will and not in her best interest, was
-disregarded by the authorities with reference
-to the fact that her parents had custody of her
-at the relevant time. The Court agrees that the
-exercise of parental rights constitutes a fundamental element of family life, and that the care
-and upbringing of children normally and necessarily require that the parents decide where
-the child must reside and also impose, or
-authorise others to impose, various restrictions
-on the child’s liberty […]. Nevertheless, in
-respecting parental rights, the authorities cannot ignore the child’s interest including its own
-right to respect for private and family life.3
-
-Selv om foreldreansvaret gir foreldrene rett til å
-bestemme hvor barnet skal bo, kan staten ikke
-ignorere hensynet til barnets beste og barnets
-rett til privatliv og familieliv. Også andre av barns
-menneskerettigheter i Grunnloven og barnekonvensjonen er i denne sammenheng relevante, slik
-som retten til vern mot fysisk og psykisk vold, rett
-til utvikling, helse, en tilfredsstillende levestandard og utdanning.4
-Den alminnelige bevegelsesfriheten etter Grunnloven § 106 første ledd og retten til å forlate riket
-er sentrale menneskerettigheter som også er av
-betydning for vurderingen av hvilke tiltak som
-kan innføres for å forhindre at barn utsettes for
-skadelige utenlandsreiser. Grunnloven § 106
-andre ledd første punktum lyder:
-Ingen kan nektes å forlate riket med mindre
-det er nødvendig av hensyn til en effektiv rettsforfølgelse eller for avtjening av verneplikt.
-
-Retten til å forlate riket gjelder for alle, også barn,
-og er uavhengig av statsborgerskap og oppholdsstatus. Rettigheten kan være begrenset av praktiske eller faktiske forhold uten at det nødvendigvis innebærer et inngrep. Lovgivningen kan for
-2
-3
-4
-
-Osman mot Danmark 14. juni 2011, saksnr. 38058/09.
-Osman mot Danmark (avsnitt 73).
-Se om disse rettighetene i utredningens kapittel 5.
-
-eksempel forby den enkelte å ta med seg andre
-personer, penger eller gjenstander ut av landet.
-Slike rettslige begrensninger berører ikke den
-enkeltes selvstendige rett til å forlate landet.5 At
-foreldre eller andre nektes å ta med seg et barn ut
-av landet, vil imidlertid kunne være et inngrep i
-barnets rett til å forlate riket. Videre vil et slikt forbud kunne utgjøre et inngrep i foreldrenes rett til
-respekt for privatliv og familieliv.
-Grunnloven § 106 andre ledd første punktum
-åpner for å gjøre unntak fra retten til å reise ut av
-landet dersom det er nødvendig av hensyn til en
-effektiv rettsforfølgelse eller avtjening av verneplikt. Ordlyden tilsier at bestemmelsen er uttømmende. Av Innst. 165 S (2015–2016) framgår det
-imidlertid at Grunnlovens rettighetsbestemmelser ikke kan leses uten begrensninger.6 Innstillingen problematiserer ikke spørsmålet om grunnlovsbestemmelser som direkte angir hvilke formål som begrunner begrensninger, også kan suppleres med en generell begrensningsmulighet.
-I nyere juridisk teori er det antatt at det ikke
-kan innfortolkes en generell begrensningsadgang
-i § 106 andre ledd første punktum, siden denne
-bestemmelsen selv angir begrensninger i retten
-til å forlate riket.7 Dersom denne tolkingen legges
-til grunn, kan retten til å forlate riket etter Grunnloven § 106 bare begrenses av hensyn til effektiv
-rettsforfølgelse eller avtjening av verneplikt og
-ikke av andre grunner, som for eksempel det å
-beskytte barn mot skadelige utenlandsopphold.
-En slik tolking er uheldig og kan komme i strid
-mot barns rett til beskyttelse. Utvalget legger til
-grunn at Grunnloven § 106 må tolkes i lys av de
-parallelle bestemmelsene i EMK, slik at det gjelder en generell begrensningsmulighet også etter
-Grunnloven § 106 andre ledd første punktum.
-Det er etter utvalgets kunnskap ikke avsagt
-noen domsavgjørelse om adgangen til å gripe inn i
-retten til å forlate riket etter Grunnloven § 106
-andre ledd første punktum. Høyesterett har generelt lagt til grunn at det gjelder en alminnelig forholdsmessighetsbegrensing for lovhjemlede og
-saklig begrunnede inngrep i rettighetene og frihetene fastsatt i Grunnloven, jf. blant annet Rt. 2014
-s. 1105.8 Utvalget legger til grunn at en tilsvarende begrensning kan tolkes inn i § 106 andre
-ledd første punktum ettersom bestemmelsen skal
-5
-6
-7
-
-Dokument 16 (2011–2012) punkt 34.2.4.
-Innst. 165 S (2015–2016).
-Larsen 2021: side 1203-1206; Larsen 2020. I sistnevnte
-artikkel pekes det på at Grunnlovsbestemmelsen har fått
-en uhensiktsmessig utforming, og grunnlovsgiver oppfordres til å vurdere om utformingen er hensiktsmessig eller
-bør endres.
-
-[Side 335]
-
-NOU 2024: 13
-Lov og frihet
-
-tolkes i lys av tilsvarende bestemmelser i EMK og
-FNs konvensjon om sivile og politiske rettigheter
-(SP), som åpner for å gjøre unntak fra retten til å
-forlate et land på nærmere bestemte vilkår. En slik
-tolking har vært lagt til grunn blant annet i Prop.
-35 L (2016–2017).9
-I EMK er retten til å forlate et land nedfelt i tilleggsprotokoll nr. 4 artikkel 2.10 Protokollen er
-gjort til norsk rett gjennom menneskerettsloven.
-Slik lyder de relevante delene av artikkelen:
-2. Everyone shall be free to leave any country,
-including his own.
-3. No restrictions shall be placed on the exercise of these rights other than such as are in
-accordance with law and are necessary in a
-democratic society in the interests of
-national security or public safety, for the
-maintenance of ordre public, for the prevention of crime, for the protection of health or
-morals, or for the protection of the rights
-and freedoms of others.
-
-SP artikkel 12 nr. 2 og 3 inneholder tilsvarende
-bestemmelser om retten til å forlate et land. Ordlyden i både tilleggsprotokoll nr. 4 artikkel 2 og
-SP artikkel 12 åpner for å gjøre saklige og forholdsmessige unntak fra retten til å forlate et land
-for nærmere angitte formål dersom det er i samsvar med loven og nødvendig i et demokratisk
-samfunn. Etter disse artiklene vil det derfor være
-mulig å begrense barnets rett til å forlate riket for
-å beskytte det mot skadelige utenlandsopphold, så
-lenge tiltaket er lovhjemlet og forholdsmessig.
-Den europeiske menneskerettighetsdomstolen (EMD) har ikke tatt direkte stilling til hvor
-høy risikoen for de angitte negative konsekvensene må være. Etter EMDs praksis må det foreligge «clear indications of a genuine public interest which outweigh the individual’s right to freedom of movement», og restriksjonene «must be
-based on concrete elements which are truly indicative of the continued existence of the risk that
-such measures seek to forestall», se Nalbantski
-8
-
-Rt. 2014 s. 1105 (avsnitt 28). Dommen gjaldt inngrep i retten til privatliv etter § 102, men det legges generelt til
-grunn at «den alminnelige forholdsmessighetsbegrensningen […] gjelder også for lovhjemlede og saklig begrunnede inngrep i rettighetene og frihetene fastsatt i Grunnlovens menneskerettsbestemmelser».
-9 Prop. 35 L (2016–2017) punkt 3.4.1.
-10
-Protokoll av 16. september 1963 nr. 4 til Konvensjonen om
-beskyttelse av menneskerettighetene og de grunnleggende friheter, om beskyttelse av visse rettigheter og friheter som ikke allerede er omfattet av konvensjonen og av
-første tilleggsprotokoll til Konvensjonen.
-
-333
-
-Kapittel 27
-
-mot Bulgaria11 og Hajibeyli mot Aserbajdsjan.12 Ut
-fra EMDs praksis kan det neppe utledes et krav
-om sannsynlighetsovervekt for at en risiko, for
-eksempel at et utenlandsopphold vil medføre
-skade, vil inntre.
-I tillegg må inngrepets forholdsmessighet vurderes, og inngrepet må begrunnes tilstrekkelig, jf.
-Nalbantski mot Bulgaria.13 Eventuelle restriksjoner i retten til å forlate et land må være begrunnet
-og forholdsmessige så lenge de varer. EMD har i
-flere saker uttalt at selv om restriksjonene opprinnelig var tillatt, kan det være et uforholdsmessig
-tiltak å opprettholde dem over lengre tid uten
-jevnlig revurdering, jf. Makedonski mot Bulgaria14
-med videre henvisninger.
-I Bessenyei mot Ungarn15 varte et utreiseforbud i forbindelse med en straffesak i to år, og det
-ble ikke gjort noen revurdering før utreiseforbudet ble avsluttet som følge av en lovendring. EMD
-mente at dette var en krenkelse av tilleggsprotokoll nr. 4 artikkel 2. Restriksjoner i bevegelsesfriheten bør derfor revurderes oftere enn annethvert år, og det må gjøres en reell vurdering av
-inngrepets begrunnelse og forholdsmessighet, jf.
-Riener mot Bulgaria.16 EMD har videre uttalt at
-vurderingen av inngrepets begrunnelse og forholdsmessighet normalt må kunne prøves av
-domstolene, som må kunne prøve alle sider av
-saken, se blant annet Nalbantski mot Bulgaria.17
-EMD har i liten grad tatt stilling til barns selvstendige rett til å forlate et land, men har lagt til
-grunn at barn har en selvstendig rett til bevegelsesfrihet, jf. blant annet Diamante og Pelliccioni
-mot San Marino.18 EMDs avgjørelser om barns
-rett til bevegelsesfrihet har primært handlet om
-uenighet mellom foreldre om foreldreansvar og
-reiser med barnet,19 barnebortføring20 og utstedelse av reisedokumenter.21
-11
-
-Nalbantski mot Bulgaria 10. februar 2011, saksnr. 30943/04
-(avsnitt 65).
-12 Hajibeyli mot Aserbajdsjan 10. juli 2008, saksnr. 16528/05
-(avsnitt 63).
-13 Nalbantski mot Bulgaria (avsnitt 66).
-14
-Makedonski mot Bulgaria 20. januar 2011, saksnr. 36036/04
-(avsnitt 45).
-15 Bessenyei mot Ungarn 21. oktober 2008, saksnr. 37509/06.
-16 Riener mot Bulgaria 23. mai 2006, saksnr. 46343/99 (avsnitt
-127).
-17
-Nalbantski mot Bulgaria (avsnitt 64 med videre henvisninger).
-18
-Diamante og Pelliccioni mot San Marino 8. mars 2012,
-saksnr. 32250/08 (avsnitt 204).
-19 Bl.a. Diamante og Pelliccioni mot San Marino og Penchevi
-mot Bulgaria 10. februar 2021, saksnr. 77818/12.
-20 Lipkowasky og McCormack mot Tyskland 18. januar 2011,
-saksnr. 26755/10 (avvisningsavgjørelse).
-
-[Side 336]
-
-334
-
-Kapittel 27
-
-NOU 2024: 13
-Lov og frihet
-
-vil komme tilbake til Norge dersom utenlandstur gjennomføres, men det er heller ikke tilstrekkelig at den andre parten hevder at det er
-usikkert om barnet kommer tilbake. For at
-utreiseforbud kan gis, må det foreligge objektive holdepunkter for at barnet ikke vil returnere. Sentrale momenter ved avgjørelsen vil
-være vedkommende forelders tilknytning til
-Norge, herunder botid i Norge, norskkunnskaper, bo- og jobbforhold og konfliktnivået mellom partene […]. De konkrete reiseplanene og
-partenes uttalelser og opptreden for øvrig kan
-også være momenter i vurderingen, sml. LB2008-56024. Når det vurderes om usikkerheten
-er stor nok til å berettige et utreiseforbud, må
-man også ta i betraktning om reisen går til en
-stat som Norge ikke har utleveringsavtale med,
-sml. LH-2015-156011. I vurderingen kan det
-videre spille en rolle om vedkommende kan ha
-et motiv for å bli værende på reisemålet eller la
-barnet bli igjen der. I tvilstilfelle kan det også
-være aktuelt å ta hensyn til hva reisen kan gi
-barnet.24
-
-Også barnekonvensjonen artikkel 10 inneholder regler om barnets rett til å forlate et land,
-men da med formål om å sikre retten til familieliv.
-Bestemmelsen verner særlig barn og foreldres
-rett til å forlate et land, også sitt eget, for å sikre
-barnets rett til regelmessig kontakt med sine foreldre dersom de bor i forskjellige land. Bestemmelsen har liten selvstendig betydning for spørsmålet om utreise ved siden av rettighetene nedfelt
-i EMK tilleggsprotokoll nr. 4 artikkel 2 og SP
-artikkel 12.22
-Dersom Grunnloven § 106 andre ledd første
-punktum skulle tolkes uttømmende og uten
-begrensning, ville det innebære at en rekke hjemler i lovgivningen som begrenser mulighetene til å
-reise ut av riket, som blant annet flere av hjemlene
-for å nekte pass etter passloven, vil være grunnlovsstridige. Dette har neppe vært hensikten med
-å grunnlovfeste retten til å forlate riket.
-
-27.2.2 Barnelova § 41 om utreiseforbud
-Foreldre som har felles foreldreansvar, må begge
-samtykke til at barnet skal flytte ut av landet, med
-mindre reisen gjelder «stuttare utanlandsferder»,
-jf. barnelova § 40 andre ledd første punktum. Tilsvarende gjelder når et avtalt utenlandsopphold
-blir forlenget, jf. andre ledd andre punktum.
-Ved uenighet kan domstolen ilegge utreiseforbud dersom det er usikkert om barnet vil komme
-tilbake til Norge, jf. barnelova § 41 første ledd
-andre punktum. Avgjørelsen skal ta hensyn til hva
-som er til barnets beste, jf. barnelova § 48 og FNs
-barnekonvensjon artikkel 3. Forarbeidene angir
-ikke nærmere hva som skal til for at det er usikkert om barnet kommer tilbake, men viser til at
-domstolene bør kunne nekte en forelder å ta med
-barnet ut av landet dersom «en av foreldrene
-mener det er fare for kidnapping».23 I LB-20192156 er det lagt til grunn at det ikke stilles krav
-om sannsynlighetsovervekt, men at det må foreligge objektive holdepunkter for at barnet ikke vil
-returnere. Momenter ved avgjørelsen vil blant
-annet være forelderens tilknytning til Norge,
-botid i Norge, norskkunnskaper, bo- og jobbforhold og konfliktnivået mellom partene:
-For at utreiseforbud skal nedlegges, kreves det
-ikke sannsynlighetsovervekt for at barnet ikke
-21
-
-Lolova og Popova mot Bulgaria 20. januar 2015, saksnr.
-68053/10 (avvisningsavgjørelse).
-22 Kvalø 2021: Karnov lovkommentar til barnekonvensjonen
-artikkel 10.
-23
-Ot.prp. nr. 56 (1996–97) punkt 5.6.4.
-
-Hvis saken haster så mye at retten ikke får anledning til å vurdere saken, kan politiet nedlegge
-midlertidig utreiseforbud etter barnelova § 41
-tredje ledd. Politiets utreiseforbud gjelder bare
-fram til domstolen avgjør saken. Ifølge departementet kan bestemmelsen komme til anvendelse
-for eksempel dersom utreisen skjer i en helg, og
-den av foreldrene som ønsker utreiseforbud nedlagt, ikke har hatt kjennskap til den forestående
-reisen.25 Politiets avgjørelse kan ikke påklages, jf.
-barnelova § 41 tredje ledd tredje punktum.
-Et utreiseforbud kan gjelde både reise med
-forelderen, slektninger eller andre tredjepersoner
-og tilfeller der barnet reiser alene.26 Forbudet kan
-nedlegges for en enkelt reise eller allment for
-utenlandsreiser. Forbudet kan dessuten nedlegges i egen sak, eller i forbindelse med en sak om
-foreldreansvar, om hvem barnet skal bo sammen
-med eller om samværsrett, jf. barnelova § 41 første ledd tredje punktum.
-Det er ikke hjemmel i barneloven § 41 for å
-nedlegge utreiseforbud overfor den som har foreldreansvar alene. Men den andre forelderen, uten
-foreldreansvar, kan reise sak om foreldreansvar,
-flytting med barnet ut av landet, fast bosted eller
-samvær etter barneloven § 56, og kan kreve mid24
-
-LB-2019-2156 under rettens bemerkninger.
-Ot.prp. nr. 56 (1996–97) merknader til § 43 a [senere § 41
-per 06.10.15].
-26
-Backer 2009: Juridika lovkommentar til barnelova § 41.
-25
-
-[Side 337]
-
-NOU 2024: 13
-Lov og frihet
-
-lertidig avgjørelse etter barneloven § 60.27 I slike
-saker kan også spørsmål om utreiseforbud
-behandles.
-Det har i juridisk teori blitt reist spørsmål om
-barnet selv kan reise sak om utreiseforbud etter
-barnelova § 41. Bestemmelsens ordlyd utelukker
-ikke at barn har en slik adgang. Prinsippet om
-barnets beste, jf. barnelova § 48, taler for at barnet
-selv kan begjære utreiseforbud, særlig dersom
-det frykter at det ikke vil få returnere til Norge
-etter eget ønske, eller det frykter å bli utsatt for
-tvangsekteskap, kjønnslemlestelse eller andre
-straffbare handlinger.28 Som følge av at barnet
-ikke har rettslig handleevne i prosesser og i
-utgangspunktet må være representert med verge,
-er andre likevel tvilende til om barn har en slik
-rettighet.29 Det påpekes at det er foreldrene som i
-utgangspunktet er verge for barna sine, og at dersom bostedsforelderen ikke tar grep for å sikre
-barnet i slike sammenhenger, er det mest naturlig
-at barnet søker hjelp hos barnevernstjenesten.
-Utvalget er ikke kjent med at barn selv har reist
-sak om utreiseforbud.
-Dersom utreiseforbud nedlegges, skal barnets
-pass trekkes tilbake, jf. barnelova § 41 andre ledd.
-Bestemmelsen angir som et alternativ at barnet
-føres ut av passet til den forelderen som ønsker å
-reise, men den ordningen er ikke lenger praktisk
-ettersom et pass bare skal inneholde opplysninger
-om én enkelt person, jf. passloven § 6 første ledd.
-Barnelova § 41 andre ledd åpner også for at barnet kan plasseres hos andre på en forsvarlig måte,
-men ordningen er ikke foreslått videreført i forslag til ny barnelov.30
-I en lovkommentar til barnelova § 41 er det
-antatt at andre ledd også åpner for at politiet kan
-beslaglegge passet der barnet har utenlandsk
-pass.31 Det finnes imidlertid ikke noen klar hjemmel for å beslaglegge utenlandske pass, og spørsmålet er heller ikke omtalt i forarbeidene til
-bestemmelsen. Etter utvalgets syn er det usikkert
-om barnelova § 41 andre ledd kan forstås som at
-den gir en hjemmel til å beslaglegge pass utstedt
-av andre lands myndigheter. Et så inngripende til27
-
-Prop. 102 L (2014–2015) merknader til barnelova § 41.
-Backer 2009: Juridika lovkommentar til barnelova § 41.
-29 Bendiksen og Haugli 2023: side 111.
-30 NOU 2020: 14 forslag til § 6-11. Barnelovutvalget skriver i
-merknadene til bestemmelsen at alternativet om å plassere
-barnet hos andre ikke synes «å ha hatt noen praktisk betydning på lenge, og det synes uklart hva en slik bortsetting av
-barnet innebærer rettslig. Å treffe vedtak om at barn skal
-plasseres utenfor hjemmet er en kompetanse som hører til
-barnevernet eller fylkesnemndene [nå barneverns- og helsenemndene] etter vilkårene i barnevernloven.»
-31 Backer 2009: Juridika lovkommentar til barnelova § 41.
-28
-
-335
-
-Kapittel 27
-
-tak som å beslaglegge reisedokumenter utstedt av
-andre lands myndigheter bør etter utvalgets oppfatning ha en klar hjemmel. Utvalget kan ikke se
-at noen slik klar hjemmel finnes i det norske lovverket i dag, utover de tilfeller hvor nødrettsbetrakninger gjør seg gjeldende.
-Brudd på utreiseforbud er straffbart etter
-straffeloven § 261 om omsorgsunndragelse.
-Brudd på utreiseforbud etter barnelova § 41 er
-også å anse som bortføring etter Haagkonvensjonen 1980 og Europarådskonvensjonen 1980. Dersom barnet er under 16 år og er tatt med til et land
-som er tilsluttet noen av konvensjonene, kan
-saken derfor også håndteres etter konvensjonenes regler.
-
-27.2.3 Tiltak i barnevernsloven som kan
-forhindre utenlandsreiser
-Barnevernsloven har ingen bestemmelser om
-utreiseforbud. Enkelte barnevernstiltak kan i
-praksis likevel forhindre utreise.
-Et barn kan akuttplasseres dersom det er fare
-for at det blir vesentlig skadelidende dersom et
-akuttvedtak ikke gjennomføres straks, jf. barnevernsloven § 4-2. Akuttplassering kan blant annet
-være aktuelt hvis det er fare for at barnet blir
-kjønnslemlestet eller giftet bort på en nært forestående utenlandsreise. Det kan også fastsettes
-sperret adresse.
-Etter barnevernsloven § 5-6 er det ulovlig å ta
-med seg et barn ut av landet uten barnevernstjenestens samtykke når vedtak om følgende tiltak er
-iverksatt:
-– akuttvedtak om omsorgsovertakelse etter
-lovens § 4-2
-– midlertidig flytteforbud etter § 4-3,
-– akuttvedtak om plassering i barnevernsinstitusjon på grunn av alvorlig atferdsvansker etter
-§ 4-4
-– akuttvedtak om plassering når det er fare for
-menneskehandel etter § 4-5.
-Det er videre ulovlig å ta med seg barnet ut av
-Norge uten samtykke fra barnevernstjenesten når
-det er truffet vedtak om omsorgsovertakelse etter
-barnevernsloven § 5-1, plassering i barnevernsinstitusjon på grunn av alvorlige atferdsvansker
-etter § 6-2 eller plassering i fosterhjem med særlige forutsetninger eller i institusjon med hjem
-etter § 6-3. Tilsvarende gjelder når begjæring om
-slike tiltak er sendt Barneverns- og helsenemnda,
-jf. barnevernsloven § 5-6 andre punktum.
-Bestemmelsen innebærer i praksis et utreiseforbud, og skal forhindre at foreldre eller andre
-
-[Side 338]
-
-336
-
-Kapittel 27
-
-NOU 2024: 13
-Lov og frihet
-
-unndrar barn fra barnevernstjenesten når nærmere bestemte vedtak er truffet eller i ferd med å
-bli truffet. Det treffes imidlertid ikke noe vedtak
-om utreiseforbud i disse sakene. Det er heller
-ingen automatikk i at barnets pass tilbakekalles.
-Mener barnevernstjenesten at det er fare for at
-barnet vil bli tatt med til utlandet, må den derfor
-varsle passmyndigheten slik at passet kan tilbakekalles, jf. passloven § 7 og pass- og ID-kortforskriften § 4-4 andre ledd. Verken barnevernsloven
-eller passloven gir mulighet til å tilbakekalle eller
-beslaglegge utenlandske reisedokumenter. I et
-slikt tilfelle må et eventuelt beslag av et utenlandsk pass vurderes opp mot nødrettsbestemmelsen.
-Den som tar et barn ut av landet i tilfeller som
-nevnt i barnevernsloven § 5-6, kan straffes etter
-straffeloven § 261 om omsorgsunndragelse.
-Brudd på utreiseforbud etter barnevernsloven § 56 er videre å anse som bortføring etter Haagkonvensjonen 1980 og Europarådskonvensjonen
-1980, og kan derfor også forfølges sivilrettslig.32
-Barnevernsloven § 5-6 kan til en viss grad
-være egnet til å forhindre skadelige utenlandsopphold. Det forutsetter imidlertid at vilkårene for å
-iverksette ett eller flere av tiltakene som er nevnt i
-bestemmelsen, er oppfylt. Vilkårene for disse tiltakene er strenge, og det er et krav om at mindre
-inngripende tiltak ikke vil være tilstrekkelig, jf.
-barnevernsloven § 1-5 andre ledd. Bestemmelsen
-vil derfor ikke kunne forhindre utreise dersom vilkårene for andre barnevernstiltak ikke er oppfylt.
-
-27.2.4 Nektelse og tilbakekall av pass etter
-passloven
-Passloven gir muligheter til å begrense utenlandsreiser for barn som er norske statsborgere, gjennom enten å nekte eller tilbakekalle barnets norske pass.
-Etter passloven § 5 tredje ledd bokstav g kan
-pass til barn nektes utstedt dersom det er grunn
-til å tro at barnet «vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre
-fare for liv eller helse». Etter passloven § 7 første
-ledd bokstav b kan pass tilbakekalles i samme
-situasjon. Bestemmelsene er særlig utformet med
-sikte på å forebygge skadelige utenlandsopphold
-for barn, for eksempel at barn sendes på skoler i
-utlandet der de utsettes for vold eller overgrep.33
-Bestemmelsen trådte i kraft 19. oktober 2020.
-32
-
-Lassen 2023: Karnov lovkommentar til barnevernsloven § 56.
-33
-Prop. 126 L (2018–2019) punkt 3.1.
-
-Det kreves ikke at de straffbare forholdene
-medfører fare for liv og helse. For alternativet
-«fare for liv eller helse» er det ikke et krav om at
-faren er alvorlig. Begrepet helse omfatter både
-fysisk og psykisk helse. Fare for barnets utvikling
-ble ikke tatt inn som et selvstendig alternativ for å
-nekte pass med følgende begrunnelse i forarbeidene:
-[Det bør] være forholdsvis snevre rammer for
-når man kan gripe inn i foreldrenes rett til å
-bestemme om den mindreårige skal ha pass.
-De forhold bestemmelsen tar sikte på å forhindre, vil klart nok også kunne medføre en fare
-for barnets utvikling. Samtidig er «fare for liv
-og helse» begreper med et klarere og mer entydig innhold enn «fare for den mindreåriges
-utvikling», som skal tolkes vidt. Å inkludere
-utvikling vil kunne gjøre at det oppstår uklarheter om det for eksempel vil være tilstrekkelig at
-den mindreårige vil bli sendt på en skole med
-lavere kvalitet enn norske skoler, om personen
-vil leve under enklere og strengere forhold
-eller vil miste kontakt med venner i Norge.
-Slike forhold bør etter departementets syn
-ikke alene kunne begrunne passnektelse.34
-
-Sannsynlighetskravet for at barnet vil bli utsatt for
-straffbare forhold eller fare for liv eller helse er
-lavt, nemlig «grunn til å tro». Det er likevel ikke
-nok at det er en teoretisk mulighet for at barnet vil
-bli utsatt for slike forhold i utlandet, men det er
-heller ikke et krav om sannsynlighetsovervekt.
-Det skal etter forarbeidene legges stor vekt på om
-barnet selv gir uttrykk for frykt for å bli utsatt for
-overgrep eller andre straffbare forhold ved reise
-til utlandet, og en slik bekymring skal i utgangspunktet være nok til at pass kan nektes utstedt.35
-Et vedtak om nektelse eller tilbakekall av pass
-til barn kan ikke ha lengre varighet enn ett år.
-Vedtaket kan likevel forlenges med inntil ett år av
-gangen dersom vilkårene fremdeles er oppfylt, jf.
-pass- og ID-kortforskriften § 4-3. Det er tilsvarende regler i ID-kortloven om nektelse og tilbakekall av nasjonalt ID-kort med reiserett til barn.
-
-27.2.5 Nektelse og tilbakekall av
-reisedokumenter etter
-utlendingslovgivningen
-Utlendingsloven § 64 har regler om reisebevis for
-flyktninger og utlendingspass. En utlending som
-34
-35
-
-Prop. 126 L (2018–2019) punkt 3.6.1.3.
-Prop. 126 L (2018–2019) punkt 3.6.1.1.
-
-[Side 339]
-
-NOU 2024: 13
-Lov og frihet
-
-får oppholdstillatelse etter reglene om beskyttelse
-(asyl), skal etter søknad også gis reisebevis for
-flyktninger for reiser utenfor Norge, jf. § 64 første
-ledd første punktum. En utlending som har eller
-gis oppholdstillatelse i riket på grunnlag av søknad om asyl, men uten å ha fått innvilget oppholdstillatelse som flyktning, skal gis utlendingspass dersom utlendingens forhold til hjemlandets
-myndigheter tilsier det, jf. § 64 andre ledd første
-punktum. Hovedregelen er at reisebevis for flyktninger og utlendingspass er gyldige for reise til
-alle land, med unntak av utlendingens hjemland,
-jf. utlendingsforskriften §§ 12-2 femte ledd og 12-6
-femte ledd.
-Reisebevis for flyktninger og utlendingspass
-kan etter utlendingsforskriften kapittel 12 nektes
-utstedt eller inndras dersom det foreligger forhold
-som gjør at det ikke ville blitt utstedt pass til norsk
-statsborger etter passloven § 5.36 Dette omfatter
-også tilfeller der søkeren er mindreårig og det er
-grunn til å tro at vedkommende vil bli utsatt for
-straffbare forhold eller forhold som kan medføre
-fare for liv eller helse i utlandet.
-
-27.2.6 SIS-loven – registrering i Schengen
-informasjonssystem
-Gjennom Schengen-samarbeidet er Norge en del
-av et område med felles yttergrense og indre
-bevegelsesfrihet.37 Ettersom det ikke er grensekontroll mellom Schengen-landene, er de praktiske mulighetene for å forhindre reiser innad i
-Schengen-området svært begrenset. Ved reiser ut
-av Schengen-området gjennomføres ytre grensekontroll. Personer som mangler reisedokumenter
-eller som av andre grunner ikke skal reise ut av
-Schengen-området, for eksempel fordi de er etterlyst, kan derfor stanses dersom de forsøker å
-krysse yttergrensen.
-Et viktig verktøy som benyttes i grensekontrollen er Schengen informasjonssystem (SIS),
-som er et digitalt register der medlemsstatene i
-Schengen-samarbeidet kan registrere og søke i
-konkrete opplysningskategorier for nærmere
-bestemte formål. Politiet kan søke i systemet blant
-annet ved ytre grensekontroll og ved etterforsking av straffesaker. Systemet er regulert i lov
-om Schengen informasjonssystem (SIS-loven),
-som implementerer tre EU-forordninger om
-36
-
-Bestemmelsene er § 12-1 første ledd bokstav a, § 12-4
-tredje ledd bokstav a, § 12-5 femte ledd bokstav a og § 12-8.
-37 Samtlige EU-land, bortsett fra Irland, Kypros, Bulgaria,
-Romania og Kroatia, deltar i Schengen-samarbeidet. I tillegg er Norge, Island, Sveits og Liechtenstein assosierte
-medlemmer av samarbeidet.
-
-337
-
-Kapittel 27
-
-systemet.38 SIS-loven er nylig revidert for å implementere de nyeste forordningene i norsk rett.
-Lovendringene trådte i kraft 7. mars 2023 og forordningene gjelder som norsk lov.
-SIS-forordningene regulerer uttømmende
-hvilke opplysninger som kan eller skal registreres
-i SIS. Det er som hovedregel ikke obligatorisk å
-registrere opplysninger i SIS.39 Etter forordning
-(EU) 2018/1862 (heretter politisamarbeidsforordningen) artikkel 21 nr. 1 og forordning (EU)
-2018/1861 artikkel 21 nr. 1 må det før en melding
-registreres eller forlenges, vurderes om saken er
-adekvat, relevant og viktig nok (adequate, relevant
-and important enough) til at meldingen bør
-registreres.
-Forordning (EU) 2018/1862 artikkel 32 åpner
-for at det kan registreres opplysninger om nærmere bestemte sårbare personer, både barn og
-voksne, som må forhindres i å reise (need to be
-prevented from travelling) ut av Schengen-området. Registrering etter artikkel 32 er ikke obligatorisk.
-De relevante delene av artikkel 32 lyder:
-1. Alerts on the following categories of persons shall be entered in SIS at the request
-of the competent authority of the issuing
-Member State:
-[…]
-(c) children at risk of abduction by a parent,
-a family member or a guardian, who
-need to be prevented from travelling;
-(d) children who need to be prevented from
-travelling owing to a concrete and apparent risk of them being removed from or
-leaving the territory of a Member State
-and:
-(i) becoming victims of trafficking in
-human beings, or of forced marriage, female genital mutilation or
-other forms of gender-based violence;
-(ii) becoming victims of or involved in
-terrorist offences; or
-38
-
-Forordning (EU) 2018/1862 om opprettelse, drift og bruk
-av Schengen informasjonssystem (SIS) innenfor politisamarbeid og strafferettslig samarbeid; forordning (EU) 2018/
-1861 om opprettelse, drift og bruk av Schengen informasjonssystem (SIS) på området inn- og utreisekontroll; forordning (EU) 2018/1860 om bruk av Schengen informasjonssystem i forbindelse med retur av tredjestatsborgere
-med ulovlig opphold.
-39 Et unntak er at registrering av meldinger om «tredjestatsborgere som er gjenstand for en beslutning om tilbakesending» er obligatorisk, jf. forordning (EU) 2018/1860 artikkel 3.
-
-[Side 340]
-
-338
-
-Kapittel 27
-
-NOU 2024: 13
-Lov og frihet
-
-(iii)becoming conscripted or enlisted
-into armed groups or being made to
-participate actively in hostilities;
-(e) vulnerable persons who are of age and
-who need to be prevented from travelling for their own protection owing to a
-concrete and apparent risk of them
-being removed from or leaving the territory of a Member State and becoming
-victims of trafficking in human beings
-or gender-based violence.
-Før det kan registreres opplysninger etter nr. 1
-bokstav c (barnebortføring) må det være gjort en
-beslutning av en kompetent myndighet, herunder
-rettsmyndigheter med kompetanse i saker om foreldreansvar. Det må foreligge en konkret og åpenbar fare for at barnet umiddelbart kan bli tatt ulovlig ut av landet, jf. nr. 3. Registrering etter bokstav
-d og e krever at det foreligger en beslutning fra en
-kompetent myndighet, inkludert rettslige myndigheter. Behovet for å opprettholde meldingene skal
-vurderes regelmessig, jf. nr. 5. Meldingene kan
-registreres for ett år av gangen, jf. artikkel 53 nr.
-4. Meldinger etter nr. 1 bokstav d og e skal slettes
-senest når barnet blir myndig, med mindre meldingen opprettholdes på annet grunnlag, jf. artikkel 32 nr. 7.
-Verken SIS-loven eller SIS-forskriften regulerer hvilke beslutninger truffet av norske myndigheter som kan registreres i SIS etter artikkel 32
-nr. 1 bokstav c, d eller e. Forarbeidene sier heller
-ingenting om hvilke beslutninger som kan
-registreres.40 Utvalget legger til grunn at artikkel
-32 nr. 1 bokstav c (fare for barnebortføring) åpner
-for å registrere opplysninger om utreiseforbud
-ilagt av retten etter barnelova § 41, men per i dag
-registreres ikke slike kjennelser i SIS. Utvalget
-kan ikke se at det finnes hjemler i norsk rett for å
-ilegge utreiseforbud for voksne personer som står
-i fare for å bli offer for menneskehandel eller
-utsatt for kjønnsbasert vold, jf. artikkel 32 nr. 1
-bokstav e, og slike opplysninger kan derfor ikke
-registreres i dag.
-Når en medlemsstat ved et søk får treff på en
-person som er registrert etter artikkel 32, skal staten som får treff og staten som har registrert meldingen utveksle utfyllende informasjon for å
-avgjøre hvilke tiltak som skal iverksettes, jf. politisamarbeidsforordningen artikkel 33. Medlemsstaten som får et treff, kan, i samsvar med sin nasjonale rett, flytte barnet til et trygt sted for å forhin40
-
-Prop. 226 L (2020–2021).
-
-dre videre reise. Tiltak skal treffes i tråd med barnets beste, og beslutningen skal tas umiddelbart
-og senest tolv timer etter at barnet ble lokalisert, i
-samråd med de relevante barnevernsmyndigheter, når det er relevant.
-
-27.3 Andre lands rett
-27.3.1 Danmark
-Barnets lov regulerer det danske barnevernet.
-Loven har ingen regler som åpner for å ilegge
-utreiseforbud for barn og unge.41
-Etter den danske passloven§ 2 stk. 1 nr. 5 kan
-politiet nekte å utstede pass eller inndra et allerede utstedt pass når «der er grund til at antage, at
-det pågældende barn ellers vil blive sendt til
-udlandet til forhold, der bringer den pågældendes
-sundhed eller udvikling i alvorlig fare».42 Etter § 2
-stk. 1 nr. 6 kan pass nektes utstedt eller inndras
-når «der er grund til at antage, at det pågældende
-barn ellers vil blive sendt til udlandet for at indgå
-ægteskab eller for at indgå i en religiøs vielse
-uden borgerlig gyldighed eller i et andet ægteskabslignende forhold». Et vedtak om nektelse
-eller tilbakekall etter disse alternativene kan etter
-stk. 2 ikke ha lengre varighet enn ett år, men kan
-forlenges med inntil ett år om gangen. Vedtaket
-kan bare gjelde fram til barnet fyller 18 år. Det er
-gitt tilsvarende regler for å nekte å utstede reiselegitimasjon til mindreårige utlendinger i udlændingeloven § 39 a stk. 3 nr. 5 og stk. 8.
-Som omtalt i kapittel 14 setter også den danske straffeloven § 215 a straff for foreldre som
-sender barn til utlandet til forhold som medfører
-alvorlig fare for liv eller helse.
-27.3.2 Sverige43
-Den 1. juli 2020 innførte Sverige et sivilrettslig
-utreiseforbud i saker om tvangsekteskap og
-kjønnslemlestelse i lag (1990:52) med särskilda
-bestämmelser om vård av unga (LVU). Hovedregelen om utreiseforbud finnes i LVU 31 a §:
-Om det finns en påtaglig risk för att någon som
-är under 18 år förs utomlands eller lämnar Sverige i syfte att ingå äktenskap eller en äktenskapsliknande förbindelse eller könsstympas,
-41
-
-LBK nr. 83 af 25/01/2024., som trådte i kraft i januar 2024.
-LBK nr. 76 af 19/01/2017.
-43 Svensk lovforslag om utvidet utreiseforbud som omtales i
-dette punktet er vedtatt med virkning fra 1. juni 2024, se
-Betänkande 2023/24:SoU24.
-42
-
-[Side 341]
-
-NOU 2024: 13
-Lov og frihet
-
-ska han eller hon förbjudas att lämna Sverige
-(utreseförbud).
-
-Etter bestemmelsen skal det vedtas utreiseforbud
-når det er risiko for at et barn tas med til utlandet
-eller forlater Sverige med sikte på å inngå ekteskap eller en ekteskapslignende forbindelse eller
-bli kjønnslemlestet. Ifølge forarbeidene44 er regelen i tråd med retten til å forlate sitt eget land etter
-EMK tilleggsprotokoll nr. 4 artikkel 2.
-Kravet til påtaglig risk innebærer at det må
-foreligge konkrete omstendigheter som tilsier at
-det er en risiko for at barnet føres utenlands eller
-forlater Sverige for å inngå ekteskap eller en ekteskapslignende forbindelse eller for å bli kjønnslemlestet.45 Det stilles ikke krav om sannsynlighetsovervekt, men det er heller ikke tilstrekkelig
-med en subjektiv antakelse om at det er en risiko
-for at barnet føres utenlands eller forlater Sverige
-for å inngå ekteskap eller en ekteskapslignende
-forbindelse eller for å bli kjønnslemlestet. Det er
-heller ikke nok med en ubetydelig, uklar eller
-fjern risiko.46
-Et vedtak om utreiseforbud treffes av forvaltningsdomstolen etter søknad fra socialnämnden i
-kommunen, jf. LVU 31 b §. Dette er samme ordning som for andre tvangstiltak etter LVU. Socialnämnden har også rett til å treffe vedtak om midlertidig reiseforbud der det ikke er tid til å avvente
-rettens beslutning, jf. LVU 31 d §. Beslutning om
-midlertidig reiseforbud skal bringes inn for retten
-innen én uke fra beslutningen ble truffet, jf. 31 e §.
-Socialnämnden skal innen seks måneder fra
-beslutning om utreiseforbud ble truffet, vurdere
-om det skal opphøre, jf. 31 c §. Spørsmålet skal
-vurderes fortløpende innen seks måneder fra forrige vurdering.
-Etter 31 i § kan socialnämnden gjøre unntak
-fra forbudet for en enkeltreise, dersom den konkrete reisen ikke innebærer noen risiko for at barnet føres ut av Sverige for å inngå ekteskap eller
-bli kjønnslemlestet.
-Brudd på utreiseforbud kan etter LVU 45 §
-straffes med fengsel i inntil to år. Straffebudet er
-ikke begrenset til noen bestemt personkrets.
-Dersom et barn ilegges utreiseforbud, kan
-barnets svenske pass tilbakekalles, jf. passlagen
-(1978:302) 7 a §. Loven åpner ikke for å nekte eller
-tilbakekalle pass til barn dersom det ikke er truffet vedtak om utreiseforbud. Det er heller ikke gitt
-44
-
-Prop. 2019/20:131 Ökat skydd mot hedersrelaterad brottslighet punkt 6.2.
-45 Prop. 2019/20:131 punkt 6.3.1.
-46
-Ibid.
-
-339
-
-Kapittel 27
-
-regler om beslag eller andre måter å forhindre at
-et utenlandsk pass benyttes til utreise, for eksempel der barnet har dobbelt statsborgerskap.
-Ifølge utredningen Ds 2022:9 Ett utvidgat utreseförbud för barn var det i årene 2020 og 2021 totalt
-43 saker om utreiseforbud for forvaltningsdomstolen. Av disse ble 33 utreiseforbud ilagt for totalt
-35 barn. Alle de ilagte utreiseforbudene gjaldt jenter. De fleste avgjørelsene gjaldt risiko for
-tvangsekteskap. I de fleste sakene var det også
-andre barnevernstiltak som ble prøvd for forvaltningsdomstolen samtidig, men det finnes også
-eksempler på at utreiseforbud var det eneste tiltaket.47
-Den svenske regjeringen har nylig fremmet et
-lovforslag om å utvide mulighetene for å ilegge
-utreiseforbud etter LVU 31 a §.48 Etter forslaget
-skal det også kunne ilegges utreiseforbud dersom
-det er påtaglig risk for at barnets helse eller utvikling skades på grunn av nærmere bestemte
-omstendigheter. Det kan dreie seg om risiko for
-fysisk eller psykisk mishandling, utilbørlig utnyttelse, omsorgssvikt eller andre forhold i bomiljøet.
-Det kan også dreie seg om den unges misbruk av
-vanedannende stoffer, kriminell aktivitet eller
-annen sosialt nedbrytende atferd. Forslaget skal
-etter planen tre i kraft 1. juni 2024, og lyder:
-Ett utreseförbud ska meddelas för den som är
-under 18 år, om det finns en påtaglig risk för att
-1. han eller hon förs utomlands eller lämnar
-Sverige, och
-2. hans eller hennes hälsa eller utveckling
-skadas under utlandsvistelsen på grund av
-– fysisk eller psykisk misshandel, otillbörligt utnyttjande, brister i omsorgen eller
-något annat förhållande i boendemiljön,
-eller
-– eget missbruk av beroendeframkallande medel, brottslig verksamhet eller
-något annat socialt nedbrytande beteende.
-Ett utreseförbud ska också meddelas om
-det finns en påtaglig risk för att den unge förs
-utomlands eller lämnar Sverige i syfte att ingå
-äktenskap eller en äktenskapsliknande förbindelse.
-Regjeringen legger til grunn at et utreiseforbud er
-et mindre inngripende tiltak enn omsorgsovertakelse.49 Barnets samtykke til reisen skal ikke
-47
-
-Ds 2022:9 punkt 5.1.2.
-Prop. 2023/24:72 Ett utvidgat utreseförbud för barn.
-49
-Prop. 2023/24:72 side 12.
-48
+# Tiltak etter barnevernsloven
+
+## Innledning
+
+Dette kapittelet inneholder en gjennomgang av regler om tiltak etter barnevernsloven. Framstillingen er av betydning for flere andre kapitler hvor utvalget vurderer tiltak for å styrke rettsvernet for barn og unge utsatt for negativ sosial kontroll, tvangsekteskap, kjønnslemlestelse, psykisk vold og ufrivillig eller skadelig utenlandsopphold. Det vil føre for langt for denne utredningen å omhandle alle mulige tiltak barnevernstjenesten har til rådighet. Utvalget konsentrer seg hovedsakelig om tiltak som er av betydning for utvalgets vurderinger, enten i dette kapittelet eller påfølgende kapitler.
+
+Kapittelets vurderingsdel svarer på spørsmålet i mandatets bokstav a om begrepet negativ sosial kontroll bør tas inn i barnevernsloven, herunder om det er behov for regelverksendringer for å tydeliggjøre når negativ sosial kontroll utløser tiltak etter loven. I den forbindelse vurderer utvalget om begrepet negativ sosial kontroll bør innføres som et *utløsende vilkår* for frivillig hjelpetiltak etter barnevernsloven § 3-1 eller omsorgsovertakelse etter § 5-1. Videre vurderer utvalget om begrepet bør tas inn som et *moment* i vurderingen av om vilkårene for disse tiltakene er oppfylt. Utvalget undersøker også andre muligheter for å løfte fram og synliggjøre elementer av negativ sosial kontroll i tiltaksbestemmelsene. Det er blant annet en nær sammenheng mellom negativ sosial kontroll og *psykisk mishandling*. Videre er det en sammenheng mellom negativ sosial kontroll og mangler i den *psykiske* omsorgen barnet får. Et karakteristisk trekk ved negativ sosial kontroll er også at barnets *rett til medvirkning og selvbestemmelse* ikke respekteres.
+
+Lovutvalget har i sitt arbeid sett hen til annet relevant utredningsarbeid, bl.a. rapporten fra ekspertgruppa om unge som etterlates i utlandet mot sin vilje og Ingvill Helland Göllers utredning Negativ sosial kontroll – en juridisk utredning fra 2020.
+
+## Gjeldende rett
+
+### Frivillige og pålagte hjelpetiltak
+
+Barnevernstjenesten skal tilby og sette i verk hjelpetiltak for barnet og foreldrene dersom barnet «på grunn av sin omsorgssituasjon eller atferd har et særlig behov for hjelp», jf. barnevernsloven § 3-1 første ledd første punktum. Hjelpetiltak skal bidra til at barn og familier får den støtten de trenger før utfordringene i hverdagen vokser til alvorlige problemer, og på den måten forebygge behov for mer inngripende tiltak, jf. minste inngreps prinsipp.[^1297] Uttrykket «særlig behov» innebærer at barnets behov må være større enn det som er vanlig for de fleste andre barn.[^1298] Det særlige behovet må være knyttet til barnets omsorgssituasjon eller atferd, jf. ordlyden «på grunn av». Forarbeidene nevner for eksempel sosiale problemer, familiekonflikter eller sykdom.[^1299]
+
+Hvorvidt barnet har et særlig behov for hjelp i situasjoner med foreldres eller andres kontroll, må bero på en konkret vurdering hvor hensynet til barnets beste står sentralt. Momenter i vurderingen vil blant annet være alvorlighetsgraden av kontrollen, barnets alder og modenhet, virkemidlene som benyttes og hvilken virkning kontrollen har hatt på barnet. Et barn som blir systematisk overvåket, forbys bruk av telefon eller sosiale medier og ikke får møte venner eller delta på fritidsaktiviteter, må antas å ha et særlig behov for hjelp. Dette er tilfeller hvor barnets rettigheter til medvirkning og selvbestemmelse etter barnelova §§ 30 til 33 krenkes. Kontrollen trenger imidlertid ikke være systematisk for at barnet kan sies å ha et særlig behov for hjelp. En ungdom som ikke selv får bestemme valg av utdanning eller yrke, jf. barnelova § 32 (om utdanning og medlemskap i foreninger), kan etter omstendighetene også ha et særlig behov for hjelp, selv om barnet ikke opplever andre former for kontroll. Også andre sider ved barnets situasjon enn kontrollregimet må tas i betraktning, for eksempel sosiale utfordringer på grunn av språk, vanskeligheter på skolen eller om barnet er særlig sårbart av andre grunner.[^1300] Göller skriver følgende om vurderingen:
+
+Hensynet til barnets beste, og også barnets rett til medvirkning, vil ha betydning både ved vurderingen av om det foreligger ‘særlige behov’ og ved vurderingen av hva eventuelle tiltak skal gå ut på. Dette innebærer at dersom et barn eller en ungdom selv har kontaktet hjelpeinstansene og tilkjennegitt et behov for hjelp er dette et svært sterkt argument for at barnet har krav på tiltak. Også dersom undersøkelsene settes i gang på grunnlag av bekymringsmelding fra andre enn barnet selv (jf. § 4-2) \[nå § 2-1, vår tilføyelse\] vil barnets eget synspunkt være av betydning.
+
+I saker hvor foreldrenes handlingsmønster kan defineres som «negativ sosial kontroll» vil kriteriet om ‘særlig behov’ for tiltak som regel være oppfylt. Dette skyldes både at virkemidlene som er brukt er såpass inngripende, også i de tilfellene der vold ikke inngår om et ledd i den kontrollerende adferden, og at kontrollen etter dagens definisjon er systematisk. I grensetilfeller hvor det er mer uklart om man står overfor et tilfelle av negativ sosial kontroll, for eksempel fordi det er utøvd en relativt mild grad av press eller fordi den kontrollerende adferden (foreløpig) ikke fremstår som systematisk, er det mulig at barnet ikke har ‘særskilte behov’ for tiltak etter denne bestemmelsen. Det kan også tenkes tilfeller hvor man ut fra de anvendte virkemidlene vil si at barnet er utsatt for negativ sosial kontroll, men at virkningen er såpass begrenset (jf. at virkningen er uten betydning i dagens definisjon av negativ sosial kontroll) at man likevel ikke vil si at barnet har ‘særlig behov’ for tiltak fra barnevernet.
+
+Her er det viktig å påpeke at selv om mange av de samme karakteristikkene ved foreldrenes adferd vil være relevant både ved vurderingen av om ‘særlig behov’ foreligger og ved vurderingen av om barnet er utsatt for negativ sosial kontroll, vil vurderingene ikke være sammenfallende. Det vil være en stor grad av sammenfall, men det er fullt mulig at barnet har særlig behov for tiltak selv om det ikke utsettes for negativ sosial kontroll og omvendt.[^1301]
+
+Det er et krav om at hjelpetiltak skal være egnet til å møte barnets og foreldrenes behov, jf. § 3-1 første ledd andre punktum.[^1302] Hvilke tiltak som kan anses å bidra til positiv endring hos barnet eller i familien, må vurderes konkret i den enkelte saken med utgangspunkt i hensynet til barnets beste.[^1303] Barn som utsettes for alvorlige psykiske krenkelser kan ha behov for andre tiltak enn barn som har strenge begrensninger i innetider eller får hyppige husarrester.
+
+Det finnes en rekke ulike typer hjelpetiltak som barnevernstjenesten har til rådighet, slik som veiledning for å styrke foreldres omsorgsevne (omsorgsendrende tiltak), tiltak som avlaster familier som opplever store belastninger i hverdagen (kompenserende tiltak), og kontrolltiltak i form av tilsyn. Råd og veiledning er blant de mest brukte hjelpetiltakene, men i saker hvor barn og unge er utsatt for systematisk kontroll og begrensninger i sin livsutfoldelse, vil ikke dette nødvendigvis være tilstrekkelig. Barnevernstjenesten må vurdere hva barnet risikerer ved å bryte familiens normer og hvor stor risikoen for alvorlige restriksjoner vil være. På den annen side kan det være at barnet nettopp har behov for klar og tydelig foreldrekontroll, men at foreldrene har behov for veiledning i hva slags virkemidler de kan og bør anvende.
+
+Familieråd er et annet eksempel på tiltak barnevernstjenesten kan benytte seg av. Familieråd er et tiltak der familiemedlemmer som onkler, tanter eller andre som er en viktig del av barnets liv møtes for å bidra til å bedre barnets situasjon. I saker med negativ sosial kontroll, kan det være andre familiemedlemmer enn foreldrene som utøver kontroll over barnet. Risikoen for at barnet utsettes for mer og strengere kontroll ved å involvere storfamilien kan være stor. Hvorvidt familieråd vil være et egnet tiltak i slike saker, må vurderes konkret.
+
+Det er behov for kompetanse og fenomenforståelse, samt innsikt i saken for å kunne foreta en god vurdering. Videre må barnevernstjenesten ta hensyn til barnets etniske, kulturelle, språklige og religiøse bakgrunn i alle faser av saken, jf. barnevernsloven § 1-8, noe som også krever kompetanse.
+
+For at frivillige hjelpetiltak kan iverksettes, må foreldrene samtykke til tiltaket. Dersom foreldrene ikke samtykker, kan barneverns- og helsenemnda treffe vedtak om pålegg om hjelpetiltak etter barnevernsloven § 3-4. Dette forutsetter at vilkårene for frivillig hjelpetiltak etter § 3-1 første ledd er oppfylt, og at tiltaket er «nødvendig for å sikre barnet tilfredsstillende omsorg eller beskyttelse», jf. bestemmelsens ordlyd. Nødvendighetskriteriet innebærer at barnets situasjon ikke kan avhjelpes med mindre inngripende tiltak.
+
+Grenser for foreldrekontroll kan være et krevende tema å veilede om. Foreldrene kan være av den oppfatning at restriksjonene er til barnets beste utfra deres forståelse, kulturelle bakgrunn og syn på oppdragelse. I familier som er del av lukkede trossamfunn kan foreldrene mene at det å beskytte barnet fra storsamfunnet er til barnets beste. Barn som ilegges begrensninger for å ivareta familiens renommé eller ære kan også etter foreldrenes syn være til det beste for barnet. I slike situasjoner kan opplevelsen av å bli påtvunget et tiltak føre til motstand mot barnevernstjenesten. Dette kan igjen føre til et dårligere samarbeidsklima og svekkede muligheter for endring i familien. Det er også en risiko for at kontrollen eskalerer og utsetter barnet for større fare.
+
+Dersom barnet oppholder seg i en annen stat, men har sitt vanlige bosted i Norge, kan det treffes vedtak om hjelpetiltak etter barnevernsloven § 3-1 og pålegg om hjelpetiltak etter § 3-4 når foreldrene oppholder seg i Norge, jf. lovens § 1-2 tredje ledd. Det framgår av forarbeidene at bestemmelsen er særlig aktuell når «et barn er sendt ut av landet mot sin vilje og utsettes for tvang eller negativ sosial kontroll». Forarbeidene spesifiserer ikke hva negativ sosial kontroll kan være i slike situasjoner.[^1304]
+
+### Akuttvedtak om omsorgsovertakelse
+
+Barnevernstjenestens leder, lederens stedfortreder eller påtalemyndigheten kan treffe akuttvedtak om omsorgsovertakelse dersom det er «fare for at barnet blir vesentlig skadelidende dersom vedtaket ikke gjennomføres straks», jf. barnevernsloven § 4-2 første ledd. Vilkåret innebærer at det ikke vil være forsvarlig å vente på at det kan gjennomføres ordinær forberedelse av vedtak om omsorgsovertakelse. Videre må vedtaket være til barnets beste, og det er en forutsetning at mindre inngripende tiltak ikke kan avhjelpe situasjonen, jf. barnevernsloven §§ 1-3 (om barnets beste) og 1-5 andre ledd (minste inngreps prinsipp).
+
+Akuttplassering av barn utenfor hjemmet uten foreldrenes samtykke griper sterkt inn i barns og foreldres familieliv og det er dramatisk for alle involverte, ikke minst for barnet saken gjelder. Samtidig har staten en klar plikt til å beskytte barn mot alvorlige krenkelser, jf. Grunnloven § 104 tredje ledd og barnekonvensjonen artiklene 3 og 19. Det avgjørende for vurderingen av om akuttiltak kan iverksettes, er barnets situasjon og behovet for beskyttelse.[^1305] Akuttvedtak om omsorgsovertakelse er særlig aktuelt der barnet blir utsatt for alvorlige tilfeller av negativ sosial kontroll, for eksempel der kontrollen innebærer risiko for at barnet blir sendt til utlandet for å giftes bort eller risikerer å bli utsatt for æresmotivert vold.
+
+Et akuttvedtak kan treffes før foreldrene har fått underretning om vedtaket dersom underretningen kan utsette barnet eller andre personer for fare eller skade, for eksempel der det er fare for vold, mishandling eller skadelig utenlandsopphold, jf. barnevernsloven § 12-2 andre ledd. Foreldrene kan bli underrettet om vedtaket muntlig eller på annen måte, men skal snarest mulig gis skriftlig underretning, jf. forvaltningsloven § 27 og barnevernsloven §§ 12-1 og 12-2. Foreldrene, og barn som har partsrettigheter, har rett til fri rettshjelp,[^1306] og kan også klage på vedtaket til barneverns- og helsenemnda. Nemnda vil da innkalle til forhandlingsmøte, eventuelt samtaleprosess.
+
+Dersom det er behov for videre tiltak, skal barnevernstjenesten følge opp akuttvedtaket med en begjæring til barneverns- og helsenemnda om tiltak innen seks uker, jf. barnevernsloven § 4-2 tredje ledd første punktum. Akuttvedtaket faller bort og barnet må flytte hjem dersom fristen ikke overholdes, jf. barnevernsloven § 4-2 tredje ledd andre punktum.
+
+Etter gjeldende rett kan det ikke treffes akuttvedtak om omsorgsovertakelse dersom barnet oppholder seg i en annen stat, jf. lovens § 1-2 tredje ledd.
+
+### Omsorgsovertakelse etter barnevernsloven § 5-1
+
+Det klare utgangspunktet etter både menneskerettslige forpliktelser og barnevernsloven er at barn skal vokse opp hos sine foreldre, jf. barnevernsloven § 1-5 første ledd.[^1307] Etter barnevernsloven § 5-1 kan barneverns- og helsenemnda likevel treffe vedtak om omsorgsovertakelse. Terskelen for omsorgsovertakelse er høy. Tre vilkår må være oppfylt:
+
+- Ett av de alternative grunnvilkårene i § 5-1 bokstav a til g må være oppfylt.
+
+- Mindre inngripende tiltak kan ikke skape tilfredsstillende forhold og det er *nødvendig* med omsorgsovertakelse ut fra barnets situasjon.
+
+- Omsorgsovertakelse må etter en helhetsvurdering være til barnets beste.[^1308]
+
+Dersom vilkårene i § 5-1 er oppfylt, «kan» vedtak om omsorgsovertakelse treffes. En omsorgsovertakelse griper inn i både barnets og foreldrenes rett til familieliv etter EMK artikkel 8 nr. 1. Et slikt inngrep i retten til familieliv kan bare skje dersom det er i samsvar med loven, har et legitimt formål og er nødvendig i et demokratisk samfunn, jf. EMK artikkel 8 nr. 2.[^1309] Høyesterett har uttrykkelig uttalt i HR-2020-662-S at kravet om «very exceptional circumstances» er i overensstemmelse med barnevernslovens bestemmelser om omsorgsovertakelse.[^1310] Der foreldrenes og barnets interesser er i konflikt, må det foretas en avveining av foreldrenes og barnets interesser. Omsorgsovertakelsen må være «nødvendig ut fra barnets situasjon» og i tråd med minste inngreps prinsipp slik at «mindre inngripende tiltak ikke kan skape tilfredsstillende forhold for barnet», jf. barnevernsloven § 1-5 andre ledd. Der det ikke er mulig å beskytte barnet med mindre inngripende tiltak vil barnet ha en selvstendig rett til omsorgsovertakelse. Det forutsetter i alle tilfeller at det vurderes å være til barnets beste, jf. barnevernsloven § 1-3. Beviskravet er alminnelig sannsynlighetsovervekt. Barnevernstjenesten har bevisbyrden for at vilkårene er oppfylt.
+
+Barnevernsloven § 5-1 første ledd bokstavene a og c er de mest aktuelle hjemlene i tilfeller av alvorlig negativ sosial kontroll og omtales derfor særskilt i det følgende.[^1311]
+
+Etter *bokstav a* kan omsorgsovertakelse iverksettes når det er «alvorlige mangler ved den omsorgen barnet får, herunder den personlige kontakt og trygghet, sett hen til det barnet trenger etter sin alder og utvikling». Bestemmelsen tar sikte på å fange opp alvorlige mangler ved den daglige praktiske omsorgen, samt den emosjonelle og psykiske omsorgen, eller kombinasjoner av disse.[^1312] Sett i sammenheng med forarbeidene til barnevernloven 1992, kan eksempler på mangler ved den emosjonelle omsorgen være følelsesmessig avvisning av barnet og situasjoner hvor foreldrene ikke er i stand til å dekke barnets kontaktbehov.[^1313] Videre vises det til at vilkåret omfatter tvang eller vold i hjemmet, eller alvorlige psykiske lidelser hos foreldrene som skaper utrygghet hos barnet. Det kreves «alvorlige» mangler i omsorgen, som ifølge forarbeidene innebærer at barnets situasjon må være «forholdsvis klart uholdbar», og at «ikke ethvert avvik fra det man kan kalle vanlige normer eller situasjoner» omfattes.[^1314]
+
+Hvorvidt tilfeller av negativ sosial kontroll innebærer alvorlige mangler ved den omsorgen barnet får, beror på en konkret helhetsvurdering av alvorlighetsgraden av kontrollen, barnets alder og modenhet, virkemidler som benyttes og hvilken virkning kontrollen har hatt på barnet. Vurderingstemaet er om det er alvorlige mangler ved den omsorgen barnet får, ikke hvorvidt det i seg selv foreligger negativ sosial kontroll. Momentene som inngår i de to vurderingen kan i stor grad være sammenfallende, likevel slik at det i vurderingen av om tiltak skal iverksettes, må ses hen til barnets *helhetlige* omsorgsbehov. Det at et barn fratas muligheten til å ha et privatliv gjennom overvåking, urimelige begrensninger av sin fritid og hvem det får lov til å omgås, kan blant annet begrense barnets mulighet til å utvikle seg til et selvstendig individ. Videre kan den negative sosiale kontrollen innebære at barnet ikke føler trygghet i familien eller at barnet ikke får dekket sitt emosjonelle omsorgsbehov. Kontroll og represalier kan også medføre fysiske mangler i omsorgen, som for eksempel at barnet nektes mat som en konsekvens av normbrudd. Kontrollerende atferd eller represalier fra foreldre som ikke innebærer at barnets omsorgssituasjon er «forholdsvis klart uholdbar» faller utenfor. At barnet ikke får delta i fritidsaktiviteter vil derfor neppe i seg selv innebære «alvorlige mangler» i den omsorgen barnet får.
+
+Etter *bokstav c* kan omsorgsovertakelse iverksettes når barnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmet. Mishandlingen og overgrepene kan være av både fysisk og psykisk karakter.[^1315] At barnet er vitne til eller kjent med mishandling av eller alvorlige voldshandlinger mot andre nærstående i hjemmet, utgjør et alvorlig psykisk overgrep. Ikke all bruk av makt utgjør mishandling. Forarbeidene peker på at «holding og andre lette beskyttende eller avvergende tiltak» ikke er mishandling. Bestemmelsen vil heller ikke kunne brukes bare på grunn av én enkelt og mindre alvorlig krenkelse dersom barnevernstjenesten alt i alt vurderer hjemmesituasjonen som tilfredsstillende for barnet.
+
+Selv om bokstav a i mange tilfeller vil være oppfylt dersom barnet er mishandlet eller utsatt for overgrep, var det ifølge forarbeidene til ny barnevernslov ikke et ønske om å fjerne alternativene i bokstav b fra lovteksten.[^1316] Begrunnelsen var at det på grunn av tiltakets inngripende karakter er en fordel med så klar hjemmel som mulig.
+
+Foreldrenes kontroll, restriksjoner og represalier kan være av et slikt omfang og alvorlighetsgrad at det kan anses som mishandling av barnet. Systematisk press, overvåking, oppsyn, trusler og tvang som gjøres samlet over tid, kan etter omstendighetene innebære psykisk mishandling. Det må foreligge en viss intensitet i de virkemidlene som brukes. I tillegg beror vurderingen på hvordan det enkelte barnet påvirkes av kontrollen. Mildere former for kontroll faller utenfor.
+
+Et vedtak om omsorgsovertakelse må settes i verk senest innen seks uker etter nemndas vedtak. Dersom barnet ikke er plassert innen fristen, vil vedtaket falle bort, jf. § 5-2.
+
+Dersom barnet oppholder seg i en annen stat, men har sitt vanlige bosted i Norge, kan det treffes vedtak om omsorgsovertakelse etter barnevernsloven § 5-1, jf. § 1-2 tredje ledd.
+
+### Plassering på institusjon etter barnevernsloven § 6-2
+
+Et barn kan plasseres på institusjon uten samtykke fra barnet selv eller foreldrene dersom barnet etter barnevernsloven § 6-2 bokstav a til c har vist «alvorlige atferdsvansker» ved å begå alvorlig eller gjentatte lovbrudd, ved vedvarende problematisk bruk av rusmidler eller ved annen form for utpreget normløs atferd. I tillegg må nemnda vurdere at institusjonene barnet foreslås plassert i er faglig og materielt i stand til å tilby barnet forsvarlig hjelp, jf. barnevernsloven § 6-2 fjerde ledd.
+
+Kriteriet «alvorlig lovbrudd» omfatter blant annet volds- og seksuallovbrudd av alvorlig karakter, mens «gjentatte lovbrudd» blant annet omfatter «serier av tyverier, ran og hærverk». Bokstav b omfatter ikke enhver form for rusmiddelbruk, det kreves en relativt omfattende bruk både i tid og omfang og type rusmidler. Alternativet «(a)nnen form for utpreget normløs atferd» i bokstav c omfatter blant annet ugyldig skolefravær eller at barnet utagerer i grensesettingssituasjoner, tar tilhold i uheldige miljøer, ikke kommer hjem, men streifer rundt ute dag og natt, eller unndrar seg omsorg.[^1317]
+
+At foreldre bruker streng kontroll for å hindre at ungdom bruker narkotika eller er i et kriminelt miljø, vil i Norge ofte anses som legitimt. Foreldrekontroll kan imidlertid bli så sterk eller omfattende at den på en uforholdsmessig måte innskrenker barns og ungdoms autonomi. Barnevernstjenesten bør avdekke om barnets atferdsproblemer skyldes barnets opprør og motstand mot den sterke kontrollen, enten i familien eller for eksempel i et sterkt religiøst trossamfunn. Skyldes barnets atferd slike forhold, vil andre tiltak enn plassering i institusjon kunne være mer egnet. Dette må vurderes konkret.[^1318]
+
+Dersom barnet oppholder seg i en annen stat, men har sitt vanlige bosted i Norge, kan det treffes vedtak om plassering på institusjon etter barnevernsloven § 6-2, jf. § 1-2 tredje ledd.
+
+## Andre lands rett
+
+### Danmark[^1319]
+
+I forbindelse med vedtakelse av ny barnets lov i Danmark, ble begrepene negativ sosial kontroll og æresrelaterte konflikter tatt inn i fire bestemmelser i barnets lov:[^1320] § 15 om kommunenes beredskapsplan mot blant annet negativ sosial kontroll og æresmotivert vold, §18 om screening av saker, § 113 om ungstøtte (ettervern) og § 137 om adgang til å holde samtale med barn uten foreldrenes samtykke under behandling av bekymringsmeldinger. Se for øvrig foregående kapittel om dansk rett.
+
+## Behov og problemstillinger
+
+Med bakgrunn i innspill fra aktører og organisasjoner har utvalget identifisert følgende problemer av særlig betydning for dette kapittelet:
+
+- Barnevernstjenesten og hjelpeapparatet for øvrig har manglende kunnskap om negativ sosial kontroll og æresmotivert vold.
+
+- Det kan være vanskelig å vite når ulike former for negativ sosial kontroll utløser tiltak etter barnevernsloven.
+
+- Det er varierende kunnskap om skadevirkningene av negativ sosial kontroll og risikoen for mer alvorlige handlinger som tvangsekteskap, æresmotivert vold og ufrivillig utenlandsopphold.
+
+## Utvalgets vurderinger og forslag
+
+### Innledning
+
+Det er ikke tvil om at barn som utsettes for ulike former for press, oppsyn, trusler eller tvang som systematisk begrenser dem i deres livsutfoldelse eller gjentatte ganger hindrer dem i å treffe selvstendige valg om eget liv og framtid, kan ha et særlig behov for hjelp, og dermed rett til tiltak etter barnevernsloven. I grove tilfeller vil barnevernet også ha en plikt til å avverge straffbare forhold ved å varsle politiet, jf. straffeloven § 196 om avvergingsplikt. Der de fleste tilfellene av negativ sosial kontroll kan utløse rett til hjelpetiltak etter barnevernsloven, vil kun de grovere tilfellene oppfylle vilkårene for akutte tiltak eller omsorgsovertakelse.[^1321] Loven gir liten veiledning om hvilken vekt og relevans negativ sosial kontroll har ved vurderingen av hjelpetiltak etter § 3-1 og ved omsorgsovertakelse etter § 5-1. Det er heller ikke mye veiledning å finne om negativ sosial kontroll i forarbeidene eller rettspraksis.
+
+Det er ikke mulig, og heller ikke ønskelig, å angi presist når negativ sosial kontroll faktisk utløser tiltak eller hvilke tiltak som bør iverksettes. Det vesentlige i vurderingen av om kontrollen utløser rett og plikt på barnevernstiltak, er ikke om handlingene eller atferden som barnet utsettes for faller inn under definisjonen negativ sosial kontroll. Det sentrale er å undersøke barnets helhetlige omsorgssituasjon og behov for hjelp. Hvorvidt barnet er utsatt for negativ sosial kontroll kan ha betydning for vurderingen. Kunnskap om indikasjoner på negativ sosial kontroll, skadevirkninger og risikofaktorer for mer alvorlige handlinger er av stor betydning for barnevernets vurderinger.
+
+Det er etter utvalgets syn problematisk at barnevernstjenesten har manglende eller varierende kunnskap om fenomenet negativ sosial kontroll og de skadevirkningene dette kan ha for barn. Dette kan medføre at barn som utsettes for sterke restriksjoner og begrensninger og som av den grunn har behov for hjelp, risikerer å ikke motta egnede tiltak til rett tid. Dette gjelder særlig barn som ikke også er utsatt for fysisk vold eller mangler i den praktiske omsorgen. Negativ sosial kontroll kan være mer «usynlig» og derfor vanskeligere å avdekke. Særlig viktig er det å identifisere negativ sosial kontroll som er begrunnet i familiens ønske om å bevare eller gjenopprette ære, slik at det kan foretas en grundig vurdering av risiko og best egnede tiltak. Spørsmålet er om endringer i lovens tiltakshjemler i seg selv kan føre til bedre kunnskap og forståelse og lette barnevernets vurderinger.
+
+Nedenfor vurderer utvalget om det er særlige elementer av negativ sosial kontroll som bør løftes fram og synliggjøres i tiltakshjemlene i barnevernsloven. Videre vurderer utvalget om begrepet negativ sosial kontroll bør innføres som et selvstendig *utløsende vilkår* for frivillig hjelpetiltak, et *inngrepskriterium* for omsorgsovertakelse (heretter kalt inngangsvilkår for begge tilfellene), eller som et *moment* ved vurderingen av om tiltak skal iverksettes, jf. mandatets bokstav a.
+
+### Medvirkning og selvbestemmelse som moment i vurderingen
+
+Utvalget foreslår å tilføye et nytt ledd i barnevernsloven § 3-1 (om frivillig hjelpetiltak) som tydeliggjør at det skal legges vekt på om *barnets rett til medvirkning og selvbestemmelse er alvorlig krenket* i vurderingen av om barnet på grunn av sin omsorgssituasjon eller atferd har et særlig behov for hjelp. Utvalget foreslår i tillegg å tilføye i lovens § 5-1 bokstav a om omsorgsovertakelse at det skal legges vekt på om *barnets rett til medvirkning og selvbestemmelse er alvorlig krenket* i vurdering av om det er «alvorlige mangler ved den omsorgen barnet får».
+
+Barns medvirknings- og selvbestemmelsesrett innebærer at barn skal ha anledning til å medvirke og bestemme utfra barnets alder og utvikling, jf. barnekonvensjonen artikkel 12 og barnelova §§ 31 og 33. Barns medvirknings- og selvbestemmelsesrett springer ut av retten til privatliv etter Grunnloven § 102 og EMK artikkel 8 nr. 1 som beskytter den enkeltes rett til personlig utvikling og autonomi. Retten til privatliv tilfaller «enhver», inkludert barn, jf. også barnekonvensjonen artikkel 16. Barnekonvensjonen artikkel 5 om gradvis utvikling av evner og anlegg, indikerer også at barnet må gis en gradvis autonomi i personlige forhold.
+
+Negativ sosial kontroll innebærer begrensninger i barnets autonomi og mulighet til å bestemme over eget liv i tråd med dets alder og modenhet. Barnet får for eksempel ikke gi uforbeholdent uttrykk for sine synspunkter ved at det utsettes for systematisk og utilbørlig påvirkning eller press, og ved at det forventes at barnet innordner seg familiens behov og normer. Kontrollen kan innebære at et barn må avstå fra å utvikle et forhold til klassekamerater og barn i nabolaget. Kontrollen kan videre innebære at barnet må avstå fra å delta på ulike fritidsaktiviteter og dermed hindres i å utforske egne interesser og talenter. Kontrollen kan legge begrensninger på barn og unges mulighet til å uttrykke sin seksuelle legning og kjønnsidentitet. Barn og unge kan også presses inn i relasjoner eller aktiviteter de ikke ønsker eller tar avstand fra. Slike systematiske begrensninger eller pålegg kan skade barnets mulighet til å utvikle en egen identitet, og evne til å ta selvstendige valg senere i livet.[^1322]
+
+Et særlig kjennetegn ved saker om negativ sosial kontroll er dermed at barnets medvirknings- og selvbestemmelsesrett er tilsidesatt eller sterkt begrenset, enten av foreldre, andre familiemedlemmer, eller av barnets øvrige sosiale omgangskrets. Barns medvirkning og selvbestemmelse forutsetter at barnet faktisk er i stand til å gi uttrykk for sin egen vilje, noe som nettopp kan være utfordrende i saker om negativ sosial kontroll. Negativ sosial kontroll over tid kan føre til at barnet ikke lenger har en egen vilje, fordi det ikke er trent eller vant til å ta egne valg i livet. Dette er en utfordring som krever tilrettelegging for prosesser som kan sikre at barnet kan komme i posisjon til å snakke trygt og til å gi uttrykk for egne behov og oppfatninger. Foreldre er forpliktet til å legge til rette for dette i kraft av foreldreansvaret, og barnevernet må sikre gode arenaer for barnets medvirkning ved iverksettelse av tiltak etter barnevernsloven.
+
+I barnevernsloven kommer barnets medvirknings- og selvbestemmelsesrett til uttrykk i § 1-4 (om barnets rett til medvirkning), § 10-2 (om barns rettigheter i barnevernsinstitusjon), § 3-3 (om frivillig opphold i fosterhjem eller barnevernsinstitusjon mv.) og § 14-3 (om høring av barn i saker for nemnda). Disse bestemmelsene er knyttet til barnets medvirkning i forbindelse med barnevernstjenestens håndtering av saker etter barnevernsloven. Barnevernsloven har imidlertid ingen bestemmelser som synligjør at krenkelse av barnets rett til medvirkning og selvbestemmelse etter omstendighetene kan innebære en form for omsorgssvikt i seg selv.
+
+Utvalgets forslag om å føye til at det skal legges særlig vekt på om *barnets rett til medvirkning og selvbestemmelse er alvorlig krenket* i § 3-1 (om frivillig hjelpetiltak), vil sikre at dette hensynet også tillegges vekt i vurderingen av om det er grunnlag for å åpne undersøkelse i saken, jf. § 2-2 første ledd (om barnevernstjenestens rett og plikt til å gjennomføre undersøkelser). Det vises til at den nedre terskelen for å iverksette undersøkelse reguleres av vilkårene for frivillig hjelpetiltak etter lovens § 3-1. Ved å tilføye i lovens § 5-1 (om omsorgsovertakelse) at det i vurderingen av om det er «alvorlige mangler ved den omsorgen barnet får», skal legges vekt på om *barnets rett til medvirkning og selvbestemmelse er alvorlig krenket* blir dette et selvstendig moment ved vurderingen av om vilkårene for omsorgsovertakelse er oppfylt.
+
+Formålet med forslagene er å styrke beskyttelsen av barn og unge som ikke får ivaretatt sin medvirknings- og selvbestemmelsesrett i egen familie, der dette går ut over deres personlige utvikling og autonomi. Hvor stor vekt momentet skal tillegges vil avhenge av i hvor stor grad retten er krenket. Det bør stilles strengere krav til krenkelsen i vurderingen av om vilkårene for omsorgsovertakelse er oppfylt enn om det er grunnlag for å åpne undersøkelse eller tilby frivillig hjelpetiltak. Forslagene er etter utvalgets vurdering egnet til å løfte fram og sikre at elementer av negativ sosial kontroll blir tillagt vekt og vurdert når barnevernstjenesten vurderer om det skal åpnes undersøkelse eller iverksettes tiltak etter barnevernsloven.
+
+### Tydeliggjøring av psykisk omsorg i barnevernslovens tiltakshjemler
+
+Utvalget foreslår å tydeliggjøre at mangler ved den omsorgen barnet får omhandler både fysisk og psykisk omsorg etter barnevernslovens § 5-1 bokstav a. Formålet med forslaget er å tydeliggjøre gjeldende rett og å signalisere at psykisk omsorgssvikt kan medføre alvorlige skadevirkninger for barn. Utvalget foreslår en tilsvarende endring i lovens § 3-1 om frivillig hjelpetiltak.
+
+Etter barnevernsloven § 5-1 bokstav a kan det treffes vedtak om omsorgsovertakelse for et barn dersom «det er alvorlige mangler ved den omsorgen barnet får, herunder den personlige kontakt og trygghet, sett hen til det barnet trenger etter sin alder og utvikling». Ifølge forarbeidene tar bestemmelsen «sikte på å fange opp alvorlige mangler ved den daglige praktiske omsorgen», og at også «alvorlige mangler i den emosjonelle og psykiske kontakten mellom barn og foreldre omfattes av bestemmelsen».[^1323] Utvalget mener at bestemmelsens ordlyd ikke er tydelig nok på at mangler ved den psykiske omsorgen er omfattet. Ved å endre ordlyden til «alvorlige mangler ved den *fysiske og psykiske* omsorgen barnet får, herunder den personlige kontakt og trygghet (…)», vil det komme tydeligere fram at elementer av psykisk vold og negativ sosial kontroll, som ikke nødvendigvis når opp til terskelen for mishandling som nevnt i barnevernsloven § 5-1 bokstav c, omfattes av bestemmelsen.[^1324] En presisering i bestemmelsen vil ikke innebære en realitetsendring.
+
+Barn som blir utsatt for negativ sosial kontroll, slik som press trusler, oppsyn og overvåking, eller som blir systematisk oversett og frosset ut av sine omsorgspersoner fordi de ikke følger familiens normer og regler, er etter utvalgets syn utsatt for mangler ved den psykiske omsorgen. Disse eksemplene kan også falle inn under formuleringen «den personlige kontakt og trygghet» som allerede er inntatt i bestemmelsens ordlyd som eksempler på mangler ved den omsorgen barnet får. Utvalget mener likevel at det er grunn til å framheve mangler som på annen måte berører den unge psykisk. Det er en glidende overgang mellom streng oppdragelse og sosial kontroll som ligger innenfor hva foreldre kan gjøre i kraft av sitt foreldreansvar, og kontroll som går over til å bli negativ og ikke akseptabel. Det kan ikke utelukkes at en situasjon der et barn er utsatt for negativ sosial kontroll kan mistolkes som et uttrykk for grensesetting og trygge rammer. Utvalget mener bestemmelsen bør utformes slik at oppmerksomheten rettes mot barnets behov for psykisk omsorg, som er en videre betegnelse enn «kontakt og trygghet».
+
+Det finnes ulike måter å beskrive mangler ved den psykiske omsorgen. Forarbeidene til barnevernsloven viser til «den emosjonelle og psykiske kontakten mellom barn og foreldre».[^1325] Utvalget mener at formuleringen «fysisk eller psykisk» omsorg egner seg bedre, da den i større grad vil fange opp de elementer som kjennetegner negativ sosial kontroll og psykisk vold.
+
+Utvalget foreslår tilsvarende endring med tilsvarende begrunnelse i barnevernsloven § 3-1 om frivillig hjelpetiltak, slik at det ved vurderingen av om «barnet på grunn av sin omsorgssituasjon eller atferd har et særlig behov for hjelp» blant annet kan *legges vekt på om det er mangler ved den psykiske omsorgen barnet får.*
+
+Etter utvalgets syn vil dette forslaget, sammen med utvalgets forslag om å legge vekt på om barnets medvirknings- og selvbestemmelsesrett er alvorlig krenket, signalisere et behov for mer fokus og kompetanseheving i saker om psykisk vold og negativ sosial kontroll i barnevernstjenesten. Dette kan bidra til at det utvikles tiltak som gir barnevernstjenesten flere metoder for å gi råd og veiledning i saker der barnets frihet begrenses av for strenge foreldrerestriksjoner. Dette kan også bidra til at psykisk vold og negativ sosial kontroll og dens skadevirkninger i større grad synliggjøres i utdanningsforløpet.[^1326]
+
+### Negativ sosial kontroll som et inngangsvilkår for tiltak
+
+Utvalget mener at begrepet negativ sosial kontroll ikke bør inntas som et grunnvilkår i barnevernsloven § 3-1 om frivillig hjelpetiltak eller § 5-1 om omsorgsovertakelse.
+
+Flere av tiltakene i barnevernsloven er inngripende, noe som stiller et særlig krav til klarhet for å ivareta partenes rettssikkerhet i tråd med legalitetsprinsippet. Begrepet negativ sosial kontroll omfatter en rekke ulike handlinger og atferder av mer eller mindre alvorlig grad. Etter utvalgets syn er ikke begrepet egnet som et inngangsvilkår for tiltak i en lov som allerede har i seg bestemmelser som dekker fenomenet.
+
+Også Göller (2020) frarådet å innta begrepet negativ sosial kontroll som et inngangsvilkår for tiltak etter barnevernloven av 1992 om frivillig hjelpetiltak og omsorgsovertakelse.[^1327] Hun begrunner dette slik:
+
+Dersom rettsvirkningen knyttes til en vurdering av om barnet er utsatt for negativ sosial kontroll eller ikke, vil enkelte elementer ved barnets situasjon måtte vurderes løsrevet fra de øvrige – nemlig i hvilken grad barnets valgfrihet og livsutfoldelse er undergitt begrensninger i større grad enn det barnets alder og utvikling skulle tilsi, og eventuelt hvilke virkemidler foreldrene har anvendt for å oppnå denne kontrollen. I tillegg oppstår et problem i neste ledd – som redegjort for over er det jo ikke slik at alle tilfeller av negativ sosial kontroll bør utløse den samme rettsvirkningen. Å innføre «negativ sosial kontroll» som en rettighetsutløsende faktor vil dermed gå på tvers av den eksisterende strukturen i barnevernloven, der de enkelte bestemmelsene er organisert etter hvilken rettsvirkning som utløses. Resultatet vil være at flere hjemler kommer til anvendelse på samme faktum, og det vil måtte foretas kompliserte vurderinger av hvilken hjemmel som til enhver tid skal benyttes, ettersom det ikke vil være klart hvilken som er den mest spesialiserte (jf. prinsippet om lex specialis). Dette skaper en risiko for at tilfeller som under tvil finnes å ikke utgjøre negativ sosial kontroll, ikke fører til tiltak fra barnevernet fordi man ikke tenker på at det likevel kan være aktuelt å benytte en av de eksisterende hjemlene. Dette vil gi en uklar rettstilstand, og vil i verste fall kunne svekke barnas rettsvern uten at det egentlig tilføyer noen merverdi sammenlignet med dagens situasjon.[^1328]
+
+Utvalget er enig med Göller i at begrepet negativ sosial kontroll ikke egner seg som et inngangsvilkår i tiltakshjemlene, samt hennes videre argumenter om at det:
+
+\[å\] oppstille en spesialkategori for saker om negativ sosial kontroll vil vanskeliggjøre rettsanvendelse og i verste fall også svekke de kontrollerte barnas rettsvern. Både hensynet til barnas rettssikkerhet og rettstekniske hensyn taler mot en slik endring. Utfra formuleringene i lovverket er det allerede rom for å legge vekt på de ulike elementene som kjennetegner barnas situasjon når de utsettes for negativ sosial kontroll. Det synes dermed ikke å være behov for en materiell endring. Dertil kommer at innføringen av begrepet «negativ sosial kontroll» som inngangsvilkår vil kunne komplisere rettsanvendelsen og virke mot sin hensikt ved at forutberegneligheten svekkes.[^1329]
+
+For spørsmålet om omsorgsovertakelse etter § 5-1 skal både grunnvilkåret og nødvendighetsvilkåret i bestemmelsen være oppfylt. Her spiller flere momenter inn, særlig omfanget og alvorlighetsgraden av kontrollen, virkningen den har for barnet, virkemidlene som benyttes og barnets individuelle omsorgsbehov. En innføring av begrepet negativ sosial kontroll som et grunnvilkår for tiltak, vil ikke nødvendigvis tydeliggjøre denne vurderingen. Det kan tvert imot innebære en risiko for at barnevernstjenesten foretar en isolert vurdering av hvorvidt barnet er utsatt for negativ sosial kontroll, framfor å vurdere den helhetlige omsorgssituasjonen til barnet og behovet for hjelp.
+
+### Negativ sosial kontroll som moment
+
+Utvalget er samlet om problemforståelsen og de ulike og til dels alvorlige utfordringer det medfører for barn å bli utsatt for alvorlig negativ sosial kontroll og påfølgende skadevirkninger. Negativ sosial kontroll er et fenomen som eksisterer i Norge, og utsatte barn har behov for å bli tatt på det største alvor i sitt møte med hjelpeapparatet. Det er svært uheldig om barnevernstjenesten ikke fanger opp barnets behov for hjelp og beskyttelse på grunn av manglende kunnskap og fenomenforståelse. Utvalget er også samlet om at det bør tilstrebes å gjøre endringer i barnevernsloven for å løfte tematikken og dermed bidra til et kunnskapsløft for å sikre at riktige vurderinger blir tatt til rett tid. Utvalget er imidlertid delt i vurderingen av om det å innta begrepet negativ sosial kontroll som et moment i loven vil føre til økt kunnskap om, og avdekking av negativ sosial kontroll, bedre vurderinger og derigjennom bedre rettsvern for utsatte barn. Nedenfor følger en gjennomgang av fordeler og ulemper ved begge alternativene.
+
+Å lovfeste begrepet negativ sosial kontroll som et moment som skal vektlegges i helhetsvurderingen av om barnet på grunn av sin omsorgssituasjon eller atferd har et «særlig behov for hjelp» etter § 3-1, kan bidra til å synliggjøre fenomenet. Tilsvarende gjelder om begrepet tas inn som et moment som skal vektlegges i helhetsvurderingen av om det er «alvorlige mangler ved den omsorgen barnet får», jf. § 5-1. Gode grunner kan tale for å løfte begrepet på lovs nivå, for å tydeliggjøre at negativ sosial kontroll er et fenomen som barn kan være utsatt for, og som kan utgjøre en form for omsorgssvikt som gir barn rett til hjelpetiltak eller omsorgsovertakelse. En innvending er likevel at barnevernsloven §§ 3-1 og 5-1 i all hovedsak er generelt utformet uten å inneholde konkrete former for omsorgssvikt. Det kan bryte med lovens struktur å innta brudd på enkelte av barns rettigheter eller en spesiell form for omsorgssvikt som momenter i vurderingen.
+
+Begrepet negativ sosial kontroll er et paraplybegrep som inneholder et vidt spekter av praksiser av ulik form og alvorlighetsgrader. Styrken i begrepet er at det kan belyse underliggende fellestrekk knyttet til utøverens motivasjon og maktforholdet mellom utøver og det utsatte barnet, skadevirkninger og risikoen for mer alvorlige handlinger. Å innta begrepet som moment i vurderingene av om frivillig hjelpetiltak eller omsorgsovertakelse skal iverksettes, kan dermed bidra til at barnevernstjenesten i større grad ser og undersøker barnets helhetlige omsorgssituasjon og behov. Ved å innta begrepet i loven, må barnevernstjenesten forholde seg til fenomenet og aktivt gjøre seg kjent med indikatorer for om et barn er utsatt for denne formen for omsorgssvikt.
+
+En svakhet ved begrepet er at det er upresist, noe som taler mot å lovfeste det som et moment det skal legges vekt på i vurderingen av om vilkårene for tiltak er oppfylt. Negativ sosial kontroll er ikke et enhetlig fenomen, men omfatter en rekke ulike praksiser av ulik alvorlighetsgrad. Kontrollen kan være omfattende og utgjøre svært alvorlige og straffbare inngrep i barnets liv, men kan også være av mildere art, begrenset til enkelte deler av barnets hverdag, ha et begrenset omfang eller hyppighet og skje ved bruk av mindre inngripende virkemidler. Begrepets mangfoldige innhold vil være krevende å forholde seg til, også som moment, og kan medføre uklarhet knyttet til både lovforståelse og vurderinger av hvilke tiltak som er nødvendige. Omsorgsovertakelse er et særlig alvorlig inngrep i foreldrenes rett til familieliv og kravet til klar lovhjemmel gjør seg gjeldende. Et upresist begrep kan dermed være problematisk selv om det ikke innføres som et utløsende vilkår. Slik Göller argumenterer for, kan lovfesting av begrepet negativ sosial kontroll bidra til å vanskeliggjøre rettsanvendelsen og i verste fall svekke forutberegneligheten og rettsvernet for både barn og foreldre. Begrepet kan også bidra til å tilsløre alvorlige handlinger som rammes av straffeloven, som vold og mishandling. Dette kan imidlertid avhjelpes gjennom styrket opplæring og tydelige retningslinjer.
+
+Enkelte innspill utvalget har mottatt, peker på risikoen for å stigmatisere minoritetsmiljøer med bakgrunn fra enkelte land, kulturer og religiøse miljøer ved å ta begrepet negativ sosial kontroll inn i lovgivningen. Begrepet er assosiert med oppdragelsesnormer i en del konservative muslimske miljøer. Det blir vist til at mange i disse miljøene er utsatt for stigmatisering, diskriminering og rasisme.[^1330] Studier viser at det allerede er utfordrende for barnevernstjenesten å bygge tillit og et godt samarbeidsklima med enkelte familier med innvandrerbakgrunn.[^1331] Utvalget viser i den forbindelse til at negativ sosial kontroll også forekommer i andre grupper, blant annet i lukkede trossamfunn i Norge, i familier hvor sterk kontroll er begrunnet i en overdreven frykt for at barnet skal bli utsatt for skade eller fare, eller der en eller begge foreldrene har en svært autoritær oppdragerstil eller et omfattende kontrollbehov. Likestillingssenteret KUN viser blant annet til at majoritetsnorske barn utsatt for negativ sosial kontroll, for eksempel barn i lukkede trossamfunn, «må bevise at deres opplevelser kan plasseres innenfor denne kategorien».
+
+Selv om negativ sosial kontroll skjer i mange ulike grupper og miljøer, forekommer det oftere i familier med bakgrunn fra land der patriarkalske og kollektivistiske familiestrukturer og konservative holdninger til kjønn og seksualitet er mer utbredt enn i Norge.[^1332] Barn som opplever alvorlige former for negativ sosial kontroll er en sårbar gruppe med et særlig behov for beskyttelse. Forskning fra Danmark viser at barn fra Midtøsten fikk hjelp av barnevernstjenesten langt senere enn barn med opprinnelse i Danmark. For barn fra Midtøsten krevde det i gjennomsnitt 34 meldinger til barnevernstjenesten før et barn under seks år ble plassert av barnevernstjenesten i 2019, mens det for barn med opprinnelse i Danmark i gjennomsnitt krevdes åtte bekymringsmeldinger.[^1333] Det kan ikke utelukkes en tilsvarende erfaring i Norge. Utvalget anser det ikke som diskriminering at barnevernstjenesten i sin saksbehandling retter oppmerksomheten mot barn fra land, samfunn eller miljøer hvor patriarkalske holdninger og praksiser er utbredt. Men en bekymringsmelding eller et tiltak etter barnevernsloven kan selvsagt ikke *utelukkende* bygge på foreldrenes bakgrunn.[^1334] For å unngå diskriminering i praksis, er kunnskap om tematikken og risikoutsatte grupper avgjørende slik at alle barn har samme vern mot negativ sosial kontroll.
+
+Dersom begrepet lovfestes som et moment i §§ 3-1 om frivillig hjelpetiltak og 5-1 om omsorgsovertakelse, er det behov for at begrepet defineres direkte i lovteksten som «press, oppsyn, trusler eller tvang som systematisk begrenser barnet i sin livsutfoldelse eller gjentatte ganger hindrer det i å treffe selvstendige valg om eget liv og framtid». I vurderingen av om et handlingsmønster utgjør negativ sosial kontroll, må det «tas hensyn til barnets alder og utvikling og prinsippet om barnets beste». Flere kompetansemiljøer har utarbeidet indikatorlister som kan være veiledende, og som sammen med lovfesting av begrepet kan føre til en bedre begrepsforståelse og et tydeligere innhold, se kapittel 19.
+
+Utvalgsmedlemmenes vurderinger
+
+Selv om det er rettslige betenkeligheter knyttet til å innlemme begrepet i lovgivningen, er utvalgets klare utgangspunkt at det er behov for tiltak som kan bidra til en bedre forståelse av fenomenet negativ sosial kontroll ved anvendelsen av barnevernsloven. Utvalget anser det som særdeles viktig å styrke barnevernets kompetanse om fenomenet negativ sosial kontroll.
+
+*Utvalgsmedlem Aasen, Christoffersen, Dinardi, Eritsland, Friberg* og *Rui* anbefaler at begrepet ikke tas inn som moment i tiltaksbestemmelsene. Disse medlemmene legger størst vekt på at begrepet negativ sosial kontroll er et upresist begrep som ikke er godt egnet til å tas direkte inn i loven. Å tillegge negativ sosial kontroll selvstendig rettslig betydning vil skape uklarhet opp mot definisjonen av hva som faller inn under foreldreansvaret etter barneloven, samt retten til familieliv, jf. EMK artikkel 8 og Grunnloven § 102. Disse utvalgsmedlemmene legger vekt på at det som særlig kjennetegner saker om negativ sosial kontroll er at barnets medvirknings- og selvbestemmelsesrett er tilsidesatt eller sterkt begrenset. Disse utvalgsmedlemmene mener derfor at den beste løsningen er å framheve barnets rettigheter etter Grunnloven og menneskerettighetene, i tillegg til å framheve at alvorlig omsorgssvikt kan skyldes alvorlige mangler ved den psykiske omsorgen. Disse utvalgsmedlemmene mener denne løsningen vil være best i tråd med barnevernslovens rettighetsbaserte tilnærming, som også er framhevet av Barnekomitéen og lagt til grunn i forarbeidene.[^1335]
+
+*Utvalgsmedlem El Abassi* anbefaler at begrepet negativ sosial kontroll tas inn som et moment i vurderingene av om vilkårene etter barnevernsloven § 3-1 om frivillig hjelpetiltak og § 5-1 om omsorgsovertakelse er oppfylt. Abassi framhever at negativ sosial kontroll er en effektiv språkdrakt på et fenomen som eksisterer i Norge, og som sammen med forslagene om å framheve hvorvidt barnets medvirknings- og selvbestemmelsesrett er alvorlig krenket og om barnet er utsatt for omsorgssvikt av psykisk karakter, kan bidra til å løfte fram saker om negativ sosial kontroll i barnevernstjenestens vurdering av om det er behov for å iverksette frivillige hjelpetiltak eller omsorgsovertakelse.
+
+*Utvalgsmedlem Martnes* ser både fordeler og ulemper ved å ta begrepet negativ sosial kontroll inn i barnevernsloven som moment i vurderingen av om vilkårene for frivillig hjelpetiltak eller omsorgsovertakelse er oppfylt. Det er en fordel at begge forslagene legges fram til vurdering som mulige tiltak. Martnes er for øvrig enig i at det som særlig kjennetegner saker om negativ sosial kontroll er at barnets medvirknings- og selvbestemmelsesrett er tilsidesatt eller sterkt begrenset, og at barnets rettigheter etter Grunnloven og menneskerettighetene bør framheves, i tillegg til å framheve at alvorlig omsorgssvikt kan skyldes alvorlige mangler ved den psykiske omsorgen.
+
+Uavhengig av hvilke forslag som fremmes mener et samlet utvalg at en endring av bestemmelser i barnevernsloven langt fra er tilstrekkelig til å styrke barnevernets arbeid mot negativ sosial kontroll og æresmotivert vold. Supplerende tiltak er avgjørende for å sikre barns rettigheter i tråd med barnevernsloven. Barnevernets fenomenkunnskap må styrkes, i tillegg til kunnskap om regelverket.[^1336]
+
+### Synliggjøring av psykisk mishandling i barnevernsloven § 5-1 bokstav c
+
+Utvalget foreslår at det presiseres i barnevernsloven § 5-1 bokstav c at mishandlingen kan være *fysisk eller psykisk*. Formålet med forslaget er å tydeliggjøre at psykisk mishandling alene kan danne grunnlag for omsorgsovertakelse, og at barnevernstjenesten plikter å avverge videre mishandling, jf. straffeloven § 196. En slik forståelse følger allerede av gjeldende rett og forslaget innebærer derfor ingen realitetsendring.
+
+Etter barnevernsloven § 5-1 bokstav c kan barneverns- og helsenemnda treffe vedtak om omsorgsovertakelse dersom «barnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmet». I begrepet «mishandlet» inngår både psykisk og fysisk mishandling.[^1337] Psykisk mishandling kan blant annet bestå av frihetsinnskrenkning gjennom kontroll, overvåking, isolering, ydmykende behandling, trusler, verbal trakassering, aggressiv atferd eller å være vitne til vold mot andre («indirekte» vold), og handlingene foregår ofte i sammenheng og over tid. Slik mishandling er svært skadelig for barn. Det kan forhindre eller ødelegge barnets utvikling, trygghetsfølelse, selvfølelse og selvtillit, og medføre en rekke psykiske og somatiske sykdommer og plager i barndommen og i senere voksenliv, som posttraumatiske stressreaksjoner, depresjon, angst, atferdsvansker, spiseforstyrrelser og søvnproblemer.[^1338]
+
+Formålet med forslaget er å synliggjøre «usynlige» former for mishandling. Negativ sosial kontroll vil i de fleste tilfeller innebære psykiske krenkelser av den utsatte, slik som overvåkning, kontroll, trusler og press. I de grovere tilfellene med omfattende trusler, ydmykende behandling m.m. kan kontrollen utgjøre psykisk mishandling av barnet som kan gi grunnlag for omsorgsovertakelse etter bestemmelsen.
+
+Forslaget bidrar til å styrke barns rett til vern mot alle former for vold og integritetskrenkelser etter Grunnloven § 104 tredje ledd og barnekonvensjonen artikkel 19 som skal beskytte barnet mot «alle former for fysisk eller psykisk vold, skade eller misbruk, vanskjøtsel eller forsømmelig behandling, mishandling eller utnytting (…) mens en eller begge foreldre, verge(r) eller eventuell annen person har omsorgen for barnet». Barn er særlig sårbare, og trenger i større utstrekning enn voksne, myndighetenes hjelp til å beskytte sin personlige integritet.[^1339] Dette begrunner en synliggjøring av psykisk mishandling i barnevernsloven.
+
+Forslaget er i tråd med utvalgets øvrige forslag om å innta psykisk mishandling i utlendingsloven § 53, psykiske krenkelser i straffeloven § 282 om mishandling i nære relasjoner, tilføyelser i straffeloven § 266 om hensynsløs atferd, og om endring av forbudet mot vold mot barn i utøvelsen av foreldreansvaret i barnelova § 30 tredje ledd. Alle forslagene springer ut av formålet om å styrke rettsvernet mot psykisk vold og negativ sosial kontroll.[^1340] Hensynet til sammenhengen i regelverket tilsier at barns rettsvern mot psykiske krenkelser og mishandling også bør framkomme tydelig av barnevernsloven.
+
+### Synliggjøring av æresmotivert kriminalitet i barnevernsloven
+
+Barn som er utsatt for, eller risikerer å bli utsatt for, æresmotivert kriminalitet er en særlig sårbar gruppe, se kapittel 3. Kripos har i sitt innspill til utvalget foreslått at ærestematikken tas inn i flere av bestemmelsene i barnevernsloven:
+
+Å sette inn hjelpetiltak der hvor æreskriminalitet er et tema, vil både være til hjelp for utsatte barn, og dessuten en inngang for barneverntjenesten til å bedre forstå hva som skjer i familien. Dersom hjelpetiltaket følges opp tett, vil det være mulig å avdekke faren for alvorlige overgrep (vold, tvangsekteskap, reiser til utlandet) på et tidligere tidspunkt enn om tiltak ikke iverksettes. Dette er med andre ord god forebygging. Barneverntjenesten står fritt i valg av hjelpetiltak, og bør utarbeide et sett tiltak for slike tilfeller.
+
+Kripos foreslår blant annet at det innføres et nytt punkt i barnevernsloven § 3-1 om hjelpetiltak: «Barneverntjenesten skal særlig være oppmerksom på hvorvidt barnet er utsatt for æresrelatert kontroll eller vold». Formålet med hjelpetiltakene kan for eksempel være å hjelpe barnet inn i ulike fritidsaktiviteter som bringer det ut av familiens og miljøets kontroll. Det blir vist til at en æresrelatert konflikt etter sin art ikke er kortvarig. Hjelpetiltak må igangsettes i et langsiktig perspektiv, og bør som utgangspunkt ta sikte på å forlenges til etter at barnet har fylt 18 år, jf. barnevernloven § 1-3. Kripos foreslår også at ærestematikken på tilsvarende måte løftes fram i barnevernsloven § 4-2 om hjelpetiltak. Det blir vist til at denne bestemmelsen er i kjerneområdet for arbeidet mot æreskriminalitet i Norge. Videre foreslår Kripos at ærestematikken tas inn i flere andre bestemmelser i barnevernsloven, blant annet bestemmelser om frivillig plassering i fosterhjem, plassering utenfor hjemmet, ved vedtak om medisinsk behandling, valg av plasseringssted, bestemmelser om samværsrett og plassering og tilbakehold i institusjon uten eget samtykke.
+
+Utvalget er i hovedsak enig i vurderingene til Kripos, men har ikke hatt anledning til å foreslå regelverksendringer utover forslaget om at barnevernstjenesten må foreta en risikovurdering før foreldreinvolvering dersom det viser seg at barnet kan være utsatt for æresmotivert vold, jf. utvalgets forslag til endringer i § 2-2, alternativ II.

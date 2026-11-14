@@ -1,944 +1,1120 @@
-# NOU 2020: 9, del 24 av 29 (side 259–268)
+# NOU 2020: 9, del 24 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/ab01ca81-nou-2020-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-9/id2723776/
 - Original-PDF: https://www.regjeringen.no/contentassets/4217284a85064d56aeb03ad74d33768b/no/pdfs/nou202020200009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 259]
-
-NOU 2020: 9
-Blindsonen
-
-presentert med en siktelse i avhøret, med spørsmål om tilståelse i henhold til siktelsen, mens det
-i andre tilfeller er utferdiget siktelser i etterkant.18
-I de avhørene mistenkte selv ikke har engasjert forsvarer, er det ikke funnet eksempler på
-at påtalemyndigheten har begjært (eller noen
-form for opplysninger om at det overhodet er
-vurdert begjære) oppnevning av forsvarer. Dette
-til tross for at mistenkte presenteres med omfattende (og gjerne overveldende) bevis på utenlandsopphold som ifølge Nav innebærer overtredelse av bedrageribestemmelsene (samt evt.
-falsk forklaring).
-Dersom mistenkte blir presentert med en
-alvorlig anklage, og en enorm mengde «bevis»,
-men samtidig forespeilet mulighet for en rask
-avklaring ved tilståelsesdom, der også straffen vil
-bli lavere, kan man iallfall ikke se helt bort ifra at
-dette kan ha medvirket til tilståelser på iallfall delvis feil grunnlag.19
-Ettersom det ikke er forsvarer til stede, stilles
-det spørsmål ved tilståelsen opp imot skyldkrav,
-både hva gjelder forsettlige og uaktsomme overtredelser. Særlig stilles det etter det gjennomgåtte
-materialet spørsmål ved bruken av maler, både
-ved vurdering av skyldkrav, hvilken informasjon
-som rent faktisk er gitt m.v. Det er rimelig klart at
-politiet/påtalemyndigheten ikke ubetinget kan
-legge til grunn at anmelders arbeid alltid er i overensstemmelse med relevant regelverk for politiets
-og påtalemyndighetens arbeid, eller for straffeprosessen (herunder bevisregler).
-Politiets etterforskningsmetoder og informasjonshenting til bruk i straffesaker vurderes
-videre fortløpende av bl.a. Datatilsynet, samt at
-overordnet påtalemyndighet fører intern kontroll
-med etterforskningsmetoder m.v. Selv om Nav
-også er underlagt ulike former for kontroll, er det
-usikkert om disse kontrollene er like for Navs og
-politiets etterforskning.20
-Det fremkommer av granskingen at det i
-hovedsak er Nav Kontroll sin vurdering som ligger til grunn for den påtalemessige avgjørelsen i
-saken. Det ble i samtale med statsadvokaten opplyst at det etter hvert var statsadvokaten som
-18
-
-I avhørene blir mistenkte også gitt informasjonsskriv om
-strafferabatt ved tilståelse.
-19
-Dette medlem har heller ikke funnet eksempler på at mistenkte har fått forklart hva f.eks. «vinnings hensikt» innebærer e.l.
-20
-Datatilsynet har som nevnt allerede før Nav Kontroll fikk
-tilgang på valutaregisteropplysninger (jf. brevet av 8. mai),
-kritisert tollvesenets bruk av slike opplysninger, og i 2012
-ble det gitt en rekke pålegg til Navs undersøkelsesmetoder.
-
-257
-
-Kapittel 18
-
-besluttet tiltale i alle sakene, men at den påtalemessige vurderingen hos statsadvokaten tok rundt
-10 minutter.
-
-18.3.6 Forsvareren
-Innledning
-Ettersom det i media har vært fokusert en del på
-forsvarernes rolle, også Høyesterett viste til et
-ansvar for aktor og forsvarer, er det grunn til å
-omtale forsvarerrollen noe nærmere.21
-Plikten til å vurdere oppnevning av forsvarer på etterforskningsstadiet
-Dersom det kan være snakk om personer med
-nedsatt funksjonsevne, eller er i en annen fysisk
-eller psykisk tilstand som tilsier at det er et særskilt behov for forsvarer,22 skal politiet vurdere
-oppnevning allerede på avhørs/etterforskningstidspunktet. Gjennom de intervjuene utvalget har
-gjennomført synes det som om påtalemyndigheten i liten/ingen grad har vurdert oppnevning
-av forsvarer, til tross for at det nettopp anses å
-være tale om saker der påtalemyndigheten skal
-vurdere oppnevning. På direkte spørsmål til en av
-de personene i påtale/domstol som utvalget snakket med, kunne vedkommende ikke huske at det
-overhodet var oppnevnt forsvarer ifm. avhør i
-slike saker.
-Det fremkommer i flere av sakene at mistenkte har hatt til dels svært store psykiske problemer og til og med har fremlagt legeerklæring
-på å ikke være i stand til å ivareta sine interesser i
-situasjonen.
-Disse personene har gjerne mistet sin inntekt,
-og fått enorme tilbakebetalingskrav mot seg, uten
-mulighet til å klare å betale dette tilbake. Sammenholdt med den helsemessige tilstanden, bør
-plikten til å vurdere oppnevning av forsvarer til
-avhøret stå sterkt. Når det fremkommer at dette i
-liten, eller muligens ingen grad er vurdert, må det
-kunne sies at dette har betydning for disse personenes rettssikkerhet. Av denne grunn kan det
-også stilles spørsmål ved de straffedommer som
-påtalemyndigheten mener at ikke trenger å gjenopptas. Videre bør også dommer som ikke er
-begrenset til EØS-området, vurderes gjennomgått.
-21
-22
-
-Det har som nevnt ikke vært rom for nærmere samtaler/
-intervju med forsvarersiden i sakene.
-Jf. påtaleinstruksen § 8-1a jf. strpl § 100 2. ledd.
-
-[Side 260]
-
-258
-
-Kapittel 18
-
-NOU 2020: 9
-Blindsonen
-
-Forsvarerbistand i tilståelsessaker
-
-Forsvarerbistand i meddommersaker
-
-Dommer i tilståelsessaker er i hovedsak svært
-korte. Det vises til den generelle gjennomgangen
-for øvrig i kapittelet. Selve rettsmøtet tar gjerne
-svært kort tid, ikke sjelden under en time.23 I tillegg har gjerne dommeren flere tilståelsessaker
-samme dag.
-Selv om dommeren mottar dokumentene i forkant, og gjennomgår disse, er det snakk om opptil
-5–600 sider, der det ikke fremgår at det er snakk
-om standardmaler og formuleringer, enkelte
-«standardbevis» m.v. Det er derfor grunn til å tro
-at det iallfall til en viss grad har vært begrenset
-mulighet til å gjennomgå dette i detalj av dommeren forut for rettsmøtet. Av samme årsak kan det
-ha vært begrensede muligheter til å kryssjekke
-skyldvurderingen opp imot meldekort, veiledninger, og øvrige bevis. Dommer antas å til en viss
-grad kunne legge til grunn at påtalemyndigheten
-selv har fremskaffet, eller iallfall nøye vurdert
-bevisene som framlegges, ettersom påtalemyndigheten mener at dette er grunnlag for å straffe siktede/tiltalte.
-Dokumentene sendes til retten sammen med
-en siktelse, og en påtegning der påtalemyndigheten redegjør for de momenter som taler for graden av skyld som legges til grunn, samt straffeskjerpende og formildende omstendigheter m.v.,
-og hva påtalemyndigheten mener er riktig straffereaksjon i det enkelte tilfellet. Aktor møter gjerne
-ikke i rettsmøtet, og aktoratets anførsler fremgår
-derfor i hovedsak av påtegningen.
-Dommeren skal selv vurdere oppnevning av
-forsvarer til tilståelsessaken jf. straffeprosessloven § 100 annet ledd. Dette er den samme vurderingen som skal gjøres av politiet ifm. avhør24.
-Selv om det eventuelt oppnevnes forsvarer, gis det
-særdeles liten tid til forsvareren hva gjelder å forberede saken. Muligheten forsvareren har til å
-kunne gå i dybden på juridiske problemstillinger,
-og eventuelt klare å se koblingene opp imot
-trygderettslige og EØS-rettslige problemstillinger
-anses for begrenset (se nærmere om dette
-senere).
-
-Selv om det oppnevnes forsvarer i meddommersaker, medfører også her rettshjelpsordningen
-betydelige begrensninger i muligheten til grundige juridiske gjennomganger. Det kan derfor
-ikke i stor grad legges forsvarerne til last at de i
-forberedelsene ikke har avdekket eventuell motstrid med EØS-retten.25
-I meddommersaker er gjerne bevisoppgaven
-fra aktoratet i disse sakene svært omfattende.
-Sett opp imot muntlighetsprinsippet, samt varigheten av rettsmøtene i sakskomplekset, er det
-grunn til å anta at det ikke er gjort en detaljert
-gjennomgang av bevismaterialet i løpet av rettsmøtet. Det har ikke vært mulig å gjøre en nærmere gransking av dette, men sett hen til omfanget av skyldvurderingen i dommene, samt at det
-også iallfall i enkelte dommer kun er henvist til
-vurderinger i andre dommer hva gjelder informasjonen tiltalte fikk, opp imot skyldspørsmålet,
-antas det at den detaljerte gjennomgangen av
-bevisene som ligger til grunn for skyldvurderingen er noe begrenset.
-I de sakene der EØS-retten er nevnt, har det
-ikke fremkommet i detalj hva det er prosedert på,
-og i en av sakene ble også tiltalen frafalt underveis. Det er imidlertid grunn til å nevne at det i
-rettsmøter ikke helt sjelden skjer at forsvarer får
-tilbakemelding om at henvisninger til internasjonale rettskilder ikke er relevant, eller at dette er
-unødvendig å prosedere på da dommeren kan
-dette. Iallfall gjelder dette for henvisninger ut over
-mer «standardhenvisninger» til enkelte bestemmelser i EMK. Det kan derfor ikke ses helt bort
-ifra at dette kan ha spilt inn ved en vurdering av å
-bruke av tilmålt tid til å prosedere på EØS-rettslige spørsmål i sakene26.
-Særlig om saker der forsvarer aldri er oppnevnt
-En av utfordringene dette medlem ser er omfanget av saker der siktede ikke har hatt bistand av
-forsvarer. Det er som nevnt ikke funnet noen
-saker der forsvarer har vært oppnevnt ifm. avhør.
-Dette innebærer ikke bare at forsvarerens vurde25
-
-23
-
-Utvalget har ikke hatt intervju med forsvarere/dommere
-som har hatt disse sakene i praksis, og således ikke fått
-belyst nærmere detaljer rundt varighet, omfang av saker på
-en dag m.v.
-24
-Det er et paradoks at domstolen har funnet grunn til å oppnevne forsvarer i de samme sakene der politiet ikke har bedt
-oppnevnt forsvarer, selv om da vilkårene i § 100 annet ledd
-antas å være til stede
-
-26
-
-Utvalget har imidlertid også fått tilbakemelding fra en
-advokat som tok opp det hun opplevde var motstrid mot
-EØS-avtalen, og tok med henvisning til manglende vurdering av fri bevegelighet i sin prosedyre. Hun presiserte at
-hun kun i beskjeden grad hadde hatt mulighet til å gå dypt
-inn i problemstillingene grunnet omfanget av forberedelsestid man får til rådighet som forsvarer.
-Det presiseres igjen at dette ikke har vært kartlagt gjennom intervju med forsvarere i sakene.
-
-[Side 261]
-
-NOU 2020: 9
-Blindsonen
-
-ring av tilståelsen opp imot skyldkravet i de aktuelle bestemmelsene uteblir, men også at det ikke
-kommer inn en advokat som vil se på saken ut ifra
-mistenktes/siktedes ståsted. Det vises i så måte
-til omtale vedrørende saksgangen i sakene.
-Kun i enkelte av tilståelsessakene har det vært
-oppnevnt forsvarer, og da først for tingretten jf.
-straffeprosessloven § 100 annet ledd27.
-I mange av sakene har imidlertid siktede ikke
-vært representert av forsvarer overhodet. Både
-hensynet til en nøytral etterforskning og rettssikkerhet for mistenkte, forutsetter at han bør få
-tilstrekkelige muligheter til å få frem dokumentasjon, opplysninger m.v. evt. taler mot den anmeldelse og det grunnlag Nav har presentert, og i tillegg må det forsikres at mistenkte har forstått at
-dette kan/bør gjøres, istedenfor å evt. bare tilstå
-og bli ferdig med saken. Det vises igjen til disse
-personenes særskilte situasjon, samtidig som det
-er snakk om alvorlige lovbrudd, der det i flere tilfeller er idømt ubetinget fengsel.
-Spørsmålet i nærværende sak er imidlertid
-ikke om omfattende bistand fra forsvarere kunne
-ha bidratt i større grad til å ivareta mistenktes
-interesser, men om dette ville fått betydning for
-muligheten til avdekking av manglende overensstemmelsen med EØS-retten. Dette må vurderes
-opp imot hvilke muligheter en forsvarer har til å
-kunne se problemstillingen.
-Omfanget av en eventuell forsvarerbistand
-Spørsmålet om EØS-rettens betydning har i liten
-grad vært tatt opp i disse sakene. Spørsmålet blir
-derfor om en økt oppnevning av forsvarere ville
-ha utgjort en forskjell.
-Med utgangspunkt i at problemstillingen i
-liten grad er reist i disse sakene, er det ikke uten
-videre grunn til å konkludere med at dette ville ha
-blitt påberopt av forsvarer dersom det var oppnevnt forsvarere til alle rettsmøter gjennomført
-som tilståelsessaker.
-Dette handler ikke nødvendigvis om manglende evne til å ta EØS-retten i betraktning, men
-også hvilke muligheter en forsvarer har til å gjøre
-omfattende og dyptgående vurderinger av rettslige problemstillinger, ut over «vanlig» strafferett
-og straffeprosess. Blant annet viste en advokat
-som hadde tatt opp spørsmålet om EØS-rettens
-betydning, til utfordringen med at forsvarere i
-27
-
-Det har ikke vært undersøkt om det er forsvarer som har
-begjært seg oppnevnt, eller om det er domstolene som har
-oppnevnt av eget initiativ/evt. etter anmodning fra påtalemyndigheten ved oversendelsen.
-
-259
-
-Kapittel 18
-
-svært beskjeden grad får betalt for forberedelser.
-Dette gjelder særlig i tilståelsessaker, der det
-omtrent ikke dekkes forberedelsesarbeid. I meddommersaker er det også som hovedregel få
-muligheter til å gjøre grundige forberedelser, særlig sett hen til at meddommersakene dette
-medlemmet har hatt mulighet til å se på, er gjennomført på under en rettsdag.28 Det vises for å
-belyse dette til forsvarerens mulighet for bistand i
-henhold til «stykkprisforskriften» som i all hovedsak legges til grunn for advokatenes salær:
-Straffesaker som gjennomføres ved hovedforhandling
-I henhold til stykkprisforskriften29 § 7 dekkes
-opptil 4 timer forberedelser til straffesaker som
-gjennomføres på 2 timer eller mindre i retten, og
-inntil 4,5 timers forberedelse dersom saken varer
-inntil 3,5 timer. Dersom saken varer inntil én dag i
-retten, honoreres 2,25 ganger antallet timer i retten (inkludert selve tiden i retten). Dette innebærer en hovedforhandling som tar 7,5 timer, gir
-rundt 9 timers forberedelse. I tillegg bemerkes at
-domstolene i enkelte tilfeller trekker ifra lunsjpausen i stykkprisgrunnlaget.
-Forberedelsene skal inkludere alt av kontakt
-med mistenkte/siktede, innhenting og gjennomgang av (gjerne mange hundre sider) dokumenter, kontakt med påtalemyndighet og domstol,
-vurdering av, og evt. innhenting og framlegging av
-bevis, og forberedelse av hovedforhandling, herunder prosedyre, partsavhør (tiltaltes egen forklaring), vitneavhør og juridisk utdrag (og øvrig
-gjennomgang av rettskilder m.v.). Ettersom det i
-enkelte saker tas med foreldede tilbakebetalingskrav som erstatningskrav, må disse også forberedes behandlet, etter erstatningsrettslige regler. I
-sakene må det gjerne foretas en gjennomgang av
-rettspraksis både hva gjelder straffenivå, straffereaksjon, og omfang av erstatning.
-Dette viser at omfanget av tid forsvarere har til
-rådighet, sett opp imot alt som må forberedes, er
-svært begrenset. Grunnet timesatser for arbeid
-for det offentlige, opp imot gjerne tredoble timesatser for advokater i sivile saker, er det heller
-ikke særlig rom for omfattende «gratisarbeid»,
-eller å satse på en utvidelse av stykkprisen, noe
-som sjelden innvilges av retten. Det antas derfor
-28
-
-29
-
-Det har ikke vært mulig for dette medlem å fremskaffe en
-fullstendig oversikt over dette jf. tilmålt tid, men dette antas
-å generelt være av mindre betydning for framstillingen.
-Se forskrift 12. desember 2005 nr. 1442 om salær fra det
-offentlige til advokater m.fl. etter faste satser (stykkprissatser) ved fri rettshjelp og i straffesaker (stykkprisforskriften).
-
-[Side 262]
-
-260
-
-Kapittel 18
-
-NOU 2020: 9
-Blindsonen
-
-at mulighetene til å se den EØS-rettslige problemstillingen i arbeid ihht. stykkprisen er begrenset.30
-Det at forsvarer selv må bære risikoen for avslag
-på en begjæring om salær etter medgått tid, medfører at forsvarere gjerne kvier seg for å gjøre
-omfattende rettskildesøk, og juridiske utredninger i sakene.
-Tilståelsessaker
-I tilståelsessaker gis det totalt 4,5 timers dekning i
-saker som varer inntil 1,5 timer. De fleste tilståelsessakene gjennomføres på kort tid, og det er derfor som oftest snakk om i alt 3 timers forberedelse.31
-Ettersom siktede har tilstått, og samtykket til
-gjennomføring som tilståelsessak, vil forsvarers
-arbeid i hovedsak bestå i støtte til klienten i saken,
-samt arbeid med å trekke fram de formildende
-omstendighetene i saken. Dette innebærer at det
-er usikkert om flere oppnevninger av forsvarere i
-tilståelsessakene hadde bidratt til å avdekke relevante EØS-rettslige problemstillinger.32
-Ankesaker
-Forsvarerens disponible tid til forberedelse i ankeforhandling, især der han har bistått tiltalte under
-tingrettens behandling av saken er også svært
-begrenset. Hovedregelen er at det kun gis dekning til 3 timer til utferdigelse av anke (støtteskriv), og dette kun i saker der hovedforhandlingen har vart i 9 timer eller mer.33 Dette innebærer
-at forsvarer i liten grad har mulighet til utførlige
-undersøkelser i forbindelse med en anke/ankebehandling.34
-Generelle vurderinger og læringspunkt
-Dersom forsvarerbistand skulle bidratt til avdekking av de EØS-rettslige problemstillingene i
-
-større grad, ville ikke nødvendigvis et økt antall
-oppnevninger til rettsmøtene bidra i vesentlig
-grad.35
-Det som eventuelt kunne sees nærmere på er
-om oppnevning av forsvarer på etterforskningsstadiet/ifm. avhør, jf. påtaleinstruksen § 8-1 a jf.
-straffeprosessloven § 100 annet ledd, kunne bidra
-til å avdekke juridiske problemstillinger i større
-grad. Dekning av bistand på etterforskningsstadiet honoreres normalt etter faktisk medgått
-tid, jf. salærforskriften.36 Økt forsvarerbistand på
-etterforsknings/avhørsstadiet vil kanskje gi
-større tid og rom for vurderinger også opp imot
-EØS-rettslige problemstillinger, og evt. mer
-omfattende vurderinger av EMK der dette er relevant.37
-For stykkprissakers vedkommende, særlig i
-saker med en stor dokumentmengde, men kort
-varighet av rettsmøtet, er svært liten tid til å gjennomgå dokumenter. Til og med dette medlems
-gjennomgang av en enkelt sak i mottatt sakskompleks ville overstige dette. Forberedelsestiden
-skal som nevnt i tillegg omfatte alt annet av forberedelser, og det oppfattes gjerne slik at det i realiteten ikke forventes at forsvarere i detalj gjennomgår dokumentene.38 Det må også tas i betraktning
-at saker ofte gjennomføres på mindre tid enn først
-antatt (der det gjerne tas med en sikkerhetsmargin mht. omfanget av tid til rettsmøtet), og derfor
-en fare for å få mindre forberedelsestid dekket,
-noe som medfører at forberedelsestid ihht. opprinnelig anslått berammelsestid kanskje heller
-ikke utnyttes fullt ut, nettopp da sakene erfaringsmessig går raskere.
-Dette stiller seg annerledes i andre typer
-bedragerisaker, der det kan være snakk om
-beramming over mange dager, uker og måneder. I
-slike saker vil det innvilges fri sakførsel etter faktisk medgått tid. Også i disse sakene må imidlertid forsvareren godtgjøre at alt arbeid har vært
-rimelig og nødvendig, jf. salærforskriften § 7, for å
-unngå kutt i salær. Nettopp bruk av tid til retts-
-
-30
-
-Dette betyr imidlertid ikke at det samme nødvendigvis er
-gjeldende for muligheten til å se nærmere på grunnlaget
-for skyld m.v. eller å eventuelt se likhetstrekkene mellom
-formuleringer, dokumenter m.v., opp imot de individuelle
-forholdene, dersom man har mange slike saker for retten.
-31
-Disse forberedelsene er langt på vei de samme som i meddommersakene, og dokumentmengden er gjerne langt på
-vei den samme. Omfanget av prosedyren er imidlertid kortere, og det er normalt sett ikke vitneavhør.
-32
-Selv om dette medlem i høyeste grad mener at det bør oppnevnes flere forsvarere også i tilståelsessaker.
-33
-Der også formålet i praksis er å argumentere for hvorfor
-lagmannsretten skal ta saken inn til behandling.
-34
-Og arbeid også evt. må foretas innenfor oppnevningen i
-saken i tingretten.
-
-35
-36
-
-37
-
-38
-
-Se dog noten over, samt vurdering i punkt i.
-Se forskrift 3. desember 1997 om salær fra det offentlige til
-advokater m.v. (salærforskriften), selv om det også i slike
-saker gis begrensede muligheter til bistand (enkelte saker
-kun til avhør, i andre saker ytterligere bistand, men tidsbruk må også godtgjøres i detalj overfor retten).
-Økt mulighet til bistand på etterforskningsstadiet vil også
-gi mistenkte bedre sjanser til å ivare sine generelle interesser, både hva gjelder tilståelse, innholdet i denne, muligheten til å klare å gjennomføre avhør dersom dette oppleves som svært vanskelig for mistenkte, samt for å skape
-et bredere bevismessig bildet av saken.
-Noe det bemerkes at det i enkelte straffesaker ikke nødvendigvis er et stort behov for
-
-[Side 263]
-
-NOU 2020: 9
-Blindsonen
-
-kildesøk, gjennomgang av rettspraksis og juridiske utredninger kan være arbeid domstolene
-anser ut over det som er rimelig/nødvendig. Det
-er imidlertid et paradoks at i store bedragerisaker
-med gjerne omfattende etterforskning (gjerne
-over år), med betydelige prosessuelle omkostninger for påtalemyndigheten og domstolene, gis
-mistenkte et bedre rettsvern gjennom økt bistand
-til forsvarer. I trygdebedragerisakene, der gjerne
-ressurssvake og/eller alvorlig syke personer, som
-både har mistet inntektsgrunnlag, fått tilbakebetalingskrav de ikke kan innfri, og samtidig tiltales/
-siktes for grove bedrageri og evt. falsk forklaring,
-gis det i svært liten grad mulighet til omfattende
-forsvarerbistand.
-Gjennom at advokater kvier seg for å påta seg
-slike oppdrag av frykt for gratisarbeid, når i tillegg
-den tid som honoreres skjer etter satser som
-gjerne ligger under halvparten av deres ordinære
-satser, blir videre tilgangen på advokater svært
-begrenset.
-
-18.3.7 Kort om andre momenter, funn og
-læringspunkter
-Innledning
-Av hensyn til omfang, samt direkte relevans opp
-imot mandatet, kommenteres helt kort enkelte
-andre tema som har kommet opp i forbindelse
-med granskingen, for å synliggjøre «alle sider» av
-sakene jf. mandatet.39
-Fare for «tilståelsespress»
-I enkelte saker kan mistenkte oppleve et «press»
-for å tilstå, noe berørte personer ga uttrykk for i
-samtaler med utvalget, selv om dette ikke nødvendigvis er like tilsiktet fra avhørers side som det
-oppleves for mistenkte. Samtidig er mistenkte i
-liten grad representert av forsvarer på avhørstidspunktet, og har derfor ikke nødvendigvis hatt
-mulighet til å rådføre seg før tilståelse og evt. samtykke til gjennomføring som tilståelsessak. Dette
-kan oppleves som eneste mulighet til lavere straff
-og evt. å unngå ubetinget fengsel. Personer utvalget snakket med nevnte nettopp at de opplevde
-press for å tilstå, der en person også fortalte om
-gjentatte oppfordringer fra Nav om å tilstå, for å
-komme seg videre.
-Dersom det i en sak der Nav Kontroll har
-anmeldt en forsettlig overtredelse, mens mistenkte
-39
-
-Der andre relevante instanser evt. må vurdere spørsmålene.
-
-261
-
-Kapittel 18
-
-forespeiles muligheten for domfellelse for en uaktsom overtredelse, kan dette ytterligere bidra til et
-tilståelsespress.
-Dersom mistenkte opplever et «tilståelsespress» som i disse tilfellene, kan man fort
-bevege seg i retning av en form for «plea bargaining» istedenfor strafferabatt ihht. straffeloven
-1902 § 59, eller straffeloven 2005 § 78. Dette
-bekreftet også tidligere riksadvokat i samtale med
-utvalget.
-Saker registrert på andre straffebud, samt ikke
-oversendte saker
-En av svakhetene utvalget har fått beskjed om er
-at domstolenes datasystem registrerer sakene inn
-under et bestemt straffebud, og det kan derfor finnes saker der det er snakk om flere tiltaleposter,
-men saken er registrert på andre straffebud og
-derfor ikke funnet ved domstolenes søk. Videre er
-det ikke alle domstoler som har gjennomgått og
-oversendt sakene, både av tidsmessige hensyn, og
-av kapasitetsmessige årsaker.
-Av disse grunner, samt evt. også andre grunner, kan det derfor finnes domfellelser for trygdebedrageri og/eller falsk forklaring grunnet reiser
-i EØS-området, uten at dette er tatt med i utvalgets oversikt/gjennomgang.
-Frifinnelser
-Selv om en siktet/tiltalt er frikjent, enten for
-enkelte tiltaleposter, eller frikjent helt, kan det være
-grunn til å se nærmere også på slike dommer, både
-av hensyn til årsaker til frifinnelser, den praksis
-som er lagt til grunn, gjennomføringen av saken
-m.v. Det kan uansett være aktuelt med erstatning
-for uberettiget straffeforfølgelse i sakene.
-Henleggelser
-Det antas at det kan foreligge saker der Nav har
-anmeldt et trygdebedrageri og/eller falsk forklaring, men påtalemyndigheten har henlagt saken
-eller deler av den. Dette innebærer ikke bare at
-det kan være tale om personer som er utsatt for
-uberettiget anmeldelse, men at de i verste grad
-har forberedt seg på en ubetinget fengselsstraff
-dersom henleggelsen har kommet kort tid før
-berammet rettsmøte. I slike tilfeller kan henleggelsen oppleves verre enn en frifinnelse, når man
-likevel er forberedt på å møte i retten og bevise
-sin uskyld.
-Det er grunn til å påpeke at en straffeforfølgningen i seg selv kan medføre betydelige påkjen-
-
-[Side 264]
-
-262
-
-Kapittel 18
-
-NOU 2020: 9
-Blindsonen
-
-ninger uansett om vedkommende i utgangspunktet er skyldig eller ikke. Med tanke på at det i de
-aktuelle sakene er tale om personer med sykdom,
-også psykisk sykdom, antas belastningene å iallfall ikke være mindre. I tillegg er de som regel fratatt sine trygdeytelser og/eller har fått tilbakebetalingskrav. Det å plutselig, midt i dette, bli kontaktet av politiet for et avhør grunnet en bedragerianmeldelse, kan ha fått betydelige konsekvenser
-selv om saken eventuelt har endt med en henleggelse.
-Videre er det grunn til å særlig bemerke at en
-henleggelse fra politiet, på bevisets stilling, i praksis sees på som en sak der politiet mener at det er
-klart at vedkommende er skyldig, men at bevisene ikke er tilstrekkelige for å kunne domfelle.40
-Dette er derfor belastende å ha «hengende ved»
-seg, når vedkommende aldri får mulighet til å faktisk renvaske seg. Dette innebærer at påtalemyndigheten bør gjennomgå henleggelser i aktuelle
-saker.41
-Det bør også sees på om det kan være snakk
-om saker med påtaleunnlatelse, utsettelse, eller
-andre særskilte reaksjoner.
-Erstatning for uberettiget straffeforfølgelse
-Utvalget skal ikke gå inn i de erstatningsmessige
-forholdene i sakene, men det bemerkes at det
-også må foretas en vurdering av sakene, opp imot
-grunnlag for erstatning for uberettiget straffeforfølgelse jf. straffeprosessloven kapittel 31. Dette
-gjelder ikke bare i saker der personer er domfelt,
-og i verste fall har sonet ubetingede fengselsstraffer, men også i andre saker der straffeforfølgningen har vært urettmessig, herunder både frifinnelsessaker og henlagte saker. Personer utsatt for
-uberettiget straffeforfølgelse kan få innvilget fri
-rettshjelp, jf. straffeprosessloven § 450.42
-Sivile krav samt sakskostnader
-Dersom det av påtalemyndigheten vurderes at
-saker ikke skal gjenopptas dersom utenlandsopphold i EØS antas å ha hatt liten betydning for straf40
-
-Dersom det i sivile saker innhentes fullstendige politidokumenter, f.eks. i barnevernssaker eller foreldretvister, vil det
-gjerne fremgå at personen f.eks. ble anmeldt for grovt
-bedrageri og falsk forklaring, men at saken ble henlagt på
-bevisets stilling.
-41
-Herunder henleggelser for enkelte tiltalepunkt, deler av
-forhold m.v.
-42
-Dette vil derfor være andre erstatningsmessige vurderinger enn de som eventuelt foretas grunnet urettmessig tilbakebetaling, og direkte eller indirekte tap for berørte personer som følge av dette.
-
-fen, må det også sees hen til de øvrige forhold i
-sakene, samt eventuelt sivilt krav, og konsekvenser av at vedkommende også har måttet erstatte
-eventuelle foreldede krav. Det samme gjelder for
-eventuelle andre følger, herunder sakskostnader
-(idømte og evt. egne til forsvarerbistand).
-Andre punkter som bør sees på av forvaltningen
-Forvaltningen har allerede påstartet gjennomgang av saker med tilbakebetalingskrav grunnet
-utenlandsopphold. Det antas imidlertid at det
-også foreligger et betydelig antall saker der personer kan ha unnlatt å søke om ytelser da de har
-antatt at utenlandsopphold ikke godkjennes, evt.
-at de ikke har hatt tid til å vente på søknad om
-godkjenning av utenlandsopphold og derfor
-avstått fra å søke, eller der personer har krysset
-av for «annet fravær» og derfor ikke mottatt
-ytelser for disse tidsrommene. Slike saker kan
-være vanskelig å avdekke, men det bør foretas en
-vurdering på hva som skal/kan gjøres i så måte.
-Saker om opphold utenfor EØS
-Ihht. allerede gjennomgåtte forhold i særmerknaden, samt gjennomgangen av dokumenter i det
-følgende, bør det også tas en vurdering opp imot
-saker der personer er dømt for opphold i land
-utenfor EØS-området, på bakgrunn av de allerede
-avdekkede punktene i den generelle gjennomgangen av grunnlaget for straffedommene.
-
-18.3.8 Særlig om enkelte av
-dokumentbevisene i sakene
-Innledning
-Det vises til tidligere redegjørelse for det bevismessige grunnlaget, anmeldelsesmaler m.v., og
-avgrensninger mot hva som har vært mulig å
-gjøre og ikke for dette medlem i granskingen.
-Etter å ha gjennomgått utkast til kapittelet gjorde
-medlemmet selv en nærmere gjennomgang
-straffesaksdokumentene, og gjorde i denne gjennomgangen en del funn som dette medlem finner
-grunnlag for å trekke særskilt fram. Disse funnene kan også få betydning for saker ut over
-EØS-sakene. Det bemerkes i så måte at det også
-er foreslått å ikke gjenåpne saker som er mottatt,
-da «EØS-biten» av utenlandsoppholdene ikke er
-vurdert å ha stor betydning for straffen, og dette
-kan derfor indirekte få betydning for enkelte
-EØS-saker der opphold i land utenfor EØS har
-vært det førende for omfanget av straff, eller i
-
-[Side 265]
-
-NOU 2020: 9
-Blindsonen
-
-saker der kun deler av de «straffbare» forholdene har skjedd etter 2004-forordningen trådte i
-kraft.
-
-263
-
-Kapittel 18
-
-I alle sakene er det lagt til grunn en streng plikt til
-å sette seg inn i den informasjon Nav mener at
-brukeren har fått, og forståelsen av dette opp imot
-anført plikt til å søke om godkjenning før utenlandsreiser (der ytelser fortsatt mottas). Det er
-nettopp den manglende forståelsen av sine plikter,
-eller det som vurderes som bevisst unnlatelse av å
-etterleve pliktene, i hensikt å skaffe seg en ytelse
-man ikke hadde krav på, som i hovedsak er
-grunnlag for domfellelse (sondring mellom skyldgrader omtales i kapittel 12). Ved observasjoner
-av at dette er henvist til i maler for anmeldelse, og
-fremgår av dokumentene, er det derfor grunn til å
-se nærmere på dette materialet. Det vises også
-særskilt til at det fremkommer et ytterligere
-moment i retning av at det iallfall på enkelte tidspunkt, om enn i begrenset grad, har vært snakk
-om en praksis som kan ha vært i tråd med EØSretten, men der de etterfølgende anmeldelsene
-legger til grunn en praksis som strider mot den
-egentlige praksis som fremkommer av dokumentene. Dette kan eventuelt ha noe med både bruk
-av anmeldelsesmaler å gjøre, og evt. dersom rundskrivene har gitt andre føringer for de som har
-vurdert sakene, enn det som i realiteten har fremkommet av øvrige dokumenter m.v.
-
-Videre bemerkes det at Nav før omleggingen i
-2010, ser ut til å ha hatt en praksis om at det har
-vært tillatt å oppholde seg utenlands, iallfall for
-enkelte av ytelsene som ble slått sammen til
-dagens AAP. Det ser imidlertid ut til at de skriv
-om overføringen til AAP som brukerne mottok i
-overgangsfasen, i liten grad har synliggjort det
-nye kravet som plutselig er stilt både til søknad,
-godkjenning og varighet av opphold. Videre ble
-det først i 2018 inntatt et krav om søknad i loven,
-og dette søknadskravet har derfor vært vanskelig
-tilgjengelig og/eller forståelig.
-Ettersom dokumenter mottatt i papir ikke nødvendigvis alltid er like lett å finne igjen, samtidig
-som det i dagens samfunn gjerne i hovedsak
-søkes etter opplysninger på internett (noe som
-alminnelig anses for å være mest oppdatert), vil
-nettopp den informasjonen brukerne finner på
-Navs nettsider festes lit til. Ved utfyllingen av meldekortene, er det naturlig å tenke at «veiledning
-til utfylling av meldekort» vil gi best veiledning til
-utfyllingen av meldekortene (!). Dersom brukerne har forholdt seg til denne veiledningen, bør
-det også normalt sett kunne anses at de har vært
-så aktsomme som det kan være grunn til å forvente, uavhengig av standardinformasjon e.l. de
-kan ha mottatt tidligere. – særlig med tanke på at
-enkelte brukere har mottatt en mengde ulike
-dokumenter og bilag, og det kan være vanskelig å
-få oversikt. Det er derfor grunn til å gjennomgå
-særskilt de faktiske opplysningene brukerne har
-mottatt:
-
-Opplysninger mistenkte har fått fra Nav
-
-Meldekortene
-
-Plikten til å gjøre seg kjent med opplysninger
-
-Det er i hovedsak to kategorier opplysninger som
-er gitt. Det ene er opplysninger brukerne har fått i
-vedtak/vedlegg til vedtak, mottatt skriftlig. Det
-andre er opplysninger som har vært tilgjengelig
-på nett (det er ikke sett nærmere på håndskrevne
-meldekort). I tillegg kan det, som presisert, være
-gitt opplysninger muntlig, noe det tas forbehold
-om. Samtidig er det i stor grad skriftlige bevis som
-har medført domfellelser, særlig for tilståelsessakenes vedkommende.
-Ut over disse særskilte opplysningene har
-også brukerne til en viss grad mulighet for å selv
-undersøke lovtekst, som vi både har erfart at har
-vært misvisende (iallfall til tider), samt at mye kun
-fremgår av rundskriv, EØS-avtalen og forordninger, som er vanskeligere tilgjengelig for publikum. I tillegg ser det ut til at praksis, iallfall til en
-viss grad, har vært avvikende fra også rundskrivene, noe som har gjort det tilnærmet umulig
-for brukeren å få en reell oversikt på egen hånd.
-
-Teksten i meldekortene
-I AAP-sakene der personer er anmeldt etter utenlandsopphold, er det først og fremst meldekortene som har medført grunnlag for anmeldelse. Dette da meldekortene er registrert sendt
-fra utlandet, jf. IP-adressesøk.
-Ved gjennomgang av straffedokumentene ble
-det derfor sett nærmere på de mange meldekort
-som var fremlagt, og den veiledningen til utfylling
-som var gitt.
-Det ser ut til at det er snakk om to ulike meldekort innenfor det aktuelle tidsrommet. Det kan se
-ut til at endringen fra gammelt meldekort til nytt
-meldekort skjedde i starten av 2014.43
-
-43
-
-I en sak der det er fremlagt nettbaserte meldekort fra 2010
-av, har dette meldekortet vært brukt helt fram til slutten av
-2013. I en annen sak der det var snakk om meldekort fram
-til 2016, men at dette er noe annerledes i dag
-
-[Side 266]
-
-264
-
-Kapittel 18
-
-NOU 2020: 9
-Blindsonen
-
-I de undersøkte sakene er det snakk om forhold i hovedsak før 2014, og det har derfor vært
-mest omfattende vurderinger opp imot faktisk
-utfylling av «gamle» meldekort. Den mottatte
-anmeldelsesmalen omhandler imidlertid ordlyden
-gjeldende meldekort, noe som gjør en helhetlig
-framstilling vanskelig.
-De tidligere meldekortene hadde følgende 5
-spørsmål:
-1. «Arbeidet?
-2. Tiltak/utdanning?
-3. Syk?
-4. Annet fravær?
-5. Fortsatt registrert?»
-På disse punktene er det krysset av for «J» eller
-«N». I tillegg må antall arbeidede timer fylles inn.
-Det er med andre ord «annet fravær» disse personene eventuelt har krysset av feil på. Spørsmålet
-blir derfor hva de forsto/måtte forstå at de skulle
-krysse av på dette punktet.
-Veiledning til meldekort
-I de gjennomgåtte sakene har dette medlem funnet to ulike veiledninger til utfylling av meldekortene. Den ene veiledningen er datert 2. november 2009, og er på i alt 2 A4-sider. Den andre veilederen som er fremlagt er datert den 14. juli 2014.
-det er ingen relevante innholdsmessige forskjeller
-på disse jf. utenlandsopphold.44
-I begge veilederne er det gitt veiledning på
-hvordan meldekortene konkret skal utfylles, og i
-begge skrivene fremgår det at det skal krysses
-«J» for fravær som har hindret gjennomføring av
-avtalt aktivitet. Det står imidlertid ingenting om
-avkrysning for fravær som er å vurdere som ferie,
-helgeturer e.l., innland/utland m.v. Det er kun fravær som hindrer de avtalte aktivitetene det vises
-til. Det er videre gitt oversikt over de situasjoner
-der det også kan gis tillatelse til fravær, selv om
-dette går ut over avtalt aktivitet.
-Dette innebærer med andre ord at hverken de
-gjennomgåtte meldekortene, eller veiledningene
-til disse, har gitt noen form for antydning om at
-det skal krysses «J» for reiser som ikke har medført fravær fra avtalt aktivitet. Det er i veilederne
-vist til aktivitetsplanene som er inngått, eksempli44
-
-Dette medlem er gjort kjent med at det i dag står «Har du
-hatt ferie eller fravær slik at du ikke har kunnet ta arbeid
-eller gjennomføre avtalt aktivitet?» i meldekortet, og at det i
-«informasjonstekst» som man kan hente fram, er en noe
-annen tekst, herunder oppdatert ifht. EU/EØS, men fortsatt er det nevnt et premiss om at fraværet har gjort at man
-ikke er «tilgjengelig for NAV».
-
-fisert med: «Dette kan for eksempel være når du tar
-ferie i periodene du skulle ha vært på tiltak/behandling».
-Det bemerkes at mange av de aktuelle aktivitetsplanene i gjennomgåtte saker har hatt målsetting om å skaffe arbeid, og aktivitetene har bestått
-i medisinske behandlinger, utprøving av medisin,
-eller å sende søknad om jobb eller praksisplass.
-Det er ikke funnet vurderinger av om dette ikke
-har vært mulig ifm. utenlandsoppholdene45.
-Oppsummering/funn ifm. meldekort
-Ut ifra meldekortene, og veiledningen til meldekortene, ser det ut til at det eventuelt er vanskelig å
-forstå at det «må» krysses «J» på «annet fravær»,
-dersom aktivitetsplikten i aktivitetsplanen er overholdt. Det sies heller ikke noe om søknad om samtykke i slike saker, så lenge aktivitetsplikten overholdes. Det er med andre ord ingen indikasjoner i
-veiledningen som tilsier at det kan bli snakk om
-både tilbakekreving og anmeldelse for grove lovbrudd dersom man i disse tilfellene krysser «N».
-Videre skilles det ikke særskilt mellom utenlandsopphold og reiser innenlands i meldekort/
-veiledning. Dette innebærer at meldekortene
-både gir uttrykk for en praksis som ihht. sin ordlyd kan være i overensstemmelse med EØS-retten, og i tillegg gi tilsvarende rettigheter også for
-personer som har reist i andre land enn i EØSområdet. Dette er det derfor særlig grunn til å
-framheve, opp imot eventuell gjennomgang av
-også andre saker. Det er således ikke lagt opp til
-et skille i denne teksten som ihht. sin ordlyd ville
-forskjellsbehandle reiser i innland og reiser i
-utlandet (eller i land innenfor/utenfor EØS-området).
-Det er også i bevismaterialet funnet en
-«screenshot» av meldekort fra mars 2014, og fra
-2015, der teksten i avkrysningen er endret til «ferie
-eller fravær slik at du ikke har kunnet gjennomføre
-avtalt aktivitet». I en «boble» med veiledningstekst
-som kan hentes fram, er det i denne perioden vist
-til fravær som hindrer aktivitet, og i tillegg fravær
-som gjør at man ikke er tilgjengelig for Nav. Det er
-ikke redegjort nærmere for hva det vil være si å
-være tilgjengelig for Nav og ikke, dersom man er
-påpasselig med å følge opp alle foreslåtte tiltak og
-aktiviteter m.v., og evt. reiser hjem ved behov. Sett
-hen til selve veiledningen for utfylling (eget
-skjema/info på hjemmesiden), må det vurderes om
-dette har gitt grunn til å tenke annerledes enn før
-45
-
-Men det utelukkes selvsagt ikke at dette kan være vurdert,
-og ha fått betydning i saken.
-
-[Side 267]
-
-NOU 2020: 9
-Blindsonen
-
-denne «informasjonsboblen» var mulig å få fram.
-Det er ikke funnet brev, dokumenter e.l. som har
-gitt brukerne detaljinformasjon om noen form for
-endringer, og veiledningen viser som nevnt fortsatt
-til aktivitet og tilgjengelighet.
-Skriv i forbindelse med overgang til AAP
-Et annet dokument som er lagt til grunn som
-«bevis» for at brukeren har fått informasjon om
-konsekvenser av utenlandsopphold, er et standardskriv datert den 13. oktober 2009, som
-omhandler endringen til AAP fra 1. mars 2010. I
-dette brevet, som ble sendt ut til alle mottakere av
-tidsubegrenset uførestønad, ble konsekvensene
-for vedkommende gjennomgått, ifm. at tidsbegrenset uførestønad, attføringspenger og rehabiliteringspenger, som da ble slått sammen til
-arbeidsavklaringspenger fra 1. mars 2010. Ihht.
-brevet skulle det være en overgangsordning ut
-2012, før disse personene gikk over på ytelsen
-AAP. Dette gjelder for flere av de sakene der straffesaksdokumentene er mottatt.
-Det er i skrivet tatt med et eget punkt med
-overskriften: «Overgangsregler- barnetillegg, friinntekt, honnørkort og opphold i utlandet». I
-avsnittet gjennomgås eventuelle endringer (for
-personer med tidsbegrenset uførestønad). Det
-presiseres følgende: «Du kan oppholde deg i utlandet så lenge overgangsreglene gjelder. Forutsetningen er at dette ikke er til hinder for avtalt aktivitet».
-Det er imidlertid fortsatt ikke sagt noe annet enn
-at det er aktivitetsplikten som må overholdes, og
-dette viser at det i alle fall ut 2012 var gitt skriftlig
-informasjon om mulighet til å reise utenlands, så
-lenge dette ikke brøt med pliktene.46 Det bemerkes at det ikke har vært mulig å få gjennomgått tilsvarende standardbrev som ble sendt til mottakere av de andre ytelsene som ble slått sammen
-til AAP. Det fremgår ikke av nytt vedtak om AAP
-for disse personene at det faktisk har skjedd en
-endring, eller at det er nye krav som stilles, men
-snarere at disse personene også har mottatt «standardvedtak» med vedlegg etter overgangen.
-Vedtak om AAP
-Den siste hoveddelen av «standarddokument»
-som er vedlagt anmeldelsene47 er selve vedtakene, og vedlegg til disse (ifølge anmeldelsene).
-46
-
-Dette har heller ikke vært knyttet opp imot EØS-land, og
-antas derfor å ha vært gjeldende for alle.
-47
-I tillegg til standardvedlegg til anmeldelser der lovtekst er
-kopiert, fullmakt ifht. påtale er gitt m.v.
-
-265
-
-Kapittel 18
-
-Det må ved vurderingen av disse skilles mellom
-selve vedtakene, og vedlegg/infoskriv med ulike
-dateringer. Det presiseres at det ikke er undersøkt om disse rent faktisk er mottatt, og/eller om
-det kan finnes andre slike skriv fra ulike tidspunkt.
-Det vises imidlertid til at det i mange saker er
-sendt en mengde vedtak, endringsvedtak, standardskriv m.v. og at det derfor er mottatt omfattende mengder dokumenter. Dersom det er motstridende informasjon i disse, og brukeren forholder seg til feil skriftlig informasjon, stilles det
-spørsmål ved om dette er tilstrekkelig til å konstatere forsettlig eller grovt uaktsomt bedrageri og/
-eller falsk forklaring.
-Eksempler på vedtak:
-– Vedtak om tidsbegrenset uførestønad fra 2008:
-Fravær, reiser m.v. nevnes ikke.
-– Vedtak om AAP etter konvertering fra ovennevnte ytelse, av 2010: Vedtaket nevner ikke
-noe om endringer i adgang til utenlandsopphold, søknadsplikt, begrensninger, reiser e.l.
-– Endringsvedtak AAP 2013: Vedtaket nevner
-endringer, mulige framtidige endringer som
-må meldes ifra om, aktivitetsplikter, konsekvenser ved uriktige opplysninger m.v. men
-ingenting om ferie, eller utenlandsreise.
-– Vedtak AAP 2014: vedtaket er på 3 sider totalt.
-På side 1 nevnes punkter man må være særskilt oppmerksom på, og her nevnes ikke ferie,
-utland m.v. Fravær nevnes ikke overhodet i
-vedtaket, men det nevnes at uriktige opplysninger kan føre til tilbakekreving og straffansvar.
-– Forlengende vedtak AAP 2015: vedtaket er kortet ned til 2 sider, men nevner fortsatt ikke noe
-om utenlandsopphold, ferie eller lignende.
-Heller ikke i vedtakene, som antas å være en primærkilde til informasjon, sies det noe om krav til
-å melde ifra ved reiser, begrensninger i utenlandsopphold eller lignende. Også her er det oppfølging og aktiviteter som nevnes. Dette er imidlertid også dokumenter som gjennomgående er
-benyttet som bevis for å konstatere både forsett,
-vinnings hensikt og uaktsomhet. Det stilles imidlertid spørsmål også ved dette, ikke bare i EØSsaker, men andre saker.48
-48
-
-Det bemerkes at en av sakene som gjaldt begge ytelsene,
-og omfattende utbetalinger over flere år, ble besluttet ikke
-gjenopptatt, fordi andelen av opphold i EØS-land (dog i
-hovedsak i Europa) ikke hadde tilstrekkelig betydning for
-straff, herunder erstatningskravet knyttet til foreldete tilbakebetalingskrav. Dette viser nettopp relevansen av gjennomgangen for saker som opprinnelig rammes av feilvurderingene ifht. 2004-forordningen og EØS-reglene.
-
-[Side 268]
-
-266
-
-Kapittel 18
-
-NOU 2020: 9
-Blindsonen
-
-Vedlegg til vedtak
-Det har ikke vært mulig å undersøke, og gjennomgå alle vedlegg til ulike vedtak opp igjennom,
-men ettersom både vedtakene, meldekortene og
-meldekortsveilederne har vært tilnærmet like, er
-det grunn til å tro at det samme kan gjelde for bilag
-til vedtakene. Sammenholdt med funnene for de
-andre bevisene, som i stor grad har medført grunnlaget for skyldvurderingen, må det eventuelt sees
-på om vedleggene til vedtakene kan ha såpass
-detaljerte henvisninger til regler at det likevel kan
-være grunnlag for å konstatere at disse brukerne
-har mottatt utvetydig informasjon om krav til opphold, søknadsplikt, og eventuelle konsekvenser av
-brudd på dette. Dette medlemmet har derfor kort
-sett på enkelte vedlegg, relevant informasjon og
-eventuelle forskjeller:
-«Arbeidsavklaringspenger», datert 02.11.09:
-Skrivet er på 2 forholdsvis tettskrevne sider der
-det redegjøres i detalj for utfylling av utført arbeid
-m.v. Under eget punkt om «Spørsmålet om ferie/
-fravær», står det at fravær som hindrer avtalt aktivitet må meldes ifra om. Det sies ikke noe om fravær som ikke er til slikt hinder, eller utenlandsreiser særskilt, og ingenting om søknadsplikt.
-«Orientering om rettigheter og plikter –
-arbeidsavklaringspenger og tilleggsstønader».
-Skrivet er datert 01.02.10, og har i så fall vært gjeldende for nye søknader som ikke var omfattet av
-overgangsordningen ut 2012. Under punktet
-«Opplysningsplikt», er det noen innledende
-merknader, og en liste på 12 punkter, med følgende beskjed: «Du må melde fra til ditt NAV-kontor dersom du»… De 12 punktene omhandler
-ulike ting, herunder fengsel, mottak av andre
-ytelser, arbeid, sykehusinnleggelse m.v. I straffesakene er kulepunkt 849 ansett som relevant, og
-påberopt som bevis for skyld. I henhold til dette
-punktet skal det meldes ifra, til det lokale Navkontoret, dersom vedkommende «skal reise eller
-flytte til utlandet». Det ser derfor ut til at det er en
-varslingsplikt, men ingen søknadsplikt det tales
-om, og det er ikke sagt noe mer om utdypende
-kriterier i dette punktet. Det er vanskelig å se at
-denne henvisningen til å gi beskjed til sitt lokalkontor ved ferie, reise eller flytting, skal innebære
-at brukeren må forstå at brudd på dette kan få
-alvorlige økonomiske og strafferettslige konsekvenser.
-
-49
-
-Og evt. punkt 4, om at det må meldes ifra ved avvikling av
-ferie eller permisjon, selv om dette ikke er trukket fram i
-«anmeldelsesmalen».
-
-«Arbeidsavklaringspenger – AAP», skriv av
-11. februar 2014. I dette vedlegget, på 3 A4-sider,
-nevnes for første gang kravet om opphold i Norge,
-og krav til søknadsplikt (som på dette tidspunkt
-heller ikke fulgte av lovbestemmelsen om AAP!).
-Samtidig står det noe misvisende at det tillates
-utenlandsopphold dersom dette ikke hindrer
-avtalt aktivitet. Det gis ingen tidsbegrensning på
-oppholdene ut over «midlertidig».
-Oppsummeringsvis ser det ut til at det overhodet ikke er nevnt oppholdskrav, søknadskrav
-eller lignende før i februar 2014. Det er imidlertid
-i de fleste av straffesakene sendt en rekke ulike
-vedtak, infoskriv, brev m.v. forut for dette, samt at
-det også fra 2014 av oppleves å være motstrid mellom innholdet i vedlegget, og veiledningen til meldekortene. Videre har det også vært motstrid fra
-2014 av hva gjelder bestemmelsen i ftrl § 11-3, der
-det ikke stilles krav til søknad, men derimot er en
-tidsbegrensning i opphold. Det er også noe besynderlig at oppdatert veiledning til meldekort bare
-måneder senere gir informasjon som oppleves
-som motsatt, der det kun er reiser som hindrer
-avtalt aktivitet som skal varsles.
-Oppsummering: dokumentbevis i straffesakene
-Etter en nærmere gjennomgang av de mottatte
-straffesakene, der det ser ut til å i stor grad være
-snakk om samme informasjon gitt til de ulike brukerne, tillates det å stille et spørsmål ved vurderingen av disse som bevis for skyldkonstatering,
-både for bedrageri og falsk forklaring.
-Det ser for dette medlem ut til at det er innholdet i anmeldelsen, og gjengivelsen der, og ikke
-hva som faktisk er informert om (iallfall i dokumenter), motstridende opplysninger, hva som har
-vært løpende tilgjengelig som veiledning til meldekortene, omfanget av mottatte ulike dokumenter og opplysninger, eller motstrid med lovbestemmelser på området, som har vært avgjørende. Samtidig er det snakk om til dels ressurssvake personer, der det ikke har vært forsvarer
-inne i bildet (før evt. til rettsmøter), der det er
-store ulikheter mellom hva som fremkommer i
-navs vurderinger og rundskriv, hva som er mulig
-å finne i lovtekst og tilgjengelige internasjonale
-rettskilder, og ikke minst motstrid mot den skriftlige informasjonen brukeren har mottatt fra Nav. I
-tillegg ser det også ut til å være klar motstrid mot
-den veiledningen brukerne har forholdt seg til
-ved utfyllingen av meldekortene.
-Det er også funnet eksempel fra nyere tid på at
-iallfall lagmannsretten, ved nærmere gjennomgang, enten har funnet vedkommende i «god tro»
+## Merknad til kapittel 15
+
+### Innledning, avgrensning og forbehold
+
+Særmerknaden er basert på skriftlige innspill, endringsforslag og merknader til kapittelet i mai 2020, som deretter er bearbeidet og utdypet noe, også opp imot ytterligere gjennomgang av mottatt materiale i utvalgets database.
+
+Særlig forholdene rundt situasjonen i februar/mars 2019 er det ønsket faglig diskusjon av i utvalget.[^868] Ettersom det ikke har vært tid til slik diskusjon, er disse spørsmålene/vurderingene derfor tatt med i en særmerknaden for å belyse dette nærmere. Videre har dette medlem ønsket å synliggjøre forholdene rundt straffesaker som ikke ble stanset, selv etter at både Nav, direktoratet, departementet og også statsråden var klar over iallfall *muligheten for* feilaktige straffedommer. Det tas, som for særmerknad i kapittel 12, et forbehold knyttet til de undersøkelser det for medlemmet har vært mulig å få til i den tiden som har vært til rådighet i saken, samt de ressurser medlemmet har hatt tilgjengelig. Av hensyn til svært begrensede tidsrammer har ferdigstillelse av særmerknader, samt kapittel 6 måttet prioriteres, på bekostning av muligheter til å gjøre ytterligere undersøkelser, eller tilsvarende undersøkelser knyttet til andre kapitler i rapporten.[^869]
+
+Ettersom det i utvalgsmaterialet ligger en stor mengde e-poster, og referanser til en mengde ulike personer, der kun navn eller mailadresser fremgår, er personer i Nav og/eller direktoratet, delvis henvist til som «direktoratet», og enkelte steder med nærmere betegnelse.
+
+### Merknad vedrørende prosessen fra 2018–2019
+
+Generelt
+
+Dette medlem har stilt en del spørsmål rundt prosessen knyttet til behandlingen av sakskomplekset i 2019, særlig med tanke på statsrådens og departementets håndtering. Med forbehold om eventuelle misforståelser som kunne ha vært avklart gjennom diskusjon, gjennomgås en del hendelser særskilt, sortert kronologisk.
+
+Grunnen til at dette medlem ønsker å trekke fram særlig to «hendelser» er at dette ikke i tilstrekkelig grad er belyst i øvrig gjennomgang i granskingsrapporten, med tanke på de momenter dette medlem ønsker å trekke fram. Det oppleves videre at for mye av ansvaret for den feilpraktiseringen som de senere årene har fått alvorlige konsekvenser for enkeltpersoner, legges på Nav, uavhengig av overordnet ansvar. Dette medlem opplever til tider departementet som ansvarsfraskrivende, og at de snarere henviser til at de ikke var klar over direktoratets praksis, og at denne var «hårreisende».[^870]
+
+Noen kommentarer knyttet til tiden fram til 2019
+
+En tidligere saksbehandler i Nav har informert utvalget om at oppholdskravet *i praksis* først og fremst har dreid seg om at ikke utenlandsopphold skal forverre sykdom, forløp, hindre kontroll og oppfølging, og at dette er vurdert opp imot ikke-diskrimineringsprinsippet i EØS-retten. Det vises i så måte til særlig kapittel 6 m/særmerknader, samt dette medlemmets særmerknad til kapittel 12, der innholdet i meldekort m.v. er referert.
+
+Det ble videre fra ovennevnte saksbehandlers side vist til at Nav Klageinstans, i kvalitetsrapporter for både 2015 og 2016, hadde tatt opp at EØS-rettslige problemstillinger var mangelfullt utredet, og ikke tatt stilling til, også før Trygderettens omtalte kjennelser. Det var gjort ulike tiltak for å øke bevisstheten rundt EØS-problemstillinger i Nav, og det ble også sett til utenlandsk rettspraksis (bl.a. Danmark) for å se hvordan dette ble gjort i andre land. Slik dette medlem forsto det fortalte saksbehandleren at han selv ba Trygderetten om å løfte problemstillinger til EFTA-domstolen, ettersom Nav selv ikke kunne gjøre dette. Han fortalte også at flere andre saksbehandlere i Nav helt klart hadde uttrykt at de mente at ftrl § 8-9 ikke var i overensstemmelse med EØS-retten, og at det ofte var dissens i forbindelse med oppdatering/utferdigelse av rundskrivene.
+
+Som vist til i særmerknad til kapittel 6 og 12, ble det økt fokus på å «ta trygdemisbrukere» og å hindre trygdeeksport, herunder intensivering av anmeldelser, fra iallfall 2014.
+
+Det fremkommer av både regjeringsplattformer, og en del av de dokumentene utvalget har mottatt, at ønsket om å hindre trygdeeksport har stått sterkt, noe man også finner en rekke eksempler på ved enkle søk på nett. Dette er også presisert politisk hold etter at statsråden vinteren 2019 ble kjent med feilpraktiseringen. Det er derfor stilt spørsmål fra dette medlem vedrørende om dette fokuset kan ha gått på bekostning av annet arbeid og fokus de senere årene. På spørsmål overfor et av intervjuobjektene til utvalget, ble det imidlertid benektet at *dette* var årsaken til feilpraktiseringen de senere årene.
+
+Som det fremgår av kapittel 15 var det i 2017, fra departementets side, bedt om en gjennomgang av regelverket, der det blant annet ble sett på problemstillinger rundt EØS-borgere og forholdet til trygdeforordningen av 2004, særlig artikkel 21. Det var også mellom departementet og direktoratet diskusjoner mht. om § 11-3 kunne brukes på reiser i EØS, i 2017, uten at dette ble avklart. Det var videre diskusjoner i «MEL-nettverket» om dette, i 2017–2018.
+
+I brev av 29. november 2017, fra Nav Klageinstans til telsesavdelingen i direktoratet, ble det vist til at de hadde mottatt flere henvendelser om EØS-borgere og forordningen sett opp imot utenlandsopphold. Det ble særskilt påpekt at Nav Klageinstans var usikre på om de norske reglene brøt med EØS-retten. Dette ble også nevnt i kvalitetsrapporten for 2017 (se kapittelets punkt 15.2.2).
+
+I juli 2018 ble et notat fra Nav Klage, vedrørende trygderettsavgjørelser og artikkel 21, samt to mulige tolkningsalternativer (se kapittelet punkt 1.2.3), formidlet til ulike personer i direktoratet. Dette ble tatt med inn i «*rettsavklaringsgruppen*», der både Nav Kontroll og Nav Klage deltok. På dette tidspunkt var derfor også Nav Kontroll kjent med problemstillingen.[^871] Selv om problemstillingen ifølge de personer utvalget har snakket med, antakeligvis ikke ble oppfattet som viktig, og det tydeligvis var en del uavklarte tolkningsspørsmål, ble *ikke* ansvarlig departement særskilt varslet ifølge mottatte dokumenter.
+
+I 2018 var det omfattende korrespondanse innad i Nav, knyttet til særlig to trygderettskjennelser: TRR 2017-565 og 17-02063 som Nav, ifølge gjennomgått korrespondanse, mente «endret praksis». Det var, i alle fall av enkelte, fastholdt at art. 21 også gjaldt midlertidige opphold, i tillegg til enighet om at *lengre perioder med utenlandsopphold* falt innenfor forordningen. Blant annet i korrespondanse den 20. september 2018, ble problemstillingene og trygderettskjennelsene diskutert. Denne korrespondansen ble videresendt både til Nav Klageinstans og Nav Kontroll, både til enkeltpersoner og til «styringsenheter».
+
+Etter flere år med uklarhet mht. utenlandsopphold og EØS-retten, sendte Trygderetten et brev til Nav Klageinstans den 19. november 2018, der de viste til at Nav fortsatt ikke hadde endret sin praksis jf. forordningens art. 21, og at Trygderetten derfor ønsket å løfte spørsmål til EFTA-domstolen. De ba i brevet om tilbakemelding på eventuelle spørsmål innen tre uker.[^872]
+
+Den 27. november, da saksbehandler i Navs ytelsesavdeling mottok kopi av brevet fra Trygderetten, ble departementet v/pensjonsavdelingen kontaktet, og de to representantene for Nav og departementet diskuterte både anke over trygderettskjennelse (der også lengre opphold var et tema) og eventuell foreleggelse for EFTA i saker med kortere opphold.
+
+Oppsummering
+
+Det ser ut til at problemstillingene er forsøkt tatt opp og «løftet» på ulike måter ved ulike anledninger, og at oppholdskravene og trygdeforordningen er diskutert, også med departementet, men at departementet ikke ga noen føringer for tolkningen, eller tok tak i problemstillingen selv.
+
+Nav Kontroll har overfor utvalget vært kritisk til manglende informasjon, men har samtidig vært kjent med dialog rundt problemstillingene iallfall fra 2018 av.
+
+Det er i samtaler med utvalget anført at *ingen* forsto alvoret, eller at problemstillingene fikk betydning for pågående straffesaker, selv om nettopp uklarhet i regelverket, og ulike syn på praksis var et tema gjentatte ganger, og det bl.a. i Navs årsrapporter har vært presisert hvor mange personer som har blitt *anmeldt.* Eksempelvis var det en egen overskrift i årsrapporten fra 2015 om at det aldri tidligere hadde vært så mange anmeldelser for trygdemisbruk.
+
+Det at det i tillegg er satt mål for tilbakekreving av beløp, har vært fokus på å anmelde «misbruk» og fokus på å hindre trygdeeksport, innebærer at det er vanskelig å forstå at «ingen», på noe tidspunkt forsto at dette kunne ha betydning for straffesaker, før sommeren 2019. Utvalget har mottatt *18 fellende straffedommer* fra 2019 og så sent som i april 2019 anmeldte Nav trygdemisbruk grunnet brudd på oppholdskravet.
+
+Trygderettens anmodning, behandlingen av denne, og departementets notat den 20. februar
+
+Samtidig som Trygderettens brev ble diskutert muntlig med departementet den 27. november 2018, ble de aktuelle dokumentene også oversendt departementet, som derfor iallfall i november var både muntlig og skriftlig informert om utfordringer med saker som gjaldt utenlandsopphold på oppimot et halvt år, og saker med «korte» utenlandsopphold.[^873]
+
+I brevet til departementet den 20. desember 2018, med overskriften «Adgangen til eksport av kontantytelser innad i EØS – området – spørsmål om forståelse av trygdeforordning 883/2004 artikkel 21» ble adgangen til «eksport av kontantytelser» tatt opp, og både Trygderettens brev, de to relevante kjennelsene, samt flere notat om praksis m.v. ble vedlagt. Det ble vist til en vesentlig omlegging av praksis. Det var forut for dette også dialog med departementet i desember 2018.
+
+I møtet den 18. januar 2019,[^874] deltok en rekke personer fra både departementet og direktoratet, herunder ansvarlig for *koordineringen av forordningen i departementet,* ansvarlig for ytelsene, og den samme personen som diskuterte saken med Nav den 27. november.
+
+Etter møtet, utferdiget direktoratet et utkast til brev til departementet, som ihht. tilbakemeldinger i intern e-postdialog den 22. januar hadde «*Fått fram argumenter for hvorfor vi bør «ordne» dette nasjonalt*».
+
+Den 22. januar ble det også sendt en henvendelse fra saksbehandler i ytelsesavdelingen til en rekke «ressurspersoner på AAP», med anmodning om rask tilbakemelding grunnet oversendelse til departementet, og foreleggelse for politisk ledelse. Det ble bedt om tilbakemelding på praksis for korte opphold/ferier, om man fant art. 21 anvendelig i disse sakene, om de mente at det var rom for å ha søknadskrav, og hvilke konsekvenser en anvendelse av art. 21 ville få framover, også mht. økonomi. «Ressurspersonene» varslet at de ikke rakk å svare innen fristen dagen etter.[^875]
+
+Den 24. januar kontaktet departementet direktoratet med følgende e-post: «*\[…\] var opptatt av å få en formell bestilling til dere i denne saken (den er sendt til postmottaket nå), men også for at dere da ev. kan vise til denne bestillingen til Trygderetten for å få utsatt frist/sikre at TR ikke sender over til EFTA*». Det fremgår av korrespondansen at direktoratet allerede var ferdige med sitt brev da «bestillingen» kom, men at bestillingen medførte at frist for tilbakemelding til Trygderetten ble utsatt på nytt. Samme dag ble tilbakemelding til departementet sendt, antatt den samme tilbakemeldingen som ovennevnte utkast av 22. januar.
+
+Deler av brevet er referert i kapittelet for øvrig, men det ble også uttrykt bl.a. at Nav ikke ville ha noen «*reell mulighet til å påvirke en eventuell beslutning fra Trygderettens side om å forelegge saken for EFTA-domstolen*». Videre ble det vist til at:
+
+«Dersom man mener at forordningens artikkel 21 kommer til anvendelse også ved midlertidige utenlandsopphold, synes det klart at man fra norsk side ikke kan opprettholde et generelt vilkår om opphold i Norge, heller ikke dersom utenlandsoppholdene strekker seg ut over en nærmere angitt tidsperiode per kalenderår. Det vil si at man ikke kan avslå å utbetale ytelsen utelukkende med den begrunnelse at mottakere skal oppholde seg utenfor Norge» (medlemmets utheving).
+
+Det ble ytterligere vist til at Trygderetten mente at man ikke kunne ha et krav om forutgående søknad, mens direktoratet vurderte at dette var tillatt, såframt det ikke skjedde forskjellsbehandling mellom EØS-borgere og norske borgere. Det ble videre vist til at:
+
+«Etter direktoratets syn vil det være å foretrekke at man endrer norsk praksis i stedet for å få en avgjørelse fra EFTA-domstolen. *Vi bygger vår oppfatning på at norske myndigheter, ved å endre praksis i større grad vil ha muligheten for selv å vurdere hvilken betydning et midlertidig utenlandsopphold skal ha* for retten til de aktuelle ytelsene enn om vi får en uttalelse fra EFTA-domstolen om betydningen av forordningens artikkel 21. (…)
+
+Direktoratet er kommet til at *norske myndigheters mulighet til selv å vurdere grensene for handlingsrommet e*r større dersom man på eget initiativ ved i større grad å anvende forordningens artikkel 21, endrer praksis slik at den kommer mer i tråd med Trygderettens syn. Dersom saken forelegges EFTA-domstolen *vil vi kunne få en avgjørelse som definerer handlingsrommet snevrere.* Dette vil kunne føre til at Norge må utbetale de aktuelle ytelsene i utlandet i større grad enn om norske myndigheter selv fastlegger rammene for disse utbetalingene» (medlemmets utheving).
+
+Den 30. januar var det et internt møte om saken i departementet, og dagen etter sendte departementet en e-post til direktoratet der de uttrykte usikkerhet ved om det var tilstrekkelig grunnlag til å argumentere for en praksisendring overfor politisk ledelse, *som ønsket å begrense trygdeeksport.* Det er ikke mottatt et referat fra møtet, men ihht. innholdet i mottatt korrespondanse, forstås dette slik at departementet mente at de måtte ha bedre grunnlag for å kunne få gjennomslag for en praksisendring hos politisk ledelse.[^876]
+
+Problemstillingene ser heller ikke ut til å være diskutert i andre møter mellom departementet og direktoratet i det aktuelle tidsrommet.[^877]
+
+Det er noe uklart hva som skjedde i den videre dialogen i februar, men det ble den 18. februar utsendt et utkast til et notat, der ulike personer i departementet kom med innspill/tilbakemeldinger.
+
+Det ferdige notatet, datert den 20. februar var adressert til «*statsråden via departementsråd og statssekretær fra VPA og PA*», og ser ut til å ha blitt sendt til statsråden den 21. februar.
+
+I notatet ble det presisert at personer som bor og jobber i Norge, «*etter langvarig praksis*» har blitt ansett å ikke være innenfor forordningen, henvist til direktoratets brev og konklusjon om at etatens praksis ikke hadde vært i samsvar med trygdeforordningen, og at det ikke var adgang til å stanse eller avslå en kontantytelse «kun» på grunn av opphold i et annet EØS-land, *og at dette gjaldt «ethvert opphold».*
+
+Departementet sluttet seg «på usikkert grunnlag» til vurderingen fra direktoratet om at omleggingen ikke ville medføre vesentlige administrative kostnader.[^878]
+
+Under overskriften: «*Bør praksis endres nå, eller avvente eventuell avklaring fra EFTA-domstolen?*» ble det først vist til den generelle EØS-retten, og at EFTA-domstolen vil legge vekt på fri bevegelighet, og ikke-diskriminering.
+
+Det ble videre vist til uttalelsene i brevet av 24. januar, og
+
+«\[d\]et faktum at etaten har hatt en langvarig og fast praksis på dette området og at den politiske plattformen varsler at regjeringen skal jobbe for ‘tiltak som kan begrense og stanse eksport av velferdsytelser, taler for å avvente en ev. omlegging av praksis til EFTA-domstolen har uttalt seg.
+
+En foreleggelse av saken for EFTA-domstolen kan på den andre siden innebære en viss risiko for at man kan få en uttalelse som definerer handlingsrommet vårt enda snevrere, i den forstand at domstolen ikke bare uttaler seg om hva som ligger i begrepet ‘opphold’ men også uttaler seg om at fortolkningen må legges til grunn også for tidligere avgjorte saker og at Arbeids- og velferdsetaten ikke kan stille krav om å sende inn en søknad eller melde fra ved opphold i utlandet. Dette taler for å legge om praksis nå. Dersom Trygderetten får tilbakemelding om at etaten nå deler Trygderettens rettsoppfatning og vil legge om praksis, vil Trygderetten Trolig ikke be EFTA-domstolen om en uttalelse».
+
+Deretter konkluderte departementet med at praksis måtte endres framover, men at ikke tidligere vedtak skulle endres. Årsaken var at «*\[d\]et vil være svært administrativt krevende om etaten skal gjenoppta alle saker hvor de har avslått søknaden, om disse sakene i det hele tatt kan identifiseres*».
+
+Etter at notatet var sendt til «politisk ledelse», sendte også departementet beskjed til Nav om dette den 20. februar, og varslet at de antok at politisk ledelse ville stille seg bak notatet slik at *det var lurt å utferdige et svar til Trygderetten på forhånd, der Nav burde si at de hadde vurdert praksis nærmere og ville legge denne om i tråd med Trygderettens forståelse*.[^879]
+
+Den 21. februar ga statsråden tilbakemelding på notatet, der det ble vist til at «*Dette er en vanskelig sak. Sett i lys av plattformens formuleringer om trygdeeksport, er dette uheldig. Samtidig er jeg enig i at uttalelse fra domstolen kan innebære risiko*». Hun mente at denne «risikoen» var juristene i departementet mest kompetente til å vurdere.
+
+Overfor utvalget har daværende statsråd gitt uttrykk for at hensikten var at praksis måtte innrettes slik at *Norges EØS-rettslige forpliktelser ble overholdt,* og at det *derfor* ikke var problematisk for henne å slutte seg til embetsverkets vurdering. På spørsmål om «risikoen» ved en uttalelse fra EFTA-domstolen, jf. regjeringsplattformen, ble det vist til at det var bedre å rette opp i feilen med en gang, enn å fortsette en feilpraktisering inntil EFTA-domstolen kom med en tilbakemelding.
+
+Oppsummering/vurderinger
+
+For det første stilles det spørsmål ved vurderingen av det, til tross for konklusjon om *feil praksis*, og senere omtale av at praksis var «hårreisende», ikke var aktuelt å se på avgjorte saker, da dette ville være for ressurskrevende. Det er ikke i den forbindelse nevnt betydningen dette har hatt for enkeltmennesker, selv om man «bare» så hen til tilbakekreving og ikke straffedommer.
+
+Direktoratet vurderte selv at det ikke var snakk om et stort omfang av saker, men samtidig var det i korrespondanse med Trygderetten i januar anslått at det var snakk om 10 saker *hos Trygderetten,* der dette var et tema. Departementet la også til grunn at det hadde vært en *fast og langvarig feilpraktisering.*
+
+Det stilles spørsmål ved notatet av 20. februar, statsrådens tilbakemelding om dette, samt motstriden med det «offisielle» notatet (se neste punkt). Formuleringen i notatet av 20. februar la riktignok opp til en praksisendring som kunne skje langt raskere enn å fastholde praksis inntil en eventuell avklaring fra EFTA-domstolen. Samtidig ser den faktiske begrunnelsen for endringen ut til å være å unngå at EFTA-domstolen «blandet seg inn».
+
+Slik dette medlem oppfatter ordlyden i både brevet fra direktoratet, mail om oversendelse til politisk ledelse, departementets notat og statsrådens uttalelse, ser det nettopp ut til at begrunnelsen for endringen var å omgå EFTA-domstolen, for å unngå at det ble påpekt brudd på EØS-retten over tid, eller at allerede fattede vedtak måtte gjennomgås. Sett opp imot den «offisielle» redegjørelsen i ettertid, tilbakemeldingen til Trygderetten, samt at det i et møte den 13. september 2019, *sju måneder senere,* ble vurdert at det var *usikkert* om det var snakk om feilpraktisering, og at man på dette tidspunkt vurderte å *avvente omleggingen av praksis,* og heller løfte problemstillingen til EFTA-domstolen, blir det vanskelig å se at den reelle begrunnelsen bak omleggingen var å endre feilpraktiseringen så raskt som mulig (se nærmere om dette møtet avslutningsvis i særmerknaden).
+
+Videre behandling av feilpraktiseringen våren 2019, straffesakene
+
+Mandag den 25. februar ble notatet fra departementet sendt ut til styringsenhetene, inkludert Nav kontroll styringsenhet. Det ble i mailen presisert at «*Når departementets brev foreligger må det foretas en avklaring på flere områder* **bla hvordan pågående straffesaker skal håndteres»** (medlemmets utheving). Det ble også videreformidlet øvrig korrespondanse om saken, og betydningen for pågående straffesaker til leder for Nav Kontroll, og andre ansatte i Nav Kontroll.
+
+Det fremgår av korrespondanse den 7. mars, der flere personer i Nav var involvert, at det hadde kommet en henvendelse fra Nav Kontroll vedrørende berammet straffesak i mars, og i e-post den 13. mars, bl.a. til Nav Kontroll styringsenhet, ble det på nytt gitt en detaljert redegjørelse for bl.a. praksisendringen, *og at ytelser ikke kunne avslås kun på bakgrunn av utenlandsopphold.*
+
+Det bemerkes at utvalget har mottatt 15 straffedommer knyttet til utenlandsopphold[^880] avsagt etter oversendelsen til Nav Kontroll styringsenhet den 25. februar. I 9 av disse sakene ble det idømt ubetinget fengsel, i enkelte saker på opptil 6 måneder.
+
+Straffesakene vedrørende utenlandsopphold innen EØS ble, ikke stanset før 7 måneder senere. En av sakene i mellomtiden hadde hele *4 vitner fra Nav,* men ingen tok opp EØS-spørsmål, praksisendringen eller evt. uklarheter i regelverket, jf. omfattende dialog i direktoratet og departementet i løpet av 2019, vedrørende disse problemstillingene.
+
+Den 26. februar, sendte fagkontakten i Nav en kort tilbakemelding til Trygderetten om at departementet hadde gitt sin tilslutning til praksisendring, Nav ba om at den aktuelle saken ble returnert for ny behandling. Notatet av 20. februar eller vurderingene i dette, ble ikke nevnt.
+
+Til tross for beslutning om endring, gikk det svært lang tid før den faktiske praksisendringen ble tatt tak i, og det ser ikke ut til at departementet fulgte opp framdriften i dette. Trygderetten fulgte heller ikke opp dette, men samtidig hadde Nav Klageinstans allerede i desember stanset disse sakene, så Trygderetten fikk antakeligvis ingen indikasjoner på at praksisen ikke allerede var endret. Saken ble derfor ikke løftet til EFTA-domstolen.[^881]
+
+Den 5. mars, sendte departementet sin «offisielle» tilbakemelding til direktoratet, der mye av innholdet i notatet av 20. februar ikke var nevnt.[^882] Det ble i brevet bedt om å vurdere rammer og tiltak som kunne gi etaten bedre kontroll over sakene, herunder krav om søknad eller melding før man reiste til et EØS-land, og eventuelt en presisering av at man uansett ikke hadde rett til sykepenger under ferie.
+
+Oppsummering/vurdering
+
+Ved gjennomgang av dokumentene er det vanskelig å ikke legge merke til den ovennevnte motstriden mellom notatet og den «offisielle» vurderingen av praksisendring, og hva som ble varslet til Trygderetten. Dette underbygger opplevelsen av at formålet med endringen ikke nødvendigvis var å raskest mulig stanse feilpraktisering av EØS-regler for å unngå at enkeltpersoner ble skadelidende, men å unngå oppmerksomhet rundt dette, ressursbruk, og evt. avdekking av feilpraktisering av større omfang, samt økt ressursbruk for forvaltningen.
+
+Selv om det tas betydelig forbehold jf. at dette er medlemmets tolkning av innholdet i gjennomgått materiale, vil en slik handlemåte, dersom denne oppfatningen stemmer, der enkeltborgeres rettigheter og rettssikkerhet nærmest blir tilsidesatt, være svært uheldig.
+
+### Oppfølgingen høsten 2019 og manglende stans av straffesaker
+
+Grunnet svært begrensede rammer for egen gjennomgang av dette, kommenteres ikke prosessen ut over våren/sommeren 2019 i detalj, men det henvises i så måte til den øvrige gjennomgangen i kapittelet. Det bemerkes imidlertid at en reell praksisendring ikke skjedde, og iallfall ikke ble synliggjort utad for brukerne, blant annet under henvisning til vansker med å endre Navs datasystemer, samt at ting bare «ble liggende». Det vises i så måte til særmerknad til kapittel 12 og kapittel 6, og utfordringer med samsvar mellom faktisk praksis, informasjon gitt brukere, tilgjengelig regelverk m.v. og også konsekvenser for personer som f.eks. har avstått fra å kreve ytelser de hadde rett til.
+
+Til tross for at det allerede i februar 2019 ble påpekt utfordringer med pågående straffesaker, og Nav Kontroll i slutten av april 2019 omsider stanset anmeldelsene, ble det fortsatt ikke gjort noe med de allerede pågående straffesakene. Basert på de dommer utvalget har fått oversendt (som antas å eventuelt ikke være uttømmende), ble det *etter* at anmeldelsene stanset avsagt 9 dommer, der det ble idømt ubetinget fengsel i omtrent halvparten. Det ble også i samme periode påbegynt soning av fengselsstraffer i aktuelle saker. Det er framhevet at Nav først sommeren 2019 forsto «alvoret» og at «alarmen gikk». Selv om legges til grunn at de iallfall sommeren 2019 forsto alvoret, ble det heller ikke fra dette tidspunkt stans i pågående straffesaker.
+
+I starten av september 2019 var det, ihht. mottatte e-poster,[^883] økt dialog rundt pågående straffesaker, og håndteringen av disse. Den 2. september sendte leder for Nav Kontroll en e-post til flere ulike personer i ledelsen i Nav, herunder ytelsesdirektøren og kontorsjefen for ytelsesavdelingen, der det ble videreformidlet korrespondanse om straffesaker som måtte gjennomgås, samt at dette ville få betydning for resultatoppnåelse. Samme dag sendte ytelsesdirektøren en e-post til ledelsen i direktoratet (og andre sentrale personer i Nav), der det ble vist til behov for en gjennomgang av saken med departementet. Vedlagt e-posten var en oppsummering av problemstillingen, av arbeidet i Navs arbeidsgruppe m.v.
+
+Morgenen den 3. september responderte ytelsesdirektøren, der hun bl.a. skrev: «*Jeg forutsetter at de har kontroll på straffesaker som skal opp slik at de kan be om utsettelse eller prioritere gjennomgang av disse før de skal opp*» (det antas at «de» er Nav Kontroll, jf. korrespondansen).
+
+Den 9. september innkalte departementet til et møte den 13. september (fra 11:00–12:00) der ledelsen i departementet og direktoratet skulle delta. Temaet var «*EØS-forordning 883/2004*».
+
+Den 10. september sendte en medarbeider i Nav kontroll en e-post til bl.a. ytelsesdirektøren og leder for Nav Kontroll, der hun presiserte at det var berammet en straffesak den 16. september, og en ytterligere sak den 2. oktober. Datoene ble eksplisitt uthevet i e-posten, og det ble presisert: «*I og med at den ene saken er berammet til 16.09,* **haster det svært med en avklaring»**.
+
+Det ble presisert at dersom det ikke senest dagen etter kom en avklaring, ville hun måtte trekke saken med de konsekvenser dette kunne innebære, eksemplifisert til:
+
+«Vi er nødt til å begrunne overfor påtalemyndigheten hvorfor saken må trekkes
+
+Aktuell informasjon vil tilflyte tiltalte, forsvarer og domstolen for øvrig
+
+*Risiko for at saken kommer ut i media*
+
+Risiko for at NAV får henvendelse fra tiltalte/forsvarer med spørsmål om hvordan forvaltningssaken vil bli håndtert, ref. det foreligger et *tilbakebetalingskrav* på totalt 622 783 kroner + rentetillegg.
+
+*Krav om evt. dekning av utgifter* som er påløpt hos tiltalte, forsvarer m.m. hvis saken må treffes» (medlemmenes kursivering).
+
+Det ble også presisert at saken den 2. oktober omhandlet utenlandsopphold der aktivitetsplanen ihht. AAP *ikke* var brutt.[^884] I tilbakemelding fra kontorsjefen i ytelsesavdelingen ble det svart følgende: «*Vi har akkurat fått avklart et møte med ASD på fredag. Vi må ta det derfra*».
+
+Korrespondansen ble videreformidlet til ytelsesdirektøren, som ba om at det ble forberedt en trekking av saken etter møtet den 13., da det antakeligvis ikke ble noen avklaring i møtet.
+
+Samme dag ba kontorsjefen om at pågående straffesaker ble utsatt, og spurte leder for Nav Kontroll (med kopi til ytelsesdirektøren), om han kunne kontakte påtalemyndigheten og be om utsettelse.
+
+Til møtet den 13. september hadde ytelsesdirektøren forberedt en PowerPoint-presentasjon av saken. I denne ble det vist til rettigheter etter forordningens artikkel 21, og at Nav i liten grad hadde vurdert disse, men kun forholdt seg til folketrygdloven. Det ble vist til mulige konsekvenser, herunder tilbakebetalingskrav og straffedommer, og presisert at artikkel 21 får betydning både for kortere og lengre opphold i EØS. Som mulige «scenario» framover ble det vist til
+
+1.  Praksisendring framover i tid – herunder at berammede straffesaker måtte trekkes
+
+<!-- -->
+
+9.  Dersom ASD vurderte at det forelå en rettsanvendelsesfeil måtte konsekvensen bli at fattede vedtak var ugyldige og måtte omgjøres, samt at berammede straffesaker måtte trekkes.
+
+10. Dersom ASD likevel ikke ønsket endring av praksis, måtte Trygderetten varsles. Trygderetten ville da antakeligvis fortsette å omgjøre vedtak, og det ville bli snakk om at spørsmålet måtte forelegges EFTA-domstolen.
+
+Det er ikke mottatt noe referat fra møtet, men det ser etter det ovennevnte ut til at et hovedtema var om det likevel ikke skulle foretas den praksisendringen som departementet konkluderte med i februar, og som også ble varslet om til Trygderetten.
+
+Det ser ikke ut til at det ble gitt den forutsatte raske tilbakemeldingen til saksbehandleren i Nav Kontroll, som i e-posten den 10. september ba om dette, men det har i ettertid vært «samtale» om dette jf. tilbakemeldingen som først 15:56 den 13. september ble gitt fra leder for Nav Kontroll:
+
+«Hei. Viser til samtale i ettermiddag om berammede straffesaker om trygdebedrageri begrunnet i utenlandsopphold i EØS-området.
+
+NAV kontroll *ber ikke om utsettelse av sak berammet førstkommende mandag.* Vi har ansatte som skal vitne i den saken. *Dersom det kommer opp spørsmål i saken om rettstilstand* må vårt vitne nødvendigvis forklare at rettstilstanden er til avklaring \[…\]
+
+Avgjørende for min beslutning er at både direktoratet og departementet etter dagens møte *fortsatt er i tvil om det reelt sett dreier seg om rettsanvendelsesfeil,* og vil be Regjeringsadvokaten om vurdering av dette. Vurderingen forutsettes etter det opplyste også å omfatte spørsmålet om Norge skal la saken prøves for EØS-domstolen» (medlemmets kursivering).
+
+Ifølge den informasjon utvalget har fått, ble også statsråden varslet om dette samme dag. Den påfølgende helgen var det også dialog rundt oppfølgingen av saken, forestående møter i ledelsen i Nav tidlig mandag morgen m.v., men det ble kun vist til beslutningen om å ikke utsette saken, og ikke diskutert nærmere en oppfølging av dette. I dialog søndag morgen viste direktøren i ytelsesavdelingen til kontakten med departementet, og at saken måtte løftes da det var en prinsipiell vurdering, og at det ble arbeidet med «medieberedskap».
+
+Mandag den 16. september, samtidig som en person møtte i retten tiltalt for trygdebedrageri grunnet opphold i EØS-land, var det både møter innad i Nav, herunder i ledelsen, samt omfattende dialog mellom ulike personer i direktoratet *der det var stort fokus på å klargjøre en eventuell uttalelse til pressen ved eventuell henvendelse,* men ingen dialog rundt pågående straffesak.
+
+Oppsummering/vurdering
+
+Slik det fremstår for dette medlem ble det i møtet, initiert av ekspedisjonssjef i departementet, vurdert at man likevel ikke var sikre på om det forelå en rettsanvendelsesfeil, til tross for vurderingene i februar. Ettersom departementet og direktoratet plutselig 7 måneder senere vurderte at man *heller* skulle forelegge saken for EFTA-domstolen, underbygger dette for det første at departementet selv ikke kan ha vurdert denne praksisen som «hårreisende». Videre underbygger dette at det heller ikke var tidsmessige årsaker som medførte at man ønsket å avverge at Trygderetten løftet problemstillingene til EFTA-domstolen, slik de vurderte å gjøre nærmere et år forut for dette møtet, etter gjentatte tilbakemeldinger om vurdering av feilpraktisering av reglene. Det at også fokus i september kan se ut til å ha vært kostnader, negativ medieoppmerksomhet og ressursbruk, er ytterligere bekymringsfullt ettersom det iallfall på dette tidspunkt var helt klart at det var snakk om muligheter for uriktige straffedommer, men man likevel valgte å la saken den 16. september gå som berammet.
+
+Selv om det i etterkant er påstått at den aktuelle straffesaken *gikk som tilståelsessak,* og at det derfor ikke var rom for vitnemål fra Nav, har dette medlem ikke funnet informasjon om *hvem* som skulle vitne, om vedkommende visste om «usikkerheten» rundt rettsanvendelsesfeil m.v. Saken gikk ikke som tilståelsessak, men det antas at vitner evt. ble frafalt som følge av at tiltalte erklærte seg skyldig.
+
+Det var uansett lagt opp til at vitnet fra Nav kun skulle uttale seg om uklarheten i regelverket *dersom det kom opp slikt spørsmål,* og således ikke at vedkommende skulle ta opp dette uoppfordret.
+
+I samtale med utvalget har leder for Nav Kontroll forsvart beslutningen om å ikke stanse saken med at de *ikke trodde at det var mulig å stanse saken sent på ettermiddagen,* fredag den 13. september. Dette selv om møtet med departementet ifølge innkallingen skulle være ferdig klokken 12:00.
+
+Ut ifra dette medlems kjennskap til domstolene, ville saken ha blitt stanset *umiddelbart,* underveis i behandlingen om så, dersom domstolen ble varslet om mulig regelanvendelsesfeil som kunne få betydning for straffbarheten. Det antas videre at dersom forsvarer og/eller aktor hadde fått informasjon, evt. en kort e-post fra Nav om så, ville disse også umiddelbart ha tatt tak i dette.
+
+Saken hadde både først blitt henlagt, deretter gjenopptatt etter klage fra Nav, samt utsatt tidligere grunnet tiltaltes helse, og det antas at Nav kjente både saken, tiltalte og evt. forsvarer. Mulighetene for å på enkel måte varsle *noen* som kunne fått stanset saken var således klart til stede.
+
+Videre ble dommen først avsagt den 17. september, noe som innebærer at Nav, også etter at de visste at vitnet fra Nav ikke avga forklaring, kunne ha varslet noen av aktørene om dette.
+
+Den 17. september ble imidlertid tiltalte i saken dømt til betinget fengsel. Det ble lagt til grunn at ubetinget fengsel i utgangspunktet skulle idømmes, men at det forelå brudd på EMK art. 6, samt individuelle forhold hos tiltalte, som medførte straffereduksjon, og at fengselsstraffen ble gjort betinget.
+
+Det ser derfor ut til at både direktoratet, departementet og politisk ledelse valgte å la en person bli dømt for grovt trygdebedrageri, med stor fare for en eventuell ubetinget fengselsstraff, istedenfor å først og fremst forsikre seg om at ingen ble dømt for handlinger som *muligens* ikke var straffbare. Dette er i så fall svært alvorlig.
+
+### Generelle vurderinger/ læringspunkter
+
+For dette medlem har det vært ønskelig å belyse det ovennevnte, først og fremst for å unngå at noe slikt kan skje igjen. Det er videre viktig at det tas ansvar for de vurderinger, prioriteringer og konklusjoner som har fått alvorlige konsekvenser for enkeltpersoners liv. Det presiseres på nytt at medlemmet har hatt svært begrensede muligheter til å gjennomgå alt av dokumenter i saken, herunder e-poster fra de tre e-postkontoene. Ettersom det også kun er snakk om e-poster til/fra tre personer i Nav, er dette heller ikke uttømmende for saken.
+
+Mange sider av utfordringer i sakskomplekset og årsaker til feilpraktisering, samt årsaker til feilaktige straffedommer, er belyst gjennom øvrige vurderinger i rapporten, herunder særlig utfordringer med ansvarsfordeling, dialog, manglende styring, manglende tilpasning i regelverk m.v.
+
+Det må imidlertid også presiseres at det *ikke* er godt nok dersom forvaltningen (herunder Nav), setter hensyn til negativ oppmerksomhet og/eller ressursbruk foran hensynet til rettssikkerheten.
+
+Hensynet til rettssikkerheten, og å først og fremst sikre at ingen dømmes uten lovhjemmel følger ikke bare av grunnprinsipper i norsk rett, men av overordnede menneskerettigheter. De årsaker som er oppgitt som grunnlag for å ikke stanse pågående straffesaker oppleves derfor som utilstrekkelige. Dersom det var *usikkert* om handlingene var straffbare, burde *ingen av de involverte* unnlate å avverge en *mulig u*riktig domfellelse.
+
+Videre er det ikke godt nok, dersom politisk ledelse, som til og med i regjeringsplattformer presiserer et ønske om et tett samarbeid med EU/EØS, og overholdelse av Norges internasjonale forpliktelser, samtidig forsøker å unngå at EFTA-domstolen påpeker brudd med EØS-retten, og/eller lar en mulig feilpraktisering og pågående mulig feilaktige straffesaker fortsette i lengre tid, uten at noe skjer. Slik dette medlem har oppfattet dialogen var det fryktet at EFTA-domstolen ville konkludere med at Norges feilpraktisering var mer omfattende, og at det viktigste var å unngå at Trygderetten derfor løftet problemstillingen til EFTA-domstolen. Selv om Trygderetten ble varslet om at endringen ville skje, og derfor ikke løftet problemstillingen til EFTA-domstolen, ble det sju måneder senere vurdert at denne endringen (som fortsatt ikke hadde skjedd), kanskje ikke skulle skje likevel… Henvisningen til at det ville ta for lang tid å vente på domstolens avklaring blir derfor litt påfallende, ettersom praksis fortsatt så ut til å ikke være endret, nærmere ett år etter Trygderettens brev i november 2018.
+
+Uavhengig av ståsted til EØS/EU, må norske myndigheter forholde seg til gjeldende internasjonale forpliktelser, og dersom det eventuelt er ønskelig å unngå innblanding fra EFTA-domstolen, må eventuelt EØS-avtalen endres.
+
+For øvrig oppleves det at det ser ut til å mangle muligheter til å «trykke på alarmknappen» dersom enkeltpersoner, etater m.v. ser at det kan være snakk om alvorlige feil i lovverket og/eller praksis i forvaltningen. Det burde på et langt tidligere tidspunkt ha vært «slått alarm», og det burde finnes mekanismer for en umiddelbar varsling til nødvendige instanser, herunder påtalemyndigheten, dersom det kan være noen form for tvil om grunnlag for eventuelle pågående straffesaker.
+
+Referanse- og litteraturliste
+
+Der det i utredningen er referert til konkrete avgjørelser, rettsregler, publikasjoner eller litteratur, er fullstendige henvisninger til disse kildene inntatt under.
+
+Litteratur, artikler, tidsskrifter
+
+02N1xx2
+
+<table>
+<colgroup>
+<col style="width: 44%" />
+<col style="width: 55%" />
+</colgroup>
+<thead>
+<tr>
+<th>Forfatter</th>
+<th>Tittel, forlag/medie mm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Andresen, Martin</td>
+<td>«Koordinering av trygdeytelser i EØS-området» i <em>Trygd og pensjon i EØS.</em> Biørn Bogstad (red.) Oslo: Gyldendal, 2015, s. 19–37.</td>
+</tr>
+<tr>
+<td>Andresen, Martin</td>
+<td>«Kontantytelser ved sykdom og svangerskap/fødsel» i <em>Trygd og pensjon i EØS.</em> Biørn Bogstad (red.) Oslo: Gyldendal, 2015, s. 95–107.</td>
+</tr>
+<tr>
+<td>Arnesen, Finn og Are Stenvik</td>
+<td><em>Internasjonalisering og juridisk metode.</em> 2. utg., Oslo:<br />
+Universitetsforlaget, 2015.</td>
+</tr>
+<tr>
+<td>Backer, Inge Lorange</td>
+<td><em>Lov og lovgivning: artikler og foredrag</em>. Oslo: Universitetsforlaget, 2013.</td>
+</tr>
+<tr>
+<td>Bakke, Olaug Kristine</td>
+<td>«Kommentar til folketrygdloven» i <em>Norsk lovkommentar</em>, Gyldendal Rettsdata 2017. Hentet 10. juni 2020.</td>
+</tr>
+<tr>
+<td>Bekkedal, Tarjei</td>
+<td>«Nav-saken, likebehandlingsprinsippet og retten til fri bevegelighet» <em>Lov og rett</em> Vol. 59, nr. 4 (2020), s. 191–212.</td>
+</tr>
+<tr>
+<td>Bjerke, Hans Kristian, Erik Keiserud<br />
+og Knut Erik Sæther</td>
+<td><em>Straffeprosessloven: Kommentarutgave: Bind 1.</em> 4. utg., Oslo: Universitetsforlaget, 2011.</td>
+</tr>
+<tr>
+<td>Boe, Erik Magnus</td>
+<td>«Navs veilednings- og opplysningsplikt» i Cand.mag., cand.med., cand.jur., cand.alt: Festskrift til Aslak Syse 70 år. Reidun Førde, Morten Kjelland og Ulf Stridbeck (red.), Oslo: Gyldendal Juridisk 2016.</td>
+</tr>
+<tr>
+<td>Bogstad, Biørn (red.)</td>
+<td><em>Trygd og pensjon i EØS</em>. Oslo: Gyldendal, 2015.</td>
+</tr>
+<tr>
+<td>Eckhoff, Torstein og Eivind Smith</td>
+<td><em>Forvaltningsrett.</em> 11. utg., Oslo: Universitetsforlaget, 2018.</td>
+</tr>
+<tr>
+<td>Eckhoff, Torstein</td>
+<td><em>Rettskildelære</em>. 4. utg., ved Jan E. Helgesen, Oslo: Universitetsforlaget, 1997.</td>
+</tr>
+<tr>
+<td>Eriksen, Christoffer Conrad<br />
+og Halvard Haukeland Fredriksen</td>
+<td><em>Norges europeiske forvaltningsrett,</em> Oslo: Universitetsforlaget, 2019.</td>
+</tr>
+<tr>
+<td>Fløistad, Karin</td>
+<td><em>The EEA Agreement in a Revised EU Framework of Welfare Services</em>. Cham: Springer, 2018.</td>
+</tr>
+<tr>
+<td>Fløistad, Karin</td>
+<td>Article 28 and 29, i <em>Agreement on the Euopean Economic Area: A Commentary.</em> Arnesen, Finn, Halvard Haukeland Fredriksen, Hans Petter Graver, Ola Mestad, Christoph Vedder (red.), Baden-Baden, C.H. Beck, Hart, Nomos, Universitetsforlaget, 2018.</td>
+</tr>
+<tr>
+<td>Fredriksen, Halvard Haukeland<br />
+og Gjermund Mathisen</td>
+<td><em>EØS-rett.</em> 3. utg., Bergen: Fagbokforlaget, 2018.</td>
+</tr>
+<tr>
+<td>Fredriksen, Halvard Haukeland</td>
+<td>«Tvisteloven og EØS-avtalen» <em>Tidsskrift for Rettsvitenskap</em> Vol. 121, nr. 3 (2008), s. 289–359.</td>
+</tr>
+<tr>
+<td>Fredriksen, Halvard Haukeland</td>
+<td><em>EU/EØS-rett i norske domstoler.</em> Rapport # 3 fra Europautredningen, Oslo, 2011.</td>
+</tr>
+<tr>
+<td>Fuchs, Maximilian og Rob Cornelissen (red.)</td>
+<td><em>EU Social Security Law – A Commentary on EU Regulations 883/2004 and 987/2009.</em> Baden-Baden: Beck/Hart, 2015.</td>
+</tr>
+<tr>
+<td>Gröning, Linda, Erling Johannes Husabø og Jørn Jacobsen</td>
+<td><em>Frihet, forbrytelse og straff: En systematisk fremstilling av norsk strafferett.</em> 2. utg., Bergen: Fagbokforlaget, 2019.</td>
+</tr>
+<tr>
+<td>Haider, Imran</td>
+<td>«Bokanmeldelse: Gudrun Holgersen: Arbeidsavklaringspenger og trygdeytelser» <em>Tidsskrift for erstatningsrett, forsikringsrett og trygderett</em> Vol. 13, nr. 3 (2016) s. 230–236.</td>
+</tr>
+<tr>
+<td>Hasfjord, Kjersti</td>
+<td>«Sykepenger m. m.» i <em>Trygdeytelser i Europa: vandrearbeideres rett til ytelser fra ulike europeiske trygdeordninger etter forordning (EØF) 1408/71</em>. Asbjørn Kjønstad (red.), Oslo: Gyldendal, 1999, s. 77–88.</td>
+</tr>
+<tr>
+<td>Holgersen, Gudrun</td>
+<td><em>Arbeidsavklaring og trygdeytelser.</em> Bergen: Fagbokforlaget, 2015.</td>
+</tr>
+<tr>
+<td>Holgersen, Gudrun</td>
+<td>«Kommentar til folketrygdloven» i <em>Norsk lovkommentar</em>, Gyldendal Rettsdata 2019. Hentet 10. juni 2020.</td>
+</tr>
+<tr>
+<td>Horspool, Margot, Matthew Humphreys og Michael Wells-Greco</td>
+<td><em>European Union Law.</em> 10. utg., Oxford: Oxford University Press, 2018.</td>
+</tr>
+<tr>
+<td>Irgens-Jensen, Harald (red.)</td>
+<td><em>Knophs oversikt over Norges rett.</em> 15. utg., Oslo: Universitetsforlaget, 2019.</td>
+</tr>
+<tr>
+<td>Jünge, Lisa-Mari Moen</td>
+<td>«EØS-rettens tjenere – om norske domstolers plikt til å anvende EØS-retten ex officio» <em>MarIus</em> nr. 487, Oslo: Sjørettsfondet, 2017.</td>
+</tr>
+<tr>
+<td>Kane, Aina</td>
+<td>«Navs begrunnelser av enkeltvedtak. Hvilke forhold kan påvirke utformingen av Navs enkeltvedtak, og hvilke konsekvenser kan det ha for brukernes rettssikkerhet?» <em>Tidsskrift for velferdsforskning</em> Årg. 21, nr. 4 (2018), s. 313–329.</td>
+</tr>
+<tr>
+<td>Kjønstad, Asbjørn (red.)</td>
+<td><em>Trygdeytelser i Europa: vandrearbeideres rett til ytelser fra ulike europeiske trygdeordninger etter forordning (EØF) 1408/71</em>. Oslo: Gyldendal, 1999.</td>
+</tr>
+<tr>
+<td>Kjønstad, Asbjørn, Aslak Syse<br />
+og Morten Kjelland</td>
+<td><em>Velferdsrett I: Grunnleggende rettigheter, rettssikkerhet og tvang</em>. 6. utg., Oslo: Gyldendal, 2017.</td>
+</tr>
+<tr>
+<td>Kjønstad, Asbjørn</td>
+<td><em>Innføring i Trygderett.</em> 5. utg., ved Imran Haider, Oslo: Universitetsforlaget, 2018.</td>
+</tr>
+<tr>
+<td>Matningsdal, Magnus</td>
+<td>«Kontradiksjon i sivile saker og straffesaker» <em>Jussens venner</em> Vol. 48, nr. 01-02 (2013), s. 1–115.</td>
+</tr>
+<tr>
+<td>Matningsdal, Magnus</td>
+<td><em>Norsk spesiell strafferett.</em> 2. utg., Bergen, Fagbokforlaget, 2016.</td>
+</tr>
+<tr>
+<td>Matningsdal, Magnus</td>
+<td>«Tilståelsesdom» <em>Jussens venner</em> Vol. 42, nr. 5. (2007)<br />
+s. 251–272.</td>
+</tr>
+<tr>
+<td>Matningsdal, Magnus</td>
+<td><em>Straffeloven: Alminnelige bestemmelser: Kommentarutgave</em>. Oslo, Universitetsforlaget, 2015.</td>
+</tr>
+<tr>
+<td>Narvland, Runar</td>
+<td><em>Trygderett i et nøtteskall.</em> 2. utg., Oslo: Gyldendal, 2018.</td>
+</tr>
+<tr>
+<td>Narvland, Runar</td>
+<td>«Kommentar til folketrygdloven» i <em>Norsk lovkommentar</em>, Gyldendal Rettsdata 2020. Hentet 10. juni 2020.</td>
+</tr>
+<tr>
+<td>Sejersted, Fredrik, Finn Arnesen,<br />
+Ole-Andreas Rognstad, Sten Foyn<br />
+og Olav Kolstad</td>
+<td><em>EØS-rett.</em> 1. utg., Oslo: Universitetet i Oslo, Senter for Europarett, 1995.</td>
+</tr>
+<tr>
+<td>Sejersted, Fredrik, Finn Arnesen,<br />
+Ole-Andreas Rognstad, Sten Foyn<br />
+og Olav Kolstad</td>
+<td><em>EØS-rett</em>. 2. utg., Oslo: Universitetsforlaget, 2004.</td>
+</tr>
+<tr>
+<td>Sejersted, Fredrik, Finn Arnesen,<br />
+Ole-Andreas Rognstad<br />
+og Olav Kolstad</td>
+<td><em>EØS-rett</em>. 3. utg., Oslo: Universitetsforlaget, 2011.</td>
+</tr>
+<tr>
+<td>Strandbakken, Asbjørn</td>
+<td>«Retten til bistand av forsvarer ved politiavhør. En kritisk vurdering av Rt. 2015 s. 844 og forslaget til ny straffeprosesslov» i <em>Straff og frihet: Til vern om den liberale rettsstat: Festskrift til Tor-Aksel Busch.</em> Knut Erik Sæther, Runar Torgersen, Ulf Stridbeck og Kjerstin A. Kvande (red.),<br />
+Oslo: Gyldendal, 2019, s. 559–578.</td>
+</tr>
+<tr>
+<td>Svele, Ane-Louise</td>
+<td>«Arbeidsavklaringspenger – en ny ytelse fra folketrygden», <em>Tidsskrift for Erstatningsrett, forsikringsrett og velferdsrett</em> Vol 7, nr 01–02 (2010), s. 42–75.</td>
+</tr>
+<tr>
+<td>Troberg, Peter</td>
+<td>Troberg i <em>Kommentar zum EU-/EG-Vertrag.</em> Hans von der Groeben, Jochen Thiesing og Claus-Dieter Ehlermann red., 5. utg., Baden-Baden: Nomos, 1997.</td>
+</tr>
+<tr>
+<td>Wennerås, Pål</td>
+<td>Article 6 Homogeneity, i <em>Agreement on the European Economic Area: A Commentary</em>, Arnesen, Finn, Halvard Haukeland Fredriksen, Hans Petter Graver, Ola Mestad, Christoph Vedder (red.), Baden-Baden, C.H.Beck, Hart, Nomos, Universitetsforlaget, 2018.</td>
+</tr>
+<tr>
+<td>Westerhäll, Lotta</td>
+<td>«Grunnprinsipper om koordinering av trygdeytelser» i <em>Trygdeytelser i Europa: vandrearbeideres rett til ytelser fra ulike europeiske trygdeordninger etter forordning (EØF) 1408/71</em>. Asbjørn Kjønstad red., Oslo: Gyldendal, 1999, s. 21–40.</td>
+</tr>
+<tr>
+<td>Øyen, Ørnulf</td>
+<td><em>Straffeprosess</em>. 2. utg., Bergen: Fagbokforlaget, 2019.</td>
+</tr>
+</tbody>
+</table>
+
+Lovgivning
+
+Norske lover og forskrifter
+
+02N0xx2
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 89%" />
+</colgroup>
+<thead>
+<tr>
+<th>1814</th>
+<th>Lov 17. mai 1814 Kongeriket Norges grunnlov (Grunnloven).</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1902</td>
+<td>Lov 22. mai 1902 nr. 10 almindelig borgerlig straffelov (Straffeloven) [opphevet].</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>Lov 13. august 1915 nr. 5 om domstolene (domstolloven).</td>
+</tr>
+<tr>
+<td>1949</td>
+<td>Lov 28. juli 1949 nr. 26 om Statens pensjonskasse.</td>
+</tr>
+<tr>
+<td>1962</td>
+<td>Forskrift 9. mai 1962 nr. 1 Instruks for Regjeringsadvokaten.</td>
+</tr>
+<tr>
+<td>1965</td>
+<td>Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven).</td>
+</tr>
+<tr>
+<td>1966</td>
+<td>Lov 16. desember 1966 nr. 9 om anke til Trygderetten (trygderettsloven).</td>
+</tr>
+<tr>
+<td>1966</td>
+<td>Lov 17. juni 1966 nr. 12 om folketrygd [opphevet].</td>
+</tr>
+<tr>
+<td>1980</td>
+<td>Lov 13. juni 1980 nr. 35 om fri rettshjelp [rettshjelploven].</td>
+</tr>
+<tr>
+<td>1981</td>
+<td>Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven).</td>
+</tr>
+<tr>
+<td>1985</td>
+<td>Forskrift 28. juni 1985 nr. 1679 om ordningen av påtalemyndigheten (påtaleinstruksen).</td>
+</tr>
+<tr>
+<td>1992</td>
+<td>Lov 27. november 1992 nr. 109 om gjennomføring i norsk rett av hoveddelen i avtale om<br />
+Det europeiske økonomiske samarbeidsområde (EØS) m. v. (EØS-loven).</td>
+</tr>
+<tr>
+<td>1992</td>
+<td>Forskrift 4. desember 1992 nr. 914 om inkorporasjon av trygdeforordningen i EØS-avtalen.</td>
+</tr>
+<tr>
+<td>1997</td>
+<td>Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</td>
+</tr>
+<tr>
+<td>1997</td>
+<td>Forskrift 3. desember 1997 om salær fra det offentlige til advokater m.v.</td>
+</tr>
+<tr>
+<td>1998</td>
+<td>Forskrift 16. september 1998 nr. 890 om dagpenger under arbeidsløshet.</td>
+</tr>
+<tr>
+<td>1999</td>
+<td>Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettighetsloven).</td>
+</tr>
+<tr>
+<td>2001</td>
+<td>Lov 2. mars 2001 nr. 7 om endring i straffeloven og straffeprosessloven (bruken av varetektsfengsling m.v.).</td>
+</tr>
+<tr>
+<td>2004</td>
+<td>Lov 28. mai 2004 nr. 29 om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterloven).</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>Lov 20. mai 2005 nr. 28 om straff (straffeloven).</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven).</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>Forskrift 12. desember 2005 nr. 1442 om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) ved fri rettshjelp og i straffesaker.</td>
+</tr>
+<tr>
+<td>2006</td>
+<td>Lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) [NAV-loven].</td>
+</tr>
+<tr>
+<td>2006</td>
+<td>Forskrift 30. juni 2006 nr. 731 om inkorporasjon av trygdeforordningene i EØS-avtalen [opphevet].</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>Forskrift 22. juni 2012 nr. 585 om inkorporasjon av trygdeforordningene i EØS-avtalen<br />
+(trygdeforordningsforskriften).</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>Forskrift 7. juni 2012 nr. 518 Stortingets forretningsorden.</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>Forskrift 19. februar 2016 nr. 184 Instruks om utredning av statlige tiltak (utredningsinstruksen).</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>lov 16. juni 2017 nr. 43 om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv).</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>Lov 15. juni 2018 nr. 38 om behandling av personopplysninger (personopplysningsloven).</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>Lov 20. desember 2019 nr. 85 om informasjonstilgang mv. for utvalget for ekstern gransking av saken knyttet til feilaktig praktisering av adgangen til å motta sykepenger, arbeidsavklaringspenger og pleiepenger ved opphold i et annet EØS-land.</td>
+</tr>
+</tbody>
+</table>
+
+Traktater og konvensjoner
+
+02N0xx2
+
+| ODA | *Avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol.* Oporto, 2. mai 1992. |
+|----|----|
+| EØS-avtalen | *Avtale om Det europeiske økonomiske samarbeidsområde.* Oporto, 2. mai 1992. |
+| EMK | *Konvensjon om beskyttelse av menneskerettighetene og de grunnleggende friheter.* Roma, 4. november 1950. |
+| SP | *Den internasjonale konvensjonen om sivile og politiske rettigheter.* New York, 16. desember 1966. (FN-konvensjonen om sivile og politiske rettigheter). |
+| TEUF | Traktat om den Europæiske Unions funktionsmåde. Konsolidert udgave 2016 (EUT 2016/C 202/01). |
+| Statutten for den europeiske unions domstol | Protokol nr. 3 til TEUF, Statutten for den europæiske unions domstol. |
+
+Direktiver og forordninger
+
+02N0xx2
+
+<table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 72%" />
+</colgroup>
+<thead>
+<tr>
+<th>Forordning 1612/68</th>
+<th>Rådsforordning (EØF) nr. 1612/68 av 15. oktober 1968 om fri bevegelighet for arbeidstakere innen Fellesskapet.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Forordning 1408/71</td>
+<td>Rådsforordning (EØF) nr. 1408/71 av 14. juni 1971om anvendelsen av trygdeforordninger på arbeidstakere og deres familiemedlemmer som flytter innenfor Fellesskapet.</td>
+</tr>
+<tr>
+<td>Direktiv 73/148/EØF</td>
+<td>Rådsdirektiv (EØF) nr. 73/148 av 21. mai 1973 om opphevelse av reise- og oppholdsrestriksjoner innen Felleskapet for statsborgere i medlemsstatene med hensyn til etablering og tjenesteytelse.</td>
+</tr>
+<tr>
+<td>Forordning 883/2004</td>
+<td>Europaparlaments- og Rådsforordning (EF) nr. 883/2004 av 29. april 2004 om koordinering av trygdeordninger [trygdeforordningen].</td>
+</tr>
+<tr>
+<td>Direktiv 2004/38/EF</td>
+<td>Europaparlamentets- og Rådsdirektiv (EF) 2004/38 av 29. april 2004<br />
+om unionsborgere og deres familiemedlemmers rett til å ferdes og<br />
+oppholde seg fritt på medlemsstatenes territorium, om endring av<br />
+forordning (EF) nr. 1612/68 og om oppheving av direktiv 64/221/EØF, 68/360/EØF, 72/194/EØF, 73/148/EØF, 75/34/EØF, 75/35/EØF, 90/364/EØF, 90/365/EØF og 93/96/EØF [unionsborgerdirektivet].</td>
+</tr>
+<tr>
+<td>Forordning 987/2009</td>
+<td>Europaparlaments- og Rådsforordning (EF) nr. 987/2009 av<br />
+16. september 2009 om fastsettelse av nærmere regler for gjennomføring av forordning (EF) nr. 883/2004 om koordinering av trygdeordninger.</td>
+</tr>
+<tr>
+<td>Forordning 2016/679</td>
+<td>Europaparlaments- og Rådsforordning (EU) 2016/679 av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv 95/46/EF (generell personvernforordning)</td>
+</tr>
+</tbody>
+</table>
+
+For- og etterarbeider
+
+02N1xx2
+
+| Dato/referanse | Tittel |
+|----|----|
+| Innst. O. nr. 46 (1996–1997) | Innstilling fra sosialkomiteen om ny lov om folketrygd (folketrygdloven) m.v. |
+| Innst. S. nr. 210 (2002–2003) | Innstilling fra kontroll- og konstitusjonskomiteen om rapport til Stortinget fra utvalget til å utrede Stortingets kontrollfunksjon. Stortingets kontroll med regjering og forvaltning. |
+| Innst. S. nr. 296 (1995–1996) | Innstilling fra kontroll- og konstitusjonskomiteen om statsrådets protokoller for tidsrommet 1. juli – 31. desember 1995. |
+| NOU 1990: 20 | Forenklet folketrygdlov. |
+| NOU 1992: 32 | Bedre struktur i lovverket. Lovstrukturutvalgets delutredning II. |
+| NOU 2012: 2 | Utenfor og innenfor. Norges avtaler med EU. |
+| NOU 2016: 24 | Ny straffeprosesslov. |
+| NOU 2019: 5 | Ny forvaltningslov – Lov om saksbehandlingen i offentlig forvaltning (forvaltningsloven). |
+| NOU 2020: 5 | Likhet for loven – Lov om støtte til rettshjelp (rettshjelpsloven). |
+| Ot.prp. nr. 22 (2008–2009) | Om lov om endring i straffeloven 20. mai 2005 nr. 28 (siste delproposisjon – sluttføring av spesiell del og tilpasning av annen lovgivning). |
+| Ot.prp. nr. 29 (1995–96) | Om ny lov om folketrygd (folketrygdloven). |
+| Ot.prp. nr. 4 (2008–2009) | Om lov om endringer i folketrygdloven og i enkelte andre lover (arbeidsavklaringspenger, arbeidsevnevurderinger og aktivitetsplaner). |
+| Ot.prp. nr. 5 (1966–67) | Om lov om anke til Trygderetten og lov om endringer i lov av 17. juni 1966 om folketrygd og andre trygde- og pensjonslover. |
+| Ot.prp. nr. 51 (2004–2005) | Om lov om mekling og rettergang i sivile tvister (tvisteloven). |
+| Ot.prp. nr. 66 (2001–2002) | Om lov om endring i straffeprosessloven mv. (hurtigere straffesaksbehandling, varetektsfengsling i isolasjon mv.). |
+| Ot.prp. nr. 68 (1976–77) | Om lov om endring av lov av 17. juni 1966 nr. 12 om folketrygd. |
+| Ot.prp. nr. 8 (1996–97) | Om lov om endringer i folketrygdloven og i enkelte andre lover (Oppfølging av Velferdsmeldingen). |
+| Ot.prp. nr. 90 (2003–2004) | Om lov om straff (straffeloven). |
+| Ot.prp. nr. 99 (1991–92) | Om lov om endringer i lov 17 juni 1966 nr 12 om folketrygd (Trygdedekning, pensjonsopptjening og pensjonsberegning for personer med utenlandsopphold i yrkesaktiv alder). |
+| PRE-2012-06-22-585 | Statsrådsforedrag: Forskrift 22. juni 2012 nr. 585 om inkorporasjon av nye trygdeforordninger i norsk rett. Kongelig resolusjon. Statsråd Hanne Inger Bjurstrøm. |
+| Prop. 139 L (2014– 2014) | Endringer i lov om anke til Trygderetten (lovrevisjon). |
+| Prop. 48 L (2016–2017) | Endringer i folketrygdloven mv. (pleiepenger ved pleie av syke barn). |
+| Prop. 74 L (2016–2017) | Endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv.). |
+| St.meld. nr. 26 (2008–2009) | Om offentleg rettshjelp – Rett til hjelp |
+| St.prp. nr. 100 (1991–92) | Om samtykke til ratifikasjon av Avtale om Det europeiske økonomiske samarbeidsområde (EØS), undertegnet i Oporto 2. mai 1992. |
+| St.prp. nr. 100 (1991–92) | Om samtykke til ratifikasjon av Avtale om Det europeiske økonomiske samarbeidsområde (EØS). |
+
+Rettspraksis mv.
+
+Rettspraksis fra Høyesterett
+
+02N1xx2
+
+| År   | Referanse                                            |
+|------|------------------------------------------------------|
+| 1990 | Rt. 1990 s. 801                                      |
+| 1995 | HR-1995-87-B (Rt. 1995 s. 945)                       |
+| 2001 | HR-2000-49-B (Rt. 2000 s. 1811 *Finanger I)*         |
+| 2005 | HR-2005-2000-A (Rt. 2005 s. 1757 *Skyggekjennelsen)* |
+| 2006 | HR-2006-1150-A (Rt. 2006 s. 853)                     |
+| 2007 | HR-2008-1840-A (Rt. 2007 s. 1040)                    |
+| 2008 | HR-2008-1840-A (Rt. 2008 s. 1386)                    |
+| 2009 | HR-2009-81-A (Rt. 2009 s. 22)                        |
+|      | HR-2009-1336-A (Rt. 2009 s. 872)                     |
+| 2012 | HR-2012-409-A (Rt. 2012 s. 313)                      |
+|      | HR-2012-810-A (Rt. 2012 s. 622)                      |
+|      | HR-2012-97-U                                         |
+| 2013 | HR-2013-650-A (Rt. 2013 s. 416)                      |
+| 2014 | HR-2014-808-U                                        |
+| 2015 | HR-2015-1405-A (Rt. 2015 s. 844)                     |
+| 2016 | HR-2016-1648-U                                       |
+|      | HR-2016-2554-P *Holship*                             |
+| 2017 | HR-2017-560-A                                        |
+|      | HR-2017-1569-U                                       |
+| 2018 | HR-2018-587-U                                        |
+| 2019 | HR-2019-1788-A                                       |
+|      | HR-2019-2193-A                                       |
+|      | HR-2019-2282-U                                       |
+
+Rettspraksis fra lagmannsrettene
+
+02N1xx2
+
+| År   | Referanse                 |
+|------|---------------------------|
+| 2008 | LB-2007-61181 Borgarting  |
+| 2014 | LB-2014-9356 Borgarting   |
+| 2018 | LF-2018-107704 Frostating |
+
+Rettspraksis fra tingrettene
+
+02N1xx2
+
+| År | Referanse |
+|----|----|
+| 2010 | Rana tingretts dom av 23. juli 2010, 10-051886MED-RANA. |
+| 2013 | Indre Finnmark tingretts dom av 16. mai 2013, 13-060095MED-INFI. |
+| 2014 | Øvre Romerike tingretts dom av 2. juli 2014, 13-209359MED-OVRO. |
+|  | Nord-Troms tingretts dom av 27. august 2014, 14-084912MED-NHER. |
+| 2015 | Larvik tingretts dom av 20. oktober 2015, 15-098611MED-LARV. |
+|  | Asker og Bærum tingretts dom av 25. november 2015 15-129045MED-AHER/2. |
+|  | Nord-Troms tingretts dom av 30. november 2015, 15-183900ENE-NHER. |
+| 2016 | Nedre Telemark tingretts dom av 4. mars 2016, 15-179156MED-NETE. |
+|  | Hammerfest tingretts dom av 29. august 2016, 16-046155MED-HAFE. |
+|  | Drammen tingretts dom av 8. september 2016, 16-082918MED-DRAM. |
+|  | Trondenes tingretts dom av 24. oktober 2016, 16-129152MED-TRES. |
+|  | Halden tingretts dom av 7. desember 2016, 16-147694MED-HALD. |
+| 2017 | Tønsberg tingretts dom av 5. januar 2017, 16-205881ENE-TONS. |
+|  | Tønsberg tingretts dom av 9. februar 2017, 16-169944MED-TONS. |
+|  | Kristiansand tingretts dom av 24. mars 2017, 17-023583MED-KISA/05. |
+|  | Heggen og Frøland tingretts dom av 19. april 2017, 17-015047MED-HEGG. |
+|  | Sandefjord tingretts dom av 7. juli 2017, 17-081023MED-SAFO. |
+|  | Oslo tingretts dom av 28. august 2017, 17-065591MED-OTIR/08. |
+|  | Stavanger tingretts dom av 31. august 2017, 17-113375ENE-STAV. |
+|  | Follo tingretts dom av 13. oktober 2017, 17-098330MED-FOLL. |
+| 2018 | Gjøvik tingretts dom av 12. januar 2018, 17-112588MED-GJOV. |
+|  | Oslo tingretts dom av 21. februar 2018, 17-137460MED-OTIR/06. |
+|  | Rana tingretts dom av 9. mai 2018, 18-022972MED-RANA. |
+|  | Kristiansand tingretts dom av 21. september 2018, 18-108435MED-KISA/27. |
+|  | Fredrikstad tingretts dom av 11. november 2018, 18-042424ENE-FRED. |
+| 2019 | Kristiansand tingretts dom av 9. januar 2019, 18-158623MED-KISA/01. |
+|  | Asker og Bærum tingretts dom av 25. februar 2019, 19-021545ENE-AHER/1. |
+|  | Bergen tingretts dom av 17. september 2019, 18-133294MED-BERG/4 |
+
+Avgjørelser fra EU-domstolen
+
+03N1xx2
+
+| Referanse | Tittel/parter | Publisert |
+|----|----|----|
+| *Sak 167/73* | *Kommisjonen mot Frankrike* | ECLI:EU:C:1974:35 |
+| Sak C-275/81 | *Koks* | ECLI:EU:C:1982:316 |
+| Forente saker 286/82 og 86/83 | *Luisi og Carbone* | ECLI:EU:C:1984:35 |
+| Sak 104/86 | *Kommisjonen mot Italia* | ECLI:EU:C:1988:171 |
+| Sak 186/87 | *Cowan* | ECLI:EU:C:1989:47 |
+| Sak C-204/90 | *Bachmann* | ECLI:EU:C:1992:35 |
+| Sak C-45/93 | *Kommisjonen mot Spania* | ECLI:EU:C:1994:101 |
+| Sak C-55/94 | *Gebhard* | ECLI:EU:C:1995:411 |
+| Sak C-120/95 | *Decker* | ECLI:EU:C:1998:167 |
+| Sak C-158/96 | *Kohll* | ECLI:EU:C:1998:171 |
+| Sak C-275/96 | *Kuusijärvi* | ECLI:EU:C:1998:279 |
+| Sak C-18/95 | *Terhoeve* | ECLI:EU:C:1999:22 |
+| Sak C-211/98 | *Kommisjonen mot Spania* | ECLI:EU:C:2000:119 |
+| Sak C-157/99 | *Smits og Peerbooms* | ECLI:EU:C:2001:404 |
+| Sak C-385/99 | *Müller-Fauré,* | ECLI:EU:C:2003:270 |
+| Sak C-215/03 | *Oulane* | ECLI:EU:C:2005:95 |
+| Sak C-372/04 | *Watts* | ECLI:EU:C:2006:325 |
+| Sak C-522/04 | *Kommisjonen mot Belgia* | ECLI:EU:C:2007:405 |
+| Sak C-50/05 | *Nikula* | ECLI:EU:C:2006:493 |
+| Sak C-212/05 | *Hartmann* | ECLI:EU:C:2007:437 |
+| Sak C-76/05 | *Schwarz* | ECLI:EU:C:2007:492 |
+| Sak C-208/07 | *von Chamier-Gliszinski* | ECLI:EU:C:2009:455 |
+| Sak C-490/09 | *Kommisjonen mot Luxemburg* | ECLI:EU:C:2011:34 |
+| Sak C-503/09 | *Stewart* | ECLI:EU:C:2011:500 |
+| Sak C-430/15 | *Tolley* | ECLI:EU:C:2017:74 |
+| Sak C-551/16 | *Klein Schiphorst* | ECLI:EU:C:2018:200 |
+| Sak C-729/17 | *Kommisjonen mot Hellas* | ECLI:EU:C:2019:534 |
+| Sak C-477/17 | *Holiday on Ice Services BV* | ECLI:EU:C:2019:60 |
+| Forente saker C-95/18 og C-96/18 | *van den Berg* | ECLI:EU:C:2019:767 |
+| Sak C-897/19 PPU | *straffesak mot I.N* | ECLI:EU:C:2020:262 |
+
+Avgjørelser fra EFTA-domstolen
+
+03N1xx2
+
+| Referanse | Tittel/parter | Publisert |
+|----|----|----|
+| Sak E-6/98 | *Norge mot ESA* | \[1999\] EFTA Ct. Rep. 74 |
+| Sak E-3/04 | *Tsomakas m.fl.* | \[2004\] EFTA Ct. Rep. 95 |
+| Sak E-3/05 | *ESA v Norge (Finnmarkstillegg)* | \[2006\] EFTA Ct. Rep. 102 |
+| Sak E-2/07 | *ESA mot Norge* | \[2007\] EFTA Ct. Rep. 280 |
+| Forente saker E-11/07 og E-1/08 | *Rindal og Slinning* | \[2008\] EFTA Ct. Rep. 320 |
+| Sak E-3/12 | *Jonsson* | \[2013\] EFTA Ct. Rep. 136 |
+| Sak E-6/12 | *ESA v Norge (barnetrygd)* | \[2013\] EFTA Ct. Rep. 618 |
+| Sak E-13/15 | *Abuelo* | \[2015\] EFTA Ct. Rep. 720 |
+| Sak E-14/15 | *Holship Norge AS mot Transportarbeiderforbundet* | \[2016\] EFTA Ct. Rep. 240 |
+| Sak E-24/15 | *Walter Waller* | \[2016\] EFTA Ct. Rep. 527 |
+| Sak E-11/16 | *Mobil Betriebskrankenkasse v Tryg* | \[2017\] EFTA Ct. Rep. 384 |
+| Sak E-5/16 | *Sinnataggen* | \[2017\] EFTA Ct. Rep. 52 |
+
+Kjennelser fra Trygderetten
+
+02N0xx2
+
+| TRR-1999-295  |
+|---------------|
+| TRR-2000-1214 |
+| TRR-2000-5350 |
+| TRR-2002-2534 |
+| TRR-2003-2253 |
+| TRR-2009-2265 |
+| TRR-2009-488  |
+| TRR-2010-2285 |
+| TRR-2011-1098 |
+| TRR-2011-1809 |
+| TRR-2012-195  |
+| TRR-2013-704  |
+| TRR-2014-1181 |
+| TRR-2014-855  |
+| TRR-2015-1493 |
+| TRR-2016-1368 |
+| TRR-2016-2497 |
+| TRR-2016-2634 |
+| TRR-2016-3142 |
+| TRR-2016-3145 |
+| TRR-2016-3182 |
+| TRR-2016-3238 |
+| TRR-2016-3288 |
+| TRR-2017-1058 |
+| TRR-2017-1265 |
+| TRR-2017-1708 |
+| TRR-2017-2054 |
+| TRR-2017-2063 |
+| TRR-2017-2148 |
+| TRR-2017-2308 |
+| TRR-2017-2497 |
+| TRR-2017-2826 |
+| TRR-2017-2929 |
+| TRR-2017-3048 |
+| TRR-2017-3258 |
+| TRR-2017-3528 |
+| TRR-2017-3662 |
+| TRR-2017-3677 |
+| TRR-2017-565  |
+| TRR-2017-964  |
+| TRR-2018-1101 |
+| TRR-2018-2114 |
+| TRR-2018-3099 |
+| TRR-2018-567  |
+| TRR-2018-741  |
+
+Generaladvokatenes forslag til avgjørelser
+
+03N0xx2
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 40%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th>Sak 186/87, <em>Cowan</em></th>
+<th>Forslag til avgjørelse,<br />
+Generaladvokat Carl Otto Lenz</th>
+<th>ECLI:EU:C:1988:526</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sak C-215/03, <em>Oulane</em></td>
+<td>Forslag til avgjørelse,<br />
+Generaladvokat Phillipe Léger</td>
+<td>ECLI:EU:C:2004:653</td>
+</tr>
+<tr>
+<td>Sak C-221/11, <em>Demirkan</em></td>
+<td>Forslag til avgjørelse,<br />
+Generaladvokat Pedro Cruz Villalón</td>
+<td>ECLI:EU:C:2013:237</td>
+</tr>
+</tbody>
+</table>
+
+Annen offentlig praksis
+
+Rundskriv
+
+03N1xx2
+
+<table>
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 33%" />
+<col style="width: 41%" />
+</colgroup>
+<thead>
+<tr>
+<th>Referansenummer</th>
+<th>Organ/forfatter</th>
+<th>Tittel/beskrivelse, dato/årstall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G-16/2001</td>
+<td>Justis- og politidepartementet</td>
+<td>«Rundskriv, Lovavdelingens bistand til andre departementer» datert 28. juni 2001, senere oppdatert.</td>
+</tr>
+<tr>
+<td>RA nr. 3/2018</td>
+<td>Riksadvokaten</td>
+<td>«Kvalitetskrav til straffesaksbehandlingen i politiet og ved statsadvokatembetene mv. (kvalitetsrundskrivet)» datert 8. november 2018.</td>
+</tr>
+<tr>
+<td>R09-00</td>
+<td>Rikstrygdeverket/ Nav –<br />
+Arbeids- og velferdsetaten</td>
+<td>«Rundskriv til ftrl. kap. 9 – Stønad ved barns og andre nærståendes sykdom» datert 1. januar 1998, senere oppdatert.</td>
+</tr>
+<tr>
+<td>R11-00</td>
+<td>Rikstrygdeverket/ Nav –<br />
+Arbeids- og velferdsetaten</td>
+<td>«Rundskriv til ftrl. kap. 11 – Arbeidsavklaringspenger» datert 1. oktober 2002, senere oppdatert.</td>
+</tr>
+<tr>
+<td>R40-00</td>
+<td>Rikstrygdeverket/ Nav –<br />
+Arbeids- og velferdsetaten</td>
+<td>«Rundskriv til EØS-avtalens trygdedel» datert 15. februar 2001, senere oppdatert.</td>
+</tr>
+<tr>
+<td>R45-00</td>
+<td>Rikstrygdeverket/ Nav –<br />
+Arbeids- og velferdsetaten</td>
+<td>«Hovednr. 45 – Rundskriv til EØS-avtalens bestemmelser om trygd» datert 15. februar 2001, senere oppdatert.</td>
+</tr>
+</tbody>
+</table>
+
+Instrukser/retningslinjer
+
+02N0xx2
+
+<table>
+<colgroup>
+<col style="width: 38%" />
+<col style="width: 61%" />
+</colgroup>
+<thead>
+<tr>
+<th>Arbeids- og sosialdepartementet</th>
+<th>«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2011», 10. februar 2011 https://nsd.no/polsys/data/filer/tildelingsbrev/nav_2011.pdf hentet 9. juni 2020.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arbeids- og sosialdepartementet</td>
+<td>«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2012», 27. januar 2012 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2012_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.</td>
+</tr>
+<tr>
+<td>Arbeids- og sosialdepartementet</td>
+<td>«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2013», 1. februar 2013 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2013_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.</td>
+</tr>
+<tr>
+<td>Arbeids- og sosialdepartementet</td>
+<td>«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2014», 5. februar 2014 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2014_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.</td>
+</tr>
+<tr>
+<td>Arbeids- og sosialdepartementet</td>
+<td>«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2015», 23. mars 2015 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2015_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.</td>
+</tr>
+<tr>
+<td>Arbeids- og sosialdepartementet</td>
+<td>«Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet» Fastsatt 1. januar 2017, revidert 18. januar 2019. https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/instruks-av-dir-2019.pdf hentet 7. juni 2020.</td>
+</tr>
+<tr>
+<td>Direktoratet for økonomistyring</td>
+<td><p>«Veileder til utredningsinstruksen – Instruks om utredning av<br />
+statlige tiltak» 2018.</p>
+<p>https://dfo.no/filer/Fagomr%C3%A5der/Utredninger/Veileder-i-utredningsinstruksen.pdf hentet 11. juni 2020</p></td>
+</tr>
+<tr>
+<td>Finansdepartementet</td>
+<td>«Reglement for økonomistyring i staten. Bestemmelser om økonomistyring i staten» Fastsatt 12. desember 2003, sist oppdatert 23. september 2019. https://www.regjeringen.no/globalassets/upload/fin/vedlegg/okstyring/reglement_for_okonomistyring_i_staten.pdf hentet 7. juni 2020.</td>
+</tr>
+<tr>
+<td>Justisdepartementet</td>
+<td>«Lovteknikk og lovforberedelse: Veiledning om lov- og forskriftsarbeid» [Lovteknikkveilederen]. Februar 2000. https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0003/ddd/pdfv/108138-lovteknikkboka.pdf hentet 7. juni 2020.</td>
+</tr>
+<tr>
+<td>Riksadvokaten</td>
+<td>«Saker om trygdebedragerier – Bruk av straffeloven § 166 og §§ 270, 271 og 271A i konkurrens – nytt påtaledirektiv» Instruks fra Riksadvokaten til statsadvokater og politimestrene, 18. februar 2014. https://www.riksadvokaten.no/wp-content/uploads/2017/10/Saker-om-trygdebedragerier.pdf hentet 5. juni. 2020.</td>
+</tr>
+<tr>
+<td>Riksadvokaten</td>
+<td>«Høyesteretts dom av 19. desember 2019 – prøving av gyldigheten av forvaltningsvedtak i straffesaker» Brev fra riksadvokaten til statsadvokater og politimestrene, 20. februar 2020. https://www.riksadvokaten.no/document/proving-av-gyldigheten-av-forvaltningsvedtak-i-straffesaker/ hentet 6. juni 2020</td>
+</tr>
+<tr>
+<td>Statsministerens kontor</td>
+<td>«Retningslinjer: Foreleggelse av saker for Regjeringsadvokaten» 2011. https://www.regjeringen.no/globalassets/upload/smk/vedlegg/retningslinjer/14367-foreleggelse-av-saker.pdf hentet 7. juni 2020.</td>
+</tr>
+<tr>
+<td>Statsministerens kontor</td>
+<td>«Retningslinjer: Om r-konferanser: forberedelse av saker til regjeringskonferanse» Oktober 2018. https://www.regjeringen.no/no/dokumenter/om-rkonf/id2470121/ hentet 7. juni 2020.</td>
+</tr>
+<tr>
+<td>Utenriksdepartementet</td>
+<td>«EU/EØS-håndboken 2016» https://www.regjeringen.no/globalassets/departementene/ud/vedlegg/europapolitikk/eu_eos_handbok2016.pdf hentet 09.06.2020</td>
+</tr>
+<tr>
+<td>Ytelsesavdelingen i Arbeids- og velferdsdirektoratet</td>
+<td>«Overordnede prinsipper for utarbeidelse av rundskriv i NAV» 13. desember 2016. Ikke offentlig tilgjengelig.</td>
+</tr>
+</tbody>
+</table>
+
+Annet
+
+02N1xx2
+
+<table>
+<colgroup>
+<col style="width: 38%" />
+<col style="width: 61%" />
+</colgroup>
+<thead>
+<tr>
+<th>Organ/forfatter</th>
+<th>Tittel/beskrivelse, dato/årstall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ekspertgruppe nedsatt av<br />
+Arbeidsdepartementet</td>
+<td>«Tiltak for å bedre NAVs virkemåte.» Sluttrapport, 24. juni 2010.</td>
+</tr>
+<tr>
+<td>Internrevisjonen i Arbeids-<br />
+og velferdsdirektoratet</td>
+<td>«Spesialoppdrag – D2019-10 Kartlegging av fakta i EØS-saken.» 11. desember 2019.</td>
+</tr>
+<tr>
+<td>Arbeidsdepartementet</td>
+<td>«Utkast til prop. XX L (2012–2013) Endringer i folketrygdloven og enkelte andre lover.«</td>
+</tr>
+<tr>
+<td>Arbeidsdepartementet</td>
+<td>«Medlemskap og eksport.» Arbeidsgrupperapport, 2013.</td>
+</tr>
+<tr>
+<td>Domstolsadministrasjonen</td>
+<td>«Saksavvikling i domstolene.» i Domstolsadministrasjonens<br />
+årsrapport 2018. https://www.domstol.no/Enkelt-domstol/arsrapport/aktiviteterogresultater/saksavvikling/ hentet 5. juni 2020.</td>
+</tr>
+<tr>
+<td>Høyesterett</td>
+<td>«Årsmelding 2019.» 13. januar 2020. https://www.domstol.no/Enkelt-domstol/hoyesterett/arsmelding/2019/ hentet 5. juni 2020.</td>
+</tr>
+<tr>
+<td>Interdepartemental arbeidsgruppe</td>
+<td>«Eksport av velferdsytelser.» 2014. Ikke offentlig tilgjengelig.</td>
+</tr>
+<tr>
+<td>Arbeids- og velferdsdirektoratet</td>
+<td>«Årsrapport 2016.» 24. april 2017. https://www.nav.no/no/nav-og-samfunn/om-nav/årsrapport/tidligere-arsrapporter-fra-nav hentet 10. juni 2020</td>
+</tr>
+<tr>
+<td>NOKUT</td>
+<td>«Revidering av akkreditert mastergradsstudium i rettsvitenskap.» NOKUT rapport, 2008 https://www.uio.no/for-ansatte/arbeidsstotte/sta/kvalitetssystem/jus/kvalitetssystem-studier/2008_nokut_rapport-master-rettsvitenskap-uio.pdf hentet 7. juni 2020.</td>
+</tr>
+<tr>
+<td>Arbeid- og velferdsdirektoratet.</td>
+<td>«Arbeid- og velferdsdirektoratet sitt svar på høring om arbeidsavklaringspenger, arbeidsevnevurdering m.m.» 14. mars 2008. https://www.regjeringen.no/globalassets/upload/aid/publikasjoner/horing/2008/vpa/arbeidsavklaringspenger_frist_130308/horingssvar/arbeids_og-_velferdsdirektoratet.pdf hentet 7. juni 2020.</td>
+</tr>
+<tr>
+<td>Administrasjonsdepartementet</td>
+<td>«Ny trygdeforordning.» EØS-notat. Administrasjonsdepartementet, 2012. https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2006/okt/ny-trygdeforordning/id2432782/ hentet 7. juni 2020.</td>
+</tr>
+</tbody>
+</table>
+
+Andre EU/EØS-kilder
+
+02N0xx2
+
+| KOM (1998) 779 | Forslag til Rådets forordning (EF) om koordinering af de sociale sikringsordninger. |
+|----|----|
+| EU-tidende | EU-tidende nr. 76/2015. |
+| EU-tidende | EØS-komitébeslutning 76/2011, 1. juli 2011, publisert i EØS-tillegget til Den europeiske unions tidende nr. 54, 6. oktober 2011. |
+| Case No 84326 | ESAs brev til Norge 11. mars 2020. |
+
+Nettsider
+
+02N0xx2
+
+| Arbeids- og velferdsetaten | «Grunnbeløpet i folketrygden» 1. desember 2019. https://www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden hentet 9. juni 2020 |
+|----|----|
+| Norges Høyesterett | «Om Høyesterett» u.å. https://www.domstol.no/Enkelt-domstol/hoyesterett/om/ hentet 5. juni 2020. |
+| UiT Norges arktiske universitet | «Regelverk ved UiT Det juridiske fakultet» u.å https://uit.no/regelverk#v-pills-660873 hentet 9. juni 2020. |
+| Universitetet i Bergen | «Norske og internasjonale rettslege institusjonar» u.å. https://www.uib.no/emne/JUS121 hentet 9. juni 2020. |
+| Universitetet i Oslo | «JUS2211 – Vår 2020 – Litteratur/læringskrav – EØS rett» 2019 https://www.uio.no/studier/emner/jus/jus/JUS2211/v20/pensumliste/index.html#toc13 hentet 9. juni 2020. |

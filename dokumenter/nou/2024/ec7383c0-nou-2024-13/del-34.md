@@ -1,903 +1,184 @@
-# NOU 2024: 13, del 34 av 47 (side 375–384)
+# NOU 2024: 13, del 34 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 375]
-
-NOU 2024: 13
-Lov og frihet
-
-hedsdomstols fortolkning af særlig artikel 8 i
-Den Europæiske Menneskerettighedskonvention om retten til respekt for privat og familieliv,
-herunder hensynet til, hvor udlændingen har
-haft sine formative år. I denne vurdering vil
-også FN’s konvention om Barnets Rettigheder
-skulle inddrages, hvis udlændingen fortsat er
-mindreårig.
-En mindreårig udlændings egne handlinger i forbindelse med en genopdragelsesrejse eller andet udlandsophold af negativ
-betydning for udlændingen set i forhold til
-udlændingens alder, modenhed og styrke til at
-modsætte sig sine forældres beslutning vil
-kunne indgå i myndighedernes vurdering af,
-om udlændingens opholdstilladelse skal anses
-for bortfaldet.
-Det vil dog kræve tungtvejende grunde at
-lade sådanne handlinger komme udlændingen
-til skade, og der vil altid skulle ske en samlet
-proportionalitetsvurdering, hvor alle sagens
-omstændigheder skal indgå, herunder udlændingens ret til privat- og familieliv.
-Hvis der ikke er konkret grund til at betvivle oplysninger om udlændingens bestræbelser på at komme tilbage til Danmark, skal de
-lægges til grund.
-Kan det lægges til grund, at udlændingen
-har været sendt på genopdragelsesrejse eller
-andet udlandsophold af negativ betydning for
-udlændingen, men taler varigheden af udlændingens tidligere ophold, udlændingens tilknytning til Danmark eller andre særlige
-grunde afgørende imod en bevarelse af
-opholdstilladelsen, vil der skulle træffes en
-afgørelse om bortfald af opholdstilladelsen.
-Det vil ikke være en forudsætning for at
-anvende den foreslåede bestemmelse, at den
-mindreårige udlænding og/eller forældremyndighedsindehaveren indgiver en ansøgning
-om, at opholdstilladelsen ikke skal anses for
-bortfaldet, ligesom den foreslåede bestemmelse vil kunne finde anvendelse i tilfælde,
-hvor en mindreårig udlænding indgiver en
-ansøgning uden forældremyndighedsindehaverens tiltrædelse heraf.
-Forarbeidene til bestemmelsen gir videre føringer
-om at utlendingsmyndighetene må være oppmerksomme på eventuelle interessekonflikt mellom foreldre og den mindreårige, noe som etter
-en konkret vurdering vil kunne medføre at foreldrenes utøvelse av partsrettigheter (som partsrepresentant) begrenses etter forvaltningsloven.16
-
-373
-
-Kapittel 30
-
-Ved behandlingen af en sag efter den foreslåede bestemmelse vil udlændingemyndighederne skulle være opmærksomme på, om
-forældremyndighedsindehaverens varetagelse
-af sagen strider mod den mindreårige udlændings tarv, hvilket efter en konkret vurdering
-vil kunne bevirke, at forældremyndighedsindehaverens udøvelse af partsrettigheder (som
-legal partsrepræsentant) begrænses efter forvaltningslovens almindelige regler herom.17
-
-I saker hvor kommunen har kjennskap til, eller
-begrunnet mistanke om, en forestående eller
-pågående omskoleringsreise eller annet utenlandsopphold av negativ betydning for en mindreårig utlending, skal den uten samtykke fra foreldre med foreldreansvar videreformidle opplysninger som kan være av betydning for vurderingen av om en oppholdstillatelse skal bortfalle til
-utlendingsmyndighetene, jf. udlændingeloven
-§ 44 c. Tilsvarende gjelder for opplysninger av
-betydning for om reisedokumenter skal nektes
-utstedt. Formålet med bestemmelsen er å styrke
-utlendingsmyndighetenes kunnskap på et tidlig
-stadie i saken. På denne måten vil myndighetene
-allerede i forbindelse med en søknad om at en
-oppholdstillatelse ikke er å anse som bortfalt, eller
-en søknad om utstedelse av særskilte reisedokumenter for en mindreårig utlending, være i besittelse av mer informasjon om at det kan dreie seg
-om en sak hvor det er grunn til å anta at den mindreårige har blitt sendt på omskoleringsreise eller
-annet utenlandsopphold av negativ betydning for
-utlendingen eller at utlendingen har vært på slik
-reise.
-
-30.3.2 Sverige
-Etter svensk utlendingslov (Utlänningslagen
-2005:716) 7 kap. 3 § andre ledd kan en midlertidig
-oppholdstillatelse for familieinnvandring bortfalle
-hvis forholdet er opphørt. I tillegg kan oppholdstillatelsen bortfalle eller tilbakekalles hvis
-utlendingens opphold i Sverige har opphørt.
-Det er ikke gitt egne regler om tilbakekall av
-oppholdstillatelse som gjelder for barn og unge
-som er utsatt for ufrivillige utenlandsopphold.
-Flere av lovens tilbakekallsbestemmelser er «kanbestemmelser», som gir utlendingsmyndighetene
-mulighet til å utøve skjønn i den konkrete saken.
-For eksempel følger det av lovens 7 kap. 4 § at det
-i vurderingen av om oppholdstillatelsen til en
-16
-17
-
-Ibid.
-Ibid.
-
-[Side 376]
-
-374
-
-Kapittel 30
-
-NOU 2024: 13
-Lov og frihet
-
-utlending som har reist inn i Sverige kan tilbakekalles, skal tas hensyn til utlendingens tilknytning
-til det svenske samfunnet og andre humanitære
-grunner som taler mot tilbakekall. Det skal også
-særlig tas hensyn til i hvilken grad utlendingen
-har etablert seg i det svenske samfunnet, jf. 4 §
-andre ledd.
-Etter lovens 7 kap. 7 § første ledd skal en permanent oppholdstillatelse tilbakekalles dersom
-utlendingens opphold i Sverige er opphørt. Dersom utlendingen har varslet Migrationsverket om
-at hen ønsker å beholde tillatelsen, kan imidlertid
-oppholdstillatelsen tilbakekalles tidligst når det
-har gått to år etter endt opphold i Sverige. Migrationsöverdomstolen har i sak MIG 2009:12 uttalt
-at en forutsetning for at en utlending skal få
-beholde permanent oppholdstillatelse, er at vedkommende har til hensikt å oppholde seg varig i
-Sverige. Momenter i vurderingen er blant annet
-utlendingens tilknytning til Sverige, under hvilke
-omstendigheter og i hvilken leveperiode utlendingen oppholdt seg i utlandet samt årsakene til utenlandsoppholdet.18
-
-tatt fra underholdskravet i medhold av forskrift.20
-Søkere som oppholder seg i utlandet må betale
-søknadsgebyr, men er gjennom forvaltningspraksis unntatt fra underholdskravet.21 Videre peker
-direktoratet på at en søker som oppholder seg i
-Norge har en rett og plikt til å delta i introduksjonsprogrammet dersom søknaden blir innvilget.22 Tilsvarende gjelder ikke for en søker fra
-utlandet som er gitt tillatelse etter forskriftens § 89.
-Både direktoratet og Utlendingsnemnda viser
-videre til at barn som er holdt tilbake i utlandet
-mot sin vilje, og personer over 18 år som ikke fyller vilkårene i § 53 første ledd bokstav b, ikke er
-omfattet av bestemmelsen. I slike saker må det
-søkes om ny førstegangstillatelse på bakgrunn av
-sterke menneskelige hensyn etter utlendingsloven § 38. Dette kan være utfordrende for et barn
-som søker om ny tillatelse alene uten foreldre.
-Barnet må søke ved utenriksstasjon, og er i
-utgangspunktet avhengig av foreldrenes samtykke til søknaden.
-Permanent oppholdstillatelse
-
-Utlendingsdirektoratet mener det er en uheldig forskjellsbehandling mellom utlendinger som er i
-Norge og søker om en oppholdstillatelse på
-grunnlag av mishandling etter utlendingsloven
-§ 53 førte ledd bokstav b og utlendinger som er
-holdt tilbake i utlandet mot sin vilje og som søker
-om oppholdstillatelse etter lovens § 38, jf. utlendingsforskriften § 8-9. I begge tilfellene er vurderingstemaet om vilkårene i § 53 første ledd bokstav b er oppfylt. Søkere som oppholder seg i
-Norge har en rett til tillatelse dersom vilkårene er
-oppfylt, mens en søker som befinner seg i utlandet
-mot sin vilje kan gis tillatelse. Søkere som bor i
-Norge er fritatt fra søknadsgebyr,19 og de er unn-
-
-Utlendingsnemnda bemerker at to vilkår må være
-oppfylt for at en utlending som er holdt tilbake i
-utlandet mot sin vilje skal få unntak fra regelen om
-bortfall av permanent oppholdstillatelse. Det er
-krav om at utlendingen har reist ut av riket og mot
-sin vilje ikke får reise tilbake hit og at utlendingen
-ville hatt rett til oppholdstillatelse etter lovens § 53
-første ledd bokstav b dersom vedkommende
-hadde oppholdt seg i Norge.
-Utlendingsdirektoratet og Utlendingsnemnda
-peker på at muligheten til å gjøre unntak fra regelen om bortfall av permanent oppholdstillatelse
-ved utenlandsopphold, ikke gjelder for barn.
-Utlendingsnemnda har sett eksempel på at både
-en forelder og barn i samme familie har blitt utsatt
-for mishandling. Nemnda stiller spørsmål ved om
-det er tilsiktet at forelderen i et slikt tilfelle skal få
-unntak fra bortfallsregelen og beholde sin permanente oppholdstillatelse, mens barnet er henvist
-til å søke om ny midlertidig oppholdstillatelse
-etter lovens § 38. En konsekvens av dette er at en
-forelder kan få unntak fra bortfall av permanent
-oppholdstillatelse dersom barnet er mishandlet,
-mens barnet selv ikke gis unntak.
-Både direktoratet og nemnda viser videre til at
-voksne som er utsatt for mishandling vil falle uten-
-
-18
-
-20
-
-30.4 Behov og problemstillinger
-Flere instanser har kommet med innspill som
-belyser ulike behov og utfordringer knyttet til
-utlendingsregelverket om barn og unge som er
-utsatt for ufrivillig eller skadelig utenlandsopphold. Nedenfor vises det hovedsakelig til innspill
-fra Utlendingsdirektoratet og Utlendingsnemnda
-som i all hovedsak dekker problemstillingene.
-Midlertidig oppholdstillatelse
-
-Migrationsöverdomstolen MIG 2009:12.
-19
-Utlendingsforskriften § 17-10 andre ledd bokstav e, jf.
-utlendingsloven § 89.
-
-Utlendingsforskriften § 8-9, jf. utlendingsloven § 58.
-UDI 2010-009: punkt 4.
-22 Integreringsloven § 9 første ledd bokstav g.
-21
-
-[Side 377]
-
-NOU 2024: 13
-Lov og frihet
-
-for unntaket, for eksempel dersom de ikke tidligere har hatt en tillatelse etter utlendingsloven
-§ 40 (oppholdstillatelse for ektefeller) eller § 41
-(oppholdstillatelse for samboer), som er et inngangsvilkår etter mishandlingsbestemmelsen i
-lovens § 53 første ledd bokstav b. Videre er det et
-spørsmål om det skal kreves at samlivet er opphørt, der det er svigerfamilien eller husstanden
-som har stått for mishandlingen i utlandet, men
-utlendingen og ektefellen ønsker å fortsette samlivet i Norge.
-
-30.5 Utvalgets vurderinger
-30.5.1 Midlertidig tillatelse som er utløpt eller
-tilbakekalt
-30.5.1.1 Utvider personkrets mv.
-Rettskrav
-Utvalget mener det er urimelig at en utlending
-som er mishandlet i Norge, og som har havnet i
-en enda vanskeligere situasjon ved å bli ufrivillig
-holdt tilbake i utlandet, skal ha et dårligere
-rettsvern enn en utlending som er i samme situasjon, men som befinner seg i Norge. Utlendingsdirektoratet beskriver problemstillingen slik:
-En kvinne som kom på familieinnvandring som
-ektefelle og utsettes for mishandling av ektefellen, kan bryte og søke om selvstendig opphold
-etter utl. § 53 første ledd bokstav b. Hun har da
-et rettskrav på en selvstendig tillatelse dersom
-de angitte vilkårene er oppfylt. Dersom den
-samme kvinnen blir lurt med ut av landet og
-fratatt reisedokumenter og oppholdskort, og
-på den måten holdes tilbake mot sin vilje i
-utlandet, må hun søke om opphold etter utf.
-§ 8-9, jf. utl. § 38. Hun kan da få en tillatelse
-men har ikke et rettskrav på det.
-
-Utvalget anbefaler at ordningen i utlendingsforskriften § 8-9 flyttes til utlendingsloven § 53 og gir
-utlendinger som fyller vilkårene et rettskrav på en
-oppholdstillatelse på selvstendig grunnlag. Utvalget ser imidlertid at det kan være en fare for misbruk i slike saker, gitt det lave beviskravet. Det
-bør derfor vurderes om det er behov for et noe
-strengere krav til sannsynliggjøring av den situasjonen utlendingen befinner seg i, enn hva som
-ellers følger av mishandlingsbestemmelsen i
-lovens § 53 første ledd bokstav b. Utvalget har
-ikke formulert et konkret lovforslag.
-
-375
-
-Kapittel 30
-
-Utvidet personkrets mv.
-Utvalget foreslår at ordningen med oppholdstillatelse til en utlending som er holdt tilbake i utlandet mot sin vilje, og som ville fått en tillatelse etter
-mishandlingsbestemmelsen i utlendingsloven
-§ 53 første ledd bokstav b dersom vedkommende
-hadde vært i riket, utvides til å omfatte unge
-voksne som har oppholdstillatelse på grunnlag av
-familieinnvandring med foreldre eller søsken.
-I utredningens kapittel 18 har utvalget foreslått at mishandlingsbestemmelsen i § 53 utvides
-til å gjelde barn og unge, jf. utvalgets forslag i § 53
-tredje ledd bokstav a. Forslaget omfatter barn og
-unge voksne som har oppholdstillatelse etter
-lovens § 42 (om oppholdstillatelse for barn), § 43
-andre ledd (om søsken som gjenforenes med en
-mindreårig flyktning) og § 49 (om familieinnvandring i andre tilfeller). Formålet med forslaget er å
-sikre at barn og unge ikke føler seg presset til å
-bli værende i et familieliv hvor de blir utsatt for
-mishandling. Dersom unge voksne over 18 år er
-holdt tilbake i utlandet mot sin vilje, og de ville
-hatt krav på oppholdstillatelse etter utvalgets forslag til § 53 nytt tredje ledd bokstav a hvis de
-befant seg i Norge, bør de også omfattes av en rett
-til oppholdstillatelse som følge av at de har blitt
-holdt tilbake i utlandet mot sin vilje, se utvalgets
-forslag til endringer i forskriftsbestemmelsen.
-Formålet med forslaget er å styrke rettsvernet til
-barn og unge utsatt for ufrivillig og skadelig utenlandsopphold. Det bør gis nærmere regler i forskrift som blant annet kan regulere skjæringstidspunktet for når bestemmelsen kommer til anvendelse. Dersom barnet har reist ut av Norge som
-mindreårig, og fyller 18 år før tillatelsen løper ut,
-bør bestemmelsen komme til anvendelse.
-Barn foreslås ikke omfattet av ordningen
-Utvalget har vært usikre på om forslaget om utvidet personkrets også skal gjelde barn under 18 år.
-I forarbeidene til utlendingsforskriften § 8-9 var
-det et bevisst valg at barn ikke skulle omfattes av
-bestemmelsen. Av ikrafttredelsesrundskrivet til
-§ 8-9 framgår:
-Det forekommer også tilfeller hvor barn med
-oppholdstillatelse i Norge sendes til hjemlandet av foreldrene og holdes tilbake der, noen
-ganger sammen med foreldrene og noen ganger sammen med andre omsorgspersoner.
-Departementet mener at slike saker eventuelt
-må løses ut fra nødrettsbetraktninger og forankres i lovens § 38. Det er ikke foretatt noen
-
-[Side 378]
-
-376
-
-Kapittel 30
-
-NOU 2024: 13
-Lov og frihet
-
-særskilt regulering av disse situasjonene i forskriften.23
-
-Barn kan være i flere ulike type situasjoner i utlandet. Dersom både mor og barn blir holdt tilbake i
-utlandet av den andre forelderen, og begge ville
-hatt krav på tillatelse etter § 53 dersom de hadde
-oppholdt seg i riket, kan det være gode grunner til
-at de begge skal ha rett til en tillatelse etter ordningen regulert i utlendingsforskriften § 8-9 for
-ektefeller og samboere. Hensynet til å beskytte
-mor og barn veier tungt. Situasjonen har paralleller til situasjoner med barnebortføring, dersom
-mor blir tvunget til å reise tilbake til Norge uten
-barnet.
-Dersom hele familien har flyttet tilbake til
-hjemlandet, er det ikke like naturlig å gi barnet
-eller den unge oppholdstillatelse, selv om det blir
-holdt i utlandet mot sin vilje og ville hatt rett på en
-tillatelse etter mishandlingsbestemmelsen dersom det hadde oppholdt seg i riket.
-En utfordring med å regulere barn og unge
-inn i ordningen som i dag følger av utlendingsforskriften § 8-9, er også at det kan resultere i at
-utlendingsmyndighetene gis et mindre handlingsrom etter utlendingsloven § 38 om sterke menneskelige hensyn, i tilfeller som faller utenfor det
-regulerte. I saker hvor barn og unge er utsatt for
-negativ sosial kontroll, tvangsekteskap, kjønnslemlestelse, æresmotivert vold og ufrivillig utenlandsopphold, bør det være et stort rom for at norske myndigheter finner fram til de beste løsningene for det aktuelle barnet. Videre må det være
-rom for å vurdere barnets tilknytning til Norge
-gjennom oppholdstid, sett opp mot utlendingslovgivningens helhetlige regelverk.
-En annen utfordring med å innta barn i ordningen etter utlendingsforskriften § 8-9, er at det vil
-være behov for å gi klare regler om unntak for
-hvilke tilfeller barnet ikke skal omfattes av ordningen, for eksempel fordi hele familien har flyttet ut
-av landet.
-Utvalget foreslår etter dette at barn ikke
-omfattes av ordningen, men håndteres med
-grunnlag i nødrettsbetraktninger forankret i
-lovens § 38. For barn som er ufrivillig i utlandet
-mens foreldrene har bosted i Norge, foreslår
-utvalget et eget grunnlag for opphold, se punktet
-nedenfor.
-
-23
-
-Rundskriv A-63/09 om ikrafttredelse av ny utlendingslov
-og ny utlendingsforskrift fra 1. januar 2010. Vedlegg 8: side
-5.
-
-30.5.1.2 Barn over 12 år som oppholder seg
-ufrivillig i utlandet uten foreldre med
-foreldreansvar
-Utvalget foreslår at barn som oppholder seg ufrivillig i utlandet uten en forelder med foreldreansvar mens foreldrene fortsatt bor i Norge med en
-oppholdstillatelse som kan danne grunnlag for
-permanent opphold, skal gis rett til oppholdstillatelse. Siden bestemmelsen innebærer et inngrep i
-foreldreansvar, bør forslaget forankres i lov, se forslag til § 53 andre ledd bokstav c.
-Norske myndigheter har tatt stilling til at barn
-skal samtykke til utenlandsopphold uten en forelder med foreldreansvar, jf. barnelova §§ 40 tredje
-ledd og 41 femte ledd. Der foreldrene ikke respekterer barnets rettigheter, bør oppholdsgrunnlaget
-bestå slik at barnet gis mulighet til å returnere til
-Norge for å gjenopprette normalsituasjonen.
-Hvorvidt et barn under 12 år som er holdt tilbake i
-utlandet mot sin vilje uten en forelder med foreldreansvar bør ha rett til oppholdstillatelse dersom
-det ville hatt krav på oppholdstillatelse etter utvalgets forslag til nytt tredje ledd i utlendingsloven
-§ 53, er mer usikkert. Dersom barnet oppholder
-seg trygt hos sine besteforeldre, men risikerer
-mishandling av sine foreldre i Norge, er det ikke
-nødvendigvis til barnets beste å flytte tilbake til
-Norge i strid med foreldrenes ønsker.
-Videre må det være rom for å vurdere barnets
-tilknytning til Norge gjennom oppholdstid, sett
-opp mot utlendingslovgivningens helhetlige regelverk. Dette kan tale for at barn vurderes etter § 38
-om sterke menneskelige hensyn og særlig tilknytning til riket. I vurderingen må det i så fall legges
-vekt på hva som er til det beste for barnet når motstridende interesser står mot hverandre. Hensynet til barnet må veie tungt når rett står mot rett.
-Hensynet til hva foreldre kan bestemme i kraft av
-sitt foreldreansvar, for eksempel samtykke til en
-søknad om oppholdstillatelse, kan ikke gå på
-bekostning av barnets eller den unges mulighet til
-å bevare sin oppholdstillatelse i Norge og gjenopprette sitt liv her etter et tvunget og skadelig utenlandsopphold. Der barnet er over 12 år, må det
-legges særlig stor vekt på at foreldrene ikke har
-respektert barnets rett til selvbestemmelse etter
-barnelovas regelverk. Ved å knytte vurderingen til
-§ 38, er det heller ikke behov for å vurdere om
-barnet har vært utsatt for forhold som kunne gitt
-tillatelse etter § 53 om de hadde oppholdt seg i
-Norge. Det vil være mulig å se hen til hva slags
-forhold barnet eller den unge er utsatt for i oppholdslandet og hva slags forhold barnet eller den
-unge kan vende tilbake til i Norge.
-
-[Side 379]
-
-NOU 2024: 13
-Lov og frihet
-
-30.5.2 Unntak fra bortfall av permanent
-oppholdstillatelse?
-30.5.2.1 Unntak fra bortfall – uavhengig av
-kravene i § 53 første ledd bokstav b
-Utvalget foreslår endringer i utlendingsloven som
-innebærer at det skal gjøres unntak fra bortfall av
-permanent oppholdstillatelse når en utlending er
-holdt tilbake i utlandet mot sin vilje, uavhengig av
-om vilkårene i lovens § 53 første ledd bokstav b er
-oppfylt. Unntaksadgangen foreslås tatt inn i
-lovens § 62 (permanent oppholdstillatelse).
-Videre utvides personkretsen til å omfatte barn.
-Formålet med forslaget er å styrke rettsvernet og
-bedre muligheten for retur til personer som er
-utsatt for negativ sosial kontroll av nære relasjoner når kontrollen er av en slik art at den utsatte
-ikke står fritt i å returnere til Norge.
-Utlendinger som har permanent oppholdstillatelse, har oppnådd en tilknytning til Norge og bør
-i større grad enn hva som er tilfelle i dag beskyttes mot å miste sin tillatelse der de er holdt tilbake
-mot sin vilje i utlandet. Endringsforslaget innebærer at vilkåret for å få unntak fra bortfallsregelen knyttes til tilbakeholdelsen, og ikke til hvorvidt det forelå en mishandlingssituasjon. Videre
-utvides personkretsen til også å gjelde barn og
-unge, som i dag faller utenfor ordningen. Formålet med forslaget er å sikre at de utsatte, særlig
-barn og unge, beholder muligheten til å returnere
-til Norge.
-Etter gjeldende regler må utlendingen både
-være utsatt for mishandling etter lovens § 53 første ledd bokstav b og være holdt tilbake i utlandet
-mot sin vilje, jf. utlendingsforskriften § 11-8.
-Bestemmelsen er praktisert slik at det stilles krav
-om mishandling av tilsvarende omfang og varighet slik som etter lovens § 53 første ledd bokstav
-b. Ufrivillige utenlandsopphold kan etter utvalgets
-syn i seg selv være et overgrep mot den enkeltes
-friheter og rettigheter, både overfor voksne og
-barn. Det bør derfor være avgjørende for bortfall
-av permanent oppholdstillatelse om utlendingen
-er holdt tilbake i utlandet mot sin vilje, ikke hvorvidt utlendingen i tillegg har vært utsatt for mishandling etter lovens § 53 første ledd bokstav b.
-Personkrets – utvides
-Bestemmelsen er praktisert slik at den bare gjelder for personer som opprinnelig hadde en oppholdstillatelse som ektefelle eller samboer etter
-
-377
-
-Kapittel 30
-
-lovens §§ 40 og 41. Følgende grupper faller dermed utenfor etter gjeldende ordning:
-– barn som har blitt holdt tilbake i utlandet mot
-sin vilje,
-– personer over 18 år som blir holdt tilbake av
-sine foreldre, og
-– personer over 18 år som blir holdt tilbake av
-personer som ikke er medlemmer av samme
-husstand og ikke er svigerfamilie.
-En slik avgrensning av personkretsen er etter
-utvalgets vurdering uheldig og rammer skjevt.
-Hvis en mor og et barn med permanent oppholdstillatelse er holdt tilbake i utlandet mot sin
-vilje, vil mor kunne få unntak etter utlendingsforskriften § 8-11, men ikke barnet. Det gjelder også
-for tilfeller hvor barnet etter hvert har blitt myndig. Barnet henvises til å søke om en ny oppholdstillatelse etter lovens § 38, som bare kan gis
-hvis det foreligger sterke menneskelige hensyn i
-saken eller særlig tilknytning til Norge. En annen
-mulighet er å søke om en familieinnvandringstillatelse med mor etter lovens § 42 hvis barnet er
-under 18 år.
-Hvis den utsatte er under 18 år, kan det være
-vanskelig å få en ny oppholdstillatelse uten samtykke fra den andre forelderen, særlig når denne
-forelderen er ansvarlig for tilbakeholdelsen, eller
-ikke ønsker å hjelpe barnet hjem. At den utsatte
-er en borger av oppholdslandet, og ikke har norsk
-statsborgerskap, legger ytterligere begrensninger
-på hvilken hjelp som kan gis. Dette kan likevel
-ikke være til hinder for at barnet får beholde sin
-permanente oppholdstillatelse, slik at barnet kan
-reise til Norge når muligheten byr seg eller når
-barnet blir myndig.
-En innvending mot forslaget er at en egen unntaksbestemmelse kan signalisere at ufrivillige
-utenlandsopphold for barn ikke får noen konsekvenser, jf. departementets vurdering.24 Utvalget
-mener likevel at muligheten for den usatte i slike
-tilfeller skal kunne returnere til Norge må veie
-tyngre, særlig i lys av at denne gruppen allerede
-har hatt tilstrekkelig tilknytning til Norge gjennom å oppnå permanent opphold. Dersom permanent oppholdstillatelse ikke bortfaller, vil dessuten mange praktiske utfordringer den utsatte står
-overfor bli løst, først og fremst for barn og unge
-under 18 år som er avhengig av foreldrenes samtykke for å kunne søke om ny oppholdstillatelse.
-24
-
-Status for tiltak per 31.12.2022 «Frihet fra negativ sosial
-kontroll og æresrelatert vold» (2021–2024) tiltak 22.
-
-[Side 380]
-
-378
-
-Kapittel 30
-
-NOU 2024: 13
-Lov og frihet
-
-«holdt tilbake i utlandet mot sin vilje»
-Utvalget mener det må defineres nærmere hva
-som skal til for å regnes «å være holdt tilbake i
-utlandet mot sin vilje». I likhet med hva som er gjeldende praksis etter utlendingsforskriften §§ 8-9 og
-11-8, skal det ikke stilles krav om at søkeren er
-holdt tilbake med fysisk tvang. Søkeren kan eksempelvis ha blitt lurt, presset eller fratatt sitt pass.
-Ikke enhver ufrivillig tilbakeholdelse skal
-omfattes av bestemmelsen. Utvalget foreslår at
-ordningen avgrenses til personer som er holdt tilbake i utlandet av nære relasjoner, slik personkretsen er definert i straffeloven § 282 om mishandling i nære relasjoner, se nærmere kapitler 8.
-Formålet er å sikre at personer som er utsatt for
-negativ sosial kontroll i nære relasjoner, der kontrollen er av en slik art at den utsatte ikke står fritt
-i å returnere til Norge, ikke mister sin permanente oppholdstillatelse i Norge. Bestemmelsen
-er ikke ment å omfatte for eksempel personer som
-er fengslet for en straffbar handling. I utgangspunktet er den heller ikke ment å omfatte tilfeller
-der en person har blitt kidnappet i utlandet av
-andre enn nære relasjoner eller har blitt smittet av
-en smittsom sykdom og dermed nektes utreise av
-myndighetene i oppholdslandet. Det ligger utenfor mandatet å vurdere dette nærmere.
-Sannsynlighetsvurderingen
-Utvalget har ikke tatt stilling til hva slags sannsynlighetskrav som skal legges til grunn i vurderingen av om en utlending er holdt tilbake i utlandet
-mot sin vilje, og anbefaler at spørsmålet vurderes
-nærmere i forbindelse med oppfølgingen.
-Det kan tenkes ulike krav til sannsynlighet. En
-mulighet er at det stilles krav til sannsynlighetsovervekt. I så fall er det relativt strenge krav til
-bevis og krav om konkrete holdepunkter for at
-utlendingens forklaring skal legges til grunn.
-Utlendingen vil selv ha bevisbyrden.
-En annen mulighet er å anvende samme krav
-til sannsynlighet som følger av utlendingsloven
-§ 53 første ledd bokstav b om mishandling i nære
-relasjoner, som benytter formuleringen «grunn til
-å anta». Det stilles ikke krav til sannsynlighets-
-
-overvekt, og ifølge forarbeidene skal utlendingens
-framstilling legges til grunn så framt vedkommende har gitt en troverdig forklaring om hva
-vedkommende har vært utsatt for. Dersom det finnes holdepunkter for å trekke utlendingens forklaring i tvil, må utlendingsmyndighetene vurdere
-utlendingens forklaring opp mot disse holdepunktene.
-En annen mulighet er en mellomløsning ved å
-anvende formuleringen «grunn til å tro». Det bør i
-så fall foreligge objektive holdepunkter for at
-utlendingens forklaring om hva vedkommende
-har vært utsatt for skal legges til grunn, og utlendingen har bevisbyrden.
-
-30.5.3 Unntak fra krav om samtykke til
-søknad om oppholdstillatelse
-En utfordring som oppstår i praksis er at barn må
-ha samtykke fra foreldre med foreldreansvar til å
-fremme en søknad om oppholdstillatelse, jf. vergemålsloven § 9. Utvalget mener det bør reguleres
-at barn kan fremme en søknad om oppholdstillatelse uten samtykke fra foreldrene «i særlige tilfeller» dersom det er «fare for [barnets] liv eller
-helse», eller når det «av andre grunner er åpenbart ubetenkelig», som vil samsvare med bestemmelsen i passloven § 4 tredje ledd.
-«Fare for barnets liv eller helse» må forstås på
-samme måte som tilsvarende unntak i passloven
-§ 4 tredje ledd. Se kapittel 28 hvor det er nærmere
-forklart hva som ligger i disse begrepene. Utvalget legger for øvrig til grunn at tilfeller som faller
-inn under nytt straffebud om skadelig utenlandsopphold omfattes av «fare for liv eller helse», jf.
-forslag til ny § 269 i straffeloven.
-Eksempel på at det er åpenbart ubetenkelig er
-der en søknad om oppholdstillatelse vil bidra til å
-gjenopprette normaltilstanden i Norge for et barn
-over 12 år som oppholder seg i utlandet uten en
-forelder med foreldreansvar. Videre må det anses
-som åpenbart ubetenkelig der utlendingslovens
-vilkår for tillatelse ikke forutsetter samtykke, for
-eksempel i saker etter utlendingsloven § 42 om
-familieinnvandring med en av foreldrene der det
-for visse situasjoner er gjort unntak fra kravet om
-samtykke fra begge foreldrene, se punkt 30.2.4.
-
-[Side 381]
-
-NOU 2024: 13
-Lov og frihet
-
-379
-
-Kapittel 31
-
-Kapittel 31
-
-Barnevernets rolle i saker om barn på ufrivillig
-eller skadelig utenlandsopphold
-31.1 Innledning
-Hvorvidt barnevernstjenesten kan bistå barn som
-befinner seg i utlandet, avhenger av om barnevernstjenesten har kompetanse til å treffe tiltak
-overfor barnet, og eventuelt hvilke tiltak og overfor hvilke barn (jurisdiksjonsspørsmålet). Dette
-beror på rekkevidden av barnevernsloven § 1-2
-om lovens virkeområde, og de begrensninger som
-følger av folkeretten. Dertil kommer spørsmålet
-om hvorvidt barnevernstiltakene kan anerkjennes
-og iverksettes på oppholdslandets territorium
-(anerkjennelses- og fullbyrdelsesspørsmålet).
-I dette kapittelet gjennomgår utvalget rammene for barnevernets kompetanse og hvilke tiltak som kan iverksettes når barn befinner seg i
-utlandet. Utvalget vurderer også behovet for
-regelverksendringer for å styrke rettsvernet til
-barn og unge som oppholder seg i utlandet mot
-sin vilje. Spørsmålet kan utledes av mandatets
-punkt c om styrking av rettsvernet for barn og
-unge som er ufrivillig etterlatt i utlandet.
-
-31.2 Gjeldende rett
-31.2.1 Barnevernslovens forhold til
-Haagkonvensjonen 1996
-Barnevernsloven gjelder med de begrensninger
-som følger av folkeretten, jf. barnevernsloven § 12 femte ledd. Barnevernstjenesten er bundet av
-konstitusjonelle og menneskerettslige forpliktelser som sikrer barn rett til hjelp, omsorg og
-beskyttelse når foreldrene svikter, men er samtidig forpliktet av konvensjoner og folkerettslig sedvanerett som begrenser barnevernslovens virkeområde og mulighetene for å iverksette beskyttelsestiltak overfor barn som har tilknytning til
-andre land. Dette omfatter blant annet avtaler om
-internasjonalt samkvem og respekt for andre
-lands territoriale suverenitet.1 En sentral konvensjon er Haagkonvensjonen 1996 som gir regler om
-
-jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse
-og samarbeid vedrørende foreldremyndighet og
-tiltak for beskyttelse av barn.
-Haagkonvensjonen 1996 gjelder for beskyttelsestiltak rettet mot barn under 18 år i form av
-rettslige eller administrative avgjørelser om foreldreansvar, fast bosted, samvær, vergemål, plasseringer i fosterhjem og institusjon, samt forvaltning
-av barnets formue, jf. artikkel 1, 2 og 3. Barnevernstiltak rettet mot barn under 18 år, som for
-eksempel omsorgsovertakelse og fratakelse av
-foreldreansvar og hjelpetiltak overfor foreldrene,
-er dermed omfattet av konvensjonen. Barnevernstiltak som er rettet mot unge over 18 år, faller
-utenfor.
-Regler om jurisdiksjon innenfor Haagkonvensjonssamarbeidet er gitt i konvensjonens kapittel
-2. Den grunnleggende tanken bak reglene om
-jurisdiksjon er at det bare er myndighetene i én
-konvensjonsstat som har jurisdiksjon, og at jurisdiksjonsspørsmål skal avgjøres på et objektivt
-grunnlag.2 Når norske myndigheter har jurisdiksjon over det aktuelle forholdet, vil beskyttelsestiltakene som treffes her kunne anerkjennes og fullbyrdes i andre konvensjonsland.
-Hovedregelen er at det er myndighetene i konvensjonslandet hvor barnet har sitt vanlige bosted
-(«habitual residence») som har jurisdiksjon til å
-treffe tiltak for å beskytte barnets person eller formue, jf. konvensjonens artikkel 5 nr. 1. Bestemmelsen bygger på det folkerettslig aksepterte
-domisil-prinsippet, som innebærer at rettsforholdet skal bedømmes etter lovgivning i landet hvor
-den berørte har bopel (domisil), uten hensyn til
-om vedkommende er statsborger i et annet land.
-Jurisdiksjonen følger som utgangspunkt barnet
-dersom barnet flytter til en annen konvensjonsstat, jf. artikkel 5 nr. 2.
-1
-2
-
-Se kapittel 28 som blant annet omhandler rammene for
-konsulær bistand.
-Prop. 102 LS (2014–2015) punkt 3.3.1.
-
-[Side 382]
-
-380
-
-Kapittel 31
-
-NOU 2024: 13
-Lov og frihet
-
-Et viktig unntak fra hovedregelen i artikkel 5
-gjelder i tilfeller der barnet ulovlig bortføres eller
-tilbakeholdes i et annet land, jf. konvensjonens
-artikkel 7. Dersom barnet er ulovlig bortført fra
-Norge eller tilbakeholdes ulovlig i et annet land,
-beholder norske myndigheter jurisdiksjon inntil
-barnet får vanlig bosted i et annet land. Barnevernstjenesten kan i slike tilfeller treffe beskyttelsestiltak overfor barnet uten hinder av artikkel 5
-nr. 2. Unntaket gjelder også tilfeller der beskyttelsestiltaket blir truffet av barnevernstjenesten
-etter at barnet har reist fra Norge, og foreldrene
-tilbakeholder barnet i strid med beskyttelsestiltaket.3 Et annet unntak følger av artikkel 11 og 12,
-og innebærer at barnets oppholdsland kan treffe
-hastevedtak og midlertidige vedtak overfor barnet, til tross for at barnet har sitt vanlige bosted i
-en annen stat. Hva som utgjør «hastesaker», er
-ikke definert nærmere i konvensjonen. Det er opp
-til myndighetene i det aktuelle konvensjonslandet
-å avgjøre om vilkåret er oppfylt i forbindelse med
-behandling av konkrete saker. Et klart eksempel
-vil være dersom barnet blir utsatt for uopprettelig
-skade ved å la være å gripe inn.
-I de tilfeller der barnets vanlige bosted ikke lar
-seg fastsette, er det barnets oppholdsland som har
-jurisdiksjon, jf. konvensjonen artikkel 6 nr. 2.
-Dette kan blant annet være tilfellet der et barn reiser alene eller er forlatt, og det er vanskelig å
-finne bevis for å avklare hvor barnet har vanlig
-bosted.4 Et annet tilfelle er der barnet har mistet
-sitt tidligere vanlige bosted, men det er ikke tilstrekkelige bevis for at barnet har oppnådd nytt
-vanlig bosted i en annen stat.5 Jurisdiksjon etter
-artikkel 6 nr. 2 opphører på det tidspunkt det slås
-fast at barnet har vanlig bosted i en annen stat.6
-I nærmere angitte tilfeller kan jurisdiksjon
-overføres mellom konvensjonsland, jf. konvensjonens artikkel 8 og 9. Artiklene gir adgang til å
-overføre jurisdiksjon i konkrete saker når myndighetene som har jurisdiksjon, anser at et annet konvensjonslands myndighet er bedre egnet til å vurdere barnets beste.7 Formålet med disse reglene
-er å legge til rette for at enhver sak skal kunne
-behandles i den staten som er best egnet til å ivareta barnets interesser, og der saken best kan
-opplyses, barnet høres og barnets beste vurderes.8 Norske myndigheter kan i medhold av artik3
-4
-5
-6
-7
-
-Se HR-2022-207-A omtalt nedenfor.
-Practical Handbook 2014: punkt 4.17 og Prop. 102 LS
-(2014–2015) punkt 3.3.2.
-Ibid.
-Ibid.
-Prop. 102 LS (2014–2015) punkt 3.3.8.
-
-kel 9 be om å få overført jurisdiksjon til seg der
-barnet ikke har vanlig bosted her, men norske
-myndigheter anser seg for å være bedre egnet til å
-vurdere barnets beste i det aktuelle tilfellet. Det er
-en forutsetning at barnet har en form for tilknytning til Norge, for eksempel gjennom å være
-norsk statsborger eller har formue i Norge, jf.
-artikkel 9 nr. 1, jf. artikkel 8 nr. 2.
-Utenfor konvensjonssamarbeidet fastsettes
-jurisdiksjonen utelukkende etter barnevernsloven, og fullbyrdelsen av beskyttelsestiltaket vil
-avhenge av gjeldende lovgivning i barnets oppholdsland.
-
-31.2.2 Barnevernslovens virkeområde og
-barnets vanlige bosted
-Barnevernsloven § 1-2 regulerer lovens virkeområde og skal tolkes i lys av jurisdiksjonsregler
-etter Haagkonvensjonen 1996. Bestemmelsen
-viderefører barnevernloven 1992 §§ 1-2 og 1-3
-med enkelte språklige presiseringer.9 Forarbeidene til den tidligere barnevernloven er derfor
-relevante for gjeldende barnevernslov.
-I utgangspunktet gjelder barnevernsloven for
-barn som oppholder seg i Norge. Barnevernslovens § 1-2 tredje ledd fastsetter hvilke tiltak som
-kan treffes overfor barn som oppholder seg i utlandet. Lovens § 1-2 tredje ledd lyder:
-For barn som oppholder seg i en annen stat og
-har sitt vanlige bosted i Norge, kan det treffes
-vedtak om omsorgsovertakelse etter § 5-1 og
-plassering på barnevernsinstitusjon etter § 6-2.
-Det kan også treffes vedtak om hjelpetiltak
-etter § 3-1 og pålegg om hjelpetiltak etter § 3-4
-når foreldrene oppholder seg i Norge.
-
-Et sentralt tilknytningsbegrep i bestemmelsen er
-«vanlig bosted». Så lenge barnet har «vanlig
-bosted» i Norge, vil barnevernstjenesten kunne
-treffe vedtak om omsorgsovertakelse etter lovens
-§ 5-1, vedtak om plassering på institusjon etter § 62, hjelpetiltak etter § 3-1 og pålegg om hjelpetiltak
-etter § 3-4 hvis foreldrene oppholder seg i Norge.
-Utenfor faller akuttiltak etter barnevernsloven
-kapittel 4, herunder akuttvedtak om omsorgsovertakelse. Barn som verken oppholder seg eller har
-vanlig bosted i Norge, faller utenfor barnevernslovens virkeområde. Innenfor Haagkonvensjonssamarbeidet vil barnevernstjenesten ikke kunne
-treffe beskyttelsestiltak etter barnevernsloven,
-8
-9
-
-Ibid.
-Prop. 133 L (2020–2021) merknader til § 1-2.
-
-[Side 383]
-
-NOU 2024: 13
-Lov og frihet
-
-med mindre den ber om å få overført jurisdiksjon
-etter Haagkonvensjonen artikkel 9 eller dersom
-andre unntak etter Haagkonvensjonen er til stede.
-Begrepet «vanlig bosted» ble innført i barnevernsloven i forbindelse med vedtakelsen av lov
-om Haagkonvensjonen 1996, og er ment å være en
-oversettelse av «habitual residence» som brukes i
-konvensjonen.10 De utgangspunktene som gjelder
-for tolkingen av «habitual residence» i Haagkonvensjonen 1996, vil derfor også gjelde for tolkingen av begrepet «vanlig bosted» i barnevernsloven. Hva som ligger i begrepet «habitual residence», er ikke definert i Haagkonvensjonen 1996
-eller i lov om Haagkonvensjonen 1996. Begrunnelsen for dette er at barnets bosted skal fastsettes
-konkret av myndighetene i konvensjonsstatene i
-den enkelte sak.11 Vurderingen skal gjøres i lys av
-konvensjonens formål og skal ikke avhenge av
-formaliteter i den enkelte konvensjonsstat.12
-I forarbeidene til lov om Haagkonvensjonen
-1996 framgår det at barnets vanlige bosted vil
-være der barnet etter en konkret og samlet vurdering har «sentrum for sine livsinteresser»:
-Begrepet [vanlig bosted] er autonomt og den
-konkrete vurderingen vil blant annet måtte ta
-hensyn til konvensjonens formål og sammenhengen vurderingen foretas i. Siden hensynet
-til rettsenhet og forutberegnelighet er viktig,
-vil det også være relevant å se hen til hvordan
-begrepet tolkes i andre konvensjonsstater. Det
-vil være av avgjørende betydning for vurderingen hvor personen faktisk bor ‘til vanlig’. I tillegg må det stilles et visst krav til lengden på
-oppholdet. Ikke ethvert midlertidig opphold et
-sted fører til at personen har fått vanlig bosted
-der. Et skoleopphold på inntil et år vil for
-eksempel antakelig ikke være nok til å si at personen har vanlig bosted i landet. Som et
-utgangspunkt vil en persons vanlige bosted
-være der personen etter en samlet vurdering
-har sentrum for sine livsinteresser.13
-
-begrepet nærmere, og viste til at «vanlig bosted»
-er en oversettelse av tilknytningskravet «habitual
-residence», som følger av Haagkonvensjonen
-1996 sine jurisdiksjonsregler. Departementet
-uttalte videre at:
-Som et utgangspunkt vil et barns vanlige
-bosted være der barnet etter en samlet vurdering har sentrum for sine livsinteresser. Det er
-de faktiske omstendighetene i saken som er
-avgjørende. I tvilstilfeller kan intensjonen for
-oppholdet vektlegges. Relevante momenter i
-vurderingen vil være barnets tilknytning til landet, varigheten av oppholdet, familiens tilknytning og tilhørighet og barnets nettverk.15
-
-Vurderingen gjøres konkret hvor en rekke
-momenter inngår, og det er ikke mulig å angi
-eksakt når barnets vanlige bosted anses å ha gått
-over til et annet land. Barnet må ha en stabil tilknytning til landet, men det kreves ikke at barnet
-er norsk statsborger.16 Det er barnets, ikke foreldrenes, faktiske tilknytning til Norge som er
-avgjørende for hvor barnet kan sies å ha vanlig
-bosted.17
-Høyesterett uttaler i HR-2022-207-A at EUdomstolen har oppsummert tolkingen av begrepet
-«habitual residence» i dom 9. oktober 2014 i sak
-C-376/14 PPU (avsnitt 51 og 52), og at oppsummeringen var dekkende for forståelsen av vanlig
-bosted i Haagkonvensjonen 1996. I den nevnte
-dommen uttaler EU-domstolen (dansk oversettelse):
-I disse domme har Domstolen desuden udtalt,
-at barnets sædvanlige opholdssted [engelsk:
-habitual residence] skal fastslås af den nationale ret ud fra en helhedsvurdering af de særlige faktiske omstændigheder i den konkrete
-sag […]. Domstolen har i denne henseende
-fastslået, at der foruden barnets fysiske tilstedeværelse i en medlemsstat skal lægges vægt
-på andre faktorer, som kan påvise, at denne tilstedeværelse på ingen måde er af midlertidig
-eller tilfældig karakter, og at barnets opholdssted svarer til det sted, som afspejler en vis
-familiemæssig og social tilknytning for barnet
-[…].
-Domstolen har fastslået, at der med henblik
-herpå bl.a. skal tages hensyn til opholdets
-varighed, regelmæssighed, vilkårene og bag-
-
-I forbindelse med arbeidet med ny barnevernslov
-mente enkelte instanser at innholdet i begrepet
-«vanlig bosted» burde tydeliggjøres.14 Departementet foreslo ikke å regulere innholdet i bosteds10
-
-Prop. 102 LS (2014–2015) punkt 3.3.1.
-Ibid.
-12 Kvisberg 2019: side 102, jf. Practical Handbook 2014: punkt
-4.5.
-13 Prop. 102 LS (2014–2015) punkt 3.3.1
-14 Bufdir, Norsk Psykologforening og OsloMet i Prop. 133 L
-(2020–2021) punkt 7.7.3.
-
-381
-
-Kapittel 31
-
-11
-
-15
-
-Prop. 133 L (2020–2021) punkt 7.7.4.1.
-Se også HR-2019-1436-U og HR-2016-2262-A.
-17
-HR-2016-2262-A (avsnitt 44).
-16
-
-[Side 384]
-
-382
-
-Kapittel 31
-
-NOU 2024: 13
-Lov og frihet
-
-grunden for opholdet på en medlemsstats
-område og for familiens flytning hertil, til barnets statsborgerskab, stedet og vilkårene for
-barnets skolegang, dets sprogkundskaber og
-barnets familiemæssige og sociale relationer i
-nævnte stat […]. Domstolen har endvidere
-fastslået, at det kan pege i retning af en flytning
-af barnets sædvanlige opholdssted, hvis forældrene eller en af forældrene har til hensigt at
-tage fast bopæl i en anden medlemsstat
-sammen med barnet, idet denne hensigt kan
-fremgå af visse ydre omstændigheder, f.eks. at
-forælderen køber eller lejer en bolig i denne
-medlemsstat […].18
-Høyesterett mente at dette var beskrivende for
-innholdet i barnevernsloven § 1-2.
-
-31.2.3 Tiltak som kan treffes når barnet har
-vanlig bosted i Norge, men oppholder
-seg i utlandet
-Barnevernstjenesten har plikt til å gjennomgå
-bekymringsmeldinger og åpne undersøkelsessak
-på vanlig måte i saker der barn med vanlig bosted
-i Norge oppholder seg i en annen stat, jf. barnevernsloven § 2-1, jf. § 1-2.19 Det er imidlertid visse
-begrensninger for hvilke tiltak barnevernstjenesten kan treffe i saken.
-Dersom barnet har vanlig bosted i Norge, men
-oppholder seg i en annen stat, kan barnevernstjenesten blant annet treffe vedtak om omsorgsovertakelse etter § 5-1 og plassering på barnevernsinstitusjon etter § 6-2, jf. barnevernsloven § 1-2
-fjerde ledd. Et vedtak om omsorgsovertakelse
-skal i utgangspunktet iverksettes så snart som
-mulig, og faller bort dersom det ikke er iverksatt
-innen seks uker fra vedtakstidspunktet, jf. barnevernsloven § 5-2 første ledd første og andre punktum. At et vedtak er iverksatt vil si at barnet er
-plassert i et fosterhjem eller institusjon. Nemndlederen kan forlenge fristen når særlige grunner tilsier det, jf. tredje punktum. Dette kan tenkes aktuelt der barnet befinner seg i utlandet og det er
-vanskelig å bringe barnet tilbake til Norge. I tilfeller der et barn bortføres fra barnevernstjenesten
-til en annen stat, slik at vedtaket ikke lar seg gjennomføre, består vedtaket i ett år forutsatt at barnet er meldt bortført i henhold til barnevernsloven § 5-2 andre ledd.
-Omsorgsovertakelse når barnet oppholder
-seg i et annet land, men fortsatt har vanlig bosted i
-18
-19
-
-Avsnitt 51 og 52.
-Prop. 133 L (2020–2021) punkt 7.7.4.1.
-
-Norge, kan være aktuelt i saker der barnevernstjenesten har fått opplysninger om at barnet
-er utsatt for eller risikerer å bli utsatt for tvangsekteskap, kjønnslemlestelse, vold og mishandling
-eller annen alvorlig omsorgssvikt. Begjæring om
-omsorgsovertakelse etter § 5-1 må sendes barneverns- og helsenemnda som treffer beslutningen,
-jf. barnevernsloven § 14-8. Det bør i slike tilfeller
-særlig innhentes opplysninger fra ambassaden
-dersom denne har hatt samtaler og kontakt med
-barnet eller den unge. Videre kan det være relevant å innhente informasjon fra skole og andre
-offentlige instanser barnet hadde kontakt med før
-utreisen, da det kan belyse forhold knyttet til utenlandsoppholdet. Der den unge er over 15 år, må
-det avklares hvorvidt barnet ønsker partsrettigheter, jf. § 14-9 første ledd bokstav h, jf. § 12-3 annet
-ledd.
-Der foreldrene holder barnet tilbake i utlandet
-etter at det er truffet et lovlig vedtak om omsorgsovertakelse, vil en etterfølgende tilbakeholdelse
-av barnet være ulovlig, selv om utreisen med barnet var lovlig på utreisetidspunktet. Sak HR-2022207-A gjaldt et foreldrepar som reiste til England
-med sine barn straks etter at kommunen hadde
-varslet dem om at det ville bli reist sak om
-omsorgsovertakelse. Barneverns- og helsenemnda traff vedtaket om omsorgsovertakelse to
-måneder senere, men foreldrene nektet å innrette
-seg etter avgjørelsen og ble værende i England.
-Høyesterett la til grunn at barna hadde vanlig
-bosted i Norge da vedtaket om omsorgsovertakelse ble truffet. Selv om foreldrene reiste lovlig
-ut av Norge, mente Høyesterett at avgjørelsen om
-omsorgsovertakelse var bindende for foreldrene,
-med den konsekvens at den etterfølgende tilbakeholdelsen var ulovlig:
-(70) Et omsorgsovertakelsesvedtak som
-treffes under norsk jurisdiksjon, er bindende
-for alle involverte. Vedtaket ‘skal settes i verk
-så snart som mulig’, jf. barnevernloven § 4-13
-første punktum. Det må derfor anses ulovlig
-etter norsk rett å hindre iverksettelsen av vedtaket. Om iverksettelsen hindres ved å holde
-det aktuelle barnet skjult i Norge eller ved å
-holde barnet utenfor norske myndigheters rekkevidde i utlandet, kan etter norsk rett ikke
-spille noen rolle.
-(71) Partene er uenige om straffeloven
-§ 261 rammer tilbakeholdelsen i England. Jeg
-finner ikke grunn til å gå nærmere inn på
-bestemmelsens rekkevidde. Tilbakeholdelsen
-trenger ikke være straffbar for å være ulovlig –
-‘wrongful’ – i konvensjonens forstand.20
+## Utvalgets vurderinger og forslag
+
+### Utreiseforbud
+
+Utvalgets flertall, utvalgsleder Sinding Aasen og medlemmene Christoffersen, Dinardi, El Abassi, Eritsland, Friberg og Martnes, foreslår at det innføres en hjemmel i barnevernsloven for å ilegge forbud mot at et barn tas med eller sendes ut av landet når det er fare for skadelige utenlandsopphold, heretter *utreiseforbud*. Det finnes allerede noen ordninger som kan bidra til å forhindre skadelige utenlandsopphold etter gjeldende rett, men utvalgets flertall mener disse ikke gir barn tilstrekkelig beskyttelse og rettsvern.
+
+Hva er problemet?
+
+Når barn og unge først befinner seg i utlandet, er det ofte begrenset hva norske myndigheter kan gjøre for å hjelpe. Dagens regelverk er ikke tilstrekkelig for å forhindre at barn tas med, sendes eller etterlates i utlandet til forhold som kan være til skade for barnet. Barnevernstjenesten og politiet har ikke tilstrekkelige virkemidler når et barn står i fare for å bli utsatt for skadelig utenlandsopphold.
+
+\[Boks slutt\]
+
+Barnelova § 41 er ett av flere virkemidler for å forhindre utreise, og er den klareste hjemmelen for utreiseforbud for barn. Utreiseforbud kan ilegges uavhengig av barnets eller foreldrenes statsborgerskap, slik at også personer uten norsk statsborgerskap kan omfattes av forbudet. Utreiseforbud etter barnelova gir ikke en klar hjemmel for å nedlegge utreiseforbud dersom begge foreldre ønsker reisen for barnet eller det er på det rene at oppholdet er midlertidig og barnet vil returnere til Norge. Utreiseforbudet er imidlertid ikke et godt egnet virkemiddel dersom begge foreldre ønsker reisen for barnet eller det er på det rene at oppholdet er midlertidig og barnet vil returnere til Norge. Det er dermed mange tilfeller hvor barn kan være i fare for et skadelig utenlandsopphold, men hvor bestemmelsen ikke kan anvendes. Utreiseforbud etter bestemmelsen framstår ikke som tilstrekkelig godt virkemiddel for barnevernstjenesten eller politiet i saker hvor det er behov for å beskytte barnet.
+
+Barnevernsloven § 5-6 om forbud mot å ta barnet ut av Norge, kan til en viss grad være egnet til å forhindre skadelige utenlandsopphold. Det forutsetter imidlertid at vilkårene for å treffe vedtak om ett eller flere av tiltakene som er nevnt i bestemmelsen, er oppfylt. Vilkårene for disse tiltakene er strenge, og det er et krav om at mindre inngripende tiltak ikke vil være tilstrekkelig, jf. barnevernsloven § 1-5 andre ledd. Bestemmelsen vil derfor ikke kunne forhindre utreise dersom vilkårene for andre barnevernstiltak ikke er oppfylt.
+
+Bestemmelsene i passloven om nektelse og tilbakekall av pass kan bidra til å forhindre reiser til land utenfor Schengen-området av hensyn til barnet selv, dersom barnet er norsk statsborger. Barn som har dobbelt statsborgerskap eller er utenlandske statsborgere, vil ikke kunne forhindres i å reise etter bestemmelsene. Nektelse eller tilbakekall av pass innebærer ikke et utreiseforbud. Det er heller ingen sanksjoner mot utenlandsreiser med barnet der barnet er nektet pass eller et utstedt pass er tilbakekalt.
+
+Bestemmelsene i utlendingslovgivningen om nektelse og tilbakekall av reisedokumenter kan bidra til å forhindre reiser til land utenfor Schengen-området for barn som har reisedokumenter utstedt av utlendingsmyndighetene. Men heller ikke disse reglene innebærer noe utreiseforbud, og det er ingen sanksjoner mot utenlandsreiser med barnet der barnet er nektet reisedokumenter eller der barnets utstedte reisedokument er tilbakekalt.
+
+Utvalgets flertall mener at utreiseforbud er et egnet og nødvendig beskyttelsestiltak for å forebygge at barn blir utsatt for skadelige utenlandsopphold. Forbudet kan bidra til å forhindre konkrete reiser. I tillegg kan eksistensen av slike beskyttelsestiltak, samt muligheten til å sanksjonere brudd på tiltaket, bidra til å endre holdningene til foreldre som vurderer å sende barnet sitt til utlandet der forholdene kan medføre alvorlig fare for barnet. Dette kan på sikt bidra til at det skjer færre slike reiser. Utvalgets flertall mener at de svenske reglene om utreiseforbud ilagt gjennom barnevernssporet er et godt utgangspunkt for lignende regler i norsk rett.
+
+Som tidligere omtalt hører det under foreldreansvaret å ta avgjørelser både om midlertidige utenlandsopphold og om permanent flytting for et barn. Foreldre står i utgangspunktet fritt til å bestemme at deres barn skal bo eller oppholde seg i land med konflikter og krig, i land med lavere levestandard eller der det gjelder strengere normer og restriksjoner for hva barn og kvinner kan gjøre, for eksempel et land der jenter og kvinner har mer begrenset bevegelsesfrihet enn menn. Samtidig ligger det utenfor foreldreansvaret og omsorgsplikten i barnelova å utsette sine barn for alvorlig fare. Foreldrene må også ta hensyn til barnets beste, herunder hensyn til barnets selvstendige rett til et privatliv og familieliv.
+
+Utvalget mener det er viktig at barnevernstjenesten har egnede virkemidler i saker hvor det er grunn til å tro at et barn blir eller vil bli utsatt for et skadelig utenlandsopphold. Når barnevernstjenesten får meldinger om slike mulige opphold, mener utvalgets flertall at det også må sikres at tjenesten har tilstrekkelige virkemidler til å kunne gripe inn og forhindre den forestående reisen. Dette kan gjøres ved å innføre en mulighet til å nedlegge et utreiseforbud, hjemlet i barnevernsloven.
+
+Utvalgets flertall erkjenner at det er en risiko for at foreldre velger å ta med barnet ut av landet før det er truffet vedtak om utreiseforbud, dersom de blir kjent med at et slikt vedtak er under forberedelse. Tiltaket vurderes likevel som et nødvendig og egnet forebyggende tiltak.
+
+### Hvilke barn bør utreiseforbud gjelde for?
+
+Det foreslåtte utreiseforbudet er bare aktuelt for barn som har vanlig bosted i Norge, jf. barnevernsloven § 1-2 andre ledd. Barnevernsloven åpner for at det kan treffes vedtak om akuttiltak for barn som oppholder seg i Norge, men har vanlig bosted i en annen stat, jf. § 1-2 fjerde ledd. Etter flertallets syn bør det ikke kunne treffes akuttvedtak om utreiseforbud for denne gruppen barn. Det vil kunne være uforholdsmessig inngripende å nekte utreise for disse barna når de ikke har vanlig bosted i Norge, da et utreiseforbud vil umuliggjøre retur til barnets vanlige bostedsland. Det kan likevel tenkes situasjoner der barnet risikerer for eksempel kjønnslemlestelse, tvangsekteskap, menneskehandel eller andre svært alvorlige handlinger. Så lenge barnet befinner seg innenfor norsk jurisdiksjon, har staten et menneskerettslig ansvar for barnet og har plikt til å iverksette andre tiltak for å hindre at dette skjer, jf. blant annet barnevernsloven § 1-2 fjerde ledd. Reglene om nødrett vil også kunne komme til anvendelse.
+
+Når et barn er i «alvorlig fare», har barnevernstjenesten imidlertid plikt til å varsle staten der barnet har bosted etter Haagkonvensjonen 1996 artikkel 36. Plikten gjelder uavhengig av om landet er tilsluttet konvensjonen eller ikke.
+
+Utvalget foreslår at tiltaket gjelder for barn inntil fylte 18 år. Utvalget er kjent med at unge voksne også utsettes for skadelige utenlandsopphold, selv om de er myndige og selv kan avgjøre om de skal reise.[^1448] Utvalget har derfor vurdert om det bør innføres en mulighet for å videreføre tiltaket etter fylte 18 år som ettervernstiltak, jf. barnevernsloven § 3-6. Når ungdommen blir myndig, bestemmer vedkommende over seg selv. Foreldrenes rett til å bestemme hvor ungdommen skal bo eller oppholde seg opphører, og myndige personer må selv samtykke til å få utstedt reisedokumenter. Ettervernstiltak for personer over 18 år er frivillige. Dersom utreiseforbud skal kunne ilegges eller videreføres for unge over 18 år, må ungdommen samtykke, jf. barnevernsloven § 3-6 første ledd. Dette innebærer en risiko for at ungdommen blir presset eller tvunget til ikke å samtykke i tiltaket. Hvis foreldrene tvinger eller truer ungdommen med på en utenlandsreise, vil dette kunne rammes av straffebudene om trusler eller tvang. Utvalgets flertall har etter dette kommet til at utreiseforbud ikke bør kunne ilegges som et frivillig hjelpetiltak for ungdom over 18 år. At ungdommen informeres om at utreiseforbudet vil opphøre ved fylte 18 år, samt at ungdommen eventuelt får hjelp og støtte gjennom andre tiltak, vil antakeligvis være en mer hensiktsmessig løsning enn å åpne for å ilegge utreiseforbud for voksne personer.
+
+### Vilkår for å ilegge utreiseforbud
+
+Utvalgets flertall mener at utreiseforbud bare bør kunne ilegges i spesifikke situasjoner. Etter forslaget skal utreiseforbud kunne ilegges der barnet risikerer ett eller flere av følgende tilfeller i utlandet:
+
+1\. å bli utsatt for forhold som medfører alvorlig fare for liv eller helse,
+
+2\. å bli utsatt for forhold som nevnt i § 5-1 bokstav a til d (alvorlig omsorgssvikt), eller
+
+3\. foreldre eller andre omsorgspersoner vil frata barnet muligheten til grunnleggende utdanning.
+
+Dette samsvarer med hvilke utenlandsopphold som utløser meldeplikt, jf. forslaget til endringer omtalt i kapittel 36.
+
+Alvorlig fare for barnets liv eller helse vil omfatte tilfeller som nevnt i utvalgets forslag til straffeloven § 269 om skadelige utenlandsopphold, se utredningen kapittel 14. Det omfatter derfor alvorlig fare for at barnet vil bli utsatt for noen av de straffbare handlingene som er listet opp i utvalgets forslag til straffeloven ny § 269, som vold, tvang, trusler, tvangsekteskap, frihetsberøvelse, kjønnslemlestelse eller mishandling i nære relasjoner. Det har ikke betydning om handlingene er straffbare i det landet barnet risikerer å bli sendt til. I tillegg omfattes forhold som ikke nødvendigvis er straffbare. Alvorlig fare for *liv* vil for eksempel omfatte tilfeller der det er risiko for at barnet ikke vil få strengt nødvendig helsehjelp eller der det er en risiko for at barnet blir sendt til eller etterlatt i et krigsrammet konfliktområde.
+
+Med *helse* forstås både fysisk og psykisk helse. Alvorlig fare for helse kan omfatte tilfeller der barnet ikke vil få helt nødvendig helsehjelp, eller der det er risiko for at barnet utsettes for undertrykkelse, «oppdragelsesreiser» eller konverteringsterapi på grunn av sin legning eller kjønnsidentitet. At barnet blir etterlatt alene i utlandet uten kjente omsorgspersoner rundt seg eller blir isolert fra omverdenen vil også kunne innebære en alvorlig fare for barnets fysiske og psykiske helse.
+
+Utvalgets flertall har vurdert om utreiseforbud også bør kunne ilegges der det er alvorlig fare for barnets utvikling, som er beskyttet av barnekonvensjonen artikkel 6. Utvalget mener at bestemmelsen bør inneholde en mer presis beskrivelse av hvilke farer barnet risikerer å bli utsatt for. Utvikling, slik det er tolket av Barnekomitéen,[^1449] er et vidt begrep, og alvorlig fare for barnets *utvikling* er delvis overlappende med alvorlig fare for barnets psykiske helse. I lys av hvor inngripende tiltaket kan være, er fare for utvikling et for upresist begrep. Det vises til omtalen av utviklingsbegrepet i kapittel 14 om straff for utenlandsopphold. I stedet mener utvalgets flertall at også nærliggende fare for at barnet blir utsatt for alvorlig omsorgssvikt, bør kunne medføre utreiseforbud. Dette kan eksempelvis omfatte tilfeller der det er fare for at barnet blir plassert hos personer som ikke vil ivareta barnets behov for kontakt og trygghet, at det blir holdt borte fra den andre forelderen ved barnebortføring, eller at det er en risiko for at barnet vil havne i en situasjon der det må begå alvorlig kriminalitet eller leve i et miljø der alvorlig kriminalitet begås.
+
+Retten til utdanning er en helt sentral rettighet for ivaretakelse av barnets rett til utvikling og anses både som en sivil og politisk rettighet og en økonomisk, sosial og kulturell rettighet.[^1450] Utvalgets flertall mener derfor at det bør kunne ilegges utreiseforbud dersom det er nærliggende fare for at barnet vil bli fratatt muligheten til grunnleggende utdanning i utlandet, fordi foreldre eller andre omsorgspersoner aktivt motarbeider at barnet får skolegang. Det må foreligge objektive holdepunkter og sannsynlighetsovervekt for slik motarbeidelse. Med grunnleggende utdanning menes utdanning som barnet har rett og plikt til etter barnekonvensjonen artikkel 28 og 29 og EMKs tilleggsprotokoll 1 artikkel 2. Det vil ikke være tilstrekkelig til å ilegge utreiseforbud at utdanningen vil ha lavere kvalitet eller være mindre omfattende enn utdanningen barnet ville fått i Norge, eller at utenlandsoppholdet vil medføre et kortvarig avbrudd i utdanningsløpet. Det må være nærliggende fare, det vil si sannsynsynlighetsovervekt, for at foreldre eller andre omsorgspersoner vil frata barnet muligheten til grunnleggende utdanning.
+
+Utvalgets flertall har vurdert om utreiseforbud bør kunne ilegges der et barn over 12 år ikke samtykker til et utenlandsopphold eller flytting utenlands uten en forelder med foreldreansvar, jf. barnelova §§ 40 og 41. Et utreiseforbud i slike situasjoner ville kunne bidra til å gi barnets samtykkerett en reell virkning. Utvalgets flertall er likevel usikre på effekten av en slik bestemmelse. Det kan være vanskelig for et barn å la være å samtykke, og barnet vet heller ikke alltid hva det samtykker til. Enkelte barn som vokser opp i en lydighetskultur, vil ikke nødvendigvis ha forutsetninger for å fortelle at det ikke ønsker reisen. Et utreiseforbud der barnet ikke samtykker til å reise uten en forelder kan også medføre en del praktiske utfordringer. Foreldrene vil kunne ombestemme seg og velge å reise sammen med barnet, noe som gjør at utreiseforbudet må oppheves. Det er heller ingen garanti mot at foreldrene etterlater barnet alene i utlandet. Utvalgets flertall har derfor landet på at manglende samtykke ikke bør være et selvstendig vilkår for å ilegge utreiseforbud, men at det vil kunne være et moment i vurderingen av om bestemmelsens øvrige vilkår er oppfylt. Dersom barnet uttrykker bekymring for hva som kan skje i utlandet, må dette tillegges stor vekt i vurderingen av om utreiseforbud skal ilegges.
+
+Etter forslaget må det være «nærliggende fare» for at barnet vil bli sendt til utlandet til forhold som nevnt i bestemmelsen for at utreiseforbud kan ilegges. Vilkåret om «nærliggende fare» benyttes blant annet i barnevernsloven § 3-4 om pålegg om hjelpetiltak, og ifølge forarbeidene til denne bestemmelsen må det være en «reell risiko».[^1451] Tilsvarende vil gjelde for utreiseforbud. Kravet innebærer at det som utgangspunkt må være sannsynlighetsovervekt for at barnet vil bli sendt på en slik reise, men der faren framstår som konkret og svært alvorlig kan en lavere sannsynlighetsgrad aksepteres.[^1452] Dette kan være dersom det barnet risikerer å bli utsatt for er svært alvorlig. Det gjelder for eksempel fare for kjønnslemlestelse, seksuelle overgrep, menneskehandel eller tvangsekteskap. Det må vurderes konkret om vilkåret er oppfylt i den enkelte saken. I denne vurderingen må det blant annet legges vekt på om et utenlandsopphold er nært forestående eller om det foreligger konkrete reiseplaner. Det må også legges stor vekt på om barnet uttrykker bekymring for hva som vil skje under oppholdet.
+
+Utvalgets flertall har vurdert både en lavere og en høyere terskel for å ilegge utreiseforbud. Et lavt krav til sannsynlighet kan være å stille krav om at det må være «grunn til å tro» at barnet vil bli utsatt for et skadelig utenlandsopphold. Ved et slikt krav må det foreligge en konkret begrunnet bekymring for at barnet befinner seg i en situasjon som omtalt i bestemmelsen, uten at det er et krav om sannsynlighetsovervekt eller sikker viten. «Grunn til å tro» brukes blant annet i passloven § 5 tredje ledd bokstav g om nektelse av pass til barn. I forarbeidene er det presisert at det kreves objektive holdepunkter, slik at en teoretisk mulighet ikke er nok.[^1453] Det må foreligge noe i det konkrete saksforholdet som gir grunn til å tro at barnet vil bli sendt på et utenlandsopphold som medfører alvorlig fare for barnets liv, helse eller utvikling. Faren må være «nærliggende og reell», jf. det tilsvarende vilkåret i straffeprosessloven § 222 a.[^1454] Om terskelen legges til *grunn til å tro* kreves det i utgangspunktet ikke mer enn det som kreves for å utløse meldeplikt, jf. barnevernsloven § 13-2. Etter denne bestemmelsen kreves det ikke sikker viten, men en vag mistanke er ikke nok.[^1455] I lys av at et utreiseforbud er et inngripende tiltak, mener utvalgets flertall at et krav om grunn til å tro vil være en for lav terskel.
+
+En høyere terskel ville vært å stille krav om at det er *overveiende sannsynlig* at barnet vil bli sendt eller tatt med til utlandet til forhold som medfører alvorlig fare for barnets liv, helse eller utvikling. Overveiende sannsynlig benyttes i barnevernsloven § 5-1 første ledd bokstav d til f om omsorgsovertakelse. I Prop. 133 L (2020–2021) framgår det at det etter bokstav e «må være lite tvil» om at foreldrene ikke vil kunne ivareta omsorgen for barnet.[^1456] Med et slikt sannsynlighetskrav skal det mye til før terskelen for å treffe vedtak om utreiseforbud er nådd, og det kan gjøre at bestemmelsen ikke får den preventive effekten den er tiltenkt.
+
+Utvalgets flertall anbefaler derfor at terskelen settes til at det må være nærliggende fare for at barnet vil bli sendt på et opphold som medfører forhold som listet opp i bestemmelsen. Det skal ikke være noen automatikk i at det nedlegges utreiseforbud fordi et barn skal reise til et bestemt land eller område der det for eksempel forekommer at barn blir kjønnslemlestet eller giftet bort. Med bakgrunn i undersøkelser i saken må det gjøres en konkret vurdering av om vilkårene for utreiseforbud er oppfylt og om det faktisk er nærliggende fare for at det konkrete barnet vil bli sendt på et utenlandsopphold som medfører slike farer som bestemmelsen omfatter.
+
+Utreiseforbud skal ikke ilegges dersom andre, mindre inngripende tiltak vil være tilstrekkelige, for eksempel dersom foreldrestøttende (omsorgsendrende) hjelpetiltak vil være nok til at foreldrene ikke går videre med planene om å sende barnet på et skadelig utenlandsopphold. I vurderingen av om mindre inngripende tiltak vil være tilstrekkelig, må det tas i betraktning om det er en risiko for at barnet blir sendt ut av landet hvis det settes i verk andre tiltak enn utreiseforbud. Det er også relevant å sette inn hjelpetiltak eller andre tiltak samtidig med et utreiseforbud, slik at planene om å sende barnet på et skadelig utenlandsopphold endres på sikt. Slike samtidige tiltak vil kunne gjøre at utreiseforbudet opprettholdes i kortere tid enn om det ilegges alene, og vil dermed gjøre det mindre inngripende.
+
+### Utreiseforbudets varighet
+
+I tråd med EMDs praksis, omtalt i punkt 27.2.1 ovenfor, må det sikres at utreiseforbudet ikke varer lenger enn nødvendig, og det må være nødvendig og forholdsmessig i hele perioden det varer. Det må derfor jevnlig revurderes om vilkårene for utreiseforbudet er oppfylt. Dette kan sikres ved at vedtaket gjøres tidsbegrenset, og at vedtaket kan fornyes eller forlenges dersom vilkårene fremdeles er oppfylt.
+
+Vedtakets varighet bør ses i sammenheng med sannsynlighetskravet. Jo lavere terskel for å ilegge forbud, jo hyppigere bør vedtaket revurderes. Utvalgets flertall mener at vedtaket bør revurderes minst hver sjette måned, for å sikre at vedtaket ikke opprettholdes lenger enn nødvendig. Hvis bekymringen som ligger til grunn for vedtaket ikke lenger er til stede, må vedtaket oppheves selv om den tidsbegrensede varigheten ikke har utløpt.
+
+### Muligheter for unntak fra utreiseforbudet
+
+Utvalgets flertall mener at det bør åpnes for unntak fra utreiseforbudet for konkrete utenlandsreiser som ikke medfører noen fare for barnet, som skoleturer og lignende. Dette vil gjøre at forbudet ikke blir mer inngripende enn nødvendig. Et slikt unntak er mulig etter de svenske reglene, jf. LVU 31 i §. Utvalgets flertall legger til grunn at kompetansen til å gjøre unntak fra utreiseforbudet bør legges til barnevernstjenesten, på samme måte som barnevernstjenesten kan samtykke til utenlandsreiser i saker som er nevnt i barnevernsloven § 5-6 om forbud mot å ta barnet med ut av landet. Å legge kompetansen til nemnda vil kunne gjøre at det tar uforholdsmessig lang tid å få det nødvendige samtykket.
+
+Dersom det gjøres unntak fra utreiseforbudet for en enkeltreise, kan det være nødvendig å utstede midlertidige reisedokumenter. Passloven § 5 femte ledd åpner for å utstede pass med begrenset gyldighetstid og begrenset gyldighetsområde selv om en person er omfattet av en skjønnsmessig passhindringsgrunn. Dette kan bare skje i særlige tilfeller, og regelen er ment som en snever unntaksregel. Pass kan i dag ikke utstedes der det foreligger en absolutt hindringsgrunn. Av hensyn til barnet selv bør det være mulig å utstede midlertidige reisedokumenter selv om utreiseforbudet i utgangspunktet er ment å være absolutt, noe som bør presiseres i passloven § 5 femte ledd.
+
+Ettersom vedtaket om utreiseforbud kan være registrert i SIS, vil tillatelse til enkeltreiser antakeligvis bare være aktuelt innenfor i Schengen-området. Det er lite hensiktsmessig at slike vedtak skal meldes inn og ut av SIS på grunn av enkeltreiser. En konsekvens av dette vil være at barnet ikke kan reise til for eksempel Storbritannia eller til land utenfor Europa mens det er omfattet av et utreiseforbud.
+
+### Hvem bør kunne ilegge utreiseforbud?
+
+Etter flertallets syn bør et utreiseforbud i størst mulig grad følge det alminnelige systemet for tiltak etter barnevernsloven. Avgjørelsen bør treffes av barneverns- og helsenemnda, på samme måte som andre inngripende barnevernstiltak som omsorgsovertakelse, fratakelse av foreldreansvar og adopsjon. Man kunne tenkt seg at avgjørelsen legges utenfor barnevernssystemet og heller treffes av domstolene ved kjennelse, på samme måte som utreiseforbud etter barnelova § 41. Man kunne også tenkt seg at reglene om utreiseforbud utformes på samme måte som besøksforbud etter straffeprosessloven § 222 a, ettersom utreiseforbudet er, på samme måte som besøksforbud, et forebyggende tiltak for å forhindre skadelige handlinger. I så fall ville myndigheten til å nedlegge forbudet legges til påtalemyndigheten, og personen som ilegges forbudet kan kreve beslutningen brakt inn for retten, jf. straffeprosessloven § 222 a sjette ledd.
+
+Samtidig har barneverns- og helsenemnda myndighet til å treffe andre tiltak som er like eller enda mer inngripende enn utreiseforbud for de som berøres. Utvalgets flertall mener derfor at det ikke er grunn til å etablere særregler for myndigheten til å treffe vedtak om utreiseforbud.
+
+Det er barnevernstjenesten som i første rekke har i oppgave å beskytte og hjelpe barn. Gjennom utvalgets forslag om å etablere en meldeplikt til barnevernstjenesten ved fare for skadelige utenlandsopphold, jf. kapittel 36, vil barnevernstjenesten som regel være de første til å få kjennskap til slike mulige opphold, og vil kunne undersøke forholdene rundt reisen. Det er da naturlig at barnevernstjenesten får kompetanse til å treffe vedtak om utreiseforbud, framfor at barnevernstjenesten må videreformidle informasjonen til påtalemyndigheten. Påtalemyndigheten vil uansett, på tilsvarende måte som barnevernstjenestens leder og lederens stedfortreder, få hastekompetanse til å nedlegge utreiseforbud, slik de har for visse akuttvedtak i dag, jf. nedenfor.
+
+I saker om utreiseforbud kan det være viktig å ha kunnskap om sosiale og moralske normer i landet barnet risikerer å bli sendt til, familiestrukturer og hierarkiordning i familien i det aktuelle landet, utdannings- og helsetilbudet i landet eller området barnet skal reise til, samt hvordan foreldrenes egen holdning til for eksempel kjønnslemlestelse eller tvangsekteskap påvirker risikoen for barnet. I barnevernssaker består nemnda av en nemndleder (som må oppfylle kravene for å bli dommer), ett medlem fra det alminnelige medlemsutvalget og ett fra utvalget av fagkyndige, jf. barnevernsloven § 14-2, jf. domstolloven § 66 første ledd. De fagkyndige i barnevernssaker er psykologer, leger, barnevernspedagoger eller sosionomer.[^1457] Disse vil ikke nødvendigvis ha tilstrekkelig kunnskap til å vurdere farene barnet risikerer å bli utsatt for i utlandet.
+
+En forutsetning for at ordningen med utreiseforbud skal lykkes, vil være at barneverns- og helsenemnda, og barnevernstjenesten som forbereder sakene for nemnda, har nok kunnskap om både risikoen for det konkrete barnet og forholdene i landet som barnet kan bli sendt til.
+
+### Forholdet til akuttvedtak
+
+Barnevernstjenesten kan få kjennskap til en forestående utenlandsreise kort tid før avreisetidspunktet. I lys av at formålet med forbudet er å forhindre utreise, og at oppholdet kan få skadelige konsekvenser for barnet dersom det gjennomføres, mener utvalget at barnevernstjenesten og politiet v/påtalemyndigheten bør kunne treffe akuttvedtak om utreiseforbud der det er fare for at barnet blir tatt med ut av landet dersom vedtaket ikke treffes straks. Myndigheten til å treffe akuttvedtak bør legges til barnevernstjenestens leder, lederens stedfortreder eller påtalemyndigheten, på samme måte som for akuttvedtak om omsorgsovertakelse etter barnevernsloven § 4-2.
+
+Et akuttvedtak etter barnevernsloven §§ 4-2 til 4-5 (akuttvedtak om omsorgsovertakelse, midlertidig flytteforbud og plassering i barnevernsinstitusjon) skal straks etter iverksetting sendes til barne- og helsenemnda. Nemndleder skal avgjøre om vedtaket skal godkjennes. Saken skal avgjøres snarest, og om mulig innen 48 timer etter at nemnda har mottatt den, jf. barnevernsloven § 14-22. Foreldrene kan påklage akuttvedtaket, jf. § 14-23. Disse reglene bør også gjelde for akuttvedtak om utreiseforbud.
+
+På samme måte som for andre akuttvedtak, legger utvalgets flertall til grunn at vedtaket bør falle bort innen kort tid, med mindre barnevernstjenesten fremmer begjæring om et ordinært utreiseforbud for barneverns- og helsenemnda. I lys av hvor inngripende tiltaket kan være, må det snarest mulig behandles på vanlig måte. For akuttvedtak om plassering i institusjon etter barnevernsloven §§ 4-4 og 4-5 er barnevernstjenestens frist for å følge opp vedtaket med en begjæring til barneverns- og helsenemnda to uker fra vedtakstidspunktet. For akuttvedtak om omsorgsovertakelse etter § 4-2 er fristen seks uker. Utvalgets flertall er usikre på hvor lang barnevernstjenestens frist for å fremme en begjæring om et ordinært utreiseforbud bør være. Dersom foreldrenes omsorgsevne ellers er god, og utreiseforbudet ikke kombineres med andre tiltak etter barnevernsloven, vil barnet få anledning til å fortsette å bo hjemme, gå på sin vanlige skole osv. Dette tilsier at barnevernstjenesten bør få rimelig tid til å forberede saken, og kan tale for at fristen bør settes til seks uker.
+
+### Forholdet til utlendingsloven
+
+Et utreiseforbud vil etter omstendighetene kunne komme i strid med et avslag på oppholdstillatelse og utreisepåbud ilagt av utlendingsmyndighetene. Terskelen og beviskravene for når forholdene i et annet land tilsier at et barn skal gis oppholdstillatelse i Norge etter utlendingsloven, kan være en annen enn terskelen og beviskravene for å ilegge et utreiseforbud etter forslaget her. Dette kan for eksempel innebære at et tilfelle som tilsier utreiseforbud, ikke nødvendigvis innebærer at barnet skal gis en oppholdstillatelse i Norge. Det er utlendingsmyndighetene som gir oppholdstillatelse til barnet.[^1458] Et utreiseforbud etter barnevernsloven vil ikke føre til at utlendingsmyndighetenes vedtak settes til side. Samtidig vil de mest alvorlige tilfellene som risiko for kjønnslemlestelse og tvangsekteskap danne grunnlag for opphold etter utlendingsloven § 28 (beskyttelse) eller § 38 (opphold på grunn av sterke menneskelige hensyn). Det er derfor viktig at opplysninger fra barnevernsmyndighetene om barnets situasjon og risiko kan videreformidles til utlendingsmyndighetene, se neste punkt.
+
+### Samhandling og pålegg om utlevering av opplysninger
+
+Etter barnevernsloven § 13-4 kan barnevernstjenesten og barneverns- og helsenemnda gi pålegg til offentlige myndigheter om å utlevere taushetsbelagte opplysninger når det er nødvendig for å vurdere, forberede og behandle saker om ulike vedtak etter loven. Etter flertallets syn bør det kunne pålegges utlevering av taushetsbelagte opplysninger også i saker om akuttvedtak om utreiseforbud og vedtak om utreiseforbud. Det er ingen grunn til å ha andre regler for dette tiltaket enn for andre barnevernstiltak. Barnevernstjenesten og nemnda har et selvstendig ansvar for at saken er så godt opplyst som mulig, og at de kjenner til de nødvendige faktiske forholdene i saken før vedtak treffes. I forkant av et vedtak om utreiseforbud bør barnevernstjenesten innhente opplysninger fra utlendingsforvaltningen om barnets og foreldrenes oppholdsstatus og eventuell annen informasjon som er nødvendig for vurderingen av utreiseforbudet. Ved akuttvedtak om utreiseforbud bør dette gjøres så langt det er mulig. En mulighet til å pålegge utlevering av opplysninger vil gjøre at vedtaket kan treffes på et bedre informasjonsgrunnlag, og bidra til å sikre riktige vedtak. Adgangen til å innhente slike opplysninger foreslås regulert i barnevernsloven § 13-4 om pålegg om å gi opplysninger. Som for annen informasjonsinnhenting etter bestemmelsen må de som gir pålegget så langt som mulig konkretisere hvilken informasjon de anser som nødvendig, slik at taushetsbelagte opplysninger ikke spres unødig.[^1459]
+
+I saker etter utlendingsloven kan nye opplysninger fra barnevernstjenesten om et utreiseforbud etter omstendighetene gi grunnlag for en ny vurdering og et eventuelt annet resultat enn tidligere. Det er derfor viktig at barnevernstjenesten pålegges å formidle til utlendingsforvaltningen at det er truffet vedtak om utreiseforbud til utlendingsforvaltningen. Dette foreslås regulert i barnevernsloven § 13-5 om barnevernets opplysningsplikt. Der barnet ikke har lovlig opphold eller det er en pågående utlendingssak på barnet eller en av foreldrene, må utlendingsmyndighetene forsikre seg om at de har oppdaterte opplysninger om barnets situasjon og eventuelt innhente ytterligere opplysninger om begrunnelsen for utreiseforbudet fra barnevernstjenesten. Utlendingsmyndighetenes adgang til å innhente opplysninger om barnevernets sak om utreiseforbud foreslås regulert i utlendingsforskriften § 17-7 d.
+
+### Oppfølging av barn og foreldre etter vedtak om utreiseforbud
+
+Et utreiseforbud kan føre til at situasjonen til barnet blir forverret, og det kan være fare for barnets omsorgssituasjon og sikkerhet. Før et vedtak om utreiseforbud formidles til partene, bør det derfor gjøres en risikovurdering av om barnet risikerer represalier som følge av vedtaket. Foreldrene kan også ha behov for råd og veiledning. Etter utvalgets vurdering bør barnevernstjenesten følge opp barn og foreldre kort tid etter at vedtaket er truffet. Dersom foreldrene ønsker det, bør barnevernstjenesten som en del av oppfølgingen formidle kontakt med øvrige hjelpeinstanser. Barnevernstjenesten må også vurdere om det er nødvendig å endre tiltaket, eller om det er nødvendig å iverksette ytterligere tiltak for barnet. Barnevernstjenestens oppfølging av et utreiseforbud foreslås regulert i en ny § 8-7 i barnevernsloven.
+
+### Sanksjoner for brudd på utreiseforbud
+
+Utvalgets flertall mener at for å sikre at utreiseforbud etterleves, bør brudd på forbudet kunne straffes. Uten en trussel om straff for å bryte forbudet vil tiltaket kunne ha liten reell effekt, da det ikke vil være virkemidler for å håndheve det. En straffesanksjonering vil tydeliggjøre foreldrenes ansvar for barnet sitt og ansvar for å overholde utreiseforbudet. Det kan også ha en viss pedagogisk og allmennpreventiv betydning ved at foreldrene blir mer oppmerksomme på at ufrivillige utenlandsreiser kan ha skadelige virkninger for barnet.
+
+Utvalgets flertall foreslår at straffeloven § 261 om omsorgsunndragelse utvides til også å omfatte situasjoner der det er truffet akuttvedtak eller vedtak om utreiseforbud, eller begjæring om utreiseforbud er sendt barneverns- og helsenemnda. Dette vil samsvare med straff for å ta med barnet ut av landet der er det er truffet eller er i ferd med å treffes tiltak etter barnevernsloven som gjør det ulovlig å ta med barnet ut av landet, jf. barnevernsloven § 5-6. Strafferammen for brudd på utreiseforbudet vil dermed være bot eller fengsel inntil to år.
+
+### Andre virkemidler for å sikre etterlevelse – passnektelse og registrering i SIS
+
+Etter passloven § 5 første ledd *skal* pass i nærmere bestemte tilfeller nektes utstedt, mens pass kan nektes etter andre og tredje ledd etter en skjønnsmessig vurdering. Utvalgets flertall foreslår at det presiseres i passloven § 5 at pass alltid *skal* nektes utstedt dersom det treffes vedtak om utreiseforbud. Dette vil sikre at pass også tilbakekalles når det treffes vedtak om utreiseforbud, jf. passloven § 7.
+
+For å sikre at passet tilbakekalles må barnevernstjenesten varsle politiet om vedtaket uten ugrunnet opphold. I tillegg må utlendingsmyndighetene varsles dersom barnet er utenlandsk statsborger, slik at eventuelle reisedokumenter utstedt etter utlendingslovgivningen kan tilbakekalles. Dette foreslås presisert i § 13-5 om barnevernets opplysningsplikt. Som følge av at det ikke skal utstedes reisedokumenter til personer som er ilagt utreiseforbud med mindre barnevernstjenesten samtykker til enkeltreiser, må opplysninger om utreiseforbudet, dets varighet og eventuelle forlengelser registreres i politiets og utlendingsmyndighetenes systemer.
+
+Utenlandske reisedokumenter vil ikke kunne beslaglegges eller ugyldiggjøres (med mindre det foreligger en nødrettssituasjon). Et ilagt utreiseforbud vil heller ikke være til hinder for at utenlandske reisedokumenter utstedes etter at vedtaket er truffet. Det er derfor viktig å sikre at utreiseforbudet får tilsiktet effekt på andre måter for personer som har reisedokumenter utstedt i andre land. Utvalgets flertall mener at registrering i SIS vil være et egnet virkemiddel her.
+
+Som omtalt i punkt 27.2.6 åpner politisamarbeidsforordningen artikkel 32 for at det kan registreres opplysninger om barn som må forhindres i å reise ut av Schengen-området av nærmere angitte grunner. Et vedtak om utreiseforbud synes nettopp å være den typen vedtak bestemmelsen tar sikte på, gitt at vedtaket er begrunnet i slike forhold som bestemmelsen krever (fare for barnebortføring, menneskehandel, tvangsekteskap, kjønnslemlestelse, kjønnsbasert vold, terrorisme og væpnet konflikt). Utvalgets flertall foreslår at det angis i barnevernsloven at barnevernstjenesten skal anmode om at vedtaket registreres i SIS dersom det er begrunnet i slike forhold. Barnevernstjenesten og nemnda må derfor vurdere konkret om det forholdet som begrunner utreiseforbudet faller inn under noen av disse alternativene, og dermed om de skal anmode om at vedtaket skal registreres i SIS. Registrering i SIS gjør at barnet vil bli fanget opp og kan stanses ved forsøk på å krysse Schengen yttergrense, uavhengig av barnets statsborgerskap.
+
+Det er begrensede muligheter for å forhindre reiser til land *innenfor* Schengen-området, uavhengig av barnets statsborgerskap. Barn kan utsettes for skadelige utenlandsopphold også i Schengen-land. Etter det utvalgets flertall kjenner til er imidlertid hovedutfordringen utenlandsopphold i land utenfor Schengen-området, som heller ikke har ratifisert Haagkonvensjonen 1980 og Haagkonvensjonen 1996. For skadelige utenlandsopphold i slike land vil utreiseforbud, nektelse av reisedokumenter og registrering i SIS være egnede og effektive virkemidler for å forhindre reisen.
+
+### Bør passloven § 5 tredje ledd bokstav g oppheves dersom utreiseforbud innføres?
+
+Pass kan etter gjeldende rett nektes utstedt eller tilbakekalles fordi det er grunn til å tro at barnet vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre fare for liv eller helse, jf. passloven § 5 tredje ledd bokstav g. Etter passloven § 7 første ledd bokstav b kan pass tilbakekalles i samme situasjon. Disse bestemmelsene har andre vilkår enn reglene som foreslås om nektelse av pass når det treffes vedtak om utreiseforbud. Etter dagens regler i passloven kreves det ikke at faren er alvorlig, og passnektelse kan skje også ved fare for straffbare forhold som ikke medfører fare for liv eller helse. Det kreves ikke sannsynlighetsovervekt for at faren vil inntreffe. Pass kan ikke nektes ved fare for at barnet vil miste muligheten til grunnleggende utdanning.
+
+Dersom det innføres en hjemmel for at barnevernet kan ilegge utreiseforbud, og at reisedokumenter *skal* tilbakekalles som følge av vedtaket, er det et spørsmål om det fremdeles er behov for dagens skjønnsmessige regler om nektelse og tilbakekall av pass og andre reisedokumenter til barn. Hvis dagens regler videreføres, vil det bli to spor for å forhindre utreise for personer med bare norsk statsborgerskap eller som har fått utstedt reisedokumenter etter utlendingslovgivningen. For barn med dobbelt eller utenlandsk statsborgerskap vil det kun være mulig med utreiseforbud ilagt av barnevernet. Det kan være uheldig at det finnes flere, delvis overlappende regler som skal oppnå det samme, og at barnets statsborgerskap skal ha betydning for mulighetene til å forhindre utreise. Utvalgets flertall foreslår likevel ingen endringer i gjeldende regelverk. Det kan være hensiktsmessig at nye regler om utreiseforbud og tilbakekall av reisedokumenter får virke en stund før det vurderes om det er behov for endringer i passloven § 5 tredje ledd bokstav g.
+
+### Forholdet til Grunnloven og menneskerettighetene
+
+Som omtalt ovenfor, gir gjeldende norsk rett mulighet til å forhindre utreise for å beskytte barn mot skadelige utenlandsopphold i flere ulike tilfeller.
+
+Utvalgets flertall legger til grunn at et forbud mot å sende eller ta med et barn til utlandet ikke utgjør et inngrep i foreldrenes rett til å forlate riket, se punkt 27.2.1. Et utreiseforbud innebærer imidlertid et inngrep i både barnets og foreldrenes rett til privatliv og familieliv etter Grunnloven § 102 og EMK artikkel 8, samt et inngrep i barnets egen rett til å forlate riket. For at et slikt tiltak skal kunne innføres, må det derfor ha hjemmel i lov, forfølge et legitimt formål og ikke gå lenger enn nødvendig.
+
+Utvalgets flertall mener at et utreiseforbud, slik det er skissert i dette kapittelet, kan innføres innenfor de menneskerettslige forpliktelsene etter Grunnloven og internasjonale konvensjoner som Norge er bundet av. Et utreiseforbud skal beskytte barn mot konkret angitte alvorlige farer, og vil dermed ivareta flere legitime formål. Utreiseforbudet skal både ivareta hensynet til å forebygge at barnet utsettes for straffbare handlinger, beskytte helse og beskytte barnets grunnleggende rettigheter. Tiltaket vil også ha klar hjemmel i lov.
+
+Utvalgets flertall mener videre at et utreiseforbud som skissert vil være forholdsmessig og ikke gå lenger enn nødvendig. Det foreslås flere mekanismer for å sikre at vedtaket ikke er mer inngripende enn nødvendig og at saksbehandlingen er forsvarlig. Utreiseforbudet må være til barnets beste, og det skal ikke ilegges dersom mindre inngripende tiltak vil være tilstrekkelig. Barnevernstjenesten og nemnda må vurdere konkret om utreiseforbud skal ilegges, basert på farene det konkrete barnet risikerer. Det er ikke nok for å ilegge utreiseforbud at barnet eller familien skal reise til land med en lavere levestandard, dårligere helsetilbud eller et mangelfullt skolesystem. Det kreves at faren for barnet er konkret og alvorlig.
+
+De vanlige saksbehandlingsreglene i barnevernsloven gjelder, og nemndas vedtak kan prøves for retten etter reglene i tvisteloven kapittel 36. Tvistelovens regler sikrer blant annet at sakene skal prioriteres og behandles så hurtig som mulig, jf. § 36-5, og staten bærer alle kostnadene ved saken, jf. § 36-8. Fri sakførsel innvilges uten behovsprøving, jf. rettshjelploven § 16.
+
+Utreiseforbudet skal ha begrenset varighet, og kan bare fornyes dersom vilkårene fremdeles er oppfylt. Ved at det kan gjøres unntak fra utreiseforbudet for enkeltreiser som ikke medfører noen fare for barnet, vil tiltaket være mindre inngripende enn dersom utreiseforbudet hadde vært absolutt. Dersom barnevernets bekymring for barnet primært er knyttet til at barnet risikerer å bli utsatt for noe skadelig i utlandet, og barnets omsorgssituasjon ellers er tilfredsstillende, kan det tenkes at et utreiseforbud gjør at behovet for andre og mer inngripende tiltak reduseres eller faller bort. For barnet og foreldrene vil utreiseforbudet være mindre inngripende enn for eksempel en plassering etter akuttvedtak om omsorgsovertakelse etter barnevernsloven § 4-2. Akuttplassering innebærer både at barnet flyttes fra familien, og et forbud mot å ta barnet med til utlandet uten samtykke fra barnevernstjenesten, jf. barnevernsloven § 5-6.
+
+Etter at det er truffet vedtak om utreiseforbud, skal barnevernstjenesten følge med på hvordan det går med barnet og foreldrene. Barnevernstjenesten skal vurdere om det er nødvendig å endre tiltaket, eller om det er nødvendig å iverksette ytterligere tiltak for barnet. Barnevernstjenesten skal kort tid etter at vedtak om utreiseforbud er truffet kontakte foreldrene og gi dem tilbud om veiledning og oppfølging. Dersom foreldrene ønsker det, skal barnevernstjenesten som en del av oppfølgingen formidle kontakt med øvrige hjelpeinstanser.
+
+Utvalgets flertall kan ikke se at mindre inngripende tiltak enn utreiseforbud er egnet til å ivareta formålet. Selv om det finnes muligheter i regelverket for å forhindre utenlandsreiser for barn, dekker de ikke alle grupper barn. Dersom det ikke innføres et utreiseforbud, er det begrensede muligheter til å beskytte barn som har bosted i Norge, men som har dobbelt eller utenlandsk statsborgerskap, mot skadelige utenlandsopphold. Selv om det er en del av foreldreansvaret å bestemme hvor barnet skal bo eller oppholde seg, mener utvalgets flertall at hensynet til å beskytte barn mot skadelige utenlandsopphold må veie tyngre enn de negative konsekvensene et tidsbegrenset utreiseforbud medfører for foreldrene.
+
+Selv om utreiseforbudet er nøytralt utformet, vil det primært være aktuelt i saker der familien har tilknytning til et annet land. Tiltaket vil derfor, på samme måte som forslaget om straff for skadelige utenlandsopphold i kapittel 14 og spørsmålet om æresmotiv som straffskjerpende moment, jf. kapittel 10, kunne oppfattes som diskriminerende og innebære en risiko for stigmatisering. Utvalgets flertall erkjenner at tiltaket vil kunne ramme personer med tilknytning til andre land i større grad enn andre. Samtidig er utreiseforbudet ikke avhengig av hvilket land eller område barnet skal reise til, men er betinget av hva barnet risikerer å bli utsatt for under utenlandsoppholdet. Utvalgets flertall mener derfor at forslaget ikke vil innebære ulovlig diskriminering. Formålet med forslaget er å beskytte barn mot alvorlige krenkelser, og det har derfor et saklig og legitimt formål. En eventuell indirekte forskjellsbehandling vil dermed ha et saklig formål, være forholdsmessig og ikke gå lenger enn nødvendig.
+
+### Dissens
+
+*Utvalgsmedlem Rui* har kommet med følgende dissens:
+
+Det er ikke tilrådelig å innføre et utreiseforbud slik foreslått av flertallet. Et pålegg om utreiseforbud er et markert inngrep i privat- og familielivet, jf. Grunnloven § 102 og EMK artikkel 8. Selv om utreiseforbud formelt retter seg mot et barn, er det på det rene at det i realiteten ofte vil være et inngrep i bevegelsesfriheten til personene som har foreldreansvar for barnet, jf. Grunnloven § 106 og EMK protokoll 4 artikkel 2. Et eksempel er hvor familien ønsker å ha et opphold i utlandet, og barnet ilegges forbud mot å forlate Norge.
+
+Et slikt inngrep i bevegelsesfriheten må være forankret i sterke *legitime formål.* Alvorlig fare for liv eller helse er legitime formål. Det samme gjelder forhold nevnt i barnevernsloven § 5-1 bokstav a til d. I prinsippet er også det at barnet mister muligheten til grunnleggende utdanning et legitimt formål.
+
+Det er tvilsomt i hvilken grad et utreiseforbud overfor et barn (forbud mot å forlate Norge) vil være *egnet* til å vareta det legitime formålet. Hvis foreldrene har et sterkt ønske om å forlate Norge og ta opphold i et annet land sammen med et barn de har foreldreansvar for, er det tvilsomt om et forvaltningsvedtak om utreiseforbud for barnet vil forhindre det. I den grad rettslige virkemidler kan være egnet, vil kriminaliseringen av skadelig utenlandsopphold være klart mer egnet som virkemiddel. På grunn av kriminaliseringen vil påtalemyndigheten kunne benytte straffeprosessuelle tiltak, slik som eksempelvis besøksforbud for siktede, jf. straffeprosessloven § 222 a. For det annet vil tiltak etter barnevernsloven være mer egnet, eventuelt i kombinasjon med avslag på søknad om reisedokumenter for barnet, jf. passloven § 5 tredje ledd bokstav b.
+
+Forslaget om utreiseforbud går lengre enn det som er *nødvendig* og tilrådelig. Vilkårene for ileggelse av utreiseforbud er vide. I de land som har regler om utreiseforbud, er de begrenset til fare for at barnet blir utsatt for konkrete straffbare handlinger, kjønnslemlestelse og barneekteskap. Vilkårene gir anvisning på krevende framtidsvurderinger. Det er en klar risiko for at vurderingene må gjøres med grunnlag i generelle risikovurderinger, eksempelvis hvordan forholdene generelt er i vedkommende land familien ønsker å reise til. En sannsynlig konsekvens er at det utvikles en praksis for hvilke jurisdiksjoner det ikke tillates utreise til. Reiser til slike jurisdiksjoner vil bli møtt med utreiseforbud. Det vil være mange jurisdiksjoner som neppe kan tilby det vi i Norge ser på som «grunnleggende utdanning». Hvis de håndhevende myndigheter skulle komme til at så er tilfellet for en jurisdiksjon, vil det i praksis medføre at familier som ønsker å oppholde seg der over lengre perioder, vil bli møtt med et utreiseforbud for barnet. Lignende vil være tilfellet for jurisdiksjoner som har et vesentlig svakere helsevesen enn i Norge, jf. vilkåret om at utenlandsoppholdet medfører alvorlig fare for «helse». Videre vil et utreiseforbud ikke være begrenset til utreise til den konkrete jurisdiksjonen, men et totalforbud mot utreise fra Norge. Dette medfører at utreiseforbudet *per se* går lengre enn nødvendig. Et barn ilagt utreiseforbud fordi det er nærliggende fare for at familien ønsker å oppholde seg en periode i et bestemt land, får ikke tillatelse til å reise til noe annet land. Her kan det i prinsippet åpnes for unntak. Det fjerner likevel ikke utgangsproblemet, som er et totalforbud mot å forlate Norge. En unntaksadgang vil også i ganske stor grad gjøre utreiseforbudet illusorisk. Slik vilkårene for utreiseforbudet er formulert, kan et forbud ikke meldes inn i Schengen-systemet, som er et politimessig samarbeid. Utreiseforbud vil være aller mest problematisk overfor familier med sterk tilknytning til et annet land enn Norge, og hvor familien ønsker å reise til det landet de har sterk tilknytning. Det framgår av forslaget at utreiseforbudet ikke skal ha lengre varighet enn det som er nødvendig, med en lengstefrist på 6 måneder. Vedtaket kan forlenges inntil 6 måneder av gangen. Utreiseforbud på grunn av at barnet ikke får det vi anser som «grunnleggende utdanning», referer seg til systemiske forhold i vedkommende lands utdanningssystem, som ikke bedrer seg i løpet av måneder. Det samme gjelder hvis oppholdet medfører alvorlig fare for barnets «helse». I praksis får dette som konsekvens at den eneste muligheten for å få opphevet et utreiseforbud, er at norske myndigheter er sikre på at familien har ombestemt seg mht. opphold med barnet i den aktuelle jurisdiksjonen. I tillegg kommer at det finnes andre tiltak, som vil gi samme (eller bedre) beskyttelse av de legitime formålene (kriminalisering, tiltak etter barnevernsloven, og avslag på søknad om/tilbaketrekking av reisedokumenter).
+
+På grunn av sviktende egnethet, og at inngrepet går lengre enn nødvendig, framstår det ikke som *proporsjonalt*. De legitime formålene kan ikke forsvare et så vidtgående inngrep i retten til privatliv, familieliv og bevegelsesfrihet som utreiseforbudet representerer. I tillegg kommer at det ikke er tilstrekkelig rettssikkerhetsmessig betryggende at primærkompetansen til å beslutte et slikt utreiseforbud tilligger Barneverns- og helsenemnda, med mulighet for rettslig overprøving i domstolen. Tilgang til uavhengig prøving av et vedtak om utreiseforbud i domstolene vil ta lang tid, og være ressurskrevende. Domstolskontrollen med utreiseforbud i land som åpner for utreiseforbud er klart bedre.
+
+Et utreiseforbud rettet mot barn som ikke har norsk statsborgerskap reiser i tillegg til forholdsmessighet problemer opp mot norsk jurisdiksjon overfor utenlandske statsborgere. Dette forsterkes av at et utreiseforbud overfor et barn i det praktiske liv ofte får store konsekvenser for personer med foreldreansvar, altså familien. I praksis vil det medføre at en familie som har annet statsborgerskap enn norsk, og som ønsker å reise tilbake til hjemlandet, blir forhindret fra det av norske myndigheter. Dette forsterkes av at et vedtak om utreiseforbud knyttet til utdanningssystem eller helsevesen i en jurisdiksjon er begrunnet i systemiske forhold i jurisdiksjonen, som etter norske myndigheters vurderinger er så dårlige at barn forbys å oppholde seg der i lengre perioder. De facto vil ordningen med utreiseforbud dermed framstå som (og være) et forbud for familier med barn mot å oppholde seg i en rekke jurisdiksjoner rundt omkring i verden.

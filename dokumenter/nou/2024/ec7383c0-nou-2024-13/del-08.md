@@ -1,1233 +1,223 @@
-# NOU 2024: 13, del 8 av 47 (side 81–92)
+# NOU 2024: 13, del 8 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 81]
+## Ufrivillige og skadelige utenlandsopphold
 
-79
+### Bakgrunn
 
-NOU 2024: 13
-Lov og frihet
+Barn og unge som oppholder seg i utlandet mot sin vilje, eller under forhold der de risikerer å bli utsatt for vold og krenkelser, har fått økt oppmerksomhet de siste årene.[^184]
 
-Kapittel 3
+Saker om ufrivillige og skadelige utenlandsopphold utgjør et bredt og komplekst saksfelt. Det kan handle om barn som er sendt til utlandet fordi de ikke følger familiens normer i Norge eller at foreldrene opplever at de ikke får hjelp med et barn som har havnet i et rusmiljø. Det kan handle om kvinner som blir fratatt reisedokumenter og dumpet hos sin svigerfamilie av sine ektemenn, unge gutter som blir sendt på disiplineringsanstalter eller ungdom som skal være en periode hos slektninger for å bli kjent med språk og kultur. Den unge kan ha reist sammen med en forelder til utlandet, for så å bli sendt til en institusjon, internatskole eller disiplineringsanstalt. Fenomenet omfatter også kortere opphold, for eksempel et ferieopphold, der den utsatte i løpet av få uker blir utsatt for tvangsekteskap, for så å returnere gift til Norge. Hvordan et ufrivillig utenlandsopphold kommer i stand og hva som er motivasjonen for oppholdet, varierer fra sak til sak.
 
-Tabell 3.1 Tall fra Utlendingsdirektoratet
-Samtykke
+Det er viktig å understreke at ikke alle ufrivillige utenlandsopphold barn er utsatt for, er skadelige eller ulovlige. Det ligger i utgangspunktet til foreldreansvaret å bestemme hvor et barn skal bo, også der bostedet er i utlandet. Mange familier lever et transnasjonalt liv, der enten hele familien tilbringer tid i sitt opprinnelsesland eller andre land, eller der foreldre sender barna til foreldrenes opprinnelsesland for å tilbringe tid med familien. Barnet kan for eksempel reise for å besøke venner eller slektninger, for å tilegne seg kunnskap om familiens opprinnelsesland, styrke sin identitet, språkferdigheter, tilhørighet til familiebakgrunn eller for å gå på en spesiell skole i utlandet.
 
-Ufrivillig ekteskap
+### Utvalgets begrepsforståelse
 
-24-årskravet
+Begreper som «ufrivillig etterlatt i utlandet», eller «ufrivillig utenlandsopphold» er ikke juridiske begreper, men brukes i både politiske og rettslige dokumenter, i forvaltningen, forskningsrapporter og av ulike hjelpeaktører. Det finnes imidlertid ingen allmenn forståelse av når et barn anses å være «etterlatt» i utlandet, eller hva som ligger i at en person oppholder seg «ufrivillig» i et annet land.[^185] Det varierer hvorvidt begrepene brukes til å omhandle både voksne og barn, eller bare barn. Det varierer også hvorvidt begrepene forbeholdes forhold som regnes som lovbrudd, for eksempel der barnets omsorg ikke ivaretas i tilstrekkelig grad eller der barnet blir utsatt for vold, tvangsekteskap eller andre straffbare forhold, eller om det også inkluderer lovlige utenlandsopphold som hører under foreldreansvaret.
 
-2018
+Utredningen benytter terminologien «ufrivillig utenlandsopphold», «barn og unge som oppholder seg i utlandet mot sin vilje» og «holdt tilbake i utlandet mot sin vilje», som fellesbetegnelser og kortversjoner som dekker flere ulike forhold som barn og unge voksne kan befinne seg i ved et utenlandsopphold. Der det er behov for mer presise formuleringer benytter utvalget andre begreper, avhengig av kontekst, for eksempel «ufrivillig utenlandsopphold i strid med foreldreansvaret» eller «utsatt for skadelig utenlandsopphold».
 
-37
+Når det er snakk om barn, benyttes betegnelsen *ufrivillig utenlandsopphold* om tilfeller der barnet oppholder seg i utlandet i strid med hva foreldrene har rett til å bestemme i kraft av sitt foreldreansvar. *Skadelig utenlandsopphold* innebærer at barn og unge er utsatt for skadelige handlinger mens de er i utlandet, for eksempel tvangsekteskap, kjønnslemlestelse, vold og mishandling, alvorlig omsorgssvikt eller at foreldrene aktivt hindrer barnet fra å motta skolegang. Et utenlandsopphold kan være ufrivillig uten at barnet eller den unge er utsatt for slike handlinger. *Etterlatt i utlandet mot sin vilje* benyttes hovedsakelig om tilfeller der et barn eller en ung voksen har reist til utlandet sammen med foreldre (med foreldreansvar) eller en ektefelle eller samboer. Disse personene returnerer da til Norge eller et annet land, mens barnet eller den unge blir igjen i utlandet mot sin vilje, eventuelt sammen med søsken.
 
-10
+### Motiver og aktører
 
-146
+Årsaker til at barn og unge sendes på ufrivillige eller skadelige utenlandsopphold er ofte sammensatte. I 2019 oppnevnte regjeringen en ekspertgruppe for å gjennomgå saker om unge som etterlates i utlandet mot sin vilje. Ekspertgruppa om unge som etterlates i utlandet mot sin vilje 2020 (Ekspertgruppa) har på bakgrunn av relevant forskning og samtaler med utsatte og hjelpeapparatet identifisert åtte hovedtrekk når det gjelder årsaker, motiver og medvirkende faktorer til at foreldre kan utsette sine barn under og over 18 år for ufrivillige utenlandsopphold. Disse omtales i det følgende.[^186]
 
-2019
+*Gjenopprette familiens ære*. Utenlandsoppholdet kan skyldes at foreldre og deres nettverk mener at den unge har skadet familiens og slektens ære, eller kommer til å gjøre det. Dette gjelder familier med sterke kollektivistiske og patriarkalske verdier, som kan se utenlandsoppholdet som en løsning for å kontrollere kvinners seksualitet eller for å «korrigere» eller skjule den unges kjønnsidentitet eller seksuell legning som bryter med den heteroseksuelle normen.
 
-44
+*Tvangsekteskap*. Utenlandsoppholdet kan skyldes at foreldrene planlegger at den unge skal giftes bort. Ekteskapet kan være avtalt av foreldrene da barnet var lite, en avtale familien har inngått for å hjelpe storfamilien til en bedre tilværelse i Norge, eller er en reaksjon på atferd eller handlinger som bryter med familiens æreskodeks.
 
-14
+*Unngå rus og kriminalitet*. Utenlandsoppholdet kan skyldes utfordringer med rus- og kriminalitet. Foreldrene kan ha bekymringer for skjevutvikling hos ungdommen, knyttet til rus, kriminalitet eller problemer i skolen. De kan ha et ønske om å fjerne ungdommen fra et skadelig miljø eller hindre uønsket atferd og søker støtte i sitt nettverk i hjemlandet.
 
-103
+*Forhindre fornorsking og styrke kulturell tilhørighet.* Unge kan sendes til hjemlandet ut fra et ønske om at de skal styrke sin kulturelle, språklige og religiøse identitet. I noen tilfeller kan dette være grunnet i en bekymring over at ungdommene har blitt «for norske». Motivet kan i større eller mindre grad bunne i et ønske om å styrke den unges kunnskap om familiens religiøse og kulturelle identitet, og/eller en form for kontroll og disiplinering av den unge.
 
-2020
+*Manglende tillit til offentlige institusjoner og hjelpeapparat*. Foreldres beslutning om å sende unge til utlandet kan henge sammen med forventinger til, frykt for og/eller erfaringer med institusjoner som skole, barnevern og helsetjenester. Foreldre kan for eksempel ønske å komme barnevernet i forkjøpet hvis de frykter omsorgsovertakelse eller andre inngrep, eller å benytte seg av andre tilbud enn det som finnes i Norge; både når det gjelder undervisning, tiltak mot rus- og atferdsproblemer, og behandling av psykiske og fysiske lidelser.
 
-50
+*Foreldretvist*. Utenlandsoppholdet kan være knyttet til uenighet mellom foreldrene om selve utenlandsoppholdet, lengden på utenlandsoppholdet, eller om hele eller deler av familien skal bosette seg permanent i opprinnelseslandet. I noen tilfeller er det fedrene som tar beslutningen om utreise, uten at mor opplever å ha mulighet til å forhindre dette.
 
-13
+*Vanskelig livssituasjon i Norge*. Dårlig økonomi, svake norskkunnskaper og trangboddhet kan bidra til at foreldre velger et utenlandsopphold for hele, deler av eller enkeltmedlemmer i familien som løsning på sine utfordringer.
 
-41
+Ekspertgruppa trekker et overordnet skille mellom foreldre som har legitime bekymringer for den unges velferd og velger utenlandsopphold som løsning på denne bekymringen, og foreldre som bruker utenlandsoppholdet til å håndheve normer som bryter med barn og unges rettigheter i Norge, og som eventuelt også begår handlinger som er straffbare i Norge.[^187] Et annet skille går mellom familier der foreldrene står sammen om å sende sønnen eller datteren ut av landet, og familier der foreldrene er uenige.
 
-2021
+Kjønn synes ikke alltid å være en driver for risikoen for å bli etterlatt i utlandet, men omstendighetene rundt utenlandsoppholdet kan derimot variere mellom kjønnene.[^188] Mens saker om jenter oftere er forbundet med bekymringer rundt tvangsekteskap, kjønnslemlestelse eller g*jenoppretting av familiens ære*, er saker om gutter oftere knyttet til et ønske om å få dem ut av et belastet miljø preget av kriminalitet og/eller rus.[^189]
 
-50
+### Konsekvenser og skadevirkninger
 
-17
+Ufrivillige og skadelige utenlandsopphold er gjerne en del av et større sakskompleks, og det kan være vanskelig å skille potensielle skadevirkninger av selve utenlandsoppholdet fra skadevirkninger knyttet til andre omstendigheter. Det kan imidlertid være nyttig å skille mellom erfaringer og skadevirkninger *før* utenlandsoppholdet, *under* utenlandsoppholdet og *etter* utenlandsoppholdet. Et slikt skille er også nyttig for å forstå hjelpeapparatets utfordringer knyttet til å hindre slike opphold og bistå de som utsettes for dem.
 
-19
+Foreldrene kan være uvitende om de konsekvensene utenlandsoppholdet får for barnets livsutfoldelse, utvikling, helse og følelse av trygghet og tilhørighet til familien og nære omgivelser. Et gjennomgående tema hos flere av de unge informantene til Ekspertgruppa er opplevelsen av svik fra egne omsorgspersoner og nære familiemedlemmer.[^190]
 
-2022
+Ifølge Ekspertgruppa vil unge som risikerer å bli sendt på et ufrivillig utenlandsopphold, ofte befinne seg i en vanskelig og uoversiktlig situasjon. De kan være bekymret for en forestående reise, men uten å ha full oversikt over hva reisen vil innebære. Mange kan oppleve at de ikke kan si sin mening til sine foreldre og kan frykte konsekvensene av å gå imot familiens vilje. Å søke hjelp kan være krevende, og mange utsatte kan ha motstridende følelser knyttet til reisen. Dette gjelder også unge over 18 år. Ekspertgruppa uttaler:
 
-46
+En vanlig mekanisme kan være at til tross for konkrete bekymringer klarer ikke de unge å tro at foreldrene har planer om å holde dem tilbake i utlandet mot deres vilje. Å frykte at de du er glad i vil utøve tvang, vold, frihetsberøvelse eller andre krenkende handlinger mot deg, kan være vanskelige følelser å romme. De unge håper derfor at de ved å samarbeide med familien ikke vil bli påført disse krenkelsene. Andre kan føle på skyld og skam for situasjonen, og oppleve at det er de selv som har forårsaket oppholdet i utlandet med sin adferd. De mener de fortjener utenlandsoppholdet – selv om det er mot deres vilje. De unge kan dermed søke hjelp og ytre sin bekymring, samtidig som de sier at de vil reise. Noen kan godta foreldrenes ønske i den tro at foreldrene vil dem vel og vet hva som er best for dem.[^191]
 
-7
+Konsekvensen av å gå imot familiens vilje kan ifølge Ekspertgruppa være at den unge må bryte med familien, noe som kan nødvendiggjøre beskyttelsestiltak dersom den unge kommer fra en familie med en sterk æreskodeks og den unge er i fare for alvorlige represalier. Å leve med beskyttelsestiltak kan medføre betydelige innskrenkinger på den trusselutsattes daglige liv og sosiale omgang.[^192]
 
-34
+Det er også stor variasjon med tanke på hva utsatte for ufrivillige og skadelige utenlandsopphold faktisk opplever underveis i oppholdet. At et utenlandsopphold er ufrivillig, betyr ikke nødvendigvis at man utsettes for vold eller andre krenkelser. Blant unge som oppsøker hjelp er det imidlertid mange som har opplevd dette. Ekspertgruppas rapport viser at de utsattes erfaringer varierer med hensyn til den utsattes alder, varigheten av oppholdet, årsaken og hensikten med oppholdet.[^193] Noen har blitt forsøkt tvangsgiftet eller har blitt utsatt for vold, overgrep og/eller alvorlige trusler fra omsorgspersoner og andre. Unge som blir sendt for å bo med slektninger i utlandet forteller også at de ikke har fått den omsorgen og kjærligheten som deres egne foreldre ville gitt dem Enkelte blir fratatt pass og ID-papirer, slik at de ikke kan returnere til Norge. Andre har vært innesperret på såkalte koranskoler der de har vært utsatt for torturlignende behandling og alvorlige menneskerettighetsbrudd. Det finnes også eksempler på at unge som er fysisk eller psykisk utviklingshemmet blir plassert hos slektninger i utlandet, eller på institusjoner som skal behandle dem med religiøs skolering og urtebehandling.[^194] Andre har ikke blitt utsatt for slike forhold, men kan likevel oppleve utenlandsoppholdet som ufrivillig og som et brudd på sine rettigheter.[^195] Noen kan også ha fått begrenset eller ingen skolegang under utenlandsoppholdet, eller etter hvert mistet sine språkkunnskaper i norsk.[^196]
 
-2023
+Det er også stor variasjon i hvordan de unge opplever det å returnere til Norge etter et ufrivillig utenlandsopphold, avhengig blant annet av varigheten av oppholdet, hva de har opplevd mens de var i utlandet, og hva de faktisk vender tilbake til.[^197] Ifølge Ekspertgruppa er trusselbildet for noen av en slik karakter at den unge trenger beskyttelse og tett oppfølging ved ankomst, for eksempel gjennom å plasseres på et krisesenter eller at de gis beskyttelsestiltak. Andre returnerer til sin familie og gjenopptar sitt hverdagsliv og sosiale relasjoner de forlot.[^198] På bakgrunn av Ekspertgruppas rapport skiller utvalget mellom praktiske utfordringer på kort sikt og mer langvarige problemer som kan følge i kjølvannet av slike opphold. På kort sikt kan de utsatte møte følgende utfordringer:[^199]
 
-56
+- Den utsatte kan stå uten økonomiske midler og bosted.
 
-6
+- Den utsatte kan være meldt ut av folketrygden og kan derfor mangle rett til fastlege, skole og tannhelsetjeneste.
 
-18
+- Den utsatte kan være uten folkeregistrert adresse og trenger et nytt sted å bo og ID-papirer for å melde flytting til Norge på nytt.
 
-Totalt
+- Den utsatte kan være uten pass eller andre ID-papirer. Det koster penger å framskaffe disse, som NAV som regel ikke dekker.
 
-283
+- Den utsatte kan mangle mobiltelefon og Bank-ID. Den utsatte kan derfor være uten tilgang til nettbaserte tjenester som Altinn, Skatteetaten, Digipost og nettbank.
 
-67
+På lengre sikt kan opphold i utlandet over en viss varighet gi utfordringer med å gjenoppta skolegang i Norge, skape vanskeligheter i familien eller psykiske plager og behov for helsehjelp.[^200] Ifølge Ekspertgruppa kan de utsatte som har vært lenge borte fra Norge ha tapt viktige relasjoner og tilhørighet. De kan ha mistet ikke bare skolegang, men også språkkunnskaper i norsk, vennskap og fritidssysler. De kan ha lite kunnskap om videregående opplæring, studier, jobbsøking, NAV, bolig og økonomi. Dette kan være personer som ikke er vant til å ta selvstendige valg, og som kan ha et særlig behov for oppfølging og veiledning ved retur til Norge.[^201] I tillegg kan de ha fått dårligere helse og ha behov for behandling og oppfølgning. Over halvparten av informantene i Ekspertgruppas gjennomgang av saker rapporterte at de sliter psykisk, og hadde blant annet hukommelsessvikt, søvnvansker, nedstemthet og tunge tanker.[^202]
 
-361
+I tillegg til Ekspertgruppas rapport peker flere utredninger på at arbeidet med mottak av utsatte for ufrivillige utenlandsopphold ikke er godt nok koordinert mellom ulike instanser.[^203] Ingen offentlige instanser har et tydelig ansvar for å ta imot gruppen, og i praksis løses det på ulik måte for ulike grupper.[^204] For mindreårige som returnerer til Norge, gjør spesialutsendingene for integreringssaker eller Kompetanseteamet vanligvis en avtale med lokalt politi og/eller lokalt barnevern om å møte barnet på flyplassen, men det er dokumentert enkelttilfeller der barn som returnerer fra ufrivillige utenlandsopphold ikke har blitt møtt av noen på flyplassen.[^205] Personer som er over 18 år og som er trusselutsatt i Norge, kan oppfylle kriteriene for plass på et krisesenter og/eller i det nasjonale bo- og støttetilbudet for personer utsatt for tvangsekteskap, æresmotivert vold og negativ sosial kontroll.[^206] Også i slike situasjoner gjøres det avtaler med det lokale politiet om å møte den utsatte på flyplassen og kjøre vedkommende til et krisesenter, men også her finnes det eksempler på at utsatte ikke har blitt møtt av noen når de ankommer Norge.[^207]
 
-Avslag på søknad om familieinnvandring fordelt etter samtykkealternativet i utlendingsloven § 51 andre ledd, ufrivillighetsalternativet i § 51 andre ledd og 24-årskravet i § 41a.
+I Proba samfunnsanalyses rapport peker både Utenriksdepartementet og spesialutsendingene for integreringssaker på at det mangler et mottaksapparat og oppfølgingstilbud til personer som ikke er trusselutsatt i Norge, eller av andre grunner ikke skal plasseres på krisesenter eller i botilbudet.[^208] Selv om utsatte i denne målgruppen ikke er trusselutsatte, kan deres erfaringer tilsi at de har behov for et mottaksapparat og oppfølging fra det offentlige i etterkant.[^209] De utsatte i denne målgruppen kan, i likhet med de ovennevnte, for eksempel mangle ID-papirer/legitimasjon, penger, bosted og klær, være uten nettverk i Norge og ha hatt ingen eller manglende skolegang og helseoppfølging. De kan også mangle norskkunnskaper og systemforståelse til å orientere seg om sine rettigheter i Norge.[^210]
+
+## Omfang og tallgrunnlag
+
+### Begrensninger i kunnskapsgrunnlaget
+
+Det er vanskelig å gi gode estimater over omfanget av alle de ulike fenomenene som er beskrevet her. Utfordringene med å si noe om omfang, handler for det første om at dette er handlinger som foregår i det skjulte. Tall fra hjelpeapparatet og rettsapparatet vil nødvendigvis bare vise det som rapporteres eller anmeldes, og mørketallene må antas å være betydelige. Undersøkelser basert på selvrapportering vil på sin side være forbundet med stor usikkerhet når man spør om forhold som er stigmatiserte, tabubelagte og/eller ulovlige. For det andre er det vanskelig å si noe om omfang fordi disse fenomenene i stor grad er overlappende med hverandre og i noen tilfeller har relativt uklare avgrensninger og definisjoner. Konkrete saker vil dessuten ofte involvere en kombinasjon av flere av de beskrevne fenomenene. Kompetanseteamet registrerer for eksempel kun én hovedbekymring per sak,[^211] men andre tilleggsbekymringer kan eventuelt også registreres for å fange opp kompleksiteten i sakene og for å kunne vurdere alvorlighetsgraden og graden av trussel i den konkrete saken.[^212]
+
+I det følgende vil utvalget likevel gi en oversikt over ulike kilder som kan gi indikasjoner på hvor utbredt de ulike fenomenene er.
+
+### Vold i nære relasjoner
+
+Når det gjelder vold i nære relasjoner, utførte NKVTS i 2023 en omfangsstudie om vold og overgrep i den voksne befolkningen i Norge.[^213] Utvalget var personer i alderen 18 til 75 år. Undersøkelsen viser at partnervold rammer både menn og kvinner, men kvinner er oftere utsatt for den mest alvorlige og gjentakende partnervolden.[^214] Elleve prosent av kvinnene i undersøkelsen oppgir at de har blitt utsatt for alvorlig fysisk vold fra partner sammenlignet med tre prosent av mennene.[^215] For den mindre alvorlige partnervolden var derimot kjønnsfordelingen likere, og menn var til dels litt mer utsatt (15 prosent) enn kvinner (13 prosent).[^216] Overlappen mellom ulike former for partnervold er betydelig. De fleste som har vært utsatt for alvorlig fysisk vold fra en partner, har også opplevd en eller annen form for partnerkontroll (86 prosent av kvinnene og 95 prosent av mennene). Dette er i tråd med tidligere forskning, der man finner stor overlapp mellom kontroll og fysisk vold i parforhold.[^217]
+
+Hafstad og Augusti (2019) gjennomførte en undersøkelse blant skoleungdom i alderen 12 til 16 år for å kartlegge deres erfaringer med vold og overgrep i oppveksten. Undersøkelsen fant at én av 20 ungdommer har opplevd alvorlig fysisk vold som å bli sparket eller banket opp, mens én av fem har opplevd mindre alvorlig fysisk vold i oppveksten, som å bli lugget, ristet hardt eller slått med flat hånd.[^218] Omkring én av fem av det spurte utvalget har opplevd fysisk vold fra foreldre minst én gang, mens omkring én av ti har opplevd fysisk vold gjentatte ganger i løpet av oppveksten.[^219] Gutter rapporterte like mye fysisk vold som jenter, og både mor og far blir oppgitt som utøvere av volden, men far er oppgitt som voldsutøver oftere enn mor. Studien viser at det som regel er én av foreldrene som utøver volden, og at det er betraktelig sjeldnere at begge foreldrene utøver vold.[^220]
+
+Flere studier viser at minoriteter er mer utsatt for vold i nære relasjoner enn befolkningen for øvrig. En ny omfangsundersøkelse fra SSB (2024)[^221] viser at innvandrere og deres norskfødte barn oftere er registrert som ofre for anmeldt kriminalitet sammenlignet med befolkningen for øvrig. Overrepresentasjonen varierer mye, og gjelder ikke for alle typer av lovbrudd og landbakgrunn. Innvandrere og deres norskfødte barn er overrepresentert som ofre for anmeldt *vold og mishandling.* Innvandrerkvinner er nesten dobbelt så ofte utsatt for vold og mishandling sammenlignet med kvinner i befolkningen ellers.[^222] I tillegg er innvandrerkvinner spesielt, men også kvinner i øvrig befolkning, overrepresentert som ofre for hensynsløs atferd og personforfølgelse. Undersøkelsen viser videre at *innvandrerbarn* er kraftig overrepresentert som ofre for mishandling i nære relasjoner, sammenlignet med norskfødte barn med innvandrerforeldre og med barn i befolkningen for øvrig. Også ungdomsundersøkelsen til Hafstad og Augusti (2019) fant at barn med utenlandske foreldre fra land utenfor Norden opplever mer alvorlig fysisk vold enn barn som har foreldre fra Norge eller Norden.[^223] Ungdom som ikke ønsker å kategorisere seg selv som verken gutt eller jente, hadde også betydelig flere erfaringer med vold og overgrep enn andre ungdom.[^224]
+
+I helse- og levekårsundersøkelsen SAMINOR II fra 2019 som gjelder for områder med samisk og norsk bosetting, rapporterer de samiske informantene høyere forekomst av alle typer vold sammenlignet med befolkningen for øvrig.[^225] Voldsutøver er for alle informantene ofte kjent for offeret, men det er ingen vesentlig forskjell mellom samer og ikke-samer når det gjelder rapportert vold som utøves av slektninger eller samlivspartner.
+
+### Psykisk vold
+
+Det mangler gode data på omfanget av psykisk vold både i Norge og internasjonalt, blant annet som følge av utfordringene med å tydelig definere hva psykisk vold er. Tall fra offentlige aktører gir imidlertid indikasjoner på omfanget av psykisk vold i Norge.
+
+I 2022 behandlet Kompetanseteamet totalt 891 saker. Hovedbekymringen «trusler og vold» var den mest vanlige og utgjorde 41 prosent av sakene (386 saker).[^226] Av disse sakene omhandlet 298 saker psykisk vold og trusler. I tillegg ble psykisk vold og trusler registrert som en tilleggsbekymring i 54 prosent av alle sakene Kompetanseteamet har jobbet med i 2022.[^227]
+
+I omfangsstudien til NKVTS fra 2023 svarte deltakerne på fire spørsmål om kontrollerende atferd: om de noen gang hadde opplevd at en kjæreste, partner eller ektefelle kontrollerte hva de brukte tiden på; om de måtte gjøre rede for hvor de hadde vært; om partner var sjalu eller mistenksom overfor venner; eller om de ble overvåket på nett av partner, for eksempel via sosiale medier.[^228] Studien fant at over en tredjedel av både kvinner og menn rapporterte om en eller annen form for kontroll i parforholdet (36 prosent).[^229] Generelt opplevde menn oftere å bli overvåket på nett enn kvinner, mens kvinner noe oftere opplevde sjalusi og å måtte gjøre rede for hvor de hadde vært. Når det gjaldt omfattende kontroll (definert som å ha opplevd minst tre av de fire nevnte kontrollformer), var kvinner mer utsatt (17 prosent mot 14 prosent av menn).[^230] Forskerne fant også en tydelig sammenheng mellom fysisk vold og kontroll. De fleste som hadde vært utsatt for alvorlig fysisk vold fra partneren sin, hadde opplevd en eller annen form for partnerkontroll (86 prosent av kvinnene og 95 prosent av mennene).
+
+I sin undersøkelse om ungdoms erfaringer med vold og overgrep fant Hafstad og Augusti (2019) at omkring én av fem hadde opplevd psykisk vold fra foreldre, definert som gjentatte tilfeller av psykiske krenkelser. Flere jenter enn gutter hadde opplevd psykisk vold.[^231] Videre hadde 18 prosent opplevd at mor var blitt utsatt for minst én form for fysisk eller psykisk vold, mens 14 prosent hadde opplevd at far var blitt utsatt for dette. I tillegg hadde sju prosent av utvalget sett en voksen hjemme slå søsken, og fire prosent hadde opplevd vold mot familiens kjæledyr fra en voksen hjemme.[^232]
+
+Noen nyere studier viser at Lhbtiq+-personer har økt utsatthet for vold, særlig personer med minoritetsbakgrunn.[^233] I studien Levekår blant skeive med innvandrerbakgrunn fra 2018, framgår det at flere av informantene hadde blitt utsatt for vold, trusler (blant annet drapstrusler) og påføring av skyld og skam da de kom ut som homofile.[^234] Flere informanter fortalte også om sterke negative reaksjoner og sanksjoner fra familiemedlemmer, som tok form av trusler og psykisk vold. En studie fra 2014 viste også at unge Lhbtiq+-personer er en spesielt utsatt gruppe når det gjelder psykisk vold i familien, og da særlig personer med etnisk minoritetsbakgrunn.[^235]
+
+### Negativ sosial kontroll
+
+Det finnes ikke sikre tall på hvor mange som utsettes for negativ sosial kontroll i Norge. Tall fra både forskningsstudier og årsrapporter gir likevel indikasjoner på tendenser og utvikling over tid.
+
+*Integrerings- og mangfoldsdirektoratet (IMDi)* gir hvert år ut tall- og tiltaksrapportering på omfang av innrapporterte saker om negativ sosial kontroll. IMDis mangfoldsrådgivere ga i 2022 råd og veiledning i totalt 950 saker som omhandler negativ sosial kontroll og æresmotivert vold.[^236] De har i størst grad involvert personer med bakgrunn fra Syria, Irak, Somalia, Pakistan og Afghanistan.[^237]
+
+Hovedbekymringen i de fleste sakene var «negativ sosial kontroll» og «vold/trusler», henholdsvis 615 og 175 saker. Som tidligere år omhandler sakene fra 2022 i hovedsak jenter/kvinner (76 prosent).[^238] Halvparten av sakene gjaldt unge under 18 år. Saker om «negativ sosial kontroll» kan ha ulike former og det kan være ulike utøvere av kontrollen.[^239] Rapporten viser at det i flere tilfeller er foreldre som begrenser sine barns frihet, men kontrollen fra øvrige familiemedlemmer, nærmiljø og nettverk som venner og kjærester forekommer også. Foreldre kan begrense sine barn ved å kontrollere deres deltagelse på fritidsaktiviteter, valg av utdanning og i hvilken grad de kan møte venner utenom skoletiden. I enkelte saker utøver ungdommer negativ sosial kontroll ovenfor hverandre, for eksempel ved at eldre søsken holder oppsyn med småsøsken eller kjærester som utøver kontroll over hverandre. Kontrollen kan også omfatte overvåkning av telefon og kontoer på sosiale medier.
+
+I 2022 registrerte Kompetanseteamet 135 saker der hovedbekymringen var negativ sosial kontroll, av totalt 891 saker.[^240] Kompetanseteamet registrerer saken som «trusler og vold» når hovedbekymringen for den utsatte handler om psykisk vold og trusler. I saker der kontrollen står svært sentralt i bekymringen, registreres «negativ sosial kontroll» som hovedbekymring i saken. Dette kan for eksempel handle om at foreldre kontrollerer telefon og sosiale medier, at den utsatte ikke får lov til å ha egen telefon, sosiale medier eller apper, at den utsatte ikke får ha venner eller velge sine egne venner eller at den utsatte ikke får delta i sosiale aktiviteter, ha fritidsaktiviteter eller være med på skoleturer.[^241] Negativ sosial kontroll registreres også som en tilleggsbekymring i en rekke saker som gjelder andre *hovedbekymringer*. I 2020 ble negativ sosial kontroll registrert som en tilleggsbekymring i 32 av 91 saker som gjaldt «frykt for tvangsekteskap», i 154 av 368 saker som gjaldt «vold og trusler», og i 30 av 113 saker som gjaldt «ufrivillig opphold i utlandet».[^242]
+
+En rekke studier viser at personer med minoritets- og innvandrerbakgrunn er mer utsatt for negativ sosial kontroll. En spørreundersøkelse blant elever i videregående skole gjennomført av Proba samfunnsanalyse (2021), viste at ungdommer med innvandrerbakgrunn var mer utsatt for begrensninger på skoleaktiviteter, fritidsaktiviteter, vennskap, opplevelse av kontroll fra andre, tros- og meningsfrihet og opplevelser av reaksjoner, trusler og straff. De største forskjellene var knyttet til begrensninger i parforhold og seksualitet, og jenter med innvandrerbakgrunn var utsatt for mer kontroll enn gutter. I Friberg og Bjørnsets (2019) undersøkelse blant ungdom i første klasse på videregående skole i Oslo og Akershus, svarte mellom 20 og 30 prosent av jentene bekreftende på spørsmål om foreldrene ikke ville at de skulle være sammen med noen av det motsatte kjønn på fritiden (andelen blant gutter var litt lavere). Noe færre svarte bekreftende på at de sjelden fikk lov til å være med på klassefester og andre sosiale sammenkomster med jevnaldrende.[^243] Unge med foreldre født i Pakistan, Midtøsten og Nord-Afrika, Somalia, Sri Lanka og Sør- og Øst-Asia var mest utsatt for å oppleve slike foreldrerestriksjoner.
+
+### Æresmotivert vold
+
+Det mangler gode data på omfanget på æresmotivert vold i Norge. Fordi begrepet er knyttet til utøvernes motiv, snarere enn handlingene i seg selv, er det naturlig nok mer krevende å etablere gode omfangsdata. Politiets straffesaksregister (STRASAK) har for eksempel ikke en egen statistikkgruppe om lovbrudd som utføres med et æresmotiv.
+
+Kompetanseteamet rapporterte i sin årsrapport for 2022 om en økning i antall henvendelser om æresmotivert vold. Kategorien «trusler og vold» var den mest vanlige hovedbekymringen, angitt til 41 prosent av det totale antallet saker i 2022. Ifølge Kompetanseteamet har majoriteten av sakene i større eller mindre grad et æresmotiv, uten at det føres statistikk over antall saker med æresmotiv.[^244] Ifølge Lidén mfl. (2015) utgjør æresmotivert vold et høyst tilstedeværende sakskompleks i barnevernet, NAV og politiet.[^245]
+
+### Tvangsekteskap
+
+I Norge finnes det ingen sikre tall på omfanget av tvangsekteskap. Dette skyldes delvis at det finnes gråsoner mellom hva som kan anses som lovlige arrangerte ekteskap og ulovlige ekteskap gjennomført ved tvang.
+
+Kompetanseteamet bruker følgende hovedbekymringskategorier som gjelder tvangsekteskap: «gjennomført tvangsekteskap», «frykt for tvangsekteskap», «barneekteskap», «frykt for barneekteskap» og «tvunget til å forbli i ekteskapet». I 2022 jobbet Kompetanseteamet med 8 saker som gjaldt hovedbekymringen «gjennomført tvangsekteskap», mot 16 saker i 2021.[^246] Kompetanseteamet hadde 7 saker hvor hovedbekymringen gjaldt «tvunget til å forbli i ekteskapet» i 2022.
+
+Antall saker som gjaldt «frykt for tvangsekteskap», var 91 saker i 2022 mot 132 saker i 2021. Dette er en bekymringskategori som brukes både i tilfeller der noen frykter at en person skal tvinges inn i et ekteskap og i saker der det er mistanke om et gjennomført tvangsekteskap.[^247] 65 prosent av disse sakene gjaldt frykt for at et tvangsekteskap skulle skje (hovedsakelig saker der den utsatte selv forteller at hen er bekymret for å bli tvangsgiftet). I 35 prosent av sakene var det mistanke om at en person hadde vært utsatt for tvangsekteskap. De fleste sakene som gjaldt frykt for tvangsekteskap i 2022 omhandlet personer med landbakgrunn fra Pakistan (35 saker), Syria (14 saker), Afghanistan (12 saker) og Irak (7 saker). Utlendingsdirektoratet tok kontakt med Kompetanseteamet i 27 saker der de mistenkte at noen var utsatt for tvangsekteskap i 2022, mot 67 i 2021.
+
+Kompetanseteamet behandlet 7 saker i 2022 som gjaldt «gjennomført barneekteskap», mot 8 saker i 2021 og under 6 saker i 2020 og 2019.[^248] Det ble også behandlet 26 saker som gjaldt «frykt for barneekteskap». Dette er saker der det fryktes at et barneekteskap skal bli inngått og ekteskap der det mistenkes at et barneekteskap er inngått. De fleste av sakene om «frykt for barneekteskap» gjaldt jenter, og de fleste hadde bakgrunn fra Afghanistan og Syria.
+
+Fra domstolene identifiserte Lidén og Bredal (2016) totalt 13 straffesaker om tvangsekteskap og/eller barneekteskap i perioden mellom 2002 og 2016.[^249] Tall fra Straffesaksregisteret (STRASAK) viser at det i perioden 2016 til 2022 ble anmeldt 68 tilfeller av tvangsekteskap og 7 tilfeller med barneekteskap.
+
+Det er blitt innført en rekke tiltak mot tvangsekteskap i utlendingsregelverket med henblikk på å motvirke tvangsekteskap og beskytte barn og unge mot ufrivillige samliv.[^250] Blant disse er kravet om at begge ektefeller må være fylt 24 år dersom ekteskapet er inngått etter at herboende ektefelle flyttet til Norge (såkalte familieetableringstilfeller), eller dersom herboende ektefelle er norsk borger. I tillegg kan utlendingsmyndighetene avslå søknaden dersom herboende ektefelle ikke samtykker til at den utenlandske ektefellen gis oppholdstillatelse, eller dersom det er mer sannsynlig at ekteskapet er inngått mot minst en av partenes vilje. Tabellen 3.1 viser tallmateriale fra Utlendingsdirektoratet fra de siste seks årene.
+
+Tall fra Utlendingsdirektoratet
+
+04J1xt2
+
+|        |          |                     |              |
+|--------|----------|---------------------|--------------|
+|        | Samtykke | Ufrivillig ekteskap | 24-årskravet |
+| 2018   | 37       | 10                  | 146          |
+| 2019   | 44       | 14                  | 103          |
+| 2020   | 50       | 13                  | 41           |
+| 2021   | 50       | 17                  | 19           |
+| 2022   | 46       | 7                   | 34           |
+| 2023   | 56       | 6                   | 18           |
+| Totalt | 283      | 67                  | 361          |
+
+Avslag på søknad om familieinnvandring fordelt etter samtykkealternativet i utlendingsloven § 51 andre ledd, ufrivillighetsalternativet i § 51 andre ledd og 24-årskravet i § 41a.
+
 Kilde: Tall innhentet fra Utlendingsdirektoratet 13. november 2023 (vår ref. 22/1019-134).
 
-Tabellen viser også en nedgang i antall avslag i
-saker der ektefellene er under 24 år, formodentlig
-fordi færre søker før vilkåret er oppfylt. Totalt var
-det 361 avslag i perioden fra 2018 til 2023 (per 6.
-november 2023). Antall avslag har vært fallende
-siden 24-årsvilkåret ble innført med virkning fra 1.
-januar 2017.233 Søkerne fra Afghanistan, Kosovo,
-Pakistan, Irak og Somalia utgjør den største gruppen blant avslagene.234 Fallende tendenser indikerer at færre søker om familieinnvandring på
-grunnlag av ekteskap før fylte 24 år.
-
-3.9.7 Kjønnslemlestelse
-Ifølge UNICEF er det over 230 millioner jenter og
-kvinner som lever med kjønnslemlestelse på verdensbasis.235 Det har vært en økning på 15 prosent (30 millioner jenter og kvinner) sammenlignet med det siste anslaget fra 2016, hovedsakelig
-på grunn av befolkningsvekst i de aktuelle områdene. Om lag fire millioner rammes av inngrepet
-hvert år, hvorav mer enn to millioner før fylte fem
-år.236 Kjønnslemlestelse er utbredt i varierende
-grad i enkelte deler av Afrika (144 millioner), Asia
-(80 millioner) og Midtøsten (6 millioner).237
-Det finnes ingen sikre data på omfanget av
-kjønnslemlestelse i Norge. Til tross for betydelig
-233 Fastsatt ved kgl.res. 16. desember 2016 med hjemmel i lov
-
-17. juni 2016 nr. 58 om endringer i utlendingsloven mv.
-(innstramninger II) del IV nr. 1. Fremmet av Justis- og
-beredskapsdepartementet.
-234 Brev fra Utlendingsdirektoratet 13. november 2023 (vår ref.
-22/1019-134).
-235 FNs barnefond 2024: side 2.
-236 FNs barnefond 2024: side 2 og 6.
-237 FNs barnefond 2024: side 2.
-
-innsats de senere år har norske myndigheter
-påvist svært få tilfeller av kjønnslemlestelse. Det
-kan imidlertid være mørketall. NKVTS er i gang
-med en kartleggingsstudie av omfang av
-kjønnslemlestelse i Norge som ferdigstilles i 2025.
-Studien vil kunne gi oppdatert og godt fundert
-kunnskap om utbredelse og risiko for kjønnslemlestelse i Norge.
-Tall fra Straffesaksregisteret (STRASAK) viser
-at det i perioden 2013 til 2022 ble anmeldt 30 tilfeller av kjønnslemlestelse. Det ble imidlertid ikke
-tatt ut tiltale i noen saker om kjønnslemlestelse i
-denne perioden. Lien (2017) gjennomførte en systemteoretisk analyse av politiets arbeid med
-kjønnslemlestelse.238 Undersøkelsen viste at politiet tar alle anmeldelser på alvor, og at de gjør
-grundige avhør og sender barn til undersøkelse
-hos rettsmedisinere. Likevel ble samtlige av de 53
-sakene som var anmeldt i perioden fra 2005 til og
-med 2016 henlagt. Sakene reiser vanskelige bevismessige spørsmål, blant annet fordi kjønnslemlestelsen kan ha funnet sted i et annet land enn
-Norge. Studien trakk fram følgende hindringer: 1)
-mangel på medisinske bevis, 2) tidfesting av arr
-som skyldes kjønnslemlestelse, 3) foreldres
-benektelse av kjennskap til prosedyren, 4) manglende vitner i Norge, 5) barn som ikke kan huske
-om og når inngrepet skjedde, 7) manglende kompetanse hos de som rapporterer sakene som skaper falske alarmer, 8) problemer med å bygge opp
-kompetanse på grunn av få saker, 9) prinsippet
-om at tvilen skal komme den tiltalte til gode. Rettsmedisinske undersøkelser foretatt ved Ullevål
-238 Lien 2017: side 7-10.
-
-[Side 82]
-
-80
-
-Kapittel 3
-
-NOU 2024: 13
-Lov og frihet
-
-sykehus på bakgrunn av bekymringsmeldinger
-fra barnehager, skoler og hjelpeapparat tyder på
-at svært få jenter som bor i Norge faktisk blir
-kjønnslemlestet. I de sakene der det blir påvist at
-inngrepet har skjedd, har dette i de aller fleste
-sakene sannsynligvis skjedd før de har innvandret
-til Norge, men dette kan i mange tilfeller være
-vanskelig å bevise sikkert.239
-Hafstad og Augusti (2019) inkluderte i sin
-omfangsundersøkelse av volds- og overgrepserfaringer og omsorgssvikt blant ungdom i alderen
-12–16 år spørsmål om kjønnslemlestelse.240 Alle
-som hadde svart at de var jenter, fikk et spørsmål
-om hvorvidt omskjæring av jenter er del av deres
-foreldres kultur.241 Av de 4 594 jentene som deltok i undersøkelsen svarte bare 24 respondenter
-at omskjæring av jenter er en del av deres foreldres kultur. Av disse var det kun et mindretall som
-svarte at de hadde blitt omskåret. Av de som deltok i undersøkelsen var 374 respondenter usikre
-på om omskjæring av jenter var en del av deres
-foreldres kultur. Disse fikk ikke spørsmål om de
-var omskåret.
-Kompetanseteamet har tre hovedbekymringskategorier som omhandler kjønnslemlestelse. Disse er: «gjennomført kjønnslemlestelse»,
-«frykt for kjønnslemlestelse» og «helsehjelp i forbindelse med tidligere gjennomført kjønnslemlestelse».242 Det var ingen sak som ble registrert
-med hovedbekymringen «gjennomført kjønnslemlestelse», verken i 2022 eller 2021. Det ble registrert kun én sak i 2020 der hovedbekymringen var
-«gjennomført kjønnslemlestelse.243 Kompetanseteamet behandlet i 2022 totalt 44 saker om
-kjønnslemlestelse, hvorav alle handlet om frykt
-for kjønnslemlestelse.244 De fleste av sakene gjelder bekymring for at et barn skal bli kjønnslemlestet, mens et lite antall saker handler om en mistanke for et barn er blitt kjønnslemlestet.245 For
-over halvparten av sakene var bekymringen knyttet til at barnet oppholdt seg i utlandet, mens i
-andre saker var bekymringen knyttet til at barnet
-skulle reise til utlandet sammen med en eller
-begge foreldre. Kompetanseteamet erfarer at det
-er hjelpeapparatet, og ikke barnet selv, som melder fra om bekymring for kjønnslemlestelse. Kom-
-
-petanseteamet melder at det er vanskelig å vurdere hvorvidt det er et reelt grunnlag for bekymring i disse sakene.246
-Mangfoldsrådgivere ved skoler registrerte i
-2022 mindre enn 5 saker som gjelder «frykt for
-kjønnslemlestelse» og «gjennomført kjønnslemlestelse», og tallet er derfor ikke oppgitt i rapporten.247 Mangfoldsrådgiverne oppga at de i 2020
-jobbet med åtte saker som omhandlet gjennomført kjønnslemlestelse, og ingen saker om frykt
-for kjønnslemlestelse. I 2019 og 2018 var tallene
-derimot henholdsvis 16 og 8 saker. I 2022 registrerte spesialutsendinger for integreringssaker
-ingen sak med bekymring «gjennomført
-kjønnslemlestelse», men det ble registrert 5 saker
-som gjaldt «frykt for kjønnslemlestelse».
-Mye av fokuset på kjønnslemlestelse i Norge
-har vært knyttet til personer med bakgrunn fra
-Somalia, ettersom det er en relativt utbredt praksis der. Det finnes flere kvalitative studier, samt én
-kvantitativ studie, som viser at det har skjedd en
-tydelig holdningsendring i det somaliske miljøet i
-Norge, og at de fleste somaliske innvandrere har
-gått bort fra denne skikken etter at de innvandret
-til Norge.248 Det er imidlertid noe usikkerhet i
-forskningsmiljøene rundt dette spørsmålet, ettersom det er vanskelig å vite i hvilken grad fraværet
-av avdekkede saker skyldes praksis- og
-holdningsendringer eller hjelpeapparatets manglende evne til å fange opp tilfeller.249 Det er også
-en viss usikkerhet om hvorvidt endringer i holdninger handler om at man har vendt seg bort fra
-alle typer omskjæring eller bare de mest alvorlige
-formene.
-
-239 Lien 2017: side 38-49.
-
-3.9.8 Ufrivillige utenlandsopphold
-Det finnes ikke sikre tall på hvor mange barn og
-voksne som oppholder seg ufrivillig eller under
-skadelige forhold i utlandet. Det er gjort enkelte
-undersøkelser som skaper et visst bilde av omfanget.
-På oppdrag for Kunnskapsdepartementet
-kartla Oslo Economics (2019) omfanget av kommuners behandling av saker om barn og unge opp
-til 23 år som oppholder seg eller har oppholdt seg
-i utlandet mot sin vilje. Kartleggingen er basert på
-informasjon fra spørreundersøkelser rettet mot,
-
-241 Begrepet «omskjæring» ble benyttet for å samsvare med
-
-246
-
-240 Hafstad og Augusti 2019: side 138.
-
-dagligtalen.
-242 Kompetanseteamets årsrapport 2022: punkt 2.3.5.
-243 Kompetanseteamets årsrapport 2022: punkt 6.2 (tabell 4).
-244 Kompetanseteamets årsrapport 2022: punkt 2.3.5.
-245 Ibid.
-
-Ibid.
-IMDi 2022: side 6 og 8.
-248 Friberg og Bjørnset 2019: side 43 og 44. Se også Gele mfl.
-2012a; Gele mfl. 2012b; Fangen og Thun 2007; Hafstad og
-Augusti 2019.
-249 Friberg og Bjørnset 2019: side 43 og 44.
-247
-
-[Side 83]
-
-NOU 2024: 13
-Lov og frihet
-
-og intervjuer med, representanter fra kommunale
-tjenester, supplert med befolkningsdata fra SSB
-for statistiske analyser og innspill fra Kunnskapsdepartementet, Kompetanseteamet, Integreringsog mangfoldsdirektoratet og Røde Kors.250
-Undersøkelsen viste at omtrent 25 prosent av alle
-landets kommuner hadde hatt saker med etterlatte barn i perioden 2016 til 2018, og ytterligere 5
-prosent hadde hatt mistanke om slike saker.251
-Om lag 12 prosent av kommunene oppga at de
-mener de har avverget saker som med stor sannsynlighet ville ført til etterlatte barn.252
-De kommunene som rapporterte et anslag på
-antall saker (67 kommuner), oppga totalt 415
-etterlatte barn.253 De fleste av disse er mellom 6
-og 13 år (36 prosent), etterfulgt av barn mellom
-14 og 18 år (23 prosent).254 Barn med somalisk
-bakgrunn skilte seg ut som den største gruppen.255 13 prosent av barna hadde somalisk bakgrunn på landsbasis, og 35 prosent hadde somalisk bakgrunn i Oslo. Syria og Polen fulgte etter
-med henholdsvis 8 og 7 prosent. Basert på kommunenes egne anslag og rapporteringer, samt
-befolkningsdata fra SSB, anslår Oslo Economics
-et totalomfang på i overkant av 700 etterlatte barn
-mellom 2016 og 2018, men med et usikkerhetsspenn på ca. 600-1400 barn i alderen 0-23 år.256
-Tallene er beheftet med stor usikkerhet.257
-Både Kompetanseteamet, mangfoldsrådgivere ved skoler og spesialutsendinger for integreringssaker jobber med ufrivillige og skadelige
-utenlandsopphold. De gir ut årlige rapporter om
-antall saker de har jobbet med og deres erfaringer
-med konkrete saker. I 2022 jobbet Kompetanseteamet med 113 saker der hovedbekymringen var
-«ufrivillig opphold i utlandet». En sak registreres
-med denne bekymringen når den utsatte allerede
-er i utlandet og vedkommende selv har gitt informasjon om at oppholdet er ufrivillig.258 Dette er
-en økning fra 77 i 2019, 60 i 2020 og 84 i 2021.259
-Kompetanseteamet jobbet også med 90 saker i
-2022 der hovedbekymringen var «frykt for ufrivillig opphold i utlandet».260 Denne kategorien bru250 Oslo Economics 2019: punkt 3.
-
-251 Oslo Economics 2019: punkt 4.1.
-
-kes både i saker der det er frykt for at den utsatte
-skal bli tatt med til utlandet og bli tvunget til å
-være der ufrivillig, og i saker der det er mistanke
-om at den utsatte er i utlandet mot sin vilje.261
-Dette er en nedgang fra 2021, da det var 110 saker
-om omhandlet denne hovedbekymringen.262
-Kategoriene «ufrivillig opphold i utlandet» og
-«frykt for ufrivillig opphold i utlandet» er hovedbekymringskategorier og er ikke det samme som
-antallet saker der personen befinner seg i utlandet
-når Kompetanseteamet blir involvert.263 I saker
-der personen det er bekymring for, befinner seg i
-utlandet, kan det være registrert andre hovedbekymringer som for eksempel «frykt for tvangsekteskap» eller «frykt for kjønnslemlestelse».
-I 2022 jobbet Kompetanseteamet med 208
-saker der den utsatte befant seg i utlandet da
-teamet ble involvert (også kalt utenlandssakene).264 Dette utgjør omtrent en fjerdedel av alle
-sakene i 2022 (23 prosent av 891 saker).265 Hovedbekymring i utenlandssakene var hovedsakelig
-«ufrivillig opphold i utlandet» (99 saker) og «frykt
-for ufrivillig opphold i utlandet» (41 saker). 30
-saker gjaldt hovedbekymringen «trusler og vold»,
-19 gjaldt «frykt for kjønnslemlestelse» og 9 gjaldt
-«frykt for tvangsekteskap».266 71 prosent av samtlige utenlandssaker gjaldt jenter/kvinner, og 72
-prosent gjaldt barn. Flere av sakene som gjaldt
-voksne, involverte kvinner som befant seg i utlandet sammen med sine barn. Personer med somalisk bakgrunn utgjorde den største gruppen av
-personer innen kategorien utenlandssaker (39
-prosent), med totalt 81 saker hvorav 71 gjaldt
-barn.267
-Tallene fra Kompetanseteamet samsvarer i
-stor grad med opplysninger i årsrapportene fra
-mangfoldsrådgivere og spesialutsendinger for
-integreringssaker. Kategoriene som brukes er
-samordnet med sakskategoriene som benyttes i
-rapporteringen fra Kompetanseteamet.
-IMDis spesialutsendinger for integreringssaker ga i 2022 råd og veiledning i 235 saker.268 Av
-disse gjaldt 172 saker «ufrivillig opphold i utlandet».269 Dette var den største saksgruppen med
-73 prosent av totalt antall saker. I tillegg jobbet
-
-252 Ibid.
-
-261 Ibid.
-
-254 Oslo Economics 2019: punkt 6.1.
-
-263 Ibid.
-
-253 Oslo Economics 2019: punkt 5.1.
-255 Oslo Economics 2019: punkt 6.3.
-256
-
-Oslo Economics 2019: punkt 5.3.
-
-262 Ibid.
-264 Kompetanseteamets årsrapport 2022: punkt 2.9.
-265
-
-Ibid.
-
-257 Oslo Economics 2019: punkt 5.2.
-
-266 Ibid.
-
-259 Ibid.
-
-268 IMDi 2022: side 12.
-
-258 Kompetanseteamets årsrapport 2022: punkt 2.3.3.
-260
-
-Ibid.
-
-81
-
-Kapittel 3
-
-267 Kompetanseteamets årsrapport 2022: punkt 2.1 og 2.9.
-269
-
-IMDi 2022: side 14.
+Antall saker som avslås fordi referansepersonen ikke samtykker til tillatelse, har vært forholdsvis stabilt over tid. Antall søknader som ble avslått på grunn av ufrivillighetsalternativet, har imidlertid gått noe opp mellom 2018 og 2021, men har gått ned de siste to årene.
 
-[Side 84]
+Tabellen viser også en nedgang i antall avslag i saker der ektefellene er under 24 år, formodentlig fordi færre søker før vilkåret er oppfylt. Totalt var det 361 avslag i perioden fra 2018 til 2023 (per 6. november 2023). Antall avslag har vært fallende siden 24-årsvilkåret ble innført med virkning fra 1. januar 2017.[^251] Søkerne fra Afghanistan, Kosovo, Pakistan, Irak og Somalia utgjør den største gruppen blant avslagene.[^252] Fallende tendenser indikerer at færre søker om familieinnvandring på grunnlag av ekteskap før fylte 24 år.
 
-82
+### Kjønnslemlestelse
 
-NOU 2024: 13
+Ifølge UNICEF er det over 230 millioner jenter og kvinner som lever med kjønnslemlestelse på verdensbasis.[^253] Det har vært en økning på 15 prosent (30 millioner jenter og kvinner) sammenlignet med det siste anslaget fra 2016, hovedsakelig på grunn av befolkningsvekst i de aktuelle områdene. Om lag fire millioner rammes av inngrepet hvert år, hvorav mer enn to millioner før fylte fem år.[^254] Kjønnslemlestelse er utbredt i varierende grad i enkelte deler av Afrika (144 millioner), Asia (80 millioner) og Midtøsten (6 millioner).[^255]
 
-Kapittel 3
+Det finnes ingen sikre data på omfanget av kjønnslemlestelse i Norge. Til tross for betydelig innsats de senere år har norske myndigheter påvist svært få tilfeller av kjønnslemlestelse. Det kan imidlertid være mørketall. NKVTS er i gang med en kartleggingsstudie av omfang av kjønnslemlestelse i Norge som ferdigstilles i 2025. Studien vil kunne gi oppdatert og godt fundert kunnskap om utbredelse og risiko for kjønnslemlestelse i Norge.
 
-Lov og frihet
+Tall fra Straffesaksregisteret (STRASAK) viser at det i perioden 2013 til 2022 ble anmeldt 30 tilfeller av kjønnslemlestelse. Det ble imidlertid ikke tatt ut tiltale i noen saker om kjønnslemlestelse i denne perioden. Lien (2017) gjennomførte en systemteoretisk analyse av politiets arbeid med kjønnslemlestelse.[^256] Undersøkelsen viste at politiet tar alle anmeldelser på alvor, og at de gjør grundige avhør og sender barn til undersøkelse hos rettsmedisinere. Likevel ble samtlige av de 53 sakene som var anmeldt i perioden fra 2005 til og med 2016 henlagt. Sakene reiser vanskelige bevismessige spørsmål, blant annet fordi kjønnslemlestelsen kan ha funnet sted i et annet land enn Norge. Studien trakk fram følgende hindringer: 1) mangel på medisinske bevis, 2) tidfesting av arr som skyldes kjønnslemlestelse, 3) foreldres benektelse av kjennskap til prosedyren, 4) manglende vitner i Norge, 5) barn som ikke kan huske om og når inngrepet skjedde, 7) manglende kompetanse hos de som rapporterer sakene som skaper falske alarmer, 8) problemer med å bygge opp kompetanse på grunn av få saker, 9) prinsippet om at tvilen skal komme den tiltalte til gode. Rettsmedisinske undersøkelser foretatt ved Ullevål sykehus på bakgrunn av bekymringsmeldinger fra barnehager, skoler og hjelpeapparat tyder på at svært få jenter som bor i Norge faktisk blir kjønnslemlestet. I de sakene der det blir påvist at inngrepet har skjedd, har dette i de aller fleste sakene sannsynligvis skjedd før de har innvandret til Norge, men dette kan i mange tilfeller være vanskelig å bevise sikkert.[^257]
 
-spesialutsendingene for integreringssaker med 8
-saker som gjaldt «frykt for ufrivillig opphold i
-utlandet».270 Sakene i 2022 har i størst grad involvert personer med opprinnelse fra Somalia, Irak,
-Syria, Pakistan, Tyrkia og Afghanistan.271 I 2022
-jobbet mangfoldsrådgivere ved skoler med 73
-saker som gjaldt «frykt for ufrivillig utenlandsopphold», og 21 saker om ufrivillige utenlandsopphold der den utsatte allerede oppholdt seg i utlandet mot sin vilje.272
-Når det gjelder fordelingen mellom saker som
-involverer mindreårige og saker som involverer
-voksne, er det derimot noe avvik mellom erfaringer fra spesialutsendinger for integreringssaker
-og Kompetanseteamet. I 2022 jobbet spesialutsendingene med 151 saker som involverte personer
-over 18 år, og 84 saker om personer under 18 år.
-Kompetanseteamet jobbet med 58 saker om
-voksne og 149 saker om barn. Det er også verdt å
+Hafstad og Augusti (2019) inkluderte i sin omfangsundersøkelse av volds- og overgrepserfaringer og omsorgssvikt blant ungdom i alderen 12–16 år spørsmål om kjønnslemlestelse.[^258] Alle som hadde svart at de var jenter, fikk et spørsmål om hvorvidt omskjæring av jenter er del av deres foreldres kultur.[^259] Av de 4 594 jentene som deltok i undersøkelsen svarte bare 24 respondenter at omskjæring av jenter er en del av deres foreldres kultur. Av disse var det kun et mindretall som svarte at de hadde blitt omskåret. Av de som deltok i undersøkelsen var 374 respondenter usikre på om omskjæring av jenter var en del av deres foreldres kultur. Disse fikk ikke spørsmål om de var omskåret.
 
-merke seg at sakskompleksene ofte gjelder familier med flere barn, der hver enkeltperson telles
-som en sak.273
-Lidén mfl. (2024a) gjennomførte en kartleggingsstudie ved aktuelle utenriksstasjoner hvor
-de spurte om antall saker som ambassadene har
-kommet i kontakt med de to siste årene og som
-gjelder ufrivillig opphold i utlandet. Sakene er fordelt på tre kategorier: barn, unge mellom 18-25 og
-gifte kvinner. Kategorien barn inkluderer både
-barn som oppholder seg i utlandet uten foreldre
-og barn som ber om hjelp sammen med mor. Tallgrunnlaget omfatter både saker der spesialutsendingene for integreringssaker ble involvert, og
-andre saker der de ikke har blitt kontaktet. Tabell
-3.2 viser at det var 167 voksne og 176 barn under
-18 år som ba om hjelp, i løpet av en periode på to
-år (juni 2021–juni 2023).
+Kompetanseteamet har tre hovedbekymringskategorier som omhandler kjønnslemlestelse. Disse er: «gjennomført kjønnslemlestelse», «frykt for kjønnslemlestelse» og «helsehjelp i forbindelse med tidligere gjennomført kjønnslemlestelse».[^260] Det var ingen sak som ble registrert med hovedbekymringen «gjennomført kjønnslemlestelse», verken i 2022 eller 2021. Det ble registrert kun én sak i 2020 der hovedbekymringen var «gjennomført kjønnslemlestelse.[^261] Kompetanseteamet behandlet i 2022 totalt 44 saker om kjønnslemlestelse, hvorav alle handlet om frykt for kjønnslemlestelse.[^262] De fleste av sakene gjelder bekymring for at et barn skal bli kjønnslemlestet, mens et lite antall saker handler om en mistanke for et barn er blitt kjønnslemlestet.[^263] For over halvparten av sakene var bekymringen knyttet til at barnet oppholdt seg i utlandet, mens i andre saker var bekymringen knyttet til at barnet skulle reise til utlandet sammen med en eller begge foreldre. Kompetanseteamet erfarer at det er hjelpeapparatet, og ikke barnet selv, som melder fra om bekymring for kjønnslemlestelse. Kompetanseteamet melder at det er vanskelig å vurdere hvorvidt det er et reelt grunnlag for bekymring i disse sakene.[^264]
 
-270 Ibid.
+Mangfoldsrådgivere ved skoler registrerte i 2022 mindre enn 5 saker som gjelder «frykt for kjønnslemlestelse» og «gjennomført kjønnslemlestelse», og tallet er derfor ikke oppgitt i rapporten.[^265] Mangfoldsrådgiverne oppga at de i 2020 jobbet med åtte saker som omhandlet gjennomført kjønnslemlestelse, og ingen saker om frykt for kjønnslemlestelse. I 2019 og 2018 var tallene derimot henholdsvis 16 og 8 saker. I 2022 registrerte spesialutsendinger for integreringssaker ingen sak med bekymring «gjennomført kjønnslemlestelse», men det ble registrert 5 saker som gjaldt «frykt for kjønnslemlestelse».
 
-271 IMDi 2022: side 16.
-272 IMDi 2022: side 6.
+Mye av fokuset på kjønnslemlestelse i Norge har vært knyttet til personer med bakgrunn fra Somalia, ettersom det er en relativt utbredt praksis der. Det finnes flere kvalitative studier, samt én kvantitativ studie, som viser at det har skjedd en tydelig holdningsendring i det somaliske miljøet i Norge, og at de fleste somaliske innvandrere har gått bort fra denne skikken etter at de innvandret til Norge.[^266] Det er imidlertid noe usikkerhet i forskningsmiljøene rundt dette spørsmålet, ettersom det er vanskelig å vite i hvilken grad fraværet av avdekkede saker skyldes praksis- og holdningsendringer eller hjelpeapparatets manglende evne til å fange opp tilfeller.[^267] Det er også en viss usikkerhet om hvorvidt endringer i holdninger handler om at man har vendt seg bort fra alle typer omskjæring eller bare de mest alvorlige formene.
 
-273 IMDi 2022: side 15.
+### Ufrivillige utenlandsopphold
 
-Tabell 3.2 Antallet saker som gjelder gifte kvinner, barn og unge 18–25 år ved ambassaden i et utvalg land
-i perioden juni 2021–juni 2023, og antallet saker som endte med retur.
-Gifte kvinner
+Det finnes ikke sikre tall på hvor mange barn og voksne som oppholder seg ufrivillig eller under skadelige forhold i utlandet. Det er gjort enkelte undersøkelser som skaper et visst bilde av omfanget.
 
-Retur
+På oppdrag for Kunnskapsdepartementet kartla Oslo Economics (2019) omfanget av kommuners behandling av saker om barn og unge opp til 23 år som oppholder seg eller har oppholdt seg i utlandet mot sin vilje. Kartleggingen er basert på informasjon fra spørreundersøkelser rettet mot, og intervjuer med, representanter fra kommunale tjenester, supplert med befolkningsdata fra SSB for statistiske analyser og innspill fra Kunnskapsdepartementet, Kompetanseteamet, Integrerings- og mangfoldsdirektoratet og Røde Kors.[^268] Undersøkelsen viste at omtrent 25 prosent av alle landets kommuner hadde hatt saker med etterlatte barn i perioden 2016 til 2018, og ytterligere 5 prosent hadde hatt mistanke om slike saker.[^269] Om lag 12 prosent av kommunene oppga at de mener de har avverget saker som med stor sannsynlighet ville ført til etterlatte barn.[^270]
 
-Barn
+De kommunene som rapporterte et anslag på antall saker (67 kommuner), oppga totalt 415 etterlatte barn.[^271] De fleste av disse er mellom 6 og 13 år (36 prosent), etterfulgt av barn mellom 14 og 18 år (23 prosent).[^272] Barn med somalisk bakgrunn skilte seg ut som den største gruppen.[^273] 13 prosent av barna hadde somalisk bakgrunn på landsbasis, og 35 prosent hadde somalisk bakgrunn i Oslo. Syria og Polen fulgte etter med henholdsvis 8 og 7 prosent. Basert på kommunenes egne anslag og rapporteringer, samt befolkningsdata fra SSB, anslår Oslo Economics et totalomfang på i overkant av 700 etterlatte barn mellom 2016 og 2018, men med et usikkerhetsspenn på ca. 600-1400 barn i alderen 0-23 år.[^274] Tallene er beheftet med stor usikkerhet.[^275]
 
-Retur
+Både Kompetanseteamet, mangfoldsrådgivere ved skoler og spesialutsendinger for integreringssaker jobber med ufrivillige og skadelige utenlandsopphold. De gir ut årlige rapporter om antall saker de har jobbet med og deres erfaringer med konkrete saker. I 2022 jobbet Kompetanseteamet med 113 saker der hovedbekymringen var «ufrivillig opphold i utlandet». En sak registreres med denne bekymringen når den utsatte allerede er i utlandet og vedkommende selv har gitt informasjon om at oppholdet er ufrivillig.[^276] Dette er en økning fra 77 i 2019, 60 i 2020 og 84 i 2021.[^277] Kompetanseteamet jobbet også med 90 saker i 2022 der hovedbekymringen var «frykt for ufrivillig opphold i utlandet».[^278] Denne kategorien brukes både i saker der det er frykt for at den utsatte skal bli tatt med til utlandet og bli tvunget til å være der ufrivillig, og i saker der det er mistanke om at den utsatte er i utlandet mot sin vilje.[^279] Dette er en nedgang fra 2021, da det var 110 saker om omhandlet denne hovedbekymringen.[^280]
 
-Unge 18–25 år
+Kategoriene «ufrivillig opphold i utlandet» og «frykt for ufrivillig opphold i utlandet» er hovedbekymringskategorier og er ikke det samme som antallet saker der personen befinner seg i utlandet når Kompetanseteamet blir involvert.[^281] I saker der personen det er bekymring for, befinner seg i utlandet, kan det være registrert andre hovedbekymringer som for eksempel «frykt for tvangsekteskap» eller «frykt for kjønnslemlestelse».
 
-Retur
+I 2022 jobbet Kompetanseteamet med 208 saker der den utsatte befant seg i utlandet da teamet ble involvert (også kalt utenlandssakene).[^282] Dette utgjør omtrent en fjerdedel av alle sakene i 2022 (23 prosent av 891 saker).[^283] Hovedbekymring i utenlandssakene var hovedsakelig «ufrivillig opphold i utlandet» (99 saker) og «frykt for ufrivillig opphold i utlandet» (41 saker). 30 saker gjaldt hovedbekymringen «trusler og vold», 19 gjaldt «frykt for kjønnslemlestelse» og 9 gjaldt «frykt for tvangsekteskap».[^284] 71 prosent av samtlige utenlandssaker gjaldt jenter/kvinner, og 72 prosent gjaldt barn. Flere av sakene som gjaldt voksne, involverte kvinner som befant seg i utlandet sammen med sine barn. Personer med somalisk bakgrunn utgjorde den største gruppen av personer innen kategorien utenlandssaker (39 prosent), med totalt 81 saker hvorav 71 gjaldt barn.[^285]
 
-Ankara1
+Tallene fra Kompetanseteamet samsvarer i stor grad med opplysninger i årsrapportene fra mangfoldsrådgivere og spesialutsendinger for integreringssaker. Kategoriene som brukes er samordnet med sakskategoriene som benyttes i rapporteringen fra Kompetanseteamet.
 
-8
+IMDis spesialutsendinger for integreringssaker ga i 2022 råd og veiledning i 235 saker.[^286] Av disse gjaldt 172 saker «ufrivillig opphold i utlandet».[^287] Dette var den største saksgruppen med 73 prosent av totalt antall saker. I tillegg jobbet spesialutsendingene for integreringssaker med 8 saker som gjaldt «frykt for ufrivillig opphold i utlandet».[^288] Sakene i 2022 har i størst grad involvert personer med opprinnelse fra Somalia, Irak, Syria, Pakistan, Tyrkia og Afghanistan.[^289] I 2022 jobbet mangfoldsrådgivere ved skoler med 73 saker som gjaldt «frykt for ufrivillig utenlandsopphold», og 21 saker om ufrivillige utenlandsopphold der den utsatte allerede oppholdt seg i utlandet mot sin vilje.[^290]
 
-5
+Når det gjelder fordelingen mellom saker som involverer mindreårige og saker som involverer voksne, er det derimot noe avvik mellom erfaringer fra spesialutsendinger for integreringssaker og Kompetanseteamet. I 2022 jobbet spesialutsendingene med 151 saker som involverte personer over 18 år, og 84 saker om personer under 18 år. Kompetanseteamet jobbet med 58 saker om voksne og 149 saker om barn. Det er også verdt å merke seg at sakskompleksene ofte gjelder familier med flere barn, der hver enkeltperson telles som en sak.[^291]
 
-11
+Lidén mfl. (2024a) gjennomførte en kartleggingsstudie ved aktuelle utenriksstasjoner hvor de spurte om antall saker som ambassadene har kommet i kontakt med de to siste årene og som gjelder ufrivillig opphold i utlandet. Sakene er fordelt på tre kategorier: barn, unge mellom 18-25 og gifte kvinner. Kategorien barn inkluderer både barn som oppholder seg i utlandet uten foreldre og barn som ber om hjelp sammen med mor. Tallgrunnlaget omfatter både saker der spesialutsendingene for integreringssaker ble involvert, og andre saker der de ikke har blitt kontaktet. Tabell 3.2 viser at det var 167 voksne og 176 barn under 18 år som ba om hjelp, i løpet av en periode på to år (juni 2021–juni 2023).
 
-1
+Antallet saker som gjelder gifte kvinner, barn og unge 18–25 år ved ambassaden i et utvalg land i perioden juni 2021–juni 2023, og antallet saker som endte med retur.
 
-3
+07J1xt2
 
-2
+|                    |                    |       |      |       |               |       |
+|--------------------|--------------------|-------|------|-------|---------------|-------|
+|                    | Gifte kvinner      | Retur | Barn | Retur | Unge 18–25 år | Retur |
+| Ankara<sup>1</sup> | 8                  | 5     | 11   | 1     | 3             | 2     |
+| Amman              | 40                 | 5     | 45   | 10    | 15            | 6     |
+| Islamabad          | 30                 | 5     | 25   | 8     | 7             | 5     |
+| Nairobi            | 43                 | 0     | 91   | 11    | 17            | 2     |
+| Beirut             | 2                  | \-    | \-   |       | \-            |       |
+| Pt Riayadh         | Ja/vet ikke antall | \-    | 3    | 0     | 2             | 0     |
+| Teheran            | \-                 |       | 1    | 0     | \-            | \-    |
+| Til sammen         | 123                | 15    | 176  | 30    | 44            | 15    |
 
-Amman
+<sup>1</sup> Basert på tall de siste ti månedene.
 
-40
-
-5
-
-45
-
-10
-
-15
-
-6
-
-Islamabad
-
-30
-
-5
-
-25
-
-8
-
-7
-
-5
-
-Nairobi
-
-43
-
-0
-
-91
-
-11
-
-17
-
-2
-
-Beirut
-
-2
-
--
-
--
-
-Ja/vet ikke antall
-
--
-
-3
-
-0
-
-2
-
-0
-
-1
-
-0
-
--
-
--
-
-176
-
-30
-
-44
-
-15
-
-Pt Riayadh
-Teheran
-Til sammen
-1
-
-Basert på tall de siste ti månedene.
 Kilde: Lidén mfl. 2024a: side 66.
-
-123
-
-15
-
--
-
-[Side 85]
-
-NOU 2024: 13
-Lov og frihet
-
-83
-
-Kapittel 4
-
-Kapittel 4
-
-Innspill til utvalget
-Utvalget har invitert ulike offentlige instanser og
-interesseorganisasjoner til å komme med innspill
-til tematikken omfattet av utvalgets mandat. Utvalget ba om innspill om utfordringer med dagens lovverk og innspill til særskilte problemstillinger på
-området som burde utredes. Utvalget ba også om
-innspill på om tematikken reiser særlige utfordringer knyttet til lhbtiq+, personer i lukkede trossamfunn, personer med nedsatt funksjonsevne eller
-andre grupper. Offentlige instanser ble særlig bedt
-om innspill knyttet til sine ansvarsområder og innspill om regelverksutfordringer av betydning for
-samarbeid mellom hjelpeinstanser eller tjenesteytere. Utvalget har også på sin nettside invitert
-enhver til å komme med innspill til utvalget.1
-Følgende instanser og organisasjoner fikk
-skriftlig invitasjon til å komme med innspill:
-Arbeids- og velferdsdirektoratet
-Barne- ungdoms- og familiedirektoratet (Bufdir)
-Barneombudet
-Integrerings- og mangfoldsdirektoratet (IMDi)
-Likestillings- og diskrimineringsombudet
-Politidirektoratet
-Sametinget
-Statsforvalteren i Oslo og Viken
-Utdanningsdirektoratet
-Utenriksdepartementet
-Utlendingsdirektoratet
-Utlendingsnemnda
-Amnesty International
-Bydelsmødre Norge
-De reisende kvinners forum
-Det jødiske samfunn i Trondheim
-Det Mosaiske Trossamfund
-Foreningen FRI
-Foreningen Romanifolkets kystkultur
-Hjelpekilden
-International Romani Unions representative in
-Norway
-Juridisk rådgivning for kvinner (JURK)
-1
-
-https://lovutvalg-negativ-sosial-kontroll.no/
-
-Krisesentersekretariatet
-Kvenlandsforbundet
-Kvääninouret – Kvenungdommen
-Landsorganisasjonen for Romanifolket
-Likestilling, integrering, mangfold (LIM)
-Likestilling, Inkludering og Nettverk (LIN)
-Likestillingssenteret
-Likestillingssenteret KUN
-MiRA ressurssenter for innvandrer- og
-flyktningkvinner
-Multikulturelt initiativ- og ressursnettverk (MiR)
-Nasjonale minoriteter i Norge
-Nasjonalt Kunnskapssenter om Vold og
-Traumatisk Stress (NKVTS)
-Nasjonalt SRHR-nettverk
-Norges Røde Kors
-Norsk finsk interesseorgan
-Norsk Folkehjelp
-Norske Kveners forbund
-Norske Kvinners Sanitetsforening
-Norsk-finsk forbund, Nils Petter Pedersen
-Oslo krisesenter
-Redd Barna
-Reform
-Romano Kher
-Romerike krisesenter
-Romsk Råd
-ROSA
-Røde Kors-telefonen
-Salam Norge
-Samarbeidsforum for funksjonshemmedes
-organisasjoner
-Samarbeidsrådet for tros- og livssynssamfunn
-Selvhjelp for innvandrere og flyktninger (SEIF)
-Skeiv ungdom
-Skeiv verden
-Skeivt kristent nettverk
-Skogfinneforeningen
-Skogfinske interesser i Norge
-Tverrkulturell helseinfo
-Utvalget har mottatt innspill fra følgende aktører:
-Barne- ungdoms- og familiedirektoratet (Bufdir)
-
-[Side 86]
-
-84
-
-Kapittel 4
-
-NOU 2024: 13
-Lov og frihet
-
-Integrerings- og mangfoldsdirektoratet (IMDi)
-Likestillings- og diskrimineringsombudet
-Politidirektoratet (Kripos og Oslo politidistrikt)
-Tromsø Kompetansenettverk bestående av
-barneverntjenesten i Tromsø, NAV,
-familievernkontor, og SEIF.
-Utenriksdepartementet
-Utlendingsdirektoratet
-Utlendingsnemnda
-Forening mot Psykisk Vold
-Hjelpekilden
-HjelpMeg StoppeVolden
-Islamsk Råd Norge
-Juridisk rådgivning for kvinner (JURK)
-Krisesentersekretariatet
-Likestillingssenteret KUN
-MiR
-MiRA-senteret
-Nasjonalt SRHR-nettverk
-Norske Kvinners Sanitetsforening
-Redd Barna
-Referansegruppen for Frihet fra negativ sosial
-kontroll og æresrelatert vold (2021–2024)
-Romerike krisesenter
-ROSA
-Samarbeidsrådets for tros- og livssynssamfunn
-(STL)
-
-Selvhjelp for innvandrere og flyktninger (SEIF)
-Sex og samfunn
-Skeiv Ungdom
-Alle skriftlige innspill er tilgjengelige på utvalgets
-nettsted.2 For øvrig har flere av offentlige instanser og organisasjonene gitt innspill gjennom presentasjoner for utvalget, se kapittel 1.
-Alle innspillene er grundig lest og vurdert. I
-likhet med utvalgets mandat, er innspillene omfattende og dekker en rekke problemstillinger og
-rettsområder. De aller fleste innspillene er både
-relevante og viktige for tematikken for denne
-utredningen. Av kapasitetshensyn har utvalget
-ikke hatt anledning til å håndtere eller behandle
-alle problemstillingene og forslagene som har blitt
-spilt inn.
-Noen av innspillene er grundig omtalt i de
-respektive kapitlene. Der flere aktører og organisasjoner har kommet med lignende eller likelydende innspill, har utvalget nøyd seg med å vise til
-innspill som anses dekkende for tematikk som
-flere har tatt opp.
-
-2
-
-https://lovutvalg-negativ-sosial-kontroll.no/se-innspill/
-
-[Side 87]
-
-NOU 2024: 13
-Lov og frihet
-
-85
-
-Kapittel 5
-
-Kapittel 5
-
-Menneskerettslige og andre folkerettslige rammer
-5.1
-
-Utgangspunkter
-
-5.1.1 Innledning
-Dette kapittelet gir en overordnet framstilling av
-de konstitusjonelle og folkerettslige rammene for
-temaene utredningen behandler, med hovedvekt
-på menneskerettighetene. Spesifikke menneskerettslige spørsmål som oppstår i tilknytning til
-ulike deler av mandatet omtales nærmere i de
-respektive kapitlene.
-Menneskerettighetene krever at staten
-beskytter enkeltpersoner mot krenkelser av liv,
-frihet, sikkerhet og integritet, uavhengig av kjønn,
-alder, legning, livssyn eller nasjonalitet. Rettighetene springer ut av et grunnsyn om at alle mennesker er født frie og like og med samme menneskeverd.1 Menneskerettighetene kommer til
-uttrykk i Grunnlovens kapittel E, samt i flere
-internasjonale konvensjoner som Norge er bundet
-av, og der enkelte konvensjoner er gjennomført i
-norsk lov.
-Menneskerettighetene forplikter statene og
-gir dermed ikke direkte beskyttelse mot krenkelser fra andre individer. Staten har imidlertid en
-plikt til å sikre menneskerettighetene, som innebærer et krav om å beskytte individer mot krenkelser begått av ikke-statlige aktører.
-I utvalgets arbeid er menneskerettighetene
-relevante på særlig to måter. For det første kan de
-stille krav til lovgivningstiltak som skal sikre
-beskyttelse mot skadelige handlinger som alvorlige former for negativ sosial kontroll, psykisk
-vold, æresmotivert vold, tvangsekteskap, kjønnslemlestelse og ufrivillige utenlandsopphold. For
-det andre kan menneskerettslige krav medføre
-begrensninger i hvilke tiltak som lovlig kan iverksettes for å hindre uønskede handlinger og atferd.
-
-1
-
-Dokument 16 (2011–2012) Rapport til Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i
-Grunnloven. punkt 9.4.
-
-5.1.2
-
-Menneskerettighetenes formelle
-stilling i norsk rett
-De internasjonale konvensjonene som Norge har
-sluttet seg til (ratifisert), er folkerettslig forpliktende for Norge. Folkerett og intern norsk rett er
-to atskilte rettssystemer, og det kreves i utgangspunktet en nasjonal gjennomføringsakt (inkorporasjon) for at folkeretten skal få direkte virkning i
-norsk rett.2 Dette utgangspunktet modifiseres av
-det ulovfestede presumsjonsprinsippet, som går
-ut på at norske rettsregler så vidt mulig skal tolkes slik at de ikke kommer i konflikt med Norges
-folkerettslige forpliktelser. Dette innebærer at
-domstolene og andre rettsanvendere så langt det
-er mulig må tolke og anvende norsk rett slik at det
-ikke oppstår motstrid med internasjonale forpliktelser.
-En rekke menneskerettigheter er gjennomført
-i norsk rett ved at de er tatt inn i Grunnloven
-kapittel E (§§ 93-113). Grunnlovens menneskerettigheter er utformet etter mønster fra blant annet
-Den europeiske menneskerettskonvensjonen
-(EMK), FNs konvensjon om sivile og politiske rettigheter (SP) og FNs konvensjon om barnets rettigheter (barnekonvensjonen). Høyesterett har
-uttalt at Grunnloven skal tolkes i lys av tilsvarende
-bestemmelsene i konvensjonene, jf. blant annet
-Rt. 2015 s. 93 om tolkingen av Grunnloven § 102. I
-dommen presiserer Høyesterett at praksis fra de
-internasjonale håndhevingsorganene likevel ikke
-har samme prejudikatsvirkning ved grunnlovstolkingen som ved tolkingen av de parallelle konvensjonsbestemmelsene.3 Reglene i Grunnloven og
-internasjonale menneskerettskonvensjoner kan
-2
-3
-
-Dokument 16 (2011–2012) punkt 6.1.
-Rt. 2015 s. 93 (avsnitt 57). Se også Rt. 2015 s. 155 (avsnitt
-40) i tilknytning til Grunnloven § 102 samt § 104 om barnets beste; Rt. 2015 s. 1388 (avsnitt 162) forutsetningsvis i
-tilknytning til Grunnloven § 104; HR-2016-2554-P (avsnitt
-81) i tilknytning til Grunnloven §§ 101 og 102; HR-20162591-A (avsnitt 66); HR-2017-2015-A (avsnitt 46); HR-20172376-A (avsnitt 53); HR-2018-2133-A (avsnitt 47); HR-20192286-A (avsnitt 42).
-
-[Side 88]
-
-86
-
-Kapittel 5
-
-NOU 2024: 13
-Lov og frihet
-
-dermed ha et noe ulikt innhold på enkelte punkter. Hvilken rettslig stilling de menneskerettslige
-forpliktelsene har i norsk rett, vil bero på om, og
-hvordan, den aktuelle konvensjonen er gjennomført i norsk rett, jf. Grunnloven § 92.4
-Gjennom lov om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven)
-av 1999 er fem konvensjoner inkorporert som
-norsk lov, og gitt direkte anvendelse som norsk
-rett: Den europeiske menneskerettskonvensjon
-(EMK), FNs konvensjon om økonomiske, sosiale
-og kulturelle rettigheter (ØSK), FNs konvensjon
-om sivile og politiske rettigheter (SP), FNs barnekonvensjon og FNs kvinnediskrimineringskonvensjon. Enkelte av tilleggsprotokollene til de
-nevnte konvensjonene er også tatt med. Konvensjonene skal ved motstrid gå foran annen lovgivning, jf. menneskerettsloven § 3.
-En annen konvensjon som Norge har tiltrådt
-og som er særlig relevant for denne utredningen
-er Europarådets konvensjon om forebygging og
-bekjempelse av vold mot kvinner og vold i nære
-relasjoner (Istanbul-konvensjonen). Konvensjonen er ikke inkorporert i norsk rett, men er likevel folkerettslig bindende. I tråd med presumsjonsprinsippet skal norsk rett tolkes i lys av forpliktelsene i konvensjonen.
-
-5.1.3
-
-Plikten til å sikre menneskerettighetene
-Etter Grunnloven § 92 skal «[s]tatens myndigheter respektere og sikre menneskerettighetene
-slik de er nedfelt i denne grunnlov og i for Norge
-bindende traktater om menneskerettigheter». Det
-følger også av EMK artikkel 1 at medlemsstatene
-skal «secure to everyone» rettighetene i konvensjonen, også kalt sikringsplikten. I barnekonvensjonen er sikringsplikten inntatt i artikkel 2 om
-ikke-diskrimineringsplikten, med formuleringen
-«respect and ensure», samt i artikkel 4, som sier
-at staten har en plikt til å treffe alle egnede tiltak
-«for the implementation of the rights recognized
-in the […] Convention». Sikringsplikten følger
-også av SP artikkel 2, ØSK artikkel 2 og Istanbulkonvensjonen artikkel 1 første ledd bokstav a.
-Gjennom de nevnte menneskerettighetsbestemmelsene er staten pålagt en såkalt dobbel
-gjennomføringsforpliktelse.5 Staten er for det første forpliktet til å respektere rettighetene ved å
-unnlate å gripe inn i dem, altså en negativ eller
-passiv forpliktelse, for eksempel ved å avstå fra
-4
-5
-
-HR-2016-2554-P (Holshipdommen).
-Aall 2022: side 61.
-
-tortur og diskriminering. For det andre plikter staten å sikre menneskerettighetene, det vil si en
-positiv forpliktelse til å beskytte mot krenkelser.
-Selv om menneskerettighetene direkte bare forplikter statene, får menneskerettighetene dermed en indirekte betydning også i forholdet mellom privatpersoner, ved at staten må iverksette
-positive tiltak for å hindre at private krenker hverandres menneskerettigheter.6 I den positive sikringsplikten ligger det også et krav om å oppfylle
-rettighetene (fulfil, promote), det vil si at staten
-må arbeide for at rettighetene skal realiseres fullt
-ut.7 Staten har derfor en tredelt forpliktelse:
-respektere, beskytte og oppfylle menneskerettighetene.
-Negativ sosial kontroll, æresrelatert vold,
-tvangsekteskap, kjønnslemlestelse og psykisk
-vold, kan etter omstendighetene utgjøre krenkelser av flere menneskerettigheter. Sikringsplikten
-innebærer at statlige myndigheter ikke kan forholde seg passivt til disse krenkelsene, men aktivt
-må forebygge og beskytte individene gjennom
-ulike virkemidler.8
-Sikringsplikten består av en rekke ulike typer
-forpliktelser, slik som plikt til å ha egnet lovgivning, håndhevelse av lovgivningen, undervisning
-og økonomiske bevilgninger.9 Videre har staten
-visse forpliktelser til å gjennomføre reparerende
-tiltak der individets menneskerettigheter er krenket. Innholdet av og styrken til kravene varierer ut
-fra den enkelte menneskerettighetsbestemmelsen, og det aktuelle saksområdet. Enkelte rettighetsbestemmelser nevner særskilt en plikt til å ha
-lovgivning. Men også for bestemmelser som ikke
-uttrykkelig oppstiller en slik plikt, vil lovgivningstiltak, og særlig straffeloven, være sentralt i vurderingen av om rettighetene er gitt et tilstrekkelig
-effektivt vern. Det stilles i tillegg et krav om at lovgivningen håndheves effektivt, ved at myndighetene aktivt anvender loven for å beskytte enkeltindividet.
-Sikringsplikten kan også innebære at staten
-har en plikt til, etter forholdene, å ta aktive skritt
-for å hindre at private krenker hverandre i konkrete tilfeller (avvergingsforpliktelse).10 Sikringsplikten er likevel ikke absolutt, og staten har ikke
-plikt til å avverge enhver fare for krenkelser. Det
-er bestrebelsene som står sentralt, og spørsmålet
-6
-
-Aall 2022: side 65-70.
-FNs menneskerettskomité 2004, General Comment No. 31:
-avsnitt 7; Besson og Kleber 2019: side 50.
-8
-Martnes 2020: side 45.
-9
-Se f.eks. NOU 1993: 18 punkt 13.1.3; Aall 2022: side 62-63.
-10 Rt. 2013 s. 879. Se også Martnes 2020.
-7
-
-[Side 89]
-
-NOU 2024: 13
-Lov og frihet
-
-vil ofte være om staten kan bebreides for at den
-private krenkelsen fant sted.11 Hvor langt statens
-positive sikringsplikt strekker seg, må avgjøres
-konkret etter hver enkelt rettighet og situasjon.
-Det vil også ha betydning hvor sårbar vedkommende er. Barn har krav på et særlig vern.12 I tillegg må det vurderes om statens sikringstiltak
-kan medføre brudd på andre menneskerettigheter enn dem staten vil beskytte ved en ny lovbestemmelse eller et bestemt tiltak.
-I forarbeidene til Grunnloven framgår det at
-en konstatering av en krenkelse av menneskerettighetene vil noen ganger være tilstrekkelig, men
-at en slik avgjørelse ofte vil ha liten verdi «hvis
-den ikke ledsages av et pålegg til myndighetene
-om å gjenopprette situasjonen eller kompensere
-for krenkelsen».13 Dette er bakgrunnen for at
-flere av de internasjonale instrumentene inneholder bestemmelser om rett til «effective
-remedy», blant annet EMK artikkel 13 og SP
-artikkel 2 nr. 3. Hvordan krenkelsen skal repareres, beror på de konkrete omstendighetene i
-saken, og kan omfatte blant annet restitusjon
-(gjenoppretting) eller erstatning, en offentlig unnskyldning eller en offentlig minnestund, garanti
-om at krenkelsen ikke skal gjentas, endring i relevant lovgivning og praksis, eller eventuelt strafforfølgning dersom krenkelsen er straffbar.14
-I denne utredningen undersøkes det om norsk
-lovgivning gir et tilstrekkelig effektivt vern mot
-menneskerettighetskrenkelser i saker om negativ
-sosial kontroll, æresrelatert vold, tvangsekteskap, kjønnslemlestelse, psykisk vold og ufrivillig
-utenlandsopphold. Statens sikringsplikt på de
-enkelte områdene behandles nærmere i både
-punkt 5.3, og i de respektive kapitlene.
-
-5.2
-
-Internasjonale konvensjoner av
-særlig betydning for utredningen
-
-5.2.1
-
-Den europeiske menneskerettighetskonvensjon (EMK)
-Europarådets konvensjon av 4. november 1950 om
-beskyttelse av menneskerettighetene og de
-grunnleggende friheter, også kalt «Den euro11
-
-Aall 2022: side 65-69.
-Se f.eks. Söderman mot Sverige 12. november 2013, saksnr.
-5786/08 (avsnitt 81).
-13 Dokument 16 (2011–2012) punkt 14.6.1. Les nærmere om
-statens oppreisningsansvar ved menneskerettsbrudd i
-Hagland 2019.
-14 Dokument 16 (2011–2012) punkt 14.6.1 og FNs menneskerettighetskomité 2004, General comment No. 31: avsnitt 15
-og 16.
-12
-
-87
-
-Kapittel 5
-
-peiske menneskerettighetskonvensjon» (EMK),
-har en sterk stilling i norsk rett. Konvensjonen ble
-ratifisert i Norge og trådte i kraft for Norge i 1953.
-I 1999 ble konvensjonen, med fem tilleggsprotokoller, gjort til norsk lov med forrang foran annen
-lovgivning ved motstrid, jf. menneskerettsloven
-§§ 2 nr. 1 og 3.
-Den
-europeiske
-menneskerettsdomstol
-(EMD) er opprettet i medhold av konvensjonen.
-Domstolen overvåker statenes gjennomføring av
-konvensjonen ved å treffe i avgjørelser individuelle klagesaker, jf. EMK art. 34. Dommene er formelt bindende for den innklagede staten, jf. EMK
-art. 46. De øvrige statene må i tillegg ta avgjørelsen i betraktning (avgjørelsens prejudikatvirkning).15 EMDs domspraksis har stor betydning ved fastleggingen av innholdet i menneskerettighetene i EMK. Domstolen tolker rettighetsbestemmelsene dynamisk og i takt med samfunnsutviklingen, og rettighetsvernet er dermed i
-stadig utvikling.16 EMD tolker dessuten konvensjonen i lys av andre menneskerettskonvensjoner,
-slik som barnekonvensjonen og kvinnediskrimineringskonvensjonen. Dette bidrar til at konvensjonsvernet utvikles i takt med den generelle normutviklingen på området.17
-Enkelte av rettighetene i EMK er absolutte.
-Det betyr at det ikke kan gjøres inngrep i dem,
-slik som artikkel 3 om forbudet mot slaveri, tortur
-eller annen umenneskelig eller nedverdigende
-behandling eller straff. De fleste rettighetene er
-derimot relative, det vil si at et inngrep er tillatt på
-nærmere bestemte vilkår. Eksempler på slike rettigheter er artikkel 8 om retten til respekt for privatliv og familieliv og artikkel 10 om ytringsfrihet.
-I vurderingen av om det kan gjøres inngrep i disse
-rettighetene, har statene en viss skjønnsmargin
-(«margin of appreciation»).18 EMD er dermed
-noe tilbakeholden med å sette til side statenes vurdering av hvorvidt det foreligger en rimelig
-balanse mellom hensynet til den inngrepet rammer på den ene side, og de samfunnsmessige hensynene som begrunner inngrepet på den andre.
-EMK inneholder ingen bestemmelse som
-eksplisitt verner den enkelte mot vold og overgrep fra andre privatpersoner. EMD har tolket
-flere av artiklene slik at de pålegger staten positive forpliktelser til å beskytte mot vold. Særlig
-15
-
-Aall 2022: side 44.
-Tyrer mot Storbritannia 25. april 1978, saksnr. 5856/72
-(avsnitt 31). Se også Solheim 2019: side 372-374.
-17 Strand 2020: side 980.
-18
-Se f.eks. Bernh Larsen Holding AS mfl. mot Norge 14. mars
-2013, saksnr. 24117/08 (avsnitt 158).
-16
-
-[Side 90]
-
-88
-
-Kapittel 5
-
-NOU 2024: 13
-Lov og frihet
-
-relevant er artikkel 3 om forbud mot tortur og
-nedverdigende eller umenneskelig behandling og
-artikkel 8 om retten til respekt for privatliv og
-familieliv. Etter EMK artikkel 1 skal statene sikre
-konvensjonens rettigheter for alle innenfor statens jurisdiksjon.
-EMK-artiklene verner om alle, også barn. I sin
-praksis har EMD innfortolket et krav om at barnets beste i tråd med barnekonvensjonen artikkel
-3 skal være et grunnleggende hensyn i alle saker
-som gjelder barn. Hensynet til barnets beste er
-dermed av betydning for domstolens vurderinger
-i saker som gjelder barn. I tillegg skal domstolen
-ta hensyn til om saken gjelder andre personer
-som må anses som særlig sårbare, slik som ofre
-for vold i nære relasjoner.19
-
-5.2.2
-
-FNs konvensjon om sivile og politiske
-rettigheter (SP)
-FNs konvensjon om sivile og politiske rettigheter
-av 16. desember 1966 (SP) ble ratifisert av Norge
-13. september 1972 og trådte i kraft 23. mars 1976.
-Den gjelder som norsk lov med forrang foran
-annen lov, jf. menneskerettsloven §§ 2 nr. 3 og 3.
-Konvensjonen inneholder et bredt spekter av
-sivile og politiske rettigheter, slik som retten til liv,
-forbudet mot tortur, forbudet mot vilkårlig frihetsberøvelse, bevegelsesfriheten, retten til rettferdig
-rettergang, retten til respekt for privatliv og familieliv, tanke-, samvittighets- og religionsfriheten,
-forenings- og forsamlingsfriheten, ytringsfriheten,
-og vernet mot diskriminering.
-Det er etablert en egen FN-komité, FNs menneskerettskomité («Human Rights Committee»),
-som fører tilsyn med hvordan statenes etterlever
-forpliktelsene etter konvensjonen, gjennom statsrapportering og generelle kommentarer. Det er
-også åpnet for adgang til individklage («written
-communication»), jf. første valgfrie tilleggsprotokoll, som også gjelder som norsk lov. Komiteens
-saksbehandling er skriftlig og kan munne ut i
-synspunkter («views») på om den innklagede staten har krenket konvensjonens bestemmelser.
-Uttalelsene er ikke folkerettslig bindende, men de
-har likevel betydelig vekt med mindre særlige
-omstendigheter gjør seg gjeldende, for eksempel
-der det er liten grad av konsensus blant medlemsstatene.20
-19
-
-Se f.eks. Opuz mot Tyrkia 9. juni 2009, saksnr. 33401/02
-(avsnitt 165); Volodina mot Russland 9. juli 2019, saksnr.
-41261/17 (avsnitt 72).
-20
-Ot.prp. nr. 3 (1998–99) merknader til menneskerettsloven
-§ 3.
-
-Flere av artiklene i SP er i samsvar med
-bestemmelsene i EMK. EMK er i praksis den viktigste av konvensjonene, særlig på grunn av
-EMDs sentrale og rettsavklarende rolle. I utredningen vil derfor rettighetsbestemmelsene i EMK
-være utgangspunktet for vurderingene, og SP blir
-i mindre grad omtalt.
-
-5.2.3
-
-FNs konvensjon om økonomiske,
-sosiale og kulturelle rettigheter (ØSK)
-FNs konvensjon om økonomiske, sosiale og kulturelle rettigheter av 16. desember 1966 (ØSK) ble
-ratifisert av Norge i 1972 og trådte i kraft i 1976.
-Konvensjonen gjelder som norsk lov og går foran
-annen norsk lov ved konflikt jf. menneskerettsloven §§ 2 nr. 2 og 3.
-Konvensjonen inneholder ulike økonomiske,
-sosiale og kulturelle rettigheter, slik som retten til
-arbeid, retten til sosial trygghet, retten til en tilfredsstillende («adequate») levestandard (som
-blant annet omfatter mat, bolig og vann), retten til
-helse, retten til kultur og retten til utdanning.
-Ifølge ØSK artikkel 2 skal hver stat påta seg å
-oppfylle konvensjonens forpliktelser innenfor
-rammene av sine tilgjengelige ressurser («available resources»). Statene har et betydelig rom for
-skjønn med hensyn til hvilke tiltak som er egnet til
-å realisere disse rettighetene, og med hensyn til
-omfanget av tiltakene. Konvensjonen forbyr diskriminering (artikkel 2 nr. 2 og artikkel 3) og staten har positive forpliktelser til å sikre rettighetene for alle innenfor statens jurisdiksjon.
-Konvensjonen overvåkes av en egen ekspertkomité (ØSK-komiteen) gjennom statsrapportering. På grunnlag av de regelmessige statsrapportene har ØSK-komiteen i tillegg utviklet tolkinger
-av konvensjonen i generelle kommentarer. ØSKkomiteen har understreket at statene har plikt til å
-respektere, beskytte og oppfylle rettighetene i
-konvensjonen. Det finnes i tillegg en individklageordning, som Norge ikke har tiltrådt.21
-5.2.4 FNs barnekonvensjon
-FNs konvensjon om barnets rettigheter av 20.
-november 1989 (barnekonvensjonen) ble ratifisert av Norge i 1991. I 2003 ble konvensjonen inntatt i menneskerettsloven, jf. § 2 nr. 4, og skal ved
-motstrid gå foran annen lovgivning, jf. § 3.
-21
-
-Valgfri protokoll til konvensjonen om økonomiske, sosiale
-og kulturelle rettigheter som etablerer en individklageordning av 10. desember 2008. Se nærmere i Meld. St. 39
-(2015–2016).
-
-[Side 91]
-
-NOU 2024: 13
-Lov og frihet
-
-Det er vedtatt tre valgfrie tilleggsprotokoller til
-barnekonvensjonen. Norge har ratifisert to av
-dem, som er inkorporert gjennom menneskerettsloven: valgfri protokoll til konvensjon om barnets
-rettigheter om salg av barn, barneprostitusjon og
-barnepornografi av 25. mai 2000, og valgfri protokoll til konvensjonen om barns rettigheter om
-barn i væpnet konflikt av 25. mai 2000.
-Norge har ikke tiltrådt tredje tilleggsprotokoll
-som gir barn en individuell klagerett til FNs barnekomite.22 Denne etablerer en individklagemekanisme, slik også flere andre av FNs menneskerettighetskonvensjoner har.
-Barnekonvensjonen presiserer at barn har
-menneskerettigheter på lik linje med voksne, i tillegg til at den gir særlige rettigheter til barn og tilpasser de generelle rettighetene til barns særskilte behov. Etter konvensjonens artikkel 1 er
-barn ethvert menneske under 18 år. Konvensjonen pålegger statene å sikre barn en rekke sivile,
-politiske, sosiale, økonomiske og kulturelle rettigheter. Dette inkluderer blant annet retten til familie og omsorg, retten til grunnleggende helse- og
-velferdstilbud, retten til beskyttelse mot farer som
-særlig barn er utsatt for, rettigheter som har til
-formål å fremme barns utvikling, retten til å bli
-hørt, religionsfrihet, ytringsfrihet, forsamlingsfrihet og retten til respekt for privatliv og familieliv.
-FNs barnekomité har utpekt fire konvensjonsbestemmelser som prinsipp-bestemmelser av
-generell eller overordnet betydning:
-– bestemmelsen om ikke-diskriminering i artikkel 2,
-– bestemmelsen om barnets beste i artikkel 3 nr.
-1,
-– bestemmelsen om retten til liv og utvikling i
-artikkel 6, og
-– bestemmelsen om barnets rett til å bli hørt i
-artikkel 12.
-
-89
-
-Kapittel 5
-
-men er likevel anerkjente i folkeretten som relevante for tolkingen av konvensjonen. Både EMK
-og Høyesterett har i flere saker lagt stor vekt på
-barnekomiteens generelle kommentarer, og de
-gir dermed viktige tolkingsbidrag til konvensjonen.25
-Norge er pålagt å rapportere regelmessig til
-barnekomiteen. Den siste rapporten (femte og
-sjette rapportering) ble behandlet av barnekomiteen i mai 2018. I sine avsluttende kommentarer
-peker komiteen på at det fortsatt gjenstår arbeid
-med å sikre at hensynet til barnets beste blir tilstrekkelig ivaretatt i lovgivningen og i praksis, å
-sikre at barn i sårbare situasjoner blir hørt og at
-rettighetene til barn med nedsatt funksjonsevne
-og psykisk sykdom blir sikret. Norge skal levere
-sin syvende rapport til barnekomiteen innen 15.
-juni 2024.
-
-Konvensjonen overvåkes av FNs komité for barnets rettigheter (barnekomiteen).23 Statene skal
-jevnlig rapportere til komiteen, som evaluerer rapportene og følger opp med tilrådinger til statene,
-jf. artiklene 43 til 45. Barnekomiteen har i tillegg
-utgitt 26 generelle kommentarer («general
-comments») om tolking av artikler i barnekonvensjonen eller særlig sentrale spørsmål.24 Barnekomiteens anbefalinger og generelle kommentarer
-er ikke rettslig bindende for medlemsstatene,
-
-5.2.5 FNs kvinnediskrimineringskonvensjon
-FNs konvensjon om avskaffelse av alle former for
-diskriminering av kvinner av 18. desember 1979
-(kvinnediskrimineringskonvensjonen) ble ratifisert av Norge i 1981 og trådte i kraft samme år. I
-2005 ble konvensjonen gjort til norsk lov,26 og i
-2009 ble konvensjonen tatt inn i menneskerettsloven, jf. § 2 nr. 5. Konvensjonen skal ved motstrid
-gå foran bestemmelser i annen lovgivning, jf. § 3.
-Formålet med konvensjonen er å eliminere all
-diskriminering av kvinner og sikre at alle kvinner
-får sine menneskerettigheter oppfylt på lik linje
-med menn, jf. artikkel 2. Konvensjonen består av
-30 artikler, der 16 artikler omhandler kvinners
-materielle rettigheter, slik som sivile, politiske,
-økonomiske, sosiale og kulturelle rettigheter.
-FNs kvinnediskrimineringskomité (CEDAWkomiteen) overvåker om konvensjonspartene
-etterlever konvensjonsforpliktelsene. Komiteen
-behandler periodiske statsrapporter der de
-uttrykker sitt syn på tilstanden i den enkelte medlemsstaten. Norge har til nå sendt inn ti periodiske statsrapporter, den siste i juni 2021. Norge
-har også ratifisert tilleggsprotokollen til FNs kvinnediskrimineringskonvensjon, som gir individer
-og grupper av enkeltpersoner muligheten til å få
-sin sak hørt av kvinnediskrimineringskomiteen. I
-tillegg utarbeider kvinnediskrimineringskomiteen
-generelle anbefalinger («general recommendations») til enkeltbestemmelser eller temaer som
-
-22
-
-25
-
-FNs generalforsamling 2011: resolusjon 66/138.
-I henhold til barnekonvensjonen artikkel 43.
-24
-Kommentarene ligger på www.regjeringen.no i originaltekst (engelsk) og i norsk oversettelse.
-23
-
-Se f.eks. Strand Lobben mfl. mot Norge 30. november 2017,
-saksnr. 37283/13 (avsnitt 207); HR-2018-2096-A (avsnitt
-14); HR-2015-2524-P (avsnitt 271).
-26 Likestillingsloven 1978 § 1 b [opphevet].
-
-[Side 92]
-
-90
-
-Kapittel 5
-
-NOU 2024: 13
-Lov og frihet
-
-har særlig betydning for kvinners rettigheter.
-Anbefalingene er ikke rettslig bindende, men er i
-praksis tillagt stor betydning for tolkingen av konvensjonen.27 EMD har i flere saker vist til kvinnediskrimineringskomiteens uttalelser.28
-Kvinnediskrimineringskomiteen har i sine
-generelle anbefalinger nr. 19 og nr. 35 uttalt at
-kjønnsbasert vold er en alvorlig form for diskriminering etter kvinnediskrimineringskonvensjonens
-artikkel 1.29 Med kjønnsbasert vold mener komiteen både vold som rammer kvinner i egenskap av
-å være kvinner, og vold som rammer kvinner i
-uforholdsmessig grad sammenlignet med
-menn.30 Etter artikkel 2 bokstav b skal myndighetene vedta egnede tiltak, i lovs form eller på annen
-måte, inkludert nødvendige sanksjoner for å hindre alle former for diskriminering av kvinner.
-Etter artikkel 2 bokstav e omfatter diskrimineringsforbudet atferd utøvd av «any person, organization or enterprise». Bestemmelsen, som omtales som due diligence-regelen, innebærer at statene har plikt til å arbeide for å hindre vold mot
-kvinner som utøves av privatpersoner.31 Dette
-omfatter en plikt til å iverksette forebyggende tiltak, etterforske og straffe slike voldshandlinger
-og tilkjenne kompensasjon.32 Også barnekonvensjonen inneholder viktige bestemmelser om statens ansvar for å hindre vold mot barn, se nærmere i punkt 5.3.
-
-5.2.6 Istanbul-konvensjonen
-Europarådets konvensjon om forebygging og
-bekjempelse av vold mot kvinner og vold i nære
-relasjoner CETS 210 (Istanbul-konvensjonen) ble
-vedtatt av Europarådets ministerkomité 7. april
-2011. Den ble signert av Norge 7. juli 2011 og ratifisert med virkning fra 1. november 2017.33
-Formålet med Istanbul-konvensjonen er å forebygge, påtale og eliminere alle former for vold
-mot kvinner samt å fremme nasjonalt og internasjonalt samarbeid i bekjempelsen av slik vold, jf.
-artikkel 1 bokstavene a til e. Konvensjonen er
-27
-
-Ot.prp. nr. 93 (2008–2009) punkt 6.4.
-Se f.eks. Opuz mot Tyrkia (avsnitt 184). Se andre eksempler i Strand 2020.
-29 FNs
-kvinnediskrimineringskomité
-1992,
-General
-recommendation No. 19; FNs kvinnediskrimineringskomité
-2017, General recommendation No. 35.
-30
-FNs
-kvinnediskrimineringskomité
-1992,
-General
-recommendation No. 19: avsnitt 6.
-31 FNs
-kvinnediskrimineringskomité
-1992,
-General
-recommendation No. 19: avsnitt 9.
-32 Ibid.
-33 Prop. 66 S (2016–2017); Innst. 301 S (2016–2017); vedtak i
-Stortinget 703 (2017).
-28
-
-utviklet i lys av andre menneskerettslige instrumenter, blant annet praksis fra EMD og FNs kvinnediskrimineringskonvensjon, jf. fortalens avsnitt
-1 til 7. Konvensjonen får anvendelse på alle former
-for vold mot kvinner, inkludert vold mot kvinner i
-nære relasjoner, jf. artikkel 2 (1). Partene er dessuten oppfordret («encouraged») til å gjennomføre
-konvensjonen for andre ofre for vold i nære relasjoner, og ikke bare kvinner, jf. artikkel 2 (2).
-Istanbul-konvensjonen bygger på fire grunnpilarer: statene skal utforme en helhetlig og samordnet politikk («integrated policies») for å sikre
-effektiv oppfyllelse av plikten til å forebygge vold
-mot kvinner og vold i nære relasjoner («prevention»), for å beskytte og hjelpe voldsutsatte («protection») og for å straffeforfølge voldsutøvere
-(«prosecution»).
-Mange av artiklene i Istanbul-konvensjonen er
-relevante for denne utredningen. Etter artikkel 32
-skal partene treffe nødvendige tiltak for å sikre at
-ekteskap som er inngått med tvang kan kjennes
-ugyldige, annulleres eller oppløses uten urimelig
-økonomisk eller administrativ byrde for offeret.
-Etter artiklene 33 til 40 forpliktes konvensjonspartene å kriminalisere nærmere bestemte
-handlinger: psykisk vold, personforfølgelse («stalking»), fysisk vold, seksuell vold, tvangsekteskap,
-omskjæring, tvungen abort og tvungen sterilisering. Etter artikkel 41 skal også medvirkning og
-forsøk på disse handlingene kriminaliseres, med
-unntak av artikkel 32, som gjelder sivilrettslige
-regler. Artikkel 46 forplikter statene til å sikre at
-enkelte momenter vurderes som straffskjerpende
-ved straffutmåling. Videre følger det av artikkel
-42 at kultur, tradisjon, religion og ære ikke skal
-være grunner til straffrihet. Det er også krav i
-konvensjonen om å etablere jurisdiksjon for visse
-handlinger begått i utlandet, jf. artikkel 44.
-Kapittel VII gjelder migrasjon og asyl. Etter
-artikkel 59 nr. 1 skal partene treffe nødvendige tiltak for å sikre at et offer etter søknad får selvstendig oppholdstillatelse dersom ekteskapet eller forholdet blir oppløst og det foreligger «particularly
-difficult circumstances». Dette skal gjelde uansett
-hvor lenge ekteskapet eller forholdet har vart.
-Artikkel 60 inneholder bestemmelser om asylbehandling, og artikkel 61 pålegger partene å treffe
-nødvendige tiltak for å respektere prinsippet om
-absolutt vern mot utsendelse («nonrefoulement»)
-i samsvar med gjeldende plikter etter folkeretten.
-Partene skal på samme måte sikre at ofre for vold
-som har behov for vern, uansett oppholdsstatus,
-ikke under noen omstendigheter returneres til et
-land der offerets liv kan være i fare eller der hen

@@ -1,1002 +1,190 @@
-# NOU 2024: 13, del 29 av 47 (side 317–330)
+# NOU 2024: 13, del 29 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 317]
-
-NOU 2024: 13
-Lov og frihet
-
-24.2 Lovfestet plikt til å foreta
-risikovurderinger på alle stadier av
-en barnevernssak
-24.2.1 Bakgrunn
-I kapittel 22 har utvalget foreslått å lovfeste en
-plikt for barnevernstjenesten til å foreta en
-risikovurdering før foreldre involveres eller informeres om at det er iverksatt undersøkelse i en
-sak, eller før det gis innsyn i sakens dokumenter,
-se forslag til endringer i barnevernsloven § 2-2
-fjerde ledd. Utvalget anbefaler i herværende delkapittel at det arbeides videre med å lovfestes en
-plikt for barnevernet til å foreta en risikovurdering av barnets sikkerhetssituasjon på et hvert stadium i en barnevernssak. Det bør i den forbindelse vurderes å særlig løfte fram risikoer forbundet med æremotivert konflikter.
-24.2.2 Gjeldende rett
-Barnevernsloven inneholder ikke en klar og tydelig bestemmelse om at barnevernstjenesten plikter å gjennomføre risikovurderinger i saker etter
-barnevernsloven, eller hvordan slike vurderinger
-skal gjennomføres. I enkelte bestemmelser i barnevernsloven framgår det riktignok av lovens ordlyd at det må foretas en vurdering av barnets sikkerhetssituasjon. Dette gjelder blant annet i saker
-om menneskehandel etter barnevernsloven §§ 6-6
-og 8-6 og i saker om informasjon til etterlatte etter
-§ 6-5 femte ledd, jf. andre ledd. I andre bestemmelser framkommer det mer forutsetningsvis at
-barnevernstjenesten nødvendigvis må foreta
-risikovurderinger. I formålsbestemmelsen til barnevernsloven framgår det blant annet at «[l]oven
-skal sikre at barn og unge som lever under forhold som kan skade deres helse og utvikling, får
-nødvendig hjelp, omsorg og beskyttelse til rett
-tid», jf. lovens § 1-1. Det er barnevernstjenesten
-som har ansvar for å gi hjelp, omsorg og beskyttelse etter loven, jf. § 15-3 annet ledd. For å sikre
-at barnet får beskyttelse mot forhold som kan
-skade deres helse og utvikling, fordrer det at barnevernstjenesten i en rekke saker foretar
-risikovurderinger av barnets sikkerhetssituasjon.
-Det må også sies å følge av § 1-3 om at barnevernets tiltak skal være til barnets beste, som i
-mange saker også fordrer en sikkerhetsvurdering. At barnevernet i visse saker må foreta sikkerhetsvurderinger framgår også i Bufdirs veileder Negativ sosial kontroll, tvangsekteskap og æresrelatert vold- en veileder til barnevernstjenesten.
-Veilederen viser blant annet til at dersom et barn
-
-315
-
-Kapittel 24
-
-skal flytte fra hjemmet, bør barnevernstjenesten
-drøfte med politiet behovet for å utarbeide en sikkerhetsvurdering av barnet. Det framgår videre at
-det bør lages en trygghetsplan ved flytting til sperret adresse og foretas sikkerhetsvurderinger.
-
-24.2.3 Utvalgets vurderinger og anbefalinger
-Behovet for en vurdering av barnets sikkerhetssituasjon kan være aktuelt på alle stadiene i en barnevernssak: Ved gjennomgang av melding, i
-undersøkelsesfasen, ved vurdering av tiltak,
-under plassering og ved vurdering av opphevelse
-av hjelpetiltak eller opphevelse av vedtak om plassering utenfor hjemmet.
-Kripos viser i sitt innspill til utvalget til at foreldre kan velge å plassere barnet utenfor hjemmet
-av flere årsaker, også på bakgrunn av en æresrelatert konflikt. Storfamilien kan for eksempel mene
-at foreldrene ikke kontrollerer en jente tilstrekkelig, eller jenta plasseres hos en person hun allerede er uoffisielt gift med. Kripos understreker at
-plasseringsstedet bør godkjennes av barnevernstjenesten når det er sannsynlig at det handler om en æresrelatert konflikt. Videre viser
-Kripos til at det må etableres plasseringssteder
-som fosterhjem, beredskapshjem og institusjoner,
-som er i stand til å håndtere en æresrelatert konflikt. Plasseringsstedet må kunne håndtere sikkerhetsutfordringer, så vel som den plassertes særlige behov som følge av bruddet med storfamilien.
-Kripos understreker at barn i en æreskonflikt
-aldri må plasseres hos en familie av samme etnisitet, eller hos en familie som selv er del av en lignende æreskultur. Videre viser Kripos til at skjult
-adresse er særlig aktuelt når en æresrelatert konflikt er grunnlaget for plasseringen. Barnet som
-har brutt familiens æreskodeks vil kunne ha vanæret hele sin storfamilie, slik at antallet potensielle trusselutøvere (mot den plasserte) kan være
-betydelig.
-Øverli (2020) viser i sin rapport om barnevernstjenestens arbeid med sikkerhet at de
-ansatte har ulik tilnærming til sikkerhetsarbeid
-når de plasserer barn eller unge utenfor hjemmet,
-og at de ikke opplever å ha god nok kompetanse
-og tilgjengelig fagstøtte for å gjøre så godt arbeid
-med sikkerhet i disse sakene som de ønsker.8
-Hvordan de ulike begrepene risikovurdering,
-trusselvurdering, skjult adresse, sperret adresse,
-sikkerhetsplan mv., benyttes, varierer i stor grad,
-og hva de ansatte i barnevernstjenesten sikter til
-når begrepene tas i bruk varierer. Rapporten
-8
-
-Øverli 2020: side 63-65.
-
-[Side 318]
-
-316
-
-Kapittel 24
-
-NOU 2024: 13
-Lov og frihet
-
-beskriver videre at det finnes manglende veiledningsmateriell og lite innarbeidet kunnskap om
-rutiner og verktøy. Utvalget er kjent med at det
-arbeides med ulike tiltak og systemer for
-risikovurdringer, blant annet for barnevernstjenesten, men mener likevel at en lovfesting av kravet om sikkerhetsvurdering, og eventuelt en forskriftsfesting av prosessen, i barnevernslovgivningen er nødvendig. Det antas å kunne bidra til mer
-bevissthet om viktigheten av risikovurderinger, en
-mer enhetlig behandling av barnevernssaker og
-en tryggere oppfølging av barn og unge. Utvalget
-har ikke hatt anledning til å vurdere eller utforme
-et lovforslag, men anbefaler at dette utredes og
-følges opp nærmer.
-
-–
-–
-
-I oppfølgingen av forslaget framhevet departementet noen av momentene i loven og understreket at disse ikke er uttømmende, og at hvilke
-momenter som skal vektes alltid må vurderes
-konkret. Det ble likevel ikke foreslått å lovfeste en
-momentliste i en ny barnevernslov.10
-Også i NOU 2023: 7 Trygg barndom, sikker
-fremtid foreslår barnevernsutvalget at det inntas
-en momentliste for vurderingen av barnets beste i
-barnevernsloven § 1-3.11
-Forslaget lyder:
-§ 1-3 Barnets beste
-Ved handlinger og avgjørelser som berører
-barn, skal barnets beste være et grunnleggende hensyn. Barnevernets tiltak skal være til
-barnets beste. Hva som er til barnets beste må
-avgjøres etter en konkret vurdering. Barnets
-mening er et sentralt moment i vurderingen av
-barnets beste. I tillegg skal det blant annet vurderes og tas hensyn til følgende momenter:
-– barnets behov for omsorg, beskyttelse og
-sikkerhet
-– barnets identitet og utvikling av sin egenart
-– barnets etniske, kulturelle, språklige og
-religiøse bakgrunn
-– barnets familie og stabile relasjoner til
-nære voksne
-– barnets særskilte sårbarhetsfaktorer
-– barnets rett til kontinuitet og et trygt og tilpasset omsorgsmiljø
-– barnets sosiale situasjon, helse, utdanning
-og fremtidsutsikter.
-Hvilken relevans og vekt momentene har i
-den enkelte sak, må vurderes og begrunnes
-konkret.
-
-24.3 Momentliste for vurdering av
-barnets beste i barnevernssaker
-24.3.1 Bakgrunn
-Barnevernslovutvalget foreslo i NOU 2016: 16 Ny
-barnevernslov – Sikring av barnets rett til omsorg
-og beskyttelse en overordnet bestemmelse som
-regulerer barnets rett til omsorg og beskyttelse
-og barnets beste. Forslaget til lovbestemmelse er
-lagt nært opp til barnekomiteens forståelse av barnekonvensjonen art. 3. nr. 1. I lovforslaget er det
-inntatt en liste over momenter som anses særlig
-relevante i barnets beste-vurderingen.9
-Forslaget lyder:
-§ 2 Barnets rett til omsorg og beskyttelse. Barnets
-beste.
-Barn har rett til forsvarlig omsorg og
-beskyttelse. Barn bør vokse opp i trygghet,
-kjærlighet og forståelse, og helst i egen familie.
-Barn skal ikke utsettes for vold, overgrep
-eller på annen måte bli behandlet slik at den
-fysiske eller psykiske helsen blir utsatt for
-skade eller fare. Dette gjelder også om volden
-brukes som ledd i oppdragelsen av et barn.
-Barn beste skal være det avgjørende hensyn ved handlinger og avgjørelser som berører
-et barn etter denne loven. I vurderingen av
-barns beste skal det blant annet tas hensyn til
-– Barns egen identitet
-– Barnets og foreldrenes etniske, religiøse,
-kulturelle og språklige bakgrunn
-– Barnets synspunkter
-– Barnets behov for å bevare familiemiljøet
-og opprettholde viktige relasjoner
-– Barnets behov for omsorg og beskyttelse
-9
-
-NOU 2016: 16 punkt 5.3.2.4.
-
-Barnets sårbarhet
-Barnets helse, utdanning og utvikling.
-
-I sitt høringsinnspill til NOU 2023: 7 foreslo Barneverns- og helsenemnda å lovfeste barnets
-mening som et utgangspunkt for vurderingen av
-barnets beste, og at det må foreligge tungtveiende
-grunner for å fravike denne. Nemnda foreslår følgende bestemmelse om barnets beste i barnevernsloven § 1-3:
-Ved handlinger og avgjørelser som berører
-barn, skal barnets beste være et grunnleggende hensyn. Barnevernets tiltak skal være til
-barnets beste. I vurderingen av hva som er til
-10
-11
-
-Prop. 133 L (2020–2021) punkt 7.1.4.4.
-NOU 2023: 7 punkt 11.5.2.
-
-[Side 319]
-
-NOU 2024: 13
-Lov og frihet
-
-barnets beste skal barnets egen mening følges,
-med mindre det foreligger tungtveiende grunner som gjør det nødvendig å velge en annen
-løsning. I den konkrete vurderingen av om
-slike grunner foreligger skal særlig følgende
-momenter vurderes og tas hensyn til:
-– barnets familie og viktige relasjoner
-– barnets behov for beskyttelse og sikkerhet
-– barnets behov for omsorg, kontinuitet og et
-tilpasset miljø
-– barnets identitet og utvikling av sin egenart
-– barnets etniske, kulturelle, språklige og
-religiøse bakgrunn
-– barnets særskilte sårbarhetsfaktorer
-– barnets sosiale situasjon, helse, utdanning
-og fremtidsutsikter.
-Barnekomiteen har i sine siste tilbakemeldinger
-til Norge, kommet med anbefalinger om å styrke
-innsatsen for å styrke barns rettigheter ved å etablere klare kriterier angående barnets beste for
-alle myndigheter som treffer beslutninger som
-angår barnet.12 I tillegg anbefaler komiteen at barnets beste blir integrert og konsekvent tolket og
-anvendt i lovgivningstiltak, administrative og
-rettslige beslutninger samt i alle retningslinjer,
-prosjekter og internasjonalt samarbeid som er
-relevant og har innvirkning på barn.13
-
-24.3.2 Utvalgets vurderinger og anbefalinger
-Utvalget er enig i at det er et behov for å tydeliggjøre hvilke momenter som inngår i vurderingen
-av barnets beste i barnevernsloven, og at dette
-kan bidra til å styrke rettsvernet til barn utsatt for
-negativ sosial kontroll. Utvalget mener i særlig
-grad at en tydeliggjøring av barns medvirkning og
-12
-13
-
-FNs barnekomité 2018: avsnitt 13 a.
-FNs barnekomité 2018: avsnitt 13 b.
-
-317
-
-Kapittel 24
-
-selvbestemmelse som sentrale momenter i vurderingen av barnets beste, kan bidra til et større
-fokus på barnets mening og autonomi i alle vurderinger etter barnevernsloven.
-Utvalget er enig i forslaget fra Barneverns- og
-helsenemnda, men mener at det i tillegg bør
-framgå en presisering om at momentlisten ikke er
-uttømmende. Det bør også framgå at det må gjøres en vurdering basert på momentenes vekt og
-relevans i den konkrete saken. Til arbeidet med
-oppfølgingen av NOU 2023: 7 anbefaler utvalget
-følgende lovfesting av en overordnet bestemmelse
-om barnets beste:
-§ 1-3 Barnets beste
-Ved handlinger og avgjørelser som berører
-barn, skal barnets beste være et grunnleggende hensyn. Barnevernets tiltak skal være til
-barnets beste.
-Hva som er til barnets beste må avgjøres
-etter en konkret vurdering med utgangpunkt i
-barnets behov og situasjon. I vurderingen av
-barnets beste etter barnevernsloven, skal barnets egen mening legges til grunn, med mindre tungtveiende grunner gjør det nødvendig å
-velge en annen løsning. I vurderingen av om
-tungtveiende grunner foreligger, skal blant
-annet følgende momenter tas hensyn til:
-– barnets familie og relasjoner
-– barnets behov for beskyttelse og sikkerhet
-– barnets behov for omsorg, kontinuitet og et
-tilpasset miljø
-– barnets identitet og utvikling
-– barnets etniske, kulturelle, språklige og
-religiøse bakgrunn
-– barnets særskilte sårbarhetsfaktorer
-– barnets sosiale situasjon, helse, utdanning
-og fremtidsutsikter.
-Hvilken relevans og vekt momentene har i
-den enkelte sak, må vurderes og begrunnes
-konkret.
-
-[Side 320]
-
-318
-
-NOU 2024: 13
-Lov og frihet
-
-2024
-
-[Side 321]
-
-Del V
-Utenlandsopphold
-
-Figur 25.1
-
-[Side 322]
-
-[Side 323]
-
-NOU 2024: 13
-Lov og frihet
-
-321
-
-Kapittel 25
-
-Kapittel 25
-
-Om aktørene i hjelpeapparatet
-En rekke aktører kan bli involvert før, under og
-etter et ufrivillig utenlandsopphold. De er på både
-statlig og kommunalt nivå, med ulikt ansvar for å
-bistå og følge opp barn, unge og familier som på
-ulike måter står i fare for eller har blitt tilbakeholdt i utlandet.
-Det er skolen som har den beste muligheten til
-å fange opp situasjoner hvor eleven selv ikke
-ønsker å reise og står i fare for å bli etterlatt i
-utlandet mot sin vilje. Opplæringslova § 1-1 første
-ledd slår fast at det skal være samarbeid mellom
-skole og hjem. Dette er viktig i hele grunnopplæringen. Dersom skolen er kjent med at et barn
-befinner seg i utlandet og det er fare for at vedkommende er etterlatt mot sin vilje, og i en situasjon der foreldrene eller andre omsorgspersoner
-ikke ivaretar omsorgen for barnet, bør skolen ved
-rektor varsle barnevernstjenesten og politiet.1
-Mangfoldsrådgivere er et særtiltak lagt til ordinær virksomhet på kommunalt og fylkeskommunalt nivå. I 2024 finnes det 65 mangfoldsrådgivere
-som er plassert på utvalgte ungdomsskoler, videregående skoler i hele landet og ved enkelte voksenopplæringskontor. Mangfoldsrådgiverne skal
-gjennomføre forebyggende tiltak, gi råd, veiledning og oppfølging av enkeltelever utsatt for negativ sosial kontroll og æresrelatert vold, og bidra til
-helhetlig samarbeid mellom lokale instanser i oppfølgingen av saker. Arbeidet kan også omfatte
-barn og unge som har returnert etter et kortere
-eller lengre (ufrivillig) utenlandsopphold.2
-Utenrikstjenesten har en sentral rolle når det
-gjelder hjelp og bistand til personer som befinner
-seg i utlandet, ved at de yter konsulær bistand og
-tjenester til norske borgere i utlandet. Utenrikstjenesten kan også gi konsulær bistand til flyktninger og statsløse personer som er bosatt i Norge
-og som har benyttet norsk reisebevis eller utlendingspass for å gjennomføre reisen.3 Mange personer som er utsatt for ufrivillige eller skadelige
-1
-2
-3
-
-Bufdir 2021 (Retningslinjer om etterlatte barn i utlandet).
-Lidén mfl. 2024a.
-Meld. St. 12 (2010–2011) pkt. 4.1.
-
-utenlandsopphold er fratatt sine reisedokumenter
-eller har ikke tilgang til disse.4 Utstedelse av pass,
-og laissez-passer, er derfor en av de viktigste forvaltningsmessige oppgavene som tilbys utsatte for
-skadelige eller ufrivillige utenlandsopphold.
-Spesialutsendinger for integrering (integreringsrådgivere) er utplassert ved utvalgte utenriksstasjoner. I dag er de utplassert ved ambassadene i Amman, Ankara, Islamabad og Nairobi.
-Deres hovedoppgave ved ambassaden er å yte
-konsulær bistand til personer utsatt for negativ
-sosial kontroll, tvangsekteskap, kjønnslemlestelse
-og æresrelatert vold. De skal også bidra med råd
-og veiledning til hjelpeinstanser i Norge og til
-kompetanseheving. Seksjon for konsulære saker i
-Utenriksdepartementet følger opp saker i samarbeid med spesialutsendingene eller andre ansatte
-ved ambassader uten spesialutsendinger, som
-noen ganger starter som barnebortføringssaker.5
-Utenriksdepartementet og Integrerings- og mangfoldsdirektoratet (IMDi) har fagansvar for spesialutsendingene for integrering.
-I saker som gjelder land Norge har konvensjonssamarbeid med etter Haagkonvensjonen
-1980 om barnebortføring og Haagkonvensjonen
-1996 om internasjonalt samarbeid om beskyttelse
-av barn, er Barne- ungdoms og familiedirektoratet
-(Bufdir) som norsk sentralmyndighet involvert og
-følger opp saken med sentralmyndigheten i det
-landet barnet oppholder seg i. Dette inkluderer
-blant annet forpliktelse for Bufdir til å varsle myndighetene i landet barnet er etterlatt i, jf. Haagkonvensjonen 1996 artikkel 36. Utenriksdepartementet ved seksjon for konsulære saker kan bistå
-en forelder i en barnebortføringssak til et land
-som ikke har sluttet seg til Haagkonvensjonen av
-1980, og hjelpen som gis regnes som konsulær
-bistand.
-Kompetanseteamet mot negativ sosial kontroll
-og æresrelatert vold er et nasjonalt tverretatlig fagteam som har som formål å styrke tjenesteappara4
-5
-
-Kompetanseteamets årsrapport for 2017 og 2018.
-Lidén mfl. 2024b.
-
-[Side 324]
-
-322
-
-Kapittel 25
-
-NOU 2024: 13
-Lov og frihet
-
-tets arbeid mot tvangsekteskap, kjønnslemlestelse, æresrelatert vold og negativ sosial kontroll
-og ufrivillig utenlandsopphold. Teamet skal bidra
-til kompetanseheving i tjenesteapparatet gjennom
-råd og veiledning i konkrete enkeltsaker og gjennom kompetansehevingstiltak. Kompetanseteamet koordineres av Bufdir, og er sammensatt
-av representanter fra Arbeids- og velferdsdirektoratet (NAV), Bufdir, IMDi, Helsedirektoratet
-(Hdir), Politidirektoratet (POD), og Utlendingsdirektoratet (UDI). Fra 2024 vil også Utdanningsdirektoratet (Udir) være representert i teamet.6
-Hvis barnevernet, barnet selv eller andre er
-bekymret for at barnet kan bli etterlatt i utlandet
-mot sin vilje, og der foreldre eller andre omsorgspersoner ikke vil være i stand til eller vil unnlate å
-ivareta omsorgen for barnet, må barnevernstjenesten foreta undersøkelser etter barnevernsloven § 4-3. Det kan være vanskelig for barnet å
-vite hva familien planlegger og når reisen eventuelt vil skje. Når barnevernstjenesten får melding
-om risiko knyttet til utenlandsreise og starter en
-undersøkelsessak, er det derfor viktig at situasjonen kartlegges raskt. Barnevernstjenesten bør
-gjøre en helhetlig vurdering av om det er risiko
-knyttet til barnets reise. Denne vurderingen bør
-gjøres basert på opplysninger som framkommer i
-undersøkelsen, eventuelt i samråd med politiet og
-andre som har kjennskap til barnet og familien.
-Politiet bør også kontaktes for å vurdere muligheten for å inndra pass eller nekte utstedelse av
-pass.7
-Politiet vil, når de blir varslet om en sak fra for
-eksempel barnevernstjenesten, vurdere å starte
-etterforsking. Det vil også bli vurdert om det er
-behov for å iverksette beskyttelsestiltak. Politiet
-tilrettelegger for en trygg ankomst til Norge i
-samarbeid med barnevernstjenesten. Politiets
-representant i Kompetanseteamet bistår med vei-
-
-ledning til lokalt politi. Både gjennom bekymringssamtale med foresatte og etterforsking vil
-politiet kunne gi informasjon som kan bidra til at
-barn returnerer til Norge. Videre vil både bekymringssamtalen og etterforskingen kunne gi grunnlag for å vurdere om det er grunn til bekymring
-overfor eventuelle øvrige søsken i Norge.8
-Det er ulikt regelverk for barn og for unge
-over 18 år, og derfor ulike ansvarlige instanser
-som følger dem opp etter retur til Norge. For barn
-under 18 år som er trusselutsatte vil barnevernet
-midlertidig overta omsorgsansvaret. Barnevernet vil i de fleste tilfeller følge opp familiene med
-frivillige tiltak selv om barnet flytter tilbake til foreldrene.9
-Bo- og støttetilbudet for personer utsatt for negativ sosial kontroll og æresrelatert vold er et statlig
-særtiltak. For trusselutsatte personer over 18 år
-finnes det en egen tiltakskjede som består av et
-bo- og støttetilbud. For øvrige utsatte over 18 som
-returnerer til Norge, er det ingen tydelig tiltakskjede eller instans som har et koordinerende
-ansvar slik at de er sikret et egnet bosted og tilgang til aktuelle tjenester, som velferdsytelser,
-helse og utdanning. Eksisterende tilbud til sårbare ungdommer finnes, men disse kan være utilstrekkelige eller mangle nødvendig spisskompetanse. Situasjonen kjennetegnes av for mange tilfeldigheter og for store variasjoner i kommunenes
-kompetanse og tilbud.10
-I tillegg til de særlige hjelpetjenestene har de
-ordinære kommunale hjelpetjenestene ansvar for
-oppfølging av barn og unge som returnerer. Frivillige organisasjoner utgjør også et viktig supplement til de særskilte tjenestene og andre offentlige tilbud og tiltak.
-
-6
-
-9
-
-7
-
-Ibid.
-Bufdir 2021.
-
-8
-
-Ibid.
-Lidén mfl. 2024a.
-10 Lidén mfl. 2024b; Proba samfunnsanalyse 2023.
-
-[Side 325]
-
-NOU 2024: 13
-Lov og frihet
-
-323
-
-Kapittel 26
-
-Kapittel 26
-
-Barns medvirknings- og selvbestemmelsesrett i saker om
-utenlandsopphold
-26.1 Innledning
-Dette kapittelet omhandler barns rett til medvirkning og selvbestemmelse i saker om ufrivillig
-utenlandsopphold og forholdet til foreldrenes rett
-til å bestemme utenlandsreiser for barnet. Kapittelet tar også for seg barns mulighet til å klage på
-foreldrenes utøvelse av foreldreansvar. Temaene
-er av betydning for hvorvidt det er behov for
-endringer i barnelova for å styrke rettsvernet for
-barn og unge som er ufrivillig etterlatt i utlandet,
-se mandatets punkt c sammenholdt med punkt a
-om når negativ sosial kontroll utgjør et brudd på
-barnelovas bestemmelser om foreldreansvar og
-barns medbestemmelsesrett. Kapittelet må sees i
-sammenheng med de overordnede grensene mellom foreldreansvaret og barns rett til medvirkning
-og selvbestemmelse som er gjennomgått i kapittel
-20.
-I kapittelet benyttes begrepet «utenlandsopphold» som fellesbetegnelse på både kortere og
-lengre utenlandsreiser samt midlertidig og permanent flytting til utlandet.
-
-26.2 Gjeldende rett
-26.2.1 Menneskerettslige forpliktelser
-EMK artikkel 8 gir enhver rett til respekt for sitt
-privatliv, familieliv, hjem og korrespondanse. Retten til å utøve familieliv innebærer også en rett for
-foreldre til å utøve foreldreansvar. Det innebærer
-blant annet en rett til å bestemme hvor barnet skal
-bo, også der dette er i utlandet. Foreldrenes rett til
-å bestemme hvor barnet skal bo er imidlertid ikke
-uten begrensninger og må utøves i tråd med barnets rettigheter, herunder hensynet til barnets
-beste, barnets medvirkningsrett, barns rett til
-vern mot alle former for vold, rett til liv og utvikling, rett til helse og en tilfredsstillende levestandard og rett til utdanning, se nærmere i kapittel 27
-hvor utvalget vurderer behovet for å innføre et
-
-utreiseforbud i saker om ufrivillig eller skadelig
-utenlandsopphold. Der vises det blant annet til at
-selv om foreldreansvaret gir foreldrene rett til å
-bestemme hvor barnet skal bo, kan staten ikke
-ignorere hensynet til barnets beste og barnets
-rett til privatliv og familieliv i saker hvor et barn er
-utsatt for ufrivillig utenlandsopphold.1
-Menneskerettslige forpliktelser av betydning
-for forholdet mellom foreldre og barn, er også
-omhandlet i kapittel 5 om menneskerettslige og
-andre folkerettslige rammer og kapittel 20 om
-negativ sosial kontroll, foreldreansvaret og barns
-rettigheter.
-
-26.2.2 Barnelovas regler om
-utenlandsopphold
-Det hører inn under foreldreansvaret å beslutte
-om et barn skal dra på utenlandsreise eller flytte
-utenlands, jf. barnelova §§ 40 og 41. Utgangspunktet er at begge foreldre med felles foreldreansvar
-må samtykke til flytting eller lengre utenlandsreiser med barn, jf. § 40. En av foreldrene med foreldreansvar kan ta med eller sende barnet på «stuttare utanlandsferder» uten den andres samtykke,
-jf. § 41 første ledd. Etter begjæring fra forelder
-med foreldreansvar kan retten nedlegge forbud
-mot utenlandsreise for barnet dersom det er usikkert om barnet vil komme tilbake. Når det gjelder
-barns selvbestemmelsesrett i spørsmål om utenlandsopphold, skiller barnelova mellom reiser
-med og uten foreldre med foreldreansvar.
-Reiser uten foreldre med foreldreansvar
-Barn som er fylt 12 år må samtykke til avgjørelse
-om å flytte, ta opphold eller reise til utlandet uten
-en forelder med foreldreansvar, jf. barnelova §§ 40
-tredje ledd og 41 femte ledd. Samtykkekravet gjelder både ved flytting og lengre og kortere uten1
-
-Osman mot Danmark 14. juni 2011, saksnr. 38058/09.
-
-[Side 326]
-
-324
-
-Kapittel 26
-
-NOU 2024: 13
-Lov og frihet
-
-landsopphold, enten det er alene, sammen med en
-forelder som ikke har foreldreansvar, eller
-sammen med andre, som for eksempel besteforeldre eller andre slektninger. Kravet gjelder også i
-tilfeller der en kortere reise forlenges til et lengre
-opphold eller flytting, for eksempel der barnet
-etterlates i utlandet uten foreldre med foreldreansvar i etterkant av en feriereise.2 Situasjoner der
-et barn flytter, reiser eller blir igjen i utlandet
-sammen med en forelder med foreldreansvar, faller utenfor samtykkekravet, se nedenfor.
-Samtykkekravet ble innført i 2015 i forbindelse
-med gjennomføringen av Haagkonvensjonen
-1996.3 Endringen var ifølge departementet ikke
-nødvendig for å ratifisere konvensjonen, men var
-likevel ønskelig av hensyn til sammenhengen i
-regelverket og for å styrke barneperspektivet i
-lovgivningen.4 Bestemmelsene gjelder i tillegg til
-den generelle bestemmelsen om barns medvirkningsrett i barnelova § 31, som ifølge departementet ikke ville være tilstrekkelig til å ivareta
-barnets behov og barnets beste i slike saker.5
-Som bakgrunn for samtykkekravet pekte departementet blant annet på at barnets muligheter for å
-returnere til Norge når det oppholder seg i et
-annet land kan være små dersom foreldrene og
-eventuelt andre voksenpersoner ikke bidrar til
-retur.6
-Samtykket skal gis overfor forelderen som tar
-avgjørelsen om at barnet skal flytte ut av landet
-eller ta opphold utenfor landet.7 Der det fremmes
-sak for domstolen etter barnelova § 41 fjerde ledd
-(utenlandsreise med forelder som ikke har foreldreansvar), vil barnets samtykke gjelde som et vilkår ved domstolens behandling og avgjørelse.8
-Utenom domstolsbehandling etter barnelovas
-§ 41 gjelder det ingen formkrav til barnets samtykke, som for eksempel at samtykket må gis
-skriftlig.9 Det oppstilles heller ingen sanksjoner
-dersom foreldrene ikke innhenter barnets samtykke i forkant av reisen, eller bestemmer at bar-
-
-2
-3
-
-4
-5
-6
-7
-8
-9
-
-Prop. 102 LS (2014–2015) merknader til §§ 40 og 41.
-Lov 4. september 2015 nr. 85 om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn (lov om Haagkonvensjonen 1996).
-Prop. 102 LS (2014–2015) punkt 8.5.2.2.
-Prop. 102 LS (2014–2015) punkt 8.5.2.4.
-Ibid.
-Prop. 102 LS (2014–2015) punkt 8.5.2.4 og merknader til
-§§ 40 og 41.
-Prop. 102 LS (2014–2015) merknader til §§ 40 og 41.
-Prop. 102 LS (2014–2015) merknader til § 40.
-
-net skal flytte eller reise til tross for at barnet ikke
-samtykker.
-I NOU 2020: 14 Ny barnelov – til barnets beste
-foreslår barnelovutvalget at samtykkekravet for
-barn som er fylt 12 år videreføres i ny barnelov.
-Kravet til samtykke til flytting uten en forelder
-med foreldreansvar foreslås utvidet til også å
-gjelde flytting innenlands. Utvalget foreslår verken formkrav for samtykke eller sanksjonsmuligheter ved manglende samtykke, men uten at dette
-diskuteres nærmere.
-Reiser med foreldre med foreldreansvar og reiser for
-barn under 12 år
-Det finnes ingen lovbestemmelser som konkret
-gjør unntak fra foreldrenes rett til å bestemme at
-barnet skal på utenlandsopphold sammen med en
-forelder med foreldreansvar, dersom begge med
-foreldreansvar er enige om beslutningen. Det
-samme gjelder for barn under 12 år som skal på
-utenlandsreise uten en forelder med foreldreansvar.
-Foreldre med foreldreansvar har rett og plikt
-til å ta avgjørelser for egne barn. Dette innebærer
-at de i utgangspunktet står fritt til å bestemme
-hvor barnet skal bo og vokse opp, også i et land
-eller miljø med lavere levestandard eller med
-strengere normsett og restriksjoner enn i Norge.
-Foreldreansvaret må likevel utøves innenfor de
-grenser som følger av de alminnelige reglene i
-barnelova om foreldreansvaret etter § 30, barns
-medbestemmelsesrett etter § 31 og barns selvbestemmelsesrett etter § 33. Bestemmelsene oppstiller generelle begrensninger for utøvelsen av
-foreldreansvaret og gjelder også i avgjørelser om
-utenlandsopphold. De kan samles under fem
-hovedpunkter, som ikke er uttømmende:
-1. Hensynet til barnets beste. Ved avgjørelser om å
-ta med barnet til utlandet, skal barnets beste
-tillegges vekt, jf. barnelova § 30 første ledd
-fjerde punktum, jf. også barnekonvensjonens
-artikkel 18 nr. 1 tredje punktum. Dette innebærer imidlertid ikke at barnets beste alltid
-skal få utslagsgivende vekt.
-2. Barnets gradvise selvbestemmelsesrett etter barnelova § 33. Jo nærmere barnet er myndighetsalderen (18 år), jo mer skal barnet selv
-kunne bestemme i saker om utenlandsopphold, også der dette skjer sammen med en
-eller begge foreldre med foreldreansvar.
-3. Barnets rett til å bli hørt og få sin mening vektlagt. Barnet skal bli hørt og få sin mening vektlagt når foreldre skal avgjøre om barnet skal
-flytte eller reise med foreldre med foreldrean-
-
-[Side 327]
-
-NOU 2024: 13
-Lov og frihet
-
-svar til utlandet, jf. barnelova § 31, samt
-Grunnloven § 104 andre ledd og barnekonvensjonen artikkel 12. Barnets mening skal vektlegges etter alder og modenhet og inngrepet
-art og alvorlighet. En forutsetning for at barnet kan gi uttrykk for sin mening, er at barnet
-har tilstrekkelig informasjon om reisen, jf. § 31
-andre ledd.
-4. Barnets rett til beskyttelse mot alle former for
-vold og overgrep. Det er forbudt å utøve fysisk
-eller psykisk vold for å få med seg et barn til
-utlandet, jf. barnelova § 30 tredje ledd, jf. også
-Grunnloven § 104 tredje ledd og barnekonvensjonen artikkel 19. Det vil også være brudd på
-foreldreansvaret å ta med barnet til utlandet til
-forhold som vil utsette barnets fysiske eller
-psykiske helse for skade eller fare.
-5. Barnets rett til privatliv, fritid, hvile, identitet,
-utvikling og utdanning. Utenlandsopphold som
-innebærer stor fare for at barnet hindres i å få
-sine rettigheter etter Grunnloven § 104 og barnekonvensjonen oppfylt, kan være i strid med
-utøvelsen av foreldreansvaret.
-
-26.2.3 Barns klagemuligheter overfor sine
-foreldre
-Barn har få klagemuligheter dersom foreldre
-handler i strid med hva de kan gjøre i kraft av foreldreansvaret. Dette gjelder også i avgjørelser om
-utenlandsopphold. Barn kan imidlertid selv ta
-kontakt med barnevernstjenesten, politiet eller
-andre hjelpeinstanser.
-Barn under 18 år er i utgangspunktet ikke prosessdyktige, og kan bare opptre selv i rettssak,
-herunder reise og ta imot søksmål, når det følger
-av særlig lovbestemmelse, jf. tvisteloven § 2-2
-tredje ledd og vergemålsloven § 8. Enkelte lovbestemmelser fastsetter at personer under 18 år er
-prosessdyktige, slik som tvisteloven § 36-3 andre
-ledd (tvangsvedtak i helse- og sosialsektoren),
-ekteskapsloven § 28 (ekteskapssak for domstolene), barnevernsloven § 14-25 første ledd, jf. § 12-3
-(rettslig prøving av barneverns- og helsenemndas
-vedtak), pasient- og brukerrettighetsloven § 6-5,
-jf. helse- og omsorgstjenesteloven § 10-7 første
-ledd (overprøving av barneverns- og helsenemndas vedtak om tvangstiltak overfor rusmiddelavhengige) og vergemålsloven § 69 (sak om vergemål). Rettighetene som unge oppnår etter disse
-bestemmelsene, omhandler imidlertid situasjoner der en offentlig myndighet er involvert.
-Bestemmelsene åpner ikke for at barn som er
-uenige i foreldrenes avgjørelser kan reise sak for
-retten.
-
-325
-
-Kapittel 26
-
-Barn kan ikke klage eller overprøve foreldrenes avgjørelser som faller inn under foreldreansvaret. De kan imidlertid be statsforvalteren ta
-stilling til avgjørelser under vergeansvaret, jf. vergemålsloven § 17 femte ledd.
-Ifølge forarbeidene gir vergemålsloven § 17
-femte ledd ingen alminnelig rett for statsforvalteren til å prøve rimeligheten av vergens avgjørelse,
-men bare til å omgjøre vergens avgjørelse der det
-er grunnlag for det.10 Forarbeidene presiserer
-ikke hvilke tilfeller dette kan være aktuelt for. Vernet om retten til respekt for privatliv og familieliv
-etter Grunnloven § 102 og EMK artikkel 8 tilsier
-at statsforvalteren bør utvise en viss varsomhet
-med å omgjøre beslutninger foreldre tar overfor
-egne barn.11 I vurderingen skal barnets syn tillegges vekt i samsvar med dets alder og modenhet,
-jf. forvaltningsloven § 17.
-Barnelova inneholder ingen lovbestemmelse
-tilsvarende vergemålsloven § 17 femte ledd, men
-særlovgivningen gir i noen tilfeller adgang for
-kompetente myndigheter til å treffe avgjørelser
-som i utgangspunktet ligger til begge foreldre
-med foreldreansvar, f.eks. å utstede pass til en
-mindreårig etter passloven § 4 tredje ledd. Barnelovutvalget av 1977 drøftet hvorvidt det var
-behov for en utenforstående instans til å avgjøre
-konflikter mellom foreldre og barn når det gjelder
-avgjørelser under foreldreansvaret, men konkluderte med at slike saker ikke egnet seg for domstolene eller andre forvaltningsorgan.12
-Også Barnelovutvalget av 2020 konkluderte
-med at det ikke burde innføres en formell adgang
-for barn til å klage på beslutninger som gjelder for
-dem selv under foreldreansvaret.13 Ifølge barnelovutvalget burde beslutningene under foreldreansvaret løses innad i familien uten innblanding fra det offentlige, ettersom mange beslutninger er av utpreget ikke-rettslig art som ikke passer i et formelt avgjørelsesorgan. Utvalget pekte
-også på at det kunne bidra til å øke konfliktnivået
-mellom foreldre og barn vesentlig dersom barn
-skal kunne klage over beslutninger som foreldrene treffer over dem på helt generelt grunnlag.
-Verken Barnelovutvalget av 1977 eller 2020
-drøftet hvorvidt det burde innføres en klagerett på
-nærmere bestemte avgjørelser innenfor foreldreansvaret, slik som for eksempel spørsmål om
-10
-
-Ot.prp. nr. 110 (2008–2009) merknader til vergemålsloven
-§ 17.
-11 Fredwall 2021: Karnov lovkommentar til vergemålsloven
-§ 17.
-12 NOU 1977: 35 punkt 6.8.
-13 NOU 2020: 14 punkt 10.3.5.3.3.
-
-[Side 328]
-
-326
-
-Kapittel 26
-
-NOU 2024: 13
-Lov og frihet
-
-utenlandsopphold eller flytting uten en forelder
-med foreldreansvar. Det ble imidlertid vist til at
-særlovgivningen i noen tilfeller vil komme barnet
-til unnsetning. Som eksempel nevner Barnelovutvalget av 2020 til at passloven åpner for utstedelse
-av pass i særlige tilfeller uten samtykke fra noen
-med foreldreansvar, jf. passloven § 4 tredje ledd.14
-En tredje tilleggsprotokoll til barnekonvensjonen, som gir barn rett til å klage til FNs barnekomité over brudd på sine rettigheter, ble vedtatt i
-2011. Norge har ikke sluttet seg til denne protokollen.15
-
-26.3 Andre lands rett
-Utvalget har ikke undersøkt regler om foreldreansvaret og barns medvirknings- og selvbestemmelsesrett i saker om utenlandsopphold i andre lands
-regelverk. Se mer om rettstilstanden i de nordiske
-landene i NOU 2020: 14 Ny barnelov – Til barnets
-beste.
-
-26.4 Hva er problemet?
-I hvilken grad foreldre har rett til å bestemme at
-et barn skal reise til utlandet mot barnets vilje er
-av betydning for hvordan hjelpeinstanser kan og
-skal involvere seg for å hjelpe barnet. Ekspertgruppa om unge som etterlates i utlandet mot sin
-vilje viser til at «[d]et er uklart hvor langt foreldreansvaret etter barneloven § 30 går når det gjelder
-beslutninger om å sende barn og unge på lengre
-utenlandsopphold i strid med den unges eget
-ønske».16 Videre peker ekspertgruppa på at både
-politi, skole og barnevernstjeneste er usikre på
-spørsmålet og har ulike oppfatninger om dette forholdet.17
-Både ekspertgruppa og flere instanser som
-har gitt innspill til utvalget peker på at bestemmelsene om at barn over 12 år skal samtykke til utenlandsreiser uten en forelder med foreldreansvar
-mangler sanksjonsmuligheter, og at samtykkekra14
-
-Ibid.
-Spørsmålet ble behandlet i Meld. St. 39 (2015–2016). I stortingsmeldingen innstilte regjeringen på å ikke tilslutte seg
-noen av tilleggsprotokollene på dette tidspunktet, som fikk
-tilslutning i stortingsbehandlingen. Saken ble igjen
-behandlet av Stortinget i 2022, men forslag om tilslutning
-til tilleggsprotokollen fikk ikke flertall i utenriks- og forsvarskomiteen, jf. Innst. 179 S (2021–2022).
-16 Ekspertgruppe om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 7.2.
-17
-Ekspertgruppe om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 5.2.3.
-15
-
-vet dermed ikke har effekt. Foreldre kan ta med
-seg barn over 12 år til utlandet uten at det får konsekvenser. Noen instanser peker også på at barns
-klagemulighet bør styrkes, særlig i saker om ufrivillig utenlandsopphold.
-
-26.5 Utvalgets vurderinger
-26.5.1 Bør det innføres formkrav eller
-sanksjoner ved brudd på
-samtykkekravet etter barnelova §§ 40
-og 41?
-Utvalget anbefaler ikke at det innføres formkrav
-for barns samtykke etter barnelova §§ 40 tredje
-ledd og 41 femte ledd.
-Etter barnelova §§ 40 og 41 må barn som er
-fylt 12 år samtykke til utenlandsopphold uten en
-forelder med foreldreansvar. Formålet er å sikre
-at barns vilje respekteres av foreldrene, særlig
-fordi barnets muligheter til å returnere til Norge
-når det oppholder seg i et annet land kan være
-små dersom foreldrene og eventuelt andre voksenpersoner ikke bidrar til hjemreisen. Det er
-imidlertid ikke knyttet formkrav til samtykket,
-eller sanksjoner dersom et samtykke ikke innhentes eller respekteres. Utenom de sakene som
-behandles av retten, der barnets samtykkekrav vil
-gjelde som et vilkår for rettens beslutning, jf. barnelova § 41 første ledd andre punktum eller fjerde
-ledd andre punktum, er det altså ingen direkte
-rettslige eller faktiske konsekvenser for foreldre
-som sender eller etterlater et barn over 12 år i
-utlandet uten at barnet har samtykket.
-Da forslaget om å innføre krav om samtykke
-var på høring i 2015, var enkelte høringsinstanser
-kritiske til manglende formkrav og sanksjonsmuligheter.18 Barnelovutvalget av 2020 foreslår at
-dagens samtykkeregel videreføres, uten at spørsmålene om formkrav eller sanksjoner er drøftet.19
-Utvalget ser at det er behov for å styrke barnets rettsvern mot ufrivillige utenlandsopphold
-uten en forelder med foreldreansvar. Etter utvalgets syn er formkrav til samtykke med tilhørende
-sanksjoner mot foreldre likevel ikke å anbefale. Et
-formkrav kan riktignok sikre at samtykket kan
-dokumenteres i etterkant. Dette kan, sammen
-med sanksjonsmuligheter overfor foreldre som
-ikke innhenter samtykke, bidra til at flere foreldre
-18
-
-Blant annet Fylkesmannen i Oslo og Akershus, Advokatforeningen og Skattedirektoratet. Se Prop. 102 LS (2014–
-2015) punkt 8.5.2.3.
-19
-NOU 2020: 14 punkt 10.3.5.2.4 og kommentarer til lovutkastet §§ 6-9 til 6-11.
-
-[Side 329]
-
-NOU 2024: 13
-Lov og frihet
-
-informerer barna om et planlagt forestående utenlandsopphold, samt spør barnet om det ønsker å
-reise. Slike tiltak kan bidra til å styrke barns
-rettsvern mot ufrivillige utenlandsopphold.
-Det er imidlertid flere forhold som taler mot å
-innføre et formkrav eller sanksjoner til samtykkekravet i barnelova §§ 40 og 41. Selv om forslaget
-kan sikre at det er innhentet samtykke fra barnet,
-kan det ikke dokumentere eller på annen måte
-sikre at samtykket som er gitt av barnet, er reelt
-eller basert på tilstrekkelig informasjon og forståelse. Barn som risikerer ufrivillige utenlandsopphold, er ofte under sterkt press fra foreldrene og
-vil ikke alltid oppleve å få tilstrekkelig eller riktig
-informasjon fra sine foreldre om utenlandsoppholdets varighet og innhold. Lojalitetskonflikter overfor foreldre eller andre i familien innebærer i tillegg en risiko for at barn ikke vil makte å gi
-uttrykk for sin vilje. I slike tilfeller vil barnets samtykke ikke kunne anses som en gyldig viljeserklæring fra barnet. Sanksjonsmuligheter vil i liten
-grad være egnet til å sikre barns selvbestemmelse
-der det er i risiko for å bli sendt på ufrivillig utenlandsopphold. Ekspertgruppa om unge som etterlates i utlandet mot sin vilje påpeker blant annet at:
-Noen har vokst opp i et så skadelig omsorgsmiljø eller lever med så sterk kontroll at de ikke
-har en opplevelse av å ha en vilje eller mulighet
-til å påvirke eget liv. De har kanskje heller ikke
-trening i å uttrykke sine behov og ønsker, eller
-erfaring med å få sine grenser forstått eller
-respektert. Noen kan også ha en psykisk
-lidelse eller utviklingsforstyrrelse som rent
-kognitivt svekker deres forutsetninger for å
-uttrykke en mening. Barn og unge kan akseptere å bli med på ting som kan anses som
-(potensielt) skadelig i objektiv forstand, men
-som de ikke forholder seg til som et spørsmål
-om hva de selv vil.20
-
-Videre beskriver ekspertgruppa hvordan tiden i
-forkant av et utenlandsopphold kan oppleves som
-kaotisk og være preget av motstridende følelser
-hos den unge:
-Situasjonen i forkant av en reise kan oppleves
-kaotisk og være preget av mange motstridende
-følelser hos de unge. En vanlig mekanisme kan
-være at til tross for konkrete bekymringer klarer ikke de unge å tro at foreldrene har planer
-om å holde dem tilbake i utlandet mot deres
-20
-
-Ekspertgruppa om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 1.3.2.
-
-327
-
-Kapittel 26
-
-vilje. Å frykte at de du er glad i vil utøve tvang,
-vold, frihetsberøvelse eller andre krenkende
-handlinger mot deg, kan være vanskelige følelser å romme. De unge håper derfor at de ved å
-samarbeide med familien ikke vil bli påført
-disse krenkelsene. Andre kan føle på skyld og
-skam for situasjonen, og oppleve at det er de
-selv som har forårsaket oppholdet i utlandet
-med sin adferd. De mener de fortjener utenlandsoppholdet – selv om det er mot deres vilje.
-De unge kan dermed søke hjelp og ytre sin
-bekymring, samtidig som de sier at de vil reise.
-Noen kan godta foreldrenes ønske i den tro at
-foreldrene vil dem vel og vet hva som er best
-for dem.21
-
-Et formkrav gir etter utvalgets vurdering begrenset trygghet og hjelp for de som lever i autoritære
-familier med sterk lydighetskultur, og vil legge for
-mye ansvar på barnet selv. Forutsetningene for
-samtykket kan dessuten endre seg i løpet av reisen. Barnet kan være forespeilet å skulle gå på en
-privatskole i utlandet, og det viser seg først etter
-at barnet har flyttet at barn utsettes for vold på
-skolen, eller at barnet ikke skal gå på skole i det
-hele tatt. Barnet kan også ha samtykket til en feriereise, men deretter blitt nektet eller forhindret i å
-reise tilbake til Norge. Dersom barnet har samtykket skriftlig, kan det være vanskelig for barnet
-senere å trekke tilbake dette samtykket.
-Det reiser seg også praktiske spørsmål ved
-hvordan formkravet og sanksjonene skal utformes. Blant annet vil det måtte avklares hvordan
-barnets samtykke skal dokumenteres, hvem som
-skal kontrollere at samtykke er gitt og at barnet
-har fått tilstrekkelig informasjon, samt hvilke
-sanksjoner som skal gis ved manglende samtykke. Da forslaget om å innføre krav om samtykke var på høring, pekte Advokatforeningen på
-som en mulig tilnærming å endre flyttemeldingsskjemaer, slik at den med foreldreansvar må
-erklære at barnet har samtykket. På denne måten
-kan foreldre eventuelt straffeforfølges for å ha gitt
-uriktige opplysninger til offentlig myndighet.22
-Advokatforeningen erkjente likevel utfordringer
-med dette tiltaket:
-Til dette kan innvendes at det er grunn til å tro
-at målgruppen i liten grad forholder seg til folkeregisterets skjemaer, og dessuten at brudd
-på bestemmelsen vil være vanskelig å oppdage
-21
-
-Ekspertgruppa om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 5.1.
-22 Blant annet Advokatforeningen og Skattedirektoratet.
-
-[Side 330]
-
-328
-
-Kapittel 26
-
-NOU 2024: 13
-Lov og frihet
-
-med mindre barnet, som mot sin vilje er flyttet
-ut av landet alene, er i stand til å komme i kontakt med norske myndigheter og gjøre oppmerksom på forholdet. Dette vil også forutsette
-kjennskap til bestemmelsen hos barnet. Slik
-kjennskap vil man til en viss grad kunne sikre
-ved at blant annet personalet i skoler er oppmerksom på og skolert i reglene. Der det er
-snakk om en utenlandsreise og ikke en flytting,
-vil melding til folkeregisteret normalt ikke
-forekomme.23
-
-Etter folkeregisterloven § 6-3 skal den som flytter
-til et land utenfor Norden for å bosette seg der
-eller oppholde seg der i minst seks måneder,
-melde dette til skattekontoret. Unnlatelse av å
-melde utflytting kan imidlertid ikke sanksjoneres
-etter reglene om overtredelsesgebyr i lovens
-kapittel 12, jf. § 12-1. For personer som unnlater å
-melde flytting har registermyndigheten videre
-rett til å treffe vedtak om bostedsregistrering etter
-reglene i kapittel 4 og 5, jf. folkeregisterforskriften
-§ 6-5-3. Flyttemeldingen kan også komme etter at
-flyttingen har skjedd, jf. folkeregisterforskriften
-§ 6-5-2 andre ledd. Det er altså få konsekvenser av
-å ikke melde flytting, og folkeregistermyndigheten må ikke godta en utflytting for at barnet skal
-kunne reise. Det er grunn til å anta at enkelte foreldre som sender barn ut av landet mot barnets
-vilje ikke vil registrere at barnet har flyttet før
-utreise. Dette fordi kunnskap om reisens formål
-vil kunne føre til at myndighetene iverksetter tiltak for å hindre reisen. I tillegg kan barnet bli
-tvunget til å samtykke, slik det er påpekt ovenfor.
-Endring av flyttemeldingsskjema vil dermed ikke
-nødvendigvis forhindre at foreldre tar med seg
-barn ut av landet mot deres vilje.
-I kapittel 14 har utvalget foreslått å innføre et
-nytt straffebud som innebærer at foreldre kan
-straffes med bøter eller fengsel inntil tre år for å
-utsette et barn for visse former for skadelig utenlandsopphold. Utvalget har ikke foreslått at straffebudet skal omfatte det å sende eller etterlate et
-barn over 12 år i utlandet mot sin vilje uten en forelder med foreldreansvar. En straffesanksjon må
-etter utvalgets syn kobles til særlig klanderverdige tilfeller der barnet med foreldrenes viten
-utsettes for risiko for skade. At et barn over 12 år
-oppholder seg i en kortere periode hos besteforeldre eller en annen omsorgsperson mot sin vilje,
-men hvor omsorgen ellers er godt ivaretatt, bør
-ikke sanksjoneres med straff, selv om foreldrene
-23
-
-Advokatforeningens høringssvar gjengitt i Prop. 102 LS
-(2014–2015) punkt 8.5.2.3.
-
-har handlet i strid med hva de har rett til i kraft av
-foreldreansvaret.
-
-26.5.2 Rettsvirkninger ved brudd på
-samtykkekravet
-Selv om utvalget ikke anbefaler å innføre et formkrav til samtykke eller direkte sanksjoner ved
-brudd på samtykkekravet, er barnelovas §§ 40 og
-41 om barnets samtykke, ikke uten rettsvirkninger. Samtykkekravet er et rettskrav som foreldrene plikter å respektere. Barnevernstjenesten
-må vurdere om foreldre respekterer eller har til
-hensikt å respektere et barns rett til medvirkning
-og selvbestemmelse i saker om utenlandsopphold
-når det vurderer om et barn har særlig behov for
-hjelp, jf. barnevernloven § 3-1 (om frivillig hjelpetiltak) eller om det er behov for andre tiltak etter
-barnevernsloven.24 Det må også legges til grunn
-at politiet kan pålegge midlertidig utreiseforbud
-etter barnelova § 41 tredje ledd dersom barnet for
-eksempel gir uttrykk for at det ikke har samtykket i reisen og det er fare for at barnet ikke vil
-komme tilbake.
-Utvalget anbefaler at det utarbeides en forskriftsbestemmelse som presiserer at det kan
-anses å være åpenbart ubetenkelig å utstede pass
-til barn over 12 år som oppholder seg ufrivillig i
-utlandet uten en forelder med foreldreansvar.25
-Videre foreslår utvalget i kapittel 29 at regler om
-refusjon av reiseutgifter for barn forankres i lov
-og forskrift, og at regelverket samsvarer med vilkårene for utstedelse av reisedokumenter uten
-foreldrenes samtykke. I kapittel 30 foreslår utvalget at barn som oppholder seg ufrivillig i utlandet
-uten en forelder med foreldreansvar på visse vilkår skal ha rett til oppholdstillatelse. Utvalget
-viser også til forslag om hjemmel for å ilegge
-utreiseforbud ved fare for skadelig utenlandsopphold for barn.26 Dersom barnet uttrykker bekymring for hva som kan skje i utlandet, må dette tillegges stor vekt i vurderingen av om utreiseforbud skal ilegges. Tilsvarende må barnets medvirknings- og selvbestemmelsesrett tillegges vekt i
-vurderingen av om meldeplikten til barnevernstjenesten utløses i saker hvor barnet står i fare for
-skadelig utenlandsreise.
-
-24
-
-Se kapittel 23 hvor utvalget blant annet foreslår endringer
-for å synliggjøre at alvorlig brudd på barnets rett til medvirkning og selvbestemmelse er momenter i vurderingen
-av om barnet er utsatt for omsorgssvikt.
-25 Se kapittel 28 om pass og andre reisedokumenter.
-26 Se kapittel 27 om utreiseforbud.
+# Barnevern – enkelte grunnleggende prinsipper
+
+## Innledning
+
+Barnevernslovens formål er å sikre at barn og unge som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp, omsorg og beskyttelse til rett tid, jf. barnevernsloven § 1-1 første ledd.[^1244] Barnevernstjenesten har ansvar for å gi hjelp, omsorg og beskyttelse når det er nødvendig på grunn av barnets omsorgssituasjon eller atferd, jf. lovens § 15-3 andre ledd. For å oppfylle dette ansvaret har barnevernstjenesten et bredt spekter av tiltak til rådighet, jf. barnevernsloven kapittel 3 til 5. Kommunen har en lovpålagt *plikt* til å gi nødvendig hjelp til barn, jf. lovens § 15-3. Ved lovendring i 2018 ble det det innført en tilsvarende *rett* til nødvendige tiltak for barnet, jf. § 1-6.[^1245] Denne sistnevnte bestemmelsen og rettighetsfestingen er en presisering av barnets rett til omsorg og vern mot vold etter Grunnlovens § 104 og barnekonvensjon artikkel 19.[^1246]
+
+Barnevernsloven skal anvendes i tråd med en rekke grunnleggende prinsipper, som i stor grad skriver seg fra konstitusjonelle og internasjonale menneskerettigheter omtalt i kapittel 5. Enkelte av prinsippene er nedfelt i barnevernsloven §§ 1-1 til 1-10. Prinsippene er førende for vurderingene og utfallet i en barnevernssak, men også for prosessene og saksbehandlingen i slike saker. Nedenfor gjennomgår utvalget enkelte grunnleggende prinsipper av særlig betydning for problemstillingene denne utredningen omhandler.
+
+## Enkelte grunnleggende prinsipper i barnevernsloven
+
+*Hensynet til barnets beste* er det førende prinsippet for alt arbeid etter barnevernsloven og skal være et grunnleggende hensyn ved alle handlinger og avgjørelser som berører barn, jf. barnevernsloven § 1-3 første punktum, jf. også Grunnloven § 104 andre ledd og FNs barnekonvensjon artikkel 3 nr. 1. Alle barnevernstiltak skal være til barnets beste, jf. barnevernsloven § 1-3 andre punktum. Tiltaket må etter en samlet vurdering være bedre for barnet, enn alternativet om ikke å iverksette tiltaket. Hvilken vekt hensynet til barnets beste skal ha, kommer til uttrykk på varierende vis i praksis fra Den europeiske menneskerettighetsdomstolen (EMD). Det blir både vist til at hensynet til barnets beste skal være overordnet («of paramount importance»)[^1247] og at barnets beste «must come before all other considerations».[^1248] Under enhver omstendighet må det foretas en interesseavveining mellom hensynet til barnets beste og foreldrenes rett til privat- og familieliv.[^1249] I følge forarbeidene til barnevernsloven skal hensynet til barnet «veie særlig tungt» i barnevernssaker hvor handlinger og avgjørelser direkte gjelder barn.[^1250] Det kan legges til grunn at barnets beste er å anse som et vilkår for å treffe vedtak om tiltak etter barnevernsloven.[^1251]
+
+*Det minste inngreps prinsipp* innebærer at barnevernets tiltak ikke skal være mer inngripende enn nødvendig, jf. barnevernsloven § 1-5 andre ledd. Prinsippet gjenspeiler nødvendighets- og proporsjonalitetskravet ved inngrep i retten til familieliv, jf. EMK artikkel 8 nr. 2. Prinsippet gjelder i hele barnevernstjenestens arbeid, fra undersøkelsesfasen til iverksettelse av tiltak.
+
+*Det biologiske prinsipp og retten til respekt for familielivet.* Etter barnevernsloven § 1-5 har barn rett til omsorg og beskyttelse, fortrinnsvis i egen familie. Barn og foreldres *rett til familieliv* er vernet av Grunnloven §§ 102 og 104 tredje ledd og EMK artikkel 8 nr. 1. EMD har lagt stor vekt på barns og foreldres biologiske tilhørighet til hverandre, også der barnevernstjenesten har overtatt omsorgen for barnet.[^1252]
+
+*Partsrettigheter*. I saker etter barnevernsloven er hovedregelen at barn kan opptre som part i saken og gjøre partsrettigheter gjeldende dersom barnet har fylt 15 år og forstår hva saken gjelder, jf. barnevernsloven § 12-3 første ledd første punktum. I saker som gjelder tiltak for barn med atferdsvansker eller tiltak for barn utsatt for menneskehandel, har barn alltid partsrettigheter uansett alder, jf. lovens § 12-3 første ledd andre punktum. Dersom hensynet til barnet tilsier det, kan barneverns- og helsenemnda i tillegg innvilge barn under 15 år partsrettigheter, jf. lovens § 12-3 annet ledd. I barnevernloven av 1992 måtte det foreligge «særlige grunner» for å kunne innvilge barn under 15 år partsrettigheter.[^1253] I den nye barnevernsloven av 2021 er dette endret til at det nå er tilstrekkelig at hensynet til barnet tilsier det, og innebærer dermed en lavere terskel for å kunne innvilge yngre barn partsrettigheter. I forarbeidene er det uttalt at barn over 12 år bør få informasjon fra barnevernstjenesten om hva partsrettigheter innebærer og muligheten for innvilgelse av partsrettigheter.[^1254]
+
+*Medvirkningsrett.* Et barn har rett til å medvirke i alle forhold som vedrører barnet, jf. barnevernsloven § 1-4 første ledd. Medvirkningsretten følger også av Grunnloven § 104 første ledd andre punktum og barnekonvensjonen artikkel 12. Barn har en rett, men ingen plikt, til å uttale seg til barnevernet, dette gjelder uavhengig av foreldrenes samtykke, og foreldrene trenger ikke å bli informert om samtalen på forhånd.[^1255] Barnets syn skal tillegges vekt i samsvar med dets alder og modenhet.[^1256] En forutsetning for utøvelse av retten til medvirkning er at barnet har fått tilstrekkelig og tilpasset informasjon om spørsmålet saken gjelder. Barn skal informeres om hva barnets opplysninger kan brukes til, hvem som kan få innsyn i disse, og de har rett til å uttale seg før opplysningene deles jf. § 1-4 andre ledd. Barnet kan ha med seg en tillitsperson i møter med barnevernet jf. § 1-4 tredje ledd.
+
+*Barns rett til å få ivaretatt sin etniske, kulturelle, språklige og religiøse bakgrunn* gjelder i alle faser av saken, jf. barnevernsloven § 1-8, jf. barnekonvensjonen artikkel 14, 20 og 30. Bestemmelsen har betydning både for urfolk, nasjonale minoriteter og barn med tilknytning til andre land.[^1257] Det presiseres i forarbeidene at det er barnets, og ikke foreldrenes bakgrunn som skal ivaretas, men at foreldrenes bakgrunn likevel er relevant i forståelsen av barnets bakgrunn, og ofte sammenfallende.[^1258]
+
+*Tidlig innsats.* Barnevernstjenesten skal sette inn tiltak tidlig for å forebygge alvorlig omsorgssvikt og atferdsvansker, jf. barnevernsloven § 1-10 og barnekonvensjonen artikkel 19 nr. 1 om beskyttelse og nr. 2 om forebygging. Å avdekke omsorgssvikt så tidlig at varige problemer kan unngås, er avgjørende for å gi riktig hjelp til rett tid, jf. lovens formål etter § 1-1 første ledd.[^1259]
+
+# Barnevernstjenestens undersøkelser og risikovurderinger
+
+## Innledning
+
+I dette kapittelet gir utvalget en overordnet framstilling av regelverket knyttet til det tidlige stadiet av en barnevernssak, dvs. fra bekymringsmelding kommer fram til barnevernstjenesten, og til undersøkelse åpnes og avsluttes. Framstillingen er av betydning for flere andre kapitler der det vurderes tiltak for å styrke rettsvernet for barn og unge utsatt for negativ sosial kontroll, tvangsekteskap, kjønnslemlestelse, psykisk vold og ufrivillig eller skadelig utenlandsopphold. Utvalgets vurderinger er særlig knyttet til spørsmålet om foreldreinvolvering og unntak fra partsinnsyn.
+
+En gjennomgående erfaring fra både forskningsrapporter og tilbakemeldinger fra aktører som har kommet med innspill til utvalget, er at det er manglende kunnskap om negativ sosial kontroll og æresmotivert vold og kontroll i barnevernstjenesten. Manglende kunnskap innebærer en risiko for at en barnevernssak bærer galt av sted allerede på undersøkelsesstadiet.
+
+Et behov utvalget har identifisert i saker om negativ sosial kontroll og æresmotivert vold, er viktigheten av å sikre gode risikovurderinger før foreldre involveres i saken. Barnevernstjenesten (og andre hjelpeinstanser) trenger tid til å bygge tillit hos barnet for å få kartlagt hva barnet har vært utsatt for og hva det risikerer å bli utsatt for. En slik tillitsbygging kan være utfordrende dersom foreldrene informeres om at barnet har kontakt med barnevernstjenesten.[^1260] Dersom barnevernet orienterer foreldre om at det er iverksatt undersøkelse i en sak som gjelder negativ sosial kontroll, er det i en del tilfeller fare for at barnet kan bli utsatt for enda strengere kontroll, press til å trekke tilbake sin forklaring til barnevernstjenesten, eller at barnet blir sendt på et ufrivillig eller skadelig utenlandsopphold. Særlig i saker hvor den negative sosiale kontrollen er motivert av ære, kan barnet i ytterste konsekvens risikere svært alvorlige represalier dersom foreldrene orienteres om at det er iverksatt undersøkelse, eller om informasjon barnet har gitt til barnevernstjenesten.
+
+## Gjeldende rett
+
+### Bekymringsmeldinger
+
+Etter barnevernsloven § 2-1 skal barnevernstjenesten «snarest, og senest innen en uke» gjennomgå bekymringsmeldinger de mottar, og vurdere om meldingen skal følges opp med en undersøkelse. Også for et barn som oppholder seg i utlandet, skal en bekymringsmelding til barnevernstjenesten følges opp med vurdering av om undersøkelse skal iverksettes.[^1261]
+
+Barnevernsloven definerer ikke hva en bekymringsmelding er, men det kan legges til grunn at begrepet omfatter enhver henvendelse til barnevernstjenesten som gir grunnlag for bekymring for et konkret barn. Også meldinger som gis til barnevernstjenesten som følge av meldeplikten etter § 13-2, omfattes av begrepet.[^1262]
+
+Barnevernstjenesten plikter å foreta en første siling av innkomne bekymringsmeldinger så snart som mulig for å identifisere meldinger som krever umiddelbar oppfølging, jf. barnevernsloven § 2-1 første ledd tredje punktum.[^1263] For eksempel kan en bekymring for at barnet risikerer å bli sendt på et ufrivillig eller skadelig utenlandsopphold, eller en bekymring om at et barn risikerer å bli utsatt for æresmotivert vold, kreve umiddelbar oppfølging. Uten umiddelbar oppfølging kan det være risiko for at barnet blir ført ut av landet før barnevernstjenesten har fått undersøkt omsorgssituasjonen nærmere, eller at omsorgssituasjonen forverres og barnet blir utsatt for alvorlige overgrep.
+
+### Undersøkelser
+
+Når det er «rimelig grunn til å anta» at det foreligger forhold som «kan» gi grunnlag for å iverksette tiltak etter loven, har barnevernstjenesten plikt til å iverksette undersøkelse, jf. barnevernsloven § 2-2 første ledd. Formålet med undersøkelsen er å avdekke og dokumentere om barnet har behov for tiltak, og helst før barnets situasjon har utviklet seg til omsorgssvikt eller mishandling, jf. lovens § 1-1 (om lovens formål), jf. § 15-1 første ledd (om kommunens ansvar) og 15-3 andre ledd (om barnevernstjenestens ansvar).[^1264]
+
+Vilkåret «rimelig grunn til å anta» innebærer en lav terskel for å iverksette undersøkelser. Det er ikke krav om sannsynlighetsovervekt, men det må foreligge en konkret grunn som kan gi grunnlag for tiltak.[^1265] Den nedre terskelen for å iverksette undersøkelse er knyttet til vilkårene for frivillig hjelpetiltak etter lovens § 3-1 første ledd.[^1266] Denne bestemmelsen har de laveste inngangsvilkårene for tiltak, og vurderingstemaet er om det er rimelig grunn til å anta at et barn på grunn av sin omsorgssituasjon eller atferd har «et særlig behov for hjelp». Er det rimelig grunn til å anta at barnet har et særlig behov for hjelp, vil dette utløse en undersøkelsesplikt.
+
+Et barn kan blant annet ha et særlig behov for hjelp dersom det lever under forhold med sterke begrensninger i bevegelsesfriheten eller muligheten til å delta i et sosialt liv. Bekymringsmeldingen kan inneholde diffuse og til dels «usynlige» indikasjoner på ulike former for negativ sosial kontroll, som isolert sett og i første omgang framstår som bagatellmessige og akseptable foreldrerestriksjoner. God fenomenforståelse og evne til å se barnets situasjon i sin helhet på et tidlig stadium i saken er dermed viktig. En eller flere bekymringsmeldinger kan være grunnlaget for å iverksette en undersøkelse, og det kan etter omstendighetene være av betydning hvem bekymringsmeldingen kommer fra. Dersom bekymringsmeldingen kommer fra en ansatt med meldeplikt etter lovens § 13-2, vil det være en presumpsjon for at det bør igangsettes en undersøkelse.[^1267]
+
+Barnevernstjenesten skal undersøke barnets «helhetlige omsorgssituasjon og behov», jf. barnevernsloven § 2-2 tredje ledd første punktum. En slik undersøkelse vil vanligvis omfatte momenter som barnets hjemmeforhold, atferd og emosjonelle behov, helse og utvikling, forhold i barnehage eller skole, fritidsaktiviteter og andre forhold av betydning.[^1268]
+
+Undersøkelsens sentrale kilde til opplysninger vil i utgangspunktet være barnet selv. *Samtaler med barnet* er derfor en grunnleggende del av undersøkelsen. Et viktig formål med samtalen er, i tillegg til å klarlegge faktum, å bidra til å oppfylle barnets medvirkningsrett, jf. barnevernsloven § 1-4. Ofte vil det ta tid før barnet forteller om den reelle situasjonen det er i, og det er nødvendig å bygge opp et trygt og godt samarbeid mellom barnevernstjenesten og barnet.[^1269] Barnet har rett til å uttale seg til barnevernet uavhengig av foreldrenes samtykke, og uten at foreldrene informeres om samtalen på forhånd, jf. lovens § 1-4 første ledd. Barnevernstjenesten kan videre engasjere en sakkyndig som også kan kreve å få snakke med barnet i enerom, jf. lovens § 2-2 femte ledd.
+
+I forbindelse med undersøkelsen, kan det være nødvendig å *innhente opplysninger* om barnets situasjon fra skole, helsesøster, lege, politi eller andre offentlige instanser som er involvert i familien, primært etter samtykke fra foreldre og eventuelt barnet. Der foreldrene ikke samtykker, kan informasjonen innhentes fra de ulike organene etter pålegg, jf. barnevernsloven § 13-4 (om pålegg om å gi opplysninger). Der det er «nødvendig», kan barnevernsleder be om politibistand ved gjennomføring av undersøkelsen, jf. barnevernsloven § 12-10 (om politibistand ved gjennomføring av undersøkelser og ved fullbyrding av vedtak).
+
+Undersøkelsen må være *grundig nok* til å kunne avgjøre om det er nødvendig med tiltak etter barnevernsloven, jf. barnevernsloven § 2-2 tredje ledd. Omfanget av undersøkelsen må stå i forhold til temaet for bekymringen og alvoret i den enkelte saken.[^1270] Undersøkelsen er grunnlaget for senere beslutninger, og Høyesterett har understreket at barnevernets avgjørelse må bygge på et bredt og oppdatert beslutningsgrunnlag.[^1271]
+
+Det er viktig at ulike hypoteser undersøkes i barnevernssaken. Dersom barnet opplyser at det ikke får delta på fritidsaktiviteter og bursdager, kan dette skyldes at familien har dårlig råd. På den annen side kan slike begrensninger også være et tegn på at barnet er utsatt for et svært strengt kontrollregime med risiko for alvorlige konsekvenser for barnet dersom det ikke følger familiens normer og regler.
+
+I familier med patriarkalske eller kollektivistiske verdier hvor hensynet til storfamilien eller et religiøst lukket samfunn står sentralt, er negativ sosial kontroll gjerne kollektiv, og flere personer kan være deltakende i utøvelsen av kontrollen. Det er da særlig viktig at ikke bare barnets forhold til nærmeste familie undersøkes, men også den utvidede familien eller andre som familien har nær kontakt med. Utøverne av kontrollen kan være medlemmer av storfamilien, slik som tanter, onkler og besteforeldre, eller ledere eller andre personer i et lukket trossamfunn. I noen tilfeller kan også en eller begge foreldre selv være utsatt for kontroll og sterke begrensninger i hvilke valg de kan foreta i hverdagen. Dette kan være av betydning for hvordan undersøkelsen gjennomføres, og kan for eksempel tilsi et behov for separate samtaler med hver av foreldrene på et tidlig stadium av undersøkelsen.
+
+Etter barnevernslovens § 1-8 skal barnevernstjenesten ta hensyn til *barnets etniske, kulturelle, språklige og religiøse bakgrunn*. I undersøkelsesfasen innebærer dette at det blant annet må innhentes informasjon om barnets bakgrunn som ledd i den helhetlige kartleggingen. Målet med bestemmelsen er å bidra til bedre barnevernsfaglig arbeid, grundigere vurderinger og riktigere avgjørelser til barnets beste. Bestemmelsen innebærer ikke at det skal legges en annen standard til grunn for vurderinger av barnets behov eller av kriterier for god omsorg og gode oppvekstsvilkår.[^1272]
+
+For mange vil en undersøkelse fra barnevernstjenesten oppleves som belastende og stigmatiserende. Etter barnevernsloven § 2-2 tredje ledd skal undersøkelsen gjennomføres så «skånsomt som mulig». Det innebærer at undersøkelsen ikke kan være mer omfattende enn formålet tilsier, og at kunnskap om undersøkelsen ikke spres unødig. Bestemmelsen innebærer en presisering av at *minste inngreps prinsipp* også gjelder i undersøkelsesfasen, jf. Grunnloven § 102 og barnevernsloven § 1-3 andre ledd.
+
+Undersøkelsen skal gjennomføres snarest, og senest innen *tre måneder*, jf. lovens § 2-2 andre ledd. I særlige tilfeller kan undersøkelsestiden utvides til inntil seks måneder. En utvidelse av undersøkelsestiden kan være hensiktsmessig og nødvendig for å bygge tillit til barnet, særlig i saker der barnet frykter represalier og strengere restriksjoner dersom kontakten med barnevernstjenesten blir kjent for foreldrene. Når barnevernstjenesten mottar en bekymringsmelding, skal den alltid vurdere om det er behov for umiddelbar oppfølging, jf. § 2-1 første ledd siste punktum. Dersom det er et slikt behov, må barnevernstjenesten foreta en raskere undersøkelse enn det som følger av § 2-2.
+
+En undersøkelse *avsluttes* enten med at barnevernstjenesten vedtar å henlegge saken, henlegger saken med bekymring med mulighet for ny undersøkelse innen seks måneder fordi foreldrene ikke samtykker til anbefalte hjelpetiltak, eller barnevernstjenesten vedtar iverksetting av tiltak. Ved alvorlig bekymring for barnets omsorgssituasjon, avsluttes undersøkelsen med at barnevernstjenesten sender en begjæring om mer inngripende tiltak til barneverns- og helsenemnda. Dette er regulert i lovens § 2-5 om avslutning av undersøkelser. For mer informasjon om barnevernstjenestens undersøkelser, vises det til Prop. 133 L (2020–2021) *Lov om barnevern (barnevernsloven) og lov om endringer i barnevernsloven.*
+
+### Foreldrenes innsynsrett og barnevernstjenestens informasjonsplikt
+
+Som hovedregel skal alt saksmateriale i en barnevernssak legges fram for foreldrene, også når de ikke har bedt om det. Dette er slått fast av Den europeiske menneskerettighetsdomstolen (EMD), jf. de enstemmige storkammerdommene *T. P. og K. M. mot Storbritannia* og *K. A. mot Finland*.[^1273] Det må ifølge førstnevnte dom likevel foretas en avveining av foreldrenes og barnets interesser, jf. avsnitt 80. Det åpnes for at innsyn som kan sette et barn i fare på grunn av dets uttalelser, kan nektes. I den generelle uttalelsen i avsnitt 80 ligger en anerkjennelse av at det kan være situasjoner hvor tilbakehold av opplysninger av hensyn til barnet kan være aktuelt.[^1274] FNs barnekonvensjon artikkel 12 oppstiller krav om å treffe alle mulige forholdsregler for å minimere risikoen for at barn blir utsatt for vold, utnyttelse eller andre negative konsekvenser på grunn av sin medvirkning i ulike prosesser.[^1275]
+
+Partenes rett til å gjøre seg kjent med sakens dokumenter i en barnevernssak, følger av forvaltningsloven §§ 18 til 19, og er uttrykkelig gjengitt i barnevernsloven § 12-6 første ledd første punktum. Barnevernstjenesten har også en plikt til å forelegge opplysninger for foreldre som er part i saken på eget initiativ, altså selv om foreldrene ikke har bedt om det, jf. forvaltningsloven § 17 og barnevernsloven § 12-6 første ledd andre punktum. Opplysningsplikten gjelder bare opplysninger som parten ellers ville hatt krav på å gjøre seg kjent med etter reglene om partsinnsyn. Partsinnsyn og opplysningsplikten gjelder både under forberedelsen av en sak, altså allerede når barnevernstjenesten har igangsatt en undersøkelse, og etter at det er truffet vedtak i saken.[^1276]
+
+Foreldrenes innsynsrett gjelder ikke ubegrenset, og barnevernsloven (og forvaltningsloven) inneholder flere begrensninger i partsinnsynsretten som gir barnevernstjenesten en adgang til å gjøre unntak fra innsyn, jf. barnevernsloven § 12-6 første til tredje ledd, jf. forvaltningsloven §§ 18-19. Et praktisk viktig unntak gjelder dersom innsyn kan utsette barnet eller andre personer for fare eller skade, jf. barnevernsloven § 12-6 andre ledd. Bestemmelsen er en presisering av forvaltningsloven § 19 første ledd bokstav d som gjør unntak fra partsinnsyn der det «av hensyn til partens helse eller forhold til personer som står ham nær» må anses «utilrådelig» med innsyn.
+
+Et annet viktig unntak fra retten til partsinnsyn er dersom «innsyn kan hindre at barnevernstjenesten kan få gjennomført en undersøkelse etter lovens § 2-2», jf. barnevernsloven § 12-6 tredje ledd. Denne begrensningen gjelder så lenge undersøkelsen pågår, og omtales gjerne som utsatt innsyn. Barnevernstjenesten har dermed en adgang til å unnta opplysninger i undersøkelsesfasen, hvis det er fare for at innsyn vil vanskeliggjøre eller hindre videre undersøkelse av saken. Dette vil konkret gjelde der innsyn kan hindre at barnevernstjenesten får undersøkt barnets helhetlige omsorgssituasjon og behovet for å iverksette tiltak. Barnevernsloven § 12-6 tredje ledd tilsvarer bestemmelsen i forvaltningsloven § 20 første ledd andre punktum, med den justering at ordlyden i § 12-6 har blitt særlig tilpasset for barnevernssaker. Når det gjelder terskelen for å anvende dette unntaket, stilles det ikke krav om sikker viten, og det er tilstrekkelig at det er en reell mulighet for at innsyn kan hindre eller vanskeliggjøre undersøkelsen. Unntaksbestemmelsen er særlig aktuell dersom barnet ikke vil makte å formidle informasjon eller gi uttrykk for sin mening, hvis foreldrene får kjennskap til hva barnet har sagt. Utenfor faller tilfeller der barnet opplever det som ubehagelig at foreldre får innsyn, uten at det kan antas at det vil gå utover barnets omsorgssituasjon eller medføre fare eller skade for barnet.[^1277]
+
+En avgjørelse om å begrense innsyn på undersøkelsesstadiet er en avgjørelse om utsatt innsyn og ikke et endelig avslag på krav om partsinnsyn. Begrensningene i innsyn gjelder bare så lenge undersøkelsen pågår. I forarbeidene til barnevernsloven blir viktigheten av at barnet blir orientert om når foreldrene vil få tilgang til opplysninger om saken, og at barnevernstjenesten ved behov må følge opp barnet både før og etter at foreldrene får tilgang på informasjonen framhevet:
+
+Parten har som hovedregel rett til innsyn når undersøkelsessaken avsluttes. Dersom informasjon er blitt holdt tilbake fra foreldrene i undersøkelsesfasen, er det viktig at barnet blir orientert om når undersøkelsen avsluttes og at foreldrene vil få tilgang til opplysningene. Barnevernstjenesten må ved behov følge opp barnet før og/eller etter foreldrene får tilgang på informasjonen. Det er derfor viktig at barnet gis god informasjon i forbindelse med undersøkelsen om hvordan barnevernstjenesten vil behandle opplysningene fra barnet, herunder hva som skal til for at foreldrene vil kunne få tilgang til opplysningene på senere stadier av en barnevernssak.[^1278]
+
+En avgjørelse om unntak fra partsinnsyn etter både andre og tredje ledd kan påklages til statsforvalteren, jf. forvaltningsloven § 21.[^1279] For mer informasjon om reglene om partsinnsyn, plikten til å forelegge partene opplysninger, og utsatt innsyn, vises det til Prop. 133 L (2020–2021) punkt 8.4.
+
+## Andre lands rett – Danmark[^1280]
+
+Barnets lov trådte i kraft 1. januar 2024.[^1281] Lovens formål er å tilby barn og unge under 18 år og deres familier råd, hjelp og støtte for å forebygge sosiale problemer, jf. lovens § 1 nr. 1. Loven regulerer blant annet sosiale tiltak rettet mot barn, og inneholder en rekke nye bestemmelser som har til formål å styrke barns rettigheter. Blant annet gir lovens § 3 barn og unge over 10 år partsrettigheter i visse typer saker, som plassering utenfor hjemmet, behandling, opplæring og kontakt med samværsforeldre når barnet er plassert utenfor hjemmet. Loven inneholder også en rekke bestemmelser som gjelder for barn og unge som er utsatt for negativ sosial kontroll og æresrelaterte konflikter.
+
+Meldeplikt og undersøkelser
+
+Barnets lov § 133 gjelder offentlige ansattes meldeplikt, mens § 135 gjelder generell meldeplikt når noen får kjennskap til at barn er utsatt for overgrep eller nedverdigende behandling, eller lever under forhold som kan sette barnet helse og utvikling i fare. Etter lovens § 136 plikter kommunalbestyrelsen å iverksette en rettidig og systematisk vurdering av alle bekymringsmeldinger som er mottatt etter blant annet §§ 133 og 135 med henblikk på å avklare om barnet eller den unge har behov for støtte. Bekymringsmeldingene skal registreres i en database, og vurderes innen 24 timer fra de ble mottatt for å finne ut om det er behov for akuttiltak, jf. lovens § 136 stk. 1 og 2.
+
+Lovens § 18 gjelder undersøkelsesplikten. Dersom kommunalbestyrelsen har «viden om eller grund til at antage» at et barn eller en ungdom har behov for hjelp eller støtte etter loven, skal det etter lovens § 18 stk. 1 foretas en screening for å finne ut om saken gjelder:
+
+- en problemstilling som ikke krever ytterlige undersøkelser,
+
+- en problemstilling som krever ytterligere undersøkelser av et eller flere forhold av betydning for barnets behov for støtte,
+
+- en problemstilling som krever en «børnefaglig undersøgelse» av barnets behov etter lovens § 20.
+
+Lovens § 20 om barnefaglige undersøkelser stk. 1 og 2 lyder:
+
+§ 20. Kommunalbestyrelsen skal træffe afgørelse om en børnefaglig undersøgelse i følgende situationer:
+
+1\) Når der er grund til at antage, at det er en alvorlig eller kompleks sag, herunder hvor der er overvejelser om anbringelse af et barn eller en ung uden for hjemmet efter §§ 46 eller 47.
+
+2\) Når et barn eller en ung har været udsat for overgreb eller ved mistanke herom.
+
+3\) Når et barn eller en ung har haft ophold i en boform efter §§ 109 eller 110 i lov om social service med en forælder på grund af vold i hjemmet og den pågældende forælder afbryder opholdet for at vende tilbage til et voldeligt miljø med barnet eller den unge.
+
+Stk. 2. Kommunalbestyrelsen kan endvidere iværksætte en børnefaglig undersøgelse, når kommunalbestyrelsen i øvrigt vurderer, at det er nødvendigt af hensyn til barnets eller den unges støttebehov.
+
+En barnefaglig undersøkelse skal ta sikte på å avdekke utfordringer og ressurser hos barnet eller den unge, familien og nettverket, jf. lovens § 22 stk. 1. Undersøkelsen omfatter alle aspekter av livet til barnet og barnets familie, for eksempel barnets utvikling, helse, familieforhold og skoleforhold, samt at kommunalbestyrelsen skal vurdere behov for en barnefaglig undersøkelse av eventuelle andre barn og unge i familien, jf. lovens § 21 stk. 1. Fristen for å avslutte undersøkelsen er senest fire måneder etter at kommunalbestyrelsen har blitt gjort oppmerksom på barnet eller den unge har behov for særlig støtte, jf. lovens § 20 stk. 3. På bakgrunn av undersøkelsen kan det iverksettes tiltak overfor barnet og familien. Barn som har fylt 10 år har rett til en «second opinion» av Ankestyrelsen hvis det er besluttet plassering utenfor hjemme eller tilbakeføring mot barnets vilje, jf. lovens § 145 stk. 1.[^1282] For barn under 10 år få barnets fosterforeldre, barnets støtteperson, vennskapsfamilie, rett til å be om en «second opinion» av Ankestyrelsen uavhengig av om barnet motsetter seg tiltaket eller ikke.[^1283]
+
+Risikovurdering
+
+Viser screeningen at det kan være tale om æresrelaterte konflikter eller negativ sosial kontroll, har kommunalbestyrelsen en plikt til å foreta en risikovurdering *før* barnets foreldre, nettverk og øvrige slektninger involveres i saken, jf. lovens § 18 stk. 3.[^1284] Formålet er å beskytte barnet eller den unge. Forarbeidene sier følgende om hva som ligger i en risikovurdering:
+
+Ved en risikovurdering forstås en vurdering af, om barnet eller den unge er truet, herunder f.eks. om barnet eller den unge risikerer at blive udsat for vold, tvangsægteskab, frihedsberøvelse, bortførelse, at blive sendt på et udlandsophold, der er til skade for barnets eller den unges sundhed og udvikling, f.eks. genopdragelsesrejse, eller at blive udsat for drabsforsøg. Risikovurderingen vil skulle tage udgangspunkt i, om barnet eller den unge allerede har været truet med eller udsat for vold, trusler, forfølgelse, frihedsberøvelse, bortførelse, genopdragelsesrejse eller negativ social kontrol.
+
+Risikovurderingen vil desuden skulle indeholde oplysninger om, hvorvidt familien eller andre personer i det nære netværk f.eks. har brugt vold mod andre, om andre i familien er blevet tvunget til ægteskab eller sendt på genopdragelsesrejse, om familien har et stærkt æreskodeks, om truslerne eller volden er eskalerende, og om der er andre problemer i familien, som f.eks. psykiske problemer eller problemer med stofmisbrug m.v.
+
+I vurderingen vil skulle indgå, om der er behov for at iværksætte akut støtte, herunder eventuelt anbringelse, efter reglerne i de foreslåede § 32, stk. 4, § 46, stk. 3, eller § 143. Ved anbringelse uden for hjemmet i sager om æresrelaterede konflikter vil det desuden være vigtig at være opmærksom på, om der af hensyn til barnets eller den unges sundhed eller udvikling, herunder barnets eller den unges sikkerhed, er grundlag for at træffe afgørelse efter de foreslåede regler i §§ 104 og 105 om overvåget eller afbrudt samvær og kontakt, eller om at anbringelsesstedet ikke må oplyses over for forældre og netværk. I vurderingen vil der desuden skulle indgå overvejelser om, hvilke konsekvenser det vil kunne have for barnet/den unge, når familien inddrages i sagen, og hvordan disse konsekvenser håndteres.[^1285]
+
+Ifølge forarbeidene kan politiet involveres i risikovurderingen ved behov.[^1286] Kommunalbestyrelsen kan også kontakte «den lokale sikkerhedskonsulenten fra det nationale team af sikkerhedskonsulenter under Styrelsen for International Rekruttering og Integration (SIRI)», jf. lovens § 172 a. Sikkerhetskonsulentene vil bl.a. kunne bistå med rådgivning om barnets eller den unges sikkerhet. Kommunen kan også søke bistand hos Den nationale videns- og specialrådgivningsorganisation (VISO), som gir gratis veiledning i de mest kompliserte enkeltsaker herunder saker om æresrelaterte konflikter, jf. lovens §§ 165 og 166. Kommunalbestyrelsen kan i tillegg involvere Koordinationsenheden mod genopdragelsesrejser og ufrivillige udlandsophold ved behov, jf. lovens § 172 c.
+
+Barnets lov § 5 åpner for at kan holdes samtaler med barnet uten samtykke fra foreldre med foreldreansvar og uten deres tilstedeværelse, når hensynet til barnet eller den unges beste taler for det. Tilsvarende gjelder i saker hvor det er bekymring for at barnet kan være utsatt eller i risiko for negativ sosial kontroll eller æresrelatert konflikt, jf. lovens § 137 stk. 2. Formålet med å innta disse momentene er å tydeliggjøre overfor kommunene at det er behov for å være særlig oppmerksom på beskyttelse av barnet eller den unge, og på familiens og nettverkets eventuelle rolle, i forhold til den unges sikkerhet i saker hvor det foreligger eller er risiko for æresrelaterte konflikter.
+
+Sikkerhetskonsulentene og Koordinationsenheden kan som ledd i rådgivningen eller opplysningen av den enkelte sak avholde en eller flere samtaler med barnet eller den unge under 18 år, jf. §§ 172 a stk. 2 og 172 c stk. 4. Samtalene kan finne sted uten samtykke fra den som har foreldremyndighet over barnet, såframt hensynet til barnets beste eller sikkerhet tilsier det.
+
+I forarbeidene til barnets lov ble æresrelaterte konflikter definert slik:
+
+Æresrelaterede konflikter dækker over konflikter, der kan opstå i kollektivistiske og patriarkalske familieformer, hvor individets rettigheder og trivsel begrænses af hensyn til kollektivets ære og omdømme. Kollektivet kan både udgøres af den nære familie, af den udvidede familie og af netværket, hvoraf dele kan være bosiddende i andre lande. For at beskytte eller genoprette kollektivets ære og omdømme anvendes en række handlinger til at regulere og/eller sanktionere individets adfærd. Handlingerne omfatter negativ social kontrol, trusler, udøvelse af forskellige former for vold (fysisk, psykisk, seksuel, økonomisk, digital og stalking), drab, kvindelig omskæring, tvangsægteskaber og udlandsophold, der er til skade for barnet eller den unges sundhed og udvikling, f.eks. genopdragelsesrejser.[^1287]
+
+Negativ sosial kontroll anvendes i definisjonen av æresrelatert konflikt for å betegne de ulike handlingene og ytringene som utøves mot den utsatte som en del av konflikten. I forlengelsen av dette ble det uttalt følgende om negativ sosial kontroll:
+
+Negativ social kontrol anvendes oftest om handlinger, som et fællesskab anvender til at regulere og/eller sanktionere individets adfærd i henhold til fællesskabets normer. Negativ social kontrol kan blandt andet komme til udtryk som begrænsning af individets muligheder for at træffe alderssvarende valg for sit eget liv, herunder socialt liv, fritidsinteresser, seksualitet, krop, uddannelse og job, fastholdelse i uønskede relationer og gennem isolation og overvågning. Negativ social kontrol kan have en karakter eller et omfang, hvor den falder inden for straffelovens definition på psykisk vold.[^1288]
+
+Definisjonen er gitt i tilknytning lovens § 15. Den samme definisjonen ble lagt til grunn i de øvrige bestemmelsene der negativ sosial kontroll og æresrelaterte konflikter ble tatt inn.
+
+## Utvalgets vurderinger og forslag
+
+### Risikovurdering før foreldreinvolvering
+
+Utvalget foreslår at det lovfestes en plikt for barnevernstjenesten til å foreta en risikovurdering før foreldre involveres eller informeres om at det er iverksatt undersøkelse i en sak, eller gis innsyn i sakens dokumenter, se forslag til endringer i barnevernsloven § 2-2 og 12-6.
+
+Barnevernsloven pålegger ikke barnevernstjenesten en generell plikt til å undersøke barnets sikkerhetssituasjon i forbindelse med en undersøkelsessak, en såkalt risikovurdering. En plikt til å vurdere risikoen for barnets sikkerhet i visse alvorlige saker, kan imidlertid utledes indirekte av flere av bestemmelsene i barnevernsloven som innebærer at barnevernstjenesten skal vurdere behov for tiltak.
+
+Når foreldre blir klar over at det er iverksatt en barnevernssak kan det, særlig i saker som gjelder negativ sosial kontroll, forekomme at foreldrenes kontrollbehov øker, at barnet risikerer alvorlige represalier som for eksempel trusler, vold eller ufrivillig eller skadelig utenlandsopphold, eller at barnet trekker sin forklaring av frykt for slike represalier. I saker hvor kontrollen er knyttet til familiens behov for å gjenopprette eller bevare ære, kan barnet stå i fare for svært alvorlige represalier som følge av kunnskap om barnevernets involvering.
+
+I Oslo Economics´ undersøkelse om kommunenes erfaringer med barn og unge som etterlates i utlandet mot sin vilje, ble det funnet at 84 prosent av 45 kommuner oppgir at barnevernstjenestens involvering har vært motivet bak utreisen i en eller flere saker.[^1289] Også en svensk rapport fra Jämställdhetsmydigheten viser til erfaring med at barn og unge har hatt en pågående «socialtjänstutredning» eller en nær beslutning om å plassere barnet, i forkant av at barnet ble ført ut av Sverige.[^1290] I Bredal og Melby (2018) ble barnevernets arbeid med minoritetsjenter utsatt for vold og sterk kontroll undersøkt. Forfatterne fant at det ikke var uvanlig at barn trekker tilbake sin forklaring i disse sakene:
+
+Jenter som trekker tilbake historien sin, er en gjengs erfaring hos våre informanter. Som vi har sett i case-beskrivelsene, kan slik tilbaketrekking skje både i meldings- og undersøkelsesfasen og etter plassering. Dette er jenter som først sier at de ikke tør å gå hjem igjen og viser tydelige tegn på frykt, for så å trekke alt tilbake, avvise barnevernets tilbud om hjelp, og – tilsynelatende like sterkt – ønske å dra hjem igjen.[^1291]
+
+I flere av sakene ble konsekvensen at barnevernstjenesten ikke hadde tilstrekkelig informasjon og grunnlag til å tilby eller begjære tiltak i familien, og at saken ble henlagt.
+
+I saker hvor det potensielt kan dreie seg om alvorlige følger for barnet, må det stilles strenge krav til risikovurderinger på undersøkelsesstadiet, noe som bør reflekteres i lovgivningen. Utvalget foreslår derfor at det inntas et nytt ledd i barnevernsloven § 2-2 (om barnevernstjenestens rett og plikt til å gjennomføre undersøkelser) som pålegger barnevernstjenesten en plikt til å foreta en risikovurdering før foreldre involveres i undersøkelsen. Videre foreslår utvalget at det tas inn en tilsvarende tilføyelse i barnevernsloven § 12-6 (om partenes rett til dokumentinnsyn og unntak fra innsyn for å beskytte barnet), slik at barnevernstjenesten plikter å foreta en risikovurdering før foreldre gis partsinnsyn i sakens dokumenter eller for øvrig blir forelagt opplysninger etter bestemmelsens første ledd.
+
+Formålet med forslaget er å sikre risikovurderinger på et tidlig stadium i en barnevernssak, og dermed sikre at barnet eller andre, for eksempel søsken, ikke utsettes for fare eller skade ved foreldreinvolvering. Videre er det et formål å sikre barnet et trygt samarbeid med barnevernet i undersøkelsesfasen. Risikoen barnevernstjenesten plikter å vurdere etter forslagene er særlig knyttet til to situasjoner: At undersøkelsen ellers ikke lar seg gjennomføre fordi barnet ikke forteller om sin situasjon eller trekker forklaringen sin, eller at barnet eller andre personer utsettes for fare eller skade. Sistnevnte vurdering vil gjelde på ethvert stadium av en barnevernssak. Dersom det foreligger en risiko for en eller begge av disse forholdene, bør barnevernstjenesten utsette å informere foreldre om at undersøkelse er åpnet.
+
+Utvalget har vurdert hvorvidt bestemmelsene bør begrenses til, eller særlig bør framheve, risikovurdering i saker der det er indikasjoner på negativ sosial kontroll eller æresmotiverte konflikter. Risiko for at barnet utsettes for vold, trusler eller annen fare eller skade ved at foreldre involveres, orienteres eller gis partsinnsyn i sakens dokumenter, gjelder ikke nødvendigvis bare i saker om negativ sosial kontroll og æresmotiverte konflikter. Utvalget mener det alltid vil være behov for å foreta en risikovurdering i barnevernssaker før foreldreinvolvering. Samtidig kan det være hensiktsmessig å framheve det særlige behovet som gjelder i saker om negativ sosial kontroll og æresmotivert vold. Utvalget legger derfor fram to alternative forslag. Hvor omfattende vurderingen skal være, vil bero på den konkrete saken. Noen vurderinger kan raskt utkvitteres, mens andre bekymringsmeldinger vil kreve mer tid og samtale med barnet det gjelder, eventuelt også dialog med skole, barnehage, politi mv.
+
+Utvalget er kjent med at regjeringen vil utrede en tverrfaglig og tverretatlig modell for risikovurdering og risikohåndtering i saker om vold og overgrep, jf. Prop. 36 S (2023–2024) *Opptrappingsplan mot vold og overgrep mot barn og vold i nære relasjoner (2024–2028)*.[^1292] Utvalget har derfor ikke vurdert det nærmere innholdet og gjennomføringen av risikovurderingene, men anbefaler at risikofaktorer knyttet til negativ sosial kontroll og æresmotivert vold og kontroll omhandles særskilt i den tverretatlige modellen. Blant annet må det i en risikovurdering kartlegges om barnet eller den unge er truet, risikerer å bli utsatt for vold, tvangsekteskap, frihetsberøvelse, bortføring eller å bli sendt på et ufrivillig eller skadelig utenlandsopphold, om familien eller andre personer i det nære nettverket har brukt vold mot andre, om andre i familien er blitt tvangsgiftet eller har blitt sendt på ufrivillig eller skadelig utenlandsopphold, om familien har en sterk æreskodeks, om truslene eller volden er eskalerende, og om det er andre problemer i familien, som f.eks. psykiske problemer eller problemer med stoffmisbruk mv. Lignende momenter er blant annet trukket fram i forarbeidene til den danske barnets lov § 18 stk. 3 som omhandler risikovurdering *før* foreldre og nettverk involveres i saken.[^1293] Hva slags risikovurderingsverktøy barnevernstjenesten skal eller bør ha tilgang til, må følges opp i andre prosesser enn gjennom lovgivningen.
+
+Forslaget til endring av barnevernsloven § 2-2 bør etter utvalgets syn også sees i sammenheng med og bakes inn i modellen som presenteres i NOU 2023: 7 *Trygg barndom, sikker fremtid – Gjennomgang av rettssikkerheten for barn og foreldre i barnevernet.* I rapportens kapittel 12 om barnevernstjenestens undersøkelser foreslås det ulike tiltak som styrker involvering av foreldre i undersøkelsesfasen, samt at det innføres en ny modell for undersøkelsesarbeidet, med en mer stegvis siling av saker, og der det tydeligere skilles mellom alvorlige og mindre alvorlige saker.[^1294]
+
+Risikovurderinger av barnets sikkerhetssituasjon kan være aktuelt i alle stadiene i en barnevernssak: Ved gjennomgang av melding, i undersøkelsesfasen, ved vurdering av tiltak, under plassering og ved vurdering av opphevelse av hjelpetiltak eller opphevelse av vedtak om plassering utenfor hjemmet. Det vises til utvalgets anbefaling i punkt 24.2 om en lovfestet plikt til risikovurderinger på alle stadier av en barnevernssak
+
+### Forslagets forhold til menneskerettighetene
+
+Forslaget innebærer en plikt til å foreta risikovurderinger, og ikke en utvidelse av muligheten til å unnta opplysninger i en barnevernssak fra foreldrene. En konsekvens av forslaget kan likevel være at barnevernstjenesten i større grad anvender muligheten for å gjøre unntak fra informasjonsplikten og retten til partsinnsyn eller til å utsette innsyn. Forslaget vil dermed kunne innebære et inngrep i foreldres og barns rett til respekt for sitt privatliv og familieliv etter Grunnloven § 102 og EMK artikkel 8, herunder rett til å bli orientert om at det er åpnet undersøkelse etter barnevernsloven og den faktiske og rettslig begrunnelsen for dette.
+
+Utvalget mener at inngrepet i foreldrenes rett til privatliv og familieliv er forholdsmessig og nødvendig for å ivareta barns rettigheter, og for å oppfylle formålene bak forslaget, nemlig å gi barn beskyttelse, sikre barnet et trygt samarbeid med barnevernstjenesten og å redusere risikoen for at barnet eller andre, for eksempel søsken, utsettes for fare eller skade ved for tidlig foreldreinvolvering. Ulempene foreldrene blir utsatt for er at barneverntjenesten, ved å gjennomføre en risikovurdering, kan bli oppmerksom på forhold som innebærer et behov for å gjøre unntak fra informasjonsplikten og foreldrenes rett til partsinnsyn. Plikten til å gjennomføre en risikovurdering innebærer imidlertid ikke en utvidelse av forvaltningens adgang til å unnta opplysninger fra foreldrene. I praksis kan en pliktig risikovurdering også innebære at foreldrene får informasjon om undersøkelsen på et senere tidspunkt enn de ville fått uten et slikt krav. Ved å ikke innta en tydelig plikt til risikovurdering i bestemmelsen, er det en mulighet for at barnevernstjenesten ikke er bevisst på den risikoen et barn kan bli utsatt for ved foreldreinvolvering, og at barnet dermed ikke oppnår den beskyttelsen som barnevernstjenesten er ment å gi.
+
+Staten er forpliktet til å treffe egnede tiltak for å beskytte barn mot alle former for vold, overgrep og omsorgssvikt, jf. Grunnloven § 104 tredje ledd, barnekonvensjonen artikkel 19 og EMK artikkel 3 og 8. Staten har også en plikt til å verne om barns integritet og rett til privatliv på lik linje med voksnes, jf. Grunnloven § 102, EMK artikkel 8 og barnekonvensjonen artikkel 16. I dette ligger blant annet at statlige myndigheter kan ha en plikt til å holde tilbake opplysninger som kan sette barnet i fare. I en sak hvor barnet har behov for hjelp og bistand fra barnevernstjenesten på grunn av at det er utsatt for omsorgssvikt, må barnets behov for å dele informasjon med barnevernstjenesten avveies mot foreldrenes rett til å motta informasjon for å ivareta sitt omsorgsansvar for barnet samt egne interesser i saken.[^1295] Dersom deling av informasjon med foreldrene kan sette barnet i fare, må barnets interesser veie tyngre enn foreldrenes.
+
+Også barns rett til å bli hørt etter Grunnloven § 104 første ledd andre punktum og barnekonvensjonen artikkel 12 nr. 2, kan innebære en plikt for myndighetene til å holde tilbake opplysninger som kan sette barnet i fare. Ifølge Barnekomitéen oppstiller bestemmelsen et krav om at voksne som samarbeider med barn, må treffe alle mulige forholdsregler for å minimere risikoen for at barna blir utsatt for vold, utnyttelse eller andre negative konsekvenser på grunn av sin medvirkning i ulike prosesser.[^1296] Bestemmelsen tilsier at det bør tydeliggjøres i lovgivningen at det kan gjøres unntak fra foreldreinvolvering på et tidlig stadium av en barnevernssak dersom dette er nødvendig for å beskytte barn mot vold og overgrep.

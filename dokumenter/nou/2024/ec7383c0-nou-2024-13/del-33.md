@@ -1,963 +1,216 @@
-# NOU 2024: 13, del 33 av 47 (side 363–374)
+# NOU 2024: 13, del 33 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 363]
-
-NOU 2024: 13
-Lov og frihet
-
-28.4.3 Hva er problemet?
-Personlig oppmøte kan være en utfordring der
-søkeren oppholder seg i et land der det ikke finnes en norsk ambassade, og sikkerhetssituasjonen kan gjøre det vanskelig for ambassadepersonale å reise for å møte søkeren. Dersom søkeren
-har vært tilbakeholdt i utlandet i mange år, kan
-det også være tvil om søkerens identitet. I slike tilfeller vil det være nødvendig å foreta en DNAundersøkelse for å bekrefte søkerens identitet.
-Å nekte å samtykke til utstedelse av pass til
-barn som oppholder seg i utlandet mot sin vilje,
-kan være en effektiv måte for foreldrene å forhindre at barnet returnerer til Norge. Det er også tilfeller der både mor og barn er fratatt reisedokumenter og holdes tilbake i utlandet mot sin vilje. I
-noen tilfeller kan mor reise tilbake til Norge, men
-er forhindret fra å ta med seg barnet. En mor som
-er forhindret fra å ta med seg barnet tilbake til
-Norge, kan i mange tilfeller utøve omsorgen, så
-lenge hun blir værende sammen med barnet i
-vertslandet.
-Flere aktører har påpekt at det er uklart hva
-som ligger i begrepet «fare for liv og helse» som
-kan danne grunnlag for utstedelse av pass uten
-samtykke fra foreldre med foreldreansvar.
-
-28.5 Utvalgets vurderinger og forslag
-28.5.1 Noen hovedpunkter
-om sikringsplikten mv.
-Barn og unge som er ufrivillig etterlatt i utlandet
-har etter norsk særlovgivning flere rettigheter
-som innebærer forpliktelser for utenrikstjenesten
-til å yte bistand. Barn som har vanlig bosted i
-Norge, er omfattet av barnevernets ansvarsområde, jf. barnevernsloven § 1-2 om lovens virkeområde og § 1-1 om lovens formål som er å sikre at
-barn og unge som lever under forhold som kan
-skade deres helse og utvikling, får nødvendig
-hjelp, omsorg og beskyttelse til rett tid. Dette gjelder også for barn med vanlig bosted i Norge, men
-som oppholder seg i et annet land. Barnevernet
-har kompetanse til å treffe vedtak om omsorgsovertakelse, plassering på barnevernsinstitusjon,
-hjelpetiltak og pålegg om hjelpetiltak.61 Utenrikstjenesten vil være forpliktet til å sende bekymringsmelding til barnevernstjenesten når den er
-kjent med at et barn med vanlig bosted i Norge er
-utsatt for forhold i utlandet som utløser meldeplikten. Barnevernstjenesten har jurisdiksjon til å
-61
-
-Se kapittel 30.
-
-361
-
-Kapittel 28
-
-treffe visse vedtak når barn befinner seg i utlandet, men fortsatt har vanlig bosted i Norge. For å
-gjennomføre slike vedtak, må det legges til grunn
-at utenrikstjenesten også plikter å bistå så langt
-dette lar seg gjøre innenfor vertslandets lovgivning. Dette framkommer ikke tydelig av lovgivningen og bør etter utvalgets syn presiseres for å synliggjøre samarbeidet i slike saker.
-Et viktig spørsmål er hvilken sikringsplikt som
-gjelder overfor barn som er ufrivillig etterlatt i
-utlandet, mens foreldrene oppholder seg i Norge.
-I situasjoner der foreldrene ikke foretar seg noe
-for å hindre at barnet utsettes for alvorlige skadelige handlinger i utlandet, kan nøkkelen til å finne
-en løsning ligge i å etablere kontakt og samarbeid
-med foreldrene i Norge. Etter utvalgets oppfatning må norske myndigheter sikre en kontakt
-med foreldrene som kan gjøre det mulig å bringe
-barnet hjem til Norge. Barnet har selvstendige
-rettigheter til respekt for sitt privatliv og familieliv
-og har rett på vern mot vold. Selv om barnet som
-blir utsatt for menneskerettighetsbrudd oppholder seg utenfor norsk jurisdiksjon, kan selve løsningen, nemlig samarbeid med foreldrene, ligge
-under norsk jurisdiksjon. Det er derfor svært viktig at utenrikstjenesten etterlever sin meldeplikt
-til barnevernstjenesten i slike saker.
-
-28.5.2 Lov- eller forskriftsregulering
-av konsulær bistand
-Konsulær bistand er lite regulert og i stor grad
-overlatt til myndighetenes skjønnsutøvelse. Det
-kan være gode grunner til at det er slik, men dette
-kan skape uforutsigbarhet for personer som ber
-om bistand, og det kan øke faren for usaklig eller
-uforholdsmessig forskjellsbehandling. Stortingsmeldingen fra 2011 og utenriksinstruksen fra
-2002 utgjør sentrale rammer for skjønnsutøvelsen
-ved konsulær bistand. Mye har skjedd på de
-områdene denne utredningen omhandler siden
-instruksen ble vedtatt og stortingsmeldingen
-fremmet. Utenrikstjenesteloven er av nyere dato,
-men regulerer i liten grad hvordan konsulær
-bistand skal og kan utføres. På de områdene
-utredningen omhandler, er det behov for en oppdatering av kildene.
-Utvalget er kjent med at Utenriksdepartementet arbeider med ny stortingsmelding om konsulær bistand samt revisjon av utenriksinstruksen. I
-den forbindelse er det behov for at saker om ufrivillige og skadelige utenlandsopphold omtales
-grundig, og at rammer og retningslinjer for konsulær bistand tydeliggjøres.
-
-[Side 364]
-
-362
-
-Kapittel 28
-
-NOU 2024: 13
-Lov og frihet
-
-I utenrikstjenesteloven § 1 nr. 3 er det framhevet at bistand til norske statsborgere i utlandet
-inkluderer bistand i forbindelse med strafforfølging, ulykker, sykdom og dødsfall. Utvalget anbefaler at det vurderes om denne bestemmelsen bør
-få en tilføyelse, slik at også det å bistå norske
-statsborgere som er utsatt for ufrivillig eller skadelig utenlandsopphold framheves som en oppgave for utenrikstjenesten. Tilsvarende bør gjelde
-for utenlandske borgere som har tilstrekkelig tilknytning til Norge.
-Faren for usaklig eller uforholdsmessig forskjellsbehandling kan tilsi at konsulær bistand,
-særlig der norske borgere er utsatt for menneskerettighetsbrudd i utlandet, reguleres nærmere i
-forskrift. Samtidig erkjenner utvalget at en nærmere forskriftsfesting av konsulære tjenester kan
-innebære utfordrende problemstillinger som må
-vurderes grundig. Å vurdere hvorvidt konsulær
-bistand bør reguleres nærmere i forskrift, eller på
-hvilken måte dette eventuelt bør gjøres, ligger
-utenfor utvalgets mandat.
-
-28.5.3 Endring i passloven
-Utvalget foreslår en endring i passloven § 12 (om
-forskrifter), slik at innholdet i vilkåret «åpenbart
-ubetenkelig» for passutstedelse uten samtykke fra
-foreldre med foreldreansvar kan reguleres nærmere i forskrift, jf. utvalgets forslag til ny bokstav
-d i bestemmelsens andre ledd. Bestemmelsen
-åpner også for at det kan gis forskrift om hva som
-ligger i betegnelsen «fare for liv og helse». Formålet er særlig å tydeliggjøre at barn som er utsatt
-for et langvarig og ufrivillig opphold i utlandet
-uten en forelder med foreldreansvar, som
-utgangspunkt bør få utstedt pass, uten samtykke,
-for å gjenopprette normalsituasjonen i Norge.
-Noen momenter og eksempler på når pass kan
-utstedes til barn uten samtykke fra foreldre med
-foreldreansvar følger allerede av Politidirektoratets rundskriv.62 Vilkåret «særlige forhold» og
-«åpenbart ubetenkelig» er imidlertid strenge vilkår, og passutstedelse uten samtykke fra foreldrene gjør inngrep i foreldreansvaret. Utvalget
-mener den nærmere presiseringen av hvilke
-momenter som kan tillegges vekt i vurderingen
-derfor bør inntas i forskrifts form.
-Barn over 12 år skal ifølge barnelova § 40
-tredje ledd og § 41 femte ledd samtykke i utenlandsopphold uten en forelder med foreldreansvar. Dersom samtykket ikke respekteres av foreldrene og barnet etterlates i utlandet kan det være
-62
-
-RPOD-2020-8-3 punkt 5.2.2.
-
-svært vanskelig å gjenopprette barnets normalsituasjon i Norge. Dersom barnets vanlige bosted
-har gått over til oppholdslandet, gjør dette situasjonen ytterligere komplisert.
-Barn har en selvstendig rett til respekt for sitt
-privatliv og familieliv. Selv om det ligger til foreldreansvaret å bestemme hvor et barn skal bo,
-også der dette er i utlandet, har barnelova klare
-regler om at barn over 12 år skal samtykke til flytting til utlandet uten en forelder med foreldreansvar.63 Barn under 12 år vil også ha rett til både å
-uttale seg og medvirke i beslutninger om hvor det
-skal bo eller oppholde seg. Det bør legges stor
-vekt på barnets mening der beslutningen innebærer store og varige forandringer i barnets liv,
-slik som det å oppholde seg i et annet land uten en
-forelder med foreldreansvar over lengre tid. Der
-et barn er etterlatt i utlandet i strid med barnelovas regler, bør det etter utvalgets vurdering særlige grunner til for at barnet ikke skal få utstedt
-pass for å gjenopprette normalsituasjonen i
-Norge. Hensynet til barnets rett til å utøve et familieliv med søsken og foreldre i Norge bør tillegges
-stor vekt. Tilfeller hvor mor og barn er tvunget til
-å oppholde seg i utlandet, og barnet vil bli etterlatt
-i utlandet uten en forelder med foreldreansvar om
-mor reiser hjem, bør behandles likt, slik at det er
-tilstrekkelig med mors samtykke. Utvalget foreslår at det tydeliggjøres i forskriften at det er et
-tungtveiende moment i vurderingen av om det vil
-være åpenbart ubetenkelig å utstede pass for å
-gjenopprette normalsituasjonen for mor og barn i
-slike tilfeller.
-I tilfeller der oppholdslandets lovgivning innebærer at omsorgen og foreldreansvaret for barnet
-har gått over til andre personer i oppholdslandet,
-for eksempel en onkel, men barnet anses for å ha
-vanlig bosted i Norge, bør det likevel ikke være
-noe til hinder for å utstede pass til barnet uten den
-andres samtykke når oppholdet er i strid med barnelovas regler.
-Flere aktører har pekt på at det er uklart hva
-som ligger i «fare for liv og helse». Det bør vurderes om også dette vilkåret bør presiseres nærmere i forskrift. Etter utvalgets vurdering må
-«fare for liv og helse» forstås på samme måte som
-de forholdene som er dekket av utvalgets forslag
-til nytt straffebud mot skadelig utenlandsopphold,
-se utredningens kapittel 14 og utvalgets forslag til
-ny bestemmelse i straffeloven § 269.
-I kapittel 31 viser utvalget til at en utfordring
-med det norske systemet for å bistå barn i utlan63
-
-Se kapittel 26 om barns medvirknings- og selvbestemmelsesrett i saker om utenlandsopphold.
-
-[Side 365]
-
-NOU 2024: 13
-Lov og frihet
-
-det med å returnere til Norge i strid med foreldrenes ønsker, er at det består av et fragmentert
-regelverk og at ulike myndigheter har formell
-kompetanse til å vurdere spørsmål som er av
-betydning for om barnet skal returneres til Norge.
-Dersom ett kompetent organ fikk ansvar for å
-beslutte hjemreise for barnet, ville det kunne
-utløse tiltak som refusjon av reiseutgifter, utstedelse av pass og ulike andre hjelpetilbud når barnet returnerer til Norge. Utvalget har ikke hatt
-anledning til å utrede større organisatoriske
-
-363
-
-Kapittel 28
-
-endringer og utvalgets vurderinger og forslag
-baserer seg på dagens system. På sikt bør det
-imidlertid vurderes større organisatoriske
-endringer, se nærmere utredningens punkt 31.5.9.
-Organisatoriske endringer vil være en tidkrevende prosess. For å styrke rettsvernet til barn
-som er ufrivillig etterlatt i utlandet eller som er
-utsatt for skadelig utenlandsopphold, er det viktig
-å gjennomføre de endringene som er mulig å
-foreta med enklere grep i påvente av eventuelle
-større endringer.
-
-[Side 366]
-
-364
-
-NOU 2024: 13
-
-Kapittel 29
-
-Lov og frihet
-
-Kapittel 29
-
-Dekning av reiseutgifter (refusjonsordning)
-29.1 Innledning
-Etter gjeldende praksis er det etablert en hovedregel om at den enkelte som trenger konsulær
-bistand for å returnere til Norge må dekke sine
-egne reiseutgifter, med mindre saken omfattes av
-etablerte særordninger. For personer som er
-utsatt for negativ sosial kontroll, tvangsekteskap
-og kjønnslemlestelse i utlandet er det avsatt midler til hjemreise dersom disse ikke har mulighet
-til å dekke utgiftene selv. Refusjonsordningen er
-regulert i rundskriv F-2018-02 om utgifter til hjemreise til Norge ved negativ sosial kontroll,
-tvangsekteskap og kjønnslemlestelse.1 Rundskrivet fastsetter hvilke utgifter som kan dekkes og
-hvilke vilkår som stilles for å være omfattet av ordningen. Det er Barne-, ungdoms- og familiedirektoratets (Bufdir) representanter i Kompetanseteamet mot negativ sosial kontroll og æresrelatert
-vold som forvalter ordningen.
-
-29.2 Gjeldende ordning
-29.2.1 Målgruppen og hvordan ordningen
-forvaltes
-Refusjonsordningen ble etablert i 2004 i samme
-periode som etableringen av Kompetanseteamet.
-Målgruppen var opprinnelig personer over 18 år
-som var utsatt eller risikerte å bli utsatt for
-tvangsekteskap.2 Refusjonsordningen supplerte
-botilbudet for unge utsatt for tvangsekteskap og
-æresmotivert vold som ble etablert i 2002.3
-Senere har målgruppen for refusjonsordningen
-blitt utvidet til å omfatte personer som er utsatt for
-kjønnslemlestelse, og de seneste årene også negativ sosial kontroll.4
-
-Målgruppen for ordningen er ifølge rundskriv
-F-2018-02 personer som befinner seg i utlandet og
-som «har blitt utsatt for eller står i fare for i nær
-framtid å bli utsatt for negativ sosial kontroll,
-tvangsekteskap eller kjønnslemlestelse». Medfølgende personer som kan være i fare på grunn av
-den utsattes situasjon, er også omfattet av ordningen. Det kan for eksempel være den utsattes barn,
-søsken, foreldre eller andre personer som
-befinner seg i utlandet sammen med den utsatte,
-og som kan være i fare på grunn av den utsattes
-situasjon. Med «nær framtid» menes innen seks
-måneder. Rundskrivet definerer ikke nærmere
-hva som ligger i betegnelsen «negativ sosial kontroll».5
-For å være omfattet av refusjonsordningen, er
-det et vilkår at den utsatte er norsk statsborger,
-eller utenlandsk borger som har gyldig oppholdstillatelse eller oppholdsrett i Norge etter
-utlendingsloven.6 Det er videre et vilkår at den
-utsatte ikke har evne og mulighet til selv å dekke
-utgiftene, eller har mulighet til å få dekket utgifter
-til hjemreise på en annen måte.7 Utenriksstasjonen plikter å undersøke mulighetene for å få reisen dekket via det ordinære tjenesteapparatet
-som NAV eller barnevernstjenesten, eller fra familie og nettverk, eller gjennom såkalt nødlidenhetslån8.
-Det er den enkelte utenriksstasjon som søker
-om refusjon for utlegg på vegne av den eller de
-utsatte. Søknaden sendes Barne-, ungdoms- og
-familiedirektoratet (Bufdir), med kopi til Utenriksdepartementet. Søknaden skal blant annet inneholde informasjon som sannsynliggjør at personen(e) det gjelder har blitt eller står i fare for å bli
-utsatt for negativ sosial kontroll, tvangsekteskap
-5
-
-1
-2
-3
-4
-
-Barne-, ungdoms- og familiedirektoratets rundskriv F-201802 (opprinnelig utgitt av Kunnskapsdepartementet).
-Ekspertgruppa om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 2.5.
-Ibid.
-Ibid.
-
-6
-7
-8
-
-F-2018-02 under «Målgruppe for refusjonsordningen»
-Ibid.
-F-2018-2 under «Økonomiske forutsetninger».
-Hvis du på grunn av en nødssituasjon i utlandet trenger
-penger for å dekke reiseutgifter hjem til Norge, kan utenriksstasjoner og ambassader innvilge deg et lån som skal
-tilbakebetales. Se Meld. St. 12 (2010–2011) kap. 5.1 Boks
-5.2 Nødlidenhetslån.
-
-[Side 367]
-
-NOU 2024: 13
-Lov og frihet
-
-eller kjønnslemlestelse. Videre skal den inneholde opplysninger som sannsynliggjør at personen(e) ikke har egne midler eller på annen måte
-kan dekke hjemreisen, og opplysninger om den/
-de utsattes tilknytning til Norge gjennom norsk
-statsborgerskap, permanent oppholdstillatelse
-eller annen tillatelse etter utlendingsloven. Det
-forutsettes at utenriksstasjonen verifiserer opplysningene i saken så langt det er mulig
-Ifølge Kompetanseteamets årsrapport9 for
-2022 ble det innvilget refusjon i 14 enkeltsaker,
-hvorav 6 saker gjaldt voksne og 8 barn. I 2021 var
-det 16 søknader som alle ble innvilget, mens i 2020
-var det 9 søknader hvorav 7 ble innvilget. Alle søknadene i 2022 kom fra spesialutsendingene i
-Amman, Ankara, Islamabad og Nairobi. De fleste
-refusjoner innvilges til voksne, eller til voksne i
-følge med egne barn. I noen tilfeller innvilges refusjon til barn som reiser alene hjem til Norge.
-
-29.2.2 Særskilt om refusjon til personer under
-18 år
-Utenriksstasjonene yter som regel ikke konsulær
-bistand til barn i utlandet uten samtykke fra forelderen eller foreldre som har foreldreansvar.
-Begrunnelsen for dette er hensynet til foreldrenes
-rett til respekt for privatliv og familieliv etter
-Grunnloven § 102 og EMK artikkel 8, men denne
-rettigheten gjelder ikke ubegrenset. Barns rett til
-å bli beskyttet mot atferd som truer deres helse,
-utvikling eller fysiske og psykisk integritet, kan
-begrunne inngrep i foreldrenes rettigheter.
-Konsulære saker som involverer barn, skal
-ifølge Meld. St. 12 (2010–2011) være prioriterte
-saker. I saker der det foreligger «akutt fare for
-barnets liv og helse», kan utenriksstasjonen gi
-bistand uten foreldrenes samtykke og uten hensyn til foreldreansvar. Den praktiske bistanden i
-forbindelse med reisen må skje innenfor rammene av vertslandets lovverk og ofte i samarbeid
-med lokale myndigheter.10
-Rundskrivet F-2018-02 gir ikke veiledning om
-hvordan saker som involverer barn bør håndteres, og hvorvidt det gjelder egne krav for å dekke
-utgifter til hjemreise for personer under 18 år der
-det ikke foreligger samtykke fra foreldrene. Utvalget har fått opplyst at utenriksstasjonens praksis
-er å søke om refusjon på vegne av barnet der utenriksstasjonen gir bistand uten foreldrenes samtykke fordi det foreligger «akutt fare for liv og
-helse».
-9
-
-Kompetanseteamets årsrapport 2022: punkt 2.9.2.
-10
-Se mer i kapittel 28 om konsulær bistand og pass.
-
-365
-
-Kapittel 29
-
-29.3 Hva er problemet?
-Ekspertgrupperapporten «Det var ikke bare
-ferie» anbefaler at unge over 18 år får økonomisk
-støtte til retur til Norge, og at personer som utsettes for ufrivillige utenlandsopphold bør likebehandles ved vurderingen av dekning av hjemreiseutgifter.11
-Ekspertgruppa har pekt på at målgruppen for
-refusjonsordningen gradvis er blitt utvidet fra da
-ordningen ble innført, og at det fortsatt er pågående diskusjoner om hvem som bør omfattes, kriterier for refusjonsordningen og hvordan den skal
-forvaltes. Ifølge ekspertgruppa er det delte
-meninger om innvilgelsen av refusjon bør begrenses til saker som omhandler æresmotivert vold og
-om hvorvidt det bør stilles krav, og i så fall hvilke
-krav, til unge som får innvilget refusjon. Ekspertgruppa anbefaler en avklaring og en bred definisjon av kriteriene for å få innvilget refusjon, der
-det legges vekt på alvorlighetsgraden i saken,
-ikke motivene bak volden og tvangen. Ekspertgruppa stiller også spørsmål om «hvorvidt utenriksstasjonens tilsidesettelse av krav om foreldres
-samtykke i saker om konsulær bistand i forbindelse med utstedelse av nødpass skal danne
-grunnlag for tilsvarende vurdering i sak om refusjon av reiseutgifter, eller om Bufdir skal gjøre sin
-egen vurdering».12
-Bufdir har overfor utvalget påpekt at det er
-behov for å avklare om utgiftsdekning av reiseutgifter er å anse som et vedtak etter forvaltningsloven, og stiller spørsmål ved hvordan barnets og
-foreldrenes rettssikkerhet, herunder kontradiksjon og klageadgang, kan ivaretas.
-Bufdir trekker fram at det kan være problematisk at norske myndigheter dekker kostnader for
-hjemreise til et barn uten samtykke fra foreldre
-med foreldreansvar og uten at det foreligger et
-tvangstiltak fra Norge som anerkjennes og fullbyrdes etter internasjonale konvensjoner. Foreldrene
-kan i ytterste konsekvens anføre at norske
-myndigheter har bortført deres barn fra utlandet
-til Norge. Det påpekes at det derfor kan være problematisk at en slik ordning kun er regulert i
-rundskriv.
-Spesialutsendingene for integreringssaker
-har gitt innspill om at størrelsen på midlene som
-er avsatt til refusjonsordningen kan sette begrensninger på den konsulære bistanden som gis i den
-konkrete saken, og ønsker at avsatte midler tar
-11
-
-Ekspertgruppa om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 2.5.
-12
-Ibid.
-
-[Side 368]
-
-366
-
-Kapittel 29
-
-NOU 2024: 13
-Lov og frihet
-
-høyde for antall saker som spesialutsendingene
-arbeider med hvert år. Videre blir det vist til at
-reiseutgiftenes størrelse avhenger av hvilket land
-de utsatte oppholder seg i, og at det er store variasjoner i reiseutgiftenes størrelse fra sak til sak.
-Bufdir har gitt utvalget innspill om at de
-avsatte midlene oppjusteres ved behov slik at
-ingen søknad blir avslått fordi det ikke er midler
-igjen som er avsatt til refusjonsordningen.
-Utvalget har videre mottatt en rekke innspill
-som gir grunn til å tro at refusjonsordningen ikke
-er godt kjent i hjelpeapparatet, og at ordningen
-bør gis mer formaliserte rammer. Innspillgiverne
-har reist spørsmål om hvordan de utsattes rettssikkerhet kan ivaretas i forbindelse med avgjørelser om refusjon, særlig i saker som involverer
-mindreårige. Det pekes på at også foreldrenes
-rettssikkerhet må ivaretas.
-
-29.4 Utvalgets vurderinger
-og anbefalinger
-29.4.1 Hva slags saksbehandlingsregler
-gjelder for refusjonsordningen?
-Utvalget er enig med Bufdir i at det er relevant å
-avklare om dekning av utgifter til hjemreise etter
-refusjonsordningen er et vedtak etter forvaltningsloven, da spørsmålet har betydning for
-hvilke saksbehandlingsregler som kommer til
-anvendelse. Refusjonsordning er av stor betydning for enkeltpersoner som er utsatt for ufrivillige utenlandsopphold, og kan ha avgjørende
-betydning for deres mulighet til å returnere til
-Norge.
-For at en beslutning om refusjon skal regnes
-som et vedtak, må det være en avgjørelse som
-treffes under «utøving av offentlig myndighet» og
-som generelt eller konkret er «bestemmende» for
-«rettigheter eller plikter» til «private personer»,
-som kan være enkeltpersoner eller andre private
-rettssubjekter, jf. forvaltningslovens § 2 første
-ledd bokstav a. Vedtaket regnes som forskrift hvis
-det retter seg mot «et ubestemt antall eller en ubestemt krets av personer», jf. bestemmelsens første
-ledd bokstav c, og et enkeltvedtak hvis det gjelder
-rettigheter eller plikter til en eller flere bestemte
-personer, jf. bestemmelsens første ledd bokstav b.
-Slik ordningen med dekning av reiseutgifter er
-beskrevet i rundskriv F-2018-02, er det uklart om
-den er et tilskudd som retter seg mot privatpersoner eller en refusjon av utenriksstasjonens utgifter
-for konsulær bistand til utsatte for negativ sosial
-kontroll, tvangsekteskap og kjønnslemlestelse.
-
-Dette bør etter utvalgets vurdering klargjøres.
-Refusjonsordningens art, nemlig å dekke utgifter
-som den utsatte ikke har råd til å dekke selv, trekker i retning av at det er den utsatte selv som er
-mottakeren. Det er imidlertid ikke den enkelte
-utsatte som mottar refusjonen, men utenriksstasjonen som har dekket den utsattes reiseutgifter.
-Dersom utenriksstasjonen uansett vil dekke reiseutgiftene til den utsatte, taler dette for at refusjonsordningen er ment å finansiere utenriksstasjonens
-utgifter. Så langt utvalget er kjent med, er refusjon
-av utgifter i utgangspunktet en forutsetning for at
-utenriksstasjonen dekker reiseutgiftene til den
-utsatte.
-Utvalget mener videre at det er uklart hva
-grunnlaget for ordningen er. Ordningen er ikke
-forankret i lov eller forskrift, og framstår heller
-ikke å være forankret i statsbudsjettsvedtaket.
-Ordningen finansieres gjennom midlene som
-årlig tildeles Bufdir i budsjettvedtaket som en del
-av Bufdirs ordinære driftsbudsjett uten at den er
-spesifisert i en egen utgiftspost. Bufdir opplyser at
-ingen søknader avslås fordi det ikke er midler
-igjen.
-Tilskuddsbevilgninger som bevilges over
-statsbudsjettet skal i utgangspunktet bevilges
-over postene 60 til 85, se bestemmelsene om økonomistyring i staten punkt 6.1. Situasjonen her
-synes å være en helt annen, ved at midlene kommer fra Bufdirs ordinære budsjett og ikke er
-omtalt særskilt i verken budsjettvedtaket eller i tildelingsbrev til Bufdir.
-Et annet spørsmål er om refusjon tildeles etter
-en fast ordning, og dermed regnes som et enkeltvedtak. Hvorvidt refusjonsordningen kan sies å
-være en etablert og fast ordning, er vanskelig å si.
-I Lovavdelingens uttalelse 17. desember 2002 i
-sak 2002/06618 E, som gjaldt hvorvidt økonomisk
-hjelp til personer i statlig mottak (pengereglementet) er en forskrift og om avgjørelser etter reglementet er enkeltvedtak framgår følgende:
-[D]ersom støtten er regulert i eller forankret i
-lov eller forskrift, vil det skape et preg av offentlig myndighetsøving som gjør at avgjørelsen –
-iallfall som den store hovedregel, og muligens
-helt uten unntak – regnes som enkeltvedtak.
-Også hvis støtten på annen måte har karakter
-av en fast ordning, vil avgjørelser om å tildele
-eller avslå støtte som utgangspunkt være
-enkeltvedtak. Det vil trekke i retning av at det
-foreligger en slik fast ordning om det er gjort
-kjent retningslinjer for tildeling eller for søknadsbehandlingen, eller støtten blir utlyst med
-oppfordring til å fremme søknad.
-
-[Side 369]
-
-NOU 2024: 13
-Lov og frihet
-
-367
-
-Kapittel 29
-
-Refusjonsordning er i dag regulert i et rundskriv,
-med nokså klare kriterier for hvem som er omfattet av ordningen.13 Slik rundskrivet er formulert
-hører en avgjørelse om refusjon inn under forvaltningens skjønn. En avgjørelse må etter utvalgets
-vurdering likevel anses å være «bestemmende»
-for den enkeltes rettigheter. Rundskrivet fastsetter vilkårene for ordningen, og etter Bufdirs innspill gis alle som oppfyller vilkårene refusjon, forutsatt at utenriksstasjonen har fremmet en søknad
-på vegne av den utsatte. Ordningen innebærer å
-tildele et gode dersom forutsetningene for tildelingen er oppfylt.
-Det kan riktignok argumenteres for at refusjonsordning er et supplement til den konsulære bistanden. Kvalifikasjonsvilkår for å være omfattet av ordningen bidrar i så fall til å sikre likebehandling og til
-å styre forvaltningens skjønnsutøvelse. Videre kan
-det argumenteres for at rundskrivets angivelse av
-hvilke saker ordningen gjelder for, er et uttrykk for
-politiske prioriteringer. I så fall er avgjørelser om
-refusjon ikke å regne som en rettighet.
-Selv om det er usikkerhet om hva slags ordning refusjonsordningen er ment å være, mener
-utvalget at det er nærliggende å legge til grunn at
-ordningen retter seg mot privatpersoner og etablerer rettigheter. En avgjørelse om refusjon må i
-så fall anses som et enkeltvedtak som må følge de
-krav til saksbehandling som følger av forvaltningsloven, herunder retten til å klage på avgjørelsen.
-
-foreldres samtykke. Utvalget mener at barn som
-er etterlatt i utlandet uten en forelder med foreldreansvar bør få dekket reiseutgifter for å gjenopprette normalsituasjonen i Norge, se tilsvarende i kapittel 28 om utstedelse av pass og reisedokumenter.
-I saker der det foreligger «akutt fare for barnets liv og helse», kan utenriksstasjonen gi
-bistand uten foreldrenes samtykke og uten hensyn til foreldreansvar. Dette gjelder også når det
-utstedes pass etter passloven § 4 tredje ledd som
-åpner for at det «i særlige tilfeller» kan utstedes
-pass til mindreårige uten hensyn til foreldreansvar dersom det er «fare for [barnets] liv eller
-helse», eller når passutstedelse «av andre grunner
-er åpenbart ubetenkelig», se kapittel 28 om utstedelse av pass og reisedokumenter. Etter utvalgets
-syn bør reguleringen av refusjonsordningen samsvare med reglene om utstedelse av pass og reisedokumenter. Den praktiske bistanden i forbindelse med reisen må skje innenfor rammene av
-vertslandets lovverk og som regel i samarbeid
-med lokale myndigheter.
-Å tildele pengeytelser til personer over 18 år,
-trenger ikke forankring i lov eller forskrift. Avgjørelsen kan like fullt være av en slik art at det er å
-regne som et enkeltvedtak som må følge saksbehandlingsreglene for dette. Utvalget har ikke hatt
-tid til å ta stilling til om hele refusjonsordningen
-bør lov- og forskriftsreguleres, men anbefaler at
-dette vurderes.
-
-29.4.2 Refusjon i saker som gjelder barn
-Rundskriv F-2018-02 om dekning av reiseutgifter
-til hjemreise til Norge ved negativ sosial kontroll,
-tvangsekteskap og kjønnslemlestelse regulerer
-refusjon til medfølgende barn. Bufdir opplyser at
-det unntaksvis er gitt refusjon til barn som returneres uten en forelder med foreldreansvar. Det er
-ikke klart for utvalget på hvilket grunnlag dette er
-gitt, men trolig er det lagt til grunn nødrettsbetraktninger og vurdert at det er fare for liv og
-helse for barnet.
-Utvalget legger til grunn at dekning av utgifter
-til hjemreise etter refusjonsordningen til barn kan
-innebære et inngrep i foreldreansvaret når det
-innvilges mot foreldrenes vilje. Refusjon av reiseutgifter til barn uten samtykke fra foreldre med
-foreldreansvar, må derfor etter utvalgets vurdering forankres gjennom lov.
-Lov- og forskriftsregulering bør inkludere
-klare vilkår for når refusjon kan gis til barn uten
-
-29.4.3 Betydningen av utenrikstjenestens
-vurdering i saker om barn
-Etter ordlyden i rundskriv F-2018-02 skal den
-enkelte utenriksstasjon på vegne av den eller de
-utsatte søke om refusjon etter ordningen. I søknaden skal det gis «[i]nformasjon som sannsynliggjør at personen(e) det gjeler har blitt eller står i
-fare for å bli utsatt for negativ sosial kontroll,
-tvangsekteskap eller kjønnslemlestelse». I slike
-saker vil det ofte foreligge grundige vurderinger
-og overveielser fra utenriksstasjonen, noe som
-taler for at Bufdir bør legge utenriksstasjonens
-vurdering til grunn av faktum i behandling av
-refusjonssøknaden. Utvalget forstår det likevel
-slik at det er Bufdir som formelt sett har kompetansen til å avgjøre om reiseutgifter skal dekkes
-etter rundskrivet. Gitt at det kan oppstå uheldige
-situasjoner dersom utenriksstasjonen og Bufdir er
-uenig i faktum eller vurderingene av om en situasjon bør utløse refusjon, bør det utarbeides et
-regelverk som sikrer en felles forståelse.
-
-13
-
-F-2018-02 under «Målgruppe for refusjonsordningen».
-
-[Side 370]
-
-368
-
-Kapittel 29
-
-NOU 2024: 13
-Lov og frihet
-
-De samme grunnene som utvalget peker på
-over begrunner hvorfor ordningen bør forvaltes
-av Bufdir, og ikke av Utenriksdepartementet selv.
-Utvalget anbefaler derfor ingen endringer i gjeldende ordning.
-
-29.4.4 Behov for ytterligere regulering
-Ifølge rundskrivet om dekning av utgifter til hjemreise omfattes personer som er utsatt for negativ
-sosial kontroll av ordningen. Hva som utgjør nega-
-
-tiv sosial kontroll er ikke nærmere definert i rundskrivet. Som omtalt i kapittel 3 er begrepet negativ
-sosial kontroll uklart og vanskelig å definere presist. En nærmere regulering av ordningen bør
-angi tydelig om all form for negativ sosial kontroll
-etter søknad utløser dekning av reiseutgifter, eller
-om det skal forbeholdes de mer alvorlige formene
-for negativ sosial kontroll.
-Videre bør det vurderes om barn og unge
-utsatt for ufrivillig utenlandsopphold skal omfattes
-av ordningen.
-
-[Side 371]
-
-NOU 2024: 13
-Lov og frihet
-
-369
-
-Kapittel 30
-
-Kapittel 30
-
-Oppholdstillatelse for personer som er holdt tilbake i utlandet
-mot sin vilje
-30.1 Innledning
-I dette kapittelet gjennomgår utvalget regelverket
-for oppholdstillatelser til utsatte for ufrivillig utenlandsopphold. Det vises til at utvalget er bedt om å
-utrede «de samlede juridiske problemstillingene i
-saker om negativ sosial kontroll, æresrelatert
-vold, tvangsekteskap, kjønnslemlestelse og psykisk vold», herunder særlig vurdere «[s]tyrking
-av rettsvernet for barn og unge som er ufrivillig
-etterlatt i utlandet».
-Etter utlendingsloven kan en midlertidig oppholdstillatelse tilbakekalles eller nektes fornyet
-ved utenlandsopphold utover en viss periode. Permanent oppholdstillatelse kan også bortfalle ved
-utenlandsopphold utover to år. Barn og voksne
-som holdes tilbake i utlandet mot sin vilje og som
-ikke lenger har gyldig tillatelse, må dermed
-fremme ny søknad om oppholdstillatelse. Uten en
-gyldig oppholdstillatelse, har de utsatte ikke
-mulighet til å returnere til Norge.
-Det er flere måter en utlending kan bli holdt
-tilbake i utlandet mot sin vilje. Et eksempel er at
-partene er på ferie i utlendingens hjemland, og
-oppholdstillatelsen løper ut mens de er der. Utledningen kan for eksempel bli lurt til å tro at hen må
-til hjemlandet for å ordne papirer til en søknad om
-fornyet eller permanent oppholdstillatelse. Hjelpeapparatet ser eksempler på at referansepersonen i stedet «dumper» den utenlandske ektefellen
-i hjemlandet, og selv returnerer til Norge.1 Tilbakeholdelsen i hjemlandet kan for eksempel være
-realiseringen av ektefellens trusler om hjemsendelse som er benyttet som ledd i mishandlingen.
-Barn og unge kan også bli holdt tilbake i utlandet
-for å gjenopprette eller bevare familiens ære, de
-kan bli tvangsgiftet eller plassert på institusjon.
-Dersom dette er et resultat av at utlendingen har
-levd i et regime med fysisk eller psykisk mishandling, kan det etter gjeldende rett gis oppholdstilla1
-
-telse etter utlendingsforskriften § 8-9 eller gjøres
-unntak fra bortfall av permanent oppholdstillatelse etter forskriftens § 11-8.
-I henhold til tiltak 22 i handlingsplanen mot
-negativ sosial kontroll har Justis- og beredskapsdepartementet vurdert om det er behov for
-endringer i utlendingsregelverket slik at barn og
-voksne som holdes tilbake i utlandet mot sin vilje
-ikke risikerer å miste oppholdstillatelsen.2 Departementet har konkludert med at det ikke er behov
-for regelverksendringer:
-Justis- og beredskapsdepartementet (JD) har
-vurdert at det per i dag ikke er behov for
-endringer i regelverket om bortfall av oppholdstillatelse i saker med ufrivillig utenlandsopphold. Departementet har innhentet informasjon om UDIs praksis i slike saker, og tilbakemeldingen tilsier at dagens regelverk gir tilstrekkelig hjemmel til å løse saker der det er
-konstatert ufrivillig utenlandsopphold.
-Etter departementets vurdering vil en egen
-unntaksbestemmelse også kunne signalisere
-at ufrivillige utenlandsopphold ikke får noen
-konsekvenser. Dette kan igjen føre til at flere
-foreldre sender sine barn til utlandet. JD vil
-vurdere om det på sikt bør gis nærmere retningslinjer til UDI som klargjør mulighetene i
-dagens regelverk knyttet til disse sakene.3
-Til tross for at departementet nylig har vurdert
-behovet for regelverksendringer, mener utvalget
-at det er nødvendig å gi en egen framstilling av
-regelverket for oppholdstillatelse til utsatte for
-ufrivillig utenlandsopphold med en påfølgende
-vurdering av behovet for regelverksendringer. Et
-sikkert oppholdsgrunnlag er etter utvalgets vurdering avgjørende for den utsattes rettsvern.4
-2
-3
-
-Se f.eks. Lidén mfl. 2024a; Lidén mfl. 2024b.
-
-Regjeringens handlingsplan «Frihet fra negativ sosial kontroll og æresrelatert vold» (2021–2024).
-Status for tiltak per 31.12.2022 «Frihet fra negativ sosial
-kontroll og æresrelatert vold» (2021–2024) tiltak 22.
-
-[Side 372]
-
-370
-
-Kapittel 30
-
-NOU 2024: 13
-Lov og frihet
-
-En utlending som ville hatt rett til oppholdstillatelse etter lovens § 53 første ledd bokstav b dersom vedkommende hadde oppholdt
-seg i riket, kan få oppholdstillatelse etter lovens
-§ 38 dersom utlendingen har reist ut av riket og
-mot sin vilje ikke får reise tilbake hit.
-
-30.2 Gjeldende rett
-30.2.1 Vilkår om faktisk opphold i Norge
-En utlending som har en midlertidig oppholdstillatelse, må oppfylle vilkårene for sin tillatelse for den
-tiden tillatelsen gjelder. Et hovedvilkår for den
-midlertidige tillatelsen er at utlendingen, i løpet av
-tillatelsens varighet, må oppholde seg i Norge
-mer enn tiden hen oppholder seg i utlandet, jf.
-utlendingsloven § 60 femte ledd og utlendingsforskriften § 10-19 a. Dette kalles vilkåret om faktisk
-opphold i Norge og gjelder for de aller fleste oppholdstillatelsene som gis etter utlendingsloven.
-For utlendinger som er i Norge på grunnlag av
-familieinnvandring, er det i tillegg et vilkår for tillatelsen at referansepersonen samtykker til tillatelsen og at utlendingen bor sammen med referanseperson.5 Det finnes enkelte unntak fra kravet om faktisk opphold i Norge etter utlendingsforskriften § 10-19a som utvalget ikke går nærmere inn i, da de ikke er relevante for
-problematikken.
-Brudd på vilkåret om faktisk opphold i Norge
-fører som regel til at oppholdstillatelsen løper ut
-og ikke blir fornyet, jf. utlendingsloven § 61 første
-ledd. Det kan også føre til at oppholdstillatelsen
-tilbakekalles etter lovens § 63. I Utlendingsdirektoratets rundskriv er det presisert at tillatelsen
-ikke tilbakekalles dersom utenlandsoppholdet
-skyldes forhold «utenfor utlendingens kontroll»,
-eksempelvis ved akutte sykehusopphold.6 Unntaket omfatter ikke ufrivillige utenlandsopphold
-ettersom disse behandles som søknad om oppholdstillatelse på nytt grunnlag etter utlendingsforskriften § 8-9.
-30.2.2 Oppholdstillatelse på nytt grunnlag
-ved ufrivillige utenlandsopphold
-Etter utlendingsforskriften § 8-9 kan det gis en
-oppholdstillatelse etter utlendingsloven § 38 (oppholdstillatelse på grunn av sterke menneskelige
-hensyn eller særlig tilknytning til riket) til personer som mister oppholdstillatelsen i Norge som
-følge av et ufrivillig utenlandsopphold. Bestemmelsen lyder:
-§ 8-9 Oppholdstillatelse til utlendinger som har
-blitt holdt tilbake i utlandet mot sin vilje
-4
-5
-6
-
-Vilkårene etter utlendingsforskriften § 8-9 er
-kumulative. Søkeren må både oppfylle vilkårene
-etter mishandlingsbestemmelsen i utlendingsloven § 53 første ledd bokstav b og være holdt tilbake i utlandet mot sin vilje.7 Det kreves at:
-– Søkeren har oppholdstillatelse som ektefelle
-eller samboer
-– referansepersonen er norsk eller nordisk borger eller en utlending som har oppholdstillatelse som kan danne grunnlag for permanent
-oppholdstillatelse,
-– samlivet er opphørt, og
-– det er grunn til å anta at søkeren eller eventuelle barn har blitt mishandlet i samlivet, eller av
-andre medlemmer av samme husstand, eller av
-svigerfamilie.
-Det er opp til utlendingsmyndighetenes vurdering
-om tillatelse skal gis, jf. bestemmelsens ordlyd
-«kan». Ifølge Utlendingsdirektoratets rundskriv
-UDI 2010-009 er det et krav om at det er referansepersonen som har brutt samlivet. Videre må den
-utsatte søke om ny tillatelse så snart vedkommende ble klar over situasjonen, og så snart det var
-praktisk mulig å kontakte norske myndigheter.8
-Ifølge rundskrivet kommer bestemmelsen typisk til
-anvendelse når «mannen ‘sender’ kvinnen til hjemlandet og oppgir at formålet skal være et familiebesøk» og «[m]ens kvinnen er i utlandet, utløper
-hennes tillatelse, og ektefellen i Norge bryter kontakt med henne eller oppgir at han vil skilles».9 Det
-stilles ikke krav om at søkeren er holdt tilbake med
-fysisk tvang. Søkeren kan eksempelvis ha blitt lurt,
-presset eller fratatt sitt pass.
-Ny oppholdstillatelse etter utlendingsforskriften § 8-9 gjelder ikke for:
-– barn som har blitt holdt tilbake i utlandet mot
-sin vilje,
-– personer over 18 år som blir holdt tilbake av
-sine foreldre, eller
-– personer over 18 år som blir holdt tilbake av
-personer som ikke er medlemmer av samme
-husstand og ikke er svigerfamilie.
-7
-
-Se kapittel 2 om utvalgets forståelse av begrepet rettsvern.
-Se kapittel 18.
-Utlendingsdirektoratets rundskriv UDI 2017-12 punkt 2.3.
-
-8
-9
-
-Se kapittel 18 om vilkårene etter lovens § 53 første ledd
-bokstav b.
-Utlendingsdirektoratets rundskriv UDI 2010-009 punkt 4.
-Ibid.
-
-[Side 373]
-
-NOU 2024: 13
-Lov og frihet
-
-Personer som faller utenfor personkretsen etter
-utlendingsforskriften § 8-9 er henvist til å søke om
-en ny førstegangstillatelse på bakgrunn av sterke
-menneskelige hensyn etter utlendingsloven § 38.
-Det finnes også enkelte andre muligheter for å få
-en oppholdstillatelse, for eksempel gjennom
-reglene for familiegjenforening med et norsk
-barn. En utlending som er mor eller far til norsk
-barn under 18 år, og som vedkommende har foreldreansvar for og bor fast sammen med, har rett til
-oppholdstillatelse for å bo sammen med barnet i
-Norge etter utlendingsloven § 44. Bestemmelsen
-kan være særlig aktuell for mødre som er holdt tilbake i utlandet med et norsk barn. En praktisk
-begrensning oppstår dersom det norske barnet
-ikke har samtykke fra den andre forelderen for å
-få utstedt pass for innreise til Norge, med mindre
-saken omfattes av unntakene i passloven § 4
-tredje ledd om «fare for liv og helse» eller «åpenbart ubetenkelig».10
-
-30.2.3 Bortfall av permanent
-oppholdstillatelse og unntak
-En permanent oppholdstillatelse gir rett til å bo i
-Norge uten tidsbegrensninger og gir et utvidet
-vern mot utvisning. Det innebærer at en utlending
-som har en permanent oppholdstillatelse, ikke
-lenger må oppfylle vilkårene for sin opprinnelige
-oppholdstillatelse, herunder kravet om å bo
-sammen med referansepersonen og vilkåret om
-faktisk opphold i Norge. En permanent oppholdstillatelse faller imidlertid bort dersom utlendingen har oppholdt seg utenfor riket sammenhengende i mer enn to år, jf. utlendingsloven § 62
-syvende ledd. Oppholdet utenfor Norge anses å
-være sammenhengende «selv om utlendingen har
-hatt ett eller flere opphold av en viss varighet i
-riket», jf. lovens ordlyd. Vedtak om bortfall treffes
-av Utlendingsdirektoratet. Bestemmelsen er i
-utgangspunktet absolutt, men en utlending kan
-etter søknad gis adgang til å oppholde seg utenfor
-riket i mer enn to år uten at tillatelsen faller bort.
-Videre er det gitt nærmere regler i utlendingsforskriften § 11-8 andre ledd som innebærer at en
-utlending som er holdt tilbake i utlandet mot sin
-vilje på visse vilkår kan beholde sin tillatelse.
-Bestemmelsens andre ledd lyder:
-Selv om utlendingen har oppholdt seg mer enn
-to år i utlandet, kan det gjøres unntak fra regelen om bortfall av permanent oppholdstillatelse
-i lovens § 62 syvende ledd dersom utlendingen
-10
-
-Se kapittel 28 om konsulær bistand.
-
-371
-
-Kapittel 30
-
-har reist ut av riket og mot sin vilje ikke får
-reise tilbake hit, og ville hatt rett til oppholdstillatelse etter lovens § 53 første ledd bokstav b
-dersom vedkommende hadde oppholdt seg i
-Norge.
-
-Bestemmelsen har samme innhold som utlendingsforskriften § 8-9 (om oppholdstillatelse til
-utlendinger som har blitt holdt tilbake i utlandet
-mot sin vilje), og personkretsen som kan omfattes
-er den samme, se foregående punkt.
-
-30.2.4 Særlig om barn og søknad om
-oppholdstillatelse
-En utfordring for barn som er ufrivillig etterlatt i
-utlandet, er at de ikke har rettslig kompetanse til å
-fremme en søknad om oppholdstillatelse. Det følger riktignok av utlendingsforskriften § 10-2, jf.
-utlendingsloven § 56 (om søknad om oppholdstillatelse) at en person over 18 år kan søke på vegne
-av en mindreårig som ikke kan fylle ut og underskrive søknaden selv. En søknad om oppholdstillatelse for en mindreårig må likevel ha samtykke fra
-foreldre med foreldreansvar, jf. vergemålsloven
-§ 9. Se også Utlendingsdirektoratets rundskriv
-UDI 2013-18.11 Som utgangspunkt må det legges
-til grunn et krav om samtykke fra begge foreldre
-med foreldreansvar.
-Utlendingsloven har enkelte bestemmelser
-som innebærer unntak fra kravet til samtykke for
-å innvilge en søknad om oppholdstillatelse. Unntak gjelder for eksempel søknad om familieinnvandring for barn etter utlendingsloven § 42.
-Bestemmelsen krever at en søker som er barn
-under 18 år, må ha samtykke fra begge foreldre
-med foreldreansvar før en søknad om oppholdstillatelse kan innvilges, med mindre dette er umulig
-å innhente, eller særlige grunner tilsier at oppholdstillatelse uansett bør gis, jf. bestemmelsens
-andre ledd tredje punktum. Når det er anledning
-til å innvilge en oppholdstillatelse til et barn uten
-samtykke fra den andre forelderen, må det nødvendigvis også være anledning til å søke om slik
-tillatelse uten samtykke.
-
-30.3 Andre lands rett
-30.3.1 Danmark
-Etter dansk utlendingslov bortfaller både midlertidig og permanent oppholdstillatelse hvis utlendin11
-
-Utlendingsdirektoratets rundskriv UDI 2013-18 punkt 2.2.
-og 3.2.
-
-[Side 374]
-
-372
-
-Kapittel 30
-
-NOU 2024: 13
-Lov og frihet
-
-gen «oppgiver sin bopæl i Danmark», jf. lovens
-§ 17 stk. 1 første punktum.
-En midlertidig oppholdstillatelse bortfaller
-også når utlendingen oppholder seg i utlandet i
-mer enn seks måneder sammenhengende, jf. § 17
-stk. 1 andre punktum. Dersom utlendingen har
-fått oppholdstillatelse som danner grunnlag for
-permanent opphold, og utlendingen har bodd lovlig i Danmark i mer enn to år, bortfaller oppholdstillatelsen først når utlendingen har oppholdt
-seg i utlandet i mer enn 12 måneder sammenhengende, jf. § 17 stk. 1 tredje punktum. Utlendingsmyndighetene kan imidlertid, etter søknad,
-bestemme at oppholdstillatelse ikke skal anses
-bortfalt, jf. § 17 stk. 2.
-Tidligere kunne oppholdstillatelsen for en
-mindreårig bortfalle dersom den mindreårige har
-oppholdt seg i utlandet i mer enn tre måneder
-sammenhengende «på genopdragelsesrejse eller
-andet udlandsophold af negativ betydning for skolegang og integration», jf. tidligere § 17 stk. 2. I
-2022 ble bestemmelsen endret slik at en oppholdstillatelse for en mindreårig som hovedregel
-ikke bortfaller når utlendingen sendes på gjenoppdragelsesreise eller andre utenlandsopphold med
-negativ betydning for den mindreårige. Bakgrunnen for lovendringen var at de utsatte ikke skal
-risikere usikkerhet om sitt oppholdsgrunnlag i
-Danmark eller oppleve å måtte betale for foreldrenes handlinger.12 Utlendingsmyndighetene er
-også gitt hjemmel til å kunne avholde en samtale
-med barnet, uten samtykke fra vergen.
-Etter de nye reglene må det gjøres en konkret
-vurdering av om barnet er sendt på gjenoppdragelsesreise eller på et utenlandsopphold med
-negativ betydning for den enkelte. I så fall bortfaller ikke oppholdstillatelse uavhengig av om
-«bopælen i Danmark må anses for opgivet, eller at
-opholdet i udlandet har varet længere end 6 eller
-12 på hinanden følgende måneder».13 Det er en
-forutsetning for å beholde oppholdstillatelse at
-den utsatte var under 18 år på utreisetidspunktet.
-Det er derimot uten betydning hvis den utsatte
-har fylt 18 år på det tidspunktet utlendingsmyndighetene vurderer om vedkommende har vært
-utsatt for gjenoppdragelsesreise eller annet utenlandsopphold av negativ betydning for vedkommende.
-
-At oppholdet har karakter av gjenoppdragelsesreise eller at det har negativ betydning for den
-enkelte, vurderes konkret. Forarbeidene14 nevner
-for eksempel utenlandsopphold som har negativ
-betydning for den enkeltes skolegang og integrering, ved at jenter i forbindelse med konflikter om
-ære og skam sendes til foreldrenes opprinnelsesland for å inngå ekteskap etter foreldrenes ønske,
-eller hvis barnet sendes til foreldrenes opprinnelsesland for å bli påvirket språklig eller sosialt på
-en måte som er til skade for integrering i Danmark. Forarbeidene nevner også religiøse vigsler
-uten borgerlig lydighet og andre ekteskapslignende forhold som inngås etter foreldrenes
-ønske, og andre utenlandsopphold under forhold
-som kan sette den mindreåriges helse eller utvikling i alvorlig fare.
-I forarbeidene til bestemmelse framgår det at
-det i noen tilfeller kan være omstendigheter som
-gjør at tillatelsen likevel bortfaller, selv om den
-mindreårige ble sendt på en gjenoppdragelsesreise eller på et opphold med negativ betydning
-for den enkelte. Dette gjelder for eksempel for
-utlendinger med kort botid i Danmark. Dersom
-det er tale om en utlending som er født og oppvokst i Danmark, eller som er kommet til Danmark i en tidlig alder og har hatt en sedvanlig oppvekst i Danmark, vil en langvarig gjenoppdragelsesreise eller annet utenlandsopphold av negativ
-betydning på flere år i utgangspunktet ikke medføre bortfall av oppholdstillatelse. Gjelder det derimot en utlending som oppholdte seg i Danmark i
-«ganska få år eller kortere» forut for reisen, vil
-lengden og karakterer av reisen, samt den mindreåriges tilknytning til Danmark, ha større
-betydning i vurderingen av om tillatelsen kan
-anses bortfalt. Vurderingen er med andre ord
-skjønnsmessig, hvor ulike relevante forhold inngår. Vurderingen åpner for at det i noen tilfeller, på
-bakgrunn av utenlandsoppholdets varighet og
-utlendingens tilknytning til Danmark, legges det
-større vekt på foreldrenes rett til å bestemme hvor
-barnet skal bo. I forarbeidene framgår det at:15
-Der vil således være tale om en skønsmæssig
-vurdering, hvor alle relevante forhold vil skulle
-indgå og afvejes over for hinanden. Varigheden
-af udlændingens tidligere ophold og tilknytning til Danmark vil altid skulle indgå i vurderingen.
-I vurderingen vil også skulle inddrages
-praksis fra Den Europæiske Menneskerettig-
-
-12
-
-2021/1 LSF 185 om ændring af udlændingeloven (Ændring
-af reglerne om bortfald af opholdstilladelser ved genopdragelsesrejser m.v. og ændring af reglerne om adgang til familiesammenføring for personer med midlertidig beskyttelsesstatus) (folketingstidende.dk).
-13 2021/1 LSF 185 merknader til nr. 27 side 57.
-
-14
-15
-
-2021/1 LSF 185 merknader til nr. 27 side 57-58.
-Ibid.
+## Gjeldende rett
+
+### Menneskerettslige forpliktelser
+
+EMK artikkel 8 gir enhver rett til respekt for sitt privatliv, familieliv, hjem og korrespondanse. Retten til å utøve familieliv innebærer også en rett for foreldre til å utøve foreldreansvar. Det innebærer blant annet en rett til å bestemme hvor barnet skal bo, også der dette er i utlandet. Foreldrenes rett er imidlertid ikke uten begrensninger og må utøves i tråd med barnets rettigheter, herunder hensynet til barnets beste, barnets medvirkningsrett, barns rett til vern mot alle former for vold, rett til liv og utvikling, rett til helse og tilfredsstillende levestandard og rett til utdanning.
+
+Det er usikkert hvor langt statens plikt til å verne barn mot ufrivillig utenlandsopphold strekker. Barnets rett til medbestemmelse og selvbestemmelse må veies opp mot foreldrenes rett til å utøve foreldreansvar. Det er ingen menneskerettigheter som *uttrykkelig* pålegger staten konkrete forpliktelser til å motvirke at foreldre tar barnet med til eller etterlater det i utlandet mot sin vilje. Uavhengig av om reisen i utgangspunktet var frivillig, kan imidlertid barn som tas med til utlandet eller etterlates der i enkelte tilfeller risikere krenkelser av sine rettigheter etter blant annet EMK artikkel 8 (retten til respekt for familieliv og privatliv), barnekonvensjonen artikkel 19 (frihet fra alle former for vold), artikkel 24 (høyeste oppnåelig helsestandard) og artikkel 28 og 29 (retten til utdanning). Staten har en plikt til å sikre at barn ikke utsettes for utenlandsopphold som kan innebærer en alvorlig fare barnets liv og helse eller der barnet risikerer å bli utsatt for vold, tvangsekteskap, kjønnslemlestelse eller andre alvorlige krenkelser av barnets autonomi.
+
+Flere menneskerettigheter kan legge begrensninger på hvilke tiltak som kan settes i verk mot foreldres rett til å ta med seg eller sende et barn til utlandet. Grunnloven § 102 og EMK artikkel 8 gir enhver rett til *respekt for sitt privatliv og familieliv*. Retten til å utøve familieliv innebærer blant annet en rett for foreldre til å utøve foreldreansvar, og innebærer som nevnt en rett til å bestemme hvor barnet skal bo. Barnets beste forutsettes imidlertid ivaretatt som ledd i utøvelsen av foreldreansvaret, jf. blant annet barnekonvensjonen artikkel 18 nr. 1. Statens myndigheter har ansvar for å forebygge vold og overgrep mot barn og for å treffe alle nødvendige tiltak for å sikre at foreldre og andre omsorgspersoner vil respektere og beskytte barns rettigheter.
+
+Når et barn risikerer å bli sendt på et ufrivillig utenlandsopphold, kan statens forpliktelse til å beskytte barnet komme i et spenningsforhold med foreldrenes rett til respekt for privatliv og familieliv, jf. Grunnloven § 102 og EMK artikkel 8. Et klart utgangspunkt er at statens myndigheter ikke kan forholde seg passivt til barnets egne rettigheter, herunder hensynet til barnets beste og barnets selvstendige rett til respekt for privatliv og familieliv. En uttalelse i EMDs dom *Osman mot Danmark* illustrerer dette. Saken gjaldt danske myndigheters nektelse av å fornye oppholdstillatelsen for et barn som mot sin vilje var sendt til utlandet i to år for å pleie sin bestemor.[^1396] EMD uttalte følgende:
+
+\[…\] the applicant’s view that her father’s decision to send her to Kenya for so long had been against her will and not in her best interest, was disregarded by the authorities with reference to the fact that her parents had custody of her at the relevant time. The Court agrees that the exercise of parental rights constitutes a fundamental element of family life, and that the care and upbringing of children normally and necessarily require that the parents decide where the child must reside and also impose, or authorise others to impose, various restrictions on the child’s liberty \[…\]. Nevertheless, in respecting parental rights, the authorities cannot ignore the child’s interest including its own right to respect for private and family life.[^1397]
+
+Selv om foreldreansvaret gir foreldrene rett til å bestemme hvor barnet skal bo, kan staten ikke ignorere hensynet til barnets beste og barnets rett til privatliv og familieliv. Også andre av barns menneskerettigheter i Grunnloven og barnekonvensjonen er i denne sammenheng relevante, slik som retten til vern mot fysisk og psykisk vold, rett til utvikling, helse, en tilfredsstillende levestandard og utdanning.[^1398]
+
+*Den alminnelige bevegelsesfriheten* etter Grunnloven § 106 første ledd og *retten til å forlate riket* er sentrale menneskerettigheter som også er av betydning for vurderingen av hvilke tiltak som kan innføres for å forhindre at barn utsettes for skadelige utenlandsreiser. Grunnloven § 106 andre ledd første punktum lyder:
+
+Ingen kan nektes å forlate riket med mindre det er nødvendig av hensyn til en effektiv rettsforfølgelse eller for avtjening av verneplikt.
+
+Retten til å forlate riket gjelder for alle, også barn, og er uavhengig av statsborgerskap og oppholdsstatus. Rettigheten kan være begrenset av praktiske eller faktiske forhold uten at det nødvendigvis innebærer et inngrep. Lovgivningen kan for eksempel forby den enkelte å ta med seg andre personer, penger eller gjenstander ut av landet. Slike rettslige begrensninger berører ikke den enkeltes selvstendige rett til å forlate landet.[^1399] At foreldre eller andre nektes å ta med seg et barn ut av landet, vil imidlertid kunne være et inngrep i *barnets* rett til å forlate riket. Videre vil et slikt forbud kunne utgjøre et inngrep i foreldrenes rett til respekt for privatliv og familieliv.
+
+Grunnloven § 106 andre ledd første punktum åpner for å gjøre unntak fra retten til å reise ut av landet dersom det er nødvendig av hensyn til en effektiv rettsforfølgelse eller avtjening av verneplikt. Ordlyden tilsier at bestemmelsen er uttømmende. Av Innst. 165 S (2015–2016) framgår det imidlertid at Grunnlovens rettighetsbestemmelser ikke kan leses uten begrensninger.[^1400] Innstillingen problematiserer ikke spørsmålet om grunnlovsbestemmelser som direkte angir hvilke formål som begrunner begrensninger, også kan suppleres med en generell begrensningsmulighet.
+
+I nyere juridisk teori er det antatt at det ikke kan innfortolkes en generell begrensningsadgang i § 106 andre ledd første punktum, siden denne bestemmelsen selv angir begrensninger i retten til å forlate riket.[^1401] Dersom denne tolkingen legges til grunn, kan retten til å forlate riket etter Grunnloven § 106 bare begrenses av hensyn til effektiv rettsforfølgelse eller avtjening av verneplikt og ikke av andre grunner, som for eksempel det å beskytte barn mot skadelige utenlandsopphold. En slik tolking er uheldig og kan komme i strid mot barns rett til beskyttelse. Utvalget legger til grunn at Grunnloven § 106 må tolkes i lys av de parallelle bestemmelsene i EMK, slik at det gjelder en generell begrensningsmulighet også etter Grunnloven § 106 andre ledd første punktum.
+
+Det er etter utvalgets kunnskap ikke avsagt noen domsavgjørelse om adgangen til å gripe inn i retten til å forlate riket etter Grunnloven § 106 andre ledd første punktum. Høyesterett har generelt lagt til grunn at det gjelder en alminnelig forholdsmessighetsbegrensing for lovhjemlede og saklig begrunnede inngrep i rettighetene og frihetene fastsatt i Grunnloven, jf. blant annet Rt. 2014 s. 1105.[^1402] Utvalget legger til grunn at en tilsvarende begrensning kan tolkes inn i § 106 andre ledd første punktum ettersom bestemmelsen skal tolkes i lys av tilsvarende bestemmelser i EMK og FNs konvensjon om sivile og politiske rettigheter (SP), som åpner for å gjøre unntak fra retten til å forlate et land på nærmere bestemte vilkår. En slik tolking har vært lagt til grunn blant annet i Prop. 35 L (2016–2017).[^1403]
+
+I EMK er retten til å forlate et land nedfelt i tilleggsprotokoll nr. 4 artikkel 2.[^1404] Protokollen er gjort til norsk rett gjennom menneskerettsloven. Slik lyder de relevante delene av artikkelen:
+
+2\. Everyone shall be free to leave any country, including his own.
+
+3\. No restrictions shall be placed on the exercise of these rights other than such as are in accordance with law and are necessary in a democratic society in the interests of national security or public safety, for the maintenance of ordre public, for the prevention of crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
+
+SP artikkel 12 nr. 2 og 3 inneholder tilsvarende bestemmelser om retten til å forlate et land. Ordlyden i både tilleggsprotokoll nr. 4 artikkel 2 og SP artikkel 12 åpner for å gjøre saklige og forholdsmessige unntak fra retten til å forlate et land for nærmere angitte formål dersom det er i samsvar med loven og nødvendig i et demokratisk samfunn. Etter disse artiklene vil det derfor være mulig å begrense barnets rett til å forlate riket for å beskytte det mot skadelige utenlandsopphold, så lenge tiltaket er lovhjemlet og forholdsmessig.
+
+Den europeiske menneskerettighetsdomstolen (EMD) har ikke tatt direkte stilling til hvor høy risikoen for de angitte negative konsekvensene må være. Etter EMDs praksis må det foreligge «clear indications of a genuine public interest which outweigh the individual’s right to freedom of movement», og restriksjonene «must be based on concrete elements which are truly indicative of the continued existence of the risk that such measures seek to forestall», se *Nalbantski mot Bulgaria*[^1405] og *Hajibeyli mot Aserbajdsjan*.[^1406] Ut fra EMDs praksis kan det neppe utledes et krav om sannsynlighetsovervekt for at en risiko, for eksempel at et utenlandsopphold vil medføre skade, vil inntre.
+
+I tillegg må inngrepets forholdsmessighet vurderes, og inngrepet må begrunnes tilstrekkelig, jf. *Nalbantski mot Bulgaria*.[^1407] Eventuelle restriksjoner i retten til å forlate et land må være begrunnet og forholdsmessige så lenge de varer. EMD har i flere saker uttalt at selv om restriksjonene opprinnelig var tillatt, kan det være et uforholdsmessig tiltak å opprettholde dem over lengre tid uten jevnlig revurdering, jf. *Makedonski mot Bulgaria*[^1408] med videre henvisninger.
+
+I *Bessenyei mot Ungarn*[^1409] varte et utreiseforbud i forbindelse med en straffesak i to år, og det ble ikke gjort noen revurdering før utreiseforbudet ble avsluttet som følge av en lovendring. EMD mente at dette var en krenkelse av tilleggsprotokoll nr. 4 artikkel 2. Restriksjoner i bevegelsesfriheten bør derfor revurderes oftere enn annethvert år, og det må gjøres en reell vurdering av inngrepets begrunnelse og forholdsmessighet, jf. *Riener mot Bulgaria*.[^1410] EMD har videre uttalt at vurderingen av inngrepets begrunnelse og forholdsmessighet normalt må kunne prøves av domstolene, som må kunne prøve alle sider av saken, se blant annet *Nalbantski mot Bulgaria*.[^1411]
+
+EMD har i liten grad tatt stilling til barns selvstendige rett til å forlate et land, men har lagt til grunn at barn har en selvstendig rett til bevegelsesfrihet, jf. blant annet *Diamante og Pelliccioni mot San Marino*.[^1412] EMDs avgjørelser om barns rett til bevegelsesfrihet har primært handlet om uenighet mellom foreldre om foreldreansvar og reiser med barnet,[^1413] barnebortføring[^1414] og utstedelse av reisedokumenter.[^1415]
+
+Også barnekonvensjonen artikkel 10 inneholder regler om barnets rett til å forlate et land, men da med formål om å sikre retten til familieliv. Bestemmelsen verner særlig barn og foreldres rett til å forlate et land, også sitt eget, for å sikre barnets rett til regelmessig kontakt med sine foreldre dersom de bor i forskjellige land. Bestemmelsen har liten selvstendig betydning for spørsmålet om utreise ved siden av rettighetene nedfelt i EMK tilleggsprotokoll nr. 4 artikkel 2 og SP artikkel 12.[^1416]
+
+Dersom Grunnloven § 106 andre ledd første punktum skulle tolkes uttømmende og uten begrensning, ville det innebære at en rekke hjemler i lovgivningen som begrenser mulighetene til å reise ut av riket, som blant annet flere av hjemlene for å nekte pass etter passloven, vil være grunnlovsstridige. Dette har neppe vært hensikten med å grunnlovfeste retten til å forlate riket.
+
+### Barnelova § 41 om utreiseforbud
+
+Foreldre som har felles foreldreansvar, må begge samtykke til at barnet skal flytte ut av landet, med mindre reisen gjelder «stuttare utanlandsferder», jf. barnelova § 40 andre ledd første punktum. Tilsvarende gjelder når et avtalt utenlandsopphold blir forlenget, jf. andre ledd andre punktum.
+
+Ved uenighet kan domstolen ilegge utreiseforbud dersom det er usikkert om barnet vil komme tilbake til Norge, jf. barnelova § 41 første ledd andre punktum. Avgjørelsen skal ta hensyn til hva som er til barnets beste, jf. barnelova § 48 og FNs barnekonvensjon artikkel 3. Forarbeidene angir ikke nærmere hva som skal til for at det er usikkert om barnet kommer tilbake, men viser til at domstolene bør kunne nekte en forelder å ta med barnet ut av landet dersom «en av foreldrene mener det er fare for kidnapping».[^1417] I LB-2019-2156 er det lagt til grunn at det ikke stilles krav om sannsynlighetsovervekt, men at det må foreligge objektive holdepunkter for at barnet ikke vil returnere. Momenter ved avgjørelsen vil blant annet være forelderens tilknytning til Norge, botid i Norge, norskkunnskaper, bo- og jobbforhold og konfliktnivået mellom partene:
+
+For at utreiseforbud skal nedlegges, kreves det ikke sannsynlighetsovervekt for at barnet ikke vil komme tilbake til Norge dersom utenlandstur gjennomføres, men det er heller ikke tilstrekkelig at den andre parten hevder at det er usikkert om barnet kommer tilbake. For at utreiseforbud kan gis, må det foreligge objektive holdepunkter for at barnet ikke vil returnere. Sentrale momenter ved avgjørelsen vil være vedkommende forelders tilknytning til Norge, herunder botid i Norge, norskkunnskaper, bo- og jobbforhold og konfliktnivået mellom partene \[…\]. De konkrete reiseplanene og partenes uttalelser og opptreden for øvrig kan også være momenter i vurderingen, sml. LB-2008-56024. Når det vurderes om usikkerheten er stor nok til å berettige et utreiseforbud, må man også ta i betraktning om reisen går til en stat som Norge ikke har utleveringsavtale med, sml. LH-2015-156011. I vurderingen kan det videre spille en rolle om vedkommende kan ha et motiv for å bli værende på reisemålet eller la barnet bli igjen der. I tvilstilfelle kan det også være aktuelt å ta hensyn til hva reisen kan gi barnet.[^1418]
+
+Hvis saken haster så mye at retten ikke får anledning til å vurdere saken, kan politiet nedlegge midlertidig utreiseforbud etter barnelova § 41 tredje ledd. Politiets utreiseforbud gjelder bare fram til domstolen avgjør saken. Ifølge departementet kan bestemmelsen komme til anvendelse for eksempel dersom utreisen skjer i en helg, og den av foreldrene som ønsker utreiseforbud nedlagt, ikke har hatt kjennskap til den forestående reisen.[^1419] Politiets avgjørelse kan ikke påklages, jf. barnelova § 41 tredje ledd tredje punktum.
+
+Et utreiseforbud kan gjelde både reise med forelderen, slektninger eller andre tredjepersoner og tilfeller der barnet reiser alene.[^1420] Forbudet kan nedlegges for en enkelt reise eller allment for utenlandsreiser. Forbudet kan dessuten nedlegges i egen sak, eller i forbindelse med en sak om foreldreansvar, om hvem barnet skal bo sammen med eller om samværsrett, jf. barnelova § 41 første ledd tredje punktum.
+
+Det er ikke hjemmel i barneloven § 41 for å nedlegge utreiseforbud overfor den som har foreldreansvar alene. Men den andre forelderen, uten foreldreansvar, kan reise sak om foreldreansvar, flytting med barnet ut av landet, fast bosted eller samvær etter barneloven § 56, og kan kreve midlertidig avgjørelse etter barneloven § 60.[^1421] I slike saker kan også spørsmål om utreiseforbud behandles.
+
+Det har i juridisk teori blitt reist spørsmål om barnet selv kan reise sak om utreiseforbud etter barnelova § 41. Bestemmelsens ordlyd utelukker ikke at barn har en slik adgang. Prinsippet om barnets beste, jf. barnelova § 48, taler for at barnet selv kan begjære utreiseforbud, særlig dersom det frykter at det ikke vil få returnere til Norge etter eget ønske, eller det frykter å bli utsatt for tvangsekteskap, kjønnslemlestelse eller andre straffbare handlinger.[^1422] Som følge av at barnet ikke har rettslig handleevne i prosesser og i utgangspunktet må være representert med verge, er andre likevel tvilende til om barn har en slik rettighet.[^1423] Det påpekes at det er foreldrene som i utgangspunktet er verge for barna sine, og at dersom bostedsforelderen ikke tar grep for å sikre barnet i slike sammenhenger, er det mest naturlig at barnet søker hjelp hos barnevernstjenesten. Utvalget er ikke kjent med at barn selv har reist sak om utreiseforbud.
+
+Dersom utreiseforbud nedlegges, skal barnets pass trekkes tilbake, jf. barnelova § 41 andre ledd. Bestemmelsen angir som et alternativ at barnet føres ut av passet til den forelderen som ønsker å reise, men den ordningen er ikke lenger praktisk ettersom et pass bare skal inneholde opplysninger om én enkelt person, jf. passloven § 6 første ledd. Barnelova § 41 andre ledd åpner også for at barnet kan plasseres hos andre på en forsvarlig måte, men ordningen er ikke foreslått videreført i forslag til ny barnelov.[^1424]
+
+I en lovkommentar til barnelova § 41 er det antatt at andre ledd også åpner for at politiet kan beslaglegge passet der barnet har utenlandsk pass.[^1425] Det finnes imidlertid ikke noen klar hjemmel for å beslaglegge utenlandske pass, og spørsmålet er heller ikke omtalt i forarbeidene til bestemmelsen. Etter utvalgets syn er det usikkert om barnelova § 41 andre ledd kan forstås som at den gir en hjemmel til å beslaglegge pass utstedt av andre lands myndigheter. Et så inngripende tiltak som å beslaglegge reisedokumenter utstedt av andre lands myndigheter bør etter utvalgets oppfatning ha en klar hjemmel. Utvalget kan ikke se at noen slik klar hjemmel finnes i det norske lovverket i dag, utover de tilfeller hvor nødrettsbetrakninger gjør seg gjeldende.
+
+Brudd på utreiseforbud er straffbart etter straffeloven § 261 om omsorgsunndragelse. Brudd på utreiseforbud etter barnelova § 41 er også å anse som bortføring etter Haagkonvensjonen 1980 og Europarådskonvensjonen 1980. Dersom barnet er under 16 år og er tatt med til et land som er tilsluttet noen av konvensjonene, kan saken derfor også håndteres etter konvensjonenes regler.
+
+### Tiltak i barnevernsloven som kan forhindre utenlandsreiser
+
+Barnevernsloven har ingen bestemmelser om utreiseforbud. Enkelte barnevernstiltak kan i praksis likevel forhindre utreise.
+
+Et barn kan akuttplasseres dersom det er fare for at det blir vesentlig skadelidende dersom et akuttvedtak ikke gjennomføres straks, jf. barnevernsloven § 4-2. Akuttplassering kan blant annet være aktuelt hvis det er fare for at barnet blir kjønnslemlestet eller giftet bort på en nært forestående utenlandsreise. Det kan også fastsettes sperret adresse.
+
+Etter barnevernsloven § 5-6 er det ulovlig å ta med seg et barn ut av landet uten barnevernstjenestens samtykke når vedtak om følgende tiltak er *iverksatt*:
+
+- akuttvedtak om omsorgsovertakelse etter lovens § 4-2
+
+- midlertidig flytteforbud etter § 4-3,
+
+- akuttvedtak om plassering i barnevernsinstitusjon på grunn av alvorlig atferdsvansker etter § 4-4
+
+- akuttvedtak om plassering når det er fare for menneskehandel etter § 4-5.
+
+Det er videre ulovlig å ta med seg barnet ut av Norge uten samtykke fra barnevernstjenesten når det er *truffet vedtak* om omsorgsovertakelse etter barnevernsloven § 5-1, plassering i barnevernsinstitusjon på grunn av alvorlige atferdsvansker etter § 6-2 eller plassering i fosterhjem med særlige forutsetninger eller i institusjon med hjem etter § 6-3. Tilsvarende gjelder når *begjæring* om slike tiltak er sendt Barneverns- og helsenemnda, jf. barnevernsloven § 5-6 andre punktum.
+
+Bestemmelsen innebærer i praksis et utreiseforbud, og skal forhindre at foreldre eller andre unndrar barn fra barnevernstjenesten når nærmere bestemte vedtak er truffet eller i ferd med å bli truffet. Det treffes imidlertid ikke noe vedtak om utreiseforbud i disse sakene. Det er heller ingen automatikk i at barnets pass tilbakekalles. Mener barnevernstjenesten at det er fare for at barnet vil bli tatt med til utlandet, må den derfor varsle passmyndigheten slik at passet kan tilbakekalles, jf. passloven § 7 og pass- og ID-kortforskriften § 4-4 andre ledd. Verken barnevernsloven eller passloven gir mulighet til å tilbakekalle eller beslaglegge utenlandske reisedokumenter. I et slikt tilfelle må et eventuelt beslag av et utenlandsk pass vurderes opp mot nødrettsbestemmelsen.
+
+Den som tar et barn ut av landet i tilfeller som nevnt i barnevernsloven § 5-6, kan straffes etter straffeloven § 261 om omsorgsunndragelse. Brudd på utreiseforbud etter barnevernsloven § 5-6 er videre å anse som bortføring etter Haagkonvensjonen 1980 og Europarådskonvensjonen 1980, og kan derfor også forfølges sivilrettslig.[^1426]
+
+Barnevernsloven § 5-6 kan til en viss grad være egnet til å forhindre skadelige utenlandsopphold. Det forutsetter imidlertid at vilkårene for å iverksette ett eller flere av tiltakene som er nevnt i bestemmelsen, er oppfylt. Vilkårene for disse tiltakene er strenge, og det er et krav om at mindre inngripende tiltak ikke vil være tilstrekkelig, jf. barnevernsloven § 1-5 andre ledd. Bestemmelsen vil derfor ikke kunne forhindre utreise dersom vilkårene for andre barnevernstiltak ikke er oppfylt.
+
+### Nektelse og tilbakekall av pass etter passloven
+
+Passloven gir muligheter til å begrense utenlandsreiser for barn som er norske statsborgere, gjennom enten å nekte eller tilbakekalle barnets norske pass.
+
+Etter passloven § 5 tredje ledd bokstav g kan pass til barn nektes utstedt dersom det er grunn til å tro at barnet «vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre fare for liv eller helse». Etter passloven § 7 første ledd bokstav b kan pass tilbakekalles i samme situasjon. Bestemmelsene er særlig utformet med sikte på å forebygge skadelige utenlandsopphold for barn, for eksempel at barn sendes på skoler i utlandet der de utsettes for vold eller overgrep.[^1427] Bestemmelsen trådte i kraft 19. oktober 2020.
+
+Det kreves ikke at de *straffbare forholdene* medfører fare for liv og helse. For alternativet «fare for liv eller helse» er det ikke et krav om at faren er alvorlig. Begrepet helse omfatter både fysisk og psykisk helse. Fare for barnets utvikling ble ikke tatt inn som et selvstendig alternativ for å nekte pass med følgende begrunnelse i forarbeidene:
+
+\[Det bør\] være forholdsvis snevre rammer for når man kan gripe inn i foreldrenes rett til å bestemme om den mindreårige skal ha pass. De forhold bestemmelsen tar sikte på å forhindre, vil klart nok også kunne medføre en fare for barnets utvikling. Samtidig er «fare for liv og helse» begreper med et klarere og mer entydig innhold enn «fare for den mindreåriges utvikling», som skal tolkes vidt. Å inkludere utvikling vil kunne gjøre at det oppstår uklarheter om det for eksempel vil være tilstrekkelig at den mindreårige vil bli sendt på en skole med lavere kvalitet enn norske skoler, om personen vil leve under enklere og strengere forhold eller vil miste kontakt med venner i Norge. Slike forhold bør etter departementets syn ikke alene kunne begrunne passnektelse.[^1428]
+
+Sannsynlighetskravet for at barnet vil bli utsatt for straffbare forhold eller fare for liv eller helse er lavt, nemlig «grunn til å tro». Det er likevel ikke nok at det er en teoretisk mulighet for at barnet vil bli utsatt for slike forhold i utlandet, men det er heller ikke et krav om sannsynlighetsovervekt. Det skal etter forarbeidene legges stor vekt på om barnet selv gir uttrykk for frykt for å bli utsatt for overgrep eller andre straffbare forhold ved reise til utlandet, og en slik bekymring skal i utgangspunktet være nok til at pass kan nektes utstedt.[^1429]
+
+Et vedtak om nektelse eller tilbakekall av pass til barn kan ikke ha lengre varighet enn ett år. Vedtaket kan likevel forlenges med inntil ett år av gangen dersom vilkårene fremdeles er oppfylt, jf. pass- og ID-kortforskriften § 4-3. Det er tilsvarende regler i ID-kortloven om nektelse og tilbakekall av nasjonalt ID-kort med reiserett til barn.
+
+### Nektelse og tilbakekall av reisedokumenter etter utlendingslovgivningen
+
+Utlendingsloven § 64 har regler om reisebevis for flyktninger og utlendingspass. En utlending som får oppholdstillatelse etter reglene om beskyttelse (asyl), skal etter søknad også gis reisebevis for flyktninger for reiser utenfor Norge, jf. § 64 første ledd første punktum. En utlending som har eller gis oppholdstillatelse i riket på grunnlag av søknad om asyl, men uten å ha fått innvilget oppholdstillatelse som flyktning, skal gis utlendingspass dersom utlendingens forhold til hjemlandets myndigheter tilsier det, jf. § 64 andre ledd første punktum. Hovedregelen er at reisebevis for flyktninger og utlendingspass er gyldige for reise til alle land, med unntak av utlendingens hjemland, jf. utlendingsforskriften §§ 12-2 femte ledd og 12-6 femte ledd.
+
+Reisebevis for flyktninger og utlendingspass kan etter utlendingsforskriften kapittel 12 nektes utstedt eller inndras dersom det foreligger forhold som gjør at det ikke ville blitt utstedt pass til norsk statsborger etter passloven § 5.[^1430] Dette omfatter også tilfeller der søkeren er mindreårig og det er grunn til å tro at vedkommende vil bli utsatt for straffbare forhold eller forhold som kan medføre fare for liv eller helse i utlandet.
+
+### SIS-loven – registrering i Schengen informasjonssystem
+
+Gjennom Schengen-samarbeidet er Norge en del av et område med felles yttergrense og indre bevegelsesfrihet.[^1431] Ettersom det ikke er grensekontroll mellom Schengen-landene, er de praktiske mulighetene for å forhindre reiser innad i Schengen-området svært begrenset. Ved reiser ut av Schengen-området gjennomføres ytre grensekontroll. Personer som mangler reisedokumenter eller som av andre grunner ikke skal reise ut av Schengen-området, for eksempel fordi de er etterlyst, kan derfor stanses dersom de forsøker å krysse yttergrensen.
+
+Et viktig verktøy som benyttes i grensekontrollen er Schengen informasjonssystem (SIS), som er et digitalt register der medlemsstatene i Schengen-samarbeidet kan registrere og søke i konkrete opplysningskategorier for nærmere bestemte formål. Politiet kan søke i systemet blant annet ved ytre grensekontroll og ved etterforsking av straffesaker. Systemet er regulert i lov om Schengen informasjonssystem (SIS-loven), som implementerer tre EU-forordninger om systemet.[^1432] SIS-loven er nylig revidert for å implementere de nyeste forordningene i norsk rett. Lovendringene trådte i kraft 7. mars 2023 og forordningene gjelder som norsk lov.
+
+SIS-forordningene regulerer uttømmende hvilke opplysninger som kan eller skal registreres i SIS. Det er som hovedregel ikke obligatorisk å registrere opplysninger i SIS.[^1433] Etter forordning (EU) 2018/1862 (heretter politisamarbeidsforordningen) artikkel 21 nr. 1 og forordning (EU) 2018/1861 artikkel 21 nr. 1 må det før en melding registreres eller forlenges, vurderes om saken er adekvat, relevant og viktig nok (*adequate, relevant and important enough*) til at meldingen bør registreres.
+
+Forordning (EU) 2018/1862 artikkel 32 åpner for at det kan registreres opplysninger om nærmere bestemte sårbare personer, både barn og voksne, som må forhindres i å reise (*need to be prevented from travelling)* ut av Schengen-området. Registrering etter artikkel 32 er ikke obligatorisk.
+
+De relevante delene av artikkel 32 lyder:
+
+1\. Alerts on the following categories of persons shall be entered in SIS at the request of the competent authority of the issuing Member State:
+
+\[…\]
+
+\(c\) children at risk of abduction by a parent, a family member or a guardian, who need to be prevented from travelling;
+
+\(d\) children who need to be prevented from travelling owing to a concrete and apparent risk of them being removed from or leaving the territory of a Member State and:
+
+\(i\) becoming victims of trafficking in human beings, or of forced marriage, female genital mutilation or other forms of gender-based violence;
+
+\(ii\) becoming victims of or involved in terrorist offences; or
+
+\(iii\) becoming conscripted or enlisted into armed groups or being made to participate actively in hostilities;
+
+\(e\) vulnerable persons who are of age and who need to be prevented from travelling for their own protection owing to a concrete and apparent risk of them being removed from or leaving the territory of a Member State and becoming victims of trafficking in human beings or gender-based violence.
+
+Før det kan registreres opplysninger etter nr. 1 bokstav c (barnebortføring) må det være gjort en beslutning av en kompetent myndighet, herunder rettsmyndigheter med kompetanse i saker om foreldreansvar. Det må foreligge en konkret og åpenbar fare for at barnet umiddelbart kan bli tatt ulovlig ut av landet, jf. nr. 3. Registrering etter bokstav d og e krever at det foreligger en beslutning fra en kompetent myndighet, inkludert rettslige myndigheter. Behovet for å opprettholde meldingene skal vurderes regelmessig, jf. nr. 5. Meldingene kan registreres for ett år av gangen, jf. artikkel 53 nr. 4. Meldinger etter nr. 1 bokstav d og e skal slettes senest når barnet blir myndig, med mindre meldingen opprettholdes på annet grunnlag, jf. artikkel 32 nr. 7.
+
+Verken SIS-loven eller SIS-forskriften regulerer hvilke beslutninger truffet av norske myndigheter som kan registreres i SIS etter artikkel 32 nr. 1 bokstav c, d eller e. Forarbeidene sier heller ingenting om hvilke beslutninger som kan registreres.[^1434] Utvalget legger til grunn at artikkel 32 nr. 1 bokstav c (fare for barnebortføring) åpner for å registrere opplysninger om utreiseforbud ilagt av retten etter barnelova § 41, men per i dag registreres ikke slike kjennelser i SIS. Utvalget kan ikke se at det finnes hjemler i norsk rett for å ilegge utreiseforbud for voksne personer som står i fare for å bli offer for menneskehandel eller utsatt for kjønnsbasert vold, jf. artikkel 32 nr. 1 bokstav e, og slike opplysninger kan derfor ikke registreres i dag.
+
+Når en medlemsstat ved et søk får treff på en person som er registrert etter artikkel 32, skal staten som får treff og staten som har registrert meldingen utveksle utfyllende informasjon for å avgjøre hvilke tiltak som skal iverksettes, jf. politisamarbeidsforordningen artikkel 33. Medlemsstaten som får et treff, kan, i samsvar med sin nasjonale rett, flytte barnet til et trygt sted for å forhindre videre reise. Tiltak skal treffes i tråd med barnets beste, og beslutningen skal tas umiddelbart og senest tolv timer etter at barnet ble lokalisert, i samråd med de relevante barnevernsmyndigheter, når det er relevant.
+
+## Andre lands rett
+
+### Danmark
+
+Barnets lov regulerer det danske barnevernet. Loven har ingen regler som åpner for å ilegge utreiseforbud for barn og unge.[^1435]
+
+Etter den danske passloven§ 2 stk. 1 nr. 5 kan politiet nekte å utstede pass eller inndra et allerede utstedt pass når «der er grund til at antage, at det pågældende barn ellers vil blive sendt til udlandet til forhold, der bringer den pågældendes sundhed eller udvikling i alvorlig fare».[^1436] Etter § 2 stk. 1 nr. 6 kan pass nektes utstedt eller inndras når «der er grund til at antage, at det pågældende barn ellers vil blive sendt til udlandet for at indgå ægteskab eller for at indgå i en religiøs vielse uden borgerlig gyldighed eller i et andet ægteskabslignende forhold». Et vedtak om nektelse eller tilbakekall etter disse alternativene kan etter stk. 2 ikke ha lengre varighet enn ett år, men kan forlenges med inntil ett år om gangen. Vedtaket kan bare gjelde fram til barnet fyller 18 år. Det er gitt tilsvarende regler for å nekte å utstede reiselegitimasjon til mindreårige utlendinger i udlændingeloven § 39 a stk. 3 nr. 5 og stk. 8.
+
+Som omtalt i kapittel 14 setter også den danske straffeloven § 215 a straff for foreldre som sender barn til utlandet til forhold som medfører alvorlig fare for liv eller helse.
+
+### Sverige[^1437]
+
+Den 1. juli 2020 innførte Sverige et sivilrettslig utreiseforbud i saker om tvangsekteskap og kjønnslemlestelse i lag (1990:52) med särskilda bestämmelser om vård av unga (LVU). Hovedregelen om utreiseforbud finnes i LVU 31 a §:
+
+Om det finns en påtaglig risk för att någon som är under 18 år förs utomlands eller lämnar Sverige i syfte att ingå äktenskap eller en äktenskapsliknande förbindelse eller könsstympas, ska han eller hon förbjudas att lämna Sverige (utreseförbud).
+
+Etter bestemmelsen skal det vedtas utreiseforbud når det er risiko for at et barn tas med til utlandet eller forlater Sverige med sikte på å inngå ekteskap eller en ekteskapslignende forbindelse eller bli kjønnslemlestet. Ifølge forarbeidene[^1438] er regelen i tråd med retten til å forlate sitt eget land etter EMK tilleggsprotokoll nr. 4 artikkel 2.
+
+Kravet til *påtaglig risk* innebærer at det må foreligge konkrete omstendigheter som tilsier at det er en risiko for at barnet føres utenlands eller forlater Sverige for å inngå ekteskap eller en ekteskapslignende forbindelse eller for å bli kjønnslemlestet.[^1439] Det stilles ikke krav om sannsynlighetsovervekt, men det er heller ikke tilstrekkelig med en subjektiv antakelse om at det er en risiko for at barnet føres utenlands eller forlater Sverige for å inngå ekteskap eller en ekteskapslignende forbindelse eller for å bli kjønnslemlestet. Det er heller ikke nok med en ubetydelig, uklar eller fjern risiko.[^1440]
+
+Et vedtak om utreiseforbud treffes av forvaltningsdomstolen etter søknad fra socialnämnden i kommunen, jf. LVU 31 b §. Dette er samme ordning som for andre tvangstiltak etter LVU. Socialnämnden har også rett til å treffe vedtak om midlertidig reiseforbud der det ikke er tid til å avvente rettens beslutning, jf. LVU 31 d §. Beslutning om midlertidig reiseforbud skal bringes inn for retten innen én uke fra beslutningen ble truffet, jf. 31 e §. Socialnämnden skal innen seks måneder fra beslutning om utreiseforbud ble truffet, vurdere om det skal opphøre, jf. 31 c §. Spørsmålet skal vurderes fortløpende innen seks måneder fra forrige vurdering.
+
+Etter 31 i § kan socialnämnden gjøre unntak fra forbudet for en enkeltreise, dersom den konkrete reisen ikke innebærer noen risiko for at barnet føres ut av Sverige for å inngå ekteskap eller bli kjønnslemlestet.
+
+Brudd på utreiseforbud kan etter LVU 45 § straffes med fengsel i inntil to år. Straffebudet er ikke begrenset til noen bestemt personkrets.
+
+Dersom et barn ilegges utreiseforbud, kan barnets svenske pass tilbakekalles, jf. passlagen (1978:302) 7 a §. Loven åpner ikke for å nekte eller tilbakekalle pass til barn dersom det ikke er truffet vedtak om utreiseforbud. Det er heller ikke gitt regler om beslag eller andre måter å forhindre at et utenlandsk pass benyttes til utreise, for eksempel der barnet har dobbelt statsborgerskap.
+
+Ifølge utredningen Ds 2022:9 *Ett utvidgat utreseförbud för barn* var det i årene 2020 og 2021 totalt 43 saker om utreiseforbud for forvaltningsdomstolen. Av disse ble 33 utreiseforbud ilagt for totalt 35 barn. Alle de ilagte utreiseforbudene gjaldt jenter. De fleste avgjørelsene gjaldt risiko for tvangsekteskap. I de fleste sakene var det også andre barnevernstiltak som ble prøvd for forvaltningsdomstolen samtidig, men det finnes også eksempler på at utreiseforbud var det eneste tiltaket.[^1441]
+
+Den svenske regjeringen har nylig fremmet et lovforslag om å utvide mulighetene for å ilegge utreiseforbud etter LVU 31 a §.[^1442] Etter forslaget skal det også kunne ilegges utreiseforbud dersom det er *påtaglig risk* for at barnets helse eller utvikling skades på grunn av nærmere bestemte omstendigheter. Det kan dreie seg om risiko for fysisk eller psykisk mishandling, utilbørlig utnyttelse, omsorgssvikt eller andre forhold i bomiljøet. Det kan også dreie seg om den unges misbruk av vanedannende stoffer, kriminell aktivitet eller annen sosialt nedbrytende atferd. Forslaget skal etter planen tre i kraft 1. juni 2024, og lyder:
+
+Ett utreseförbud ska meddelas för den som är under 18 år, om det finns en påtaglig risk för att
+
+1\. han eller hon förs utomlands eller lämnar Sverige, och
+
+2\. hans eller hennes hälsa eller utveckling skadas under utlandsvistelsen på grund av
+
+- fysisk eller psykisk misshandel, otillbörligt utnyttjande, brister i omsorgen eller något annat förhållande i boendemiljön, eller
+
+- eget missbruk av beroendeframkallande medel, brottslig verksamhet eller något annat socialt nedbrytande beteende.
+
+Ett utreseförbud ska också meddelas om det finns en påtaglig risk för att den unge förs utomlands eller lämnar Sverige i syfte att ingå äktenskap eller en äktenskapsliknande förbindelse.
+
+Regjeringen legger til grunn at et utreiseforbud er et mindre inngripende tiltak enn omsorgsovertakelse.[^1443] Barnets samtykke til reisen skal ikke være til hinder for at det ilegges et utreiseforbud. Videre anser regjeringen at et utreiseforbud som skulle bygge på at barnet motsetter seg en utenlandsreise innebærer risiko for at tiltaket blir virkningsløst. Det kan være vanskelig for barn på generelt grunnlag å motsette seg foreldrenes vilje, men spesielt i familier der det finnes en æresrelatert kontekst eller som på annet sett er kontrollerende.[^1444]
+
+### Storbritannia
+
+England og Wales innførte i 2008 en sivilrettslig ordning med beskyttende kjennelser for å forhindre tvangsekteskap, såkalte *Forced marriage protection orders (FMPO)*. Kjennelsen avsies av en særdomstol (familiedomstol). Ordningen gjelder for både barn og voksne. FMPO ble opprinnelig etablert som et alternativ til kriminalisering av tvangsekteskap. Tvangsekteskap ble kriminalisert i 2014 som en følge av at Storbritannia sluttet seg til Istanbul-konvensjonen.
+
+FMPO er regulert i Family Law Act 1996 del 4A. Loven regulerer ikke nærmere hva kjennelsen kan inneholde, ut over at den kan inneholde forbud, restriksjoner, krav eller andre vilkår som retten mener er passende for formålet med kjennelsen (paragraf 63B nr. 1). Vilkårene kan omfatte handlinger utenfor England og Wales, i tillegg til eller i stedet for handlinger i disse landene. Vilkårene kan gjelde ikke bare de som selv står for tvangen, men også personer som er eller kan bli involvert på andre måter.
+
+Eksempler på vilkår som er ilagt er forbud mot å ta noen ut av landet, påbud om å levere inn pass,[^1445] reisedokumenter, identitetspapirer, fødselsattest og lignende til oppbevaring hos offentlige myndigheter og forbud mot å utstede nytt pass. En kjennelse kan også innebære et påbud om å returnere en person tilbake til England eller Wales. Kjennelsen kan også inneholde begrensninger for ekteskapsinngåelse, for eksempel at det må meldes fra til myndigheter i forkant av forlovelse eller inngåelse av ekteskap, eller et forbud rettet mot foreldre mot at en ungdom inngår ekteskap, uavhengig om tvang er involvert.[^1446]
+
+Kjennelsen kan gis for en bestemt tidsperiode eller inntil den endres eller oppheves, jf. paragraf 63F. Brudd på en FMPO er straffbart og har en strafferamme på inntil fem år.
+
+Ordningen er lite brukt i praksis, selv om antallet kjennelser har økt jevnt siden innføringen av tiltaket. I 2018 ble det ilagt 324 FMPO-er.[^1447]
+
+En lignende ordning med beskyttende kjennelser finnes for kjønnslemlestelse, såkalt *Female genital mutilation protection order (FGMPO)*. Ordningen er regulert i Female Genital Mutilation Act 2003 Schedule 2 del 1 (England og Wales) og del 2 (Nord-Irland). Reglene tilsvarer i stor grad reglene for FMPO. Ordningen er aktuell både for jenter og voksne kvinner. Utvalget har ikke informasjon om hvor mange FGMPO-er som ilegges årlig.

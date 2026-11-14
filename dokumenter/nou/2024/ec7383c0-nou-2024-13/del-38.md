@@ -1,914 +1,194 @@
-# NOU 2024: 13, del 38 av 47 (side 415–424)
+# NOU 2024: 13, del 38 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 415]
-
-NOU 2024: 13
-Lov og frihet
-
-miske forhold tilsier det, kan det bestemmes at
-det ikke skal betales rettshjelpsavgift.78
-
-33.5 Utvalgets vurderinger og forslag
-33.5.1 Har de utsatte behov for rettshjelp?
-Det er en vanskelig oppgave å overskue alle rettshjelpsbehovene personer som oppholder seg i
-utlandet mot sin vilje kan ha. Ofte trenger de
-utsatte hjelp innen et bredt spekter av rettslige og
-praktiske problemstillinger, som også i stor grad
-blir ivaretatt av det offentliges veiledningsplikt.
-Typiske problemstillinger de utsatte kan stå overfor, og det etter utvalgets vurdering kan være relevant å vurdere om kan eller bør dekkes av en
-rettshjelpsordning, omfatter blant annet hjelp til å:
-– navigere i et vanskelig juridisk landskap og
-informere om hvilke rettigheter den utsatte
-har,
-– påse at forvaltningen oppfyller sine plikter
-overfor den utsatte,
-– klage på avslag på søknad om reisedokumenter og oppholdstillatelse,
-– undersøke og følge opp muligheter for å få dekket utgifter til hjemreisen,
-– vurdere forhold av betydning for en anmeldelse og
-– avklare rettsstillingen til barn over 12 år som er
-sendt på ufrivillige utenlandsopphold i strid
-med barnelovas §§ 40 og 41.
-I tillegg kan den utsatte ha behov for annen type
-bistand knyttet til forhold ved retur til Norge, som
-å søke om støtteordninger gjennom NAV, botilbud, gjenoppta skolegang, motta norskopplæring
-mv.
-Noen av disse oppgavene er allerede dekket av
-rettshjelpsordningen, for eksempel bistand til å
-vurdere en anmeldelse. Videre er flere av oppgavene satt i system og dekket gjennom offentlige
-tverrfaglige tilbud, som først og fremst gis gjennom bistand fra spesialutsendingene, Kompetanseteamet, og Bufdirs bo- og støtteordninger for
-utsatte for negativ sosial kontroll og æresmotivert
-vold mv.
-Utvalget mener at veiledning og bistand fra
-Kompetanseteamet og spesialutsendingene for
-integreringssaker er et viktig tilbud til utsatte, og
-at disse gjør et uvurderlig arbeid. Like fullt kan
-den enkelte ha behov for praktisk og juridisk
-hjelp, både til å orientere seg i landskapet, samt
-følge opp og sikre tilgang til det offentlige hjelpe78
-
-Rättshjälpslagen 23 §.
-
-413
-
-Kapittel 33
-
-tilbudet. I saker som angår barn, er det dessuten
-et særlig behov for rettssikkerhetsgarantier for å
-sikre at barnets mening blir hørt, og at barnets
-interesser og grunnleggende rettigheter blir
-håndhevet.
-Forskning viser at det er et potensielt udekket
-hjelpebehov. Ekspertgruppas rapport «Det var
-ikke bare ferie», viser at det generelt er stor variasjon i kvaliteten på den hjelpen utsatte mottar fra
-hjelpeapparatet. Videre viser ekspertgruppa til at
-ressurssituasjonen ved utenriksstasjonene kan
-påvirke tilgangen til bistand. Utvalget viser for
-øvrig til at konsulær bistand er underlagt forvaltningens frie skjønn. En avgjørelse om rettshjelp,
-er derimot et enkeltvedtak som kan påklages, noe
-som gir den enkelte utsatte større vern mot vilkårlighet og forskjellsbehandling. En advokat kan
-også sikre at forvaltningen oppfyller sine plikter
-overfor den enkelte.
-Rapporten «Kvinner og deres barn holdt tilbake mot sin vilje i utlandet», har innhentet informasjon fra utenriksstasjonene om tilbakeholdte
-kvinner og barn. Tallene viser at det er stor forskjell mellom antall personer som ambassadene
-kommer i kontakt med om retur og antallet som
-ender med retur. I perioden juni 2021 til juni 2023
-hadde 44 unge i alderen 18 til 24 år kontakt med
-en utenriksstasjon, hvorav 15 returnerte til Norge.
-Av 176 barn under 18 år som hadde kontakt med
-en utenriksstasjon om samme problematikk,
-returnert 30 til Norge. For gifte kvinner var det
-123 som ba utenriksstasjon om bistand, men bare
-15 returnerte. Antall personer som lyktes med å
-returnere på egen hånd, er ukjent.79
-Utvalget mener på denne bakgrunn at det er
-god grunn til å vurdere en ordning som gir personer som er i utlandet mot sin vilje fri rettshjelp. I
-det følgende gir utvalget sine betraktninger om
-hvordan et rettshjelpstilbud eventuelt kan organiseres.
-
-33.5.2 Forslag til rettshjelp for å muliggjøre
-de utsattes retur til Norge
-Utvalget skisserer her muligheter for hvordan
-rettshjelp til utsatte for ufrivillige utenlandsopphold bør organiseres, og hvilke utfordringer som
-kan oppstå i praksis.
-En mulighet er å tilby de utsatte rettshjelp som
-kan knyttes til de konkrete forvaltningssakene,
-for eksempel rettshjelp til å søke oppholdstillatelse etter utlendingsloven eller rettshjelp til å
-klage på avslag på reisedokumenter. En slik løs79
-
-Lidén mfl. 2024b: side 77.
-
-[Side 416]
-
-414
-
-Kapittel 33
-
-NOU 2024: 13
-Lov og frihet
-
-ning forutsetter at rettshjelpsbehovene til de
-utsatte overskues og konkretiseres slik at de kan
-dekkes gjennom rettshjelploven. En ulempe med
-dette er at den utsatte allerede må kjenne til sine
-rettslige behov og de ulike problemstillingene
-som forvaltningen ellers ikke kan bistå med.
-Dette kan være særlig utfordrende for tilbakeholdte personer, som ofte er i en sårbar posisjon
-og som ikke alltid har forutsetninger for å orientere seg i regelverket eller til å benytte seg av det
-tilgjengelige hjelpetilbudet uten konkret rådgivning.
-Etter utvalgets vurderinger er det et sentralt
-poeng at de praktiske og rettslige behovene de
-utsatte har henger nøye sammen og nettopp er
-utløst av det faktum at de er utsatt for et ufrivillig
-utenlandsopphold. Dette nødvendiggjør en enhetlig løsning som adresserer kompleksiteten i disse
-sakene og som sikrer at de utsatte får håndhevet
-sine grunnleggende rettigheter. Den utsatte bør
-tilbys en tiltakskjede hvor rettshjelp er et viktig
-ledd, og på den måten øke den utsattes mulighet
-for selvbestemmelse. Utvalget mener på denne
-bakgrunn at det bør innføres nye bestemmelser i
-rettshjelploven som gir rettshjelp til personer som
-oppholder seg i utlandet mot sin vilje. Rettshjelpen må kunne dekke ulike former for bistand den
-enkelte trenger for å returnere til Norge, både
-rettslig og praktisk.
-Rettshjelp i saker om ufrivillige utenlandsopphold vil være underlagt de samme avgrensningene
-som ellers følger av rettshjelploven: rettshjelpen
-må gjelde oppdrag som har tilknytning til norske
-forhold og som kan utføres av en advokat i Norge,
-jf. lovens § 4. Rettshjelpen må også være nødvendig og ikke allerede dekket av forvaltningens veiledningsplikt eller andre ordninger, jf. lovens § 5. I
-tillegg må den enkeltes rettshjelpsbehov gjelde et
-konkret og aktuelt krav, jf. lovens § 14.
-Utvalget mener det er uproblematisk at rettshjelpen må ha tilknytning til norske forhold og
-utføres av en advokat i Norge. Retur til Norge er
-knyttet til norske forhold, og en advokat i Norge
-er nærmest til å vite hva handlingsrommet etter
-det norske regelverket er, og hvilke løsninger
-som er tilgjengelig for den utsatte. Advokaten kan
-også sørge for at forvaltningen oppfyller sine plikter overfor den utsatte, f.eks. gjennom å undersøke den utsattes tilknytning til Norge, muligheter for å få en oppholdstillatelse eller nødpass, og
-klage på eventuelle avslag.
-Når det gjelder skillet mellom praktiske og
-rettslige oppgaver, mener utvalget at de praktiske
-og rettslige behovene må ses i sammenheng når
-de er utløst av det ufrivillige utenlandsopphold.
-
-Det vil derfor være fordelaktig om advokaten
-påtar seg også noen praktiske oppgaver for å gi
-den enkelte utsatte tilfredsstillende hjelp. Disse
-sakene har flere likhetstrekk med tvangsekteskapssaker der det gis både praktisk og rettslig
-bistand etter rettshjelploven § 11 første ledd nr. 7,
-i tillegg til bistand for å vurdere forhold av betydning for anmeldelse, jf. første ledd nr. 6.
-Når det gjelder vilkåret om at rettshjelpen må
-gjelde et konkret og aktuelt krav, anerkjenner
-utvalget at retur til Norge ikke er et enhetlig krav,
-og at det kan favne vidt. Utvalget legger imidlertid
-avgjørende vekt på at ufrivillige utenlandsopphold
-er et alvorlig samfunnsproblem som ofte rammer
-sårbare mennesker, og at de utsattes ønske om
-retur til Norge er et legitimt behov. Sakene er av
-stor personlig og velferdsmessig betydning for
-den enkelte, og tilgang til rettshjelp kan være et
-effektivt hjelpemiddel for å hjelpe de utsatte med
-å realisere retur til Norge.
-Utvalget gir i den videre framstillingen sin vurdering om hvordan rettshjelpstilbudet for personer som er i utlandet mot sin vilje bør organiseres.
-Målet for organiseringen av rettshjelpstilbudet til
-personer som er utsatt for, eller som risikerer å bli
-utsatt for, ufrivillige utenlandsopphold må være å
-gjøre rettshjelpen best mulig tilgjengelig.
-
-33.5.3 Hvilke saker bør det gis rettshjelp i?
-33.5.3.1 Rettshjelp for å muliggjøre retur til Norge
-Utvalget foreslår en ny bestemmelse om fritt rettsråd uten behovsprøving for personer over 18 år
-som er holdt tilbake i utlandet mot sin vilje, se forslag til endringer i rettshjelploven § 11 første ledd
-ny nr. 9.
-Forslaget skal sikre rettshjelp som dekker
-nødvendig og relevant bistand for den utsattes
-retur til Norge. Bistanden vil blant annet omfatte
-hjelp til å søke om nytt pass eller ny oppholdstillatelse, undersøke hvilke stønader de utsatte kan få
-med tanke på utgifter til hjemreise og forberedelse av retur til Norge. Bistanden omfatter også
-oppfølgning etter retur til Norge, blant annet ved
-bistand til å finne et sted å bo, undersøke muligheter for norskopplæring og å gjenoppta skolegang,
-få adressesperre, navneendring og voldsalarm,
-bistand i forbindelse med separasjon eller skilsmisse og å undersøke muligheter for økonomisk
-bistand fra NAV eller andre ordninger. Utenfor faller bistand som den enkelte trenger i møte med
-myndighetene i oppholdslandet. Disse sakene
-behandles etter rettshjelploven § 12.
-
-[Side 417]
-
-NOU 2024: 13
-Lov og frihet
-
-Ikke enhver person som holdes tilbake i utlandet mot sin vilje, er ment dekket av ordningen.
-Ordningen er for eksempel ikke ment å dekke tilfeller der en person blir kidnappet i utlandet, er
-fengslet for en straffbar handling eller har blitt
-smittet av en smittsom sykdom og dermed nektes
-å fly ut av landet. Formålet med forslaget er å
-styrke rettsvernet og bedre muligheten for retur
-til personer som er utsatt for negativ sosial kontroll av nære relasjoner, og at kontrollen er av en
-slik art at den utsatte ikke står fritt i å returnere til
-Norge. Utvalget foreslår derfor at ordningen
-avgrenses til personer som er holdt tilbake i utlandet av personkretsen omfattet av straffeloven
-§ 282 om mishandling i nære relasjoner. Henvisningen til straffeloven § 282 innebærer ikke et
-krav om at den som holdes tilbake også har vært
-utsatt for mishandling. Henvisningen er kun ment
-for å angi personkretsen.
-
-33.5.3.2 Rettshjelp i saker om skadelige
-utenlandsopphold, jf. straffeloven
-ny § 269
-Utvalget foreslår en ny bestemmelse om fritt rettsråd uten behovsprøving for barn og unge som er
-utsatt for, eller som risikerer å bli utsatt for, skadelige utenlandsopphold, jf. nytt forslag i straffeloven § 269 (skadelige utenlandsopphold for barn).
-Ordningen foreslås regulert i rettshjelploven § 11
-første ledd ny nr. 10.
-Rettshjelpen bør dekke relevant bistand som
-er nødvendig for den utsattes retur til Norge, tilsvarende rettshjelp etter utvalgets forslag i rettshjelploven § 11 ny nr. 9. Barn og unge som er
-holdt tilbake i utlandet mot sin vilje, men som ikke
-er utsatt for eller risikerer å bli utsatt for skadelige
-utenlandsopphold, vil falle utenfor bestemmelsen.
-Dersom barnet er over 12 år, og er ufrivillig i
-utlandet uten en forelder med foreldreansvar, jf.
-barneloven §§ 40 tredje ledd og 41 femte ledd, kan
-det imidlertid få dekket sitt rettshjelpsbehov gjennom utvalgets forslag i neste punkt.
-Som omtalt i kapittel 14 har utvalget foreslått
-at fornærmede i saker etter straffeloven ny § 269
-om skadelig utenlandsopphold, skal gis en ubetinget rett til bistandsadvokat, jf. straffeprosessloven
-§ 107 a første ledd bokstav a. En konsekvens av
-dette er at den utsatte også vil ha mulighet til
-rettshjelp etter rettshjelploven § 11 nr. 6 for å vurdere forhold av betydning for anmeldelse. Forslaget til § 11 første ledd ny nr. 10 innebærer en ytterligere utvidelse av muligheten til rettshjelp. Dette
-mener utvalget er nødvendig, slik at utsatte barn
-får bistand til retur, ikke bare for å vurdere for-
-
-415
-
-Kapittel 33
-
-hold av betydning for anmeldelsen. Barn og unge
-utsatt for skadelige utenlandsopphold, er i en særlig sårbar situasjon hvor de både er holdt tilbake i
-utlandet mot sin vilje og er utsatt for, eller risikerer å bli utsatt for, svært alvorlige krenkelser.
-Barn har ikke samme forutsetninger for å ivareta
-sine rettslige interesser som voksne. I tillegg er
-gjerne utenlandsoppholdet forårsaket av barnets
-omsorgspersoner som normalt skal gi barnet
-hjelp, omsorg og beskyttelse. Når foreldrene svikter, må norske myndigheter tilstrebe å gi barnet
-best mulig oppfølging, herunder mulighet for
-rettshjelp for å få undersøkt sin rettsstilling og å
-håndheve sine rettigheter.
-
-33.5.3.3 Rettshjelp til barn over 12 år som ikke
-samtykket til utenlandsopphold uten
-forelder med foreldreansvar
-Utvalget foreslår en ny bestemmelse om fritt rettsråd uten behovsprøving som kan knyttes til barnelova §§ 40 og 41 om barns samtykke til utenlandsopphold uten forelder med foreldreansvar,
-se forslag til endringer i rettshjelploven § 11 første
-ledd ny nr. 11.
-Barn som er fylt 12 år må samtykke i avgjørelsen om å flytte, ta opphold eller reise til utlandet
-uten en forelder med foreldreansvar, jf. §§ 40 tredje
-ledd og 41 femte ledd. Samtykkekravet gjelder
-både ved flytting og lengre og kortere utenlandsopphold, enten det er alene, sammen med en forelder som ikke har foreldreansvar, eller sammen
-med andre, som besteforeldre, andre slektninger
-eller naboer.80 Det er uklart hvorvidt rettshjelp for
-denne gruppen allerede er dekket gjennom rettshjelploven §§ 11 andre ledd nr. 1. og 16 andre ledd
-nr. 1, som henviser til kapittel 5 der både §§ 40 og
-41 er plassert, dersom foreldrene bryter samtykkekravet. Utvalget mener derfor at det er en fordel at
-det gis en egen bestemmelse om rettshjelp i disse
-sakene, som plasseres i rettshjelploven. Bestemmelsen vil synliggjøre rettshjelpsbehovet til denne
-gruppen og mulighetene for å få hjelp. Det vil også
-kunne ha forebyggende effekt ved at barnet kan
-benytte seg av rettshjelpstilbudet i forkant av reisen, så vel som under reisen. I forkant av utenlandsoppholdet kan advokaten bistå barnet med
-henblikk på å hindre utreise. Advokaten kan undersøke barnets rettslige stilling, knytte kontakt med
-barnevernet, bistå barnet i å håndheve sine rettigheter overfor foreldre og barnevernstjenesten og
-være barnets representant i møte med forvaltnin80
-
-Prop. 102 LS (2014–2015) merknader til barnelova §§ 40 og
-41.
-
-[Side 418]
-
-416
-
-Kapittel 33
-
-NOU 2024: 13
-Lov og frihet
-
-gen, herunder utlendingsmyndighetene og passmyndighetene.
-
-33.5.3.4 Bistand i andre saker
-Det er også behov for rettshjelp i etterkant av et
-ufrivillig utenlandsopphold, særlig for unge
-voksne mellom 18 og 25 som faller utenfor barnevernets ettervern. Utvalget har imidlertid ikke et
-konkret forslag for denne gruppen.
-Utsatte som er mellom 18 til 25 år som har
-mottatt tiltak fra barnevernstjenesten før fylte 18
-år, kan få tiltak i form av ettervern, som omfatter
-blant annet veiledning og informasjon. Unge over
-18 som ikke har hatt tiltak etter barnevernsloven,
-faller imidlertid utenfor denne ordningen. Utvalget har i kapittel 24 foreslått at det vurderes nærmere om etterverntilbudet bør utvides, blant
-annet til denne gruppen. Dersom ettervern innføres, vil dette kunne erstatte behovet for rettshjelp.
-33.5.4 Omfanget og plassering
-Utvalgets forslag innebærer at rettshjelpen gis
-uten behovsprøving. Sakene er av stor velferdsmessig og personlig betydning for den enkelte.
-Det er viktig at denne gruppen ikke opplever økonomien som et faktisk hinder for å få rettshjelp.
-De færreste utsatte for ufrivillig eller skadelig
-utenlandsopphold vil ha økonomiske forutsetninger for å betale for rettshjelp. For å hindre misbruk, vil rettshjelp kunne nektes dersom den kan
-dekkes av andre ordninger, jf. lovens § 5.
-Omfanget av rettshjelp bør være tilsvarende
-rettshjelp etter rettshjelploven § 11 første ledd nr.
-7, altså inntil 12 timer, jf. stykkprisforskriften § 5
-andre ledd nr. 6. Disse sakene har flere likhetstrekk med tvangsekteskapssaker der det gis både
-praktisk og rettslig bistand etter rettshjelploven
-§ 11 første ledd nr. 7, i tillegg til bistand for å vurdere forhold av betydning for anmeldelse, jf. første ledd nr. 6.
-Bestemmelsene om rettshjelp i forbindelse
-med ufrivillige utenlandsopphold bør plasseres i
-rettshjelploven § 11 om fritt rettsråd. Rettshjelpen
-som de utsatte trenger, har ikke tilknytning til en
-
-sak som går for en utenlandsk domstol eller forvaltningsorgan, og kan derfor ikke plasseres i
-lovens § 12 (om fritt rettsråd ved utenlandsk domstol eller forvaltningsorgan).
-
-33.5.5 En forutsetning for en vellykket
-gjennomføring
-En forutsetning for en vellykket gjennomføring er
-at advokatene som benyttes i saker om ufrivillig
-utenlandsopphold er gitt nødvendig opplæring.
-Barn og unge som er ufrivillig i utlandet kan
-potensielt være i risiko for å bli utsatt for svært
-alvorlige straffbare handlinger. Det er nødvendig
-at advokaten har god forståelse for de kreftene
-som verserer i familier med sterkt indre samhold
-og kollektivistiske strukturer. Advokaten må
-kjenne godt til de risikoene som er forbundet med
-den utsattes situasjon i familier hvor æreskultur
-står sterkt. Videre er det en forutsetning for en
-vellykket gjennomføring at det etableres et system og gode rutiner for samarbeid og kommunikasjon med hjelpeapparatet for øvrig, for eksempel utenrikstjenesten, Kompetanseteamet, politiet
-mv. Advokaten må også kjenne til at den utsatte
-kan ta store sjanser og utsette seg selv for fare når
-det er i dialog med advokaten eller norske
-myndigheter. Dette nødvendiggjør en ordning
-med en advokatliste over spesielt opplærte advokater samt egnede rutiner og systemer for dialog.
-Det er allerede mange aktører inne i bildet i saker
-hvor barn og unge skal hjelpes hjem, aktører som
-gjøre en uvurderlig innsats. Det er viktig at rettshjelpen blir en ekstra ressurs inn i systemet, og
-ikke fører til at barn og unges situasjon blir vanskeligere å håndtere.
-Det kan reises spørsmål ved om en advokat
-skal pålegges å reise til oppholdslandet for å møte
-den utsatte. Utvalget legger til grunn at rettshjelp
-bør kunne tilbys digitalt eller per telefon. Dersom
-det er behov for, og mulighet til, personlig møte i
-utlandet, må det søkes om dette særskilt etter
-rettshjelploven § 14. En advokat kan under enhver
-omstendighet ikke pålegges oppdrag som setter
-vedkommende i fare eller oppdrag som innebærer
-brudd på oppholdslandets lovgivning.
-
-[Side 419]
-
-NOU 2024: 13
-Lov og frihet
-
-417
-
-Kapittel 34
-
-Kapittel 34
-
-Rett og plikt til skolegang og opplæring i norsk i etterkant av
-ufrivillig utenlandsopphold
-34.1 Innledning
-I Norge er det opplæringsrett- og plikt for alle
-barn i grunnskolealder som er bosatt i Norge.
-Dette innebærer at foreldre plikter å sørge for at
-barnet får opplæring, enten ved offentlig eller privat skole eller ved hjemmeundervisning. Manglende etterlevelse av plikten kan straffes med
-bøter etter opplæringsplikten § 2-1 femte ledd.
-Opplæringsplikten faller bort dersom barnet oppholder seg, eller skal oppholde seg i utlandet i
-mer enn tre måneder, uavhengig av formålet med
-oppholdet, og uavhengig av om barnet skal tilbake
-til Norge, for eksempel etter ett år.
-Personer som har vært utsatt for ufrivillige
-eller skadelige utenlandsopphold, har som regel
-behov for å komme tilbake til norsk skole raskest
-mulig ved retur til Norge. Det er eksempler på at
-barn blir sendt på ufrivillig utenlandsopphold som
-tidlig tenåring, og først returnerer til Norge som
-ung voksen. Videre er det eksempler på ungdom-
-
-mer som er sendt til utlandet i løpet av videregående skole, som opplever at de har mistet skoleplassen sin når de er tilbake i Norge. I dette kapittelet vurderer utvalget hvorvidt det er behov for
-endringer i lovgivningen som kan styrke barn og
-unges rett til skolegang etter ufrivillig eller skadelig utenlandsopphold.
-Barn og unge som blir utsatt for ufrivillig eller
-skadelig utenlandsopphold kan miste norskkunnskaper og gå glipp av opplæringsmuligheter
-under oppholdet i utlandet. Dette kan gjøre hverdagen utfordrende ved retur til Norge. Gode
-norskkunnskaper er en viktig forutsetning for å
-kunne komme i jobb eller utdanning og for å delta
-aktivt i samfunnet. Det kan også være en forutsetning for at de utsatte skal ha en praktisk mulighet
-for å søke hjelp ved behov. Utvalget undersøker
-derfor hvorvidt det bør gjøres endringer i regelverket for å styrke barns og unges muligheter til
-norskopplæring når de returnerer til Norge etter
-et ufrivillig utenlandsopphold.
-
-Boks 34.1 Anbefalinger fra ekspertgruppa om unge som etterlates i utlandet mot sin vilje
-Ekspertgruppa om unge som etterlates i utlandom eller ung voksen i Norge». Ekspertgruppa
-det mot sin vilje peker på at det er behov for å
-anbefaler at unge som har mistet skolegang og
-undersøke regler om norskopplæring og fleksinødvendige norskkunnskaper grunnet ufrivilbelt undervisningsopplegg som en del av
-lige utenlandsopphold, bør få tilpasset undervisrettsvernet for de utsatte. Ekspertgruppa peker
-ning. Ekspertgruppa anbefaler også at de
-på at personer som har oppholdt seg i utlandet i
-utsatte tilbys et fleksibelt undervisningsopplegg
-flere år, kan gå glipp av «den gradvise tilvenninog norskopplæring som kan bøte på tapt skolegen til voksenlivet i en norsk kontekst, og dergang og språkkunnskaper etter retur til Norge.
-med ha lite kunnskap om og forståelse for anligVidere anbefaler ekspertgruppa at unge som tas
-gender som er relevante for videregående oppmed til utlandet mot sin vilje i løpet av skoleåret,
-læring, studier, jobbsøking, NAV, bolig og økoikke mister skoleplassen sin.
-nomi». I tillegg kan de utsatte «ha mistet den
-Kilde: Ekspertgruppa om unge som etterlates i utlandet mot
-sosiale treningen som ungdomslivets arenaer tilsin vilje 2020 punkt 5.3 og 6.9.
-byr, og dermed streve med å forstå de sosiale
-spillereglene og hva som forventes av en ung-
-
-[Side 420]
-
-418
-
-Kapittel 34
-
-NOU 2024: 13
-Lov og frihet
-
-34.2 Gjeldende rett
-34.2.1 Opplæringslova
-34.2.1.1 Grunnskoleopplæring
-Barn og unge som er bosatt i Norge, har rett og
-plikt til grunnskoleopplæring i samsvar med lov
-17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) og tilhørende forskrifter, jf. lovens § 2-1.1 Retten til å
-motta grunnleggende utdanning er forankret i
-Grunnloven § 109 første ledd. Den følger også av
-internasjonale forpliktelser, slik som EMK første
-tilleggsprotokoll artikkel 2, ØSK artikkel 13 og
-barnekonvensjonen artikkel 28.
-Retten og plikten til grunnskoleopplæring gjelder som regel fra det året barnet fyller 6 år, og
-varer til barnet har fullført det tiende skoleåret
-(vanligvis ved fylte 16 år).2 Retten til grunnskoleopplæring gjelder uavhengig av elevens oppholdsstatus, og inntrer fra det tidspunktet det er sannsynlig at barnet skal oppholde seg i Norge i mer
-enn tre måneder.3 Grunnskoleopplæringen omfatter blant annet opplæring i norsk.4 Opplæringen
-skal være i samsvar med elevens evner og forutsetninger. Minoritetsspråklige elever med annet
-morsmål enn norsk og samisk har rett til særskilt
-opplæring i norsk fram til «dei har tilstrekkeleg
-dugleik i norsk til å følgje den vanlege opplæringa
-i skolen».5
-Brudd på opplæringsplikten kan medføre
-straffansvar. Etter opplæringslova § 2-1 femte ledd
-kan foreldre, eller andre som har omsorgen for
-barnet, straffes med bøter når opplæringsplikten
-er brutt forsettlig eller uaktsomt. Dette gjelder
-både når foreldrene aktivt har holdt barnet
-hjemme og når fraværet skyldes passivitet fra foreldrenes side.6 Det er et krav at kommunen må
-sette fram krav om brudd på opplæringsplikten
-for at offentlig påtale kan reises.7
-Kravet om at foreldrene har skyld i fraværet
-betyr at bøtelegging ikke kan benyttes når fraværet skyldes forhold som foreldrene ikke har kontroll over, for eksempel dersom foreldrene ikke er
-kjent med fraværet, se straffeloven § 22 om forsett, § 23 om uaktsomhet og § 25 om faktisk uvi1
-2
-3
-4
-5
-6
-7
-
-Prop. 79 L (2016–2017) punkt 7.5.
-Opplæringslova § 2-1 tredje og fjerde ledd.
-Opplæringslova § 2-1 andre ledd første punktum og Ot.prp.
-nr. 36 (1996–97) punkt 5.3.1.
-Opplæringslova § 2-3 første ledd første punktum.
-Opplæringslova § 1-3 og § 2-8 første ledd.
-Ot.prp. nr. 46 (1997–98) og NOU 2019: 23 punkt 23.2.2.
-Prop. 72 L (2015–2016) punkt 7.5.
-
-tenhet.8 Foreldrene kan ikke bøtelegges når fraværet er lovlig, for eksempel ved sykdom eller
-permisjon etter opplæringslova § 2-11.9 Foreldrene kan heller ikke bøtelegges når grunnskoleplikten er falt bort på grunn av utenlandsopphold
-etter lovens § 2-1 andre ledd siste punktum.
-Å holde barn tilbake fra den pliktige grunnskoleopplæringen, vil også kunne utløse tiltak fra barnevernstjenesten. Skolen har etter opplæringslova
-§ 15-3 første ledd en lovfestet plikt til å være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenestens side. Oppmerksomhetsplikten
-gir i seg selv verken rett eller plikt til å formidle
-opplysninger til barnevernstjenesten. Men ved å
-være oppmerksom, kan skolen oppdage forhold
-som utløser meldeplikten. Meldeplikt til barnevernstjenesten er tatt inn i opplæringslova § 15-3
-andre ledd, tilsvarende ordlyd som i barnevernsloven § 13-2. Bekymringsmelding skal ikke sendes rutinemessig, men etter en konkret vurdering
-av om vilkårene for meldeplikt er oppfylt. Se mer
-om meldeplikten i kapittel 36.
-Grunnskoleplikten bortfaller når eleven oppholder seg utenfor Norge i mer enn tre måneder.10 Opplæringsplikten kan også falle bort allerede fra avreisedatoen dersom foreldrene melder
-fra til skolen eller kommunen om at barnet skal
-oppholde seg i utlandet i mer enn tre måneder.11
-Bortfall av opplæringsplikten innebærer at foreldrene ikke kan sanksjoneres for at barnet ikke
-deltar i grunnskoleopplæringen. Opplæringsplikten opphører uavhengig av om barnet er i utlandet
-alene eller sammen med en eller begge foreldrene. Det har heller ingen betydning om barnet
-befinner seg i utlandet ufrivillig. I forarbeidene til
-bestemmelsen er dette begrunnet i at barnet vil
-ha rett og plikt til grunnskoleopplæring dersom
-det senere kommer tilbake til Norge:
-Departementet meiner at lengda på utanlandsopphaldet bør vere avgjerande for når opplæringsplikta skal falle bort. Det bør ikkje leggjast vekt på formålet med eller årsaka til utanlandsopphaldet eller om barnet er saman med
-foreldra sine eller ikkje. Dette gjeld sjølv om
-barnet oppheld seg utanfor Noreg mot si eiga
-vilje, og i tilfelle der sjukdom eller liknande
-fører til at utanlandsopphaldet blir forlenga.
-Departementet vil understreke at barnet i alle
-8
-
-Helgeland 2024: Juridika lovkommentar til opplæringslova
-§ 2-1 punkt 8.
-9 Ibid.
-10 Opplæringslova § 2-1 andre ledd femte punktum.
-11
-Prop. 72 L (2015–2016) punkt 7.5.
-
-[Side 421]
-
-NOU 2024: 13
-Lov og frihet
-
-tilfelle vil ha rett og plikt til grunnskoleopplæring dersom barnet seinare kjem tilbake til
-Noreg. Eit barn som kjem til Noreg, har rett til
-opplæring frå det tidspunktet det er sannsynleg
-at barnet skal vere i Noreg i meir enn tre månader, og barnet har plikt til å delta i grunnskoleopplæringa når opphaldet har vart i tre månader.12
-
-Tidligere gikk det ikke fram av lovens ordlyd når
-opplæringsplikten i Norge bortfaller ved utenlandsopphold. Tremånedersgrensen kom inn ved
-lovendring i 2016.13 Bakgrunnen for endringen
-var behovet for å klargjøre grensene for bortfall av
-opplæringsplikten når et barn er på utenlandsopphold, for eksempel i forbindelse med «at foreldra
-arbeider i utlandet ein periode og barnet følgjer
-dei, eit ønske om å bruke eit skoletilbod som ikkje
-er tilgjengeleg i Noreg, eller at barnet skal bu ein
-periode i eit anna land for å bli kjent med kulturen
-og lære seg språket der».14 I forarbeidene blir det
-vist til at det ikke bør være tvil om rekkevidden av
-opplæringsplikten ved utenlandsopphold, blant
-annet fordi brudd på opplæringsplikten kan sanksjoneres med straff.15 Det ble også vist til at et
-barn som oppholder seg i utlandet i mer enn tre
-måneder ikke lenger bør regnes som bosatt i
-Norge,16 og at barnet uansett vil kunne gjenoppta
-grunnskoleopplæringen ved retur til Norge, jf.
-lovens § 2-1.17
-
-34.2.1.2 Videregående opplæring
-Opplæringslova kapittel 3 gir regler om videregående opplæring. Det er fylkeskommunen som
-skal oppfylle rettighetene etter kapittel 3 i opplæringslova.18 Fylkeskommunen har først og fremst
-ansvar for å tilby videregående opplæring til personer som er bosatt i fylkeskommunen, men tilbudet skal også gis til søkere fra andre fylker dersom fylkeskommunen har ledig kapasitet.19
-Elever som har fullført grunnskoleopplæring
-eller tilsvarende opplæring har etter søknad rett,
-men ikke plikt, til tre års videregående opplæring,
-jf. lovens § 3-1 første ledd. Retten til videregående
-12
-
-Ibid.
-Lov 17. juni 2016 nr. 67 om endringar i opplæringslova (friare skoleval over fylkesgrenser, praksisbrevordning m.m.).
-14 Prop. 72 L (2015–2016) punkt 7.1.
-15 Prop. 72 L (2015–2016) punkt 7.5.
-16 Begrepet bosatt etter opplæringslova har et annet innhold
-enn vanlig bosted etter barnevernsloven.
-17 Prop. 72 L (2015–2016) punkt 7.5.
-18 Opplæringslova § 13-3 første ledd.
-19 Opplæringslova § 13-3 andre ledd.
-
-419
-
-Kapittel 34
-
-opplæring gjelder også for personer som ikke får
-godkjent sin utenlandske utdanning, for eksempel
-dersom de mangler dokumentasjon på fullført
-utdanning, eller dersom de ikke har fått tilgang på
-grunnskoleutdanning mens de oppholdt seg i
-utlandet. Eleven må ha lovlig opphold i Norge for
-å ha rett til videregående opplæring.20 Ungdom
-som har fylt 15 år, kan søke selv om inntak til videregående opplæring uten at de trenger samtykke
-fra foreldrene, jf. lovens § 3-1 første ledd siste
-punktum, jf. også barnelova § 32 som omhandler
-barns bestemmelsesrett i avgjørelser om utdanning.
-Retten til videregående opplæring etter lovens
-§ 3-1 gjelder fram til det året eleven fyller 24 år
-(ungdomsrett).21 Etter fylte 24 år kan videregående opplæring fullføres som voksenopplæring
-etter kapittel 4A. Videregående opplæring skal
-være gratis og tilpasset den enkeltes forutsetninger. Minoritetsspråklige elever har rett til «særskild norskopplæring» til de har tilstrekkelige
-norskkunnskaper til å kunne følge den vanlige
-opplæringen i skolen.22 I enkelte fylkeskommuner kan eleven få norskopplæring i kombinasjonsklasser på en videregående skole, uten å bruke
-retten til videregående opplæring.23
-Tilbudet om kombinasjonsklasser er rettet
-mot elever mellom 16 og 24 år som har fullført
-grunnskolen, men som ikke har tilstrekkelige
-norskkunnskaper til å kunne følge undervisningen i en videregående skole.24 Tilbudet er også
-rettet mot elever som har skolebakgrunn fra
-utlandet som ikke tilsvarer norsk grunnskole. I
-den nye opplæringslova 9. juni 2023 nr. 30 om
-grunnskoleopplæringa og den videregående opplæringa § 9-6, som trer i kraft høsten 2024, blir det
-innført en plikt for fylkeskommunen til å ha et
-opplæringstilbud i overgangen til videregående
-opplæring for elever som mangler faglige eller
-språklige forutsetninger for å kunne delta i og
-bestå videregående opplæring.25 Et eksempel på
-et slikt overgangstilbud er kombinasjonsklasser
-der eleven kan få både grunnskoleopplæring og
-opplæring i fag fra videregående opplæring.
-Fravær kan medføre at en elev mister skoleplassen for det aktuelle skoleåret, for eksempel
-
-13
-
-20
-
-Opplæringslova § 3-1 tolvte ledd.
-Opplæringslova § 3-1 tredje ledd.
-22
-Opplæringslova § 3-1 niende ledd og § 3-12 første ledd.
-23 For eksempel Troms og Finnmark fylkeskommune, Telemark og Vestfold fylkeskommune og Viken fylkeskommune.
-24 Prop. 72 L (2015–2016) punkt 5.5.1 og 5.5.4.
-25 Prop. 57 L (2022–2023) punkt 40.11.4.2.
-21
-
-[Side 422]
-
-420
-
-Kapittel 34
-
-NOU 2024: 13
-Lov og frihet
-
-hvis eleven ikke møter opp på første skoledag
-uten godkjenning fra skolen. Eleven kan også
-miste retten til halvårsvurdering med karakter
-eller til standpunktkarakter ved fravær som overskrider fraværsgrense.
-I de tilfeller der skoleplassen er bortfalt på
-grunn av langvarig utenlandsopphold, eller eleven
-ikke har fått standpunktkarakter i det aktuelle
-året, må det søkes om opptak på nytt ved retur til
-Norge. Opptak skjer en gang i året.26 Fylkeskommunen har etter opplæringsforskriften § 6-8
-syvende ledd plikt til å ha inntak til videregående
-opplæring etter utløpt søknadsfrist for personer
-som blir plassert i fosterhjem eller barnevernsinstitusjoner.
-
-34.2.1.3 Opplæring spesielt organisert for voksne
-Opplæringslova kapittel 4A gjelder opplæring som
-er spesielt organisert for voksne.
-Personer som er over opplæringspliktig alder
-(normalt 16 år) og som trenger grunnskoleopplæring, har rett til slik opplæring så langt de ikke har
-rett til videregående opplæring etter lovens § 31.27 Opplæringen kan også gis etter lovens § 4A-1
-andre ledd til personer som har rett til videregående opplæring, men som trenger mer grunnskoleopplæring for å kunne fullføre videregående
-opplæring. Personer som har gjennomført grunnskoleopplæring har som regel ikke rett til ny opplæring. At det har gått lang tid siden den voksne
-gjennomførte grunnskoleopplæringen, og at hen
-ikke har kunnskaper i tråd med dagens opplæring, gir ikke i seg selv rett til ny grunnskoleopplæring.28 Det er et vilkår for opplæringen at
-eleven har lovlig opphold i Norge, jf. lovens § 4A-1
-fjerde ledd.
-Grunnskoleopplæringen til voksne skal være
-gratis og tilpasset den enkeltes behov, jf. lovens
-§ 4A-1 første og tredje ledd. Det betyr at opplæringen skal tilpasses eventuelt arbeid eller familie
-som opptar store deler av dagen, eksempelvis
-gjennom at det gis som kveldsundervisning.29
-Grunnskoleopplæringen kan inneholde særskilt
-språkopplæring i norsk, dersom dette er nødvendig for at den voksne skal få et forsvarlig utbytte
-av opplæringen.30 I den nye opplæringsloven § 1926
-
-Opplæringsforskriften § 6-8.
-Opplæringslova § 4A-1 første ledd jf. § 3-1.
-28 Utdanningsdirektoratets rundskriv UDIR-3-2012 punkt
-2.1.4.
-29 Ot.prp. nr. 44 (1999–2000) merknader til § 4A-1 og Utdanningsdirektoratets rundskriv UDIR-3-2012 punkt 4.5.
-30 Utdanningsdirektoratets rundskriv UDIR-3-2012 punkt
-4.6.1.
-27
-
-8 første ledd blir retten til særskilt språkopplæring
-for voksne som får grunnskoleopplæring lovfestet.31
-Det finnes ingen regler om bortfall av rett til
-grunnskoleopplæring for voksne slik det er for
-videregående opplæring, også når den voksne i
-alvorlig grad forsømmer sine plikter eller har
-manglende progresjon eller motivasjon.32 Den
-voksne kan dermed begynne på grunnskoleopplæringen flere ganger, uten å fullføre og uten å
-mister retten til grunnskoleopplæring.
-Voksne som har fullført grunnskolen eller tilsvarende, men som ikke har fullført videregående
-opplæring, har etter søknad rett til videregående
-opplæring fra og med det året de fyller 25 år, jf.
-lovens § 4A-3 første ledd første punktum. Den
-enkelte har også rett til videregående opplæring
-dersom ens utenlandske utdanning ikke blir godkjent i Norge som studiekompetanse eller yrkeskompetanse, jf. andre punktum. Det er et vilkår at
-eleven har lovlig opphold for å ha rett til videregående opplæring, jf. lovens § 4A3 åttende ledd. I
-den nye opplæringsloven § 19-8 andre ledd blir
-det innført en rett til forsterket opplæring i norsk i
-videregående opplæring for denne gruppen.33
-Fraværsgrensen for elever som tar videregående opplæring, gjelder ikke for voksne.34 Dersom en voksen, som tidligere har begynt på en
-videregående opplæring uten å oppnå studiekompetanse ønsker å gjenoppta opplæringen på nytt,
-må fylkeskommunen vurdere konkret hvilket tilbud den voksne skal gis for å få enten studiekompetanse eller yrkeskompetanse.35
-
-34.2.2 Integreringsloven
-Lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) gir regler om kvalifisering for nyankomne innvandrere. Kvalifiseringstilbudet omfatter blant annet opplæring i norsk. Lovens formål
-er at innvandrere tidlig integreres i det norske
-samfunnet og blir økonomisk selvstendige, jf. § 1
-første ledd første punktum. Loven skal også bidra
-til at innvandrere får gode norskkunnskaper,
-kunnskap om norsk samfunnsliv, formelle kvalifikasjoner og en varig tilknytning til arbeidslivet, jf.
-31
-
-Prop. 57 L (2022–2023) punkt 43.20.5.
-Utdanningsdirektoratets rundskriv UDIR-3-2012 punkt 7.
-33 Prop. 57 L (2022–2023) punkt 43.20.5.
-34 Utdanningsdirektoratets rundskriv UDIR-3-2016 under
-«Fraværsgrensen i korte trekk».
-35 Utdanningsdirektoratets rundskriv UDIR-2-2008 under
-«Tidligere avbrutt og ikke fullført videregående opplæring».
-32
-
-[Side 423]
-
-NOU 2024: 13
-Lov og frihet
-
-lovens § 1 første ledd andre punktum. En innvandrer defineres i § 2 første ledd bokstav b som en
-person som har en oppholdstillatelse etter utlendingsloven.
-Ansvaret for tilbudet etter integreringsloven er
-delt mellom kommunen og fylkeskommunen.36
-Kommunen er ansvarlig for tidlig kvalifisering
-etter kapittel 3, introduksjonsprogram etter kapittel 4 og opplæring i norsk og samfunnskunnskap
-etter kapittel 6.37 Fylkeskommunen har ansvar for
-det regionale integreringsarbeidet og skal blant
-annet sørge for tilbud om karriereveiledning og
-opplæring i norsk og samfunnskunnskap for de
-som går i videregående opplæring, jf. § 4. Lovens
-regler om opplæring i norsk og samfunnskunnskap henger sammen med kravene som stilles for
-å få permanent oppholdstillatelse etter utlendingsloven § 62 og statsborgerskap etter statsborgerloven.38
-Norske borgere faller utenfor målgruppen for
-integreringsloven, og har dermed verken rett
-eller plikt til opplæring etter loven.
-Introduksjonsprogram
-Introduksjonsprogrammet etter kapittel 4 er et
-kvalifiseringstilbud for nyankomne innvandrere,
-der opplæring i norsk og samfunnskunnskap inngår som en obligatorisk del.
-Målgruppen til introduksjonsprogrammet er
-definert med utgangspunkt i alder, botid i kommunen og oppholdsgrunnlag etter utlendingsloven,
-jf. integreringsloven §§ 8 og 9. Introduksjonsprogrammet er rettet mot innvandrere som er mellom 18 og 55 år, og som i det vesentlige har en
-oppholdstillatelse på grunnlag beskyttelse (asyl)
-eller familieinnvandring med en flyktning. I tillegg
-har også utlendinger som har en oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b, andre ledd og tredje ledd rett og plikt til å
-delta i introduksjonsprogrammet.
-Det er alderen på tidspunktet for innvilgelse av
-oppholdstillatelse som avgjør om den enkelte har
-rett og plikt til å delta i introduksjonsprogrammet.39 Å ha rett til deltakelse innebærer at en har
-rettskrav på å få tilbudet fra kommunen. Deltakelsen utløser også rett til å motta introduksjonsstønad etter lovens § 19. Personer som har påbegynt
-et introduksjonsprogram har rett til å fullføre, uavhengig av om oppholdstillatelsen endres eller om
-36
-
-Integreringsloven §§ 3 og 4.
-Integreringsloven § 3 første ledd.
-38 Prop. 89 L (2019–2020) punkt 3.1.
-39 Integreringsloven § 8 første ledd andre punktum.
-37
-
-421
-
-Kapittel 34
-
-de får innvilget statsborgerskap.40 Retten gjelder
-likevel bare dersom den enkelte fortsatt har lovlig
-opphold i Norge, altså ikke hvis oppholdstillatelsen utløper eller blir tilbakekalt.41
-Kommunen har en skjønnsmessig adgang
-etter integreringsloven § 8 tredje ledd til å tilby
-introduksjonsprogram til noen utvalgte grupper
-som faller utenfor målgruppen etter lovens §§ 8
-og 9, men dette omfatter ikke norske borgere. Da
-bestemmelsen var på høring, kom det en rekke
-forslag om hvilke grupper som bestemmelsen
-burde omfatte, blant annet norske statsborgere
-som har vokst opp i utlandet og som returnerer til
-Norge etter å ha fylt 18 år.42 Departementet gikk
-mot å utvide målgruppen etter integreringsloven
-§ 8 tredje ledd på grunn av ressurshensyn. Situasjonen til norske borgere som returnerer til
-Norge etter fylte 18 år, ble ikke omtalt særskilt.43
-Opplæring i norsk og samfunnskunnskap
-Opplæring i norsk og samfunnskunnskap er en
-opplæringsordning med en egen læreplan, krav til
-varighet og omfang, som er rettet mot innvandrere mellom 18 og 67 år.44 Opplæringen inngår
-også som en obligatorisk del av introduksjonsprogrammet.
-Målgruppen for opplæringen er videre enn
-målgruppen for introduksjonsprogrammet, og
-inkluderer i utgangspunktet alle som har fått en
-oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse. I tillegg til personer
-som har rett og plikt til å delta i introduksjonsprogrammet, omfatter dette for eksempel oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til personer som har permanent oppholdstillatelse, eller personer med oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til norske og andre nordiske borgere.
-Arbeidsinnvandrere fra land utenfor EU/EØSområdet og deres familiemedlemmer har plikt,
-men ikke rett, til å delta i opplæringen.
-Retten og plikten til opplæring inntrer som
-regel når oppholdstillatelsen innvilges, eller ved
-ankomst til Norge, jf. lovens § 26 andre ledd. I
-«særlige tilfeller» kan retten og plikten inntre fra
-det tidspunktet krav om opplæring settes frem.
-Hva som regnes som «særlige tilfeller», er nær40
-
-Integreringsloven § 9 tredje ledd.
-Prop. 89 L (2019–2020) merknader til § 9.
-42 Prop. 89 L (2019–2020) punkt 8.1.3.4.
-43 Prop. 89 L (2019–2020) punkt 8.1.4.4.
-44 Integreringsloven § 27 og Prop. 89 L (2019–2020) kapittel
-10.
-41
-
-[Side 424]
-
-422
-
-Kapittel 34
-
-NOU 2024: 13
-Lov og frihet
-
-mere regulert i integreringsforskriften §§ 20 og
-22. Etter forskriftens § 20 inntrer retten og plikten
-til å delta i opplæring i norsk og samfunnskunnskap fra det tidspunktet utlendingen setter frem
-krav om deltakelse hvis vedkommende, på grunn
-av tilbakeholdelse mot sin vilje, ikke kunne starte
-opplæringen tidligere. Dokumentasjon på tilbakeholdelsen kan være bekreftelse fra personell ved
-NAV-kontor, krisesenter, helsepersonell, annet
-personell ved helsestasjons- og skolehelsetjeneste
-eller lignende, jf. forskriftens § 22. Deltakeren kan
-få utsatt start i inntil ti år etter at rett og plikt til
-opplæring etter hovedregelen inntrådte.45 Det finnes ikke en tilsvarende unntaksregel om utsatt
-oppstart eller tilbakeholdelse for deltakere i introduksjonsprogrammet.
-Stans av opplæringen ved fravær
-Kommunen kan stanse opplæringen midlertidig
-eller permanent dersom dette er «saklig begrunnet i den enkeltes forhold», jf. lovens §§ 18 og 36.
-For deltakere i introduksjonsprogrammet som
-også har rett og plikt til opplæring i norsk og samfunnskunnskap etter introduksjonsloven §§ 17 og
-18, vurderes også om opplæringen i norsk og samfunnskunnskap skal stanses.46
-Avgjørelsen om stans gis som et enkeltvedtak.47 Vedtak om permanent stans innebærer at
-deltakeren ikke lenger har rett til å delta i opplæringen i norsk og samfunnskunnskap eller introduksjonsprogrammet. For introduksjonsprogrammet innebærer stansen at deltakeren ikke vil
-kunne motta introduksjonsstønad.48
-Terskelen for å stanse programmet skal være
-høy.49 Omfattende fravær som det ikke er gitt tillatelse til, er et forhold som kan begrunne stans av
-opplæringen.50 Dette vurderes konkret på bakgrunn av hvor lenge deltakeren har vært i programmet, progresjonen og fraværets hyppighet.51
-Det er også av betydning om fraværet ikke har
-hatt gyldig begrunnelse, om det er søkt om permisjon og om fraværet hadde gitt rett til permisjon
-dersom det hadde vært søkt om det.52
-Forarbeidene nevner ikke utenlandsopphold
-uttrykkelig, men utvalget legger til grunn at fra-
-
-vær som skyldes langvarig utenlandsopphold
-medfører permanent eller midlertidig stans av
-introduksjonsprogrammet. Hvorvidt det har
-betydning at utenlandsopphold har vært ufrivillig,
-er ikke klart.
-
-34.2.3 Universitets- og høyskoleloven
-Norske universiteter og høyskoler har ansvar for
-«vedlikehold og videreutvikling av norsk fagspråk», jf. lov 01. april 2005 nr. 15 om universiteter
-og høyskoler (universitets- og høyskoleloven) § 17 første ledd. I forarbeidene uttales det at norsk
-som et generelt utgangspunkt skal være hovedspråket ved norske universiteter og høyskoler.53
-For å kunne få opptak til høyere utdanning
-kreves det fullført og bestått norsk videgående
-opplæring eller tilsvarende.54 Det kreves også tilstrekkelige kunnskaper i både engelsk og norsk.
-Enkelte universiteter tilbyr årsstudium i norsk,55
-disse har egne regler om studieopptak, blant
-annet krav om generell studiekompetanse og
-gode kunnskaper i engelsk eller grunnleggende
-kunnskaper i norsk.
-
-34.3 Hva er problemet?
-I ekspertgruppas rapport «Det var ikke bare
-ferie» framheves det at manglende språkkunnskaper er en av hovedutfordringene for personer som
-returnerer til Norge etter et langvarig, ufrivillig
-utenlandsopphold. Tilsvarende funn ble gjort i
-rapporten «Transnasjonal oppvekst»56 fra 2014 og
-rapporten «Skolegang i Pakistan – barn med innvandrerbakgrunn som går på skole i foreldrenes
-opprinnelsesland» fra 2006.57 Hvorvidt de utsatte
-hadde fått et opplæringstilbud i oppholdslandet,
-og kvaliteten av opplæringstilbudet, ble også trukket fram som helt avgjørende for de utsattes
-muligheter ved retur til Norge.58
-Ekspertgruppa har pekt på at det er en utfordring at barn og unge kan måtte vente opptil et år
-for å få studieplass når de returnerer til Norge, og
-at det er uheldig at opplæringsplikten bortfaller
-53
-
-45
-
-Integreringsforskriften § 20 tredje ledd.
-Prop. 89 L (2019–2020) punkt 8.9.1.
-47 Integreringsloven § 46 andre ledd bokstav d.
-48
-Integreringsloven §§ 19 og 21.
-49 Prop. 89 L (2019–2020) punkt 8.9.4.
-50 Ibid.
-51 Ibid.
-52
-Ibid.
-46
-
-Ot.prp. nr. 71 (2008–2009) punkt 5.4.
-Universitets- og høyskoleloven § 3-6 første ledd.
-55 For eksempel årsstudium i Norsk språk og kultur for internasjonale studenter (NORINT) ved Universitetet i Tromsø,
-Norsk for internasjonale studenter på Universitetet i Oslo,
-og diverse norskkurs på Universitetet i Bergen for blant
-annet innvandrere og internasjonale studenter.
-56 Lidén mfl. 2014.
-57 Østberg mfl. 2006.
-58
-Lidén mfl. 2014: side 8-9.
-54
+## Gjeldende rett
+
+### Barnevernslovens forhold til Haagkonvensjonen 1996
+
+Barnevernsloven gjelder med de begrensninger som følger av folkeretten, jf. barnevernsloven § 1-2 femte ledd. Barnevernstjenesten er bundet av konstitusjonelle og menneskerettslige forpliktelser som sikrer barn rett til hjelp, omsorg og beskyttelse når foreldrene svikter, men er samtidig forpliktet av konvensjoner og folkerettslig sedvanerett som begrenser barnevernslovens virkeområde og mulighetene for å iverksette beskyttelsestiltak overfor barn som har tilknytning til andre land. Dette omfatter blant annet avtaler om internasjonalt samkvem og respekt for andre lands territoriale suverenitet.[^1560] En sentral konvensjon er Haagkonvensjonen 1996 som gir regler om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn.
+
+Haagkonvensjonen 1996 gjelder for beskyttelsestiltak rettet mot barn under 18 år i form av rettslige eller administrative avgjørelser om foreldreansvar, fast bosted, samvær, vergemål, plasseringer i fosterhjem og institusjon, samt forvaltning av barnets formue, jf. artikkel 1, 2 og 3. Barnevernstiltak rettet mot barn under 18 år, som for eksempel omsorgsovertakelse og fratakelse av foreldreansvar og hjelpetiltak overfor foreldrene, er dermed omfattet av konvensjonen. Barnevernstiltak som er rettet mot unge over 18 år, faller utenfor.
+
+Regler om jurisdiksjon innenfor Haagkonvensjonssamarbeidet er gitt i konvensjonens kapittel 2. Den grunnleggende tanken bak reglene om jurisdiksjon er at det bare er myndighetene i én konvensjonsstat som har jurisdiksjon, og at jurisdiksjonsspørsmål skal avgjøres på et objektivt grunnlag.[^1561] Når norske myndigheter har jurisdiksjon over det aktuelle forholdet, vil beskyttelsestiltakene som treffes her kunne anerkjennes og fullbyrdes i andre konvensjonsland.
+
+Hovedregelen er at det er myndighetene i konvensjonslandet hvor barnet har sitt vanlige bosted («habitual residence») som har jurisdiksjon til å treffe tiltak for å beskytte barnets person eller formue, jf. konvensjonens artikkel 5 nr. 1. Bestemmelsen bygger på det folkerettslig aksepterte domisil-prinsippet, som innebærer at rettsforholdet skal bedømmes etter lovgivning i landet hvor den berørte har bopel (domisil), uten hensyn til om vedkommende er statsborger i et annet land. Jurisdiksjonen følger som utgangspunkt barnet dersom barnet flytter til en annen konvensjonsstat, jf. artikkel 5 nr. 2.
+
+Et viktig unntak fra hovedregelen i artikkel 5 gjelder i tilfeller der barnet ulovlig bortføres eller tilbakeholdes i et annet land, jf. konvensjonens artikkel 7. Dersom barnet er ulovlig bortført fra Norge eller tilbakeholdes ulovlig i et annet land, beholder norske myndigheter jurisdiksjon inntil barnet får vanlig bosted i et annet land. Barnevernstjenesten kan i slike tilfeller treffe beskyttelsestiltak overfor barnet uten hinder av artikkel 5 nr. 2. Unntaket gjelder også tilfeller der beskyttelsestiltaket blir truffet av barnevernstjenesten etter at barnet har reist fra Norge, og foreldrene tilbakeholder barnet i strid med beskyttelsestiltaket.[^1562] Et annet unntak følger av artikkel 11 og 12, og innebærer at barnets oppholdsland kan treffe hastevedtak og midlertidige vedtak overfor barnet, til tross for at barnet har sitt vanlige bosted i en annen stat. Hva som utgjør «hastesaker», er ikke definert nærmere i konvensjonen. Det er opp til myndighetene i det aktuelle konvensjonslandet å avgjøre om vilkåret er oppfylt i forbindelse med behandling av konkrete saker. Et klart eksempel vil være dersom barnet blir utsatt for uopprettelig skade ved å la være å gripe inn.
+
+I de tilfeller der barnets vanlige bosted ikke lar seg fastsette, er det barnets oppholdsland som har jurisdiksjon, jf. konvensjonen artikkel 6 nr. 2. Dette kan blant annet være tilfellet der et barn reiser alene eller er forlatt, og det er vanskelig å finne bevis for å avklare hvor barnet har vanlig bosted.[^1563] Et annet tilfelle er der barnet har mistet sitt tidligere vanlige bosted, men det er ikke tilstrekkelige bevis for at barnet har oppnådd nytt vanlig bosted i en annen stat.[^1564] Jurisdiksjon etter artikkel 6 nr. 2 opphører på det tidspunkt det slås fast at barnet har vanlig bosted i en annen stat.[^1565]
+
+I nærmere angitte tilfeller kan jurisdiksjon overføres mellom konvensjonsland, jf. konvensjonens artikkel 8 og 9. Artiklene gir adgang til å overføre jurisdiksjon i konkrete saker når myndighetene som har jurisdiksjon, anser at et annet konvensjonslands myndighet er bedre egnet til å vurdere barnets beste.[^1566] Formålet med disse reglene er å legge til rette for at enhver sak skal kunne behandles i den staten som er best egnet til å ivareta barnets interesser, og der saken best kan opplyses, barnet høres og barnets beste vurderes.[^1567] Norske myndigheter kan i medhold av artikkel 9 be om å få overført jurisdiksjon til seg der barnet ikke har vanlig bosted her, men norske myndigheter anser seg for å være bedre egnet til å vurdere barnets beste i det aktuelle tilfellet. Det er en forutsetning at barnet har en form for tilknytning til Norge, for eksempel gjennom å være norsk statsborger eller har formue i Norge, jf. artikkel 9 nr. 1, jf. artikkel 8 nr. 2.
+
+Utenfor konvensjonssamarbeidet fastsettes jurisdiksjonen utelukkende etter barnevernsloven, og fullbyrdelsen av beskyttelsestiltaket vil avhenge av gjeldende lovgivning i barnets oppholdsland.
+
+### Barnevernslovens virkeområde og barnets vanlige bosted
+
+Barnevernsloven § 1-2 regulerer lovens virkeområde og skal tolkes i lys av jurisdiksjonsregler etter Haagkonvensjonen 1996. Bestemmelsen viderefører barnevernloven 1992 §§ 1-2 og 1-3 med enkelte språklige presiseringer.[^1568] Forarbeidene til den tidligere barnevernloven er derfor relevante for gjeldende barnevernslov.
+
+I utgangspunktet gjelder barnevernsloven for barn som oppholder seg i Norge. Barnevernslovens § 1-2 tredje ledd fastsetter hvilke tiltak som kan treffes overfor barn *som oppholder seg i utlandet*. Lovens § 1-2 tredje ledd lyder:
+
+For barn som oppholder seg i en annen stat og har sitt vanlige bosted i Norge, kan det treffes vedtak om omsorgsovertakelse etter § 5-1 og plassering på barnevernsinstitusjon etter § 6-2. Det kan også treffes vedtak om hjelpetiltak etter § 3-1 og pålegg om hjelpetiltak etter § 3-4 når foreldrene oppholder seg i Norge.
+
+Et sentralt tilknytningsbegrep i bestemmelsen er «vanlig bosted». Så lenge barnet har «vanlig bosted» i Norge, vil barnevernstjenesten kunne treffe vedtak om omsorgsovertakelse etter lovens § 5-1, vedtak om plassering på institusjon etter § 6-2, hjelpetiltak etter § 3-1 og pålegg om hjelpetiltak etter § 3-4 hvis foreldrene oppholder seg i Norge. Utenfor faller akuttiltak etter barnevernsloven kapittel 4, herunder akuttvedtak om omsorgsovertakelse. Barn som verken oppholder seg eller har vanlig bosted i Norge, faller utenfor barnevernslovens virkeområde. Innenfor Haagkonvensjonssamarbeidet vil barnevernstjenesten ikke kunne treffe beskyttelsestiltak etter barnevernsloven, med mindre den ber om å få overført jurisdiksjon etter Haagkonvensjonen artikkel 9 eller dersom andre unntak etter Haagkonvensjonen er til stede.
+
+Begrepet «vanlig bosted» ble innført i barnevernsloven i forbindelse med vedtakelsen av lov om Haagkonvensjonen 1996, og er ment å være en oversettelse av «habitual residence» som brukes i konvensjonen.[^1569] De utgangspunktene som gjelder for tolkingen av «habitual residence» i Haagkonvensjonen 1996, vil derfor også gjelde for tolkingen av begrepet «vanlig bosted» i barnevernsloven. Hva som ligger i begrepet «habitual residence», er ikke definert i Haagkonvensjonen 1996 eller i lov om Haagkonvensjonen 1996. Begrunnelsen for dette er at barnets bosted skal fastsettes konkret av myndighetene i konvensjonsstatene i den enkelte sak.[^1570] Vurderingen skal gjøres i lys av konvensjonens formål og skal ikke avhenge av formaliteter i den enkelte konvensjonsstat.[^1571]
+
+I forarbeidene til lov om Haagkonvensjonen 1996 framgår det at barnets vanlige bosted vil være der barnet etter en konkret og samlet vurdering har «sentrum for sine livsinteresser»:
+
+Begrepet \[vanlig bosted\] er autonomt og den konkrete vurderingen vil blant annet måtte ta hensyn til konvensjonens formål og sammenhengen vurderingen foretas i. Siden hensynet til rettsenhet og forutberegnelighet er viktig, vil det også være relevant å se hen til hvordan begrepet tolkes i andre konvensjonsstater. Det vil være av avgjørende betydning for vurderingen hvor personen faktisk bor ‘til vanlig’. I tillegg må det stilles et visst krav til lengden på oppholdet. Ikke ethvert midlertidig opphold et sted fører til at personen har fått vanlig bosted der. Et skoleopphold på inntil et år vil for eksempel antakelig ikke være nok til å si at personen har vanlig bosted i landet. Som et utgangspunkt vil en persons vanlige bosted være der personen etter en samlet vurdering har sentrum for sine livsinteresser.[^1572]
+
+I forbindelse med arbeidet med ny barnevernslov mente enkelte instanser at innholdet i begrepet «vanlig bosted» burde tydeliggjøres.[^1573] Departementet foreslo ikke å regulere innholdet i bostedsbegrepet nærmere, og viste til at «vanlig bosted» er en oversettelse av tilknytningskravet «habitual residence», som følger av Haagkonvensjonen 1996 sine jurisdiksjonsregler. Departementet uttalte videre at:
+
+Som et utgangspunkt vil et barns vanlige bosted være der barnet etter en samlet vurdering har sentrum for sine livsinteresser. Det er de faktiske omstendighetene i saken som er avgjørende. I tvilstilfeller kan intensjonen for oppholdet vektlegges. Relevante momenter i vurderingen vil være barnets tilknytning til landet, varigheten av oppholdet, familiens tilknytning og tilhørighet og barnets nettverk.[^1574]
+
+Vurderingen gjøres konkret hvor en rekke momenter inngår, og det er ikke mulig å angi eksakt når barnets vanlige bosted anses å ha gått over til et annet land. Barnet må ha en stabil tilknytning til landet, men det kreves ikke at barnet er norsk statsborger.[^1575] Det er barnets, ikke foreldrenes, faktiske tilknytning til Norge som er avgjørende for hvor barnet kan sies å ha vanlig bosted.[^1576]
+
+Høyesterett uttaler i HR-2022-207-A at EU-domstolen har oppsummert tolkingen av begrepet «habitual residence» i dom 9. oktober 2014 i sak C-376/14 PPU (avsnitt 51 og 52), og at oppsummeringen var dekkende for forståelsen av vanlig bosted i Haagkonvensjonen 1996. I den nevnte dommen uttaler EU-domstolen (dansk oversettelse):
+
+I disse domme har Domstolen desuden udtalt, at barnets sædvanlige opholdssted \[engelsk: habitual residence\] skal fastslås af den nationale ret ud fra en helhedsvurdering af de særlige faktiske omstændigheder i den konkrete sag \[…\]. Domstolen har i denne henseende fastslået, at der foruden barnets fysiske tilstedeværelse i en medlemsstat skal lægges vægt på andre faktorer, som kan påvise, at denne tilstedeværelse på ingen måde er af midlertidig eller tilfældig karakter, og at barnets opholdssted svarer til det sted, som afspejler en vis familiemæssig og social tilknytning for barnet \[…\].
+
+Domstolen har fastslået, at der med henblik herpå bl.a. skal tages hensyn til opholdets varighed, regelmæssighed, vilkårene og baggrunden for opholdet på en medlemsstats område og for familiens flytning hertil, til barnets statsborgerskab, stedet og vilkårene for barnets skolegang, dets sprogkundskaber og barnets familiemæssige og sociale relationer i nævnte stat \[…\]. Domstolen har endvidere fastslået, at det kan pege i retning af en flytning af barnets sædvanlige opholdssted, hvis forældrene eller en af forældrene har til hensigt at tage fast bopæl i en anden medlemsstat sammen med barnet, idet denne hensigt kan fremgå af visse ydre omstændigheder, f.eks. at forælderen køber eller lejer en bolig i denne medlemsstat \[…\].[^1577]
+
+Høyesterett mente at dette var beskrivende for innholdet i barnevernsloven § 1-2.
+
+### Tiltak som kan treffes når barnet har vanlig bosted i Norge, men oppholder seg i utlandet
+
+Barnevernstjenesten har plikt til å gjennomgå bekymringsmeldinger og åpne undersøkelsessak på vanlig måte i saker der barn med vanlig bosted i Norge oppholder seg i en annen stat, jf. barnevernsloven § 2-1, jf. § 1-2.[^1578] Det er imidlertid visse begrensninger for hvilke tiltak barnevernstjenesten kan treffe i saken.
+
+Dersom barnet har vanlig bosted i Norge, men oppholder seg i en annen stat, kan barnevernstjenesten blant annet treffe vedtak om omsorgsovertakelse etter § 5-1 og plassering på barnevernsinstitusjon etter § 6-2, jf. barnevernsloven § 1-2 fjerde ledd. Et vedtak om omsorgsovertakelse skal i utgangspunktet iverksettes så snart som mulig, og faller bort dersom det ikke er iverksatt innen seks uker fra vedtakstidspunktet, jf. barnevernsloven § 5-2 første ledd første og andre punktum. At et vedtak er iverksatt vil si at barnet er plassert i et fosterhjem eller institusjon. Nemndlederen kan forlenge fristen når særlige grunner tilsier det, jf. tredje punktum. Dette kan tenkes aktuelt der barnet befinner seg i utlandet og det er vanskelig å bringe barnet tilbake til Norge. I tilfeller der et barn bortføres fra barnevernstjenesten til en annen stat, slik at vedtaket ikke lar seg gjennomføre, består vedtaket i ett år forutsatt at barnet er meldt bortført i henhold til barnevernsloven § 5-2 andre ledd.
+
+Omsorgsovertakelse når barnet oppholder seg i et annet land, men fortsatt har vanlig bosted i Norge, kan være aktuelt i saker der barnevernstjenesten har fått opplysninger om at barnet er utsatt for eller risikerer å bli utsatt for tvangsekteskap, kjønnslemlestelse, vold og mishandling eller annen alvorlig omsorgssvikt. Begjæring om omsorgsovertakelse etter § 5-1 må sendes barneverns- og helsenemnda som treffer beslutningen, jf. barnevernsloven § 14-8. Det bør i slike tilfeller særlig innhentes opplysninger fra ambassaden dersom denne har hatt samtaler og kontakt med barnet eller den unge. Videre kan det være relevant å innhente informasjon fra skole og andre offentlige instanser barnet hadde kontakt med *før* utreisen, da det kan belyse forhold knyttet til utenlandsoppholdet. Der den unge er over 15 år, må det avklares hvorvidt barnet ønsker partsrettigheter, jf. § 14-9 første ledd bokstav h, jf. § 12-3 annet ledd.
+
+Der foreldrene holder barnet tilbake i utlandet *etter* at det er truffet et lovlig vedtak om omsorgsovertakelse, vil en etterfølgende tilbakeholdelse av barnet være ulovlig, selv om utreisen med barnet var lovlig på utreisetidspunktet. Sak HR-2022-207-A gjaldt et foreldrepar som reiste til England med sine barn straks etter at kommunen hadde varslet dem om at det ville bli reist sak om omsorgsovertakelse. Barneverns- og helsenemnda traff vedtaket om omsorgsovertakelse to måneder senere, men foreldrene nektet å innrette seg etter avgjørelsen og ble værende i England. Høyesterett la til grunn at barna hadde vanlig bosted i Norge da vedtaket om omsorgsovertakelse ble truffet. Selv om foreldrene reiste lovlig ut av Norge, mente Høyesterett at avgjørelsen om omsorgsovertakelse var bindende for foreldrene, med den konsekvens at den etterfølgende tilbakeholdelsen var ulovlig:
+
+(70) Et omsorgsovertakelsesvedtak som treffes under norsk jurisdiksjon, er bindende for alle involverte. Vedtaket ‘skal settes i verk så snart som mulig’, jf. barnevernloven § 4-13 første punktum. Det må derfor anses ulovlig etter norsk rett å hindre iverksettelsen av vedtaket. Om iverksettelsen hindres ved å holde det aktuelle barnet skjult i Norge eller ved å holde barnet utenfor norske myndigheters rekkevidde i utlandet, kan etter norsk rett ikke spille noen rolle.
+
+(71) Partene er uenige om straffeloven § 261 rammer tilbakeholdelsen i England. Jeg finner ikke grunn til å gå nærmere inn på bestemmelsens rekkevidde. Tilbakeholdelsen trenger ikke være straffbar for å være ulovlig – ‘wrongful’ – i konvensjonens forstand.[^1579]
+
+Barnevernstjenestens kompetanse til å treffe vedtak innebærer ikke kompetanse til å iverksette vedtaket, for eksempel gjennom å fysisk hente barnet hjem. Barnevernstjenesten må forholde seg til suverenitetsprinsippet og territorialprinsippet, og kan derfor bare iverksette tiltak på andre lands territorier når det foreligger samtykke til det fra myndighetene i barnets oppholdsland.[^1580]
+
+Dersom barnet i utlandet har vanlig bosted i Norge, og foreldrene oppholder seg her, kan norsk barnevern i tillegg treffe vedtak om hjelpetiltak etter § 3-1 og pålegg om hjelpetiltak etter § 3-4, jf. barnevernsloven § 1-2 tredje ledd andre punktum. Regelendringen kom med ny barnevernslov og begrunnes slik i Prop. 133 L (2020–2021):
+
+Når barnevernstjenesten kan fremme sak om omsorgsovertakelse, bør den også kunne prøve ut mindre inngripende tiltak i samarbeid med foreldrene. Dette er i tråd med minste inngreps prinsipp og godt barnevernsfaglig arbeid. Å forsøke hjelpetiltak for å få barnet hjem, kan bidra til at situasjonen ikke eskalerer og at det ikke blir behov for mer inngripende tiltak på sikt. \[…\] Det er foreldrene som har omsorgsansvaret for barnet og som i utgangspunktet kan bestemme hvor barnet skal bo. Å arbeide med foreldrene kan derfor være et effektivt tiltak for å hjelpe barnet hjem og et tiltak som bør benyttes før det tas i bruk tvangstiltak. Samtidig er det i noen situasjoner foreldrene selv som har sendt barnet til utlandet, og som er grunnen til at barnet har særlig behov for hjelp. Dette kan gjøre det krevende for barnevernstjenesten å motivere foreldrene til å motta hjelp fra barnevernstjenesten eller andre norske myndigheter som kan bidra til å få barnet hjem. Departementet mener imidlertid det er viktig at slike saker forsøkes løst i samarbeid med foreldrene, jf. også lovutkastet § 1-9. Barnevernstjenesten bør gå i dialog med foreldrene og informere om hva slags hjelp barnevernet eller andre tjenester kan bistå med. Dette kan også gi bedre grunnlag for å hjelpe barnet og foreldrene når barnet returnerer til Norge.[^1581]
+
+Barnevernstjenesten kan ikke treffe vedtak om midlertidig plassering utenfor hjemmet (akuttvedtak) overfor barn som ikke oppholder seg i Norge, jf. § 1-2 fjerde ledd. I forarbeidene ble det lagt til grunn at staten der barnet oppholder seg er nærmest til å vurdere barnets behov og å treffe akuttvedtak. Det ble videre vist til at reglene for akuttvedtak er utformet for situasjoner der barnet oppholder seg i Norge.[^1582] Er barnet i en akuttsituasjon i et annet land, kan barnevernstjenesten henvende seg til myndighetene i det landet barnet oppholder seg og anmode dem om å treffe midlertidige beskyttelsestiltak og hastevedtak, jf. Haagkonvensjonen artikkel 36. (Det må antas at dette særlig gjelder i saker der barnet oppholder seg i en annen konvensjonsstat. I saker utenfor konvensjonssamarbeidet kan det være utfordrende å henvende seg til andre lands myndigheter, men der det er mulig, bør det forsøkes. Dette må bero på en konkret vurdering, se for øvrig punkt 31.2.6 om barnevernets varslingsplikt når barnet oppholder seg i utlandet.) Barnevernstjenesten kan også forberede og tilrettelegge for hjelpetiltak som kan iverksettes når barnet kommer tilbake til Norge. Begge deler forutsetter at dette ikke utsetter barna for større risiko enn det allerede befinner seg i.
+
+### Anerkjennelse og fullbyrdelse av barnevernets beskyttelsestiltak
+
+Når det er truffet vedtak om omsorgsovertakelse etter barnevernsloven § 5-1 overfor et barn som oppholder seg i utlandet, må barnevernet i utgangspunktet be oppholdslandet om å anerkjenne og fullbyrde vedtaket. Anerkjennelse og fullbyrdelse av barnevernets tiltak avhenger av flere forhold, blant annet hva slags beskyttelsestiltak det dreier seg om og om barnet befinner seg i et land som har ratifisert Haagkonvensjonen 1996.
+
+Når barnet oppholder seg i et land som har sluttet seg til Haagkonvensjonen 1996
+
+Når barnet oppholder seg i et land som har sluttet seg til Haagkonvensjonen 1996, er hovedregelen at barnevernstjenestens tiltak blir anerkjent uten videre, og at det ikke er nødvendig å ta rettslige skritt for at tiltaket skal få virkning og iverksettes i oppholdslandet, jf. artikkel 23 nr. 1 i konvensjonen.[^1583]
+
+Hvis jurisdiksjon er basert på barnevernstjenestens vurdering av vanlig bosted, kan ikke oppholdslandet som mottar anmodning om iverksetting av tiltaket foreta en fornyet undersøkelse av fakta som norske myndigheter bygget sin vurdering på.[^1584] Det skal heller ikke gjøres en fornyet vurdering av barnevernstjenestens skjønn utover det som er nødvendig for å fastsette hvorvidt det er en grunn til å nekte anerkjennelse.[^1585]
+
+I visse tilfeller kan anerkjennelse av barnevernstjenestens tiltak nektes av barnets oppholdsland. Haagkonvensjonen artikkel 23 nr. 2 inneholder en uttømmende liste over disse tilfellene. Blant annet gjelder dette dersom barnevernstjenesten ikke hadde jurisdiksjon i saken etter Haagkonvensjonens regler i kapittel 2, eller dersom tiltaket, unntatt i hastesaker, er truffet uten at barnet er gitt anledning til å uttale seg og dette er i strid med grunnleggende saksbehandlingsregler i den anmodede stat. Anerkjennelse kan også nektes etter anmodning fra forelder med foreldreansvar som gjør gjeldende at tiltaket er et inngrep i vedkommendes foreldremyndighet når tiltaket, unntatt i hastesaker, er truffet uten at vedkommende er gitt anledning til å uttale seg.
+
+Enhver person med rettslig interesse kan anmode de kompetente myndighetene i en konvensjonsstat om å ta stilling til om et tiltak truffet i en annen konvensjonsstat skal anerkjennes eller ikke, jf. artikkel 24. Den nærmere prosedyren for dette reguleres av loven i landet som behandler anmodningen. En forelder som er uenig i barnevernets tiltak om omsorgsovertakelse, kan dermed anmode myndighetene i barnets oppholdsland om å ta særskilt stilling til anerkjennelsesspørsmålet.
+
+Når barnet oppholder seg i et land utenfor konvensjonssamarbeidet
+
+Dersom barnet oppholder seg i et land som ikke har ratifisert Haagkonvensjonen 1996, som ofte er tilfellet i saker der barn er etterlatt i utlandet mot sin vilje, vil virkemidlene for å få barnet returnert til Norge være få. Dette gjelder uavhengig av om barnets vanlige bosted anses å være i Norge. Norske myndigheter kan anmode myndighetene i barnets oppholdsland om bistand til fullbyrdelse, men den videre prosessen vil avhenge av om det er hjemmel for fullbyrdelse av utenlandske vedtak i oppholdslandets nasjonale regelverk. Til sammenlikning anerkjennes ikke utenlandske vedtak i Norge uten særskilt hjemmel. Slik særskilt hjemmel er blant annet Haagkonvensjonen 1996.
+
+### Barnevernets varslingsplikt når barnet oppholder seg i utlandet
+
+Barnevernstjenesten har plikt til å sørge for at myndighetene i barnets oppholdsland blir varslet dersom barnet er i alvorlig fare, og kan be det aktuelle landet om å vurdere beskyttelsestiltak. Plikten følger av Haagkonvensjonen 1996 artikkel 36 og gjelder uavhengig av om barnets bosted har gått over til et annet land, og uavhengig av om oppholdslandet er medlem av konvensjonssamarbeidet eller ikke.[^1586] «Alvorlig fare» kan for eksempel dreie seg om alvorlig sykdom som krever konstant behandling, narkotikaproblemer eller usunn påvirkning av en sekt.[^1587]
+
+Underretning fra barnevernstjenesten sendes via Bufdir, som er norsk sentralmyndighet for saker etter Haagkonvensjonen 1996, og kontaktpunkt for barnevernstjenestene i alle barnevernssaker på tvers av landegrenser.[^1588] Bufdir skal videresende bekymringsmeldingen til sentralmyndigheten i barnets nye bostedsland dersom dette er et konvensjonsland, og til Utenriksdepartementet dersom barnets nye bostedsland er utenfor konvensjonssamarbeidet.
+
+Melding kan *unnlates* dersom opplysningene kan sette barnets person eller formue i fare, eller utgjøre en alvorlig trussel mot friheten eller livet til et medlem av barnets familie, jf. Haagkonvensjonen 1996 artikkel 37. I saker om negativ sosial kontroll, der et barn er utsatt for skadelige forhold og oppholder seg mot sin vilje i et land, kan det være særlig viktig å være oppmerksom på denne unntaksregelen.
+
+## Andre lands rett
+
+### Danmark
+
+Barnets lov trådte i kraft 1. januar 2024.[^1589] Lovens formål er å tilby barn og unge under 18 år og deres familier råd, hjelp og støtte for å forebygge sosiale problemer, jf. § 1 nr. 1.
+
+Lovens virkeområde er regulert i barnets lov § 4. I bestemmelsens stk. 1 framgår det at enhver som oppholder seg lovlig i Danmark og som omfattes av § 1 (om lovens formål), har rett på hjelp og støtte etter loven, uavhengig av foreldrenes oppholdsstatus. I forarbeidene er det imidlertid presisert at det vil være nødvendig at vedtak truffet overfor barnet uten samtykke fra forelder med foreldreansvar også treffes overfor forelderen, ettersom avgjørelsen vil kunne utgjøre et inngrep i foreldrenes rettigheter, herunder retten til privat- og familieliv.[^1590]
+
+Vilkåret om lovlig opphold i Danmark, innebærer at personen må fysisk oppholde seg i Danmark og også må ha et lovlig oppholdsgrunnlag. Ved vurderingen av om en utlending har lovlig opphold i barnets lovs forstand, vil det bli lagt vekt på om vedkommende har lovlig opphold i henhold til utlendingsloven.[^1591] I den grad det er behov for ytterligere hjelp eller støtte utover det barnets lov omfatter, vil det være Utlendingsstyrelsen som godkjenner og bærer kostnaden for dette.
+
+Danmark gjennomførte Haagkonvensjonen 1996 gjennom i lov om Haagerbørnebeskyttelseskonventionen, og konvensjonens bestemmelser om jurisdiksjon er dermed bindende for Danmark også.[^1592] Det er presisert i barnets lov § 4 stk. 2 at dansk barnevern kan fatte vedtak om omsorgsovertakelse for barn og unge som *oppholder seg i utlandet*, når kommunalbestyrelsen har fått jurisdiksjonen overført til seg i medhold av artikkel 8 og 9 i Haagkonvensjonen 1996. Bestemmelsen ble tatt inn i loven for å tydeliggjøre at det i slike situasjoner skal treffes avgjørelser etter samme regler som i rent danske omsorgsovertakelsessaker, uten hinder av kravet om lovlig opphold i Danmark etter lovens § 4 stk. 1.[^1593] Sosial- og boligministeren kan for øvrig fastsette regler om behandlingen av saker som omfattes av Haagkonvensjonen 1996, jf. barnets lov § 155.
+
+I forarbeidene til barnets lov § 4 bemerkes det at danske myndigheter kun kan treffe avgjørelse etter barnets lov hvis danske myndigheter har jurisdiksjon etter Haagkonvensjonen 1996.[^1594] Hvor barnet har sitt vanlig bosted («sædvanlig opholdssted»), er sentralt i denne sammenhengen. I forarbeidene til bestemmelsen framgår følgende om begrepet «barnets sædvanlige opholdssted»:
+
+Ved ‘barnets sædvanlige opholdssted’ forstås barnets eller den unges bopæl, dvs. det sted, hvor barnet eller den unge har sit hjem, hvor barnets eller den unges ejendele i almindelighed befinder sig, og hvor barnet eller den unge opholder sig, når barnet eller den unge ikke af særlige grunde opholder sig et andet sted, f.eks. på grund af sygdom, ferie eller studierejse. Det er således udgangspunktet, at et barn eller en ung har bopæl i Danmark, hvis barnets eller den unges tilknytning hertil er mindst ligeså stærk som til udlandet. Det er dog muligt at have bopæl i mere end én stat. Det beror således på en konkret vurdering, om et barn eller en ung har bopæl i Danmark i konventionens forstand.[^1595]
+
+I forarbeidene framgår det også at hvis barnet eller den unge, under behandlingen av en sak om omsorgsovertakelse eller plassering på institusjon, flytter fra Danmark og «tager bopæl» i en annen konvensjonsstats, mister danske myndigheter kompetanse til å fortsette behandlingen av saken, og myndighetene skal avslutte saken.[^1596] Kommunalbestyrelsen vil likevel fortsatt ha mulighet til å anmode om overførsel av kompetanse etter reglene i artikkel 8 og 9. Der barnet bosetter seg i en stat som Danmark ikke samarbeider med etter konvensjonen, «skal myndighederne afslutte sagen, idet der ikke er hjemmel i serviceloven eller anden dansk lovgivning til at fortsætte behandlingen af sagen».[^1597]
+
+Social- og boligministeren kan fastsette regler om ytelser til personer som oppholder seg midlertidig i utlandet og vilkårene for dette, jf. lovens § 4 stk. 3. Videre fastsetter lovens § 4 stk. 4 at barnevernet etter avtale med andre stater eller internasjonale organisasjoner, kan gis mulighet til å yte hjelp til behandling eller pleie mv. av lengre varighet etter barnets lov til barn og unge som har spesiell tilknytning til landet, men som ikke er bosatt i Danmark på søknadstidspunktet. Disse reglene omtales ikke nærmere her.
+
+### Sverige
+
+I Sverige er barnevernets arbeid og kompetanse dels regulert i Socialtjänstlag (2001:453), forkortet SoL, og dels i Lagen med särskilda bestämmelser om vård av unga (1990:52), forkortet LVU. Årsaken til at bestemmelser om barnevernet finnes i sosiallovgivningen er at ulike problemer i familien skal kunne behandles på en helhetlig måte. Etter disse lovene er det offentlige pålagt plikter framfor at den enkelte er gitt rettigheter.
+
+SoL regulerer sosiale tjenester rettet mot barn og unge som settes inn etter avtale med barnet eller hans foreldre. Særskilte bestemmelser om barn og unge er gitt i 5 kap., 6 kap. (vård utanför det egna hemmet), og 11 kap. (om saksbehandling). LVU utfyller SoL i situasjoner der det settes inn tvangstiltak, herunder plassering utenfor hjemmet, uten samtykke fra barnets foreldre eller barnet selv når det er fylt 15 år, jf. LVU 1 §.
+
+Som hovedregel er det kommunen der den enkelte bor som har det overordnede ansvaret for å gi den enkelte støtte og bistand, jf. SoL 2 kap. 1 § og 2 a kap. 1 §.
+
+I saker som gjelder barn som har med tilknytning til andre land, plikter svenske domstoler og myndigheter på eget initiativ å undersøke om de har jurisdiksjon til å treffe avgjørelser i saken. Det avgjørende i vurderingen er om barnet er «hemvist» (har vanlig bosted) i Sverige.[^1598] Barnets «hemvist» bedømmes dels på bakgrunn av svenske interne jurisdiksjonsbestemmelser, dels på grunnlag reglene om internasjonal jurisdiksjon, særlig Brussel II-forordningen og Haagkonvensjonen av 1996. Utenriksdepartementet er sentral myndighet for Brussel II-forordningen og Haagkonvensjonen av 1996. Departementet bistår sosialtjenesten i internasjonale saker, i samarbeid med ambassader, konsulater i utlandet og politiet.
+
+Barnets «hemvist» opphører ikke når vedkommende oppholder seg midlertidig i utlandet dersom hensikten er å returnere til Sverige. Svenske myndigheter kan derfor fatte bestemte typer avgjørelser når barnet oppholder seg i utlandet. Under visse forutsetninger kan barnet plasseres i utlandet på frivillig basis med hjemmel i SoL 6 kap. 11 b §. Tvangsvedtak om akuttplassering utenfor hjemme kan fattes i medhold av LVU 4 og 6 §§, selv om barnet oppholder seg i utlandet, forutsatt at barnet har «hemvist» i en svensk kommune og barnets foreldre fortsatt bor i Sverige. Barnet må imidlertid tilbakeføres til Sverige for at et vedtak fra LVU skal kunne iverksettes.
+
+### Nederland
+
+Framstillingen av nederlandsk rett omtales detaljert da det også har betydning for de vurderingene utvalget gjør i kapittel 32 om midlertidig verge til barn utsatt for ufrivillig utenlandsopphold. Informasjon om nederlandsk rett er dels innhentet fra nederlandske myndigheter, og dels gjennom relevante kilder[^1599] og sekretariatets samtaler med Diny Flierman, leder ved det nederlandske kompetansesenteret om tvangsekteskap og etterlatelse i utlandet (Landelijk Knooppunt Huwelijksdwang en Achterlating).
+
+Myndighet over mindreårige
+
+Alle mindreårige er underlagt myndighet («gezag») etter den nederlandske sivilrettsboken (Burgerlijk Wetboek, BW) artikkel 1: 245 nr. 1. Denne myndigheten kan være utøvd av foreldrene eller av en oppnevnt verge.[^1600] Myndighet innebærer at en mindreårig har ikke rettslig evne til å handle på egne vegne, med mindre noe annet følger av særlovgivningen, eller den mindreårige er gitt tillatelse fra foreldre eller verge.[^1601] Mindreårige som har fylt 16 år, kan reise sak for en domstol for å løsrive seg fra foreldremyndigheten, slik at visse rettslige fullmakter er overført fra forelderen til barnet ved rettskjennelse.[^1602] Disse fullmaktene er imidlertid begrenset, og strekker seg ikke lenger enn å gi den mindreåriges rettslige handleevne til å motta sin inntekt og disponere over den, eller til å inngå leieavtaler og utleieavtaler, eller delta som partner i næringsvirksomhet og å drive profesjonell praksis eller virksomhet.
+
+Nederlandsk lovgivning skiller ikke mellom vergeansvaret, omsorgsansvaret og foreldreansvaret. Disse ulike beføyelsene hører til myndighet («gezag») over barnet, som er et samlebegrep som omfatter både omsorgsansvar for barnet, vergeansvar og det som faller inn under foreldreansvaret etter norsk rett.[^1603] Når myndigheten over barnet utøves av foreldrene, kalles dette foreldremyndighet («ouderlijk gezag»).[^1604] Foreldremyndighet omfatter blant annet foreldrenes rett og plikt til å ta vare på og oppdra barnet, ta ansvar for barnets psykiske og fysiske velferd og sikkerhet og fremme utviklingen av dets personlighet.[^1605] Foreldrene kan ikke bruke psykisk eller fysisk vold eller bruke annen nedverdigende behandling overfor barnet.[^1606] Begrepet «voogdij» benyttes om foreldremyndighet når det utøves av andre enn forelderen, for eksempel en verge fra en oppnevnt sertifisert ungdomsvernsbyrå.[^1607]
+
+Når den som er satt under vergemål er myndig, brukes begrepet «curatele».[^1608] Curatele omfatter oppgaver som etter norsk rett er regulert i vergemålsloven kapittel 4 (vergemål for voksne).
+
+Bekymringsmeldinger og undersøkelser
+
+Alle som har bekymring for barnets situasjon hjemme, for eksempel lærere, naboer, familiemedlemmer eller fagpersoner, kan sende bekymringsmelding til *the Advice and Reporting Centre for Domestic Violence and Child Maltreatment* (AMHK), også kalt «Safe Home». AMHK er et lavterskeltilbud som gir generell råd og veiledning, gjennomgår bekymringsmeldinger og foretar forundersøkelser for å kartlegge barnets situasjon.
+
+AMHK samarbeider tett med politiet, barnevernsmyndigheter, påtalemyndighet og andre relevante aktører. Etter at de har foretatt sine undersøkelser, kan AMHK bestemme: 1) å henvise saken til sosiale tjenester i lokal kommune (2) å tilby oppfølgning gjennom nye tiltak, eller (3) henvise saken til barnevernsrådet («de raad voor de kinderbescherming»)[^1609] dersom det er grunnlag for å igangsette en videre undersøkelse.[^1610]
+
+Barnevernsrådet gjennomfører undersøkelsen og kan foreslå hvilke tiltak som er nødvendige i saken. Rådet har imidlertid ikke kompetanse til selv å beslutte tiltak. Begjæring om tiltak sendes til ungdomsdomstolen («juvenile court»), som har kompetanse til å beslutte at tiltaket skal iverksettes overfor barnet og familien. Rådet kan gi råd til domstolen om hvilke tiltak som trengs, men ungdomsdomstolen er ikke bundet av disse anbefalingene.
+
+Ungdomsdomstolen kan treffe tilsynsordre etter artikkel 1: 255, som kan kombineres med plassering utenfor hjemmet ved behov.[^1611] Når foreldrene er gitt tilsynsordre, begrenses foreldrenes myndighet over barnet. Denne myndigheter blir delvis overtatt av en verge («youth protector») fra en sertifisert institusjon. Foreldrene beholder den daglige omsorgen for barnet, men er forpliktet til å følge råd fra vergen. Tilsynsordre kan også kombineres med plassering utenfor hjemmet, og foreldrene kan da ikke lenger utøve omsorg for barnet. Tilsynsordre er midlertidig og varer maksimalt i ett år, men den kan forlenges inntil barnet fyller 18 år ved behov.[^1612] Når det foreligger akutt fare for barnet, kan tilsynsordre og en midlertidig plassering utenfor hjemme iverksettes umiddelbart (hastetiltak), jf. artikkel 1: 257. Hastetiltak varer inntil tre måneder.
+
+Ungdomsdomstolen kan også treffe avgjørelser innenfor foreldremyndighet, og/eller beslutte å frata foreldrene foreldremyndighet og å oppnevne en midlertidig verge («youth protector») som utøver myndighet over barnet. Dette følger av artikkel 1: 266. Domstolen kan avslutte foreldremyndigheten når foreldrene misbruker sin myndighet overfor barnet, eller når barnets utvikling er i alvorlig fare og foreldrene ikke kan være ansvarlig for å oppdra og å utøve omsorg for barnet. Domstolen kan også suspendere foreldremyndigheten, delvis eller helt, for en begrenset tidsperiode.[^1613] Dette tiltaket kan vare i opptil tre måneder. Foreldrene er vanligvis involvert under høringen om suspensjon av foreldreansvaret. Foreldrene har rett til å anke avgjørelsen, og de gis økonomisk bistand til rettshjelp i forbindelse med saken, avhengig av deres inntekt og eventuelle forsikringer.
+
+Når ungdomsdomstolen har truffet sin avgjørelse om å iverksette tiltak, enten i form av tilsynsordre eller suspensjon av foreldreansvar, overføres saken til et sertifisert ungdomsvernbyrå.[^1614] Et sertifisert ungdomsvernsbyrå er en juridisk enhet som har tillatelse til å gjennomføre barneverntiltak eller ungdomsprøvetid, jf. ungdomsloven («jeugdwet») artikkel 1.1. Sertifiserte ungdomsbyråer og deres ansatte må oppfylle en rekke kvalitetskrav, og det føres steng tilsyn med dem.[^1615] Verger oppnevnes fra sertifiserte institusjoner og fungerer som saksledere. Sammen med familien utarbeider vergen en plan for å følge opp barnet og sørge for at barnet får beskyttelse, omsorg og en trygg utvikling. Vergen kan også bestemme hva slags oppfølgning barnet trenger, men kan ikke utøve omsorgen selv. Omsorgsoppgaver er overlatt til andre institusjoner.
+
+Barn som er etterlatt i utlandet under skadelige forhold
+
+I Nederland ligger det overordnede ansvaret for å følge opp personer som er utsatt for ufrivillige utenlandsopphold til kunnskaps- og kompetansesenteret *The National Expertise Centre on Forced Marriage and Abandonment (LKHA)*.[^1616] Senteret ble etablert i 2015 med formål om å samle det fragmenterte hjelpetilbudet for de utsatte, utvikle kunnskap om fenomenet, og håndtere komplekse saker om ufrivillige utenlandsopphold og tvangsekteskap.
+
+Senterets hovedoppgave er å gi informasjon, råd og støtte til fagpersoner som arbeider med saker om tvangsekteskap og ufrivillige utenlandsopphold. Senteret har tett samarbeid med Utenriksdepartementet når ofrene befinner seg i utlandet. I tillegg samarbeider senteret med blant annet det nederlandske nasjonale ekspertsenteret om æresmotivert vold (LEC EGG), barnevernstjenesten, utlendingsmyndighetene, sentralmyndighetene for Haagkonvensjonen 1996 og frivillige organisasjoner.
+
+Når kompetansesenteret LKHA får opplysninger om at et barn kan være etterlatt i utlandet, igangsetter de en undersøkelse av barnets faktiske forhold. Undersøkelsen tar sikte på å finne ut blant annet hvordan barnets situasjon i oppholdslandet er, om barnet bor sammen med omsorgspersoner, om foreldrene fortsatt har kontakt med barnet og forsørger barnet og om barnet har informasjon om oppholdets varighet og utsikter for retur til Nederland. Dersom kompetansesenteret LKHA vurderer barnets situasjon som tilfredsstillende, henlegges undersøkelsen. Dersom det er opplysninger i saken som tilsier behov for å hjelpe barnet, for eksempel hvis barnet vurderes å være etterlatt i utlandet og foreldrene ikke utøver omsorg for barnet eller det er fare for barnets liv og utvikling, begynner kompetansesenteret arbeidet med å få barnet tilbakeført til Nederland. Kompetansesenteret undersøker i denne forbindelsen hvorvidt foreldrene kan samarbeide om barnets retur, og eventuelt om en av foreldrene er villig til å bistå barnet med å returnere.
+
+Framgangsmåten i saken varierer, avhengig av hvordan kompetansesenteret vurderer barnets situasjon og de konkrete forholdene i saken. Regelverket tilbyr en rekke mulige løsninger, men effektiviteten av den valgte løsningen avhenger av hvorvidt den kan gjennomføres i praksis.
+
+Hvis den ene forelderen ønsker barnet tilbake, forsøker kompetansesenteret å bistå forelderen med å igangsette en barnebortføringssak. Forelderen som ønsker barnet tilbake, får rettshjelp og bistand til å melde barnet bortført, og gis støtte og gratis juridisk rådgivning for å bidra til å få barnet tilbake.
+
+I de tilfeller der ingen av foreldrene ønsker at barnet returnerer til Nederland, involverer kompetansesenteret barnevernsrådet. Barnevernsrådet kan etter anbefaling fra kompetansesenteret reise sak for ungdomsdomstolen for å få barnet tilbakeført til Nederland. Det er to alternative handlingsmuligheter som kan begjæres gjennomført av ungdomsdomstolen:
+
+- Å ilegge foreldrene tilsynsordre kombinert med pålegg om å hente barnet tilbake. Hvis pålegget ikke etterleves, kan foreldrene bøtelegges.
+
+- Å suspendere foreldremyndigheten og oppnevne midlertidig verge (sertifisert ungdomsvernsbyrå) som kan hente barnet mot foreldrenes vilje. Når det er nødvendig for å hindre akutt og alvorlig trussel mot den mindreårige, kan retten gi midlertidig vergemål/myndighet som iverksettes umiddelbart og utsette å informere foreldrene. I så fall holdes det høring av barnet og foreldrene innen to uker.
+
+Kompetansesenteret ved lederen Diny Flierman har opplyst at suspensjon av foreldremyndighet ofte er å foretrekke fordi tiltaket kan iverksettes umiddelbart, særlig når det er fare for at foreldrene kommer til å skjule barnet eller motarbeide tiltaket på annen måte. Vergen kan be retten utstede nødpass for barnet og kan reise til barnets oppholdsland for å hente barnet mot foreldrenes vilje. I forkant av domstolsbehandling har kompetansesenteret utarbeidet en gjennomføringsplan for hvordan barnet skal hentes, reiseruten, flybilletter og bestemt hvor barnet skal bo ved retur til Nederland. Planen settes i verk straks dommeren har suspendert foreldremyndigheten og oppnevnt verge. Suspensjon av foreldremyndighet og oppnevnelse av verge er midlertidig og varer maksimalt tre måneder. Ved behov kan tiltaket forlenges, for eksempel dersom barnevernsrådet ber om forlengelse, og retten anser det som nødvendig av hensyn til barnets sikkerhet. Den oppnevnte vergen får ikke omsorgsansvar for barnet, og det er ikke alltid barnet plasseres utenfor hjemmet ved retur. Dette vurderes konkret, avhengig av forholdene i saken.
+
+Unge mellom 16 og 17 år kan be domstolen om tillatelse for å gjennomføre reisen uten forelderens samtykke. Barnevernsrådet kan også be retten om å vurdere saken på vegne av unge mellom 16 og 17 år når dette er nødvendig av hensyn til den unges sikkerhet.
+
+Avgjørelser om tilsynsordre, suspensjon av foreldremyndighet og oppnevnelse av vergemål, forutsetter at nederlandske domstoler har jurisdiksjon i saken. Kompetansesenteret ved Diny Flierman har opplyst at nederlandske domstoler som regel har jurisdiksjon, så fremt barnet er folkeregistrert i Nederland og foreldrene bor i Nederland. I utgangspunktet må sak reises innen tre måneder etter at barnet forlot Nederland, for at nederlandske domstolene kan ha jurisdiksjon. Dersom saken er reist senere, vurderer dommeren jurisdiksjonsspørsmålet konkret før det tas stilling til om foreldremyndigheten kan suspenderes.
+
+Gjennomføringsplanen avhenger av samarbeidet med lokale myndigheter i oppholdslandet. Utenriksstasjonene bistår i dette arbeidet. Det gjøres i praksis ikke et skille mellom saker der barnet oppholder seg i et land innenfor eller utenfor Haagssamarbeidet. Kompetansesenteret forsøker å få avgjørelsen om midlertidig vergemål anerkjent av lokale myndigheter i oppholdslandet. Når oppholdslandets lovgivning ikke anerkjenner avgjørelser om midlertidig vergemål fra nederlandske myndigheter, vurderer kompetansesenteret og barnevernsrådet andre tiltak. Dette kan for eksempel være gjennom å be retten ilegge foreldrene tilsynsordre og pålegg om å hente barnet. Kompetansesenteret i samarbeid med barnevernsrådet forsøker også mekling med foreldrene og gir veiledning og bistand der foreldrene trenger det for å kunne gjennomføre returreisen.
+
+I noen saker legges det press på foreldrene gjennom å bøtelegge dem for brudd på opplæringsplikten etter opplæringsloven. I alle skoler er det oppmøteansvarlig («school attendance officer») som registrerer fraværer og melder fra dersom et barn ikke møter opp. Dersom foreldrene ikke legger fram bevis på at barnet mottar tilstrekkelig opplæringstilbud i oppholdslandet, kan de bøtelegges, med mindre de henter barnet tilbake. Selv om regelverket muliggjør en slik løsning, er erfaringer fra Nederland at dette tiltaket ikke brukes så mye i praksis.
+
+Kompetansesenteret ved Diny Flierman har opplyst at utenlandske borgere som har gyldig oppholdstillatelse likestilles med nederlandske borgere når det gjelder kompetansesenterets arbeid med barnets retur. Når kompetansesenteret begynner sine forundersøkelser av barnets situasjon, gir de beskjed til utlendingsmyndighetene om å stille saken i bero inntil barnets situasjon er avklart. Dersom kompetansesenteret mener at barnet er etterlatt i utlandet mot sin vilje og bør hentes hjem, unnlater utlendingsmyndighetene å tilbakekalle barnets tillatelse inntil barnet er tilbake i Nederland. Ved retur kan barnet søke om ny oppholdstillatelse på grunnlag av mishandling.

@@ -1,700 +1,530 @@
-# NOU 2024: 13, del 47 av 47 (side 523–531)
+# NOU 2024: 13, del 47 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 523]
-
-NOU 2024: 13
-Lov og frihet
-
-§ 258 Grov menneskehandel
-Grov menneskehandel straffes med fengsel
-inntil 10 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om
-den som ble utsatt for handlingen var under 18
-år, om det ble brukt grove midler, jf. § 257 første ledd bokstav a) til h), om det er tale om grov
-utnyttelse, og om handlingen har medført betydelig utbytte. Den som var uvitende om at fornærmede var under 18 år, straffes hvis han på
-noe punkt kan klandres for sin uvitenhet.
-
-3.4
-
-Kommentarer til bestemmelsen om
-kriminalisering av menneskehandel
-
-3.4.1
-Innledning
-Kriminaliseringsforpliktelsen i PP omfatter tre
-grunnleggende elementer; et handlingselement,
-et middelelement, og et formålselement (se LG
-avsnitt 87, 90, 97 og 115). Forslaget til ny § 257 første ledd er bygget opp om disse tre grunnelementene. I punkt 1.3.4.2 til 1.3.4.4 gjøres det noen presiseringer av elementenes funksjon og innhold.
-I punkt 1.3.4.5 til 1.3.4.10 gjøres noen øvrige
-presiseringer av forståelsen av straffebudet.
-3.4.2
-Handlingselementet
-PP artikkel 3(a) angir hvilke handlinger som skal
-inngå i kriminaliseringen av menneskehandel:
-«the recruitment, transfer, harbouring or receipt
-of persons.» Det foreslås derfor at handlingslementet i bestemmelsens første ledd formuleres
-som «(d)en som rekrutterer, transporterer, overfører, huser eller etterfølgende mottar en person».
-Termen rekruttering refererer til «the act of
-drawing a person into a process and can involve a
-multitude of methods, including orally, through
-advertisements, or online through the internet. In
-transnational cases, recruitment can involve activities in the country of origin, of transit or of destination, for example, involving legal or semi-legal
-private recruitment agencies», se LG avsnitt 91.
-Det er sentralt å merke seg at verken ordlyden i
-PP, LG eller andre rettskilder taler for å begrense
-handlingene til bakmannsvirksomhet. Termene
-skal, som ellers i strafferetten, fastlegges ut fra en
-naturlig, objektiv språkforståelse. Den som rammes, er den som trekker en person inn i en posisjon som fornærmet. For eksempel vil den som
-rekrutterer personer som man selv vil utnytte,
-rammes av rekrutteringsalternativet. Fullbyrdet
-overtredelse av menneskehandelsbestemmelsen
-
-521
-
-Vedlegg 1
-
-foreligger også selv om personen ikke kommer så
-langt som til å starte utnyttelsen.
-Transportalternativet omfatter enhver handling som forflytter fornærmede fra et sted til et
-annet. Også transport innenfor landegrensene
-omfattes, se LG avsnitt 93.
-Å overføre kan også være transport, «but can
-also mean the handing over of effective control
-over a person to another. This is particularly
-important in certain cultural environments where
-control over individuals (mostly family members)
-may be transferred to other people», se LG avsnitt
-94.
-Som eksempel på å huse en person kan nevnes
-«to accommodating a person at the point of departure, transit, or destination, before or at the place
-of exploitation, or it may refer to steps take to conceal a person’s whereabouts. Harbouring can also
-be understood to mean holding a person», se LG
-avsnitt 95.
-Etterfølgende mottak av en person, er den
-som mottar personen fra den som overfører eller
-transporterer vedkommende. LG avsnitt 96 uttaler at alternativet
-may refer to the arrival of the person, the meeting of a person at an agreed place, or the gaining of control over a person. It can also
-include receiving persons into employment or
-for the purposes of employment, including forced labour. Receipt can also apply to situations
-in which there was no preceding process, such
-as inter-generational bonded labour or where a
-working environment changes from acceptable
-to coercively exploitative.
-
-Ut fra ovenstående er det, som nevnt, ikke treffende å begrense kriminaliseringen til det som
-kan benevnes som bakmannshandlinger. Det kan
-være samme person som dekkes av handlingselementene, middelelementene og formålselementene. Det er heller ikke mulig å avgrense kriminaliseringen til personer som benytter seg av mennesker som er utsatt for menneskehandel. Som
-det framgår i avsnittet ovenfor, er det tale om
-«etterfølgende mottak» for den som mottar personer, som skal utnyttes til tvangsarbeid. Det
-samme vil gjelde de øvrige formålselementene,
-for eksempel den som mottar en person for å
-utnytte personen til prostitusjon eller til seksuelle
-formål. Derimot vil ikke den som kjøper enkeltstående seksuelle tjenester av en person som har
-vært utsatt for menneskehandel normalt omfattes,
-da vedkommende ikke «etterfølgende mottar»
-personen. Et annet tilfelle som ikke rammes av
-
-[Side 524]
-
-522
-
-Vedlegg 1
-
-NOU 2024: 13
-Lov og frihet
-
-bestemmelsen, er en person som kjøper enkeltstående arbeidstjenester av en person som vedkommende vet at er blitt utsatt for menneskehandel.
-Her må det presiseres at den som mottar personen til eksempelvis tvangsarbeid eller tvangstjenester, naturligvis omfattes av mottakselementet.
-Å huse arbeidere som er utsatt for menneskehandel vil således kunne omfattes, men ikke kjøp av
-enkeltstående håndverkstjenester.
-
-3.4.3
-Middelelementet
-PP artikkel 3(a) krever som et minimum at følgende midler omfattes av kriminaliseringen av
-menneskehandel: «the threat or use of force or
-other forms of coercion, of abduction, of fraud, of
-deception, of the abuse of power or of a position of
-vulnerability or of the giving or receiving of payments or benefits to achieve the consent of a person having control over another person.» Fellestrekket her er at straffebestemmelsen skal ramme
-nærmere beskrevne midler som benyttes av menneskehandleren for å oppnå handlingselementene.
-I forslaget til straffebestemmelse benyttes formuleringen «hvor det brukes eller er blitt brukt»
-nærmere bestemte midler. Grunnen er at middelelementet ikke er begrenset til midler som fornærmede blir utsatt for. For eksempel kan det
-være fornærmedes foresatte som er blitt forledet
-eller utnyttet til å utføre handlinger som dekkes av
-handlingselementene. Det kan også være at familiemedlemmer er blitt truet med vold hvis de ikke
-sørger for at fornærmede blir utsatt for
-handlinger som dekkes av handlingselementene,
-se LG avsnitt 98.
-Vi har vurdert å innta konkrete henvisninger
-til de straffebud som dekker de ulike midlene
-brukt ved menneskehandel, men er kommet til at
-det ikke er tilrådelig. Grunnen er at ordlyden
-både ved angivelsen av middelelementene og formålselementene vil svulme opp, og bli uoversiktlig. Vi vil i det følgende presisere hvilken
-atferd som rammes av hvert av formålselementene.
-Med «trusler», «frihetsberøvelse» og «tvang»
-menes atferd som omfattes av dagens kriminaliseringer i henholdsvis straffeloven §§ 263, 254 og
-251.
-«Vold» refererer seg til PPs formulering «use
-of force». Direkte oversatt må med «force» forstås
-makt. Etter vår vurdering, må enhver form for
-bruk av fysisk vold som er kriminalisert i straffeloven kapittel 25 omfattes. Seksuallovbrudd i straffeloven kapittel 26 omfattes også.
-
-«Misbruk av stilling, avhengighetsforhold
-eller tillitsforhold» er ment å dekke PPs formulering «abuse of power». Alternativet skal forstås på
-samme måte som samme formulering i straffeloven § 295 første ledd bokstav a.
-«Forledelse» er ment å dekke PPs formuleringer «fraud» og «deception». LG avsnitt 101 sier følgende om disse alternativene:
-In some contexts, «fraud» and «deception» are
-synonymous. In some legal systems, however,
-there are differences between these terms.
-Deception can be understood to mean words or
-conduct that cause someone to believe something that is false. Fraud, on the other hand, can
-be understood to mean deceiving someone
-with the intent of depriving the person deceived of something. Because the definition of
-trafficking in persons uses both the terms
-deception and fraud, it can be inferred that this
-reflects an intention that they were meant to
-address different things.
-
-Vi mener at forledelse skal forstås på samme måte
-som «svik» i avtaleretten, eksempelvis avtaleloven
-§ 30. Svik innebærer å lure noen. En viljeserklæring, for eksempel at man gir et tilbud eller aksepterer en annens tilbud, sies å være gitt med svik
-når en av partene har gitt bevisst uriktige opplysninger. Også det å fortie kjensgjerninger av
-vesentlig betydning er svik, og da forledelse i
-straffebestemmelsens forstand.
-«Utnyttelse av sårbar situasjon» refererer seg
-til PPs formulering «abuse of a position of vulnerability». I LG avsnitt 103 er sårbar situasjon definert som
-a condition resulting from how individuals
-negatively experience the complex interaction
-of social, cultural, economic, political, and
-environmental factors that create the context
-for their communities. As such, vulnerability is
-not a static, absolute state, but one that changes according to context as well as to the capacity for individual response. A response to vulnerability therefore needs to take into account
-the external conditions of an individual as well
-as the coping mechanisms that enable the individual to protect him- or herself against a negative impact from those external conditions.
-
-LG avsnitt 105 nevner at sårbarhet
-may relate to a person’s physical or mental
-disability. Situational vulnerability may relate to
-
-[Side 525]
-
-NOU 2024: 13
-Lov og frihet
-
-a person being irregularly in a foreign country
-in which he or she is socially or linguistically
-isolated. Circumstantial vulnerability may
-relate to a person’s unemployment or economic destitution.
-
-For ytterligere presiseringer av sårbarhetsalternativet vises det til LG avsnitt 103-110.
-Alternativet «gi eller motta betaling eller fordeler for å oppnå samtykke av personer som har
-kontroll over en annen person» implementerer
-PPs formulering «giving or receiving payments or
-benefits to acheive the consent of a person having
-control over another person». Om alternativet sies
-det følgende i LG avsnitt 114:
-The notion of «having control over another person» can be established as a matter of fact. For
-example, a parent may have control over a
-child, a prison guard may have control over an
-inmate, or a kidnapper may have control over
-their victim. The giving of the benefit must be
-linked to obtaining consent of the person in
-control of the victim; for example, the payment
-of a sum of money to a parent in order to transport their child in order to exploit them. Furthermore, state authorities have also been known
-to accept financial compensation or other benefits in exchange for handing over individuals
-under their control to the traffickers.
-
-3.4.4
-Formålselementet
-PP artikkel 3 (2) angir at det overordnede formålet med menneskehandel er utnyttelse («exploitation»). Videre slås det fast: «Exploitation shall
-include, at a minimum, the exploitation of the prostitution of others or other forms of sexual exploitation, forced labour or services, slavery or
-practices similar to slavery, servitude or the removal of organs.»
-Vi foreslår å innta disse utnyttelsesformålene i
-nytt straffebud om menneskehandel i § 257.
-Dagens kriminalisering har ikke med «slaveri og
-slaverilignende forhold». Selv om slike formål ofte
-vil omfattes av tvangsarbeid eller tvangstjenester,
-er det ikke gitt at det alltid vil være tilfellet. Nærmere presiseringer av innholdet i begrepene er
-gjort i LG avsnitt 133-138. I tillegg til PP, er det
-krav til en slik kriminalisering i europarådskonvensjonen. GRETA har påpekt denne mangelen i
-den norske menneskehandelsbestemmelsen ved
-flere anledninger.
-Dagens kriminalisering rammer «seksuelle
-ytelser». Vi foreslår en formulering som er nær-
-
-523
-
-Vedlegg 1
-
-mere ordlyden i PP; utnyttelse til seksuelle formål.
-«Tigging» er ikke et utnyttelsesformål som er
-nevnt i PP artikkel 3. I dagens § 257 er tigging
-nevnt som et utnyttelsesformål, og da som et
-eksempel på tvangsarbeid eller tvangstjenester, jf.
-ordlyden «tvangsarbeid eller tvangstjenester, herunder tigging». Å sette likhetstegn mellom tvangsarbeid og tvungen tigging er i samsvar med LG
-avsnitt 156, hvor det uttales:
-While not explicitly mentioned in the Protocol,
-forced begging may be interpreted as a form of
-forced labour or services. Where a child is
-required to beg (either by parents, or by an
-adult or by the institution where the child studies or resides, in return for upkeep and under
-the menace of penalty), it would be considered
-as forced child labour. This is also the approach
-followed in Directive 2011/36/EU of the European Parliament and of the Council of 5 April
-2011 on preventing and combating trafficking
-in human beings and protecting its victims,
-which notes in its recital 11 that «forced begging should be understood as a form of forced
-labour or services as defined in the 1930 ILO
-Convention No. 29 concerning Forced or
-Compulsory Labour.»
-
-Som nevnt ovenfor i punkt 3.2 foreslår vi at
-«tvangsekteskap» inntas som et utnyttelsesformål.
-Et spørsmål som melder seg, er om også
-andre utnyttelsesformål bør inntas i straffeloven
-§ 257. Ved denne vurderingen framgår det av LG
-avsnitt 163: «How a State Party chooses to define
-exploitation is a matter of their domestic law, but
-attention should be had to ensuring that it focusses on serious forms of criminal conduct and not
-to encompass less serious forms of conduct that
-may be more appropriately addressed through
-other legal mechanisms (e.g., labour law violations).»
-I EUs direktiv om forebygging og bekjempelse
-av menneskehandel,4 fortalen avsnitt 11 uttales:
-«The expression ‘exploitation of criminal activities’ should be understood as the exploitation of a
-person to commit, inter alia, pick-pocketing, shoplifting, drug trafficking and other similar activities
-which are subject to penalties and imply financial
-gain.» For å fange opp de alvorligste utnyttelses4
-
-Directive 2011/36/EU of the European Parliamant and of
-the Council of 5 April 2011 on preventing and combating
-trafficking in human beings and protecting its victims, and
-replacing Council Framework Decision 2002/629/JHA.
-
-[Side 526]
-
-524
-
-Vedlegg 1
-
-NOU 2024: 13
-Lov og frihet
-
-formålene, foreslår vi at følgende inntas som
-utnyttelsesformål: «å begå straffbare handlinger».
-Denne løsningen er valgt i dansk rett.
-
-3.4.5
-
-Menneskehandel med barn som
-fornærmet
-Ifølge PP artikkel 3 (c) skal menneskehandel med
-barn som fornærmet kriminaliseres uavhengig
-hvilket middel som er benyttet. Artikkel 3 (d) definerer personer under 18 år som barn. Vi mener at
-dette bør komme klart og utvetydig frem i straffebestemmelsen, se andre ledd.
-Vi tilråder at barneekteskap inntas som et
-utnyttelsesformål i menneskehandelbestemmelsen, se punkt 3.2 ovenfor. Siden barneekteskap
-gjelder inngåelse av ekteskap med person under
-18 år, inntas formålet i andre ledd.
-3.4.6
-
-Kriminalisering av organisatorer og
-bakmenn mv.
-Det framgår av PP artikkel 5 (2)(c) at statene er
-forpliktet til å kriminalisere følgende atferd:
-«Organizing or directing other persons to commit
-an offence established in accordance with paragraph 1 of this article.» Nr. 1 oppstiller den generelle kriminaliseringsforpliktelsen («Each State
-Party shall adopt such legislative and other measures as may be necessary to establish as criminal
-offences the conduct set forth in article 3 of this
-Protocol, when committed intentionally.»)
-LG avsnitt 176 presiserer følgende om kriminaliseringsforpliktelsen:
-States Parties to the Protocol are further obliged to criminalize organizing or directing other
-persons to commit the offence. Subparagraph
-(c) thus extends criminal liability to persons
-who plan or oversee trafficking in persons from
-a distance. The terms ‘organizing’ and ‘directing other persons’ are not defined in the Protocol, allowing for certain flexibility in
-domestic legislation. Organizing may be captured under general party liability provisions
-whereas directing someone may not. As such,
-a stand-alone offence that focusses on directing
-another person to commit trafficking in persons may be necessary in domestic law. Where
-applicable, States Parties should refer to the
-way these forms of criminal liability are established in their domestic systems and ensure
-that they apply to offences established pursuant to this article.
-
-Norge er altså forpliktet til å kriminalisere personer som i ulike bakmannsroller får andre personer til å begå menneskehandel. I norsk strafferett
-anses bakmannsvirksomhet ofte ikke som en
-overtredelse av straffebudet. I stedet blir det
-straff for medvirkning. Som eksempel kan nevnes
-at Andenæs/Rieber-Mohn/Sæther skriver: «Etter
-omstendighetene kan det være grunn til å straffe
-medvirkeren strengere enn hovedmannen – et
-eksempel er bakmannsvirksomhet ved de mest
-alvorlige narkotikalovbruddene».5
-Etter vårt syn bør personer som har ulike bakmannsroller til menneskehandel ikke rammes
-som medvirkere, men som overtredere av straffebudet. Grunnen er at bakmannsvirksomhet
-regelmessig er en nødvendig forutsetning for at
-andre personer gjør seg skyld i menneskehandel.
-Videre er det ikke sjelden bakmennene som er
-den sentrale årsaken (nødvendige betingelsen) til
-at menneskehandel skjer. Det er jevnt over også
-bakmennene som tjener mest på den kriminelle
-virksomheten. Det er da naturlig å anse bakmannsvirksomhet som fullbyrdet overtredelse av
-straffebudet, og ikke medvirkning til at personer
-de kontrollerer overtrer første eller andre ledd. Vi
-foreslår derfor å kriminalisere bakmannsvirksomhet som en selvstendig overtredelse av straffebudet, se forslaget til tredje ledd.
-For å ramme ulike modaliteter av bakmannsvirksomhet forslår vi å kriminalisere den som
-«organiserer, styrer, har ansvar for, kontrollerer
-eller planlegger at andre begår» menneskehandel.
-I tillegg til de typiske organisatorene i organisert
-kriminalitet, vil den som kontrollerer, planlegger
-eller tilskynder at andre begår handlinger som
-anses som menneskehandel straffes for menneskehandel. I tillegg til de typiske organisatorene vil
-den som etterspør og tilskynder at personer bringes inn i en utnyttelsessituasjon rammes av tredje
-ledd. Vi ser det slik at den virksomhet som de tiltalte utviste i HR-2020-2136-A og HR-2020-2137-A
-ville blitt straffet etter tredje ledd. De tiltalte var
-her anstiftere til at barna ble utsatt for seksuell
-utnyttelse av andre personer på Filipinene. De
-organiserte og/eller planla og tilskyndet at andre
-begikk menneskehandel ved at de aktivt
-etterspurte barn for seksuelle formål. De som
-stod for utføringen av overgrepene rekrutterte
-barna ved misbruk av overmaktsforhold for å
-utnytte barna til seksuell utnyttelse.
-5
-
-Johs. Andenæs: Alminnelig strafferett, 6. utgave ved Georg
-Fredrik Rieber-Mohn og Knut Erik Sæther Oslo 2016 s.
-329.
-
-[Side 527]
-
-NOU 2024: 13
-Lov og frihet
-
-Det understrekes at tredje ledd inntas for særlig å gjøre menneskehandelsbestemmelsen mer
-effektiv for å ramme de som bidrar til at mennesker rekrutteres og utnyttes seksuelt på digitale
-plattformer.
-
-3.4.7
-Samtykke er ikke straffrihetsgrunn
-Det framgår av PP artikkel 3(b): «The consent of a
-victim of trafficking in persons to the intended
-exploitation set forth in subparagraph (a) of this
-article shall be irrelevant where any of the means
-set forth in subparagraph (a) have been used.»
-LG avsnitt 146-147 sier følgende om betydningen av samtykke i saker om menneskehandel:
-Article 3 paragraph (b) of the Protocol states
-that the consent of the victim of trafficking in
-persons to the intended exploitation shall be
-irrelevant where any of the means (such as
-force, coercion, fraud) have been used. The
-Trafficking in Persons Protocol does not,
-however, say that the use of means invalidates
-or damages consent. During the negotiations
-of the text of the Trafficking in Persons Protocol, most delegations agreed that the consent
-of the victim should not, as a matter of fact, be
-relevant to whether the victim had been «trafficked», i.e., should not be an issue in determining whether or not the crime of trafficking
-had been established. This is borne out by the
-definition and the corresponding requirement
-to criminalize the conduct described in Article
-3. Trafficking in persons is not defined by an
-absence of consent on the part of the victim; by
-contrast, crimes like assault of sexual assault,
-require proof of the non-consensual application
-of force … The drafters of the Protocol were
-highly conscious of the danger that consent
-would become the first line of defence for those
-accused of trafficking offences, most particularly in cases where victims may have consented to certain conduct that may be linked to
-the commission of the crime. For example,
-they may have consented to travel to another
-location or to have engaged in a particular type
-of work but were unaware of the intended
-exploitation. This danger was considered particularly acute because the Protocol seeks to
-capture more subtle means of control that
-could be masked by apparent consent. In cases
-where the victim consented to the intended
-exploitation, this fact should not be used to
-defend or excuse the crime. This is because
-both the definition of trafficking in persons in
-
-525
-
-Vedlegg 1
-
-article 3 and the obligation to criminalize it, in
-article 5, make clear that consent has no bearing on establishing whether or not trafficking
-in persons occurred.
-
-Hva gjelder barn, har de ikke mulighet til å gi et
-samtykke, se LG avsnitt 148.
-Det foreslås derfor at det inntas i § 257 fjerde
-ledd: «Fornærmedes, verges eller foresattes samtykke til menneskehandel fritar ikke for straff.»
-
-3.4.8
-Kriminalisering av forsøk
-Det følger av PP artikkel 5 (2)(a) at statene er forpliktet til å kriminalisere «attempting to commit»
-menneskehandel slik beskrevet i artikkel 3. Forpliktelsen gjelder «subject to the basic concepts of
-the legal system of the State Party». Det framgår
-av LG avsnitt 173 at bestemmelsen her anerkjenner at ulike stater i ulik grad, og på ulike måter,
-kriminaliserer forsøk.
-Vi finner på denne bakgrunn at forsøk bør kriminaliseres på samme måte som i norsk rettstradisjon, hvor forsøk på overtredelse generelt er kriminalisert i straffeloven § 16. Rekkevidden av kriminaliseringen av forsøk vil følge de linjer som er
-utviklet i praksis ved tolkingen av § 16. Vi nevner
-at LG avsnitt 172 gir følgende eksempel:
-A charge of attempt would be pertinent, for
-example, in a situation where an individual,
-who was supposed to receive trafficked victims
-in a receiving State, fails to do so either
-because such victims escaped or because she
-or he was arrested in the interim. Generally,
-establishing that someone attempted to
-commit a crime requires evidence that the traffickers engaged in more than merely preparatory activity with the intent to commit the illicit
-conduct.
-
-Etter vår vurdering er dette i samsvar med hva
-som vil bli ansett som straffbart forsøk etter § 257,
-jf. § 16.
-
-3.4.9
-Kriminalisering av medvirkning
-PP artikkel 5 (2)(b) slår fast at statene er forpliktet til å kriminalisere «[p]articipating as an
-accomplice» i menneskehandel, slik beskrevet i
-artikkel 3. Om implementeringen av kriminaliseringsforpliktelsen uttales det i LG avsnitt 175:
-States Parties to the Protocol are further obliged to criminalize participating as an
-
-[Side 528]
-
-526
-
-Vedlegg 1
-
-NOU 2024: 13
-Lov og frihet
-
-accomplice to commit the offence. The terms
-‘participation’ and ‘accomplice’ are not defined
-in the Protocol, allowing for certain flexibility
-in domestic legislation. The point, however, is
-to ensure that States Parties criminalize the
-actions of those who assist the principal offender in the commission of trafficking in persons
-offences. Generally, party liability is found
-where the party engages in certain acts with
-the purpose of assisting the principal to commit
-the crime. Those who assist in the commission
-of offences are typically liable to conviction for
-those offences, rather than of a stand-alone
-offence, though in some cases this conduct
-may be addressed through separate offences.
-States Parties should refer to the way these
-forms of criminal liability are established in
-their domestic systems and ensure that they
-apply to offences established pursuant to this
-article.
-
-Vi mener at straffelovens kriminalisering av medvirkning etter § 15 ivaretar forpliktelsen til å kriminalisere medvirkning. Det er ikke tilrådelig å
-bryte den grunnleggende systematikken med et
-generelt medvirkningstillegg som får anvendelse
-på alle straffbare handlinger (med mindre annet
-framgår), og innta egne regler om medvirkning i
-§ 257.
-Det er presisert ovenfor at personer som har
-ulike bakmannsroller til menneskehandel ikke
-rammes som medvirkere, men som overtredere
-av straffebudet, jf. tredje ledd. Grunnen er at bakmannsvirksomhet regelmessig er en nødvendig
-forutsetning for at andre personer gjør seg skyld i
-menneskehandel. Videre er det ikke sjelden bakmennene som er den sentrale årsaken (nødvendige betingelsen) til at menneskehandel skjer. Det
-er jevnt over også bakmennene som tjener mest
-på den kriminelle virksomheten. Det er da naturlig å anse bakmannsvirksomhet som overtredelse
-av straffebudet, og ikke medvirkning til at personer de kontrollerer overtrer første eller andre
-ledd. Vi foreslår derfor å kriminalisere bakmannsvirksomhet som en selvstendig overtredelse av straffebudet, se forslaget til tredje ledd.
-Dagens § 257 første og andre ledd har slik formulering:
-Den som ved vold, trusler, misbruk av sårbar
-situasjon eller annen utilbørlig atferd tvinger,
-utnytter eller forleder en person til
-a. prostitusjon eller andre seksuelle ytelser,
-b. tvangsarbeid eller tvangstjenester, herunder tigging,
-
-c. krigstjeneste i fremmed land, eller
-d. å samtykke i fjerning av et av vedkommendes indre organer,
-straffes for menneskehandel med fengsel inntil
-6 år.
-På samme måte straffes den som
-a. legger forholdene til rette for slik tvang,
-utnyttelse eller forledelse som nevnt i første
-ledd ved å anskaffe, transportere eller
-motta personen,
-b. på annen måte medvirker til tvangen, utnyttelsen eller forledelsen, eller
-c. gir betaling eller annen fordel for å få samtykke til en slik handlemåte fra en person
-som har myndighet over den fornærmede,
-eller som mottar slik betaling eller fordel.
-Det framgår av forarbeidene at andre ledd
-«omhandler de handlinger som FN-protokollen
-forplikter statene til å kriminalisere – typiske bakmannshandlinger i menneskehandelen og medvirkning» (Ot.prp. nr. 62 (2002–2003) s. 98. Se
-også s. 63-64.
-Etter vår vurdering, er andre ledd unødvendig
-hvis forslaget til ny kriminalisering av menneskehandel gjennomføres. Som nevnt ovenfor, omfattes følgende handlinger som overtredelse av første ledd: «Den som rekrutterer, transporterer,
-overfører, huser eller etterfølgende mottar en person hvor det brukes eller er blitt brukt…» nærmere angitte midler. Når det gjelder bokstav a) og
-b) i dagens kriminalisering, er det klart at det som
-her angis, enten er kriminalisert i forslaget til ny
-bestemmelse første ledd, eller som medvirkning
-til overtredelse av første ledd, jf. straffeloven § 15.
-Andre ledd bokstav c) kriminaliserer i dag den
-som «gir betaling eller annen fordel for å få samtykke til en slik handlemåte fra en person som har
-myndighet over den fornærmede, eller som mottar slik betaling eller fordel.» Slike handlinger er
-kriminalisert i forslaget til ny § 257. For det første
-ved formuleringen «hvor det brukes eller er blitt
-brukt» nærmere angitte midler. Middelelementet
-er ikke begrenset til midler som fornærmede blir
-utsatt for. For eksempel kan det være fornærmedes foresatte som er blitt forledet eller utnyttet til
-å utføre handlinger som dekkes av handlingselementene. Det kan også være at familiemedlemmer er blitt truet med vold hvis de ikke sørger for
-at fornærmede blir utsatt for handlinger som dekkes av handlingselementene, se ovenfor punkt
-3.4.3. For det annet er det etter forslaget også kriminalisert å medvirke til handlinger «hvor det er
-blitt brukt» de angitte midlene, jf. straffeloven
-§ 15. For eksempel vil den som medvirker til at
-
-[Side 529]
-
-NOU 2024: 13
-Lov og frihet
-
-det er blitt utøvd vold eller tvang mot fornærmedes foresatte, rammes av kriminaliseringen. På
-dette punktet går kriminaliseringen sannsynligvis
-noe lengre enn dagens kriminalisering.
-
-3.4.10
-
-Forsett som hovedskyldform, med unntak
-av fornærmedes alder
-Det framgår av LG avsnitt 179: «At a minimum,
-only intentional conduct needs to be criminalized.
-All of the criminalization requirements of the Convention and Protocols require that the conduct of
-each offence must be criminalized when committed intentionally.» Vi foreslår derfor at det kreves
-utvist forsett, jf. straffeloven § 21, jf. § 22. Bruk av
-forsett som hovedskyldform er lovens normalordning, og det følger av kriminaliseringsprinsippene.
-Hva gjelder kriminaliseringen av menneskehandel med barn som fornærmet, foreslår vi å
-videreføre den løsning som er valgt i dagens kriminalisering: Den som var uvitende om at fornærmede var under 18 år, straffes hvis han på noe
-punkt kan klandres for sin uvitenhet. Formuleringen og innholdet i aktsomhetsnormen er her den
-samme som i straffeloven § 307. Det er tale om en
-meget streng aktsomhetsnorm, se bl.a. Rt. 2005 s.
-
-527
-
-Vedlegg 1
-
-833 avsnitt 88; Rt. 2008 s. 867 avsnitt 31-33 og HR2019-473-U avsnitt 21.
-
-3.5
-
-Kommentarer til bestemmelsen om
-kriminalisering av grov
-menneskehandel
-Verken PP eller LG oppstiller en forpliktelse til
-særlig kriminalisering av grov overtredelse. I
-samsvar med gjeldende rett og norsk lovgivningstradisjon bør straffeloven ha en kriminalisering av grov menneskehandel.
-Her som ellers beror det på en konkret helhetsvurdering om det er tale om grov overtredelse. Hvis den som ble utsatt for handlingen er
-under 18 år, har det formodningen for seg at det
-er tale om grov menneskehandel. Det gjelder særlig dersom det gjelder utnyttelse til seksuelle formål. For øvrig viser ordlyden til det selvsagte; det
-er grovheten med hensyn til bruk av midler og
-grovheten i utnyttelsen som er det sentrale ved
-vurderingen av om overtredelsen er grov. Dagens
-§ 258 nevner også momentet om handlingen har
-medført betydelig utbytte. Momentet foreslås
-videreført.
-07.11.23, JPR/RC
-
-[Side 530]
-
-Norges offentlige utredninger
-2023
-Arbeids- og inkluderingsdepartementet:
-NOU 2023: 11 Raskt og riktig
-NOU 2023: 12 Grunnlaget for inntektsoppgjørene 2023
-
-Kommunal- og distriktsdepartementet:
-NOU 2023: 9 Generalistkommunesystemet
-NOU 2023: 21 Embetsordningen – i takt med tiden
-
-Barne- og familiedepartementet:
-NOU 2023: 7 Trygg barndom, sikker fremtid
-NOU 2023: 24 Med barnet hele vegen
-
-Kultur- og likestillingsdepartementet:
-NOU 2023: 13 På høy tid
-NOU 2023: 20 Tegnspråk for livet
-
-Finansdepartementet:
-NOU 2023: 6 Finanstilsynet i en ny tid – ny lov om
-Finanstilsynet
-NOU 2023: 15 Bærekraftsrapportering
-NOU 2023: 30 Utfordringer for lønnsdannelsen
-og norsk økonomi
-
-Kunnskapsdepartementet:
-NOU 2023: 1 Kvalitetsvurdering og kvalitetsutvikling
-i skolen
-NOU 2023: 19 Læring, hvor ble det av deg i alt
-mylderet?
-NOU 2023: 27 Et nytt system for kvalitetsutvikling
-
-Forsvarsdepartementet:
-NOU 2023: 14 Forsvarskommisjonen av 2021
-
-Nærings- og fiskeridepartementet:
-NOU 2023: 10 Leve og oppleve
-NOU 2023: 23 Helhetlig forvaltning av
-akvakultur for bærekraftig verdiskaping
-NOU 2023: 26 Ny lov om offentlige anskaffelser
-– Første delutredning
-NOU 2023: 28 Investeringskontroll
-
-Helse- og omsorgsdepartementet:
-NOU 2023: 2 Fremtidens apotek – fleksibelt og
-forsvarlig
-NOU 2023: 4 Tid for handling
-NOU 2023: 5 Den store forskjellen
-NOU 2023: 8 Fellesskapets sykehus
-NOU 2023: 29 Abort i Norge
-Justis- og beredskapsdepartementet:
-NOU 2023: 17 Nå er det alvor
-Klima- og miljødepartementet:
-NOU 2023: 18 Genteknologi i en bærekraftig fremtid
-NOU 2023: 25 Omstilling til lavutslipp
-
-Olje- og energidepartementet:
-NOU 2023: 3 Mer av alt – raskere
-Samferdselsdepartementet:
-NOU 2023: 22 På vei mot en bedre regulert
-drosjenæring
-Statsministerens kontor:
-NOU 2023: 16 Evaluering av pandemihåndteringen
-
-[Side 531]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-Omslags- og delillustrasjoner: Mathilde Lidvang,
-Melkeveien Designkontor AS
-
-N
-VA
-
-E MER K
-
-Trykksak
-2041 0446
-
-E
-T
-
-S
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 06/2024
+# Lovforslag
+
+## Straffeloven
+
+I lov 20. mai 2005 nr. 28 om straff gjøres følgende endringer:
+
+§ 5 første ledd nr. 9 skal lyde:
+
+9\. rammes av §§ *254,* 257, *282,* 291–296, 299–306 eller §§ 309–316,
+
+§ 77 ny bokstav m skal lyde:
+
+*m. er begått for å bevare eller gjenopprette en persons, families, slekts eller gruppes ære.*
+
+§ 87 første ledd andre punktum skal lyde:
+
+Ved overtredelse av §§ 253*, 253 a,* 257, *269, 270,* 282, 284, 299, 302 eller 304 skal fristen likevel regnes fra den dag den fornærmede fyller 18 år.
+
+§ 196 første ledd bokstav a skal lyde:
+
+a\. § 111 (krenkelse av Norges selvstendighet og fred), § 113 (krenkelse av Norges statsforfatning), § 115 (angrep på de høyeste statsorganenes virksomhet), § 117 (inngrep overfor viktige samfunnsinstitusjoner), § 119 (landssvik), § 121 (etterretningsvirksomhet mot statshemmeligheter), § 123 (avsløring av statshemmeligheter), § 128 (ulovlig militær virksomhet), § 129 (straff for deltakelse mv. i voldelig sammenslutning med politiske mål), § 131 (terrorhandlinger), § 133 (terrorforbund), § 138 (terrorbombing), § 139 (kapring av luftfartøy og skip mv.), § 140 (forstyrrelse av den sikre drift av luftfartøy og skip mv.), § 141 (bruk og utslipp av farlig stoff i tilknytning til luftfartøy og skip mv.), § 142 (ulovlig befatning med farlig materiale mv.), § 143 (gisseltaking i terrorøyemed), § 144 (angrep på en internasjonalt beskyttet person), § 192 (anslag mot infrastrukturen), § 193 (forbund om anslag mot infrastrukturen), § 194 (forstyrrelse av den sikre drift av jernbane og buss), § 223 (grov uriktig anklage), § 238 (allmennfarlig smittespredning), § 239 (allmennfarlig forgiftning), § 240 (alvorlig miljøkriminalitet), § 253 (tvangsekteskap), *§ 253 a (barneekteskap),* § 255 (grov frihetsberøvelse), § 256 (forbund om grov frihetsberøvelse), § 258 (grov menneskehandel), § 259 (slaveri), *§ 261 (omsorgsunndragelse), § 269 (skadelige utenlandsopphold),* § 274 (grov kroppsskade), § 275 (drap), § 279 (forbund om drap eller å volde betydelig skade på kropp og helse), § 282 (mishandling i nære relasjoner), § 283 (grov mishandling i nære relasjoner), § 284 (kjønnslemlestelse), § 288 (hensettelse i hjelpeløs tilstand mv.), § 291 (voldtekt), § 295 (misbruk av overmaktsforhold og lignende), § 299 (voldtekt av barn under 14 år), § 303 (grov seksuell omgang mv. med barn mellom 14 og 16 år), § 312 (incest), § 314 (seksuell omgang mellom andre nærstående), § 327 (ran), § 329 (forbund om ran), § 355 (fremkalling av fare for allmennheten) og § 357 (forbund om fremkalling av fare for allmennheten),
+
+Ny § 253 a skal lyde:
+
+*§ 253 a* Barneekteskap
+
+Den som inngår ekteskap med noen under 18 år, straffes med fengsel inntil 6 år. På samme måte straffes den som etablerer en ekteskapslignende forbindelse som nevnt i § 253 med noen som er under 18 år. På samme måte straffes den som lever i et ekteskap eller en ekteskapslignende forbindelse med noen som er under 18 år.
+
+Den som tillater at et barn han eller hun har foreldreansvar for, inngår eller lever i et ekteskap eller en ekteskapslignende forbindelse, straffes med fengsel inntil 6 år.
+
+Den som forestår inngåelse av et ekteskap eller en ekteskapslignende forbindelse hvor en av eller begge partene er under 18 år, straffes med fengsel inntil 3 år.
+
+Den som var uvitende om at fornærmede var under 18 år, kan likevel straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet.
+
+Handlingene etter første og andre ledd er ikke straffbare dersom de involverte er omtrent jevnbyrdige i alder og utvikling og omstendighetene tilsier at handlingene ikke er krenkende.
+
+§ 257 første ledd skal lyde:
+
+Den som ved vold, trusler, misbruk av sårbar situasjon eller annen utilbørlig atferd tvinger, utnytter eller forleder en person til
+
+a\. prostitusjon eller andre seksuelle ytelser,
+
+b\. tvangsarbeid eller tvangstjenester, herunder tigging,
+
+c\. krigstjeneste i fremmed *land*,
+
+d\. å samtykke i fjerning av et av vedkommendes indre organer*, eller*
+
+*e. tvangsekteskap eller barneekteskap*
+
+straffes for menneskehandel med fengsel inntil 6 år.
+
+§ 261 første ledd tredje punktum skal lyde:
+
+Tilsvarende gjelder der det er fattet vedtak om omsorgsovertakelse, flytteforbud, *utreiseforbud* eller institusjonsplassering etter barnevernsloven §§ 5-1, § 4-3, *§ 5-12*, § 6-2 eller § 6-6 eller der begjæring om slike tiltak er sendt barneverns- og helsenemnda etter barnevernsloven § 14-9, eller der det i en akuttsituasjon er iverksatt midlertidig vedtak etter barnevernsloven §§ 4-2, 4-4 og 4-5 *eller er fattet akuttvedtak om utreiseforbud etter § 4-6.*
+
+§ 262 andre ledd oppheves.
+
+§ 266 skal lyde:
+
+*§ 266* Hensynsløs atferd
+
+Den som ved skremmende, *kontrollerende, nedverdigende*, plagsom eller annen hensynsløs atferd forfølger en person eller på annen måte krenker en annens *psykiske integritet*, straffes med bot eller fengsel inntil 2 år.
+
+Ny § 269 skal lyde:
+
+*§ 269* Skadelige utenlandsopphold
+
+Med bøter eller fengsel inntil 3 år straffes den som sender eller tar med et barn som han eller hun har foreldreansvar for til utlandet til forhold
+
+a\. som setter barnets liv eller helse i alvorlig fare, eller
+
+b\. som medfører alvorlig fare for at barnet utsettes for handlinger som innebærer overtredelse av straffeloven §§ 251 (tvang), 253 (tvangsekteskap), 253 a (barneekteskap), 254 (frihetsberøvelse), 257 (menneskehandel), 259 (slaveri), 263 (trusler), 266 (hensynsløs atferd), 271 (kroppskrenkelse), 273 (kroppsskade), 275 (drap), 282 (mishandling i nære relasjoner), 284 (kjønnslemlestelse), 288 (hensettelse i hjelpeløs tilstand mv.), 291 (voldtekt), 294 (grovt uaktsom voldtekt), 295 (misbruk av overmaktsforhold og lignende), 296 (seksuell omgang med innsatte mv. i institusjon), 299 (voldtekt av barn under 14 år), 302 (seksuell omgang med barn mellom 14 og 16 år), 304 (seksuell handling med barn under 16 år), 305 (seksuelt krenkende atferd mv. overfor barn under 16 år), 309 (kjøp av seksuelle tjenester fra mindreårige), 312 (incest), 313 (søskenincest) eller 314 (seksuell omgang mellom andre nærstående).
+
+Den som etterlater et barn han eller hun har foreldreansvar for, i utlandet under forhold som nevnt i første ledd, straffes på samme måte.
+
+Den som lar et barn vedkommende har foreldreansvar for, bli sendt til, tatt med til eller etterlatt i utlandet under forhold som nevnt i første ledd, eller som unnlater å gripe inn mot et pågående utenlandsopphold som medfører slik fare for barnet, straffes på samme måte
+
+Straff etter første til tredje ledd kan falle bort for den som bidrar til at barnet returnerer til Norge.
+
+§ 282 skal lyde:
+
+*§ 282* Mishandling i nære relasjoner
+
+Med fengsel inntil 6 år straffes den som ved *alvorlige eller gjentatte* trusler, tvang, frihetsberøvelse, vold eller andre *fysiske eller psykiske krenkelser, mishandler*
+
+*a. sin ektefelle eller samboer,*
+
+*b. sin tidligere ektefelle eller samboer,*
+
+*c. sin slektning i rett nedstigende linje,*
+
+*d. sin slektning i rett oppstigende linje,*
+
+*e. sin bror eller søster,*
+
+*f. sin onkel eller tante,*
+
+*g. sin niese eller nevø*
+
+*h. sitt søskenbarn,*
+
+*i. sin ektefelles eller samboers slektning i rett oppstigende linje,*
+
+*j. sin ektefelles eller samboers slektning i rett nedstigende linje,*
+
+*k. sin tidligere ektefelles eller samboers slektning i rett nedstigende linje,*
+
+*l. ektefelle eller samboer til person som nevnt i bokstav c til k,*
+
+*m. noen i sin husstand, eller*
+
+*n. noen i sin omsorg.*
+
+Når noen kjennes skyldig i en straffbar handling etter § 282 første ledd bokstav *c*, *j eller k*, skal retten vurdere om kontaktforbud etter § 57 skal idømmes.
+
+§ 283 bokstav b til ny bokstav e skal lyde:
+
+b\. om den er utført på en særlig smertefull måte, eller har hatt til følge betydelig *smerte*,
+
+c\. om den er begått mot en forsvarsløs *person*,
+
+*d. om den er begått mot et barn under 18 år, eller*
+
+*e. om den er begått av flere i fellesskap.*
+
+## Straffeprosessloven
+
+I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:
+
+§ 107 a første ledd bokstav a skal lyde:
+
+a\. om overtredelse av straffeloven §§ 168, 253, *253 a,* 257, *269*, 282, 284, 291, 294, 295, 296, 299, 302, 304, 312 og 314,
+
+§ 239 første ledd skal lyde:
+
+Tilrettelagt avhør skal benyttes ved avhør av vitner under 16 år i sak om overtredelse av straffeloven kapittel 26, §§ *253, 253 a, 269,* 273, 275, 282 eller 284.
+
+§ 239 tredje ledd skal lyde:
+
+Tilrettelagt avhør skal benyttes ved avhør av vitner med psykisk utviklingshemning eller annen funksjonsnedsettelse som medfører samme behov for tilrettelagt avhør i sak om overtredelse av straffeloven kapittel 26, §§ *253, 253 a*, *269*, 273, 275, 282 eller 284.
+
+## Barnevernsloven
+
+I lov 18. juni 2021 nr. 97 om barnevern gjøres følgende endringer:
+
+§ 1-2 fjerde ledd til sjuende ledd skal lyde:
+
+For barn som oppholder seg i Norge, men har sitt vanlige bosted i en annen stat, kan det treffes vedtak om hjelpetiltak etter kapittel 3, vedtak om akuttiltak etter kapittel 4 *med unntak av akuttvedtak om utreiseforbud etter § 4-6,* vedtak om frivillig opphold i barnevernsinstitusjon etter § 6-1, samt vedtak om plassering på institusjon etter § 6-6 når det er fare for menneskehandel.
+
+*For barn som ikke har vanlig bosted i Norge og oppholder seg i en annen stat, kan det treffes vedtak om hjelpetiltak etter § 3-1 når foreldrene oppholder seg i Norge. Det er en forutsetning at barnet har hatt vanlig bosted i Norge tidligere. Dersom barnet befinner seg i en stat som er tilsluttet Haagkonvensjonen 1996, skal barnevernstjenesten samtidig vurdere å igangsette en prosess med overføring av jurisdiksjon etter konvensjonens artikkel 8 og 9, se (påfølgende) ledd.*
+
+*For barn som ikke har vanlig bosted i Norge og oppholder seg i en annen stat som er medlem av Haagkonvensjonen 1996, kan norske myndigheter, dersom de anser seg for å være bedre egnet til å vurdere barnets beste i det aktuelle tilfellet, anmode om å få overført jurisdiksjon etter de vilkår som framgår av konvensjonens artikkel 9, jf. artikkel 8 nr. 2. Aksepteres anmodningen av staten der barnet har vanlig bosted, kan norske myndigheter treffe de beskyttelsestiltak som følger av tredje ledd.*
+
+*Lovens §§ 2-1 om barnevernstjenestens gjennomgang av bekymringsmeldinger og § 2-2 om barnevernstjenestens rett og plikt til å gjennomføre undersøkelser gjelder også når barnet oppholder seg i en annen stat, uavhengig av hvor barnet har sitt vanlige bosted.*
+
+Gjeldende femte og sjette ledd blir til åttende og niende ledd.
+
+§ 2-2 nytt fjerde ledd skal lyde (alternativ I):
+
+*Barnevernstjenesten skal foreta en risikovurdering før foreldre involveres i saken, herunder vurdere om det er behov for å gjøre unntak fra orienteringsplikten etter § 12-6 første ledd første punktum, jf. samme bestemmelse andre og tredje ledd.*
+
+Nåværende fjerde til sjette ledd blir femte til syvende ledd.
+
+§ 2-2 nytt fjerde og femte ledd skal lyde (alternativ II):
+
+Viser vurderingen etter første ledd at barnet kan være utsatt for negativ sosial kontroll, æresmotivert vold eller står i fare for å bli utsatt for et skadelig utenlandsopphold som nevnt i § 5-12 bokstav a til c, skal barnevernstjenesten foreta en risikovurdering før foreldre involveres i saken. Barnevernstjenesten skal også vurdere om det er behov for å gjøre unntak fra orienteringsplikten etter § 12-6 første ledd første punktum, jf. samme bestemmelse andre og tredje ledd.
+
+Negativ sosial kontroll som nevnt i andre ledd er ulike former for press, oppsyn, trusler eller tvang som systematisk begrenser barnet i sin livsutfoldelse eller gjentatte ganger hindrer det i å treffe selvstendige valg om eget liv og framtid. I vurderingen av om et handlingsmønster utgjør negativ sosial kontroll, skal det tas hensyn til barnets alder og utvikling og prinsippet om barnets beste.
+
+Nåværende fjerde til sjette ledd blir sjette til åttende ledd.
+
+§ 3-1 nytt andre ledd skal lyde (flertallets forslag):
+
+Ved vurderingen av om barnet på grunn av sin omsorgssituasjon eller atferd har et særlig behov for hjelp, skal det legges vekt på om det er mangler ved den psykiske omsorgen barnet får, herunder om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket.
+
+Gjeldende andre ledd blir nytt tredje ledd.
+
+§ 3-1 nytt andre og tredje ledd kan lyde (mindretallets forslag):
+
+Ved vurderingen av om barnet på grunn av sin omsorgssituasjon eller atferd har et særlig behov for hjelp, skal det legges vekt på om det er mangler ved den psykiske omsorgen barnet får, eller om barnet er utsatt for negativ sosial kontroll, herunder om barnets rett til medbestemmelse og selvbestemmelse er alvorlig krenket.
+
+Negativ sosial kontroll som nevnt i andre ledd er ulike former for press, oppsyn, trusler eller tvang som systematisk begrenser noen i sin livsutfoldelse eller gjentatte ganger hindrer dem i å treffe selvstendige valg om eget liv og framtid. I vurderingen av om et handlingsmønster utgjør negativ sosial kontroll, skal det tas hensyn til barnets alder og utvikling og prinsippet om barnets beste.
+
+Gjeldende andre ledd blir nytt fjerde ledd.
+
+Ny § 4-6 skal lyde:
+
+*§ 4-6* Akuttvedtak om utreiseforbud
+
+Barnevernstjenestens leder, lederens stedfortreder eller påtalemyndigheten kan treffe akuttvedtak om utreiseforbud dersom det er nærliggende fare for at barnet blir sendt eller tatt med ut av landet til forhold som nevnt i § 5-12 første ledd dersom vedtaket ikke treffes straks.
+
+Dersom det er behov for videre tiltak, skal barnevernstjenesten snarest følge opp akuttvedtaket med en begjæring om utreiseforbud til barneverns- og helsenemnda. Dersom slik begjæring ikke foreligger innen seks uker fra vedtakstidspunktet, faller akuttvedtaket bort.
+
+Overskriften til kapittel 5 skal lyde:
+
+Kapittel 5. Omsorgsovertakelse, fratakelse av foreldreansvar, adopsjon og utreiseforbud
+
+§ 5-1 første ledd bokstav a skal lyde (flertallets forslag):
+
+a\. det er alvorlige mangler ved *den fysiske eller psykiske* omsorgen barnet får, herunder den personlige kontakt og trygghet sett hen til det barnet trenger etter sin alder og utvikling. *Ved vurderingen skal det legges vekt på om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket.*
+
+§ 5-1 første ledd bokstav a skal lyde (mindretallets forslag):
+
+det er alvorlige mangler ved *den fysiske eller psykiske* omsorgen barnet får, herunder den personlige kontakt og trygghet sett hen til det barnet trenger etter sin alder og utvikling. *Ved vurderingen skal det legges vekt på om barnet er utsatt for negativ sosial kontroll, herunder om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket.*
+
+§ 5-1 første ledd bokstav c skal lyde:
+
+c\) barnet blir *fysisk eller psykisk* mishandlet eller utsatt for andre alvorlige overgrep i hjemmet
+
+§ 5-2 andre ledd skal lyde:
+
+*Dersom vedtaket gjelder omsorgsovertakelse av et barn som befinner seg i et land som ikke er medlem av Haagkonvensjonen 1996, består vedtaket i seks måneder dersom barnevernstjenesten har varslet norsk utenrikstjeneste i vedkommende land. Nemndlederen kan forlenge fristen med seks nye måneder når særlige grunner tilsier det.*
+
+Gjeldende andre ledd blir til tredje ledd.
+
+§ 5-6 andre punktum skal lyde:
+
+Det er videre ulovlig å ta med seg barnet ut av Norge uten samtykke fra barnevernstjenesten når vedtak etter §§ *4-6,* 5-1*, 5-12*, 6-2 og 6-3 er truffet eller når begjæring om slike tiltak er sendt barneverns- og helsenemnda.
+
+Ny § 5-12 skal lyde:
+
+*§ 5-12* Vedtak om utreiseforbud
+
+Barneverns- og helsenemnda kan treffe vedtak om at barnet ikke kan forlate Norge (utreiseforbud), dersom det er nærliggende fare for at barnet i utlandet vil bli utsatt for forhold som medfører alvorlig fare for liv eller helse, eller forhold som nevnt i § 5-1 bokstav a til d. Utreiseforbud kan også ilegges dersom det er nærliggende fare for at foreldre eller andre omsorgspersoner vil frata barnet muligheten til grunnleggende utdanning i utlandet.
+
+Vedtaket skal ikke ha lengre varighet enn det som er nødvendig for å hindre at barnet blir utsatt for forhold som nevnt i første ledd, og kan ikke ha lengre varighet enn seks måneder. Vedtaket kan innen utløpet av tidsperioden forlenges med inntil seks måneder om gangen hvis vilkårene fremdeles er oppfylt. Vedtaket faller bort senest når barnet fyller 18 år.
+
+For barn som ikke er norske statsborgere, vil et utreiseforbud opphøre dersom barnet har plikt til å forlate riket etter utlendingsloven.
+
+Barnevernstjenesten kan gi tillatelse til enkeltreiser selv om vedtak om utreiseforbud er truffet, dersom det er åpenbart at reisen ikke medfører fare for forhold som nevnt i første ledd.
+
+Ny § 8-7 skal lyde:
+
+*§ 8-7* Oppfølging av barn og foreldre etter vedtak om utreiseforbud
+
+Etter at det er truffet vedtak om utreiseforbud etter § 5-12, skal barnevernstjenesten følge med på hvordan det går med barnet og foreldrene. Barnevernstjenesten skal vurdere om det er nødvendig å endre tiltaket, eller om det er nødvendig å iverksette ytterligere tiltak for barnet.
+
+Barnevernstjenesten skal kort tid etter at vedtak om utreiseforbud er truffet kontakte foreldrene og gi dem tilbud om veiledning og oppfølging. Dersom foreldrene ønsker det, skal barnevernstjenesten som en del av oppfølgingen formidle kontakt med øvrige hjelpeinstanser.
+
+§ 12-6 første ledd skal lyde:
+
+Partene har rett til å gjøre seg kjent med sakens dokumenter etter reglene i forvaltningsloven §§ 18 til 19. Partene har rett til å bli forelagt opplysninger, jf. forvaltningsloven § 17. *Før parten gis innsyn i dokumenter eller opplysninger skal det vurderes om det foreligger omstendigheter som nevnt i andre og tredje ledd.*
+
+§ 13-2 første ledd bokstav a skal lyde:
+
+a\. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den *fysiske eller psykiske* omsorgen eller utsatt for annen alvorlig omsorgssvikt
+
+§13-2 første ledd ny bokstav f skal lyde:
+
+f\. når det er grunn til å tro at et barn blir eller vil bli utsatt for utenlandsopphold som kan medføre alvorlig fare for liv eller helse, eller forhold som nevnt i bokstav a til c, eller fare for at foreldre eller andre omsorgspersoner vil frata barnet muligheten til grunnleggende utdanning i utlandet.
+
+§ 13-2 andre ledd skal lyde (flertallets forslag):
+
+*I vurderingen av om det foreligger forhold som nevnt i første ledd bokstav a, skal det blant annet legges vekt på om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket.*
+
+Gjeldende andre ledd blir nytt fjerde ledd.
+
+§ 13-2 andre ledd skal lyde (mindretallets forslag):
+
+*I vurderingen av om det foreligger forhold som nevnt i første ledd bokstav a, skal det blant annet legges vekt på om barnet er utsatt for negativ sosial kontroll, herunder om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket.*
+
+Gjeldende andre ledd blir nytt fjerde ledd.
+
+§ 13-2 nytt tredje ledd skal lyde (alternativ I):
+
+Melderen skal foreta en risikovurdering før foreldre informeres om melding som nevnt i første ledd, eventuelt overlate til barnevernstjenesten eller politiet å vurdere når og på hvilken måte foreldrene skal informeres.
+
+§ 13-2 nytt tredje ledd skal lyde (alternativ II):
+
+Melderen skal foreta en risikovurdering før foreldre informeres om melding som nevnt i første ledd, eventuelt overlate til barnevernstjenesten eller politiet å vurdere når og på hvilken måte foreldrene skal informeres, særlig dersom det er grunn til å tro at barnet er utsatt for eller risikerer å bli utsatt for negativ sosial kontroll, æresmotivert vold eller skadelig utenlandsopphold.
+
+§ 13-4 første ledd skal lyde:
+
+De organene som er ansvarlige for gjennomføringen av bestemmelser i denne loven, kan gi pålegg til offentlige myndigheter om å gi taushetsbelagte opplysninger når det er nødvendig for å vurdere, forberede og behandle saker om
+
+a\. vedtak om medisinsk undersøkelse og behandling, jf. § 3-7
+
+b\. vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. § 3-8
+
+c\. akuttvedtak om omsorgsovertakelse, jf. § 4-2
+
+d\. vedtak om midlertidig flytteforbud, jf. § 4-3
+
+e\. akuttvedtak om plassering i barnevernsinstitusjon, jf. § 4-4
+
+f\. akuttvedtak om plassering av barn i institusjon når det er fare for menneskehandel, jf. § 4-5
+
+*g. akuttvedtak om utreiseforbud, jf. § 4-6*
+
+*h. vedtak om omsorgsovertakelse, jf. § 5-1*
+
+*i. oppheving av vedtak om omsorgsovertakelse, jf. § 5-7*
+
+*j. vedtak om fratakelse av foreldreansvar, jf. § 5-8*
+
+*k. vedtak om oppheving av vedtak om fratakelse av foreldreansvar, jf. § 5-9*
+
+*l. vedtak om adopsjon, jf. § 5-10*
+
+*m. vedtak om utreiseforbud, jf. § 5-12*
+
+*n. vedtak om plassering i barnevernsinstitusjon uten samtykke, jf. § 6-2*
+
+*o. vedtak om plassering i institusjon ved fare for menneskehandel, jf. § 6-6*
+
+*p. vedtak om samvær, jf. §§ 7-2 og 7-3*
+
+§ 13-5 tredje ledd skal lyde:
+
+*Barnevernstjenesten skal varsle politiet uten ugrunnet opphold om vedtak etter § 4-6 og § 5-12 første ledd, og når vedtak etter disse bestemmelsene faller bort. Dersom barnet er utenlandsk statsborger, skal varsel også sendes til utlendingsmyndighetene. Barnevernstjenesten og nemnda skal anmode om at vedtaket registreres i Schengen informasjonssystem (SIS) dersom vedtaket er begrunnet i forhold som nevnt i forordning (EU) 2018/1862 artikkel 32 nr. 1 bokstav c eller d, jf. SIS-loven § 8.*
+
+Gjeldende tredje ledd blir til fjerde ledd.
+
+§ 13-5 sjette og sjuende ledd skal lyde:
+
+*Dersom et barn som oppholder seg i en annen stat er i alvorlig fare, og barnevernstjenesten har truffet eller har vurdert å treffe vedtak om tiltak for barnet, skal de kompetente myndighetene i barnets oppholdsstat varsles om den aktuelle faren og om de tiltak som er vurdert, dersom det er forsvarlig og til barnets beste, jf. Haagkonvensjonen 1996 artikkel 36 og 37.*
+
+*Dersom et barn oppholder seg i Norge, men har vanlig bosted i en annen stat, og barnevernstjenesten har truffet eller har vurdert å treffe vedtak om tiltak for barnet, skal de kompetente myndighetene i barnets bostedsstat varsles med anmodning om å følge opp barnet dersom det er behov for langvarige tiltak.*
+
+Gjeldende femte og sjette ledd blir nye åttende og niende ledd.
+
+§ 14-22 første ledd skal lyde:
+
+Akuttvedtak etter §§ 4-2, 4-4 og 4-5 og vedtak om midlertidig flytteforbud etter § 4-3 skal straks etter iverksettingen sendes til nemnda. *Akuttvedtak om utreiseforbud etter § 4-6 skal straks etter vedtakelse sendes til nemnda.* Nemndlederen vurderer om vedtaket skal godkjennes. Nemndlederen skal avgjøre saken snarest, og om mulig innen 48 timer etter at nemnda har mottatt den.
+
+§ 14-23 første ledd første punktum skal lyde:
+
+De private partene kan påklage akuttvedtak etter § 4-2 første og annet ledd, *§ 4-4, § 4-5 og § 4-*6 og vedtak om midlertidig flytteforbud etter § 4-3.
+
+§ 15-3 tredje ledd skal lyde:
+
+Barnevernstjenesten skal blant annet
+
+a\. gjennomgå og vurdere bekymringsmeldinger
+
+b\. gjennomføre undersøkelser av barnets omsorgssituasjon
+
+c\. treffe vedtak om hjelpetiltak *og unntak fra utreiseforbud*
+
+d\. forberede saker for behandling i barneverns- og helsenemnda
+
+e\. iverksette og følge opp tiltak.
+
+§ 15-5 første ledd første punktum skal lyde:
+
+Kommunen der barnet oppholder seg, har ansvaret for å reise sak for barneverns- og helsenemnda etter §§ 3-7, 3-8, 5-1, *5-12*, 6-2 og 6-6.
+
+## Utlendingsloven
+
+I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her gjøres følgende endringer:
+
+§ 51 andre ledd skal lyde:
+
+Oppholdstillatelse etter bestemmelsene i kapittelet her kan nektes *dersom*:
+
+*a. referansepersonen etter forespørsel ikke samtykker i at søkeren gis tillatelse,*
+
+*b. det er sannsynlig at ekteskapet eller en ekteskapslignende forbindelse er inngått mot en av partenes vilje.*
+
+§ 53 første ledd bokstav b skal lyde:
+
+b\. samlivet er opphørt, og det er grunn til å anta at utlendingen eller eventuelle barn har blitt *fysisk eller psykisk* mishandlet i samlivsforholdet eller av andre medlemmer av samme husstand, eller av svigerfamilie.
+
+§ 53 tredje ledd skal lyde:
+
+*En utlending som har oppholdstillatelse etter §§ 42, 43 eller 49 skal etter søknad gis oppholdstillatelse på selvstendig grunnlag når:*
+
+*a. familielivet opphører og det er grunn til å tro at utlendingen, dennes søsken eller foreldre har blitt fysisk eller psykisk mishandlet i familien eller av andre medlemmer av samme husstand, eller ikke blir beskyttet av familien mot slik mishandling. Det skal ikke stilles krav om at utlendingens livskvalitet har blitt redusert,*
+
+*b. barnevernstjenesten har truffet vedtak om omsorgsovertakelse for utlendingen etter barnevernsloven § 5-1, eller*
+
+*c. barnet er ufrivillig holdt tilbake i utlandet uten en forelder med foreldreansvar og barnets foreldre oppholder seg i Norge med en oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse.*
+
+Tredje ledd blir til fjerde ledd.
+
+§ 53 nytt femte ledd skal lyde:
+
+Kongen kan fastsette nærmere bestemmelser i forskrift om kravet til mishandling.
+
+§ 53 nytt fjerde ledd skal lyde (mindretallets forslag):
+
+I vurderingen av om en utlending har blitt fysisk eller psykisk mishandlet som nevnt i første ledd bokstav b eller tredje ledd bokstav a, skal det legges vekt på om utlendingen er utsatt for negativ sosial kontroll. Med negativ sosial kontroll forstås press, oppsyn, trusler eller tvang som systematisk begrenser utlendingen i sin livsutfoldelse eller gjentatte ganger hindrer vedkommende i å treffe selvstendige valg om eget liv og fremtid.
+
+Tredje ledd blir til femte ledd.
+
+§ 53 nytt sjette ledd skal lyde:
+
+Kongen kan fastsette nærmere bestemmelser i forskrift om kravet til mishandling.
+
+§ 62 syvende ledd skal lyde:
+
+Tillatelsen faller bort når innehaveren har oppholdt seg utenfor riket sammenhengende i mer enn to år. Oppholdet utenfor riket anses å være sammenhengende selv om utlendingen har hatt ett eller flere opphold av en viss varighet i riket, jf. åttende ledd. *Det skal ses bort fra opphold utenfor riket dersom innehaveren har reist til et annet land og blir holdt tilbake mot sin vilje av en nær relasjon.* Vedtak om bortfall treffes av Utlendingsdirektoratet. En utlending kan etter søknad gis adgang til å oppholde seg utenfor riket i mer enn to år uten at tillatelsen faller bort.
+
+§ 120 sjette ledd skal lyde:
+
+Oppholdskort kan nektes utstedt etter bestemmelsene i §§ 118 og 119 *dersom:*
+
+*a. referansepersonen, jf. § 39, på forespørsel ikke samtykker i at søkeren gis opphold,*
+
+*b. det er sannsynlig at ekteskapet eller en ekteskapslignende forbindelse er inngått mot en av partenes vilje, eller*
+
+*c. det er sannsynlig at ekteskapet er inngått med det hovedformål å skaffe søkeren lovlig opphold innenfor EØS-området.*
+
+## Passloven
+
+I lov 19. juni 1997 nr. 82 om pass gjøres følgende endringer:
+
+§ 4 tredje ledd skal lyde:
+
+Pass kan i særlige tilfeller utstedes til person som nevnt i første og annet ledd uten samtykke dersom det er fare for personens liv eller helse, eller det av andre grunner er åpenbart ubetenkelig. *Norsk utenriksstasjon som er bemyndiget til å utstede pass skal straks underrette kommunens barnevernstjeneste om vedtak om utstedelse av pass til mindreårige uten samtykke når passutstedelsen er begrunnet i fare for barnets liv eller helse.*
+
+§ 5 første ledd bokstav b skal lyde:
+
+b\. når utreiseforbud følger av tvisteloven *§ 33-11, konkursloven* § 102 *eller barnevernsloven §§ 4-6 eller 5-12;*
+
+§ 5 femte ledd skal lyde:
+
+Personer som omfattes av passhindringer etter annet og tredje ledd kan i særlige tilfeller få utstedt pass med begrenset gyldighetsområde og begrenset gyldighetstid. *Det samme gjelder for mindreårige som det er truffet utreiseforbud for etter barnevernsloven §§ 4-6 eller 5-12.*
+
+§ 12 andre ledd skal lyde:
+
+Kongen kan gi forskrift om gjennomføring av denne loven, herunder om
+
+a\. passets form og innhold
+
+b\. hvem som kan få utlevert opplysninger fra passregisteret
+
+c\. overgangsbestemmelser
+
+*d. momenter som kan vektlegges i vurderingen av om pass skal utstedes uten samtykke fra den eller de som har foreldreansvar, jf. § 4 tredje ledd*
+
+## ID-kortloven
+
+I lov 5. juni 2015 nr. 39 om nasjonalt identitetskort gjøres følgende endring:
+
+§ 5 første ledd bokstav b skal lyde:
+
+b\. når utreiseforbud følger av tvisteloven *§ 33-11, konkursloven* § 102 *eller barnevernsloven §§ 4- 6 eller 5-12;*
+
+## Barnelova
+
+I lov 8. april 1981 nr. 7 om barn og foreldre gjøres følgende endring:
+
+§ 30 tredje ledd tredje punktum skal lyde (flertallets forslag):
+
+Bruk av vald og skremmande, *kontrollerande*, *nedverdigande* eller plagsam framferd eller annan omsynslaus åtferd overfor barnet er forbode.
+
+§ 30 tredje ledd tredje og fjerde punktum skal lyde (mindretallets forslag):
+
+Bruk av vald og skremmande, *kontrollerande*, *nedverdigande* eller plagsam framferd eller annan omsynslaus åtferd overfor barnet er forbode. *Barn skal ikkje utsetjast for negativ sosial kontroll.*
+
+## Skadeserstatningsloven
+
+I lov 13. juni 1969 nr. 26 om skadeserstatning gjøres følgende endring:
+
+§ 3-3 skal lyde:
+
+*§ 3-3* (erstatning for visse personlige krenkelser m.m.)
+
+Bestemmelsene i §§ 3-1, 3-2 og 3-2 a gjelder tilsvarende ved erstatning for krenking eller mislig atferd som nevnt i straffeloven §§ 222, 251, 253, *253 a,* 254, 257, 259, 262, 263, 266, 267 a, 268 første ledd, *269,* 271, 282, 291, 294, 295, 296, 299, 302, 304, 312, 313, 314, 327 eller 330.
+
+## Rettshjelploven
+
+I lov 13. juni 1980 nr. 35 om fri rettshjelp gjøres følgende endring:
+
+§ 11 første ledd nr. 7 skal lyde:
+
+7\. til den som er utsatt for tvangsekteskap *eller barneekteskap* eller forsøk på sådan som nevnt i straffeloven *§§ 253 og 253 a*, jf. straffeloven § 16, men hvor saken ikke er anmeldt og den nødvendige bistand er av samme art som nevnt i straffeprosessloven § 107 c eller annen relevant bistand.
+
+§ 11 første ledd ny nr. 9 til 11 skal lyde:
+
+*9. til personer over 18 år som er holdt tilbake i utlandet mot sin vilje av personkretsen omfattet av straffeloven § 282 (mishandling i nære relasjoner) og bistanden er relevant for den utsattes retur til Norge.*
+
+*10. til den som er utsatt for forhold som nevnt i straffeloven § 269 (skadelig utenlandsopphold) og bistanden er relevant for den utsattes retur til Norge.*
+
+*11. til barn over 12 år som er i utlandet, eller som risikerer flytting til utlandet, mot sin vilje og i strid med barnelova § 40 tredje ledd og § 41 femte ledd.*
+
+## Ekteskapsloven
+
+I lov 4. juli 1991 nr. 47 om ekteskap gjøres følgende endringer:
+
+§ 16 fjerde ledd skal lyde:
+
+Adgangen til å reise søksmål bortfaller hvis sak ikke er reist innen ett år etter at ektefellen er blitt fri for tvangen. Søksmål kan ikke i noe tilfelle reises senere enn *ti år* etter ekteskapets inngåelse.
+
+## Integreringsloven
+
+I lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid gjøres følgende endringer:
+
+§ 8 nytt tredje ledd skal lyde:
+
+*I særlige tilfeller kan retten og plikten til å delta i introduksjonsprogrammet inntre fra det tidspunktet krav om program settes fram. Departementet kan gi forskrift om hva som skal anses som særlige tilfeller og om unntak fra kravene i første ledd og fra § 3 tredje ledd i slike tilfeller.*
+
+§ 9 første ledd bokstav g og h skal lyde:
+
+g\. fornybar oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b, *andre, tredje eller fjerde ledd*
+
+*h. fornybar oppholdstillatelse etter utlendingsloven § 38 for utlendinger som har blitt holdt tilbake i utlandet mot sin vilje.*
+
+## Forskriftsendringer
+
+### Utlendingsforskriften
+
+I forskrift 15. oktober 2009 nr. 1286 om utlendingers adgang til riket og deres opphold her gjøres følgende endringer:
+
+§ 12-9 andre ledd nytt tredje punktum skal lyde:
+
+*Kommunens barnevernstjeneste skal underrettes straks om vedtak om utstedelse av passérbrev for innreise i riket til barn under 18 år uten samtykke fra den eller de som har foreldreansvar, når vedtaket er begrunnet i fare for barnets liv eller helse.*
+
+Ny § 12-12 a skal lyde:
+
+*§ 12-12 a* Underretningsplikt til barnevernstjenesten
+
+*Utlendingsmyndighetene skal straks underrette kommunens barnevernstjeneste om vedtak om å nekte eller inndra reisebevis for flyktninger eller utlendingspass, dersom vedtaket er begrunnet i forhold som nevnt i passloven § 5 tredje ledd bokstav g, jf. forskriften § 17-6.*
+
+*Utlendingsmyndighetene skal straks underrette kommunens barnevernstjeneste om vedtak om ny oppholdstillatelse etter utlendingsforskriften § 8-9.*
+
+§ 17-7 d andre ledd innledningen skal lyde:
+
+Barnevernsmyndighetene skal etter anmodning fra Utlendingsdirektoratet, Utlendingsnemnda eller politiet gi nødvendige opplysninger om hjelpetiltak, akuttiltak, omsorgsovertakelse, *utreiseforbud*, fratakelse av foreldreansvar, adopsjon og samvær etter barnevernsloven som berører søkeren, søkerens familiemedlemmer eller andre personer i søkerens husstand i sak om

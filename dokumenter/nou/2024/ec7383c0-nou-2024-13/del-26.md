@@ -1,1049 +1,212 @@
-# NOU 2024: 13, del 26 av 47 (side 284–295)
+# NOU 2024: 13, del 26 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 284]
-
-282
-
-Kapittel 20
-
-NOU 2024: 13
-Lov og frihet
-
-Boks 20.4 Eksempler på lovgivning om barns rett til medvirkning
-– Barnelova § 31 andre ledd gir barn fra 7 år en
-– Utlendingsforskriften § 17-3 gir barn fra 7 år,
-ubetinget rett til å uttale seg. Fra 12 år skal
-og yngre barn som er i stand til å danne seg
-det legges stor vekt på barnets mening.
-egne synspunkter, en ubetinget anledning til
-– Barnevernsloven § 1-4 inneholder en geneå bli hørt før det treffes avgjørelser i saker
-rell bestemmelse om barnets rett til medsom vedrører dem etter utlendingsloven.
-virkning i alle forhold som vedrører barnet
-– Forvaltningsloven § 16 innebærer at en minetter barnevernsloven, uten aldersgrense. I
-dreårig over 15 år som er part i en sak og som
-tillegg er det en egen forskrift som skal ivablir representert av verge, skal varsles før
-reta barns medvirkning og innflytelse i sin
-vedtak treffes, og gis mulighet til å uttale seg.
-kontakt med barnevernet, jf. forskrift 12.
-I § 17 gis det en generell adgang for barn til å
-oktober 2023 nr. 1631.
-gi uttrykk for sitt syn, i den grad de er i stand
-– Pasient- og brukerrettighetsloven § 4-4 gir
-til å danne seg egne synspunkter på det
-barn fra 7 år og yngre barn som er i stand til
-saken gjelder. Etter § 18 skal som hovedregel
-å danne seg egne synspunkter, en ubetinget
-en mindreårig part ha rett til å gjøre seg kjent
-rett til å uttale seg knyttet til foreldrenes sammed sakens dokumenter. I NOU 2019: 5 Ny
-tykke på vegne av barn. Fra barnet er fylt 12
-forvaltningslov. Lov om saksbehandlingen i
-år skal det legges stor vekt på hva barnet
-offentlig forvaltning (forvaltningsloven) er det
-mener. Barns generelle rett til medvirkning
-foreslått en generell medbestemmelsesrett
-etter pasient- og brukerrettighetsloven gjeluten aldersgrense i forvaltningsloven, se lovder alle barn som er i stand til å danne seg
-forslag § 46.
-egne synspunkter jf. § 3-1 første ledd.
-
-meninger, og vektlegge disse i vurderingen av
-barnets beste.
-Det er ingen som sjekker eller etterprøver om
-foreldre gir barnet rett til medvirkning, og barn
-har ingen rettslige muligheter til å kreve at retten
-til medvirkning etterleves i tråd med barnelova
-§ 31. Medvirkningsretten gjelder også overfor
-andre som barnet bor hos eller som har med barnet å gjøre, jf. første ledd tredje punktum. Dette
-innebærer at plikten gjelder for slektninger som
-er med barnet, samt i religiøse og andre miljøer
-som barnet er en del av.
-Selv om barnets mening skal tillegges vekt, vil
-den ikke nødvendigvis være avgjørende. Foreldrene skal vektlegge barnets synspunkt alt etter
-hvor gammelt og modent det er, jf. barnelova § 31
-første ledd andre punktum. Andre momenter i
-vurderingen av hvor stor vekt barnets mening
-skal tillegges, er om barnet forstår rekkevidden av
-det aktuelle spørsmålet, hvor fast barnet er i sin
-oppfatning og hva bakgrunnen for barnets standpunkt er.33 I tillegg må det vektlegges om andre
-berøres av spørsmålet.34 Ifølge forarbeidene «lar
-[det] seg ikke gjøre å si noe generelt om hvor stor
-33
-34
-
-NOU 1977: 35 merknader til § 31.
-Bendiksen og Haugli 2023: side 97.
-
-vekt foreldrene skal legge på barnets mening –
-dette vil bero på omstendighetene og foreldrenes
-skjønn».35
-
-Boks 20.5 Barnelovutvalgets
-forslag i NOU 2020: 14
-Til barnets beste
-Barnelovutvalget foreslår å samle foreldrenes
-plikt til å oppfylle barnets selvbestemmelsesrett og medvirkningsrett i én bestemmelse, se
-lovforslagets § 6-6. Lovforslagets første ledd
-om barnets rett til medvirkning inneholder i
-motsetning til gjeldende barnelov § 31 ingen
-aldersangivelser, slik at medvirkningsretten i
-prinsippet gjelder fra barnet er helt lite. Dette
-samsvarer med tilsvarende bestemmelse i barnekonvensjonen artikkel 12. Det vil imidlertid
-etter barnelovutvalgets syn være naturlig at
-graden av medvirkning øker med alder og
-modenhet, og varierer med ulike typer av
-beslutninger.
-
-35
-
-NOU 1977: 35 merknader til § 31.
-
-[Side 285]
-
-NOU 2024: 13
-Lov og frihet
-
-Etter barnelova § 31 andre ledd skal barn som
-er fylt sju år, og yngre barn som er i stand til å
-danne seg egne synspunkt, få informasjon og
-mulighet til å si meningen sin før det blir tatt
-avgjørelser om personlige forhold for barnet.
-Etter andre ledd andre punktum skal barnets
-mening bli vektlagt etter alder og modenhet.
-I tillegg til den generelle medvirkningsretten i
-barnelova § 31, oppstiller en rekke lovbestemmelser rett til medvirkning for barn i konkrete spørsmål, se boks 20.4.36
-
-20.2.4 Barnets selvbestemmelsesrett
-Et sentralt prinsipp i norsk rett er individets rett til
-å bestemme over seg selv. For barn er dette prinsippet i stor grad fraveket på bakgrunn av forutsetningen om at barn ikke er i stand til å treffe
-beslutninger i saker som gjelder dem, og at de
-derfor verken skal ha rett eller plikt til å treffe
-slike avgjørelser.37 Det er i stedet barnets foreldre, eller andre i foreldrenes sted, som er
-ansvarlige for å ivareta barnets interesser og
-behov, i tråd med prinsippene om foreldreansvar
-og barnets beste. Som hovedregel oppnår barn
-full selvbestemmelse først ved myndighetsalder
-(18 år), jf. vergemålsloven § 2 tredje ledd.
-36
-
-Se en nærmere gjennomgang av lover som regulerer barns
-rett til medvirkning med aldersgrenser i NOU 2020: 14
-punkt 17.3.2.
-37 Aasen 2008: side 9-10.
-
-283
-
-Kapittel 20
-
-Det finnes likevel flere lovbestemmelser som
-gir barn under 18 år rett til å treffe egne beslutninger. Bestemte aldersgrenser følger blant annet av
-særlovningen, se boks 20.6. Når barnet har selvbestemmelsesrett etter disse bestemmelsene,
-opphører foreldrenes rett og plikt til å ta beslutninger i det aktuelle spørsmålet.38 Videre slår barnelova § 33 fast at foreldre skal gi barnet «stendig
-større sjølvråderett med alderen og fram til det
-fyller 18 år». Det er altså ikke grunnlag for å
-hevde at foreldre har full bestemmelsesrett over
-barn fram til de er myndige i Norge.39 Ifølge forarbeidene innebærer barnelova § 33 at foreldres
-bestemmelsesrett på mange områder vil være falt
-bort før 18-årsalderen.40 Begrunnelsen for
-bestemmelsen er delvis at en gradvis større selvbestemmelsesrett med alderen gjør at barn og
-unge lettere vil utvikle seg til selvstendige mennesker.41 Verken bestemmelsen eller forarbeidene angir nøyaktig når barnet skal ha selvbestemmelsesrett. Ifølge forarbeidene varierer dette
-mellom ulike avgjørelsestyper: «Allerede fra barnet er forholdsvis lite, vil denne regelen få betydning i utpreget personlige spørsmål, f.eks. om hva
-slags klær som skal kjøpes til barnet eller om
-38
-
-NOU 1977: 35 punkt 6.7.2 og merknader til § 32 [vedtatt
-som § 33].
-39 Aasen 2008: side 10.
-40 NOU 1977: 35 punkt 6.7.2 og merknader til § 32 [vedtatt
-som § 33].
-41 Ibid.
-
-Boks 20.6 Eksempler på lovgivning med aldersgrenser for barns rett til selvbestemmelse
-– Barnelova § 32: Avgjørelser om valg av utdan– Vergemålsloven §§ 10 og 12: Mindreårig som
-ning og inn- og utmelding av foreninger fra 15
-har fylt 15 år kan selv inngå arbeidsavtale og
-år.
-råder over midler som hen selv har tjent mv.
-– Barnelova §§ 40 tredje ledd og 41 femte ledd:
-– Straffeloven kap. 26: Seksuell lavalder er 16
-Krav om samtykke fra barn over 12 år ved
-år. (Aldersgrensen nedad i de straffebud som
-flytting eller reiser utenlands uten foreldre
-setter straff for seksuell omgang med barn i
-med foreldreansvar.
-Norge.)
-– Lov om tros- og livssynssamfunn (trossam– Lov om endring av juridisk kjønn § 4: Ungfunnsloven) § 2: Inn- og utmelding av tros- og
-dom som har fylt 16 år kan selv søke om endlivssynssamfunn fra 15 år.
-ring av juridisk kjønn.
-– Pasient- og brukerrettighetsloven § 4-3 første
-– Navneloven § 12: Ungdom som har fylt 16 år
-ledd bokstav b: Ved 16 år er det krav om barkan sende melding om å ta, endre eller sløyfe
-nets samtykke til helsehjelp, unntatt der lovnavn.
-givning oppstiller andre aldersgrenser.
-– Opplæringsloven 1998 § 3-1 første ledd: Ungdom som har fylt 15 år søker selv om inntak
-til videregående opplæring.
-
-[Side 286]
-
-284
-
-Kapittel 20
-
-NOU 2024: 13
-Lov og frihet
-
-Boks 20.7 Barnelovutvalgets
-forslag i NOU 2020: 14
-Til barnets beste
-Barnelovutvalget foreslår å videreføre barnelova § 33 om barnets selvbestemmelsesrett,
-se utvalgets lovforslag § 6-6 andre ledd. Etter
-utvalgets syn har den en viktig funksjon for å
-oppmuntre til å understøtte barnets gradvise
-modning og evne til å ta ansvarlige valg på
-egne vegne. Bestemmelsen kompenserer
-også for at regelverket ellers består av nokså
-faste aldersgrenser for selvbestemmelse, der
-barn kan oppnå den nødvendige modenheten
-tidligere enn lovens aldersgrenser gir uttrykk
-for.
-
-hvem det skal omgås».42 Valg som har ubetydelige konsekvenser taler for selvbestemmelse. At
-bestemmelsen er av utpreget personlig art, kan
-også være et moment. I likhet med barnets rett til
-medvirkning, må det legges til grunn at selvbestemmelsesretten også varierer avhengig av det
-enkelte barnets modenhet.
-Det føres ingen kontroll med foreldrenes
-avgjørelser, og i praksis er det dermed opp til foreldrene å avgjøre hva barnet selv skal få
-bestemme.43 Omfattende kontroll med foreldrenes avgjørelser ville stride mot retten til privat- og
-familieliv. Barnekonvensjonen forutsetter et ganske stort handlingsrom for foreldre, jf. blant annet
-artikkel 5 (om rettigheter og forpliktelser til dem
-som oppdrar barnet). I forarbeidene til barnelova
-§ 33 påpekes det at bestemmelsen er vag, og dermed vanskelig å bruke som «et klart argument i
-konkrete konflikter».44 Det påpekes likevel at
-bestemmelsen gir uttrykk for et verdifullt prinsipp
-og kan være «et visst bidrag i en holdningsskapende prosess».45 Sammen med mer spesifikke
-lovbestemmelser om selvbestemmelsesrett, innebærer barnelova § 33 at et barn som har tilstrekkelige evner, modenhet og forståelse, har rett til å
-treffe egne beslutninger, avhengig av beslutningens art.
-
-42
-
-Ibid.
-43
-Bendiksen og Haugli 2023: side 103.
-44
-Ot.prp. nr. 62 (1979–80) punkt 5.2.
-45 Ibid.
-
-20.2.5 Menneskerettslige krav
-Menneskerettighetene anerkjenner foreldres rett
-til å utøve foreldreansvaret i tråd med egne verdier, men setter også grenser for utøvelsen av foreldreansvaret.
-Barnets rett til privatliv er beskyttet av både
-Grunnloven §§ 102 og 104 tredje ledd første punktum, barnekonvensjonen artikkel 16, EMK artikkel 8. Kjernen i retten til privatliv er retten til uforstyrret å kunne utfolde og utvikle sin identitet og
-personlighet, samt i et visst omfang retten til å
-danne relasjoner til andre mennesker. I tillegg
-omfattes den enkeltes moralske overbevisning og
-psykiske integritet. Kontroll som ikke gir barnet
-en privat sfære, for eksempel ved overdreven
-overvåking av barnet, vil bryte med barnets rett
-til privatliv.
-Etter barnekonvensjonen artikkel 31 nr. 1
-anerkjenner partene barnets rett til hvile og fritid
-og til å delta i lek og fritidsaktiviteter som passer
-for barnets alder. Etter artikkel 31 nr. 2 skal medlemsstatene respektere og fremme barnets rett til
-fullt ut å delta i det kulturelle og kunstneriske liv,
-og skal oppmuntre tilgangen til egnede og like
-muligheter for kulturelle, kunstneriske, rekreasjons- og fritidsaktiviteter. Rettighetene oppstilt i
-artikkel 31 er ifølge barnekomitéen av grunnleggende betydning for en god barndom, barns rett
-til utvikling og til realisering av andre rettigheter.46 Formuleringene «respektere» og «fremme»
-innebærer at medlemsstatene aktivt skal legge til
-rette for å bidra til barns deltakelse.
-Artikkel 31 må ses i sammenheng med artikkel 15, som gir barn rett til organisasjonsfrihet og
-frihet til å delta i fredelige forsamlinger. Ifølge barnekomiteen er organisasjonsfriheten en integrert
-dimensjon av barnets rettigheter etter artikkel 31,
-siden «barn sammen skaper former for fantasifull
-lek som sjelden blir oppnådd i voksenbarn-relasjoner».47 Ifølge barnekomiteen innebærer bestemmelsene at barn har rett til å foreta egne valg
-angående vennskap og medlemskap i sosiale, kulturelle, sportslige og andre organisasjoner.48
-Komiteen framhever at barn trenger å samhandle
-med jevnaldrende av begge kjønn, samt med mennesker med ulike evner og ulik alder og bakgrunn.49 En oppdragelse som utelukker at barn
-treffer egne valg angående vennskap, aktiviteter,
-46
-
-FNs barnekomité 2013, General comment No. 17: avsnitt 8.
-FNs barnekomité 2013, General comment No. 17: avsnitt
-21.
-48
-Ibid.
-49 Ibid.
-47
-
-[Side 287]
-
-NOU 2024: 13
-Lov og frihet
-
-deltakelse i organisasjoner mv. kan innebære et
-brudd på barnets rettigheter.
-Barnet har etter artikkel 8 rett til å bevare sin
-egen identitet, herunder personlighet og overbevisning.50 Videre gir artikkel 14 barn rett til tankeog religionsfrihet, som også er beskyttet av EMK
-artikkel 9 og SP artikkel 18. Etter artikkel 14 nr. 2
-skal staten respektere foreldres rett og plikt til å
-veilede barnet om utøvelse av rettigheter i samsvar med barnets gradvise utvikling. Forholdet
-mellom barnets rettigheter og foreldrenes oppdragelsesrett i tråd med egen overbevisning reiser en rekke spørsmål som utvalget må avgrense
-mot.
-
-20.3 Andre lands rett
-Reglene om innholdet i foreldreansvaret og barnets rett til medvirkning og selvbestemmelse i de
-nordiske landene er forholdsvis like den norske
-reguleringen. Unntaket er at tendensen i de andre
-landenes barnelover er at de ikke har fastsatte
-aldersgrenser- eller angivelser for barnets rett til
-medvirkning. Ingen av de nordiske landene
-anvender begrepet negativ sosial kontroll i lovbestemmelsene om grensene for foreldreansvaret.
-Se mer om de nordiske reglene i NOU 2020: 14 Ny
-barnelov – Til barnets beste.51
-
-20.4 Hva er problemet?
-Ekspertgruppa om unge som etterlates i utlandet
-mot sin vilje, viser til at flere aktører, blant annet
-barnevernstjenesten, kan være usikre på hva foreldre kan bestemme i kraft av foreldreansvaret, da
-særlig med fokus på ufrivillige utenlandsopphold.
-Ekspertgruppa trekker fram behovet for å utrede
-grensene mellom foreldreansvaret og barns rettigheter.52 Også flere av instansene utvalget har
-mottatt innspill fra, enten skriftlig eller muntlig,
-blant annet mangfoldsrådgivere, påpeker at grensen mellom streng foreldreoppdragelse og negativ sosial kontroll er uklar.
-Samtidig påpeker flere aktører at begrepet
-negativ sosial kontroll er upresist. Enkelte stiller
-spørsmål om hvem som skal avgjøre om kontrollen er positiv eller negativ. Andre peker på at
-50
-
-FNs barnekomité 2013, General comment No. 14: avsnitt 55
-og 56.
-51 NOU 2020: 14 punkt 10.3.4.
-52 Ekspertgruppa om unge som etterlates i utlandet mot sin
-vilje 2020: punkt 7.2.
-
-285
-
-Kapittel 20
-
-begrepet kan virke stigmatiserende overfor
-enkelte innvandrergrupper, og at det er uklart
-hvilke normer og verdier som skal legges til
-grunn i vurderingen av om et barn er utsatt for
-negativ sosial kontroll. I denne sammenhengen
-framheves det også at det kan være utfordrende å
-vurdere om foreldrerestriksjonene skyldes en systematisk negativ sosial kontroll, eller andre forhold, som for eksempel levekårsutfordringer, å
-motvirke at barnet havner i miljøer med rus/kriminalitet, ungdommens kognitive fungering eller
-forhold ved foreldrene, som rus, psykiatri mv.
-Foreningen HjelpMeg StoppeVolden og
-Foreningen mot psykisk vold anbefaler å innta
-begrepet psykisk vold i barnelova § 30 tredje ledd.
-Videre foreslår de to organisasjonene at det tas
-inn i bestemmelsen at foreldre ikke har lov til å
-utøve vold mot den andre forelderen eller mot
-andre nære omsorgspersoner for barnet.
-
-20.5 Utvalgets vurderinger og forslag
-20.5.1 Bør det tydeliggjøres når negativ sosial
-kontroll utgjør brudd på barnelova?
-Utvalgets flertall mener det ikke er behov for eller
-hensiktsmessig å innta begrepet negativ sosial i
-barnelova eller på annen måte gjøre endringer for
-å tydeliggjøre grensen mellom hva som er lovlig
-foreldrekontroll og negativ sosial kontroll.
-Det er ikke mulig å trekke klare juridiske
-grenser for når foreldrenes sosiale kontroll overfor et barn er innenfor eller utenfor hva foreldre
-kan gjøre i kraft av foreldreansvaret. Å innta
-begrepet i barnelova med tilhørende definisjon, vil
-ikke bidra til å tydeliggjøre denne grensen. Det er
-også vanskelig å foreta andre hensiktsmessige
-presiseringer i loven som er egnet for klargjøring.
-Grensen mellom akseptabel barneoppdragelse og
-for streng kontroll avhenger av de konkrete
-omstendighetene i den enkelte sak, slik som barnets alder, modenhet, sårbarhet og individuelle
-omsorgsbehov. Både press, oppsyn og overtalelse
-kan etter omstendighetene benyttes i barneoppdragelse i tråd med rettsreglene. Foreldre kan i
-en viss utstrekning bestemme over barnets
-omgang med venner, påkledning, skole og fritidsaktiviteter som legger begrensninger på barnets
-livsutfoldelse. Grensene beror på de konkrete
-omstendighetene i den enkelte sak, deriblant det
-individuelle barnets tilsyns- og omsorgsbehov.
-For eksempel kan ganske omfattende kontroll
-være legitimt overfor et barn som er i risikosonen
-for å begå kriminalitet eller utvikle rusproblemer,
-men ikke overfor et barn som ikke er i en slik
-
-[Side 288]
-
-286
-
-Kapittel 20
-
-NOU 2024: 13
-Lov og frihet
-
-Boks 20.8 Begrensninger i foreldrekontrollen
-– Hensynet til barnets beste skal alltid være et
-– Barnets rett til beskyttelse mot alle former
-grunnleggende hensyn, jf. Grunnloven § 104,
-for vold og overgrep. Barnet må ikke bli
-2. ledd, jf. barnelova § 30.
-utsatt for vold eller på annet måte bli behand– Barnets selvbestemmelsesrett. Barnelova
-let slik at den fysiske eller psykiske helsen
-§ 33 oppstiller en gradvis og generell rett til
-blir utsatt for skade eller fare, jf. barnelova
-selvbestemmelse. I tillegg oppstiller særlov§ 30 tredje ledd.
-ningen bestemte aldersgrenser i konkrete
-– Barnets har rett til privatliv, herunder rett til
-spørsmål.
-fritid, hvile, identitet og relasjonsbygging mv.
-– Barnets rett til å bli hørt og få sin mening
-Barnets rettigheter er vernet gjennom
-vektlagt. Foreldrene skal høre hva barnet har
-Grunnloven og flere konvensjoner.
-å si før de tar avgjørelser om personlige forhold for barnet, jf. barnelova § 31. De skal
-Listen er ikke uttømmende.
-legge vekt på det barnet mener utfra alder og
-modenhet.
-
-risiko. Praksiser som dekkes av begrepet negativ
-sosial kontroll er mange og ulikeartet. Kontrollen
-kan bestå i alt fra svært alvorlige inngrep i barnets
-liv, til mildere former for kontroll på enkeltområder. Det er med andre ord vanskelig å trekke opp
-en grense eller definisjon i lovgivningen for hva
-som er lovlig kontroll ut over de generelle reglene
-som allerede eksisterer i barnelova som blant
-annet innebærer at foreldreansvaret skal utøves ut
-fra barnets interesser og behov, og at avgjørelser
-skal treffes innenfor grensene for barnets rett til
-medvirkning og selvbestemmelse.
-Heller ikke Göller (2020) anbefaler å ta inn
-begrepet negativ sosial kontroll i barnelova.53
-Hun peker på at det er vanskelig å se et behov for
-presiseringer ut over det som allerede følger av
-lovens bestemmelser. De samme momentene som
-er avgjørende for om man står overfor et tilfelle av
-negativ sosial kontroll, inngår allerede i vurderingen av om barnets fysiske eller psykiske helse er
-skadet eller i fare. Det må i begge tilfeller gjøres
-en helhetlig vurdering av barnets situasjon samlet
-sett. Hun peker dessuten på at det å fremheve
-enkelte elementer som spesielt betydningsfulle
-bryter med gjeldende systematikk i loven. Utvalget er enig i Göllers vurdering.
-Utvalget ser riktignok at en lovfesting av
-begrepet kan øke bevisstheten og kunnskapen om
-negativ sosial kontroll i samfunnet, og belyse de
-alvorlige skadevirkningene dette kan ha for barn
-og unge. Å innta begrepet i barnelova kunne føre
-til at offentlige myndigheter blir mer bevisst på
-53
-
-Göller 2020: punkt 9.2.4.
-
-fenomenet og skadevirkningene. Lovfesting
-kunne også ha en pedagogisk effekt overfor foreldre og andre som bistår i oppdragelsen av barn,
-samt gjøre barn selv mer bevisst på sine rettigheter overfor egne foreldre. Dette kunne til sammen
-ha en forebyggende effekt mot skadelig og systematisk foreldrekontroll.
-Etter utvalgets syn er det imidlertid behov for
-andre virkemidler enn endringer av barnelova for
-å forebygge og bekjempe foreldrekontroll som faller utenfor rammene for foreldreansvaret. Mye
-handler om å være i stand til å se og forstå hva
-barnet faktisk har vært utsatt for. Det å kjenne til
-indikatorer og vurderingstemaer av betydning for
-å identifisere om et barn kan være utsatt for negativ sosial kontroll er sentralt.54 Det er videre
-behov for opplysningsarbeid og bevisstgjøring
-rundt grensene for foreldrekontrollen i hjelpeapparatet og blant ulike grupper av befolkningen.
-For foreldre med en annen kulturell bakgrunn
-kan det være særlig utfordrende både å få kunnskap om og å innrette seg etter reglene om barns
-rett til medvirkning og gradvise selvbestemmelsesrett, slik dette er lovfestet i Norge. I strenge
-religiøse trossamfunn kan foreldrene ha et negativt syn på normer og verdier i majoritetsbefolkningen. Dette gjør det viktig med informasjon og
-veiledning til foreldre slik at de kan utøve foreldreansvaret i tråd med loven. Samfunnet som helhet må også bli mer bevisst på praksiser i enkelte
-grupper som innebærer uforholdsmessig streng
-54
-
-I kapittel 19 omtaler utvalget indikatorer og vurderingstemaer som er nyttige for å identifisere om et barn kan være
-utsatt for negativ sosial kontroll.
-
-[Side 289]
-
-NOU 2024: 13
-Lov og frihet
-
-287
-
-Kapittel 20
-
-Boks 20.9 Momenter i vurderingen
-Momenter i vurderingen av om kontrollen er
-• Virkemidlene som benyttes for å utøve konutenfor grensene for foreldreansvaret:
-trollen
-• Den samlede virkningen kontrollen har for
-– Om kontrollen utøves ved bruk av fysisk
-barnets liv og helse
-eller psykisk vold eller avstraffelse, her– om barnets fysiske eller psykiske helse
-under trusler og uforholdsmessige restrikblir utsatt for skade eller fare
-sjoner.
-• Om kontrollen utøves av hensyn til barnet
-– om kontrollen hindrer barnet i ha privatselv, eller om kontrollen er begrunnet i andre
-liv, delta i fritids- og skoleaktiviteter, ha
-årsaker
-omgang med venner, og delta i sosiale,
-• Om kontrollen utøves i samsvar med barnets
-kulturelle, sportslige og andre organisainteresser, omsorgs- og beskyttelsesbehov,
-sjoner
-• Om barnet får utøve sin rett til medvirkning
-alder og modenhet
-og selvbestemmelse
-
-kontroll av barn, noe som kan ha en forebyggende
-effekt og gjøre det lettere for barn i slike grupper
-å søke hjelp.
-
-20.5.2 Kan det gjøres andre endringer for
-å synliggjøre kontrollaspektet?
-Utvalget foreslår å synliggjøre flere sider av psykisk vold og negativ sosial kontroll i barnelova
-§ 30 tredje ledd ved å innta at «kontrollerende» og
-«nedverdigende» atferd er forbudt i leddets tredje
-punktum. Utvalget anbefaler tilsvarende tilpasning i ny barnelov som er under utarbeidelse.
-Den klare yttergrensen for foreldrenes
-handlinger og atferd finnes i straffeloven, og i barnelova § 30 tredje ledd. Sistnevnte bestemmelse
-innebærer at ingen foreldre må utsette barnet for
-vold eller på annet vis behandle barnet slik at den
-fysiske eller psykiske helsen blir utsatt for skade
-eller fare. Bruk av vold og skremmende eller plagsom framferd eller annen hensynsløs atferd overfor barnet er forbudt.
-I barnelovutvalgets forslag til ny barnelov i
-NOU 2020: 14 Ny barnelov – Til barnets beste framgår forbudet mot vold mot barn av to lovbestemmelser (§§ 1-3 og 6-4). Lovforslagets § 1-3 andre
-ledd gir en generalbestemmelse om forbud mot
-vold:
-Barn har rett til vern mot vald, overgrep og
-anna omsynslaus åtferd. Dei skal ikkje utsetjast
-for noko som dei kan ta fysisk eller psykisk
-skade av, verken i oppsedinga eller i andre
-samanhengar.
-
-Lovforslagets § 6-4 regulerer omsorgsplikten som
-følger med foreldreansvaret. Bestemmelsens
-andre ledd lyder:
-Dei som har foreldreansvaret, skal gje barnet
-omsorg, kjærleik og ei oppseding med respekt
-for eigenverdet til barnet. Verken i oppsedinga
-eller i andre samanhengar skal dei utsetje barnet for vald eller noko anna som det kan ta
-fysisk eller psykisk skade av.
-
-Barnelovutvalget så det som «helt avgjørende at
-det synliggjøres at barnets rett til vern ikke bare
-er avgrenset til fysisk vold», men alle former for
-vold som blant annet inngår i barnekonvensjonen
-artikkel 19, som gir barn rett til vern mot «alle former for fysisk eller psykisk vold, skade eller misbruk, vanskjøtsel eller forsømmelig behandling,
-mishandling eller utnytting, herunder seksuelt
-misbruk». Barnelovutvalgets forslag er ment å
-være en komprimert versjon av gjeldende lov § 30
-tredje ledd for å lette lesingen av bestemmelsen,
-men inneholder mange av de samme begrepene
-og skal forstås på samme måte.55 I sine innspill til
-lovforslaget har flere høringsinstanser påpekt at
-det ikke framgår tydelig av lovforslaget at psykisk
-vold mot barn er forbudt.56
-Utvalget har i herværende utredning foreslått
-endringer i flere bestemmelser i ulik lovgivning
-for å synligjøre elementer av psykisk vold og
-negativ sosial kontroll. I straffeloven §§ 266 om
-55
-56
-
-NOU 2020: 14 punkt 8.5.5.3.4.
-Politidirektoratet; Bufetat region sør, seksjon faglig støtte
-og seksjon HR; Human-Etisk forbund.
-
-[Side 290]
-
-288
-
-Kapittel 20
-
-NOU 2024: 13
-Lov og frihet
-
-hensynsløs atferd er dette gjort ved å innta formuleringen «kontrollerende og nedverdigende»
-atferd, og «krenker en annens psykiske integritet»
-i bestemmelsen. I straffeloven § 282 om mishandling i nære relasjoner foreslår utvalget at formuleringen «andre fysiske eller psykiske krenkelser»
-inntas som erstatning for «andre krenkelser». I
-utlendingsloven § 53 første ledd bokstav b om
-oppholdstillatelse til utlending som er utsatt for
-mishandling er det foreslått å innta formuleringen
-«fysisk og psykisk mishandling». Også i barnevernsloven § 3-1 om frivillig hjelpetiltak og § 5-1
-om omsorgsovertakelse,
-foreslår utvalget
-endringer i ordlyden for å framheve psykisk
-omsorgssvikt. Sammenhengen i regelverket tilsier etter utvalgets oppfatning at vernet mot psykiske krenkelser også bør komme klart fram i barnelova § 30 tredje ledd, hvor siste punktum delvis
-er utformet etter inspirasjon fra straffeloven § 266
-(se under gjeldende rett). Barnelovas forbud mot
-vold er ment å samsvare med barnekonvensjonen
-artikkel 19 som gir barn et vern mot alle former
-for vold, både fysisk og psykisk vold. Dette bør
-komme enda tydeligere fram i barnelovas bestemmelse som har til hensikt å gi barnet et slikt vern.
-Som innspill til arbeidet med ny barnelov foreslår utvalget at nåværende formulering i barnelova § 30 tredje ledd tredje punktum videreføres, men tilpasset utvalgets endringsforslag i
-§ 266 om hensynsløs atferd:
-Barn har rett til vern mot vald, overgrep og
-anna omsynslaus åtferd. Dei skal ikkje utsetjast
-
-for noko som dei kan ta fysisk eller psykisk
-skade av, verken i oppsedinga eller i andre
-samanhengar. Bruk av skremmande, kontrollerande, nedverdigande, plagsam eller annan
-omsynslaus åtferd overfor barnet er forbode.
-
-Som forslag til endringer i gjeldende barnelov
-foreslår utvalget at «kontrollerande og nedverdigande atferd» inntas i § 30 tredje ledd tredje punktum slik at bestemmelsen vil lyde:
-Bruk av vald og skremmande, kontrollerande,
-nedverdigande eller plagsam framferd eller
-annan omsynslaus åtferd overfor barnet er forbode.
-
-Utvalgets mindretall, Halima El Abassi, foreslår at
-også begrepet negativ sosial kontroll tas inn i barnelova § 30 tredje ledd, se mindretallets forslag til
-lovendring. Abassi framhever at negativ sosial
-kontroll er en effektiv språkdrakt på et fenomen
-som eksisterer i Norge og som gjennom lovregulering kan bidra til å løfte fram saker om negativ
-sosial kontroll blant aktører som skal hjelpe
-utsatte barn og unge. Å synliggjøre at det å utøve
-negativ sosial kontroll ikke er innenfor hva foreldre kan gjøre i kraft av sitt foreldreansvar, kan
-bidra til større forståelse for fenomenet, både i
-hjelpeapparatet, hos foreldre og barna selv. Forøvrig vises det til Abassis begrunnelse for å innta
-begrepet i barnevernsloven og utlendingsloven
-under de respektive kapitlene.
-
-[Side 291]
-
-NOU 2024: 13
-Lov og frihet
-
-289
-
-Kapittel 21
-
-Kapittel 21
-
-Barnevern – enkelte grunnleggende prinsipper
-21.1 Innledning
-Barnevernslovens formål er å sikre at barn og
-unge som lever under forhold som kan skade
-deres helse og utvikling, får nødvendig hjelp,
-omsorg og beskyttelse til rett tid, jf. barnevernsloven § 1-1 første ledd.1 Barnevernstjenesten har
-ansvar for å gi hjelp, omsorg og beskyttelse når
-det er nødvendig på grunn av barnets omsorgssituasjon eller atferd, jf. lovens § 15-3 andre ledd.
-For å oppfylle dette ansvaret har barnevernstjenesten et bredt spekter av tiltak til rådighet, jf. barnevernsloven kapittel 3 til 5. Kommunen har en
-lovpålagt plikt til å gi nødvendig hjelp til barn, jf.
-lovens § 15-3. Ved lovendring i 2018 ble det det
-innført en tilsvarende rett til nødvendige tiltak for
-barnet, jf. § 1-6.2 Denne sistnevnte bestemmelsen
-og rettighetsfestingen er en presisering av barnets rett til omsorg og vern mot vold etter Grunnlovens § 104 og barnekonvensjon artikkel 19.3
-Barnevernsloven skal anvendes i tråd med en
-rekke grunnleggende prinsipper, som i stor grad
-skriver seg fra konstitusjonelle og internasjonale
-menneskerettigheter omtalt i kapittel 5. Enkelte
-av prinsippene er nedfelt i barnevernsloven §§ 1-1
-til 1-10. Prinsippene er førende for vurderingene
-og utfallet i en barnevernssak, men også for prosessene og saksbehandlingen i slike saker.
-Nedenfor gjennomgår utvalget enkelte grunnleggende prinsipper av særlig betydning for problemstillingene denne utredningen omhandler.
-
-1
-2
-
-3
-
-Lov 18. juni 2021 nr. 97 om barnevern (barnevernsloven).
-Bestemmelsen viderefører lov 17. juli 1992 nr. 100 om barneverntjenester (barnevernloven 1992) § 1-5 om barns rett til
-nødvendige barnevernstiltak, med enkelte mindre språklige
-endringer. Det nærmere innholdet i bestemmelsen er
-beskrevet i Prop. 169 L (2016–2017) kapittel 5.
-Prop. 169 L (2016–2017) punkt 5.5.
-
-21.2 Enkelte grunnleggende prinsipper
-i barnevernsloven
-Hensynet til barnets beste er det førende prinsippet
-for alt arbeid etter barnevernsloven og skal være
-et grunnleggende hensyn ved alle handlinger og
-avgjørelser som berører barn, jf. barnevernsloven
-§ 1-3 første punktum, jf. også Grunnloven § 104
-andre ledd og FNs barnekonvensjon artikkel 3 nr. 1.
-Alle barnevernstiltak skal være til barnets beste,
-jf. barnevernsloven § 1-3 andre punktum. Tiltaket
-må etter en samlet vurdering være bedre for barnet, enn alternativet om ikke å iverksette tiltaket.
-Hvilken vekt hensynet til barnets beste skal ha,
-kommer til uttrykk på varierende vis i praksis fra
-Den europeiske menneskerettighetsdomstolen
-(EMD). Det blir både vist til at hensynet til barnets beste skal være overordnet («of paramount
-importance»)4 og at barnets beste «must come
-before all other considerations».5 Under enhver
-omstendighet må det foretas en interesseavveining mellom hensynet til barnets beste og foreldrenes rett til privat- og familieliv.6 I følge forarbeidene til barnevernsloven skal hensynet til barnet
-«veie særlig tungt» i barnevernssaker hvor
-handlinger og avgjørelser direkte gjelder barn.7
-Det kan legges til grunn at barnets beste er å anse
-som et vilkår for å treffe vedtak om tiltak etter barnevernsloven.8
-Det minste inngreps prinsipp innebærer at barnevernets tiltak ikke skal være mer inngripende
-enn nødvendig, jf. barnevernsloven § 1-5 andre
-ledd. Prinsippet gjenspeiler nødvendighets- og
-proporsjonalitetskravet ved inngrep i retten til
-familieliv, jf. EMK artikkel 8 nr. 2. Prinsippet gjel4
-5
-6
-7
-8
-
-Strand Lobben mfl. mot Norge 10. september 2019, saksnr.
-37283/13 (avsnitt 204).
-Gnahoré mot Frankrike 19. september 2000, saksnr. 40031/
-98 (avsnitt 59).
-Strand Lobben mfl. mot Norge (avsnitt 206).
-Prop. 133 L (2020–2021) merknader til § 1-3.
-Se blant annet Stang og Sandberg 2023: side 59.
-
-[Side 292]
-
-290
-
-Kapittel 21
-
-NOU 2024: 13
-Lov og frihet
-
-der i hele barnevernstjenestens arbeid, fra undersøkelsesfasen til iverksettelse av tiltak.
-Det biologiske prinsipp og retten til respekt for
-familielivet. Etter barnevernsloven § 1-5 har barn
-rett til omsorg og beskyttelse, fortrinnsvis i egen
-familie. Barn og foreldres rett til familieliv er vernet av Grunnloven §§ 102 og 104 tredje ledd og
-EMK artikkel 8 nr. 1. EMD har lagt stor vekt på
-barns og foreldres biologiske tilhørighet til hverandre, også der barnevernstjenesten har overtatt
-omsorgen for barnet.9
-Partsrettigheter. I saker etter barnevernsloven
-er hovedregelen at barn kan opptre som part i
-saken og gjøre partsrettigheter gjeldende dersom
-barnet har fylt 15 år og forstår hva saken gjelder,
-jf. barnevernsloven § 12-3 første ledd første punktum. I saker som gjelder tiltak for barn med
-atferdsvansker eller tiltak for barn utsatt for menneskehandel, har barn alltid partsrettigheter uansett alder, jf. lovens § 12-3 første ledd andre punktum. Dersom hensynet til barnet tilsier det, kan
-barneverns- og helsenemnda i tillegg innvilge
-barn under 15 år partsrettigheter, jf. lovens § 12-3
-annet ledd. I barnevernloven av 1992 måtte det
-foreligge «særlige grunner» for å kunne innvilge
-barn under 15 år partsrettigheter.10 I den nye barnevernsloven av 2021 er dette endret til at det nå
-er tilstrekkelig at hensynet til barnet tilsier det, og
-innebærer dermed en lavere terskel for å kunne
-innvilge yngre barn partsrettigheter. I forarbeidene er det uttalt at barn over 12 år bør få informasjon fra barnevernstjenesten om hva partsrettigheter innebærer og muligheten for innvilgelse av
-partsrettigheter.11
-Medvirkningsrett. Et barn har rett til å medvirke i alle forhold som vedrører barnet, jf. barnevernsloven § 1-4 første ledd. Medvirkningsretten
-følger også av Grunnloven § 104 første ledd andre
-9
-
-Stang og Sandberg 2023: side 38.
-Barnevernloven 1992 § 6-3 andre ledd.
-11 Prop. 133 L (2020–2021) punkt 18.2.4.3.
-10
-
-punktum og barnekonvensjonen artikkel 12. Barn
-har en rett, men ingen plikt, til å uttale seg til barnevernet, dette gjelder uavhengig av foreldrenes
-samtykke, og foreldrene trenger ikke å bli informert om samtalen på forhånd.12 Barnets syn skal
-tillegges vekt i samsvar med dets alder og modenhet.13 En forutsetning for utøvelse av retten til
-medvirkning er at barnet har fått tilstrekkelig og
-tilpasset informasjon om spørsmålet saken gjelder. Barn skal informeres om hva barnets opplysninger kan brukes til, hvem som kan få innsyn i
-disse, og de har rett til å uttale seg før opplysningene deles jf. § 1-4 andre ledd. Barnet kan ha med
-seg en tillitsperson i møter med barnevernet jf.
-§ 1-4 tredje ledd.
-Barns rett til å få ivaretatt sin etniske, kulturelle, språklige og religiøse bakgrunn gjelder i alle
-faser av saken, jf. barnevernsloven § 1-8, jf. barnekonvensjonen artikkel 14, 20 og 30. Bestemmelsen har betydning både for urfolk, nasjonale minoriteter og barn med tilknytning til andre land.14
-Det presiseres i forarbeidene at det er barnets, og
-ikke foreldrenes bakgrunn som skal ivaretas, men
-at foreldrenes bakgrunn likevel er relevant i forståelsen av barnets bakgrunn, og ofte sammenfallende.15
-Tidlig innsats. Barnevernstjenesten skal sette
-inn tiltak tidlig for å forebygge alvorlig omsorgssvikt og atferdsvansker, jf. barnevernsloven § 1-10
-og barnekonvensjonen artikkel 19 nr. 1 om
-beskyttelse og nr. 2 om forebygging. Å avdekke
-omsorgssvikt så tidlig at varige problemer kan
-unngås, er avgjørende for å gi riktig hjelp til rett
-tid, jf. lovens formål etter § 1-1 første ledd.16
-
-12
-
-Barnevernsloven § 1-4 første ledd.
-Barnevernsloven § 1-4 første ledd siste punktum.
-14 Prop. 133 L (2020–2021) punkt 7.4.4.2.
-15
-Prop. 133 L (2020–2021) punkt 7.4.4.2 og merknader til § 1-8.
-16 Prop. 133 L (2020–2021) punkt 7.6.4.
-13
-
-[Side 293]
-
-NOU 2024: 13
-Lov og frihet
-
-291
-
-Kapittel 22
-
-Kapittel 22
-
-Barnevernstjenestens undersøkelser og risikovurderinger
-22.1 Innledning
-I dette kapittelet gir utvalget en overordnet framstilling av regelverket knyttet til det tidlige stadiet
-av en barnevernssak, dvs. fra bekymringsmelding
-kommer fram til barnevernstjenesten, og til
-undersøkelse åpnes og avsluttes. Framstillingen
-er av betydning for flere andre kapitler der det
-vurderes tiltak for å styrke rettsvernet for barn og
-unge utsatt for negativ sosial kontroll, tvangsekteskap, kjønnslemlestelse, psykisk vold og ufrivillig
-eller skadelig utenlandsopphold. Utvalgets vurderinger er særlig knyttet til spørsmålet om foreldreinvolvering og unntak fra partsinnsyn.
-En gjennomgående erfaring fra både forskningsrapporter og tilbakemeldinger fra aktører
-som har kommet med innspill til utvalget, er at det
-er manglende kunnskap om negativ sosial kontroll og æresmotivert vold og kontroll i barnevernstjenesten. Manglende kunnskap innebærer
-en risiko for at en barnevernssak bærer galt av
-sted allerede på undersøkelsesstadiet.
-Et behov utvalget har identifisert i saker om
-negativ sosial kontroll og æresmotivert vold, er
-viktigheten av å sikre gode risikovurderinger før
-foreldre involveres i saken. Barnevernstjenesten
-(og andre hjelpeinstanser) trenger tid til å bygge
-tillit hos barnet for å få kartlagt hva barnet har
-vært utsatt for og hva det risikerer å bli utsatt for.
-En slik tillitsbygging kan være utfordrende dersom foreldrene informeres om at barnet har kontakt med barnevernstjenesten.1 Dersom barnevernet orienterer foreldre om at det er iverksatt
-undersøkelse i en sak som gjelder negativ sosial
-kontroll, er det i en del tilfeller fare for at barnet
-kan bli utsatt for enda strengere kontroll, press til
-å trekke tilbake sin forklaring til barnevernstjenesten, eller at barnet blir sendt på et ufrivillig
-eller skadelig utenlandsopphold. Særlig i saker
-hvor den negative sosiale kontrollen er motivert
-1
-
-Sekretariatets samtale med utsatt og mangfoldsrådgiver, og
-samtaler med spesialutsendinger for integrering ved
-ambassadene. Se også Bredal og Melby 2018.
-
-av ære, kan barnet i ytterste konsekvens risikere
-svært alvorlige represalier dersom foreldrene orienteres om at det er iverksatt undersøkelse, eller
-om informasjon barnet har gitt til barnevernstjenesten.
-
-22.2 Gjeldende rett
-22.2.1 Bekymringsmeldinger
-Etter barnevernsloven § 2-1 skal barnevernstjenesten «snarest, og senest innen en uke» gjennomgå bekymringsmeldinger de mottar, og vurdere om meldingen skal følges opp med en undersøkelse. Også for et barn som oppholder seg i
-utlandet, skal en bekymringsmelding til barnevernstjenesten følges opp med vurdering av om
-undersøkelse skal iverksettes.2
-Barnevernsloven definerer ikke hva en
-bekymringsmelding er, men det kan legges til
-grunn at begrepet omfatter enhver henvendelse
-til barnevernstjenesten som gir grunnlag for
-bekymring for et konkret barn. Også meldinger
-som gis til barnevernstjenesten som følge av meldeplikten etter § 13-2, omfattes av begrepet.3
-Barnevernstjenesten plikter å foreta en første
-siling av innkomne bekymringsmeldinger så snart
-som mulig for å identifisere meldinger som krever
-umiddelbar oppfølging, jf. barnevernsloven § 2-1
-første ledd tredje punktum.4 For eksempel kan en
-bekymring for at barnet risikerer å bli sendt på et
-ufrivillig eller skadelig utenlandsopphold, eller en
-bekymring om at et barn risikerer å bli utsatt for
-æresmotivert vold, kreve umiddelbar oppfølging.
-Uten umiddelbar oppfølging kan det være risiko
-for at barnet blir ført ut av landet før barnevernstjenesten har fått undersøkt omsorgssituasjonen nærmere, eller at omsorgssituasjonen forverres og barnet blir utsatt for alvorlige overgrep.
-2
-3
-4
-
-Prop. 133 L (2020–2021) punkt 7.7.4.1.
-Stang og Sandberg 2023: side 357.
-Prop. 133 L (2020–2021) punkt 8.1.4.3.
-
-[Side 294]
-
-292
-
-Kapittel 22
-
-NOU 2024: 13
-Lov og frihet
-
-22.2.2 Undersøkelser
-Når det er «rimelig grunn til å anta» at det foreligger forhold som «kan» gi grunnlag for å iverksette tiltak etter loven, har barnevernstjenesten
-plikt til å iverksette undersøkelse, jf. barnevernsloven § 2-2 første ledd. Formålet med undersøkelsen er å avdekke og dokumentere om barnet
-har behov for tiltak, og helst før barnets situasjon
-har utviklet seg til omsorgssvikt eller mishandling, jf. lovens § 1-1 (om lovens formål), jf. § 15-1
-første ledd (om kommunens ansvar) og 15-3
-andre ledd (om barnevernstjenestens ansvar).5
-Vilkåret «rimelig grunn til å anta» innebærer
-en lav terskel for å iverksette undersøkelser. Det
-er ikke krav om sannsynlighetsovervekt, men det
-må foreligge en konkret grunn som kan gi grunnlag for tiltak.6 Den nedre terskelen for å iverksette
-undersøkelse er knyttet til vilkårene for frivillig
-hjelpetiltak etter lovens § 3-1 første ledd.7 Denne
-bestemmelsen har de laveste inngangsvilkårene
-for tiltak, og vurderingstemaet er om det er rimelig grunn til å anta at et barn på grunn av sin
-omsorgssituasjon eller atferd har «et særlig behov
-for hjelp». Er det rimelig grunn til å anta at barnet
-har et særlig behov for hjelp, vil dette utløse en
-undersøkelsesplikt.
-Et barn kan blant annet ha et særlig behov for
-hjelp dersom det lever under forhold med sterke
-begrensninger i bevegelsesfriheten eller muligheten til å delta i et sosialt liv. Bekymringsmeldingen
-kan inneholde diffuse og til dels «usynlige» indikasjoner på ulike former for negativ sosial kontroll, som isolert sett og i første omgang framstår
-som bagatellmessige og akseptable foreldrerestriksjoner. God fenomenforståelse og evne til å
-se barnets situasjon i sin helhet på et tidlig stadium i saken er dermed viktig. En eller flere
-bekymringsmeldinger kan være grunnlaget for å
-iverksette en undersøkelse, og det kan etter
-omstendighetene være av betydning hvem
-bekymringsmeldingen kommer fra. Dersom
-bekymringsmeldingen kommer fra en ansatt med
-meldeplikt etter lovens § 13-2, vil det være en presumpsjon for at det bør igangsettes en undersøkelse.8
-Barnevernstjenesten skal undersøke barnets
-«helhetlige omsorgssituasjon og behov», jf. barne-
-
-vernsloven § 2-2 tredje ledd første punktum. En
-slik undersøkelse vil vanligvis omfatte momenter
-som barnets hjemmeforhold, atferd og emosjonelle behov, helse og utvikling, forhold i barnehage eller skole, fritidsaktiviteter og andre forhold
-av betydning.9
-Undersøkelsens sentrale kilde til opplysninger
-vil i utgangspunktet være barnet selv. Samtaler
-med barnet er derfor en grunnleggende del av
-undersøkelsen. Et viktig formål med samtalen er, i
-tillegg til å klarlegge faktum, å bidra til å oppfylle
-barnets medvirkningsrett, jf. barnevernsloven § 1-4.
-Ofte vil det ta tid før barnet forteller om den reelle
-situasjonen det er i, og det er nødvendig å bygge
-opp et trygt og godt samarbeid mellom barnevernstjenesten og barnet.10 Barnet har rett til å
-uttale seg til barnevernet uavhengig av foreldrenes samtykke, og uten at foreldrene informeres
-om samtalen på forhånd, jf. lovens § 1-4 første
-ledd. Barnevernstjenesten kan videre engasjere
-en sakkyndig som også kan kreve å få snakke
-med barnet i enerom, jf. lovens § 2-2 femte ledd.
-I forbindelse med undersøkelsen, kan det
-være nødvendig å innhente opplysninger om barnets situasjon fra skole, helsesøster, lege, politi
-eller andre offentlige instanser som er involvert i
-familien, primært etter samtykke fra foreldre og
-eventuelt barnet. Der foreldrene ikke samtykker,
-kan informasjonen innhentes fra de ulike organene etter pålegg, jf. barnevernsloven § 13-4 (om
-pålegg om å gi opplysninger). Der det er «nødvendig», kan barnevernsleder be om politibistand ved
-gjennomføring av undersøkelsen, jf. barnevernsloven § 12-10 (om politibistand ved gjennomføring av undersøkelser og ved fullbyrding av vedtak).
-Undersøkelsen må være grundig nok til å
-kunne avgjøre om det er nødvendig med tiltak
-etter barnevernsloven, jf. barnevernsloven § 2-2
-tredje ledd. Omfanget av undersøkelsen må stå i
-forhold til temaet for bekymringen og alvoret i
-den enkelte saken.11 Undersøkelsen er grunnlaget for senere beslutninger, og Høyesterett har
-understreket at barnevernets avgjørelse må
-bygge på et bredt og oppdatert beslutningsgrunnlag.12
-Det er viktig at ulike hypoteser undersøkes i
-barnevernssaken. Dersom barnet opplyser at det
-
-5
-
-9
-
-6
-7
-8
-
-Stang 2023: Karnov lovkommentar til barnevernsloven § 22.
-Prop. 133 L (2020–2021) punkt 8.2.1.2.
-Stang 2023: Karnov lovkommentar til barnevernsloven § 22.
-Ibid.
-
-Prop. 133 L (2020–2021) merknader til § 2-2.
-Prop. 133 L (2020–2021) punkt 8.2.5.3. Se også Bredal og
-Melby 2018.
-11
-Prop. 133 L (2020–2021) merknader til § 2-2.
-12 HR-2020-661-S, HR-2020-662-S og HR-2020-663-S. Se også
-Prop. 133 L (2020–2021) punkt 8.2.5.1.
-10
-
-[Side 295]
-
-NOU 2024: 13
-Lov og frihet
-
-ikke får delta på fritidsaktiviteter og bursdager,
-kan dette skyldes at familien har dårlig råd. På
-den annen side kan slike begrensninger også
-være et tegn på at barnet er utsatt for et svært
-strengt kontrollregime med risiko for alvorlige
-konsekvenser for barnet dersom det ikke følger
-familiens normer og regler.
-I familier med patriarkalske eller kollektivistiske verdier hvor hensynet til storfamilien eller et
-religiøst lukket samfunn står sentralt, er negativ
-sosial kontroll gjerne kollektiv, og flere personer
-kan være deltakende i utøvelsen av kontrollen.
-Det er da særlig viktig at ikke bare barnets forhold til nærmeste familie undersøkes, men også
-den utvidede familien eller andre som familien har
-nær kontakt med. Utøverne av kontrollen kan
-være medlemmer av storfamilien, slik som tanter,
-onkler og besteforeldre, eller ledere eller andre
-personer i et lukket trossamfunn. I noen tilfeller
-kan også en eller begge foreldre selv være utsatt
-for kontroll og sterke begrensninger i hvilke valg
-de kan foreta i hverdagen. Dette kan være av
-betydning for hvordan undersøkelsen gjennomføres, og kan for eksempel tilsi et behov for separate
-samtaler med hver av foreldrene på et tidlig stadium av undersøkelsen.
-Etter barnevernslovens § 1-8 skal barnevernstjenesten ta hensyn til barnets etniske, kulturelle, språklige og religiøse bakgrunn. I undersøkelsesfasen innebærer dette at det blant annet må
-innhentes informasjon om barnets bakgrunn som
-ledd i den helhetlige kartleggingen. Målet med
-bestemmelsen er å bidra til bedre barnevernsfaglig arbeid, grundigere vurderinger og riktigere
-avgjørelser til barnets beste. Bestemmelsen innebærer ikke at det skal legges en annen standard til
-grunn for vurderinger av barnets behov eller av
-kriterier for god omsorg og gode oppvekstsvilkår.13
-For mange vil en undersøkelse fra barnevernstjenesten oppleves som belastende og stigmatiserende. Etter barnevernsloven § 2-2 tredje
-ledd skal undersøkelsen gjennomføres så «skånsomt som mulig». Det innebærer at undersøkelsen ikke kan være mer omfattende enn formålet
-tilsier, og at kunnskap om undersøkelsen ikke
-spres unødig. Bestemmelsen innebærer en presisering av at minste inngreps prinsipp også gjelder i
-undersøkelsesfasen, jf. Grunnloven § 102 og barnevernsloven § 1-3 andre ledd.
-Undersøkelsen skal gjennomføres snarest, og
-senest innen tre måneder, jf. lovens § 2-2 andre
-ledd. I særlige tilfeller kan undersøkelsestiden
-13
-
-Prop. 133 L (2020–2021) punkt 7.4.4.2.
-
-293
-
-Kapittel 22
-
-utvides til inntil seks måneder. En utvidelse av
-undersøkelsestiden kan være hensiktsmessig og
-nødvendig for å bygge tillit til barnet, særlig i
-saker der barnet frykter represalier og strengere
-restriksjoner dersom kontakten med barnevernstjenesten blir kjent for foreldrene. Når barnevernstjenesten mottar en bekymringsmelding,
-skal den alltid vurdere om det er behov for umiddelbar oppfølging, jf. § 2-1 første ledd siste punktum. Dersom det er et slikt behov, må barnevernstjenesten foreta en raskere undersøkelse
-enn det som følger av § 2-2.
-En undersøkelse avsluttes enten med at barnevernstjenesten vedtar å henlegge saken, henlegger saken med bekymring med mulighet for ny
-undersøkelse innen seks måneder fordi foreldrene ikke samtykker til anbefalte hjelpetiltak,
-eller barnevernstjenesten vedtar iverksetting av
-tiltak. Ved alvorlig bekymring for barnets
-omsorgssituasjon, avsluttes undersøkelsen med at
-barnevernstjenesten sender en begjæring om mer
-inngripende tiltak til barneverns- og helsenemnda. Dette er regulert i lovens § 2-5 om avslutning
-av undersøkelser. For mer informasjon om barnevernstjenestens undersøkelser, vises det til Prop.
-133 L (2020–2021) Lov om barnevern (barnevernsloven) og lov om endringer i barnevernsloven.
-
-22.2.3 Foreldrenes innsynsrett og
-barnevernstjenestens
-informasjonsplikt
-Som hovedregel skal alt saksmateriale i en barnevernssak legges fram for foreldrene, også når de
-ikke har bedt om det. Dette er slått fast av Den
-europeiske menneskerettighetsdomstolen (EMD),
-jf. de enstemmige storkammerdommene T. P. og
-K. M. mot Storbritannia og K. A. mot Finland.14
-Det må ifølge førstnevnte dom likevel foretas en
-avveining av foreldrenes og barnets interesser, jf.
-avsnitt 80. Det åpnes for at innsyn som kan sette
-et barn i fare på grunn av dets uttalelser, kan nektes. I den generelle uttalelsen i avsnitt 80 ligger en
-anerkjennelse av at det kan være situasjoner hvor
-tilbakehold av opplysninger av hensyn til barnet
-kan være aktuelt.15 FNs barnekonvensjon artikkel
-12 oppstiller krav om å treffe alle mulige forholdsregler for å minimere risikoen for at barn blir
-utsatt for vold, utnyttelse eller andre negative kon-
-
-14
-
-T. P. og K. M. mot Storbritannia 10. mai 2001, saksnr.
-28945/95 (avsnitt 82) og K. A. mot Finland 14. januar 2003,
-saksnr. 27751/95 (avsnitt 105).
-15 Se mer i Prop. 133 L (2020–2021) punkt 18.4.
+## Utvalgets vurderinger og forslag
+
+### Innledende betraktninger
+
+En oppholdstillatelse for familieinnvandring gis for at en utlending og en referanseperson skal kunne utøve familielivet på norsk territorium. Dersom samlivet er opphørt før utlendingen har fått en permanent oppholdstillatelse, er det klare utgangspunktet at utlendingen skal returnere til sitt opprinnelsesland. En oppholdstillatelse på selvstendig grunnlag etter utlendingsloven § 53 første ledd bokstav b er et unntak fra dette. Bestemmelsen fungerer som en sikkerhetsventil for utlendinger som er mishandlet i samlivsforholdet, og som må velge mellom å bli i et skadelig samliv eller å forlate samlivspartneren og miste oppholdsgrunnlaget i Norge. Tillatelsens grunnlag hviler på en avveining mellom utlendingens behov for beskyttelse mot overgrep og statens ønske om en regulert og kontrollert innvandring.
+
+Siden en tillatelse etter utlendingsloven § 53 første ledd bokstav b gir en rekke goder, må disse godene ses i sammenheng med hvilke vilkår som stilles for å få tillatelsen. Jo flere fordeler som en tillatelse gir, desto sterkere er myndighetenes behov for å føre kontroll med hvem som får tillatelsen, og på hvilke betingelser. Disse kravene skal imidlertid være forholdsmessige og rimelige og skal ikke føre til at oppholdstillatelsen ikke oppleves som et reelt alternativ. Særlig i relasjon til barn skal hensynet til barnets beste være et grunnleggende hensyn, jf. Grunnloven § 104 og FNs barnekonvensjon artikkel 3.
+
+### Når er negativ sosial kontroll og psykisk vold mishandling etter utlendingsloven § 53 første ledd bokstav b?
+
+Utvalget har ikke hatt kapasitet til å gjennomgå konkrete saker i utlendingsforvaltningen for å undersøke når negativ sosial kontroll og psykisk vold etter gjeldende praksis når opp til terskelen for mishandling etter bestemmelsen. Det er også lite rettspraksis som kan gi veiledning.
+
+Begrepet mishandling innebærer et krav om et handlingsmønster eller et regime, og i dette ligger det en viss kvalifisert terskel for hvor alvorlige krenkelsene som utlendingen er utsatt for må være. Denne avgrensingen må ses i sammenheng med hensynet til en kontrollert og regulert innvandring. Det må kunne forventes at en utlending kan returnere til sitt opprinnelsesland dersom samlivet har vært ulykkelig eller ikke har levd opp til forventningene. Også formuleringen «particularly difficult circumstances» i Istanbul-konvensjonen artikkel 59 gir uttrykk for at det bør foreligge visse kvalifiserte forhold for at utlendingen kan ha krav på en selvstendig oppholdstillatelse når forholdet ikke lenger består. Et krav om at det må foreligge «mishandling» synes å være i harmoni med artikkel 59 i Istanbul-konvensjonen.
+
+Utvalget legger til grunn at spørsmålet om når negativ sosial kontroll og psykisk vold er å anse som mishandling i utlendingslovens forstand, fortsatt må bero på en konkret vurdering der det ses hen til «de beskrevne hendelsene, alvorlighetsgraden, under hvilke omstendigheter mishandlingen fant sted, om de er en del av et handlingsmønster eller om det dreier seg om en enkeltstående episode. En handling som alene ikke kan betegnes som mishandling, vil likevel kunne karakteriseres som det dersom handlingen gjentas over tid».[^1147] Generell misnøye i ekteskapet eller samboerforholdet, uoverensstemmelser eller forskjellige oppfatninger om roller grunnet kulturforskjeller kan ikke i seg selv være nok til å konstatere at det foreligger mishandling.[^1148] Det som er viktig i saker om negativ sosial kontroll og psykisk vold er imidlertid at det også må ses hen til maktubalansen mellom partene og den utsattes sårbarhet. Videre må det tas i betraktning at et enkelttilfelle av vold eller alvorlig trussel kan være tilstrekkelig til å etablere og opprettholde et voldsregime der de påfølgende virkemidlene som benyttes til å utøve kontroll eller psykisk vold er av mildere art. Den utsatte vil huske volden og tilpasse seg for å forhindre ny vold.
+
+Det er nødvendig at utlendingsmyndighetene har tilstrekkelig kunnskap om fenomenene til å undersøke og vurdere sakene tilstrekkelig godt til å *avdekke* elementer av negativ sosial kontroll og psykisk vold, at de kjenner til de alvorlige *skadevirkningene* dette kan ha for den utsatte samt *risikoen* den utsatte utsetter seg for ved å bli i forholdet. For å bidra til større oppmerksomhet om fenomenet i saksbehandlingen, vurderer derfor utvalget om det bør gjøres endringer i bestemmelsens ordlyd, se påfølgende punkter nedenfor.
+
+### Bør psykisk mishandling synligjøres i utlendingsloven § 53 første ledd bokstav b?
+
+Utvalget foreslår at utlendingsloven § 53 første ledd bokstav b endres slik at det kommer tydelig fram at mishandlingsbegrepet også omfatter psykisk mishandling.
+
+Formålet med forslaget er å synliggjøre «usynlige» former for mishandling. Selv om det allerede følger av både forarbeider, rundskriv og forvaltningspraksis at mishandlingsbegrepet i utlendingsloven § 53 første ledd bokstav b omfatter handlinger og atferd av psykisk art,[^1149] vil en presisering i loven tydeliggjøre overfor de utsatte, rettsanvenderen og hjelpeapparatet at også psykiske krenkelser kan utgjøre mishandling. Det vil gi økt klarhet og forutberegnelighet for de utsatte og bidra til at ulike former for psykiske vold får mer oppmerksomhet i saksbehandlingen.[^1150]
+
+Forslaget er i tråd med utvalgets øvrige forslag om å tydeliggjøre mangler ved den *psykiske omsorgen* barnet får i barnevernsloven §§ 3-1 og 5-1 bokstav a, å innta *psykisk mishandling* i barnevernsloven § 5-1 bokstav c om omsorgsovertakelse og *psykiske krenkelser* i straffeloven § 282 om mishandling i nære relasjoner, å gjøre visse tilføyelser i straffeloven § 266 om hensynsløs atferd, og å endre forbudet mot vold mot barn i utøvelsen av foreldreansvaret i barnelova § 30 tredje ledd. Alle forslagene springer ut av formålet om å styrke rettsvernet mot psykisk vold og negativ sosial kontroll. Hensynet til sammenhengen i regelverket tilsier at utlendingers rettsvern mot psykiske mishandling også bør framkomme tydelig av utlendingsloven.
+
+At psykisk mishandling tas inn i bestemmelsen vil ikke nødvendigvis klargjøre den nedre grensen for når psykisk vold eller negativ sosial kontroll utgjør mishandling og danner grunnlag for oppholdstillatelse. Med bakgrunn i at terskelen for at handlinger skal kunne anses som mishandling etter utlendingsloven skal ligge noe under tilsvarende begrep i straffeloven § 282, kan forarbeider og rettspraksis fra strafferetten si noe om hva som *i alle fall* bør anses som mishandling i utlendingslovens forstand. Utvalget mener at den konkrete vurderingen av hvorvidt det foreligger psykisk mishandling, må bygge på en forståelse av kompleksiteten av en mishandlingssituasjon i lys av maktforholdet mellom partene. For eksempel kan den utsatte ha dårlige norskkunnskaper, manglende kjennskap til det norske samfunnet og bli truet med å bli sendt tilbake til hjemlandet om hen ikke følger ektefellens ønsker. Andre eksempler kan være at referansepersonen tar kontroll over utlendingens økonomi eller nekter vedkommende å ta arbeid eller delta på norskkurs, noe som igjen kan få konsekvenser for hvorvidt utlendingen vil fylle vilkårene for en permanent oppholdstillatelse på sikt.
+
+I høyesterettsdom HR-2020-1345-A, som gjaldt mishandling i nære relasjoner etter straffeloven § 282, anså retten at fornærmedes sårbarhet som innvandrerkvinne med kort botid i Norge å være et skjerpende moment i straffutmålingen.[^1151] Også hennes tidligere erfaringer med mishandling i hjemmet ble trukket inn som relevante i vurderingen av hennes sårbarhet overfor tiltalte:
+
+Ved straffutmålingen legger jeg videre vekt på at B var sårbar, idet hun hadde vært utsatt for vold både fra faren og sin tidligere ektemann i Marokko. A var kjent med denne sårbarheten, men hentet henne likevel til Norge og utsatte henne umiddelbart for den behandlingen jeg har redegjort for. Bs bakgrunn fra Marokko gjorde det også ekstra belastende for henne å bli truet med å bli sendt tilbake dit. I den samlede vurderingen har det også vekt at hun ikke snakket norsk og ikke hadde noe nettverk her i landet. Dermed var hun helt avhengig av A.[^1152]
+
+Tilsvarende momenter må kunne tillegges vekt i vurderingen av om en utlending er utsatt for mishandling i utlendingslovens forstand.
+
+Utvalget har vurdert om det bør tas inn i lovteksten at utlendingens sårbarhet eller en asymmetrisk maktbalanse i forholdet skal tillegges vekt i vurderingen av om utlendingen er utsatt for mishandling, men mener en slik presisering er mer egnet i forskrift.
+
+Sårbarhet og risiko som moment
+
+Høyesterettsdom HR-2020-1345-A illustrerer at sårbarhet og risiko er viktige momenter i spørsmålet om straffutmåling, men har overføringsverdi til spørsmålet om når utsatte for negativ sosial kontroll og psykisk vold *i alle fall* vil være mishandling i utlendingslovens forstand.
+
+Saken gjaldt blant annet straffutmåling i en sak om mishandling i nære relasjoner etter straffeloven § 282. Mishandlingen startet umiddelbart etter at den fornærmede kvinnen flyttet til Norge og varte i en periode på omtrent ti måneder. Domfellelsen gjaldt ett tilfelle av fysisk vold og flere tilfeller av psykiske krenkelser. I dommen ble det lagt til grunn at den utenlandske ektefellen på en svært krenkende måte ble kontrollert av ektefellen. Den domfelte ektefellen «bestemte hvem hun skulle omgås, hvilken vei hun skulle gå hjem fra norskundervisningen, hvor hun skulle sitte når hun var hjemme, og at hun ikke fikk snakke arabisk med andre.». Videre kontrollerte ektefellen når kvinnen skulle gå til sengs, og hvor hun skulle sove. Han tok også fra henne det hun tjente på vaskejobber, slik at han kontrollerte henne økonomisk. Videre nektet han henne tilgang til frukt, grønnsaker og nødvendige artikler, og kom med nedsettende kommentarer og truet henne med retur til Marokko.
+
+Høyesterett uttalte at «\[hans\] nærmest totale kontroll over ektefellens liv og de nedsettende kommentarene om henne innebærer en svært nedverdigende behandling. Handlemåten var egnet til å frata henne selvtillit og livslyst, noe også lagmannsrettens beskrivelse av konsekvensene illustrerer».<sup>1</sup> Videre ble det vist til at risikoen for varige skadevirkninger av denne formen for mishandling er betydelig. Høyesterett anså fornærmedes sårbarhet som en innvandrerkvinne med kort botid i Norge å være et skjerpende moment i straffeutmålingen. Også hennes tidligere erfaringer med mishandling i hjemmet ble trukket inn som relevant i vurderingen av hennes sårbarhet i forhold til tiltalte. I den samlede vurderingen ble det også lagt vekt på at kvinnen ikke snakket norsk og ikke hadde noe nettverk her i landet. Dermed var hun helt avhengig av ektefellen.
+
+<sup>1</sup> HR-2020-1345-A (avsnitt 18).
+
+\[Boks slutt\]
+
+### Bør negativ sosial kontroll synliggjøres i utlendingsloven § 53 første ledd bokstav b?
+
+Utvalgsmedlemmene er samlet om de ulike utfordringene som knytter seg til vurderingen av om negativ sosial kontroll bør tas inn i utlendingsloven § 53 første ledd bokstav b om oppholdstillatelse på grunn av mishandling. Utvalget er imidlertid delt i vektingen av de ulike momentene som taler for og imot å ta begrepet inn i bestemmelsen. Mindretallet, Halima El Abassi, foreslår at begrepet tas inn i bestemmelsen, se mindretallets forslag til § 53 fjerde ledd.
+
+Negativ sosial kontroll defineres i denne utredningen som press, oppsyn, trusler eller tvang som *systematisk* begrenser individet i sin livsutfoldelse eller *gjentatte ganger* hindrer vedkommende i å treffe selvstendige valg om eget liv og framtid. I begrepene «systematisk» og «gjentatte ganger» ligger et handlingsmønster som etter omstendighetene kan være mishandling etter lovens § 53 første ledd bokstav b. Det følger uttrykkelig av Utlendingsdirektoratets rundskriv at negativ sosial kontroll er et eksempel på at mishandlingen kan være av «fysisk eller psykisk art». Det er imidlertid vanskelig å definere den nedre terskelen. Vurderingen må ta hensyn til de beskrevne hendelsene, alvorlighetsgraden, under hvilke omstendigheter den negative kontrollen fant sted, om kontrollen er en del av et handlingsmønster, eller om det dreier seg om en enkeltstående episoder. Videre må maktubalansen mellom partene inngå i vurderingen. Å ta inn negativ sosial kontroll i bestemmelsen vil ikke bidra til å tydeliggjøre den nedre grensen for mishandling.
+
+Det kan likevel være en fordel å synliggjøre i bestemmelsen at negativ sosial kontroll kan være et eksempel på mishandling av fysisk og psykisk art. Hvis fenomenet ikke får nok oppmerksomhet i saksbehandlingen, kan dette medføre at utlendingsmyndighetene ikke stiller de riktige oppfølgingsspørsmålene under intervjuet av utlendingen, eller at situasjonen blir forstått som «generell misnøye i ekteskapet/samboerforholdet, uoverensstemmelser eller forskjellige oppfatninger mht roller grunnet kulturforskjeller».[^1153] Videre er det viktig at utlendingsmyndighetene har forståelse for skadevirkningene negativ sosial kontroll kan ha for den utsatte og den risikoen utlendingen kan være utsatt for ved å bryte ut av forholdet, særlig der kontrollen foregår i relasjoner preget av patriarkalske og kollektivistiske tradisjoner med sterk æreskultur. Kontrollen kan gi en rekke psykiske skadevirkninger, slik som ensomhet, motløshet, depresjon og traumer, og være en forløper til ufrivillige eller skadelige utenlandsopphold eller alvorlig æresmotivert vold.[^1154] Å ta begrepet negativ sosial kontroll inn i bestemmelsen kan bidra til at rettsanvenderen blir mer bevisst på at negativ sosial kontroll kan være en form for psykisk mishandling, og sikre at saken undersøkes bredt i lys av indikatorer og risikofaktorer som er særegne for utsatte for negativ sosial kontroll.
+
+Det må imidlertid framheves at begrepet negativ sosial kontroll generelt sett ikke er et godt egnet begrep for rettsliggjøring i den forstand at borgeren tillegges rettigheter eller plikter. Negativ sosial kontroll er et paraplybegrep som inneholder et vidt spekter av praksiser av ulik form og alvorlighetsgrad. Innholdet i begrepene negativ sosial kontroll og psykisk mishandling overlapper i stor grad. Det å tydeliggjøre at mishandlingsbegrepet også omhandler psykisk mishandling, vil dermed også tydeliggjøre at den atferden som inngår i negativ sosial kontroll, kan utgjøre mishandling. Det vises for øvrig til kapittel 23, hvor utvalget har vurdert fordeler og ulemper ved å ta begrepet inn som et moment i vurderingen av om vilkårene for å iverksette ulike tiltak etter barnevernsloven er oppfylt.
+
+Utvalgsmedlemmenes vurderinger
+
+*Utvalgsmedlem Aasen, Christoffersen, Dinardi, Eritsland, Friberg, Martnes og Rui* mener at negativ sosial kontroll ikke bør tas inn i utlendingsloven § 53 første ledd bokstav b. Disse medlemmene legger størst vekt på at begrepet negativ sosial kontroll er et upresist begrep som ikke er godt egnet for rettsliggjøring i den forstand at borgeren tillegges rettigheter eller plikter. Behovet for synliggjøring vil være dekket av forslaget om å løfte fram i bestemmelsen at mishandling kan være psykisk.
+
+*Utvalgsmedlem El Abassi* mener det er en fordel å synliggjøre at negativ sosial kontroll kan utgjøre psykisk mishandling, slik at oppmerksomheten rettes mot fenomenet i saksbehandlingen. Gitt at negativ sosial kontroll gjerne forekommer i familier og grupper hvor patriarkalske æresnormer står sterkt, og at slike praksiser er mer vanlig i familier fra enkelte ikke vestlige land, er det særlig viktig at utlendingsloven sikrer beskyttelse og oppholdsgrunnlag for de utsatte ved å synligjøre fenomenet i lovens mishandlingsbestemmelse.
+
+### Bør negativ sosial kontroll tas inn i utlendingsloven § 38?
+
+Utvalget mener at negativ sosial kontroll ikke bør tas inn som et eget moment i utlendingsloven § 38 (oppholdstillatelse på grunn av sterke menneskelige hensyn eller særlig tilknytning til riket). For å avgjøre om det foreligger sterke menneskelige hensyn etter utlendingsloven § 38, skal det foretas en totalvurdering av saken. Momentene i § 38 andre ledd bokstav a til d er ikke uttømmende, men tilfeller som erfaringsvis har vært særlig sentrale i vurderingen av om det foreligger sterke menneskelige hensyn.[^1155] Hvorvidt en utlending er utsatt for negativ sosial kontroll, kan allerede inngå i denne vurderingen. Utvalget mener det generelt bør utøves forsiktighet med å innta for mange momenter i utlendingsloven § 38 som er en snever unntaksbestemmelse i tilfeller hvor regelverket slår urimelig ut. For øvrig mener utvalgets flertall at begrepet er lite egnet for rettsliggjøring, se foregående punkt.
+
+Göller vurderer dette annerledes i sin utredning *Begrepet negativ sosial kontroll i en juridisk kontekst*.[^1156] I forbindelse med vurderingen av om negativ sosial kontroll bør lovfestes nærmere i utlendingsloven skriver hun:
+
+Ettersom negativ sosial kontroll kan arte seg svært forskjellig, noe som gir seg utslag i et varierende beskyttelsesbehov, vil det neppe være hensiktsmessig å innføre en ny bestemmelse om at negativ sosial kontroll i seg selv gir grunnlag for opphold, hverken for personer som er utsatt for negativ sosial kontroll i Norge eller for personer som har vært utsatt for det i utlandet eller risikerer å bli utsatt for det i tilfelle retur. Det kan imidlertid være grunn til å understreke at risikoen for å bli utsatt for negativ sosial kontroll skal vektlegges ved vurderingen av om sterke menneskelige hensyn foreligger. Dette kan for så vidt tolkes inn i flere av momentene som listes opp i § 38 (2), og det er i tillegg rom for å ta hensyn til det ettersom denne opplistingen ikke er ment å være uttømmende.[^1157]
+
+Göller anbefaler likevel at begrepet tas inn som moment i bestemmelsen med følgende begrunnelse:
+
+\[e\]n eksplisitt henvisning til at negativ sosial kontroll er relevant for vurderingen \[vil\] kunne ha en sterk signaleffekt for personer som lever under slik kontroll, og det vil også kunne bidra til økt oppmerksomhet rundt negativ sosial kontroll og de følger dette har for den kontrollerte parten. En eksplisitt angivelse vil formentlig også kunne virke klargjørende for saksbehandlere og andre som i sitt virke bistår personer som har vært utsatt for slik kontroll.[^1158]
+
+Dersom det likevel skulle være ønskelig å innta begrepet negativ sosial kontroll i utlendingsloven, mener utvalget at utlendingsloven § 53 første ledd om mishandling er en mer egnet bestemmelse. Dersom bestemmelsen ikke kommer til anvendelse fordi persongruppen faller utenfor eller forholdet ikke når opp til terskelen for mishandling, vil det være anledning til å vurdere utlendingsloven § 38 selv om momentet ikke framgår av bestemmelsen.
+
+### Bør kravet om redusert livskvalitet utgå?
+
+Utvalget anbefaler at kravet om at mishandlingen må ha ført til at utlendingens livskvalitet har blitt redusert, vurderes fjernet som vilkår for oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b.
+
+Kravet om redusert livskvalitet følger av forarbeider, etterarbeider og langvarig praksis. Den nærmere forståelsen av kravet til redusert livskvalitet er ikke nærmere omtalt i forarbeidene eller i Utlendingsdirektoratets retningslinjer. I etterarbeider er det presisert at det i praksis ikke stilles krav om at det skal foreligge en *varig* reduksjon i utlendingens livskvalitet for at det skal foreligge mishandling i utlendingslovens forstand.[^1159]
+
+Utlendingsdirektoratet har gitt informasjon om praktiseringen av kravet i brev til utvalget:[^1160]
+
+UDI har ikke praksis for å avslå en søknad alene på grunnlag av at forutsetningen om redusert livskvalitet ikke er nådd, da det er vanskelig å vurdere om søkerens livskvalitet har blitt redusert. Det kan være utfordrende for søkeren å redegjøre for, og vi krever heller ikke at det dokumenteres da søkerens forklaring i utgangspunktet skal legges til grunn. Noen søkere kan også fremstå upåvirket utad, selv om det er sannsynlig at de har vært utsatt for grov mishandling, mens andre allerede hadde en fysisk eller psykisk skade som har gitt redusert livskvalitet uavhengig av eventuell mishandling i samlivet. Vurderingen av hvorvidt søkerens livskvalitet har blitt redusert vil dermed inngå i en totalvurdering av om terskelen for mishandling er nådd og om det søkeren har opplevd kan forventes å gi redusert livskvalitet av ikke helt forbigående art.
+
+UDI legger til grunn at søkeren har fått redusert livskvalitet i saker der terskelen for mishandling i utlendingslovens forstand er nådd, da det implisitt innebærer en reduksjon av livskvalitet som ikke er av helt forbigående art.
+
+I de tilfellene der terskelen for mishandling ikke er nådd etter en totalvurdering av art, omfang og redusert livskvalitet, avslås søknaden på grunnlag av at søkeren ikke har blitt mishandlet i utlendingslovens forstand.
+
+I tilfeller der UDI er i tvil om terskelen er nådd, vil opplysninger om redusert livskvalitet kunne påvirke utfallet i saken.
+
+Utlendingsnemnda har i sitt innspill til utvalget gitt uttrykk for at det er vanskelig å praktisere kravet, og at det særlig ved psykisk mishandling og negativ sosial kontroll kan være problematisk å vurdere om vilkåret er oppfylt. Nemnda viser til at det kan være vanskeligere for en søker å forklare seg om psykisk mishandling og negativ sosial kontroll enn konkrete fysiske hendelser. I intervjuene som foretas av søkerne forklarer de seg gjerne om de fysiske hendelsene mens det psykiske presset og kontrollen de har vært utsatt for nedtones. Utlendingsnemnda viser til at dette kan føre til at forklaringer om psykisk mishandling og negativ sosial kontroll framstår som uenigheter og ulike forventninger til ekteskapet, som ikke når opp til terskelen for mishandling.
+
+Utvalget mener at kravet om redusert livskvalitet er lite egnet som vilkår for mishandling. Etter utvalgets syn kan skadevilkåret gjøre at terskelen for mishandlingen settes for høyt i praksis, og at utlendingens motstandsdyktighet og evnen til å tåle mishandling kan bli bestemmende for hvorvidt vedkommende får oppholdstillatelse.[^1161]
+
+En sammenligning med ekteskapsloven, straffeloven og voldserstatningsloven taler også for at kravet bør fjernes. Det stilles ikke krav om skade etter mishandlingsbestemmelsen i straffeloven 2005 § 282.[^1162] Heller ikke for å konstatere at «alvorlig mishandling» etter ekteskapsloven § 23 har funnet sted, er det et slikt krav.[^1163] Det var tidligere stilt krav om personskade av fysisk eller psykisk art for å gi erstatning etter voldsoffererstatningsloven.[^1164] Skadevilkåret var ment som en avgrensning mot mindre alvorlige forhold.[^1165] Selv om fornærmede var blitt utsatt for en handling som kunne gi rett til voldsoffererstatning, ble søknaden avslått dersom fornærmede ikke var påført personskade.[^1166] I forbindelse med arbeidet med en ny voldsoffererstatningslov, ble praksis fra Erstatningsnemnda for voldsofre gjennomgått.[^1167] Praksisgjennomgangen viste at nemnda ikke alltid krevde dokumentasjon på skaden, og at det ble lagt til grunn en generell skaderisiko og presumpsjon for skade, eksempelvis i saker om seksuelle overgrep mot barn.[^1168] Også i saker av mindre alvorlig art ble personskaden presumert.[^1169] Kravet om personskade ble fjernet etter at voldserstatningsloven ble innført, og erstatningen etter loven er nå knyttet til konkrete straffebud.[^1170] Beviskravet etter den nye loven er alminnelig sannsynlighetsovervekt.
+
+Utvalget kan ikke se at en fjerning av skadevilkåret nødvendigvis vil få betydning for terskelen som er lagt til grunn for om et forhold er å anse som mishandling, men har ikke grunnlag for å overskue konsekvensene, særlig sett i lys av det lave beviskravet som gjelder i slike saker. Dette bør derfor utredes og vurderes nærmere.
+
+### Bør barn utsatt for mishandling eller omsorgssvikt gis et styrket rettsvern i utlendingsloven?
+
+Barn og unge utsatt for mishandling
+
+Utvalget foreslår at utlendingsloven § 53 om oppholdstillatelse på selvstendig grunnlag på grunn av mishandling utvides til også å gjelde barn og unge, se forslaget til nytt tredje ledd bokstav a.
+
+Forslaget omfatter barn og unge voksne som har oppholdstillatelse etter lovens § 42 (om oppholdstillatelse for barn), § 43 andre ledd (om søsken som gjenforenes med en mindreårig flyktning) og § 49 (om familieinnvandring i andre tilfeller). Formålet med forslaget er å sikre at barn og unge ikke føler seg presset til å bli værende i et familieliv hvor de blir utsatt for mishandling. Det er ikke et krav at den unges livskvalitet er redusert. Utvalget legger til grunn en presumsjon for at mishandling i seg selv utgjør redusert livskvalitet enten på kort eller på lang sikt. Det vises til kapittel 3 som omtaler skadevirkninger av både fysisk og psykisk mishandling. Videre legger utvalget til grunn at kravet til mishandling ligger noe lavere enn samme krav for voksne. Siden barn befinner seg i et mer asymmetrisk makt- og avhengighetsforhold til sine omsorgspersoner og andre voksne, har de ikke samme mulighet til å forsvare seg eller rømme fra mishandlingen som voksne. Terskelen for når psykiske krenkelser utgjør mishandling for barn, skal være lavere enn for voksne. Dette fordi skadevirkningene av psykisk mishandling er særlig framtredende for barn og kan gi alvorlige skadevirkninger langt ut i voksenlivet, som for eksempel angst og depresjon i voksen alder.[^1171]
+
+Som omtalt i kapittel 3 er barn fra familier med ikke-vestlig innvandrerbakgrunn mer utsatt for grov vold i nære relasjoner enn andre barn. Jenter og unge lhbtiq-personer er en spesielt utsatt gruppe i denne sammenhengen. Til tross for dette har barn og unge på familieinnvandring ikke selvstendige rettigheter etter dagens mishandlingsbestemmelse.
+
+Når et barn eller en ung voksen som er på familieinnvandring, bryter kontakten med familien, har vedkommende ikke krav på oppholdstillatelse på samme grunnlag (familieinnvandring). Utlendingsdirektoratet har imidlertid opplyst at praksis er at det gis fortsatt opphold på samme grunnlag når den unge flytter ut av familien som en naturlig overgang til voksenlivet, så framt relasjonen ikke er helt brutt. Tilsvarende gjelder der barnet har flyttet ut midlertidig for å bo hos andre, for eksempel en onkel eller tante, med bakgrunn i barnevernstjenestens vedtak om frivillig plassering jf. barnevernsloven § 3-2, og barnet fortsatt opprettholder kontakt med familien.[^1172] Når utlendingsmyndighetene vurderer at barnet eller den unge har så lite kontakt med foreldrene at det ikke er naturlig å gi barnet tillatelse på samme vilkår (familieinnvandring), vurderes det om barnet kan gis en ny tillatelse etter lovens § 38 om sterke menneskelige hensyn eller særlig tilknytning til riket. Blant annet vurderer utlendingsmyndigheten slik tillatelse i tilfeller der barnevernet har overtatt omsorgen for barnet. Når barnet er mindreårig og ikke har foreldre med foreldreansvar i hjemlandet, vil det normalt innvilges en tillatelse etter § 38 i slike situasjoner. Dersom barnet er over 18 år og for øvrig har liten tilknytning til Norge, er det mer usikkert om det er grunnlag for å gi en tillatelse etter bestemmelsen.[^1173]
+
+Slik utvalget vurderer barn og unges situasjon når de er utsatt for mishandling i familien, har de ikke samme rett til et sikkert oppholdsgrunnlag som voksne personer som blir mishandlet i samlivet eller av svigerfamilien. En uheldig konsekvens kan være at barn blir værende i et voldelige hjem, og at de ikke får den hjelpen de trenger. For hjelpeapparatet vil det også være av betydning å kjenne til hvorvidt barnet vil ha en rett til oppholdstillatelse når ulike hjelpetiltak skal vurderes. Et sikkert oppholdsgrunnlag kan gi barn større forutberegnelighet og muliggjøre en mer effektiv bistand fra hjelpeapparatet.
+
+At barn ikke har egne rettigheter etter mishandlingsbestemmelsen, ble også påpekt i en tingrettsdom av 2022.[^1174] Saken gjaldt blant annet overprøving av et vedtak om tilbakekall av oppholdstillatelse for tre søstre som kom til Norge på bakgrunn av familiegjenforening med faren. Faren kastet etter hvert søstrene ut av hjemmet, og barnevernet overtok omsorgen på grunn av anførsler om mishandling i hjemmet. I dommen ble det vist til at utlendingsmyndighetene la til grunn at familiegjenforeningshensikten opphørte da søstrene ble kastet ut av hjemmet av sin far. Retten viste til at Norge er særlig forpliktet etter Grunnloven § 104 og FNs barnekonvensjon artikkel 19 og 20 til å beskytte barn mot «alle former for fysisk eller psykisk vold, skade eller misbruk, vanskjøtsel eller forsømmelig behandling, mishandling eller utnytting fra foreldrene, og at barn som av slike grunner ikke lenger kan bo sammen med sine foreldre har rett til særlig beskyttelse og bistand fra staten».[^1175] Retten mente videre at når et barn har kommet til Norge på lovlig vis for å gjenforenes med sin familie, men familielivet opphører som følge av mishandling og vanskjøtsel av barnet, har barnet rett til den samme beskyttelsen som norske barn. Retten mente videre at lovgiveren muligens ikke har tenkt på de tilfeller der barn må bryte ut av familielivet som følge av mishandling og at når situasjonen faktisk oppstår så skal ikke barnet gis dårligere beskyttelse:
+
+Utlendingsloven § 53 bokstav b kommer ikke direkte til anvendelse, men når et barn har kommet til Norge på lovlig vis for å gjenforenes med sin familie, men det så viser seg at barnet blir utsatt for mishandling, så har åpenbart barnet rett til den samme beskyttelse som norske barn og som barn som kommer til Norge sammen med én forelder. Slik beskyttelse vil ikke barnet ha, hvis oppholdstillatelsen kalles tilbake. Det vises videre til lovgivers begrunnelse for å innføre utlendingsloven § 53 bokstav b) i Ot.prp.nr.75 (2006–2007) punkt 9.8.2.5 der det heter at:
+
+‘Departementet er enig med utvalget og høringsinstansene i at mishandlingsbestemmelsen bør videreføres og at den bør innarbeides i loven. Det er nødvendig å ha en bestemmelse som kan hindre at noen føler seg presset til å bli værende i et samliv hvor de blir utsatt for mishandling.’[^1176]
+
+Utvalget mener etter dette at det er gode grunner for å utvide utlendingslovens mishandlingsbestemmelse til også å gjelde barn på familieinnvandring Slik som retten i TOSL-2022-157050 påpeker, vil det motsatte kunne innebære en svært usikker rettsstilling for de utsatte barna, hvis barna skulle være henvist til en uforutsigbar oppholdstillatelse etter lovens § 38.[^1177]
+
+Bestemmelsen foreslås utformet slik at den rammer mishandling som er utøvet i familien eller av andre medlemmer av samme husstand. Med familien menes kjernefamilien som mor, far og søsken. Dersom familien ikke beskytter barnet mot mishandling som blir utøvet av andre, og barnet har behov for å flytte fra familien for å bli beskyttet, skal dette også omfattes av bestemmelsen. Eksempler på sistnevnte tilfelle kan være der familien ikke beskytter barnet mot mishandling utøvet av for eksempel besteforeldre, onkler, tanter eller andre medlemmer av en storfamilie eller et lukket samfunn.
+
+Barn utsatt for omsorgssvikt
+
+Utvalget foreslår at utlendingsloven § 53 om oppholdstillatelse på selvstendig grunnlag på grunn av mishandling utvides til også å gjelde barn under barnevernets omsorg, uavhengig av om det er utsatt for mishandling, se forslag til nytt tredje ledd bokstav b.
+
+Forslaget avgrenses til å gjelde barn med en oppholdstillatelse for familieinnvandring etter lovens § 42 (om oppholdstillatelse for barn), § 43 andre ledd (søsken som gjenforenes med en mindreårig flyktning) og § 49 (om familieinnvandring i andre tilfeller). Formålet med forslaget er å sikre at barn som lever under forhold som kvalifiserer for omsorgsovertakelse etter barnevernsloven § 5-1 kan oppsøke hjelp og støtte uten frykt for eget oppholdsgrunnlag. Tilsvarende vil et sikkert oppholdsgrunnlag gjøre hjelpeapparatet bedre i stand til å vurdere riktig oppfølging og tiltak for å sikre at barnet får nødvendig hjelp, omsorg og beskyttelse til rett tid.
+
+Når det skal gjøres barnevernstiltak av midlertidig karakter overfor barn som har en familieinnvandringstillatelse, eller barn som selv er referansepersoner for foreldre eller søsken, anbefaler utvalget at det gjøres tilpasninger i bo-sammen vilkåret, se nedenfor.
+
+### Bør personkretsen utvides til å omfatte utlendingens familie?
+
+Utvalget har vurdert hvorvidt mishandlingsbestemmelsen bør utvides til også å omfatte mishandling utøvd av utlendingens egen familie uten at familiemedlemmene er del av samme husstand. Etter gjeldende regelverk, er mishandling utøvd av utlendingens svigerfamilie dekket, men ikke mishandling utøvet av egen familie utenfor husstanden i slike tilfeller. Det er etter utvalgets vurdering ikke behov for regelverksendring, men det er behov for å sikre at praksis etter utlendingsloven § 53 første ledd bokstav b dekker enkelte tilfeller hvor utlendingen har blitt utsatt for mishandling av egen familie.
+
+I Prop. 68 L (2017–2018) ble det vurdert om personkretsen av utøvere etter lovens § 53 første ledd bokstav b burde utvides til å gjelde personer som bor et annet sted og som ikke er del av svigerfamilien:
+
+Det kan også tenkes tilfeller hvor en utlending utsettes for overgrep av personer som bor et annet sted og som ikke er del av svigerfamilien. Disse tilfellene vil ikke være omfattet av forslaget til endringer i utlendingsloven § 53. Departementet peker på at utlendingsloven § 53 første ledd bokstav b ikke er ment å ta høyde for enhver situasjon hvor personer med midlertidig oppholdstillatelse utsettes for vold eller mishandling som utlendingens samlivspartner ikke vil eller kan beskytte mot. Departementet viser til at det i henhold til utlendingsloven § 38 kan gis oppholdstillatelse dersom det foreligger sterke menneskelige hensyn eller utlendingen har særlig tilknytning til riket. Det vises også til at ny oppholdstillatelse på selvstendig grunnlag kan gis til en utlending som på grunn av samlivsbruddet vil få urimelige vanskeligheter i hjemlandet grunnet de sosiale og kulturelle forholdene der, jf. utlendingsloven § 53 annet ledd.[^1178]
+
+Når en utlending utsettes for mishandling, herunder psykisk vold og æresmotivert vold, fra sin egen familie for å bli værende i et ekteskap, kan frykten for å miste en oppholdstillatelse som følge av samlivsbruddet, være minst like alvorlig som når mishandlingen utøves av samlivspartneren og svigerfamilie. Dette gjelder også når disse slektningene ikke bor i samme husstand som utlendingen. En utvidelse av persongruppen vil i så fall kunne bidra til større trygghet for den utsatte dersom vedkommende velger å forlate samlivspartneren sin. Dersom samlivspartneren ikke utøver mishandling, og kanskje til og med forsøker å forhindre mishandling utøvd av utlendingens egen familie, kan ikke dette begrunne en oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b. I likhet med departementets vurderinger sitert ovenfor, mener utvalget at dette er forhold som må vurderes etter bestemmelsens andre ledd om oppholdstillatelse på selvstendig grunnlag til utlending som på grunn av samlivsbruddet vil få urimelige vanskeligheter i hjemlandet grunnet de sosiale og kulturelle forholdene der, eventuelt § 38 om sterke menneskelige hensyn eller særlig tilknytning til riket.
+
+Det kan imidlertid forekomme at utlendingen som har brutt ut av ekteskapet har vært utsatt for mishandling fra egen familie på oppfordring fra ektefellen. I straffelovens forstand ville ektefellen kunne dømmes for medvirkning til mishandling i en slik situasjon, jf. straffeloven § 282, jf. § 16. Det er uklart for utvalget om slike forhold faller inn under mishandlingsbestemmelsen etter gjeldende praktisering. Utvalget ser ikke behov for lovendring i denne sammenheng, men det bør legges til rette for at medvirkning til mishandling faller inn under praktiseringen av bestemmelsen gjennom å tydeliggjøre dette i forskrift eller rundskriv.
+
+### Bør det gjøres unntak fra bo-sammen vilkåret?
+
+Når den utsatte er en referanseperson
+
+Utvalget anbefaler at det gjøres unntak fra bo-sammen vilkåret når barnet er referanseperson i en sak om familieinnvandring dersom det er behov for å flytte barnet midlertidig ved mistanke om vold eller omsorgssvikt i hjemmet. Dette for å hindre at et barn unngår å oppsøke hjelp av frykt for at familiemedlemmer vil miste oppholdstillatelsen i Norge dersom barnevernet overtar omsorgen for barnet. Unntak fra bo-sammen kravet kan framgå av utlendingsforskriften. Utvalget har ikke foreslått en konkret bestemmelse, men anbefaler videre oppfølging.
+
+Barn som selv er referansepersoner for deres familiemedlemmer kan være utsatt for mishandling, herunder negativ sosial kontroll, psykisk vold og omsorgssvikt, fra gjenforente søsken eller foreldre. Deres muligheter for å bryte ut av familielivet eller motta hjelp, kan være begrenset på grunn av bo-sammen vilkåret. Kompetanseteamet mot negativ sosial kontroll og æresrelatert vold opplever at dette er særlig utfordrende for barn som er referansepersoner for deres familiemedlemmer etter lovens § 43 om familiegjenforening mellom barn med opphold på grunnlag av beskyttelse og barnets foreldre og søsken.[^1179] Ifølge Kompetanseteamet setter bo-sammen kravet begrensninger på hvilke hjelpetiltak som kan iverksettes, for eksempel ved midlertidig flytting eller kontaktforbud. Å bryte ut fra familien oppleves ikke alltid som et reelt alternativ, heller ikke for kortere perioder, fordi foreldrenes og søsknenes oppholdstillatelse avhenger av at de bor sammen med barnet som er referansepersonen. Barnet «tvinges» derfor til å bo med sin familie, også etter hvert som hen blir voksen, og inntil familiemedlemmene har fått en permanent oppholdstillatelse. Utvalget har også fått innspill fra mangfoldsrådgiver om situasjoner der et barn har latt seg overtale til å be om hjelp til å flytte fra en familie på grunn av omsorgssvikt, noe som resulterte i at forelderen mistet sin oppholdstillatelse og måtte forlate Norge. Dette førte til store psykiske belastning for barnet som angret på at hen hadde bedt om hjelp.
+
+Barn som selv er referansepersoner for medfølgende foreldre og søsken, faller ikke innenfor målgruppen for mishandlingsbestemmelsen etter § 53 ettersom de allerede har en selvstendig oppholdstillatelse. De frykter ikke sin egen tillatelse, men er redde for hva som vil skje med tillatelsene til medfølgende familiemedlemmer dersom de bryter ut av et familieliv med mishandling eller omsorgssvikt. Utvalget mener at samme hensyn som ligger til grunn for mishandlingsbestemmelsen i utlendingsloven § 53 første ledd bokstav b, og utvalgets forslag om at denne bestemmelsen også skal gjelde for barn, tilsier unntak fra bo-sammen kravet for familiemedlemmene.
+
+Bo-sammen vilkåret i andre tilfeller
+
+For øvrig anbefaler utvalget at bo-sammen vilkåret for familieinnvandrere tydeliggjøres i forskrift. Vilkåret er av avgjørende betydning for en utlendings mulighet til fortsatt oppholdstillatelse, og krav og unntak bør framgå av utlendingsforskriften. I tillegg anbefaler utvalget at det vurderes nærmere om det er behov for å liberalisere bo-sammen vilkåret for å redusere noen av de uheldige virkningene vilkåret får.[^1180]
+
+I Innst. O. nr. 42 (2007–2008) uttalte flertallet i Stortinget at de støttet forslaget om at ektefellene skal bo sammen som en hovedregel, men at det bør åpnes for unntak, særlig i fornyelsestilfeller. Departementet ble bedt om å se på muligheten for en mer fleksibel praktisering av bo-sammen kravet ved fornyelsesrundene enn ved førstegangstillatelse, når «rimelighetsgrunner tilsier det».[^1181] Utvalget mener at det er nødvendig å undersøke nærmere eventuelle uheldige virkningene bo-sammen vilkåret får, særlig for dem som er utsatt for en form for negativ sosial kontroll som ikke når opp til terskelen for mishandling, og om det er behov for endringer.
+
+### Bør innholdet i mishandlingskravet tydeliggjøres i forskrift?
+
+Utvalget anbefaler at det innføres en forskriftshjemmel i bestemmelsen slik at momentene i mishandlingsvurderingen, som i dag framgår av Utlendingsdirektoratets rundskriv UDI 2010-009, forskriftsfestes.[^1182] Rundskrivet er ikke lett tilgjengelig for den alminnelige brukeren, særlig for bestemmelsens målgruppe som ofte er innvandrere med forholdsvis kort botid i Norge og uten inngående kunnskap om norsk språk eller regelverk. Som utgangspunkt er heller ikke direktoratets rundskriv bindende for Utlendingsnemnda som overordnet organ, men gir et uttrykk for fast og etablert forvaltningspraksis. En forskriftsbestemmelse kan presisere og synliggjøre momenter som inngår i vurderingen av hva som er mishandling i utlendingslovens forstand. Dette kan gi de utsatte økt forutberegnelighet.
+
+Kravet om at mishandlingen må ha redusert utlendingens livskvalitet er et så sentralt vilkår at, dersom det fortsatt skal bestå (noe utvalget ikke anbefaler), bør det framgå tydelig av lov eller forskrift.
+
+### Forslagenes forhold til internasjonale forpliktelser
+
+Utvalget har foreslått tre regelverksendringer i utlendingsloven § 53 om opphold på selvstendig grunnlag når samlivet opphører: 1) det er foreslått å synliggjøre at mishandling også kan være av psykisk art. Mindretallet har også foreslått at det i vurderingen av om det foreligger mishandling skal legges vekt på om utlendingen er utsatt for negativ sosial kontroll. 2) Barn og unge som er utsatt for mishandling i familien mv. skal ha rett til oppholdstillatelse på selvstendig grunnlag etter bestemmelsen. 3) Barn som er tatt under barnevernets omsorg skal ha rett til oppholdstillatelse på selvstendig grunnlag etter bestemmelsen, uavhengig av om de har vært utsatt for mishandling.
+
+Forslagene bidrar til å styrke individets vern mot alle former for vold og integritetskrenkelser etter Grunnloven §§ 93 og 102 og etter EMK artikkel 2, 3 og 8. Både Grunnloven § 104 og FNs barnekonvensjon artikkel 19 og 20 forplikter videre myndighetene til å beskytte barn mot alle former for fysisk eller psykisk vold, skade eller misbruk, vanskjøtsel eller forsømmelig behandling, mishandling eller utnytting fra foreldrene.[^1183] Barn er særlig sårbare, og trenger i større utstrekning enn voksne myndighetenes hjelp til å beskytte sin personlige integritet. Når barn gis selvstendige rettigheter, vil norsk rett i større grad være i samsvar med Grunnloven § 104 og barnekonvensjonen.
+
+Istanbul-konvensjonen artikkel 59 forpliktelser Norge å treffe tiltak som er nødvendig for å sikre at kvinner som er utsatt for vold i samlivet, får en selvstendig oppholdstillatelse («autonomous residence permit»), dersom ekteskapet eller forholdet blir oppløst og det «particularly difficult circumstances», jf. artikkel 59 nr. 1 Dette gjelder uavhengig av hvor lenge ekteskapet eller forholdet har vart.
+
+Utvalget vurderer at lovens § 53 første ledd bokstav b allerede oppfyller kravene i Istanbul-konvensjonen, da den sikrer kvinner på familieinnvandring tilgang til en selvstendig oppholdstillatelse ved mishandling, uavhengig av forholdets varighet. Bestemmelsen har i tillegg lave beviskrav, og det stilles ikke krav til årsakssammenheng mellom mishandlingen og samlivsbruddet. At det stilles krav til at ektefellen er «mishandlet», synes også å være i samsvar med terskelen etter konvensjonens artikkel 59 om «particulary difficult circumstances». De nærmere vilkårene for å få tillatelsen og tillatelsens varighet, er overlatt til myndighetenes skjønnsmargin. Med utvalgets forslag styrkes utsatte kvinners rettigheter ytterligere, da en synliggjøring av psykisk mishandling må antas å sikre at bestemmelsen praktiseres etter sitt formål.
+
+Utvalget kan ikke se at forslaget griper inn i rettighetene til voldsutøveren.
+
+### Forslagets forhold til EØS-regelverket
+
+Retten til innreise og opphold for EØS-borgere og deres familiemedlemmer er regulert i utlendingsloven kapittel 13 som gjennomfører direktiv 2004/38/EF av 29. april 2004 om unionsborgere og deres familiemedlemmers rett til å ferdes og oppholde seg fritt på medlemsstatenes territorium (direktivet).
+
+Bo-sammen vilkåret
+
+Det gjelder ikke et vilkår om at EØS-borgeren og et familiemedlem som ikke selv er EØS-borger (såkalt tredjelandsborger) må bo sammen for at familiemedlemmet skal kunne ha oppholdsrett i Norge i mer enn tre måneder, jf. utlendingsloven §§ 113 og 114. For at familiemedlemmet til EØS-borgeren skal ha rett til varig oppholdsrett, stilles det imidlertid et krav om at partene har bodd sammen, jf. lovens §§ 115 fjerde ledd og 116 første ledd. For at vilkåret om å bo sammen skal være oppfylt, må samlivet ha vært av et visst omfang, som hovedregel ved at partene bor sammen i en felles bolig og reiser tilbake til denne hver dag eller minst en dag i uken, jf. utlendingsforskriften § 19-20.
+
+Utvalget mener at det ikke er nødvendig med unntak fra bo-sammen kravet for denne gruppen for å styrke rettsvernet mot negativ sosial kontroll og fysisk og psykisk mishandling.
+
+Oppholdsrett på selvstendig grunnlag
+
+Ved skilsmisse eller opphør av samboerskap bevarer en EØS-borger oppholdsretten så lenge vedkommende selv oppfyller vilkårene i utlendingsloven § 112 første ledd bokstav a (er arbeidstakere eller selvstendig næringsdrivende), bokstav b (skal yte tjenester), bokstav c (råder over tilstrekkelige midler mv.) eller bokstav d (er opptatt ved godkjent universitet). For tredjelandsborgere er dette annerledes. En tredjelandsborger som ikke lenger bor sammen med EØS-borgeren, bevarer oppholdsretten inntil en formalisert skilsmisse foreligger, jf. lovens § 114 fjerde ledd.[^1184]
+
+Når en skilsmisse foreligger, kan tredjelandsborgeren bevare oppholdsrett så lenge vedkommende selv fyller vilkårene i § 112 første ledd (bokstav a, b eller c), eller være et familiemedlem til en EØS-borger som oppfyller disse vilkårene, forutsatt at det foreligger «en svært vanskelig situasjon», for eksempel ved at tredjelandsborgeren eller eventuelle barn har vært utsatt for vold, eller andre alvorlige overgrep i ekteskapet.
+
+Tredjelandsborgeren kan også søke om oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b.[^1185] Dette framgår av utlendingsforskriften § 19-2. Fordelen ved å søke om oppholdstillatelse etter lovens § 53 første ledd bokstav b, er at det ikke stilles krav om å være selvforsørget etter lovens § 112 første ledd for å bevare oppholdsretten. GREVIO har i sin siste rapport om Norge uttrykt bekymring for at det er motstridende ordlyd mellom lovens § 114 fjerde ledd bokstav c og utlendingsforskriften § 19-2 fjerde ledd og at dette kan føre til at bestemmelsene tolkes til skade for innvandrerkvinner som er utsatt for kjønnsbasert vold.[^1186]
+
+Utvalget har ikke utredet nærmere hvorvidt de foreslåtte utvidelsene i lovens § 53 også skal gjelde for barn som har en oppholdstillatelse etter EØS-regelverket. Utvalget har heller ikke vurdert forholdet mellom § 114 fjerde ledd bokstav c og lovens § 53 første ledd bokstav b.
+
+Del IV
+
+Barn

@@ -1,1050 +1,354 @@
-# NOU 2020: 9, del 8 av 29 (side 88–98)
+# NOU 2020: 9, del 8 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/ab01ca81-nou-2020-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-9/id2723776/
 - Original-PDF: https://www.regjeringen.no/contentassets/4217284a85064d56aeb03ad74d33768b/no/pdfs/nou202020200009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 88]
-
-86
-
-NOU 2020: 9
-
-Kapittel 7
-
-Blindsonen
-
-Finansdepartementets generelle ansvar følger
-av dets oppgaver som budsjett- og økonomikoordinerende departement. For så vidt gjelder
-spørsmålet om folketrygdlovens krav om opphold
-på norsk territorium for rett til kontantytelser
-under sykdom, har dette kravet i utgangspunktet
-ingen økonomiske konsekvenser.
-Justis- og beredskapsdepartementets ansvar,
-ut over de sektorer departementet har ansvar for i
-sin alminnelighet, er begrenset til lovtekniske forhold. Det følger av utredningsinstruksen kapittel
-4 at Justis- og beredskapsdepartementet skal forespørres før det settes i gang større lovarbeider
-som kan reise lovstrukturspørsmål. De lovstrukturspørsmål gjennomføring av forordninger i
-norsk rett reiser, vil være knyttet til allerede eksisterende lovgivning. Det typiske vil være at forordningen regulerer forhold som allerede er regulert
-i norsk rett, og spørsmålet kan være hvilke grep
-som må tas for at regelverket samlet sett skal bli
-så tilgjengelig og forståelig som mulig. Ferdige
-utkast til lovproposisjoner skal forelegges berørte
-departementer og Justis- og beredskapsdepartementets lovavdeling for lovteknisk gjennomgåelse. Dette gjelder også der loven er en gjennomføring av en forordning. Der forordninger
-gjennomføres ved forskrift, er det ingen slik plikt.
-
-7.4
-
-Stortingets rolle
-
-Innlemmelse av nye rettsakter i EØS-avtalen er i
-utgangspunktet dekket av Grunnloven § 26 første
-ledd, slik at Stortingets medvirkning ikke er nødvendig. Etter annet ledd skal Stortingets samtykke likevel innhentes dersom det dreier seg om
-en sak av «særlig stor viktighet» eller gjennomføringen av traktatforpliktelsen krever ny lov eller
-stortingsbeslutning, jf. Grunnloven § 26 annet
-ledd.
-Stortinget har imidlertid også en rolle i det
-løpende arbeidet med EØS-saker. Stortingets forretningsorden § 14 bestemmer at regjeringen skal
-
-konsultere Stortingets europautvalg blant annet
-om saker som gjelder EØS-avtalen og forslag om
-nye eller endrede rettsakter på områder omfattet
-av avtalen.26 Lederen i utenriks- og forsvarskomiteen kaller sammen til konsultasjoner når
-vedkommende mener det er nødvendig, og når et
-regjeringsmedlem eller en tredjedel av utenriksog forsvarskomiteens medlemmer ber om det.
-
-7.5
-
-Utvalgets vurdering
-
-Fremstillingen har vist at EØS-retten stiller krav
-om at forpliktelsene etter avtalen skal gjennomføres på en slik måte at rettsstillingen blir så klar
-og forutberegnelig som mulig. Plikten til å rydde
-opp i motstridende regelverk følger av vel etablert
-EU-rett, og er omtalt i lovteknikkveilederen.27
-Fremstillingen i punkt 7.3 viser at de rutinene
-som er etablert for forvaltningens arbeid med
-EØS-saker legger forholdene til rette for at de
-konsekvenser forslag til EØS-relevante EU-rettsakter og EU-rettsakter innlemmet i EØS-avtalen
-har for norske interesser og norsk rett, blir identifisert og vurdert. Også organiseringen av det
-løpende arbeidet, gjennom de ulike spesialutvalgene, legger til rette for at nye problemstillinger blir identifisert og håndtert.
-Utvalget mener den overordnede organiseringen av arbeidet knyttet til gjennomføring av
-EØS-rett i norsk rett er hensiktsmessig, men vil
-fremheve at organiseringen forutsetter at de
-involverte organene til enhver tid har tilstrekkelig
-ressurser og kompetanse til å følge opp slik organiseringen forutsetter.
-
-26
-
-27
-
-Europautvalget består av utenriks- og forsvarskomiteen og
-medlemmene av den norske delegasjonen til parlamentarikerkomiteen for EØS, med varamedlemmer. Utenriks- og
-forsvarskomiteen eller dens leder kan dessuten beslutte at
-en eller flere andre komiteer skal delta ved bestemte konsultasjoner.
-Jf. lovteknikkveilederen s. 176.
-
-[Side 89]
-
-NOU 2020: 9
-Blindsonen
-
-87
-
-Kapittel 8
-
-Kapittel 8
-
-Organisatoriske forhold
-Boks 8.1
-Funn:
-•
-
-•
-
-•
-•
-
-•
-
-•
-
-I Arbeids- og sosialdepartementet ligger den
-sterkeste fagkompetansen i EØS-rett i en
-annen avdeling enn den som har lovgivningsansvar for ytelsene, og som har best
-kjennskap til hvordan Nav praktiserer regelverket
-Direktoratet har ikke hatt en fagenhet med
-særlig ansvar for EØS-rett, og få personer
-med særlig EØS-kompetanse. De som har
-særlig EØS-kompetanse har i liten grad hatt
-ansvar for konkrete ytelser
-Direktoratet er omorganisert flere ganger, og
-ansvars- og oppgavefordelingen er kompleks
-Direktoratet har få fagpersoner på hvert
-område, men et omfattende ansvar for tolkning av regelverk og for å gi faglige avklaringer til resultatområdene. Systemet er sårbart
-når flere viktige saker må prioriteres, og det
-er risiko for at viktige problemstillinger blir
-liggende
-Arbeids- og velferdsetaten har manglet gode
-systemer for kommunikasjon internt. Mye
-kommunikasjon har skjedd på e-post, noe
-som gjør det vanskelig å følge saksgangen i
-den enkelte sak
-Faglige problemstillinger har havnet i skyggen av krav til effektivisering, digitalisering
-og produksjon
-
-Læringspunkter:
-•
-
-•
-
-•
-
-•
-•
-
-•
-
-Komplekse organisasjoner må ha klare rammer både for styringsdialog og faglige avklaringer. Uformell dialog mellom departement
-og etat er viktig, men det er behov for bevissthet om når saker krever formell avklaring
-Det bør være kort vei mellom EØS-rettslig
-kompetanse, og ansvaret for forvaltning av
-lov- og regelverk internt i Nav. Etaten må
-kjenne sin egen praksis
-Departementet bør vurdere hvordan det kan
-øke sin kunnskap om kritisk og sensitiv forvaltningspraksis i Nav
-Ansvars- og rollefordelingen i Nav-systemet
-bør tydeliggjøres
-Uavhengig av organisasjonsstruktur og formell arbeidsdeling, bør rutiner for når og
-hvordan faglige spørsmål skal løftes til relevant ledernivå for diskusjon, innarbeides i
-Nav-systemet
-I Nav bør det arbeides med organisasjonskultur for å redusere faren for silotenkning.
-Ulike avdelinger og resultatområder må
-være bevisste på behovet for å orientere
-andre enheter dersom saker får betydning
-for deres ansvarsområde. Det at en enhet
-ikke har myndighet til å instruere en annen,
-må ikke hindre tydelig informasjonsutveksling
-
-[Side 90]
-
-88
-
-NOU 2020: 9
-
-Kapittel 8
-
-8.1
-
-Blindsonen
-
-Overordnet om struktur, rettslige
-rammer og styringsdialog
-
-8.1.1
-
-Generelt om fordeling av ansvar og
-oppgaver
-Arbeids- og sosialdepartementet er ansvarlig fagdepartement for lovgivningen på arbeids- og
-sosialfeltet, herunder for folketrygdloven med forskrifter.1
-Arbeids- og velferdsdirektoratet leder den statlige delen av organisasjonen som i dagligtalen
-betegnes som «Nav». Direktoratet er underlagt
-Arbeids- og sosialdepartementet, som har ansvar
-for etatsstyringen.2 Fordelingen av myndighet og
-ansvar mellom departementet og ytre etat reguleres av «Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet».3
-Instruksen omtaler kravene departementet stiller
-til Arbeids- og velferdsetatens faste oppgaver og
-aktiviteter, samt krav til nødvendige systemer,
-rutiner og styringsprosesser, som skal sikre at
-etaten når de målene som er satt i tildelingsbrev
-fra departementet. Instruksen revideres årlig,
-men de grunnleggende ansvarsforholdene ligger
-fast.
-Arbeids- og velferdsdirektoratet har i henhold
-til instruksen ansvar for å «tolke, forvalte og iverksette» lover og forskrifter etaten har forvaltningsansvar for.4 Direktoratet har videre ansvar for «å
-forvalte internasjonale avtaler og konvensjoner på
-trygde-, bidrags- og sosialområdet som Norge har
-inngått eller sluttet seg til i den utstrekning og på
-den måte disse er gjennomført i norsk rett».5
-Dette ansvaret omfatter folketrygdloven med for-
-
-1
-
-2
-
-3
-
-4
-
-5
-
-En del av det regelverket departementet har ansvar for, har
-tidligere i den perioden utvalget har gjennomgått, ligget til
-det som i dag er Helse- og omsorgsdepartementet, og det
-tidligere Sosialdepartementet. Når ansvaret for et saksområde har blitt flyttet til et annet departement, har gjerne
-hele avdelingen som forvaltet ansvaret også blitt flyttet, slik
-at det ansvarlige fagmiljøet ikke nødvendigvis er endret.
-Når det i rapporten vises til «departementet», er dette det
-departementet som hadde ansvar for saksområdet på det
-aktuelle tidspunktet.
-De lokale Nav-kontorene omfatter også kommunale tjenester, som kommunene har ansvar for. På Nav-kontorene
-jobber derfor både statlig og kommunalt ansatte.
-Arbeids- og sosialdepartementet, Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet, revidert versjon 18. januar 2019.
-Arbeids- og sosialdepartementet, Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet, revidert versjon 18. januar 2019 s. 4.
-Arbeids- og sosialdepartementet, Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet, revidert versjon 18. januar 2019 2.1.8, s. 7.
-
-skrifter, herunder forskrifter som gjennomfører
-EU-forordninger på trygdeområdet.
-Ethvert forvaltningsorgan er ansvarlig for at
-saksbehandlingen er forsvarlig og bygger på en
-korrekt lovforståelse. Det følger videre av arbeidsog velferdsforvaltningsloven § 4 at etaten skal forvalte
-«folketrygdloven, med unntak av kapittel 5, og
-andre lover hvor oppgaver er lagt til etaten, og
-sikre rett ytelse til den enkelte. Etaten har
-ansvaret for å følge opp og kontrollere tjenester, ytelser og utbetalinger.»
-Dette forvaltningsansvaret innebærer et ansvar
-for at etatens fortolking av nytt regelverk er riktig.
-Direktoratet kan gi rundskriv om tolkningsspørsmål, og utøver ellers ansvaret gjennom styring av
-underliggende enheter i etaten. Hvordan disse
-oppgavene er organisert i praksis, behandles nærmere nedenfor.
-Den nye trygdeforordningen ble gjort til norsk
-rett gjennom forskrift med virkning fra 1. juni
-2012, med forrang for folketrygdlovens regler.6
-Videre følger det av EØS-loven § 1 at bestemmelsene i EØS-avtalens hoveddel gjelder som norsk
-lov, og av samme lovs § 2 at bestemmelsene har
-forrang for annen lov. I den grad EØS-retten medførte begrensninger i adgangen til å anvende vilkår om opphold i Norge for rett til ytelser etter
-folketrygdloven, fulgte altså denne begrensningen både av norsk rett og av internasjonale forpliktelser, begge deler under Navs forvaltningsansvar.
-
-8.1.2 Styringsdialog
-Styringsdialogen mellom departementet og direktoratet består, foruten lov, forskrift og instruks, av
-årlige tildelingsbrev, etatsstyringsmøter og særmøter. I tillegg har departementet og direktoratet
-både uformell og formell faglig dialog. Denne faller i utgangspunktet utenfor den rutinemessige
-formelle styringsdialogen, som behandler ansvar
-og oppgaver, men i svært liten grad konkrete faglige spørsmål. I tildelingsbrevet for 2015 skriver
-departementet for eksempel særskilt om utlandsområdet:
-«Etaten skal håndheve de internasjonale avtalene på trygdeområdet som er gjennomført i
-norsk rett. Etaten skal ivareta rettighetene til
-6
-
-Forrangen følger av trygdeforordningsforskriften § 1, jf.
-folketrygdloven § 1-3.
-
-[Side 91]
-
-NOU 2020: 9
-Blindsonen
-
-personer som har rett til å motta de ytelsene
-etaten administrerer under opphold i utlandet.»7
-Tilsvarende formuleringer finnes i tildelingsbrev
-for 2014, 2013, 2012 og 2011.8 Formuleringen finnes ikke i tildelingsbrevene fra 2016 og fremover,
-men siden formuleringen bare er en gjentakelse
-av hva som følger av instruksen, har ikke dette
-noen betydning for etatens ansvar. Det fremgår av
-instruksen om virksomhets- og økonomistyring at
-direktoratet plikter å orientere departementet om
-saker som er av en viss viktighet:
-«Arbeids- og velferdsdirektoratet skal orientere ansvarlig departement dersom etaten
-ønsker å endre praksis på områder som er av
-prinsipiell betydning og som kan få politiske og
-eller økonomiske konsekvenser.
-Direktoratet skal orientere ansvarlig departement om avgjørelser i Trygderetten eller
-dommer i de ordinære domstoler som reiser
-problemstillinger som kan gripe inn i etablert
-praksis og/eller framstår som prinsipielt viktige. Tilsvarende gjelder for saker som er tatt
-opp av Sivilombudsmannen. Direktoratet skal
-orientere departementene om alle saker under
-etatens forvaltning som bringes inn for prøving
-ved Høyesterett.
-Arbeids- og velferdsdirektoratet har et selvstendig ansvar for å foreslå endringer av regelverk og instrukser som hører under Arbeidsog sosialdepartementet og Barne- og likestillingsdepartementet.»9
-Ansvarsforholdet slik det er beskrevet i styringsdialogen korresponderer godt med ansvaret slik
-det er beskrevet i lov og forskrift. Etaten har et
-selvstendig ansvar for fortolkingen av regelverket
-den forvalter. Dette innebærer at etaten også er
-ansvarlig for fortolking og praktisering av internasjonale trygdeavtaler som er gjennomført i norsk
-rett, herunder EØS-avtalen og trygdeforordnin7
-
-8
-
-9
-
-Se Arbeids- og sosialdepartementet, Tildelingsbrev til
-Arbeids- og velferdsdirektoratet for 2015, 23. mars 2015,
-s. 27.
-Se Arbeids- og sosialdepartemenet, Tildelingsbrev til
-Arbeids- og velferdsdirektoratet for 2014, 5. februar 2014,
-s. 29, Tildelingsbrev til Arbeids- og velferdsdirektoratet for
-2013, 1. februar 2013, s. 34, Tildelingsbrev til Arbeids- og
-velferdsdirektoratet for 2012, 27. januar 2012, s. 31 og Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2011,
-10. februar 2011, s. 28.
-Se Arbeids- og sosialdepartementet, Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet, revidert versjon 18. januar 2019 s. 4. Håndteringen av
-avgjørelser i Trygderetten i det sakskomplekset utvalget
-har gjennomgått, behandles nærmere i kapittel 11 og 15.
-
-89
-
-Kapittel 8
-
-gene. Departementet skal varsles og holdes orientert om viktige saker, selv om etaten har forvaltningsansvaret. Der direktoratet har behov for faglig dialog med departementet, ligger dette utenfor
-rammene av styringsdialogen. Det er ikke avholdt
-etatsstyringsmøter eller særmøter der begrensninger eller muligheter for å ta med sykepenger
-eller arbeidsavklaringspenger til andre EØS-land
-har vært på dagsorden.10
-
-8.1.3 Annen kontakt
-Det har vært utstrakt kontakt mellom departementet og direktoratet utenfor rammene av den
-formelle styringsdialogen. Internrevisjonen i Nav
-påpeker i sin rapport om håndteringen av saken
-følgende:
-«[D]et er et stort antall e-poster mellom departementet og direktoratet. E-poster kan være
-gjensidig orienterende om fremdrift, etterspørre faktainformasjon eller gi uttrykk for
-avsenders mening eller vurdering. E-poster
-inngår ikke automatisk i den formelle styringen. Samtidig kommer de fra direktoratets
-overordnede organ. Innholdet kan lett oppleves som mer retningsgivende enn det er
-grunnlag for, og Internrevisjonen har observert at den uformelle dialogen har medført misforståelser i etaten. For å forstå den formelle
-styringen i ytelseslinjen er det nødvendig å ha
-innsikt i dokumenter som har karakter av både
-å være formelle, men også uformelle. Når de
-dokumenter som oppfattes å være uformelle
-ikke blir arkivert enten det er e-poster, møtereferater eller annen informasjon, er det krevende å følge saksgangen.»11
-Utvalget har fått innsyn i et stort antall e-poster fra
-Nav og Arbeids- og sosialdepartementet, i tillegg til
-formell brevkorrespondanse. Utvalgets gjennomgang bekrefter det inntrykket som ble gitt i internrevisjonens rapport. I de kommende kapitlene er
-kommunikasjon, henholdsvis internt i Navsystemet og med departementet, et tema i flere
-sammenhenger. Her gjennomgås derfor organisasjonsstruktur og rutiner for kommunikasjon mer
-generelt og overordnet. Avslutningsvis drøftes problemstillinger knyttet til organiseringen.
-10
-
-11
-
-Departementet har bekreftet dette overfor utvalget etter
-forespørsel, på bakgrunn av at internrevisjonen i Nav
-påpekte dette.
-Internrevisjonen i Arbeids – og velferdsdirektoratet,
-Spesialoppdrag D2019-10 Kartlegging av fakta i EØSsaken, 11. desember 2019, på side 3.
-
-[Side 92]
-
-90
-
-NOU 2020: 9
-
-Kapittel 8
-
-8.2
-
-Blindsonen
-
-Arbeids- og sosialdepartementet –
-organisering og ansvar
-
-8.2.1 Generelt
-Særlig tre avdelinger i Arbeids- og sosialdepartementet er aktuelle i tilknytning til det sakskomplekset utvalget behandler. Disse er for det første
-velferdspolitisk avdeling, som har ansvar for syke-,
-pleie- og arbeidsavklaringspenger. For det annet
-pensjonsavdelingen, som har generelt ansvar for
-trygdeforordningen, og for det tredje budsjett- og
-styringsavdelingen, som har ansvaret for etatsstyringen av Arbeids- og velferdsetaten og
-Trygderetten. Avdelingene ledes av hver sin
-ekspedisjonssjef.
-Arbeidsmarkedsavdelingen har blant annet ansvar for «spørsmål knyttet til fri bevegelse av arbeidstakere innenfor EØS-området». I det sakskomplekset utvalget vurderer, har imidlertid ikke
-denne avdelingen hatt noen sentral rolle, og den behandles derfor
-ikke nærmere her.
-
-8.2.2 Velferdspolitisk avdeling
-Velferdspolitisk avdeling har ansvar for politikken knyttet til inntektssikring gjennom sykepenger, arbeidsavklaringspenger, uføretrygd,
-pleiepenger og hjelpemidler i folketrygden, økonomisk sosialhjelp og kvalifiseringsprogrammet. Frem til 1. januar 2019 hadde avdelingen
-også ansvaret for etatsstyringen av Nav. Avdelingen er delt inn i tre seksjoner, som alle har
-ansvar som er relevant for det sakskomplekset
-utvalget behandler.
-Seksjon for uføreytelser og internasjonale saker
-har blant annet ansvar for uføretrygd og koordinering av internasjonale saker i avdelingen (EU,
-Europaråd, FN, OECD, Nordisk). Seksjonen
-koordinerer også avdelingens forsknings- og
-utviklingsarbeid (FoU), og FoU-dialogen med
-Arbeids- og velferdsdirektoratet.
-Seksjon for arbeidsavklaringspenger og sosiale
-tjenester har ansvar for arbeidsavklaringspenger,
-arbeidsrettet oppfølging, sosialtjenesteloven,
-departementets styring av Fylkesmannen og
-Helsetilsynet og koordineringen av avdelingens
-arbeid med sosialpolitikk/fattigdom.
-Seksjon for sykepenger og inkluderende arbeidsliv har ansvar for sykepenger, pleiepenger, oppfølging av IA-avtalen og koordinering av
-avdelingens budsjettarbeid, herunder statsbudsjettet.
-Ansvaret for arbeidsavklaringspenger, sykepenger og pleiepenger er altså fordelt på to ulike
-seksjoner i velferdspolitisk avdeling, mens den
-
-tredje seksjonen har ansvar for koordinering av
-internasjonale saker.
-
-8.2.3 Pensjonsavdelingen
-Pensjonsavdelingen har overordnet ansvar for
-pensjonspolitikken. Fordi mye av den internasjonale trygdekoordineringen i EØS har vært knyttet
-til pensjoner, ligger ansvaret for implementering
-av trygdeforordningene i denne avdelingen, nærmere bestemt i enheten kalt internasjonal og juridisk seksjon. Denne seksjonen har ansvaret for
-medlemskap i folketrygden, internasjonal koordinering av trygdeytelser, bilaterale trygdeavtaler,
-forskuttering av barnebidrag og de forvaltningsmessige bestemmelsene i folketrygdloven, herunder regelverk knyttet til trygdemisbruk. Etter
-det utvalget har fått opplyst, har ansvaret ligget i
-denne seksjonen, eller forløpere til den, siden inngåelsen av EØS-avtalen.
-Internasjonal og juridisk seksjon har koordineringsansvar for trygdeforordningene, lovvalg og
-medlemskap, herunder ansvar for formell gjennomføring av trygdeforordningene i norsk rett.
-En representant fra denne seksjonen har også
-representert Norge i Den administrative kommisjon, som regel sammen med en medarbeider fra
-Arbeids- og velferdsdirektoratet.12
-8.2.4 Budsjett- og styringsavdelingen
-Budsjett- og styringsavdelingen ble opprettet
-1. januar 2019. Avdelingen ble opprettet for å
-samle og styrke departementets arbeid med etatsstyring av underliggende etater.13 Da budsjett- og
-styringsavdelingen ble opprettet, overtok den
-ansvaret for etatsstyring av Nav fra velferdspolitisk avdeling. Avdelingen har blant annet ansvar
-for etatsstyring av Arbeids- og velferdsetaten og
-Trygderetten, økonomiforvaltning i departementet, samfunnssikkerhet i sektoren og departementets interne planlegging og styring.
-Seksjon for strategi og styring av Arbeids- og velferdsdirektoratet har ansvar for etatsstyringen av
-12
-
-13
-
-I Den administrative kommisjon møter representanter fra
-hver medlemsstat. Denne særskilte kommisjonen behandler administrative spørsmål og fortolkningsspørsmål knyttet til trygdeforordningene, og skal legge til rette for en
-enhetlig anvendelse av EU-retten, gjennom å fremme samarbeid og erfaringsutveksling. Kommisjonens sammensetning og oppgaver er regulert av forordning 883/2004
-artikkel 71 og 72.
-Fremstillingen av formålet med å opprette denne avdelingen bygger på intervjuer med departementsråden i
-Arbeids- og sosialdepartementet og ekspedisjonssjefen
-som leder avdelingen.
-
-[Side 93]
-
-NOU 2020: 9
-Blindsonen
-
-Arbeids- og velferdsdirektoratet og Trygderetten,
-og skal «ivareta det strategiske og langsiktige
-arbeidet» mot underliggende virksomheter. Seksjonen har budsjettansvaret for virksomhetenes
-driftskapitler og koordinerer departementets budsjettarbeid overfor de to virksomhetene. Koordinering av Riksrevisjonens saker overfor Arbeidsog velferdsdirektoratet og Trygderetten ligger
-også i seksjonen.
-
-8.3
-
-Organiseringen av Arbeids- og
-velferdsetaten (Nav)
-
-8.3.1 Overordnet
-Det som i dagligtalen benevnes som «Nav» omfatter hele arbeids- og velferdsforvaltningen, som er
-delvis statlig og delvis kommunal.14 Det er totalt
-rundt 19000 ansatte i Nav, hvorav rundt 5000 er
-kommunalt ansatte, og 14000 ansatte i den statlige
-virksomheten; Arbeids- og velferdsetaten. Virksomheten reguleres av Lov om arbeids- og velferdsforvaltningen 16. juni 2006 nr. 20 (Nav-loven).
-På lokale Nav-kontor jobber det både statlig og
-kommunalt ansatte, med ansvar for henholdsvis
-statlige og kommunale ytelser og tjenester. Virksomheten i de felles lokale kontorene reguleres av
-Nav-loven kapittel 3. De ytelsene som er tema i
-denne rapporten, er alle statlige ytelser.15 Den
-nærmere fordelingen av fullmakter og kompetanse internt i Nav-systemet fremgår av Vedlegg 1
-til Nav-loven.16
-8.3.2
-
-Kort om tidligere organisering og
-endringer
-Nav-systemet har vært gjennom flere omorganiseringer etter Nav-reformen i 2006. Organisasjonskartet ble endret for hele organisasjonen i 2013,
-og i 2016 ble ytelsesforvaltningen omorganisert.17
-Noen av disse endringene har medført flytting av
-ansvar for regelverksutvikling for, og saksbehand-
-
-91
-
-Kapittel 8
-
-ling av de ytelsene som omfattes av utvalgets mandat, samt ansvaret for behandling av utlandsspørsmål.
-Før Nav-reformen i 2006 hadde Folketrygdkontoret for utlandssaker et særlig ansvar for
-eksportsaker. Begrepet trygdeeksport har tradisjonelt vært brukt om saker der trygdemottaker
-bor i eller flytter til utlandet – for eksempel personer som har kommet til Norge for å jobbe, og oppnådd rett til ytelser, og som så tar dem med til
-hjemlandet. Dette reflekteres i organisasjonsstrukturene, ved at det først og fremst er sakene
-til personer med bosted andre steder i EØS-området som har vært skilt ut til behandling i egne
-enheter i Nav. Frem til 2016 hadde Nav Internasjonalt ansvar for internasjonale saker, definert som
-de sakene der en bruker bodde i, eller flyttet til,
-utlandet. Da Nav Internasjonalt ble lagt ned i
-2016, ble oppgavene fordelt delvis til Nav Nordre
-Aker, delvis til lokalkontorene, og dels til Nav
-Arbeid og ytelser. I dag overføres oppfølgingen fra
-lokalt Nav-kontor til den nasjonale enheten Nav
-Oppfølging Utland når personer som har rett til
-syke- eller arbeidsavklaringspenger flytter til
-utlandet.18
-I senere tid har det vært en spesialisering på
-regionnivå i Nav-systemet: Der fylkeskontorene
-tidligere behandlet alle ytelser, er ansvaret for de
-enkelte ytelsene nå mer konsentrert. I den grad
-endringer i organisasjonsstrukturen er relevant
-for utvalgets undersøkelser, kommenteres dette
-der det er aktuelt.
-
-8.3.3 Direktoratet og linjene
-Arbeids- og velferdsdirektoratet leder Arbeids- og
-velferdsetatens virksomhet.19 Direktoratet er
-også fagdirektorat for de kommunale sosiale tjenestene og for området «levekår for sosialt og
-økonomisk vanskeligstilte». Direktoratet ledes av
-arbeids- og velferdsdirektøren, som rapporterer
-til Arbeids- og sosialdepartementet.
-
-14
-
-Nav ble etablert i 2006, ved sammenslåingen av Rikstrygdeverket og Aetat. Den gang sto akronymet «NAV» for
-«Ny arbeids- og velferdsforvaltning». I dag er det ingenting
-som formelt heter «Nav», men dette benyttes som en samlebetegnelse på virksomheten.
-15
-På en rekke områder har de lokalt ansatte fullmakt til å
-behandle saker «på tvers», for eksempel slik at kommunalt
-ansatte kan behandle søknader om statlige ytelser, og
-omvendt. Arbeids- og kompetansefordelingen ved lokalkontorene følger av avtale mellom Arbeids- og velferdsetaten og den enkelte kommune, jf. Nav-loven § 14. I denne
-sammenhengen er ikke den nærmere arbeidsfordelingen
-lokalt av større betydning, og det vil ikke bli gjort nærmere
-rede for den.
-16
-Nav-loven med vedlegg er tilgjengelig på lovdata.no.
-
-17
-
-18
-
-19
-
-Fra 1. januar 2013 ble Nav omorganisert slik at virksomheten i ytre etat, som er underlagt direktoratet, ble delt opp i
-økonomilinjen, ytelseslinjen og arbeids- og tjenestelinjen. I
-2016 ble ytelseslinjen omorganisert. Ny organisering av
-ytelseslinjen innebar mer spesialisering i de ulike resultatområdene. Omorganiseringen er nærmere omtalt i Navs
-årsrapport for 2016, se Arbeids- og velferdsdirektoratet,
-Årsrapport 2016, 24. april 2017.
-Nav Arbeid og ytelser har ansvar for å utbetale ytelser.
-Ansvaret for utbetaling til personer som er bosatt i utlandet, ligger hos Nav Arbeid og ytelser Romerike.
-Se Nav-loven § 3. Direktoratet ligger i Oslo, og er fysisk fordelt på to kontorer, som er plassert henholdsvis i Økernveien og i Sannergata.
-
-[Side 94]
-
-92
-
-NOU 2020: 9
-
-Kapittel 8
-
-Blindsonen
-
-Internrevisjonen
-
-Kunnskapsavdelingen
-
-Kommunikasjonsavdelingen
-
-Arbeids- og velferdsdirektøren
-
-HR-avdelingen
-
-Avdelinger som koordinerer,
-legger rammer og med støttefunksjoner på tvers av linjer
-
-Tjenesteavdelingen
-
-IT-avdelingen
-
-Ytelsesavdelingen
-
-Økonomi- og
-styringsavdelingen
-
-NAV Kontaktsenter
-
-NAV Arbeid og
-ytelser
-
-NAV Økonomi
-og pensjon
-
-NAV Hjelpemidler
-
-NAV Familie- og
-pensjonsytelser
-
-NAV Økonomi
-stønad
-
-NAV Fylke med
-spesialenheter
-
-NAV Kontroll
-
-NAV
-Økonomiteneste
-
-NAV-kontor i
-kommuner
-og bydeler
-
-NAV Klageinstans
-
-Avdelinger med operativ
-styring av enheter i styringslinjene
-
-Partnerskap med
-kommunene
-
-Figur 8.1 Organisasjonskart
-Kilde: Arbeids- og velferdsdirektoratet
-
-På Navs hjemmesider er organisasjonens oppbygning illustrert slik:20
-Organisasjonskartet bygger på klassiske linjestrukturer, der enhetene som er organisert i de
-ulike linjene styres av de respektive fagavdelingene i direktoratet, som illustrert over. Arbeidsog tjenesteavdelingen, Ytelsesavdelingen og Økonomi- og styringsavdelingen ledes av hver sin
-direktør. De lokale Nav-kontorene er del av
-Arbeids- og tjenestelinjen, som styres av arbeidsog tjenesteavdelingen.
-I hovedsak ligger ansvaret for de ytelsene som
-utvalgets mandat er konsentrert om, i ytelseslinjen, med fagansvar i ytelsesavdelingen i direktoratet. De underliggende enhetene Nav Kontroll,
-Nav Klageinstans, Nav Familie- og pensjonsytelser og Nav Arbeid og ytelser har ansvar for
-ulike deler av ytelsesforvaltningen, og omtales
-som resultatområder.21
-I en del saker er det lagt opp til at avdelingene
-i direktoratet skal samarbeide. For eksempel gjel20
-
-Organisasjonskartet er hentet fra Navs hjemmesider 20.
-mars 2020, og gjengitt med tillatelse fra Nav.
-21
-De ulike resultatområdene redegjøres for under i punkt
-8.3.5 til 8.3.8.
-
-der dette saker om sykepenger og arbeidsavklaringspenger, der ytelsesavdelingen og arbeids- og
-tjenesteavdelingen har et delt ansvar: Arbeids- og
-tjenesteavdelingen er ansvarlig for Nav-kontorene lokalt, som står for oppfølging av enkeltpersoner og vurdering av konkrete forhold som
-arbeidsevne. Kontorene forbereder også vedtak i
-en del saker om utenlandsopphold der formelt
-vedtak fattes av forvaltningsenhetene i Nav
-Arbeid og ytelser, og avdelingene i direktoratet
-deler det faglige ansvaret for ytelsene.22
-Ansvarsfordelingen mellom Nav-kontor og sentraliserte forvaltningsenheter er omdiskutert, i den forstand at det innad i Navsystemet er ulike oppfatninger om hvorvidt vedtak bør fattes i sentrale enheter, eller om vedtakskompetansen bør ligge til det enkelte kontor. Et argument for sentralisering av vedtakskompetanse er
-å sikre likebehandling, mens det på den annen side kan argumenteres for at Nav-kontorene er nærmere de enkeltpersonene vedtaket berører.
-
-Det har i perioder vært faste fagmøter mellom
-Arbeids- og tjenesteavdelingen og Ytelsesavdelingen på grunn av denne ansvarsfordelingen, og
-22
-
-Arbeidsfordelingen i saker om utenlandsopphold behandles nærmere nedenfor, under punkt 8.4.
-
-[Side 95]
-
-93
-
-NOU 2020: 9
-Blindsonen
-
-Kapittel 8
-
-Forvaltningsenheter (Nav Arbeid
-og ytelser)
-Formelle styringslinjer
-Avklaring av faglige spørsmål
-
-Nav Kontroll
-
-Nav Pensjon
-
-(tidligere Nav
-Internasjonalt)
-
-Styringsenhet i hvert
-resultatområde
-v/direktøren
-
-Fagnettverk
-
-Nav Klageinstans
-
-Lokale Nav-kontor
-
-Fylket v/direktøren
-
-Ytelsesavdelingen
-
-Fagdepartement
-
-Nav kontaktsenter
-
-Figur 8.2 Prinsipielle faglige avklaringer
-Figuren er utarbeidet av utvalget, basert på en illustrasjon som lå tilgjengelig på Navs intranett «Navet» frem til 2019. Figuren er
-ikke en nøyaktig gjengivelse. Illustrasjonen på Navs intranett ble sist oppdatert i 2013, før spesialisering av enhetene i Nav Arbeid
-og ytelser og nedleggingen av Nav Internasjonalt. Blant annet bygger figuren på at Nav Klageinstans har hatt et særlig ansvar for
-faglig veiledning, og at henvendelser om faglig avklaring derfor i mange tilfeller har vært kanalisert via klageinstansen.
-
-utvalget får opplyst at det jevnlig arrangeres felles
-ledermøter. Enkeltsaker utredes og avklares på
-ulike nivå, avhengig av saken, mens det som
-omtales som «prinsipielle beslutninger» skal tas
-på direktørnivå.23
-Direktoratet har blant annet det formelle
-ansvaret for rundskriv og annet regelverksarbeid,
-dialog med departementet og faglig ledelse av
-øvrige enheter i Arbeids- og velferdsetaten. Den
-faglige ledelsen innebærer at direktoratet skal gi
-prinsipielle avklaringer til de underordnede enhetene, som på sin side har ansvar for å løfte viktige
-spørsmål etter en nærmere definert rutine.24
-Av rutinen fremgår det at spørsmål av faglig art
-der det er behov for tolkning eller avklaring av
-rettstilstanden, skal sendes til ytelsesavdelingen i
-direktoratet. De spesialiserte fagnettverkene for
-alle ytelsene Nav forvalter, skal bidra til å sikre
-23
-
-Redegjørelsen her bygger på redegjørelser utvalget har
-innhentet fra Arbeids- og velferdsdirektoratet.
-
-enhetlig nasjonal praksis, og faglige avklaringer tas
-gjerne først her, før de løftes linjevei.25 Ytelsesavdelingen skal avklare spørsmål i den grad etaten selv
-24
-
-25
-
-Utvalget har mottatt en rutine for prinsipielle faglige avklaringer fra direktoratet. Denne er oppgitt å være oppdatert i
-2013, og har ligget tilgjengelig for alle ansatte på det
-såkalte «Navet», som er Nav-systemets intranett. Illustrasjonen er basert på illustrasjonen som lå i denne rutinen.
-Nav har opplyst at rutinen forsvant fra intranettet i forbindelse med en oppdatering av nettsidene i januar 2019. Det
-er også opplyst at praksis knyttet til faglige avklaringer (de
-grønne pilene i illustrasjonen) har endret seg noe, uten at
-det er lagt inn i rutinen, som følge av at ansvar for å lage
-utkast til rundskriv ble lagt ut til resultatområdene rundt
-2016. Det innebar at enkelte mindre avklaringer blir gjort i
-denne arbeidsprosessen. Likevel skal endringer av prinsipiell karakter løftes til ytelsesavdelingen særskilt.
-Ytelsesavdelingen har også ansvar for å godkjenne nye
-rundskriv. Se nærmere om Navs rundskriv i kapittel 10.
-Utvalget har fått opplyst fra Nav Arbeid og ytelser at prinsipielle faglige avklaringer siden 2016 i høy grad har vært tatt
-direkte med ytelsesavdelingen i Arbeids- og velferdsdirektoratet, der slike tidligere først gikk via Nav Klageinstans.
-Dette har sammenheng med spesialiseringen av ytelsesforvaltningen i 2016.
-
-[Side 96]
-
-94
-
-Kapittel 8
-
-NOU 2020: 9
-Blindsonen
-
-har fullmakt til dette, og løfte spørsmål til ansvarlig
-fagdepartement ved behov. Nav Klageinstans har
-hatt en veiledningstjeneste for andre faglige spørsmål. Inntil februar 2020 ble faglige avklaringer mellom resultatområdene og direktoratet praktisk
-gjennomført ved at henvendelser ble sendt per epost til såkalte «PK-kasser» i de enkelte avdelingene. Det er lagt til grunn at spørsmål til
-ytelsesavdelingen skal «siles», ved at «instansene
-spørsmålet løftes gjennom, vurderer om det reelt
-sett er behov for å løfte problemstillingen».26
-I diskusjonen etter at feiltolkningen av trygdeforordningen ble kjent høsten 2019, ble det vist til
-at enkelte ansatte hadde stilt spørsmål om tolkning av forordningen og rundskrivene på Navnettsiden kalt «erfaringsforum». Overfor utvalget
-har direktoratet understreket at erfaringsforum
-er «et internt sosialt nettforum hvor ansatte kan
-dele erfaringer og ha faglig diskusjon […] Erfaringsforum er ikke en rettskilde og enkeltsaker
-skal ikke drøftes på denne arenaen.».27
-
-regelverkskontor hadde ansvar for alle ytelsene, mens ansvar for
-ytelsene var delt mellom fire kontorer i den siste perioden fram til
-februar 2019, da ytelsesavdelingen sist ble omorganisert.30 De fire
-kontorene i seksjonen hadde frem til dette ansvar for henholdsvis
-arbeidsytelser, inntektssikring, pensjonsytelser og familieytelser.
-Ansvaret for EØS-regelverket lå til kontor for familieytelser. Den
-nye organiseringen innebærer at seksjonen fra februar 2019 ble organisert i kompetansemiljøer med ansvar for henholdsvis regelverk og system, forretningsutvikling og produkteierskap. Personalansvaret i seksjonen ble plassert hos lederne for de ulike kompetansemiljøene. Seksjonen ble videre delt inn i to «leveranseteam»;
-det ene kalt «pålitelig forvaltning» og det andre «produktstrategi
-og satsninger». I dag ligger ansvaret for ytelsene i team «pålitelig
-forvaltning».
-
-8.3.4
-
-8.3.5
-
-Nærmere om Ytelsesavdelingen og
-ytelseslinjen
-I ytelsesdirektørens ledergruppe sitter direktørene i de underliggende enhetene – omtalt som
-«resultatområdene». Utvalgets undersøkelser av
-direktoratets rolle har i hovedsak vært rettet mot
-Ytelsesavdelingen og den tilhørende ytelseslinjen,
-som faglig har hovedansvaret for de ytelsene
-utvalget behandler. Seksjon for fag og ytelsesutvikling i ytelsesavdelingen har det overordnede
-fagansvaret for alle ytelsene Nav forvalter, og
-ledes av en avdelingsdirektør.28
-Det har vært flere organisasjonsendringer i ytelseslinjen etter
-en større omorganisering av direktoratet, som trådte i kraft 1. oktober 2012.29 Da ble den gamle fagstaben for ytelser og styringsenheten for ytelseslinjen slått sammen til det som i dag heter
-ytelsesavdelingen. Avdelingen ble delt i seksjoner, som igjen var
-inndelt i kontorer. I en periode var organiseringen slik at et eget
-26
-
-Rutine kalt «Prinsipielle faglige avklaringer», s. 2. Rutinen
-er sist oppdatert 7. februar 2013. I tillegg til den generelle
-rutinen, er det utarbeidet rutiner for rundskrivsarbeid, og
-samhandlingen mellom resultatområdene i forbindelse
-med rundskrivsarbeid beskrives som en viktig arena for
-faglige avklaringer.
-27
-Arbeids- og velferdsetaten har redegjort for en del organisatoriske forhold overfor utvalget. Fremstillingen her bygger på notatet «Organisering og ansvar i Arbeids- og velferdsetaten» fra Arbeids- og velferdsetaten til utvalget, s. 6
-og 7.
-28
-Tidligere var tittelen seksjonssjef, og denne benevnelsen
-brukes iblant fortsatt.
-29
-Fremstillingen bygger på notatet «Organisering og ansvar i
-Arbeids- og velferdsetaten» fra Arbeids- og velferdsetaten
-til utvalget.
-
-Ytelsesavdelingen har det overordnede faglige
-ansvaret for rundskrivene, men i praksis utformes
-rundskrivene av enhetene i ytelseslinjen, gjennom
-arbeid i faggrupper og nettverk, før rundskrivene
-godkjennes i avdelingen.31 I tråd med den generelle rutinen for direktoratet, skal avdelingen også
-avklare prinsipielle faglige spørsmål som oppstår i
-linjen.
-
-Særlig om Nav Klageinstans
-
-Nav Klageinstans behandler klager og anker over
-vedtak knyttet til statlige stønader, og gir faglig
-veiledning til den statlige delen av Nav. Organisatorisk er Nav Klageinstans plassert som et resultatområde i ytelseslinjen. Direktøren i Nav Klageinstans er dermed en del av ledergruppen til
-ytelsesdirektøren, og underordnet denne.
-Klageinstansen har i overkant av 200 ansatte,
-og over 80 prosent av disse er jurister. Internt i
-Nav oppfattes klageinstansen som et sterkt juridisk fagmiljø, som blant annet har en aktiv rolle i
-rundskrivsarbeidet.
-Nav Klageinstans er organisert i fem kontorer
-plassert på ulike steder i landet, som ledes av hver
-sin avdelingsdirektør. Klageinstansen ledes av styringsenheten, som er fysisk plassert i Tønsberg og
-ledes av direktøren. Direktørens stab består av fagkontakter, som har jevnlige møter med saksbehandlere som arbeider med de ulike fagområdene ved
-de regionale kontorene. I tillegg avholdes månedlige fagledermøter. I begge typene møter drøftes
-aktuelle problemstillinger, for eksempel i forbindelse med nye avgjørelser fra Trygderetten eller
-der en klagesak reiser nye spørsmål, for å sikre en
-ensartet og riktig praksis i klagebehandlingen.32
-30
-
-31
-32
-
-Utvalget har mottatt dokumentasjon for omorganiseringene fra Arbeids- og velferdsdirektoratet, og fremstillingen
-her bygger på denne.
-Rundskrivene behandles nærmere i kapittel 10.
-Fremstillingen her bygger delvis på utvalgets samtaler med
-medarbeidere i styringsenheten i Nav Klageinstans.
-
-[Side 97]
-
-NOU 2020: 9
-Blindsonen
-
-Klageinstansens rolle er først og fremst å
-avgjøre klager i enkeltsaker. Der Nav Klageinstans omgjør et vedtak, skjer det i praksis ved at
-den enheten som har fattet vedtaket, instrueres til
-å fatte et nytt vedtak. Klageinstansen har imidlertid ingen generell instruksjonsrett overfor øvrige
-enheter i ytelseslinjen utover den enkelte sak.
-Klageinstansen avgir årlige kvalitetsrapporter, der
-de peker på generelle avvik, og skal på denne
-måten bidra til læring i etaten og mest mulig ensartet praksis.
-Når klageinstansen stadfester et forvaltningsvedtak, kan brukeren anke beslutningen videre til
-Trygderetten. I slike tilfeller er det klageinstansen som forbereder saken for Trygderetten, og
-som utøver partsrollen på vegne av Nav. Klageinstansen følger også opp kjennelser fra Trygderetten.33
-Nav Klageinstans modererer også den delen av «erfaringsforum» som omhandler forvaltning av regelverk, og gir generell
-veiledning ut fra instrukser og rundskriv. Når Klageinstansen
-fanger opp problemstillinger eller motsetninger i rundskriv, kan
-dette ved behov løftes til direktoratet. Problemstillinger som er
-reist i «erfaringsforum» blir som hovedregel først løftet til direktoratet hvis Klageinstans ikke kan veilede ut fra rundskrivene.
-
-8.3.6 Særlig om Nav Arbeid og ytelser
-Nav Arbeid og ytelser fatter forvaltningsvedtak i
-saker om arbeidsrettede ytelser og ytelser knyttet
-til sykdom. Nav Arbeid og ytelser er fysisk plassert på seks ulike steder i landet, i det som beskrives som forvaltningsenhetene. Disse fatter
-omtrent 2,4 millioner vedtak i året.34 Tidligere fattet alle enhetene vedtak om alle de statlige
-ytelsene, men siden 2016 har arbeidet i enhetene
-vært spesialisert, slik at det ikke spiller noen rolle
-hvor i landet brukeren bor. Vedtak om ytelsen fattes av en av de forvaltningsenhetene som har
-ansvar for den aktuelle ytelsen, etter innstilling fra
-det lokale Nav-kontoret.35 Nav Arbeid og ytelser
-vurderer også om det skal fattes vedtak om stans
-og/eller tilbakekreving av ytelser der Nav Kontroll har opprettet en kontrollsak.
-
-33
-
-Dette behandles noe nærmere i kapittel 11, om Trygderettens rolle i sakskomplekset.
-34
-Fremstillingen her bygger blant annet på utvalgets samtale
-med direktøren i Nav Arbeid og ytelser.
-35
-Kontorene i Nav Arbeid og ytelser refereres ofte til som
-«NAY», «forvaltning» eller «vedtaksenhetene». Arbeidsfordelingen mellom Nav Arbeid og ytelser og de lokale Navkontorene, og hvem som har fullmakt i den enkelte sakstype, fremgår av Vedlegg 1 til Nav-loven.
-
-95
-
-Kapittel 8
-
-8.3.7 Særlig om Nav Kontroll
-Nav Kontroll er et tredje resultatområde i ytelseslinjen. Direktøren i Nav Kontroll inngår følgelig
-også i ledergruppen til ytelsesdirektøren,
-sammen med direktørene i Nav Arbeid og ytelser
-og Nav Klageinstans.
-Nav Kontroll har ansvar for å utrede og
-anmelde saker der det kan bli aktuelt å stanse
-eller kreve tilbake ytelser, eller i ytterste konsekvens anmelde for trygdesvindel. Nav Kontroll
-ble opprettet i 2006. Enheten oppretter saker på
-grunnlag av tips, registerkontroll og samarbeid
-med andre enheter i Nav, samt øvrige etater som
-politiet, Skatteetaten og tollvesenet. I samtaler
-med utvalget har flere nåværende og tidligere
-ansatte vist til at denne delen av Nav har fått stadig økte fullmakter for å motarbeide trygdesvindel. Fra omtrent 2012 og frem til 2019 brukte
-Nav Kontroll blant annet sporing av IP-adresser
-for å avdekke om meldekort er sendt fra utlandet,
-og slik vise at mottakere av ytelser oppholdt seg i
-utlandet. Denne aktiviteten ble avsluttet, etter at
-den ble vurdert å være i strid med den nye personvernforordningen.36
-8.3.8
-
-Kort om samspillet mellom enhetene
-i ytelseslinjen
-Kontakten mellom ytelsesavdelingen og resultatområdene har helt til 1. februar 2020, da saksbehandlingssystemet Websak ble tatt i bruk, i stor
-grad vært basert på e-post til det som ble kalt «PKkasser» i de ulike enhetene i ytelsesavdelingen og
-i styringsenhetene i resultatområdene. Henvendelser er så fordelt videre fra disse felles innboksene.37 Kontakten har også vært e-postbasert
-ved behov for faglige avklaringer.
-Det avholdes jevnlige ledermøter i ytelseslinjen. Utvalget har gjennom samtaler med de
-aktuelle lederne forstått at det er ulike syn på i
-hvilken grad disse møtene har vært, og skal
-være, en arena for faglige diskusjoner. Direktøren i Nav Klageinstans har i samtale med utvalget fremholdt at det har vært liten adgang til å
-løfte faglige spørsmål til ledermøtene for å sikre
-koordinering mellom enhetene i linjen. De
-øvrige direktørene har opplyst at faglige spørs36
-
-37
-
-Forordning 2016/679, personvernforordningen, også
-omtalt som GDPR. Forordningen er gjennomført i norsk
-rett ved Lov 15. juni 2018 nr. 38 om behandling av personopplysninger (personopplysningsloven).
-Det er utarbeidet en rekke samhandlingsrutiner mellom de
-ulike resultatområdene og ulike deler av direktoratet. Her
-behandles samhandlingen bare på et overordnet nivå.
-
-[Side 98]
-
-96
-
-NOU 2020: 9
-
-Kapittel 8
-
-Blindsonen
-
-mål i liten grad har vært diskutert på dette
-nivået, og gitt uttrykk for ulike syn på om dette
-er problematisk. Tidligere ytelsesdirektør har
-uttrykt at hun ba om at faglige spørsmål direktørene ønsket å ta opp, ble presentert skriftlig for
-ledermøtet i forkant, som forberedelse til diskusjonen.
-Enhetene samspiller ellers i enkeltsaker, for
-eksempel ved at Nav Kontroll avgir rapport til Nav
-Arbeid og ytelser etter innledende undersøkelser i
-en kontrollsak. Nav Arbeid og ytelser vurderer
-om det er grunnlag for å stanse eller kreve tilbake
-ytelsen. Vedtaket fra Nav Arbeid og ytelser kan
-deretter påklages til Nav Klageinstans, og eventuelt bringes videre inn for Trygderetten. Dersom
-vedtaket stadfestes i Trygderetten, vil Nav Kontroll ta saken opp igjen dersom den er av en slik
-art eller omfang at det skal vurderes å ta ut anmeldelse.
-
-Når mottakere av arbeidsavklaringspenger, sykepenger og pleiepenger ønsker å ta med ytelsen til
-utlandet, må de søke til det lokale Nav-kontoret. I
-henhold til den såkalte «fullmaktsmatrisen» i
-Vedlegg 1 til Nav-loven, fatter lokalkontoret vedtak i førsteinstans ved søknad om sykepenger
-under utenlandsopphold etter folketrygdloven
-§ 8-9. Når det gjelder arbeidsavklaringspenger
-kan Nav-kontoret gi dispensasjon fra kravet om
-opphold i Norge ved søknad om midlertidig opphold i utlandet etter folketrygdloven § 11-3. For
-pleiepenger har Nav Arbeid og ytelser all vedtaksmyndighet.
-
-8.3.9
-
-8.4.2
-
-Kort om kunnskapsavdelingens rolle
-
-Etter at feiltolkningen av EØS-regelverket ble
-kjent høsten 2019, varslet arbeids- og velferdsdirektør Sigrun Vågeng at hun som et forbedringstiltak ville vurdere å opprette en egen juridisk avdeling i direktoratet.
-Arbeids- og velferdsdirektoratet har en juridisk seksjon. Denne ligger i kunnskapsavdelingen, som ligger direkte under direktøren.
-Juridisk seksjon i kunnskapsavdelingen har
-ansvar for tverrgående, generelle juridiske problemstillinger, for eksempel generelle forvaltningsrettslige spørsmål, men arbeider i utgangspunktet ikke med ytelsesfaglige problemstillinger. Dette ligger i fagavdelingene. Tidligere
-utøvet kunnskapsavdelingen også søksmålskompetansen i sivile saker på vegne av Nav,
-mens dette nå i større grad håndteres av Nav
-Klageinstans.
-Etter det utvalget har fått opplyst, ble juridisk
-seksjon ikke involvert i diskusjonen om adgangen til å nekte utenlandsreiser i EØS-området for
-mottakere av kontantytelser, før direktoratet
-satte ned en tverrfaglig gruppe for å vurdere
-praksisendring i august 2019, der to medarbeidere i juridisk seksjon deltok. I samtale med
-utvalget har leder for juridisk seksjon gitt
-uttrykk for at avdelingen kunne bistått på et
-tidligere tidspunkt, men at det aldri kom noen
-forespørsel om dette. Avdelingen har dermed
-vært lite involvert i den saken utvalget har gjennomgått, og nevnes i denne sammenheng først
-og fremst fordi den har et sterkt juridisk fagmiljø.
-
-8.4
-
-Arbeidsfordelingen i saker om
-utenlandsopphold for mottakere
-av kontantytelser
-
-8.4.1
-
-Innvilgelse av utenlandsopphold
-
-Avslag på søknad om
-utenlandsopphold
-Når det lokale Nav-kontoret ikke ser grunn til å gi
-dispensasjon fra kravet om opphold i Norge, utarbeider kontoret en innstilling til vedtak som sendes Nav Arbeid og ytelser, som formelt avgjør
-spørsmålet. Nav Arbeid og ytelser overtok ansvaret for å fatte vedtak i disse sakene da Nav Internasjonalt ble lagt ned i 2016.
-Etter det utvalget har fått opplyst, er overprøvingen av de faktiske og rettslige vurderingene som er gjort ved det lokale kontoret begrenset, men det sjekkes at gjeldende rundskriv er
-fulgt. Nav Arbeid og ytelser griper ikke inn i Navkontorenes vurderinger med mindre de inneholder «åpenbare feil».38
-8.4.3 Når brukeren ikke har søkt
-Der trygdemottakeren har reist til utlandet uten å
-søke eller melde fra om dette, vil videre oppfølging være avhengig av om Nav oppdager utenlandsoppholdet. Dette kan skje enten ved at Nav
-Kontroll avdekker utenlandsoppholdet og melder
-fra til Nav Arbeid og ytelser, eller ved at Nav-kontoret får kunnskap om oppholdet på andre måter –
-for eksempel i kontakt med brukeren – og melder
-fra til Nav Arbeid og ytelser.
-
-38
-
-Dette er opplyst av direktøren i Nav Arbeid og ytelser i
-samtale med utvalget.
+## Merknad fra utvalgsmedlem Kristin Bugge Midthjell
+
+### Innledning
+
+Utvalgsmedlem Midthjell deler utvalgsmedlem Fløistads syn på forvaltningspraksis, og utviklingen av denne, de EØS-rettslige problemstillinger, og at det ikke er grunnlag for å trekke konklusjoner knyttet til EØS-rettens tjenesteregler, men at dette må få sin avklaring i domstolen.
+
+Dette medlem har også deltatt i diskusjon og gjennomganger av framstillingen i punkt 2, og kommet med enkelte innspill underveis. Det vises også til omfattende samarbeid rundt delutredningen. Det bemerkes at det er gjort et betydelig arbeid fra utvalgsmedlem Fløistad med framstillingen, på svært begrenset tid, og at det overordnet vurderes at kapittel 6 særlig bidrar til å øke «bredden» i framstillingen i rapporten.
+
+Både struktur, gjennomgang og innfallsvinkel i punkt 6.2 anses for både relevant og nyttig for utvalgets mandat, særlig opp imot vurderinger av om forvaltningens praksis før 2012 må gjennomgås, departementets rolle, gjennomføringen av forordningene, og ikke minst den utvikling som lå til grunn for den feilpraktisering som har vist seg i forvaltningen de senere årene. Dette anses svært relevant også for ønsket om at «alle sider av saken» skal belyses.
+
+Både kapittel 6, samt dette medlemmets øvrige særmerknader får betydning for alle de steder der dette overlapper med utvalgets vurderinger, gjennomganger og henvisninger, og særlig med tanke på de deler av utvalgets framstilling der det foreligger eventuelle motstridende vurderinger.[^149] Det har av tidsmessige årsaker ikke vært mulig for dette medlemmet å ta stilling til dette gjennom en detaljert gjennomgang opp imot de øvrige kapitlene og det tas således et uttrykkelig forbehold for de tilfeller der det ikke er samsvar med rapporten for øvrig.
+
+Det vises i så måte til de steder i rapporten der det konkluderes med at en vesentlig del av problemene oppsto som følge av at den nye trygdeforordningen ble gjennomført som forskrift og ikke ved lov, og at dette derfor medførte mindre grundig arbeid. Dette medlemmet deler ikke nødvendigvis dette synet, da det både er presisert uttrykkelig at forordningen har forrang, det er gitt klare føringer i rundskriv, det ikke i senere lovendringer har vært tatt hensyn til EØS-rettslige føringer ved innstramminger mht. oppholdskrav, samt det dette medlem viser til under, herunder vedrørende tjenestereglene i punkt 6.4.4, med hensyn til at tjenestereglene ble gjennomført ved lov.
+
+### Noen særlige innspill knyttet til forvaltningens praksis:
+
+Innledning
+
+Som nevnt stiller dette medlem seg bak framstillingen i punkt 6.2, herunder det syn på forvaltningspraksis og de framhevede vurderingene av EØS-praksis som fremgår, samt vurderinger av rettigheter og hindringer til disse.
+
+Medlemmet Midthjell ønsker imidlertid også å vise til at det gjennom de (dog svært begrensede) undersøkelser dette medlem har hatt mulighet til å gjøre, ser ut til å ha vært en praksis over tid som har ivaretatt EØS-rettslige krav også implisitt, antakeligvis siden før EØS-avtalen. Dette anses å i ytterligere grad vise «alle sider» av saken, og bakgrunnen for de oppholdskrav som har fremgått av lovgivningen på ulike tidspunkt, særlig dersom regler i utgangspunktet var vurdert å være i overensstemmelse med EØS-retten allerede i 1994, og derfor ikke nødvendiggjorde endring
+
+Årsaken til at dette medlem anser dette for relevant, er at det for medlemmet Midthjell fremstår slik at det de senere årene er fastholdt det oppholdskravet som har vært gjeldende i lengre tid, men at formålet og hensynene bak disse kravene har blitt tilsidesatt i større grad. Det har således skjedd en dreining bort fra formål bak oppholdskrav, og formål med dispensasjoner fra disse, over på et oppholdskrav som sådan, og etter hvert også betydelige konsekvenser av «brudd» på dette.
+
+Dreiningen i praksis knyttet til oppholdskrav
+
+I tidligere folketrygdlov, forarbeider til denne, samt i både rettspraksis og trygderettspraksis, ser det ut til å være lagt til grunn andre vurderinger både hva gjelder omfang av utenlandsopphold, unntak fra disse, samt evt. konsekvenser av «brudd», enn det som fremgår av de senere års praksis og regelverk.
+
+Det ser imidlertid ut til å ha vært en gradvis endring i vurderinger av grunnlaget oppholdskravene de senere årene[^150], samt innstramminger i regelverket, og klarere definisjoner og bestemmelser om varighet av mulige opphold, søknadskrav m.v.
+
+Det har også vært en gradvis endring av konsekvenser av utenlandsopphold, og betydning ikke bare for bortfall eller tilbakekreving av ytelser, men også hva gjelder straff. Det har imidlertid ikke vært lett å få klarhet i akkurat når endringene i praksis har skjedd, eller eventuelt hva som har vært de faktiske årsakene til dette[^151].
+
+Dette ser derfor ut til å ha medført en dreining bort ifra oppholdskrav, med begrunnelse i tråd med EØS-retten,[^152] over på at «ethvert» brudd på oppholdskrav medfører trygdemisbruk. Det som ser ut til å være gjennomgående[^153] fra tidlig av hva gjelder «trygdemisbruk» har for de relevante ytelser eksempelvis vært feilinformasjon om sykdom/uførhet, unnlatelse av å føre opp arbeid i meldekort m.v. Dette fremgår også klart av undersøkelser om trygdemisbruk, så sent som i 2013, der andre former for trygdemisbruk var fokus[^154].
+
+For dette medlem ser det ut til at selve oppholdskravene har blitt «stående», men uten at den opprinnelige begrunnelsen og formålet med disse har blitt ivaretatt på samme måten de senere årene. Det ser derfor ut til å ha skjedd en endring, etter at den nye forordningen trådte i kraft, og især fra slutten av 2013/starten av 2014. Dette er også sammenfallende med en periode der det skjedde endringer i politiske føringer/ønsker hva gjelder ønsket om å stanse trygdemisbruk, der det ble et fokus på å hindre «trygdeeksport».[^155]
+
+Noen utdypende momenter fra praksis på 90-tallet
+
+For personer som har blitt syke under utenlandsopphold, har retten i henhold til trygdeforordningen blitt ivaretatt, jf. kapittel 6 og 7, samt delutredningen. I TRR 1994-1538[^156], som omhandler nettopp et slikt forhold, fremgår det også *hva* Rikstrygdeverket og Trygderetten mente var praksis, og hva som var hensyn bak oppholdskrav og evt. dispensasjon til disse, allerede i 1992[^157]:
+
+Etter Rikstrygdeverkets egne anførsler, fremkommer det at dispensasjon kan gis dersom
+
+«den trygdede mottar sykepenger allerede før avreisen fra landet og legen på forhånd erklærer at det utvilsomt vil foreligge arbeidsuførhet under hele utenlandsoppholdet eller en viss tid etter avreisen fra landet. Det må i alle fall anses klart at utenlandsoppholdet ikke vil forlenge sykmeldingsperioden. Det kan også tillegges vekt hvorvidt det dreier seg om en langvarig sykdom der utenlandsoppholdet anses gunstig av medisinske eller andre tungtveiende grunner».
+
+Denne presiseringen ser således ut til å ivareta EØS-rettslige krav, selv for et saksforhold som angikk tiden før EØS-avtalens ikrafttreden.
+
+I en annen sak som gjaldt tidligere folketrygdlov (TRR 1999-295), inntraff arbeidsuførheten før utenlandsoppholdet, mens det ble søkt først i ettertid. Søkeren fikk kun godkjent fire av i alt 6–7 uker. Trygderetten kom til at det var *forståelig og naturlig* at en person som hadde bodd i Norge i 23 år (ukjent statsborgerskap), ønsket å reise «hjem» til Tyskland i forbindelse med en akutt vanskelig livssituasjon. Dette ble derfor vurdert å være «særlige grunner» til slikt opphold, også ut over de godkjente fire ukene, selv om brukeren selv trodde at hun ikke hadde lov til å reise utenlands, men psykologen hadde «gått god for» dette.[^158]
+
+I en tredje sak, etter ny folketrygdlov (TRR 1999-3834) fremgår det av henvisning til Rikstrygdeverkets retningslinjer til folketrygdloven § 8-9, som er den aktuelle bestemmelsen for sykepengers og pleiepengers vedkommende i vår sak:
+
+«Etter folketrygdloven av 17. juni 1966 nr. 12 § 3-3 nr. 3 kunne det gis unntak fra hovedregelen hvis det forelå ‘særlige grunner’. Formuleringen ‘særlige grunner’ er ikke videreført i den nye folketrygdloven. Ved å velge uttrykket ‘Etter søknad kan. .’ har lovgiver allikevel gitt trygden en hjemmel for skjønnsmessig vurdering.»
+
+I den nye lovbestemmelsen ble det gjort et skille mellom sykdom før avreise og sykdom som inntraff først underveis, men hensikten var å videreføre muligheten til en skjønnsmessig vurdering i hver enkelt sak. Trygderetten viste videre til at begrunnelsen for å måtte sannsynliggjøre sykdom i utlandet var
+
+«hovedsakelig vanskelighetene med å føre kontroll med arbeidsuførheten, sykdommens karakter, varighet og konsekvenser for arbeidsevnen, under den trygdedes opphold i utlandet. \[…\] I tillegg må det foreligge særlige grunner som gjør det rimelig å dispensere i følge forarbeidene».
+
+Selv om dette i den konkrete saken gjaldt sykdom som inntraff i utlandet, viser dette hva hensynene bak dispensjonsmulighetene i nåværende folketrygdlov § 8-9 var iallfall to år etter at loven trådte i kraft.
+
+Dette medlem har ikke funnet straffesaker om de samme reglene/oppholdskravet i tidligere folketrygdlov § 3-3[^159], og heller ikke dommer der utenlandsopphold i seg selv har medført straff, før det i 2011 ble avsagt en dom, i hovedsak knyttet til *dagpenger,* der det også var en periode med sykepenger. Vedkommende var for øvrig norsk statsborger, og således ikke vernet av 71-forordningen. For oppholdskrav ved dagpenger vises til kapittel 6.
+
+Hva gjelder straffesaker for de andre aktuelle ytelsene, har dette medlemmet heller ikke funnet saker vedrørende AAP, eller de ytelser som ble slått sammen til AAP, eller for pleiepengers del, knyttet til tidligere folketrygdlov og oppholdskrav. For saker med domfellelser også for forhold før 2012, ser det videre ut til at det er snakk om anmeldelser *etter* at ny trygdeforordning trådte i kraft. Det ser ikke ut til at det har vært snakk om domfellelser for trygdebedrageri grunnet utenlandsopphold for disse ytelsene før i 2014. Det bemerkes videre at det også må gjøres et skille for saker før og etter ny trygdeforordning, jf. konklusjoner i delutredningen, samt kapittel 6.2 og vernet før 2012, i tillegg til om det faktisk var snakk om handlinger som kunne anses for å være bedrageri, jf. også overgangsordninger ut 2012 for AAP sitt vedkommende.
+
+Noen momenter knyttet til de ulike ytelsene og endringer i oppholdskrav
+
+De ulike ytelsene i granskingen har vært regulert av ulike bestemmelser, definisjoner og krav til ulike tider. Det har også vært endringer i hvilke dispensasjonsmuligheter fra oppholdskravene som har vært aktuelle, ikke bare for EØS-saker, men for alle utenlandsopphold.
+
+Det fremgår klart at det har vært ulikt regelverk ikke bare til forskjellige tidspunkt, men også for forskjellige ytelser, herunder ytelsene som etter hvert ble til AAP i 2010. Det var videre en overgangsordning ut 2012 for personer som var inne i et slikt løp forut for endringen i 2010[^160], og det må derfor også sees hen til om praksis for disse personene i realiteten oppstilte et oppholdskrav, før evt. etter 31. desember 2012 (også for øvrige mottakere av AAP).
+
+Yrkesrettet attføringsstønad utgjør en vesentlig del av dagens AAP, som også er den ytelsen som i hovedsak straffedommene fra de senere årene omhandler.
+
+På tidspunktet for EØS-avtalens gjaldt det for *yrkesrettet attføringsstønad*, at en person som oppholdt seg i utlandet *i en begrenset* periode kunne få attføring *dersom utenlandsoppholdet ikke ville forlenge eller vanskeliggjøre attføringen.*
+
+Av NOU 1990: 20, om «forenklet folketrygdlov», kapittel 14 (stønad ved langvarig sykdom, skade eller lyte) fremgår følgende:
+
+«Utvalget vil imidlertid foreslå at vilkåret om opphold i Norge kan fravikes i enkelte tilfeller \[…\]
+
+Utkastets første ledd presiserer hovedregelen om at det er et vilkår for rett til stønad etter dette kapitlet at medlemmet oppholder seg her i Norge. Etter utkastets annet ledd er det gjort unntak fra oppholdsvilkåret ved utenlandsopphold som varer kortere enn seks måneder. *Det innebærer at stønad kan gis selv om medlemmet drar på ferie eller tar kortere studieopphold i utlandet.* Det er etter utvalgets syn upraktisk at trygdemyndighetene skal stoppe stønader ved *slike korte utenlandsopphold.* Det er dessuten ofte vanskelig å kontrollere om medlemmet oppholder seg i utlandet i kortere perioder. Forslaget vil medføre en administrativ forenkling. *Utvalget antar at seks måneders utenlandsopphold er en passende tid for å fange opp de som er på langtidsferie i utlandet»* (medlemmets kursivering).
+
+Det bemerkes at seks måneder ble omtalt som «korte» opphold, og at det her var siktet til langtidsferier. Det vises i så måte til de ulike vurderingere av «korte» og «lange» opphold som har vært et omfattende tema de senere årene, jf. rapporten for øvrig (se eksempelvis kapittel 7 og forholdene høsten 2018).
+
+Av forarbeidene til nåværende folketrygdlov § 11-3 fremgår det at
+
+«Bestemmelsen er tatt med for å gi en person som mottar attføringspenger under yrkesrettet attføring mulighet til å reise på ferie til utlandet uten å miste attføringspengene. \[…\] Departementet ønsker å presisere at det er et vilkår at utenlandsoppholdet i disse tilfellene ikke forlenger eller vanskeliggjør attføringsopplegget. Departementet har ikke foreslått noen fast tidsgrense for utenlandsoppholdets varighet, ut over at det skal gjelde i en ‘begrenset periode’. Med ‘begrenset periode’ mener departementet et tidsrom som anses som rimelig ferietid. Dette er i samsvar med gjeldende praksis».
+
+Av dette fremgår det med andre ord at formålet var å åpne opp for at attføring (en vesentlig del av nåværende AAP) kunne beholdes under ferier i utlandet, og at det var meningen å begrense dette til «rimelig ferietid», noe som etter ovennevnte NOU kunne være opptil seks måneder. Videre var det presisert at man ønsket å beholde muligheten for skjønnsmessige vurderinger, og at formålet var å ikke forlenge eller vanskeliggjøre attføringsopplegget[^161].
+
+Oppsummering og vurdering – mulig årsak til motstrid mellom tekst i rundskriv, samt praksis, opp imot meldekort, veiledning til meldekort, vedtak og vedlegg til vedtak
+
+For gjennomgangen av meldekort og informasjon gitt til brukerne viser dette medlem i hovedsak til egne særmerknader til kapittel 12, der disse er gjennomgått i detalj.
+
+Dette medlem har ikke hatt mulighet til å gå ytterligere i dybden på disse punktene av tidsmessige årsaker, men gjennomgangen i punkt 6.4.2.1 6.4.2.3 viser at de krav EØS-retten stiller for at hindringer skal være lovlige, helt siden før EØS-avtalen ser ut til å ha vært ivaretatt implisitt helt siden før EØS-avtalen trådte i kraft, og også etter ny folketrygdlov. Det vises til kapittel 6.2 og gjennomgang mht. ferie. Det at norske regler har åpnet opp for *ferier* i utlandet (herunder EØS) på opptil 6 måneder, med mulighet for lengre ferier ved skjønnsmessig vurdering, så lenge hensynene bak oppholdskrav ivaretas, viser at Norge har gått svært langt i å tillate mottakere av ytelsene å reise på ferier utenlands, uavhengig av EØS-rettslige føringer.
+
+Dette underbygger derfor medlemmet Fløistads vurdering av at praksis ikke ser ut til å ha vært i strid med EØS-retten før retten til fri bevegelighet sett opp imot trygdeforordningen av 2004 (fra juni 2012), stilte skranker for hvilke hindringer som kunne oppstilles.
+
+Ved gjennomgang av meldekortene[^162] (for AAP, samt evt. for forutgående ytelser før 2010), veiledning til meldekort, innhold i vedtak, vedlegg til vedtak m.v. ser det ut til å være snakk om «hindringer» for utenlandsreise som er ment å ivareta de samme hensyn som EØS-retten oppstiller for hindringer for fri bevegelighet. Formuleringene er rettet mot «fravær» som hindrer oppfølging m.v. uavhengig av om fraværet er i EØS-land, andre utland, eller i Norge[^163].
+
+Selv om det for dette medlem ikke har vært mulig å få klarhet i tidspunktet disse formuleringene stammer fra, jf. både meldekort, veiledning, vedtakstekst m.v., ser det ut til at formuleringene i det materiell som også fram til i 2014 ble presentert for brukerne, kan stamme fra de ovennevnte vurderingene, som langt på vei ivaretar de EØS-rettslige kravene.
+
+For dette medlem ser det derfor ut til at disse formuleringene derfor hang ved lenge etter den dreiningen i praksis som dette medlem har vist til over, der mulighet for utenlandsopphold ble innstrammet, og konsekvensene av utenlandsopphold uten søknad ble langt større. Dette kan derfor ha ført til at meldekort, vedlegg til disse, vedtakstekst m.v. fortsatt har vært i overensstemmelse med disse hensyn, mens *rundskrivene* og praksis etter disse, etter hvert var *i strid med hensynene,* særlig etter 2012.
+
+### Særlig om vedlegg til rundskriv til folketrygdloven § 8-9
+
+Det vises til punkt 6.4.3. I vedlegg 2 til omtalt rundskriv er det oppstilt eksempler på hvilken tolkning som er aktuell for hvilke situasjoner. Vedlegget har blitt oppdatert flere ganger, sist i november 2019. For helheten i framstillingen trekkes fram noen eksempler på hva det er lagt til grunn at praksis innebar per 1. mai 2001[^164], samt hva som eventuelt var aktuelt per 1. juni 2012 (da den nye trygdeforordningen trådte i kraft).
+
+V2-08-09 gjeldende fra 1. mai 2001, hadde overskriften «*Særlig om EØS-avtalen i relasjon til folketrygdloven § 8-9*». Det ble i vedlegget oppstilt eksempler på situasjoner som EØS-retten på dette tidspunkt vernet, og det ble bl.a. presisert følgende:
+
+«EØS-avtalen som trådte i kraft 1. januar 1994 omfatter også regler om koordinering av trygderettigheter. Dette medfører at det i mange tilfeller må gjøres unntak fra folketrygdlovens bestemmelser. Hovedforordningen på trygdeområdet er EF-forordning (EØF) nr. 1408/71 om anvendelse av trygdeordninger på arbeidstakere, selvstendig næringsdrivende og deres familiemedlemmer som flytter innenfor Fellesskapet (‘forordningen’).
+
+Et av formålene med forordningen er å sikre at personer som ønsker å benytte seg av muligheten til fri bevegelighet for å arbeide, ikke skal hindres i å flytte fra et land til et annet fordi de taper trygderettigheter eller utsettes for forskjellsbehandling. Reglene skal sikre trygderettigheter opparbeidet i forskjellige land og sørge for at de ikke går tapt ved flytting.
+
+Forordningen innebærer at det for de som er omfattet av forordningen gjøres noen unntak fra lovens hovedregel om at ‘det er et vilkår for rett til sykepenger at medlemmet oppholder seg i Norge’. *I visse tilfeller må derfor trygden utbetale sykepenger til personer som bor eller oppholder seg i utlandet» (*medlemmets utheving)
+
+Dette viser derfor klart at det nettopp *ble* sett hen til både generell EØS-rett, samt trygdekoordineringsforskriften og hva denne i praksis innebar.
+
+Det ble som nevnt oppstilt eksempler på anvendelsen av reglene, og uttrykkelig presisert innledningsvis, ifm. eksemplene at trygdekontoret *må bruke EØS-rundskrivet for å foreta riktig saksbehandling.* To av eksempelsituasjonene det ble vist til var:
+
+«**Situasjon 1:** *Bor og arbeider i Norge.* Vedkommende er medlem i Norge og har eventuelt rett til sykepenger fra den norske folketrygden.
+
+- Blir syk i Norge: Folketrygdloven kapittel 8 gjelder (der det kan gjøres unntak fra oppholdskravet).
+
+- Vil reise til et annet EØS-land i sykmeldingsperioden: EØS-rundskrivet gir nærmere informasjon om hvilke tilfeller som er omfattet av forordningen.
+
+- Blir syk under opphold i et annet EØS-land: Tilfellet omfattes av forordningen (artikkel 22 nr. 1 bokstav a). Medlemmet har rett til sykepenger ved sykdom som oppstår i et annet medlemsland.
+
+- Vil flytte til et annet EØS-land i en løpende sykmeldingsperiode: Omfattes av forordningen (artikkel 22 nr. 1 bokstav b). Vedkommende har rett til å flytte etter å ha søkt om tillatelse, Norge må fortsatt utbetale sykepenger.
+
+**Situasjon 3:** *Arbeider i Norge, men bor i et annet EØS-land:* Vedkommende er i henhold til forordningen trygdet i Norge.
+
+- Blir syk i Norge: Omfattes av folketrygdloven, jf. § 2-2, og av forordningen (artikkel 21). Har rett til sykepenger fra folketrygden under opphold i Norge.
+
+- Vil reise til bostedslandet i sykmeldingsperioden: Tilfellet omfattes av forordningen (artikkel 22 nr. 1 bokstav b). Har rett til å reise til bostedslandet etter å ha søkt om tillatelse, Norge må fortsatt utbetale sykepenger.
+
+- Blir syk i bostedslandet: Omfattes av forordningen (artikkel 19): Vedkommende har etter søknad rett til sykepenger utbetalt i bostedslandet.
+
+- Blir syk i et tredje EØS-land: Omfattes av forordningen (artikkel 22 nr.1 bokstav a).
+
+- Vil flytte til et annet EØS-land i løpende sykmeldingsperiode: Samme vurdering som første eksempel, siste kulepunkt.»
+
+Dette viser således hvordan Nav vurderte saker med EØS-borgere før trygdeforordningen, og en klar bevissthet rundt EØS-situasjonene.
+
+Da den nye trygdeforordningen trådte i kraft, ble også ovennevnte vedlegg endret. I V2-09-08 av 1. juni 2012, ble det gjort noen justeringer, i hovedsak knyttet til språk, begrepsbruk og henvisninger til de ulike bestemmelsene. For personer som jobber i Norge, men som «bor» i et annet EØS-land, ble det en ytterligere endring ved at de ikke lenger trengte å søke om å ta med seg sykepenger. For personer som «bor og arbeider i Norge» ble det henvist til rundskrivet. Det ble imidlertid ikke samtidig gjort en uttrykkelig endring opp imot unionsborgerskapet, og endringen i de personer som var omfattet av rundskrivet (jf. gjennomgangen i kapittel 6.2).
+
+Det bemerkes imidlertid at det ikke var slik at forordningen ble oversett, og heller ikke at denne ikke ble gjennomgått, men at tilpasningen til endringen for personkretsen ikke ble gjort. Det ble imidlertid fortsatt vurdert også midlertidige opphold i andre EØS-land.
+
+### Retten til fri bevegelse av tjenester
+
+Hva gjelder forholdet til tjenestereglene, er det jf. kapittel 6.2, stilt spørsmål både hva gjelder forskjellsbehandling av personer som reiser på ferie, og at bortfall av slike ytelser på *feriereiser* skal bryte med EØS-retten (se punkt 6.2.8).
+
+For sykepenger var det allerede i tidligere folketrygdlov av 1966 presisert at disse ikke utbetales under «*ferie*» dersom det ikke foreligger *særlige grunner* for dette.
+
+Det vises således også til vurderinger for øvrig i utvalgets rapport, særlig knyttet til gjennomføringen av forordningen, der det legges til grunn at gjennomføring ved lov gir en bedre tilpasning i øvrig regelverk. EØS-avtalen ble gjennomført ved lov, gjennom omfattende forarbeid og tilpasninger. Det ble *ikke* gjort endringer i den forbindelse hverken ifm. oppholdskrav, ferie m.v.
+
+Det kan derfor antas at nettopp dette var vurdert å være i overensstemmelse med EØS-rettslige krav forut for EØS-*loven* og EØS-avtalen. Dersom det skal legges til grunn at rettigheter knyttet til fri bevegelse av tjenester kan være brutt siden 1994, må dette også i så fall eventuelt få betydning for flertallets vurderinger av at gjennomføring ved lov kanskje ville ha medført at de aktuelle problemene ikke oppsto i forhold til gjennomføringen av trygdeforordningen.
+
+Det vises videre til gjennomgangen av unionsborgerskapet, og utviklingen i fri bevegelighet av personer i punkt 6.2. Denne retten gir også EØS-borgere en rett til utreise, innreise og opphold i andre EØS-land. Det vises i så måte til utlendingsloven kapittel 13, som direkte viser til unionsborgerdirektivet.
+
+En eventuell *rett* til å fortsatt beholde trygdeytelser under ferie er noe annet enn muligheten til å uhindret reise inn i, oppholde seg i et annet EØS-land, eller å få kjøpe tjenester som turist i et annet EØS-land. Medlemmet Midthjell er imidlertid enig i at disse spørsmålene må få sin avklaring i domstolen. Dette medlemmet har gjennomgått en større del av de avgjørelser fra EU/EFTA som var aktuelle for diskusjonene i forbindelse med delutredningen, og mindretallet i denne. Dette medlem har heller ikke ved gjennomgang av disse funnet vurderinger som medfører at dette medlem anser dette spørsmålet som avklart i domstolen, noe heller ikke den sist avsagte, tidligere omtalte avgjørelsen, medfører.
+
+De av dette medlem gjennomgåtte avgjørelsene av relevans for delutredningen omhandler ikke de helt samme problemstillinger som i vårt tilfelle. Det at nasjonale regler som hindrer en person å ta med kontanter av et visst omfang ikke er tillatte, blir av en noe annen karakter[^165], enn å skulle fortsette å motta løpende trygdeytelser under utenlandsreiser/fravær. Det vises til gjennomgangen av ytelser under ferie m.v. i punkt 6.2 i kapittelet. Retten til å fritt reise som turist og å kjøpe de tjenester man ønsker er fortsatt til stede.
+
+Også eksempelvis rett til å søke voldsoffererstatning på lik linje med innlendinger, er en noe annen problemstilling[^166]. Det å ha nasjonale regler som forskjellsbehandler EØS-borgere som er på ferie i landet kan bryte med diskrimineringsforbudet, og i tillegg få personer til å avstå fra å benytte seg av tjenester[^167] blir noe annet enn de aktuelle problemstillingene i vår sak.
+
+Dette medlem har derfor, heller ikke på bakgrunn av de gjennomgåtte avgjørelser/uttalelser (som det ovennevnte er noen av eksemplene på) ikke funnet grunnlag til å konkludere med at tjenestereglene får anvendelse, på samme måte som «flertallet» har funnet, men at dette som nevnt må få sin avklaring i domstolen.
+
+# Normer og retningslinjer for gjennomføring av EØS-rett
+
+## Innledning
+
+Utvalgets arbeid har mange berøringspunkter mot hvordan EØS-rettslige forpliktelser gjennomføres i norsk rett. EØS-retten er dynamisk i den betydning at den er i endring. Endringene skyldes ofte endringer i EØS-avtalens mange vedlegg, typisk fordi nye direktiver og forordninger gjøres til en del av EØS-avtalen. Som følge av at EØS-reglene er omfangsrike, og griper inn i lovgivning på tvers av ulike fagområder, er det utviklet en rekke felles retningslinjer for gjennomføring av EØS-rett i norsk rett. Det er også slik at EØS-retten stiller krav til hvordan EØS-rettslige regler gjennomføres i nasjonal rett, og disse kravene har betydning for vurderingen av hvordan forordninger og øvrig EØS-rett er gjennomført på trygdeområdet.
+
+I det følgende omtales først EØS-rettens krav til klar og tydelig gjennomføring av EØS-rett i nasjonal rett. Deretter redegjøres det for de kravene norske bestemmelser og rutiner for regelverksutforming stiller. Samlet gir dette en oversikt over de normer og retningslinjer som generelt gjelder for gjennomføring av EØS-rettslige forpliktelser. Dette vil fungere som et bakteppe for de senere redegjørelsene for arbeidet med gjennomføring av forordninger og øvrig EØS-rett på trygdeområdet.
+
+## EØS-rettslige krav til gjennomføringen
+
+Som denne utredningen viser, kan trygdeforordningene og annen EØS-rett gi anvisning på andre løsninger enn dem som følger av folketrygdloven. Kollisjonsreglene som følger av henholdsvis EØS-loven § 2 og trygdeforordningsforskriften skal sikre EØS-konforme løsninger i den enkelte sak. Slik mulighet til EØS-konforme løsninger i enkeltsaker er likevel ikke ensbetydende med at gjennomføringen av forordningene i norsk rett, eller EØS-tilpasningen av norsk trygdelovgivning for øvrig, er i samsvar med EØS-rettens krav.
+
+EU-domstolens praksis gir atskillige eksempler på at medlemsstater er dømt for traktatbrudd der nasjonale lovbestemmelser er i strid med EU-rettslige regler som har direkte virkning og forrang. Et tidlig eksempel er sak C-167/73 *Kommisjonen mot Frankrike,* der EU-domstolen fant at Frankrikes unnlatelse av å endre en lov som krevde at en viss andel av mannskapet på skip skulle være franske statsborgere, var et traktatbrudd. Dette selv om det fulgte av forordning 1612/68 og de alminnelige reglene om fri bevegelighet for arbeidskraft at lovbestemmelsen måtte vike, og franske myndigheter i tillegg hadde gitt instrukser om at de franske lovbestemmelsene ikke skulle anvendes. Dette er fulgt opp i en rekke avgjørelser.[^168] Begrunnelsen for at unnlatt endring av bestemmelser som uansett må vike er et traktatbrudd, kommer tydelig frem i sak C-104/86 *Kommisjonen mot Italia,* hvor vi finner følgende:
+
+«Som Domstolen ofte har fastslået, fritager fællesskabsrettens forrang og direkte virkning ikke medlemsstaterne fra forpligtelsen til at ophæve nationale retsforskrifter, som er uforenelige med fællesskabsretten, idet der ellers vil opstå en uklar faktisk situation, som skaber usikkerhed hos de retsundergivne med hensyn til deres muligheder for at påberåbe sig fællesskabsretten.»[^169]
+
+Illustrativ er også EU-domstolens avgjørelse i sak C-522/04 *Kommisjonen mot Belgia,* hvor EU-domstolen påpeker at
+
+«\[s\]elv om en medlemsstats myndigheder \[…\] i praksis ikke anvender en national bestemmelse, der er i strid med fællesskabsretten, kræver hensynet til retssikkerhed[^170] ikke desto mindre, at denne bestemmelse ændres (jf. i denne retning dom af 9.3.2000, sag C-358/98, Kommissionen mod Italien, Sml. I, s. 1255, præmis 16 og 17, og af 13.7.2000, sag C-160/99, Kommissionen mod Frankrig, Sml. I, s. 6137, præmis 22).»[^171]
+
+Denne saken er særlig relevant fordi Belgia, på samme grunnlag, også ble dømt for brudd på EØS-avtalen.[^172] Det er ikke grunn til å anta at EFTA-domstolen vil vurdere et slikt forhold annerledes. EFTA-domstolen vil derfor dømme for traktatbrudd der lov- eller forskriftsbestemmelser er i strid med bestemmelser som gjennomfører forpliktelser etter EØS-avtalen, selv om det følger av nasjonal rett at de bestemmelsene som gjennomfører EØS-forpliktelsene skal legges til grunn.
+
+Det kan etter dette ikke herske noen tvil om at det er et brudd på forpliktelsene etter EØS-avtalen ikke å tilpasse øvrig lovgivning til forordninger og andre EØS-rettslige bestemmelser gjennomført i norsk rett. Dette gjelder selv om det er sørget for at de EØS-rettslige bestemmelsene gjelder som lov eller forskrift, og skal legges til grunn ved konflikt med andre bestemmelser i norsk rett. Det er med andre ord ikke nok å gjennomføre forordningen som sådan som lov eller forskrift, eller gi EØS-avtalens hoveddel lovs kraft, og så overlate regelkonflikter til kollisjonsregler. Det må også ryddes i øvrig lovgivning.
+
+De kravene EØS-retten stiller synes å være godt i samsvar med hva behovet for lovpleie for å sikre god lovgivningskvalitet tilsier.[^173]
+
+## Utredningsinstruks, lovteknikk og EØS-veilederen
+
+### Oversikt
+
+Det er fastsatt en egen instruks som skal sikre at statlige tiltak er tilstrekkelig utredet før de iverksettes.[^174] Utredningsinstruksens punkt 1-1 lyder slik:
+
+*1-1 Formål*
+
+Formålet med instruksen er å legge et godt grunnlag for beslutninger om statlige tiltak gjennom å
+
+- identifisere alternative tiltak
+
+- utrede og vurdere virkningene av aktuelle tiltak
+
+- involvere dem som er berørt av tiltaket, tidlig i utredningsprosessen
+
+- samordne berørte myndigheter.
+
+Videre er det et formål at Norges deltakelse i EØS- og Schengen-samarbeidet forvaltes på en helhetlig og effektiv måte.
+
+Utredningsinstruksen fastsetter retningslinjer for «utarbeiding av beslutningsgrunnlag for statlige tiltak som utføres i, eller på oppdrag for, statlige forvaltningsorganer».[^175] Forvaltningsorganet som har ansvar for utredningsarbeidet, har ansvar for at instruksen følges.[^176]
+
+Både lovforslag og forskrifter skal utformes i tråd med retningslinjene i Justis- og beredskapsdepartementets veileder «Lovteknikk og lovforberedelse» (lovteknikkveilederen). Utredningsinstruksen fastsetter plikt til å konsultere Justis- og beredskapsdepartementet dersom det planlegges satt i gang «større lovarbeider eller andre lovarbeider som kan reise lovstrukturspørsmål».[^177] Instruksen pålegger ingen slik foreleggelsesplikt ved fastsettelse av forskrifter.
+
+Utredningsinstruksen kapittel 5 har særlige regler om EØS- og Schengen-regelverk. Her fremgår det at arbeid med nødvendige lov- og forskriftsendringer skal starte i god tid før vedtak om innlemmelse i EØS-avtalen, og særlige problemstillinger av rettslig, institusjonell eller faglig karakter skal avklares så tidlig som mulig.[^178]
+
+Utredningsinstruksen pkt. 5.6 bestemmer at det skal utarbeides EØS-notater for EØS-relevante rettsakter vedtatt av EU og forslag til slike. EØS-notatene skal bidra til at departementene og andre berørte har tilgang til informasjon om regelverksprosessene knyttet til antatt EØS-relevante rettsakter i EU, innlemming i EØS-avtalen og gjennomføring i norsk rett. EØS-notatene inngår også som en del av regjeringens informasjon til Stortinget om EU-regelverk som skal gjennomføres i norsk rett.[^179]
+
+Det er utarbeidet en mal for saksinformasjonen i EØS-notater. Denne revideres med ujevne mellomrom. Gjeldende mal ser slik ut:
+
+«*Beskrivelse*
+
+Sammendrag av innhold
+
+- Forslagets/rettsaktens formål (ref. utredningsinstruksen pkt. 2-1, spm. 1 og 2).[^180]
+
+- Rapporteringsforpliktelser som følge av rettsakten?
+
+- Er rettsakten oppfølgning av internasjonale avtaler?
+
+- Teksten skal være kortfattet og forståelig. Om det er ønskelig med detaljer/utfyllende informasjon, skrives dette under ‘andre opplysninger’.
+
+Merknader
+
+- Utredningsinstruksen pkt. 2-1, spm. 3, 4 og 6 anses å være besvart i det nedenstående.
+
+- Hjemmel i EU-traktaten.
+
+- Gjeldende norsk lovgivning og politikk på området.
+
+- *Underoverskrift ‘rettslige konsekvenser’: Rettslige konsekvenser for Norge. Vil gjennomføring medføre endring i norsk lovgivning eller annet regelverk? Hvilke lover/forskrifter må i så fall endres/hvordan vil rettsakten gjennomføres i norsk rett?* \[Uthevet her\]
+
+- Underoverskrift ‘økonomiske og administrative konsekvenser’: Får rettsakten økonomiske konsekvenser i Norge for offentlige myndigheter (kommunalt, fylkeskommunalt og statlig nivå)? Omtalen skal tydeliggjøre evt. nye økonomiske forpliktelser som innlemming av rettsakten i EØS-avtalen vil innebære for det offentlige, størrelsesorden på evt. merutgifter, hvorvidt evt. utgifter vil løpe over flere år eller er en engangsutgift i forbindelse med innlemmelsen. Man kan skille mellom direkte utgifter (kontingent) og indirekte utgifter (behov for økte administrative ressurser grunnet nye forpliktelser).
+
+- Det skal også presiseres om rettsakten får konsekvenser for enkeltpersoner, næringslivet eller andre.
+
+- Beskrivelsen skal klargjøre hvorvidt rettsakten skal grupperes i Gruppe 1 (Rettsakter som krever lov- eller budsjettendring, samt rettsakter som krever forskriftsendring som vurderes å gripe vesentlig inn i norsk handlefrihet), Gruppe 2 (rettsakter som krever forskriftsendring som ikke griper vesentlig inn i norsk handlefrihet) eller Gruppe 3 (rettsakter som ikke har konsekvenser for norsk lovgivning), men det er ikke nødvendig å skrive dette eksplisitt om det er valgt gruppe i notatbasen.
+
+- Dersom det skal tas forbehold om Stortingets samtykke, skal dette eksplisitt angis og årsak oppgis (krever lovendring, krever budsjettendring eller er av særlig viktighet, f.eks. innebærer avståelse av myndighet). Det skal i tillegg hakes av for art. 103-forbehold i notatbasen.
+
+- Eventuell utfyllende informasjon, som ikke er relevant for Stortinget, skrives under ‘vurdering’.
+
+Sakkyndige instansers merknader
+
+- Synspunkter knyttet til spesialutvalgets behandling av saken.
+
+- Eventuelle høringssvar og andre innkomne synspunkter.
+
+- Det skal fremgå hvem som har vurdert rettsakten (SU, fagdepartement eller etat) og konkluderes om EØS-relevans og akseptabilitet.[^181]
+
+*Status*
+
+- Prosessen i EU.
+
+- Prosessen i Norge og EØS. (Hvordan har man behandlet saken fra norsk side, herunder datoer for behandling? Deltakelse i ekspertgrupper el.? Hvilke andre departement/spesialutvalg er involvert og hvilken rolle har de? Prosessen på EFTA-siden, herunder forholdet til Island, Liechtenstein og Kommisjonens behandling av saken i EØS-prosessen. Evt. norske eller EØS/EFTA-posisjoner som er formidlet overfor EU).
+
+*Vurdering*
+
+- Hvordan påvirker saken norske interesser (samsvar eller motstrid med norsk politikk)?
+
+- Berøres forholdet til andre internasjonale forpliktelser?
+
+- Forhandlingssituasjonen i EU (synspunkter fra andre stater, Kommisjonen, Europaparlamentet, interessegrupper og organisasjoner).
+
+- Mulighetene for at norske synspunkter kan få gjennomslag, og hvilke land som kan forventes å ha sammenfallende syn.
+
+- Vurdering av behovet for tilpasningstekst.
+
+- Dersom det vurderes som aktuelt for Norge å avvise innlemmelse av en rettsakt eller deler av nytt regelverk i EØS-komiteen, skal mulige virkninger av dette grundig vurderes.
+
+- Dersom det er motstridende interesser og/eller uenighet mellom departementene om hva som skal være norsk holdning, må det fremgå.
+
+*Andre opplysninger*
+
+I dette feltet i EØS-notatet kan man skrive andre relevante opplysninger som ikke faller inn under punktene ovenfor.»[^182]
+
+Malen har vært justert noen ganger opp gjennom årene, men punktet om rettslige konsekvenser, i betydningen behov for endring av gjeldende lover eller forskrifter, har alltid vært et av de punktene som skal besvares. Verken malen for EØS-notater eller utredningsinstruksen legger uttrykkelig opp til at det skal utredes nærmere hvordan forordninger som skal gjennomføres i norsk rett påvirker annet lovverk. Heller ikke lovteknikkveilederen gjør det, selv om spørsmålet om lovstruktur så vidt berøres.[^183] Veilederen viser her til anbefalingene i Lovstrukturutvalgets utredning (NOU 1992: 32 *Bedre struktur i lovverket*). I denne heter det om lovrevisjoner og EØS-prosessen:
+
+«Under utvalgets arbeid har det pågått en forhandlingsprosess med EF om et EØS-samarbeid. En eventuell EØS-avtale vil ha betydning for lovstrukturarbeidet, fordi en rekke EF-regler må innføres i det norske regelverket. Om et slikt samarbeid blir noe av, er imidlertid ikke endelig avgjort i skrivende stund. Det hadde vært ønskelig å kunne ta hensyn til EØS-aspektene i utvalgets arbeid, men slik tidsplanen har vært for både utvalgets arbeid og EØS-utviklingen, har dette vanskelig latt seg gjøre.»[^184]
+
+Uten at det knyttes til de utfordringer Norges forpliktelser etter EØS-avtalen reiser, tilrår Lovstrukturutvalget at det opprettes et system der det enkelte departement har et system for etterkontroll av egne lover og forskrifter, der standpunkt om at det ikke skal foretas noen slik kontroll skal begrunnes særskilt. Lovstrukturutvalget foreslår derfor at det
+
+«bør utvikles tilfredsstillende systemer for å kontrollere at regler virker i tråd med forutsetningene. Etter utvalgets syn kan Justisdepartementets system for etterkontroll av regler være et hensiktsmessig utgangspunkt.»[^185]
+
+Noe slikt system synes ikke etablert. Lovteknikkveilederen har imidlertid et eget kapittel om gjennomføring av EØS-avtalen i norsk rett. Her omtales forholdet til EØS-avtalens hoveddel ved gjennomføringer av blant annet forordninger i norsk rett. Her heter det at
+
+«\[r\]ettsakten må \[…\] tolkes i lys av de grunnleggende prinsippene i EØS-avtalen. Og selv om en rettsakt skulle la et visst spørsmål være uregulert, eller uttrykkelig bestemme at EØS-statene i visse tilfelle står fritt til å innføre andre regler enn det som følger av rettsakten selv \[…\], må statene utøve denne friheten innen rammen av de generelle prinsipper i avtalen, så lenge man er innenfor disse prinsippenes saklige virkeområde.
+
+Erfaringen fra EU-landene viser at det er lett å overse dette forholdet ved nasjonal gjennomføring av rettsakter.»[^186]
+
+Ved omtalen av gjennomføring av forordninger innlemmet i EØS-avtalen, tas det utgangspunkt i situasjonen etter EU-retten, der forordninger er «umiddelbart anvendelige». Umiddelbar anvendelighet innebærer at forordningene inngår i EU-statenes rettsorden når de etter sin egen ordlyd er trådt i kraft, uavhengig av mellomkommende nasjonale myndighetshandlinger.[^187] I lovteknikkveilederen heter det i forlengelsen av dette at
+
+«\[n\]asjonal gjennomføring er verken påkrevd eller tillatt, utover vedtakelse av nødvendige sanksjonsregler *og opprydding i motstridende nasjonalt regelverk.*»[^188] (utvalgets kursivering).
+
+For så vidt gjelder gjennomføring av forordninger innlemmet i EØS-avtalen i norsk rett, heter det at forordningene skal gjennomføres ord for ord. Det fremgår av sammenhengen at denne gjennomføringen, som i EU, må ledsages av nødvendige sanksjonsregler og opprydding i motstridende norsk regelverk.
+
+Lovteknikkveilederen sier ikke noe spesifikt om valget mellom lov og forskrift ved gjennomføring av forordninger, men fremhever at forholdet til borgernes rettssikkerhet er et av flere forhold som vil være av betydning ved vurderingen.[^189] De situasjonene lovteknikkveilederen har for øye er nok i første rekke de der det dreier seg om inngripende tiltak. For så vidt gjelder trygdeforordningene er situasjonen nærmest omvendt, ettersom forordningene gir borgerne rettigheter de etter folketrygdloven ikke skal ha. Stortingets kontroll- og konstitusjonskomité har gitt uttrykk for
+
+«det syn at det er grunn til å vise varsomhet med bruken av forskriftshjemler, særlig når det gjelder regler som gir rettigheter og plikter (legalitetsprinsippet) for borgerne. Rettigheter og plikter bør i størst mulig grad fremgå av selve loven.»[^190]
+
+Saksbehandlingsrutinene knyttet til utarbeidelse av ny regulering i EU og senere gjennomføring i norsk rett forutsetter at de som er involvert i arbeidet med gjennomføring av EØS-rettsakter i norsk rett både forstår hvilke regler rettsakten gir grunnlag for, og identifiserer hvordan disse reglene forholder seg til ellers gjeldende lover og forskrifter. I forlengelsen må det forutsettes at de ser og vurderer de hensyn som gjør seg gjeldende ved valg av gjennomføringsinstrument.
+
+Som utvalget kommer tilbake til i de følgende kapitlene, kan det synes som det har skortet på dette når det gjelder betingelsene for rett til kontantytelser under sykdom.
+
+### Departementenes ansvar
+
+Selv om et statlig utredningsarbeid i praksis ofte gjennomføres av et underordnet forvaltningsorgan, har departementene et overordnet ansvar for kvaliteten på beslutningsgrunnlag innenfor egen sektor.[^191]
+
+Det følger av utredningsinstruksen punkt 5-6 at det skal utarbeides EØS-notater for vedtatte og foreslåtte EØS-relevante EU-rettsakter. Disse notatene utarbeides av ansvarlig departement i samråd med relevante spesialutvalg.[^192] Spesialutvalgets funksjon er å sikre at alle relevante sider ved en sak blir opplyst. EØS-notatene er som nevnt regjeringens informasjon til blant annet Stortinget om EU-regelverk som skal gjennomføres i norsk rett. EØS-notatene er tilgjengelige for statsforvaltningen på eosnotat.no, mens offentlige versjoner av EØS-notatene er tilgjengelige på regjeringen.no.
+
+Ved gjennomføring av forordninger omfattet av EØS-avtalen i norsk rett, vil det dermed være det relevante fagdepartementets ansvar å tilrettelegge grunnlaget for de tilpasninger i øvrig regelverk på deres sektorområde som blir nødvendig. Det vil også være det relevante fagdepartementets ansvar, i samarbeid med det relevante spesialutvalget, å sørge for at beskrivelsen av forordningens innhold er slik at øvrige departementer settes i stand til å vurdere forordningens betydning for regelverk innenfor sine sektorområder.
+
+### Særlig om Utenriksdepartementet, Justis- og beredskapsdepartementet og Finansdepartementets ansvar ved gjennomføring av EØS-forpliktelser i norsk rett
+
+Utenriksdepartementet og Finansdepartementet har møterett i alle spesialutvalg, og har ved dette et ansvar for å bidra til at EØS-notatene gir de opplysninger som er nødvendige for å vurdere betydningen av de relevante rettsaktene på deres sektorområder.
+
+Ved gjennomføring av forpliktelser etter EØS-avtalen i norsk rett, har Utenriksdepartementet et overordnet ansvar for at Norges folkerettslige forpliktelser respekteres.
+
+Finansdepartementets generelle ansvar følger av dets oppgaver som budsjett- og økonomikoordinerende departement. For så vidt gjelder spørsmålet om folketrygdlovens krav om opphold på norsk territorium for rett til kontantytelser under sykdom, har dette kravet i utgangspunktet ingen økonomiske konsekvenser.
+
+Justis- og beredskapsdepartementets ansvar, ut over de sektorer departementet har ansvar for i sin alminnelighet, er begrenset til lovtekniske forhold. Det følger av utredningsinstruksen kapittel 4 at Justis- og beredskapsdepartementet skal forespørres før det settes i gang større lovarbeider som kan reise lovstrukturspørsmål. De lovstrukturspørsmål gjennomføring av forordninger i norsk rett reiser, vil være knyttet til allerede eksisterende lovgivning. Det typiske vil være at forordningen regulerer forhold som allerede er regulert i norsk rett, og spørsmålet kan være hvilke grep som må tas for at regelverket samlet sett skal bli så tilgjengelig og forståelig som mulig. Ferdige utkast til lovproposisjoner skal forelegges berørte departementer og Justis- og beredskapsdepartementets lovavdeling for lovteknisk gjennomgåelse. Dette gjelder også der loven er en gjennomføring av en forordning. Der forordninger gjennomføres ved forskrift, er det ingen slik plikt.
+
+## Stortingets rolle
+
+Innlemmelse av nye rettsakter i EØS-avtalen er i utgangspunktet dekket av Grunnloven § 26 første ledd, slik at Stortingets medvirkning ikke er nødvendig. Etter annet ledd skal Stortingets samtykke likevel innhentes dersom det dreier seg om en sak av «særlig stor viktighet» eller gjennomføringen av traktatforpliktelsen krever ny lov eller stortingsbeslutning, jf. Grunnloven § 26 annet ledd.
+
+Stortinget har imidlertid også en rolle i det løpende arbeidet med EØS-saker. Stortingets forretningsorden § 14 bestemmer at regjeringen skal konsultere Stortingets europautvalg blant annet om saker som gjelder EØS-avtalen og forslag om nye eller endrede rettsakter på områder omfattet av avtalen.[^193] Lederen i utenriks- og forsvarskomiteen kaller sammen til konsultasjoner når vedkommende mener det er nødvendig, og når et regjeringsmedlem eller en tredjedel av utenriks- og forsvarskomiteens medlemmer ber om det.
+
+## Utvalgets vurdering
+
+Fremstillingen har vist at EØS-retten stiller krav om at forpliktelsene etter avtalen skal gjennomføres på en slik måte at rettsstillingen blir så klar og forutberegnelig som mulig. Plikten til å rydde opp i motstridende regelverk følger av vel etablert EU-rett, og er omtalt i lovteknikkveilederen.[^194]
+
+Fremstillingen i punkt 7.3 viser at de rutinene som er etablert for forvaltningens arbeid med EØS-saker legger forholdene til rette for at de konsekvenser forslag til EØS-relevante EU-rettsakter og EU-rettsakter innlemmet i EØS-avtalen har for norske interesser og norsk rett, blir identifisert og vurdert. Også organiseringen av det løpende arbeidet, gjennom de ulike spesialutvalgene, legger til rette for at nye problemstillinger blir identifisert og håndtert.
+
+Utvalget mener den overordnede organiseringen av arbeidet knyttet til gjennomføring av EØS-rett i norsk rett er hensiktsmessig, men vil fremheve at organiseringen forutsetter at de involverte organene til enhver tid har tilstrekkelig ressurser og kompetanse til å følge opp slik organiseringen forutsetter.

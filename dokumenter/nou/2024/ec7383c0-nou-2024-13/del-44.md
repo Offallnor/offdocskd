@@ -1,989 +1,302 @@
-# NOU 2024: 13, del 44 av 47 (side 487–498)
+# NOU 2024: 13, del 44 av 53
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/ec7383c0-nou-2024-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-13/id3046261/
 - Original-PDF: https://www.regjeringen.no/contentassets/69dc76735a1f4f2a93ac0cdbad0c72e8/no/pdfs/nou202420240013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 487]
-
-NOU 2024: 13
-Lov og frihet
-
-485
-
-Kapittel 40
-
-Kapittel 40
-
-Lovforslag
-40.1 Straffeloven
-I lov 20. mai 2005 nr. 28 om straff gjøres følgende
-endringer:
-§ 5 første ledd nr. 9 skal lyde:
-9. rammes av §§ 254, 257, 282, 291–296, 299–306
-eller §§ 309–316,
-§ 77 ny bokstav m skal lyde:
-m. er begått for å bevare eller gjenopprette en persons, families, slekts eller gruppes ære.
-§ 87 første ledd andre punktum skal lyde:
-Ved overtredelse av §§ 253, 253 a, 257, 269, 270,
-282, 284, 299, 302 eller 304 skal fristen likevel regnes fra den dag den fornærmede fyller 18 år.
-§ 196 første ledd bokstav a skal lyde:
-a. § 111 (krenkelse av Norges selvstendighet og
-fred), § 113 (krenkelse av Norges statsforfatning), § 115 (angrep på de høyeste statsorganenes virksomhet), § 117 (inngrep overfor viktige samfunnsinstitusjoner), § 119 (landssvik),
-§ 121 (etterretningsvirksomhet mot statshemmeligheter), § 123 (avsløring av statshemmeligheter), § 128 (ulovlig militær virksomhet),
-§ 129 (straff for deltakelse mv. i voldelig sammenslutning med politiske mål), § 131 (terrorhandlinger), § 133 (terrorforbund), § 138 (terrorbombing), § 139 (kapring av luftfartøy og
-skip mv.), § 140 (forstyrrelse av den sikre drift
-av luftfartøy og skip mv.), § 141 (bruk og
-utslipp av farlig stoff i tilknytning til luftfartøy
-og skip mv.), § 142 (ulovlig befatning med farlig materiale mv.), § 143 (gisseltaking i terrorøyemed), § 144 (angrep på en internasjonalt
-beskyttet person), § 192 (anslag mot infrastrukturen), § 193 (forbund om anslag mot
-infrastrukturen), § 194 (forstyrrelse av den
-sikre drift av jernbane og buss), § 223 (grov
-uriktig anklage), § 238 (allmennfarlig smittespredning), § 239 (allmennfarlig forgiftning),
-
-§ 240 (alvorlig miljøkriminalitet), § 253
-(tvangsekteskap), § 253 a (barneekteskap),
-§ 255 (grov frihetsberøvelse), § 256 (forbund
-om grov frihetsberøvelse), § 258 (grov menneskehandel),
-§ 259
-(slaveri),
-§ 261
-(omsorgsunndragelse), § 269 (skadelige utenlandsopphold), § 274 (grov kroppsskade),
-§ 275 (drap), § 279 (forbund om drap eller å
-volde betydelig skade på kropp og helse),
-§ 282 (mishandling i nære relasjoner), § 283
-(grov mishandling i nære relasjoner), § 284
-(kjønnslemlestelse), § 288 (hensettelse i hjelpeløs tilstand mv.), § 291 (voldtekt), § 295
-(misbruk av overmaktsforhold og lignende),
-§ 299 (voldtekt av barn under 14 år), § 303
-(grov seksuell omgang mv. med barn mellom
-14 og 16 år), § 312 (incest), § 314 (seksuell
-omgang mellom andre nærstående), § 327
-(ran), § 329 (forbund om ran), § 355 (fremkalling av fare for allmennheten) og § 357 (forbund om fremkalling av fare for allmennheten),
-Ny § 253 a skal lyde:
-§ 253 a Barneekteskap
-Den som inngår ekteskap med noen under 18
-år, straffes med fengsel inntil 6 år. På samme måte
-straffes den som etablerer en ekteskapslignende
-forbindelse som nevnt i § 253 med noen som er
-under 18 år. På samme måte straffes den som
-lever i et ekteskap eller en ekteskapslignende forbindelse med noen som er under 18 år.
-Den som tillater at et barn han eller hun har
-foreldreansvar for, inngår eller lever i et ekteskap
-eller en ekteskapslignende forbindelse, straffes
-med fengsel inntil 6 år.
-Den som forestår inngåelse av et ekteskap
-eller en ekteskapslignende forbindelse hvor en av
-eller begge partene er under 18 år, straffes med
-fengsel inntil 3 år.
-Den som var uvitende om at fornærmede var
-under 18 år, kan likevel straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet.
-
-[Side 488]
-
-486
-
-Kapittel 40
-
-NOU 2024: 13
-Lov og frihet
-
-Handlingene etter første og andre ledd er ikke
-straffbare dersom de involverte er omtrent jevnbyrdige i alder og utvikling og omstendighetene
-tilsier at handlingene ikke er krenkende.
-§ 257 første ledd skal lyde:
-Den som ved vold, trusler, misbruk av sårbar
-situasjon eller annen utilbørlig atferd tvinger,
-utnytter eller forleder en person til
-a. prostitusjon eller andre seksuelle ytelser,
-b. tvangsarbeid eller tvangstjenester, herunder
-tigging,
-c. krigstjeneste i fremmed land,
-d. å samtykke i fjerning av et av vedkommendes
-indre organer, eller
-e. tvangsekteskap eller barneekteskap
-straffes for menneskehandel med fengsel inntil 6 år.
-§ 261 første ledd tredje punktum skal lyde:
-Tilsvarende gjelder der det er fattet vedtak om
-omsorgsovertakelse, flytteforbud, utreiseforbud eller institusjonsplassering etter barnevernsloven
-§§ 5-1, § 4-3, § 5-12, § 6-2 eller § 6-6 eller der begjæring om slike tiltak er sendt barneverns- og
-helsenemnda etter barnevernsloven § 14-9, eller
-der det i en akuttsituasjon er iverksatt midlertidig
-vedtak etter barnevernsloven §§ 4-2, 4-4 og 4-5 eller er fattet akuttvedtak om utreiseforbud etter § 46.
-§ 262 andre ledd oppheves.
-§ 266 skal lyde:
-§ 266 Hensynsløs atferd
-Den som ved skremmende, kontrollerende,
-nedverdigende, plagsom eller annen hensynsløs
-atferd forfølger en person eller på annen måte
-krenker en annens psykiske integritet, straffes med
-bot eller fengsel inntil 2 år.
-Ny § 269 skal lyde:
-§ 269 Skadelige utenlandsopphold
-Med bøter eller fengsel inntil 3 år straffes den
-som sender eller tar med et barn som han eller
-hun har foreldreansvar for til utlandet til forhold
-a. som setter barnets liv eller helse i alvorlig fare,
-eller
-b. som medfører alvorlig fare for at barnet utsettes for handlinger som innebærer overtredelse av straffeloven §§ 251 (tvang), 253
-(tvangsekteskap), 253 a (barneekteskap), 254
-(frihetsberøvelse), 257 (menneskehandel),
-259 (slaveri), 263 (trusler), 266 (hensynsløs
-atferd), 271 (kroppskrenkelse), 273 (kropps-
-
-skade), 275 (drap), 282 (mishandling i nære
-relasjoner), 284 (kjønnslemlestelse), 288 (hensettelse i hjelpeløs tilstand mv.), 291 (voldtekt), 294 (grovt uaktsom voldtekt), 295 (misbruk av overmaktsforhold og lignende), 296
-(seksuell omgang med innsatte mv. i institusjon), 299 (voldtekt av barn under 14 år), 302
-(seksuell omgang med barn mellom 14 og 16
-år), 304 (seksuell handling med barn under 16
-år), 305 (seksuelt krenkende atferd mv. overfor barn under 16 år), 309 (kjøp av seksuelle
-tjenester fra mindreårige), 312 (incest), 313
-(søskenincest) eller 314 (seksuell omgang
-mellom andre nærstående).
-Den som etterlater et barn han eller hun har
-foreldreansvar for, i utlandet under forhold som
-nevnt i første ledd, straffes på samme måte.
-Den som lar et barn vedkommende har foreldreansvar for, bli sendt til, tatt med til eller etterlatt i utlandet under forhold som nevnt i første
-ledd, eller som unnlater å gripe inn mot et pågående utenlandsopphold som medfører slik fare for
-barnet, straffes på samme måte
-Straff etter første til tredje ledd kan falle bort
-for den som bidrar til at barnet returnerer til
-Norge.
-§ 282 skal lyde:
-§ 282 Mishandling i nære relasjoner
-Med fengsel inntil 6 år straffes den som ved
-alvorlige eller gjentatte trusler, tvang, frihetsberøvelse, vold eller andre fysiske eller psykiske krenkelser, mishandler
-a. sin ektefelle eller samboer,
-b. sin tidligere ektefelle eller samboer,
-c. sin slektning i rett nedstigende linje,
-d. sin slektning i rett oppstigende linje,
-e. sin bror eller søster,
-f. sin onkel eller tante,
-g. sin niese eller nevø
-h. sitt søskenbarn,
-i. sin ektefelles eller samboers slektning i rett oppstigende linje,
-j. sin ektefelles eller samboers slektning i rett nedstigende linje,
-k. sin tidligere ektefelles eller samboers slektning i
-rett nedstigende linje,
-l. ektefelle eller samboer til person som nevnt i bokstav c til k,
-m. noen i sin husstand, eller
-n. noen i sin omsorg.
-Når noen kjennes skyldig i en straffbar handling etter § 282 første ledd bokstav c, j eller k, skal
-retten vurdere om kontaktforbud etter § 57 skal
-idømmes.
-
-[Side 489]
-
-NOU 2024: 13
-Lov og frihet
-
-§ 283 bokstav b til ny bokstav e skal lyde:
-b. om den er utført på en særlig smertefull måte,
-eller har hatt til følge betydelig smerte,
-c. om den er begått mot en forsvarsløs person,
-d. om den er begått mot et barn under 18 år, eller
-e. om den er begått av flere i fellesskap.
-
-40.2 Straffeprosessloven
-I lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker gjøres følgende endringer:
-§ 107 a første ledd bokstav a skal lyde:
-a. om overtredelse av straffeloven §§ 168, 253,
-253 a, 257, 269, 282, 284, 291, 294, 295, 296,
-299, 302, 304, 312 og 314,
-§ 239 første ledd skal lyde:
-Tilrettelagt avhør skal benyttes ved avhør av
-vitner under 16 år i sak om overtredelse av straffeloven kapittel 26, §§ 253, 253 a, 269, 273, 275, 282
-eller 284.
-§ 239 tredje ledd skal lyde:
-Tilrettelagt avhør skal benyttes ved avhør av
-vitner med psykisk utviklingshemning eller annen
-funksjonsnedsettelse som medfører samme behov
-for tilrettelagt avhør i sak om overtredelse av straffeloven kapittel 26, §§ 253, 253 a, 269, 273, 275,
-282 eller 284.
-
-40.3 Barnevernsloven
-I lov 18. juni 2021 nr. 97 om barnevern gjøres følgende endringer:
-§ 1-2 fjerde ledd til sjuende ledd skal lyde:
-For barn som oppholder seg i Norge, men har
-sitt vanlige bosted i en annen stat, kan det treffes
-vedtak om hjelpetiltak etter kapittel 3, vedtak om
-akuttiltak etter kapittel 4 med unntak av akuttvedtak om utreiseforbud etter § 4-6, vedtak om frivillig
-opphold i barnevernsinstitusjon etter § 6-1, samt
-vedtak om plassering på institusjon etter § 6-6 når
-det er fare for menneskehandel.
-For barn som ikke har vanlig bosted i Norge og
-oppholder seg i en annen stat, kan det treffes vedtak
-om hjelpetiltak etter § 3-1 når foreldrene oppholder
-seg i Norge. Det er en forutsetning at barnet har
-hatt vanlig bosted i Norge tidligere. Dersom barnet
-befinner seg i en stat som er tilsluttet Haagkonvensjonen 1996, skal barnevernstjenesten samtidig vur-
-
-487
-
-Kapittel 40
-
-dere å igangsette en prosess med overføring av jurisdiksjon etter konvensjonens artikkel 8 og 9, se
-(påfølgende) ledd.
-For barn som ikke har vanlig bosted i Norge og
-oppholder seg i en annen stat som er medlem av
-Haagkonvensjonen 1996, kan norske myndigheter,
-dersom de anser seg for å være bedre egnet til å vurdere barnets beste i det aktuelle tilfellet, anmode om
-å få overført jurisdiksjon etter de vilkår som framgår av konvensjonens artikkel 9, jf. artikkel 8 nr. 2.
-Aksepteres anmodningen av staten der barnet har
-vanlig bosted, kan norske myndigheter treffe de
-beskyttelsestiltak som følger av tredje ledd.
-Lovens §§ 2-1 om barnevernstjenestens gjennomgang av bekymringsmeldinger og § 2-2 om barnevernstjenestens rett og plikt til å gjennomføre
-undersøkelser gjelder også når barnet oppholder seg
-i en annen stat, uavhengig av hvor barnet har sitt
-vanlige bosted.
-Gjeldende femte og sjette ledd blir til åttende og
-niende ledd.
-§ 2-2 nytt fjerde ledd skal lyde (alternativ I):
-Barnevernstjenesten skal foreta en risikovurdering før foreldre involveres i saken, herunder vurdere om det er behov for å gjøre unntak fra orienteringsplikten etter § 12-6 første ledd første punktum,
-jf. samme bestemmelse andre og tredje ledd.
-Nåværende fjerde til sjette ledd blir femte til
-syvende ledd.
-§ 2-2 nytt fjerde og femte ledd skal lyde (alternativ
-II):
-Viser vurderingen etter første ledd at barnet
-kan være utsatt for negativ sosial kontroll, æresmotivert vold eller står i fare for å bli utsatt for et
-skadelig utenlandsopphold som nevnt i § 5-12 bokstav a til c, skal barnevernstjenesten foreta en
-risikovurdering før foreldre involveres i saken.
-Barnevernstjenesten skal også vurdere om det er
-behov for å gjøre unntak fra orienteringsplikten
-etter § 12-6 første ledd første punktum, jf. samme
-bestemmelse andre og tredje ledd.
-Negativ sosial kontroll som nevnt i andre ledd
-er ulike former for press, oppsyn, trusler eller
-tvang som systematisk begrenser barnet i sin livsutfoldelse eller gjentatte ganger hindrer det i å
-treffe selvstendige valg om eget liv og framtid. I
-vurderingen av om et handlingsmønster utgjør
-negativ sosial kontroll, skal det tas hensyn til barnets alder og utvikling og prinsippet om barnets
-beste.
-
-[Side 490]
-
-488
-
-Kapittel 40
-
-NOU 2024: 13
-Lov og frihet
-
-Nåværende fjerde til sjette ledd blir sjette til
-åttende ledd.
-§ 3-1 nytt andre ledd skal lyde (flertallets forslag):
-Ved vurderingen av om barnet på grunn av sin
-omsorgssituasjon eller atferd har et særlig behov
-for hjelp, skal det legges vekt på om det er mangler ved den psykiske omsorgen barnet får, herunder om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket.
-Gjeldende andre ledd blir nytt tredje ledd.
-§ 3-1 nytt andre og tredje ledd kan lyde (mindretallets forslag):
-Ved vurderingen av om barnet på grunn av sin
-omsorgssituasjon eller atferd har et særlig behov
-for hjelp, skal det legges vekt på om det er mangler ved den psykiske omsorgen barnet får, eller
-om barnet er utsatt for negativ sosial kontroll, herunder om barnets rett til medbestemmelse og
-selvbestemmelse er alvorlig krenket.
-Negativ sosial kontroll som nevnt i andre ledd
-er ulike former for press, oppsyn, trusler eller
-tvang som systematisk begrenser noen i sin livsutfoldelse eller gjentatte ganger hindrer dem i å
-treffe selvstendige valg om eget liv og framtid. I
-vurderingen av om et handlingsmønster utgjør
-negativ sosial kontroll, skal det tas hensyn til barnets alder og utvikling og prinsippet om barnets
-beste.
-Gjeldende andre ledd blir nytt fjerde ledd.
-Ny § 4-6 skal lyde:
-§ 4-6 Akuttvedtak om utreiseforbud
-Barnevernstjenestens leder, lederens stedfortreder eller påtalemyndigheten kan treffe akuttvedtak om utreiseforbud dersom det er nærliggende fare for at barnet blir sendt eller tatt med ut
-av landet til forhold som nevnt i § 5-12 første ledd
-dersom vedtaket ikke treffes straks.
-Dersom det er behov for videre tiltak, skal barnevernstjenesten snarest følge opp akuttvedtaket
-med en begjæring om utreiseforbud til barneverns- og helsenemnda. Dersom slik begjæring
-ikke foreligger innen seks uker fra vedtakstidspunktet, faller akuttvedtaket bort.
-
-Overskriften til kapittel 5 skal lyde:
-Kapittel 5. Omsorgsovertakelse, fratakelse av
-foreldreansvar, adopsjon og utreiseforbud
-§ 5-1 første ledd bokstav a skal lyde (flertallets forslag):
-a. det er alvorlige mangler ved den fysiske eller
-psykiske omsorgen barnet får, herunder den
-personlige kontakt og trygghet sett hen til det
-barnet trenger etter sin alder og utvikling. Ved
-vurderingen skal det legges vekt på om barnets
-rett til medvirkning og selvbestemmelse er alvorlig krenket.
-§ 5-1 første ledd bokstav a skal lyde (mindretallets
-forslag):
-det er alvorlige mangler ved den fysiske eller psykiske omsorgen barnet får, herunder den personlige kontakt og trygghet sett hen til det
-barnet trenger etter sin alder og utvikling. Ved
-vurderingen skal det legges vekt på om barnet er
-utsatt for negativ sosial kontroll, herunder om
-barnets rett til medvirkning og selvbestemmelse
-er alvorlig krenket.
-§ 5-1 første ledd bokstav c skal lyde:
-c) barnet blir fysisk eller psykisk mishandlet eller
-utsatt for andre alvorlige overgrep i hjemmet
-§ 5-2 andre ledd skal lyde:
-Dersom vedtaket gjelder omsorgsovertakelse av
-et barn som befinner seg i et land som ikke er medlem av Haagkonvensjonen 1996, består vedtaket i
-seks måneder dersom barnevernstjenesten har varslet norsk utenrikstjeneste i vedkommende land.
-Nemndlederen kan forlenge fristen med seks nye
-måneder når særlige grunner tilsier det.
-Gjeldende andre ledd blir til tredje ledd.
-§ 5-6 andre punktum skal lyde:
-Det er videre ulovlig å ta med seg barnet ut av
-Norge uten samtykke fra barnevernstjenesten når
-vedtak etter §§ 4-6, 5-1, 5-12, 6-2 og 6-3 er truffet
-eller når begjæring om slike tiltak er sendt barneverns- og helsenemnda.
-Ny § 5-12 skal lyde:
-§ 5-12 Vedtak om utreiseforbud
-Barneverns- og helsenemnda kan treffe vedtak
-om at barnet ikke kan forlate Norge (utreiseforbud), dersom det er nærliggende fare for at barnet
-i utlandet vil bli utsatt for forhold som medfører
-
-[Side 491]
-
-NOU 2024: 13
-Lov og frihet
-
-alvorlig fare for liv eller helse, eller forhold som
-nevnt i § 5-1 bokstav a til d. Utreiseforbud kan
-også ilegges dersom det er nærliggende fare for at
-foreldre eller andre omsorgspersoner vil frata barnet muligheten til grunnleggende utdanning i
-utlandet.
-Vedtaket skal ikke ha lengre varighet enn det
-som er nødvendig for å hindre at barnet blir utsatt
-for forhold som nevnt i første ledd, og kan ikke ha
-lengre varighet enn seks måneder. Vedtaket kan
-innen utløpet av tidsperioden forlenges med inntil
-seks måneder om gangen hvis vilkårene fremdeles er oppfylt. Vedtaket faller bort senest når barnet fyller 18 år.
-For barn som ikke er norske statsborgere, vil
-et utreiseforbud opphøre dersom barnet har plikt
-til å forlate riket etter utlendingsloven.
-Barnevernstjenesten kan gi tillatelse til enkeltreiser selv om vedtak om utreiseforbud er truffet,
-dersom det er åpenbart at reisen ikke medfører
-fare for forhold som nevnt i første ledd.
-Ny § 8-7 skal lyde:
-§ 8-7 Oppfølging av barn og foreldre etter vedtak om
-utreiseforbud
-Etter at det er truffet vedtak om utreiseforbud
-etter § 5-12, skal barnevernstjenesten følge med
-på hvordan det går med barnet og foreldrene. Barnevernstjenesten skal vurdere om det er nødvendig å endre tiltaket, eller om det er nødvendig å
-iverksette ytterligere tiltak for barnet.
-Barnevernstjenesten skal kort tid etter at vedtak om utreiseforbud er truffet kontakte foreldrene og gi dem tilbud om veiledning og oppfølging. Dersom foreldrene ønsker det, skal barnevernstjenesten som en del av oppfølgingen formidle kontakt med øvrige hjelpeinstanser.
-§ 12-6 første ledd skal lyde:
-Partene har rett til å gjøre seg kjent med
-sakens dokumenter etter reglene i forvaltningsloven §§ 18 til 19. Partene har rett til å bli forelagt
-opplysninger, jf. forvaltningsloven § 17. Før parten
-gis innsyn i dokumenter eller opplysninger skal det
-vurderes om det foreligger omstendigheter som
-nevnt i andre og tredje ledd.
-§ 13-2 første ledd bokstav a skal lyde:
-a. når det er grunn til å tro at et barn blir eller vil
-bli mishandlet, utsatt for alvorlige mangler ved
-den fysiske eller psykiske omsorgen eller utsatt
-for annen alvorlig omsorgssvikt
-
-489
-
-Kapittel 40
-
-§13-2 første ledd ny bokstav f skal lyde:
-f. når det er grunn til å tro at et barn blir eller vil
-bli utsatt for utenlandsopphold som kan medføre alvorlig fare for liv eller helse, eller forhold som nevnt i bokstav a til c, eller fare for at
-foreldre eller andre omsorgspersoner vil frata
-barnet muligheten til grunnleggende utdanning i utlandet.
-§ 13-2 andre ledd skal lyde (flertallets forslag):
-I vurderingen av om det foreligger forhold som
-nevnt i første ledd bokstav a, skal det blant annet
-legges vekt på om barnets rett til medvirkning og
-selvbestemmelse er alvorlig krenket.
-Gjeldende andre ledd blir nytt fjerde ledd.
-§ 13-2 andre ledd skal lyde (mindretallets forslag):
-I vurderingen av om det foreligger forhold som
-nevnt i første ledd bokstav a, skal det blant annet
-legges vekt på om barnet er utsatt for negativ sosial
-kontroll, herunder om barnets rett til medvirkning
-og selvbestemmelse er alvorlig krenket.
-Gjeldende andre ledd blir nytt fjerde ledd.
-§ 13-2 nytt tredje ledd skal lyde (alternativ I):
-Melderen skal foreta en risikovurdering før
-foreldre informeres om melding som nevnt i første ledd, eventuelt overlate til barnevernstjenesten
-eller politiet å vurdere når og på hvilken måte foreldrene skal informeres.
-§ 13-2 nytt tredje ledd skal lyde (alternativ II):
-Melderen skal foreta en risikovurdering før
-foreldre informeres om melding som nevnt i første ledd, eventuelt overlate til barnevernstjenesten
-eller politiet å vurdere når og på hvilken måte foreldrene skal informeres, særlig dersom det er
-grunn til å tro at barnet er utsatt for eller risikerer
-å bli utsatt for negativ sosial kontroll, æresmotivert vold eller skadelig utenlandsopphold.
-§ 13-4 første ledd skal lyde:
-De organene som er ansvarlige for gjennomføringen av bestemmelser i denne loven, kan gi
-pålegg til offentlige myndigheter om å gi taushetsbelagte opplysninger når det er nødvendig for å
-vurdere, forberede og behandle saker om
-a. vedtak om medisinsk undersøkelse og
-behandling, jf. § 3-7
-b. vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. § 3-8
-c. akuttvedtak om omsorgsovertakelse, jf. § 4-2
-
-[Side 492]
-
-490
-
-Kapittel 40
-
-NOU 2024: 13
-Lov og frihet
-
-d. vedtak om midlertidig flytteforbud, jf. § 4-3
-e. akuttvedtak om plassering i barnevernsinstitusjon, jf. § 4-4
-f. akuttvedtak om plassering av barn i institusjon
-når det er fare for menneskehandel, jf. § 4-5
-g. akuttvedtak om utreiseforbud, jf. § 4-6
-h. vedtak om omsorgsovertakelse, jf. § 5-1
-i. oppheving av vedtak om omsorgsovertakelse, jf.
-§ 5-7
-j. vedtak om fratakelse av foreldreansvar, jf. § 5-8
-k. vedtak om oppheving av vedtak om fratakelse av
-foreldreansvar, jf. § 5-9
-l. vedtak om adopsjon, jf. § 5-10
-m. vedtak om utreiseforbud, jf. § 5-12
-n. vedtak om plassering i barnevernsinstitusjon
-uten samtykke, jf. § 6-2
-o. vedtak om plassering i institusjon ved fare for
-menneskehandel, jf. § 6-6
-p. vedtak om samvær, jf. §§ 7-2 og 7-3
-§ 13-5 tredje ledd skal lyde:
-Barnevernstjenesten skal varsle politiet uten
-ugrunnet opphold om vedtak etter § 4-6 og § 5-12
-første ledd, og når vedtak etter disse bestemmelsene
-faller bort. Dersom barnet er utenlandsk statsborger,
-skal varsel også sendes til utlendingsmyndighetene.
-Barnevernstjenesten og nemnda skal anmode om at
-vedtaket registreres i Schengen informasjonssystem
-(SIS) dersom vedtaket er begrunnet i forhold som
-nevnt i forordning (EU) 2018/1862 artikkel 32 nr.
-1 bokstav c eller d, jf. SIS-loven § 8.
-Gjeldende tredje ledd blir til fjerde ledd.
-§ 13-5 sjette og sjuende ledd skal lyde:
-Dersom et barn som oppholder seg i en annen
-stat er i alvorlig fare, og barnevernstjenesten har
-truffet eller har vurdert å treffe vedtak om tiltak for
-barnet, skal de kompetente myndighetene i barnets
-oppholdsstat varsles om den aktuelle faren og om de
-tiltak som er vurdert, dersom det er forsvarlig og til
-barnets beste, jf. Haagkonvensjonen 1996 artikkel
-36 og 37.
-Dersom et barn oppholder seg i Norge, men har
-vanlig bosted i en annen stat, og barnevernstjenesten har truffet eller har vurdert å treffe vedtak
-om tiltak for barnet, skal de kompetente myndighetene i barnets bostedsstat varsles med anmodning
-om å følge opp barnet dersom det er behov for langvarige tiltak.
-
-Gjeldende femte og sjette ledd blir nye åttende og
-niende ledd.
-§ 14-22 første ledd skal lyde:
-Akuttvedtak etter §§ 4-2, 4-4 og 4-5 og vedtak
-om midlertidig flytteforbud etter § 4-3 skal straks
-etter iverksettingen sendes til nemnda. Akuttvedtak om utreiseforbud etter § 4-6 skal straks etter
-vedtakelse sendes til nemnda. Nemndlederen vurderer om vedtaket skal godkjennes. Nemndlederen skal avgjøre saken snarest, og om mulig innen
-48 timer etter at nemnda har mottatt den.
-§ 14-23 første ledd første punktum skal lyde:
-De private partene kan påklage akuttvedtak etter
-§ 4-2 første og annet ledd, § 4-4, § 4-5 og § 4-6 og
-vedtak om midlertidig flytteforbud etter § 4-3.
-§ 15-3 tredje ledd skal lyde:
-Barnevernstjenesten skal blant annet
-a. gjennomgå og vurdere bekymringsmeldinger
-b. gjennomføre undersøkelser av barnets
-omsorgssituasjon
-c. treffe vedtak om hjelpetiltak og unntak fra
-utreiseforbud
-d. forberede saker for behandling i barnevernsog helsenemnda
-e. iverksette og følge opp tiltak.
-§ 15-5 første ledd første punktum skal lyde:
-Kommunen der barnet oppholder seg, har ansvaret for å reise sak for barneverns- og helsenemnda
-etter §§ 3-7, 3-8, 5-1, 5-12, 6-2 og 6-6.
-
-40.4 Utlendingsloven
-I lov 15. mai 2008 nr. 35 om utlendingers adgang
-til riket og deres opphold her gjøres følgende
-endringer:
-§ 51 andre ledd skal lyde:
-Oppholdstillatelse etter bestemmelsene i
-kapittelet her kan nektes dersom:
-a. referansepersonen etter forespørsel ikke samtykker i at søkeren gis tillatelse,
-b. det er sannsynlig at ekteskapet eller en ekteskapslignende forbindelse er inngått mot en av
-partenes vilje.
-§ 53 første ledd bokstav b skal lyde:
-b. samlivet er opphørt, og det er grunn til å anta
-at utlendingen eller eventuelle barn har blitt
-fysisk eller psykisk mishandlet i samlivsforhol-
-
-[Side 493]
-
-NOU 2024: 13
-Lov og frihet
-
-det eller av andre medlemmer av samme husstand, eller av svigerfamilie.
-§ 53 tredje ledd skal lyde:
-En utlending som har oppholdstillatelse etter
-§§ 42, 43 eller 49 skal etter søknad gis oppholdstillatelse på selvstendig grunnlag når:
-a. familielivet opphører og det er grunn til å tro at
-utlendingen, dennes søsken eller foreldre har
-blitt fysisk eller psykisk mishandlet i familien
-eller av andre medlemmer av samme husstand,
-eller ikke blir beskyttet av familien mot slik mishandling. Det skal ikke stilles krav om at utlendingens livskvalitet har blitt redusert,
-b. barnevernstjenesten har truffet vedtak om
-omsorgsovertakelse for utlendingen etter barnevernsloven § 5-1, eller
-c. barnet er ufrivillig holdt tilbake i utlandet uten
-en forelder med foreldreansvar og barnets foreldre oppholder seg i Norge med en oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse.
-Tredje ledd blir til fjerde ledd.
-§ 53 nytt femte ledd skal lyde:
-Kongen kan fastsette nærmere bestemmelser i
-forskrift om kravet til mishandling.
-§ 53 nytt fjerde ledd skal lyde (mindretallets forslag):
-I vurderingen av om en utlending har blitt
-fysisk eller psykisk mishandlet som nevnt i første
-ledd bokstav b eller tredje ledd bokstav a, skal det
-legges vekt på om utlendingen er utsatt for negativ sosial kontroll. Med negativ sosial kontroll forstås press, oppsyn, trusler eller tvang som systematisk begrenser utlendingen i sin livsutfoldelse
-eller gjentatte ganger hindrer vedkommende i å
-treffe selvstendige valg om eget liv og fremtid.
-Tredje ledd blir til femte ledd.
-§ 53 nytt sjette ledd skal lyde:
-Kongen kan fastsette nærmere bestemmelser i
-forskrift om kravet til mishandling.
-§ 62 syvende ledd skal lyde:
-Tillatelsen faller bort når innehaveren har oppholdt seg utenfor riket sammenhengende i mer
-enn to år. Oppholdet utenfor riket anses å være
-sammenhengende selv om utlendingen har hatt
-ett eller flere opphold av en viss varighet i riket, jf.
-åttende ledd. Det skal ses bort fra opphold utenfor
-riket dersom innehaveren har reist til et annet land
-
-491
-
-Kapittel 40
-
-og blir holdt tilbake mot sin vilje av en nær relasjon.
-Vedtak om bortfall treffes av Utlendingsdirektoratet. En utlending kan etter søknad gis adgang til å
-oppholde seg utenfor riket i mer enn to år uten at
-tillatelsen faller bort.
-§ 120 sjette ledd skal lyde:
-Oppholdskort kan nektes utstedt etter bestemmelsene i §§ 118 og 119 dersom:
-a. referansepersonen, jf. § 39, på forespørsel ikke
-samtykker i at søkeren gis opphold,
-b. det er sannsynlig at ekteskapet eller en ekteskapslignende forbindelse er inngått mot en av
-partenes vilje, eller
-c. det er sannsynlig at ekteskapet er inngått med
-det hovedformål å skaffe søkeren lovlig opphold
-innenfor EØS-området.
-
-40.5 Passloven
-I lov 19. juni 1997 nr. 82 om pass gjøres følgende
-endringer:
-§ 4 tredje ledd skal lyde:
-Pass kan i særlige tilfeller utstedes til person
-som nevnt i første og annet ledd uten samtykke
-dersom det er fare for personens liv eller helse,
-eller det av andre grunner er åpenbart ubetenkelig. Norsk utenriksstasjon som er bemyndiget til å
-utstede pass skal straks underrette kommunens barnevernstjeneste om vedtak om utstedelse av pass til
-mindreårige uten samtykke når passutstedelsen er
-begrunnet i fare for barnets liv eller helse.
-
-§ 5 første ledd bokstav b skal lyde:
-b. når utreiseforbud følger av tvisteloven § 33-11,
-konkursloven § 102 eller barnevernsloven §§ 46 eller 5-12;
-§ 5 femte ledd skal lyde:
-Personer som omfattes av passhindringer
-etter annet og tredje ledd kan i særlige tilfeller få
-utstedt pass med begrenset gyldighetsområde og
-begrenset gyldighetstid. Det samme gjelder for
-mindreårige som det er truffet utreiseforbud for etter
-barnevernsloven §§ 4-6 eller 5-12.
-§ 12 andre ledd skal lyde:
-Kongen kan gi forskrift om gjennomføring av
-denne loven, herunder om
-a. passets form og innhold
-b. hvem som kan få utlevert opplysninger fra
-passregisteret
-c. overgangsbestemmelser
-
-[Side 494]
-
-492
-
-Kapittel 40
-
-NOU 2024: 13
-Lov og frihet
-
-d. momenter som kan vektlegges i vurderingen av
-om pass skal utstedes uten samtykke fra den eller
-de som har foreldreansvar, jf. § 4 tredje ledd
-
-40.6 ID-kortloven
-I lov 5. juni 2015 nr. 39 om nasjonalt identitetskort
-gjøres følgende endring:
-§ 5 første ledd bokstav b skal lyde:
-b. når utreiseforbud følger av tvisteloven § 3311, konkursloven § 102 eller barnevernsloven
-§§ 4- 6 eller 5-12;
-
-40.7 Barnelova
-I lov 8. april 1981 nr. 7 om barn og foreldre gjøres
-følgende endring:
-§ 30 tredje ledd tredje punktum skal lyde (flertallets forslag):
-Bruk av vald og skremmande, kontrollerande, nedverdigande eller plagsam framferd eller annan omsynslaus åtferd overfor barnet er forbode.
-§ 30 tredje ledd tredje og fjerde punktum skal lyde
-(mindretallets forslag):
-Bruk av vald og skremmande, kontrollerande, nedverdigande eller plagsam framferd eller annan omsynslaus åtferd overfor barnet er forbode. Barn
-skal ikkje utsetjast for negativ sosial kontroll.
-
-40.8 Skadeserstatningsloven
-I lov 13. juni 1969 nr. 26 om skadeserstatning gjøres følgende endring:
-§ 3-3 skal lyde:
-§ 3-3 (erstatning for visse personlige krenkelser
-m.m.)
-Bestemmelsene i §§ 3-1, 3-2 og 3-2 a gjelder tilsvarende ved erstatning for krenking eller mislig
-atferd som nevnt i straffeloven §§ 222, 251, 253,
-253 a, 254, 257, 259, 262, 263, 266, 267 a, 268 første ledd, 269, 271, 282, 291, 294, 295, 296, 299, 302,
-304, 312, 313, 314, 327 eller 330.
-
-40.9 Rettshjelploven
-I lov 13. juni 1980 nr. 35 om fri rettshjelp gjøres følgende endring:
-§ 11 første ledd nr. 7 skal lyde:
-7. til den som er utsatt for tvangsekteskap eller
-barneekteskap eller forsøk på sådan som nevnt
-i straffeloven §§ 253 og 253 a, jf. straffeloven
-§ 16, men hvor saken ikke er anmeldt og den
-nødvendige bistand er av samme art som
-nevnt i straffeprosessloven § 107 c eller annen
-relevant bistand.
-§ 11 første ledd ny nr. 9 til 11 skal lyde:
-9. til personer over 18 år som er holdt tilbake i
-utlandet mot sin vilje av personkretsen omfattet
-av straffeloven § 282 (mishandling i nære relasjoner) og bistanden er relevant for den utsattes
-retur til Norge.
-10. til den som er utsatt for forhold som nevnt i straffeloven § 269 (skadelig utenlandsopphold) og
-bistanden er relevant for den utsattes retur til
-Norge.
-11. til barn over 12 år som er i utlandet, eller som
-risikerer flytting til utlandet, mot sin vilje og i
-strid med barnelova § 40 tredje ledd og § 41
-femte ledd.
-
-40.10 Ekteskapsloven
-I lov 4. juli 1991 nr. 47 om ekteskap gjøres følgende endringer:
-§ 16 fjerde ledd skal lyde:
-Adgangen til å reise søksmål bortfaller hvis
-sak ikke er reist innen ett år etter at ektefellen er
-blitt fri for tvangen. Søksmål kan ikke i noe tilfelle
-reises senere enn ti år etter ekteskapets inngåelse.
-
-40.11 Integreringsloven
-I lov 6. november 2020 nr. 127 om integrering
-gjennom opplæring, utdanning og arbeid gjøres
-følgende endringer:
-§ 8 nytt tredje ledd skal lyde:
-I særlige tilfeller kan retten og plikten til å delta
-i introduksjonsprogrammet inntre fra det tidspunktet krav om program settes fram. Departementet
-kan gi forskrift om hva som skal anses som særlige
-
-[Side 495]
-
-NOU 2024: 13
-Lov og frihet
-
-tilfeller og om unntak fra kravene i første ledd og fra
-§ 3 tredje ledd i slike tilfeller.
-§ 9 første ledd bokstav g og h skal lyde:
-g. fornybar oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b, andre, tredje
-eller fjerde ledd
-h. fornybar oppholdstillatelse etter utlendingsloven
-§ 38 for utlendinger som har blitt holdt tilbake i
-utlandet mot sin vilje.
-
-40.12 Forskriftsendringer
-40.12.1 Utlendingsforskriften
-I forskrift 15. oktober 2009 nr. 1286 om utlendingers adgang til riket og deres opphold her gjøres
-følgende endringer:
-§ 12-9 andre ledd nytt tredje punktum skal lyde:
-Kommunens barnevernstjeneste skal underrettes
-straks om vedtak om utstedelse av passérbrev for
-innreise i riket til barn under 18 år uten samtykke
-fra den eller de som har foreldreansvar, når vedtaket er begrunnet i fare for barnets liv eller helse.
-Ny § 12-12 a skal lyde:
-§ 12-12 a Underretningsplikt til barnevernstjenesten
-Utlendingsmyndighetene skal straks underrette
-kommunens barnevernstjeneste om vedtak om å
-nekte eller inndra reisebevis for flyktninger eller
-
-493
-
-Kapittel 40
-
-utlendingspass, dersom vedtaket er begrunnet i forhold som nevnt i passloven § 5 tredje ledd bokstav g,
-jf. forskriften § 17-6.
-Utlendingsmyndighetene skal straks underrette
-kommunens barnevernstjeneste om vedtak om ny
-oppholdstillatelse etter utlendingsforskriften § 8-9.
-§ 17-7 d andre ledd innledningen skal lyde:
-Barnevernsmyndighetene skal etter anmodning fra Utlendingsdirektoratet, Utlendingsnemnda eller politiet gi nødvendige opplysninger om
-hjelpetiltak, akuttiltak, omsorgsovertakelse, utreiseforbud, fratakelse av foreldreansvar, adopsjon og
-samvær etter barnevernsloven som berører søkeren, søkerens familiemedlemmer eller andre personer i søkerens husstand i sak om
-
-40.13 Opplæringsforskriften
-I forskrift 23. juni 2006 nr. 724 (forskrift til opplæringslova) gjøres følgende endringer:
-§ 6-8 syvende ledd først punktum skal lyde:
-Fylkeskommunen har plikt til å ha inntak til
-vidaregåande opplæring (Vg1, Vg2 og Vg3) etter
-utløpet av søknadsfristar av ungdom som blir plassert i fosterheim eller barnevernsinstitusjonar
-med heimel i barnevernloven og av ungdom som
-returnerer til Noreg etter å ha blitt holdt tilbake i
-utlandet mot sin vilje.
-
-[Side 496]
-
-494
-
-Referanseliste
-
-NOU 2024: 13
-Lov og frihet
-
-Referanseliste
-Litteratur
-Aall, J. (2022). Rettsstat og menneskerettigheter 1 –
-En innføring i vernet om individets sivile og politiske rettigheter. Fagbokforlaget.
-Aarset, M. F., Gotehus, A. og Tveito, S. B. (2020).
-Ekteskap i nær slekt. En kunnskapsgjennomgang (Rapport 4/2020). Norsk institutt for
-forskning om oppvekst, velferd og aldring
-(NOVA). https://hdl.handle.net/20.500.12199/
-3002
-Aas, G. og Andersen, T. (2017). Mishandlingsbestemmelsen: En evaluering av loven mot mishandling i nære relasjoner jf. Strl. § 219
-(§ 282/283).
-Politihøgskolen.
-http://
-hdl.handle.net/11250/2427624
-Aasen, H. S. (2008). Barns rett til selvbestemmelse og medbestemmelse i beslutninger om
-helsehjelp. Tidsskrift for familierett, arverett og
-barnevernrettslige spørsmål, 6(1), 3-26. https://
-doi.org/10.18261/ISSN0809-9553-2008-01-02
-APSAC. (2019). The Investigation and Determination of Suspected Psychological Maltreatment in
-Children and Adolescents. The American Professional Society on the Abuse of Children.
-https://apsac.org/wp-content/uploads/2023/
-05/APSAC-Guidelines-Psychological-Maltreatment-updated-2020-06-24.pdf
-Augusti, E.-M. og Hafstad, G. S. (2020). Sammenhenger mellom opplevd kontroll fra foreldre
-og vold mot barn og ungdom. I A. Bredal, H.
-Eggebø og A. M. A. Eriksen (Red.), Vold i
-nære relasjoner i et mangfoldig Norge (s. 145166). Cappelen Damm Akademisk. https://
-doi.org/10.23865/noasp.99.ch8.
-Backer, I. L. (2008). Kommentarutgave til barnelova (2. utg.). Universitetsforlaget.
-Backer, I. L. (2009). Juridika lovkommentar: Barnelova §§ 40 og 41. Juridika. Ajourført 1. januar 2009.
-Backe-Hansen, E., Madsen, C., Kristofersen, L. B.
-og Hvinden, B. (Red.) (2024). Barnevern i
-Norge 1990–2010: En longitudinell studie (Rapport 9/2014). Norsk institutt for forskning om
-
-oppvekst, velferd og aldring (NOVA). https://
-hdl.handle.net/20.500.12199/5074
-Bakketeig, E. og Dullum, J. (2019). Forced Marriage Protection orders. Et egnet beskyttelsestiltak
-i norsk rett? (Notat 5/2019). Norsk institutt for
-forskning om oppvekst, velferd og aldring
-(NOVA). https://hdl.handle.net/20.500.12199/
-2885
-Barneverns- og helsenemnda. (2023, 15. november). Kriterier for å bli oppnevnt som fagkyndig
-medlem. https://www.bvhn.no/kriterier-for-aabli-oppnevnt-som-fagkyndig-medlem.6485270573585.html.
-Bendiksen, L. L. R. (2008). Barn i langvarige fosterhjemsplasseringer – foreldreansvar og adopsjon. Fagbokforlaget.
-Bendiksen, L. L. R. og Haugli, T. (2023). Sentrale
-emner i barneretten (5. utg.). Universitetsforlaget.
-Besson, S. og Kleber, E. (2019). Article 2: The
-Right to Non-Discrimination. I J. Tobin (Red.),
-The UN Convention on the Rights of the Child. A
-Commentary (s. 41-72). Oxford Commentaries
-on International Law.
-Bokmålsordboka. (2024). Ære. Språkrådet og Universitetet i Bergen. Hentet 02. april 2024 fra:
-https://ordbokene.no/bm/%C3%A6re
-Bredal, A. (2006). «Vi er jo en familie»: arrangerte
-ekteskap, autonomi og fellesskap blant unge
-norsk-asiater. Unipax.
-Bredal, A. (2011). Mellom makt og avmakt – Om
-unge menn, tvangsekteskap, vold og kontroll
-(Rapport 2011:4). Institutt for samfunnsforskning. http://hdl.handle.net/11250/177457
-Bredal, A. og Wærstad, T. L. (2014). Gift, men
-ugift: Om utenomrettslige religiøse vigsler (Rapport 2014:06). Institutt for samfunnsforskning.
-http://hdl.handle.net/11250/2599700
-Bredal, A, og Melby, E. R. (2018). Sårbarhet og
-Styrke. Barnevernets møte med minoritetsjenter
-utsatt for vold og sterk kontroll (Rapport 9/
-2018). Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA). https://
-hdl.handle.net/20.500.12199/5125
-
-[Side 497]
-
-NOU 2024: 13
-Lov og frihet
-
-Bredal, A. (2020). Minoritetsnorske og majoritetsnorske kvinners erfaring med partnervold.
-I A. Bredal, H. Eggebø og A. M. A Eriksen
-(Red.), Vold i nære relasjoner i et mangfoldig
-Norge (Kap. 3, s. 47-65). Cappelen Damm Akademisk.
-Bredal, A. (2022). Transnational Regimes of Family Violence: When Violence Against Women
-Crosses Borders. I H. Bows og B. Fileborn
-(Red.), Geographies of Gender-based Violence.
-A Multi-Disciplinary Perspective (s. 150-164).
-Bristol
-University
-Press.
-https://
-hdl.handle.net/11250/3088281
-Bouma, H., López, M. L, Knorth, E. og Grietens,
-H. (2016). Briefing on the Dutch Child Protection System. https://www.projecthestia.com/
-wp-content/uploads/2015/03/POLICY-BRIEFING-NL.pdf
-Chelaghma, A. (2022). Innvandrerkvinners rettssikkerhet: En rettsdogmatisk, rettssosiologisk
-og rettspolitisk studie av den rettslige og faktiske posisjonen til innvandrerkvinner på familieinnvandring med ektefelle, med hovedvekt
-på utlendingsloven § 40 (3), § 53 (1) b og § 62.
-Kvinnerettslig skriftserie nr. 111/2022. https://
-www.jus.uio.no/ior/forskning/omrader/kvinnerett/publikasjoner/skriftserien/111_chelaghma.html
-Christiansen, S. T. G. (2022, 24. oktober). Befolkningen i Norge. Folkehelseinstituttet. https://
-www.fhi.no/he/folkehelserapporten/samfunn/befolkningen/?term=#endringer-i-befolkningen
-Dale, M. T. G. (2023). Utsatthet for partnervold
-som voksen. I M. T. G. Dale, H. F. Aakvaag og
-I. F. Strøm, E-M. Augusti. og A. D. Skauge
-(Red.), Omfang av vold og overgrep i den norske
-befolkningen (Rapport nr. 1/2023). Nasjonalt
-kunnskapssenter om vold og traumatisk
-stress.
-DAMVAD. (2014). Utbredelse av kjønnslemlestelse i
-Norge. Registeranalyse. Nasjonalt kunnskapssenter om vold og traumatisk stress. https://
-www.nkvts.no/content/uploads/2015/08/utbredelse-av-kjonnslemlestelse-i-norge.pdf
-Danner. (2021). To år med strafbar psykisk vold –
-Erfaringer fra praktikerfeltet. https://danner.dk/sites/default/files/
-To%20a%CC%8Ar%20med%20strafbar%20psykisk%20vold.pdf
-Den internasjonale arbeidsorganisasjonen (ILO),
-Walk Free og den internasjonale organisasjonen for migrasjon (IOM). (2022). Global Estimates of Modern Slavery – Forced Labour and
-Forced Marriage.
-
-495
-
-Referanseliste
-
-Dokkedahl, S., Kok, R. N., Murphy, S., Kristensen,
-T. R., Bech-Hansen, D. og Elklit, A. (2019).
-The psychological subtype of intimate partner
-violence and its effect on mental health: protocol for a systematic review and meta-analysis. Systematic Reviews, 8(1), 198, https://
-doi.org/10.1186/s13643-019-1118-1
-Dokkedahl, S., Kristensen, T. R., Murphy, S., og
-Elklit, A. (2021). The complex trauma of
-psychological violence: cross-sectional findings from a Cohort of four Danish Women
-Shelters. European Journal of Psychotraumatology, 12(1), artikkel 1863580. https://doi.org/
-10.1080/20008198.2020.1863580
-Dzamrija, M. T. (2019, 5. mars). Slik definerer SSB
-innvandrere. Statistisk sentralbyrå (SSB).
-https://www.ssb.no/befolkning/innvandrere/
-artikler/slik-definerer-ssb-innvandrere
-Efjestad, J. S., Falch, M. R. og Riiber, T. C. (2023).
-Barnevernssaker i domstol og nemnd. Universitetsforlaget.
-Eggebø, H., Stubberud, E. og Karlstrøm, H.
-(2018). Levekår blant skeive med innvandrerbakgrunn i Norge (Rapport nr. 9/2018). Nordlandsforskning. https://www.nordlandsforskning.no/sites/default/files/files/
-NF_9_2018.pdf
-Eggebø, H., Karlstrøm, H. og Stubberud, E.
-(2020). Diskriminering og sosial ekskludering
-av skeive med innvandrerbakgrunn. Tidsskrift
-for kjønnsforskning, 44(2), 132-151. https://
-doi.org/10.18261/issn.1891-1781-2020-02-04
-Ekspertgruppa om unge som etterlates i utlandet
-mot sin vilje. (2020). «Det var ikke bare ferie».
-Rapport fra ekspertgruppe om unge som etterlates i utlandet mot sin vilje. Helse- og omsorgsdepartementet. https://www.nhri.no/wp-content/uploads/2020/06/Rapport-fra-ekspertgruppe-om-unge-som-etterlates-i-utlandet-motsin-vilje-Det-var-ikke-bare-ferie-2020.pdf
-Eldbjørg, S., Linge, T. E. og Rasmussen, M. C.
-(2017). Vergemålsloven og utlendingsloven kapittel 11 A med kommentarer. Gyldendal juridisk.
-Elgvin, O., Bue, K. og Grønningsæter, A. B.
-(2014). Åpne rom, lukkede rom: LHBT i etniske
-minoritetsgrupper
-(Fafo-rapport 2014:49).
-https://www.fafo.no/images/pub/2013/
-20326.pdf
-Elholm, T., Madsen, L. L., Rahbæk, H. og Røn, J.
-(2022). Kommenteret straffelov – Speciel del. Jurist- og Økonomiforbundets forlag.
-Eriksen, A. M. A. (2019). Vold, overgrep og helseplager blant samer i Norge. I K. Johansen, P.
-Tovmo, I. Aslaksen, S. Møllersen og T. Ras-
-
-[Side 498]
-
-496
-
-Referanseliste
-
-NOU 2024: 13
-Lov og frihet
-
-mussen (Red.), Samiske tall forteller 12. Kommentert samisk statistikk 2019 (Rapport 1/
-2019).
-Samisk
-høgskole.
-https://kudos.dfo.no/dokument/1850/samiske-tall-forteller-12-kommentert-samisk-statistikk-20192020
-Europarådet. (2023, 5. desember). Chart of signatures and ratifications of Treaty 210. https://
-www.coe.int/en/web/conventions/fulllist?module=signatures-by-treaty&treatynum=210
-Fangen, K. og Thun, C. (2007). Unge somaliske
-kvinner snakker om omskjæring. Sosiologi i
-dag, 37(3-4), 107-141. https://ojs.novus.no/index.php/SID/article/view/937
-Ferrari de Carli, E. (2008). Religion, juss og rettigheter: Om skilsmisse, polygami og shari’a-råd
-(Rapport 2008:8). Institutt for samfunnsforskning. http://hdl.handle.net/11250/177613
-FNs avdeling for økonomiske og sosiale spørsmål.
-(2014). Guidelines for producing statistics on
-violence against women – statistical surveys.
-UN DESA. Statistics Division of the United Nations. https://unstats.un.org/unsd/gender/
-docs/guidelines_statistics_vaw.pdf
-FNs barnefond. (2024). Female genital mutilation
-– A global concern: 2024 update. UNICEF
-https://data.unicef.org/resources/female-genital-mutilation-a-global-concern-2024/
-Foreningen mot psykisk vold. (2024). Historier.
-Hentet 25. mars 2024 fra https://horse-butterfly-7btj.squarespace.com/medlemshistorier
-Fossanger, S. F., Fjelldalen, S. og Mohn, S. B.
-(2024). Ofre for anmeldte lovbrudd (2017–
-2022) – Innvandrere oftere utsatt for vold og bedrageri. Statistisk sentralbyrå. https://
-www.ssb.no/sosiale-forhold-og-kriminalitet/
-kriminalitet-og-rettsvesen/artikler/innvandrere-som-ofre-for-anmeldte-lovbrudd
-Fosshagen, K. (2020). Ære. I Store norske leksikon. Hentet 25. mars 2024 fra https://snl.no/
-%C3%A6re
-Fredwall, K. K. (2021, 1. september). Karnov lovkommentar: Vergemålsloven til vergemålsloven
-§§ 9 og 17. Lovdata PRO. Ajourført 6. juni
-2023.
-Friberg, J. H. (2019). Konflikt, fellesskap og forandring. Foreldreskap og sosial kontroll i innvandrede familier fra Pakistan, Somalia og Sri
-Lanka. Cappelen Damm Akademisk. https://
-press.nordicopenaccess.no/index.php/noasp/
-catalog/book/75
-Friberg, J. H. og Bjørnset, M. (2019). Migrasjon,
-foreldreskap og sosial kontroll (Fafo-rapport
-
-2019:01). https://www.fafo.no/images/pub/
-2019/20698.pdf
-Friberg, J. H. og Sterri, E. B. (2023). Sosial kontroll og integrasjon Betydningen av foreldreinvolvering og foreldrerestriksjoner i ungdomstiden for integreringsutfall i overgangen til voksenlivet (Fafo-rapport 2023:14). https://
-www.fafo.no/images/pub/2023/20850.pdf
-Frøberg, T. (2010). Prinsippstyring av strafferettspolitikken. Kritisk juss, 36(1), 38-63.
-https://doi.org/10.18261/ISSN2387-45462010-01-05
-Frøberg, T. (2021). Jurisdiksjon over sammenhengende straffbare forhold. I P. E. Bergsjø, K.
-H. Kallerud, B.-E. R. Konow og A. Strandbakken (Red.), Med ære og samvittighet: Festskrift
-til Magnus Matningsdal 70 år (s. 85-94). Gyldendal.
-Gele, A. A., Kumar, B., Hjelde, K. og Sundby, J.
-(2012a). Attitudes towards female circumcision among Somali immigrants in Oslo: a qualitative study. International Journal of women’s
-Health, 4, 7-17. https://doi.org/10.2147/
-IJWH.S27577
-Gele, A. A., Johansen, E. B. og Sundby, J. (2012b).
-When female circumcision comes to the West:
-Attitudes toward the practice among Somali
-Immigrants in Oslo. BMC public health, 12, artikkel 697. https://doi.org/10.1186/1471-245812-697
-Gremmen, R. (2020). Achterlating en huwelijksdwang: juridische mogelijkheden. [etterlatelse
-og tvangsekteskap: lovlige muligheter].https:/
-/www.huiselijkgeweld.nl/publicaties/mediateksten/2020/09/25/achterlating-en-huwelijksdwang-juridische-mogelijkheden
-Gröning, L. og Jacobsen, J. (2021). Styrket lovskrav – bare i Høyesterett? Et kritisk perspektiv på utviklingen i straffelovgivningen. I P. E.
-Bergsjø, K. H. Kallerud, B.-E. R. Konow og A.
-Strandbakken (Red.), Med ære og samvittighet:
-Festskrift til Magnus Matningsdal 70 år (s. 118134). Gyldendal.
-Gröning, L. og Jacobsen, J. (2022, 11. juli). Karnov
-lovkommentar: Straffeloven 2005 § 283. Lovdata PRO. Ajourført 21. februar 2024.
-Gröning, L., Husabø, E. J. og Jacobsen, J. (2023).
-Frihet, forbrytelse og straff: En systematisk fremstilling av norsk strafferett (3. utg.). Fagbokforlaget.
-Göller, I. H. (2020). Begrepet negativ sosial kontroll
-i en juridisk kontekst. Universitetet i Agder.
-Hafstad, G. S og Augusti, E-M. (Red.). (2019).
-Ungdoms erfaringer med vold og overgrep i oppveksten. En nasjonal undersøkelse av ungdom i
+# Meldeplikt til barnevernstjenesten mv.
+
+## Innledning
+
+I dette kapittelet gjør utvalget rede for de overordnede reglene om taushetsplikt, opplysningsrett og opplysningsplikt, med særlig vekt på meldeplikten til barnevernstjenesten etter barnevernsloven § 13-2. Reglene om plikten til å avverge visse straffbare handlinger etter straffeloven § 196 er grundig behandlet i kapittel 35, mens forholdet mellom avvergingsplikten og meldeplikten til barnevernstjenesten blir omtalt nedenfor.
+
+I tråd med mandatets bokstav a vurderer utvalget videre om det er behov for regelverksendringer for å tydeliggjøre når negativ sosial kontroll utløser meldeplikt til barnevernstjenesten. Utvalget foreslår blant annet en tilføyelse i barnevernsloven § 13-2 for å synliggjøre at alvorlig omsorgssvikt (som utløser meldeplikten) kan være av psykisk karakter, og at alvorlige krenkelser av barns medvirknings- og selvbestemmelsesrett er momenter i vurderingen av om et barn er utsatt for alvorlig omsorgssvikt. Utvalget foreslår også en tilføyelse i bestemmelsen som tydeliggjør når en yrkesutøver plikter å melde fra til barnevernstjenesten dersom vedkommende har informasjon om at et barn er utsatt for ufrivillig eller skadelig utenlandsopphold, eller risikerer å bli utsatt for slikt opphold. Videre foreslår utvalget regelverksendringer for å sikre at foreldre ikke blir informert om at det er sendt en bekymringsmelding til barnevernstjenesten før melderen har gjort en vurdering av hva barnet kan bli utsatt for ved foreldreinvolvering.
+
+Saker om negativ sosial kontroll, tvangsekteskap, kjønnslemlestelse, psykisk vold og ufrivillige og skadelige utenlandsopphold er ofte komplekse, og involverer flere aktører. For at barnevernstjenesten skal kunne hjelpe barn og foreldre, er det en forutsetning at tjenesten blir kjent med situasjonen til barnet ved at det meldes bekymring. For at utenrikstjenesten skal kunne yte konsulær bistand til et barn i utlandet, kan den være avhengig av samarbeid og informasjon fra barnevernstjenesten i Norge. Også andre aktører som skole, skolehelsetjeneste, mangfoldsrådgivere mv. kan ha behov for informasjonsutveksling for å bistå et barn med behov for hjelp. Samtidig skal hensynet til både barnets og foreldrenes privatliv og familieliv ivaretas og respekteres, men ikke på bekostning av hensynet til å sikre barn nødvendig omsorg, beskyttelse og hjelp. Mandatet peker på at reglene om taushetsplikt ofte oppleves «som en hindring for samarbeid på tvers av ulike etater, uten at det alltid er klart om det er reglene eller manglende kunnskap om dem som er utfordringen». Tilsvarende problembeskrivelse framkommer i NOU 2019: 5 *Ny forvaltningslov*.[^1847] Ifølge opprinnelig mandat skulle utvalget derfor vurdere om det er behov for lovendringer som kan legge til rette for bedre samordning og mer effektivt samarbeid på tvers av etater og tjenester, samt om det er behov for å klargjøre forholdet mellom forvaltningslovens alminnelige regler om taushetsplikt og særlovgivningen. På grunn av mandatets store omfang, ble det revidert 1. desember 2022 slik at lovutvalget *kan* vurdere regelverk og problemstillinger knyttet til samarbeid, taushetsplikt og informasjonsutveksling så langt dette er mulig innenfor tidsrammen.
+
+Det er gjennomført en rekke arbeid og utredninger de senere årene som bidrar til kompetanseheving og klargjøring av reglene om taushetsplikt mv., blant annet Justis- og beredskapsdepartementets veileder *Taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen – en veileder*, som ble publisert 14. februar 2023.[^1848] Veilederen gir en samlet, men relativt kortfattet, oversikt over rettsreglene om taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen. Veilederen bygger på en utredning av professor Morten Holmboe.[^1849] Nasjonalt kunnskapssenter om vold og traumatisk stress (NKVTS) har også utarbeidet en veileder for helse- og omsorgstjenestens arbeid med vold i nære relasjoner, der relevante lover om taushetsplikt og varslingsplikt er samlet.[^1850] Relevant litteratur finnes også i blant annet Holmboe, Leer-Salvesen og Vatnars to artikler om avverging av mishandling i nære relasjoner.[^1851] Meldeplikt til barnevernstjenesten er også omtalt i Barne-, ungdoms- og familiedirektoratets (Bufdir) saksbehandlingsrundskriv.[^1852] Videre trådte ny barnevernslov i kraft 1. januar 2023, og selv om det ikke ble gjort vesentlige endringer i innholdet i reglene om taushetsplikt i denne loven, er det gjort enkelte strukturelle og språklige endringer, samt forenklinger som hadde til hensikt å gjøre regelverket mer tilgjengelig og enklere å anvende. Endringene hadde også til hensikt å tydeliggjøre adgangen barnevernstjenesten har til å *formidle* opplysninger uten hinder av taushetsplikten, som er viktig for å få til et samarbeid mellom barnevernstjenesten og andre offentlige instanser.
+
+I lys av dette, samt at det innenfor utvalgets tidsrammer ikke var mulig å svare ut mandatets opprinnelige bestilling, ble utvalgets mandat revidert og avgrenset.
+
+Utvalget ser en utfordring i saker om ufrivillig og skadelig utenlandsopphold, hvor det er behov for å sette arbeidet med å bistå barn og unge hjem til Norge i et mer helhetlig system. Dette blir omtalt i kapittel 38. I vurderingene som foretas i herværende kapittel, tar utvalget utgangspunkt i hvordan bistand til utsatte er organisert etter gjeldende ordninger.
+
+## Gjeldende rett
+
+### Taushetsplikt
+
+Taushetsplikten er en plikt til å hindre at uvedkommende får adgang eller kjennskap til visse opplysninger som er nærmere angitt i forvaltningsloven. Det er to hovedformer for taushetsplikt: Den forvaltningsmessige taushetsplikten og den profesjonsbestemte taushetsplikten.
+
+*Den forvaltningsmessige taushetsplikten* er en generell taushetsplikt som gjelder for alle som arbeider for et offentlig forvaltningsorgan. Hovedregelen framgår av forvaltningsloven § 13 og innebærer at enhver som «utfører tjeneste eller arbeid» for et forvaltningsorgan, har plikt til å hindre at andre får kjennskap til opplysninger om «noens personlige forhold». Forvaltningsloven inneholder ingen definisjon av uttrykket «personlige forhold», men forarbeidene nevner eksempler som slektskaps-, familie- og hjemforhold, fysisk og psykisk helse, karakter og følelsesliv.[^1853] Det vil si opplysninger som det er normalt å holde for seg selv.[^1854] Som personlige forhold regnes ikke fødested, fødselsdato og personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted, med mindre slike opplysninger røper et klientforhold eller andre forhold som må anses som personlige, jf. forvaltningsloven § 13 andre ledd. Reglene om taushetsplikt skal sikre at borgerne har tillit til at opplysninger om dem forvaltes forsvarlig og ikke spres mer enn nødvendig. Denne tilliten er nødvendig for at borgerne skal gi opplysninger til forvaltningen som er av betydning for saksbehandlingen, slik at saken er tilstrekkelig opplyst med et godt kunnskapsgrunnlag.[^1855]
+
+I tillegg til forvaltningslovens regler om taushetsplikt er det tatt inn egne regler om taushetsplikt i særlovgivningen. I barnevernsloven er det for eksempel egne regler om taushetsplikt i § 13-1 som gjelder i tillegg til forvaltningslovens taushetspliktsregler. For barnevernstjenesten er også opplysninger om fødested, fødselsdato med mer alltid omfattet av taushetsplikten jf. bestemmelsens andre ledd. Slike opplysninger kan røpe at man har en sak hos barnevernstjenesten, noe som klart er et personlig forhold, mens et klientforhold til for eksempel skatteetaten ikke er det.[^1856]
+
+*Den profesjonsbestemte taushetsplikten*, er en spesiell taushetsplikt og gjelder for visse yrkesutøvere, blant annet helsepersonell. Den profesjonsbestemte taushetsplikten følger gjerne av bestemmelser i særlovgivningen. Den kan gjelde i tillegg til den forvaltningsmessige taushetsplikten dersom vedkommende også arbeider i forvaltningen. For prester i Den norske kirke og prester og forstandere i registrerte trossamfunn er ikke taushetsplikten direkte lovregulert, men straffeloven § 211, straffeprosessloven § 119 og tvisteloven § 22-5 forutsetter og bygger på at det gjelder en taushetsplikt for disse.[^1857] Helsepersonell har en strengere taushetsplikt enn forvaltningen ellers, men er underlagt meldeplikten etter barnevernsloven og helsepersonelloven § 33, og en varslingsplikt til politi og brannvesen etter helsepersonelloven § 31. De har også en viss adgang til å dele informasjon etter helsepersonelloven § 23 nr. 4.
+
+Brudd på lovbestemt taushetsplikt er straffbart, jf. straffeloven § 209. Skyldkravet er forsett eller grov uaktsomhet. Medvirkning er ikke straffbart. Grov overtredelse kan straffes etter straffeloven § 210.[^1858]
+
+Det er en rekke unntak fra taushetsplikten som følger av forvaltningsloven § 13 a flg. og av særlovgivningen. Blant annet er det unntak fra taushetsplikt dersom den opplysningene direkte gjelder *samtykker* i at opplysningene deles. I tillegg inneholder lovgivningen regler som innebærer en *rett* (opplysningsrett) og *plikt* til å dele opplysninger (opplysningsplikt). Prester, forstandere og advokater har få unntaksregler fra reglene om taushetsplikt, men har på lik linje med andre en avvergingsplikt etter straffeloven § 196.
+
+### Opplysningsrett
+
+Taushetsplikten etter forvaltningsloven er ikke til hinder for at taushetsbelagte opplysninger brukes for å oppnå det formålet de er gitt eller innhentet for, jf. forvaltningsloven § 13 b første ledd nr. 2. Det innebærer blant annet at barnevernstjenesten uten hinder av taushetsplikt kan formidle opplysninger dersom dette er *nødvendig* for innhenting av opplysninger i forbindelse med gjennomføringen av en undersøkelse eller for å bidra til å ivareta barnets beste i en sak.
+
+Videre er taushetsplikten ikke til hinder for at et forvaltningsorgan gir andre forvaltningsorganer opplysninger om en persons forbindelse med organet og om avgjørelser som er truffet, og ellers slike opplysninger som det er nødvendig å gi for å fremme avgiverorganets oppgaver etter lov, instruks eller oppnevningsgrunnlag, jf. forvaltningsloven § 13 b første ledd nr. 5. Slik adgang framgår også noen ganger i særlovgivningen, for eksempel barnevernsloven § 13-1 tredje ledd. Etter bestemmelsen kan opplysninger gis til andre forvaltningsorganer når det er nødvendig for å ivareta oppgaver etter barnevernsloven. Barnevernstjenesten har som oppgave å sørge for at barn og unge som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp, omsorg og beskyttelse til rett tid, jf. barnevernsloven § 1-1.[^1859] Det innebærer også å bidra til at barnet får den oppfølgingen det trenger fra andre tjenester. Deling av opplysninger vil da ofte være nødvendig.[^1860] Et eksempel, som byr på utfordringer i praksis, er tilfeller der utenriksstasjonen arbeider med en sak hvor et barn er utsatt for ufrivillig eller skadelig utenlandsopphold.[^1861] I arbeidet med å vurdere om barnet skal hjelpes tilbake til Norge, kan utenrikstjenesten ha behov for opplysninger fra barnevernstjenesten. I den grad barnevernstjenesten har opplysninger, og deling av opplysningene er nødvendig for å ivareta barnevernstjenestens oppgaver, har den anledning til å dele. En henvendelse fra utenrikstjenesten kan nettopp gjøre at barnevernet må foreta seg noe for å sikre at barn som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp, omsorg og beskyttelse til rett tid, jf. barnevernsloven § 1-1. Et kompliserende moment vil være dersom barnets vanlige bosted har gått over til oppholdslandet og barnevernstjenesten ikke lenger har jurisdiksjon i saken, jf. barnevernsloven § 1-2 om lovens virkeområde. Barnevernstjenesten kan imidlertid ikke ta stilling til hvor barnet har sitt vanlig bosted uten å undersøke saken nærmere, og deling av opplysninger med for eksempel utenrikstjenesten kan være av betydning for å få fastslått dette.
+
+Taushetsplikten er heller ikke til hinder for at forvaltningsorganet anmelder eller gir opplysninger om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet, når det finnes ønskelig av allmenne hensyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver, jf. forvaltningsloven § 13 b første ledd nr. 6. Bestemmelsen gjelder imidlertid ikke for barnevernet, jf. barnevernsloven § 13-1 tredje ledd som gjør uttrykkelig unntak. Barnevernet kan bare gi opplysninger til politiet dersom det anses nødvendig for å ivareta oppgaver etter barnevernsloven, eller dersom det er nødvendig for å avverge straffbare handlinger i tråd med avvergingsplikten etter straffeloven § 196, eller for å unngå fare for liv eller helse.
+
+Et forvaltningsorgan kan dele opplysninger med andre så langt det er nødvendig for å unngå fare for liv eller helse, jf. forvaltningsloven § 13 b første ledd nr. 7. Fare for liv eller helse i bestemmelsens forstand kan ifølge forarbeidene oppstå i en rekke ulike situasjoner og skyldes mange ulike forhold, som straffbare handlinger, naturkatastrofer og andre ulykker. Bestemmelsen er imidlertid ment som en nokså snever unntaksregel, som bare skal åpne for deling i nødrettslignende tilfeller.[^1862] Det må kunne legges til grunn at både utenrikstjenesten og barnevernstjenesten med hjemmel i bestemmelsen kan dele opplysninger om et barn i utlandet som risikerer å bli utsatt for kjønnslemlestelse, vold eller tvangsekteskap (og ekteskapslignende forbindelser). Opplysningene kan ikke deles i større utstrekning enn det som er nødvendig for at faren for liv eller helse kan unngås.[^1863]
+
+### Opplysningsplikt
+
+I noen tilfeller vil et forvaltningsorgan ha en lovfestet plikt til å gi opplysninger som ellers er underlagt lovbestemt taushetsplikt. Forvaltningsorganet kan da ikke velge om opplysningene skal videreformidles eller ikke. Opplysningsplikten omfatter både en plikt til å gi opplysninger *på eget initiativ* og en plikt til å gi opplysninger *etter pålegg* fra andre.
+
+Opplysningsplikt etter pålegg følger for eksempel av barnevernsloven § 13-4 første til fjerde ledd. Bestemmelsen gir de organene som er ansvarlige for gjennomføringen av barnevernsloven rett til å pålegge andre offentlige myndigheter å dele taushetsbelagte opplysninger når dette er nødvendig for å vurdere, forberede og behandle konkret angitte saker etter loven. Slik opplysningsplikt finnes også i en rekke andre regelverk, for eksempel utlendingsloven § 84 om opplysningsplikt og unntak fra taushetsplikt for offentlige organer, jf. tilhørende utlendingsforskrift § 17-7 d flg. og straffegjennomføringsloven § 7 a om opplysningsplikt overfor kriminalomsorgen.
+
+Et viktig eksempel på plikten til å gi opplysninger på eget initiativ er meldeplikten som enhver som utfører tjeneste eller arbeid for et forvaltningsorgan har etter barnevernsloven § 13-2. Bestemmelsene omtales nærmere i et eget punkt nedenfor. Andre eksempler er barnevernstjenestens plikt til å gi opplysninger til andre etater og tjenester i konkret angitte situasjoner, jf. barnevernsloven § 13-5. Barnevernstjenesten skal blant annet sende melding til barnevernstjenesten i barnets nye oppholdskommune dersom tjenesten antar at det er behov for videre undersøkelser etter § 2-2 eller oppfølging utover frivillige hjelpetiltak etter § 3-1, jf. bestemmelsens første ledd.[^1864] Videre skal barnevernstjenesten uten hinder av taushetsplikten gi informasjon til politiet dersom det er truffet vedtak om skjult adresse for barnet, jf. barnevernsloven § 13-5 tredje ledd. Dersom et barn er bortført fra barnevernet og oppholder seg i en annen stat, skal barnevernstjenesten gi opplysninger til myndighetene i oppholdsstaten, dersom det er forsvarlig og til barnets beste, jf. bestemmelsens femte ledd.
+
+Dersom et barn er utsatt for alvorlig fare i utlandet, plikter barneverntjenesten i visse situasjoner å informere myndighetene i den andre staten om faren og de tiltakene som er truffet eller som vurderes. En slik plikt følger av Haagkonvensjonen 1996 artikkel 36,[^1865] og gjelder også i tilfeller der barnet oppholder seg i et land som ikke er tilsluttet konvensjonen.[^1866] Melding kan *unnlates* dersom opplysningene kan sette barnets person eller formue i fare, eller utgjør en alvorlig trussel mot friheten eller livet til et medlem av barnets familie, jf. Haagkonvensjonen artikkel 37. Opplysningene kan gis til andre uten hinder av taushetsplikten, jf. lov om Haagkonvensjonen 1996 § 3.
+
+### Avvergingsplikt
+
+I en del tilfeller pålegger lovgivningen en plikt for enhver til å handle uten hensyn til taushetsplikt for å avverge konkret angitte straffbare handling som staten anser som spesielt alvorlige, jf. straffeloven § 196.[^1867] Avvergingsplikten går da foran lovbestemt taushetsplikt. Plikten gjelder alle. Brudd på avvergingsplikten straffes med bot eller fengsel inntil 1 år. Avvergingsplikten innebærer at det i mange tilfeller ikke vil være nødvendig å tolke forvaltningslovens regler om unntak fra taushetsplikt. Der det framstår som sikkert eller mest sannsynlig at et barn står i fare for å bli utsatt for blant annet kjønnslemlestelse, barneekteskap, tvangsekteskap eller mishandling plikter enhver å søke å avverge faren gjennom anmeldelse eller på annen måte, for eksempel ved å melde bekymring til barnevernstjenesten dersom dette er tilstrekkelig. På den annen side må det antas at enkelte bestemmelser som gjør unntak fra taushetsplikten etter forvaltningsloven går lenger enn avvergingsplikten, for eksempel § 13 b første ledd nr. 7 om fare for liv og helse.
+
+### Meldeplikt til barnevernstjenesten
+
+Meldeplikt til barnevernstjenesten etter barnevernsloven § 13-2 er et viktig eksempel på unntak fra taushetsplikten. Meldeplikten går alltid foran taushetsplikten, og er viktig for at barnevernstjenesten skal bli orientert om barn som har behov for hjelp, for eksempel fordi de er utsatt for, eller risikerer å bli utsatt for, alvorlige former for negativ sosial kontroll, æresmotivert vold, tvangsekteskap, kjønnslemlestelse, psykisk vold, eller ufrivillig utenlandsopphold. Bestemmelsen lyder:[^1868]
+
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold i følgende tilfeller:
+
+a\. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssvikt
+
+b\. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling
+
+c\. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring
+
+d\. når et barn har vist alvorlige atferdsvansker ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved å ha vist annen form for utpreget normløs atferd
+
+e\. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+
+Også yrkesutøvere som opptrer i medhold av helsepersonelloven, psykisk helsevernloven, helse- og omsorgstjenesteloven, familievernkontorloven og privatskolelova plikter å gi opplysninger etter denne bestemmelsen. Det samme gjelder meklere i ekteskapssaker og private som utfører oppgaver for staten, fylkeskommuner eller kommuner, og de som utfører slike oppgaver på vegne av organisasjoner.
+
+Meldeplikten til barnevernstjenesten er både hjemlet i barnevernsloven § 13-2 og i særlovgivningen, blant annet i barnehageloven § 46, opplæringslova § 15-3 (videreføres i ny opplæringslov § 24-3, foreløpig ikke trådt i kraft), privatskolelova § 7-4, sosialtjenesteloven § 45, folketrygdloven § 25-11, integreringsloven § 49, helsepersonelloven § 33, familievernkontorloven § 10, ekteskapsloven § 26 a og krisesenterlova § 6. Bestemmelsene i særlovgivningen utvider ikke meldeplikten sammenlignet med barnevernsloven § 13-2, men flere av bestemmelsene gir i tillegg yrkesutøveren en plikt til å være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten. Plasseringen i særlovgivningen kan også gjøre det lettere for yrkesutøvere å bli kjent med plikten.
+
+Det er ingen sanksjoner for brudd på meldeplikten etter barnevernsloven. Brudd på meldeplikten etter enkelte av særlovene kan imidlertid sanksjoneres med straff etter spesielle straffebestemmelser, se blant annet helsepersonelloven § 67 som gjelder forsettlige eller grovt uaktsomme overtredelser av alle lovens bestemmelser. I tillegg kan brudd på meldeplikten i særlig alvorlige tilfeller utgjøre straffbar tjenestefeil etter straffeloven § 171. For øvrig kan et forhold være så alvorlig at det når opp til terskelen for avvergingsplikt etter straffeloven § 196, og føre til straff etter denne bestemmelsen. Avvergingsplikten kan etter omstendighetene oppfylles ved å melde til barnevernstjenesten.
+
+Hvem har meldeplikt til barnevernstjenesten?
+
+Meldeplikten gjelder for *enhver* som utfører arbeid eller tjeneste for et forvaltningsorgan, for eksempel helsepersonell, enkelte ansatte ved norsk utenriksstasjon,[^1869] ansatte i skoler og barnehage, politi og ansatte i NAV. At meldeplikten gjelder for «enhver» understreker at meldeplikten er en individuell plikt som påhviler den enkelte, og ikke bare forvaltningsorganet eller institusjonen vedkommende arbeider i eller for.[^1870] Meldeplikten omfatter ikke privatpersoner siden disse heller ikke er underlagt taushetsplikt. Privatpersoner står dermed fritt til å melde sin bekymring for et barn til barnevernstjenesten, uavhengig av grunnlag.[^1871] Barnevernsloven § 13-2 andre ledd presiserer at meldeplikten også omfatter flere personer som ikke er omfattet av definisjonen i første ledd, for eksempel yrkesutøvere som opptrer i medhold av helsepersonelloven, familievernkontorloven og privatskolelova. Både den enkelte ansatte i barnevernstjenesten og barnevernstjenesten som sådan er omfattet av den generelle meldeplikten etter barnevernsloven § 13-2.[^1872] Samtidig har den enkelte barnevernstjeneste et ansvar for å varsle barnevernstjenesten i andre kommuner som går lenger enn det som følger av den generelle meldeplikten.[^1873]
+
+I hvilke tilfeller oppstår meldeplikten?
+
+Barnevernsloven § 13-2 angir uttømmende i hvilke tilfeller meldeplikten oppstår. Det er ikke tilstrekkelig at melder er bekymret for et barn, eller mener at et barn kan ha behov for hjelpetiltak. Bekymringen må gjelde ett eller flere av de forholdene som er uttrykkelig nevnt i bokstavene a til e, som igjen knytter seg til vilkårene for å treffe tvangsvedtak etter barnevernsloven. De materielle vilkårene i bokstavene a til e er strenge og omfatter bare alvorlige forhold. På den annen side er kravet til kunnskap om forholdene barnet er utsatt for lavt, nemlig «grunn til å tro».
+
+Grunnen til at bekymringen må knytte seg til konkret angitte og alvorlige forhold, er at meldeplikten innebærer et inngrep i foreldres og barns privat- og familieliv etter Grunnloven § 102 og EMK artikkel 8. For å ivareta hensynet til å sikre barn nødvendig omsorg, beskyttelse og hjelp skal den allikevel gå foran retten til privatliv og personvern i de tilfellene som er nevnt i § 13-2. Meldeplikten skal ivareta både barnevernstjenestens umiddelbare behov for tilgang til opplysninger og andre hensyn som personlig integritet, personvern og tillit.[^1874] Prop. 64 L (2022–2023) formulerer dette slik:
+
+På den ene siden har barnevernstjenesten behov for opplysninger om barn i utsatte livs- og omsorgssituasjoner. På den annen side tilsier hensynet til familiens personvern at det bør være en viss terskel for å gi opplysninger uten samtykke fra dem opplysningene gjelder.
+
+\[…\]
+
+Det at barn ikke lever under optimale forhold er dermed ikke tilstrekkelig til å utløse meldeplikten.[^1875]
+
+Hvor sikker må melder være før det oppstår meldeplikt?
+
+Meldeplikten inntrer når det er «grunn til å tro» at et barn befinner seg i en situasjon som nevnt i barnevernsloven § 13-2 første ledd, og bestemmelsen presiserer at melding skal sendes «uten ugrunnet opphold». Det er ikke et krav om sannsynlighetsovervekt eller sikker viten om at barnet befinner seg i en slik situasjon, men det må foreligge en konkret, begrunnet bekymring for at dette er tilfellet. Den som melder, er i utgangspunktet ikke ment å gjøre ytterligere undersøkelser for å bekrefte eller avkrefte innholdet i bekymringen. Det er barnevernstjenesten som har ansvaret for å undersøke bekymringen nærmere og avklare om barnets omsorgssituasjon tilsier behov for barneverntiltak.[^1876]
+
+Det er den enkelte fagpersonens vurdering av hvordan barnets situasjon antas å være som er utgangspunktet for meldeplikten. Taushetsplikten er ikke brutt selv om det i ettertid viser seg at melderen har feiltolket situasjonen, og bekymringene var mindre alvorlig enn antatt:
+
+Dersom det i ettertid skulle vise seg at barnets situasjon er mindre alvorlig enn antatt eller at mistanken som førte til at bekymringsmelding ble sendt blir avkreftet, har den som ga opplysninger til barneverntjenesten dermed likevel ikke brutt sin taushetsplikt. Så lenge det på det tidspunkt opplysningene ble gitt var grunn til å tro at barnet ble mishandlet eller at det forelå andre former for alvorlig omsorgssvikt, har den som ga opplysningene til barneverntjenesten gjort det som var vedkommendes plikt.[^1877]
+
+Plikten til å gi opplysninger avhenger ikke av om det faktisk foreligger en situasjon som beskrevet i barnevernsloven § 13-2, men av om den som sitter med opplysningene har grunn til å tro at det foreligger en slik situasjon. Melderen kan dermed ikke straffes for brudd på taushetsplikten etter straffeloven § 209 dersom vedkommende etter en konkret vurdering har valgt å melde fra til barnevernstjenesten, selv om det i ettertid viser seg at det ikke var grunnlag for bekymringsmeldingen.[^1878] For at melderen skal kunne straffes for et brudd på taushetsplikten må bruddet være forsettlig eller grovt uaktsomt.[^1879]
+
+Det er ikke anledning til å sende rutinemessige bekymringsmeldinger basert på generelle kriterier som for eksempel høyt skolefravær eller at familien ikke har møtt til helsekontroll.[^1880] De materielle vilkårene for meldeplikten er begrenset til alvorlige forhold, mens beviskravet ikke er strengt. Er det uklart om vilkårene er oppfylt, har barnevernstjenesten veiledningsplikt, og forholdet kan drøftes anonymt for å avklare om det foreligger meldeplikt.
+
+Meldeplikt i saker om negativ sosial kontroll mv.
+
+Den mest sentrale bestemmelsen for utredningens temaer er meldeplikt etter § 13-2 *bokstav a*. Etter dette alternativet oppstår det meldeplikt når det er grunn til å tro at et barn «blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssvikt». Meldeplikten gjelder uavhengig av om det er barnets biologiske foreldre eller andre primære omsorgspersoner, herunder fosterforeldre, som mistenkes for å utsette barnet for alvorlig omsorgssvikt, mishandling eller overgrep. Meldeplikten inntrer også der de primære omsorgspersonene unnlater å beskytte barnet mot ulike former for alvorlig omsorgssvikt, mishandling eller overgrep.[^1881]
+
+Hva som utgjør alvorlig omsorgssvikt, er ikke definert i loven. I forarbeidene til barnevernsloven 1992 § 6-4, som ble videreført i ny barnevernslov § 13-2, uttales det at med «mishandling» menes «alvorlig fysisk eller psykisk krenkelse som har vart over tid».[^1882] Videre framgår det i forarbeidene at:
+
+Det \[er ikke\] mulig eller hensiktsmessig fullt ut å definere i lovteksten hva som kan sies å utgjøre ‘annen alvorlig omsorgssvikt’. Departementet legger imidlertid til grunn at begrepet blant annet omfatter seksuelle overgrep, kjønnslemlestelse, tvangsekteskap og menneskehandel.
+
+Det er presisert i bestemmelsen at meldeplikten gjelder i situasjoner der barn ‘blir eller vil bli’ utsatt for alvorlig omsorgssvikt. Dette innebærer en tydelig presisering av at meldeplikten ikke bare omfatter tilfeller der et barn er utsatt for alvorlig omsorgssvikt på vurderingstidspunktet, men også tilfeller der barnet kan havne i en slik situasjon. Presiseringen er primært ment å omfatte tilfeller der det er grunn til å tro at et barn kan bli utsatt for alvorlig omsorgssvikt i nær fremtid. Typiske eksempler på aktuelle tilfeller er ved bekymring eller mistanke om at et barn kan bli utsatt for kjønnslemlestelse eller tvangsgifte.[^1883]
+
+I forarbeidene til ny barnevernslov er det presisert at meldeplikten etter bokstav a «ut fra de konkrete omstendighetene også kan omfatte tilfeller der det er grunn til å tro at et barn blir eller vil bli utsatt for negativ sosial kontroll».[^1884] Presiseringen er ikke kommentert nærmere i proposisjonen, og det gis ingen definisjon av negativ sosial kontroll.
+
+Meldeplikten vil kunne inntre ved mistanke om ufrivillige utenlandsopphold i en del tilfeller. Forarbeidene nevner eksplisitt at det oppstår meldeplikt ved bekymring eller mistanke om at et barn kan bli utsatt for kjønnslemlestelse eller tvangsekteskap i utlandet.[^1885] Det er imidlertid ikke tvil om at meldeplikten også vil inntre dersom det er grunn til å tro at et barn vil bli utsatt for andre former for alvorlig omsorgssvikt i utlandet.
+
+Meldeplikten gjelder også dersom barnet allerede befinner seg i utlandet. Dette framgår ikke tydelig av lovgivningen, siden bestemmelsen om meldeplikt ikke er omfattet av barnevernsloven § 1-2 om lovens virkeområde, men følger forutsetningsvis. I og med at barnevernstjenesten har kompetanse til å treffe vedtak om omsorgsovertakelse for barn som oppholder seg i utlandet (forutsatt at barnet fortsatt har vanlig bosted i Norge), må den som kjenner til at et barn er utsatt for omsorgssvikt i et annet land også kunne melde fra om dette til barnevernstjenesten uten hinder av taushetsplikten, forutsatt at vilkårene for meldeplikt for øvrig er oppfylt.[^1886]
+
+### Forholdet mellom meldeplikten i barnevernsloven § 13-2 og avvergingsplikten i straffeloven § 196
+
+Flere av de situasjonene som utløser meldeplikten etter barnevernsloven, kan også utløse en avvergingsplikt etter straffeloven, men det er noen viktige forskjeller. Vurderingstemaet for meldeplikten er knyttet til barnets omsorgssituasjon. Vurderingstemaet for avvergingsplikten er knyttet til straffbare handlinger. Sannsynlighetsvurderingen er også ulik ved de to pliktbestemmelsene. Ved meldeplikt er det tilstrekkelig at melder har «grunn til å tro» at vilkårene er oppfylt. For avvergingsplikten må det være «sikkert» eller «mest sannsynlig» at lovbruddet er eller vil bli begått, det vil si alminnelig sannsynlighetsovervekt. I tillegg er meldeplikten til barnevernstjenesten begrenset til nærmere bestemte personer, mens avvergingsplikten gjelder for *enhver*, altså alle. Bekymringsmelding til barnevernstjenesten vil etter omstendighetene kunne være én av flere måter å oppfylle den alminnelige avvergingsplikten etter straffeloven § 196. Det må vurderes konkret om det er tilstrekkelig å melde fra bare til barnevernstjenesten i en slik situasjon, eller om politiet også må involveres, og motsatt. Blant annet må det legges vekt på hvor akutt faren er.
+
+Barnevernstjenestens plikt til å varsle politiet for å avverge et alvorlig lovbrudd etter straffeloven § 196 inntrer dersom den ikke selv kan avverge handlingen med egne virkemidler, som å iverksette tiltak.[^1887] Er den straffbare handlingen allerede gjennomført, har barnevernstjenesten plikt til å anmelde forholdet til politiet hvis anmeldelsen er nødvendig for å avverge nye alvorlige lovbrudd. Om det er tilstrekkelig å treffe et barnevernstiltak for å overholde avvergingsplikten etter straffeloven § 196, må vurderes konkret.[^1888]
+
+Forholdet mellom reglene om avvergingsplikt og meldeplikt er grundig omtalt i Justis- og beredskapsdepartementets veileder *Taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen – en veileder* punkt 2.7. Utvalget viser til denne veilederen samt NOU 2020: 17 for utfyllende informasjon om forholdet mellom meldeplikt og avvergingsplikt.[^1889]
+
+## Andre lands rett
+
+### Danmark
+
+Etter barnets lov § 133 har personer som utøver offentlig tjeneste eller verv meldeplikt til kommunen. Meldeplikten inntrer der personen under utøvelse av tjenesten eller vervet får kjennskap til eller grunn til å anta at:
+
+1\) et barn eller en ung under 18 år kan have behov for støtte efter denne lov,
+
+2\) et barn umiddelbart efter fødslen kan få behov for støtte efter denne lov på grund af de kommende forældres forhold,
+
+3\) et barn eller en ung under 18 år kan have behov for støtte efter denne lov på grund af barnets eller den unges ulovlige skolefravær eller undladelse af at opfylde undervisningspligten eller
+
+4\) et barn eller en ung under 18 år har været udsat for overgreb.
+
+Etter barnets lov § 135 har hele befolkningen, inkludert privatpersoner, meldeplikt til kommunen. Bestemmelsen lyder:
+
+Den, der får kendskab til, at et barn eller en ung under 18 år fra forældrenes eller andre opdrageres side udsættes for vanrøgt eller nedværdigende behandling eller lever under forhold, der bringer barnets eller den unges sundhed eller udvikling i fare, har pligt til at underrette kommunen.
+
+Brudd på meldeplikten er ikke straffesanksjonert, verken for yrkesutøvere eller privatpersoner.
+
+Danmark har egne regler om kommunens informasjonsplikt til utlendingsmyndighetene i saker hvor den har kjennskap til, eller begrunnet mistanke om, en forestående eller pågående omskoleringsreise eller annet utenlandsopphold av negativ betydning for en mindreårig utlending, jf. udlændingeloven § 44 c.
+
+### Sverige
+
+I Sverige er regler om barnevern gitt dels i socialtjänstlagen, og i lag med särskilda bestämmelser om vård av unga (LVU). Meldeplikten følger av socialtjänstlagen 14. kapittel (anmälan om och avhjälpande av missförhållanden m.m.). Etter 14. kap. 1 § er nærmere angitte myndigheter og yrkesgrupper pålagt meldeplikt til sosialnemnden dersom de i sin virksomhet får kjennskap til eller mistenker at et barn «far illa». Hva som omfattes av begrepet «far illa», vil ifølge forarbeidene bero på barnets alder og forholdene for øvrig.[^1890]
+
+Av forarbeidene framgår det at det ikke er mulig å gi en fullstendig eksemplifisering av når et barn «far illa» og at mistankegraden ikke kan angis tydelig. Det gis likevel en del eksempler som er ment å falle innenfor og utenfor bestemmelsen, som i stor grad tilsvarer meldeplikten etter norske bestemmelser:
+
+Det kan t.ex. avse barn och ungdomar som i hemmet utsätts för fysiskt eller psykiskt våld, sexuella övergrepp, kränkningar, fysisk eller psykisk försummelse eller som har allvarliga relationsproblem i förhållande till sin familj. Vidare ingår barn och ungdomar som far illa på grund av sitt eget beteende, exempelvis på grund av missbruk, kriminalitet och annat självdestruktivt beteende eller som utsätts för hot, våld eller andra övergrepp frånjämnåriga. Barn med stora problem i skolsituationen föranledda av en social problematik kan också anses ingå i målgruppen. Psykisk ohälsa eller störning hos barn och unga, exempelvis depression, självskadebeteende eller neuropsykiatrisk funktionsnedsättning faller däremot utanför socialtjänstens kompetensområde, om det inte därtill finns en social problematik. Inte heller renodlade inlärningsproblem är ett ansvar för barn- och ungdomsvården.[^1891]
+
+Befolkningen har ingen plikt til å melde fra til barnevernet ved mistanke om at et barn utsettes for omsorgssvikt. Men loven anbefaler at «\[v\]ar och en som får kännedom om eller misstänker att ett barn far illa bör anmäla detta till socialnämnden», jf. 14. kap. 1 c §.
+
+Det kan nevnes at utredningen *Fler verktyg i socialtjänsternas arbete för att förebygga brott och stärka skyddet för barn* (Ds 2023:15) foreslår flere regelverksendringer som gjelder bekymringsmeldinger om barn.[^1892] Forslagene omhandler blant annet en avklaring av hvem som omfattes av meldeplikten (utredningens pkt. 7.5.1), at flere myndigheter skal omfattes av meldeplikten (pkt. 7.5.2) og en avklaring på hvordan tilbakemelding kan skje til de varsler (pkt. 8.4.1). Videre blir det anbefalt i utredningen at alle bekymringsmeldinger blir digitalt søkbare (pkt. 10.8.1). Forslagene har vært på offentlig høring og er p.t. til oppfølging i Regeringskanseliet.
+
+## Behov og problemstillinger
+
+Flere aktører mener det er usikkerhet i tjenesteapparatet om innholdet i, og forholdet mellom, avvergingsplikten, taushetsplikten og meldeplikten, og muligheten til å dele opplysninger. Det blir blant annet pekt på at uklare grenser mellom streng barneoppdragelse og ulovlig negativ sosial kontroll gjør det vanskelig å vurdere om det er behov for å iverksette beskyttelsestiltak overfor barnet. Videre peker enkelte på at det er manglende forståelse og kunnskap om psykisk vold i tjenesteapparatet, som igjen fører til at meldeplikten ikke etterleves. Utfordringen er også beskrevet i Bredal og Melbye (2018):
+
+Hvis det er vold, da vet vi hva vi skal gjøre,» sa en saksbehandler i barneverntjenesten i et intervju. Hun var opptatt av at saker om alvorlig begrensende kontroll var en ny tematikk i barnevernet og vanskeligere å håndtere enn saker om vold. Det kan virke som om barneverntjenesten har begrenset erfaring med å avdekke og forstå kontrollens omfang og karakter.[^1893]
+
+Flere aktører viser til at det er behov for et regelverk som legger til rette for bedre samordning og mer effektivt samarbeid på tvers av etater og tjenester, og for kompetanseheving i tjenesteapparatene slik at bekymringer meldes og opplysninger deles. Samtidig har enkelte vist til at det er tilstrekkelig med hjemler for samordning og informasjonsutveksling, men at utfordringen ligger i kunnskapen om det mulighetsrommet tjenesten har.
+
+Manglende kompetanse i tjenesteapparatet og barnevernstjenesten om negativ sosial kontroll, æresmotivert vold, tvangsekteskap, barneekteskap, kjønnslemlestelse, psykisk vold og ufrivillig utenlandsopphold kan føre til at det ikke sendes bekymringsmelding til barneverntjenesten. Dette kan videre føre til at barnet utsettes for alvorlige handlinger eller omsorgssvikt, herunder vold, mishandling, ufrivillig utenlandsopphold og tvangsekteskap uten å få nødvendig hjelp. Manglende kunnskap og kompetanse kan medføre at barnevernstjenestens mulighet til tidlig innsats for å forebygge alvorlig omsorgssvikt eller straffbare handlinger ikke benyttes.
+
+Utvalget er også gjort kjent med at tjenesteapparatet i mange tilfeller har manglende forståelse for hva negativ sosial kontroll er, hvordan slik kontroll utøves og virker, samt skadevirkningene for barnet. Dette kan innebære at hjelpetiltakene overfor barnet og familien blir mangelfulle og at barnet ikke får den hjelpen og støtten det trenger. Manglende kunnskap kan også føre til for tidlige involvering av foreldrene i saken, noe som kan innebære at kontrollen eskalerer med fare for mer alvorlige handlinger, som ufrivillig utenlandsopphold, tvangsekteskap og æresmotivert vold.
+
+Spørsmålet er om det kan gjøres endringer i reglene om meldeplikt for å bedre tjenesteapparatets kunnskap om tematikken og å skape et klarere regelverk om når meldeplikten til barnevernstjenesten oppstår.
+
+## Utvalgets vurderinger og forslag
+
+### Er regelverket i tråd med menneskerettslig krav?
+
+Etter utvalgets vurdering er norske regler om meldeplikt til barnevernstjenesten i tråd med våre menneskerettslige forpliktelser etter barnekonvensjonen. Barnekonvensjonen artikkel 19 pålegger statene å treffe «alle egnede tiltak» for å beskytte barn mot alle former for vold mv. Meldeplikt til barnevernstjenesten er ett av flere egnede tiltak. Meldeplikten dekker de fleste av de temaene utredningen berører. Selv om norske regler tilfredsstiller de menneskerettslige kravene, er det ikke hindringer for å gå lenger for å gi barn et *bedre vern.* Eventuelle utvidelser av meldeplikten må imidlertid være begrenset til det som er nødvendig og legitime inngrep i retten til privatliv og familieliv etter Grunnloven § 102, jf. EMK artikkel 8.
+
+### Er det behov regelverksendringer for å tydeliggjøre når negativ sosial kontroll utløser meldeplikt?
+
+Utvalget er særskilt bedt om å vurdere om det er behov for regelverksendringer for å tydeliggjøre når negativ sosial kontroll utløser meldeplikt til barnevernstjenesten.
+
+Vurderingstemaet for om negativ sosial kontroll utløser meldeplikt etter barnevernsloven § 13-2 er om det er grunn til å tro at barnet blir eller vil bli: 1) mishandlet, 2) utsatt for alvorlige mangler ved den daglige omsorgen eller 3) utsatt for annen alvorlig omsorgssvikt, jf. bestemmelsens første ledd bokstav a. Bestemmelsen speiler barnevernsloven § 5-1 bokstav a og c om omsorgsovertakelse. Flere aktører viser til at det er den uklare grensen mellom streng foreldreoppdragelse og ulovlig negativ sosial kontroll som gjør vurderingen vanskelig.
+
+Utvalget mener at det ikke er mulig, og heller ikke ønskelig, å angi presist når negativ sosial kontroll faktisk utløser meldeplikt til barnevernstjenesten. Det vesentlige i vurderingen er ikke grensen mellom streng kontroll – som foreldre har anledning til å utøve i kraft av sitt foreldreansvar – og negativ sosial kontroll, men om den kontrollerende atferden er tilstrekkelig alvorlig, enten på grunn av *virkemidlene* som anvendes eller på grunn av *virkningen* kontrollen har på barnet, til at meldeplikten utløses.[^1894]
+
+Et kjennetegn ved negativ sosial kontroll er at kontrollen er systematisk og gjerne vedvarer over tid. Der foreldrenes kontroll og sanksjoner skjer gjennom straffbare handlinger som vold, overgrep, mishandling eller ulovlig tvang, vil det uten tvil utløse meldeplikt til barnevernstjenesten. I andre og mindre alvorlige tilfeller er utfordringen å vurdere om den kontrollen barnet utsettes for kan sies å innebære alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt. Ordlyden i meldepliktsbestemmelsen indikerer at terskelen er høy før meldeplikten utløses.
+
+I vurderingen av om meldeplikten er utløst, må tjenesteyteren *konkretisere hva slags kontroll barnet er utsatt for,* for eksempel om kontrollen er knyttet til barnets bevegelsesfrihet, mulighet til å delta på fritidsaktiviteter, skoleturer, tilgang til sosiale medier, mulighet til å ha venner eller kjæreste mv. Det må også tas stilling til om kontrollen og begrensningene barnet er utsatt for, står i forhold til barnets alder og utvikling, og hva slags virkning kontrollen har på barnet. Hvordan barnet selv opplever kontrollen er av betydning, for eksempel om det opplever skyld, skam og frykt for straff dersom familiens normer ikke følges. Et element er også hva barnet risikerer ved å bryte med familiens krav. I noen tilfeller vil bekymringen være knyttet til framtidige scenarioer, hva barnet risikerer når normbrudd blir kjent for familien. Kontrollen barnet opplever her og nå er kanskje ikke nok til at meldeplikten er utløst, men risikoen for framtidige reaksjoner kan gjøre at terskelen er nådd. Slik *konkretisering* av den spesifikke kontroll som utøves av foreldrene eller familien og virkningene den har på barnet, vil sette yrkesutøveren i bedre stand til å gjøre seg opp en mening om forholdene er så alvorlige at det er grunn til å tro at barnet er eller vil bli utsatt for «annen alvorlig omsorgssvikt». Det vil også sikre at begrepet negativ sosial kontroll ikke benyttes som et paraplybegrep som tilslører at barnet kan være utsatt for, eller risikerer å bli utsatt for, straffbare handlinger som bør omtales som nettopp de straffbare handlingene de er. Yrkesutøverens kunnskap om hva som kjennetegner negativ sosial kontroll og hva slags skadevirkninger slik kontroll kan ha for barnet, i tillegg til annen kunnskap om barnets utviklingsbehov og oppvekstvilkår, er avgjørende for å kunne se og forstå hva barnet er utsatt for.
+
+Utvalget understreker at det ikke er et krav om at melderen har sikker viten om at barnet er eller vil bli utsatt for alvorlig omsorgssvikt. Det er tilstrekkelig at melderen har konkrete holdepunkter som gir *grunn til å tro* at barnet er utsatt for forhold som omfattes av meldeplikten. Der melderen kan dokumentere hvilke vurderinger som er gjort, vil ikke taushetsplikten være brutt selv om det senere viser seg at melderen feiltolket situasjonen.[^1895]
+
+Å beskrive vurderingene som er gjort, er også viktig for barnevernstjenestens videre oppfølging av bekymringsmeldingen. En melding som bare gir informasjon om at barnet er utsatt for negativ sosial kontroll, vil ikke være et tilstrekkelig grunnlag for videre oppfølging. Begrepet omfatter alt fra mildere former for systematisk kontroll til svært alvorlige begrensninger i barnets liv. Begrepet forstås også ulikt av ulike aktører. Dessuten er det ofte stor overlapp mellom negativ sosial kontroll og psykisk vold.
+
+Utvalget viser ellers til Elisabeth Grøttelands lærebok *Kulturelle forventninger – foreldrerett eller omsorgssvikt? Barnevernets arbeid med negativ sosial kontroll og æresrelatert vold,* som publiseres i nær framtid. Spørsmålet om når det skal meldes bekymring til barnevernet ved negativ sosial kontroll blir grundig behandlet i boken, og vil gi en god veiledning til aktører som er omfattet av meldeplikten.
+
+### Bør det gjøres regelverksendringer for å gi økt oppmerksomhet i tjenesteapparatet om negativ sosial kontroll mv.?
+
+Utvalget foreslår å erstatte begrepet «daglig omsorg» med «fysisk og psykisk omsorg» i barnevernsloven § 13-2 første ledd bokstav a. Videre foreslår utvalget at det tilføyes et ledd i bestemmelsen som framhever at det i vurderingen av om det er grunn til å tro at barnet er eller risikerer å bli utsatt for alvorlig omsorgssvikt, skal legges vekt på om barnets rett til medvirkning og selvbestemmelse er alvorlig krenket. Utvalgets flertall fraråder å ta begrepet negativ sosial kontroll inn i lovteksten, under henvisning til manglende presisjon og at begrepet omfatter en rekke forhold som uansett ikke vil kunne anses som mishandling eller alvorlig omsorgssvikt. Utvalgets mindretall, Halima El Abassi, foreslår at begrepet negativ sosial kontroll tas inn i bestemmelsen som moment i vurderingen av om det er grunn til å tro at barnet er eller vil bli utsatt for alvorlig omsorgssvikt. Dette vil kunne bidra til at negativ sosial kontroll får mer oppmerksomhet og dermed kunne føre til nødvendige endringer i praksis.
+
+Erstatte «daglig omsorg» med «fysisk og psykisk omsorg»
+
+Etter gjeldende rett skal begrepet «omsorg» i barnevernsloven § 13-2 første ledd bokstav a forstås som både den materielle, fysiske eller emosjonelle omsorgen barnet får, og kombinasjoner av dette. Tilføyelsen «fysisk og psykisk omsorg» innebærer ingen realitetsendringer, men er etter utvalgets syn egnet til å synliggjøre og skape større oppmerksomhet om at mangler ved den psykiske omsorgen barnet får, kan utgjøre alvorlig omsorgssvikt. I saker om negativ sosial kontroll er det ofte mangler ved den psykiske omsorgen, for eksempel ved at barnet blir utsatt for press, trusler, oppsyn eller overvåkning. Barnet må ofte undertrykke egne ønsker og behov for å unngå sanksjoner fra foreldrene. Slik psykisk omsorgssvikt er mer usynlig enn fysisk og praktisk omsorgssvikt. På samme måte som utvalget har foreslått å synliggjøre dette i barnevernsloven § 5-1 bokstav a om omsorgsovertakelse,[^1896] mener utvalget det bør gjøres tilsvarende endring i bestemmelsen om meldeplikt etter § 13-2 første ledd bokstav a. Formålet med forslaget er hovedsakelig å synliggjøre den mer usynlige omsorgssvikten og på den måten sikre at barn får nødvendig hjelp, omsorg og beskyttelse til rett tid.
+
+Endringen innebærer at betegnelsen «daglig omsorg» utgår. Dette vil bidra til å skape samsvar i begrepsbruken med både barnelova og barnevernslovens øvrige regler. Betegnelsen «daglig omsorg» som ble benyttet i barnevernsloven 1992 ble ikke videreført i barnevernsloven § 5-1 bokstav a med følgende begrunnelse:
+
+I bestemmelsens bokstav a er begrepet «daglig omsorg» erstattet med «omsorg». Bakgrunnen for endringen er at «daglig omsorg» ikke lenger benyttes i barneloven. Endringen er en språklig tilpasning og innebærer ikke en endring i gjeldende rett. Bestemmelsen tar sikte på å fange opp alvorlige mangler ved den daglige praktiske omsorgen. Også alvorlige mangler i den emosjonelle og psykiske kontakten mellom barn og foreldre omfattes av bestemmelsen. Det er foretatt justeringer i ordlyden for å få frem at også den emosjonelle omsorgen omfattes av begrepet «omsorg». Videre er det foretatt endringer for å få frem at både den praktiske og emosjonelle omsorgen barnet får må vurderes ut fra barnets individuelle behov, alder og utvikling. Forslagene innebærer ikke endringer i gjeldende rett.[^1897]
+
+Tilsvarende endringer ble ikke gjort i barnevernsloven § 13-2 om meldeplikt, til tross for at bestemmelsen i stor grad speiler innholdet i lovens § 5-1 om omsorgsovertakelse. Utvalget mener pedagogiske hensyn gir grunn til å samordne begrepsbruken i de to bestemmelsene.
+
+Nytt ledd om å legge vekt på at barnets medvirknings- og selvbestemmelsesrett er alvorlig krenket
+
+Et kjennetegn ved negativ sosial kontroll er at barnets medvirknings- og selvbestemmelsesrett ikke blir respektert av foreldrene. I kapittel 23 har utvalget foreslått en endring i barnevernsloven § 5-1 om omsorgsovertakelse som innebærer at det i vurderingen av om det er alvorlige mangler ved den fysiske eller psykiske omsorgen barnet får, skal legges vekt på om barnets medvirknings- og selvbestemmelsesrett er alvorlig krenket. Tilsvarende endring bør gjøres i barnevernslovens regler om meldeplikt som i stor grad speiler bestemmelsen om omsorgsovertakelse. Det vises til kapittel 23 for nærmere begrunnelse.
+
+Utvalget mindretall, El Abassi, foreslår i tillegg at det synliggjøres at negativ sosial kontroll er et moment i vurderingen av om et barn er utsatt for alvorlig omsorgssvikt. Se kapittel 23 hvor El Abassi foreslår tilsvarende endring i § 5-1 bokstav a om omsorgsovertakelse, for nærmere begrunnelse.
+
+### Er det behov for regelverksendringer for å tydeliggjøre når tvangsekteskap og kjønnslemlestelse utløser meldeplikt etter barnevernsloven?
+
+Utvalget mener det ikke er nødvendig å presisere i barnevernsloven at risiko for tvangsekteskap, barneekteskap eller kjønnslemlestelse, utløser meldeplikt til barnevernstjenesten. Der det er grunn til å tro at et barn blir eller vil bli utsatt for slike handlinger, vil dette klart falle inn under meldeplikten etter barnevernsloven § 13-2 første ledd bokstav a om alvorlig omsorgssvikt. Dette følger også klart av forarbeidene til barnevernloven 1992 § 6-4 første ledd.[^1898] Etter straffeloven § 253 andre ledd straffes også den «som ved å forlede eller på annen måte medvirker til at en person reiser til et annet land enn der personen er bosatt, med forsett om at personen der vil bli utsatt for en handling som nevnt i første ledd \[tvangsekteskap og ekteskapslignende forbindelser\]». Dersom man holder det som sikkert eller mest sannsynlig at noen vil opptre slik, vil avvergingsplikten etter straffeloven § 196 utløses. Det kan være et argument for at det også utløses meldeplikt etter barnevernsloven dersom man har «grunn til å tro» at noen vil opptre slik overfor et barn.
+
+Det som kan synes som et problem for hjelpeapparatet, er hvor sikker melderen må være for at barnet er i en situasjon som utløser meldeplikten. Som omtalt over, må det foreligge en konkret begrunnet bekymring for at barnet befinner seg i en situasjon med risiko for tvangsekteskap eller kjønnslemlestelse, men det er ikke et krav om sannsynlighetsovervekt eller sikker viten. Plikten til å gi opplysninger avhenger ikke av om det faktisk foreligger en situasjon med risiko for tvangsekteskap eller kjønnslemlestelse, men av om den som sitter med opplysningene har grunn til å tro at det foreligger en slik situasjon.
+
+### Meldeplikt ved fare for skadelig utenlandsopphold
+
+Utvalget foreslår at det innføres en tydelig meldeplikt der det er grunn til å tro at et barn risikerer å bli sendt til utlandet til forhold som medfører alvorlig fare for barnets liv eller helse, alvorlig omsorgssvikt eller fare for at barnet vil bli fratatt muligheten til grunnleggende utdanning, se forslag til ny bokstav f i barnevernsloven § 13-2 første ledd. Dette samsvarer med de forholdene som skal danne grunnlag for utreiseforbud etter utvalgets forslag til ny § 5-12 i barnevernsloven, se kapittel 27.
+
+Forslaget innebærer for det første at meldeplikten utløses dersom det er grunn til å tro at barnet under et pågående eller forestående utenlandsopphold vil bli utsatt for forhold som medfører alvorlig fare for barnets liv eller helse. Alvorlig fare for liv eller helse omfatter fare for at barnet vil bli utsatt for alvorlige straffbare handlinger som vold, tvang, trusler, tvangsekteskap, frihetsberøvelse, kjønnslemlestelse eller mishandling i nære relasjoner. Det har ikke betydning om handlingene er straffbare i det landet barnet risikerer å bli sendt til. I tillegg omfattes forhold som ikke nødvendigvis er straffbare. Alvorlig fare for *liv* vil for eksempel omfatte tilfeller der det er risiko for at barnet ikke vil få strengt nødvendig helsehjelp eller der det er en risiko for at barnet blir sendt til eller etterlatt i et krigsrammet konfliktområde.
+
+Med *helse* forstås både fysisk og psykisk helse. Alvorlig fare for helse kan blant annet omfatte tilfeller der barnet ikke vil få helt nødvendig helsehjelp, eller der det er risiko for at barnet utsettes for alvorlig undertrykkelse, gjenoppdragelsesreiser eller konverteringsterapi på grunn av sin legning eller kjønnsidentitet. At barnet blir etterlatt alene i utlandet uten kjente omsorgspersoner rundt seg eller blir isolert fra omverdenen, vil også kunne innebære en alvorlig fare for barnets fysiske og psykiske helse.
+
+For det andre vil meldeplikten utløses dersom det er grunn til å tro at barnet vil bli utsatt for alvorlig omsorgssvikt i utlandet. Dette kan for eksempel omfatte tilfeller der det er fare for at barnet blir plassert hos personer som ikke vil ivareta barnets behov for kontakt og trygghet, at det blir holdt borte fra den andre forelderen ved barnebortføring eller at det er en risiko for at barnet vil havne i en situasjon der det må begå alvorlig kriminalitet eller leve i et miljø der alvorlig kriminalitet begås.
+
+For det tredje vil meldeplikten utløses dersom det er grunn til å tro at utenlandsoppholdet vil innebære at barnet mister mulighetene til grunnleggende utdanning. Med grunnleggende utdanning menes utdanning som barnet har rett til etter opplæringsloven § 2-1, det vil si grunnskoleutdanning. Det vil ikke være tilstrekkelig at utdanningen vil være av lavere kvalitet eller mindre omfattende enn barnet ville fått i Norge, eller at utenlandsoppholdet vil medføre et kortvarig avbrudd i utdanningsløpet. Det må være grunn til å tro at foreldre eller andre omsorgspersoner vil frata barnet muligheten til grunnleggende utdanning.
+
+Endringen vil etter utvalgets syn ikke innebære en utvidelse av dagens meldeplikt. Det å sende barn på utenlandsopphold som medfører slike konsekvenser som bestemmelsen gir anvisning på, vil etter utvalgets syn innebære alvorlig omsorgssvikt. Formålet med endringen er dermed å synliggjøre at fare for visse typer utenlandsopphold er omfattet av meldeplikten.
+
+Utvalget har vurdert om kjennskap til at et barn over 12 år ikke samtykker til et utenlandsopphold eller flytting til utlandet uten en forelder med foreldreansvar i seg selv skal utløse meldeplikt, jf. barnelova §§ 40 tredje ledd og 41 femte ledd. Å tvinge et barn til å reise til et annet land uten en forelder med foreldreansvar er et sterkt brudd på barnets medvirknings- og selvbestemmelsesrett og vil inngå i vurderingen av om barnet er utsatt for alvorlig omsorgssvikt. Det tar tid for barnevernstjenesten å bygge opp en trygg relasjon til et barn som gjør at barnet våger å gi tilstrekkelig med opplysninger til å vurdere hva barnet risikerer med reisen. Å involvere barnevernstjenesten for tidlig, kan føre til at barnet ikke får trygge arenaer til å diskutere saken. Videre kan det innebære at utenlandsoppholdet framskyndes på grunn av barnevernets involvering. Det bør derfor ikke være en automatikk i at risiko for ufrivillig utenlandsopphold for barn over 12 år uten en forelder med foreldreansvar utløser meldeplikten.
+
+Som omtalt i kapittelet om utreiseforbud har utvalget kommet til at manglende samtykke fra barnet ikke alene skal medføre utreiseforbud. Manglende samtykke bør derfor heller ikke utløse meldeplikt, men kan være et moment i vurderingen av om det er grunn til å tro at barnet er utsatt for alvorlig omsorgssvikt eller vil bli utsatt for et utenlandsopphold av en slik art at det utløser meldeplikt.
+
+Vilkåret «grunn til å tro» er det samme som etter § 13-2 første ledd bokstav a til c og f, og skal forstås på samme måte. Det er derfor ikke noe krav om sannsynlighetsovervekt, men det må foreligge en konkret begrunnet bekymring for at barnet befinner seg i en slik situasjon som bestemmelsen gir anvisning på. Melder bør legge stor vekt på om barnet selv gir uttrykk for frykt for at utenlandsoppholdet vil medføre alvorlig fare for liv eller helse, alvorlig omsorgssvikt eller at mulighetene for grunnleggende utdanning bortfaller. Barnets egen bekymring vil i utgangspunktet være nok for at meldeplikten utløses.
+
+Utvalget har bare utformet forslag til endringer i barnevernsloven § 13-2. Som omtalt under gjeldende rett er det flere bestemmelser i særlovgivningen om meldeplikt, og disse er ment å ha samme innhold som barnevernsloven § 13-2. En ny bokstav om meldeplikt til barnevernstjenesten ved fare for skadelige utenlandsopphold må derfor tilføyes også i barnehageloven § 46, opplæringslova § 15-3 (videreføres i ny opplæringslov § 24-3, foreløpig ikke trådt i kraft), privatskolelova § 7-4, sosialtjenesteloven § 45, folketrygdloven § 25-11, integreringsloven § 49, helsepersonelloven § 33, familievernkontorloven § 10, ekteskapsloven § 26 a og krisesenterlova § 6.
+
+### Risikovurdering i forkant av foreldreinvolvering
+
+Utvalget foreslår at den som har meldeplikt til barnevernstjenesten, må gjøre en risikovurdering i forkant av at foreldre informeres om en bekymringsmelding til barnevernstjenesten, eventuelt overlate til barnevernstjenesten eller politiet å vurdere når eller på hvilken måte foreldrene skal orienteres, se utvalgets forslag til § 13-2 nytt tredje ledd. Formålet med forslaget er å sikre risikovurderinger på et tidlig stadium i en barnevernssak, og dermed sikre at barnet eller andre, for eksempel søsken, ikke utsettes for fare eller skade ved for tidlig foreldreinvolvering. Videre er det et formål å sikre barnet et trygt samarbeid med barnevernet i undersøkelsesfasen.
+
+Melding til barnevernstjenesten fra en annen yrkesutøver innebærer deling av personopplysninger og taushetsbelagte opplysninger. Foreldre med foreldreansvar skal som hovedregel orienteres om at melding sendes, inkludert om den faktiske og rettslige begrunnelsen for meldingen.[^1899] Dette er ikke inntatt i bestemmelsene om meldeplikt, verken i barnevernsloven eller særlovgivningen, men er forutsatt i forarbeidene.[^1900] Unntak gjelder dersom det å informere foreldre vil være til hinder for å gi barnet tilstrekkelig beskyttelse:
+
+I enkelte tilfeller kan det likevel være et selvstendig og vesentlig poeng at den som har sendt meldingen overlater til barneverntjenesten og eventuelt politiet å vurdere når og på hvilken måte foreldrene skal informeres. Bakgrunnen for dette er dels at det å informere foreldrene i visse tilfeller kan hindre barneverntjenesten i å gi barnet tilstrekkelig beskyttelse, dels at tidlig informasjon kan svekke sentrale bevis i saken. Det er ikke mulig å gi en uttømmende liste over tilfeller der vedkommende fagperson, organ eller yrkesutøver bør unnlate selv å informere foreldrene. Eksempler på særlig aktuelle tilfeller er ved mistanke om at et barn er utsatt for seksuelle overgrep, at et barn eller noen som står barnet nær er utsatt for vold eller overgrep, samt tilfeller der det å gi en orientering på det aktuelle tidspunktet vurderes å kunne medføre fare for noens liv eller helse.
+
+Departementet legger for øvrig til grunn at barneverntjenesten informerer foreldre og eventuelt barnet om at melding er mottatt og hvorvidt barneverntjenesten åpner undersøkelsessak på bakgrunn av meldingen, jf. barnevernloven §§ 4-2 og 4-3.[^1901]
+
+I mange saker som gjelder negativ sosial kontroll, kan informasjon til foreldre om at en bekymringsmelding er sendt til barnevernstjenesten føre til at kontrollen og begrensningene rundt barnet strammes til og forverrer barnets situasjon. Særlig gjelder dette der konflikten mellom barnet og foreldrene handler om familiens ære. I noen tilfeller kan barnet risikere å bli utsatt for svært alvorlige straffbare handlinger som vold, tvangsekteskap eller kjønnslemlestelse. Videre kan det være risiko for at barnet blir sendt eller tatt med til utlandet mot sin vilje nettopp for å unngå en barnevernssak. I saker hvor det potensielt kan dreie seg om alvorlige følger for barnet, må det stilles strenge krav til risikovurderinger av alle aktører i offentlig forvaltning som har befatning med barnet. Utvalget foreslår derfor at det innføres en plikt til å gjøre en risikovurdering før foreldreinvolvering, jf. utvalgets forslag til endringer i barnevernsloven § 13-2 nytt tredje ledd. Tilsvarende endring bør gjøres i særlovgivningen som omhandler meldeplikt til barnevernstjenesten. Ellers vises det til utvalgets forslag og begrunnelse for risikovurdering på undersøkelsesstadiet, se utvalgets forslag til endringer i barnevernsloven § 2-2 nytt fjerde og femte ledd, som er nærmere omtalt i kapittel 22.
+
+Utvalget har vurdert hvorvidt lovforslaget bør begrenses til, eller særlig framheve, risikovurdering i saker der det er indikasjoner på negativ sosial kontroll eller æresmotiverte konflikter. Risiko for at barnet utsettes for vold, trusler eller annen fare eller skade ved at foreldre involveres gjelder ikke nødvendigvis bare i saker om negativ sosial kontroll og æresmotiverte konflikter. Utvalget mener det alltid vil være behov for å foreta en risikovurdering i barnevernssaker før foreldreinvolvering. Samtidig kan det være hensiktsmessig å framheve det særlige behovet som gjelder i saker om negativ sosial kontroll og æresmotivert vold. Utvalget legger derfor fram to alternative forslag.
+
+Forslagets forhold til menneskerettighetene
+
+Forslaget innebærer en plikt til å foreta risikovurderinger, og er ikke en utvidelse av forvaltningens mulighet til å unnta opplysninger fra foreldrene. En konsekvens av forslaget kan likevel være at den som melder en sak til barnevernstjenesten, i større grad utsetter å gi informasjon til foreldrene om en bekymringsmelding, eller overlater til barnevernstjenesten eller politiet å vurdere når og hvordan foreldrene skal involveres. Forslaget vil dermed kunne innebære et inngrep i foreldres og barns rett til respekt for sitt privatliv og familieliv etter Grunnloven § 102 og EMK artikkel 8, herunder rett til å orienteres om meldingen og dens faktiske og rettslige begrunnelse.
+
+Utvalget mener at inngrepet i foreldrenes rett til privatliv og familieliv er forholdsmessig og nødvendig for å ivareta barns rettigheter, og for å oppfylle formålene bak forslaget, nemlig å gi barn beskyttelse, sikre barnet et trygt samarbeid med tjenesteapparatet og redusere risikoen for at barnet eller andre, for eksempel søsken, utsettes for fare eller skade ved for tidlig foreldreinvolvering. Ulempene foreldrene blir utsatt for er at de får informasjon om bekymringsmeldingen på et senere tidspunkt enn de normalt skulle fått av hensyn til barnets sikkerhetssituasjon. Dette innebærer ikke en utvidelse av forvaltningens adgang til å unnta opplysninger fra foreldrene. Ved å ikke innta en tydelig plikt til risikovurdering i bestemmelsen, er det en mulighet for at melderen ikke er bevisst på den risikoen et barn kan bli utsatt for ved foreldreinvolvering, og at barnet dermed ikke oppnår den beskyttelsen som meldingen til barnevernstjenesten er ment å gi.
+
+Staten er forpliktet til å treffe egnede tiltak for å beskytte barn mot alle former for vold, overgrep og omsorgssvikt, jf. Grunnloven § 104 tredje ledd, barnekonvensjonen artikkel 19 og EMK artikkel 3 og 8. Staten har også en plikt til å verne om barns integritet og rett til privatliv på lik linje med voksnes, jf. Grunnloven § 102, EMK artikkel 8 nr. 1 og barnekonvensjonen artikkel 16. I dette ligger blant annet at statlige myndigheter kan ha en plikt til å holde tilbake opplysninger fra privatpersoner som kan sette barnet i fare. I en sak hvor barnet har behov for hjelp og bistand fra ulike yrkesutøvere på grunn av at det er utsatt for omsorgssvikt, må barnets behov for å dele informasjon med yrkesutøverne avveies mot foreldrenes rett til å motta informasjon for å ivareta sitt omsorgsansvar for barnet samt egne interesser i saken.[^1902] Dersom deling av informasjon med foreldrene kan sette barnet i fare, må barnets interesser veie tyngre enn foreldrenes.
+
+Også barns rett til å bli hørt etter Grunnloven § 104 første ledd andre punktum og barnekonvensjonen artikkel 12 nr. 2, kan innebære en plikt for myndigheter til å holde tilbake opplysninger som kan sette barnet i fare. Ifølge Barnekomitéen oppstiller bestemmelsen et krav om at voksne som samarbeider med barn, må treffe alle mulige forholdsregler for å minimere risikoen for at barna blir utsatt for vold, utnyttelse eller andre negative konsekvenser på grunn av sin medvirkning i ulike prosesser.[^1903] Bestemmelsen tilsier at det bør tydeliggjøres i lovgivningen at det kan gjøres unntak fra foreldreinvolvering på et tidlig stadium av en barnevernssak dersom dette er nødvendig for å beskytte barn mot vold og overgrep.
+
+### Barnevernets plikt til å gi informasjon til andre staters myndigheter
+
+Varslingsplikt etter Haagkonvensjonen 1996 artikkel 36
+
+Utvalget foreslår at varslingsplikten etter Haagkonvensjonen 1996 artikkel 36 tydeliggjøres i barnevernsloven § 13-5 om barnevernets opplysningsplikt.
+
+Utvalget har blitt kjent med at varslingsplikten ikke er godt nok kjent i tjenesteapparatet. Dette medfører en risiko for at andre stater ikke varsles selv om barnevernstjenesten har opplysninger om at et barn er i alvorlig fare, og har truffet eller har vurdert å treffe vedtak om tiltak. I sitt høringssvar til forslag til ny barnevernslov anbefalte Bufdir at det inntas en bestemmelse i barnevernsloven som reflekterer denne plikten, og at det gis føringer om at varselet skal sendes via Sentralmyndigheten for Haagkonvensjonen 1996 (dvs. til Bufdir). Innspillet er ikke gjengitt i eller kommentert i Prop. 133 L (2020–2021).
+
+Varslingsplikten gjelder også i tilfeller der barnet oppholder seg i et land som ikke er del av Haag-samarbeidet, og plikten til å gi opplysninger bør derfor plasseres i barnevernsloven og ikke lov om Haagkonvensjonen 1996. Det bør samtidig presiseres at slik underretting skal sendes til Sentralmyndigheten for Haagkonvensjonen 1996 (dvs. til Bufdir). Endringen vil ikke innebære noen realitetsendring, men vil kunne bidra til at varslingsplikten i større grad etterleves. Det vil også tydeliggjøre barnevernstjenestens ansvar for barn som befinner seg i utlandet, noe som er særlig viktig i saker hvor barn og unge utsettes for ufrivillige eller skadelige utenlandsopphold. Dersom et barn oppholder seg i et land som ikke har ratifisert Haagkonvensjonen, har norske myndigheter svært begrensede muligheter for å bistå barnet. Det er likevel viktig å forsøke å varsle den andre statens myndigheter om bekymringen for barnet, med mindre slik varsling kan sette barnet i fare. Se forslag til § 13-5 sjette ledd.
+
+Varslingsplikt når barnet oppholder seg i Norge
+
+Etter gjeldende rett kan det treffes akuttvedtak og hjelpetiltak når barn som oppholder seg i Norge har sitt vanlige bosted i en annen stat. Det kan ikke treffes mer langvarige tiltak som omsorgsovertakelse og tvangsplassering på atferdsinstitusjon. Dette er i samsvar med jurisdiksjonsreglene i Haagkonvensjonen 1996.[^1904] Dersom barnevernstjenesten mener at barnet har behov for et langvarige beskyttelsestiltak, som vedtak om omsorgsovertakelse, må norske myndigheter kontakte myndighetene i barnets hjemstat med anmodning om å følge opp barnet. Alternativt kan norske myndigheter be om at jurisdiksjonen i saken overføres til Norge.[^1905] Utvalget er kjent med situasjoner der barnevernstjenesten ikke er kjent med ansvaret det har for å gi alle barn i Norge nødvendig beskyttelse, med den konsekvens at barnet overlates til sine foreldre i bostedsstaten uten å ha opprettet nødvendig kontakt og samarbeid med denne statens myndigheter. Utvalget anbefaler at forpliktelsene som følger av Haagkonvensjonen tydeliggjøres i barnevernsloven, men er usikre på plassering og nærmere innhold. En mulighet er å synliggjøre Haagkonvensjonen 1996 i barnevernsloven § 1-2 om lovens virkeområde. En annen mulighet er å synliggjøre plikten til å varsle og anmode bostedsstaten om følge opp barnet, i lovens § 13-5 om barnevernets opplysningsplikt, se utvalgets forslag til § 13-5 sjuende ledd.
+
+### Oppdatere veileder
+
+Ekstremismekommisjonen foreslår i sin utredning NOU 2024: 3 en revidert versjon av Justis- og beredskapsdepartementets veileder *Taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen – en veileder* for å tydeliggjøre reglene om forebygging av ekstremisme.[^1906] Det blir blant annet vist til at kommisjonens gjennomgang viser at det er grunn til å tro at nødrettshjemlene og reglene om avvergingsplikt som gir anledning til å dele informasjon, tolkes strengere av noen aktører enn det som følger av rettskildene. Det samme gjelder de mange unntakene fra taushetsplikten i det eksisterende regelverket, som kan gi grunnlag for informasjonsdeling mellom tjenester.
+
+Utvalget ser de samme utfordringene i saker knyttet til negativ sosial kontroll og ufrivillig utenlandsopphold. Både representanter fra barnevernstjenesten og spesialutsendingene for integreringssaker har vist til at det er usikkerhet, særlig i barnevernstjenesten, om hvor langt adgangen til å dele opplysninger med andre aktører går. Utvalget anbefaler at det i forbindelse med en revisjon av Justis- og beredskapsdepartementets veileder vurderes å ta inn relevante eksempler fra herværende kapittel om meldeplikt i saker om negativ sosial kontroll mv. Det vises også til Elisabeth Grøttelands kommende lærebok *Kulturelle forventninger – foreldrerett eller omsorgssvikt? Barnevernets arbeid med negativ sosial kontroll og æresrelatert vold,* som kan gi gode eksempler på vurderinger knyttet til forståelsen av meldeplikten.

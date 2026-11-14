@@ -1,2110 +1,270 @@
-# NOU 2020: 9, del 26 av 29 (side 280–299)
+# NOU 2020: 9, del 26 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/ab01ca81-nou-2020-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-9/id2723776/
 - Original-PDF: https://www.regjeringen.no/contentassets/4217284a85064d56aeb03ad74d33768b/no/pdfs/nou202020200009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 280]
+## Etter 1. juni 2012, forordning 883/2004
 
-278
+### Innledning
 
-Referanse- og litteraturliste
+Forordning 883/2004 ble innlemmet i EØS-avtalen 1. juli 2011, og gitt virkning i norsk rett fra 1. juni 2012.[^938] Fra og med juni 2012 er det denne forordningen som har regulert koordineringen av trygdeytelser i EØS, og EU-domstolen har gjentatte ganger understreket at
 
-NOU 2020: 9
-Blindsonen
+«forordning nr. 883/2004, som har til formål at sikre koordinering af de nationale ordninger, som fortsat består, ikke indfører en fælles socialsikringsordning. Ifølge fast retspraksis bevarer medlemsstaterne således deres kompetence til selv at udforme deres sociale sikringsordninger \[…\].
 
-Forfatter
+I mangel af harmonisering på EU-plan tilkommer det følgelig hver medlemsstat i lovgivningen bl.a. at fastsætte de betingelser, som en person skal opfylde for at være berettiget til ydelser \[…\].
 
-Tittel, forlag/medie mm
+Ved udøvelsen af denne kompetence skal medlemsstaterne imidlertid overholde EU-retten og navnlig EUF-traktatens bestemmelser om unionsborgeres ret til at færdes og opholde sig på medlemsstaternes område \[…\].»[^939]
 
-Matningsdal, Magnus
+Dette viser at statenes frihet på trygdeområdet også etter vedtakelsen av forordning 883/2004 er stor. Samtidig viser sitatet at man heller ikke nå kan slå seg til ro med at nasjonale trygderegler lar seg forene med forordningen. Det må også vurderes om trygdereglene er i samsvar med de krav øvrig EU-rett stiller.
 
-«Kontradiksjon i sivile saker og straffesaker» Jussens venner
-Vol. 48, nr. 01-02 (2013), s. 1–115.
+Heller ikke forordning 883/2004 stiller noe krav om at vedkommende må ha benyttet seg av den rett til fri bevegelighet EØS-retten gir, men utvider det personelle virkeområdet for reguleringen ved at begrensningen til arbeidstakere og selvstendig næringsdrivende oppheves. Det avgjørende også i relasjon til denne forordningen er om den trygdeytelsen det er tale om, er koordinert gjennom forordningen, og om situasjonen er en forordningen regulerer.
 
-Matningsdal, Magnus
+Forordning 883/2004 er organisert i seks avdelinger,[^940] nummerert fra I til VI. Avdeling III er delt inn i kapitler, noe de øvrige ikke er. Denne delen av forordningen gir regler om de enkelte typer trygdeytelser forordningen koordinerer. Avdelingen er delt inn i ni kapitler, og kapittel 1 er igjen delt i tre avsnitt.[^941] Avdeling III regulerer hvilken institusjon som, eventuelt i første omgang, skal utrede ytelser medlemmet har rett til etter den trygdeordningen vedkommende er omfattet av, der personen bor eller oppholder seg i en annen EØS-stat enn den kompetente. Bestemmelsene er koordineringsbestemmelser. De regulerer ikke det vi kan kalle medlemmets primærkrav, det vil si hvilke ytelser vedkommende har krav på etter den trygdeordningen vedkommende er omfattet av, men hvilken institusjon som skal utrede disse ytelsene der medlemmet er i en annen EØS-stat enn den kompetente.
 
-Norsk spesiell strafferett. 2. utg., Bergen, Fagbokforlaget, 2016.
+Avdeling III kapittel 1 gjelder «ytelser ved sykdom samt ytelser til mor ved svangerskap og fødsel og de tilsvarende ytelser til far».[^942] Kapitlet gjelder situasjoner der medlemmet oppholder seg, eller ønsker å oppholde seg, i en annen EØS-stat enn den kompetente – i vår sammenheng, en annen EØS-stat enn Norge. Kapitlet skiller, som flere av de andre kapitlene i dette avsnittet, klart mellom naturalytelser og kontantytelser. For kontantytelser er regelen etter artikkel 21 at medlemmet har rett til ytelser fra «den kompetente institusjon». Der det er tale om naturalytelser, er derimot hovedregelen at medlemmet har rett til ytelser fra institusjonen i den EØS-staten vedkommende oppholder seg, som om vedkommende var omfattet av trygdelovgivningen der, men for den kompetente stats regning.
 
-Matningsdal, Magnus
+### Forordning 883/2004 artikkel 21
 
-«Tilståelsesdom» Jussens venner Vol. 42, nr. 5. (2007)
-s. 251–272.
+#### Innledning
 
-Matningsdal, Magnus
+Forordning 883/2004 artikkel 7 fastsetter at alle nasjonale krav som innebærer at medlemmet eller medlemmets familie må være bosatt i trygdestaten for å ha rett til (fulle) ytelser, skal oppheves.[^943] Bestemmelsen forbyr uttrykkelig regler som innebærer at kontantytelser endres, reduseres eller bortfaller som følge av at medlemmet *flytter* innad i EØS-området. Forordning 1408/71 artikkel 10 hadde et lignende innhold, men skiller seg fra forordning 883/2004 artikkel 7 ved at bestemmelsen bare regulerte nærmere angitte kontantytelser, ikke kontantytelser generelt. Sykepenger, arbeidsavklaringspenger og pleiepenger omfattes ikke av oppregningen i forordning 1408/71 artikkel 10.[^944]
 
-Straffeloven: Alminnelige bestemmelser: Kommentarutgave.
-Oslo, Universitetsforlaget, 2015.
+Forordning 883/2004 artikkel 21 bestemmer at der et medlem bor eller oppholder seg i en annen EØS-stat enn trygdestaten, skal vedkommende «ha rett til» kontantytelser «i samsvar med lovgivningen» trygdestaten anvender. Artikkel 21 nr. 1 første punktum lyder slik i norsk versjon:
 
-Narvland, Runar
+Et medlem i trygdeordningen og medlemmer av hans/hennes familie som bor eller oppholder seg i en annen medlemsstat enn den kompetente medlemsstat, skal ha rett til kontantytelser fra den kompetente institusjon i samsvar med lovgivningen den anvender.[^945]
 
-Trygderett i et nøtteskall. 2. utg., Oslo: Gyldendal, 2018.
+Den situasjonen forordning 883/2004 artikkel 21 nr. 1 regulerer, er dermed situasjonen der en person bor eller oppholder seg i en annen EØS-stat enn trygdestaten. Det følger av bestemmelsen at medlemmet i slike tilfeller skal rette krav om kontantytelser mot den institusjonen som forvalter den trygdeordningen vedkommende er tilsluttet, den kompetente institusjon, som skal yte trygd etter lovgivningen som gjelder for denne institusjonen. Hovedregelen om utbetaling direkte fra den kompetente institusjon etter dennes lovgivning skiller kontantytelsene fra naturalytelsene.[^946] For naturalytelser er hovedregelen at medlemmet har rett til ytelser fra oppholdsstatens institusjon, i tråd med lovgivningen som gjelder der. Disse ytelsene «gis på vegne av» den kompetente institusjon, noe som innebærer at utgiftene til ytelsene skal refunderes «fullt ut» av denne.[^947]
 
-Narvland, Runar
+Forordning 883/2004 artikkel 21 reiser særlig to tolkningsspørsmål. Det ene er spørsmålet om når et medlem er omfattet av bestemmelsen, og det andre er spørsmålet om bestemmelsen stiller krav til nasjonale regler om trygd.
 
-«Kommentar til folketrygdloven» i Norsk lovkommentar,
-Gyldendal Rettsdata 2020. Hentet 10. juni 2020.
+#### Anvendelsesområdet for artikkel 21
 
-Sejersted, Fredrik, Finn Arnesen,
-Ole-Andreas Rognstad, Sten Foyn
-og Olav Kolstad
+Spørsmålet om når et medlem er omfattet av bestemmelsen, er spørsmålet om når vedkommende «bor eller oppholder seg» i en annen medlemsstat. Forordningen definerer bosted og opphold i artikkel 1 bokstav j og k. Bosted er «stedet der en person til vanlig er bosatt», og opphold er «midlertidig bosted». Det er sikker EØS-rett at begrep som er definert i en rettsakt, skal tolkes autonomt og forstås likt i alle bestemmelser i rettsakten med mindre det er særlige holdepunkter for noe annet.[^948] Dette medfører at bruken av begrepene «bosted» og «opphold» i ulike sammenhenger i forordningen, kan kaste lys over hvordan begrepene er å forstå.
 
-EØS-rett. 1. utg., Oslo: Universitetet i Oslo, Senter for Europarett, 1995.
+Definisjonen av opphold som «midlertidig bosted» kan indikere at det ligger et kvalifiserende element i hva forordningen regner som opphold. Det kan fremstå som anstrengt å se det slik at en person på et par dagers opphold i et annet land, har midlertidig bosted der. Sagt med andre ord, kan ordlyden forstås slik at det finnes former for tilstedeværelse i et annet land som verken er bosettelse eller «opphold». Forstått slik, kommer bestemmelsen ikke til anvendelse på de mer kortvarige opphold i utlandet. Grunnlaget for slik forståelse svekkes imidlertid om man også tar de øvrige språkversjonene i betraktning. Den danske språkversjonen definerer «ophold» som «midlertidigt ophold». Den indikerer dermed ikke noen terskel for hva som er opphold. Det gjør heller ikke den tyske språkversjonen. Den definerer «Wohnort» som «den Ort des gewöhnlichen Aufenthalts einer Person», mens «Aufenthalt» blir definert som «vorübergehend Aufenthalt».[^949]
 
-Sejersted, Fredrik, Finn Arnesen,
-Ole-Andreas Rognstad, Sten Foyn
-og Olav Kolstad
+Begrepsparet «bosted» og «opphold» brukes også i bestemmelser som gjelder rett til helsehjelp i et annet medlemsland enn trygdestaten, se artiklene 17 til 20. Disse bestemmelsene tar sikte på å dekke alle situasjoner hvor en person kan kreve naturalytelser i en annen EØS-stat enn den hvis trygdeordning vedkommende er medlem av.[^950] Det følger av dette at begrepsparet «bosted» og «opphold» i disse bestemmelsene samlet omfatter alle former for tilstedeværelse i et annet land. Begrepet «opphold» må dermed omfatte også den helt kortvarige tilstedeværelse.
 
-EØS-rett. 2. utg., Oslo: Universitetsforlaget, 2004.
+Konklusjonen må etter utvalgets oppfatning etter dette bli at begrepene «opphold» og «bosted» samlet sett omfatter alle former for tilstedeværelse. Sagt med andre ord, er det slik at enten «bor» man i et land, eller så «oppholder» man seg der. Noen tredje form for tilstedeværelse er det ikke rom for.
 
-Sejersted, Fredrik, Finn Arnesen,
-Ole-Andreas Rognstad
-og Olav Kolstad
+Det er hevdet at artikkel 21 må leses i lys av gjennomføringsforordningen 987/2009 artikkel 27, og at den tilsier at artikkel 21 har et snevrere anvendelsesområde enn en isolert lesning gir inntrykk av.[^951] Gjennomføringsforordningen gjennomfører trygdeforordningens regler. Utvalget mener det ikke kan sluttes noe sikkert om anvendelsesområdet til artikkel 21 fra den omstendighet at artikkel 27 koordinerer situasjonen hvor en person blir syk i en annen EØS-stat enn trygdestaten. Dette fordi det er der medlemmet blir syk i utlandet at det er behov for regler om hvordan sykdom dokumenteres. Når medlemmet blir syk i trygdestaten, kommer denne statens regler om dokumentasjon av sykdom til anvendelse, og det er ikke nødvendig å koordinere med andre staters myndigheter. Samtidig er situasjonen der sykdom inntreffer under opphold i en annen stat enn trygdestaten bare én av de situasjoner artikkel 21 omfatter.[^952]
 
-EØS-rett. 3. utg., Oslo: Universitetsforlaget, 2011.
+#### Innholdet i artikkel 21
 
-Strandbakken, Asbjørn
+a\) Innledning
 
-«Retten til bistand av forsvarer ved politiavhør. En kritisk
-vurdering av Rt. 2015 s. 844 og forslaget til ny straffeprosesslov» i Straff og frihet: Til vern om den liberale rettsstat:
-Festskrift til Tor-Aksel Busch. Knut Erik Sæther, Runar
-Torgersen, Ulf Stridbeck og Kjerstin A. Kvande (red.),
-Oslo: Gyldendal, 2019, s. 559–578.
+Artikkel 21 regulerer, som utvalget allerede har påpekt, hvilken institusjon som skal utrede en kontantytelse, og hvilken lovgivning institusjonen skal anvende i denne forbindelse. Spørsmålet i det følgende er om artikkel 21 er til hinder for at det knyttes vilkår til kontantytelser som begrenser muligheten til å motta dem der man befinner seg i et annet land enn trygdestaten.
 
-Svele, Ane-Louise
+Det er to tilnærminger til dette spørsmålet. En mulig tilnærming er å legge vekt på at bestemmelsen henviser til nasjonal lovgivning («rett til kontantytelser fra den kompetente institusjon *i samsvar med lovgivningen den anvender*»). Lest på denne måten blir artikkel 21 i det vesentlige en henvisningsbestemmelse, ikke en bestemmelse som i seg selv gir rettigheter. En annen tilnærming vil være å ta utgangspunkt i ordene «*skal ha rett til kontantytelser*», og på denne måten lese en rettighet inn i bestemmelsen.
 
-«Arbeidsavklaringspenger – en ny ytelse fra folketrygden»,
-Tidsskrift for Erstatningsrett, forsikringsrett og velferdsrett Vol 7,
-nr 01–02 (2010), s. 42–75.
+Forskjellen mellom tilnærmingene ligger i at dersom man legger den første, henvisningstilnærmingen, til grunn, vil forordningen ikke ha betydning for trygdestatens adgang til å begrense mulighetene til å motta kontantytelser utenlands. Eventuelle begrensninger vil måtte søkes i annen EØS-rett. Dersom rettighetstilnærmingen legges til grunn, vil den omstendighet at forordningen gir en slik rett, ha selvstendig betydning ved vurderingen av vilkår knyttet til mottakelsen av kontantytelser.
 
-Troberg, Peter
+Den rettslige betydningen av valget mellom disse to tolkningsalternativene beror på hvilke begrensninger øvrig EØS-rett setter for adgangen til å knytte betingelser til rett til kontantytelser under sykdom som vanskeliggjør utenlandsreiser. Dersom øvrig EØS-rett gir trygdestaten større handlingsrom, eventuelt i relasjon til noen grupper medlemmer, vil det ha selvstendig betydning å forstå forordning 883/2004 som en rettighetsbestemmelse. Dersom man ser det slik at øvrig EØS-rett setter begrensninger som samsvarer med dem forordning 883/2004 lest som en rettighetsbestemmelse setter, har det liten rettslig betydning om den leses som en rettighets- eller henvisningsbestemmelse.
 
-Troberg i Kommentar zum EU-/EG-Vertrag. Hans von der
-Groeben, Jochen Thiesing og Claus-Dieter Ehlermann red.,
-5. utg., Baden-Baden: Nomos, 1997.
+b\) Henvisningstilnærmingen
 
-Wennerås, Pål
+Forordning 883/2004 artikkel 21 viser til «den kompetente institusjon» og «den kompetente medlemsstats lovgivning» i samme setning. Dette kan tale for at bestemmelsen regulerer valget av institusjon og lovgivning, men selv ikke stiller krav til innholdet i lovgivningen.
 
-Article 6 Homogeneity, i Agreement on the European Economic
-Area: A Commentary, Arnesen, Finn, Halvard Haukeland
-Fredriksen, Hans Petter Graver, Ola Mestad, Christoph
-Vedder (red.), Baden-Baden, C.H.Beck, Hart, Nomos,
-Universitetsforlaget, 2018.
+Den systematiske plasseringen av bestemmelsen, i forordningens avdeling om særlige bestemmelser om de ulike typer ytelser, støtter dette. Bestemmelsene i denne avdelingen regulerer hovedsakelig hvilken institusjon som skal utrede ytelsen, etter hvilken lovgivning det skal skje, og hvem som skal bekoste ytelsen der medlemmet befinner seg i en annen EØS-stat enn trygdestaten.
 
-Westerhäll, Lotta
+Standpunktet om at bestemmelsen, i det minste i det alt vesentlige, er en kanaliseringsbestemmelse, støttes også av forordningens hjemmelsgrunnlag. Forordningen har hjemmel i TEUF artikkel 48 og 352.[^953] Artikkel 48 hjemler tiltak som er nødvendige for å gjennomføre fri bevegelighet for arbeidstakere, mens artikkel 352 hjemler tiltak der traktaten for øvrig ikke gir hjemmel. Det er videre slik at EU-lovgiver er gitt kompetanse til å harmonisere medlemsstatenes velferdslovgivning, men hjemmelen til det følger av TEUF artikkel 153, og denne er ikke brukt. Endelig er EU- lovgiver gitt eksplisitt kompetanse til å vedta tiltak som gjelder trygd der det er nødvendig for å sikre unionsborgernes rett til fri bevegelighet.[^954] Heller ikke denne hjemmelen er brukt. Når det bare er artikkel 352 av de benyttede hjemmelsgrunnlagene som hjemler harmoniseringstiltak, og den ikke gir kompetanse til harmonisering som kunne hatt hjemmel i artikkel 153, følger det at forordningen i store trekk bygger på bestemmelser som kun hjemler koordinering, ikke harmonisering.
 
-«Grunnprinsipper om koordinering av trygdeytelser» i
-Trygdeytelser i Europa: vandrearbeideres rett til ytelser fra ulike
-europeiske trygdeordninger etter forordning (EØF) 1408/71.
-Asbjørn Kjønstad red., Oslo: Gyldendal, 1999, s. 21–40.
+Artikkel 21 nr. 1 kommer til anvendelse der en person bor eller oppholder seg i en annen EØS-stat enn trygdestaten. Det kan hevdes at bestemmelsen regulerer situasjonen der medlemmet befinner seg i et annet land enn trygdestaten, men ikke selv gir rett til kontantytelser. Forstått på denne måten må retten til ytelsen forankres annetsteds enn i artikkel 21. Det kan videre hevdes at henvisningen i artikkel 21 til den kompetente medlemsstats lovgivning nettopp er en henvisning til hvor retten til ytelsen må forankres. Eventuelle begrensninger i muligheten til å motta kontantytelser under sykdom ved opphold utenlands må da vurderes mot andre regler enn de som følger av forordning 883/2004 – typisk de alminnelige reglene om fri bevegelighet for arbeidstakere og selvstendig næringsdrivende.
 
-Øyen, Ørnulf
+Det siste innebærer i det vesentlige at selv om man ser artikkel 21 som en henvisningsbestemmelse, vil EØS-retten – som følge av de alminnelige reglene om fri bevegelighet – være til hinder for at en kontantytelse nektes utelukkende med den begrunnelse av medlemmet oppholder seg i en annen EØS-stat.
 
-Straffeprosess. 2. utg., Bergen: Fagbokforlaget, 2019.
+c\) Rettighetstilnærmingen
 
-[Side 281]
+Ordlyden i bestemmelsen, «rett til kontantytelser», kan som sagt tilsi at forordningen ikke bare koordinerer nasjonale trygdeordninger, men også gir en rett til å motta kontantytelser fra trygden mens man er i andre EØS-land. Øvrige språkversjoner bruker også uttrykk som kan tilsi at medlemmet har en slik rett.[^955] Tolkningen har en viss støtte i fortalen punkt 20, som fremhever hensynet til å beskytte den som oppholder seg i en annen medlemsstat enn den kompetente.[^956]
 
-NOU 2020: 9
-Blindsonen
+Artikkel 7 bestemmer at kontantytelser ikke kan reduseres, endres, stanses eller beslaglegges som følge av at medlemmet eller familien er bosatt i en annen EØS-stat enn den der institusjonen som har ansvar for å gi ytelsene ligger. En «rettighetslesning» av artikkel 21 vil innebære at den regelen som etter artikkel 7 gjelder der et medlem er bosatt i en annen EØS-stat, også gjelder der vedkommende oppholder seg i en annen EØS-stat og mottar kontantytelser under sykdom.
 
-279
+Artikkel 21 nr. 1 kommer til anvendelse der en person bor eller oppholder seg i en annen EØS-stat enn trygdestaten. Det kan derfor hevdes at bestemmelsen bare gir mening dersom medlemmet har rett til kontantytelser i slike situasjoner.
 
-Referanse- og litteraturliste
+Det foreligger ingen avgjørelser fra EU-domstolen om forståelsen av forordning 883/2004 artikkel 21. EU-domstolen har imidlertid tatt stilling til lignende spørsmål som dem artikkel 21 reiser i saker som gjelder de tidligere forordning 1408/71.
 
-Lovgivning
-Norske lover og forskrifter
-1814
+Sak C-430/15 *Tolley* gjaldt en britisk kvinne, Tolley, som mottok kontantytelser til dekning av særskilte pleiebehov. I henhold til britisk lovgivning var ytelsen betinget av bosted og opphold i Storbritannia. Da Tolley flyttet til Spania, ble hun derfor nektet ytelsen. Tolley utfordret nektelsen, og saken ble forelagt EU-domstolen. EU-domstolen vurderte lovligheten av det britiske bosteds- og oppholdskravet etter artikkel 22 første og annet ledd i den forrige trygdeforordningen (1408/71). Etter denne bestemmelsen skal en arbeidstaker eller selvstendig næringsdrivende som har rett til ytelser i trygdestaten, ha rett til kontantytelser fra den kompetente institusjon når vedkommende er i en annen medlemsstat. EU-domstolen fant at artikkel 22 regulerte Tolleys situasjon, og uttalte deretter at
 
-Lov 17. mai 1814 Kongeriket Norges grunnlov (Grunnloven).
+«bestemmelse\[n\] fastsætter nemlig retten for en arbejdstager eller selvstændig erhvervsdrivende, som opfylder de i den kompetente stats lovgivning foreskrevne betingelser, til at modtage kontantydelser udbetalt af den kompetente institution efter vedkommendes flytning til en anden medlemsstats område».[^957]
 
-1902
+EU-domstolen gikk så nærmere inn på den britiske lovgivningens krav til bosted og opphold for å motta ytelsen, og fant at en tolkning av forordningen som gjorde det mulig å fastsette en generell betingelse om bosted ville «betyde at denne bestemmelse helt ville miste sit inhold».[^958] EU-domstolen kom derfor til at
 
-Lov 22. mai 1902 nr. 10 almindelig borgerlig straffelov (Straffeloven) [opphevet].
+«artikel 22, stk. 1, litra b), er til hinder for, at en kompetent stat underlægger bevarelsen af retten til en ydelse som ydelsen i hovedsagen en betingelse om bopæl og om ophold på medlemsstatens område».[^959]
 
-1915
+EU-domstolen forankrer resultatet i forordningen, uten å gå veien om en drøftelse av spørsmålet om bostedskravet var en ulovlig restriksjon etter de alminnelige reglene om fri bevegelighet. Samtidig er avgjørelsen temmelig konkret. Den er knyttet opp til den ytelsen Tolley mottok, og det er vanskelig å se at et bostedskrav knyttet til en ytelse av denne karakteren i det hele tatt kan begrunnes.
 
-Lov 13. august 1915 nr. 5 om domstolene (domstolloven).
+Avgjørelsen illustrerer EU-domstolens tilnærming til tolkningen av koordineringsbestemmelser i trygdeforordningene. Vilkår i nasjonal rett som fullstendig undergraver bestemmelsens formål, kan ikke opprettholdes. En slik tolkning er også godt i samsvar med den alminnelige retten til fri bevegelighet for personer unionsborgerskapet gir grunnlag for i EU.
 
-1949
+Et siktemål med EØS-avtalen er at den skal gi grunnlag for de samme regler som dem som gjelder i EU, på de områder avtalen dekker. EFTA-domstolens praksis viser at den strekker seg langt for å realisere denne homogenitetsmålsettingen, slik at den søker å finne grunnlag for å oppstille samme regel i EØS som den som gjelder i EU.[^960] Dette fordi man da får den samme regelen i EØS som i EU.
 
-Lov 28. juli 1949 nr. 26 om Statens pensjonskasse.
+Selv om bestemmelsen forstås som en rettighetsbestemmelse, finner ikke utvalget rettskildemessig dekning for å forstå bestemmelsen slik at den er til hinder for at det knyttes vilkår til mottakelsen av kontantytelser som reelt sett kan gjøre det vanskelig å reise utenlands. Slike vilkår må imidlertid tilfredsstille de krav EU- og EØS-retten stiller til hindringer for fri bevegelighet for personer, både med hensyn til begrunnelse og med hensyn til utforming.
 
-1962
+#### Spørsmålet om forordning 883/2004 artikkel 21 medfører endringer i den adgangen til å knytte vilkår til mottak av kontantytelser under sykdom som følger av annen EØS-rett
 
-Forskrift 9. mai 1962 nr. 1 Instruks for Regjeringsadvokaten.
+Utvalget forstår forordning 883/2004 artikkel 21 slik at den er til hinder for at kontantytelser nektes eller reduseres *utelukkende* med den begrunnelse at mottakeren befinner seg i en annen EØS-stat. Dette medfører at også personer som ikke har gjort bruk av den rett til fri bevegelighet bestemmelsene i EØS-avtalens hoveddel gir, har rett til å motta kontantytelser under sykdom fra trygdestaten når de er i andre EØS-stater. Denne retten er imidlertid ikke absolutt og ubetinget. Medlemmet må finne seg i at det knyttes betingelser til ytelsen, for eksempel at man underkaster seg behandling, følger kurs eller lignende. Slike betingelser kan begrense muligheten til å reise utenlands, men må likevel kunne opprettholdes dersom de tilfredsstiller EØS-rettens krav til lovlige hindringer for fri bevegelighet. Noe annet ville medføre at forordningen rent faktisk harmoniserte medlemsstatenes utforming av sine trygdeordninger, og det gjør forordningen klart ikke. Det nærmere innholdet i disse kravene kommer utvalget tilbake til i punkt 4.4 flg. nedenfor.
 
-1965
+Når EU-domstolen har uttalt at motstykket til forordning 883/2004 artikkel 21 er til hinder for nasjonale tiltak som undergraver formålet med bestemmelsen, nemlig at medlemmet skal kunne motta kontantytelser når vedkommende er utenlands, er dette etter utvalgets oppfatning ikke uttrykk for noe vesentlig annet enn det som følger av reglene om fri bevegelighet for personer.[^961] Rene oppholdskrav som betingelse for rett til kontantytelser vil alltid være en restriksjon på de alminnelige reglene om fri bevegelighet. Dette innebærer at når forordningen forstås som EØS-rett, er den, uavhengig av hva man ellers måtte mene om hvilke løsninger øvrig EØS-rett gir anvisning på, til hinder for at en kontantytelse nektes *utelukkende* med den begrunnelse at mottakeren befinner seg i en annen EØS-stat. Dette er imidlertid ikke ensbetydende med at forordning 883/2004 er til hinder for at knyttes andre betingelser til retten til å motta kontantytelser, som krever opphold på trygdestatens territorium.
 
-Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven).
+#### Forhåndsmelding som vilkår for rett til å motta kontantytelser under sykdom utenlands
 
-1966
+Et særskilt spørsmål er om forordning 883/2004 har selvstendig betydning for trygdestatens adgang til å gjøre muligheten til fortsatt å motta kontantytelser under sykdom utenlands betinget av at medlemmet har fått tillatelse eller gitt forhåndsmelding. Bakgrunnen for problemstillingen er at forordning 1408/71 hadde uttrykkelige regler om forutgående tillatelse som betingelse for å motta kontantytelser etter flytting til annen EØS-stat, og for å motta planlagt medisinsk behandling i en annen EØS-stat på trygdestatens regning. Disse reglene fremgikk av forordningens artikkel 22, som utvalget har redegjort for i punkt 3.2. Forordning 883/2004 artikkel 21 inneholder ikke tilsvarende regler.
 
-Lov 16. desember 1966 nr. 9 om anke til Trygderetten (trygderettsloven).
+Uttalelser i fortalen til forordning 883/2004 viser at EU-lovgiver hadde et bevisst forhold til tillatelseskrav under lovgivningsprosessen. Se særlig fortalens avsnitt 21, hvor det heter:
 
-1966
+«Bestemmelsene om forhåndstillatelse er blitt bedre ved at de tar hensyn til Domstolens avgjørelser på området.»[^962]
 
-Lov 17. juni 1966 nr. 12 om folketrygd [opphevet].
+For retten til naturalytelser der medlemmet reiser til utlandet med det formål å søke behandling for trygdestatens regning, gir forordning 883/2004 artikkel 20 uttrykkelig adgang til å oppstille krav om forutgående tillatelse. Forordningen angir også på hvilke vilkår trygdestaten kan nekte slik tillatelse.[^963] For kontantytelser inneholder forordning 883/2004 ikke noen tilsvarende hjemmel for å stille krav om forhåndstillatelse.
 
-1980
+Spørsmålet blir derfor om fraværet av hjemmel for å kreve forhåndstillatelse til utenlandsreiser med kontantytelser skal tolkes som et forbud mot en ordning med forhåndstillatelse eller meldeplikt.[^964]
 
-Lov 13. juni 1980 nr. 35 om fri rettshjelp [rettshjelploven].
+Formålet med kontantytelser ved sykdom er å kompensere for manglende inntekt som følge av sykdom. I tillegg kombineres gjerne kontantytelsen med aktivitetsplikter for mottaker. Slike aktivitetsplikter tar sikte på å bringe vedkommende tilbake til arbeidslivet. Der disse aktivitetspliktene er slik at de, uten å være i strid med EØS-retten, krever opphold på trygdestatens territorium, vil medlemmet måtte be om en omlegging av pliktene før utenlandsreise kan foretas. Slike tillatelsesordninger er EØS-retten ikke til hinder for.
 
-1981
+I en annen kategori kommer meldeplikts- og tillatelsesordninger som ikke er foranlediget av behovet for omlegging av EØS-konforme plikter. Spørsmålet er om forordning 883/2004 er til hinder for slike ordninger der det dreier seg om kontantytelser under sykdom.
 
-Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (straffeprosessloven).
+Forordning 1408/71 regulerte situasjonen hvor et medlem returnerte til bosted i en annen EØS-stat enn trygdestaten, eller flyttet dit. Forordningen regulerte ikke kontantytelser ved kortvarige og midlertidige opphold i en annen EØS-stat. Forordning 883/2004 artikkel 21 omhandler mottak av kontantytelser ved alle former for tilstedeværelse i en annen EØS-stat. Det er dermed vesensforskjeller mellom de to forordningene på dette punktet. Den omstendighet at forordning 883/2004 ikke gir hjemmel for forhåndstillatelse, kan derfor ikke uten videre oppfattes som et forbud mot en slik ordning.
 
-1985
+Forordning 1408/71 regulerte kontant- og naturalytelser samlet, mens forordning 883/2004 skiller ut reguleringen av kontantytelser i en egen bestemmelse. For naturalytelser finnes det en omfattende rettspraksis etter reglene om tjenestefrihet, som senere er kodifisert og modifisert i direktiv 2011/24 (pasientrettighetsdirektivet).[^965] Disse rettskildene angir de nærmere betingelsene for å kreve forutgående tillatelse til å motta helsetjenester i utlandet for trygdestatens regning. Det er deler av denne rettspraksisen det vises til når reglene om tillatelseskrav omtales i forarbeidene til forordningen.[^966] Det finnes imidlertid ikke tilsvarende praksis om adgangen til å gjøre rett til kontantytelser betinget av et krav om forutgående tillatelse, og EU-lovgiver hadde dermed heller ikke den samme forutsetningen for å gi generelle regler om når det kan stilles krav om forutgående tillatelse ved kontantytelser.
 
-Forskrift 28. juni 1985 nr. 1679 om ordningen av påtalemyndigheten (påtaleinstruksen).
+Behovet for forhåndstillatelse har ikke den samme begrunnelsen der det dreier seg om naturalytelser som der det er kontantytelser det er tale om. Naturalytelser ytes som hovedregel etter reglene i oppholdsstaten, men for trygdestatens regning.[^967] Dette innebærer at trygdestaten er prisgitt oppholdsstatens behandlingstilbud og kostnadsnivå, noe som kan undergrave nasjonale vurderinger og prioriteringer på helseområdet og andre områder, i tillegg til å skape ubalanse i trygdestatens trygdeordninger. Kontantytelser ytes etter trygdestatens regler, og er heller ikke påvirket av kostnadsnivået der mottakeren oppholder seg. Eksport av kontantytelser reiser dermed til dels andre utfordringer enn rett til behandling utenlands gjør. Dette utelukker likevel ikke at trygdestaten kan ha et legitimt behov for oppfølging av medlemmet og kontroll med at vilkårene for å motta kontantdelen av ytelsen foreligger. I tillegg vil hensyn knyttet til selve opprettholdelsen av ordningenes legitimitet og oppslutningen om dem komme inn.[^968]
 
-1992
+Etter utvalgets oppfatning kan den omstendighet at forordning 883/2004 ikke gir hjemmel for en tillatelsesordning, ikke tolkes som et forbud mot å stille krav om tillatelse eller forhåndsmelding før en utenlandsreise. Hvorvidt en ordning med forhåndstillatelse eller meldeplikt skal aksepteres, må da avgjøres etter reglene om fri bevegelighet.
 
-Lov 27. november 1992 nr. 109 om gjennomføring i norsk rett av hoveddelen i avtale om
-Det europeiske økonomiske samarbeidsområde (EØS) m. v. (EØS-loven).
+#### Sammenfatning
 
-1992
+Forordning 883/2004 regulerer situasjonen der medlemmet befinner seg i en annen EØS- stat enn trygdestaten. Forordningen gjør det helt klart at også medlemmer som ikke har benyttet den rett til fri bevegelighet EØS-retten gir, er omfattet av retten til å motta kontantytelser i en annen EØS-stat enn trygdestaten.
 
-Forskrift 4. desember 1992 nr. 914 om inkorporasjon av trygdeforordningen i EØS-avtalen.
+Drøftelsene har vist at artikkel 21 ikke gir medlemmet en ubetinget rett til å motta trygdeytelser der vedkommende befinner seg i en annen EØS-stat enn trygdestaten. Bestemmelsen forbyr ikke trygdestaten å stille krav om forhåndstillatelse eller meldeplikt ved reise utenlands. EØS-retten er imidlertid til hinder for at kontantytelser nektes eller reduseres *utelukkende* med den begrunnelse at vedkommende oppholder seg i en annen EØS-stat.
 
-1997
+I hvilken utstrekning det kan knyttes vilkår til mottak av kontantytelser under sykdom som kan begrense muligheten til å oppholde seg i andre EØS-land, må vurderes som etter EU-retten. Som det vil fremgå av punkt 4.4 flg., innebærer dette
 
-Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).
+- at de hensyn som forfølges gjennom vilkårene, må være slike som EØS-retten anerkjenner,
 
-1997
+- at de vilkårene som stilles, må være egnet til å oppnå de hensynene som begrunner dem,
 
-Forskrift 3. desember 1997 om salær fra det offentlige til advokater m.v.
+- at de vilkårene som stilles, må være proporsjonale og ikke medføre større begrensninger i muligheten til å oppholde seg i andre EØS-stater enn det som er nødvendig for å ivareta de aktuelle hensynene.
 
-1998
+Forordning 883/2004 innebærer med andre ord at de nærmere grensene for hvilke vilkår en EØS-stat lovlig kan knytte til mottak av kontantytelser under sykdom, beror på vurderinger som svarer til dem man gjør etter de alminnelige reglene om fri bevegelighet for personer i EU-retten.
 
-Forskrift 16. september 1998 nr. 890 om dagpenger under arbeidsløshet.
+#### Opplegget videre
 
-1999
+Drøftelsen foran har vist at de begrensninger forordning 883/2004 medfører for trygdestatens mulighet til å knytte betingelser som forutsetter opphold på trygdestatens territorium til mottak av kontantytelser under sykdom, må fastlegges med grunnlag i de begrensninger i den frie bevegelighet for personer EU- og EØS-retten tillater. Reglene om fri bevegelighet er som nevnt bygget opp slik at de i utgangspunktet forbyr restriksjoner på fri bevegelighet av personer over landegrensene, men tillater restriksjoner som er nødvendige for å beskytte hensyn EU- og EØS-retten anerkjenner, såfremt restriksjonene ikke medfører større begrensninger i den frie bevegeligheten enn de aktuelle hensynene kan rettferdiggjøre.
 
-Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettighetsloven).
+Restriksjonsforbudet medfører at utvalget må ta stilling til fem spørsmål: Det første spørsmålet er om det å knytte krav til syke-, arbeidsavklarings- eller pleiepenger som krever opphold på trygdestatens territorium, er å anse som en restriksjon på den frie bevegelighet. Det andre spørsmålet er om de hensyn slike krav skal ivareta, er hensyn EØS-retten anerkjenner. Det tredje spørsmålet er om de kravene som stilles, er egnet til å ivareta de aktuelle hensynene. Det fjerde spørsmålet er om hensynene kan ivaretas med tiltak som virker mindre begrensende på fri bevegelighet. Det femte og siste spørsmålet er om de hensynene som ivaretas, er tungtveiende nok til å legitimere den nødvendige begrensningen i fri bevegelighet.
 
-2001
+I de neste avsnittene redegjør derfor utvalget nærmere for restriksjonsbegrepet, det vil si hva som i det hele tatt skal til for at noe kvalifiserer som en hindring for fri bevegelighet. Deretter redegjøres det for de krav som må være tilfredsstilt for at et tiltak som kvalifiserer som en restriksjon, likevel skal la seg forene med EU- og EØS-retten.
 
-Lov 2. mars 2001 nr. 7 om endring i straffeloven og straffeprosessloven (bruken av varetektsfengsling m.v.).
+### Restriksjonsbegrepet
 
-2004
+#### Generelt
 
-Lov 28. mai 2004 nr. 29 om register over opplysninger om valutaveksling og overføring av
-betalingsmidler inn og ut av Norge (valutaregisterloven).
+Reglene om fri bevegelighet i EU- og EØS-retten forbyr som et utgangspunkt restriksjoner på den frie bevegeligheten. For så vidt gjelder det nærmere innholdet i restriksjonsbegrepet, er dette omtalt i punkt 1.2.2. Utvalget minner derfor bare om EFTA- domstolens uttalelse i *Holship*, som senere fikk tilslutning fra et samlet Høyesterett,[^969] hvor det ble lagt til grunn at
 
-2005
+«Tiltak som kan hindre utøvelsen av de grunnleggende friheter som sikres i EØS-avtalen, eller gjøre den mindre interessant, er, selv om de får anvendelse uten hensyn til nasjonalitet, en krenkelse av disse friheter som må rettferdiggjøres».[^970]
 
-Lov 20. mai 2005 nr. 28 om straff (straffeloven).
+Restriksjonsforbudene gir likevel ingen garanti for at flytting ikke kan ha negative virkninger for personens trygderettigheter.[^971]
 
-2005
+Spørsmålet blir etter dette om betingelser for å motta syke-, pleie- eller arbeidsavklaringspenger som forutsetter opphold på trygdestatens territorium, kan hindre eller gjøre mindre attraktiv utøvelsen av retten til fri bevegelighet. Dette spørsmålet må uten videre kunne besvares bekreftende.
 
-Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven).
+Utvalget finner grunn til å påpeke at ytelsene det er tale om i denne sammenheng, gis der en person er for syk til å arbeide, ikke kan arbeide som før, eller noen i nær familie trenger så omfattende omsorg og pleie at det ikke lar seg forene med annet arbeid. I slike situasjoner kan det også være aktuelt å støtte seg på familie og annet nettverk. Det kan ikke være tvil om at vilkår som vanskeliggjør utenlandsopphold rammer statsborgere fra andre EØS-stater hardere enn norske statsborgere. Statsborgere fra andre EØS-stater har gjerne familie og nettverk i andre EØS-stater enn Norge, mens norske statsborgere som regel har sin familie og sitt nettverk i Norge. Utvalget finner det derfor klart at slike betingelser ikke bare er å anse som restriksjoner på fri bevegelighet for personer i sin alminnelighet, men også som restriksjoner på fri bevegelighet av arbeidskraft og på etableringsretten.
 
-2005
+Utvalget legger etter dette til grunn at en rekke av de plikter som knyttes til mottak av kontantytelser, som aktivitets-, fremmøte- og tilstedeværelsesplikter, kvalifiserer som restriksjoner på fri bevegelighet. For at slike restriksjoner skal være forenlige med EØS- retten, må de rettferdiggjøres av hensyn som EØS-retten anerkjenner.
 
-Forskrift 12. desember 2005 nr. 1442 om salær fra det offentlige til advokater m.fl. etter faste
-satser (stykkprissatser) ved fri rettshjelp og i straffesaker.
+#### Særlig om sanksjoner som restriksjoner
 
-2006
+Der nasjonal lovgivning inneholder plikter, vil den gjerne også inneholde sanksjoner for pliktbrudd. På trygdeområdet vil aktuelle sanksjoner kunne være tap av retten til ytelsen, eller ulike former for straffesanksjoner. Der den aktuelle plikten er en restriksjon EØS- retten ikke tillater, kan pliktbrudd ikke straffes.[^972] Det følger imidlertid av EU-domstolens praksis at selv om den plikten det er aktuelt å sanksjonere brudd på, er forenlig med EØS- retten, kan sanksjonen i seg selv være en ulovlig restriksjon. I sak 118/75 *Watson og Belmann* uttalte EU-domstolen at en straffebestemmelse ikke må stå
 
-Lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) [NAV-loven].
+«i et sådant misforhold til lovovertrædelsens grovhed, at den kommer til at udgøre en hindring for den frie bevægelighed for personer;»[^973]
 
-2006
+Strafferetten er i utgangspunktet et nasjonalt anliggende. Det skal derfor en del til før sanksjoner i seg selv kvalifiserer som restriksjoner. Samtidig er oppholdskrav, aktivitetsplikter og ulike former for meldeplikter som vanskeliggjør opphold i andre EØS-stater, restriksjoner på den frie bevegelighet. Det betyr at sanksjoner for brudd på pliktene må holde seg innenfor EØS-rettens rammer. Sanksjoner for brudd på restriksjoner som er forenlige med EØS-retten, vil derfor være i strid med EØS-retten der sanksjonen i seg selv står i et slikt «misforhold til lovovertrædelsens grovhed» at den utgjør en uforholdsmessig restriksjon på den frie bevegelighet.
 
-Forskrift 30. juni 2006 nr. 731 om inkorporasjon av trygdeforordningene i EØS-avtalen [opphevet].
+Vurderingstemaet gir anvisning på en vurdering av forholdet mellom en bestemt lovovertredelse og den etterfølgende sanksjonen. Utvalget finner ikke grunn til å foreta en nærmere vurdering av sanksjonene for brudd på plikter knyttet til retten til syke-, pleie-, eller arbeidsavklaringspenger. Utvalget vil likevel fremheve at det – selv i de situasjoner hvor plikten er forenlig med EØS-retten – må vurderes særskilt om sanksjonene ved pliktbrudd er det.
 
-2012
+### Hensyn EØS-retten anerkjenner
 
-Forskrift 22. juni 2012 nr. 585 om inkorporasjon av trygdeforordningene i EØS-avtalen
-(trygdeforordningsforskriften).
+#### Generelt
 
-2012
+Krav eller tiltak etter nasjonal rett som utgjør restriksjoner på fri bevegelighet, kan opprettholdes såfremt de er rettferdiggjort. Rettferdiggjøring krever at de hensyn som tiltaket skal beskytte er anerkjent av EØS-retten, og at tiltaket fremstår som et egnet og proporsjonalt virkemiddel. EU-domstolen har fastslått gjentatte ganger at det
 
-Forskrift 7. juni 2012 nr. 518 Stortingets forretningsorden.
+«følger af fast retspraksis, at en foranstaltning, der kan hindre den frie bevægelighed for arbejdstagere, der er sikret ved artikel 45 EF, kun kan tillades, hvis den har et lovligt formål, som er foreneligt med traktaten og er begrundet i tvingende almene hensyn.»[^974]
 
-2016
+Sak C-406/04 *De Cuyper* gjaldt krav om bosted i trygdestaten som betingelse for å motta dagpenger under arbeidsløshet. Etter å ha fastslått at bopelskravet utgjorde en restriksjon på fri bevegelighet, uttalte domstolen:
 
-Forskrift 19. februar 2016 nr. 184 Instruks om utredning av statlige tiltak (utredningsinstruksen).
+«I den foreliggende sag beror bopælskravet på hensynet til kontrollen med de arbejdsløses erhvervs- og familiemæssige situation. I kraft af bopælskravet har ONEM’s inspektionstjenester nemlig mulighed for at efterprøve, om situationen for de personer, som oppebærer arbejdsløshedsydelser, har gennemgået nogen ændringer af betydning for den udbetalte ydelse. Hermed er kravet begrundet i objektive almene hensyn, som er uafhængige af de berørte personers nationalitet.»[^975]
 
-2017
+EU-domstolen har videre lagt til grunn at EU-retten ikke kan gjøres gjeldende for å muliggjøre svik eller misbruk.[^976] Hensynet til kontroll med at betingelsene for å motta den aktuelle ytelsen foreligger, og mer generelt hensynet til å hindre misbruk av nasjonale trygdeordninger, kan dermed begrunne restriksjoner på den frie bevegelighet.
 
-lov 16. juni 2017 nr. 43 om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv).
+De betingelsene som knyttes til mottak av syke-, pleie-, og arbeidsavklaringspenger er begrunnet i hensynet til å bringe personer tilbake til arbeidslivet og fremme full sysselsetting.[^977] Dette er hensyn som gjenfinnes i EØS-avtalens fortale og i avtalens del V. Hensynene er også godt i samsvar med bestemmelser i TEUF. Utvalget vil særlig fremheve TEUF artikkel 51, hvor varig høy sysselsetting uttrykkelig nevnes blant de mål medlemsstatene og EU skal arbeide mot.
 
-2018
+Utvalget legger etter dette til grunn at flere av de plikter det kan være aktuelt å knytte til mottak av syke-, pleie-, og arbeidsavklaringspenger, forfølger hensyn EØS-retten anerkjenner.
 
-Lov 15. juni 2018 nr. 38 om behandling av personopplysninger (personopplysningsloven).
+Domstolene skal etterprøve at det hensynet som anføres som begrunnelse for en restriksjon, rent faktisk er den reelle begrunnelsen («the real justification»).[^978] Dette innebærer at krav som i realiteten er motivert av rene økonomiske eller administrative hensyn, ikke «renvaskes» av at de også kan hevdes å forfølge et tillatt hensyn som ikke utgjør den reelle begrunnelsen for restriksjonen.[^979] Omvendt vil krav som reelt er begrunnet i hensyn EØS-retten anerkjenner, ikke «forurenses» av at de også bidrar til å realisere hensyn EØS-retten ikke anerkjenner.[^980]
 
-2019
+#### Særlig om hensynet til et bærekraftig trygdesystem
 
-Lov 20. desember 2019 nr. 85 om informasjonstilgang mv. for utvalget for ekstern gransking av
-saken knyttet til feilaktig praktisering av adgangen til å motta sykepenger, arbeidsavklaringspenger og pleiepenger ved opphold i et annet EØS-land.
+Trygdeytelser er en stor utgift for staten.[^981] Universelle trygdeordninger finansieres i hovedsak gjennom skatteinntekter. Formålet om å opprettholde en universell velferdsstat og en bærekraftig trygdeordning, avhenger av kontroll med trygdens utgifter. Hensynet til å sikre en bærekraftig velferdsstat, som kommer alle innbyggere til gode, anses som et legitimt hensyn av allmenn interesse som kan begrunne restriksjoner på den frie bevegelighet for personer. Dette kan illustreres med EU-domstolens avgjørelse i sak C- 651/16 *DW* hvor den uttaler:
 
-[Side 282]
+«\[S\]elv om en begrundelse af rent økonomisk karakter ikke kan udgøre et tvingende alment hensyn, der kan begrunde en begrænsning af en grundlæggende frihed, der er sikret i traktaten, kan en national lovgivning imidlertid udgøre en sagligt begrundet hindring for en grundlæggende frihed, når den er nødvendig af økonomiske grunde og forfølger et mål om almene hensyn. Det kan således ikke udelukkes, at en risiko for et alvorligt indgreb i den sociale sikringsordnings økonomiske ligevægt kan udgøre et tvingende alment hensyn, som kan begrunde, at der gøres indgreb i traktatbestemmelserne om arbejdskraftens frie bevægelighed.»[^982]
 
-280
+Et argument i samme retning er hensynet til trygdeordningens legitimitet. Det kan utfordre trygdeordningens legitimitet om medlemmer som ikke kan arbeide på grunn av sykdom, og derfor mottar kontantytelser, benytter disse til å reise på ferie utenlands mens folk som er friske må gå på jobb og holde samfunnsmaskineriet i gang. Utvalget vil påpeke at EØS-retten, som vist, i utgangspunktet stiller medlemsstatene fritt i utformingen av sine trygdesystemer. Utvalget vil derfor anta at EØS-retten ikke er til hinder for å utforme trygdeordningen slik at kontantytelser stanses under ferie, uansett hvor denne tilbringes.[^983]
 
-Referanse- og litteraturliste
+### Egnethetskravet
 
-NOU 2020: 9
-Blindsonen
+Det er ikke nok at en restriksjon på fri bevegelighet er motivert av hensyn EØS-retten anerkjenner. Det eller de tiltakene som utgjør restriksjonen, må også være egnet til å ivareta de hensyn som forfølges. I den grad det knyttes betingelser til retten til å motta syke-, arbeidsavklarings- eller pleiepenger som gjør det mindre attraktivt eller vanskeligere å reise til en annen EØS-stat, må disse betingelsene være egnet til å realisere de hensynene som begrunner dem, for eksempel å bringe personen tilbake i arbeid eller muliggjøre kontroll med at vilkårene for å motta ytelsen er tilfredsstilt.
 
-Traktater og konvensjoner
-ODA
+EU-domstolens praksis viser at denne egnethetstesten ikke er særlig streng.[^984] Vurderingstemaet er om restriksjonen er tjenlig til å realisere de hensyn som forfølges. Denne testen suppleres av det vi kan kalle et konsistenskrav, av EFTA-domstolen uttrykt som at restriksjonen «virkelig gjenspeiler et hensyn om å oppnå dette mål på en konsistent og systematisk måte».[^985] Kravet innebærer at de betingelsene som knyttes til retten til å motta syke-, arbeidsavklarings- eller pleiepenger, rent faktisk må forfølge hensynene som begrunner dem på en konsistent måte. Hvordan vurderingen faller ut, vil i praksis bero på de hensynene som forfølges, utformingen av de aktuelle betingelsene, og de konkrete forhold i saken.
 
-Avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en
-domstol. Oporto, 2. mai 1992.
+Utvalget antar imidlertid at et generelt krav om opphold i Norge neppe vil oppfylle dette egnethetskravet der det er hensynet til rask rehabilitering som forfølges.[^986] I disse tilfellene er det vanskelig å se hvorfor det grenseoverskridende elementet skal være avgjørende for rehabiliteringen. Det faktum som lå til grunn for Trygderettens kjennelse TRR-2019-12 kan illustrere poenget. Her hadde medlemmet fått avslag på krav om sykepenger under opphold i utlandet, med den begrunnelse at en flyreise ville kunne forverre helsetilstanden. En slik nektelse kan være velbegrunnet i det enkelte tilfellet. Problemet i forhold til konsistenskravet ligger i at adgangen til å foreta flyreiser innenlands ikke er betinget av samtykke. Et generelt krav om opphold i Norge kan da fremstå som lite egnet og inkonsistent.
 
-EØS-avtalen
+Hensynet til kontroll med at ordningene ikke misbrukes, vil nok lettere tilfredsstille kravet til konsistens. Myndighetenes mulighet til å utøve kontroll er ganske annerledes når medlemmet oppholder seg i Norge enn når vedkommende er utenlands. Dette innebærer at kontrollhensyn kan begrunne at samtykke kreves der medlemmet vil reise utenlands. Det konkrete vedtaket om å kreve opphold på territoriet, eller betingelser knyttet til et samtykke, må i sin tur tilfredsstille de krav som følger av EØS-retten.
 
-Avtale om Det europeiske økonomiske samarbeidsområde. Oporto, 2. mai
-1992.
+### Nødvendighets- eller forholdsmessighetskravet (det minste inngreps prinsipp)
 
-EMK
+Også der det foreligger en restriksjon på fri bevegelighet som både er motivert av hensyn EØS-retten anerkjenner og egnet til å ivareta slike hensyn, vil restriksjonen være uforenlig med EØS-retten dersom den medfører større begrensninger i den frie bevegelighet enn det som er nødvendig for å ivareta det aktuelle hensynet.[^987] I utgangspunktet er det opp til den enkelte EØS-stat å bestemme med hvilken intensitet et hensyn skal beskyttes i nasjonal rett (ofte omtalt som det nasjonale beskyttelsesnivået). Dette innebærer at nødvendighetsvurderingen må ta utgangspunkt i det nivået den enkelte EØS-stat har satt. Vurderingstemaet er så om det aktuelle beskyttelsesnivået kan realiseres med tiltak som virker mindre inngripende i bevegelsesfriheten.
 
-Konvensjon om beskyttelse av menneskerettighetene og de grunnleggende
-friheter. Roma, 4. november 1950.
+For ytelser som tar sikte på å bringe personer tilbake til arbeidslivet, står EØS-statene temmelig fritt til å utforme betingelser som krever opphold på trygdestatens territorium mens man mottar kontantytelser. Så lenge betingelsene er egnet for formålet, og ikke like gjerne kan oppfylles i andre EØS-stater enn trygdestaten, er EØS-retten ikke til hinder for dem.
 
-SP
+Når det gjelder restriksjoner begrunnet i hensynet til kontroll og motvirkning av trygdesvindel, viser avgjørelser fra EU-domstolen at medlemsstatene har en betydelig skjønnsfrihet. Dette illustreres godt av avgjørelsen i sak C-406/04 *De Cuyper*. Saken gjaldt en betingelse om bopel og faktisk bosted i Belgia for rett til dagpenger under arbeidsledighet. De Cuyper hadde oppgitt til belgiske myndigheter at han var enslig og faktisk bodde i Belgia. Realiteten var imidlertid at selv om han hadde en leilighet i Belgia, var han her bare en gang i kvartalet. Ellers oppholdt han seg i Frankrike. Da belgiske myndigheter oppdaget dette, stanset de utbetalingene og krevde utbetalte ytelser tilbakeført. De Cuyper gjorde gjeldende at bopelskravet var en ulovlig restriksjon på fri bevegelighet, mens belgiske myndigheter anførte at bopelskravet var nødvendig av kontrollhensyn.
 
-Den internasjonale konvensjonen om sivile og politiske rettigheter.
-New York, 16. desember 1966. (FN-konvensjonen om sivile og politiske
-rettigheter).
+EU-domstolen fant at bostedskravet utgjorde en restriksjon, og at hensynet til kontroll med at de som mottar ytelser også tilfredsstiller vilkårene for å motta dem, kan begrunne restriksjoner. I forbindelse med spørsmålet om kravet om faktisk bosted var nødvendig, hadde De Cuyper anført at kontrollhensynet kunne ivaretas med tiltak som virket mindre hindrende på fri bevegelighet enn et bostedskrav gjør. EU-domstolen var ikke enig i dette, og uttalte:
 
-TEUF
+«Hvad angår spørgsmålet, om der findes bestemmelser, som indebærer mindre indgribende kontrolforanstaltninger i hovedsagen, såsom de af De Cuyper anførte foranstaltninger, er det ikke godtgjort, at sådanne foranstaltninger er egnede til at sikre opfyldelsen af det tilstræbte formål.
 
-Traktat om den Europæiske Unions funktionsmåde. Konsolidert udgave
-2016 (EUT 2016/C 202/01).
+Effektiviteten af kontrolforanstaltninger som dem, der er anvendt i det foreliggende tilfælde, og som har til formål at efterprøve den arbejdsløses familiemæssige situation, og om han eventuelt råder over indtægter, som han ikke har opgivet, beror i vidt omfang på, at kontrollen foretages uventet, og på muligheden af at foretage kontrollen på stedet, da de kompetente tjenestegrene skal kunne efterprøve, at der er overensstemmelse mellem den arbejdsløses angivelser og dem, der fremgår af de virkelige omstændigheder. Herved må der tages hensyn til, at den kontrol, som udføres på området for arbejdsløshedsydelser, har en specifik karakter, som begrunder indførelsen af mere indgribende foranstaltninger end dem, der anvendes ved kontrollen med andre ydelser.
 
-Statutten for den europeiske
-unions domstol
+Anvendelsen af mindre indgribende foranstaltninger, såsom fremlæggelsen af dokumenter eller attester, ville berøve kontrollen dens uventede karakter og dermed gøre den mindre effektiv.
 
-Protokol nr. 3 til TEUF, Statutten for den europæiske unions domstol.
+Det må derfor antages, at kravet om, at den pågældende skal have bopæl i den medlemsstat, hvor den institution, som ydelsen påhviler, er beliggende, og som i national ret er begrundet i hensynet til kontrollen med overholdelsen af betingelserne i lovgivningen for udbetaling af ydelser til arbejdsløse, opfylder proportionalitetskravet.»[^988]
 
-Direktiver og forordninger
-Forordning 1612/68
+EU-domstolens resonnementer er tett knyttet til karakteren av den aktuelle ytelsen, som var en arbeidsledighetsytelse, og de forhold det var behov for å føre kontroll med – inntekter og familiesituasjon. Det er reist spørsmål om EU-domstolen ville ha akseptert bostedskravet dersom det bare var medlemmets inntektsforhold som skulle kontrolleres.[^989] Etter utvalgets oppfatning har likevel synsmåtene overføringsverdi til ytelser som skal kompensere for manglende inntekt grunnet sykdom. For så vidt gjelder slike ytelser, vil lange eller gjentatte opphold utenfor de kompetente myndigheters jurisdiksjon kunne hindre kontrollen med at de økonomiske vilkårene for å motta ytelsen faktisk foreligger, for eksempel at eventuelle inntekter oppgis. Dette innebærer at en begrensning i muligheten til å reise utenlands står sterkere der det dreier seg om opphold av en viss varighet, men svakere der det dreier seg om kortere opphold. Samtidig er det sikker EØS-rett at rent administrative hensyn ikke kan begrunne restriksjoner. Det betyr at det ikke er relevant for vurderingen at tilstedeværelseskrav gjør kontrollen enklere eller rimeligere å gjennomføre for trygdeforvaltningen.
 
-Rådsforordning (EØF) nr. 1612/68 av 15. oktober 1968 om fri bevegelighet for arbeidstakere innen Fellesskapet.
+### Avveiningstesten
 
-Forordning 1408/71
+Selv om en restriksjon både er begrunnet i hensyn EØS-retten anerkjenner og er egnet og nødvendig for å ivareta disse, må restriksjonen passere enda et hinder for at den ikke skal utgjøre en ulovlig restriksjon. Dette formuleres gjerne som at tiltaket må være forholdsmessig også i snever forstand; det må ikke utgjøre et uforholdsmessig inngrep i den frie bevegelighet.[^990] Denne vurderingen kan formuleres som et spørsmål om «inngrepet i grunnfrihetene er så stort at det står i et helt urimelig forhold til målsettingen».[^991] EU-domstolen praktiserer balansetesten slik at den gir atskillig rom for ulike politiske valg medlemsstatene imellom, og testen er karakterisert som en «kvalifisert urimelighetssensur» av det nasjonale beskyttelsesnivået.[^992]
 
-Rådsforordning (EØF) nr. 1408/71 av 14. juni 1971om anvendelsen av
-trygdeforordninger på arbeidstakere og deres familiemedlemmer som
-flytter innenfor Fellesskapet.
+### Prøvingsintensitet
 
-Direktiv 73/148/EØF
+Rettspraksis viser at intensiteten i domstolenes prøving av om kravene til restriksjonens utforming er tilfredsstilt, varierer med de hensyn som forfølges. Det er mulig å spore en tendens i rettspraksis som kan tilsi at medlemsstatene har noe større handlefrihet der de hensynene som forfølges er slike det ikke er noen egentlig felles europeisk konsensus om, eller det dreier seg om tiltak på politisk sensitive områder, slik som velferdsområdet. Hovedinntrykket fra rettspraksis er likevel at intensiteten i domstolsprøvingen kan variere fra sak til sak, uten at det lar seg oppstille helt faste kriterier. Dette er særlig påtakelig på området for sosiale ytelser, der mange ulike interesser og hensyn møtes. Dette medfører at domstolens drøftelse i enkelte saker kan bli temmelig detaljert og nærgående, mens domstolen i andre saker lettere aksepterer medlemsstatens begrunnelse.[^993] To avgjørelser kan illustrere dette.
 
-Rådsdirektiv (EØF) nr. 73/148 av 21. mai 1973 om opphevelse av reiseog oppholdsrestriksjoner innen Felleskapet for statsborgere i medlemsstatene med hensyn til etablering og tjenesteytelse.
+Den første er EU-domstolens avgjørelse i *De Cuyper*, nevnt i foregående avsnitt. Saken gjaldt som nevnt krav etter belgisk rett om faktisk opphold i Belgia for rett til en arbeidsløshetsytelse der også familiesituasjonen var av betydning. EU-domstolen fant at hensynet til tilstrekkelig kontroll ikke kunne ivaretas med tiltak som virket mindre hindrende på fri bevegelighet. Prøvingen av dette spørsmålet er detaljert og prinsipiell i generaladvokatens uttalelse, men ikke like inngående i selve dommen, noe som kanskje kan forklares med at det dreide seg om ytelser under arbeidsløshet som også tok hensyn til den arbeidsløses familiesituasjon.[^994]
 
-Forordning 883/2004
+EU-domstolens avgjørelse i sak C-676/16 *A* gjaldt blant annet spørsmålet om det utgjør en restriksjon på den retten til fri bevegelighet unionsborgerskapet gir å nekte funksjonshemmede bosatt i trygdestaten rett til personlig assistanse når de oppholder seg i en annen medlemsstat i studieøyemed. EU-domstolen besvarte dette bekreftende. Ved vurderingen av om restriksjonen lar seg begrunne, går domstolen temmelig konkret til verks, og overlater lite til nasjonale myndigheter. Sagt med andre ord er det en temmelig høy prøvingsintensitet i denne saken.
 
-Europaparlaments- og Rådsforordning (EF) nr. 883/2004 av 29. april
-2004 om koordinering av trygdeordninger [trygdeforordningen].
+### Tillatelses- og meldepliktordninger
 
-Direktiv 2004/38/EF
+Utvalget påpekte i punkt 4.2.5 at der oppfølging blir vanskelig eller umulig om en mottaker av syke-, pleie eller arbeidsavklaringspenger ikke oppholder seg i Norge, eller opphold utenlands medfører at vedkommende ikke kan utføre pålagte plikter, vil EØS- retten normalt ikke være til hinder for at det kreves en eller annen form for samtykke fra trygdemyndighetene, eventuelt omlegging av plikter som krever opphold på trygdestatens territorium, før utenlandsreise kan skje.
 
-Europaparlamentets- og Rådsdirektiv (EF) 2004/38 av 29. april 2004
-om unionsborgere og deres familiemedlemmers rett til å ferdes og
-oppholde seg fritt på medlemsstatenes territorium, om endring av
-forordning (EF) nr. 1612/68 og om oppheving av direktiv 64/221/EØF,
-68/360/EØF, 72/194/EØF, 73/148/EØF, 75/34/EØF, 75/35/EØF,
-90/364/EØF, 90/365/EØF og 93/96/EØF [unionsborgerdirektivet].
+Også tillatelses- og meldepliktordninger er restriksjoner på retten til fri bevegelighet. Dette har to konsekvenser. For det første må selve utformingen av ordningen tilfredsstille de krav som følger av EØS-retten. For det annet må det enkelte vedtak fattet i henhold til ordningen gjøre det.
 
-Forordning 987/2009
+Tillatelses- og meldepliktordninger kan være nødvendige for å beskytte ett eller flere ikke-økonomiske hensyn.[^995] I kravet om at ordningen skal være nødvendig, ligger det imidlertid to elementer.
 
-Europaparlaments- og Rådsforordning (EF) nr. 987/2009 av
-16. september 2009 om fastsettelse av nærmere regler for gjennomføring av forordning (EF) nr. 883/2004 om koordinering av trygdeordninger.
+Det ene elementet er at ordningen skal være egnet til å beskytte det eller de aktuelle hensynene som begrunner den. Det andre elementet er at ordningen ikke må medføre større hindringer i fri bevegelighet enn det som er nødvendig for beskyttelsen av de hensyn som begrunner ordningen. En tillatelsesordning vil som regel være mer inngripende enn en meldepliktordning der tillatelse anses gitt om ikke forvaltningen reagerer innen viss frist.[^996] Dette medfører at dersom et krav om forhåndsmelding er tilstrekkelig for å ivareta de hensynene som begrunner oppholdskravet, er EØS-retten til hinder for en ordning der det kreves uttrykkelig tillatelse til utenlandsopphold.
 
-Forordning 2016/679
+Nødvendighetskriteriet kan også ha betydning for andre sider ved utformingen av samtykke- og meldepliktordninger. Det kan eksempelvis medføre at det først er der utenlandsoppholdet er av noe varighet, at det kan kreves melding eller forutgående tillatelse.
 
-Europaparlaments- og Rådsforordning (EU) 2016/679 av 27. april 2016
-om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv 95/46/EF (generell personvernforordning)
+Forutberegnelighet og muligheten til å føre kontroll med nasjonale forvaltningsmyndigheters disposisjoner står sentralt i så vel EU-domstolens som EFTA- domstolens praksis. Dette leder over til en tredje konsekvens EØS-retten har for utformingen av tillatelsesordninger; de kriterier en søknad om utenlandsopphold vurderes etter må være publisert på forhånd, og både kriteriene og anvendelsen av dem må kunne gjøres til gjenstand for domstolskontroll.
 
-[Side 283]
-
-NOU 2020: 9
-Blindsonen
-
-281
-
-Referanse- og litteraturliste
-
-For- og etterarbeider
-Dato/referanse
-
-Tittel
-
-Innst. O. nr. 46 (1996–1997)
-
-Innstilling fra sosialkomiteen om ny lov om folketrygd (folketrygdloven) m.v.
-
-Innst. S. nr. 210 (2002–2003)
-
-Innstilling fra kontroll- og konstitusjonskomiteen om rapport til
-Stortinget fra utvalget til å utrede Stortingets kontrollfunksjon.
-Stortingets kontroll med regjering og forvaltning.
-
-Innst. S. nr. 296 (1995–1996)
-
-Innstilling fra kontroll- og konstitusjonskomiteen om statsrådets
-protokoller for tidsrommet 1. juli – 31. desember 1995.
-
-NOU 1990: 20
-
-Forenklet folketrygdlov.
-
-NOU 1992: 32
-
-Bedre struktur i lovverket. Lovstrukturutvalgets delutredning II.
-
-NOU 2012: 2
-
-Utenfor og innenfor. Norges avtaler med EU.
-
-NOU 2016: 24
-
-Ny straffeprosesslov.
-
-NOU 2019: 5
-
-Ny forvaltningslov – Lov om saksbehandlingen i offentlig forvaltning
-(forvaltningsloven).
-
-NOU 2020: 5
-
-Likhet for loven – Lov om støtte til rettshjelp (rettshjelpsloven).
-
-Ot.prp. nr. 22 (2008–2009)
-
-Om lov om endring i straffeloven 20. mai 2005 nr. 28 (siste delproposisjon – sluttføring av spesiell del og tilpasning av annen lovgivning).
-
-Ot.prp. nr. 29 (1995–96)
-
-Om ny lov om folketrygd (folketrygdloven).
-
-Ot.prp. nr. 4 (2008–2009)
-
-Om lov om endringer i folketrygdloven og i enkelte andre lover
-(arbeidsavklaringspenger, arbeidsevnevurderinger og aktivitetsplaner).
-
-Ot.prp. nr. 5 (1966–67)
-
-Om lov om anke til Trygderetten og lov om endringer i lov av 17. juni
-1966 om folketrygd og andre trygde- og pensjonslover.
-
-Ot.prp. nr. 51 (2004–2005)
-
-Om lov om mekling og rettergang i sivile tvister (tvisteloven).
-
-Ot.prp. nr. 66 (2001–2002)
-
-Om lov om endring i straffeprosessloven mv. (hurtigere straffesaksbehandling, varetektsfengsling i isolasjon mv.).
-
-Ot.prp. nr. 68 (1976–77)
-
-Om lov om endring av lov av 17. juni 1966 nr. 12 om folketrygd.
-
-Ot.prp. nr. 8 (1996–97)
-
-Om lov om endringer i folketrygdloven og i enkelte andre lover
-(Oppfølging av Velferdsmeldingen).
-
-Ot.prp. nr. 90 (2003–2004)
-
-Om lov om straff (straffeloven).
-
-Ot.prp. nr. 99 (1991–92)
-
-Om lov om endringer i lov 17 juni 1966 nr 12 om folketrygd (Trygdedekning, pensjonsopptjening og pensjonsberegning for personer med
-utenlandsopphold i yrkesaktiv alder).
-
-PRE-2012-06-22-585
-
-Statsrådsforedrag: Forskrift 22. juni 2012 nr. 585 om inkorporasjon av
-nye trygdeforordninger i norsk rett. Kongelig resolusjon. Statsråd
-Hanne Inger Bjurstrøm.
-
-Prop. 139 L (2014– 2014)
-
-Endringer i lov om anke til Trygderetten (lovrevisjon).
-
-[Side 284]
-
-282
-
-NOU 2020: 9
-
-Referanse- og litteraturliste
-
-Blindsonen
-
-Dato/referanse
-
-Tittel
-
-Prop. 48 L (2016–2017)
-
-Endringer i folketrygdloven mv. (pleiepenger ved pleie av syke barn).
-
-Prop. 74 L (2016–2017)
-
-Endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv.).
-
-St.meld. nr. 26 (2008–2009)
-
-Om offentleg rettshjelp – Rett til hjelp
-
-St.prp. nr. 100 (1991–92)
-
-Om samtykke til ratifikasjon av Avtale om Det europeiske økonomiske
-samarbeidsområde (EØS), undertegnet i Oporto 2. mai 1992.
-
-St.prp. nr. 100 (1991–92)
-
-Om samtykke til ratifikasjon av Avtale om Det europeiske økonomiske
-samarbeidsområde (EØS).
-
-Rettspraksis mv.
-Rettspraksis fra Høyesterett
-År
-
-Referanse
-
-1990
-
-Rt. 1990 s. 801
-
-1995
-
-HR-1995-87-B (Rt. 1995 s. 945)
-
-2001
-
-HR-2000-49-B (Rt. 2000 s. 1811 Finanger I)
-
-2005
-
-HR-2005-2000-A (Rt. 2005 s. 1757 Skyggekjennelsen)
-
-2006
-
-HR-2006-1150-A (Rt. 2006 s. 853)
-
-2007
-
-HR-2008-1840-A (Rt. 2007 s. 1040)
-
-2008
-
-HR-2008-1840-A (Rt. 2008 s. 1386)
-
-2009
-
-HR-2009-81-A (Rt. 2009 s. 22)
-HR-2009-1336-A (Rt. 2009 s. 872)
-
-2012
-
-HR-2012-409-A (Rt. 2012 s. 313)
-HR-2012-810-A (Rt. 2012 s. 622)
-HR-2012-97-U
-
-2013
-
-HR-2013-650-A (Rt. 2013 s. 416)
-
-2014
-
-HR-2014-808-U
-
-2015
-
-HR-2015-1405-A (Rt. 2015 s. 844)
-
-2016
-
-HR-2016-1648-U
-HR-2016-2554-P Holship
-
-2017
-
-HR-2017-560-A
-HR-2017-1569-U
-
-2018
-
-HR-2018-587-U
-
-2019
-
-HR-2019-1788-A
-HR-2019-2193-A
-HR-2019-2282-U
-
-[Side 285]
-
-NOU 2020: 9
-Blindsonen
-
-283
-
-Referanse- og litteraturliste
-
-Rettspraksis fra lagmannsrettene
-År
-
-Referanse
-
-2008
-
-LB-2007-61181 Borgarting
-
-2014
-
-LB-2014-9356 Borgarting
-
-2018
-
-LF-2018-107704 Frostating
-
-Rettspraksis fra tingrettene
-År
-
-Referanse
-
-2010
-
-Rana tingretts dom av 23. juli 2010, 10-051886MED-RANA.
-
-2013
-
-Indre Finnmark tingretts dom av 16. mai 2013, 13-060095MED-INFI.
-
-2014
-
-Øvre Romerike tingretts dom av 2. juli 2014, 13-209359MED-OVRO.
-Nord-Troms tingretts dom av 27. august 2014, 14-084912MED-NHER.
-
-2015
-
-Larvik tingretts dom av 20. oktober 2015, 15-098611MED-LARV.
-Asker og Bærum tingretts dom av 25. november 2015 15-129045MED-AHER/2.
-Nord-Troms tingretts dom av 30. november 2015, 15-183900ENE-NHER.
-
-2016
-
-Nedre Telemark tingretts dom av 4. mars 2016, 15-179156MED-NETE.
-Hammerfest tingretts dom av 29. august 2016, 16-046155MED-HAFE.
-Drammen tingretts dom av 8. september 2016, 16-082918MED-DRAM.
-Trondenes tingretts dom av 24. oktober 2016, 16-129152MED-TRES.
-Halden tingretts dom av 7. desember 2016, 16-147694MED-HALD.
-
-2017
-
-Tønsberg tingretts dom av 5. januar 2017, 16-205881ENE-TONS.
-Tønsberg tingretts dom av 9. februar 2017, 16-169944MED-TONS.
-Kristiansand tingretts dom av 24. mars 2017, 17-023583MED-KISA/05.
-Heggen og Frøland tingretts dom av 19. april 2017, 17-015047MED-HEGG.
-Sandefjord tingretts dom av 7. juli 2017, 17-081023MED-SAFO.
-Oslo tingretts dom av 28. august 2017, 17-065591MED-OTIR/08.
-Stavanger tingretts dom av 31. august 2017, 17-113375ENE-STAV.
-Follo tingretts dom av 13. oktober 2017, 17-098330MED-FOLL.
-
-2018
-
-Gjøvik tingretts dom av 12. januar 2018, 17-112588MED-GJOV.
-Oslo tingretts dom av 21. februar 2018, 17-137460MED-OTIR/06.
-Rana tingretts dom av 9. mai 2018, 18-022972MED-RANA.
-Kristiansand tingretts dom av 21. september 2018, 18-108435MED-KISA/27.
-Fredrikstad tingretts dom av 11. november 2018, 18-042424ENE-FRED.
-
-2019
-
-Kristiansand tingretts dom av 9. januar 2019, 18-158623MED-KISA/01.
-Asker og Bærum tingretts dom av 25. februar 2019, 19-021545ENE-AHER/1.
-Bergen tingretts dom av 17. september 2019, 18-133294MED-BERG/4
-
-[Side 286]
-
-284
-
-NOU 2020: 9
-
-Referanse- og litteraturliste
-
-Blindsonen
-
-Avgjørelser fra EU-domstolen
-Referanse
-
-Tittel/parter
-
-Publisert
-
-Sak 167/73
-
-Kommisjonen mot Frankrike
-
-ECLI:EU:C:1974:35
-
-Sak C-275/81
-
-Koks
-
-ECLI:EU:C:1982:316
-
-Forente saker 286/82 og 86/83
-
-Luisi og Carbone
-
-ECLI:EU:C:1984:35
-
-Sak 104/86
-
-Kommisjonen mot Italia
-
-ECLI:EU:C:1988:171
-
-Sak 186/87
-
-Cowan
-
-ECLI:EU:C:1989:47
-
-Sak C-204/90
-
-Bachmann
-
-ECLI:EU:C:1992:35
-
-Sak C-45/93
-
-Kommisjonen mot Spania
-
-ECLI:EU:C:1994:101
-
-Sak C-55/94
-
-Gebhard
-
-ECLI:EU:C:1995:411
-
-Sak C-120/95
-
-Decker
-
-ECLI:EU:C:1998:167
-
-Sak C-158/96
-
-Kohll
-
-ECLI:EU:C:1998:171
-
-Sak C-275/96
-
-Kuusijärvi
-
-ECLI:EU:C:1998:279
-
-Sak C-18/95
-
-Terhoeve
-
-ECLI:EU:C:1999:22
-
-Sak C-211/98
-
-Kommisjonen mot Spania
-
-ECLI:EU:C:2000:119
-
-Sak C-157/99
-
-Smits og Peerbooms
-
-ECLI:EU:C:2001:404
-
-Sak C-385/99
-
-Müller-Fauré,
-
-ECLI:EU:C:2003:270
-
-Sak C-215/03
-
-Oulane
-
-ECLI:EU:C:2005:95
-
-Sak C-372/04
-
-Watts
-
-ECLI:EU:C:2006:325
-
-Sak C-522/04
-
-Kommisjonen mot Belgia
-
-ECLI:EU:C:2007:405
-
-Sak C-50/05
-
-Nikula
-
-ECLI:EU:C:2006:493
-
-Sak C-212/05
-
-Hartmann
-
-ECLI:EU:C:2007:437
-
-Sak C-76/05
-
-Schwarz
-
-ECLI:EU:C:2007:492
-
-Sak C-208/07
-
-von Chamier-Gliszinski
-
-ECLI:EU:C:2009:455
-
-Sak C-490/09
-
-Kommisjonen mot Luxemburg
-
-ECLI:EU:C:2011:34
-
-Sak C-503/09
-
-Stewart
-
-ECLI:EU:C:2011:500
-
-Sak C-430/15
-
-Tolley
-
-ECLI:EU:C:2017:74
-
-Sak C-551/16
-
-Klein Schiphorst
-
-ECLI:EU:C:2018:200
-
-Sak C-729/17
-
-Kommisjonen mot Hellas
-
-ECLI:EU:C:2019:534
-
-Sak C-477/17
-
-Holiday on Ice Services BV
-
-ECLI:EU:C:2019:60
-
-Forente saker C-95/18 og C-96/18 van den Berg
-
-ECLI:EU:C:2019:767
-
-Sak C-897/19 PPU
-
-ECLI:EU:C:2020:262
-
-straffesak mot I.N
-
-[Side 287]
-
-285
-
-NOU 2020: 9
-Blindsonen
-
-Referanse- og litteraturliste
-
-Avgjørelser fra EFTA-domstolen
-Referanse
-
-Tittel/parter
-
-Publisert
-
-Sak E-6/98
-
-Norge mot ESA
-
-[1999] EFTA Ct. Rep. 74
-
-Sak E-3/04
-
-Tsomakas m.fl.
-
-[2004] EFTA Ct. Rep. 95
-
-Sak E-3/05
-
-ESA v Norge (Finnmarkstillegg)
-
-[2006] EFTA Ct. Rep. 102
-
-Sak E-2/07
-
-ESA mot Norge
-
-[2007] EFTA Ct. Rep. 280
-
-Forente saker E-11/07 og E-1/08
-
-Rindal og Slinning
-
-[2008] EFTA Ct. Rep. 320
-
-Sak E-3/12
-
-Jonsson
-
-[2013] EFTA Ct. Rep. 136
-
-Sak E-6/12
-
-ESA v Norge (barnetrygd)
-
-[2013] EFTA Ct. Rep. 618
-
-Sak E-13/15
-
-Abuelo
-
-[2015] EFTA Ct. Rep. 720
-
-Sak E-14/15
-
-Holship Norge AS mot Transportarbeiderforbundet
-
-[2016] EFTA Ct. Rep. 240
-
-Sak E-24/15
-
-Walter Waller
-
-[2016] EFTA Ct. Rep. 527
-
-Sak E-11/16
-
-Mobil Betriebskrankenkasse v Tryg
-
-[2017] EFTA Ct. Rep. 384
-
-Sak E-5/16
-
-Sinnataggen
-
-[2017] EFTA Ct. Rep. 52
-
-Kjennelser fra Trygderetten
-TRR-1999-295
-TRR-2000-1214
-TRR-2000-5350
-TRR-2002-2534
-TRR-2003-2253
-TRR-2009-2265
-TRR-2009-488
-TRR-2010-2285
-TRR-2011-1098
-TRR-2011-1809
-TRR-2012-195
-TRR-2013-704
-TRR-2014-1181
-TRR-2014-855
-TRR-2015-1493
-TRR-2016-1368
-TRR-2016-2497
-TRR-2016-2634
-
-[Side 288]
-
-286
-
-NOU 2020: 9
-
-Referanse- og litteraturliste
-
-Blindsonen
-
-TRR-2016-3142
-TRR-2016-3145
-TRR-2016-3182
-TRR-2016-3238
-TRR-2016-3288
-TRR-2017-1058
-TRR-2017-1265
-TRR-2017-1708
-TRR-2017-2054
-TRR-2017-2063
-TRR-2017-2148
-TRR-2017-2308
-TRR-2017-2497
-TRR-2017-2826
-TRR-2017-2929
-TRR-2017-3048
-TRR-2017-3258
-TRR-2017-3528
-TRR-2017-3662
-TRR-2017-3677
-TRR-2017-565
-TRR-2017-964
-TRR-2018-1101
-TRR-2018-2114
-TRR-2018-3099
-TRR-2018-567
-TRR-2018-741
-
-Generaladvokatenes forslag til avgjørelser
-Sak 186/87, Cowan
-
-Forslag til avgjørelse,
-Generaladvokat Carl Otto Lenz
-
-ECLI:EU:C:1988:526
-
-Sak C-215/03, Oulane
-
-Forslag til avgjørelse,
-Generaladvokat Phillipe Léger
-
-ECLI:EU:C:2004:653
-
-Sak C-221/11, Demirkan
-
-Forslag til avgjørelse,
-Generaladvokat Pedro Cruz Villalón
-
-ECLI:EU:C:2013:237
-
-[Side 289]
-
-NOU 2020: 9
-Blindsonen
-
-287
-
-Referanse- og litteraturliste
-
-Annen offentlig praksis
-Rundskriv
-Referansenummer
-
-Organ/forfatter
-
-Tittel/beskrivelse, dato/årstall
-
-G-16/2001
-
-Justis- og politidepartementet
-
-«Rundskriv, Lovavdelingens bistand til andre
-departementer» datert 28. juni 2001, senere
-oppdatert.
-
-RA nr. 3/2018
-
-Riksadvokaten
-
-«Kvalitetskrav til straffesaksbehandlingen i
-politiet og ved statsadvokatembetene mv.
-(kvalitetsrundskrivet)» datert 8. november
-2018.
-
-R09-00
-
-Rikstrygdeverket/ Nav –
-Arbeids- og velferdsetaten
-
-«Rundskriv til ftrl. kap. 9 – Stønad ved barns
-og andre nærståendes sykdom» datert
-1. januar 1998, senere oppdatert.
-
-R11-00
-
-Rikstrygdeverket/ Nav –
-Arbeids- og velferdsetaten
-
-«Rundskriv til ftrl. kap. 11 – Arbeidsavklaringspenger» datert 1. oktober 2002,
-senere oppdatert.
-
-R40-00
-
-Rikstrygdeverket/ Nav –
-Arbeids- og velferdsetaten
-
-«Rundskriv til EØS-avtalens trygdedel» datert
-15. februar 2001, senere oppdatert.
-
-R45-00
-
-Rikstrygdeverket/ Nav –
-Arbeids- og velferdsetaten
-
-«Hovednr. 45 – Rundskriv til EØS-avtalens
-bestemmelser om trygd» datert 15. februar
-2001, senere oppdatert.
-
-Instrukser/retningslinjer
-Arbeids- og sosialdepartementet
-
-«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2011»,
-10. februar 2011 https://nsd.no/polsys/data/filer/tildelingsbrev/
-nav_2011.pdf hentet 9. juni 2020.
-
-Arbeids- og sosialdepartementet
-
-«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2012»,
-27. januar 2012 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2012_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.
-
-Arbeids- og sosialdepartementet
-
-«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2013»,
-1. februar 2013 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2013_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.
-
-Arbeids- og sosialdepartementet
-
-«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2014»,
-5. februar 2014 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2014_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.
-
-Arbeids- og sosialdepartementet
-
-«Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2015»,
-23. mars 2015 https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/tildelingsbrev_2015_arbeids_og_velferdsdirektoratet.pdf hentet 9. juni 2020.
-
-[Side 290]
-
-288
-
-Referanse- og litteraturliste
-
-NOU 2020: 9
-Blindsonen
-
-Arbeids- og sosialdepartementet
-
-«Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet» Fastsatt 1. januar 2017, revidert 18. januar 2019.
-https://www.regjeringen.no/contentassets/ccfdb1de77a04e41ad4989825a70e315/instruks-av-dir-2019.pdf hentet
-7. juni 2020.
-
-Direktoratet for økonomistyring
-
-«Veileder til utredningsinstruksen – Instruks om utredning av
-statlige tiltak» 2018.
-https://dfo.no/filer/Fagomr%C3%A5der/Utredninger/Veileder-iutredningsinstruksen.pdf hentet 11. juni 2020
-
-Finansdepartementet
-
-«Reglement for økonomistyring i staten. Bestemmelser om økonomistyring i staten» Fastsatt 12. desember 2003, sist oppdatert
-23. september 2019. https://www.regjeringen.no/globalassets/
-upload/fin/vedlegg/okstyring/reglement_for_okonomistyring_i_staten.pdf hentet 7. juni 2020.
-
-Justisdepartementet
-
-«Lovteknikk og lovforberedelse: Veiledning om lov- og forskriftsarbeid» [Lovteknikkveilederen]. Februar 2000. https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0003/ddd/
-pdfv/108138-lovteknikkboka.pdf hentet 7. juni 2020.
-
-Riksadvokaten
-
-«Saker om trygdebedragerier – Bruk av straffeloven § 166 og
-§§ 270, 271 og 271A i konkurrens – nytt påtaledirektiv» Instruks fra
-Riksadvokaten til statsadvokater og politimestrene, 18. februar
-2014. https://www.riksadvokaten.no/wp-content/uploads/2017/
-10/Saker-om-trygdebedragerier.pdf hentet 5. juni. 2020.
-
-Riksadvokaten
-
-«Høyesteretts dom av 19. desember 2019 – prøving av gyldigheten
-av forvaltningsvedtak i straffesaker» Brev fra riksadvokaten til statsadvokater og politimestrene, 20. februar 2020. https://www.riksadvokaten.no/document/proving-av-gyldigheten-av-forvaltningsvedtak-i-straffesaker/ hentet 6. juni 2020
-
-Statsministerens kontor
-
-«Retningslinjer: Foreleggelse av saker for Regjeringsadvokaten»
-2011. https://www.regjeringen.no/globalassets/upload/smk/vedlegg/retningslinjer/14367-foreleggelse-av-saker.pdf hentet 7. juni
-2020.
-
-Statsministerens kontor
-
-«Retningslinjer: Om r-konferanser: forberedelse av saker til regjeringskonferanse» Oktober 2018. https://www.regjeringen.no/no/
-dokumenter/om-rkonf/id2470121/ hentet 7. juni 2020.
-
-Utenriksdepartementet
-
-«EU/EØS-håndboken 2016» https://www.regjeringen.no/globalassets/departementene/ud/vedlegg/europapolitikk/eu_eos_handbok2016.pdf hentet 09.06.2020
-
-Ytelsesavdelingen i Arbeids- og
-velferdsdirektoratet
-
-«Overordnede prinsipper for utarbeidelse av rundskriv i NAV»
-13. desember 2016. Ikke offentlig tilgjengelig.
-
-[Side 291]
-
-NOU 2020: 9
-Blindsonen
-
-289
-
-Referanse- og litteraturliste
-
-Annet
-Organ/forfatter
-
-Tittel/beskrivelse, dato/årstall
-
-Ekspertgruppe nedsatt av
-Arbeidsdepartementet
-
-«Tiltak for å bedre NAVs virkemåte.» Sluttrapport, 24. juni 2010.
-
-Internrevisjonen i Arbeidsog velferdsdirektoratet
-
-«Spesialoppdrag – D2019-10 Kartlegging av fakta i EØS-saken.»
-11. desember 2019.
-
-Arbeidsdepartementet
-
-«Utkast til prop. XX L (2012–2013) Endringer i folketrygdloven og
-enkelte andre lover.«
-
-Arbeidsdepartementet
-
-«Medlemskap og eksport.» Arbeidsgrupperapport, 2013.
-
-Domstolsadministrasjonen
-
-«Saksavvikling i domstolene.» i Domstolsadministrasjonens
-årsrapport 2018. https://www.domstol.no/Enkelt-domstol/arsrapport/aktiviteterogresultater/saksavvikling/ hentet 5. juni 2020.
-
-Høyesterett
-
-«Årsmelding 2019.» 13. januar 2020. https://www.domstol.no/
-Enkelt-domstol/hoyesterett/arsmelding/2019/ hentet 5. juni 2020.
-
-Interdepartemental arbeidsgruppe «Eksport av velferdsytelser.» 2014. Ikke offentlig tilgjengelig.
-Arbeids- og velferdsdirektoratet
-
-«Årsrapport 2016.» 24. april 2017. https://www.nav.no/no/nav-ogsamfunn/om-nav/årsrapport/tidligere-arsrapporter-fra-nav hentet
-10. juni 2020
-
-NOKUT
-
-«Revidering av akkreditert mastergradsstudium i rettsvitenskap.»
-NOKUT rapport, 2008 https://www.uio.no/for-ansatte/arbeidsstotte/sta/kvalitetssystem/jus/kvalitetssystem-studier/2008_nokut_rapport-master-rettsvitenskap-uio.pdf hentet 7. juni 2020.
-
-Arbeid- og velferdsdirektoratet.
-
-«Arbeid- og velferdsdirektoratet sitt svar på høring om arbeidsavklaringspenger, arbeidsevnevurdering m.m.» 14. mars 2008.
-https://www.regjeringen.no/globalassets/upload/aid/publikasjoner/horing/2008/vpa/arbeidsavklaringspenger_frist_130308/horingssvar/arbeids_og-_velferdsdirektoratet.pdf hentet 7. juni 2020.
-
-Administrasjonsdepartementet
-
-«Ny trygdeforordning.» EØS-notat. Administrasjonsdepartementet,
-2012. https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2006/okt/ny-trygdeforordning/id2432782/ hentet 7. juni
-2020.
-
-Andre EU/EØS-kilder
-KOM (1998) 779
-
-Forslag til Rådets forordning (EF) om koordinering af de sociale
-sikringsordninger.
-
-EU-tidende
-
-EU-tidende nr. 76/2015.
-
-EU-tidende
-
-EØS-komitébeslutning 76/2011, 1. juli 2011, publisert i EØStillegget til Den europeiske unions tidende nr. 54, 6. oktober 2011.
-
-Case No 84326
-
-ESAs brev til Norge 11. mars 2020.
-
-[Side 292]
-
-290
-
-Referanse- og litteraturliste
-
-NOU 2020: 9
-Blindsonen
-
-Nettsider
-Arbeids- og velferdsetaten
-
-«Grunnbeløpet i folketrygden» 1. desember 2019. https://
-www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden hentet 9. juni 2020
-
-Norges Høyesterett
-
-«Om Høyesterett» u.å. https://www.domstol.no/Enkelt-domstol/
-hoyesterett/om/ hentet 5. juni 2020.
-
-UiT Norges arktiske universitet
-
-«Regelverk ved UiT Det juridiske fakultet» u.å https://uit.no/regelverk#v-pills-660873 hentet 9. juni 2020.
-
-Universitetet i Bergen
-
-«Norske og internasjonale rettslege institusjonar» u.å. https://
-www.uib.no/emne/JUS121 hentet 9. juni 2020.
-
-Universitetet i Oslo
-
-«JUS2211 – Vår 2020 – Litteratur/læringskrav – EØS rett» 2019
-https://www.uio.no/studier/emner/jus/jus/JUS2211/v20/pensumliste/index.html#toc13 hentet 9. juni 2020.
-
-[Side 293]
-
-291
-
-NOU 2020: 9
-Blindsonen
-
-Vedlegg 1
-
-Vedlegg 1
-
-Samtaler
-Tabell 1.1 Oversikt over personer utvalget har hatt samtale med
-Dato for samtale Stilling/funksjon
-
-Arbeidssted
-
-12.02.2020
-
-Tidligere rettsmedlem
-
-Trygderetten
-
-12.02.2020
-
-Tidligere rettsmedlem
-
-Trygderetten
-
-12.02.2020
-
-Rettsmedlem
-
-Trygderetten
-
-14.02.2020
-
-Avdelingsleder
-
-Trygderetten
-
-14.02.2020
-
-Tidligere seniorrådgiver Arbeids- og velferdsdirektoratet
-
-14.02.2020
-
-Tidligere direktør
-
-NAV Internasjonalt
-
-14.02.2020
-
-Tidligere avdelingsdirektør
-
-NAV Internasjonalt
-
-03.03.2020
-
-Enkeltperson berørt av
-feilen
-
-03.03.2020
-
-Enkeltperson berørt av
-feilen
-
-03.03.2020
-
-Enkeltperson berørt av
-feilen
-
-03.03.2020
-
-Enkeltperson berørt av
-feilen
-
-09.03.2020
-
-Seniorrådgiver
-
-Arbeids- og velferdsdirektoratet
-
-09.03.2020
-
-Seniorrådgiver
-
-Arbeids- og sosialdepartementet
-
-09.03.2020
-
-Underdirektør
-
-Arbeids- og sosialdepartementet
-
-10.03.2020
-
-Seniorrådgiver
-
-Arbeids- og sosialdepartementet
-
-10.03.2020
-
-Tidligere seniorrådgiver Arbeids- og sosialdepartementet
-
-10.03.2020
-
-Tidligere seniorrådgiver Arbeids- og velferdsdirektoratet
-
-10.03.2020
-
-Tidligere seniorrådgiver Arbeids- og sosialdepartementet
-
-10.03.2020
-
-Seniorrådgiver
-
-Arbeids- og velferdsdirektoratet
-
-Fornavn
-
-Etternavn
-
-[Side 294]
-
-292
-
-NOU 2020: 9
-
-Vedlegg 1
-
-Blindsonen
-
-Tabell 1.1 Oversikt over personer utvalget har hatt samtale med
-Dato for samtale Stilling/funksjon
-
-Arbeidssted
-
-Fornavn
-
-Etternavn
-
-10.03.2020
-
-Rådgiver
-
-NAV Kontroll Øst
-
-10.03.2020
-
-Tidligere seniorrådgiver Arbeids- og sosialdepartementet
-
-11.03.2020
-
-Seniorrådgiver
-
-Arbeids- og velferdsdirektoratet
-
-11.03.2020
-
-Seniorrådgiver
-
-Nav Klageinstans Styringsenhet
-
-11.03.2020
-
-Seniorrådgiver
-
-Nav Klageinstans Styringsenhet
-
-11.03.2020
-
-Tidligere avdelingsdirektør, nå seniorrådgiver
-
-Arbeids- og velferdsdirektoratet
-
-31.03.2020
-
-Kontorsjef
-
-Arbeids- og velferdsdirektoratet
-
-31.03.2020
-
-Kontorsjef
-
-Arbeids- og velferdsdirektoratet
-
-31.03.2020
-
-Seksjonssjef
-
-Arbeids- og velferdsdirektoratet
-
-31.03.2020
-
-Avdelingsdirektør
-
-Arbeids- og velferdsdirektoratet
-
-01.04.2020
-
-Seniorrådgiver
-
-Nav Kontroll Nord
-
-01.04.2020
-
-Seniorrådgiver
-
-Nav Kontroll Øst
-
-01.04.2020
-
-Seniorrådgiver
-
-Nav Kontroll Styringsenhet
-
-01.04.2020
-
-Tidligere ekspedisjonssjef
-
-Sosial- og helsedepartementet
-
-Alfred
-
-Kvalheim
-
-02.04.2020
-
-Avdelingsdirektør
-
-Arbeids- og sosialdepartementet
-
-02.04.2020
-
-Førstestatsadvokat
-
-Oslo Statsadvokatembeter
-
-02.04.2020
-
-Seniorrådgiver
-
-Nav Klageinstans Sør
-
-02.04.2020
-
-Politiadvokat
-
-Vest politidistrikt
-
-02.04.2020
-
-Avdelingsdirektør
-
-Arbeids- og sosialdepartementet
-
-03.04.2020
-
-Førstelagmann
-
-Agder lagmannsrett
-
-Dag
-
-Bugge-Nordén
-
-03.04.2020
-
-Sorenskriver
-
-Oslo tingrett
-
-Yngve
-
-Svendsen
-
-16.04.2020
-
-Ekspedisjonssjef
-
-Arbeids- og sosialdepartementet
-
-Tomas
-
-Berg
-
-16.04.2020
-
-Ekspedisjonssjef
-
-Arbeids- og sosialdepartementet
-
-Ulf
-
-Pedersen
-
-[Side 295]
-
-293
-
-NOU 2020: 9
-Blindsonen
-
-Vedlegg 1
-
-Tabell 1.1 Oversikt over personer utvalget har hatt samtale med
-Dato for samtale Stilling/funksjon
-
-Arbeidssted
-
-Fornavn
-
-Etternavn
-
-16.04.2020
-
-Ekspedisjonssjef
-
-Arbeids- og sosialdepartementet
-
-Tom
-
-Gulliksen
-
-20.04.2020
-
-Direktør
-
-Nav Klageinstans
-
-Grethe
-
-Børsheim
-
-20.04.2020
-
-Leder
-
-Trygderetten
-
-Trine
-
-Fernsjø
-
-20.04.2020
-
-Direktør
-
-Nav Arbeid og ytelser
-
-Ellen
-
-Christiansen
-
-20.04.2020
-
-Tidligere ytelsesdirektør Arbeids- og velferdsdirektoratet
-
-Kjersti
-
-Monland
-
-20.04.2020
-
-Tidligere departements- Arbeids- og sosialråd
-departementet
-
-Ellen
-
-Seip
-
-20.04.2020
-
-Departementsråd
-
-Arbeids- og sosialdepartementet
-
-Eli
-
-Telhaug
-
-20.04.2020
-
-Justitiarius
-
-Høyesterett
-
-Toril Marie
-
-Øie
-
-21.04.2020
-
-Tidligere riksadvokat
-
-Riksadvokaten
-
-Tor-Aksel
-
-Busch
-
-21.04.2020
-
-Tidligere direktør
-
-Nav Kontroll
-
-Sverre
-
-Lindahl
-
-21.04.2020
-
-Direktør
-
-Nav Kontroll
-
-Ole-Johan
-
-Heir
-
-21.04.2020
-
-Regjeringsadvokat
-
-Regjeringsadvokaten
-
-Fredrik
-
-Sejersted
-
-21.04.2020
-
-Arbeids- og velferdsdirektør
-
-Arbeids- og velferdsdirektoratet
-
-Sigrun
-
-Vågeng
-
-21.04.2020
-
-Tidligere arbeids- og
-sosialminister
-
-Arbeids- og sosialdepartementet
-
-Anniken
-
-Hauglie
-
-[Side 296]
-
-294
-
-Vedlegg 2
-
-NOU 2020: 9
-Blindsonen
-
-Vedlegg 2
-
-Trygd, oppholdskrav og reiser i EØS-området
-
-Sammendrag
-I denne utredningen drøftes tre spørsmål.1 Disse
-spørsmålene er hvilke begrensninger EØS-retten
-setter for å gjøre rett til syke-, pleie- og arbeidsavklaringspenger betinget av opphold på trygdestatens territorium,2 hvem som kan påberope
-slike begrensninger, og fra hvilket tidspunkt disse
-begrensningene har eksistert.
-Forordning 883/2004 koordinerer EØS-statenes trygdeordninger.3 Forordningen stiller få krav
-til utformingen av nasjonale trygdeordninger,
-men har likevel noen bestemmelser som har
-betydning for EØS-statenes adgang til å begrense
-muligheten til å ta med seg trygdeytelser til en
-annen EØS-stat. Forordningen må ses i sammenheng med EØS-rettens regler om fri bevegelighet
-for personer. Disse forbyr i utgangspunktet nasjonale regler som kan gjøre det mindre attraktivt å
-benytte den rett til fri bevegelighet EØS-retten gir,
-men tillater likevel slike regler der de tilfredsstiller EØS-rettslige krav til begrunnelse og utforming.
-EU-retten gir grunnlag for en alminnelig rett
-til fri bevegelighet for personer, forankret i
-reglene om unionsborgerskapet.4 I en viss motsetning til dette står retten til fri bevegelighet etter
-EØS-avtalen, fordi denne i første rekke er en rett
-for økonomisk aktive personer. Dette kommer til
-uttrykk ved at friheten er knyttet til «arbeidstagere» (EØS-avtalen artikkel 28), «selvstendig
-næringsvirksomhet» (EØS-avtalen artikkel 31) og
-tjenesteyting mot betaling (EØS-avtalen artikkel
-37). Denne motsetningen reduseres av direktiv
-2004/38, som etablerer en alminnelig rett til å
-1
-
-2
-
-3
-4
-
-Delutredningen ble ferdigstilt i utvalgets møte 2. mars
-2020. Den er inntatt her slik den ble publisert i mars.
-Enkelte rene skrivefeil er rettet.
-Med «trygdestat» mener utvalget den statens trygdeordning som en person er tilsluttet. Ved utbetalinger i henhold
-til folketrygdlovens regler, vil trygdestaten være Norge.
-Europaparlaments- og rådsforordning (EF) nr. 883/2004 av
-29. april 2004 om koordinering av trygdeordninger.
-Se Traktat om den europeiske unions funktionsmåde
-(TEUF), artikkel 21.
-
-oppholde seg i en annen EØS-stat enn den man er
-statsborger i. Utenfor de områdene dette direktivet regulerer, er det rom for flere oppfatninger
-om i hvilken grad også EØS-retten gir en alminnelig rett til fri bevegelighet for personer, og i tilfelle
-når en slik rett oppsto. Utvalget finner ikke holdepunkter for at det har vært noen ulikhet av betydning mellom EU-rett og EØS-rett for de spørsmål
-som omfattes av utvalgets mandat etter at trygdeforordningen ble gjeldende i norsk rett, det vil si
-1. juni 2012.
-Det følger av utvalgets mandat at det skal
-«vurdere om praksis før 2012 også må gjennomgås». Slik utvalget forstår mandatet, siktes det
-her til spørsmålet om det kan foreligge ugyldige
-tilbakebetalingskrav og feilaktige domfellelser
-basert på forhold som forelå før 1. juni 2012. En
-slik vurdering krever at utvalget behandler
-spørsmålet om hva EØS-retten krevde av norsk
-rett også før 1. juni 2012, tidspunktet da forordning 883/2004 gjennom en forskrift gitt med
-hjemmel i folketrygdloven § 1-3 ble gitt virkning
-i norsk rett.5 For rettstilstanden før 1. juni 2012
-er utvalget delt.
-Utvalget har valgt å redegjøre for hva EØSretten krever, og har krevd, av norsk rett gjennom
-denne delutredningen, men understreker at det
-verken har mandat eller kompetanse til med bindende virkning å avgjøre hva som er gjeldende
-EØS-rett, langt mindre avgjøre konkrete saker.
-Slik avklaring kan bare oppnås gjennom domstolene, og fortrinnsvis etter at det er innhentet
-tolkningsuttalelser fra EFTA-domstolen om hvordan EØS-retten skal forstås.6 Utvalget håper likevel at det med denne delutredningen kan bidra til
-5
-
-6
-
-Jf. forskrift 22. juni 2012 nr. 585 om inkorporasjon av trygdeforordningene i EØS-avtalen (trygdeforordningsforskriften) § 1 tredje ledd jf. første ledd. Her bestemmes det at forordningen skal gjelde som forskrift, og at en rekke lover,
-blant disse folketrygdloven, «fravikes i den utstrekning det
-er nødvendig i henhold til» blant annet forordning 883/
-2004.
-Jf. lov 13. august 1915 nr. 5 om domstolene (domstolloven)
-§ 51a.
-
-[Side 297]
-
-NOU 2020: 9
-Blindsonen
-
-å kaste lys over de EØS-rettslige spørsmålene
-sakskomplekset reiser.
-Det er enighet i utvalget om at for så vidt gjelder medlemmer av folketrygden som er omfattet
-av bestemmelsene i EØS-avtalens hoveddel om fri
-bevegelighet for arbeidstakere og etableringsrett,
-er folketrygdlovens krav om opphold i Norge en
-restriksjon på rettighetene disse reglene gir. EØSavtalens hoveddel gjelder som norsk lov, og de
-regler som følger av den skal gå foran regler som
-følger av andre bestemmelser.7 For disse personene var rettsstillingen allerede fra 1. januar 1994
-slik at de ikke kunne nektes syke-, pleie-, og
-arbeidsavklaringspenger utelukkende med den
-begrunnelse at de oppholdt seg i et annen EØSstat. Det innebærer at det kan foreligge ugyldige
-tilbakebetalingskrav og feilaktige domfellelser
-basert på forhold som forelå før 1. juni 2012. På
-dette grunnlaget mener et samlet utvalg at det er
-nødvendig at forvaltningen gjennomgår praksis
-før 1. juni 2012.
-For så vidt gjelder situasjonen der medlemmet
-er norsk statsborger, og vedkommende ikke har
-eller har hatt arbeidsforhold eller næringsvirksomhet i andre EØS-stater, mener utvalgsleder
-Arnesen og medlemmet Strandbakken at slike
-medlemmer er omfattet av EØS-retten i kraft av å
-være tjenestemottaker i en annen EØS-stat. Slik
-utvalgsleder Arnesen og medlemmet Strandbakken
-ser det, har det derfor siden 1. januar 1994 vært i
-strid med EØS-retten å nekte disse medlemmene
-syke-, pleie-, eller arbeidsavklaringspenger utelukkende fordi de er i en annen EØS-stat.8 Utvalget
-for øvrig finner ikke grunnlag til å konkludere
-med at disse reglene kommer til anvendelse i de
-aktuelle sakene.
-Trygdeforordningen artikkel 7 bestemmer at
-myndighetene ikke kan redusere eller stanse
-trygdeutbetalinger til en EØS-borger bare fordi
-personen bor i en annen EØS-stat. Bestemmelsen regulerer ikke situasjonen der vedkommende oppholder seg i en annen EØS-stat enn
-trygdestaten uten å være bosatt der. Artikkel 21 i
-forordningen bestemmer at et medlem av folketrygden som befinner seg i en annen EØS-stat
-enn Norge «skal ha rett til» utbetalinger fra Nav
-«i samsvar med» norske trygderegler. Utvalget
-forstår dette slik at ytelser som koordineres gjennom trygdeforordningen, i de situasjoner forord7
-
-8
-
-Se lov 27. november 1992 nr. 109 om gjennomføring i norsk
-rett av hoveddelen i avtale om Det europeiske økonomiske
-samarbeidsområde (EØS) m.v. (EØS-loven) §§ 1 og 2.
-Utvalgsleder Arnesen og medlemmet Strandbakken redegjør for sitt syn i punkt 5.
-
-295
-
-Vedlegg 2
-
-ningen regulerer, derfor ikke kan nektes utbetalt
-utelukkende fordi mottakeren befinner seg i en
-annen EØS-stat enn Norge. Samtidig gir ikke
-bestemmelsen noen ubetinget rett til å motta
-trygdeytelser i utlandet.
-Sykepenger, pleiepenger og arbeidsavklaringspenger skal kompensere manglende inntekt som
-skyldes egen eller andres sykdom. Et viktig tilleggsformål med disse ytelsene er å bringe personen tilbake til arbeidsmarkedet, ved at vedkommende blir frisk eller omskoleres til annet arbeid.
-Utbetalingene skal derfor kombineres med oppfølging av og plikter for mottaker. Der oppfølging blir
-vanskelig eller umulig dersom personen ikke oppholder seg i Norge, eller opphold utenlands medfører at vedkommende ikke kan utføre pålagte plikter, vil EØS-retten normalt ikke være til hinder for
-at det kreves samtykke fra trygdemyndighetene,
-eventuelt omlegging av plikter som forutsetter opphold på trygdestatens territorium, før utenlandsreise kan skje. Det følger av dette at en ordning der
-ytelsen beholdes hvis det kan godtgjøres at utenlandsoppholdet er forenlig med pålagte plikter og
-heller ikke hindrer oppfølging og kontroll, kan la
-seg forene med EØS-retten.
-Folketrygdloven pålegger medlemmet å opplyse om endringer som kan være avgjørende for
-om vedkommende har rett til ytelsen eller for å
-kontrollere ytelsens størrelse.9 Det er straff for å
-gi uriktige opplysninger eller holde tilbake opplysninger som «er viktige for rettigheter og plikter»
-etter folketrygdloven.10 Det er også straff for ikke
-å gi de opplysninger og meldinger man er pålagt
-med hjemmel i loven.11 Selv der nasjonale regler
-lovlig kan hindre fri bevegelighet, må sanksjonene ved brudd på slike regler overholde EØSrettslige krav. Dette innebærer at sanksjonen ved
-regelbrudd ikke kan stå i et slikt misforhold til
-overtredelsens grovhet at sanksjonen i seg selv
-utgjør en hindring for fri bevegelighet.
-Utvalget konkluderer med at det kravet til forutgående samtykke som folketrygdloven oppstiller
-for adgangen til å motta arbeidsavklaringspenger,
-sykepenger eller pleiepenger under opphold i en
-annen EØS-stat, må praktiseres i samsvar med
-EØS-rettslige begrensninger i de situasjoner der
-forordning 883/2004 kommer til anvendelse. Utvalget mener derfor at det siden 1. juni 2012 har vært i
-strid med Norges forpliktelser etter EØS- retten,
-og, siden folketrygdloven skal forstås med de
-modifikasjoner som følger av forordning 883/
-9
-10
-11
-
-Folketrygdloven § 21-3 første ledd.
-Folketrygdloven § 25-12 første ledd.
-Folketrygdloven § 25-12 annet ledd.
-
-[Side 298]
-
-296
-
-NOU 2020: 9
-
-Vedlegg 2
-
-Blindsonen
-
-2004,12 norsk rett, å nekte syke-, pleie-, og arbeidsavklaringspenger utelukkende med den begrunnelse at mottaker befinner seg i en annen EØS-stat.
-
-1
-
-Innledning
-
-1.1
-Om denne delutredningen
-Utvalget for ekstern gransking av håndtering og
-praktisering av EUs trygdeforordning ble oppnevnt
-i statsråd 8. november 2019. Utvalget er satt ned for
-å få gjennomført en grundig og fullstendig
-gjennomgang av årsakene til at folketrygdlovens
-regler om syke-, pleie-, og arbeidsavklaringspenger
-er praktisert slik at retten til disse kontantytelsene
-er nektet der medlemmer av folketrygden bosatt i
-Norge har oppholdt seg i andre EØS- land.13
-Det fremgår av utvalgets mandat at det kan
-avgi delutredninger. Utvalget fant at det kunne
-være hensiktsmessig, både for eget og andres
-arbeid, om det avga en delutredning som behandler EØS-rettslige spørsmål oppholdskrav reiser.
-Utredningen er ferdigstilt noe tid etter at utvalgets
-medlem Jens Edvin A. Skoghøy ble fritatt for vervet fordi han hadde søkt stilling som dommer i
-Høyesterett. Etter Skoghøys fratreden ble
-Asbjørn Strandbakken oppnevnt som medlem i
-utvalget med virkning fra 1. mars 2020. Utredningen ble ferdigstilt i møte 2. mars 2020.
-Utvalget er forelagt Arbeids- og velferdsdirektoratets juridiske vurdering datert 27. oktober
-2019, hvor det konkluderes at forordning 883/
-2004 innebærer at det «ikke [vil] være anledning
-til å avslå krav om kontantytelser alene på bakgrunn av at bruker oppholder seg i et annet EØSland». Denne konklusjonen, som ikke er bindende
-for utvalget, kan utvalget tiltre.
-1.2
-
-Om trygdeforordningene og
-de alminnelige reglene om fri
-bevegelighet
-
-1.2.1
-
-Trygdeforordningens koordinerende
-funksjon
-Forordning 883/2004 og den tilhørende forordning 987/2009 regulerer forholdet mellom EØSstatenes trygdeordninger. Forordningene avløser
-12
-
-Se trygdeforordningsforskriften § 1 tredje ledd jf. første
-ledd.
-13
-Lov 28. februar 1997 nr. 19 om folketrygd. Det heter i §§ 8-9,
-9-4 og 11-3 at opphold i Norge er et vilkår for rett til henholdsvis syke-, pleie-, og arbeidsavklaringspenger, men
-bestemmelsene gir hjemmel til å dispensere fra dette
-kravet.
-
-forordning 1408/71 og forordning 574/72, og er
-ment å erstatte, forenkle og modernisere
-reglene.14 Samtidig utvides forordningens personelle anvendelsesområde slik at alle EØS-borgere,
-statsløse personer og flyktninger som er bosatt i
-en EØS-stat og som er eller har vært omfattet av
-en eller flere EØS-staters lovgivning, og deres
-familiemedlemmer og etterlatte er omfattet, ikke
-bare personer som er eller har vært i økonomisk
-aktivitet, jf. artikkel 2.
-Forordningenes hovedformål er å regulere hvilket lands trygdeordning som kommer til anvendelse når, og å sikre at opptjente trygderettigheter
-ikke går tapt dersom medlemmet flytter til en
-annen EØS-stat.15 Forordningene regulerer derfor
-i utgangspunktet ikke innretningen av medlemsstatenes trygdeordninger; de koordinerer bruken
-av dem.16 Trygdeordningene er fortsatt nasjonale.
-Dette betyr at verken spørsmålet om hvilke trygdeordninger en stat har, eller spørsmålet om hvilke
-vilkår som må være oppfylt for å motta trygdeytelser, er harmonisert gjennom forordningene.
-EU-domstolen har i en rekke avgjørelser påpekt at
-eksistensen av ulike nasjonale trygdeordninger
-innebærer at utøvelsen av fri bevegelighet kan få
-betydning for retten til ytelser i henhold til de ulike
-ordningene, uten at dette er i strid med EU-retten.
-Det samme gjelder under EØS-avtalen.
-Selv om trygdeforordningene i prinsippet stiller medlemsstatene fritt i utformingen av nasjonale trygdeordninger, må ordningene like fullt
-ligge innenfor rammene av hva EØS- retten tillater. Dette innebærer blant annet at nasjonale
-trygderegler må tilfredsstille de kravene som
-følger av de alminnelige reglene om fri bevegelighet for personer, varer, tjenester og kapital. I tillegg må de nasjonale trygdeordningene oppfylle
-trygdeforordningenes krav til hvilken betydning
-opphold i andre EØS-stater kan tillegges.
-Trygdekoordineringsreglene har tett forbindelse med reglene om fri bevegelighet for arbeidskraft og selvstendig næringsdrivende. Dels skal
-de sikre arbeidstakere og næringsdrivende fra
-andre medlemsstater samme rettigheter som personer hjemmehørende i den aktuelle staten, og
-dels skal de sikre at opptjeningstid og opptjente
-ytelser kan tas med til andre medlemsstater. På
-denne måten legger forordningene til rette for fri
-bevegelighet av personer. En side ved dette er at
-14
-15
-16
-
-Se forordning 883/2004, fortalen avsnitt 3.
-Se Traktat om den europæiske unions funktionsmåde
-(TEUF) artikkel 48, og tilsvarende EØS-avtalen artikkel 29.
-Se forordning 883/2004, fortalen avsnitt 4, samt gjentatte
-uttalelser i praksis både fra EU- og EFTA- domstolen.
-
-[Side 299]
-
-NOU 2020: 9
-Blindsonen
-
-ikke bare statsborgere i EØS-stater er rettighetssubjekter, men også disses familiemedlemmer. I
-trygdeforordningene fremgår dette uttrykkelig.17
-Utenfor de situasjonene som reguleres av forordningene, følger dette av EU-domstolens praksis
-om forordning 492/11 artikkel 7. Denne forordningen er gjennomført i norsk rett ved EØSarbeidstakerlova.18
-
-Reglene om fri bevegelighet for
-arbeidstakere og selvstendig
-næringsdrivende
-De alminnelige reglene om fri bevegelighet for
-arbeidstakere og om etableringsrett, som gir
-næringsdrivende en rett til fri bevegelighet, følger
-av bestemmelsene i EØS-avtalens hoveddel. EØSavtalens hoveddel gjelder som norsk lov, og skal
-legges til grunn dersom de er i konflikt med andre
-regler i norsk rett. Slik har det vært siden
-1. januar 1994.
-Reglene om fri bevegelighet for arbeidstakere og selvstendig næringsdrivende er strukturert som forbud mot restriksjoner, supplert
-med unntak. For så vidt gjelder det nærmere innholdet i restriksjonsbegrepet, viser rettspraksis
-at reglene om fri bevegelighet for arbeidstakere
-forstås slik at både tiltak som uttrykkelig forskjellsbehandler på grunnlag av nasjonalitet, og
-tiltak som fremstår nasjonalitetsnøytrale, men
-som i praksis rammer arbeidstakere fra andre
-EØS-stater hardere enn arbeidstakere hjemmehørende i vertsstaten, er å anse som restriksjoner på den frie bevegelighet.19 Slike restriksjoner er i utgangspunktet forbudt. EU-domstolen har lagt til grunn at motstykket til EØSavtalen artikkel 28, TEUF artikkel 45,
-
-følgelig forbudt i henhold til artikel 45 TEUF
-(jf. i denne retning dom af 12.7.2012, Kommissionen mod Spanien, C-269/09, EU:C:2012:439,
-præmis 55 og den deri nævnte retspraksis).»20
-Siktemålet med de aktuelle bestemmelsene er
-med andre ord å
-«undgå, at en arbejdstager, der har benyttet sin
-ret til fri bevægelighed, uden saglig begrundelse behandles ringere end en arbejdstager,
-der har tilbragt hele sit arbejdsliv i én og
-samme medlemsstat (dom af 12.6.2012, Hudzinski og Wawrzyniak, C-611/10 og C-612/10,
-EU:C:2012:339, præmis 80 og den deri nævnte
-retspraksis).»21
-
-1.2.2
-
-«er til hinder for enhver foranstaltning, som
-ganske vist finder anvendelse uden forskelsbehandling på grundlag af nationalitet, men
-som kan gøre det vanskeligere eller mindre
-attraktivt for unionsborgerne at udøve de i
-traktaten sikrede grundlæggende friheder
-(dom af 6.10.2016, Adrien m.fl., C-466/15,
-EU:C:2016:749, præmis 26). Selv restriktioner
-af den frie bevægelighed for personer med
-ringe rækkevidde eller af mindre betydning er
-17
-
-Se forordning 1408/71 artikkel 2 og forordning 883/2004
-artikkel 2.
-18
-Lov 14. desember 2012 nr. 81. Forordningen erstatter forordning 1612/68, som var gjennomført i norsk rett ved lov
-27. november 1992 nr. 112. Om forståelsen av denne, se sak
-94/84 Deak.
-19
-Se EØS-avtalen artikkel 28 flg.
-
-297
-
-Vedlegg 2
-
-EØS-avtalen artikkel 31 flg. forbyr restriksjoner i
-etableringsretten, og dermed også næringsdrivendes bevegelighet. EFTA-domstolen har, som EUdomstolen, forstått reglene slik:
-«Tiltak som kan hindre utøvelsen av de grunnleggende friheter som sikres i EØS-avtalen,
-eller gjøre den mindre interessant, er, selv om
-de får anvendelse uten hensyn til nasjonalitet,
-en krenkelse av disse friheter som må rettferdiggjøres».22
-I Holship-dommen fikk dette tilslutning fra Høyesterett i plenum.23 Vurderingen blir derfor den
-samme her som i relasjon til reglene om fri
-bevegelighet for arbeidstakere.
-Restriksjonsbegrepet har for alle praktiske formål det samme innhold uavhengig av hvilken frihet det er tale om, og er vidt nok til å ramme både
-hjemstats- og vertsstatsrestriksjoner. I EU-retten
-ser vi det samme, og da slik at den alminnelige
-rett til fri bevegelighet for personer unionsborgerskapet gir, er et forbud mot tiltak som kan hindre
-eller gjøre det mindre attraktivt å reise til andre
-medlemsstater.
-Det kan derfor ikke være tvil om at det er en
-restriksjon på den frie bevegelighet for arbeidstakere og på etableringsretten å knytte betingelser
-til syke-, pleie-, og arbeidsavklaringspenger som
-forutsetter opphold i trygdestaten og dermed vanskeliggjør reiser i EØS-området. Hvorvidt slike
-20
-21
-22
-23
-
-Sak C-420/15 straffesak mot U, avsnitt 20.
-Forente saker C-95/18 og C-96/18 van den Berg, avsnitt 75.
-Sak E-14/15 Holship Norge AS mot Transportarbeiderforbundet, avsnitt 115.
-Se HR-2016-2554-P Holship Norge AS mot Transportarbeiderforbundet.
+Hvorvidt en nektelse av utenlandsopphold eller de betingelser som måtte bli stilt for slikt opphold er forenlig med EØS-retten, beror på saksforholdet i den enkelte sak. Vurderingstemaet vil være om nektelsen er begrunnet i et eller flere av de hensyn som begrunner ordningen, om nektelsen er egnet til å beskytte dette hensynet, og om hensynet kan beskyttes på en måte som er mindre inngripende i retten til fri bevegelighet.

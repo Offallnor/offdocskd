@@ -1,930 +1,270 @@
-# NOU 2020: 9, del 15 av 29 (side 165–173)
+# NOU 2020: 9, del 15 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/ab01ca81-nou-2020-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-9/id2723776/
 - Original-PDF: https://www.regjeringen.no/contentassets/4217284a85064d56aeb03ad74d33768b/no/pdfs/nou202020200009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 165]
+## Behandlingen av straffesaker knyttet til utenlandsopphold
 
-NOU 2020: 9
-Blindsonen
+### Innledning: De straffbare forhold
 
-des riktig, henholdsvis i sivile saker og straffesaker. Deretter følger en generell gjennomgang
-av de aktuelle straffebestemmelsene på dette
-området, og enkelte prosessuelle regler, før utvalget redegjør for og vurderer behandlingen av
-sakene i påtalemyndigheten og domstolene.
-
-12.2 Plikten til å sikre riktig
-rettsanvendelse
-12.2.1 Generelt om domstolenes plikt til
-å sikre riktig rettsanvendelse
-I norsk straffeprosess gjelder det såkalte anklageprinsippet, jf. straffeprosessloven § 63. Dette innebærer at domstolen bare kan dømme etter begjæring fra påtalemyndigheten. Etter straffeprosessloven § 38 første ledd kan retten i utgangspunktet
-ikke gå utenfor det forhold tiltalen gjelder. Med
-hensyn til hvilket straffebud som skal anvendes
-på forholdet, er retten verken bundet av tiltalen
-eller de påstander som er fremsatt, jf. straffeprosessloven § 38 andre ledd første punktum.
-I sivile saker gjelder som hovedregel det
-såkalte disposisjonsprinsippet, som kort forklart
-betyr at retten er bundet av partenes krav, påstander og påstandsgrunnlag, jf. tvisteloven § 11-2
-første ledd.14 Retten har imidlertid også i sivile
-saker ansvaret for rettsanvendelsen. Innenfor de
-rammer som følger av tvisteloven § 11-2 første
-ledd skal retten av eget tiltak anvende gjeldende
-rettsregler, jf. tvisteloven § 11-3. Dette innebærer
-at retten har ansvaret for at rettsanvendelsen er
-riktig, og at retten har både plikt og rett til å
-anvende korrekte rettsregler. Retten skal i den
-enkelte sak foreta en selvstendig vurdering av
-hvilke rettsregler som skal anvendes, og hvilken
-tolkning av disse reglene som skal legges til
-grunn, uavhengig av hva partene har anført.15
-Retten kan også bygge sin avgjørelse på rettsregler som ikke er påberopt av partene, innenfor
-de begrensninger som følger av det alminnelige
-kontradiksjonsprinsippet.16 Formålet med rettens
-ansvar for rettsanvendelsen er å sikre riktige
-avgjørelser.
-Det generelle lovskravet for å ilegge straff følger av Grunnloven § 96 første ledd, og innebærer
-i sin kjerne at ingen kan straffedømmes uten
-hjemmel i lov.17 Retten er naturligvis bundet av
-14
-
-Unntak gjelder i saker uten fri rådighet, jf. tvisteloven § 11-4.
-Unntaket er ikke aktuelt i sakene som behandles her.
-15
-For sivile saker fremgår rettens ansvar for rettsanvendelsen av tvisteloven § 11-3. I straffesaker følger det av straffeprosessloven § 38.
-
-163
-
-Kapittel 12
-
-dette. I tillegg gjelder den alminnelige rettsstridsreservasjonen i straffesaker, som innebærer at et
-straffebud ikke kan anvendes på handlinger som
-det ikke har vært lovgivers mening å ramme.18
-Om retten finner at tiltaltes handlinger ikke er
-straffbare, skal tiltalte frifinnes.
-Det følger videre av EU-domstolens praksis at
-nasjonale domstoler og tvisteløsningsorganer,
-innenfor de rammer som følger av nasjonal rett,
-plikter å anvende EU-retten av eget tiltak. Det
-samme gjelder etter EØS-avtalen.19
-Både i sivile saker og straffesaker skal altså
-domstolene vurdere om EØS-retten kommer til
-anvendelse, uavhengig av om partene i en sivil
-sak, eller påtalemyndigheten eller siktede i en
-straffesak, har påberopt EØS-retten.
-
-12.2.2 Særlig om håndteringen av
-straffesaker
-På strafferettens område er det etablert sektormonisme i norsk rett. Dette innebærer at folkeretten setter begrensninger i adgangen til å kriminalisere eller anvende straff for handlinger som er
-tillatt etter folkeretten. Sektormonismen kommer
-til uttrykk i straffeloven § 2, som lyder:
-§ 2. Folkerettslige begrensninger
-Straffelovgivningen gjelder med de
-begrensninger som følger av overenskomster
-med fremmede stater eller av folkeretten for
-øvrig.20
-EØS-avtalen er en folkerettslig avtale. Når det er
-nødvendig for å sikre rettigheter som følger av
-EØS-avtalen, følger det altså av straffeloven § 2 at
-straffelovgivningen skal tolkes innskrenkende.
-Dette gjelder også dersom EØS-rettslige forplik16
-
-17
-
-18
-19
-20
-
-Kontradiksjonsprinsippet gjelder både i sivile saker og
-straffesaker, jf. Grunnloven § 95, Den europeiske
-menneskerettighetskonvensjon (EMK) artikkel 6 (1) og
-FN-konvensjonen om sivile og politiske rettigheter (SP)
-artikkel 14 (1). Se Ot.prp. nr. 51 (2004–2005) s. 166–167 om
-de begrensninger som følger av kontradiksjonsprinsippet i
-sivile saker. I straffesaker fremgår det av straffeprosessloven § 38 tredje ledd at partene skal få uttale seg om spørsmålet før retten bruker et annet straffebud enn tiltalebeslutningen eller idømmer en annen rettsfølge enn det
-som er påstått i tiltalen. Se også Matningsdal (2013) og
-Øyen (2019).
-Dette kravet omtales gjerne som legalitetsprinsippet. Et
-slikt krav følger også av Den europeiske menneskerettighetskonvensjon (EMK) artikkel 7.
-Se Ot.prp. nr. 90 (2003–2004), s. 26. Se også Gröning,
-Husabø og Jacobsen (2019) s. 185 flg.
-Se Fredriksen (2008) s. 321–334, og Jünge (2017).
-Den tidligere straffeloven (1902-loven) § 1 annet ledd
-hadde tilsvarende ordlyd og innhold.
-
-[Side 166]
-
-164
-
-Kapittel 12
-
-NOU 2020: 9
-Blindsonen
-
-telser er feil eller mangelfullt gjennomført i norsk
-rett, ettersom folkerettslige regler er gitt forrang
-foran den norske straffelovgivningen.21 Sammen
-med rettens plikt til å anvende EØS-retten av eget
-tiltak, innebærer dette at domstolene på eget
-initiativ plikter å vurdere, og om nødvendig
-anvende, EØS-rettslige regler som begrenser
-adgangen til å ilegge straff i den enkelte sak.
-På strafferettens område er det sjeldent straffelovens bestemmelser som i seg selv kommer i konflikt med EØS-retten, men heller den underliggende lovbestemmelsen i spesiallovgivningen.
-Hvorvidt det er adgang til å ilegge straff vil da bero
-på en vurdering av denne bestemmelsens forhold
-til EØS-retten, og den rettslige problemstillingen vil
-i prinsippet være den samme uavhengig av om den
-oppstår i en sivil sak eller en straffesak.22 Fordi det
-gjelder et strengt legalitetskrav på strafferettens
-område, vil terskelen for å avsi en fellende dom
-være høy når spørsmålet om EØS-strid aktualiseres
-i en straffesak, og tolkningen av EØS-retten er usikker.23 I en sivil sak vil domstolene ikke nødvendigvis ha samme plikt til å tillegge en EØS-rettslig
-anførsel vekt dersom den er uklar.24
-Begrensningene som følger av sektormonismen kommer i tillegg til de begrensninger som
-følger av at bestemmelsene i EØS-avtalens hoveddel gjelder som norsk lov, jf. EØS-loven § 1, og at
-lovbestemmelser som tjener til å oppfylle Norges
-EØS-rettslige forpliktelser har forrang der de
-kommer i konflikt med andre bestemmelser, jf.
-EØS-loven § 2.
-
-12.2.3 Navs plikter ved anmeldelse av
-potensielle straffesaker
-Etter straffeprosessloven § 224 første ledd kan
-etterforskning foretas når det som følge av anmeldelse eller andre omstendigheter er «rimelig
-grunn til å undersøke om det foreligger straffbart
-forhold som forfølges av det offentlige». En
-anmeldelse, kombinert med det såkalte anmelde21
-
-Se også Fredriksen (2011) s. 44, punkt 7.4 «EØS-saker fra
-strafferettens område», der det med henvisning til ordlyden i tidligere straffelov § 1 ganske enkelt fastslås at manglende gjennomføring er «uten betydning i strafferettslig
-sammenheng».
-22 Se nærmere Fredriksen (2011) s. 44 flg. Fredriksen viser
-gjennom illustrerende eksempler fra rettspraksis hvordan
-EØS-retten begrenser både hvilke handlinger det kan straffes for, og for eksempel hvilket skyldkrav som kan legges
-til grunn.
-23
-Om EØS-retten er direkte til hinder for domfellelse, for
-eksempel fordi det påstått straffbare forholdet helt klart er
-tillatt etter EØS-retten, kan det naturligvis ikke avsies fellende dom.
-24
-Se nærmere om disposisjonsprinsippet over i punkt 12.2.1.
-
-ransvaret, vil normalt gi politiet rimelig grunn til å
-etterforske. Anmelderansvaret er indirekte regulert i straffeloven § 222, ved at det er belagt med
-straffansvar å rette uriktig anklage, og slik påføre
-noen en siktelse eller domfellelse.
-Samtlige straffesaker i det sakskomplekset
-utvalget undersøker, er igangsatt etter anmeldelse
-fra Nav. Det er Nav Kontroll som anmelder og
-begjærer påtale i saker som gjelder trygdebedrageri. Det foreligger ingen særskilt lovregulering av
-Navs anmelderansvar. Det følger imidlertid av Navloven § 7 tredje ledd at taushetsplikten ikke er til
-hinder for å gi andre forvaltningsorganer opplysninger når det er «nødvendig for å fremme Arbeids- og
-velferdsetatens oppgaver […] eller for å hindre at
-noen urettmessig får utbetalt offentlige midler eller
-unndrar midler fra innbetaling til det offentlige».
-Dette innebærer at Nav Kontroll ikke kan anmelde
-forhold til politiet med mindre det er «nødvendig»
-for ett av de formålene bestemmelsen angir.
-Det er en sentral oppgave for Nav å avdekke og
-forebygge trygdemisbruk, og bruk av anmeldelser
-er en del av dette arbeidet.25 I tillegg vil etaten, som
-ellers ved utøvelse av myndighet, være bundet av
-alminnelige forvaltningsrettslige prinsipper om
-saklighet og forsvarlig saksbehandling. I dette ligger for eksempel at Nav har ansvar for å bygge på
-en korrekt forståelse av trygderegelverket.
-Tidligere riksadvokat Tor-Aksel Busch har i sin
-redegjørelse for utvalget pekt på at det hviler et
-særlig tungt ansvar på offentlige spesialistorganer
-ved inngivelse av anmeldelser. Utvalget oppfatter
-dette som en henvisning til at offentlige spesialistorganer som Nav bør sørge for at det er foretatt en
-grundig vurdering av både faktum og spørsmålet
-om spesiallovgivningen er overtrådt, før forholdet
-anmeldes. Dette henger trolig sammen med at det i
-praksis er en slags arbeidsdeling mellom offentlige
-kontrollorganer og politi og påtalemyndighet, og at
-de offentlige kontrollorganene gjennomgående
-nyter stor tillit innenfor sine områder. Utvalgets
-undersøkelser underbygger dette.
-Det er ikke rettslige holdepunkter for å etablere et særskilt anmelderansvar for Nav, utover
-25
-
-I Arbeids- og sosialdepartementets årlige tildelingsbrev til
-etaten er forebygging og avdekking av trygdemisbruk og svindel fremhevet som en «sentral oppgave» over de siste
-10–12 år. Nav Kontroll ble opprettet ved Nav-reformen i
-2006, og har fått vide fullmakter til å forfølge misbruk. I tildelingsbrevet for 2009 fra Arbeids- og Inkluderingsdepartementet til Arbeids- og velferdsdirektoratet, datert 9.
-februar 2009, er det henvist til at etaten vil få utvidede fullmakter til innhenting av opplysninger og til å iverksette tiltak for å kreve tilbake feilutbetalte ytelser. Departementet
-viser her til at det «påligger etaten å sikre at disse fullmaktene brukes på en effektiv måte», se tildelingsbrevets s. 18.
-
-[Side 167]
-
-NOU 2020: 9
-Blindsonen
-
-det som er redegjort for ovenfor. Like fullt mener
-utvalget at politi og påtalemyndighet bør kunne
-stille visse forventninger til anmeldelser som
-kommer fra Nav.
-
-12.2.4 Påtalemyndighetens plikt til
-å etterprøve rettsanvendelsen
-i anmeldelser fra Nav
-Det er påtalemyndigheten som avgjør om etterforskning skal iverksettes, også når det foreligger
-anmeldelse fra et offentlig kontrollorgan, jf.
-straffeprosessloven §§ 224 og 225. Formålet med
-etterforskningen er først og fremst å skaffe til veie
-opplysninger og bevis til avgjørelse av påtalespørsmålet og å gi grunnlag for sakens eventuelle
-behandling i retten, jf. straffeprosessloven § 226
-første ledd bokstav a og b. Påtalemyndigheten
-skal innta en objektiv og upartisk rolle under
-etterforskningen, jf. straffeprosessloven § 226
-tredje ledd jf. § 55 fjerde ledd.
-I de straffesakene utvalget har gjennomgått, er
-det klare inntrykket at påtalemyndigheten sjelden
-har iverksatt ytterligere etterforskningsskritt,
-utover at det er gjennomført avhør av mistenkte.
-Det er ikke tvilsomt at påtalemyndigheten har
-ansvaret for etterforskningen. I praksis har Nav
-tilrettelagt det meste av grunnlaget for den påtalemessige avgjørelsen i saken.26
-Tiltalespørsmålet avgjøres av kompetent påtalemyndighet, jf. straffeprosessloven § 249, jf. straffeprosessloven §§ 64 til 67. For å ta ut tiltalebeslutning må påtalemyndigheten være overbevist om
-siktedes skyld, og være av den oppfatning at det er
-mulig å bevise dette utenfor enhver rimelig tvil.
-Nav har forutsetningsvis spesialkompetanse
-på trygdeområdet. I praksis synes påtalemyndigheten i stor grad å ha basert seg på Navs rettsoppfatning knyttet til spørsmålet om det foreligger
-overtredelse av trygdelovgivningen, herunder forholdet til EØS-reglene, ved den påtalemessige
-avgjørelsen.27 Dette er et utslag av en praktisk
-arbeidsdeling, ikke en formell ansvarsfordeling;
-det er ikke tvilsomt at påtalemyndigheten har
-plikt til, på grunnlag av etterforskningsmaterialet,
-å ta selvstendig stilling om de objektive og subjektive vilkår for straff er oppfylt.28
-26
-
-Nærmere kvalitetskrav til etterforskningen fremgår av
-Riksadvokatens rundskriv RA nr. 3/2018.
-27
-Forholdet til EØS-reglene er etter det utvalget har kunnet
-bringe på det rene aldri berørt i oversendelsene til politiet.
-28
-Dette innebærer en plikt til selv å utføre etterforskningsskritt der dette er nødvendig, og til å etterprøve de vurderinger Nav har gjort på grunnlag av bevisene som foreligger.
-
-165
-
-Kapittel 12
-
-Fag- og opplæringsansvarlige påtalejurister i
-landets politidistrikter er bedt om å gi innspill til
-granskingsutvalget om hvilket arbeid som gjøres
-med opplæring og rutiner knyttet til håndtering av
-anmeldelser fra Nav og sammenlignbare offentlige spesialistorganer.29 Oslo politidistrikt er det
-eneste av disse som har oppgitt å ha særskilte
-rutiner knyttet til oppfølging av anmeldelser fra
-Nav. Politidistriktet har gitt følgende redegjørelse
-for sitt arbeid:
-«Oslo politidistrikt har samlet samtlige Navsaker med unntak av aleneforsørgersaker på
-ett avsnitt i politidistriktet. Dette er et spesialavsnitt som håndterer kun økonomisaker. Det er
-faste jurister og etterforskere som har disse
-sakene, og vi har derfor klart å få en meget tett
-og god dialog rundt nevnte temaer. Vi har oppfølgingsmøte ca. tre ganger i halvåret med Nav
-Kontroll hvor EØS-regelverk og utenlandssaker er ett av flere temaer som tas opp. På
-disse møtene stiller jurister og rådgivere fra
-Nav Kontroll som er nasjonale spesialister på
-dette området. Oslo politidistrikt har ønsket
-seg en ordning som var tidligere med at Nav
-Kontroll hadde en jurist lokalisert i Oslo politidistrikt som bistandsjurist på samtlige Navsaker, noe vi tror vil kunne styrke ytterligere
-mulighet for oppfølgning og etterlevelse av
-gjeldende lovverk. Dette ønsket har Nav Kontroll så langt ikke kunnet innfri.»30
-Utvalget har forståelse for at påtalemyndigheten
-ikke kan besitte spesialistkompetanse på alle
-områder, og at det i en viss utstrekning må være
-arbeids- og ressursdeling mellom offentlige kontrollorganer som Nav og påtalemyndigheten. At
-vurderingen av spørsmålet om rent trygderettslige bestemmelser er overtrådt i hovedsak gjøres
-av Nav, fremstår hensiktsmessig.
-
-12.3 Forventninger til domstolenes
-selvstendige initiativ i straffesaker
-og sivile saker
-Både i straffesaker og sivile saker følger det av
-EU-domstolens praksis at retten har ansvar for å
-anvende EU-retten. Den samme plikten følger av
-29
-
-30
-
-Granskingsutvalget har innhentet en redegjørelse fra fagog opplæringsansvarlig politiadvokat i Øst politidistrikt,
-som har etterspurt innspill fra fagansvarlige i alle landets
-politidistrikter.
-Redegjørelse datert 16. april 2020, inntatt i oversendelse fra
-Øst politidistrikt til utvalget, 17. april 2020.
-
-[Side 168]
-
-166
-
-NOU 2020: 9
-
-Kapittel 12
-
-Blindsonen
-
-EØS-avtalen, som redegjort for over i punkt
-12.2.1.
-Selv om retten i straffesaker er ubundet av tiltalen og partenes anførsler om lovanvendelsen, er
-det i praksis slik at retten i stor grad begrenser
-seg til å vurdere de rettslige anførslene påtalemyndigheten og tiltalte, eventuelt forsvareren,
-gjør gjeldende.31
-Straffeprosesslovgivningens forsikring om at
-retten har det siste ordet om lovanvendelsen er i
-seg selv ingen garanti mot at tiltalte kan bli straffedømt uten tilstrekkelig hjemmel i lov eller i strid
-med EØS-retten. Prosesslovgivningen gir i enda
-mindre grad garantier mot EØS-stridige avgjørelser i sivile saker. Både i straffesaker og sivile
-saker har retten behov for et visst samspill med
-partene for å sikre korrekt rettsanvendelse.32
-
-12.4 Behandlingen av straffesaker
-knyttet til utenlandsopphold
-12.4.1 Innledning: De straffbare forhold
 De aktuelle straffebudene
-Det finnes ingen egen regulering av trygdebedrageri i norsk strafferett.33 Trygdebedrageri straffes
-etter den alminnelige bedrageribestemmelsen i
-straffeloven. Bedrageri begått før 1. oktober 2015
-straffes etter straffeloven av 1902 § 270, mens
-bedrageri begått etter denne dato straffes etter
-straffeloven av 2005 § 371, jf. samme lov § 411 jf. § 3.
+
+Det finnes ingen egen regulering av trygdebedrageri i norsk strafferett.[^466] Trygdebedrageri straffes etter den alminnelige bedrageribestemmelsen i straffeloven. Bedrageri begått før 1. oktober 2015 straffes etter straffeloven av 1902 § 270, mens bedrageri begått etter denne dato straffes etter straffeloven av 2005 § 371, jf. samme lov § 411 jf. § 3.
+
 De to straffebudene lyder som følger:
-Straffeloven av 1902 § 270
-For bedrageri straffes den som i hensikt å
-skaffe seg eller andre en uberettiget vinning
-(1) ved å fremkalle, styrke eller utnytte en
-villfarelse rettsstridig forleder noen til en handling som volder tap eller fare for tap for ham
-eller den han handler for, eller
-(2) ved bruk av uriktig eller ufullstendig opplysning, ved endring i data eller programutrustning eller på annen måte rettsstridig påvirker
-resultatet av en automatisk databehandling, og
-derved volder tap eller fare for tap for noen.
-Straffen for bedrageri er bøter eller fengsel
-inntil 3 år. Medvirkning straffes på samme måte.
-31
 
-I tilståelsessaker har siktede status som siktet, ikke tiltalt,
-frem til dom. Denne saksbehandlingsformen er nærmere
-kommentert i punkt 12.4.3.
-32
-Utvalget kommer nærmere tilbake til noen av disse spørsmålene i kapittel 16.
-33
-Ot.prp. nr. 22 (2008–2009) s. 329.
+Straffeloven av 1902 § 270
 
-Straffeloven av 2005 § 371 Bedrageri
-Med bot eller fengsel inntil 2 år straffes den
-som med forsett om å skaffe seg eller andre en
-uberettiget vinning
-a) fremkaller, styrker eller utnytter en villfarelse og derved rettsstridig forleder noen til
-å gjøre eller unnlate noe som volder tap
-eller fare for tap for noen, eller
-b) bruker uriktig eller ufullstendig opplysning,
-endrer data eller datasystem, disponerer
-over et kredittkort eller debetkort som tilhører en annen, eller på annen måte uberettiget påvirker resultatet av en automatisert
-databehandling, og derved volder tap eller
-fare for tap for noen.
-Straffeloven av 2005 videreførte i all hovedsak
-gjerningsbeskrivelsen for bedrageri slik dette var
-regulert i 1902-loven, med den forskjellen at det
-tidligere kravet om «vinnings hensikt» er erstattet
-av et krav om «vinnings forsett». Endringen innebærer at skyldkravet er senket; uberettiget vinning trenger ikke være hensikten med handlingen
-i seg selv, det er nok at det alminnelige forsettskravet er oppfylt.34 Bedrageribestemmelsen, både
-i 2005-loven og 1902-loven, skiller mellom såkalt
-tradisjonelt bedrageri og databedrageri.35 I det følgende gjennomgås først vilkårene for tradisjonelt
-bedrageri, og deretter vilkårene for databedrageri.
-For å kunne straffes for bedrageri, må gjerningspersonen ha «fremkalt, styrket eller utnyttet» en «villfarelse».36 Med «villfarelse» menes at
-en person har hatt en uriktig forståelse eller oppfatning av de faktiske forholdene i saken. Dersom
-trygdemyndighetene har trodd at en person utelukkende har oppholdt seg i Norge, mens vedkommende i realiteten også har oppholdt seg i
-utlandet, vil det objektivt sett foreligge en villfarelse.
-Villfarelsen «fremkalles» dersom den oppstår
-på grunn av gjerningspersonens adferd. Den vil
-«styrkes» dersom adferden gjør at en uriktig oppfatning befester seg ytterligere. Det kreves
-årsakssammenheng mellom adferden og villfarelsen. Det er likegyldig hvordan villfarelsen fremkalles eller styrkes, for eksempel omfattes både
-fortielser og konkludent adferd.37 Utnyttelse av
-villfarelse er også straffbart, noe som er særlig
-34
-35
-36
-37
+For bedrageri straffes den som i hensikt å skaffe seg eller andre en uberettiget vinning
 
-Se straffeloven § 22, og omtalen i Ot.prp. nr. 22 (2008–2009)
-s. 464.
-Matningsdal (2016) s. 425.
-Vilkåret er det samme etter 2005-loven som 1902-loven.
-Matningsdal (2016) s. 425.
+\(1\) ved å fremkalle, styrke eller utnytte en villfarelse rettsstridig forleder noen til en handling som volder tap eller fare for tap for ham eller den han handler for, eller
 
-[Side 169]
+\(2\) ved bruk av uriktig eller ufullstendig opplysning, ved endring i data eller programutrustning eller på annen måte rettsstridig påvirker resultatet av en automatisk databehandling, og derved volder tap eller fare for tap for noen.
 
-NOU 2020: 9
-Blindsonen
+Straffen for bedrageri er bøter eller fengsel inntil 3 år. Medvirkning straffes på samme måte.
 
-aktuelt der det er usikkert om gjerningspersonens adferd har hatt noen påvirkning på villfarelsen.38
-Det er videre et krav at gjerningspersonen,
-gjennom å skape, styrke eller utnytte en villfarelse, «rettstridig forleder» noen til å gjøre eller
-unnlate noe.39 For at det skal foreligge en forledelse, kreves årsakssammenheng mellom villfarelsen og handlingen eller unnlatelsen.40 Dersom trygdemyndighetene ikke kunne og ville
-handlet annerledes uten villfarelsen, vil det ikke
-foreligge noe bedrageri. Dersom man skaffer seg
-vinning gjennom for eksempel å forlede et
-datasystem, uten at en person på noe tidspunkt
-involveres i prosessen, vil ikke vilkåret om at en
-person forledes være oppfylt. Dette var bakgrunnen for at det ble innført en egen straffebestemmelse om databedrageri.41
-Den aktuelle forledelsen må være «rettsstridig». Gjerningspersonen må ha handlet på en
-måte som strider mot redelighet og god tro.42
-For å kunne dømme for bedrageri må handlingen eller unnlatelsen ha voldt «tap eller fare for
-tap».
-Den grunnleggende forskjellen mellom databedrageri og tradisjonelt bedrageri ligger i at det
-tradisjonelle bedrageri krever at en fysisk person
-føres bak lyset,43 mens det ved databedrageri er
-snakk om helautomatiserte systemer, slik at det
-ikke er mulig å identifisere et konkret menneske
-som har blitt forledet av gjerningspersonen.44
-Gjerningsbeskrivelsen av databedrageri fremgår av straffeloven 1902 § 270 annet ledd og
-straffeloven 2005 § 371 bokstav b. Ordlyden i de
-to bestemmelsene er i all hovedsak sammenfallende, og de mindre språklige endringene ved
-2005-loven innebar ingen endring av betydning
-her.
-For at det skal foreligge et databedrageri må
-for det første gjerningspersonen «rettsstridig
-påvirke resultatet av en automatisk databehandling». Bestemmelsen inneholder en ikke-uttømmende liste av mulige måter rettsstridig å påvirke
-et databehandlingssystem på, for eksempel ved
-bruk av «uriktig eller ufullstendig opplysning.»
+Straffeloven av 2005 § 371 *Bedrageri*
 
-167
+Med bot eller fengsel inntil 2 år straffes den som med forsett om å skaffe seg eller andre en uberettiget vinning
 
-Kapittel 12
+a\) fremkaller, styrker eller utnytter en villfarelse og derved rettsstridig forleder noen til å gjøre eller unnlate noe som volder tap eller fare for tap for noen, eller
 
-De fleste av domfellelsene i saker som faller
-inn under utvalgets mandat, gjelder grovt bedrageri. Etter bestemmelsene i så vel 1902- og 2005loven regnes bedrageri som har forårsaket
-«betydelig økonomisk skade», som grovt.45 Grensen for hva som regnes som betydelig økonomisk
-skade har i flere år ligget på rundt
-100 000 kroner.46 Nav Kontroll har prioritert
-anmeldelser av saker der det (påstått) feilutbetalte
-beløpet er høyt, og av de 94 domfellelsene utvalget har gjennomgått, gjelder bare åtte saker beløp
-under 100.000 kroner.47
+b\) bruker uriktig eller ufullstendig opplysning, endrer data eller datasystem, disponerer over et kredittkort eller debetkort som tilhører en annen, eller på annen måte uberettiget påvirker resultatet
+
+av en automatisert databehandling, og derved volder tap eller fare for tap for noen.
+
+Straffeloven av 2005 videreførte i all hovedsak gjerningsbeskrivelsen for bedrageri slik dette var regulert i 1902-loven, med den forskjellen at det tidligere kravet om «vinnings hensikt» er erstattet av et krav om «vinnings forsett». Endringen innebærer at skyldkravet er senket; uberettiget vinning trenger ikke være hensikten med handlingen i seg selv, det er nok at det alminnelige forsettskravet er oppfylt.[^467] Bedrageribestemmelsen, både i 2005-loven og 1902-loven, skiller mellom såkalt tradisjonelt bedrageri og databedrageri.[^468] I det følgende gjennomgås først vilkårene for tradisjonelt bedrageri, og deretter vilkårene for databedrageri.
+
+For å kunne straffes for bedrageri, må gjerningspersonen ha «fremkalt, styrket eller utnyttet» en «villfarelse».[^469] Med «villfarelse» menes at en person har hatt en uriktig forståelse eller oppfatning av de faktiske forholdene i saken. Dersom trygdemyndighetene har trodd at en person utelukkende har oppholdt seg i Norge, mens vedkommende i realiteten også har oppholdt seg i utlandet, vil det objektivt sett foreligge en villfarelse.
+
+Villfarelsen «fremkalles» dersom den oppstår på grunn av gjerningspersonens adferd. Den vil «styrkes» dersom adferden gjør at en uriktig oppfatning befester seg ytterligere. Det kreves årsakssammenheng mellom adferden og villfarelsen. Det er likegyldig hvordan villfarelsen fremkalles eller styrkes, for eksempel omfattes både fortielser og konkludent adferd.[^470] Utnyttelse av villfarelse er også straffbart, noe som er særlig aktuelt der det er usikkert om gjerningspersonens adferd har hatt noen påvirkning på villfarelsen.[^471]
+
+Det er videre et krav at gjerningspersonen, gjennom å skape, styrke eller utnytte en villfarelse, «rettstridig forleder» noen til å gjøre eller unnlate noe.[^472] For at det skal foreligge en forledelse, kreves årsakssammenheng mellom villfarelsen og handlingen eller unnlatelsen.[^473] Dersom trygdemyndighetene ikke kunne og ville handlet annerledes uten villfarelsen, vil det ikke foreligge noe bedrageri. Dersom man skaffer seg vinning gjennom for eksempel å forlede et datasystem, uten at en person på noe tidspunkt involveres i prosessen, vil ikke vilkåret om at en person forledes være oppfylt. Dette var bakgrunnen for at det ble innført en egen straffebestemmelse om databedrageri.[^474]
+
+Den aktuelle forledelsen må være «rettsstridig». Gjerningspersonen må ha handlet på en måte som strider mot redelighet og god tro.[^475]
+
+For å kunne dømme for bedrageri må handlingen eller unnlatelsen ha voldt «tap eller fare for tap».
+
+Den grunnleggende forskjellen mellom databedrageri og tradisjonelt bedrageri ligger i at det tradisjonelle bedrageri krever at en fysisk person føres bak lyset,[^476] mens det ved databedrageri er snakk om helautomatiserte systemer, slik at det ikke er mulig å identifisere et konkret menneske som har blitt forledet av gjerningspersonen.[^477]
+
+Gjerningsbeskrivelsen av databedrageri fremgår av straffeloven 1902 § 270 annet ledd og straffeloven 2005 § 371 bokstav b. Ordlyden i de to bestemmelsene er i all hovedsak sammenfallende, og de mindre språklige endringene ved 2005-loven innebar ingen endring av betydning her.
+
+For at det skal foreligge et databedrageri må for det første gjerningspersonen «rettsstridig påvirke resultatet av en automatisk databehandling». Bestemmelsen inneholder en ikke-uttømmende liste av mulige måter rettsstridig å påvirke et databehandlingssystem på, for eksempel ved bruk av «uriktig eller ufullstendig opplysning.»
+
+De fleste av domfellelsene i saker som faller inn under utvalgets mandat, gjelder grovt bedrageri. Etter bestemmelsene i så vel 1902- og 2005-loven regnes bedrageri som har forårsaket «betydelig økonomisk skade», som grovt.[^478] Grensen for hva som regnes som betydelig økonomisk skade har i flere år ligget på rundt 100 000 kroner.[^479] Nav Kontroll har prioritert anmeldelser av saker der det (påstått) feilutbetalte beløpet er høyt, og av de 94 domfellelsene utvalget har gjennomgått, gjelder bare åtte saker beløp under 100.000 kroner.[^480]
+
 Skyldkravet
-Det er et alminnelig vilkår for straffansvar at gjerningspersonen handlet med den nødvendige grad
-av skyld på gjerningstidspunktet. Norsk strafferett opererer med to ulike typer skyldkrav: forsett
-og uaktsomhet.
-De ulike former for forsett fremgår av 2005-loven § 22.48
-Loven opererer med hensiktsforsett, visshets- eller sannsynlighetsforsett og eventuelt forsett. Hensiktsforsett betyr at man med «viten og vilje» opptrer på en måte som dekkes av gjerningsbeskrivelsen i et straffebud. Visshets – eller sannsynlighetsforsett
-betyr at man har holdt det som sikkert eller mest sannsynlig at
-handlingen oppfylte gjerningsbeskrivelsen i et straffebud. Eventuelt forsett foreligger når man har innsett muligheten for at handlingen kan realisere gjerningsbeskrivelsen, men likevel tok det standpunkt at man ville foreta handlingen, selv om virkningen skulle inntreffe.49
-Skylden må i utgangspunktet dekke alle de omstendigheter
-som må foreligge for at det aktuelle straffebudet skal være overtrådt. For bedragerienes del betyr det at skylden må dekke det at
-man skapte, styrket eller utnyttet en villfarelse og på denne måten
-rettsstridig forledet noen til å handle på en måte som medførte tap
-eller fare for tap. Avhengig av om det er 1902-loven eller 2005-loven
-som rammer forholdet, må gjerningspersonen enten ha hensiktsforsett eller forsett om at man på denne måten skaffet seg uberettiget vinning.
-I vurderingen av om overtredelsen er grov, gjelder det likevel
-ikke samme krav til forsett for såkalte uforsettlige følger av handlingen, jf. strl. § 24. For slike omstendigheter er det tilstrekkelig
-med uaktsomhet med hensyn til følgen. Av avgjørende betydning
-for om bedrageriene i dette komplekset har blitt ansett som grove,
-har nettopp vært om de har hatt «til følge» store økonomiske skader jf. strl. 1902 § 271 og strl. 2005 § 372. Dermed behøver ikke de
-tiltalte å huske nøyaktig hvor store beløp det var snakk om for å
-domfelles for forsettlig, grovt bedrageri. Det er tilstrekkelig at det
-var uaktsomt av vedkommende ikke å være klar over omfanget.
 
-38
+Det er et alminnelig vilkår for straffansvar at gjerningspersonen handlet med den nødvendige grad av skyld på gjerningstidspunktet. Norsk strafferett opererer med to ulike typer skyldkrav: forsett og uaktsomhet.
 
-Matningsdal (2016) s. 426.
-Matningsdal (2016) s. 429.
-40
-Matningsdal (2016) s. 428.
-41
-Matningsdal (2016) s. 439.
-42
-Se Høyesteretts dom i Rt. 2012 s. 622.
-43
-Matningsdal (2016) s. 439.
-44
-Det kan selvfølgelig dømmes for tradisjonelt bedrageri selv
-om forledelsen har skjedd ved bruk av data, dersom det er
-mulig å identifisere en person som har blitt forledet.
-39
+De ulike former for forsett fremgår av 2005-loven § 22.[^481] Loven opererer med hensiktsforsett, visshets- eller sannsynlighetsforsett og eventuelt forsett. Hensiktsforsett betyr at man med «viten og vilje» opptrer på en måte som dekkes av gjerningsbeskrivelsen i et straffebud. Visshets – eller sannsynlighetsforsett betyr at man har holdt det som sikkert eller mest sannsynlig at handlingen oppfylte gjerningsbeskrivelsen i et straffebud. Eventuelt forsett foreligger når man har innsett muligheten for at handlingen kan realisere gjerningsbeskrivelsen, men likevel tok det standpunkt at man ville foreta handlingen, selv om virkningen skulle inntreffe.[^482]
 
-45
-46
-47
-48
-49
+Skylden må i utgangspunktet dekke alle de omstendigheter som må foreligge for at det aktuelle straffebudet skal være overtrådt. For bedragerienes del betyr det at skylden må dekke det at man skapte, styrket eller utnyttet en villfarelse og på denne måten rettsstridig forledet noen til å handle på en måte som medførte tap eller fare for tap. Avhengig av om det er 1902-loven eller 2005-loven som rammer forholdet, må gjerningspersonen enten ha hensiktsforsett eller forsett om at man på denne måten skaffet seg uberettiget vinning.
 
-Henholdsvis straffeloven av 1902 § 271 og straffeloven av
-2005 § 372.
-Se Høyesteretts dom i Rt. 2006 s. 853. Se også Matningsdal
-(2016) s. 450.
-I disse sakene er det domfelt for alminnelig bedrageri.
-Se nærmere Gröning, Husabø og Jacobsen (2019) s. 219
-flg.
-HR-2018-587-U avsnitt 17.
+I vurderingen av om overtredelsen er grov, gjelder det likevel ikke samme krav til forsett for såkalte uforsettlige følger av handlingen, jf. strl. § 24. For slike omstendigheter er det tilstrekkelig med uaktsomhet med hensyn til følgen. Av avgjørende betydning for om bedrageriene i dette komplekset har blitt ansett som grove, har nettopp vært om de har hatt «til følge» store økonomiske skader jf. strl. 1902 § 271 og strl. 2005 § 372. Dermed behøver ikke de tiltalte å huske nøyaktig hvor store beløp det var snakk om for å domfelles for forsettlig, grovt bedrageri. Det er tilstrekkelig at det var uaktsomt av vedkommende ikke å være klar over omfanget.
 
-[Side 170]
+Også uaktsomt bedrageri er straffbart.[^483] Det kreves i slike tilfeller at uaktsomheten er grov, jf. straffeloven § 374.[^484] Dette vil si at gjerningspersonens handling var «sterkt klanderverdig» og ga grunnlag for sterk bebreidelse, jf. straffeloven av 2005 § 23 andre ledd.
 
-168
+Uaktsomhetsvurderingen er todelt. Først vurderes om handlemåten avviker markant fra de alminnelige krav til forsvarlig opptreden som gjelder på det aktuelle livsområdet.[^485] I praksis stilles det strenge krav til aktsomhet på dette området.
 
-NOU 2020: 9
+Det må også vurderes om gjerningspersonen utfra sine personlige forutsetninger var sterkt å bebreide for sine handlinger.[^486] Utvalget har ikke kunnet spore avgjørelser i det materialet som er gjennomgått der dette kriteriet problematiseres i særlig grad, selv om noen av de domfelte var preget av sykdom på gjerningstiden. I sakene har omfanget, kvaliteten og innholdet av veiledningen tiltalte mottok fra Nav som regel vært utslagsgivende for vurderingen av aktsomhet.
 
-Kapittel 12
-
-Blindsonen
-
-Også uaktsomt bedrageri er straffbart.50 Det
-kreves i slike tilfeller at uaktsomheten er grov, jf.
-straffeloven § 374.51 Dette vil si at gjerningspersonens handling var «sterkt klanderverdig» og ga
-grunnlag for sterk bebreidelse, jf. straffeloven av
-2005 § 23 andre ledd.
-Uaktsomhetsvurderingen er todelt. Først vurderes om handlemåten avviker markant fra de
-alminnelige krav til forsvarlig opptreden som gjelder på det aktuelle livsområdet.52 I praksis stilles
-det strenge krav til aktsomhet på dette området.
-Det må også vurderes om gjerningspersonen
-utfra sine personlige forutsetninger var sterkt å
-bebreide for sine handlinger.53 Utvalget har ikke
-kunnet spore avgjørelser i det materialet som er
-gjennomgått der dette kriteriet problematiseres i
-særlig grad, selv om noen av de domfelte var preget av sykdom på gjerningstiden. I sakene har
-omfanget, kvaliteten og innholdet av veiledningen
-tiltalte mottok fra Nav som regel vært utslagsgivende for vurderingen av aktsomhet.
 Særlig om tiltale og dom for falsk forklaring
-I en del tilfeller gjelder domfellelsene utvalget har
-gjennomgått også falsk forklaring. Falsk forklaring er regulert i straffeloven av 2005 § 221,
-som lyder slik:54
-§ 221. Uriktig forklaring
-Med bot eller fengsel inntil 2 år straffes den
-som skriftlig eller muntlig gir uriktig opplysning til
-a) retten,
-b) notarius publicus, jf. lov 26. april 2002 nr. 12,
-c) offentlig myndighet under forklaringsplikt,
-d) offentlig myndighet når forklaringen er
-bestemt til å avgi bevis,
-e) EFTA-domstolen, eller
-f) Den internasjonale straffedomstolen.
-Straff etter første ledd kommer ikke til
-anvendelse mot en mistenkt som forklarer seg
-uriktig om det forhold mistanken mot ham gjelder. Det samme gjelder den som ikke kunne
-50
 
-Om uaktsomhetsansvaret, se Gröning, Husabø og Jacobsen (2019) s. 257 flg.
-51
-Se nærmere Gröning, Husabø og Jacobsen (2019) s. 283–
-285. Grovt uaktsomt bedrageri var i straffeloven av 1902
-regulert i § 271 a.
-52
-Se Gröning, Husabø og Jacobsen (2019) s. 263 flg.
-53
-Se nærmere Gröning, Husabø og Jacobsen (2019) 2019
-s. 278–282.
-54
-Bestemmelsen viderefører den tidligere bestemmelsen
-straffeloven av 1902 § 166, og overgangen til ny lov medførte ikke endringer i gjeldende rett. Se også Matningsdal
-(2016) s. 516.
+I en del tilfeller gjelder domfellelsene utvalget har gjennomgått også falsk forklaring. Falsk forklaring er regulert i straffeloven av 2005 § 221, som lyder slik:[^487]
 
-fortelle sannheten uten å utsette seg selv eller
-noen av sine nærmeste for straff eller fare for
-vesentlig tap av sosialt omdømme eller vesentlig velferdstap av annen art, med mindre vedkommende hadde plikt til å forklare seg.
-For å kunne straffes for falsk forklaring, må man
-ha gitt en «uriktig opplysning». Det straffbare forholdet knytter seg til det å forklare seg falskt overfor offentlig myndighet, gitt at man var underlagt
-forklaringsplikt. Som trygdemottaker er man
-underlagt opplysningsplikt om endringer i forhold
-som «kan være avgjørende» for retten til ytelsen,
-og man plikter, dersom Nav krever det, å gi de
-opplysninger som er «nødvendige for å kontrollere ytelsens størrelse eller vilkårene for rett til
-ytelsen» jf. folketrygdloven § 21-3. I standardinformasjonen Nav sender til mottakere av ytelser,
-står det at man må melde fra om man skal reise til
-utlandet.55 Nav har altså pålagt forklaringsplikt
-om utenlandsopphold.
-Som utvalget har redegjort for i delutredningen Trygd, oppholdskrav og reiser i EØS-området, kan ikke utenlandsopphold i
-EØS-området alene tillegges avgjørende betydning ved avgjørelsen
-av om vilkårene for å motta arbeidsavklaringspenger, sykepenger
-eller pleiepenger er oppfylt. For at ytelsen skal kunne avslås eller
-kreves tilbake, må øvrige vilkår være brutt. Det kan likevel være
-berettiget å oppstille søknads- eller informasjonsplikter. Slike plikter må oppfylle EØS-rettens krav. Nav har imidlertid lagt til grunn
-at utenlandsopphold i EØS det ikke er gitt særskilt tillatelse til, i
-seg selv kan medføre at retten til ytelsen bortfaller. Selv om denne
-oppfatningen ikke er riktig, kan opplysninger om utenlandsopphold etter forholdene være «nødvendige opplysninger» som det er
-adgang til å pålegge forklaringsplikt om etter folketrygdloven § 21-3.
-Utvalget behandler ikke enkeltsaker, og det ligger utenfor rammene for utredningen å gå nærmere inn i spørsmål som følger av at
-premissen for plikten har vært sviktende. Se nærmere om utvalgets vurderinger i punkt 12.7.
+§ 221. *Uriktig forklaring*
 
-Det kreves at det er avgitt en bevisst usann forklaring.56 Dersom mistenkte trodde opplysningene var riktige, foreligger det altså ikke falsk
-forklaring i bestemmelsenes forstand.57
-Dersom man har fortiet opplysninger om utenlandsopphold som man hadde forklaringsplikt om,
-55
+Med bot eller fengsel inntil 2 år straffes den som skriftlig eller muntlig gir uriktig opplysning til
 
-56
-57
+a\) retten,
 
-Informasjonen fra Nav har nok likevel ikke alltid blitt opplevd som klar på dette punktet. Se nærmere kapittel 4, der
-utvalgets møter med noen enkeltpersoner er gjengitt, og
-videre i kapittel 16 om rettssikkerhetsutfordringer. Også i
-de dommene utvalget har gjennomgått, fremgår det at flere
-av de dømte har forklart at de ikke forsto at de skulle søke
-om å reise til utlandet.
-Se senest HR-2019-1788-A avsnitt 21.
-Etter 1902-loven var dette subjektive elementet en del av
-begrepet «falsk forklaring», mens i ny lov er dette løst med
-den alminnelige hovedregelen om at det kreves forsett for
-straffbare handlinger, jf. strl. § 21.
+b\) notarius publicus, jf. lov 26. april 2002 nr. 12,
 
-[Side 171]
+c\) offentlig myndighet under forklaringsplikt,
 
-NOU 2020: 9
-Blindsonen
+d\) offentlig myndighet når forklaringen er bestemt til å avgi bevis,
 
-og dersom man har oppgitt at man var i Norge, vil
-man dermed rent objektivt sett ha avgitt falsk forklaring overfor trygdemyndighetene. Det kreves
-likevel at man har utvist skyld, i form av forsett, for
-å kunne straffes for falsk forklaring. Forsettet må
-dekke det at trygdemottakeren oppga uriktig informasjon, og at dette blir gitt til offentlig myndighet
-mens man var under forklaringsplikt. Det er forsettskravet som gjør at det bare er der retten har
-funnet bevist at selve bedrageriet var forsettlig, at
-det har blitt straffet for falsk forklaring i tillegg. Tidligere var påtalepraksis ikke helt konsekvent med
-hensyn til om det også ble tatt ut tiltale for falsk forklaring i disse tilfellene. Dette ble forsøkt løst i 2014
-med en instruks fra Riksadvokaten, slik at det de
-senere årene mer konsekvent er tatt ut tiltale for
-falsk forklaring der påtalemyndigheten har ment å
-kunne bevise også dette forholdet.58
+e\) EFTA-domstolen, eller
+
+f\) Den internasjonale straffedomstolen.
+
+Straff etter første ledd kommer ikke til anvendelse mot en mistenkt som forklarer seg uriktig om det forhold mistanken mot ham gjelder. Det samme gjelder den som ikke kunne fortelle sannheten uten å utsette seg selv eller noen av sine nærmeste for straff eller fare for vesentlig tap av sosialt omdømme eller vesentlig velferdstap av annen art, med mindre vedkommende hadde plikt til å forklare seg.
+
+For å kunne straffes for falsk forklaring, må man ha gitt en «uriktig opplysning». Det straffbare forholdet knytter seg til det å forklare seg falskt overfor offentlig myndighet, gitt at man var underlagt forklaringsplikt. Som trygdemottaker er man underlagt opplysningsplikt om endringer i forhold som «kan være avgjørende» for retten til ytelsen, og man plikter, dersom Nav krever det, å gi de opplysninger som er «nødvendige for å kontrollere ytelsens størrelse eller vilkårene for rett til ytelsen» jf. folketrygdloven § 21-3. I standardinformasjonen Nav sender til mottakere av ytelser, står det at man må melde fra om man skal reise til utlandet.[^488] Nav har altså pålagt forklaringsplikt om utenlandsopphold.
+
+Som utvalget har redegjort for i delutredningen *Trygd, oppholdskrav og reiser i EØS-området,* kan ikke utenlandsopphold i EØS-området alene tillegges avgjørende betydning ved avgjørelsen av om vilkårene for å motta arbeidsavklaringspenger, sykepenger eller pleiepenger er oppfylt. For at ytelsen skal kunne avslås eller kreves tilbake, må øvrige vilkår være brutt. Det kan likevel være berettiget å oppstille søknads- eller informasjonsplikter. Slike plikter må oppfylle EØS-rettens krav. Nav har imidlertid lagt til grunn at utenlandsopphold i EØS det ikke er gitt særskilt tillatelse til, i seg selv kan medføre at retten til ytelsen bortfaller. Selv om denne oppfatningen ikke er riktig, kan opplysninger om utenlandsopphold etter forholdene være «nødvendige opplysninger» som det er adgang til å pålegge forklaringsplikt om etter folketrygdloven § 21-3. Utvalget behandler ikke enkeltsaker, og det ligger utenfor rammene for utredningen å gå nærmere inn i spørsmål som følger av at premissen for plikten har vært sviktende. Se nærmere om utvalgets vurderinger i punkt 12.7.
+
+Det kreves at det er avgitt en *bevisst* usann forklaring.[^489] Dersom mistenkte trodde opplysningene var riktige, foreligger det altså ikke falsk forklaring i bestemmelsenes forstand.[^490]
+
+Dersom man har fortiet opplysninger om utenlandsopphold som man hadde forklaringsplikt om, og dersom man har oppgitt at man var i Norge, vil man dermed rent objektivt sett ha avgitt falsk forklaring overfor trygdemyndighetene. Det kreves likevel at man har utvist skyld, i form av forsett, for å kunne straffes for falsk forklaring. Forsettet må dekke det at trygdemottakeren oppga uriktig informasjon, og at dette blir gitt til offentlig myndighet mens man var under forklaringsplikt. Det er forsettskravet som gjør at det bare er der retten har funnet bevist at selve bedrageriet var forsettlig, at det har blitt straffet for falsk forklaring i tillegg. Tidligere var påtalepraksis ikke helt konsekvent med hensyn til om det også ble tatt ut tiltale for falsk forklaring i disse tilfellene. Dette ble forsøkt løst i 2014 med en instruks fra Riksadvokaten, slik at det de senere årene mer konsekvent er tatt ut tiltale for falsk forklaring der påtalemyndigheten har ment å kunne bevise også dette forholdet.[^491]
+
 Straff etter folketrygdlovens særbestemmelse
-Folketrygdloven har en egen straffebestemmelse
-i § 25-12. Bestemmelsens første og andre ledd
-lyder som følger:
-§ 25-12. Straff for å gi uriktige opplysninger og
-for ikke å gi nødvendige opplysninger
-Den som mot bedre vitende gir uriktige
-opplysninger, eller holder tilbake opplysninger
-som er viktige for rettigheter eller plikter etter
-denne loven, straffes med bøter hvis forholdet
-ikke går inn under strengere straffebud.
-På samme måte straffes den som med
-hjemmel i denne loven er pålagt å gi opplysninger og meldinger, men som forsettlig eller
-uaktsomt forsømmer å gjøre dette.
-Opplysninger om utenlandsopphold er som nevnt
-ansett omfattet av opplysningsplikten etter folketrygdloven § 21-3. Å tilbakeholde opplysninger om
-utenlandsopphold utgjør dermed en forsømmelse
-av et pålegg om å «gi opplysninger og meldinger»
-med hjemmel i folketrygdloven. Dermed kunne
-dette i utgangspunktet straffes etter folketrygdloven § 25-12 andre ledd, under forutsetning av at
-det var grunnlag for å oppstille en slik opplysningsplikt. Årsaken til at § 25-12 ikke er brukt, er den
-siste passusen i bestemmelsens første ledd: forholdet straffes bare etter § 25-12 hvis det ikke går
-inn under et strengere straffebud. Det vil typisk
-58
 
-Instruks fra Riksadvokaten til statsadvokatene og politimestrene, 18. februar 2014. Politiet har ikke kompetanse til
-å ta ut tiltale for falsk forklaring, jf. straffeprosessloven
-§ 67. Dette innebærer i praksis at disse sakene må via statsadvokaten for vurdering av om det skal tas ut tiltale.
+Folketrygdloven har en egen straffebestemmelse i § 25-12. Bestemmelsens første og andre ledd lyder som følger:
 
-169
+§ 25-12. *Straff for å gi uriktige opplysninger og for ikke å gi nødvendige opplysninger*
 
-Kapittel 12
+Den som mot bedre vitende gir uriktige opplysninger, eller holder tilbake opplysninger som er viktige for rettigheter eller plikter etter denne loven, straffes med bøter hvis forholdet ikke går inn under strengere straffebud.
 
-være tilfelle dersom trygdemyndighetene har ment
-at det har foreligget et bedrageri og/eller falsk forklaring, som rammes av straffelovens strengere
-bestemmelser.
+På samme måte straffes den som med hjemmel i denne loven er pålagt å gi opplysninger og meldinger, men som forsettlig eller uaktsomt forsømmer å gjøre dette.
 
-12.4.2 Påtalemyndighetens håndtering
+Opplysninger om utenlandsopphold er som nevnt ansett omfattet av opplysningsplikten etter folketrygdloven § 21-3. Å tilbakeholde opplysninger om utenlandsopphold utgjør dermed en forsømmelse av et pålegg om å «gi opplysninger og meldinger» med hjemmel i folketrygdloven. Dermed kunne dette i utgangspunktet straffes etter folketrygdloven § 25-12 andre ledd, under forutsetning av at det var grunnlag for å oppstille en slik opplysningsplikt. Årsaken til at § 25-12 ikke er brukt, er den siste passusen i bestemmelsens første ledd: forholdet straffes bare etter § 25-12 hvis det ikke går inn under et strengere straffebud. Det vil typisk være tilfelle dersom trygdemyndighetene har ment at det har foreligget et bedrageri og/eller falsk forklaring, som rammes av straffelovens strengere bestemmelser.
+
+### Påtalemyndighetens håndtering
+
 Om materialet
-Riksadvokaten har som nevnt oversendt granskingsutvalget fullstendige saksdokumenter i til
-sammen ti straffesaker i sakskomplekset.59 Utvalget har kun fått oversendt saker der straffespørsmålet ble avgjort av domstolene, enten som tilståelsesdom eller etter hovedforhandling. Utvalget
-har ikke mottatt saker om henleggelser eller
-påtaleunnlatelser.
-De komplette sakene som utvalget har mottatt
-gir en helt annen informasjon om det underliggende politiarbeidet, enn det å lese dommen
-alene gir. Det skriftlige materialet må i saker hvor
-det har vært hovedforhandling likevel ses i
-sammenheng med det som har fremkommet
-under rettsmøtet. Denne informasjonen har ikke
-vært tilgjengelig for utvalget.
-Påtalemyndighetens grunnlag for siktelser og tiltaler
-i sakene
-Påtalemyndigheten i politiet har påtalekompetanse der det tas ut tiltale for bedrageri eller grovt
-bedrageri, jf. straffeprosessloven § 67 andre ledd
-bokstav b. Tiltale for falsk forklaring må tas ut av
-statsadvokaten, slik at mange av sakene har vært
-behandlet ved statsadvokatembetene.60 Politiet
-iverksetter og utfører etterforskningen i alle
-saker.61 Selv om tjenestepersoner uten juridisk
-utdanning foretar selve etterforskningen, er det
-alltid en jurist som er påtaleansvarlig for saken.
-Påtalemyndigheten har i det store og hele bygget på det faktiske grunnlaget som er fremskaffet
-av Nav, og som er vedlagt anmeldelsen. Nav har
-elektronisk tilgang til registeropplysninger for å
-forebygge og bekjempe kriminalitet, samt for å
-drive kontrollvirksomhet og tilsyn, jf. valutaregisterloven § 6. Nav har dermed tilgang til informasjon om bruk av betalingskort i utlandet. Tidligere brukte Nav også innsamling av IP-adresser
-59
-60
 
-61
+Riksadvokaten har som nevnt oversendt granskingsutvalget fullstendige saksdokumenter i til sammen ti straffesaker i sakskomplekset.[^492] Utvalget har kun fått oversendt saker der straffespørsmålet ble avgjort av domstolene, enten som tilståelsesdom eller etter hovedforhandling. Utvalget har ikke mottatt saker om henleggelser eller påtaleunnlatelser.
 
-Se punkt 12.1.2 over.
-Jf. straffeprosessloven § 66, jf. § 67. I de avgjørelsene utvalget har fått oversendt, var det tatt ut tiltale for falsk forklaring i rundt 70 prosent av sakene. Se nærmere nedenfor i
-punkt 12.4.4.
-Jf. straffeprosessloven § 225.
+De komplette sakene som utvalget har mottatt gir en helt annen informasjon om det underliggende politiarbeidet, enn det å lese dommen alene gir. Det skriftlige materialet må i saker hvor det har vært hovedforhandling likevel ses i sammenheng med det som har fremkommet under rettsmøtet. Denne informasjonen har ikke vært tilgjengelig for utvalget.
 
-[Side 172]
+Påtalemyndighetens grunnlag for siktelser og tiltaler i sakene
 
-170
+Påtalemyndigheten i politiet har påtalekompetanse der det tas ut tiltale for bedrageri eller grovt bedrageri, jf. straffeprosessloven § 67 andre ledd bokstav b. Tiltale for falsk forklaring må tas ut av statsadvokaten, slik at mange av sakene har vært behandlet ved statsadvokatembetene.[^493] Politiet iverksetter og utfører etterforskningen i alle saker.[^494] Selv om tjenestepersoner uten juridisk utdanning foretar selve etterforskningen, er det alltid en jurist som er påtaleansvarlig for saken.
 
-Kapittel 12
+Påtalemyndigheten har i det store og hele bygget på det faktiske grunnlaget som er fremskaffet av Nav, og som er vedlagt anmeldelsen. Nav har elektronisk tilgang til registeropplysninger for å forebygge og bekjempe kriminalitet, samt for å drive kontrollvirksomhet og tilsyn, jf. valutaregisterloven § 6. Nav har dermed tilgang til informasjon om bruk av betalingskort i utlandet. Tidligere brukte Nav også innsamling av IP-adresser for å kartlegge om meldekort var sendt fra utlandet.[^495] Det har derfor normalt vært enighet mellom Nav og trygdemottakeren om når vedkommende har vært utenlands, hvor vedkommende har vært, omfanget av utenlandsoppholdet og hvilke beløp som saken omhandler.
 
-NOU 2020: 9
-Blindsonen
+Påtalemyndighetens arbeid har stort sett vært begrenset til å vurdere om skyldkravet er oppfylt. Av det skriftlige materialet utvalget har hatt tilgang til, fremgår det at mistenkte er orientert om sin rett til ikke å forklare seg,[^496] og retten til å la seg bistå av forsvarer på ethvert trinn av saken.[^497] Påtalemyndigheten har en selvstendig plikt til å vurdere om siktede bør ha bistand av forsvarer.[^498]
 
-for å kartlegge om meldekort var sendt fra utlandet.62 Det har derfor normalt vært enighet mellom Nav og trygdemottakeren om når vedkommende har vært utenlands, hvor vedkommende
-har vært, omfanget av utenlandsoppholdet og
-hvilke beløp som saken omhandler.
-Påtalemyndighetens arbeid har stort sett vært
-begrenset til å vurdere om skyldkravet er oppfylt.
-Av det skriftlige materialet utvalget har hatt tilgang til, fremgår det at mistenkte er orientert om
-sin rett til ikke å forklare seg,63 og retten til å la
-seg bistå av forsvarer på ethvert trinn av saken.64
-Påtalemyndigheten har en selvstendig plikt til å
-vurdere om siktede bør ha bistand av forsvarer.65
-For å avklare om skyldkravet er oppfylt, er det
-gjennomført politiavhør, som det gjerne er tatt lydeller videoopptak av.66 Påtalemyndigheten har tilsynelatende sjelden gjennomført etterforskningsskritt ut over å avhøre den anmeldte. Utvalget har
-bare identifisert én sak der etterforskeren har
-foretatt seg noe utover avhør. Flere av avhørene
-er forholdsvis grundige, og i én av eksempelsakene utvalget har gjennomgått, ble det gjennomført tre avhør av mistenkte.
-Utvalget minner om at det har hatt tilgang til
-fulle straffesaksdokumenter i et begrenset antall
-saker. Det er vanskelig å si noe generelt om grundigheten av påtalemyndighetens etterforskning
-basert på dette materialet. Utvalget har imidlertid
-ikke identifisert noen saker der Nav Kontrolls
-beregninger av beløp og lengder på utenlandsopphold korrigeres av påtalemyndigheten. For så vidt
-er ikke dette overraskende, tatt i betraktning at
-det som hovedregel ikke synes å være uenighet
-mellom trygdemottakeren og Nav om omfanget
-av utenlandsopphold.67
-Utvalget har heller ikke identifisert saker der
-påtalemyndigheten kontrollerer det trygderettslige grunnlaget for anmeldelsene. Ingen av anmeldelsene fra Nav Kontroll nevner EØS-rettslige
-spørsmål.68
+For å avklare om skyldkravet er oppfylt, er det gjennomført politiavhør, som det gjerne er tatt lyd- eller videoopptak av.[^499] Påtalemyndigheten har tilsynelatende sjelden gjennomført etterforskningsskritt ut over å avhøre den anmeldte. Utvalget har bare identifisert én sak der etterforskeren har foretatt seg noe utover avhør. Flere av avhørene er forholdsvis grundige, og i én av eksempelsakene utvalget har gjennomgått, ble det gjennomført tre avhør av mistenkte.
 
-Utvalget ser at påtalemyndigheten flere ganger endrer den strafferettslige vurderingen Nav
-har foretatt, ved at det tas ut tiltale eller siktelse
-for grovt uaktsom overtredelse, i stedet for å
-legge til grunn at det er utvist forsett. Dette er
-gjerne gjort der siktede har avgitt en tilståelse
-som ikke dekker forsett. Flere av disse sakene har
-blitt begjært pådømt som tilståelsesdom. Påtalemyndigheten skal anvende det strafferettslige
-beviskrav ved avgjørelsen av påtalespørsmålet.69
-Dersom påtalemyndigheten mener at bevisene
-ikke rekker til å bevise forsett, skal påtalemyndigheten legge sin egen oppfatning av bevisene til
-grunn. Det er ikke påfallende at Navs og påtalemyndighetens vurdering kan være forskjellig.
-I en av totalt fire frifinnende dommer i det
-materialet utvalget har gjennomgått,70 frafalt
-aktor tiltalen under hovedforhandlingen fordi hun
-«mente det var en rimelig tvil om tiltalte var skyldig og at det ikke ble vist tilstrekkelige beviser for
-skyld».71 Det er opplyst at aktor frafalt tiltalen
-etter at et vitne fra Nav forklarte at trygdemottakeren hadde informert om planlagte utenlandsreiser. Siden tiltalen ble frafalt, er ikke skyldspørsmålet prøvd rettslig.72
-I flere saker i sakskomplekset har det gått
-svært lang tid fra anmeldelse til pådømmelse.
-Etter Den europeiske menneskerettighetskonvensjonen (EMK) artikkel 6 (1) har enhver siktet
-krav på å få avgjort sin sak innen rimelig tid.
-Utvalget har merket seg at blant de saker som er
-oversendt fra Riksadvokaten hvor utvalget har
-hatt tilgang til alle saksdokumenter, har lang saks67
+Utvalget minner om at det har hatt tilgang til fulle straffesaksdokumenter i et begrenset antall saker. Det er vanskelig å si noe generelt om grundigheten av påtalemyndighetens etterforskning basert på dette materialet. Utvalget har imidlertid ikke identifisert noen saker der Nav Kontrolls beregninger av beløp og lengder på utenlandsopphold korrigeres av påtalemyndigheten. For så vidt er ikke dette overraskende, tatt i betraktning at det som hovedregel ikke synes å være uenighet mellom trygdemottakeren og Nav om omfanget av utenlandsopphold.[^500]
 
-68
+Utvalget har heller ikke identifisert saker der påtalemyndigheten kontrollerer det trygderettslige grunnlaget for anmeldelsene. Ingen av anmeldelsene fra Nav Kontroll nevner EØS-rettslige spørsmål.[^501]
 
-62
+Utvalget ser at påtalemyndigheten flere ganger endrer den strafferettslige vurderingen Nav har foretatt, ved at det tas ut tiltale eller siktelse for grovt uaktsom overtredelse, i stedet for å legge til grunn at det er utvist forsett. Dette er gjerne gjort der siktede har avgitt en tilståelse som ikke dekker forsett. Flere av disse sakene har blitt begjært pådømt som tilståelsesdom. Påtalemyndigheten skal anvende det strafferettslige beviskrav ved avgjørelsen av påtalespørsmålet.[^502] Dersom påtalemyndigheten mener at bevisene ikke rekker til å bevise forsett, skal påtalemyndigheten legge sin egen oppfatning av bevisene til grunn. Det er ikke påfallende at Navs og påtalemyndighetens vurdering kan være forskjellig.
 
-Navs adgang til innhenting av informasjon om den enkelte
-trygdemottaker reguleres, i tillegg til i særlovgivningen om
-enkelte registre, av folketrygdloven §§ 21-3 til 21-4 d. Utvalget har fått opplyst at Nav sluttet å utføre slik systematisk
-IP-kontroll i 2019, etter ikrafttredelsen av ny personopplysningslov i 2018, fordi denne aktiviteten ble ansett ikke å
-være i tråd med personvernloven.
-63
-Jf. straffeprosessloven § 90 jf. § 232 første ledd.
-64
-Jf. straffeprosessloven § 94.
-65
-Plikten følger av påtaleinstruksen § 8-1a. I det materialet
-utvalget har hatt tilgang til, fremgår det ikke om dette er
-vurdert. Dette kan ha sammenheng med at påtaleinstruksen § 8-1a gjelder den som er «siktet», og at de
-anmeldte typisk først har fått status som siktet etter avhøret med politiet.
-66
-Utvalget har ikke gjennomgått slike opptak.
+I en av totalt fire frifinnende dommer i det materialet utvalget har gjennomgått,[^503] frafalt aktor tiltalen under hovedforhandlingen fordi hun «mente det var en rimelig tvil om tiltalte var skyldig og at det ikke ble vist tilstrekkelige beviser for skyld».[^504] Det er opplyst at aktor frafalt tiltalen etter at et vitne fra Nav forklarte at trygdemottakeren hadde informert om planlagte utenlandsreiser. Siden tiltalen ble frafalt, er ikke skyldspørsmålet prøvd rettslig.[^505]
 
-69
+I flere saker i sakskomplekset har det gått svært lang tid fra anmeldelse til pådømmelse. Etter Den europeiske menneskerettighetskonvensjonen (EMK) artikkel 6 (1) har enhver siktet krav på å få avgjort sin sak innen rimelig tid. Utvalget har merket seg at blant de saker som er oversendt fra Riksadvokaten hvor utvalget har hatt tilgang til alle saksdokumenter, har lang saksbehandlingstid blitt tatt hensyn til ved utformingen av forslaget til straff.
 
-70
-71
-72
+For påtalemyndigheten synes det som sakene i dette komplekset har fremstått som «klassiske» bedragerisaker. Utvalget har gjennomført intervjuer med enkeltrepresentanter for påtalemyndigheten i politiet, statsadvokatene og tidligere riksadvokat, som alle har bekreftet dette bildet, samt at påtalemyndigheten i høy grad har lagt Nav Kontrolls utredninger av de faktiske forhold til grunn.
 
-Vurderingene her er også basert på det tilgjengelige
-domsmaterialet og intervjuer med enkeltrepresentanter for
-påtalemyndigheten, som bekrefter inntrykket av hvordan
-påtalemyndigheten har nærmet seg sakene. Det er likevel
-nødvendig å ta forbehold at det i enkeltsaker selvsagt kan
-ha blitt utført en grundigere etterforskning, der saken har
-gjort det nødvendig.
-Der det har vært fattet forvaltningsvedtak om stans eller tilbakekreving av ytelser, har Nav Kontroll lagt til grunn at de
-forvaltningsrettslige vilkårene for dette er oppfylt, og utformet anmeldelse på dette grunnlag, uten at det er gjort selvstendige vurderinger av retten til ytelsen hos Nav Kontroll.
-Ofte vil trygdemottakeren ha klaget på stans eller avslag,
-slik at saken vil ha vært behandlet i Nav Klageinstans før
-Nav Kontroll går til anmeldelse. Da er vedtaket allerede
-prøvd minst to ganger.
-Beviskravet innebærer i korthet at rimelig tvil skal komme
-tiltalte til gode. Dermed skal ikke påtalemyndigheten ta ut
-en tiltale som legger til grunn at siktede har handlet forsettlig, med mindre den mener det kan bevises ut over rimelig
-tvil. Forskjellen på forsettlig og grovt uaktsom overtredelse
-er behandlet nærmere i punkt 12.4.1 b).
-De tre andre frifinnelsene behandles kort nedenfor i punkt
-12.4.4 f).
-Larvik tingretts dom av 20. oktober 2015.
-Jf. straffeprosessloven § 73 første ledd første punktum.
+### Om saksbehandlingen
 
-[Side 173]
-
-NOU 2020: 9
-Blindsonen
-
-behandlingstid blitt tatt hensyn til ved utformingen av forslaget til straff.
-For påtalemyndigheten synes det som sakene
-i dette komplekset har fremstått som «klassiske»
-bedragerisaker. Utvalget har gjennomført intervjuer med enkeltrepresentanter for påtalemyndigheten i politiet, statsadvokatene og tidligere riksadvokat, som alle har bekreftet dette bildet, samt
-at påtalemyndigheten i høy grad har lagt Nav Kontrolls utredninger av de faktiske forhold til grunn.
-
-12.4.3 Om saksbehandlingen
 Særlig om tilståelsesdom
-Flere av sakene i sakskomplekset er avgjort ved
-tilståelsesdom. Tilståelsesdom er en forenklet
-form for rettergang. Siktede gir avkall på flere av
-de rettssikkerhetsgarantiene som ellers gjelder
-ved behandlingen av straffesaker. Bakgrunnen for
-den forenklede behandlingen er tilståelsens
-bevisverdi. Vurderingen av både de subjektive og
-de objektive vilkårene for straff er langt enklere
-når den siktede tilstår forholdet og tilståelsen styrkes av de øvrige opplysningene i saken.73 Siktede
-kan få en rask avgjørelse, samtidig som man
-begrenser utgiftene som ellers er forbundet med
-en hovedforhandling. I tillegg vil en tilståelse normalt medføre redusert straff. I et ressursperspektiv er det da hensiktsmessig at saken behandles i
-mindre omstendelige former.74 I 2018 var 44 prosent av alle dommer i straffesaker tilståelsesdommer.75
-Påtalemyndigheten behøver ikke å utferdige
-tiltalebeslutning når det begjæres rettslig avhør
-med sikte på tilståelsesdom. Det skal likevel utarbeides en siktelse. Kravene til siktelsen vil i det
-vesentlige være de samme som for en tiltalebeslutning.76 Det har derfor ikke betydning ut over
-det rent formelle at det utferdiges siktelse i stedet
-for at det tas ut tiltale.
-Retten settes ikke med meddommere i tilståelsessaker. Etter straffeprosessloven § 276 første
-ledd settes retten med meddommere når det
-avholdes hovedforhandling. Det avholdes ikke
-hovedforhandling når en sak behandles som tilståelsesdom, jf. straffeprosessloven § 248. Tilståelsessaker avgjøres av én fagdommer. Normalt
-møter verken aktor eller forsvarer i tilståelses73
 
-Jf. straffeprosessloven § 248.
-Se nærmere Øyen (2019) s. 317–318.
-75
-Domstolsadministrasjonen (2018).
-76
-Matningsdal (2007) s. 253, med henvisning til Rt. 1990
-s. 801.
+Flere av sakene i sakskomplekset er avgjort ved tilståelsesdom. Tilståelsesdom er en forenklet form for rettergang. Siktede gir avkall på flere av de rettssikkerhetsgarantiene som ellers gjelder ved behandlingen av straffesaker. Bakgrunnen for den forenklede behandlingen er tilståelsens bevisverdi. Vurderingen av både de subjektive og de objektive vilkårene for straff er langt enklere når den siktede tilstår forholdet og tilståelsen styrkes av de øvrige opplysningene i saken.[^506] Siktede kan få en rask avgjørelse, samtidig som man begrenser utgiftene som ellers er forbundet med en hovedforhandling. I tillegg vil en tilståelse normalt medføre redusert straff. I et ressursperspektiv er det da hensiktsmessig at saken behandles i mindre omstendelige former.[^507] I 2018 var 44 prosent av alle dommer i straffesaker tilståelsesdommer.[^508]
 
-171
+Påtalemyndigheten behøver ikke å utferdige tiltalebeslutning når det begjæres rettslig avhør med sikte på tilståelsesdom. Det skal likevel utarbeides en siktelse. Kravene til siktelsen vil i det vesentlige være de samme som for en tiltalebeslutning.[^509] Det har derfor ikke betydning ut over det rent formelle at det utferdiges siktelse i stedet for at det tas ut tiltale.
 
-Kapittel 12
+Retten settes ikke med meddommere i tilståelsessaker. Etter straffeprosessloven § 276 første ledd settes retten med meddommere når det avholdes hovedforhandling. Det avholdes ikke hovedforhandling når en sak behandles som tilståelsesdom, jf. straffeprosessloven § 248. Tilståelsessaker avgjøres av én fagdommer. Normalt møter verken aktor eller forsvarer i tilståelsessaker.[^510] Dersom verken forsvarer eller aktor er til stede skal retten tilkalle et rettsvitne, jf. domstolloven § 31. Rettsvitnet skal «\[…\] nøye følge forhandlingene og gjøre oppmerksom på misforståelser eller feil i oppfatningen eller nedtegningen av det som foregår», jf. domstolloven § 103.
 
-saker.77 Dersom verken forsvarer eller aktor er til
-stede skal retten tilkalle et rettsvitne, jf. domstolloven § 31. Rettsvitnet skal «[…] nøye følge forhandlingene og gjøre oppmerksom på misforståelser eller feil i oppfatningen eller nedtegningen av
-det som foregår», jf. domstolloven § 103.
-Bevisførselen i en tilståelsessak er delvis middelbar og delvis skriftlig ved at sakens dokumenter er oversendt til retten og gjort til del av avgjørelsesgrunnlaget.78 Den umiddelbare bevisførselen er i hovedsak siktedes forklaring.
-De nærmere vilkårene for å behandle en sak
-som tilståelsesdom fremgår av straffeprosessloven § 248 første ledd. Bestemmelsen lyder som
-følger:
-§ 248.
-Etter begjæring fra påtalemyndigheten og
-med siktedes samtykke kan tingretten
-pådømme en sak uten tiltalebeslutning og
-hovedforhandling (tilståelsesdom), når retten
-ikke finner det betenkelig og saken gjelder
-a) en straffbar handling som ikke kan medføre fengsel i mer enn 10 år, jf. annet ledd,
-og siktede innen retten har gitt en uforbeholden tilståelse som styrkes av de øvrige
-opplysninger,
-b) en overtredelse av vegtrafikkloven § 22 jf.
-§ 31, og siktede innen retten erklærer seg
-skyldig etter siktelsen, eller
-c) en overtredelse av vegtrafikkloven § 24 første ledd jf. § 31, og siktede innen retten
-erklærer seg skyldig etter siktelsen.
-Grunnvilkåret for forenklet behandling er at både
-påtalemyndigheten, siktede og retten mener
-saken egner seg til behandling som tilståelsesdom. Påtalemyndigheten må begjære forenklet
-behandling, siktede må samtykke, og retten har
-anledning til å avslå begjæringen. Det følger av
-ordlyden at retten skal nekte dersom den finner
-det «betenkelig» å behandle saken som tilståelsesdom. Det vil være betenkelig å behandle en sak
-som tilståelsesdom, selv om de øvrige vilkår er
-oppfylt, dersom saken lar seg bedre belyse ved
-hovedforhandling, dommeren er i tvil om riktigheten av siktedes uforbeholdne tilståelse, eller
-dersom det er vesentlige avvik mellom siktelsen
-og tilståelsen.79
-77
+Bevisførselen i en tilståelsessak er delvis middelbar og delvis skriftlig ved at sakens dokumenter er oversendt til retten og gjort til del av avgjørelsesgrunnlaget.[^511] Den umiddelbare bevisførselen er i hovedsak siktedes forklaring.
 
-74
+De nærmere vilkårene for å behandle en sak som tilståelsesdom fremgår av straffeprosessloven § 248 første ledd. Bestemmelsen lyder som følger:
 
-78
-79
+§ 248.
 
-Etter påtaleinstruksen § 15-4 fremgår det at når det avholdes rettsmøte med sikte på tilståelsesdom, skal aktor bare
-møte dersom det foreligger «særlige grunner».
-Se nærmere Øyen (2019) s. 318.
-Øyen (2019) s. 299.
+Etter begjæring fra påtalemyndigheten og med siktedes samtykke kan tingretten pådømme en sak uten tiltalebeslutning og hovedforhandling (tilståelsesdom), når retten ikke finner det betenkelig og saken gjelder
+
+a\) en straffbar handling som ikke kan medføre fengsel i mer enn 10 år, jf. annet ledd, og siktede innen retten har gitt en uforbeholden tilståelse som styrkes av de øvrige opplysninger,
+
+b\) en overtredelse av vegtrafikkloven § 22 jf. § 31, og siktede innen retten erklærer seg skyldig etter siktelsen, eller
+
+c\) en overtredelse av vegtrafikkloven § 24 første ledd jf. § 31, og siktede innen retten erklærer seg skyldig etter siktelsen.
+
+Grunnvilkåret for forenklet behandling er at både påtalemyndigheten, siktede og retten mener saken egner seg til behandling som tilståelsesdom. Påtalemyndigheten må begjære forenklet behandling, siktede må samtykke, og retten har anledning til å avslå begjæringen. Det følger av ordlyden at retten skal nekte dersom den finner det «betenkelig» å behandle saken som tilståelsesdom. Det vil være betenkelig å behandle en sak som tilståelsesdom, selv om de øvrige vilkår er oppfylt, dersom saken lar seg bedre belyse ved hovedforhandling, dommeren er i tvil om riktigheten av siktedes uforbeholdne tilståelse, eller dersom det er vesentlige avvik mellom siktelsen og tilståelsen.[^512]
+
+Sakene i dette komplekset som har blitt avgjort ved tilståelsesdommer, er behandlet med hjemmel i straffeprosessloven § 248 første ledd bokstav a. Bestemmelsen oppstiller tre vilkår, som alle må være oppfylt. Det må for det første være snakk om en forbrytelse som ikke kan medføre fengsel i mer enn ti år.[^513] Grovt bedrageri har en strafferamme på seks år, og kan derfor behandles etter reglene om tilståelsesdom gitt at de øvrige vilkår er oppfylt.
+
+For at det skal foreligge en «uforbeholden tilståelse» er det aldri nok at den siktede erklærer seg skyldig etter siktelsen.[^514] Siktedes forklaring skal utgjøre grunnlaget for avgjørelsen av skyldspørsmålet og må derfor dekke de nødvendige bevistemaer og være tilstrekkelig detaljert.[^515] Forklaringen i retten må i sitt innhold fullt ut «omfatte de objektive og subjektive vilkår for straff i vedkommende straffebud».[^516] For de sakene utvalget vurderer, betyr det at tilståelsen måtte dekke alle de omstendigheter som gjorde at det forelå enten et forsettlig eller et grovt uaktsomt bedrageri.
+
+Forklaringen må videre være så detaljert at den korresponderer med kravene til domsgrunner etter straffeprosessloven § 40.[^517] Det medfører at forklaringen, for skyldspørsmålets del, «bestemt og uttømmende» må angi det saksforholdet dommeren kan basere dommen på. Forklaringen må være så omfattende at det er mulig å fastslå at både subjektive og objektive vilkår for straff er oppfylt.
+
+I noen tilfeller har siktede ikke husket alle detaljer rundt tidspunkt og varighet av utenlandsopphold, eller beløpene vedkommende mottok i denne perioden. Det reiser spørsmålet om tilståelsene i disse sakene oppfyller lovens krav om en uforbeholden tilståelse. Straffeprosessutvalget nevner som et eksempel på en for forbeholden tilståelse at «siktede gir uttrykk for at påtalemyndighetens fremstilling må være korrekt, men ikke husker hva som skjedde».[^518]
+
+*Omfanget* av bedrageriet hører til straffespørsmålet. Dersom siktelsen lyder på grovt bedrageri, må tilståelsen dekke et beløp som medfører at det er grunnlag for å anse bedrageriet for grovt.[^519]
+
+Det er ikke nok at det foreligger en uforbeholden tilståelse. Tilståelsen må «styrkes av de øvrige opplysninger.» Dette betyr at tilståelsen siktede avgir i rettsmøtet må støttes av opplysningene som fremgår av sakens dokumenter.[^520] I sakene i dette komplekset har de øvrige dokumenter typisk vært Nav Kontrolls anmeldelse med bilag. Utvalget har ikke identifisert saker der tilståelsen ikke dekket det som fremkommer her, sett bort fra saker der siktede ikke husker nøyaktig hvor høye beløp som er mottatt under opphold i utlandet, samtidig som dette klart nok fremgår av anmeldelsen.[^521]
+
+I alle de ti sakene utvalget har hatt innsyn i fulle saksdokumenter, begjærte påtalemyndigheten saken behandlet som tilståelsessak. To av disse ble nektet slik forenklet behandling. I en tredje sak fremstår mistenktes tilståelse i avhør som relativt forbeholden. Likevel ble saken avgjort ved tilståelsesdom.[^522]
+
+Gjennomgående er de mistenkte i disse sakene sjelden bistått av advokat under avhør. Straffeprosessutvalget har foreslått å utvide retten til bistand av forsvarer også på etterforskningsstadiet.[^523] For det spørsmålet som utvalget vurderer, er det imidlertid tvilsomt om manglende oppnevnelse av forsvarer har hatt avgjørende betydning. Utvalget har mottatt 98 rettsavgjørelser, hvor 81 har blitt behandlet som meddomssak i hovedforhandling, med oppnevnt forsvarer, mens 17 har blitt behandlet som tilståelsessak.[^524] I noen få avgjørelser har det vært forsvarer også i tilståelsessak. Av det materialet som utvalget har gått gjennom, fremgår det at forsvarere som har møtt i hovedforhandling uttrykkelig har tatt opp EØS-spørsmålet i én av 81 saker.[^525]
+
+Særskilt om retten til offentlig oppnevnt forsvarer
+
+Retten til å la seg bistå av forsvarer etter eget valg på ethvert trinn av saken, fremgår av straffeloven § 94. Dette medfører imidlertid ikke at siktede har krav på å få dekket utgiftene til forsvarer av det offentlige. For at utgiftene til forsvarer skal dekkes av det offentlige, må forsvareren være offentlig oppnevnt, jfr. straffeprosessloven § 107.
+
+Det skal som hovedregel oppnevnes offentlig forsvarer til hovedforhandling, når siktede er pågrepet og når det begjæres rettslig avhør med sikte på å avgjøre saken som tilståelsessak, og det er tale om å idømme mer enn seks måneders fengsel.[^526] For tilståelsessaker er det ikke den generelle strafferammen som er avgjørende, men hvilken straff det er aktuelt å idømme i det konkrete tilfellet.[^527] I tilståelsessakene i det sakskomplekset utvalget vurderer har det ikke vært tale om idømme mer enn seks måneders fengsel, slik at siktede i utgangspunktet ikke har hatt krav på forsvarer.[^528]
+
+I tillegg kan det oppnevnes offentlig forsvarer etter straffeprosessloven § 100 andre ledd første punktum dersom «særlige grunner taler for det, herunder at siktede har nedsatt funksjonsevne eller er i en annen fysisk eller psykisk tilstand som tilsier at det er et særskilt behov for forsvarer». Bestemmelsen gir anvisning på en helhetsvurdering. Etter forarbeidene refererer vilkåret seg til siktedes sosiale og personlige forhold og til sakens art.[^529] Relevante momenter inkluderer «\[…\] sakens alvor, sakens betydning for den siktede, om faktum eller jus er uklart eller komplisert, den siktedes alder og helsemessige status, forventet straff og manglende språk- eller samfunnskunnskaper hos utlendinger.»[^530] Vilkåret om «særlige grunner» må også tolkes i lys av Den europeiske menneskerettighetskonvensjonen (EMK).[^531]
+
+I de sakene i sakskomplekset hvor det har vært avholdt hovedforhandling, har det blitt oppnevnt forsvarer etter bestemmelsen i straffeprosessloven § 96 første ledd, som gir siktede rett til forsvarer under hovedforhandling. Det er tale om minst 66 saker. Det foreligger noen eksempler på at siktede har vært bistått av forsvarer selv om saken ble behandlet som tilståelsesdom.[^532] I de aller fleste tilfellene der saker er pådømt ved tilståelsesdom, også der siktede er blitt idømt ubetinget fengselsstraff, har siktede imidlertid ikke hatt oppnevnt forsvarer.
+
+Siktede må selv samtykke til en forenklet behandling som tilståelsessak, og kan når som helst kreve at saken istedet avgjøres ved alminnelig hovedforhandling. Et slikt krav vil utløse rett til forsvarer. Dette er forhold som har betydning i vurderingen av om «the interests of justice» krever at siktede får oppnevnt offentlig forsvarer, jf. EMK artikkel 6 (3) bokstav c.
+
+Flere av de siktede i disse sakene hadde svak økonomi. De sto overfor et betydelig tilbakebetalingskrav fra Nav, og mange kan ha hatt økonomiske vanskeligheter fra før av. Dette er forhold som, sammen med siktedes personlige forutsetninger, er relevante å trekke inn i vurderingen av om det skal oppnevnes forsvarer etter særregelen i straffeprosessloven § 100 andre ledd første punktum.
+
+### Domstolenes behandling av straffesaker i komplekset
+
+Innledning
+
+Utvalgets gjennomgang bygger på dommer, kjennelser og beslutninger som er mottatt fra Riksadvokaten og domstolene.[^533] Hoveddelen av materialet, 94 saker, er straffesaker som er avgjort i tingretten. Materialet omfatter noen få lagmannsretts- og høyesterettsavgjørelser, deriblant flere ankenektelser fra lagmannsrettene. Utvalget har bare mottatt tre sivile saker som gjelder ytelser innenfor utvalgets mandat, hvorav bare én er direkte relevant for utvalgets arbeid. Utvalget har også mottatt noen straffesaker som gjelder ytelser som faller utenfor utvalgets mandat. Disse vil ikke bli behandlet her.
+
+Om faktum i straffesakene
+
+Mesteparten av sakene utvalget har vurdert gjelder arbeidsavklaringspenger, mens resten gjelder sykepenger. Utvalget har ikke mottatt noen saker om pleiepenger. Flesteparten av sakene gjelder bare trygdebedrageri. Noen få gjelder trygdebedrageri i kombinasjon med andre straffbare forhold. Materialet er som nevnt ikke nødvendigvis representativt for alle saker om trygdebedrageri.[^534]
+
+Flesteparten av sakene gjelder norske borgere som besøker andre land. En del gjelder også EØS-borgere som har arbeidet i Norge, og senere reiser eller flytter til et annet EØS-land.[^535] Flesteparten av disse har reist for å være sammen med familie. Utvalget har bare identifisert én sak der tingretten klart legger til grunn at en norsk tiltalt har arbeidet i et annet EØS-land i perioden før det påståtte trygdebedrageriet.[^536] Dommen tar ikke opp problemstillingen om EØS-retten har betydning i saken. De fleste dommene redegjør ikke for arbeidshistorikk, så det kan være flere slike saker, uten at det kan utledes fra dommene.
+
+Mange av sakene gjelder opphold både i EØS-området og i tredjeland. I en god del av dommene opplyses det ikke hvor vedkommende har oppholdt seg, bare at det var i utlandet. Når det ikke presiseres hvor tiltalte har oppholdt seg, kan det indikere at ingen av aktørene i saken har sett at saken reiser EØS-rettslige problemstillinger. En illustrasjon av at skillet mellom EØS-land og tredjeland ikke synes å ha vært særlig framtredende i aktørenes bevissthet, gir en tingrettsdom hvor betydningen av fordeling av utenlandsopphold i og utenfor EØS ikke er problematisert. Av dommen fremgår at:
+
+«Den skriftlige dokumentasjonen kan etterlate en viss tvil om hvorvidt tiltalte oppholdt seg i Sverige eller Vietnam. Dette er imidlertid uten betydning, da tiltalte selv erkjenner å ha vært utenlands i lengre tid \[…\]».[^537]
+
+Om domstolenes vurdering av EØS-spørsmål i straffesakene
+
+Ingen av de avgjørelsene utvalget har mottatt og som faller innenfor utvalgets mandat, inneholder uttrykkelige vurderinger av de problemstillinger EØS-retten reiser.[^538] EØS-retten nevnes kun i én av straffesakene.[^539] Av dommen fremgår det at forsvarer knyttet en anførsel til EØS-retten, og det uttales at
+
+«Retten har vurdert, men finner ikke grunnlag for at EØS-avtalen slik anført av forsvarer, er til hinder for at tiltalte domfelles. Tiltalte pliktet som mottaker av stønad fra NAV med hjemmel i norsk folketrygdlov, å forholde seg til de norske reglene og de vedtak som er truffet».
+
+Utvalget har vært i kontakt med den aktuelle forsvareren, som opplyser at hun ikke har saksdokumentene tilgjengelig lenger.[^540] Advokaten opplyser imidlertid at det innenfor de rammene som var satt til forberedelse til hovedforhandlingen, ikke var rom for å gå dypt inn i problemstillingen. Hun hadde vurdert Navs rundskriv til EØS-reglene for arbeidsavklaringspenger, uten at hun i dem fant svar på problemstillingen i saken. Selve forordningen hadde hun ikke gått inn i. Forsvareren nevnte prinsippet om fri bevegelighet i sin prosedyre, men fremla ikke noe juridisk utdrag om spørsmålet. Forsvareren har fortalt utvalget at hun reagerte på at EØS-dimensjonen ikke var vurdert under den tidligere håndteringen av den aktuelle saken i Nav, herunder i Nav Kontroll som hadde begjært påtale.
+
+I en annen sak, uten henvisning til EØS-retten for øvrig, uttaler dommeren i forbindelse med straffutmålingen at
+
+«det ikke ligger til retten å vurdere hensiktsmessigheten av et krav om opphold i Norge for å motta arbeidsavklaringspenger. Det ligger heller ikke til retten å gjøre en individuell vurdering av om og eventuelt hvor stramt opplegg den enkelte mottaker hadde å følge opp overfor Nav eller hvor langt unna en må være for ikke å anses å være tilgjengelig for arbeid eller oppfølging fra Nav.»[^541]
+
+Utvalget vet ikke om tiltalte eller forsvarer kritiserte hensiktsmessigheten av oppholdskravet under hovedforhandlingen, eller om dommeren fant grunn til å ta opp dette av eget tiltak. Utvalget konstaterer at det fremgår av avgjørelsen at problemstillingen er sett, uten at det, basert på dommen, ser ut til å være rettet prinsipielle innsigelser mot lovligheten som sådan. Det fremgår heller ikke noe som tilsier at forholdet til EØS-retten er vurdert.
+
+Utvalget har vært i kontakt med en forsvarer som forteller at han planla å knytte anførsler til forordningen under sin prosedyre i en straffesak i 2015. Han mente, etter å ha gjennomgått Trygderettens avgjørelse i en lignende sak, at Nav skulle ha vurdert hans klients rettigheter etter forordningen.[^542] I den aktuelle saken ble aktor imidlertid i tvil om tiltaltes skyld under hovedforhandlingen, etter at et vitne fra det lokale Nav-kontoret hadde forklart seg. Tiltalen ble da frafalt, og saken ble dermed avsluttet uten at advokaten holdt sin prosedyre.
+
+Om saksbehandlingen i straffesakene for øvrig
+
+Gjennomgangen av domsmaterialet etterlater et inntrykk av at dommenes grundighet er varierende. De rettslige vurderingene av trygderegelverket er som regel knappe. Som nevnt kan dette skyldes at sakene ut fra det perspektivet som var gjeldende, ikke ble ansett å reise særlig vanskelige juridiske spørsmål. De rettslige begrunnelsene er mest utfyllende når det kommer til vurderinger av skyldkravet og straffeutmålingen.
+
+Bedømmelsen av tiltaltes skyld avviker iblant fra det som er lagt til grunn av Nav, og til en viss grad fra det påtalemyndigheten har lagt til grunn. I en rekke saker finner ikke retten at det er bevist at tiltalte handler forsettlig, og dømmer for grovt uaktsom overtredelse.[^543]
+
+Høyesterett har siden lagt til grunn at det ikke er relevant å se hen til hypotetiske vurderinger av hvorvidt tiltalte hadde blitt innvilget tillatelse, ved straffutmålingen.[^544] Høyesteretts uttalelser på dette punkt har imidlertid ikke blitt etterfulgt konsekvent i tingrettene.[^545]
+
+Det ble tatt ut tiltale for falsk forklaring i omkring 70 prosent av sakene. Tiltalte ble dømt for falsk forklaring i overkant av 75 prosent av sakene der det var tatt ut tiltale for dette.[^546]
+
+Når det kommer til de faktiske vurderingene, etterlater gjennomgangen et inntrykk av at Navs beregninger i stor grad legges til grunn av retten og av påtalemyndigheten. I noen avgjørelser finner likevel ikke retten bevist at utenlandsoppholdene har hatt et så stort omfang som påtalemyndigheten har lagt til grunn, og i én dom kritiserer tingretten påtalemyndigheten for ikke å ha foretatt noen egne undersøkelser, men
+
+«utelukkende synes å ha bygget på NAV Kontroll sine undersøkelser og konklusjoner og synes ikke å ha etterforsket nærmere rundt disse periodene».[^547]
+
+Tiltalte ble i den aktuelle saken dømt for forsettlig, grovt trygdebedrageri, men etter bevisførselen ble det lagt til grunn at flere av periodene tiltalte hadde vært utenlands var kortere enn det Nav – og påtalemyndigheten – hadde lagt til grunn.[^548]
+
+Til sammen 17 av de dommene utvalget har mottatt, er behandlet som tilståelsessaker. I noen av disse sakene er det ikke tilstrekkelig informasjon i dommen til å vurdere om tilståelsen har vært uforbeholden. Rettsboken fra rettsmøtet kan gi en mer utførlig gjengivelse av tilståelsen. Utvalget har i de fleste sakene ikke hatt tilgang til rettsbøkene, og dermed heller ikke til eventuelle gjengivelser av tilståelsen der. Det er eksempler på saker som har blitt forsøkt behandlet som tilståelsessak, men der tilståelsen ikke har vært uforbeholden, slik at saken likevel er behandlet ved vanlig hovedforhandling.
+
+Utvalget har bare mottatt én sak som ble avsluttet med påtaleunnlatelse. Dette var fordi ingen eller bare en ubetydelig straff ville kommet til anvendelse etter reglene om straffeutmåling der flere forbrytelser pådømmes under ett.
+
+Flere av sakene er pådømt uten at tiltalte har vært til stede, jf. straffeprosessloven § 281. Tiltalte har i noen av disse sakene samtykket til pådømmelse i sitt fravær, men latt seg representere ved forsvarer.[^549] I andre tilfeller er saken fremmet uten at det fremgår av utskriften av dommen om det foreligger samtykke, eller om saken eventuelt er behandlet etter § 281 første ledd nr. 2 eller 3, som tillater at saken fremmes uten tiltalte til stede dersom vedkommende har uteblitt uten gyldig fravær, eller har «unnveket» etter at tiltalen er forkynt.[^550]
+
+Straffutmåling og kostnader
+
+I saker hvor beløpet har oversteget folketrygdens grunnbeløp,[^551] er det i all hovedsak reagert med ubetinget fengsel.[^552] Lengden på fengselsstraffen er gjennomgående fastsatt i lys av avgjørelser fra Høyesterett, og i noen grad lagmannsrettene, i saker om beløp av tilsvarende størrelse.[^553] Der det er domfelt også for falsk forklaring, er det ikke utmålt ytterligere straff for dette, med henvisning til høyesterettspraksis om at det ikke utmåles ytterligere straff når bestemmelsen om falsk forklaring til offentlig myndighet anvendes sammen med bedrageribestemmelsen ved trygdebedragerier.[^554]
+
+Etter straffeprosessloven § 436 første ledd bør siktede som blir domfelt som utgangspunkt pålegges saksomkostninger til staten. Som regel skjer ikke dette i tilståelsessaker. I meddomsrettssakene i det sakskomplekset utvalget har vurdert, er det noe varierende i hvilken grad retten har benyttet adgangen til å pålegge domfelte saksomkostninger til staten. Dette har antagelig sammenheng med at de domfelte gjerne har hatt store tilbakebetalingskrav fra Nav, og ellers i liten grad er bemidlet. Straffeprosessloven § 437 tredje ledd fastsetter at saksomkostninger bare skal ilegges «dersom det antas mulig å oppnå betaling, og avpasses etter siktedes økonomiske evne».
+
+Frifinnelser
+
+Utvalget har bare mottatt to dommer der tiltalte ble frifunnet fordi domstolen ikke fant at skyldkravet var oppfylt.[^555] Den ene saken gjelder i hovedsak mottak av dagpenger under utenlandsopphold, og frifinnelsen er hovedsakelig begrunnet i at tiltalte hadde fått tvetydig informasjon om dagpengeregelverket, slik at skyldkravet ikke var oppfylt.[^556] Den andre frifinnelsen er mer relevant for det sakskomplekset utvalget har vurdert. Saken stammer fra før 2012 og gjelder rehabiliteringspenger, en forløper til arbeidsavklaringspenger.[^557] Retten la her til grunn at tiltalte, en EØS-borger fra et naboland, ikke hadde fått tilstrekkelig informasjon på et språk hun kunne forstå, og at hun dessuten uansett ville fått tillatelse til utenlandsopphold om hun hadde søkt. Tiltalte hadde vært i hjemlandet for å tilbringe tid med nær familie under sykdom. Saken er avgjort på bakgrunn av at retten mente Nav ikke hadde oppfylt veiledningsplikten sin, og at skyldkravet derfor ikke var oppfylt. Det gjøres ingen EØS-rettslig vurdering.[^558] I senere saker har utilstrekkelig informasjon fra Nav eller språkproblemer ikke medført frifinnelse, men heller at det er domfelt for grovt uaktsom, i stedet for forsettlig, overtredelse.[^559]
+
+I en annen sak ble som nevnt tiltalen frafalt av påtalemyndigheten på grunn av rimelig tvil om hvorvidt tiltalte var skyldig.[^560] Det skal da avsies frifinnelsesdom, uten at skyldspørsmålet prøves, jf. straffeprosessloven § 73 første ledd første punktum.
+
+I én av sakene utvalget har fått oversendt er tiltalte frifunnet, fordi aktor under hovedforhandlingen endret tiltalen fra å gjelde grovt til alminnelig bedrageri. Foreldelsesfristen utløper imidlertid etter fem år ved alminnelig bedrageri, og forholdet ble derfor ansett foreldet. Tiltalte ble frifunnet uten noen nærmere vurdering av de faktiske forhold.[^561] EØS-retten er ikke behandlet i noen av sakene.
