@@ -1,887 +1,298 @@
-# NOU 2026: 10, del 20 av 31 (side 244–253)
+# NOU 2026: 10, del 20 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 244]
+## Andre ansatte som jobber med elever, både i og utenfor skolen
 
-242
+Skolen som profesjonsfaglig fellesskap består av lærere, ledere og andre ansatte. Å realisere skolens oppdrag krever både innsats og kompetanse fra andre enn lærere. Uttrykket *laget rundt elevene* refererer gjerne både til ansatte som har sitt daglige virke i skolen, og til yrkesgrupper og instanser utenfor skolen, som skolen samarbeider med. Andre ansatte i skolen kan være miljøarbeidere, pedagogisk-psykologisk rådgivere, assistenter og helsesykepleiere. Yrkesgrupper og tjenester utenfor skolen kan for eksempel være pedagogisk-psykologisk tjeneste (PP-tjenesten), barnevernet, barne- og ungdomspsykiatrien, politiet eller kommunale kultur- og fritidsorganisasjoner.
 
-Kapittel 11
+Gruppen *andre ansatte* er med andre ord en mangfoldig gruppe. Vi snakker både om yrkesgrupper med høyere utdanning, som psykologer, barnevernspedagoger, spesialpedagoger, sykepleiere og vernepleiere, om ansatte med fagbrev som barne- og ungdomsarbeidere og ansatte uten en spesiell utdanning (se tabell 10.3). Det er også en fare for å snakke forbi hverandre når man snakker om laget rundt elevene, ved at noen tenker på de ansatte i skolen og noen tenker på aktører utenfor skolen.
 
-NOU 2026: 10
-Fellesskolen
+Kommunene og skolene må ta ansvar for å bidra til et godt samarbeid, både innad i skolen og tverrsektorielt i kommunen. Skolen, SFO og PP-tjenesten har lovbestemt plikt til å samarbeide med andre velferdstjenester om oppfølgingen av barn og unge med behov for et sammensatt tjenestetilbud (Opplæringslova, 2024, § 24-1).
 
-11.6 Øke kvaliteten på og tilgangen til
-læremidler
-11.6.1 Fellesskolen er avhengig av læremidler
-av høy kvalitet
-Utvalget mener at gode læremidler er avgjørende
-for elevenes læring og et viktig virkemiddel i lærerens undervisning. Utvalget er særlig opptatt av to
-dimensjoner knyttet til læremidler: tilgangen til
-læremidler og kvaliteten på disse.
-Utvalget mener at en kompetent, balansert, formåls- og alderstilpasset bruk av digitale læremidler
-er viktig. Utvalget understreker at digitale læremidler har egne kvaliteter som er nødvendige i skolen.
-God bruk av teknologi kan bidra både til bedre tilpasset opplæring og til å styrke skolens inkluderende fellesskap. Ulike studier viser også hvordan
-god bruk av teknologi kan føre til økt motivasjon og
-engasjement hos elever, og være positivt for samarbeid, begrepsforståelse, ferdighetsutvikling, selvregulert læring og tverrfaglig læring (Forsström,
-Njå, Munthe, Álvarez-, et al., 2025).
-Samtidig peker utvalget på at en del av de digitale læremidlene og læringsressursene ikke først
-og fremst er utviklet for bruk i opplæring generelt
-eller norsk skole spesielt. En bekymring ved de
-store teknologifirmaenes inntog i klasserommet,
-er at de er drevet av profitt og ikke hensynet til
-elevenes læring. Denne kritikken har også rammet mindre teknologifirmaer på utdanningsfeltet.
-Bekymringen er både knyttet til personvern og
-elevenes læring.
-Utvalget har fått et skriftlig innspill fra Forleggerforeningen, som mener det er viktig med
-norskproduserte læremidler i fellesskolen. Forleggerforeningen understreker hvordan norskproduserte læremidler er utviklet i tråd med opplæringens formål, og gir en språklig, kontekstuell
-forankring i det norske samfunnet som bygger på
-læreplanverket og formålsparagrafen i opplæringsloven. De vektlegger også betydningen av
-redaktørstyrte læremidler for å implementere
-læreplanendringer, og poengterer at utvikling av
-læreverk av høy kvalitet krever tid og ressurser.
-Utvalget er enige med Forleggerforeningen i
-at det er en bekymringsfull tendens hvis bruken
-av læringsressurser fra teknologifirmaene fortrenger eller erstatter læremidler som er utviklet for
-skolen og med utgangspunkt i dagens læreplanverk. I så fall kan teknologiutviklingen føre med
-seg mindre investeringsvilje i redaktørstyrte læremidler og et dårligere utvalg av læremidler basert
-på gjeldende læreplanverk. På sikt vil dette kunne
+I dette kapittelet skal vi først se nærmere på andre ansatte enn lærere som har elevrettet arbeid i skolen. Deretter vil vi se på det tverrsektorielle samarbeidet med de profesjonelle aktørene omkring skolen.
 
-gi dårligere sammenheng mellom læreplanene og
-de læremidlene som brukes i skolen.
-Personvernutfordringer med kommersielle læringsressurser
-Digitale læringsressurser som ikke er utviklet for
-skolen, innebærer en risiko for at kommersielle
-aktører samler inn informasjon om elevene som
-selges videre, i tråd med konsekvensene av oppmerksomhetsøkonomien som vi har beskrevet tidligere. Dette kan føre til brudd på elevenes rett til
-personvern og at elevene blir eksponert for
-reklame, skadelig innhold, kommersielt press,
-negativ påvirkning og feil- og desinformasjon.
-I tillegg har vi de uheldige konsekvensene av
-måten mange digitale plattformer er utformet på,
-med strategisk bruk av forstyrrelser, varslinger,
-belønningsmekanismer og sosiale triggere som
-virker forstyrrende på elevenes læring.
-De mulige farene med de kommersielle læremidlene er noe av bakgrunnen for at kommuner
-og skoler har etterspurt en oversikt over kvalitetssikrede digitale læremidler fra nasjonalt hold
-(Kunnskapsdepartementet, 2023). En læremiddelkatalog var også et av forslagene til Personvernkommisjonen (NOU 2022: 11). Arbeidet med å
-utvikle læremiddelkatalogen har pågått en stund,
-og Utdanningsdirektoratet og Sikt lanserte en
-første versjon i mai 2025. Katalogen skal bidra til
-at kommuner og fylkeskommuner, skoler og
-lærere finner de mest egnede digitale læremidlene til sitt bruk, og er ikke en statlig godkjenningsordning for digitale læremidler (Sikt, 2026).
-Økt tilgang til trykte læremidler
-Kommunen og fylkeskommunen har ansvar å
-sørge for at skolene har tilgang til nødvendig
-utstyr, inventar og læremidler. Riksrevisjonens
-undersøkelse av læremidler i grunnskoler og
-videregående skoler viser at det er stor variasjon i
-om lærere kan velge mellom trykte og digitale
-læremidler (Riksrevisjonen, 2025b). I undersøkelsen svarte 37 prosent av grunnskolelærerne at de
-ikke kan velge mellom trykte og digitale læremidler. Riksrevisjonen viser blant annet til en undersøkelse gjennomført av Utdanningsforbundet i
-2024 der litt over halvparten av lærerne i grunnskoler og videregående skoler svarer at de ønsker
-seg en 50/50 balanse mellom digitale og papirbaserte læremidler, men at dette er ikke tilgjengelig
-i alle fag. Omtrent halvparten av lærerne svarer at
-de står fritt til å velge type læremiddel, mens
+### Andre ansatte i elevrettet arbeid i skolen
 
-[Side 245]
+Kommunen og fylkeskommunen skal sørge for at det er riktig og nødvendig kompetanse i skolen (Opplæringslova, 2024, § 17-1). Andre yrkesgrupper enn lærerne kan være viktige for å gi elevene en god opplæring og et trygt og godt skolemiljø. I et innspill til utvalget skriver Skolenes Landsforbund:
 
-NOU 2026: 10
-Fellesskolen
+For å sikre en helhetlig og inkluderende opplæring, er det viktig å ha et sterkt lag rundt eleven. Dette laget består av flere yrkesgrupper med ulik kompetanse, som lærere, spesialpedagoger, skolepsykologer, helsesykepleiere og sosialarbeidere. Samarbeidet mellom disse profesjonene bidrar til å møte elevenes individuelle behov og skape et trygt og støttende læringsmiljø.[^28]
 
-omtrent 1 av 3 svarer at de i liten eller svært liten
-grad har denne friheten.
-Utvalget mener at det bør sørges for bedre tilgang til trykte læremidler i skolen, og at det bør
-legges bedre til rette for at lærerne skal kunne
-velge trykte læremidler der de mener det vil gi
-best opplæring. For noen teksttyper viser studier
-at elever har bedre leseforståelse etter å ha lest
-teksten på papir enn når de har lest den digitalt.
-Skjermbrukutvalget pekte på at nedgangen i leseferdigheter taler for at elevene bør lese mer i
-trykte bøker (Skjermbrukutvalget, 2023a). Undersøkelser viser også at foreldre synes det er vanskeligere å følge med på og støtte barnet sitt i skolearbeidet når det skjer på digitale enheter (Opinion, 2022, 2025). Utvalget mener det har en egen
-verdi at man i undervisningen kan samle seg
-rundt den samme læreboken. I media har lærere
-fortalt om at de føler seg tvunget til å kopiere ulovlig i mangel på trykte læremidler (Ditlefsen &
-Hamre, 2022). Utvalget mener økt tilgang til
-trykte læremidler vil være en viktig støtte for
-lærernes arbeid, og at det kan være avlastende i
-en stadig mer presset arbeidshverdag.
-Læremiddelsituasjonen er ikke tilfredsstillende i dag, og utvalget er bekymret for hva som
-kan skje framover i en presset kommuneøkonomi,
-dersom læremidler ikke prioriteres. Utvalget
-mener det er en stor risiko for at elevenes opplæring svekkes hvis mangel på læremidler tvinger
-lærerne til å lene seg for mye for eksempel på KI
-eller læringsressurser fra internasjonale teknologiselskaper. Dersom vi skal sikre norske redaktørstyrte og kvalitetssikrende læremidler, er vi
-avhengig av en bærekraftig modell for utvikling av
-læremidler. Tydeligere reguleringer kan være et
-viktig steg på veien.
-Utvalget foreslår derfor at det lovfestes en
-plikt for kommunen til å sikre at elevene har tilgang til trykte læremidler i alle relevante fag i
-grunnskolen. Forslaget innebærer ikke at skolene
-må gi alle elevene en lærebok i alle fag hvert år,
-men at de skal ha tilgang til lærebøker i alle relevante fag. Utvalget definerer ikke her hva som
-skal regnes som relevante fag og anerkjenner at
-det kan variere fra skole til skole, men hovedregelen skal være at elevene får tilgang til en fysisk
-lærebok i de fleste fagene. Utvalget er kjent med
-at regjeringen den 19. juni 2026 sendte på høring
-et forslag om å lovfeste et krav om at trykte læremidler og ressurser skal være tilgjengelige i opplæringen i grunnskolen (Kunnskapsdepartementet, 2026a).
-Utvalget presiserer at forslaget ikke skal forstås som et pålegg om at lærerne må bruke trykte
+En oversikt over ansatte i skolen viser at 67 prosent av de ansatte er lærere, nærmere 5 prosent er ledere, 24 prosent er andre ansatte i elevrettet arbeid og seks prosent er øvrige ansatte (Statistisk sentralbyrå, 2024a). Det er med andre ord mange andre enn lærerne som jobber med elever i skolen.
 
-243
+Ansatte i grunnskolen etter yrke 2024
 
-Kapittel 11
+Kilde: Statistisk sentralbyrå, 2024a
 
-læremidler. Lærerprofesjonens metodiske ansvar
-må være utgangspunktet. Ved en større tilgang til
-trykte læremidler vil lærerne selv kunne vurdere
-om de vil bruke trykte læremidler i undervisningen. Utvalget mener at trykte læremidler fra
-redaktørstyrte forlag vil kunne gi trygghet og
-representere noe håndfast og kvalitetssikret i en
-situasjon med stadig mer relativisering av kunnskap og utbredelse av KI.
-Utvalget forutsetter at det fortsatt vil være
-behov for en blanding av digitale og trykte læremidler i skolen, og understreker at digitale læremidler og læringsressurser har en viktig plass i
-fellesskolen også i framtiden. Som vist tidligere
-kan digital teknologi og digitale læremidler være
-en viktig støtte for tilpasset opplæring for elever
-med ulike utfordringer.
-Å gi kommunen plikt til å sikre elevene tilgang
-til trykte læremidler i alle relevante fag innebærer
-en sterk statlig styring av kommunene. Forslaget
-griper inn i det kommunale selvstyret, og tiltaket
-må derfor være forholdsmessig og nødvendig for å
-ivareta nasjonale mål (Kommuneloven, 2018, § 2-2).
-Forslaget kan føre til at kommuner og skoler ikke
-har råd til digitale læremidler som har andre kvaliteter enn de trykte læremidlene. En ulempe ved
-trykte læremidler er at de er vanskeligere å holde
-oppdatert enn digitale læremidler.
-Til tross for disse innvendingene, mener
-utvalget det er viktig å regulere tilgang til trykte
-lærebøker for elevene. Utvalget viser til at det
-har blitt bevilget totalt omtrent 540 mill. kroner
-øremerket til trykte lærebøker i 2023, 2024 og
-2026. Utvalget viser til våre vurderinger av de
-økonomiske og administrative konsekvensene av
-forslaget i kapittel 14.
-Faglig råd for læremidler
-Allerede i 1860 fantes det en statlig godkjenningsordning for læremidler. Den ble opphevet i 2000.
-Bakgrunnen for å oppheve godkjenningsordningen var blant annet å tydeliggjøre at det er læreplanen som skal være styrende for undervisningen, ikke lærebøkene. Et annet mål med endringen var å gi ansvaret for kvaliteten i lærebøkene
-til forlag, forfattere og fagmiljø, som kjenner fagfeltet best. Ordningen var også tungrodd og ressurskrevende (Ot.prp. nr. 46 (1997–98)).
-Det har vært en betydelig utvikling av læremiddelsituasjonen siden 2000, særlig med tanke
-på inntoget av digitale læremidler og digitale
-læringsressurser. Omsetningen av digitale læremidler har mer enn doblet seg fra 2018 til 2024.
+Statistisk sentralbyrå har gjort en kartlegging av hvilken kompetanse ulike ansattgrupper i skolen har. Kartleggingen viste at i gruppen andre ansatte i elevrettet arbeid, manglet halvparten pedagogisk utdanning eller annen relevant utdanning. En tredjedel var barne- og ungdomsarbeidere og resten hadde en spesifikk høyere utdanning (Steffensen & Dystland, 2024). De andre ansatte som jobber elevrettet har en sammensatt kompetanseprofil, fra spesialisert høyere utdanning til fagbrev og til ufaglærte.
 
-[Side 246]
+Andre ansatte i elevrettet arbeid i grunnskolen. Fordeling av avtalte årsverk etter yrkesgruppe og kompetansegruppe
 
-244
+02J1xt2
 
-Kapittel 11
+|                                                  |         |
+|--------------------------------------------------|--------:|
+| Kompetansegruppe                                 | Prosent |
+| Lærerutdanning                                   |   4,2 % |
+| Utdanning i spesialpedagogikk                    |   0,5 % |
+| Annen pedagogisk utdanning                       |   5,8 % |
+| Barnevernspedagogutdanning                       |   4,6 % |
+| Fagbrev barne- og ungdomsarbeider                |  32,7 % |
+| Sosionomutdanning                                |   2,3 % |
+| Vernepleierutdanning                             |   4,4 % |
+| Utdanning innen økonomiske og administrative fag |   1,5 % |
+| Inngår ikke i de andre kompetansegruppene        |  47,6 % |
+| Totalt                                           |   100 % |
 
-NOU 2026: 10
-Fellesskolen
+Kilde: Steffensen & Dystland, 2024
 
-Utvalget mener at gode læremidler er en sentral forutsetning for god undervisning. De kan gi
-støtte til lærerens valg av undervisningsopplegg
-og de legger til rette for at elever kan lese og fordype seg i læringsstoffet. Utvalget mener derfor
-at staten bør ta et større ansvar for å sikre likeverdig tilgang til oppdaterte og kvalitetssikrede læremidler i tråd med læreplanverket. For å få det til
-må det opprettes tydeligere samarbeidsarenaer
-og strukturer for de ulike aktørene i dette systemet. Utvalget mener det er viktig å sikre et godt
-samarbeid mellom myndighetene og forlagene for
-å sikre en bærekraftig modell for læremiddelsituasjonen i framtidens fellesskole.
-Utvalget er kjent med at det i dag finnes et
-forum for læremidler, der KS, Utdanningsforbundet og representanter for forlagsbransjen møtes
-for uformell diskusjon.
-Utvalget foreslår å opprette et mer formalisert råd for utvikling av læremidler. Rådet skal
-bidra til å sikre at alle elever har likeverdig tilgang til oppdaterte, relevante og kvalitetssikrede
-læremidler i tråd med læreplanverket. Rådet skal
-også bidra til bedre sammenheng mellom læreplan, utvikling, ulike finansieringsmodeller og
-bruk av læremidler. Utvalget foreslår at rådet får
-et særlig ansvar for å legge til rette for at det
-utvikles læremidler av høy kvalitet. Rådet skal
-ikke være en ny statlig godkjenningsordning,
-men skal se ulike virkemidler i sammenheng, for
-eksempel læremiddelkatalogen, støttetjenesten,
-tilskuddsordninger og Utdanningsdirektoratets
-kriterier for valg av trykte læremidler. Utvalget
-mener at rådets sammensetning og mandat bør
-vurderes nærmere.
+Ansatte i elevrettet arbeid utgjør en stor andel av de ansatte i skolen, og de har en viktig rolle i skolen. Det mangler likevel detaljert statistikk over hva slags stillinger og funksjoner de har.
 
-11.6.2 Utvalgets forslag om læremidler
+Før innføringen av lærernormen var det en bekymring for at normen ville gjøre det vanskeligere økonomisk å ansette andre i elevrettet arbeid. Evalueringen viser at lærernomen har økt antall lærere, uten at det har påvirket bruken av assistenter, individuell tilrettelegging eller særskilt språkopplæring. Tvert imot har assistentbruken i skolene økt gjennom evalueringsperioden (Pedersen, 2022). Per hundre lærerårsverk er det om lag 20 assistentårsverk, og andelen er økende.
+
+Antall assistentårsverk per hundre lærerårsverk
+
+Kilde: Utdanningsdirektoratet, 2026p
+
+Ekspertgruppen for skolebidrag fant at skoler som lykkes med å løfte alle elever uavhengig av bakgrunn og forutsetninger preges av fellesskapstenkning og samarbeid. Lærerne er organisert i team og tar et felles ansvar for alle elever. Skoleeier og skoleleder samarbeider om å styrke laget rundt lærer og elev slik at riktige tiltak kan iverksettes. Disse skolene har gjerne ansatt andre yrkesgrupper enn lærere for å lette samarbeidet, jobbe forebyggende og fange opp problemer raskt (Ekspertgruppa for skolebidrag, 2021).
+
+God tverrfaglig hjelp og støtte til barn og unge vil bedre deres forutsetninger for livsmestring, læring og utvikling, og for å gjennomføre utdanningsløpet. Skoler som greier å koordinere samarbeidet med andre instanser *omkring* skolen, og andre yrkesgrupper *i* skolen, på en god måte, er også de som lykkes best med opplæringen. Det er grunn til å tro at disse skolene ser på de ansatte i andre yrkesgrupper som en del av det profesjonsfellesskapet.
+
+Skolemiljøansatte
+
+Noen av de ansatte i skolen som jobber elevrettet, men som ikke er lærere, omtales som «skolemiljøansatte». Dette kan være barnevernspedagoger, sosionomer, vernepleiere, barne- og ungdomsarbeidere og miljøarbeidere. Det kan også være ansatte med bakgrunn innenfor spesialpedagogikk eller miljøterapi. Skolemiljøansatte jobber ofte med elever og elevgrupper som trenger ekstra tilrettelegging eller oppfølging, for eksempel elever med utagerende atferd eller elever med behov for individuell tilrettelegging (Vika & Bergene, 2023).
+
+Forskning har vist at mye av tiden til skolemiljøansatte går til 1:1-oppfølging, noe som bidrar til tettere oppfølging av enkeltelever og til å frigjøre tid for læreren (Vika & Bergene, 2023). Dette er viktig arbeid, men skolemiljøansatte selv mener de med fordel kan bidra mer i det systemrettede arbeidet med skolemiljøet. På mange skoler ligger det et uutnyttet potensial i at ansatte i disse yrkesgruppene tas med inn på skolens samarbeidsarenaer og at de inkluderes tydeligere i skolens samarbeid med lærere og ledelsen (Vika & Bergene, 2023).
+
+SFO-ansatte
+
+Skolefritidsordningen (SFO) skal gi omsorg, tilsyn og legge til rette for lek, kultur- og fritidsaktiviteter. De aller fleste barn på 1. og 2. trinn går på SFO, og etter at det ble innført 12 timer gratis SFO på 3. trinn har deltakelsen også økt betraktelig. Den økte deltakelsen i SFO de senere årene gjør at ordningen har fått enda større betydning som del av barns totale oppvekstmiljø. Forskning viser at SFO-ansatte kan spille en viktig rolle i å skape trygge og inkluderende sosiale arenaer for barn. SFO-ansatte bidrar til å styrke barnas sosiale utvikling tilhørighet og lekbaserte læring, som er viktig for skolegangen og videre livsløp (Wendelborg et al., 2018). Nyere forskning peker også på at SFO-ansatte kan bidra til et helhetlig læringsmiljø gjennom et godt samarbeid med skolens ansatte og gjennom aktiviteter som støtter barns språk, samhandling og trivsel (Caspersen et al., 2024). Samlet sett kan SFO-ansatte bidra til elevenes sosiale utvikling, inkludering og trivsel, og dermed også til oppfyllelsen av skolens brede samfunnsmandat.
+
+Forskningen peker samtidig på betydelige utfordringer knyttet til SFO og SFO-ansattes rolle. En gjennomgående utfordring har vært store variasjoner i kvalitet, innhold og organisering mellom SFO-tilbud på tvers av kommunene (Wendelborg et al., 2018). Forskere finner dessuten få tegn til økt læring, økt trivsel eller mindre mobbing i skolen som følge av den økte deltakelsen i SFO (Drange & Sandsor, 2024). Dette tyder på at det ligger et større potensiale i SFO som arena for barns utvikling enn det som utnyttes i dag. En av flere mulige forklaringer er at andelen SFO-ansatte med relevant pedagogisk eller faglig kompetanse er varierende. Behovet for kompetanseheving blant SFO-ansatte trekkes fram i flere rapporter (Caspersen et al., 2024; Wendelborg et al., 2018).
+
+Helsesykepleiere
+
+Helsesykepleiere i skolehelsetjenesten tilfører et helsefaglig perspektiv i skolen som bidrar til å støtte elever, avlaste lærere og styrke det helhetlige arbeidet med skolemiljøet. Kommunene er pålagt å ha en skolehelsetjeneste, men har selv ansvaret for omfang, organisering og kvalitet innenfor de kravene som er stilt i forskrift (Forskrift om helsestasjons- og skolehelsetjenesten, 2018). Dette gir naturligvis variasjon i tilbudet på tvers av kommuner. Utvalget har fått tilbakemeldinger om at en del kommuner også har hatt utfordringer med rekruttering til stillinger innenfor skolehelsetjenesten.
+
+Forskning har vist at skolehelsetjenesten utnyttes best når det er en god balanse mellom oppgaver som helsesykepleierne prioriterer etter eget faglig skjønn og autonomi, og oppgaver som er en del av det strukturerte samarbeidet om opplæringen og skolemiljøet. Målt på kort sikt tyder forskningen på at økte ressurser til helsesykepleier i skolen har positive effekter på gutters faglige prestasjoner og bidrar til en generell reduksjon i digital mobbing. (Federici et al., 2020). Forskningen finner ikke noen tydelig forbedring på nasjonale prøver av en ekstra helsesykepleierressurs, men de ser tydelige effekter på systemnivå i form av bedre samarbeid, organisering og rolleforståelse. Helsesykepleierne spiller dessuten en særlig viktig rolle for elever som av ulike årsaker er i sårbare situasjoner (Federici et al., 2021).
+
+Karriereveiledere
+
+Kommunen og fylkeskommunen skal sørge for at elevene får den rådgivningen de trenger om utdannings- og yrkesvalg (Opplæringslova, 2024, § 16-1). Yrkes- og utdanningsrådgivere i skolen*,* gjerne kalt karriereveiledere, gir et viktig bidrag til skolens samfunnsoppdrag om å forberede elevene til videre utdanning og arbeid. Oppgavene til rådgiverne er å hjelpe alle elever med valg av utdanning og yrke, bidra til at elevene blir bevisst sine egne interesser og ferdigheter og gjøre at de kan ta informerte valg om veien videre i livet. Tjenesten er forankret i elevenes rett til slik rådgivning i opplæringsloven § 16-1.
+
+Karriereveilederne skal være en kobling mellom skole og arbeidsliv, og bidra til at opplæringen ses i lys av framtidige yrkesmuligheter. I likhet med faget utdanningsvalg, skal karriereveilederne bidra til at opplæringen oppleves som relevant for elevene. Forskning framhever i tillegg rådgivningen som et tiltak for å forebygge frafall og styrke overgangen mellom ungdomstrinn og videregående, og mellom videregående og videre utdanning eller til arbeidslivet (Buland et al., 2011).
+
+Forskningen peker samtidig på flere utfordringer knyttet til rollen som karriereveileder i skolen. Rollen framstår som bred og delvis uavklart, med et stort spenn av oppgaver som gjør det vanskelig å prioritere kjerneoppgavene knyttet til utdannings- og yrkesrådgivning (Buland et al., 2020). Mange rådgivere opplever også at de blir gitt oppgaver som ligger utenfor deres mandat, noe som kan svekke kvaliteten på selve karriereveiledningen. Ressursene til rådgivning oppleves som utilstrekkelige i forhold til de forventningene ofte som stilles til tjenesten (Buland et al., 2011). I tillegg er det betydelige variasjoner i hvordan rådgivningstilbudet er organisert og praktisert mellom skoler, noe som kan føre til ulik kvalitet og tilgang for elever (Mathiesen, 2022).
+
+Skolebibliotekarer
+
+Kommunen og fylkeskommunen skal sørge for at elevene har tilgang til et skolebibliotek eller et annet bibliotek som er særskilt tilrettelagt for skolen (Opplæringslova, 2024, § 15-5). Biblioteket skal være tilgjengelig for elevene i skoletiden, slik at det kan brukes aktivt i opplæringen.
+
+Skolebibliotekarer er dermed viktige samarbeidspartnere for lærerne. Forsking tyder på at godt utviklede skolebibliotek har positiv innvirkning på læring i alle fag. Skolebibliotekarene bidrar til å gjøre biblioteket til en faglig og sosial arena som støtter opp om både læring og trivsel for elevene (Bøyum & Tveit, 2023; Evjen, 2024). Skolebibliotekarene bidrar til opplæringen gjennom sitt arbeid med litteraturformidling, og i utvikling av informasjonskompetanse og kildekritikk hos elevene. Erfaringen viser at økt bemanning og kompetanse i bibliotekene gir økt bruk blant elever, mer lesing og sterkere integrasjon av biblioteket som pedagogisk verktøy i skolens virksomhet (Hauge et al., 2021).
+
+Selv om det er et lovfestet krav om skolebibliotek, stilles det ikke krav til bemanning og kompetanse, noe som bidrar til store variasjoner i tilbud og kvalitet mellom skoler. Tidligere studier har vist at bemanningen ofte er lav, og at bibliotekfunksjonen i mange tilfeller ivaretas av ansatte uten bibliotekfaglig utdanning, noe som kan begrense bibliotekets pedagogiske potensial (Carlsten & Sjaastad, 2014). I tillegg har det vært pekt på at skolebiblioteket og bibliotekarens rolle er svakt forankret i læreplanverket og i nasjonale styringsdokumenter, noe som kan bidra til at funksjonen undervurderes og underutnyttes i skolens pedagogiske arbeid (Fredwall, 2024).
+
+### Profesjonelle aktører omkring skolen
+
+En del elever har behov for tverrfaglig og koordinert støtte og hjelp fra flere velferdstjenester. For at skolen skal favne alle elever, er det nødvendig med et tett samarbeid med helsestasjon- og skolehelsetjenesten, spesialister fra PP-tjenesten, Barne- og ungdomspsykiatrien (BUP), barnevernet og andre relevante aktører. Felles for disse instansene er at de er sentrale støttespillere i og rundt skolen, og gir vesentlige bidrag til at skolen kan nå målet om tilpasset og likeverdig opplæring. Sårbarhetsfaktorer hos utsatte barn og unge kan omfatte rus, omsorgssvikt, vanskelige bo- og levekår, fysiske og/eller psykiske helsevansker, adferdsvansker, språk- og læringsvansker m.m.
+
+Figur 10.8 har blitt brukt for å illustrere alle velferdstjenestene rundt barnet og dermed eleven. Den kan like gjerne brukes for å illustrere hvor mange instanser de ansatte i skolen må forholde seg til.
+
+Velferdstjenester rundt barn
+
+Kilde: Meld. St. 6 (2019–2020)
+
+Det følger av regelverket at barn og unge skal få et helhetlig og samordnet tjenestetilbud. Reglene om velferdstjenestenes plikt til samordning og samarbeid ble harmonisert og styrket i 2021.
+
+Mange skoler og kommuner jobber allerede systematisk og godt med tverrfaglig og tverretatlig samarbeid om utsatte barn og unge. Samtidig vet vi at manglende ressurser og kapasitet ofte trekkes fram som et hinder for samarbeid (Tøssebro et al., 2025). Forskning og erfaringer fra enkeltsaker viser at samarbeidet mellom velferdstjenester til barn og unge ofte ikke fungerer godt nok. Dette kan føre til at barn og unge ikke får den hjelpen de trenger og har krav på (Hansen et al., 2020; Kindt & Strand, 2020).
+
+PP-tjenesten
+
+Pedagogisk-psykologisk tjeneste (PP-tjenesten) er en spesielt viktig del av laget rundt elevene. PP-tjenesten er regulert i opplæringsloven, og skal samarbeide med, og støtte skolene i det forebyggende arbeidet med å gi et inkluderende opplæringstilbud til elever som kan ha behov for tilrettelegging. PP-tjenesten skal også utarbeide sakkyndige vurderinger (Opplæringslova, 2024, § 11-13). PP-tjenesten skal både jobbe systemrettet og individrettet.
+
+Det systemrettede arbeidet innebærer å hjelpe skolen med kompetanseheving og organisasjonsutvikling for å legge opplæringen til rette for elever som kan ha behov for det. PP-tjenestens forebyggende og systemrettede mandat ble tydeliggjort i den nye opplæringsloven. Tjenesten skal bidra til å styrke skolens arbeid med tidlig innsats og forebygging. Dette innebærer å støtte og veilede skolene i å identifisere behov for tilrettelegging, og i å iverksette tiltak så tidlig som mulig. Tjenesten skal videre bidra til kompetanse- og organisasjonsutvikling, slik at skolene blir bedre i stand til å gi et inkluderende og tilpasset opplæringstilbud innenfor fellesskapets rammer. Dette omfatter blant annet veiledning i pedagogisk praksis, læringsmiljøarbeid og utvikling av skolens strukturer og arbeidsformer.
+
+Denne delen av PP-tjenestens mandat innebærer en tydelig forventning om at tjenesten skal arbeide systemrettet og i tett samarbeid med skolene, og bidra til å redusere behovet for individrettede tiltak over tid. En kunnskapsoppsummering utført av Utdanningsdirektoratet viser at mange PP-tjenester vurderer at de jobber tettere på barnehager og skoler enn tidligere, at de er tidligere inne i saker og at de jobber mer forebyggende (Utdanningsdirektoratet, 2026b).
+
+PP-tjenesten er videre kommunens og fylkeskommunens sakkyndige instans i saker der loven krever sakkyndig vurdering. Tjenesten skal utarbeide vurderinger som gir grunnlag for vedtak om individuelt tilrettelagt opplæring og andre former for tilrettelegging. Den sakkyndige vurderingen skal bygge på en helhetlig utredning av elevens behov, og gi et faglig grunnlag for å vurdere om eleven har et tilfredsstillende utbytte av opplæringen og hvilke tiltak som er nødvendige
+
+PP-tjenesten skal samarbeide med skoler, foreldre og relevante tjenester for å sikre helhetlig oppfølging av barn og unge. Tjenesten inngår ofte i tverrfaglig samarbeid med blant annet helse- og omsorgstjenester og barneverntjenesten (Meld. St. 6 (2019–2020)).
+
+Del IV
+
+Utvalgets vurderinger og forslag
+
+Figur 11.1
+
+Utvalget er bedt om å vurdere hvilken rolle og funksjon skolen som institusjon bør ha i et 20-årsperspektiv, både for elevene og i et samfunnsperspektiv. Utvalget skal komme med forslag til hvilke endringer på overordnet nivå som må gjøres av innhold, omfang og organisering i skolen for at den skal ruste elevene til å møte framtidens utfordringer. Utvalget legger vekt på en helhetlig tilnærming til tiltakene vi foreslår. Det er ikke ett enkelt tiltak som alene kan håndtere utviklingstrekkene som treffer skolen eller snu den negative utviklingen i resultater. Det er summen av flere tiltak.
+
+Et overordnet mål for utvalgets forslag er å styrke skolens danningsoppdrag. Vi mener at de tunge utviklingstrekkene i samfunnet utfordrer dette oppdraget. Samtidig er økt vekt på danningsoppdraget en viktig del av svaret på hvordan skolen skal møte disse utviklingstrekkene.
+
+Prinsippet om barnets beste ligger til grunn for alle våre vurderinger og tiltak. Barnets beste er et grunnleggende og overordnet hensyn for hvordan fellesskolen skal utvikles for framtiden. Når utvalget foreslår tiltak for å styrke skolens dannings- og utdanningsoppdrag, er det nettopp for at skolen i enda større grad skal bidra til elevenes læring, utvikling, trivsel og danning til barnas beste.
+
+For å sikre en helhetlig tilnærming har vi lagt til grunn en tredeling av vurderingene og tiltakene i denne delen av utredningen.
+
+Figur 11.2 Utvalgets tiltaksområder
+
+Utvalget foreslår tiltak som handler om
+
+- fellesskolens innhold og hva elevene lærer, se kapittel 11
+
+- fellesskolen og de profesjonelle aktørenes rolle, se kapittel 12
+
+- fellesskolens plass i samfunnet og skolen som samfunnsinstitusjon, se kapittel 13
+
+Skolens innhold og hva elevene skal lære er tema mange er opptatt av, og som mange har meninger om. Utvalget foreslår noen endringer i dagens læreplanverk, slik at det blir et bedre verktøy for skolene og forsterker intensjonene som lå bak fagfornyelsen. Vi beskriver også konkrete tiltak for å styrke spesielle områder. Det handler blant annet om vurderingspraksis, læremidler, danning, teknologi, digital dømmekraft og elevenes sosioemosjonelle utvikling. Det handler også om å styrke noen fag og fagområder som lesing, matematikk, demokrati, praktiske og estetiske fag og fysisk aktivitet. Utvalget har vært spesielt opptatt av de yngste elevene, og foreslår flere tiltak som vil skape en mer helhetlig og variert skoledag som er bedre tilpasset dem.
+
+Lærerprofesjonen og en profesjonell skoleledelse er en grunnleggende forutsetning for at skolen som organisasjon skal lykkes med oppdraget. Utvalget beskriver en rekke tiltak som skal styrke lærerprofesjonen i framtiden. Dette arbeidet må i hovedsak skje fra profesjonen selv, men myndighetene må gi bedre rammer for å støtte utviklingen av kompetansen til læreprofesjonen. Utvalget mener blant annet det er nødvendig å stille strengere kompetansekrav for å kunne bli ansatt i lærerstillinger, å regulere at alle nyutdannede lærere skal få veiledning og å styrke kontaktlærerrollen.
+
+Skolelederne må få bedre vilkår for å utføre oppdraget de er satt til, og det må legges bedre til rette for at skolelederne kan bruke mer tid til å lede og støtte det pedagogiske arbeidet på skolen. For å lykkes med dette, må systemet rundt skolelederne styrkes, og skoleledernes utfordringer må anerkjennes. Det må også satses mer på kompetanseutvikling av skolelederne.
+
+Å styrke skolen som samfunnsinstitusjon handler blant annet om at ressursene brukt på skole må samsvare med samfunnets forventninger til hva skolen skal bidra med. En likeverdig opplæring i framtidens fellesskole krever langsiktig prioritering av ressurser til skolen. Den demografiske utviklingen og presset på offentlige ressurser øker risikoen for at skoleøkonomien nedprioriteres. Utvalget foreslår tiltak som kan redusere denne risikoen. Vi foreslår blant annet statlig kompensasjon til kommuner med fallende elevtall, og utredning av en ny ressursnorm for grunnskolen. En god skoleøkonomi er grunnleggende også for at utvalgets øvrige tiltak skal kunne gjennomføres.
+
+# Hvordan styrke elevenes læring og utvikling?
+
+Utvalget har beskrevet fem utviklingstrekk som allerede påvirker skolen, og som i økende grad vil utfordre skolen framover. Utviklingstrekkene vil utfordre skolens innhold, skolens organisering og skolen som samfunnsinstitusjon. I dette kapitlet presenterer vi ulike tiltak som retter seg mot skolens innhold, i betydningen elevenes læring, utvikling, trivsel og danning.
+
+Konsekvensene av utviklingstrekkene forsterkes av at utviklingen i elevenes læringsresultater går i feil retning, og det er en negativ utvikling i elevens skolemiljø. Resultatene i sentrale fag og ferdigheter som lesing, matematikk og demokratiforståelse har blitt betydelig svekket på kort tid. Motivasjonen for skole og læring synker. Selv om de fleste elevene trives, er det fortsatt mange som opplever mobbing eller ikke kjenner tilhørighet til fellesskolen. Disse utviklingstrekkene gjør det nødvendig å tenke nytt om elevenes læring og utvikling.
+
+Skolens dannings- og utdanningsoppdrag er gjensidig avhengig av hverandre. Utvalget har fått innspill om at det kan være krevende å finne balansen mellom disse oppdragene. Utvalget har vektlagt at danning i skolen skjer gjennom både det faglige innholdet, måten undervisningen foregår på og gjennom de verdiene som formidles.
+
+Alle fag i skolen har både en dannings- og en utdanningsdimensjon. Danning skjer gjennom opplevelser, møter med andre og når elevene får utfordringer og opplever mestring i skolehverdagen. Gjennom fagene tilegner elevene seg nyttige kunnskaper og ferdigheter, og de utvikler sin identitet og får trene på å samhandle med andre. Hvert fag bidrar på sin måte til elevenes forståelse av seg selv, andre mennesker og samfunnet de er en del av. For eksempel utvikler elevene i norskfaget språk-, lese- og skriveferdigheter og får innsikt i vår felles kulturhistorie. I norskfaget møter elevene også litteratur som gir innsikt i ulike livssituasjoner og perspektiver, og som fremmer empati, refleksjon, kritisk tenkning og dømmekraft. I samfunnsfag tilegner elevene seg kunnskap om historie, demokrati og samfunnsforhold, samtidig som de utvikler forståelse for medborgerskap og ansvar i fellesskapet. Naturfag gir innsikt i natur og vitenskapelige sammenhenger, og bidrar samtidig til undring, kritisk vurdering av kunnskap og bevissthet om bærekraft. Matematikk utvikler ferdigheter i logisk tenkning og problemløsning, og bidrar til presisjon, utholdenhet og systematisk arbeid. De praktiske og estetiske fagene styrker elevenes praktiske ferdigheter og kroppslige erfaringer, samtidig som de gir rom for kreativ utfoldelse, identitetsutvikling og fellesskapsopplevelser.
+
+Det er altså skolefagene *i sin bredde* som bidrar til skolens danningsoppdrag. Til tross for denne bredden, viser både innspillene utvalget har fått og utvalgets egne analyser at skolens danningsoppdrag er under press. En utfordring er at danningsoppdraget i begrenset grad lar seg måle. Samtidig viser gjennomgangen av de av skolens resultater som lar seg måle, at det er betydelige utfordringer i skolens utdanningsoppdrag. Dette kan bidra til at danningsoppdraget utilsiktet blir nedprioritert. Et grunnleggende spørsmål for framtidens fellesskole handler om hvordan vi skal prioritere danningsoppdraget i en tid hvor skolen sliter med utdanningsoppdraget.
+
+Utviklingstrekkene utfordrer det brede oppdraget, men utvalget mener at bredden i skolens oppdrag også er svaret på hvordan skolen skal møte utfordringene. Vi har blant annet vist hvordan nedgang i resultatene i lesing og matematikk henger sammen med en akselererende teknologiutvikling. Ny digital teknologi påvirker konsentrasjon, oppmerksomhet og utholdenhet, som er viktige ferdigheter for faglig læring. Skal skolen snu de negative læringsresultatene, må elevene møtes av undervisning som legger til rette for og trener opp konsentrasjon og fordypning. Ferdigheter som selvregulering, utholdenhet og metakognisjon kan øves på og utvikles gjennom arbeidet med fagene. Vi må derfor prioritere danning og elevenes sosiale og emosjonelle og utvikling i en tid der resultatene går ned.
+
+Utvalget mener at tiltakene foreslått i dette kapittelet samlet sett vil styrke både dannings- og utdanningsoppdraget i framtidens fellesskole. Vi peker også på noen fag og fagområder som må styrkes spesielt.
+
+## Læreplanverket må bli et bedre verktøy for lærerne
+
+### Fagfornyelsen, evalueringen og veien videre
+
+Mandatet ber utvalget blant annet om å se på hvilke endringer på overordnet nivå som må gjøres av innhold og organisering i skolen for at den skal ruste elevene til å møte framtidens utfordringer. Læreplanverket (LK20 og LK20S) beskriver hva elevene skal lære. Evalueringen av LK20 og fagfornyelsen ble avsluttet i januar 2026, og evalueringen viser både styrker og svakheter ved dagens læreplanverk.
+
+Oppsummert viser evalueringen at det fremdeles er god oppslutning om fagfornyelsen, men at læreplanverket oppleves som komplekst. Læreplanverket gir stort handlingsrom, men det kan være krevende å fortolke. Ledere og lærere er usikre på om deres tolkning er i tråd med læreplanens intensjoner. Det er også variasjoner i hvor langt skolene har kommet i å forstå og å ta nye læreplaner i bruk. Utvalget har i hovedsak hørt stor grad av støtte til læreplanene, både fra skolens organisasjoner og i møter med lærere og ledere. Skolene ønsker mer tid og ro til å ta læreplanene i bruk. Lærere og skoleledere har behov for å jobbe kollektivt og langsiktig med målsettingene i LK20.
+
+Utvalget mener samtidig evalueringen peker på flere sentrale utfordringer med fagfornyelsen, som må besvares. En utfordring er at kjerneelementene ikke har fått den plassen de var tiltenkt. Kjerneelementene, slik de nå er formulert, gir ikke tilstrekkelig støtte til å prioritere i fagene. Dermed har man ikke lykkes med balansen mellom innholdsorientering og kompetanseorientering. Utvalget foreslår endringer som skal bidra til at kjerneelementene styrkes, i tråd med intensjonene bak LK20.
+
+Utvalget mener imidlertid det er mulig å gjøre de nødvendige endringene innenfor dagens modell, uten å utarbeide helt nye læreplaner. Utvalget mener intensjonene bak LK20 står seg godt, og evalueringen viser at en god implementering krever tid. Å utvikle nye læreplaner er et stort og omfattende arbeid som vil kreve nye læremidler, ha betydelige omkostninger og en usikker gevinst. Utvalget har ikke registrert at det er et sterkt ønske fra lærere, skoleledere og kommuner i skole-Norge om en omfattende læreplanreform så kort tid etter fagfornyelsen. Utvalget mener derfor det er flere gode grunner til å fortsette med den læreplanmodellen som ble innført gjennom fagfornyelsen. Samtidig foreslår utvalget å gjøre nødvendige endringer slik at vi får et tydeligere og bedre læreplanverk.
+
+Endringer innenfor dagens læreplanmodell
+
+Det er flere grunner til at utvalget mener det ikke bør gjennomføres en omfattende læreplanreform nå.
+
+For det første er hovedkonklusjonen fra evalueringen av LK20 at fagfornyelsen har blitt godt mottatt. Lærere og skoleledere er overveiende positive til læreplanene (Bergsgard et al., 2026). Denne konklusjonen samsvarer godt med det utvalget har hørt på våre regionale innspillsmøter der representanter for både lærere, skoleledere og kommunene har deltatt. Det samme har vært inntrykket etter møter med enkeltkommuner og KS. Slik utvalget forstår disse tilbakemeldingene, er det ikke et stort ønske om å endre hovedinnretningen på læreplanene.
+
+For det andre ser utvalget tilbakemeldingene fra sektor og forskerne i sammenheng med målsettinger om en styrket lærerprofesjon. Arbeid med å forstå og fortolke læreplanene er en del av lærernes profesjonsfaglige ansvar. De nye læreplanene gir lærerne nødvendig handlingsrom til å tilpasse undervisningen til elevgruppen og gjøre undervisningen relevant. Læreplanene legger med andre ord til rette for at lærernes må bruke sin kompetanse til å gjøre faglige vurderinger og treffe gode valg innenfor de fastsatte rammene.
+
+Den tredje begrunnelsen for at utvalget ikke ønsker store endringer i læreplanene, er at flere rapporter fra evalueringen av læreplanene viser at LK20 har ført til positive endringer i undervisningen. Undervisningen framstår som mer praktisk, med økt elevmedvirkning og bedre underveisvurdering. Dette er i tråd med intensjonene i fagfornyelsen. Når mange lærere og skoleledere rapporterer om at disse intensjonene realiseres i praksis, taler det mot å gjøre vesentlige endringer i læreplanene.
+
+Sist, men ikke minst, har LK20 virket i relativt kort tid, etter det som var en omfattende utviklingsprosess med bred involvering da læreplanene ble utformet. I denne tiden har implementeringen av de nye læreplanene blitt påvirket av hendelser som har hatt betydning for skolens kapasitet, for eksempel nedstenging av skolene under covid-19-pandemien, lærerstreiker og framveksten av KI.
+
+Å utvikle nye lærerplaner, eller endre dem, krever tid og kapasitet fra alle nivåer i skolen. Utvalgets vurdering er at evalueringen tilsier at det er mulig å gjøre justeringer i dagens læreplanverk for å styrke den opprinnelige intensjonen. Evalueringen peker på at den brede prosessen rundt fagfornyelsen bidro til å skape oppslutning og forståelse for intensjonene i LK20. Forskerne anbefaler bred involvering også i senere læreplanprosesser (Furberg et al., 2026). Større læreplanendringer krever ny kompetanse og ny læreplanforståelse i alle deler av sektor.
+
+Et viktig mål med fagfornyelsen var å utforme færre kompetansemål og tydeligere prioriteringer i fagene. Læreplanen skulle ha mindre stofftrengsel, detaljerte innholdsbeskrivelser skulle unngås og det skulle legges til rette for dybdelæring.
+
+Utvalget anerkjenner at det er krevende å utforme gode læreplaner. Mange ønsker å få ulike temaer inn, med gode begrunnelser, men summen av alle gode forslag kan fort bli for omfangsrike planer.
+
+Utvalget merker seg at evalueringen startet opp omtrent samtidig som læreplanene var klare for å tas i bruk i skolene. Deretter har flere forskningsmiljøer evaluert ulike deler av arbeidet. Det er flere fordeler ved å gjennomføre en underveisevaluering samtidig som innføringen pågår. Det gir god informasjon om utvikling, ulike utfordringer og mulighet for å justere kursen hvis noe viser seg å være vanskelig gjennomførbart. Samtidig vil utvalget peke på at det tar tid å endre praksis i skolen. Det er en risiko for at underveisevalueringer fører til at nye endringer og tiltak settes inn før skolene har fått tilstrekkelig tid til å endre praksis.
+
+Læreplaner alene endrer ikke praksis
+
+Endringer i læreplantekster alene endrer ikke nødvendigvis praksis i klasserommet. Når læreplanene skal vurderes og analyseres i lys av hva som skjer i skolen, er det viktig å skille mellom hva som ligger i læreplanene og hva som er undervisningspraksis. Det kan iblant være en tendens til å legge for stor vekt på læreplanens innhold som forklaring på hva som skjer i klasserommet.
+
+Utvalget påpeker at det ikke er slik at all undervisningspraksis, enten den er god eller dårlig, kan begrunnes i læreplanene. Som det ble påpekt allerede i evalueringen av R97 er det vanskelig «å reformere skulen med ord åleine (læreplanar). Mange forklaringsfaktorar ligg mellom input (læreplanar og reformintensjonar) og output (resultata)» (Haug, 2003). Dagens læreplaner legger rammer for arbeidet med fagene, men gir lærerprofesjonen stort handlingsrom og metodeansvar som den enkelte lærer må utforske i samarbeid med elevene og resten av profesjonsfellesskapet.
+
+Læreplanene kan være et virkemiddel for å styrke ønsket praksis, men også andre virkemidler bør vurderes dersom det er behov for endringer. Utvalget mener derfor det er behov for å skille mellom endringer i selve læreplantekstene og tiltak og endringer som setter skolene og lærerne bedre i stand til å ta læreplanene i bruk. Evalueringen viser for eksempel hvor viktig det er med god skoleledelse og velfungerende profesjonsfellesskap på skolene (Bergsgard et al., 2026). Skoleledelse, lærerrollen og profesjonsfellesskapet behandles i kapittel 12.
+
+Utvalget viser også til at det er satt i gang flere endringer knyttet til læreplanverket. Det skal for eksempel lages veiledende innholdslister til fagene norsk, samfunnsfag, KRLE, mat og helse, musikk og kunst og håndverk, for å støtte skolene i valg av konkret innhold. Læreplanen i matematikk er allerede revidert, og det er vedtatt en ny struktur på matematikkfaget i videregående skole.
+
+Oppsummert mener utvalget at det viktige arbeidet som foregår i profesjonsfellesskapene i skolene med å ta fagfornyelsen og LK20 i bruk, må fortsette. Samtidig vil utvalget understreke, i tråd med kapittel 7, at det er rom for forbedringer. Utvalget foreslår i det følgende konkrete endringer i læreplantekstene.
+
+### Behov for endringer i dagens læreplaner
+
+Skolens læreplaner rammer inn hva elevene skal lære og hvilke verdier opplæringen skal bygge på. Læreplanverket er et av de viktigste dokumentene for å forme framtidens fellesskole. Utvalget mener at det overordnede målet med eventuelle endringer må være at læreplanene skal bli bedre verktøy for lærerne. En forutsetning for å gjøre endringer i dagens læreplanverk, er at de kan gjennomføres på kort sikt og innenfor dagens læreplanmodell. Utvalget mener også at endringene ikke bør medføre behov for helt nye læremidler eller store kompetansetiltak. Samtidig anerkjenner utvalget at selv små endringer vil kreve noe kapasitet i form av for eksempel utvikling, implementering og samarbeid med fagmiljøer og partene i skolen.
+
+Læreplantekstene må bli tydeligere og trinnrelevante
+
+Alle læreplanene i de ulike fagene innleder i dag med tekster som beskriver fagets relevans og verdier, kjerneelementer, tverrfaglige tema og grunnleggende ferdigheter. Dette omtales som «Om faget»-tekster. I evalueringen av fagfornyelsen forslår forskere å endre disse tekstene som et av flere råd til hvordan læreplanene kan bli bedre verktøy for lærerne (Furberg et al., 2026).
+
+Utvalget støtter at endringer i disse tekstene kan bidra til å redusere kompleksiteten og tydeliggjøre innholdet i læreplanene. Slik tekstene i «Om faget» nå er formulert, gjelder samme tekst for hele det 13-årige skoleløpet. Utvalget mener at «Om faget»-tekstene bør utdypes og vise tydeligere hva innholdet skal være for de hovedtrinnene vi i dag har kompetansemål på (2. 4, 7. og 10. trinn for grunnskolen). Dette gjelder særlig tekstene om kjerneelementene, de tverrfaglige temaene og de grunnleggende ferdighetene. På denne måten kan progresjonen i faget komme tydeligere fram enn i dag, og innholdet på de ulike trinnene vil bli bedre rammet inn.
+
+Utvalget mener tekstene bør ta utgangspunkt i elevenes naturlige modning og utvikling, og innholdet i faget på de ulike trinnene må tilpasses at elevenes modenhet for å lære vil variere gjennom opplæringsløpet. Gjennom dette vil læreplanene gi mer støtte til lærerens valg av innhold, metoder og progresjon. For videregående opplæring må det vurderes nærmere hvordan dette skal gjøres og ses i sammenheng med oppdraget til Utdanningsdirektoratet, se kapittel 7.10.3.
+
+Tydeliggjøre kjerneelementene
+
+Utvalget mener at særlig kjerneelementene bør styrke og støtte lærernes arbeid med målene i læreplanene. Dagens kjerneelementtekster inngår i «Om faget»-tekstene. Kjerneelementene skulle opprinnelig beskrive det mest betydningsfulle faglige innholdet i de ulike fagene og bidra til tydeligere prioriteringer, men evalueringen tyder på at kjerneelementene ikke spiller den rollen de var tiltenkt. Utvalget har merket seg at evalueringen viser at lærere i større grad orienterer seg mot kompetansemålene enn kjerneelementene, og at det ligger et uforløst potensial i det å synliggjøre betydningen av fagenes kjerneelementer i planleggingen og gjennomføringen av undervisningen (Bergsgard et al., 2026; Furberg et al., 2026).
+
+Utvalget mener at kjerneelementene bør utvikles videre, slik at de i sterkere grad bidrar til å tydeliggjøre det aller viktigste innholdet i faget. Utvalget foreslår derfor en revidering av kjerneelementtekstene.
+
+Ulike fag har ulike tenkemåter og prosesser som utgjør fagets egenart og normer for læring (Magnuson et al., 2025). Tekstene bør gjøres trinnrelevante og tydeligere vise fagets kjerneinnhold, slik at de støtter opp om og rammer inn forståelsen av kompetansemålene. Kjerneelementene bør beskrive kunnskap og sentrale begreper i faget. For eksempel kan det i samfunnsfag være *maktfordelingsprinsippet* eller *parlamentarisme*, mens det i kroppsøving kan være *utholdenhet*. Fagenes kunnskapsformer må løftes fram der dette er naturlig, fagenes begreper, teorier og metoder må komme tydelig fram, og elevene må lære å vurdere kilder til kunnskap på en systematisk måte. Dette er særlig relevant i en tid preget av relativisering av kunnskap og der det stilles spørsmål ved etablerte sannheter. Elevene må lære å skille mellom relevante og berikende perspektiver på den ene siden, og utilbørlig relativisering på den andre. Formen på kjerneelementtekstene vil naturlig nok variere mellom fag og alderstrinn, men intensjonen om at kjerneelementene skal hjelpe læreren å prioritere gjelder for alle fag.
+
+I evalueringen kommer det fram at lærere er usikre på hvordan de skal forstå og legge til rette for dybdelæring. Evalueringen peker på at beskrivelsen av dybdelæring i læreplanverket er for utydelig og at det er for svak sammenheng mellom beskrivelsen av dybdelæring og kompetansebegrepet i læreplanen (Furberg et al., 2026). En endring av kjerneelementene åpner også for at dybdelæringsbegrepet kan beskrives tydeligere og gjøres mer relevant for fagene.
+
+Konsekvensene av mer alderstilpassede tekster på ulike trinn i opplæringen vil medføre at læreplantekstene blir lengre og mer omfattende. Utvalget mener gevinsten ved tydeligere læreplaner er betraktelig større enn eventuell ulempe ved lengre tekst. Andre land, for eksempel Finland, har vesentlig lengre læreplantekster enn Norge, og utvalget mener slike tekster kan være med på å styrke lærernes profesjonsfaglige kompetanse.
+
+Innføre «Mål for undervisningen»
+
+Forskning viser at målrettet støtte til elevenes sosiale og emosjonelle utvikling har stor betydning for videre utdanning og arbeid og hvordan de lykkes videre i livet. Det handler om å utvikle egenskaper som ansvarlighet, empati, utholdenhet, samarbeidsevner og evne til å arbeide målrettet og takle motgang (Steponavičius, 2023). Støtte til elevenes sosiale og emosjonelle utvikling er med andre ord en viktig del av skolens oppdrag.
+
+Som tidligere omtalt er det mye av skolens danningsoppdrag som ikke kan eller bør vurderes individuelt med karakter. Samtidig skal elevene delta i aktiviteter som bidrar til sosialiserings- og danningsprosesser, og som ikke utelukkende er orientert mot faglig læringsutbytte. Lærerne skal observere elevenes utvikling i disse aktivitetene, elevenes samspill med andre og de skal kunne veilede elevene videre, selv om slike prosesser ikke inngår direkte i sluttvurderingssystemet.
+
+Elevene skal utvikle seg som selvstendige individer og de skal sosialiseres i et fellesskap. De skal forstå og vokse inn i våre felles verdier, og samtidig være med på å forme disse videre. Mange lærere jobber godt med dette sammen med elevene sine, men samtidig kan det være uklart hvor tiden til og systematikken i dette arbeidet er forankret. Skoletiden består i utgangspunktet av timer som er satt av til fag. Selv om det er tydeliggjort i overordnet del at faglig og sosial læring ikke kan isoleres fra hverandre, er utvalgets oppfatning at dette arbeidet ikke er tilstrekkelig ivaretatt i læreplanene for fag i dag.
+
+Utvalget mener derfor det er behov for en tekst, «Mål for undervisningen», som viser at undervisningen også skal innebære aktiviteter og arbeid som ikke skal måles og vurderes på individuelt nivå. Dette skal støtte opp om skolens danningsoppdrag og bidra til en tydeligere forankring av arbeidet med elevenes sosiale læring og utvikling.
+
+Teksten «Mål for undervisningen» skal vise mer konkret hvordan læreren kan jobbe med sider av faget som ikke er målbare, men som skaper læringsglede, motivasjon og mestring. Det kan handle om å legge til rette for engasjement og beskrive hvilke erfaringer og opplevelser elevene skal få gjennom arbeidet med faget. Det er behov for mer systematikk og tydeligere rammer for dette arbeidet. Læreplantekstene skal være tilpasset de ulike trinnene, og det må utvikles veiledningsmateriell som skal bidra til å vise hvordan opplæringen på det aktuelle trinnet kan støtte elevenes sosiale og emosjonelle utvikling.
+
+Vurdere tekstene om verdier
+
+Forskerne bak evalueringen av fagfornyelsen har pekt på at fellesverdiene fra formålsparagrafen i opplæringsloven er lite synlige i verdibeskrivelsen i fagene, og at beskrivelsen av verdier har fått en individretting. De anbefaler å ta ut beskrivelsen av verdier i avsnittet fra «Om faget», som beskriver «fagets relevans og sentrale verdier» (Furberg et al., 2026; Kvamme, 2025).
+
+Utvalget er i tvil om denne løsningen vil bidra til å styrke verdiene i læreplanverket og realisere verdiløftet. Det er også flere eksempler på at fellesverdiene er godt beskrevet i læreplanene. Utvalget mener grepene vi foreslår ovenfor også vil bidra til å revitalisere verdiløftet. Å revidere kjerneelementtekstene og løfte fram fagenes innhold, vil også gi mulighet for å tydeliggjøre verdigrunnlaget i de ulike fagene. Nye tekster om «Mål for undervisningen» kan på samme måte være med på å konkretisere hvordan undervisningen tydeligere kan vektlegge arbeidet med verdigrunnlaget i opplæringen.
+
+Tydeliggjøre kompetansemålene
+
+Utvalget mener at det kan være behov for å gjøre noen endringer i kompetansemålene for å oppnå målet om tydeligere læreplaner. Selv om antall kompetansemål ble redusert i fagfornyelsen, har målene blitt mer overordnede og gir mindre retning for valg av innhold (Bergsgard et al., 2026; Furberg et al., 2026). Kompetansemål som oppfattes som uklare eller for generelle bør særskilt vurderes opp mot de nye «Om faget»-tekstene utvalget anbefaler. Intensjonen bør være at målene skal gi lærerne tilstrekkelig handlingsrom til å gjøre opplæringen relevant og at undervisningen skal kunne tilpasses elevgruppen, samtidig som det må gå klart fram hva den faglige innrammingen er.
+
+Vurdere endringer i omtalen av grunnleggende ferdigheter
+
+I dag beskriver læreplanene fem grunnleggende ferdigheter: lesing, skriving, regning, muntlige ferdigheter og digitale ferdigheter. Utvalget understreker at de grunnleggende ferdighetene ikke er basisferdigheter eller tekniske ferdigheter som elevene lærer de første skoleårene. Dette er ferdigheter som elevene utvikler gjennom hele opplæringsløpet. Ferdighetene er en del av kompetansen i de ulike fagene, og de er viktige redskaper for å lære og utvikle seg gjennom hele skoleløpet. Utvalget mener det er gode grunner til å videreføre de grunnleggende ferdighetene slik de er i dag, men at også disse må knyttes tettere til de ulike trinnene slik at progresjonen kommer tydeligere fram. For eksempel er det store forskjeller mellom den første leseopplæringen og de leseferdighetene elever i videregående opplæring trenger for å kunne lese krevende, faglige tekster kritisk.
+
+Utvalget foreslår mer omfattende endringer i beskrivelsen av digitale grunnleggende ferdigheter. Forslaget beskrives i kapittel 11.5.
+
+Endringer på lengre sikt
+
+Som vist over, er læreplanverket svært omfattende. Endringer i læreplanmodellen vil kreve tid og ressurser slik at det kan gjennomføres grundige prosesser i utviklingsarbeidet. Store endringer i læreplaner krever svært mye kapasitet, både av skoler, organisasjoner og myndigheter. Ny kompetanse må utvikles og nye læremidler utformes. Slike store endringsprosesser forutsetter oppslutning og legitimitet, særlig blant dem som jobber i skolen. Før man setter i gang med slike prosesser er det viktig å vurdere om det man ønsker å forandre kan oppnås på andre måter. Samtidig mener utvalget at gode faglige diskusjoner om læreplaner og læreplanmodeller er bra. Slike debatter vil blant annet bidra til en bevissthet om læreplanenes styrker og svakheter, og hva profesjonsfellesskapet sammen kan jobbe med.
+
+Det finnes ingen ideell læreplan, og det er fordeler og ulemper knyttet til både innholdsbaserte- og kompetansebaserte modeller. Utvalgets oppfatning er at uansett hvilken læreplanmodell man velger, vil det oppstå utfordringer. Den perfekte læreplanmodellen finnes neppe. Det handler mer om hvilke grep man kan gjøre for å redusere modellens svakheter. En eventuell omfattende endring av dagens læreplanmodell kan løse noen problemer, samtidig som det kan skape nye. Det må alltid være et kritisk blikk på hvor godt den gjeldende læreplanmodellen fungerer. De endringene utvalget foreslår ovenfor, vil gi tydeligere innholdselementer i dagens læreplanmodell.
+
+Selv om utvalget mener det verken er behov for en omfattende læreplanprosess nå, eller at dette vil være et svar på de utfordringene som er løftet fram, vurderer utvalget det som rimelig at det med jevne mellomrom gjøres en mer helhetlig gjennomgang av læreplanene.
+
+Når det i framtiden skal legges til rette for nye læreplanreformer, mener utvalget det er avgjørende at fellesskolens brede samfunnsmandat ivaretas. Det vil også være viktig med en bred prosess om innretningen på læreplanverket. En slik prosess må inkludere partene, altså lærerne, skoleledere, skoleeiere og andre sentrale aktører. Den må være kunnskapsbasert, og ta utgangspunkt i et felles kunnskapsgrunnlag om fordeler og ulemper med ulike læreplanmodeller.
+
+### Utvalgets forslag om læreplanverket
+
 Utvalget foreslår å
-• lovfeste en plikt for kommunen til å sørge for at
-elevene i grunnskolen har tilgang til trykte
-læremidler i alle relevante fag
-• opprette et faglig råd for læremidler
-• øke tilskuddet til skolebibliotek og bøker (se
-kapittel 11.9 om leseopplæringen)
 
-11.7 Et trygt og godt skolemiljø
-11.7.1 Et inkluderende miljø å lære, trives og
-utvikle seg i
-Utvalget understreker at det å ha det trygt og godt
-på skolen handler om mye mer enn fravær av
-mobbing og utestenging. Et trygt og godt skolemiljø er et inkluderende miljø å lære, trives og
+- gjøre dagens læreplaner til bedre og tydeligere verktøy for lærerne, blant annet ved å tydeliggjøre kjerneelementene og det faglige innholdet og gjøre mer av læreplanene trinnrelevante.
 
-utvikle seg i, og der det ikke er motsetning mellom faglig, sosial og emosjonell utvikling.
-På skolen skal elevene lære om demokratiske
-verdier og styringsformer, utvikle kritisk tenkning
-og etisk bevissthet og erfare hva demokratiet er i
-praksis. De må øve seg på å lytte til hverandre, diskutere krevende temaer og ytre seg om ulike
-temaer. Elevene skal også få undre seg, utforske og
-de skal få oppleve å prøve og feile. For å oppnå dette
-må elevene ha det trygt og godt på skolen og ha
-gode relasjoner til både medelever og de voksne.
-Skolens arbeid med å bygge trygge og gode
-miljøer der elevene trives, lærer og utvikler seg
-er et kontinuerlig arbeid som må foregå i de
-ulike fagene, i friminuttene, i skolebiblioteket og
-på tur. Dette er arbeid som må gjennomsyre
-hverdagen i skolen. I tillegg kommer supplerende tiltak som skolemiljøuker, ulike prosjekter
-der skolene jobber med trygg skolestart, eller
-punktinnsats rettet mot krevende klassemiljø.
-Utvalget er opptatt av at skolen skal være en felles arena som gir alle likeverdige muligheter til å
-oppleve å være inkludert i fellesskapet og utvikle
-seg, trives og lære. Når elever med ulik bakgrunn og ulike forutsetninger møtes, kan de få
-nye perspektiver, og de kan få innsikt i hvordan
-mennesker er ulike, har ulike holdninger, ideer
-og tradisjoner og ulike syn på livet. I fellesskapet
-kan elevene lære å ta hensyn til ulikhet, erfare
-flerspråklighet som ressurs, respektere elever
-med en annen bakgrunn enn dem selv, og bryne
-egne oppfatninger mot andres. Når elever møter
-hverandre på tvers av bakgrunn, kan det være
-med på å bygge tillit, og forebygge fordommer.
-Elevene kan også erfare at mangfold er en styrke
-og at heterogene grupper kan bidra positivt til å
-løse komplekse problemer.
-For at skolen skal kunne være en slik positiv
-møteplass, krever det at elevene er trygge i skolemiljøet. Som utvalgets mandat peker på, kan skolens styrke som en felles arena der mangfoldet av
-barn og unge møtes, også bli en utfordring dersom
-skolen ikke er rustet til å håndtere oppgaven. Utviklingstrekkene vi har beskrevet utfordrer skolen
-som felles møteplass. Presset på demokratiet og
-relativisering av kunnskap vil utfordre både skolemiljøet og undervisningen. Individualisering, økt
-ulikhet, psykisk helse og større mangfold i klasserommene påvirker også skolen og skolens arbeid
-med å tilrettelegge for et trygt og godt skolemiljø.
-I dette arbeidet er læreren sentral. Å anerkjenne at læring og sosial utvikling er tett sammenvevd, innebærer at læreren må planlegge for
-begge deler i sitt daglige pedagogiske og didaktiske virke. Dette er en del av kompleksiteten i
+- innføre *Mål for undervisningen*, for å tydeliggjøre at undervisning også innebærer arbeid og aktiviteter som ikke skal vurderes individuelt. *Mål for undervisningen* skal også styrke verdiløftet og arbeidet med sosioemosjonell utvikling. Disse tekstene skal være trinnrelevante.
 
-[Side 247]
+- bygge læreplanene over samme mal som i dag, men med noen endringer:
 
-NOU 2026: 10
-Fellesskolen
+  - *Om faget* skal inneholde Fagets relevans og sentrale verdier, Kjerneelementer, Tverrfaglige temaer og Grunnleggende ferdigheter. Tekstene skal være trinnrelevante
 
-lærerrollen. Læreren må bruke sitt profesjonelle
-skjønn for å legge til rette for at faglig og sosial
-utvikling skjer, både i arbeidet med fagene og
-ellers i skoledagen. Det er en del av lærerens profesjonsfaglige rolle som skal ivareta skolens brede
-mandat om å støtte og bidra til elevenes sosiale og
-faglige utvikling, og innebærer ikke å gi læreren
-en rolle som psykolog eller helsesykepleier. Læreren er avgjørende for å oppdage og følge opp elever som har behov for ekstra støtte. Lærere er
-også sentrale for å legge til rette for gode samarbeid med ulike fagpersoner som skal støtte elever som har behov for det.
-I skolen møtes et mangfold av elever, på tvers
-av bakgrunn, forutsetninger og behov. I utvalgets
-mandat er skolen som en slik fellesarena løftet
-fram som noe positivt som bygger felles verdigrunnlag og felles forståelses- og referanserammer. Om en anerkjenner skolen som en viktig
-fellesarena, må en også anerkjenne at forskjellighet krever økonomiske ressurser, kapasitet og
-kompetanse i skolene for å kunne møte mangfoldet og legge til rette for trygghet, trivsel og læring
-innenfor fellesskapet.
-Utvalget er kjent med at regjeringen har varslet at det skal utvikles en helhetlig strategi for et
-trygt og godt barnehage- og skolemiljø, og at
-denne strategien er under arbeid. Utvalget ønsker
-ikke å forskuttere dette arbeidet ved å forslå
-mange nye tiltak på feltet.
-Utvalget understreker samtidig at flere av tiltakene i denne utredningen, hver for seg og
-sammen, vil bidra til et trygt og godt skolemiljø
-som fremmer helse, inkludering, trivsel og læring.
-Utvalget foreslår blant annet å gjøre endringer i
-læreplanverket for å støtte opp om skolens danningsoppdrag og bidra til en tydeligere forankring
-av elevenes sosiale læring og utvikling. Den nye
-teksten «Mål for undervisningen» skal vise mer
-konkret hvordan læreren kan jobbe med sider av
-faget som ikke er målbare, men som kan skape
-læringsglede, motivasjon og mestring. Læreplantekstene skal være tilpasset de ulike trinnene, og
-det må utvikles veiledningsmateriell som kan vise
-hvordan opplæringen på det aktuelle trinnet kan
-støtte elevens sosiale og emosjonelle utvikling.
+  - *Mål for undervisningen* (ny del). Tekstene skal være trinnrelevante
 
-11.7.2 Utvalgets forslag om elevenes
-skolemiljø
-Utvalget foreslår å
-• styrke elevenes danning og sosioemosjonelle
-utvikling ved å tydeliggjøre arbeidet med dette
-i læreplanen
+  - *Kompetansemål og vurdering* som i dag, men med nødvendige justeringer
 
-245
+- utvikle alderstilpasset støtte og veiledningsmateriell for systematisk arbeid med elevenes sosiale læring og utvikling i fagene
 
-Kapittel 11
-
-11.8 Tilpasset opplæring
-11.8.1 Tilpasset opplæring og pedagogisk
-differensiering
-Tilpasset opplæring er et grunnleggende prinsipp
-som gjelder for all opplæring i fellesskolen. God
-tilpasset opplæring er variert undervisning som
-gjør at så mange elever som mulig får tilfredsstillende utbytte av opplæringen. Intensjonen er at
-den tilpassede opplæringen skal være best mulig,
-slik at behovet for individuell tilrettelegging blir
-minst mulig (NOU 2019: 23). Utvalget mener at
-fellesskolen skal være en inkluderende arena der
-alle elever hører til og får tilfredsstillende utbytte
-av opplæringen uavhengig av bakgrunn og forutsetninger.
-I kapittel 3 redegjorde vi for begrunnelsen for
-at fellesskolen bygger på sammenholdte klasser,
-det vil si at elevene ikke skal deles inn i klasser
-eller faste grupper basert på blant annet nivå,
-kjønn, familiebakgrunn eller etnisitet. Vi har også
-presentert forskningen som viser at for tidlig inndeling av elevene i permanente grupper etter faglig nivå og interesser, utfordrer prinsippet om likeverdig opplæring, gir en rekke uheldige effekter,
-og heller ikke gir et bedre læringsutbytte.
-Til tross for dette, er et tilbakevendende argument i den offentlige debatten at mer homogene
-elevgrupper vil gjøre at lærere bedre kan tilpasse
-opplæringen for å møte elevenes ferdigheter og
-interesser. Påstanden fra tilhengerne er at dette
-vil gjøre opplæringen mer treffende og at elevene
-vil lære mer.
-Permanent inndeling av elever etter faglig nivå
-og interesser tidlig i opplæringsløpet ser derimot
-ikke ut til å holde vann i møte med realitetene i
-skolen. Dagens forskning på slik organisatorisk
-differensiering peker på mange av de samme forholdene som lå til grunn for at vi gikk bort fra linjedelingen og kursplanene på ungdomstrinnet i
-Norge (Terrin & Triventi, 2023):
-• Feilplassering ut fra evner: Jo tidligere elever
-sorteres i ulike klasser/grupper etter faglig
-nivå, desto større er sannsynligheten for at elever blir plassert i en klasse/gruppe som ikke
-passer deres faktiske evner og læringspotensial.
-• Feilplassering ut fra sosial bakgrunn: Plassering
-av elever i ulike klasser/grupper etter faglig
-nivå ser ut til å være påvirket av elevenes
-sosiale bakgrunn, og ikke bare deres evner og
-antatte læringspotensial.
-• Ulike fordelingseffekter av tidlig inndeling av elever:
-
-[Side 248]
-
-246
-
-Kapittel 11
-
-–
-
-–
-
-–
-
-–
-
-NOU 2026: 10
-Fellesskolen
-
-Det kan bli mer konkurranse om lærerstillingene i klasser/grupper med de antatt
-flinkeste elevene, slik at de flinkeste elevene også får de flinkeste lærerne.
-Lærerne og foreldre har ofte høye forventinger til elevene i klasser/grupper på høyere nivå, noe som kan bidra positivt til elevenes prestasjoner. Motsatt gjør lavere forventninger fra lærerne og foreldrene til elevene i klasser/grupper på lavere nivå det
-mindre sannsynlig at elevene der lykkes.
-Når høyt motiverte og skoleflinke elever
-grupperes sammen, mister elever i grupper
-på lavere nivå muligheten til å dra nytte av
-samværet med skoleflinke jevnaldrende.
-Ulike økonomiske ressurser i ulike klasser/grupper kan være med å gi ulike utdanningsmuligheter og dermed forsterke forskjeller i læringsresultater.
-
-Forskning på effekter av organisatorisk differensiering av elever tidlig i skoleløpet viser at:
-– I skolesystemer med tidlig inndeling av elever er det større spredning i læringsutbyttet, det er ikke bedre læringsutbytte generelt sett, og flere havner under et minimumsnivå for lesing. Større ulikheter i resultater
-mellom elevene er problematisk når målet
-er likeverdig opplæring.
-– Tidlig inndeling av elever i permanente
-grupper etter faglig nivå og interesser
-fører med seg større forskjeller mellom
-elever avhengig av sosial bakgrunn. Slik
-inndeling gjør at elever med likt læringspotensial får ulike muligheter i opplæringen og til videre avansement i utdanningssystemet. Større ulikheter mellom
-sosiale grupper og ulike muligheter
-avhengig av sosial bakgrunn er problematisk når målet er likeverdig opplæring.
-Kunnskapsgrunnlaget støtter med andre ord sammenholdte klasser fram til en viss alder. Større
-ulikheter i resultatene mellom elevene og mellom
-sosiale grupper, og ulike muligheter avhengig av
-sosial bakgrunn, er problematisk når målet er
-likeverdig opplæring. Forskerne skriver følgende:
-If we had to make a policy recommendation, it
-would be to reform early between-school tracking systems into comprehensive school systems.
-Strello et al., 2021
-
-Utvalget mener framtidens fellesskole skal
-beholde regelen om sammenholdte klasser og
-
-pedagogisk differensiering som hovedprinsipp.
-Det er viktig for at skolen skal kunne ivareta sitt
-brede samfunnsoppdrag i framtiden. Den skal
-fortsatt fungere som en sentral møteplass for alle
-elever, uansett sosial og kulturell bakgrunn, ulike
-forutsetninger eller behov. Utvalget mener at en
-slik organisering av skolen er til barnas beste.
-Sammenholdte klasser er også viktig for å unngå
-en uønsket utvikling med større sosiale forskjeller
-i utbyttet av skolegangen og større spredning i
-elevenes læringsresultater.
-
-11.8.2 Utnytte det eksisterende
-handlingsrommet bedre
-Utvalget mener samtidig at skoler og kommuner
-kan utnytte handlingsrommet og den eksisterende fleksibiliteten i regelverket bedre. Det gjelder både skolenes anledning til å dele inn i grupper etter faglig nivå i perioder, kommunenes
-anledning til å omdisponere inntil 10 prosent av
-det nasjonalt gitte timetallet i fagene, og til å
-omdisponere inntil 25 prosent av timene for
-enkeltelever.
-Det er mulig for kommunene å omdisponere
-timer både for grupper av elever og for enkeltelever. For å vise fram denne fleksibiliteten, peker
-utvalget her på noen gode eksempler som allerede kan gjennomføres innenfor dagens regelverk. Kommunenavnene i tekstboksene er fiktive,
-men ordningene som beskrives er reelle og kan
-gjennomføres innenfor dagens regelverk.
-Når det gjelder nivådeling, er hovedregelen at
-elevene vanligvis skal være inndelt i grupper som
-er sammensatt på tvers av faglig nivå, men elevene kan deles inn i grupper etter faglig nivå i
-særskilte og avgrensede deler av opplæringen.
-Forutsetningen er at inndelingen er nødvendig for
-at en eller flere av elevene skal få et tilfredsstillende utbytte av opplæringen. I tillegg kan intensiv opplæring i lesing, skriving eller regning bli
-gitt som eneundervisning i en kortere periode,
-dersom det er til det beste for eleven (Opplæringslova, 2024, §§ 11-3 og 14-2).
-Kommunen kan bestemme at inntil 10 prosent
-av timene i fagene kan flyttes til andre fag eller
-brukes til særskilte tverrfaglige aktiviteter. Se
-kapittel 7.9. I tillegg kan kommunen omdisponere
-inntil 25 prosent av timene som er fastsatt i det
-enkelte fag for enkeltelever, for at eleven samlet
-sett skal få bedre måloppnåelse i fagene. Det er
-ingen begrensninger med hensyn til opplæringsarena, men kommunen må sørge for at eleven
-fortsatt har så mye opplæringstid i klassen at eleven utvikler sosial tilhørighet. Eleven skal fortsatt
-
-[Side 249]
-
-NOU 2026: 10
-Fellesskolen
-
-Boks 11.3 Eksempler på nivådeling
-innenfor regelverket
-I Markstrand kommune hender det at lærerne
-organiserer klassene på et gitt trinn i ulike
-nivådelte mestringsgrupper i fagene norsk,
-engelsk og matematikk. Gruppene blir satt
-sammen etter en kartlegging av elevenes selvstendighet, og faglige og sosiale utvikling og
-kompetanse. Mellom de nivådelte gruppene
-er det variasjon i bruk av lærestoff, arbeidsmåter, læremidler og i intensiteten i opplæringen. Elevenes plassering i gruppene og
-deres sosiale og faglige framgang evalueres
-jevnlig av de involverte lærerne. Eventuelt
-gruppebytte gjøres i samråd med eleven og
-foreldrene.
-Kilde: Stortingets utredningsseksjon, 2022
-
-få opplæring i alle kompetansemålene i læreplanene.
-Dette viser at kommunene, skolene og
-lærerne allerede har relativt stort handlingsrom
-til å tilpasse opplæringen og iverksette differensieringstiltak som de mener bidrar til at elevene får
-godt utbytte av opplæringen. Selv om pedagogisk
-differensiering er hovedregelen, er det altså allerede en betydelig fleksibilitet i regelverket som
-åpner for begrenset organisatorisk differensiering
-av opplæringen.
-Eksemplene viser hva som er mulig å få til
-innenfor dagens regelverk. I Meld. St. 34 (2023–
-2024) går det fram at regjeringen vil tydeliggjøre
-handlingsrommet til å ta i bruk alternative opplæringsarenaer for enkeltelever. Utdanningsdirektoratet fikk i oppdrag å utarbeide mer veiledning, og
-har laget en egen nettside med veiledning om
-handlingsrommet i regelverket og verktøy for å
-planlegge en inkluderende opplæring som ivaretar mangfoldet i klasserommet. Her ligger det
-også eksempler på hvordan kommunen kan
-omdisponere timer både for grupper av elever og
-for enkeltelever (Utdanningsdirektoratet, 2026d).
-Utvalget ser ikke behov for lovendringer på
-dette området, men det kan være behov for at
-flere skoler i framtiden utforsker og utnytter det
-handlingsrommet som allerede finnes. Hensikten
-må være å beholde sammenholdte klasser som
-hovedprinsipp, og samtidig legge til rette for at
-opplæringen bedre tilpasses elevenes utvikling,
-og at elever i perioder kan gis større valgfrihet og
-
-247
-
-Kapittel 11
-
-Boks 11.4 Eksempler på utnyttelse av
-10- og 25-prosentreglene
-Skoglund kommune har ønsket å legge til rette
-for at skolene skal arbeide med et eget undervisningsopplegg om demokrati på 8. – 10.
-trinn. Skoglund har gjennom en lokal forskrift
-omdisponert totalt 30 timer til dette arbeidet,
-innenfor 10-prosent regelen. Timene har kommunen hentet fra norsk (20 timer) og engelsk
-(10 timer). Omdisponeringen gjør at elevene
-får 95 prosent av timene i både norsk og
-engelsk. Skoglund har også fastsatt i lokal forskrift at timene skal fordeles med 10 timer per
-trinn.
-Rundneset kommune har tre elever på 10.
-trinn som ønsker å ta matematikk 1T fra
-videregående mens de er elever i ungdomsskolen. Kommunen legger til rette for at elevene avslutter grunnskolefaget matematikk
-på 9. trinn, innenfor 25-prosent regelen. På 10
-trinn omdisponeres timene avsatt til matematikk og noen timer fra utdanningsvalg, slik at
-elevene får 140 timer med opplæring i matematikk 1T det året.
-Kilde: Utdanningsdirektoratet, 2026g
-
-alternative opplæringstilbud basert på deres egne
-interesser og behov.
-
-11.8.3 Utvalgets forslag om tilpasset
-opplæring
-Utvalget foreslår å
-• beholde regelen om sammenholdte klasser og
-pedagogisk differensiering som hovedprinsipp
-for opplæringen i fellesskolen
-• styrke kommunenes, fylkeskommunenes og
-skolenes kunnskap om fleksibiliteten og handlingsrommet som finnes for å legge til rette for
-god tilpasset opplæring
-
-11.9 Styrke leseopplæringen
-11.9.1 Lesing er avgjørende for utvikling og
-læring
-Tunge utviklingstrekk i samfunnet påvirker hvordan vi leser både hjemme og på skolen. Som vist
-tidligere leser barn og unge mindre og har lavere
-leseglede. Teknologi og økt skjermbruk svekker
-konsentrasjon og leseforståelse. Det er også en
-
-[Side 250]
-
-248
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-tendens til økende prestasjonsforskjeller mellom
-norske elever med høy og lav sosioøkonomisk status. Utvalget mener at nedgangen i elevenes leseforståelse, de endrede lesevanene og at vi ser så
-store forskjeller mellom elevgrupper, er dypt urovekkende.
-Utvalget ser at økende ulikhet og større mangfold kan føre til at forskjeller i leseferdigheter øker
-mellom grupper. Leseferdigheter henger sammen
-med elevenes vokabular og grammatiske forståelse, og flere elever med svake norskferdigheter
-vil også gi større variasjoner i leseferdigheter i
-befolkningen. Større variasjoner i elevgruppa stiller større krav til kunnskap om språkutvikling og
-leseutvikling og om tilpasset opplæring hos
-lærerne. Utvalget er bekymret for en utvikling
-hvor noen får tilgang til skriftsamfunnet, mens
-andre står utenfor. Gode språklige ferdigheter,
-godt ordforråd og gode leseferdigheter er sentralt
-for at innbyggere skal forstå og kunne delta i det
-offentlige ordskiftet, og forstå lover, regler og
-hvordan de kan bruke ulike offentlige tjenester.
-Svake leseferdigheter i befolkningen gir økt
-sårbarhet for feilinformasjon og propaganda, og
-gjør det vanskelig å skille fakta fra meninger, oppdage manipulerende retorikk og forstå nyanser i
-politiske saker. Å kunne lese kritisk blir dermed
-stadig viktigere, og elevene må lære dette på skolen. Dersom noen grupper i befolkningen systematisk utvikler lavere leseferdigheter enn andre,
-vil det kunne gi en svekkelse av demokratiet, fordi
-noen grupper da vil ha dårligere forutsetninger
-for å forstå og delta i de demokratiske prosessene.
-Etter det såkalte PISA-sjokket på begynnelsen
-av 2000-tallet ble det satt i verk store nasjonale satsinger på lesing, og i en periode gikk leseresultatene oppover. Tiltakene var imidlertid ikke til hinder for at trenden igjen snudde. Vi vet ikke om det
-var den samlede innsatsen som førte til oppgangen, om det var enkelttiltak som virket en stund
-og som etter en tid mistet effekt eller om tiltakene
-hadde ønsket effekt, men ble nøytralisert av nye
-utviklingstrekk i samfunnet. Utvalget vil peke på
-at den nedadgående trenden i leseresultater startet omtrent samtidig som stadig flere fikk smarttelefoner, egen digital enhet og konto på sosiale
-medier, i stadig yngre alder. Det har vært satt i
-gang tiltak for å styrke elevens leseferdigheter,
-men som vist har resultatene gått ned. Tiltakene
-kan derfor ha hatt den effekten at de faktisk har
-bremset en enda sterkere nedadgående trend.
-Utvalget merker seg at det ble opprettet en
-nasjonal lesesatsing, «Tid for lesing» i 2024. Satsingen skal blant annet bidra til å styrke skolenes
-arbeid med leseopplæring gjennom kunnskap,
-
-veiledning og råd om leseopplæring og leseglede.
-I tillegg har regjeringen opprettet en lesekommisjon, som skal bidra til leseferdigheter og leselyst
-blant barn og unge. Kommisjonen skal komme
-med anbefalinger om hvordan barnehager og skoler bør jobbe med lesing.
-Å lære å lese, og å ha tid til å fordype seg i
-lesing er avgjørende for utvikling og læring også i
-framtiden. Dagens teknologi gjør det mulig for oss
-å få tekst opplest, oppsummert av KI, adaptert til
-podkaster og liknende, og vi kan se filmer framfor
-å lese. Nye teknologiske muligheter gjør at noen
-kan hevde at framtidens barn ikke trenger å
-kunne lese på tradisjonell måte, at dette er en
-utdatert ferdighet og at de vil uansett få tilgang til
-kunnskap og informasjon gjennom nye medier.
-Utvalget understreker at det å kunne lese og fordype seg i tekster på papir er minst like viktig som
-før, sett i lys av truslene fra digitale medier med
-overflatelesing, manglende fordypning og manglende konsentrasjon og utholdenhet. Derfor
-mener utvalget at det i møte med framtidas utfordringer og den teknologiske utviklingen, fortsatt
-må legges vekt på språk og leseopplæringen, på at
-elevene har tilgang til trykte læremidler og bøker
-og at de får mulighet til å fordype seg i lengre tekster over tid. Lesing er en krevende kognitiv prosess som nettopp derfor må prioriteres og gis tilstrekkelig rom og tid både på skolen og hjemme.
-Utvalget mener det er bekymringsfullt at elevene møter forenklinger og korte tekster på skolen og at de ikke leser lange tekster som gir dem
-mulighet til å engasjere seg, til å møte motstand i
-tekst og utvikle utholdenhet. Skolene må sette av
-mer tid til sammenhengende lesing, og elevene
-må trenes i å lese lengre tekster som gir dem
-utfordringer, motstand og erfaring med at det er
-verdt innsatsen. Utvalget mener at skolene må
-møte elevene med høye ambisjoner på deres
-vegne, og samtidig gi dem den støtten de trenger. Skolene må både ha tilgang til og formidle
-gode tekster som motiverer elevene til å lese
-dem. Dette gjelder også skjønnlitteratur i fullversjon.
-Leseopplæringen må inkludere undervisning i
-(lese)strategier som kan hjelpe elevene å opprettholde oppmerksomheten når de leser. Når flere
-studier tyder på at den sterkeste årsakssammenhengen går fra leseferdighet til leseglede og
-mengde, er det viktig å sette inn tiltak som både
-støtter opp under leseferdigheter og lesemotivasjon. Utvalget understreker også at elever som
-har behov for tilrettelegging som skjerm kan gi,
-for eksempel lydstøtte når de leser eller å kunne
-endre tekststørrelse, må ha muligheten til det.
-
-[Side 251]
-
-NOU 2026: 10
-Fellesskolen
-
-11.9.2 En helhetlig og langsiktig satsing på
-lesing
-Utvalget er opptatt av at lesing i skolen må styrkes, og at den nasjonale satsingen på lesing må
-utvides. Virkemidlene må være forankret i forskning og brukes helhetlig. Dette kan være elementer som å styrke profesjonene gjennom lærerutdanningene, kompetanseutvikling, endringer i
-læreplanverket, elevvurdering, tilgang til bøker,
-skolebibliotek og støtte til samarbeid hjem-skole.
-Flere av tiltakene utvalget foreslår i andre deler av
-denne utredningen vil ha direkte betydning for
-leseopplæringen.
-Endre læreplan og legge bedre til rette for leseopplæring
-Utvalget foreslår å gjøre flere endringer som skal
-gjøre læreplanene til bedre verktøy for lærerne.
-Dette vil også komme leseopplæringen til gode.
-Utvalget foreslår å endre «Om faget»-tekstene slik
-at fagenes innhold og progresjon kommer tydeligere fram. Utvalget foreslår også å innføre teksten «Mål for undervisningen», som skal vise mer
-konkret hvordan læreren kan jobbe med sider av
-faget som ikke er målbare, og som kan skape
-læringsglede, motivasjon og mestring. En slik
-endring bør særlig legge vekt på hvordan lesegleden kan styrkes. I tillegg foreslår utvalget i større
-grad å tilpasse beskrivelsene av de grunnleggende ferdighetene til de ulike trinnene.
-Bedre begynneropplæring
-Utvalgets forslag om å utvikle en ny læreplan for
-1. og 2. trinn skal legge bedre til rette for begynneropplæring i lesing. Utvalgets forslag skal sikre
-at alle 1. og 2. klassinger møter en skole som er tilpasset deres ulike forutsetninger, evner, interesser og behov. En ny læreplan kan bidra til en
-bedre begynneropplæring, slik at flere elever får
-en god språklig utvikling og lærer å lese, skrive
-og regne godt de første årene. Med lengre obligatorisk nærvær på skolen blir det også bedre
-mulighet for egenstyrt lesing. Utvalget anbefaler
-at det utvikles gode støtteressurser til innføringen
-av den nye læreplanen.
-Kompetansesatsing mot profesjonsfellesskapet
-Satsing på kompetanseutvikling er viktig for leseopplæringen fordi en kompetent lærerprofesjon
-og profesjonell skoleledelse er avgjørende for at
-skolen skal lykkes med å møte utviklingstrekkene
-
-249
-
-Kapittel 11
-
-og snu negative resultater. Lesing er en grunnleggende ferdighet og en viktig del av kompetansen i
-fagene. Det er derfor viktig at alle lærere har forståelse for hvordan elevenes språklige ferdigheter
-påvirker lesing, læring og faglig utvikling, og
-hvordan de kan støtte denne utviklingen i sin
-undervisning. I neste kapittel beskriver vi også
-konkrete tiltak som viser hvordan lærerprofesjonen kan utvikles og hvordan skolelederfunksjonen kan styrkes.
-Utvalget mener det er viktig med sterke kompetansemiljøer på lesing som kan bidra med kompetanseutvikling blant både lærer og lærerutdannere. Derfor anbefaler utvalget å utvide satsingen
-«Tid for lesing» for å satse på en kunnskapsbasert
-kompetanseutvikling for både lærere og for lærerutdanningene. En kompetansesatsing må vektlegge både språkopplæring (ordforråd og grammatikk), leseopplæring (avkoding og leseforståelse), utvikling av (lese)strategier som kan hjelpe
-elevene å opprettholde oppmerksomheten når de
-leser, lesemotivasjon, tilgang til tekster og tid til
-leseaktiviteter. I tillegg må det være vekt på hvordan lærerne tidlig kan identifisere elever som
-strever med språk eller leseutvikling, og hvordan
-skolen kan gi disse elevene den støtten de trenger.
-For at en slik kompetanseutvikling skal få
-varig effekt, må den også forankres i lærerutdanningene. Lærerutdanningen er avgjørende for
-kvaliteten på leseopplæringen i skolen gjennom å
-utdanne framtidens lærere, som skal støtte elevenes utvikling av leseferdigheter i alle fag. Utvalget
-peker derfor også på, som beskrevet i kapittel 12,
-at ny rammeplan for lærerutdanning må ivareta at
-lærerkandidatene må bli satt i stand til å drive
-lese- og skriveopplæring på en helhetlig og kvalitetssikret måte.
-Utvalget har foreslått et nasjonalt program for
-digital læring og danning. Programmet skal blant
-annet styrke kritisk tenkning, digital dømmekraft
-og demokratiske ferdigheter, med vekt på hvordan lærere kan styrke elevenes evne til å møte
-manipulativ informasjon, digitale trusler, falskt
-innhold og uønsket påvirkning. Som utvalget har
-pekt på tidligere, er evnen til kritisk lesing stadig
-viktigere i møte med disse truslene.
-Bedre tilgang til skolebibliotek, læremidler og bøker
-Et godt skolebibliotek er en viktig arena for
-lesing, læring, kritisk tenking og inkludering. Det
-er også viktig for å skape en god lesekultur på
-skolene. Et godt skolebibliotek kan gi elevene
-mulighet til å finne litteratur de kan engasjere seg
-
-[Side 252]
-
-250
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-i. For å bli en god leser, er det spesielt viktig med
-tilgang til bøker på papir som gir leseglede, god
-trening i leseforståelse og som lar elevene øve på
-å lese lange tekster. Vi vet at lesing på skjerm ikke
-gir den samme muligheten for slik fordypning.
-Det finnes allerede en tilskuddordning der kommuner kan søke om tilskudd for å styrke skolebibliotekene i grunnskolen. Tilskuddet skal blant
-annet bidra til bedre leseferdigheter, økt leselyst
-hos elevene og til å fremme kritisk tenkning. I tillegg skal tilskuddet bidra til at skolebibliotekene
-har oppdaterte og relevante boksamlinger. Kommunen kan søke om både tilskudd til personalressurser eller til utvikling av kompetanse som kan
-bidra til lesing, leselyst og kildekritikk i regi av
-skolebibliotekene. Tilskuddsmidlene kan også gå
-til innkjøp av bøker til skolebiblioteket (Utdanningsdirektoratet, 2026o). I inneværende år økte
-tilskuddet fra 50 til 103,2 mill. kroner, og kommunene søkte om totalt hele 174 mill. kroner.
-Utvalget mener at dette er en viktig ordning for å
-sikre både gode skolebibliotek og bøker til skolebibliotekene. Derfor anbefaler utvalget å fortsatt
-satse på skolebibliotekene og bøker, og forslår å
-ytterligere øke innsatsen.
-Styrke skole-hjem-samarbeidet
-I kapittel 13 beskriver vi hvorfor og hvordan samarbeidet mellom skole og hjem bør styrkes i framtidens fellesskole. Uansett familietype og sosial
-bakgrunn, viser forskningen at forventninger og
-oppmuntring fra de voksne hjemme har stor
-betydning for barnas læring.
-Hjemmemiljøet har stor betydning for utviklingen av språk og leseferdigheter. Sammenhengen mellom elevenes sosioøkonomiske bakgrunn og faglige prestasjoner er godt dokumentert. Sammenhengen er svakere i Norge enn i
-andre land, men prestasjonsforskjellene øker mellom elever med høy og lav sosial bakgrunn (Markussen & Røed, 2023; Sandsør et al., 2023). Det er
-derfor viktig at foreldre får god informasjon om
-hvor viktig det er å lese for barna fra tidlig alder
-og at barna utvikler et godt språk.
-
-11.9.3 Utvalgets forslag om lesing
-Utvalget foreslår å
-• gjennomføre en helhetlig og langsiktig satsing
-på språk og lesing. Satsingen må inkludere å
-– gjøre endringer i læreplanverket som tydeliggjør blant annet leseglede, motivasjon og
-mestring og progresjon i utvikling av leseferdigheter og leseforståelse
-
-–
-–
-
-utvide satsingen «Tid for lesing»
-inkludere lærerutdanningene som målgruppe for satsingen «Tid for lesing»
-– innføre en ny læreplan for 1. og 2. trinn som
-legger bedre til rette for god begynneropplæring i språk og lesing
-– øke tilskuddet til skolebibliotek og bøker
-– sørge for god tilgang til læremidler av høy
-kvalitet, gjennom å lovfeste en plikt for
-kommunene til å sørge for at elevene har tilgang til trykte læremidler samt opprette et
-faglig råd for læremidler
-– sørge for at ny rammeplan for lærerutdanningene setter nyutdannede lærere i stand
-til å drive god opplæring i lesing og skriving
-– styrke leseopplæringen gjennom godt
-skole-hjem-samarbeid, og sikre at foreldre
-får god informasjon om hjemmets betydning for å støtte språk- og leseutvikling
-
-11.10 Styrke matematikkfaget i skolen
-Resultatene i matematikk har gått dramatisk ned
-etter en lengre periode med stabilitet. Det har også
-blitt langt flere elever på de svakeste nivåene i de
-internasjonale undersøkelsene. God kompetanse i
-matematikk er viktig for å fungere som et selvstendig menneske i verden, og det er viktig for deltakelse i framtidens yrkes- og samfunnsliv. Utvalget
-mener matematikkfaget i skolen bør styrkes for å
-snu de negative resultatene og for at skolen skal
-møte de utviklingstrekkene vi har beskrevet.
-Utvalget merker seg at regjeringen har varslet
-en ny nasjonal strategi for realfag og teknologi, og
-at det allerede er satt i gang flere tiltak for å styrke
-matematikk og realfagene i skolen. Strategien
-skal være klar i løpet av 2027 og skal inneholde tiltak i hele utdanningsløpet som kan bidra til realfaglig og teknologisk kompetanse i tråd med samfunnets behov (Kunnskapsdepartementet, 2026c).
-Matematikk har vært et satsingsområde i skolen over lang tid. Fra de første PISA-resultatene i
-2001 har det vært kontinuerlige satsinger og strategier fra nasjonalt hold på realfag og matematikk.
-Til tross for satsingene, har resultatene gått ned.
-Utvalget mener dette ikke er et uttrykk for at skolen har gjort en dårlig jobb. Matematikk er et fag
-som stiller store krav til ferdigheter som utholdenhet, selvregulering og metakognisjon. Dette er
-ferdigheter som utfordres av utviklingstrekk i
-samfunnet hvor særlig ny teknologi og endringer i
-medievaner påvirker barn og unges kognitive
-utvikling. Matematikk er antagelig et fag med
-særlig behov for at elevene forstår hvorfor, nett-
-
-[Side 253]
-
-NOU 2026: 10
-Fellesskolen
-
-opp fordi faget krever mye innsats. Dette forsterkes av at matematikk er særlig avhengig av
-metakognitive prosesser som er utfordret av
-sosiale medier de senere årene.
-
-11.10.1 En helhetlig og langsiktig satsing på
-matematikk
-Utvalget vurderer at matematikkfaget bør styrkes
-og mener det bør gjennomføres en helhetlig og
-langsiktig satsing på matematikk. Satsingen må
-legge vekt på betydningen av ferdigheter som
-utholdenhet, selvregulering og metakognisjon.
-Satsingen må bestå av virkemidler som kompetanseutvikling, oppdatert læreplanverk, vurdering,
-læremidler og digitale verktøy, samarbeid hjemskole og lærerutdanningene.
-Her utdyper vi noen utfordringer og muligheter ved ulike tiltak og virkemidler som kan inngå i
-en helhetlig og langsiktig satsing på matematikkfaget.
-Revidere læreplanverket og legge bedre til rette for
-dybdelæring
-Utvalget foreslår endringer i læreplanverket slik at
-de blir bedre verktøy for lærerne. Utvalget foreslår
-å endre «Om faget»-tekstene og tydeliggjøre innhold og begreper. Vi foreslår også å forsterke omtalen av danning og sosioemosjonell utvikling. Endringer i læreplanverket vil også omfatte matematikkfaget, og svare på en del av de utfordringene
-som evalueringen peker spesielt på for dette faget.
-Utvalget merker seg at læreplanen i matematikk 1.–10. trinn er revidert i 2026. Den reviderte
-planen har tydeligere kompetansemål med klarere faglige avgrensninger, og regneferdigheter
-er løftet mer fram. I tillegg har Utdanningsdirektoratet utviklet veiledende forklaringstekster til en
-del kompetansemål (Kunnskapsdepartementet,
-2026b).
-Utvalget mener det er positivt at læreplanen er
-revidert på bakgrunn av evalueringen og erfaringer med planen i bruk. Tilbakemeldingene
-tyder på at det har vært behov for å tydeliggjøre
-innholdet, slik den reviderte læreplanen legger
-opp til.
-Samtidig mener utvalget det er særlig viktig at
-læreplanen i matematikk legger godt til rette for
-dybdelæring. Matematikkfaget stiller krav til ferdigheter som metakognisjon og selvregulering,
-men faget er også en arena for å øve på disse ferdighetene. I et slikt perspektiv blir det viktig at
-elevene arbeider i dybden, hvor de utvikler
-
-251
-
-Kapittel 11
-
-robuste måter å tenke, arbeide og lære på som
-kan brukes også i møte med nye og ukjente problemstillinger.
-Kompetansesatsing mot profesjonsfellesskapet
-Utvalget har vist at en sterk lærerprofesjon og profesjonell skoleledelse er avgjørende for at skolen
-skal lykkes med å møte utviklingstrekkene og snu
-negative resultater. I kapittel 12 beskriver vi konkrete tiltak til hvordan lærerprofesjonen kan
-utvikles og hvordan skolelederfunksjonen kan
-styrkes. Disse forslagene gjelder også for matematikklærere. Gode lærerutdanninger er viktig
-for matematikkfaget og utdanning av framtidens
-matematikklærere. Utvalget understreker i kapittel 12 at den nye rammeplanen for lærerutdanningen må ivareta matematikkopplæringen på en god
-måte.
-Litteraturgjennomganger viser at lærenes
-undervisningskunnskap i matematikk påvirker
-både kvaliteten på undervisningen og elevenes
-prestasjoner. Flere internasjonale studier bekrefter at matematikkdidaktisk kunnskap har særlig
-betydning for elevenes prestasjoner (Baumert et
-al., 2010; Shechtman et al., 2010). Lærernes matematikkdidaktiske kompetanse påvirker både elevenes prestasjoner og deres motivasjon og innstilling til faget (Kunter et al., 2013).
-Den internasjonale forskningen peker også
-tydelig i retning av at det å ta stadig flere rene matematikkurs ikke nødvendigvis bidrar til utvikling av
-undervisningskunnskap i matematikk. Derimot
-viser forskningen at det å gi lærere muligheten til å
-lære matematikk i en kontekst som er tett knyttet
-til deres undervisningspraksis, kan bidra til å støtte
-deres utvikling av undervisningskunnskap i matematikk (Hoover et al., 2016).
-Kompetansesatsingen må være rettet mot å
-utvikle profesjonsfellesskapet i matematikk, og
-forankret i skoleledelsen. En kompetansesatsing
-bør veksle mellom teori og praksis, og legge vekt
-på ferdigheter som metakognisjon, motivasjon og
-selvregulering.
-Utvalget foreslår et nasjonalt program for digital læring og danning. Programmet skal være skolefaglig relevant, og kan være med å styrke matematikkopplæringen. Programmet skal også bestå
-av en modul som styrker sosioemosjonelle ferdigheter. For eksempel hvordan lærerne systematisk
-kan styrke elevene i ferdigheter som utholdenhet,
-kreativitet, konsentrasjon og samarbeidsevne.
-Dette er relevant også for å styrke matematikkopplæringen.
+- sikre at nye omfattende læreplanprosesser ivaretar god involvering og fellesskolens brede mandat

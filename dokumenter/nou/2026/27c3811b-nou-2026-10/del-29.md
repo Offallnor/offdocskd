@@ -1,981 +1,354 @@
-# NOU 2026: 10, del 29 av 31 (side 341–351)
+# NOU 2026: 10, del 29 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 341]
-
-NOU 2026: 10
-Fellesskolen
-
-www.forskningsradet.no/siteassets/publikasjoner/1254033705916.pdf
-Forskrift om helse og miljø i barnehager skoler og
-skolefritidsordninger. (2023). Forskrift om
-helse og miljø i barnehager, skoler og skolefritidsordninger, (FOR-1995-12-01-928). Helse- og
-omsorgsdepartementet,. https://lovdata.no/
-dokument/SF/forskrift/2023-03-28-449
-Forskrift om helsestasjons- og skolehelsetjenesten. (2018). Forskrift om kommunens helsefremmende og forebyggende arbeid i helsestasjons- og skolehelsetjenesten (FOR-2018-10-191584). Lovdata. https://lovdata.no/forskrift/
-2018-10-19-1584
-Forsström, S., Njå, M., Munthe, E., Houldsworth,
-L. & Álvarez-Galván, J.-L. (2025). Key findings
-and integration strategies on the impact of digital technologies on students’ learning: Results
-from a literature review. OECD Education Working Papers, 336. https://doi.org/https://
-doi.org/10.1787/ab309c32-en.
-Frankfurt, H.G. (2005). On bullshit. Princeton University Press.
-Frederiksen, L. L. (2020). Support for Newly Qualified Teachers Through Teacher Induction
-Programs – a Review of Reviews. I K.-R. Olsen,
-E. M. Bjerkholt & H. L. T. Heikkinnen (Red.),
-New Teachers in Nordic Countries – Ecologies
-of Mentoring and Induction (s. 49-70). Cappelen Damm Akademisk. https://www.ucviden.dk/en/publications/support-for-newlyqualified-teachers-through-teacher-inductionpr/
-Fredricks, J. & Eccles, J. (2006). Is Extracurricular
-Participation Associated With Beneficial Outcomes? Concurrent and Longitudinal Relations. Developmental Psychology, 42, 698-713.
-https://doi.org/10.1037/0012-1649.42.4.698
-Fredricks, J. A., Reschly, A. L. & Christenson, S.
-(2019). Handbook of student engagement
-interventions : working with disengaged students. Elsevier.
-Fredwall, I. E. (2024). Bedre skole, 2/2024. https:/
-/utdanningsforskning.no/artikler/2025/fagfornyelsen-som-glemte-skolebibliotekene/
-Frey, C. B. (2019). The technology trap : capital,
-labor, and power in the age of automation. Princeton University Press.
-Frielingsdorf, H., Fomichov, V., Rystedt, I., Lindstrand, S., Korhonen, L. & Henriksson, H.
-(2025). Associations of time spent on different
-types of digital media with self-rated general
-and mental health in Swedish adolescents. Scientific Reports, 15(1), 993. https://doi.org/
-10.1038/s41598-024-83951-x
-
-339
-
-Litteraturliste
-
-Fritt Ord. (2024). Fritt Ords Honnør 2024 Lærerne
-ved Katedralskolen i Oslo. https://frittord.no/
-nb/priser/fritt-ords-honnor/laerere-ved-katedralskolen-i-oslo
-Frivillighet Norge. (2024). Ungfritid.no brukerundersøkelsen 2024. Hentet 17.06.2026 fra https:/
-/www.frivillighetnorge.no/rapport/frivillig-noog-ungfritid-no/ungfritid-no-brukerundersokelse/ungfritidno-undersokelsen-2024
-Frønes, T.S., Jensen, F. (Red). (2020) Like muligheter til god leseforståelse? 20 år med lesing i
-PISA. Universitetsforlaget. https://doi.org/
-10.18261/9788215040066-2020.
-Fukuyama, F. (2014). Political order and political
-decay. Farrar, Straus and Giroux.
-Furberg, A., Karseth, B., Gunnulfsen, A. E.,
-Brandmo, C., Olsen, R. V., Silseth, K., Kvamme,
-O. A., Ottesen, E. & Lund, A. (2026). EVA2020:
-Evaluering av fagfornyelsen – Intensjoner, prosesser og praksiser. Sluttrapport fra prosjektet
-EVA2020. Det utdanningsvitenskapelige fakultet, Universitetet i Oslo. https://
-www.uv.uio.no/forskning/prosjekter/fagfornyelsen-evaluering/publikasjoner/
-sluttrapport_eva2020.pdf
-Furberg, A., Silseth, K., Rødnes, K. A., Arnseth, H.
-C., Kvamme, O. A., Rasmussen, I., Sæther, E.,
-Vasbø, K. B. & Lund, A. (2025). Undervisning
-og læring om tverrfaglige temaer: Skolen som
-fellesskapsarena for elevers møte med samtidens store utfordringer. Universitetet i Oslo.
-https://www.uv.uio.no/forskning/prosjekter/
-fagfornyelsen-evaluering/publikasjoner/
-eva2020_rapport11_furberg_mfl_2025.pdf
-Furlong, A. & Cartmel, F. (1997). Young People
-and Social Change: Individualization and Risk
-in Late Modernity. Open University Press.
-Furnes, B., Elwér, Å., Samuelsson, S., Treiman, R.
-& Olson, R. K. (2024). The stability and
-developmental interplay of word reading and
-spelling: a cross-linguistic longitudinal study
-from kindergarten to grade 4. Reading and Writing, 37(9), 2411-2428. https://doi.org/
-DOI:10.1007/s11145-023-10465-9
-Future of life. (2023). Pause Giant AI Experiments:
-An Open Letter. https://futureoflife.org/openletter/pause-giant-ai-experiments/
-Færder kommune. (2023). Helhetlig plan for oppvekst. F. kommune. https://faerder.kommune.no/tjenester/barnehage-skole-og-familie/helhetlig-plan-for-oppvekst/helhetlig-planfor-oppvekst/
-Følgjegruppa for lærarutdanningsreforma. (2015).
-Grunnskulelærarutdanningane etter fem år.
-Status, utfordringar og vegar vidare, (Rapport
-
-[Side 342]
-
-340
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-nr. 5). https://www.uis.no/sites/default/files/
-2021-02/Rapport%20nr.%205%20fr%C3%A5%20F%C3%B8lgje
-gruppa.pdf
-Faanessen, M., Burkeland, I., Nordahl, B., Meltevik, S., Simonsen, M. F. & Stiberg-Jamt, R.
-(2022). Elevmedvirkning FoU om hvordan
-elevmedvirkning kan styrkes i norske skole i
-tråd med nytt læreplanverk. KS konsulent.
-https://www.ks.no/contentassets/
-a493533676044e4c804ddd0637e3112f/FoUelevmedvirkning.pdf
-Geary, D. C. (2008). An Evolutionarily Informed
-Education Science. Educational Psychologist,
-43(4), 179-195. https://doi.org/10.1080/
-00461520802392133
-Gerlich, M. (2025). AI Tools in Society: Impacts on
-Cognitive Offloading and the Future of Critical
-Thinking. Societies, 15(1), 6. https://
-www.mdpi.com/2075-4698/15/1/6
-Gibbons, P. (2016). Styrk sproget, styrk læringen
-Sproglig udvikling og stilladsering i flersproglige klasserom (Bd. 2). Samfundslitteratur.
-Giddens, A. (1991). Modernity and Self-Identity :
-Self and Society in the Late Modern Age. Stanford University Press.
-Gigerenzer, G. (2003). Reckoning with risk : learning to live with uncertainty. Penguin.
-Gigerenzer, G. (2023). How to stay smart in a
-smart world : why human intelligence still
-beats algorithms. Penguin Books.
-Gilje, N. (2017). Profesjonskunnskapens elementære former. I Mausethagen, S. og Smeby, J.C.
-(red.). Kvalifisering til profesjonell yrkesutøvelse. (s. [21]-33). Universitetsforlaget
-Goldin, C. D. & Katz, L. F. (2008). The race between education and technology. Belknap.
-Goodson, I. & Hargreaves, A. (1996). Teachers’
-professional lives (Bd. 3). Falmer Press.
-Gourvennec, A., Solheim, O., Foldnes, N., Uppstad, P. & McTigue, E. (2022). Shared responsibility between teachers predicts student
-achievement: A mixed methods study in Norwegian co-taught literacy classes. Journal of
-Educational Change, 25. https://doi.org/
-10.1007/s10833-022-09472-4
-Grann, O. J. (2019, 25.09.2019). Eksempler på
-klimatiltak. KS. Hentet 10.03 fra https://
-www.ks.no/fagomrader/samfunnsutvikling/
-klima/hva-gjor-vi-med-klimaendringene-klimatilpasning-i-praksis/eksempler-pa-klimatiltak/
-Grayling, A. C. (2017). Democracy and its crisis.
-Oneworld.
-Green, C. (2025). Have you considered AI in Your
-classroom? A Khanmigo Pilot story. https://
-
-michiganvirtual.org/blog/have-you-considered-ai-in-your-classroom-a-khanmigo-pilotstory/
-Greenberg, M. T. (2023). Evidence for social and
-emotional learning in schools. Learning Policy
-Institute.
-Greenfield, S. (2004). Tomorrow’s people : how
-21st-century technology is changing the way
-we think and feel. Penguin Books.
-Gregersen, E. (2025). History of Technology
-Timeline. I Encyclopedia Britannica. https://
-www.britannica.com/story/history-of-technology-timeline
-Grimen, H. (2008). Profesjon og kunnskap. Universitetsforlaget
-Grissom, J. A., Egalite, A. J. & Constance, L. A.
-(2021). How Principals Affect Students and
-Schools: A Systematic Synthesis of Two Decades og Research. https://wallacefoundation.org/sites/default/files/2024-09/how-principals-affect-students-andschools.doi_.10.59656%252FELSB1065.001.pdf
-Grunnloven. (1814). Kongeriket Noregs Grunnlov
-(LOV-1814-05-17). Lovdata. https://lovdata.no/lov/1814-05-17-nn
-Guilbault, P., Georgiou, G., Huynh, J., & Inoue, T,
-Georgiou, G., Huynh, J. & Inoue, T. (2026). Are
-teachers’ knowledge of language and literacy
-concepts and students’ reading performance
-reciprocally related? Reading & Writing, 1–18.
-https://doi.org/https://doi.org/10.1007/
-s11145-026-10782-9
-Gundem, B. B. (1990). Læreplanpraksis og læreplanteori : en introduksjon til læreplanområdet.
-Universitetsforlaget.
-Gunnes, T., Bennetzen, J., Ekren, R., Gilje, S. J. &
-Knudsen, P. (2025). LÆRERMOD 2024-2060
-Vil lærermangelen reduseres framover?
-(2025/30). S. sentralbyrå. https://
-www.ssb.no/arbeid-og-lonn/sysselsetting/
-artikler/laerermod-2024-2060/_/attachment/
-inline/92cb0f91-476f-44ef-b18d102215e7251c:2398a3a0a15e3f3ea8f5d0c39ee7
-7c0ed778f1f6/RAPP2025-30.pdf
-Gunnulfsen, A. E., Abrahamsen, H. N., Hall, J. &
-Jacobsen, H. M. (2024). Styring og ledelse i
-realiseringen av nytt læreplanverk:Tillit, tolkning og tid, (Rapport nr. 8). https://
-www.udir.no/contentassets/
-375142aec06a488cbaccae04bf6c9428/
-uio_2024_styring-og-ledelse-i-realiseringen-avnytt-lareplanverk.pdf
-
-[Side 343]
-
-NOU 2026: 10
-Fellesskolen
-
-Haidt, J. (2025). The Anxious Generation – How
-the Great Rewiring of Childhood Is Causing an
-Epidemic of Mental Illness. Penguin.
-Halmrast, H. H., Gulbrandsen, I. P., Sjøvold, J. M.,
-Stampe, P. L., Ulvik, M. & Kvam, E. K. (2021).
-Evaluering av veiledning av nyutdannede nytilsatte lærere (Sluttrapport). https://
-www.udir.no/tall-og-forskning/finn-forskning/
-rapporter/evaluering-av-veiledning-av-nyutdannede-nytilsatte-larere--sluttrapport/
-Halogen, Consulting, R. M. & KS. (2023). Kommunesektoren mot 2050: fremtidshistorier for
-politiske veivalg. KS. https://www.ks.no/contentassets/
-969c3ef4e45b4ae7af2899a100cf0a85/Delleveranse-2-fremtidshistorier-for-kommunesektoren-i-2050.pdf
-Hamre, B. K., Pianta, R. C., Downer, J. T., DeCoster, J., Mashburn, A. J., Jones, S. M., Brown, J.
-L., Cappella, E., Atkins, M., Rivers, S. E.,
-Brackett, M. A. & Hamagami, A. (2013).
-Teaching through interactions.: Testing a
-Developmental Framework of Teacher Effectiveness in over 4,000 Classrooms. Elem Sch J,
-113(4), 461-487. https://doi.org/10.1086/
-669616
-Hancock, J. a. L., Sunny Xun and Luo, Mufan and
-Mieczkowski, Hannah. (2022). Psychological
-Well-Being and Social Media Use: A Meta-Analysis of Associations between Social Media Use
-and Depression, Anxiety, Loneliness, Eudaimonic, Hedonic and Social Well-Being. https://
-doi.org/http://dx.doi.org/10.2139/
-ssrn.4053961
-Hanushek, E. (1986). The Economics of Schooling: Production and Efficiency in Public
-Schools. Journal of Economic Literature, 24,
-1141-1177.
-Hanushek, E. (1989). The impact of differential
-expenditures on school performance. Educational Researcher, 18(4), 45-62.
-Hanushek, E. (1996). School Resources and Student Performance. I G. Burtless (Red.), Does
-Money Matter? The Effect of School Resources
-on Student Achievement and Adult Success.
-Brookings Institution.
-Hanushek, E. & Wössmann, L. (2006). Does Educational Tracking Affect Performance and Inequality? Differences- in-Differences Evidence
-Across Countries. Economic Journal, 116, 6363. https://doi.org/10.1111/j.14680297.2006.01076.x
-Hargreaves, A. & Shirley, D. (2009). The Fourth
-Way The Inspiring Future for Educational
-Change. Corwin Press.
-
-341
-
-Litteraturliste
-
-Hargreaves, D. (1996). Teaching as a Researchbased Profession : Possibilities and Prospects.
-Teacher Training Agency Annual Lecture.
-https://eppi.ioe.ac.uk/cms/Portals/0/
-PDF%20reviews%20and%20summaries/
-TTA%20Hargreaves%20lecture.pdf
-Harris, T. (2017). How a handful of tech companies
-control billions of minds every day. http://
-cases.frsgym.dk/ny-2stx211-ENG_B31052021/files/193760_non_fiction_4.pdf
-Harsin, J. (2015). Regimes of Posttruth, Postpolitics, and Attention Economies. Communication, Culture & Critique, 8(2), 327-333. https://
-doi.org/https://doi.org/10.1111/cccr.12097
-Hartford, A. & Stein, D. J. (2022). Attentional
-Harms and Digital Inequalities. JMIR Mental
-Health, 9. https://mental.jmir.org/2022/2/
-e30838
-Hartman, R., Blakey, W., Womick, J., Bail, C., Finkel, E. J., Han, H., Sarrouf, J., Schroeder, J.,
-Sheeran, P., Van Bavel, J. J., Willer, R. & Gray,
-K. (2022). Interventions to reduce partisan animosity. Nature Human Behaviour, 6(9), 11941205. https://doi.org/10.1038/s41562-02201442-3
-Harvey, P. D. (2019). Domains of cognition and
-their assessment. National Library of Medicine. https://pubmed.ncbi.nlm.nih.gov/
-31749647/
-Haskel, J. & Westlake, S. (2018). Capitalism without capital : the rise of the intangible economy. Princeton University Press.
-Hatfield, J. L. (2025). From chalkboard to smartboard: an exploratory study of experienced
-teachers’ perspectives on student generations
-X, Y, Z and Alpha. Education and Information
-Technologies, 30(16), 22595-22647. https://
-doi.org/10.1007/s10639-025-13645-y
-Hattie, J. (2005). The Paradox of Reducing Class
-Size and Improving Learning Outcomes. International Journal of Educational Research, 43,
-387-425. https://doi.org/10.1016/
-j.ijer.2006.07.002
-Hattie, J. (2023). Visible learning: The Sequel A
-synthesis of over 2100 meta-analyses relating
-to achievement. Routledge.
-Haug, P. (2003). Evaluering av Reform 97 Sluttrapport frå styret for Program for evaluering av
-Reform 97
-Hauge, E. S., Boysen, K. R. & Knutsen, V. S.
-(2021). Evaluering av tilskudd til skolebibliotek. Oxford Research. https://oxfordresearch.no/wp-content/uploads/2022/06/Evaluering-av-tilskudd-til-skolebibliotek.pdf
-
-[Side 344]
-
-342
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Haugen, A., Helle, M. & Rabben, Å. K. (2024). Får
-skolene den fagkompetansen de trenger? En
-kartlegging av de skolerettede lærerutdanningene (13/2024). Direktoratet for høyere utdanning og kompetanse.
-Haukelien, H., Vike, H., Landsverk Hagen, A. &
-Rudningen, G. (2011). Frihet til likeverd. Likhetsverdier, lokal tilpasning og ansvarsfordeling (281). Telemarksforskning.
-Havik, T. (2023). Skolefravær Å forstå og håndtere
-skolefravær og skolevegring. https://www.gyldendal.no/faglitteratur/pedagogikk-og-laererutdanning/pedagogikk/skolefravaer/p10031033/
-Heckman, J. (2006). Skill Formation and the Economics of Investing in Disadvantaged Children.
-Science (New York, N.Y.), 312, 1900-1902.
-https://doi.org/10.1126/science.1128898
-Heckman, J. J., Jagelka, Tomás, Kautz, Timothy D.
-(2019). Some Contributions of Economics to
-the Study of Personality. NBER Working Paper,
-No. w26459. https://ssrn.com/
-abstract=3488959
-Helsedirektoratet. (2017). Nasjonal faglig retningslinje for tidlig oppdagelse, utredning og
-behandling av spiseforstyrrelser. Helsedirektoratet. Hentet 11.05 fra https://www.helsedirektoratet.no/retningslinjer/spiseforstyrrelser#referere
-Helsedirektoratet. (2021). Spedbarnsernæring.
-Nasjonal faglig retningslinje. Hentet 11.05 fra
-https://www.helsedirektoratet.no/retningslinjer/spedbarnsernaering
-Helsedirektoratet. (2022). Nasjonale faglige råd
-for fysisk aktivitet i forebygging og behandling.
-https://www.helsedirektoratet.no/fagligerad/fysisk-aktivitet-i-forebygging-og-behandling/barn-og-unge#barn-unge-6-17-ar-radanbefaling-fysisk-aktivitet
-Helsedirektoratet. (2023a). Helsestasjonsprogrammet 0-5 år. https://www.helsedirektoratet.no/retningslinjer/helsestasjons-og-skolehelsetjenesten/dokumenter-helsestasjons-ogskolehelsetjenesten/Helsestasjonsprogrammet-0-5.pdf/_/attachment/inline/0e915096a9ff-4afb-9dc8a78d70335603:213884cf3ea80ee975e5e31c4b8
-d24f1dc34d0b4/Helsestasjonsprogrammet%200-5%20%C3%A5r.pdf
-Helsedirektoratet. (2023b). Kunnskapsoppsummering om ulikheter i helse og livskvalitet i
-Norge siden 2014 – sammendrag. Helsedirektoratet. https://www.helsedirektoratet.no/rapporter/kunnskapsoppsummering-om-ulik-
-
-heter-i-helse-og-livskvalitet-i-norge-siden-2014-sammendrag
-Helsedirektoratet. (2023c). Skolemåltid i Norge –
-kunnskapsgrunnlag, nytte-kostnadsvirkninger
-og implementering. Helsedirektoratet. Hentet
-11.05 fra https://www.helsedirektoratet.no/
-rapporter/skolemaltid-i-norge-kunnskapsgrunnlag-nytte-kostnadsvirkninger-og-implementering
-Helsper, E. J. (2017). The Social Relativity of Digital Exclusion: Applying Relative Deprivation
-Theory to Digital Inequalities. Communication
-Theory, 27(3), 223-242. https://doi.org/
-10.1111/comt.12110
-Henriksen, Ø. H. & Paulsen, J. M. (2021). Balancing trust and control through dialogue
-meetings in Norwegian school district governance. Educational Research for Policy and
-Practice, 20(3), 349-365. https://doi.org/
-10.1007/s10671-020-09287-1
-Herlofsen, C. & Nilsen, S. (2019). Spesialundervisning i spenningsfeltet mellom juridisk regelverk og lokal praksis. I K. Andenæs & J. Møller
-(Red.), retten i skolen. Mellom pedagogikk,
-juss og praksis. (2. utgave. utg., s. 140-160).
-Universitetsforlaget.
-Hermansen, A. (2016). Moving Up or Falling
-Behind? Intergenerational Socioeconomic
-Transmission among Children of Immigrants
-in Norway. European Sociological Review, 32,
-jcw024. https://doi.org/10.1093/esr/jcw024
-Hermansen, A. S., Friberg, J. H. & Midtbøen, A. H.
-(2023). Chapter 9: Occupational skills, ethnic
-stratification, and labor market assimilation
-across immigrant generations. I M. Tåhlin
-(Red.), A Research Agenda for Skills and Inequality (s. 145-159). Edward Elgar Publishing.
-https://doi.org/https://doi.org/10.4337/
-9781800378469.00015
-Hermansen, H. & Mausethagen, S. (2023). 4.
-Kunnskapsintegrasjon i lærerutdanning og
-profesjonsutøvelse. I En forskningsbasert
-skole? (s. 67-87) (Books). Universitetsforlaget.
-https://doi.org/doi:10.18261/978821506554023-04
-Herre, B., Rodés-Guirao, L. & Ortiz-Ospina, E.
-(2025). Democracy. https://ourworldindata.org/democracy
-Hiebert, J. & Lefevre, P. (1986). Conceptual and
-procedural knowledge: the case of mathematics. Erlbaum.
-Holte, A. (2012). Ti prinsipper for forebygging av
-psykiske lidelser. Tidsskrift for Norsk psykologforening, 49(7), 693-695.
-
-[Side 345]
-
-NOU 2026: 10
-Fellesskolen
-
-Holte, A. (2018). Syv prinsipper og tjueni grep for
-et psykisk sunnere Norge (Barn i Norge 2018.
-Ung og psykisk syk. Organisasjonen Voksne
-for Barn. https://vfb.no/content/uploads/
-2019/03/
-Barn_i_Norge_2018_Ung_og_psykisk_syk.pdf
-Hoover, M., Mosvold, R., Ball, D. & Lai, Y. (2016).
-Making Progress on Mathematical Knowledge
-for Teaching. The Mathematics Enthusiast,
-13(1-2). https://scholarworks.umt.edu/tme/
-vol13/iss1/3/?utm_source=scholarworks.umt.edu%2Ftme%2Fvol13%2Fiss1%2F3
-&utm_medium=PDF&utm_campaign=PDFCoverPages
-Hovdhaugen, E., Prøitz, T. S. & Seland, I. (2018).
-Eksamens- og standpunktkarakterer – to sider
-av samme sak? Acta Didactica Norge, 12(4), 120. https://doi.org/http://dx.doi.org/
-10.5617/adno.6276
-Hye, L., Øgård, M. & Baldersheim, H. (2025a).
-Lokal skolemyndighet – jakten på systembalanse. https://www.skolelederforbundet.no/
-wp-content/uploads/2025/08/
-skolelederen_rapport_2025-web.pdf
-Hye, L., Øgård, M. & Baldersheim, H. (2025b).
-Veier til effektiv skoleledelse.
-Hysing, M., Harvey, A., Linton, S., Askeland, K. &
-Sivertsen, B. (2016). Sleep and academic performance in later adolescence: Results from a
-large population-based study. Journal of sleep
-research, 25, n/a-n/a. https://doi.org/
-10.1111/jsr.12373
-Højgaard, T. (2024). Competencies and fighting
-syllabusism. Educational Studies in Mathematics, 115(3), 459-479. https://doi.org/10.1007/
-s10649-023-10285-2
-Høst, H., Furholt, J. & Lyckander, R. (2024). Hvordan samarbeider fagskolene med arbeidslivet
-om utdanningene? Nifu. https://nva.sikt.no/
-registration/0198cc517bfa-ada2681b-63314bd6-a1e1-7d8788ddc704
-Høydal, Ø. S., Bakken Anders, Lunde, H., Jacobsen, S. E. & Wiggen, K. S. (2026). Skoletrivsel:
-Nedgang, årsaker og elevenes egne erfaringer.
-Arbeidsforskningsinstituttet. https://
-www.udir.no/contentassets/
-fcd1c214c87846eda05c41ad44aa3f26/skoletrivsel---nedgang-arsaker-og-elevenes-egne-erfaringer-endelig-delrapport.pdf
-Illeris, K. (2012). Læring. Gyldendal akademisk.
-IMDi. (2025a). Hvordan går det med integreringen i Norge? Indikatorer, status og utviklingstrekk 2025. I.-o. mangfoldsdirektoratet. https:/
-/www.imdi.no/globalassets/rapporter/2025/
-
-343
-
-Litteraturliste
-
-imdi-hvordan-gar-det-med-integreringen-inorge-2025_nuc-v5.pdf
-IMDi. (2025b). Kommunenes utgifter til bosetting
-og integrering av flyktninger og nyankomne
-innvandrere i 2024. Rapport fra Beregningsutvalget august 2025. https://www.imdi.no/globalassets/rapporter/2025/beregningsutvalgets-rapport-for-2024---kommunenes-utgiftertil-bosetting-og-integrering-av-flyktninger.pdf
-Immordino-Yang, M. H., Christodoulou, J. A. &
-Singh, V. (2012). Rest Is Not Idleness:Implications of the Brain’s Default Mode for Human
-Development and Education. Perspectives on
-Psychological Science, 7(4), 352-364. https://
-doi.org/10.1177/1745691612447308
-Ingelsrud, M. H., Bergene, A. C. & Gotehus, A.
-(2025). Tid, tillit og trivsel. Praktisering av og
-erfaringer med SFS 2213 – Særavtale for undervisningspersonalet i kommunal og fylkeskommunal grunnopplæring (AFI-rapport nummer
-2025:06). O. s. Arbeidsforskningsinstituttet
-AFI. https://www.utdanningsforbundet.no/
-globalassets/var-politikk/publikasjoner/
-eksterne-rapporter/
-tid_tillit_trivsel_sfs_2213_afirapport_2025.06_v2.pdf
-Ingersoll, R. M. & Strong, M. (2011). The Impact
-of Induction and Mentoring Programs for
-Beginning Teachers:A Critical Review of the
-Research. Review of Educational Research,
-81(2), 201-233. https://doi.org/10.3102/
-0034654311403323
-Innst. 19 S (2016–2017) Innstilling fra kirke-,
-utdannings- og forskningskomiteen om Fag –
-Fordypning – Forståelse. En fornyelse av Kunnskapsløftet
-Innst. 30 S (2024–2025) Innstilling fra kontroll- og
-konstitusjonskomiteen om Sannhet og forsoning
-– et grunnlag for et oppgjør med fornorskingspolitikk og urett mot samer, kvener/norskfinner og
-skogfinner
-Innst. 182 S (2016–2017) Innstilling fra kirke-,
-utdannings- og forskningskomiteen om representantforslag om opptakskrav til lærerutdanningen
-og nasjonal veiledningsordning
-Iversen, J. M. V., Haraldsvik, M. & Nyhus, O. H.
-(2021). Ulikheter i lærerstatistikk (SØF-rapport 4/21). NTNU Samfunnsforskning,. https:/
-/samforsk.no/uploads/files/Ulikheter-i-laererstatistikk-WEB.pdf
-Iversen, L. L. (2019). From safe spaces to communities og disagreement. British Journal og Religious Education, 41. https://www.tandfonline.com/doi/full/10.1080/
-01416200.2018.1445617#abstract
-
-[Side 346]
-
-344
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Jackson, C. K. (2020). Does school spending matter? The new literature on an old question. I l.
-Tach, Dunifon, R., Miller, D. L. (Red.), Confronting inequality: How policies and practices
-shape children’s opportunities (s. 165-186).
-American Psychological Association. https://
-doi.org/https://doi.org/10.1037/0000187-008
-Jackson, C. K., Johnson, R. C. & Persico, C. (2016).
-The Effects of School Spending on Educational
-and Economic Outcomes: Evidence from
-School Finance Reforms *. The Quarterly Journal of Economics, 131(1), 157-218. https://
-doi.org/10.1093/qje/qjv036
-Jacobowitz, S. (2026). The hidden functions of
-sycophancy in AI systems: steering, consistency, and cognitive dependency. AI & SOCIETY. https://doi.org/10.1007/s00146-02602993-z
-Jakhelln, H. & Møller, J. (2019). Retten i skolen –
-styring og sikring. I K. Andenæs & J. Møller
-(Red.), Retten i skolen. Mellom pedagogikk,
-juss og politikk (2. utgave. utg., s. 29-41). Universitetsforlaget.
-Janis, I. L. (1972). Victims of groupthink; a psychological study of foreign-policy decisions and
-fiascoes. Houghton.
-Jelstad, J. (2020). Én av tre lærere er redde for å
-vise Muhammed- karikaturer. Utdanningsnytt.
-https://www.utdanningsnytt.no/muhammedkarikaturer-undervisning-ytringsfrihet/n-avtre-laerere-er-redde-for-a-vise-muhammed-karikaturer/260993
-Jensen, F., Pettersen, A., Frønes, T. S., Eriksen, A.,
-Løvgren, M. & Narvhus, E. K. (2023). PISA
-2022 Norske elevers kompetanse i matematikk, naturfag og lesing. C. D. Akademisk.
-https://cdforskning.no/cdf/catalog/book/
-205
-Jensen, F., Pettersen, A., Frønes, T. S., Kjærnsli,
-M., Rohatgi, A., Eriksen, A., & Narvhus, E. K.
-(2019). PISA 2018. Norske elevers kompetanse
-i lesing, matematikk og naturfag. (1. utg.). Universitetsforlaget. https://www.udir.no/contentassets/2a429fb8627c4615883bf9d884ebf16d/
-kortrapport-pisa-2018.pdf
-Johansen, V. (2018). Langtidseffekter av deltakelse i Ungdomsbedrift (8). (ØF-notat). Østlandsforskning.
-Johnson, G. M. (2009). Instructionism and Constructivism: Reconciling Two Very Good Ideas.
-International Journal of Special Education,
-24(3), 90-98.
-Jones, N. (2025). AI hallucinations can’t be stopped
-— but these techniques can limit their damage.
-
-Nature, 637(8047), 778-780. https://doi.org/
-10.1038/d41586-025-00068-5
-Jordan, N. C., Devlin, B. L. & Botello, M. (2022).
-Core foundations of early mathematics: Refining the number sense framework. Current
-Opinion in Behavioral Sciences, (46).
-Kalcic, M. & Keute, A.-L. (2024). Voksnes ferdigheter i leseforståelse, tallforståelse og adaptiv
-problemløsning (Tall som teller. https://
-www.ssb.no/utdanning/utdanningsniva/artikler/voksnes-ferdigheter-i-leseforstaelse-tallforstaelse-og-adaptiv-problemlosning/_/
-attachment/inline/ed1f2018-a0b1-4c7f-819d34fbb33c3974:beaa84b0828cda6ced31e87c5c1
-0f133890e7731/RAPP2024-44.pdf
-Karacaoğlu, Ö. C. & Kasap, Y. (2023). The Effect of
-Reading Comprehension Skills on Mathematics and Science According to PISA Data. International Journal of Educational Research
-Review, 8, 623-637. https://doi.org/10.24331/
-ijere.1246885
-Karseth, B., Kvamme, O. A. & Ottesen, E. (2022).
-Fra politiske intensjoner til nytt læreplanverk:
-Prosesser, rammer og sammenhenger. Universitetet i Oslo. https://nva.sikt.no/registration/
-0198cc64ca34-3442bc69-f653-4919-aa681c28962fbc83
-Kay, J. A. & King, M. A. (2021). Radical uncertainty
-Decision-making for an unknowable future.
-The Bridge Street Press.
-Kemp, S. (2023). Digital 2023: Global overview
-report. https://datareportal.com/reports/
-digital-2023-global-overview-report
-Kennedy, A. I. & Strietholt, R. (2023). School
-closure policies and student reading achievement: Evidence across countries. https://psycnet.apa.org/record/2024-39832-002
-Kerche, F. W., Zook, M. & Graham, M. (2026). The
-silicon gaze: A typology of biases and inequality
-in LLMs through the lens of place. Platforms &
-Society, 3, 29768624251408919. https://
-doi.org/10.1177/29768624251408919
-KI-forordningen. (2024). Regulation (EU) 2024/
-1689 of the European Parliament and of the
-Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No
-167/2013, (EU) No 168/2013, (EU) 2018/858,
-(EU) 2018/1139 and (EU) 2019/2144 and
-Directives 2014/90/EU, (EU) 2016/797 and
-(EU) 2020/1828 (Artificial Intelligence Act)
-regjeringen.no. https://www.regjeringen.no/
-contentassets/
-e823dc21809c43f2b4ba9ff1e389e245/ki-for-
-
-[Side 347]
-
-NOU 2026: 10
-Fellesskolen
-
-ordningen-eu-2024.1689-uoffisiell-norsk131037.pdf
-Kilpatrick, J., Swafford, J. & Findell, B. (2001).
-Adding It Up: Helping Children Learn Mathematics. The National Academies Press. https:/
-/doi.org/doi:10.17226/9822
-Kirke- og undervisningsdepartementet. (1987).
-Mønsterplan for grunnskolen. Kirke og undervisningsdepartementet.
-Kirkebøen, L. J. (2022). School Value-Added and
-Long-Term Student Outcomes. CESifo Working Paper, 9769. https://ideas.repec.org/p/
-ces/ceswps/_9769.html
-Kirkebøen, L. J., Andreas Kotsadam, Raaum, O.,
-Andresen, S. & Rogstad, J. (2017). Effekter av
-satsing på økt lærertetthet. Statistisk sentralbyrå. https://www.ssb.no/utdanning/artiklerog-publikasjoner/_attachment/
-332335?_ts=16044ba4410
-Kirkhaug, R. (2021). Hva betyr lederskap i skolen?
-Skolelederforbundet. https://www.skolelederforbundet.no/wp-content/uploads/2021/10/
-Skolelederforbundetslederundersokelse_2021.pdf
-Kirschner, P. A. & Hendrick, C. (2024). How Learning Happens : Seminal Works in Educational
-Psychology and What They Mean in Practice
-(2nd. utg.). Taylor & Francis Group.
-Kissinger, H., Mundie, C., Schmidt, E., Runde, E.
-& Ferguson, N. (2024). Genesis : artificial intelligence, hope, and the human spirit. John Murray.
-Klette, K., Blikstad-Balas, M. & Roe, A. (2017). Linking Instruction and Student Achievement. A
-research design for a new generation of classroom studies. Acta Didactica Norge, 11(3).
-https://journals.uio.no/adno/article/view/
-4729
-Klingberg, T. (2009). The overflowing brain: information overload and the limits of working
-memory. Oxford University Press.
-Klingberg, T. (2013). The learning brain: memory
-and brain development in children. Oxford University Press.
-Knudsen, K., Strand, O., Wagner, Å. K. H. & Støle,
-H. (2024). Mulige drivkrefter bak nedgangen i
-leseforståelse hos norske tiåringer. I Å. K. H.
-Wagner & H. Støle (Red.), Tid for lesing! Norske tiåringers leseforståelse i PIRLS 2021 (s.
-224-238). Universitetsforlaget. https://
-www.universitetsforlaget.no/tid-for-lesing
-Knutsen, C. H., Dahlum, S., Haugsgjerd Allern, E.,
-Bjønness Hagfors, S., Klausen, J. E., Søyland,
-M. & Wig, T. (2023). Tilstandsanalyse av det
-norske demokratiet. Universitetet i Oslo.
-
-345
-
-Litteraturliste
-
-https://www.regjeringen.no/contentassets/
-b242728c615c40f3a720a56acd56971a/
-tinde_2023_rapport_endelig_versjon.pdf
-Kommunal- og distriktsdepartementet. (2025).
-Inntektssystemet for kommunar og fylkeskommunar 2026 (Grønt hefte).
-Kommunal- og moderniseringsdepartementet.
-(2020). Statlig styring av kommuner og fylkeskommuner. https://www.regjeringen.no/no/
-dokumenter/veileder-om-statlig-styring-avkommuner-og-fylkeskommuner/id2791598/
-Kommuneloven. (2018). Lov om kommuner og
-fylkeskommuner (LOV-2018-06-22-83). Lovdata. https://lovdata.no/lov/2018-06-22-83
-Kompetansebehovsutvalget. (2023). Fremtidige
-kompetansebehov: Utfordringer for grønn
-omstilling i arbeidslivet. https://www.kompetansebehovsutvalget.no/uploads/TArfQKaf/
-KBU-temarapport-2023.pdf
-Kompetansebehovsutvalget. (2025a). Framtidige
-kompetansebehov: Hvilken kompetanse trenger Norge for å lykkes med digital omstilling?
-(Temarapport. Direktoratet for høyere utdanning og kompetanse. https://www.kompetansebehovsutvalget.no/uploads/ryOX1yAG/
-Kompetansebehovsutvalget_rapport_digitalve
-rsjon.pdf
-Kompetansebehovsutvalget. (2025b). Vi analyserer fremtidige kompetansebehov. HK-dir.
-https://www.kompetansebehovsutvalget.no/
-Kompetansebehovsutvalget (2022). Fremtidige
-kompetansebehov: Høyere yrkesfaglig utdanning for et arbeidsliv i endring. https://
-www.kompetansebehovsutvalget.no/uploads/
-n0bpygpN/KBU-temarapport-2022.pdf
-Kool, I., Steffensen, K. & Bennetzen, J. (2026). Elever uten grunnskolepoeng. Hvem er de og
-hvordan går det med dem videre. Statistisk
-sentralbyrå.
-Kosmyna, N., Hauptmann, E., Yuan, Y., Situ, J.,
-Liao, X.-H., Beresnitzky, A., Braunstein, I. &
-Maes, P. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI
-Assistant for Essay Writing Task. https://
-doi.org/10.48550/arXiv.2506.08872
-Kostøl, K. B. & Braathen, A. (2026). Når klasserommet åpnes mot verden. Samarbeid mellom
-skole og arbeidsliv – hvorfor og hvordan.
-Nasjonalt senter for naturfag i opplæringen.
-https://www.mn.uio.no/naturfagsenteret/
-tidsskrift/rapport/pdf/
-naturfagsenteret_rapport2601.pdf
-Kramarski, B. & Mevarech, Z. R. (2003). Enhancing Mathematical Reasoning in the Classroom: The Effects of Cooperative Learning and
-
-[Side 348]
-
-346
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Metacognitive Training. American Educational
-Research Journal, 40(1). https://journals.sagepub.com/doi/10.3102/00028312040001281
-Krause, S., Panchal, B. H. & Ubhe, N. (2025). Evolution of Learning: Assessing the Transformative Impact of Generative AI on Higher Education. Frontiers of Digital Education, 2(2), 21.
-https://doi.org/10.1007/s44366-025-0058-7
-Krokstad, S., Weiss, D. A., Krokstad, M. A., Rangul, V., Kvaløy, K., Ingul, J. M., Bjerkeset, O.,
-Twenge, J. & Sund, E. R. (2022). Divergent
-decennial trends in mental health according to
-age reveal poorer mental health for young people: repeated cross-sectional population-based
-surveys from the HUNT Study, Norway. BMJ
-Open, 12(5), e057654. https://doi.org/
-10.1136/bmjopen-2021-057654
-Kronprinsparets fond. (2026). Flyt. Kronprinsparets fond. Hentet 11.06.2026 fra https://flytprogrammet.no/om-flyt/
-Krotoszynski, J. R. J., Koltay, A. & Garden, C.
-(Red.). (2025). Disinformation, Misinformation, and Democracy: Legal Approaches in
-Comparative Context. Cambridge University
-Press
-Krumsvik, R. & Johansen, O. M. (2026). Gendered
-patterns in teacher assessment and blind grading: evidence from 366,665 upper secondary
-grades in Norway. https://www.tandfonline.com/doi/full/10.1080/
-00313831.2026.2662241#abstract
-KS. (2023). Kommunesektorens arbeidsgivermonitor 2023. https://www.ks.no/contentassets/
-fab9b83db07a49dc8456efe845fe6d16/23088KS-Arbeidsgivermonitor-2023-WEB.pdf
-Kulturskolerådet. (2024). Rammeplan for kulturskolen Kulturskole for alle. https://www.kulturskoleradet.no/_extension/media/10725/
-orig/
-2025%20Rammeplan%20for%20kulturskolen%2
-0bokmal%206.5.pdf
-Kunnskapsdepartementet. (2009). GNIST – partnerskap for en helhetlig lærersatsing. https://
-www.regjeringen.no/globalassets/upload/
-kd/vedlegg/udir_gnist_avtale_msign.pdf
-Kunnskapsdepartementet. (2014). Lærerløftet På
-lag for kunnskapsskolen. https://www.regjeringen.no/no/dokumenter/Larerloftet/
-id2001933/
-Kunnskapsdepartementet. (2017a). Lærerutdanning 2025. Nasjonal strategi for kvalitet og samarbeid i lærerutdanningene. https://
-www.regjeringen.no/contentassets/
-d0c1da83bce94e2da21d5f631bbae817/
-
-kd_nasjonal-strategi-forlarerutdanningene_nett_11.10.pdf
-Kunnskapsdepartementet. (2017b). Overordnet
-del – verdier og prinsipper for grunnopplæringen. Fastsatt som forskrift ved kongelig resolusjon. https://www.udir.no/lk20/overordnetdel/
-Kunnskapsdepartementet. (2019a). Kroppsøving
-(KRO01-05). Utdanningsdirektoratet. https://
-www.udir.no/lk20/kro01-05?lang=nob
-Kunnskapsdepartementet. (2019b). Skaperglede,
-engasjement og utforskertrang. Kunnskapsdepartementet. https://www.regjeringen.no/
-contentassets/
-c8bbb637891443fea7971ba8e936bca4/skaperglede-engasjement--og-utforskertrang.pdf
-Kunnskapsdepartementet. (2023). Strategi for
-digital kompetanse og infrastruktur i barnehage og skole. https://www.regjeringen.no/
-no/dokumenter/strategi-for-digital-kompetanse-og-infrastruktur-i-barnehage-og-skole/
-id2972254/?ch=1
-Kunnskapsdepartementet. (2024a). Læreplan i
-norsk (NOR01-07). Fastsatt som forskrift.
-Læreplanverket for Kunnskapsløftet 2020.
-Kunnskapsdepartementet. https://
-www.udir.no/lk20/nor01-07
-Kunnskapsdepartementet. (2024b). Mandat for
-offentlig utvalg som skal utrede fellesskolens
-rolle i framtidens samfunn. https://fellesskoleutvalget.no/mandat/
-Kunnskapsdepartementet. (2024c). Strategi for
-rekruttering til lærerutdanningene og læreryrket 2024–2030. https://www.regjeringen.no/
-no/dokumenter/strategi-for-larerrekruttering/id3025152/
-Kunnskapsdepartementet. (2024d). Tilskudd til
-private grunnskoler. https://www.regjeringen.no/contentassets/
-db1cbb8dd79541d08313d59e75cab6a6/
-arbeidsgrupperapport-tilskudd-til-privategrunnskoler.pdf
-Kunnskapsdepartementet. (2025a). Arbeid med
-mer overordnet styring av lærerutdanningene.
-https://nettsteder.regjeringen.no/stylu/
-Kunnskapsdepartementet. (2025b). Felles strategi
-for freds- og menneskerettighetssentrene.
-Kunnskapsdepartementet. https://www.regjeringen.no/no/dokumenter/felles-strategi-forfreds-og-menneskerettighetssentrene/
-id3124997/?ch=1
-Kunnskapsdepartementet. (2025c). Nysgjerrighet, nytte og involvering – Strategi for utdanningsforskning 2025-2029. https://www.regje-
-
-[Side 349]
-
-NOU 2026: 10
-Fellesskolen
-
-ringen.no/no/dokumenter/nysgjerrighetnytte-og-involvering/id3088241/
-Kunnskapsdepartementet. (2025d). Prinsipper og
-forpliktelser for profesjonsfaglig veiledning for
-nyutdannede lærere i barnehage og skole.
-Kunnskapsdepartementet. https://www.regjeringen.no/contentassets/
-f101bd3386ae4c81bfc24298397ef692/no/pdfs/
-vedlegg-kompetanseutvikling-for-alleansatte.pdf
-Kunnskapsdepartementet. (2025e, 04.11.2025).
-Statsbudsjettet 2026. Svar på budsjettspørsmål.
-Svar på spørsmål 811 fra Finanskomiteen/Hs
-fraksjon av 22.10.2025. Hentet 03.06 fra https:/
-/www.regjeringen.no/no/statsbudsjett/2026/
-svar-pa-budsjettsporsmal/id3119380/
-?bq=811&sort=numberdescend
-Kunnskapsdepartementet. (2025f). System for
-kompetanse- og karriereutvikling for ansatte i
-barnehage og skole. https://www.regjeringen.no/contentassets/
-ea77600fe5a64ac39c245d8396e0e328/no/
-pdfs/strategi-kompetanseutvikling-for-alleansatte.pdf
-Kunnskapsdepartementet. (2026a). Høring. Forslag til endringer i opplæringsloven og privatskoleloven om å innføre krav om at trykte læremidler mv. skal være tilgjengelige i opplæringen i grunnskolen.
-Kunnskapsdepartementet. https://www.regjeringen.no/no/dokumenter/planlagt-horingjusssol/id3166000/
-Kunnskapsdepartementet. (2026b). Læreplan i
-matematikk 1.-10. trinn. https://data.udir.no/
-kl06/v201906/laereplaner-lk20/MAT0106.pdf?lang=nno
-Kunnskapsdepartementet. (2026c). Regjeringen
-skal lage ny strategi for realfag og teknologi
-https://www.regjeringen.no/no/aktuelt/
-regjeringen-skal-lage-ny-strategi-for-realfag-ogteknologi/id3156284/
-Kunnskapsdepartementet. (2026d). Tildelingsbrev for Utdanningsdirektoratet for 2026.
-Kunnskapsdepartementet. https://www.regjeringen.no/globalassets/episerver-forms/kd/
-tildelingsbrev-til-udir-for-2026.pdf
-Kunnskapssektorens tjenesteleverandør (Sikt)
-(2026). Sikt KI. https://sikt.no/tjenester/siktki
-Kunter, M., Klusmann, U., Baumert, J., Richter, D.,
-Voss, T. & Hachfeld, A. (2013). Professional
-competence of teachers: Effects on instructional quality and student development. Journal of
-Educational Psychology, 105(3), 805-820.
-https://doi.org/10.1037/a0032583
-
-347
-
-Litteraturliste
-
-Kvalnes, Ø. & Hansen Sandseter, E. B. (2023).
-Risky Play: An Ethical Challenge. Cham: Springer Nature. https://doi.org/10.1007/978-3031-25552-6
-Kvamme, O. A. (2025). Skolens verdier og samfunnsmandat: Om verdiløftet og det tverrfaglige temaet bærekraftig utvikling. https://
-www.uv.uio.no/forskning/prosjekter/fagfornyelsen-evaluering/publikasjoner/
-eva_2020_rapport_10.pdf
-Kaarstein, H., Lehre, A.-C., Jacobsen, H. M. M.,
-Jensen, F., Jentsch, A., Nilsen, T., Olsen, R. V.,
-Pettersen, A., Radišić, J. & Rohatgi, M. A.
-(2025). Hva TIMSS forteller om norsk skole:
-Sekundæranalyser av TIMSS undersøkelsen.
-Kaarstein, H., Lehre, A.-C., Radisic, J. & Rohatagi,
-M. A. (2024). TIMSS 2023 Kortrapport. Institutt for lærerutdanning og skoleforskning, Universitetet i Oslo.
-Lahti, H., Kokkonen, M., Hietajärvi, L., Lyyra, N.
-& Paakkari, L. (2024). Social media threats and
-health among adolescents: evidence from the
-health behaviour in school-aged children study.
-Child and Adolescent Psychiatry and Mental
-Health, 18(1), 62. https://doi.org/10.1186/
-s13034-024-00754-8
-Langøien, L. J., Nøkleby, H. & Jardim, P. S. J.
-(2020). Systematisk kartleggingsoversikt. Målstyring i politiets forebyggende arbeid: en systematisk kartleggingsoversikt. Folkehelseinstituttet. https://www.fhi.no/globalassets/
-dokumenterfiler/rapporter/2020/malstyringi-politiets-forebyggende-arbeid-rapport2020.pdf
-Langørgen, A. & Løkken, S. A. (2023). Long-term
-effects of school spending. Evidence from exiting cohort size variation. (Discussion papers.
-Statistisk sentralbyrå. https://www.ssb.no/
-en/offentlig-sektor/kommunale-finanser/artikler/long-run-effects-of-school-spending-evidence-from-exiting-cohort-size-variation
-Lanier, J. (2019). Ten arguments for deleting your
-social media accounts right now. Vintage
-Books.
-Lareau, A. (2003). Unequal Childhoods: Class,
-Race, and Family Life. Univ. Calif. Press.
-Lareau, A. (2015). Cultural knowledge and social
-inequality. American sociological review.,
-80(1), 1-27.
-Lazer, D. M. J., Baum, M. A., Benkler, Y., Berinsky,
-A. J., Greenhill, K. M., Menczer, F., Metzger,
-M. J., Nyhan, B., Pennycook, G., Rothschild,
-D., Schudson, M., Sloman, S. A., Sunstein, C.
-R., Thorson, E. A., Watts, D. J. & Zittrain, J. L.
-(2018). The science of fake news. Science,
-
-[Side 350]
-
-348
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-359(6380), 1094-1096. https://doi.org/
-doi:10.1126/science.aao2998
-Lembke, A. (2022). Dopamine nation : finding
-balance in the age of indulgence. Headline.
-LeMonde. (2024). Bedbug panic was stoked by
-Russia, says France. LeMonde. https://
-www.lemonde.fr/en/france/article/2024/03/
-01/bedbug-panic-was-stoked-by-russia-saysfrance_6575870_7.html
-Lensjø, K. K., Nystuen, I. N., Rogge, F. S., Tøndel,
-K., Sugden, A., Shurnayte, I., Grødem, S.,
-Malthe-Sørenssen, A., Hafting, T., Andermann,
-M. L. & Fyhn, M. (2025). Local inhibitory circuits mediate cortical reactivations and
-memory consolidation. Science Advances,
-11(22), eadu9800. https://doi.org/
-doi:10.1126/sciadv.adu9800
-Leoste, J., Fenyvesi, K. & Di Rosario, G. (2025).
-Socratic Dialogue with Generative Artificial
-Intelligence: Where is the Future? I.
-Leuven, E. & Løkken, S. A. (2017). Long term
-impacts of class size in compulsory school.
-(Discussion Papers. Statistisk Sentralbyrå.
-https://www.ssb.no/en/forskning/discussion-papers/long-term-impacts-of-class-size-incompulsory-school
-Lesnick, J., Goerge, R., Smithgall, C., & Gwynne, J.
-(2010). Reading on grade level in third grade:
-How is it related to high school performance
-and college enrollment. Chapin Hall at the University of Chicago.
-Liang, X., Tia, N., Lopes da silva, D., Scarazzato, L.,
-Karim, Z. & Guiberteau Ricard, J. (2025).
-Trends in world military expenditure, 2024.
-SIPRI Fact Sheet. https://www.sipri.org/
-sites/default/files/2025-04/
-2504_fs_milex_2024.pdf
-Liao, S., Yu, L., Kruger, J.-L. & Reichle, E. D.
-(2024). Dynamic reading in a digital age: new
-insights on cognition. Trends in cognitive
-Sciences, 28(1). https://www.sciencedirect.com/science/article/pii/
-S1364661323001985?via%3Dihub
-Lillejord, S., Børte, K. & Nesje, K. (2018). De yngste barna i skolen: Lek og læring, arbeidsmåter
-og læringsmiljø – En forskningskartlegging. N.
-f. Kunnskapssenter for utdanning. https://
-www.forskningsradet.no/siteassets/publikasjoner/1254038017948.pdf
-Lillejord, S., Vågan, A., Johansson, L., Børte, K. &
-Ruud, E. (2016). Hvordan fysisk aktivitet i skolen kan fremme elevers helse, læringsmiljø og
-læringsutbytte: En systematisk kunnskapsoversikt. Kunnskapssenter for utdanning.
-
-https://www.forskningsradet.no/siteassets/
-publikasjoner/1254021841618.pdf
-Lindgren, L. (2022). Ekko. Gyldendal
-Lindstrøm, E. L. & Utne, H. R. (2023, 19.10.2023).
-83 100 kroner per innbygger til helse i 2022.
-Statistisk sentralbyrå. Hentet 03.06 fra https://
-www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/helseregnskap/artikler/83-100-kroner-per-innbygger-tilhelse-i-2022
-Lipsey, R. G., Carlaw, K. & Bekar, C. (2005). Economic transformations : general purpose technologies and long-term economic growth. Oxford
-University Press.
-List, J. A. (2022). The voltage effect: How to make
-good ideas great and great ideas scale. Crown
-Currency.
-List, J. A. (2026). The Economics of Scaling Early
-Childhood Programs: Lessons from The Chicago School. Journal of Political Economy,
-134(1), 1-48.
-Liu, G., Christian, B., Dumbalska, T., Bakker, M. A.
-& Dubey, R. (2026). AI Assistance Reduces
-Persistence and Hurts Independent Performance
-Ljunggren, J., Andersen, P. L., Vennerød-Diesen, F.
-F., Pedersen, C., Jacobsen, S. E. & Wollscheid,
-S. (2026). Tapt generasjon eller alt i orden.
-https://nva.sikt.no/registration/
-019c091376b7-e1dc215e-bfc2-4fe1-a9c9cdb889bd930b
-Loewenstein, G. & Wojtowicz, Z. (2025). The Economics of Attention. Journal of Economic Literature 2025, 63 (3), 1038-1089.
-López-Gil, J. F., Victoria-Montesinos, D., GutiérrezEspinoza, H. & Jiménez-López, E. (2024).
-Family Meals and Social Eating Behavior and
-Their Association with Disordered Eating
-among Spanish Adolescents: The EHDLA
-Study. Nutrients, 16(7). https://doi.org/
-10.3390/nu16070951
-Lorentzen, M. (2023). Like lærere leker best. Om
-lærerspesialistenes rolle i skolen og profesjonen. Oslomet – storbyuniversitetet.
-Lorentzen, M. (2024). Vertikal og horisontal spesialisering i lærerprofesjonen. Acta Didactica
-Norden, 18(1). https://doi.org/10.5617/
-adno.10788
-Lunde, C. & Brodal, P. (2022). Lek og læring i et
-nevroperspektiv. Hvordan gode intensjoner
-kan ødelegge barns lærelyst. Universitetsforlaget.
-Lundetræ, K., Gabrielsen, E. & Mykletun, R.
-(2010). Do basic skills predict youth unemployment (16 to 24 year olds) also when controlled
-
-[Side 351]
-
-NOU 2026: 10
-Fellesskolen
-
-for accomplished upper secondary school? A
-cross country comparison. Journal of Education and Work, 23(3), 233-254. https://doi.org/
-10.1080/13639081003745439
-Lærerprofesjonens etiske råd. (2025). Lærerprofesjonens etiske råd. Lærerprofesjonens etiske
-råd. Hentet 16.11.2025 fra https://www.laereretikk.no/om-radet
-Lødding, B., Pedersen, C., Bergene, A. C., Lillebø,
-O. S. & Vika, K. S. (2021). Lærerspesialistutdanningene belyst av fagansvarlige, lærere og
-skoleledere: Delrapport fra evalueringen av
-lærerspesialistordningen (1892-2597). Nordisk
-institutt for studier av innovasjon, forskning og
-utdanning NIFU.
-Løgstrup, K. E. (1993). Solidaritet og kærlighed og
-andre essays (2. udg.). Gyldendal.
-Machin, S., Marie, O. & Vujić, S. (2011). The
-Crime Reducing Effect of Education. The
-Economic Journal, 121(552), 463-484. https://
-doi.org/10.1111/j.1468-0297.2011.02430.x
-McIntyre, L. (2018). Post-Truth. The MIT Press.
-Madsen, O. J. (2025, 14.11.2025). «Dagens foreldre» er blitt det nye «ungdom nå til dags».
-Morgenbladet. https://www.morgenbladet.no/ideer/dagens-foreldre-er-blitt-det-nyeungdom-na-til-dags/10048651
-Magnuson, C. G., Jenset, I. S., Blikstad-Balas, M. &
-Brataas, G. (2025). Hvordan kan vi støtte elevene faglig ved bruk av strategiundervisning
-og moddelering? I M. Blikstad-Balas, C. P. Dalland & I. S. Jenset (Red.), God undervisning.
-Dette vet vi (s. 44-61). Universitetsforlaget.
-Magnusson, C. G., Luoto, J. M. & Blikstad-Balas,
-M. (2023). Developing teachers’ literacy scaffolding practices—successes and challenges in
-a video-based longitudinal professional
-development intervention. Teaching and
-teacher education, 133, 104274. https://
-doi.org/https://doi.org/10.1016/
-j.tate.2023.104274
-Mangen, A. (2010). Når tekster blir digitale, hva
-skjer da med leseforståelsen. Spesialpedagogikk, 75(4), 24.
-Mangen, A. & Baron, N. S. (2025). Student perceptions and practices when reading in print and
-digitally. I The reading lives of teens.
-Mark, G. (2022). Multitasking in the digital age.
-Springer Nature. https://doi.org/https://
-doi.org/10.1007/978-3-031-02212-8
-Markussen, S. & Røed, K. (2023). The rising influence of family background on early school performance. Economics of Education Review, 97,
-102491. https://doi.org/https://doi.org/
-10.1016/j.econedurev.2023.102491
-
-349
-
-Litteraturliste
-
-Martin-Martinez, C., Valenzuela, P. L., MartinezZamora, M. & Martinez-de-Quel, Ó. (2023).
-School-based physical activity interventions
-and language skills: a systematic review and
-meta-analysis of randomized controlled trials.
-Journal of Science and Medicine in Sport,
-26(2), 140-148. https://doi.org/https://
-doi.org/10.1016/j.jsams.2022.12.007
-Martinez, A. S., Hagen, J. P., Bjuland, K. J., &
-Scheiene, M., Bang, L., Aase, H., Havdahl, A.
-(2025). Tidstrender i forekomst av autismediagnoser. Folkehelseinstituttet. https://
-www.fhi.no/contentassets/
-b5b3603ec4794c5cb0c8651589b359f8/temautgave-barn-og-unges-psykiske-helse_2025.pdf
-Mathé, N. E. H. & Christensen, A. S. (2024). Show
-and tell: scaffolding practices in lower secondary social science classrooms. Journal of Curriculum Studies, 1-20. https://doi.org/10.1080/
-00220272.2024.2378315
-Mathiesen, I. H. (2022). Balansekunst: Skolens
-rådgivning i møter mellom kontekstuelle, relasjonelle og politiske forventninger. (UiS PhD
-Thesis. Universitetet i Stavanger.
-Mausethagen, S. (2015). Læreren i endring? : om
-nye forventninger til lærerprofesjonen og
-lærerarbeidet. Universitetsforl.
-Mausethagen, S., Shavard, G., Knudsmoen, H.,
-Lorentzen, M. & Osland, O. (2019). Regelverketterlevelse i grunnopplæringen. OsloMet.
-https://files.nettsteder.regjeringen.no/
-wpuploads01/blogs.dir/279/files/2019/02/
-Regelverksetterlevelse-i-grunnoppl%C3%A6ringen.pdf
-McLuhan, M. & Fiore, Q. (1967). The medium is
-the message. Penguin.
-McTigue, E. M., Schwippert, K., OUppstad, P. H.,
-Lundetræ, K. & Solheim, O. J. (2021). Gender
-differences in early literacy: Boys’ response to
-formal instruction. Journal of Educational Psychology, 113(4).
-Medietilsynet. (2026). Fanget i feeden. Barn og
-unges bruksmønstre i sosiale medier. https://
-www.medietilsynet.no/fakta/rapporter/barnog-medier/2026/fanget-i-feeden-1/
-Meehan, L., Pacheco, G. & Schober, T. (2023).
-Basic Reading and Mathematics Skills and the
-Labour Market Outcomes of Young People:
-Evidence from PISA and Linked Administrative
-Data. Economic Record, 99(327), 473-491.
-https://doi.org/https://doi.org/10.1111/
-1475-4932.12755
-Meier, J. & Nielsen, K. (2023). Individualiseringens janushoved. Nordisk tidsskrift for ung-
+## Samarbeidet mellom skolen og den organiserte fritiden
+
+### Gjensidig samarbeid til barn og unges beste
+
+Som nevnt står ikke skolen alene i sin helsebringende og forebyggende funksjon i samfunnet. Vi antar at dette er noe av bakgrunnen for at utvalget er bedt om å vurdere hvordan skolen kan samarbeide med andre aktører. I vårt mandat står det blant annet at
+
+Endringer i samfunnet medfører nye krav, forventninger og utfordringer som skolen skal balansere i sitt brede dannings- og utdanningsoppdrag. Dette vil også stille krav til samarbeid med andre tjenester og aktører.
+
+Kunnskapsdepartementet, 2024b
+
+Både skolen og den organiserte fritiden er viktige felleskapsarenaer i barn og unges liv. Det er flere likhetstrekk mellom skolens brede mandat, slik det er beskrevet i overordnet del av læreplanverket og idrettens verdier og rettigheter for barneidretten. Trygghet, inkludering, mestring og medvirkning er eksempler på felles verdier.
+
+Tilsvarende verdifelleskap finner vi også mellom skolen og kultursektoren. For eksempel står det i rammeplanen for kulturskolen at den
+
+…bidrar til danning, til å fremme respekt for egen og andres kulturelle tilhørighet, til bevisstgjøring av egen identitet og til å utvikle evne til kritisk refleksjon.
+
+Kulturskolerådet, 2024
+
+Et annet eksempel er Norges musikkorpsforbund, som har trygghet, fellesskap, mestring og utvikling som verdier. I frivillig sektors samlede handlingsplan er målene blant annet å fremme inkludering, styrke sivilsamfunnet og bidra til FNs bærekraftsmål. Dette verdifellesskapet betyr at et godt samarbeid mellom skolen og frivilligheten, som for eksempel idretten eller kulturlivet, kan virke gjensidig forsterkende. Dermed vil et slikt samarbeid også kunne støtte opp om skolens rolle og funksjon i samfunnet.
+
+Den organiserte fritiden er en viktig fellesarena, men barn og unge fra ressurssvake hjem deltar sjeldnere og slutter tidligere i organiserte fritidsaktiviteter, enn sine jevnaldrende fra mer ressursrike hjem (Bakken, 2025). Et godt samarbeid mellom skolen og den organiserte fritiden vil kunne være med å utjevne disse forskjellene.
+
+Samtidig er det viktig å være klar over at det er vesentlige forskjeller mellom skolen og den delen av den organiserte fritiden som gjennomføres av frivillige organisasjoner. Skolen og lærerne er allerede tillagt et stort ansvar og har mange oppgaver. Forventinger om at skolene skal ta mer ansvar for å samarbeide med andre samfunnsaktører kan oppfattes som nok en oppgave som skolene må ta på seg, og som legger ytterlige press på skolen. Dermed har samarbeidet også en kostnadsside. Skoler kan i tillegg vegre seg for å informere og samarbeide med frivilligheten fordi deltakelse i aktivitetene koster penger, eller tilbudene kan ha aktiviteter med religiøs tilknytning (Frivillighet Norge, 2024).
+
+På den andre siden vil det åpenbart være gunstig at skolen tar i bruk ressurser i sine omgivelser. Det er derfor formålstjenlig at skolen og andre samfunnsaktører samarbeider på en måte som kan være til gunst for alle.
+
+Fra andre land finnes det flere eksempler på at organiserte fritidsaktiviteter er mer integrert i skolen. I flere land brukes *extracurricular activity* eller *extra academic activity* som begrep for aktiviteter (idrett, kultur) som organiseres av skolen, men som ligger utenfor det obligatoriske læreplanverket.
+
+Storbritannia har lang erfaring med et eget program *Extended Schools programme*, som gir økonomisk støtte til å tilby ekstra læringsstøtte, idrett- og fritidsaktiviteter i utsatte områder. I Norge har vi flere områdesatsinger, hvor skolene har inngått i et større samarbeid for å gi områder med spesielle utfordringer et løft til det bedre.
+
+Om områdesatsinger
+
+I en del byer og områder med opphoping av levekårsutfordringer har staten og kommunene avtalebaserte og langsiktige samarbeid gjennom områdesatsinger. Områdesatsingene innebærer en ekstra innsats for utvikling av tjenester og bedring av nærmiljøet i de levekårsutsatte områdene. Kommunene som deltar får tilskudd fra staten i avtaleperioden. Staten og kommunene har i dag avtaler om områdesatsinger i Oslo, Bergen, Drammen, Stavanger, Trondheim, Sarpsborg, Fredrikstad, Kristiansand Skien, Gjøvik, Halden, Indre Østfold, Larvik og Tromsø.
+
+Felles for områdesatsingene er at de skal bidra til en varig forbedring av tjenester og nærmiljøkvaliteter der behovene er størst. Det jobbes blant annet med å bedre resultater i grunnskolen, redusere frafallet i videregående skole og styrke folkehelsen.
+
+Områdesatsingen i Drammen skal bidra til å skape bedre bomiljø, inkluderende lokalsamfunn og gode oppvekstsvilkår for barn og unge på Strømsø.
+
+Områdesatsingen i Gjøvik har valgt to hovedgrep for satsingen i Hunndalen: Barn og unges oppvekst, gjennom bygging av ny skole, hall og uteområder. Mangfold og inkludering, gjennom nye former for tiltak og møteplasser.
+
+I Indre Østfold vil kommunen arbeide for å utvikle tiltak som utjevner forskjeller og øker livskvaliteten i Mysen. Oppvekst og utdanning er blant delprogrammene som er valgt ut.
+
+Kilde: Regjeringen.no «Områdesatsinger»
+
+Rammeslutt
+
+### Samarbeid med frivilligheten
+
+Vi har allerede omtalt betydningen av frivillig sektor under kapittelet om skolens forebyggende funksjon i samfunnet. Aktive frivillige organisasjoner har en stor verdi i det norske samfunnet. De styrker demokratiet og gir folk en bedre hverdag gjennom å legge til rette for inkludering og fellesskap. Et overordnet mål for frivillighetspolitikken har vært å øke deltakelsen i frivillig arbeid. Et grunnleggende prinsipp er frivillighetens selvstendighet. Det er ikke staten som skal sette mål for frivilligheten, men staten støtter frivilligheten økonomisk og gir forutsigbare rammer.
+
+Dersom samarbeidet mellom skole og frivillighet skal styrkes, bør det med andre ord gjøres på en måte som ikke går på bekostning av den ene eller andre, men som styrker dem begge.
+
+Røde Kors leksehjelp
+
+Røde Kors leksehjelp er et gratis tilbud til elever som ønsker eller trenger hjelp til skolearbeid etter skoletid. På Røde Kors leksehjelp møter frivillige for å hjelpe unge med skolearbeidet. De tilbyr hjelp i alle skolefag, og de frivillige har tid til å hjelpe på tomannshånd. Hver uke får elever over store deler av landet hjelp til lekser, med innleveringer, oppgaver og eksamensforberedelser. Røde Kors legger vekt på at leksehjelpen bidrar til å redusere ulikheter i utdanning. Tilbudet når ut til unge fra ulike samfunnslag og gir ekstra støtte til de som kanskje ellers ikke har tilgang til det.
+
+Røde Kors leksehjelp foregår på et sosialt sted som kalles *Fellesverket,* der engasjerte voksne også kan gi unge et innblikk i hva ulike yrker innebærer. Røde Kors leksehjelp fungerer dermed både som et faglig støtteprogram og som en arena for sosial samhandling og fellesskap. Ungdommer får hjelp fra erfarne frivillige og muligheten til å samarbeide og lære av hverandre. Tilbudet finnes i 17 byer med til sammen 20 aktivitetshus.
+
+Kilde: Røde Kors
+
+Rammeslutt
+
+### Samarbeid med idretten
+
+Ulike studier viser at ungdom som deltar i organiserte fritidsaktiviteter lykkes bedre i skolen enn ungdom som ikke deltar i slike aktiviteter. Det er en særlig positiv sammenheng mellom deltakelse i idrettslag og skoleprestasjoner. Idrettsungdom tar også oftere høyere utdanning enn ungdom som ikke driver med idrett. Den positive sammenhengen med skoleprestasjoner er sterkest for de som bruker relativt mye tid på idretten og som har vært med i et idrettslag over flere år (Sletten et al., 2015).
+
+Det kan være ulike forklaringer på den positive sammenhengen mellom å delta i idrettslag og prestasjoner i skolen. Det kan for eksempel skyldes hvilke barn og unge som deltar i idrett, og at de som finner seg til rette i idretten også finner seg til rette i skolen. Det kan også skyldes at selve aktiviteten eller miljøet rundt idretten gir ferdigheter og bygger relasjoner som også er nyttige i skolesammenheng (Sletten et al., 2015).
+
+Modellene *Aktive lokalsamfunn* i Asker og Drammen, og *Idrett-skolesamarbeidet* i Fredrikstad er gode eksempler på hvordan idrettslag kan være en strategisk samarbeidspartner for skolen i utviklingen av framtidens fellesskole. *Lekser, idrett, mat LIM-prosjektet* i Bergen er et annet liknende tilbud. Erfaringene viser at dette er skalerbare og fleksible modeller som ulike kommuner kan tilpasse lokalt. Framtidens fellesskole og idretten kan lære av hverandre. For eksempel kan det være behov for å styrke samarbeidet mellom skolen og foreldre med en annen språklig og kulturell bakgrunn enn norsk. Her kan skolen la seg inspirere av inkluderingsordninger i idretten.
+
+Eksemplene i boksene 13.7 og 13.8 illustrerer hvordan organisert idrett, gjennom strukturert samarbeid med skole og kommune, kan bidra til mer fysisk aktivitet, inkludering og helhetlige oppvekstmiljøer.
+
+Aktive lokalsamfunn
+
+*Aktive Lokalsamfunn* er en samarbeidsmodell mellom skole, kommune og lokale idrettslag. Aktive Lokalsamfunn organiseres som et forpliktende samarbeid mellom kommune og idrettsråd, der idrettslagene tar et utvidet samfunnsansvar i lokalmiljøet. Finansieringen bygger på et spleiselag mellom offentlig sektor, frivillighet og privat støtte, noe som gir økt bærekraft og forutsigbarhet i tilbudene.
+
+Tiltakene utvikles lokalt i samarbeid mellom den enkelte skole og idrettslag basert på behov, ressurser og ønsker. Det gjøres bruk av både skolens og idrettslagets arenaer. Det er gratis å delta og det er ikke krav til påmelding eller medlemskap. Aktivitetene inkluderer blant annet fysisk aktivitet i skoletiden, støtte til kroppsøving, aktivitetsdager, ferieaktiviteter og ulike lavterskeltilbud i nærmiljøet.
+
+Lønnede aktivitetsledere fra idrettslagene bidrar i skolens hverdag, på SFO og i fritidstilbudene. Skolen fungerer som en sentral rekrutterings- og informasjonsarena, og elevrådet blir ofte brukt som ressurs for å prioritere aktiviteter og gjøre tilbudet kjent for barna i målgruppen. FAU og foreldre kan delta som ressurser på aktiviteter etter skoletid.
+
+Kilde: Asker idrettsråd, 2026)
+
+Rammeslutt
+
+Aktivitetsguider i idretten
+
+Tromsø Idrettsråd etablerte i 2014 ordningen med *Aktivitetsguider*. Bakgrunnen var en erkjennelse om at mange barn med en annen språklig og kulturell bakgrunn enn norsk sto utenfor organisert idrett, ikke fordi de manglet interesse, men fordi veien inn kunne være vanskelig.
+
+Erfaringen fra idretten var at språk, kulturforskjeller, økonomi og manglende kunnskap om den norske idrettsmodellen (dugnad, klubbdemokratiet, kvinner og menns likestilte rolle, foreldretrenere mm.) var en barrierer for barnas deltagelse.
+
+Aktivitetsguider er kvinner og menn som har flyttet til Norge og har ervervet seg slik kunnskap. Aktivitetsguiden bygger broer til eksisterende fellesskap gjennom personlig og sosial støtte og kunnskap om praktisk informasjon om aktiviteter, innmelding, utstyr, økonomiske støtteordninger og kunnskap om foresattes rolle i idretten. Aktivitetsguidene lønnes for sin rolle og arbeidet med familiene.
+
+Fra å være et lokalt tiltak i Tromsø har ordningen spredt seg til en rekke kommuner og idrettsråd i Norge. Ordningen er utviklet og drives gjennom samarbeid med offentlige og private aktører, og gjennom prosjektmidler. I 2017 ble Aktivitetsguide også en egen ordning i *Tilskudd til inkludering av barn og unge* i Barne- ungdoms og familiedirektoratet.
+
+Kilde: Tromsø Idrettsråd, 2026
+
+Rammeslutt
+
+### Samarbeid med kulturlivet
+
+Alle kommuner skal ha et kulturskoletilbud til barn og unge, enten alene eller i samarbeid med andre kommuner (Opplæringslova, 2024, § 26-1). Kulturskolene gir et variert tilbud til barn og unge, hvor de for eksempel kan lære å danse, synge, spille instrument, male, spille teater osv.
+
+Omtrent 13 prosent av barn i alderen 6 til 15 år deltar i kommunale kulturskoler. Dette utgjør i underkant av 100 000 barn. De kommunale kulturskolene er på denne måten en viktig del av barn og unges organiserte fritid.
+
+Til forskjell fra de frivillige organisasjonene er kulturskolene organisert gjennom kommunene. Norsk kulturskoleråd, som er kulturskolenes medlemsorganisasjon, har laget en rammeplan for kulturskolen som beskriver mål, verdier og prinsipper for kulturskolen.
+
+Kulturskoletilbudet er organisert ulikt i kommunene. Strategien *Skaperglede – engasjement og utforskertrang* framhever at en del kommuner har potensial til å legge bedre til rette for samarbeid (Kunnskapsdepartementet, 2019b). Det kan for eksempel være en utfordring å se ansettelser i grunnskolen og kulturskolen i sammenheng. Dette kan særlig være utfordrende i kommuner hvor kulturskolen ikke er plassert i kommunens organisasjonsstruktur, eller hvor det er store fysiske avstander. Utvalget mener det er et potensial for mer bruk av kompetansen i kulturskolen i både grunnskolen og SFO.
+
+*Den kulturelle skolesekken* er en nasjonal ordning som formidler kunst og kultur til barn og unge. Den kulturelle skolesekken er et supplement til den vanlige undervisningen, og flere tusen kunstnere og kulturformidlere bidrar til ordningen innenfor blant annet film, kulturarv, scenekunst, litteratur, musikk og visuell kunst. Dette gjør at skolen er blant de største felles arenaene for formidling og opplevelser av kunst og kultur for barn og unge (Meld. St. 18 (2020–2021)).
+
+### Utvalgets anbefalinger om samarbeid med den organiserte fritiden
+
+Utvalget mener det er viktig at skolen som samfunnsinstitusjon samarbeider godt med andre samfunnsaktører, og at det er rom for å styrke dette samarbeidet. Et felles verdigrunnlag mellom skolen og frivillige organisasjoner gir et godt utgangspunkt for økt samhandling til barn og unges beste i framtiden. Et bedre samarbeid kan styrke både skolen og den organiserte fritidens mulighet til å møte utviklingstrekk som treffer begge. Som vist, finnes det en rekke gode eksempler på slik samhandling. Kommuner kan bruke disse eksemplene som inspirasjon til å etablere egne modeller for samarbeid mellom skolen og frivilligheten. For eksempel kan det hentes inspirasjon fra inkluderingsordninger i idretten, som Aktivitetsguider. Utvalget mener slike initiativ må starte lokalt og finne sine lokale løsninger, og utvalget har derfor ikke foreslått egne nasjonale tiltak på området.
+
+Utvalget viser til at våre forslag om en ny læreplan for de yngste elevene, og en utvidet og mer helhetlig skoledag for de yngste, vil legge forholdene til rette for videre utvikling av samarbeidet mellom skolen og den organiserte fritiden. Våre forslag om å styrke de praktiske estetiske fagenes posisjon i skolen vil også kunne virke positivt inn på samhandlingen mellom skolen og andre aktører i samfunnet som jobber med å fremme fysisk aktivitet, kunst og kultur, friluftsliv, samarbeidsevner og sivilt engasjement i befolkningen.
+
+Utvalget foreslår å
+
+- se til utredningens andre forslag som vil legge forholdene til rette for videre utvikling av samarbeidet mellom skolen og den organiserte fritiden
+
+## Framtidige endringer i skolestrukturen
+
+### Krevende vurderinger om skolestruktur
+
+Som nevnt i kapittel 4.3 er flere skolenedleggelser og skolesammenslåinger en sannsynlig konsekvens av den demografiske utviklingen. Skolestrukturprosesser er viktige for mange lokalsamfunn. Vedtak om skolenedleggelser har stor betydning både for ansatte, elever, lokalsamfunn og tilliten til lokale beslutningsprosesser. Utvalget anerkjenner at saker om endring i skolestrukturen er viktige og krevende. Samtidig er det trolig et spørsmål som mange kommuner og fylker vil stå overfor i framtiden.
+
+Utredningen som Telemarksforskning og Nordlandsforskning har gjennomført for utvalget viser at endringer i barnetall, gjennomsnittlig reiseavstand og tidligere endringer i skolestruktur påvirker sannsynligheten for å legge ned en skole i en kommune. Som omtalt tidligere har mer enn en av fem norske kommuner bare én kommunal skole igjen. Dette gjelder i særlig grad de minst sentrale kommunene. Mange har med andre ord allerede gjennomført så store endringer i skolestrukturen som de kan tillate uten å legge ned skoletilbudet i kommunen helt (Storm et al., 2026, Kap. 4).
+
+Framskrivningene tyder på at mange kommuner som har hatt vekst i barnetall fram til nå, får en nedgang de neste ti årene. En høyere andel av befolkningen i fertil alder bor i sentrale strøk. Man regner derfor med at det blir flere barn i sentrale strøk, og færre i distriktene framover. Men det er stor usikkerhet knyttet til utviklingen i barnetallene, og spesielt i de mest og de minst sentrale kommunene. Det er også forskjell om vi ser utviklingen i et 10- eller 20-års perspektiv. I enkelte kommuner hvor det ventes en nedgang i barnetallene de neste ti årene, er det senere ventet en vekst. Det gjelder spesielt i de mer sentrale kommunene.
+
+Argumentene *for* skolenedleggelser dreier seg hovedsakelig om økonomi, demografi, kvalitet, fagmiljø og utnyttelse av skolebygg. Dette er argumenter vi finner i politiske saker og utredninger, og de har det som kan kalles en kollektiv rasjonalitet. Argumentene *mot* skolenedleggelser dreier seg særlig om barns trivsel og trygghet, reisevei og hverdagslogistikk og skolens rolle i lokalsamfunnet. De har dermed en mer individuell rasjonalitet. Telemarksforskning og Nordlandsforskning beskriver et *forståelsesgap* mellom kommuneadministrasjonen og sivilbefolkningen (særlig foreldre) som gjør at begge sider opplever motpartens argumenter som illegitime eller uansvarlige. Saker om skolenedleggelser kan dermed framstå mer som en kamp om definisjonsmakten enn som en demokratisk arena for meningsutveksling. Det høye konfliktnivået gjør at skolenedleggelsessaker blir en slags *stresstest* for lokaldemokratiet (Storm et al., 2026, Kap. 7).
+
+Forskerne finner både positive og negative konsekvenser av skolenedleggelser og skolesammenslåinger for lokalsamfunn. Små lokalsamfunn er de som rammes hardest av en skolenedleggelse, men forskerne finner bare delvis støtte for bekymringene om redusert bostedsattraktivitet som følge av skolenedleggelser. Sannsynligvis er dette fordi skole bare er en av flere faktorer som har betydning for hvor familier velger å bosette seg. Forskerne finner samtidig at når elever begynner på nye skoler, kan det styrke det sosiale miljøet blant ungdom. Nye skoler kan virke som en samlende faktor i kommunen, bidra til å bedre levekårene og forbedre helhetsinntrykket av nærområdet (Storm et al., 2026, Kap. 11).
+
+Mange lokale hensyn må veies i beslutningsprosesser om endring av skolestruktur, og utvalget kan derfor ikke på generelt grunnlag ta stilling for eller imot skolenedleggelser. Nedenfor løfter vi imidlertid fram forskernes anbefalinger til hvordan slike prosesser kan gjennomføres for et best mulig resultat, uansett hvilket vedtak en kommune faller ned på.
+
+### Utvalgets anbefalinger og forslag knyttet til endringer i skolestruktur
+
+Anbefalinger til kommuner som vurderer endret skolestruktur
+
+En lærdom fra utredningen som utvalget har fått, er at måten prosessene gjennomføres på har stor betydning for legitimiteten, konfliktnivået og hvordan konsekvensene av endringer i skolestruktur oppleves. Forskerne bak rapporten kommer med tydelige anbefalinger til kommuner som vurderer endringer i skolestrukturen. Utvalget mener disse anbefalingene kan brukes som ledetråder i framtidige skolenedleggelsessaker (se boks 13.9). Samtidig er det viktig å understreke at gode prosesser i seg selv ikke løser de iboende dilemmaene og legitime interessekonflikter knyttet til skolestruktur.
+
+Forskningsbaserte anbefalinger til kommuner som vurderer endret skolestruktur
+
+Tidlig og tydelig problemforståelse
+
+Utredingen viser at konfliktnivået ofte øker i prosesser der behovet for endring oppleves som dårlig begrunnet eller brått presentert. En sentral anbefaling er derfor at kommuner og fylkeskommuner tidlig tydeliggjør hvorfor skolestruktur er på dagsorden, og hvilke demografiske, økonomiske og faglige utviklingstrekk som ligger til grunn. Når elevtallsutvikling og framskrivninger brukes som begrunnelse, bør kommunen kommunisere usikkerhet i prognosene på en åpen måte. Dette kan bidra til å redusere opplevelsen av at beslutninger er tatt allerede før dialogen starter.
+
+Reell og tidlig medvirkning
+
+Casestudiene i rapporten viser at medvirkning ofte oppleves som for sen og lite reell, særlig blant foreldre og lokalsamfunn. Rapporten gir dermed grunnlag for å anbefale at medvirkning må ligge til grunn på et tidlig stadium i prosessen, før hovedalternativer er låst. Dette innebærer å sørge for at ulike perspektiver faktisk får betydning for problemforståelse, utredning og vurdering av alternativer. Erfaringene i rapporten tilsier at sen og formell medvirkning bidrar til polarisering, mens tidlig involvering kan styrke opplevd demokratisk legitimitet, selv når vedtaket går imot lokale ønsker.
+
+Systematisk og etterprøvbar vurdering av barnets beste
+
+Utredningen viser at barnets beste-vurderinger ofte er for overordnede og lite konkrete. En sentral anbefaling er derfor at barnets beste vurderes mer systematisk og eksplisitt, med tydelig redegjørelse for hvilke konsekvenser ulike alternativer har for elevenes skolehverdag. Dette gjelder særlig for reisevei, overgang til større skolemiljøer og konsekvenser for ulike elevgrupper. Mangelfull dokumentasjon på dette punktet kan svekke vedtakenes rettslige og politiske legitimitet.
+
+Helhetlig vurdering av konsekvenser for lokalsamfunn
+
+Casestudiene viser at skolen ofte har en bredere funksjon enn et rent opplæringstilbud, særlig i mindre lokalsamfunn. Rapporten gir dermed grunnlag for å anbefale at konsekvenser for lokalsamfunn vurderes eksplisitt i skolestrukturprosesser. Dette innebærer ikke at hensynet til lokalsamfunn alltid skal være avgjørende, men at sosiale, kulturelle og symbolske konsekvenser synliggjøres som en del av beslutningsgrunnlaget. Der slike konsekvenser neglisjeres, viser rapporten at motstanden mot vedtakene ofte blir sterkere og mer langvarig.
+
+Realistisk vurdering av økonomiske gevinster
+
+Rapporten viser at forventede økonomiske innsparinger ofte er usikre, særlig på kort og mellomlang sikt. En viktig anbefaling er derfor at kommuner og fylkeskommuner er tilbakeholdne med å framstille skolenedleggelser som entydige økonomiske løsninger. Investeringsbehov i mottaksskoler, kostnader til skyss og midlertidige overgangstiltak bør inngå i beregningene. Det er viktig at økonomiske effekter framstilles på en måte som sikrer god troverdighet i beslutningsprosessene.
+
+Planlegging av overgangstiltak og avbøtende tiltak
+
+Casestudiene viser at overgangen etter en skolenedleggelse kan være krevende for elever, ansatte og lokalsamfunn. Dette gir grunnlag for å anbefale å planlegge overgangstiltak og avbøtende tiltak samtidig med selve strukturvedtaket. Tiltak som styrket oppfølging av elever, ekstra ressurser i mottaksskoler og tilrettelegging av skyss framstår i rapporten som viktige for å dempe negative konsekvenser, selv om de ofte er midlertidige. Manglende planlegging på dette området kan bidra til forsterket misnøye og opplevelse av tap.
+
+Langsiktig og helhetlig planlegging av skolestruktur
+
+Med utgangspunkt i analyser av demografisk utvikling og usikkerhet i framskrivninger, særlig på kommunenivå, vil forskerne anbefale å forankre prosesser om skolestruktur i helhetlige kommunale planer. Skolestruktur bør sees i sammenheng med langsiktige vurderinger av skoletilbud, oppvekstsvilkår og samfunnsutvikling, heller enn som enkeltstående tiltak utløst av kortsiktige økonomiske eller demografiske utfordringer. Rapporten viser at slike prosesser berører flere sektorer og politikkområder samtidig, og at manglende samordning kan bidra til økt konflikt og svekket legitimitet.
+
+Til slutt understreker forskerne betydningen av bred involvering av relevante aktører i planarbeidet. Tidlig og inkluderende deltakelse fra foreldre, ansatte, elever og lokalsamfunn kan bidra til sterkere forankring og en mer omforent forståelse av kommunens samlede utfordrings- og mulighetsbilde.
+
+Kilde: Storm et al., 2026, s. 179-180
+
+Rammeslutt
+
+Veileder for kommunenes arbeid med skolestruktur
+
+Som nevnt, tar ikke utvalget stilling for eller imot skolenedleggelser på generelt grunnlag. På den ene siden kan det være både faglig og økonomisk formålstjenlig å slå sammen eller legge ned skoler. På den andre siden kan det være tungtveiende forhold i det enkelte lokalsamfunnet som taler mot slike endringer. Nødvendigheten av, og mulige konsekvenser ved å endre i skolestrukturen, må den enkelte kommune vurdere basert på særtrekk ved kommunen. Utvalget mener at nasjonale myndigheter bør utarbeide en veileder til kommunene til bruk i arbeidet deres med skolestrukturen. Veilederen kan blant annet omtale hvordan en systematisk og etterprøvbar vurdering av barnets beste kan gjennomføres, og si noe om hva som er akseptabel skolevei og reisetid for ulike klassetrinn. Videre kan veilederen bygge på de forskningsbaserte anbefalingene vi har vist til over, blant annet om planlegging av overgangstiltak.
+
+Utvalget foreslår å
+
+- utarbeide en veileder til kommunene og fylkeskommunene til bruk i deres arbeid med skolestrukturen, basert på forskningsbaserte anbefalinger
+
+- framskaffe mer forskningsbasert kunnskap om kostnadsbildet, skolestørrelser, lærertetthet og sammenhengen mellom pengebruk og kvaliteten i skolen i Norge, spesielt sammenliknet med andre land
+
+## Skolens forberedelse til videre utdanning og arbeid
+
+### Framtidens kompetansebehov
+
+Den enkeltes kunnskaper og ferdigheter har stor betydning både for tilknytningen til arbeidslivet, for muligheten til å leve et godt liv og for å gi positive bidrag til samfunnet. En av utvalgets oppgaver er å svare på hva elevene trenger å lære for å leve gode liv i framtiden. Siden ingen kjenner framtiden, og vi ikke vet sikkert hvordan kompetansebehovene vil endres, er det vanskelig å gi presise svar på dette spørsmålet. Men basert på trender og framskrivninger, er det mulig å gi noen generelle svar og peke retning for framtidige kompetansebehov i samfunnet. Gjennomgangen nedenfor viser økt kompetansebehov på mange områder, i en tid med krevende demografisk utvikling. Fellesskolens rolle i å forebygge utenforskap fra arbeidsmarkedet blir derfor enda viktigere.
+
+Kompetansebehov innenfor helse og omsorg
+
+Helsepersonellkommisjonen beskriver en rekke framskrivninger[^35] som alle viser en stor økning i bemanningsbehovet i helse- og omsorgstjenestene, og stor forventet mangel på helsefagarbeidere og sykepleiere i framtiden (NOU 2023: 4, kap. 2). Kommisjonen mener befolkningen i framtiden i større grad må bli selvhjulpne, og at grunnopplæringen kan spille en rolle i å forberede til dette. Kommisjonen mener også at samhandlingen mellom videregående skoler, fagskoler, universiteter og høyskoler, kommunesektoren og spesialisthelsetjenesten blir sentralt i framtiden for å utdanne, rekruttere og beholde helsepersonell (NOU 2023: 4, Kap. 2).
+
+Kompetansebehov som følge av det grønne skiftet
+
+Forventede atferdsendringer blant kunder og brukere og økte nasjonale krav knyttet til klima og miljø, gjør at både næringslivet og offentlig sektor må omstille seg. Det grønne skiftet krever gjennomgripende endringer i samfunnet, med store konsekvenser også for utdanning og kompetanse (Kompetansebehovsutvalget (2023)). Overordnet vil det grønne skiftet innebære økt etterspørsel etter ingeniører, IKT-spesialister og fagarbeidere innen teknologi og håndverksfag.
+
+Det grønne skiftet vil i tillegg kreve endrede holdninger og stor oppslutning om omstillingen i befolkningen, noe skolen kan bidra til. Kompetansebehovsutvalget (KBU) anbefaler at realfag, naturfag og praktisk problemløsningsevne styrkes i grunnopplæringen, blant annet for å øke rekrutteringen til realfag og teknologifagene i UH-sektoren (Kompetansebehovsutvalget (2023), kap. 7.6.).
+
+Kompetansebehov som følge av teknologiutviklingen
+
+Den teknologiske utviklingen vil trolig gi økt behov for kompetanse innen IKT, ingeniører og annen teknisk kompetanse i framtiden. Det økte behovet for kompetanse innen teknologiske fag følger delvis av det grønne skiftet. For å dra nytte av den teknologiske utviklingen er det sannsynligvis behov for et enda høyere utdanningsnivå i befolkningen generelt. Den økte bruken av utenlandsk arbeidskraft med høyere utdanning (som IT-utviklere og andre teknologer) tyder på det. Teknologiutviklingen favoriserer i seg selv arbeidskraft med høy kompetanse. Ved hjelp av teknologi, robotisering og IT-løsninger blir jobber automatisert og rutineoppgaver flyttet fra merkantilt personell til kunder og brukere selv.
+
+Relativt høye lønninger og en sammenpresset lønnsstruktur gir norske virksomheter insentiver til å investere i ny teknologi som gir effektiviseringsgevinster. Det er også forventet at udekte oppgaver innen helse- og omsorg vil presse fram nye teknologiske løsninger (NOU 2023: 4, 2023). I tillegg vil trolig den geopolitiske uroen og utviklingen innen cybersikkerhet drive teknologiutviklingen framover. På toppen av dette kommer generativ kunstig intelligens, som vil kunne gi store endringer i både arbeidsoppgaver og kompetansebehov i framtiden (Kompetansebehovsutvalget (2023)).
+
+Behov for fagarbeidere
+
+Landet mangler fagarbeidere (Kompetansebehovsutvalget (2022); Kompetansebehovsutvalget (2023)). Norge er avhengig av faglært utenlandsk arbeidskraft for å dekke alle behovene i arbeidsmarkedet. De store økonomiene på kontinentet har også økte behov for utenlandske fagarbeidere, og Norge konkurrerer med andre land, spesielt i Vest-Europa, om den samme utenlandske faglærte arbeidskraften.
+
+SSBs siste framskrivninger viser en forventet mangel på arbeidskraft med videregående fagutdanning rettet inn mot industri, bygg og anlegg og håndverk, i tillegg til helsefagarbeidere og sykepleiere (Vigtel, 2024). Sett bort fra helse- og omsorgssektoren beregner også Nav at mangelen på arbeidskraft er størst innenfor varehandel og bygg- og anleggsnæringen (NAV, 2024).
+
+Kompetansebehov innenfor humaniora og samfunnsfag
+
+På tvers av de rapportene vi her bygger på, pekes det på at den typen kompetanse som er forbundet med humaniora- og samfunnsfagene blir nødvendig for å møte stadig mer komplekse utfordringer i samfunnet. Historisk og kulturell forståelse, systemtenkning og strategisk tenkning fra *HumSam-fagene* ses på som nødvendig for å kunne styre utviklingen, jobbe tverrfaglig med framtidens løsninger, reflektere over og håndtere teknologiutviklingen (inkl. KI). I tillegg må vi forstå og håndtere ulike samfunnstrender, som sosial ulikhet, migrasjon, falske nyheter, polarisering og sviktende tillit til institusjoner.
+
+### Lengden på opplæringsløpet bør beholdes som i dag
+
+Framtidens kompetansebehov springer på mange måter ut av de samfunnstrendene som vi har beskrevet i del 2 av utredningen. Utviklingen stiller høye krav til skolens innhold og støtte til elevenes faglige og sosiale utvikling gjennom skolegangen. Den vil i tillegg stille krav til en profesjonalisering av fellesskolen, slik vi har begrunnet andre steder i utredningen. De mange og store forventede kompetansebehovene i framtiden, og hensynet til de samfunnstrendene vi har beskrevet, danner bakgrunnen for utvalgets svar på mandatets siste spørsmål:
+
+Er omfanget av grunnopplæringen og lengden på utdanningsløpet hensiktsmessig, eller kan menneskelige og økonomiske ressurser brukes bedre?
+
+Kunnskapsdepartementet, 2024b
+
+Vi tolker spørsmålet slik at vi blir bedt om å vurdere en avkortning av skoleløpet i antall år (lengden) og/eller antall timer eller fag (omfanget).
+
+Utvalget mener lengden på utdanningsløpet bør beholdes som i dag. I lys av de utfordringene samfunnet står overfor, kan ikke svaret være mindre skole. Utvalget kan heller ikke se noen bedre måte å bruke offentlige ressurser på enn å fortsette å investere i fellesskolen. Det samfunnet eventuelt ville spare på å kutte ett skoleår, og eventuelt tjene ved å få folk raskere i arbeid, vil raskt gå tapt gjennom økte kostnader i samfunnet knyttet til ulike former for utenforskap, til et mindre velfungerende arbeidsliv og til et mindre konkurransedyktig næringsliv. Sagt på en annen måte: Bærebjelken vil svekkes.
+
+Utvalget vil heller ikke anbefale å *øke* lengden på skoleløpet, og ikke heller omfanget i særlig grad. Med unntak av forslaget om å integrere 12 timer SFO i skoledagen i uka for 1. og 2. trinn, foreslår vi ikke noen økninger av det samlede antall timer elevene har i løpet av et år. Utvalget begrunner dette med de svært høye kostnadene som er forbundet med slike utvidelser, at oppstartalderen for dagens studenter allerede er høy og at et lengre skoleløp ville forsinke de som skal ut i et allerede presset arbeidsmarked.
+
+Utvalget foreslår å
+
+- se omfanget av grunnopplæringen i lys av framtidens kompetansebehov og derfor beholde lengden på det 13-årige opplæringsløpet som i dag
+
+- ikke endre samlet antall skoletimer, med unntak av utvidelsen av skoledagen for 1. og 2. trinn
+
+### Samarbeid med arbeidslivet
+
+Del av samfunnsoppdraget
+
+På samme måte som ved samarbeid med frivilligheten og andre instanser, vil et godt samarbeid mellom skolen og det lokale næringslivet både kunne styrke skolens dannings- og utdanningsoppdrag, og forberede barn og unge på et framtidig arbeidsmarked. Arbeidslivet fungerer som en arena der elevene opplever at teoretisk kunnskap blir praktisk, hvor unge får bryne seg på virkelige oppgaver under veiledning og der terskelen for å mestre og lære ofte kan oppleves annerledes.
+
+Arbeidslivet må derfor ses på som en helt avgjørende medspiller til skolen, for at de unge skal få en reell og stabil tilknytning til arbeidsmarkedet. I lys av livslang læring og framtidens kompetansebehov, kan opplæring i skole og opplæring i arbeidslivet mer ses på som et helhetlig opplæringsløp, enn som to isolerte opplæringsområder (Rekdahl, 2022).
+
+For mange unge, og spesielt for de som trenger mer praktisk opplæring, er det behov for at kvalifisering og opplæring i større grad skjer direkte på arbeidsplassen. Læring skjer gjennom å gjøre ulike arbeidsoppgaver, og gjennom både uformell og planlagt opplæring i bedriftene. Denne type hverdagslæring gir de unge viktig realkompetanse,[^36] som de kan bygge videre på i senere utdannings- og karrierevalg.
+
+For å sikre fagarbeidere i framtiden er det dessuten avgjørende at arbeidsgivere tar ansvar ved å tilby nok læreplasser, slik at de unge får fullført utdanningen sin med et fag- eller svennebrev.
+
+Arbeidslivet har i tillegg et sterkt ansvar for å romme mangfoldet blant unge og ansette dem ut fra den arbeidsevnen de faktisk har. Gjennom et godt arbeidsmiljø og riktig tilrettelegging kan arbeidsgivere bidra til at unge får fotfeste, og forhindre at de støtes ut av arbeidslivet og over på helserelaterte ytelser. Dette inkluderingsansvaret deler arbeidslivet med skolen.
+
+Over redegjorde vi for framtidens kompetansebehov. For at skolene og utdanningene skal kunne forberede de unge på en god måte, må arbeidslivet være en tydelig og konstruktiv partner. Arbeidslivet må ha god *bestillerkompetanse*, det vil si evnen til å definere og sette ord på hvilken kompetanse virksomhetene har behov for på kort og lang sikt, slik at utdanningene får riktig innhold og høy relevans. Arbeidslivet står altså sentralt som både etterspørrer, bruker og tilbyder av kompetanse, og er dermed avgjørende for at skolen skal lykkes med sitt samfunnsmandat om å danne og utdanne.
+
+Ungt Entreprenørskap
+
+*Ungt Entreprenørskap* er en ideell landsomfattende organisasjon som tilbyr programmer i hele utdanningsløpet, fra grunnskole til høyere utdanning. Organisasjonen ble startet i 1997, og finansieres gjennom en kombinasjon av offentlige tilskudd og midler fra private samarbeidspartnere og sponsorer.
+
+Gjennom programmer som elevbedrift, ungdomsbedrift og studentbedrift får elever praktisk erfaring med å etablere, drive og avvikle virksomheter. Formålet er å utvikle elevenes kreativitet, initiativ og evne til verdiskaping, og å styrke koblingen mellom utdanning og arbeidsliv.
+
+Samarbeid, problemløsning, kreativitet, kritisk- og selvstendig tenking og refleksjon er sentrale elementer i programmene, som spenner over temaer som entreprenørskap, jobbtrening og personlig økonomi.
+
+Evalueringer har vist at Ungt Entreprenørskap tilbyr programmer med høy kvalitet og i stort omfang. Over 150 000 elever deltar årlig i programmene. Evalueringene tyder på at å delta i programmene øker elevenes trivsel og motivasjon i skolen, og gir større interesse for å starte egen virksomhet.
+
+Kilder: Johansen, 2018; Ovesen et al., 2011; Ungt Entreprenørskap, 2026
+
+Rammeslutt
+
+Et vesentlig, men krevende samarbeid
+
+Skolen har stort utbytte av samarbeidet med arbeidslivet. Når elever får jobbe med reelle problemer for en ekte arbeidsgiver, kan de oppleve økt motivasjon, økt innsats og en følelse av at skolearbeidet betyr noe for samfunnet (Kostøl & Braathen, 2026).
+
+For bedriftene er behovet for å rekruttere framtidens fagarbeidere og lærlinger en viktig drivkraft for samarbeidet med skolene. Arbeidsgivere understreker at de legger vekt på kompetanser som motivasjon, lærevilje, punktlighet og evnen til å samarbeide med kollegaer vel så mye som formelle skolekarakterer i ansettelsesprosessen.
+
+Gjennom læretiden og utplasseringer tar bedriftene et stort ansvar for å sosialisere ungdommene inn i yrkeslivet. Dette innebærer ikke bare å lære bort fagspesifikke håndverk, men å la unge mennesker ta del i et praksisfellesskap, lære seg arbeidslivets normer og få en trygg, profesjonell fagidentitet (Skålholt et al., 2024; Solberg et al., 2026). Selv med dette tydelige gjensidige utbyttet mellom skole og arbeidsliv, har forskningen pekt på flere faktorer som gjør samarbeidet krevende. Utfordringene er sammensatte og berører alt fra grunnleggende kulturforskjeller til strukturelle hindringer.
+
+Skolene har et samfunnsmandat om å gi en helhetlig og bred opplæring som ruster elevene for hele arbeidslivet. Bedriftene på sin side ønsker seg ofte kortere, mer spissede utdanningsløp som svarer direkte på deres akutte behov for produksjonskraft. Det blir en krevende balansegang for skolene å innfri bedriftenes krav om spisskompetanse uten å gå på bekostning av utdanningens overordnede rammevilkår og kvalitet. I mange yrkesfag er inntrykket at kunnskapsbasen over tid har blitt mer akademisert, noe som skaper en kulturell avstand mellom skole og bedrift (Høst et al., 2024; Rekdahl, 2022).
+
+Et eksempel på en *strukturell hindring* ligger i det at skoleeiere og skoler ikke har noen styringsrett over bedriftene. Dette gjør at alt samarbeid baserer seg på arbeidslivets frivillighet. Ansvaret for å opprette og vedlikeholde kontakt med bedrifter faller ofte på den enkelte lærer, et arbeid som lærere opplever som tidkrevende og sårbart fordi det blir personavhengig. Sett fra skolens side er utfordringen spesielt stor i bransjer hvor det mangler overordnede bransjeorganisasjoner som skolene kan støtte seg til (Høst et al., 2024; Rekdahl, 2022).
+
+Sett fra arbeidslivets side, er et eksempel på en *kulturell hindring* at foreldrene og skolen ikke forbereder elevene godt nok på det virkelige arbeidslivet. Flere bedrifter uttrykker bekymring over at ungdom i dag mangler grunnleggende praktisk forståelse og generell erfaring med å jobbe. De peker på utfordringer med lavere arbeidsmoral, manglende evne til å tåle ubehag, økt fravær, og at lærlinger har konsentrasjonsvansker og lar seg distrahere av mobiltelefoner i arbeidstiden. Dette gjør at bedriftene må bruke betydelig mer tid på sosial oppfølging enn tidligere (Skålholt et al., 2024).
+
+Det kan også oppstå gnisninger når lærere og bedriftsinstruktører skal samarbeide om å vurdere elever. Skolen har tradisjon for å vurdere etter formelle læreplanmål. Arbeidslivet derimot, vurderer ut fra hvem som vil fungere i et arbeidsmiljø. De nedprioriterer ofte fagspesifikke karakterer og vektlegger heller sosial kompetanse, punktlighet, motivasjon, og om eleven passer inn i bedriftskulturen (Rekdahl, 2022; Solberg et al., 2026).
+
+### Utvalgets anbefalinger om et styrket samarbeid med arbeidslivet
+
+Som nevnt i innledningen til denne utredningen, pågår det nå et omfattende utviklings- og utredningsarbeid om innhold og struktur i videregående opplæring i regi av Utdanningsdirektoratet. Innledningsvis slo vi også fast at fagopplæring i bedrift faller utenfor utvalgets utredning og forslag. På denne bakgrunn har utvalget valgt å legge mindre vekt på tema som berører videregående opplæring særskilt, og vi har ikke laget en omfattende liste over tiltak som kan bedre samarbeidet mellom (i hovedsak) videregående skoler og arbeidslivet. Vi har imidlertid merket oss det forskning har pekt på som suksesskriterier for et slikt samarbeid (se f.eks. Høst et al., 2024; Kostøl & Braathen, 2026; Rekdahl, 2022; Skålholt et al., 2024; Solberg et al., 2026). I lys av utviklingstrekkene vi har pekt på i utredningens del 2, ser vi behovet for et styrket samarbeid mellom skolen og arbeidslivet i framtiden. Vi vil derfor peke på noen av disse suksesskriteriene her. De peker også tilbake til det vi tidligere har anført om viktigheten av profesjonaliseringen i skolen og om utviklingen av elevers problemløsningsevner og sosioemosjonelle utvikling.
+
+Faste fagråd
+
+Faste fagråd eller bransjeråd har vist seg å være en sentral suksessfaktor. I disse rådene møtes skoleledelse, lærere og representanter fra arbeidslivet jevnlig for å diskutere opplæringens innhold, vurdere læreplaner og avklare bransjens framtidige kompetansebehov. Slik dialog gjør at premissene for samarbeidet i større grad er avklart på forhånd. Skolemyndighetene og arbeidslivets representanter bør legge godt til rette for denne type dialog også i framtiden.
+
+God kontakt og delte stillinger
+
+Skolemyndigheter og skoleledere bør legge forholdene til rette slik at lærere får tilstrekkelig tid til å reise ut og besøke elevene jevnlig mens de er i praksis og lære. Dette bygger tette relasjoner mellom lærere og bedriftsinstruktører, samtidig som lærerne får oppdatert seg på moderne utstyr og bedriftskultur. Et mulig tiltak er å samarbeide om karaktersetting fordi det tvinger fram en dialog som forener skolens læreplanfokus med bedriftens vektlegging av praktiske ferdigheter. Et annet mulig tiltak er å ansette lærere i delte stillinger, slik at de kan jobbe aktivt ute i bransjen ved siden av undervisningen. Dette sikrer at skolen alltid har fersk og oppdatert kompetanse fra yrkesfeltet, noe som er spesielt viktig i de bransjene som i størst grad preges av den raske omstillingstakten i samfunnet.
+
+La elever øve problemløsning i reelle oppdrag
+
+Elever, også på studiespesialisering, bør få løse reelle oppdrag for lokale bedrifter eller etater. En god modell er at bedriften gir skolen en faktisk problemstilling som de jobber med, for eksempel planlegging av fossilfri transport for Ruter, eller produktutvikling og markedsføring mot *Generasjon Z* for Orkla. Dette tiltaket gir en gjensidig gevinst. Elevene opplever økt mestring, innsats og motivasjon fordi skolearbeidet føles ekte og meningsfullt. Bedriftene på sin side får verdifulle innspill, samtidig som de får bygget omdømme og presentert seg som en framtidig arbeidsplass.
+
+Tren på sosioemosjonell utvikling
+
+Skolene må i tillegg ta et større ansvar for å trene elevene i arbeidslivets uformelle normer før de skal ut i bedrift. Dette innebærer å jobbe eksplisitt med sosioemosjonelle ferdigheter som punktlighet, kommunikasjon, initiativ og sosiale ferdigheter, slik at bedriftene opplever at lærlingene er forberedt til arbeidslivet.
+
+### Skolens sertifiseringsfunksjon i framtiden
+
+Sluttvurderingen i skolen skal gi informasjon om elevenes kompetanse ved avslutningen av opplæringen basert på læreplanenes kompetansemål. Vitnemål og fagbrev er institusjonaliserte kompetansebevis som gir adgang til videre utdanning og posisjoner i arbeidslivet. Sluttvurderingen og kompetansebevisene utgjør kjernen i skolens sertifiseringsfunksjon.
+
+Skolens sertifiseringsfunksjon er viktig fordi den både skal ha, og den viser seg å ha, en allokeringsfunksjon i samfunnet ved at den sorterer elevene og lærerkandidatene på måter som påvirker deres videre livsløp og muligheter (se f.eks. Falch, 2010; Serediak & Helland, 2020; Ye et al., 2025). Det er derfor helt avgjørende at skolens sluttvurderinger gjennom standpunktkarakterer, eksamen og fag- og svenneprøver oppfattes som gyldige, pålitelige og rettferdige av samfunnet rundt skolen.
+
+Samtidig kan vi si at skolens sertifiseringsfunksjon er sårbar. Vi har tidligere i utredningen vært inne på hvordan KI kan bidra til å trekke i tvil elevenes læring. Når det blir mer krevende å fastslå i hvilken grad en prestasjon reflekterer elevens egen kompetanse, svekkes også vitnemålet som troverdig dokumentasjon.
+
+Tilliten til vitnemål og karakterer fra skolen vil påvirkes dersom like prestasjoner vurderes ulikt. Som nevnt tidligere i utredningen, gjør ulike formål og rammer for standpunkt og eksamenskarakterer at karakterene ikke nødvendigvis skal være like. Som nevnt i kapittel 5 anses standpunktkarakterene i dag som en viktig kilde til kunnskap om elevers læring fordi de reflekterer bredden og dybden i elevens læringsutbytte og fordi de gjenspeiler ganske godt elevens potensial i framtidig utdanning eller jobb. Store og systematiske avvik mellom standpunkt og eksamen kan likevel reise spørsmål om vurderingskvaliteten, dersom slike forskjeller også varierer systematisk mellom skoler over tid. Norske lærere har et sterkt tolkningsfellesskap og nasjonale kvalitetssikringsordninger gjør at vi kan oppnå rettferdig sluttvurdering med høy kvalitet. Det er likevel god grunn til å være oppmerksom på denne sårbarheten også i vårt system, hvor standpunktkarakterene har såpass stor innvirkning på vitnemålet.
+
+Sluttvurderingen må dessuten skille tydelig mellom ulike prestasjonsnivåer hos elevene for at den skal ha verdi som seleksjonsmekanisme. Mindre skiller vil kunne gi større utfordringer for arbeidsgivere og utdanningsinstitusjoner i deres videre sortering av kandidater til stillinger og studieplasser, og svekke verdien av vitnemålet som seleksjonsmekanisme. Dette understreker igjen viktigheten av et godt tolkingsfellesskap, slik at vitnemålene og fagbrevenes verdi som kompetansebevis opprettholdes.
+
+### Utvalgets anbefalinger om en styrket sertifiseringsfunksjon
+
+De utfordringene ved skolens sertifiseringsfunksjon som vi her har pekt på, gjelder for skolesystemer verden over. Utvalget mener at sårbarheten i skolens sertifiseringsfunksjon må tas på alvor slik at vi unngår at vitnemål og fagbrev fra skolen mister informasjonsverdi og legitimitet i framtiden. Tiltakene som utvalget har foreslått i kapittel 11 er relevant å minne om i denne sammenheng.
+
+Utvalget foreslår å
+
+- se skolens sertifiseringsfunksjon i lys av utredningens forslag om elevvurdering:
+
+  - sette ned en arbeidsgruppe bestående av representanter for lærerne og forskere, som ser på veien videre for underveis- og standpunktvurdering
+
+  - utrede videre anbefalinger fra Utdanningsdirektoratets Eksamensgruppe om ulike ordninger for eksamen som kan kompensere for ikke bestått vitnemål
+
+  - sørge for at alle skoler har tilgang til sikker nettleser i lærings- og vurderingssituasjoner
+
+## Avsluttende betraktning
+
+Regjeringen forventet en bred vurdering av skolens rolle og betydning i samfunnet og hva vi som samfunn trenger og forventer av skolen. Utredningen har vist hvilken bærebjelke skolen er i samfunnet. Den har også vist hvordan samfunnets prioritering av ressurser til skolen må stå i stil med samfunnets forventninger til hva skolen skal løse.
+
+Utvalgets forslag setter samlet sett retningen for å styrke både skolens utdanningsmandat og danningsmandat i framtiden. Forslagene vil bidra til at elevene utvikler autonomi, verdighet og handlingsevne i egne liv, at de utvikler evnen til ansvarlig deltakelse i samfunnet og at de kvalifiseres for arbeidslivet.
+
+For å ruste fellesskolen for framtiden, har vi foreslått endringer i skolens innhold, fremmet forslag for en økt profesjonalisering av skolen og pekt på tiltak som vil styrke skolens rolle i samfunnet. I utredningen har vi løftet fram mange hensyn og ambisjoner samtidig, uten å framheve enkelte tiltak eller områder som særlig prioriterte.
+
+Utvalgets anbefalinger peker derfor ikke ut enkelte prioriteringer *i* skolen, men foreskriver heller prioritering *av* skolen.
+
+Gitt at forslagene tas til følge, mener vi det vil sette skolen i stand til både å møte utfordringene knyttet til utviklingstrekkene vi har beskrevet, og til å snu den negative utviklingen i målbare resultater.
+
+Skolens utdannings- og danningsmandat er vevd sammen og utgjør et hele som kommer både den enkelte og samfunnet til gode. Fellesskolens betydning og legitimitet som samfunnsinstitusjon i framtiden er avhengig av å styrke begge sidene av dette brede samfunnsoppdraget. Utvalget mener at våre forslag samlet sett vil sette framtidens fellesskole i stand til å gjøre dette.

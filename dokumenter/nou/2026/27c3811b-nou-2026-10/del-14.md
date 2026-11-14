@@ -1,957 +1,274 @@
-# NOU 2026: 10, del 14 av 31 (side 168–178)
+# NOU 2026: 10, del 14 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 168]
-
-166
-
-Kapittel 7
-
-NOU 2026: 10
-Fellesskolen
-
-En rapport om rammefaktorers betydning for
-kunst og håndverksundervisningen, som ikke er
-en del av evalueringsprogrammet for fagfornyelsen, viser at lærerne rapporterer om dårlig økonomi til materialer og utstyr, og dårlige verkstedsforhold (Randers-Pehrson et al., 2023).
-
-7.8.4
-
-Kompetanse hos lærere i praktiske og
-estetiske fag
-For barnetrinnet stiller opplæringsloven krav om
-fordypning fagene norsk, samisk, matematikk og
-engelsk for å undervise i disse fagene. I dag er det
-ikke krav til relevante studiepoeng for å undervise
-i andre fag, for eksempel de praktiske og estetiske
-fagene på barnetrinnet, mens det er krav om 30
-studiepoeng for å undervise i disse på ungdomstrinnet. De siste årene har det særlig vært en tydelig økning i andelen lærere som oppfyller kravene
-til fordypning i disse fagene (Utdanningsdirektoratet, 2025c). Likevel er det mange som mangler
-studiepoeng i faget de underviser i. Det er flere
-uten relevant utdanning i faget de underviser i på
-barnetrinnet enn det er på ungdomstrinnet (Arnesen et al., 2023; Næss et al., 2023). Det gjelder
-særlig for de praktiske og estetiske fagene i
-grunnskolen.
-I fagene mat og helse og musikk mangler mer
-enn halvparten av lærerne som underviser i faget
-studiepoeng. I kunst og håndverk mangler noe
-under halvparten som underviser i faget studiepoeng. Tilsvarende tall for kroppsøving er 43 prosent. Mange skoler oppgir også at de særlig strever med å rekruttere lærere i praktiske og estetiske fag (Haugen et al., 2024).
-Det utdannes lærere med kompetanse i praktiske og estetiske fag i de fleste lærerutdanningene (Haugen et al., 2024). Det er også en egen
-lærerutdanning i praktiske og estetiske fag. Hele
-35 prosent av de som har en slik utdanning jobber
-utenfor skolesektoren (Gunnes et al., 2025). Det
-er grunn til å stille spørsmål ved hvorfor det er
-slik, når vi samtidig vet at mange lærere mangler
-studiepoeng i praktiske og estetiske fag og skolene sliter med å rekruttere lærere med denne
-kompetansen.
-Antallet lærere som har fått tilbud om videreutdanning i praktiske og estetiske fag har økt de
-siste årene, nær en dobling i årene 2023–2025
-sammenlignet med årene 2017–2022. Potten som
-er blitt satt av til videreutdanning i praktiske og
-estetiske fag i de årlige budsjettene er også blitt
-større de siste årene. I 2025 fikk 590 lærere god-
-
-kjent søknaden sin om videreutdanning i praktiske og estetiske fag (Utdanningsdirektoratet,
-2025l).
-Fra 2026 innføres det et nytt helhetlig system
-for kompetanse- og karriereutvikling for ansatte
-i barnehage og skole hvor videreutdanning for
-lærere i større grad skal kunne tilpasses lokale
-kompetansebehov. I 2026 er det satt av nærmere
-2,8 milliarder kroner til kompetanseutvikling for
-ansatte i barnehage og skole, hvorav i underkant
-av 980 millioner kroner er øremerket tilskudd til
-videreutdanning for ansatte i grunnopplæringen.
-I ny videreutdanningsordning er det skoleeier
-som skal vurdere hvor mange, hvem og innenfor
-hvilke fagområder ansatte skal få videreutdanning, herunder hvor mange som skal få videreutdanning i praktiske og estetiske fag. Utvalget
-kommer tilbake til dette i kapittel 11 og 13.
-
-7.9
-7.9.1
-
-Fleksibilitet og skolesupplerende
-tiltak
-
-Fleksibilitet i fag- og timefordelingen i
-grunnskolen
-Skolen skal legge til rette for en opplæring som
-ivaretar både fellesskapet og hver enkelt elev, slik
-at elevene får best mulig utbytte av opplæringen.
-Det skal skje gjennom variasjon og tilpasninger til
-mangfoldet i elevgruppen, ved å ta i bruk varierte
-læringsaktiviteter, læringsressurser, læringsarenaer og vurderingsformer (Utdanningsdirektoratet, 2026d). Dette er kjernen i prinsippet om tilpasset opplæring, som utvalget har forklart i kapittel 3.
-Som nevnt, kan kommunen bestemme at inntil
-10 prosent av timene i fagene på skolen kan flyttes
-til andre fag eller brukes til særskilte tverrfaglige
-aktiviteter.
-I tillegg kan kommunen omdisponere inntil 25
-prosent av timene som er fastsatt i det enkelte fag
-for enkeltelever. Kommunen kan ikke omdisponere timer for hele grupper av elever eller skoler
-innenfor denne ordningen. Omdisponeringen skal
-kunne føre til bedre måloppnåelse i fagene samlet
-sett for eleven, og krever ikke sakkyndig vurdering, men den enkelte elev eller forelder må samtykke til omdisponeringen. Omdisponeringen av
-timer forutsetter at eleven får opplæring i alle kompetansemålene i læreplanene for fag. Hvis eleven
-ikke skal få opplæring i alle kompetansemålene, må
-regelverket for individuelt tilrettelagt opplæring følges (Utdanningsdirektoratet, 2025b).
-
-[Side 169]
-
-NOU 2026: 10
-Fellesskolen
-
-7.9.2
-
-Alternative opplæringsarenaer og
-skolesupplerende tiltak
-Alternative opplæringsarenaer
-I noen tilfeller kan elever i større eller mindre del
-av skoletiden sin få opplæring på en alternativ
-opplæringsarena utenfor skolen og den ordinære
-opplæringen. Det kan for eksempel være i en
-bedrift eller på et gårdsbruk, eller andre arenaer i
-samarbeid med skolen. Hvis enkeltelever over tid
-tas ut av opplæringen i klassen for å delta på en
-alternativ opplæringsarena, må eleven ha et vedtak om individuelt tilrettelagt opplæring og en slik
-organisering må ha vært vurdert av PP-tjenesten.
-I tillegg må eleven og foreldrene samtykke. Skoleåret 2025/2026 deltar 2500 elever i alternative tilbud, og det har vært en økning de siste årene. Av
-disse er 75 prosent gutter. Alternative opplæringsarenaer er mest brukt på ungdomstrinnet (Utdanningsdirektoratet, 2025c).
-For noen elever vil det å få mer praktisk opplæring på en annen arena enn skolen kunne øke
-motivasjon, trivsel og følelsen av mestring. For
-noen vil dette kunne bidra til bedre læring og derfor være et viktig supplement til den ordinære
-opplæringen (Utdanningsdirektoratet, 2025k). En
-kunnskapsoppsummering viser at alternative
-læringstilbud generelt har høy voksentetthet og at
-elevene organiseres i små, heterogene grupper,
-noe som kan bidra til tett oppfølging, økt trygghet
-og gode relasjoner mellom elevene og de voksne
-(Arnesen et al., 2024). For eksempel viser forskning at opplæring i gårdsbruk som skolesupplerende tiltak, og bruken av smågrupper som dette
-innebærer, kan være et viktig supplement til inkludering i basisklassen. Dermed kan tilbudet ses på
-som en utvidelse av tiltak om tilpasset opplæring i
-fellesskolen (Arnesen et al., 2022).
-Samtidig har det også vært utfordringer med
-bruken av alternative opplæringsarenaer. Opplæring utenfor elevens vanlige klasse kan virke
-segregerende, og i tillegg har flere rapporter pekt
-på at oversikten over tilbudene er mangelfull, at
-tilbudet ofte ikke er godt nok forankret i et vedtak
-om individuell tilrettelegging og at andelen
-ansatte med formell pedagogisk kompetanse er
-langt lavere enn i ordinær grunnskole. I tillegg
-mangler tilbudet ofte sammenheng med det tilbudet eleven ellers får i skolen, og skolens involvering i elevenes opplæringstilbud på de alternative
-arenaene er ofte svak (Arnesen et al., 2024;
-Nordahl et al., 2018; NOU 2019: 23). På denne
-måten kan gapet mellom det eleven opplever på
-den supplerende arenaen og det som forventes i
-skolen, bli så stort at det reduserer muligheten for
-
-167
-
-Kapittel 7
-
-å oppleve mestring og få tilfredsstillende utbytte i
-skolen.
-Skolesupplerende tiltak
-Skolesupplerende tiltak er tilbud som kommer i
-tillegg til ordinær opplæring og gjennomføres av
-aktører utenfor skolen. De skal styrke elevenes
-muligheter til å nyttiggjøre seg opplæringen de får
-i skolen, men de er ikke del av elevens opplæring
-etter opplæringsloven eller privatskoleloven.
-Dette avgrenser skolesupplerende tiltak fra aktiviteter og støttetjenester som er utviklet og drives i
-regi av skolene. Kommunen eller private skoler
-har med andre ord ikke ansvar for de skolesupplerende tiltakene.
-Innsatsene kalles for skolesupplerende fordi
-formålet er at elevene skal bli bedre rustet til å ta
-imot den opplæringen de får i skolen. De som
-organiserer tiltakene samhandler ofte med skolene, for eksempel når det gjelder rekruttering,
-gjennomføring og oppfølging i etterkant. Eksempler på slike tilbud er Guttas Campus og Flyt
-(Kronprinsparets fond, 2026; Mekki, 2023). Felles
-for disse supplerende skoletilbudene er vektlegging av relasjoner, struktur, motivasjon og praktisk relevant læring, ofte i kombinasjon med tett
-oppfølging over tid.
-
-7.10 Den videregående fellesskolen
-Gjennomgangen av den historiske utviklingen
-viser hvordan elevers rett til videregående opplæring har blitt gradvis styrket. Med fullføringsreformen har man også fått ubegrenset rett til omvalg
-fram til man har oppnådd studie- eller yrkeskompetanse. Videregående opplæring er frivillig, men
-både lovverk og politiske målsettinger legger til
-grunn at flest mulig ungdommer skal delta i og
-fullføre videregående opplæring med studie- eller
-yrkeskompetanse. I dag deltar det store flertallet
-av ungdom i videregående opplæring. Høsten
-2025 hadde 97 prosent av elevene på 10. trinn
-direkte overgang til vg1 og 92 prosent av alle 16–
-18-åringer deltok i videregående opplæring.
-Videregående opplæring er en sentral fellesarena i samfunnet, slik som grunnskolen. Fellesskapet ivaretas blant annet av elementer som felles regelverk, læreplanverk og fellesfag.
-Læreplanverket har en felles overordnet del
-som gjelder for både grunnskolen og videregående opplæring. I tillegg bidrar fellesfagene til at
-elevene har mye felles innhold. Fellesfag er obligatoriske fag både på yrkesforberedende og studi-
-
-[Side 170]
-
-168
-
-Kapittel 7
-
-NOU 2026: 10
-Fellesskolen
-
-eforberedende utdanningsprogrammer, og tanken
-bak dem har blant annet vært å beholde allmenndannende elementer i den videregående opplæringen.
-Skolens danningsoppdrag er minst like viktig i
-videregående opplæring som i grunnskolen.
-Deler av både utdannings- og danningsoppdraget
-kan være enklere å oppnå når elevene har et høyere modenhetsnivå. Det er også på videregående
-at mange elever skal stemme for første gang.
-I Meld. St. 21 (2020–2021) omtales danningsoppdraget i videregående slik:
-VGO er den siste delen av utdanningssystemet
-som i stor grad er en felles arena. Elevene skal
-være selvstendige og kritiske tenkere, og
-lærerne må være åpne for kritiske spørsmål og
-uenighet. Lærerne og de videregående skolene
-må lage en arena som gjør at elevene får utøve
-demokrati og medborgerskap i større grad enn
-tidligere. I tillegg må lærerne bidra til et miljø
-der det legges til rette for et identitets- og
-meningsmangfold. Slik sett har lærerne et mandat som går utover det å utdanne elevene til
-videre studier og yrkesliv. De skal bidra til elevenes dannelse og bidra til å opprettholde, styrke
-og videreutvikle sentrale verdier som demokrati, kritisk tenkning og medmenneskelighet.
-Meld. St. 21 (2020–2021)
-
-7.10.1 Flere valgmuligheter og mer
-differensiering i videregående
-I overgangen til videregående opplæring får elevene langt større muligheter til å velge retning og
-fag ut ifra hva de interesserer seg for og ønsker å
-jobbe med eller studere videre. Den reelle valgfriheten påvirkes samtidig av faktorer som bosted,
-opptakskriterier og karakterer fra grunnskolen.
-Antallet søkere til yrkesfag har økt jevnt de
-siste årene. Skoleåret 2026/27 hadde 55 prosent
-av søkerne et yrkesfaglig utdanningsprogram
-som førsteønske. Det er en økning på 7 prosentpoeng siden 2016.
-På videregående kan elevene velge mellom 15
-utdanningsprogrammer, 10 yrkesfaglige og 5 studieforberedende. Høsten 2025 gikk 52 prosent av
-elevene i vg1 på et yrkesfaglig utdanningsprogram og 48 prosent i et studieforberedende.
-Utover i løpet øker spesialiseringen ytterligere.
-Innenfor hvert utdanningsprogram er det flere
-programområder, og det er over 200 lærefag
-innenfor de yrkesfaglige utdanningsprogrammene. De som går på et yrkesfaglig utdanningsprogram kan velge å bytte til påbygning til studie-
-
-forberedende for å oppnå generell studiekompetanse. Én av fire vg2-elever på yrkesfag valgte
-denne veien i 2025.
-Retten til plass på nærskolen gjelder ikke for
-videregående opplæring, og fylkeskommunen
-fastsetter forskrift som gir regler om inntak. Det
-er store geografiske variasjoner i elevsammensetningen på videregående skoler. Mange steder i
-landet er det få videregående skoler å velge mellom hvis man vil unngå lang reisevei eller flytte på
-hybel, og elevene fortsetter kanskje for en stor del
-å gå sammen med den samme elevgruppen som
-de gjorde i grunnskolen. Kombinerte videregående skoler som tilbyr flere utdanningsprogrammer kan i større grad fungere som en felles møteplass enn skoler med bare ett utdanningsprogram, selv om det i praksis kan være vanskelig å
-skape et felles skolemiljø og trekke veksler på
-elevmangfoldet.
-Et karakterbasert opptak kan også gjøre at
-noen elever vil møte en mer heterogen elevgruppe på videregående enn i grunnskolen fordi
-de forlater et mer homogent nabolag og møter elever fra et mer spredt geografisk område.
-Alt i alt bidrar likevel den sterke sammenhengen mellom karakterer og sosioøkonomisk
-bakgrunn, kombinert med differensiering i interesser og fagvalg, til at elevgrunnlaget på skolenivå
-blir mindre variert i videregående enn i grunnskolen.
-
-7.10.2 Overgang til og gjennomføring av
-videregående opplæring
-Meld. St. 34 (2023–2024) framhevet at overgangen
-til videregående opplæring er krevende for mange
-elever. Meldingen understreker fylkeskommunens ansvar for å ha et opplæringstilbud i overgangen for elever som mangler forutsetninger for å
-delta i eller gjennomføre videregående opplæring.
-Denne plikten er nå lovfestet i opplæringsloven
-(Opplæringslova, 2024, § 9-6). Loven gir fylkeskommunene betydelig handlingsrom når det gjelder hvordan overgangstilbudene organiseres,
-hvem som omfattes og hvilket omfang og innhold
-tilbudene skal ha.
-I tillegg har både kommuner og fylkeskommuner etter opplæringsloven § 9-7 mulighet til å tilby
-mer grunnskoleopplæring til dem som har fullført
-grunnskolen. Formålet med tilbudet er å gi ungdommer som trenger det bedre forutsetninger for
-å kunne fullføre den videregående opplæringen
-(Utdanningsdirektoratet, 2025e).
-Fylkeskommunen skal sørge for at elevene får
-en trygg og god overgang fra grunnskolen til
-
-[Side 171]
-
-NOU 2026: 10
-Fellesskolen
-
-videregående opplæring, og kommunen skal samarbeide med fylkeskommunen om overgangen
-(Opplæringslova, 2024, § 9-5). Det er nylig vedtatt
-en endring i opplæringsloven for å utvide adgangen til å dele informasjon om elevene ved skolebytter, som også gjelder for overgangen mellom
-grunnskolen og videregående skole. Bakgrunnen
-for lovendringen er blant annet å bidra til at den
-videregående skolen skal kunne ta imot elevene
-på en god måte, sette inn forebyggende tiltak,
-sørge for god klassesammensetning og avgjøre
-hvordan personalressursene skal fordeles mellom
-ulike klasser (Prop. 79 L (2025–2026), 2026).
-
-7.10.3 Nytt rammeverk for innhold og
-struktur i videregående opplæring
-Det er gjort få vesentlige endringer i innhold og
-struktur i videregående opplæring siden Kunnskapsløftet 2006. Som en del av oppfølgingen av
-fullføringsreformen er Utdanningsdirektoratet, på
-oppdrag fra Kunnskapsdepartementet, i gang
-med å utvikle et nytt rammeverk som skal erstatte
-dagens fag- og timefordeling. Bakgrunnen for
-oppdraget er at dagens regelverk oppleves som
-komplisert og lite fleksibelt og at skolene trenger
-et regelverk som er enklere å styre etter (Utdanningsdirektoratet, 2026i).
-Arbeidet inkluderer også fellesfagene i yrkesfaglige utdanningsprogrammer. Oppdraget er lagt
-opp som en omfattende prosess som skal pågå
-over flere år, med bred involvering i form av blant
-annet skolebesøk og dialogkonferanser.
-Målet med et nytt rammeverk for innhold og
-struktur, er å legge til rette for fordypning og valgfrihet og for at videregående opplæring skal
-kunne utvikles i takt med endringer i samfunnet.
-Oppdraget innebærer også å foreslå nye fag eller
-fagsammensetninger og nytt innhold til fagene. Et
-annet mål er å øke fleksibiliteten i fag- og timefordelingen slik at den kan ivareta en mangfoldig
-elevgruppe. Skolens brede formål om danning og
-utdanning ligger til grunn for arbeidet, og et
-grunnleggende premiss er at videregående opplæring skal bidra til at alle elever får et solid og
-dannende grunnlag, og at opplæringen skal støtte
-opp under demokrati og kritisk tenkning (Utdanningsdirektoratet, 2026i).
-Som en del av arbeidet er det også satt i gang
-et forskningsprosjekt i samarbeid med NIFU og
-Universitetet i Oslo. Forskningsprosjektet skal
-utrede hvilke utfordringer og behov som finnes i
-dagens struktur, og hvordan et nytt rammeverk
-best kan forberede en mangfoldig elevgruppe på
-
-169
-
-Kapittel 7
-
-Boks 7.6 Forsøk med nytt programfag i
-forskningslære og fordypningsoppgave
-Det er vedtatt et forsøk med nytt valgfritt programfag på Vg3 – forskningslære og fordypningsoppgave – som er spesielt utformet for å
-forberede elever på høyere utdanning. Faget
-skal gi elevene studieforberedende kompetanser og opplæring i vitenskapsteori, etikk, bruk
-av KI og argumentasjon. Alle skoler som tilbyr
-studiespesialiserende utdanningsprogram og
-melder seg på til forsøket kan delta. Faget
-utgjør 140 årstimer.
-
-videre studier og samfunns- og arbeidsliv. Den
-første delrapporten fra forskningsprosjektet gir
-blant annet en komparativ oversikt over videregående opplæring i Sverige, Norge og Danmark.
-Rapporten belyser også overgangene inn og ut av
-videregående opplæring i Norge ved hjelp av
-registerdata og kvalitative intervjuer (Arnevig
-Samuelsen et al., 2025). Delrapport 2 ser på betydningen av programstruktur og fagvalg i de studieforberedende utdanningsprogrammene for gjennomføring, høyere utdanning og valgdeltagelse
-(Ulvestad et al., 2026).
-Den andre delrapporten belyser hvordan valg
-av utdanningsprogram og programfag påvirker
-gjennomføring i videregående opplæring og deltagelse og fullføring av høyere utdanning. Rapporten
-viser at det er få forskjeller mellom de ulike studieforberedende utdanningsprogrammene når man
-tar hensyn til at elevsammensetningen er forskjellig. Påbygg til studieforberedende skiller seg likevel ut, med en lavere andel som fullfører videregående opplæring og dermed en lavere andel som
-begynner i høyere utdanning (Ulvestad et al.,
-2026). Analysene viser også at elever som velger
-realfag har litt lavere sannsynlighet for å fullføre
-videregående skole på normert tid enn elevene på
-språk, samfunnsfag og økonomi. Analysen peker
-på at realfagene kan være mer krevende som mulig
-årsak.
-Blant grunnskoleelevene med de 25 prosent
-laveste karakterene begynner bare 7 prosent på et
-studieforberedende utdanningsprogram. Av disse
-fullfører under 40 prosent etter seks år. Det er
-spesielt mange som stryker i matematikk og fremmedspråk. (Ulvestad et al., 2026).
-
-[Side 172]
-
-170
-
-NOU 2026: 10
-
-Kapittel 8
-
-Fellesskolen
-
-8
-Figur 8.1
-
-Kapittel 8
-
-Skolen er kompleks
-Skolen er en kompleks organisasjon, som skal
-oppfylle flere mål og forventninger samtidig. Skolen utsettes også for utviklingstrekk i samfunnet
-som påvirker forutsetningene for å gjennomføre
-oppdraget. Utvalget legger til grunn at denne
-kompleksiteten har sterke implikasjoner for hvordan skolen kan styres, ledes og utvikles:
-• Skoleledere, lærere og andre ansatte som
-utøver kjernevirksomheten i skolen må få stor
-grad av handlingsrom og fullmakter.
-• Skolen har behov for forutsigbarhet og stabilitet for å kunne utvikle kvalitet og utnytte ressurser effektivt.
-• Alle nivåer i skolesektoren har behov for et
-godt kunnskapsgrunnlag om tilstanden i skolen og skolens resultater. Kunnskapsgrunnlaget må bygge på en bred forståelse av skolens resultater, som også inkluderer skolens
-danningsoppdrag.
-• De profesjonelle partene i skolen må samarbeide om å utvikle kvaliteten i skolen. Selv om
-de ulike aktørene i skolen har ulike interesser
-og ansvar, har de et felles mål om å legge til
-rette for læring og trivsel for alle elever.
-
-8.1
-
-Skolens oppdrag er komplekst
-
-I kapittel 2 beskriver utvalget tre dimensjoner ved
-skolens oppdrag. Skolen skal gi elevene mulighet
-til å utvikle seg til selvstendige individer, sosialisere dem inn i større fellesskap og kvalifisere for
-videre utdanning og for arbeidslivet.
-
-Skolen er underlagt skiftende politiske prioriteringer. Målene og forventningene, slik de er
-uttrykt gjennom loven, læreplanverket og andre
-styringsdokumenter, er så omfattende at skolen
-kan bli nødt til å prioritere hva som skal tillegges
-størst vekt. Mål som i utgangspunktet ikke er i konflikt med hverandre kan komme i konflikt når ressursene er knappe, og tid vil alltid være en knapp
-ressurs i skolen. Spenningen mellom ulike mål og
-begrensede ressurser kommer til syne i innspillene
-utvalget har fått om risikoen for at danningsoppdraget blir nedprioritert når målbare resultater i
-blant annet lesing og matematikk går ned.
-Begrepene strategisk og teknisk oppdragsusikkerhet kan illustrere skolens komplekse oppdrag
-(Whitley, 2000). Strategisk oppdragsusikkerhet
-handler om hvorvidt det finnes et tydelig, konsistent og omforent målbilde for virksomheten. Teknisk oppdragsusikkerhet handler om i hvilken
-grad det er en entydig og godt forstått sammenheng mellom arbeidsprosesser og resultat.
-Den strategiske oppdragsusikkerheten i skolen kommer blant annet til syne ved at det er en
-rekke ulike forventninger til skolen og hva skolen
-skal bidra med, slik det blant annet kommer til
-uttrykk i formålsparagrafene og i overordnet del
-av læreplanen. Videre er det flere aktører, herunder sentrale og lokale skolemyndigheter, som
-påvirker prioriteringene i skolen, og det er vedvarende politisk uenighet om sentrale forhold i skolen.
-Den tekniske oppdragsusikkerheten i skolen
-handler blant annet om flertydige og komplekse
-
-[Side 173]
-
-NOU 2026: 10
-Fellesskolen
-
-sammenhenger mellom lærernes undervisning
-og elevenes læringsresultater. Elevenes resultater
-påvirkes av en rekke ulike forhold som ligger
-utenfor lærernes kontroll (Paulsen, 2011). Dette
-kan handle om forhold både i og utenfor skolen.
-Elevenes sosioøkonomiske bakgrunn er et
-eksempel på en faktor utenfor skolen som har
-sterk sammenheng med elevenes resultater.
-Andre utenforliggende faktorer kan være søvn,
-kosthold og fysisk og psykisk helse.
-Elevenes forutsetninger og motivasjon for
-læring varierer, og kan variere fra dag til dag.
-Andre forhold, som kommunenes ressurser eller
-tilgang til kompetanse kan også påvirke elevenes
-læring, gjennom det vi i kapittel 4, 10 og 12 beskriver som strukturkvalitet.
-Den tekniske oppdragsusikkerheten kommer
-for eksempel til syne når en lærer opplever at et
-undervisningsopplegg fungerer utmerket i en
-klasse, mens det samme opplegget mislykkes i en
-annen klasse.
-Kompleksiteten i skolen understrekes av at
-kommunene opererer under svært forskjellige
-betingelser. Et nasjonalt besluttet virkemiddel
-kan derfor få ganske forskjellige utslag i ulike
-skoler. Forskjeller mellom kommunene utdypes i
-kapittel 9.
-Skolen er et løst koblet system
-Skolen har ofte blitt beskrevet som et løst koblet
-system (Weick, 1976). Det som skjer i et løst
-koblet system styres sjelden av enkle vurderinger
-av årsak-virkning. Det er begrenset samsvar mellom formelle strukturer som mål, vedtak og planer på den ene siden, og arbeidsprosesser og
-resultater på den andre siden. Det er løs kobling
-mellom skolens formelle ledelsesstruktur og
-lærernes undervisning, som er den operative kjernen i skolen (Paulsen & Aas, 2022).
-Det er minst fire typer løse koblinger i skolen
-(Paulsen, 2011).
-1. Ujevn samhandling: For det første påvirker
-ikke delene i systemet hverandre kontinuerlig.
-Lærerne kan være frikoblet fra ledelsen i perioder, for så å bli koblet tett på når en spesiell
-hendelse inntreffer. Dette kan for eksempel
-være når skolen jobber med et spesifikt utviklingsprosjekt, som å styrke læringsmiljøet,
-styrke leseopplæringen, ta i bruk mer praktiske arbeidsmåter i fagene eller liknende.
-2. Uklare sammenhenger: For det andre preges
-skolen av uklare sammenhenger mellom virkemidler og effekter. Nye prosjekter, initiativer
-og strategier endrer ikke nødvendigvis praksis
-
-171
-
-Kapittel 8
-
-i klasserommet eller elevenes utbytte av undervisningen, noe som kan henge sammen med
-den tekniske oppdragsusikkerheten beskrevet
-over.
-3. Indirekte påvirkning: Den tredje typen løse
-koblinger handler om at elementene i systemet
-påvirker hverandre indirekte. Et eksempel er
-studier som peker på at skoleledere er viktig
-for å heve elevenes resultater, men at dette
-skjer indirekte gjennom endring av lærernes
-holdninger og deltakelse i profesjonelle fellesskap.
-4. Forsinket effekt: Den siste løse koblingen handler om at effekter av et tiltak blir synlig på et
-senere tidspunkt enn da tiltaket ble satt i verk.
-For eksempel kan det ta lang tid fra en endring
-i undervisningspraksis blir synlig i form av
-bedre læringsresultater. Dette gjør evaluering
-av effekter av tiltak krevende.
-
-8.2
-
-Ansvarsfordeling og samarbeid
-mellom aktørene i skolen
-
-Kompleksiteten i skolen forsterkes ved at den
-enkelte skole er en del av et større styringssystem
-hvor ulike aktører har ulike roller, ansvar og interesser.
-Den pedagogiske verdikjeden forutsetter tillit
-Relasjonen mellom kommunen, skoleleder, lærer
-og elev har blitt beskrevet som «den pedagogiske
-verdikjeden» (Paulsen & Forsmo Jenssen, 2023).
-Hovedpoenget med modellen, er at de ulike aktørene i verdikjeden er gjensidig avhengige av hverandre, og at det er den samlede innsatsen fra
-disse som skaper resultater og bidrar til å realisere skolens oppdrag (se figur 8.2). Forskning på
-styring og reform i skolesystemer viser at relasjonen og den gjensidige tilliten mellom leddene i
-styringskjeden er avgjørende for å lykkes med
-endringer i skolen.
-Skoler, skoleledere og lærere må forholde seg
-til et mangfold av styringsvirkemidler og styringssignaler i sitt arbeid. De må forholde seg til både
-nasjonale og lokale utdanningspolitiske prioriteringer. Disse er ikke nødvendigvis sammenfallende og kan skape manglende forutsigbarhet for
-skolen. At styringen kommer fra ulike nivåer og
-med ulike virkemidler, kan medføre at de som jobber i skolen opplever blandede styringssignaler.
-Skolene må også forholde seg til styringssignaler fra andre sektorer. En undersøkelse av
-departementenes arbeid med «laget rundt ele-
-
-[Side 174]
-
-172
-
-Kapittel 8
-
-NOU 2026: 10
-Fellesskolen
-
-Boks 8.1 Ulike aktører med ulikt ansvar
-Nasjonale skolemyndigheter ved Kunnskapsdeom sine skoler, de skal være en aktiv utviklingspartementet, Utdanningsdirektoratet og statspartner og de skal støtte skolene slik at de kan
-forvalterne skal iverksette nasjonale tiltak og
-ivareta sitt brede mandat. Kommunenes og fylden nasjonale skolepolitikken. Nasjonale mynkeskommunenes ansvar for opplæringen er
-digheter fastsetter og forvalter regelverket og
-utdypet i kapittel 9.
-læreplanverket for skolen. De skal stimulere til
-Skolelederne skal lede det faglige, administraat det utvikles praksisrelevant forskning av høy
-tive og pedagogiske arbeidet ved skolen, og det
-kvalitet som er tilgjengelig for sektoren. I tillegg
-faglige samarbeidet mellom lærerne. Skoleledeskal nasjonale myndigheter sørge for at proferen skal ha pedagogisk kompetanse, ta del i den
-sjonene får gode rammer for å utvikle god prakdaglige virksomheten og arbeide med utvikling
-sis, og stimulere og legge til rette for likeverdig
-av skolen. Ledelse og tilrettelegging av profesamarbeid med kommunene, lærernes og skolesjonsfelleskapene er en viktig del av skolelederledernes organisasjoner og lærerutdanningene.
-nes rolle. Skoleledernes rolle og ansvar er
-Kommunene har ansvar for at alle som bor i
-videre beskrevet i kapittel 10.
-kommunen får oppfylt retten til grunnskoleoppLærerne har ansvar for å planlegge, gjennomlæring i henhold til opplæringsloven. Fylkesføre og vurdere opplæringen i tråd med lærekommunen har tilsvarende ansvar for videregåplanverket. Lærerne har det faglige ansvaret for
-ende opplæring. Kommunene og fylkeskommuelevenes opplæring. Lærerne deltar i et profenene skal sørge for tilstrekkelige ressurser og
-sjonsfelleskap på skolen. Lærenes rolle og
-kompetanse i skolen, og de skal legge til rette
-ansvar er utdypet i kapittel 10.
-for kvalitetsutvikling. De skal ha god kunnskap
-
-ven» tyder på at når kommunene må forholde seg
-til ulike departementer med ulike sektoransvar,
-skapes det en siloorganisering som hindrer effektiv oppgaveløsning (Proba, 2023). Mange av innsatsene som er relevante for arbeidet med laget
-rundt eleven, oppfattes av kommunene som lite
-koordinerte og samkjørte fra departementenes
-side. Flere kommuner i undersøkelsen mente det
-er uheldig at det introduseres nye satsinger fra
-statlig hold, før de foregående er iverksatt. Det
-argumenteres ofte i faglitteraturen med at strategisk skoleutvikling krever 5–7 års målrettet
-arbeid (Paulsen & Forsmo Jenssen, 2023).
-De profesjonelle partene må samarbeide
-For at skolen skal kunne lykkes med sitt brede
-samfunnsoppdrag er det særlig fire profesjonelle
-parter som må samarbeide godt:
-• Nasjonale skolemyndigheter
-• Kommuner og fylkeskommuner
-• Lærernes og skoleledernes organisasjoner
-• Lærerutdanningene
-De ulike partene har ulikt ansvar, men deler et felles mål om at norske elever skal lære og utvikle
-seg i en trygg skole med god kvalitet. Den nordiske skolemodellen legger vekt på samarbeid
-
-mellom arbeidslivets parter og demokrati i
-arbeidslivet. Dette er en særegen styrke ved den
-norske skolen som må bevares og videreutvikles.
-Skoleledernes og lærernes organisasjoner
-samarbeider med nasjonale og lokale skolemyndigheter, og med hverandre også på skolenivå.
-Organisasjonene er både lønnstakerorganisasjoner som kjemper for medlemmenes arbeidsvilkår,
-og profesjonsorganisasjoner som jobber for faglig
-utvikling og kvalitet i profesjonssutøvelsen.
-Lærerutdanningene skal utdanne kommende
-lærere som både er kvalifisert til yrket og som er
-godt rustet til videre profesjonsutvikling gjennom
-hele yrkeslivet. Lærerutdanningene styrker læreprofesjonens kunnskapsgrunnlag og bidrar til
-kvalitetsutvikling i skolesektoren gjennom arbeidet med utdanningsforskning. De tilbyr også videreutdanning og deltar i partnerskap for å utvikle
-lærerprofesjonen gjennom kollektiv kompetanseutvikling (Borgen & Prøitz; Kunnskapsdepartementet, 2017a; Meld. St. 19 (2023–2024)).
-Det finnes flere samarbeidsarenaer
-Det finnes allerede etablerte samarbeidsarenaer
-for de fire partene, og utvalget vil understreke at
-det er viktig at partene fortsatt prioriterer og deltar aktivt på disse arenaene. Utvalget vil også
-
-[Side 175]
-
-173
-
-NOU 2026: 10
-Fellesskolen
-
-trekke fram samarbeidet mellom partene i oppfølgingen og utviklingen av et nytt kvalitetsutviklingssystem.
-I forbindelse med høringen av stortingsmeldingen om en mer praktisk skole (Meld. St. 34
-(2023–2024)), sto flere av partene sammen om følgende innspill:
-Partene diskuterer jevnlig utfordringer knyttet
-til kvalitetsutvikling sammen med de andre
-partene i skolesektoren. Som parter oppfordrer vi i fellesskap regjeringen til å jobbe videre
-sammen med oss for å konkretisere ambisjonen om et nytt og helhetlig system for kvalitetsutvikling. Et viktig ledd i dette arbeidet er å
-sikre pålitelig, relevant og nyansert styringsinformasjon til de ulike nivåene i sektoren, med
-god balanse mellom kilder som belyser ulike
-sider av skolens brede oppdrag om danning og
-utdanning. Dette må også omfatte kvalitativ
-informasjon. I den forbindelse ber vi regjeringen initiere en nasjonal satsing for å styrke
-arbeidet med og dialogen om kvalitet på alle
-nivåer.
-
-Stortinget, 2024
-
-Samarbeid kan være krevende
-Partssamarbeid i arbeidslivet er en lang og etablert tradisjon i Norge. I skolesektoren samarbeider arbeidsgiver- og arbeidstakersiden tett om
-lønn og om arbeidsvilkår. Nasjonale utdanningsmyndigheter er ikke en del av dette samarbeidet
-
-Kapittel 8
-
-etter at Bondevik II-regjeringen overførte forhandlingsansvaret for lærerne fra staten til kommunene og fylkeskommunene i 2004 (Seip, 2019).
-Det er viktig å understreke at de ulike organisasjonene representerer legitime særinteresser som
-åpner for interessekonflikter i samarbeidet. Dette
-gjelder særlig lønn og arbeidstidsavtaler.
-Selv om det har blitt jobbet aktivt med partnerskap mellom lærerutdanninger og skoler, kan
-målkonflikter være en underliggende utfordring.
-Det er også utfordrende å skape likeverd og
-balanse mellom deltakerne i partnerskapene mellom lærerutdanninger og skoler (Faglig råd for
-lærerutdanning, 2020a).
-Både lærerprofesjonen og skoleledelsen er
-avhengig av at sentrale og lokale skolemyndigheter, lærernes og skoleledernes organisasjoner, og
-lærerutdanningene samarbeider godt og støtter
-opp om skolenes utviklingsarbeid. Utvalget ser
-også at det ligger gode muligheter for et enda tettere samarbeid for å støtte skolene i å gjennomføre sitt samfunnsoppdrag.
-
-8.3
-
-Skolekvalitet og kvalitetsbegrepet
-
-Elevenes resultater i lesing, matematikk og demokratikunnskap har gått ned. Det har også vært en
-nedgang i trivsel og motivasjon over tid. Beskrivelsene av nedgang i læringsresultater og trivsel i
-kapittel 5 gir et viktig, men likevel avgrenset bilde
-på kvaliteten i skolen.
-
-Statlig
-politikk
-og styring
-
-Elevens
-familie og
-bakgrunn
-
-Skole
-miljøet
-
-Kommunal
-politikk,
-styring og
-ledelse
-
-Skolens
-ledelse
-
-Lærernes
-praksis
-
-Skoleledelsens
-profesjonelle
-utvikling
-
-Andre
-interessegrupper
-
-Klasseromsmiljø
-
-Figur 8.2 Den pedagogiske verdikjeden tilpasset norske forhold
-Kilde: Paulsen & Forsmo Jenssen, 2023
-
-Elevenes
-læring og
-læringsutbytte
-
-[Side 176]
-
-174
-
-Kapittel 8
-
-NOU 2026: 10
-Fellesskolen
-
-Skolen er som vist en kompleks organisasjon
-med et omfattende mandat. Den offentlige debatten og forståelsen av skolekvalitet legger derimot
-ofte vekt på de resultatene som kan måles.
-Når de målbare resultatene går ned, er det en
-risiko for at det settes i gang tiltak fra nasjonalt og
-lokalt nivå som ikke tar tilstrekkelig hensyn til
-skolens kompleksitet. Slike tiltak kan bidra til å
-skape ubalanse i skolens brede oppdrag.
-Utvalget mener gode tiltak i skolen må bygge
-på en nyansert forståelse av hva skolekvalitet er,
-og hva som er skolens resultater.
-Tre dimensjoner av kvalitet i skolen
-Kvalitet i skolen beskrives ofte ut fra tre underområder (NOU 2002: 10; NOU 2023: 27):
-1. Strukturkvaliteten beskriver de ytre forutsetningene for å drive skole. Det handler blant
-annet om lærernes formelle kompetanse, personaltetthet, elevgruppenes størrelse og sammensetting, fysiske forhold som bygninger og
-ressurser, bemanning, organisering og økonomi. Strukturkvaliteten påvirkes blant annet
-gjennom styringsdokumenter som regelverk
-og planverk.
-2. Prosesskvalitet viser til de indre aktivitetene i
-skolen. Det handler om hva som skjer i profesjonsfelleskapene, i klasserommet, om relasjonene i skolen og hvordan arbeidet organiseres.
-Prosesskvalitet kan for eksempel vise seg i
-samspillet mellom lærer og elev, i samspill mellom elevene, involvering av foreldre eller samspill med næringslivet.
-3. Resultatkvalitet er det man ønsker å oppnå med
-det pedagogiske arbeidet. Det handler om hva
-elevene har lært og hvilken kompetanse de har
-oppnådd. Resultatkvaliteten er knyttet til de
-overgripende målene i planverket og omfatter
-det helhetlige læringsutbyttet.
-De tre kvalitetsbegrepene utdyper bildet av den
-komplekse sammenhengen mellom tiltak og
-resultater i skolen. Begrepene viser også at ulike
-aktører har hovedansvar for ulike sider ved kvaliteten i skolen.
-Nasjonale og lokale skolemyndigheter har et
-hovedansvar for god strukturkvalitet. De må
-sørge for gode rammevilkår som gir skolene
-mulighet til å utføre samfunnsoppdraget. Kompetanse, bemanning og infrastruktur er forutsetninger for at skolen kan lykkes med oppdraget.
-Disse faktorene kan i stor grad styres, måles og
-påvirkes utenfra.
-
-Ansvaret for prosesskvaliteten må ligge tydelig hos profesjonene i skolen, lærerprofesjonen og
-skolelederne. Prosesskvaliteten er som vist preget av teknisk oppdragsusikkerhet og er vanskelige å måle eller styre utenfra. God prosesskvalitet
-forutsetter sterke profesjonsfellesskap og en profesjonell skoleledelse.
-Myndighetene kan definere hva som etterspørres av resultatkvalitet, for eksempel gjennom
-kvalitetsutviklingssystemet eller eksamensordninger. Resultatkvalitet påvirkes imidlertid av forhold
-både i og utenfor skolen, og det er derfor vanskelig å plassere et tydelig ansvar for resultatene. Når
-resultatene går ned, er ikke det nødvendigvis et
-uttrykk for at lærerne eller skolelederne gjør en
-dårlig jobb. Skolen rammes, som vist i del 2, av
-tunge utviklingstrekk som også påvirker elevenes
-læring og trivsel.
-Fra kvalitetsvurdering til kvalitetsutvikling
-Søgnen-utvalget, som beskrev grunnlaget for det
-nasjonale kvalitetsvurderingssystemet, vurderte
-at de tre kvalitetsområdene utgjør et kvalitetshierarki der resultatkvaliteten er det overordnede
-målet, mens prosess- og strukturkvalitet er
-vesentlige forutsetninger for å oppnå god resultatkvalitet. Utvalget foreslo at det nasjonale kvalitetsvurderingssystemet skulle legge hovedvekten på
-resultatkvaliteten og elevenes helhetlige læringsutbytte (NOU 2002: 10).
-Formålet med kvalitetsvurderingssystemet
-skulle være å støtte arbeidet med kvalitetsutvikling på alle nivåer i skolen. Systemet ble utviklet
-over tid, og det består av ulike prøver, verktøy og
-datakilder. De mest kjente er nasjonale prøver,
-kartleggingsprøver, internasjonale undersøkelser, ståstedsanalysen, Elevundersøkelsen og statistikkverktøy.
-Det har vært ulike oppfatninger om kvalitetsvurderingssystemet, og enkelte av elementene
-har vært særlig omstridt. Spesielt har offentliggjøring av nasjonale prøver på skolenivå, kartleggingsprøver blant de yngste elevene og PISA-studiens påvirkning på utdanningssystemet, skapt
-mye debatt. Systemet har også blitt kritisert for
-manglende helhet og sammenheng (NOU 2023:
-27).
-I 2022 fikk Prøitz-utvalget i oppdrag å gjennomgå og komme med forslag til videreutvikling
-av kvalitetsvurderingssystemet. Utvalgets overordnede forslag var å utvikle et system som i
-større grad ivaretar hele kvalitetsarbeidet i skolen. De la vekt på at et nytt kvalitetsutviklingssys-
-
-[Side 177]
-
-NOU 2026: 10
-Fellesskolen
-
-tem i større grad må sidestille struktur-, prosess-,
-og resultatkvalitet, og ikke legge hovedvekt på
-resultatkvaliteten alene (NOU 2023: 27).
-Prøitz-utvalget la videre vekt på at kvalitetsutvikling må baseres på et kunnskapsgrunnlag fra
-alle de tre kvalitetsområdene, og gi større plass til
-kunnskaper og erfaringer fra elever og foreldre,
-og de som jobber i skolen.
-Stortingsmeldingen om en mer praktisk skole
-fulgte opp flere av anbefalingene fra Prøitz-utvalget, og Utdanningsdirektoratet videreutvikler nå
-flere av elementene i kvalitetsvurderingssystemet
-(Meld. St. 34 (2023–2024)).
-Resultatmålinger må tolkes med skjønn
-Målstyring og ekstern kontroll har klare begrensninger som styringsform for kunnskapsintensive
-organisasjoner (Paulsen & Aas, 2022). Det er
-vanskelig å måle sammenheng mellom innsats,
-prosess og resultat i skolen. Dette gjør det også
-krevende å bedømme om en bestemt skole gjør
-en god eller dårlig jobb. Målinger av resultater må
-derfor tolkes med betydelig skjønn. Styringen av
-skolen må også ta hensyn til den kulturelle konteksten og utdanningstradisjonen som skolen er
-en del av. Måling av læringsresultater er et forsøk
-på å få informasjon om elevenes faktiske læringsutbytte.
-Måling er viktig for styring av skolen, men
-innebærer en krevende balanse mellom presisjon,
-bredde og kostnader.
-Målet med utvalgets tiltak er ikke bedre resultater på tester som PISA, TIMSS og PIRLS i seg
-selv. Det ville vært en uakseptabel innsnevring av
-skolens formål. Samtidig vil flere av tiltakene som
-utvalget foreslår trolig gi bedre resultater som en
-bieffekt, fordi de styrker elevenes grunnleggende
-ferdigheter.
-Poenget er at tester må være måleverktøy,
-ikke mål i seg selv. Skolen trenger kunnskap om
-læring, men målingene kan også gi målforskyvning som påvirker og forstyrrer arbeidet. Dette
-synliggjør et dilemma ved testing og måling, kjent
-som Goodharts lov eller Campbells effekt (Campbell, 1979).
-Danning er en del av resultatkvaliteten
-Utvalget mener at det er behov for en bred forståelse av resultatkvalitet. Skolen har som tidligere
-vist flere formål. Danning og utdanning spiller
-sammen om å oppfylle skolens brede formål, men
-de to oppdragene kan også stå i spenning med
-hverandre.
-
-175
-
-Kapittel 8
-
-Dersom forståelsen av skolens resultater
-avgrenses til noen fag og ferdigheter som måles,
-er det en fare for at viktige deler av danningsoppdraget blir skjøvet til side. Det er en risiko for at
-de delene av skolen som ikke måles kvantitativt
-får mindre oppmerksomhet, og at dette kan bidra
-til en målforskyvning som snevrer inn skolens
-brede mandat. Dersom skolen også i framtiden
-skal ivareta danningsoppdraget, bør danning i
-større grad enn i dag anerkjennes som en del av
-skolens resultater, likeverdig med elevenes
-læringsresultater i fag og ferdigheter.
-For å fange opp skolens brede mandat, må vi
-også ta på alvor at vesentlige sider ved skolens
-resultater ikke kan, eller bør, måles. Danningsoppdraget handler om å gi elevene mulighet til å
-lære hvem de er og hvordan de skal leve sammen
-med andre. Hvordan skolen lykkes med dette oppdraget er vanskelig å fange opp i tall og statistikk.
-Danningsoppdraget er ikke lett å måle, men det
-betyr ikke at det er mindre viktig.
-Skolen er ikke bare en forberedelse for videre
-utdanning og arbeidsliv, men et sted der elevene
-lever sine liv hver dag. Barndommen og ungdomstiden har en egenverdi, og skolens resultater
-må derfor også omfatte elevenes opplevelser her
-og nå.
-
-8.4
-
-Polarisering og pendelsvingninger
-i skolepolitiske debatter
-
-Debatt og uenighet er en grunnleggende verdi i et
-demokrati og viktig for å drive samfunnsutviklingen framover. Samtidig mener utvalget at polarisering i skoledebatten, både i pedagogiske miljøer
-og samfunnet ellers, kan føre til sterke pendelsvingninger i skolepolitikken som er uheldig
-for utviklingen av skolen. Utvalget mener det er
-viktig at beslutningstakere forstår og tar hensyn
-til hvordan polarisering og pendelsvingninger
-påvirker styring og utvikling av skolen.
-Polarisering er en grunnleggende utfordring
-for all politikk. Polariserte debatter kan påvirke et
-samfunn i negativ retning og kan være skadelig
-for både menneskelige relasjoner og tillit til samfunnsinstitusjoner (Hartman et al., 2022). I skolesammenheng kan polarisering stamme fra polariserte debatter i samfunnet ellers, eller oppstå i
-mer interne pedagogiske diskusjoner. Konsekvensene av polarisert skoledebatt er uansett negativ.
-Sterke fronter kan lede til snevre perspektiver på
-kunnskap, læring og undervisning, og føre til
-sterke pendelsvingninger i politiske føringer. På
-sikt kan samfunnet miste tilliten til lærerprofesjo-
-
-[Side 178]
-
-176
-
-Kapittel 8
-
-NOU 2026: 10
-Fellesskolen
-
-nen og skolen som institusjon, og ansatte i skolen
-kan oppleve at deres kunnskap og synspunkter
-ikke blir hørt. Politiske diskusjoner om styring av
-skolen krever derfor særlig bevissthet om hvordan polarisering og pendelsvingninger kan virke
-negativt.
-Et eksempel på et polarisert tema er digitalisering av skolen. Norske myndigheter definerte tidlig digital kompetanse som en grunnleggende ferdighet i alle fag, og flere strategier har vektlagt
-betydningen av digital kompetanse og implementering av digitale enheter og læremidler (Kunnskapsdepartementet, 2023; Utdannings- og forskningsdepartementet, 2005). I nyere tid finnes det
-imidlertid mange eksempler på kritiske perspektiver, som at digitalisering av skolen ikke har ført til
-mer eller bedre læring for elevene, at lærerne
-ikke har fått tilstrekkelig kompetanseutvikling
-eller at skjermbruk fører til mer stillesittende
-læring. Digitalisering i skolen er imidlertid en del
-av en større samfunnstrend, og begreper som
-skjermtid eller skjermavhengighet kan komme til å
-brukes ukritisk uten at man skiller mellom
-læringsorienterte aktiviteter, som skriving på skolen, og fritidsaktiviteter som TV-titting, mobilbruk
-eller spilling på kveldstid. Likevel rammes skolen
-av den polariserte debatten, noe som kan overskygge mer nyanserte perspektiver på barn og
-unges oppvekstmiljø eller læreres pedagogiske
-handlingsrom.
-Et annet eksempel er debatten om læreplaner.
-Mens innholdsbaserte læreplaner beskriver
-undervisningens emner og aktiviteter, vil kompetansebaserte læreplaner beskrive elevenes forventede læringsutbytte. Mens noen mener at både
-innhold og undervisningsaktivitet bør styres
-detaljert for å sikre at lærerne bruker samme
-metode eller at elevene skal få like muligheter, vil
-andre mene at lokal frihet til å tilpasse til elevenes
-individuelle behov, gjør undervisningen mer relevant og bedre tilpasset elevenes behov (Sinnema,
-2016). For eksempel har Australia og Sør-Korea
-valgt mer sentralstyrte og innholdsorienterte
-læreplaner, mens Skottland og New Zealand har
-valgt åpne læreplaner som vektlegger lokalt handlingsrom og elevenes kompetanse. Læreplaner i
-mange land preges derfor av pendling mellom
-sentral styring på den ene siden og rom for lokalt
-skjønn på den andre. I land med sentralstyrte og
-innholdsorienterte læreplaner handler debatten
-om «stofftrengsel» og overfylte læreplaner, mens i
-land med kompetanse- eller læringsutbytteorienterte læreplaner problematiserer man mangelen
-på et felles innhold, og at elevenes læringsutbytte
-kan variere fra skole til skole (Sinnema, 2016).
-
-Et tredje eksempel på polarisering, er diskusjonen om hvordan forskning bør informere skolepolitikk og pedagogisk praksis. Debatten henger ofte sammen med sprikende meninger om
-hvilke undervisningsmetoder lærere bør anvende
-og hva slags vitenskapelig grunnlag de har. Særlig
-viktig her er debatter om begrepet evidensbasert
-praksis, som opprinnelig stammer fra medisinsk
-forskning, og som innebærer at faglige beslutninger skal baseres på best tilgjengelige evidens
-kombinert med klinisk ekspertise og brukerens
-behov og verdier. Best tilgjengelig evidens beskrives i «evidenspyramiden», en modell som skal
-illustrere styrken/generaliserbarheten i ulike
-typer forskningsbevis. Randomiserte kontrollerte
-forsøk (studier av sammenhenger mellom tiltak
-og effekt) og systematiske kunnskapsoppsummeringer (studier som systematisk identifiserer, kvalitetsvurderer og syntetiserer tilgjengelig forskning om et tiltak) rangeres høyt, mens casestudier
-rangeres lavt. Tilhengerne av evidensbasert pedagogisk praksis har argumentert for at systematisk
-forskning over tid vil kunne gi samme framgang
-som medisin har hatt, fordi alle tiltak i skolen vil
-testes og evalueres grundig før de tas i bruk (se
-f.eks. Slavin, 2002; Slavin, 2004). Kritikerne har
-derimot hevdet at evidensbasert praksis reduserer pedagogisk praksis til metodespørsmål og
-overser skolens andre formål og verdier (Biesta,
-2007; Biesta, 2010).
-Eksemplene over illustrerer hvordan polarisering kan føre til sterke pendelsvingninger i skolepolitikken. Slike svingninger underspiller videre
-kompleksiteten i å bruke forskning til å informere
-skolepolitikk, og kan ofte ende med et snevrere
-syn på hva god forskning og god bruk av forskning er. Styring av skolen bør derfor både søke å
-unngå polariserte fronter der det er mulig, og
-legge til grunn hvordan praksis i skolen også
-påvirkes av større samfunnstrender.
-Klok bruk av forskning (research literacy)
-Det er uheldig hvis polariserte debatter hindrer
-konstruktiv videreutvikling av skolen. Utvalget
-mener at klok bruk av forskning i politikkutforming og praksisutøvelse nettopp kan bidra til å
-unngå sterke fronter i skolediskusjonen, og for
-store pendelsvingninger i skolepolitikken. Forståelsen av hva som utgjør skolens forskningsmessige grunnlag må samtidig være bredere i utdanningsfeltet enn i medisin. Det må derfor bygges
-kapasitet i alle ledd av skolesystemet for å forstå
-og anvende ulike typer forskning.
+## Et trygt og godt skolemiljø
+
+Det følger av opplæringsloven at elevene har rett til et trygt og godt skolemiljø som fremmer helse, inkludering, trivsel og læring (Opplæringslova, 2024, § 12-2). Skolen skal ikke godta krenkende oppførsel, som for eksempel mobbing, vold, diskriminering og trakassering.
+
+Særlig om utforskebegrepet i læreplanen
+
+Som en del av arbeidet med fagfornyelsen, laget Utdanningsdirektoratet en liste med sentrale verb som læreplangruppene kunne bruke når de utformet kompetansemålene. Et av de mest sentrale verbene som brukes i læreplanene er *utforsking*. En kompetansebasert læreplan med læringsutbyttebeskrivelser innebærer at elevene skal gjennom fagspesifikke prosesser i fag der de kommer fram til svar og løser problemer. For å kunne delta i slike fagspesifikke prosesser må elevene ha kunnskap om et fagområde og de må kjenne et fags sentrale begreper og ideer. De må også ha kunnskap om sammenhenger innenfor faget. Det kan bety å prøve ut metoder, undersøke en sak fra flere sider, og kritisk drøfte og evaluere.
+
+For eksempel vil utforsking i matematikkfaget innebære å delta i matematiske samtaler med andre elever, dele, diskutere og sammenligne ulike strategier for matematisk problemløsning, og vurdere hvilke strategier som er mest effektive. Læreren orienterer elevene mot læringsmålet ved å bygge på elevenes tenking.
+
+I norskfaget kan utforsking innebære å lese og gjenlese en skjønnlitterær tekst for å se hvordan den inneholder flere lag av betydning, og hvordan elevene kan skape mening av disse betydningslagene for å tolke og forstå teksten.
+
+Å utforske i faget er derfor å forstå hvilke prosesser de ulike fagene anvender for å forstå. Å utforske kan bidra til at man gjennom testing og utprøving lærer seg hvilke strategier og metoder som er de mest effektive for de ulike prosessene. Dette handler altså om at vurdering av elevers læring ikke bare er orientert mot faglige produkter og prestasjoner, men også at de er i stand til å delta i eller gjennomføre individuelt de faglige prosessene som kjennetegner fagene.
+
+Rammeslutt
+
+Begrepet skolemiljø i opplæringsloven omfatter både det fysiske og det psykososiale miljøet på skolen, og begrepet favner også det vi kan omtale som læringsmiljø. I overordnet del av læreplanverket er begrepet læringsmiljø omtalt slik:
+
+Skolen skal utvikle inkluderende fellesskap som fremmer helse, trivsel og læring for alle. Et raust og støttende læringsmiljø er grunnlaget for en positiv kultur der elevene oppmuntres og stimuleres til faglig og sosial utvikling. Føler elevene seg utrygge, kan det hemme læring.
+
+Kunnskapsdepartementet, 2017b
+
+### Et trygt og godt skolemiljø er viktig for trivsel, utvikling, læring og felleskap
+
+Å ha det trygt og godt på skolen handler om mye mer enn fravær av mobbing og utestenging. Et trygt og godt skolemiljø er et inkluderende miljø som elevene kan lære, trives og utvikle seg i. En ny rapport om elevenes trivsel og skolemiljø viser at trivsel i skolen i stor grad skapes gjennom gode sosiale relasjoner, særlig vennskap og tilhørighet, som også beskytter mot mobbing (Høydal et al., 2026). Relasjonen til lærerne er avgjørende både for elevenes faglige opplevelser og for trivsel knyttet til mestring og læring. Rapporten viser videre at skoletrivsel henger nært sammen med elevenes liv utenfor skolen.
+
+Ekstremismekommisjonens utredning fra 2024 peker på at det er viktig med trygge rammer rundt det å være uenig og løse konflikter, og for at ulike holdninger og oppfatninger kan komme fram. Kommisjonen snakket med ungdom som mente det var viktig å få mulighet til å være uenige og å diskutere (NOU 2024: 3). På skolen skal elevene lære å møte utfordringer og delta i diskusjoner i tråd med demokratiske prinsipper, og de skal øve seg på å argumentere og kunne forholde seg til spørsmål det er uenighet om. For at skolen skal kunne være en arena der elevene møter demokratiet i praksis, krever det at elevene er trygge på hverandre og på læreren og andre ansatte i skolen.
+
+Også de elevene som utvalget har snakket med, trakk fram et trygt og godt skolemiljø som avgjørende for deres trivsel og læring. En av ungdommene formulerte det slik:
+
+Har vi et godt læringsmiljø går jo skolen mye bedre, og det er at lærere på en måte setter fokus på klassemiljø, at alle skal ha det fint sammen. Det tenker vi bør være en del av drømmeskolen.[^20]
+
+Vi vet at på skoler som lykkes med å løfte kvaliteten på opplæringen for elevene, er de ansatte opptatt av både skolens faglige og sosiale miljø, og de retter innsatsen inn mot at elevene både skal lære og trives og arbeider for å gjøre skolemiljøet trygt. I tillegg jobber de med å bli enige om hvordan elever og voksne skal være mot hverandre. De har respekt for hverandre og respekt for skolens oppdrag og skolens arbeid (Ekspertgruppe for skolebidrag, 2021).
+
+Reglene om elevenes skolemiljø
+
+I 2017 ble reglene i opplæringsloven om elevenes skolemiljø endret. Målet var å sikre et mer effektivt regelverk mot mobbing og en bedre håndheving av reglene. Skolene fikk blant annet lovfestet en aktivitetsplikt. Aktivitetsplikten innebærer at alle som jobber på skolen må *følge med, gripe inn og varsle*. I tillegg er skolen ansvarlig for å *undersøke og sette inn tiltak* hvis en elev ikke har det trygt og godt på skolen. Det ble også innført en håndhevingsordning der elever kan melde en skolemiljøsak direkte til statsforvalteren, til erstatning for den tidligere klageordningen.
+
+I den nye opplæringsloven er disse reglene i hovedsak videreført, i nytt kapittel 12. Det er imidlertid innført en terskel for når rektor skal melde fra til kommunen i saker med mistanke om at en ansatt krenker en elev. Åpenbart grunnløse beskyldninger om krenkelser skal ikke meldes videre. I tillegg er krenkelsesbegrepet tydeliggjort i forarbeidene til den nye loven, og i Utdanningsdirektoratets veiledning om reglene. Det er ikke elevens subjektive opplevelse som avgjør om en ansatt har krenket en elev.
+
+I den nye loven er statsforvalterens mulighet til å vedta konkrete tiltak i en skolemiljøsak blitt begrenset. Begrunnelsen var at skolen er nærmest til å vurdere gode tiltak i de aller fleste saker og bør ha et profesjonsfaglig handlingsrom til å avgjøre dette. Mange kommuner og fylkeskommuner mente det var utfordrende at statsforvalterne fattet vedtak om konkrete og detaljerte tiltak i skolemiljøsaker (Prop. 57 L (2022–2023)).
+
+Rammeslutt
+
+### Mange skolemiljøsaker meldes til statsforvalteren
+
+Elever som ikke har det trygt og godt på skolen, og som mener at skolen ikke oppfyller aktivitetsplikten for å sikre dem et trygt og godt skolemiljø, kan melde saken til statsforvalteren. Dette følger av opplæringsloven § 12-6, og kalles *håndhevingsordningen*. Statsforvalteren skal undersøke om skolen har oppfylt plikten til å sette inn tiltak og til å lage en aktivitetsplan. Aktivitetsplanen skal beskrive hvilket problem som skal løses, hvilke tiltak skolen planlegger å sette inn for å gjenopprette et trygt og godt skolemiljø, når de skal settes inn, hvem som har ansvar, og hvordan og når de skal evalueres (Opplæringslova, 2024, § 12-4). Hvis statsforvalteren kommer til at skolen ikke har gjort det den skal, pålegger statsforvalteren skolen å sette inn tiltak slik at eleven får det trygt og godt. I noen tilfeller kan statsforvalteren selv vedta hvilke tiltak som skal settes inn.
+
+Statsforvalterembetene rapporterer til Utdanningsdirektoratet om antall skolemiljøsaker meldt til dem. Det har vært en stor økning i antall meldte skolemiljøsaker. I omtrent 95 prosent av sakene konkluderer statsforvalteren med at skolen har brutt aktivitetsplikten. For å undersøke hvor bruddene på aktivitetsplikten er, og vurdere om det er behov for mer kompetanseutvikling gjennomførte Utdanningsdirektoratet en spørring til statsforvalterne i 2023.
+
+Rapporten viser at det er flest skolemiljøsaker på barnetrinnet og færrest på videregående. De mest typiske sakene er komplekse og sammensatte og har pågått over lang tid. Det er flest brudd på plikten til å undersøke og plikten til å sette inn tiltak. Statsforvalterne peker også på at skolene ikke alltid tar elevene nok på alvor, for eksempel ved at de ikke har snakket med eleven eller vurdert om tiltaket de setter inn er til barnets beste. Det kan også være vanskelig å identifisere årsakene til at eleven ikke opplever et trygt og godt skolemiljø. Tiltakene ligger ofte i grenseland mellom ulike hjelpeinstanser og regelverk, særlig individuell tilrettelegging og skolemiljø (Utdanningsdirektoratet, 2023).
+
+Rapporten viser også at ansatte i skolen har behov for bedre forståelse av regelverket, og kompetanse om fellesskapende undervisningsmetoder. Dette er metoder der selve undervisningen også skaper fellesskap i klassen. I tillegg viser rapporten at det er behov for å arbeide med ansattes verdier og holdninger (Utdanningsdirektoratet, 2023).
+
+Det store antallet saker som meldes til statsforvalterne krever mye kapasitet, både hos embetene og i skolene. Dette kan ta kapasitet og ressurser fra det forbyggende arbeidet.
+
+En ph.d.-avhandling om å være rektor i arbeid med langvarige skolemiljøsaker, viser at det har vært mye frustrasjon knyttet til skolemiljøreglene blant ansatte i skolen. Dette handler både om dokumentasjonskrav og hvordan skolen skal jobbe for å oppfylle delpliktene i regelverket. Rektorene forteller også at de må dokumentere med korte frister, og at dokumentasjonen tar tid vekk fra å være sammen med elevene (Skutlaberg, 2023).
+
+Frustrasjonen hos rektorene skyldes også de ulike dilemmaene de står i. Det er dilemmaer i avveininger mellom hensynet til enkelteleven og hensynet til fellesskapet på skolen og mellom juridiske, pedagogiske og etiske hensyn. Det er også dilemmaer mellom å ta hensyn til eleven som opplever å være krenket, og samtidig ta hensyn til eleven eller en lærer som blir anklaget for å krenke. Det kan også være vanskelig å vurdere hva som er en krenkelse og hva som egentlig er sårbarhet(er) hos en elev. Rektorene opplevde det i tillegg som krevende å håndtere saker som både er en skolemiljøsak og en arbeidsmiljøsak. Langvarige skolemiljøsaker medfører også et krevende foreldresamarbeid (Skutlaberg, 2023).
+
+## Læremidler
+
+Kommunen og fylkeskommunen skal sørge for at skolene har tilgang til nødvendig utstyr, inventar og læremidler. Det er stilt noen særlige krav til læremidler i loven, som blant annet knytter seg til når læremidlene må foreligge på både bokmål og nynorsk til samme tid og pris. Ellers stiller ikke dagens regler kvantitative eller kvalitative krav for skolenes tilgang til læremidler, utover det som er nødvendig for å oppfylle retten til grunnskoleopplæring (Opplæringslova, 2024, §§ 15-3 og 15-6). Det er også regler om departementets ansvar for at det blir utarbeidet lærebøker og andre læremidler for individuelt tilrettelagt opplæring (Opplæringslova, 2024, § 11-14).
+
+Reguleringen suppleres av læreplanverket, som definerer kompetansemålene læremidlene skal understøtte. Ut over disse grunnleggende kravene, har skolene et betydelig handlingsrom til å velge hvilke læremidler de vil bruke i opplæringen.
+
+Opplæringsloven definerer læremidler som «alle trykte, ikkje-trykte og digitale element som er utvikla til bruk i opplæringa, som skal brukast jamleg i opplæringa, og som dekkjer vesentlege delar av læreplanen i faget» (Opplæringslova, 2024, § 15-3).
+
+Det er vanlig å skille mellom læremidler og læringsressurser, selv om læringsressurser ikke er et uttrykk som er definert i lovverket.
+
+Læremidler og læringsressurser
+
+*Læremiddel*: Et læremiddel kjennetegnes ved at det er utviklet til bruk i opplæringen og dekker elementer i læreplanverket.
+
+*Læringsressurser*: Digitale eller analoge læringsressurser er materiell med fagrelevant informasjon som blir integrert i læringsarbeidet. Læringsressurser trenger ikke primært være utviklet med tanke på bruk i skolen. Typiske eksempler er avisartikler, bilder, utdrag fra bøker, spill, musikk, film og lyd.
+
+*Digitale verktøy*: Digitale verktøy er programvare eller plattformer som ikke primært er utviklet for bruk i læringsarbeidet. Typiske eksempler er redigeringsprogram for tekst, tall, lyd, film og bilde, samhandlingsverktøy, presentasjonsverktøy, spillbaserte verktøy og sosiale medier.
+
+*Digitale enheter:* Digitale enheter er den fysiske enheten som benyttes for å opprette, dele, kommunisere, analysere og administrere innhold.
+
+*Læringsplattform:* En digital læringsplattform er en arena for å opprette, dele, kommunisere, analysere og administrere innhold for bruk i opplæringen. Læringsplattformer brukes for eksempel i kommunikasjonen mellom foreldre, elever og skolen.
+
+Rammeslutt
+
+Status for læremiddelsituasjonen i skolen
+
+Riksrevisjonen har nylig vurdert læremiddelsituasjonen i skolen som «ikke tilfredsstillende». De fant at elever og lærere mangler læremidler, spesielt i grunnskolen. Riksrevisjonen mener det ikke er lagt tilstrekkelig til rette for en god pedagogisk bruk av digitale læremidler. Kommunene mangler støtte til vurdering av personvern, informasjonssikkerhet og universell utforming. Riksrevisjonen konkluderer også med at elever med behov for særskilt tilrettelegging ikke har god nok tilgang på tilpassede læremidler, og at disse manglene kan gå ut over elevenes muligheter til å få tilfredsstillende utbytte av opplæringen (Riksrevisjonen, 2025b).
+
+Det har over mange år vært en utfordring med tilgang på samiskspråklige læremidler. Utfordringene skyldes blant annet mangel på forfatter- og oversetterressurser, små forlag, små språkmiljø, og en begrenset tilskuddsramme (Meld. St. 13 (2022–2023)). Riksrevisjonen påpekte i sin undersøkelse av samiske elevers rett til opplæring i og på samisk at mangelen på samiske læremidler svekker opplæringstilbudet til samiske elever (Riksrevisjonen, 2019).
+
+Som følge av fagfornyelsen og regjeringens ekstra bevilgninger til trykte læremidler, gikk kommunenes utgifter per elev til både digitale og trykte læremidler tydelig opp mellom 2019 og 2022. Skolene utsatte trolig innkjøp av nye læremidler i påvente av fagfornyelsen. Da nye læreplaner ble innført og tilbudet av læremidler økte, økte innkjøpene igjen. (OsloEconomics, 2024). Det ble likevel bevilget mindre til nye læremidler i forbindelse med fagfornyelsen enn ved tidligere læreplanreformer. Men det ble bevilget midler til trykte lærebøker i 2023, 2024 og 2026.
+
+Utvalget har fått statistikk fra Forleggerforeningen som viser at det var en økt omsetning av papirbaserte læremidler fra 2019 til 2022, men en tydelig nedgang etter det, noe som er forventet etter at de omfattende endringene i læreplanverket var gjennomført. Omsetningsstatistikken tyder samtidig på at kommunene og fylkene har gjort større innkjøp av bøker enn den øremerkede bevilgningen til bøker i 2024 skulle tilsi.
+
+Omsetningen av digitale læremidler har mer enn doblet seg fra 2018 til 2024. I 2018 var fordelingen av salget mellom papirbaserte og digitale læremidler ca. 80/20 i papirbokens favør, mens tilsvarende fordeling i 2024 var ca. 60/40. Om vi bruker kommunenes ressursbruk som mål, i stedet for forleggernes omsetning, ser det ut til at kommunenes kostnader til digitale og trykte læremidler per elev er omtrent den samme (OsloEconomics, 2024).
+
+Utdanningsdirektoratet, Sikt og KS har utviklet en støttetjeneste, *Tryggere digital læring*, som skal hjelpe lokale skolemyndigheter å vurdere digitale løsninger opp mot krav til informasjonssikkerhet, personvern og universell utforming. Støttetjenesten bygger bl.a. videre på *Læremiddelkatalogen*, som gir oversikt over alle digitale læremidler som finnes i Norge.
+
+## Lesing og leseopplæring
+
+Gode leseferdigheter er helt grunnleggende for å utvikle og uttrykke seg, for å tilegne seg kunnskap, begreper, for danning, kritisk tenkning og for å lære i fagene. Når elevene leser, får de også mulighet til å leve seg inn i andres liv, til å fantasere, reflektere over verdier og etiske spørsmål, og utvikle empati og forståelse for andre mennesker og ulike perspektiver. Å ha gode lese- og skriveferdigheter er helt nødvendig for det livet elevene lever her og nå, for å kunne ta videre utdanning og for å kunne delta i både arbeidslivet og i samfunnet.
+
+### Å kunne lese er å skape mening fra tekst
+
+I læreplanverket er lesing beskrevet som en av fem grunnleggende ferdigheter. Å kunne lese er ikke en teknisk ferdighet som elevene tilegner seg i løpet av de første skoleårene, men en ferdighet som utvikler seg gjennom hele opplæringsløpet. Å kunne lese er å kunne skape mening fra tekst. I PISA er lesekompetanse definert som å kunne forstå, bruke, evaluere, reflektere over og engasjere seg i tekster, for å kunne nå sine mål, utvikle sine kunnskaper og evner, og delta i samfunnet (Frønes & Jensen, 2020).
+
+Leseforståelse, å forstå det en leser, er kjernen i lesekompetanse. Leseforståelsen påvirkes av en rekke ulike faktorer som for eksempel avkodingsferdighet, språklige og grammatikalske ferdigheter, leseflyt, forkunnskaper om innholdet i teksten, kjennskap til og bruk av lesestrategier, evnen til å overvåke egen leseprosess, konsentrasjon og utholdenhet. En god leseopplæring omfatter alle disse faktorene (Duke & Cartwright, 2021).
+
+I både PIRLS, PISA og nasjonale prøver måles elevenes leseforståelse gjennom å kartlegge hvordan de henter ut, tolker og sammenholder informasjon, leser kritisk og trekker enkle slutninger og reflekterer over det de har lest. Dette krever en aktiv lesemåte der elevene går inn i teksten med egne tanker, refleksjoner og vurderinger (Frønes & Jensen, 2020; Utdanningsdirektoratet, 2022; Wagner, 2024).
+
+### Begynneropplæring i lesing
+
+Forskning viser tydelige sammenhenger mellom læreres spesialiserte kunnskap om tidlig lese- og skriveutvikling og elevenes progresjon (Guilbault et al., 2026). God begynneropplæring i lesing og skriving tar utgangspunkt i at elever møter skolen med svært ulike forutsetninger. Noen har så vidt begynt å utforske skriftspråket, mens andre allerede leser bøker og skriver egne fortellinger. Dette stiller høye krav til lærerens kompetanse i å forstå den typiske lese- og skriveutviklingen, og i å tilpasse opplæringen slik at alle elever opplever mestring og utvikling. Lærere må også ha kompetanse til å identifisere elever som står i risiko for å utvikle lese- og skrivevansker, inkludert dysleksi. Når slike tegn oppdages tidlig, bør opplæringen justeres og intensiveres. Evnen til å tolke elevenes progresjon og skille mellom normal variasjon og tegn på vedvarende utfordringer, er dermed en sentral del av lærerprofesjonens kompetanse og avgjørende for å sikre tidlig og treffsikker innsats.
+
+God begynneropplæring i lesing bygger på systematisk arbeid med språklige ferdigheter. Fonemisk bevissthet, evnen til å identifisere og manipulere språklyder, er spesielt viktig for å knekke den alfabetiske koden og forstå sammenhengen mellom språklyder og bokstaver (Melby-Lervåg et al., 2012). Systematisk bruk av rim, regler og språkleker er viktige arbeidsmåter, og gir i denne fasen størst læringsutbytte når de kombineres med bokstavarbeid.
+
+Ordforråd og generell språklig kompetanse er sentralt for å kunne forstå det man leser. Språket utvikles i samhandling med andre, og det er viktig at elevene får varierte møter og erfaringer med språket i mange ulike sammenhenger, for å utvikle god språk- og leseforståelse (Stranden & Ommundsen, 2023). Høytlesing gir elevene tilgang til et rikere og mer variert språk enn de møter i egen lesing på dette nivået, og er derfor en viktig kilde til utvikling av ordforråd og språkforståelse. Det er derfor viktig å sette av tid til høytlesing også etter at elevene har begynt å lese selv.
+
+De fleste elever trenger eksplisitt og systematisk undervisning i lyd-bokstav-forbindelser, og i å trekke lyder sammen til ord gjennom fonologisk syntese. I tidlige faser av lese- og skriveutviklingen påvirker lesing og skriving hverandre gjensidig (Furnes et al., 2024). Når elevene eksperimenterer med å skrive ord, utforsker de sammenhengen mellom lyd og bokstav på en aktiv måte, noe som igjen styrker leseutviklingen. Elevene bør derfor få mulighet til å både lese og skrive.
+
+Når barn avkoder ukjente ord, lagres informasjon om ordenes skrivemåte i langtidsminnet (Share, 1999). Gjennom gjentatte møter med ord og bokstavmønstre, bygger elevene opp et gradvis større repertoar av ord de gjenkjenner umiddelbart, slik at avkodingen blir raskere og mer automatisert. I denne fasen er mengdetrening avgjørende, og da er både et godt utvalg av lesestoff som motiverer elevene til å lese, og mye tid til selvstendig lesing sentralt. For å utvikle god leseflyt trenger elevene også modellering som eksemplifiserer hvordan flytende lesing høres ut.
+
+Det er viktig å understreke at det å lære å lese og skrive ikke bare handler om å utvikle ferdigheter. Elevene skal også bli deltakere i et skriftfellesskap der lesing og skriving brukes til å kommunisere, utforske og uttrykke tanker, ideer og erfaringer. Begynneropplæringen må derfor gi rike muligheter for meningsfulle lese- og skriveaktiviteter, der elevene både leser og skriver tekster selv, og blir lest for. Gjennom høytlesing får elevene oppleve sammenhengende fortellinger, komplekse tankerekker og ny kunnskap. Dette bidrar både til å utvide elevenes språklige kompetanse, konsentrasjon og til å vekke leselyst og nysgjerrighet, som er avgjørende drivkrefter i den videre lese- og skriveutviklingen.
+
+Tidlig språkstimulering er viktig
+
+Rammeplan for barnehagen sier at den skal bidra til at barn utforsker og utvikler sin språkforståelse og språkkompetanse, og at barnehagen skal «stimulere til språklig nysgjerrighet, bevissthet og utvikling» (for eksempel begrepsforståelse, ordforråd, tegning, lekeskrift og bokstaver) gjennom arbeid med skriftspråk, høytlesning, rim, sanger og andre språklige og estetiske uttrykk. Litteraturarbeid er altså en sentral del av rammeplan for barnehagen. Høytlesning av litteratur, enten i form av tekst eller med bildebøker og ulike former for interaksjon, representerer en viktig kilde til barns kognitive og språklige utvikling.
+
+Kilde: Stranden & Ommundsen, 2023
+
+Rammeslutt
+
+### Leseopplæringen foregår i flere fag og gjennom hele skoleløpet
+
+Ut over i skoleløpet forventes det at eleven skal kunne lese, analysere og tolke gradvis mer kompliserte tekster, og derfor vil andre faktorer enn avkoding forklare mer og mer av variasjonen i elevenes leseforståelse. Dette kan for eksempel være forkunnskaper, vokabular, grammatikk og kunnskap om temaet i teksten. Arbeid med å utvikle og styrke elevenes språk og vokabular, i alle fag, er derfor en sentral del av leseopplæringen.
+
+Gjennom grunnskolen skal elevene utvikle et bredt repertoar av lesemåter og de skal etter hvert kunne ta hensiktsmessige valg om hvilke lesemåter som egner seg best til den spesifikke teksten og situasjonen. Lesestrategier er målrettede framgangsmåter for å forstå ord, setninger og tekst. Bruk av lesestrategier styrker elevenes leseforståelse fordi de hjelper dem med å planlegge hvordan de skal gripe teksten an, vurdere underveis hvorvidt de forstår teksten, løse eventuelle problemer som oppstår, og endre framgangsmåte dersom de ikke forstår innholdet i teksten. For å utvikle seg til strategiske lesere trenger elevene eksplisitt undervisning og mange muligheter til å trene på lesestrategier i møte med ulike tekster og problemstillinger (Ekström et al., 2019).
+
+Som vist i kapittel 6, kan elevene lære mye uten at det oppleves som anstrengende selv om det er krevende, dersom lærerne legger opp undervisningen slik at den oppleves som motiverende og passe utfordrende. Elevene må møte krevende *nok* tekster. De trenger å lese lengre, sammenhengende tekster som utfordrer dem. De må få oppleve tekster som de kan være lenger i, hvor det er noe å snakke om, undre seg over, lure på og hvor det er nødvendig å lese på nytt for å forstå. Dette er viktig fordi det er i møte med de krevende *nok* tekstene, der elevene er i den nærmeste utviklingssonen, at de best utvikler leseferdigheter. Krevende tekster har dessuten evne til å engasjere, og skaper mestringsfølelse (Strand et al., 2025) (Vygotskij et al., 1978).
+
+Det er også i krevende *nok* tekster, at elevene møter nye ord og fagbegreper, øver opp språkforståelse (skolespråket), forståelse for tekststruktur, sjangere og tekstens formål, de inviteres til kritisk refleksjon og til å trekke slutninger basert på informasjon i teksten. Det er de krevende tekstene som gir mulighet til å bli gode lesere. Vi vet at høye ambisjoner, kombinert med høy lærerstøtte i lesingen av teksten, kjennetegner undervisning der elevene har gode muligheter for utvikling (Gibbons, 2016).
+
+Norskfaget har et særskilt ansvar for leseopplæringen (Kunnskapsdepartementet, 2024a), men beskrivelsen av lesing som grunnleggende ferdighet innebærer at leseopplæringen også skal være integrert i andre fag. Dette er både fordi kunnskap og ferdigheter som undervises i andre fag har betydning for elevenes leseforståelse (for eksempel ordforråd), men også fordi elevene trenger å utvikle fagspesifikke lesemåter basert på det enkelte fagets typiske tekster og tenkemåter (Shanahan & Shanahan, 2008).
+
+Leseopplæringen skal også ruste elevene til å bli kritiske lesere. Tekstene vi møter i hverdagen har endret seg. Omfanget av tekster som ikke er publisert i redaktørstyrte medier, øker i omfang og stiller nye krav til leseferdighetene våre. I tråd med dette ble det å kunne forholde seg kritisk til ulike typer innhold forsterket i LK20. I norskfaget er «kritisk tilnærming til tekst» et eget kjerneelement. Kritisk lesing innebærer å aktivt vurdere og ta stiling til innholdet i teksten. Dette innebærer at elevene skal kunne vurdere *hvordan* en avsender/tekst formidler budskapet sitt og med hvilket formål.
+
+### Intensive tiltak for elever som strever med lesing
+
+Det er ulike årsaker til at elever strever med lesing. Noen strever med avkoding og har dyslektiske vansker, mens andre har språkvansker eller svake norskspråklige ferdigheter som gjør det vanskelig å forstå innholdet i tekstene de leser. For andre igjen, er det mangel på lesetrening og motivasjon, eller problemer med å opprettholde oppmerksomheten, som er hovedutfordringen.
+
+Skolen skal gi elever som står i fare for ikke å ha forventet progresjon i lesing egnet intensiv opplæring (Opplæringslova, 2024, § 11-3). Ut over i skoleløpet vil vansker ofte bli sammensatte, og mange elever som strever med lesing vil ha behov for målrettet opplæring i både avkoding, leseflyt, ordforråd og leseforståelse. I tillegg trenger de gjentatte erfaringer med å lykkes med lesing for å utvikle mestringsforventning og motivasjon for lesing. Dette innebærer at en del elever vil ha behov for intensive og systematiske tiltak, også etter 4. trinn. Flere metaanalyser viser at effektene av intensive tiltak avtar over tid (se for eksempel Dietrichson et al., 2026). For å motvirke slike fade-out-effekter er det viktig at sammenhengen mellom innholdet i intensive tiltak og ordinær undervisning er god. Elevene må få støtte til å bruke ferdigheter og strategier de lærer i intensive tiltak i den ordinære undervisningen sammen med de andre elevene i fellesskapet.
+
+Nasjonale sentre
+
+I Norge har vi 11 nasjonale sentre som skal styrke kvaliteten på opplæringen innenfor ulike områder i skolen.
+
+De nasjonale sentrene støtter barnehager og skoler med å ta i bruk rammeplanen og læreplanverket. De utvikler læringsressurser og arbeidsmåter som skal fremme motivasjon og læring. Sentrene driver også med forskning og gir forskningsbaserte råd og støtte til skoler. Ved behov støtter sentrene også andre institusjoner, og særlig lærerutdanningene, i deres arbeid med kompetanseutvikling i barnehager og skoler. Sentrene gir også råd til nasjonale myndigheter innenfor sine fagområder.
+
+Sentrene er spredd geografisk i Norge, og ligger ved ulike universitetet og høgskoler rundt om i landet. Her er en oversikt over sentrene:
+
+- Lesesenteret, Nasjonalt senter for leseforsking og leseopplæring (Universitetet i Stavanger)
+
+- Skrivesenteret, Nasjonalt senter for skriveopplæring og skriveforsking (NTNU)
+
+- Matematikksenteret, Nasjonalt senter for matematikk i opplæringen (NTNU)
+
+- Naturfagsenteret, Nasjonalt senter for naturfag i opplæringa (Universitetet i Oslo)
+
+- Læringsmiljøsenteret, Nasjonalt senter for læringsmiljø og atferdsforskning for barnehager og skoler (Universitetet i Stavanger)
+
+- Nasjonalt senter for mat, helse og fysisk aktivitet (Høgskulen på Vestlandet)
+
+- Nasjonalt senter for samisk i opplæringa (Samisk høgskole)
+
+- Nynorsksenteret, Nasjonalt senter for nynorsk i opplæringa (Høgskulen i Volda)
+
+- Fremmedspråksenteret, Nasjonalt senter for engelsk og fremmedspråk i opplæringa (Høgskolen i Østfold)
+
+- NAFO, Nasjonalt senter for flerkulturell opplæring (Oslo Met)
+
+- Kunst- og kultursenteret, Nasjonalt senter for kunst og kultur i opplæringa (Nord Universitet)
+
+Rammeslutt
+
+## Matematikk og matematikkopplæring
+
+Matematikk gir oss verktøy til å forstå verden, ta gode beslutninger og løse problemer. For den enkelte er matematikkompetanse avgjørende for å mestre hverdagen og delta fullt ut i samfunnet. Det dreier seg om å forstå personlig økonomi, tolke statistikk i nyhetsbildet, vurdere risiko og ta informerte valg.
+
+For samfunnet er matematikkompetanse en forutsetning for innovasjon, verdiskaping og bærekraftig utvikling. Teknologiutvikling, klimamodellering, helseforskning og økonomisk planlegging hviler alle på et solid matematisk fundament. Et samfunn med bred matematisk kompetanse i befolkningen er bedre rustet til å møte komplekse utfordringer, drive fram nye løsninger og opprettholde en konkurransedyktig økonomi.
+
+Samfunnet trenger både personer med svært høy realfaglig kompetanse, som blant annet kan drive forskning og innovasjon innen KI videre, og personer med grunnleggende realfaglig kunnskap for å gjennomføre relevante studier og gå inn i realfaglige yrker.
+
+Elever begrunner ofte matematikkfagets betydning med praktisk nytte. En studie blant norske og svenske elever i videregående opplæring fant at verdien av matematikk hovedsakelig knyttes til hverdagsliv, framtidig arbeid og personlig økonomi. Enkle, praktiske situasjoner, særlig knyttet til forbruk og handel, står sentralt i elevenes beskrivelser av hvorfor matematikk er viktig (Nosrati & Andrews, 2022). I utvalgets samtaler med elever kom det også fram et tydelig ønske om at matematikkfaget må legge mer vekt på personlig økonomi, og at elevene oppfatter dette som en viktig kompetanse for framtiden.
+
+Samtidig kan matematikk forstås som mye mer enn et praktisk redskap. Faget utgjør også en arena for utvikling av kognitive ferdigheter, som å rette og opprettholde oppmerksomhet, velge og justere strategier, overvåke egen forståelse og arbeide videre når oppgaver oppleves som krevende. Dette er ferdigheter som utfordres av en akselererende teknologiutvikling med digitale forstyrrelser og økt kamp om oppmerksomheten. I et slikt perspektiv blir matematikkfaget og matematikkundervisningen også en øvelse i selvregulering og metakognitiv bevissthet.
+
+Matematikkfaget gir en kompetanse som vi ofte bruker i hverdagen uten å være bevisste på at vi bruker den. I en tid preget av relativisering av kunnskap og debatt om fakta, er forståelse av usikkerhet og sannsynlighet særlig viktig (Gigerenzer, 2003; Kay & King, 2021). For eksempel kan vi ikke i klimadebatten påvise at et konkret tilfelle av ekstremvær skyldes klimaendringer, men vi kan slå fast at klimaendringer fører til flere tilfeller av ekstremvær. Enkelte kuldebølger i en varmere verden er heller ikke et bevis på at klimaendringene ikke er reelle. I møte med helsevesenet kan det å forstå hva som menes med utsagn som «testen er x% treffsikker» være av vesentlig betydning. Sannsynlighet er også grunnleggende i KI, og det er nødvendig med en viss forståelse av sannsynlighetsregning og statistikk for å kunne forstå hvordan KI fungerer.
+
+### Matematikkfaget handler både om beregning og forståelse
+
+Det har vært en utbredt oppfatning om at matematikk handler om å kjenne til matematiske fakta og å kunne utføre prosedyrer raskt og feilfritt. De siste tiårene har det blitt en bredere forståelse av hva matematisk kompetanse er, og hva det vil si å mestre matematikk. Det finnes mange ulike beskrivelser av matematisk kompetanse. Selv om ulike land og forskergrupper bruker ulike ord og begreper, er det store likhetstrekk mellom dem (Niss et al., 2016).
+
+Begrepene *regning* og *matematikk* brukes ofte om hverandre. Regning handler om å utføre matematiske operasjoner, som addisjon, subtraksjon, multiplikasjon og divisjon, for å løse en oppgave. Dette handler om å utføre beregninger. Å kunne beregne handler om å gjøre utregninger og utføre prosedyrer på en nøyaktig, fleksibel og effektiv måte (Kilpatrick et al., 2001).
+
+Matematikksenteret beskriver matematisk kompetanse ved hjelp av fem tråder som er tett bundet sammen. Trådmodellen er utviklet av amerikanske forskere, og har hatt stor innvirkning i hele verden, både når det gjelder forståelse av matematisk kompetanse og forskning på læring og undervisning i matematikk (Kilpatrick et al., 2001).
+
+Trådmodellen med sentrale begreper i matematikk
+
+Kilde: Kilpatrick et al., 2001
+
+Matematikk handler både om å vite *hva* man skal gjøre og *hvorfor*. I litteraturen vises det ofte til Skemps skille mellom instrumentell og relasjonell forståelse i matematikk (Skemp, 1976).
+
+Instrumentell forståelse handler om å lære regler og prosedyrer for å kunne løse oppgavene. Det vil si at eleven vet *hvordan* oppgaven skal løses, men ikke *hvorfor* reglene og prosedyrene fungerer. Relasjonell forståelse handler om å bygge begrepsmessige strukturer og se sammenhenger mellom de ulike begrepene. Det vil si at eleven både vet *hvordan* en oppgave skal løses og *hvorfor* det blir sånn.
+
+Hiebert og Lefevere bruker et liknende skille mellom prosedyrekunnskap og konseptuell forståelse i matematikk (Hiebert & Lefevre, 1986). *Prosedyrekunnskap* er kunnskap om regler og metoder for å løse oppgaver, ofte i form av algoritmer eller oppskrifter for å manipulere symboler. *Konseptuell forståelse*, eller begrepsmessig kunnskap, handler om å forstå begreper og sammenhenger mellom begreper i matematikken. Mens prosedyrekunnskapen handler om hvordan følge regler, handler konseptuell forståelse om å forstå sammenhenger.
+
+Poenget er at disse to forståelsene av matematikk er komplementære, ikke motsetninger. Matematikkopplæringen må legge til rette for at elevene utvikler både prosedyrekunnskap og konseptuell forståelse av matematikken.
+
+Matematikksenteret framhever i sitt innspill til utvalget at vi må bevege oss vekk fra motsetningen mellom pugging og øving på den ene siden og utforskning og forståelse på den andre siden. Begge deler må til, og målet er å lære å bruke matematikk i ulike situasjoner. Da må elevene både lære *hvordan* de skal finne svaret og forstå *hvorfor* det blir slik.
+
+### Begynneropplæringen i matematikk
+
+Forskning viser at erfaringer med matematikk tidlig i skoleløpet er viktige for hvordan elevene senere utvikler seg og presterer i faget. Derfor er det avgjørende at undervisningen i de første skoleårene gir et godt grunnlag for videre læring (Aubrey et al., 2006; Duncan et al., 2007). I begynneropplæringen i matematikk er det særlig viktig å legge vekt på elevenes tidlige tall- og begrepsforståelse.
+
+Tidlig tallforståelse handler om at elevene gradvis utvikler forståelse for tall, mengder, relasjoner og enkle regneoperasjoner. Arbeid med å representere, sammenligne og manipulere er sentralt for å bygge et grunnlag for videre matematisk tenkning (Baroody et al., 2014; Jordan et al., 2022; Whitacre et al., 2020). Matematiske begreper er byggesteinene i faget, og elevenes forståelse utvikles når de møter matematiske ideer gjennom erfaringer som kobler sammen språk, handling og ulike representasjoner (Clements et al., 2023; Kilpatrick et al., 2001). For de yngste elevene innebærer dette undervisning der samtaler, lek og bruk av konkreter er viktige arbeidsmåter. Slik kan elevene gradvis utvikle forståelse for sammenhenger mellom matematiske begreper, ideer og strategier. Undervisningen bør være praktisk, språkstøttende, utforskende og systematisk, og gi elevene mulighet til å utvikle både begreper og strategier i samspill med andre (Clements et al., 2023; Jordan et al., 2022).
+
+### Kognisjon, metakognisjon og selvregulering i matematikkfaget
+
+I kapittel 6 skriver vi om at læring er krevende, og at metakognisjon og selvregulering er viktig for elevenes læring.
+
+Å jobbe med matematikk stiller store krav til elevenes oppmerksomhet, hukommelse, språk, evne til å tolke og forstå visuell informasjon, evnen til å koordinere sanseinntrykk med kroppens bevegelser, tempo og mental effektivitet. Dette omtales som elevenes *kognitive funksjoner* (Harvey, 2019).
+
+Matematikk stiller også store krav til planlegging, arbeidsminne, impulskontroll og fleksibilitet. Dette omtales som *eksekutive funksjoner* og fungerer som en overordnet styring av de kognitive prosessene. Elevene bruker eksekutive funksjoner når de for eksempel velger strategier, holder flere trinn i hodet samtidig, oppdager og retter feil, og vurderer om et svar er rimelig (Diamond, 2013).
+
+*Metakognisjon* handler om bevissthet om og kontroll over egen tenkning i læringssituasjoner. Metakognisjon i matematikk kan for eksempel komme til uttrykk når eleven vurderer om en strategi er hensiktsmessig, oppdager feil eller justerer framgangsmåten underveis (Desoete & De Craene, 2019; Stanton et al., 2021).
+
+*Selvregulering* er et bredere begrep enn metakognisjon og brukes gjerne som en samlebetegnelse for de kognitive, metakognitive, atferdsmessige, motivasjonsmessige og emosjonelle prosessene, som gjør det mulig å styre læring mot et mål. I matematikk handler selvregulering blant annet om å planlegge arbeidet, holde fokus, regulere innsats, håndtere motstand og evaluere resultatet etterpå (Panadero, 2017).
+
+Metakognisjon og selvregulering henger sammen med elevenes prestasjoner i matematikk. Metakognitive prosesser som planlegging, overvåking og evaluering støtter matematisk resonnering og problemløsing. Intervensjonsstudier har vist at undervisning med eksplisitt metakognitiv støtte kan styrke både matematisk kunnskap, resonnering og metakognitiv kompetanse (Desoete & De Craene, 2019; Kramarski & Mevarech, 2003; Mevarech & Fridkin, 2006). Tilsvarende viser studier av selvregulert læring i matematikk at elevers regulering av strategier, motivasjon og emosjoner har betydning for arbeid med matematisk problemløsing (Tzohar-Rozen & Kramarski, 2014).
+
+Samtidig som matematikkfaget stiller store krav til kognitive og eksekutive funksjoner, viser forskning at arbeid med matematikk også kan styrke disse funksjonene. Matematikk og kognitive evner utvikler seg gjensidig. Kognitive funksjoner støtter matematisk læring, men matematisk læring og undervisning kan også bidra til å utvikle de kognitive ferdighetene (Peng & Kievit, 2020).
+
+Flere lærere opplever at elever har dårligere konsentrasjon nå enn de hadde tidligere (Hatfield, 2025). Konsentrasjon handler om evnen til å holde oppmerksomheten rettet mot en oppgave over tid, og henger sammen med eksekutive funksjoner som arbeidsminne og impulskontroll.
+
+I kapittel 5 beskriver vi hvordan elevenes læringsresultater i matematikk har gått dramatisk ned de siste årene. I kapittel 4 beskriver vi hvordan en akselererende teknologiutvikling og oppmerksomhetsøkonomi med digitale plattformer og teknologiske forstyrrelser skaper konkurranse om barn og unges oppmerksomhet. Kampen om oppmerksomheten skaper særlige utfordringer for matematikkfaget, som i stor grad krever at elevene evner å mobilisere vedvarende oppmerksomhet og eksekutive funksjoner.
+
+Mye tyder på at bevisst arbeid med metakognisjon og selvregulering i større grad bør inngå som en integrert del av matematikkundervisningen. Det kan bidra til å snu negative resultater og gjøre matematikkfaget til en arena hvor elevene får øve på disse ferdighetene og prosessene som er viktige i alle fag, og som utsettes for press av teknologiutvikling og oppmerksomhetsøkonomi.
+
+Et slikt syn på matematikkfaget har konsekvenser for både lærerutdanning, læreplanutforming og bruk av digitale verktøy. Dette kommer vi tilbake til i kapittel 11 hvor vi beskriver utvalgets vurderinger og forslag til tiltak.
+
+### Dybdelæring i matematikkfaget
+
+Matematikksenteret understreker i innspill til utvalget betydningen av dybdelæring i matematikkfaget, og at læreplanene må legge godt til rette for dybdelæring. Bredden i læreplanen er mengden matematiske tema som skal dekkes. Dybden i læreplanen handler om elevenes relasjonelle forståelse og evnen til å bruke det matematiske innholdet (Højgaard, 2024).
+
+Matematikksenteret viser til en modell som illustrerer forholdet mellom bredde og dybde i læreplanene (Højgaard, 2024). I modellen er læreplanens ambisjon representert som «arealet av læring». Størrelsen på arealet av læring viser hva som er mulig innenfor en gitt tidsperiode, for eksempel antallet matematikktimer i løpet av et skoleår, se figur 7.4. En økning i dybden, vil måtte føre til en reduksjon i bredden.
+
+Når arealet som dekkes blir for stort, så får det vesentlige negative konsekvenser. I figuren er dette markert som «unrealisable intended area of learning». Når læreplanen dekker for mye innhold, blir matematikk særlig skadelidende fordi faget er så utpreget akkumulativt, hvor kunnskap bygges lag på lag over tid. Forståelse av nye temaer forutsetter at eleven behersker mer grunnleggende tema. Dersom det totale omfanget blir for stort, «tvinges» læreren til å gå videre, selv om læreren vet at ikke alle elever har forstått temaet de holder på med. I neste runde er da forutsetningene for å forstå nye tema ikke til stede.
+
+En alternativ tilnærming til utvikling av læreplan, er å starte med en bestemt dybde i læringen som premiss, for eksempel at elevene skal utvikle en matematisk kompetanse som beskrevet i kjerneelementene, og så justere bredden ut fra dette (Højgaard, 2024).
+
+Widt-dept Curriculum model
+
+Kilde: Højgaard, 2024
+
+En sentral intensjon med fagfornyelsen og læreplanverket LK20 var å legge bedre til rette for dybdelæring i alle fag, inkludert matematikk. Evalueringen tyder på at det har blitt færre kompetansemål i fagene, men at kompetansemålene er blitt mer overordnet og at omfanget ikke nødvendigvis har blitt redusert. Kjerneelementbeskrivelsene har heller ikke fått den rollen de var tiltenkt (Karseth et al., 2022). Selv om evalueringen viser at det har blitt mer dybdelæring i klasserommene, peker forskerne også på at dybdelæringsbegrepet er uklart beskrevet. En del lærere er usikre på hvordan de skal forstå og iverksette dybdelæring. Forskerne anbefaler å tydeliggjøre omtalen av dybdelæring i læreplanverket (Bergsgard et al., 2026; Brevik et al., 2026; Furberg et al., 2026).

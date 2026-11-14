@@ -1,990 +1,286 @@
-# NOU 2019: 3, del 22 av 25 (side 249–259)
+# NOU 2019: 3, del 22 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 249]
+# Økonomiske og administrative konsekvenser
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Innledning
 
-Barros, S., Cadima, J., Bryant, D. M., Coelho, V.,
-Pinto, A. I., Pessanha, M. & Peixoto, C. (2016).
-Infant child care quality in Portugal: Associations with structural characteristics. Early
-Childhood Research Quarterly, 37, 118–130.
-Barrow, L., Markman, L. & Rouse, C. E. (2009).
-Technology’s edge: The educational benefits
-of computer-aided instruction. American Economic Journal: Economic Policy, 1(1), 52–74.
-Barth, E. (2005a). Den samfunnsmessige avkastningen av utdanning. Utdanning 2005. Hentet
-fra https://www.ssb.no/a/publikasjoner/pdf/
-sa74/kap-8.pdf
-Barth, E. (2005b). Er utdanning verdt pengene?
-Hentet fra https://www.ssb.no/utdanning/artikler-og-publikasjoner/er-utdanning-verdtpengene
-Barth, E., Hardoy, I., Schøne, P. & Østbakken, K.
-M. (2013). Lønnsforskjeller mellom kvinner og
-menn: Hva har skjedd på 2000-tallet? (ISF-rapport. 104). Institutt for samfunnsforskning.
-Barth, E., Hardoy, I., Schøne, P. & Østbakken, K.
-M. (2014). Hva betyr høy yrkesdeltakelse for
-kjønnssegregering? I L. Reisel & M. Teigen
-(Red.), Kjønnsdeling og etniske skiller på arbeidsmarkedet (s. 108–118). Gyldendal akademisk.
-Barth, E. & Lucifora, C. (2006). Wage dispersion,
-markets and institutions: the effects of the boom
-in education on the wage structure. IZA Discussion Paper No. 2181, IZA Institute of Labor
-Economics.
-Bauchmüller, R., Gørtz, M. & Rasmussen, A. W.
-(2014). Long-run benefits from universal highquality preschooling. Early Childhood Research
-Quarterly, 29(4), 457–470.
-Bauernschuster, S., Falck, O. & Woessmann, L.
-(2014). Surfing alone? The internet and social
-capital: Evidence from an unforeseeable technological mistake. Journal of Public Economics,
-117, 73–89.
-Bauernschuster, S. & Schlotter, M. (2015). Public
-child care and mothers’ labor supply—Evidence from two quasi-experiments. Journal of
-Public Economics, 123, 1–16.
-Baumrind, D. (1967). Child care practices anteceding three patterns of preschool behavior.
-Genetic psychology monographs, 75 (1), 43–88.
-Becker, G. S., Hubbard, W. H. & Murphy, K. M.
-(2010). Explaining the worldwide boom in higher education of women. Journal of Human
-Capital, 4(3), 203–241.
-Beckman, L., Janson, S. & von Kobyletzki, L.
-(2016). Associations between neurodevelopmental disorders and factors related to school,
+Det å delta i utdanning og tilegne seg ny kunnskap har en klar egenverdi. I tillegg har utdanning stor betydning for hvordan det går med et individ på mange områder i livet. Hva individet har med seg fra grunnopplæringen har konsekvenser for videre utdanning, som igjen henger sammen med sysselsetting og inntekt, helse, forventet levealder og tilpasningsevne i samfunnet. Blant annet finner Bhuller, Mogstad og Salvanes (2017) at ett år med ekstra skolegang gir høyere inntekt gjennom livsløpet, med en økonomisk avkastning på rundt 11 prosent. Den privat-økonomiske avkastningen av utdanning varierer imidlertid med utdanningsnivå og med hvilken studieretning man velger i høyere utdanning (Aakvik, Salvanes, & Vaage, 2010; Kirkebøen, Leuven, & Mogstad, 2016). Utdanning får stadig mer å si for hvordan det går senere i livet. Blant annet stiller det norske arbeidsmarkedet stadig høyere krav til utdanningsnivå (S. Markussen & Roed, 2017).
 
-247
+Utdanning har også en klar samfunnsøkonomisk nytteverdi. Utdanning kan bidra til økonomisk vekst i samfunnet gjennom å heve befolkningens generelle ferdighetsnivå (Hanushek og Woessman, 2008). En høyt utdannet arbeidsstyrke kan stimulere til forskning, innovasjon og teknologisk utvikling og dermed øke produktiviteten i samfunnet. I den enkelte bedrift bidrar høyt utdannet arbeidskraft til at hele bedriften blir mer produktiv gjennom kunnskapsspredning; i bedrifter med et gjennomsnittlig høyere utdanningsnivå har alle de ansatte høyere lønn, uavhengig av den enkelte ansattes utdanning. Med en utdannet befolkning følger også kunnskapsspredning og utvikling i lokalsamfunnet. Et høyere gjennomsnittlig utdanningsnivå i befolkningen øker det regionale inntektsnivået utover utdanningens privatøkonomiske avkastning. Når de ulike positive effektene av utdanning holdes sammen, blir den samfunnsøkonomiske avkastningen av utdanning beregnet til å ligge på rundt 8 prosent i Norge. Ved å investere i befolkningens utdanningsnivå kan man videre forebygge arbeidsledighet, sikre bedre folkehelse, og legge grunnlaget for et samfunn med lav sosial ulikhet og lite kriminalitet. Til sist er en befolkning med en viss grunnutdanning en forutsetning for et informert og velfungerende demokrati (Statistisk sentralbyrå, 2005).
 
-Referanseliste
+Ethvert statlig eller lokalt tiltak som bidrar til at barn og unge lærer mer og oppnår et høyere utdanningsnivå, vil slik ha en samfunnsøkonomisk nytteverdi. Den samfunnsøkonomiske avkastningen av å investere i utdanning kan beregnes på flere måter. For eksempel er det beregnet at det for hver elev som fullfører videregående opplæring er en samfunnsøkonomisk gevinst på 1 million kroner. Og motsatt er den samfunnsøkonomiske kostnaden ved 10 prosent frafall i videregående opplæring beregnet til 6,2 milliarder kroner (prisjustert for 2017) (Falch mfl., 2009). I vurderingen av de økonomiske konsekvensene av tiltakene som er foreslått i denne utredningen, må den samfunnsøkonomiske lønnsomheten av å investere i utdanning tas i betraktning.
 
-health, and social interaction in schoolchildren: Results from a Swedish population-based
-survey. Disability and Health Journal, 9(4),
-663–672.
-Beilock, S. L., Gunderson, E. A., Ramirez, G. & Levine, S. C. (2010). Female teachers’ math anxiety affects girls’ math achievement. Proceedings of the National Academy of Sciences,
-107(5), 1860–1863.
-Belfield, C. R., Nores, M., Barnett, S. & Schweinhart, L. (2006). The high/scope perry preschool program cost–benefit analysis using
-data from the age-40 followup. Journal of Human Resources, 41(1), 162–190.
-Belman, D. & Heywood, J. S. (1991). Sheepskin effects in the returns to education: An examination of women and minorities. The Review of
-Economics and Statistics, 720–724.
-Berge, K. L. & Skar, G. (2015). Ble elevene bedre
-skrivere: Intervensjonseffekter på elevers skriveferdigheter og skriveutvikling (Rapport 2 fra
-Normprosjektet). Høgskolen i Sør-Trøndelag.
-Berglund, E., Eriksson, M. & Westerlund, M.
-(2005). Communicative skills in relation to
-gender, birth order, childcare and socioeconomic status in 18-month-old children. Scandinavian Journal of Psychology, 46(6), 485–491.
-Bergman, P. (2016). The Effects of School Integration: Evidence from a Randomized Desegregation Program. CESifo Working Paper No. 6119,
-CESifo Group Munich.
-Bergsagel, I. (2018). Her er alle Norges mannlige
-helsesøstre. Hentet fra https://sykepleien.no/
-2018/11/her-er-alle-norges-mannlige-helsesostre
-Bertrand, M. & Mullainathan, S. (2004). Are
-Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor
-market discrimination. American Economic Review, 94(4), 991–1013.
-Bertrand, M. & Pan, J. (2013). The trouble with
-boys: Social influences and the gender gap in
-disruptive behavior. American Economic Journal: Applied Economics, 5(1), 32–64.
-Bettinger, E., Hægeland, T. & Rege, M. (2014).
-Home with mom: the effects of stay-at-home
-parents on children’s long-run educational
-outcomes. Journal of Labor economics, 32(3),
-443–467.
-Betts, J. R. (2011). The economics of tracking in
-education. I Handbook of the Economics of Education (bd. 3, s. 341–381). Elsevier.
-Beyers, J. M., Bates, J. E., Pettit, G. S. & Dodge,
-K. A. (2003). Neighborhood structure, parenting processes, and the development of youths’
+Ifølge utvalgets mandat skal minst ett av utvalgets forslag være basert på uendrede budsjettrammer.
 
-[Side 250]
+Kunnskapssystem for barnehage og grunnopplæring
 
-248
+Utvalget har ikke foreslått endringer i de etablerte ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet.
 
-Referanseliste
+Utvalget foreslår å overføre oppgaver og ressurser knyttet til kompetanseutvikling fra Statlig spesialpedagogisk tjeneste til enkelte universiteter eller høyskoler. Dette tiltaket vil dermed ha administrative konsekvenser.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Utvalget vurderer at de forslagene til tiltak som angår utvidelser og revideringer av dagens datakilder og systemer for informasjonsutveksling om barn og unges utvikling og læring, endringer i rammeplanene for barnehagelærer- og grunnskolelærerutdanningene, og endringer i det faglige innholdet og ansvaret for ulike kompetanseutviklingstilbud, kan gjennomføres innenfor eksisterende budsjettrammer.
 
-externalizing behaviors: A multilevel analysis.
-American journal of community psychology,
-31(1–2), 35–53.
-Bhuller, M., Mogstad, M. & Salvanes, K. G.
-(2017). Life-Cycle Earnings, Education Premiums, and Internal Rates of Return. Journal of
-Labor economics, 35(4), 993–1030.
-Bianchi, S. M. (2000). Maternal employment and
-time with children: Dramatic change or surprising continuity? Demography, 37(4), 401–414.
-Bjordal, I. (2017). Kompetanse for mangfold – hva
-betyr det? I A. B. Lund (Red.), Mangfold gjennom anerkjennelse og inkludering i skolen (s.
-229–243). Oslo: Gyldendal akademisk, 2017.
-Björkenstam, C., Weitoft, G. R., Hjern, A., Nordström, P., Hallqvist, J. & Ljung, R. (2011).
-School grades, parental education and suicide—a national register-based cohort study.
-Journal of Epidemiology and Community Health, 65(11), 993–998.
-Björklund, A. & Salvanes, K. G. (2011). Education
-and family background: Mechanisms and policies. I Handbook of the Economics of Education
-(bd. 3, s. 201–247). Elsevier.
-Björnsson, J. K. & Olsen, R. V. (2018). Fødselsmåned og skoleprestasjoner. I J. K. Björnsson &
-R. V. Olsen (Red.), Tjue år med TIMSS og
-PISA i Norge (s. 76–93). Oslo: Universitetsforlaget.
-Black, S. E., Devereux, P. J., Løken, K. V. & Salvanes, K. G. (2014). Care or cash? The effect of
-child care subsidies on student performance.
-Review of Economics and Statistics, 96(5), 824–
-837.
-Black, S. E., Devereux, P. J. & Salvanes, K. G.
-(2005a). The more the merrier? The effect of
-family size and birth order on children’s education. The Quarterly Journal of Economics,
-120(2), 669–700.
-Black, S. E., Devereux, P. J. & Salvanes, K. G.
-(2005b). Why the apple doesn’t fall far: Understanding intergenerational transmission of human capital. American Economic Review,
-95(1), 437–449.
-Black, S. E., Devereux, P. J. & Salvanes, K. G.
-(2007). From the cradle to the labor market?
-The effect of birth weight on adult outcomes.
-The Quarterly Journal of Economics, 122(1),
-409–439.
-Black, S. E., Devereux, P. J. & Salvanes, K. G.
-(2011). Too young to leave the nest? The effects of school starting age. The Review of Economics and Statistics, 93(2), 455–467.
-Black, S. E., Devereux, P. J. & Salvanes, K. G.
-(2016a). Does grief transfer across generati-
+Utvalget foreslår å øke bevilgningen til forskningsprogrammet FINNUT i Forskningsrådet og øremerke midlene til forskning på kjønnsforskjeller i skoleprestasjoner og utdanningsløpet. Utvalget foreslår en bevilgning på minst 20 millioner kroner per år, som tilsvarer den statlige kostnaden av tiltaket.
 
-ons? bereavements during pregnancy and
-child outcomes. American Economic Journal:
-Applied Economics, 8(1), 193–223.
-Black, S. E., Devereux, P. J. & Salvanes, K. G.
-(2016b). Healthy(?), wealthy, and wise: Birth
-orde and adult health. Econ Hum Biol, 23, 27–
-45.
-Black, S. E., Grönqvist, E. & Öckert, B. (2018).
-Born to Lead? The Effect of Birth Order on
-Noncognitive Abilities. The Review of Economics and Statistics, 100(2), 274–286.
-Blanden, J., Del Bono, E., McNally, S. & Rabe, B.
-(2016). Universal Pre-school Education: The
-Case of Public Funding with Private Provision.
-The Economic Journal, 126(592), 682–723.
-Blau, D. & Currie, J. (2006). Pre-school, day care,
-and after-school care: who’s minding the kids?
-Handbook of the Economics of Education, 2,
-1163–1278.
-Blau, F. D. & Kahn, L. M. (2017). The gender
-wage gap: Extent, trends, and explanations.
-Journal of Economic literature, 55(3), 789–865.
-Bleses, D., Højen, A., Justice, L. M., Dale, P. S.,
-Dybdal, L., Piasta, S. B., … Haghish, E. (2018).
-The effectiveness of a large-scale language
-and preliteracy intervention: The SPELL
-randomized controlled trial in Denmark. Child
-Development, 89(4), e342-e363.
-Bleses, D., Vach, W., Slott, M., Wehberg, S.,
-Thomsen, P., Madsen, T. O. & Basbøll, H.
-(2008a). The Danish Communicative Developmental Inventories: validity and main developmental trends. Journal of child language, 35(3),
-651–669.
-Bleses, D., Vach, W., Slott, M., Wehberg, S.,
-Thomsen, P., Madsen, T. O. & Basbøll, H.
-(2008b). Early vocabulary development in Danish and other languages: A CDI-based comparison. Journal of child language, 35(3), 619–
-650.
-Bolton, S. C. & Muzio, D. (2007). Can’t live
-with’Em; Can’t live without’Em: gendered segmentation in the legal profession. Sociology,
-41(1), 47–64.
-Bonesrønning, H. & Vaag Iversen, J. M. (2008).
-Suksessfaktorer i grunnskolen: analyse av nasjonale prøver 2007 (SØF-rapport nr. 05/08).
-Trondheim: NTNU – Senter for økonomisk
-forskning.
-Boneva, T. & Rauh, C. (2018). Parental Beliefs
-about Returns to Educational Investments–
-The Later the Better? Journal of the European
-Economic Association 16 (6), 1669–1711.
-Borg, E., Christensen, H. F., K & Pålshaugen, Ø.
-(2015). Hva lærerne ikke kan! Et kunnskaps-
+Utvalget foreslår å opprette et nasjonalt register for personentydige forløpsdata for barnehage og grunnopplæring, der SSB gis oppdraget med å forvalte registeret under forutsetning av at kommende reviderte statistikklov sikrer at data blir tilgjengelige for brukere på en effektiv måte. De økonomiske konsekvensene av dette tiltaket må utredes nærmere, men som et første anslag vurderer utvalget at utviklingen og forvaltningen av registeret kan komme til å koste staten omtrent 20–25 millioner kroner i året.
 
-[Side 251]
+Utvalget anbefaler videre et nasjonalt senter for kunnskapsformidling som skal oppsummere og formidle utdanningsforskning og legge til rette for et utdanningsbibliotek for praksisfeltet. Dersom tiltaket gjennomføres ved å utvide mandatet til det eksisterende kunnskapssenteret for utdanning (KSU), behøver ikke tiltaket å ha nevneverdige administrative konsekvenser. Med utgangspunkt i de kostnadene som går til forvaltningen av et tilsvarende helsebiblioteket under Folkehelseinstituttet, vurderer utvalget at det bør bevilges rundt 25 millioner kroner årlig til forvaltningen av et utdanningsbibliotek under et slikt senter.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Tidlig og tilpasset innsats
 
-grunnlag for satsning på bruk av flerfaglig kompetanse i skolen (AFI-rapport 6/2015). Arbeidsforskningsinstituttet: Utdanningsdirektoratet.
-Borg, E., Drange, I. F., K & Jarning, H. (2014). Et
-lag rundt læreren (AFI-rapport 8/2014). Arbeidsforskningsinstituttet.
-Borgonovi, F. (2016). Video gaming and gender
-differences in digital and printed reading performance among 15-year-olds students in 26
-countries. Journal of Adolescence, 48, 45–61.
-Borgonovi, F., Ferrara, A. & Maghnouj, S. (2018).
-The gender gap in educational outcomes in Norway. Paris: OECD Publishing.
-Bornstein, M. H., Hahn, C.-S. & Haynes, O. M.
-(2004). Specific and general language performance across early childhood: Stability and
-gender considerations. First Language, 24(3),
-267–304.
-Bowlby, J. (1958). The nature of the child’s tie to
-his mother. The international Journal of
-Psychoanalysis, 39, 350–373.
-Bowlby, J. (1969). Attachment and Loss Penguin
-Books.
-Bramen, J. E., Hranilovich, J. A., Dahl, R. E., Forbes, E. E., Chen, J., Toga, A. W., … Sowell, E.
-R. (2011). Puberty influences medial temporal
-lobe and cortical gray matter maturation differently in boys than girls matched for sexual
-maturity. Cereb Cortex, 21(3), 636–646.
-Brandlistuen, R. (2018). Gender gaps in preschool
-age: a Norwegian study of behavior, neurodevelopment and pre-academic skills. Upublisert
-manuskript, Nasjonalt folkehelseinstitutt.
-Brandlistuen, R. E., Ystrom, E., Hernandez-Diaz,
-S., Skurtveit, S., Selmer, R., Handal, M. &
-Nordeng, H. (2017). Association of prenatal
-exposure to benzodiazepines and child internalizing problems: A sibling-controlled cohort
-study. PLoS One, 12(7), e0181042.
-Branigan, A. R., McCallum, K. J. & Freese, J.
-(2013). Variation in the Heritability of Educational Attainment: An International Meta-Analysis. Social Forces, 92(1), 109–140.
-Bratsberg, B., Markussen, S., Raaum, O., Røed, K.
-& Røgeberg, O. J. (2018). Trends in Assortative Mating and Offspring Outcomes. IZA Duscussion Paper No. 11753. IZA Institute of Labor Economics.
-Breivik, K., Bru, E., Hancock, C., Idsøe, E. C.,
-Idsøe, T. & Solberg, M. E. (2017). Å bli utsatt
-for mobbing. En kunnskapsoppsummering om
-konsekvenser og tiltak. Stavanger: Læringsmiljøsenteret.
-Bremnes, R., Torger Falch & Bjarne Strøm.
-(2006). Samfunnsøkonomiske konsekvenser av
+Utvalget har ikke foreslått endringer i de etablerte ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet.
 
-249
+Utvalget foreslår å innføre et krav om flerfaglig samarbeid i kommuneloven. Dersom man samtidig med dette forslaget opphever enkelte bestemmelser i særlovgivningen, vil forslaget ha betydelige administrative konsekvenser.
+
+Utvalget vurderer at et flertall av forslagene som angår endringer i opplæringsloven, mindre endringer i Rammeplan for barnehagens innhold og oppgaver, utviklingen av en rammeplan for aktiviteter i heldagsskolen, og forslag til endringer i kommuneloven, kan gjennomføres innenfor eksisterende budsjettrammer.
+
+Et flertall i utvalget foreslår å utrede en integrert lærerutdanning på mastergradsnivå for siste del av barnehagen og begynneropplæringen (for barn i aldersgruppen fem år til 4. trinn i grunnskolen). Her gjøres en første kostnadsberegning av et eventuelt tiltak. Utvalget tar utgangspunkt i at en andel studieplasser på dagens barnehagelærerutdanning (BLU) og en andel studieplasser på dagens grunnskolelærerutdanning trinn 1–7 (GLU) omgjøres til studieplasser på den nye lærerutdanningen. Som et utgangspunkt kan man se for seg at 20 prosent av studieplassene på BLU og 30 prosent av studieplassene på GLU blir omgjort. BLU ligger på bachelorgradsnivå, mens den nye lærerutdanningen skal ligge på mastergradsnivå. Dersom tiltaket skal følges av friske midler til UH-institusjonene, innebærer tiltaket statlige kostnader til å omgjøre BLU-studieplasser som ligger i departementets finansieringskategori E, til studieplasser i finansieringskategori D. I tillegg kommer kostnader til opprettelsen av nye studieplasser i en toårig mastergradsutdanning i kategori D. GLU ligger allerede på mastergradsnivå, og omgjøringen av studieplasser herfra medfører derfor ikke endringer i finansieringen.
+
+Dersom man tar utgangspunkt i at 20 prosent av dagens studieplasser på BLU (0,20\*8225) omgjøres til studieplasser i det foreslåtte integrerte mastergradsløpet (tilsvarende rundt 1650 studieplasser, der 330 studenter tas opp hvert år), vil statens totale kostnader av tiltaket i innføringsåret være 37 millioner kroner. Etter konsekvensjusteringer over fem år vil tiltaket være fullfinansiert med en årlig statlig kostnad på 161 millioner kroner. Dersom man heller velger å omgjøre 10 eller 5 prosent av BLU-studieplassene til den nye lærerutdanningen, blir årlige kostnader etter fem år henholdsvis 78 eller 39 millioner kroner.[^71] Dersom det vurderes at tiltaket medfører behov for å slå sammen institutter for barnehagelærer- og grunnskolelærerutdanninger i UH-sektor, vil tiltaket i tillegg ha betydelige administrative konsekvenser.
+
+Utvalget foreslår å innføre plikt i barnehageloven for kommunen til å tilby gratis førskole til alle barn det kalenderåret barna fyller fem år. Tilbudet inkluderer minst fem timer lekbaserte læringsaktiviteter i uken, der også barn som ikke går i barnehagen skal kunne benytte seg av tilbudet. For å beregne kostnadene av tiltaket legger utvalget til grunn at førskoletilbudet gjennomføres i barnehagen. Fem timer av oppholdstiden i barnehagen per uke skal da være gratis og tilgjengelig for et helt årskull femåringer. Av alle femåringer går 97,6 prosent allerede i barnehage (Statistisk sentralbyrå, 2018b, tabeller 07459 og 09169). Kostnaden av å gi de resterende femåringene fem timer gratis oppholdstid i barnehage per uke er om lag 30 millioner kroner årlig. Dersom femåringene som går i barnehage i dag skal få en reduksjon i foreldrebetalingen som følge av tiltaket, vil den statlige totalkostnaden anslagsvis være på omtrent 260 millioner kroner årlig.
+
+Et flertall i utvalget foreslår å innføre en norm for lærerspesialister i begynneropplæring, der hver skole med et barnetrinn uavhengig av størrelse skal ha minst én lærerspesialist i begynneropplæring, og der lærerspesialisten delvis frikjøpes for å kunne fungere som en ressurs for de andre lærerne på småskoletrinnet. Tiltaket fastsetter ikke hvor stor prosentandel av et lærerårsverk lærerspesialisten skal frikjøpes fra, og dette må utredes nærmere. Allerede ansatte lærere kan videreutdanne seg til lærerspesialist, og utvalget vurderer at dette kan dekkes med eksisterende midler til videreutdanning. Staten må imidlertid kompensere kommunene for den prosentandelen som lærerne skal frikjøpes fra i stillingen som lærerspesialist. Som illustrasjonen følger her beregninger for frikjøp på henholdsvis 20 og 30 prosent av et lærerårsverk. I 2019 utgjør et lærerårsverk i grunnskolen 745 000 kroner, og i 2018 var det 2326 skoler med et barnetrinn i landet (Statistisk sentralbyrå, 2018b, tabeller 09546 og 05232). For et frikjøp på 20 prosent vil tiltaket koste staten omtrent 350 millioner kroner årlig. For et frikjøp på 30 prosent vil de statlige kostnadene av tiltaket være på omtrent 520 millioner kroner årlig.
+
+Et knapt mindretall i utvalget foreslår å utrede flere modeller for felles førskole og fleksibel skolestart. For å illustrere mulige økonomiske virkninger av slike modeller har utvalget valgt å ta med anslagsvise beregninger i det følgende, med forbehold om at disse må gjøres på nytt etter en eventuell utredning med tanke på å pilotere og eventuelt systematisk prøve ut et tiltak for felles førskole og fleksibel skolestart. Gitt at det gjøres positive erfaringer med modellen i en piloteringsfase, foreslås det at ordningen prøves ut i et randomisert, kontrollert forsøk. Man vil trenge 50–100 forsøksskoler og et tilsvarende antall kontrollskoler for å gjennomføre utprøvingen. Utprøvingen skjer over 15 år med definerte endepunkter underveis. Utvalget vurderer at forskningsinnsatsen og kostnaden til en systematisk utprøving av tiltaket, samlet vil komme på anslagsvis 100 millioner kroner. Dette inkluderer merkostnader som følge av at barna med forsøket får et førskoletilbud første året på skolen der ressursbruken skal være lik ressursbruken for en storbarnsplass i barnehage, se under.
+
+Tiltaket kan gjennomføres enten ved at alle barna starter i førskoleåret det kalenderåret de fyller seks år, eller ved at alle barna starter i førskoleåret det kalenderåret de fyller fem år.
+
+Dersom tiltaket gjennomføres ved at barna starter i førskoleåret det kalenderåret de fyller seks år, og tiltaket etter prøveperioden rulles ut nasjonalt, gjelder følgende beregning: Tiltaket innebærer med denne forutsetningen en ekstra ressurstildeling til seksåringene på rundt 33 500 kroner per elev slik at ressursnivået blir likt som for en storbarnsplass (3–5 år) i barnehage.[^72] I det følgende tas det utgangspunkt i at et årskull er på 66 000 elever. Som en første illustrasjon antas det her at en tredjedel av barna med tiltaket vil gå et helt år i førskolen før de begynner på 1. trinn, det vil si rundt 22 000 elever. Merkostnadene av førskoleåret for disse elevene koster 737 millioner kroner. Det tas videre utgangspunkt i at en tredjedel av barna rulleres inn til 1. trinn etter et halvt år i førskolen. Merkostnadene av det halve førskoleåret for disse elevene er på rundt 369 millioner kroner. Disse elevene vil imidlertid bare gå et halvt år på 1. trinn, og vil i sum miste ett år i grunnskolen sammenlignet med i dag. Dette utgjør en reduksjon av statens utgifter til grunnskole på 2,56 milliarder kroner. For disse elevene blir det dermed i sum en reduksjon av statlige utgifter på 2,19 milliarder kroner. Til sist tas det utgangspunkt i at en tredjedel av elevene går rett videre til 1. trinn. Disse mister ett års skolegang i grunnskolen, noe som tilsvarer en reduksjon av statens utgifter til grunnskole på 2,56 milliarder kroner. Med antagelsene over om andelen elever som rulleres inn til 1. trinn på ulike tidspunkter, innebærer dermed dette tiltaket en samlet innsparing i statlige utgifter på ca. 4 milliarder kroner i året. Dersom man heller antar at to tredjedeler av seksåringene går et helt år i førskolen, en sjettedel av barna rulleres inn til 1. trinn etter et halvt år i førskolen og en sjettedel starter direkte på 1. trinn, medfører alternativet en samlet innsparing av statlige utgifter på ca. 900 millioner kroner i året.
+
+Dersom tiltaket gjennomføres ved at barna starter i førskoleåret det kalenderåret de fyller fem år, og tiltaket etter prøveperioden rulles ut nasjonalt, innebærer dette at et helt årskull starter ett år tidligere i grunnskolen. Som en første illustrasjon antas det her at en tredjedel av barna går et helt år i førskolen før de begynner på 1. trinn. Disse barna vil dermed få ett års skolegang mer i grunnskolen enn det de får i dag. Året de får ekstra er førskoleåret, som skal koste like mye som en storbarnsplass i barnehage. Dette innebærer da en ekstra utgift på rundt 3,29 milliarder kroner i året. Det antas videre at en tredjedel av barna rulleres inn til 1. trinn etter et halvt år i førskolen, går et halvt år på 1. trinn, og fullfører grunnskolen med samme antall år som i dag. Dette innebærer en ekstra utgift på 369 millioner kroner i året. Til sist antas det at en tredjedel av elevene går rett videre til 1. trinn. Disse vil gå like mange år på skolen som i dag, og medfører ingen ekstra kostnader. Samlede merkostnader blir da på ca. 3,7 milliarder kroner i året. Dersom man heller antar at to tredjedeler av femåringene går et helt år i førskolen, en sjettedel av barna rulleres inn til 1. trinn etter et halvt år i førskolen og en sjettedel starter direkte på 1. trinn, medfører alternativet en samlet kostnad på ca. 6,8 milliarder kroner i året.
+
+Ettersom femåringene med dette siste alternativet skal gå i grunnskolen i stedet for å gå i barnehagen, innebærer det en reduksjon av kostnader til barnehage. Gjennomsnittlig kostnad for en storbarnsplass (149 710 kroner) inkluderer både barnehageutgiftene til kommunene og foreldrebetaling (Lunder mfl., 2018). Foreldrene dekker omtrent 15 prosent av utgiftene til barnehagedrift (Utdanningsdirektoratet, 2018i). Kommunens kostnader per storbarnsplass beregnes her derfor til å utgjøre omtrent 127 250 kroner i 2019. 97,6 prosent av alle femåringer går i barnehage (Statistisk sentralbyrå, 2018b, tabeller 07459 og 09169). For et årskull på 66 000 barn tilsvarer dette ca. 64 400 barn. Innsparte kostnader for kommunen ved at 97,6 prosent av et årskull femåringer ikke lenger skal gå i barnehage, tilsvarer dermed ca. 8,2 milliarder kroner. Dette er utgifter som staten ikke lenger behøver å kompensere kommunene for. Når kostnadene for tiltaket er tatt med i beregning, innebærer dermed denne versjonen av tiltaket en netto reduksjon i samlede statlige kostnader til barnehage og skole på enten 1,4 eller 4,5 milliarder kroner i året, avhengig av hvor stor andel av femåringene som skal gå et helt år i førskolen (to tredjedeler eller en tredjedel).
+
+Ettersom det med dette alternativet er snakk om en betydelig økning i elevtallet i grunnskolen, vil det imidlertid medføre investeringskostnader som ikke er medberegnet i driftsutgiftene i grunnskolen per elev over, blant annet grunnet behovet for endringer av fysiske strukturer. Det er utfordrende å anslå totale investeringskostnader til endringer av fysiske strukturer for skoler som har behov for det, ettersom dette vil variere med skolestørrelse, alderen på skolebygningene, utformingen av byggene, med mer. Det er imidlertid mulig å se til statens utgifter til tilskuddsordningen for kompensasjon av kommunenes utgifter til nødvendige investeringer i skolebygg, inventar og utstyr i forbindelse med skolestart for seksåringer, som ble innført høsten 1997. Her ble det foreslått en samlet investeringsramme på 3 778 millioner kroner i 1996-kroner (St.prp. nr. 39 (1995–96)), som prisjustert for 2018 er omtrent 6 milliarder kroner. Det hefter imidlertid usikkerhet ved hvor treffende dette og øvrige anslag for dette tiltaket er, og utvalget vurderer derfor at de økonomiske konsekvensene av en nasjonal utrulling av dette tiltaket må utredes nærmere.
+
+Et flertall i utvalget foreslår å innføre en heldagsskole på 1.–4. trinn i grunnskolen. Tiltaket kan gjennomføres på flere måter. En minstevariant er å utvide skoledagen med to timer som besettes av assistenter, og der det fremdeles vil være behov for SFO fra og med kl. 15.00. Kostnadene isolert sett for et slikt minstealternativ beregnes ved at elevene i gjennomsnitt er to timer lenger på skolen hver dag på hvert av trinnene 1 til 4, multiplisert med kostnaden for en uketime bemannet med assistenter, som er om lag 75 millioner kroner. Et minstealternativ av dette tiltaket vil dermed koste staten omtrent 3 milliarder kroner årlig. Dette inkluderer ikke kostnader til en utvidelse av innhold eller tilbud i skoledagen, som kostnader til et varmt måltid, andre aktiviteter, læremidler, ekskursjoner eller lignende. Det kan legges til grunn at det vil være en viss innsparing knyttet til at barna tilbringer mindre tid i SFO, men dette er utfordrende å beregne gitt at SFO er ulikt organisert og finansiert i kommunene.
+
+Dersom man heller går inn for et maksimumsalternativ av tiltaket, der heldagsskolen innebærer en total innlemmelse av SFO i heldagsskoletilbudet, vil kostnadene bli betydelig større. Utvalget velger her å se til beregninger som Kunnskapsdepartementet har gjort i forbindelse med budsjettspørsmål fra Stortinget, der det beregnes at gratis SFO for småskoletrinnet der alle elever i et årskull deltar, vil koste staten om lag 8,1 milliarder kroner i året (Budsjettspørsmål fra Stortinget, 2018). Ettersom maksimumsalternativet innebærer en innlemmelse av SFO i heldagsskolen, vil dette alternativet også ha betydelige administrative konsekvenser.
+
+Utvalget foreslår å innføre et lovkrav om at enkeltvedtak om spesialundervisning etter opplæringsloven § 5 utløser rett til spesialundervisning med personell med relevant pedagogisk eller spesialpedagogisk kompetanse i 80 prosent av vedtakstimene. Så langt utvalget har klart å bringe på det rene, finnes det ikke statistikk tilgjengelig som gjør det mulig å beregne kostnadene av dette tiltaket. Etter det utvalget kan forstå, beror dette på at data som er registrert i GSI om lærer- og assistentressurser til spesialundervisning ikke kan skille mellom ulike undervisningssituasjoner, slik at det ikke er mulig å etablere et entydig forhold mellom registrerte lærer- og assistenttimer på den ene siden, og registrerte vedtakstimer for eleven (elevtimer) på den andre siden. Utvalget vurderer likefullt at det vil være nødvendig å kompensere kommunen økonomisk for et slikt lovforslag. Det vil derfor være behov for å beregne de statlige kostnadene av dette tiltaket nærmere, enten gjennom en kartlegging, eller gjennom forløpsdata dersom disse gjøres tilgjengelige i et nasjonalt register, jf. tidligere forslag til tiltak.[^73]
+
+Utvalget foreslår parallelt å revidere barnehageloven § 19a og § 19e slik at enkeltvedtak om rett til spesialpedagogisk hjelp før opplæringspliktig alder utløser rett til spesialpedagogisk hjelp fra personell med relevant pedagogisk eller spesialpedagogisk kompetanse i 80 prosent av vedtakstimene. Slik utvalget kan forstå gjelder de samme utfordringene knyttet til kostnadsberegninger av dette tiltaket som for tiltaket om spesialundervisning. Utvalget vurderer at det også her vil være nødvendig å kompensere kommunen økonomisk for lovforslaget, slik at det vil være behov for en nærmere utredning av de statlige kostnadene av tiltaket – enten gjennom en kartlegging eller gjennom forløpsdata.
+
+Grunnskolens innhold og organisering
+
+Utvalget har ikke foreslått endringer i de etablerte ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet.
+
+Utvalget foreslår å innføre krav om at skoler kun kan kjøpe inn fagfellevurderte læremidler etter nasjonalt fastsatte kvalitetskriterier for det enkelte fag. Dette tiltaket vil dermed ha administrative konsekvenser.
+
+Utvalget vurderer at forslagene til tiltak som angår endringer i læreplanverket, utredninger og videreutvikling av underveis- og sluttvurderingssystemet, endringer i opplæringsloven, samt etter- og videreutdanningstilbud, kan gjennomføres innenfor eksisterende budsjettrammer.
+
+Utvalget foreslår å etablere en felles nasjonal internettportal for vurdering og sammenligning av digitale læremidler etter nasjonalt fastsatte kvalitetskriterier for det enkelte fag. Etter utvalgets vurdering bør det settes av en årlig budsjettramme på anslagsvis 10 millioner kroner til tiltaket.
+
+Utvalget foreslår å gjøre systematiske utprøvinger for å integrere opplæring i sosiale og emosjonelle ferdigheter i ulike undervisningsfag i grunnskolen. Etter utvalgets vurdering bør det settes av en årlig budsjettramme på anslagsvis 25 millioner kroner til tiltaket.
+
+Utvalget foreslår å systematisk prøve ut ulike modeller for å øke timetallet i valgfag på ungdomstrinnet for å evaluere effektene av valgfag for elevenes skolemotivasjon, karakterer i valgfag og andre undervisningsfag, og sannsynligheten for å fullføre videregående opplæring. Etter utvalgets vurdering bør det settes av en årlig budsjettramme på anslagsvis 25 millioner kroner til tiltaket.
+
+Utvalget foreslår å opprette et såkornfond for digitale læremidler forvaltet på oppdrag fra Innovasjon Norge. Etter utvalgets vurdering bør det settes av en årlig budsjettramme på anslagsvis 50 millioner kroner til tiltaket.
+
+Utvalget foreslår å utrede nærmere hvordan yrkesgrupper utenfor grunnskolen kan undervise i det foreslåtte faget utdanningsvalg og livsmestring, særlig gjennom samarbeid med skolehelsetjenesten og andre deler av de kommunale helse- og omsorgstjenestene. Utvalget vurderer at økonomiske og administrative konsekvenser av dette forslaget må utredes nærmere.
+
+Utvalget foreslår videre å innføre krav om at kommunene må tilby minst fem valgfag som elevene kan velge mellom, utrede hvordan yrkesgrupper utenfor grunnskolen med relevant kompetanse kan undervise i enkelte av valgfagene, og opprette etter- og videreutdanningstilbud for de som underviser i valgfagene. Utvalget vurderer at de økonomiske og administrative konsekvensene av dette forslaget må utredes nærmere. Utvalget vurderer at det kan være hensiktsmessig å gjennomføre en kartlegging av eksisterende kompetanse blant dem som underviser i valgfagene, for deretter å vurdere hvor strengt et eventuelt kompetansekrav bør være. En mulighet er også å begrense kompetansekravet til å gjelde de vanligste eller største valgfagene. Utvalget vurderer at forslaget til tiltak bør inngå som en sak i konsultasjonsordningen med kommunene.
+
+Overganger til videregående opplæring og høyere utdanning
+
+Utvalget har ikke foreslått store endringer i de etablerte ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet. Utvalget foreslår at ansvaret for karriereveiledning til hele befolkningen legges til fylkeskommunen. Dette medfører to endringer av forvaltningsnivå. For det første betyr det en endring fra dagens fordeling der kommunen har ansvar for rådgivning i grunnskolen. For det andre flyttes karriereveiledning for personer utenfor arbeid fra NAV, som er et partnerskap mellom stat og kommune, til fylkeskommunen.
+
+Utvalget vurderer at forslagene til tiltak og utredninger som angår inntaksforskriften til videregående opplæring, opptak til høyere utdanning, samt flertallet av forslagene om lærekandidatordningen, overganger mellom yrkesfaglige løp og høyere utdanning, kjønnsbalanse i høyere utdanning, og karriereveiledning for ungdom, kan gjennomføres innenfor eksisterende budsjettrammer.
+
+Utvalget foreslår å systematisk prøve ut løp som kombinerer fagskoleutdanning og høyere utdanning for å øke opptaket av studenter med fagbrev i høyere utdanning. Etter utvalgets vurdering bør det settes av en årlig budsjettramme på anslagsvis 25 millioner kroner til tiltaket.
+
+Utvalget foreslår at det utvikles et digitalt verktøy for karriereveiledere i ungdomsskolen. Etter utvalgets vurdering bør det settes av en årlig budsjettramme på anslagsvis 30 millioner kroner til tiltaket.
+
+Utvalget foreslår å utrede utdanningsløp som kombinerer henholdsvis yrkesfag med studiekompetanse, og yrkesfag med interessebaserte programfag fra studieforberedende utdanningsprogrammer. Utvalget mener utredningen også bør vurdere å opprette et øremerket investeringstilskudd til kommunene for å utvikle slike utdanningsløp og opprette elevplasser for slike tilbud. Ettersom tilskuddet er knyttet til utvikling av tilbud som allerede delvis finnes i fylkeskommunene, mener utvalget at tilskuddet bør ha et krav om kommunal medfinansiering. Til sist bør midlene innlemmes i rammetilskuddet når de kombinerte utdanningstilbudene er fastsatt i tilbudsstrukturen for videregående opplæring. Det antas at 25 prosent av elevene på yrkesfag (8750 elever) ønsker slike kombinerte utdanningsløp. Med en gjennomsnittlig utgift på 160 200 kroner per elev i videregående opplæring (Utdanningsdirektoratet, 2018i), bør fylkeskommunene da kompenseres for rundt 1,4 milliarder kroner. Den samfunnsøkonomiske nytten av å fullføre videregående opplæring er beregnet til omtrent 1 million kroner per elev (2017, prisjustert) (Falch mfl., 2009). For at tiltaket skal være samfunnsøkonomisk lønnsomt, må dermed 1400 flere elever fullføre videregående opplæring som følge av å ha mottatt tiltaket.
+
+Utvalget foreslår å utrede en ordning for å nedskrive studielånet for studieprogrammer der andelen søkere av ett kjønn utgjør under 20 prosent. Med ordningen vil personer av det underrepresenterte kjønnet få nedskrevet studielånet med 10 prosent eller opptil 25 000 kroner per år i de årene personen er i relevant arbeid. For å beregne kostnadene av tiltaket tas det utgangspunkt i at 1000 nyutdannede studenter per kull vil benytte ordningen hvert år. Det vil si at dersom studentene i gjennomsnitt bruker 20 år på å nedbetale lånet, vil 20 000 studenter benytte seg av tilbudet hvert år etter full utrulling av tiltaket. Gjennomsnittlig gjeld ved avsluttet høyere utdanning er 304 000 kroner i 2018 (Lånekassen, 2018). Med en nedbetalingsplan på 20 år, vil studentene i gjennomsnitt nedskrive lånet med 13 000 kroner per år. Tiltaket vil da koste staten 260 millioner kroner årlig. Ettersom tiltaket forutsetter at personene etter endt utdanning er i relevant arbeid, vil dette være en øvre grense for hva tiltaket vil koste for 1000 studenter hvert kull.
+
+Utvalget foreslår å utrede et universitetsforberedende tilbud der elever kan ta opp fag fra videregående opplæring som ikke er bestått, bygge ut vitnemålet til spesiell studiekompetanse, forbedre karakterer eller ta universitetsforberedende fag. I 2017 deltok 1567 elever i alderen 19–24 år i annen videregående utdanning. Denne gruppen besto hovedsakelig av elever som tok fag ved private institusjoner. (Statistisk sentralbyrå, 2018b, tabell 08947). Dersom disse i stedet gis tilbud om et universitetsforberedende år, og der det antas at kostnaden per elev er på rundt 150 000 kroner, vil dette medføre en statlig kostnad på 235 millioner kroner årlig. Kostnadene kan bli høyere dersom tiltaket gjør at flere elever enn i dag tar opp igjen fag etter videregående opplæring. Et kostnadsbegrensende tiltak kan være at tilbudet kun gis til elever som ikke har tatt et utforskende skoleår, jf. forslaget under. For de samfunnsøkonomiske kostnadene av tiltaket kan det legges til at noen elever som i dag går rett ut i arbeidslivet eller rett videre til et høyere utdanningsløp som de fullfører, vil bruke ett år mer på utdanning enn i dag før de kommer seg ut i arbeid. Det er utfordrende å avgjøre hvor stor samfunnsøkonomisk nytte tiltaket vil ha, ettersom tiltaket både vil kunne øke fullføringen i videregående opplæring og føre til at flere fullfører høyere utdanning.
+
+Utvalget foreslår å utrede et tilbud om et utforskende skoleår etter grunnskolen, der fylkeskommunene får ansvar for tilbudet. Ettersom skoleåret skal inneholde interessebaserte valgfag og utprøving av yrker i tillegg til et faglig innhold, er det naturlig å ta utgangspunkt i en kostnadsramme som ligger nærmere kostnadene for elever i videregående opplæring enn for elever i grunnskolen. Fylkeskommunene bruker i gjennomsnitt 160 200 kroner per elev i videregående opplæring (Utdanningsdirektoratet, 2018i). Tilbudet skal i utgangspunktet gis alle elever som ønsker det. Samtidig skal tilbudet utformes for ungdom som står i fare for å ikke fullføre videregående opplæring. Dersom alle elever uten grunnskolepoeng eller med færre enn 35 grunnskolepoeng mottar tilbudet, vil det utgjøre ca. 15 000 elever. Dette tilsvarer en statlig kostnad på rundt 2,4 milliarder kroner årlig. Ettersom det like fullt vil være sannsynlig at flere elever enn de som er tenkt som målgruppe vil benytte seg av tilbudet, kan det være hensiktsmessig å vurdere kostnadene der eksempelvis 30 prosent av en kohort benytter seg av tilbudet. Dette vil tilsvare en statlig kostnad på omtrent 3,2 milliarder kroner årlig. Den samfunnsøkonomiske nytten av å fullføre videregående opplæring er 1 million kroner per elev. Tiltaket kan dermed være samfunnsøkonomisk lønnsomt dersom det bidrar til at henholdsvis 2400 eller 3200 flere elever fullfører videregående opplæring som resultat av å ha mottatt tiltaket.
+
+Utvalget foreslår å innføre lovfestet rett til læreplass for alle elever som fullfører Vg2 yrkesfag. Fylkeskommunen får ansvaret for å fylle retten, og må inngå opsjonskontrakter med lærebedrifter som skal dekke minst 50 prosent av elevene som starter på Vg1 i hvert yrkesfag. For å redusere risikoen noe for bedriften, foreslås en innføring av en seks måneders prøvetid for lærlinger over 18 år. Tiltaket innebærer derfor betydelige administrative konsekvenser. Videre skal dagens situasjon med flere kandidater enn lærlingplasser avhjelpes med økt lærlingtilskudd fra staten til fylkeskommunen. I 2017 var det 8100 flere søkere enn læreplasser. Beholdes dagens lærlingtilskudd på 153 053 kroner, vil tiltaket medføre en statlig merkostnad på 1,2 milliarder kroner årlig.
+
+For å beregne den samfunnsøkonomiske nytten av tiltaket trengs et estimat på hvor mange av elevene som ville fullføre læretiden dersom de blir tilbudt læreplass. Det kan tenkes at de som står uten læreplass i dag, vil fullføre i noe lavere grad enn de som nå er lærlinger. Det er imidlertid ikke grunn til å tro at fullføringsandelen vil være svært annerledes, ettersom også disse elevene har fullført og bestått Vg2. Dersom vi regner med at de 8100 elevene som blir tilgodesett med tiltaket fullfører i samme grad som lærlinger i dag (83 prosent fullføringsrate), vil rundt 6700 av dem fullføre videregående opplæring på normert tid. Av de elevene som ikke fikk lærlingplass i 2017, startet 2500 av dem yrkesopplæring Vg3 i skole. Det antas at fullføringsgraden for disse er på mellom 38 og 55 prosent (Aspøy & Nyen, 2015). Dersom vi trekker fra de elevene som fullfører yrkesopplæring Vg3 (omtrent 1 250 elever), vil tiltaket kunne føre til omtrent 5500 flere fagbrev med en samfunnsøkonomisk nytte på omtrent 1 million kroner per lærling. Den samfunnsøkonomiske innsparingen kan da bli på minst 5,5 milliarder kroner. Ettersom ordningen ideelt sett gjør yrkesfaglig Vg3 overflødig, kan man da ytterligere spare utgifter til 2 500 elever i Vg3. Disse koster 160 200 kroner per år, og medfører dermed en besparelse på 400 millioner kroner. Den samlede innsparingen kan dermed bli på 5,9 milliarder kroner. Dersom dagens lærlingtilskudd beholdes, vil ordningen da ha en samfunnsøkonomisk nytte på hele 4,7 milliarder kroner.
+
+Det er utfordrende å avgjøre hvor mye av lærlingtilskuddet som må øke for at fylkeskommunen skal være i stand til å innfri rettigheten gjennom å gjøre ordningen attraktiv for bedriftene. Et maksalternativ er at staten dekker bedriftens fulle utgifter til lærlingene; dette vil innebære en dobling av lærlingtilskuddet (Utdanningsdirektoratet, 2017b). Totalt antall lærlinger i dag er omtrent 21 000. Dersom lærlingtilskuddet dobles med den nye ordningen der alle har rett til læreplass, vil dette bety en ekstra kostnad for eksisterende lærlinger på omtrent 3,2 milliarder kroner (21 000 \* 153 000) og en kostnad for nye lærlinger på omtrent 2,5 milliarder kroner (8100 \* 306 000). En fordobling av lærlingtilskuddet vil da koste staten 5,7 milliarder kroner årlig. En dobling av lærlingtilskuddet vil samtidig medføre at lærlingen er fullfinansiert, noe som antas å være svært gunstig for bedriften. Selv med en dobling av lærlingtilskuddet vil dermed ordningen fortsatt være samfunnsøkonomisk lønnsom (5,9 - 5,7 milliarder kroner = 200 millioner kroner).
+
+Utvalget mener at fylkeskommunene bør utvide tilbudet av studieforberedende utdanningsprogrammer som i dag har høy søkning i forhold til antall elevplasser. Utvalget foreslår derfor å plassere alle studieforberedende utdanningsprogrammer utenom studiespesialisering i kategorien høykostnadsprogram i inntektssystemet for fylkeskommunen. I dag får fylker med en høy andel søkere til yrkesfaglige utdanningsprogrammer og det studieforberedende utdanningsprogrammet musikk, dans og drama høyere inntekter enn fylker med mange søkere til andre studieforberedende utdanningsprogrammer. Det er likevel ikke mulig å peke på et gitt beløp som staten overfører til fylkeskommunene til ulike utdanningsprogrammer. Det skyldes at videregående opplæring i hovedsak finansieres av fylkeskommunenes frie inntekter. For å legge til rette for at fylkeskommunene faktisk øker kapasiteten på populære utdanningsprogrammer mener utvalget at fylkeskommunene bør kompenseres gjennom rammetilskuddet. Det må utredes nærmere hva som er en rimelig kompensasjon for fylkeskommunene.
+
+Utvalget foreslår til sist at lærekandidater gis rett til videreutdanning til fagbrev uten tidsbegrensning. Økonomiske og administrative konsekvenser av dette tiltaket må imidlertid utredes nærmere.
 
 Referanseliste
 
-ferdighetsstimulerende førskoletiltak (SØF-rapport nr. 04/06). Senter for økonomisk
-forskning, Norges teknisk-naturvitenskapelige
-universitet.
-Brenøe, A. A. & Lundberg, S. (2018). Gender gaps
-in the effects of childhood family environment:
-Do they persist into adulthood? European Economic Review, 109, 42–62.
-Breslau, J., Miller, E., Joanie Chung, W. J. & Schweitzer, J. B. (2011). Childhood and adolescent
-onset psychiatric disorders, substance use,
-and failure to graduate high school on time. J
-Psychiatr Res, 45(3), 295–301.
-Brix, N., Ernst, A., Lauridsen, L. L. B., Parner, E.,
-Støvring, H., Olsen, J., … Ramlau-Hansen, C.
-H. (2018). Timing of puberty in boys and girls:
-A population-based study. Paediatric and Perinatal Epidemiology.
-Brock, L. L., Rimm-Kaufman, S. E., Nathanson, L.
-& Grimm, K. J. (2009). The contributions of
-‘hot’and ‘cool’executive function to children’s
-academic achievement, learning-related behaviors, and engagement in kindergarten.
-Early Childhood Research Quarterly, 24(3),
-337–349.
-Browning, M. & Heinesen, E. (2007). Class size,
-teacher hours and educational attainment. The
-Scandinavian Journal of Economics, 109(2),
-415–438.
-Brugård, K. H. (2013). Does School Choice Improve Student Performance? Trondheim: Department of Economics, Norwegian University
-of Science and Technology, Working Paper, (7).
-Brugård, K. H. & Falch, T. (2013). Post-compulsory education and imprisonment. Labour Economics, 23, 97–106.
-Brännlund, A., Strandh, M. & Nilsson, K. (2017).
-Mental-health and educational achievement:
-the link between poor mental-health and upper
-secondary school completion and grades. Journal of Mental Health, 26(4), 318–325.
-Buchmann, C. & DiPrete, T. A. (2006). The
-growing female advantage in college completion: The role of family background and academic achievement. American Sociological Review, 71(4), 515–541.
-Budsjettspørsmål fra Stortinget. (2018). Svar på
-spørsmål 65 fra Finanskomiteen/SVs fraksjon
-av 09.10.2018: Gratis SFO. Hentet fra https://
-www.statsbudsjettet.no/Statsbudsjettet-2019/
-Budsjettsporsmal/Bevilgningssporsmal/Sosialistisk-venstreparti65/?query=gratis+SFO&parti=&sort=date&all=true#hopp901
-55
+Aadland, K. N., Aadland, E., Andersen, J. R., Lervåg, A., Moe, V. F., Resaland, G. K. & Ommundsen, Y. (2018). Executive Function, Behavioral Self-Regulation, and School Related Well-Being Did Not Mediate the Effect of School-Based Physical Activity on Academic Performance in Numeracy in 10-Year-Old Children. The Active Smarter Kids (ASK) Study. *Frontiers in Psychology, 9*, 245–245.
 
-[Side 252]
+Aakvik, A., Salvanes, K. G. & Vaage, K. (2010). Measuring heterogeneity in the returns to education using an education reform. *European Economic Review, 54*(4), 483–500.
 
-250
+Abrahamsen, S. A., Ginja, R. & Riise, J. (2018). School Health Programs: Education, Heatlh, and Welfare Dependency of Young Adults. I S. A. Abrahamsen (Red.), *Public Policy, Health, and Welfare*. Universitetet i Bergen: Bergen.
 
-Referanseliste
+Accortt, E. E., Cheadle, A. C. & Schetter, C. D. (2015). Prenatal depression and adverse birth outcomes: an updated systematic review. *Maternal and child health journal, 19*(6), 1306–1337.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Adler, N. E., Boyce, T., Chesney, M. A., Cohen, S., Folkman, S., Kahn, R. L. & Syme, S. L. (1994). Socioeconomic status and health: The challenge of the gradient. *American Psychologist, 49*(1), 15–24.
 
-Bulman, G. & Fairlie, R. W. (2016). Technology
-and education: Computers, software, and the
-internet. I Handbook of the Economics of Education (bd. 5, s. 239–280). Elsevier.
-Burgess, S. M. (2016). Human Capital and Education: The State of the Art in the Economics of
-Education. IZA Discussion Paper No. 9885.
-IZA Institute of Labor Economics.
-Burman, D. D., Bitan, T. & Booth, J. R. (2008). Sex
-differences in neural processing of language
-among children. Neuropsychologia, 46(5),
-1349–1362.
-Busch, V., Loyen, A., Lodder, M., Schrijvers, A. J.,
-van Yperen, T. A. & de Leeuw, J. R. (2014). The
-effects of adolescent health-related behavior
-on academic performance: a systematic review
-of the longitudinal evidence. Review of Educational Research, 84(2), 245–274.
-Buser, T., Niederle, M. & Oosterbeek, H. (2014).
-Gender, competitiveness, and career choices.
-The Quarterly Journal of Economics, 129(3),
-1409–1447.
-Butikofer, A., Jensen, S. & Salvanes, K. G. (2018).
-The Role of Parenthood on the Gender Gap
-Among Top Earners. European Economic Review, 109, 103–123.
-Byrhagen, K., Falch, T. & Strøm, B. (2006). Frafall
-i videregående opplæring: Betydningen av
-grunnskolekarakterer, studieretninger og fylke.
-SØF-rapport nr. 08/06. Trondheim: Senter for
-Økonomisk Forskning.
-Böhlmark, A. & Lindahl, M. (2015). Independent
-Schools and Long-run Educational Outcomes:
-Evidence from Sweden’s Large-scale Voucher
-Reform. Economica, 82(327), 508–551.
-Bölte, S., Poustka, F. & Constantino, J. N. (2008).
-Assessing autistic traits: cross-cultural validation of the social responsiveness scale (SRS).
-Autism Research, 1(6), 354–363.
-Calvin, C. M., Fernandes, C., Smith, P., Visscher,
-P. M. & Deary, I. J. (2010). Sex, intelligence
-and educational achievement in a national cohort of over 175,000 11-year-old schoolchildren in England. Intelligence, 38(4), 424–432.
-Campbell, F., Conti, G., Heckman, J. J., Moon, S.
-H., Pinto, R., Pungello, E. & Pan, Y. (2014).
-Early childhood investments substantially
-boost adult health. Science, 343(6178), 1478–
-1485.
-Cappelen, Å., Dapi, B., Gjefsen, H. M., Sparrman,
-V. & Stølen, N. M. (2018). Framskrivinger av
-arbeidsstyrken og sysselsettingen etter utdanning
-mot 2035 (Rapporter 2018/36). Oslo: Statistisk
-Sentralbyrå.
+Ainsworth, M. S. (1979). Infant–mother attachment. *American Psychologist, 34*(10), 932.
 
-Caprara, G. V., Barbaranelli, C., Pastorelli, C.,
-Bandura, A. & Zimbardo, P. G. (2000). Prosocial Foundations of Children’s Academic Achievement. Psychological Science, 11(4).
-Carlson, M. J. & Corcoran, M. E. (2001). Family
-structure and children’s behavioral and cognitive outcomes. Journal of Marriage and Family, 63(3), 779–792.
-Carneiro, P., Løken, K. V. & Salvanes, K. G.
-(2015). A flying start? Maternity leave benefits
-and long-run outcomes of children. Journal of
-Political Economy, 123(2), 365–412.
-Carneiro, P. & Heckman, J. J. (2003). Human capital policy. IZA Discussion Paper No. 821, IZA
-Institute of Labor Economics.
-Carrell, S. E., Maghakian, T. & West, J. E. (2011).
-A’s from Zzzz’s? The causal effect of school
-start time on the academic achievement of
-adolescents. American Economic Journal: Economic Policy, 3(3), 62–81.
-Carskadon, M. A., Vieira, C. & Acebo, C. (1993).
-Association between puberty and delayed
-phase preference. Sleep, 16(3), 258–262.
-Carter, S. C. (2000). No Excuses: Lessons from 21
-High-Performing, High-Poverty Schools. Washington, DC: Heritage Foundation.
-Carter, S. P., Greenberg, K. & Walker, M. S.
-(2017). The impact of computer usage on academic performance: Evidence from a randomized trial at the United States Military Academy. Economics of Education Review, 56,
-118–132.
-Cascio, E. U. (2009). Do investments in universal
-early education pay off? long-term effects of introducing kindergartens into public schools.
-NBER Working Paper No. 14951, National Bureau of Economic Reseach.
-Cascio, E. U. (2010). What happened when kindergarten went universal? Education Next,
-10(2).
-Cascio, E. U. & Schanzenbach, D. W. (2013). The
-impacts of expanding access to high-quality
-preschool education. NBER Working Paper
-No. 19735. National Bureau of Economic Research.
-Cascio, E. U. & Schanzenbach, D. W. (2016). First
-in the class? Age and the education production
-function. Education Finance and Policy 11(3),
-225–250.
-Casey, B. J., Jones, R. M. & Hare, T. A. (2008). The
-Adolescent Brain. Annals of the New York Academy of Sciences, 1124, 111–126.
-Casey, M. B., Nuttall, R., Pezaris, E. & Benbow, C.
-P. (1995). The influence of spatial ability on
-gender differences in mathematics college en-
+Allen, J. S., Damasio, H., Grabowski, T. J., Bruss, J. & Zhang, W. (2003, 2003/04/01/). Sexual dimorphism and asymmetries in the gray–white composition of the human cerebrum. *NeuroImage, 18*(4), 880–894.
 
-[Side 253]
+Almas, I., Cappelen, A. W., Salvanes, K. G., Sørensen, E. Ø. & Tungodden, B. (2012). Explaining gender differences in competitiveness. *American Economic Association Annual Meeting Paper, presented at Acapulco, January*.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Almond, D. (2006). Is the 1918 influenza pandemic over? Long-term effects of in utero influenza exposure in the post-1940 US population. *Journal of Political Economy, 114*(4), 672–712.
 
-trance test scores across diverse samples. Developmental Psychology, 31(4), 697–705.
-Casey, M. B., Nuttall, R. L. & Pezaris, E. (1997).
-Mediators of gender differences in mathematics college entrance test scores: a comparison
-of spatial skills with internalized beliefs and
-anxieties. Dev Psychol, 33(4), 669–680.
-Caspi, A., Houts, R. M., Belsky, D. W., GoldmanMellor, S. J., Harrington, H., Israel, S., … Moffitt, T. E. (2014). The p Factor:One General
-Psychopathology Factor in the Structure of
-Psychiatric Disorders? Clinical Psychological
-Science, 2(2), 119–137.
-Castro, M., Expósito-Casas, E., López-Martín, E.,
-Lizasoain, L., Navarro-Asencio, E. & Gaviria, J.
-L. (2015). Parental involvement on student
-academic achievement: A meta-analysis. Educational Research Review, 14, 33–46.
-Cavanagh, A., Wilson, C. J., Kavanagh, D. J. & Caputi, P. (2017). Differences in the Expression
-of Symptoms in Men Versus Women with Depression: A Systematic Review and Meta-analysis. Harvard Review of Psychiatry, 25(1), 29–
-38.
-Chabrier, J., Cohodes, S. & Oreopoulos, P. (2016).
-What can we learn from charter school lotteries? Journal of Economic Perspectives, 30(3),
-57–84.
-Chapple, S. (2009). Child Well-Being and Sole-Parent Family Structure in the OECD – An Analysis. OECD Publishing, Paris.
-Cheng, A., Hitt, C., Kisida, B. & Mills, J. N. (2017).
-«No Excuses» Charter Schools: A Meta-Analysis of the Experimental Evidence on Student
-Achievement. Journal of School Choice, 11(2),
-209–238.
-Chetty, R., Friedman, J. N., Hilger, N., Saez, E.,
-Schanzenbach, D. W. & Yagan, D. (2011). How
-does your kindergarten classroom affect your
-earnings? Evidence from Project STAR. The
-Quarterly Journal of Economics, 126(4), 1593–
-1660.
-Chetty, R., Friedman, J. N. & Rockoff, J. E.
-(2014a). Measuring the impacts of teachers I:
-Evaluating bias in teacher value-added estimates. American Economic Review, 104(9), 2593–
-2632.
-Chetty, R., Friedman, J. N. & Rockoff, J. E.
-(2014b). Measuring the impacts of teachers II:
-Teacher value-added and student outcomes in
-adulthood. American Economic Review,
-104(9), 2633–2679.
-Chetty, R., Hendren, N. & Katz, L. F. (2016). The
-Effects of Exposure to Better Neighborhoods
+Almond, D. & Currie, J. (2011). Killing Me Softly: The Fetal Origins Hypothesis. *J Econ Perspect, 25*(3), 153–172.
 
-251
+Almås, I., Cappelen, A. W., Salvanes, K. G., Sørensen, E. Ø. & Tungodden, B. (2016). What explains the gender gap in college track dropout? Experimental and administrative evidence. *American Economic Review, 106*(5), 296–302.
 
-Referanseliste
+Almås, I., Salvanes, K. G. & Sørensen, E. Ø. (2012). Et valg i blinde? *MAGMA Econas Tidsskrift for Økonomi og Ledelse*, 5, 45–51.
 
-on Children: New Evidence from the Moving
-to Opportunity Experiment. American Economic Review, 106(4), 855–902.
-Cho, I. (2012). The effect of teacher–student gender matching: Evidence from OECD countries. Economics of Education Review, 31(3),
-54–67.
-Church, A. T. (2016). Personality traits across cultures. Current Opinion in Psychology, 8, 22–30.
-Clark, D. & Del Bono, E. (2016). The long-run effects of attending an elite school: Evidence
-from the united kingdom. American Economic
-Journal: Applied Economics, 8(1), 150–176.
-Cohen, I. (1992). A power primes. Psychological
-Bulletin, 112(1), 155.
-Collisson, B. A., Graham, S. A., Preston, J. L.,
-Rose, M. S., McDonald, S. & Tough, S. (2016).
-Risk and Protective Factors for Late Talking:
-An Epidemiologic Investigation. The Journal of
-Pediatrics, 172, 168–174.
-Conley, D. (2000). Sibship sex composition: Effects on educational attainment. Social Science
-Research, 29(3), 441–457.
-Conley, D. & Glauber, R. (2006). Parental educational investment and children’s academic risk
-estimates of the impact of sibship size and
-birth order from exogenous variation in fertility. Journal of Human Resources, 41(4), 722–
-737.
-Connellan, J., Baron-Cohen, S., Wheelwright, S.,
-Batki, A. & Ahluwalia, J. (2000). Sex differences in human neonatal social perception. Infant behavior and Development, 23(1), 113–
-118.
-Constantino, J. N. & Todd, R. D. (2003). Autistic
-traits in the general population: A twin study.
-Arch Gen Psychiatry, 60(5), 524–530.
-Conti, G., Heckman, J. J. & Pinto, R. (2016). The
-effects of two influential early childhood interventions on health and healthy behaviour. The
-Economic Journal, 126(596).
-Cook, P. J., Dodge, K., Farkas, G., Fryer, R. G., Guryan, J., Ludwig, J. & Mayer, S. (2015). Not Too
-Late: Improving Academic Outcomes for Disadvantaged Youth. Working Paper 15-01. Institute
-for Policy Research Northwestern University.
-Cools, S. & Hart, R. K. (2017). The effect of childhood family size on fertility in adulthood: New
-evidence from IV estimation. Demography,
-54(1), 23–44.
-Cools, S., Schøne, P. & Strøm, M. (2017). Forskyvninger i skolestart: Hvilken rolle spiller kjønn
-og sosial bakgrunn? Søkelys på arbeidslivet,
-34(04), 273–289.
+Altonji, J. G. & Pierret, C. R. (2001). Employer learning and statistical discrimination. *The Quarterly Journal of Economics, 116*(1), 313–350.
 
-[Side 254]
+Amato, P. R. (2001). Children of divorce in the 1990s: an update of the Amato and Keith (1991) meta-analysis. *Journal of Family Psychology, 15*(3), 355.
 
-252
+Amato, P. R. & Rezac, S. J. (1994). Contact with nonresident parents, interparental conflict, and children’s behavior. *Journal of Family Issues, 15*(2), 191–207.
 
-Referanseliste
+Andersen, P. Ø., Björklund, E., Bleses, D., Gjervan, M., Hagtvet, B. & Valvatne, H. (2011). *Vurdering av verktøy som brukes til å kartlegge barns språk i norske barnehager. Rapport fra Ekspertutvalg nedsatt av Kunnskapsdepartementet 2010/2011*. Hentet fra https://www.regjeringen.no/globalassets/upload/kd/vedlegg/barnehager/rapporter-og-planer/ekspertgruppe/vurdering_av_verktoy_2011.pdf
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Andersland, L. (2017). Peer Effects from a School Choice Reform. I *Four Essays on the Determinants of Human Capital Accumulation in Norway*. Bergen: Universitetet i Bergen.
 
-Cools, S. & Strøm, M. (2016). Parenthood wage
-penalties in a double income society. Review of
-Economics of the Household, 14(2), 391–416.
-Cooper, S. B., Bandelow, S., Nute, M. L., Morris, J.
-G. & Nevill, M. E. (2012). The effects of a midmorning bout of exercise on adolescents’ cognitive function. Mental Health and Physical
-Activity, 5(2), 183–190.
-Cornwell, C., Mustard, D. B. & Van Parys, J.
-(2013). Noncognitive skills and the gender disparities in test scores and teacher assessments: Evidence from primary school. Journal
-of Human Resources, 48(1), 236–264.
-Correll, Shelley J., Benard, S. & Paik, I. (2007).
-Getting a Job: Is There a Motherhood Penalty?
-American journal of Sociology, 112(5), 1297–
-1339.
-Cosgrove, K. P., Mazure, C. M. & Staley, J. K.
-(2007). Evolving knowledge of sex differences
-in brain structure, function, and chemistry.
-Biological psychiatry, 62(8), 847–855.
-Credé, M., Tynan, M. C. & Harms, P. D. (2017).
-Much ado about grit: A meta-analytic synthesis
-of the grit literature. Journal of Personality and
-Social Psychology, 113(3), 492.
-Crivellaro, E. (2016). The College Wage Premium
-over Time: Trends in Europe in the Last 15
-Years. I Inequality: Causes and Consequences
-(s. 287–328). Emerald Group Publishing Limited.
-Crompton, R. & Lyonette, C. (2011). Women’s Career Success and Work–life Adaptations in the
-Accountancy and Medical Professions in Britain. Gender, Work & Organization, 18(2), 231–
-254.
-Crosnoe, R. (2009). Low-income students and the
-socioeconomic composition of public high
-schools. American Sociological Review, 74(5),
-709–730.
-Croson, R. & Gneezy, U. (2009). Gender differences in preferences. Journal of Economic literature, 47(2), 448–474.
-Cullen, J. B., Jacob, B. A. & Levitt, S. (2006). The
-effect of school choice on participants: Evidence from randomized lotteries. Econometrica, 74(5), 1191–1230.
-Cunha, F., Elo, I. & Culhane, J. (2013). Eliciting
-maternal expectations about the technology of
-cognitive skill formation. National Bureau of
-Economic Research.
-Cunha, F. & Heckman, J. J. (2007). The technology of skill formation. American Economic Review, 97(2), 31–47.
-Cunha, F., Heckman, J. J., Lochner, L. & Masterov,
-D. V. (2006). Interpreting the evidence on life
+Anderson, M. L. (2008). Multiple inference and gender differences in the effects of early intervention: A reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects. *Journal of the American statistical Association, 103*(484), 1481–1495.
 
-cycle skill formation. Handbook of the Economics of Education, 1, 697–812.
-Cunha, F., Heckman, J. J. & Schennach, S. M.
-(2010). Estimating the technology of cognitive
-and noncognitive skill formation. Econometrica, 78(3), 883–931.
-Currie, J. (2001). Early Childhood Education Programs. Journal of Economic Perspectives, 15(2),
-213–238.
-Currie, J. & Almond, D. (2011). Human capital development before age five. I Handbook of labor
-economics (bd. 4, s. 1315–1486). Elsevier.
-Currie, J. & Moretti, E. (2007). Biology as destiny? Short-and long-run determinants of intergenerational transmission of birth weight.
-Journal of Labor economics, 25(2), 231–264.
-Currie, J. & Neidell, M. (2007). Getting inside the
-«black box» of Head Start quality: What matters and what doesn’t. Economics of Education
-Review, 26(1), 83–99.
-Currie, J., Neidell, M. & Schmieder, J. F. (2009).
-Air pollution and infant health: Lessons from
-New Jersey. Journal of health economics, 28(3),
-688–703.
-Currie, J. & Stabile, M. (2006). Child mental health and human capital accumulation: the case
-of ADHD. Journal of health economics, 25(6),
-1094–1118.
-Currie, J. & Yelowitz, A. (2000). Are public housing projects good for kids? Journal of Public
-Economics, 75(1), 99–124.
-Dahl, G. B. & Lochner, L. (2012). The impact of family income on child achievement: Evidence
-from the earned income tax credit. American
-Economic Review, 102(5), 1927–1956.
-Dahl, G. B., Løken, K. V., Mogstad, M. & Salvanes, K. V. (2016). What is the case for paid maternity leave? Review of Economics and Statistics, 98(4), 655–670.
-Dahl, T., Askling, B., Heggen, K., Kulbrandstad, L.
-I., Lauvdal, T., Qvortrup, L., … Thue, F. W.
-(2016). Om lærerrollen – et kunnskapsgrunnlag. Oslo: Fagbokforlaget.
-Danmarks evalueringsinstitut. (2012). 10. klasse –
-på vej mod ungdomsuddannelse. (Evalueringsrapport). Rosendahl-Schultz Grafisk a/s.
-Danzer, N. & Lavy, V. (2017). Paid parental leave
-and children’s schooling outcomes. The Economic Journal 128(608), 81–117.
-David, S. P., Naudet, F., Laude, J., Radua, J., FusarPoli, P., Chu, I., … Ioannidis, J. P. A. (2018,
-2018/04/17). Potential Reporting Bias in Neuroimaging Studies of Sex Differences. Scientific Reports, 8(1), 6082.
+Andresen, M. E. & Havnes, T. (2018). *Child care, Parental labor supply and tax revenue*. IZA Discussion Paper No. 11576, IZA Institute of Labor Economics.
 
-[Side 255]
+Andresen, S., Høst, H., Nyen, T., Oldervoll, J. & Tønder, A. H. (2016). *Evaluering av vekslingsmodell i fag-og yrkesopplæringen: Delrapport 2*. NIFU Arbeidsnotat; 2016:18 og FAFO-notat; 2016:18, NIFU og FAFO.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Angrist, J. D. & Evans, W. N. (1996). *Children and their parents’ labor supply: Evidence from exogenous variation in family size*.
 
-Day, F. R., Thompson, D. J., Helgason, H., Chasman, D. I., Finucane, H., Sulem, P., … Perry, J.
-R. B. (2017). Genomic analyses identify hundreds of variants associated with age at menarche and support a role for puberty timing in
-cancer risk. Nature Genetics, 49, 834. https://
-doi.org/10.1038/ng.3841.
-De Bolle, M., De Fruyt, F., McCrae, R. R., Lockenhoff, C. E., Costa, P. T., Jr., Aguilar-Vafaie, M.
-E., … Terracciano, A. (2015). The emergence
-of sex differences in personality traits in early
-adolescence: A cross-sectional, cross-cultural
-study. J Pers Soc Psychol, 108(1), 171–185.
-De Hauw, Y., Grow, A. & Van Bavel, J. (2017). The
-reversed gender gap in education and assortative mating in Europe. European Journal of Population, 33(4), 445–474.
-Dee, T. S. (2007). Teachers and the gender gaps in
-student achievement. Journal of Human Resources, 42(3), 528–554.
-Del Giudice, M., Booth, T. & Irwing, P. (2012).
-The Distance Between Mars and Venus: Measuring Global Sex Differences in Personality.
-PLoS One, 7(1).
-Deming, D. J., Hastings, J. S., Kane, T. J. & Staiger, D. O. (2014). School choice, school quality, and postsecondary attainment. The American economic review 104(3), 991--1013.
-Dempsey, I., Valentine, M. & Colyvas, K. (2016).
-The Effects of Special Education Support on
-Young Australian School Students. International Journal of Disability, Development and Education, 63(3), 271–292.
-Denham, S. A. (2006, 2006/01/03). Social-Emotional Competence as Support for School Readiness: What Is It and How Do We Assess It?
-Early Education and Development, 17(1), 57–
-89.
-Denham, S. A., Bassett, H. H., Thayer, S. K., Mincic, M. S., Sirotkin, Y. S. & Zinsser, K. (2012).
-Observing Preschoolers’ Social-Emotional Behavior: Structure, Foundations, and Prediction
-of Early School Success. The Journal of Genetic
-Psychology, 173(3), 246–278.
-Diamond, A. (2013). Executive functions. Annual
-review of psychology, 64, 135–168.
-Dietz, S. & Henrich, C. (2014). Texting as a distraction to learning in college students.
-Computers in Human behavior, 36, 163–167.
-Difi. (2014). Mot alle odds? Veier til samordning i
-norsk forvaltning. (Difi-rapport 2014:7). Direktoratet for forvaltning og IKT.
-DiPrete, T. A. & Buchmann, C. (2013). The rise of
-women: The growing gender gap in education
+NBER Working Paper No. 5778, National Bureau of Economic Research.
 
-253
+Angrist, J. D. & Lavy, V. (1999). Using Maimonides’ rule to estimate the effect of class size on scholastic achievement. *The Quarterly Journal of Economics, 114*(2), 533–575.
 
-Referanseliste
+Angrist, J. D. & Lavy, V. (2009). The effects of high stakes high school achievement awards: Evidence from a randomized trial. *American Economic Review, 99*(4), 1384–1414.
 
-and what it means for American schools Russell
-Sage Foundation.
-DiPrete, T. A. & Jennings, J. L. (2012). Social and
-behavioral skills and the gender gap in early
-educational achievement. Social Science Research, 41(1), 1–15.
-Dobbie, W. & Fryer Jr, R. G. (2011). Are high-quality schools enough to increase achievement
-among the poor? Evidence from the Harlem
-Children’s Zone. American Economic Journal:
-Applied Economics, 3(3), 158–187.
-Dobbie, W. & Fryer Jr, R. G. (2013). Getting beneath the veil of effective schools: Evidence from
-New York City. American Economic Journal:
-Applied Economics, 5(4), 28–60.
-Domina, T., Conley, A. & Farkas, G. (2011). The
-link between educational expectations and effort in the college-for-all era. Sociology of Education, 84(2), 93–112.
-Donnelly, J. E., Hillman, C. H., Castelli, D., Etnier,
-J. L., Lee, S., Tomporowski, P., … Szabo-Reed,
-A. N. (2016). Physical activity, fitness, cognitive function, and academic achievement in
-children: a systematic review. Medicine and
-Science in Sports and Exercise, 48(6), 1197.
-Doyle, R. A. & Voyer, D. (2016). Stereotype manipulation effects on math and spatial test performance: A meta-analysis. Learning and Individual Differences, 47, 103–116.
-Doyle, W. (2006). Ecological Approaches to Classroom Management. I Handbook of classroom
-management: Research, practice, and contemporary issues. (s. 97–125). Mahwah, NJ, US:
-Lawrence Erlbaum Associates Publishers.
-Drange, I. (2013). Early-career Income Trajectories among Physicians and Dentists: The
-Significance of Ethnicity. European Sociological Review, 29(2), 346–358.
-Drange, I. & Vågan, A. (2013). Stratification in the
-medical profession: Non-Western physicians
-in Norway. Professions and Professionalism,
-3(1).
-Drange, N. & Havnes, T. (2015). Child care before
-age two and the development of language and
-numeracy: Evidence from a lottery. IZA Discussion Paper No. 8904, IZA Institute for the
-Study of Labor.
-Drange, N., Havnes, T. & Sandsør, A. M. (2012).
-Kindergarten for all: Long run effects of a universal intervention. IZA Discussion Paper No.
-6986. IZA Institute of Labor Economics.
-Drange, N. & Rege, M. (2013). Trapped at home:
-The effect of mothers’ temporary labor market
-exits on their subsequent work career. Labour
-Economics, 24, 125–136.
+Angrist, J. D., Pathak, P. A. & Walters, C. R. (2013). Explaining charter school effectiveness. *American Economic Journal: Applied Economics, 5*(4), 1–27.
 
-[Side 256]
+Angrist, J. D. & Pischke, J.-S. (2008). *Mostly harmless econometrics: An empiricist’s companion*. Princeton: Princeton university press.
 
-254
+Ankney, C. D. (1992). Sex differences in relative brain size: The mismeasure of woman, too? *Intelligence, 16*(3), 329–336.
 
-Referanseliste
+Antecol, H., Eren, O. & Ozbeklik, S. (2014). The effect of teacher gender on student achievement in primary school. *Journal of Labor economics, 33*(1), 63–89.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Anthun, R. & Manger, T. (2006). Effects of Special Education Teams on School Psychology Services. *School Psychology International, 27*(3), 259–280.
 
-Drange, N. & Rønning, M. (2017). Child care center staff composition and early child development. Discussion Papers No. 8904, Statistisk
-sentralbyrå.
-Drange, N. & Telle, K. (2015). Promoting integration of immigrants: Effects of free child care
-on child enrollment and parental employment.
-Labour Economics, 34, 26–38.
-Drange, N. & Telle, K. (2017). Preschool and
-school performance of children from immigrant families. Empirical Economics, 52(2),
-825–867.
-Drukker, M., Feron, F. J. M., Mengelers, R. & Van
-Os, J. (2009). Neighborhood Socioeconomic
-and Social Factors and School Achievement in
-Boys and Girls. The Journal of Early Adolescence, 29(2), 285–306.
-Duckworth, A. L., Peterson, C., Matthews, M. D.
-& Kelly, D. R. (2007). Grit: Perseverance and
-passion for long-term goals. Journal of Personality and Social Psychology, 92(6), 1087–1101.
-Duckworth, A. L. & Quinn, P. D. (2009). Development and validation of the Short Grit Scale
-(GRIT–S). Journal of personality assessment,
-91(2), 166–174.
-Duckworth, A. L. & Seligman, M. E. (2006). Selfdiscipline gives girls the edge: Gender in selfdiscipline, grades, and achievement test scores. Journal of Educational Psychology, 98(1),
-198.
-Duflo, E., Dupas, P. & Kremer, M. (2011). Peer effects, teacher incentives, and the impact of
-tracking: Evidence from a randomized evaluation in Kenya. American Economic Review,
-101(5), 1739–1774.
-Durmer, J. S. & Dinges, D. F. (2005). Neurocognitive consequences of sleep deprivation. Semin
-Neurol, 25(1), 117–129.
-Dustmann, C. & Cornelissen, T. (2018). Early
-School Exposure, Test Scores, and Noncognitive Outcomes. American Economic Journal:
-Economic Policy. (Kommende publikasjon).
-Dustmann, C., Ku, H. & Kwak, D. W. (2017). Why
-are single-sex schools successful? Labour Economics, 54, 79–99.
-Dustmann, C. & Schönberg, U. (2012). Expansions in Maternity Leave Coverage and Children’s Long-Term Outcomes. American Economic Journal: Applied Economics, 4(3), 190–
-224.
-Dæhlen, M. & Eriksen, I. M. (2015). «Det tenner
-en gnist» Evaluering av valgfagene på ungdomstrinnet (NOVA Rapport 2/15). Oslo: Norsk institutt for forskning om oppvekst, velferd og
-aldring.
+Araujo, M. C., Carneiro, P., Cruz-Aguayo, Y. & Schady, N. (2016). Teacher quality and learning outcomes in kindergarten. *The Quarterly Journal of Economics, 131*(3), 1415–1453.
 
-Dæhlen, M., Smette, I. & Strandbu, Å. (2011).
-Ungdomsskoleelevers meninger om skolemotivasjon. En forskningstudie. (Rapport nr. 4/11).
-Oslo: Norsk institutt for forskning om oppvekst, velferd og aldring.
-Early, D. M., Iruka, I. U., Ritchie, S., Barbarin, O.
-A., Winn, D.-M. C., Crawford, G. M., … Howes, C. (2010). How do pre-kindergarteners
-spend their time? Gender, ethnicity, and
-income as predictors of experiences in pre-kindergarten classrooms. Early Childhood Research Quarterly, 25(2), 177–193.
-Eccles, J. S. & Wang, M.-T. (2016). What motivates females and males to pursue careers in
-mathematics and science? International Journal of Behavioral Development, 40(2), 100–
-106.
-Edwards, F. (2012). Early to rise? The effect of daily start times on academic performance. Economics of Education Review, 31(6), 970–983.
-Eide, E. & Showalter, M. H. (1998). The effect of
-school quality on student performance: A quantile regression approach. Economics letters,
-58(3), 345–350.
-Eidevald, C. (2009). Det finns inga tjejbestämmare:
-att förstå kön som position i förskolans vardagsrutiner och lek Jönköping: Högskolan för
-lärande och kommunikation.
-Eika, L., Mogstad, M. & Zafar, B. (2014). Educational assortative mating and household income
-inequality. NBER Working Paper No. 20271.
-National Bureau of Economic Research.
-Eisenberg, N., Valiente, C. & Eggum, N. D.
-(2010). Self-Regulation and School Readiness.
-Early Education and Development, 21(5), 681–
-698.
-Eisenkopf, G., Hessami, Z., Fischbacher, U. &
-Ursprung, H. W. (2015). Academic performance and single-sex schooling: Evidence
-from a natural experiment in Switzerland. Journal of Economic Behavior & Organization, 115,
-123–143.
-Elango, S., García, J. L., Heckman, J. J. & Hojman,
-A. (2015). Early Childhood Education. National Bureau of Economic Research Working Paper Series, No. 21766.
-Elliott, J., Dale, A. & Egerton, M. (2001). The Influence of Qualifications on Women’s Work
-Histories, Employment Status and Earnings at
-Age 33. European Sociological Review, 17(2),
-145–168.
-Else-Quest, N. M., Hyde, J. S., Goldsmith, H. H. &
-Van Hulle, C. A. (2006). Gender differences in
-temperament: A meta-analysis. Psychological
-Bulletin, 132(1), 33–72.
+Arcidiacono, P., Bayer, P. & Hizmo, A. (2010). Beyond Signaling and Human Capital: Education and the Revelation of Ability. *American Economic Journal: Applied Economics, 2*(4), 76-104.
 
-[Side 257]
+Arden, R. & Plomin, R. (2006). Sex differences in variance of intelligence across childhood. *Personality and Individual Differences, 41*(1), 39–48.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Aspøy, T. & Nyen, T. (2015). *Godt, men ikke for godt: Evaluering av forsterket alternativ Vg3 for elever som ikke får læreplass* (Fafo-rapport). Fafo. Hentet fra https://www.udir.no/globalassets/filer/tall-og-forskning/forskningsrapporter/alternativ-vg3.pdf
 
-Else-Quest, N. M., Hyde, J. S. & Linn, M. C.
-(2010). Cross-national patterns of gender differences in mathematics: A meta-analysis.
-Psychological Bulletin, 136(1), 103–127.
-Epinion. (2011). Kompetencebaseret Rullende skolestart og Aldersintegreret Indskoling (Hovedrapport – Slutevaluering af KRAI). Århus
-kommune. Hentet fra https://backend.folkeskolen.dk/~/8/7/slutevaluering-af-krai---hovedrapport.pdf
-Epstein, D., Elwood, J., Hey, V., & Maw, J. (ed.).
-(1998). Failing boys?: Issues in gender and achievement. UK: McGraw-Hill Education
-Eren, O. (2017). Differential Peer Effects, Student
-Achievement, and Student Absenteeism: Evidence From a Large-Scale Randomized Experiment. Demography, 54(2), 745–773.
-Eriksen, A. & Astrid, R. (2012). Den nasjonale prøven i lesing på 8. og 9. trinn, 2012. Rapport basert på populasjonsdata (Nasjonale prøver 2011
-– fagmiljøenes analyse av prøvene). Hentet fra
-https://www.udir.no/globalassets/upload/nasjonale_prover/2012/fagmiljoenes-analyse/
-vedlegg1_analyse_fagmiljo_nples0809.pdf
-Eriksen, B. (2018). Rektors styringsrett. Oslo: Gyldendal juridisk.
-Eriksson, M., Marschik, P. B., Tulviste, T., Almgren, M., Pérez Pereira, M., Wehberg, S., …
-Gallego, C. (2012). Differences between girls
-and boys in emerging language skills: Evidence from 10 language communities. British
-Journal of Developmental Psychology, 30(2),
-326–343.
-Ertesvåg, S. K. (2009). Classroom leadership: The
-effect of a school development programme.
-Educational Psychology, 29(5), 515–539.
-Ertesvåg, S. K. & Vaaland, G. S. (2007). Prevention and reduction of behavioural problems in
-school: An evaluation of the Respect program.
-Educational Psychology, 27(6), 713–736.
-Eskreis-Winkler, L., Duckworth, A., Shulman, E.
-& Beal, S. (2014). The grit effect: predicting
-retention in the military, the workplace, school
-and marriage. Frontiers in Psychology, 5(36).
-Esteban-Cornejo, I., Hallal, P. C., Mielke, G. I., Menezes, A. M. B., GonÇAlves, H., Wehrmeister,
-F., … Rombaldi, A. J. (2015). Physical Activity
-throughout Adolescence and Cognitive Performance at 18 Years of Age. Medicine and Science in Sports and Exercise, 47(12), 2552–
-2557.
-Etchell, A., Adhikari, A., Weinberg, L. S., Choo, A.
-L., Garnett, E. O., Chow, H. M. & Chang, S.-E.
-(2018). A systematic literature review of sex
+Attali, Y., Neeman, Z. & Schlosser, A. (2011). *Rise to the challenge or not give a damn: differential performance in high vs. low stakes tests*. IZA Discussion Paper No. 5693, IZA Institute of Labor Economics.
 
-255
+Attanasio, O. P. & Kaufmann, K. M. (2014). Education choices and returns to schooling: Mothers’ and youths’ subjective expectations and their role by gender. *Journal of Development Economics, 109*, 203–216.
 
-Referanseliste
+Autor, D., Figlio, D., Karbownik, K., Roth, J. & Wasserman, M. (2016a). *Family disadvantage and the gender gap in behavioral and educational outcomes*.
 
-differences in childhood language and brain
-development. Neuropsychologia, 114, 19–31.
-Evensen, M., Lyngstad, T. H., Melkevik, O. & Mykletun, A. (2016). The Role of Internalizing
-and Externalizing Problems in Adolescence
-for Adult Educational Attainment: Evidence
-from Sibling Comparisons using Data from the
-Young HUNT Study. European Sociological Review, 32(5), 552–566.
-Fagskolen Innlandet. (2018). Bachelor for de med
-yrkesfaglig bakgrunn. Hentet fra http://fagskolen-innlandet.no/nyheter/bachelor-demed-yrkesfaglig-bakgrunn
-Fairlie, R. W. & Kalil, A. (2017). The effects of
-computers on children’s social development
-and school participation: Evidence from a
-randomized control experiment. Economics of
-Education Review, 57, 10–19.
-Falch, T., Bensnes, S. & Strøm, B. (2016). Skolekvalitet i videregående opplæring (SØF-rapport
-nr. 01/16). Senter for økonomisk forskning
-Falch, T., Borge, L.-E., Lujala, P., Nyhus, O. H. &
-Strøm, B. (2010). Årsaker til og konsekvenser av
-manglende fullføring av videregående opplæring. Trondheim: Senter for økonomisk
-forskning.
-Falch, T., Johannesen, A. B. & Strøm, B. (2009).
-Kostnader av frafall i videregående opplæring
-(SØF-rapport nr. 08/09). Senter for økonomisk
-forskning.
-Falch, T. & Naper, L. R. (2013). Educational evaluation schemes and gender gaps in student
-achievement. Economics of Education Review,
-36, 12–25.
-Falch, T., Nyhus, O. H. & Strøm, B. (2014). Causal
-effects of mathematics. Labour Economics, 31,
-174–187.
-Falch, T. & Rønning, M. (2012). Homework assignment and student achievement in OECD countries. (Discussion Paper No. 711) Oslo: Statistisk sentralbyrå.
-Falcone, G. & Willén, A. (2017). The Long-run Effects of Teacher Strikes: Evidence from Argentina. CEDLAS Working Paper, Universidad
-Nacional de La Plata.
-Fan, X. & Chen, M. (2001). Parental involvement
-and students’ academic achievement: A metaanalysis. Educational Psychology Review, 13(1),
-1–22.
-Fan, X., Fang, H. & Markussen, S. (2015). Mothers’ Employment and Children’s Educational
-Gender Gap. NBER Working Paper No. 21183.
-National Bureau of Economic Research.
-Federici, R. A., Flatø, M., Helleve, A., Midthassel,
-U. V. & Bru, E. (2017). Increased School Nurse
+NBER Working Paper No. 22267, National Bureau of Economics Research.
 
-[Side 258]
+Autor, D., Figlio, D., Karbownik, K., Roth, J. & Wasserman, M. (2016b). School Quality and the Gender Gap in Educational Achievement. *The American Economic Review, 106*(5), 289–295.
 
-256
+Autor, D. & Wasserman, M. (2013). *Wayward Sons: The Emerging Gender Gap in Labor Markets and Education*. Washington, District of Columbia: Third Way. Hentet fra http://www.thirdway.org/report/wayward-sons-the-emerging-gender-gap-in-labor-markets-and-education
 
-Referanseliste
+Averett, S. L. & Burton, M. L. (1996). College attendance and the college wage premium: Differences by gender. *Economics of Education Review, 15*(1), 37–49.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Avshalom Caspi & Terrie E. Moffitt. (2018). All for One and One for All: Mental Disorders in One Dimension. *American Journal of Psychiatry, 175*(9), 831–844.
 
-Resource in Systemic and Structured Collaboration with Norwegian Primary Schools: A
-Randomised, Controlled Trial. AEA RCT Registry.
-Feldman, H. M., Dollaghan, C. A., Campbell, T. F.,
-Kurs-Lasky, M., Janosky, J. E. & Paradise, J. L.
-(2000). Measurement properties of the MacArthur Communicative Development Inventories at ages one and two years. Child Development, 71(2), 310–322.
-Felfe, C., Nollenberger, N. & Rodríguez-Planas, N.
-(2015). Can’t buy mommy’s love? Universal
-childcare and children’s long-term cognitive
-development. Journal of population economics,
-28(2), 393–422.
-Feng, J., Spence, I. & Pratt, J. (2007). Playing an
-Action Video Game Reduces Gender Differences in Spatial Cognition. Psychological Science,
-18(10), 850–855.
-Fenson, L., Dale, P. S., Reznick, J. S., Bates, E.,
-Thal, D. J., Pethick, S. J., … Stiles, J. (1994).
-Variability in early communicative development. Monographs of the society for research in
-child development 59(5), 1–173.
-Ferguson, A. M., Maloney, E. A., Fugelsang, J. &
-Risko, E. F. (2015). On the relation between
-math and spatial ability: The case of math anxiety. Learning and Individual Differences, 39,
-1–12.
-Fernández, R., Fogli, A. & Olivetti, C. (2004). Mothers and Sons: Preference Formation and Female Labor Force Dynamics. The Quarterly
-Journal of Economics, 119(4), 1249–1299.
-Fidjeland, A. L. (2017). Competing with grades-The
-effect of school choice on high school dropout rates. (Upublisert masteroppgave). The University of Bergen. Hentet fra http://bora.uib.no/
-handle/1956/16096.
-Field, T. (1996). Attachment and separation in young children. Annual review of psychology,
-47(1), 541–561.
-Field, T. (2011). Prenatal depression effects on
-early development: a review. Infant behavior
-and Development, 34(1), 1–14.
-Figlio, D. & Loeb, S. (2011). School accountability.
-I Handbook of the Economics of Education (bd.
-3, s. 383–421). Elsevier.
-Fine, C. (2010). Delusions of gender: How our
-minds, society, and neurosexism create difference. WW Norton & Company.
-Flanagan, K. & Einarson, J. (2017). Gender, Math
-Confidence, and Grit: Relationships with Quantitative Skills and Performance in an Undergraduate Biology Course. CBE-Life Sciences
-Education, 16(3), ar47.
+Azmat, G., Calsamiglia, C. & Iriberri, N. (2016). Gender differences in response to big stakes. *Journal of the European Economic Association, 14*(6), 1372–1400.
 
-Fletcher, J. M. (2010). Adolescent depression and
-educational attainment: results using sibling fixed effects. Health Economics, 19(7), 855–871.
-Flynn, J. R. (1998). Israeli military IQ tests: Gender differences small; IQ gains large. Journal
-of Biosocial Science, 30(4), 541–553.
-Folkehelseinstituttet. (2014). Folkehelserapporten
-2014: Helsetilstanden i Norge. Folkehelseinstituttet.
-Folkehelseinstituttet. (2015). Fakta om ADHD.
-Hentet fra https://www.fhi.no/fp/barn-ogunge/utviklingsforstyrrelser/adhd---faktaark/
-Folkehelseinstituttet. (2016a). Dødsårsaksregisteret. Selvmord. Hentet fra http://www.norgeshelsa.no/norgeshelsa/?language=no
-Folkehelseinstituttet. (2016b). Forventet levealder etter utdanning. Hentet fra http://norgeshelsa.no/norgeshelsa
-Folkehelseinstituttet. (2018). ADHD-diagnoser
-ikkje godt nok dokumenterte. Hentet fra
-https://www.fhi.no/nyheter/2018/adhd-diagnosar-ikkje-godt-nok-dokumenterte/
-Fortin, N. M., Oreopoulos, P. & Phipps, S. (2015).
-Leaving boys behind gender disparities in
-high academic achievement. Journal of Human Resources, 50(3), 549–579.
-Fossum, S., Handegård, B. H. & Mørch, W.-T.
-(2010). Utviklingen i barns utagerende atferd
-og mødres oppdragelsespraksis etter foreldretrening. Tidsskrift for Norsk Psykologforening,
-47, 601–607.
-Fredriksen, M., Dahl, A. A., Martinsen, E. W.,
-Klungsoyr, O., Faraone, S. V. & Peleikis, D. E.
-(2014). Childhood and persistent ADHD
-symptoms associated with educational failure
-and long-term occupational disability in adult
-ADHD. ADHD Attention Deficit and Hyperactivity Disorders, 6(2), 87–99.
-Fredriksson, P. & Öckert, B. (2014). Life-cycle Effects of Age at School Start. The Economic
-Journal, 124(579), 977–1004.
-Fredriksson, P., Öckert, B. & Oosterbeek, H.
-(2012). Long-term effects of class size. The Quarterly Journal of Economics, 128(1), 249–285.
-Fredriksson, P., Öckert, B. & Oosterbeek, H.
-(2016). Parental responses to public investments in children: Evidence from a maximum
-class size rule. Journal of Human Resources,
-51(4), 832–868.
-Fried, R., Petty, C., Faraone, S. V., Hyder, L. L.,
-Day, H. & Biederman, J. (2016). Is ADHD a
-Risk Factor for High School Dropout? A Controlled Study. Journal of Attention Disorders,
-20(5), 383–389.
+Backe-Hansen, E., Walhovd, K. B. & Huang, L. (2014). *Kjønnsforskjeller i skoleprestasjoner: en kunnskapsoppsummering* (NOVA Rapport 5/14). Norsk institutt for forskning om oppvekst, velferd og aldring.
 
-[Side 259]
+Backer-Grøndahl, A., Nærde, A. & Idsoe, T. (2018). Hot and Cool Self-Regulation, Academic Competence, and Maladjustment: Mediating and Differential Relations. *Child Development*.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Backer-Grøndahl, A., Nærde, A., Ulleberg, P. & Janson, H. (2016). Measuring Effortful Control Using the Children’s Behavior Questionnaire–Very Short Form: Modeling Matters. *Journal of personality assessment, 98*(1), 100–109.
 
-Fryer Jr, R. G. (2012). Learning from the successes
-and failures of charter schools. Innlegg presentert ved The Hamiliton Project Washington,
-DC.
-Fryer Jr, R. G. (2014). Injecting charter school
-best practices into traditional public schools:
-Evidence from field experiments. The Quarterly Journal of Economics, 129(3), 1355–1407.
-Fröjd, S. A., Nissinen, E. S., Pelkonen, M. U. I.,
-Marttunen, M. J., Koivisto, A.-M. & KaltialaHeino, R. (2008). Depression and school performance in middle adolescent boys and girls.
-Journal of Adolescence, 31(4), 485–498.
-Gabrielsen, E. & Lundetræ, K. (2017). Indikerer
-de norske PIRLSresultatene et behov for å justere retningslinjene for skolestartsalder? I
-Klar framgang! (s. 204–221).
-Gage, S. H., Davey Smith, G., Ware, J. J., Flint, J.
-& Munafò, M. R. (2016). G = E: What GWAS
-Can Tell Us about the Environment. PLOS Genetics, 12(2), e1005765.
-Galsworthy, M. J., Dionne, G., Dale, P. S. & Plomin, R. (2000). Sex differences in early verbal
-and non-verbal cognitive development. Developmental Science, 3(2), 206–215.
-Garbo, J. & Raugland, V. (2017). Den brysomme
-profesjonaliteten – Om skjønnsutøvelse og styring. Oslo: Universitetsforslaget.
-Garcia, J. L., Heckman, J. J. & Ziff, A. L. (2018).
-Gender differences in the benefits of an influential early childhood program. European Economic Review, 109, 9–22.
-Gardner, F., Leijten, P., Melendez-Torres, G. J.,
-Landau, S., Harris, V., Mann, J., … Scott, S.
-(2018). The Earlier the Better? Individual Participant Data and Traditional Meta-analysis of
-Age Effects of Parenting Interventions. Child
-Development.
-Garner, P. W. & Waajid, B. (2008). The associations of emotion knowledge and teacher-child
-relationships to preschool children’s school-related developmental competence. Journal of
-Applied Developmental Psychology, 29(2), 89–
-100.
-Garvik, M., Idsoe, T. & Bru, E. (2014). Depression
-and School Engagement among Norwegian
-Upper Secondary Vocational School Students.
-Scandinavian Journal of Educational Research,
-58(5), 592–608.
-Gary-Bobo, R. J., Picard, N. & Prieto, A. (2006).
-Birth order and sibship sex composition as instruments in the study of education and earnings. CEPR Discussion Paper No. 5514, Centre for Ecunomic Policy Research (CEPR).
+Bailey, M. J. (2006). More Power to the Pill: The Impact of Contraceptive Freedom on Women’s Life Cycle Labor Supply. *The Quarterly Journal of Economics, 121*(1), 289–320.
 
-257
+Bailey, M. J. (2010). «Momma’s Got the Pill»: How Anthony Comstock and *Griswold v. Connecticut* Shaped US Childbearing. *American Economic Review, 100*(1), 98–129.
 
-Referanseliste
+Bailey, M. J. (2013). *Fifty years of family planning: new evidence on the long-run effects of increasing access to contraception*. (NBER Working Paper No. 19493). National Bureau of Economic Research.
 
-Gauthier, A. H. (2002). Family policies in industrialized countries: is there convergence? Population (english edition), 447–474.
-Gauthier, A. H., Smeeding, T. M. & Furstenberg,
-F. F. (2004). Are parents investing less time in
-children? Trends in selected industrialized countries. Population and Development Review,
-30(4), 647–672.
-Gentile, D. A., Lynch, P. J., Linder, J. R. & Walsh,
-D. A. (2004). The effects of violent video game
-habits on adolescent hostility, aggressive behaviors, and school performance. Journal of
-Adolescence, 27(1), 5–22.
-Gibson, J. (2000). Sheepskin effects and the returns to education in New Zealand: do they differ by ethnic groups? New Zealand Economic
-Papers, 34(2), 201–220.
-Giedd, J. N. (2015). The amazing teen brain. Scientific American, 312(6), 32–37.
-Gilje, Ø., Ingulfsen, L., Dolonen, J. A., Furberg, A.,
-Rasmussen, I., Kluge, A. & Knain, E. (2016).
-Med ARK&APP: Bruk av læremidler og ressurser for læring på tvers av arbeidsformer. Universitetet i Oslo.
-Gill, D., Del Greco M, F., Rawson, T. M., Sivakumaran, P., Brown, A., Sheehan, N. A. & Minelli, C. (2017). Age at Menarche and Time
-Spent in Education: A Mendelian Randomization Study. Behavior Genetics, 47(5), 480–485.
-Giota, J. & Gustafsson, J. E. (2017). Perceived Demands of Schooling, Stress and Mental Health:
-Changes from Grade 6 to Grade 9 as a
-Function of Gender and Cognitive Ability.
-Stress and Health, 33(3), 253–266.
-Gjefsen, H. M. & Gunnes, T. (2016). The effects of
-School Accountability on Teacher Mobility and
-Teacher Sorting. MPRA Paper No. 69664, Munich Personal RePEc Archive.
-Gjerberg, E. (2001). Medical women—towards
-full integration? An analysis of the specialty
-choices made by two cohorts of Norwegian
-doctors. Social Science & Medicine, 52(3),
-331–343.
-Gjerde, L. C., Roysamb, E., Czajkowski, N., Reichborn-Kjennerud, T., Orstavik, R. E., Kendler,
-K. S. & Tambs, K. (2011). Strong genetic correlation between interview-assessed internalizing disorders and a brief self-report symptom
-scale. Twin Res Hum Genet, 14(1), 64–72.
-Gluckman, P. D. & Hanson, M. A. (2006). Evolution, development and timing of puberty.
-Trends in Endocrinology & Metabolism, 17(1),
-7–12.
-Gneezy, U., Leonard, K. L. & List, J. A. (2009).
-Gender Differences in Competition: Evidence
+Bailey, M. J., Sun, S. & Timpe, B. (2018). Prep School for Poor Kids: The Long-Run Impacts of Head Start on Human Capital and Economic Self-Sufficiency. University of Michigan.
+
+Baker, M., Gruber, J. & Milligan, K. (2008). Universal child care, maternal labor supply, and family well-being. *Journal of Political Economy, 116*(4), 709–745.
+
+Baker, M. & Milligan, K. (2016). Boy-girl differences in parental time investments: Evidence from three countries. *Journal of Human Capital, 10*(4), 399–441.
+
+Baker, R., Bettinger, E., Jacob, B. & Marinescu, I. (2018). The effect of labor market information on community college students’ major choice. *Economics of Education Review 10/11*, 65, 18–30.
+
+Bakken, A. (2009). Er mannlige lærere viktige for gutters skoleprestasjoner? *Tidsskrift for ungdomsforskning, 9*(2).
+
+Bakken, A. (2014). *Ungdata. Nasjonale resultater 2013*. Oslo: Norsk institutt for forskning om oppvekst, velferd og aldring. Hentet fra http://www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2014/Ungdata.-Nasjonale-resultater-2013
+
+Bakken, A. (2015). *Ungdata. Nasjonale resultater 2014*. Oslo: Norsk institutt for forskning om oppvekst, velferd og aldring. Hentet fra http://www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Ungdata.-Nasjonale-resultater-2014
+
+Bakken, A. (2016). *Ungdata 2016. Nasjonale resultater*. Oslo: Norsk institutt for forskning om oppvekst, velferd og aldring. Hentet fra http://www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2016/Ungdata-2016.-Nasjonale-resultater
+
+Bakken, A. (2017). *Ungdata 2017 – Nasjonale resultater*. Hentet fra http://www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2017/Ungdata-2017
+
+Bakken, A. (2018). *Ungdata 2018. Nasjonale resultater*. Oslo: Norsk institutt for forskning om oppvekst, velferd og aldring, OsloMet – storbyuniversitetet. Hentet fra http://www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2018/Ungdata-2018.-Nasjonale-resultater
+
+Bakken, A., Borg, E., Hegna, K. & Backe-Hansen, E. (2008). Er det skolens skyld? En kunnskapsovesikt om skolens bidrag til kjønnsforskjeller i skoleprestasjoner.
+
+*Norsk institutt for forskning om oppvekst, velferd og aldring, Nova-Rapport, 4*.
+
+Bakken, A. & Danielsen, K. (2011). *Gode skoler–gode for alle?* (NOVA-rapport).
+
+Norsk institutt for forskning om oppvekst, velferd og aldring.
+
+Bakken, A. & Dæhlen, M. (2011). *Valgmuligheter i ungdomsskolen. Erfaringer med de språklige fordypningsalternativene og forsøk med arbeidslivsfag* (NOVA Rapport 6/2011).
+
+Norsk institutt for forskning om oppvekst, velferd og aldring.
+
+Bandura, A., Barbaranelli, C., Caprara, G. V. & Pastorelli, C. (2001). Self-efficacy beliefs as shapers of children’s aspirations and career trajectories. *Child Development, 72*(1), 187–206.
+
+Barber, B. K., Stolz, H. E., Olsen, J. A., Collins, W. A. & Burchinal, M. (2005). Parental support, psychological control, and behavioral control: Assessing relevance across time, culture, and method. *Monographs of the society for research in child development 70* (4), 1–137.
+
+Barclay, K. J. (2015). Birth order and educational attainment: evidence from fully adopted sibling groups. *Intelligence, 48*, 109–122.
+
+Baron-Cohen, S. (2002, 2002/06/01/). The extreme male brain theory of autism. *Trends in cognitive sciences, 6*(6), 248–254.
+
+Barrick, M. R. & Mount, M. K. (1991). The big five personality dimensions and job performance: a meta-analysis. *Personnel Psychology, 44*(1), 1–26.
+
+Barrios, A. & Bovini, G. (2017). *It’s Time to Learn: Understanding the Differences in Returns to Instruction Time*. London School of Economics. Centre for Economic Performance.
+
+Barros, S., Cadima, J., Bryant, D. M., Coelho, V., Pinto, A. I., Pessanha, M. & Peixoto, C. (2016). Infant child care quality in Portugal: Associations with structural characteristics. *Early Childhood Research Quarterly, 37*, 118–130.
+
+Barrow, L., Markman, L. & Rouse, C. E. (2009). Technology’s edge: The educational benefits of computer-aided instruction. *American Economic Journal: Economic Policy, 1*(1), 52–74.
+
+Barth, E. (2005a). Den samfunnsmessige avkastningen av utdanning. *Utdanning 2005*. Hentet fra https://www.ssb.no/a/publikasjoner/pdf/sa74/kap-8.pdf
+
+Barth, E. (2005b). Er utdanning verdt pengene? Hentet fra https://www.ssb.no/utdanning/artikler-og-publikasjoner/er-utdanning-verdt-pengene
+
+Barth, E., Hardoy, I., Schøne, P. & Østbakken, K. M. (2013). *Lønnsforskjeller mellom kvinner og menn: Hva har skjedd på 2000-tallet?*
+
+(ISF-rapport. 104). Institutt for samfunnsforskning.
+
+Barth, E., Hardoy, I., Schøne, P. & Østbakken, K. M. (2014). Hva betyr høy yrkesdeltakelse for kjønnssegregering? I L. Reisel & M. Teigen (Red.), *Kjønnsdeling og etniske skiller på arbeidsmarkedet* (s. 108–118). Gyldendal akademisk.
+
+Barth, E. & Lucifora, C. (2006). *Wage dispersion, markets and institutions: the effects of the boom in education on the wage structure*.
+
+IZA Discussion Paper No. 2181, IZA Institute of Labor Economics.
+
+Bauchmüller, R., Gørtz, M. & Rasmussen, A. W. (2014). Long-run benefits from universal high-quality preschooling. *Early Childhood Research Quarterly, 29*(4), 457–470.
+
+Bauernschuster, S., Falck, O. & Woessmann, L. (2014). Surfing alone? The internet and social capital: Evidence from an unforeseeable technological mistake. *Journal of Public Economics, 117*, 73–89.
+
+Bauernschuster, S. & Schlotter, M. (2015). Public child care and mothers’ labor supply—Evidence from two quasi-experiments. *Journal of Public Economics, 123*, 1–16.
+
+Baumrind, D. (1967). Child care practices anteceding three patterns of preschool behavior. *Genetic psychology monographs, 75* (1), 43–88.

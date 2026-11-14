@@ -1,901 +1,320 @@
-# NOU 2026: 10, del 19 av 31 (side 234–243)
+# NOU 2026: 10, del 19 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 234]
-
-232
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-11.2 En mer helhetlig skoledag for de
-yngste
-11.2.1 Skoledagen må tilpasses barns
-utvikling
-For at fellesskolen best mulig skal bidra til elevenes læring, utvikling, trivsel og danning, må organiseringen av skoledagen ta hensyn til at læring i
-skolen kan være krevende. Utvalget har redegjort
-nærmere for dette i kapittel 6. Skoledagen må tilpasses barnas biologiske behov. Dette innebærer
-at det må være tilstrekkelig rom for pauser og
-restitusjon, veksling mellom konsentrasjonsintensive og mer restituerende økter, lek, fysisk aktivitet, bevegelse og pauser uten bruk av skjerm. En
-slik innretning av skoledagen er viktig for at hjernen skal prosessere informasjon, være klar for
-læring og fungere best mulig. Ikke minst er det
-viktig for at elevene skal trives.
-Lek er en helt grunnleggende aktivitet for
-barns læring, utvikling, trivsel og danning. For de
-yngste barna er det særlig viktig med en god
-balanse mellom lek og formell læring. Både
-lærere og elever etterspør mer tid og rom til lek
-og fysisk aktivitet i skoledagen (Bjørnestad,
-2024). De aller fleste barn svarer selv at de ønsker
-seg en mer aktiv skoledag med mer praktisk
-undervisning, fysisk aktivitet, mer lek og mer uteskole (Barneombudet, 2025).
-Organiseringen av, og innholdet i, skoledagen
-må ta høyde for at barn har ulike forutsetninger
-og behov. Det er stor naturlig variasjon i de yngste
-elevenes modenhet og forutsetninger for å lære i
-skolen. Mellom den yngste og den eldste skolestarteren kan det være opp mot ett års aldersforskjell. Forskning viser at barn begynner på skolen
-med store individuelle forskjeller i utvikling og
-ferdigheter. Når man kombinerer forskjeller i
-alder, utviklingstakt og erfaringer, kan variasjonen
-mellom elever i en førsteklasse i praksis tilsvare
-flere år i utviklingsnivå (National Scientific Council on the Developing Child, 2024).
-Utvalget mener dagens læreplanverk gir rom
-for lek og variasjon i skoledagen, og ser at mange
-skoler jobber godt med dette. Utvalget har fått
-gode eksempler på hvordan mange skoler legger
-godt til rette for en mer helhetlig skoledag som er
-tilpasset elevenes utviklingsmessige behov, blant
-annet i møte med rektorer ved Brandengen skole,
-Labakken skole og Østgård skole.
-Evalueringen av seksårsreformen viser at elevene på 1. og 2. trinn generelt trives godt på skolen. Førsteklasserommene er preget av elevaktive
-
-arbeidsformer og læring gjennom lekinspirerte
-aktiviteter. Lærerne er opptatt av at elevene skal
-trives og ha trygge miljøer og av elevenes sosiale
-og emosjonelle utvikling. Dagsrytmen er dynamisk, elevene sitter ikke stille lenge om gangen,
-og de bytter aktiviteter flere ganger i løpet av en
-økt. Mange har også uteskole en dag i uka (Bjørnestad, 2024).
-Samtidig mener utvalget at evalueringen av
-seksårsreformen har funn som gir grunn til
-bekymring. Rapporten peker på at leken har mistet noe av sin posisjon i førsteklasse, og at det er
-behov for en mer bevisst og systematisk tilnærming til lek i skolen. Dette har vært en gradvis
-utvikling, og rapporten peker særlig på Kunnskapsløftet 2006 og senere styringssignaler som
-årsaken til at leken har mistet noe av sin posisjon.
-Evalueringen viser at det er mye lekinspirerte
-aktiviteter i noen klasserom, mens dette er nesten
-helt fraværende i andre. Forskerne trekker også
-fram at frilek normalt er lagt til friminutt, utetid og
-uteskole og at rollelek er nærmest fraværende.
-Evalueringen viser også at det er en tydelig endring i overgangen til andreklasse, ved at det da
-blir enda mindre tid til lek (Bjørnestad, 2024).
-Utvalget er opptatt av at de yngste elevene får
-en skoledag preget av variasjon i opplæringen. For
-å sikre at alle første- og andreklassinger møter en
-mer helhetlig skoledag som er tilpasset deres ulike
-forutsetninger, evner, interesser og behov, mener
-utvalget at det er behov for å gjøre endringer i både
-organiseringen av, og innholdet i, de første skoleårene. Utvalget mener dette vil være i tråd med barnets beste. Målsettingen er en skoledag med mer
-variert og godt tilpasset opplæring, pauser, lek og
-fysisk aktivitet. En slik skoledag vil spille på lag
-med barnas utvikling, og hvordan hjernen prosesserer informasjon og hvordan barna lærer best
-mulig. En hovedmotivasjon for forslaget er at det vil
-bidra til at flere elever lærer å lese, skrive og regne
-godt de første årene, tilegner seg gode lesevaner
-og får et godt forhold til matematikk tidlig i skoleløpet.
-Utvalget understreker at variasjon mellom
-aktiv læring, pauser, lek og fysisk aktivitet er særlig viktig for elever på første og andre trinn, selv
-om alle barn har behov for dette. Utvalget mener
-derfor at en omlegging av første- og andretrinn i
-særlig grad vil bidra til bedre læring, motivasjon
-og trivsel. De første skoleårene har stor betydning
-for elevenes videre skolegang, og utvalget mener
-at endringer som bidrar til bedre læring og utvikling de første skoleårene, vil ha store positive konsekvenser for resten av skoleløpet.
-
-[Side 235]
-
-NOU 2026: 10
-Fellesskolen
-
-Boks 11.1 Færder kommunes helhetlige
-plan for oppvekst
-Den helhetlige planen for oppvekst i Færder
-kommune er et overordnet styringsdokument
-som skal sikre gode, trygge og inkluderende
-oppvekstsvilkår for alle barn og unge. Formålet med planen er å samle kommunens innsats på tvers av tjenester og sektorer, slik at
-barn og unge møtes med sammenheng, kvalitet og forutsigbarhet i alle deler av hverdagen.
-Kommunen har et mål om å dreie ressursbruken i helsefremmende retning, og planen er
-en del av virkemidlene for å nå dette målet.
-Planen løfter fram behovet for å se barn og
-unges liv i et helhetlig perspektiv. Læring,
-utviklings, trivsel og danning skjer ikke bare i
-barnehagen og skolen, men også i hjemmet, i
-fritidsaktiviteter, i nærmiljøet og i møte med
-helse- og velferdstjenester. For å lykkes må
-disse arenaene henge bedre sammen enn de
-ofte gjør i dag. Samarbeid mellom ansatte i
-ulike tjenester og tjenestenivåer, og med foreldre og lokalsamfunn som aktive medspillere, er en forutsetning for å gi et helhetlig og
-tilpasset tilbud til alle barn og unge.
-Planen gir felles mål for barns læring,
-utvikling og livsmestring, prinsipper for tidlig
-innsats og inkluderende praksis, samt konkrete satsingsområder for hele oppvekstsektoren.
-Gjennom planen forplikter Færder kommune seg til å arbeide systematisk for å styrke
-sammenhengen mellom barnas ulike livsarenaer – slik at alle barn og unge får mulighet til
-å utvikle seg, lære og trives i et fellesskap som
-ser dem, støtter dem og stiller forventninger.
-Kilde: Færder kommune, 2023
-
-11.2.2 Helhet og sammenheng i elevenes
-utdanningsløp
-Overgangen fra barnehagen til skole og SFO er
-viktig. Barnehagen og skolen skal i samarbeid
-med foreldrene legge til rette for at barna får en
-trygg og god overgang (Barnehageloven, 2005,
-§ 2 a; Opplæringslova, 2024, § 4-7). Mange steder
-er det et godt samarbeid om denne overgangen
-mellom barnehage og skole. Samtidig peker evalueringen av seksårsreformen på at det er behov
-for å samarbeide enda bedre om overgangen
-
-233
-
-Kapittel 11
-
-(Bjørnestad, 2024). Barna må gradvis få venne
-seg til de kravene og forventningene skolen har til
-dem, samtidig som skolen må tilpasse seg de yngste elevenes behov. Blant annet er gjenkjennbare
-arbeidsmåter og aktiviteter faktorer som vil bidra
-til å trygge barna og la dem oppleve mestring i
-skolehverdagen (Lillejord et al., 2018).
-Utvalget mener det er behov for bedre helhet
-og sammenheng i hele utdanningsløpet til barna.
-De aller fleste barn i alderen 3–5 år går i barnehagen, og for mange er barnehagen den første offentlige fellesskapsarenaen de møter i sitt liv. Det er
-her det offentliges ansvar i dannings- og utdanningsoppdraget starter. For barna er barnehagen
-del av et sammenhengende utdanningsløp, som
-varer til fullført videregående opplæring. Mange
-fortsetter også videre inn i høyere utdanning. Barnehagens formål etter barnehageloven har flere likheter med formålsparagrafen i opplæringsloven.
-Begge arenaer skal støtte barn og unges læring,
-utvikling, trivsel og danning. Utvalget mener det er
-stort potensiale i å se fellesskapsarenaene barnehage, skole og SFO mer i sammenheng.
-Utvalget mener at et godt virkemiddel for å
-skape en mer helhetlig og bedre skoledag for de
-yngste elevene, er å ha et godt og sterkt samarbeid
-mellom barnehagen, SFO og skolen. Læringsfellesskap og nettverk på tvers av disse tre arenaene kan
-ta med det beste fra barnehagepedagogikken og
-skolepedagogikken, og gjensidig styrke hverandre.
-I det følgende foreslår utvalget tiltak for en mer helhetlig skoledag for de yngste elevene.
-
-11.2.3 En ny, helhetlig læreplan for 1. og
-2. trinn
-Bedre tilpasset opplæring og mer varierte skoledager
-Utvalget foreslår å utvikle en ny og helhetlig læreplan for de to første skoleårene. Den nye læreplanen skal trekke ut sentrale deler fra fagene i
-dagens læreplaner, og sette dem sammen til én
-helhetlig integrert læreplan, med ulike fagområder og tydelige prioriteringer. Den nye læreplanen
-skal støtte opp om skolens brede mandat og legge
-bedre til rette for en god og tilpasset begynneropplæring, med tid til pauser, lek og fysisk aktivitet. På denne måten vil de yngste skolebarna få en
-mindre oppstykket skolehverdag og bedre forutsetninger for god læring og utvikling.
-Utvalget er opptatt av at de praktiske og estetiske fagene gir viktig læring og opplevelser for
-elevene. Fagene er sentrale for elevenes helhetlige utvikling, og for at de får oppleve mestring,
-
-[Side 236]
-
-234
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-skaperglede og samhandle med andre i ulike fellesskap.
-I kunst og håndverk kan elevene være med i
-skapende arbeid, utforske materialer og uttrykk og
-de lærer ulike håndverksteknikker. I musikk kan
-de synge, danse og leke, oppleve samspill og kreative aktiviteter. I kroppsøving er bevegelsesglede,
-lek og allsidig fysisk aktivitet viktig, mens i mat og
-helse kan elevene være med på enkel matlaging,
-oppleve måltidsfellesskap og en begynnende forståelse av sammenhengen mellom mat og helse.
-Samlet gjør dette fagene særlig godt egnet for
-de yngste elevene. Fagene fremmer læring gjennom aktivitet, nysgjerrighet, sanseerfaringer og
-kreativitet. Den nye læreplanen for de yngste må
-legge vekt på at elevene skal få leke, samarbeide,
-prøve ut og utforske og uttrykke seg på ulike måter.
-Utvalget mener de yngste elevene skal møte
-faginnhold fra alle fag, inkludert innhold fra samfunnsfag, naturfag og KRLE. Dette er fag som er
-med på å gi elevene opplevelser, kunnskap, rom
-for nysgjerrighet, undring og utforsking og noe å
-lese og skrive om. Utvalget mener at også for de
-yngste elevene er det viktig å legge grunnlag for
-evnen til kritisk tenkning, etisk refleksjon og en
-tidlig forståelse for demokratiet og samfunnet og
-for andre menneskers ideer og tenkemåter.
-Utvalget foreslår at en ny helhetlig læreplan
-skal gjelde for 1. og 2. trinn. I dag er det også slik at
-kompetansemålene for de fleste fagene først er lagt
-etter 2. trinn. Den nye læreplanen må utformes slik
-at den legger til rette for en god overgang fra 2. til
-3. trinn. Utvalget foreslår å løse opp i dagens fag- og
-timefordeling for de to første skoleårene, slik at
-lærerne kan tilpasse tidsbruken til ulike fagområder mer fleksibelt til sin elevgruppe og gi rom for
-dybdelæring, tverrfaglig arbeid, varierte arbeidsmåter og for bevegelse og pauser. Læreplanen bør
-vektlegge sosial utvikling, lek og fysisk aktivitet og
-gi rom for fleksibilitet i organisering av dagen.
-Utvalget mener at en læreplan organisert etter fagområder, uten dagens fag- og timefordeling, i
-større grad vil gi handlingsrom for en variert og
-helhetlig skoledag. En slik organisering vil også
-legge bedre til rette for tverrfaglig arbeid.
-Når barna begynner på skolen, er det store
-forskjeller i hvor modne de er, hva de kan og
-hvilke interesser de har (McTigue et al., 2021).
-Noen kan lese, noen kan enkelte bokstaver, andre
-kan skrive navnet sitt. Noen barn er opptatt av tall,
-dinosaurer eller haier, mens andre er opptatt av å
-være mye ute å leke. Det er viktig å huske på at
-mange barn gleder seg til å begynne på skolen, de
-fleste sier at de trives, og at de liker å lære og er
-motiverte for å jobbe med bokstavene (Bjørne-
-
-stad, 2024). Derfor må det legges vekt på læring
-fra start, for at skolen skal ta vare på lærelyst og
-motivasjon hos alle barn. En ny helhetlig læreplan
-vil etter utvalgets vurdering legge bedre til rette
-for at læreren kan tilpasse opplæringen til sin elevgruppe. Dette vil på sikt føre til bedre motivasjon,
-trivsel og bedre resultater. De yngste elevene
-motiveres og lærer gjennom å møte en variert
-opplæring preget av lek, ulike former for lekinspirerte læringsaktiviteter og elevaktive arbeids- og
-aktivitetsformer.
-I forrige delkapittel foreslo utvalget at det skal
-innføres Mål for undervisningen i alle læreplaner i
-fag, blant annet for å styrke verdiløftet, skolens
-danningsoppdrag og elevenes sosioemosjonelle
-utvikling. Dette bør også være del av den nye
-læreplanen for 1. og 2. trinn.
-Den nye læreplanen skal også gi tydelige føringer for at skoledagen skal inneholde ulike former
-for lekbasert undervisning og fri lek, og peke på
-læringsaktiviteter som bidrar til fysisk aktivitet og
-praktiske læringsaktiviteter.
-Bedre begynneropplæring lesing, skriving og
-regning
-Systematisk opplæring i språk, lesing, skriving og
-regning skal vektlegges de første årene, og det
-skal være rom for lek med tall, rom og form, språklek, utforskende skriving og leseglede. Når elevene begynner på skolen, er de nysgjerrige og
-åpne for læring. I begynneropplæringen er det
-nødvendig å stimulere denne nysgjerrigheten.
-Forskning viser at de mest effektive pedagogiske
-tilnærmingene tar utgangspunkt i barnas interesser og engasjement, og samtidig tilpasses deres
-utvikling og faglige nivå (Clements et al., 2023).
-I kapittel 7 beskriver utvalget god begynneropplæring i lesing, skriving og regning. Den nye
-læreplanen for 1. og 2. trinn må bygge på dette
-kunnskapsgrunnlaget.
-Utvalget mener at den nye læreplanen må inneholde klare mål for opplæringen. Læreplanen skal
-legge til rette for at elevene får tid til å fordype seg i
-tema de er opptatt av, og elever som trenger tid og
-støtte i språk-, lese-, skrive- og regneutviklingen
-skal få det. Utvalget mener at skolen fortsatt skal
-ha plikt til å gi intensiv opplæring i lesing, skriving
-og regning for elever som trenger dette.
-Det er viktig at læreplanen utvikles i tråd med
-de yngste elevenes behov, for i best mulig grad å
-fremme læring, utvikling, trivsel og danning.
-Utvalget mener at en ny helhetlig læreplan for 1.
-og 2. trinn bør utvikles i samarbeid med sentrale
-aktører som for eksempel ulike nasjonale sentre,
-
-[Side 237]
-
-NOU 2026: 10
-Fellesskolen
-
-eksperter på begynneropplæring og barns modning og andre fagmiljøer. Det er også viktig at
-lærere med erfaring fra begynneropplæringen
-deltar i dette utviklingsarbeidet.
-For å støtte opp om implementeringen av den
-nye læreplanen foreslår utvalget å utvikle en
-større pakke med støtte materiell til skolene. Vi
-foreslår at sentrale fagmiljøer får i oppdrag å lage
-veiledningsmateriell med tydelige anbefalinger til
-lærere om den første lese-, skrive- og regneopplæringen. Dette støttemateriellet bør inneholde faglige råd om begynneropplæringen, være praksisnært og bygge på kvalitetssikret forskning på feltet. Det må også kunne brukes i lokal kompetanseutvikling. Materiellet skal inkludere veiledning
-om hvordan sosial og emosjonell utvikling, lek og
-fysisk aktivitet kan inkluderes i opplæringen, i
-fagene og i skoledagen ellers.
-Lærernes kompetanse er viktig
-Lærere med høy faglig, pedagogisk og relasjonell kompetanse er avgjørende for en god skolestart for de yngste elevene. Dagens kompetansekrav for undervisning er knyttet til fag. Det vil bli
-behov for å se nærmere på hvilken relevant kompetanse lærere på 1. og 2. trinn skal ha. Utvalget
-mener at kompetanse i begynneropplæringen i
-lesing, skriving og regning må være et krav også
-etter den nye læreplanen, tilsvarende dagens
-krav om 30 studiepoeng (Opplæringsforskrifta,
-2024, § 17-4). Når det gjelder øvrige krav til
-lærernes undervisningskompetanse, må dette
-vurderes nærmere når innholdet i læreplanen
-utformes.
-
-11.2.4 Økt kvalitet på SFO og en mer helhetlig
-skoledag
-Å integrere skole og SFO gir rom for en mer helhetlig
-skoledag
-Utvalget mener at det å integrere skole og SFO
-for de yngste elevene har stort potensiale for å
-skape en skoledag som i større grad enn i dag
-spiller på lag med de yngste elevenes behov,
-kunnskap om hvordan hjernen lærer best mulig,
-og erkjennelsen om at læring i skolen kan være
-krevende. Flere andre utredninger de senere
-årene har anbefalt dette. Anbefalingene begrunnes i at en større integrering av skole og SFO vil
-gi mer rom for avveksling mellom undervisningsøktene, mer variasjon i skoledagen, mer
-fysisk aktivitet og en bedre veksling mellom
-planlagte aktiviteter og fri lek. En annen begrun-
-
-235
-
-Kapittel 11
-
-nelse er at det vil bidra til mindre sosiale forskjeller (Bjørnestad, 2024; Ekspertgruppen om betydningen av barnehage, skole og SFO for sosial
-utjevning og sosial mobilitet, 2024; NOU 2019:
-3). Stoltenberg-utvalget mente at integrering av
-skole og SFO ville gi mer rom for å organisere
-ekstra undervisningsstøtte for elever som trenger det, og fordypning i ulike læringsaktiviteter
-(NOU 2019: 3).
-Selv om SFO er et frivillig tilbud, er realiteten
-at de fleste elevene på de laveste trinnene går på
-SFO. Stortinget har nylig vedtatt å lovfeste en rett
-til 12 timer gratis SFO i uka for elever på 1.–3.
-trinn. Innføringen av gratis deltidsplass har økt
-deltakelsen, og nå går over 90 prosent av elevene
-på 1. og 2. trinn på SFO.
-Utvalget mener at en bedre sammenheng mellom skole og SFO vil gi et mer helhetlig og tilpasset tilbud for de yngste barna. SFO er ofte den
-første arenaen barna møter når de begynner på
-skolen. SFO-tiden utgjør en betydelig del av disse
-elevenes skolehverdag, og mange tilbringer
-omtrent like mange timer på SFO som på skolen.
-Utvalget mener det framstår som lite helhetlig at
-det er såpass ulike rammer for de to delene av de
-yngste elevenes skolehverdag.
-Det står i rammeplanen at SFO bør samarbeide med skolen for å skape en best mulig helhet
-i hverdagen til barna (Rammeplan for SFO, 2021).
-Evalueringen av rammeplanen viser likevel at det
-er behov for et bedre samarbeid. I dag er det ofte
-få felles arenaer for erfaringsutveksling og felles
-planlegging mellom skole og SFO, og lærerne vet
-lite om hva som skjer i SFO-tiden (Caspersen et
-al., 2024). For foreldre og barn derimot, utgjør
-SFO og skolen en helhet, og de forventer at de to
-arenaene spiller på lag (Utdanningsdirektoratet,
-2026b). Forsøk med ulike modeller for en mer helhetlig skoledag har vist at dette bidro til en styrking av samarbeidet mellom skole og SFO (Rambøll, 2013).
-Utvalget foreslår at de 12 timene med gratis
-SFO som er innført, integreres i skoledagen for
-elevene på 1. og 2. trinn. Dette innebærer en utvidelse av antall timer obligatorisk nærvær for
-barna, og en potensielt langt tettere integrering
-og samhandling mellom skole og SFO.
-Å legge tid fra SFO inn i skoledagen, uten å
-innføre flere timer til opplæring, vil etter utvalgets
-vurdering gi bedre rom for veksling mellom konsentrasjonsintensive økter, pauser, lek og fysisk
-aktivitet gjennom hele skoledagen. Den nye læreplanen vil gjelde for opplæringen. Utvalget foreslår ikke å innføre flere timer til opplæring. Isteden kan for eksempel tid fra dagens SFO legges
-
-[Side 238]
-
-236
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-inn midt på dagen, og bidra til at barna får en lengre pause med rom for frilek og restitusjon. Det
-gir også rom for egenstyrt lesing. Det kan være
-en fordel for lærerne å få tid til samarbeid og planlegging i profesjonsfellesskapet i løpet av dagen.
-Utvalget er opptatt av at det skal være valgfrihet
-lokalt i den enkelte kommune til å utforme skoledagene i tråd med lokale behov og forutsetninger,
-og gjennom dialog med lærerne og andre ansatte.
-Samtidig må det være gode nasjonale rammer
-som støtter opp under dette arbeidet, og som
-bidrar til en likeverdig opplæring og et likeverdig
-tilbud for elevene.
-Utvalget mener det er mange gode argumenter for at SFO burde legges inn i en mer helhetlig
-skoledag også for elever på 3. og 4. trinn. Samtidig
-ser vi at det i dag er innført 12 timer gratis SFO i
-uka på 1.–3. trinn, og at deltakelsen er høyest på 1.
-og 2. trinn. Integrering av 3. og 4. trinn vil derfor
-ha en vesentlig kostnad. Utvalget mener det derfor vil være naturlig å starte med 12 timer i uka for
-1. og 2. trinn, og se dette tiltaket i sammenheng
-med den nye læreplanen utvalget foreslår for
-disse trinnene.
-Utvalget er klar over at det er flere problemstillinger som må løses for å integrere tid fra SFO i
-en mer helhetlig skoledag. Dette gjelder blant
-annet lærernes arbeidstidsavtale, de SFO-ansattes
-arbeidstid, de ansattes kompetanse, tilbudet til
-elever som får individuell tilrettelegging, skyss,
-og variasjoner lokalt i skoledagens lengde. Utvalget mener imidlertid at dette ikke kan stå i veien
-for å utvikle et mer helhetlig tilbud for de yngste
-elevene i skolen. Utvalget er også kjent med at et
-lite mindretall av de private grunnskolene ikke
-har SFO i dag. Hvordan utvalgets forslag skal få
-betydning for disse skolene, må vurderes nærmere, i dialog med de berørte.
-Rammene for utredningen har ikke gjort det
-mulig å gå inn i alle problemstillinger som må
-løses for å innføre utvalgets forslag. Eventuelle
-nødvendige endringer i lærernes arbeidstidsavtale vil måtte utredes og avtales mellom partene i
-skolen. Utvalget er klar over at forslaget vil medføre behov for endringer i skysstilbudet i noen
-kommuner, og rektorene utvalget har snakket
-med trakk fram skoleskyssen som en hindring.
-Forslaget vil også i noen grad begrense foreldrenes frihet til å organisere familiens hverdag slik
-de ønsker, selv om de aller fleste barna på 1. og
-2. trinn deltar i SFO i dag. Utvalget mener at
-argumentene for å integrere deler av SFO-tiden i
-skoledagen og fordelene dette vil medføre for
-elevenes læring, utvikling, trivsel og danning, må
-veie tyngst.
-
-Behov for kompetanse- og kvalitetsutvikling
-Tilstrekkelig bemanning og god kompetanse er
-nødvendig for å gi elevene et godt tilbud. Kommunene har ansvar for at det er tilstrekkelig
-bemanning og kompetanse til å drive en forsvarlig
-virksomhet i tråd med regelverket. Det er store
-lokale variasjoner i bemanning, kvalitet og kompetanse i SFO. Utvalget viser til at foreldre til barn
-med behov for særskilt tilrettelegging vurderer
-SFO-tilbudet som mer negativt enn andre foreldre
-(Wendelborg et al., 2018). Både foreldre, ansatte
-og ledere mener at SFO-tilbudet for elever med
-behov for særskilt tilrettelegging har blitt dårligere de siste årene (Caspersen et al., 2024). Elever har ikke rett til individuell tilrettelegging på
-SFO, slik som i opplæringen. Funksjonshemmedes fellesorganisasjon har pekt på at dette gjør at
-flere elever ikke har en reell mulighet til å delta på
-SFO (Utdanningsdirektoratet, 2026b). Utvalget
-mener at det bør vurderes nærmere hva slags tilretteleggingstiltak elevene skal ha rett til i de
-delene av en utvidet skoledag som ikke innebærer
-opplæring etter læreplanen, for at alle elever skal
-få et godt tilpasset og helhetlig tilbud.
-Utvalget mener det er behov for å styrke kvalitet og kompetanse i SFO, og som en del av å integrere deler av SFO i skoledagen må det satses
-videre på kompetanseutvikling og et styrket samarbeid mellom skole og SFO. Evalueringen av
-rammeplanen for SFO peker på at det er et stort
-behov for kompetanseheving, og mange ansatte
-etterspør faglig støtte (Caspersen et al., 2024). Det
-er ingen krav til pedagogisk kompetanse for
-ansatte i SFO i dag. Ved å legge dagens SFO inn i
-skoledagen, vil de ansatte i SFO i større grad enn i
-dag være del av elevenes obligatoriske skoledag,
-noe som også fordrer og muliggjør kompetanseutvikling. Samtidig er det allerede mange ansatte i
-dag som jobber både som assistenter i skoletiden
-og på SFO. Utvalget understreker at opplæring
-etter den foreslåtte læreplanen for 1. og 2. trinn
-fortsatt skal gjøres av godt kvalifiserte lærere.
-Utvalget mener det er behov for å jobbe videre
-med kompetanseutvikling for andre ansatte i skolen og på SFO for at en mer helhetlig skoledag
-skal bli best mulig. Det er allerede satt i gang flere
-tiltak for kompetanseheving på SFO. Regjeringen
-har innført et nytt helhetlig system for kompetanse- og karriereutvikling, der ansatte i SFO inngår i målgruppa for både kollektiv kompetanseutvikling, videreutdanning og lederutvikling. Siden
-2026 har fagarbeidere og andre ansatte med høyere utdanning i SFO fått mulighet til å ta videreutdanning på like vilkår som lærere.
-
-[Side 239]
-
-NOU 2026: 10
-Fellesskolen
-
-Boks 11.2 Bachelor i
-skolefritidspedagogikk ved UiS
-Universitetet i Stavanger var den første utdanningsinstitusjonen i Norge som etablerte et
-eget bachelorprogram i skolefritidspedagogikk. Studiet er et deltids bachelorprogram på
-180 studiepoeng, organisert over fire år, og er
-samlings- og nettbasert. Studiet har et helhetlig pedagogisk fokus og legger vekt på
-– lek og læring
-– barns utvikling
-– spesialpedagogikk
-– fysisk aktivitet og bevegelsesglede
-– kunst- og kulturaktiviteter
-– ledelse og organisering av SFO
-– praksis i SFO og skole
-Studentene kan velge fordypning, blant annet
-innen skapende aktiviteter/bevegelsesglede
-eller spesialpedagogikk.
-Kandidatene skal etter endt utdanning
-kunne planlegge, gjennomføre og lede pedagogisk arbeid i SFO i tråd med rammeplanen,
-samarbeide tett med skole og hjem, og bidra
-aktivt til kvalitetsutvikling og profesjonalisering av tilbudet.
-Kilde: Universitetet i Stavanger, 2026
-
-Det er også opprettet bachelor-utdanning i
-skolefritidspedagogikk ved Universitetet i Stavanger (UiS), Høgskulen på Vestlandet og OsloMet.
-Studiene går over 4 år, og gir profesjonsfaglig
-kompetanse rettet mot SFO og skolefritidspedagogisk arbeid.
-Utvalget mener arbeidet med kvalitetsutvikling i SFO er viktig for å sikre et helhetlig og likeverdig tilbud for elevene. De eksisterende tiltakene for kompetanseutvikling bør videreføres.
-Utvalget mener det er viktig at kommunene inkluderer SFO i skolebaserte kompetanseutviklingstiltak, og at kommunen legger til rette for at ansatte
-i SFO får delta i videreutdanningstilbud.
-Utvalget foreslår å innføre et krav om pedagogisk kompetanse for den som er leder av SFO.
-Når SFO er organisert i tilknytning til skolen, følger det av opplæringsloven at rektor skal være
-virksomhetens leder (Opplæringslova, 2024, § 45). Kommunen kan imidlertid gjøre unntak fra
-dette kravet, og rektor kan delegere myndighet
-
-237
-
-Kapittel 11
-
-til en særskilt leder. Utvalget mener at en SFOleder må ha pedagogisk kompetanse. Det er
-store forskjeller i utdanningsbakgrunn blant
-ledere i SFO, avhengig av kommunestørrelse og
-skolestørrelse. I store kommuner oppgir over
-syv av ti skoleledere at lederen i SFO har høyere
-pedagogisk utdanning, mens det tilsvarende gjelder for om lag fire av ti i de minste kommunene
-(Arnevig Samuelsen et al., 2025). Rammeplanen
-for SFO som ble innført i 2021 skal bidra til et
-SFO-tilbud med god kvalitet. Å stille krav om at
-leder for SFO har pedagogisk kompetanse, vil
-etter utvalgets vurdering bidra til implementering av rammeplanen.
-Å innføre kompetansekrav griper inn i det
-kommunale selvstyret, og tiltaket må derfor
-være forholdsmessig og nødvendig for å ivareta
-nasjonale mål (Kommuneloven, 2018, § 2-2).
-Retningslinjene om statlig styring av kommuner
-og fylkeskommuner slår fast at regler om
-bemanningsnormer, faglige kompetansekrav og
-lederkrav som hovedregel ikke bør innføres.
-Hvis det likevel skal gjøres, bør de være utformet på et så overordnet nivå som mulig (Kommunal- og moderniseringsdepartementet, 2020).
-Utvalget mener at et krav om pedagogisk kompetanse for leder av SFO både er et nødvendig
-og et forholdsmessig tiltak for å sikre de yngste
-elevene et mer likeverdig tilbud med god kvalitet. Utvalget har vurdert mer inngripende virkemidler som å foreslå kompetansekrav for alle
-ansatte i SFO eller en bemanningsnorm, men
-dette mener utvalget ikke er realistisk å innføre
-nå. Utvalget anbefaler at det jobbes videre med
-kompetanseutvikling for andre ansatte i skolen
-og på SFO. Utvalget ønsker ikke å detaljstyre
-hvordan skoler og kommuner organiserer lederressursene til SFO, men er opptatt av at det ikke
-skal være mulig å delegere seg ut av kompetansekravet. Utvalget mener derfor det må ses nærmere på hvordan et slikt krav skal utformes.
-
-11.2.5 Utvalgets forslag om en mer helhetlig
-skoledag for de yngste
-Utvalget foreslår å
-• innføre en ny læreplan for 1. og 2. trinn, der innholdet i dagens fag ses i en helhetlig sammenheng og fag- og timefordelingen løses opp
-• utvikle støtte til implementering av den nye
-læreplanen
-• integrere 12 timer SFO i uka i en mer helhetlig
-skoledag for 1. og 2. trinn
-• innføre krav om pedagogisk kompetanse for
-leder av SFO
-
-[Side 240]
-
-238
-
-Kapittel 11
-
-•
-
-NOU 2026: 10
-Fellesskolen
-
-styrke kompetanseutviklingen for ansatte i
-SFO, både gjennom kollektive og individuelle
-kompetansetiltak
-
-11.3 Bedre støtte til vurderingsarbeidet
-i skolen
-11.3.1 Vurderingsarbeidet i skolen
-Som vist i kapittel 7 er det mange aspekter av det
-norske vurderingssystemet som har gode faglige
-begrunnelser. En generell oppfatning er at en
-kombinasjon av ulike oppgavetyper gir et bedre
-og mer pålitelig bilde av en elevs kompetanse enn
-én enkeltsituasjon. Standpunktvurdering, som
-innebærer at læreren nær eleven setter karakterer basert på et bredt vurderingsgrunnlag, bør
-bevares basert på en forståelse av at en slik vurdering vil ha høyere validitet enn mer standardiserte
-tester eller eksamener. Samtidig sikrer eksamen
-at eleven får en uavhengig og ekstern vurdering
-av sin kompetanse. Eksamen kan også bidra til at
-skolen får informasjon om egen vurderingspraksis ved å vurdere mønstre i eksamensresultater
-over tid og sammenholde dem med mønstre i
-standpunktkarakterer. Dette er kunnskap som
-kan brukes i lokalt kvalitetsutviklingsarbeid.
-En deling mellom nasjonalgitt og lokalgitt eksamen bevarer balansen mellom validitet, reliabilitet,
-rettferdighet og håndterbarhet (Utdanningsdirektoratet, 2024b). Forutsetningene for et slikt system
-er vesentlig endret, og endringer skjer raskere enn
-før. Utredningen viser at det kan være vanskelig for
-skolene å holde tritt, og lærere og skoleledere
-etterlyser støtte til både læringsstøttende underveisvurdering og standpunktvurdering. Utvalget er
-bekymret for hvordan kunstig intelligens truer tilliten til vurderingssystemet og tillitsrelasjonene mellom elev og lærer. Denne tilliten er grunnleggende
-for at vi skal kunne videreføre et system der hovedvekten av karakterene er standpunktkarakterer satt
-av faglærere.
-Utvalget registrer at Stortinget har bedt regjeringen så raskt som mulig sørge for at alle skoler
-har tilgang til en «sikker nettleser» som kan brukes til å gjennomføre skriftlige vurderinger gjennom hele året. Utvalget støtter dette tiltaket. En
-sikker nettleser stenger tilgangen til alle ressurser og hjelpemidler på maskinen. Elevene får derfor ikke tilgang til andre digitale hjelpemidler som
-de er vant til å bruke. Slik det er nå, brukes sikker
-nettleser til eksamen i noen enkeltfag. Skolen kan
-bruke en sikker nettleser i vurderingssituasjoner
-der lærer har behov for å undersøke elevers kompetanse innenfor et tema eller et fag. Utdannings-
-
-direktoratet har som mål at alle digitale eksamener, med noen unntak, skal gjøres i en sikker nettleser fra 2027.
-Utvalget er innforstått med at kommunene og
-fylkeskommunene har ansvar for at skolene har
-nødvendig utstyr og mener det er viktig å ta hensyn til og bevare det lokale handlingsrommet.
-Men utvalget mener også at den teknologiske
-utviklingen nå går så raskt at nasjonale myndigheter må bidra for å gi skolene verktøyene de trenger. Det er ikke hensiktsmessig at alle strever
-med å finne løsninger på de samme utfordringene
-samtidig. Utvalget er også positive til Stortingets
-vedtak om å be regjeringen endre eksamensformene i skolen slik at flere eksamener gjennomføres med begrenset tilgang til hjelpemidler under
-eksamen og i forberedelsestiden, herunder endre
-muntlig eksamen og muntlig-praktisk eksamen.
-Utvalget understreker at dette ikke står i motsetning til at oppgavene fremdeles må tilrettelegge
-for at eleven får vist en bredde i sin kompetanse.
-I tillegg til tiltakene i Stortingets anmodningsvedtak, mener utvalget at det må settes i gang
-større tiltak som kan bidra til å opprettholde og
-videreutvikle kvalitet i vurderingssystemet, slik at
-tilliten til systemet og tillitsforholdet mellom lærer
-og elev ikke svekkes.
-
-11.3.2 Underveis- og standpunktvurdering i
-lys av kunstig intelligens
-Utvalget mener at det snarest må settes ned en
-arbeidsgruppe bestående av representanter for
-lærerne og eksperter som ser på veien videre
-både for underveis- og sluttvurdering i lys av
-kunstig intelligens. Gruppen må innhente internasjonal forsking, erfaringer fra praksis og se til
-arbeidet til Utvalget om kunstig intelligens i høyere
-utdanning (Malthe-Sørenssen-utvalget).
-Gruppen som settes ned, skal blant annet utrede
-kvalitetshevende tiltak for standpunktvurdering
-og foreslå tiltak for å styrke tolkningsfellesskapet
-i skolen. Gruppen bør også se til den pågående
-utredningen om hvordan eksamen på 10. trinn
-kan gi mer informasjon om utviklingen i elevenes
-læringsresultater over tid. Utvalget er godt kjent
-med at kunstig intelligens også skaper utfordringer for eksamenssystemet, og mener tekniske og
-praktiske utfordringer på dette området bør prioriteres kontinuerlig høyt av nasjonale utdanningsmyndigheter.
-Myndighetene må også fortsette det kontinuerlige arbeidet med å sikre kvaliteten og sikkerhet i eksamensgjennomføringen.
-
-[Side 241]
-
-NOU 2026: 10
-Fellesskolen
-
-11.3.3 Tidligere utredning av eksamen
-Videregående opplæring kvalifiserer enten til studier eller til arbeidslivet. For å få vitnemål, må elevene få bestått i alle standpunkt- og eksamenskarakterer.
-Utdanningsdirektoratet satte for noen år siden
-ned Eksamensgruppa, som skulle bistå med å
-utrede et helhetlig system for eksamensordninger
-(Eksamensgruppa,
-2020).
-Eksamensgruppa
-leverte sin endelige rapport i 2020, og foreslo flere
-tiltak for å sikre en pålitelig, gyldig, håndterbar og
-rettferdig eksamen i framtidens skole.
-Det har skjedd vesentlige endringer siden
-utredningen. Elever som ikke har bestått standpunktkarakter eller ikke bestått eksamen i ett
-eller flere fag, har nå rett til å få mer opplæring
-i faget eller fagene (Opplæringsforskrifta, 2024,
-§ 5-2). I tillegg er det fastsatt ny forskrift om opptak til høyere utdanning. Utdanningsdirektoratet
-fikk også i 2025 et oppdrag om å utrede en sikrere
-og forbedret eksamensordning i videregående
-opplæring (Oppdrag 2025-04).
-Utvalget er opptatt av at eksamen fortsatt har
-tillit i befolkningen. Selv om flere av Eksamensgruppas tiltak har blitt fulgt opp, er det andre som
-ikke har blitt utredet videre. Blant dem er forslag
-om å se på ulike kompensatoriske ordninger som
-kan minske betydningen av uheldige karakterutslag (Eksamensgruppa, 2020). Dette handler om
-hvordan utstedelse av vitnemål fra videregående
-opplæring er koblet til bestått standpunktkarakter
-i alle fag, bestått eksamenskarakter, trekkordningen for eksamen, antall karakterer i ulike fag, og
-forholdet mellom standpunkt- og eksamenskarakter på vitnemålet. Det kan være grunn til å se nærmere på flere av Eksamensgruppas forslag i lys av
-de store endringene som har skjedd siden utvalget leverte sin rapport. Dette gjelder særlig Fullføringsreformen.
-11.3.4 Utvalgets forslag for å styrke
-vurderingsarbeidet
-Utvalget foreslår å
-• sette ned en arbeidsgruppe bestående av
-representanter for lærerne og forskere, som
-skal se på veien videre for underveis- og standpunktvurdering i lys av utfordringer med kunstig intelligens
-• utrede videre anbefalinger fra Utdanningsdirektoratets Eksamensgruppe om ulike ordninger for eksamen som kan kompensere for
-ikke bestått vitnemål
-
-•
-
-239
-
-Kapittel 11
-
-sørge for at alle skoler har tilgang til sikker
-nettleser i lærings- og vurderingssituasjoner
-
-11.4 Styrke lærernes kompetanse i møte
-med teknologisk utvikling
-11.4.1 Et felles nasjonalt løft for å styrke
-lærernes kompetanse i møte med
-teknologisk utvikling
-Som vi har beskrevet i kapittel 4.1, har teknologiutviklingen flere viktige konsekvenser for skolen.
-På den ene side har vi sett hvordan digitale verktøy og sosiale medier virker forstyrrende på
-læring og konsentrasjon. På den andre siden skal
-elevene rustes for å leve og bidra i et høyteknologisk samfunn.
-Det gjennomgående funnet i studier av KI og
-digitale læringsressurser i skolen, er at læreren
-har en nøkkelrolle. Utvalget har oppfattet at lærerkompetansen innen KI og digitalisering er varierende, og at det er et betydelig ønske og behov
-blant lærerne for å styrke denne kompetansen.
-Blant annet peker evalueringen av fagfornyelsen
-på at utviklingen innen teknologi og KI i større
-grad utfordrer lærere og elever. Det har aktualisert behovet for å styrke KI-kompetansen og kritisk tenkning for i større grad å gjøre digital dømmekraft til en integrert del av undervisningen
-(Brevik et al., 2026).
-Utvalget er bekymret for konsekvensene den
-teknologiske utviklingen har for elevenes læringsprosesser, og er opptatt av å styrke elevenes motstandskraft mot de negative sidene av kunstig
-intelligens og konsekvenser av oppmerksomhetsøkonomien. Utvalget mener dette vil være i tråd
-med barnets beste. Den teknologiske utviklingen
-og spesielt utviklingen innen kunstig intelligens
-krever en styrking av elevenes digitale dømmekraft. Utvalget vil spesielt trekke fram hvordan
-den teknologiske utviklingen bidrar til å forsterke
-trusselen mot demokratiet. Fellesskolens styrke
-ligger i at alle elever, uavhengig av bakgrunn,
-bosted og forutsetninger, får tilgang til likeverdige
-læringsmuligheter og et faglig fundament som
-gjør dem i stand til å delta i, og bidra til, et demokratisk samfunn. Nærmere bestemt må elevene få
-kunnskap og ferdigheter som øker motstandskraften mot ytre stimuli og forsøk på påvirkning. De
-må styrkes i kritisk tenkning og digital dømmekraft, og de må trene opp ferdigheter som er komplementære til teknologien. Dette kan være ferdigheter som kausal tekning og kontrafaktisk
-tenkning, kreativitet og innovasjonsevne, konsentrasjon, samarbeidsevne og pågangsmot.
-
-[Side 242]
-
-240
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-Den teknologiske utviklingen gjør at alle
-lærere bør få tilgang til sentral kompetanse om
-ulike sider ved denne utviklingen. Lokalt handlingsrom og lokale tilpasninger er viktig for
-modne fagfelt. Men på umodne fagfelt, som forståelse, bruk og bevisst tilnærming til kunstig intelligens, vil det være ressursbesparende at ikke alle
-strever med de samme utfordringene på samme
-tid.
-Et nasjonalt program for digital læring og danning
-Den teknologiske utviklingen skjer i raskt tempo.
-Det er krevende for lærere og skoleledere å tilegne seg både grunnleggende og avansert forståelse av kunstig intelligens og digitalisering, samtidig som de skal legge til rette for at elevene håndterer KI med en robusthet og kritisk sans. Utvalget har oppfattet at det er stor etterspørsel fra
-lærere etter kompetanse innen teknologi og teknologiens innvirkning på sentrale områder som
-demokrati, kritisk tenkning og dømmekraft. Dette
-er også områder som ikke alle lokale kompetansemiljøer besitter tilstrekkelige kunnskaper om. Fellesskolen står sterkere når kvalitet på helt sentrale utfordrende felt ikke avhenger av lokale ressurser alene, men av et helhetlig nasjonalt løft.
-Utvalget foreslår å etablere et nasjonalt kompetansehevende program for digital læring og
-danning. Programmet bør utvikles nasjonalt av
-sterke fagmiljøer i tett dialog med representanter
-for lærere, skoleledere og skoleeiere. Det bør
-organiseres slik at lærere og ledere fra alle kommuner og skoler får reell tilgang til deltakelse.
-Programmet bør utformes som et modulbasert etterutdanningstilbud med lav terskel for deltakelse. Omfang og organisering av modulene kan
-variere, men tilbudet må være praksisrettet og
-oppleves som både skolefaglig og pedagogisk
-relevant for lærerne. Høy kvalitet i innhold og formidling er avgjørende. Flere kompetansemiljøer
-bør bidra, og programmet bør gå over tid, slik at
-deltakerne får mulighet til å utvikle varig kompetanse. Utvalget legger til grunn at hoveddelen av
-tilbudet bør bygge på fysisk deltakelse, i motsetning til rene nettbaserte kompetansepakker.
-Fysiske møter oppfattes ofte som mer forpliktende, de legger til rette for dialog, både formell
-og uformell, aktiv deltakelse og varierte undervisningsformer. Alle disse fordelene ved fysisk deltakelse vil være særlig viktig når deltakerne skal tilegne seg ny og krevende innsikt og forståelse
-innenfor et felt som stadig er i endring.
-Programmet skal styrke lærernes mulighet til
-å gi elevene relevant, helhetlig og framtidsrettet
-
-opplæring i et samfunn preget av rask teknologisk
-og samfunnsmessig endring. Programmet bør ivareta de fem risikoene ved bruk av samtaleroboter,
-generativ KI og sosiale medier som utvalget har
-framhevet i kapittel 4,1.
-Utvalget anbefaler at programmet struktureres i tre komplementære moduler som samlet gir
-lærerne et faglig, pedagogisk og profesjonelt
-grunnlag:
-• Kunstig intelligens og teknologi i fag, herunder
-grunnleggende forståelse av hva KI er og kjennetegn ved store språkmodeller, samt hvordan
-KI-verktøy kan brukes på en læringsfremmende, trygg og faglig forsvarlig måte i undervisningen, inkludert etiske og personvernmessige vurderinger.
-• Kritisk tenkning, digital dømmekraft og demokratiske ferdigheter, med vekt på hvordan
-lærere kan styrke elevenes evne til å møte
-manipulativ informasjon, digitale trusler, falskt
-innhold og uønsket påvirkning, og hvordan elevene kan trenes i å ta etisk forsvarlige valg i
-digitale sammenhenger.
-• Sosioemosjonell utvikling, der lærerne får
-støtte til systematisk arbeid med ferdigheter
-som konsentrasjon, utholdenhet, kreativitet og
-samarbeidsevne. Dette er ferdigheter som er
-komplementære til teknologien og viktige for
-elevenes læring og utvikling.
-Utvalget mener at det bør være tydelige anbefalinger fra nasjonale myndigheter som understreker
-hvor viktig det er at sentrale deler av elevenes
-læringsprosesser bør skje uten bruk av kunstig
-intelligens. Anbefalingene bør inkludere en
-omtale av betydningen av at elevene reflekterer
-over egen læring og hvordan de lærer, også kalt
-metakognisjon og «lære å lære».
-
-11.4.2 Utvalgets forslag for å styrke lærernes
-kompetanse i møte med teknologisk
-utvikling
-Utvalget foreslår å
-• innføre et nytt nasjonalt program for digital
-læring og danning som samlet skal støtte
-lærernes arbeid med
-– kunstig intelligens og teknologi i fag
-– kunnskap om sentrale risikoer forbundet
-med bruk av språkroboter, sosiale medier
-og generativ KI
-– kritisk tenkning, digital dømmekraft og
-demokratiske ferdigheter
-– systematisk arbeid med sosioemosjonelle
-ferdigheter
-
-[Side 243]
-
-NOU 2026: 10
-Fellesskolen
-
-•
-
-innføre tydeligere nasjonale anbefalinger om
-kompetent, balansert, alders- og formålstilpasset bruk av KI i elevenes læringsprosesser
-
-11.5 Fremme elevenes læring og
-digitale dømmekraft
-11.5.1 Elevenes læring og digitale
-dømmekraft
-Den raske utviklingen innen kunstig intelligens
-og digital teknologi har aktualisert spørsmålet om
-hvordan skolen best kan ivareta elevenes behov
-for teknologiforståelse, digitale ferdigheter og
-danning. KI kan gi nye pedagogiske muligheter,
-blant annet gjennom tilgang til tilpasset læringsmateriale og tilbakemeldinger. Samtidig forutsetter dette at elever utvikler gode læringsstrategier,
-selvregulering og motstandskraft mot distraksjon
-og ukritisk bruk. Slike vaner og ferdigheter etableres tidlig og må utvikles systematisk.
-Et forslag har vært å etablere teknologi som et
-eget fag i skolen, og Utdanningsdirektoratet har
-fått i oppdrag å utrede dette alternativet nærmere.
-Et eget teknologifag kan gi strukturert opplæring
-i områder som kunstig intelligens, algoritmisk
-tenkning og praktisk skaperkraft.
-Utvalget ser flere praktiske utfordringer ved
-teknologi som eget fag. Et fag som skal romme
-både teknisk forståelse og komplekse samfunnsog danningsperspektiver stiller høye krav til
-lærerkompetanse. Etter utvalgets vurdering vil et
-eget teknologifag kreve betydelige investeringer
-over tid, særlig fordi både lærerutdanninger og
-skoler mangler kompetanse på dette området. Et
-eget teknologifag vil både kreve ressurser til å
-utvikle læreplaner og til å utvikle videreutdanningstilbud for å kvalifisere lærere som jobber i
-skolen. Et videreutdanningstilbud for teknologifag vil riktignok være delvis overlappende med
-utvalgets forslag om et nasjonalt program for digital danning og læring, men det vil ikke være tilstrekkelig for et eget teknologifag.
-Utviklingen innen kunstig intelligens forsterker behovet for menneskelige ferdigheter
-som ikke kan automatiseres. Evnen til å tenke kritisk, løse problemer, skape og samarbeide blir stadig viktigere. Elevene må lære å resonnere, argumentere og vurdere, og å omsette tenkning i
-handling. De må forstå forskjellen på kausalitet og
-tilfeldige sammenhenger, og de må kunne utøve
-kontrafaktisk tenkning. Videre må de evne å forstå hvilke begrensninger som gjelder i en gitt
-situasjon, enten begrensningene er av materiell
-
-241
-
-Kapittel 11
-
-eller normativ art. Også yngre elever kan, på sitt
-nivå, lære å stille spørsmål ved informasjon, forstå
-påvirkning og reflektere over egen teknologibruk.
-Dette innebærer at digital danning bør inngå i
-alle fag og på alle trinn, med vekt på hvordan
-kunnskap skapes, vurderes og valideres i en digital kontekst. Elevene må lære fagspesifikke strategier for teknologibruk, fordi ulike fag gir ulike
-innganger til logikk, kreativitet, refleksjon og erfaring. Kildekritikk og demokratiforståelse får en
-egen betydning i samfunnsfag, digital modellering
-i naturfag, arbeid med algoritmer i matematikk og
-multimodale tekster i norsk.
-Utvalget støtter derfor vurderinger om at
-kunnskap om teknologiens betydning i stor grad
-bør integreres i alle fag hvor det er relevant, framfor i et eget teknologifag. Når teknologibruk forankres i fag, øker relevansen for elevenes læring
-og forståelse. Utvalget mener at det er behov for å
-videreutvikle de digitale grunnleggende ferdighetene slik at digital dømmekraft og danning vektlegges tydeligere. Dette gir bedre forutsetninger
-for å ruste elevene til å leve og delta som myndige, kritiske borgere i et samfunn preget av
-omfattende teknologi- og KI-bruk.
-Styrke skole-hjem-samarbeidet
-I kapittel 13 beskriver vi hvorfor og hvordan samarbeidet mellom skole og hjem bør styrkes i framtidens fellesskole. Uansett familietype og sosial
-bakgrunn, viser forskningen at forventninger og
-oppmuntring fra de voksne hjemme har stor
-betydning for barnas læring.
-Hjemmemiljøet har stor betydning også for
-utviklingen av barn og unges digitale ferdigheter
-og digitale dømmekraft. Det er derfor viktig at foreldre får god informasjon om hvor sentral deres
-rolle er, og hvordan de kan samarbeide med skolen om utvikling av elevenes digitale ferdigheter,
-dømmekraft og en forsvarlig bruk av KI.
-
-11.5.2 Utvalgets forslag om elevenes læring
-og digitale dømmekraft
-Utvalget foreslår å
-• vektlegge digital dømmekraft og danning tydeligere i beskrivelsen av grunnleggende digitale
-ferdigheter
-• innføre tydelige nasjonale anbefalinger om
-kompetent, balansert, alders- og formålstilpasset bruk av KI i elevenes læring
-• styrke skole-hjem-samarbeidet om digital dømmekraft og forsvarlig bruk av KI
+### Hvordan rekruttere nok kompetente lærere?
+
+Det har stor betydning for kvaliteten i skolen at det jobber nok kompetente lærere der. Det har blitt satset massivt på lærernes kompetanse i lang tid, og det gjør at lærerpopulasjonen generelt har fått høyere kompetanse. Samtidig er det flere steder i landet allerede i dag krevende å rekruttere kvalifiserte lærere, og det har vært en sviktende rekruttering til lærerutdanningene de siste årene (Direktoratet for høyere utdanning og kompetanse, 2025b; Haugen et al., 2024; KS, 2023; NAV, 2024; Statistisk sentralbyrå, 2023a, 2023b; Utdanningsdirektoratet, 2026k). Utfordringene med lærerrekruttering kan true fellesskolens muligheter til å gi alle elever likeverdige muligheter til å utvikle seg, trives og lære, og utfordrer også selve lærerprofesjonen.
+
+Mange elever mangler kvalifiserte lærere
+
+Lærerstatistikk får mye oppmerksomhet fordi det har stor betydning at elevene får undervisning av kompetente lærere. Vi har i dag ulike lærerstatistikker som hver for seg gir viktig informasjon om lærerkvalifikasjoner. Statistikkene har ulike definisjoner, populasjoner og datainnsamlingsmetoder (Iversen et al., 2021).
+
+Ulike lærerstatistikker viser at innslaget av personer som er ansatt i lærerstillinger uten tilstrekkelige kvalifikasjoner varierer på landsbasis. Problemet er særlig stort i de nordligste fylkene og i Oslo (Statistisk sentralbyrå, 2023a, 2023b; Utdanningsdirektoratet, 2026k). Det er også særlige utfordringer med å rekruttere lærere med samisk kompetanse til samiske skoler (Meld. St. 13 (2022–2023)). Tall fra Utdanningsdirektoratet for 2025/26 viser at 4 prosent av undervisningstimene ble gitt av lærere som ikke oppfyller kompetansekravene for tilsetting. Det er store variasjoner innenfor hvert fylke, der hovedbildet er at kommuner med få elever i størst grad mangler kvalifiserte lærere. Lærerstatistikken fra Statistisk sentralbyrå beregner andelen godkjente lærerårsverk på en annen måte enn Utdanningsdirektoratet (se boks 9.2 for forklaring). Ifølge denne statistikken ble 18 prosent av avtalte lærerårsverk i grunnskolen og 19 prosent avtalte lærerårsverk i videregående utført av lærere uten lærerutdanning i 2024. Statistikken fra Statistisk sentralbyrå viser også at det er relativt store variasjoner mellom fylkene. Samlet viser de ulike lærerstatistikkene et konsistent bilde. Det er variasjoner i lærerdekningen mellom kommuner og fylker og mange elever har ikke en kvalifisert lærer.
+
+Mange lærere mangler fordypning i fagene de underviser i
+
+Opplæringsloven stiller krav om fordypning for flere undervisningsfag. De siste årene har det vært en tydelig økning i andelen lærere som oppfyller kravene til fordypning i norsk, matematikk og engelsk (Utdanningsdirektoratet, 2025c).
+
+Likevel er det mange som mangler studiepoeng i faget de underviser i (Arnesen et al., 2023; Næss et al., 2023). Det gjelder særlig for fagene der det ikke er krav til fordypning på barneskolen, som de praktiske og estetiske fagene. I disse fagene mangler omtrent halvparten av lærerne studiepoeng.
+
+Andel lærere uten studiepoeng, etter undervisningsfag. 2021/2022
+
+Kilde: Arnesen et al., 2022
+
+I mange kommuner er det krevende å rekruttere lærere med relevant kompetanse
+
+Ulike kartlegginger viser at det er krevende for kommunene å rekruttere lærere med riktig kompetanse (Haugen et al., 2024; KS, 2023; NAV, 2024). Rekrutteringsutfordringene har vært størst i grunnskolen, og spesielt på 1.– 4. trinn, innen språkfag og i de praktiske og estetiske fagene. Skoler i tettsteder eller byer har generelt mindre rekrutteringsutfordringer enn skoler som er mindre sentralt plasserte. I videregående opplæring er det spesielt på en del yrkesfaglige utdanningsprogrammer at man finner en høy andel lærere som mangler formell fagkompetanse. Datakildene viser oppsummert at ikke alle skoler får dekket sine behov for fagkompetanse (Haugen et al., 2024).
+
+Sviktende rekruttering til lærerutdanningene
+
+Dagens rekrutteringsutfordringer til læreryrket kommer i tillegg til rekrutteringsutfordringene til lærerutdanningene. Med unntak av de to siste årene, har lærerutdanningene hatt fallende opptakstall siden 2018. I 2025 ble det tatt opp ca. 2 300 færre studenter enn i toppåret 2018 (Direktoratet for høyere utdanning og kompetanse, 2025b). Figur 10.3 viser opptakstall for lærerutdanningene 2004–2025. Oversikten inkluderer kun de skolerettede lærerutdanningene (inkludert PPU), og ikke barnehagelærer/førskolelærerutdanningen. I 2019 ble det innført masterkrav for opptak til PPU. Det kan forklare den relativt store nedgangen fra 2018 til 2019.
+
+Direktoratet for høyere utdanning og kompetanse har i en kartlegging av fagvalg og fagtilbud i lærerutdanningene funnet grunn til bekymring for rekrutteringssituasjonen framover. Kartleggingen indikerer at det kommer til å bli uteksaminert færre lærere med fagene kunst og håndverk, KRLE og mat og helse og ulike fremmedspråk i årene som kommer. Nedgangen i studenttallet kan også medføre kutt i fagtilbud ved utdanningsinstitusjonene, og dette vil igjen kunne påvirke rekrutteringssituasjonen ytterligere. Dette vil trolig gjøre det enda vanskeligere å rekruttere lærere med relevant fagkompetanse framover (Haugen et al., 2024).
+
+Antall nye lærerstudenter 2004–2025
+
+Kilde: Direktoratet for høyere utdanning og kompetanse, 2025b
+
+Kan lærermangelen reduseres på sikt?
+
+En framskriving av arbeidsmarkedet for lærere, som Statistisk sentralbyrå har gjennomført, anslår at mangelen på grunnskolelærere *på landsbasis* kan bli redusert på lengre sikt. Videre kan det bli et underskudd av yrkesfaglærere og et overskudd av lærere med lektorutdanning og PPU (Gunnes et al., 2025). En annen studie av lærersituasjonen i grunnskolen de siste 50 årene tyder også på redusert lærermangel i årene fram mot 2035. Studien viser at lærermangelen generelt øker når arbeidsledigheten går ned. Samtidig øker opptaket til lærerutdanningene når lærermangelen øker, noe som demper utslagene på lengre sikt (Falch & Strøm, 2025). Disse framskrivningene om arbeidsmarkedet for lærere er primært på nasjonalt nivå og gjør det krevende å få øye på regionale forskjeller lærerdekningen på ulike fag og trinn.
+
+Flere lærere har master
+
+Innføring av grunnskolelærerutdanning på masternivå, krav om relevant kompetanse for å undervise og satsning på videreutdanning, gjør at vi får en stadig bedre utdannet lærerpopulasjon (Arnesen et al., 2022; Næss et al., 2023). Fra 2015 til 2024 økte andelen lærere med lærerutdanning på universitets-/ høyskolenivå på *høyere nivå* i grunnskolen fra 8 til 21 prosent. På videregående økte den fra 28 til 39 prosent. Andelen lærere med masterutdanning har økt i perioden, mens andelen ansatte i lærerstillinger uten lærerutdanning holder seg på samme nivå.
+
+Det er mange med lærerutdanning som jobber utenfor skolen. I 2024 jobbet over 43 000 lærere i næringer der utdanningen ikke er relevant (Statistisk sentralbyrå, 2024b). Det kan være mange årsaker til at utdannede lærere ønsker å jobbe utenfor skolen.
+
+Sysselsatte med lærerutdanning, etter utdanningstype, år og næring (2024)
+
+06J1xt2
+
+<table>
+<colgroup>
+<col style="width: 40%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: right;">Skoleverket</td>
+<td style="text-align: right;">Skolesektoren</td>
+<td style="text-align: right;">Andre næringer der utdannelsen<br />
+er relevant</td>
+<td style="text-align: right;">Næringer der utdannelsen ikke er relevant</td>
+<td style="text-align: right;">Uoppgitt</td>
+</tr>
+<tr>
+<td>Førskole-/barnehagelærerutdanning</td>
+<td style="text-align: right;">9193</td>
+<td style="text-align: right;">33669</td>
+<td style="text-align: right;">1820</td>
+<td style="text-align: right;">11060</td>
+<td style="text-align: right;">206</td>
+</tr>
+<tr>
+<td>Allmenn-/grunnskolelærerutdanning inntil fire år</td>
+<td style="text-align: right;">38133</td>
+<td style="text-align: right;">1449</td>
+<td style="text-align: right;">2867</td>
+<td style="text-align: right;">10028</td>
+<td style="text-align: right;">562</td>
+</tr>
+<tr>
+<td>Faglærerutdanning</td>
+<td style="text-align: right;">5577</td>
+<td style="text-align: right;">776</td>
+<td style="text-align: right;">1058</td>
+<td style="text-align: right;">4151</td>
+<td style="text-align: right;">172</td>
+</tr>
+<tr>
+<td>Yrkesfaglærerutdanning</td>
+<td style="text-align: right;">1955</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">641</td>
+<td style="text-align: right;">35</td>
+</tr>
+<tr>
+<td>Praktisk-pedagogisk utdanning for universitets- og høgskolekandidater</td>
+<td style="text-align: right;">19278</td>
+<td style="text-align: right;">2642</td>
+<td style="text-align: right;">2352</td>
+<td style="text-align: right;">10319</td>
+<td style="text-align: right;">475</td>
+</tr>
+<tr>
+<td>Praktisk-pedagogisk utdanning for yrkesfaglærere</td>
+<td style="text-align: right;">7634</td>
+<td style="text-align: right;">940</td>
+<td style="text-align: right;">722</td>
+<td style="text-align: right;">5380</td>
+<td style="text-align: right;">165</td>
+</tr>
+<tr>
+<td>Grunnskolelærerutdanning master</td>
+<td style="text-align: right;">6374</td>
+<td style="text-align: right;">172</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">533</td>
+<td style="text-align: right;">24</td>
+</tr>
+<tr>
+<td>Lektorutdanning for trinn 8-13 og tilsvarende masterutdanninger</td>
+<td style="text-align: right;">4928</td>
+<td style="text-align: right;">410</td>
+<td style="text-align: right;">161</td>
+<td style="text-align: right;">960</td>
+<td style="text-align: right;">11</td>
+</tr>
+<tr>
+<td>I alt</td>
+<td style="text-align: right;">93072</td>
+<td style="text-align: right;">40137</td>
+<td style="text-align: right;">9199</td>
+<td style="text-align: right;">43072</td>
+<td style="text-align: right;">1650</td>
+</tr>
+</tbody>
+</table>
+
+Begrepsforklaring: *Skoleverket* omfatter næringskoder for grunnskoleundervisning og undervisning på videregående skoles nivå. *Skolesektoren* inkluderer næringskoder for undervisning i høyere utdanning, folkehøgskoler, voksenopplæring, timelærere, barnehager og skolefritidsordninger. *Næringer der utdanningen er relevant inkluderer* annen undervisning, undervisning innen idrett, rekreasjon og kultur, samt tjenester tilknyttet undervisning. Alle andre næringskoder kategoriseres som *øvrige næringer.*
+
+Kilde: Statistisk sentralbyrå, 2024b
+
+Ansatte lærere (avtalte årsverk) i grunnskolen og videregående skole etter kompetanse (2024)
+
+Kilde: Statistisk sentralbyrå, 2026i, Statistisk sentralbyrå, 2026h
+
+### Hvordan er det å jobbe som lærer i dag?
+
+Det siste tiåret har samfunnsutviklingen og flere sentrale hendelser preget lærerrollen. Det har vært en pandemi, økende skjermbruk i og utenfor skolen, to lærerstreiker, to lærerutdanningsreformer, fagfornyelsen og gjennombrudd i bruk av kunstig intelligens. For ti år siden beskrev ekspertgruppen om lærerrollen følgende utviklingstrekk ved lærerrollen:
+
+- en mer spesialisert, forskningsinformert og praksisrettet lærerrolle
+
+- et faglig-profesjonelt og prestasjonsorientert ansvar
+
+- en rolle med økt handlingsrom som praktiseres gjennom støtte og kontroll
+
+Rammer og forventninger for lærerrollen
+
+Lærerprofesjonens samfunnsmandat innebærer både frihet og ansvar. Læreplanverket setter rammer for lærernes arbeid, og i tillegg finnes det juridiske rammer i opplæringsloven og privatskoleloven for hvordan selve lærergjerningen skal utføres. Lærerne skal blant annet følge med på om elevene får tilfredsstillende utbytte av opplæringen, gi individuell vurdering og sikre at alle elever har et trygt og godt skolemiljø (Opplæringslova, 2024; Privatskolelova, 2003).
+
+Forventningene til lærerrollen formes ikke bare av de formelle rammene. Lærerrollen er omkranset av nære og fjerne aktører som både åpner, begrenser og støtter opp om utøvelsen av rollen, og lærerrollen blir stadig mer kompleks (Caspersen et al., 2026; Ekspertgruppa om lærerrollen, 2016). Det stilles ulike typer forventninger til lærerne. Det forventes at de skal sørge for elevenes trivsel og resultater. Det stilles også forventninger til lærernes kompetanse og om å videreutvikle denne gjennom yrkeslivet. I tillegg stilles det forventninger til lærerprofesjonen som helhet og hvordan den skal utvikles blant annet gjennom samarbeid.
+
+Forventningene til skolen former forventningene til lærerne. Siden lærerne jobber for å realisere skolens samfunnsmandat, får lærerne et ansvar for å operasjonalisere og balansere de ulike forventningene som ligger i skolens mange mål.
+
+Dagens lærerrolle formes altså av normer og forventninger fra aktører og institusjoner på *makronivå* og gjennom de konkrete praksisene på *mikronivå,* i den faktiske utøvelsen av yrket på den enkelte skole, i kollegiene, i samværet med elevene og i møte med foreldrene. På et makronivå setter aktørene og institusjonene rammer for lærerrollen, for eksempel gjennom beslutninger i forhandlingssystemet (lønn og arbeidstid), mål og innhold (læreplan), ressurstildeling og gjennom hva lærerne måles etter. Viktige sider ved utøvelsen av lærerrollen er avhengig av de ressursene og rammene som settes for lærerrollen, som ofte besluttes utenfor selve skolen. Rammebetingelser, føringer og forventninger gjør noen tiltak mulig og vanskeliggjør andre (Ekspertgruppa om lærerrollen, 2016).
+
+Lærernes innspill til utvalget
+
+Utvalget har fått mange innspill fra lærere og lærerorganisasjonene som gir et bilde av hvordan det oppleves å jobbe som lærer i dag. I disse innspillene løfter de fram det meningsfylte samfunnsoppdraget og de nære relasjonene til elevene som det beste med yrket. Lærere motiveres sterkt av å se elevene mestre faglige utfordringer, «knekke koden» og utvikle seg som menneske. Lærerne opplever at de har en nøkkelrolle i å forme barn og unge til å ta aktiv del i demokratiet, og at dette gir dyp samfunnsmessig mening, spesielt i en urolig tid. Lærerne trekker også fram gleden over å bidra til elevenes læring i fagene. Samarbeidet med kolleger om pedagogisk utvikling og det å tilhøre et faglig fellesskap er en viktig støtte i hverdagen. Det kommer fram i innspillene at lærerne opplever å ha gode relasjoner med elevene sine. De liker elevene sine og føler omsorg for dem. Derfor uroer de seg også over at mange elever strever mer enn før, både faglig og personlig.
+
+Et gjennomgående innspill er at lærerrollen i dag kjennetegnes av å ha et stadig mer opplevd komplekst og krevende samfunnsoppdrag og at det er et økende gap mellom samfunnets forventninger og de faktiske rammevilkårene. Lærerne sier at det har blitt mer krevende å lykkes med oppdraget det siste tiåret og at de må balansere motstridende forventninger fra både myndigheter, foreldre og elever.
+
+Lærerne opplever at det blir stadig vanskeligere å avgrense rollen. De opplever at skolen må ta ansvar for oppgaver som tidligere lå hos hjemmet eller andre deler av samfunnet, som for eksempel å styrke elevenes psykiske helse og bidra til sosial utjevning ut over å gi god tilpasset opplæring.
+
+Lærerne rapporterer om en markant endring i elevenes forutsetninger for læring de siste ti årene. Mange elever har større vansker med å konsentrere seg over tid, spesielt med krevende oppgaver eller lengre tekster. Dette knyttes ofte til en heldigital oppvekst og algoritmestyrt tidsbruk som fjerner friksjon og motstand i hverdagen. De mener også at økt polarisering og frykt for sosiale sanksjoner gjør at både lærere og elever kan vegre seg for å uttrykke meninger om politisk sensitive temaer. En alvorlig del av hverdagen for mange er en økning i vold, trusler og konflikter mellom elever, noe som truer både lærings- og arbeidsmiljøet. Utdanningsforbundet sier at medlemmene er samstemte i at hverdagen i klasserommet har endret seg det siste tiåret:
+
+Kort summert opp har medlemmene våre ei tydeleg oppleving av at noko har endra seg i skulen det siste tiåret. Oppdraget har blitt meir krevjande og komplekst. Det er vanskelegare å få elevane til å konsentrere seg. Mange klasserom er meir urolege enn tidlegare, og det er både større forventningar til og større behov for individuell tilrettelegging for enkeltelevar.[^27]
+
+Lærerne opplever også at deres faglige skjønn er under sterkt press fra rettighetsbaserte krav. De opplever økte krav til dokumentasjon og rapportering. Lærerne mener også at økt individualisering og hensynet til enkeltelevers rettigheter ofte får forrang for fellesskapets behov. Lærere forventes å håndtere et enormt spenn i elevmassen, fra elever med diagnoser og utagerende atferd til elever med høyt læringspotensial, ofte uten tilstrekkelige støttefunksjoner. Lærere merker at foreldrerollen har endret seg, og rapporterer om at noen foreldre opptrer som advokater for egne barn og utfordrer lærernes faglige vurderinger og karaktersetting.
+
+Tidspress er en rød tråd i lærernes tilbakemeldinger. Lærerne mener omfanget av oppgaver har økt uten at ressursene har fulgt etter. Særlig opplever de at kontaktlærerrollen er under press og at kontaktlærere har for liten tid til å følge opp enkeltelever slik de ønsker.
+
+Lærere beskriver også en hverdag preget av stram kommuneøkonomi, som går direkte ut over kjernevirksomheten. Noen lærere forteller at de må jobbe i skolebygg som er i dårlig forfatning og med mangelfullt undervisningsmateriell.
+
+En stadig mer kompleks lærerrolle
+
+I forskingen om lærerrollen vises det til at endringer i samfunnet og styringssystemer har ført til en ekspansjon av læreroppdraget. Stadig nye forventninger og krav legger seg oppå eksisterende praksis, oppdraget utvides slik i lag (Caspersen et al., 2026; Ekspertgruppa om lærerrollen, 2016; Ellis, 2024; Thue, 2017). Forskning støtter beskrivelsene av hvordan den gradvise økningen av lærernes ansvar gir en stadig mer kompleks yrkeshverdag. Nye krav til dokumentasjon, rettighetshåndtering, digital kompetanse, psykososial oppfølging og tverrfaglig samarbeid har lagt seg på toppen av det eksisterende undervisnings- og omsorgsmandatet (Caspersen et al., 2026; Ekspertgruppa om lærerrollen, 2016). Reformer både i skolen og i lærerutdanningene former lærerrollen. En reform erstatter sjelden en annen, men legger seg på toppen av hverandre (Caspersen et al., 2026; Ekspertgruppa om lærerrollen, 2016; Ekspertgruppen om styring av lærerutdanningene, 2024; Ellis, 2024; Roos & Trippestad, 2015). De mange reformene gir viktig historisk perspektiv for å forstå de komplekse forventningene til lærerrollen.
+
+Ulike generasjoner av lærere vil gjennom sin yrkesaktive tid ha vært med på flere utdanningsreformer med tilhørende forestillinger om rollen de skal fylle og arbeidet de skal utføre. Dette vil gi seg utslag i at det i samtiden eksisterer ulike lag av forventninger til hvilke mål og hva slags kunnskap og kompetanse som er viktigst i lærernes arbeid. Dette betyr også at sentrale mål ved reformene ikke nødvendigvis erstatter tidligere målsettinger, men snarere legges til.
+
+Ekspertgruppa om lærerrollen, 2016, s. 33
+
+For eksempel ble skolen i løpet av 2000-tallet stilt overfor større krav til effektivitet, nytte og målbare resultater gjennom begreper som læringsutbytte, kompetansemål og læringstrykk. Samtidig ble 1970-årenes målsetninger om en inkluderende skole både beholdt og utvidet (Ekspertgruppa om lærerrollen, 2016). Forventningene til lærerrollen må altså forstås i et historisk og kulturelt perspektiv.
+
+Selv om forskningsgjennomgangen av hvordan lærerrollen har endret seg de siste årene i stor grad belyser et krevende krysspress og økt arbeidsbelastning, viser forskningen også positive utviklingstrekk. Det ser blant annet ut til å være en sterkere profesjonsfellesskap med en mer kollektiv orientering og godt samarbeid. Lærerne har høy jobbtilfredshet og de relasjonelle sidene ved yrket er en viktig kilde til motivasjon og glede (Caspersen et al., 2026).
+
+Erfarne lærere gir uttrykk for at teknologien har endret elevenes atferd og læringsvaner fundamentalt. De oppgir at elevene har redusert konsentrasjonsevne, mindre utholdenhet i lesing og en forventning om umiddelbar behovstilfredsstillelse. Lærerne opplever at det er vanskeligere å få elevenes oppmerksomhet i møte med alle digitale distraksjoner. Dette støtter opp om utvalgets analyser av teknologiens virkninger i skolen i kapittel 4.1. Læringsplattformene har også gjort lærerne mer tilgjengelige og visket ut skille mellom jobb og fritid (Hatfield, 2025). Forskningsgjennomgangen bekrefter innspillene utvalget at fått fra lærerne om at rollen er utvidet og at lærere i dag må håndtere komplekse sosiale og emosjonelle behov som tidligere lå til hjemmet eller hjelpeapparatet (Caspersen et al., 2026).
+
+Det er naturlig å gi skolen medansvar for å løse utfordringer i samfunnet. Gitt lærerens betydning for elevenes læring og utvikling, vil også læreren få et ansvar for å bidra med løsninger, i tråd med mandatet læreren har. Noen av oppgavene lærerne er forventet å bidra med å løse, for eksempel frafall og atferdsproblemer, kan beskrives som gjenstridige problemer (Rittel & Webber, 1973). Det vil si uryddige og uoversiktlige utfordringer der det er ulike syn på hva problemet består i, hvordan det kan forklares, og hva som er de(n) beste løsningen(e) (Devaney & Spratt, 2009). Ekspertgruppen om lærerrollen (2016) pekte på hvordan myndighetene etter årtusenskiftet har valgt å delegere de høyst reelle problemene med å forene mass and class, altså en skole der «alle skal med» og med ambisjoner om å prestere i toppsjiktet i internasjonale rangeringer, til læreren i klasserommet og ledelsen ved den enkelte skole. De pekte på at det kan være utfordrende hvis lærerne får ansvar for å realisere mål som er idealiserte og urealistiske og alene blir holdt ansvarlige for å løse utfordringer som er gjenstridige.
+
+Læreren har blitt gitt stor autonomi, men blir stående ansvarlig for gapet mellom systemets krav og de faktiske ressursene. I forskningslitteraturen om lærerrollen de senere årene, blir det beskrevet en bevegelse i styringen i utdanningssektoren fra en profesjonsmodell basert på tillit til en styringsform mer preget av målstyring, kontroll og ansvarliggjøring. Forskningen beskriver hvordan dette kan skape et *performativt press* og utfordre lærernes reelle profesjonelle autonomi (Caspersen et al., 2026). Når lærerne gis autonomi og ansvar til å nå ambisiøse mål, uten at det følges opp med nødvendige rammer, kan det altså skape problematiske forventninger til lærerrollen.
+
+Lærerne trives, selv om arbeidshverdagen kan være krevende
+
+Til tross for utfordringene og spenningene som blir beskrevet i forskningslitteraturen, trives de fleste lærerne i jobben sin (Ingelsrud et al., 2025; Statens arbeidsmiljøinstitutt, 2026a; Utdanningsforbundet, 2025; White et al., 2025). Gjennom media kan man også få inntrykk av at lærerhverdagen er krevende. Tilgjengelige undersøkelser om lærerhverdagen i dag tegner et mer nyansert bilde. Partene i utdanningssektoren har de siste årene hatt ganske ulike forståelser av situasjonen i skole-Norge. I strategien for lærerrekruttering ble de enige om en felles beskrivelse der de både vektlegger at lærerne stort sett trives, samtidig som sider ved arbeidshverdagen også beskrives som mer krevende (Kunnskapsdepartementet, 2024c).
+
+Dette bildet blir bekreftet i den nyeste TALIS-undersøkelsen om lærerrollen. Dette er en internasjonal undersøkelse som gjennomføres av OECD og handler om hvordan lærere og skoleledere (i ungdomsskolen) opplever yrkeshverdag og arbeidsbetingelser. De aller fleste lærere trives på arbeidsplassen (95 prosent), og oppgir at de har gode relasjoner med både kollegaer, elever, foreldre og rektorer. De oppgir også at de har stor faglig handlefrihet i undervisningen. Den norske skolen er preget av samarbeid, og det har vært en betydelig økning i andelen lærere som rapporterer at de deltar i profesjonelt læringssamarbeid og undervisning i team månedlig eller oftere. Samtidig rapporterer flere lærere om høyt nivå av stress på jobben, og en økende andel av lærerne svarer at jobben påvirker helsen deres negativt sammenlignet med i 2018. Lærerne rapporterer om en mer sammensatt elevgruppe og økt behov for tilpasning. Nyutdannede lærere opplever høyere kvalitet i lærerutdanningen og at de får mer oppfølging i skolen. Nesten 8 av 10 lærere føler seg verdsatte av foreldre og elever. Bare 2 av 10 lærere svarer at de mener lærerprofesjonen er verdsatt av samfunnet (White et al., 2025).
+
+En ny undersøkelse om lærernes opplevelse av arbeidstidsavtalen gir også et nyansert bilde av hvordan lærerrollen oppleves i dag. De fleste lærere trives i jobben, 78 prosent oppgir at de er ganske eller svært fornøyde med jobben, 87 prosent oppgir av jobben er meningsfull og 71 prosent mener arbeidet gir positive utfordringer. De fleste lærerne løftet samtidig fram utfordringer knyttet til for mange oppgaver og for lite tid. Arbeidsmengde kan variere ut fra klassesammensetning. Kontaktlærerrollen framstår som særlig omfattende og at omfanget har økt over tid. Blant annet oppgir lærere at en økning i kontakt fra foreldre og elever utenfor normalarbeidsdagen bidrar til et økt arbeidspress. Flere lærere ga uttrykk for at det var uklart hvilke oppgaver som egentlig ligger til lærerrollen. Datamaterialet viser at lærerrollen favner mye videre enn undervisning. Mange lærere opplever at de ofte må velge hvilke oppgaver utenfor undervisningen de skal prioritere. For eksempel å følge opp elevene sosialt eller forberede undervisningsopplegget til neste dag (Ingelsrud et al., 2025).
+
+Jobbtrivselen blant de som jobber med undervisning er på samme nivå som sysselsatte i andre næringer. Samtidig viser statistikken at det er noen områder knyttet til arbeidsmiljøet der som det er noen særlige utfordringer i undervisningssektoren (Statens arbeidsmiljøinstitutt, 2026a). I yrkesgruppen grunnskolelærere oppgir blant annet 22 prosent at de har vært utsatt for vold på jobb det siste året, 44 prosent oppgir at jobben tar så mye tid og/eller energi at det går utover privatlivet, 50 prosent oppgir at de er utsatt for dårlig inneklima på jobben i minst ¼ av arbeidsdagen, 49 prosent oppgir å ha hatt hodepine eller migrene i løpet av den siste måneden, og at disse plagene helt eller delvis skyldes deres nåværende jobb (Statens arbeidsmiljøinstitutt, 2026b, 2026c, 2026d).
+
+### Positive profesjonaliseringsprosesser og vedvarende utfordringer
+
+Oppsummert viser gjennomgangen at det vært satt i gang flere prosesser som har bidratt til en profesjonalisering av lærerprofesjonen de siste tiårene:
+
+- Lærerutdanning på masternivå.
+
+- Lærerprofesjonens etiske plattform.
+
+- Partnerskap mellom lærerutdanningene og skolene.
+
+- Sterke profesjonsfellesskap.
+
+- Sterkere forskningsforankring.
+
+- Etter- og videreutdanning.
+
+- Satsning på profesjonsfaglig veiledning for nyutdannede lærere.
+
+Til tross for disse prosessene, har lærerprofesjonen fortsatt noen utfordringer sammenlignet med andre profesjoner. Det er for eksempel uvanlig i andre profesjoner å ha unntak fra kravene for tilsetting. Andre profesjoner har også gjennomgående mer formaliserte ordninger for profesjonskvalifisering i overgangen til yrket og videre gjennom yrkeslivet. Det er også vedvarende utfordringer med å rekruttere nok kvalifiserte lærere til å fylle alle lærerstillingene rundt om i landet. Selv om de aller fleste lærere trives godt på jobben, ser det ut til at lærerrollen stadig oppleves mer kompleks og krevende, og at det er et gap mellom forventningene fra samfunnet og vilkårene lærerne opplever at de har for at de lykkes i jobben.
+
+## Profesjonell skoleledelse
+
+Alle skoler skal ha en faglig, pedagogisk og administrativt forsvarlig ledelse. Offentlige skoler skal ledes av en rektor, mens private skoler skal ha en daglig leder (Opplæringslova, 2024, § 17-12; Privatskolelova, 2003, § 4-1). Det følger av opplæringsloven at rektor skal ha pedagogisk kompetanse. Dette kan være enten formell pedagogisk kompetanse, kompetanse opparbeidet gjennom praksis eller en kombinasjon (Prop. 57 L (2022–2023)).
+
+I det videre bruker vi i hovedsak begrepet *skoleleder og skoleledere* om personer i skolens ledelse. Det omfatter stillinger som rektor, assisterende rektor, undervisningsinspektør og avdelingsledere.
+
+### God skoleledelse gir bedre skoleresultater
+
+Både norske og internasjonale studier viser at det er en sammenheng mellom skoleledelse, skolens kvalitet og elevenes resultater (Darling-Hammond et al., 2022; Hye et al., 2025b). En forskningsoppsummering viser at skoleledelsens rolle i å forbedre læringsresultater har fått stadig større oppmerksomhet de siste 20 årene, og at betydningen av god ledelse har vært undervurdert. Studier fra USA finner at betydningen av skoleledelse for elevenes læringsresultater er nesten like stor som betydningen av læreren, som er den aller viktigste skolerelaterte faktoren for elevenes læring (Grissom et al., 2021). Andre internasjonale studier finner også at skolelederen har en stor indirekte effekt på elevenes læring (Hattie, 2023).
+
+Boken *Elevsentrert skoleledelse* beskriver hva skoleledere må gjøre for å påvirke elevenes læring og trivsel mest mulig (Robinson, 2014). Boken bygger på en omfattende analyse av hva slags lederpraksis som har størst effekt på elevers faglige og sosiale resultater. Den argumenterer for at ledelse ikke er effektivt når det bare handler om administrasjon, makt eller popularitet, men når lederens praksis bidrar til at undervisning og læring skal bli bedre.
+
+I Norge har vi flere studier og rapporter som understreker betydningen av god skoleledelse. Kvalitetsutviklingsutvalget legger vekt på at systematisk kvalitetsutvikling i skolen forutsetter god ledelse på alle nivåer. De framhever at skoleleder har en sentral rolle i arbeidet med kvalitetsutvikling, gjennom å lede lærernes arbeid med å legge til rette for at alle elever trives og utvikler seg faglig (NOU 2023: 27).
+
+Ekspertgruppen for skolebidrag definerte i sin sluttrapport *En skole for vår tid* ulike kjennetegn ved skoler og kommuner som lykkes med å heve kvaliteten på opplæringen til elevene (Ekspertgruppe for skolebidrag, 2021). Ekspertgruppen skriver at:
+
+Skoleledere på disse skolene er synlige og tett på og organiserer skolene for samarbeid om jevnlig vurdering og utvikling, slik at skolen øker sin kunnskap om eget arbeid. Skolelederne myndig- og ansvarliggjør lærerne til å drive arbeidet med skoleutvikling. De følger interessert med på arbeidet i lærernes profesjonsfellesskap.
+
+Ekspertgruppe for skolebidrag, 2021, s. 101
+
+Rapporten understreker behovet for godt samarbeid og god dialog mellom lokal skolemyndighet, skoleledere og lærere. Det må være enighet om felles mål, hva man skal gjøre, hvordan og hvorfor. Skoleledere og lærere må tolke resultater og planlegge forbedringstiltak sammen (Ekspertgruppe for skolebidrag, 2021).
+
+Evalueringen av fagfornyelsen viser at skolelederne har fått et stort ansvar for å realisere læreplanverket (LK20). Skoleledere har fått større handlingsrom, men samtidig også større ansvar for å lede fortolkningsprosessene i profesjonsfelleskapet (Gunnulfsen et al., 2024).
+
+### Skolelederrollen har blitt mer krevende
+
+Skolelederrollen er kompleks, og en del av skolelederrollen som ser ut til å ha fått større oppmerksomhet i det siste handler om å lede profesjonsfelleskapet på skolen.
+
+Skolelederforbundet legger i sitt innspill til utvalget vekt på skolelederens rolle i å lede profesjonelle læringsfellesskap. Profesjonell skoleledelse handler om å utvikle en kultur for samarbeid, refleksjon og faglig utvikling blant lærerne. Uten god skoleledelse får ikke lærere de strukturelle og organisatoriske rammene de trenger for å lykkes.
+
+En kunnskapsoppsummering fra OsloMet beskriver skoleledelse som en samhandlende aktivitet. Forskerne finner en tydelig dreining i retning av at skoler utvikles gjennom kollektive lærings- og utviklingsprosesser mellom lærere og ledere. Denne utviklingen kan ses i sammenheng med økt vektlegging av profesjonelle læringsfellesskap på skolen (Aas et al., 2024).
+
+Skoleledernes rolle som ledere for profesjonsfellesskapet kommer også fram i overordnet del av læreplanverket. Der heter det at:
+
+Det profesjonelle samarbeidet ved skolene forutsetter god ledelse. God skoleledelse forutsetter igjen ledelsesfaglig legitimitet og god forståelse av pedagogiske og andre utfordringer lærerne og andre ansatte står overfor. God ledelse prioriterer utvikling av samarbeid og relasjoner for å bygge tillit i organisasjonen. Skolens ledelse skal gi retning for og tilrettelegge for elevenes og lærernes læring og utvikling. Skoleledelsen skal lede det pedagogiske og faglige samarbeidet mellom lærerne og bidra til å utvikle et stabilt og positivt miljø der alle har lyst til å yte sitt beste. Det er skoleledelsens oppgave å lede slik at alle får brukt sine sterke sider, opplever mestring og utvikler seg.
+
+Kunnskapsdepartementet, 2017b
+
+Skoleledernes rolle i å lede profesjonsfellesskapet kommer også fram i evalueringen av fagfornyelsen. Her beskrives skoleledelsen som å ha en mellomposisjon i implementeringen av læreplanene, hvor de fungerer både som portvokter og døråpner i forholdet mellom skoleeier (kommunen og fylkeskommunen) og profesjonsfelleskapet (Gunnulfsen et al., 2024).
+
+Skoleledelsens rolle i arbeidet med realisering av læreplanverket
+
+Kilde: Gunnulfsen et al., 2024
+
+Evalueringen av fagfornyelsen viser at skolelederne opplever tillit og handlingsrom fra kommunene, og en form for myk styring gjennom forventninger. Dette gir skoleledelsen et stort ansvar for at profesjonsfellesskapet på skolen fortolker læreplanverket. Skolelederen får en rolle som døråpner mellom nivåene i skolen. Samtidig er det knapphet på tid til å gjennomføre dette fortolkningsarbeidet. Skolelederen får da en portvokterfunksjon ved å velge ut hva profesjonsfellesskapet skal sette søkelys på, og hvilke ressurser de skal bruke (Gunnulfsen et al., 2024).
+
+Høyt stress og høy arbeidsbelastning
+
+Et gjennomgående funn i alle undersøkelsene som Skolelederforbundet har gjennomført i perioden 2018–2024 er at skoleledere trives godt i yrket. Jobben oppleves som variert, meningsfylt og interessant og gir mulighet til å påvirke enkeltindivider og lokalsamfunn (Hye et al., 2025b). Samtidig viser norske undersøkelser og internasjonal litteratur at skoleledere rapporterer om høy grad av stress (Skaalvik, 2020).
+
+Den internasjonale TALIS-undersøkelsen viser et variert bilde av hvordan norske rektorer trives i jobben. Mer enn ni av ti rektorer svarer i TALIS 2024 at de trives i jobben. Samtidig viser undersøkelsen at flere tviler på yrkesvalget sitt. Fra 2018 til 2024 har andelen rektorer som svarer at de skulle ha valgt et annet yrke økt med 17 prosentpoeng (White et al., 2025).
+
+Skolelederne har et komplekst oppdrag, hvor de skal svare på en rekke forventninger fra ulike aktører og ulike nivåer i skolesystemet. Flere undersøkelser tyder på at vilkårene for å utøve ledelse er et gjennomgående problem i skoleledernes arbeidshverdag. Utfordringene kommer konkret til uttrykk gjennom det skolelederne beskriver som tidspresset og tidsklemma (Hye et al., 2025b). En undersøkelse fra Fafo trekker fram høy arbeidsbelastning og lite tid til faglig pedagogisk utvikling som to trekk som går igjen når skolelederne beskriver sin egen arbeidshverdag (Bjørnset & Takvam Kindt, 2019).
+
+Det kommer også fram at skolelederjobben har endret seg over tid. Det har blitt vanskeligere for skoleledere å balansere kravene til administrasjon med forventninger om faglig pedagogisk ledelse. Undersøkelser blant skoleledere viser at de ønsker å bruke mindre tid på forvaltning og drift, og mer tid på utviklingsprosesser, pedagogisk ledelse og personalledelse (Kirkhaug, 2021).
+
+En doktoravhandling om hvordan rektorer jobber med skolemiljøsaker viser at de opplever det som svært krevende å følge opp langvarige saker. Samarbeidet med rettighetsorienterte foreldre trekkes fram som en utfordring. Halvparten av de 18 rektorene som ble dybdeintervjuet i studien vurderte å slutte som følge av skolemiljøsakene (Skutlaberg, 2023). Funnene støttes av andre spørreundersøkelser hvor rektorene i grunnskolen oppgir at krevende skolemiljøsaker rangeres høyest av ulike belastningsfaktorer i jobben (Hye et al., 2025b).
+
+Varierende støtte fra skoleeier
+
+Skolelederne står i en posisjon mellom kommunen som øverste ansvarlig og skolen som organisasjon. Rektor skal forvalte kommunens opplæringsansvar, og det omfatter arbeidsgiveransvar, økonomistyring, relasjoner til elever og foresatte, læringsresultater og pedagogisk utvikling.
+
+Kommunene har ulike forutsetninger når det gjelder ressurser, kompetanse og kapasitet. Rektorene opplever ulik grad av handlingsrom til å iverksette kommunens ansvar. De har ulike fullmakter og ulik ressurstilgang i form av økonomi, personale og opplevd handlefrihet. Flere undersøkelser peker på at en del rektorer kunne ønske mer støtte fra kommunen, mens andre opplever at balansen mellom forventninger og støtte er god (Hye et al., 2025b).
+
+Skolelederforbundet har gitt innspill om at de ser en utvikling hvor skoleledere forventes å utføre stadig flere oppgaver, men med færre ressurser og mindre støtte. De får tilbakemeldinger fra sine medlemmer om at skoleledelse kuttes når budsjettene til opplæring blir strammere. De viser til flere eksempler hvor to skoler i samme kommune blir slått sammen til en administrativ enhet og én rektor får ansvar for begge skolene.
+
+Bekymring for rekruttering av skoleledere
+
+Både i Norge og internasjonalt er det økende bekymring for rekruttering av skoleledere. Undersøkelser peker i retning av at det har blitt vanskeligere å få folk til å søke på jobber som skoleledere, og det er utfordrende å beholde skoleledere i skolen. Utfordringen er ikke ny, OECD pekte allerede i 2008 på at dette var et problem i mange OECD-land (Pont et al., 2008). De viste til at i mange land har utdanningssystemet blitt mer desentralisert og skolene har blitt mer autonome. Samtidig har det blitt større oppmerksomhet om skolenes resultater, og forventningene til skolelederne har økt. Dette har igjen ført til økt arbeidspress for skolelederne.
+
+En undersøkelse fra 2019 fant at kun 4 prosent av kommunene har opplevd å ha over ti søkere på skolelederstillinger de hadde lyst ut. 60 prosent hadde opplevd å ha færre enn fem søkere. Det er de små kommunene som har størst problemer med å få søkere til skolelederstillingene (Bjørnset & Takvam Kindt, 2019).
+
+Selv om rektorene trives i jobben, er det trekk ved arbeidssituasjonen som gjør at de vurderer å forlate stillingen. De viktigste årsakene er høy arbeidsbelastning kombinert med krysspress mellom daglig drift og ønske om faglig pedagogisk utvikling.
+
+Det er særlig de unge og de med lav ansiennitet som i størst grad ønsker å slutte i rektorjobben. Denne tendensen sammenfaller med at mange rektorer nærmer seg pensjonsalderen. Den viktigste rekrutteringen til rektorstillingene har vært fra mellomledersjiktet. I en nyere undersøkelse svarer bare 22 prosent av mellomlederne at de kunne tenke seg en rektorstilling i framtiden. Funnene viser at den tradisjonelle karriereveien inn til rektorstillingene kan være i ferd med å bli brutt (Hye et al., 2025b).

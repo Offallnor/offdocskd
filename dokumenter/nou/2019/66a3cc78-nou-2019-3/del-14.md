@@ -1,917 +1,156 @@
-# NOU 2019: 3, del 14 av 25 (side 165–175)
+# NOU 2019: 3, del 14 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 165]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-forskningsgrunnlaget rimelig sikker støtte til at
-man oppnår de effektene som reguleringen forutsetter. For eksempel er reglene om elevvurdering
-omfattende og detaljerte, og bygger på et solid forskningsgrunnlag. I andre tilfeller viser forskningsgrunnlaget tydelige effekter av et tiltak, men staten har valgt å innføre overordnede regler og
-åpner dermed for svært skjønnsmessig praksis.
-For eksempel har regelen som begrenser
-organisering av elever etter faglig nivå solid støtte
-i forskningen, men reguleringsformen er så overordnet at det er liten grunn til å forvente at den
-endrer det som uansett hadde vært skolenes praksis. I lys av effektene av nivådifferensiering mener
-utvalget det er grunn til å bruke en mer inngripende reguleringsform på dette området. I noen
-tilfeller har staten unnlatt å regulere faktorer med
-klare effekter. Alle skoler skal ha en forsvarlig
-ledelse, og opplæringen skal ledes av rektor. Imidlertid har det ikke vært en rettslig prøving av forholdet mellom profesjonsskjønn og arbeidsgiverens styringsrett (B. Eriksen, 2018; Garbo & Raugland, 2017). Samtidig viser forskning at objektive
-kjennetegn ved lærere som utdanningsnivå, erfaring og kjønn i liten grad forklarer hvorfor noen
-lærere oppnår langt mer læring for sine elever
-enn andre lærere, men at forskjellene er knyttet til
-undervisningspraksis. Det er dermed lite effektivt
-for kommuner og skoleledere å bruke objektive
-kjennetegn på lærere som grunnlag for styring og
-ledelse av skolen, mens det derimot er svært
-effektivt å påvirke og utvikle alle læreres undervisningspraksis (Hanushek, 2011).
-I andre tilfeller igjen viser forskningsgrunnlaget at reguleringen sannsynligvis ikke har de
-effektene regelverket forutsetter. I grunnskolen
-finnes det regler om maksimalt antall elever per
-lærer, og det er bevilget betydelige midler for å
-sette kommunene i stand til å oppfylle regelverket. Samtidig viser forskningen at økt lærertetthet
-i Norge ikke forbedrer elevenes læring hverken i
-gjennomsnitt eller for ulike elevgrupper, og trolig
-heller ikke påvirker elevenes læringsmiljø i
-vesentlig grad. Det finnes også tilfeller i regelverket av bestemmelser som skal påvirke praksis i
-skolen, men som er overordnede og skjønnsmessige. For eksempel har meningsinnholdet i opplæringsloven § 1-3 om tilpasset opplæring endret seg
-vesentlig over tid som følge av politiske prosesser.
-Bestemmelsen bygger i liten grad på et kunnskapsgrunnlag. Skolene opplever begrepet tilpasset opplæring som uklart, og det er derfor vanskelig å vite hvordan det bør operasjonaliseres i praksis (Jenssen & Lillejord, 2009).
-
-163
-
-Kapittel 11
-
-Fra et styringsperspektiv mener utvalget det
-er bedre å regulere utvalgte områder stramt der
-det er solid forskning på positive eller negative
-effekter, enn å regulere mange områder løst når
-forskningsgrunnlaget er usikkert, slik det i stor
-grad er i dagens skolesektor. Samtidig er det ikke
-en oppgave for dette utvalget alene å konkretisere
-prinsippet om kunnskapsbasert styring for hele
-regelverket for barnehagen og skolen. Den relevante forskningen har et betydelig omfang og stor
-kompleksitet, og det er heller ikke forsvarlig å
-oppheve alle tiltak som bygger på et usikkert
-kunnskapsgrunnlag. Det er vanskelig å vite hvilket tilbud barn og elever da ville fått. Utvalget
-mener derfor at staten bør legge kunnskapsbasert
-styring til grunn som prinsipp for barnehage- og
-skolesektoren, for deretter å satse målrettet på å
-styrke forskningen spesielt på effekten av tiltak og
-utvikle regelverket og økonomiske prioriteringer
-over tid i tråd med utviklingen av forskningsgrunnlaget.
-Utvalgets forslag til tiltak tar sikte på å konkretisere prinsippet om kunnskapsbasert styring på
-noen sentrale områder for barnehagen og grunnopplæringen, samt enkelte områder av høyere
-utdanning. I tråd med utredningsinstruksen for
-staten har utvalget lagt vekt på å utrede flere alternative tiltak for å oppnå samme formål. Utvalget
-drøfter derfor flere tiltak som i prinsippet kan
-bidra til det samme formålet, og anbefaler det tiltaket som samlet har den største samfunnsnytten.
-I alle tilfeller bør kunnskapsgrunnlaget gi en
-viss grunn til å forvente at tiltaket har en effekt.
-Samfunnets ressurser i form av kapasitet, kompetanse og tid er knappe, og ressurser som blir
-brukt på ett tiltak, kunne vært brukt på andre tiltak med større sannsynlighet for å ha positive
-effekter. Det betyr at et tiltak med usikker effekt
-bør prøves ut systematisk før man avgjør om det
-skal innføres generelt. Utvalget mener at tiltak
-med antatt store konsekvenser ved at det påvirker
-mange personer, er inngripende, kan ha negative
-effekter, har store budsjettkonsekvenser eller reiser prinsipielle og etiske spørsmål, bør prøves ut
-systematisk som hovedregel. Særlig bør bevisbyrden være større i de tilfellene der forskningen gir
-grunn til å forvente at tiltaket har risiko for alvorlige negative effekter.
-Samtidig mener utvalget at avveiningen av
-nytte og risiko for negative effekter ved et tiltak
-bør gjøres på grunnlag av sammenligninger med
-de eventuelle negative effektene av dagens ordninger, ikke mot en ideell eller hypotetisk situasjon. Denne avveiningen må også ta hensyn til
-sannsynligheten for at nye studier vil kunne gi
-
-[Side 166]
-
-164
-
-Kapittel 11
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-vesentlig bedre kunnskap om effekten av tiltaket.
-Det kan være metodiske, etiske, økonomiske og
-andre grunner til at det er lite realistisk eller forsvarlig å prøve ut tiltaket. I alle tilfeller må eventuelle tiltak beskrive hvordan slike forhold skal
-håndteres på en forsvarlig måte. Utvalget vil likevel understreke at det normalt vil være usikkerhet
-om de positive og negative effektene av et tiltak
-når det skal settes i verk i en ny sammenheng.
-Etter utvalgets vurdering bør terskelen for å
-prøve ut et tiltak systematisk derfor være lav til
-
-moderat, mens terskelen for å dokumentere effekter av tiltak som innføres generelt ved hjelp av
-observasjonelle data – i praksis registerdata – bør
-være lav. Det betyr at i tilfeller hvor usikkerheten
-om effekten av et tiltak er lav, bør staten kunne
-innføre eller oppheve tiltaket, men samtidig dokumentere effekten av denne beslutningen gjennom
-forskning.
-
-[Side 167]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-165
-
-Kapittel 12
-
-Kapittel 12
-
-Kunnskapssystem for barnehage og grunnopplæring
-12.1 Datagrunnlaget for barnehage og
-grunnopplæring
-Det profesjonelle og faglige skjønnet til ansatte i
-barnehagene og grunnopplæringen er avgjørende
-for å utvikle kvaliteten på tilbudet til barna og elevene og ivareta deres rettigheter. Dette skjønnet
-kan imidlertid ikke erstatte systematisk kunnskap
-som kan frembringes ved hjelp av data om alle
-barn. Data fra barnehager og skoler kan brukes til
-statistikk over, analyse av og forskning på hvordan barnehager og skoler virker, hvem og hva de
-gagner, hvilke skader og utilsiktede virkninger de
-har, om ressursene utnyttes godt, og hvordan de
-påvirker livsløpet til den enkelte og samfunnsutviklingen. Bruk av data gir kunnskapsstøtte til
-elever og deres familier, lærere og andre ansatte i
-barnehagene og grunnopplæringen, men kan
-også bidra til informerte offentlige debatter og
-demokratiske prosesser.
-Som situasjonsbeskrivelsen og kunnskapsgrunnlaget grundig har dokumentert, er det betydelige hull i det datagrunnlaget samfunnet har for
-å forstå når, hvordan og hvorfor kjønnsforskjeller
-oppstår i grunnopplæringen, og hvilke konsekvenser forskjellene har senere i livsløpet til kvinner og menn. Det mangelfulle datagrunnlaget er
-et generelt problem for drift og utvikling av skolen
-og knytter seg ikke spesifikt til problemstillinger i
-denne utredningen.
-Samtidig er samfunnsoppdraget slik det er formulert i rammeplanen for barnehagen og læreplanverket for grunnopplæringen svært omfattende. Det er hverken realistisk eller ønskelig å
-samle inn data om alle sider ved dette samfunnsoppdraget. Utvalget mener likevel at dagens kunnskapssystem og det faglige og profesjonelle skjønnet til ansatte i barnehagene og grunnopplæringen er utilstrekkelig for å drive, utvikle og styre
-barnehager, skoler og opplæringsarenaer på en
-etisk og forsvarlig måte, oppnå høy kvalitet og
-utnytte ressursene effektivt, og legge til rette for
-forskning. Utvalget mener at et forsvarlig kunn-
-
-skapssystem blant annet må kunne belyse følgende temaer:
-Beskrivelser av status, erfaringer og opplevelser
-–
-
-–
-–
-–
-
-Hvordan er barnehage- og opplæringstilbudet
-fordelt etter kjønn, familiebakgrunn, innvandringsstatus, helsesituasjon og geografi, og
-hvilke utviklingstrekk finnes over lengre tidsperioder?
-Hva er kvaliteten på tilbudet slik det er definert
-i rammeplanen for barnehagen og læreplanverket for grunnopplæringen?
-Hvilke erfaringer og opplevelser har elever,
-lærere og andre ansatte i barnehagen og
-grunnopplæringen?
-Hvordan medvirker elever, lærere og andre
-ansatte til utvikling av barnehagen og grunnopplæringen?
-
-Årsaker til og konsekvenser av status i barnehage og
-grunnopplæring
-–
-
-–
-–
-
-I hvilken grad fremmer barnehagen og grunnopplæringen barn og unges utvikling og læring
-slik det er definert i rammeplanen for barnehagen og læreplanverket for grunnopplæringen?
-Er det systematiske forskjeller mellom elevgrupper?
-Hvilke konsekvenser har barnehage- og opplæringstilbudet senere i livsløpet for helse,
-familiestiftelse, arbeid og inntekt?
-
-Effekter av tiltak og reformer i barnehage og grunnopplæring
-–
-
-–
-
-Hvilke effekter har tiltak og reformer i barnehagen og i grunnopplæringen på resultater i
-skolen, i høyere utdanning og senere i livsløpet, slik som arbeid, inntekt, familiestiftelse og
-helse?
-Hvilke skader og utilsiktede virkninger har tiltak og reformer i barnehage- og opplæringstilbudet?
-
-[Side 168]
-
-166
-
-NOU 2019: 3
-
-Kapittel 12
-
-–
-–
-
-Nye sjanser – bedre læring
-
-Hva koster tiltak og reformer i barnehagen og
-grunnopplæringen?
-Er tiltak og reformer i barnehagen og grunnopplæringen kostnadseffektive?
-
-Forskning vil gi ny kunnskap og innsikt som kan
-utfordre gjeldende tenkemåter. Forskning, analyse og statistikk kan gi kunnskap til alle aktører
-rundt barnehagen og skolen – elever, familier,
-lærere, myndigheter lokalt og nasjonalt, internasjonale organisasjoner og politikere. Kommunene
-og fylkene trenger kunnskap om sine barnehager
-og skoler for å tilpasse tilbudet til det enkelte barn
-og den enkelte elev, identifisere barn som trenger
-særskilt støtte, legge til rette for kvalitetsutvikling
-av hele tilbudet og prioritere innsatsen. Staten har
-behov for kunnskap om sektoren som helhet for å
-styre gjennom regelverket og prioritere mellom
-ulike tiltak. Staten kan ha behov for kunnskap om
-enkelte barnehager og skoler som grunnlag for
-tilsyn og målrettede tiltak. Sammenfallet i kunnskapsbehov tilsier at det bør etableres et felles
-nasjonalt system for innsamling, håndtering, sikring og tilgjengeliggjøring av data, slik at alle aktører kan bruke dataene til sine behov. Formålet
-med et slikt nasjonalt system bør være å fremskaffe kunnskap om barnehager og skoler ved å
-tilrettelegge for bruk av data i statistikk, analyser
-og forskning, samt kvalitetsutvikling, planlegging
-og styring i barnehagen og grunnopplæringen.
-Ved innsamling av data fra barnehager og skoler må hensynet til personvern og samfunnsnytte
-balanseres. På den ene side innebærer datainnsamling et inngrep i personvernet til barn og
-unge, familier og ansatte, blant annet fordi det er
-en risiko for misbruk av data. Risikoen ved å
-samle inn mer og bedre data må vurderes opp mot
-den risikoen eller ulempen som er knyttet til
-dagens systemer for innsamling, håndtering og
-bruk av data i barnehager og skoler. På den annen
-side, har analyse av data fra barnehager og skoler
-betydelig samfunnsnytte. Det er økonomisk og
-etisk uforsvarlig ikke å vite i hvor stor grad barnehager og skoler oppfyller samfunnsoppdraget sitt.
-Samfunnet bruker rundt 150 milliarder kroner i
-året på barnehager og skoler, og staten og kommunene har ansvaret for at ressursene blir brukt
-forsvarlig og kostnadseffektivt. Barnehager og
-skoler påvirker livet til rundt 300 000 barn i barnehagen og 750 000 elever og lærlinger i grunnopplæringen. Det er uetisk av staten og kommunene å
-iverksette eller opprettholde tiltak og ordninger
-uten å vite om de forbedrer eller forverrer resultater i skolen og livssituasjonen til barn og ungdom.
-
-Dagens systemer for innsamling, håndtering
-og bruk av data i barnehager og skoler er uoversiktlige og komplekse, og ofte har man benyttet
-tiltak som anonymisering for å redusere risikoen
-ved slike systemer. Konsekvensen av dette er at
-forløpsstudier ikke kan gjennomføres, og nasjonale sammenlignbare tall er mangelvare. Samtidig
-eksisterer det mest sannsynlig svært mange ulike
-IT løsninger og lokale retningslinjer for å håndtere de lokale og regionale dataene. Når man skal
-samle inn og håndtere personentydige opplysninger må man ha systemer med innebygd personvern, og vektlegge informasjonssikkerhet. Personentydige opplysninger er særlig attraktive fordi
-de kan misbrukes til identitetstyveri, utpressing,
-forretningsvirksomhet eller personangrep. Det
-foregår dataangrep mot myndigheter og bedrifter,
-og det er grunn til å tro at slike angrep vil kunne
-forekomme hyppigere i fremtiden. Det er like fullt
-mulig å utnytte teknologiske løsninger som ivaretar en sikker lagring og behandling av opplysninger i en nasjonal løsning som kan være enten
-desentralisert (felles retningslinjer, felles standarder for data og løsninger) eller sentralisert.
-Etter utvalgets vurdering er det bedre at staten oppretter og forvalter et trygt datasystem enn
-at hver enkelt kommune skal innføre lokale
-systemer som må koordineres med samtlige kommuner for å få nasjonale sammenlignbare data. En
-personvernulempe ved et nasjonalt felles system,
-som gir muligheter for koblinger til andre datakilder, er at informasjonsmengden om enkeltindivider øker innenfor ett system, og dermed vil konsekvensene ved et eventuelt datamisbruk være
-høyere enn om informasjonsmengden var begrenset. Samtidig kan risikoen for misbruk reduseres
-betydelig ved hjelp av teknologiske løsninger for
-kryptering og avidentifisering av personopplysninger og ulike typer av begrensninger i datatilganger. Personvernombud og Datatilsynet har
-sentrale roller i forbindelse med rådgivning for
-bruk og forvaltning av data, samt gjennom tilsyn
-for å bidra til at de ansvarlige ivaretar personvernet tilstrekkelig. I tillegg er det enklere for samfunnet å stille staten til ansvar for at data skal forvaltes i henhold til lover og regler enn hver enkelt
-kommune.
-I sum mener utvalget at det er mest hensiktsmessig å utvikle et felles nasjonalt system for å
-innsamle og forvalte data fra barnehage og grunnopplæring. Det må stilles strenge krav til personvern og informasjonssikkerhet, og til velutviklede
-systemer for å ivareta disse hensynene på en forsvarlig måte. Etter utvalgets overordnede vurdering er risikoen mindre og gevinstene langt større
-
-[Side 169]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-ved et felles nasjonalt system enn risikoen og
-gevinstene ved mange lokale systemer. Det er
-likevel viktig å avveie hensynet til personvern og
-samfunnsnytten konkret for bestemte innsamlingsmetoder (del 12.1.1), opplysninger (del 12.1.2)
-og overføring av informasjon fra systemet mellom
-nivåer og sektorer (del 12.1.3).
-
-12.1.1 Nasjonalt register for forløpsdata
-i barnehage og grunnopplæring
-Utvalget mener at forløpsdata er nødvendige for å
-kunne gi bedre kunnskapsstøtte til elever og
-deres familier, lærere og andre ansatte i skole og
-barnehager, og kommuner, fylkeskommuner, staten og forskersamfunnet. Forløpsdata er datapunkter som gjør det mulig å følge enkeltpersoner
-over tid og måle læring og utvikling på ulike tidspunkter i opplæringsløpet og livsløpet.
-For å vite hvordan barns læring og utvikling
-endrer seg gjennom opplæringsløpet, er det nødvendig med data om de samme elevene på ulike
-tidspunkter i opplæringsløpet. Hvis man bare har
-tverrsnittsdata om ulike elevkohorter over tid, vil
-det være usikkert om eventuelle endringer skyldes endringer gjennom opplæringsløpet eller
-endringer mellom ulike elevkohorter. Dagens
-data fra skolen gir bare informasjon om elevenes
-læring fra 5. trinn og oppover, og mye tyder på at
-blant annet kjønnsforskjellene i læring oppstår
-langt tidligere. Uten forløpsdata er det også umulig å vite hva som er skolens bidrag til elevenes
-læring. Såkalte skolebidragsindikatorer tar hensyn til elevenes tidligere læring, sosiale bakgrunn
-og tilfeldige variasjoner for å gi et bilde av skolenes selvstendige bidrag til elevenes læring. Slike
-indikatorer beregnes gjennom endringene i elevenes læring på ulike tidspunkter. Det er også vanskelig å studere årsaker til manglende gjennomføring av videregående skole uten forløpsdata, eller
-konsekvenser av å ha fått spesialundervisning i
-grunnskolen.
-Forløpsdata er nødvendige for å vite konsekvensene av barnehage- og skoletilbudet for det
-som skjer senere i livet. Rammeplanen for barnehagen og læreplanverket for skolen legger betydelig vekt på at barn og elever skal settes i stand
-til å mestre livet og delta i samfunnet og arbeidslivet som selvstendige individer. Uten forløpsdata
-om barnehagen og grunnopplæringen som kan
-
-167
-
-Kapittel 12
-
-kobles til datakilder om resten av livsløpet – slik
-som arbeid, helse og familie – vet ikke samfunnet
-om barnehager og skoler ivaretar målene i rammeplanen og læreplanverket. For å vite hvordan
-særskilte elevrettigheter som læringsmiljø, spesialundervisning og særskilt språkopplæring1 virker inn på elevenes læring og hvilke konsekvenser slike elevrettigheter har senere i livsløpet, er
-det også nødvendig med forløpsdata. Uten slike
-data er det ikke mulig å dokumentere for eksempel om elever med spesialundervisning og særskilt språkopplæring tilbakeføres til ordinær
-undervisning gjennom opplæringsløpet, og hvor
-lenge de eventuelt er i ulike segregerte ordninger
-i skolen. Mangelen på datakoblinger mellom
-utdanningsdata og andre data og på forløpsdata
-om læringsmiljø gjør også at alle evalueringer av
-tiltak og reformer i barnehagen og grunnopplæringen blir avgrenset til noen få utvalgte mål for
-læring, slik som karakterer i enkelte fag og tester
-av grunnleggende lese- og regneferdigheter. Formålet med og begrunnelsen for mange tiltak og
-reformer er imidlertid langt bredere enn hva slike
-enkle mål for læring fanger opp.
-Barnehagen har ikke et system for personentydige forløpsdata, mens grunnopplæringen delvis har et slikt system. Gjennom vurderingssystemet for grunnskolen er det mulig å følge elevene indirekte gjennom opplæringsløpet fordi
-nasjonale prøver og eksamens- og standpunktkarakterer er på individnivå og rapporteres til
-Utdanningsdirektoratet. I grunnskolen samles det
-imidlertid ikke inn forløpsdata om hvilken klasse,
-hvilket trinn og hvilken skole elevene befinner
-seg på. For videregående opplæring samles det
-derimot inn forløpsdata om hvilke opplæringsløp,
-trinn, skoler og lærebedrifter elevene og lærlingene befinner seg på, og det samles inn eksamens- og standpunktkarakterer på individnivå. De
-andre datakildene om grunnopplæringen er ikke
-organisert som personentydige forløpsdata. Det
-skyldes at dataene aggregeres lokalt til gruppenivå, at de ikke er personentydige eller identifiserbare, eller ikke rapporteres til sentralt nivå, jf.
-tabell 12.1.
-1
-
-Minoritetsspråklige elever har rett til særskilt språkopplæring inntil de har fått tilstrekkelige norskferdigheter til å
-følge ordinær opplæring i skolen, jf. § 2-8 i opplæringsloven.
-
-[Side 170]
-
-168
-
-NOU 2019: 3
-
-Kapittel 12
-
-Nye sjanser – bedre læring
-
-Tabell 12.1 Eksisterende og faste datakilder om barnehage og grunnopplæring.
-Type
-
-Formål
-
-Gjennomføring
-
-Elevundersøkelsen
-
-Brukerundersøkelse om
-læringsmiljøet i grunnopplæringen
-
-Foreldre-, lærebedriftog lærerundersøkelser
-
-Brukerundersøkelse
-i grunnopplæringen
-
-Foreldreundersøkelsen
-i barnehagen
-
-Brukerundersøkelse
-i barnehagen
-
-Kartleggingsprøver
-
-Identifisere elever med
-behov for ekstra støtte
-i grunnleggende ferdigheter
-
-Nasjonale prøver
-
-Informasjon om elevenes
-grunnleggende ferdigheter etter læreplanene;
-inngår ikke i sluttvurderingen til elevene
-Informasjon om elevenes
-ferdigheter og kompetanse i fag
-
-Kan gjennomføres på alle Individnivå, men ikke
-trinn, men er obligatorisk identifiserbare; rapportepå trinn 7, 10 og Vg1
-res på aggregert nivå til
-Udir
-Frivillige
-Individnivå, men ikke
-identifiserbare; rapporteres på aggregert nivå til
-Udir
-Frivillige
-Individnivå, men ikke
-identifiserbare; rapporteres på aggregert nivå til
-Udir
-Obligatorisk i lesing på
-Individnivå, identifiser1., 2. og 3. trinn og i reg- bare
-ning på 2. trinn; frivillig
-i regning på 1. og 3. trinn,
-i engelsk på 3. trinn og
-i digitale ferdigheter på
-4. trinn
-Individnivå, identifiserObligatoriske; i lesing
-og regning på 5., 8. og
-bare og rapporteres til
-Udir på individnivå
-9. trinn; i engelsk på 5.
-og 8. trinn
-
-Internasjonale undersøkelser i grunnopplæringen (PISA,
-TIMMS, PIRLS, ICILS,
-ICCS)
-Lærings- og karakterstøttende prøver
-
-Frivillige
-
-Datanivå
-
-Utvalgsundersøkelser
-på individnivå, men ikke
-identifiserbare
-
-Læringsstøttende prøver i Frivillige; tilbys i naturfag Individnivå, identifiserog samfunnsfag på ungbare
-grunnleggende ferdigdomstrinnet;
-læringsstøtheter er verktøy i undertende prøver tilbys i lesing
-visningsvurdering og
-karakterstøttende prøver og regning 6. trinn, digiskal støtte underveis- og tale ferdigheter 8. trinn
-og regning og lesing Vg1
-sluttvurdering i faget.
-Eksamens- og standpunkt- Informasjon om elevenes På 10. trinn trekkes en
-Individnivå, identifiserkarakterer i grunnskole
-kompetanse i fagene
-sentralt gitt skriftlig eksa- bare og rapporteres til
-og videregående oppetter læreplanene; utgjør men og en lokalt gitt munt- Udir på individnivå
-læring
-sluttvurderingen i fag
-lig eksamen; i vgo trekkes
-til elevene
-eksamen på alle trinn
-Statistikkrapportering fra BASIL gir informasjon om
-BASIL og GSI er på instiressurser og deltagelse
-barnehager, grunnskole
-tusjonsnivå og rapporteres
-i barnehagen; GSI gir
-og videregående opptil Udir; VIGO er på indiinformasjon om ressurser,
-læring
-vidnivå og rapporteres til
-elevtall og rettigheter
-Udir
-i grunnskolen; VIGO gir
-informasjon om blant
-annet utdanningsvalg
-og gjennomføring
-Udir er en forkortelse for Utdanningsdirektoratet; GSI er en forkortelse for Grunnskolens Informasjonssystem, BASIL er en forkortelse for Barnehage-Statistikk-InnrapporteringsLøsning; VIGO er et statistikksystem for videregående opplæring; ICILS er en
-forkortelse for International Computer and Information Literary Study, og undersøker de digitale ferdighetene til elever på ungdomstrinnet; ICCS er en forkortelse for International Civic and Citizenship Education Study, og undersøker medborgerskap hos
-elever på 9. trinn.
-
-[Side 171]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Utvalgets vurderinger
-I prinsippet er det to hovedalternativer for å samle
-inn forløpsdata: Utvalgsundersøkelser som følger
-barna og elevene gjennom livsløpet, og registerdata for hele populasjoner av barn og elever. Som
-et minimum må et nasjonalt register for forløpsdata inneholde personentydige opplysninger om
-barnehage, skole, klasse og trinn, og kunne
-kobles til andre datakilder.
-Etter utvalgets vurdering kan kunnskapsbehovet for innbyggere, elever, elevenes familier,
-lærere og andre ansatte i barnehager og skoler,
-samt kommuner, staten og forskersamfunnet ikke
-dekkes gjennom utvalgsundersøkelser. Slike
-undersøkelser kan være et viktig og nyttig supplement for å få utdypende data, men er ikke tilstrekkelig for å dekke samfunnets kunnskapsbehov.
-Nasjonale registerdata har en rekke fortrinn.
-For det første har de opplysninger om alle. Dermed er det ingen risiko for skjevheter i utvalget,
-som er en vanlig grunn til at resultatene fra
-forskningsprosjekter er usikre og ikke kan generaliseres. Utvalgsundersøkelser krever som regel
-samtykke, og det er ikke tilfeldig hvem som ikke
-deltar i eller faller fra samtykkebaserte utvalgsundersøkelser over tid. Det er særlig barn og elever
-av foreldre med en lav sosioøkonomisk bakgrunn
-og minoritetsbakgrunn som ikke deltar i eller faller fra utvalgsundersøkelser. Disse elevene omfattes trolig også i større grad av elevrettigheter som
-spesialundervisning og særskilt språkopplæring.
-Kunnskapen om de mest sårbare gruppene, som
-mange tiltak er særlig rettet mot, blir dermed svakere enn for andre barn og elever.
-For det andre kreves det store økonomiske og
-administrative ressurser å etablere og vedlikeholde utvalgsundersøkelser som samler inn personentydige forløpsdata gjennom livsløpet til et tilstrekkelig stort utvalg. Registerdata forenkler i
-vesentlig grad datakoblinger mellom utdanningsdata og datakilder om livsløpet, og de er dessuten
-lettere å sikre og dermed bedre til å ivareta deltagernes personvern. I realiteten finnes det et
-begrenset antall slike utvalgsundersøkelser, og en
-viktig årsak er de økonomiske og administrative
-kostnadene.
-For det tredje vil registerdata for hele elevpopulasjoner gjøre effektevalueringer av tiltak og
-reformer betydelig enklere, og gjøre det mer
-sannsynlig at slike evalueringer faktisk blir gjennomført. Det skilles ofte mellom to typer av effektevalueringer (Schlotter mfl., 2011). Randomiserte kontrollerte utprøvinger fordeler elever tilfeldig i én gruppe som mottar tiltaket, og én
-
-169
-
-Kapittel 12
-
-gruppe som ikke mottar tiltaket. Slike utprøvinger
-er ofte best i stand til å identifisere effekter av tiltak. «Naturlige eksperimenter» er en betegnelse
-som omfatter flere metoder der fellestrekket er å
-utnytte tilfeldig variasjon som oppstår mellom de
-som mottar og de som ikke mottar et tiltak, eller
-de som har vært utsatt for eller ikke vært utsatt
-for en hendelse. Vanligvis vil slike tilfeldige variasjoner ikke være tilsiktet, og det er vanskelig å forutsi at de kommer til å oppstå.
-Det er faglig sett klart best å kombinere randomiserte kontrollerte utprøvinger med registerdata om hele populasjoner av barn og elever. Det
-er alltid en risiko for skjevheter i utvalget av barn
-og elever som deltar i slike utprøvinger. Registerdata gir informasjon om resultatene for grupper
-som takket nei til å delta eller ikke besvarte invitasjonen, eller som har falt fra underveis. Slik informasjon kan være like viktig som data fra kontrollgrupper som deltar i selve utprøvingen. Registerdata kan gi informasjon om utviklingen blant de
-som ikke har vært en del av utprøvingen, og dermed danne en bakgrunn for å forstå de effektene
-som oppstår i utprøvingen. I tillegg kan registerdata benyttes i forkant av en randomisert
-utprøving for å beskrive status i forkant av tiltaket
-og forberede dette. Til sist kan registerdata brukes til å følge opp i etterkant av utprøvinger eller
-innføring av et tiltak i hele befolkningen for å studere langtidseffekter og utilsiktede effekter.
-For mange naturlige eksperimenter er registerdata om hele befolkninger av barn og elever en
-nødvendig forutsetning. Det er ikke mulig å opprette og vedlikeholde egne dataregistre for hvert
-enkelt naturlige eksperiment, og i mange tilfeller
-kan det oppstå tilfeldige variasjoner uten at dette
-er tilsiktet eller planlagt på forhånd. Dersom det
-da allerede eksisterer et nasjonalt register for forløpsdata, øker sannsynligheten betydelig for at
-forskere klarer å identifisere slike naturlige
-eksperimenter, også for hendelser, tiltak eller
-reformer som ble gjennomført for mange år siden.
-Naturlige eksperimenter er ofte spesielt verdifulle
-for studier av statens styring av barnehager og
-skoler. Randomiserte kontrollerte eksperimenter
-gir kunnskap om effekten av et tiltak slik det ble
-innført i et avgrenset antall barnehager og skoler.
-Naturlige eksperimenter kan gi kunnskap om
-effektene av et tiltak slik det ble innført for hele
-sektoren. Statlige tiltak er i hovedsak endringer i
-regelverk og finansiering, og kommunene har
-betydelige frihetsgrader i hvordan de oppfyller
-regelverket eller bruker ressursene på sine barnehager og skoler. For eksempel er det mer relevant
-for statens styring og den offentlige debatten hva
-
-[Side 172]
-
-170
-
-Kapittel 12
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-som er den samlede effekten av de ulike måtene å
-øke lærerressursene på, enn hva som er den beste
-organisatoriske og pedagogiske bruken av en
-ekstra lærer i hver enkelt klasse. Studier basert på
-naturlige eksperimenter er godt egnet til å belyse
-hva som er effektene av slike endringer av rammebetingelsene for kommunene.
-Et nasjonalt register med data fra barnehager
-og skoler stiller høye krav til sikkerhet, faglig
-kapasitet og kompetanse hos organisasjonen som
-skal oppbevare og behandle dataene, men også til
-deres legitimitet og tillit i hele den norske befolkningen. I realiteten kan et nasjonalt utdanningsregister forvaltes av Utdanningsdirektoratet eller
-Statistisk sentralbyrå (SSB). Etter utvalgets vurdering har SSB bedre kompetanse og kapasitet til
-å oppbevare, behandle og gi sikker tilgang til personentydige registerdata, og trolig også større
-legitimitet og tillit i befolkningen som dataforvalter. SSB er formelt sett uavhengig, og har ansvaret
-for flere nasjonale registre. For utvalget er det
-likevel et premiss for å plassere registeret i SSB at
-ny statistikklov klargjør deres faglige uavhengighet, og åpner for enklere bruk av personopplysninger til statistikk, analyse, forskning, kvalitetsforbedring, styring og planlegging. En annen fordel er at SSB kan koble utdanningsdata til andre
-personentydige datakilder, og dermed oppfylle et
-sentralt kunnskapsbehov. Utdanningsdirektoratet
-har som ordinært forvaltningsorgan ikke anledning til å gjøre slike datakoblinger på personnivå.
-For å realisere samfunnsnytten til et nasjonalt
-register for barnehager og skoler mener utvalget
-at det er nødvendig å samle inn data om sentrale
-elevrettigheter ettersom de er grunnleggende for
-samfunnsoppdraget til barnehager og skoler. Med
-dagens kunnskapsgrunnlag vet hverken kommunene eller staten om spesialundervisningen forbedrer eller forverrer elevenes læring, utvikling og
-livssituasjon. Det er heller ikke forsvarlig ressursbruk å bevilge betydelige midler til en ordning som hverken staten eller kommunene vet om
-har positive eller negative konsekvenser for
-læring og utvikling i opplæringsløpet og senere i
-livsløpet. For utvalget er spesialundervisning særlig viktig ettersom nesten 70 prosent av elevene
-som får spesialundervisning, er gutter. Det
-samme gjelder for retten til særskilt språkopplæring. Språkvansker er vanligere hos gutter enn
-hos jenter; gutter har tre ganger større sannsynlighet for sen språkutvikling sammenlignet med
-jenter, og det er grunn til å tro at slike kjønnsforskjeller i språkutvikling også finnes blant minoritetsspråklige elever. Registeret bør også omfatte
-data om dokumentert og udokumentert fravær2
-
-for elever i grunnskolen. Fravær er et mål på elevers tilpasning, helse og trivsel i opplæringen.
-Utvalgsundersøkelser der elevene skal rapportere
-om slike forhold er sårbare for skjevheter i deltagelse og ulikheter i tolkning av spørsmålene.
-Lærere er pålagt å føre fravær for samtlige elever,
-og et register vil kunne sikre likere praksis i hvordan kommuner og skoler fører fravær for elevene.
-I dag samles det mye data i barnehager og
-skoler både rutinemessig og i forskningsprosjekter og de forvaltes i mange ulike systemer. Det finnes ikke noen samlet oversikt over for eksempel
-innsamling, lagring, kvalitet, sikkerhet, innsynsmuligheter, kostnader og nytte av disse dataene.
-Slike data er vanligvis hverken tilgjengelige for
-den enkelte som er registrert, eller til forskningsformål som kan støtte utvikling og drift av barnehager og skoler. Dette reduserer nytten og sannsynligvis også sikkerheten. Antagelig betyr det også
-at de samlede kostnadene er store uten at nytten
-er tilsvarende stor.
-Utvalget mener at et nasjonalt register må
-utformes slik at det øker nytten vesentlig for den
-enkelte og for samfunnet, samtidig som personvern og datasikkerhet ivaretas i tråd med det
-strenge lovverket på dette feltet. Det er nødvendig
-med en juridisk vurdering av det rettslige grunnlaget for et nasjonalt register, og mest sannsynlig
-vil en lovhjemmel være nødvendig.
-Utvalget anbefaler
-–
-
-opprette et nasjonalt register for personentydige forløpsdata for barnehage og grunnopplæring forvaltet av SSB. Data fra registeret skal
-kunne kobles til data fra andre kilder, blant
-annet utdanningsregistre og dataregistre med
-opplysninger om arbeid, helse, trygd og familiebakgrunn.
-
-12.1.2 Utvidelser av dagens datakilder om
-utvikling og læring
-Datagrunnlaget om barn og elevers kognitive, sosiale og emosjonelle utvikling før opplæringspliktig
-alder er begrenset, og legger ikke til rette for datakoblinger med et nasjonalt register for barnehager
-og grunnopplæringen og registre om livsløpet
-senere.
-2
-
-Dokumentert fravær er fravær i henhold til permisjon fra
-skolen, fravær av helsemessige grunner der foreldrene har
-meldt fra til skolen, og fravær der eleven har legeerklæring. Udokumentert fravær er fravær som foreldrene ikke
-har meldt fra om, og fravær som er av lengre varighet enn
-det skolen har gitt eleven i permisjon.
-
-[Side 173]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Barn under opplæringspliktig alder kartlegges
-i dag gjennom obligatoriske kontroller på helsestasjonen, blant annet språkferdigheter og sosialt
-samspill. Nasjonale retningslinjer for skolehelsetjenesten anbefaler også at alle barn får tilbud om
-en undersøkelse av fysisk og psykisk helse ved
-skolestart. Informasjon fra helsestasjonene er
-ikke systematisert eller gjort tilgjengelig for
-forskning og beslutningsstøtte til myndigheter og
-andre. Et kommunalt pasient- og brukerregister
-(KPR) skal på lengre sikt omfatte data fra helsestasjonene og skolehelsetjenesten.
-Barnehager er ikke pålagt å kartlegge barns
-utvikling, men evalueringer viser at ni av ti kommuner kartlegger barns språkutvikling etter samtykke fra foreldrene. Mye tyder på at de kartleggingsverktøyene kommunene bruker, varierer
-mye med hensyn til kvalitet, formål og teoretisk
-utgangspunkt. Det er også store lokale forskjeller
-i kompetansen til å bruke slike verktøy. Mange
-barnehager kartlegger barns sosiale og emosjonelle utvikling etter samtykke fra foreldrene, men
-informasjonen er ikke systematisert eller gjort tilgjengelig for forskning eller styring.
-Datagrunnlaget om elevers kognitive utvikling
-i starten av grunnskolen er også begrenset, og
-legger ikke til rette for datakoblinger med et sentralt register for barnehager og grunnopplæringen og data om livsløpet senere. Det er først
-nasjonale prøver på 5. trinn i grunnskolen som
-måler grunnleggende ferdigheter for hele fordelingen av elever, og som er gjort tilgjengelig for
-datakoblinger. Mot slutten av grunnskolen blir
-datagrunnlaget om elevenes kognitive utvikling
-langt bedre. Datagrunnlaget om elevenes sosiale
-og emosjonelle utvikling er imidlertid svakt gjennom hele grunnopplæringen, jf. tabell 12.1.
-Utvalgets vurderinger
-Etter utvalgets vurdering er det først mulig å realisere samfunnsnytten til et nasjonalt register for
-barnehage og grunnopplæring dersom det kan
-kobles til data om barn og elevers læring og utvikling i opplæringsløpet og data om livsløpet senere.
-Utvalget mener at dagens datakilder om barn og
-elevers utvikling og læring ikke er tilstrekkelige
-for å oppfylle samfunnets kunnskapsbehov. Samtidig legger utvalget vekt på at utvidelser av datakildene blir vurdert i sammenheng med hverandre.
-Selv om hvert enkelt forslag til utvidelse har en
-god begrunnelse, må avveiningen mellom personvern og samfunnsnytte gjøres i lys av det totale
-datagrunnlaget som forslagene innebærer.
-
-171
-
-Kapittel 12
-
-Noen mener at kartlegging av barns kognitive,
-sosiale og emosjonelle ferdigheter kan bidra til at
-det oppstår feilaktige oppfatninger i samfunnet av
-hva som er en typisk eller normal utvikling og hva
-som er en atypisk eller annerledes utvikling. Etter
-et slikt syn øker kartlegging risikoen for sykeliggjøring av utviklingstrekk som representerer en
-naturlig variasjon i barns utvikling og læring. I
-dag tar imidlertid barnehager, skoler, PPT og
-andre tjenester sentrale avgjørelser med et svakt
-kunnskapsgrunnlag, og uten å vite om tilbudet de
-får, gagner barna mer enn det skader. Dette er for
-eksempel tilfellet for avgjørelser om behovet for
-spesialvurdering og utredning av barns psykiske
-symptomer. Utvalget mener at bedre data og
-forskning kan redusere risikoen for et snevert
-normalitetsbegrep, sammenlignet med dagens
-situasjon der kunnskapen er mangelfull. Bedre
-data og forskning kan gi opplyste offentlige debatter, blant annet om normalitetsbegrepet. I tillegg
-kan bedre data og forskning gi mer effektiv utnyttelse av ressurser som skolen i dag benytter for å
-tilby støtte til de som har lærevansker eller andre
-utfordringer i skolen.
-Utvalget mener det er behov for data med høy
-kvalitet fra barnehager og skoler. Det er bedre
-med færre datainnsamlinger av gode data enn
-mange med svakere data. Utvalget mener derfor
-at det er behov for en standardisert kartlegging av
-barns språklige, numeriske og sosiale utvikling
-ved fire- og seksårsalderen, og som kan erstatte
-lokale kartlegginger. Kartleggingen skal ikke
-være basert på lese- og regneferdigheter etter
-læreplanverket for grunnskolen, men på språkutvikling, numerisk forståelse og sosial kompetanse
-i tråd med rammeplanen for barnehagen.
-Ved fireårsalderen mener utvalget at språkferdighetene som kartlegges bør omfatte både
-begrepsferdigheter og grammatikalske (syntaks
-og morfologi) ferdigheter da disse er kjerneferdigheter for å kunne forstå og å kunne bruke
-språk samtidig som de tydelig predikerer fremtidig språk og leseforståelse (Hjetland mfl., 2018).
-Videre mener utvalget at enkle numeriske ferdigheter som mengde, tall og telling (én-for-én prinsippet, stabil rekkefølge og kardinalitet) bør kartlegges, da dette vil gi informasjon om den tidligste
-numeriske utviklingen. Utvalget mener også at
-det vil være hensiktsmessig å kartlegge barns
-selvregulering gjennom individuell testing, for
-eksempel av innsatskrevende kontroll («emotional
-regulation»). Selvregulering har blitt kartlagt med
-bruk av ulike begreper og kartleggingsinstrumenter, men selv ulike tilnærminger har vist at selvregulering i førskolealder kan predikere fremtidige
-
-[Side 174]
-
-172
-
-Kapittel 12
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-skoleprestasjoner (Backer-Grøndahl, Nærde &
-Idsoe, 2018). Selv om det har vært vanskelig å
-fastslå en årsakssammenheng mellom selvregulering og skoleprestasjoner, har slik kartlegging vist
-signifikante variasjoner i barns selvregulering så
-tidlig som ved fireårsalderen. I en individuell testsituasjon får barna oppgaver som måler ulike
-aspekter ved selvregulering, og skriftlige retningslinjer skal sikre at testsituasjonen er mest
-mulig standardisert. I longitudinelle analyser kan
-slik kartlegging bidra til å forklare hvordan selvregulering predikerer skolefaglige prestasjoner og
-atferd i skolealder. Ved seksårsalderen mener
-utvalget at man bør kartlegge de samme områdene som ved fireårsalderen, men i tillegg supplere med bokstavkunnskaper og fonologisk
-bevissthet.
-Utvalget ser det også som viktig at kartleggingsmaterialet er godt validert, og at samme
-kartleggingsmateriale benyttes ved både fire- og
-seksårsalderen (med unntak av den kartleggingen som kun gjøres ved seksårsalderen) slik at
-man får mulighet til å undersøke faktisk utvikling
-for samme elever mellom disse to tidspunktene.
-Formålet er ikke å måle barns personlighetstrekk
-eller egenskaper, men sosiale og emosjonelle
-ferdigheter som er formbare og viktige for senere
-utvikling og læring. Kartleggingen skal heller
-ikke brukes til å kategorisere eller diagnostisere
-barn på individnivå. Utvalget mener at dette hverken er hensiktsmessig eller at den foreslåtte kartleggingen egner seg til slikt bruk.
-Forslaget vil etter utvalgets vurdering utgjøre
-et vesentlig bedre kunnskapsgrunnlag om en viktig periode i barns utvikling. En slik kartlegging
-vil blant annet kunne avdekke hvordan kjønnsforskjeller oppstår og utvikler seg, og legge til rette
-for forskning på effektene av tiltak og reformer i
-barnehagen for sentrale elementer i rammeplanen
-for barnehagen. I dag kan det finnes tiltak og ordninger i barnehagen som forverrer heller enn forbedrer barns livssituasjon, uten at hverken kommunene eller staten er i stand til å avdekke hvilke
-effekter barnehagen har for barns utvikling. Etter
-utvalgets vurdering har en slik kartlegging en
-betydelig samfunnsnytte, og er en forutsetning for
-at staten og kommunene skal kunne styre og
-utvikle barnehagesektoren på en etisk og økonomisk forsvarlig måte.
-Utvalget vil understreke at denne kartleggingen skal gjennomføres i alle kommuner, og dermed erstatte lokale kartlegginger. Etter utvalgets
-vurdering er de kartleggingsverktøyene som
-mange helsestasjoner og barnehager bruker,
-oftest ikke standardiserte eller validerte gjennom
-
-forskning. Det betyr at kartleggingene har varierende faglig kvalitet, og kompetansen lokalt til å
-bruke slike verktøy varierer. I en slik situasjon
-mener utvalget at det uansett er bedre at alle barn
-blir kartlagt gjennom et forskningsvalidert verktøy som holder et høyt faglig nivå. Etter barnehageloven har dessuten barn under opplæringspliktig alder rett til spesialpedagogisk hjelp, også om
-de ikke går i barnehage. Etter utvalgets vurdering
-har ikke kommunene et kartleggingsverktøy tilgjengelig som setter dem i stand til å oppfylle
-denne retten på en forsvarlig måte.
-Samtidig er utvalget bekymret for at en kartleggingsplikt vil føre til målforskyvning i barnehagens arbeid bort fra rammeplanen for barnehagene. Det kan for eksempel skje ved at barnehager opplever et press om at alle barn skal lære å
-lese før skolestart. For utvalget er det et premiss
-at kartleggingen ikke skal måle barns lese- og
-regneferdigheter etter læreplanverket for grunnskolen, men barns språklige og numeriske utvikling etter rammeplanen for barnehagen. Utvalget
-ser likevel at en kartleggingsplikt vil kunne ha
-utilsiktede konsekvenser, særlig dersom plikten
-legges på barnehagene. Sannsynligheten for ulike
-målforskyvninger av barnehagens arbeid kan
-reduseres dersom plikten legges på kommunen
-som helhet. Informasjon fra kartleggingen er
-dessuten relevant for flere kommunale tjenester,
-og de bør samarbeide om oppfølgingen av resultatene. Dersom kartleggingsplikten ligger på kommunen, har kommuneledelsen entydig ansvar for
-å legge til rette og sørge for samarbeid mellom de
-ulike tjenestene. På den annen side er fordelen
-med å legge kartleggingsplikten til barnehagen
-og skolen at dette er arenaer barna kjenner godt
-og er trygge på. Fordelen med helsestasjonen er
-at den når alle barn, også de som ikke går i barnehage.
-Utvalget mener at kommunene selv bør kunne
-bestemme hvordan gjennomføringen av kartleggingen bør gjøres, og løsningene bør evalueres
-etter en tid. For eksempel kan selve kartleggingen gjøres i barnehagen, men som et samarbeid
-mellom personell fra helsestasjonen og barnehagen. Det kan også finnes andre gode organisatoriske løsninger. Ettersom kartleggingsverktøyet
-er standardisert, er risikoen liten for at svarene
-ikke vil være sammenlignbare på tvers av kommunene, selv om de velger ulike løsninger for selve
-gjennomføringen. For utvalget er det et premiss at
-tiltak for å heve kompetansen lokalt til å gjennomføre og bruke kartleggingsverktøyene prioriteres
-i de statlige ordningene for kompetanseutvikling.
-Foreldre må også sikres god informasjon om kart-
-
-[Side 175]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-leggingene, og hvordan de bør snakke med barna
-i forkant og etterkant.
-Utvalget mener det er behov for å erstatte Elevundersøkelsen med en kortere, forskningsbasert
-undersøkelse av elevers sosiale utvikling, helse og
-læringsmiljø basert på forskningsvaliderte spørsmål. Formålet med å kartlegge sosial utvikling er
-ikke å måle barns personlighetstrekk eller egenskaper, men sosiale og emosjonelle ferdigheter
-som kan utvikles og er viktige for senere utvikling
-og læring. Elevundersøkelsen slik den gjennomføres i dag, er en brukerundersøkelse, der elevene
-uttrykker sin mening om læringsmiljøet i skolen.
-Enkelte av spørsmålene, slik som indikatoren for
-mobbing, holder etter utvalgets vurdering høyt
-faglig nivå. Imidlertid er flere av de andre spørsmålene i undersøkelsen utformet på en slik måte
-at det ikke er mulig å vite om spørsmålene måler
-det de er ment å måle. Samtidig finnes det forskningsutviklede skalaer for tilsvarende temaer som
-burde lagt grunnlaget for undersøkelsen, slik som
-skoletilhørighet, lærerstøtte og trivsel. Lærere og
-skoleledere rapporterer også at dagens form på
-Elevundersøkelsen er så lang at det går utover
-konsentrasjonen til elevene, og utvalget mener
-derfor undersøkelsen uansett bør kortes ned.
-Forslaget vil etter utvalgets vurdering gi staten, kommunene og forskningen et vesentlig
-bedre kunnskapsgrunnlag om sentrale elementer
-i læreplanverket for skolen. En slik kartlegging vil
-kunne bidra til å avdekke når kjønnsforskjeller
-oppstår og utvikler seg, og hvilke konsekvenser
-læringsmiljøet har for læring og det som skjer
-senere i livet. Utvalget vil særlig understreke at et
-godt læringsmiljø er en sentral elevrettighet, og
-hverken kommunene eller staten har etter utvalgets vurdering tilstrekkelige datakilder for å
-kunne vurdere om retten oppfylles på en forsvarlig måte. Det skyldes at dagens Elevundersøkelse
-samler inn data på individnivå, men rapporterer
-data til staten på aggregerte gruppenivåer. En
-forskningsbasert undersøkelse organisert som
-personentydige forløpsdata vil også kunne legge
-til rette for forskning på effektene av tiltak og
-reformer i barnehagen og skolen. I dag kan det
-finnes tiltak og ordninger i barnehagen og skolen
-som forverrer heller enn forbedrer barns livssituasjon, uten at hverken kommunene eller staten er
-i stand til å avdekke hvilke effekter tilbudet har
-for elevenes utvikling. Denne kunnskapsmangelen gjør at evalueringer av tiltak og reformer av
-nødvendighet blir begrenset til noen utvalgte mål
-på læring, slik som karakterer i fag og tester av
-grunnleggende lese- og regneferdigheter. Både
-læreplanverket og formålet med mange tiltak er
-
-173
-
-Kapittel 12
-
-langt bredere enn hva slike avgrensede mål på
-læring fanger opp. Etter utvalgets vurdering har
-en slik kartlegging en betydelig samfunnsnytte,
-og er en forutsetning for at staten og kommunene
-skal kunne styre og utvikle barnehage- og skolesektoren på en etisk og økonomisk forsvarlig
-måte.
-Elevundersøkelsen er obligatorisk å gjennomføre på 7. og 10. trinn i grunnskolen og på Vg1 i
-videregående opplæring, men majoriteten av skoler gjennomfører undersøkelsen også på de andre
-trinnene. Sammenlagt har i overkant av tre fjerdedeler av alle elever på trinnene 5. trinn til Vg1
-gjennomført Elevundersøkelsen. Utvalget mener
-derfor at en forskningsbasert undersøkelse bør
-være obligatorisk å gjennomføre fra 5. trinn i
-grunnskolen til Vg3 i videregående opplæring. De
-aller fleste skoler gjennomfører uansett Elevundersøkelsen, og det er ikke tilfeldig hvilke skoler
-som ikke gjennomfører denne undersøkelsen der
-den er frivillig. Utvalget mener dette ikke vil bidra
-til mer skolestress eller på andre måter ha negative konsekvenser for elevenes hverdag, slik som
-elevvurderinger og ulike tester av kognitive
-ferdigheter kan tenkes å ha. Det vil heller ikke
-være krevende for skolene å gjennomføre undersøkelsen. En slik undersøkelse kan bidra til å
-skape et bedre læringsmiljø for elevene ettersom
-både staten og kommunene får et vesentlig bedre
-kunnskapsgrunnlag om et sentralt element i læreplanverket for grunnopplæringen. I tillegg kan det
-gi et bedre grunnlag for å sikre og utvikle elevers
-medvirkning i skolen.
-Samtidig innebærer forslagene om en kartlegging av barn ved fire- og seksårsalderen og en
-kartlegging av elevers sosiale utvikling, helse og
-læringsmiljø, innsamling av en betydelig mengde
-informasjon. I forbindelse med utviklingen av
-disse kartleggingene må hjemmelsgrunnlaget for
-innsamling, lagring og behandling av opplysningene utredes nærmere. Lovverket setter som premiss at slike data innsamles, lagres og gjøres tilgjengelige ved hjelp av tilfredsstillende løsninger
-for kryptering og datasikkerhet fra barnehager og
-skoler. GDPR, EUs personvernforordning, ble
-innført i 2018 og styrker rettighetene til den
-enkelte innbygger som er reigstrert. Etter utvalgets vurdering vil informasjonssikkerheten og
-personvernet i en ny dataløsning være vesentlig
-bedre enn dagens systemer for innsamling av data
-fra Elevundersøkelsen.
-Utvalget mener at det er behov for å justere
-antallet nasjonale prøver i grunnskolen. Det er i
-dag nasjonale prøver på 5. trinn for alle elever.
-Dette er første datakilde som kan kobles til andre
+## Det psykososiale miljøet
+
+Opplæringsloven § 9a fastslår at alle elever har rett til et godt fysisk og psykososialt miljø som fremmer helse, trivsel og læring. Skolen skal aktivt og systematisk arbeide for å fremme et godt psykososialt miljø, der den enkelte eleven kan oppleve trygghet og sosial tilhørighet.
+
+En kunnskapsoppsummering konkluderer med at å bli utsatt for mobbing er relatert til svakere skoleprestasjoner (Breivik mfl., 2017). De som har blitt utsatt for mobbing, har mindre tro på at de kan klare seg godt på skolen, og har mer fravær enn andre elever. En norsk studie finner videre at samvariasjonen mellom mobbing på skolen og skoleprestasjoner er betydelig sterkere enn den individuelle sammenhengen, og at samvariasjonen på skolenivå er nesten like sterk for elever som ikke selv opplever mobbing (I. F. Strøm, Thoresen, Wentzel-Larsen & Dyb, 2013). Studien etablerer ingen årsakssammenheng, men kan tyde på at det psykososiale miljøet er viktig for alle elevers læring, i tillegg til å ha særskilt betydning for utsatte elever.
+
+J. Wang mfl. (2011) finner negativ samvariasjon mellom å bli mobbet og gjennomsnittskarakterer i en studie fra USA. Studien finner at det å bli mobbet har større negativ sammenheng med guttenes skoleprestasjoner enn med jentenes, men både jenter og gutter takler mobbing bedre når de har venner og skolekamerater å støtte seg til. Noe tilsvarende finner Rothon, Head, Klineberg og Stansfeld (2011) at tenåringer som ble mobbet, hadde mindre sannsynlighet for å nå utdanningsmålene for sin aldersgruppe, og at mobbede gutter, men ikke jenter, hadde høyere sannsynlighet for å vise depressive symptomer. Stor støtte fra venner og moderat støtte fra familien virker dempende på den negative sammenhengen mellom mobbing og skoleprestasjoner, men ikke på den negative sammenhengen mellom mobbing og psykisk helse.
+
+Gitt at miljøet er viktig for skoleprestasjoner, er det noen hensyn som bør tas i arbeidet med psykososialt miljø i et kjønnsperspektiv. En litteraturgjennomgang av Maccoby (2002) peker på at gutter og jenter i alderen 4–12 år i økende grad velger seg kjønnsdelte vennegrupper, og at omfanget av tidsbruk, delt forståelse og delte interesser innad i hver av disse gruppene gjør at det er snakk om to subkulturer med hvert sitt psykososiale miljø. Det er videre stor forskjell på hvordan gutter og jenter danner vennskap og forholder seg til hverandre. Jenter bruker tid i mer intime grupper på to eller tre venninner der de snakker og handler med gjensidighet og reagerer på hva venninnen har sagt eller gjort. Gutter former større grupper, og leken har ofte preg av herjing, konkurranse, konflikt, fremvisning av ego, risikotaking, kamp om dominans og i sjeldne tilfeller direkte aggresjon. Guttegruppene er mer robuste enn jentegrupper fordi guttene oftere er hverandres venners venner. En annen forskjell er at de søker og oppnår større autonomi fra voksne.
+
+Dersom gutter og jenter påvirkes av ulike, kjønnsdelte psykososiale miljøer med hvert sitt sett av normer og regler, er det godt tenkelig at miljøforskjellene også bidrar til kjønnsforskjeller i skoleprestasjoner. Det kan også være spesielt vanskelig for skolen å skape effektive tiltak for å bedre gutters psykososiale miljø, siden disse miljøene er mer tilbaketrukket fra voksenkontakt og også kan ha indre mekanismer som skjermer gruppen mot voksnes innsyn og inngripen (Maccoby, 2002).
+
+### Forebyggende og helsefremmende tiltak
+
+Det har vært drevet et ganske omfattende arbeid i skolen for å forebygge psykososiale elevproblemer som vold, skulk og mobbing, men også kompetanse- og helsefremmende arbeid som sosial ferdighetsopplæring, og det har blitt satt i gang tiltak for å redusere bruk av tobakk og rusmidler. Et fellestrekk ved de forebyggende tiltakene er at de fleste retter seg mot problemgrupper eller ferdighetsmangler der gutter er overrepresentert, så som vold, kriminalitet, rusmisbruk, helseproblemer og manglende sosiale ferdigheter. Skolen, og etter hvert barnehagen, egner seg godt som baser for forebyggende og helsefremmende tiltak, fordi de når frem til praktisk talt alle barn og familier, og det forebyggende arbeidet kan gjennomføres uten å skille ut risikoutsatte elever. Mange av de forebyggende tiltakene er programbaserte, og har sitt utspring i tjenester som barnevernet og psykisk helsevern. Flere av programmene og tiltakene er beskrevet i Ungsinn-basen, som er en kunnskapsplattform for tiltak som er tilgjengelige og fortrinnsvis evaluert i Norge (Martinussen, 2018). Virkninger av disse tiltakene på kjønnsforskjeller i skoleprestasjoner har fått begrenset oppmerksomhet i forskningslitteraturen.
+
+Eksempler på tiltak for å bedre det psykososiale miljøet
+
+*«Respekt»* Dette er et skoleutviklingsprogram som retter seg mot læringsmiljøet på alle trinn i grunnskolen og er utviklet ved Senter for atferdsforskning (SAF). De primære innsatsområdene er disiplin, konsentrasjon og mobbing. De sekundære innsatsområdene er vold, rasisme, negativ gjengdannelse og ugyldig fravær. Programmet er prinsippstyrt, og skolen skal ut fra overordnede prinsipper og eksempler utarbeide egne aktiviteter og løsninger på organisasjons- og klassenivå, samt på individnivå. Programmet legger vekt på å utarbeide strategier for autoritativ klasseledelse, bredt engasjement fra alle aktørgrupper i skolen, konsistens og kontinuitet. Obligatoriske tiltak er markering av skolestart, kollegaveiledning, inngripen overfor mobbing, bruk av refleksvester under inspeksjon i friminutt samt deltagelse i nettverksgrupper og resultatrapportering. Respekt er evaluert med oppmuntrende resultater (Ertesvåg, 2009; Ertesvåg & Vaaland, 2007), og i Ungsinn er det klassifisert som dokumentert virksomt.
+
+*«Positiv atferd, støttende læringsmiljø og samhandling i skolen» (PALS)* er utviklet for å styrke barns sosiale kompetanse, og forebygge og mestre atferdsproblemer på grunnskolens barnetrinn (1.–7. klasse). Det norske programmet er en bearbeidet og tilpasset versjon av den amerikanske Schoolwide Positive Behavior Support-modellen (SW-PBIS), og er utviklet av Nasjonalt utviklingssenter for barn og unge. Modellen bygger også på forskning på den skoleomfattende tiltaksmodellen, og består av et tiltaksprogram med forhåndsdefinerte innholdskomponenter rettet mot alle elever, et opplæringsprogram for ansatte og skoleomfattende implementeringsstrategier for gjennomføring og vedlikehold av endring.
+
+Arbeidet for å skape et inkluderende og engasjerende læringsmiljø starter med at skolens ansatte drøfter seg frem til verdier og målsettinger som alle kan stille seg bak. Målene og verdiene skal formidle hva som er viktig i skolehverdagen og skal på en forpliktende måte lede skolens utviklingsarbeid. Dersom mål og verdier skal gi mening, må de kunne omsettes i praksis, og den enkelte skole må finne sin måte å gjøre det på.
+
+Det foreligger to effektevalueringer av PALS i Norge. Første effektevaluering er presentert i (M. A. Sørlie & Ogden, 2007), og andre effektevaluering er presentert i tre øvrige artikler (M.-A. Sørlie, Idsoe, Ogden, Olseth & Torsheim, 2018; M.-A. Sørlie & Ogden, 2015; M.-A. Sørlie, Ogden & Olseth, 2016). Første effektevaluering ble gjennomført som et kvasieksperimentelt kontrollgruppedesign, mens andre effektevaluering ble gjennomført som et styrket, kvasieksperimentelt design med matchet kontrollgruppe. Modellen er klassifisert i Ungsinn som et tiltak med sterk dokumentasjon av effekt.
+
+*«Steg for Steg»* er et universelt opplæringsprogram som opprinnelig ble introdusert som et voldsforebyggende tiltak, men det har i økende grad blitt omtalt som et program for sosial ferdighetsopplæring. Målsettingen er at elevene skal utvikle økt bevissthet om sine egne følelser, empati, impulskontroll, problemløsningsferdigheter og ferdigheter i sinnekontroll. Programmet legger vekt på både sosiale og kognitive ferdigheter.
+
+Norske forskningsbaserte evalueringer er gjennomført av Holsen, Smith og Frey (2008), som fant en signifikant økning i sosial kompetanse for både gutter og jenter på 5. og 6. trinn, men bare for jenter på 7. trinn. En annen norsk studie viste at elever med lav sosioøkonomisk status rapporterte om en sterkere økning i sosial kompetanse, skoleprestasjoner og tilfredshet med livet sammenlignet med elever fra høyere sosioøkonomiske grupper (Holsen, Iversen & Smith, 2009).
+
+\[Boks slutt\]
+
+### Flerfaglig kompetanse og samarbeid i skolen
+
+Begrunnelsen for bruk av flerfaglig kompetanse i skolen knyttes ofte opp mot behovet for å hjelpe til med og tilrettelegge undervisning, få komme til med tidlig innsats, og frigjøre tid for lærerne, slik at de kan konsentrere seg mer om lærerarbeid og klasseledelse. Det legges også vekt på bedre utnyttelse og samordning av ressurser (NOU 2015: 2, 2015). Lærere mener selv de har for lite kompetanse i psykisk helse til å hjelpe elevene på best mulig måte, og tilstedeværelse av fagprofesjoner med slik kompetanse i skolen er tiltrengt (Borg, Christensen & Pålshaugen, 2015; Holen & Waagene, 2014).
+
+Særlig har det vært en stor økning i antall ansatte helsesykepleiere (tidl. helsesøstre) på helsestasjoner og i skolehelsetjenesten, fra 14 per 10 000 i alderen 0–20 år i 2002 til 37 per 10 000 i 2017 (Statistisk sentralbyrå, 2018b tabell 07459, 03809 og 11994). Likevel er det få skoler som oppfyller den veiledende normen om 300 elever per helsesykepleier i barneskolen, 550 elever per helsesykepleier i ungdomsskolen og 800 elever per helsesykepleier i videregående skole. I 2015 ble normen fulgt av bare 2,5 prosent av barneskolene, 28,8 prosent av ungdomsskolene og 30,8 prosent av de videregående skolene (Waldum-Grevbo & Haugland, 2015).
+
+Det finnes kun elleve mannlige helsesykepleiere i Norge, noe som utgjør 0,3 prosent, og man kan tenke seg at dette kan være en utfordring for at yrkesgruppen også skal gi et godt tilbud til gutter (Bergsagel, 2018). Gutter ser ut til å benytte seg av skolehelsetjenesten i noe mindre grad enn jenter, men likevel benytter de seg av tilbudet i betydelig omfang. Tall fra Ungdata i 2014 viser at 40 prosent av jentene i ungdomsskolen har brukt helsesøster eller skolelege i løpet av siste år mot 29 prosent av guttene (Bakken, 2015). Abrahamsen, Ginja og Riise (2018) har sett på effekten av økningen i antall årsverk med helsesøstre mellom 1999 og 2008. De finner at satsingen som medførte 37 prosent flere helsesøstre i kommunen, førte til at 2 prosent flere fullførte videregående skole, og at effekten var like stor for gutter som for jenter.
+
+Det er også mange andre faggrupper i skolen i dag. Borg, Drange og Jarning (2014) skiller mellom skoleinterne ressurser, som i tillegg til helsesykepleiere og lærere omfatter spesialpedagoger og miljøterapeuter, og skoleeksterne ressurser, som omfatter PP-tjenesten, deler av skolehelsetjenesten og andre ambulerende team. Rollen til personer med sosialfaglige utdanninger (barnevernspedagoger, sosionomer og vernepleiere, såkalte BSV-utdanninger) er ikke beskrevet i lovverket, og disse kan være ansatt som enten miljøarbeidere eller miljøterapeuter (Borg mfl., 2014).
+
+En modell der støtte til elevene skjer i skolen gjennom hyppige møter med flerfaglige grupper, har vist seg å samvariere positivt med rektorers tilfredshet med det flerfaglige samarbeidet i Finland (Vainikainen, Thuneberg, Greiff & Hautamäki, 2015). Norsk forskning har også vist at skoler med flerfaglige team (spesialundervisningsteam) har færre henvisninger til skolepsykologtjenesten, færre henvisninger av barn med atferdsvansker, mer indirekte arbeid av skolepsykologtjenesten, og mer PPT-samarbeid mellom hjem og skole og andre instanser (Anthun & Manger, 2006). Men flerfaglighet kan også medføre noen utfordringer. En svensk antropologisk studie av flerfaglige grupper (sammensatt av lærer, avdelingsleder, spesialpedagog, skolepsykolog, helsesøster og i noen tilfeller sosionomer og logopeder) fant at møtene hadde et rutinemessig preg, og at det var vanskelig å finne eksempler på at medlemmene brukte sin profesjonsekspertise i løpet av 100 timer med lydopptak av møter (Hjörne & Säljö, 2014). Det lå et implisitt premiss i møtene om at årsaken til skolevanskene var å finne hos den enkelte elev. De peker på tre årsaker til dette. Tette bånd mellom gruppemedlemmene gjør at det utvikles en kollegialitet som kan gjøre det vanskelig å komme med avvikende perspektiver. En annen årsak kan ligge i at profesjonene som inngår, er for like, og at en diagnostisk kultur blir for dominerende. En tredje årsak kan være at det er institusjonelle tradisjoner for å individualisere skolevansker.
+
+I 2018 vedtok Stortinget en lovendring som nå pålegger skolen å samarbeide med kommunale tjenestetilbydere om flerfaglig vurdering og oppfølging av elever med særskilte vansker. Likevel kan det hevdes at plikten til tverrfaglig samarbeid for å fremme elevenes lærings- og utviklingsmiljø er klarere og tydeligere formulert i Helse- og omsorgsdepartementets forskrift om helsestasjons- og skolehelsetjenesten enn i opplæringsloven. Skolens plikt til samarbeid er begrenset til elever med særskilte vansker, og omfatter ikke det systemrettede arbeidet som skolehelsetjenesten og andre kommunale tjenester er pålagt å tilby.
+
+To forskningsprosjekter bruker randomiserte, kontrollerte studier til å undersøke hvordan flerfaglig kompetanse og samarbeid på 5. til 7. trinn påvirker det psykososiale miljøet og skoleresultater, gjennom programmet «Et lag rundt eleven». Saltkjel mfl. (2018) tester en modell for lederskap, organisering og gjennomføring av flerfaglig samarbeid (LOG-modellen), mens Federici, Flatø, Helleve, Midthassel og Bru (2017) tester effekten av en ekstra helsesykepleierressurs som jobber systemrettet i et strukturert samarbeid med skolen. Resultatene av prosjektene vil være klare i 2020.
+
+Forskningen så langt tyder altså på svært positive virkninger av å styrke den flerfaglige kompetansen i skolen gjennom utbygging av skolehelsetjenesten, og det virker som satsingen kommer begge kjønn til gode. Med et større mangfold av profesjonsgrupper og tjenester i skolen er et godt flerfaglig samarbeid trolig viktig for å bruke disse ressursene effektivt. Et faremoment er imidlertid at flerfaglige grupper i for stor grad individualiserer skolevansker i stedet for å jobbe systemrettet. En ubalanse i regelverket eksisterer ved at skolehelsetjenesten er forpliktet gjennom sine nasjonale retningslinjer til å tilby skolen å samarbeide om systemrettede tiltak, mens skolen kun er forpliktet til å samarbeide om elevers individuelle vansker. God forankring i skolens ledelse er avgjørende for å få gjennomført tiltak rettet mot hele det psykososiale miljøet. Dette kan være viktigere for gutters skolemestring ettersom gutter forholder seg til et større vennemiljø som ofte har lite voksenkontakt.
+
+## Oppsummering og drøfting
+
+I dette kapittelet har utvalget beskrevet forskningsresultater om hvordan kjønnsforskjellene i skoleprestasjoner utvikler seg videre gjennom skoleløpet, og drøftet hvorvidt årsaker til kjønnsforskjellene identifiseres, forsterkes eller utjevnes i skolen.
+
+Utvalget vurderte først hvorvidt forhold ved hvordan man organiserer barnas hverdag kan bidra til kjønnsforskjeller i skolen.
+
+Forskningen tyder på at det å være eldre ved skolestart fører til bedre skoleprestasjoner og at barna i mindre grad blir ansett som hyperaktive. Relativ alder har like mye å si for gutters og jenters skoleprestasjoner. Det at de eldre elevene gjør det bedre skyldes i hovedsak at elevene er eldre ved prøvetidspunktet. Når dette er tatt hensyn til tyder forskningen på at det å være eldre ved skolestart hverken fører til bedre kognitive evner eller påvirker utdanningsnivå eller inntekt på lengre sikt.
+
+Både økt undervisningstid og mer undervisningstid i kjernefagene synes å ha positive effekter på skoleprestasjoner. Det mangler relevante studier av hvorvidt økt undervisningstid har ulik effekt på gutter og jenter, og forskningen finner ikke konsekvent størst effekt av mer undervisning i kjernefagene for gutter. Det synes også å være positive effekter av å forskyve tidspunktet for når tenåringer starter på skolen om morgenen, og om noe er dette mer positivt for jenter.
+
+Aktiviteter utenom skoletid ser ut til å være en kilde til kjønnsforskjeller i skoleprestasjoner. Jenter bruker mer tid på lekser og leser mer på fritiden, og dette har blitt knyttet til bedre skoleprestasjoner. Tilgang til kabel-TV i barne- og ungdomsårene førte til at færre gutter fullførte videregående opplæring, mens en tilsvarende effekt ikke er funnet for jenter. Skolefritidsordningen har potensial til å kunne utjevne kjønnsforskjeller ettersom ordningen utgjør en så stor del av barnas tid utenfor hjemmet. To studier antyder imidlertid at SFO ikke har hatt tilstrekkelig kvalitet til å erstatte den positive effekten som tid med en forelder har på barnas skoleutvikling, hverken for barn av kontantstøttemottakere eller for barn av alenemødre.
+
+Et annet viktig organisatorisk og pedagogisk valg er hvordan skoler, klasser og undervisningsgrupper skal sammensettes. Ettersom gutter jevnt over i skoleløpet har svakere skoleprestasjoner enn jenter, kan gruppering av elever etter ferdigheter føre til at gutter er overrepresentert i grupper med lavt presterende elever. Dette valget vil dermed kunne ha særlig stor betydning for gutter. Videre viser jenter oftere skoleengasjement uavhengig av skolekontekst, mens sammensetningen av medelever er viktigere for gutter. En metaanalyse viser positive effekter på skoleprestasjoner av nivådeling innad i hver klasse, og i enkeltfag på tvers av klasser innen hvert kull, men ingen effekt av nivådeling i ulike klasser. Det mangler studier på hvordan nivådeling innenfor samme skole påvirker kjønnsforskjeller i skoleprestasjoner.
+
+Flere studier har sett på effekten av å gruppere elever indirekte eller direkte etter ferdigheter på ulike utdanningsløp eller skoler tidlig sammenlignet med senere i skoleløpet. Senere inndeling har vist seg å være positivt for menns kognitive ferdigheter i Finland, men har samtidig ført til større kjønnsforskjeller i valg av utdanningsprogram. I Norge er det flere studier som ser på innføringen av fritt skolevalg som ofte fører til økt gruppering av elever etter ferdighetsnivå mellom program og skoler. Studiene finner positive effekter på elevenes skoleresultater, både for faglig sterke og svake elever. Konkurransepresset som følger av fritt skolevalg har imidlertid vist seg å redusere jenters motivasjon for læring på 10. trinn, uten at gutters motivasjon har økt.
+
+En annen mulighet er å dele inn klasser eller skoler etter kjønn. Kjønnsdelte klasser og skoler kan være positivt for skoleresultater, men dette kan slå meget forskjellig ut i ulike land og skolesystemer. Det mangler gode studier på dette fra skolesystemer som er sammenlignbare med det norske skolesystemet. Dette skyldes antagelig at det er lite interesse for kjønnssegregering som pedagogisk tiltak i Nord-Europa.
+
+Hvordan skolene følger opp svakt presterende elever har særlig betydning for gutter ettersom de er overrepresentert i gruppen med svake ferdigheter mot slutten av grunnskolen. I alle OECD-land utenom Norge og Japan repeterer noen elever skoleår dersom de ikke følger normal progresjon. Forskning fra USA finner at repetisjon av skoleår kan ha positiv effekt dersom det skjer når elevene er yngre, mens det gir negative effekter senere i utdanningsløpet. Det er lite som tyder på at dette i større grad gagner guttene.
+
+Et alternativ til tvungen repetisjon av et skoleår for enkelte elevgrupper, er et frivillig tilbud om ekstra skoleår mellom viktige overganger i utdanningssystemet. I Danmark gir dette elevene en positiv faglig utvikling i sentrale fag, og særlig gjelder dette for guttene. En litteratur med noe relevans for dette temaet, er studier av reformer som har redusert antall skoleår, men beholdt samme læringsmål. Både i Tyskland og i Canada har dette ført til svakere faglige prestasjoner.
+
+Andre måter å gi ekstra oppfølging til elever med svake skoleprestasjoner på, er å gi ekstra oppfølging i form av ekstra undervisning eller spesiell tilrettelegging. Fra og med august 2018 har alle elever på 1.–4. trinn rett til intensiv opplæring dersom de står i fare for å bli hengende etter i lesing, skriving eller regning. Denne undervisningen kan bli gitt i små, tilrettelagte grupper. Intensivundervisning synes å kunne heve prestasjonene til svakt presterende elever tidlig i opplæringsløpet, mens tilleggsundervisning i ferier kan være nyttig for eldre elever. Tett oppfølging og forskningsbaserte undervisningsopplegg kan være avgjørende for at gutter skal dra nytte av tilleggs- og intensivundervisning.
+
+Elever som ikke får tilfredsstillende utbytte av ordinært tilbud i skolen har rett til spesialundervisning. Det er svært lite evidens for at spesialundervisning gir noe økt læringsutbytte til elevene. Noen studier antyder til og med at spesialundervisning kan være negativt for mottakerne, og da særlig dersom spesialundervisningen gis av ufaglærte assistenter. Det er dermed heller ikke grunnlag for å vite om spesialundervisning forsterker eller svekker kjønnsforskjellene i skoleprestasjoner. Fordi gutter er overrepresentert blant mottakerne av spesialundervisning, vil imidlertid positive, så vel som negative, effekter av dette påvirke kjønnsforskjellene.
+
+Skolens faglige innhold er svært sentralt for skoleprestasjoner og kan dermed tenkes å være viktig også for kjønnsforskjeller. Forskningslitteraturen som bruker skolens bidrag til elevenes læring som mål på skolekvalitet, finner til dels betydelige forskjeller i faglige prestasjoner og fullføringsgrad mellom skoler, også etter at man har tatt hensyn til ulikt elevgrunnlag, også i Norge. Noen få studier ser på hvordan dette påvirker kjønnsforskjeller i skolen, og resultatene av disse studiene er ikke entydige. Ettersom det eksisterende kunnskapsgrunnlaget er mangelfullt, er det behov for kvantitative studier på norske skoler for å kunne si noe om sammenhengen mellom skolebidrag og kjønnsforskjeller i skolen.
+
+En annen måte å tilnærme seg skolekvalitet på, er gjennom å studere innsatsfaktorene som inngår i skoletilbudet. Læreren er den mest sentrale innsatsfaktoren i skolen. Forskningslitteraturen fra Norge viser likevel lite som tyder på at økt lærertetthet øker elevenes skoleprestasjoner, hverken i gjennomsnitt eller for ulike undergrupper. I den internasjonale litteraturen har man funnet alt fra null til positive effekter av redusert klassestørrelse, og i flere tilfeller er effekten størst for elever fra en lav sosioøkonomisk bakgrunn.
+
+Det ser ut til at egenskaper ved den individuelle læreren har stor betydning for prestasjoner og læring. Eksisterende forskning tyder på at disse egenskapene i liten grad påvirkes av lærerens utdanning, inntakskrav til utdanningen eller lærerens kjønn. De kan imidlertid henge sammen med lærerens kognitive evner. Rekruttering av motiverte og talentfulle personer til læreryrket ser derfor ut til å være viktig, og lønnsnivå kan være av betydning, spesielt for å rekruttere flinke menn.
+
+Man kan tenke seg at hvorvidt eleven og læreren har samme kjønn, kan være viktig for interaksjonen mellom dem og dermed påvirke skoleprestasjoner. Den internasjonale litteraturen som tar for seg dette temaet på en troverdig måte, finner ikke at det er ufordelaktig for gutter å ha en kvinnelig lærer. Flere studier, både internasjonale og norske, tyder imidlertid på at kjønnsforskjeller i sosiale ferdigheter gjenspeiler i prøver som lærere retter. Det finnes også noe evidens for at vurderingssituasjonen i seg selv er av betydning – gutter gjør det bedre i prøvesituasjoner med mer konkurranse. Det er derimot lite som tyder på at forskjellen mellom lærer- og anonymtrettede prøver skyldes lærernes kjønnsstereotypiske forventninger.
+
+Forskning på kvalitet i undervisningen tyder på at mye kan gjøres for å gi lærere verktøy som gjør dem bedre. Struktur og pedagogisk innhold synes å være viktig for elevprestasjoner. God klasseledelse reduserer problematferd som skaper en gunstig kontekst for virksom undervisning. Det finnes eksempler på at disse faktorene særskilt har løftet gutters skoleprestasjoner. Bruk av teknologi i undervisningen kan gi positive effekter, særlig dersom klasseromsundervisningen som programvaren erstatter ikke er av så høy kvalitet. Enkelte studier har sett på forskjell i effekten av teknologibruk etter ferdighetsnivå og kjønn. Det fleste studier finner ingen klare forskjeller mellom kjønnene, men noen studier viser at økte IKT-ressurser i særlig grad gagner svakt presterende elever.
+
+Norske studier viser at elever som blir utsatt for mobbing, og skoler med mye mobbing, har dårligere skoleprestasjoner. Å bli utsatt for mobbing synes å ha en større negativ sammenheng med gutters skoleprestasjoner og i større grad samvariere med depressive symptomer enn for jenter. Gjennom barneskolen øker barns tilbøyelighet til å tilbringe tid i kjønnsdelte grupper, og det er stor forskjell på hvordan gutter og jenter danner vennskap og forholder seg til hverandre. Dersom gutter og jenter påvirkes av ulike, kjønnsdelte psykososiale miljø, med hvert sitt sett av normer og regler, er det godt tenkelig at miljøforskjellene også bidrar til kjønnsforskjeller i skoleprestasjoner. Det kan også være spesielt vanskelig for skolen å skape effektive tiltak for å bedre gutters psykososiale miljø, ettersom disse miljøene er mer tilbaketrukket fra voksenkontakt og også kan ha indre mekanismer som skjermer gruppen fra voksnes innsyn og inngripen (Maccoby, 2002).
+
+En norsk studie finner svært positive virkninger av å styrke den flerfaglige kompetansen i skolen gjennom utbygging av skolehelsetjenesten, og satsingen synes å komme begge kjønn til gode. Med et større mangfold av profesjonsgrupper og tjenester i skolen, er et godt flerfaglig samarbeid trolig viktig for å bruke disse ressursene effektivt. Et faremoment er imidlertid at flerfaglige grupper i for stor grad individualiserer skolevansker i stedet for å jobbe systemrettet. God forankring i skolens ledelse er avgjørende for å få gjennomført tiltak rettet mot hele det psykososiale miljøet.
+
+### Drøfting
+
+Dette kapittelet har avdekket en rekke forhold i skolen som har avgjørende betydning for skoleprestasjoner. Særlig gjelder dette egenskaper ved den individuelle læreren som ikke lett lar seg identifisere, god struktur og pedagogisk innhold i undervisningen, og et godt psykososialt miljø. Dersom elevene bruker mer tid i god undervisning, enten i form av økt undervisningstid, ekstra skoleår eller intensiv- og tilleggsundervisning, får de også bedre resultater. Det finnes betydelig færre faktorer i skolen som har blitt identifisert som viktige årsaker til kjønnsforskjeller i skoleprestasjoner, ettersom en god skole typisk kommer både gutter og jenter til gode.
+
+Tre områder utpeker seg med betydelig potensial til å redusere kjønnsforskjeller. For det første er det store forskjeller i tidsbruk utenom skoletiden, der jenter gjør mer lekser og leser mer. Et bevisst forhold til og rammer rundt lekser, styrket kompetanse og innhold i skolefritidsordningen, og bedre oppfølging fra foreldre kan dermed være viktige tiltak for å adressere årsakene til kjønnsforskjeller. For det andre er gutter overrepresentert blant svakt presterende elever, og faktorer som påvirker denne gruppen spesielt kan dermed gi betydelige utslag i kjønnsforskjeller i skoleprestasjoner. Svakt presterende elever kan heve sine prestasjoner ved hjelp av god tilrettelagt undervisning, og det å få anledning til å bruke lenger tid gjennom et ekstra skoleår har vist seg å ha gode effekter på gutter. Tiltak som i stor grad segregerer og/eller virker stigmatiserende på elevgruppen viser mindre positive resultater, særlig dersom kvaliteten på tilbudet ikke er god og dersom elever blir låst til en gruppe med svakt presterende medelever. Et tredje område er arbeid med det psykososiale miljøet, som ofte kan bestå av kjønnsdelte subkulturer, og gutter som blir utsatt for mobbing kan være i særlig risiko for svake skoleprestasjoner. Økt helsefaglig kompetanse har vist like positive resultater for begge kjønn, til tross for at gutter benytter seg av tilbudet i mindre grad enn jenter. Det kan tyde på at bruk av flerfaglig kompetanse i skolen har potensial til å utjevne kjønnsforskjeller i skoleprestasjoner dersom fagarbeiderne når frem til guttene.
+
+Del IV
+
+Utvalgets forslag til tiltak
+
+# Innledning – prinsipper for styring
+
+\[:figur:figX-X.jpg\]
+
+ 
+
+I Norge har kommunene en lovpålagt plikt til å tilby barnehage og skole til sine innbyggere. Omtrent 50 prosent av barnehagebarna går i kommunale barnehager, mens nesten 96 prosent av elevene går i kommunale grunnskoler. Kommunene er et selvstendig forvaltningsnivå, og skal forvalte og styre kommunale barnehager og grunnskoler og påse at private barnehager drives i samsvar med regelverket.
+
+Staten må vedta lover eller regler fastsatt med hjemmel i lov for å pålegge kommunene å tilby tjenester, utføre oppgaver eller etterleve krav og standarder.[^52] Kommunene har ansvar for å finansiere oppgaver og tjenester de er pålagt gjennom regelverket. Etter det finansielle ansvarsprinsippet skal det faglige og økonomiske ansvaret for en oppgave ligge på samme forvaltningsnivå.
+
+Hovedprinsippet for statens styring av kommunesektoren er derfor økonomisk og juridisk rammestyring. Hovedprinsippet åpner likevel for detaljert økonomisk og juridisk styring dersom tiltaket er begrunnet i nasjonale mål, slik som rettssikkerhet, likhet og likeverd, og effektiv og samordnet bruk av offentlige ressurser. Detaljert juridisk styring kan for eksempel være krav til politisk og administrativ organisering, krav til oppgaveløsning, kompetansekrav, bemanningsnormer, saksbehandlingsregler og individuelle rettigheter. Detaljert økonomisk styring innebærer å opprette øremerkede tilskudd ved siden av det ordinære inntektssystemet, som kommunene kan disponere uten andre statlige føringer enn regelverket. I barnehage- og skolesektoren er de største øremerkede tilskuddene knyttet til årsverk i sektorene og ulike former for kompetanseutvikling.
+
+Universitetene og høyskolene står for grunnutdanningen og videre- og etterutdanningen av lærere i barnehager og skoler. De statlige universitetene og høyskolene er formelt sett statlige forvaltningsorganer. Staten styrer dem gjennom finansieringssystemet og regelverket for sektoren, samt den løpende etatsstyringen av institusjonene. De private høyskolene er underlagt det samme regelverket og finansieringssystemet som de statlige institusjonene. For barnehagelærer- og grunnskolelærerutdanningene fastsetter staten rammeplaner som beskriver læringsutbytte etter fullført utdanning og gir bestemmelser om blant annet utdanningenes struktur, faglige sammensetning og krav til praksis. Det finnes også mange ansatte i barnehagen, skolefritidsordningen og skolen som har utdanning fra videregående opplæring, slik som barne- og ungdomsarbeidere.
+
+Statlige tiltak for å redusere kjønnsforskjeller i opplæringsløpet eller senere i livsløpet vil derfor være å endre regelverket eller finansieringen av kommunene eller universitetene og høyskolene. Det betyr at statlige tiltak er noe annet enn den konkrete praksisen i barnehager og skoler. Formålet er å påvirke slike praksiser, men statlige tiltak er rammebetingelser som gir rom for tolkninger og lokal variasjon. For eksempel har regelverket om elevvurdering og systemvurdering og tilskuddene til etter- og videreutdanning for lærere store konsekvenser for praksisene i skolen, men det er likevel noe annet enn de lokale praksisene. Utvalget drøfter også tiltak som andre kan iverksette, men prioriterer tiltak som staten kan iverksette.
+
+Samtidig er det mulig å avdekke hvilke effekter statlige tiltak har på elevers læring og utvikling.[^53] For eksempel dokumenterer en norsk studie hvordan et statlig tilskudd på 1,5 milliarder kroner til økt lærertetthet på ungdomstrinnet påvirker den faktiske lærertettheten i skolene, bruk av assistenter, ressursfordeling mellom trinn og skoler, og de effektene tilskuddet hadde for elevenes læring og læringsmiljø (Kirkebøen mfl., 2017). Et annet eksempel er forskning som dokumenterer effekter av ulike ordninger for å organisere elever etter faglig nivå for læring og utvikling. Det finnes mange studier som dokumenterer hvordan slike ordninger påvirker fordelingen av økonomiske ressurser og lærere mellom de ulike gruppene, kjennetegn på undervisningspraksis i gruppene og omfanget av feilplasseringer av elever. Selv om effekten av nivådifferensiering for læring er kontekstspesifikk, er det likevel mulig å avdekke effekten av ulike ordninger slik de faktisk ble implementert i en bestemt kontekst. Sagt på en annen måte: Statlige tiltak har ulik effekt på praksisen i den enkelte barnehage og skole.
+
+## Utvalgets vurderinger
+
+Etter utvalgets vurderinger bør statens styringsprinsipper bygge på et tydelig nasjonalt mål om kunnskapsbasert styring, slik at kunnskap kan tillegges selvstendig vekt og ligge til grunn for den økonomiske og juridiske rammestyringen.
+
+I tråd med § 2-2 i den nye kommuneloven bør staten legge et nødvendighetskrav til grunn for regelverket ved at reguleringer bare bør innføres dersom det er nødvendig for å oppnå formålet med reguleringen.[^54] Etter et slikt prinsipp bør staten som utgangspunkt velge den minst inngripende måten å regulere kommunene på, slik som overordnede plikter og skjønnsmessige regler. Staten bør først vurdere objektive og detaljerte regler og individuelle rettigheter dersom mykere reguleringsformer ikke er tilstrekkelige for å oppnå formålet. På samme måte skal staten begrunne øremerkede tilskudd etter bestemte kriterier, slik som finansiering av tidsavgrensede forsøk, utbygging av tjenester med lav dekningsgrad eller finansiering av tjenester som gis i et avgrenset område eller gjelder kun visse innbyggere.
+
+Utvalget mener det er særlig to grunner som kan gjøre det nødvendig å regulere barnehager og skoler. Den første grunnen er knyttet til de grunnleggende målene, verdiene og rammene for barnehager og skoler, slik som omfanget og innretningen av læring i barnehagen, hvilke undervisningsfag elevene skal ha i skolen, lengden på obligatorisk opplæring og ordninger for medvirkning. Slike bestemmelser uttrykker verdistandpunkter, og kunnskapsbasert styring er mindre relevant.
+
+Den andre grunnen knytter seg etter utvalgets vurdering til faktorer for organisering og oppgaveløsning der forskningsgrunnlaget viser positive eller negative effekter for sentrale mål i rammeplanen for barnehagen og læreplanverket for grunnopplæringen. En rekke studier tyder på at lokalt handlingsrom og autonomi for skoler kan være effektivt fordi det lokale nivået har bedre kunnskap om sine egne betingelser og større muligheter for å utnytte ressursene enn sentrale nivåer. Samtidig bør ikke beslutninger og ansvar desentraliseres på alle områder i skolen fordi felles standarder og utviklingskapasitet er nødvendige for at skolene skal utnytte autonomien til det beste for elevene. Det betyr at et velfungerende skolesystem må balansere desentralisering med ulike virkemidler for ansvarliggjøring (Woessmann, 2016).
+
+Med dette som bakgrunn mener utvalget at staten i større grad bør legge det eksisterende forskningsgrunnlaget til grunn for avgjørelser om hvor balansen mellom desentralisering og ansvarliggjøring bør gå i det enkelte tilfelle, og innføre tiltak på en slik måte at det er mulig å avdekke effektene av tiltaket på en vitenskapelig solid måte. Staten bør bare innføre regler for organisering og oppgaveløsning for hele sektoren dersom forskningsgrunnlaget viser ønskede effekter. Det kan bety at enkelte områder bør reguleres strammere enn i dag gjennom objektive og detaljerte regler eller individuelle rettigheter, men det kan også være situasjoner der regelstyring ikke er nødvendig for å oppnå formålet, eller det er vanskelig å kodifisere området gjennom regler. I slike tilfeller er det bedre å formidle kunnskap om effekten gjennom tiltak for kompetanseutvikling eller frivillige standarder for beste praksis.
+
+Etter utvalgets vurdering kan et slikt prinsipp om kunnskapsbasert styring gjøre det enklere for staten å håndheve regelverket fordi det er større enighet i profesjonsfellesskapet om hvilken praksis som er innenfor eller utenfor bestemmelsen. Det vil også gjøre det mulig å finansiere virkningsfulle tiltak for kompetanseutvikling som kan understøtte bestemmelsene ettersom det finnes et solid kunnskapsgrunnlag som tiltakene kan bygge på.
+
+Etter utvalgets vurdering bygger dagens statlige styring av barnehager og skoler på en ubalansert bruk av det forskningsgrunnlaget som finnes om barnehager og skoler. I noen tilfeller gir forskningsgrunnlaget rimelig sikker støtte til at man oppnår de effektene som reguleringen forutsetter. For eksempel er reglene om elevvurdering omfattende og detaljerte, og bygger på et solid forskningsgrunnlag. I andre tilfeller viser forskningsgrunnlaget tydelige effekter av et tiltak, men staten har valgt å innføre overordnede regler og åpner dermed for svært skjønnsmessig praksis.
+
+For eksempel har regelen som begrenser organisering av elever etter faglig nivå solid støtte i forskningen, men reguleringsformen er så overordnet at det er liten grunn til å forvente at den endrer det som uansett hadde vært skolenes praksis. I lys av effektene av nivådifferensiering mener utvalget det er grunn til å bruke en mer inngripende reguleringsform på dette området. I noen tilfeller har staten unnlatt å regulere faktorer med klare effekter. Alle skoler skal ha en forsvarlig ledelse, og opplæringen skal ledes av rektor. Imidlertid har det ikke vært en rettslig prøving av forholdet mellom profesjonsskjønn og arbeidsgiverens styringsrett (B. Eriksen, 2018; Garbo & Raugland, 2017). Samtidig viser forskning at objektive kjennetegn ved lærere som utdanningsnivå, erfaring og kjønn i liten grad forklarer hvorfor noen lærere oppnår langt mer læring for sine elever enn andre lærere, men at forskjellene er knyttet til undervisningspraksis. Det er dermed lite effektivt for kommuner og skoleledere å bruke objektive kjennetegn på lærere som grunnlag for styring og ledelse av skolen, mens det derimot er svært effektivt å påvirke og utvikle alle læreres undervisningspraksis (Hanushek, 2011).
+
+I andre tilfeller igjen viser forskningsgrunnlaget at reguleringen sannsynligvis ikke har de effektene regelverket forutsetter. I grunnskolen finnes det regler om maksimalt antall elever per lærer, og det er bevilget betydelige midler for å sette kommunene i stand til å oppfylle regelverket. Samtidig viser forskningen at økt lærertetthet i Norge ikke forbedrer elevenes læring hverken i gjennomsnitt eller for ulike elevgrupper, og trolig heller ikke påvirker elevenes læringsmiljø i vesentlig grad. Det finnes også tilfeller i regelverket av bestemmelser som skal påvirke praksis i skolen, men som er overordnede og skjønnsmessige. For eksempel har meningsinnholdet i opplæringsloven § 1-3 om tilpasset opplæring endret seg vesentlig over tid som følge av politiske prosesser. Bestemmelsen bygger i liten grad på et kunnskapsgrunnlag. Skolene opplever begrepet *tilpasset opplæring* som uklart, og det er derfor vanskelig å vite hvordan det bør operasjonaliseres i praksis (Jenssen & Lillejord, 2009).
+
+Fra et styringsperspektiv mener utvalget det er bedre å regulere utvalgte områder stramt der det er solid forskning på positive eller negative effekter, enn å regulere mange områder løst når forskningsgrunnlaget er usikkert, slik det i stor grad er i dagens skolesektor. Samtidig er det ikke en oppgave for dette utvalget alene å konkretisere prinsippet om kunnskapsbasert styring for hele regelverket for barnehagen og skolen. Den relevante forskningen har et betydelig omfang og stor kompleksitet, og det er heller ikke forsvarlig å oppheve alle tiltak som bygger på et usikkert kunnskapsgrunnlag. Det er vanskelig å vite hvilket tilbud barn og elever da ville fått. Utvalget mener derfor at staten bør legge kunnskapsbasert styring til grunn som prinsipp for barnehage- og skolesektoren, for deretter å satse målrettet på å styrke forskningen spesielt på effekten av tiltak og utvikle regelverket og økonomiske prioriteringer over tid i tråd med utviklingen av forskningsgrunnlaget.
+
+Utvalgets forslag til tiltak tar sikte på å konkretisere prinsippet om kunnskapsbasert styring på noen sentrale områder for barnehagen og grunnopplæringen, samt enkelte områder av høyere utdanning. I tråd med utredningsinstruksen for staten har utvalget lagt vekt på å utrede flere alternative tiltak for å oppnå samme formål. Utvalget drøfter derfor flere tiltak som i prinsippet kan bidra til det samme formålet, og anbefaler det tiltaket som samlet har den største samfunnsnytten.
+
+I alle tilfeller bør kunnskapsgrunnlaget gi en viss grunn til å forvente at tiltaket har en effekt. Samfunnets ressurser i form av kapasitet, kompetanse og tid er knappe, og ressurser som blir brukt på ett tiltak, kunne vært brukt på andre tiltak med større sannsynlighet for å ha positive effekter. Det betyr at et tiltak med usikker effekt bør prøves ut systematisk før man avgjør om det skal innføres generelt. Utvalget mener at tiltak med antatt store konsekvenser ved at det påvirker mange personer, er inngripende, kan ha negative effekter, har store budsjettkonsekvenser eller reiser prinsipielle og etiske spørsmål, bør prøves ut systematisk som hovedregel. Særlig bør bevisbyrden være større i de tilfellene der forskningen gir grunn til å forvente at tiltaket har risiko for alvorlige negative effekter.
+
+Samtidig mener utvalget at avveiningen av nytte og risiko for negative effekter ved et tiltak bør gjøres på grunnlag av sammenligninger med de eventuelle negative effektene av dagens ordninger, ikke mot en ideell eller hypotetisk situasjon. Denne avveiningen må også ta hensyn til sannsynligheten for at nye studier vil kunne gi vesentlig bedre kunnskap om effekten av tiltaket. Det kan være metodiske, etiske, økonomiske og andre grunner til at det er lite realistisk eller forsvarlig å prøve ut tiltaket. I alle tilfeller må eventuelle tiltak beskrive hvordan slike forhold skal håndteres på en forsvarlig måte. Utvalget vil likevel understreke at det normalt vil være usikkerhet om de positive og negative effektene av et tiltak når det skal settes i verk i en ny sammenheng.
+
+Etter utvalgets vurdering bør terskelen for å prøve ut et tiltak systematisk derfor være lav til moderat, mens terskelen for å dokumentere effekter av tiltak som innføres generelt ved hjelp av observasjonelle data – i praksis registerdata – bør være lav. Det betyr at i tilfeller hvor usikkerheten om effekten av et tiltak er lav, bør staten kunne innføre eller oppheve tiltaket, men samtidig dokumentere effekten av denne beslutningen gjennom forskning.

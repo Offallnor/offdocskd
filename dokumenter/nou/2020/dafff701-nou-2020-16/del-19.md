@@ -1,906 +1,260 @@
-# NOU 2020: 16, del 19 av 27 (side 218–227)
+# NOU 2020: 16, del 19 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/dafff701-nou-2020-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-16/id2798280/
 - Original-PDF: https://www.regjeringen.no/contentassets/ccc978f8e2184980b4597ba59796e7e3/no/pdfs/nou202020200016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 13 tabeller, 25 figurer, 243 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 218]
-
-216
-
-NOU 2020: 16
-
-Kapittel 14
-
-Levekår i byer
-
-muligheter til å endre boligtilbudet hvis behovet
-endrer seg. Enkelte er også bekymret for at de
-mest velfungerende leietakerne får tilbud om bolig
-med tilvisningsavtale, og at det kan gjøre at bomiljøet i de kommunalt eide eller disponerte boligene
-blir enda mer utfordrende (Brattbakk mfl. 2016).
-
-14.5 Utvalgets vurderinger
-14.5.1 Byutviklingen må bidra til å fordele
-goder og byrder
-Utvalget mener at segregeringen ikke bør motvirkes kun gjennom tiltak i de utsatte områdene.
-Byutviklingen må bidra til å fordele goder og byrder mellom alle områder i kommunene. Goder
-kan blant annet være kultur- og fritidstilbud, grøntområder, tunneler og gode transportforbindelser,
-og byrder kan være blant annet arealkrevende og
-forurensende infrastruktur og lager- og industrivirksomhet. Utvalget antar samtidig at det er lite
-realistisk å få helt bukt med trangboddhet og dårlige boforhold i levekårsutsatte områder. Derfor
-er gode offentlige utearealer og møteplasser
-ekstra viktige i de utsatte områdene og må etter
-utvalgets syn prioriteres særskilt høyt. Gode
-offentlige uteområder er ikke minst betydningsfullt å ha for barn og ungdom. Hvis barn og unge
-bor i små boliger uten egne utearealer, kan offentlige uteområder spille en større rolle enn det gjør
-for dem som bor i boliger med egne hager. Gode
-uteområder kan også redusere hærverk ved at
-områdene er mer i bruk.
-Kommunene kan gjennom både planlegging,
-investeringer i infrastruktur og lokalisering av
-egne tjenester forsøke å bedre nærmiljøkvaliteten
-i utsatte områder og gjøre forskjellen i attraktivitet
-mellom områder mindre. Kommunene kan øke
-attraktiviteten i utsatte områder ved å investere i
-infrastruktur som grøntområder, lekeplasser,
-støyskjerming, kollektivtransport og gang- og sykkelveier. Å ruste opp offentlige uteområder kan
-stimulere private til å oppgradere, for eksempel
-butikksentre og boliger. Videre kan fortetting gi
-gode kvaliteter i nabolagene til utsatte boområder
-gjennom butikker, kafeer, møteplasser og annet.
-En del av dem som sliter med levekårsutfordringer, har heller ikke tilgang til bil, og de vil ha fordel av å bo nær et godt kollektivtilbud. Fortetting
-kan også føre til en større variasjon i boligtyper og
-befolkning.
-Mange kommuner jobber aktivt med å sikre
-god kvalitet på nærmiljøanlegg og gjennomfører
-en rekke tiltak for å utjevne forskjeller i nabolagskvaliteter. Forskjellene mellom boområdene er
-
-likevel betydelige mange steder. Det er også forskjeller i hvor systematisk kommunene jobber
-med geografisk ulikhet i helse og levekår. Det kan
-være flere grunner til dette. Det er dyrt for kommunene å investere i infrastruktur og tomter, og
-det er ikke sikkert at tiltakene når de målgruppene de ønsker å nå, eller gir den ønskede befolkningsutviklingen. Hvis mange områder blir rustet
-opp og bolig- og leieprisene øker, kan det ha uønskede effekter for beboere med lave inntekter.
-Leietakere kan se seg nødt til å flytte til rimeligere
-områder, og det kan bli vanskeligere å kjøpe bolig
-når familiene trenger større plass eller unge skal
-etablere seg på egen hånd. Blir alle områder dyre
-og attraktive, kan det bety at lavinntektsgrupper i
-større grad må flytte ut av byen. På denne måten
-kan ulikheten innad i byene bli mindre, mens forskjellene mellom byen og omegnskommuner kan
-bli større.
-Boligbygging kan dempe segregering, men
-sammenhengene er heller ikke helt enkle. Hvis
-det bygges færre boliger enn det etterspørres,
-kan det gå utover dem med de laveste inntektene:
-De får færre valgmuligheter på boligmarkedet, og
-flere må flytte ut av byene. På den annen side kan
-også høy boligbygging forsterke segregeringen.
-Selv om fortetting kan styrke nærmiljøkvalitetene,
-mener utvalget at fortetting i byene også reiser
-noen dilemmaer. Å bruke arealer til boliger fører
-til tap av grøntområder. Skal det bygges mye og
-raskt, kan det gå utover kvaliteten. Områder som
-har vært bygd i perioder med høy utbyggingstakt,
-kan over tid bli lite attraktive. For tett bebyggelse
-med dårlige boligkvaliteter kan bli resultatet, og
-det er da fare for at nye områder over tid blir levekårsutsatte.
-Det er også en fare for at fortetting forsterker
-den eksisterende segregeringen hvis ikke kommunen aktivt motvirker dette. Det kan være negativt for utsatte områder hvis det i nærområdene
-bygges boliger med lav kvalitet og liten variasjon i
-størrelse. Mulighetene til å få til utbyggingsprosjekter med god kvalitet kan hindres av at grunneiere og utbyggere ikke ser seg tjent med å realisere planene. For kommunene kan det være et
-dilemma hvis de må velge mellom utbygging med
-lav kvalitet, ingen utbygging eller selv ta en stor
-del av kostnadene til infrastruktur og fellesarealer.
-I dyrere områder vil høyere kjøpekraft, og kanskje
-mer kraftfulle naboprotester, kunne gi bedre kvaliteter på byggeprosjektene og i større grad verne
-friområdene. Det vil i så fall forsterke forskjellene
-mellom ulike boligområder. Det er med andre ord
-behov for både tilstrekkelig boligbygging og at
-alle boligområder bygges med god kvalitet.
-
-[Side 219]
-
-NOU 2020: 16
-Levekår i byer
-
-Utvalget tror det i mange tilfeller er rom for å få
-til gode utbyggingsprosjekter i utsatte områder
-gjennom at kommune og utbygger samarbeider.
-Det er viktig at kommunene forstår utbyggernes
-situasjon, og at tomtemarkedene fungerer godt.
-Ved høye tomtekostnader er det vanskeligere for
-kommunene å stille kostnadskrevende betingelser
-til byggeprosjektene. Utvalget mener at det kan
-være verdt å se nærmere på markedet for tomtesalg og boligutvikling i utsatte byområder for å øke
-kunnskapen om hvordan prissettingen i markedet
-fungerer, og hva som eventuelt hindrer realiseringen av gode byggeprosjekter. Utvalget mener også
-at staten bør vurdere å gi kommunene sterkere
-verktøy for å kunne få i gang utbygging i prioriterte
-områder. Ett eksempel kan være å gi kommunene
-mulighet til å legge inn planbestemmelser om kommunal forkjøpsrett til tomter i nærmere definerte
-utviklingsområder. Det kan gi kommunen større
-mulighet til å påvirke kvaliteten på utbyggingen og
-eventuelt også bidra til at byggeprosjektene kommer i gang. Samtidig er kommunal forkjøpsrett et
-inngripende virkemiddel. Det kan redusere grunneiers fortjeneste og også føre til at grunneiere ikke
-ønsker å selge tomtene.
-Utvalget mener dessuten at det kan være verdt
-å se nærmere på hvordan utbyggingsavtaler påvirker hvilke tomter som bygges ut, og til hvilken
-kvalitet. Utbyggere kan være særskilt villige til å
-bidra til kommunale infrastrukturinvesteringer på
-tomter med antatt god avkastning. Det kan forsterke kvalitetsforskjeller mellom områder ved at
-kvaliteten på blant annet parker og møteplasser
-blir ulik i ulike byggeprosjekter. Det er uheldig
-hvis finansieringsbidrag fra utbyggere forsterker
-skjevheter i byutviklingen, og det kan stilles
-spørsmål ved om kommunen bør ha større frihet i
-å benytte finansieringsbidragene der de mener
-det er størst behov.
-Veier og jernbanelinjer kan isolere områder og
-føre til støy og annen forurensning. Samtidig kan
-mangel på veier, og ikke minst dårlig kollektivdekning, gjøre områder isolert. Utvalget mener at for
-en del levekårsutsatte områder kan investeringer i
-transportsystemet være avgjørende for å snu en
-negativ utvikling. Investeringer i transport er
-kostbart, og en rekke ulike hensyn skal avveies
-når beslutninger skal tas. Utvalget mener at det
-likevel er et spørsmål om hensynet til utsatte
-boområder får tilstrekkelig vekt i slike beslutninger. Det kan for eksempel spørres om ikke sosiale
-hensyn, som behovet for levekårsutjevning og en
-sosialt balansert byutvikling, bør framkomme
-tydeligere av målene for den nasjonale transportpolitikken.
-
-217
-
-Kapittel 14
-
-Utvalget mener at det må jobbes mer aktivt for
-å sikre medvirkning i planprosesser i utsatte
-områder. Plan- og bygningsloven krever at det legges spesielt til rette for medvirkning for særskilte
-grupper. For å involvere flere i slike prosesser kan
-det være nyttig å bruke ulike metoder som senker
-terskelen for å delta. Å legge til rette for gode
-medvirkningsprosesser kan bidra til å øke innbyggernes samfunnsengasjement og tilliten til storsamfunnet. Utvalget viser blant annet til at evalueringen av plan- og bygningsloven framhevet bedre
-samarbeid med skolene om medvirkning i planleggingen som en mulig demokratiseringsarena
-for barn og unge.
-
-14.5.2 Færre boligsosiale problemer vil styrke
-de utsatte områdene
-Mange sliter med å skaffe seg en god bolig i de
-store byområdene, selv om kommunene har en
-aktiv boligsosial politikk. Det svekker nabolagene
-og gir utfordringer i de utsatte områdene. Utvalget
-mener at det er behov for en bedre innsats for å
-redusere boligsosiale problemer i utsatte områder.
-Norge har en lav andel utleieboliger, og en del
-utleiere tilbyr dårlige og dyre leieboliger til personer med få andre muligheter. Utvalget mener at
-det ikke er et mål i seg selv å øke andelen private
-utleieboliger på bekostning av at folk kan eie
-bolig. Eierlinja i den norske boligpolitikken har
-mange fordeler og har sannsynligvis virket dempende på segregeringen, om man sammenlikner
-med flere andre land. Samtidig kan også segregeringen øke når mange eier bolig og forskjellene i
-boligmarkedet øker. Utvalget mener at det er viktig å legge til rette for at eide og leide boliger er
-blandet i boligområdene, legge bedre til rette for
-at de som leier, kan skaffe seg en god bolig, og at
-leie kan være et reelt alternativ til eie. Boligeiere
-nyter godt av store skattefordeler som leietakere
-ikke får. Det gir en uheldig fordelingseffekt for
-mange av dem som sliter mest på boligmarkedet.
-Det er også uheldig hvis rammebetingelsene i
-Norge ikke legger til rette for langsiktige investeringer i utleieboliger som næringsvirksomhet.
-Utvalget mener at det kan være behov for
-bedre rammevilkår for utleiere som ønsker å drive
-boligutleie som seriøs og langsiktig næringsvirksomhet. Det er blant annet behov for flere stabile
-utleiefirmaer som kommunene kan inngå avtaler
-med. Hvis de økonomiske vilkårene for å drive
-langsiktig og seriøs boligutleie er bedre, kan det
-også være enklere å sikre leietakerne gode rettigheter og et godt vern mot dårlige boforhold. Ver-
-
-[Side 220]
-
-218
-
-Kapittel 14
-
-NOU 2020: 16
-Levekår i byer
-
-dien på næringsbygg kan avskrives årlig, men
-disse reglene gjelder ikke for boligutleie som
-næringsvirksomhet. En årsak til det er at det ikke
-er påvist betydelige verdifall på boliger hvis
-boligene vedlikeholdes tilstrekkelig. Utvalget
-mener at staten bør vurdere å åpne for at verdien
-på utleieboliger kan avskrives tilsvarende som for
-næringseiendommer. Det kan være grunn til å
-anta at slitasjen på mange utleieboliger er relativt
-stor, blant annet fordi mange bor trangt og det er
-mye inn- og utflytting. Det kan i alle fall være
-behov for å analysere verdifallet på utleieboliger
-nærmere. Hvis utleieboliger kan avskrives, vil det
-kunne bedre de økonomiske insentivene for å
-drive boligutleie som næringsvirksomhet.
-Utvalget vil samtidig presisere at mange av dem
-som bor dårlig og dyrt på leiemarkedet, kunne fått
-en bedre bosituasjon hvis de kunne kjøpe en bolig.
-Særlig for familier som sliter med å finne en god
-privat leiebolig, er det viktig at kommunen vurderer alternative løsninger. Det kan være ved at kommunene kjøper boliger i ordinære bomiljøer og inngår en leie-til-eie-avtale med beboeren. Startlån,
-eventuelt kombinert med etableringstilskudd, kan
-også hjelpe familier med lave, men stabile inntekter
-med å kjøpe seg en bolig. Det er viktig at kommunene jobber godt med familiene og bruker de
-mulighetene de har gjennom lånevilkår og tilskudd, sammen med tett oppfølging, til å hjelpe
-folk med å kjøpe bolig. Det er også mulig at Norge
-har noe å lære av finansieringsmodeller i andre
-land, som kombinerer lånevilkår og subsidier på
-andre måter enn de norske ordningene. Utvalget vil
-for eksempel vise til en nederlandsk støtteordning
-hvor låntakerens mulighet til å betale renter og
-avdrag sjekkes hvert tredje år.
-Noen ønsker ikke å ta opp boliglån av religiøse
-grunner. Dette er sannsynligvis ikke et utbredt
-fenomen, men i noen tilfeller kan det være en utfordring som bidrar til at en del familier blir boende i
-dårlige og ustabile leieforhold. Utvalget mener at
-offentlige myndigheter bør se på muligheter for å
-stimulere bedre til å utvikle alternative finansieringstilbud for dem som ikke vil ta boliglån.
-
-14.5.3 Boligpolitiske virkemidler bør bidra til
-en variert befolkningssammensetning
-Ulike boligstørrelser og boligkvaliteter innad i
-boligområdene kan gi prisforskjeller og valgmuligheter og gjøre at folk med ulik økonomi og
-behov kan bo i de samme områdene. Ulike boligstørrelser kan også gjøre det lettere for beboere å
-bli boende i området når familiestørrelsen endres.
-Kommunene kan til en viss grad planlegge for
-
-slike forskjeller i dag, men utvalget mener at kommunene bør få et større handlingsrom og slik
-kunne planlegge bedre for at ulike grupper kan
-bosette seg i de samme områdene. Samtidig kan
-for mange krav og kompliserte prosesser i arealplanleggingen redusere utbyggernes lønnsomhet
-og takten i boligbyggingen. Det er viktig at kommunene benytter virkemidlene de har til rådighet,
-på en balansert måte.
-Utvalget mener det er uheldig hvis mange av
-de kommunale boligene er samlet i levekårsutsatte områder. Kommunale boliger bør være
-spredt i ulike nabolag fordi dette kan bidra til en
-mer sosioøkonomisk blandet befolkning i kommunene. Det kan være ønskelig for kommunale
-beboere å bo i ulike nabolag, og ulike hensyn vil
-ha ulik vekt for de forskjellige beboerne. For
-eksempel kan trygge omgivelser, andre barn,
-gode lekeområder og høy bostabilitet i nabolaget
-være noen av hensynene som er viktige for barnefamilier. Det kan også være en fordel å bo i et
-område hvor familiene på sikt kan skaffe seg en
-god bolig på egen hånd.
-Hvis mange kommunale boliger er samlet på
-ett sted, og disse samtidig har mange beboere
-med levekårsutfordringer, kan det bidra til å øke
-utryggheten og konfliktnivået i nabolag. Dette
-kan forsterke utfordringene som allerede finnes i
-områdene. Kommunene bør i slike tilfeller vurdere om de kan selge noen av boligene og kjøpe
-boliger i andre områder. Kommunale boliger kan
-være både utdaterte og nedslitte, og i en del tilfeller kan det være hensiktsmessig å ta bygningsmessige grep for å endre bystrukturen eller
-befolkningssammensetningen. Kommunene bør i
-så fall vurdere å gjøre større endringer i bygningsmassen, som å bygge om og slå sammen leiligheter eller å rive og bygge nytt. I tillegg til slike
-større grep bør kommunene også vurdere andre
-tiltak for å få gode bomiljøer i kommunale boliger.
-En gjennomtenkt tildelingspraksis med hensyn til
-hvem som blir tilbudt hvilke boliger, og oppfølgingstjenester og tilrettelagte botilbud for beboere med særskilte behov (for eksempel forsterkede, skjermede boliger og/eller boliger med
-bemanning) kan bety mye for bomiljøet i utsatte
-blokker og boområder. Videre er det viktig at
-kommunene jobber godt med vedlikehold og
-bomiljøtiltak i de kommunale boligene.
-Selv om mange kommuner er bevisste på behovet for å spre de kommunale boligene, kan det likevel være vanskelig å få til. I bykommuner med
-store interne forskjeller i boligprisene blir dilemmaene store. Hvis kommunen kjøper eller leier
-boliger i dyre områder, kan den skaffe færre kom-
-
-[Side 221]
-
-NOU 2020: 16
-Levekår i byer
-
-munale boliger enn hvis boligene ligger i rimeligere områder. Det er uheldig om kommuner som
-mangler kommunale boliger, må redusere antallet
-boliger for å få til en mer spredt boligmasse. Kommunene bør i så fall vurdere om de kan kjøpe boliger i andre områder uten at de må finansieres ved å
-selge eksisterende kommunale boliger som de har
-bruk for, og hvor bomiljøet er godt eller kan bedres
-gjennom andre tiltak enn salg.
-Utvalget mener det er positivt hvis Husbankens
-låne- og tilskuddsordninger kan benyttes til å øke
-miksen av boligtyper i nybyggingsprosjekter. Hvis
-studentboliger, omsorgsboliger og kommunale
-utleieboliger kan inngå i ordinære utbyggingsprosjekter sammen med andre boliger og næringslokaler, kan det være med på å gi en variert bolig- og
-beboersammensetning. Tilvisningsavtaler kan
-også bidra til å få flere utleieboliger for økonomisk
-vanskeligstilte inn i ordinære bomiljøer og kan derfor være et virkemiddel for en mer variert beboersammensetning. Samtidig mener utvalget at det
-kan være en fare for at store utleieprosjekter, med
-40 prosent boliger med tilvisningsavtaler, også kan
-gi bomiljøutfordringer. Utvalget mener det er viktig
-å prioritere god kvalitet på slike prosjekter og at
-også boliger med tilvisningsavtaler bør plasseres
-og utformes slik at de bidrar til å redusere opphoping av levekårsutfordringer.
-Det er dessuten en fordel om boligkjøpere
-med lave inntekter kan bosette seg i ulike områder. Det er først og fremst boligtilbudet som kan
-bidra til dette, men kommunene kan også benytte
-tilskudd eller lånevilkår som gjør det mulig å
-kjøpe bolig til høyere pris.
-Hvis mange i et område har lave inntekter
-eller boligprisutviklingen er svak, kan det føre til
-at boligeiere i liten grad vedlikeholder og oppgraderer boligene sine. Utvalget mener at dette ikke
-er en stor utfordring i Norge. Det er likevel viktig
-å være oppmerksom på at en slik underinvestering kan forekomme. Hvis boligene ikke vedlikeholdes eller oppgraderes, kan det påvirke områdene negativt. Slik kan boligprisene bli enda
-lavere og færre ønsker å bo der. Utvalget mener
-derfor at offentlige myndigheter bør holde øye
-med slike utviklingstrekk, og at staten kan vurdere om lån fra Husbanken skal kunne benyttes til
-ordinært vedlikehold eller oppussing av boliger i
-områder med vedlikeholdsetterslep på boligene.
-I enkelte levekårsutsatte områder har det
-vært en relativt sterk tendens til å dele opp boenheter i boligsameier og småhus og leie disse ut
-som hybler. En slik utvikling kan svekke stabiliteten i utsatte områder og føre til at barnefamilier og andre som ønsker et stabilt bomiljø, flyt-
-
-219
-
-Kapittel 14
-
-ter vekk. Det er uheldig, og det er viktig at kommunene har virkemidler for å hindre en slik
-utvikling. Det er nylig foreslått innstramminger i
-lovverket som skal styrke kommunenes styringsmuligheter. Utvalget mener det er viktig å følge
-med på utviklingen og eventuelt vurdere ytterligere tiltak.
-
-14.6 Utvalgets forslag til tiltak
-14.6.1 Føringer for en sosialt balansert
-byutvikling
-Utvalget anbefaler at staten gir tydeligere føringer
-til kommunene om å ta hensyn til en sosialt balansert byutvikling i arealplanleggingen sin, gjennom
-blant annet å planlegge for en god fordeling av
-goder og byrder. Føringene kan forankres i «Statlige planretningslinjer for samordnet bolig-, arealog transportplanlegging». Det vil gi kommunene
-et sterkere verktøy i dialogen med private aktører
-som utbyggere, grunneiere og naboer og med
-offentlige myndigheter som skal ta beslutninger
-om lokalisering av arbeidsplasser, infrastruktur
-mv. Det kan for eksempel være vanskelig for kommunene å få utbyggere til å bygge med kvalitet i
-utsatte områder, og det kan være vanskelig å få
-gjennomslag for å bygge tett i eneboligområder.
-«Retningsliner for lokalisering av statlege
-arbeidsplassar og tenesteproduksjon» har en spesifikk henvisning til at virksomheter skal plasseres i Groruddalen eller tilsvarende områder hvis
-de skal lokaliseres i Oslo. Det er ikke gitt at det er
-ønskelig at de aktuelle virksomhetene flyttes til
-disse områdene. Det kan også være ønskelig for
-lokale myndigheter å forsøke å få statlige virksomheter til å flytte ut av utsatte områder. Formuleringen i retningslinjene gjelder kun for Oslo, mens
-tilsvarende problemstillinger også kan være aktuelle for andre kommuner. Utvalget anbefaler at retningslinjene justeres slik at de på mer generelt
-grunnlag viser til at statlige myndigheter må
-inkludere hensyn til lokale mål for levekårsutsatte
-områder når de beslutter hvor statlige arbeidsplasser skal lokaliseres.
-Dokumentet «Nasjonale forventninger til kommunal og regional planlegging» peker på behovet
-for forsterkede tjenester og nærmiljøtiltak i de
-utsatte områdene. Utvalget foreslår at staten i
-neste revisjon av dette dokumentet vurderer å
-framheve behovet for en sosialt balansert byutvikling gjennom å fordele goder og byrder.
-Utvalget mener også at staten bør bidra med
-bedre veiledning og flere konkrete råd og eksempler på hvordan kommunene kan utjevne levekårs-
-
-[Side 222]
-
-220
-
-Kapittel 14
-
-NOU 2020: 16
-Levekår i byer
-
-forskjeller gjennom byutvikling. For eksempel kan
-man få evaluert ulike kommuners strategier, slik at
-andre kommuner kan lære av dette.
-
-14.6.2 Mulighet til å stille krav om boligens
-disposisjonsform i arealplaner
-I Norge kan kommunene bare påvirke den fysiske
-utformingen av boliger gjennom planbestemmelser og utbyggingsavtaler. I en rekke andre land
-har kommunene større mulighet til å styre om
-boligene for eksempel skal være sosiale utleieboliger.
-Utvalget foreslår at plan- og bygningsloven
-endres slik at kommunene gis større anledning til å
-fastsette planbestemmelser om disposisjonsform.
-Det finnes flere kategorier av bestemmelser som
-kan være aktuelle. For levekårsutsatte områder vil
-det særlig kunne ha en betydning om kommunene
-får mulighet til å styre om nye boliger skal organiseres som borettslag eller boligsameier. Det vil
-kunne påvirke boligenes disposisjonsform, siden
-det er mindre muligheter for å leie ut borettslagsboliger enn selveierboliger. I en del levekårsutsatte
-områder har en høy andel boligsameier ført til at
-det er mange utleieboliger. Utvalget mener at flere
-borettslagsboliger i slike områder kan ha en positiv
-effekt på nabolaget. Det kan redusere flyttehyppigheten, noe som igjen vil bidra positivt til å bygge
-relasjoner i nærmiljøet for barn og unge generelt
-og virke positivt for skole- og læringsmiljøet ved
-skolene i området. Det kan også gjøre det enklere å
-få til fellesprosjekter som opprusting av områdene
-og sosiale arrangementer. Videre kan det gjøre det
-lettere for familier å få kjøpt en bolig i området hvor
-de leier.
-Bestemmelser som påvirker boligenes disposisjonsform mer direkte, kan være å angi at en
-andel av boligene skal være utleieboliger. Kommunen kan for eksempel regulere til utleieboliger
-i områder med høye boligpriser og hvor mange
-eier egen bolig. Det kan bety at personer med for
-lave inntekter til å kjøpe bolig kan ha større muligheter til å bosette seg i ulike områder. Utvalget
-mener også det bør vurderes om kommunene
-skal kunne angi at en andel boliger skal være
-kommunale boliger eller boliger med kommunal
-tilvisningsrett. Det vil kunne gi kommunene
-større mulighet til å spre de kommunale boligene.
-Det er videre mulig å se for seg bestemmelser
-om boliger for særskilte grupper, slik som boliger
-for unge i etableringsfasen, studenter eller eldre.
-Dessuten kan det være aktuelt med bestemmelser
-for eventuelle nye organisasjonsformer for bolig,
-slik som boliger omtalt som «ikke-kommersielle
-
-utleieboliger» eller «tredje boligsektor». Utvalget
-tar ikke stilling til konkrete modeller eller om det
-bør utvikles nye, offentlig regulerte boligmodeller, men vil framheve at også slike boliger må bygges med kvalitet og bør spres i ordinære bomiljøer dersom de blir etablert.
-
-14.6.3 Redusere kostnadene ved å kjøpe
-kommunale boliger i områder med
-høye boligpriser
-Kommunene har flere virkemidler som kan benyttes til å skaffe kommunale boliger. De kan motta
-tilskudd fra Husbanken. De kan også benytte forkjøpsretten sin til boliger gjennom utbyggingsavtaler. Lovverket sikrer i tillegg kommunene rett til
-å kjøpe seg inn i borettslag og sameier (10-prosentsregelen). For kommuner med høye boligpriser kan det likevel være krevende å kjøpe kommunale boliger. Er boligprisforskjellene store, reiser
-det vanskelige dilemmaer for kommunene hvis de
-skal kjøpe eller leie bolig i områder med høye
-boligpriser. Utvalget mener at 10-prosentsregelen
-er et nyttig verktøy for å kunne spre de kommunale boligene, og kommunene bør benytte denne
-muligheten til å kjøpe seg inn i ordinære boligbygg. Regelen løser imidlertid ikke utfordringen
-med at det er kostnadskrevende for kommunene å
-kjøpe boliger i områder med høye boligpriser.
-Utvalget mener at staten bør vurdere å gi kommunene anledning til å inngå utbyggingsavtale om
-kjøp eller leie av kommunale boliger under markedspris. Det kan være en generell regel som
-åpner for å kjøpe eller leie kommunale boliger
-rimeligere. Alternativt foreslår utvalget at staten
-utreder mulighetene for en avgrenset regel, for
-eksempel at kommunene gis anledning til å inngå
-utbyggingsavtale om å kjøpe eller leie kommunale
-boliger under markedspris i boligområder med
-særskilt høye boligpriser. Lavere pris på de kommunale boligene vil kunne gi kommunene bedre
-muligheter til å kjøpe boliger i områder med høye
-priser og boliger integrert i nye, ordinære boligprosjekter. Det kan redusere andelen kommunale
-boliger i utsatte områder. Samtidig vil det kunne
-svekke utbyggernes lønnsomhet og virke dempende på boligbyggingen.
-Husbankens tilskudd til kommunale utleieboliger gir heller ikke insentiver til kommunene for å
-kjøpe boliger i områder med høye boligpriser.
-Utvalget mener at det er usikkert om tilskuddsordningen påvirker kommunenes strategier, men
-mener det kan være hensiktsmessig å vurdere å
-tilpasse tilskuddet for å legge bedre til rette for at
-kommunale boliger kan spres.
-
-[Side 223]
-
-NOU 2020: 16
-Levekår i byer
-
-14.6.4 Bedre muligheter for boligeie for
-lavinntektsfamilier i ulike deler av byen
-Ved å kjøpe kommunale boliger i ulike boligområder kan kommunene hjelpe lavinntektsfamilier
-til å kjøpe seg inn i ulike områder gjennom leietil-eie-avtaler. Utvalget mener at staten bør vurdere å gi kommunene sterkere insentiver til å
-inngå leie-til-eie-avtaler, da det kan bidra til at
-lavinntektsfamilier får større mulighet til å bo i
-egen eid bolig i ulike boområder. Ett mulig insentiv er å la beboer eller kommune beholde tilskudd til utleieboliger hvis en kommunal bolig
-selges til beboeren. Tilskudd til utleieboliger
-avskrives over tid, men kommuner som selger
-kommunale utleieboliger, skal betale tilbake det
-eventuelt resterende tilskuddet de har fått fra
-staten. Det gir en tydelig tilskuddsforvaltning,
-hvor tilskuddet kun benyttes til det opprinnelige
-formålet. Kommunene kan søke om nye tilskudd
-hvis de vil skaffe nye utleieboliger, og tildele etableringstilskudd for at lavinntektsfamilier skal
-kunne kjøpe boligen sin. Samtidig vil kommunene kunne få sterkere insentiver til å inngå leietil-eie-avtaler hvis de ikke må betale tilbake tilskuddet. Tilskuddet kan da inngå som en subsidie til beboeren i en leie-til-eie-avtale, noe som
-kan gjøre det enklere for kommunen og beboeren å inngå en forutsigbar avtale. Tilskuddet bør
-fortsatt avskrives over tid, og tilbakebetales hvis
-beboeren flytter før avskrivningsperioden er
-over. Alternativt kan tilskuddet brukes til å kjøpe
-nye kommunale boliger, slik at kostnadene blir
-mindre for kommunen.
-Utvalget mener at det også kan vurderes om
-boutgiftstakene i bostøtten bør differensieres etter
-boligpriser innad i de største byene. Boligprisene
-varierer betydelig, ikke minst i Oslo. Hvis for
-eksempel boutgiftstaket i Oslo deles i to kategorier,
-vil det kunne gjøre det enklere for lavinntektsfamilier å kjøpe eller leie bolig der hvor prisene er
-over middels. Det er mulig at det også gjør det
-enklere for kommunen å kjøpe kommunal bolig
-der hvor prisene er høyere, da mer av leieutgiftene
-blir kompensert fra staten. Det vil samtidig bety at
-beboere i levekårsutsatte områder kan motta lavere
-bostøtte enn beboere i andre områder av byene.
-
-14.6.5 Kvalitetssjekk av utleieforhold med
-husleiestøtte
-Det er sannsynlig at mange av dem som bor i
-utleieboliger med dårlig kvalitet, får støtte til bout-
-
-221
-
-Kapittel 14
-
-giftene gjennom offentlige støtteordninger som
-bostøtte og sosialhjelp. Utvalget mener det er
-uheldig hvis offentlig husleiestøtte går til boliger
-med uakseptabel dårlig standard og eventuelt
-ulovlige utleieforhold. Det kan være boenheter
-som ikke er godkjent etter plan- og bygningsloven, eller som bryter kontraktsforholdene i husleieloven. Utvalget mener også at kommunene så
-langt det er mulig, kun bør godta kontrakter på
-minimum fem år for barnefamilier.
-Utvalget mener det viktig at kommunene har
-klare rutiner for å sjekke at boliger er lovlige før
-de godkjenner bruk av NAV-garanti eller sosialhjelp til depositum eller sosialhjelp til husleie.
-Offentlig husleiestøtte bør ikke gå til ulovlige
-utleieforhold. Utvalget anbefaler at kommunene
-får tydeligere føringer om at de må gjøre en sjekk
-av om utleieforholdene er lovlige. Slike føringer
-kan framkomme av «Rundskriv om Lov om sosiale
-tjenester i NAV».
-Hvis utleiere vet at kommunen sjekker om
-utleieforholdene er lovlige, kan det også påvirke
-hvordan de utbedrer boligene, og hvilke kontraktsforhold de tilbyr. Hvilke effekter det vil gi
-for leietakere, er usikkert. For noen kan det gi
-bedre bolig- og kontraktsforhold. Samtidig kan
-det også bli vanskeligere å finne en bolig å leie. På
-kort sikt kan en strammere kommunal praksis
-føre til at utleieboliger trekkes fra markedet. På
-lang sikt antar utvalget at en slik praksis kan gi et
-mer oversiktlig utleiemarked med bedre kontraktsforhold. Samtidig kan det også på sikt
-utvikle seg et skyggemarked med ulovlige utleieboliger rettet mot leietakere som ikke oppfyller
-kravene til offentlig husleiestøtte.
-Utvalget mener at staten kan bidra til å lette
-kommunenes arbeid ved å tilby kommunene noen
-verktøy til å gjennomføre en kvalitetssjekk. Staten
-kan bidra med en veileder over hvilke forhold
-kommunene bør undersøke. Staten kan også opprette en frivillig sertifiseringsordning for utleiere
-som gjør en forhåndssjekk av om utleier følger
-lover og regler, har mange klagesaker, mv. En sertifiseringsordning vil trolig primært være attraktivt for utleiere som tilbyr gode utleieforhold, og
-lite attraktivt for useriøse utleiere. Hvis kommunen signaliserer at de kun godtar sertifiserte utleiere, kan det kanskje likevel gi enkelte utleiere
-insentiver til å bedre leieforholdene eller eventuelt bli presset ut av markedet. Videre kan staten
-støtte arbeidet med å utvikle og få tatt i bruk en
-«Boindeks» som kan måle beboernes opplevelse
-av boligstandard og bomiljø i utleieboligene.
-
-[Side 224]
-
-222
-
-NOU 2020: 16
-
-Kapittel 14
-
-Levekår i byer
-
-14.6.6 Utrede bostøtten til barnefamilier i
-storbyene
-Utvalget har vurdert om styrket bostøtte til barnefamilier i storbyene kan være et egnet virkemiddel
-for å bedre levekår og boforhold for denne målgruppa. Utvalget har særlig vurdert om styrket
-bostøtte kan være et kompenserende tiltak for
-lavinntektsfamilier ved en eventuell avvikling av
-kontantstøtten. Det er forholdsmessig flere bostøttemottakere i levekårsutsatte områder i storbyene
-enn i andre områder. Økt bostøtte til barnefamilier i
-storbyene kan sånn sett sies å være et tiltak som er
-relativt målrettet mot å styrke levekårene til lavinntektsfamilier i utsatte områder.
-Mange bostøttemottakere har høyere boutgifter enn det som inngår i beregningen av bostøtten, og mange får ekstra økonomisk bistand gjennom sosialhjelp og kommunale bostøtteordninger.
-Det gjelder særlig barnefamilier i storbyene. Økte
-satser for bostøtte kan redusere bokostnadene for
-målgruppa og redusere mottakernes avhengighet av økonomisk sosialhjelp. Økt statlig bostøtte
-kan også gjøre beboere i kommunale boliger mindre avhengig av kommunal bostøtte. Kommunal
-bostøtte er gjerne særskilt innrettet mot beboere i
-kommunale boliger. Det gjør at husstandene mister inntekt hvis de flytter fra kommunal til privat
-bolig, og det kan redusere insentivene til å flytte
-fra den kommunale boligen. Statlig bostøtte er en
-rettighetsbasert ordning. Dette betyr at den er
-forutsigbar, transparent og administrativt enkel.
-En mer stabil og forutsigbar inntekt kan dessuten
-bidra til at flere får en stabil bosituasjon, noe som
-kan ha positive effekter på arbeidsdeltakelse og
-utdanningsmuligheter.
-Samtidig kan økt bostøtte ha negative effekter
-på insentivene til å jobbe, og barnefamilier i storbyene er den målgruppa som allerede har de høyeste
-satsene for bostøtte. Risikoen for at bostøtten reduserer insentivene til å arbeide, er dermed særskilt
-relevante for denne gruppa. Ved tildeling av økonomisk sosialhjelp får mottakerne tettere oppfølging
-og det stilles krav til aktivitet, noe som kan ha positive effekter for arbeidsdeltakelse. Utvalget er
-bekymret for de negative effektene en styrket
-bostøtte for barnefamilier i storbyene kan ha for
-arbeidsdeltakelse.
-Utvalget viser til at regjeringen har nedsatt et
-ekspertutvalg som skal gå gjennom bostøtteordningen. Utvalget vil framheve at høye boutgifter er en
-stor utfordring for mange lavinntektsfamilier i storbyene. Å få flere i arbeid er den viktigste strategien
-for å styrke økonomien til lavinntektsfamilier, men
-det er viktig at også familier med svak tilknytning
-
-til arbeidslivet har en boutgiftsbelastning de kan
-leve med. Utvalget anbefaler at ekspertutvalget
-særskilt utreder hvordan bostøtten, eller eventuelt
-andre støtteordninger som ekspertutvalget foreslår
-å utvikle, kan benyttes til å bedre den økonomiske
-situasjonen til familier med svært lave inntekter i
-storbyene. Ekspertutvalget bør vurdere hvordan
-støtten kan innrettes slik at den både ivaretar hensynene til en forutsigbar økonomisk situasjon og
-akseptabel boutgiftsbelastning for lavinntektsfamilier og støtter godt opp under arbeidslinja.
-
-14.6.7 Utvide bomiljøtilskuddet til andre
-levekårsutsatte områder
-Utvalget mener at bomiljøtilskuddet som tildeles
-private aktører gjennom områdesatsinger, kan gi
-nyttige bidrag til å bedre trivsel og sosiale forhold
-i levekårsutsatte områder. I områder hvor mange
-bor trangt, er gode uteområder og sosiale arrangementer ekstra viktige. Bomiljøtilskuddene er
-små og kan ikke forventes å gjøre store utslag på
-beboernes levekår, men de kan likevel spille en
-rolle for folks livskvalitet.
-Utvalget anbefaler at bomiljøtilskuddet opprettes som en separat statlig tilskuddsordning uavhengig av tilskudd til områdesatsinger og utvides
-til andre områder enn der hvor det er inngått
-avtale om områdesatsing. Andre områder kan ha
-like stort behov for tilskudd. Tilskuddet kan også
-i større grad virke forebyggende og motvirke en
-negativ utvikling av sosiale og fysiske forhold.
-Utvalget anbefaler at bomiljøtilskuddet kan benyttes i flere levekårsutsatte områder, for eksempel
-– områder hvor boligprisene er lave eller
-synkende, og som mangler vedlikehold eller
-trenger opprusting
-– områder med manglende sosiale nettverk og
-aktiviteter i nabolaget
-– områder med behov for flere fellesarealer
-grunnet høy trangboddhet
-Tilskuddet bidrar til å mobilisere private krefter i
-nabolagene og virker direkte inn på fysiske og
-sosiale forhold som beboerne er opptatt av. Det
-kan bidra til å øke trivsel og aktivitet, til å styrke
-sosiale nettverk og til å dempe negative trender
-med at boliger ikke vedlikeholdes godt nok.
-Å gi bomiljøtilskudd kan i utgangspunktet sies
-å være en kommunal oppgave. Det kan samtidig
-være mer naturlig at staten tildeler tilskudd til private aktører enn til kommunen. Tilskuddet kan
-også bidra til å utvikle kommunenes samarbeid
-med boligselskaper, velforeninger og andre.
-
-[Side 225]
-
-NOU 2020: 16
-Levekår i byer
-
-223
-
-Kapittel 15
-
-Kapittel 15
-
-Områdesatsing
-Områdesatsinger er en tverrsektoriell innsats
-innenfor et område med levekårsutfordringer.
-Slike satsinger har vært benyttet gjennom flere
-tiår både i Norge og en rekke andre land. Det varierer hvordan satsingene utformes mellom land og
-over tid. En del kjennetegn går likevel igjen, både
-med hensyn til mål, strategier og tiltak. Noen former for tiltak blir brukt i de fleste satsingene, slik
-som fysisk opprusting av nedslitte områder, men
-mange typer tiltak gjennomføres både innenfor og
-utenfor en områdesatsing.
-Staten har vært involvert i flere store områdesatsinger de siste tiårene, både gjennom finansiering og styring av satsingene. Den største norske
-områdesatsingen er i Groruddalen, men staten
-samarbeider med kommunene om satsinger i
-flere deler av Oslo og i andre store byer.
-
-Oslo indre øst (1997–2006) sto det: «Det er bred
-politisk enighet om at opphopingen av levekårsproblemer i Oslo indre øst er uakseptabel.
-Regjeringen, Stortinget og Oslo kommune ønsker
-en forenet innsats for bedre levekår i Oslo indre
-øst.» (Barstad mfl. 2006).
-Storbymeldingen (St.meld. nr. 31 (2002–
-2003)) som kom i forkant av områdesatsingen i
-Groruddalen fra 2007, framhevet også opphoping
-av levekårsproblemer:
-
-15.1 Hovedtrekk ved områdesatsinger
-
-Også i den første intensjonsavtalen mellom staten
-og Oslo kommune om Groruddalen fra 2007 ble
-levekår framhevet, men da sammen med miljøproblemer: «Det er bred politisk enighet om at det
-trengs et felles løft for å bedre miljø- og leveforholdene i Groruddalen.»
-
-Det viktigste kjennetegnet ved områdesatsinger
-er at de er geografisk avgrensede og har tiltak
-innenfor flere sektorer. Innsatsen skjer ofte i form
-av både fysisk oppgradering av boområder og tiltak for å bedre sosiale eller individuelle levekårsutfordringer hos beboerne.
-
-15.1.1 Begrunnelser for områdesatsinger
-15.1.1.1 Opphoping av levekårsproblemer som
-grunnlag for satsinger
-Kommunal- og moderniseringsdepartementet
-(KMD) beskriver områdesatsing på denne måten
-på sine nettsider: «Områdesatsing er et virkemiddel for å bedre miljø, boforhold og levekår i et
-avgrenset geografisk avgrenset byområde med
-store levekårsutfordringer.»
-I Norge har opphoping av levekårsproblemer
-vært et viktig utgangspunkt for områdesatsingene
-i flere tiår. I den politiske plattformen til den tiårige områdesatsingen Handlingsprogrammet
-
-Det er kommunenes oppgave å se byutvikling
-og sosial utvikling i lokalsamfunnet i sammenheng og møte disse utfordringene. For regjeringen er det et mål å unngå opphopning av
-levekårsproblemer i områder med dårlig
-bymiljø. Regjeringen vil støtte utviklingen av
-områderettet politikk i storbyene.
-
-15.1.1.2 Samspill mellom ulike aktører
-Det å få til bedre samspill og nye måter å jobbe på
-blir ofte i seg selv sett på som en viktig begrunnelse for områdesatsingene. KMD beskriver det
-slik: «En områdesatsing er et samarbeid mellom
-stat og kommune som ser flere virkemidler i sammenheng og medvirker til å skape økt nytte gjennom felles bruk av statlige og kommunale midler.»
-Groruddalssatsingen er et eksempel på en satsing som legger sterk vekt på samarbeid og samspill og på at ulike instanser skal kunne løse oppgavene sine på en bedre måte. Det står for eksempel følgende om behovet for samspill i evalueringen av den første Groruddalssatsingen (Agenda
-Kaupang mfl. 2016):
-
-[Side 226]
-
-224
-
-NOU 2020: 16
-
-Kapittel 15
-
-Levekår i byer
-
-Utfordringene i Groruddalen er sammensatte
-og har karakter som gjør det nærliggende å
-bringe inn begrepet «wicked problems» – eller
-samfunnsfloke, som er den norske oversettelsen. Utgangspunktet er en opplevelse av at
-mange samfunnsutfordringer har en svært
-sammensatt karakter og utfordrer den tradisjonelle sektormodellen som ligger til grunn for
-offentlig oppgaveløsning. I forsøk på å løse
-disse sammensatte problemene opplever en at
-sektorens avgrensede perspektiv ikke gir rom
-for å finne gode løsninger. Det er nødvendig å
-finne måter å jobbe på tvers av sektorer og
-nivåer for å finne gode løsninger.
-Også internasjonalt er samspill mellom ulike sektorer en viktig begrunnelse for områdesatsinger.
-Blant europeiske politikere og byråkrater er
-ønske om å «develop integrated policies» løftet
-fram som en sentral begrunnelse for områderettede innsatser (Andersson og Musterd 2005a).
-
-15.1.2 Innretning av områdesatsingene
-Mange områdesatsinger har et mål om å bedre
-levekårene, men det varierer hvor overordnede
-eller konkrete målene er. Noen mål er relatert til
-individuelle levekår, slik som «økt sysselsetting»,
-mens andre mål handler mer om områdekvaliteter, slik som «gode og trygge steder å bo og vokse
-opp». Det er også forskjeller i hvordan områdesatsingene utformes, både hvor mange aktører, sektorer og forvaltningsnivåer som er involvert, og
-hva slags type tiltak satsingene omfatter. For
-eksempel involverer områdesatsingene i Oslo
-flere titalls offentlige aktører fra stat og kommune. Andre områdesatsinger er først og fremst
-et samarbeid mellom kommunale og private aktører i det aktuelle området.
-«Områdeløft» er en mer avgrenset og lokalt
-basert satsing som gjerne har blitt gjennomført
-innenfor større områdesatsinger. Områdeløftene
-ble utviklet av Husbanken og Oslo kommune i
-den første Groruddalssatsingen. Områdeløft er et
-rammeverk for hvordan kommuner kan skape
-gode nærmiljøer i utsatte byområder, i samarbeid
-med seg selv, innbyggere og andre lokale aktører.
-Denne type satsinger kan bestå av både fysiske og
-sosiale tiltak, slik som (Oslo kommune 2016):
-– å ruste opp offentlige utearealer og offentlige
-bygg som bibliotek og skoler
-– å stimulere private aktører til å ruste opp boliger, lokalsentre mv.
-– å legge til rette for sosiale møteplasser, organisasjonsliv og sosiale aktiviteter
-
-–
-
-å tilpasse tjenestene bedre til beboernes behov
-og mobilisere beboere til å benytte tjenestene
-
-Fysisk oppgradering og sosiale tiltak kan sies å
-utgjøre en kjerne i områdesatsinger. I tillegg har
-mange områdesatsinger tiltak rettet mot levekårsutsatte individer, slik som kvalifisering og
-opplæring. Nybyggingsprosjekter kan også inngå
-i eller være relatert til områdesatsinger.
-I det statlig-kommunale samarbeidet om områdesatsinger er det et sentralt premiss at satsingene skal bidra til noe mer eller annet enn den
-ordinære virksomheten. Innsatsen deles gjerne i
-to hovedkategorier: for det første å gjennomføre
-investeringer det ikke har vært rom for i ordinære
-budsjetter, for det andre å bidra til å utvikle nye
-virkemidler og nye måter å jobbe på (Oslo kommune 2014). Det tildeles ekstraordinære midler,
-blant annet gjennom statlige tilskudd, men det å
-bruke ordinære midler på nye måter kan også
-være en del av en områdesatsing (Oslo kommune
-2016).
-Selv om områdesatsinger er tidsavgrensede,
-er det lagt vekt på at innsatsen må ha et visst
-omfang i tid og penger. Områdesatsingene er forankret i flerårige intensjonsavtaler mellom stat og
-kommune for å sørge for en forutsigbarhet.
-Flere land har hatt satsinger som har likhetstrekk med de norske, men som også har trekk
-som er relativt ukjente i norsk sammenheng. I
-flere europeiske land har områdesatsinger hatt
-relativt tydelige mål om å skifte ut deler av befolkningen i levekårsutsatte områder. Det kan henge
-sammen med at flere land har store områder med
-offentlig eide boliger og dermed sterkere styringsmuligheter i boligsektoren. Tiltak som å rive,
-bygge om og selge offentlige boliger har derfor
-vært sentrale deler av områdesatsinger i land som
-Danmark og Nederland (Ruud mfl. 2019b).
-
-15.1.3 Fagdiskusjoner om områdesatsing
-15.1.3.1 Diskusjoner om hva områdesatsinger
-skal løse
-Områdesatsinger benyttes i områder med levekårsutfordringer. Samtidig finnes det en rekke velferdsordninger som skal forebygge, løse og kompensere for nettopp levekårsutfordringer, og det
-er ulike synspunkter på hvilken rolle områdesatsinger skal fylle.
-Opphoping av levekårsutfordringer kan gi
-negative ringvirkninger for barns utvikling og
-sosiale mobilitet, dels også for voksne. Slike
-nabolagseffekter er omtalt i kapittel 10. Tiltak som
-
-[Side 227]
-
-NOU 2020: 16
-Levekår i byer
-
-225
-
-Kapittel 15
-
-Boks 15.1 Suksesskriterier for områdesatsinger
-Erfaringer fra tidligere og pågående områdesatOmrådeavgrensning: Det bør vurderes nøye
-hvordan innsatsområdet skal avgrenses, og
-singer kan bidra til å gjøre nye programmer mer
-ulike hensyn må avveies i avgrensningen. Ved at
-effektive. Noen mulige suksesskriterier, basert
-områdene er relativt små, kan det være lettere å
-på norske og internasjonale erfaringer er:
-involvere lokale aktører. Samtidig kan for små
-Kunnskapsutvikling: Kunnskap om det aktuområder skape stigmatisering. Hvis innsatsen
-elle området er viktig for å kunne tilpasse tiltarettes mot et større område enn det mest
-kene til de lokale utfordringene. Det gjelder
-utsatte, kan det også gi flere ressurser å spille
-både overordnet kunnskap som statistikk og
-på.
-kunnskap fra lokale kilder. Det er også viktig å
-evaluere tiltak. Uten systematiske evalueringer
-Sammenheng med ordinær drift: Det kan
-er det vanskelig å vite om tiltakene har effekt, og
-være viktig å etablere samarbeid med og inkluom de bør prøves ut andre steder.
-dere de ordinære kommunale tjenestene i proBred involvering og samarbeid: Beboere,
-sessen, noe som kan lette overgangen fra pronæringsliv og andre private aktører bør involvesjektrettet områdeinnsats til ordinær drift i komres fra oppstart og gjennom hele prosjektperiomunen. Også i prosjektperioden kan nye metoden. Hvis lokale myndigheter er til stede i lokalder innenfor ordinær virksomhet være minst
-miljøet, kan de komme i kontakt med beboere
-like viktig som ekstraordinære midler.
-som vanligvis ikke deltar i offentlige beslutningsprosesser. Offentlige midler brukt på en
-god måte kan utløse private investeringsmidler
-og mobilisere frivillig innsats.
-Kilde: Ruud mfl. 2019b, Oslo kommune 2016.
-
-kan påvirke den sosioøkonomiske sammensetningen i nabolag, kan fra dette utgangspunktet ha
-positive effekter på beboernes levekår. Noen forskere mener at nabolagseffekter kan være en
-underliggende forestilling som danner grunnlaget
-for en områdesatsing, selv om de ikke har funnet
-belegg for at beslutningstakere ser på nabolagseffekter som en sentral begrunnelse (Andersson og
-Musterd 2005a). Forskere som anser nabolagseffektene som små, vil dermed kunne argumentere
-for at begrunnelsen for områdesatsinger er svak
-(Musterd og Ostendorf 2008, van Gent mfl. 2009).
-Noen er opptatt av at områdesatsinger skal
-bidra til at områder ikke forfaller. Konsentrasjon
-av levekårsproblemer kan føre til selvforsterkende negative prosesser som økt fysisk forfall,
-nedleggelse av butikker, økt utrygghet, redusert
-samhold og dårligere omdømme. Det kan gjøre at
-folk som har økonomi til det flytter ut, og at konsentrasjonen av levekårsproblemer blir ytterligere
-forsterket. Områdesatsinger kan ut fra dette perspektivet komme inn for å dempe slike negative
-spiraler og kompensere for svikt i private investeringer. Å øke bostabiliteten og legge til rette for at
-folk blir boende i områdene hvis inntektene deres
-øker, kan da være en viktig intensjon med områdesatsingene (Andersen og Kielgast 2003). Områdesatsinger er dermed ikke nødvendigvis et virke-
-
-middel for å bedre folks sosioøkonomiske (Andersen 2003) levekår, men for å sikre at områder ikke
-forfaller. Ut fra en slik tankegang kan det være riktigere å bruke velferdspolitiske tiltak for levekårsutfordringer som skyldes større strukturelle
-problemer som lønnsdannelse, helse og fattigdom. (Samfunnsøkonomisk analyse 2017a).
-Et annet argument for områdesatsinger er at
-lokalområdet kan være en egnet arena for enkelte
-typer tjenester, særlig for personer som står langt
-fra både arbeid, utdanning og fritids-/foreningsliv.
-Tjenester som er tett på der folk bor, kan benyttes
-til å styrke den grunnleggende kompetansen til å
-håndtere hverdagen og gjøre forbindelsen mellom beboerne og det ordinære velferdstilbudet
-sterkere (Christensen mfl. 2018a, Rambøll 2020).
-Samtidig fremhever noen at nabolaget som en
-lite egnet ramme for å bekjempe sosial eksklusjon
-og fattigdom (van Gent mfl. 2009). Enkelte argumenterer med at områdesatsinger kan gi et skjevt
-bilde av årsakene til utfordringene i utsatte byområder. Det kan gi et overdrevent inntrykk av at
-utfordringene skyldes forhold internt i de utsatte
-områdene framfor at de er resultat av økonomisk
-ulikhet og segregering (SOU 2005:29). Slike programmer kan da bli en måte for politikere å synliggjøre at de ønsker å gjøre en innsats, men uten at
-de griper fatt i de underliggende problemene på
+## Utvalgets forslag til tiltak
+
+### Ingen skal betale mer enn en viss andel av inntekten sin til barnehage og SFO
+
+*Utvalget* foreslår at moderasjonsordninger i barnehage og SFO samordnes. Intensjonen med forslaget er at ingen skal betale mer enn en viss andel av husholdningsinntekten til barnehage og SFO samlet sett. Dette vil bidra til å lette økonomien for lavinntektsfamilier med barn i barnehage og SFO. I dag finnes moderasjonsordninger for familier med lav inntekt som har barn i barnehage og SFO. I tillegg finnes det ordninger med søskenmoderasjon. Disse moderasjonsordningene ses derimot ikke i sammenheng på tvers av barnehage og SFO, og i SFO er det heller ikke lovpålagt med søskenmoderasjon selv om mange kommuner likevel praktiserer det. *Utvalget* mener at ordninger som skal stimulere til at flere bruker barnehage og SFO, bør ta hensyn til den totale økonomien til familiene. *Utvalget* mener at kostnadene ved tiltaket ikke skal legges på andre barnefamilier gjennom å øke maksimalprisen for en barnehageplass eller øke betalingen i SFO vesentlig.
+
+*Utvalget* er klar over at en slik ordning vil bli komplisert. Det må utredes nærmere hvordan ordningen kan innrettes.
+
+### Gratis heltidstilbud i barnehage for alle fire- og femåringer
+
+Et *flertall* i utvalget foreslår i tillegg at barnehagen gjøres gratis for alle barn i alderen fire til fem år, det vil si de to siste barnehageårene før skolestart. *Flertallet* vil understreke at tidlig innsats i barnehage er viktig for barnas utvikling og læring, og at det derfor er nødvendig å prioritere et gratistilbud for alle barn de siste to årene før skolestart.
+
+Et *mindretall* i utvalget bestående av medlemmene Jenssen, Sandvik og Aarland støtter ikke forslaget.
+
+### Avvikle kontantstøtten helt eller omgjøre den til ventestøtte
+
+Et *flertall* i utvalget foreslår tiltak for å redusere bruken av kontantstøtte. *Flertallet* mener at noen av de barna som trenger barnehage mest, er barn som i dag ikke går i barnehage, for eksempel fordi foreldrene velger kontantstøtte i stedet. Utvalgets *flertall* mener at en politikk som gir insentiver til at barn går i barnehage, særlig vil komme barn fra levekårsutsatte områder til gode. *Flertallet* erkjenner imidlertid at tiltaket kan innebære at noen mister inntekter uten at de kommer seg ut i arbeid.
+
+Et *flertall* i utvalget foreslår å avvikle kontantstøtten helt.
+
+Et *mindretall* i utvalget bestående av medlemmene Jaber, Jenssen, Presterud og Aarland støtter ikke forslaget om å avvikle kontantstøtten helt.
+
+Et annet *flertall* i utvalget foreslår å omgjøre kontantstøtten til en ventestøtte på barnehage, i tråd med det Sysselsettingsutvalgets ekspertgruppe har foreslått (NOU 2019: 7). Konkret innebærer forslaget at kontantstøtten avgrenses til å gjelde i perioden hvor det er gitt avslag på søknad om barnehageplass for barn som har fylt ett år, fram til de får rett til barnehageplass. *Flertallet* mener at å avkorte tiden man får kontantstøtte, vil bidra til at flere barn begynner tidligere i barnehage.
+
+Et *mindretall* i utvalget bestående av medlemmene Bisal og Jaber støtter ikke forslaget om å gjøre om kontantstøtten til en ventestøtte på barnehage.
+
+### Endre opptaksregler til barnehage
+
+For å legge til rette for at barnehager får en mer variert barnegruppe, anbefaler *utvalget* at kommuner i noe større grad enn i dag kan styre sammensetningen av barn gjennom å endre opptaksreglene for barnehager. Ett av formålene med tiltaket er å styrke språkstimuleringen av barn. *Utvalget* foreslår å endre forskriften om saksbehandlingsregler ved opptak i barnehage. Kommunene bør der gis adgang til å se bort fra foreldrenes førsteønske i tilfeller der det vil bidra til å gi en særlig skjev fordeling av barn med og uten minoritetsspråklig bakgrunn og/eller barn med ulik sosioøkonomisk bakgrunn. Dette vil først og fremst gjelde når barnehagene ligger nær hverandre. Ordningen bør omfatte både kommunale, private og ideelle barnehager. Når kommunene skal vurdere om de skal tildele plass i en annen barnehage enn den som er foreldrenes førstevalg, må de ta hensyn til foreldrenes øvrige valg i søknaden, om barnet allerede har søsken i barnehagen og eventuelle andre relevante forhold. Det bør være en forutsetning at reiseveien mellom hjemmet og barnehagen ikke må bli uforholdsmessig lang. En ulempe med forslaget kan være at foreldre som ikke må bruke barnehage, velger å holde barna hjemme fordi terskelen for å sende barna i barnehagen blir for høy, for eksempel på grunn av lengre reisevei.
+
+### Øke grunnbemanningen og pedagogtettheten i barnehager i levekårsutsatte områder
+
+For å gi barn et likeverdig barnehagetilbud mener *flertallet* i utvalget at barnehager i utsatte byområder trenger høyere tetthet av pedagoger og ekstra bemanning enn barnehager i andre områder. En studie som *utvalget* har fått gjennomført, viser at barnehager i analyseområder i Oslo har en betydelig høyere andel barn som har behov for et tilrettelagt tilbud. I tråd med kunnskap om tidlig innsats og grunnlaget for språkutvikling og kognitiv utvikling som legges i barnehagen, mener *flertallet* i utvalget at både grunnbemanningen og pedagogtettheten må styrkes i barnehager i områder med sosioøkonomiske utfordringer. Økt grunnbemanning og pedagogtetthet er viktige faktorer for å styrke kvaliteten.
+
+Et *mindretall* i utvalget bestående av medlemmene Jenssen og Sandvik støtter ikke forslaget.
+
+### Forsøk med obligatorisk, gratis heldagsskole
+
+*Utvalget* viser til at tidlig innsats i utdanningsløpet er samfunnsøkonomisk lønnsomt. Å styrke elevenes læring og dempe effekten sosial ulikhet har på resultater mener *utvalget* bør være første prioritet. *Utvalget* mener skolemyndighetene på sikt bør innføre obligatorisk heldagsskole, og foreslår et forsøk for å teste dette ut. Dette forslaget er tidligere foreslått av Stoltenbergutvalget, men da for første til fjerde trinn. Et tilbud om heldagsskole vil trolig komme barn fra familier med lav inntekt særskilt til gode ettersom de vil kunne få mer støtte i sin faglige og sosiale utvikling i en viktig fase av grunnskolen.
+
+Å utvide skoledagen er en omfattende reform av skolen. *Utvalget* anbefaler derfor at det først settes i gang forsøk med heldagsskole for å vurdere resultater mot ressursbruken. Ved valg av forsøksskoler bør skoler i levekårsutsatte områder prioriteres.
+
+I likhet med Stoltenbergutvalget mener *utvalget* at innholdet i tilbudet med heldagsskole bør utformes som et tilbud som angir rammer for fysisk aktivitet, ulike fritidsaktiviteter, leksehjelp og fordypning i læringsaktiviteter. Det bør også gi betydelig rom for frilek i de timene som ikke går med til undervisning i fag. Tilbudet vil innebære at det ikke lenger vil være behov for SFO. Å utvide skoledagen og å inkludere frilek, fysisk aktivitet og fritidsaktiviteter vil også bidra til at barna får en felles arena på ettermiddagen, og til at alle får være med på slike aktiviteter. En ulempe med forslaget er at foreldre ikke blir engasjert i barnas fritidsaktiviteter ved at de er lagt til skolen, og det kan ha negative effekter for frivillig sektor.
+
+Som et alternativ til heldagsskole har *utvalget* vurdert å styrke SFO som læringsstøttende arena. *Utvalget* har registrert at det høsten 2021 vil bli innført en nasjonal rammeplan for SFO for å styrke innholdet i tilbudet. *Utvalget* er likevel skeptisk til om en ny rammeplan vil være tilstrekkelig for å få jevn og god nok kvalitet i SFO. Dette fordi det ikke er varslet mer penger til kommunene. *Utvalget* mener at et mål om et SFO-tilbud med bedre kvalitet bør følges av økonomisk kompensasjon til kommunene.
+
+Fram til det eventuelt blir aktuelt med heldagsskole, mener imidlertid *utvalget* at det er viktig at kvaliteten på tilbudet i SFO er god og jevn, og at alle kommuner tilbyr en SFO-ordning med et pedagogisk innhold som støtter barnas mestringsfølelse og læring, og som tilbyr varierte aktiviteter.
+
+### Fastsette sosioøkonomiske kriterier for lærernormen
+
+Dagens lærernorm er lik for alle skoler uavhengig av elevsammensetningen og av om de har gode eller svake resultater. Analyser viser at måten normen er utformet på, gjør at den reduserer kommunenes og skolenes handlingsrom og binder dem til en ressursfordeling som ikke nødvendigvis er den beste sett ut fra elevenes behov. Særlig store kommuner rapporterer at normen bidrar til at de må fordele ressurser mellom skoler på en måte som kommunen ellers ikke ville gjort. Skoler med gunstigst levekår kommer best ut ved at gruppestørrelsen der er redusert mest etter at normen ble innført.
+
+For å gi elever et likeverdig opplæringstilbud mener *utvalget* at skoler i utsatte områder trenger høyere lærertetthet enn skoler i andre områder. *Utvalget* er kritisk til dagens lærernorm for grunnskolen fordi den detaljstyrer kommunene og skolene. Slik lærernormen er i dag, kan den gjøre det vanskeligere for kommunene å sette inn ekstra lærerkrefter ved skoler i utsatte områder. De kan bli tvunget til å flytte lærerkreftene fra skoler som trenger det mest, til skoler som trenger det mindre. *Utvalget* mener derfor lærernormen må justeres for å fange opp sosioøkonomiske forhold, slik at kommunene i større grad må prioritere skoler i områder med sosioøkonomiske utfordringer. Tiltaket gir etter *utvalgets* vurdering skolene som trenger det mest, mer fleksibilitet til å organisere skolehverdagen på en hensiktsmessig måte og tilby alle elever en opplæring av god kvalitet.
+
+### Utrede konsekvenser av nærskoleprinsippet
+
+*Utvalget* har vist at segregeringen i grunnskolen uten tvil er størst i Oslo, og at det er en viss tendens til segregering i grunnskolen i noen andre store og mellomstore byer i Norge. Skolesegregering oppstår i byer med sterk bostedssegregering hvor de fleste går på nærskolen. Forskning fra blant annet Sverige viser imidlertid at skolesegregeringen også kan være sterk i et system der skolevalget er mer frikoplet fra bosted, og der ulike former for privatskoler er mer utbredt. Selv om skolesegregeringen ser ut til å være relativt lav i mange av de største byene i Norge, kan tendensene bli tydeligere på sikt.
+
+Tendensen til skolesegregering blir forsterket av at noen familier velger å flytte fra skolekretser som ikke anses å ha en skole med et godt nok skole- og læringsmiljø. Studier fra flere land viser at hvordan foreldre vurderer skolekvaliteten, er viktig for flytteatferd og valg av nabolag i byområder der nærskoleprinsippet står sterkt. Skolene som foreldrene oftest velger bort, har en høyere andel minoritetsspråklige elever, en høyere andel elever med særskilt norskopplæring og et lavere utdanningsnivå blant foreldrene.
+
+Skolesegregering kan påvirke læring og skoleresultater negativt ved enkelte skoler. *Utvalget* mener dette er uheldig og bør motvirkes. *Utvalget* mener at nærskoleprinsippet fortsatt bør ligge til grunn for inntak til grunnskoler, men at det er behov for mer kunnskap om hvilke fordeler og ulemper nærskoleprinsippet har i storbyer i Norge. Det bør utredes nærmere hvordan nærskoleprinsippet og muligheten for å søke skolebytte praktiseres i ulike byer. Utredningen bør videre undersøke i hvilken grad prinsippet bidrar til segregering i skoler og nabolag, og peke på mulige løsninger for å redusere skolesegregering og bidra til at alle elever får like betingelser for god læring.
+
+*Utvalget* mener det er særlig viktig å vurdere i hvilken grad prinsippet bidrar til barnefamiliers flytteatferd, og se det i sammenheng med øvrige politikkfelt som påvirker segregeringen, for eksempel boligpolitikk og byplanlegging.
+
+### Innføre et tilbud om et ekstra skoleår etter grunnskolen
+
+*Utvalgets flertall* foreslår at elever som ønsker et ekstra år etter ungdomsskolen, kan tilbys dette. Som Stoltenbergutvalget foreslår, bør tilbudet være frivillig og særlig tilpasset elever med svake karakterer. Det vil gi elevene mer tid til å utvikle seg faglig og til å bli mer modne for videre opplæring.
+
+Tilbudet bør gi elever mulighet til å forbedre karakterene fra grunnskolen og utforske valgfag og ulike yrker. Hensikten er å gjøre dem bedre rustet til å bestå og fullføre videregående skole. Elevene kan gjennom miljøskifte og nye undervisningsopplegg oppleve å mestre og få økt selvtillit etter eventuelle nederlag i grunnskolen.
+
+Tilbudet gis som et nasjonalt tilbud og bør være åpent for alle. Det vil trolig gi en mer variert sammensetning av elever i tilbudet, noe som i evalueringer av et tilsvarende tilbud i Danmark er trukket fram som en suksessfaktor. *Utvalgets flertall* mener at et slikt tilbud vil ha særlig positiv effekt i utsatte områder hvor frafallet fra videregående opplæring er høyt.
+
+*Utvalget* ser at det kan være utfordrende å sikre tilbud som ivaretar alle behov i en elevgruppe med ulike utfordringer. Behovene kan variere mye innenfor grupper som i utgangspunktet ser ut til å ha samme utfordringer. Tilbud som gis etter grunnskolen, må by på et spekter av valgmuligheter til ungdommene som i størst mulig grad kan ivareta ulike behov.
+
+Et *mindretall* i utvalget bestående av medlemmene Sandvik, Jaber, Ødegård og Arntzen støtter ikke forslaget.
+
+### Videreføre fylkeskommunenes mulighet til å velge inntaksmodell til videregående opplæring
+
+Forskning fra flere land viser at det er sammenheng mellom karakterbasert inntak til videregående opplæring og segregering etter sosioøkonomisk bakgrunn, innvandrerbakgrunn og kjønn. *Utvalget* mener at fylkeskommunene er best i stand til å vurdere hvilke inntaksmodeller for videregående opplæring som er tilpasset lokale utfordringer. Disse utfordringene varierer sterkt mellom fylkeskommuner. For de store byene gir det fylkeskommunene mulighet til å velge modeller som reduserer konsekvensene av segregering.
+
+*Utvalget* ser at dersom flere fylkeskommuner velger bort karakterbasert inntak, vil færre elever få mulighet til å velge hvilken skole de vil gå på. Det vil i mindre grad lønne seg for elever å jobbe hardt for å få gode karakterer dersom målet er å komme inn på en konkret skole. Samlet sett mener likevel *utvalget* at ved å frata fylkeskommunene muligheten til å velge en annen inntaksmodell enn karakterbasert opptak fratas de samtidig muligheten til å gripe fatt i en viktig årsak til skolesegregering.
+
+### Utrede inntaksmodeller for videregående opplæring
+
+*Utvalget* mener at karakterbasert inntak i videregående opplæring forsterker skolesegregeringen i enkelte byer. Nærskoleprinsippet kan gjøre det samme. Stoltenbergutvalget og Inntaksutvalget i Oslo kommune foreslår å utrede alternative inntaksmodeller.
+
+Det er behov for mer kunnskap om hvilke inntaksmodeller som kan motvirke skolesegregering og bidra til at videregående skoler får en bredere elevsammensetning etter både sosial bakgrunn, innvandrerbakgrunn og kjønn. *Utvalget* ser med interesse på andre utredningers forslag til alternative modeller og mener de gir grunnlag for å utrede inntaksmodeller som kombinerer ulike forhold som karakterprogresjon, grunnskolepoeng, bosted, enkeltkarakterer, intervjuer og opptaksprøver. *Utvalget* vil imidlertid understreke at det også bør utredes modeller som tar hensyn til elevenes bosted kombinert med grunnskolepoeng.
+
+Ved å få fram kunnskap om inntaksmodeller som kan forebygge skolesegregering, gis fylkeskommuner som har slike utfordringer, større mulighet til å velge en modell som er tilpasset utfordringene lokalt.
+
+###  Styrke familievernkontorer
+
+Familien, og særlig foreldrene, er de viktigste omsorgsgiverne i barns liv. Familiene er de beste til å ivareta følelsesmessige behov samt utvikle barn og unges ferdigheter i å bygge relasjoner. Familievernets samfunnsmandat er å forebygge og avhjelpe relasjonelle vansker i familien og å styrke gode familierelasjoner og barns oppvekstvilkår. *Utvalget* mener at familieverntjenestene bør styrkes som et bredt lavterskeltilbud tilpasset en mangfoldig befolkning med ulike behov. Dette er ikke et tilbud i lokalmiljøene, men gis i enheter som ofte har et mer regionalt ansvar. *Utvalget* mener likevel tilbudet er svært viktig for at flere familier skal få støtte og hjelp tidlig. Det bør tilbys både individuell oppfølging og veiledning i grupper. Erfaring viser at gruppetilbud til foreldre med felles erfaringer og like utfordringer gir gode resultater. Familievernkontorene bør komme enda tydeligere fram som de gode aktørene de kan være for befolkningen i utsatte områder. For mange kan familievernkontoret oppleves mer nøytralt, ufarlig og mindre stigmatiserende enn for eksempel barnevernet.
+
+Big Brother Big Sister
+
+Big Brother Big Sister (BBBS) er en av de eldste og største frivillige mentororganisasjonene i USA. Barn og unge fra fem år og opp til voksen alder tilbys én-til-én-oppfølging fra en voksen person. Organisasjonen ble startet allerede i 1904 og har i dag avdelinger i alle USAs 50 stater og i 13 andre land, blant annet Østerrike, Nederland og Irland.
+
+BBBS er høyt ansett både nasjonalt og internasjonalt for sin tilnærming til hvordan utsatte barn og ungdom kan hjelpes. Verdensbanken identifiserte mentorprogrammer som «lovende tilnærming» nummer seks av ni for å støtte risikoutsatte barn og unge. BBBS ble navngitt spesielt som en foregangsorganisasjon på feltet. Organisasjonen er også valgt ut til topp-ti-listen over frivillige organisasjoner av tidsskriftet Forbes.
+
+Big Brothers Big Sisters International
+
+Rammeslutt
+
+*Utvalget* mener kapasiteten ved familievernkontorene må styrkes slik at de kan drive mer generelt forebyggende arbeid. Dette er i tråd med forslag fra Familievernutvalget som anbefaler tiltak som har til formål å styrke tjenesten. Familievernutvalget peker på at familieverntjenesten i dag mangler kapasitet til å utføre oppgavene sine godt nok.
+
+# Byutvikling og bolig
+
+Areal- og transportplanlegging legger rammene for byenes fysiske utforming og er et viktig grunnlag for hvordan segregeringsmønstrene utvikler seg. Også boligpolitikken virker inn på hvem som kan bosette seg hvor, og dermed på byenes segregeringsmønstre. Tiltak innenfor byutvikling og boligpolitikk er slik sentrale virkemidler for å motvirke at økonomisk ulikhet gir segregering. Samtidig skal nybygging og utbedring av boområder, og boligsosiale virkemidler, bidra til bedre levekår for dem som trenger det, og dermed forebygge eller kompensere for levekårsutfordringer.
+
+Kommunene har både et betydelig ansvar og en rekke virkemidler innenfor areal- og transportplanlegging og boligpolitikk. Statlige rammebetingelser virker inn på kommunenes ansvar for og muligheter til å påvirke den geografiske fordelingen av levekår.
+
+## Levekårsutjevning gjennom areal- og transportutvikling
+
+### Statlige rammer for kommunal planlegging
+
+Når kommunene lager planer, må de følge målene og retningslinjene som statlige organer og fylkeskommuner gir for planprosessen. Plan- og bygningsloven fastsetter prosess og rammer for den kommunale planleggingen. Planleggingen skal samordnes med en rekke sektorlover.
+
+#### Sosial bærekraft i planleggingen
+
+Plan- og bygningsloven skal fremme bærekraftig utvikling. Begrepet «bærekraft» blir ofte delt i tre: sosial, miljømessig og økonomisk bærekraft. Loven omtaler flere steder hensyn som er sentrale for sosial bærekraft. I lovens formålsparagraf står det at hensynet til barn og unges oppvekstvilkår skal ivaretas i planlegging (§ 1-1). Areal- og samfunnsplanleggingen skal også legge til rette for gode bomiljøer og gode oppvekst- og levekår i alle deler av landet. Videre skal planleggingen motvirke sosiale helseforskjeller og bidra til å forebygge kriminalitet (§ 31).
+
+Folkehelseloven pålegger kommunene å ta hensyn til sosiale helseforskjeller i planleggingen. I henhold til loven skal kommunene bidra til å utjevne sosiale helseforskjeller, og de skal fremme folkehelse blant annet gjennom lokal utvikling og planlegging (§ 4). Kommunene skal også ha oversikt over helsetilstanden til befolkningen og positive og negative faktorer som kan påvirke denne (§ 5). Boligen og kvaliteten på det sosiale og fysiske miljøet i lokalsamfunnet er regnet som noen av de sentrale faktorene som påvirker folkehelsen (Hofstad 2018b).
+
+Dokumentet «Nasjonale forventninger til regional og kommunal planlegging» omtaler nasjonal prioritert politikk som kommuner og fylkeskommuner skal legge til grunn for planleggingen sin. I de gjeldende nasjonale forventningene (2019–2023) er «å skape et sosialt bærekraftig samfunn» og «å skape et trygt samfunn for alle» løftet fram som to av fire store utfordringer.
+
+I dokumentet står det følgende om levekårsopphoping:
+
+Det er viktig at kommunene i sin planlegging motvirker og forebygger opphopning av levekårsutfordringer, og arbeider aktivt med tiltak for å styrke tjenester og iverksette nærmiljøtiltak i levekårsutsatte områder. I enkelte bydeler i noen av de større bykommunene har det utviklet seg konsentrasjoner av innbyggere med til dels store og sammensatte levekårsproblemer. Her kreves at de generelle velferdsordningene fungerer godt og møter utfordringene og samordnes med innsats fra mange instanser og aktører, både statlige, kommunale, private og frivillige for å få gode resultater. Gjennom de statlige områdesatsingene arbeides det godt på tvers av sektorer for å forbedre tjenester og nærmiljøkvaliteter der behovene er størst.
+
+Videre står det at regjeringen forventer at «\[k\]ommunene planlegger aktivt for å motvirke og forebygge levekårsutfordringer og bidrar til utjevning av sosiale forskjeller». Flere av regjeringens forventninger handler om kvalitet i bomiljøene, for eksempel at kommunene skal vektlegge arkitektur og kvalitet i de bygde omgivelsene, legge til rette for fysisk aktivitet og naturopplevelser for alle og sikre trygge og helsefremmende bo- og oppvekstmiljøer.
+
+#### Kompakt byutvikling og sosiale hensyn
+
+Ifølge «Statlige planretningslinjer for samordnet bolig-, areal- og transportplanlegging» skal utbyggingsmønstre og transportsystemer fremme utvikling av kompakte byer og tettsteder og redusere transportbehovet. I storbyområdene skal veksten i persontransporten tas med kollektivtransport, sykkel og gange (nullvekstmålet). I by- og tettstedsområder og rundt kollektivknutepunkter bør planene legge særlig vekt på høy arealutnyttelse og fortetting.
+
+Et mer miljøvennlig transportsystem er også en del av målsettingene for den statlige transportpolitikken. Ett av delmålene for transportpolitikken er å bidra til at Norges klima- og miljømål oppfylles, mens de andre delmålene handler om en enklere reisehverdag og økt konkurranseevne for næringslivet, mer for pengene, effektiv bruk av ny teknologi og nullvisjon for drepte og hardt skadede.
+
+I de største byområdene benytter staten, fylkeskommunen og kommunene byvekstavtaler for å koordinere areal- og transportplanleggingen. Avtalene er et verktøy for å forhandle om og samordne statlige og kommunale transportinvesteringer og den kommunale arealplanleggingen. Avtalene forankrer framtidige transportinvesteringer i byområdene og skal blant annet bidra til måloppnåelsen på nullvekstmålet.
+
+Samtidig som kompakt byutvikling er framhevet i de statlige føringene og målene, tilsier de statlige planretningslinjene at planer om å fortette bør legge vekt på hensynet til gode uteområder, lysforhold og miljøkvalitet. I «Nasjonale forventninger til kommunal og regional planlegging» står det at sosiale og helsemessige utfordringer knyttet til fortetting kan løses gjennom god planlegging.
+
+### Levekår i kommunal planlegging
+
+#### Kommunenes arbeid med levekår i planlegging
+
+Kommunenes planlegging skal ivareta mange samfunnshensyn. I en evaluering av plan- og bygningsloven svarer kommunale plansjefer at det varierer sterkt i hvilken grad disse hensynene faktisk blir ivaretatt. 16 prosent mener at hensynet til å motvirke sosiale helseforskjeller ivaretas i stor grad i den kommunale planleggingen, og 14 prosent mener det samme om kriminalitetsforebygging. Dette skiller seg fra hensynene til å sikre jordressurser og verdiskapning og næringsutvikling, som over 60 prosent mener ivaretas i stor grad. Gode oppvekst- og levekår, gode bomiljøer og å fremme folkehelsen mener henholdsvis 56 prosent, 52 prosent og 45 prosent at ivaretas i stor grad. Det kan være ulike grunner til disse forskjellene. Det kan handle om at noen hensyn oppfattes som enklere å oppnå i planleggingen, om hensynene er overordnede eller smale, og om hva det er tradisjon for å ivareta i planlegging (Hofstad 2018a). Representanter for kommunene mener også at plan- og bygningsloven er mindre egnet til å ta hensyn til sosial bærekraft enn til miljømessig og økonomisk bærekraft (Nordahl 2018).
+
+Nasjonale myndigheter har utviklet flere verktøy som kommunene kan bruke i arbeidet mot sosiale helseforskjeller. Flere kommuner har over tid utarbeidet oversikt over helsetilstand og faktorer som påvirker helsen, siden folkehelseloven trådte i kraft i 2012. Flere kommuner har også over tid benyttet resultater fra oversikten i planleggingen sin (Hofstad 2018b). Samtidig etterspør kommuner fortsatt konkrete råd om virksomme tiltak for å få ned de sosiale helseforskjellene (Helsedirektoratet 2018).
+
+Stavanger blir i evalueringen av plan- og bygningsloven trukket fram som en kommune som har jobbet med å integrere folkehelse og sosiale helseforskjeller i planleggingen. Kommunen har over lengre tid jobbet med levekårsundersøkelser. Med utgangspunkt i resultatene fra undersøkelsene har kommunen kanalisert ekstra ressurser til fysiske omgivelser, tjenestetilbud og til den sosiale utviklingen i geografiske områder med spesielle utfordringer. Informanter i kommunen forteller også at levekårsundersøkelsen har gjort dem bevisste på måten boligstørrelser, utearealer, skoler og barnehager kan påvirke befolkningssammensetningen (Hofstad 2018b).
+
+#### Fortetting og målkonflikter
+
+I planleggingen vil det oppstå målkonflikter, og ett og samme tiltak kan også ha både positive og negative effekter. For eksempel kan fortetting ha både positive og negative effekter for folkehelse (Hofstad 2018b) og kan også ha både positive og negative effekter for nærmiljøet. En gjennomgang av internasjonale undersøkelser indikerer at fortetting kan gi bedre tilgang til tjenester og bidra til at forfalne områder blir oppgradert. Samtidig kan det føre til færre grøntområder, trangere boforhold og redusert stabilitet, trygghetsfølelse og samhandling i nærmiljøet. Fortetting kan dermed gjøre områder både mer og mindre attraktive (Millstein og Hofstad 2017). Det er grunn til å anta at fortetting i ulike deler av byen kan gi større utjevning i opplevde områdekvaliteter enn dersom fortettingen samles i nærheten av utsatte områder (Kvinge mfl. 2012).
+
+Beboere er heller ikke alltid enige med fagfolk om hva som tilfører gode kvaliteter til et område. Intervjuede beboere i Groruddalen gir for eksempel uttrykk for at de liker drabantbyenes åpne struktur og ikke ønsker at områdene skal få bypreg (Norconsult og Citiplan 2019, Ruud 2019a).
+
+#### Medvirkning for barn og unge
+
+Kommunene har et ansvar for å sikre medvirkning fra grupper som krever særlig tilrettelegging, som barn og unge. Likevel veier ikke alltid barn og unges interesser tungt når det må prioriteres mellom ulike hensyn, for eksempel ved at lekeplasser i fortettingsområder får lite lys (Hanssen 2018). Ifølge evalueringen av plan- og bygningsloven er det også potensial for å få til et bedre samarbeid mellom skolesektoren og plansektoren om hensynet til barn og unge i planleggingen. Evalueringen framhever at barns medvirkning i planprosesser kan være et virkemiddel for å bygge demokratisk kompetanse (ibid.).
+
+De fleste store kommuner oppgir at de har ordninger som systematisk sikrer hensynet til barn og unges oppvekstvilkår i planleggingen (96 prosent av kommunene over 20 000 innbyggere). Det er imidlertid ulikt hvilke ordninger kommunene benytter.
+
+Rundt 5 prosent av kommunene ser ut til å benytte metoden barnetråkk, hvor barn dokumenterer blant annet hvilke områder de bruker, og hvilke områder de synes er skumle (ibid.). Bergen kommune har benyttet barnetråkkregistreringer i forbindelse med områdesatsinger. Kommunen har erfart at metoden har hatt stor verdi, og at informasjonen også kan være nyttig når man skal prioritere mellom drifts- og vedlikeholdstiltak innenfor det kommunale tjenestetilbudet. Bruk av barnetråkkregistreringer er samtidig ressurskrevende for kommunene (Bergen kommune 2015).
+
+### Fra plan til utbygging
+
+Kommunenes arealplan skal ha bestemmelser om blant annet hvor det kan bygges, om det skal bygges boliger, næringsbygg e.l. og arealer til samferdsel og friarealer (plan- og bygningsloven § 11-7). Videre kan kommunen blant annet ha bestemmelser om hvor mye det kan bygges på tomtene, estetiske kvaliteter, om ute- og lekearealer og om trafikkregulerende tiltak (§ 11-9 og § 12-7).
+
+Kommunene kan også legge føringer om rekkefølge på utbyggingen, bygningers utforming og finansiering i nye boområder gjennom rekkefølgekrav og utbyggingsavtaler (§ 11-9 og § 17-3). Utbyggingsavtaler kan regulere utbyggers bidrag til å finansiere teknisk infrastruktur som er nødvendig for byggeprosjektet, men kan ikke be om finansieringsbidrag til sosial infrastruktur.[^121] Utbyggeres finansieringsbidrag kan framskynde utbygging av offentlig infrastruktur som kommunene ikke kan prioritere i budsjettene sine, men slike krav kan også forsinke byggeprosessen (Samfunnsøkonomisk analyse 2018b).
+
+Selv om kommunene kan fastsette planer for hvordan områdene skal utvikles, kan de ikke sikre at planene blir gjennomført. Kombinasjoner av lave boligpriser og høye kostnader ved å klargjøre tomtene for bygging, eller høy risiko i prosjektet, kan hindre grunneiere og utbyggere i å bygge ut (Barlindhaug og Nordahl 2011). Det kan gjøre det vanskelig for kommunene å få til utviklingen de ønsker i utsatte områder. Flertallet av store kommuner og kommuner med høy befolkningsvekst kjenner til utbyggingsprosjekter som har stoppet opp fordi utbygger mangler gjennomføringsevne. Andre årsaker til at boligprosjekter stopper opp, er blant annet manglende enighet mellom grunneiere, naboprotester og problemer med vei- eller skolekapasitet (Barlindhaug mfl. 2014b). Kommuner og utbyggere kan også ha ulike syn på hvilke områder som bør bygges på først. Alle storbykommunene har opplevd at det kan være krevende å balansere mellom hensynet til å få bygd ut områder i tråd med de overordnede arealplanstrategiene, og hensynet til utbyggere og grunneiere som ønsker å få bygd ut sine prioriterte områder (Barlindhaug mfl. 2014a). Forventning om stigende boligpriser vil dessuten kunne dempe utbyggingsviljen. Hvis noen eier en stor del av tomtene i et område kan de også porsjonere ut bygging og salg av boliger, siden et stort tilbud av boliger vil kunne senke prisen (Barlindhaug og Nordahl 2011). Konkurransen blant boligutviklere i de største byene ser ut til å være begrenset, og eierskapet til tomter er konsentrert hos få aktører. De fleste boligutviklere mener at de har behov for store tomtereserver for å sikre en forutsigbar og kontinuerlig drift, og de kjøper derfor tomter lenge før de bygges ut (Konkurransetilsynet 2015).
+
+Utbyggere kjøper i utgangspunktet tomter til en pris som gjør prosjektene lønnsomme ut fra forventede kostnader og sluttpris (Barlindhaug og Nordahl 2011). Hvis tomteprisene stiger, kan det skyldes forhold som gir en økt forventet avkastning ved utbygging og salg. En slik prisstigning kan henge sammen med forhold som grunneier ikke styrer over direkte, slik som endret reguleringsplan, utbygging av offentlig infrastruktur eller økt etterspørsel etter boliger (Oxley 2004). Hvis kommunens krav til kvalitet eller finansieringsbidrag er kjent før tomtesalg eller relatert til en økt forventet avkastning[^122], bør kravene i utgangspunktet ikke hindre prosjekter i å være lønnsomme, så lenge andre forutsetninger er tilstede, slik som at tomten ikke er mer lønnsom til andre formål. I praksis kan det være vanskelig. Det kan være vanskelig å finne gode metoder for å tilpasse skatter, avgifter eller finansieringsbidrag til den økte forventede avkastningen som følger av reguleringsendringer, infrastrukturinvesteringer eller liknende (Crook mfl. 2016). Hvis uforutsette kostnadsøkninger må tas av bedrifter uten høy inntjening, kan det redusere mulighetene de har til å bygge.[^123]
+
+Mange av de store vekstkommunene forsøker å få i gang privat boligbygging gjennom ulike investeringer som øker områdets attraktivitet. Dette kan være å investere i kommunale bygg, møteplasser og grøntområder (Barlindhaug mfl. 2014b). Forutsigbare reguleringsprosesser og jevnt tilfang av byggegrunn er andre aktuelle strategier kommunene kan bruke for å dempe utbyggernes risiko (Barlindhaug og Nordahl 2011).
+
+Eiendomsutvikling er en kapitalintensiv næring som kan gi høy avkastning.[^124] Det bidrar til at markedet tiltrekker seg aktører fra andre næringer, blant annet kapitalsterke næringer som shipping (Barlindhaug og Nordahl 2011). Det ser også ut til at eiendomsinvesteringer er attraktivt for hvitvasking av penger (NTAES 2020). En del aktører spesialiserer seg på høyrisikoprosjekter, hvor de aktivt går inn for å påvirke reguleringen av områdene, som bygningstype og utnyttelsesgrad. Enkelte boligutviklere har uttalt at det er usikkert om økt tilgang på boligtomter vil redusere tomteprisene, fordi økt tilbud vil tiltrekke seg flere finansielle aktører (Barlindhaug og Nordahl 2011).
+
+Undersøkelser fra Sverige tyder også på at selv om myndighetene regulerer for ulike boliger, vil ofte nybygging likne på den eksisterende bebyggelsen i nærheten (Bergsten og Holmquist 2013).
+
+### Transportinvesteringer gjennom områdesatsinger
+
+Transportsystemet kan virke både positivt og negativt på bokvalitetene i et område og tilknytning til nærområder og resten av byen. Flere utsatte områder er i praksis isolert fra nærområdene på grunn av hovedveier og jernbanelinjer. Luftkvalitet og problemer med trafikksikkerhet reduserer bokvalitetene. Samtidig kan også mangel på transportforbindelser gjøre at boligområder blir mer avstengt. Transportinvesteringer kan benyttes til å binde områder sammen og gi bedre nærmiljøkvaliteter. Et eksempel på sistnevnte er de endringene som skjedde med hensyn til luftkvalitet og nærmiljø i Oslo indre øst da Bjørvikatunnelen ble bygd ut (Barstad mfl. 2006).
+
+Ulemper som følge av transportsystemet var en del av utfordringsbildet da staten og Oslo kommune inngikk en avtale om en Groruddalssatsing i 2006. Støy, dårlig luftkvalitet og veier og jernbanelinjer gir utfordringer i enkelte nabolag. For den første Groruddalssatsingen (2007–2016) var det et delmål at miljøet langs veinettet skulle bedres. Det var også opprinnelig et delmål at godsterminalen på Alnabru skulle effektiviseres og bli mer miljøvennlig. Målet om Alnabru ble fjernet i 2012 (Agenda Kaupang mfl. 2016). Ifølge en utredning om segregering og mulige utbyggingsplaner for Oslo ville store infrastrukturgrep være en forutsetning for å kunne gjøre en del områder attraktive for boligbygging. Det ville imidlertid kreve store økonomiske ressurser (Kvinge mfl. 2012).
+
+Transportprogrammet innenfor Groruddalssatsingen fikk tildelt 10–12 millioner kroner i årlige ekstraordinære midler, og Groruddalen skulle ha prioritet innenfor kommunens ordinære budsjetter og de statlige handlingsprogrammene innenfor Nasjonal transportplan. Ifølge evalueringen av programmet var dette en for løs forpliktelse for de ordinære budsjettene og førte ikke til at Groruddalen ble prioritert særskilt. De store transportutfordringene og transportprosjektene i området ble ikke prioritert i satsingsperioden, og evalueringen konkluderte dermed med at de nevnte delmålene ikke kunne nås. Erfaringene fra prosjektet var at det kan være tungt å få til et felles løft innenfor de ordinære budsjettene til statlige og kommunale etater uten at disse er sterkere forankret i ledelse og felles plandokumenter. En forklaring på det er at etatene kan ha forskjellige overordnede målsettinger. Evalueringen pekte samtidig på at transportprogrammet i Groruddalssatsingen påvirket hvordan ordinære midler til mindre prosjekter ble prioritert (Civitas 2016). Blant de involverte informantene var det nettopp samferdsel som ble framhevet som den delen av statens virksomhet som var vanskeligst å samkjøre med Groruddalssatsingen. De statlige aktørene hadde lite midler til satsingen, og den overordnede transportinfrastrukturen var underlagt nasjonale hensyn og planer (Reinvang mfl. 2015).
+
+### Statlig lokaliseringspolitikk
+
+Statlige virksomheter representerer cirka 10 prosent av den norske arbeidsstyrken og inkluderer mange publikumsrettede funksjoner (Tennøy mfl. 2017). Sektorenes behov relatert til tidsbruk, kostnader og fagmiljøer ser ut til å være viktige når statlige virksomheter tar beslutninger om lokalisering. Beslutningstakerne vektlegger i varierende grad lokale planer og andre samfunnsmessige mål, slik som samordnet areal- og transportplanlegging. Det varierer også i hvilken grad andre instansers utgifter, slik som behovet for nye samferdselsinvesteringer, inkluderes i beslutningsgrunnlaget (Millstein mfl. 2016, Tennøy mfl. 2017).
+
+De statlige «Retningslinjene for lokalisering av statlege arbeidsplassar og statleg tenesteproduksjon» legger føringer for hvilke hensyn statlige instanser skal ta når de skal etablerer seg. I retningslinjene står det:
+
+Nye statlege verksemder skal som hovudregel ikkje lokaliserast i Oslo eller sentrale kommunar i Oslo-området. Unntak frå dette skal vere særleg grunna. Dersom særlege grunnar tilseier lokalisering i desse områda, skal verksemda søkast lokalisert i Groruddalen eller i tilsvarande område der verksemda vil gi størst bidrag til utviklinga i Oslo og sentrale kommunar i Oslo-området. Dette gjeld også når det er aktuelt å etablere nye arbeidsoppgåver og einingar på område der det allereie finst verksemder i desse områda.
+
+Retningslinjene viser også til at «Statlige planretningslinjer for samordnet bolig-, areal- og transportplanlegging» gjelder for den konkrete plasseringen i et senterområde og for leie av bygg.
+
+## Sosiale hensyn i boligplanlegging og boligutvikling
+
+### Statlige føringer for sosiale hensyn i boligplanlegging
+
+I «Nasjonale forventninger til kommunal og regional planlegging» er det flere forventninger som omhandler sosiale hensyn i kommunal boligplanlegging:
+
+Kommunenes boligpolitikk og boligplanlegging \[…\] legger til rette for en variert befolkningsstruktur gjennom god tilgang på boligtomter som grunnlag for tilstrekkelig, variert og sosial boligbygging. \[…\]
+
+Kommunene tar boligsosiale hensyn i areal- og samfunnsplanleggingen gjennom krav til boligstørrelse og nærområder, og ved å regulere nok boligtomter. \[…\]
+
+Kommunene legger til rette for leie-til-eie løsninger for vanskeligstilte i boligmarkedet.
+
+### Virkemidler for å påvirke boligsammensetning
+
+I arealplanleggingen kan kommunene fastsette bestemmelser om antall boliger og største og minste boligstørrelse (§ 12-7). Kommunene kan blant annet planlegge for andre boligtyper i nærheten av utsatte områder, for eksempel småhus i nærheten av blokker. Kommunene kan også regulere til tettere bebyggelse og med flere mindre leiligheter i områder som domineres av store eneboliger.
+
+Kommunenes mulighet til å påvirke sammensetningen av boliger gjennom arealplanleggingen er i hovedsak begrenset til boligenes fysiske utforming. Alle storbykommunene benytter seg av reguleringsbestemmelser for å bidra til at befolkningssammensetningen blir mer variert. Kommunene rapporterer samtidig om at utbyggere mener at bestemmelsene kan gjøre prosjekter mindre lønnsomme. Flere av kommunene forteller også at bestemmelser om boligtype (enebolig, rekkehus og blokk) og boligstørrelse ikke er tilstrekkelig til å sikre at nybyggingen virker utjevnende mot tendensene til segregering (Barlindhaug mfl. 2014a).
+
+Kommunen kan ikke gjennom arealplaner fastsette bestemmelser om boligenes eierskap og disposisjonsform, som om boligene skal være eie- eller leieboliger, organisert som borettslag eller sameier, eller om det skal være kommunale boliger eller studentboliger. Regulering av drift, virksomhet og personkrets/brukere og eierforhold regnes ikke som innenfor hjemmelsgrunnlaget for loven.[^125]
+
+Hvis kommunene selv eier tomtene, kan de ved salg kreve at det skal legges en klausul på tomten om at boligene for eksempel skal være utleieboliger, eventuelt nærmere spesifisert for grupper som studenter, unge eller eldre. Dette er et virkemiddel kommunene bruker i liten grad, men som det kan være potensial for å benytte mer (Bing Hodneland 2017). Blant store kommuner og kommuner med høy befolkningsvekst rapporterer rundt halvparten at de selger tomter til boligformål for å sikre et jevnt nivå på boligbyggingen. Enkelte av kommunene ønsker å benytte salgsprosessen til å påvirke sammensetningen av beboere og sikre bestemte kvaliteter. Rundt halvparten av kommunene rapporterer at de kjøper tomter som skal brukes til boligformål, mens den andre halvparten ikke ønsker dette (Barlindhaug mfl. 2014b). Kommunale kjøp og salg av tomter innebærer at kommunene binder opp administrative ressurser og kapital, og ikke alle kommuner er interessert i det. Det kan også bety en økonomisk risiko. Mange kommuner eide betydelige tomtereserver tidligere og gikk på store tap. En del kommuner rapporterer dessuten om at det er vanskelig å få innpass i tomtemarkedet. Tidligere hadde kommunene forkjøpsrett til LNF-områder[^126] før disse eventuelt ble omregulert til bolig/næring (Barlindhaug mfl. 2014a).
+
+Oslo kommunes tomteareal
+
+Oslo kommune eier cirka 30 prosent av byens areal, men 75 prosent av dette er marka og friarealer. Kommunens gjenværende arealer som det går an å bygge på, er på om lag 4600 mål. De fleste tomtereservene er i Groruddalen og bydel Søndre Nordstrand. Dette er i hovedsak tomter som det av ulike årsaker er krevende å klargjøre for utbygging. Det skyldes blant annet at det er behov for å oppdatere reguleringsplaner og avklare transportforbindelser, at det er utfordringer med terrenget, støy eller forurensning, eller at tomtene blir benyttet til andre formål.
+
+Ved salg av kommunale tomter kan kommunen legge inn krav som skal ivareta boligpolitiske hensyn. Kommunen kan gjøre dette gjennom spesifikke krav eller ved å invitere utbyggere til å komme med forslag til løsninger. I salgsannonsen for to eiendommer i Groruddalen har kommunen åpnet for at tilbydere kan foreslå løsninger:
+
+Løsninger som utfordrer eller er alternative til ordinære og tradisjonelle boliger med større andel fellesareal f.eks. til vask, matlaging m.m. samt byggeløsninger som bidrar til lavere kostnader og rimeligere boliger vil bli ansett som særlig interessante og vil bli vektlagt ved vurdering av tilbudene.
+
+Kunnskapsgrunnlag for en kommunal boligpolitikk. Oslo kommune 2019.
+
+Rammeslutt
+
+Kommunene, fylkeskommuner, stat og andre offentlig eide eller kontrollerte selskaper/stiftelser kan kjøpe inntil 10 prosent av boligene i borettslag, selv om hovedregelen i borettslag er at det kun er fysiske personer som kan eie boliger (burettslagslova § 4-2). I tillegg kan kommunene og andre eie inntil 20 prosent hvis det følger av vedtektene i borettslaget (burettslagslova § 4-3). Kommunene eier om lag 3 prosent av alle borettsandeler i Norge, men det er store forskjeller mellom kommunene (NOU 2011: 15).
+
+I eierseksjonssameier gjelder det i utgangspunktet ingen begrensning for hvem som kan eie boligene. Det er likevel adgang til å vedtektsfeste begrensninger. Selv om det er innført vedtekter som begrenser adgangen juridiske personer har til å kjøpe boliger, har kommunen og visse andre organisasjoner likevel rett til å eie inntil 10 prosent av boligene i et sameie (eierseksjonsloven § 24).
+
+Kommunene kan også gjennom en utbyggingsavtale sikre seg fortrinnsrett til å kjøpe en andel av nybygde boliger til markedspris (plan- og bygningsloven § 17-3). Rundt halvparten av storby- og vekstkommunene bruker ofte eller en sjelden gang forkjøpsretten i utbyggingsavtaler for å sikre boliger til økonomisk vanskeligstilte. Samtidig rapporterer 5 prosent av kommunene at kravet om å kjøpe boliger til markedspris ofte skaper utfordringer i å realisere boligpolitikken, og 21 prosent at dette er tilfelle en sjelden gang. 10 prosent opplever at kravet om forholdsmessighet i utbyggingsavtaler skaper utfordringer i å realisere boligpolitikken, og 31 prosent opplever dette en sjelden gang (Barlindhaug mfl. 2014b).
+
+Flere andre nordeuropeiske land benytter sterkere virkemidler enn Norge for å påvirke andelen prisregulerte sosiale utleieboliger. I Danmark kan planmyndighetene fastsette at inntil 25 prosent av boligene i et nybyggingsprosjekt skal være «almene boliger». I Sverige bruker storbykommunene i større grad kommunalt tomteeierskap som et virkemiddel for å styre andelen prisregulerte boliger. Flere byer i Tyskland eier også betydelige tomtearealer og kan gjennom eierskapet sikre klausulering av boliger til regulerte priser. Lokale myndigheter andre steder i Tyskland og i England benytter utbyggingsavtaler til å sikre en andel prisregulerte boliger (Nordahl 2018).
+
+### Boligselskapenes organisering kan påvirke utleieandel
+
+Om boligselskaper er organisert som borettslag eller eierseksjoner, kan påvirke andelen utleieboliger. En vesentlig forskjell på borettslagsboliger og eierseksjonsboliger er mulighetene til å leie ut boligen. Borettslagsmodellen bygger på et grunnleggende prinsipp om at andelseieren selv skal bo i boligen (brukereieprinsippet). Andelseieren kan som hovedregel ikke overlate bruksretten til andre uten samtykke fra styret (burettslagslova § 5-3). I eierseksjonsloven er hovedregelen full eierrådighet. Det er derfor i utgangspunktet opp til eieren om han eller hun ønsker å leie ut en eierseksjonsbolig (eierseksjonsloven § 24). Som hovedregel kan man imidlertid ikke kjøpe mer enn to boligseksjoner i ett og samme eierseksjonssameie (ibid. § 23).
+
+En seksjonseier kan leie ut boligen til en ordinær husstand, et bokollektiv eller til personer som disponerer hver sin hybel i boligen. For å gi kommuner og seksjonseiere flere muligheter til å motvirke uønsket oppdeling av boliger til hybler har Kommunal- og moderniseringsdepartementet sendt på høring et forslag til endringer i eierseksjonsloven og plan- og bygningsloven.[^127]
+
+### Tilskudd til bomiljøtiltak i eksisterende boligselskaper
+
+Gjennom områdesatsingene har offentlige myndigheter gitt tilskudd til private aktører, for eksempel borettslag og velforeninger. Utrederne som evaluerte den første Groruddalssatsingen, mente at bomiljøtilskuddet bidro til gode prosesser for å ruste opp uteområder og fellesrom. Det er en del tegn på at bomiljøtilskuddet har bidratt positivt til at uteområdene er blitt mer attraktive og mer brukt, men det er vanskelig å slå dette fast. Mange av informantene i bydelene mente at bomiljøtilskuddene var svært viktige. Samtidig krevde bomiljøtilskuddet en innsats fra bydelene. Det varierte i hvilken grad boligselskapene ønsket å bruke tilskuddet. Blant annet kan det være vanskelig å mobilisere til at uteområder blir rustet opp i boligselskaper med mye utleie (Proba 2016). Mange leietakere er heller ikke kjent med bomiljøtilskuddet (Bratseth 2019).

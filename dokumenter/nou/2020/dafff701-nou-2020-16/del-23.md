@@ -1,960 +1,176 @@
-# NOU 2020: 16, del 23 av 27 (side 260–270)
+# NOU 2020: 16, del 23 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/dafff701-nou-2020-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-16/id2798280/
 - Original-PDF: https://www.regjeringen.no/contentassets/ccc978f8e2184980b4597ba59796e7e3/no/pdfs/nou202020200016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 13 tabeller, 25 figurer, 243 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 260]
-
-258
-
-NOU 2020: 16
-
-Kapittel 17
-
-Levekår i byer
-
-Boks 17.1 Kriterier for bosetting av flyktninger
-Kunnskapsdepartementet
-fastsetter
-årlige
-– Det skal tas hensyn til beredskap for opp- og
-anmodningskriterier for bosetting av flyktninnedbygging av bosettingskapasiteten, stabiliger. For 2021 er kriteriene følgende:
-tet i tjenestetilbudet og evne til rask omstil– Flyktninger skal bosettes i alle landsdeler –
-ling. Det skal også tas hensyn til om kommustyrt og spredt bosetting.
-nen kan bosette flyktninger med store funk– Kommunens resultater i introduksjonsprosjonsnedsettelser.
-grammet over tid, samt muligheten for å få
-– Det skal, som hovedregel, ikke bosettes flyktninger i områder med særskilt høy andel innarbeid eller ta utdanning i regionen, skal tillegges størst vekt.
-vandrerbefolkning. Et «område» brukes her
-– Ved anmodninger skal det tas hensyn til komom en kommune eller bydel.
-munens kapasitet og kompetanse til å sikre
-– Det skal i størst mulig grad sikres kontinuitet
-i bosettingsarbeidet.
-godt integreringsarbeid. Dette vurderes
-blant annet med utgangspunkt i kommunenes innbyggertall.
-Resultater i introduksjonsprogrammet vektes
-– Som hovedregel skal ingen kommune anmomed om lag 60 prosent, og kommunenes komdes om færre enn ti personer, med mindre
-petanse og kapasitet vektes med om lag 40 prosent. Med «høy andel innvandrerbefolkning»
-det foreligger særskilte forhold.
-menes det om lag 30 prosent.
-– Kommuner med mottak, inkludert samarbeidskommuner, skal vurderes for anmodning om bosetting.
+## Erfaringer med områdesatsinger
 
-–
+Det er gjennomført en rekke evalueringer og studier av områdesatsinger, både i Norge og internasjonalt. Resultatene fra studiene avhenger både av hvordan satsingene er innrettet, og av hvilke mål de har, av den lokale situasjonen og av studienes metoder. Resultatene er derfor dels motstridende og ikke nødvendigvis relevante for andre satsinger. Det er gjennomført få effektevalueringer (Andersen og Brattbakk 2020). En rekke metodiske utfordringer gjør det også vanskelig å måle effektene av slike satsinger (se f.eks. Brofoss og Barstad 2006). Nedenfor følger likevel noen utdrag fra resultater og diskusjoner om områdesatsingenes effekter.
 
-–
+### Erfaringer fra norske områdesatsinger
 
-–
+#### Den første Groruddalssatsingen
 
-3
+Den første Groruddalssatsingen hadde flere overordnede hovedmål og var delt inn i fire programområder med egne delmål. Evalueringen av satsingen var konsentrert om effektene innenfor de fire programområdene (Agenda Kaupang mfl. 2016).
 
-ger som gjøres av IMDi-representanter før
-avreise til Norge.3
-IMDi legger vekt på at hver kommune skal få et
-noenlunde representativt utvalg av de flyktningene som til enhver tid skal fordeles, og at
-enkeltkommuner over tid ikke skal få en uforholdsmessig stor eller liten andel av flyktninger med sammensatte utfordringer.
-IMDi tar særlige hensyn når de skal finne kommuner til flyktninger med store helseutfordringer eller flyktninger som trenger livreddende
-behandling. Videre tas det særlig hensyn til lesbiske, homofile, bifile, trans- intetkjønn-personer og til flyktninger der trusselbildet tilsier at
-de ikke bør plasseres i bestemte deler av landet. Dette siste kan for eksempel gjelde familievoldssaker.
-Dersom flyktningene allerede har nær familie i
-Norge, forsøker IMDi å plassere dem i nærheten av disse. Av hensyn til kommunenes praktiske tilrettelegging (for eksempel tolketjenester) forsøker IMDi også å unngå at det
-bosettes flyktninger fra altfor mange ulike opprinnelsesområder i samme kommune.
+Samlet sett mente utrederne at satsingen særlig hadde lyktes med å ruste opp det fysiske miljøet. Rundt 70 prosent av beboerne i områder som fikk tilskudd til områdeløft, mente at Groruddalen hadde fått bedre parker og turområder, mer attraktive boområder og generelt blitt et bedre sted å bo. Effekten på levekår var ikke like tydelig. Utrederne fant heller ikke at innbyggernes trivsel og tilknytning til boområdet har endret seg systematisk for Groruddalen generelt.
 
-I ny integreringslov som trer i kraft 1. januar 2021, er det
-vertskommuner for mottak som har fått ansvaret for kompetansekartleggingen av flyktninger i mottak.
+Utrederne pekte samtidig på at midlene i Groruddalssatsingen var små sammenliknet med øvrig ressursbruk i dalen. De viste til at Oslo kommune brukte cirka 5 milliarder kroner årlig på tjenesteproduksjon i bydelene og skrev: «Mens områdeløftet på Romsås har hatt budsjett på ca. 50 millioner kroner, har borettslagene på Romsås samtidig pusset opp for over 1 milliard kroner.» (ibid.) Enkelte offentlig ansatte mente at midlene i Groruddalssatsingen ble utjevnet ved at kriteriene for Oslo kommunes inntektsfordeling ble endret på samme tid, og at de ordinære midlene til Groruddalen da ble redusert (Gabrielsen 2014).
 
-–
-–
+Opprinnelig var det en intensjon at Groruddalssatsingen skulle jobbe for å påvirke store statlige infrastrukturprosjekter i Groruddalen. Denne strategien ble endret underveis. Evalueringen konkluderte med at satsingen i liten grad lyktes i å påvirke de store infrastrukturprosessene, men lyktes i å gjennomføre mindre prosjekter basert på lokale behov som trafikksikkerhet, støyskjermer mv. Målene for uteområder og kulturmiljø anså utrederne som nådd som en følge av de mange fysiske tiltakene som ble gjennomført. Utrederne mente at det åpenbart hadde blitt bedre forhold for friluftsliv, fysisk aktivitet og idrett. De kunne samtidig ikke svare tydelig på om de beste tiltakene var blitt prioritert. For bolig- og stedsutvikling mente de at det ble gjort mye godt arbeid, men at målene kan ha vært for ambisiøse. Erfaringer fra denne delen av programmet er også omtalt i kapittel 14.
 
-Andre faktorer kan også spille inn, for eksempel kommunenes tilgang på boliger og størrelsen på disse.
-IMDi opplever at både kommunene og flyktningene har ønsker, men understreker at kommunene ikke kan bestemme nasjonalitet eller
-kjønn på flyktningene. Kommunene skal
-bosette et representativt utvalg av den gruppa
-flyktninger som til enhver tid skal bosettes
-(ibid.).
+Selv om det ble gjennomført en rekke fysiske tiltak, var boligprisveksten i Groruddalen lavere enn gjennomsnittet i Oslo (ibid.). Det kan være en indikasjon på at satsingen ikke endret Groruddalens omdømme vesentlig. En undersøkelse av boligprisendringer i de fire områdene med områdeløft fant imidlertid at prisene økte i to av disse sammenliknet med prisnivået i andre deler av Groruddalen. I ett av områdene var det en tydelig negativ utvikling i prisforskjellen, mens prisforskjellen var tilnærmet uendret i det siste av områdene (Aarland mfl. 2017). Det kan indikere at områdeløft virker positivt for attraktiviteten og omdømmet.
 
-17.2 Virkninger av bosettingspolitikken
-Styrt og spredt bosetting har bidratt til at flyktninger i Norge bor over hele landet. Bosatte flyktninger bor mindre sentralt enn befolkningen generelt
-(Strøm mfl. 2020). Flyktningene blir også bosatt
-spredt i storbyene4 (Søholt mfl. 2020). Flyktninger og deres familiemedlemmer i Norge bor mer
-spredt enn personer med flyktningbakgrunn i de
-andre skandinaviske landene. Tabell 17.1 viser
-fordelingen av bosatte flyktninger og deres familiemedlemmer i Norge, Sverige og Danmark etter
-sentralitet for kohortene 2008–2016. I Norge ble
-om lag halvparten av flyktningene bosatt i sentrale
-4
+I evalueringen av Groruddalssatsingen mente utrederne at målene på utdanningsfeltet i noen grad var nådd, mens de på sysselsetting ikke var nådd. De viste til at det ble brukt betydelige midler til skole og barnehage, men lite til sysselsetting, helse, ungdomstilbud og kultur- og foreningsliv. Fram til 2014 ble 79 prosent av samlet ramme for delprogrammet om oppvekst, kultur og inkludering brukt på skole og barnehage. Over halvparten av midlene ble brukt på gratis kjernetid i barnehage. Utrederne fant positive resultater i elevenes leseferdigheter i løpet av satsingsperioden. De mente at det kunne tilskrives positive effekter av tiltakene i Groruddalssatsingen, men kunne ikke dra sikre slutninger om årsakene til utviklingen. Utrederne pekte på at innsatsen på sysselsetting og kvalifisering var begrenset (50 millioner kroner på ti år) og i hovedsak rettet mot utsatte og små grupper. De mente også at det var utfordrende å finne effekter på sysselsettingen selv om innsatsen kan ha gitt resultater for deltakerne innenfor de enkelte prosjektene (Agenda Kaupang mfl. 2016).
 
-Studien omhandler bosetting i Oslo, Bergen, Trondheim,
-Stavanger og Kristiansand.
+Utrederne var også av den oppfatningen at Groruddalssatsingen på visse måter bidro til innovasjon. Gratis kjernetid i barnehage og Alnaskolen var noen av eksemplene de trakk fram. Samtidig mente de at deler av satsingen i bunn og grunn hadde form av konvensjonelle tiltak som løsning på kjente problemer. De viste også til at gratis kjernetid i barnehage ikke var noe nytt i Groruddalssatsingen, men hadde vært prøvd i andre bydeler. Nyvinningen handlet derfor primært om at prosjektperioden var lengre enn tilsvarende forsøk hadde vært tidligere.
 
-[Side 261]
+Utrederne omtalte flere eksempler på tiltak hvor ulike delmål ble sett i sammenheng. Et eksempel på dette var at fysisk opprusting av uteområder kunne støtte opp om mål om folkehelse og deltakelse. Det mente utrederne viste at det var samspill mellom programområdene som sannsynligvis ga satsingen en merverdi. Utrederne viste videre til at det over tid utviklet seg en rollefordeling mellom bydelene og kommunens etater som opplevdes som en nyvinning av de involverte aktørene. De mente at det ga medvirkningsprosesser som sikret bedre forankring i lokale behov og ønsker (ibid.). Flere informanter ga uttrykk for at satsingen hadde gitt bydelene et større spillerom og muligheter til å påvirke kommunens planprosesser. Samtidig fortalte informanter i bydelene også at det var utfordrende å koordinere tiltak. En utfordring var at sosiale tiltak kan ta lengre tid å iverksette, gjennomføre og evaluere enn fysiske tiltak. Videre opplevde noen at tiltakene innenfor satsingen ikke var godt nok koordinert med det eksisterende bydelsarbeidet (Gabrielsen 2014).
 
-259
-
-NOU 2020: 16
-Levekår i byer
-
-Kapittel 17
-
-Tabell 17.1 Bosatte flyktninger og familiemedlemmer til flyktninger i Sverige, Danmark og Norge etter
-sentralitet. 2008–2016. Prosent.
-Hovedstadsområdet
-
-Andre
-større byer
-
-Byer
-
-Tettsteder
-
-Minst sentrale
-kommuner
-
-Sverige (150 258 personer)
-
-15,6
-
-10,9
-
-45,5
-
-18,3
-
-9,8
-
-Danmark (21 683 personer)
-
-8,4
-
-20,3
-
-19,0
-
-39,0
-
-13,3
-
-Norge (47 792 personer)
-
-10,5
-
-16,3
-
-22,1
-
-26,2
-
-24,9
-
-Kilde: Hernes mfl. 2019.
-
-kommuner og den andre halvparten i mindre sentrale kommuner. Andelen i Danmark som ble
-bosatt i sentrale kommuner var omtrent som i
-Norge, mens i Sverige ble nesten tre av fire (72
-prosent) bosatt i sentrale strøk. I Norge ble også
-relativt mange bosatt i de minst sentrale kommunene (25 prosent). I Sverige ble bare om lag 10
-prosent av flyktningene bosatt i de minst sentrale
-kommunene, mens andelen i Danmark var 13 prosent (Hernes mfl. 2019).
-Over tid har det variert hvor mange kommuner som har blitt bedt om å bosette, noe som igjen
-avhenger av hvor mange flyktninger som skal
-bosettes. I perioder hvor det kommer færre flyktninger, blir færre kommuner forespurt. Tidligere
-ble ikke de minste kommunene bedt om å
-bosette. 2014 var det første året noensinne hvor
-staten ba alle landets kommuner om å bosette
-flyktninger. I de seneste årene er det igjen færre
-kommuner som blir spurt.
-I en studie av bosettingskommune og integreringsutfall er det gjort empiriske analyser som
-omfatter flyktninger som ble bosatt med offentlig
-hjelp i kommunene i perioden fra og med 2002 til
-og med 2012 (Tønnessen og Andersen 2019).
-Kommuner som bosetter flyktninger, er plassert i
-SSBs sentralitetsindeks5, som måler kommuners
-sentralitet beregnet ut fra avstand til tettsteder og
-disse tettstedenes størrelse. Studien viser at 57
-prosent av flyktningene ble bosatt i de mest sentrale kommunene (nivå 3), hvorav 7 prosent i
-Oslo. 21 prosent ble bosatt i noe sentrale kommuner (nivå 2), 10 prosent i mindre sentrale kommuner (nivå 1) og 11 prosent i de minst sentrale kommunene (nivå 0).
-Hvilke grupper av flyktninger som blir bosatt
-hvor, er ikke tilfeldig (Tønnessen og Andersen
-2019). Det kan påvirke flyktningenes integrering i
-Norge. For eksempel blir høyt utdannede flyktninger og kvinner oftere bosatt i sentrale, folkerike
-5
-
-Versjon fra 2008.
-
-kommuner med høyt utdannings- og inntektsnivå
-og en høy andel innvandrere. Barnefamilier og
-overføringsflyktninger blir i større grad bosatt i
-mindre sentrale kommuner med lavere folketall
-og lavere inntekts- og utdanningsnivå. I perioder
-hvor det kommer mange flyktninger, finner forskerne at det er færre systematiske forskjeller i
-hvem som bosettes hvor (ibid.).
-Det finnes relativt begrenset kunnskap om hva
-som er den direkte effekten av å bli bosatt i en gitt
-type kommune. Det samme gjelder for en rekke
-andre integreringstiltak (Integrerings- og mangfoldsdirektoratet 2019). Man vet altså lite om hva
-bosettingskommunen, og implisitt bosettingspolitikken, isolert sett har å si for langsiktig integrering.
-Av analysene i Tønnessen og Andersen (2019)
-framgår det at flyktninger som blir bosatt i mer
-sentrale kommuner (nivå 2 og 3), i mindre grad er
-i jobb og i høyere grad er utenfor arbeidsmarkedet. For dem som ble bosatt i Oslo, er det et tilsvarende (om enn enda tydeligere) mønster. De har
-mindre sannsynlighet både for å være i jobb og for
-å være registrert ledige og større sannsynlighet
-for å være utenfor arbeidsmarkedet enn de som
-ble bosatt i andre kommuner. Disse resultatene
-støtter bildet fra tidligere norske studier (Lillegård og Seierstad 2013 og Djuve mfl. 2017) som
-også fant at sannsynligheten for å lykkes på
-arbeidsmarkedet var høyere for flyktningene som
-ble bosatt i de minst sentrale kommunene. En studie som sammenlikner integreringsutfall i Norge,
-Sverige og Danmark, viser imidlertid det motsatte
-(Hernes mfl. 2019). Den finner at i alle tre land
-har flyktninger som er bosatt i hovedstedene, høyest sysselsetting. Videre finner den at de som er
-bosatt i de minst sentrale kommunene i Norge (og
-Danmark), har lavest sysselsetting. Dette gjelder
-riktignok bare for menn. For kvinner fant de
-ingen forskjeller i sysselsettingen i ulike kommuner (ibid.). Årsaker til at funnene spriker kan være
-at sentralitet er ulikt definert i de to studiene, at
-
-[Side 262]
-
-260
-
-Kapittel 17
-
-NOU 2020: 16
-Levekår i byer
-
-Boks 17.2 Politikken for bosetting av flyktninger i Sverige
-som områder med sosiale og økonomiske utforSverige har en todelt ordning for bosetting av
-flyktninger. Asylsøkere kan finne egen bolig
-dringer, kan miste retten til midler til livsoppmens de venter på å få asylsøknaden behandlet.
-hold fra det svenske Migrationsverket. De nye
-Ordningen kalles «eget boende» (EBO). Retten
-reglene gjelder ikke for asylsøkere som allerede
-til «eget boende» beholder de etter at de har fått
-bor i slike områder. I dag er det 32 kommuner
-oppholdstillatelse. EBO kombineres med en
-som kan melde inn til Migrationsverket om de
-ordning der staten fordeler flyktninger som ikke
-har ett eller flere områder i kommunen med
-bosetter seg selv, i kommunene. Ordningen
-sosiale utfordringer. Det er den svenske regjemed statlig tilvising ble innført i 2016 og likner
-ringen som bestemmer hvilke kommuner som
-den danske bosettingsordningen (Hernes mfl.
-er med i ordningen. 25 av de 32 kommunene har
-2019). Når flyktninger blir fordelt mellom komoppgitt at de har områder med sosiale og økonomunene, legges det vekt på arbeidsmarkedet i
-miske utfordringer. En oversikt over områdene
-kommunene, innbyggertall, sammensetningen
-er publisert på nettsiden til Migrationsverket.
-av flyktninger og enslige mindreårige flyktninSverige har ingen restriksjoner mot sekunger og antallet asylsøkere som bor i kommudærflytting, slik man har i Norge (og Danmark).
-I Sverige flytter flyktninger som er bosatt med
-nen.1 Tidligere ble flyktninger som ikke bosatte
-offentlig hjelp, i høyere grad enn dem som har
-seg selv, bosatt gjennom en ordning som likner
-bosatt seg selv (Hernes mfl. 2019).
-den norske. Kommunene kunne da velge om de
-ville ta imot flyktninger (Hernes mfl. 2019).
-Fra 1. juli 2020 ble det innført nye regler for
-1
-asylsøkere som bosetter seg selv (EBO). AsylKilde: Den svenske loven om bosetting av visse nyankomne innvandrere (lov 2016:38).
-søkere som flytter til områder som er definert
-
-rapportene omhandler ulike kohorter av flyktninger og at sekundærflyttingen er redusert over tid,
-noe som kan ha påvirket om funnene er sammenliknbare.
-Det er godt dokumentert at det er mindre
-sannsynlig at flyktninger kommer i jobb i kommuner med høyere arbeidsledighet (se for eksempel
-Bevelander og Lundh (2007), Åslund og Rooth
-(2007) og Åslund, Östh og Zenou (2010) for studier fra Sverige. Se Godøy (2017), Lillegård og
-Seierstad (2013), Blom og Enes (2015), Tronstad
-(2015) og Djuve og medforfattere (2017) for studier fra Norge).
-Boligmangel er ofte en flaskehals i bosettingsarbeidet (Berg og Svendsen 2018). Få kommuner
-har utarbeidet planer og rutiner for å skaffe boliger, og mange kommuner har begrenset kunnskap om og hvordan de kan bruke Husbankens
-boligsosiale virkemidler. I tillegg kan flyktninger
-ha lite kunnskap om hvordan de kan komme seg
-videre i boligmarkedet (ibid.).
-At flyktninger flytter fra bosettingskommunen.
-kalles sekundærflytting. Retten (og plikten) til å
-delta i introduksjonsprogrammet gjelder bare for
-personer som er bosatt i kommunen etter avtale.
-Det betyr at flyktninger mister retten til å delta i
-
-introduksjonsprogrammet hvis de flytter fra
-bosettingskommunen før de har fullført programmet. Sekundærflyttingen ble redusert med innføringen av denne regelen og skjer i all hovedsak
-etter at introduksjonsprogrammet er avsluttet.
-Den siste undersøkelsen av flyktningers sekundærflytting viser at stadig færre flyktninger flytter
-fra bosettingskommunen (Strøm mfl. 2020). Samtidig har mange distriktskommuner begrensede
-muligheter til å tilby høyere utdanning. Ønsket
-om å ta mer utdanning er derfor en viktig flyttegrunn for en del flyktninger (Svendsen mfl. 2017,
-referert i Berg og Svendsen 2018).
-Flyktninger har et mer sentraliserende flyttemønster enn både andre innvandrergrupper og
-den øvrige befolkningen (Ordemann 2017, Stambøl 2016, Strøm mfl. 2020). Flyttestrømmene går
-fra mindre til mer sentrale strøk. Oslo er den kommunen som opplever størst tilflytting. Flyktninger
-bosatt i Oslo flytter også i mindre grad videre til
-en ny kommune. Andelen som flytter videre i
-løpet av de første fem årene, har grovt sett ligget
-mellom 20 og 40 prosent de siste 20 årene (Tønnessen og Andersen 2019). Fem år etter bosetting
-er det likevel en mindre andel av personer med
-flyktningbakgrunn som bor i de mest sentrale
-
-[Side 263]
-
-NOU 2020: 16
-Levekår i byer
-
-kommunene, sammenlignet med hele befolkningen (Strøm mfl. 2020).
-Flyttemønsteret til personer med flyktningbakgrunn har altså endret seg over tid. Det
-sterkt sentraliserende flyttemønsteret har avtatt
-noe. Flyttingen til Oslo er også redusert med
-årene (ibid.).
-En del studier har sammenliknet overgangen
-til arbeid blant dem som flytter, og dem som blir
-boende. Resultatene er sprikende. Djuve og medforfattere (2017) finner at flyktninger som flytter,
-har høyere overgang til arbeid enn de som ikke
-flytter, noe som kan tyde på at deltakerne i noen
-grad flytter til arbeid. På den annen side finner
-Blom og Enes (2015) at de som flytter, har lavere
-odds for å være i arbeid eller utdanning sammenliknet med dem som blir boende. Denne sammenhengen ses imidlertid bare blant kvinnene, og forfatterne antyder at dette kan henge sammen med
-at blant par som flytter, har mannens jobbmuligheter forrang over kvinnens (Tønnessen og Andersen 2019). Også Hernes og medforfattere (2019)
-finner at de som flytter, har lavere sannsynlighet
-for å være i jobb enn de som blir.
-Den siste undersøkelsen av flyktningers flytting ser på hvordan det økonomisk går med dem
-som flytter, sammenlignet med dem som blir
-boende i bosettingskommunen (Strøm mfl. 2020).
-Det gir et noe blandet bilde. I noen kohorter får
-de som flytter lavere inntekt over tid. I andre
-kohorter er det mindre økonomiske forskjeller
-mellom de som flytter og de som blir. Forskjellene
-i inntektsutvikling mellom kohorter skyldes trolig
-ulik demografisk sammensetning. I tillegg kan det
-være forskjeller i de økonomiske konjunkturene
-som møter de ulike kohortene (ibid.).
-Nettverk er en annen faktor som ofte brukes
-som forklaring både på at man ønsker å bli i kommunen, og som motiv for å flytte (Svendsen mfl.
-2017). Søholt og medforfattere (2012) finner at
-innvandrere med stort sosialt nettverk, som også
-inkluderer personer uten innvandrerbakgrunn, er
-de som trives best på stedet (ibid.).
-I storbyene kan det å bosette flyktningene
-spredt i byen øke sjansen for at flyktningene blir
-sosialt inkludert i nabolaget og i skole, barnehage
-og idrettslag (Søholt mfl. 2020).
-
-17.3 Utvalgets vurderinger
-17.3.1 Flyktninger bør ikke bosettes
-i levekårsutsatte områder
-I det store og hele oppfatter utvalget prinsippene for
-fordeling av flyktninger som hensiktsmessige.
-
-261
-
-Kapittel 17
-
-Målet om at flyktninger skal bo spredt i store deler
-av landet, ser ut til å nås langt på vei. Dersom flyktningene selv hadde fått velge helt hvor de skulle
-bo, viser erfaringer fra sekundærflytting i Norge og
-fra andre land at mange ønsker å bo i byene. Utvalget støtter hovedlinjene i den norske bosettingspolitikken og mener at nyankomne flytninger fortsatt
-bør bosettes spredt gjennom en styrt ordning.
-Flyktningers muligheter til å ta utdanning eller få
-arbeid i regionen er sentrale hensyn når flyktningene skal bosettes, men også viktige for at de skal
-bli boende. Det er også viktig å se hen til resultater
-i introduksjonsordningen over tid.
-Utvalget har merket seg at en del flyktninger
-som er bosatt på mindre steder, over tid flytter til
-byene uten at dette nødvendigvis henger sammen
-med at de kommer i arbeid eller utdanning. Utvalget viser til at blant flyktninger som flytter, er det
-en del som ender opp med lavere inntekt enn dem
-som blir boende i kommunene. Hvis flyktninger
-ikke kommer i jobb, kan det å flytte til de større
-byene derfor bidra til å forsterke vanskelige levekår, særlig fordi boligprisene er høyere og flere
-bor trangt.
-Selv om flyktninger i mindre grad i dag enn
-tidligere flytter til de største byene, bør det tilstrebes innsats for at flere flyktninger kan bli boende i
-arbeidsmarkedsregionen der de opprinnelig ble
-bosatt. Unntaket er om de flytter til arbeid eller
-utdanning. For å lykkes med dette er det viktig
-med helhetlig innsats for at flyktningene skal bli
-integrert i lokalsamfunnene og føle at de hører til
-der de bor.
-Utvalget vil samtidig understreke at det kan
-være positivt hvis flyktninger som ikke er i jobb,
-flytter til steder der det er jobb eller mulig å ta
-utdanning. Dette er bra for flyktningene, og det er
-bra i et samfunnsperspektiv.
-Utvalget mener det er viktig å arbeide for at
-flyktninger og andre innvandrere blir inkludert på
-arenaer i lokalsamfunnene. På mange steder, også
-i byer, kan nettverkene være ekskluderende og
-vanskelige å komme inn i. Innvandrere føler seg
-gjennomgående mer ensomme sammenliknet
-med hele befolkningen. Særlig for familier med
-barn er det viktig at barna får delta i aktiviteter på
-fritiden, slik at både barna og foreldrene kan
-komme i kontakt med andre. Innsats for at flyktninger får nettverk og blir inkludert på sentrale
-arenaer i lokalsamfunnet, mener utvalget også vil
-være viktig for å forebygge at flyktninger flytter
-fra kommunen.
-At flyktninger bosettes raskt, er en forutsetning for at de tidlig får etablert seg i en kommune.
-De voksne kan raskt begynne å kvalifisere seg for
-
-[Side 264]
-
-262
-
-Kapittel 17
-
-NOU 2020: 16
-Levekår i byer
-
-arbeid, og barna kan begynne på skole og i barnehage i den kommunen de skal bo. Familien kan bli
-kjent, delta i lokale aktiviteter og få nettverk. For å
-bosette flyktninger raskt er det, i tillegg til å bruke
-kommunale utleieboliger, viktig å utnytte det private leiemarkedet for å skaffe boliger. Flere av
-utvalgets forslag til tiltak på boligområdet, som å
-redusere kommunenes kostnader ved å spre kommunale boliger og kvalitetssjekk av utleieforhold
-med husleiestøtte, vil kunne ha effekt.
-I perioder hvor mange flyktninger skal bosettes, kan målet om å bosette raskt komme i konflikt
-med målet om å bosette flyktninger på steder der
-det er gode muligheter for å få arbeid eller ta
-videre utdanning etter introduksjonsprogrammet. Svingninger i hvor mange flyktninger som
-skal bosettes, gjør arbeidet uforutsigbart. Selv om
-antallet flyktninger til Norge for tiden er lavt, øker
-antallet flyktninger i verden. Antallet som kommer til Norge, kan igjen øke i framtiden. En mulig
-strategi for å lette overgangen fra å bosette få til å
-bosette mange flyktninger kan være at staten opprettholder et visst antall kommuner som bosetter
-flyktninger også i perioder hvor det kommer få.
-Slik kan man beholde kompetanse og kapasitet i
-kommunene.
-Mange flyktninger trenger hjelp til å komme
-seg videre i det lokale boligmarkedet. For å bidra
-til at flere kan velge å bli boende i kommunen,
-mener utvalget det er viktig å sørge for at flyktninger får hjelp med dette, særlig hvis de etter hvert
-har behov for en mer egnet bolig. At flyktninger
-flytter fra den boligen de fikk tildelt i kommunen
-da de ble bosatt, kan også bidra til å frigjøre kom-
-
-munale boliger som kan brukes til andre. På mindre steder er boligprisene også jevnt over lavere
-enn i byer. Det kan dermed være lettere å etablere
-seg i en eid bolig eller i en større bolig på mindre
-steder enn i områder med høyere boligpriser.
-Utvalget har ikke gått inn i ordningen med
-avtalt selvbosetting. Men utvalget mener at resultater fra ordningen bør utredes. Særlig bør man se
-på om ordningen klarer å spre flyktninger både
-mellom kommuner og arbeidsmarkedsregioner
-og internt i byene.
-Selv om utvalget støtter hovedlinjene i den norske bosettingspolitikken, mener utvalget at kommunene bør forsøke å unngå å bosette flyktninger
-i områder hvor det er opphoping av levekårsproblemer.
-
-17.4 Utvalgets forslag til tiltak
-17.4.1 Nytt kriterium om at flyktninger ikke
-bør bosettes i utsatte områder
-For å oppnå bedre sosial miks i byene foreslår
-utvalget å legge til et nytt kriterium om at det som
-hovedregel ikke skal bosettes flyktninger i områder med opphoping av levekårsutfordringer.
-Utvalget mener at slike levekårsutsatte områder
-bør defineres ut fra et sett av indikatorer. Eksempler kan være andel personer eller barn i lavinntektshusholdninger, andel sosialhjelpsmottakere
-og/eller andel med minst 50 prosent av inntekten
-fra overføringer. En annen aktuell indikator er
-andel utenfor arbeid og utdanning.
-
-[Side 265]
-
-NOU 2020: 16
-Levekår i byer
-
-263
-
-Kapittel 18
-
-Kapittel 18
-
-Kriminalitetsforebygging – med vekt på virkemidler i
-justissektoren
-Det å vokse opp i familier med sosiale og økonomiske problemer kan øke sannsynligheten for at
-barn og unge utvikler problematferd og i ytterste
-konsekvens begår kriminalitet. Nabolagsstudier
-fra flere land viser at det er mer sannsynlig at barn
-som vokser opp i nabolag med store levekårsutfordringer og høy kriminalitet, selv begår kriminalitet. At kriminaliteten blant barn og unge både
-ser ut til å øke og bli grovere, krever forebyggende innsats.
-Den viktigste forebyggende innsatsen skjer på
-arenaer hvor barn og unge oppholder seg og deltar til daglig. Innsats innen en rekke sektorer som
-ikke har det å forebygge kriminalitet som sin
-hovedoppgave, men som likevel virker kriminalitetsforebyggende, er aller viktigst. Slik innsats er
-omtalt i tidligere kapitler. Men flere aktører i justissektoren har også en forebyggende rolle.
-
-18.1 Bred innsats for å forebygge
-kriminalitet
-Begrepet «kriminalitetsforebygging» brukes om
-innsats og tiltak der formålet er å være i forkant
-og forhindre at kriminalitet skjer eller gjentas.
-Begrepet kan forstås på ulike måter. En smal
-forståelse av kriminalitetsforebygging dekker innsats som direkte har som formål å forhindre kriminalitet, for eksempel å installere boligalarmer,
-overvåkningskameraer eller gjennomføre fartskontroll.
-En vid forståelse av begrepet dekker innsats
-og tiltak rettet mot atferd og risikofaktorer der kriminalitet på sikt er ett av flere mulige utfall. Å forebygge handler i et slikt perspektiv om å legge til
-rette for et trygt samfunn med gode levekår for
-alle og om å bygge gode samfunn der menneskene tar ansvar for seg selv og fellesskapet. Innsatsen skal hindre at grupper og individer opplever å bli ekskludert og marginalisert.
-
-Politiet er en viktig aktør, men på langt nær
-den eneste eller viktigste. Det kreves tidlig innsats på flere områder og fra et bredt sett av aktører. Arbeidet med å forebygge kriminalitet skjer
-på såkalt byggende arenaer. Dette kan være for
-eksempel skoler, barnehager og fritidsaktiviteter.
-Kriminalitetsforebygging handler også om gi
-gode, rehabiliterende tilbud til lovbrytere for å
-hindre at de begår kriminalitet på nytt. Alt kriminalitetsforebyggende arbeid krever at aktører i
-ulike samfunnssektorer samarbeider og samhandler godt på tvers.
-Skolen er en viktig arena for å forebygge kriminalitet. En god skolesituasjon kan, sammen
-med et positivt fritidsmiljø, kompensere for vanskelige hjemmeforhold. Å delta i og fullføre videregående skole ses på som et av de aller viktigste
-tiltakene for å forebygge kriminalitet (Bertrand
-mfl. 2019, referert i Strand og Kindt 2019). Dette
-bekreftes av flere nordiske studier som ser på
-sammenhengen mellom videregående opplæring
-og kriminalitet.
-Forskningslitteraturen gir ikke alltid klare
-svar på hvilken effekt konkrete, kriminalitetsforebyggende tiltak og programmer har (Runhovde
-og Skjevrak 2018). Et eksempel er spørsmålet om
-fritidsklubber kan forebygge kriminalitet (Strand
-og Kindt 2019). Enkelte studier tyder på at unge
-som er med i fritidsklubber, er mer involvert i kriminalitet og hærverk enn andre. Det kan skyldes
-seleksjon, altså at det ikke er tilfeldig hvem som
-går på klubbene. Å møte og henge med andre
-ungdommer med utfordringer kan gjøre det mer
-sannsynlig å havne i problemer. Men fritidsklubbene kan også fungere positivt og forebyggende
-for utsatte barn og unge. Fritidsklubber med høy
-voksentetthet, ansatte med høy faglig kompetanse
-og personlige egenskaper for å møte barn og
-unge og strukturerte aktiviteter kan spille en forebyggende rolle i unges liv.
-
-[Side 266]
-
-264
-
-Kapittel 18
-
-NOU 2020: 16
-Levekår i byer
-
-18.2 Politiets virkemidler for å
-forebygge kriminalitet
-Å forebygge kriminalitet er en viktig del av politiets samfunnsoppdrag. Et definert mål med politireformen har vært å få et politi som har kapasitet
-og kompetanse til å forebygge. Forebygging skal
-være politiets primærstrategi innenfor alle politiets virkeområder, og politiet skal aktivt søke samarbeid med andre relevante aktører både i offentlig og privat sektor.
-
-18.2.1 Politiets generelle arbeid med å
-forebygge kriminalitet
-Politiets arbeid med å forebygge kriminalitet kan
-deles i to hovedstrategier (Runhovde og Skjevrak
-2018). Den første er det proaktive arbeidet. Dette
-er generelle forebyggende tiltak som synlig politi,
-tilstedeværende polititjeneste, holdningsskapende
-arbeid og sosiale tiltak rettet mot risikoutsatte
-grupper og enkeltpersoner (forebyggingssporet).
-Den andre strategien er det reaktive arbeidet med
-straffesaker og påtale (straffesakssporet).
-Politiets kriminalitetsforebyggende arbeid har
-tradisjonelt foregått overfor barn og unge (POD
-2018). Arbeidet overfor disse er høyt prioritert. I
-henhold til politiforskriften skal politiet samarbeide tett med skoler og ulike kommunale instanser. Politiet skal bidra med å kartlegge enkelte
-ungdommer og ungdomsmiljøer og melde fra om
-bekymringsfulle forhold.1 Politiet bruker flere virkemidler overfor ungdom, for eksempel holdningsskapende barne- og ungdomsarbeid i skoler
-og bekymringssamtaler. Bekymringssamtaler er
-politiets verktøy for å snakke med unge og deres
-foresatte om risikoatferd og kriminalitet. Verktøyet brukes både som en reaksjon på uønsket
-atferd og for å kartlegge og identifisere risiko- og
-beskyttelsesfaktorer i den unges liv. Gjennom
-samtalen skal den unge og de foresatte gjøres
-ansvarlige for å forebygge en framtidig kriminell
-atferd.2
-Arbeid for å forebygge radikalisering og voldelig ekstremisme har vært prioritert de siste årene,
-og ifølge Politidirektoratet (POD) er Norge internasjonalt anerkjent for arbeidet som gjøres på
-området (POD 2018).
-I kriminalitetsforebyggende arbeid samhandler politiet med ulike offentlige og private aktører.
-SLT-modellen skal samordne rus- og kriminalitetsforebyggende tiltak for barn og unge. Målet er
-1
-2
-
-Kriminalitetsforebygging.no og NOU 2019: 26.
-Kriminalitetsforebygging.no.
-
-at barn og unge skal få riktig hjelp til riktig tid av
-et hjelpeapparat som samarbeider godt på tvers av
-etater og faggrupper. Modellen skal sørge for å
-koordinere kunnskap og ressurser mellom politi
-og relevante kommunale enheter. Også næringsliv og frivillige organisasjoner er med i arbeidet.
-En SLT-koordinator sikrer at alle som driver med
-rus- og kriminalitetsforebyggende arbeid, møtes
-regelmessig, oppnår en felles problemforståelse
-og samordner tiltakene sine. I dag bruker om
-lag 200 kommuner SLT-modellen.3
-Politirådet er et forum for samarbeid mellom
-den øverste ledelsen i kommunen og lokalt politi.
-Rådet skal være et strategisk organ for det lokale,
-kriminalitetsforebyggende arbeidet. Det skal
-sikre at politiet og kommuner deler kunnskap og
-erfaringer, og at kunnskapen om lokale problemer
-skal føre til at innsatsen fra politiet og kommunen
-samordnes. Alle saker som er strategisk viktige
-for samarbeidet mellom kommune og politi, skal
-behandles i politirådet. Slike saker kan handle om
-oppvekst og levekår, barnevern, fritid, organisert
-kriminalitet, trafikkforhold og samferdsel, narkotikasituasjonen, integreringsspørsmål og store
-arrangementer der politiet skal involveres. SLTkoordinatoren i kommunen deltar i politirådet.
-Alle kommuner skal ha en politikontakt som
-skal være et fast kontaktpunkt mellom politi, kommunen, næringsliv, frivillige organisasjoner og
-andre lokale aktører. Politikontakten skal sørge
-for at kriminalitetsforebyggende strategier blir
-fulgt opp, og være en pådriver for at politiråd og
-SLT-samarbeid fungerer i den enkelte kommune.
-Politikontakten skal være uniformert og til stede i
-hver kommune en eller flere dager i uka, også i
-kommuner som ikke har et lensmannskontor eller
-politistasjon.
-Forskningslitteraturen antyder at det mangler kunnskap om det forebyggende arbeidet
-med barn og unge, særlig om hva som virker og
-ikke virker (Runhovde og Skjevrak 2018). Blant
-annet har et velbrukt tiltak som bekymringssamtalen aldri blitt grundig evaluert. Runhovde og
-Skjevrak peker da også på et dilemma med
-bekymringssamtalen. Tidlig intervensjon gjennom bekymringssamtalen er i mange tilfeller et
-sentralt grep for å få ungdommen på riktig spor.
-Samtidig må politiet være bevisst på hvilke konsekvenser det kan ha for en ungdom at virkemidlet blir brukt. Fra politiets ståsted kan samtalen
-virke harmløs og framstå som et nødvendig tiltak
-for å hjelpe. For den enkelte ungdom kan det å
-bli kalt inn til samtale føles som et belastende
-3
-
-Ibid.
-
-[Side 267]
-
-NOU 2020: 16
-Levekår i byer
-
-265
-
-Kapittel 18
-
-Boks 18.1 Politiets innsats i særlig utsatte områder i Sverige
-Noen områder i Sverige er av politiet definert
-om det er blitt verre i enkelte (Polisen 2019).
-som særlig utsatte. Siden 2015 har disse områPolitiet opplever generelt mindre vold og færre
-åpne konfrontasjoner i utsatte områder. Antallet
-dene blitt høyt prioritert med ekstra økono«høyt prioriterte oppdrag» er gått ned i de
-miske ressurser og ekstra innsats og tilstedevæutsatte områdene. Andelen slike oppdrag er likerelse (Polisen 2017). Å samarbeide mot felles
-vel høyere i områdene enn i resten av landet.
-mål med ulike offentlige og lokale aktører og å
-Politiet kan i dag lettere utføre oppdraget sitt i
-sikre kontinuitet i den innsatsen som settes inn,
-områder, og de opplever at beboerne samarbeihar fått særlig vekt.
-Politiet ser det som sin viktigste oppgave å
-der mer. Samarbeidet med andre aktører og
-skape tillit. Dette handler om at beboerne i
-offentlige instanser er blitt bedre. Det at ulike
-områdene skal føle seg trygge, tørre å være en
-aktører har evnet å organisere og systematisere
-motkraft mot de kriminelle og våge å «ta tilsamarbeid bedre, kan igjen ha ført til at de, både
-sammen og individuelt, har satt i gang forskjelbake» området sitt. For å bygge tillit har politiet
-vært til stede, drevet kontaktskapende politiarlige tiltak for å forbedre forholdene i boligmilbeid og jobbet aktivt mot å fjerne den synlige
-jøet. At politiet har vært mer til stede i områkriminaliteten, for eksempel salg av narkotika
-dene, er uansett løftet fram som en viktig sukpå åpen gate. Politiet har prioritert å bygge opp
-sessfaktor.
-kunnskap om områdene. Det har de gjort både
-Selv om utviklingen går i riktig retning,
-ved å møte og snakke med beboere, kartlegge
-mener politiet at arbeidet med å redusere de kriområdene og samarbeide med andre offentlige
-minelles innflytelse i områdene må fortsette i
-aktører og forskere. Videre har politiet initiert
-lang tid framover (Polisen 2019). Problemene
-nattevandringer og på den måten mobilisert forhar fått utvikle seg over lang tid. Å løse utforeldre og andre voksne i områdene.
-dringene krever større strukturelle og sosiale
-Politiet mener at situasjonen i mange av de
-tiltak fra flere aktører i tillegg til politiinnsatsen.
-utsatte områdene har gått i positiv retning, selv
-
-inngrep. Ungdommen kan føle seg stemplet som
-en avviker. Det kan dermed være en fare for at
-samtalen kan få motsatt effekt av den som er
-ønsket (ibid.).
-Politirådene ble evaluert i 2014 (Rambøll
-2014). Evalueringen viser at det er utfordrende å
-tenke langsiktig og gjøre gode, strategiske beslutninger i politirådet. Det gjør det krevende å koordinere arbeidet på en god måte. Videre peker evalueringen på at arbeidet i politirådet er for overordnet og for lite konkret og operativt. Det er også
-for svakt knyttet til utfordringene i lokalsamfunn.
-Dermed er det vanskelig å reagere raskt og sette i
-verk målrettede tiltak mot konkrete problemer.
-Evalueringen viser dessuten at rådets arbeid bør
-forankres bedre i politiets og kommunens øverste
-ledelse. SLT-koordinatorens rolle blir trukket
-fram som viktig i forholdet mellom politirådet og
-SLT-modellen. Koordinatoren er et effektivt bindeledd mellom det strategiske nivået i politirådet
-og det handlingsorienterte og konkrete arbeidet
-med å forebygge kriminalitet i kommunen.
-En evaluering av SLT-modellen fra 2008 ser på
-organiseringen av og samarbeidet innenfor
-
-modellen, men ikke på om den har den forebyggende effekten den skal ha (Gundhus mfl. 2008).
-Evalueringen viser til at modellens styrke er at
-den gjør det mulig å møte en økende grad av fragmentering innenfor det offentlige. Samtidig bidrar
-den til å opprettholde politiet som en viktig del av
-lokalsamfunnet og til å ivareta innbyggerne der.
-Brukerperspektiver og brukermedvirkning er i
-liten grad ivaretatt i tiltak og i evalueringer (Runhovde og Skjevrak 2018). Et poeng evalueringen
-tar opp om SLT-modellen, er at ungdom i liten
-grad deltar og medvirker i arbeidsutvalgene, og at
-det heller ikke er prosesser som sikrer at deres
-stemme blir hørt.
-
-18.2.2 Politiets innsats i større byer og utsatte
-byområder
-De siste årene har politiet arbeidet med å forebygge kriminalitet i særlig utsatte områder. Innsatsen skjer i sammenheng med konkrete områdesatsinger. Denne innsatsen skal forebygge kriminalitet og skal særlig følge opp unge i risiko-
-
-[Side 268]
-
-266
-
-Kapittel 18
-
-NOU 2020: 16
-Levekår i byer
-
-Boks 18.2 Skjerpede straffesoner i
-Danmark
-Danmark innførte skjerpede straffesoner i
-desember 2018. Dette er ikke et permanent tiltak i Danmarks «getto»-områder, men et tidsavgrenset tiltak som settes inn i konkrete
-områder for å håndtere en ekstraordinær situasjon. For å innføre skjerpet straffesone i et
-område må politiet vurdere at det er et ekstraordinært kriminalitetsbilde i området, og om
-dette i vesentlig grad gjør innbyggerne i områdene utrygge. Å innføre skjerpet straffesone i
-et område må i tillegg vurderes som et egnet
-verktøy for å gjenopprette tryggheten. En
-skjerpet straffesone kan i utgangspunktet ikke
-vare mer enn i tre måneder. Hvis det fortsatt
-er et ekstraordinært kriminalitetsbilde som er
-likt det som dannet grunnlag for å opprette
-sonen, kan det gjøres unntak.
-Ordningen i Danmark er fortsatt relativt
-ny, og det er trolig for tidlig å konkludere med
-om den har fungert etter intensjonen.
-
-sonen og forhindre at unge rekrutteres til kriminelle miljøer.
-Siden 2017 er det lagt ned en ekstra innsats for
-å forebygge kriminalitet i Oslo indre øst. Målet
-med innsatsen har vært at politiet skal være sterkere til stede i utsatte områder, at de kan følge
-unge i risikosonen tettere opp, og at de kan samarbeide bedre med andre aktører, for eksempel skolen. Politiinnsatsen i Oslo sør ble styrket i 2018 og
-senere videreført for å følge opp unge i risikosonen og forhindre at unge blir rekruttert til kriminelle miljøer. I 2019 lanserte regjeringen en ny
-satsing mot ungdoms- og gjengkriminalitet i noen
-store byer. Satsingen ble videreført i 2020.
-Justis- og beredskapsdepartementet jobber for
-tiden med en handlingsplan mot barne- og ungdomskriminalitet.
-Gerell og medforfattere (2020) peker på at
-det er viktig å styrke den institusjonelle evnen til
-å stoppe kriminalitet og vold for å skape en
-grunnleggende trygghet blant innbyggerne. Da
-skapes samtidig grunnlaget for å utvikle innbyggeres egne evner og kollektive evne til å gripe
-fatt i uønsket aktivitet i bomiljøet sitt. Når færre
-er redde og flere har tillit til politiet, våger flere å
-gripe inn, anmelde og vitne. De viser til politiets
-rolle i utsatte områder med særlig vekt på
-«community policing». Det lokale politiarbeidet
-
-forsøker å involvere lokalsamfunnet for å identifisere problemene beboerne opplever som viktige.
-Deretter må politiet og beboerne prøve å løse
-disse i samarbeid. Det forutsetter at politiet er til
-stede i områdene. Innretningen på lokalt politiarbeid varierer mellom land, og det gjør også de
-målte effektene på kriminaliteten. Men studier
-forteller at tilliten til politiet og politiets legitimitet øker. Gerell mfl. viser for øvrig til at lokalt
-politiarbeid også blir kritisert. Innsats i utsatte
-områder kan sette et stempel på områder som
-allerede har utfordringer. Det er videre en sammenheng mellom innsats og resultat. Når innsatsen er stor, vil flere kriminelle handlinger oppdages og flere kriminelle bli tatt. Kriminalitetsstatistikken vil dermed kunne gi et skjevt inntrykk av at forskjellene mellom områder i byen
-er større enn de er.
-
-18.2.3 Politiets arbeid mot vold i nære
-relasjoner
-Familievold har over tid vokst fram som et eget
-fagfelt i politiet. Som en del av politireformen skal
-alle politidistrikter ha egne fagmiljøer for å håndtere saker om vold i nære relasjoner og seksuelle
-overgrep. Det er familievoldskoordinatorer på distriktsnivå og familievoldskontakter på driftsenhetsnivå. Politiet gjennomfører familievoldsanalyser og skal i oppfølgingen av konkrete saker vurdere og håndtere risiko, blant annet ved å sette i
-verk beskyttelses- og sikkerhetstiltak for å
-avverge at alvorlig vold gjentar seg. Samarbeid
-internt i politiet og eksternt med andre tjenester
-står sentralt i arbeidet. Oppmerksomheten i politiets forebyggingsspor er primært rettet mot partnervold (Bredal 2019). I 2019 ble politiets innsats
-mot vold og seksuelle overgrep mot barn styrket.
-Det blir nå lagt særlig vekt på å følge opp saker
-med tilrettelagte avhør av barn. Kapasiteten og
-kompetansen ved Statens barnehus har også blitt
-styrket.
-Regjeringen har en opptrappingsplan mot vold
-og overgrep (2017–2021) som skal hjelpe barn, og
-Justis- og beredskapsdepartementet jobber for
-tiden med en handlingsplan om vold i nære relasjoner. Handlingsplanen vil bli lagt fram våren
-2021.
-18.2.4 Kommunenes innsats for å forebygge
-kriminalitet
-Kommunene har et stort ansvar i arbeidet med å
-forebygge kriminalitet. Kommunene samarbeider
-
-[Side 269]
-
-NOU 2020: 16
-Levekår i byer
-
-267
-
-Kapittel 18
-
-Boks 18.3 Prosjekt November
-forebygging. Krisesenterloven pålegger komPilotprosjektet Prosjekt November var en samarbeidsmodell i saker om vold i nære relasjoner
-munen å sørge for helhetlig oppfølging av kvinner, menn og barn som er utsatt for vold i nære
-som ble etablert på Stovner politistasjon i 2015.
-relasjoner, men evalueringen viser at Oslo komProsjektperioden var tre år. Formålet var blant
-annet å følge opp utsatte og pårørende i saker
-mune har betydelige problemer med å samom vold i nære relasjoner bedre, å se ulike
-ordne tjenester til voldsutsatte. Politiet kan ikke
-instansers arbeid bedre i sammenheng og å få til
-og skal ikke løse de kommunale samordningset samarbeid mellom politi og øvrig tjenesteapproblemene. Prosjektet har imidlertid hatt svak
-forankring i Oslo kommune. Beslutninger
-parat i konkrete saker. I prosjektet samarbeidet
-underveis ble i stor grad tatt i Oslo politidistrikts
-psykolog, sosionom, barnevern og politi i tverrstyringslinje.
-faglige team for å gi de voldsutsatte tett, helhetlig og kvalitativt god oppfølging, med vekt på å
-Oslo politidistrikt har besluttet å videreføre
-forebygge ny vold. Modellen var todelt med vekt
-Prosjekt Novembers arbeidsmodell og metopå sikkerhetsarbeid og psykososial støtte. Tiltadikk i en ny seksjon ved driftsenhet Øst kalt
-ket holdt til i en egen del av politistasjonen som
-RISK (risikoanalyse og kriminalitetsforebygging
-var innredet for å skape en trygg og ivaretaav vold i nære relasjoner). Evalueringen peker
-på at dersom prosjektets arbeidsmodell og
-kende atmosfære.
-metodikk skal tas i bruk andre steder, må det tas
-En evaluering av prosjektet konkluderer
-utgangspunkt i hvordan politiet og de kommumed at det langt på vei har nådd målet om å
-følge opp utsatte (og utøvere) bedre (Bredal
-nale og statlige tjenestene allerede organiserer
-2019). De har fått bedre rådgivning og informaarbeidet med vold i nære relasjoner.
-sjon, og det er jobbet bedre med sikkerhet og
-
-tett med for eksempel politiet i SLT-samarbeidet
-og politiråd, men har også andre virkemidler.
-Flere store byer har uteseksjoner eller utekontakter som driver gatebasert, oppsøkende sosialt
-og helsefaglig arbeid overfor utsatte personer og
-grupper, og som gir individuell oppfølging av brukerne i tett samarbeid med ulike hjelpetjenester.
-Dette er helse- og sosialfaglig arbeid for å forebygge rus og kriminalitet og for å ivareta unge
-som sliter med rusproblemer eller psykiske problemer. Utekontakter er tilgjengelige på dagtid,
-kveld og natt. Formålet er å avdekke ungdoms
-behov for hjelp, å motivere dem til endring og
-sikre at den enkelte blir fulgt opp i hjelpeapparatet. Utekontakten har ofte en god oversikt over
-ulike ungdomsmiljøer i byene.4 I en spørreundersøkelse gjennomført av SINTEF oppgir 48 prosent
-av kommunene at de driver oppsøkende sosialt
-arbeid rettet mot ungdom, for eksempel med utekontakter, ungdomskontakter eller ungdomsteam (Ose mfl. 2019).
-Regjeringen har siden 2007 oppfordret landets
-kommuner til å utarbeide handlingsplaner for
-arbeidet med vold i nære relasjoner. En kartlegging av landets 422 kommuner viste at 40 prosent
-4
-
-Nettsidene til Bergen kommune og Oslo kommune.
-
-av kommunene hadde handlingsplaner mot vold i
-nære relasjoner. Om lag halvparten var interkommunale handlingsplaner. Slike handlingsplaner kan
-være en hjelp for kommunene til å videreutvikle tjenestene sine til mennesker som blir utsatt for familievold, til dem som utøver volden, og til andre som
-blir berørt. I henhold til norsk lov har voldsutsatte
-krav om helhetlige og individuelt tilrettelagte hjelpetilbud (Sandmoe og Nymoen 2019).
-
-18.3 Straffereaksjoner rettet mot
-ungdom
-Barn og unge som har begått kriminalitet, har høy
-risiko for å begå flere lovbrudd. For å forebygge
-dette og for å stoppe unge lovbrytere som allerede
-er på vei inn i en kriminell løpebane, er det et mål
-å gi unge reaksjoner som er tilpasset dem. Det gis
-ulike former for reaksjoner, men noen er spesielt
-utformet for ungdom.
-
-18.3.1 Ungdomsoppfølging, ungdomsstraff
-og ungdomsenheter
-De to straffereaksjonene for ungdom mellom 15
-og 18 år, ungdomsoppfølging og ungdomsstraff,
-
-[Side 270]
-
-268
-
-Kapittel 18
-
-NOU 2020: 16
-Levekår i byer
-
-ble innført i 2014. Reaksjonene skal kombinere
-gjenopprettende prosess5 med tverrfaglig forpliktende samarbeid mellom relevante aktører. Ungdom som har begått en eller flere kriminelle
-handlinger, kan ilegges ungdomsoppfølging. Ungdomsoppfølgingen kan vare i inntil ett år. Ungdomsstraff retter seg mot ungdom som har begått
-gjentatt eller alvorlig kriminalitet, og er et alternativ til fengselsstraff eller de strengeste samfunnsstraffene. Ungdomsstraffen kan vare i opptil tre
-år.
-Begge reaksjonene forutsetter at ungdommene har behov for å bli fulgt opp. Påtalemyndigheten avgjør om reaksjonsformene er egnede,
-men ungdommen og verge må samtykke først.
-Konfliktrådet er ansvarlig for å gjennomføre reaksjonene etter at ungdommen er dømt i retten.
-Ungdommene må vise at de er motivert til og villige til å ta ansvar for å endre atferd og livsførsel.
-De to reaksjonene inneholder tre elementer:
-ungdomsstormøte, ungdomsplan og oppfølgingsteam. I ungdomsstormøtet møter ungdommen dem som er blitt utsatt for den kriminelle
-handlingen, og får blant annet høre hvilke konsekvenser lovbruddet har hatt for fornærmede. Det
-settes opp en ungdomsplan som ungdommen er
-forpliktet til å følge. Planen tilpasses behovene til
-ungdommen. Et oppfølgingsteam følger ungdommen gjennom straffegjennomføringsperioden.
-Ungdomskoordinatorer har jevnlig kontakt
-med ungdommene. Dersom kravene i ungdomsplanen ikke følges opp, får det konsekvenser i
-form av strengere kontroll. Tiltakene i planen kan
-da bli justert. Ungdommen kan også måtte sone
-resten av straffen i fengsel.
-Ungdomsstraff og ungdomsoppfølging ble
-evaluert i 2019 (Andrews og Eide 2019). Den viser
-at gjennomsnittlig 66 prosent av ungdommene
-fullførte straffen i perioden 2014–2018. Fullføringsraten varierte imidlertid mye mellom ulike
-konfliktråd, fra 32 til 85 prosent.
-Evalueringen peker på at tiden mellom lovbruddet og oppfølgingen av ungdommene er lang.
-Årsaker som nevnes av politi og påtalemyndighet,
-er at sakene er komplekse, det er lite kontinuitet i
-oppfølgingen, sakene prioriteres ikke og det er
-mangel på ressurser. Også konfliktrådene rappor5
-
-En gjenopprettende prosess har til hensikt å rette opp igjen
-mest mulig av den skaden offeret har blitt utsatt for gjennom en kriminell handling. Gjennom å møte offeret, som
-får stille spørsmål og fortelle om hvilke følger lovbruddet
-har hatt, skal gjerningspersonen forstå konsekvensene av
-egne handlinger og bli oppmuntret til å ta ansvar. Offeret
-kan få bearbeidet opplevelsen, redusert angst og få innvirkning på vilkårene i avtalen (Konfliktrådets nettside).
-
-terer om at de mangler ressurser til å følge opp på
-en hensiktsmessig måte. Et annet viktig poeng i
-evalueringen er at hjelpetiltakene ungdommene
-har behov for, og som skal inngå i ungdomsplanen, ikke er tilgjengelige. Det kan skyldes at de
-ikke finnes i området der ungdommen bor, eller at
-de unge må stå i kø for å få de aktuelle tiltakene.
-Det er et viktig prinsipp i Norge, og i tråd med
-Barnekonvensjonen, at barn ikke skal sone i fengsel med mindre det er aller siste utvei. Alternative
-reaksjoner for barn over 15 år skal alltid vurderes
-først. Barn skal heller ikke gjennomføre straff
-sammen med voksne. I de tilfellene der det ikke
-er andre muligheter, har Kriminalomsorgen to
-ungdomsenheter, en i Bergen og en på Eidsvoll. I
-tillegg ble det i 2020 opprettet tre nye plasser for
-ungdom ved Indre Østfold fengsel, avdeling Eidsberg. Barn som sitter i ungdomsenhetene i dag,
-har begått svært alvorlige lovbrudd.
-Ungdomsenhetene har bedre bemanning enn
-ordinære fengsler. Av de ansatte har halvparten
-fengselsfaglig bakgrunn og resten annen fagbakgrunn, for eksempel er det sosionomer, vernepleiere, barnevernspedagoger og lærere eller pedagoger som arbeider der. Ungdomsenhetene har i
-tillegg et tverretatlig team som består av psykolog, barnevernsfaglig rådgiver/koordinator og
-pedagogisk rådgiver. Teamet skal ivareta ungdommenes behov under straffegjennomføringen
-og forberede til tiden etter løslatelse. Teamene
-skal sørge for at barn som gjennomfører straff
-eller sitter i varetekt i ungdomsenhetene, blir fulgt
-opp på en god og koordinert måte. De skal også
-sikre at relevante myndigheter følger opp den innsatte både under og etter straffegjennomføringen.
-Justis- og beredskapsdepartementet sendte
-høsten 2020 på høring et forslag om å videreutvikle de eksisterende ungdomsreaksjonene og innføre mer effektive virkemidler for å forebygge ny
-kriminalitet. Forslagene gjelder først og fremst
-reaksjonene ungdomsoppfølging og ungdomsstraff. Departementet foreslår blant annet å sikre
-at straffegjennomføringen settes i verk raskere,
-redusere antall krav om samtykke og innføre en
-klageadgang og bedre informasjonsflyten mellom
-aktørene som er involvert i oppfølgingen. Det
-foreslås å ivareta fornærmede bedre og å bygge
-bedre relasjoner rundt ungdommen som gjennomfører straff. Videre er det foreslått å gi domstolene større rom for å gjøre individuelle vurderinger, å tydeliggjøre innholdet i ungdomsplanen
-og å gjøre reglene for brudd og hvordan disse
-skal håndteres, tydeligere.
-Departementet foreslår i tillegg å utvide
-adgangen til å bruke enkelte tvangsmidler overfor
+Det ble også sett på som en utfordring at mange av temaene folk var opptatt av, ikke var en del av Groruddalssatsingen, slik som miljøproblemer som kom av motorveier og logistikkterminal, og at sykehuset skulle flyttes. I flere medvirkningsprosesser kom det opp forslag og ønsker som myndighetene ikke kunne følge opp.
+
+Et sentralt premiss i Groruddalssatsingen var at midlene ikke skulle gå til drift av ordinær virksomhet. Samtidig var ikke skillet mellom investerings- og driftsmidler entydig, og informanter ga uttrykk for at det var uenighet om hva som kunne kategoriseres som investeringsmidler. Informanter fra bydelene mente det var vanskeligere å innpasse sosiale tiltak enn fysiske tiltak i kravet om å ikke benytte driftsmidler. Alle bydelene hadde jobbet lenge med forebyggende arbeid, og det var utfordrende å finne ut hvordan midlene fra Groruddalssatsingen skulle innpasses i dette arbeidet (ibid.).
+
+I evalueringen av Groruddalssatsingen mente utrederne at det var sannsynlig at Groruddalssatsingen ville ha varige virkninger. De mente at de fysiske tiltakene vil ha varig virkning uansett, men større effekt hvis de ble driftet og godt vedlikeholdt. Det ble gjennomført en rekke fysiske tiltak under Groruddalssatsingen som ville trenge vedlikehold, og driftsansvaret har ikke alltid vært avklart. Drift og vedlikehold vil for øvrig være avhengig av å bli prioritert på kommunale budsjetter. For andre typer tiltak mente utrederne at sannsynligheten for om de ble videreført på ordinære kommunale budsjetter, hang sammen med hvor effektive de viste seg å være (Agenda Kaupang mfl. 2016). Blant de involverte aktørene var det imidlertid flere som hadde lave forventninger til at tiltakene ville bli videreført etter prosjektperioden. Det kan være et omfattende arbeid å sikre videreføring av prosjekter og kan inkludere spørsmål om finansieringskilder, samarbeidspartnere og forankring av tiltaket (Gabrielsen 2014).
+
+Områdeløft i Groruddalen
+
+Det er gjort egne undersøkelser i flere områder i Groruddalen hvor det har blitt gjennomført områdeløft. For Lindeberg tydet en spørreundersøkelse på at det var en positiv utvikling på flere sosiale indikatorer i perioden med områdeløft. Beboerne følte seg tryggere, de var mer tilfredse med fritidstilbudet, og de ble mer aktive i nærmiljøet. Selv om beboerne syntes området ble finere, mente de fortsatt at det var utfordringer som for få fritidstilbud. Undersøkelsen pekte på at mange familier sliter økonomisk, og utrederne mente at det kan være vanskelig å kople områdeløft med tjenester som hjelper de mest utsatte familiene (Ruud og Vestby 2017b).
+
+På Furuset har det blitt investert i flere større anlegg, som Verdensparken og Furuset bibliotek og aktivitetshus (FUBIAK). En spørreundersøkelse tyder på at dette har bidratt til at beboerne er stoltere av området de bor i, og opplever en sterkere stedsidentitet. Sammen med oppussede fasader i borettslagene kan det ha medvirket til at flere ser på området som attraktivt. Likevel tyder ikke boligprisutviklingen på at attraktiviteten har økt sterkt. Det kan henge sammen med at attraktiviteten øker blant beboere i området uten at områdets omdømme utad har økt tilsvarende (Ruud mfl. 2019a).
+
+Rammeslutt
+
+#### Oslo sør
+
+I Bydel Søndre Nordstrand ble det gjennomført en områdesatsing mellom 2007 og 2018. Satsingen skilte seg fra Groruddalssatsingen ved at midlene i hovedsak ble tildelt beboere og frivillige organisasjoner etter søknad. Evalueringen av satsingen tyder på at denne innretningen kan ha bidratt til å imøtekomme lokale ønsker. Beboerne var i stor grad opptatt av å få flere sosiale møteplasser. Tiltak ble gjennomført i ulike befolkningsgrupper og spredt utover bydelen. Det var også økt oppslutning om arrangementer gjennomført av frivillige organisasjoner. Samtidig viste evalueringen at ulike tiltak ble rettet mot de samme gruppene og geografiske stedene, og at det kunne vært behov for noe mer koordinert innsats (Ruud og Vestby 2018).
+
+#### Fjell 2020
+
+Evalueringen av områdesatsingen på Fjell i Drammen tar ikke tydelig stilling til i hvilken grad hovedmålet om å øke sysselsettingen og å få færre på lavinntekt ble nådd. Utrederne mente det var vanskelig å si om hovedmålet er nådd, fordi de manglet statistikk. Utrederne antok imidlertid at målet delvis ble nådd gjennom kvalifiserings- og sysselsettingstiltakene i satsingen. De mente at en viktig suksessfaktor er at NAV-tiltakene er lokalisert på Fjell, slik at det var kjente omgivelser og kort vei mellom tiltaket og hjemmet for deltakerne. Satsingen hadde også mange tiltak som la til rette for fritidsaktiviteter for barn og unge. Samlet sett vurderte utrederne at Fjell 2020 hadde vært en svært vellykket satsing. De mente at områdesatsingen hadde gode og viktige tiltak som hadde hatt stor betydning for befolkningen på Fjell. Flere intervjuobjekter mente også at folks syn på bydelen hadde utviklet seg i klar positiv retning, og utrederne ga uttrykk for at det var sannsynlig at Fjell 2020 hadde påvirket omdømmet positivt (Rambøll 2020).
+
+#### Handlingsprogrammet Oslo indre øst
+
+Handlingsprogrammet for Oslo indre øst (1997–2006) var en felles satsing mellom stat og kommune for å bedre levekårene. Målområdene var flere: bedre oppvekstforhold, boforhold, helsefremmende tiltak, arbeidsmarkedstiltak og nærmiljø.
+
+En undersøkelse av levekår og flytting viste blant annet at arbeidsledigheten gikk ned, færre mottok sosialhjelp og andelen med høyere utdanning økte i perioden undersøkelsen målte. Beboerne fikk bedre tilgang til sosiale og kulturelle møteplasser, og utrederne mente at handlingsprogrammet bidro til å styrke skolene. Samtidig var kriminaliteten og folks opplevelse av utrygghet stabil, og trafikkstøyen fra veiene endret seg lite. Bomiljøet i de kommunale gårdene så også ut til å utvikle seg i feil retning. Undersøkelsen konkluderte med at flyttemønstre åpenbart påvirket levekårene positivt, men at handlingsprogrammet sannsynligvis også hadde bidratt til den positive utviklingen. Undersøkelsen pekte i tillegg på at annen politikk hadde hatt stor betydning. De viste blant annet til at investeringene i Bjørvikatunnelen var flere ganger så stor som samlet ramme for handlingsprogrammet. Dette var en endring som var forventet å bety mye for områdene (Barstad mfl. 2006).
+
+Evalueringen drøftet i hvilken grad handlingsprogrammet ville gi varige endringer. Den viste til at involverte informanter var bekymret for om tiltakene ville bli opprettholdt etter at handlingsprogrammet var ferdig. Samtidig viste den til informanter som var positive til at programmet hadde gjort det mulig å utvikle nye metoder.
+
+Evalueringen omtalte også programmets mål og mente det ikke kom helt klart fram om målet var å «bedre levekårene til de personer som opprinnelig bodde der (f.eks. per 1997)», eller om det var «å bedre levekårene til de personer som bor der til enhver tid». Samtidig mente enkelte informanter at satsingen på oppvekst i handlingsprogrammet var viktig i alle tilfeller. Den kunne gi positive effekter for barn og unge senere i livet, selv om de flyttet ut av bydelene (ibid.).
+
+Ifølge en evaluering av organiseringen av handlingsprogrammet ble innbyggerne i lokalsamfunnet involvert gjennom brukermedvirkning på prosjektnivå. Sivilsamfunnsaktører lokalt, slik som frivillige organisasjoner, foreninger og næringslivsaktører, ble i mindre grad involvert. Utrederne mente at det sannsynligvis lå et ubrukt potensial i denne typen involvering, og at bredere og dypere deltakelse fra lokalsamfunnet kunne utløst mer egendrevet utvikling og styrket måloppnåelsen (Hanssen og Klausen 2006).
+
+#### Tidlige områderettede tiltak
+
+I 1980- og 1990-årene hadde flere norske kommuner støtteordninger for å oppgradere boliger og uteområder. Husbanken bidro med tilskudd til byfornyelse. Da Husbankens byfornyelsestilskudd for perioden 1994–1999 ble evaluert, anslo utrederne at tilskuddet bidro til å øke private og kommunale investeringer i bolig- og områdefornyelse. Nesten alle midlene gikk til Oslo, Bergen og Trondheim. Utrederne registrerte at boligpriser i områder med høy byfornyelsesaktivitet steg. De konkluderte med at den økte attraktiviteten for en stor del var et resultat av byfornyelsen (Nordvik 2001). I en undersøkelse av utvalgte byfornyelsesgårder i Oslo fra 1998–2000 fant utrederne at 70 prosent av beboerne hadde flyttet i løpet av rehabiliteringsperioden. Over halvparten sa at de ikke lenger hadde råd til å bo der (Brattbakk og Dyb 2001).
+
+I tillegg til byfornyelsen har det eksistert flere ordninger med tilskudd til områderettede tiltak siden 1970-årene (Brofoss og Barstad 2006). Ordningene har dreid seg om både fysisk opprusting og om sosiale tiltak som å styrke lokaldemokrati og deltakelse. For eksempel var *Nærmiljø i by*-prosjektene i 1990-årene rettet mot blant annet trygghetsskapende tiltak og barn og unges oppvekstmiljø i drabantbyer i Oslo og Bergen. Evalueringen fra Loddefjord-prosjektet i Bergen konkluderte med at det skjedde positive endringer i området. Nærmiljøprosjektet bidro til dette, men andre forhold var vel så viktige for utviklingen (Unstad og Ytrehus 2004, omtalt i Brofoss og Barstad 2006).
+
+*Miljøbyprogrammet* var et samarbeidsprogram mellom staten og utvalgte kommuner i perioden 1993–2000.[^142] Hovedmålet med prosjektet var å utvikle byene i en mer miljøvennlig retning, men Miljøbyen Gamle Oslo hadde også et mål om å bedre levekårene til dem med dårlige levekår (Hovedrapport 2000).
+
+I sluttrapporten for Miljøbyen Gamle Oslo står det blant annet følgende under spørsmålet om levekårene er blitt bedre:
+
+Med utgangspunkt i Oslo kommunes levekårsstatistikk, har Miljøbyen Gamle Oslo sannsynligvis ikke bidratt til å bedre levekårene i Gamle Oslo. Dette skyldes i hovedsak at indikatorene som benyttes er lite egnet til å måle effekter av de tiltakene Miljøbyen arbeidet med. Det eneste som sannsynligvis ville endret Gamle Oslos bunnplassering på kommunens levekårsstatistikk, var en utflytting av innbyggere med karakteriska som slår dårligst ut på statistikken, noe Miljøbyen ikke har jobbet med. \[…\] Det er ikke nødvendigvis samsvar mellom det bildet som levekårsstatistikkene gir og hvordan befolkningen selv opplever sine levekår og sine omgivelser. \[…\] I en bypolitisk sammenheng er det behov for å vurdere levekårene også i forhold til områdekvaliteter som ikke så lett fanges opp i registeropplysninger om individene.
+
+### Evalueringer fra andre nordeuropeiske land
+
+#### Storstadssatsningen i Sverige
+
+I Sverige var segregering i storbyene i 1990-årene en drivkraft bak lanseringen av «Storstadssatsningen». Satsingen hadde som mål å bryte den sosiale, etniske og diskriminerende segregeringen. Sju kommuner, med til sammen 24 boligområder, ble inkludert i satsingen.
+
+Det ble gjennomført en rekke evalueringer fra de involverte byområdene. Resultatene fra evalueringene ble sammenfattet i en offentlig utredning, SOU 2005:29 *Storstad i rörelse*. Evalueringene ga ulike resultater, men noen temaer var gjennomgående. En generell konklusjon var at det var et tydelig gap mellom mål og innsats, og at det overgripende målet om å bryte segregeringen var urealistisk. En av vurderingene var at
+
+om man studerar det utsatta området utan att placera in det som en del av det omgivande samhället, skapas endast en partiell förståelse för sammanhangen. Risken är stor att fokus förflyttas från segregationsproblematikens djupt liggande mönster, till en tolkning som är mer politiskt handterbar.
+
+Samtidig konkluderte utredningen med at
+
+\[ä\]ven om målet att bryta social, etnisk og diskriminerande segregation endast i begränsad mening kan hanteras på kommunalt nivå, innebär inte detta att alla aspekter av segregationsproblematiken bör förläggas bortom det lokala. Ett områdesbaserat välfärdsarbete har vuxit fram med ambitioner om underifrånperspektiv och samverkan.
+
+Flere av evalueringene av Storstadssatsningen fant at sysselsettingen økte og bruken av sosialhjelp gikk ned i satsingsområdene, men at det var vanskelig å skille utviklingen i disse områdene fra andre områder. Det var derfor vanskelig å konkludere med om sysselsettingstiltakene i satsingen hadde god effekt. Ett spørsmål som ble reist, var om boligområdene var for små geografiske enheter til å fungere som ramme for sysselsettingstiltakene. Det ble også sett på som en utfordring at folk som fikk arbeid, flyttet ut av områdene, mens arbeidsledige flyttet inn. I de fleste områdene var andelen langtidsmottakere av sosialhjelp større blant innflyttere enn blant utflyttere (SOU 2005:29). En undersøkelse så på trekk ved dem som flyttet inn og ut av utsatte områder i Stockholm i 1990-årene. Undersøkelsen viste en tydelig tendens til at innflytterne hadde svakere tilknytning til arbeidslivet, lavere inntekter og kortere botid i Sverige enn utflytterne. Forskerne konkluderte med at områdesatsingene ikke kunne endre de utsatte områdenes sosioøkonomiske posisjon, og at denne posisjonen ofte blir reprodusert gjennom flyttestrømmene (Andersson og Bråmå 2004).
+
+Storstadssatsningen skulle også bidra til å øke den demokratiske deltakelsen og medvirkningen i de utsatte områdene. Flere av evalueringene pekte på at det var vanskelig både å definere og følge opp dette målet. Det ble lagt stor vekt på å involvere beboere, men satsingen bidro i liten grad til å bygge opp varige demokratiske strukturer som ga beboerne reell innflytelse. Samtidig la noen forskere vekt på at nærområdene til bostedet kan være en god arena for å la folk få erfaring med medvirkning, ved at tersklene for å delta kanskje er lavere i lokalmiljøet. Det kan også være viktig å bidra til trygghet og sosiale fellesskap i nærområdene (SOU 2005:29).
+
+Evalueringene refererte også til mange tiltak som sannsynligvis har gitt verdifulle erfaringer (ibid.). Ifølge evalueringen fra Stockholm hadde tiltakene gitt lokalt ansatte i offentlige virksomheter en mer åpen og positiv holdning til innbyggerne. Utrederen mente også at skoletilbudet var blitt bedre ved at skolene ble tilført ekstra ressurser. Det gjorde det mulig for lærerne og andre ansatte ved skolene å heve kompetansen sin og prøve ut nye måter å jobbe på (Bunar 2004).
+
+Flere av utredningene pekte på at fysisk oppgradering hadde positiv effekt på boligområdene. I utredningen fra Göteborg ble det konkludert med at enkelte av områdene var blitt mye bedre steder å bo – både penere, tryggere og med et bedre tjenestetilbud (Törnquist 2005). I en annen utredning fra Göteborg ble det framholdt at fysisk opprusting kan bidra til økt trygghet og trivsel og kompensere for noen av feilene som ble gjort da boligområdene ble bygd. Utrederne mente samtidig at det var vanskelig å vurdere de konkrete effektene av den fysiske opprustingen, og at det også er et langsiktig arbeid (Schulz mfl. 2004). Fysisk opprusting var for øvrig i mindre grad en del av Storstadssatsningen sammenliknet med områdesatsinger i flere andre land. Utfordringene i områdene ble sett på mer som et resultat av sosial ekskludering enn av den fysiske attraktiviteten (Andersson mfl. 2010).
+
+Innsatsen ble dels organisert som egne prosjekter, dels integrert i kommunenes ordinære virksomhet. Utredningene viste at organiseringen hadde betydning for hvordan innsatsen ble utformet. Mulighetene for innovasjon så ut til å være større i prosjekter utenfor ordinær virksomhet, men det var en tendens til at disse prosjektene var mer marginale, ble oppfattet som mindre betydningsfulle og hadde mindre sjanse for å bli en del av og påvirke den ordinære virksomheten enn tiltak som ble gjennomført innenfor ordinær virksomhet. Utrederne mente også at det er behov for å kompensere tjenesteapparatet for de ekstrautgiftene som følger av levekårsutfordringer, for å sikre god nok standard på tjenestene. De stilte spørsmål ved om prosjektinnsats kan ivareta et slikt formål. Utrederne mente det var behov for å styrke de ordinære tjenestene (SOU 2005:29).
+
+Ifølge utredningene var det ulike erfaringer med samarbeid mellom organisasjoner. Det var noen positive erfaringer med samarbeid, blant annet innenfor sysselsettingsfeltet og kriminalitetsforebyggende arbeid. I andre tilfeller mente utrederne at samordning mer framsto som en tvungen organisering og et retorisk grep, framfor at det var en effektiv løsning (ibid.).
+
+#### Byfornyelse og boligsosiale innsatser i Danmark
+
+Danmark har en relativt lang tradisjon for byfornyelse i form av fysisk oppgradering, men har siden midten av 1990-årene også hatt områdesatsinger som kombinerer fysiske og sosiale tiltak. I tillegg har organisasjonen for de allmenne boligforeningene, Landsbyggefonden, midler som benyttes til oppgradering og boligsosiale prosjekter i allmenne boligområder.
+
+Evalueringer av de to områdesatsingene Byutvalgsinitiativet og Kvarterløft fant både positive og negative effekter for sosialt miljø og attraktivitet i områdene. Effektene på den sosioøkonomiske utviklingen i områdene så likevel ut til å være begrenset. Byutvalgsinitiativet var en områdesatsing som ble gjennomført i perioden 1994–1998. Cirka 500 boligorganisasjoner som eier og forvalter boliger innenfor den allmenne boligsektoren, fikk tildelt midler til å oppgradere boliger og boområder, til sosiale tiltak og til husleiereduksjoner. Innsatsen ble evaluert gjennom blant annet spørreundersøkelser. Undersøkelsen indikerte at sosiale problemer ble redusert i 30 prosent av de områdene som hadde store problemer, og økte i 10 prosent av områdene (Andersen 2003). Utviklingen i de aktuelle boligorganisasjonene er også sammenliknet med en kontrollgruppe av boligorganisasjoner som fikk avslag på støtte. Ifølge evalueringen bidro ikke områdesatsingen til en mer sosioøkonomisk blandet befolkning. Andelen beboere utenfor arbeid ble større i innsatsperioden, og utreder antok at det hadde sammenheng med at beboere som flyttet inn, hadde lavere inntekt, utdanning og sysselsetting enn dem som flyttet ut. Samtidig fant evalueringen at områdesatsingen bidro til at flere kom seg i jobb. Satsingen var ikke direkte rettet mot å skape flere jobber, men utreder antydet at tiltakene kan ha økt beboernes nettverk og kompetanse om arbeidsmarkedet (Christensen 2013).
+
+I perioden 1997–2008 ble det gjennomført områdesatsinger i tolv områder, kalt Kvarterløft. Hensikten med satsingen var å snu negative utviklingsspiraler i områdene gjennom en helhetlig innsats og bruk av lokale krefter i bydelene. I første omgang ble det valgt ut sju områder til satsingen. Ifølge evalueringen utviklet områdene seg ulikt, men samlet sett bidro innsatsen til å gjøre områdene mer attraktive og beboerne mer positive. Et av de overordnede målene med områdesatsingen var å forbedre områdenes omdømme og stedsidentiteten hos beboerne, for på den måten å påvirke områdene i positiv retning. Ifølge evalueringen gikk flyttehyppigheten ned og færre ønsket å flytte fra de fleste av innsatsområdene. Bedre felleslokaler og møteplasser så også ut til å ha hatt en positiv effekt på det sosiale livet. Beboerne følte seg tryggere, og i enkelte områder ble synlig kriminalitet vesentlig redusert (Andersen og Kielgast 2003). I de fem siste kvarterløftene ble over 80 prosent av midlene brukt til fysisk opprusting. Enkelte av områdene fikk en positiv levekårsutvikling, og utrederne antok at det hadde sammenheng med generelle tendenser til gentrifisering i områdene. I andre områder ble målet om å endre beboersammensetningen gitt opp, da det viste seg at en stor del av dem som fikk arbeid, flyttet og ble erstattet av andre som ikke var i arbeid (Andersen mfl. 2009).
+
+Andre danske undersøkelser har også funnet positive effekter på sosialt miljø og attraktivitet av fysisk opprusting. En undersøkelse av et utvalg utbedringsprosjekter tydet på at fysisk opprusting kan ha en positiv effekt på beboernes tilfredshet med boligområdet, ønske om å bli boende og ønske om å bidra til å utbedre bolig og uteområder. Evalueringen fant imidlertid ikke disse positive resultatene for områder som hadde fått store bevilgninger. Utreder antok at det kan skyldes at problemene var mer komplisert i slike områder, og at fysisk innsats der ikke var tilstrekkelig til å påvirke beboertilfredsheten (Christensen 2013).
+
+Enkelte satsinger legger stor vekt på sosiale og individrettede tiltak for beboerne. Allmenne boligforeninger i utsatte områder kan søke om støtte fra offentlige myndigheter og Landsbyggefonden for prosjekter som skal bedre levekårene («boligsociale indsatser»). En evaluering av boligområdene som fikk støtte i perioden 2006–2010, tydet på at innsatsen bidro til at noe større andeler av beboerne var i jobb, men effektene var usikre. De fant ikke effekter på inntektsnivået og sannsynligheten for at unge begikk kriminalitet (Jakobsen mfl. 2016). Evalueringer av Landsbyggefondens midler for perioden 2011–2014 tilsa samtidig at flere prosjekter sannsynligvis hadde positive effekter. Det kan henge sammen med at midlene ble brukt til tiltak som var mer forebyggende og tettere på beboerne enn ordinære velferdstjenester. Blant annet indikerte evalueringene at det var positive effekter på ungdoms kriminelle aktivitet, motivasjon for utdanning og arbeidsdeltakelse (Christensen mfl. 2018b, 2018c, 2019a).
+
+Danske kommuner har et ansvar for å stimulere til utvikling i problemrammede boligområder. Kommunenes innsats skal gjøre områdene attraktive for bosetting og styrke grunnlaget for private investeringer. Flere undersøkelser har anslått at kommunenes investeringer gjennom områdefornyelse har økt den private investeringsviljen. En utredning anslo at 1 krone i offentlig støtte i gjennomsnitt utløste 3,5 kroner i private boliginvesteringer i utsatte byområder (Jensen mfl. 2015). I en tidligere utredning av slike områdefornyelser fant utrederne samtidig at antall personer i områdene som mottok sosialhjelp, hadde steget (Ærø mfl. 2008).
+
+Erfaringer med å fremme trygghet og trivsel
+
+Det finnes ulike former for utrygghet og mistrivsel, og det kan ha betydning for hva slags type innsats som kan ha effekt. Utrygghet og mistrivsel kan for eksempel bunne i manglende hverdagsmestring, eller det kan henge sammen med opplevelser med normbrytende atferd i lokalområdet. Følelsene kan både være basert på konkrete forhold i eget liv, men kan også komme av hendelser lenger tilbake i tid eller på andre steder. Ifølge en dansk undersøkelse er det gode erfaringer med å styrke beboernes kapasitet til å håndtere hverdagsproblemer og til å bedre beboernes kontakt med det ordinære hjelpeapparatet der utfordringene er basert på manglende hverdagsmestring. Der hvor det er konflikter og bråk i nabolaget, ser det ut til at tiltak for å øke kontakten og styrke nettverkene mellom naboer kan ha positive effekter. Det kan imidlertid være tidkrevende å endre utfordringer som handler om at beboerne eller folk fra andre steder har negative forestillinger om området (Christensen mfl. 2019b).
+
+Rammeslutt
+
+#### New Deal for Communities i Storbritannia
+
+Storbritannia har hatt en rekke støtteordninger og satsingsprogrammer for å stimulere til utvikling i utsatte byområder. I 1998 etablerte de programmet New Deal for Communities hvor det ble satset relativt intensivt og langvarig på et begrenset utvalg områder. Satsingen varte i ti år. 39 innsatsområder ble valgt ut. Målet var å «close the gaps between the 39 areas and the rest of the country». Gjennom å satse intensivt og langvarig ønsket myndighetene å unngå feilene de mente var gjort i tidligere områdesatsinger hvor midlene var smurt tynt utover (Batty mfl. 2010).
+
+Prosjektet ble evaluert med utgangspunkt i 36 indikatorer. Ifølge evalueringen ble det målt en forbedring på 32 av 36 indikatorer. På flertallet av indikatorene var utviklingen mer positiv enn nasjonalgjennomsnittet og snittet for andre sammenliknbare områder. Utviklingen var særlig positiv på indikatoren som målte beboernes opplevelse av at området hadde blitt forbedret siste to år, og om de var tilfredse med området. Også på indikatorer som kriminalitet var utviklingen gjennomsnittlig mer positiv enn for sammenliknbare områder (ibid.).
+
+Evalueringen pekte mot at det var en relativt sett større positiv endring på områderettede[^143] enn på individrettede[^144] resultatindikatorer. Dette forklarte de blant annet med at en høy andel av beboerne kan ha utbytte av områderettede tiltak. Dette var brede og synlige tiltak i lokalsamfunnet. Individrettede tiltak, som arbeidsmarkedstiltak og helsefremmende tiltak, traff et smalere segment av beboerne, og tiden før tiltakene eventuelt har effekt, kan være lang. En undersøkelse på individnivå indikerte samtidig at tiltak innenfor utdanning, arbeidsliv og samfunnsdeltakelse ga positive resultater for personer som deltok i prosjektene (Foden mfl. 2010). En mulig effekt av positive resultater på sysselsettingstiltak var at folk flyttet fra området. Evalueringen kunne ikke påvise at folk som oppnådde positive resultater etter å ha deltatt i programtiltakene, flyttet som følge av dette, men den ville samtidig ikke utelukke det (Batty mfl. 2010).
+
+Medvirkning og involvering av sivilsamfunnet var sentrale i programmet. Konklusjonen på evalueringen var at det hadde vært riktig tilnærming, men at det også var en del utfordringer. 40 prosent av beboerne som ble boende gjennom programperioden. var involvert i prosjektene, men de færreste ble involvert i formelle beslutningsprosesser.
+
+Utrederne konkluderte med at den samfunnsøkonomiske nytten oversteg tre–fem ganger kostnadene for programmet. De viste samtidig til at fordelene i hovedsak kom fra at verdiene på beboeres tilfredshet med området og psykisk helse økte, ikke på alle målområdene. De viste også til at selv om programmet hadde en betydelig økonomisk ramme, var per capita-kostnaden liten sammenliknet med annen tjenesteyting (cirka 500 pund årlig). Utrederne mente at det var nyttig å ha en helhetlig tilnærming hvor ulike programområder ble sett i sammenheng. De mente at investeringer i fysisk miljø hadde gitt positive resultater som redusert kriminalitet og arbeidsledighet (ibid.).
+
+På tross av innsatsen og flere positive resultater viste en studie at de fleste satsingsområdene fortsatt var blant Storbritannias mest utsatte i 2005, målt etter en rangering av andelen arbeidsledige i alle områder i England og Wales (Tunstall 2016).
+
+#### Gjennomgang av effektevalueringer
+
+Danske forskere har gjennomgått effektevalueringer av områdesatsinger fra flere nordeuropeiske land. Ingen av de elleve nordeuropeiske undersøkelsene vurderte effekter for eksisterende beboere på individuelle levekårsfaktorer som arbeidsledighet og inntektsnivå. To av undersøkelsene så på individuelle effekter som trygghet og stolthet for området og fant positive effekter. I seks av områdene ble det undersøkt om arbeidsledigheten på områdenivå gikk ned som en følge av innsatsen, og det ble funnet positive effekter i fire av disse områdene (Akademisk Arkitektforening og København kommune 2014).
+
+I undersøkelsen er det også skilt mellom ikke-strukturelle og strukturelle fysiske opprustingsprosjekter. Sistnevnte er større endringer i bygningsmasse og trafikksystem som at hus og veier blir revet og bygd. Ifølge undersøkelsen fører strukturelle fysiske prosjekter i større grad enn ikke-strukturelle til positiv utvikling på levekårsindikatorer som arbeid og utdanning. Det kan skyldes at endret arealbruk og bygningsstruktur fører til at befolkningen skiftes ut i større grad enn for eksempel ved å oppgradere uterom.
+
+### Oppsummering av effekter på levekår, områdekvaliteter og arbeidsmetoder
+
+#### Sosioøkonomiske levekårsforbedringer
+
+Flere av evalueringene fra både Norge og andre nordeuropeiske land peker mot en positiv, men relativt sett svak effekt på levekårsforbedringer som sysselsetting, utdanning og inntekt (f.eks. Barstad mfl. 2006, Batty mfl. 2010, Christensen 2013, Akademisk Arkitektforening og København kommune 2014, Jacobsen mfl. 2016). I andre tilfeller har ikke evalueringene analysert effekter på overordnede mål som å øke sysselsettingen, noe som kan henge sammen med at det mangler data, eller at det ikke er forventet å finne effekter på aggregert nivå (f.eks. Agenda Kaupang mfl. 2016, Rambøll 2020). En rekke utredninger konkluderer samtidig med at det er mange effektfulle enkelttiltak som kan bety mye for livskvaliteten til dem de treffer (f.eks. SOU 2005:29, Foden mfl. 2010, Agenda Kaupang mfl. 2016, Christensen mfl. 2018).
+
+Selv om enkeltprosjekter er vellykkede, er det ikke sikkert det er realistisk å se effekter i levekårsstatistikken. For det første involverer enkeltprosjekter ofte en liten andel av den samlede befolkningen, og resultater på sysselsetting kan komme flere år senere. For det andre er det en tendens at folk som får økt inntekt, flytter fra de utsatte områdene. Hvis levekårsstatistikken i utsatte områder forbedres, skyldes det gjerne at området er blitt mer populært, og at folk med høyere inntekter flytter inn (Barstad mfl. 2006, Andersen mfl. 2009, Batty mfl. 2010).
+
+De økonomiske bidragene fra områdesatsinger utgjør ofte en relativt liten del av kommunens eller bydelenes samlede budsjetter. Flere utredere mener derfor at ambisjonene heller ikke skal være for høye. Samferdselsinvesteringer og det generelle velferdsbudsjettet er betydelig større enn bidragene fra områdesatsingene og må derfor forventes å bety mer for utviklingen. Også den økonomiske konjunkturutviklingen og utviklingen på boligmarkedet blir ofte pekt på som mer vesentlig enn områdesatsingene (Barstad mfl. 2006, Batty mfl. 2010, Agenda Kaupang mfl. 2016, Andersen mfl. 2009, Christensen 2013). Noen forskere legger vekt på at levekårsutfordringer i stor grad er et resultat av den generelle ulikheten i samfunnet, og at det derfor ikke er naturlig å finne sterke resultater av områderettet innsats (Andersson og Musterd 2005a).
+
+#### Sosioøkonomisk blandet befolkning
+
+At befolkningen i de utsatte områdene skiftes ut, kan være både en ønsket og en uønsket effekt av områdesatsinger. I Norge er det i liten grad lagt vekt på økt sosial miks som et selvstendig hensyn i områdesatsinger, mens i andre land er dette et til dels eksplisitt mål. Det er likevel noen undersøkelser som ser på endringer i flyttemønstre, boligpriser mv. av norske områdesatsinger, og som tyder på at områdesatsinger i enkelte tilfeller kan påvirke befolkningssammensetning og attraktivitet (Barstad mfl. 2006, Aarland mfl. 2017).
+
+Internasjonale undersøkelser viser varierende resultater med hensyn til om områdesatsinger kan påvirke den sosioøkonomiske sammensetningen. Både svenske og danske undersøkelser har funnet at områdene kan bli ytterligere levekårsutsatte i løpet av innsatsperioden som følge av at flere av innflytterne er utenfor arbeid enn det utflytterne er (Christensen 2013, SOU 2005:29, Anderson og Bråmå 2004). En britisk undersøkelse fant at områdesatsingen ikke endret områdenes relative posisjon med hensyn til andelen arbeidsledige i løpet av en tiårig satsingsperiode (Tunstall 2016).
+
+Det er samtidig en del tilfeller hvor befolkningen har blitt mer sosioøkonomisk blandet i løpet av prosjektperioden. Flere undersøkelser peker på endringer i boligmarkedet og folks boligønsker som en viktig forklaring på om områdesatsingene kan påvirke den sosioøkonomiske sammensetningen. Det vil si at hvis det er generelle tendenser til gentrifisering, kan en områdesatsing forsterke denne tendensen (f.eks. Andersen 2009). En annen forskjell mellom ulike områdesatsinger kan være hvor inngripende fysiske tiltak er og om boligene for eksempel omgjøres fra offentlige utleieboliger til eierboliger (Akademisk Arkitektforening og København kommune 2014). En undersøkelse av større rivnings- og ombyggingsprosjekter i Nederlands 31 største byer i perioden 1999–2013 tydet på at prosjektene førte til en mer sosioøkonomisk sammensatt befolkning i det ombygde området. Undersøkelsen fant ikke effekter på nabolaget utover det ombygde området (Zwiers mfl. 2018b).
+
+#### Sosiale forhold og trivsel
+
+Flere undersøkelser viser positive resultater av områdesatsinger på sosiale forhold som beboertilfredshet, trygghet og sosial kontakt (Andersen 2003, Batty mfl. 2010, Christensen 2013, Christensen mfl. 2019b). Resultatene er likevel ikke entydige. For eksempel fant utrederne enkelte positive resultater på sosiale forhold etter den første Groruddalssatsingen, men fant likevel ikke at trivsel og tilhørighet til området systematisk hadde endret seg (Agenda Kaupang mfl. 2016). Det er heller ikke entydige resultater med hensyn til om områdesatsinger kan dempe kriminaliteten og konfliktnivået. Enkelte undersøkelser finner at satsingene følges av redusert kriminalitet og færre sosiale konflikter, mens dette ikke er tilfellet i andre områder (Barstad mfl. 2006, Andersen 2003, Andersen og Kielgast 2003, Batty mfl. 2010, Christensen mfl. 2019a).
+
+#### Investeringer og omdømme
+
+Enkelte områdesatsinger ser ut til å ha bidratt til å redusere hærverk (Andersen 2003) og til å øke private investeringer i boliger (Jensen mfl. 2015). Både fysiske og sosiale forbedringer kan ha positive effekter for områdenes attraktivitet og omdømme blant folk som bor andre steder. Samtidig er flere bekymret for at områdesatsinger kan føre til en ytterligere stigmatisering av områder, særlig hvis områdesatsingene ikke gir positive effekter (Andersen 2003, SOU 2005:29). Det er heller ikke enkelt å måle om områdesatsinger har påvirket omdømmet. Endrede flyttemønstre og økte boligpriser kan henge sammen med at områdets omdømme er blitt bedre. Spørreundersøkelser indikerer samtidig at folk fra andre nabolag kan få et mer positivt bilde av området uten at det nødvendigvis gir store endringer i befolkning og boligpriser (f.eks. Rambøll 2020). Effektene på omdømmet kan også være sammensatte, for eksempel ved at omdømmet bedres blant folk i nærområdene, mens det fortsatt er uendret blant folk som bor andre steder (Ruud mfl. 2019a).
+
+#### Samarbeid, metodeutvikling og medvirkning
+
+Det er flere eksempler på at offentlige instanser har utviklet kompetansen sin og nye måter å jobbe på ut fra midler fra områdesatsingene, og at områdesatsingene har vært en ramme for samarbeid mellom offentlige instanser. Områdesatsingene har også vært benyttet som ramme for å teste ut nye tiltak (SOU 2005:29, Agenda Kaupang mfl. 2016). Samtidig er det flere eksempler på at områdesatsingene ikke har fungert godt som en ramme for samarbeid og metodeutvikling. Resultater fra den svenske Storstadssatsningen tyder på at prosjektorganisering kan legge bedre til rette for innovasjon i tjenestene, men gjør samtidig at prosjektene blir mindre betydningsfulle enn om de organiseres i den ordinære virksomheten (SOU 2005:29).
+
+Det er videre eksempler på at områdesatsingene har vært benyttet til å prøve ut nye metoder for å involvere lokalbefolkningen. Nærområdene kan være en god arena for å styrke folks kompetanse på medvirkning (SOU 2005:29, Agenda Kaupang mfl. 2016). Samtidig er det eksempler på at medvirkningsprosesser gjennom områdesatsinger kun gir dem som medvirker, innflytelse over små og perifere prosjekter. Medvirkning kan dessuten skape store forventninger blant lokalbefolkningen til hva de kan påvirke (SOU 2005:29, Batty mfl. 2010, Gabrielsen 2014).

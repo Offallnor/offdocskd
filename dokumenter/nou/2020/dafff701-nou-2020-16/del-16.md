@@ -1,887 +1,152 @@
-# NOU 2020: 16, del 16 av 27 (side 187–196)
+# NOU 2020: 16, del 16 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/dafff701-nou-2020-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-16/id2798280/
 - Original-PDF: https://www.regjeringen.no/contentassets/ccc978f8e2184980b4597ba59796e7e3/no/pdfs/nou202020200016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 13 tabeller, 25 figurer, 243 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 187]
-
-NOU 2020: 16
-Levekår i byer
-
-13.1.11 Nærskoleprinsippet og
-skolesegregering
-Alle elever i grunnskolen har rett til å gå på nærskolen (nærskoleprinsippet). Kommunen kan
-avgjøre hva som er nærskolen i en forskrift om
-skolekretsgrenser.8 Dersom kommunen kan dokumentere at en skole er full, kan kommunen fordele
-elever på andre skoler på en forsvarlig og likeverdig måte, enten ved forskriftsregulering eller ved
-enkeltsaksbehandling.
-Elever kan søke om å få gå på en annen skole
-enn den de sokner til. Hvis det er flere elever som
-søker om plass enn det er ledige plasser på skolen, må skolen prioritere hvilke elever som skal få
-plass. Da kan momenter som avstand til skolen fra
-elevens bosted, søsken ved skolen, trafikk- og sikkerhetsmessige forhold og sosiale eller medisinske forhold mv. spille inn.
-Det er høy oppslutning om nærskolene i Norge.
-I Oslo går for eksempel 94 prosent av elevene på
-nærskolen sin (Abildsnes 2020). Skolesegregering
-henger nøye sammen med boligsegregering
-(Brattbakk og Wessel 2009). Når de fleste barn bor
-og går på skole i ett og samme område, vil man
-kunne se tendenser til skolesegregering i alle byer
-som er økonomisk og sosialt delt.
-
-13.1.11.1 Fritt skolevalg i svenske grunnskoler
-I Sverige ble reformen om fritt skolevalg i grunnskolen innført i begynnelsen av 1990-årene. Formålet var at foreldre skulle kunne velge den skolen som passet best for barnet deres både med
-hensyn til lokalisering, fasiliteter og vekt på fag.
-Finansieringen av skoleplassen følger eleven
-(stykkprisfinansiering). Reformen er omdiskutert. Skoleforskere slår fast at bostedssegregering
-er den viktigste årsaken til segregering i skolen
-(Holmlund mfl. 2019, Ambrose 2016). Men både
-skolemyndighetene og skoleforskere har pekt på
-at reformen har svært uheldige konsekvenser ved
-å øke skolesegregeringen og bidra til å øke resultatforskjellene mellom skoler (Skoleverket 2018,
-Trumberg og Urban 2020, Holmlund mfl. 2019,
-Fejes og Dahlstedt 2018, Ambrose 2016).
-Oppsummert viser de ulike studiene at det
-først og fremst er de mest informerte foreldrene
-som bruker det frie skolevalget, og som velger de
-såkalte «friskolene»9 og de beste kommunale sko8
-9
-
-Utdanningsdirektoratets nettside.
-«En skola som drivs i privat regi, snarare än offentlig.
-Finansierar med offentliga medel via skolpeng, och tar inte
-ut avgiftar av eleverna» (ekonomifakta.se).
-
-185
-
-Kapittel 13
-
-lene. Det skjer en sortering ved at elevene med de
-beste forutsetningene for å lykkes går på de kvalitativt beste skolene, ofte friskoler. De med de svakeste karakterene går på skoler som i mindre
-grad klarer å løfte elevene. Skolen er sjeldnere
-enn tidligere en møteplass mellom barn med
-svensk bakgrunn og innvandrerbakgrunn.
-Forskerne peker også på at for å kunne tilby et
-godt læringsmiljø, og for å få mest mulig ut av
-undervisningen og best mulige nasjonale resultater, er det viktig at elevene har ulike erfaringer og
-bakgrunn. Også på systemnivå er det dermed problematisk at like elever samles på de samme skolene. De minst attraktive skolene ligger i de mest
-utsatte områdene, og når de mister elever, mister
-de også finansiering. Samtidig tiltrekker skolene
-med de mest skoleflinke elevene seg de beste
-lærerne. Det øker kvalitetsforskjellene i skolen.
-I et bilag til den svenske Långtidsutredningen
-2019 vurderes det i hvilken grad elever har like
-muligheter i den svenske skolen (Holmlund mfl.
-2019). Studien bekrefter at skolen i Sverige er blitt
-mer segregert de siste tiårene, både med hensyn
-til elevenes sosiale bakgrunn og landbakgrunn.
-Det skyldes blant annet at bostedssegregeringen
-har økt, og at det har blitt en høyere andel barn
-som enten snakker lite svensk når de begynner på
-skolen, eller som kommer inn underveis i skoleløpet. Videre peker utredningen på fritt skolevalg
-og at flere elever går i friskoler. Det varierer om
-skolene klarer å løfte elever og gi alle et likeverdig
-opplæringstilbud. Friskolene klarer det best.
-Kommunale skoler med elever med de beste forutsetningene bidrar mer enn kommunale skoler
-hvor elevene har dårligere forutsetninger. Studien
-konkluderer med at selv om den svenske skolen
-har mange styrker, gjør kvalitetsforskjellene mellom skoler at ikke alle barn har den samme tilgangen til bra skoler. Dermed gir ikke skolen elevene
-de samme mulighetene. De mest skolesvake går
-på skoler som i mindre grad klarer å løfte elevene.
-OECD (2011a) har tidligere konkludert med
-at fritt skolevalg er en av faktorene som er skyld i
-skolesegregeringen i Sverige. En annen OECDstudie (2015) viser at de svenske PISA-resultatene
-gikk drastisk ned etter skolereformen, fra nær
-OECD-gjennomsnittet i 2000 til betydelig under
-gjennomsnittet i 2012. I perioden hadde ingen
-andre land som deltok i PISA, en kraftigere nedgang enn Sverige. Svenske myndigheter satte i
-gang flere tiltak, og den negative trenden så ut til
-å bevege seg gradvis i positiv retning. OECD
-bemerker likevel at det kreves en mer konsistent
-og sammenhengende innsats nasjonalt og lokalt
-for å legge til rette for bedre resultater for alle sko-
-
-[Side 188]
-
-186
-
-Kapittel 13
-
-NOU 2020: 16
-Levekår i byer
-
-ler og elever. OECD foreslo en rekke tiltak. Blant
-dem var å revidere ordningen med fritt skolevalg
-for å sikre at skolene både tilbyr kvalitet og like
-muligheter for elevene. I tillegg foreslo OECD å
-«kontrollere» skolevalgsordningen for å sikre at
-skolene generelt får en mer mangfoldig elevgruppe, og for å gi vanskeligstilte familier informasjon om skoler og støtte dem i å ta informerte
-valg.
-
-13.1.12 Inntak til videregående opplæring
-I dag er det opp til fylkeskommunene å bestemme
-hvilket inntakssystem til videregående opplæring
-de vil ha.10 Praksisen varierer mellom fylkeskommuner, men flere praktiserer enten karakterbasert opptak (fritt skolevalg) eller inntak etter nærskoleprinsippet.
-Regjeringen vil innføre fritt skolevalg i videregående opplæring i alle fylker. Fylkeskommunene
-kan fastsette egne inntaksområder, men de kan
-ikke lenger ha inntak etter nærskoleprinsippet.
-Regjeringens begrunnelse for tiltaket er at elever i
-større grad skal kunne velge hvilken skole de vil
-gå på. Utdanningsdirektoratet får i oppdrag å lage
-den nye modellen i tett dialog med KS og fylkeskommunene.
-Flere norske studier viser at ordningen med
-fritt skolevalg i videregående opplæring bidrar til
-segregering etter sosioøkonomisk bakgrunn,
-kjønn og innvandrerbakgrunn (Helland og Serediak 2020, Haugen 2019, Sandsør 2020, Bjordal
-2016).
-Forskere ved OsloMet har på oppdrag fra det
-kommunale Inntaksutvalget i Oslo kommune
-sammenliknet ulike inntaksmodeller til videregående opplæring ved skoler med studiespesialisering (Helland og Serediak 2020). De slår fast at
-karakterbasert inntak uten sammenlikning er den
-løsningen som gir størst segregering: Elever med
-de laveste karakterene blir konsentrert i noen
-skoler i Oslo øst, mens de med høyest karaktersnitt blir konsentrert ved noen sentrumsskoler
-eller på byens vestkant. Av de andre inntaksmodellene som er vurdert, er det ingen som utpeker
-seg som det beste alternativet for inntak i Oslos
-offentlige skoler.
-En studie fra lærerutdanningen ved NTNU
-peker både på styringssystemet i Osloskolen og
-fritt skolevalg som årsak til at det blir større konkurranse om elevene (Haugen 2019). Den kvalitative studien finner at skolene utvikler strategier
-10
-
-Jf. forskrift til opplæringsloven § 6-2.
-
-for å unngå de mest ressurskrevende elevene.
-Dette fører til segregering etter kjønn, sosioøkonomisk bakgrunn og innvandrerbakgrunn. Studien viser at det foregår en skjult seleksjon av
-elever: Skolene prioriterer de sterkeste elevene,
-men prøver å unngå de mest ressurskrevende
-elevene. Denne skjulte seleksjonen skjer også ved
-de «marginaliserte» skolene. Fritt skolevalg
-bidrar videre til segregering i lokalmiljøet ved at
-skoler som ligger svært nær hverandre, kan ha
-helt ulik sammensetning av elever. Studien peker
-på at også kjønnsbalansen endres. Gutter utgjør
-mer enn 70 prosent av elevene ved de minst
-attraktive skolene, mens jenter er i like stort flertall ved de mest populære skolene.
-Sandsør (2020) går gjennom ulike studier om
-fritt skolevalg og ser på konsekvenser for elevenes prestasjoner, gjennomføring av videregående
-opplæring og skolesegregering. Basert på litteraturgjennomgangen mener hun at de negative
-effektene fritt skolevalg har på segregeringen
-mellom skoler, er tydelig. Studier fra Hordaland
-viser at elevsammensetningen endret seg som
-følge av at fylkeskommunen i 2005 gikk over til
-fritt skolevalg i videregående skole (Haraldsvik
-2014, Andersland 2017). Sentrumselever med
-lavere karakterer ble utkonkurrert ved sentrumsskoler i Bergen. Endringene i elevsammensetningen ga imidlertid bedre resultater i grunnskolen.
-Dette koples til at elever i ungdomsskolen ved fritt
-skolevalg får flere valgmuligheter, og det gjør at
-karakterer betyr mer ved inntaket. En tilsvarende
-studie fra Trondheim ser på effekten på grunnskoleresultatene etter at det der ble innført en
-kombinasjonsmodell med fritt skolevalg innenfor
-en radius på seks kilometer (Haraldsvik 2014).
-Effekten på grunnskolekarakterene var der negativ, men ikke statistisk signifikant. Studier som ser
-på hvilke effekter fritt skolevalg har på karakterer
-og gjennomføring i videregående opplæring, viser
-ulike resultater.
-Stoltenbergutvalget (NOU 2019: 3) foreslår å
-utrede om fylkeskommunene bør kunne basere
-inntaket på karakterprogresjon i stedet for karakterer, i tillegg til ordinært karakterbasert inntak
-og geografisk bestemt inntak. Med «karakterprogresjon» mener utvalget hvor mye eleven har løftet seg i prestasjoner gjennom ungdomsskolen.
-Videre foreslår utvalget at regelverket bør åpne
-for at fylkeskommuner selv kan velge hvilke
-utdanningsprogrammer som skal kombinere
-karakterbasert opptak med opptak basert på
-dokumentasjon av ferdighet i form av en enkeltkarakter, inntaksprøve eller intervju.
-
-[Side 189]
-
-NOU 2020: 16
-Levekår i byer
-
-187
-
-Kapittel 13
-
-Boks 13.10 Inntaksutvalget
-I Oslo praktiseres karakterbasert opptak i videInntaksutvalget foreslår ikke en konkret modell,
-regående skole. Det kommunale Inntaksutvalmen skisserer to alternativer som må utredes
-videre. Den ene er en modifisert versjon av
-get ble nedsatt av byrådet i Oslo med mandat til
-karakterbasert opptak som skal kunne tilgodese
-å vurdere ulike inntaksmodeller til videregåutsatte elever, og som på den måten skal dempe
-ende opplæring og å foreslå en modell. Utvalget
-segregering. Den andre er en progresjonsmola fram sin rapport 4. mars 2020.
-Inntaksutvalget ser i rapporten nærmere på
-dell som legger vekt på innsats og progresjon
-seks ulike modeller:
-framfor karakterer, denne andre er med
-utgangspunkt i Stoltenbergutvalgets forslag.
-1) progresjonsmodellen,
-Rapporten følges nå opp av byrådet.
-2) karaktermodellen,
-3) loddmodellen,
-4) lodd- og karaktermodellen,
-5) kvotemodellen og
-6) førsteønskemodellen.
-
-13.2 Tjenester til familier og barn
-Offentlige tjenester tilbys på ulike forvaltningsnivåer, men kommunene er den viktigste tilbyderen.
-I tillegg til barnehage og skole kan dette være
-ulike helsetjenester som helse- og omsorgstilbud,
-helsestasjon og skolehelsetjenester samt sosiale
-tjenester. Utvalget har valgt å legge vekt på noen
-tjenester som særlig retter seg mot familier og
-deres barn i utsatte situasjoner.
-
-13.2.1 Ulike tjenester til barn og unge og
-familiene deres
-Barn og familier i utsatte situasjoner kan ha behov
-for ulike tjenester og ofte flere samtidig. Ulike tjenester dekker ulike behov. Noen er mest forebyggende, andre er både forebyggende og reparerende.
-Familievernkontorene gir tilbud om behandling og rådgivning ved vansker, kriser og konflikter i familier. Tilbudet er gratis, alle kan ta kontakt, og det er ikke behov for henvisning. Kjerneoppgavene er å behandle og å gi råd til familier
-som har det vanskelig, som er i konflikt eller i kriser, og å mekle ved samlivsbrudd hvis paret har
-felles barn under 16 år. Familievernkontorer kan
-være enten statlige eller kirkelige, men drives
-etter samme regler.
-Skolehelsetjenesten skal bidra til god helse
-blant barn og ungdom slik at de opplever mestring, trivsel og struktur i skolehverdagen.11 Skole11
-
-Helsenorge.no
-
-helsetjenesten gir råd og veiledning for å fremme
-barn og ungdoms psykiske og fysiske helse og for
-å forebygge sykdom og skader. Skolens helsesykepleiere snakker med alle om vold, omsorgssvikt
-og rusmiddelbruk.
-Helsestasjon for barn mellom null og fem år er
-et gratis tilbud for barn og foreldre fra barna er
-født, og til de begynner på skolen.12 I tillegg til tilbudet om faste konsultasjoner er det et ønske at
-ansatte ved helsestasjonen kan støtte foreldre,
-gjøre dem trygge i foreldrerollen og bidra til at
-barn får en trygg og god oppvekst. Helsesykepleiere gir foreldreveiledning og snakker med alle om
-blant annet betydningen av samspill, ernæring,
-søvn og om rusmiddelbruk, vold og omsorgssvikt.
-Barnevernet møter de mest sårbare barna og
-skal gi barn, unge og familier hjelp og støtte når
-det er vanskelig hjemme, eller når barnet av andre
-grunner har behov for hjelp (Bufdir 2015). Hvis
-foreldrene sliter eller har det vanskelig, skal barnevernet hjelpe til slik at barn og unge får den
-omsorgen de trenger. Barnevernet skal sikre at
-barn og unge som lever under forhold som kan
-skade helsen eller utviklingen deres, får hjelp og
-omsorg til rett tid. Videre skal barnevernet sørge
-for at barn og unge får trygge oppvekstvilkår. For
-barn under den kriminelle lavalder som begår kriminalitet, er det barnevernet som kan sette inn
-konkrete tiltak.
-
-12
-
-Ibid.
-
-[Side 190]
-
-188
-
-NOU 2020: 16
-
-Kapittel 13
-
-Levekår i byer
-
-Boks 13.11 Oslo – en traumeinformert by
-læringsevnen har økt og psykisk sykdom og
-I Oslo kommune er det et mål at byen skal bli en
-risikoatferd som kriminalitet og rusmisbruk er
-traumeinformert by. En traumeinformert by og
-gått ned. Tiltakene har størst effekt i levedets tjenester, innbyggere og frivillige aktører er
-bevisst på at for mange barn og unge utsettes
-kårsutsatte områder.
-for omsorgssvikt, belastninger, krenkelser og
-Det er en nær sammenheng mellom levevold i nære relasjoner som kan få alvorlige konkårsutfordringer, bruk av rusmidler og psykisk
-helse. De er gjensidig forsterkende. En studie
-sekvenser senere i livet. Det handler om å
-fra World Health Organization (WHO) viser at
-utvikle et samfunn som erkjenner, forstår, gjendet er fem ganger større sannsynlighet for å
-kjenner og responderer på alle typer alvorlige
-utvikle en psykisk lidelse hvis man bor i et levebarndomsbelastninger og negative livshendelser som kan påvirke barns nevrologiske utvikkårsutsatt område, enn om man bor i et område
-med gode levekår. Opplever man vold i nære
-ling negativt. Det er fremdeles en lang vei å gå
-relasjoner og utrygge nabolag, er denne forfør samfunnet erkjenner dette.
-Målet for satsingen er å redusere vold og
-skjellen ni ganger så stor. Samtidig er det ikke
-overgrep, krenkelser og alvorlige belastninger
-tilfeldig at personer med rusavhengighet og/
-hos barn og unge. Videre er det et mål å sette
-eller psykisk lidelse bosetter seg i levekårsutinn tiltak som styrker barn og ungdommers
-satte områder. På individnivå er dårlig psykisk
-evne til å mestre livet og utvikle resiliens, og å gi
-helse og rusmisbruk hos foreldre en av de vikrett behandling til dem som blir syke. Tjenestigste prediktorene for at barn fortsetter å bo i
-levekårsutsatte områder i voksen alder. For å få
-tene skal møte familier, barn og unge på nye
-slutt på denne sosiale arven og dermed redumåter som stimulerer hjerneutviklingen, styrker
-trygge, varige og tillitsfulle relasjoner og avdeksere sannsynligheten for at neste generasjon
-også opplever det samme, må man tenke foreker og stopper vold og overgrep.
-Internasjonalt finnes en rekke eksempler på
-byggende ved å hjelpe foreldre med psykisk
-hvordan byer og organisasjoner lykkes med en
-lidelse og rusbruk så de kan få bedre relasjoner
-traumeinformert satsing i et livsløpsperspektiv.
-til barna sine. Når barn får en bedre relasjon til
-Fellesnevneren for dem som lykkes, er tverrforeldrene, er det mer sannsynlig at de gjennomsektorielt samarbeid, implementering av screefører skolegang, får seg arbeid og klatrer oppning- og intervensjonsprogrammer for den
-over den sosioøkonomiske stigen.
-brede befolkningen, individuell tilnærming og
-et felles kunnskaps- og verdigrunnlag. ResultaKilde: Oslo kommune og WHO.
-tene viser at frafallet i skolen har gått ned,
-
-13.2.2 Vurderinger av tjenester til barn og
-unge og deres familier
-Familievernutvalget (NOU 2019: 20) har gjennomgått familieverntjenesten og anbefaler tiltak som
-har til formål å styrke tjenesten. Utvalget peker på
-at familieverntjenesten i dag mangler kapasitet til
-å utføre de oppgavene de har. Tjenesten har altfor
-mange oppgaver, noe som fører til for liten tid til å
-følge opp både mekling og kliniske saker. Familievernutvalget anbefaler blant annet at familievernet
-skal være et tilbud for vanlige folk med vanlige
-problemer, og at tjenesten derfor ikke skal prioritere saker som krever spesialisering og kompleks
-behandling, for eksempel tyngre voldssaker
-(ibid.).
-
-En gjennomgang av barnevernssaker fra Helsetilsynet i 2019 viste at barneverntjenestene
-snakket med barna i alle faser av arbeidet, men at
-det barna fortalte, ofte ikke ble tatt hensyn til eller
-brukt i vurderinger og som argumentasjon i viktige beslutninger. At barn ikke ble snakket med
-eller ikke ble snakket med på en god måte, gikk
-igjen som en svikt i sakene som Barnevoldsutvalget gikk gjennom for få år siden (NOU 2017: 12).
-Utvalget fant dårlig kvalitet i arbeidet med barn
-som var utsatt for vold, seksuelle overgrep og
-omsorgssvikt, og det var store variasjoner fra
-kommune til kommune.
-Barnevernet forvalter noen av samfunnets
-mest inngripende tiltak overfor enkeltpersoner og
-har brede fullmakter til å utøve myndighet. Feil-
-
-[Side 191]
-
-NOU 2020: 16
-Levekår i byer
-
-Boks 13.12 Foreldreveiledningsprogrammer
-Foreldreveiledningsprogrammer er en del av
-tilbudet om støtte som gis til foreldre. Dette er
-ulike kurs foreldre kan delta på, hvor formålet
-er å bedre omsorgsevnene. Et titalls programmer tilbys i dag gjennom ulike aktører (Bråten
-og Sønsterudbråten 2016). Noen programmer
-er universelle og retter seg mot hele befolkningen. Andre programmer er for foreldre og
-familier som av ulike grunner antas å ha
-større risiko for utfordringer i foreldrerollen,
-eller for å bistå familier med etablerte problemer. Det siste kan for eksempel være der barnet har fått en diagnose eller har atferdsproblemer, eller der foreldre sliter med rus, psykiske lidelser eller av andre grunner ikke mestrer foreldrerollen. Grovt sett kan man si at de
-universelle programmene søker å forebygge
-omsorgssvikt og styrke foreldreskap i samfunnet generelt, mens de to andre typene programmer søker å korrigere og forbedre foreldre–barn-relasjonen der det allerede er eller
-synes å være risiko for utfordringer (ibid.).
-Foreldreveiledning skal innføres som en
-obligatorisk del av introduksjonsprogrammet
-for nyankomne innvandrere, det vil si for deltakere som har barn. Formålet skal være å gi
-informasjon om og veiledning i foreldrerollen i
-en norsk kontekst.
-
-vurderinger kan få fatale konsekvenser. En rekke
-utredninger og meldinger har gjennom flere tiår
-pekt på at barnevernet trenger et kraftig kompetanseløft. For eksempel har Barnevoldsutvalget
-(NOU 2017: 12) framhevet manglende kompetanse i barnevernet som en medvirkende årsak til
-svikt i tilbudet til utsatte barn. I rapporten Utredning av kompetansehevingstiltak i barnevernet
-(2019) fra Bufdir slås følgende fast:
-Utdanningene er underfinansierte og for
-korte, kompetansekravene er utilstrekkelige
-og de ansatte mottar ikke veiledning eller
-andre tiltak for å takle en følelsesmessig krevende jobb. Rammene for å sikre kompetanse i
-barnevernet er langt mindre utviklet enn i
-skole- og helsesektoren, i politiet og i rettsvesenet for øvrig. I tillegg har vi Nordens korteste
-utdanning for arbeid i barnevernet, og stiller i
-
-189
-
-Kapittel 13
-
-flere tilfeller lavere kompetansekrav enn de
-andre nordiske landene. Etter vårt syn tyder
-dette på at alvoret og kompleksiteten i barnevernets arbeid ikke har vært tilstrekkelig anerkjent i Norge (ibid.:4).
-Bufdir peker videre på at mange ansatte i barnevernet slutter og går over i andre jobber ganske
-raskt. I det kommunale barnevernet har for
-eksempel hele 40 prosent av de ansatte tre års
-arbeidserfaring eller mindre (Bufdir 2019).
-Folkehelseinstituttet har gått gjennom åtte systematiske kunnskapsoversikter over tiltak for barn
-og unge med atferdsvansker eller som har begått
-kriminelle handlinger (Berg 2020). Oppsummeringen viser at det finnes tiltak som ser ut til å kunne
-redusere atferdsvansker, men at det er usikkert
-hvor stor effekten er. Det finnes best dokumentasjon på at tiltak som er familiebasert, og særlig tiltak som inneholder foreldreveiledning, reduserer
-atferdsvansker hos barn og unge. Størst effekt har
-tiltakene hvis de retter seg mot høyrisikogrupper.
-Tiltakene har trolig effekt fordi foreldrene blir
-bedre til å veilede barna til å endre atferd og ved å
-bedre samspillet mellom foreldre og barn.
-
-13.2.3 Samarbeid mellom tjenester rettet mot
-barn og unge og deres familie
-Ulike lover pålegger både kommunale og statlige
-tjenester å samarbeide når det er behov for å imøtekomme behov en bruker har. Dette kan være
-vanskelig å få til fordi tjenestene er underlagt
-ulike lov- og avtaleverk.
-En undersøkelse som ser på hva som er typisk
-for kommuner som gir gode og effektive tjenester
-til utsatte barn og unge, peker på flere kjennetegn
-ved kommunene (Kaurstad mfl. 2015). De har
-blant annet en robust samhandlingskultur og felles verdier, de har sterk lederforankring på alle
-nivåer, de gir overgripende mål og felles retning i
-alle strategi- og plandokumenter, de har kunnskapsbasert tjenesteutvikling som ledestjerne, og
-de satser på å bygge kompetanse på alle nivåer.
-Videre satser de gjennomgående på tidlig innsats.
-Det kan være spesielt vanskelig å få samarbeid
-til å fungere når ingen av tjenestene har et overordnet samordningsansvar. Barn som har behov for
-langvarige og koordinerte tjenester, har rett til individuell plan etter blant annet helselovgivningen og
-barnevernloven. Hensikten med en individuell plan
-er å sikre at det alltid er en tjeneste som har hovedansvaret for å følge opp barnet. Både barneverntjenesten og helse- og omsorgssektoren har en selvstendig plikt til å vurdere om barnet har behov for
-
-[Side 192]
-
-190
-
-Kapittel 13
-
-NOU 2020: 16
-Levekår i byer
-
-individuell plan. Hvis barnet ikke allerede har en
-plan og tjenesten vurderer at barnet har behov for
-det, har tjenesten som har gjort vurderingen, et
-ansvar for å ta initiativ til arbeidet med en plan. De
-har også ansvar for å involvere andre tjenester. Det
-er sektorlover som regulerer individuell plan.
-Innenfor helse- og omsorgssektoren er det for
-eksempel en koordinerende enhet som har ansvaret for individuell plan, men ikke innenfor arbeidsog velferdssektoren (NAV). At det mangler en
-koordinerende enhet, kan bidra til at samarbeidet
-mellom deler av tjenesteapparatet om planen ikke
-fungerer godt nok.
-En arbeidsgruppe i 0–24-samarbeidet har kartlagt hvordan gjeldende regelverk forstås og etterleves, og hva tjenestene anser som gråsoner og samarbeidsområder for sektorene.13 Arbeidsgruppa
-dokumenterer at ikke alle barn får et helhetlig og
-koordinert tilbud når de trenger det, og at en viktig
-årsak til det er at velferdssektorene ikke samarbeider godt nok. Det samarbeides ikke i tilstrekkelig
-grad eller med tilstrekkelig kvalitet. Arbeidsgruppa
-dokumenterer hull og svakheter i sektorregelverkene, men konkluderer samtidig med at å «tette
-hull» eller endre regler i enkelte særlover uansett
-ikke vil kunne bidra til at 0–24-samarbeidets mål
-nås fullt ut. Arbeidsgruppa foreslår derfor at nye
-bestemmelser om samarbeid på tvers samles i en
-ny samarbeidslov. Der foreslås det blant annet at
-kommunen skal ha en samarbeidsenhet for barn
-og unge som skal ha ansvaret for samarbeidstiltak.
-Taushetsplikten påvirker samarbeidet mellom
-ulike instanser i enkeltsaker ved at den begrenser
-hvilke opplysninger som kan deles. Ansatte i velferdstjenestene har taushetsplikt, men noen lover,
-for eksempel helse- og omsorgstjenesteloven, spesialisthelsetjenesteloven og barnevernloven, har
-noe strengere regler enn de alminnelige reglene i
-forvaltningsloven. Samtykke fra brukeren kan
-frita fra taushetsplikten, og arbeidsgruppa i 0–24samarbeidet peker på at reglene kan være vanskelige å forstå.
-
-13.2.4 Tjenestenes møte med en mangfoldig
-befolkning
-«Mangfold» er et bredt begrep som favner forskjellighet, variasjon, kompleksitet og diversitet
-og inkluderer synlige og usynlige faktorer (Røt13
-
-Samarbeid til barn og unges beste. Rapport utarbeidet av
-arbeidsgruppe med mandat fra 0–24-samarbeidet med
-utgangspunkt i tiltak B fra oppdragsbrev 16-15 Samarbeid
-om bedre koordinerte tjenester for utsatte barn og unge
-under 24.
-
-Boks 13.13 Verdiskapning gjennom
-mangfoldsledelse
-En bredt sammensatt komite har sammen
-med Standard Norge utarbeidet en standard
-for mangfoldsledelse som er bygd opp på
-samme måte som andre standarder for ledelsessystemer. Arbeidet betegnes som et
-nybrottsarbeid utført i Norge. Det finnes
-ingen tilsvarende standard i verden, verken i
-den internasjonale standardiseringsorganisasjonen ISO eller i den europeiske standardiseringsorganisasjonen CEN.
-Mangfold er en naturlig del av ethvert
-samfunn og en styrke for samfunnet og for
-den enkelte virksomhet. Dette gjelder forskjeller etter kjønn, alder, etnisk bakgrunn, religion, kultur, språk, kompetanse, seksuell legning og funksjonsnivå. Standarden understreker at mangfold er en mulighet som bør tas i
-bruk, men for å hente ut fordelene kreves
-gode systemer og en hensiktsmessig ledelse.
-Den nye standarden, NS 11201, Norsk Standard for mangfoldsledelse, vil være et verktøy
-som hjelper til med dette.
-Kilde: Standard Norge.
-
-hing 2020). Drange (2014) definerer mangfold
-som «grupper som består av personer med ulike
-individuelle kjennetegn som kjønn, alder, funksjonsnedsettelse eller kulturell bakgrunn, men
-det brukes også om forskjeller i perspektiv, atferd
-og identitet» (ibid.: vi).
-For å kunne tilby likeverdige tjenester til en
-mangfoldig befolkning trengs bred kunnskap og
-kompetanse i tjenestene. Innenfor skoleverket og i
-forbindelse med innføring av ny læreplan argumenterer Røthing (2020) for at man trenger økt mangfoldskompetanse i skolen og i lærerutdanningen.
-Mangfoldskompetanse forstår Røthing som
-kunnskap om teoretiske perspektiver, bevisstgjøring, kritisk tenkning om makt, maktforhold og
-relasjoner mellom mennesker og grupper av mennesker samt bevissthet rundt privilegier. Røthing
-(2020) påpeker at innenfor skoleverket er det nødvendig med relevant kunnskap, og ønsker med
-forslagene sine om mangfoldskompetanse å bidra
-til kritiske refleksjoner omkring maktforhold, privilegier og forståelsesmåter som reproduserer
-stereotypier. Kunnskap vil hjelpe og gi et trygt
-
-[Side 193]
-
-NOU 2020: 16
-Levekår i byer
-
-grunnlag for å arbeide med temaer, problemstillinger og situasjoner som kan oppleves som vanskelige og kontroversielle, på en god måte.
-
-13.2.5 Pågående prosesser
-Regjeringen sendte i juni 2020 et forslag om å
-styrke oppfølgingen av utsatte barn og unge og
-deres familier på høring. Målet er at ulike tjenester skal samarbeide tettere og hjelpe hverandre
-til å gi gode tilbud til utsatte barn og unge. Regjeringen foreslår å innføre felles regler om individuell plan som gjelder alle tjenester som har plikt
-til å utarbeide slike planer. Individuell plan i barnevernet foreslås lovfestet slik at det blir en rettighet, som individuell plan er i andre lover. For å
-harmonisere ulike regelverk foreslås det dermed
-endringer i en rekke velferdslover. Det er også
-foreslått en felles forskrift om individuell plan. I
-tillegg foreslår regjeringen å innføre en plikt for
-kommunen til å samordne samarbeidet mellom
-de ulike velferdstjenestene.
-Det er flere større prosesser og prosjekter på
-gang på barnevernsfeltet. Stortinget vedtok i 2017
-barnevernsreformen, en kvalitets- og strukturreform hvor kommunene gis et større ansvar for
-barnevernet. Målet er å gi tidlig og mer tilpasset
-hjelp til utsatte barn og familier.
-Barne- og familiedepartementets kompetansestrategi for det kommunale barnevernet (2018–
-2024) skal gi et kompetanseløft i barnevernet. Tiltakene i strategien skal øke de ansattes kompetanse i
-å utrede barns behov og sette inn riktig hjelp.
-Barnevernslovutvalget (NOU 2016: 16) har
-gjennomgått barnevernloven og foreslått flere
-endringer. Barne- og familiedepartementet sendte
-forslag til ny barnevernslov på høring i april 2019.
-Den er fortsatt til behandling i departementet.
-I Barne- og familiedepartementets høringsnotat om barnevernloven er det gjort framlegg om
-en overordnet bestemmelse som tydeliggjør at
-barnevernet skal ta hensyn til barnets kulturelle,
-språklige og religiøse bakgrunn. Målet med forslaget er å bidra til at tjenestene blir mer bevisste
-på dette i arbeidet sitt, og til bedre barnevernsfaglig arbeid og riktigere avgjørelse til barnets beste.
-Justis- og beredskapsdepartementet bestilte i
-2018 en utredning om taushetsplikt, opplysningsplikt og opplysningsrett innenfor det offentlige.
-Denne skal være utgangspunkt for arbeidet med en
-veileder om hvordan regelverket skal forstås og
-praktiseres på tvers av sektorer. Et forslag om å
-endre forvaltningsloven for å gi utvidet adgang til å
-dele taushetsbelagt opplysninger mellom ulike forvaltningsorganer, har vært på høring høsten 2020.14
-
-191
-
-Kapittel 13
-
-13.3 Utvalgets vurderinger
-13.3.1 Barnehagen skal være tilgjengelig for
-alle barn
-Utvalget viser til at barnehagens betydning for
-barns utvikling og læring er godt dokumentert i
-internasjonal og norsk forskning. Barnehagen er
-sammen med skolen de viktigste arenaene for
-barns utvikling utenfor familien.
-Selv om barnehagedeltakelsen i Norge er
-svært høy, er det fortsatt noen barn som ikke har
-gått i barnehagen når de begynner på skolen.
-Andre har startet senere i barnehagen enn det
-som er vanlig. Erfaringer fra levekårsutsatte
-områder viser at noen av de barna som trenger
-det mest, ikke går i barnehage eller begynner
-senere. De barna som ikke omgås med norskspråklige barn, får derfor for liten tid i barnehagen til at de utvikler språket godt nok før skolestart. Barns språkferdigheter har også stor
-betydning for barnas trivsel og følelse av mestring
-i hverdagen.
-Barnehagen er i dag det eneste tilbudet i opplæringsløpet som ikke er gratis. Dersom deler av
-dagens barnehagetilbud var et obligatorisk opplæringstilbud på linje med grunnskolen, ville det
-ikke være aktuelt å kreve egenbetaling. Utvalget
-mener at i et tidlig innsats-perspektiv er det uheldig at betalingsevne eller -vilje skal begrense
-barns tilgang på en viktig pedagogisk og sosial
-arena. Vi vet at tidlig innsats i barnehagen og de
-første skoleårene er samfunnsøkonomisk lønnsomt framfor innsats senere i utdanningsløpet.
-Egenbetalinger rammer også de barna som trenger barnehagetilbudet mest.
-Utvalget har vurdert en rekke tiltak for å
-redusere foreldrebetalingen for at barnehagen
-skal bli mer tilgjengelig. Dette er tiltak rettet mot
-alle barn (universelle tiltak), tiltak som er målrettet mot barn i lavinntektsfamilier, og tiltak som
-kun skal gjelde i noen geografiske områder. Universelle tiltak rettet mot alle barn gjør at alle kan
-delta uavhengig av økonomi. Dette er viktig i et
-tidlig innsats-perspektiv, særlig når barnehagen
-faktisk regnes som en del av utdanningsløpet.
-Samtidig er gratistilbud rettet mot alle barn i barnehagealder svært kostnadskrevende å innføre
-og krever at det settes av midler over statsbudsjettet både til å kompensere for bortfall av foreldrebetalingen og til å etablere flere barnehageplasser. Moderasjonsordninger og gratistilbud i
-barnehager rettet mot lavinntektsfamilier er slik
-14
-
-Regjeringens nettsider.
-
-[Side 194]
-
-192
-
-Kapittel 13
-
-NOU 2020: 16
-Levekår i byer
-
-sett mer målrettet mot de barna som trenger det
-mest, og mindre kostnadskrevende for staten.
-Samtidig kan moderasjonsordninger og gratistilbud basert på inntektsgrenser gi noen uheldige insentiver til at foreldre tilpasser inntekten
-sin, for eksempel ved å redusere stillingsprosenten, for å bli omfattet av ordningene. Dette
-mener utvalget er uheldig.
-I tillegg til universelle og målrettede tiltak for å
-redusere foreldrebetalingen i barnehagen har
-utvalget vurdert tiltak som er avgrenset til levekårsutsatte områder. Subsidierte tilbud eller gratistilbud i barnehage for barn som bor i områder
-med levekårsutfordringer, gir åpenbare fordeler
-for barna som bor der dette tilbys. Samtidig
-mener utvalget at områderettede tiltak kan være
-urettferdige overfor andre barn med vanskelige
-levekår, men som ikke bor i levekårsutsatte områder. Gratis barnehage i utsatte områder kan også
-skape uheldige insentiver. For eksempel kan kanskje familier med levekårsutfordringer flytte til
-utsatte områder for å få en gratis tjeneste eller
-unngå å flytte fra utsatte områder for ikke å miste
-en gratis tjeneste. Dette kan i sin tur bidra til
-innlåsningseffekter og en enda større opphoping
-av levekårsproblemer. Utvalget vektlegger også at
-områderettede tiltak innebærer at familier med
-god økonomi som bor i utsatte områder, vil få et
-gratis tilbud som de strengt tatt kan betale for
-selv.
-Etter en helhetsvurdering mener utvalget at tiltak for å redusere foreldrebetalingen ytterligere
-eller gi gratistilbud i barnehagen bør rette seg
-mot enten alle barn i avgrensede aldersgrupper
-eller barn i familier med lav inntekt uavhengig av
-hvor de bor. Gratistilbud rettet mot alle barn er
-ideelt sett et godt tiltak. Samtidig er barnehage en
-tjeneste innbyggerne er villige til å betale for. Tiltak for å redusere foreldrebetalingen for familier
-med lavest betalingsevne kan slik sett være mer
-målrettet. Ordninger som skal stimulere til at flere
-bruker barnehage, men også SFO, bør, etter
-utvalgets mening, ta hensyn til den totale økonomien til familiene.
-Selv om utvalget i utgangspunktet ikke anbefaler områdebaserte tiltak, vil utvalget likevel understreke at utsatte byområder kan egne seg som
-piloter for å teste ut gratistilbud eller moderasjonsordninger i barnehage, eventuelt også i SFO.
-I tillegg mener utvalget at levekårsutsatte områder
-bør prioriteres først i en eventuell oppbyggingsperiode av slike tiltak, slik det tidligere ble gjort i forsøket med gratis kjernetid i barnehage, og som
-for eksempel Oslo har gjort med gratis deltidstilbud i SFO.
-
-For øvrig er flertallet i utvalget opptatt av at
-kontantstøtten ikke skal være et hinder for at barn
-begynner i barnehage. Slik kontantstøtten er
-utformet i dag, mener flertallet den er et slikt hinder, selv om denne effekten er redusert de senere
-årene siden kontantstøtten nå kun gis for barn
-mellom ett og to år.
-
-13.3.2 Barnehagetilbudet skal ha god kvalitet
-Basert på undersøkelser som utvalget har fått
-gjennomført, har utvalget merket seg at barnehager i analyseområder i Oslo har en betydelig høyere andel barn som får ekstra ressurser til et tilrettelagt barnehagetilbud. Samtidig er det tegn til at
-barnehager i levekårsutsatte områder både har
-høyere voksentetthet og større sannsynlighet for
-å oppfylle pedagognormen. At voksentettheten er
-høyere, er naturlig sett i lys av barnas behov for
-ekstra tilrettelegging. Analysen som er utført sier
-ikke noe om hvorvidt den ekstra bemanningen i
-barnehagene står i forhold til behovet som barna
-har, og den sier heller ikke noe om de barnehageansattes språkkunnskaper i norsk. Annen
-forskning fra Oslo peker i retning av at barnehager med en høy andel minoritetsspråklige barn
-kan ha dårligere kvalitet, men funnene er ikke
-entydige. Uansett vil utvalget understreke betydningen av at barnehager i levekårsutsatte områder har like god kompetanse i personalet som barnehager andre steder. I områder med mange
-tospråklige barn er det videre helt nødvendig for
-ansatte og ledere å ha mangfoldskompetanse
-generelt og kompetanse om tospråklig utvikling
-spesielt. Personalets kompetanse er blant de aller
-viktigste innsatsfaktorene for å få et tilbud av god
-kvalitet.
-Utvalget viser til dokumentasjon på at selv om
-barn går i barnehagen, får ikke alle barn utviklet
-det norske språket godt nok før skolestart. Én
-grunn kan være at mange minoritetsspråklige
-barn samles i noen barnehager der de i liten grad
-omgås norskspråklige barn. Andelen barn fra
-lavinntektsfamilier og/eller med innvandrerbakgrunn ser også ut til å være særlig høy i visse barnehager. Studier viser at denne skjevfordelingen
-først og fremst skyldes at foreldre med og uten
-innvandrerbakgrunn velger ulike typer barnehager for barna sine når de søker barnehageplass.
-Utvalget mener det er viktig at kommunene gir
-god informasjon til søkere om hvilke tilbud ulike
-barnehager har, for å gi foreldre et godt grunnlag
-for å velge barnehager når de skal søke om plass.
-Utvalget mener at det i tillegg kan være hensiktsmessig å gi kommunene en større mulighet til å
-
-[Side 195]
-
-NOU 2020: 16
-Levekår i byer
-
-styre sammensetningen av barn i barnehagene
-for å motvirke tendenser til segregering av barn
-mellom barnehager.
-Det er viktig og nødvendig at ansatte i barnehager har gode norskkunnskaper. Derfor er det
-innført både kommunale og statlige språkkrav ved
-ansettelser. Barnehager brukes i dag som praksisarena for personer som skal lære norsk og få
-arbeidserfaring, både som språktreningsplasser i
-den kommunale voksenopplæringen og som praksisplasser i regi av NAV. Det er dilemmaer i dette.
-Dersom mange voksne i barnehagen har svake
-norskkunnskaper, kan det påvirke barnas språkutvikling negativt. Samtidig kan det være positivt
-både for barn og foresatte å ha nærhet til voksne
-som kjenner «deres eget språk», for den voksne
-som trenger språktrening og kvalifisering, og ut
-fra samfunnets behov for arbeidskraft på sikt.
-Utvalget mener at personer i slik praksis kan være
-et positivt supplement til den ordinære staben, gitt
-at bemanningen for øvrig er høy og har gode
-norskkunnskaper.
-
-13.3.3 SFO skal støtte læring og være et
-fritidstilbud
-Utvalget framhever at skolefritidsordningen, i tillegg til å være et tilbud om tilsyn etter skoletid, må
-være et godt kvalitativt tilbud som skal støtte barnas mestringsfølelse og læring. Dessuten er SFO et
-viktig fritidstilbud. Utvalget mener at alle som
-ønsker, skal ha mulighet til å gå på SFO. Utvalget
-har notert seg at det fra høsten 2020 er innført en
-nasjonal inntektsgradert moderasjonsordning for
-elever på første og andre trinn og gratis SFO for
-elever på femte til sjuende trinn med særskilte
-behov. Videre har utvalget notert at det i forslaget
-til statsbudsjettet for 2021 er foreslått å utvide
-moderasjonsordningen til tredje og fjerde trinn.
-Det er positivt at de økonomiske barrierene for å
-delta i SFO er, eller er i ferd med å bli, redusert.
-Utvalget mener likevel at det kan være grunn til å
-vurdere tiltak som retter seg mot barnefamiliers
-samlede økonomi når de har barn i SFO og barnehage samtidig.
-13.3.4 Skolen skal gi alle barn like muligheter
-Utvalget vil understreke at barn kommer inn i skolen med ulik bagasje og med ulike ressurser hjemmefra. Skolen må gi alle barn like muligheter og
-på den måten legge til rette for sosial mobilitet.
-Det må skje gjennom et godt skole- og læringsmiljø som gir likeverdig og tilpasset opplæring av
-
-193
-
-Kapittel 13
-
-høy kvalitet, og som løfter alle elever. Det er et
-mål for skolen å hjelpe den enkelte elev til å
-strekke seg lengst mulig for å realisere potensialet sitt, uavhengig av sosial bakgrunn og av hvilken skole eleven går på.
-Det er de generelle og rettighetsbaserte ordningene i utdanningssektoren som har aller mest
-å si for skoler og elever i utsatte byområder.
-Utvalget går ikke systematisk og bredt inn i
-utdanningspolitikken, men vil vise til at blant
-annet Opplæringslovutvalget, Liedutvalget og
-Stoltenbergutvalget har gitt brede innspill til politikkutviklingen på feltet. Disse utvalgene tar opp
-en rekke temaer og foreslår politikk innenfor felt
-som er viktige for levekårsutsatte områder.
-Utvalget vil først og fremst trekke fram deler av
-politikken som anses som særlig relevant i
-utsatte områder.
-Kvaliteten i norsk skole holder generelt et
-høyt nivå. Det gjelder også skoler i utsatte områder. Likevel tyder flere studier på at skolen i for
-liten grad greier å kompensere for sosiale forskjeller og legge til rette for sosial mobilitet. Ulike faktorer bidrar til at skolene sliter med å tilby elevene
-godt nok tilpasset opplæring.
-Utvalget mener at alle barn skal ha en skole
-med høy nok kvalitet. Men i nabolag med opphoping av levekårsproblemer vil skolen ha en ekstra
-sterk kompenserende rolle og gi utsatte barn
-mulighet til å utvikle seg. Barnehage og skole må
-ved hjelp av tidlig innsats legge et godt grunnlag
-for elevenes læring og videre skolegang. Det
-utgjør en forskjell for det enkelte barnet, og det er
-i tillegg samfunnsøkonomisk lønnsomt. Derfor er
-det grunn til bekymring når en undersøkelse
-utvalget har bestilt, viser at ved skoler i utsatte
-områder går en større andel av ressursene til
-andre formål enn ordinær undervisning. Samtidig
-er lærerkvaliteten i områdene lavere. Fra kvalitative studier kommer det fram at ansatte ved flere
-skoler mener det er behov for flere lærerressurser.
-Ved enkelte av skolene i utsatte områder
-utmerker situasjonen seg som særlig urovekkende ved at de har store sosiale utfordringer
-med uro, vold og rus som påvirker skolen og
-læringsmiljøet negativt. Lærere ved skolene rapporterer om at det har utviklet seg en bekymringsfull fryktkultur ved skolen deres. Å melde fra
-til voksne («snitching») om uheldige forhold kan
-bli grovt sanksjonert av andre elever. I en fellesskole som skal være et trygt og godt oppholdssted for barn og unge, mener utvalget at dette er
-uheldig og uholdbart.
-
-[Side 196]
-
-194
-
-Kapittel 13
-
-NOU 2020: 16
-Levekår i byer
-
-Lærerne bør få bruke mer av tiden sin på å
-ivareta det pedagogiske ansvaret for læring og
-mindre på å håndtere ulike sosiale utfordringer
-blant elevene. Samtidig må barn som sliter, bli
-ivaretatt av fagpersonale med rett kompetanse.
-Utvalget vil understreke at skoler med store
-sosiale utfordringer bør kunne få støtte av skoleeier til å håndtere en del av de særskilte utfordringene de står overfor. I tillegg til at skolene må
-styrkes med lærerressurser, mener utvalget at en
-rekke andre støttende og supplerende oppgaver
-bør overlates til andre faggrupper. Utvalgets
-undersøkelser viser at sammensetningen av voksenpersonell allerede er annerledes ved skolene i
-utsatte områder enn i andre områder. Det er for
-eksempel flere assistenter og sosialpedagogiske
-rådgivere. Samtidig viser flere studier utvalget har
-sett på at skolene har behov for flere ansatte som
-har annen kompetanse og mulighet til å tilby supplerende tjenester ved skolene. Det kan handle
-både om veiledning og ekstra ressursinnsats fra
-miljøarbeidere, barnevernspedagoger, psykologer, skolehelsetjenesten eller andre.
-En større bredde i fagpersonalet i skolene vil
-gi flere voksenkontakter. Det kan trygge skole- og
-nærmiljøet og kompensere for fravær av trygge
-voksne i en del familier som sliter, og der barna er
-spesielt sårbare. Det er kommunenes (skoleeiers)
-ansvar å sette inn ekstra ressurser til andre yrkesgrupper enn lærere. Utvalget mener at kommunenes ressursfordelingsmodeller for grunnskolen i
-større grad bør tilgodese skoler med særskilte
-behov.
-Utvalget vil slå fast at en god skole trenger en
-god skoleledelse i tillegg til høyt kompetente
-lærere. Det er særdeles viktig at skoleeier rekrutterer og jobber aktivt for å beholde dyktige skoleledere ved skoler i utsatte områder. Undersøkelser viser at det noen ganger er vanskelig å rekruttere og beholde dyktige skoleledere, og at noen
-lærere opplever jobben som utfordrende.
-Et kvalitativt godt, tilpasset og inkluderende
-tilbud i skolen forutsetter at ulike aktører samarbeider på tvers. Å satse ekstra på skoleledelse er
-en viktig del av dette. Når det tverrfaglige samarbeidet skal styrkes, bør man rette seg etter prinsippene som er førende for moderne skoleledelse
-og bygge videre på dem. Dette skal sørge for at
-kommunale ledere snakker samme språk og legger samme verdi og kunnskapsgrunnlag til grunn
-for utøvelsen av ledelse.
-
-Overgangene i utdanningssystemet er kritiske
-faser for mange barn og unge, for eksempel fra
-ungdomsskole til videregående opplæring. Noen
-elever har så svake karakterer etter tiende trinn at
-de står i fare for å falle ut av videregående skole.
-Studier dokumenterer at blant ungdomsskoleelevene som har under tre i snittkarakter, vil halvparten ikke klare å henge med på videregående
-skole. Mange av dem har behov for mer grunnskoleopplæring selv om grunnskolen formelt er
-fullført. Utvalget ser med bekymring på at en høy
-andel ungdommer i enkelte områder ikke gjennomfører videregående opplæring innen fem år. Å
-gjennomføre videregående er selve nøkkelen til
-elevenes framtidige livsutfall og muligheter. Mye
-av grunnlaget for å gjennomføre ligger i grunnskolen, og den største innsatsen for å forebygge
-må derfor settes inn tidlig i skoleløpet. Men utvalget mener det også er viktig å legge ned en ekstra
-innsats i overgangen mellom ungdomsskole og
-videregående skole, og i videregående opplæring.
-I Norge går de aller fleste barn i grunnskolen
-på nærskolen sin. Når barn går på skolen der de
-bor, og når bostedssegregeringen er sterk, så oppstår også skolesegregering. Tendensen til skolesegregering blir forsterket av at noen familier velger å flytte fra skolekretser som ikke anses å ha et
-skoletilbud av god nok kvalitet. Segregeringen
-kan gi store forskjeller i skoleresultater mellom
-skoler og gi barn og unge ulikt utgangspunkt for
-videre opplæring og sosial mobilitet.
-En variert sammensetning av elever i klassene
-er viktig for elevenes resultater. Elever lærer av
-hverandre og mest av dem som ligger på et faglig
-noe høyere nivå enn dem selv. Utvalget mener derfor det er svært uheldig dersom skoler får en ensidig elevgruppe fordi skolefaglig svake eller sterke
-elever fordeler seg ulikt mellom skolene.
-Utvalget mener at ordningen med karakterbasert opptak i videregående opplæring forsterker
-skolesegregeringen. Segregeringen skjer etter
-sosial bakgrunn, innvandrerbakgrunn og kjønn.
-Noen videregående skoler som oppnår dårlige
-resultater, har sosiale problemer og høyt fravær
-blant elevene. Også nærskoleprinsippet vil kunne
-forsterke skolesegregeringen i byer som har sterk
-bostedssegregering ved at elever må velge videregående i området der de bor.
-Utvalget mener skolesegregering er uheldig
-og bør motvirkes.
+## Utvalgets vurderinger
+
+### Arbeid er en forutsetning for gode levekår
+
+Mange i utsatte områder har svak tilknytning til arbeidsmarkedet. *Utvalget* mener at en av de aller viktigste faktorene for å bedre levekårene i de utsatte områdene, er at flere kommer i jobb. Det å jobbe gir inntekter, men kan også øke den enkeltes kompetanse, tilhørighet og trivsel og gi bedre sosiale nettverk og helse. Det kan ha positive effekter for lokalsamfunnene. De overordnede rammevilkårene for arbeidsmarkedet bør legge til rette for et velfungerende næringsliv slik at folk kan ha mulighet til å skaffe seg en jobb. I tillegg må insentivene til å jobbe være til stede. Det bør lønne seg å jobbe, og *utvalget* støtter at offentlige myndigheter stiller krav til at folk er i aktivitet når de har helsemessige forutsetninger for det. *Utvalget* mener også at det er viktig å gi folk reell tilgang til arbeidslivet. Hvis noen grupper av innbyggere opplever å bli diskriminert, kan det svekke innbyggernes tilhørighet til fellesskapet og føre til lavere tillit både til samfunnet og til andre mennesker.
+
+Samtidig er det viktig at jobbene har gode lønns- og arbeidsvilkår. Dårlig betalte jobber, og jobber som er usikre eller fysisk og psykisk belastende, kan gi økonomiske problemer, helseproblemer og andre utfordringer for arbeidstakerne. Det kan gå utover familiene og lokalsamfunnene. Det er viktig å forhindre at arbeidstakere har helseskadelig arbeidsbelastning eller andre ulovlige eller uverdige arbeidsbetingelser, for eksempel lønn, arbeidstid eller boforhold. Dårlige lønns- og arbeidsvilkår, kombinert med et høyt nivå på offentlige ytelser, kan gjøre arbeidstakerne mindre motivert for å jobbe og gjøre at flere søker om offentlige ytelser.
+
+*Utvalget* mener at det er avgjørende at staten og kommunene videreutvikler arbeidsmarkedspolitikken for å kunne lykkes med å bedre levekårene i utsatte områder. *Utvalget* har likevel i hovedsak ansett den generelle nasjonale og kommunale arbeidsmarkedspolitikken som utenfor mandatet. For å kunne vurdere gode tiltak innenfor dette politikkfeltet er det nødvendig å gå detaljert inn i dagens rammebetingelser og effektevalueringer. Flere andre utvalg har gått grundig inn i disse problemstillingene, og *utvalget* mener det er viktig at staten videreutvikler arbeidsmarkedspolitikken på grunnlag av blant annet Brochmann-utvalgene og Sysselsettingsutvalget. Disse utvalgene tar opp en rekke temaer og foreslår å utvikle politikken innenfor felt som er viktige for levekårsutsatte områder. *Utvalget* går ikke inn i alle disse temaene, men vil likevel peke på noen spørsmål innenfor arbeidsmarkedspolitikken som *utvalget* ser som særlig relevante.
+
+*Utvalgets* mandat legger vekt på geografiske områder hvor mange beboere har sammensatte levekårsutfordringer. I mange av områdene står en relativt høy andel utenfor arbeid, og mange har utfordringer på arbeidsmarkedet i kombinasjon med blant annet helseproblemer. Svake norskkunnskaper og lite kunnskap om norsk arbeids- og samfunnsliv kan svekke mulighetene til å komme i jobb. Mange har ikke de kvalifikasjonene som arbeidslivet etterspør. Mer effektive arbeidsmarkedstiltak rettet mot folk som står langt fra arbeidslivet vil være positivt for de levekårsutsatte områdene. *Utvalget* viser til at flere utvalg har pekt på kvalifisering som et hovedgrep for å øke arbeidsdeltakelsen blant utsatte grupper. Sysselsettingsutvalgets ekspertgruppe anbefaler å øke ressursene til NAV, slik at NAV kan tilby gode og tilpassede kvalifiseringstiltak. Arbeidsrettede tiltak kan ha god effekt også for arbeidstakere langt fra arbeidslivet, men det kan være nødvendig med tett oppfølging og ulike former for bistand og kompetanseheving tilpasset den enkelte. Det må legges til rette for en mangfoldig brukergruppe, og tiltakene må også ivareta personer med svake norskkunnskaper, liten kunnskap om norsk arbeids- og samfunnsliv eller andre behov for kompetanse utover ren arbeidslivskompetanse. Kommunene har hovedansvaret for å tilby opplæring i norsk og samfunnskunnskap, men *utvalget* mener at det er viktig at også statlige arbeidsmarkedstiltak støtter godt opp under kommunenes arbeid. Kommunene trenger også gode rammer for å kunne tilby arbeidsrettede tiltak i kommunal regi.
+
+*Utvalget* mener det kan være grunn til å vurdere om tiltak for arbeid og kvalifisering kan innrettes på en måte som er mer effektiv for områder hvor mange trenger bistand. Erfaringene fra blant annet Drammen viser at det å tilby tiltak lokalt kan senke terskelen for å delta og gjøre at tilbudene blir mer tilpasset målgruppa. Det kan kanskje også styrke lokalsamfunnene ved at flere får et lokalt nettverk og arbeidstrening på lokale arbeidsplasser. Tjenester som er tett på der folk bor, kan også benyttes til å styrke den grunnleggende kompetansen til beboerne og til å håndtere hverdagen og styrke forbindelsen mellom beboerne og det ordinære tjenestetilbudet. Å tilby tiltak lokalt betyr imidlertid at innbyggere i enkelte lokalmiljøer kan få en enklere og bedre tilgang på tilpassede tiltak enn arbeidssøkere andre steder, og de blir sånn sett favorisert. *Utvalget* mener likevel at det kan forsvares å tilby mer lokalt tilpassede tiltak i områder med mange arbeidssøkere langt fra arbeidslivet.
+
+Mange levekårsutsatte områder har beboere med innvandrerbakgrunn som ikke har sammensatte levekårsproblemer, men som likevel kan ha problemer med å skaffe seg en jobb tilpasset deres kvalifikasjoner. Innvandrere har generelt større terskler for å komme inn i arbeidsmarkedet, større risiko for å miste jobben og færre muligheter for karriereutvikling enn andre. Det kan skyldes blant annet diskriminering og forskjellsbehandling i arbeidslivet, manglende nettverk, mangelfulle norskkunnskaper eller problemer med å få godkjent utenlandsk utdanning. Utdanning øker sannsynligheten for at alle grupper får sterkere tilknytning til arbeidsmarkedet. Likevel har for eksempel høyt utdannede innvandrede kvinner lavere sysselsetting enn norskfødte kvinner. Innvandrede kvinner arbeider ofte deltid og i bransjer og i yrker som er følsomme for konjunkturendringer. Det er viktig for de levekårsutsatte områdene at det også er mulig for personer i en slik situasjon å utnytte ressursene sine i arbeidslivet.
+
+Svart arbeid har negative konsekvenser for samfunnet, men også for den enkelte arbeidstaker. De som arbeider svart, har høyere risiko for å ha dårlige arbeidsvilkår, for å miste pensjonsopptjening og rettigheter ved arbeidsledighet og sykdom. Det finnes relativt lite kunnskap om svart arbeid for enkelte utsatte grupper, for eksempel hvor stort omfanget er og hva slags arbeid det dreier seg om.
+
+*Utvalget* mener derimot at det allerede er mye kunnskap om hvordan innvandrere kan komme i arbeid, om hva som kjennetegner innvandrere utenfor arbeidsmarkedet, og om kjennetegn ved arbeidsmarkedet og arbeidsgivere. På tross av at det jobbes mye med kvalifisering av arbeidssøkere, og at mange arbeidsgivere trolig er positivt innstilt til å la folk prøve seg i arbeidslivet, er det ikke lett å finne den rette matchen mellom arbeidsgiver og arbeidssøker. *Utvalget* mener det kan være nyttig å finne ut hvordan slike prosesser med å kople arbeidsgiver og arbeidssøker kan gjøres på en effektiv og god måte.
+
+For å lykkes med å inkludere flere arbeidstakere bedre, er det avgjørende at private og offentlige arbeidsgivere gjør en innsats og gir folk mulighet til å prøve seg. *Utvalget* viser til at Sysselsettingsutvalgets ekspertgruppe har flere forslag til hvordan tiltak rettet mot arbeidsgiversiden kan videreutvikles. Det er viktig å sikre at arbeidsgivere, herunder offentlige arbeidsgivere, både har mulighet til og insentiver til å bidra til arbeidsinkludering. *Utvalget* vil særlig peke på ansvaret som offentlige arbeidsgivere har for å bidra til arbeidsinkludering.
+
+### Lokale butikker og bedrifter kan styrke lokalsamfunnene
+
+Et velfungerende nærsenter kan gi flere møteplasser og mer velholdte nabolag. Det er også mulig at det lokale næringslivet kan bidra til både arbeidstrening og arbeidsplasser for personer som står langt fra arbeidsmarkedet, og på andre måter bidra positivt i lokalsamfunnet. En del drabantbyer er bygd opp rundt lokale butikksentre. På samme vis som for andre deler av landet forsvinner kundegrunnlaget fra en del av nærsentrene. Stedsanalyser fra levekårsutsatte områder viser at en del nærsentre er preget av tomme lokaler og manglende vedlikehold. Det kan påvirke folks opplevelse av stedet og muligheten til å knytte kontakter i nabolaget. Tilgang på relativt rimelige lokaler gjør det på den andre siden enklere å starte opp bedrifter. Samlet sett er dette gode grunner til å støtte næringslivet i levekårsutsatte områder. Kommunene kan være med på å styrke nærsentrene gjennom ulike former for samarbeid. Slike former for lokalt utviklingsarbeid kan være en del av det kommunale ansvaret for lokalsamfunnsutvikling. Statlige midler til områdesatsinger har også gått til å utvikle nærsentrene. Det har imidlertid vært vanskelig å lykkes i en del tilfeller.
+
+*Utvalget* mener at det kan være hensiktsmessig å støtte næringsutviklingen i levekårsutsatte områder, men vil samtidig presisere at en eventuell støtte må tilpasses om det er behov for det i det enkelte området. De levekårsutsatte områdene, og næringsstrukturen i dem, er ulike. Noen er små og tett koplet til resten av kommunen, mens andre er noe lenger fra både arbeidsplasser og butikksentre. I hovedsak er likevel de utsatte områdene nært koplet sammen med resten av kommunen gjennom korte avstander og gode transportforbindelser. *Utvalget* mener derfor at det ikke alltid er hensiktsmessig å støtte næringsutviklingen innenfor de levekårsutsatte områdene, verken av hensyn til arbeidsplasser eller handels- og servicetilbud. Det kan også være en fordel om folk beveger seg til andre deler av byen for å jobbe og handle.
+
+Noen av de levekårsutsatte områdene preges av næringsvirksomhet som forurensende industri, plasskrevende lagervirksomhet og annet som kan være en ulempe for nærmiljøet. En grønn omstilling i næringslivet kan også endre næringsstrukturen i levekårsutsatte områder, ha positive effekter for nærmiljøene og tiltrekke seg folk fra andre steder. *Utvalget* mener at gode og framtidsrettede arbeidsplasser bør lokaliseres i eller i nærheten av levekårsutsatte områder.
+
+Støtte til gründere kan bidra til at grupper som kan ha problemer med å komme inn på det ordinære arbeidsmarkedet, kommer i jobb. Det kan blant annet gjelde for innvandrere. I enkelte innvandrergrupper er det tradisjon for å drive egen virksomhet. Bistand til å starte opp virksomhet gir jobb for den enkelte, i neste omgang kanskje også for andre, og bidrar til å øke verdiskapningen i samfunnet. En del bedrifter har særskilte sosiale formål som å bedre levekårene til utsatte grupper eller fremme sosial kontakt. Slike sosialt innrettede bedrifter, entreprenører og nabolagsinkubatorer kan bidra positivt i nabolagene, selv om effekten vil avhenge av det enkelte prosjektet. Mange sosiale entreprenører og bedrifter får også støtte fra offentlige ordninger. Videre kan samarbeid mellom slike bedrifter og kommuner eller andre offentlige velferdsaktører være positivt.
+
+### Alle innbyggere skal tilbys likeverdige tjenester
+
+*Utvalget* vil understreke at det er et overordnet mål at alle skal få likeverdige tjenester tilpasset sine behov, uavhengig av hvor de bor. Nabolagsstudier understreker den store betydningen ulike tjenester har i utsatte nabolag. Offentlige tjenester er en del av nærmiljøenes kollektive ressurser som kan tenkes å være viktigere for eksempel for barn og unge som vokser opp i familier med ulike utfordringer.
+
+*Utvalget* mener at det i utsatte områder trengs en bred forebyggende og helsefremmende innsats for å bedre innbyggernes livskvalitet, trivsel og muligheter til å mestre utfordringer og belastninger de er utsatt for. Innsatsen må rette seg mot både enkeltpersoner og utsatte grupper og legge til rette for at den enkelte selv kan gripe fatt i eget liv, egen mestring og selvstendighet. Å prioritere tid til å møte den enkelte og dens familie og nettverk der de er, er avgjørende i arbeidet. En slik bruker- og ressursorientert tilnærming må være lederforankret. Ledere må vise tydelig retning for tjenestene på området.
+
+Lærere, helsesykepleiere eller ansatte på helsestasjon, i familieverntjenesten, i barnevern, i forebyggende politi eller i Utekontakten kan på ulike måter kompensere for individuelle og familierelaterte utfordringer. For å kunne gjøre det må de være lett tilgjengelige for brukerne, både når det gjelder hvilken hjelp de kan få, og hvor tjenestene er lokalisert. *Utvalget* mener at det er spesielt viktig med tverretatlig og tverrsektorielt samarbeid mellom tjenestene i utsatte nabolag fordi hjelpen som trengs, ofte er av sammensatt karakter. Skal man lykkes med å tilby koordinerte og helhetlige tilbud, må ledere og ansatte i tjenestene ha god samhandlingskompetanse.
+
+Kommunene har en nøkkelrolle i de utsatte områdene fordi de har hovedansvaret for de fleste tjenestene. *Utvalget* mener at statlige aktører gjennom ansvarsområdene sine bør være særlig bevisste på hvordan *de* kan legge til rette for at kommuner med opphoping av levekårsutfordringer kan blir bedre i stand til å håndtere disse. Ikke minst må kvaliteten i tjenestene og kompetansen blant de ansatte bygges gjennom gode utdannings- og etterutdanningstilbud ved universiteter og høyskoler. Ulike velferdsutdanninger bør gi solid kunnskap om det tverretatlige samarbeidet og legge vekt på kunnskap om relasjoner og mangfold. Det vil kunne fremme anerkjennelsen og implementering av strategier for mer mangfoldige og inkluderende organisasjoner og institusjoner samt tydeliggjøre at komplekse problemer krever komplekse løsninger. Gjennom utdanningene må framtidige ansatte i velferdstjenestene bli i stand til å møte og kommunisere godt med en mangfoldig befolkning med varierte utfordringer og til å jobbe helhetlig og forebyggende i uvante og ukjente situasjoner og kontekster. *Utvalget* mener at behovet for denne kompetansen bør komme tydelig fram i beskrivelsene av læringsutbytte i alle velferdsutdanninger.
+
+Fra kommunens side må det legges vekt på ledelse, organisering, arbeidsmiljø og ansattes holdninger. Det går etter *utvalgets* oppfatning først og fremst ut på å styrke de ordinære tjenestene, blant annet med mer kvalitet og kompetanseheving på alle nivåer innen tjenestene. Det vil utgjøre en forskjell for beboerne i områdene.
+
+Retningslinjer for helse- og sosialfagutdanningene (RETHOS)
+
+Siden høsten 2017 har det pågått et stort utviklingsarbeid for å utvikle nasjonale retningslinjer for hver enkelt av grunnutdanningene innen helse- og sosialfag. Retningslinjene skal definere sluttkompetansen for hver utdanning og utgjøre en minstestandard for hvilken kompetanse nyutdannede kandidater skal ha når de avslutter utdanningen. Retningslinjene skal inneholde beskrivelser av formål og læringsutbytte (i tråd med Nasjonalt kvalifikasjonsrammeverk) og overordnede krav til studiets oppbygning. Målet er at utdanningene skal være framtidsrettede og i tråd med tjenestenes kompetansebehov og brukernes behov. Studentene skal forberedes på arbeidsoppgavene og arbeidsmåtene i framtidens helse- og velferdstjenester.
+
+Forskrift om felles rammeplan for helse- og sosialfagutdanninger ligger til grunn for de nasjonale retningslinjene. I henhold til forskriften skal alle studenter etter endt utdanning blant annet ha kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder. Slik skal kandidaten bidra til å sikre likeverdige tjenester for alle grupper i samfunnet. Videre skal de ha kompetanse om relasjoner, kommunikasjon og veiledning som gjør dem i stand til å forstå og samhandle med brukere, pasienter og pårørende. Studentene skal kunne samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, og de skal initiere slik samhandling.
+
+Retningslinjearbeidet er et samarbeid mellom Arbeids- og sosialdepartementet, Barne- og familiedepartementet, Helse- og omsorgsdepartementet og Kunnskapsdepartementet. Kunnskapsdepartementet leder arbeidet og vedtar retningslinjene.
+
+Rammeslutt
+
+### Likeverdighet innebærer å styrke tjenestene i utsatte områder
+
+*Utvalget* vil understreke at kommunenes inntektssystem er den viktigste faktoren som påvirker kommunenes ressurssituasjon og mulighet til å løse sine særskilte utfordringer og levere gode tjenester til innbyggerne. For å sikre likeverdighet i tjenestetilbudet mener *utvalget* det er behov å styrke de ordinære tjenestene og tilbudene i utsatte områder økonomisk. Det er ikke minst behov for kompetente ansatte og ledere i offentlige tjenester i utsatte byområder.
+
+*Utvalget* mener at det er grunn til å anta at en del store byer ikke blir tilstrekkelig kompensert for utgiftene ved opphoping av levekårsutfordringer. *Utvalget* vil trekke fram utdanningssektoren, deler av de sosiale tjenestene, ikke minst boligsosialt arbeid, og andre forebyggende tjenester.
+
+En tidligere undersøkelse av storbyenes utgiftsnivå fant på generelt grunnlag at utgiftsutjevningen tar høyde for utgiftsforskjeller mellom storbyene og andre kommuner i skole- og barnehagesektoren. *Utvalgets* undersøkelser tyder også på at de største byene tildeler mer ressurser til levekårsutsatte områder enn til andre områder gjennom kommunenes budsjettfordelingssystemer. De levekårsutsatte områdene blir dermed delvis kompensert for høyere utgifter. Samtidig brukes ressursene annerledes i områder med levekårsutfordringer. For eksempel bruker skolene i slike områder en høyere andel av årstimene til assistenter enn skoler i andre områder, og en større andel av ressursene går til andre deler enn den ordinære undervisningen, som spesialundervisning og særskilt norskopplæring. I tillegg til høyere ressursbruk ser kvaliteten i skolen ut til å være lavere ved at andelen lærere med godkjent utdanning er mindre enn andre steder. Når det gjelder ressursbruken i barnehager tyder *utvalgets* undersøkelser på at barnehager i levekårsutsatte områder, i hvert fall delvis, får kompensert for høyere utgifter ved at voksentettheten i barnehagen er høyere. Samtidig har barnehager i levekårsutsatte områder i Oslo høyere enhetskostnader og en betydelig høyere andel barn som får ekstra ressurser til et tilrettelagt barnehagetilbud. Selv om barnehagene har ekstra bemanning, sier ikke undersøkelsen noe om hvorvidt tilbudet står i forhold til behovet barna har.
+
+Samlet sett mener *utvalget* det er grunn til å anta at skoler med betydelige levekårsutfordringer ikke blir kompensert fullt ut for merutgiftene ved å sikre et likeverdig skoletilbud. *Utvalget* mener videre det kan være grunn til å stille spørsmål ved om inntektssystemet kompenserer godt nok for utgifter som følger av behovet for ekstrainnsats ved disse skolene.
+
+*Utvalget* mener også det er grunn til å vurdere om kommunene og de levekårsutsatte områdene blir tilstrekkelig kompensert innenfor deler av de sosiale tjenestene, særlig boligsosialt arbeid. De boligsosiale utgiftene inngår bare delvis i kriteriene for utgiftsutjevningen. Kommuner med høye boligpriser har høyere boligsosiale utgifter, men dette motsvares delvis av økte inntekter. Undersøkelser fra de største byene indikerer imidlertid at de ikke blir fullt ut kompensert for disse kostnadene. Det kan også være grunn til å vurdere om inntektssystemet bør ta høyde for utgifter til arbeidsrettede tiltak i kommunal regi gjennom utgiftsutjevningen for sosiale tjenester. Arbeidsrettede tiltak i kommunal regi kan være et viktig supplement til de statlige tiltakene, blant annet for personer som trenger å styrke grunnleggende ferdigheter innen språk, arbeids- og samfunnsliv. Gode kommunale arbeidsmarkedstiltak i områder hvor mange står langt fra arbeidslivet, er ressurskrevende.
+
+*Utvalget* vil også framheve at det er viktig at kommunene blir kompensert for utgifter relatert til god forebygging av rusproblemer og psykiske lidelser og god oppfølging av personer som sliter med slike utfordringer. Det gjelder ikke minst arbeidet rettet mot barn og unge. De kommunale enhetene må ha god kompetanse og tilstrekkelig med ressurser til å kunne rette en koordinert innsats mot barn og unge som sliter med rus og psykiske lidelser.
+
+### Å forebygge er avgjørende, også i krisetider
+
+I den perioden *utvalget* har arbeidet, har situasjonen i Norge og verden endret seg dramatisk gjennom covid-19-pandemien. Samfunnsutviklingen det siste året har uten tvil påvirket levekårene til mange. Dessverre ser vi tegn til at koronakrisen forsterker de forskjellene som allerede eksisterer, ved at flere av dem som mister jobben i kjølvannet av pandemien, i utgangspunktet var i de mest utsatte og lavest lønnede jobbene. Lav utdanning har også økt risikoen for å miste jobben. Små boliger og dårlig tilgang på utearealer har blitt en tilleggsbelastning under pandemien, særlig for mange barn.
+
+Krisen påvirker også offentlige budsjetter. Skatteinntektene har gått ned, og utgiftene til næringsstøtte, overføringer fra NAV, sosialhjelp, smitteverntiltak og annet har gått opp. Når budsjettene blir strammere, må lovfestede oppgaver prioriteres. Mange av oppgavene som omtales i denne rapporten, er ikke lovfestede, men handler om å forebygge levekårsutfordringer og bygge lokalsamfunn. *Utvalget* er bekymret for at slike oppgaver gjerne blir nedprioritert i en krisetid. Det er klart at krisetider gjør at prioriteringene må bli tøffere, men konsekvensene av å nedprioritere forebygging kan bli dyre på sikt.
+
+*Utvalget* vil i denne situasjonen særlig framheve at det er viktig å forebygge levekårsutfordringer hos barn og unge. Krisen kan gjøre at mange barn og unge havner i en ekstra utsatt posisjon. Da er støtteapparatet rundt dem viktig, slik som gode skoler, barnehager og kompetente hjelpetjenester for dem som har behov for det. *Utvalget* vil også understreke at det i denne situasjonen er viktig å jobbe langsiktig med omstilling av næringslivet mot et bærekraftig samfunn og med kvalifisering av arbeidstakere for framtidsrettede jobber.
+
+### De nordiske landene kan dra nytte av hverandres erfaringer
+
+Både Sverige og Danmark har nylig utarbeidet strategier mot segregering. Foreløpig er ikke effektene av disse strategiene kjent. *Utvalget* kan derfor ikke vurdere effektene av de nye strategiene. Flere av tiltakene og den foreslåtte innsatsen bygger imidlertid på tidligere erfaringer.
+
+Norge har mange av de samme utfordringene som Sverige og Danmark, og det er mye å lære av hvordan andre tenker, og av hvilke erfaringer de har gjort. Både Norge, Sverige og Danmark har tiltak rettet mot ulike sektorer som skal styrke levekårsutsatte områder. Det er samtidig også forskjeller som gjør at erfaringene ikke alltid er relevante for oss. Både Sverige og Danmark har for eksempel store sosiale utleiesektorer og boligområder som er sterkere atskilt fra resten av byen enn boligområder i Norge. Det gjør både situasjonen, utfordringene og mulige tiltak er annerledes enn i nabolandene.
+
+*Utvalget* mener at for å løse fastlåste og alvorlige problemer er det nødvendig å finne en balansegang mellom å jobbe langsiktig og helhetlig og å bidra konkret og intensivt. Det er viktig å se på bakenforliggende årsaker til utfordringene utover atferden til personene som bor i de utsatte områdene. Dette er også framhevet i den svenske strategien. *Utvalget* mener også at det er viktig at de lokale myndighetene får handlingsrom til å utforme politikken på lokalt nivå, og at statlige myndigheter ser på om det er regelverk eller andre statlige rammebetingelser som hindrer kommunenes arbeid. Dette er også framhevet i den svenske strategien.
+
+Samtidig kan det være tiltak i den danske strategien som Norge kan lære av. Danske myndigheter setter av betydelige ressurser til å ruste opp boligområder og få til en større blanding av ulike typer boliger. *Utvalget* er enig i at bystrukturen bør legge til rette for at ulike folk kan bo i samme nabolag.
+
+Den danske strategien har også flere tiltak rettet mot å kontrollere hvem som skal bo i de utsatte områdene. Flere av disse tiltakene er mindre aktuelle i Norge, hvor boligområdene ikke består av sosiale utleieboliger. *Utvalget* mener også at vi ikke skal ha overdreven tro på effekten av å flytte på folk. Det er viktig å motvirke at det utvikler seg segregerte byer og alvorlige nabolagsproblemer. Levekårsutfordringene forsvinner imidlertid ikke ved at folk flytter til andre boligområder. *Utvalget* mener likevel at tiltak for å påvirke hvor folk bosetter seg, er relevant. For eksempel er å spre kommunale boliger i ulike boområder og å ha kriterier for bosetting av flyktninger relevante tiltak (se kapittel 17). Norge har også gjennom mange år i sterkere grad styrt hvor flyktninger kan bosette seg, enn de har gjort i Sverige.
+
+Samlet sett mener imidlertid *utvalget* at den danske strategien i for stor grad legger vekt på å endre atferden til beboere i de utsatte områdene gjennom sanksjoner, framfor å se på hva som hindrer dem i å forbedre livene sine. Den danske strategien inkluderer for øvrig ikke arbeidsmarkedstiltak, som er et politikkområde hvor det å veie myndighetskrav og bistand kanskje er særlig relevant. Tiltak rettet særskilt inn mot beboere i utsatte områder, som obligatorisk barnehage og utsatt skolestart for barn med svake danskkunnskaper i disse områdene, er etter *utvalgets* vurdering ikke i tråd med prinsipper om likebehandling. Strategien kan dessuten gjøre at andre får et mer negativt inntrykk av de utsatte områdene, noe som kan gjøre det vanskeligere å få til en positiv utvikling.
+
+## Utvalgets forslag til tiltak
+
+### Gode vilkår for arbeidsinkludering i offentlig sektor
+
+*Utvalget* mener at staten bør se på om det er hindre i arbeidslivsreguleringer som gjør det vanskelig for offentlige arbeidsgivere å gi folk en mulighet til å prøve seg i arbeidslivet, eller vanskelig å etablere effektive arbeidsmarkedstiltak. *Utvalget* vil blant annet framheve at det er anledning til å avvike fra kvalifikasjonsprinsippet i staten av hensyn til positiv særbehandling, og mener det er viktig at denne regelen fungerer på en hensiktsmessig måte blant annet for personer som kan bli utsatt for diskriminering ut fra sin innvandrerbakgrunn.
+
+*Utvalget* mener også at midlertidige stillinger, traineeprogrammer og hospiteringsordninger i offentlig sektor i en del tilfeller vil kunne være et viktig skritt for at personer som mangler relevant arbeidserfaring, kan inkluderes i arbeidslivet. Det kan være aktuelt for personer som av ulike grunner har problemer med å få jobb som svarer til kvalifikasjonene de har. *Utvalget* er samtidig enig med Sysselsettingsutvalgets ekspertgruppe i at omfanget av midlertidige stillinger ikke bør bli for stort, og at det kan være en fare for at det gir svakere arbeidsmarkedstilknytning for en del arbeidstakere. Det er avgjørende å legge til rette for arbeidsinkludering gjennom varige, faste stillinger så langt som mulig. Samtidig er det viktig å fullt ut utnytte potensialet for arbeidsinkludering som ligger i offentlig sektor. *Utvalget* viser videre til ekspertgruppas vurderinger om blant annet tilpassede lønninger og lønnstilskudd og mener det er behov for å se på hvordan slike ordninger kan styrkes og være gode, målrettede virkemidler.
+
+Kommunene har arbeidsgiveransvar for en høy andel av arbeidstakerne og har et bredt spekter av arbeidsoppgaver. Kommunene spiller derfor en viktig rolle for å kunne inkludere folk i arbeidslivet, og dette er noe kommunesektoren bør prioritere. *Utvalget* har merket seg at kommunale arbeidsgivere har rapportert om at eksisterende regler kan skape vanskeligheter for arbeidsinkludering. *Utvalget* mener det er verdt å se nærmere på om staten bedre kan støtte opp om kommunenes arbeid på dette feltet. For eksempel bør staten undersøke kommunenes hindringer nærmere, vurdere tiltak for å bygge opp kommunenes kunnskap og muligheter til erfaringsutveksling og eventuelt vurdere tydeligere statlige føringer for at kommunesektoren skal prioritere arbeidsinkludering høyere.
+
+### Lokalt tilpassede arbeidsmarkedstiltak i utsatte områder
+
+Tett oppfølging av arbeidssøkere og tilpassede arbeidsmarkedstiltak er ressurskrevende. *Utvalget* mener at i en del levekårsutsatte områder kan det være effektfullt, men ressurskrevende, å tilby arbeidsmarkedstiltak som er fysisk plassert i lokalsamfunnene. Det er viktig at ressursfordelingen tar hensyn til at en del arbeidssøkere trenger tett og individuell oppfølging, og at spesialtilpassede og eventuelt lokalt forankrede tiltak kan gi god effekt. *Utvalget* har ikke grunnlag for å mene at dagens ressursfordelingsmodell for arbeidsmarkedstiltak tar for lite hensyn til dette, men anbefaler at det undersøkes nærmere.
+
+### Koordinert innsats for næringsutvikling i utsatte områder
+
+*Utvalget* mener at flere statlige næringspolitiske virkemidler kan ha potensial til å virke positivt i levekårsutsatte områder. Det er samtidig viktig at statlige virkemidler trekker i samme retning som den fylkeskommunale, kommunale og private innsatsen for næringsutvikling i de utsatte områdene. *Utvalget* foreslår at staten undersøker om det finnes gode eksempler på slik innsats som andre kan lære av, og om det er mulig at statlige virkemidler i større grad kan inngå i en koordinert innsats for lokal næringsutvikling i de utsatte områdene.
+
+*Utvalget* mener også at staten bør vurdere om de næringspolitiske virkemidlene kan innrettes bedre mot behovene i levekårsutsatte områder. Det kan være verdt å se nærmere på om enkelte metoder eller virkemidler i næringspolitikken kan benyttes mer aktivt i utsatte byområder, for eksempel metodene i det distriktsrettede Merkur-programmet. Dette programmet bidrar til kompetanseheving og erfaringsoverføring om hvordan nærbutikker i distriktene kan styrke og videreutvikle seg. Tilsvarende løsninger kan være relevante for nærsentre og nærbutikker i levekårsutsatte områder. *Utvalget* mener dessuten at staten kan ta hensyn til behovet for gode og framtidsrettede arbeidsplasser i levekårsutsatte områder gjennom næringspolitikken, for eksempel når Siva investerer i næringseiendommer.
+
+*Utvalget* mener videre at støtteordninger for gründere kan være et positivt bidrag til utviklingen i levekårsutsatte områder, gitt at de treffer folk som ønsker å etablere bedrifter i disse områdene. Det gjelder både støtte til ordinære bedrifter og støtte til sosialt innrettede bedrifter, entreprenører og nabolagsinkubatorer. *Utvalget* har merket seg forslaget fra Sysselsettingsutvalgets ekspertgruppe om å vurdere å øke bruken av etablererstøtte til arbeidsledige gjennom å kombinere støtte fra Innovasjon Norge og NAV. *Utvalget* mener det kan være aktuelt å teste ut en slik ordning for arbeidssøkere som bor og vil etablere en bedrift i levekårsutsatte områder.
+
+### Kompensere for høye utgifter i utsatte byområder gjennom inntektssystemet
+
+*Utvalget* mener at det er behov for en ekstra gjennomgang av kommunenes inntektssystem med vekt på konsentrasjon av levekårsutfordringer og opphoping av individuelle levekårsutfordringer i utsatte byområder i de store byene og deres omegn. Regjeringen har nedsatt et eget utvalg som skal gå gjennom kommunenes inntektssystem. *Utvalget* anbefaler at dette utvalget – Inntektssystemutvalget – vurderer om kommunene er godt nok kompensert for å kunne tilby likeverdige tjenester i levekårsutsatte byområder. Inntektssystemutvalget kan gis et tilleggsmandat for å sikre at de prioriterer og har tilstrekkelig med tid til disse spørsmålene. Staten kan også bidra til å øke kunnskapen om de reelle utgiftene ved forebyggende og kompenserende arbeid i områder med sammensatte levekårsutfordringer. Det kan gjøre at staten kan ta bedre hensyn til disse utgiftene i inntektssystemet.
+
+Det er mulig at kriteriene i kommunenes inntektssystem kan utvikles slik at disse tar bedre hensyn til utgifter ved levekårsutfordringer. Selv om kriteriene i inntektssystemet videreutvikles, vil det fortsatt være utgifter som ikke fanges opp av kriteriene. Mye av den forebyggende og kompenserende innsatsen som trengs i levekårsutsatte områder, er ikke nødvendigvis forankret i velferdstjenester av nasjonal karakter. Det er heller ikke knyttet sterke nasjonale føringer til den. *Utvalget* anbefaler blant annet av den grunn at staten fortsatt tildeler tilskuddsmidler til områdesatsinger, som omtalt i kapittel 15. *Utvalget* mener at det også kan være aktuelt å tildele ekstra midler basert på skjønn, slik som gjennom inntektssystemets storbytilskudd. Det er i så fall viktig å vurdere om storbytilskuddet bør omfatte flere kommuner med dokumenterte særskilte utfordringer med opphoping av levekårsproblemer. Hvis storbytilskuddet skal kompensere for utgiftene ved levekårsutfordringer, er det viktig å se på hvordan tildelingen og utmålingen av tilskuddet i større grad kan basere seg på kunnskap om kommunenes reelle utgifter på dette feltet.
+
+Det hjelper imidlertid ikke om staten tildeler ekstra midler til kommuner med levekårsutfordringer hvis ikke kommunene videretildeler midlene til områdene med behov. Derfor må også kommunene videreutvikle ressursfordelingssystemene sine slik at disse tar tilstrekkelig hensyn til merutgiftene ved levekårsopphoping. *Utvalget* vil særlig peke på at kommunene bør vurdere ressursfordelingen til utdanningssektoren, i tillegg til de sosiale tjenestene og forebyggende tiltak, slik som for den statlige ressursfordelingen.
+
+### Levekårsdata og indikatorer på områdenivå
+
+*Utvalget* mener at det er behov for mer systematisk kunnskap om hvilke områder som er levekårsutsatte, og hvilke utfordringer som preger ulike områder. Det gjør det enklere for offentlige myndigheter å rette innsatsen både mot områder hvor behovet er størst, og å fordele ordinære midler mellom områder. Det er også behov for kunnskap som gjør at kommunene vet mer om hvilke områder som står i fare for å bli utsatte, og om hvor kommunen kan sette inn forebyggende tiltak.
+
+*Utvalget* mener at kommuner bør få enklere, raskere og rimeligere tilgang til levekårsdata på områdenivå. Allerede i dag leverer SSB mikrodata til kommunene relativt raskt og billig. *Utvalget* mener likevel at bedre datatilgang på områdenivå vil kunne være et nyttig supplement for kommunene. Det vil gjøre det enklere å ha oversikt over levekårsutviklingen i ulike boområder. Noen større bykommuner har i dag god oversikt over levekårsforskjeller i kommunen, men en del har det ikke. *Utvalget* antar at enklere tilgang til slike levekårsdata kan gjøre at flere kommuner vil følge med på geografiske forskjeller i levekår. Det vil gjøre det enklere for kommunene å følge opp det ansvaret de har etter folkehelseloven om å ha nødvendig oversikt over faktorer i nærmiljøet som kan virke inn på befolkningens helsetilstand.
+
+Kunnskap om levekårsutviklingen i ulike boområder kan være nyttig for å prioritere ressursbruken innenfor ulike sektorer som utdanning, helse, fritidstilbud, bolig, politi og annet. Det kan også være nyttig for å vurdere behovet for særskilte områdesatsinger.
+
+I tillegg til å tilby data på områdenivå foreslår *utvalget* at SSB eller en annen statlig institusjon tilbyr kommunene et analyseopplegg for dataene. Det kreves god kompetanse i kommunene å finne ut hva som er nyttige indikatorer, og hvordan disse skal analyseres. Videre kan det være en fordel om data analyseres likt i kommunene. Ved å tilby et felles analyseopplegg kan staten senke både den økonomiske og praktiske terskelen for kommunene og bidra til at det er enklere å sammenlikne på tvers av kommuner. *Utvalget* vil også presisere at data lett kan mistolkes eller overfortolkes slik at de tillegges for stor vekt i en situasjonsbeskrivelse. Dette er spesielt viktig når det er snakk om data om folks nære boligområder. Det kan derfor være nyttig at kommunene får bistand til å se hvordan dataene kan analyseres og ses i sammenheng med annen kunnskap om lokalområdene.
+
+Videre foreslår *utvalget* at staten utvikler et fast indikatorsett basert på levekårsdataene. Dette indikatorsettet skal samlet sett si noe om situasjonen i ulike nabolag og gi en mer enhetlig analyse av levekårsutfordringene i alle kommunene. *Utvalget* viser til arbeidet den svenske institusjonen Delmos gjennomfører, hvor de utvikler et indikatorsett som skal gi et mer enhetlig bilde av segregeringen i landet. *Utvalget* er kjent med at SSBs levekårsindeks ble avviklet, men mener det kan være hensiktsmessig å utvikle et sett med flere levekårsindikatorer framfor én samleindeks. Det må samtidig legges til rette for at indikatorene kan analyseres på en god måte.
+
+*Utvalget* viser for øvrig til at rapporten inneholder flere forslag til tiltak om å analysere segregering, levekårsutfordringer og tiltak, for eksempel bedre effektstudier av områdesatsinger (se kapittel 15) og en mer koordinert innsats for analyser av effekter av lokalsamfunnsarbeid (se kapittel 16).
+
+### Koordinerende statlig enhet
+
+Både svenske og danske myndigheter har utarbeidet en egen plan eller strategi mot segregering og utsatte byområder. *Utvalget* ser at en slik strategi kan ha fordeler ved at det løfter fram viktige virkemidler og innsatser i arbeidet. *Utvalget* har likevel ikke foreslått en egen strategi for norske myndigheter. Mange sentrale virkemidler, tiltak og strategier som kan dempe segregering, framgår av andre dokumenter og planer, for eksempel innenfor de store velferdssektorene som arbeid og utdanning.
+
+*Utvalget* ser samtidig at det kan være en fordel om en statlig enhet har et særskilt ansvar for å analysere segregeringen og koordinere virkemidler som kan dempe segregeringen. Statlige myndigheter har organisert seg for å koordinere innsatsen innenfor områdesatsinger. Men de har ingen innsats rettet mot å analysere og dempe segregering generelt. *Utvalget* foreslår at én statlig enhet får et tydeligere samordnings- og koordineringsansvar i arbeidet mot segregering. Det kan innebære å ha ansvar for forskning, analyser og datatilgang om segregering og utsatte byområder, for eksempel for å få utviklet og finanisert levekårsdata på områdenivå. I tillegg kan enheten ha ansvar for å vurdere hvordan statlige virkemidler påvirker utviklingen, og kommunisere med sektormyndigheter om eventuelle endringer i virkemidlene.
+
+# Barnehage, skole og andre tjenester til barn og unge
+
+Fra de er veldig små møter alle barn ulike tilbud og tjenester som har og vil få mye å si for hvordan de har det og hvilke muligheter de får senere i livet. Særlig skal barnehagen og skolen legge til rette for at barna får lære, leke, utvikle seg og mestre. Barnehager og skoler skal være trygge oppvekstarenaer som også bidrar til å gi barn og unge likeverdige muligheter og livssjanser. Også en rekke andre forebyggende tjenester retter seg mot barn og familiene deres og har ulik betydning og rolle i forskjellige livsfaser og i ulike situasjoner.

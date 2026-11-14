@@ -1,576 +1,228 @@
-# NOU 2020: 16, del 27 av 27 (side 306–312)
+# NOU 2020: 16, del 27 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/dafff701-nou-2020-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-16/id2798280/
 - Original-PDF: https://www.regjeringen.no/contentassets/ccc978f8e2184980b4597ba59796e7e3/no/pdfs/nou202020200016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 13 tabeller, 25 figurer, 243 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 306]
-
-304
-
-Litteraturliste
-
-NOU 2020: 16
-Levekår i byer
-
-panelstudie 2000–2009. NOVA, rapport nr. 10/
-10.
-Sandlie, H.C. (2019). Familierelasjoner og bolig. I:
-Tidsskrift for boligforskning 02/2019. Vol 2.
-Sandlie, H.C. og Sørvoll, J. (2014). Et velfungerende leiemarked? Profesjonell utleie og offentlig-privat samarbeid. NOVA Notat 4/2014.
-Sandnes kommune, Politiet, Korus Vest Stavanger
-og Stavanger kommune (2018). En kartlegging
-av fenomenet ungdomsgjenger i Stavanger og
-Sandnesområdet.
-Sandnes, T. (2017). Sosial kontakt. I: Vrålstad, S.
-og Wiggen, K.S. (red.). Levekår blant innvandrere i Norge 2016. Rapport 2017:13, Statistisk
-sentralbyrå.
-Sandsør, A.M.J. (2020). Fritt skolevalg? En gjennomgang av relevant forskning (høringsnotat).
-NIFU Innsikt 2020:4.
-Sandsør, A.M.J., Reiling, R.B., Skålholt, A. og Pedersen, C. (2020). Evaluering av norm for lærertetthet: Analyse av GSI og spørreundersøkelse
-til skoleledere og skoleeiere. Tredje delrapportering. NIFU Arbeidsnotat 2020:2.
-Sandsør, A.M.J., Reiling, R.B. og Salvanes, K.V.
-(2019). Hva vet vi om effekten av økt lærertetthet på elevenes læringsutbytte? NIFU Innsikt
-2019:20.
-Sandmoe, A. og Nymoen, R.C. (2019). Kommunale handlingsplaner mot vold i nære relasjoner.
-Hvordan brukes de og til hvilken nytte? Rapport
-nr. 3/2019. Nasjonalt kunnskapssenter om
-vold og traumatisk stress A/S.
-Scarpa, S. (2015). The impact of income inequality
-on economic residential segregation: The case
-of Malmö, 1991–2010. I: Urban Studies. Vol. 52
-(5), 906–922.
-Schølberg S., Lekhal, R., Wang, M.V., Zambrana,
-I.M., Mathiesen, K.S., Magnus, P. og Roth, C.
-(2008). Forsinket språkutvikling – en foreløpig
-oversikt basert på data fra den norske mor og
-barn undersøkelsen. Rapport nr. 10, Nasjonalt
-folkehelseinstituttet.
-Schulz, S., Jivén, G., Malmquist, I., Stenberg, J. og
-Särnbratt, L. (2004): Arkitektur betyder. Om
-trygghet och trivsel i fyra stadsdelar. Rapport i
-utvärderingen av Storstadssatsningen i Göteborg. Chalmers Arkitektur. Göteborgs stad,
-Stadskanseliet.
-Seegaard, S.B. (2011). Sosial kapital og organisasjonstilknytning blant etniske minoriteter. I:
-Wollebæk, D. og Segaard S. B. (red.) Sosial kapital i Norge. Cappelen Damm akademisk.
-Selle, P. og Wollebæk, D. (2015) – The Complex
-Relationship Between Civil Society and Trust.
-I: Italian Sociological Review, 5(3).
-
-von Simson, K. og Umblijs, J. (2020). Housing
-conditions and children’s school results: evidence from Norwegian register data. I: International Journal of Housing Policy. Latest Articles. Published online: 29 September 2020.
-von Simpson, K. og J. Umblijs (2019). Boforhold og
-velferd. Institutt for samfunnsforskning. Rapport 2019:2.
-von Simpson, K. (2019). Kunnskapsoversikt: Effekter av arbeidsmarkedstiltak mv på arbeidstilbud
-og sysselsetting, norske erfaringer. Institutt for
-samfunnsforskning. Digitalt vedlegg til NOU
-2019:7 Arbeid og inntektssikring – Tiltak for
-økt sysselsetting.
-Skogheim, R., Holm-Hansen, J. og Nygaard, M.
-(2019). Kultur og frivillighet i Groruddalen – en
-aktørkartlegging. NIBR-Rapport 2019-1.
-Skolverket (2018). Kartläggning av huvudmäns
-arbete med att motverka skolsegregation.
-www.skolverket.se
-Skutlaberg, L.S., Drangsland, K.A.K. og Høgestøl,
-A. (2014). Evaluering av introduksjonsprogrammene i storbyene. Rapport 9:2014, Ideas2evidence.
-Skutlaberg, L.S., Ekhaugen, T. og Holden, M.B.
-(2018). Gjennom av post 71. Tilskudd til innvandrerorganisasjoner og annen frivillig virksomhet. Rapport 2018:1, Ideas2evidence.
-Sletten, M.Aa. og Hyggen, C. (2013). Ungdom, frafall og marginalisering. Temanotat. Velferd, arbeidsliv og migrasjon – VAM. Forskningsrådet.
-Smette, I. og Rosten, M.G. (2019). Et iakttatt foreldreskap. Om å være foreldre og minoritet i
-Norge. NOVA Rapport 3/2019.
-Smith, N. (1979) Toward a Theory of Gentrification A Back to the City Movement by Capital,
-not People. I: Journal of the American Planning
-Association 45 (4). 538–48.
-von Soest, T., Bakken, A., Pedersen, W. og Sletten,
-M.Aa. (2020). Livstilfredshet blant ungdom før
-og under covid-19-pandemien. I: Tidskrift for
-Den norske legeforening. Utgave 10, 30. juni
-2020.
-Solhjell mfl. (2019). «We are Seen as a Threat»:
-Police Stops of Young Ethnic Minorities in the
-Nordic Countries. I: Critical Criminology. Vol.
-(2). 347–361.
-Sommerfeldt, M.B., Hauge, M.-I. og Øverlien, C.
-(2014). Minoritetsetniske barn og unge og vold i
-hjemmet. Utsatthet og sosialfaglig arbeid. Rapport 3/2014. Nasjonalt kunnskapssenter om
-vold og traumatisk stress (NKVTS).
-
-[Side 307]
-
-NOU 2020: 16
-Levekår i byer
-
-SOU 2005:29 Storstad i rörelse – Kunskapsöversikt
-över utvärderingar av storstadspolitkens lokala
-utvecklingsavtal
-Spjelkavik, Ø. (2016): Arbeidsrettet brukeoppfølging. «Place then train» i kvalifiseringsprogrammet i NAV? AFI-rapport 3/2016.
-Stambøl, L.S. (2013). Flytting til og fra Oslos bydeler. Rapport 2013/11, Statistisk sentralbyrå.
-Stambøl, L.S. (2016). Sysselsetting og flytting blant
-innvandrere belyst ved regional arbeidsmarkedsmobilitet. Rapport 2016/06, Statistisk sentralbyrå.
-Stamsø, M.A. og Østerby, S. (2000). Forholdet mellom bostøtte og sosialhjelp. Norges byggforskningsinstitutt. Prosjektrapport 288.
-Stangeland, E. (2017). The impact of language
-skills and social competence on play behaviour
-in toddlers. I: European Early Childhood Education Research Journal.
-Stavanger kommune og Sør-vest politidistrikt.
-(2019). Barne- og ungdomskriminaliteten i
-Stavanger 2018.
-Staver, A.B., Brekke, J.P. og Søholt, S. (2019). Scandinavia's segregated cities – policies, strategies
-and ideals. NIBR-Report 2019:8.
-Stefansen, K. og Skevik, A.G. (2006). Barnefamilier i kommunale boliger. I: Nordisk sosialt arbeid nr. 03.
-Steffensen, K. m.fl. (2017). Er det forskjeller i skolers og kommuners bidrag til elevenes læring i
-grunnskolen? En kvantitativ studie. SSB, rapport 2017/2.
-Statistisk sentralbyrå (2019). Konjunkturtendensene. Økonomisk utsyn over året 2018. 2019/1.
-Statistisk sentralbyrå (2018). Dette er Norge 2018.
-Statistisk sentralbyrå.
-Stavanger kommune og Sør-vest politidistrikt
-(2019). Barne- og ungdomskriminalitet i
-Stavanger 2018.
-Strand, A.H. og Kindt, M.K. (2019). Unge i utsatte
-områder – en kunnskapsoversikt. Delrapport.
-Fafo-notat 2019:24.
-Strand, A.H. og Kindt, M.K. (2020). Hele mennesker – delte tjenester: Utenforskap blant unge i utsatte boområder. Fafo-rapport 2020:12.
-Strøm, F., Kirkeberg, M.I. og Epland, J. (2020).
-Monitor for sekundærflytting. Sekundærflytting
-blant personer med flyktningbakgrunn bosatt i
-Norge 2007–2016. Rapport 2020/36, Statistisk
-sentralbyrå.
-Strømsnes, K. (2019). Innlegg på jubileumsseminar 10. september 2019 for Bernhard Enjolras,
-Institutt for samfunnsforskning.
-
-305
-
-Litteraturliste
-
-Stugu, O.S. (2006). Mot et urbanisert land? 1920–
-2000. I: Norsk Byhistorie. Urbanisering gjennom
-1300 år. Pax Forlag.
-Støren, K.S., Rønning, E. og Gram, K.H. (2020).
-Livskvalitet i Norge 2020. Rapporter 2020/35,
-Statistisk sentralbyrå.
-Suárez, M., Barton, D.N, Cimburova, Z., Rusch,
-G.M., Gómez-Baggethun, E. og Onaindia, M.
-(2020). Environmental justice and outdoor recreation opportunities: A spatially explicit assessment in Oslo metropolitan area, Norway.
-I: Environmental Science and Policy. Vol. 108,
-133-143.
-Sundell, T. (2008). ‘Hvit flukt’ blant norske barnefamilier I Oslo? En kvantitativ studie. Masteroppgave, Universitetet i Oslo.
-Svendsen, S., Valenta, M. og Berg, B. (2017). Fra
-intro til arbeid. Integreringsutfordringer og muligheter i Flora kommune. NTNU Samfunnsforskning
-Sykes, B. (2011). Spatial order and social position:
-Neighbourhoods, schools and educational inequality. Universiteit van Amsterdam.
-Syse, A. og Dzamarija, M.T. (2016). Dødelighet
-blant innvandrere etter innvandringsgrunn. I:
-Økonomiske analyser 5/2016.
-Sætre, M., Hofseth, C. og Kjenn, B. (2018). Trender i kriminalitet 2018–2021. Digitale og glokale utfordringer. Oslo politidistrikt.
-Søholt, S. (2007). Gjennom nåløyet – en sammenlikning av tilpasninger til boligmarkedet blant
-hushold med pakistansk, tamilsk og somalisk
-bakgrunn. NIBR-rapport 2007:11.
-Søholt, S., Aasland, A., Onsager, K., og Vestby,
-G.M. (2012). Derfor blir vi her: innvandrere i
-Distrikts-Norge. NIBR-rapport 2012:5.
-Søholt, S. og Astrup, K. (2009). Etniske minoriteter
-og forskjellsbehandling i leiemarkedet. NIBRrapport 2009:2
-Søholt, S. og Lynnebakke, B. (2015). Do Immigrants’ Preferences for Neighbourhood Qualities Contribute to Segregation? The Case of
-Oslo. I: Journal of Ethnic and Migration Studies. Vol. 41 (14). 2314–2335.
-Tammaru, T., Marcinczak, S., Aunap, R., van Ham
-M. og Janssen, H. (2019). Relationship between income inequality and residential segregation of socioeconomic groups. I: Regional
-Studies. Vol. 54(4). 450–461.
-Tammaru, T., Marcinczak, S., van Ham, M. og
-Musterd S. (red.) (2016). Socio-Economic Segregation in European Capital Cities: East Meets West. Routledge.
-Tennøy, A., Knapskog, M., Gundersen, F., Hagen
-O.H., Skartland, E.-G. og Øksenholt, K.V.
-
-[Side 308]
-
-306
-
-Litteraturliste
-
-NOU 2020: 16
-Levekår i byer
-
-(2017). Statlig lokalisering – hvor og hvorfor?
-TØI rapport 1576/2017.
-Thoresen, S. og Hjemdal, O.K. (red.). (2014). Vold
-og voldtekt i Norge. En nasjonal forekomststudie
-av vold i et livsløpsperspektiv. NKVTS Rapport
-nr. 1, 2014.
-Toft, M. og Ljunggren, J. (2016). Geographies of
-class advantage: The influence of adolescent
-neighbourhoods in Oslo, Urban Studies. Vol.
-53 (14), 2939–2955.
-Törnquist, A. (2005). Allting förandras men ingenting förgås. Summerande utvärdering av Storstadssatsningen i Göteborg. Göteborgs Universitet.
-Townsend, P. (1979). Poverty in United Kingdom.
-Penguin Books.
-Trondheim kommune (2012). Levekår 2011. Rapport om levekår i Trondheim.
-Tronstad, K.R. (2015). Introduksjonsprogram for
-flyktninger i norske kommuner. Hva betyr organiseringen for overgangen til arbeid og utdanning? NIBR-rapport 2015:2.
-Trumberg, A. og Urban, S. (2020). School Choice
-and Its Long-Term Impact on Social Mobility
-in Sweden. I: Scandinavian Journal of Educational Research. Latest articles. Published online: 01 Apr 2020.
-Tunstall, R. (2016). Are neighbourhoods dynamic
-or are they slothful? The limited prevalence
-and extent of change in neighbourhood socioeconomic status, and its implications for regeneration policy. I: Urban Geography. Vol. 37(5).
-769–784.
-Turner, L.M. og Sandlie, H.C. (2016). Storby – stabilitet og endring i botetthet og flytting. NOVAnotat 2/16.
-Turner, L.M. og Wessel, T. (2019). Housing market filtering in the Oslo region: pro-market housing policies in a Nordic welfare-state context. I: International Journal of Housing Policy.
-Turner, L.M. og Östh, J. (2020). Trap or opportunity – what role does geography play in the
-use of cash for childcare? I: Population, Space
-and Place. Vol. 26(4). e2296.
-Tønnessen, M. og Andersen, S.N. (2019). Bosettingskommune og integrering blant voksne flyktninger. Hvem bosettes hvor, og hva er sammenhengen mellom bosettingskommunens egenskaper og videre integreringsutfall? Rapport 2019/
-13, Statistisk sentralbyrå.
-Thoresen, I.T. (2019). Skolen som samfunnsinstitusjon. Elev, hjem og skole. Cappelen Damm Akademisk, Oslo.
-Trætteberg, H.S., Eimhjellen I., Ervik, R., Enjolras, B. og Skiple J.K. (2020). Kommunal frivil-
-
-lighetspolitikk og lokale organisasjoner. Rapport
-2020:3. Senter for forskning på sivilsamfunn og
-frivillig sektor.
-Twohig-Bennett, C. og Jones, A. (2018). The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace
-exposure and health outcomes. I: Environmental Research. Vol. 166. 628-637.
-Umblijs, J., von Simson, K. og Mohn, F. (2019).
-Boligens betydning for annen velferd. Rapport
-2019:1, Institutt for samfunnsforskning.
-UNICEF Office of Research (2016). Fairness for
-Children: A league table of inequality in child
-well-being in rich countries (Innocenti Report
-card 13). UNICEF Office of Research-Innocenti.
-Urban, S. (2009). Is the neighbourhood effect an
-economic or immigrant issue? A study of the
-importance of the childhood neighbourhood
-for future integration into the labour market. I:
-Urban Studies. Vol. 46(3). 583–603.
-Uslaner, E. (2012). Segregation and Mistrust. Cambridge University Press.
-Vaattovaara, M., Joutsiniemi, A., Korteteinen, M.,
-Stjernberg, M. og Kemppainen, T. (2018).
-Experience of a Preventive Experiment: Spatial Social Mixing in Post-World War II Housing Estates in Helsinki, Finland. I: Housing
-Estates in Europe. Poverty, Ethnic Segregation
-and Policy Challenges. Hess, D. B, Tammaru,
-T. og van Ham, M (red.). Springer
-Venn, D. (2009). Legislation, collective bargaining
-and enforcement: Updating the OECD employment protection indicators. Working Paper, OECD.
-Vest politidistrikt (2018a). Barne- og ungdomskriminalitet. Fenomen, trender og utvikling i Vest
-politidistrikt.
-Vest politidistrikt (2018b). Barne- og ungdomskriminalitet. Registrert kriminalitet i Vest politidistrikt 2008-2017.
-Voigtländer, M. (2009). Why is German Homeownership Rate so Low? I: Housing Studies. Vol
-24(3). 355–372.
-Vrålstad, S. og Wiggen, K.S. (red.) (2017). Levekår
-blant innvandrere i Norge 2016. Rapport 2017/
-13, Statistisk sentralbyrå.
-Walks, A. (2016). Homeownership, Asset-based
-Welfare and the Neighbourhood Segregation
-of Wealth. I: Housing Studies. Vol. 31 (7), 755784.
-Wassenberg, F. (2018). Beyond an Ugly Appearance: Understanding the Physical Design and
-Built Environment of Large Housing Estates.
-I: Housing Estates in Europe Poverty, Ethnic Se-
-
-[Side 309]
-
-NOU 2020: 16
-Levekår i byer
-
-gregation and Policy Challenges. Hess, D. B,
-Tammaru, T. og van Ham, M (red.). Springer.
-Wendelborg, C., Caspersen, J., Mordal. S., Ljusberg, A.L., Valenta, M. og Bunar N. (2018).
-Lek, læring og ikke-pedagogikk for alle. Nasjonal evaluering av skolefritidsordningen i Norge.
-Rapport. NTNU Samfunnsforskning.
-Wessel. T. (2016). Economic segregation in Oslo.
-I: Socio-Economic Segregation in European Capital Cities: East Meets West. Tammaru, T., S.
-Marcinczak, M. van Ham og S. Musterd
-(red.). Routledge.
-Wessel, T. (2017). Det todelte Oslo – etniske minoriteter i øst og vest. I: Ljunggren, J. (red.) Oslo
-– ulikhetenes by. Cappelen Damm Akademisk.
-Wessel, T. (1997). Boligsegregasjon: en drøfting av
-underliggende prosesser. Prosjektrapport 230.
-Norges byggforskningsinstitutt.
-Wessel, T. og Nordvik, V. (2018). Mixed neighbourhoods and native out-mobility in the Oslo
-region: The importance of parenthood. I: Urban Studies. Vol. 56(5), 885–905.
-Wiborg, Ø.N. (2017). Hvor er formuene i Oslo?
-Gyldne ghettoer og deres utvikling over tid. I:
-Oslo – ulikhetenes by. Ljunggren, J. (red). Cappelen Damm Akademisk.
-Wind, B. og Hedman L. (2018). The uneven distribution of capital gains in times of socio-spatial
-inequality: Evidence from Swedish housing
-pathways between 1995 and 2010. I: Urban
-Studies. Vol. 55 (12) 2721–2742.
-Wollebæk, D. og Segaard S.B. (red.) (2011). Sosial
-kapital i Norge. Cappelen Damm akademisk.
-Wollebæk, D. og Selle, P. (2007). The origins of social capital. Socialisation and institutionalisation approaches compared. I: Journal of Civil
-Society. Vol. 3(1), 1–14.
-Woolcock, M. (1998). Social capital and economic
-development: Toward a theoretical synthesis
-and policy framework. I: Theory and Society.
-Vol. 27(2), 151–208.
-Zwiers, M., van Ham, M. og Manley, D. (2018a).
-Trajectories of ethnic neighbourhood change:
-Spatial patterns of increasing ethnic diversity. I:
-Population, Space and Place. Vol. 24(2). e2094.
-Zwiers, M., van Ham M. og Kleinhans, R. (2018b).
-The effects of physical restructuring on the socioeconomic status of neighbourhoods: Selective migration and upgrading. I: Urban Studies. Vol. 56 (8). 1647–1663
-Zwiers, M., Kleinhans, R. og van Ham, M. (2017).
-The Path-Dependency of Low-Income Neighbourhood Trajectories: An Approach for Analysing Neighbourhood Change. I: Applied Spatial Analysis. Vol. 10(3). 363–380.
-
-307
-
-Litteraturliste
-
-Zwiers, M., Bolt, G., van Ham, M. og van Kempen
-R. (2014). Neighborhood Decline and the Economic Crisis. I: Urban Geography. Vol. 37(5). 19.
-Ærø, T., Andersen, H.S., Gottschalk, G., Jensen,
-J.O., Engberg, L.A., Larsen, J. N. Storgaard,
-K., Abitz, J. og Højgaard, E. (2008). Evaluering
-af lov om byfornyelse og udvikling af byer, Statens Byggeforskningsinstut/Aalborg Universitet, SBI 2008:02
-Ødegård, G. (2011). Bowling på Veitvet: lenkende
-sosial kapital i et flerkulturelt lokalsamfunn, I:
-Wollebæk, D. og Segaard S.B. (red.) Sosial kapital i Norge. Cappelen Damm akademisk.
-Ødegård, G., Loga, J., Steen-Johnsen, K. og Ravneberg, B. (2014). Fellesskap og forskjellighet. Integrasjon og nettverksbygging i flerkulturelle lokalsamfunn. Abstrakt forlag.
-Ødegård, G., Bakken, A. og Strandbu, Å. (2016).
-Idrettsdeltakelse og trening blant ungdom i Oslo:
-Barrierer, frafall og endringer over tid. Rapport
-2016:7. Senter for forskning på sivilsamfunn og
-frivillig sektor.
-Ødegård, G. og Fladmoe, A. (2020). Are immigrant youth involved in voluntary organizations more likely than their non-immigrant peers to be engaged in politics? Survey evidence
-from Norway. I: Acta Sociologica, 63(3), 267–
-283.
-Ødegård, G. og Fladmoe, A. (2017). Samfunnsengasjert ungdom: Deltakelse i politikk og organisasjonsliv blant unge i Oslo. Rapport 2017:2.
-Senter for forskning på sivilsamfunn og frivillig sektor.
-Øia, T. (2013). Ungdom, rus og marginalisering.
-Cappelen Damm Akademisk.
-Østerby, S. (2007). Husbankens bostøtte og kommunenes saksbehandling. NIBR-rapport 2007:4.
-Østerud, S. (2016). Hva kan norsk skole lære av
-PISA-vinneren Finland? I: Nordisk pedagogikk
-og kritikk 2/2016.
-Øverlien, C. (2010). Barn som opplever vold i hjemmet – Kunnskapsstatus. NKVTS.
-Aaberge, R., Bhuller, M., Langøren A. og Mogstad, M. (2010). The distributional impact of
-public services when needs differ. I: Journal of
-Public Economics Vol. 94 (2010). 549–562.
-Aaberge, R. og Stubhaug, M.E. (2018). SSB-analyse 2018/18: Formuesulikhet i Norge 1995–
-2016. Statistisk sentralbyrå.
-Aakvaag, H.F. og Strøm, I.F. (red.). 2019. Vold i
-oppveksten: Varige spor? En longitudinell undersøkelse av reviktimisering, helse, rus og sosiale relasjoner hos unge utsatt for vold i barn-
-
-[Side 310]
-
-308
-
-Litteraturliste
-
-NOU 2020: 16
-Levekår i byer
-
-dommen. Rapport 1/2019. Nasjonalt kunnskapssenter om vold og traumatisk stress.
-Aarland, K. (2020). En oppdatert analyse av delområders levekår i 26 kommuner. Fase 1 av oppdrag for By- og levekårsutvalget.
-Aarland, K. og Brattbakk, I. (2020). Analyser av levekår og demografi for levekårsutsatte byområder. Fase 2 av oppdrag for By- og levekårsutvalget.
-Aarland, K. og Reid, C.K. (2019). Homeownership
-and residential stability: does tenure really
-make a difference? I: International Journal of
-Housing Policy. Vol. 19(2). 165–191.
-Aarland m. fl. (2017): Do area-based intervention
-programs affect house prices? A quasi-experimental approach. I: Journal of Housing Economics. Vol. 37 (2017). 67–83.
-Aarset, M.F. og Bredal, A. (2018). Omsorgsovertakelser og etniske minoriteter. En gjennomgang
-av saker i fylkesnemnda. NOVA rapport 5/18.
-
-Aarsæther, N. og Hanssen, G.S. (2018). Kompetanse og kapasitet: det lokale nivået – er forutsetningene til stede? I «Plan- og bygningsloven –
-en lov for vår tid? Hanssen, G. S. og Aarsæther,
-N. (red.). Universitetsforlaget
-Åslund, O. og Rooth, D.-O. (2007). Do when and
-where matter? Initial labour market conditions
-and immigrant earnings. I: The Economic Journal. Vol. 117(518), 422–448.
-Åslund, O., Östh, J. og Zenou, Y. (2010). How important is access to jobs? Old question-improved answer. I: Journal of Economic Geography.
-Vol. 10(3), 389–422.
-Aas, G., Runhovde, S.R., Strype, J. og Bjørgo, T.
-(2010). Trygghet i det offentlige rom – i åtte norske kommuner og bydeler. PHS Forskning 2010:
-7. Oslo.
-
-[Side 311]
-
-Norges offentlige utredninger
-2020
-
-Norges offentlige utredninger
-2019
-
-Seriens redaksjon:
-
-Departementenes sikkerhets- og serviceorganisasjon
-Teknisk redaksjon
-
-Arbeids- og sosialdepartementet:
-NOU 2019: 6 Grunnlaget for inntektsoppgjørene 2019
-NOU 2019: 7 Arbeid og inntektssikring
-Barne- og likestillingsdepartementet:
-NOU 2019: 20 En styrket familietjeneste
-
-1.
-
-Tjenester til personer med autismespekterforstyrrelser og til personer med Tourettes
-syndrom
-Helse- og omsorgsdepartementet
-
-9.
-
-Blindsonen
-Arbeids- og sosialdepartementet
-
-10. Straffelovrådets utredning nr. 2
-Justis- og beredskapsdepartementet
-
-2.
-
-Fremtidige kompetansebehov III
-Kunnskapsdepartementet
-
-3.
-
-Ny lov om universiteter og høyskoler
-Kunnskapsdepartementet
-
-4.
-
-Straffelovrådets utredning nr. 1
-Justis- og beredskapsdepartementet
-
-12. Næringslivets betydning for levende og
-bærekraftige lokalsamfunn
-Nærings- og fiskeridepartementet og
-Kommunal- og moderniseringsdepartementet
-
-5.
-
-Likhet for loven
-Justis- og beredskapsdepartementet
-
-13. Private aktører i velferdsstaten
-Nærings- og fiskeridepartementet
-
-6.
-
-Frie og hemmelige valg
-Kommunal- og moderniseringsdepartementet
-
-14. Ny barnelov
-Barne- og familiedepartementet
-
-7.
-
-Verdier og ansvar
-Finansdepartementet
-
-15. Det handler om Norge
-Kommunal- og moderniseringsdepartementet
-
-8.
-
-Grunnlaget for inntektsoppgjørene 2020
-Arbeids- og sosialdepartementet
-
-16. Levekår i byer
-Kunnskapsdepartementet og
-Kommunal- og moderniseringsdepartementet
-
-Omslagsfoto: iStock-Photo
-
-11. Den tredje statsmakt
-Justis- og beredskapsdepartementet
-
-Justis- og beredskapsdepartementet:
-NOU 2019: 4 Organisering av norsk
-naturskadeforsikring
-NOU 2019: 5 Ny forvaltningslov
-NOU 2019: 13 Når krisen inntreffer
-NOU 2019: 17 Domstolstruktur
-
-Finansdepartementet:
-NOU 2019: 1 Overtakelsestilbud (frivillig og pliktig
-tilbud)
-NOU 2019: 8 Særavgiftene på sjokolade- og
-sukkervarer og alkoholfrie drikkevarer
-NOU 2019: 11 Enklere merverdiavgift med én sats
-NOU 2019: 15 Skatterådgiveres opplysningsplikt og
-taushetsplikt
-NOU 2019: 16 Skattlegging av vannkraftverk
-NOU 2019: 18 Skattlegging av havbruksvirksomhet
-
-Kulturdepartementet:
-NOU 2019: 9 Fra kalveskinn til datasjø
-NOU 2019: 19 Jenterom, gutterom og mulighetsrom
-
-Helse- og omsorgsdepartementet:
-NOU 2019: 10 Åpenhet i grenseland
-NOU 2019: 14 Tvangsbegrensningsloven
-NOU 2019: 24 Inntektsfordeling mellom regionale
-helseforetak
-NOU 2019: 26 Rusreform – fra straff til hjelp
-
-Nærings- og fiskeridepartementet:
-NOU 2019: 21 Framtidens fiskerikontroll
-
-Kunnskapsdepartementet:
-NOU 2019: 2 Fremtidige kompetansebehov II
-NOU 2019: 3 Nye sjanser – bedre læring
-NOU 2019: 12 Lærekraftig utvikling
-NOU 2019: 23 Ny opplæringslov
-NOU 2019: 25 Med rett til å mestre
-
-Samferdselsdepartementet:
-NOU 2019: 22 Fra statussymbol til allemannseie
-– norsk luftfart i forandring
-
-[Side 312]
-
-NOU
-
-Bestilling av publikasjoner
-
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-
-NOU 2020: 16
-
-Departementenes sikkerhets- og serviceorganisasjon
-www.publikasjoner.dep.no
-Telefon: 22 24 00 00
-
-Omslagsfoto: iStock-Photo
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 12/2020
-
-R K E T T RY
-
-1
-
-46
-
-20
-
-4
-
-KK
-
-K
-
-MI
-
-L
-
-Levekår i byer
-
-ME
-
-SA
-
-JØ
-
-De
-
-p M edia
-
-04
-
-Norges offentlige utredninger
-
-Levekår i byer
-Gode lokalsamfunn for alle
-
-2020: 16
+# Kriminalitetsforebygging – med vekt på virkemidler i justissektoren
+
+Det å vokse opp i familier med sosiale og økonomiske problemer kan øke sannsynligheten for at barn og unge utvikler problematferd og i ytterste konsekvens begår kriminalitet. Nabolagsstudier fra flere land viser at det er mer sannsynlig at barn som vokser opp i nabolag med store levekårsutfordringer og høy kriminalitet, selv begår kriminalitet. At kriminaliteten blant barn og unge både ser ut til å øke og bli grovere, krever forebyggende innsats.
+
+Den viktigste forebyggende innsatsen skjer på arenaer hvor barn og unge oppholder seg og deltar til daglig. Innsats innen en rekke sektorer som ikke har det å forebygge kriminalitet som sin hovedoppgave, men som likevel virker kriminalitetsforebyggende, er aller viktigst. Slik innsats er omtalt i tidligere kapitler. Men flere aktører i justissektoren har også en forebyggende rolle.
+
+## Bred innsats for å forebygge kriminalitet
+
+Begrepet «kriminalitetsforebygging» brukes om innsats og tiltak der formålet er å være i forkant og forhindre at kriminalitet skjer eller gjentas.
+
+Begrepet kan forstås på ulike måter. En smal forståelse av kriminalitetsforebygging dekker innsats som direkte har som formål å forhindre kriminalitet, for eksempel å installere boligalarmer, overvåkningskameraer eller gjennomføre fartskontroll.
+
+En vid forståelse av begrepet dekker innsats og tiltak rettet mot atferd og risikofaktorer der kriminalitet *på sikt* er ett av flere mulige utfall. Å forebygge handler i et slikt perspektiv om å legge til rette for et trygt samfunn med gode levekår for alle og om å bygge gode samfunn der menneskene tar ansvar for seg selv og fellesskapet. Innsatsen skal hindre at grupper og individer opplever å bli ekskludert og marginalisert.
+
+Politiet er en viktig aktør, men på langt nær den eneste eller viktigste. Det kreves tidlig innsats på flere områder og fra et bredt sett av aktører. Arbeidet med å forebygge kriminalitet skjer på såkalt byggende arenaer. Dette kan være for eksempel skoler, barnehager og fritidsaktiviteter. Kriminalitetsforebygging handler også om gi gode, rehabiliterende tilbud til lovbrytere for å hindre at de begår kriminalitet på nytt. Alt kriminalitetsforebyggende arbeid krever at aktører i ulike samfunnssektorer samarbeider og samhandler godt på tvers.
+
+Skolen er en viktig arena for å forebygge kriminalitet. En god skolesituasjon kan, sammen med et positivt fritidsmiljø, kompensere for vanskelige hjemmeforhold. Å delta i og fullføre videregående skole ses på som et av de aller viktigste tiltakene for å forebygge kriminalitet (Bertrand mfl. 2019, referert i Strand og Kindt 2019). Dette bekreftes av flere nordiske studier som ser på sammenhengen mellom videregående opplæring og kriminalitet.
+
+Forskningslitteraturen gir ikke alltid klare svar på hvilken effekt konkrete, kriminalitetsforebyggende tiltak og programmer har (Runhovde og Skjevrak 2018). Et eksempel er spørsmålet om fritidsklubber kan forebygge kriminalitet (Strand og Kindt 2019). Enkelte studier tyder på at unge som er med i fritidsklubber, er mer involvert i kriminalitet og hærverk enn andre. Det kan skyldes seleksjon, altså at det ikke er tilfeldig hvem som går på klubbene. Å møte og henge med andre ungdommer med utfordringer kan gjøre det mer sannsynlig å havne i problemer. Men fritidsklubbene kan også fungere positivt og forebyggende for utsatte barn og unge. Fritidsklubber med høy voksentetthet, ansatte med høy faglig kompetanse og personlige egenskaper for å møte barn og unge og strukturerte aktiviteter kan spille en forebyggende rolle i unges liv.
+
+## Politiets virkemidler for å forebygge kriminalitet
+
+Å forebygge kriminalitet er en viktig del av politiets samfunnsoppdrag. Et definert mål med politireformen har vært å få et politi som har kapasitet og kompetanse til å forebygge. Forebygging skal være politiets primærstrategi innenfor alle politiets virkeområder, og politiet skal aktivt søke samarbeid med andre relevante aktører både i offentlig og privat sektor.
+
+### Politiets generelle arbeid med å forebygge kriminalitet
+
+Politiets arbeid med å forebygge kriminalitet kan deles i to hovedstrategier (Runhovde og Skjevrak 2018). Den første er det proaktive arbeidet. Dette er generelle forebyggende tiltak som synlig politi, tilstedeværende polititjeneste, holdningsskapende arbeid og sosiale tiltak rettet mot risikoutsatte grupper og enkeltpersoner (forebyggingssporet). Den andre strategien er det reaktive arbeidet med straffesaker og påtale (straffesakssporet).
+
+Politiets kriminalitetsforebyggende arbeid har tradisjonelt foregått overfor barn og unge (POD 2018). Arbeidet overfor disse er høyt prioritert. I henhold til politiforskriften skal politiet samarbeide tett med skoler og ulike kommunale instanser. Politiet skal bidra med å kartlegge enkelte ungdommer og ungdomsmiljøer og melde fra om bekymringsfulle forhold.[^154] Politiet bruker flere virkemidler overfor ungdom, for eksempel holdningsskapende barne- og ungdomsarbeid i skoler og bekymringssamtaler. Bekymringssamtaler er politiets verktøy for å snakke med unge og deres foresatte om risikoatferd og kriminalitet. Verktøyet brukes både som en reaksjon på uønsket atferd og for å kartlegge og identifisere risiko- og beskyttelsesfaktorer i den unges liv. Gjennom samtalen skal den unge og de foresatte gjøres ansvarlige for å forebygge en framtidig kriminell atferd.[^155]
+
+Arbeid for å forebygge radikalisering og voldelig ekstremisme har vært prioritert de siste årene, og ifølge Politidirektoratet (POD) er Norge internasjonalt anerkjent for arbeidet som gjøres på området (POD 2018).
+
+I kriminalitetsforebyggende arbeid samhandler politiet med ulike offentlige og private aktører. SLT-modellen skal samordne rus- og kriminalitetsforebyggende tiltak for barn og unge. Målet er at barn og unge skal få riktig hjelp til riktig tid av et hjelpeapparat som samarbeider godt på tvers av etater og faggrupper. Modellen skal sørge for å koordinere kunnskap og ressurser mellom politi og relevante kommunale enheter. Også næringsliv og frivillige organisasjoner er med i arbeidet. En SLT-koordinator sikrer at alle som driver med rus- og kriminalitetsforebyggende arbeid, møtes regelmessig, oppnår en felles problemforståelse og samordner tiltakene sine. I dag bruker om lag 200 kommuner SLT-modellen.[^156]
+
+Politirådet er et forum for samarbeid mellom den øverste ledelsen i kommunen og lokalt politi. Rådet skal være et strategisk organ for det lokale, kriminalitetsforebyggende arbeidet. Det skal sikre at politiet og kommuner deler kunnskap og erfaringer, og at kunnskapen om lokale problemer skal føre til at innsatsen fra politiet og kommunen samordnes. Alle saker som er strategisk viktige for samarbeidet mellom kommune og politi, skal behandles i politirådet. Slike saker kan handle om oppvekst og levekår, barnevern, fritid, organisert kriminalitet, trafikkforhold og samferdsel, narkotikasituasjonen, integreringsspørsmål og store arrangementer der politiet skal involveres. SLT-koordinatoren i kommunen deltar i politirådet.
+
+Alle kommuner skal ha en politikontakt som skal være et fast kontaktpunkt mellom politi, kommunen, næringsliv, frivillige organisasjoner og andre lokale aktører. Politikontakten skal sørge for at kriminalitetsforebyggende strategier blir fulgt opp, og være en pådriver for at politiråd og SLT-samarbeid fungerer i den enkelte kommune. Politikontakten skal være uniformert og til stede i hver kommune en eller flere dager i uka, også i kommuner som ikke har et lensmannskontor eller politistasjon.
+
+Forskningslitteraturen antyder at det mangler kunnskap om det forebyggende arbeidet med barn og unge, særlig om hva som virker og ikke virker (Runhovde og Skjevrak 2018). Blant annet har et velbrukt tiltak som bekymringssamtalen aldri blitt grundig evaluert. Runhovde og Skjevrak peker da også på et dilemma med bekymringssamtalen. Tidlig intervensjon gjennom bekymringssamtalen er i mange tilfeller et sentralt grep for å få ungdommen på riktig spor. Samtidig må politiet være bevisst på hvilke konsekvenser det kan ha for en ungdom at virkemidlet blir brukt. Fra politiets ståsted kan samtalen virke harmløs og framstå som et nødvendig tiltak for å hjelpe. For den enkelte ungdom kan det å bli kalt inn til samtale føles som et belastende inngrep. Ungdommen kan føle seg stemplet som en avviker. Det kan dermed være en fare for at samtalen kan få motsatt effekt av den som er ønsket (ibid.).
+
+Politirådene ble evaluert i 2014 (Rambøll 2014). Evalueringen viser at det er utfordrende å tenke langsiktig og gjøre gode, strategiske beslutninger i politirådet. Det gjør det krevende å koordinere arbeidet på en god måte. Videre peker evalueringen på at arbeidet i politirådet er for overordnet og for lite konkret og operativt. Det er også for svakt knyttet til utfordringene i lokalsamfunn. Dermed er det vanskelig å reagere raskt og sette i verk målrettede tiltak mot konkrete problemer. Evalueringen viser dessuten at rådets arbeid bør forankres bedre i politiets og kommunens øverste ledelse. SLT-koordinatorens rolle blir trukket fram som viktig i forholdet mellom politirådet og SLT-modellen. Koordinatoren er et effektivt bindeledd mellom det strategiske nivået i politirådet og det handlingsorienterte og konkrete arbeidet med å forebygge kriminalitet i kommunen.
+
+En evaluering av SLT-modellen fra 2008 ser på organiseringen av og samarbeidet innenfor modellen, men ikke på om den har den forebyggende effekten den skal ha (Gundhus mfl. 2008). Evalueringen viser til at modellens styrke er at den gjør det mulig å møte en økende grad av fragmentering innenfor det offentlige. Samtidig bidrar den til å opprettholde politiet som en viktig del av lokalsamfunnet og til å ivareta innbyggerne der. Brukerperspektiver og brukermedvirkning er i liten grad ivaretatt i tiltak og i evalueringer (Runhovde og Skjevrak 2018). Et poeng evalueringen tar opp om SLT-modellen, er at ungdom i liten grad deltar og medvirker i arbeidsutvalgene, og at det heller ikke er prosesser som sikrer at deres stemme blir hørt.
+
+Politiets innsats i særlig utsatte områder i Sverige
+
+Noen områder i Sverige er av politiet definert som særlig utsatte. Siden 2015 har disse områdene blitt høyt prioritert med ekstra økonomiske ressurser og ekstra innsats og tilstedeværelse (Polisen 2017). Å samarbeide mot felles mål med ulike offentlige og lokale aktører og å sikre kontinuitet i den innsatsen som settes inn, har fått særlig vekt.
+
+Politiet ser det som sin viktigste oppgave å skape tillit. Dette handler om at beboerne i områdene skal føle seg trygge, tørre å være en motkraft mot de kriminelle og våge å «ta tilbake» området sitt. For å bygge tillit har politiet vært til stede, drevet kontaktskapende politiarbeid og jobbet aktivt mot å fjerne den synlige kriminaliteten, for eksempel salg av narkotika på åpen gate. Politiet har prioritert å bygge opp kunnskap om områdene. Det har de gjort både ved å møte og snakke med beboere, kartlegge områdene og samarbeide med andre offentlige aktører og forskere. Videre har politiet initiert nattevandringer og på den måten mobilisert foreldre og andre voksne i områdene.
+
+Politiet mener at situasjonen i mange av de utsatte områdene har gått i positiv retning, selv om det er blitt verre i enkelte (Polisen 2019). Politiet opplever generelt mindre vold og færre åpne konfrontasjoner i utsatte områder. Antallet «høyt prioriterte oppdrag» er gått ned i de utsatte områdene. Andelen slike oppdrag er likevel høyere i områdene enn i resten av landet. Politiet kan i dag lettere utføre oppdraget sitt i områder, og de opplever at beboerne samarbeider mer. Samarbeidet med andre aktører og offentlige instanser er blitt bedre. Det at ulike aktører har evnet å organisere og systematisere samarbeid bedre, kan igjen ha ført til at de, både sammen og individuelt, har satt i gang forskjellige tiltak for å forbedre forholdene i boligmiljøet. At politiet har vært mer til stede i områdene, er uansett løftet fram som en viktig suksessfaktor.
+
+Selv om utviklingen går i riktig retning, mener politiet at arbeidet med å redusere de kriminelles innflytelse i områdene må fortsette i lang tid framover (Polisen 2019). Problemene har fått utvikle seg over lang tid. Å løse utfordringene krever større strukturelle og sosiale tiltak fra flere aktører i tillegg til politiinnsatsen.
+
+Rammeslutt
+
+### Politiets innsats i større byer og utsatte byområder
+
+De siste årene har politiet arbeidet med å forebygge kriminalitet i særlig utsatte områder. Innsatsen skjer i sammenheng med konkrete områdesatsinger. Denne innsatsen skal forebygge kriminalitet og skal særlig følge opp unge i risikosonen og forhindre at unge rekrutteres til kriminelle miljøer.
+
+Siden 2017 er det lagt ned en ekstra innsats for å forebygge kriminalitet i Oslo indre øst. Målet med innsatsen har vært at politiet skal være sterkere til stede i utsatte områder, at de kan følge unge i risikosonen tettere opp, og at de kan samarbeide bedre med andre aktører, for eksempel skolen. Politiinnsatsen i Oslo sør ble styrket i 2018 og senere videreført for å følge opp unge i risikosonen og forhindre at unge blir rekruttert til kriminelle miljøer. I 2019 lanserte regjeringen en ny satsing mot ungdoms- og gjengkriminalitet i noen store byer. Satsingen ble videreført i 2020.
+
+Justis- og beredskapsdepartementet jobber for tiden med en handlingsplan mot barne- og ungdomskriminalitet.
+
+Gerell og medforfattere (2020) peker på at det er viktig å styrke den institusjonelle evnen til å stoppe kriminalitet og vold for å skape en grunnleggende trygghet blant innbyggerne. Da skapes samtidig grunnlaget for å utvikle innbyggeres egne evner og kollektive evne til å gripe fatt i uønsket aktivitet i bomiljøet sitt. Når færre er redde og flere har tillit til politiet, våger flere å gripe inn, anmelde og vitne. De viser til politiets rolle i utsatte områder med særlig vekt på «community policing». Det lokale politiarbeidet forsøker å involvere lokalsamfunnet for å identifisere problemene beboerne opplever som viktige. Deretter må politiet og beboerne prøve å løse disse i samarbeid. Det forutsetter at politiet er til stede i områdene. Innretningen på lokalt politiarbeid varierer mellom land, og det gjør også de målte effektene på kriminaliteten. Men studier forteller at tilliten til politiet og politiets legitimitet øker. Gerell mfl. viser for øvrig til at lokalt politiarbeid også blir kritisert. Innsats i utsatte områder kan sette et stempel på områder som allerede har utfordringer. Det er videre en sammenheng mellom innsats og resultat. Når innsatsen er stor, vil flere kriminelle handlinger oppdages og flere kriminelle bli tatt. Kriminalitetsstatistikken vil dermed kunne gi et skjevt inntrykk av at forskjellene mellom områder i byen er større enn de er.
+
+Skjerpede straffesoner i Danmark
+
+Danmark innførte skjerpede straffesoner i desember 2018. Dette er ikke et permanent tiltak i Danmarks «getto»-områder, men et tidsavgrenset tiltak som settes inn i konkrete områder for å håndtere en ekstraordinær situasjon. For å innføre skjerpet straffesone i et område må politiet vurdere at det er et ekstraordinært kriminalitetsbilde i området, og om dette i vesentlig grad gjør innbyggerne i områdene utrygge. Å innføre skjerpet straffesone i et område må i tillegg vurderes som et egnet verktøy for å gjenopprette tryggheten. En skjerpet straffesone kan i utgangspunktet ikke vare mer enn i tre måneder. Hvis det fortsatt er et ekstraordinært kriminalitetsbilde som er likt det som dannet grunnlag for å opprette sonen, kan det gjøres unntak.
+
+Ordningen i Danmark er fortsatt relativt ny, og det er trolig for tidlig å konkludere med om den har fungert etter intensjonen.
+
+Rammeslutt
+
+### Politiets arbeid mot vold i nære relasjoner
+
+Familievold har over tid vokst fram som et eget fagfelt i politiet. Som en del av politireformen skal alle politidistrikter ha egne fagmiljøer for å håndtere saker om vold i nære relasjoner og seksuelle overgrep. Det er familievoldskoordinatorer på distriktsnivå og familievoldskontakter på driftsenhetsnivå. Politiet gjennomfører familievoldsanalyser og skal i oppfølgingen av konkrete saker vurdere og håndtere risiko, blant annet ved å sette i verk beskyttelses- og sikkerhetstiltak for å avverge at alvorlig vold gjentar seg. Samarbeid internt i politiet og eksternt med andre tjenester står sentralt i arbeidet. Oppmerksomheten i politiets forebyggingsspor er primært rettet mot partnervold (Bredal 2019). I 2019 ble politiets innsats mot vold og seksuelle overgrep mot barn styrket. Det blir nå lagt særlig vekt på å følge opp saker med tilrettelagte avhør av barn. Kapasiteten og kompetansen ved Statens barnehus har også blitt styrket.
+
+Regjeringen har en opptrappingsplan mot vold og overgrep (2017–2021) som skal hjelpe barn, og Justis- og beredskapsdepartementet jobber for tiden med en handlingsplan om vold i nære relasjoner. Handlingsplanen vil bli lagt fram våren 2021.
+
+Prosjekt November
+
+Pilotprosjektet Prosjekt November var en samarbeidsmodell i saker om vold i nære relasjoner som ble etablert på Stovner politistasjon i 2015. Prosjektperioden var tre år. Formålet var blant annet å følge opp utsatte og pårørende i saker om vold i nære relasjoner bedre, å se ulike instansers arbeid bedre i sammenheng og å få til et samarbeid mellom politi og øvrig tjenesteapparat i konkrete saker. I prosjektet samarbeidet psykolog, sosionom, barnevern og politi i tverrfaglige team for å gi de voldsutsatte tett, helhetlig og kvalitativt god oppfølging, med vekt på å forebygge ny vold. Modellen var todelt med vekt på sikkerhetsarbeid og psykososial støtte. Tiltaket holdt til i en egen del av politistasjonen som var innredet for å skape en trygg og ivaretakende atmosfære.
+
+En evaluering av prosjektet konkluderer med at det langt på vei har nådd målet om å følge opp utsatte (og utøvere) bedre (Bredal 2019). De har fått bedre rådgivning og informasjon, og det er jobbet bedre med sikkerhet og forebygging. Krisesenterloven pålegger kommunen å sørge for helhetlig oppfølging av kvinner, menn og barn som er utsatt for vold i nære relasjoner, men evalueringen viser at Oslo kommune har betydelige problemer med å samordne tjenester til voldsutsatte. Politiet kan ikke og skal ikke løse de kommunale samordningsproblemene. Prosjektet har imidlertid hatt svak forankring i Oslo kommune. Beslutninger underveis ble i stor grad tatt i Oslo politidistrikts styringslinje.
+
+Oslo politidistrikt har besluttet å videreføre Prosjekt Novembers arbeidsmodell og metodikk i en ny seksjon ved driftsenhet Øst kalt RISK (risikoanalyse og kriminalitetsforebygging av vold i nære relasjoner). Evalueringen peker på at dersom prosjektets arbeidsmodell og metodikk skal tas i bruk andre steder, må det tas utgangspunkt i hvordan politiet og de kommunale og statlige tjenestene allerede organiserer arbeidet med vold i nære relasjoner.
+
+Rammeslutt
+
+### Kommunenes innsats for å forebygge kriminalitet
+
+Kommunene har et stort ansvar i arbeidet med å forebygge kriminalitet. Kommunene samarbeider tett med for eksempel politiet i SLT-samarbeidet og politiråd, men har også andre virkemidler.
+
+Flere store byer har uteseksjoner eller utekontakter som driver gatebasert, oppsøkende sosialt og helsefaglig arbeid overfor utsatte personer og grupper, og som gir individuell oppfølging av brukerne i tett samarbeid med ulike hjelpetjenester. Dette er helse- og sosialfaglig arbeid for å forebygge rus og kriminalitet og for å ivareta unge som sliter med rusproblemer eller psykiske problemer. Utekontakter er tilgjengelige på dagtid, kveld og natt. Formålet er å avdekke ungdoms behov for hjelp, å motivere dem til endring og sikre at den enkelte blir fulgt opp i hjelpeapparatet. Utekontakten har ofte en god oversikt over ulike ungdomsmiljøer i byene.[^157] I en spørreundersøkelse gjennomført av SINTEF oppgir 48 prosent av kommunene at de driver oppsøkende sosialt arbeid rettet mot ungdom, for eksempel med utekontakter, ungdomskontakter eller ungdomsteam (Ose mfl. 2019).
+
+Regjeringen har siden 2007 oppfordret landets kommuner til å utarbeide handlingsplaner for arbeidet med vold i nære relasjoner. En kartlegging av landets 422 kommuner viste at 40 prosent av kommunene hadde handlingsplaner mot vold i nære relasjoner. Om lag halvparten var interkommunale handlingsplaner. Slike handlingsplaner kan være en hjelp for kommunene til å videreutvikle tjenestene sine til mennesker som blir utsatt for familievold, til dem som utøver volden, og til andre som blir berørt. I henhold til norsk lov har voldsutsatte krav om helhetlige og individuelt tilrettelagte hjelpetilbud (Sandmoe og Nymoen 2019).
+
+## Straffereaksjoner rettet mot ungdom
+
+Barn og unge som har begått kriminalitet, har høy risiko for å begå flere lovbrudd. For å forebygge dette og for å stoppe unge lovbrytere som allerede er på vei inn i en kriminell løpebane, er det et mål å gi unge reaksjoner som er tilpasset dem. Det gis ulike former for reaksjoner, men noen er spesielt utformet for ungdom.
+
+### Ungdomsoppfølging, ungdomsstraff og ungdomsenheter
+
+De to straffereaksjonene for ungdom mellom 15 og 18 år, ungdomsoppfølging og ungdomsstraff, ble innført i 2014. Reaksjonene skal kombinere gjenopprettende prosess[^158] med tverrfaglig forpliktende samarbeid mellom relevante aktører. Ungdom som har begått en eller flere kriminelle handlinger, kan ilegges *ungdomsoppfølging*. Ungdomsoppfølgingen kan vare i inntil ett år. *Ungdomsstraff* retter seg mot ungdom som har begått gjentatt eller alvorlig kriminalitet, og er et alternativ til fengselsstraff eller de strengeste samfunnsstraffene. Ungdomsstraffen kan vare i opptil tre år.
+
+Begge reaksjonene forutsetter at ungdommene har behov for å bli fulgt opp. Påtalemyndigheten avgjør om reaksjonsformene er egnede, men ungdommen og verge må samtykke først. Konfliktrådet er ansvarlig for å gjennomføre reaksjonene etter at ungdommen er dømt i retten. Ungdommene må vise at de er motivert til og villige til å ta ansvar for å endre atferd og livsførsel.
+
+De to reaksjonene inneholder tre elementer: ungdomsstormøte, ungdomsplan og oppfølgingsteam. I ungdomsstormøtet møter ungdommen dem som er blitt utsatt for den kriminelle handlingen, og får blant annet høre hvilke konsekvenser lovbruddet har hatt for fornærmede. Det settes opp en ungdomsplan som ungdommen er forpliktet til å følge. Planen tilpasses behovene til ungdommen. Et oppfølgingsteam følger ungdommen gjennom straffegjennomføringsperioden.
+
+Ungdomskoordinatorer har jevnlig kontakt med ungdommene. Dersom kravene i ungdomsplanen ikke følges opp, får det konsekvenser i form av strengere kontroll. Tiltakene i planen kan da bli justert. Ungdommen kan også måtte sone resten av straffen i fengsel.
+
+Ungdomsstraff og ungdomsoppfølging ble evaluert i 2019 (Andrews og Eide 2019). Den viser at gjennomsnittlig 66 prosent av ungdommene fullførte straffen i perioden 2014–2018. Fullføringsraten varierte imidlertid mye mellom ulike konfliktråd, fra 32 til 85 prosent.
+
+Evalueringen peker på at tiden mellom lovbruddet og oppfølgingen av ungdommene er lang. Årsaker som nevnes av politi og påtalemyndighet, er at sakene er komplekse, det er lite kontinuitet i oppfølgingen, sakene prioriteres ikke og det er mangel på ressurser. Også konfliktrådene rapporterer om at de mangler ressurser til å følge opp på en hensiktsmessig måte. Et annet viktig poeng i evalueringen er at hjelpetiltakene ungdommene har behov for, og som skal inngå i ungdomsplanen, ikke er tilgjengelige. Det kan skyldes at de ikke finnes i området der ungdommen bor, eller at de unge må stå i kø for å få de aktuelle tiltakene.
+
+Det er et viktig prinsipp i Norge, og i tråd med Barnekonvensjonen, at barn ikke skal sone i fengsel med mindre det er aller siste utvei. Alternative reaksjoner for barn over 15 år skal alltid vurderes først. Barn skal heller ikke gjennomføre straff sammen med voksne. I de tilfellene der det ikke er andre muligheter, har Kriminalomsorgen to ungdomsenheter, en i Bergen og en på Eidsvoll. I tillegg ble det i 2020 opprettet tre nye plasser for ungdom ved Indre Østfold fengsel, avdeling Eidsberg. Barn som sitter i ungdomsenhetene i dag, har begått svært alvorlige lovbrudd.
+
+Ungdomsenhetene har bedre bemanning enn ordinære fengsler. Av de ansatte har halvparten fengselsfaglig bakgrunn og resten annen fagbakgrunn, for eksempel er det sosionomer, vernepleiere, barnevernspedagoger og lærere eller pedagoger som arbeider der. Ungdomsenhetene har i tillegg et tverretatlig team som består av psykolog, barnevernsfaglig rådgiver/koordinator og pedagogisk rådgiver. Teamet skal ivareta ungdommenes behov under straffegjennomføringen og forberede til tiden etter løslatelse. Teamene skal sørge for at barn som gjennomfører straff eller sitter i varetekt i ungdomsenhetene, blir fulgt opp på en god og koordinert måte. De skal også sikre at relevante myndigheter følger opp den innsatte både under og etter straffegjennomføringen.
+
+Justis- og beredskapsdepartementet sendte høsten 2020 på høring et forslag om å videreutvikle de eksisterende ungdomsreaksjonene og innføre mer effektive virkemidler for å forebygge ny kriminalitet. Forslagene gjelder først og fremst reaksjonene ungdomsoppfølging og ungdomsstraff. Departementet foreslår blant annet å sikre at straffegjennomføringen settes i verk raskere, redusere antall krav om samtykke og innføre en klageadgang og bedre informasjonsflyten mellom aktørene som er involvert i oppfølgingen. Det foreslås å ivareta fornærmede bedre og å bygge bedre relasjoner rundt ungdommen som gjennomfører straff. Videre er det foreslått å gi domstolene større rom for å gjøre individuelle vurderinger, å tydeliggjøre innholdet i ungdomsplanen og å gjøre reglene for brudd og hvordan disse skal håndteres, tydeligere.
+
+Departementet foreslår i tillegg å utvide adgangen til å bruke enkelte tvangsmidler overfor ungdom. Det gjelder blant annet at det gis hjemmel til å fastsette oppholdsforbud for ungdom mellom 15 og 18 år og fastsette tilleggsvilkår om elektroniske og digitale kontrolltiltak for ungdom som gjennomfører ungdomsstraff. Videre foreslås det å gi adgang til å avhente og pågripe ungdom som gjennomfører ungdomsstraff, og tillate bruk av elektronisk kontroll med sporingsteknologi i stedet for varetekt.
+
+Tidlig Ute – et alternativ til straff
+
+Tidlig Ute er et tiltak for å forebygge rusbruk og kriminalitet blant ungdom. Tiltaket er et samarbeid mellom Hordaland politidistrikt, Bergen kommune og Helse Bergen. Målgruppa er ungdom fra 15 til 25 år som blir pågrepet av politiet for narkotikarelatert kriminalitet. For å få hjelp må ungdommen erkjenne de straffbare forholdene og ønske et annet alternativ enn vanlig straffereaksjon.
+
+Deltakerne får tilbud om et alternativ til en vanlig straffereaksjon og individuelt tilpasset oppfølging. Hver enkelt deltaker blir kartlagt og får en kontaktperson. En oppfølgingsplan utarbeides i samråd med deltakeren. Det jobbes bevisst med ungdommens motivasjon og at ungdommen skal ha et eierskap til egen endringsprosess. Samtlige deltakere gjennomfører strukturerte bevisstgjøringssamtaler om egen bruk av cannabis. De får veiledning til å slutte med rusmidler, veiledning om skole, praksis og arbeid og bistand til å komme i kontakt med øvrig hjelpeapparat, for eksempel NAV, barnevern, fastlege, Oppfølgingstjenesten (OT) og Pedagogisk-psykologisk tjeneste (PPT).
+
+I dette prosjektet opptrer de ansatte fleksibelt i møte med den enkelte ungdom og dennes behov og er tilgjengelige utenfor hjelpetiltakenes ordinære kontortid. Politiet har ingen rolle i oppfølgingen. Det legges vekt på at det å bli fulgt opp av Utekontakten oppleves som mindre stigmatiserende enn å være i kontakt med det ordinære straffesystemet.
+
+Deltakeren forplikter seg til å avstå fra ny kriminalitet i en prøvetid med varighet bestemt av politiet. Dersom ungdommen bryter vilkårene for alternativ til straff, går saken tilbake til påtalemyndigheten for ny vurdering.
+
+Både politiet og Utekontakten har svært positive erfaringer med Tidlig Ute. Prosjektet er ikke evaluert, men Utekontaktens egne evalueringer viser at de fleste ungdommene overveiende er fornøyde med oppfølgingen de har fått.
+
+Bergen kommunes nettside, NOU 2019: 26.
+
+Rammeslutt
+
+### Hjelp til å komme ut av kriminaliteten
+
+Enkelte tilbud har som formål å hjelpe unge lovbrytere som har gjennomført straff ut av kriminelle miljøer og kriminell aktivitet. Det første Exit-programmet i Norge ble startet i 1997 ved Manglerud politistasjon. Programmet hadde som mål å forebygge at ungdom gikk inn i voldelige og rasistiske miljøer, og å hjelpe dem ut av slike miljøer. Målgruppa var unge mellom 12 og 20 år. Arbeidsmetodene bygde på erfaringer med høyreekstreme miljøer i noen kommuner. Tiltakene i prosjektet var rehabiliteringstiltak, etablering av foreldrenettverk, erfaringsutveksling og skolering av fagpersonell (Bjørgo mfl. 2001). I dag finnes en veileder som forebyggende aktører kan bruke i exit-arbeid rettet mot enkeltpersoner som ønsker å bryte med ekstremistiske miljøer. Det finnes ikke exit-programmer på området.
+
+Det ser heller ikke ut til å finnes mange slike tilbud til unge som har gjennomført straff i Norge i dag, men i Danmark tilbyr for eksempel København kommune Exit-program til unge over 18 år som vil ut av en kriminell tilværelse.[^159] De unge kan få rådgivning og støtte i opptil et år. Tre kommunale kontorer, «Beskæftigelses- og Integrationsforvaltningen», «Børne- og Ungdomsforvaltningen» og «Socialforvaltningen» samarbeider for å tilby de unge gode og koordinerte tjenester.
+
+EX/IN – Unge ut av kriminalitet og tilbake til samfunnet
+
+Bydel Søndre Nordstrand har i flere år hatt utfordringer med ungdommer som begår gjentatt kriminalitet, og bydelen har vært og er fortsatt tilholdssted for flere mer eller mindre kriminelle nettverk og miljøer. Et ledd i det helhetlige arbeidet med å forebygge kriminalitet i bydelen er å redusere antallet unge voksne som livnærer seg på ulovlige aktiviteter. Disse er ofte sentrale aktører i å rekruttere barn og unge til kriminelle miljøer. Færre aktive kriminelle vil bidra til at det blir færre rekruttører og færre kriminelle forbilder for utsatte barn i bydelen.
+
+Bydelen er i ferd med å starte opp EX/IN, et frivillig tilbud til unge voksne (18-25 år) som har gjennomført straff, og som ønsker å bli lovlydige borgere. Fram til nå har unge som vil ut av kriminalitet, men som trenger tett individuell oppfølging for å klare det, ikke hatt et tilbud. Bydelen skal tilby målgruppa et tidsavgrenset og intensivt program som kan vare opptil et år. EX/IN vil tilby både en standard modul for alle og et skreddersydd tilbud ut fra den enkeltes individuelle behov, og det vil legge til rette for at de unge kan delta i ulike samfunnsaktiviteter. Programmet vil legge vekt på tillit, tilhørighet og selvstendiggjøring, og det vil både følge opp den enkelte og bidra i å koordinere innsatsen fra relevante aktører og tjenester. Tilbudet skal ikke gå inn i andre tjenesteyteres oppgaver, men supplere disse. EX/IN er inspirert av EXIT-programmet i København kommune.
+
+Innsatsen har som mål å redusere de negative effektene av deltakernes vanskelige levekår og redusere barrierene (sviktsonene) som kan eksistere når en straffedømt kommer tilbake til nærmiljøet sitt etter å ha gjennomført straff. Navnet EX/IN signaliserer programmets todelte mål – å komme ut av kriminalitet og inn i samfunnet.
+
+Konsekvensene av ikke å gjøre noe for denne målgruppen kan i verste fall være at flere unge etter endt soning gjenopptar de aktivitetene som fikk dem fengslet. De lokale kriminelle nettverkene vil da få unge voksne med kriminell kompetanse og utvidede nettverk.
+
+Bydel Søndre Nordstrand.
+
+rammeslutt
+
+## Utvalgets vurderinger
+
+### Å skape trygge lokalsamfunn med lav kriminalitet er et felles ansvar
+
+*Utvalget* mener at beboere i utsatte områder, på lik linje med alle andre, skal føle seg trygge der de bor og oppleve nærmiljøet som et godt sted for barn å vokse opp. Det er svært problematisk dersom enkelte boområder er eller oppleves betydelig mer utrygge enn andre.
+
+Å skape trygge bomiljøer handler om mer enn å redusere kriminalitet. Om de som bor der føler seg trygge, kan blant annet henge sammen med livssituasjonen deres og sosiale nettverk, normer og verdier, den sosiale sammenbindingskraften og tilliten mellom beboerne i områdene. Det kan handle om beboernes egne evner og kollektive evne til å handle eller gripe inn i uheldige situasjoner eller hendelser. Videre kan det handle om fysiske omgivelser og uterom.
+
+Det er likevel en åpenbar sammenheng mellom kriminalitet og beboeres opplevelse av trygghet, og *utvalget* vil understreke at det må jobbes bredt og systematisk for å forebygge, redusere og hindre en negativ kriminalitetsutvikling i utsatte områder. Det må jobbes både på kort og lang sikt. På kort sikt må det settes inn kompenserende tiltak i områder hvor problemene er store, eller mot grupper som er i risiko for å begå kriminalitet. På lang sikt handler det blant annet om innsats for å skape gode oppvekstmiljøer og livsbetingelser for barn og unge i områdene.
+
+Mye av kriminaliteten i de store byene ser ut til å være konsentrert i sentrum og rundt store sentre, selv om ungdomskriminaliteten også ser ut til å ha økt noe i enkelte bydeler. Men det forebyggende arbeidet skjer ute i lokalmiljøene. Kriminalitetsforebygging skjer hver dag på ulike arenaer som har helt andre formål enn å forebygge kriminalitet, for eksempel i barnehagen, på skolen, på helsestasjonen og i ulike fritidsaktiviteter. Å skape trygge lokalsamfunn og forebygge kriminalitet er dermed et felles ansvar for flere aktører på flere nivåer, både i offentlig, privat og frivillig sektor. Å forebygge frafall i videregående opplærnig trekkes ofte fram som et særlig viktig tiltak for å forebygge kriminalitet. Å sikre en god skole i utsatte områder er dermed nødvendig. Men det er også forebyggende å rette innsatsen mot faktorer i barns liv som påvirker mulighetene de har til å fullføre et langt skoleløp. *Utvalget* er derfor særlig opptatt av at alt arbeid bør ha et uttalt familieperspektiv. For barn som anses å være i risikosonen, må det settes inn målrettede, forebyggende tiltak. Og for å gi barn trygge oppvekstvilkår og på sikt forebygge kriminalitet må det jobbes helhetlig med hele familien, både foreldre og søsken.
+
+*Utvalget* mener at det må tas kriminalitetsforebyggende hensyn når nye boområder og uteområder planlegges eller oppgraderes. Det gjelder både utforming av bygninger og arkitektur (for eksempel hvordan innganger blir plassert og utformet, at det er vinduer i oppholdsrom, mv). Hvordan uteområder, for eksempel lekeplasser, er plassert eller utformet, har spesielt mye å si. Områdene må gjøres åpne og tilgjengelige for naturlig innsyn. Gangveier må ha belysning, og busker og kratt må fjernes. Generelt blir det ofte vist til at det å vedlikeholde bygg og uterom skaper trygghet for flere, blant annet å legge til rette for at beboerne kan oppholde seg, drive aktiviteter og ferdes der. Dermed kan man også lettere hindre at det skjer uønskede hendelser.
+
+### Styrke den forebyggende innsatsen i utsatte områder
+
+*Utvalget* anbefaler generelt mer forebyggende innsats i utsatte byområder og ønsker flere aktører på banen. *Utvalget* mener det er helt nødvendig å skape trygge nærmiljøer for barn og unge og vil særlig understreke hvor viktig det er at ungdommer har gode aktivitetstilbud i nærmiljøet sitt. Ikke alle deltar i organiserte fritidstilbud som idrett eller skolekorps, og for disse betyr det mye med aktivitetstilbud der det er lav terskel for å delta. Det kan være tilbud som lederkurs, selvhjelpsgrupper og annet som er prøvd ut ulike steder med stor suksess. Også tilbud som deltids- og sommerjobb for ungdom kan være viktige kriminalitetsforebyggende tiltak.
+
+Flere trygge voksenpersoner ute i gatene og på ulike arenaer hvor særlig barn og unge oppholder seg, kan bidra til at flere føler seg trygge. *Utvalget* oppfordrer kommuner og bydeler til å prioritere slik lokal innsats, blant annet ved å styrke det oppsøkende arbeidet rettet mot ungdom. For mange utsatte unge og unge voksne kan for eksempel utekontakter og andre aktører som driver sosialt, oppsøkende arbeid rettet mot ungdom, være en viktig inngangsport til hjelpeapparatet. Videre vil *utvalget* særlig framheve hvor stor forskjell det kan gjøre når beboere selv engasjerer seg i nærmiljøet sitt. Det kan de gjøre både ved å være tilstedeværende voksne for områdets barn og unge, men også ved for eksempel å etablere ravneordninger, «trivselsteam» eller nærmiljøteam. Behovet for flere synlige voksne i områdene er dobbelt begrunnet: I tillegg til å trygge nærmiljøet kan det kompensere for at noen barn har utrygge familieforhold, noe som gjør dem spesielt sårbare. *Utvalget* vil i den sammenhengen vise til at *utvalget* har anbefalt at tilskudd til områdesatsinger skal legge særlig vekt på sosiale og fysiske tiltak for å fremme gode og trygge bo- og oppvekstmiljøer.
+
+*Utvalget* har merket seg at det i områder som har eller har hatt utfordringer med ungdomskriminalitet, gjenger og åpenlyst narkotikasalg, ofte blir etterlyst mer synlig politi. Det gjelder særlig der ungdommer oppholder seg. En del ønsker at politiet er sterkere til stede ved skoler med utfordringer. Ønsket handler både om å forebygge kriminalitet og om å håndtere akutte situasjoner raskt for igjen å gjøre området og beboerne trygge.
+
+Politiet prioriterer i dag tidlig innsats overfor unge som begår kriminalitet, og driver generelt forebyggende arbeid rettet mot ungdom, både grupper og enkeltindivider. Politiet skal sette inn tiltak i konkrete områder med høy kriminalitet eller potensial for kriminalitet. De er derfor jevnlig til stede på skoler, i ungdomsklubber og andre områder hvor barn og unge oppholder seg. Studier *utvalget* har tatt for seg, tyder på at politiet generelt sett har ungdommens respekt og tillit i mange utsatte områder. Samtidig har *utvalget* merket seg at en del ungdommer, særlig ungdommer med innvandrerbakgrunn, har negative erfaringer fra møter med politiet. Det gjør også at det er ulike syn på om politiet bør være mer synlig i områdene. Noen ungdommer rapporterer at mer synlig politi gjør dem mer utrygge, og noen opplever politiets synlige tilstedeværelse som stigmatiserende.
+
+*Utvalget* anerkjenner at det er ulike syn på dette, og at det kan være grunner til å være skeptisk til at politiet er synlig til stede i områdene. Samlet sett mener likevel *utvalget* at det er positivt at forebyggende politi er tilgjengelig og synlig særlig i utsatte områder. Det vil kunne gjøre at beboerne føler seg tryggere. Politiet vil komme tettere på og bli bedre kjent med ungdommer og lokalsamfunn. Det vil bygge tillit og legge til rette for å samarbeide med andre aktører i lokalsamfunnene for å forebygge, redusere og hindre at kriminaliteten utvikler seg i negativ retning. I utsatte områder i Sverige har politiet lagt ned mye ressurser i å være til stede i områdene og bygge tillit til beboerne der, et arbeid som meldes å ha gitt positive resultater i flere områder.
+
+De siste årene er politiet styrket i en del store byer og konkrete byområder. *Utvalget* mener at det er riktig å styrke den forebyggende politiinnsatsen i utsatte områder, men at denne innsatsen bør komme i tillegg til en bred, forebyggende innsats på flere andre områder. *Utvalget* er svært bekymret over politiets rapporter om at barn ned i barneskolealderen rekrutteres til kriminelle miljøer. Politiet må derfor aktivt forebygge at barn og ungdom rekrutteres til slike miljøer ved å kartlegge tilstanden i utsatte områder, fange opp negative ungdomsmiljøer og ungdommer som sliter, og melde videre til relevante instanser om bekymringsfulle forhold. Politiet bør videre skjerpe sine etterretningsstrategier for å ta bakmenn som rekrutterer barn og unge som løpegutter, og jobbe aktivt for å bekjempe gjengkriminalitet. Det forebyggende arbeidet rettet mot utsatte barn og unge må være basert på dialog, og politiet må samarbeide godt med foreldre, skoler og andre relevante instanser, for eksempel gjennom SLT-modellen.
+
+I Danmark fikk politiet i 2018 tilgang til å innføre skjerpede straffesoner som et tidsavgrenset tiltak i et avgrenset geografisk område for å håndtere en ekstraordinær kriminalitetssituasjon. *Utvalget* har vurdert at det er uaktuelt å foreslå å gi politiet i Norge en tilsvarende hjemmel i områder med svært høy kriminalitet. Det vil ramme beboerne i nabolagene hardt, selv om hensikten er å gjøre beboerne i området tryggere. *Utvalget* vurderer det som svært problematisk å innføre en slik hjemmel ut fra likhet-for-loven-prinsippet. Straff skal avskrekke fra og forebygge straffbare handlinger, men skal ikke ramme enkeltpersoner ekstra hardt ut fra hvor kriminaliteten er begått. Videre kan et slikt tiltak virke svært stigmatiserende på et helt område. Det kan videre diskriminere enkeltgrupper dersom mange av lovbryterne tilhører en spesiell gruppe eller et spesielt segment av befolkningen (personer med lav inntekt, innvandrere mv.).
+
+### Vold mot barn og vold i nære relasjoner har alvorlige konsekvenser og må reduseres
+
+*Utvalget* vil understreke at det er en selvfølge at både voksne og barn skal være trygge i sitt eget hjem. Vold og overgrep mot barn og vold i nære relasjoner er sterkt koplet til sosiale problemer og dårlige levekår, både som en bakenforliggende årsak og som en konsekvens. Familievold har først og fremst store følger for dem som rammes, men også for lokalsamfunn og storsamfunn.
+
+Kartleggingsundersøkelser viser at omfanget av vold og overgrep er stort, og det antas at mørketallene kan være høye. Den sterke sammenhengen med levekårsutfordringer gir grunn til å tro at problemet kan være større i levekårsutsatte områder enn andre steder, noe enkelte stedsanalyser også tyder på. I lokalmiljøene kan det bety at det trengs ekstra innsats for eksempel til hjelpetiltak og ekstra oppfølging i skolen, barnevern, helsestasjoner og skolehelsetjenesten. Det kan også øke behovet for helsetjenester, polititjenester og sosiale tjenester.
+
+Arbeid for å forebygge og bekjempe vold og overgrep i familier er allerede prioritert høyt innenfor flere sektorer, og arbeidet er blitt styrket over flere år. I politiet har for eksempel alle politidistrikter nå egne fagmiljøer for å håndtere saker om vold i nære relasjoner og seksuelle overgrep. Til tross for dette mener *utvalget* at det fortsatt er et stort behov for å forebygge familievold ved å tilby gode tjenester til dem det gjelder. Lokalt er det særlig behov for å etablere bedre modeller og strukturer for samarbeid på tvers, både mellom kommunale tjenester og mellom politi og kommunale tjenester. Det er også potensial for å bedre samarbeidet internt i politiet betydelig.
+
+*Utvalget* vil understreke at vold og overgrep i barndommen kan ha svært skadelige konsekvenser både på kort og lang sikt, blant annet for barns fysiske og psykiske helse. Et styrket og mer helhetlig tilbud til voldsofre og voldsutøvere kan legge til rette for at flere saker blir anmeldt, fulgt opp og løst. Flere barn som er utsatt for vold, kan fanges opp tidligere og få tidligere hjelp og oppfølging. Det må satses systematisk på å øke kunnskapen om temaet i alle relevante tjenester. *Utvalget* mener at å styrke innsatsen vil kunne bidra til å redusere barne- og ungdomskriminalitet og på sikt også redusere konsekvensene for barns helse og levekår. Videre vil den legge til rette for at flere tilbud (krisesentre, Statens Barnehus, støttesentre for kriminalitetsutsatte) som delvis har overlappende tilbud, samarbeider bedre og gjør arbeidet mer helhetlig. Til tross for innsats og styrking på feltet gjennom flere år er behovet for satsing på området stort, særlig fordi det fortsatt er grunn til å tro at mørketallene er store. *Utvalget* mener at utsatte områder hvor omfanget av utfordringer er store, kan egne seg godt for å prøve ut nye modeller for innsats og samarbeid, slik Prosjekt November er et eksempel på. Utvalget vil samtidig understreke at hvis forsøk gir gode erfaringer og positive resultater, bør de på sikt implementeres i de ordinære tjenestene og eventuelt utvides til nye områder.
+
+*Utvalget* viser til at noen barn og unge lever i krysspress mellom forventninger fra familier og samfunnet for øvrig. De fleste ungdommer håndterer dette godt, men for noen kan presset være så stort at det er belastende. En del utsettes for utilbørlig press fra egen familie eller sitt sosiale miljø gjennom negativ sosial kontroll, æresrelatert vold og tvangsekteskap. Noen familier sender barna sine til utlandet mot deres vilje, noe enkelte foreldre begrunner med at de frykter barnevernet. *Utvalget* vil understreke at tjenester som møter ungdommene, også politiet, må forstå fenomenene, kompleksiteten og mekanismene og anerkjenne at det trengs tverrfaglig kompetanse til å møte og håndtere dem for å avverge denne typen krenkelser og lovbrudd.
+
+### Barn og unge som har begått kriminalitet, skal få tilpassede reaksjoner som gir nye muligheter
+
+Selv om de aller fleste ungdommer er lovlydige, kommer noen barn under 18 år skjevt ut tidlig i livet og begår alvorlige og gjentatte lovbrudd som svært unge. *Utvalget* viser til at det er en sterk sammenheng mellom vanskelige oppvekstvilkår, dårlige levekår og kriminalitet. Forskning på nabolagseffekter og ulike rapporter fra politiet tyder på at barn og unge i utsatte byområder kan være ekstra utsatt.
+
+*Utvalget* vil slå fast at ungdomskriminaliteten først og fremst må forebygges gjennom tidlig innsats. *Utvalgets* viktigste forslag mot ungdomskriminalitet er dermed å styrke barnehage- og skoletilbudet og ulike tjenester og fritidsaktiviteter for barn i utsatte områder. Men når alvorlige lovbrudd har skjedd, må det gis tydelige reaksjoner som er i samsvar med lovbruddets alvorlighetsgrad. *Utvalget* mener at barn mellom 15 og 18 år må gis reaksjoner som legger til rette for at de kommer på rett spor. Innholdet i reaksjonene må innrettes på en måte som gjør at barna det gjelder, familien deres og apparatet rundt kan gripe fatt i de bakenforliggende årsakene til kriminaliteten. Da må reaksjonene ivareta de unges behov og tilpasses slik at de oppfattes som meningsfulle og gir nye muligheter. Det må legges til rette for at de unge kan gå på skole eller komme i jobb, få helsehjelp og delta i meningsfulle fritidsaktiviteter. Gode, tilpassede reaksjoner vil på sikt kunne gi bedre resultater, mindre frafall underveis og mindre tilbakefall etter at straffen er gjennomført. *Utvalget* synes det er bekymringsfullt at evalueringen av straffereaksjonene for ungdom viser at de unge ofte ikke får tilgang til de hjelpetiltakene de trenger, enten fordi de ikke finnes i området der ungdommen gjennomfører straffen, eller fordi de må vente i kø.
+
+I dag må mange ungdommer som har begått lovbrudd, vente lenge på å få gjøre opp for seg. Dette er svært belastende for den enkelte. *Utvalget* vil understreke hvor viktig det er at tiden mellom det straffbare forholdet, straffereaksjonen og fullbyrdelsen av reaksjonen er kort. Det kan ha en forebyggende effekt og være mindre dyrt. I dag begår noen unge nye kriminelle handlinger mens de venter på en reaksjon. *Utvalget* mener at ventetiden må bli kortere ved at etterforskning og domsavgjørelse skjer raskere. Relevante og tilpassede tiltak, for eksempel i ungdomsplanen, må settes i gang raskt. *Utvalget* er positiv til forslagene som er ute på høring om å sikre at ungdom kan starte gjennomføringen av straff tidligere, og øvrige grep for å sikre bedre kvalitet i tilbudet som gis til de unge som gjennomfører straff.
+
+I den offentlige debatten etterlyses ofte hardere virkemidler overfor barn som har begått gjentatt og alvorlig kriminalitet. *Utvalget* mener at barn som søker seg til rus- og kriminalitetsbelastede miljøer, først og fremst trenger hjelp som rehabiliterer. Dette er ofte barn som sliter med sammensatte utfordringer. Å bygge gode relasjoner, tillit og motivasjon i oppfølgingen av dem gir resultater.
+
+*Utvalget* mener at terskelen for å velge institusjon som løsning for unge lovbrytere fortsatt bør være høy. Samtidig erkjenner *utvalget* at institusjon i noen sammenhenger er nødvendig og kan være den beste løsningen for unge som begår gjentatt og alvorlig kriminalitet. Det er utfordrende at mange unge lovbrytere er lite motivert for å følge opp krav og forpliktelser i for eksempel ungdomsstraff og ungdomsoppfølging. *Utvalget* tror likevel gode, individuelt tilpassede tiltak og tett oppfølging fra motiverende hjelpere kan bidra til å øke motivasjonen. De voksne må ha spesialkompetanse og ha mye tid til å følge opp og samtale med hver enkelt for å gi støtte og bygge tillitsfulle relasjoner. Gode relasjoner og samtaler er det viktigste forebyggende momentet i alle tiltak rettet mot denne gruppa.
+
+*Utvalget* vil understreke prinsippet om at barn ikke skal sone i fengsel med mindre det er aller siste utvei. Alternative reaksjoner for barn over 15 år skal alltid vurderes først. *Utvalget* er skeptisk til å senke terskelen for å sette barn i fengsel fordi tvang og innesperring i liten grad kan forventes å forebygge kriminalitet blant barn. Ungdomsenhetene bør fortsatt være et alternativ kun for barn som har begått svært alvorlige lovbrudd.
+
+Svært tett oppfølging og tilpassede tjenester bør være malen for all oppfølging av utsatte barn og unge, etter modell fra Kriminalomsorgens to ungdomsenheter. Et skreddersydd tilbud må gis betydelig tidligere enn etter at barna har begått svært alvorlig kriminalitet. Barn og unge i faresonen må fanges opp tidligere, og de må få bedre og tettere oppfølging. Det gagner både barna og samfunnet.
+
+*Utvalget* mener at ungdommer som har gjennomført straff og dermed har gjort opp for seg, skal få en ny sjanse. Tiden rett etter at straffen er gjennomført, kan være en kritisk og sårbar fase for mange. Overgangen til det «vanlige» livet etter straffegjennomføringen er vanskelig, og tett oppfølging fra dag én kan redusere sannsynligheten for at de unge det gjelder, begår ny kriminalitet. *Utvalget* anbefaler at det legges ned betydelig innsats for å følge opp ungdommer som ønsker seg ut av kriminelle miljøer. Det kan for eksempel gjøres ved å etablere lokale eller nasjonale programmer for ungdommer som har gjennomført straff, og som vil tilbake til samfunnet. Det kan være erfaringer å hente fra slike programmer både i Norge og andre land.

@@ -1,780 +1,162 @@
-# NOU 2019: 3, del 12 av 25 (side 143–151)
+# NOU 2019: 3, del 12 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 143]
+## Gruppering av elever etter ferdighetsnivå og kjønn
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Elever kan grupperes eller inndeles etter ferdighetsnivå på ulike måter (Betts, 2011):
 
-mentor som følger dem gjennom 18 måneder. Prosjektgruppen sto selv for testing av elevenes
-ferdigheter før og etter programmet, og elevene
-viser betydelig faglig fremgang.
-Flere skoledistrikt i USA har innført obligatoriske sommerskoler for elever som stryker til en
-eksamen i matematikk eller lesing i slutten av skoleåret. En kunnskapsoppsummering konkluderer
-med at disse programmene kan gi positiv effekt
-på elevenes ferdigheter – i hvert fall på kort sikt
-(McCombs, Augustine & Schwartz, 2011). For
-eksempel finner en studie som ser på effekten av
-4–6 ukers obligatorisk sommerskole for elever fra
-åtteårsalderen og oppover ingen eller liten effekt
-for de yngste elevene, men positive effekter for
-eldre elever på resultater målt ett år etter (Matsudaira, 2008). De undersøker ikke om det er ulik
-effekt for gutter og jenter.
-En beslektet studie av Guryan, Kim og Quinn
-(2014) undersøker effekten av et program som tilrettelegger for at elever på småskoletrinnet skal
-lese over sommeren, ved å sende dem en bok i
-posten hver uke. Av dette relativt billige lavintensitetstiltaket finner de en positiv effekt på leseferdigheter for jenter, men ikke for gutter.
-En beslektet litteratur ser på tilbudet av
-ekstraundervisning etter skoletid for elever med
-svake skoleprestasjoner i matematikk og lesing.
-En studie som evaluerer effekten av to slike ordninger finner positiv effekt på elevenes matematikkferdigheter, men mindre evidens for økte leseferdigheter – studien undersøker ikke kjønnsforskjeller (Zimmer, Hamilton & Christina, 2010).
-Cook mfl. (2015) undersøker effekten av intensivundervisning til elever med en underprivilegert bakgrunn, hvorav 95 prosent er fra minoritetsbefolkningen i USA. Tiltaket er rettet mot gutter på 9. og 10. trinn. Elevene fikk én time matematikkundervisning per dag i grupper à to elever
-per instruktør som var høyt utdannede og motiverte voksne, men ikke nødvendigvis med lærerutdanning. De finner en positiv effekt på testresultater i matematikk og en redusert andel med
-stryk.
-Selv om det er lite forskning på intensivopplæring i Norge, finnes det noen unntak. Gjennom en
-nasjonal forsøksordning med Overgangsprosjektet i Ny GIV fikk elever med svake faglige prestasjoner halvveis i 10. trinn tilbud om tilpasset intensivopplæring i vårsemesteret i perioden 2011–
-2013. Hensikten med dette var å forebygge frafall
-i videregående opplæring ved å styrke ferdighetene til svakt presterende elever. En evaluering
-av ordningen finner at dette ikke har påvirket frafall i videregående opplæring, men forfatterne
+- Gruppering av elever *innenfor* samme skole/program innebærer at elevene følger samme læreplan, men i ulike undervisningsgrupper. Denne typen gruppering av elever betegnes i norsk sammenheng ofte som nivådeling eller nivådifferensiering.
 
-141
+- Gruppering av elever *mellom* skoler eller programmer forekommer også, som oftest med ulike læreplaner.
 
-Kapittel 10
+I Norge kan skoler gruppere elever etter ferdighetsnivå i deler av undervisningen, men ikke som en fast organiseringsform (opplæringsloven § 8-2). I utgangspunktet har man heller ikke anledning til å dele elever etter kjønn, med noen få unntak. I Norge skjer den første inndelingen av elever mellom skoler eller programmer i praksis ved overgangen til videregående opplæring. Alle elever som har fullført grunnskolen eller tilsvarende har rett til videregående opplæring (opplæringsloven § 3-1), uavhengig av karakterene fra 10. trinn. Ettersom det er konkurranse om å komme inn på de mest attraktive utdanningsprogrammene og enkeltskolene, oppstår det i praksis gruppering av elevene etter ferdighetsnivå. I andre land er omfanget av gruppering av elever etter ferdighetsnivå langt større, og inndeling mellom skoler eller programmer skjer tidligere i opplæringsløpet (OECD, 2013). I enkelte land forekommer det også stedvis egne klasser for gutter og jenter.
 
-konkluderer med at ordningen ble prøvd ut på en
-måte som gjorde det vanskelig å evaluere effekten
-av tiltaket (Huitfeldt, Kirkebøen, Strømsvåg, Eielsen & Rønning, 2018).
-I tillegg til dette foregår det i perioden 2016–
-2020 to prosjekter som undersøker ulike former
-for intensivundervisning for svakt presterende
-elever – dessverre foreligger ikke endelige resultater fra disse prosjektene ennå. Senter for økonomisk forskning ved NTNU har prosjektet «Intensivundervisning i matematikk for yrkesfagene»
-som gir elever på yrkesfag som står i fare for å
-stryke i matematikk i Vg1 intensivundervisning i
-matematikk. Statistisk sentralbyrås forskningsprosjekt «Lære mer, fullføre og bestå matematikk» gir elever med utfordringer i matematikk på
-8. trinn og på studieforberedende Vg1 tilbud om
-intensivundervisning i matematikk (Kirkebøen
-mfl., 2018).
-Det finnes også eksempler på intervensjoner
-rettet mot elever på småskoletrinnet. I 2014 startet Lesesenteret i Stavanger forskningsprosjektet
-På sporet, som er rettet mot elever som antas å
-være i faresonen for å utvikle lese- og skrivevansker (Lesesenteret, 2017). Elevene i faresonen ble
-valgt ut ved hjelp av en kartlegging ved starten av
-1. trinn. Skoler ble tilfeldig delt inn i en sammenligningsgruppe, én forsøksgruppe der elevene
-fikk ekstra oppfølging på 1. trinn, og én forsøksgruppe der elevene fikk ekstra oppfølging på 2.
-trinn. Ved forsøksskolene fikk elevene som ble
-vurdert til å være i faresonen et tilrettelagt og
-intensivt lesetreningsopplegg utviklet av forskere
-fire timer i uken i 25 uker. Undervisningen ble gitt
-av en lærer i grupper på 3–7 elever. Intensivundervisningen ble lagt til tider da hele klassen
-hadde stasjonsundervisning i lesing og skriving,
-slik at smågruppeundervisningen kunne foregå i
-samme klasserom. Hver time var delt inn i fire ti
-minutters sesjoner med tydelige mål, og lærerne
-fikk en detaljert manual for alle timene. Innholdet
-i intensivundervisningen baserte seg på forskning
-fra engelskspråklige land. Ved skoler i sammenligningsgruppen fikk elevene i risikogruppen tilsvarende oppfølging. Den eneste forskjellen mellom
-forsøks- og sammenligningsgruppene var at i sammenligningsgruppen ble innholdet i undervisningen bestemt av elevenes lærer. Solheim, Frijters,
-Lundetræ og Uppstad (2018) analyserer resultatene for de som fikk intervensjonen på 1. trinn, og
-finner en positiv effekt på leseprøver 0–2 år etter
-at intervensjonen var ferdig. Dette tyder på at et
-forskningsbasert innhold i en slik undervisning
-gir større effekt enn når det er opp til lærerne å
-bestemme innholdet.
+Sammensetningen av undervisningsgrupper og klasser er et grunnleggende organisatorisk og pedagogisk valg som har flere konsekvenser. Elevenes skoleresultater kan påvirkes via såkalte medeleveffekter – for eksempel fordi elever lærer av hverandre, og høyt presterende elever kan være en kilde til sosial og faglig læring for de andre elevene i klassen. For høyt presterende elever kan gruppering etter ferdigheter føre til flinkere medelever, noe som kan være positivt i seg selv. Mens for svakt presterende elever vil denne mekanismen gi en negativ effekt av å være gruppert sammen med andre svakt presterende elever, sammenlignet med å være i mer heterogene grupper.
 
-[Side 144]
+Ettersom gutter jevnt over i skoleløpet har svakere skoleprestasjoner enn jenter, kan gruppering av elever etter ferdigheter føre til at gutter er overrepresentert i grupper med lavt presterende elever. Dette valget vil dermed kunne ha særlig stor betydning for gutter. Borgonovi mfl. (2018) konkluderer med at jenter ofte vil oppleve skoleengasjement uavhengig av skolekontekst, mens sammensetningen av medelever er viktigere for gutter. I en studie fra Berlin finner Legewie og DiPrete (2012) at gutter i større grad responderer positivt på å være i et læringsorientert skolemiljø. I en skole der medelevene består av elever med en lav sosioøkonomisk bakgrunn, utvikler gutter en opposisjonell holdning til skolen, mens i en sammenheng der medelevene har en høyere sosioøkonomisk bakgrunn, kan dette påvirke gutter i en positiv retning. I en randomisert, kontrollert studie fra et utsatt område i USA finner Eren (2017) at gutter, men ikke jenter, gjør det bedre i matematikk dersom de har flinke medelever. En studie av overgangen til ungdomsskolen i Israel viser at elever som blir plassert i samme klasse med nære og gjensidige venner gjør det bedre på skolen, en effekt som er signifikant sterkere for gutter enn for jenter (Lavy & Sand, 2015). Derimot viser resultater av forsøk der minoritetselever har blitt sendt til skoler med en større andel høyt presterende elever fra majoritetsbefolkningen med høy sosioøkonomisk bakgrunn, blandede resultater for både gutter og jenter (Bergman, 2016; Cullen, Jacob & Levitt, 2006). I en studie av engelske ungdomsskoler finner Lavy, Silva og Weinhardt (2012) at en høy andel svakt presterende elever er negativt for både gutter og jenter, men at bare jenter vinner på å ha høyt presterende medelever.
 
-142
+Undervisning i mer homogene grupper kan ha en positiv effekt på alle elevgrupper ettersom det er lettere for læreren å tilpasse undervisningen til elevenes ferdighetsnivå. Gruppering av elever kan også virke positivt dersom elevene motiveres av økt konkurranse, for eksempel om å nå de faglige standardene i de mer avanserte klassene eller om å komme inn på de attraktive skolene hvor de faglige standardene er høyere. Konkurranse kan potensielt ha ulik effekt for gutter og jenter. Forskning viser at gutter i større grad blir motivert av konkurranse og ytre motivasjon enn jenter (se f.eks. Gneezy mfl., 2003).
 
-Kapittel 10
+Det kan også være at lærernes forventning til svakt presterende elever er lavere – en negativ effekt som kan forsterkes ytterligere ved å plassere disse elevene i samme gruppe. Videre kan gruppering av elever mellom skoler føre til større sortering av lærere mellom skoler – der de flinkeste lærerne søker seg til skoler med flinke elever. Forskning tyder også på at det brukes mindre ressurser på svakt presterende elever enn på høyt presterende elevgrupper når de deles mellom skoler, enn når de deles innenfor samme skole (Betts, 2011). I praksis kan det også være et problem at skoleprestasjoner målt på ulike tidspunkter ikke reflekterer elevenes ferdighetsnivå godt nok – det er dermed fare for at noen elever blir plassert i feil ferdighetsgruppe.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+### Gruppering etter ferdighetsnivå innenfor skoler: nivådeling
 
-Intensivundervisning synes å kunne heve prestasjonene til svakt presterende elever tidlig i
-utdanningsløpet, mens tilleggsundervisning i
-ferier kan være nyttig for eldre elever. Tett oppfølging og forskningsbaserte undervisningsopplegg
-kan være avgjørende for at gutter skal dra nytte av
-tilleggs- og intensivundervisning.
+Nivådifferensiering i skolen kan redusere variasjonen i skoleklasser og gi lærere bedre muligheter til å tilpasse undervisningen til elevenes forutsetninger og behov. I teorien bør evnegruppering forbedre elevenes prestasjoner og være like nyttig for høyt presterende som for svakt presterende elever.
 
-10.3.4 Spesialundervisning
-Elever som ikke får tilfredsstillende utbytte av
-ordinært tilbud i skolen, har rett til spesialundervisning etter opplæringslovens kapittel 5. Elever
-med vedtak om spesialundervisning kan følge en
-individuell opplæringsplan (IOP) i ett eller flere
-fag som avviker i større eller mindre grad fra kompetansemålene i læreplanverket. I grunnskolen
-kan disse elevene få fritak fra vurdering med
-karakter i de fagene der de har IOP, men når de
-begynner i videregående opplæring, må alle
-elever ha en karaktervurdering i alle fag. At
-eleven har fulgt en IOP som avviker fra kompetansemålene i ett eller flere fag, kan føre til at eleven
-ikke vil nå kompetansemålene i videregående opplæring. På grunn av dette har elever i videregående opplæring mulighet til å få «ikke vurderingsgrunnlag (IV)» istedenfor en standpunktkarakter i
-de tilfeller der opplæringen avviker fra læreplanen
-og læreren ikke har grunnlag for å sette karakter.
-Eleven får da kompetansebevis istedenfor et vitnemål.
-Andelen som får spesialundervisning etter
-enkeltvedtak, øker betydelig gjennom grunnskolen. Av kullet som startet på 1. trinn i 2008, fikk 3,9
-prosent spesialundervisning på 1. trinn, mens det
-på 10. trinn gjaldt 10,9 prosent av dette kullet
-(Utdanningsdirektoratet, 2018b). Det er også
-betydelige kjønnsforskjeller – på 10. trinn skoleåret 2017–2018 fikk 13,6 prosent av guttene spesialundervisning mot 7,9 prosent av jentene. De fleste
-elever med vedtak om spesialundervisning går i
-ordinær skole eller klasse – kun 8 prosent av elevene med enkeltvedtak om spesialundervisning
-går i egne skoler eller klasser, og 3,4 prosent er
-utplassert én eller flere dager utenfor ordinær
-opplæring. Elever med vedtak om spesialundervisning kan få én eller flere dager i uken utenfor
-ordinær opplæring. I 2017–2018 deltok 1 693
-elever på 1.–10. trinn én eller flere dager i uken
-utenfor ordinær opplæring, og 83,5 prosent av disse
-er gutter. Flertallet av disse er elever på 8.–10.
-trinn (Utdanningsdirektoratet, 2018b).
-Forskning fra England har funnet en negativ
-sammenheng mellom elevprestasjoner og assistentbruk (Webster, Russell & Blatchford, 2012).
+En metaanalyse oppsummerer forskning på nivådeling for elever fra førskole til siste året i videregående opplæring i USA. Studien finner positive effekter av nivådeling innad i hver klasse og i enkeltfag på tvers av klasser innenfor hvert kull (0,2–0,3 standardavvik). De finner også gode effekter av særgrupper for de høyest presterende elevene. Imidlertid finner de ingen effekt av nivådeling i ulike klasser, og de fant heller ingen forskjell i denne effekten mellom høyt presterende og lavt presterende grupper (Steenbergen-Hu, Makel & Olszewski-Kubilius, 2016).
 
-En av forklaringene ser ut til å være at assistenter
-i mange tilfeller fortrenger tid som eleven ellers
-ville fått med en kvalifisert lærer. Denne typen
-assistentbruk er bekymringsfull, og når gutter i
-større grad mottar spesialundervisning enn jenter, fører dette til kjønnsforskjeller i tid tilbrakt
-med kvalifisert undervisningspersonale, noe som
-kan forsterke forskjeller i skoleprestasjoner mellom gutter og jenter.
-I Norge har vi ikke informasjon på individnivå
-om hvilke elever som får spesialundervisning, og
-hvilke tilbud elevene får. Det er dermed ikke
-mulig å følge individene som mottar spesialundervisning, i registerdata, og dermed kan vi heller
-ikke undersøke hvordan det går med dem senere
-i livet. Dette gjør det vanskelig å vite om den norske ordningen med spesialundervisning fungerer
-for de elevene som får dette, og gjør det nær umulig å evaluere implementeringen av ev. forsøksordninger med alternative modeller for spesialundervisning samt ev. nye ordninger som kan bli innført.
-Likevel ser utvalget noen urovekkende trekk
-ved den norske modellen for spesialundervisning.
-Antall timer til spesialundervisning som gis av
-assistent har økt med 65 prosent fra skoleåret
-2009–2010 til 2017–2018, mens antall timer som
-gis av lærer bare har økt med 6 prosent i samme
-periode. Assistenter sto for 70 prosent av timene
-med spesialundervisning i 2017–2018 (Utdanningsdirektoratet, 2018d). Gutter utgjør en større
-andel blant elevene som mottar spesialundervisning med assistent enn blant elever som mottar
-spesialundervisning med undervisningspersonale. Andelen gutter i de respektive gruppene er
-henholdsvis 72 prosent og 67 prosent (Utdanningsdirektoratet, 2018b).
-Det har også vært gjennomført en utvalgsbasert undersøkelse som har fulgt elever i spesialundervisning over tid. SPEED-studien fulgte 2 756
-elever i to kommuner hvorav 8,5 prosent mottok
-spesialundervisning. Resultater fra studien indikerer en negativ samvariasjon mellom vedtak om
-spesialundervisning og leseferdigheter og ingen
-sammenheng med matematikkferdigheter (Lekhal, 2018). Analysen er imidlertid begrenset av et
-lite utvalg elever og mangel på en sammenlignbar
-kontrollgruppe.
-Hanushek, Kain og Rivkin (2002) har fulgt
-flere hele kohorter av elever i Texas over tid. Den
-longitudinelle oppbygningen gjør at de kan studere læringsresultater for samme elev før og etter
-at eleven får vedtak om spesialundervisning, men
-også denne studien mangler kontrollgruppe. De
-finner at spesialundervisning øker matematikk-
+Forskningen har hatt problemer med å forklare hvorfor nivågruppering ikke innfrir forventningene. Et problem med nivådeling synes å være at klassene eller gruppene med de svakeste prestasjonene ofte blir «endestasjonen» for lavt presterende elever, istedenfor grupper der man på en bedre måte kan ivareta deres behov. Årsakene kan være flere. Hattie (2009) rapporterer om at undervisningen og samspillet i høyt og lavt presterende klasser er forskjellig. I lavt presterende klasser er undervisningen mer fragmentert, mindre engasjerende og gis av færre velutdannede lærere. Det ser ut til at kvaliteten på undervisningen og kameratrelasjonene er viktigere enn sammensetningen av klassen.
 
-[Side 145]
+Good og Brophy (2008) oppsummerer forskning på sammenhengen mellom variasjoner i læringsevner og prestasjoner. Ca. 40 prosent av alle amerikanske skoler praktiserer nivådeling, der elever som strever plasseres i homogene grupper der de kan få mer tilpasset undervisning. Det har imidlertid vist seg at elever som får slike tilbud, ofte får dårligere undervisning enn hvis de hadde blitt værende i sin opprinnelige klasse. De viser også til at læreres holdninger til nivådeling varierer med hvilket fag de underviser i. Lærere som tar til orde for nivådeling, underviser som regel i fag som matematikk og fremmedspråk, hvor stoffet er abstrakt og hierarkisk. Men lærere som underviser i fag som litteratur, historie og samfunnsfag, uttrykker mindre behov for nivådeling fordi de lettere kan knytte sin undervisning til hverdagserfaringer. Nivådeling kan ha minst tre negative konsekvenser for elevene. For det første misliker de fleste lærere å undervise svake klasser, de bruker mindre tid til å forberede seg og legger opp til mindre varierte, interessante og utfordrende aktiviteter. Det er også en tendens til at lærerne med dårligst kompetanse og minst erfaring blir satt til å undervise de svakeste elevene. Mange lærere i svake klasser er mindre tydelige på hva som er undervisningens mål, de anstrenger seg mindre for å knytte stoffet til elevenes interesser og bakgrunn, og er mindre mottakelige for elevenes synspunkter. For det andre fører nivådeling ofte til mindre konstruktive vennestrukturer i de svake klassene, mens det i sammenholdte klasser ofte er de dyktige og veltilpassede elevene som slår an den faglige tonen og tar sosialt lederskap. Svake klasser kan lett fremstå som en samling resignerte elever uten lederskap. De har ofte vansker med å forplikte seg til skolearbeidet, og læringsmiljøet er ofte lite støttende for elever som ønsker å gjøre det beste ut av situasjonen. For det tredje har inndelingen en tendens til å bli permanent. Det er liten bevegelse på tvers av nivåene når elevene først er fordelt, og den vanligste bevegelsen går fra høye til lave nivåer, ikke motsatt vei. Samlet synes forskningen på nivådeling å vise at den bidrar lite eller ingenting til at elever anstrenger seg mer for å bedre sine prestasjoner, og i tillegg kan nivådeling virke negativt både skolefaglig og sosialt (Good & Brophy, 2008).
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+En studie med godt studiedesign der skoler ble tilfeldig trukket ut til å dele elever på barnetrinnet i to grupper basert på enten ferdighetsnivå eller heterogene grupper, finner at alle elever – både lavt og høyt presterende – tjener på nivådeling (Duflo, Dupas & Kremer, 2011). Videre finner de også at lærere som underviser på skoler med nivådeling, i større grad kommer på jobb – dette er drevet av de lærerne som underviser den høyest presterende elevgruppen. Studien viser kun resultatet av 18 måneder med nivådeling i Kenya, og man vet ikke hvordan situasjonen ville vært dersom nivådelingen vedvarte over flere år, eller om samme resultater ville vært gjeldende i andre land. Vi mangler fortsatt kunnskap om hvorvidt nivådeling på skoler har en positiv eller en negativ effekt på elevene i skolesystemer som er sammenlignbare med det norske, og om hvilke betingelser som eventuelt skulle vært oppfylt for at det skal kunne øke læringsutbyttet for alle elever.
 
-ferdighetene med 0,1 standardavvik. Spesialundervisningen ble gitt til 15 prosent av elevene av
-lærere med pedagogisk kompetanse. De studerer
-ikke kjønnsforskjeller i effekten.
-Morgan, Frisco, Farkas og Hibel (2010) og A.
-L. Sullivan og Field (2013) bruker en longitudinell
-utvalgsundersøkelse av amerikanske elever i barneskolen. Ved hjelp av metoden propensity score
-matching følger de elever som har fått spesialundervisning, og sammenligner dem med elever
-som er mest mulig like dem. Studiene finner negative effekter av spesialundervisning i henholdsvis
-barneskolen og førskolen på skoleprestasjoner, og
-i studien til A. L. Sullivan og Field (2013) er de
-negative effektene av spesialundervisning i førskolen signifikante. Dempsey, Valentine og
-Colyvas (2016) finner negative effekter av spesialundervisning i Australia ved bruk av samme
-metode. Det kan innvendes mot metoden at det
-kan være uobserverbare faktorer som påvirker
-hvorvidt tilsynelatende like elever blir selektert til
-å motta spesialundervisning eller ikke.
-Oppsummert tyder forskningen på at det er
-svært lite evidens for at spesialundervisning gir
-noe økt læringsutbytte til elevene. Noen studier
-antyder til og med at spesialundervisning kan
-være negativt for mottakerne, og da særlig dersom spesialundervisningen gis av ufaglærte assistenter. Det er dermed heller ikke grunnlag for å
-vite om spesialundervisning forsterker eller svekker kjønnsforskjellene i skoleprestasjoner. Fordi
-gutter er overrepresentert blant mottakerne av
-spesialundervisning, vil imidlertid positive, så vel
-som negative, effekter av spesialundervisning
-påvirke kjønnsforskjellene.
+### Gruppering etter ferdighetsnivå mellom skoler eller utdanningsløp
 
-10.4 Skolekvalitet
-Skolekvalitet er et omstridt begrep som ikke er
-godt definert i forskningslitteraturen. Noen studier har sammenlignet elever som ved en tilfeldighet har havnet på skoler som regnes som gode,
-mot alternativet, og undersøkt hvilken effekt dette
-har på elevprestasjoner. Andre igjen har observert
-samme elev ved flere tidspunkter og brukt forskjeller i denne differansen mellom skoler som et
-mål på skolebidraget til læringsutbytte. En tredje
-gruppe studier har undersøkt effekten av ressursbruk (f.eks. lærertetthet eller lærerkvalitet),
-herunder kjennetegn ved gode lærere, og effekten av ansvarliggjøring av skoleledere og lærere
-på elevenes skoleprestasjoner.
-Det mangler norsk forskning som ser direkte
-på om skolekvalitet påvirker gutter og jenter ulikt.
+Flere studier har sett på effekten av å gruppere elever i ulike utdanningsløp eller skoler tidligere i skoleløpet (Betts, 2011). Denne forskningen er av varierende kvalitet, men tyder på at tidlig gruppering av elever etter ferdighetsnivå på forskjellige skoler eller utdanningsprogrammer skaper mer ulikhet i læring mellom elever. I land som starter med inndelingen tidligere, er det en sterkere sammenheng mellom foreldrebakgrunn og barnas utdanningsnivå. Når man sammenligner ulike land, er det imidlertid ikke mulig å utelukke at det er andre forskjeller mellom landene som forklarer dette.
 
-143
+Det som finnes av kvasieksperimentelle studier, der man undersøker effekten av å gå over fra et skolesystem med tidlig inndeling til senere inndeling, støtter i stor grad at det er bedre med senere inndeling av elever til ulike utdanningsprogrammer eller skoler. Da Finland gikk fra et system der inndelingen ble forskjøvet fra 11- til 16-årsalderen, hadde dette en liten positiv effekt på ferdighetstester målt ved sesjon for menn – effekten var størst for dem med lavt utdannede foreldre (Kerr, Pekkarinen & Uusitalo, 2013). Ettersom kvinner ikke deltok på sesjon, vet man ikke om dette hadde en effekt på kvinner. Til tross for at det hadde en positiv effekt på kognitive ferdigheter, viser en annen studie at reformen førte til større kjønnsforskjeller i valg av utdanningsprogram – jenter valgte i større grad studieforberedende utdanningsprogrammer (Pekkarinen, 2008). En mulig forklaring er at jenter og gutter er på ulikt stadium av puberteten ved 16-årsalderen, noe som innebærer at jenter ligger foran gutter i den biologiske og kognitive utviklingen på det tidspunktet de tar beslutninger om videre utdanningsvalg. Malamud og Pop-Eleches (2011) undersøker en tilsvarende endring i Romania og finner en positiv effekt på andelen elever som ble kvalifisert for å delta i høyere utdanning – effekten var størst for de som kom fra familier med lav inntekt eller lav utdanning.
 
-Kapittel 10
+### Indirekte gruppering etter ferdighetsnivå: fritt skolevalg
 
-En studie av Bakken og Danielsen (2011) undersøker hva som karakteriserer en skole med store
-kjønnsforskjeller. De sammenligner to skoler – én
-der kjønnsforskjellen i skoleprestasjoner er stor
-sammenlignet med landsgjennomsnittet, og én
-skole som ligger under landsgjennomsnittet. De
-finner at skolen med relativt stor kjønnsforskjell i
-større grad består av elever med foreldre med
-lavere utdanningsnivå sammenlignet med skolen
-med små kjønnsforskjeller, og dermed også har
-elever med lavere prestasjoner. Når det gjelder
-undervisningspraksis ved skolen, finner de at ved
-skolen med store kjønnsforskjeller tillot lærerne i
-større grad ikke-faglige aktiviteter i timen, elevene fikk uklare tilbakemeldinger om hvilke regler
-for oppførsel som gjaldt, og skolen hadde en forholdsvis snill karakterpraksis (målt som avvik
-mellom standpunkt- og eksamenskarakterer).
-Denne studien kan imidlertid ikke si om denne
-undervisningspraksisen kom som en følge av
-store kjønnsforskjeller i skoleprestasjoner, eller
-om det er på grunn av denne undervisningspraksisen at det er store kjønnsforskjeller – altså om
-det er viktigere for gutter med mer strukturert
-skolehverdag enn for jenter, kanskje på grunn av
-at de har lavere grad av selvregulering, og at det
-er flere gutter med atferdsproblemer sammenlignet med jenter. Det er også en mulighet at kjønnsforskjellene og kjennetegnene ved skolene ikke
-har noe med hverandre å gjøre, og det er usikkert
-hvorvidt disse funnene kan generaliseres.
-Det er få internasjonale studier som ser på om
-skolekvalitet har ulik effekt på gutter og jenter. En
-studie fra USA som bruker skolens bidrag til elevenes læring som et mål på skolekvalitet, finner at
-gutter i større grad gjør det bedre på skolen når
-skolekvaliteten er høyere, sammenlignet med jentene. Gutter tjener mer på å gå på skoler av høyere kvalitet enn det jenter gjør, målt ved testresultater i lesing og matematikk. I tillegg finner de at
-gutter som går på skoler med høyere kvalitet har
-mindre fravær og færre utvisninger (Autor, Figlio,
-Karbownik, Roth & Wasserman, 2016b).
-En tilgrensende litteratur fra USA ser på effekten av om elevene får gå på den videregående skolen som de hadde som første prioritering. I
-enkelte skolekretser må elevene lage liste over tre
-prioriterte skoler, og elevene blir tildelt plass på
-disse skolene ved loddtrekning. Dersom de ikke
-får plass ved en av disse skolene, blir de tildelt
-plass på nærskolen. De sammenligner da testresultater og atferd for de som har lignende prioritering, men som havner på en prioritert versus ikkeprioritert skole. De som «vant loddtrekningen»
-havnet i større grad på skoler av høy kvalitet målt
+Alle elever som har fullført grunnskolen eller tilsvarende, har rett til en plass i videregående opplæring på ett av de tre utdanningsprogrammene de søker på (opplæringsloven § 3-1), uavhengig av hvilke karakterer de har fra 10. trinn. I fylker med såkalt fritt skolevalg, søker elevene opptak til bestemte skoler, og opptaket baserer seg på karaktergrunnlaget fra 10. trinn. Dersom det er konkurranse om å komme inn på ettertraktede skoler, fører dette til en inndeling av elever med ulikt ferdighetsnivå til ulike skoler.
 
-[Side 146]
+En innvending mot denne opptakspraksisen er at den fører til at det på noen skoler blir en opphoping av svakt presterende elever som gjerne har ekstra utfordringer utover lavt ferdighetsnivå, slik at disse skolene blir vanskelige å drive. Det er også en risiko for at flinke lærere, som gjerne har flere jobbalternativer, velger seg bort fra disse skolene slik at den negative effekten blir forsterket. Dette kan føre til at disse elevgruppene får et dårligere tilbud enn andre elever. En annen mulighet er at fritt skolevalg gjør at de skolene som tiltrekker seg de svakeste elevene, ser at de må jobbe hardere for å bli bedre skoler, og at det dermed fører til at skolekvaliteten øker. Dette er blant annet funnet i studier som ser på innføringen av fritt skolevalg for tolvåringer i Israel (Lavy, 2010, 2015b).
 
-144
+Et alternativ til fritt skolevalg er at også opptak til videregående opplæring skjer basert på skolekrets, slik tilfellet er for barne- og ungdomsskoler. Det er ikke opplagt at dette vil føre til at man får skoler med mer heterogene elevgrupper ettersom personer med lignende sosioøkonomisk status er tilbøyelige til å bosette seg i samme skolekrets, og foreldrebakgrunn samvarierer sterkt med skoleprestasjoner. En annen innvending mot dette er at flinke elever fra en lav sosioøkonomisk bakgrunn ikke får tilgang til de gode skolene fordi de bor i «feil» skolekretser, noe som bidrar til lavere sosial mobilitet.
 
-Kapittel 10
+Det finnes også andre alternativer som har blitt benyttet i fylker som ikke har praktisert fritt skolevalg. For eksempel hadde Bergen et opptakssystem til videregående opplæring der alle skoler skulle ha like store andeler elever med ulikt ferdighetsnivå. Dette var gjeldende for opptak til 1. trinn i videregående opplæring i Bergen frem til 2005. Begrunnelsen var at man ønsket å motvirke en opphoping av svake elever på noen skoler og flinke elever på andre skoler som følge av demografiske forskjeller mellom ulike skolekretser (Andersland, 2017). Lignende opptak til grunnskolen og videregående skoler er gjennomført i andre land for å motvirke segregering, hvor det har blitt satt inn skolebusser for å flytte elever fra nabolag med lav sosioøkonomisk status til gode skoler i andre nabolag. Felles for disse ordningene er at det fortsatt i stor grad er nabolagsbestemt hvilken skole man går på, men der noen elever går på en skole utenfor sin skolekrets.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Det finnes flere norske studier som har sett på effekten av fritt skolevalg på videregående nivå på elevprestasjoner. Imidlertid er ingen av disse artiklene publisert i fagfellevurderte tidsskrifter. Haraldsvik (2014) finner en positiv effekt på grunnskolekarakterer av overgangen til fritt skolevalg i Hordaland – tidligere hadde grunnskolekarakterer liten praktisk betydning ettersom man ikke brukte disse til å søke opptak på spesifikke videregående skoler. Andersland (2017) finner en positiv effekt på skriftlig eksamen av å gå over fra opptak som i stor grad baserte seg på skolekrets, til fritt skolevalg. Studien finner en positiv effekt for både høyt og lavt presterende elever. Overgangen til fritt skolevalg førte til en sterkere inndeling av elever mellom skolene – elever med samme ferdighetsnivå endte i større grad opp på samme skoler enn tidligere. Dette førte til større variasjon i ferdighetsnivå mellom skolene, og mindre variasjon innad i skolene. Ettersom overgangen til fritt skolevalg i seg selv førte til at grunnskolekarakterene i Bergen gikk opp, kan studien ikke skille mellom insentiveffekten av økt konkurranse om å komme inn på de beste skolene og effekten av mer homogene skoler.
 
-ved skolebidragsindikatorer. Hastings, Kane og
-Staiger (2006) finner at jenter – og da særlig jenter
-fra majoritetsbefolkningen – får bedre skoleresultater dersom de blir tildelt skoleplass på den skolen som er førstevalget, men de finner ingen tilsvarende effekt på gutter. Som forklaring indikerer
-de at jenter i større grad benyttet seg av de mulighetene som var til stede på en mer krevende
-skole. Deming, Hastings, Kane og Staiger (2014)
-finner at å få innfridd sitt skoleønske øker fullføringen av høyere utdanning for jenter, men de finner ingen effekt på gutter. Disse artiklene kan
-ikke skille mellom bidragene fra medeleveffekter,
-lærerkvalitet og skolekvalitet.
-Landaud, Ly og Maurin (2016) finner at i
-Frankrike påvirker karakterbasert inntak til selektive videregående skoler valg av fagsammensetning i videregående opplæring for jenter, men
-ikke for gutter. Effekten av å havne på en mer
-selektert skole der gjennomsnittskarakterene til
-medelever er høyere sammenlignet med en skole
-der gjennomsnittskarakterene til medelever er
-lavere, er at jenter i større grad velger bort STEMfag. Den negative effekten på jenters valg av
-STEM-fag er størst blant de flinkeste jentene. Det
-har imidlertid ingen effekt på guttenes valg av fag.
-De finner ingen effekt på avgangseksamen fra
-videregående opplæring. Det kan være at det å gå
-på en selektiv videregående skole der medelevene
-er flinkere enn på andre skoler, gir økt konkurranse, kanskje særlig i de mer prestisjefylte realfagene. Resultatene i Landaud mfl. (2016) er forenlige med resultater fra økonomiske eksperimenter
-som viser at kvinner i større grad unngår konkurransesituasjoner (Croson & Gneezy, 2009; Niederle & Vesterlund, 2011), og at personer som
-viser seg å være mer konkurranseorienterte i
-eksperimenter, i større grad velger matematikk
-(Buser mfl., 2014; Niederle & Vesterlund, 2010).
-Clark og Del Bono (2016) ser på langtidseffekter av å gå på eliteskoler i Storbritannia. Elevene
-ble fordelt på de ulike skoletypene ved tolvårsalderen. De finner en positiv effekt på antall år med
-utdanning og på fullføring av videregående opplæring for både kvinner og menn. Forfatterne diskuterer hvorvidt den positive effekten reflekterer
-høyere barrierer til videre fulltidsutdanning for
-elever som ikke havnet på eliteskoler. For eksempel kan det være slik at elever som gikk på andre
-skoler, tok fag som i mindre grad bedrer prestasjonen i høyere utdanning. Sammenlignet med eliteskolene tilbød andre skoler færre fag som var relevante for høyere utdanning. I tillegg kan det ha
-vært forskjeller i medeleveffekter. De fant også en
-liten effekt på inntekt og sysselsetting på lang sikt.
+Et par studier har også sett på om effekten av overgang til fritt skolevalg i Norge har ulik effekt for gutter og jenter. En studie av Hopland og Nyhus (2016) viser at gutters motivasjon for læring på 10. trinn ikke ble påvirket av overgangen til fritt skolevalg i Oslo og Hordaland, men at jenter fikk lavere motivasjon etter overgangen. Noen studier har også sett på hvordan fritt skolevalg påvirker kjønnsforskjeller i skoleresultater. Imidlertid har disse studiene metodiske svakheter. Brugård (2013) finner en positiv sammenheng mellom fritt skolevalg og skoleresultater (forskjellen mellom eksamenskarakter i norsk i videregående opplæring sammenlignet med på ungdomstrinnet, fullføring av videregående opplæring og deltagelse i høyere utdanning), der sammenhengen er drevet av gutter. Fidjeland (2017) finner at frafall i videregående opplæring økte i forbindelse med overgangen til fritt skolevalg i Hordaland, men finner ingen signifikant forskjell mellom gutter og jenter.
 
-Böhlmark og Lindahl (2015) undersøker effekten av den betydelige økningen i friskoler i Sverige på 1990-tallet. Det ble mulig å opprette friskoler, og elever kunne fritt velge om de ville gå på en
-offentlig skole eller en av de uavhengige skolene.
-Pengene fulgte da eleven. Disse friskolene måtte
-ikke ha noen spesiell pedagogikk. Dette førte til
-økt konkurranse om elevene ettersom finansieringen av de offentlige skolene ble avhengig av antall
-elever og ble direkte påvirket dersom elevene
-valgte friskoler. Etter at friskolene hadde vært etablert en stund, finner den svenske studien at dette
-hadde en positiv effekt på elevene. Analysene indikerer at den positive effekten ikke handler om at
-de svenske friskolene er så mye bedre i seg selv,
-men at de førte til økt konkurranse om elevene,
-noe som også gjorde at elevene ved de offentlige
-skolene ble bedre.
-Det er økt fokus på ansvarliggjøring av skoleledere og lærere for elevenes prestasjoner internasjonalt, også i Norge. I 2002 innførte for eksempel
-Oslo en ordning der skoleledere ble holdt ansvarlig for elevenes prestasjoner overfor skoleeierne.
-Dette ble gjennomført ved at det blant annet ble
-innført årlige møter mellom skoleeier og hver
-enkelt rektor der de diskuterte elevresultatene. Et
-annet eksempel er offentliggjøringen av skolebidragsindikatorer – skolens bidrag til elevenes
-læring når andre relevante bakgrunnsfaktorer er
-kontrollert for, som for eksempel tidligere elevprestasjoner og foreldrebakgrunn (E. Markussen,
-Flatø & Reiling, 2017; Steffensen, Ekren, Zachrisen & Kirkebøen, 2017; B. Strøm, Falch, Iversen
-& Nyhus, 2016).
-Figlio og Loeb (2011) oppsummerer litteraturen som omhandler systemer for ansvarliggjøring
-som gir belønning eller sanksjoner til skoler på
-bakgrunn av aggregerte elevprestasjoner på standardiserte tester. De konkluderer med at det finnes mange ulike måter å implementere ansvarliggjøringen på, og at hva som fungerer best, kan
-være kontekstavhengig. De peker også på at
-ansvarliggjøring av skolene fungerer best dersom
-skolene har handlingsrom til å gjøre endringer.
-Utfordringer ved ordninger for ansvarliggjøring
-er at det kan bli økt fokus på kortsiktige mål som
-er enkle å måle på bekostning av andre samfunnsoppdrag i skolen, og at for mye ytre kontroll kan
-ødelegge for skolens og lærernes indre motivasjon ved at det undergraver lærerprofesjonen. En
-norsk studie finner at introduksjonen av skolebidragsindikatorer og ansvarliggjøring av skoleledere i ungdomsskolen i Oslo i 2005 førte til økt
-frafall av lærere (Gjefsen & Gunnes, 2016). De
-fleste lærerne som valgte å slutte som følge av
+En utfordring ved karakterbasert inntak i et kjønnsperspektiv med utgangspunkt i dagens situasjon der gutter i gjennomsnitt får færre grunnskolepoeng enn jenter, kan være at skoler med høye inntaksgrenser får en sterk overvekt av jenter og at skoler med lave inntaksgrenser får en overvekt av gutter. I Oslo er dette en bekymring som opptar byrådet.
 
-[Side 147]
+Samtlige norske studier som ser på effekten av overgangen til fritt skolevalg i videregående opplæring, sammenlignet med ordninger som primært baserer seg på skolekrets, finner en positiv effekt på elevenes skoleresultater – både for faglig sterke og svake elever. Resultatene tyder på at økt konkurranse om å komme inn på de gode skolene førte til at opptaksgrunnlaget til videregående opplæring, som er karakterene fra 10. trinn, gikk opp som følge av dette. Det er ingen konsensus i litteraturen om fritt skolevalg førte til reduksjon eller økning i gjennomføring av videregående opplæring, eller om det er ulik effekt for gutter og jenter. Konkurransepresset som følger av fritt skolevalg, har også vist seg å redusere jenters motivasjon for læring på 10. trinn, uten at gutters motivasjon har økt.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+### Gruppering av elever etter kjønn
 
-dette, forlot læreryrket og ble erstattet av lærere
-som klarte å skape gode elevresultater.
-Litteraturen om skolekvalitet finner til dels
-betydelige forskjeller i faglige prestasjoner og fullføringsgrad mellom skoler gitt likt elevgrunnlag,
-også i Norge. Få studier ser på hvordan dette
-påvirker kjønnsforskjeller i skolen, og resultatene
-av disse studiene er ikke entydige. Med dette
-kunnskapsgrunnlaget trengs kvantitative studier
-på norske skoler for å si noe om sammenhengen
-mellom skolebidrag og kjønnsforskjeller i skolen.
+En del studier har sett på gruppering av elever etter kjønn, enten i ulike klasser eller på ulike skoler. Eisenkopf, Hessami, Fischbacher og Ursprung (2015) tar utgangspunkt i et tiltak på videregående skoler i Sveits, der noen jenter ble samlet i rene jenteklasser for ikke å spre guttene for tynt utover klassene. De fant at jenter som er tilfeldig fordelt til kjønnssegregerte klasser i Sveits, gjør det bedre i matematikk, men ikke i morsmål. Effekten drives av jenter med gode karakterer fra grunnskolen, og av klasser med mannlige lærere. Jenter fikk også høyere selvtillit i matematikk i segregerte klasser.
 
-10.4.1 Lærertetthet
-Tall fra Utdanningsdirektoratet (2018b) viser at
-gjennomsnittlig antall elever per lærer på 1.–7.
-trinn i Norge ligger på 12,9, og på 8.–10. trinn ligger dette på 14,2 i skoleåret 2017–2018. Det er
-vedtatt en lærernorm som gradvis innføres fra og
-med skoleåret 2018–2019. Denne angir at antall
-elever per lærer på 1.–4. trinn og 5.–10. trinn ikke
-kan overstige henholdsvis 15 og 20 elever per
-lærer. Lærernormen sier imidlertid ingenting om
-hvordan de ekstra lærerressursene skal brukes,
-og det er ikke nødvendigvis slik at ressursene vil
-bli benyttet til å redusere klassestørrelsen: Mindre klasser vil i de fleste tilfeller bety at det blir
-flere klasser per trinn – da vil man også ha behov
-for flere klasserom. En alternativ måte å bruke
-flere lærere på er for eksempel tolærerordningen,
-der det er to lærere i samme klasserom / for
-samme elevgruppe.
-En betydelig litteratur ser på effekten av ressursbruk i skolen på elevenes skoleprestasjoner –
-og da særlig på effekten av mindre klassestørrelse. Redusert klassestørrelse kan påvirke elevenes læring ved at læreren får mer tid til hver elev,
-og ved at det blir færre forstyrrelser i undervisningen fordi det er færre elever i samme klasse
-(Lazear, 2001). Dette impliserer også at man kan
-forvente en større effekt av reduserte klassestørrelser i klasser med større innslag av uro. I tillegg
-kan det være at mindre klasser tillater en annen
-undervisningspraksis enn større klasser.
-Det finnes flere norske studier som ser på
-effekten av klassestørrelse på skoleprestasjoner.
-En studie fra Norge som ser på effekten av mindre klasser for underprivilegerte elever på barnetrinnet, finner en positiv effekt på skoleresultater
-for elever med foreldre med utdanning på videregående nivå eller lavere, og størst effekt for barn
-av skilte foreldre (Vaag Iversen & Bonesrønning,
-2013). De undersøker ikke om det er forskjellig
-effekt for gutter og jenter. Leuven, Oosterbeek og
-Rønning (2008) finner ingen effekt av klassestør-
+Park, Behrman og Choi (2013) brukte skoleresultater fra Seoul der inntaket i videregående skole avgjøres ved ren loddtrekning innenfor hvert distrikt. I den perioden de studerer, ble en del kjønnssegregerte skoler omgjort til fellesskoler. De finner at både gutter og jenter gjør det dårligere på inntakseksamen til høyere utdanning i morsmål og engelsk etter omgjøringen. Effekten er størst for gutter. Dustmann, Ku og Kwak (2017) bruker samme reform og viser at nedgangen for gutter synes å ha sammenheng med andelen jenter på skolenivå, mens nedgangen for jenter ser ut til å være påvirket av å ha mange gutter i klassen. Park, Behrman og Choi (2018) finner derimot ingen positiv effekt av kjønnssegregerte skoler i matematikk for jenter og heller ikke på studievalg innenfor realfag. Derimot finner de en positiv effekt av kjønnssegregering for gutters realfagskarakterer og valg av realfag.
 
-145
+En siste studie av C. K. Jackson (2012) utnytter inntaksgrenser i Trinidad og Tobago og sammenligner elever som kom rett over og rett under inntaksgrensen til kjønnssegregerte skoler. Han finner at å gå på disse skolene ikke utgjør noen forskjell for de fleste elevene, men at jenter som søker seg til kjønnssegregerte skoler, gjør det bedre der. Jenter på kjønnssegregerte skoler tar også færre realfag. En svakhet ved studien er at det er uklart om de kjønnssegregerte skolene er lik andre skoler i andre henseender, og hvorvidt det er dette aspektet ved skolene som fanges opp i studien.
 
-Kapittel 10
+Andre har studert hvorvidt medelevers kjønn har betydning for en elevs skoleresultater. Disse studiene bruker ofte variasjon mellom blandede klasser eller skoler i andelen gutter og jenter. Lavy og Schlosser (2011) finner at en høy andel jenter i kullet er positivt for både gutter og jenters skoleprestasjoner gjennom hele utdanningsløpet i Israel. Jenter påvirker medelevers resultater gjennom mindre bråk i klasserommet og mindre vold, bedre forhold mellom medelevene og mellom elever og lærere, og ved at lærerne blir mindre slitne. Eren (2017) finner at en høyere jenteandel i klassen øker jenters ferdigheter i matematikk, og reduserer andelen gutter som har høyt fravær. Studiene vi har på dette feltet, viser altså at både gutter og jenter kan dra nytte av en høy jenteandel i klassen og på skolen. Dette kan indikere at kjønnsdelte klasser eller skoler i liten grad ville kommet gutter til gode.
 
-relse for elever på ungdomstrinnet – hverken i
-gjennomsnitt eller for undergrupper. De finner tilsvarende effekter for gutter, jenter og barn av foreldre med ulikt utdanningsnivå. En evaluering av
-effekten av økt lærertetthet på ungdomstrinnet
-finner ingen effekt av økte lærerressurser for ungdomsskoleelever, hverken i gjennomsnitt eller
-etter elevers kjønn, minoritetsbakgrunn eller foreldres utdanningsnivå (Kirkebøen, Kotsadam,
-Raaum, Andresen & Rogstad, 2017).
-Det finnes tilsvarende studier for både Sverige
-og Danmark. Svensk forskning finner positiv
-effekt av mindre klasser for elever i aldersgruppen 10–13 år (Fredriksson, Öckert & Oosterbeek,
-2012). De finner en positiv effekt på kognitive og
-sosiale og emosjonelle ferdigheter målt når eleven
-er 13–18 år, og på inntekt og antall år med utdanning ved 27–42 år. De finner samme effekt for
-begge kjønn. Dansk forskning finner en liten positiv effekt på fullføring av videregående opplæring
-og antall år i høyere utdanning av redusert klassestørrelse for elever på ungdomstrinnet. Resultatene indikerer at effekten er størst for elever fra
-en underprivilegert bakgrunn (Browning & Heinesen, 2007). Heinesen (2010) finner en positiv og
-betydelig effekt av redusert klassestørrelse på
-eksamenskarakterer i fransk for elever på ungdomstrinnet. Effekten er størst for svakt presterende elever og for gutter.
-I USA har det blitt gjennomført utallige evalueringer av Tennessee STAR-prosjektet – et storskala eksperiment som ble gjennomført på midten
-av 1980-tallet. Elever i alderen 6–8 år ble tilfeldig
-delt inn i klasser bestående av enten 22 eller 15
-elever. Elever fra en lav sosioøkonomisk bakgrunn var overrepresentert i skolene som deltok i
-prosjektet. Denne litteraturen blir oppsummert i
-blant annet Schanzenbach (2006). Forskningen
-viser en positiv effekt på skoleresultater, i størst
-grad for minoritetselever og elever fra lavinntektshjem. Det er like stor effekt for gutter og jenter.
-Lærerkvaliteten er også avgjørende for resultatene: Det er ingen effekt i de tilfeller der læreren
-har mindre enn fem års arbeidserfaring. Chetty
-mfl. (2011) finner at elever som gikk i mindre klasser, i større grad deltok i høyere utdanning.
-Annen internasjonal forskning har blandede
-resultater. Angrist og Lavy (1999) finner en positiv
-effekt på resultater i matematikk og lesing av
-redusert klassestørrelse for elever i 9–10-årsalderen i Israel. Woessmann og West (2006) finner
-ingen effekt av klassestørrelse for de fleste
-OECD-land. Hoxby (2000) finner ingen effekt av
-klassestørrelse i Connecticut, USA.
+Oppsummert tyder forskningen på at kjønnsdelte klasser og skoler kan være positivt for skoleresultater, men at dette kan slå veldig forskjellig ut i ulike land og skolesystemer. Det er dermed viktig å presisere at det er uvisst hvorvidt disse studiene har relevans til den norske konteksten. Kjønnsrollene i Sveits, Sør-Korea, Trinidad og Tobago og Israel kan være svært forskjellige fra kjønnsrollene i norske skoler. Mangelen på studier fra mer sammenlignbare land skyldes antagelig at det er lite interesse for kjønnssegregering som pedagogisk tiltak i Nord-Europa.
 
-[Side 148]
+## Særskilte tiltak for svakt presterende elever
 
-146
+Hvordan skolene følger opp svakt presterende elever, har særlig betydning for gutter ettersom de er overrepresentert i gruppen med svake ferdigheter mot slutten av grunnskolen. Rettigheter til ekstra oppfølging av svakt presterende elever i norsk skole er regulert enten gjennom retten til spesialundervisning eller gjennom opplæringsloven § 1-3, der det heter at opplæringen skal tilpasses den enkelte elev. Å være svakt presterende er ikke ensbetydende med at en elev mottar eller har behov for spesialundervisning. For eksempel vurderes ca. 20 prosent av elevene som svakt presterende på kartleggingsprøven i lesing mot slutten av 1. trinn, mens det er en betydelig lavere andel som mottar spesialundervisning.
 
-Kapittel 10
+Forskningen har sett på flere måter for å følge opp svakt presterende elever, som grovt sett kan grupperes i følgende undergrupper:
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+- Særdeles svakt presterende elever kan bli holdt tilbake ett år fra det ordinære utdanningsløpet. Dette kan gjøres på ulike tidspunkter i utdanningsløpet.
 
-Forskningslitteraturen fra Norge viser i sum
-lite som tyder på at økt lærertetthet øker elevenes
-skoleprestasjoner, hverken i gjennomsnitt eller for
-ulike undergrupper. I den internasjonale litteraturen har man funnet alt fra ingen til positive effekter av redusert klassestørrelse, og i flere tilfeller
-er effekten størst for elever fra en lav sosioøkonomisk bakgrunn. En mulig forklaring på dette kan
-være at foreldre responderer ulikt på økt klassestørrelse. Fredriksson, Öckert og Oosterbeek
-(2016) finner for eksempel at høyinntektsforeldre
-responderer på økt klassestørrelse ved å hjelpe
-barna mer med leksene. Det er lite i denne
-forskningen som tyder på at gutter og jenter har
-ulik avkastning av økt lærertetthet.
+- Tilleggsundervisning kan gis til svakt presterende elever, enten gjennom muligheten til å ta om igjen fag, ved intensivundervisning i løpet av skoleåret eller om sommeren.
 
-10.4.2 Lærerkvalitet – kjennetegn ved
-læreren
-En betydelig litteratur har funnet at lett målbare
-kjennetegn ved læreren – som f.eks. yrkeserfaring og utdanning – forklarer veldig lite av forskjellen i elevers prøveresultater (for en oppsummering, se Hanushek & Rivkin, 2012). Det eneste
-unntaket er at helt nyutdannede lærere jevnt over
-fungerer litt dårligere enn de med mer erfaring de
-første to årene etter at de begynner i læreryrket.
-Dette kan enten bety at lærerkvalitet ikke er viktig
-for elevenes læringsutbytte, eller at disse kjennetegnene ved læreren er et dårlig mål på lærerkvalitet. Forskning som måler lærerens bidrag til
-elevenes læringsbytte i et gitt skoleår, finner at
-dette varierer betydelig mellom lærere, noe som
-tyder på at de lett målbare kjennetegnene ved
-lærere ikke reflekterer de sentrale elementene i
-lærerkvalitet. Hanushek og Rivkin (2012) trekker
-følgende implikasjoner av sin kunnskapsoppsummering om hvordan man kan heve kvaliteten på
-undervisningen: Forfatterne mener at man ikke
-nødvendigvis kan øke undervisningskvaliteten
-ved å gjøre opptaket til lærerutdanningen vanskeligere. Dette kan gjøre at færre ønsker å bli lærere
-fordi det øker kostnaden ved å bli lærer. Videre
-mener de at målstyring som fokuserer på sertifisering, utdanningsnivå eller erfaring for å tiltrekke
-seg bedre lærere, ikke nødvendigvis fører til
-bedre lærerkvalitet.
-Forskningslitteraturen fokuserer i større grad
-på at en god lærer er en lærer som jevnt over får
-elevene til å prestere høyere, etter at man har kontrollert for andre faktorer som bidrar til elevprestasjoner, som familiebakgrunn, tidligere prestasjoner og tidligere lærere. Denne måten å
+- Det kan gis spesialundervisning som typisk innebærer at elevene ikke følger hele den ordinære læreplanen.
 
-tenke på lærerkvalitet på har også blitt introdusert
-i noen skoledistrikter i USA, hvor den blir benyttet
-til lærerevalueringer (se f.eks. Isenberg & Hock,
-2010). Det har vært uttrykt en bekymring for om
-teknikkene for å lage disse målene på lærerkvalitet påvirkes av faktorer som ikke kun har med
-lærerkvalitet å gjøre, men f.eks. gjenspeiler en fordeling av flinke elever til flinke lærere. Chetty,
-Friedman og Rockoff (2014a) utnytter blant annet
-variasjon fra lærere som bytter skole, og viser at
-bekymringen for om lærerbidragsindikatorene
-reflekterer seleksjon av elever mellom lærere
-innenfor samme skole i stor grad er uberettiget.
-Resultatene tyder på at lærerbidragsindikatorene
-er et godt mål på lærerens effekt på elevenes
-læringsutbytte. Chetty, Friedman og Rockoff
-(2014b) finner en positiv effekt av å ha en god
-lærer målt med læringsbidragsindikatorer på
-sannsynligheten for å delta i høyere utdanning og
-for inntekt, og lavere sannsynlighet for tenåringsgraviditeter. Dette betyr at lærerne som skårer
-høyt på lærerbidragsindikatorene, ikke kun er
-flinke til å undervise frem mot prøvene. Imidlertid
-er dette noe som potensielt kan endre seg over tid
-dersom dette målet på lærerkvalitet blir benyttet,
-og man bør videreutvikle målene på lærerkvalitet
-og se hvordan dette henger sammen med for
-eksempel evalueringer av klasseromspraksis.
-Fortsatt vet man for lite om hva som kjennetegner en god lærer. Imidlertid finner nyere
-forskning at lærerens kognitive ferdigheter er
-sterkt knyttet til elevprestasjoner. Hanushek, Piopiunik og Wiederhold (2018) bruker variasjon i
-fagspesifikke ferdigheter for lærere i ulike land
-fra PIAAC sammen med elevenes resultater i kognitive ferdigheter fra testresultater i PISA. De finner at forskjeller i lærernes kognitive ferdigheter
-kan forklare en betydelig del av variasjonen i
-PISA-resultater mellom land. De undersøker
-mekanismer som kan forklare forskjellen i læreres kognitive ferdigheter mellom land, og finner at
-forskjell i kvinners tilgang til gode jobber og hvor
-godt lønnet lærerjobber er sammenlignet med
-andre jobber, er viktige forklaringsfaktorer. Hermann og Diallo (2017) støtter dette funnet: I de
-fleste europeiske land er det påvist en større
-effekt på både gutter og jenter å ha en kvinnelig
-lærer enn en mannlig lærer. Dette er antagelig
-fordi kvinnelige lærere er mer positivt selektert
-enn mannlige lærere. Effekten av å ha en kvinnelig lærer er større i land der lærerlønninger relativt til andre yrkers lønninger er høyere for kvinner enn for menn.
+### Repetisjon av et skoleår
 
-[Side 149]
+I norsk grunnskole er det automatisk progresjon fra det ene skoleåret til det andre. Det er ikke mulig å stryke i fag, og heller ikke mulig å ta enkeltfag eller hele skoleår om igjen. Dette betyr at elevene først møter konsekvensene av manglende ferdigheter i ulike fag i overgangen til videregående opplæring – det er først i videregående opplæring at det er mulig å stryke i fag. Selv elever som har svake ferdigheter fra grunnskolen, og som mangler vurdering i flere fag, har rett til plass i videregående opplæring. Likevel er det slik at flere av fagene i videregående skole bygger videre på sentrale fag fra grunnskolen, uansett hvilket utdanningsprogram elevene velger.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+I flere andre land er det mulig å holde tilbake elever ett år dersom de ikke følger normal progresjon som skulle tilsi at de kan gå videre til neste trinn. Figur 10.3 viser at i enkelte skolesystemer repeterer over en tredjedel av elevene et skoleår. Der repetisjon praktiseres, er det flere gutter enn jenter som repeterer et skoleår.
 
-Lærer av samme kjønn
-I norske skoler er det et overveiende flertall av
-kvinnelige lærere. I skoleåret 2017–2018 var 75
-prosent av lærerne på 1.–10. trinn kvinner. Flere
-har spekulert på om dette slår uheldig ut for gutter. Det er to mekanismer som kan forklare hvorfor en elev kan få bedre skoleprestasjoner av å ha
-en lærer av samme kjønn. Den første mekanismen
-er såkalte rollemodelleffekter, og innebærer at
-lærere oppfattes som rollemodeller, og at elevene
-identifiserer seg mer med en lærer av samme
-kjønn. Dersom dette er tilfellet, vil gutter være
-mer motiverte og engasjerte i timen dersom de
-undervises av en mann (Dee, 2007). Den andre
-mulige mekanismen er at lærere vurderer gutter
-og jenter ulikt grunnet bakenforliggende fordommer og stereotypier. Hovedutfordringen som man
-må håndtere for å kunne studere effekten av lærerens kjønn på skoleresultater, er at det er en ikketilfeldig fordeling av elever til ulike klasserom og
-skoler. Eksempelvis kan det være slik at en elevgruppe med svake resultater har større sannsynlighet for å få en lærer av et spesifikt kjønn. Bakken (2009) finner for eksempel at det i Norge er
-en relativt høyere andel kvinnelige lærere på skoler hvor elevenes foreldre har høy utdanning og
-inntekt, altså en gruppe elever som man vil forvente presterer relativt godt grunnet sin foreldrebakgrunn.
-Det foreligger ingen norske studier som
-undersøker direkte om gutter ville gjort det bedre
-på skolen om de ble undervist av mannlige
-lærere. Bakken (2009) ser på sammenhengen
-mellom andelen kvinnelige lærere på en skole og
-jenter og gutters skoleprestasjoner, og finner
-ingen forskjell.
-Internasjonal forskning har sett på dette
-forskningsspørsmålet ved bruk av eksperimentelle metoder og naturlige eksperimenter for å ta
-hensyn til ikke-tilfeldig fordeling av lærer–elevkombinasjoner. Forskning som sammenligner
-skoleprestasjoner for samme elev i de fagene/
-årene de har mannlig lærer, med fagene/årene da
-de har kvinnelig lærer, finner ulike resultater. Dee
-(2007) finner en positiv effekt av å ha en lærer
-med samme kjønn for både gutter og jenter i alderen 13–14 år i USA. Muralidharan og Sheth
-(2016) finner at jenter på barnetrinnet i India gjør
-det signifikant bedre når de har en kvinnelig
-lærer, mens lærerens kjønn ikke påvirker gutters
-skoleresultater. Paredes (2014) viser små effekter
-på standardiserte tester for jenter i Chile av å ha
-en lærer med samme kjønn, men ingen effekt for
+\[:figur:figX-X.jpg\]
 
-147
+Andelen jenter og gutter som har repetert minst ett skoleår ved 15-årsalderen i OECD, PISA 2015.
 
-Kapittel 10
+OECD (2015b).
 
-gutter, og antyder at resultatet drives av rollemodelleffekter.
-Holmlund og Sund (2008) ser på hva lærerens
-kjønn har å si for prestasjonene til elever i videregående skoler i Stockholm, og utnytter variasjon
-som kommer av at samme elev har flere lærere i
-løpet av skoleårene, også i samme fag. De finner
-ingen effekt av lærerens kjønn på gutter eller jenter i Stockholm, utover effekten av at det er flere
-mannlige lærere i fag der gutter gjør det relativt
-godt. Cho (2012) bruker TIMMS-data til å se på
-effekten av lærerens kjønn på testresultater i
-matematikk og naturfag i 15 OECD-land – inkludert Norge – og finner liten indikasjon på at lærerens kjønn påvirker elevenes testresultater.
-Et par studier benytter seg av variasjon som
-følge av tilfeldig plassering av elever i klasserom
-med enten mannlig eller kvinnelig lærer. Lim og
-Meer (2017) finner at for jenter i Sør-Korea er det
-positivt med en kvinnelig lærer, men at lærerens
-kjønn ikke har noe å si for gutter. De finner også
-at denne forskjellen er drevet av lærerens atferd.
-Antecol, Eren og Ozbeklik (2014) undersøker
-effekten av lærerens kjønn i skoler i noen vanskeligstilte nabolag i USA og finner en negativ effekt
-av kvinnelig lærer på jenters prøveresultater i
-matematikk, men ingen effekt på gutters prøveresultater. Dette resultatet forsvinner når de ser på
-jenter som blir undervist av en kvinnelig lærer
-med en solid fagbakgrunn i matematikk. De argumenterer for at dette resultatet er forenlig med en
-hypotese om at kombinasjonen av matematikkangst hos kvinnelige lærere og stereotypiske oppfatninger av at kvinner er dårlige i matematikk,
-fører til at det å ha en kvinnelig lærer har negativ
-effekt på matematikkferdighetene til jenter, men
-ikke til gutter (Beilock, Gunderson, Ramirez &
-Levine, 2010).
-Den internasjonale litteraturen som tar for seg
-dette temaet på en troverdig måte, finner ikke at
-det er ufordelaktig for gutter å ha en kvinnelig
-lærer. Studien fra videregående skoler i Stockholm ligger tettest opp mot norske forhold og har
-et godt forskningsdesign. Den finner ingen effekt
-av å ha en lærer av samme kjønn. Imidlertid vet vi
-mindre om hvorvidt lærerens kjønn i grunnskolen påvirker skoleprestasjonene til gutter og jenter.
+Det er ikke opplagt om det å ta om igjen skoleår, vil ha positiv eller negativ effekt på senere skoleresultater, ettersom det innebærer både en potensiell kostnad og gevinst. På kostnadssiden kan det å bli holdt igjen føre til dårlig selvtillit, stigmatisering og lavere forventninger fra omverdenen, i tillegg til at eleven må tilpasse seg en ny lærer og en gruppe nye medelever, noe som igjen kan virke demotiverende og føre til dårligere skoleprestasjoner (Manacorda, 2012). En mulig gevinst kan være at et ekstra skoleår gir elevene mulighet til å hente seg inn igjen. Dersom en elev har såpass svake ferdigheter at eleven ikke klarer å følge undervisningen, vil eleven få lite utbytte av å delta i undervisning som ikke er tilpasset hans eller hennes nivå. Videre er det noen som argumenterer med at frykten for å måtte ta ett år om igjen – med den kostnaden det innebærer – gir elevene insentiver til å øke innsatsen for å unngå å bli holdt tilbake (Manacorda, 2012). I USA er slike ordninger implementert i flere skoledistrikter med den tanken at det skal gi insentiver til både lærere, foreldre og elever (Jacob & Lefgren, 2009).
 
-10.4.3 Vurderingsform
-Kjønnsforskjellene i ferdigheter varierer noe med
-vurderingsform, dvs. om det er standpunktkarakterer, eksamenskarakterer eller nasjonale og
-internasjonale tester som er uten betydning for
+Forskningslitteraturen som ser på effekten av å bli holdt igjen ett år, sammenligner elever som ligger marginalt over, med de som ligger marginalt under en gitt terskelverdi som bestemmer om elevene blir holdt igjen ett år eller ikke. En studie fra Uruguay hvor 26 prosent av elevene stryker ett år, viser at det å gå om igjen ett år – for 12–14-åringer – fører til økt frafall (Manacorda, 2012). En studie fra USA som ser på den kortsiktige effekten av å bli holdt tilbake, finner ingen effekt, hverken positiv eller negativ (Jacob & Lefgren, 2004).
 
-[Side 150]
+Litteraturen fra USA ser på en kombinert effekt av det å bli holdt tilbake og tilbudt ekstra oppfølging i form av et sommerskoleprogram. Det er derfor ikke mulig å skille effekten av ekstra oppfølging fra effekten av det å bli holdt tilbake (Jacob & Lefgren, 2004, 2009; Schwerdt, West & Winters, 2015). En studie finner en positiv effekt på prøveresultater på kort sikt av å bli holdt tilbake ett år i 3. klasse, men ikke i 6. klasse (Jacob & Lefgren, 2004). En artikkel som ser på effekten på lengre sikt – fullføring av videregående opplæring – for samme elevgruppe finner at å bli holdt igjen i 6. klasse (11–12-åringer) ikke påvirker frafall, men at å bli holdt igjen i 8. klasse (13–14-åringer) fører til økt frafall (Jacob & Lefgren, 2009). De finner at den negative effekten på fullføring primært er drevet av jenter med minoritetsbakgrunn. Forskning fra USA som ser på effekten av å bli holdt tilbake i 3. klasse (8–9-åringer) på grunn av svake leseferdigheter, finner at de som blir holdt tilbake, får bedre skoleresultater og i mindre grad tar kompenserende kurs i videregående opplæring, men de finner ingen effekt på sannsynligheten for å fullføre videregående opplæring (Schwerdt mfl., 2015). Det er sammenlignbare effekter for gutter og jenter.
 
-148
+En mulig tolkning av denne litteraturen er at å bli holdt tilbake ett år i kombinasjon med ekstra oppfølging i form av sommerskole kan ha positiv effekt dersom det skjer når elevene er yngre, mens det har større kostnader senere i utdanningsløpet (Schwerdt mfl., 2015). Det er få studier som undersøker om det er ulik effekt for gutter og jenter, og de studiene som gjør det, finner lite som tyder på at dette i større grad gagner guttene.
 
-Kapittel 10
+### Et ekstra skoleår
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Et alternativ til tvungen repetisjon av et skoleår for noen elever er et frivillig tilbud om et ekstra skoleår mellom viktige overganger i utdanningssystemet. Tidligere hadde man i Norge tilbud om et ekstra frivillig tiende skoleår i forlengelsen av det obligatoriske niårige grunnskoleløpet. Kommunene står i dag fritt til å tilby ett ekstra forberedende år i grunnskolen til de elevene som måtte ha behov for dette, men det er lite oppmerksomhet rundt denne muligheten, og elever har ikke rett til å få dette tilbudet. Det er heller ikke mulig å forbedre grunnskolevitnemålet som privatist. Dersom eleven har behov for et ekstra år i grunnskolen, må dette søkes om og behandles før eleven mottar grunnskolevitnemålet. Om kommunen ikke opererer med særskilte tilbud til denne gruppen, vil et tilbud om et ekstra år i grunnskolen innebære å ta 10. trinn om igjen sammen med yngre elever – noe som kan være lite motiverende i seg selv, og som trolig gjør at få elever ser på dette som et reelt alternativ.
 
-elevens videre progresjon i utdanningssystemet.
-Videre er det slik at selv om eksamens- og standpunktkarakter i et fag skal måle det samme, er
-kjønnsforskjellen vanligvis mindre målt ved skriftlige eksamenskarakterer enn ved standpunktkarakterer (Statistisk sentralbyrå, 2017). OECD fant
-også at hvorvidt testen blir tatt hjemme eller på
-skolen, kan påvirke elevenes resultater, ved at
-norske gutter skårer bedre på tester som blir gjennomført i hjemmet enn på skolen (Borgonovi mfl.,
-2018).
-Det finnes flere mulige forklaringer på dette.
-For det første kan det være at standpunktkarakterer måler mer enn ferdigheter og fagkunnskap.
-Skriftlig eksamen er en anonymt rettet prøve,
-mens standpunktkarakteren settes av læreren,
-som dermed også kan reflektere andre ferdigheter der jenter gjør det bedre enn gutter. For
-eksempel kan standpunktkarakterer i større grad
-fange opp klasseromsinteraksjon og dermed forskjeller i sosiale ferdigheter hos jenter og gutter.
-Cornwell, Mustard og Van Parys (2013) finner at
-forskjellen mellom en anonymt rettet eksamen og
-standpunktkarakter forsvinner når de kontrollerer
-for sosiale og emosjonelle ferdigheter hos elevene. Machin og McNally (2005) finner at økte
-kjønnsforskjeller i Storbritannia sammenfalt med
-innføringen av et vurderingssystem der innleveringer og arbeid over tid i større grad ble vektlagt.
-Gustavsen (2018) finner at høyere lærervurdering
-av jenters prestasjoner i norsk og matematikk i
-Norge henger sammen med at jenter har bedre
-sosiale ferdigheter. Hun finner også at jenter har
-større sannsynlighet for å bli vurdert høyt i norsk
-og matematikk når de har mannlige lærere fremfor kvinnelige, noe som kan bety at mannlige
-lærere verdsetter sosiale ferdigheter mer enn det
-kvinnelige lærere gjør. Falch og Naper (2013) finner at en større kjønnsforskjell i standpunktkarakterer enn i eksamenskarakterer i norsk og matematikk skriftlig henger sammen med karakteristikker ved lærerstaben på skolenivå, noe de antyder kan forklares med ulik lærer–elev-interaksjon
-i klasserommet i jenters favør. Ved skoler med
-høyere andel kvinnelige lærere er kjønnsforskjellen i jenters favør i norsk lavere. Lærerens kjønn
-har derimot ikke noe å si for hvordan jenter og
-gutter vurderes i matematikk, men ved skoler
-med en større andel uerfarne lærere får jenter
-relativt bedre karakterer i matematikk.
-For det andre kan lærervurdering i større
-grad enn eksamen reflektere kjønnsstereotypiske
-forventninger som går i guttenes disfavør. Lavy
-(2008) finner at gutter gjør det bedre på anonymt
-rettede prøver relativt til lærerrettede prøver i
+Danmark har allerede operert med et frivillig ekstra år før videregående opplæring i lang tid. Danmark har et skolesystem som ligner det norske med et tiårig skoleløp. Det ekstra skoleåret er ikke kun forbeholdt svakt presterende elever, men er bredere orientert: I 2009 startet nær halvparten av danske ungdommer på det frivillige ekstraåret (Nordahl, Sunnevåg & Løken, 2011). Alle danske elever har rett til ekstraåret, men rådgivere og skoler er lovpålagt å målrette ordningen mot elever med behov for ytterligere faglig kvalifisering og avklaring av utdanningsvalg (Danmarks evalueringsinstitut, 2012). Ekstraåret innebærer et reelt miljøskifte for de danske elevene, som får opplæring fra spesielt kvalifiserte og utvalgte lærere, og dette kan bidra til økt motivasjon. Det finnes flere ulike typer skoler med litt forskjellig tematiske fokusområder som elevene kan velge mellom. Alle får undervisning i dansk, engelsk og matematikk, de skal gjennomføre en praksisperiode i en videregående skole, og ellers er det stort rom for individuell tilpasning og utforskning. Elevene har mulighet til å forbedre sine karakterer fra grunnskolen før overgangen til videregående opplæring. Elevene har en positiv faglig utvikling i de sentrale fagene gjennom året, og særlig gjelder dette for guttene (Nordahl mfl., 2011). Det er en klar forbedring i motivasjon og arbeidsinnsats, og omfanget av atferdsproblemer, mobbing og mistrivsel er klart redusert sammenlignet med året før (Nordahl mfl., 2011). Elever som selv vurderte sin egen «uddannelsesparathed» for videregående utdanning som lav etter grunnskolen, vurderte dette mer positivt etter ekstraåret (Danmarks evalueringsinstitut, 2012). Det finnes imidlertid ingen studie som evaluerer dette tilbudet opp mot elever som går rett videre til videregående opplæring, og om det har en positiv effekt på frafall i videregående opplæring at elevene har denne muligheten.
 
-samme fag ved videregående skoler i Israel, sammenlignet med jenter i språkfag, naturfag og
-matematikk. Analyser av ulike årsaksforklaringer
-indikerer at dette reflekterer kjønnsstereotypiske
-forventninger i gutters disfavør. En studie fra Sverige finner at jenter får systematisk bedre standpunktkarakterer sammenlignet med gutter som
-gjør det like godt på nasjonale eksamener (Lindahl, 2007). Tilsvarende viser denne studien at en
-større andel mannlige lærere på skolen bidrar til
-en større kjønnsforskjell i gutters disfavør på
-lærervurderte prøver. En svakhet ved begge disse
-studiene er at det ikke er eksakt samme prøve
-som rettes både anonymt og av læreren. Det kan
-dermed være andre forklaringer på at gutter gjør
-det bedre på den anonymt rettede prøven. Hinnerich, Höglin og Johannesson (2011) gjør en lignende øvelse blant videregående avgangselever i
-Sverige, men der det samme prøvesvaret i svensk
-skriftlig blir rettet av elevens egen lærer, for deretter å bli gjort anonymt (alle kjennetegn ble fjernet,
-og prøvesvarene ble skrevet på PC), og vurdert på
-nytt av en ekstern sensor. Dette gjør at de er sikre
-på at prøvene er helt like, og at kjønnsforskjeller
-på ulike prøver ikke reflekterer forskjeller i prøvene eller prøvesituasjonen. De finner at de
-eksterne sensorerene vurderer elevene litt strengere enn det elevenes egne lærere gjør, men de
-finner ikke at kjønnsforskjellen er mindre på den
-anonymt rettede prøven enn på den lærerrettede
-prøven. Dette tyder på at kjønnsforskjellen i vurdering i svensk skriftlig ikke reflekterer diskriminering i gutters disfavør.
-For det tredje kan det være forskjell i vurderingssituasjonen. Forskning finner at kvinner gjør
-det relativt dårligere i situasjoner med mer konkurranse (Croson & Gneezy, 2009). Dersom eksamenssituasjonen oppfattes som en mer konkurransepreget situasjon, kan dette forklare en mindre kjønnsforskjell målt ved eksamenskarakterer.
-Resultatet fra eksamen teller som en hel karakter
-på vitnemålet, mens standpunktkarakteren vurderes av elevens lærer og kan dermed reflektere
-resultatet på flere prøver. I tilknytning til dette finner Gneezy mfl. (2017) en positiv effekt av ytre
-motivasjon på standardiserte prøver for gutter, og
-at dette i mindre grad påvirker jenters prøveresultater. De forklarer forskjellen med en kjønnsforskjell i indre motivasjon, og argumenterer for at
-dette er i tråd med litteraturen om kjønnsforskjeller i hvordan menn og kvinner reagerer på insentiver (Attali, Neeman & Schlosser, 2011; Azmat,
-Calsamiglia & Iriberri, 2016; Croson & Gneezy,
-2009; Levitt, List, Neckermann & Sadoff, 2016).
-Dette passer imidlertid ikke med de norske resul-
+Drammen kommune har som den første kommunen i landet valgt å tilby 16-åringer et ekstra år på skolen fra høsten 2017 – ordningen går under navnet Ung11. Denne er rettet mot elever som har fullført grunnskolen, men som har behov for mer grunnskoleopplæring for å kunne gjennomføre videregående opplæring. Undervisningen foregår i egne lokaler. Etter dette påfyllingsåret får elevene nytt vitnemål. I tillegg til skolefagene er det fokus på utvikling av selvbilde og selvtillit, samt karriereveiledning, og formålet er å styrke elevene med mål om å bestå videregående utdanning. Ung11 starter som et prøveprosjekt, og Kunnskapsdepartementet stiller midler til rådighet for å medfinansiere en langsiktig følgeevaluering av Ung11. Tilbudet hadde opprinnelig 15 plasser, men kun åtte elever søkte og ble tatt opp i ordningen.
 
-[Side 151]
+En litteratur med noe relevans for diskusjonen om et ekstra skoleår er studier av skolesystemer som har kuttet i antall skoleår. I Tyskland har man sett på effekten av å redusere skoleløpet med et skoleår fra 13 til 12 år i 2001–2007 (grunnskole + videregående opplæring). Formålet var å få elevene raskere ut i høyere utdanning og arbeid. For å hindre faren for nivåsenkning ble totalt antall undervisningstimer holdt konstant, og man kunne måle effekter ved at reformen ble implementert på ulike tidspunkter i ulike delstater. To studier har undersøkt effektene av reformen (Huebener & Marcus, 2017; Krekel, 2017) og konkluderer med følgende: Det har vært en liten nedgang i avgangskarakterer, flere må gå siste året om igjen, men fullføringsgraden er konstant. Reformen ser ut til å ha hatt negative konsekvenser for elevenes læring, og reformen har ført til at elevene driver mindre med frivillig arbeid utenom skolen og viser mindre interesse for politikk. Å øke antall undervisningstimer per år for å spare ett års skolegang ser altså ikke ut til å ha gitt fordelaktige effekter.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+En lignende reform ble gjennomført i Canada ved å kutte et år i studieforberedende videregående skole, men uten å kompensere for antallet timer man mistet. Undersøkelser av resultatene av denne reformen viser at de negative effektene var større her med tanke på studentenes senere prestasjoner på universitetet (Krashinsky, 2014; Morin, 2013). Forfatterne fant at læringstapet var størst i gruppen av de høyest presterende elevene, siden disse får mest utbytte av et skoleår. Basert på de negative resultatene av å korte ned skoleløpet med et år skulle man altså tro at å utvide skolegangen med et ekstra år burde være gunstig.
 
-tatene fra nasjonale prøver og internasjonale
-undersøkelser som TIMMS og PISA, der kjønnsforskjellene er mindre enn kjønnsforskjellene i
-både standpunkt- og eksamenskarakterer. Resultatene fra nasjonale prøver og internasjonale
-undersøkelser har ikke like store personlige konsekvenser som standpunkt- og eksamenskarakterene ettersom de ikke kommer på vitnemålet til
-elevene, og skulle etter denne hypotesen virke
-mindre motiverende på gutters prestasjonsvilje.
-Imidlertid finnes det også studier der ytre motivasjon har vist seg å ha en større effekt på jenter enn
-på gutter. Angrist og Lavy (2009) undersøker
-effekten av å tilby økonomiske insentiver til lavt
-presterende elever i israelske skoler for å bestå en
-eksamen som kreves for å kunne bli tatt opp til
-høyere utdanning. De finner en positiv effekt på
-andelen jenter som besto, men ingen effekt for
-gutter. Jenters gjennomføring økte blant annet
-fordi jentene brukte mer tid på å forberede seg til
-eksamen.
-Flere studier, både internasjonale og norske,
-tyder på at kjønnsforskjeller i sosiale ferdigheter
-gjenspeiles i prøver som lærere retter. Det finnes
-også noe evidens for at vurderingssituasjonen i
-seg selv er av betydning – gutter gjør det bedre i
-prøvesituasjoner med mer konkurranse. Men det
-er ikke klart om forskjellen mellom eksamenssituasjonen og prøver/heldagsprøver som bidrar til
-standpunktkarakterer i Norge, er såpass stor at
-dette kan være hovedforklaringen. Det er derimot
-lite som tyder på at forskjellen mellom lærer- og
-anonymt rettede prøver skyldes lærernes kjønnsstereotypiske forventninger. Den mest solide studien som undersøker dette, er fra Sverige, og den
-finner ikke resultater som samsvarer med denne
-hypotesen. En nyere utvikling i måten man gjennomfører prøvesituasjonen på, kan også bidra til å
-minske kjønnsforskjeller i vurderingssituasjonen
-over tid: Det er en utvikling i retning av at flere
-prøver gjennomføres digitalt, og studier har funnet at kjønnsforskjellene er noe mindre når prøven er gjennomført digitalt, enn ved papirbaserte
-prøver (Borgonovi, 2016). I Norge synes det imidlertid å være tilfellet at det ikke er noen større fordel for gutter enn for jenter at prøven gjennomføres digitalt (Borgonovi mfl., 2018).
+Oppsummert er det indikasjoner på at et ekstra frivillig skoleår vil kunne bedre elevenes faglige prestasjoner og føre til en høyere fullføringsandel i videregående opplæring. Spesielt virker et ekstra skoleår å heve guttenes faglige prestasjoner. Effekten på fullføring har imidlertid ikke blitt direkte testet, og mer kunnskap må innhentes for å kunne konkludere med at et ekstra år vil kunne bedre fullføringsandelen, og for å estimere størrelsen på en slik effekt.
 
-10.4.4 Undervisningspraksis
-Dobbie og Fryer Jr (2013) ser på sammenhengen
-mellom ulike læringsformer og skolekvalitet ved
-friskoler i USA – såkalte charter schools. Studien
-viser at ulike undervisningspraksiser – hyppige
-tilbakemeldinger fra lærere, bruk av undervei-
+### Tilleggs- og intensivundervisning
 
-149
+Andre måter å gi ekstra oppfølging til elever med svake skoleprestasjoner på er å gi ekstra oppfølging til de elevene som presterer under et gitt nivå, f.eks. ved å gi dem ekstra undervisning – enten i løpet av skoleåret eller som et sommerskoleprogram. Et alternativ er intensivundervisning, der deler av undervisningen blir gitt i mindre, tilrettelagte grupper med tilpasset innhold til denne elevgruppen. Fra og med august 2018 har alle elever på 1.–4. trinn rett til intensiv opplæring dersom de står i fare for å bli hengende etter i lesing, skriving eller regning. Denne undervisningen kan bli gitt i små tilrettelagte grupper, men det er opp til skolen å vurdere hvilken undervisningsform som er best egnet (Utdanningsdirektoratet, 2018f). Det er heller ingen rett eller plikt til å delta på sommerskoler, men flere kommuner tilbyr en ukes sommerskole til de som ønsker dette.
 
-Kapittel 10
+Et slikt tiltak er Guttas campus, en to ukers leir der gutter fra Oslo i alderen 15–16 år undervises i lesing, skriving, matematikk og personlig utvikling. Tiltaket er rettet mot elever som står i fare for å falle fra i videregående opplæring. Målet er en markant faglig fremgang på kort sikt, men også at guttene skal takle videregående opplæring på lengre sikt. Etter leiren får elevene hver sin mentor som følger dem gjennom 18 måneder. Prosjektgruppen sto selv for testing av elevenes ferdigheter før og etter programmet, og elevene viser betydelig faglig fremgang.
 
-svurdering til å gi tilpasset opplæring, intensivundervisning, økt undervisningstid og høye forventninger til elevene – forklarer rundt halvparten av
-variasjonen i skolekvalitet. Tradisjonelle mål på
-innsatsfaktorer i skolen, som klassestørrelse,
-utgifter per elev, lærersertifisering og andelen
-kvalifiserte lærere, samvarierte ikke med skolekvalitet. Fryer Jr (2014) ser på effekten av å implementere de ovennevnte beste praksisene fra friskoler i USA, i tillegg til bedre lærere og administratorer, i lavt presterende offentlige skoler i USA.
-Resultatene viser en betydelig effekt på matematikkresultatene, men liten effekt på leseferdigheter. De finner en litt større effekt på resultater i matematikk og lesing for jenter på barnetrinnet, mens de på mellom- og ungdomstrinnet
-finner en litt større effekt i matematikk for gutter.
-En spesiell type friskoler i USA går under
-betegnelsen «No Excuses». En metastudie av
-disse skolene finner en stor positiv effekt på elevenes testresultater i matematikk og lesing av å gå
-ett år på en slik skole (Cheng, Hitt, Kisida & Mills,
-2017). Praksisen ved disse skolene er kjennetegnet av streng disiplin, regelmessig testing, utvidet
-undervisningstid, og intensivundervisning i
-grunnleggende ferdigheter i lesing og matematikk (S. C. Carter, 2000; Thernstrom & Thernstrom, 2004). Videre har de høye akademiske forventninger til alle sine elever og er opptatt av at
-elevene skal over i høyere utdanning (Cheng mfl.,
-2017). Chabrier, Cohodes og Oreopoulos (2016)
-undersøker effekten av ulike typer av disse friskolene og finner at mye av forklaringen på at «No
-Excuses»-skolene gjør det så bra, er at de ligger i
-fattige, urbane strøk hvor det alternative offentlige skoletilbudet holder svært lav kvalitet. Når de
-undersøker de ulike komponentene ved friskolene og tar hensyn til kvaliteten på de offentlige
-skolene i området, finner de at den viktigste komponenten som bidrar til økte skoleprestasjoner, er
-intensivundervisningen. Enkelte studier har
-undersøkt effekten av disse skolene for ulike
-undergrupper. Angrist, Pathak og Walters (2013)
-finner større effekt på matematikkresultater for
-jenter, relativt til gutter, og motsatt i engelsk. Det
-er større effekt for minoritetselever, svakt presterende elever og elever fra lavinntektshjem. Dobbie og Fryer Jr (2011) finner ikke forskjellig effekt
-for gutter og jenter på barne- eller mellomtrinnet.
-Et par studier ser på effekten av spesifikke
-undervisningsprogrammer på elevenes resultater.
-Machin og McNally (2008) ser på effekten av det
-som ble kalt Literacy Hour, en mer rigid og strukturert lese- og skriveundervisning enn det som var
-gjeldende praksis. Før innføringen av programmet
+Flere skoledistrikt i USA har innført obligatoriske sommerskoler for elever som stryker til en eksamen i matematikk eller lesing i slutten av skoleåret. En kunnskapsoppsummering konkluderer med at disse programmene kan gi positiv effekt på elevenes ferdigheter – i hvert fall på kort sikt (McCombs, Augustine & Schwartz, 2011). For eksempel finner en studie som ser på effekten av 4–6 ukers obligatorisk sommerskole for elever fra åtteårsalderen og oppover ingen eller liten effekt for de yngste elevene, men positive effekter for eldre elever på resultater målt ett år etter (Matsudaira, 2008). De undersøker ikke om det er ulik effekt for gutter og jenter.
+
+En beslektet studie av Guryan, Kim og Quinn (2014) undersøker effekten av et program som tilrettelegger for at elever på småskoletrinnet skal lese over sommeren, ved å sende dem en bok i posten hver uke. Av dette relativt billige lavintensitetstiltaket finner de en positiv effekt på leseferdigheter for jenter, men ikke for gutter.
+
+En beslektet litteratur ser på tilbudet av ekstraundervisning etter skoletid for elever med svake skoleprestasjoner i matematikk og lesing. En studie som evaluerer effekten av to slike ordninger finner positiv effekt på elevenes matematikkferdigheter, men mindre evidens for økte leseferdigheter – studien undersøker ikke kjønnsforskjeller (Zimmer, Hamilton & Christina, 2010).
+
+Cook mfl. (2015) undersøker effekten av intensivundervisning til elever med en underprivilegert bakgrunn, hvorav 95 prosent er fra minoritetsbefolkningen i USA. Tiltaket er rettet mot gutter på 9. og 10. trinn. Elevene fikk én time matematikkundervisning per dag i grupper à to elever per instruktør som var høyt utdannede og motiverte voksne, men ikke nødvendigvis med lærerutdanning. De finner en positiv effekt på testresultater i matematikk og en redusert andel med stryk.
+
+Selv om det er lite forskning på intensivopplæring i Norge, finnes det noen unntak. Gjennom en nasjonal forsøksordning med Overgangsprosjektet i Ny GIV fikk elever med svake faglige prestasjoner halvveis i 10. trinn tilbud om tilpasset intensivopplæring i vårsemesteret i perioden 2011–2013. Hensikten med dette var å forebygge frafall i videregående opplæring ved å styrke ferdighetene til svakt presterende elever. En evaluering av ordningen finner at dette ikke har påvirket frafall i videregående opplæring, men forfatterne konkluderer med at ordningen ble prøvd ut på en måte som gjorde det vanskelig å evaluere effekten av tiltaket (Huitfeldt, Kirkebøen, Strømsvåg, Eielsen & Rønning, 2018).
+
+I tillegg til dette foregår det i perioden 2016–2020 to prosjekter som undersøker ulike former for intensivundervisning for svakt presterende elever – dessverre foreligger ikke endelige resultater fra disse prosjektene ennå. Senter for økonomisk forskning ved NTNU har prosjektet «Intensivundervisning i matematikk for yrkesfagene» som gir elever på yrkesfag som står i fare for å stryke i matematikk i Vg1 intensivundervisning i matematikk. Statistisk sentralbyrås forskningsprosjekt «Lære mer, fullføre og bestå matematikk» gir elever med utfordringer i matematikk på 8. trinn og på studieforberedende Vg1 tilbud om intensivundervisning i matematikk (Kirkebøen mfl., 2018).
+
+Det finnes også eksempler på intervensjoner rettet mot elever på småskoletrinnet. I 2014 startet Lesesenteret i Stavanger forskningsprosjektet *På sporet*, som er rettet mot elever som antas å være i faresonen for å utvikle lese- og skrivevansker (Lesesenteret, 2017). Elevene i faresonen ble valgt ut ved hjelp av en kartlegging ved starten av 1. trinn. Skoler ble tilfeldig delt inn i en sammenligningsgruppe, én forsøksgruppe der elevene fikk ekstra oppfølging på 1. trinn, og én forsøksgruppe der elevene fikk ekstra oppfølging på 2. trinn. Ved forsøksskolene fikk elevene som ble vurdert til å være i faresonen et tilrettelagt og intensivt lesetreningsopplegg utviklet av forskere fire timer i uken i 25 uker. Undervisningen ble gitt av en lærer i grupper på 3–7 elever. Intensivundervisningen ble lagt til tider da hele klassen hadde stasjonsundervisning i lesing og skriving, slik at smågruppeundervisningen kunne foregå i samme klasserom. Hver time var delt inn i fire ti minutters sesjoner med tydelige mål, og lærerne fikk en detaljert manual for alle timene. Innholdet i intensivundervisningen baserte seg på forskning fra engelskspråklige land. Ved skoler i sammenligningsgruppen fikk elevene i risikogruppen tilsvarende oppfølging. Den eneste forskjellen mellom forsøks- og sammenligningsgruppene var at i sammenligningsgruppen ble innholdet i undervisningen bestemt av elevenes lærer. Solheim, Frijters, Lundetræ og Uppstad (2018) analyserer resultatene for de som fikk intervensjonen på 1. trinn, og finner en positiv effekt på leseprøver 0–2 år etter at intervensjonen var ferdig. Dette tyder på at et forskningsbasert innhold i en slik undervisning gir større effekt enn når det er opp til lærerne å bestemme innholdet.
+
+Intensivundervisning synes å kunne heve prestasjonene til svakt presterende elever tidlig i utdanningsløpet, mens tilleggsundervisning i ferier kan være nyttig for eldre elever. Tett oppfølging og forskningsbaserte undervisningsopplegg kan være avgjørende for at gutter skal dra nytte av tilleggs- og intensivundervisning.
+
+### Spesialundervisning
+
+Elever som ikke får tilfredsstillende utbytte av ordinært tilbud i skolen, har rett til spesialundervisning etter opplæringslovens kapittel 5. Elever med vedtak om spesialundervisning kan følge en individuell opplæringsplan (IOP) i ett eller flere fag som avviker i større eller mindre grad fra kompetansemålene i læreplanverket. I grunnskolen kan disse elevene få fritak fra vurdering med karakter i de fagene der de har IOP, men når de begynner i videregående opplæring, må alle elever ha en karaktervurdering i alle fag. At eleven har fulgt en IOP som avviker fra kompetansemålene i ett eller flere fag, kan føre til at eleven ikke vil nå kompetansemålene i videregående opplæring. På grunn av dette har elever i videregående opplæring mulighet til å få «ikke vurderingsgrunnlag (IV)» istedenfor en standpunktkarakter i de tilfeller der opplæringen avviker fra læreplanen og læreren ikke har grunnlag for å sette karakter. Eleven får da kompetansebevis istedenfor et vitnemål.
+
+Andelen som får spesialundervisning etter enkeltvedtak, øker betydelig gjennom grunnskolen. Av kullet som startet på 1. trinn i 2008, fikk 3,9 prosent spesialundervisning på 1. trinn, mens det på 10. trinn gjaldt 10,9 prosent av dette kullet (Utdanningsdirektoratet, 2018b). Det er også betydelige kjønnsforskjeller – på 10. trinn skoleåret 2017–2018 fikk 13,6 prosent av guttene spesialundervisning mot 7,9 prosent av jentene. De fleste elever med vedtak om spesialundervisning går i ordinær skole eller klasse – kun 8 prosent av elevene med enkeltvedtak om spesialundervisning går i egne skoler eller klasser, og 3,4 prosent er utplassert én eller flere dager utenfor ordinær opplæring. Elever med vedtak om spesialundervisning kan få én eller flere dager i uken utenfor ordinær opplæring. I 2017–2018 deltok 1 693 elever på 1.–10. trinn én eller flere dager i uken utenfor ordinær opplæring, og 83,5 prosent av disse er gutter. Flertallet av disse er elever på 8.–10. trinn (Utdanningsdirektoratet, 2018b).
+
+Forskning fra England har funnet en negativ sammenheng mellom elevprestasjoner og assistentbruk (Webster, Russell & Blatchford, 2012). En av forklaringene ser ut til å være at assistenter i mange tilfeller fortrenger tid som eleven ellers ville fått med en kvalifisert lærer. Denne typen assistentbruk er bekymringsfull, og når gutter i større grad mottar spesialundervisning enn jenter, fører dette til kjønnsforskjeller i tid tilbrakt med kvalifisert undervisningspersonale, noe som kan forsterke forskjeller i skoleprestasjoner mellom gutter og jenter.
+
+I Norge har vi ikke informasjon på individnivå om hvilke elever som får spesialundervisning, og hvilke tilbud elevene får. Det er dermed ikke mulig å følge individene som mottar spesialundervisning, i registerdata, og dermed kan vi heller ikke undersøke hvordan det går med dem senere i livet. Dette gjør det vanskelig å vite om den norske ordningen med spesialundervisning fungerer for de elevene som får dette, og gjør det nær umulig å evaluere implementeringen av ev. forsøksordninger med alternative modeller for spesialundervisning samt ev. nye ordninger som kan bli innført.
+
+Likevel ser utvalget noen urovekkende trekk ved den norske modellen for spesialundervisning. Antall timer til spesialundervisning som gis av assistent har økt med 65 prosent fra skoleåret 2009–2010 til 2017–2018, mens antall timer som gis av lærer bare har økt med 6 prosent i samme periode. Assistenter sto for 70 prosent av timene med spesialundervisning i 2017–2018 (Utdanningsdirektoratet, 2018d). Gutter utgjør en større andel blant elevene som mottar spesialundervisning med assistent enn blant elever som mottar spesialundervisning med undervisningspersonale. Andelen gutter i de respektive gruppene er henholdsvis 72 prosent og 67 prosent (Utdanningsdirektoratet, 2018b).
+
+Det har også vært gjennomført en utvalgsbasert undersøkelse som har fulgt elever i spesialundervisning over tid. SPEED-studien fulgte 2 756 elever i to kommuner hvorav 8,5 prosent mottok spesialundervisning. Resultater fra studien indikerer en negativ samvariasjon mellom vedtak om spesialundervisning og leseferdigheter og ingen sammenheng med matematikkferdigheter (Lekhal, 2018). Analysen er imidlertid begrenset av et lite utvalg elever og mangel på en sammenlignbar kontrollgruppe.
+
+Hanushek, Kain og Rivkin (2002) har fulgt flere hele kohorter av elever i Texas over tid. Den longitudinelle oppbygningen gjør at de kan studere læringsresultater for samme elev før og etter at eleven får vedtak om spesialundervisning, men også denne studien mangler kontrollgruppe. De finner at spesialundervisning øker matematikkferdighetene med 0,1 standardavvik. Spesialundervisningen ble gitt til 15 prosent av elevene av lærere med pedagogisk kompetanse. De studerer ikke kjønnsforskjeller i effekten.
+
+Morgan, Frisco, Farkas og Hibel (2010) og A. L. Sullivan og Field (2013) bruker en longitudinell utvalgsundersøkelse av amerikanske elever i barneskolen. Ved hjelp av metoden *propensity score matching* følger de elever som har fått spesialundervisning, og sammenligner dem med elever som er mest mulig like dem. Studiene finner negative effekter av spesialundervisning i henholdsvis barneskolen og førskolen på skoleprestasjoner, og i studien til A. L. Sullivan og Field (2013) er de negative effektene av spesialundervisning i førskolen signifikante. Dempsey, Valentine og Colyvas (2016) finner negative effekter av spesialundervisning i Australia ved bruk av samme metode. Det kan innvendes mot metoden at det kan være uobserverbare faktorer som påvirker hvorvidt tilsynelatende like elever blir selektert til å motta spesialundervisning eller ikke.
+
+Oppsummert tyder forskningen på at det er svært lite evidens for at spesialundervisning gir noe økt læringsutbytte til elevene. Noen studier antyder til og med at spesialundervisning kan være negativt for mottakerne, og da særlig dersom spesialundervisningen gis av ufaglærte assistenter. Det er dermed heller ikke grunnlag for å vite om spesialundervisning forsterker eller svekker kjønnsforskjellene i skoleprestasjoner. Fordi gutter er overrepresentert blant mottakerne av spesialundervisning, vil imidlertid positive, så vel som negative, effekter av spesialundervisning påvirke kjønnsforskjellene.

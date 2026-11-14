@@ -1,845 +1,174 @@
-# NOU 2020: 16, del 14 av 27 (side 165–174)
+# NOU 2020: 16, del 14 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/dafff701-nou-2020-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-16/id2798280/
 - Original-PDF: https://www.regjeringen.no/contentassets/ccc978f8e2184980b4597ba59796e7e3/no/pdfs/nou202020200016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 13 tabeller, 25 figurer, 243 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 165]
-
-NOU 2020: 16
-Levekår i byer
-
-12.4 Nordiske strategier mot
-segregering og utsatte byområder
-12.4.1 Sveriges strategi mot segregering
-Svenske myndigheter la fram en strategi mot
-segregering i 2018, kalt «Regeringens långsiktiga
-strategi för att minska och motverka segregation».
-Den bygger på et reformprogram mot segregering som regjeringen presenterte i 2016. Strategien løfter fram hvordan myndighetene vil innrette arbeidet på lang sikt. De overgripende
-målene er å redusere segregering, å utjevne forskjeller i oppvekstvilkår og levekår og å gi alle
-muligheter til et godt liv.
-Strategien har fem innsatsområder, og hvert
-av innsatsområdene har et delmål.
-– Boende: Minskad bosendesegregation, bra
-bostäder för alla och stärkt samhällsservice
-– Utbildning: Skolsegregationen och sambandet
-mellan elevarnas socioekonomiska bakgrund
-och kunskapsresultat ska minska
-– Arbetsmarknad: Ökad sysselsättning och lägre
-långtidsarbetslöshet i områden med socioeconomiska utmaningar
-– Demokrati och civilsamhälle: Högt deltagande
-i allmänna val och i demokratiska processer
-mellan valen samt förbättrade villkor för civilsamhället i områden med socioeconomiska
-utmaningar
-– Brottslighet: Ökad trygghet och minskad
-brottslighet i områden med socioekonomiska
-utmaningar
-I strategien viser svenske myndigheter til tidligere
-erfaringer med å redusere segregeringen og forbedre levekårene i utsatte områder. De mener det
-er mye å lære av tidligere erfaringer. Arbeidet skal
-være langsiktig, og myndighetene mener at det kan
-framstå paradoksalt hvis langsiktig utviklingsarbeid er basert på kortsiktige prosjekter.
-Strategien tar utgangspunkt i at segregering
-er et relasjonelt fenomen, og at utfordringene i de
-utsatte områdene ikke kan behandles isolert. Det
-innebærer at segregeringen defineres av forholdet mellom ulike boligområder, og at utviklingen i
-boligområdene påvirker hverandre. De svenske
-myndighetene mener at områdebasert innsats har
-begrenset mulighet til å påvirke prosessene som
-skaper og opprettholder segregering. Samtidig
-sier de det er viktig at lokal innsats er basert på
-lokal kunnskap og forankring.
-Arbeidet skal være sektorovergripende og
-skal involvere relevante aktører på nasjonalt,
-regionalt og lokalt nivå samt næringsliv og frivil-
-
-163
-
-Kapittel 12
-
-lig sektor. Strategien skal bidra til at statens rolle
-i arbeid mot segregering blir tydeligere. Videre
-skal den bidra til gode forutsetninger for kommuner, fylker og andre aktører i arbeidet mot
-segregering. Strategien beskriver tre satsinger
-som skal støtte kommuner og fylker i arbeidet
-mot segregering:
-– tiårig satsing med økonomisk støtte til kommuner og områder med sosioøkonomiske utfordringer. Hensikten er å styrke kommunenes
-langsiktige utviklingsarbeid. Kommunene
-avgjør selv innretningen på innsatsen.
-– økonomisk støtte til kommuner og fylker for å
-øke den lokale samordningen og for å drive
-kunnskaps- og metodeutvikling
-– vurdering av om lover og regelverk skal endres
-for å lette arbeidet mot segregering
-Den svenske strategien legger først og fremst
-vekt på sosioøkonomisk segregering som regjeringen mener forklarer segregeringsmønstrene i
-Sverige best. Strategien behandler også segregering etter innvandrerbakgrunn, men da primært
-basert på sosioøkonomiske faktorer og ikke på
-segregering etter innvandrerbakgrunn.
-Det er ingen konkret liste over områder med
-levekårsutfordringer i strategien, noe som
-begrunnes med at det ikke finnes områdespesifikke data som kan sammenliknes på nasjonalt
-nivå. Statistiska centralbyrån (SCB) har imidlertid
-utviklet en database med områdespesifikke levekårsdata. Denne dekker 38 områder som tidligere
-har vært gjenstand for områdestrategier.
-Politiet i Sverige har også lagd en liste over
-utsatte byområder. Der har de definert områdene
-ut fra i hvor stor grad kriminelle aktører påvirker
-områdene. Den inneholder til sammen 60 utsatte
-områder. Disse overlapper ikke helt med de 38
-områdene som SCB har med i sin database (Staver mfl. 2019).
-
-12.4.2 Den danske gettoplanen
-I mars 2018 la den forrige danske regjeringen
-fram strategien «Ét Danmark uden parallelsamfund. Ingen ghettoer i 2030»». Siden 2010 har
-Danmark hatt offisielle lister over boligområder
-bestående av «almene» boliger hvor mange har
-levekårsutfordringer. De benytter tre ulike kriteriesett for å definere hvilke områder som er særskilt utsatte, og omtaler disse som «utsatte boligområder», «gettoer» og «harde gettoer».
-Den første gettostrategien i Danmark ble lagt
-fram i 2004. I den andre strategien fra 2010 opereres det med 29 gettoer. I strategien fra 2018 er det
-
-[Side 166]
-
-164
-
-NOU 2020: 16
-
-Kapittel 12
-
-Levekår i byer
-
-Boks 12.8 Delegationen mot segregation (Delmos)
-Den svenske Delegationen mot segregation
-mer enhetlig metode for å måle segregeringen.
-(Delmos) er en statlig instans som skal medForslaget bygger på at det skal publiseres 27
-indikatorer på områdenivå i tillegg til en rekke
-virke til å forbedre situasjonen i sosioøkonomisk
-indikatorer som ikke kan framskaffes på områutsatte områder og motvirke strukturelle årsaker til segregering. Delmos skal jobbe med virdenivå. Indikatorene er innenfor et bredt sett av
-kemidler innenfor ulike sektorer og myndigsamfunnsområder: sosioøkonomisk segregehetsnivåer (nasjonalt, regionalt og lokalt). En
-ring, bolig og nærmiljøtilbud, utdanning,
-sentral oppgave er å bidra til samspill og erfaarbeidsmarked, demokrati og sivilsamfunn, kriringsoverføring mellom offentlige myndigheter,
-minalitet og helse.
-Indikatorene foreslås publisert i en nettbasivilsamfunnet, næringsliv, forskere og andre
-relevante aktører. Delmos skal også bidra til at
-sert database. Utviklingskostnaden for databadet utvikles kunnskap på feltet, og utarbeide
-sen er beregnet til 2,2 millioner svenske kroner
-analyser og utredninger for regjeringen i spørsog de årlige kostnadene til 150 000 svenske kromål som berører segregering.
-ner.
-Delmos har foreslått et nasjonalt indikatorsett for å følge med på segregeringen. Indikatorsettet skal samlet sett gjøre det mulig å analyKilde: Ett nationellt uppföljningssystem av segregation. Rapsere utviklingen på områdenivå og utvikle en
-port. Delmos
-
-navngitt 57 utsatte boligområder, hvorav 25 gettoer
-og 16 harde gettoer. I desember i 2018 la den danske regjeringen fram nye kriterier for utsatte områder og gettoer (listene oppdateres årlig). I den siste
-listen fra desember 2020 er det 25 utsatte boligområder. 15 av disse områdene er karakterisert som
-gettoer, og av disse igjen er 13 harde gettoer.
-Ifølge strategien har det oppstått parallellsamfunn blant personer med innvandrerbakgrunn:
-Mange lever i større eller mindre isolerede
-enklaver. Her tager en alt for stor del av borgerne ikke tilstrækkeligt ansvar. De deltager
-ikke aktivt i det danske samfund og på arbejdsmarkedet. Vi har fået en gruppe borgere, som
-ikke tager danske normer og værdier til sig.
-[…] Regjeringen ønsker at forebygge og nedbryde parallelsamfund. Vi vil sætte en stopper
-for den udvikling, hvor de, der lever i paralellsamfund ikke møder det almindelige Danmark. Og hvor vi nogle steder ser en adfærd,
-der er i strid med de rettigheder, forpliktelser
-og demokratiske, liberale frihedsværdier, som
-vores samfund bygger på.
-I strategien framhever den daværende danske
-regjeringen tre årsaker til at de mener det har
-oppstått parallellsamfunn.
-
-Hvad er gået galt? I hvert fald tre ting. For det
-første: Den enkelte indvandrer har selv det
-største ansvar. For at lære dansk. For at få job
-og blive en del af lokalsamfundet. For at blive
-integreret i sit nye hjemland. Alt for få har grebet de muligheder, som Danmark tilbyder. […]
-For det andre: Vi har som samfund i alt for
-mange år ikke stillet de nødvendige krav […]
-For det tredje: Vi har i årtier lukket for mange
-flyktninge og familiesammenførte ind i Danmark, som ikke er blevet integreret i det danske samfund. Og de har fået lov til at klumpe
-sig sammen i ghettoområder uden kontakt til
-det omkringliggende samfund.
-Strategien består av flere innsatsområder:
-(1) «Fysisk nedrivning og omdannelse af udsatte
-boligområder»
-(2) «Mere håndfast styring af hvem der kan bo i
-udsatte områder»
-(3) «Styrket politiindsats og højere straffe skal
-bekæmpe kriminalitet og skabe mere tryghed»
-(4) «En god start på livet for alle børn og unge»
-De statlige myndighetene skal bidra med støtte til
-å bygge om og ruste opp utsatte boligområder,
-dette skal skje i samarbeid med Landsbyggefonden9. Boligområder som har vært karakterisert
-som gettoer i fire år, må ha en plan for å redusere
-
-[Side 167]
-
-NOU 2020: 16
-Levekår i byer
-
-165
-
-Kapittel 12
-
-Boks 12.9 Gellerupparken
-Gellerupparken er et område med «almene»
-Området karakteriseres som hard getto. Det
-boliger i Århus. Det har over tid vært en høy
-innebærer at andelen «almene» familieboliger
-andel personer med levekårsutfordringer i
-må reduseres til maksimalt 40 prosent innen
-området. I 2007 la kommunen og den lokale
-2030 for at boligområdet kan få økonomisk
-boligforeningen fram en plan for en omfattende
-støtte til rehabilitering. For å kunne nå dette kraombygging av boligområdet. Ambisjonen var å
-vet har kommunen og boligforeningen lagt opp
-endre områdets karakter slik at det hadde mintil å rive flere blokker og bygge tettere. De fordre drabantbypreg og ble en bydel mer inteventer at befolkningen øker fra 6000 til 14 000
-innbyggere i løpet av en periode på 10 år. Gettogrert i resten av byen. Det er bygd nye veier, og
-planen innebærer også at reglene for å avvise
-deler av bebyggelsen er revet. Det er også
-boligsøkere er innskjerpet sammenliknet med
-anlagt en bypark med idrettsanlegg, det er etade tidligere lokale reglene. Det er blant annet
-blert et bibliotek. I tillegg er en rekke kommustrengere regler om hvor høy andelen beboere
-nale arbeidsplasser flyttet inn i området. Dette
-med innvandrerbakgrunn kan være. Reglene
-skal blant annet gjøre det mer naturlig å opphar ført til at flere må tvangsflyttes. Sentrale
-holde seg og reise gjennom området for folk
-myndigheter og lokale parter har flere ganger
-som ikke bor der. Kommunen og boligforeninvært uenige om hvordan de skal gjennomføre
-gen har i tillegg boligsosiale planer som skal
-gettoplanen. Boligforeningen i Gellerupparken
-virke sammen med den fysiske planen, blant
-har uttalt at de ikke har tilstrekkelig finansiering
-annet for å bidra til at flere tar utdanning og
-til å bygge om så mange boliger og tilby bebokommer i arbeid. Flere boligtiltak og -planer
-skal stimulere til at befolkningssammensetninere boliger andre steder. Boligforeningen har
-gen endres. Andre typer boliger, slik som stuogså i større grad ønsket å holde på og tiltrekke
-seg middelklassebeboere med innvandrerbakdentboliger og selveide småhus, skal tiltrekke
-grunn. Foreningen mente i tillegg at gettolisten
-seg nye beboere med høyere inntekt og utdangjorde det vanskelig å skape et bedre omdømme
-ning. Boligforeningen har også mulighet til å
-for boligområdet.
-avvise blant annet sosialhjelpsmottakere som
-søker bolig.
-Den danske statens gettoplan fra 2018 har
-Kilde: Ruud mfl. 2019b.
-lagt føringer på utviklingen av Gellerupparken.
-
-andelen «almene» familieboliger til maksimalt 40
-prosent for å kunne motta støtte.
-Strategien inneholder også flere forslag for å
-styre sterkere hvem som kan flytte inn i de aktuelle områdene. Det inkluderer blant annet begrenset rett for kommunene til å tildele bolig i utsatte
-områder til personer som mottar offentlige overføringer, og at personer som flytter til de harde gettoene kan få redusert ytelsene fra det offentlige.
-Forslagene til en styrket politiinnsats inkluderer blant annet mer politi i gatene, at politiet i visse
-tilfeller får mulighet til å skjerpe straffen for kriminelle handlinger begått i utsatte byområder (skjer9
-
-Landsbyggefonden er en selveiende institusjon. De danske
-allmenne boligorganisasjonene betaler inn midler til fondet, og fondet bidrar med midler til opprusting av «almene»
-boliger.
-
-pet straffesone), og at kriminelle skal kunne nektes bolig i et utsatt område.
-Forslagene rettet mot barn og unge inkluderer
-blant annet et krav om obligatorisk barnehage for
-barn i utsatte områder, utsatt skolestart for barn
-med svake danskkunnskaper i utsatte områder og
-en begrensning på andelen barn i barnehager fra
-utsatte områder.
-
-12.4.3 Likheter og forskjeller i strategiene
-En sammenliknende studie av den svenske og
-danske strategien peker på at det er likhetstrekk i
-problembeskrivelsen i de to strategiene. Begge
-strategiene legger vekt på at noen områder skiller
-seg ut ved å skåre dårlig på sosioøkonomiske
-levekårsindikatorer som inntekt, arbeidsdeltakelse og utdanning.
-
-[Side 168]
-
-166
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-Samtidig er det forskjeller i hvordan de to strategiene definerer problemene og årsakene til problemene. Den danske legger vekt på innvandring
-og innvandreres atferd, mens den svenske strategien legger vekt på sosioøkonomisk ulikhet som
-årsak til segregering. Det er også forskjeller i
-hvilke tiltak strategiene kommer med. Den danske strategien har først og fremst sanksjoner rettet mot individer, mens den svenske strategien
-vektlegger tiltak for å styrke individene i møte
-med strukturelle hindringer. Den danske strategien legger også vekt på å ruste opp boliger og
-infrastruktur, og på mer kontroll med hvor folk
-skal bo (Staver mfl. 2019).
-
-12.5 Utvalgets vurderinger
-12.5.1 Arbeid er en forutsetning for gode
-levekår
-Mange i utsatte områder har svak tilknytning til
-arbeidsmarkedet. Utvalget mener at en av de aller
-viktigste faktorene for å bedre levekårene i de
-utsatte områdene, er at flere kommer i jobb. Det å
-jobbe gir inntekter, men kan også øke den enkeltes kompetanse, tilhørighet og trivsel og gi bedre
-sosiale nettverk og helse. Det kan ha positive
-effekter for lokalsamfunnene. De overordnede
-rammevilkårene for arbeidsmarkedet bør legge til
-rette for et velfungerende næringsliv slik at folk
-kan ha mulighet til å skaffe seg en jobb. I tillegg
-må insentivene til å jobbe være til stede. Det bør
-lønne seg å jobbe, og utvalget støtter at offentlige
-myndigheter stiller krav til at folk er i aktivitet når
-de har helsemessige forutsetninger for det. Utvalget mener også at det er viktig å gi folk reell tilgang til arbeidslivet. Hvis noen grupper av innbyggere opplever å bli diskriminert, kan det
-svekke innbyggernes tilhørighet til fellesskapet
-og føre til lavere tillit både til samfunnet og til
-andre mennesker.
-Samtidig er det viktig at jobbene har gode
-lønns- og arbeidsvilkår. Dårlig betalte jobber, og
-jobber som er usikre eller fysisk og psykisk belastende, kan gi økonomiske problemer, helseproblemer og andre utfordringer for arbeidstakerne. Det
-kan gå utover familiene og lokalsamfunnene. Det
-er viktig å forhindre at arbeidstakere har helseskadelig arbeidsbelastning eller andre ulovlige
-eller uverdige arbeidsbetingelser, for eksempel
-lønn, arbeidstid eller boforhold. Dårlige lønns- og
-arbeidsvilkår, kombinert med et høyt nivå på
-offentlige ytelser, kan gjøre arbeidstakerne mindre motivert for å jobbe og gjøre at flere søker om
-offentlige ytelser.
-
-Utvalget mener at det er avgjørende at staten
-og kommunene videreutvikler arbeidsmarkedspolitikken for å kunne lykkes med å bedre levekårene i utsatte områder. Utvalget har likevel i
-hovedsak ansett den generelle nasjonale og kommunale arbeidsmarkedspolitikken som utenfor
-mandatet. For å kunne vurdere gode tiltak innenfor dette politikkfeltet er det nødvendig å gå detaljert inn i dagens rammebetingelser og effektevalueringer. Flere andre utvalg har gått grundig inn
-i disse problemstillingene, og utvalget mener det
-er viktig at staten videreutvikler arbeidsmarkedspolitikken på grunnlag av blant annet Brochmannutvalgene og Sysselsettingsutvalget. Disse utvalgene tar opp en rekke temaer og foreslår å utvikle
-politikken innenfor felt som er viktige for levekårsutsatte områder. Utvalget går ikke inn i alle
-disse temaene, men vil likevel peke på noen spørsmål innenfor arbeidsmarkedspolitikken som
-utvalget ser som særlig relevante.
-Utvalgets mandat legger vekt på geografiske
-områder hvor mange beboere har sammensatte
-levekårsutfordringer. I mange av områdene står
-en relativt høy andel utenfor arbeid, og mange har
-utfordringer på arbeidsmarkedet i kombinasjon
-med blant annet helseproblemer. Svake norskkunnskaper og lite kunnskap om norsk arbeidsog samfunnsliv kan svekke mulighetene til å
-komme i jobb. Mange har ikke de kvalifikasjonene som arbeidslivet etterspør. Mer effektive
-arbeidsmarkedstiltak rettet mot folk som står
-langt fra arbeidslivet vil være positivt for de levekårsutsatte områdene. Utvalget viser til at flere
-utvalg har pekt på kvalifisering som et hovedgrep
-for å øke arbeidsdeltakelsen blant utsatte grupper.
-Sysselsettingsutvalgets ekspertgruppe anbefaler
-å øke ressursene til NAV, slik at NAV kan tilby
-gode og tilpassede kvalifiseringstiltak. Arbeidsrettede tiltak kan ha god effekt også for arbeidstakere langt fra arbeidslivet, men det kan være nødvendig med tett oppfølging og ulike former for
-bistand og kompetanseheving tilpasset den
-enkelte. Det må legges til rette for en mangfoldig
-brukergruppe, og tiltakene må også ivareta personer med svake norskkunnskaper, liten kunnskap
-om norsk arbeids- og samfunnsliv eller andre
-behov for kompetanse utover ren arbeidslivskompetanse. Kommunene har hovedansvaret for å
-tilby opplæring i norsk og samfunnskunnskap,
-men utvalget mener at det er viktig at også statlige
-arbeidsmarkedstiltak støtter godt opp under kommunenes arbeid. Kommunene trenger også gode
-rammer for å kunne tilby arbeidsrettede tiltak i
-kommunal regi.
-
-[Side 169]
-
-NOU 2020: 16
-Levekår i byer
-
-Utvalget mener det kan være grunn til å vurdere om tiltak for arbeid og kvalifisering kan innrettes på en måte som er mer effektiv for områder
-hvor mange trenger bistand. Erfaringene fra blant
-annet Drammen viser at det å tilby tiltak lokalt kan
-senke terskelen for å delta og gjøre at tilbudene
-blir mer tilpasset målgruppa. Det kan kanskje
-også styrke lokalsamfunnene ved at flere får et
-lokalt nettverk og arbeidstrening på lokale
-arbeidsplasser. Tjenester som er tett på der folk
-bor, kan også benyttes til å styrke den grunnleggende kompetansen til beboerne og til å håndtere
-hverdagen og styrke forbindelsen mellom beboerne og det ordinære tjenestetilbudet. Å tilby tiltak lokalt betyr imidlertid at innbyggere i enkelte
-lokalmiljøer kan få en enklere og bedre tilgang på
-tilpassede tiltak enn arbeidssøkere andre steder,
-og de blir sånn sett favorisert. Utvalget mener likevel at det kan forsvares å tilby mer lokalt tilpassede tiltak i områder med mange arbeidssøkere
-langt fra arbeidslivet.
-Mange levekårsutsatte områder har beboere
-med innvandrerbakgrunn som ikke har sammensatte levekårsproblemer, men som likevel kan ha
-problemer med å skaffe seg en jobb tilpasset
-deres kvalifikasjoner. Innvandrere har generelt
-større terskler for å komme inn i arbeidsmarkedet, større risiko for å miste jobben og færre
-muligheter for karriereutvikling enn andre. Det
-kan skyldes blant annet diskriminering og forskjellsbehandling i arbeidslivet, manglende nettverk, mangelfulle norskkunnskaper eller problemer med å få godkjent utenlandsk utdanning.
-Utdanning øker sannsynligheten for at alle grupper får sterkere tilknytning til arbeidsmarkedet.
-Likevel har for eksempel høyt utdannede innvandrede kvinner lavere sysselsetting enn norskfødte
-kvinner. Innvandrede kvinner arbeider ofte deltid
-og i bransjer og i yrker som er følsomme for konjunkturendringer. Det er viktig for de levekårsutsatte områdene at det også er mulig for personer i
-en slik situasjon å utnytte ressursene sine i
-arbeidslivet.
-Svart arbeid har negative konsekvenser for
-samfunnet, men også for den enkelte arbeidstaker. De som arbeider svart, har høyere risiko for å
-ha dårlige arbeidsvilkår, for å miste pensjonsopptjening og rettigheter ved arbeidsledighet og sykdom. Det finnes relativt lite kunnskap om svart
-arbeid for enkelte utsatte grupper, for eksempel
-hvor stort omfanget er og hva slags arbeid det
-dreier seg om.
-Utvalget mener derimot at det allerede er mye
-kunnskap om hvordan innvandrere kan komme i
-arbeid, om hva som kjennetegner innvandrere
-
-167
-
-Kapittel 12
-
-utenfor arbeidsmarkedet, og om kjennetegn ved
-arbeidsmarkedet og arbeidsgivere. På tross av at
-det jobbes mye med kvalifisering av arbeidssøkere, og at mange arbeidsgivere trolig er positivt
-innstilt til å la folk prøve seg i arbeidslivet, er det
-ikke lett å finne den rette matchen mellom
-arbeidsgiver og arbeidssøker. Utvalget mener det
-kan være nyttig å finne ut hvordan slike prosesser
-med å kople arbeidsgiver og arbeidssøker kan gjøres på en effektiv og god måte.
-For å lykkes med å inkludere flere arbeidstakere bedre, er det avgjørende at private og offentlige arbeidsgivere gjør en innsats og gir folk
-mulighet til å prøve seg. Utvalget viser til at Sysselsettingsutvalgets ekspertgruppe har flere forslag
-til hvordan tiltak rettet mot arbeidsgiversiden kan
-videreutvikles. Det er viktig å sikre at arbeidsgivere, herunder offentlige arbeidsgivere, både har
-mulighet til og insentiver til å bidra til arbeidsinkludering. Utvalget vil særlig peke på ansvaret
-som offentlige arbeidsgivere har for å bidra til
-arbeidsinkludering.
-
-12.5.2 Lokale butikker og bedrifter kan styrke
-lokalsamfunnene
-Et velfungerende nærsenter kan gi flere møteplasser og mer velholdte nabolag. Det er også mulig
-at det lokale næringslivet kan bidra til både
-arbeidstrening og arbeidsplasser for personer
-som står langt fra arbeidsmarkedet, og på andre
-måter bidra positivt i lokalsamfunnet. En del drabantbyer er bygd opp rundt lokale butikksentre.
-På samme vis som for andre deler av landet forsvinner kundegrunnlaget fra en del av nærsentrene. Stedsanalyser fra levekårsutsatte områder
-viser at en del nærsentre er preget av tomme lokaler og manglende vedlikehold. Det kan påvirke
-folks opplevelse av stedet og muligheten til å
-knytte kontakter i nabolaget. Tilgang på relativt
-rimelige lokaler gjør det på den andre siden
-enklere å starte opp bedrifter. Samlet sett er dette
-gode grunner til å støtte næringslivet i levekårsutsatte områder. Kommunene kan være med på å
-styrke nærsentrene gjennom ulike former for
-samarbeid. Slike former for lokalt utviklingsarbeid kan være en del av det kommunale ansvaret
-for lokalsamfunnsutvikling. Statlige midler til
-områdesatsinger har også gått til å utvikle nærsentrene. Det har imidlertid vært vanskelig å lykkes i en del tilfeller.
-Utvalget mener at det kan være hensiktsmessig å støtte næringsutviklingen i levekårsutsatte
-områder, men vil samtidig presisere at en eventuell støtte må tilpasses om det er behov for det i det
-
-[Side 170]
-
-168
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-enkelte området. De levekårsutsatte områdene,
-og næringsstrukturen i dem, er ulike. Noen er
-små og tett koplet til resten av kommunen, mens
-andre er noe lenger fra både arbeidsplasser og
-butikksentre. I hovedsak er likevel de utsatte
-områdene nært koplet sammen med resten av
-kommunen gjennom korte avstander og gode
-transportforbindelser. Utvalget mener derfor at
-det ikke alltid er hensiktsmessig å støtte næringsutviklingen innenfor de levekårsutsatte områdene,
-verken av hensyn til arbeidsplasser eller handelsog servicetilbud. Det kan også være en fordel om
-folk beveger seg til andre deler av byen for å jobbe
-og handle.
-Noen av de levekårsutsatte områdene preges
-av næringsvirksomhet som forurensende industri,
-plasskrevende lagervirksomhet og annet som kan
-være en ulempe for nærmiljøet. En grønn omstilling i næringslivet kan også endre næringsstrukturen i levekårsutsatte områder, ha positive effekter for nærmiljøene og tiltrekke seg folk fra andre
-steder. Utvalget mener at gode og framtidsrettede
-arbeidsplasser bør lokaliseres i eller i nærheten av
-levekårsutsatte områder.
-Støtte til gründere kan bidra til at grupper som
-kan ha problemer med å komme inn på det ordinære arbeidsmarkedet, kommer i jobb. Det kan
-blant annet gjelde for innvandrere. I enkelte innvandrergrupper er det tradisjon for å drive egen
-virksomhet. Bistand til å starte opp virksomhet gir
-jobb for den enkelte, i neste omgang kanskje også
-for andre, og bidrar til å øke verdiskapningen i
-samfunnet. En del bedrifter har særskilte sosiale
-formål som å bedre levekårene til utsatte grupper
-eller fremme sosial kontakt. Slike sosialt innrettede bedrifter, entreprenører og nabolagsinkubatorer kan bidra positivt i nabolagene, selv om
-effekten vil avhenge av det enkelte prosjektet.
-Mange sosiale entreprenører og bedrifter får også
-støtte fra offentlige ordninger. Videre kan samarbeid mellom slike bedrifter og kommuner eller
-andre offentlige velferdsaktører være positivt.
-
-12.5.3 Alle innbyggere skal tilbys likeverdige
-tjenester
-Utvalget vil understreke at det er et overordnet
-mål at alle skal få likeverdige tjenester tilpasset
-sine behov, uavhengig av hvor de bor. Nabolagsstudier understreker den store betydningen ulike
-tjenester har i utsatte nabolag. Offentlige tjenester
-er en del av nærmiljøenes kollektive ressurser
-som kan tenkes å være viktigere for eksempel for
-barn og unge som vokser opp i familier med ulike
-utfordringer.
-
-Utvalget mener at det i utsatte områder trengs
-en bred forebyggende og helsefremmende innsats for å bedre innbyggernes livskvalitet, trivsel
-og muligheter til å mestre utfordringer og belastninger de er utsatt for. Innsatsen må rette seg mot
-både enkeltpersoner og utsatte grupper og legge
-til rette for at den enkelte selv kan gripe fatt i eget
-liv, egen mestring og selvstendighet. Å prioritere
-tid til å møte den enkelte og dens familie og nettverk der de er, er avgjørende i arbeidet. En slik
-bruker- og ressursorientert tilnærming må være
-lederforankret. Ledere må vise tydelig retning for
-tjenestene på området.
-Lærere, helsesykepleiere eller ansatte på helsestasjon, i familieverntjenesten, i barnevern, i
-forebyggende politi eller i Utekontakten kan på
-ulike måter kompensere for individuelle og familierelaterte utfordringer. For å kunne gjøre det må
-de være lett tilgjengelige for brukerne, både når
-det gjelder hvilken hjelp de kan få, og hvor tjenestene er lokalisert. Utvalget mener at det er spesielt
-viktig med tverretatlig og tverrsektorielt samarbeid mellom tjenestene i utsatte nabolag fordi hjelpen som trengs, ofte er av sammensatt karakter.
-Skal man lykkes med å tilby koordinerte og helhetlige tilbud, må ledere og ansatte i tjenestene ha
-god samhandlingskompetanse.
-Kommunene har en nøkkelrolle i de utsatte
-områdene fordi de har hovedansvaret for de fleste
-tjenestene. Utvalget mener at statlige aktører gjennom ansvarsområdene sine bør være særlig bevisste på hvordan de kan legge til rette for at kommuner med opphoping av levekårsutfordringer kan
-blir bedre i stand til å håndtere disse. Ikke minst
-må kvaliteten i tjenestene og kompetansen blant
-de ansatte bygges gjennom gode utdannings- og
-etterutdanningstilbud ved universiteter og høyskoler. Ulike velferdsutdanninger bør gi solid
-kunnskap om det tverretatlige samarbeidet og
-legge vekt på kunnskap om relasjoner og mangfold. Det vil kunne fremme anerkjennelsen og
-implementering av strategier for mer mangfoldige
-og inkluderende organisasjoner og institusjoner
-samt tydeliggjøre at komplekse problemer krever
-komplekse løsninger. Gjennom utdanningene må
-framtidige ansatte i velferdstjenestene bli i stand
-til å møte og kommunisere godt med en mangfoldig befolkning med varierte utfordringer og til å
-jobbe helhetlig og forebyggende i uvante og
-ukjente situasjoner og kontekster. Utvalget mener
-at behovet for denne kompetansen bør komme
-tydelig fram i beskrivelsene av læringsutbytte i
-alle velferdsutdanninger.
-Fra kommunens side må det legges vekt på
-ledelse, organisering, arbeidsmiljø og ansattes
-
-[Side 171]
-
-NOU 2020: 16
-Levekår i byer
-
-169
-
-Kapittel 12
-
-Boks 12.10 Retningslinjer for helse- og sosialfagutdanningene (RETHOS)
-Siden høsten 2017 har det pågått et stort
-annet ha kunnskap om inkludering, likestilling
-utviklingsarbeid for å utvikle nasjonale retningsog ikke-diskriminering, uavhengig av kjønn,
-linjer for hver enkelt av grunnutdanningene
-etnisitet, religion og livssyn, funksjonsnedsetinnen helse- og sosialfag. Retningslinjene skal
-telse, seksuell orientering, kjønnsidentitet,
-definere sluttkompetansen for hver utdanning
-kjønnsuttrykk og alder. Slik skal kandidaten
-og utgjøre en minstestandard for hvilken kombidra til å sikre likeverdige tjenester for alle
-grupper i samfunnet. Videre skal de ha kompepetanse nyutdannede kandidater skal ha når de
-tanse om relasjoner, kommunikasjon og veiledavslutter utdanningen. Retningslinjene skal
-inneholde beskrivelser av formål og læringsutning som gjør dem i stand til å forstå og sambytte (i tråd med Nasjonalt kvalifikasjonsrammehandle med brukere, pasienter og pårørende.
-Studentene skal kunne samhandle både tverrverk) og overordnede krav til studiets oppbygning. Målet er at utdanningene skal være framfaglig, tverrprofesjonelt, tverrsektorielt og på
-tidsrettede og i tråd med tjenestenes kompetantvers av virksomheter og nivåer, og de skal initisebehov og brukernes behov. Studentene skal
-ere slik samhandling.
-Retningslinjearbeidet er et samarbeid melforberedes på arbeidsoppgavene og arbeidsmåtene i framtidens helse- og velferdstjenester.
-lom Arbeids- og sosialdepartementet, Barne- og
-Forskrift om felles rammeplan for helse- og
-familiedepartementet, Helse- og omsorgsdeparsosialfagutdanninger ligger til grunn for de
-tementet og Kunnskapsdepartementet. Kunnnasjonale retningslinjene. I henhold til forskrifskapsdepartementet leder arbeidet og vedtar
-retningslinjene.
-ten skal alle studenter etter endt utdanning blant
-
-holdninger. Det går etter utvalgets oppfatning først
-og fremst ut på å styrke de ordinære tjenestene,
-blant annet med mer kvalitet og kompetanseheving på alle nivåer innen tjenestene. Det vil
-utgjøre en forskjell for beboerne i områdene.
-
-12.5.4 Likeverdighet innebærer å styrke
-tjenestene i utsatte områder
-Utvalget vil understreke at kommunenes inntektssystem er den viktigste faktoren som påvirker
-kommunenes ressurssituasjon og mulighet til å
-løse sine særskilte utfordringer og levere gode tjenester til innbyggerne. For å sikre likeverdighet i
-tjenestetilbudet mener utvalget det er behov å
-styrke de ordinære tjenestene og tilbudene i
-utsatte områder økonomisk. Det er ikke minst
-behov for kompetente ansatte og ledere i offentlige tjenester i utsatte byområder.
-Utvalget mener at det er grunn til å anta at en
-del store byer ikke blir tilstrekkelig kompensert
-for utgiftene ved opphoping av levekårsutfordringer. Utvalget vil trekke fram utdanningssektoren,
-deler av de sosiale tjenestene, ikke minst boligsosialt arbeid, og andre forebyggende tjenester.
-En tidligere undersøkelse av storbyenes
-utgiftsnivå fant på generelt grunnlag at utgiftsutjevningen tar høyde for utgiftsforskjeller mel-
-
-lom storbyene og andre kommuner i skole- og
-barnehagesektoren. Utvalgets undersøkelser
-tyder også på at de største byene tildeler mer ressurser til levekårsutsatte områder enn til andre
-områder gjennom kommunenes budsjettfordelingssystemer. De levekårsutsatte områdene blir
-dermed delvis kompensert for høyere utgifter.
-Samtidig brukes ressursene annerledes i områder
-med levekårsutfordringer. For eksempel bruker
-skolene i slike områder en høyere andel av årstimene til assistenter enn skoler i andre områder,
-og en større andel av ressursene går til andre
-deler enn den ordinære undervisningen, som spesialundervisning og særskilt norskopplæring. I tillegg til høyere ressursbruk ser kvaliteten i skolen
-ut til å være lavere ved at andelen lærere med godkjent utdanning er mindre enn andre steder. Når
-det gjelder ressursbruken i barnehager tyder
-utvalgets undersøkelser på at barnehager i levekårsutsatte områder, i hvert fall delvis, får kompensert for høyere utgifter ved at voksentettheten
-i barnehagen er høyere. Samtidig har barnehager
-i levekårsutsatte områder i Oslo høyere enhetskostnader og en betydelig høyere andel barn som
-får ekstra ressurser til et tilrettelagt barnehagetilbud. Selv om barnehagene har ekstra bemanning,
-sier ikke undersøkelsen noe om hvorvidt tilbudet
-står i forhold til behovet barna har.
-
-[Side 172]
-
-170
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-Samlet sett mener utvalget det er grunn til å
-anta at skoler med betydelige levekårsutfordringer
-ikke blir kompensert fullt ut for merutgiftene ved å
-sikre et likeverdig skoletilbud. Utvalget mener
-videre det kan være grunn til å stille spørsmål ved
-om inntektssystemet kompenserer godt nok for
-utgifter som følger av behovet for ekstrainnsats ved
-disse skolene.
-Utvalget mener også det er grunn til å vurdere
-om kommunene og de levekårsutsatte områdene
-blir tilstrekkelig kompensert innenfor deler av de
-sosiale tjenestene, særlig boligsosialt arbeid. De
-boligsosiale utgiftene inngår bare delvis i kriteriene for utgiftsutjevningen. Kommuner med høye
-boligpriser har høyere boligsosiale utgifter, men
-dette motsvares delvis av økte inntekter. Undersøkelser fra de største byene indikerer imidlertid at
-de ikke blir fullt ut kompensert for disse kostnadene. Det kan også være grunn til å vurdere om
-inntektssystemet bør ta høyde for utgifter til
-arbeidsrettede tiltak i kommunal regi gjennom
-utgiftsutjevningen for sosiale tjenester. Arbeidsrettede tiltak i kommunal regi kan være et viktig
-supplement til de statlige tiltakene, blant annet for
-personer som trenger å styrke grunnleggende
-ferdigheter innen språk, arbeids- og samfunnsliv.
-Gode kommunale arbeidsmarkedstiltak i områder
-hvor mange står langt fra arbeidslivet, er ressurskrevende.
-Utvalget vil også framheve at det er viktig at
-kommunene blir kompensert for utgifter relatert
-til god forebygging av rusproblemer og psykiske
-lidelser og god oppfølging av personer som sliter
-med slike utfordringer. Det gjelder ikke minst
-arbeidet rettet mot barn og unge. De kommunale
-enhetene må ha god kompetanse og tilstrekkelig
-med ressurser til å kunne rette en koordinert innsats mot barn og unge som sliter med rus og psykiske lidelser.
-
-12.5.5 Å forebygge er avgjørende, også i
-krisetider
-I den perioden utvalget har arbeidet, har situasjonen i Norge og verden endret seg dramatisk gjennom covid-19-pandemien. Samfunnsutviklingen
-det siste året har uten tvil påvirket levekårene til
-mange. Dessverre ser vi tegn til at koronakrisen
-forsterker de forskjellene som allerede eksisterer,
-ved at flere av dem som mister jobben i kjølvannet
-av pandemien, i utgangspunktet var i de mest
-utsatte og lavest lønnede jobbene. Lav utdanning
-har også økt risikoen for å miste jobben. Små boliger og dårlig tilgang på utearealer har blitt en til-
-
-leggsbelastning under pandemien, særlig for
-mange barn.
-Krisen påvirker også offentlige budsjetter.
-Skatteinntektene har gått ned, og utgiftene til
-næringsstøtte, overføringer fra NAV, sosialhjelp,
-smitteverntiltak og annet har gått opp. Når budsjettene blir strammere, må lovfestede oppgaver
-prioriteres. Mange av oppgavene som omtales i
-denne rapporten, er ikke lovfestede, men handler
-om å forebygge levekårsutfordringer og bygge
-lokalsamfunn. Utvalget er bekymret for at slike
-oppgaver gjerne blir nedprioritert i en krisetid.
-Det er klart at krisetider gjør at prioriteringene
-må bli tøffere, men konsekvensene av å nedprioritere forebygging kan bli dyre på sikt.
-Utvalget vil i denne situasjonen særlig framheve at det er viktig å forebygge levekårsutfordringer hos barn og unge. Krisen kan gjøre at
-mange barn og unge havner i en ekstra utsatt
-posisjon. Da er støtteapparatet rundt dem viktig,
-slik som gode skoler, barnehager og kompetente
-hjelpetjenester for dem som har behov for det.
-Utvalget vil også understreke at det i denne situasjonen er viktig å jobbe langsiktig med omstilling
-av næringslivet mot et bærekraftig samfunn og
-med kvalifisering av arbeidstakere for framtidsrettede jobber.
-
-12.5.6 De nordiske landene kan dra nytte av
-hverandres erfaringer
-Både Sverige og Danmark har nylig utarbeidet
-strategier mot segregering. Foreløpig er ikke
-effektene av disse strategiene kjent. Utvalget kan
-derfor ikke vurdere effektene av de nye strategiene. Flere av tiltakene og den foreslåtte innsatsen
-bygger imidlertid på tidligere erfaringer.
-Norge har mange av de samme utfordringene
-som Sverige og Danmark, og det er mye å lære av
-hvordan andre tenker, og av hvilke erfaringer de
-har gjort. Både Norge, Sverige og Danmark har
-tiltak rettet mot ulike sektorer som skal styrke
-levekårsutsatte områder. Det er samtidig også forskjeller som gjør at erfaringene ikke alltid er relevante for oss. Både Sverige og Danmark har for
-eksempel store sosiale utleiesektorer og boligområder som er sterkere atskilt fra resten av byen
-enn boligområder i Norge. Det gjør både situasjonen, utfordringene og mulige tiltak er annerledes
-enn i nabolandene.
-Utvalget mener at for å løse fastlåste og alvorlige problemer er det nødvendig å finne en balansegang mellom å jobbe langsiktig og helhetlig og
-å bidra konkret og intensivt. Det er viktig å se på
-bakenforliggende årsaker til utfordringene utover
-
-[Side 173]
-
-NOU 2020: 16
-Levekår i byer
-
-atferden til personene som bor i de utsatte områdene. Dette er også framhevet i den svenske strategien. Utvalget mener også at det er viktig at de
-lokale myndighetene får handlingsrom til å
-utforme politikken på lokalt nivå, og at statlige
-myndigheter ser på om det er regelverk eller
-andre statlige rammebetingelser som hindrer
-kommunenes arbeid. Dette er også framhevet i
-den svenske strategien.
-Samtidig kan det være tiltak i den danske strategien som Norge kan lære av. Danske myndigheter
-setter av betydelige ressurser til å ruste opp boligområder og få til en større blanding av ulike typer
-boliger. Utvalget er enig i at bystrukturen bør legge
-til rette for at ulike folk kan bo i samme nabolag.
-Den danske strategien har også flere tiltak rettet mot å kontrollere hvem som skal bo i de
-utsatte områdene. Flere av disse tiltakene er mindre aktuelle i Norge, hvor boligområdene ikke
-består av sosiale utleieboliger. Utvalget mener
-også at vi ikke skal ha overdreven tro på effekten
-av å flytte på folk. Det er viktig å motvirke at det
-utvikler seg segregerte byer og alvorlige
-nabolagsproblemer. Levekårsutfordringene forsvinner imidlertid ikke ved at folk flytter til andre
-boligområder. Utvalget mener likevel at tiltak for å
-påvirke hvor folk bosetter seg, er relevant. For
-eksempel er å spre kommunale boliger i ulike
-boområder og å ha kriterier for bosetting av flyktninger relevante tiltak (se kapittel 17). Norge har
-også gjennom mange år i sterkere grad styrt hvor
-flyktninger kan bosette seg, enn de har gjort i Sverige.
-Samlet sett mener imidlertid utvalget at den
-danske strategien i for stor grad legger vekt på å
-endre atferden til beboere i de utsatte områdene
-gjennom sanksjoner, framfor å se på hva som hindrer dem i å forbedre livene sine. Den danske
-strategien inkluderer for øvrig ikke arbeidsmarkedstiltak, som er et politikkområde hvor det å
-veie myndighetskrav og bistand kanskje er særlig
-relevant. Tiltak rettet særskilt inn mot beboere i
-utsatte områder, som obligatorisk barnehage og
-utsatt skolestart for barn med svake danskkunnskaper i disse områdene, er etter utvalgets vurdering ikke i tråd med prinsipper om likebehandling. Strategien kan dessuten gjøre at andre får et
-mer negativt inntrykk av de utsatte områdene,
-noe som kan gjøre det vanskeligere å få til en positiv utvikling.
-
-171
-
-Kapittel 12
-
-12.6 Utvalgets forslag til tiltak
-12.6.1 Gode vilkår for arbeidsinkludering i
-offentlig sektor
-Utvalget mener at staten bør se på om det er hindre i arbeidslivsreguleringer som gjør det vanskelig for offentlige arbeidsgivere å gi folk en mulighet til å prøve seg i arbeidslivet, eller vanskelig å
-etablere effektive arbeidsmarkedstiltak. Utvalget
-vil blant annet framheve at det er anledning til å
-avvike fra kvalifikasjonsprinsippet i staten av hensyn til positiv særbehandling, og mener det er viktig at denne regelen fungerer på en hensiktsmessig måte blant annet for personer som kan bli
-utsatt for diskriminering ut fra sin innvandrerbakgrunn.
-Utvalget mener også at midlertidige stillinger,
-traineeprogrammer og hospiteringsordninger i
-offentlig sektor i en del tilfeller vil kunne være et
-viktig skritt for at personer som mangler relevant
-arbeidserfaring, kan inkluderes i arbeidslivet. Det
-kan være aktuelt for personer som av ulike grunner har problemer med å få jobb som svarer til
-kvalifikasjonene de har. Utvalget er samtidig enig
-med Sysselsettingsutvalgets ekspertgruppe i at
-omfanget av midlertidige stillinger ikke bør bli for
-stort, og at det kan være en fare for at det gir svakere arbeidsmarkedstilknytning for en del
-arbeidstakere. Det er avgjørende å legge til rette
-for arbeidsinkludering gjennom varige, faste stillinger så langt som mulig. Samtidig er det viktig å
-fullt ut utnytte potensialet for arbeidsinkludering
-som ligger i offentlig sektor. Utvalget viser videre
-til ekspertgruppas vurderinger om blant annet tilpassede lønninger og lønnstilskudd og mener det
-er behov for å se på hvordan slike ordninger kan
-styrkes og være gode, målrettede virkemidler.
-Kommunene har arbeidsgiveransvar for en
-høy andel av arbeidstakerne og har et bredt spekter av arbeidsoppgaver. Kommunene spiller derfor en viktig rolle for å kunne inkludere folk i
-arbeidslivet, og dette er noe kommunesektoren
-bør prioritere. Utvalget har merket seg at kommunale arbeidsgivere har rapportert om at eksisterende regler kan skape vanskeligheter for
-arbeidsinkludering. Utvalget mener det er verdt å
-se nærmere på om staten bedre kan støtte opp om
-kommunenes arbeid på dette feltet. For eksempel
-bør staten undersøke kommunenes hindringer
-nærmere, vurdere tiltak for å bygge opp kommunenes kunnskap og muligheter til erfaringsutveksling og eventuelt vurdere tydeligere statlige
-føringer for at kommunesektoren skal prioritere
-arbeidsinkludering høyere.
-
-[Side 174]
-
-172
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-12.6.2 Lokalt tilpassede arbeidsmarkedstiltak
-i utsatte områder
-Tett oppfølging av arbeidssøkere og tilpassede
-arbeidsmarkedstiltak er ressurskrevende. Utvalget mener at i en del levekårsutsatte områder kan
-det være effektfullt, men ressurskrevende, å tilby
-arbeidsmarkedstiltak som er fysisk plassert i
-lokalsamfunnene. Det er viktig at ressursfordelingen tar hensyn til at en del arbeidssøkere trenger
-tett og individuell oppfølging, og at spesialtilpassede og eventuelt lokalt forankrede tiltak kan gi
-god effekt. Utvalget har ikke grunnlag for å mene
-at dagens ressursfordelingsmodell for arbeidsmarkedstiltak tar for lite hensyn til dette, men
-anbefaler at det undersøkes nærmere.
-
-12.6.3 Koordinert innsats for
-næringsutvikling i utsatte områder
-Utvalget mener at flere statlige næringspolitiske
-virkemidler kan ha potensial til å virke positivt i
-levekårsutsatte områder. Det er samtidig viktig at
-statlige virkemidler trekker i samme retning som
-den fylkeskommunale, kommunale og private innsatsen for næringsutvikling i de utsatte områdene.
-Utvalget foreslår at staten undersøker om det finnes gode eksempler på slik innsats som andre kan
-lære av, og om det er mulig at statlige virkemidler
-i større grad kan inngå i en koordinert innsats for
-lokal næringsutvikling i de utsatte områdene.
-Utvalget mener også at staten bør vurdere om
-de næringspolitiske virkemidlene kan innrettes
-bedre mot behovene i levekårsutsatte områder.
-Det kan være verdt å se nærmere på om enkelte
-metoder eller virkemidler i næringspolitikken kan
-benyttes mer aktivt i utsatte byområder, for
-eksempel metodene i det distriktsrettede Merkurprogrammet. Dette programmet bidrar til kompetanseheving og erfaringsoverføring om hvordan
-nærbutikker i distriktene kan styrke og videreutvikle seg. Tilsvarende løsninger kan være relevante for nærsentre og nærbutikker i levekårsutsatte områder. Utvalget mener dessuten at staten
-kan ta hensyn til behovet for gode og framtidsrettede arbeidsplasser i levekårsutsatte områder
-gjennom næringspolitikken, for eksempel når Siva
-investerer i næringseiendommer.
-Utvalget mener videre at støtteordninger for
-gründere kan være et positivt bidrag til utviklingen i levekårsutsatte områder, gitt at de treffer
-folk som ønsker å etablere bedrifter i disse områdene. Det gjelder både støtte til ordinære bedrifter og støtte til sosialt innrettede bedrifter, entreprenører og nabolagsinkubatorer. Utvalget har
-
-merket seg forslaget fra Sysselsettingsutvalgets
-ekspertgruppe om å vurdere å øke bruken av etablererstøtte til arbeidsledige gjennom å kombinere støtte fra Innovasjon Norge og NAV. Utvalget
-mener det kan være aktuelt å teste ut en slik ordning for arbeidssøkere som bor og vil etablere en
-bedrift i levekårsutsatte områder.
-
-12.6.4 Kompensere for høye utgifter i utsatte
-byområder gjennom inntektssystemet
-Utvalget mener at det er behov for en ekstra gjennomgang av kommunenes inntektssystem med
-vekt på konsentrasjon av levekårsutfordringer og
-opphoping av individuelle levekårsutfordringer i
-utsatte byområder i de store byene og deres
-omegn. Regjeringen har nedsatt et eget utvalg
-som skal gå gjennom kommunenes inntektssystem. Utvalget anbefaler at dette utvalget – Inntektssystemutvalget – vurderer om kommunene
-er godt nok kompensert for å kunne tilby likeverdige tjenester i levekårsutsatte byområder. Inntektssystemutvalget kan gis et tilleggsmandat for
-å sikre at de prioriterer og har tilstrekkelig med
-tid til disse spørsmålene. Staten kan også bidra til
-å øke kunnskapen om de reelle utgiftene ved forebyggende og kompenserende arbeid i områder
-med sammensatte levekårsutfordringer. Det kan
-gjøre at staten kan ta bedre hensyn til disse utgiftene i inntektssystemet.
-Det er mulig at kriteriene i kommunenes inntektssystem kan utvikles slik at disse tar bedre
-hensyn til utgifter ved levekårsutfordringer. Selv
-om kriteriene i inntektssystemet videreutvikles,
-vil det fortsatt være utgifter som ikke fanges opp
-av kriteriene. Mye av den forebyggende og kompenserende innsatsen som trengs i levekårsutsatte områder, er ikke nødvendigvis forankret i
-velferdstjenester av nasjonal karakter. Det er heller ikke knyttet sterke nasjonale føringer til den.
-Utvalget anbefaler blant annet av den grunn at staten fortsatt tildeler tilskuddsmidler til områdesatsinger, som omtalt i kapittel 15. Utvalget mener at
-det også kan være aktuelt å tildele ekstra midler
-basert på skjønn, slik som gjennom inntektssystemets storbytilskudd. Det er i så fall viktig å vurdere om storbytilskuddet bør omfatte flere kommuner med dokumenterte særskilte utfordringer
-med opphoping av levekårsproblemer. Hvis storbytilskuddet skal kompensere for utgiftene ved
-levekårsutfordringer, er det viktig å se på hvordan
-tildelingen og utmålingen av tilskuddet i større
-grad kan basere seg på kunnskap om kommunenes reelle utgifter på dette feltet.
+# Utvalgets vurderinger av bokonsentrasjon – årsaker, konsekvenser og situasjonen i Norge
+
+## Økonomisk ulikhet og byenes utforming legger grunnlag for segregering
+
+*Utvalget* mener det er sannsynlig at økt økonomisk ulikhet gir økt segregering, men hvor raskt det skjer, og hvor sterk effekten er, vil kunne variere. Flere forhold kan påvirke hvor sterkt økonomisk ulikhet gir seg utslag i segregering. Gode og varierte boligområder kan dempe segregeringen. Hvis boligområdene generelt har gode kvaliteter, vil det dempe mekanismene som fører til segregering. Ulike boligtyper innad i boligområdene kan gi prisforskjeller og valgmuligheter og også føre til at befolkningen blir mer sammensatt.
+
+*Utvalget* mener likevel at det er usikkert om offentlige myndigheter på lang sikt kan hindre at økonomisk ulikhet øker segregeringen. Økonomisk ulikhet kan bidra til at forskjellene i boligprisene øker, og at folk med lave inntekter har begrensede valgmuligheter på boligmarkedet. Da kan det være vanskelig å motvirke at de som har råd til det, i økende grad bosetter seg i de samme områdene, mens noen områder over tid får en sterk konsentrasjon av levekårsutfordringer.
+
+I Norge er velstandsnivået og sysselsettingsgraden høyere og den økonomiske ulikheten lavere enn i mange land det er naturlig å sammenlikne seg med. Norge har heller ikke store, isolerte områder med boliger av gjennomgående lav kvalitet. Boligområdene er generelt velholdte og godt planlagt, med gode transportforbindelser og større variasjon i boligtyper enn i mange andre land. Kommunene bruker mye ressurser på å vedlikeholde og ruste opp skoler, grøntområder og fritidsanlegg. *Utvalget* mener at dette er sentrale årsaker til at segregeringen er lavere i norske byer enn i mange tilsvarende vesteuropeiske byer.
+
+Avbrutt skolegang blant unge voksne, svak tilknytning til arbeidslivet i deler av befolkningen og økende inntekts- og formuesforskjeller innad i byene er imidlertid bekymringsfulle trekk. I løpet av de siste tiårene har andelen lavinntektsfamilier i norske byer økt sterkt. Det kan forsterke segregeringen også i Norge.
+
+*Utvalget* ser også noen uheldige trekk ved byutviklingen i Norge. Noen områder er preget av støy og luftforurensning, mangel på vedlikehold og andre kvalitetsutfordringer. Økende befolkningsvekst og etterspørsel etter boliger i byene betyr at det blir større press på friområdene, at flere grønne områder blir bygd ut, at folk må bo trangere, og at støy og luftforurensning øker. Når transportbehovet øker, går mer areal med til infrastruktur. Det kan binde områder sammen, men også gi større barrierer mellom områdene. Det er en fare for at høy etterspørsel og boligprisvekst presser lavinntektshusstander ut av byene eller inn i dårligere boforhold, og det er en fare for at høy utbyggingstakt og fortetting forsterker kvalitetsforskjellene mellom områder.
+
+## Selektiv flytting forsterker bokonsentrasjon
+
+Flytting inn og ut av nabolag og byer påvirker hvordan et område utvikler seg over tid. Flytting kan forsterke segregering etter både inntekt, innvandrerbakgrunn og andre sosiale kjennetegn.
+
+En høy andel innbyggere med innvandrerbakgrunn i et boligområde kan føre til at andelen fortsetter å stige. Mekanismene bak dette er selektiv flytting, altså flyttemønstre både i befolkningen med og uten innvandrerbakgrunn som påvirker hvor høy andelen med innvandrerbakgrunn i områdene blir. I Norge er det ikke gjennomført store undersøkelser av selektiv flytting etter innvandrerbakgrunn, men i studier fra Sverige og Danmark er det dokumentert at slik selektiv flytting skjer. Segregeringen etter innvandrerbakgrunn påvirkes særlig av at den øvrige befolkningen unngår å flytte til, eller flytter fra, områder med mange innvandrere. *Utvalget* mener det er god grunn til å tro at slike mekanismer også gjelder i Norge.
+
+Når andelen innbyggere med innvandrerbakgrunn øker i enkelte områder, skyldes det flere forhold. Mange innvandrere har lavere inntekt og formue enn gjennomsnittet i befolkningen, og forskjeller i boligpriser vil derfor påvirke hvor innvandrere bosetter seg. I tillegg er det slik at folk som flytter gjerne søker seg til nabolag der befolkningen likner dem selv. Både innbyggere med og uten innvandrerbakgrunn kan ønske å bosette seg i nærheten av egen familie, eget nettverk eller folk de oppfatter at likner seg selv. Videre mener *utvalget* at det er grunn til å tro at en del velger seg vekk fra områder med mange med innvandrerbakgrunn ut fra andre årsaker. Det kan være omdømme, skoler med krevende læringsmiljøer og dårlige skoleresultater eller antakelser om at det er slik.
+
+Selektiv flytting forsterker segregeringen i byene og bidrar til en utvikling der noen nabolag får en opphoping av levekårsutfordringer. *Utvalget* mener utviklingen gir grunn til bekymring. Svært mange av familiene med lavinntekt i de områdene utvalget har studert, har innvandrerbakgrunn, og de kan ha flere andre typer utfordringer enn bare de økonomiske.
+
+## At flere eier bolig, kan stabilisere levekårsutsatte områder
+
+*Utvalget* mener at det at mange eier boligen sin, kan ha stabiliserende effekter for levekårsutsatte områder. Boligeie kan være positivt for bostabilitet, noe som kan styrke fellesskapet i nabolagene og være viktig for barnas hverdag og skolene. Boligeie kan også fremme vedlikehold og velstandsutvikling og dermed slå ut positivt for nærmiljøkvalitetene.
+
+Når store deler av Norges befolkning eier sin egen bolig, er det med på å jevne ut de økonomiske ulikhetene sammenliknet med når flere leier bolig. Sånn sett bør en høy andel boligeiere ha en dempende effekt på segregering. *Utvalget* mener at det likevel er vanskelig å slå fast at boligeie er en viktig årsak til den relativt lave segregeringen i norske byer. De viktigste landene Norge kan sammenlikne seg med, har en høy andel sosiale utleieboliger konsentrert i enkelte byområder. I praksis ser det ut til at sosiale utleieboliger ofte blir konsentrert i enkelte deler av byen, og at dette i seg selv kan bidra til høyere segregering enn det vi har i Norge. Dette gjelder imidlertid ikke for alle byer. Det er også eksempler på at sosiale utleieboliger blir spredt og er en integrert del av ordinære bomiljøer, og at segregeringen der også er på samme nivå eller lavere enn i Norge. Det er i tillegg eksempler på vesteuropeiske byer med en høy boligeierandel som er betydelig mer segregert enn byer i Norge.
+
+*Utvalget* mener dessuten at det i det norske boligsystemet kan være noen faresignaler med hensyn til segregering. En høy andel boligeiere betyr at offentlige myndigheter ikke har samme mulighet til å gripe inn og påvirke segregeringen som myndighetene i land med en stor offentlig utleiesektor. Selv om en høy andel boligeiere gir en jevnere velstandsvekst enn en lav andel boligeiere, vil økende forskjeller i boligpriser øke de økonomiske ulikhetene. Hvis boligmarkedene i levekårsutsatte områder stagnerer, eller hvis boligprisutviklingen er betydelig lavere enn i andre deler av byen, vil det kunne gjøre det vanskeligere å flytte videre fra disse områdene. Sterk prisvekst i andre deler av byen vil innskrenke valgmulighetene for lavinntektshusstander og dermed kunne øke segregeringen.
+
+I tillegg er det i Norge tendenser til konsentrasjon av levekårsutfordringer i områder med mange utleieboliger. Selv om de fleste boliger er godt vedlikeholdt, er det også eksempler på manglende vedlikehold. Det gjelder både for eide og leide boliger, men er nok særlig utpreget i boområder med en høy andel utleieboliger. *Utvalget* mener at det er bekymringsfullt at en del boligsameier får en høy andel utleieboliger med mange beboere med levekårsutfordringer. En del leietakere har få muligheter på boligmarkedet. Det gjør at utleiere kan spekulere i å tilby dårlige boliger til høye husleier, og at leietakere kan synes det er vanskelig å ta opp mangler med utleieren. Det er en del eksempler på at boområder med mange utleieboliger har høy flyttehyppighet, svake sosiale nettverk og manglende vedlikehold. *Utvalget* mener at det er en fare for økende levekårsopphoping i slike områder.
+
+## En variert befolkning kan styrke nabolag
+
+*Utvalget* mener at en sosioøkonomisk variert befolkning i nabolagene er positivt. Folk treffes i nabolaget blant annet gjennom skoler og barnehager, og gjennom lokale aktiviteter i idrettslag og lokale foreninger. Når folk med ulik bakgrunn bor i samme område, kan det bidra til å styrke relasjoner på tvers av ulike grupper. *Utvalget* vil særlig framheve at det er viktig for alle lokalsamfunn å ha engasjerte beboere som bryr seg om nabolaget, og som er villige til å bidra i idrettslag og andre lokale foreninger. Fellesskapet i nærmiljøet og kommunikasjonen mellom beboere med ulik bakgrunn, er med på å skape normer og felles forståelse for hva som er akseptabel atferd. Det skaper sosialt lim og kollektiv handlekraft. Gjennom slike fellesskap og sosiale bånd blir det også lettere å samarbeide om å løse utfordringer i nabolagene.
+
+*Utvalget* mener samtidig at det å bo i områder med små sosiale forskjeller kan ha sine fordeler. Mange liker å bo nær folk som likner dem selv, og det kan gi lokalsamfunn med sterkere samhold. Flere undersøkelser har også pekt på at naboer med ulik sosial bakgrunn ikke nødvendigvis omgås. I land hvor mange barn går på private skoler, vil det kunne bety at barn med ulik sosial bakgrunn ikke leker sammen, selv om de bor i samme nabolag. I Norge går barn stort sett på den lokale skolen, og i varierte nabolag vil det derfor være større sjanse for at barn med ulik sosial bakgrunn leker med hverandre. Det kan dessuten være fordeler av å ha varierte nabolag selv om folk ikke har så mye sosial kontakt. Folk med høyere inntekt og utdanning kan for eksempel ha større påvirkningskraft på offentlige beslutninger som angår nabolaget, noe som kommer hele nabolaget til gode. Selv om det er mange fordeler med samhold i nabolagene, er det ikke nødvendigvis bare fordeler. Det kan skape engasjement rundt fellesskapet, men også føre til et sosialt press mot folk som oppfører seg annerledes.
+
+Det kan likevel være grunn til å spørre om det er vanskeligere å få varierte lokalsamfunn til å fungere hvis de økonomiske ulikhetene i samfunnet generelt og innad i lokalmiljøene blir for store. Det vil si at det kan være vanskeligere å bygge fellesarenaer, nettverk, tillit og deltakelse på tvers i slike lokalsamfunn. En blandet befolkning sikrer heller ikke i seg selv gode oppvekstforhold for levekårsutsatte barn og unge. Det kan for eksempel være ekstra vanskelig for barn i familier med lave inntekter å bo i områder hvor andre har god råd.
+
+Mange nabolag har en variert befolkning. I tillegg er de økonomiske forskjellene i Norge små sammenliknet med andre land, og forskjellene innad i nabolagene blir dermed også mindre. Folk er også stort sett tilfredse med nabolaget sitt. Men segregeringen i Norge har økt, og i byer som Oslo ser vi ikke minst en høy bokonsentrasjon blant folk med høye inntekter og formuer.
+
+## Mangel på deltakelse svekker tilliten og samholdet
+
+*Utvalget* legger vekt på at engasjement og deltakelse er grunnsteiner i et demokrati. For demokratiske prosesser er det derfor en utfordring at ulike sosiale grupper engasjerer seg og deltar i ulik grad, slik vi ser internasjonalt og i Norge. Hvis mange innbyggere i et område engasjerer seg mindre eller ikke deltar i nær- og oppvekstmiljøet til barna, kan det gjøre det vanskeligere for dem å bli inkludert.
+
+Det er ikke nødvendigvis slik at lokale tilbud i seg selv bidrar til nettverk og tillit mellom folk lokalt. Folk er mobile og kan like gjerne benytte tilbud andre steder i byen enn i sitt eget nærmiljø. Sosiale bånd i lokalsamfunn utvikles gjerne mellom mennesker som har noe til felles. I områder der det bor mange barnefamilier, vil for eksempel aktiviteter for barn danne felles arenaer der barn, unge og familier kan møtes.
+
+I enkelte utsatte områder kan det være færre som deltar på lokale arenaer. Det kan for eksempel være få møteplasser eller at de som er, brukes for lite. Andre steder er det et problem at innvandrerbefolkningen og øvrig befolkning har sine nettverk og foreninger side om side, men med lite samhandling på tvers.
+
+*Utvalget* registrerer at personer fra levekårsutsatte områder er svakt representert i politiske organer. Det er et demokratisk problem hvis kunnskapen om og erfaringer fra levekårsutsatte områder er svakt representert på Stortinget og i kommunepolitikken. Kunnskapen om eget nærmiljø vil ofte være større enn kunnskapen om andres nærmiljø. *Utvalget* mener derfor at det er viktig å følge med på den politiske representasjonen fra levekårsutsatte områder.
+
+Studier har vist at sivilsamfunnet er svekket i noen utsatte områder. Frivilligheten blir ikke en plattform for felles, kollektiv handling. At ulike grupper i befolkningen har sine nettverk ved siden av hverandre, innebærer at arenaer der det kan utvikles interessebaserte relasjoner på tvers av ulike grupper, blir færre. Det kan gjøre at folk i lokalsamfunn deltar mindre, folk møtes sjeldnere, og det utvikles heller ikke en felles identitet i lokalsamfunnet. Et svekket sivilsamfunn kan redusere evnen til å skape positivt engasjement i nærmiljøet og til at barn og unge i mindre grad blir sosialisert til å bli aktive samfunnsmedlemmer. Fellesskapet i nærmiljøet og kommunikasjonen mellom beboere er med på å skape normer og felles forståelse for hva som er akseptabel atferd. Det skaper sosialt lim og kollektiv handlekraft. Gjennom slike fellesskap og sosiale bånd blir det også lettere å samarbeide om å løse utfordringer i nabolagene.
+
+Tillit er en viktig forutsetning for den norske velferds- og samfunnsmodellen. Det er blant annet beskrevet av Brochmann-utvalgene. Tillit er både vertikal tillit, det vil si tillit til dem som styrer, og generalisert tillit mellom innbyggere. *Utvalget* viser til at innvandrere har høyere tillit til politiske institusjoner enn den øvrige befolkningen, selv om innvandrerbefolkningen i snitt har dårligere levekår. Selv om dårligere levekår hos innvandrere ikke nødvendigvis henger sammen med lavere grad av tillit til dem som styrer, viser *utvalget* til at arbeidsledighet og ikke minst opplevd diskriminering kan være skadelig for tilliten og for deltakelsen i bredt.
+
+For barn og unge er det av stor betydning hvordan utdanningssystemet påvirker livssjansene deres. *Utvalget* mener det er viktig at målet om at barn og unge skal ha like muligheter, holdes høyt. Om alle i realiteten gis like muligheter, vil påvirke tilliten til samfunnsinstitusjonene.
+
+I tillegg til den vertikale tilliten til dem som styrer, er generalisert tillit en viktig forutsetning i den norske velferds- og samfunnsmodellen. Den generaliserte tilliten lener seg på forståelsen av et fellesskap og bidrar til å gjøre samhandlingen mellom mennesker smidig og effektiv. Hvordan den generaliserte tilliten utvikles i hverdagen og i levd liv, er det lite dokumentasjon på fra forskningen. Men man kan anta at oppfatninger om likhet, relasjoner basert på noe som forener, og å ha felles interesser og opplevelser bidrar til bedre generalisert tillit.
+
+*Utvalget* tror at levende og gode lokalsamfunn med mange møteplasser og arenaer for å delta og samhandle kan ha positive effekter for tilliten og den opplevde tilhørigheten til stedet folk bor, men også til storsamfunnet på lang sikt. Tilliten mellom folk og tilliten til myndighetene er høy i Norge. Erfaringer fra andre land viser imidlertid at hvis tilliten og tilhørigheten i samfunnet svekkes, vil det kunne ha negative konsekvenser for folks livskvalitet og trygghet. Ettersom tillit er en form for lim i samfunnet i stort, vil minkende tillit kunne ha negative effekter for økonomien og den generelle velstandsutviklingen.
+
+## Opphoping av levekårsutfordringer kan virke negativt for nabolagene
+
+En del internasjonale studier *utvalget* har gått gjennom viser eksempler på at ulike nabolagsproblemer, både sosiale problemer og fysisk forfall, kan forsterke hverandre. I andre studier er det mer usikkert om ulike problemer faktisk forsterker hverandre eller bare opptrer samtidig.
+
+Selv om årsakssammenhengene ikke alltid er helt klare, mener *utvalget* at det er grunn til å slå fast at sterk konsentrasjon av levekårsutfordringer kan virke negativt på beboere. Det kan også øke risikoen for sosiale problemer i nabolagene. *Utvalget* vil samtidig presisere at selv om den gjennomsnittlige inntekten og utdanningsnivået i et nabolag er lavt, betyr det ikke nødvendigvis at risikoen for sosiale problemer er høy.
+
+Generelt ser det ikke ut til at levekårsutsatte områder har hatt en sterk negativ utvikling de siste ti årene. Den store majoriteten av beboere trives i nabolagene sine, boligområdene er velholdte, og det er få rapporter om alvorlig konfliktfylte nabolag. Det er likevel en svært sammensatt utvikling i levekårsutsatte områder, med både positive trekk og med noen klare faresignaler. En del områder er det viktig å følge ekstra nøye med på. Situasjonen er særlig utfordrende i et fåtall områder. Dette er områder med store levekårsutfordringer på mange ulike felt og som har hatt en tydelig negativ utvikling de siste ti årene. *Utvalget* er spesielt bekymret for det økende tallet på områder hvor svært mange barnefamilier har lave inntekter, og hvor mange har store levekårsutfordringer. Det kan gi svært vanskelige oppvekstforhold.
+
+En del områder, særlig sentrumsområder, har store interne levekårsforskjeller. Der bor folk med de aller laveste inntektene og størst levekårsutfordringer vegg i vegg med grupper med høy utdanning og inntekt. Flere slike områder er preget av mye inn- og utflytting, trangboddhet og mangel på rekreasjons- og grøntområder. I kombinasjon med høy kriminalitet noen steder gir dette særskilte utfordringer for barn og unges oppvekstmiljø.
+
+## Å bo i utsatte områder kan påvirke barns utdanning negativt
+
+Nabolaget barn vokser opp i, ser ut til å ha effekter på utdanningen deres senere i livet. Studier fra flere land viser at det å vokse opp i et utsatt nabolag har negativ effekt på barnas utdanning når de er unge voksne. Både beboersammensetningen og andre trekk ved nabolaget kan påvirke, for eksempel skolenes kvalitet, fritidstilbudene, uteområdene og det sosiale miljøet. Skolene ser ut til å påvirke mest.
+
+Selv om det generelle bildet ved skolene i utsatte byområder er at barn trives på skolen, og at læringsmiljøet og det sosiale miljøet er godt, ser *utvalget* at det er store forskjeller mellom skolene i de utsatte områdene. Forskjellene kan være svært store også mellom skoler som ligger nær hverandre. At foreldre velger enten å flytte til en annen skolekrets eller å sende barna sine til skoler som de anser å ha bedre kvalitet, kan bidra til å forsterke tendensene til skolesegregering.
+
+Enkelte skoler får et uforholdsmessig stort omfang av utfordringer. De får flere elever med særlige behov, for eksempel behov for særskilt opplæring i norsk eller spesialundervisning, og elever som sliter med ulike sosiale utfordringer. En del av elevene har kanskje ikke den samme støtten hjemme som mange andre elever. Videre kan mange elever som flytter underveis i skoleløpet, gi et ustabilt skole- og læringsmiljø. At nyankomne elever som ikke snakker norsk, kommer inn underveis i skoleløpet, kan være ekstra utfordrende ved skoler som allerede sliter med å gi elevene tilpasset opplæring. Ved noen få skoler er bråk, uro, mobbing og vold mot lærere og andre elever et betydelig problem. Noen ungdomsskoler rapporterer om at en relativt høy andel av de eldste elevene er involvert i rus og kriminalitet. Rektorer rapporterer at mange elever ikke har tro på egen framtid. Samlet sett påvirker dette elevenes trivsel og trygghet som igjen påvirker læring. Lærerne må bruke mye av tiden sin på å håndtere sosiale utfordringer og drive med brannslukking, og de får slik mindre tid til å undervise i fag. Det ser ut til at omfanget av skoler som har særdeles store sosiale utfordringer, ikke er så stort, men at problemene oppleves som svært vanskelige å håndtere ved skolene det gjelder.
+
+*Utvalget* mener det kan være grunn til å tro at skolesegregeringen forsterker sosiale forskjeller mellom elever. De elevene som sliter mest, blir også belemret med de fleste ulempene. Å redusere sosiale forskjeller i skoleprestasjoner er vesentlig for å legge til rette for sosial mobilitet.
+
+*Utvalget* er bekymret over at andelen unge som ikke gjennomfører videregående opplæring, er høy i enkelte områder. Selv om andelen som ikke fullfører videregående skole har gått ned for både jenter og gutter i utsatte byområder over tid, er andelen i noen få områder svært høy. Å gjennomføre videregående skole anses ofte å være den viktigste faktoren for å oppnå stabil tilknytning til arbeidsmarkedet. Det har positive effekter på senere inntekt, familiedannelse og helse, og det forebygger kriminalitet.
+
+Noen skoler har en svært høy andel elever med innvandrerbakgrunn, og det bekymrer både foreldre og en del rektorer og lærere. Samtidig tyder studier *utvalget* har gått gjennom på at andelen elever med innvandrerbakgrunn på skolene trolig betyr lite for elevenes prestasjoner. Foreldrenes utdanningsnivå har mer å si, og skoler hvor andelen elever med innvandrerbakgrunn er høy, har gjerne også en høy andel elever med lavt utdannede foreldre.
+
+*Utvalget* ser samtidig at noen skoler har uforholdsmessig mange elever med språklige utfordringer i norsk, og at det kan være uheldig for alle elevene ved skolene. For elever med dårlige norskkunnskaper er skolen trolig det viktigste språkmiljøet de har. Dersom språkmiljøet er svakt, vil ferdighetene i norsk utvikle seg saktere. Dette kan påvirke elevenes læring negativt, og etterslepet blir verre å hente inn igjen jo lenger i skoleløpet de kommer. Elevenes språkutfordringer kan også bidra til å øke konfliktnivået mellom elever i klasserommet og i friminuttet.
+
+*Utvalget* vil samtidig løfte fram en svært positiv tendens. Studier viser at mange elever med innvandrerbakgrunn har en bedre prestasjonsutvikling enn andre elever. Dette kan trolig forklares med at mange foreldre med innvandrerbakgrunn motiverer barna sine i skolearbeidet og til å ta høyere utdanning, og at de unge får et særlig prestasjonsdriv.
+
+## Flere utsatte unge kan øke kriminaliteten
+
+Kriminaliteten i utsatte byområder i Norge er generelt sett lav, og de fleste som bor i områdene, føler seg i all hovedsak trygge. Kriminalitet er likevel en faktor som kan påvirke beboere sterkt.
+
+*Utvalget* ser at kriminalitet kan påvirke beboere, først og fremst unge gutter, direkte. Nabolagsstudier fra flere land viser at barn som vokser opp i nabolag med store levekårsutfordringer og høy kriminalitet, i større grad begår kriminalitet selv. Samtidig viser studier at en del utsatte nabolag kan være dårligere rustet til å korrigere og slå ned på uønsket aktivitet og kriminelle handlinger fordi det sosiale limet blant beboerne er svakt. Høy kriminalitet, eller oppfatninger om at kriminaliteten er høy, kan også forklare hvorfor segregering oppstår eller opprettholdes. For eksempel kan den påvirke folks valg om å flytte til eller fra områder. Kriminalitet kan ha selvforsterkende negative effekter i noen utsatte områder som over tid kan gi en negativ utvikling.
+
+Barne- og ungdomskriminaliteten har økt i flere av de største byene de siste årene. Selv om det meste av kriminaliteten skjer i sentrum og i typiske sentrale områder hvor mange mennesker beveger seg inn og ut, har enkelte lokale bomiljøer hatt en høy ungdomskriminalitet over flere år. Den høye ungdomskriminaliteten øker risikoen for at nye ungdommer blir rekruttert til kriminelle nettverk. På østkanten i Oslo har det de siste årene vokst fram flere flyktige nettverk av ungdom som begår ulike typer kriminalitet, både ran, vold og narkotikahandel. Samtidig opplever politiet situasjonen innen og mellom ulike kriminelle nettverk som anspent. *Utvalget* er bekymret for tendensen til nettverksdannelse og gjengkriminalitet i enkelte utsatte områder og for at omfanget av kjøp, salg og bruk av narkotiske stoffer øker blant ungdommer. *Utvalget* er videre bekymret over at norskfødte med innvandrerforeldre, særlig gutter, er sterkt overrepresentert på kriminalitetsstatistikken. Trenden er den samme i Sverige og Danmark. Dette er ungdommer som har vokst opp med en rekke økonomiske og sosiale problemer. Sjansene for at barn som vokser opp med svært mange belastninger i livet, får utfordringer, er betydelig større enn at barn som har vokst opp under trygge familieforhold, får det. Barn som sliter, og som i tillegg føler at de ikke fullt ut er akseptert eller ikke hører til, kan være i risikosonen. Utsatte og sårbare barn er enklere for kriminelle aktører å rekruttere. Illegale aktiviteter som salg av hasj og andre rusmidler kan gi rask fortjeneste som gjør det mulig å kjøpe merkeklær og andre statussymboler. Dette kan virke forlokkende, særlig for barn og unge som i liten grad føler seg som en del av eller akseptert av storsamfunnet. *Utvalget* vil understreke at ungdommer som begår kriminalitet, ofte har mange risikofaktorer og få beskyttelsesfaktorer i livet sitt. Risikofaktorene kan forsterke hverandre og gi en ond sirkel det er vanskelig å komme ut av. Gjennom kriminaliteten søker noen av ungdommene tilhørighet, aksept, status og respekt som de ikke kan finne andre steder.
+
+Barn og unge i utsatte posisjoner og situasjoner er imidlertid en svært mangfoldig gruppe, og mange klarer seg bra. *Utvalget* vil understreke at selv om barn har vanskelige familieforhold, så er det ikke likegyldig hva som skjer på andre arenaer. En god skolesituasjon, positive fritidsaktiviteter og trygge voksne kan kompensere for vanskelige hjemmeforhold.
+
+I norske medier og politiske debatter vises det ofte til kriminaliteten i utsatte byområder i andre land og den negative utviklingen man har sett i slike områder over flere år. Er det tegn som tyder på at vi kan få den samme utviklingen i Norge?
+
+*Utvalget* vil vise til at politiet i Sverige peker på at kriminelle strukturer i noen utsatte boområder har utviklet seg og vokst seg sterke over flere år. En rekke tiltak er satt inn, men de har ikke alltid svart godt nok på problemene eller vart lenge nok til å gi effekt. Det har dermed bygd seg opp kriminell kapasitet i noen områder. De kriminelle gjennomsyrer hele lokalmiljøer ved at de bestemmer hvilke regler som gjelder. Det gjør det vanskelig for politiet å finne samarbeidspartnere som er til å stole på.
+
+Utviklingen i kriminaliteten i Sverige forklares på ulike måter. En forklaring er at den sosiale ulikheten øker. En annen forklaring er bosettingsmønstret. Segregeringen i Sverige er sterkere enn i Norge, og opphopingen av levekårsproblemer er betydelig større i enkelte områder. Innvandrere er sterkt overrepresentert i noen av områdene, og disse deltar i langt mindre grad i arbeidslivet og har lavere inntekter enn den øvrige befolkningen.
+
+Ut fra den informasjonen *utvalget* sitter på i dag, er det ingen klare tegn på at kriminaliteten er i ferd med å utvikle seg på samme måte i Norge som i Sverige. Kriminaliteten er fortsatt relativt lav i de fleste utsatte byområder. Kriminelle aktører har trolig ikke den samme innflytelsen i utsatte områder i Norge som de har i enkelte områder i Sverige. Det er likevel grunn til å tro at utsatte unge kan bli brukt som «redskap» for kriminelle narkotikanettverk også i Norge, og at de kriminelle nettverkene kan få et sterkere grep om lokalmiljøene de opererer i, dersom de ikke brytes opp tidlig.
+
+Det er dermed ikke grunnlag for å si at kriminalitetsutviklingen *ikke* kan gå i samme retning. Visse tendenser er de samme som i Sverige. De sosiale og økonomiske forskjellene mellom folk øker, og i en del store og mellomstore byer i Norge er det en relativt sterk opphoping av levekårsproblemer. Og selv om den registrerte kriminaliteten generelt går ned, så øker altså barne- og ungdomskriminaliteten, særlig vold, ran og narkotikakriminalitet. Videre vokser problemet med flere flyktige nettverk og kriminelle ungdomsgjenger noen steder, og det er kjent at svært unge barn rekrutteres til kriminelle miljøer.
+
+Under utvalgets tur til Malmö i Sverige ble det sagt at ungdomskriminaliteten i dag er et resultat av det som ikke ble gjort for 15–20 år siden. *Utvalget* vil understreke at for å motvirke at utviklingen går i feil retning i Norge, må prinsippet om tidlig innsats legges til grunn i all innsats. Å forebygge barne- og ungdomskriminalitet må ta utgangspunkt i et familieperspektiv for å trygge barns oppvekst. De varige effektene får man best ved å sette inn innsats tidlig og ved å jobbe langsiktig.
+
+Del IV
+
+Strategier og tiltak
+
+# Arbeid, likeverdige tjenester og kommunenes økonomi
+
+Arbeidsinntekt er den viktigste inntektskilden for de fleste husholdninger i Norge, og høy sysselsetting er grunnleggende for den norske velferdsstaten. En rekke politikkområder virker inn på sysselsettingen. By- og levekårsutvalget behandler særskilt temaer som handler om å utjevne geografiske levekårsforskjeller og målrettet innsats innenfor utsatte byområder. Den statlige sysselsettings- og næringspolitikken faller i hovedsak utenfor denne temaavgrensningen, men prioriteringer innenfor disse politikkområdene vil kunne påvirke levekårene i utsatte områder.
+
+Norske kommuner har stor grad av selvstyre og har viktige roller i å forebygge og kompensere for levekårsutfordringer. Kommunenes økonomi og hvordan inntektsfordelingen skal sette kommunene i stand til å tilby likeverdige tjenester, er vesentlig for utviklingen i utsatte byområder.
+
+## Arbeidslivs- og velferdsmodellen i Norge
+
+### Sentrale kjennetegn ved den norske arbeidslivs- og velferdsmodellen
+
+De nordiske velferdsstatene er omfattende, og finansieringen av dem hviler på at sysselsettingen er høy (NOU 2011: 7). I Norge er og har det vært en tverrpolitisk oppslutning om velferdsstatens grunnstruktur. Noe av forklaringen er at den norske arbeidslivs- og velferdsmodellen er forankret i institusjonelle ordninger, har legitimitet og bred representasjon, er støttet av organisasjonene i arbeidslivet og sivilsamfunnet og har over lengre tid levert gode resultater (NOU 2011: 7 og NOU 2017: 2).
+
+Den norske arbeidslivs- og velferdsmodellen kjennetegnes blant annet av
+
+- høy yrkesdeltakelse
+
+- et velregulert arbeidsliv og samarbeid mellom myndighetene og sterke arbeidsgiver- og arbeidstakerorganisasjoner
+
+- et i hovedsak skattefinansiert offentlig velferdstilbud av høy kvalitet, som har en høy grad av rettighetsfesting, og som benyttes av de fleste
+
+- et godt utbygd og universelt velferdssystem med relativt sjenerøse overføringer ved arbeidsledighet, sykdom, uførhet og alderdom
+
+- en inntektsfordeling som i internasjonal sammenheng er jevn
+
+- en omfattende familiepolitikk som fremmer likestilling mellom kjønnene
+
+- høy tillit
+
+(NOU 2011: 7)
+
+Visse forutsetninger må være på plass for å kunne oppnå høy sysselsetting. Blant disse er et velfungerende og innovativt næringsliv, en velfungerende offentlig sektor, solide offentlige finanser, en økonomisk politikk rettet mot et høyt og stabilt nivå på samlet etterspørsel og oppdatert kompetanse i arbeidslivet (NOU 2019: 7).
+
+Skattesystemet skal medvirke til å finansiere offentlige oppgaver og til å utnytte ressurser effektivt. Samtidig bidrar skattesystemet til å omfordele gjennom skatt på inntekter og formuer og ved å finansiere offentlige ytelser og tjenester. Inntektssikringsordninger skal sørge for økonomisk trygghet og velferd i befolkningen og være med på å jevne ut økonomiske forskjeller mellom arbeidstakere og dem som står utenfor arbeidslivet. Inntektssikringsordningene skal samtidig balansere mellom hensynet til økonomisk trygghet og økonomiske insentiver til å jobbe (NOU 2017: 2, NOU 2019: 7).
+
+Norge har et relativt sett høyt nivå på ytelsene og et lett tilgjengelig inntektssikringssystem sammenliknet med en rekke andre europeiske land. Det gjelder særlig de helserelaterte ytelsene. Den norske arbeidsledighetstrygden og sosialhjelpen er i hovedsak ikke spesielt sjenerøse sett opp mot sammenliknbare land. Inntektssikringsordninger og arbeidsmarkedstiltak ses mer i sammenheng nå enn tidligere både i Norge og andre nordeuropeiske land ved at det blir stilt flere krav til arbeidsrettet aktivitet (Pedersen mfl. 2019).
+
+Arbeidsmarkedet i Norge har ifølge OECD et middels sterkt stillingsvern, der arbeidstid og arbeidsvilkår er regulert slik at det blant annet skal ta hensyn til arbeidstakernes helse, miljø og sikkerhet (Venn 2009).
+
+Flere offentlige utvalg har analysert sentrale trekk ved den norske arbeidslivs- og velferdsmodellen og kommet med forslag til endrede strategier og nye tiltak. Dette gjelder blant annet Produktivitetskommisjonens to rapporter (NOU 2015: 1 og NOU 2016: 3) og de to Brochmann-utvalgene (NOU 2011: 7 og NOU 2017: 2). Brochmann-utvalgene analyserte sammenhengene mellom innvandring, arbeidsmarked og velferdsstat. De la blant annet vekt på å aktivisere og kvalifisere innvandrere for å øke arbeidsdeltakelsen. Sysselsettingsutvalget skal analysere utviklingen i sysselsettingen i Norge, utviklingen i mottak av inntektssikringsytelser og foreslå tiltak som kan bidra til at flere kommer i arbeid. Sysselsettingsutvalgets arbeid er delt i to faser. Etter første fase la en ekspertgruppe fram sine anbefalinger (NOU 2019: 7). Cappelen-utvalget (NOU 2016: 15) analyserte lønnsdannelsen blant annet i lys av økt migrasjon.
+
+### Universelle og målrettede virkemidler
+
+Noen av de viktigste velferdsordningene i Norge er universelle, det vil si at de gir alle like rettigheter til godene som ytes. Inntektssikrings- og velferdsordningene legger til rette for at alle har en levestandard på et visst nivå. Universelle velferdsordninger kan treffe innbyggerne ulikt, eller de klarer ikke å dekke behovene. De blir derfor i mange tilfeller benyttet sammen med mer målrettede ordninger, eller de er delvis målrettet mot individer og grupper med størst behov (differensiert universalisme).
+
+Argumenter for universelle ordninger er at de kan gi alle tilgang på tjenester av samme kvalitet, gi effektiv administrasjon, forebygge levekårsproblemer og opprettholde insentivene til å komme ut av en vanskelig situasjon. Argumenter for mer målrettede ordninger er at de treffer bedre og er kostnadseffektive (Dahl mfl. 2014).
+
+De fleste målrettede ordninger er rettet inn mot individer eller grupper med særskilte behov, men det finnes også ordninger som retter seg mot geografiske områder. I Norge er geografisk innrettede virkemidler i hovedsak utformet ut fra distriktshensyn, men den målrettede innsatsen rettes også mot levekårsutsatte byområder. Dette kan være både ekstra innsats rettet mot utsatte byområder og forsøk som blir gjennomført i slike områder. Et eksempel på sistnevnte er forsøket med gratis kjernetid i barnehage i områder i Oslo, Drammen og Bergen. Formålet var å få flere barn til å begynne i barnehage og gjøre dem bedre forberedt til å begynne på skolen. Områdene ble valgt fordi det bodde mange minoritetsspråklige barn der, deltakelsen i barnehage var relativt lav og behovet for språkstimulering var stort (Barne-, likestillings- og inkluderingsdepartementet 2011). Forsøket inkluderte alle barna som bodde i områdene, og var sånn sett et universelt tiltak i et avgrenset geografisk område.

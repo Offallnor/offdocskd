@@ -1,851 +1,114 @@
-# NOU 2019: 3, del 13 av 25 (side 152–164)
+# NOU 2019: 3, del 13 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 152]
+## Skolekvalitet
 
-150
+Skolekvalitet er et omstridt begrep som ikke er godt definert i forskningslitteraturen. Noen studier har sammenlignet elever som ved en tilfeldighet har havnet på skoler som regnes som gode, mot alternativet, og undersøkt hvilken effekt dette har på elevprestasjoner. Andre igjen har observert samme elev ved flere tidspunkter og brukt forskjeller i denne differansen mellom skoler som et mål på skolebidraget til læringsutbytte. En tredje gruppe studier har undersøkt effekten av ressursbruk (f.eks. lærertetthet eller lærerkvalitet), herunder kjennetegn ved gode lærere, og effekten av ansvarliggjøring av skoleledere og lærere på elevenes skoleprestasjoner.
 
-Kapittel 10
+Det mangler norsk forskning som ser direkte på om skolekvalitet påvirker gutter og jenter ulikt. En studie av Bakken og Danielsen (2011) undersøker hva som karakteriserer en skole med store kjønnsforskjeller. De sammenligner to skoler – én der kjønnsforskjellen i skoleprestasjoner er stor sammenlignet med landsgjennomsnittet, og én skole som ligger under landsgjennomsnittet. De finner at skolen med relativt stor kjønnsforskjell i større grad består av elever med foreldre med lavere utdanningsnivå sammenlignet med skolen med små kjønnsforskjeller, og dermed også har elever med lavere prestasjoner. Når det gjelder undervisningspraksis ved skolen, finner de at ved skolen med store kjønnsforskjeller tillot lærerne i større grad ikke-faglige aktiviteter i timen, elevene fikk uklare tilbakemeldinger om hvilke regler for oppførsel som gjaldt, og skolen hadde en forholdsvis snill karakterpraksis (målt som avvik mellom standpunkt- og eksamenskarakterer). Denne studien kan imidlertid ikke si om denne undervisningspraksisen kom som en følge av store kjønnsforskjeller i skoleprestasjoner, eller om det er på grunn av denne undervisningspraksisen at det er store kjønnsforskjeller – altså om det er viktigere for gutter med mer strukturert skolehverdag enn for jenter, kanskje på grunn av at de har lavere grad av selvregulering, og at det er flere gutter med atferdsproblemer sammenlignet med jenter. Det er også en mulighet at kjønnsforskjellene og kjennetegnene ved skolene ikke har noe med hverandre å gjøre, og det er usikkert hvorvidt disse funnene kan generaliseres.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Det er få internasjonale studier som ser på om skolekvalitet har ulik effekt på gutter og jenter. En studie fra USA som bruker skolens bidrag til elevenes læring som et mål på skolekvalitet, finner at gutter i større grad gjør det bedre på skolen når skolekvaliteten er høyere, sammenlignet med jentene. Gutter tjener mer på å gå på skoler av høyere kvalitet enn det jenter gjør, målt ved testresultater i lesing og matematikk. I tillegg finner de at gutter som går på skoler med høyere kvalitet har mindre fravær og færre utvisninger (Autor, Figlio, Karbownik, Roth & Wasserman, 2016b).
 
-ble pedagogisk praksis i skrive- og leseundervisningen i England kritisert for å bestå av for mye frilesning med liten eller ingen involvering av læreren og høytlesning av enkeltelever, og for lite bruk
-av systematisk undervisning i fonetisk kjennskap
-og ferdigheter. Hovedidéen bak den nye praksisen
-var mer fokusert og strukturert undervisningstid
-og mer effektiv klasseromshåndtering. En time
-hver dag ble delt mellom 10–15 minutter til lesing
-eller skriving for hele klassen, 10–15 minutter der
-man jobbet med ord og setningsbygning, 25–30
-minutter med ledet gruppeaktivitet og en fellessesjon med refleksjon. Studien fant en positiv effekt
-av dette programmet for elever i alderen 5–11 år
-på den nasjonale prøven for elleveåringer. De finner større effekt for gutter enn for jenter. Tilsvarende opplegg har blitt testet ut i matematikk i
-England – såkalt Numeracy Hour. Machin og
-McNally (2005) finner en positiv effekt av dette på
-elevenes skoleprestasjoner, der effekten var større
-for jenter enn for gutter.
-Klasseledelse beskriver retningslinjer for
-lærere slik at de kan forebygge og redusere bråk
-og uro i klasserommet, samt skape produktiv
-arbeidsro i en skoleklasse. God klasseledelse forventes å påvirke elevenes skoleprestasjoner på en
-positiv måte; hvis det går mindre tid til å å få klassen i orden og holde ro i timene, så bør det blir
-mer tid til aktiv læring. Forskningen om klasseledelse har først og fremst hatt sosiale utfallsvariabler, som positive vurderinger av læringsmiljøet
-fra elever og/eller lærere. Marzano, Marzano og
-Pickering (2003) konkludere imidlertid sin metaanalyse med at elevenes gjennomsnittsprestasjoner lå omtrent et halvt standardavvik høyere i
-klasser som hadde god klasseledelse sammenlignet med klasser som ikke hadde et slikt tiltak. W.
-Doyle (2006) konkluderer med at en klasse som
-er godt ledet, ikke nødvendigvis er en klasse som
-presterer bra. Lærere kan være mer opptatt av
-aktivitetsflyten i klassen enn av at elevene skal
-prestere og gir derfor elevene lettere oppgaver
-som gir lite nøling og motstand. En nyere metaanalyse av Oliver, Wehby og Reschly (2011) fant at
-læreres klasseledelse reduserte problematferd.
-Det var mindre forstyrrende, upassende og
-aggressiv oppførsel i forsøksklassene sammenlignet med klasser som ikke fikk noen tiltak. Gode
-klasseledere kan med andre ord forvente mer
-positiv elevatferd, noe som skaper en gunstig kontekst for virksom undervisning. Men effekten av
-god klasseledelse ble også i disse studiene målt
-som reduksjon i bråkete og atferd, og ikke i forhold til elevenes faglige prestasjoner.
+En tilgrensende litteratur fra USA ser på effekten av om elevene får gå på den videregående skolen som de hadde som første prioritering. I enkelte skolekretser må elevene lage liste over tre prioriterte skoler, og elevene blir tildelt plass på disse skolene ved loddtrekning. Dersom de ikke får plass ved en av disse skolene, blir de tildelt plass på nærskolen. De sammenligner da testresultater og atferd for de som har lignende prioritering, men som havner på en prioritert versus ikke-prioritert skole. De som «vant loddtrekningen» havnet i større grad på skoler av høy kvalitet målt ved skolebidragsindikatorer. Hastings, Kane og Staiger (2006) finner at jenter – og da særlig jenter fra majoritetsbefolkningen – får bedre skoleresultater dersom de blir tildelt skoleplass på den skolen som er førstevalget, men de finner ingen tilsvarende effekt på gutter. Som forklaring indikerer de at jenter i større grad benyttet seg av de mulighetene som var til stede på en mer krevende skole. Deming, Hastings, Kane og Staiger (2014) finner at å få innfridd sitt skoleønske øker fullføringen av høyere utdanning for jenter, men de finner ingen effekt på gutter. Disse artiklene kan ikke skille mellom bidragene fra medeleveffekter, lærerkvalitet og skolekvalitet.
 
-Oppsummert tyder denne forskningen på at
-mye kan gjøres for å gi lærere verktøy som gjør
-dem bedre. Struktur og pedagogisk innhold synes
-å være viktig for elevprestasjoner. God klasseledelse reduserer problematferd som skaper en
-gunstig kontekst for virksom undervisning. Det
-finnes eksempler på at disse faktorene særskilt
-har løftet gutters skoleprestasjoner.
+Landaud, Ly og Maurin (2016) finner at i Frankrike påvirker karakterbasert inntak til selektive videregående skoler valg av fagsammensetning i videregående opplæring for jenter, men ikke for gutter. Effekten av å havne på en mer selektert skole der gjennomsnittskarakterene til medelever er høyere sammenlignet med en skole der gjennomsnittskarakterene til medelever er lavere, er at jenter i større grad velger bort STEM-fag. Den negative effekten på jenters valg av STEM-fag er størst blant de flinkeste jentene. Det har imidlertid ingen effekt på guttenes valg av fag. De finner ingen effekt på avgangseksamen fra videregående opplæring. Det kan være at det å gå på en selektiv videregående skole der medelevene er flinkere enn på andre skoler, gir økt konkurranse, kanskje særlig i de mer prestisjefylte realfagene. Resultatene i Landaud mfl. (2016) er forenlige med resultater fra økonomiske eksperimenter som viser at kvinner i større grad unngår konkurransesituasjoner (Croson & Gneezy, 2009; Niederle & Vesterlund, 2011), og at personer som viser seg å være mer konkurranseorienterte i eksperimenter, i større grad velger matematikk (Buser mfl., 2014; Niederle & Vesterlund, 2010).
 
-10.4.5 Bruk av teknologiske hjelpemidler
-Bulman og Fairlie (2016) oppsummerer mulige
-mekanismer for hvordan digitale læringsverktøy
-kan øke elevenes læringsutbytte. Verktøyene har
-potensial til i større grad å kunne gi eleven mulighet til å lære i sitt eget tempo og tilpasset hans
-eller hennes eget nivå, ved at verktøyene anvender programvarer med adaptiv læringsteknologi.
-På denne måten kan undervisningen bli tilpasset
-elevenes sterke og svakere ferdigheter. Programmene tillater selvstendig bruk uten direkte innblanding fra læreren, slik at eleven vil kunne få
-mer individualisert undervisningstid, samtidig
-som lærere og foresatte følger med (Barrow,
-Markman & Rouse, 2009). Internett er en kilde til
-å skaffe informasjon. I tillegg er internett og IKT
-interaktive læremidler, noe som kan gjøre at det
-er lettere å holde på elevenes oppmerksomhet
-relativt til tradisjonelle undervisningsmetoder.
-Økt etterspørsel etter digitale ferdigheter på
-arbeidsmarkedet som en følge av den teknologiske utviklingen, er også et argument i seg selv
-for å øke tilgangen til PC/nettbrett og internett i
-skolen, slik at alle har mulighet til å tilegne seg
-viktige digitale ferdigheter, uavhengig av om de
-har tilgang hjemme.
-Investering i og bruk av IKT i skolen kan også
-ha negative effekter på elevenes prestasjoner
-(Bulman & Fairlie, 2016). Ressurser som benyttes
-til å kjøpe inn IKT-utstyr til skolen, kan fortrenge
-annen ressursbruk i skolen. Videre vil tid som blir
-brukt på undervisning ved bruk av teknologiske
-hjelpemidler fortrenge tradisjonell klasseromsundervisning. Om økt grad av innkjøp og bruk av
-IKT-utstyr har en netto positiv eller negativ effekt
-på elevenes læringsutbytte, avhenger blant annet
-av om de er mer læringsfremmende sammenlignet med tradisjonell ressurs- og undervisningspraksis i skolen.
-Et viktig spørsmål er dermed om lærerne og
-elevene vet å bruke digitale verktøy etter hensikten. Fra lærerens side kan det være at de mangler
-opplæring i hvordan digitale verktøy bør brukes i
-undervisningen, og undervisningstid kan gå bort
-grunnet tekniske problemer. Selv om internett er
+Clark og Del Bono (2016) ser på langtidseffekter av å gå på eliteskoler i Storbritannia. Elevene ble fordelt på de ulike skoletypene ved tolvårsalderen. De finner en positiv effekt på antall år med utdanning og på fullføring av videregående opplæring for både kvinner og menn. Forfatterne diskuterer hvorvidt den positive effekten reflekterer høyere barrierer til videre fulltidsutdanning for elever som ikke havnet på eliteskoler. For eksempel kan det være slik at elever som gikk på andre skoler, tok fag som i mindre grad bedrer prestasjonen i høyere utdanning. Sammenlignet med eliteskolene tilbød andre skoler færre fag som var relevante for høyere utdanning. I tillegg kan det ha vært forskjeller i medeleveffekter. De fant også en liten effekt på inntekt og sysselsetting på lang sikt.
 
-[Side 153]
+Böhlmark og Lindahl (2015) undersøker effekten av den betydelige økningen i friskoler i Sverige på 1990-tallet. Det ble mulig å opprette friskoler, og elever kunne fritt velge om de ville gå på en offentlig skole eller en av de uavhengige skolene. Pengene fulgte da eleven. Disse friskolene måtte ikke ha noen spesiell pedagogikk. Dette førte til økt konkurranse om elevene ettersom finansieringen av de offentlige skolene ble avhengig av antall elever og ble direkte påvirket dersom elevene valgte friskoler. Etter at friskolene hadde vært etablert en stund, finner den svenske studien at dette hadde en positiv effekt på elevene. Analysene indikerer at den positive effekten ikke handler om at de svenske friskolene er så mye bedre i seg selv, men at de førte til økt konkurranse om elevene, noe som også gjorde at elevene ved de offentlige skolene ble bedre.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Det er økt fokus på ansvarliggjøring av skoleledere og lærere for elevenes prestasjoner internasjonalt, også i Norge. I 2002 innførte for eksempel Oslo en ordning der skoleledere ble holdt ansvarlig for elevenes prestasjoner overfor skoleeierne. Dette ble gjennomført ved at det blant annet ble innført årlige møter mellom skoleeier og hver enkelt rektor der de diskuterte elevresultatene. Et annet eksempel er offentliggjøringen av skolebidragsindikatorer – skolens bidrag til elevenes læring når andre relevante bakgrunnsfaktorer er kontrollert for, som for eksempel tidligere elevprestasjoner og foreldrebakgrunn (E. Markussen, Flatø & Reiling, 2017; Steffensen, Ekren, Zachrisen & Kirkebøen, 2017; B. Strøm, Falch, Iversen & Nyhus, 2016).
 
-en kilde til informasjon, er det også en kilde til distraksjon. Riktig bruk krever at lærerne klarer å
-holde oversikt over hva elevene nytter tiden til når
-de bruker PC eller nettbrett i undervisningen.
-Dersom tilgangen til internett i undervisningen
-benyttes til andre ting enn det som den er ment til,
-kan det ha negative konsekvenser for elevenes
-læringsutbytte. En studie fra høyere utdanning i
-USA har vist at å bruke PC eller nettbrett til andre
-aktiviteter enn det som er relevant for forelesningen har en negativ effekt på studenten selv
-og medstudenter (Sana, Weston & Cepeda, 2013).
-I tillegg er det forskning fra høyere utdanning
-som viser at man husker bedre dersom man tar
-notater med penn og papir, sammenlignet med
-bruk av PC eller nettbrett (Mueller & Oppenheimer, 2014). Videre finner S. P. Carter, Greenberg
-og Walker (2017) en negativ effekt av å kunne
-bruke nettbrett eller PC under forelesninger på
-slutteksamen i et fag. Foreløpig er ikke tilsvarende undersøkelser blitt gjennomført i skolen.
-Det er få studier som ser konkret på om det er
-ulik effekt for gutter og jenter (Wollscheid mfl.,
-2018). En mulig hypotese om hvorfor gutter og
-jenter kan få ulikt læringsutbytte av f.eks. PC-bruk
-i skolen, kan være at de benytter utstyret på ulike
-måter, for eksempel dersom gutter bruker tilgangen til PC på andre ting enn skolearbeid. På den
-annen side kan det være slik at gutter gjør det
-bedre når de får bruke PC, dersom dette i større
-grad sammenfaller med deres fritidsinteresser,
-eller fordi en større andel gutter har lese- og skrivevansker, og det å kunne skrive på PC kan være
-en ekstra støtte for denne elevgruppen. Muralidharan, Singh og Ganimian (2019) finner ingen
-kjønnsforskjell i effekten av et stort randomisert,
-kontrollert eksperiment i India som ga elevene tilgang til et individualisert instruksjonsprogram, til
-tross for at dataprogrammet bedret elevenes
-læringsutbytte.
+Figlio og Loeb (2011) oppsummerer litteraturen som omhandler systemer for ansvarliggjøring som gir belønning eller sanksjoner til skoler på bakgrunn av aggregerte elevprestasjoner på standardiserte tester. De konkluderer med at det finnes mange ulike måter å implementere ansvarliggjøringen på, og at hva som fungerer best, kan være kontekstavhengig. De peker også på at ansvarliggjøring av skolene fungerer best dersom skolene har handlingsrom til å gjøre endringer. Utfordringer ved ordninger for ansvarliggjøring er at det kan bli økt fokus på kortsiktige mål som er enkle å måle på bekostning av andre samfunnsoppdrag i skolen, og at for mye ytre kontroll kan ødelegge for skolens og lærernes indre motivasjon ved at det undergraver lærerprofesjonen. En norsk studie finner at introduksjonen av skolebidragsindikatorer og ansvarliggjøring av skoleledere i ungdomsskolen i Oslo i 2005 førte til økt frafall av lærere (Gjefsen & Gunnes, 2016). De fleste lærerne som valgte å slutte som følge av dette, forlot læreryrket og ble erstattet av lærere som klarte å skape gode elevresultater.
+
+Litteraturen om skolekvalitet finner til dels betydelige forskjeller i faglige prestasjoner og fullføringsgrad mellom skoler gitt likt elevgrunnlag, også i Norge. Få studier ser på hvordan dette påvirker kjønnsforskjeller i skolen, og resultatene av disse studiene er ikke entydige. Med dette kunnskapsgrunnlaget trengs kvantitative studier på norske skoler for å si noe om sammenhengen mellom skolebidrag og kjønnsforskjeller i skolen.
+
+### Lærertetthet
+
+Tall fra Utdanningsdirektoratet (2018b) viser at gjennomsnittlig antall elever per lærer på 1.–7. trinn i Norge ligger på 12,9, og på 8.–10. trinn ligger dette på 14,2 i skoleåret 2017–2018. Det er vedtatt en lærernorm som gradvis innføres fra og med skoleåret 2018–2019. Denne angir at antall elever per lærer på 1.–4. trinn og 5.–10. trinn ikke kan overstige henholdsvis 15 og 20 elever per lærer. Lærernormen sier imidlertid ingenting om hvordan de ekstra lærerressursene skal brukes, og det er ikke nødvendigvis slik at ressursene vil bli benyttet til å redusere klassestørrelsen: Mindre klasser vil i de fleste tilfeller bety at det blir flere klasser per trinn – da vil man også ha behov for flere klasserom. En alternativ måte å bruke flere lærere på er for eksempel tolærerordningen, der det er to lærere i samme klasserom / for samme elevgruppe.
+
+En betydelig litteratur ser på effekten av ressursbruk i skolen på elevenes skoleprestasjoner – og da særlig på effekten av mindre klassestørrelse. Redusert klassestørrelse kan påvirke elevenes læring ved at læreren får mer tid til hver elev, og ved at det blir færre forstyrrelser i undervisningen fordi det er færre elever i samme klasse (Lazear, 2001). Dette impliserer også at man kan forvente en større effekt av reduserte klassestørrelser i klasser med større innslag av uro. I tillegg kan det være at mindre klasser tillater en annen undervisningspraksis enn større klasser.
+
+Det finnes flere norske studier som ser på effekten av klassestørrelse på skoleprestasjoner. En studie fra Norge som ser på effekten av mindre klasser for underprivilegerte elever på barnetrinnet, finner en positiv effekt på skoleresultater for elever med foreldre med utdanning på videregående nivå eller lavere, og størst effekt for barn av skilte foreldre (Vaag Iversen & Bonesrønning, 2013). De undersøker ikke om det er forskjellig effekt for gutter og jenter. Leuven, Oosterbeek og Rønning (2008) finner ingen effekt av klassestørrelse for elever på ungdomstrinnet – hverken i gjennomsnitt eller for undergrupper. De finner tilsvarende effekter for gutter, jenter og barn av foreldre med ulikt utdanningsnivå. En evaluering av effekten av økt lærertetthet på ungdomstrinnet finner ingen effekt av økte lærerressurser for ungdomsskoleelever, hverken i gjennomsnitt eller etter elevers kjønn, minoritetsbakgrunn eller foreldres utdanningsnivå (Kirkebøen, Kotsadam, Raaum, Andresen & Rogstad, 2017).
+
+Det finnes tilsvarende studier for både Sverige og Danmark. Svensk forskning finner positiv effekt av mindre klasser for elever i aldersgruppen 10–13 år (Fredriksson, Öckert & Oosterbeek, 2012). De finner en positiv effekt på kognitive og sosiale og emosjonelle ferdigheter målt når eleven er 13–18 år, og på inntekt og antall år med utdanning ved 27–42 år. De finner samme effekt for begge kjønn. Dansk forskning finner en liten positiv effekt på fullføring av videregående opplæring og antall år i høyere utdanning av redusert klassestørrelse for elever på ungdomstrinnet. Resultatene indikerer at effekten er størst for elever fra en underprivilegert bakgrunn (Browning & Heinesen, 2007). Heinesen (2010) finner en positiv og betydelig effekt av redusert klassestørrelse på eksamenskarakterer i fransk for elever på ungdomstrinnet. Effekten er størst for svakt presterende elever og for gutter.
+
+I USA har det blitt gjennomført utallige evalueringer av Tennessee STAR-prosjektet – et storskala eksperiment som ble gjennomført på midten av 1980-tallet. Elever i alderen 6–8 år ble tilfeldig delt inn i klasser bestående av enten 22 eller 15 elever. Elever fra en lav sosioøkonomisk bakgrunn var overrepresentert i skolene som deltok i prosjektet. Denne litteraturen blir oppsummert i blant annet Schanzenbach (2006). Forskningen viser en positiv effekt på skoleresultater, i størst grad for minoritetselever og elever fra lavinntektshjem. Det er like stor effekt for gutter og jenter. Lærerkvaliteten er også avgjørende for resultatene: Det er ingen effekt i de tilfeller der læreren har mindre enn fem års arbeidserfaring. Chetty mfl. (2011) finner at elever som gikk i mindre klasser, i større grad deltok i høyere utdanning.
+
+Annen internasjonal forskning har blandede resultater. Angrist og Lavy (1999) finner en positiv effekt på resultater i matematikk og lesing av redusert klassestørrelse for elever i 9–10-årsalderen i Israel. Woessmann og West (2006) finner ingen effekt av klassestørrelse for de fleste OECD-land. Hoxby (2000) finner ingen effekt av klassestørrelse i Connecticut, USA.
+
+Forskningslitteraturen fra Norge viser i sum lite som tyder på at økt lærertetthet øker elevenes skoleprestasjoner, hverken i gjennomsnitt eller for ulike undergrupper. I den internasjonale litteraturen har man funnet alt fra ingen til positive effekter av redusert klassestørrelse, og i flere tilfeller er effekten størst for elever fra en lav sosioøkonomisk bakgrunn. En mulig forklaring på dette kan være at foreldre responderer ulikt på økt klassestørrelse. Fredriksson, Öckert og Oosterbeek (2016) finner for eksempel at høyinntektsforeldre responderer på økt klassestørrelse ved å hjelpe barna mer med leksene. Det er lite i denne forskningen som tyder på at gutter og jenter har ulik avkastning av økt lærertetthet.
+
+### Lærerkvalitet – kjennetegn ved læreren
+
+En betydelig litteratur har funnet at lett målbare kjennetegn ved læreren – som f.eks. yrkeserfaring og utdanning – forklarer veldig lite av forskjellen i elevers prøveresultater (for en oppsummering, se Hanushek & Rivkin, 2012). Det eneste unntaket er at helt nyutdannede lærere jevnt over fungerer litt dårligere enn de med mer erfaring de første to årene etter at de begynner i læreryrket. Dette kan enten bety at lærerkvalitet ikke er viktig for elevenes læringsutbytte, eller at disse kjennetegnene ved læreren er et dårlig mål på lærerkvalitet. Forskning som måler lærerens bidrag til elevenes læringsbytte i et gitt skoleår, finner at dette varierer betydelig mellom lærere, noe som tyder på at de lett målbare kjennetegnene ved lærere ikke reflekterer de sentrale elementene i lærerkvalitet. Hanushek og Rivkin (2012) trekker følgende implikasjoner av sin kunnskapsoppsummering om hvordan man kan heve kvaliteten på undervisningen: Forfatterne mener at man ikke nødvendigvis kan øke undervisningskvaliteten ved å gjøre opptaket til lærerutdanningen vanskeligere. Dette kan gjøre at færre ønsker å bli lærere fordi det øker kostnaden ved å bli lærer. Videre mener de at målstyring som fokuserer på sertifisering, utdanningsnivå eller erfaring for å tiltrekke seg bedre lærere, ikke nødvendigvis fører til bedre lærerkvalitet.
+
+Forskningslitteraturen fokuserer i større grad på at en god lærer er en lærer som jevnt over får elevene til å prestere høyere, etter at man har kontrollert for andre faktorer som bidrar til elevprestasjoner, som familiebakgrunn, tidligere prestasjoner og tidligere lærere. Denne måten å tenke på lærerkvalitet på har også blitt introdusert i noen skoledistrikter i USA, hvor den blir benyttet til lærerevalueringer (se f.eks. Isenberg & Hock, 2010). Det har vært uttrykt en bekymring for om teknikkene for å lage disse målene på lærerkvalitet påvirkes av faktorer som ikke kun har med lærerkvalitet å gjøre, men f.eks. gjenspeiler en fordeling av flinke elever til flinke lærere. Chetty, Friedman og Rockoff (2014a) utnytter blant annet variasjon fra lærere som bytter skole, og viser at bekymringen for om lærerbidragsindikatorene reflekterer seleksjon av elever mellom lærere innenfor samme skole i stor grad er uberettiget. Resultatene tyder på at lærerbidragsindikatorene er et godt mål på lærerens effekt på elevenes læringsutbytte. Chetty, Friedman og Rockoff (2014b) finner en positiv effekt av å ha en god lærer målt med læringsbidragsindikatorer på sannsynligheten for å delta i høyere utdanning og for inntekt, og lavere sannsynlighet for tenåringsgraviditeter. Dette betyr at lærerne som skårer høyt på lærerbidragsindikatorene, ikke kun er flinke til å undervise frem mot prøvene. Imidlertid er dette noe som potensielt kan endre seg over tid dersom dette målet på lærerkvalitet blir benyttet, og man bør videreutvikle målene på lærerkvalitet og se hvordan dette henger sammen med for eksempel evalueringer av klasseromspraksis.
+
+Fortsatt vet man for lite om hva som kjennetegner en god lærer. Imidlertid finner nyere forskning at lærerens kognitive ferdigheter er sterkt knyttet til elevprestasjoner. Hanushek, Piopiunik og Wiederhold (2018) bruker variasjon i fagspesifikke ferdigheter for lærere i ulike land fra PIAAC sammen med elevenes resultater i kognitive ferdigheter fra testresultater i PISA. De finner at forskjeller i lærernes kognitive ferdigheter kan forklare en betydelig del av variasjonen i PISA-resultater mellom land. De undersøker mekanismer som kan forklare forskjellen i læreres kognitive ferdigheter mellom land, og finner at forskjell i kvinners tilgang til gode jobber og hvor godt lønnet lærerjobber er sammenlignet med andre jobber, er viktige forklaringsfaktorer. Hermann og Diallo (2017) støtter dette funnet: I de fleste europeiske land er det påvist en større effekt på både gutter og jenter å ha en kvinnelig lærer enn en mannlig lærer. Dette er antagelig fordi kvinnelige lærere er mer positivt selektert enn mannlige lærere. Effekten av å ha en kvinnelig lærer er større i land der lærerlønninger relativt til andre yrkers lønninger er høyere for kvinner enn for menn.
+
+Lærer av samme kjønn
+
+I norske skoler er det et overveiende flertall av kvinnelige lærere. I skoleåret 2017–2018 var 75 prosent av lærerne på 1.–10. trinn kvinner. Flere har spekulert på om dette slår uheldig ut for gutter. Det er to mekanismer som kan forklare hvorfor en elev kan få bedre skoleprestasjoner av å ha en lærer av samme kjønn. Den første mekanismen er såkalte rollemodelleffekter, og innebærer at lærere oppfattes som rollemodeller, og at elevene identifiserer seg mer med en lærer av samme kjønn. Dersom dette er tilfellet, vil gutter være mer motiverte og engasjerte i timen dersom de undervises av en mann (Dee, 2007). Den andre mulige mekanismen er at lærere vurderer gutter og jenter ulikt grunnet bakenforliggende fordommer og stereotypier. Hovedutfordringen som man må håndtere for å kunne studere effekten av lærerens kjønn på skoleresultater, er at det er en ikke-tilfeldig fordeling av elever til ulike klasserom og skoler. Eksempelvis kan det være slik at en elevgruppe med svake resultater har større sannsynlighet for å få en lærer av et spesifikt kjønn. Bakken (2009) finner for eksempel at det i Norge er en relativt høyere andel kvinnelige lærere på skoler hvor elevenes foreldre har høy utdanning og inntekt, altså en gruppe elever som man vil forvente presterer relativt godt grunnet sin foreldrebakgrunn.
+
+Det foreligger ingen norske studier som undersøker direkte om gutter ville gjort det bedre på skolen om de ble undervist av mannlige lærere. Bakken (2009) ser på sammenhengen mellom andelen kvinnelige lærere på en skole og jenter og gutters skoleprestasjoner, og finner ingen forskjell.
+
+Internasjonal forskning har sett på dette forskningsspørsmålet ved bruk av eksperimentelle metoder og naturlige eksperimenter for å ta hensyn til ikke-tilfeldig fordeling av lærer–elev-kombinasjoner. Forskning som sammenligner skoleprestasjoner for samme elev i de fagene/årene de har mannlig lærer, med fagene/årene da de har kvinnelig lærer, finner ulike resultater. Dee (2007) finner en positiv effekt av å ha en lærer med samme kjønn for både gutter og jenter i alderen 13–14 år i USA. Muralidharan og Sheth (2016) finner at jenter på barnetrinnet i India gjør det signifikant bedre når de har en kvinnelig lærer, mens lærerens kjønn ikke påvirker gutters skoleresultater. Paredes (2014) viser små effekter på standardiserte tester for jenter i Chile av å ha en lærer med samme kjønn, men ingen effekt for gutter, og antyder at resultatet drives av rollemodelleffekter.
+
+Holmlund og Sund (2008) ser på hva lærerens kjønn har å si for prestasjonene til elever i videregående skoler i Stockholm, og utnytter variasjon som kommer av at samme elev har flere lærere i løpet av skoleårene, også i samme fag. De finner ingen effekt av lærerens kjønn på gutter eller jenter i Stockholm, utover effekten av at det er flere mannlige lærere i fag der gutter gjør det relativt godt. Cho (2012) bruker TIMMS-data til å se på effekten av lærerens kjønn på testresultater i matematikk og naturfag i 15 OECD-land – inkludert Norge – og finner liten indikasjon på at lærerens kjønn påvirker elevenes testresultater.
+
+Et par studier benytter seg av variasjon som følge av tilfeldig plassering av elever i klasserom med enten mannlig eller kvinnelig lærer. Lim og Meer (2017) finner at for jenter i Sør-Korea er det positivt med en kvinnelig lærer, men at lærerens kjønn ikke har noe å si for gutter. De finner også at denne forskjellen er drevet av lærerens atferd. Antecol, Eren og Ozbeklik (2014) undersøker effekten av lærerens kjønn i skoler i noen vanskeligstilte nabolag i USA og finner en negativ effekt av kvinnelig lærer på jenters prøveresultater i matematikk, men ingen effekt på gutters prøveresultater. Dette resultatet forsvinner når de ser på jenter som blir undervist av en kvinnelig lærer med en solid fagbakgrunn i matematikk. De argumenterer for at dette resultatet er forenlig med en hypotese om at kombinasjonen av matematikkangst hos kvinnelige lærere og stereotypiske oppfatninger av at kvinner er dårlige i matematikk, fører til at det å ha en kvinnelig lærer har negativ effekt på matematikkferdighetene til jenter, men ikke til gutter (Beilock, Gunderson, Ramirez & Levine, 2010).
+
+Den internasjonale litteraturen som tar for seg dette temaet på en troverdig måte, finner ikke at det er ufordelaktig for gutter å ha en kvinnelig lærer. Studien fra videregående skoler i Stockholm ligger tettest opp mot norske forhold og har et godt forskningsdesign. Den finner ingen effekt av å ha en lærer av samme kjønn. Imidlertid vet vi mindre om hvorvidt lærerens kjønn i grunnskolen påvirker skoleprestasjonene til gutter og jenter.
+
+### Vurderingsform
+
+Kjønnsforskjellene i ferdigheter varierer noe med vurderingsform, dvs. om det er standpunktkarakterer, eksamenskarakterer eller nasjonale og internasjonale tester som er uten betydning for elevens videre progresjon i utdanningssystemet. Videre er det slik at selv om eksamens- og standpunktkarakter i et fag skal måle det samme, er kjønnsforskjellen vanligvis mindre målt ved skriftlige eksamenskarakterer enn ved standpunktkarakterer (Statistisk sentralbyrå, 2017). OECD fant også at hvorvidt testen blir tatt hjemme eller på skolen, kan påvirke elevenes resultater, ved at norske gutter skårer bedre på tester som blir gjennomført i hjemmet enn på skolen (Borgonovi mfl., 2018).
+
+Det finnes flere mulige forklaringer på dette. For det første kan det være at standpunktkarakterer måler mer enn ferdigheter og fagkunnskap. Skriftlig eksamen er en anonymt rettet prøve, mens standpunktkarakteren settes av læreren, som dermed også kan reflektere andre ferdigheter der jenter gjør det bedre enn gutter. For eksempel kan standpunktkarakterer i større grad fange opp klasseromsinteraksjon og dermed forskjeller i sosiale ferdigheter hos jenter og gutter. Cornwell, Mustard og Van Parys (2013) finner at forskjellen mellom en anonymt rettet eksamen og standpunktkarakter forsvinner når de kontrollerer for sosiale og emosjonelle ferdigheter hos elevene. Machin og McNally (2005) finner at økte kjønnsforskjeller i Storbritannia sammenfalt med innføringen av et vurderingssystem der innleveringer og arbeid over tid i større grad ble vektlagt. Gustavsen (2018) finner at høyere lærervurdering av jenters prestasjoner i norsk og matematikk i Norge henger sammen med at jenter har bedre sosiale ferdigheter. Hun finner også at jenter har større sannsynlighet for å bli vurdert høyt i norsk og matematikk når de har mannlige lærere fremfor kvinnelige, noe som kan bety at mannlige lærere verdsetter sosiale ferdigheter mer enn det kvinnelige lærere gjør. Falch og Naper (2013) finner at en større kjønnsforskjell i standpunktkarakterer enn i eksamenskarakterer i norsk og matematikk skriftlig henger sammen med karakteristikker ved lærerstaben på skolenivå, noe de antyder kan forklares med ulik lærer–elev-interaksjon i klasserommet i jenters favør. Ved skoler med høyere andel kvinnelige lærere er kjønnsforskjellen i jenters favør i norsk lavere. Lærerens kjønn har derimot ikke noe å si for hvordan jenter og gutter vurderes i matematikk, men ved skoler med en større andel uerfarne lærere får jenter relativt bedre karakterer i matematikk.
+
+For det andre kan lærervurdering i større grad enn eksamen reflektere kjønnsstereotypiske forventninger som går i guttenes disfavør. Lavy (2008) finner at gutter gjør det bedre på anonymt rettede prøver relativt til lærerrettede prøver i samme fag ved videregående skoler i Israel, sammenlignet med jenter i språkfag, naturfag og matematikk. Analyser av ulike årsaksforklaringer indikerer at dette reflekterer kjønnsstereotypiske forventninger i gutters disfavør. En studie fra Sverige finner at jenter får systematisk bedre standpunktkarakterer sammenlignet med gutter som gjør det like godt på nasjonale eksamener (Lindahl, 2007). Tilsvarende viser denne studien at en større andel mannlige lærere på skolen bidrar til en større kjønnsforskjell i gutters disfavør på lærervurderte prøver. En svakhet ved begge disse studiene er at det ikke er eksakt samme prøve som rettes både anonymt og av læreren. Det kan dermed være andre forklaringer på at gutter gjør det bedre på den anonymt rettede prøven. Hinnerich, Höglin og Johannesson (2011) gjør en lignende øvelse blant videregående avgangselever i Sverige, men der det samme prøvesvaret i svensk skriftlig blir rettet av elevens egen lærer, for deretter å bli gjort anonymt (alle kjennetegn ble fjernet, og prøvesvarene ble skrevet på PC), og vurdert på nytt av en ekstern sensor. Dette gjør at de er sikre på at prøvene er helt like, og at kjønnsforskjeller på ulike prøver ikke reflekterer forskjeller i prøvene eller prøvesituasjonen. De finner at de eksterne sensorerene vurderer elevene litt strengere enn det elevenes egne lærere gjør, men de finner ikke at kjønnsforskjellen er mindre på den anonymt rettede prøven enn på den lærerrettede prøven. Dette tyder på at kjønnsforskjellen i vurdering i svensk skriftlig ikke reflekterer diskriminering i gutters disfavør.
+
+For det tredje kan det være forskjell i vurderingssituasjonen. Forskning finner at kvinner gjør det relativt dårligere i situasjoner med mer konkurranse (Croson & Gneezy, 2009). Dersom eksamenssituasjonen oppfattes som en mer konkurransepreget situasjon, kan dette forklare en mindre kjønnsforskjell målt ved eksamenskarakterer. Resultatet fra eksamen teller som en hel karakter på vitnemålet, mens standpunktkarakteren vurderes av elevens lærer og kan dermed reflektere resultatet på flere prøver. I tilknytning til dette finner Gneezy mfl. (2017) en positiv effekt av ytre motivasjon på standardiserte prøver for gutter, og at dette i mindre grad påvirker jenters prøveresultater. De forklarer forskjellen med en kjønnsforskjell i indre motivasjon, og argumenterer for at dette er i tråd med litteraturen om kjønnsforskjeller i hvordan menn og kvinner reagerer på insentiver (Attali, Neeman & Schlosser, 2011; Azmat, Calsamiglia & Iriberri, 2016; Croson & Gneezy, 2009; Levitt, List, Neckermann & Sadoff, 2016). Dette passer imidlertid ikke med de norske resultatene fra nasjonale prøver og internasjonale undersøkelser som TIMMS og PISA, der kjønnsforskjellene er mindre enn kjønnsforskjellene i både standpunkt- og eksamenskarakterer. Resultatene fra nasjonale prøver og internasjonale undersøkelser har ikke like store personlige konsekvenser som standpunkt- og eksamenskarakterene ettersom de ikke kommer på vitnemålet til elevene, og skulle etter denne hypotesen virke mindre motiverende på gutters prestasjonsvilje. Imidlertid finnes det også studier der ytre motivasjon har vist seg å ha en større effekt på jenter enn på gutter. Angrist og Lavy (2009) undersøker effekten av å tilby økonomiske insentiver til lavt presterende elever i israelske skoler for å bestå en eksamen som kreves for å kunne bli tatt opp til høyere utdanning. De finner en positiv effekt på andelen jenter som besto, men ingen effekt for gutter. Jenters gjennomføring økte blant annet fordi jentene brukte mer tid på å forberede seg til eksamen.
+
+Flere studier, både internasjonale og norske, tyder på at kjønnsforskjeller i sosiale ferdigheter gjenspeiles i prøver som lærere retter. Det finnes også noe evidens for at vurderingssituasjonen i seg selv er av betydning – gutter gjør det bedre i prøvesituasjoner med mer konkurranse. Men det er ikke klart om forskjellen mellom eksamenssituasjonen og prøver/heldagsprøver som bidrar til standpunktkarakterer i Norge, er såpass stor at dette kan være hovedforklaringen. Det er derimot lite som tyder på at forskjellen mellom lærer- og anonymt rettede prøver skyldes lærernes kjønnsstereotypiske forventninger. Den mest solide studien som undersøker dette, er fra Sverige, og den finner ikke resultater som samsvarer med denne hypotesen. En nyere utvikling i måten man gjennomfører prøvesituasjonen på, kan også bidra til å minske kjønnsforskjeller i vurderingssituasjonen over tid: Det er en utvikling i retning av at flere prøver gjennomføres digitalt, og studier har funnet at kjønnsforskjellene er noe mindre når prøven er gjennomført digitalt, enn ved papirbaserte prøver (Borgonovi, 2016). I Norge synes det imidlertid å være tilfellet at det ikke er noen større fordel for gutter enn for jenter at prøven gjennomføres digitalt (Borgonovi mfl., 2018).
+
+### Undervisningspraksis
+
+Dobbie og Fryer Jr (2013) ser på sammenhengen mellom ulike læringsformer og skolekvalitet ved friskoler i USA – såkalte *charter schools*. Studien viser at ulike undervisningspraksiser – hyppige tilbakemeldinger fra lærere, bruk av underveisvurdering til å gi tilpasset opplæring, intensivundervisning, økt undervisningstid og høye forventninger til elevene – forklarer rundt halvparten av variasjonen i skolekvalitet. Tradisjonelle mål på innsatsfaktorer i skolen, som klassestørrelse, utgifter per elev, lærersertifisering og andelen kvalifiserte lærere, samvarierte ikke med skolekvalitet. Fryer Jr (2014) ser på effekten av å implementere de ovennevnte beste praksisene fra friskoler i USA, i tillegg til bedre lærere og administratorer, i lavt presterende offentlige skoler i USA. Resultatene viser en betydelig effekt på matematikkresultatene, men liten effekt på leseferdigheter. De finner en litt større effekt på resultater i matematikk og lesing for jenter på barnetrinnet, mens de på mellom- og ungdomstrinnet finner en litt større effekt i matematikk for gutter.
+
+En spesiell type friskoler i USA går under betegnelsen «No Excuses». En metastudie av disse skolene finner en stor positiv effekt på elevenes testresultater i matematikk og lesing av å gå ett år på en slik skole (Cheng, Hitt, Kisida & Mills, 2017). Praksisen ved disse skolene er kjennetegnet av streng disiplin, regelmessig testing, utvidet undervisningstid, og intensivundervisning i grunnleggende ferdigheter i lesing og matematikk (S. C. Carter, 2000; Thernstrom & Thernstrom, 2004). Videre har de høye akademiske forventninger til alle sine elever og er opptatt av at elevene skal over i høyere utdanning (Cheng mfl., 2017). Chabrier, Cohodes og Oreopoulos (2016) undersøker effekten av ulike typer av disse friskolene og finner at mye av forklaringen på at «No Excuses»-skolene gjør det så bra, er at de ligger i fattige, urbane strøk hvor det alternative offentlige skoletilbudet holder svært lav kvalitet. Når de undersøker de ulike komponentene ved friskolene og tar hensyn til kvaliteten på de offentlige skolene i området, finner de at den viktigste komponenten som bidrar til økte skoleprestasjoner, er intensivundervisningen. Enkelte studier har undersøkt effekten av disse skolene for ulike undergrupper. Angrist, Pathak og Walters (2013) finner større effekt på matematikkresultater for jenter, relativt til gutter, og motsatt i engelsk. Det er større effekt for minoritetselever, svakt presterende elever og elever fra lavinntektshjem. Dobbie og Fryer Jr (2011) finner ikke forskjellig effekt for gutter og jenter på barne- eller mellomtrinnet.
+
+Et par studier ser på effekten av spesifikke undervisningsprogrammer på elevenes resultater. Machin og McNally (2008) ser på effekten av det som ble kalt Literacy Hour, en mer rigid og strukturert lese- og skriveundervisning enn det som var gjeldende praksis. Før innføringen av programmet ble pedagogisk praksis i skrive- og leseundervisningen i England kritisert for å bestå av for mye frilesning med liten eller ingen involvering av læreren og høytlesning av enkeltelever, og for lite bruk av systematisk undervisning i fonetisk kjennskap og ferdigheter. Hovedidéen bak den nye praksisen var mer fokusert og strukturert undervisningstid og mer effektiv klasseromshåndtering. En time hver dag ble delt mellom 10–15 minutter til lesing eller skriving for hele klassen, 10–15 minutter der man jobbet med ord og setningsbygning, 25–30 minutter med ledet gruppeaktivitet og en fellessesjon med refleksjon. Studien fant en positiv effekt av dette programmet for elever i alderen 5–11 år på den nasjonale prøven for elleveåringer. De finner større effekt for gutter enn for jenter. Tilsvarende opplegg har blitt testet ut i matematikk i England – såkalt Numeracy Hour. Machin og McNally (2005) finner en positiv effekt av dette på elevenes skoleprestasjoner, der effekten var større for jenter enn for gutter.
+
+Klasseledelse beskriver retningslinjer for lærere slik at de kan forebygge og redusere bråk og uro i klasserommet, samt skape produktiv arbeidsro i en skoleklasse. God klasseledelse forventes å påvirke elevenes skoleprestasjoner på en positiv måte; hvis det går mindre tid til å å få klassen i orden og holde ro i timene, så bør det blir mer tid til aktiv læring. Forskningen om klasseledelse har først og fremst hatt sosiale utfallsvariabler, som positive vurderinger av læringsmiljøet fra elever og/eller lærere. Marzano, Marzano og Pickering (2003) konkludere imidlertid sin metaanalyse med at elevenes gjennomsnittsprestasjoner lå omtrent et halvt standardavvik høyere i klasser som hadde god klasseledelse sammenlignet med klasser som ikke hadde et slikt tiltak. W. Doyle (2006) konkluderer med at en klasse som er godt ledet, ikke nødvendigvis er en klasse som presterer bra. Lærere kan være mer opptatt av aktivitetsflyten i klassen enn av at elevene skal prestere og gir derfor elevene lettere oppgaver som gir lite nøling og motstand. En nyere metaanalyse av Oliver, Wehby og Reschly (2011) fant at læreres klasseledelse reduserte problematferd. Det var mindre forstyrrende, upassende og aggressiv oppførsel i forsøksklassene sammenlignet med klasser som ikke fikk noen tiltak. Gode klasseledere kan med andre ord forvente mer positiv elevatferd, noe som skaper en gunstig kontekst for virksom undervisning. Men effekten av god klasseledelse ble også i disse studiene målt som reduksjon i bråkete og atferd, og ikke i forhold til elevenes faglige prestasjoner.
+
+Oppsummert tyder denne forskningen på at mye kan gjøres for å gi lærere verktøy som gjør dem bedre. Struktur og pedagogisk innhold synes å være viktig for elevprestasjoner. God klasseledelse reduserer problematferd som skaper en gunstig kontekst for virksom undervisning. Det finnes eksempler på at disse faktorene særskilt har løftet gutters skoleprestasjoner.
+
+### Bruk av teknologiske hjelpemidler
+
+Bulman og Fairlie (2016) oppsummerer mulige mekanismer for hvordan digitale læringsverktøy kan øke elevenes læringsutbytte. Verktøyene har potensial til i større grad å kunne gi eleven mulighet til å lære i sitt eget tempo og tilpasset hans eller hennes eget nivå, ved at verktøyene anvender programvarer med adaptiv læringsteknologi. På denne måten kan undervisningen bli tilpasset elevenes sterke og svakere ferdigheter. Programmene tillater selvstendig bruk uten direkte innblanding fra læreren, slik at eleven vil kunne få mer individualisert undervisningstid, samtidig som lærere og foresatte følger med (Barrow, Markman & Rouse, 2009). Internett er en kilde til å skaffe informasjon. I tillegg er internett og IKT interaktive læremidler, noe som kan gjøre at det er lettere å holde på elevenes oppmerksomhet relativt til tradisjonelle undervisningsmetoder. Økt etterspørsel etter digitale ferdigheter på arbeidsmarkedet som en følge av den teknologiske utviklingen, er også et argument i seg selv for å øke tilgangen til PC/nettbrett og internett i skolen, slik at alle har mulighet til å tilegne seg viktige digitale ferdigheter, uavhengig av om de har tilgang hjemme.
+
+Investering i og bruk av IKT i skolen kan også ha negative effekter på elevenes prestasjoner (Bulman & Fairlie, 2016). Ressurser som benyttes til å kjøpe inn IKT-utstyr til skolen, kan fortrenge annen ressursbruk i skolen. Videre vil tid som blir brukt på undervisning ved bruk av teknologiske hjelpemidler fortrenge tradisjonell klasseromsundervisning. Om økt grad av innkjøp og bruk av IKT-utstyr har en netto positiv eller negativ effekt på elevenes læringsutbytte, avhenger blant annet av om de er mer læringsfremmende sammenlignet med tradisjonell ressurs- og undervisningspraksis i skolen.
+
+Et viktig spørsmål er dermed om lærerne og elevene vet å bruke digitale verktøy etter hensikten. Fra lærerens side kan det være at de mangler opplæring i hvordan digitale verktøy bør brukes i undervisningen, og undervisningstid kan gå bort grunnet tekniske problemer. Selv om internett er en kilde til informasjon, er det også en kilde til distraksjon. Riktig bruk krever at lærerne klarer å holde oversikt over hva elevene nytter tiden til når de bruker PC eller nettbrett i undervisningen. Dersom tilgangen til internett i undervisningen benyttes til andre ting enn det som den er ment til, kan det ha negative konsekvenser for elevenes læringsutbytte. En studie fra høyere utdanning i USA har vist at å bruke PC eller nettbrett til andre aktiviteter enn det som er relevant for forelesningen har en negativ effekt på studenten selv og medstudenter (Sana, Weston & Cepeda, 2013). I tillegg er det forskning fra høyere utdanning som viser at man husker bedre dersom man tar notater med penn og papir, sammenlignet med bruk av PC eller nettbrett (Mueller & Oppenheimer, 2014). Videre finner S. P. Carter, Greenberg og Walker (2017) en negativ effekt av å kunne bruke nettbrett eller PC under forelesninger på slutteksamen i et fag. Foreløpig er ikke tilsvarende undersøkelser blitt gjennomført i skolen.
+
+Det er få studier som ser konkret på om det er ulik effekt for gutter og jenter (Wollscheid mfl., 2018). En mulig hypotese om hvorfor gutter og jenter kan få ulikt læringsutbytte av f.eks. PC-bruk i skolen, kan være at de benytter utstyret på ulike måter, for eksempel dersom gutter bruker tilgangen til PC på andre ting enn skolearbeid. På den annen side kan det være slik at gutter gjør det bedre når de får bruke PC, dersom dette i større grad sammenfaller med deres fritidsinteresser, eller fordi en større andel gutter har lese- og skrivevansker, og det å kunne skrive på PC kan være en ekstra støtte for denne elevgruppen. Muralidharan, Singh og Ganimian (2019) finner ingen kjønnsforskjell i effekten av et stort randomisert, kontrollert eksperiment i India som ga elevene tilgang til et individualisert instruksjonsprogram, til tross for at dataprogrammet bedret elevenes læringsutbytte.
+
 Bulman og Fairlie (2016) oppsummerer litteraturen om teknologibruk i undervisningen med følgende hovedpoeng:
-– Studier som evaluerer effekten av økte ressurser i skolen til innkjøp av IKT (hardware eller
-internettilgang), finner i liten grad noen positiv
-effekt på elevenes skoleresultater.
-– Studier som ser på effekten av å bruke spesifikke programvarer i undervisningen som ofte
-erstatter annen klasseromsundervisning, finner blandede resultater. Tendensen er at man i
-større grad finner positive effekter i utviklingsland, kanskje fordi klasseromsundervisningen
-som programvaren erstatter, ikke er av så høy
-kvalitet.
 
-–
-–
+- Studier som evaluerer effekten av økte ressurser i skolen til innkjøp av IKT (hardware eller internettilgang), finner i liten grad noen positiv effekt på elevenes skoleresultater.
 
-151
+- Studier som ser på effekten av å bruke spesifikke programvarer i undervisningen som ofte erstatter annen klasseromsundervisning, finner blandede resultater. Tendensen er at man i større grad finner positive effekter i utviklingsland, kanskje fordi klasseromsundervisningen som programvaren erstatter, ikke er av så høy kvalitet.
 
-Kapittel 10
+- Få studier måler effekten av PC-bruk på PC-ferdigheter, og man vet lite om den direkte effekten av PC-ferdigheter på arbeidsmarkedet.
 
-Få studier måler effekten av PC-bruk på PCferdigheter, og man vet lite om den direkte
-effekten av PC-ferdigheter på arbeidsmarkedet.
-Få studier undersøker om det er ulik effekt for
-undergrupper. Enkelte studier har sett på forskjeller etter ferdighetsnivå og kjønn. Det er
-ingen klare forskjeller mellom kjønnene, men
-noen studier viser at økte IKT-ressurser i særlig grad gagner svakt presterende elever.
+- Få studier undersøker om det er ulik effekt for undergrupper. Enkelte studier har sett på forskjeller etter ferdighetsnivå og kjønn. Det er ingen klare forskjeller mellom kjønnene, men noen studier viser at økte IKT-ressurser i særlig grad gagner svakt presterende elever.
 
-I tillegg til teknologi som er kommet inn i skolen
-gjennom bevisst innføring, finnes det eksempler
-på teknologibruk i skolen som er innført av elevene. Mobilbruk i skoletiden kan potensielt fungere som en distraksjon i undervisningen. Flere
-studier viser at det å bruke mobiltelefonen samtidig som man utfører en annen oppgave, har en
-negativ effekt på læring og fullføring av oppgaven
-(Dietz & Henrich, 2014; Kuznekoff & Titsworth,
-2013). I Norge er det opp til den enkelte skole
-hvordan de ønsker å håndtere mobilbruk i skoletiden (Utdanningsdirektoratet, 2014).
-
-10.5 Det psykososiale miljøet
-Opplæringsloven § 9a fastslår at alle elever har
-rett til et godt fysisk og psykososialt miljø som
-fremmer helse, trivsel og læring. Skolen skal
-aktivt og systematisk arbeide for å fremme et godt
-psykososialt miljø, der den enkelte eleven kan
-oppleve trygghet og sosial tilhørighet.
-En kunnskapsoppsummering konkluderer
-med at å bli utsatt for mobbing er relatert til svakere skoleprestasjoner (Breivik mfl., 2017). De
-som har blitt utsatt for mobbing, har mindre tro på
-at de kan klare seg godt på skolen, og har mer fravær enn andre elever. En norsk studie finner
-videre at samvariasjonen mellom mobbing på skolen og skoleprestasjoner er betydelig sterkere enn
-den individuelle sammenhengen, og at samvariasjonen på skolenivå er nesten like sterk for elever
-som ikke selv opplever mobbing (I. F. Strøm, Thoresen, Wentzel-Larsen & Dyb, 2013). Studien etablerer ingen årsakssammenheng, men kan tyde
-på at det psykososiale miljøet er viktig for alle
-elevers læring, i tillegg til å ha særskilt betydning
-for utsatte elever.
-J. Wang mfl. (2011) finner negativ samvariasjon
-mellom å bli mobbet og gjennomsnittskarakterer i
-en studie fra USA. Studien finner at det å bli mobbet har større negativ sammenheng med guttenes
-skoleprestasjoner enn med jentenes, men både jenter og gutter takler mobbing bedre når de har venner og skolekamerater å støtte seg til. Noe tilsva-
-
-[Side 154]
-
-152
-
-Kapittel 10
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-rende finner Rothon, Head, Klineberg og Stansfeld
-(2011) at tenåringer som ble mobbet, hadde mindre sannsynlighet for å nå utdanningsmålene for
-sin aldersgruppe, og at mobbede gutter, men ikke
-jenter, hadde høyere sannsynlighet for å vise
-depressive symptomer. Stor støtte fra venner og
-moderat støtte fra familien virker dempende på den
-negative sammenhengen mellom mobbing og skoleprestasjoner, men ikke på den negative sammenhengen mellom mobbing og psykisk helse.
-Gitt at miljøet er viktig for skoleprestasjoner,
-er det noen hensyn som bør tas i arbeidet med
-psykososialt miljø i et kjønnsperspektiv. En litteraturgjennomgang av Maccoby (2002) peker på at
-gutter og jenter i alderen 4–12 år i økende grad
-velger seg kjønnsdelte vennegrupper, og at
-omfanget av tidsbruk, delt forståelse og delte
-interesser innad i hver av disse gruppene gjør at
-det er snakk om to subkulturer med hvert sitt psykososiale miljø. Det er videre stor forskjell på
-hvordan gutter og jenter danner vennskap og forholder seg til hverandre. Jenter bruker tid i mer
-intime grupper på to eller tre venninner der de
-snakker og handler med gjensidighet og reagerer
-på hva venninnen har sagt eller gjort. Gutter former større grupper, og leken har ofte preg av herjing, konkurranse, konflikt, fremvisning av ego,
-risikotaking, kamp om dominans og i sjeldne tilfeller direkte aggresjon. Guttegruppene er mer
-robuste enn jentegrupper fordi guttene oftere er
-hverandres venners venner. En annen forskjell er
-at de søker og oppnår større autonomi fra voksne.
-Dersom gutter og jenter påvirkes av ulike,
-kjønnsdelte psykososiale miljøer med hvert sitt
-sett av normer og regler, er det godt tenkelig at
-miljøforskjellene også bidrar til kjønnsforskjeller i
-skoleprestasjoner. Det kan også være spesielt vanskelig for skolen å skape effektive tiltak for å
-bedre gutters psykososiale miljø, siden disse miljøene er mer tilbaketrukket fra voksenkontakt og
-også kan ha indre mekanismer som skjermer
-gruppen mot voksnes innsyn og inngripen
-(Maccoby, 2002).
-
-10.5.1 Forebyggende og helsefremmende
-tiltak
-Det har vært drevet et ganske omfattende arbeid i
-skolen for å forebygge psykososiale elevproblemer som vold, skulk og mobbing, men også kompetanse- og helsefremmende arbeid som sosial
-ferdighetsopplæring, og det har blitt satt i gang tiltak for å redusere bruk av tobakk og rusmidler. Et
-fellestrekk ved de forebyggende tiltakene er at de
-fleste retter seg mot problemgrupper eller ferdig-
-
-hetsmangler der gutter er overrepresentert, så
-som vold, kriminalitet, rusmisbruk, helseproblemer og manglende sosiale ferdigheter. Skolen, og
-etter hvert barnehagen, egner seg godt som baser
-for forebyggende og helsefremmende tiltak, fordi
-de når frem til praktisk talt alle barn og familier,
-og det forebyggende arbeidet kan gjennomføres
-uten å skille ut risikoutsatte elever. Mange av de
-forebyggende tiltakene er programbaserte, og har
-sitt utspring i tjenester som barnevernet og psykisk helsevern. Flere av programmene og tiltakene er beskrevet i Ungsinn-basen, som er en
-kunnskapsplattform for tiltak som er tilgjengelige
-og fortrinnsvis evaluert i Norge (Martinussen,
-2018). Virkninger av disse tiltakene på kjønnsforskjeller i skoleprestasjoner har fått begrenset oppmerksomhet i forskningslitteraturen.
-
-10.5.2 Flerfaglig kompetanse og samarbeid
-i skolen
-Begrunnelsen for bruk av flerfaglig kompetanse i
-skolen knyttes ofte opp mot behovet for å hjelpe til
-med og tilrettelegge undervisning, få komme til
-med tidlig innsats, og frigjøre tid for lærerne, slik
-at de kan konsentrere seg mer om lærerarbeid og
-klasseledelse. Det legges også vekt på bedre
-utnyttelse og samordning av ressurser (NOU
-2015: 2, 2015). Lærere mener selv de har for lite
-kompetanse i psykisk helse til å hjelpe elevene på
-best mulig måte, og tilstedeværelse av fagprofesjoner med slik kompetanse i skolen er tiltrengt
-(Borg, Christensen & Pålshaugen, 2015; Holen &
-Waagene, 2014).
-Særlig har det vært en stor økning i antall
-ansatte helsesykepleiere (tidl. helsesøstre) på helsestasjoner og i skolehelsetjenesten, fra 14 per
-10 000 i alderen 0–20 år i 2002 til 37 per 10 000 i
-2017 (Statistisk sentralbyrå, 2018b tabell 07459,
-03809 og 11994). Likevel er det få skoler som oppfyller den veiledende normen om 300 elever per
-helsesykepleier i barneskolen, 550 elever per helsesykepleier i ungdomsskolen og 800 elever per
-helsesykepleier i videregående skole. I 2015 ble
-normen fulgt av bare 2,5 prosent av barneskolene,
-28,8 prosent av ungdomsskolene og 30,8 prosent
-av de videregående skolene (Waldum-Grevbo &
-Haugland, 2015).
-Det finnes kun elleve mannlige helsesykepleiere i Norge, noe som utgjør 0,3 prosent, og man
-kan tenke seg at dette kan være en utfordring for
-at yrkesgruppen også skal gi et godt tilbud til gutter (Bergsagel, 2018). Gutter ser ut til å benytte
-seg av skolehelsetjenesten i noe mindre grad enn
-jenter, men likevel benytter de seg av tilbudet i
-
-[Side 155]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-153
-
-Kapittel 10
-
-Boks 10.1 Eksempler på tiltak for å bedre det psykososiale miljøet
-settinger som alle kan stille seg bak. Målene og
-«Respekt» Dette er et skoleutviklingsprogram
-verdiene skal formidle hva som er viktig i skolesom retter seg mot læringsmiljøet på alle trinn i
-hverdagen og skal på en forpliktende måte lede
-grunnskolen og er utviklet ved Senter for
-skolens utviklingsarbeid. Dersom mål og veratferdsforskning (SAF). De primære innsatsomdier skal gi mening, må de kunne omsettes i
-rådene er disiplin, konsentrasjon og mobbing.
-praksis, og den enkelte skole må finne sin måte
-De sekundære innsatsområdene er vold,
-å gjøre det på.
-rasisme, negativ gjengdannelse og ugyldig fraDet foreligger to effektevalueringer av PALS
-vær. Programmet er prinsippstyrt, og skolen
-i Norge. Første effektevaluering er presentert i
-skal ut fra overordnede prinsipper og eksempler
-(M. A. Sørlie & Ogden, 2007), og andre effekteutarbeide egne aktiviteter og løsninger på orgavaluering er presentert i tre øvrige artikler (M.nisasjons- og klassenivå, samt på individnivå.
-A. Sørlie, Idsoe, Ogden, Olseth & Torsheim,
-Programmet legger vekt på å utarbeide strate2018; M.-A. Sørlie & Ogden, 2015; M.-A. Sørlie,
-gier for autoritativ klasseledelse, bredt engasjeOgden & Olseth, 2016). Første effektevaluering
-ment fra alle aktørgrupper i skolen, konsistens
-ble gjennomført som et kvasieksperimentelt
-og kontinuitet. Obligatoriske tiltak er markering
-kontrollgruppedesign, mens andre effektevalueav skolestart, kollegaveiledning, inngripen overring ble gjennomført som et styrket, kvasiekspefor mobbing, bruk av refleksvester under
-rimentelt design med matchet kontrollgruppe.
-inspeksjon i friminutt samt deltagelse i nettModellen er klassifisert i Ungsinn som et tiltak
-verksgrupper og resultatrapportering. Respekt
-med sterk dokumentasjon av effekt.
-er evaluert med oppmuntrende resultater
-«Steg for Steg» er et universelt opplærings(Ertesvåg, 2009; Ertesvåg & Vaaland, 2007), og i
-program som opprinnelig ble introdusert som et
-Ungsinn er det klassifisert som dokumentert
-voldsforebyggende tiltak, men det har i økende
-virksomt.
-grad blitt omtalt som et program for sosial fer«Positiv atferd, støttende læringsmiljø og samdighetsopplæring. Målsettingen er at elevene
-handling i skolen» (PALS) er utviklet for å styrke
-skal utvikle økt bevissthet om sine egne følelser,
-barns sosiale kompetanse, og forebygge og
-empati, impulskontroll, problemløsningsferdigmestre atferdsproblemer på grunnskolens barheter og ferdigheter i sinnekontroll. Programnetrinn (1.–7. klasse). Det norske programmet
-met legger vekt på både sosiale og kognitive
-er en bearbeidet og tilpasset versjon av den ameferdigheter.
-rikanske Schoolwide Positive Behavior SupportNorske forskningsbaserte evalueringer er
-modellen (SW-PBIS), og er utviklet av Nasjonalt
-gjennomført av Holsen, Smith og Frey (2008),
-utviklingssenter for barn og unge. Modellen
-som fant en signifikant økning i sosial kompebygger også på forskning på den skoleomfattanse for både gutter og jenter på 5. og 6. trinn,
-tende tiltaksmodellen, og består av et tiltakspromen bare for jenter på 7. trinn. En annen norsk
-gram med forhåndsdefinerte innholdskompostudie viste at elever med lav sosioøkonomisk
-nenter rettet mot alle elever, et opplæringsprostatus rapporterte om en sterkere økning i
-gram for ansatte og skoleomfattende implemensosial kompetanse, skoleprestasjoner og tilteringsstrategier for gjennomføring og vedlikefredshet med livet sammenlignet med elever fra
-hold av endring.
-høyere sosioøkonomiske grupper (Holsen, IverArbeidet for å skape et inkluderende og
-sen & Smith, 2009).
-engasjerende læringsmiljø starter med at skolens ansatte drøfter seg frem til verdier og mål-
-
-betydelig omfang. Tall fra Ungdata i 2014 viser at
-40 prosent av jentene i ungdomsskolen har brukt
-helsesøster eller skolelege i løpet av siste år mot
-29 prosent av guttene (Bakken, 2015). Abrahamsen, Ginja og Riise (2018) har sett på effekten av
-økningen i antall årsverk med helsesøstre mellom
-1999 og 2008. De finner at satsingen som medførte
-
-37 prosent flere helsesøstre i kommunen, førte til
-at 2 prosent flere fullførte videregående skole, og
-at effekten var like stor for gutter som for jenter.
-Det er også mange andre faggrupper i skolen i
-dag. Borg, Drange og Jarning (2014) skiller mellom skoleinterne ressurser, som i tillegg til helsesykepleiere og lærere omfatter spesialpedagoger
-
-[Side 156]
-
-154
-
-Kapittel 10
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-og miljøterapeuter, og skoleeksterne ressurser,
-som omfatter PP-tjenesten, deler av skolehelsetjenesten og andre ambulerende team. Rollen til personer med sosialfaglige utdanninger (barnevernspedagoger, sosionomer og vernepleiere,
-såkalte BSV-utdanninger) er ikke beskrevet i lovverket, og disse kan være ansatt som enten miljøarbeidere eller miljøterapeuter (Borg mfl., 2014).
-En modell der støtte til elevene skjer i skolen
-gjennom hyppige møter med flerfaglige grupper,
-har vist seg å samvariere positivt med rektorers
-tilfredshet med det flerfaglige samarbeidet i Finland (Vainikainen, Thuneberg, Greiff & Hautamäki, 2015). Norsk forskning har også vist at
-skoler med flerfaglige team (spesialundervisningsteam) har færre henvisninger til skolepsykologtjenesten, færre henvisninger av barn med
-atferdsvansker, mer indirekte arbeid av skolepsykologtjenesten, og mer PPT-samarbeid mellom
-hjem og skole og andre instanser (Anthun & Manger, 2006). Men flerfaglighet kan også medføre
-noen utfordringer. En svensk antropologisk studie
-av flerfaglige grupper (sammensatt av lærer, avdelingsleder, spesialpedagog, skolepsykolog, helsesøster og i noen tilfeller sosionomer og logopeder) fant at møtene hadde et rutinemessig preg,
-og at det var vanskelig å finne eksempler på at
-medlemmene brukte sin profesjonsekspertise i
-løpet av 100 timer med lydopptak av møter
-(Hjörne & Säljö, 2014). Det lå et implisitt premiss i
-møtene om at årsaken til skolevanskene var å
-finne hos den enkelte elev. De peker på tre årsaker til dette. Tette bånd mellom gruppemedlemmene gjør at det utvikles en kollegialitet som kan
-gjøre det vanskelig å komme med avvikende perspektiver. En annen årsak kan ligge i at profesjonene som inngår, er for like, og at en diagnostisk
-kultur blir for dominerende. En tredje årsak kan
-være at det er institusjonelle tradisjoner for å individualisere skolevansker.
-I 2018 vedtok Stortinget en lovendring som nå
-pålegger skolen å samarbeide med kommunale
-tjenestetilbydere om flerfaglig vurdering og oppfølging av elever med særskilte vansker. Likevel
-kan det hevdes at plikten til tverrfaglig samarbeid
-for å fremme elevenes lærings- og utviklingsmiljø
-er klarere og tydeligere formulert i Helse- og
-omsorgsdepartementets forskrift om helsestasjons- og skolehelsetjenesten enn i opplæringsloven. Skolens plikt til samarbeid er begrenset til
-elever med særskilte vansker, og omfatter ikke
-det systemrettede arbeidet som skolehelsetjenesten og andre kommunale tjenester er pålagt å
-tilby.
-
-To forskningsprosjekter bruker randomiserte,
-kontrollerte studier til å undersøke hvordan flerfaglig kompetanse og samarbeid på 5. til 7. trinn
-påvirker det psykososiale miljøet og skoleresultater, gjennom programmet «Et lag rundt eleven».
-Saltkjel mfl. (2018) tester en modell for lederskap,
-organisering og gjennomføring av flerfaglig samarbeid (LOG-modellen), mens Federici, Flatø,
-Helleve, Midthassel og Bru (2017) tester effekten
-av en ekstra helsesykepleierressurs som jobber
-systemrettet i et strukturert samarbeid med skolen. Resultatene av prosjektene vil være klare i
-2020.
-Forskningen så langt tyder altså på svært positive virkninger av å styrke den flerfaglige kompetansen i skolen gjennom utbygging av skolehelsetjenesten, og det virker som satsingen kommer
-begge kjønn til gode. Med et større mangfold av
-profesjonsgrupper og tjenester i skolen er et godt
-flerfaglig samarbeid trolig viktig for å bruke disse
-ressursene effektivt. Et faremoment er imidlertid
-at flerfaglige grupper i for stor grad individualiserer skolevansker i stedet for å jobbe systemrettet.
-En ubalanse i regelverket eksisterer ved at skolehelsetjenesten er forpliktet gjennom sine nasjonale retningslinjer til å tilby skolen å samarbeide
-om systemrettede tiltak, mens skolen kun er forpliktet til å samarbeide om elevers individuelle
-vansker. God forankring i skolens ledelse er avgjørende for å få gjennomført tiltak rettet mot hele
-det psykososiale miljøet. Dette kan være viktigere
-for gutters skolemestring ettersom gutter forholder seg til et større vennemiljø som ofte har lite
-voksenkontakt.
-
-10.6 Oppsummering og drøfting
-I dette kapittelet har utvalget beskrevet forskningsresultater om hvordan kjønnsforskjellene i
-skoleprestasjoner utvikler seg videre gjennom
-skoleløpet, og drøftet hvorvidt årsaker til kjønnsforskjellene identifiseres, forsterkes eller utjevnes
-i skolen.
-Utvalget vurderte først hvorvidt forhold ved
-hvordan man organiserer barnas hverdag kan
-bidra til kjønnsforskjeller i skolen. Forskningen
-tyder på at det å være eldre ved skolestart fører til
-bedre skoleprestasjoner og at barna i mindre grad
-blir ansett som hyperaktive. Relativ alder har like
-mye å si for gutters og jenters skoleprestasjoner.
-Det at de eldre elevene gjør det bedre skyldes i
-hovedsak at elevene er eldre ved prøvetidspunktet. Når dette er tatt hensyn til tyder forskningen
-på at det å være eldre ved skolestart hverken fører
-
-[Side 157]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-til bedre kognitive evner eller påvirker utdanningsnivå eller inntekt på lengre sikt.
-Både økt undervisningstid og mer undervisningstid i kjernefagene synes å ha positive effekter på skoleprestasjoner. Det mangler relevante
-studier av hvorvidt økt undervisningstid har ulik
-effekt på gutter og jenter, og forskningen finner
-ikke konsekvent størst effekt av mer undervisning i kjernefagene for gutter. Det synes også å
-være positive effekter av å forskyve tidspunktet
-for når tenåringer starter på skolen om morgenen,
-og om noe er dette mer positivt for jenter.
-Aktiviteter utenom skoletid ser ut til å være en
-kilde til kjønnsforskjeller i skoleprestasjoner. Jenter bruker mer tid på lekser og leser mer på fritiden, og dette har blitt knyttet til bedre skoleprestasjoner. Tilgang til kabel-TV i barne- og ungdomsårene førte til at færre gutter fullførte videregående opplæring, mens en tilsvarende effekt
-ikke er funnet for jenter. Skolefritidsordningen
-har potensial til å kunne utjevne kjønnsforskjeller
-ettersom ordningen utgjør en så stor del av barnas tid utenfor hjemmet. To studier antyder imidlertid at SFO ikke har hatt tilstrekkelig kvalitet til
-å erstatte den positive effekten som tid med en
-forelder har på barnas skoleutvikling, hverken for
-barn av kontantstøttemottakere eller for barn av
-alenemødre.
-Et annet viktig organisatorisk og pedagogisk
-valg er hvordan skoler, klasser og undervisningsgrupper skal sammensettes. Ettersom gutter jevnt
-over i skoleløpet har svakere skoleprestasjoner
-enn jenter, kan gruppering av elever etter ferdigheter føre til at gutter er overrepresentert i grupper med lavt presterende elever. Dette valget vil
-dermed kunne ha særlig stor betydning for gutter.
-Videre viser jenter oftere skoleengasjement uavhengig av skolekontekst, mens sammensetningen
-av medelever er viktigere for gutter. En metaanalyse viser positive effekter på skoleprestasjoner av
-nivådeling innad i hver klasse, og i enkeltfag på
-tvers av klasser innen hvert kull, men ingen effekt
-av nivådeling i ulike klasser. Det mangler studier
-på hvordan nivådeling innenfor samme skole
-påvirker kjønnsforskjeller i skoleprestasjoner.
-Flere studier har sett på effekten av å gruppere elever indirekte eller direkte etter ferdigheter på ulike utdanningsløp eller skoler tidlig
-sammenlignet med senere i skoleløpet. Senere
-inndeling har vist seg å være positivt for menns
-kognitive ferdigheter i Finland, men har samtidig
-ført til større kjønnsforskjeller i valg av utdanningsprogram. I Norge er det flere studier som
-ser på innføringen av fritt skolevalg som ofte fører
-til økt gruppering av elever etter ferdighetsnivå
-
-155
-
-Kapittel 10
-
-mellom program og skoler. Studiene finner positive effekter på elevenes skoleresultater, både for
-faglig sterke og svake elever. Konkurransepresset
-som følger av fritt skolevalg har imidlertid vist seg
-å redusere jenters motivasjon for læring på 10.
-trinn, uten at gutters motivasjon har økt.
-En annen mulighet er å dele inn klasser eller
-skoler etter kjønn. Kjønnsdelte klasser og skoler
-kan være positivt for skoleresultater, men dette
-kan slå meget forskjellig ut i ulike land og skolesystemer. Det mangler gode studier på dette fra
-skolesystemer som er sammenlignbare med det
-norske skolesystemet. Dette skyldes antagelig at
-det er lite interesse for kjønnssegregering som
-pedagogisk tiltak i Nord-Europa.
-Hvordan skolene følger opp svakt presterende
-elever har særlig betydning for gutter ettersom de
-er overrepresentert i gruppen med svake ferdigheter mot slutten av grunnskolen. I alle OECDland utenom Norge og Japan repeterer noen
-elever skoleår dersom de ikke følger normal progresjon. Forskning fra USA finner at repetisjon av
-skoleår kan ha positiv effekt dersom det skjer når
-elevene er yngre, mens det gir negative effekter
-senere i utdanningsløpet. Det er lite som tyder på
-at dette i større grad gagner guttene.
-Et alternativ til tvungen repetisjon av et skoleår for enkelte elevgrupper, er et frivillig tilbud
-om ekstra skoleår mellom viktige overganger i
-utdanningssystemet. I Danmark gir dette elevene
-en positiv faglig utvikling i sentrale fag, og særlig
-gjelder dette for guttene. En litteratur med noe
-relevans for dette temaet, er studier av reformer
-som har redusert antall skoleår, men beholdt
-samme læringsmål. Både i Tyskland og i Canada
-har dette ført til svakere faglige prestasjoner.
-Andre måter å gi ekstra oppfølging til elever
-med svake skoleprestasjoner på, er å gi ekstra
-oppfølging i form av ekstra undervisning eller spesiell tilrettelegging. Fra og med august 2018 har
-alle elever på 1.–4. trinn rett til intensiv opplæring
-dersom de står i fare for å bli hengende etter i
-lesing, skriving eller regning. Denne undervisningen kan bli gitt i små, tilrettelagte grupper. Intensivundervisning synes å kunne heve prestasjonene til svakt presterende elever tidlig i opplæringsløpet, mens tilleggsundervisning i ferier kan
-være nyttig for eldre elever. Tett oppfølging og
-forskningsbaserte undervisningsopplegg kan
-være avgjørende for at gutter skal dra nytte av tilleggs- og intensivundervisning.
-Elever som ikke får tilfredsstillende utbytte av
-ordinært tilbud i skolen har rett til spesialundervisning. Det er svært lite evidens for at spesialundervisning gir noe økt læringsutbytte til elevene.
-
-[Side 158]
-
-156
-
-Kapittel 10
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Noen studier antyder til og med at spesialundervisning kan være negativt for mottakerne, og da
-særlig dersom spesialundervisningen gis av
-ufaglærte assistenter. Det er dermed heller ikke
-grunnlag for å vite om spesialundervisning forsterker eller svekker kjønnsforskjellene i skoleprestasjoner. Fordi gutter er overrepresentert
-blant mottakerne av spesialundervisning, vil imidlertid positive, så vel som negative, effekter av
-dette påvirke kjønnsforskjellene.
-Skolens faglige innhold er svært sentralt for
-skoleprestasjoner og kan dermed tenkes å være
-viktig også for kjønnsforskjeller. Forskningslitteraturen som bruker skolens bidrag til elevenes
-læring som mål på skolekvalitet, finner til dels
-betydelige forskjeller i faglige prestasjoner og fullføringsgrad mellom skoler, også etter at man har
-tatt hensyn til ulikt elevgrunnlag, også i Norge.
-Noen få studier ser på hvordan dette påvirker
-kjønnsforskjeller i skolen, og resultatene av disse
-studiene er ikke entydige. Ettersom det eksisterende kunnskapsgrunnlaget er mangelfullt, er
-det behov for kvantitative studier på norske skoler
-for å kunne si noe om sammenhengen mellom
-skolebidrag og kjønnsforskjeller i skolen.
-En annen måte å tilnærme seg skolekvalitet
-på, er gjennom å studere innsatsfaktorene som
-inngår i skoletilbudet. Læreren er den mest sentrale innsatsfaktoren i skolen. Forskningslitteraturen fra Norge viser likevel lite som tyder på at økt
-lærertetthet øker elevenes skoleprestasjoner,
-hverken i gjennomsnitt eller for ulike undergrupper. I den internasjonale litteraturen har man funnet alt fra null til positive effekter av redusert klassestørrelse, og i flere tilfeller er effekten størst for
-elever fra en lav sosioøkonomisk bakgrunn.
-Det ser ut til at egenskaper ved den individuelle læreren har stor betydning for prestasjoner
-og læring. Eksisterende forskning tyder på at
-disse egenskapene i liten grad påvirkes av lærerens utdanning, inntakskrav til utdanningen eller
-lærerens kjønn. De kan imidlertid henge sammen
-med lærerens kognitive evner. Rekruttering av
-motiverte og talentfulle personer til læreryrket
-ser derfor ut til å være viktig, og lønnsnivå kan
-være av betydning, spesielt for å rekruttere flinke
-menn.
-Man kan tenke seg at hvorvidt eleven og læreren har samme kjønn, kan være viktig for interaksjonen mellom dem og dermed påvirke skoleprestasjoner. Den internasjonale litteraturen som
-tar for seg dette temaet på en troverdig måte, finner ikke at det er ufordelaktig for gutter å ha en
-kvinnelig lærer. Flere studier, både internasjonale
-og norske, tyder imidlertid på at kjønnsforskjeller
-
-i sosiale ferdigheter gjenspeiler i prøver som
-lærere retter. Det finnes også noe evidens for at
-vurderingssituasjonen i seg selv er av betydning –
-gutter gjør det bedre i prøvesituasjoner med mer
-konkurranse. Det er derimot lite som tyder på at
-forskjellen mellom lærer- og anonymtrettede prøver skyldes lærernes kjønnsstereotypiske forventninger.
-Forskning på kvalitet i undervisningen tyder
-på at mye kan gjøres for å gi lærere verktøy som
-gjør dem bedre. Struktur og pedagogisk innhold
-synes å være viktig for elevprestasjoner. God klasseledelse reduserer problematferd som skaper en
-gunstig kontekst for virksom undervisning. Det
-finnes eksempler på at disse faktorene særskilt
-har løftet gutters skoleprestasjoner. Bruk av teknologi i undervisningen kan gi positive effekter,
-særlig dersom klasseromsundervisningen som
-programvaren erstatter ikke er av så høy kvalitet.
-Enkelte studier har sett på forskjell i effekten av
-teknologibruk etter ferdighetsnivå og kjønn. Det
-fleste studier finner ingen klare forskjeller mellom
-kjønnene, men noen studier viser at økte IKT-ressurser i særlig grad gagner svakt presterende
-elever.
-Norske studier viser at elever som blir utsatt
-for mobbing, og skoler med mye mobbing, har
-dårligere skoleprestasjoner. Å bli utsatt for mobbing synes å ha en større negativ sammenheng
-med gutters skoleprestasjoner og i større grad
-samvariere med depressive symptomer enn for
-jenter. Gjennom barneskolen øker barns tilbøyelighet til å tilbringe tid i kjønnsdelte grupper, og
-det er stor forskjell på hvordan gutter og jenter
-danner vennskap og forholder seg til hverandre.
-Dersom gutter og jenter påvirkes av ulike, kjønnsdelte psykososiale miljø, med hvert sitt sett av
-normer og regler, er det godt tenkelig at miljøforskjellene også bidrar til kjønnsforskjeller i skoleprestasjoner. Det kan også være spesielt vanskelig
-for skolen å skape effektive tiltak for å bedre gutters psykososiale miljø, ettersom disse miljøene er
-mer tilbaketrukket fra voksenkontakt og også kan
-ha indre mekanismer som skjermer gruppen fra
-voksnes innsyn og inngripen (Maccoby, 2002).
-En norsk studie finner svært positive virkninger av å styrke den flerfaglige kompetansen i skolen gjennom utbygging av skolehelsetjenesten, og
-satsingen synes å komme begge kjønn til gode.
-Med et større mangfold av profesjonsgrupper og
-tjenester i skolen, er et godt flerfaglig samarbeid
-trolig viktig for å bruke disse ressursene effektivt.
-Et faremoment er imidlertid at flerfaglige grupper
-i for stor grad individualiserer skolevansker i stedet for å jobbe systemrettet. God forankring i sko-
-
-[Side 159]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-lens ledelse er avgjørende for å få gjennomført tiltak rettet mot hele det psykososiale miljøet.
-
-10.6.1 Drøfting
-Dette kapittelet har avdekket en rekke forhold i
-skolen som har avgjørende betydning for skoleprestasjoner. Særlig gjelder dette egenskaper ved
-den individuelle læreren som ikke lett lar seg
-identifisere, god struktur og pedagogisk innhold i
-undervisningen, og et godt psykososialt miljø.
-Dersom elevene bruker mer tid i god undervisning, enten i form av økt undervisningstid, ekstra
-skoleår eller intensiv- og tilleggsundervisning, får
-de også bedre resultater. Det finnes betydelig
-færre faktorer i skolen som har blitt identifisert
-som viktige årsaker til kjønnsforskjeller i skoleprestasjoner, ettersom en god skole typisk kommer både gutter og jenter til gode.
-Tre områder utpeker seg med betydelig potensial til å redusere kjønnsforskjeller. For det første
-er det store forskjeller i tidsbruk utenom skoletiden, der jenter gjør mer lekser og leser mer. Et
-bevisst forhold til og rammer rundt lekser, styrket
-kompetanse og innhold i skolefritidsordningen,
-og bedre oppfølging fra foreldre kan dermed være
-
-157
-
-Kapittel 10
-
-viktige tiltak for å adressere årsakene til kjønnsforskjeller. For det andre er gutter overrepresentert blant svakt presterende elever, og faktorer
-som påvirker denne gruppen spesielt kan dermed
-gi betydelige utslag i kjønnsforskjeller i skoleprestasjoner. Svakt presterende elever kan heve
-sine prestasjoner ved hjelp av god tilrettelagt
-undervisning, og det å få anledning til å bruke lenger tid gjennom et ekstra skoleår har vist seg å ha
-gode effekter på gutter. Tiltak som i stor grad
-segregerer og/eller virker stigmatiserende på
-elevgruppen viser mindre positive resultater, særlig dersom kvaliteten på tilbudet ikke er god og
-dersom elever blir låst til en gruppe med svakt
-presterende medelever. Et tredje område er
-arbeid med det psykososiale miljøet, som ofte kan
-bestå av kjønnsdelte subkulturer, og gutter som
-blir utsatt for mobbing kan være i særlig risiko for
-svake skoleprestasjoner. Økt helsefaglig kompetanse har vist like positive resultater for begge
-kjønn, til tross for at gutter benytter seg av tilbudet i mindre grad enn jenter. Det kan tyde på at
-bruk av flerfaglig kompetanse i skolen har potensial til å utjevne kjønnsforskjeller i skoleprestasjoner dersom fagarbeiderne når frem til guttene.
-
-[Side 160]
-
-158
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-2019
-
-[Side 161]
-
-Del IV
-Utvalgets forslag til tiltak
-
-Figur 11.1
-
-[Side 162]
-
-[Side 163]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-161
-
-Kapittel 11
-
-Kapittel 11
-
-Innledning – prinsipper for styring
-I Norge har kommunene en lovpålagt plikt til å
-tilby barnehage og skole til sine innbyggere.
-Omtrent 50 prosent av barnehagebarna går i kommunale barnehager, mens nesten 96 prosent av
-elevene går i kommunale grunnskoler. Kommunene er et selvstendig forvaltningsnivå, og skal
-forvalte og styre kommunale barnehager og
-grunnskoler og påse at private barnehager drives
-i samsvar med regelverket.
-Staten må vedta lover eller regler fastsatt med
-hjemmel i lov for å pålegge kommunene å tilby tjenester, utføre oppgaver eller etterleve krav og
-standarder.1 Kommunene har ansvar for å finansiere oppgaver og tjenester de er pålagt gjennom
-regelverket. Etter det finansielle ansvarsprinsippet skal det faglige og økonomiske ansvaret for en
-oppgave ligge på samme forvaltningsnivå.
-Hovedprinsippet for statens styring av kommunesektoren er derfor økonomisk og juridisk
-rammestyring. Hovedprinsippet åpner likevel for
-detaljert økonomisk og juridisk styring dersom tiltaket er begrunnet i nasjonale mål, slik som rettssikkerhet, likhet og likeverd, og effektiv og samordnet bruk av offentlige ressurser. Detaljert juridisk styring kan for eksempel være krav til politisk og administrativ organisering, krav til oppgaveløsning, kompetansekrav, bemanningsnormer,
-saksbehandlingsregler og individuelle rettigheter.
-Detaljert økonomisk styring innebærer å opprette
-øremerkede tilskudd ved siden av det ordinære
-inntektssystemet, som kommunene kan disponere uten andre statlige føringer enn regelverket.
-I barnehage- og skolesektoren er de største øremerkede tilskuddene knyttet til årsverk i sektorene og ulike former for kompetanseutvikling.
-Universitetene og høyskolene står for grunnutdanningen og videre- og etterutdanningen av
-lærere i barnehager og skoler. De statlige univer-
-
-sitetene og høyskolene er formelt sett statlige forvaltningsorganer. Staten styrer dem gjennom
-finansieringssystemet og regelverket for sektoren,
-samt den løpende etatsstyringen av institusjonene. De private høyskolene er underlagt det
-samme regelverket og finansieringssystemet som
-de statlige institusjonene. For barnehagelærer- og
-grunnskolelærerutdanningene fastsetter staten
-rammeplaner som beskriver læringsutbytte etter
-fullført utdanning og gir bestemmelser om blant
-annet utdanningenes struktur, faglige sammensetning og krav til praksis. Det finnes også mange
-ansatte i barnehagen, skolefritidsordningen og
-skolen som har utdanning fra videregående opplæring, slik som barne- og ungdomsarbeidere.
-Statlige tiltak for å redusere kjønnsforskjeller i
-opplæringsløpet eller senere i livsløpet vil derfor
-være å endre regelverket eller finansieringen av
-kommunene eller universitetene og høyskolene.
-Det betyr at statlige tiltak er noe annet enn den
-konkrete praksisen i barnehager og skoler. Formålet er å påvirke slike praksiser, men statlige tiltak er rammebetingelser som gir rom for tolkninger og lokal variasjon. For eksempel har regelverket om elevvurdering og systemvurdering og
-tilskuddene til etter- og videreutdanning for
-lærere store konsekvenser for praksisene i skolen,
-men det er likevel noe annet enn de lokale praksisene. Utvalget drøfter også tiltak som andre kan
-iverksette, men prioriterer tiltak som staten kan
-iverksette.
-Samtidig er det mulig å avdekke hvilke effekter
-statlige tiltak har på elevers læring og utvikling.2
-For eksempel dokumenterer en norsk studie
-hvordan et statlig tilskudd på 1,5 milliarder kroner
-til økt lærertetthet på ungdomstrinnet påvirker
-den faktiske lærertettheten i skolene, bruk av
-2
-
-1
-
-I den nye kommuneloven er kommunalt selvstyre lovfestet.
-Kommuneloven legger til grunn at det kommunale selvstyret ikke bør begrenses mer enn det som er nødvendig
-for å ivareta nasjonale mål, og offentlige oppgaver bør fortrinnsvis legges til det forvaltningsnivået som er nærmest
-innbyggerne.
-
-I rettssosiologien er det vanlig å skille mellom regler og tiltak eller praksis, og fremheve at det er vanskelig å vite hva
-som er konsekvensene av selve reglene (Mathiesen, 2011).
-Selv om det er krevende å avdekke effektene av statlige tiltak, finnes det en rekke kvantitative metoder som under
-enkelte betingelser kan isolere slike effekter (Schlotter,
-Schwerdt & Woessmann, 2011).
-
-[Side 164]
-
-162
-
-Kapittel 11
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-assistenter, ressursfordeling mellom trinn og skoler, og de effektene tilskuddet hadde for elevenes
-læring og læringsmiljø (Kirkebøen mfl., 2017). Et
-annet eksempel er forskning som dokumenterer
-effekter av ulike ordninger for å organisere elever
-etter faglig nivå for læring og utvikling. Det finnes
-mange studier som dokumenterer hvordan slike
-ordninger påvirker fordelingen av økonomiske
-ressurser og lærere mellom de ulike gruppene,
-kjennetegn på undervisningspraksis i gruppene
-og omfanget av feilplasseringer av elever. Selv om
-effekten av nivådifferensiering for læring er kontekstspesifikk, er det likevel mulig å avdekke
-effekten av ulike ordninger slik de faktisk ble
-implementert i en bestemt kontekst. Sagt på en
-annen måte: Statlige tiltak har ulik effekt på praksisen i den enkelte barnehage og skole.
-
-11.1 Utvalgets vurderinger
-Etter utvalgets vurderinger bør statens styringsprinsipper bygge på et tydelig nasjonalt mål om
-kunnskapsbasert styring, slik at kunnskap kan tillegges selvstendig vekt og ligge til grunn for den
-økonomiske og juridiske rammestyringen.
-I tråd med § 2-2 i den nye kommuneloven bør
-staten legge et nødvendighetskrav til grunn for
-regelverket ved at reguleringer bare bør innføres
-dersom det er nødvendig for å oppnå formålet
-med reguleringen.3 Etter et slikt prinsipp bør staten som utgangspunkt velge den minst inngripende måten å regulere kommunene på, slik som
-overordnede plikter og skjønnsmessige regler.
-Staten bør først vurdere objektive og detaljerte
-regler og individuelle rettigheter dersom mykere
-reguleringsformer ikke er tilstrekkelige for å
-oppnå formålet. På samme måte skal staten
-begrunne øremerkede tilskudd etter bestemte
-kriterier, slik som finansiering av tidsavgrensede
-forsøk, utbygging av tjenester med lav dekningsgrad eller finansiering av tjenester som gis i et
-avgrenset område eller gjelder kun visse innbyggere.
-Utvalget mener det er særlig to grunner som
-kan gjøre det nødvendig å regulere barnehager
-og skoler. Den første grunnen er knyttet til de
-grunnleggende målene, verdiene og rammene for
-barnehager og skoler, slik som omfanget og innretningen av læring i barnehagen, hvilke undervisningsfag elevene skal ha i skolen, lengden på
-3
-
-Ny kommunelov § 2-2 sier: «Det kommunale og fylkeskommuale selvstyret bør ikke begrenses mer enn det som er
-nødvendig for å ivareta nasjonale mål».
-
-obligatorisk opplæring og ordninger for medvirkning. Slike bestemmelser uttrykker verdistandpunkter, og kunnskapsbasert styring er mindre relevant.
-Den andre grunnen knytter seg etter utvalgets
-vurdering til faktorer for organisering og oppgaveløsning der forskningsgrunnlaget viser positive
-eller negative effekter for sentrale mål i rammeplanen for barnehagen og læreplanverket for
-grunnopplæringen. En rekke studier tyder på at
-lokalt handlingsrom og autonomi for skoler kan
-være effektivt fordi det lokale nivået har bedre
-kunnskap om sine egne betingelser og større
-muligheter for å utnytte ressursene enn sentrale
-nivåer. Samtidig bør ikke beslutninger og ansvar
-desentraliseres på alle områder i skolen fordi felles standarder og utviklingskapasitet er nødvendige for at skolene skal utnytte autonomien til det
-beste for elevene. Det betyr at et velfungerende
-skolesystem må balansere desentralisering med
-ulike virkemidler for ansvarliggjøring (Woessmann, 2016).
-Med dette som bakgrunn mener utvalget at
-staten i større grad bør legge det eksisterende
-forskningsgrunnlaget til grunn for avgjørelser om
-hvor balansen mellom desentralisering og ansvarliggjøring bør gå i det enkelte tilfelle, og innføre
-tiltak på en slik måte at det er mulig å avdekke
-effektene av tiltaket på en vitenskapelig solid
-måte. Staten bør bare innføre regler for organisering og oppgaveløsning for hele sektoren dersom
-forskningsgrunnlaget viser ønskede effekter. Det
-kan bety at enkelte områder bør reguleres strammere enn i dag gjennom objektive og detaljerte
-regler eller individuelle rettigheter, men det kan
-også være situasjoner der regelstyring ikke er
-nødvendig for å oppnå formålet, eller det er vanskelig å kodifisere området gjennom regler. I slike
-tilfeller er det bedre å formidle kunnskap om
-effekten gjennom tiltak for kompetanseutvikling
-eller frivillige standarder for beste praksis.
-Etter utvalgets vurdering kan et slikt prinsipp
-om kunnskapsbasert styring gjøre det enklere for
-staten å håndheve regelverket fordi det er større
-enighet i profesjonsfellesskapet om hvilken praksis som er innenfor eller utenfor bestemmelsen.
-Det vil også gjøre det mulig å finansiere virkningsfulle tiltak for kompetanseutvikling som kan
-understøtte bestemmelsene ettersom det finnes et
-solid kunnskapsgrunnlag som tiltakene kan
-bygge på.
-Etter utvalgets vurdering bygger dagens statlige styring av barnehager og skoler på en ubalansert bruk av det forskningsgrunnlaget som finnes
-om barnehager og skoler. I noen tilfeller gir
+I tillegg til teknologi som er kommet inn i skolen gjennom bevisst innføring, finnes det eksempler på teknologibruk i skolen som er innført av elevene. Mobilbruk i skoletiden kan potensielt fungere som en distraksjon i undervisningen. Flere studier viser at det å bruke mobiltelefonen samtidig som man utfører en annen oppgave, har en negativ effekt på læring og fullføring av oppgaven (Dietz & Henrich, 2014; Kuznekoff & Titsworth, 2013). I Norge er det opp til den enkelte skole hvordan de ønsker å håndtere mobilbruk i skoletiden (Utdanningsdirektoratet, 2014).

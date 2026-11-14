@@ -1,963 +1,322 @@
-# NOU 2026: 10, del 27 av 31 (side 318–329)
+# NOU 2026: 10, del 27 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 318]
+## Langsiktig prioritering av ressurser til skolen
 
-316
+Utvalget mener det er gode grunner til å prioritere og hegne om skoleøkonomien framover, og at det er helt nødvendig med en slik prioritering for at fellesskolen skal kunne ivareta sitt samfunnsmandat. Utvalget mener det er høy risiko for at skoleøkonomien i kommunene vil svekkes i årene fram mot 2035, og vil i dette delkapittelet redegjøre for hvorfor. Utviklingstrekkene vi har presentert, og da spesielt den demografiske utviklingen og en presset offentlig økonomi, vil trolig gjøre det mer krevende å prioritere ressurser til skolen framover. Samtidig gir det økende mangfoldet i skolen økt ressursbehov. Vi mener scenarioanalysen vi har gjennomført illustrerer hvilket alvor vi står overfor.
 
-Kapittel 13
+Et selvstendig poeng her er den forventede utviklingen i kommunenes demografiske sammensetting det neste tiåret. Som tidligere nevnt anslår Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi (TBU) at det vil komme et trekk fra kommunerammen på totalt 11 mrd. kroner de neste ti årene, som følge av færre barn og unge i grunnskolealder. I tillegg anslår beregningsutvalget et trekk på nær 4 mrd. kroner fra fylkeskommunene, som følge av færre ungdommer i aldersgruppen for videregående skole.
 
-NOU 2026: 10
-Fellesskolen
+TBU varsler en medfølgende vridning av kommuneøkonomien fra grunnskole til omsorgstjenester i samme periode. Anslagene er riktignok usikre, men bekymringene vi har uttrykt i kapittel 4.3 om mulige endringer i skolens rammebetingelser, gjentar vi her: Å nedprioritere skolen i dag, vil kunne gi større utenforskap, lavere skatteinntekter og økt hjelpebehov i framtiden. Motsatt vil det å opprettholde kvaliteten i skolen, herunder gjennom ressursbruken, bidra til å svare på mange av utfordringene vi som samfunn står overfor.
 
-Det grønne skiftet vil i tillegg kreve endrede
-holdninger og stor oppslutning om omstillingen i
-befolkningen, noe skolen kan bidra til. Kompetansebehovsutvalget (KBU) anbefaler at realfag,
-naturfag og praktisk problemløsningsevne styrkes i grunnopplæringen, blant annet for å øke
-rekrutteringen til realfag og teknologifagene i
-UH-sektoren (Kompetansebehovsutvalget (2023),
-kap. 7.6.).
-Kompetansebehov som følge av teknologiutviklingen
-Den teknologiske utviklingen vil trolig gi økt
-behov for kompetanse innen IKT, ingeniører og
-annen teknisk kompetanse i framtiden. Det økte
-behovet for kompetanse innen teknologiske fag
-følger delvis av det grønne skiftet. For å dra nytte
-av den teknologiske utviklingen er det sannsynligvis behov for et enda høyere utdanningsnivå i
-befolkningen generelt. Den økte bruken av utenlandsk arbeidskraft med høyere utdanning (som
-IT-utviklere og andre teknologer) tyder på det.
-Teknologiutviklingen favoriserer i seg selv
-arbeidskraft med høy kompetanse. Ved hjelp av
-teknologi, robotisering og IT-løsninger blir jobber
-automatisert og rutineoppgaver flyttet fra merkantilt personell til kunder og brukere selv.
-Relativt høye lønninger og en sammenpresset
-lønnsstruktur gir norske virksomheter insentiver
-til å investere i ny teknologi som gir effektiviseringsgevinster. Det er også forventet at udekte
-oppgaver innen helse- og omsorg vil presse fram
-nye teknologiske løsninger (NOU 2023: 4, 2023). I
-tillegg vil trolig den geopolitiske uroen og utviklingen innen cybersikkerhet drive teknologiutviklingen framover. På toppen av dette kommer generativ kunstig intelligens, som vil kunne gi store
-endringer i både arbeidsoppgaver og kompetansebehov i framtiden (Kompetansebehovsutvalget
-(2023)).
-Behov for fagarbeidere
-Landet mangler fagarbeidere (Kompetansebehovsutvalget (2022); Kompetansebehovsutvalget
-(2023)). Norge er avhengig av faglært utenlandsk
-arbeidskraft for å dekke alle behovene i arbeidsmarkedet. De store økonomiene på kontinentet
-har også økte behov for utenlandske fagarbeidere,
-og Norge konkurrerer med andre land, spesielt i
-Vest-Europa, om den samme utenlandske faglærte arbeidskraften.
-SSBs siste framskrivninger viser en forventet
-mangel på arbeidskraft med videregående fagut-
+Det forventede trekket fra kommunerammen det neste tiåret følger av måten inntektssystemet er rigget på, og det vil ikke endres uten aktive politiske grep på nasjonalt nivå. Utvalget mener det er avgjørende for fellesskolens framtid at staten tar sin del av det økonomiske ansvaret for utviklingen av skolen. Det innebærer også å ta ansvar for forutsigbare konsekvenser for skolen av å eventuelt ikke kompensere kommunene. Utvalget mener at staten bør kompensere kommunene og fylkene for de forventede automatiske kuttene som følger av fallende elevtall. I tillegg mener utvalget at staten bør utrede og innføre en ny ressursnorm for grunnskolen. Disse forslagene vil vi utdype og begrunne senere i dette kapittelet.
 
-danning rettet inn mot industri, bygg og anlegg og
-håndverk, i tillegg til helsefagarbeidere og sykepleiere (Vigtel, 2024). Sett bort fra helse- og
-omsorgssektoren beregner også Nav at mangelen
-på arbeidskraft er størst innenfor varehandel og
-bygg- og anleggsnæringen (NAV, 2024).
-Kompetansebehov innenfor humaniora og
-samfunnsfag
-På tvers av de rapportene vi her bygger på, pekes
-det på at den typen kompetanse som er forbundet
-med humaniora- og samfunnsfagene blir nødvendig for å møte stadig mer komplekse utfordringer
-i samfunnet. Historisk og kulturell forståelse, systemtenkning og strategisk tenkning fra HumSamfagene ses på som nødvendig for å kunne styre
-utviklingen, jobbe tverrfaglig med framtidens løsninger, reflektere over og håndtere teknologiutviklingen (inkl. KI). I tillegg må vi forstå og håndtere ulike samfunnstrender, som sosial ulikhet,
-migrasjon, falske nyheter, polarisering og sviktende tillit til institusjoner.
+En svekket kommuneøkonomi vil gjøre det svært krevende for kommunene å møte de utfordringene som vi har beskrevet andre steder i utredningen. Svaret på en svekket skoleøkonomi i kommunene er ikke så enkelt som å slå sammen skoler til større enheter for å oppnå stordriftsfordeler. For det første har en av fem kommuner bare én skole igjen, og det er derfor ingen skoler å legge ned, med mindre de samarbeider på tvers av kommunegrensene. For det andre kan antall innbyggere i skolealder komme til å *øke* igjen på lenger sikt, altså ut over den første tiårsperioden. Selv om framskrivningene lenger fram i tid er mer usikre, vil det være uheldig om kommunene settes i en situasjon hvor de må bygge ned skolekapasiteten det neste tiåret, bare for å måtte øke kapasiteten igjen etter dette. For det tredje er skolenedleggelsesprosesser krevende og det er ikke gitt at initiativer for å endre skolestrukturen i en kommune leder fram, eller at de gir besparelser dersom de faktisk leder fram.
 
-13.6.2 Lengden på opplæringsløpet bør
-beholdes som i dag
-Framtidens kompetansebehov springer på mange
-måter ut av de samfunnstrendene som vi har
-beskrevet i del 2 av utredningen. Utviklingen stiller høye krav til skolens innhold og støtte til elevenes faglige og sosiale utvikling gjennom skolegangen. Den vil i tillegg stille krav til en profesjonalisering av fellesskolen, slik vi har begrunnet andre
-steder i utredningen. De mange og store forventede kompetansebehovene i framtiden, og hensynet til de samfunnstrendene vi har beskrevet,
-danner bakgrunnen for utvalgets svar på mandatets siste spørsmål:
-Er omfanget av grunnopplæringen og lengden
-på utdanningsløpet hensiktsmessig, eller kan
-menneskelige og økonomiske ressurser brukes bedre?
-Kunnskapsdepartementet, 2024b
+Utvalget ser det ikke som realistisk at kommunene skal klare å redusere ressursene til skolen med de anslåtte 11 mrd. kroner uten langvarige skadevirkninger for kvaliteten i skoletilbudet. En grunn til dette er forskjellen mellom *gjennomsnittskostnader* og *marginalkostnader* i skolesektoren. Gjennomsnittskostnaden per elev, som vi får ved å fordele kommunens samlede utgifter til skole på antallet elever totalt i kommunen, gir ikke et godt bilde av hva kommunen faktisk sparer når elevtallet går ned. De fleste kostnadene i grunnskolen som skolebygg, ledelse og lærerlønninger, er i praksis faste og lar seg i begrenset grad justere på kort sikt. Dermed vil marginalkostnaden, eller besparelsen ved lavere elevtall i en kommune, være betydelig mindre enn den gjennomsnittskostnaden per elev som kommunen trekkes økonomisk for. Det disponible økonomiske handlingsrommet vil derfor automatisk svekkes dersom skolen trekkes for gjennomsnittskostnader per elev.
 
-Vi tolker spørsmålet slik at vi blir bedt om å vurdere en avkortning av skoleløpet i antall år (lengden) og/eller antall timer eller fag (omfanget).
-Utvalget mener lengden på utdanningsløpet
-bør beholdes som i dag. I lys av de utfordringene
-samfunnet står overfor, kan ikke svaret være mindre skole. Utvalget kan heller ikke se noen bedre
-måte å bruke offentlige ressurser på enn å fortsette å investere i fellesskolen. Det samfunnet
+Konsekvensen er at nedgang i elevtall ikke automatisk frigjør ressurser i samme omfang som de beregnede gjennomsnittskostnadene tilsier. Reelle innsparinger forutsetter ofte strukturelle tilpasninger, som nedleggelse eller sammenslåing av klasser og skoler. Dette kan være både faglig og politisk svært krevende. I tillegg kan det være geografiske og praktiske forhold ved skoledriften som gjør at gjennomsnittskostnaden per elev i en kommune faktisk stiger når elevtallet går ned (f.eks. kostnader til skoleskyss). Dermed vil en del av de anslåtte demografiske gevinstene som staten legger til grunn i praksis ikke være mulig å realisere for kommunene.
 
-[Side 319]
+### Risiko for lokal underinvestering i skole
 
-NOU 2026: 10
-Fellesskolen
+I tillegg til vår bekymring om framtidige trekk fra kommunerammen, mener utvalget at det er risiko for samfunnsøkonomisk underinvestering i fellesskolen dersom beslutninger om hvor mye penger som skal brukes på skole overlates helt og fullt til kommunene. Dette vil vi begrunne i det følgende.
 
-eventuelt ville spare på å kutte ett skoleår, og
-eventuelt tjene ved å få folk raskere i arbeid, vil
-raskt gå tapt gjennom økte kostnader i samfunnet
-knyttet til ulike former for utenforskap, til et mindre velfungerende arbeidsliv og til et mindre konkurransedyktig næringsliv. Sagt på en annen
-måte: Bærebjelken vil svekkes.
-Utvalget vil heller ikke anbefale å øke lengden
-på skoleløpet, og ikke heller omfanget i særlig
-grad. Med unntak av forslaget om å integrere 12
-timer SFO i skoledagen i uka for 1. og 2. trinn,
-foreslår vi ikke noen økninger av det samlede
-antall timer elevene har i løpet av et år. Utvalget
-begrunner dette med de svært høye kostnadene
-som er forbundet med slike utvidelser, at oppstartalderen for dagens studenter allerede er høy og at
-et lengre skoleløp ville forsinke de som skal ut i et
-allerede presset arbeidsmarked.
+Kortsiktige kostnader trumfer langsiktige gevinster
+
+Investering i skolen gir mange gevinster, men ikke nødvendigvis umiddelbart for hver enkelt kommune og fylkeskommune, som i all hovedsak finansierer skolen. Mange av gevinstene tilfaller selvsagt det enkelte individ, mens andre gevinster tilfaller samfunnet rundt gjennom positive ringvirkninger. I tillegg kan investeringer i skolen føre til lavere offentlige utgifter og besparelser også utenfor den kommunen som har betalt for skoletiltaket. Gevinstene kommer blant annet til syne gjennom økt utdanningslengde, høyere sysselsetting, bedre folkehelse og mindre kriminalitet i befolkningen (Falch et al., 2026).
+
+Det er mye som tyder på at lokalpolitikere ikke tar inn over seg hele den langsiktige verdien og de eksterne virkningene av en god skole når de fatter beslutninger om skoleinvesteringer. Selv dersom man ser bort fra eksterne virkninger og bare tar hensyn til preferansene til innbyggerne, ser lokale myndigheter ut til å underinvestere i skole (Bayer, 2023; Cellini et al., 2010).[^31]
+
+En høy andel av de samfunnsøkonomiske gevinstene av dagens investeringer i skolen tilfaller altså andre sektorer i morgendagens samfunn, som næringslivet, helsesektoren og justissektoren. Forskning viser også at gevinstene ved å investere i skole kan ha virkninger på tvers av generasjoner, slik at barna til dem som får mer utdanning også får bedre forutsetninger i livet (Devereux et al., 2005; Oreopoulos et al., 2006). Dette innebærer at gevinstene og kostnadene ved investeringer i skole ofte er asymmetrisk fordelt. Gevinstene kommer langt fram i tid og kan tilfalle staten eller andre kommuner, mens kostnadene finansieres her og nå av den enkelte kommune.
+
+Det er grunn til å tro at dette «store regnestykket» er krevende å få øye på i de årlige og mer kortsiktige diskusjonene om kommunebudsjettene. De negative virkningene av å nedprioritere skolen kan framstå som lite konkrete, framtidige og dermed være vanskelige å ta hensyn til i både nasjonale og lokale budsjettforhandlinger. Når ressurser brukt på skolen først svarer seg over tid, og gjerne i andre sektorer, er det med andre ord fare for at skoleøkonomien i kommunene blir nedprioritert i kampen om knappe offentlige ressurser.
+
+Videre har forskning påvist en iboende kortsiktighet i politikken, både nasjonalt og lokalt, som gjør at politikerne har insentiver til å prioritere tiltak med kortsiktige gevinster og langsiktige kostnader, foran tiltak med kortsiktige kostnader og langsiktige gevinster (se f.eks. Ogami, 2024). Investeringer i skole er nettopp et slikt tiltak med langsiktige gevinster, som vi har redegjort for over. Handlingsregelen for bruk av petroleumsinntekter er ellers et godt eksempel på at man politisk forsøker å motvirke politikkens iboende kortsiktighet.
+
+De nærmeste årene må, som nevnt, mange kommuner tilpasse seg uttrekk fra kommunerammen grunnet fallende elevtall. I kombinasjon med den nært forestående eldrebølgen kan det skape en opplevd lokal tvangssituasjon, hvor nedprioritering av oppveksttjenester til fordel for helse- og omsorgstjenester kan synes uunngåelig.
+
+Det er også fare for at skolen nedprioriteres lokalt fordi de umiddelbare skadevirkningene ikke er like synlige som i andre sektorer, for eksempel innenfor helse og omsorg. Det er dessuten allerede slik at også andre sektorer legger sterke føringer på kommuneøkonomien. Generalistkommuneutvalget er blant dem som har beskrevet at ingen kommuner makter å oppfylle alle lovkrav (NOU 2023: 9). Uten harmonisering på tvers av sektorene, vil en reduksjon av statlig styring i én sektor (for eksempel skole) dermed reelt sett innebære en statlig omprioritering mellom sektorer.
+
+I tillegg er spesialiserte velferdstjenester, som for eksempel individuelt tilrettelagt opplæring, ofte kostbare for kommunene. Det er en fare for at kommuner underprioriterer slike spesialiserte tjenester for ikke å tiltrekke seg flere ressurskrevende innbyggere. Dette fenomenet er beskrevet som et «race to the bottom» (NOU 2026: 1). Statlig styring er i slike tilfeller nødvendig for å hindre at ressursene styres vekk fra sårbare grupper og for å sikre at disse gruppene får det minimum av tjenester de har krav på.
+
+Det kan også være grunn til å spørre om det politiske systemet ivaretar barn og unges interesser i tilstrekkelig grad. Det er ikke gitt at barn og unges preferanser er tilstrekkelig representert gjennom de voksne, selv om det er naturlig å legge til grunn at foreldre representerer sine barns interesser politisk. I tillegg er det en tydelig representasjonsskjevhet i lokalpolitikken, med relativt sett flere eldre og klart færre ungdom og unge voksne (Statistisk sentralbyrå, 2025c).
+
+Eksterne virkninger av lokale skoleinvesteringer, kortsiktige kostnader og langsiktige gevinster, manglende harmonisering mellom sektorene og underrepresentasjon av barn og unges interesser i lokaldemokratiske prosesser, er alle forhold som peker i retning av at skoleøkonomien kan komme til å nedprioriteres i framtiden.
+
+Nedprioritering er sannsynlig, men ikke gitt
+
+Utvalget anerkjenner samtidig at det finnes lokale forhold, såkalte *internaliserende mekanismer*, som gir kommunene både økonomiske og politiske grunner til å prioritere skolesektoren høyt.
+
+Ett slikt forhold er *lokaldemokratisk press*. Foreldre har sterke preferanser for barnas framtidige muligheter, og lokalpolitikere som velger å nedprioritere oppvekstsektoren, kan ha mindre sjanse for å bli gjenvalgt. Et tydelig eksempel er det store lokaldemokratiske engasjementet som oppstår i saker om skolenedleggelser i kommunene. Mange eldre kommunestyrerepresentanter og kommunestyrerepresentanter uten barn, har dessuten barn og unges oppvekst høyt på agendaen. Paradoksalt nok kan dette lokaldemokratiske presset være til hinder for effektiv ressursbruk og kvalitet i skoletilbudet, rett og slett fordi det gjør det vanskeligere å tilpasse skolestrukturen til færre elever og endret bosettingsmønster. Mekanismene bak dette beskrives godt i rapporten om skolenedleggelser fra Telemarksforskning og Nordlandsforskning (Storm et al., 2026).
+
+Et annet forhold er kommunens *attraktivitet for tilflyttere*. Et generøst og godt skoletilbud gjør kommunen attraktiv for barnefamilier, som kan sikre kommunen viktig arbeidskraft og økte skatteinntekter. Ikke minst vil tilflytting kunne gi kommuner en mer balansert demografisk utvikling og dermed bedre grunnlag for å håndtere eldrebølgen. Dette gir kommunene insentiver til å prioritere skole.
+
+I tillegg inneholder inntektssystemet for kommunene en mekanisme som omfordeler skatteinntekter fra skattesterke kommuner til skattesvake kommuner. Det faktiske tapet av skatteinntekter for en hjemkommune som «mister» ferdigutdannet ungdom til en annen kommune, er dermed betydelig mindre enn tapet ville vært uten en slik utjevningsordning.
+
+Det er altså ikke gitt at kommunene vil nedprioritere skole i framtiden. Men selv om slike internaliserende mekanismer kan gjøre seg gjeldende, mener utvalget at det er sannsynlig at kommunene i en presset situasjon vil nedprioritere midler til skolen i framtiden, relativt til det som er samfunnsøkonomisk optimalt. Dette handler ikke nødvendigvis om bevisst nedprioritering, men kan like gjerne skyldes opplevelse av å være i en tvangssituasjon for å finansiere økte behov innen helse og omsorg.
+
+Det springende punktet er om det er grunn til å tro at skolen vil bli for lavt prioritert i kommunene gitt en situasjon med mindre statlige føringer. Analysen som Kommunekommisjonen har fått gjennomført, konkluderer med at «dette ikke er åpenbart», med henvisning til mekanismene om lokaldemokrati, attraktivitet og inntektssystemet nevnt over (NOU 2026: 1, Vedlegg 1).
+
+Fellesskoleutvalget mener denne konklusjonen bygger på et for snevert grunnlag. Mye tyder på at kommunene ikke fullt ut tar hensyn til alle gevinstene av skoleinvesteringer, selv ikke gevinster som kommer til uttrykk gjennom høyere boligpriser og attraktivitet for tilflyttere. I tillegg diskuterer Kommunekommisjonen i liten grad samfunnsgevinster som lavere kriminalitet, bedre helse og lavere framtidige offentlige utgifter.
+
+Når det gjelder spesialiserte velferdstjenester, er dessuten konklusjonen fra analysen for Kommunekommisjonen at kommunene *har* insentiver til å nedprioritere slike tjenester. Individuell tilrettelegging av opplæringen er blant disse tjenestene.
+
+Utvalget mener disse momentene samlet sett gjør det nødvendig med en viss statlig styring av skoleøkonomien. Uten tydelige føringer er det en risiko for at kommunene investerer for lite i skole i framtiden. Statlig styring kan ifølge retningslinjene begrunnes i nasjonale mål, og utvalget vil hevde at fellesskolen er et slikt relevant nasjonalt mål.
+
+### Tre gode grunner til å prioritere ressurser til skolen
+
+Selv om vi skulle se helt bort fra den nevnte risikoen for lokal nedprioritering, kan en statlig ressurssikring begrunnes selvstendig med skolens funksjon som en bærebjelke i samfunnet. Her vil vi særlig peke på at økt ressursbruk i skolen gir bedre og mer likeverdig opplæring, og store samfunnsøkonomiske gevinster. De økte kravene til skolen vil kreve mer og ikke mindre bruk av ressurser i skolen framover. Disse forholdene utdyper vi nedenfor.
+
+Økt ressursbruk i skolen gir bedre og mer likeverdig opplæring
+
+Det er forsket mye på sammenhengen mellom ressursbruk i skolen og skolens resultater. Den tidlige internasjonale forskningen greide ikke på noen overbevisende måte å isolere effektene av pengebruken fra alle andre forhold som korrelerer med ressurser og som kan påvirke skolens kvalitet. Denne forskningen fant derfor svake sammenhenger mellom ressursbruk og læringsutfall (Hanushek, 1986, 1989, 1996). De siste årene er det derimot ført sterkere forskningsmessige bevis for at økt ressursbruk på skole faktisk gir økt læring (Jackson et al., 2016). Gevinstene kommer til uttrykk gjennom økt utdanningslengde, økte inntekter og mindre forskjeller i livsutfall avhengig av kjønn. Ikke minst viser forskningen at økt ressursbruk i skolen på lengre sikt gir økt sosial mobilitet i samfunnet, fordi det er elever fra familier med lav og middels inntekt som har størst fordel av den økte ressursbruken (Jackson, 2020, s. 203-206; Langørgen & Løkken, 2023).
+
+Utvalget merker seg at forskerne finner forskjeller avhengig av hva ressursene brukes på. En litteraturgjennomgang viser at generelle budsjettøkninger nesten konsekvent gir bedre livsutfall for elevene (Jackson, 2020). Dette gjelder særlig når de frie midlene rettes direkte inn mot selve klasserommet og skolehverdagen, og går til lærere, støttepersonell, undervisningsmateriell og det løpende vedlikeholdet av skolens utstyr. For investeringer i skolens fasiliteter og infrastruktur er resultatene mer blandet. Noen studier finner positive effekter av nye skolebygg og oppgradering og vedlikehold av eksisterende skolebygg og anlegg, men flere studier finner ingen vesentlige gevinster for elevene senere i livet. Gitt generelle budsjettøkninger uten spesifikke føringer, gir ekstra midler som brukes på flere lærere, mer bemanning og undervisningsmateriell derimot tydelige langsiktige gevinster for elevene, spesielt for de fra lavere sosiale lag og spesielt for gutter (Jackson, 2020; Langørgen & Løkken, 2023).
+
+Disse forskningsresultatene støttes også av ny forskning om virkningene av omleggingen av inntektssystemet for norske kommuner i 1986. Reformen var i hovedsak budsjettnøytral nasjonalt, men førte til systematiske forskjeller i finansiering per elev mellom kommuner, betinget av alderssammensetningen blant elevene. Noen kommuner fikk dermed økte ressurser per elev uten egne politiske vedtak. Dette har gitt grunnlag for en kausal analyse av effekter av den økte ressursbruken. Studien finner for det første at ressursøkningen i hovedsak gikk til å ansette flere lærere. For det andre viser resultatene moderate, men positive langsiktige effekter, med en samfunnsøkonomisk avkastning som overstiger kostnadene. Inntektsnytte kom særlig for menn fra familier med lavt utdannede foreldre. For kvinner viser gevinstene seg blant annet gjennom flere års utdanning og bedre familieøkonomi (Duque, 2026).
+
+Forskningslitteraturen på langsiktige effekter av ekstra ressurser til skolene finner altså bedre resultater av generelle midler til skole rettet mot skolehverdagen enn av spesifikke, øremerkede tiltak (Jackson et al., 2016).
+
+Dette tyder på at lokale skolemyndigheter er godt posisjonert for å beslutte effektiv ressursbruk lokalt, enten det er om pengene skal brukes på lærere, på andre forhold i skolen, eller det dreier seg om hvordan ekstra lærerressurser best mulig bør innrettes.
+
+Enkelt sagt tyder forskningen på at mer ressurser til skolen grunnleggende sett gir mer *likeverdig opplæring* på lengre sikt. Med økte ressurser *reduseres* betydningen av elevenes ulike forutsetninger. Mer penger brukt på skole gjør at elevenes sosioøkonomiske bakgrunn får mindre betydning for om de lykkes med skolegangen og videre i livet. Denne mekanismen virker åpenbart begge veier. Dersom skolen nedprioriteres framover, så vil det ha betydelige og forutsigelige negative konsekvenser for skolens evne til å motvirke sosiale forskjeller.
+
+For at fellesskolen skal ha muligheten til å nå ambisjonen om en likeverdig opplæring i framtiden, er det derfor viktig å hegne om ressursene i skolen. Samfunnets ressursbruk på fellesskolen må stå i stil med forventningene til den, og likeverdig opplæring er en ambisiøs forventning som samfunnet har til skolen.
+
+Prinsippet om likeverdig opplæring vil i tillegg utfordres dersom kvalitetsforskjellene øker på grunn av geografi, og i den grad den enkelte kommunes økonomi og lokale prioriteringer gir ulike vilkår for å drive skole. Denne bekymringen har blitt tematisert ved flere anledninger av utvalgets referansegrupper, og kom tydelig fram i våre regionale dialogmøter høsten 2025.
+
+Økt ressursbruk i skolen gir store samfunnsøkonomiske gevinster
+
+På oppdrag for utvalget har Senter for økonomisk forskning (SØF) gjort en litteraturgjennomgang som dokumenterer hvilke virkninger skole har for individer og samfunn, og tallfestet samfunnsøkonomiske gevinster av ulike forbedringer i skolen. SØFs anslag viser at selv små forbedringer i skolen vil gi betydelige samfunnsøkonomiske gevinster (Falch et al., 2026).
+
+- Dersom fullføringen av videregående opplæring øker med ett prosentpoeng, fra dagens nivå på 82 prosent til 83 prosent, anslår SØF en samlet gevinst i form av økt verdiskaping, redusert kriminalitet og bedre helse på 1,74 mrd. kroner per kohort.
+
+- Dersom andelen elever som ikke oppnår grunnskolepoeng etter 10. klasse reduseres med ett prosentpoeng, fra dagens nivå på åtte prosent til syv prosent, anslår SØF en samlet gevinst på 1,81 mrd. kroner per kohort.
+
+- Dersom andelen elever som mobbes i skolen reduseres med ett prosentpoeng, fra dagens nivå på ti prosent til ni prosent, anslår SØF en samlet gevinst på 900 mill. kroner per kohort.
+
+Felles for de tre nevnte forholdene (økt fullføring, flere med grunnskolepoeng og færre som mobbes) er at forbedringene som er lagt til grunn vil berøre relativt få elever (ca. 600 elever per forhold, gitt en kohortstørrelse på 60 000 elever). SØF har i tillegg gjort beregninger av forbedringer i skolen som vil gjelde alle elever. De samfunnsøkonomiske gevinstene vil da bli vesentlige:
+
+- Dersom de faglige ferdighetene i skolen øker tilsvarende 0,1 karakterpoeng for alle elever, anslår SØF en samlet gevinst på hele 9,26 mrd. kroner per kohort som følge av økt verdiskaping, redusert kriminalitet og bedre helse.[^32]
+
+- Dersom elevenes sosiale og emosjonelle ferdigheter økes tilsvarende 0,1 standardavvik, anslår SØF en samlet gevinst på hele 4,62 mrd. kroner per kohort som følge av økt verdiskaping, redusert kriminalitet bedre helse.
+
+SØF viser til at de her har gitt moderate anslag for hvordan ulike forbedringer i skolen kan komme til uttrykk. Utvalgets vurdering er at slike forbedringer er innen rekkevidde for framtidens fellesskole, gitt at den når opp i kampen om knappe offentlige ressurser.
+
+Internasjonal forskning viser at tiltak rettet mot barn og unge ofte gir svært høy gevinst sett i forhold til kostnaden. I praksis kan mange slike tiltak finansiere seg selv ved at kostnaden mer enn svarer seg over tid gjennom økte skatteinntekter og reduserte sosiale utgifter (Hendren og Sprung-Keyser, 2020). Samlet sett viser forskningen at mer ressurser til skolen kan gi mer utdanning, høyere inntekt i voksenlivet og mindre fattigdom. Utvalget understreker at vi her utelukkende vurderer de økonomiske effektene. Ikke-prissatte effekter for livskvalitet kommer i tillegg, og kan være vesentlige.
+
+Økte krav til skolen krever økte ressurser
+
+Utvalget mener det vil ha store negative konsekvenser for skolen og samfunnet dersom ressurser til skolen nedprioriteres i en tid hvor skolens oppdrag blir stadig mer krevende. Gitt de forventningene storsamfunnet stiller til skolen, er dessuten mulighetene til å redusere kompleksiteten og effektivisere skoledriften begrenset. Økte utfordringer og økte krav til skolen vil kreve økte ressurser i framtiden. Som nevnt mener utvalget at det særlig er samfunnstrendene med press på offentlig sektor og det økende mangfoldet i skolen som gjør ressursbruk til en reell grunn til bekymring.
+
+De langsiktige skadevirkningene for samfunnet av å nedprioritere skolebudsjettene i dag, vil merkes i samtlige sektorer i framtiden. Utvalget sender derfor et tydelig budskap til både nasjonale og lokale myndigheter om at ressursene til skolen må prioriteres i framtiden.
+
+Samtidig anerkjenner utvalget at kommunene er i en økonomisk situasjon som vil kreve fleksibilitet for å få mest mulig ut av de samlede ressursene framover. For stor innskrenking av kommunenes handlingsrom vil innebære et effektivitetstap som samfunnet som helhet ikke er tjent med. Et nasjonalt kappløp mellom sektorene om hvem som kan binde opp mest mulig penger i kommunene, vil være ugunstig for samfunnet sett under ett. Kommunekommisjonen peker på at stramme føringer for ressursbruk i kommunene begrenser kommunenes handlingsrom til å gjennomføre nødvendige omstillinger (NOU 2026: 1).
+
+I tillegg innebærer kompleksiteten i skolens samfunnsoppdrag, kombinert med stor variasjon i lokale forhold, at både kommuner, skoler, skoleledere og lærerprofesjonen bør ha betydelig handlingsrom og autonomi. Dette har implikasjoner for hvordan skolen bør styres, ledes og utvikles.
+
+Økt ressursbruk på skolen, fornuftig anvendt, vil gi mer likeverdig opplæring, økt livskvalitet for den enkelte og store økonomiske gevinster for samfunnet. Det vil gi et samfunn med mulighet for sosial mobilitet for den enkelte, og det vil gi bedre balanse i det store samfunnsregnskapet.
+
+Med andre ord er den offentlig finansierte skolen en viktig del av løsningen for utfordringene i samfunnet framover. Et sentralt spørsmål blir derfor hvordan vi kan sørge for tilstrekkelig med midler til at den kan løse sitt viktige samfunnsoppdrag, slik at dagens og morgendagens elever ikke blir tapere i kampen om knappere offentlige ressurser.
+
+Statlig styring kan begrunnes i fellesskolen som nasjonalt mål
+
+En klassisk løsning for å håndtere manglende hensyn til eksterne virkninger i beslutninger om investeringer, er å flytte beslutningene til et høyere nivå. I vårt tilfelle skulle det tilsi at beslutningene om nivået på skoleinvesteringer burde flyttes til staten. Da blir det den samme aktøren som både bærer kostnadene og høster gevinstene av dem, for eksempel i form av høyere skatteinntekter og lavere kriminalitet. På den måten blir det lettere å ta hensyn til de samlede virkningene av investeringene i skole.
+
+Samtidig må vi ta hensyn til Grunnlovens bestemmelse om at innbyggerne har rett til å styre lokale anliggender gjennom lokale folkevalgte organer (§ 49) og forholdsmessighetsprinsippet i kommuneloven (§ 2-2) som innebærer at det kommunale selvstyret ikke bør begrenses mer enn nødvendig for å ivareta nasjonale mål. Et viktig hensyn er at lokaldemokratiet gir innbyggerne mulighet til å påvirke beslutninger nær dem selv. Nærheten til innbyggerne, god informasjon om lokale forhold og behov og kommunenes selvstendige vurderinger, antas i tillegg å gi bedre beslutninger og bedre løsninger, og det har en demokratisk egenverdi.
+
+Når vi nedenfor likevel foreslår statlige føringer for skoleøkonomien, er det med bakgrunn i at skolen er en bærebjelke i det norske samfunnet, og at den gir store samfunnsøkonomiske gevinster utover den enkelte kommune når den lykkes. Vi mener redegjørelsen i kapittel 2 og 3 om skolens mål og formål, og den nasjonale målsettingen om likeverdig opplæring, viser hvordan det lokale selvstyret må virke innenfor rammene av den nasjonale målsettingen om en offentlig finansiert fellesskole. Utvalget mener altså at slik statlig styring som vi her foreslår, kan begrunnes i fellesskolen som nasjonalt mål.
+
+### Spesielt om lærernormen
+
+Gitt drøftingen over, blir et spørsmål *hvordan* forholdene kan legges til rette slik at ressurser til skolen prioriteres i framtiden. En mye omtalt sak i denne forbindelse er normen om lærertetthet, den såkalte *lærernormen*. Lærernormen angir i dag en øvre grense for antall elever per lærer på en skole på hvert hovedtrinn. Siden den største innsatsfaktoren i skolen er lærerårsverkene, kan man se på økt lærertetthet som en måte å øke ressursbruken i skolen på. Lærernormen er med andre ord en mekanisme som legger nokså sterke statlige føringer på kommunenes bruk av midler på skole, selv om normen i utgangspunktet ble finansiert ved ekstra statlige midler og siden innlemmet i kommunerammen. Den politiske begrunnelsen for innføringen var et ønske om bedre grunnleggende og faglige ferdigheter for elevene, bedre inkludering og læringsmiljø i skolene og at flere skulle gjennomføre videregående opplæring (Prop. 1 S (2018–2019)).
+
+Lærernormen
+
+Lærernormen er et nasjonalt lovpålagt krav om en minstenorm for hvor mange lærere det skal være til sammen på en skole. Den sier at det i gjennomsnitt skal være maksimalt 15 elever per lærer i ordinær undervisning på 1. –4. trinn og maksimalt 20 elever per lærer i ordinær undervisning på 5.–10. trinn. Lærertettheten beregnes ved å dele antall elevtimer på antall lærertimer på en skole.
+
+Normen sier ikke noe om størrelsen på klassen, og den gjelder kun for offentlige skoler. Skolene er ikke forpliktet til å oppfylle normen på det enkelte trinn eller i den enkelte klasse eller gruppe, men på hvert av hovedtrinnene samlet. Tall fra Utdanningsdirektoratet for skoleåret 2025/26 viser at 93 prosent av skolene oppfyller normen på 1.–4. trinn. Da normen ble innført i 2018 var andelen 60 prosent.
+
+Det første året med helårseffekt ble det bevilget omtrent 1,5 mrd. kroner til lærernormen. Merk at dette kun er *merkostnaden* ved tiltaket, og ikke det samlede beløpet kommunene bruker på lærerårsverk eller skole generelt. Lærernormen binder derfor vesentlig mer ressurser enn 1,5 mrd. kroner.
+
+Til å begynne med ble lærernormen finansiert gjennom et øremerket tilskudd, men i 2020 ble midlene lagt inn i rammetilskuddet til kommunene.
+
+Kilder: Utdanningsdirektoratet; Prop. 85 S (2017–2018).
+
+Rammeslutt
+
+Evalueringen av lærernormen
+
+Utvalget har merket seg evalueringen som konkluderer med at lærernormen som bemanningsnorm fungerer etter hensikten. Den har bidratt til at kommunene har økt ressursinnsatsen i skolesektoren og til at skolene har ansatt flere lærere, uten at det umiddelbart synes å gå ut over ressursbruk til andre yrkesgrupper. Normen har gjort det vanskeligere for kommunene å kutte i ressursbruken i skolen (Pedersen, 2022).
+
+Evalueringen finner imidlertid ingen vesentlige endringer i trivsel hos elevene eller i elevenes læring, målt som resultater fra nasjonale prøver og karakterer.
+
+Som allerede nevnt, finnes det både internasjonale og nasjonale studier om virkningene av økt ressursbruk i skolen. Disse viser gevinster av generelle budsjettøkninger på ulike utfall senere i livet, som elevenes utdanningslengde og inntekt. Dette er forhold som først lar seg måle på lengre sikt. De langsiktige gevinstene oppstår når de økte ressursene ikke bindes til spesifikke normtall for klassestørrelser eller bemanning, men likevel kanaliseres til undervisningsrelaterte oppgaver, herunder økt lærertetthet (Duque, 2026; Jackson, 2020; Langørgen & Løkken, 2023).
+
+Forskning som tar utgangspunkt i vedtak om spesifikke normtall for klassestørrelser eller bemanning, og som så undersøker virkningen for elevenes karakterer og trivsel på kortere sikt, viser svakere og mer blandede resultater. Det siste gjelder også for evalueringen av lærernormen.
+
+Evalueringen tyder på at de ekstra lærerressursene i hovedsak har blitt benyttet til å følge opp svakt presterende elever, enten 1:1 eller for mindre grupper av elever. Dette mener forskerne kan bidra til å forklare manglede effekter av lærernormen når de bruker gjennomsnittlige utfall på skolenivå som mål. En eventuell framgang for svake enkeltelever har ikke vært stor nok til å flytte på skolens gjennomsnittlige resultater.
+
+Evalueringen tar utgangspunkt i den *planlagte* lærertettheten på skolene, som rektorene rapporterte i september/oktober. Forskerne spør om ulike hendelser og omrokkeringer som skjer gjennom skoleåret kan ha bidratt til at de ekstra lærertimene ikke nødvendigvis har utgjort en merkbar endring for elever og lærere. Litt spissformulert kan vi si at lærerressursene økte mest på skoler som trengte det minst (Pedersen, 2022, s. 14-16). Det innebærer at selv om de økte lærerressursene gjorde nytte på disse skolene, så kunne de gjort mer nytte på andre skoler som trengte dem mer. Denne manglende treffsikkerheten kommer vi tilbake til nedenfor.
+
+Forskning på lærertetthet og klassestørrelser
+
+Det finnes mange andre studier som undersøker effekter av vedtak om ekstra lærerressurser. En studie som undersøkte effekten av ekstra lærerressurser på over 160 utvalgte ungdomsskoler i årene 2013–2017 fant, i likhet med evalueringen av lærernormen, ingen forbedring i faglige resultater for elevene, verken målt gjennom nasjonale prøver, skriftlig eksamen eller standpunktkarakterer (Borgen et al., 2019). En gjennomgang av norsk og internasjonal forskning om virkninger av økt lærertetthet generelt finner blant annet (Sandsør, 2019)
+
+- ingen eller kun beskjedne positive effekter av økte lærerressurser på elevenes læringsutbytte i snitt
+
+- større effekter for barn av foreldre med lav sosioøkonomisk bakgrunn eller barn som har svake ferdigheter
+
+- noe større effekt på yngre enn på eldre elever
+
+Forskningen viser at *måten* man utnytter og organiserer de ekstra lærerressursene på, har betydning for elevenes læringsutbytte. Økt lærertetthet alene er med andre ord ikke nok for at elevene skal lære mer. To større norske studier med effekt- og kontrollgrupper viser at økt lærertetthet kan ha god effekt, men at det forutsetter godt samarbeid mellom lærerne og gjennomtenkte avgjørelser knyttet til undervisningspraksis. I studien som undersøkte en tolærerordning, ble positive virkninger særlig oppnådd i tilfeller der ordningen førte til delt ansvar for planlegging, gjennomføring og evaluering av undervisningen (Gourvennec et al., 2022). Forskerne fant også god effekt av å benytte en ekstra lærerressurs til smågruppeundervisning i matematikk på barnetrinnet (Opheim & Solheim, 2025; Solheim & Opheim, 2019). Når skolens lærerressurser rettes mot spesifikk og målrettet faglig støtte, finner forskerne at sårbare elever gjør det bedre på ungdomsskolen og får både utdanningsmessige og økonomiske gevinster senere i livet (Ye et al., 2025).
+
+Økt lærertetthet må ses på som et strukturelt tiltak, som gir økt handlingsrom for å endre og forbedre pedagogisk praksis. Effekten kommer ikke av seg selv, men krever gjennomtenkt bruk ut over organisatorisk differensiering (Opheim & Solheim, 2025). En forklaring som har vært trukket fram for manglende effekter av redusert klassestørrelse, er at det økte handlingsrommet ikke benyttes (Hattie, 2005).
+
+Økt lærertetthet garanterer ikke mer læring, men det *kan* gi mer læring. Økt lærertetthet kan virke dersom ressursene brukes målrettet, for eksempel på intensive tiltak for elever som strever i lesing, smågruppeundervisning i matematikk, eller godt organiserte tolærerordninger (Bonesrønning et al., 2022; Nergård-Nilssen et al., 2026; Solheim et al., 2018; Vembye et al., 2023).
+
+Mindre handlingsrom har blitt brukt for å forklare hvorfor forskere ikke finner noen vesentlige gevinster for elever av vedtak om reduserte klassestørrelser. For det første gjør slike vedtak at skolens ressurser ikke kan brukes like fleksibelt og målrettet, for eksempel til høyere lærertetthet i enkelte klasser, smågruppeundervisning eller oppfølging av enkeltelever. For det andre gjør vedtak om reduserte klassestørrelser ofte at skoler må opprette flere klasser og omfordele ressursene. For det tredje gir reduserte klasser rotasjon av lærere og elever, som igjen gir friksjon og overgangskostnader som går ut over læringsmiljøet (Langørgen & Løkken, 2023; Leuven & Løkken, 2017).
+
+Et tilsynelatende paradoks
+
+Forskningen viser altså at flere lærere, brukt målrettet, kan øke elevenes læring. De manglende effektene av dagens lærernorm må derfor forstås som at lærernormen ikke gjør at de samlede lærerressursene brukes på måter som gir bedre læring eller trivsel. Dette tilsynelatende paradokset, nemlig at lærernormen *ikke virker*, samtidig som økt lærertetthet *virker*, forklares best med den manglende treffsikkerheten til lærernormen. I praksis har normen økt lærertettheten mest på større skoler i folkerike områder med relativt gode resultater der elevene har høyere sosioøkonomisk bakgrunn og det er lav minoritetsandel. Lærernormen bidrar dermed ikke nødvendigvis til økte lærerressurser der behovene er størst (Pedersen, 2022, s. 209). De samme ressursene ville gitt mer effekt på skoler som har større utfordringer. En påstand kan altså være at det er dagens lærernorm slik den er innrettet, som ikke virker. Økt lærertetthet anvendt på en fornuftig måte virker. Begge deler er sant på en gang.
+
+En mer generell ressursheving i skolen, som legger til rette for mer dynamisk bruk av ressursene (herunder lærerårsverkene), har vist seg å være mer treffsikker på lang sikt enn faste normer for bemanning. Dagens lærernorm er nettopp en slik fast norm for bemanning, som binder årsverk til hovedtrinn per skole.
+
+Det er derfor lite trolig at vi vil se store gevinster av dagens lærernorm på lengre sikt, for eksempel i form av redusert frafall, økt utdanningslengde eller økte inntekter. Det er for tidlig å slå dette fast helt sikkert. Men ut fra det vi nå vet, er observerbare langsiktige gevinster av lærernormen for mye å håpe på. Problemet knyttet til at lærernormen framtvinger «feil» allokering av lærerressurser, kommer ikke til å forsvinne ettersom tiden går. Dermed kan vi heller ikke utelukke at en alternativ innretting av midlene til dagens lærernorm kunne blitt brukt i skolen på måter som var mer samfunnsøkonomisk lønnsomt.
+
+Andre virkninger av økt lærertetthet
+
+Forskning har avdekket mulige positive virkninger av økt lærertetthet som ikke direkte gjelder elevenes læringsutbytte. Det dreier seg om bedre muligheter for læreren til å utvikle god klasseledelse med muligheter for mer varierte undervisningsformer, større mulighet for fordypning og bedre betingelser for å drive tilpasset opplæring. Lærerne som ble intervjuet om lærenormen, mener den er spesielt gunstig for elever med lærevansker eller vedtak om individuell tilrettelegging, elever med manglende norskferdigheter og elever som strever psykisk og sosialt. Opplevd stress og emosjonelle krav blant lærere har blitt redusert, noe som på sikt vil kunne få positive virkninger for lærernes trivsel og helse, og kan spille over på relasjonen til elevene. Skoleledere har meldt om at sykefraværet har blitt redusert som følge av den økte lærertettheten (Kirkebøen et al., 2017; Pedersen, 2022).
+
+Ulike syn på lærernormen
+
+Utvalget er kjent med at det er ulike, og dels sterke meninger om lærernormen. Det har kommet forslag om å gjøre endringer i normen fra ulike instanser, som Direktoratet for forvaltning og økonomistyring (DFØ) og Opplæringslovsutvalget. Flertallet i Kommunekommisjonen foreslår at den blir avviklet. Partene i skolesektoren ønsker å beholde lærernormen, men har ulike meninger om hvilket nivå den bør være på. KS ønsker å beholde lærernormen, men mener at den bør endres til å gjelde på *kommunenivå.* KS mener det vil gi lokale folkevalgte, skolemyndigheter og rektorer større fleksibilitet til å sette inn lærere der det er størst behov for dem. Utdanningsforbundet, Skolelederforbundet, Skolenes landsforbund, Norsk lektorlag og Elevorganisasjonen har samlet seg om at reguleringen av forholdet mellom antall elever og antall lærere bør bestå og gjelde på *skolenivå*. Disse organisasjonene mener at det er nødvendig med et nasjonalt minstekrav som hindrer at elevgruppene blir for store, og som sikrer at lærere og ledere har reelle muligheter til å følge opp elevene på en forsvarlig måte. Organisasjonene mener at normen setter rammer uten å begrense skolens faglige vurderinger utover dette. De mener at hvis normen avvikles, vil det svekke elevenes opplæring og fellesskolens mulighet til å gi et likeverdig tilbud.
+
+Blant de kommunene som har sendt inn høringssvar til kommunekommisjonens forslag om lærernormen, er det delte oppfatninger. En overvekt av de om lag 160 kommunene med høringssvar om lærernormen er *for* å beholde lærernormen som i dag. Omtrent en tredjedel ønsker å endre normen til å gjelde på kommunenivå. Et klart mindretall av kommunene med høringssvar vil avvikle normen.
+
+Kommuner som ønsker å *beholde* normen, begrunner det blant annet med at lærernormen er et viktig virkemiddel for å sikre kvalitet i tjenestene, gi mer likeverdig opplæring uavhengig av geografi, mer stabil drift og forutsigbare rammer.
+
+Kommuner som taler for å *endre* normen til kommunenivå, viser til at det vil gi større rom for lokale prioriteringer og mer effektiv ressursbruk, samtidig som det fremmer likeverdig opplæring gjennom et nasjonalt minimumsnivå for lærertetthet.
+
+Kommuner som støtter *avvikling* av normen, mener blant annet at det vil gi kommunene et tydeligere ansvar, mulighet til å bruke ressursene mer treffsikkert og gi bedre forutsetninger for å styrke laget rundt eleven.
+
+De til dels sterke og ulike meningene om lærernormen kan være et uttrykk for at normen har stor innvirkning både på skolen og styringen av den. De kan også gjenspeile at lærernormen har betydelig symbolkraft. De ulike partenes respektive ståsteder i lærernormsaken har blitt reflektert i utvalgets referansegrupper.
+
+### Utvalgets forslag om prioritering av ressurser til skolen
+
+Utvalget holder fast ved at skolen er kompleks og at den bør utvikles og styres deretter. Dette tilsier at for mange sterke og stramme føringer og for mye øremerking av ressurser i skolen, kan virke uheldig inn på kommunenes behov for handlingsrom.
+
+Men for at elevene ikke skal bli tapere i kampen om knappere offentlige ressurser og en presset kommuneøkonomi, vil utvalget for det første anbefale at staten tar hensyn til forskjellen mellom gjennomsnittskostnader og marginalkostnader per elev, når kommunene og fylkene trekkes som følge av endringer i antallet barn og unge i kommunen/fylket. Forslaget må utredes videre, men utvalget mener en slik endring er nødvendig for å unngå uønskede konsekvenser av trekkene fra kommunerammen som følge av fallende elevtall.
+
+Forslaget innebærer en utredning om hvordan man kan ta hensyn til forskjellen mellom gjennomsnittskostnader og marginalkostnader per elev når trekket som følge av fallende elevtall beregnes. Formålet er å unngå en situasjon hvor kommunene/fylkene må bygge skolekapasiteten ned i en periode, bare for å måtte bygge kapasiteten opp igjen når elevtallet stiger. Endringene skal på denne måten gi et mer stabilt og forutsigbart økonomisk grunnlag for videre utvikling av kvaliteten i grunnskolen og videregående opplæring.
+
+Forslaget er ellers begrunnet i det vi allerede har skrevet om gjennomsnittskostnader og marginalkostnader, risikoen for underinvestering i skole og de selvstendige grunnene til å prioritere ressurser til skolen.
+
 Utvalget foreslår å
-• se omfanget av grunnopplæringen i lys av framtidens kompetansebehov og derfor beholde
-lengden på det 13-årige opplæringsløpet som i
-dag
-• ikke endre samlet antall skoletimer, med unntak av utvidelsen av skoledagen for 1. og 2.
-trinn
 
-13.6.3 Samarbeid med arbeidslivet
-Del av samfunnsoppdraget
-På samme måte som ved samarbeid med frivilligheten og andre instanser, vil et godt samarbeid
-mellom skolen og det lokale næringslivet både
-kunne styrke skolens dannings- og utdanningsoppdrag, og forberede barn og unge på et framtidig arbeidsmarked. Arbeidslivet fungerer som en
-arena der elevene opplever at teoretisk kunnskap
-blir praktisk, hvor unge får bryne seg på virkelige
-oppgaver under veiledning og der terskelen for å
-mestre og lære ofte kan oppleves annerledes.
-Arbeidslivet må derfor ses på som en helt
-avgjørende medspiller til skolen, for at de unge
-skal få en reell og stabil tilknytning til arbeidsmarkedet. I lys av livslang læring og framtidens kompetansebehov, kan opplæring i skole og opplæring
-i arbeidslivet mer ses på som et helhetlig opplæringsløp, enn som to isolerte opplæringsområder
-(Rekdahl, 2022).
-For mange unge, og spesielt for de som trenger mer praktisk opplæring, er det behov for at
-kvalifisering og opplæring i større grad skjer
-direkte på arbeidsplassen. Læring skjer gjennom
-å gjøre ulike arbeidsoppgaver, og gjennom både
+- utrede hvordan staten kan kompensere for forskjellen mellom gjennomsnittskostnader og marginalkostnader per elev når kommunene og fylkeskommunene trekkes for fallende elevtall
 
-317
+For det andre vil utvalget anbefale en statlig føring for bruk av ressurser i skolen i framtiden. Dette handler først og fremst om å sikre skolen midler i en tid hvor skoleøkonomien er under press. Dette er nødvendig fordi økte ressurser til skolen virker positivt inn på elevenes læring og utvikling. Det handler om gevinstene vi som samfunn kan høste på lang sikt, som følge av god ressursbruk i skolen i dag.
 
-Kapittel 13
+Utvalget har et 20-årsperspektiv på våre vurderinger. I et slikt langsiktig perspektiv er forskningen tydelig på de gunstige effektene av økt ressursbruk i skolen, spesielt når midlene kanaliseres til klasserommet og skolehverdagen ut fra lokale behov og prioriteringer.
 
-uformell og planlagt opplæring i bedriftene.
-Denne type hverdagslæring gir de unge viktig
-realkompetanse,6 som de kan bygge videre på i
-senere utdannings- og karrierevalg.
-For å sikre fagarbeidere i framtiden er det
-dessuten avgjørende at arbeidsgivere tar ansvar
-ved å tilby nok læreplasser, slik at de unge får fullført utdanningen sin med et fag- eller svennebrev.
-Arbeidslivet har i tillegg et sterkt ansvar for å
-romme mangfoldet blant unge og ansette dem ut
-fra den arbeidsevnen de faktisk har. Gjennom et
-godt arbeidsmiljø og riktig tilrettelegging kan
-arbeidsgivere bidra til at unge får fotfeste, og forhindre at de støtes ut av arbeidslivet og over på
-helserelaterte ytelser. Dette inkluderingsansvaret
-deler arbeidslivet med skolen.
-Over redegjorde vi for framtidens kompetansebehov. For at skolene og utdanningene skal
-kunne forberede de unge på en god måte, må
-arbeidslivet være en tydelig og konstruktiv partner. Arbeidslivet må ha god bestillerkompetanse,
-det vil si evnen til å definere og sette ord på hvilken kompetanse virksomhetene har behov for på
-kort og lang sikt, slik at utdanningene får riktig
-innhold og høy relevans. Arbeidslivet står altså
-sentralt som både etterspørrer, bruker og tilbyder
-av kompetanse, og er dermed avgjørende for at
-skolen skal lykkes med sitt samfunnsmandat om å
-danne og utdanne.
-Et vesentlig, men krevende samarbeid
-Skolen har stort utbytte av samarbeidet med
-arbeidslivet. Når elever får jobbe med reelle problemer for en ekte arbeidsgiver, kan de oppleve
-økt motivasjon, økt innsats og en følelse av at
-skolearbeidet betyr noe for samfunnet (Kostøl &
-Braathen, 2026).
-For bedriftene er behovet for å rekruttere framtidens fagarbeidere og lærlinger en viktig drivkraft
-for samarbeidet med skolene. Arbeidsgivere
-understreker at de legger vekt på kompetanser
-som motivasjon, lærevilje, punktlighet og evnen til
-å samarbeide med kollegaer vel så mye som formelle skolekarakterer i ansettelsesprosessen.
-Gjennom læretiden og utplasseringer tar
-bedriftene et stort ansvar for å sosialisere ungdommene inn i yrkeslivet. Dette innebærer ikke
-bare å lære bort fagspesifikke håndverk, men å la
-unge mennesker ta del i et praksisfellesskap, lære
-seg arbeidslivets normer og få en trygg, profesjonell fagidentitet (Skålholt et al., 2024; Solberg et
-6
+Ikke minst vil prioritering av ressurser til skolen være en forutsetning for å kunne fremme det profesjonsfellesskapet og den profesjonaliseringen av lærerstanden som vi mener er nødvendig for å møte framtidens utfordringer i skolen. En sterk lærerprofesjon og profesjonell skoleledelse er avgjørende for at skolen skal lykkes. Vi minner også om at det meste av skolens ressurser går til å finansiere årsverkene til de viktige lærerne. Når vi taler for å hegne om skolens ressurser, taler vi med andre ord samtidig for å hegne om lærerårsverkene.
 
-Kompetanse tilegnet utenfor det formelle utdanningssystemet
+Utvalget er omforent i synet på at det er behov for en form for statlig sikring av ressurser til skolen i framtiden. Et samlet utvalg foreslår at det utredes en *ny* *ressursnorm for grunnskolen*. Ferdig utredet ønsker utvalget at en slik ressursnorm for grunnskolen skal erstatte lærernormen. Et samlet utvalg foreslår at lærernormen beholdes i mellomtiden. Utvalget vil sterkt advare mot å avvikle lærernormen før en ny ressursnorm er utformet og iverksatt, og understreker at overgangen mellom lærernormen og en ny ressursnorm ikke må innebære at ressurser trekkes ut av skolen. Utvalget foreslår i tillegg at dagens deling av normen på hovedtrinnene oppheves.
 
-[Side 320]
+Utvalgets forslag er med andre ord todelt.
 
-318
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-Boks 13.10 Ungt Entreprenørskap
-Ungt Entreprenørskap er en ideell landsomfattende organisasjon som tilbyr programmer i
-hele utdanningsløpet, fra grunnskole til høyere utdanning. Organisasjonen ble startet i
-1997, og finansieres gjennom en kombinasjon
-av offentlige tilskudd og midler fra private
-samarbeidspartnere og sponsorer.
-Gjennom programmer som elevbedrift,
-ungdomsbedrift og studentbedrift får elever
-praktisk erfaring med å etablere, drive og
-avvikle virksomheter. Formålet er å utvikle
-elevenes kreativitet, initiativ og evne til verdiskaping, og å styrke koblingen mellom utdanning og arbeidsliv.
-Samarbeid, problemløsning, kreativitet,
-kritisk- og selvstendig tenking og refleksjon
-er sentrale elementer i programmene, som
-spenner over temaer som entreprenørskap,
-jobbtrening og personlig økonomi.
-Evalueringer har vist at Ungt Entreprenørskap tilbyr programmer med høy kvalitet og i
-stort omfang. Over 150 000 elever deltar årlig i
-programmene. Evalueringene tyder på at å
-delta i programmene øker elevenes trivsel og
-motivasjon i skolen, og gir større interesse for
-å starte egen virksomhet.
-Kilder: Johansen, 2018; Ovesen et al., 2011; Ungt Entreprenørskap, 2026
-
-al., 2026). Selv med dette tydelige gjensidige
-utbyttet mellom skole og arbeidsliv, har forskningen pekt på flere faktorer som gjør samarbeidet krevende. Utfordringene er sammensatte og
-berører alt fra grunnleggende kulturforskjeller til
-strukturelle hindringer.
-Skolene har et samfunnsmandat om å gi en
-helhetlig og bred opplæring som ruster elevene
-for hele arbeidslivet. Bedriftene på sin side ønsker
-seg ofte kortere, mer spissede utdanningsløp som
-svarer direkte på deres akutte behov for produksjonskraft. Det blir en krevende balansegang for
-skolene å innfri bedriftenes krav om spisskompetanse uten å gå på bekostning av utdanningens
-overordnede rammevilkår og kvalitet. I mange
-yrkesfag er inntrykket at kunnskapsbasen over tid
-har blitt mer akademisert, noe som skaper en kulturell avstand mellom skole og bedrift (Høst et al.,
-2024; Rekdahl, 2022).
-
-Et eksempel på en strukturell hindring ligger i
-det at skoleeiere og skoler ikke har noen styringsrett over bedriftene. Dette gjør at alt samarbeid
-baserer seg på arbeidslivets frivillighet. Ansvaret
-for å opprette og vedlikeholde kontakt med bedrifter faller ofte på den enkelte lærer, et arbeid som
-lærere opplever som tidkrevende og sårbart fordi
-det blir personavhengig. Sett fra skolens side er
-utfordringen spesielt stor i bransjer hvor det
-mangler overordnede bransjeorganisasjoner som
-skolene kan støtte seg til (Høst et al., 2024; Rekdahl, 2022).
-Sett fra arbeidslivets side, er et eksempel på en
-kulturell hindring at foreldrene og skolen ikke forbereder elevene godt nok på det virkelige arbeidslivet. Flere bedrifter uttrykker bekymring over at
-ungdom i dag mangler grunnleggende praktisk
-forståelse og generell erfaring med å jobbe. De
-peker på utfordringer med lavere arbeidsmoral,
-manglende evne til å tåle ubehag, økt fravær, og at
-lærlinger har konsentrasjonsvansker og lar seg
-distrahere av mobiltelefoner i arbeidstiden. Dette
-gjør at bedriftene må bruke betydelig mer tid på
-sosial oppfølging enn tidligere (Skålholt et al.,
-2024).
-Det kan også oppstå gnisninger når lærere og
-bedriftsinstruktører skal samarbeide om å vurdere elever. Skolen har tradisjon for å vurdere
-etter formelle læreplanmål. Arbeidslivet derimot,
-vurderer ut fra hvem som vil fungere i et arbeidsmiljø. De nedprioriterer ofte fagspesifikke karakterer og vektlegger heller sosial kompetanse,
-punktlighet, motivasjon, og om eleven passer inn i
-bedriftskulturen (Rekdahl, 2022; Solberg et al.,
-2026).
-
-13.6.4 Utvalgets anbefalinger om et styrket
-samarbeid med arbeidslivet
-Som nevnt i innledningen til denne utredningen,
-pågår det nå et omfattende utviklings- og utredningsarbeid om innhold og struktur i videregående opplæring i regi av Utdanningsdirektoratet.
-Innledningsvis slo vi også fast at fagopplæring i
-bedrift faller utenfor utvalgets utredning og forslag. På denne bakgrunn har utvalget valgt å
-legge mindre vekt på tema som berører videregående opplæring særskilt, og vi har ikke laget en
-omfattende liste over tiltak som kan bedre samarbeidet mellom (i hovedsak) videregående skoler
-og arbeidslivet. Vi har imidlertid merket oss det
-forskning har pekt på som suksesskriterier for et
-slikt samarbeid (se f.eks. Høst et al., 2024; Kostøl
-& Braathen, 2026; Rekdahl, 2022; Skålholt et al.,
-2024; Solberg et al., 2026). I lys av utviklingstrek-
-
-[Side 321]
-
-NOU 2026: 10
-Fellesskolen
-
-kene vi har pekt på i utredningens del 2, ser vi
-behovet for et styrket samarbeid mellom skolen
-og arbeidslivet i framtiden. Vi vil derfor peke på
-noen av disse suksesskriteriene her. De peker
-også tilbake til det vi tidligere har anført om viktigheten av profesjonaliseringen i skolen og om
-utviklingen av elevers problemløsningsevner og
-sosioemosjonelle utvikling.
-Faste fagråd
-Faste fagråd eller bransjeråd har vist seg å være
-en sentral suksessfaktor. I disse rådene møtes
-skoleledelse, lærere og representanter fra
-arbeidslivet jevnlig for å diskutere opplæringens
-innhold, vurdere læreplaner og avklare bransjens
-framtidige kompetansebehov. Slik dialog gjør at
-premissene for samarbeidet i større grad er
-avklart på forhånd. Skolemyndighetene og
-arbeidslivets representanter bør legge godt til
-rette for denne type dialog også i framtiden.
-God kontakt og delte stillinger
-Skolemyndigheter og skoleledere bør legge forholdene til rette slik at lærere får tilstrekkelig tid
-til å reise ut og besøke elevene jevnlig mens de er
-i praksis og lære. Dette bygger tette relasjoner
-mellom lærere og bedriftsinstruktører, samtidig
-som lærerne får oppdatert seg på moderne utstyr
-og bedriftskultur. Et mulig tiltak er å samarbeide
-om karaktersetting fordi det tvinger fram en dialog som forener skolens læreplanfokus med
-bedriftens vektlegging av praktiske ferdigheter.
-Et annet mulig tiltak er å ansette lærere i delte stillinger, slik at de kan jobbe aktivt ute i bransjen ved
-siden av undervisningen. Dette sikrer at skolen
-alltid har fersk og oppdatert kompetanse fra
-yrkesfeltet, noe som er spesielt viktig i de bransjene som i størst grad preges av den raske omstillingstakten i samfunnet.
-La elever øve problemløsning i reelle oppdrag
-Elever, også på studiespesialisering, bør få løse
-reelle oppdrag for lokale bedrifter eller etater.
-En god modell er at bedriften gir skolen en faktisk problemstilling som de jobber med, for
-eksempel planlegging av fossilfri transport for
-Ruter, eller produktutvikling og markedsføring
-mot Generasjon Z for Orkla. Dette tiltaket gir en
-gjensidig gevinst. Elevene opplever økt mestring, innsats og motivasjon fordi skolearbeidet
-føles ekte og meningsfullt. Bedriftene på sin side
-får verdifulle innspill, samtidig som de får byg-
-
-319
-
-Kapittel 13
-
-get omdømme og presentert seg som en framtidig arbeidsplass.
-Tren på sosioemosjonell utvikling
-Skolene må i tillegg ta et større ansvar for å trene
-elevene i arbeidslivets uformelle normer før de
-skal ut i bedrift. Dette innebærer å jobbe eksplisitt
-med sosioemosjonelle ferdigheter som punktlighet, kommunikasjon, initiativ og sosiale ferdigheter, slik at bedriftene opplever at lærlingene er forberedt til arbeidslivet.
-
-13.6.5 Skolens sertifiseringsfunksjon i
-framtiden
-Sluttvurderingen i skolen skal gi informasjon om
-elevenes kompetanse ved avslutningen av opplæringen basert på læreplanenes kompetansemål.
-Vitnemål og fagbrev er institusjonaliserte kompetansebevis som gir adgang til videre utdanning og
-posisjoner i arbeidslivet. Sluttvurderingen og
-kompetansebevisene utgjør kjernen i skolens sertifiseringsfunksjon.
-Skolens sertifiseringsfunksjon er viktig fordi
-den både skal ha, og den viser seg å ha, en allokeringsfunksjon i samfunnet ved at den sorterer elevene og lærerkandidatene på måter som påvirker
-deres videre livsløp og muligheter (se f.eks.
-Falch, 2010; Serediak & Helland, 2020; Ye et al.,
-2025). Det er derfor helt avgjørende at skolens
-sluttvurderinger gjennom standpunktkarakterer,
-eksamen og fag- og svenneprøver oppfattes som
-gyldige, pålitelige og rettferdige av samfunnet
-rundt skolen.
-Samtidig kan vi si at skolens sertifiseringsfunksjon er sårbar. Vi har tidligere i utredningen
-vært inne på hvordan KI kan bidra til å trekke i tvil
-elevenes læring. Når det blir mer krevende å fastslå i hvilken grad en prestasjon reflekterer elevens
-egen kompetanse, svekkes også vitnemålet som
-troverdig dokumentasjon.
-Tilliten til vitnemål og karakterer fra skolen vil
-påvirkes dersom like prestasjoner vurderes ulikt.
-Som nevnt tidligere i utredningen, gjør ulike formål og rammer for standpunkt og eksamenskarakterer at karakterene ikke nødvendigvis skal
-være like. Som nevnt i kapittel 5 anses standpunktkarakterene i dag som en viktig kilde til
-kunnskap om elevers læring fordi de reflekterer
-bredden og dybden i elevens læringsutbytte og
-fordi de gjenspeiler ganske godt elevens potensial
-i framtidig utdanning eller jobb. Store og systematiske avvik mellom standpunkt og eksamen
-kan likevel reise spørsmål om vurderingskvalite-
-
-[Side 322]
-
-320
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-ten, dersom slike forskjeller også varierer systematisk mellom skoler over tid. Norske lærere har
-et sterkt tolkningsfellesskap og nasjonale kvalitetssikringsordninger gjør at vi kan oppnå rettferdig sluttvurdering med høy kvalitet. Det er likevel
-god grunn til å være oppmerksom på denne sårbarheten også i vårt system, hvor standpunktkarakterene har såpass stor innvirkning på vitnemålet.
-Sluttvurderingen må dessuten skille tydelig
-mellom ulike prestasjonsnivåer hos elevene for at
-den skal ha verdi som seleksjonsmekanisme. Mindre skiller vil kunne gi større utfordringer for
-arbeidsgivere og utdanningsinstitusjoner i deres
-videre sortering av kandidater til stillinger og studieplasser, og svekke verdien av vitnemålet som
-seleksjonsmekanisme. Dette understreker igjen
-viktigheten av et godt tolkingsfellesskap, slik at
-vitnemålene og fagbrevenes verdi som kompetansebevis opprettholdes.
-
-13.6.6 Utvalgets anbefalinger om en styrket
-sertifiseringsfunksjon
-De utfordringene ved skolens sertifiseringsfunksjon som vi her har pekt på, gjelder for skolesystemer verden over. Utvalget mener at sårbarheten i
-skolens sertifiseringsfunksjon må tas på alvor slik
-at vi unngår at vitnemål og fagbrev fra skolen mister informasjonsverdi og legitimitet i framtiden.
-Tiltakene som utvalget har foreslått i kapittel 11 er
-relevant å minne om i denne sammenheng.
 Utvalget foreslår å
-• se skolens sertifiseringsfunksjon i lys av utredningens forslag om elevvurdering:
-– sette ned en arbeidsgruppe bestående av
-representanter for lærerne og forskere,
-som ser på veien videre for underveis- og
-standpunktvurdering
-– utrede videre anbefalinger fra Utdanningsdirektoratets Eksamensgruppe om ulike
-ordninger for eksamen som kan kompensere for ikke bestått vitnemål
-– sørge for at alle skoler har tilgang til sikker
-nettleser i lærings- og vurderingssituasjoner
 
-13.7 Avsluttende betraktning
-Regjeringen forventet en bred vurdering av skolens rolle og betydning i samfunnet og hva vi som
-samfunn trenger og forventer av skolen. Utredningen har vist hvilken bærebjelke skolen er i
-samfunnet. Den har også vist hvordan samfunnets
-prioritering av ressurser til skolen må stå i stil
-med samfunnets forventninger til hva skolen skal
-løse.
-Utvalgets forslag setter samlet sett retningen
-for å styrke både skolens utdanningsmandat og
-danningsmandat i framtiden. Forslagene vil bidra
-til at elevene utvikler autonomi, verdighet og
-handlingsevne i egne liv, at de utvikler evnen til
-ansvarlig deltakelse i samfunnet og at de kvalifiseres for arbeidslivet.
-For å ruste fellesskolen for framtiden, har vi
-foreslått endringer i skolens innhold, fremmet forslag for en økt profesjonalisering av skolen og
-pekt på tiltak som vil styrke skolens rolle i samfunnet. I utredningen har vi løftet fram mange hensyn
-og ambisjoner samtidig, uten å framheve enkelte
-tiltak eller områder som særlig prioriterte.
-Utvalgets anbefalinger peker derfor ikke ut
-enkelte prioriteringer i skolen, men foreskriver
-heller prioritering av skolen.
-Gitt at forslagene tas til følge, mener vi det vil
-sette skolen i stand til både å møte utfordringene
-knyttet til utviklingstrekkene vi har beskrevet, og
-til å snu den negative utviklingen i målbare resultater.
-Skolens utdannings- og danningsmandat er
-vevd sammen og utgjør et hele som kommer både
-den enkelte og samfunnet til gode. Fellesskolens
-betydning og legitimitet som samfunnsinstitusjon
-i framtiden er avhengig av å styrke begge sidene
-av dette brede samfunnsoppdraget. Utvalget
-mener at våre forslag samlet sett vil sette framtidens fellesskole i stand til å gjøre dette.
+- utrede en ny ressursnorm for grunnskolen, med tanke på å erstatte lærernormen i framtiden
 
-[Side 323]
+- beholde en justert versjon av lærernormen inntil en ny ressursnorm er på plass
 
-NOU 2026: 10
-Fellesskolen
+Hovedbegrunnelsen for en ny ressursnorm er at den skal gi forutsigbare økonomiske rammer for skoledriften og rom for lokal skolemyndighet og skoleledelse til å vurdere de beste tiltakene for å styrke skolene innen en gitt ressursramme.
 
-321
+Hovedbegrunnelsen for å beholde lærernormen til en ny ressursnorm er på plass, er for det første at en endring som innebærer at ressurser trekkes ut av skolen vil være vanskelig å reversere, og for det andre at det gir større fleksibilitet til å styre lærerressursene dit man mener behovet er størst.
 
-Kapittel 14
+Utrede en ny ressursnorm for grunnskolen
 
-14
-Figur 14.1
+Norge skiller seg ut ved å ha nasjonalt rettslig regulert lærertetthet på skolenivå. I tillegg kommer bestemmelser i lov- og regelverk som i praksis innebærer ulike former for binding av ressurser til skolen. De fleste sammenlignbare land bruker indirekte styringsmekanismer, gjennom blant annet behovsbasert finansiering, regulerte krav til kompetanse og kvalitet, og ulike former for ansvarliggjøring av det lokale nivået fra staten.
 
-Kapittel 14
+Forskningen vi har redegjort for over, viser at god bruk av ressurser i skolen gir både samfunnsøkonomisk avkastning og et viktig bidrag til sosial mobilitet. Utvalget foreslår på denne bakgrunn at det utredes en ny *ressursnorm for grunnskolen* som skal sikre tilstrekkelige ressurser til skolen i framtiden. Utvalget mener det er behov for å tilføre og sikre ressurser på alle nivåer i grunnopplæringen, også i videregående skole. Utvalgets forslag om utredning av en ny ressursnorm er imidlertid avgrenset til den obligatoriske delen av grunnopplæringen.
 
-Økonomiske og administrative konsekvenser
-I dette kapittelet redegjør utvalget for forslag til tiltak som vil ha særlige økonomiske og administrative konsekvenser for kommuner, fylkeskommuner, staten eller private skoler, og utvalgets beregninger av konsekvensene. Vi viser til utvalgets
-begrunnelser for forslagene i kapittel 11, 12 og 13.
-I utredningen har utvalget vist hvordan gode
-investeringer i skolen er samfunnsøkonomisk
-lønnsomt. Vi gjentar ikke vår analyse og begrunnelse av dette her, men minner om at de eksterne
-og langsiktige virkningene av dagens skoleinvesteringer kan være vanskelige å få øye på i de
-årlige budsjettforhandlingene, både på nasjonalt
-og lokalt nivå.
-Utvalget mener våre forslag vil bidra til at
-dagens ressurser utnyttes mer hensiktsmessig.
-Flere av forslagene vil kunne realiseres innenfor
-dagens rammer ved å omprioritere ressurser og
-videreutvikle eksisterende strukturer og verktøy.
-Tiltak med antatte kostnader under 5 mill. kroner
-har vi derfor i liten grad detaljert utregningene
-for. Andre forslag vil kreve tilskudd av midler.
-Dersom det ikke er spesifisert i teksten, tar ikke
-utvalget konkret stilling til hvordan kostnadene
-skal dekkes inn.
-Siden utvalget i hovedsak foreslår at omfanget
-av grunnopplæringen og lengden på utdanningsløpet beholdes som i dag, beregnes kostnader av
-tiltak med utgangspunkt i dette. Kostnadene knyttet til utvalgets forslag om endringer for 1. og 2.
-trinn er omtalt under.
+Forslaget innebærer at staten regulerer ressursbruken i kommunene, ikke bemanningsstrukturen på skolene. En ny ressursnorm for grunnskolen skal ses på som sikring av et minimumsnivå, på samme måte som at lærernormen i grunnskolen er ment som en minstenorm i dag. Samtidig kan ikke en ny ressursnorm begrenses til de ekstra midlene som ble innlemmet i kommunerammen som følge av lærernormen. En ny ressursnorm må se skoleøkonomien under ett. Normen må inkludere de faktiske kostnadene for dagens lærerårsverk, inkludert merkostnaden ved lærernormen. I tillegg bør den ta hensyn til kommunenes andre driftskostnader til skole. Målet må være å innføre en ordning som gir kommunene en bærekraftig og forutsigbar skoleøkonomi i framtiden.
 
-I alle beregninger av årsverkskostnader til
-lærere tar vi utgangspunkt i en kostnad på 980 000
-per år.
-Med de forbeholdene og forutsetningene vi
-viser under, summerer forslagene seg til i overkant av 4 mrd. kroner. Som nevnt i kapittel 2 vil
-Norge bruke omtrent 166 mrd. kroner på grunnskole og videregående opplæring i 2026. Utvalgets
-forslag innebærer i så måte en vekst på omkring
-3 prosent, eller omtrent 4 500–5 000 kroner ekstra
-per elev i grunnopplæringen.
+Ressursnormen innebærer at kommunenes samlede ressursbruk på skole bindes til et minimumsnivå, og betyr en overgang fra en innsatsnorm (lærerårsverk) til en utgiftsnorm (ressursbruk). En framtidig ny ressursnorm vil fortsatt gi rom for å beholde eller øke lærertettheten, hvis det er det kommuner og skoleledere mener er best utnyttelse av ressursene.
 
-14.1 Konsekvenser av utvalgets forslag
-om å styrke elevenes læring og
-utvikling
-14.1.1 Endringer i læreplanverket
-Utvalget foreslår flere endringer i læreplanverket.
-Det vil være Utdanningsdirektoratet som vil få
-oppdrag å utvikle de endringene i læreplanene
-som utvalget foreslår. Utvalget legger til grunn at
-arbeidet i hovedsak vil kunne gjøres innenfor
-direktoratets gjeldende budsjettrammer. Det ligger også i Utdanningsdirektoratets faste oppdrag
-å tilby veiledning, verktøy og støttemateriell til
-sektoren, og utvalget antar at dette kan gjøres
-innenfor direktoratets eksisterende rammer.
-Utvalget antar derfor at tiltaket ikke vil ha
-vesentlige økonomiske eller administrative konsekvenser for staten. For kommuner, fylkeskommuner og private skoler vil tiltakene heller ikke ha
+Konkret ønsker utvalget at det utredes en ordning der staten fastsetter i lov eller forskrift at kommunens samlede utgifter per elev i grunnskolen skal være på et minimumsnivå, og så korrigeres for lønns- og prisvekst i framtiden. Ressursnormen skal gjelde på kommunenivå, og skal ta hensyn til smådriftsulemper basert på geografi. For å unngå innlåsningseffekter skal den ikke ta hensyn til eksisterende skolestruktur. At kommunene oppfyller normen, kan dokumenteres ved hjelp av data fra KOSTRA for det enkelte år. Det kan settes opp en årlig automatisk kontroll enten hos Statsforvalteren eller Utdanningsdirektoratet. Avvik vil innebære et formelt brudd av regelverket og gi pålegg om retting.
 
-[Side 324]
+Ressursnormen for grunnskolen kan ses på som en form for binding gjennom å etablere et gulv. Sammenliknet med lærernormen skal ordningen gripe mindre direkte inn i skolen, og la kommunene bestemme hvordan midlene skal brukes. Staten sier *hvor mye*, ikke *hvordan*.
 
-322
+Under slike betingelser kan en ny ressursnorm være mer konsistent med prinsippet om lokalt selvstyre enn lærernormen. Mens lærernormen vrir kommunens skoleøkonomi mot arbeidskraftinnsats, og på en spesifikk måte, vil dette alternativet kunne innebære at kommunene kan prioritere friere mellom ulike innsatsfaktorer i skolen basert på lokale hensyn, for eksempel lærerårsverk, andre yrkesgrupper, spesialpedagogiske tiltak eller kompetanseheving. KOSTRA-tall og elevtall finnes allerede, og ordningen bør være relativt enkel å administrere. Sammenliknet med andre typer kvalitetsindikatorer (for eksempel læringsresultater) vil det være lav måleusikkerhet, og dette gir høy transparens i tallgrunnlaget for ordningen.
 
-Kapittel 14
+Utvalget mener et slikt alternativ vil være økonomisk, juridisk og praktisk mulig, men regelfestingen vil kunne oppfattes som en ny type økonomisk rammebinding og trolig møte en del prinsipiell motstand. Vi foreslår derfor at dette utredes grundigere. Ressursnormen må som nevnt vie seg til skoleøkonomien som helhet. Den må blant annet ses i sammenheng med andre former for statlige bindinger av kommunenes utgifter til skole, for eksempel reglene om individuelle rettigheter for elever.
 
-NOU 2026: 10
-Fellesskolen
+Generelt må utredningen av en ny ressursnorm balansere prinsipielle hensyn til statlige føringer for kommunene med nødvendige nasjonale hensyn om å hegne om ressursene i fellesskolen. Dersom man lykkes med utredningen, mener utvalget at den nye ressursnormen skal erstatte dagens lærernorm.
 
-økonomiske konsekvenser, men i en overgangsfase vil endringene i læreplanene kunne medføre
-noen administrative konsekvenser.
+Beholde en justert versjon av lærernormen inntil en ny ressursnorm er på plass
 
-14.1.2 En mer helhetlig skoledag for de
-yngste elevene
-Ny læreplan for 1. og 2. trinn
-Utvalget foreslår å innføre en ny, helhetlig læreplan for 1. og 2. trinn, og å utvikle støtteressurser
-til implementering av den nye læreplanen. Utvalget er kjent med at også Utdanningsdirektoratet er
-i gang med et arbeid med å foreslå endringer i opplæringen for de yngste elevene. Utvalget mener at
-utvikling av en ny læreplan for 1. og 2. trinn kan
-gjøres innenfor dagens rammer, uten at det innebærer vesentlige økonomiske konsekvenser.
-For kommuner og private skoler vil implementeringen av en ny læreplan kunne medføre noen
-administrative konsekvenser i en overgangsfase.
-Utvalget foreslår at nasjonale myndigheter utvikler god støtte til implementering av læreplanen,
-som skal bidra til å lette dette arbeidet. Utvalget
-legger til grunn at støttematerialet kan utvikles
-innenfor gjeldende økonomiske rammer.
-Integrere 12 timer SFO i uka i en mer helhetlig
-skoledag for 1. og 2. trinn
-Utvalget foreslår at 12 timer per uke av dagens
-SFO-tid for 1. og 2. trinn integreres i skoledagen.
-Utvalget viser til at kommunene er kompensert
-for innføring av 12 timer gratis SFO i uka for 1.–3.
-trinn ved økninger i rammetilskuddet, med en
-antakelse om full deltakelse. I utgangspunktet
-mener utvalget derfor at forslaget ikke vil ha
-vesentlige økonomiske konsekvenser for kommunene.
-Private skoler har ikke plikt til å ha et SFO-tilbud, men mange private skoler har likevel SFO.
-Utdanningsdirektoratet forvalter en tilskuddsordning som skal kompensere for private skolers
-kostnader ved å tilby 12 timer gratis SFO på 1., 2.
-og 3. trinn. For private skoler som ikke har SFO,
-vil forslaget kunne ha økonomiske konsekvenser.
-En oversikt fra Utdanningsdirektoratet viser at det
-er om lag 45 private grunnskoler med barnetrinn
-som ikke har et SFO-tilbud i dag.
-Utvalget foreslår at det vurderes nærmere
-om elever som trenger det, skal få rett til individuell tilrettelegging også i de delene av en utvidet skoledag som ikke innebærer opplæring
-etter læreplanen. En utvidelse av retten til tilrettelegging vil kunne medføre kostnader for kom-
+Utvalget vil sterkt advare mot å avvikle lærernormen før en ny ressursnorm er utformet og iverksatt, men et samlet utvalg foreslår å oppheve trinndelingen av dagens lærernorm. Utvalgets flertall mener normen bør endres til skolenivå. Utvalgets medlem Martin Eckhoff Andresen mener normen bør endres til kommunenivå, under gitte betingelser.
 
-munene og private skoler. Det må utredes nærmere hva denne retten skal gå ut på, og det er
-derfor vanskelig å anslå konkrete kostnader.
-Utvalget har likevel gjort et estimat av kostnader som er avgrenset til personlig assistanse.
-Tall fra Utdanningsdirektoratet viser at det er
-omtrent 19 000 elever i grunnskolen som har vedtak om personlig assistanse etter opplæringsloven
-§ 11-4. Det utgjør i snitt 1 900 elever per årstrinn,
-og 3 800 elever til sammen på 1. og 2. trinn.
-Det er sannsynlig at en del av disse elevene
-ikke trenger assistent 12 timer i uken. Gitt at
-behovet i gjennomsnitt er 4 uketimer per elev,
-utgjør dette om lag 330 assistentårsverk. Med en
-gjennomsnittlig anslått årsverkskostnad på
-715 000 kroner, gir det en merkostnad på om lag
-235 mill. kroner. Beregningen omfatter SFO både
-ved kommunale og private skoler. Utvalget understreker at dette er usikre anslag.
-En ny måte å organisere skoledagen på, vil
-også ha administrative konsekvenser for kommuner og skoler i en overgangsperiode. Hvor store
-de administrative konsekvensene vil være, vil variere mellom skoler, og er vanskelig å anslå. Konsekvensene over tid vil avhenge av hvordan skoledagen innrettes.
-Krav om pedagogisk kompetanse for leder av SFO
-Utvalget foreslår å innføre et krav om pedagogisk
-kompetanse for leder av SFO, der det enten er
-gjort unntak fra hovedregelen om at rektor skal
-være leder, eller der myndighet er delegert fra
-rektor til en egen leder av SFO. Krav om pedagogisk kompetanse for SFO-leder vil kunne medføre
-økonomiske kostnader for kommuner og private
-skoler.
-Utvalget har ikke kunnskap om hvor mange
-skoler som har delegert myndighet til en egen
-SFO-leder. Utvalget anerkjenner at det er lite realistisk eller formålstjenlig at alle skoler skal ha en
-egen SFO-leder. Hvis vi forutsetter at kravet ikke
-får konsekvenser for skoler med under 60 elever
-på 1.-4 trinn, står vi igjen med omtrent 1 330 skoler.
-Beregningene nedenfor er avgrenset til disse skolene. Både kommunale og private skoler inngår.
-Vi har ikke informasjon om lønn til SFO-leder i
-dag, men legger her til grunn at differansen mellom lønnskostnader for en ufaglært SFO-ansatt og
-en SFO-leder med eller uten barnehagelærer- eller
-lærerutdanning er om lag 250 000 kroner i året.
-Tall fra Utdanningsdirektoratet viser at 10 prosent av SFO- ansatte, ledere inkludert, har barnehagelærer- eller lærerutdanning. Utvalget legger
-til grunn at det reduserer antall skoler som blir
+Lærernorm på *skolenivå* betyr at normen skal beregnes som et samlet gjennomsnitt for hele skolen, uavhengig av hovedtrinn. Det innebærer samtidig at et rettslig minstekrav opprettholdes som i dag og at midlene beholdes i skolen. Utvalget legger til grunn at eventuelle ressurser til lærerårsverk som frigjøres, beholdes i kommunerammen og prioriteres til skolebudsjettene i kommunene.
 
-[Side 325]
+Utvalget mener lærernormen vil gi mer fleksibilitet hvis den heves til skolenivå. Dagens krav om lærerårsverk per hovedtrinn korresponderer ikke alltid med det faktiske lærerbehovet og kan gi særlig sterke utslag i små og mellomstore skoler, for eksempel når elevtallet på et hovedtrinn akkurat krysser en grense. En norm på skolenivå jevner ut slike tilfeldige utslag og gir mer stabil bemanningsplanlegging, uansett om elevtallet på ett hovedtrinn endres. Dersom normen settes på skolenivå, vil det også styrke rektors pedagogiske og organisatoriske handlingsrom. Dermed vil det bli større samsvar mellom rektors styringsansvar og mulighetene til å disponere skolens ressurser. Det vil øke muligheten til å forsterke innsatsen midlertidig på trinn med store faglige eller miljømessige utfordringer, og gi bedre tilpasning til lokale variasjoner i kullstørrelse, elevsammensetning og lærertilgang.
 
-NOU 2026: 10
-Fellesskolen
+En lærernorm på skolenivå støtter opp om skolens attraktivitet som arbeidsplass, noe forskning har pekt på som vesentlig for å rekruttere og beholde lærerne (Munthe & See, 2022). Utvalget merker seg funnene i evalueringen som tyder på at lærere opplever at den økte lærertettheten gir bedre betingelser for yrkesutøvelsen. Det blir også anført at lærernormen gir mindre sykefravær, og gjør at skolen har flere lærere å spille på ved sykdom slik at man i større grad slipper å sette inn ufaglærte vikarer i de tilfellene (Pedersen, 2022).
 
-berørt av kravet til omtrent 1200. Det gir en kostnad på anslagsvis 300 mill. kroner. Vi understreker at dette er svært usikre anslag.
+Forslaget om å beholde lærernormen, men endre den til å gjelde på skolenivå, må også ses i lys av utvalgets tidligere forslag i utredningen om å styrke lærerprofesjonen. Utvalget foreslår flere tiltak knyttet til lærernes kompetanse som er begrunnet i det faktum at læreren er den viktigste skolerelaterte faktoren for elevenes utvikling og læring. I møte med en mer mangfoldig elevgruppe og komplekse forventinger til skolen, er det avgjørende at disse ressursene beholdes i skolen.
 
-14.1.3 Bedre støtte til vurderingsarbeidet i
-skolen
-Utvalget foreslår at det settes ned en hurtigarbeidende arbeidsgruppe bestående av representanter for lærere og forskere som ser på veien videre
-for underveis- og standpunktvurdering, i lys av
-utfordringer ved kunstig intelligens. Utvalget
-antar at kostnaden vil være innenfor rammene for
-omdisponering av eksisterende midler.
-Tiltaket vil ikke medføre økonomiske eller
-administrative konsekvenser for kommuner og
-fylkeskommuner.
-14.1.4 Etablere et nasjonalt program for
-digital læring og danning
-Utvalgets forslag om å opprette og gjennomføre et
-nasjonalt program for digital læring og danning vil
-medføre kostnader for både staten, kommunene og
-fylkeskommunene. Kostnadene vil være avhengig
-av hvordan programmet utvikles og settes
-sammen, antall deltakere per år og hvor lang tid det
-skal pågå. Programmet kan skaleres opp eller ned
-og gjennomføres over flere år. Utvalget mener imidlertid at det haster å få satt i gang med programmet.
-Med utgangspunkt i anslåtte kostnader fra lignende programmer som Ny GIV, Ungdomstrinn i
-utvikling og Vurdering for læring, kan kostnadene
-grovt estimeres til opp mot 1 mrd. kroner. Det
-årlige beløpet vil avhenge av hvor mange år tiltaket
-skal gjennomføres over. Deler av kostnadene kan
-eventuelt dekkes av midler fra det nåværende systemet for kompetanse og karriereutvikling.
-Kostnadene for kommuner og fylkeskommuner ved at lærere deltar i etterutdanningstiltak,
-avhenger av hvordan dette er organisert og hvordan et eventuelt fravær dekkes opp, om det settes
-inn vikar eller om arbeidsgiver organiserer arbeidet på annen måte.
-Utvalget legger til grunn at Utdanningsdirektoratet vil få i oppdrag å planlegge programmet i
-samarbeid med relevante forskningsmiljøer. Innkjøp av tjenester fra forskningsmiljøene vil ha økonomiske konsekvenser og innebære administrative kostnader for direktoratet. Disse kostnadene
-inngår i de anslåtte 1 mrd. kronene. Utvalget har
-vurdert om det burde innføres et eget teknologifag i skolen, men foreslår ikke dette. Etter utvalgets vurdering ville kostnadene ved å innføre et
-eget teknologifag ha vært betydelige.
+En innvending mot å løfte normen til skolenivå, vil være at man fjerner dagens innebygde prioritering av de laveste trinnene. Det gir en risiko for mindre prioritering av lærerressurser til de yngste elevene og for økte forskjeller mellom skoler, ettersom ulike skoler kan komme til å fordele lærerårsverkene ulikt. Virkningen for elevene vil derfor i stor grad avhenge av kvaliteten på lokale beslutninger. Allerede før normen trådte i kraft var mange skoler organisert slik at barnetrinnet var relativt bedre bemannet. Dette hang antakelig sammen med de tidligere klassedelingsreglene, men kanskje viktigere var skolenes generelle vektlegging av tidlig innsats. Utvalget mener derfor at risikoen for nedprioritering av lærertetthet for barnetrinnet ved endring av normen er relativt liten, og denne risikoen oppveies av gevinster for elevene som den økte fleksibiliteten ved en justering av normen trolig vil gi. Mer fleksibilitet stiller samtidig større krav til skolen som organisasjon. Med utvalgets vekt på profesjonalisering av læreryrket og skolelederne mener flertallet at forholdene legges til rette for gode lokale valg. Sannsynligheten for at skolene nedprioriterer tidlig innsats må anses som relativt lav.
 
-323
+Utvalget anerkjenner samtidig at kommunenes behov for å tilføre ekstra lærerressurser til enkelte områder og skoler, er større enn det dagens lærernorm tillater av lokale tilpasninger. Forskningen om ressursbruk i skolen tyder som nevnt på at en mer dynamisk ressursbruk kan være mer treffsikker på lang sikt enn mer faste normer. Dette taler for å løfte reguleringen av normen til *kommunenivå*.
 
-Kapittel 14
+Heving av normen til kommunenivå ville i tillegg være mer i tråd med prinsippet om lokalt selvstyre og målet om redusert statlig detaljstyring. Skolens kompleksitet kan tale for et stort handlingsrom og økt fleksibilitet i organiseringen og utøvelsen av samfunnsoppdraget. Dette er som nevnt en viktig grunn til at utvalget foreslår å utrede en *ny ressursnorm for grunnskolen*. Utvalget stiller seg samlet bak at en ny ressursnorm er en bedre løsning enn å endre lærernormen til kommunenivå.
 
-14.1.5 Øke kvaliteten på og tilgangen til
-læremidler
-Utvalget foreslår å lovfeste en plikt for kommunen
-til å sørge for at elevene har tilgang til trykte lærebøker i alle relevante fag. Plikten vil medføre økonomiske konsekvenser for kommunene. Størrelsen på kostnadene vil være avhengig av hvordan
-plikten utformes.
-Utvalgets forslag innebærer ikke at skolene
-må gi alle elever en lærebok i alle fag hvert år,
-men at de skal ha tilgang til lærebøker i alle relevante fag. Utvalget definerer ikke hva som skal
-regnes som relevante fag, og anerkjenner at det
-kan variere fra skole til skole. Hovedregelen skal
-likevel være at elevene får tilgang til en fysisk
-lærebok i de fleste fagene, og kostnadsberegningene tar utgangspunkt i dette. Utvalget har lagt til
-grunn at en lærebok koster 500 kroner.
-Utvalget legger til grunn at én tredjedel av
-bøkene skal kjøpes inn år 1, én tredjedel år 2, og
-den siste tredjedelen år 3, og at bøkene har en
-levetid på omtrent tre år. Utvalget anslår at dette
-vil ha en kostnad på 750 mill. kroner per år. Hvis
-man også legger inn at flere lærebøker kan ha en
-levetid på mer enn tre år, blir kostnaden lavere.
-Det er heller ikke et krav at alle skoler kjøper én
-bok til alle elever i de relevante fagene. I noen fag
-vil skolene kunne nøye seg med klassesett. I tillegg vil et flertall av skolene allerede i dag ha
-trykte bøker i noen fag på noen trinn.
-Det må også tas høyde for at kommunene er
-finansiert i rammetilskuddet for løpende utskifting av læremidler og utstyr og i tillegg har fått
-omtrent 540 mill. kroner øremerket til trykte
-lærebøker i 2023, 2024 og 2026. En dreining mot
-trykte læremidler kan forutsettes å gi en innsparing, på grunn av redusert behov for digitale læremidler. Det bør imidlertid legges til grunn at kommunene bør kompenseres noe for nye krav og
-mindre handlingsrom.
-Når det gjelder administrative konsekvenser
-anerkjenner utvalget at det å skifte ut, vurdere og
-velge nye lærebøker medfører noe arbeid. Vi
-mener likevel at det ikke vil være vesentlige administrative konsekvenser ved forslaget, da dette er
-arbeid skolene må gjøre også i dag.
-Utvalget foreslår videre å opprette et faglig råd
-for læremidler. Det finnes allerede et samarbeidsforum for læremidler, men utvalget foreslår å opprette en mer fast og formell struktur, som vil ha
-behov for en sekretariatsfunksjon. Hvis vi ser til
-de faglige rådene for de yrkesfaglige utdanningsprogrammene, vil utvalget anslå et behov 0,5–1
-årsverk til å drifte et sekretariat.
+Slik utvalget ser det, er den største utfordringen ved en lærernorm på kommunenivå at den vil utløse behov for langt færre lærerårsverk totalt sett, sammenliknet med en norm på skolenivå.[^33] Ifølge tidligere beregninger, kan det dreie seg om omtrent 850 færre lærerårsverk på landsbasis (NOU 2026: 1). Dette vil tilsvare omtrent 2–3 færre lærerårsverk i snitt per kommune. Omregnet til midler på statsbudsjettet, dreier det seg om ca. 830 mill. kroner (Kunnskapsdepartementet, 2025e).[^34] Dersom disse midlene forsvinner ut av skolen, er det neppe realistisk å få dem tilbake. Selv dersom midlene beholdes i kommunerammen, noe som ikke er gitt, mener utvalget at det er stor sannsynlighet for at midlene vil omdisponeres til andre formål enn skolen, jf. det vi tidligere har skrevet om endret alderssammensetting i kommunene.
 
-[Side 326]
+For å hegne om skolens ressurser, ønsker flertallet i utvalget at lærernormen beholdes på skolenivå, men at dagens føringer for lærertettheten per hovedtrinn fjernes.
 
-324
+Utvalgets medlem Martin Eckhoff Andresen foreslår at lærernormen endres til kommunenivå og forutsetter da at måltallet for forholdet mellom antall elever og antall lærere nedjusteres, slik at det samlede kravet fra lærernormen til antall lærere nasjonalt ivaretas som i dag.
 
-Kapittel 14
+Avsluttende bemerkning
 
-NOU 2026: 10
-Fellesskolen
+Skjerming av ressursbruken i skolen er godt faglig begrunnet. Men det løser ikke det utvalget på ser som hovedproblemet, som handler om de forventede justeringene i kommunerammen som følge av demografiske endringer, i kombinasjon med at kommunenes inntektssystem legger gjennomsnittskostnader til grunn og ikke tar hensyn til marginalkosten ved fallende elevtall. Det forventede trekket på anslagsvis 11 mrd. kroner det neste tiåret følger av inntektssystemet. I tillegg anslås det et trekk på nær fire mrd. kroner til fylkeskommunene, basert på et fallende antall unge i videregående skolealder. Det vil kreve aktive politiske grep å endre på dette. Det er viktig at nasjonale politikere sikrer kommunene og skolene tilstrekkelig ressurser for å løse sitt oppdrag i framtiden. Utvalget foreslår derfor en utredning av hvordan kommunene og fylkene, som kan forvente uttrekk fra rammen som følge av fallende elevtall, kan kompenseres for forskjellen mellom gjennomsnittskostnader og marginalkostnader per elev.
 
-14.1.6 Styrke leseopplæringen
-Utvalget foreslår å utvide den nasjonale satsingen
-«Tid for lesing». Utvalget er kjent med at Lesesenteret har fått særskilte midler på 18 mill. kroner i
-2025 og 2026 til kompetansetiltak og støtteressurser i forbindelse med denne satsingen. Utvalget
-foreslår å videreutvikle satsingen og øke støtten til
-«Tid for lesing» fra 18 til 24 mill. kroner.
-Kostnadene for kommuner og fylkeskommuner ved at lærere deltar i etterutdanningstiltak
-avhenger av hvordan dette er organisert og hvordan et eventuelt fravær dekkes opp, om det settes
-inn vikar eller om arbeidsgiver organiserer arbeidet på annen måte.
-Utvalget foreslår også å utvide tilskuddsordningen for skolebibliotek og bøker. I inneværende
-år er rammen for tilskuddsordningen på
-103,2 mill. kroner, mens kommunene i år søkte
-om totalt 174 mill. kroner. Utvalget foreslår å øke
-rammen for tilskuddsordningen med 50 mill. kroner til 153,2 mill. Kommunene må, som en hovedregel, ha en egenfinansiering på 30 prosent av
-totalbudsjettet for tiltaket når de søker om personalressurser og kompetanseutvikling.
-14.1.7 Styrke matematikkopplæringen
-Utvalget foreslår en kompetansesatsing for lærere
-i matematikk med vekt på betydningen av metakognisjon, motivasjon og selvregulering i matematikkfaget.
-Utvalget er kjent med at Matematikksenteret
-har fått særskilte midler for å styrke kompetansen til elevene i matematikk og personlig økonomi (15 mill. kroner i 2025 og 2026). Midlene
-skal gå til utvikling av støtteressurser og verktøy i
-matematikk som lærerne kan bruke for å utvikle
-egen undervisning i tråd med LK20. Midlene skal
-også gå til å videreutvikle nettverk for matematikklærere.
-Utvalget mener kompetansesatsingen må
-videreføres og utvides med 5–6 mill. kroner.
-Kostnadene for kommuner og fylkeskommuner ved at lærere deltar i etterutdanningstiltak
-avhenger av hvordan dette organisert og hvordan
-et eventuelt fravær dekkes opp, om det settes inn
-vikar eller om arbeidsgiver organiserer arbeidet
-på annen måte.
-14.1.8 Styrke demokratiopplæringen
-Utvalget foreslår å styrke lærernes kompetanse i
-demokratiopplæring. Dette handler særlig om å
-håndtere uenighet i klasserommet, demokratisk
+I tillegg til mer midler, mener utvalget at det er nødvendig med statlig styring for å hegne om skoleøkonomien i kommunene. Utvalget stiller seg samlet bak forslaget om at det utredes en ny ressursnorm for grunnskolen. Forutsetningen må være at en ny ressursnorm sikrer midler til kommunenes skolebudsjetter, minst på samme nivå som i dag.
 
-klasseledelse og arbeid med politiske og verdimessige konflikter.
-Det nasjonale programmet for digital læring
-og danning vil være et tiltak for å styrke demokratiopplæringen i skolen. I tillegg foreslår utvalget at
-freds- og demokratisentrene samlet styrkes med
-10 mill. kroner. Midlene skal brukes til utadrettet
-virksomhet og støtte lærerne i arbeidet med
-demokratiopplæring.
-Kostnadene for kommuner og fylkeskommuner ved at lærere deltar i etterutdanningstiltak
-avhenger av hvordan fraværet dekkes opp og om
-det settes inn vikar eller om arbeidsgiver organiserer arbeidet på annen måte når læreren tar
-etterutdanning.
+Den videre utredningen av en ny ressursnorm bør behandle detaljene for innretting innenfor rammene for styring av kommunene og økonomiske, administrative og praktiske konsekvenser for forvaltningen generelt og kommunene spesielt.
 
-14.1.9 Styrke praktiske og estetiske fag
-Utvalget foreslår å utvide timetallet i musikk og
-mat og helse med til sammen tre–fire uketimer på
-3.–7. trinn ved å omdisponere tid fra andre fag.
-Dette vil ikke ha økonomiske konsekvenser for
-kommunene.
-Omdisponeringen vil kreve noe administrative
-ressurser, men utvalget antar at det ikke vil innebære vesentlige administrative konsekvenser.
-14.1.10 Styrke kroppsøvingsfaget
-Utvalget foreslår å utvide timetallet i kroppsøving
-på barnetrinnet ved å gjøre om to timer fysisk aktivitet til en ekstra time i kroppsøving på 5.–7. trinn.
-Utvalget anslår at det innebærer en merkostnad
-på omtrent 38 mill. kroner, som er differansen
-mellom beregnet kostnad for to timer fysisk aktivitet og beregnet kostnad for en time til kroppsøving.
-Omleggingen vil kreve noe administrative
-ressurser ved innføringen og tilretteleggingen
-for flere timer i kroppsøving, men utvalget
-mener det ikke vil innebære vesentlige administrative konsekvenser.
+I påvente av en ny ressursnorm foreslår et samlet utvalg at lærernormen beholdes av hensyn til det forventede presset på skoleøkonomien de neste årene. Utvalget skiller noe lag i spørsmålet om hvorvidt lærernormen bør endres til skolenivå eller kommunenivå.
 
-14.2 Utvalgets forslag om en
-profesjonelt drevet fellesskole
-14.2.1 Finansiering av lærerutdanningene
-Basert på kostnader ved overgang fra allmennlærerutdanning til grunnskolelærerutdanning i
-2011, kostnader til praksisplasser og at lærerutdanningen er integrerte masterutdanninger med
-brede fagmiljø, vil det etter utvalgets vurdering
-være rimelig å øke finansieringen av lærerutdanningene utover det som ble lagt inn i 2021 og
+Drøftingen over har delvis vært utløst av kommunekommisjonens forslag om å avvikle eller endre lærernormen. I kapittel 11 foreslår vi å beholde både bibliotektilskuddet og midler til praktiske læringsarenaer. Nedenfor knytter utvalget kommentarer til to av de andre forslagene som ble fremmet av kommunekommisjonen knyttet til skoleøkonomien.
 
-[Side 327]
+Skjerm midlene til videreutdanning
 
-NOU 2026: 10
-Fellesskolen
+Utvalget går imot kommunekommisjonens forslag om innlemming av de øremerkede midlene som går til videreutdanning for ansatte i barnehage, grunnskole og videregående skole. Dette har vært en avtalefestet ordning mellom stat, kommune og den enkelte ansatte i skolen. Utvalget mener ordningen er et helt sentralt virkemiddel for å utvikle den kompetansen som det er behov for i framtidens fellesskole. Utvalget har merket seg Utdanningsdirektoratets høringssvar til kommunekommisjonens første rapport, og støtter direktoratets argumenter for å beholde ordningen som i dag.
 
-2022, i størrelsesorden 250–350 mill. kroner. Vi
-viser til begrunnelsen i kapittel 12.
+Utdanningsdirektoratet peker blant annet på at ordningen er et sentralt støttetiltak for at kommunene skal klare å oppfylle lovpålagte krav. I skolen gjelder dette opplæringslovens krav om faglig utvikling og forskriftenes krav om formalkompetanse for å undervise i visse fag. Ettersom norske kommuner har svært ulik ressurssituasjon og økonomi, fungerer den nasjonale ordningen som en garanti for et likeverdig utdanningstilbud over hele landet, slik at kompetanseutvikling prioriteres også i kommuner med stram økonomi.
 
-14.2.2 Samarbeid mellom lærerutdanningene
-og skolene
-Utvalget foreslår å innføre en plikt for kommuner
-og fylkeskommuner til å medvirke til praksis og
-utdanning av lærerstudenter, innføre overordnende forventninger om partnerskapsdannelse i
-rammeplanene for lærerutdanning, og vurdere
-om det bør stilles tilsvarende forventninger om
-partnerskapsdannelse til kommuner og fylkeskommuner i opplæringsloven. Utvalget legger til
-grunn at disse forslagene ikke vil ha vesentlige
-økonomiske eller administrative konsekvenser.
-14.2.3 Innføre en introduksjonsordning for
-nyutdannede lærere
-Utvalget foreslår å innføre en plikt for kommunen
-og fylkeskommunen til å gi nyutdannede og nytilsatte lærere to obligatoriske introduksjonsår med
-profesjonsfaglig veiledning. Introduksjonsperioden skal innebære at 10 prosent av arbeidstiden
-de første to årene skal brukes til introduksjonsaktiviteter, veiledning og for- og etterarbeid til
-undervisning.
-De siste ti årene har i gjennomsnitt 4 800 studenter per år fullført lærerutdanning (Direktoratet
-for høyere utdanning og kompetanse, 2026). Av
-disse begynner omtrent 3 600 å jobbe i skolen
-(Bennetzen & Gilje, 2025). Når disse skal få avsatt
-10 prosent av stillingen til introduksjonsaktiviteter
-de første to årene, betyr det at 10 prosent av stillingen må erstattes av en annen lærer. Dette utgjør
-360 årsverk og har en kostnad på 353 mill. kroner
-pr år. Over to år blir det 706 mill. kroner. I arbeidstidsavtalen er det i dag allerede regulert at nyutdannede lærere skal få redusert undervisningen sin
-med 6 prosent det første året. Dette utgjør 212 mill.
-kroner som kan trekkes fra totalsummen på
-706 mill. kroner. Utvalget anslår at kostnaden for å
-gi nyutdannede lærere redusert undervisning med
-10 prosent i to år, blir totalt 494 mill. kroner.
-I tillegg må det settes av tilstrekkelig tid til at
-veiledere skal få tid til å veilede de nyutdannede.
-Hvis man tar utgangpunkt i samme antall veiledere som nyutdannede og at disse skal bruke én
-time per uke på å veilede, koster dette omtrent
-180 mill. kroner per år, totalt 360 mill. for to år.
-Utvalget er kjent med at det i flere år har vært
-en egen tilskuddsordning for veiledning av nyutdannede lærere. I 2025 ble ordningen utvidet til
-også å gjelde for barnehagelærere og lærere i
+Uten dette øremerkede tilskuddet, vil staten miste et helt sentralt virkemiddel for å gjennomføre nasjonal utdanningspolitikk. Framtidige endringer i skolens innhold og struktur, som for eksempel endringer i de første skoleårene eller økt vektlegging av praktisk og estetiske fag og arbeidsmåter, vil utløse store behov for kompetanseutvikling blant lærere og andre yrkesgrupper i skolen.
 
-325
+I tillegg er de raske samfunnsendringene som utvalget har vist til, en pådriver for nye kompetansebehov i skolen. Dette inkluderer teknologiutviklingen og kunstig intelligens. Håndtering av et større mangfold av elever i skolen krever økt kunnskap om læringsmiljø og tidlig innsats, andrespråkspedagogikk, og behov for kompetanseheving innen inkludering og spesialpedagogikk (som reguleringsvansker og nevroutviklingsforstyrrelser).
 
-Kapittel 14
+Utvalget minner til slutt om at ordningen nylig ble vesentlig revidert og modernisert for å gi kommunene større lokal handlefrihet og for å inkludere flere yrkesgrupper i laget rundt elevene. Å fjerne øremerkingen nå vil dermed undergrave viktige nasjonale strategier for rekruttering og kompetanseutvikling.
 
-videregående opplæring. I statsbudsjettet for 2026
-ble denne tilskuddsordningen overført til kommunerammen, og 226 mill. kroner ble lagt inn i rammetilskuddet til kommunene.
-Forslaget vil også kunne medføre administrative konsekvenser for kommuner, fylkeskommuner og skoler til å planlegge og følge opp introduksjonsordningen. I tillegg må det sikres nok lærere
-til å kompensere for at nyutdannede skal undervise mindre, og tiden veiledere skal bruke til veiledning.
+Utvalget mener på denne bakgrunn at ressursene til ordningen for kompetanseutvikling bør skjermes og økes, og ikke innlemmes i kommunerammen. Som nevnt i kapittel 11 foreslår utvalget blant annet en prioritering av videreutdanning i de praktiske og estetiske fagene i årene framover. Deler av midlene må også kunne brukes i forbindelse med det nasjonale programmet for digital læring og danning som utvalget foreslår.
 
-14.2.4 Kontinuerlig kompetanseutvikling for
-lærere gjennom yrkeslivet
-I 2026 er det satt av nærmere 2,8 mrd. kroner til
-nytt helhetlig system for kompetanse- og karriereutvikling for ansatte i barnehage og skole. Det er
-kommunen som skal vurdere hvor mange ansatte
-som skal få videreutdanning, og innenfor hvilke
-fagområder de skal få det.
-Utvalget foreslår øke de øremerkede tilskuddene som går til videreutdanning og til kollektiv
-kompetanseutvikling for ansatte i barnehage,
-grunnskole og videregående skole betraktelig.
-Dette vil medføre kostnader for staten. Økt tilskudd til kompetanseutvikling må ses i sammenheng med kompetanseutviklingen til utviklingslærere, og utvalgets forslag om å innføre krav om
-15 studiepoeng for undervisning i alle fag på barnetrinnet som ikke har krav til faglig fordypning i dag.
-14.2.5 Spesialisering gjennom en ordning
-med utviklingslærere
-Utvalget foreslår å innføre en ordning med spesialiserte utviklingslærere. Tiltaket vil medføre økonomiske og administrative konsekvenser for kommuner og fylkeskommuner. Myndighetene bør gå
-i dialog med partene i arbeidslivet om hvordan
-ordningen bør utformes.
-Tiltaket er skalerbart. Utvalget mener forslaget bør ses i sammenheng med flere av de andre
-tiltakene. Hvis man sammenligner med lærerspesialistordningen, utgjorde tilskuddet til lønnstillegg per spesialistfunksjon omtrent 60 000 kroner
-på slutten av perioden. Med det som utgangspunkt, vil kostnaden ved å gi utviklingslærere tilsvarende lønnstillegg innebære en helårseffekt på
-60 mill. kroner for 1 000 utviklingslærere. Dette
-inkluderer ikke kostnader til eventuell videreutdanning, som utvalget mener bør kunne ses i
-sammenheng med midlene som brukes til videreutdanning generelt.
+Innlem «Grunnskoletilskuddet» i kommunerammen
 
-[Side 328]
+I 2022 ble det innført et eget grunnskoletilskudd innenfor inntektssystemet, der kommunene får tilskudd etter antall kommunale grunnskoler i kommunen.
 
-326
+Ordningen ble finansiert ved en omfordeling innenfor inntektssystemet, og var altså ikke friske midler til skolen. Tilskuddet skulle stimulere til opprettholdelse av nærskoler, og legger føringer for hvordan kommunen organiserer seg. Satsen i grunnskoletilskuddet er prisjustert og utgjør ca. 580 000 kroner i 2026. Samlet for kommunene utgjør tilskuddet ca. 1,4 mrd. kroner i 2026.
 
-Kapittel 14
-
-NOU 2026: 10
-Fellesskolen
-
-I tillegg vil det være kostnader knyttet til tiden
-utviklingslærere skal bruke på rollen. Dersom
-man for eksempel tar utgangpunkt i at utviklingslærerne skal bruke 10 prosent av stillingen sin på
-rollen, vil dette innebære behov for 100 ekstra årsverk. Dette har en kostnad på 98 mill. kroner.
-
-14.2.6 Kompetansekrav for lærere
-Stramme inn muligheten for å gjøre unntak fra
-tilsettingskravet
-Utvalget foreslår å fjerne muligheten for å ansette
-andre enn lærerstudenter midlertidig i lærerstilling. Ifølge Utdanningsdirektoratets statistikk, er
-omtrent 4 prosent av årstimene til undervisning
-utført av ansatte uten lærerutdanning. Personer
-ansatt i lærerstilling uten godkjent utdanning får
-lavere lønn enn lærere. Utvalget ser derfor at forslaget vil kunne ha økonomiske konsekvenser for
-kommuner og fylkeskommuner som har sett det
-nødvendig å benytte seg av unntaksmuligheten
-fra kravene til tilsetting.
-Utvalget legger til grunn at kommunene og
-fylkeskommunene ikke får tilført ekstra midler for
-å dekke disse utgiftene, siden hovedregelen allerede er at ansatte i lærerstillinger skal ha lærerutdanning, og dette er utgangspunktet for kompensasjonen i kommunerammen.
-Utvalget anerkjenner at det er en utfordring
-med rekruttering. Den viktigste administrative
-konsekvensen av forslaget vil derfor være at det
-vil kreve en særlig rekrutteringsinnsats i kommuner, fylkeskommuner og av nasjonale myndigheter. Utvalget foreslår derfor at det innføres en tidsbegrenset overgangsordning for å gi kommuner
-og fylkeskommuner mulighet til å tilpasse seg innstrammingen.
-Krav om relevant kompetanse i flere
-undervisningsfag på barnetrinnet
-Utvalget foreslår å innføre krav om 15 studiepoeng for undervisning i alle fag på barnetrinnet
-som ikke har krav til faglig fordypning i dag. Forslaget skal ikke ha tilbakevirkende kraft, det vil si
-at det ikke skal gjelde for lærere som allerede jobber i skolen. Kravet vil innebære at lærerutdanningene må tilpasse utdanningene.
-For kommunene vil ikke det nye kravet medføre økte kostnader, gitt at kravet ikke gjelder
-lærere som allerede er ansatt. Kravet vil derfor
-bare gjelde når skolen ansetter nyutdannede
-lærere.
-
-14.2.7 Styrke kontaktlærerrollen
-Utvalget er opptatt av at kontaktlærerrollen er en
-nøkkelrolle i arbeidet med elevene, i det tverrfaglige samarbeidet og i skole–hjem-samarbeidet.
-Utvalgets intensjon er derfor å styrke denne rollen. Samtidig anerkjenner utvalget at å styrke kontaktlærerresursen for alle kontaktlærere vil medføre store kostnader, og ikke nødvendigvis være
-treffsikkert og avlaste de som trenger det mest.
-Utvalget vurderer derfor at en mer effektiv og
-treffsikker måte å styrke kontaktlærerfunksjonen
-på, er å øke det som omtales som Tidsressurspotten i særavtalen, som regulerer arbeidstid for
-lærere (SFS 2213, 2025). Fordeling av ressursene
-skal drøftes med tillitsvalgte, og kan ved enighet
-på kommunalt nivå omfordeles mellom skolene
-(SFS 2213, 2025).
-Utvalget mener at en økning av denne potten
-vil gjøre at skoler kan prioritere ekstra tid til kontaktlærere som trenger det, for eksempel på
-grunn av store klasser eller mange elever med
-behov for tilrettelegging. For at tiltaket skal få
-effekt, mener utvalget potten skal styrkes med
-1 mrd. kroner.
-14.2.8 Profesjonell skoleledelse
-Utvalget foreslår å videreutvikle kompetansetilbudet og nettverk for skoleledere. Utvalget foreslår videre å etablere nasjonale kompetanseutviklingstilbud rettet mot kommunen som lokal
-skolemyndighet. Dette vil ha en etableringskostnad for staten. Utvalget foreslår at kostander til
-deltakelse deles mellom stat og kommune, og at
-det totalt settes av 30 mill. kroner til kompetansetilbudet.
-14.2.9 Ekstern utredning av forholdet mellom
-regelverk og praksis
-Utvalget foreslår å gjennomføre en ekstern utredning av forholdet mellom regelverk og statsforvalternes og skolenes praksis på noen særlig relevante områder. Å nedsette en ekspertgruppe som
-kan gjøre analysen, vil medføre noe kostnader for
-staten. Beløpet vil være avhengig av antall medlemmer, hvor lang tid arbeidet skal pågå, størrelse på
-sekretariatet og mandat.
-
-[Side 329]
-
-NOU 2026: 10
-Fellesskolen
-
-14.3 Utvalgets forslag om å styrke
-fellesskolens rolle i samfunnet
-14.3.1 Langsiktig prioritering av ressurser til
-skolen
-Utvalget foreslår at det utredes hvordan staten kan
-kompensere for forskjellen mellom gjennomsnittskostnader og marginalkostnader per elev når kommunene og fylkeskommunene trekkes for fallende
-elevtall. Utvalgets vurdering er at en slik utredning
-vil føre til administrativt merarbeid på statlig nivå i
-den perioden utredningen pågår. Utvalget antar at
-dette kan håndteres ved omdisponeringer innenfor
-gjeldende økonomiske rammer. Forslaget innebærer at staten i framtiden reduserer trekket til kommune og fylkeskommunene når antall barn og
-unge i skolealder går ned. De økonomiske konsekvensene for stat og kommune er en del av utredningen, og for tidlig å si noe om.
-Utvalget foreslår videre å utrede en ny ressursnorm for grunnskolen, med tanke på å
-erstatte lærernormen i framtiden. Utvalgets vurdering er at en slik utredning vil føre til administrativt merarbeid på statlig nivå i den perioden
-utredningen pågår. Kostnadene vil avhenge av
-hvordan man legger opp en slik utredning. En
-eventuell ekstern ekspertgruppe, nedsatt av
-departementene, vil måtte kompenseres innenfor
-statens satser for utvalgsarbeid. Dette vil inne-
-
-327
-
-Kapittel 14
-
-bære en begrenset engangskostnad. Beløpet vil
-være avhengig av antall medlemmer, hvor lang tid
-arbeidet skal pågå og størrelse på et eventuelt
-sekretariat. Utvalget antar at disse kostnadene
-kan håndteres ved omdisponeringer innenfor gjeldende økonomiske rammer
-De økonomiske konsekvensene av den nye
-ressursnormen for stat og kommune er en del av
-utredningen, og for tidlig å si noe om.
-Utvalgets flertall foreslår at lærernormen
-beholdes og flyttes til skolenivå i påvente av utredningen av en ny ressursnorm for grunnskolen.
-Enten lærernormen endres til skolenivå eller
-kommunenivå, forutsetter utvalget at dagens midler til lærernormen forblir i kommunerammen.
-Endring av lærernormen vil dermed ikke innebære økonomiske konsekvenser for stat eller
-kommune. Endring av normen kan medføre noe
-administrativt merarbeid i staten og kommunene
-knyttet til selve omleggingen, men omleggingen
-antas å kunne gjennomføres innenfor eksisterende rammer.
-Utvalgets forslag om å utarbeide en veileder
-for kommunenes arbeid med endringer i skolestrukturen antas å kunne gjennomføres innenfor
-eksisterende rammer. Utvalgets forslag om mer
-forskningsbasert kunnskap om sammenhengen
-mellom pengebruk og kvalitet i skolen antas å
-kunne gjennomføres ved omdisponering av eksisterende midler til forskning.
+Midlene er ikke øremerket, men de gir kommunen insentiver til å opprettholde dagens skolestruktur, samtidig som endringer i form av nedleggelser og/eller sammenslåinger kan vise seg å være både nødvendig og ønskelig på sikt. Utvalget støtter kommunekommisjonens anbefaling om å avvikle grunnskoletilskuddet, og å fordele midlene etter de ordinære kriteriene i inntektssystemet.

@@ -1,884 +1,315 @@
-# NOU 2026: 10, del 25 av 31 (side 297–306)
+# NOU 2026: 10, del 25 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 297]
+### Spesialisering gjennom en ordning for utviklingslærere
 
-NOU 2026: 10
-Fellesskolen
+Et viktig ledd i arbeidet for å styrke lærerprofesjonen, er å gi erfarne lærere mulighet til spesialisering og et spesielt ansvar for å støtte utviklingsarbeidet ved skolene. Utvalget mener differensiering og spesialisering er en naturlig følge av lærerprofesjonens heterogene kunnskapsgrunnlag, en stadig høyere utviklingstakt og endringsbehovene i skolen. I lys av den raske utviklingstakten vil det være avgjørende å lage systemer som sørger for koblinger mellom forskningsmiljøene i høyere utdanning og skolene. Utvalget anbefaler å innføre en ordning med utviklingslærere, som skal ha et særlig utviklingsansvar innenfor prioriterte områder på skolen eller i kommunen. For den enkelte lærer vil rollen innebære en anerkjennelse av spesialisert kompetanse og mulighet for faglig fordypning. For praksisfellesskapet er det nyttig at noen spesialiserer seg. Utviklingslærere bør få et særlig ansvar for samarbeid, nettverk og utviklingsarbeid mellom skolene og lærerutdanningene. Utviklingslærere kan fungere som motorer i utviklingsarbeidet i skolen.
 
-vansker eller vedtak om individuell tilrettelegging,
-elever med manglende norskferdigheter og elever
-som strever psykisk og sosialt. Opplevd stress og
-emosjonelle krav blant lærere har blitt redusert,
-noe som på sikt vil kunne få positive virkninger for
-lærernes trivsel og helse, og kan spille over på
-relasjonen til elevene. Skoleledere har meldt om at
-sykefraværet har blitt redusert som følge av den
-økte lærertettheten (Kirkebøen et al., 2017; Pedersen, 2022).
-Ulike syn på lærernormen
-Utvalget er kjent med at det er ulike, og dels
-sterke meninger om lærernormen. Det har kommet forslag om å gjøre endringer i normen fra
-ulike instanser, som Direktoratet for forvaltning
-og økonomistyring (DFØ) og Opplæringslovsutvalget. Flertallet i Kommunekommisjonen foreslår at den blir avviklet. Partene i skolesektoren
-ønsker å beholde lærernormen, men har ulike
-meninger om hvilket nivå den bør være på. KS
-ønsker å beholde lærernormen, men mener at
-den bør endres til å gjelde på kommunenivå. KS
-mener det vil gi lokale folkevalgte, skolemyndigheter og rektorer større fleksibilitet til å sette inn
-lærere der det er størst behov for dem. Utdanningsforbundet, Skolelederforbundet, Skolenes
-landsforbund, Norsk lektorlag og Elevorganisasjonen har samlet seg om at reguleringen av forholdet mellom antall elever og antall lærere bør bestå
-og gjelde på skolenivå. Disse organisasjonene
-mener at det er nødvendig med et nasjonalt minstekrav som hindrer at elevgruppene blir for
-store, og som sikrer at lærere og ledere har reelle
-muligheter til å følge opp elevene på en forsvarlig
-måte. Organisasjonene mener at normen setter
-rammer uten å begrense skolens faglige vurderinger utover dette. De mener at hvis normen avvikles, vil det svekke elevenes opplæring og fellesskolens mulighet til å gi et likeverdig tilbud.
-Blant de kommunene som har sendt inn
-høringssvar til kommunekommisjonens forslag
-om lærernormen, er det delte oppfatninger. En
-overvekt av de om lag 160 kommunene med
-høringssvar om lærernormen er for å beholde
-lærernormen som i dag. Omtrent en tredjedel
-ønsker å endre normen til å gjelde på kommunenivå. Et klart mindretall av kommunene med
-høringssvar vil avvikle normen.
-Kommuner som ønsker å beholde normen,
-begrunner det blant annet med at lærernormen er
-et viktig virkemiddel for å sikre kvalitet i tjenestene, gi mer likeverdig opplæring uavhengig av
-geografi, mer stabil drift og forutsigbare rammer.
+Formålet med spesialiseringen bør være å styrke arbeidet med å gi et godt faglig og pedagogisk tilbud til elevene. Utvalget mener utviklingslærere kan være nav for utvikling i skolesektoren, i tett samarbeid med ledelsen ved den enkelte skole.
 
-295
+Spesialiserte utviklingslærere vil kunne styrke skolen, elevenes opplæring og læreprofesjonen som helhet. I andre sammenlignbare profesjoner er spesialisering utbredt. Utvalget mener det er viktig å anerkjenne at lærerne gjennom yrkeslivet vil få mer spesialisert kompetanse. En erfaren lærer med videreutdanning vil gjennom et langt yrkesliv ha en annen kompetanse enn en nyutdannet lærer. Utvalget mener at en slik ordning må innføres i lys av de egalitære normene i lærerprofesjonen og i lys av utdanningsnivået og spesialiseringen til lærerprofesjonen.
 
-Kapittel 13
+En stadig mer spesialisert lærerprofesjon
 
-Kommuner som taler for å endre normen til
-kommunenivå, viser til at det vil gi større rom for
-lokale prioriteringer og mer effektiv ressursbruk,
-samtidig som det fremmer likeverdig opplæring
-gjennom et nasjonalt minimumsnivå for lærertetthet.
-Kommuner som støtter avvikling av normen,
-mener blant annet at det vil gi kommunene et
-tydeligere ansvar, mulighet til å bruke ressursene
-mer treffsikkert og gi bedre forutsetninger for å
-styrke laget rundt eleven.
-De til dels sterke og ulike meningene om
-lærernormen kan være et uttrykk for at normen
-har stor innvirkning både på skolen og styringen
-av den. De kan også gjenspeile at lærernormen
-har betydelig symbolkraft. De ulike partenes
-respektive ståsteder i lærernormsaken har blitt
-reflektert i utvalgets referansegrupper.
+Lærerprofesjonen har blitt beskrevet som en profesjon som i liten grad har vært opptatt av spesialisering, og den har historisk sett vært preget av egalitære normer. Lærere omtales gjerne som sterkt likhetsorienterte, for eksempel når det gjelder lønn, autoritet og ansvar. Likevel har det de siste tiårene, både i Norge og internasjonalt, skjedd en dreining mot stadig større grad av spesialisering av lærerrollen (Lorentzen, 2023).
 
-13.1.4 Utvalgets forslag om prioritering av
-ressurser til skolen
-Utvalget holder fast ved at skolen er kompleks og
-at den bør utvikles og styres deretter. Dette tilsier
-at for mange sterke og stramme føringer og for
-mye øremerking av ressurser i skolen, kan virke
-uheldig inn på kommunenes behov for handlingsrom.
-Men for at elevene ikke skal bli tapere i kampen om knappere offentlige ressurser og en presset kommuneøkonomi, vil utvalget for det første
-anbefale at staten tar hensyn til forskjellen mellom
-gjennomsnittskostnader og marginalkostnader
-per elev, når kommunene og fylkene trekkes som
-følge av endringer i antallet barn og unge i kommunen/fylket. Forslaget må utredes videre, men
-utvalget mener en slik endring er nødvendig for å
-unngå uønskede konsekvenser av trekkene fra
-kommunerammen som følge av fallende elevtall.
-Forslaget innebærer en utredning om hvordan
-man kan ta hensyn til forskjellen mellom gjennomsnittskostnader og marginalkostnader per
-elev når trekket som følge av fallende elevtall
-beregnes. Formålet er å unngå en situasjon hvor
-kommunene/fylkene må bygge skolekapasiteten
-ned i en periode, bare for å måtte bygge kapasiteten opp igjen når elevtallet stiger. Endringene skal
-på denne måten gi et mer stabilt og forutsigbart
-økonomisk grunnlag for videre utvikling av kvaliteten i grunnskolen og videregående opplæring.
-Forslaget er ellers begrunnet i det vi allerede
-har skrevet om gjennomsnittskostnader og marginalkostnader, risikoen for underinvestering i
-skole og de selvstendige grunnene til å prioritere
-ressurser til skolen.
+Utviklingen de siste tiårene har bidratt til at lærere har fått en mer spesialisert kunnskap og kompetanse. Spesialiseringen har skjedd gjennom tiltak som trinndelingen av grunnskolelærerutdanningen i 2010, innføringen av femårig masterutdanning i 2017, skjerpede krav til læreres fagspesifikke kompetanse og økt satsing på læreres etter- og videreutdanning. Stadig flere lærere har en fordypning (Lorentzen, 2023, 2024).
 
-[Side 298]
+Tidligere forslag om spesialiserte lærerroller har ikke fått fotfeste
 
-296
+Utvalget erkjenner at forslaget om utviklingslærere bør ses i lys av tidligere forsøk med spesialiserte lærerroller, som ikke har funnet en etablert form. Utvalget mener det er nødvendig å lære av disse erfaringene.
 
-Kapittel 13
+Innføringen av lærerspesialister i 2015 er et eksempel på en spesialisert lærerrolle. Formålet med ordningen var todelt. Det ene formålet var å bidra til at dyktige lærere opplever faglige utviklingsmuligheter og ønsker å fortsette i jobben. Det andre var å styrke det kollektive profesjonsfellesskapet og utviklingen av skolen som lærende organisasjon. Lærerspesialistordningen ble avviklet fra og med høsten 2021. Regjeringen Støre ønsket å erstatte «lærarspesialistordninga med ei partsforankra ordning som gir lærarar betre tid til utviklingsarbeid, og som styrkjer profesjonsfellesskapa i skulen.» (Arbeiderpartiet & Senterpartiet, 2021).
 
-NOU 2026: 10
-Fellesskolen
+Etter- og videreutdanningsutvalget (NOU 2022: 13) foreslo at det i stedet for lærerspesialistordningen burde innføres et nasjonalt system for karriereveier for ansatte i skolen innenfor fire utvalgte områder:[^30]
+
+- fag- og skoleutvikling
+
+- forskning og partnerskap
+
+- inkluderende praksis
+
+- ledelse
+
+Etter- og videreutdanningsutvalget framhevet at faglige utviklingsmuligheter for den enkelte kan bidra til å styrke det profesjonelle fellesskapet på og mellom skoler og utvikle lærende organisasjoner. På bakgrunn av evalueringer, forskning og erfaringer fra blant annet lærerspesialistordningen foreslo dette utvalget blant annet:
+
+- å utvikle videreutdanningstilbud knyttet til karriereveiene
+
+- at minimum 20 prosent av arbeidstiden skulle gå til karriereveien
+
+- å utforme nasjonale rammer for karriereveier
+
+- å utforme nasjonale standarder til hva karriereveien skal bidra med i kvalitetsarbeidet
+
+- å utvide offentlig sektor ph.d.-ordningen rettet mot lærere og andre ansatte i skolen
+
+- å øke antallet kombinasjonsstillinger mellom universiteter og høyskoler og skoler (NOU 2022: 13)
+
+I det nye systemet for kompetanse- og karriereutvikling som fulgte opp forslagene til Etter- og videreutdanningsutvalget, ble karriereveier omtalt som spesialiserte roller og funksjoner. I strategien står det:
+
+Spesialiserte roller og funksjoner skal styrke kvalitetsarbeidet og det profesjonelle læringsfellesskapet innenfor et fag- eller arbeidsområde i barnehage og skole, i en kommune, fylkeskommune eller region. Spesialiserte roller og funksjoner skal gi lærere og andre yrkesgrupper med høyere utdanning eller fagbrev utvidet ansvar og faglige utviklingsmuligheter og bidra til at barnehager og skoler er attraktive arbeidsplasser.
+
+(…)
+
+Departementet har jobbet sammen med partene for å utvikle veiledende rammer for spesialiserte roller og funksjoner, men har foreløpig ikke kommet fram til noe alle kan stille seg bak. Mange av problemstillingene i arbeidet hører hjemme hos partene, og det er derfor en forutsetning at arbeidet er partsforankret.
+
+Kunnskapsdepartementet 2025f
+
+Partene kom med andre ord ikke til enighet om veiledende rammer for spesialiserte roller og funksjoner. Fellesskoleutvalget tar ikke stilling til hvorfor partene ikke kom til enighet, men vil påpeke at de har et felles ansvar for å løse slike utfordringer.
+
+Utvalget mener likevel det bør innføres en ordning med utviklingslærere
+
+Utvalget mener det bør utvikles en ordning med utviklingslærere med spesialisert ansvar, selv om tidligere forsøk med spesialiserte lærerroller har strandet. Erfaringene med lærerspesialistordningen, etter- og videreutdanningsutvalgets utredning og oppfølgingen av denne gir verdifull kunnskap å bygge videre på i en ny ordning.
+
+Det er avgjørende at en ordning for spesialisering er partsforankret. Utvalget oppfatter ikke at partene er imot å utvikle et system for spesialiserte roller. Skal det lages et godt system for utviklingslærere, mener utvalget det er sentralt at partene må samarbeide og bli enige hvordan et slikt system skal fungere. Utvalget vil likevel peke på noen sentrale momenter å ta stilling til i en slik diskusjon.
+
+Utviklingslærer som tittel
+
+Det er nødvendig med en begrepsbruk som funger i lærerprofesjonen. Selv om det i helseprofesjonene er vanlig å bruke ordet spesialist, mener utvalget det vil være bedre å bruke betegnelsen utviklingslærer, eventuelt «utviklingslærer med spesialisering i \[et gitt område\]». Betegnelsen utviklingslærer signaliserer at målet med stillingen er å bidra til utvikling av skolen, kollegiet og profesjonen generelt. Den peker også mot utviklingsmulighetene til den enkelte utviklingslærer. Utvalget presiserer at det er partene som må bli enige om hvilken tittel som er best egnet.
+
+En stadig bedre utdannet og spesialisert lærerprofesjon
+
+Det høyere utdanningsnivået til lærerprofesjonen danner et bakteppe for hvordan en ordning med utviklingslærere bør fungere. Utvalget mener det er positivt at lærernes utdanningsnivå har blitt styrket. Samtidig erfarer utvalget at smal spesialisering av lærerne også skaper utfordringer for rekruttering. Som vist har lærerprofesjonen et heterogent kunnskapsgrunnlag, og utvalget oppfatter at det stadig er utfordringer med å få til god integrasjon mellom kunnskapsområder og sammenheng mellom kunnskapsutviklingen som skjer i skolen og i forskningen. Fordi lærerprofesjonen allerede har blitt stadig mer spesialisert, er det viktig at en ordning med utviklingslærere bidrar til bedre integrasjon mellom fagområder, og til bedre kunnskapsutvikling og erfaringsdeling mellom skolene og lærerutdanningene. Utvalget mener utviklingslærere bør ha funksjoner som bidrar til slike sammenhenger.
+
+Utviklingslærere for skoleutvikling og nasjonalt og lokalt samarbeid
+
+Et sentralt argument for å innføre en ordning med utviklingslærere er at de kan bidra til utvikling, samarbeid og erfaringsutveksling på tvers. Hovedjobben til utviklingslærere bør være knyttet til utvikling ved den enkeltes skole, men siden ikke alle skoler nødvendigvis vil ha mulighet til ha egne utviklingslærere, bør utviklingslærere også ha ansvar for erfaringsutveksling gjennom nettverk av skoler og kommuner.
+
+Utvalget mener utviklingslærere kan være sentrale for implementeringsarbeid og støtte skoleledelsen ved den enkelte skole, i samarbeidet mellom skoler kommunalt, samarbeidet mellom lærerutdanningene og for nasjonale myndigheter. Internasjonalt har både myndigheter og forskere argumentert for at spesialiserte lærerroller bidrar til å styrke læreres eierskap til utviklingsprosesser, og de kan bidra til å distribuere ansvar og kontroll i skolens systemer (Lorentzen, 2024). Utviklingslærere vil være en kilde til økt kollektiv autonomi for lærerprofesjonen som helhet og styrke profesjonens stemme i utviklings- og implementeringsarbeid.
+
+Krav og rammevilkår for utviklingslærene
+
+Utvalget mener at utviklingslærere bør legge til rette for læreres læring, arbeide med utviklingsoppgaver (ikke ordinære driftsoppgaver) og inngå i arbeidet med å lede utvikling av kvalitet i undervisning. For å bidra til kunnskapsutvikling og erfaringsdeling kan utviklingslærere for eksempel få ansvar for veiledning av lærerstudenter og nyutdannede lærere, forskningssamarbeid, partnerkapsarbeid og samarbeid med lærerutdanningene. Utviklingslærere kan også få ansvar for ulike fagområder som lesing, demokrati, digitalisering eller praktiske og estetiske fag.
+
+Utvalget presiserer at myndighetene bør gå i dialog med partene i arbeidslivet om å utforme detaljene i en ordning med spesialiserte utviklingslærere. En stadig større andel av lærerprofesjonen vil i framtiden være masterutdannede med ulik spesialisering. Utvalget mener at dersom spesialiseringsordning skal ha legitimitet, må det være formelle og forutsigbare kvalifikasjonskrav knyttet til utdanning og erfaring som samsvarer med ansvaret som gis til utviklingslærere. Profesjonen bør oppleve at kravene og rammevilkårene som følger med er legitime. Utvalget mener det er naturlig at utviklingslæreres kompetanseutvikling og spesialisering bør inngå som en del av videreutdanningstilbudene til lærerne.
+
+Utvalget registrerer at den viktigste motivasjonen til lærerspesialistene handlet om faglig utvikling og å styrke lærersamarbeidet og å bidra til skoleutvikling. Erfaringene fra lærerspesialistordningen viser at spesialiseringen kun utgjorde om lag 5 prosent av stillingen (Lødding et al., 2021). Å innføre en ordning med utviklingslærere med nedsatt leseplikt vil kreve flere lærerårsverk. Utvalget mener det er viktig at disse årsverkene kompenseres, for at det ikke skal gå på bekostning av elevenes opplæring. Kostnadene ellers til systemet vil avhenge av hvorvidt og hvordan det skal knyttes ekstra lønnsmidler til utviklingslærere eller ikke, og hvor mye tid utviklingslærere skal ha til funksjonen. Utvalget mener det er sentralt at partene blir enige om hvordan et slikt system skal innrettes.
+
+### Kompetansekrav for lærere
+
+Lærernes kompetanse er viktig for kvaliteten i skolen. Utvalget mener derfor at et minimumskrav bør være at alle elever får undervisning av lærere med lærerutdanning. Vi har tidligere presentert statistikk som viser at det er ansatte i lærerstillinger som ikke oppfyller kompetansekravene, og at det er store geografiske variasjoner. Statistikken viser også at andelen ansatte uten lærerutdanning på landsbasis holder seg stabil, selv om andelen lærere med mastergrad øker.
+
+Mange andre profesjoner er underlagt lovregulert autorisasjon, lisens og spesialistgodkjenninger. De har altså lovreguleringer som beskytter yrkestittelen. Det er ikke tilsvarende reguleringer som beskytter lærertittelen. I andre profesjoner snakker man ikke om «sykepleiere med sykepleierutdanning», «kvalifiserte advokater» eller teller antall «sivilingeniører uten utdanning».
+
+Utvalget mener at muligheten til å ansette personer uten lærerutdanning i midlertidige stillinger er et stort paradoks. På den ene siden er det satset massivt på lærernes kompetanse gjennom grunnutdanninger på masternivå og etter- og videreutdanning. På den andre siden har man «døra på gløtt» ved at det er mulig å gjøre unntak fra kompetansekravene. Satt på spissen, stilles det høye krav til lærerkompetansen, samtidig som det åpnes for at «hvem som helst» kan slippe inn i klasserommene. Utvalget gjentar at årsaken til at staten griper inn og gir visse yrkesgrupper eksklusiv rett til å ivareta bestemte oppgaver på vegne av felleskapet, ikke handler om å beskytte profesjonene. Det handler om at det vil innebære negative konsekvenser for samfunnet å slippe ukvalifiserte til. Utvalget mener at strengere regler for å ansette lærere er viktig for å sikre alle elever et likeverdig opplæringstilbud og for å styrke lærerprofesjonen.
+
+Utfordringer ved å innføre strammere kompetansekrav
+
+Utvalget er kjent med at det er flere utfordringer knyttet til å fjerne unntaksmulighetene for tilsetting.
+
+Kommunene bør i utgangspunktet ha frihet til selv å vurdere hvem som er best kvalifisert til stillingene i kommunen. Kompetansekrav griper inn i det kommunale selvstyret, og tiltaket må derfor være forholdsmessig og nødvendig for å ivareta nasjonale mål (Kommuneloven, 2018, § 2-2). Kompetansekrav bør bare innføres dersom nasjonale hensyn som rettssikkerhet, likhet og likeverd, liv og helse og effektiv og samordnet bruk av offentlige ressurser mv. tilsier det (Kommunal- og moderniseringsdepartementet, 2020).
+
+Det skal heller ikke stilles krav til kommunene som de ikke har mulighetene til å innfri. Utvalget ser at det er store rekrutteringsutfordringer flere steder, og dette har lenge vært et argument for å åpne for midlertidige tilsettinger av personer uten fullført lærerutdanning. Alternativet ville vært at kvalifiserte lærere får ansvaret for å undervise flere enn det som er pedagogisk forsvarlig eller at elevenes rett til opplæring ikke kan innfris.
+
+Siden det er geografiske forskjeller i lærerdekningen vil det å fjerne unntaksmulighetene fra tilsettingskravet kunne bety at det blir vanskeligere å drive skole i noen deler av landet. Jo strengere krav som stilles, desto større sprik kan det bli mellom lærernes kompetanse i ulike steder av landet. Noen steder vil man klare å innfri slike krav, mens andre steder kan det være mer utfordrende. Lærernes kompetanse er viktig, og demografiske endringer vil gi økende press på menneskelige og økonomiske ressurser og større kamp om arbeidskraften i framtiden. Utvalget vil samtidig peke på at det er arbeidsgivers ansvar å sørge for lønns- og arbeidsvilkår som er tilstrekkelig attraktive til å skaffe kvalifiserte arbeidstagere.
+
+Utvalget mener bare lærere skal ansettes i lærerstillinger
+
+Utvalget mener at en forutsetning for å ruste fellesskolen for framtiden er at det er like strenge regler for tilsetting som i sammenlignbare profesjoner. Lærere forvalter et komplekst oppdrag og har ansvar for opplæringen av den oppvoksende generasjonen. Dette krever spesialisert utdanning. Utvalget mener det er problematisk at det i dag er mulig å ansette personer uten lærerutdanning midlertidig i lærerstillinger. Det kan få store konsekvenser for elevene og samfunnet dersom elevene ikke får opplæring av kvalifiserte lærere. Utvalget mener det er en alvorlig brist ved dagens skolesystem at ikke alle elever får undervisning av lærere med lærerutdanning.
+
+Utvalget mener at lærerutdannede lærere må være bunnplanken for fellesskolen i framtiden for å sikre likeverdig opplæring for elevene og ivareta barnets beste. Utvalget erkjenner at en innstramming i kompetansekravene blir krevende å innfri for skoler som allerede strever med rekruttering. Det er blant annet særlig krevende å rekruttere samiske lærere. Utvalget mener likevel at det i det lange løp lønner seg å investere i lærere.
+
+Investering i skolen gir mange gevinster, men ikke nødvendigvis umiddelbart for hver enkelt kommune og fylkeskommune. Dette er omtalt i kapittel 13.1. Utvalget er bekymret for at en presset kommuneøkonomi vil ha svake insentiver til å ansette høyt utdannende lærere så lenge det er mulighet for å gjøre unntak. Ansattes kompetanse kan ikke være en salderingspost. Forslaget har en kostnadsside. Det koster mer å lønne en utdannet lærer enn en person uten utdanning.
+
+Dersom vi lykkes med å sikre at bare lærere med lærerutdanning ansettes i lærerstillinger, mener utvalget det vil styrke fellesskolens muligheter til å bidra til elevenes læring, utvikling, trivsel og danning. Dette vil også kunne få samfunnsøkonomiske gevinster i form av bedre skoleresultater, noe vi kommer tilbake til i kapittel 13. I en framtid med økt press på arbeidskraften mener utvalget at det er viktig med tilsvarende lovregulering av ansattes kompetanse i utdanningssektoren som i helsesektoren. Utvalget viser til at de fleste andre profesjoner har strenge krav til kompetanse, og mener dette bør være gjennomførbart også i skolen. En innstramming av reglene er også et uttrykk for hvor viktig det er å ha lærere som har nødvendig kompetanse. Utvalget mener at en innstramming av reglene kan ha gode distriktspolitiske effekter, ved å heve kvaliteten i lokalt skoletilbud og dermed attraktiviteten som bosted.
+
+Hvordan sikre at alle som ansettes i lærerstillinger har lærerutdanning?
+
+Utvalget mener det er behov for å beskytte lærertittelen bedre. Utvalget har vurdert to alternative virkemidler for å sikre at bare personer med lærerutdanning kan ansettes i lærerstillinger og omtales som lærere. Den ene er å lovregulere læreryrket gjennom autorisasjonsordninger slik som i helseprofesjonene. Det andre er å stramme inn på unntaksmulighetene i opplæringsloven.
+
+En autorisasjonsordning vil beskytte lærertittelen gjennom tydelig å regulere at bare personer med lærerutdanning skal kunne jobbe i lærerstillinger. En slik ordning vil også kunne innebære at lærere kan miste autorisasjonen sin ved manglede skikkethet etter at de har begynt i yrket. I høyere utdanning er lærerstudentene underlagt skikkethetsvurdering, men det finnes ikke tilsvarende mekanismer for lærere når de kommer ut i yrkeslivet. En autorisasjonsordning kan også regulere krav til kompetanseutvikling, spesialisering med mer. Samtidig vil det være et stort arbeid å utvikle og drifte en slik ordning. Å innføre en autorisasjonsordning for lærerprofesjonen vil kreve en grundigere utredning.
+
+Utvalget mener at et mindre ressurskrevende, og trolig tilstrekkelig alternativ, er å fjerne muligheten til å gjøre unntak fra tilsettingskravet i opplæringsloven om å kunne ansette personer uten lærerutdanning i midlertidige stillinger.
+
+I dag er det to unntaksmuligheter for kravene til tilsetting av lærere. Den ene er muligheten til å ansette personer med påbegynt lærerutdanning på vilkår av at lærerutdanningen blir fullført. Den andre er muligheten til å ansette andre personer midlertidig fram til 31. juli. Helt presist foreslår utvalget å fjerne følgende bestemmelse i opplæringsloven § 17-3 tredje ledd:
+
+Dersom ingen søkjarar oppfyller krava for tilsetjing, kan andre tilsetjast mellombels også utan vilkår om påbyrja lærarutdanning, men ei slik tilsetjing skal ikkje vare lenger enn til 31. juli.
+
+Dersom det mangler søkere med relevant lærerutdanning, mener utvalget at det fortsatt skal være mulig å ansette personer som er i gang med en relevant lærerutdanning midlertidig på vilkår om at utdanningen blir fullført. Denne muligheten kan bidra til nødvendig rekruttering.
+
+Hvordan kan innstrammingen gjennomføres?
+
+Mange kommuner har i dag utfordringer med å rekruttere lærere, selv om det er mange personer med lærerutdanning som ikke jobber i skolen. I 2024 var det over 40 000 lærere som jobbet i næringer der utdanningen deres ikke var relevant, og det var totalt over 50 000 utdannede lærere som jobbet utenfor skoleverket og skolesektoren (Statistisk sentralbyrå, 2024b). SSBs nyeste framskriving av arbeidsmarkedet for lærere anslår at mangelen på grunnskolelærere på landsbasis kan bli redusert på noen områder på lengre sikt (Gunnes et al., 2025). En nyere studie av samspillet mellom arbeidsmarkedet for lærere og lærerutdanningene tyder også på redusert lærermangel i årene fram mot 2035 (Falch & Strøm, 2025). Dette gir et godt utgangspunkt for å utvalgets forslag.
+
+Utvalget registrerer at regjeringen i kommuneproposisjonen for 2027 varslet at de vil redusere dagens detaljerte forskriftskrav for ansettelse i lærerstilling på ulike trinn, med sikte på å gi kommuner og fylkeskommuner økt fleksibilitet ved rekruttering og disponering av lærerressurser (Prop. 94 S (2025 –2026)). Utvalgets forståelse er at regjeringens forslag ikke handler om å svekke kravene til lærerkompetanse, men å forenkle forskriftskravene for ansettelse i lærerstilling på ulike trinn for å gi mer fleksibilitet ved rekruttering og disponering av lærerressurser. Dette står ikke i motsetning til å stramme inn kravet om lærerutdanning for tilsetting i lærerstilling. Mindre detaljerte forskriftskrav vil tvert imot kunne gi et bedre utgangspunkt for å stramme inn, fordi det blir mer fleksibelt mellom trinnene å ansette lærere med ulik lærerutdanning.
+
+Rekruttere og beholde lærere i Skjervøy kommune
+
+Skoleåret 2023/24 nådde Skjervøy kommune et bunnpunkt i antall kvalifiserte lærere i grunnskolen. Tre ledere og en pedagog fra kommunen deltok i januar/februar 2024 på rekrutteringsarrangementer i Trondheim og Bodø, og brukte «merch», plakater og dialog for å formidle fortrinn ved bli lærer i Skjervøy.
+
+Hovedutlysningen ble publisert samtidig med rekrutteringsreisen og gjorde at Skjervøy var tidlig ute i utlysningssammenheng dette året. I utlysningsteksten kommer det fram at Skjervøy tilbyr nytilsatte lærere en *rekrutteringsbonus* på 25 000 kroner ved signering, og ytterligere 25 000 kroner etter fullførte to år som lærer i Skjervøy.
+
+Kommunestyret vedtok samme år tre timer nedsatt undervisningstid for kontaktlærere. Vedtaket ble omtalt i utdanningsnytt.no.
+
+Skjervøy har i tillegg vært med på å opprette en interkommunal plan for veiledning av nyutdannede lærere. Det interkommunale samarbeidet forplikter kommunen til å ta vare på de nyutdannede, noe de fleste nytilsatte lærere i Skjervøy er.
+
+Som resultat av rekrutteringsarbeidet fikk Skjervøy kommune høsten 2024. 25 kvalifiserte søkte, og kommunen tilsatte 11 av disse. Til sammenlikning lyste de ut fem lærerstillinger året før og fikk fire søkere som ikke var kvalifiserte. Høsten 2025 ble ytterligere sju nyutdannede lærere tilsatt i Skjervøy kommune. Etter det første året sluttet én av de nyutdannede lærerne, mens to av dem sluttet etter to år. I løpet av to år er svært mange ansatte uten lærerutdanning erstattet av kvalifiserte lærere.
+
+Kilde: Skjervøy kommune
+
+Rammeslut
+
+Utvalget mener innstrammingen er et nødvendig tiltak for likeverdig opplæring i hele landet. Utvalget mener det vil la seg gjennomføre med målrettede tiltak, men erkjenner at det vil være vanskelig å oppfylle med en gang i noen kommuner og på noen skoler. Utvalget mener derfor det bør innføres en tidsavgrenset dispensasjonsordning som gir lokale skolemyndigheter forutsigbarhet og tid til å tilpasse seg kravet. En dispensasjonsordning i en overgangsperiode vil også kunne gi bedre oversikt for myndighetene over hvor utfordringene med rekruttering er størst, slik at disse skolene kan følges opp med særlige tiltak. Det er viktig at ordningen er tidsavgrenset, slik at den i praksis ikke blir en ny varig unntaksbestemmelse.
+
+Utvalget erkjenner at en innstramming som foreslått ikke vil løse rekrutteringsproblemene. Utvalget mener forslaget vil stille høyere krav til arbeidet med rekruttering til lærerutdanning og læreryrket, både lokalt og nasjonalt. For å sikre tilgang til kvalifiserte lærere over hele landet, mener utvalget det er viktig at nasjonale myndigheter støtter skoler og kommuner, ved for eksempel å etablere støtteordninger i områder der rekruttering av kvalifiserte lærere er særskilt vanskelig. Det vil også være en styrke at lærerutdanningene tilbyr likeverdige utdanninger tilpasset ulike regionale behov. Skolene og lærerutdanningene bør samarbeide for å sikre god rekruttering og finne fleksible løsninger for å sikre tilgang til kvalifiserte lærere, for eksempel gjennom arbeid i partnerskap. Lokale eksempler viser at målrettet rekrutteringsarbeid kan gi gode resultater, se boks 12.2.
+
+Utvalget peker også på at lønn og andre arbeidsvilkår er et vanlig virkemiddel for å tiltrekke seg, utvikle og holde på ønsket kompetanse i en virksomhet som opplever konkurranse om arbeidskraften. Også dette handler om valg og prioriteringer fra partene og om hvilke muligheter og begrensninger som åpnes eller lukkes gjennom nasjonal politikk.
+
+Utvalget mener skjerpede kompetansekrav både kan bidra positivt til rekrutteringen til læreryrket og til å beholde kvalifiserte lærere i yrket. Det er et viktig signal til mulige lærerstudenter at man må ha lærerutdanning for å jobbe som lærer. I neste delkapittel om skolen som en attraktiv arbeidsplass utyper utvalget behovet for lærerrekruttering og understreker at arbeidet med rekruttering må følges opp videre.
+
+Krav til kompetanse for å undervise på barnetrinnet
+
+Utvalget mener at lærere bør ha relevant kompetanse i fagene de skal undervise i på alle trinn. Som vist i kapittel 10, tyder forskningen på at det å ha kompetanse i fag og fagdidaktikk er en viktig komponent i lærernes profesjonskunnskap.
+
+Opplæringsforskriften regulerer hvor mange studiepoeng lærere skal ha for å undervise i ulike fag på ulike trinn (Opplæringsforskrifta, 2024, kapittel 12). Det er regulert krav til kompetanse i de fleste fag, men det er ikke regulert krav til kompetanse på barnetrinnet i de praktiske og estetiske fagene, i KRLE, i naturfag og i samfunnsfag. Kommunen og fylkeskommunen skal sørge for at de som er ansatt i lærerstilling har relevant kompetanse i fagene de skal undervise i, men de kan gjøre unntak dersom skolen ikke har nok ansatte som oppfyller kravene (Opplæringslova, 2024, § 17-4).
+
+Andelen lærere som mangler studiepoeng i fagene de underviser i er særlig høy i de praktiske og estetiske fagene, KRLE, naturfag og samfunnsfag (Arnesen et al., 2023). Utvalget mener lærernes kompetanse på barnetrinnet i disse fagene er like viktig som på ungdomstrinnet, og mener derfor det bør stilles krav til 15 studiepoeng for å undervise også i disse fagene på barnetrinnet.
+
+Utvalget erkjenner at noen skoler er så små at det er svært krevende å innfri kravene til undervisningskompetanse i alle fag. Det vil derfor være nødvendig å beholde muligheten til å gjøre unntak fra kravene til relevant kompetanse i undervisningsfag. Utvalget foreslår heller ikke at de nye kravene til kompetanse i undervisningsfag skal innføres med tilbakevirkende kraft.
+
+Utvalget mener at å innføre krav til kompetanse i de andre undervisningsfagene på barnetrinnet vil være et viktig signal med tanke på planlegging av ansettelser, prioritering av fag og områder til videreutdanning, for lærerutdanningenes fagtilbud og lærerstudentenes fagvalg. En kartlegging av samsvaret mellom behov for fagkompetanse i skolene og fagtilbudene i lærerutdanning viser at rekrutteringssituasjonen er særlig krevende i noen fag:
+
+Etter innføringen av masterutdanning for grunnskolelærere er det en tendens til at færre studenter velger fagene mat og helse, kunst og håndverk og KRLE. At færre velger disse fagene, kan sammen med reduserte studenttall og eventuelle kutt i fagtilbud, gjøre at skolene ikke får tilgang til den fagkompetansen de trenger. Det er risiko for en negativ spiral, der færre tilgjengelige fagvalg kan forsterke den nedadgående søkertrenden.
+
+Haugen et al., 2024
+
+Skal vi lykkes med å styrke både utdannings- og danningsoppdraget og få en mer praktisk og variert skole, mener utvalget at vi er avhengige av lærere med god kompetanse i alle skolens fag.
+
+Krav til kompetanse for å undervise
+
+04J1xx2
+
+|  |  |  |  |
+|----|----|----|----|
+| Trinn | Norsk/samisk/norsk tegnspråk, matematikk og engelsk | Andre fag | Unntak |
+| 1.-7. | 30 | 0 |  |
+| 8.-10 | 60 | 30 | Valgfag, utdanningsvalg, arbeidslivsfag |
+| VGO | 60 | 60 | Yrkesfaglig fordypning og for lærere som er ansatt på bakgrunn av relevant yrkesteori |
+
+### Skolen som en attraktiv arbeidsplass
+
+En grunnleggende forutsetning for å styrke lærerprofesjonen, er at skolen er en attraktiv arbeidsplass. Det hjelper ikke å stille krav til lærernes kompetanse, hvis vi ikke klarer å rekruttere og beholder lærere. Noe av det viktigste vi kan gjøre for å sikre en bærekraftig rekruttering er at skolen oppleves som en god arbeidsplass (Munthe & See, 2022). Lærere som trives på jobb og opplever motivasjon og mestring er viktig i seg selv, for elevenes læring og trivsel og for den profesjonelle utviklingen til lærerne.
+
+Gode arbeidsforhold er viktige for å rekruttere og beholde lærere
+
+Det er helt avgjørende for fellesskolen at det satses på rekruttering til lærerutdanning og læreryrket. Historisk viser det seg å være et behov for å jobbe systematisk med lærerrekruttering (Kunnskapsdepartementet, 2009, 2014, 2017a). Forslaget om å stramme inn på tilsettingskravene vil forsterke behovet for arbeid med rekruttering. Utvalget mener den nylig vedtatte strategien «Strategi for rekruttering til lærerutdanningene og læreryrket 2024–2030» gir et godt grunnlag for rekrutteringsarbeidet (Kunnskapsdepartementet, 2024c). Den nye rekrutteringsstrategien er utarbeidet i samarbeid med Nasjonalt forum for lærerutdanning og profesjonsutvikling. Ulike aktører i utdanningssektoren har blitt enige om en felles situasjonsbeskrivelse og har forpliktet seg til å bidra til å snu utviklingen.
+
+Årsakene til rekrutteringsutfordringene er flere og sammensatte. Strategien har derfor en bred inngang til rekruttering der kvalitet i lærerutdanningene og gode arbeidsforhold i yrket står sentralt (Kunnskapsdepartementet, 2024c). Utvalget støtter denne helhetlige tilnærmingen til rekruttering. For å snu den negative utviklingen og møte utfordringene med lærerrekruttering har strategien følende mål for 2030:
+
+1.  Lærerutdanningene er attraktive studievalg.
+
+<!-- -->
+
+29. Lærerutdanningene har høy kvalitet og er profesjonsrelevante.
+
+30. Alle nyutdannede lærere opplever en positiv overgang fra utdanning til yrke og får veiledning.
+
+31. Barnehager og skoler er attraktive arbeidsplasser som rekrutterer og beholder lærere (Kunnskapsdepartementet, 2024c).
+
+Den nye rekrutteringsstrategien føyer seg inn i rekken av ulike strategier som på ulikt vis har tematisert rekruttering til lærerutdanningene og læreryrket: GNIST, Lærerløftet, Lærerutdanning 2025 (Kunnskapsdepartementet, 2009, 2014, 2017a).
+
+Strukturkvalitet har betydning for lærernes mulighet til å gjøre en god jobb
+
+Skolebygg, uteområder og læringsressurser, bemanning, kompetansekrav, organisering og økonomi påvirker lærernes muligheter for å løse skolens oppdrag. Lærere oppgir at opplevelsen av å kunne gjøre en god jobb er viktig for motivasjonen, og de trekker fram gode rammebetingelser, som av økonomi, ressurser og gode læremidler som sentrale for motivasjonen, i tillegg til lønn og andre arbeidsvilkår. (Utdanningsforbundet, 2025).
+
+Mange lærere motiveres av ønsket om å utgjøre en forskjell for barn og unge, forme samfunnet og bidra til fellesskapet (Munthe & See, 2022). Studier viser at opplevelsen av å mestre arbeidsmengden, gode arbeidsforhold og arbeidsmiljø er viktig for å beholde lærere i yrket (Munthe & See, 2022). Strukturkvaliteten påvirker prosesskvaliteten, altså hvordan lærerne kan gjøre jobben sin. Som utvalget har drøftet tidligere, kan det bli utfordrende hvis lærerne alene holdes ansvarlig for å løse utfordringer der rotårsaken kan ligge utenfor skolen. Utvalget er enige med Ekspertgruppen om lærerrollen som påpekte at det er problematisk å holde lærerne ansvarlige for målsettinger som de ikke har fått de nødvendige ressurser og verktøy for å nå.
+
+Utvalget mener at strukturelle rammebetingelser som gjør skolen til et godt sted å være i og lære i, er viktig for både lærerne og for elevenes læring. Derfor mener utvalget det er viktig å hegne om ressursene til skole. Utvalget mener det er en god overlapp mellom strukturkvalitet og skolen som en god arbeidsplass. Eksempler på dette er god bemanning, god tilgang til læremidler og gode fysiske omgivelser. Faktorer som skolebygg med god luftkvalitet, spesialrom, gode uteområder og tilgang til andre læringsressurser, legger også både et godt grunnlag for elevenes læring, utvikling, trivsel og danning, og for attraktiviteten til skolen som arbeidsplass.
+
+Et godt inneklima er et eksempel på en rammefaktor som bidrar til at skolen er et godt sted å lære og godt sted å jobbe. Undersøkelser om arbeidsmiljø viser at det er noen særlige utfordringer knyttet til arbeidsmiljøet for lærere (Statens arbeidsmiljøinstitutt, 2026a). Halvparten av grunnskolelærerne oppgir at de er utsatt for dårlig inneklima på jobben i minst en fjerdedel av arbeidsdagen (Statens arbeidsmiljøinstitutt, 2026b, 2026c).
+
+En skoledag som anerkjenner at læring kan være krevende, og som gir rom for pauser og restitusjon, vil trolig være viktig både for elevenes og lærernes arbeidssituasjon. I en skole med et stadig mer sammensatt oppdrag, er det viktig med nok tid og rom til samarbeid i profesjonsfellesskapene. Utvalget mener de sammensatte forventningene til lærerrollen bør ha rammer som grunnlag for at lærerne kan lykkes best mulig med å styrke danningsoppdraget og snu de negative læringsresultatene.
+
+Mange av utvalgets andre forslag vil kunne styrke strukturkvaliteten, og dermed også rammevilkårene for lærernes arbeid. Dette gjelder for eksempel at læreplanen skal bli et bedre verktøy for lærerne, bedre støtte til vurderingsarbeidet og regulering av tilgang til trykte læremidler, som omtalt i kapittel 11.
+
+Utvalget oppfatter at det er en tydelig tilbakemelding fra lærerne at nødvendige ressurser og tilstrekkelig lærertetthet er viktig for likeverdig opplæring i fellesskolen og for attraktiviteten i læreryrket. Utvalget mener også at det er avgjørende med en langsiktig prioritering av tilstrekkelig ressurser til fellesskolen. Dette utdyper vi i kapittel 13.
+
+Kontaktlærerrollen må styrkes
+
+Lærerne rapporterer om en mer sammensatt elevgruppe og økt behov for tilpasning (White et al., 2025). Som vist i kapittel 4 påvirker endringer i samfunnet barn og unges skolehverdag. Forskjellene mellom folk har økt, og det er større språklig og kulturelt mangfold enn før. I tillegg rapporterer flere barn og unge om psykiske helseutfordringer, og flere får diagnoser som autisme og ADHD. Skolen speiler samfunnet, og lærere og skoleledere beskriver at skolehverdagen har blitt mer krevende og kompleks. De rapporterer om at det er vanskeligere for elevene å konsentrere seg, mange klasserom er mer urolige, det er større klasser, mer mangfoldige elevgrupper og flere elever som trenger ekstra oppfølging, uten at de ser at ressursene har fulgt med. Det er særlig kontaktlærere som merker dette spriket.
+
+Utvalget har fått innspill om at kontaktlærerrollen må styrkes. Det kommer fram i innspillene til utvalget at kontaktlæreren har en omfattende jobb, men for liten tid til å følge opp enkeltelever slik de ønsker. Lærerne rapporterer om at økt kontakt fra foreldre og elever utenfor normalarbeidsdagen bidrar til et økt arbeidspress. Kontaktlærerrollen framstår som særlig omfattende, og omfanget har økt over tid (Ingelsrud et al., 2025). Det ser ut som det flere steder er behov for en tydeligere forventningsavklaring mellom skole og hjem, og avgrensing av hvor tilgjengelige kontaktlærerne skal være for elevene og foreldrene utenfor arbeidstid.
+
+Utvalget mener at kontaktlærerfunksjonen blir enda viktigere framover. Utvalget mener derfor at å gi kontaktlærere gode rammer vil være viktig for elevene, for samarbeidet med foreldre og for lærernes arbeid. Kontaktlærerrollen er en nøkkelrolle i arbeidet med elevene, i det tverrfaglige samarbeidet og i samarbeidet mellom skole og hjem. Utvalget mener derfor denne rollen bør styrkes.
+
+Samtidig anerkjenner utvalget at det å styrke kontaktlærerresursen vil medføre store kostnader, og det vil heller ikke nødvendigvis være treffsikkert og avlaste de kontaktlærerne som trenger det mest. Utvalget mener en mulig måte å styrke kontaktlærerfunksjonen på, er å øke det som omtales som *Tidsressurspotten* i særavtalen som regulerer arbeidstid for lærere. Dette er en felles ressurspott som beregnes ut fra antall elever per skole, og ressursen skal brukes på lærere og skoleledere med særlig byrdefull undervisningssituasjon. Ressursen skal som hovedregel brukes til reduksjon av antall undervisningstimer, men kan også brukes til økt lærertetthet dersom det letter den enkeltes arbeidsbyrde. Fordeling av ressursene skal drøftes med tillitsvalgte, og kan ved enighet på kommunalt nivå omfordeles mellom skolene (SFS 2213, 2025).
+
+Utvalget foreslår å øke denne potten. Dette vil gi skolene større frihet til å styrke kontaktlærerne ved behov, for eksempel på grunn av store klasser eller mange elever med behov for tilrettelegging. Utvalget mener at for at tiltaket skal få effekt som monner, bør potten styrkes med 1 milliard kroner. Det skal fortsatt være opp til drøftinger på den enkelte skole å prioritere fordeling av ressurser, men ut fra de innspillene utvalget har fått antar utvalget at det å støtte kontaktlærere i en krevende skolehverdag har stor oppslutning.
+
+### Utvalgets forslag om en kompetent lærerprofesjon
+
+Et bærende element i forslagene knyttet til å styrke lærerprofesjonen handler om hvordan staten kan bidra til å styrke rammene rundt kompetanseutviklingen i lærerprofesjonen. Den viktigste læringen for lærerne skjer daglig i klasserommene og i profesjonsfellesskapene. Utvalget har flere forslag som innebærer å styrke lærernes kompetanseutvikling ytterligere. For utvalget er det viktig å presisere at mange av forslagene kan ses i sammenheng og som gjensidig forsterkende. For eksempel vil en utviklingslærer i veiledning kunne veilede både lærerstudenter i praksis og nyutdannede lærere.
+
+Mange av forslagene innebærer at lærere i perioder må undervise mindre, og dette vil kreve ekstra lærerårsverk. Utvalget vil understreke betydningen av at skolen styrkes med lærerårsverk i tråd med disse forslagene. Hvis ikke, vil det kunne svekke elevenes opplæring. Utvalget erkjenner at dette er krevende i en tid med økende kamp om arbeidskraften. Utvalget mener helheten i forslagene vil bidra til å gjøre skolen til en attraktiv arbeidsplass og bidra til å sikre årsverkene som trengs. En introduksjonsperiode med tilstrekkelig tid til for- og etterarbeid, introduksjonsaktiviteter og profesjonsfaglig veiledning, vil for eksempel styrke en særlig kritisk periode i lærernes yrkesliv og kan bidra til å beholde flere lærere i skolen. Ordningen med utviklingslærere vil kunne gi erfarne lærere spesialisert kunnskap og ansvar som kan gjøre det mer attraktivt å bli værende i yrket lenge. Mer tid til kontaktlærerne vil føre til at lærerne får fulgt opp elevene i klassen sin bedre, og det vil gjøre at arbeidshverdagen blir bedre for lærerne. Flere av forslagene berører lønns- og arbeidsvilkår og spørsmål som ligger mellom partene. Tiltakene utvalget har skissert peker på noen overordnede målsetninger og rammer, og utvalget vil understreke at det er nødvendig at partene er med på å konkretisere og iverksette tiltakene.
+
+Utvalget har blitt bedt om tiltak for å styrke fellesskolen i et langstidsperspektiv. Forslagene er ambisiøse, men flere av forslagene kan skaleres og det er mulig med gradvis innføring over tid. Som nærmere omtalt i kapittel 13, vil det å investere i lærernes kompetanse uansett gi avkastning i skolesystemet i lang tid.
+
+Fremragende lærerutdanning på masternivå
 
 Utvalget foreslår å
-• utrede hvordan staten kan kompensere for forskjellen mellom gjennomsnittskostnader og
-marginalkostnader per elev når kommunene
-og fylkeskommunene trekkes for fallende elevtall
-For det andre vil utvalget anbefale en statlig føring
-for bruk av ressurser i skolen i framtiden. Dette
-handler først og fremst om å sikre skolen midler i
-en tid hvor skoleøkonomien er under press. Dette
-er nødvendig fordi økte ressurser til skolen virker
-positivt inn på elevenes læring og utvikling. Det
-handler om gevinstene vi som samfunn kan høste
-på lang sikt, som følge av god ressursbruk i skolen i dag.
-Utvalget har et 20-årsperspektiv på våre vurderinger. I et slikt langsiktig perspektiv er forskningen tydelig på de gunstige effektene av økt ressursbruk i skolen, spesielt når midlene kanaliseres til klasserommet og skolehverdagen ut fra
-lokale behov og prioriteringer.
-Ikke minst vil prioritering av ressurser til skolen være en forutsetning for å kunne fremme det
-profesjonsfellesskapet og den profesjonaliseringen av lærerstanden som vi mener er nødvendig
-for å møte framtidens utfordringer i skolen. En
-sterk lærerprofesjon og profesjonell skoleledelse
-er avgjørende for at skolen skal lykkes. Vi minner
-også om at det meste av skolens ressurser går til å
-finansiere årsverkene til de viktige lærerne. Når vi
-taler for å hegne om skolens ressurser, taler vi
-med andre ord samtidig for å hegne om lærerårsverkene.
-Utvalget er omforent i synet på at det er behov
-for en form for statlig sikring av ressurser til skolen i framtiden. Et samlet utvalg foreslår at det
-utredes en ny ressursnorm for grunnskolen. Ferdig
-utredet ønsker utvalget at en slik ressursnorm for
-grunnskolen skal erstatte lærernormen. Et samlet
-utvalg foreslår at lærernormen beholdes i mellomtiden. Utvalget vil sterkt advare mot å avvikle
-lærernormen før en ny ressursnorm er utformet
-og iverksatt, og understreker at overgangen mellom lærernormen og en ny ressursnorm ikke må
-innebære at ressurser trekkes ut av skolen. Utvalget foreslår i tillegg at dagens deling av normen
-på hovedtrinnene oppheves.
-Utvalgets forslag er med andre ord todelt.
+
+- videreføre masterutdanning som hovedmodell for lærerutdanning
+
+- sørge for at ny rammeplan for lærerutdanning gjenspeiler utfordringene som er beskrevet i denne utredningen. Utvalget vil særlig trekke fram at nyutdannede lærere må bli satt i stand til å
+
+  - drive god opplæring i lesing, skriving og regning/matematikk i skolen
+
+  - gi god demokratiopplæring
+
+  - jobbe med elevenes sosioemosjonelle utvikling
+
+- innføre overordnende og generelle forventninger om partnerskapsdannelse i rammeplanene for lærerutdanning og vurdere det samme i opplæringsloven
+
+- innføre en plikt for kommunene og fylkeskommunene til å medvirke til praksis og utdanning av lærerstudenter
+
+- styrke finansieringen av lærerutdanningene med 250–350 mill. kroner, slik at de kan videreutvikle og tilby utdanninger av høy kvalitet og relevans
+
+- gjennomføre en fagevaluering av utdanningsforskning og andre relevante forskningsfelt for lærerutdanningene i regi av Forskningsrådet
+
+- etterspørre forskning om leseopplæring, matematikkopplæring, demokratiopplæring og de sosioemosjonelle ferdighetene i neste utlysning fra Forskningsrådet
+
+Regulering av profesjonsfaglig veiledning
+
 Utvalget foreslår å
-• utrede en ny ressursnorm for grunnskolen,
-med tanke på å erstatte lærernormen i framtiden
 
-•
+- gi kommunen og fylkeskommunen plikt til å gi nyutdannede lærere som tilsettes to obligatoriske introduksjonsår med profesjonsfaglig veiledning
 
-beholde en justert versjon av lærernormen inntil en ny ressursnorm er på plass
+- regulere at introduksjonsperioden skal innebære at 10 prosent av arbeidstiden de første to årene skal kunne brukes til introduksjonsaktiviteter, veiledning og for- og etterarbeid til undervisning
 
-Hovedbegrunnelsen for en ny ressursnorm er at
-den skal gi forutsigbare økonomiske rammer for
-skoledriften og rom for lokal skolemyndighet og
-skoleledelse til å vurdere de beste tiltakene for å
-styrke skolene innen en gitt ressursramme.
-Hovedbegrunnelsen for å beholde lærernormen til en ny ressursnorm er på plass, er for det
-første at en endring som innebærer at ressurser
-trekkes ut av skolen vil være vanskelig å reversere, og for det andre at det gir større fleksibilitet
-til å styre lærerressursene dit man mener behovet
-er størst.
-Utrede en ny ressursnorm for grunnskolen
-Norge skiller seg ut ved å ha nasjonalt rettslig
-regulert lærertetthet på skolenivå. I tillegg kommer bestemmelser i lov- og regelverk som i praksis innebærer ulike former for binding av ressurser til skolen. De fleste sammenlignbare land
-bruker indirekte styringsmekanismer, gjennom
-blant annet behovsbasert finansiering, regulerte
-krav til kompetanse og kvalitet, og ulike former
-for ansvarliggjøring av det lokale nivået fra
-staten.
-Forskningen vi har redegjort for over, viser at
-god bruk av ressurser i skolen gir både samfunnsøkonomisk avkastning og et viktig bidrag til sosial
-mobilitet. Utvalget foreslår på denne bakgrunn at
-det utredes en ny ressursnorm for grunnskolen som
-skal sikre tilstrekkelige ressurser til skolen i framtiden. Utvalget mener det er behov for å tilføre og
-sikre ressurser på alle nivåer i grunnopplæringen,
-også i videregående skole. Utvalgets forslag om
-utredning av en ny ressursnorm er imidlertid
-avgrenset til den obligatoriske delen av grunnopplæringen.
-Forslaget innebærer at staten regulerer ressursbruken i kommunene, ikke bemanningsstrukturen på skolene. En ny ressursnorm for
-grunnskolen skal ses på som sikring av et minimumsnivå, på samme måte som at lærernormen i
-grunnskolen er ment som en minstenorm i dag.
-Samtidig kan ikke en ny ressursnorm begrenses
-til de ekstra midlene som ble innlemmet i kommunerammen som følge av lærernormen. En ny ressursnorm må se skoleøkonomien under ett. Normen må inkludere de faktiske kostnadene for
-dagens lærerårsverk, inkludert merkostnaden
-ved lærernormen. I tillegg bør den ta hensyn til
-kommunenes andre driftskostnader til skole.
-Målet må være å innføre en ordning som gir kom-
+- ordningen med to obligatoriske introduksjonsår bør evalueres for å vurdere behov for endringer
 
-[Side 299]
+Kontinuerlig kompetanseutvikling i yrkeslivet
 
-NOU 2026: 10
-Fellesskolen
-
-munene en bærekraftig og forutsigbar skoleøkonomi i framtiden.
-Ressursnormen innebærer at kommunenes
-samlede ressursbruk på skole bindes til et minimumsnivå, og betyr en overgang fra en innsatsnorm (lærerårsverk) til en utgiftsnorm (ressursbruk). En framtidig ny ressursnorm vil fortsatt gi
-rom for å beholde eller øke lærertettheten, hvis
-det er det kommuner og skoleledere mener er
-best utnyttelse av ressursene.
-Konkret ønsker utvalget at det utredes en ordning der staten fastsetter i lov eller forskrift at
-kommunens samlede utgifter per elev i grunnskolen skal være på et minimumsnivå, og så korrigeres for lønns- og prisvekst i framtiden. Ressursnormen skal gjelde på kommunenivå, og skal
-ta hensyn til smådriftsulemper basert på geografi.
-For å unngå innlåsningseffekter skal den ikke ta
-hensyn til eksisterende skolestruktur. At kommunene oppfyller normen, kan dokumenteres ved
-hjelp av data fra KOSTRA for det enkelte år. Det
-kan settes opp en årlig automatisk kontroll enten
-hos Statsforvalteren eller Utdanningsdirektoratet. Avvik vil innebære et formelt brudd av regelverket og gi pålegg om retting.
-Ressursnormen for grunnskolen kan ses på
-som en form for binding gjennom å etablere et
-gulv. Sammenliknet med lærernormen skal ordningen gripe mindre direkte inn i skolen, og la
-kommunene bestemme hvordan midlene skal
-brukes. Staten sier hvor mye, ikke hvordan.
-Under slike betingelser kan en ny ressursnorm være mer konsistent med prinsippet om
-lokalt selvstyre enn lærernormen. Mens lærernormen vrir kommunens skoleøkonomi mot
-arbeidskraftinnsats, og på en spesifikk måte, vil
-dette alternativet kunne innebære at kommunene
-kan prioritere friere mellom ulike innsatsfaktorer i
-skolen basert på lokale hensyn, for eksempel
-lærerårsverk, andre yrkesgrupper, spesialpedagogiske tiltak eller kompetanseheving. KOSTRA-tall
-og elevtall finnes allerede, og ordningen bør være
-relativt enkel å administrere. Sammenliknet med
-andre typer kvalitetsindikatorer (for eksempel
-læringsresultater) vil det være lav måleusikkerhet, og dette gir høy transparens i tallgrunnlaget
-for ordningen.
-Utvalget mener et slikt alternativ vil være økonomisk, juridisk og praktisk mulig, men regelfestingen vil kunne oppfattes som en ny type økonomisk rammebinding og trolig møte en del prinsipiell motstand. Vi foreslår derfor at dette utredes
-grundigere. Ressursnormen må som nevnt vie
-seg til skoleøkonomien som helhet. Den må blant
-annet ses i sammenheng med andre former for
-
-297
-
-Kapittel 13
-
-statlige bindinger av kommunenes utgifter til
-skole, for eksempel reglene om individuelle rettigheter for elever.
-Generelt må utredningen av en ny ressursnorm balansere prinsipielle hensyn til statlige
-føringer for kommunene med nødvendige nasjonale hensyn om å hegne om ressursene i fellesskolen. Dersom man lykkes med utredningen,
-mener utvalget at den nye ressursnormen skal
-erstatte dagens lærernorm.
-Beholde en justert versjon av lærernormen inntil en
-ny ressursnorm er på plass
-Utvalget vil sterkt advare mot å avvikle lærernormen før en ny ressursnorm er utformet og iverksatt, men et samlet utvalg foreslår å oppheve trinndelingen av dagens lærernorm. Utvalgets flertall
-mener normen bør endres til skolenivå. Utvalgets
-medlem Martin Eckhoff Andresen mener normen
-bør endres til kommunenivå, under gitte betingelser.
-Lærernorm på skolenivå betyr at normen skal
-beregnes som et samlet gjennomsnitt for hele skolen, uavhengig av hovedtrinn. Det innebærer samtidig at et rettslig minstekrav opprettholdes som i
-dag og at midlene beholdes i skolen. Utvalget legger til grunn at eventuelle ressurser til lærerårsverk som frigjøres, beholdes i kommunerammen
-og prioriteres til skolebudsjettene i kommunene.
-Utvalget mener lærernormen vil gi mer fleksibilitet hvis den heves til skolenivå. Dagens krav
-om lærerårsverk per hovedtrinn korresponderer
-ikke alltid med det faktiske lærerbehovet og kan
-gi særlig sterke utslag i små og mellomstore skoler, for eksempel når elevtallet på et hovedtrinn
-akkurat krysser en grense. En norm på skolenivå
-jevner ut slike tilfeldige utslag og gir mer stabil
-bemanningsplanlegging, uansett om elevtallet på
-ett hovedtrinn endres. Dersom normen settes på
-skolenivå, vil det også styrke rektors pedagogiske
-og organisatoriske handlingsrom. Dermed vil det
-bli større samsvar mellom rektors styringsansvar
-og mulighetene til å disponere skolens ressurser.
-Det vil øke muligheten til å forsterke innsatsen
-midlertidig på trinn med store faglige eller miljømessige utfordringer, og gi bedre tilpasning til
-lokale variasjoner i kullstørrelse, elevsammensetning og lærertilgang.
-En lærernorm på skolenivå støtter opp om
-skolens attraktivitet som arbeidsplass, noe forskning har pekt på som vesentlig for å rekruttere og
-beholde lærerne (Munthe & See, 2022). Utvalget
-merker seg funnene i evalueringen som tyder på
-at lærere opplever at den økte lærertettheten gir
-
-[Side 300]
-
-298
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-bedre betingelser for yrkesutøvelsen. Det blir
-også anført at lærernormen gir mindre sykefravær, og gjør at skolen har flere lærere å spille på
-ved sykdom slik at man i større grad slipper å
-sette inn ufaglærte vikarer i de tilfellene (Pedersen, 2022).
-Forslaget om å beholde lærernormen, men
-endre den til å gjelde på skolenivå, må også ses i
-lys av utvalgets tidligere forslag i utredningen om
-å styrke lærerprofesjonen. Utvalget foreslår flere
-tiltak knyttet til lærernes kompetanse som er
-begrunnet i det faktum at læreren er den viktigste
-skolerelaterte faktoren for elevenes utvikling og
-læring. I møte med en mer mangfoldig elevgruppe og komplekse forventinger til skolen, er
-det avgjørende at disse ressursene beholdes i skolen.
-En innvending mot å løfte normen til skolenivå, vil være at man fjerner dagens innebygde
-prioritering av de laveste trinnene. Det gir en
-risiko for mindre prioritering av lærerressurser til
-de yngste elevene og for økte forskjeller mellom
-skoler, ettersom ulike skoler kan komme til å fordele lærerårsverkene ulikt. Virkningen for elevene vil derfor i stor grad avhenge av kvaliteten på
-lokale beslutninger. Allerede før normen trådte i
-kraft var mange skoler organisert slik at barnetrinnet var relativt bedre bemannet. Dette hang
-antakelig sammen med de tidligere klassedelingsreglene, men kanskje viktigere var skolenes generelle vektlegging av tidlig innsats. Utvalget mener
-derfor at risikoen for nedprioritering av lærertetthet for barnetrinnet ved endring av normen er
-relativt liten, og denne risikoen oppveies av gevinster for elevene som den økte fleksibiliteten ved
-en justering av normen trolig vil gi. Mer fleksibilitet stiller samtidig større krav til skolen som organisasjon. Med utvalgets vekt på profesjonalisering
-av læreryrket og skolelederne mener flertallet at
-forholdene legges til rette for gode lokale valg.
-Sannsynligheten for at skolene nedprioriterer tidlig innsats må anses som relativt lav.
-Utvalget anerkjenner samtidig at kommunenes behov for å tilføre ekstra lærerressurser til
-enkelte områder og skoler, er større enn det
-dagens lærernorm tillater av lokale tilpasninger.
-Forskningen om ressursbruk i skolen tyder som
-nevnt på at en mer dynamisk ressursbruk kan
-være mer treffsikker på lang sikt enn mer faste
-normer. Dette taler for å løfte reguleringen av normen til kommunenivå.
-Heving av normen til kommunenivå ville i tillegg være mer i tråd med prinsippet om lokalt
-selvstyre og målet om redusert statlig detaljstyring. Skolens kompleksitet kan tale for et stort
-
-handlingsrom og økt fleksibilitet i organiseringen
-og utøvelsen av samfunnsoppdraget. Dette er som
-nevnt en viktig grunn til at utvalget foreslår å
-utrede en ny ressursnorm for grunnskolen. Utvalget
-stiller seg samlet bak at en ny ressursnorm er en
-bedre løsning enn å endre lærernormen til kommunenivå.
-Slik utvalget ser det, er den største utfordringen ved en lærernorm på kommunenivå at den vil
-utløse behov for langt færre lærerårsverk totalt
-sett, sammenliknet med en norm på skolenivå.3
-Ifølge tidligere beregninger, kan det dreie seg om
-omtrent 850 færre lærerårsverk på landsbasis
-(NOU 2026: 1). Dette vil tilsvare omtrent 2–3
-færre lærerårsverk i snitt per kommune. Omregnet til midler på statsbudsjettet, dreier det seg om
-ca. 830 mill. kroner (Kunnskapsdepartementet,
-2025e).4 Dersom disse midlene forsvinner ut av
-skolen, er det neppe realistisk å få dem tilbake.
-Selv dersom midlene beholdes i kommunerammen, noe som ikke er gitt, mener utvalget at det er
-stor sannsynlighet for at midlene vil omdisponeres til andre formål enn skolen, jf. det vi tidligere
-har skrevet om endret alderssammensetting i
-kommunene.
-For å hegne om skolens ressurser, ønsker flertallet i utvalget at lærernormen beholdes på skolenivå, men at dagens føringer for lærertettheten
-per hovedtrinn fjernes.
-Utvalgets medlem Martin Eckhoff Andresen
-foreslår at lærernormen endres til kommunenivå
-og forutsetter da at måltallet for forholdet mellom
-antall elever og antall lærere nedjusteres, slik at
-det samlede kravet fra lærernormen til antall
-lærere nasjonalt ivaretas som i dag.
-Avsluttende bemerkning
-Skjerming av ressursbruken i skolen er godt faglig begrunnet. Men det løser ikke det utvalget på
-ser som hovedproblemet, som handler om de for3
-
-4
-
-Forklaringen er at det er om lag 2 200 skoler i landet som
-allerede overoppfyller dagens lærernorm (Kunnskapsdepartementet, 2025). Dette er gjerne små skoler med små
-trinn, hvor lærertettheten nødvendigvis blir relativt høy.
-Denne overoppfyllingen av normen på noen skoler, vil
-gjøre det mulig for kommunene å ha lavere lærerdekning
-på andre skoler, og fremdeles oppfylle normen på kommunenivå. En lærernorm på kommunenivå utløser dermed
-behov for færre lærerårsverk samlet sett, sammenliknet
-med en norm på skolenivå.
-Kr 830 mill. er et anslag fra Kunnskapsdepartementet. Den
-antatte besparelsen på 850 årsverk er basert på tidligere
-beregninger av merkostnadene ved innføring av lærernormen. 850 årsverk multiplisert med den anslåtte kostnaden
-for et lærerårsverk i grunnskolen, gir om lag 830 mill. kroner.
-
-[Side 301]
-
-NOU 2026: 10
-Fellesskolen
-
-ventede justeringene i kommunerammen som
-følge av demografiske endringer, i kombinasjon
-med at kommunenes inntektssystem legger gjennomsnittskostnader til grunn og ikke tar hensyn
-til marginalkosten ved fallende elevtall. Det forventede trekket på anslagsvis 11 mrd. kroner det
-neste tiåret følger av inntektssystemet. I tillegg
-anslås det et trekk på nær fire mrd. kroner til
-fylkeskommunene, basert på et fallende antall
-unge i videregående skolealder. Det vil kreve
-aktive politiske grep å endre på dette. Det er viktig at nasjonale politikere sikrer kommunene og
-skolene tilstrekkelig ressurser for å løse sitt oppdrag i framtiden. Utvalget foreslår derfor en utredning av hvordan kommunene og fylkene, som kan
-forvente uttrekk fra rammen som følge av fallende
-elevtall, kan kompenseres for forskjellen mellom
-gjennomsnittskostnader og marginalkostnader
-per elev.
-I tillegg til mer midler, mener utvalget at det er
-nødvendig med statlig styring for å hegne om skoleøkonomien i kommunene. Utvalget stiller seg
-samlet bak forslaget om at det utredes en ny ressursnorm for grunnskolen. Forutsetningen må
-være at en ny ressursnorm sikrer midler til kommunenes skolebudsjetter, minst på samme nivå
-som i dag.
-Den videre utredningen av en ny ressursnorm
-bør behandle detaljene for innretting innenfor rammene for styring av kommunene og økonomiske,
-administrative og praktiske konsekvenser for forvaltningen generelt og kommunene spesielt.
-I påvente av en ny ressursnorm foreslår et
-samlet utvalg at lærernormen beholdes av hensyn
-til det forventede presset på skoleøkonomien de
-neste årene. Utvalget skiller noe lag i spørsmålet
-om hvorvidt lærernormen bør endres til skolenivå
-eller kommunenivå.
-Drøftingen over har delvis vært utløst av kommunekommisjonens forslag om å avvikle eller
-endre lærernormen. I kapittel 11 foreslår vi å
-beholde både bibliotektilskuddet og midler til
-praktiske læringsarenaer. Nedenfor knytter utvalget kommentarer til to av de andre forslagene
-som ble fremmet av kommunekommisjonen knyttet til skoleøkonomien.
-Skjerm midlene til videreutdanning
-Utvalget går imot kommunekommisjonens forslag
-om innlemming av de øremerkede midlene som
-går til videreutdanning for ansatte i barnehage,
-grunnskole og videregående skole. Dette har
-vært en avtalefestet ordning mellom stat, kom-
-
-299
-
-Kapittel 13
-
-mune og den enkelte ansatte i skolen. Utvalget
-mener ordningen er et helt sentralt virkemiddel
-for å utvikle den kompetansen som det er behov
-for i framtidens fellesskole. Utvalget har merket
-seg Utdanningsdirektoratets høringssvar til kommunekommisjonens første rapport, og støtter
-direktoratets argumenter for å beholde ordningen
-som i dag.
-Utdanningsdirektoratet peker blant annet på at
-ordningen er et sentralt støttetiltak for at kommunene skal klare å oppfylle lovpålagte krav. I
-skolen gjelder dette opplæringslovens krav om
-faglig utvikling og forskriftenes krav om formalkompetanse for å undervise i visse fag. Ettersom
-norske kommuner har svært ulik ressurssituasjon
-og økonomi, fungerer den nasjonale ordningen
-som en garanti for et likeverdig utdanningstilbud
-over hele landet, slik at kompetanseutvikling prioriteres også i kommuner med stram økonomi.
-Uten dette øremerkede tilskuddet, vil staten
-miste et helt sentralt virkemiddel for å gjennomføre nasjonal utdanningspolitikk. Framtidige endringer i skolens innhold og struktur, som for
-eksempel endringer i de første skoleårene eller
-økt vektlegging av praktisk og estetiske fag og
-arbeidsmåter, vil utløse store behov for kompetanseutvikling blant lærere og andre yrkesgrupper i
-skolen.
-I tillegg er de raske samfunnsendringene som
-utvalget har vist til, en pådriver for nye kompetansebehov i skolen. Dette inkluderer teknologiutviklingen og kunstig intelligens. Håndtering av et
-større mangfold av elever i skolen krever økt
-kunnskap om læringsmiljø og tidlig innsats,
-andrespråkspedagogikk, og behov for kompetanseheving innen inkludering og spesialpedagogikk
-(som reguleringsvansker og nevroutviklingsforstyrrelser).
-Utvalget minner til slutt om at ordningen nylig
-ble vesentlig revidert og modernisert for å gi
-kommunene større lokal handlefrihet og for å
-inkludere flere yrkesgrupper i laget rundt elevene. Å fjerne øremerkingen nå vil dermed undergrave viktige nasjonale strategier for rekruttering
-og kompetanseutvikling.
-Utvalget mener på denne bakgrunn at ressursene til ordningen for kompetanseutvikling bør
-skjermes og økes, og ikke innlemmes i kommunerammen. Som nevnt i kapittel 11 foreslår utvalget
-blant annet en prioritering av videreutdanning i de
-praktiske og estetiske fagene i årene framover.
-Deler av midlene må også kunne brukes i forbindelse med det nasjonale programmet for digital
-læring og danning som utvalget foreslår.
-
-[Side 302]
-
-300
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-Innlem «Grunnskoletilskuddet» i kommunerammen
-I 2022 ble det innført et eget grunnskoletilskudd
-innenfor inntektssystemet, der kommunene får tilskudd etter antall kommunale grunnskoler i kommunen.
-Ordningen ble finansiert ved en omfordeling
-innenfor inntektssystemet, og var altså ikke friske
-midler til skolen. Tilskuddet skulle stimulere til
-opprettholdelse av nærskoler, og legger føringer
-for hvordan kommunen organiserer seg. Satsen i
-grunnskoletilskuddet er prisjustert og utgjør ca.
-580 000 kroner i 2026. Samlet for kommunene
-utgjør tilskuddet ca. 1,4 mrd. kroner i 2026.
-Midlene er ikke øremerket, men de gir kommunen insentiver til å opprettholde dagens skolestruktur, samtidig som endringer i form av nedleggelser og/eller sammenslåinger kan vise seg å
-være både nødvendig og ønskelig på sikt. Utvalget
-støtter kommunekommisjonens anbefaling om å
-avvikle grunnskoletilskuddet, og å fordele midlene etter de ordinære kriteriene i inntektssystemet.
-
-13.2 Skolens samarbeid med foreldrene
-13.2.1 Et godt, tillitsfullt og gjensidig
-samarbeid
-Utvalget mener at et godt og tillitsfullt samarbeid
-mellom hjem og skole er en viktig forutsetning for
-at fellesskolen skal lykkes med sitt brede mandat i
-framtiden. Hjemmet og skolen er barn og unges
-viktigste arenaer for utvikling. Et godt og systematisk samarbeid mellom disse to arenaene er
-avgjørende for elevenes læring, utvikling, trivsel
-og danning, og for skolens arbeid med å utvikle et
-inkluderende fellesskap.
-Uansett familietype og sosial bakgrunn viser
-forskningen at forventninger og oppmuntring fra
-foreldrene har stor betydning for barnas læring.
-Forskning viser at det bare er familiens sosioøkonomiske bakgrunn som har større betydning for
-læringsresultater enn støtte fra foreldre. Utvalget
-understreker at skolen bør gi foreldre god informasjon om hvor viktig deres forventninger og
-oppmuntring er for barnas læring og skolegang.
-Foreldrenes interesse for skole og læring er viktig
-i seg selv, uavhengig av deres egen skolebakgrunn. Engasjerte foreldre finnes i alle samfunnslag.
-En god og tillitsfull dialog mellom hjem og
-skole er viktig for at samarbeidet skal fungere.
-Skolen må ha som utgangspunkt at alle foreldre er
-en ressurs som har nyttig informasjon om eleven
-
-og elevens liv, og må jobbe systematisk for et godt
-samarbeid. Hvordan foreldrene best mulig kan
-medvirke skal være tema på foreldremøtene.
-I samtalene med kontaktlærer er også samarbeidet mellom elev, skolen og foreldre et viktig tema
-(Opplæringsforskrifta, 2024, § 11-1). Selv om skolens plikt til å ha slike individuelle utviklingssamtaler med foreldrene ikke lenger gjelder etter at
-eleven har fylt 18 år, understreker utvalget at
-skole-hjem-samarbeidet også er viktig for de eldste elevene.
-Barnas hjemmemiljø er viktig for språkutvikling og senere leseutvikling. Grunnlaget for å
-bygge gode leseferdigheter legges i hjemmet.
-Utvalget mener det er avgjørende at foreldrene
-også får god informasjon om hvor viktig det er for
-barnas utvikling og læring at de har et godt ordforråd, at de blir lest for og at de får tid til å lese
-selv hver dag. Utvalget mener det er viktig å spre
-kunnskap om dette blant foreldre og å sette språkutvikling og lesing på dagsorden i dialogen mellom skolen og hjemmet.
-Utdanningsdirektoratet og Læringsmiljøsenteret har flere veiledningsressurser om samarbeidet
-mellom hjem og skole. Utdanningsdirektoratet
-skriver blant annet:
-Mange foreldre er usikre på skolens forventninger til dem, og forventningsavklaring er viktig når dere møter foreldre. Det kan handle om
-graden av medvirkning foreldrene skal ha, og
-på hvilke områder og hvordan foreldre skal
-følge opp elevens faglige og sosiale utvikling.
-Dere må også være tydelige på hvilke forventninger foreldrene kan ha til dere. Her må foreldrene få komme med sine innspill.
-Utdanningsdirektoratet, 2024d
-
-Det er viktig at skolen og hjemmet vet hvilke forventninger de kan ha til hverandre. Gjensidige forventningsavklaringer, der man kommer fram til en
-felles forståelse og avklarer forventninger til hverandre og til barnet, legger til rette for et styrket
-samarbeid. Slike forventningsavklaringer kan skje
-på kommunenivå, på hver skole eller på klassenivå. Mange skoler gjør dette i dag, enten i form
-av egne foreldrebrosjyrer, på nettsider med informasjon eller på foreldremøter. I boks 13.2 er et
-eksempel på hvordan Stavanger kommune har
-formidlet slike forventninger i form av en egen
-foreldrebrosjyre.
-En av de viktigste tilbakemeldingene fra foreldrene som utvalget har snakket med, er at det er
-behov for en større tydelighet om roller og ansvar
-og for gode forventningsavklaringer mellom skole
-
-[Side 303]
-
-NOU 2026: 10
-Fellesskolen
-
-301
-
-Kapittel 13
-
-Boks 13.2 Foreldrebrosjyre: Til foreldre i stavangerskolen
-lever tilhørighet og en likeverdig rett til å
-Stavanger kommune har laget en brosjyre til fordelta.
-eldrene i stavangerskolen. Innholdet i brosjyren
-• Du skal støtte skolen i arbeidet med ditt
-er basert kommunens strategi for kvalitet i stabarns læring og utvikling.
-vangerskolen, som er utarbeidet blant annet
-• Din holdning til skolen er av stor betydning
-med bidrag fra det kommunale foreldreutvalget.
-for elevens engasjement og innsats på skolen.
-I brosjyren trekkes det fram at godt samarbeid
-• Du forventes å delta aktivt i hjem-skole-sammellom hjem og skole har stor betydning for
-arbeidet, og bidra til en åpen og respektfull
-elevenes trivsel og læring, og at foreldrene er
-dialog.
-viktige medspillere. Foreldrenes rettigheter er
-• Du må respektere de skoleansattes arbeidsforklart, og det er en egen side om foreldrenes
-tid.
-plikter og ansvar:
-• Du skal medvirke til å finne gode løsninger
-for barnet ditt.
-Hvilke plikter og ansvar har du som forelder?
-• Du oppfordres til å engasjere deg i FAU, SU
-og som klassekontakt for å styrke samarbei• Du har hovedansvaret for barnets oppdradet mellom hjem og skole og bidra til et godt
-gelse og utvikling.
-klassemiljø.
-• Du har et individuelt ansvar for å bidra til et
-tolerant og godt fellesskap der alle barn oppKilde: Stavanger kommune, 2025
-
-og hjem. Foreldre etterlyser at skolen kommuniserer klart hva den forventer av dem, i tillegg til
-hva foreldrene kan forvente av skolen. Det kom
-også fram at det er store variasjoner i hvordan
-skolene jobber med dette.
-Utvalget mener det er behov for å jobbe bedre
-med gjensidige forventningsavklaringer mellom
-hjem og skole, og at god dialog og avklaringer om
-dette er viktig tidlig i skoleløpet. Foreldrene bør få
-god informasjon om hva som er skolens rolle og
-oppgaver, og hvor viktig det er at foreldrene bidrar
-til skolens oppdrag på en god måte. Tydelige rammer vil også kunne bidra til å begrense presset
-noen lærere og skoleledere opplever i form av et
-økende antall henvendelser etter arbeidstid. Tydeligere forventningsavklaringer om skolens rolle,
-oppgaver og ansvar kan også bidra til å begrense
-urealistiske forventninger om tilpasninger og individuell oppfølging. For å lykkes med et slikt arbeid
-er det viktig med gode samarbeidsprosesser både
-mellom skolen og foreldrene, og mellom skolen og
-elevene. Det gjelder for eksempel når skolen skal
-utarbeide skoleregler og uttrykke forventninger til
-foreldrene.
-Erfaringer viser at det er særlig viktig at skolen arbeider systematisk for å etablere tillit og ha
-lav terskel for å ta kontakt med foreldre. Tydelige
-kontaktlinjer og god tidlig dialog mellom hjem og
-kontaktlærer kan forebygge misforståelser og
-styrke samarbeidet. Tilgjengelig og inkluderende
-
-kommunikasjon er en forutsetning for reelt samarbeid. Bruk av tolk og informasjon på flere språk
-bidrar til at alle foreldre får mulighet til å delta.
-Samtidig viser erfaringer at det å anerkjenne foreldrenes egne språk og ressurser, styrker både tillit
-og involvering.
-Foreldre bør ikke primært betraktes som mottakere av informasjon, men som aktive samarbeidspartnere med verdifull kompetanse. Skoler
-som involverer foreldre som ressurspersoner
-eller veiledere for andre foreldre, har lykkes med
-å bygge bro mellom hjem og skole, særlig for
-familier som er nye i det norske skolesystemet.
-Også organiseringen av skole-hjem-samarbeidet har stor betydning. Når skolene utvikler foreldremøter fra å være rene informasjonsarenaer til
-å bli dialogbaserte møteplasser, øker ofte både
-engasjementet og kvaliteten på relasjonene. Erfaringer viser at møter der også elevene deltar kan
-styrke den gjensidige forståelsen og gi et bedre
-grunnlag for felles refleksjon. Slike arenaer gir
-rom for å drøfte temaer som søvn, skjermbruk,
-språkbruk og andre forhold som påvirker elevenes hverdag og læringsmiljø.
-For å oppnå varig effekt bør slike samarbeidsformer etableres tidlig i skoleløpet og videreføres
-gjennom både barne- og ungdomsskolen. Skolen
-må legge til rette for bred deltakelse, og det innebærer også en bevissthet om at foreldre har ulike
-livssituasjoner.
-
-[Side 304]
-
-302
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-Det er skolens ansvar å legge til rette for et
-inkluderende samarbeid med hjemmet. Dette kan
-innebære å være oppsøkende overfor foreldre
-som deltar i mindre grad, tilpasse kommunikasjonen til ulike behov og etablere gode relasjoner tidlig. En god start med nye familier legger et viktig
-grunnlag for videre samarbeid.
-Lærerens kompetanse er viktig for å få til et
-godt foreldresamarbeid. Det følger av rammeplanen for lærerutdanningene at en del av
-læringsutbyttet skal være å kunne initiere og ivareta et godt samarbeid mellom skole og hjem.
-Utvalget har fått innspill om at nyutdannede
-lærere ofte ikke føler seg tilstrekkelig forberedt
-på hvordan de skal legge til rette for et godt foreldresamarbeid. Dette framgår også av sluttrapporten fra evalueringen av grunnskolelærerutdanningene (Munthe et al., 2024).
-I kapittel 12 har utvalget foreslått å innføre en
-plikt for kommunen til å gi profesjonsfaglig veiledning til alle nyutdannede lærere de to første årene
-i yrket. Foreldresamarbeid bør være et av temaene som veiledningen skal omfatte.
-
-13.2.2 Utvalgets forslag om samarbeid med
-foreldrene
 Utvalget foreslår å
-• oppfordre kommuner og fylkeskommuner til å
-gi foreldrene god informasjon om betydningen
-av deres holdninger og forventninger for barnas skolegang
-• oppfordre kommunene til å utarbeide gode
-rutiner for gjensidige forventningsavklaringer
-mellom skole og hjem
-– For eksempel samarbeide om en «foreldreplakat» om foreldrenes rettigheter, plikter
-og ansvar
-• utarbeide mer veiledningsressurser på nasjonalt nivå, der også FUG bør bidra
-• stille krav om at foreldresamarbeid skal være
-en del av den profesjonsfaglige veiledningen til
-nyutdannede lærere
 
-13.3 Skolens helsefremmende og
-forebyggende funksjon
-Skolens helsefremmende og forebyggende funksjon i samfunnet følger av opplæringsloven og folkehelseloven. Som tidligere nevnt har skolen
-ansvar for å sikre at alle elever har et trygt og godt
-skolemiljø som fremmer helse, inkludering, trivsel og læring. Dersom eleven ikke opplever at
-skolen er trygg, eller ikke opplever tilhørighet,
+- videreføre satsingene på lærernes videreutdanning og kompetanseutvikling gjennom hele yrkeslivet
 
-utvikling og mestring, kan dette komme til
-uttrykk på ulike måter som over tid kan føre til
-helseutfordringer og redusere elevens evne til å
-nå sitt fulle potensial.
-Skolens helsefremmende og forebyggende
-funksjon har vært mye omtalt. Et eksempel fra
-årtusenskiftet er den nasjonale Handlingsplan mot
-barne- og ungdomskriminalitet, som kom i form av
-en stortingsmelding. Den legger vekt på at styrking og videreutvikling av elevenes deltakelse og
-ansvar i skolemiljøet og i nærmiljøet må stå sentralt i helsefremmende og forebyggende arbeid
-(St.meld. nr. 17 (1999–2000)). Et annet eksempel
-er fra Folkehelseinstituttet, som i en ny rapport
-peker på skolens relevans for barn og unges psykiske helse (Folkehelseinstituttet, 2025).
-Forebyggende og helsefremmende arbeid er
-avgjørende for å møte framtidens demografiske
-utfordringer, noe også helsepersonellkommisjonen var opptatt av. Ved å satse på folkehelse og tidlig innsats kan man redusere det framtidige behovet for helse- og omsorgstjenester, og dermed
-avlaste en presset helsesektor (NOU 2023: 4).
-WHO har definert fem strategiske innsatsområder på individ-, organisasjons- og samfunnsnivå,
-som er sentrale for å sette en befolkning i stand til
-å øke kontroll over eget liv og bedre egen helse
-(World Health Organization, 1986):
-1. Bygge en helsefremmende politikk
-2. Skape støttende miljøer for helse og utvikling
-3. Styrke lokalsamfunns muligheter for kontroll
-over egen framtid
-4. Reorientere helsetjenesten mot helsefremmende arbeid
-5. Utvikle personlige ferdigheter, kunnskap og
-ressurser som setter folk i stand til å gjøre valg
-som fremmer helsen.
-Generelle innsatser på disse områdene har vist
-seg å ha god effekt, også for personer med forhøyet risiko for å utvikle ulike former for helseproblemer. Universelle helsefremmende tiltak
-som flytter risikofordelingen i hele befolkningen i
-riktig retning, gir størst effekt. Røykeloven er et
-godt eksempel på et universelt helsefremmende
-tiltak. Tilsvarende kan sies om 16 års aldersgrense for sosiale medier. Folkehelseinstituttet
-legger et forebyggingsperspektiv til grunn når de
-beskriver arbeid for å styrke barn og unges psykiske helse. De viser til at tiltak som retter seg
-mot alle barn og unge, i barnehage, skole og
-lokalmiljø, samlet kan ha større effekt enn tiltak
-som bare er rettet mot grupper med høyest risiko
-(Folkehelseinstituttet, 2025).
+- øke de øremerkede tilskuddene som går til videreutdanning og kollektiv kompetanseutvikling for ansatte i barnehage, grunnskole og videregående skole, og beholde dem som øremerkede tilskuddsordninger
 
-[Side 305]
+Ny ordning med utviklingslærere
 
-NOU 2026: 10
-Fellesskolen
+Utvalget foreslår å
 
-Evalueringen av prosjektet Universell forebygging av vold og overgrep – Sammen Mot viser at
-universelle skole- og barnehagebaserte tiltak når
-fram til barn og unge med høy risiko, at tiltak rettet mot alle gir størst samlet reduksjon i problemer, og at selektive tiltak alene gir liten befolkningseffekt (Bjerklund & Hvitsand, 2024). Fellesskoleutvalget understreker at skolen ikke er
-avhengig av spesifikke programmer for å jobbe
-godt med forebygging. Det kan også gjøres gjennom det daglige og ordinære arbeidet med fag.
+- utvikle en ordning med utviklingslærere med et spesialisert ansvar for prioriterte utviklingsområder
 
-13.3.1 Skolen er ikke alene
-Utvalgets mandat spør om hva som er skolens
-oppgave å ta ansvar for når det gjelder hva barn
-og unge trenger å lære for å kunne leve gode liv i
-framtidens samfunn. Utvalget understreker at
-skolen ikke har et helsefremmende og forebyggende ansvar alene. Skolen er del av et lokalsamfunn. I denne sammenhengen er det viktig å se
-skolens helsefremmende og forebyggende funksjon i et helhetlig oppvekst- og folkehelseperspektiv. Barn og unges psykiske og fysiske helse formes i et samspill mellom individuelle, relasjonelle
-og strukturelle faktorer på alle arenaer der barn
-og unge lever sine liv. I nær tilknytning til skolen
-ligger hjemmene, helsestasjonene, barnehagene
-og skolefritidsordningen. I tillegg utgjør frivillige
-organisasjoner en viktig del av barn og unges liv.
-Sammen må alle disse aktørene samarbeide om å
-skape trygge og gode lokalsamfunn. Dette er
-barna våre avhengige av, både her og nå, og for å
-skape gode liv for seg selv i framtiden.
-Hjemmet forebygger og forbereder
-Fosterets utvikling påvirkes av faktorer i miljøet allerede i magen til mor, og deretter påvirkes det
-nyfødte barnet av hjemmeforholdene. Trygg og god
-tilknytning til foreldre, søsken og andre nære relasjoner i hjemmet, er av stor betydning for et barns
-utvikling. Trygge relasjoner og emosjonell respons
-fra omsorgspersoner danner malen for framtidig
-sosial fungering og mental helse. At hjemmet lærer
-å bidra til sunn og god utvikling, for eksempel
-gjennom kommunens helsestasjonsprogram, kan
-påvirke barnets helse positivt og forebygge senere
-problemer (Helsedirektoratet, 2021, 2023a). Utvalget viser til forslagene om foreldresamarbeid.
-Barnehagen forebygger og forbereder
-Ved ett års alder begynner de aller fleste barn i
-barnehage. I 2025 gikk 94,5 prosent av barn i alde-
+Kompetansekrav for lærere
 
-303
+Utvalget foreslår å
 
-Kapittel 13
+- fjerne muligheten for å ansette andre enn lærere i lærerstillinger, men beholde unntaket for lærerstudenter
 
-ren 1 til 5 år i barnehagen. I aldersgruppen 3 til 5
-år deltar 97 prosent av barna (tall fra de siste fem
-årene) (Utdanningsdirektoratet, 2026f). Barnehagen skal ha en helsefremmende og en forebyggende funksjon og bidra til å utjevne sosiale forskjeller (Barnehageloven, 2005, § 2). Fysisk aktivitet, lek og varierte bevegelseserfaringer i tidlig
-barndom har betydning for motorisk utvikling,
-fysisk helse og senere aktivitetsvaner (Folkehelseinstituttet, 2025).
-Barnehagens daglige tilrettelegging for lek,
-bevegelse og samspill bidrar til barnas sosiale
-utvikling, evne til å regulere følelser og at de får
-oppleve å høre til i et fellesskap. Disse faktorene
-har dokumentert forebyggende effekt, særlig for
-barn i sårbare livssituasjoner (se f.eks. Drugli,
-2013; Størksen, 2018).
-Skolefritidsordningen forebygger og forbereder
-Skolefritidsordningen (SFO) har fått en stadig
-større betydning i barns liv, og innføringen av 12
-timer gratis kjernetid for 1.–3. trinn har økt deltakelsen.
-Forskning viser at skolefritidsordningen har et
-betydelig, men delvis uforløst potensial for å
-fremme både fysisk helse og sosial tilhørighet.
-SFO er en av arenaene hvor barn i småskolealder
-har størst mulighet til å leke, bevege seg og få
-utfolde seg sosialt i trygge rammer. SFO-tilbud
-med tilstrekkelig bemanning, kompetente voksne
-og gode fysiske rammer bidrar til høyere aktivitetsnivå, styrkede sosiale relasjoner og bedre opplevelse av tilhørighet, særlig for barn som strever faglig eller sosialt i skolen. SFOs betydning som overgangsarena mellom barnehage og skole løftes særlig fram. Trygge rammer, forutsigbarhet og muligheter til å utvikle vennskap i SFO, kan bidra til å
-redusere stress og utenforskap tidlig i skoleløpet.
-Evalueringen av rammeplanen for SFO understreker at barn som opplever tilhørighet og mestring i
-SFO, i større grad deltar i sosiale fellesskap også i
-skolen (Caspersen et al., 2024).
-SFO kan dermed bidra til å styrke barns tilknytning til skolefellesskapet og være med på å
-forebygge utfordringer knyttet til fravær, atferd
-eller sosial tilbaketrekning. Utdanningsdirektoratets oppdaterte kunnskapsgrunnlag understreker
-at SFO, særlig etter utvidelsen av gratis tilbud til
-1.–3. trinn, bør ses på som en integrert del av
-kommunens samlede folkehelse- og oppvekstarbeid (Utdanningsdirektoratet, 2026j). Utvalget
-viser til forslagene i kapittel 11, om kvalitetsutvikling i SFO og en mer helhetlig skoledag for de
-yngste elevene.
+- innføre krav om at de som er ansatt i lærerstilling og skal undervise i fagene kunst og håndverk, musikk, mat og helse, kroppsøving, KRLE, naturfag og samfunnsfag på 1. til 7. trinn skal ha minst 15 studiepoeng som er relevante for faget
 
-[Side 306]
+Skolen som en attraktiv arbeidsplass
 
-304
+Utvalget foreslår å
 
-Kapittel 13
+- styrke kontaktlærerrollen gjennom å øke tidsressurspotten til skolene med 1 mrd. kroner
 
-NOU 2026: 10
-Fellesskolen
-
-Frivillige organisasjoner forebygger og forbereder
-Frivillige organisasjoner og lag utgjør en viktig,
-men ofte undervurdert, del av det helsefremmende og forebyggende arbeidet for barn og
-unge. Ved siden av skolen, hjemmet, barnehagen
-og SFO, er frivilligheten en sentral hverdagsarena der barn og unge kan oppleve sosial tilhørighet, mestring, fysisk eller skapende aktivitet,
-mening og kontakt med trygge voksne utenfor
-familien. Norsk og internasjonal forskning viser
-at det å delta i organiserte fritidsaktiviteter er forbundet med bedre psykisk helse, høyere livskvalitet, sterkere sosial tilhørighet, og lavere risiko
-for ensomhet og marginalisering (Bakken, 2022;
-Folkehelseinstituttet, 2025; Fredricks & Eccles,
-2006).
-Frivillige arenaer kjennetegnes ofte av lav terskel for deltakelse, sterk vektlegging av fellesskap
-og større rom for lek, engasjement og indre motivasjon enn mer formelle institusjoner. Dette gjør
-frivilligheten særlig viktig som et supplement til
-barnehage og skole, ikke minst for barn og unge
-som strever med skolemestring eller opplever
-skolen som lite inkluderende. I et forebyggende
-perspektiv kan frivilligheten dermed bidra til å
-styrke beskyttende faktorer tidlig i livsløpet, i tråd
-med et universelt og befolkningsrettet helsefremmende arbeid.
-Samtidig er deltakelse i frivillige aktiviteter
-sosialt skjevt fordelt. Økonomiske kostnader,
-transportutfordringer, foreldres tidsressurser og
-kjennskap til tilbudene fungerer som barrierer for
-mange familier. Barn og unge fra husholdninger
-med lav inntekt eller svake sosiale nettverk deltar
-i mindre grad i organiserte fritidsaktiviteter, til
-tross for at denne gruppen ofte har størst potensial for helsegevinst (Arnesen & Hansen, 2024).
-Uten målrettede inkluderende tiltak kan frivilligheten dermed bidra til å reprodusere snarere enn
-utjevne sosial ulikhet. Utvalget viser til omtale av
-samarbeidet mellom skolen og andre aktører i
-neste delkapittel.
-Et kunnskapsbasert helsefremmende arbeid
-for barn og unge forutsetter derfor at frivilligheten ses som en integrert del av et samlet oppvekst- og folkehelsesystem i kommunene. Kommunal tilrettelegging, økonomiske støtteordninger, samarbeid med barnehage, skole og
-SFO, og systematisk arbeid med tilgjengelighet
-og inkludering, er avgjørende for å sikre at flere
-barn og unge får reell tilgang til frivillige fellesskap og de helsefremmende ressursene disse
-representerer.
-
-13.3.2 Skolen har et selvstendig ansvar
-Skolen står altså ikke alene i det helsefremmende
-og forebyggende arbeidet med barn og unge. Det
-er mange aktører og institusjoner som samlet
-bidrar til barn og unges oppvekst. Skolen står
-imidlertid i en særstilling, som en arena hvor alle
-barn og unge møtes. Dersom forebyggingsperspektivet løftes fram og prioriteres hos samtlige
-aktører, og skolen lykkes i sitt dannings- og utdanningsoppdrag, kan det beskytte mot en rekke
-negative konsekvenser.
-Skolen må motvirke marginalisering og utenforskap
-Et godt skolemiljø og fullført skolegang er blant
-de sterkeste beskyttelsesfaktorene vi har mot rusmisbruk, kriminalitet, vold og radikalisering.
-Barn og unge som begår kriminalitet, og særlig
-de som gjentatte ganger begår kriminalitet, har
-ofte sammensatte utfordringer og vokser ofte opp
-i familier med betydelige levekårsproblemer,
-omsorgssvikt og vold i hjemmet. Både politiet og
-forskning på kriminalitetsforebygging peker på at
-skolefravær, lav skolemestring og frafall kan være
-risikofaktorer for senere utenforskap og kriminalitet. Tilknytning til skolen og gjennomført utdanning er sentrale beskyttelsesfaktorer (Langøien et
-al., 2020). Forskning viser at skolemestring reduserer risikoen for normbrytende atferd og kriminalitet (Farrington et al., 2016). Undersøkelser
-viser at elever som opplever tilhørighet og trivsel i
-skolen, i mindre grad rapporterer problematferd
-og rusbruk (Bakken, 2022).
-I senere barneår og i ungdomstiden blir skolens forebyggende rolle særlig tydelig. Forskning
-viser at svak tilknytning til skole, lav trivsel, gjentatt fravær og manglende opplevelse av mestring
-er forbundet med økt risiko for rusmiddelbruk,
-normbrytende atferd og vold. Skolen fungerer
-dermed både som en læringsarena, og som en
-sentral sosial institusjon som kan motvirke marginalisering og radikalisering ved å gi barn og unge
-stabile strukturer, forutsigbarhet og demokratiske erfaringer.
-Skolens forebyggende funksjon ligger i stor
-grad i dens evne til å gi stabile og inkluderende
-fellesskap over tid. Tydelige rammer, forutsigbare
-forventninger fra voksne og stabile relasjoner
-bidrar til normutvikling og sosial regulering. Forebygging av kriminalitet og rus lykkes i mindre
-grad gjennom sene, individrettede tiltak, og i
-større grad gjennom tidlig og vedvarende styrking av tilknytning til skole og andre samfunnsinstitusjoner (se f.eks. Anderson, 2014; Machin et
+Se til utvalgets andre forslag i utredningen som også vil kunne gjøre skolen til en mer attraktiv arbeidsplass. Vi viser særlig til forslagene om prioritering av ressurser til skolen i kapittel 13.1.

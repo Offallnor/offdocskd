@@ -1,1076 +1,250 @@
-# NOU 2026: 10, del 18 av 31 (side 218–233)
+# NOU 2026: 10, del 18 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 218]
+### Hva kjennetegner lærerprofesjonen spesielt?
 
-216
+Lærer*profesjonen* som begrep er godt etablert, samtidig som det pågår prosesser for å styrke den. Tidligere ble det diskutert om lærere er en profesjon i klassisk forstand eller en *semi-profesjon*. Begrunnelsen var manglende autonomi i yrkesutøvelsen, manglende bruk av forskning, en lite omforent kunnskapsbase og manglende felles profesjonsetiske standarder (Etzioni, 1969; Mausethagen, 2015). Gjennom de siste 30 årene har lærerprofesjonen blitt et etablert begrep (Ekspertgruppa om lærerrollen, 2016; Goodson & Hargreaves, 1996; Mausethagen, 2015; Smeby & Gundersen, 2025). Like fullt har det siden årtusenskiftet vært fremmet forslag om profesjonalisering av læreryrket både fra politisk hold, fra forskning og fra lærerorganisasjonene, krav som er omtalt som profesjonalisering «ovenfra» og «innenfra» (Ekspertgruppa om lærerrollen, 2016). I dette kapittelet redegjør utvalget for viktige særtrekk ved lærerprofesjonen og de mange profesjonaliseringsprosessene den har gjennomgått de siste årene.
 
-NOU 2026: 10
+Lærerprofesjonens ansvar for realisering av skolens brede mandat
 
-Kapittel 10
+Lærerprofesjonens mandat rammes inn av skolens brede samfunnsmandat. Lærerne arbeider for å realisere forventningene til opplæringen slik de kommer til uttrykk i opplæringsloven, privatskoleloven og i læreplanverket. Lærerprofesjonen har slik en tydelig rolle i den samfunnsmessige arbeidsdelingen gjennom ansvaret de er gitt for opplæringen, og de yter slik en tjeneste som er viktige for samfunnet.
 
-Fellesskolen
+Profesjoner tjener noen, og i lærerprofesjonens tilfelle er det *elevene*. Koblingen mellom lærer og elev er så tett at lærerprofesjonen har blitt beskrevet som en *relasjonsprofesjon*. Læring skjer gjennom relasjoner, i det sosiale samspillet mellom elevene og mellom lærere og elever (Ekspertgruppa om lærerrollen, 2016; Emslander et al., 2025). I overordnet del av læreplanverket står det om hvor viktig læreren er for å ivareta elevens læring og utvikling, og at lærerrollen skal skape trygghet, veilede elevene og sørge for et motiverende læringsmiljø som bidrar til læring og utvikling. Dette krever at læreren viser omsorg for den enkelte elev (Kunnskapsdepartementet, 2017b).
 
-67 %
+Lærerprofesjonen krever spesialisert kunnskap fra lærerutdanning
 
-0%
+Lærerprofesjonen forvalter et viktig samfunnsoppdrag som skal løses ved hjelp av kunnskap og ferdigheter tilegnet gjennom lærerutdanning. Lærerutdanningen skal blant annet gi det vitenskapelige og metodiske kunnskapsgrunnlaget for den videre profesjonsutøvelsen (Hermansen & Mausethagen, 2023).
 
-20 %
-Lærere
+Hovedmodellen for lærerutdanning er, i likhet med de klassiske profesjonsutdanningene, en integrert femårig masterutdanning. Det er i dag ni ulike lærerutdanninger som kvalifiserer for å arbeide i skolen. Disse er rettet mot ulike trinn og spesielle fagområder.[^23] Innføring av lærerutdanning på masternivå er en sentral del av profesjonaliseringen av lærerprofesjonen. Grunnskolelærerutdanningene ble løftet til masternivå fra opptaksåret 2017, og femårig lærerutdanning i praktiske og estetiske fag fulgte etter fra opptaksåret 2021. Masterkrav for opptak til PPU trådte i kraft i 2019. Selv om de fleste lærerutdanningene er integrerte masterutdanninger, er det visse unntak for opptak til PPU og til yrkesfaglærerutdanningen.
 
-4%
+Lærerprofesjonens kunnskapsbase er sammensatt og kompleks
 
-40 %
-Ledere
+Lærerprofesjonens oppdrag krever en sammensatt kunnskapsbase. Lærerne trenger både teoretisk kunnskap i undervisningsfag (for eksempel matematikk eller norsk), fagdidaktikk (undervisningslære), pedagogikk og erfaringsbasert kunnskap. Profesjonskunnskapen består også av verdier og etikk og praktisk kunnskap om for eksempel klasseledelse. En sentral del av lærerens praktiske kunnskap er den tause kunnskapen om hvordan man kan bruke seg selv i relasjon til elevene i ulike læringssituasjoner. Denne kunnskapen læres gjennom praksis og refleksjon (Ekspertgruppa om lærerrollen, 2016; Ekspertgruppen om styring av lærerutdanningene, 2024; Grimen, 2008; Hermansen & Mausethagen, 2023). I tillegg til verdier og etikk, består lærernes kunnskapsbase av både forskningsbasert og erfaringsbasert kunnskap. I tilspissede debatter settes disse to kunnskapsformene opp mot hverandre. Det er likevel godt etablert at disse kunnskapsformene bør ses som komplementære, og ikke som dikotomier.
 
-60 %
+Lærernes profesjonskunnskap kjennetegnes ved å *integrere et heterogent kunnskapsgrunnlag* til et praktisk siktemål. Når lærerne planlegger og gjennomfører undervisning, må de vurdere hvilke deler av kunnskapsgrunnlaget de skal bruke og hvordan de skal få delene til å spille sammen (Hermansen & Mausethagen, 2023). Lærerens kunnskapsbase lener seg på flere vitenskapelige disipliner (f.eks. sosiologi, biologi, psykologi, pedagogikk) og flere typer kunnskap.
 
-Andre ansatte i elevrettet arbeid
+Flere av de vitenskapelige disiplinene som lærernes profesjonskunnskap bygger på, er dessuten selv teoretisk fragmenterte. Kunnskapselementene utgjør ikke en samlet teoretisk helhet og kunnskapsbasen skiller seg derfor fra disiplinfag og profesjoner med et mer homogent kunnskapsgrunnlag. Syntetisering av kunnskapsbasen, altså å lage sammenheng mellom kunnskapselementene, kan følgelig være mer krevende enn i disipliner og profesjoner med et mer homogent kunnskapsgrunnlag (Grimen, 2008). Lærere må *integrere* de ulike kunnskapsformene i den praktiske profesjonsutøvelsen fordi de ikke nødvendigvis har en indre sammenheng. Man sier derfor at sammenhengene i profesjonskunnskap skjer gjennom *praktiske synteser* «der forskjellige brokker av kunnskap er satt sammen på en bestemt måte, fordi de utgjør meningsfulle deler i yrkesutøvelsen» (Grimen, 2008, s. 74). Det er de praktiske oppgavene som skal løses som bestemmer hvilke kunnskapskilder som bør trekkes inn og hvordan (Grimen, 2008). Ulike «brokker av kunnskap» trenger ikke bare å være disiplinkunnskap, men kan også være ulike måter å vite noe på (f.eks. erfaringsbasert, taus, intellektuelt, moralsk) (Ekspertgruppen om styring av lærerutdanningene, 2024; Gilje, 2017).
 
-24 %
+Å integrere ulike kunnskapsformer er en sentral, men utfordrende del av all profesjonsutøvelse, også i lærerprofesjonen (Hermansen & Mausethagen, 2023). Lærerprofesjonens sammensatte kunnskapsbase fordrer at lærere gjennom hele sin karriere deltar systematisk i profesjonsfelleskap for å reflektere, drøfte og utvikle profesjonskunnskapen.
 
-80 %
+Lærerprofesjonens praksis er preget av iboende usikkerhet
 
-6%
+Usikkerhet er en del av yrkesutøvelsen til lærerprofesjonen. I løpet av skolehverdagen må lærere vurdere ulike spørsmål som sjelden har sikre svar. Lærere jobber med såkalt *strategisk oppdragsusikkerhet* fordi målene og forventningene til skolen er mange og de politiske prioriteringene ofte er omstridte, uklare og skiftende. Det sies at «samfunnets problemer blir til skolens læreplan» (Gundem, 1990, s. 38). Lærere må også jobbe med stor grad av såkalt *teknisk oppdragsusikkerhet*, fordi det er en usikker sammenheng mellom hva en lærer gjør og hva elevene lærer (Whitley, 2000). Det skyldes at mange andre faktorer enn undervisningen påvirker elevenes læring, som vi har beskrevet i kapittel 8. Skolen er kompleks, og læring er en krevende prosess som ikke enkelt kan styres eller programmeres.
 
-100 %
+Lærerprofesjonen forholder seg til dynamisk menneskelig atferd og håndterer større usikkerhet enn yrker som forholder seg til statiske og forutsigbare fenomener. I læreryrket kan like beslutninger i tilsynelatende like tilfeller gi både likt og ulikt resultat. Det innebærer at det er større grad av uenighet om hva som er god praksis, at situasjonene i større grad er unike og at hva som er utfallet av ulike beslutninger er mer usikkert (Smeby, 2013). Det er derfor vanskeligere å gjøre «riktige» valg og predikere hva «som virker». Samtidig er ikke slik teknisk oppdragsusikkerhet en unnskyldning for fritt valg av tilnærming etter eget forgodtbefinnende, jf. det vi har anført over om profesjonskunnskapen og anvendelsen av denne.
 
-Øvrige ansatte
+Selv om profesjonsutøvelsen til lærere er preget av uforutsigbarhet, er det flere mekanismer som skal bidra til at profesjonen handler på en velinformert og kompetent måte. Sterke profesjonsfelleskap, der det er rom for å diskutere erfaringer, er kanskje det aller viktigste for å håndtere usikkerheten yrkesutøvelsen innebærer. Å være en profesjonsutøver innebærer å arbeide kollektivt. Dette blir også slått fast i lærerprofesjonens etiske plattform. Lærerprofesjonen har som et kollegium et felles ansvar for å utvikle et godt opplæringstilbud og for å fremme og videreutvikle profesjonen. Dette innebærer blant annet at kollegiet «samarbeider om å videreutvikle kunnskaper, ferdigheter og etisk dømmekraft, både internt og i samspill med utdannings- og forskningsmiljøer» (Utdanningsforbundet, u.å.). Lærerutdanning på masternivå, satsning på utdanningsforskning og satsning på etter- og videreutdanning av lærere, kan også bidra til at lærere handler kompetent og velinformert i møte med disse usikkerhetene. Iboende usikkerhet og uforutsigbarhet, er *ikke* tegn på lavere profesjonsfaglig kompetanse. Tvert imot kan økt ekspertise gjøre det vanskeligere å forklare beslutninger, fordi man tar hensyn til mange faktorer samtidig (Dreyfus et al., 1986; Gigerenzer, 2023).
 
-Figur 10.6 Ansatte i grunnskolen etter yrke 2024
-Kilde: Statistisk sentralbyrå, 2024a
+Lærerprofesjonens etiske standarder
 
-for skolen kan for eksempel være pedagogisk-psykologisk tjeneste (PP-tjenesten), barnevernet,
-barne- og ungdomspsykiatrien, politiet eller kommunale kultur- og fritidsorganisasjoner.
-Gruppen andre ansatte er med andre ord en
-mangfoldig gruppe. Vi snakker både om yrkesgrupper med høyere utdanning, som psykologer, barnevernspedagoger, spesialpedagoger, sykepleiere og
-vernepleiere, om ansatte med fagbrev som barneog ungdomsarbeidere og ansatte uten en spesiell
-utdanning (se tabell 10.3). Det er også en fare for å
-snakke forbi hverandre når man snakker om laget
-rundt elevene, ved at noen tenker på de ansatte i
-skolen og noen tenker på aktører utenfor skolen.
-Kommunene og skolene må ta ansvar for å
-bidra til et godt samarbeid, både innad i skolen og
-tverrsektorielt i kommunen. Skolen, SFO og PPtjenesten har lovbestemt plikt til å samarbeide
-med andre velferdstjenester om oppfølgingen av
-barn og unge med behov for et sammensatt tjenestetilbud (Opplæringslova, 2024, § 24-1).
-I dette kapittelet skal vi først se nærmere på
-andre ansatte enn lærere som har elevrettet
-arbeid i skolen. Deretter vil vi se på det tverrsektorielle samarbeidet med de profesjonelle aktørene omkring skolen.
+Et kjennetegn ved læreroppdraget er at lærere ofte står i situasjoner som krever umiddelbar handling, men der det ikke er tid til å vurdere hva som er den riktige avveiningen mellom ulike hensyn. For å kunne navigere i slike situasjoner er profesjonsetikken et viktig kompass. Gitt det store ansvaret som profesjonene forvalter, er det vanlig at samfunnet har forventninger om at de profesjonelle følger yrkesetiske retningslinjer.
 
-10.3.1 Andre ansatte i elevrettet arbeid i
-skolen
-Kommunen og fylkeskommunen skal sørge for
-at det er riktig og nødvendig kompetanse i sko-
+Utdanningsforbundet og Skolenes landsforbund vedtok lærerprofesjonens etiske plattform i 2012, og den har som mål å være et etisk grunnlag for hele profesjonen (Mausethagen, 2015). I 2016 ble Lærerprofesjonens etiske råd opprettet for å støtte opp om etisk forsvarlig praksis i utdanningssektoren til beste for barn, unge og voksne. Rådet skal fremme verdiene i Lærerprofesjonens etiske plattform og har en fri og uavhengig stilling. Rådet gir uttalelser, men har ikke myndighet til å komme med sanksjoner (Lærerprofesjonens etiske råd, 2025). Det etiske rådet kan være et uttrykk for lærerprofesjonens ønske om å holde orden i eget hus, og kan ses som et uttrykk for profesjonalisering innenfra. Lærernes kunnskap og yrkesetikk vil være viktig for lærerprofesjonens tillit og legitimitet i samfunnet.
 
-len (Opplæringslova, 2024, § 17-1). Andre yrkesgrupper enn lærerne kan være viktige for å gi
-elevene en god opplæring og et trygt og godt
-skolemiljø. I et innspill til utvalget skriver Skolenes Landsforbund:
-For å sikre en helhetlig og inkluderende opplæring, er det viktig å ha et sterkt lag rundt eleven. Dette laget består av flere yrkesgrupper
-med ulik kompetanse, som lærere, spesialpedagoger, skolepsykologer, helsesykepleiere og
-sosialarbeidere. Samarbeidet mellom disse
-profesjonene bidrar til å møte elevenes individuelle behov og skape et trygt og støttende
-læringsmiljø.6
+Kontroll og kompetansekrav i lærerprofesjonen
 
-En oversikt over ansatte i skolen viser at 67 prosent
-av de ansatte er lærere, nærmere 5 prosent er
-ledere, 24 prosent er andre ansatte i elevrettet
-arbeid og seks prosent er øvrige ansatte (Statistisk
-sentralbyrå, 2024a). Det er med andre ord mange
-andre enn lærerne som jobber med elever i skolen.
-Statistisk sentralbyrå har gjort en kartlegging
-av hvilken kompetanse ulike ansattgrupper i skolen har. Kartleggingen viste at i gruppen andre
-ansatte i elevrettet arbeid, manglet halvparten
-pedagogisk utdanning eller annen relevant utdanning. En tredjedel var barne- og ungdomsarbeidere og resten hadde en spesifikk høyere utdan6
+Lærerprofesjonens *jurisdiksjon* er svakere enn i andre profesjoner. Med jurisdiksjon siktes det her til at staten har gitt en yrkesgruppe *eksklusiv* rett til å ivareta bestemte oppgaver på vegne av felleskapet og at standardene for hvordan oppgavene skal utføres er definert av profesjonen selv, og ikke av en ekstern autoritet (Molander & Terum, 2008). En slik jurisdiksjon er ikke begrunnet i et ønske om å beskytte profesjonen, men av at samfunnet tar på alvor hvilke negative konsekvenser det kan ha dersom man slipper ukvalifiserte til. Selv om lærerprofesjonen har kompetansekrav, er ikke disse like absolutte i læreryrket som i andre profesjoner.
 
-Skolenes Landsforbund, innspill til møte nr. 2 i referansegruppen
+Opplæringsloven fastsetter kompetansekrav for lærere. Hovedregelen er at man skal ha lærerutdanning for å bli ansatt i lærerstilling. Statistikken vist i kapittel 9, viser likevel at et stort antall personer jobber i lærerstillinger i norsk skole uten å ha lærerutdanning. Det skyldes dagens muligheter til å gjøre midlertidige unntak fra kravet om lærerutdanning, se boks 10.1.
 
-[Side 219]
+I tillegg til krav om lærerutdanning for tilsetting, er det krav til fordyping for å undervise i fag. Kompetansekravene for lærere er utdypet i opplæringsforskriften kapittel 12. Den spesifiserer krav til relevant kompetanse i undervisningsfag på ulike trinn, se tabell 12.1 i kapittel 12. De samme kompetansekravene gjelder som hovedregel for lærere ved private skoler (Privatskolelova, 2003, § 4-2). Kommunen kan fravike kravene til kompetanse i undervisningsfag dersom det er nødvendig fordi skolen ikke har nok ansatte som oppfyller kravene.
 
-217
+Kompetansekrav for lærere
 
-NOU 2026: 10
-Fellesskolen
+*§ 17-3* Krav for å bli tilsett i lærarstilling
 
-Kapittel 10
+Kommunen og fylkeskommunen skal sørgje for at dei som blir tilsett i lærarstilling, har relevant lærarutdanning seinast når dei tar til i stillinga.
 
-Tabell 10.3 Andre ansatte i elevrettet arbeid i grunnskolen. Fordeling av avtalte årsverk etter yrkesgruppe og
-kompetansegruppe
-Kompetansegruppe
+Dersom ingen søkjarar oppfyller krava for tilsetjing, kan andre tilsetjast mellombels på vilkår om at ei påbyrja lærarutdanning blir fullført. Kor lenge ei slik tilsetjing skal vare, avtaler arbeidsgivaren og arbeidstakaren ut frå kor stor stilling og kor lang utdanning det er tale om, og kor tilgjengeleg utdanningstilbodet er.
 
-Prosent
+Dersom ingen søkjarar oppfyller krava for tilsetjing, kan andre tilsetjast mellombels også utan vilkår om påbyrja lærarutdanning, men ei slik tilsetjing skal ikkje vare lenger enn til 31. juli.
 
-Lærerutdanning
+Departementet kan gi forskrift om kva utdanning og kompetanse ein må ha for å kunne bli tilsett i lærarstilling.
 
-4,2 %
+*§ 17-4* Krav om relevant kompetanse i undervisningsfag
 
-Utdanning i spesialpedagogikk
+Kommunen og fylkeskommunen skal sørgje for at dei som er tilsett i lærarstilling, har relevant kompetanse i dei faga dei skal undervise i.
 
-0,5 %
+Krava om relevant kompetanse i undervisningsfag gjeld ikkje dei som kunne tilsetjast i lærarstilling før 1. januar 2014, allmennlærarar og mellombels tilsette.
 
-Annen pedagogisk utdanning
+Kommunen og fylkeskommunen kan fråvike krava til relevant kompetanse i undervisningsfag dersom det er nødvendig fordi skolen ikkje har nok tilsette i lærarstilling som oppfyller krava. Ei slik avgjerd skal vurderast på nytt kvart skoleår.
 
-5,8 %
+Departementet kan gi forskrift om krav til relevant kompetanse i dei ulike faga.
 
-Barnevernspedagogutdanning
+Kilde: Opplæringslova, 2024
 
-4,6 %
+Rammeslutt
 
-Fagbrev barne- og ungdomsarbeider
+Lærerorganisasjonene har gitt innspill til utvalget om at det er nødvendig med mer absolutte kompetansekrav for tilsetting i lærerstillinger. Norsk lektorlag skriver for eksempel:
 
-32,7 %
+Muligheten til å fravike kompetansekrav for tilsetting ved midlertidig tilsetting undergraver tilliten til skolen, og hindrer profesjonen i å ta et helhetlig ansvar for undervisningen. Elever risikerer å få en «lærer» på høsten som var avgangselev fra videregående opplæring samme vår. Dette skjer i dag på skoler over hele landet, og en slik praksis mener vi fellesskoleutvalget bør sette en stopper for.[^24]
 
-Sosionomutdanning
+Den svake jurisdiksjonen gjør at man snakker om «lærere uten lærerutdanning» og «lærerutdannede lærere». Slike begreper brukes ikke i andre profesjonsyrker. En del profesjonsyrker er underlagt lovregulert autorisasjon, lisens og spesialistgodkjenninger. Dette gjelder for eksempel yrkene under helsepersonelloven. Advokatbevilgninger under advokatloven, er et annet eksempel. Slike lovreguleringer gir adgang til å bruke bestemte yrkestitler og rett til å utføre gitte oppgaver, og dette er godkjenninger som kan mistes. I andre profesjoner er det altså mulighet til å håndheve profesjonens jurisdiksjon ved at man for eksempel kan miste en legelisens eller en advokatbevilling. I andre profesjoner er det også utbredt med en introduksjonsperiode i yrket, der de nyutdannede gradvis får større ansvar. Ferdigutdannede leger blir autorisert som lege, men vil de første årene i yrket være «Lege i spesialisering», såkalt LIS-ordning. Gjennom de første årene vil legen få strukturert opplæring for å oppnå godkjenning som spesialist i et medisinsk fagfelt, og få erfaring både fra sykehustjeneste og arbeid i kommunehelsetjenesten. Psykologer har også egne spesialiseringsutdanninger etter at grunnutdanningen er fullført. Det gjelder også egne krav før jurister kan praktisere som advokat.
 
-2,3 %
+Det diskuteres hvordan lærerprofesjonen sørger for å holde orden i eget hus ved blant annet å håndheve faglige standarder og etiske normer, gjennom intern og ekstern kontroll av lærerarbeidet. Utbredelsen av eksterne kontrolltiltak, som for eksempel nasjonale prøver, representerer historisk sett en dreining ved at lærerprofesjonen i større grad ble kontrollert enn tidligere (Caspersen et al., 2026; Ekspertgruppa om lærerrollen, 2016).
 
-Vernepleierutdanning
+Lærernes profesjonsutvikling i arbeidslivet
 
-4,4 %
+Selv om det er et mål at de nyutdannede lærerne skal ha fått nødvendig kunnskap, ferdigheter og verdier gjennom lærerutdanningene, vil de ha behov for å lære mye i arbeidslivet. I likhet med de fleste yrker og profesjoner, blir man ikke ferdig utlært gjennom lærerutdanningene alene. Det er behov for videre profesjonsutvikling i yrkeslivet*,* blant annet gjennom etter- og videreutdanning og veiledning av nyutdannede lærere.
 
-Utdanning innen økonomiske og administrative fag
+Kompetanseutvikling gjennom etter- og videreutdanning
 
-1,5 %
+Det brukes betraktelig med statlige midler for å støtte opp under kommunens ansvar for at de ansatte har riktig og nødvendig kompetanse. Regjeringen la i 2025 fram strategien «System for kompetanse- og karriereutvikling for ansatte i barnehage og skole» som skal innføres gradvis fra 2025–2026. Systemet inkluderer blant annet videreutdanning, kollektiv kompetanseutvikling, spesialiserte roller og funksjoner og veiledning av nyutdannede lærere. Systemet omfatter hele utdanningsløpet fra barnehage til videregående opplæring og opplæring for voksne.
 
-Inngår ikke i de andre kompetansegruppene
+Den statlige kompetansesatsingen er altså nå rammet inn av denne strategien. En sentral del av systemet er statlig finansiert kompetanseutvikling som kombinerer nasjonale prioriteringer med lokale behov. Staten legger rammene gjennom mål, prinsipper og finansieringsordninger, mens kommuner, fylkeskommuner og private eiere har ansvar for å planlegge og gjennomføre kompetanseutvikling i samarbeid med universiteter og høyskoler. Strategien legger vekt på at kompetanseutvikling i større grad skal være varig, praksisnær og kollektivt forankret i profesjonsfellesskapene. Dette innebærer blant annet å legge til rette for langsiktige kompetanseutviklingsplaner som tar utgangspunkt i skolenes og kommunenes behov. Kompetanseutviklingen skal bygge på likeverdige partnerskap mellom skolesektoren og lærerutdanningsinstitusjonene. Målet er at praksisen i skolen blir mer forskningsbasert, og at erfaringer og oppdatert praksiskunnskap tilbakeføres og bidrar til å styrke lærerutdanningene (Kunnskapsdepartementet, 2025f). Den betydelige satsingen på etter- og videreutdanning av lærere etter årtusenskiftet er en viktig del av profesjonaliseringen av lærerprofesjonen.
 
-47,6 %
+Veiledning av nyutdannede lærere
 
-Totalt
+I engelskspråklig litteratur brukes begrepet «induction» om nyutdannedes profesjonsstart, de fem første årene i yrket. Overgangen fra utdanning til yrke er en viktig fase i utviklingen av en egen profesjonsidentitet for lærere. En introduksjonsfase kan omfatte elementer som samarbeid med kolleger, nettverksmøter, kurs og seminarer, observasjon av undervisning, lederstøtte og tidskompenasjon. Den tydeligste komponenten i de fleste introduksjonsprogrammer er veiledningen den nyutdannede får fra en kvalifisert veileder (Frederiksen, 2020).
 
-100 %
+Det er faglig konsensus om at det har stor betydning å gi nyutdannede lærere en god start på yrkeslivet med profesjonsfaglig veiledning. Introduksjonsprogrammer med veiledning av nyutdannede kan bidra til profesjonaliseringen av undervisningen og lærernes videre faglige utvikling (Frederiksen, 2020). Veiledning kan ha en positiv innvirkning på klasseledelse, undervisningskvalitet, elevresultater og på å beholde lærere i yrket (Ingersoll & Strong, 2011). Derfor er veiledning av nyutdannede lærere et sentralt element i flere lands systemer for læreres profesjonelle utvikling (Darling-Hammond, 2017).
 
-Kilde: Steffensen & Dystland, 2024
+Det er også politisk konsensus om at det er viktig at alle nyutdannede lærere får profesjonsfaglig veiledning av god kvalitet de første årene i yrket. Veiledning av nyutdannede lærere har stått sentralt på den skolepolitiske agendaen i Norge i mer enn to tiår. I et nordisk perspektiv har Norge blitt betraktet som et foregangsland, og det har vært nasjonale programmer for veiledning av nyutdannede lærere tilbake til 1997. Målet om at nyutdannede lærere skal få veiledning har inngått i ulike avtaler og satsninger (Bjerkholt & Olsen, 2025). Våren 2017 fattet Stortinget følgende vedtak:
 
-ning (Steffensen & Dystland, 2024). De andre
-ansatte som jobber elevrettet har en sammensatt
-kompetanseprofil, fra spesialisert høyere utdanning til fagbrev og til ufaglærte.
-Ansatte i elevrettet arbeid utgjør en stor andel
-av de ansatte i skolen, og de har en viktig rolle i
-skolen. Det mangler likevel detaljert statistikk over
-hva slags stillinger og funksjoner de har.
-Før innføringen av lærernormen var det en
-bekymring for at normen ville gjøre det vanskeli-
+Stortinget ber regjeringen i samarbeid med partene utforme nasjonale rammer for en veiledningsordning for nyutdannede lærere som ivaretar at alle nytilsatte omfattes av ordningen, og som gir rom for lokal tilpasning.
 
-gere økonomisk å ansette andre i elevrettet
-arbeid. Evalueringen viser at lærernomen har
-økt antall lærere, uten at det har påvirket bruken
-av assistenter, individuell tilrettelegging eller
-særskilt språkopplæring. Tvert imot har assistentbruken i skolene økt gjennom evalueringsperioden (Pedersen, 2022). Per hundre lærerårsverk er det om lag 20 assistentårsverk, og andelen er økende.
+Innst. 182 S (2016–2017)
 
-25
+De sentrale partene i skolesektoren[^25] støtter også målet om veiledning av nyutdannede og har blitt enige om nasjonale prinsipper og forpliktelser (Kunnskapsdepartementet, 2025d). De nasjonale rammene slår fast målet: «Alle nyutdannede lærere får en god overgang fra utdanning til yrke gjennom profesjonsfaglig veiledning av god kvalitet» (Kunnskapsdepartementet, 2025f). Det var tidligere en nasjonal tilskuddordning for veiledning av nyutdannede lærere i barnehage og skole. De to siste årene ble det bevilget mer penger til ordningen. Tilskuddsmidlene på 225 mill. kroner ble innlemmet i kommunerammen i 2026, og dermed ligger det også en forventning til kommunene om å sørge for veiledning.
 
-20
+De nyeste undersøkelsene viser at stadig flere nyutdannede lærere får veiledning, men at det også er mange lærere som ikke får det. Evalueringen fra 2021 viste at 65 prosent av de nyutdannede lærerne fikk veiledning i 2019 (Halmrast et al., 2021). I TALIS-undersøkelsen fra 2024 oppga 78 prosent av lærerne med under to års erfaring at de hadde deltatt i formelle innføringsprogram, men kun 41 prosent hadde fått tildelt en veileder (White et al., 2025). Det er med andre ord ingen systematikk som sikrer at alle nyutdannede får veiledning. Det tyder på at tiltakene som har vært prøvd ikke har hatt en tilstrekkelig effekt.
 
-15
+Utvalget for etter- og videreutdanning i barnehage og skole vurderte at «gode intensjoner ikke har vært nok for å realisere målet om at alle nyutdannede lærere skal få en god overgang fra studier til arbeid» (NOU 2022: 13). De foreslo derfor å innføre en rett til et introduksjonsår for alle nyutdannede lærere i barnehage og skole. Retten skulle innebære at 10 prosent av arbeidstiden det første året kunne brukes til introduksjonsaktiviteter (NOU 2022: 13). Forslaget om å innføre en slik rettighet ble ikke fulgt opp, selv om veiledning inngår i det nye systemet for kompetanse og karriereutvikling (Kunnskapsdepartementet, 2025f). For å bidra til et likeverdig veiledningstilbud av god kvalitet, ble *Prinsipper og forpliktelser for profesjonsfaglig veiledning for nyutdannede lærere i barnehage og skole* videreutviklet og oppdatert sammen med partene og aktørene i sektoren. Tilskuddordningen for veiledning ble også utvidet til å gjelde for lærere i barnehage og videregående skole, i tillegg til grunnskolen.
 
-10
+Selv om det har skjedd en positiv utvikling knyttet til lærernes profesjonelle utvikling i arbeidslivet, har lærerprofesjonen svakere formelle rammer rundt profesjonskvalifiseringen i arbeidslivet enn en del andre profesjoner. Mange profesjoner har en formalisering av de ulike stegene i yrkeslivet i form av introduksjonsår (turnus) og gradvis større spesialisering og ansvar. En begrunnelse for å ha en ordning med gradvis tilordning av fullt ansvar og full autonomi vil både handle om hensynet til den nyutdannede læreren og til hensynet til eleven. Det er urimelig å holde nyutdannede ansvarlige for forhold som forutsetter kompetanse som i hovedsak opparbeides gjennom praktisk erfaring.
 
-5
+Lærerprofesjonen må bruke skjønn og trenger autonomi
 
-Figur 10.7 Antall assistentårsverk per hundre lærerårsverk
-Kilde: Utdanningsdirektoratet, 2026p
+Det komplekse læreroppdraget forutsetter høy grad av autonomi og bruk av faglig og pedagogisk skjønn og dømmekraft innenfor rammene av regelverket og læreplanene. Profesjonell autonomi kjennetegnes ved at profesjonsutøverne i stor grad selv har ansvar for å bestemme hvordan de løser oppgavene sine, uten direkte innblanding fra myndigheter, oppdragsgiver eller «klienter». Profesjonell autonomi er basert på at profesjonsutøverne handler i henhold til anerkjent kunnskap, verdier og retningslinjer (Smeby & Gundersen, 2025). Læreroppdraget er derfor lite forenlig med standardiserte oppgaver og faste oppskrifter. I konkrete opplæringssituasjoner må lærere utøve profesjonelt skjønn med utgangspunkt i elevers ulike forutsetninger og konkrete situasjoner. De må også håndtere spenninger mellom ulike formål og verdier, for eksempel hensyn til den enkelte elev og hensynet til fellesskapet. Drøftinger og vurderinger knyttet til praksis i profesjonsfellesskapet er derfor avgjørende (Kunnskapsdepartementet, 2017b).
 
-2025–26
+Lærerprofesjonen har relativt stor autonomi innenfor rammene som læreplanverket og øvrig regelverk setter. Opplæringslovutvalget vurderte at det er få regler i opplæringsloven som direkte begrenser lærernes profesjonelle skjønn (NOU 2019: 23). Lærere oppgir at de generelt har stor faglig autonomi i undervisningen (White et al., 2025). Det oppstår likevel jevnlig diskusjoner når lærerne opplever at denne autonomien utfordres, for eksempel når sentrale og lokale myndigheter legger føringer for tidsbruk, valg av læringsressurser (for eksempel digitale eller fysiske lærebøker) eller ved pålegg om bruk av ulike metoder eller vurderingsformer som kan virke styrende. Også foreldre og andre aktører kan forsøke å legge føringer på innhold og organisering på en måte som kan utfordre autonomien til lærerprofesjonen. Historisk sett har lærerprofesjonen hatt stor frihet, men er også vant til å forholde seg til skiftende politiske signaler gjennom hyppige reformer.
 
-2024–25
+Lærerprofesjonen har over tid har fått større autonomi og ansvar gjennom læreplaner som gir stor frihet til valg av innhold og metode. Læreren har blitt løftet fram som en viktig løsning på mange av utfordringene både i skolen og i samfunnet. Siden årtusenskiftet har det vært en trend med tydeligere oppmerksomhet på resultater enn innsatsfaktorer, og med et stadig mer desentralisert ansvar i utdanningssektoren. I dette kan det ligge en spenning. På den ene siden har læreren fått et stort ansvar og blitt satset betydelig på. På den andre siden har dette ansvaret også gitt læreren et større opplevd ansvar for skolens resultater. Med et økt læringstrykk og forventninger om hva hver elev skal kunne, blir det også tydeligere når disse resultatene uteblir.
 
-2023–24
+Når lærerne får autonomi og ansvar for å nå ambisiøse mål, uten at det følges opp med nødvendige rammevilkår (*strukturkvalitet*), kan det skape problematiske forventninger til lærerprofesjonen. Lærerprofesjonen trenger autonomi i yrkesutøvelsen. Samtidig kan ikke ansvarlige politikere eller skolemyndigheter abdisere fra et ansvar for *resultatkvalitet* i skolen. Dette skaper et todelt problem:
 
-2022–23
+- For det første er det er en usikker sammenheng mellom hva en lærer gjør og hva elevene lærer (*teknisk oppdragsusikkerhet*). Det betyr at selv god kvalitet på lærernes arbeid på skolen (*god prosesskvalitet*), ikke nødvendigvis gjenspeiles i skoleresultatene (*resultatkvaliteten)*.
 
-2021–22
+- For det andre er det en risiko for at skolen og lærerne holdes ansvarlig for resultatkvaliteten i en situasjon der det er rammevilkårene (*strukturkvaliteten)*, som er et politisk ansvar, er for dårlige.
 
-2020–21
+Det er med andre ord ikke enkelt å sikre gode skoleresultater. Politikerne må sørge for at lærerne har best mulig rammevilkår for å lykkes med sitt oppdrag. Fordi skolen er kompleks, og det er en usikker sammenheng mellom lærernes arbeid og hva elevene lærer, vil lærerne kunne gjøre en god jobb, selv om det ikke gjenspeiles i elevenes resultater. Elevgrunnlaget er et av mange viktige forhold som virker inn. Derfor er det urimelig å holde lærerne og skolelederne alene ansvarlige for sviktende resultater, særlig hvis rammevilkårene er for dårlige.
 
-2019–20
+### Hvorfor er lærerutdanningene så viktige?
 
-2018–19
+Lærerutdanningene bidrar til å påvirke hvilket samfunn vi får i framtiden, og preger utdanningssystemet i flere generasjoner. De lærerne som jobber i skolen i dag har utdanning fra ulike lærerutdanninger og fra ulike tidsperioder. Mange av lærerstudentene vi utdanner i dag vil jobbe i skolen i 2050. Det er avgjørende å satse på lærerutdanningene for å ruste dem til å løse sitt komplekse oppdrag.
 
-2017–18
+Lærerutdanningene har betydning for skolen på flere måter. Lærerutdanningene
 
-2016–17
+- utdanner framtidens lærere
 
-2015–16
+- bidrar til kompetanseutvikling av dagens lærere gjennom videreutdanning
 
-2014–15
+- er viktige for å utvikle sterke profesjonsfellesskap
 
-0
+- bidrar til kvalitetsutvikling gjennom utdanningsforskning og samarbeid med skoler
 
-[Side 220]
+- utvikler lærerprofesjonens kunnskapsgrunnlag
 
-218
+Lærerstudenter som er i skolen i forbindelse med praksis eller masteroppgave, har med seg ny kunnskap som kan utfordre skolens etablerte forståelse og arbeidsmåter. Samlet spiller lærerutdanningene en stor rolle for utviklingen av lærerprofesjonen som helhet. Dette stiller høye krav til lærerutdanningene. En god lærerutdanning er avgjørende for å utdanne lærere som klarer å gi en god opplæring til alle elever (Darling-Hammond, 2006).
 
-Kapittel 10
-
-NOU 2026: 10
-Fellesskolen
-
-Ekspertgruppen for skolebidrag fant at skoler
-som lykkes med å løfte alle elever uavhengig av
-bakgrunn og forutsetninger preges av fellesskapstenkning og samarbeid. Lærerne er organisert i
-team og tar et felles ansvar for alle elever. Skoleeier og skoleleder samarbeider om å styrke laget
-rundt lærer og elev slik at riktige tiltak kan iverksettes. Disse skolene har gjerne ansatt andre
-yrkesgrupper enn lærere for å lette samarbeidet,
-jobbe forebyggende og fange opp problemer raskt
-(Ekspertgruppa for skolebidrag, 2021).
-God tverrfaglig hjelp og støtte til barn og unge
-vil bedre deres forutsetninger for livsmestring,
-læring og utvikling, og for å gjennomføre utdanningsløpet. Skoler som greier å koordinere samarbeidet med andre instanser omkring skolen, og
-andre yrkesgrupper i skolen, på en god måte, er
-også de som lykkes best med opplæringen. Det er
-grunn til å tro at disse skolene ser på de ansatte i
-andre yrkesgrupper som en del av det profesjonsfellesskapet.
-Skolemiljøansatte
-Noen av de ansatte i skolen som jobber elevrettet,
-men som ikke er lærere, omtales som «skolemiljøansatte». Dette kan være barnevernspedagoger,
-sosionomer, vernepleiere, barne- og ungdomsarbeidere og miljøarbeidere. Det kan også være
-ansatte med bakgrunn innenfor spesialpedagogikk
-eller miljøterapi. Skolemiljøansatte jobber ofte med
-elever og elevgrupper som trenger ekstra tilrettelegging eller oppfølging, for eksempel elever med
-utagerende atferd eller elever med behov for individuell tilrettelegging (Vika & Bergene, 2023).
-Forskning har vist at mye av tiden til skolemiljøansatte går til 1:1-oppfølging, noe som bidrar til
-tettere oppfølging av enkeltelever og til å frigjøre
-tid for læreren (Vika & Bergene, 2023). Dette er
-viktig arbeid, men skolemiljøansatte selv mener
-de med fordel kan bidra mer i det systemrettede
-arbeidet med skolemiljøet. På mange skoler ligger
-det et uutnyttet potensial i at ansatte i disse yrkesgruppene tas med inn på skolens samarbeidsarenaer og at de inkluderes tydeligere i skolens samarbeid med lærere og ledelsen (Vika & Bergene,
-2023).
-SFO-ansatte
-Skolefritidsordningen (SFO) skal gi omsorg, tilsyn og legge til rette for lek, kultur- og fritidsaktiviteter. De aller fleste barn på 1. og 2. trinn går på
-SFO, og etter at det ble innført 12 timer gratis
-SFO på 3. trinn har deltakelsen også økt betrakte-
-
-lig. Den økte deltakelsen i SFO de senere årene
-gjør at ordningen har fått enda større betydning
-som del av barns totale oppvekstmiljø. Forskning
-viser at SFO-ansatte kan spille en viktig rolle i å
-skape trygge og inkluderende sosiale arenaer for
-barn. SFO-ansatte bidrar til å styrke barnas
-sosiale utvikling tilhørighet og lekbaserte læring,
-som er viktig for skolegangen og videre livsløp
-(Wendelborg et al., 2018). Nyere forskning peker
-også på at SFO-ansatte kan bidra til et helhetlig
-læringsmiljø gjennom et godt samarbeid med skolens ansatte og gjennom aktiviteter som støtter
-barns språk, samhandling og trivsel (Caspersen et
-al., 2024). Samlet sett kan SFO-ansatte bidra til
-elevenes sosiale utvikling, inkludering og trivsel,
-og dermed også til oppfyllelsen av skolens brede
-samfunnsmandat.
-Forskningen peker samtidig på betydelige
-utfordringer knyttet til SFO og SFO-ansattes
-rolle. En gjennomgående utfordring har vært
-store variasjoner i kvalitet, innhold og organisering mellom SFO-tilbud på tvers av kommunene
-(Wendelborg et al., 2018). Forskere finner dessuten få tegn til økt læring, økt trivsel eller mindre
-mobbing i skolen som følge av den økte deltakelsen i SFO (Drange & Sandsor, 2024). Dette tyder
-på at det ligger et større potensiale i SFO som
-arena for barns utvikling enn det som utnyttes i
-dag. En av flere mulige forklaringer er at andelen
-SFO-ansatte med relevant pedagogisk eller faglig
-kompetanse er varierende. Behovet for kompetanseheving blant SFO-ansatte trekkes fram i
-flere rapporter (Caspersen et al., 2024; Wendelborg et al., 2018).
-Helsesykepleiere
-Helsesykepleiere i skolehelsetjenesten tilfører et
-helsefaglig perspektiv i skolen som bidrar til å
-støtte elever, avlaste lærere og styrke det helhetlige arbeidet med skolemiljøet. Kommunene er
-pålagt å ha en skolehelsetjeneste, men har selv
-ansvaret for omfang, organisering og kvalitet
-innenfor de kravene som er stilt i forskrift (Forskrift om helsestasjons- og skolehelsetjenesten,
-2018). Dette gir naturligvis variasjon i tilbudet på
-tvers av kommuner. Utvalget har fått tilbakemeldinger om at en del kommuner også har hatt
-utfordringer med rekruttering til stillinger innenfor skolehelsetjenesten.
-Forskning har vist at skolehelsetjenesten
-utnyttes best når det er en god balanse mellom
-oppgaver som helsesykepleierne prioriterer etter
-eget faglig skjønn og autonomi, og oppgaver som
-er en del av det strukturerte samarbeidet om opp-
-
-[Side 221]
-
-NOU 2026: 10
-Fellesskolen
-
-læringen og skolemiljøet. Målt på kort sikt tyder
-forskningen på at økte ressurser til helsesykepleier i skolen har positive effekter på gutters faglige prestasjoner og bidrar til en generell reduksjon i digital mobbing. (Federici et al., 2020).
-Forskningen finner ikke noen tydelig forbedring
-på nasjonale prøver av en ekstra helsesykepleierressurs, men de ser tydelige effekter på systemnivå i form av bedre samarbeid, organisering og
-rolleforståelse. Helsesykepleierne spiller dessuten en særlig viktig rolle for elever som av ulike
-årsaker er i sårbare situasjoner (Federici et al.,
-2021).
-Karriereveiledere
-Kommunen og fylkeskommunen skal sørge for at
-elevene får den rådgivningen de trenger om
-utdannings- og yrkesvalg (Opplæringslova, 2024,
-§ 16-1). Yrkes- og utdanningsrådgivere i skolen,
-gjerne kalt karriereveiledere, gir et viktig bidrag
-til skolens samfunnsoppdrag om å forberede elevene til videre utdanning og arbeid. Oppgavene til
-rådgiverne er å hjelpe alle elever med valg av
-utdanning og yrke, bidra til at elevene blir bevisst
-sine egne interesser og ferdigheter og gjøre at de
-kan ta informerte valg om veien videre i livet. Tjenesten er forankret i elevenes rett til slik rådgivning i opplæringsloven § 16-1.
-Karriereveilederne skal være en kobling mellom skole og arbeidsliv, og bidra til at opplæringen
-ses i lys av framtidige yrkesmuligheter. I likhet
-med faget utdanningsvalg, skal karriereveilederne
-bidra til at opplæringen oppleves som relevant for
-elevene. Forskning framhever i tillegg rådgivningen som et tiltak for å forebygge frafall og styrke
-overgangen mellom ungdomstrinn og videregående, og mellom videregående og videre utdanning
-eller til arbeidslivet (Buland et al., 2011).
-Forskningen peker samtidig på flere utfordringer knyttet til rollen som karriereveileder i skolen. Rollen framstår som bred og delvis uavklart,
-med et stort spenn av oppgaver som gjør det vanskelig å prioritere kjerneoppgavene knyttet til
-utdannings- og yrkesrådgivning (Buland et al.,
-2020). Mange rådgivere opplever også at de blir
-gitt oppgaver som ligger utenfor deres mandat,
-noe som kan svekke kvaliteten på selve karriereveiledningen. Ressursene til rådgivning oppleves
-som utilstrekkelige i forhold til de forventningene
-ofte som stilles til tjenesten (Buland et al., 2011). I
-tillegg er det betydelige variasjoner i hvordan rådgivningstilbudet er organisert og praktisert mellom skoler, noe som kan føre til ulik kvalitet og tilgang for elever (Mathiesen, 2022).
-
-219
-
-Kapittel 10
-
-Skolebibliotekarer
-Kommunen og fylkeskommunen skal sørge for at
-elevene har tilgang til et skolebibliotek eller et
-annet bibliotek som er særskilt tilrettelagt for skolen (Opplæringslova, 2024, § 15-5). Biblioteket
-skal være tilgjengelig for elevene i skoletiden, slik
-at det kan brukes aktivt i opplæringen.
-Skolebibliotekarer er dermed viktige samarbeidspartnere for lærerne. Forsking tyder på at
-godt utviklede skolebibliotek har positiv innvirkning på læring i alle fag. Skolebibliotekarene
-bidrar til å gjøre biblioteket til en faglig og sosial
-arena som støtter opp om både læring og trivsel
-for elevene (Bøyum & Tveit, 2023; Evjen, 2024).
-Skolebibliotekarene bidrar til opplæringen gjennom sitt arbeid med litteraturformidling, og i
-utvikling av informasjonskompetanse og kildekritikk hos elevene. Erfaringen viser at økt bemanning og kompetanse i bibliotekene gir økt bruk
-blant elever, mer lesing og sterkere integrasjon av
-biblioteket som pedagogisk verktøy i skolens virksomhet (Hauge et al., 2021).
-Selv om det er et lovfestet krav om skolebibliotek, stilles det ikke krav til bemanning og kompetanse, noe som bidrar til store variasjoner i tilbud og kvalitet mellom skoler. Tidligere studier
-har vist at bemanningen ofte er lav, og at bibliotekfunksjonen i mange tilfeller ivaretas av
-ansatte uten bibliotekfaglig utdanning, noe som
-kan begrense bibliotekets pedagogiske potensial (Carlsten & Sjaastad, 2014). I tillegg har det
-vært pekt på at skolebiblioteket og bibliotekarens rolle er svakt forankret i læreplanverket og i
-nasjonale styringsdokumenter, noe som kan
-bidra til at funksjonen undervurderes og
-underutnyttes i skolens pedagogiske arbeid
-(Fredwall, 2024).
-
-10.3.2 Profesjonelle aktører omkring skolen
-En del elever har behov for tverrfaglig og koordinert støtte og hjelp fra flere velferdstjenester.
-For at skolen skal favne alle elever, er det nødvendig med et tett samarbeid med helsestasjon- og
-skolehelsetjenesten, spesialister fra PP-tjenesten,
-Barne- og ungdomspsykiatrien (BUP), barnevernet og andre relevante aktører. Felles for disse
-instansene er at de er sentrale støttespillere i og
-rundt skolen, og gir vesentlige bidrag til at skolen
-kan nå målet om tilpasset og likeverdig opplæring.
-Sårbarhetsfaktorer hos utsatte barn og unge kan
-omfatte rus, omsorgssvikt, vanskelige bo- og levekår, fysiske og/eller psykiske helsevansker,
-adferdsvansker, språk- og læringsvansker m.m.
-
-[Side 222]
-
-220
-
-NOU 2026: 10
-
-Kapittel 10
-
-Fellesskolen
-
-Kontaktlærer, sosiallærer/miljøterapeut,
-barnehagelærer, assistenter,
-SFO-personell, rådgivere
-
-PPT-rådgiver
-
-Minoritetsrådgiver,
-flyktningkonsulent
-
-Rådgiver,
-OT-rådgiver
-
-Helsesykepleier,
-fastlege,
-psykiatrisk sykepleier,
-sosionom,
-kommunepsykolog
-
-Barnevern-/
-familievernkonsulent
-
-Det finnes mange
-spesialiserte tilbud
-og tjenester
-Ungdomskoordinator
-i Konfliktrådet
-
-Skolelege,
-helsesykepleier,
-skoletannlege
-
-NAV-veiledere i kommunene
-og i videregående skole
-Polititjenestemann
-Barne- og ungdomspsykiater,
-psykologspesialist i BUP
-
-Figur 10.8 Velferdstjenester rundt barn
-Kilde: Meld. St. 6 (2019–2020)
-
-Figur 10.8 har blitt brukt for å illustrere alle
-velferdstjenestene rundt barnet og dermed eleven. Den kan like gjerne brukes for å illustrere
-hvor mange instanser de ansatte i skolen må forholde seg til.
-Det følger av regelverket at barn og unge skal
-få et helhetlig og samordnet tjenestetilbud. Reglene
-om velferdstjenestenes plikt til samordning og samarbeid ble harmonisert og styrket i 2021.
-Mange skoler og kommuner jobber allerede
-systematisk og godt med tverrfaglig og tverretatlig samarbeid om utsatte barn og unge. Samtidig
-vet vi at manglende ressurser og kapasitet ofte
-trekkes fram som et hinder for samarbeid (Tøssebro et al., 2025). Forskning og erfaringer fra
-enkeltsaker viser at samarbeidet mellom velferdstjenester til barn og unge ofte ikke fungerer godt
-nok. Dette kan føre til at barn og unge ikke får
-den hjelpen de trenger og har krav på (Hansen et
-al., 2020; Kindt & Strand, 2020).
-
-PP-tjenesten
-Pedagogisk-psykologisk tjeneste (PP-tjenesten) er
-en spesielt viktig del av laget rundt elevene. PPtjenesten er regulert i opplæringsloven, og skal
-samarbeide med, og støtte skolene i det forebyggende arbeidet med å gi et inkluderende opplæringstilbud til elever som kan ha behov for tilrettelegging. PP-tjenesten skal også utarbeide sakkyndige vurderinger (Opplæringslova, 2024, § 11-13).
-PP-tjenesten skal både jobbe systemrettet og individrettet.
-Det systemrettede arbeidet innebærer å hjelpe
-skolen med kompetanseheving og organisasjonsutvikling for å legge opplæringen til rette for elever som kan ha behov for det. PP-tjenestens forebyggende og systemrettede mandat ble tydeliggjort i den nye opplæringsloven. Tjenesten skal
-bidra til å styrke skolens arbeid med tidlig innsats
-og forebygging. Dette innebærer å støtte og veilede skolene i å identifisere behov for tilrettelegging, og i å iverksette tiltak så tidlig som mulig.
-Tjenesten skal videre bidra til kompetanse- og
-
-[Side 223]
-
-NOU 2026: 10
-Fellesskolen
-
-organisasjonsutvikling, slik at skolene blir bedre i
-stand til å gi et inkluderende og tilpasset opplæringstilbud innenfor fellesskapets rammer. Dette
-omfatter blant annet veiledning i pedagogisk praksis, læringsmiljøarbeid og utvikling av skolens
-strukturer og arbeidsformer.
-Denne delen av PP-tjenestens mandat innebærer en tydelig forventning om at tjenesten skal
-arbeide systemrettet og i tett samarbeid med skolene, og bidra til å redusere behovet for individrettede tiltak over tid. En kunnskapsoppsummering
-utført av Utdanningsdirektoratet viser at mange
-PP-tjenester vurderer at de jobber tettere på
-barnehager og skoler enn tidligere, at de er tidligere inne i saker og at de jobber mer forebyggende (Utdanningsdirektoratet, 2026b).
-
-221
-
-Kapittel 10
-
-PP-tjenesten er videre kommunens og fylkeskommunens sakkyndige instans i saker der loven
-krever sakkyndig vurdering. Tjenesten skal utarbeide vurderinger som gir grunnlag for vedtak om
-individuelt tilrettelagt opplæring og andre former
-for tilrettelegging. Den sakkyndige vurderingen
-skal bygge på en helhetlig utredning av elevens
-behov, og gi et faglig grunnlag for å vurdere om
-eleven har et tilfredsstillende utbytte av opplæringen og hvilke tiltak som er nødvendige
-PP-tjenesten skal samarbeide med skoler, foreldre og relevante tjenester for å sikre helhetlig
-oppfølging av barn og unge. Tjenesten inngår ofte
-i tverrfaglig samarbeid med blant annet helse- og
-omsorgstjenester og barneverntjenesten (Meld.
-St. 6 (2019–2020)).
-
-[Side 224]
-
-222
-
-Kapittel 10
-
-NOU 2026: 10
-Fellesskolen
-
-[Side 225]
-
-Del IV
-Utvalgets vurderinger og forslag
-
-[Side 226]
-
-224
-
-NOU 2026: 10
-Fellesskolen
-
-DEL 4
-Figur 11.1
-
-Utvalget er bedt om å vurdere hvilken rolle og
-funksjon skolen som institusjon bør ha i et 20-årsperspektiv, både for elevene og i et samfunnsperspektiv. Utvalget skal komme med forslag til hvilke
-endringer på overordnet nivå som må gjøres av
-innhold, omfang og organisering i skolen for at
-den skal ruste elevene til å møte framtidens
-utfordringer. Utvalget legger vekt på en helhetlig
-tilnærming til tiltakene vi foreslår. Det er ikke ett
-enkelt tiltak som alene kan håndtere utviklingstrekkene som treffer skolen eller snu den negative utviklingen i resultater. Det er summen av
-flere tiltak.
-Et overordnet mål for utvalgets forslag er å
-styrke skolens danningsoppdrag. Vi mener at de
-tunge utviklingstrekkene i samfunnet utfordrer
-dette oppdraget. Samtidig er økt vekt på danningsoppdraget en viktig del av svaret på hvordan skolen skal møte disse utviklingstrekkene.
-Prinsippet om barnets beste ligger til grunn
-for alle våre vurderinger og tiltak. Barnets beste
-er et grunnleggende og overordnet hensyn for
-hvordan fellesskolen skal utvikles for framtiden.
-Når utvalget foreslår tiltak for å styrke skolens
-
-dannings- og utdanningsoppdrag, er det nettopp
-for at skolen i enda større grad skal bidra til elevenes læring, utvikling, trivsel og danning til barnas
-beste.
-For å sikre en helhetlig tilnærming har vi lagt
-til grunn en tredeling av vurderingene og tiltakene i denne delen av utredningen.
-Utvalget foreslår tiltak som handler om
-• fellesskolens innhold og hva elevene lærer, se
-kapittel 11
-• fellesskolen og de profesjonelle aktørenes
-rolle, se kapittel 12
-• fellesskolens plass i samfunnet og skolen som
-samfunnsinstitusjon, se kapittel 13
-Skolens innhold og hva elevene skal lære er tema
-mange er opptatt av, og som mange har meninger
-om. Utvalget foreslår noen endringer i dagens
-læreplanverk, slik at det blir et bedre verktøy for
-skolene og forsterker intensjonene som lå bak fagfornyelsen. Vi beskriver også konkrete tiltak for å
-styrke spesielle områder. Det handler blant annet
-om vurderingspraksis, læremidler, danning, teknologi, digital dømmekraft og elevenes sosioemo-
-
-[Side 227]
-
-225
-
-NOU 2026: 10
-Fellesskolen
-
-Innhold
-
-Fellesskolen
-
-O rga
-
-funn
-Sam
-
-nisasjon
-
-Figur 11.2 Utvalgets tiltaksområder
-sjonelle utvikling. Det handler også om å styrke
-noen fag og fagområder som lesing, matematikk,
-demokrati, praktiske og estetiske fag og fysisk
-aktivitet. Utvalget har vært spesielt opptatt av de
-yngste elevene, og foreslår flere tiltak som vil
-skape en mer helhetlig og variert skoledag som er
-bedre tilpasset dem.
-Lærerprofesjonen og en profesjonell skoleledelse er en grunnleggende forutsetning for at skolen som organisasjon skal lykkes med oppdraget.
-Utvalget beskriver en rekke tiltak som skal styrke
-lærerprofesjonen i framtiden. Dette arbeidet må i
-hovedsak skje fra profesjonen selv, men myndighetene må gi bedre rammer for å støtte utviklingen
-av kompetansen til læreprofesjonen. Utvalget
-mener blant annet det er nødvendig å stille strengere kompetansekrav for å kunne bli ansatt i lærerstillinger, å regulere at alle nyutdannede lærere
-skal få veiledning og å styrke kontaktlærerrollen.
-Skolelederne må få bedre vilkår for å utføre
-oppdraget de er satt til, og det må legges bedre til
-
-rette for at skolelederne kan bruke mer tid til å
-lede og støtte det pedagogiske arbeidet på skolen.
-For å lykkes med dette, må systemet rundt skolelederne styrkes, og skoleledernes utfordringer
-må anerkjennes. Det må også satses mer på kompetanseutvikling av skolelederne.
-Å styrke skolen som samfunnsinstitusjon
-handler blant annet om at ressursene brukt på
-skole må samsvare med samfunnets forventninger til hva skolen skal bidra med. En likeverdig
-opplæring i framtidens fellesskole krever langsiktig prioritering av ressurser til skolen. Den demografiske utviklingen og presset på offentlige ressurser øker risikoen for at skoleøkonomien nedprioriteres. Utvalget foreslår tiltak som kan redusere denne risikoen. Vi foreslår blant annet statlig
-kompensasjon til kommuner med fallende elevtall,
-og utredning av en ny ressursnorm for grunnskolen. En god skoleøkonomi er grunnleggende
-også for at utvalgets øvrige tiltak skal kunne gjennomføres.
-
-[Side 228]
-
-226
-
-NOU 2026: 10
-
-Kapittel 11
-
-Fellesskolen
-
-11
-Figur 11.3
-
-Kapittel 11
-
-Hvordan styrke elevenes læring og utvikling?
-Utvalget har beskrevet fem utviklingstrekk som
-allerede påvirker skolen, og som i økende grad vil
-utfordre skolen framover. Utviklingstrekkene vil
-utfordre skolens innhold, skolens organisering og
-skolen som samfunnsinstitusjon. I dette kapitlet
-presenterer vi ulike tiltak som retter seg mot skolens innhold, i betydningen elevenes læring, utvikling, trivsel og danning.
-Konsekvensene av utviklingstrekkene forsterkes av at utviklingen i elevenes læringsresultater går i feil retning, og det er en negativ utvikling
-i elevens skolemiljø. Resultatene i sentrale fag og
-ferdigheter som lesing, matematikk og demokratiforståelse har blitt betydelig svekket på kort tid.
-Motivasjonen for skole og læring synker. Selv om
-de fleste elevene trives, er det fortsatt mange som
-opplever mobbing eller ikke kjenner tilhørighet til
-fellesskolen. Disse utviklingstrekkene gjør det
-nødvendig å tenke nytt om elevenes læring og
-utvikling.
-Skolens dannings- og utdanningsoppdrag er
-gjensidig avhengig av hverandre. Utvalget har fått
-innspill om at det kan være krevende å finne
-balansen mellom disse oppdragene. Utvalget har
-vektlagt at danning i skolen skjer gjennom både
-det faglige innholdet, måten undervisningen foregår på og gjennom de verdiene som formidles.
-Alle fag i skolen har både en dannings- og en
-utdanningsdimensjon. Danning skjer gjennom opplevelser, møter med andre og når elevene får
-utfordringer og opplever mestring i skolehverdagen. Gjennom fagene tilegner elevene seg nyttige kunnskaper og ferdigheter, og de utvikler sin
-
-identitet og får trene på å samhandle med andre.
-Hvert fag bidrar på sin måte til elevenes forståelse
-av seg selv, andre mennesker og samfunnet de er
-en del av. For eksempel utvikler elevene i norskfaget språk-, lese- og skriveferdigheter og får innsikt i
-vår felles kulturhistorie. I norskfaget møter elevene
-også litteratur som gir innsikt i ulike livssituasjoner
-og perspektiver, og som fremmer empati, refleksjon, kritisk tenkning og dømmekraft. I samfunnsfag tilegner elevene seg kunnskap om historie,
-demokrati og samfunnsforhold, samtidig som de
-utvikler forståelse for medborgerskap og ansvar i
-fellesskapet. Naturfag gir innsikt i natur og vitenskapelige sammenhenger, og bidrar samtidig til
-undring, kritisk vurdering av kunnskap og bevissthet om bærekraft. Matematikk utvikler ferdigheter
-i logisk tenkning og problemløsning, og bidrar til
-presisjon, utholdenhet og systematisk arbeid. De
-praktiske og estetiske fagene styrker elevenes
-praktiske ferdigheter og kroppslige erfaringer,
-samtidig som de gir rom for kreativ utfoldelse,
-identitetsutvikling og fellesskapsopplevelser.
-Det er altså skolefagene i sin bredde som
-bidrar til skolens danningsoppdrag. Til tross for
-denne bredden, viser både innspillene utvalget
-har fått og utvalgets egne analyser at skolens danningsoppdrag er under press. En utfordring er at
-danningsoppdraget i begrenset grad lar seg måle.
-Samtidig viser gjennomgangen av de av skolens
-resultater som lar seg måle, at det er betydelige
-utfordringer i skolens utdanningsoppdrag. Dette
-kan bidra til at danningsoppdraget utilsiktet blir
-nedprioritert. Et grunnleggende spørsmål for
-
-[Side 229]
-
-NOU 2026: 10
-Fellesskolen
-
-framtidens fellesskole handler om hvordan vi skal
-prioritere danningsoppdraget i en tid hvor skolen
-sliter med utdanningsoppdraget.
-Utviklingstrekkene utfordrer det brede oppdraget, men utvalget mener at bredden i skolens oppdrag også er svaret på hvordan skolen skal møte
-utfordringene. Vi har blant annet vist hvordan nedgang i resultatene i lesing og matematikk henger
-sammen med en akselererende teknologiutvikling.
-Ny digital teknologi påvirker konsentrasjon, oppmerksomhet og utholdenhet, som er viktige ferdigheter for faglig læring. Skal skolen snu de negative
-læringsresultatene, må elevene møtes av undervisning som legger til rette for og trener opp konsentrasjon og fordypning. Ferdigheter som selvregulering, utholdenhet og metakognisjon kan øves på og
-utvikles gjennom arbeidet med fagene. Vi må derfor
-prioritere danning og elevenes sosiale og emosjonelle og utvikling i en tid der resultatene går ned.
-Utvalget mener at tiltakene foreslått i dette
-kapittelet samlet sett vil styrke både dannings- og
-utdanningsoppdraget i framtidens fellesskole. Vi
-peker også på noen fag og fagområder som må
-styrkes spesielt.
-
-11.1 Læreplanverket må bli et bedre
-verktøy for lærerne
-11.1.1 Fagfornyelsen, evalueringen og veien
-videre
-Mandatet ber utvalget blant annet om å se på
-hvilke endringer på overordnet nivå som må gjøres av innhold og organisering i skolen for at den
-skal ruste elevene til å møte framtidens utfordringer. Læreplanverket (LK20 og LK20S) beskriver
-hva elevene skal lære. Evalueringen av LK20 og
-fagfornyelsen ble avsluttet i januar 2026, og evalueringen viser både styrker og svakheter ved
-dagens læreplanverk.
-Oppsummert viser evalueringen at det fremdeles er god oppslutning om fagfornyelsen, men
-at læreplanverket oppleves som komplekst. Læreplanverket gir stort handlingsrom, men det kan
-være krevende å fortolke. Ledere og lærere er usikre på om deres tolkning er i tråd med læreplanens intensjoner. Det er også variasjoner i hvor
-langt skolene har kommet i å forstå og å ta nye
-læreplaner i bruk. Utvalget har i hovedsak hørt
-stor grad av støtte til læreplanene, både fra skolens organisasjoner og i møter med lærere og
-ledere. Skolene ønsker mer tid og ro til å ta læreplanene i bruk. Lærere og skoleledere har behov
-for å jobbe kollektivt og langsiktig med målsettingene i LK20.
-
-227
-
-Kapittel 11
-
-Utvalget mener samtidig evalueringen peker
-på flere sentrale utfordringer med fagfornyelsen,
-som må besvares. En utfordring er at kjerneelementene ikke har fått den plassen de var tiltenkt. Kjerneelementene, slik de nå er formulert,
-gir ikke tilstrekkelig støtte til å prioritere i fagene.
-Dermed har man ikke lykkes med balansen mellom innholdsorientering og kompetanseorientering. Utvalget foreslår endringer som skal bidra til
-at kjerneelementene styrkes, i tråd med intensjonene bak LK20.
-Utvalget mener imidlertid det er mulig å gjøre
-de nødvendige endringene innenfor dagens
-modell, uten å utarbeide helt nye læreplaner.
-Utvalget mener intensjonene bak LK20 står seg
-godt, og evalueringen viser at en god implementering krever tid. Å utvikle nye læreplaner er et stort
-og omfattende arbeid som vil kreve nye læremidler, ha betydelige omkostninger og en usikker
-gevinst. Utvalget har ikke registrert at det er et
-sterkt ønske fra lærere, skoleledere og kommuner i skole-Norge om en omfattende læreplanreform så kort tid etter fagfornyelsen. Utvalget
-mener derfor det er flere gode grunner til å fortsette med den læreplanmodellen som ble innført
-gjennom fagfornyelsen. Samtidig foreslår utvalget
-å gjøre nødvendige endringer slik at vi får et tydeligere og bedre læreplanverk.
-Endringer innenfor dagens læreplanmodell
-Det er flere grunner til at utvalget mener det
-ikke bør gjennomføres en omfattende læreplanreform nå.
-For det første er hovedkonklusjonen fra evalueringen av LK20 at fagfornyelsen har blitt godt
-mottatt. Lærere og skoleledere er overveiende
-positive til læreplanene (Bergsgard et al., 2026).
-Denne konklusjonen samsvarer godt med det
-utvalget har hørt på våre regionale innspillsmøter
-der representanter for både lærere, skoleledere
-og kommunene har deltatt. Det samme har vært
-inntrykket etter møter med enkeltkommuner og
-KS. Slik utvalget forstår disse tilbakemeldingene,
-er det ikke et stort ønske om å endre hovedinnretningen på læreplanene.
-For det andre ser utvalget tilbakemeldingene
-fra sektor og forskerne i sammenheng med målsettinger om en styrket lærerprofesjon. Arbeid
-med å forstå og fortolke læreplanene er en del av
-lærernes profesjonsfaglige ansvar. De nye læreplanene gir lærerne nødvendig handlingsrom til å
-tilpasse undervisningen til elevgruppen og gjøre
-undervisningen relevant. Læreplanene legger
-med andre ord til rette for at lærernes må bruke
-
-[Side 230]
-
-228
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-sin kompetanse til å gjøre faglige vurderinger og
-treffe gode valg innenfor de fastsatte rammene.
-Den tredje begrunnelsen for at utvalget ikke
-ønsker store endringer i læreplanene, er at flere
-rapporter fra evalueringen av læreplanene viser at
-LK20 har ført til positive endringer i undervisningen. Undervisningen framstår som mer praktisk,
-med økt elevmedvirkning og bedre underveisvurdering. Dette er i tråd med intensjonene i fagfornyelsen. Når mange lærere og skoleledere rapporterer om at disse intensjonene realiseres i praksis,
-taler det mot å gjøre vesentlige endringer i læreplanene.
-Sist, men ikke minst, har LK20 virket i relativt
-kort tid, etter det som var en omfattende utviklingsprosess med bred involvering da læreplanene ble utformet. I denne tiden har implementeringen av de nye læreplanene blitt påvirket av hendelser som har hatt betydning for skolens kapasitet, for eksempel nedstenging av skolene under
-covid-19-pandemien, lærerstreiker og framveksten av KI.
-Å utvikle nye lærerplaner, eller endre dem,
-krever tid og kapasitet fra alle nivåer i skolen.
-Utvalgets vurdering er at evalueringen tilsier at
-det er mulig å gjøre justeringer i dagens læreplanverk for å styrke den opprinnelige intensjonen.
-Evalueringen peker på at den brede prosessen
-rundt fagfornyelsen bidro til å skape oppslutning
-og forståelse for intensjonene i LK20. Forskerne
-anbefaler bred involvering også i senere læreplanprosesser (Furberg et al., 2026). Større læreplanendringer krever ny kompetanse og ny læreplanforståelse i alle deler av sektor.
-Et viktig mål med fagfornyelsen var å utforme
-færre kompetansemål og tydeligere prioriteringer
-i fagene. Læreplanen skulle ha mindre stofftrengsel, detaljerte innholdsbeskrivelser skulle unngås
-og det skulle legges til rette for dybdelæring.
-Utvalget anerkjenner at det er krevende å
-utforme gode læreplaner. Mange ønsker å få ulike
-temaer inn, med gode begrunnelser, men summen av alle gode forslag kan fort bli for omfangsrike planer.
-Utvalget merker seg at evalueringen startet
-opp omtrent samtidig som læreplanene var klare
-for å tas i bruk i skolene. Deretter har flere forskningsmiljøer evaluert ulike deler av arbeidet. Det
-er flere fordeler ved å gjennomføre en underveisevaluering samtidig som innføringen pågår. Det gir
-god informasjon om utvikling, ulike utfordringer
-og mulighet for å justere kursen hvis noe viser
-seg å være vanskelig gjennomførbart. Samtidig vil
-utvalget peke på at det tar tid å endre praksis i
-skolen. Det er en risiko for at underveisevaluerin-
-
-ger fører til at nye endringer og tiltak settes inn
-før skolene har fått tilstrekkelig tid til å endre
-praksis.
-Læreplaner alene endrer ikke praksis
-Endringer i læreplantekster alene endrer ikke
-nødvendigvis praksis i klasserommet. Når læreplanene skal vurderes og analyseres i lys av hva
-som skjer i skolen, er det viktig å skille mellom
-hva som ligger i læreplanene og hva som er
-undervisningspraksis. Det kan iblant være en
-tendens til å legge for stor vekt på læreplanens
-innhold som forklaring på hva som skjer i klasserommet.
-Utvalget påpeker at det ikke er slik at all
-undervisningspraksis, enten den er god eller dårlig, kan begrunnes i læreplanene. Som det ble
-påpekt allerede i evalueringen av R97 er det vanskelig «å reformere skulen med ord åleine (læreplanar). Mange forklaringsfaktorar ligg mellom
-input (læreplanar og reformintensjonar) og output
-(resultata)» (Haug, 2003). Dagens læreplaner legger rammer for arbeidet med fagene, men gir
-lærerprofesjonen stort handlingsrom og metodeansvar som den enkelte lærer må utforske i samarbeid med elevene og resten av profesjonsfellesskapet.
-Læreplanene kan være et virkemiddel for å
-styrke ønsket praksis, men også andre virkemidler bør vurderes dersom det er behov for endringer. Utvalget mener derfor det er behov for å
-skille mellom endringer i selve læreplantekstene
-og tiltak og endringer som setter skolene og
-lærerne bedre i stand til å ta læreplanene i bruk.
-Evalueringen viser for eksempel hvor viktig det er
-med god skoleledelse og velfungerende profesjonsfellesskap på skolene (Bergsgard et al.,
-2026). Skoleledelse, lærerrollen og profesjonsfellesskapet behandles i kapittel 12.
-Utvalget viser også til at det er satt i gang flere
-endringer knyttet til læreplanverket. Det skal for
-eksempel lages veiledende innholdslister til fagene
-norsk, samfunnsfag, KRLE, mat og helse, musikk
-og kunst og håndverk, for å støtte skolene i valg av
-konkret innhold. Læreplanen i matematikk er allerede revidert, og det er vedtatt en ny struktur på
-matematikkfaget i videregående skole.
-Oppsummert mener utvalget at det viktige
-arbeidet som foregår i profesjonsfellesskapene i
-skolene med å ta fagfornyelsen og LK20 i bruk,
-må fortsette. Samtidig vil utvalget understreke, i
-tråd med kapittel 7, at det er rom for forbedringer.
-Utvalget foreslår i det følgende konkrete endringer i læreplantekstene.
-
-[Side 231]
-
-NOU 2026: 10
-Fellesskolen
-
-11.1.2 Behov for endringer i dagens
-læreplaner
-Skolens læreplaner rammer inn hva elevene skal
-lære og hvilke verdier opplæringen skal bygge på.
-Læreplanverket er et av de viktigste dokumentene
-for å forme framtidens fellesskole. Utvalget mener
-at det overordnede målet med eventuelle endringer må være at læreplanene skal bli bedre verktøy for lærerne. En forutsetning for å gjøre endringer i dagens læreplanverk, er at de kan gjennomføres på kort sikt og innenfor dagens læreplanmodell. Utvalget mener også at endringene
-ikke bør medføre behov for helt nye læremidler
-eller store kompetansetiltak. Samtidig anerkjenner utvalget at selv små endringer vil kreve noe
-kapasitet i form av for eksempel utvikling, implementering og samarbeid med fagmiljøer og partene i skolen.
-Læreplantekstene må bli tydeligere og trinnrelevante
-Alle læreplanene i de ulike fagene innleder i dag
-med tekster som beskriver fagets relevans og verdier, kjerneelementer, tverrfaglige tema og
-grunnleggende ferdigheter. Dette omtales som
-«Om faget»-tekster. I evalueringen av fagfornyelsen forslår forskere å endre disse tekstene som et
-av flere råd til hvordan læreplanene kan bli bedre
-verktøy for lærerne (Furberg et al., 2026).
-Utvalget støtter at endringer i disse tekstene
-kan bidra til å redusere kompleksiteten og tydeliggjøre innholdet i læreplanene. Slik tekstene i «Om
-faget» nå er formulert, gjelder samme tekst for
-hele det 13-årige skoleløpet. Utvalget mener at
-«Om faget»-tekstene bør utdypes og vise tydeligere hva innholdet skal være for de hovedtrinnene vi i dag har kompetansemål på (2. 4, 7. og 10.
-trinn for grunnskolen). Dette gjelder særlig tekstene om kjerneelementene, de tverrfaglige temaene og de grunnleggende ferdighetene. På denne
-måten kan progresjonen i faget komme tydeligere
-fram enn i dag, og innholdet på de ulike trinnene
-vil bli bedre rammet inn.
-Utvalget mener tekstene bør ta utgangspunkt i
-elevenes naturlige modning og utvikling, og innholdet i faget på de ulike trinnene må tilpasses at
-elevenes modenhet for å lære vil variere gjennom
-opplæringsløpet. Gjennom dette vil læreplanene
-gi mer støtte til lærerens valg av innhold, metoder
-og progresjon. For videregående opplæring må
-det vurderes nærmere hvordan dette skal gjøres
-og ses i sammenheng med oppdraget til Utdanningsdirektoratet, se kapittel 7.10.3.
-
-229
-
-Kapittel 11
-
-Tydeliggjøre kjerneelementene
-Utvalget mener at særlig kjerneelementene bør
-styrke og støtte lærernes arbeid med målene i
-læreplanene. Dagens kjerneelementtekster inngår
-i «Om faget»-tekstene. Kjerneelementene skulle
-opprinnelig beskrive det mest betydningsfulle faglige innholdet i de ulike fagene og bidra til tydeligere prioriteringer, men evalueringen tyder på at
-kjerneelementene ikke spiller den rollen de var tiltenkt. Utvalget har merket seg at evalueringen
-viser at lærere i større grad orienterer seg mot
-kompetansemålene enn kjerneelementene, og at
-det ligger et uforløst potensial i det å synliggjøre
-betydningen av fagenes kjerneelementer i planleggingen og gjennomføringen av undervisningen
-(Bergsgard et al., 2026; Furberg et al., 2026).
-Utvalget mener at kjerneelementene bør utvikles videre, slik at de i sterkere grad bidrar til å
-tydeliggjøre det aller viktigste innholdet i faget.
-Utvalget foreslår derfor en revidering av kjerneelementtekstene.
-Ulike fag har ulike tenkemåter og prosesser
-som utgjør fagets egenart og normer for læring
-(Magnuson et al., 2025). Tekstene bør gjøres trinnrelevante og tydeligere vise fagets kjerneinnhold,
-slik at de støtter opp om og rammer inn forståelsen
-av kompetansemålene. Kjerneelementene bør
-beskrive kunnskap og sentrale begreper i faget.
-For eksempel kan det i samfunnsfag være maktfordelingsprinsippet eller parlamentarisme, mens det i
-kroppsøving kan være utholdenhet. Fagenes kunnskapsformer må løftes fram der dette er naturlig,
-fagenes begreper, teorier og metoder må komme
-tydelig fram, og elevene må lære å vurdere kilder
-til kunnskap på en systematisk måte. Dette er særlig relevant i en tid preget av relativisering av kunnskap og der det stilles spørsmål ved etablerte sannheter. Elevene må lære å skille mellom relevante og
-berikende perspektiver på den ene siden, og utilbørlig relativisering på den andre. Formen på
-kjerneelementtekstene vil naturlig nok variere mellom fag og alderstrinn, men intensjonen om at kjerneelementene skal hjelpe læreren å prioritere gjelder for alle fag.
-I evalueringen kommer det fram at lærere er
-usikre på hvordan de skal forstå og legge til rette
-for dybdelæring. Evalueringen peker på at beskrivelsen av dybdelæring i læreplanverket er for utydelig og at det er for svak sammenheng mellom
-beskrivelsen av dybdelæring og kompetansebegrepet i læreplanen (Furberg et al., 2026). En endring av kjerneelementene åpner også for at dybdelæringsbegrepet kan beskrives tydeligere og gjøres mer relevant for fagene.
-
-[Side 232]
-
-230
-
-Kapittel 11
-
-NOU 2026: 10
-Fellesskolen
-
-Konsekvensene av mer alderstilpassede tekster på ulike trinn i opplæringen vil medføre at
-læreplantekstene blir lengre og mer omfattende.
-Utvalget mener gevinsten ved tydeligere læreplaner er betraktelig større enn eventuell ulempe ved
-lengre tekst. Andre land, for eksempel Finland,
-har vesentlig lengre læreplantekster enn Norge,
-og utvalget mener slike tekster kan være med på å
-styrke lærernes profesjonsfaglige kompetanse.
-Innføre «Mål for undervisningen»
-Forskning viser at målrettet støtte til elevenes
-sosiale og emosjonelle utvikling har stor betydning
-for videre utdanning og arbeid og hvordan de lykkes videre i livet. Det handler om å utvikle egenskaper som ansvarlighet, empati, utholdenhet, samarbeidsevner og evne til å arbeide målrettet og takle
-motgang (Steponavičius, 2023). Støtte til elevenes
-sosiale og emosjonelle utvikling er med andre ord
-en viktig del av skolens oppdrag.
-Som tidligere omtalt er det mye av skolens
-danningsoppdrag som ikke kan eller bør vurderes
-individuelt med karakter. Samtidig skal elevene
-delta i aktiviteter som bidrar til sosialiserings- og
-danningsprosesser, og som ikke utelukkende er
-orientert mot faglig læringsutbytte. Lærerne skal
-observere elevenes utvikling i disse aktivitetene,
-elevenes samspill med andre og de skal kunne veilede elevene videre, selv om slike prosesser ikke
-inngår direkte i sluttvurderingssystemet.
-Elevene skal utvikle seg som selvstendige individer og de skal sosialiseres i et fellesskap. De
-skal forstå og vokse inn i våre felles verdier, og
-samtidig være med på å forme disse videre.
-Mange lærere jobber godt med dette sammen
-med elevene sine, men samtidig kan det være
-uklart hvor tiden til og systematikken i dette
-arbeidet er forankret. Skoletiden består i utgangspunktet av timer som er satt av til fag. Selv om det
-er tydeliggjort i overordnet del at faglig og sosial
-læring ikke kan isoleres fra hverandre, er utvalgets oppfatning at dette arbeidet ikke er tilstrekkelig ivaretatt i læreplanene for fag i dag.
-Utvalget mener derfor det er behov for en tekst,
-«Mål for undervisningen», som viser at undervisningen også skal innebære aktiviteter og arbeid
-som ikke skal måles og vurderes på individuelt
-nivå. Dette skal støtte opp om skolens danningsoppdrag og bidra til en tydeligere forankring av
-arbeidet med elevenes sosiale læring og utvikling.
-Teksten «Mål for undervisningen» skal vise
-mer konkret hvordan læreren kan jobbe med
-
-sider av faget som ikke er målbare, men som skaper læringsglede, motivasjon og mestring. Det
-kan handle om å legge til rette for engasjement og
-beskrive hvilke erfaringer og opplevelser elevene
-skal få gjennom arbeidet med faget. Det er behov
-for mer systematikk og tydeligere rammer for
-dette arbeidet. Læreplantekstene skal være tilpasset de ulike trinnene, og det må utvikles veiledningsmateriell som skal bidra til å vise hvordan
-opplæringen på det aktuelle trinnet kan støtte
-elevenes sosiale og emosjonelle utvikling.
-Vurdere tekstene om verdier
-Forskerne bak evalueringen av fagfornyelsen har
-pekt på at fellesverdiene fra formålsparagrafen i
-opplæringsloven er lite synlige i verdibeskrivelsen
-i fagene, og at beskrivelsen av verdier har fått en
-individretting. De anbefaler å ta ut beskrivelsen av
-verdier i avsnittet fra «Om faget», som beskriver
-«fagets relevans og sentrale verdier» (Furberg et
-al., 2026; Kvamme, 2025).
-Utvalget er i tvil om denne løsningen vil bidra
-til å styrke verdiene i læreplanverket og realisere
-verdiløftet. Det er også flere eksempler på at fellesverdiene er godt beskrevet i læreplanene.
-Utvalget mener grepene vi foreslår ovenfor også
-vil bidra til å revitalisere verdiløftet. Å revidere
-kjerneelementtekstene og løfte fram fagenes innhold, vil også gi mulighet for å tydeliggjøre verdigrunnlaget i de ulike fagene. Nye tekster om «Mål
-for undervisningen» kan på samme måte være
-med på å konkretisere hvordan undervisningen
-tydeligere kan vektlegge arbeidet med verdigrunnlaget i opplæringen.
-Tydeliggjøre kompetansemålene
-Utvalget mener at det kan være behov for å gjøre
-noen endringer i kompetansemålene for å oppnå
-målet om tydeligere læreplaner. Selv om antall
-kompetansemål ble redusert i fagfornyelsen, har
-målene blitt mer overordnede og gir mindre retning for valg av innhold (Bergsgard et al., 2026;
-Furberg et al., 2026). Kompetansemål som oppfattes som uklare eller for generelle bør særskilt vurderes opp mot de nye «Om faget»-tekstene utvalget
-anbefaler. Intensjonen bør være at målene skal gi
-lærerne tilstrekkelig handlingsrom til å gjøre opplæringen relevant og at undervisningen skal kunne
-tilpasses elevgruppen, samtidig som det må gå
-klart fram hva den faglige innrammingen er.
-
-[Side 233]
-
-NOU 2026: 10
-Fellesskolen
-
-Vurdere endringer i omtalen av grunnleggende
-ferdigheter
-I dag beskriver læreplanene fem grunnleggende
-ferdigheter: lesing, skriving, regning, muntlige ferdigheter og digitale ferdigheter. Utvalget understreker at de grunnleggende ferdighetene ikke er
-basisferdigheter eller tekniske ferdigheter som elevene lærer de første skoleårene. Dette er ferdigheter som elevene utvikler gjennom hele opplæringsløpet. Ferdighetene er en del av kompetansen i de
-ulike fagene, og de er viktige redskaper for å lære
-og utvikle seg gjennom hele skoleløpet. Utvalget
-mener det er gode grunner til å videreføre de
-grunnleggende ferdighetene slik de er i dag, men
-at også disse må knyttes tettere til de ulike trinnene
-slik at progresjonen kommer tydeligere fram. For
-eksempel er det store forskjeller mellom den første
-leseopplæringen og de leseferdighetene elever i
-videregående opplæring trenger for å kunne lese
-krevende, faglige tekster kritisk.
-Utvalget foreslår mer omfattende endringer i
-beskrivelsen av digitale grunnleggende ferdigheter. Forslaget beskrives i kapittel 11.5.
-Endringer på lengre sikt
-Som vist over, er læreplanverket svært omfattende. Endringer i læreplanmodellen vil kreve tid
-og ressurser slik at det kan gjennomføres grundige prosesser i utviklingsarbeidet. Store endringer i læreplaner krever svært mye kapasitet,
-både av skoler, organisasjoner og myndigheter.
-Ny kompetanse må utvikles og nye læremidler
-utformes. Slike store endringsprosesser forutsetter oppslutning og legitimitet, særlig blant dem
-som jobber i skolen. Før man setter i gang med
-slike prosesser er det viktig å vurdere om det man
-ønsker å forandre kan oppnås på andre måter.
-Samtidig mener utvalget at gode faglige diskusjoner om læreplaner og læreplanmodeller er bra.
-Slike debatter vil blant annet bidra til en bevissthet om læreplanenes styrker og svakheter, og hva
-profesjonsfellesskapet sammen kan jobbe med.
-Det finnes ingen ideell læreplan, og det er fordeler og ulemper knyttet til både innholdsbaserteog kompetansebaserte modeller. Utvalgets oppfatning er at uansett hvilken læreplanmodell man
-velger, vil det oppstå utfordringer. Den perfekte
-læreplanmodellen finnes neppe. Det handler mer
-om hvilke grep man kan gjøre for å redusere
-modellens svakheter. En eventuell omfattende
-endring av dagens læreplanmodell kan løse noen
-
-231
-
-Kapittel 11
-
-problemer, samtidig som det kan skape nye. Det
-må alltid være et kritisk blikk på hvor godt den
-gjeldende læreplanmodellen fungerer. De endringene utvalget foreslår ovenfor, vil gi tydeligere
-innholdselementer i dagens læreplanmodell.
-Selv om utvalget mener det verken er behov
-for en omfattende læreplanprosess nå, eller at
-dette vil være et svar på de utfordringene som er
-løftet fram, vurderer utvalget det som rimelig at
-det med jevne mellomrom gjøres en mer helhetlig
-gjennomgang av læreplanene.
-Når det i framtiden skal legges til rette for nye
-læreplanreformer, mener utvalget det er avgjørende at fellesskolens brede samfunnsmandat
-ivaretas. Det vil også være viktig med en bred prosess om innretningen på læreplanverket. En slik
-prosess må inkludere partene, altså lærerne, skoleledere, skoleeiere og andre sentrale aktører.
-Den må være kunnskapsbasert, og ta utgangspunkt i et felles kunnskapsgrunnlag om fordeler
-og ulemper med ulike læreplanmodeller.
-
-11.1.3 Utvalgets forslag om læreplanverket
-Utvalget foreslår å
-• gjøre dagens læreplaner til bedre og tydeligere
-verktøy for lærerne, blant annet ved å tydeliggjøre kjerneelementene og det faglige innholdet og gjøre mer av læreplanene trinnrelevante.
-• innføre Mål for undervisningen, for å tydeliggjøre at undervisning også innebærer arbeid
-og aktiviteter som ikke skal vurderes individuelt. Mål for undervisningen skal også styrke
-verdiløftet og arbeidet med sosioemosjonell
-utvikling. Disse tekstene skal være trinnrelevante.
-• bygge læreplanene over samme mal som i dag,
-men med noen endringer:
-– Om faget skal inneholde Fagets relevans og
-sentrale verdier, Kjerneelementer, Tverrfaglige temaer og Grunnleggende ferdigheter. Tekstene skal være trinnrelevante
-– Mål for undervisningen (ny del). Tekstene
-skal være trinnrelevante
-– Kompetansemål og vurdering som i dag,
-men med nødvendige justeringer
-• utvikle alderstilpasset støtte og veiledningsmateriell for systematisk arbeid med elevenes
-sosiale læring og utvikling i fagene
-• sikre at nye omfattende læreplanprosesser
-ivaretar god involvering og fellesskolens brede
-mandat
+Lærerutdanningene er i en kontinuerlig endring i takt med behovene i samfunnet. Lærerutdanningene utvikler seg stadig, men har også noen gjenstridige utfordringer. I dette kapittelet redegjør vi for status, utvikling og utfordringer ved lærerutdanningene.
+
+Mangfoldet blant lærerutdanningene i dag
+
+Lærerutdanning er et stort utdanningsområde og på landsbasis var det høsten 2025 registret ca. 23 000 lærerstudenter (Direktoratet for høyere utdanning og kompetanse, 2025c). De ulike lærerutdanningsprogrammene varierer i størrelse, og det er grunnskolelærerutdanningene og PPU som årlig uteksaminerer flest lærerkandidater til skolen (Bennetzen & Gilje, 2025). Det er elleve rammeplanstyrte lærerutdanninger. Ni av utdanningene er innrettet mot skolen og to er innrettet mot barnehagen, se tabell 10.1. Utdanningene springer ut av ulike tradisjoner og har ulik lengde, fagsammensetning og innretning mot trinn. Grunnskolelærerutdanningen for trinn 1–7 gir kompetanse i inntil fire undervisningsfag, mens PPU ofte kun gir undervisningskompetanse i ett til to fag.
+
+Lærerutdanninger
+
+02J0xt2
+
+<table>
+<colgroup>
+<col style="width: 65%" />
+<col style="width: 10%" />
+<col style="width: 23%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>Grunnskolelærerutdanning for trinn 1–7 (GLU 1–7)</p>
+<p>Samisk grunnskolelærerutdanning for trinn 1–7 (samisk GLU 1–7)</p></td>
+<td style="text-align: right;">Master</td>
+</tr>
+<tr>
+<td colspan="2"><p>Grunnskolelærerutdanning for trinn 5–10 (GLU 5–10)</p>
+<p>Samisk grunnskolelærerutdanning for trinn 5–10 (samisk GLU 5–10)</p></td>
+<td style="text-align: right;">Master</td>
+</tr>
+<tr>
+<td>Lektorutdanning for trinn 8–13 (LEKTOR)</td>
+<td colspan="2" style="text-align: right;">Master</td>
+</tr>
+<tr>
+<td>Lærerutdanning i praktiske og estetiske fag for trinn 1–13 (LUPE)</td>
+<td colspan="2" style="text-align: right;">Master</td>
+</tr>
+<tr>
+<td>Praktisk-pedagogisk utdanning (PPU)</td>
+<td colspan="2" style="text-align: right;">Årsenhet</td>
+</tr>
+<tr>
+<td>Praktisk-pedagogisk utdanning for yrkesfag for trinn 8–13 (PPU-Y)</td>
+<td colspan="2" style="text-align: right;">Årsenhet</td>
+</tr>
+<tr>
+<td>Yrkesfaglærerutdanning for trinn 8–13 (YFL)</td>
+<td colspan="2" style="text-align: right;">Bachelor</td>
+</tr>
+<tr>
+<td>Barnehagelærerutdanning (BLU) og Samisk barnehagelærerutdanning (samisk BLU)</td>
+<td colspan="2" style="text-align: right;">Bachelor</td>
+</tr>
+</tbody>
+</table>
+
+Kvalitet, relevans og styring
+
+Gitt lærerutdanningenes betydning, er det naturlig at det er stor interesse for lærerutdanningene i samfunnet. Hvilken innretning lærerutdanningene bør ha, og hvordan man sikrer best mulig kvalitet i lærerutdanningene, er tilbakevendende spørsmål. Lærerutdanningene blir både kritisert for å ha blitt for akademiske og for ikke å være tilstrekkelig forskningstunge. Det er flere diskusjoner om innholdet i lærerutdanningene, blant annet om balansen mellom faglig bredde og dybde (antall undervisningsfag vs. faglig fordypning), balansen mellom pedagogikk, didaktikk og disiplinfag og hvor mye praksis det bør være. Med den langsiktige påvirkningen lærerutdanningene har for skolen og samfunnet, er det kanskje ikke så rart at lærerutdanningen er blant de mest diskuterte utdanningene i Stortinget. Den politiske oppmerksomheten gjenspeiles i at de nasjonale rammene for lærerutdanningene ofte endres. Reformtempoet har vært høyt, særlig for grunnskolelærerutdanningene som har gjennomgått fem reformer siden 1990-tallet (Ekspertgruppa om lærerrollen, 2016).
+
+Politisk styring av lærerutdanningene er historisk betinget og begrunnet ut fra samfunnets behov for å sikre lærernes kompetanse. Styringen av lærerutdanningene kan på den ene siden ses som en måte å sikre kvalitet, ressurser og nasjonal koordinering på. På den andre siden kan styringen kritiseres for å være til hinder for kvalitetsutvikling, være i strid med institusjonenes faglige autonomi og bidra til å binde opp ressurser. Det er en iboende spenning i lærerutdanningene knyttet til behov for utvikling og innovasjon på den ene siden, og reformtrøtthet og behov for ro på den andre siden. NOKUTs evaluering av grunnskolelærerutdanningene viste at det er bred oppslutning om den nye masterutdanningen. Både lærerstudenter, rektorer og praksislærere er godt fornøyde med den faglige tyngden de opplever at studentene har fått gjennom den femårige utdanningen. Skoler som har hatt lærerstudenter i praksis opplever at studentene «er mer reflekterte og forskningsorienterte enn tidligere» (Munthe et al., 2024, s. 40). Evalueringen viser også at utdanningene fortsatt er i en etableringsfase. Det gis derfor en tydelig anbefaling om å gi utdanningene ro til å utvikle seg videre, selv om det er flere områder som bør videreutvikles og forbedres (Munthe et al., 2024). Lærerstudentene har gitt følgende innspill til utvalget:
+
+Det er helt nødvendig at vi som skal bli lærere har en integrert mastergrad som grunnlag for vår profesjonsutøvelse. Dagens utdanning er ikke perfekt, men det er svært positivt at vi har en grunnleggende forståelse for alt fra didaktikk, pedagogikk, teori og også praksis. Samtidig: Vi trenger mer av mye i utdanninga vår. Vi trenger å få mer kunnskap om foreldre-hjem samarbeid, kjønn og seksualitet, elever med læringsutfordringer og så mye mer. Selvfølgelig kan ikke lærerutdanninga lære oss alt, noe må vi lære etter vi har begynt å jobbe, men dagens lærerutdanning bør styrkes og breddes ut. Dette er viktig fordi en sterk profesjon bygger på god kompetanse. Vi er en kunnskapsprofesjon, og da må vi bygge vår utvikling av skolen og lærerprofesjonen på kunnskap.[^26]
+
+Det pågår en prosess med endret styring av lærerutdanningene. Arbeidet innebærer at man skal gå fra ganske detaljerte rammeplaner for de ulike lærerutdanningene, til en mer overordnet rammeplanstyring som skal gi institusjonene større frihet og fleksibilitet til å videreutvikle utdanningene til det beste for barnehagen og skolen (Kunnskapsdepartementet, 2025a; Prop. 1 S (2025–2026)).
+
+Tidsbruk og faglige ambisjoner
+
+De mange reformene av lærerutdanningene kan være et uttrykk for en politisk bekymring for om utdanningene har hatt de nødvendige faglige ambisjonene på vegne av studentene. Studiebarometeret har vist at studenter ved de femårige lærerutdanningene bruker mindre tid til egenstudier enn andre profesjonsutdanninger. Lærerstudenter på de femårige utdanningene bruker i snitt 26 timer i uka på studiene. Til sammenligning bruker farmasistudenter og sivilingeniørstudenter 38 timer, jusstudentene 36 timer, og medisinstudentene 39 timer (Bjaaland et al., 2025). I løpet av et femårig studium tilsvarer dette ca. halvannet års studier i forskjell. Til tross for relativ lav studieinnsats får lærerstudentene gjennomsnittlige karakterer sammenlignet med andre profesjonsstudier (Direktoratet for høyere utdanning og kompetanse, 2025a). Dermed får de også indirekte tilbakemelding om at de presterer som forventet. Lærerutdanningenes faglige ambisjoner på vegne av studentene er med andre ord avstemt med en studieinnsats på 26 timer i uken. Videre har grunnskolelærer- og lektorstudentene gjennomgående de siste årene skåret lavest på overordnet tilfredshet med egne studier i Studiebarometeret (Bjaaland et al., 2025). Det er rimelig å forvente at både lav studieinnsats og lav studietilfredshet står høyt på agendaen til lærerutdanningene.
+
+Norsk utdanningsforskning har styrket seg
+
+Utdanningsforskningen er viktig for god praksis og høy kvalitet i fellesskolen. Den er også avgjørende for politikkutforming og en opplyst samfunnsdebatt om oppvekst, utdanning og kompetanse. Utdanningsforskningen rommer flere fagdisipliner og profesjoner. Som forskningsfelt er utdanningsvitenskap både flerfaglig og tverrfaglig, nasjonal og internasjonal og omfatter grunnforskning, anvendt forskning og forskning for utviklingsarbeid og innovasjon. Utdanningsforskningen kan både være sektorspesifikk og sektorovergripende, som for eksempel forskning om barn og unges oppvekstsvilkår og om voksnes læring i arbeidslivet (Kunnskapsdepartementet, 2025c).
+
+Læreryrket har svakere vitenskapelige tradisjoner enn klassiske profesjonsyrker (Mausethagen, 2015). Utdanningsforskningen har tidligere blitt kritisert for stor uenighet, manglende kumulativ kunnskapsutvikling og begrenset relevans for praksis (Hargreaves, 1996). Forskingsrådets evaluering fra 2018 kunne derimot dokumentere en positiv utvikling av norsk utdanningsforskning. Økte ressurser, høyere ambisjoner, større bredde og kompetanseutvikling ble pekt på som viktige faktorer bak denne utviklingen (Forskningsrådet, 2018). Evalueringen viste at norsk utdanningsforskning har stor påvirkning på politikk og praksis i kommuner og skoler. Mens enkelte miljøer holdt høy internasjonal standard, var andre preget av lokal rekruttering og begrenset publisering utenfor Norden. Publikasjoner innenfor utdanningsforskning i Norge har hatt en mye sterkere vekst enn veksten i norsk vitenskapelig publisering generelt skulle tilsi (Kunnskapsdepartementet, 2025c). Selv om kvantitet er en svak indikator for kvalitet, må det økte volumet av fagfellevurderte publiseringer anses som klart tegn på positiv utvikling i utdanningsforskningen. Store deler av utdanningsforskningen gjennomføres imidlertid av forskningsmiljøer som ikke er direkte knyttet til lærerutdanningene.
+
+Som følge av innføringen av mastergrad har det blitt gjennomført en rekke politiske initiativ og utdanningsreformer det siste tiåret for å styrke forskningskompetansen og den vitenskapelige publiseringen i lærerutdanningene (Caspersen & Smeby, 2023). Det har blant annet blitt etablert en egen ordning i Forskningsrådet som er øremerket forskningsprosjekter i lærerutdanningene. Samlet kan det virke som om satsingene har båret noen frukter. Forskningsrådet melder om stadig bedre vurderinger av søknadene fra lærerutdanningene fra rådets forskerpaneler. En undersøkelse viser at lærerutdannerne la mer vekt på forskning i 2021 enn i 2017. Kompetansesammensetningen blant lærerutdannerne har også endret seg. Andelen med doktorgrad har økt fra 19 prosent til 48 prosent, andelen professorer har økt fra 2 til 13 prosent og det har vært en svak økning i andelen med bakgrunn fra pedagogikk (Caspersen & Smeby, 2023). Det er flere forskergrupper og prosjekter som adresserer sentrale utfordringer i skole og utdanning (Munthe et al., 2024). Antall FoU-årsverk og antall vitenskapelige publikasjoner har økt ved de aller fleste lærestedene (Slette et al., 2023).
+
+Det kan være mer krevende å integrere utdanningsforskningen som skjer utenfor lærerutdanningene i kunnskapsbasen som lærerutdanningene bygger på, enn den forskningen som foregår i regi av lærerutdanningene selv. Mye av den senere norske forskningen om lærerrollen kritiseres for å være preget av perspektivavhengighet og for å være metodisk smal. Det er overvekt av kvalitative studier med små utvalg, og det er færre studier som dokumenterer kausale sammenhenger og faktiske effekter, studier i større skala og studier med et større mangfold av metoder (Caspersen et al., 2026).
+
+Utfordringer med integrasjon og sammenheng
+
+Å skape integrasjon og sammenheng mellom de ulike kunnskapsformene og fagområdene i lærerutdanningene er en gjenstridig utfordring. Det er krevende å lage gode sammenhenger for lærerstudentene mellom studentenes to læringsarenaer, på campus og i praksis og mellom ulike fagområder i lærerutdanningen. Til tross for at rammeplanene for lærerutdanningene gir føringer om at utdanningene skal være integrerte utdanninger med helhet og sammenheng, viser de nyeste evalueringene av lærerutdanningene at dette er et område som det må jobbes med videre (Munthe et al., 2024; NOKUT, 2022). I evalueringen av grunnskolelærerutdanningene pekes det på behov for kunnskapsbroer mellom campus og praksis, og at ulike faggrupper internt deler kunnskap for å bidra til å styrke hverandres disiplinkompetanser, forskningskompetanser og profesjonskompetanser (Munthe et al., 2024). Lesing er et eksempel på et område som krever gode kunnskapsbroer mellom ulike fag i lærerutdanningene og mellom lærerutdanningene og relevante fagmiljøer utenfor lærerutdanningene.
+
+Samarbeid mellom lærerutdanningene og praksisfeltet
+
+Samarbeid mellom lærerutdanningene og skolesektoren er krevende, men nødvendig for å få en relevant undervisning for studentene, bedre forskning og god praksis. Samarbeidet er viktig for å utvikle både skolene og lærerutdanningene.
+
+Fra 2009 og til i dag har det blitt satset stadig mer på *partnerskap* i utdanningssektoren. Partnerskapstankegangen innebærer at det blir arbeidet systematisk for likeverd og balanse mellom lærerutdanningene og skolesektoren, noe som bidrar til at lærerutdanningene får kompetanse som både er forsknings- og erfaringsbasert. I 2023 ble det rapportert om 58 partnerskapsavtaler i lærerutdanningen. Etableringen av lærerutdanningsskoler og ordningene for lokal kompetanseutvikling i skole (dekomp) er eksempler på partnerskap der man legger til grunn et slikt langsiktig samarbeid (Meld. St. 19 (2023–2024)). I det nye systemet for kompetanse og karriereutvikling er et av premissene at kompetanseutvikling skal bygge på likeverdige partnerskap der «Målet er at praksisen i barnehager og skoler blir mer forskningsbasert, og at erfaringer og oppdatert praksiskunnskap tilbakeføres og bidrar til å styrke lærerutdanningene» (Kunnskapsdepartementet, 2025f).
+
+Lærerutdanningsinstitusjonene og praksisfeltet er underlagt ulike styringsmekanismer. Selv om det har blitt jobbet aktivt med samarbeidet mellom lærerutdanninger og skoler over tid, er målkonflikter en underliggende utfordring. Lærerutdanningens primære ansvar er lærerstudentene, mens lokale skolemyndigheter først og fremst har ansvar for elevene (Kunnskapsdepartementet, 2017a). Skole og lærerutdanning har ulike kjerneoppgaver. Det å drive partnerskap har ofte vært finansiert fra lærerutdanningene og på deres initiativ og ansvar. Det har derfor vært en utfordring å skape reell likeverdighet i partnerskapene (Faglig råd for lærerutdanning, 2020b).
+
+Kostbare utdanninger og krevende ressurssituasjon
+
+Evalueringer av lærerutdanningene viser gjennomgående at lærerutdanningene er kostnadskrevende utdanninger (Advisory Panel for Teacher Education, 2020; Følgjegruppa for lærarutdanningsreforma, 2015; NOKUT, 2022). Praksis er en viktig, men kostbart og administrativt krevende del av utdanningene (Munthe et al., 2024). Lærerutdanningene betaler skolesektoren for praksisplasser, og ordningen er hovedsak regulert med utgangspunkt i øvingslæreravtalen. Lærerutdanningene har høye utgifter til praksis (Oslo Economics, 2025). Lærerutdanningene er i tillegg integrerte masterutdanninger og er avhengige av høyt kompetente fagmiljøer fra ulike disipliner for å kunne tilby masterutdanning i bredden av skolens undervisningsfag. Dette er kostnadsdrivende.
+
+Svikten i rekrutteringen til lærerutdanningene gjør ressurssituasjonen i lærerutdanningene krevende. Lave opptakstall fører til mindre studiepoengproduksjon og redusert resultatbasert finansiering til lærerutdanningene to år senere (Munthe et al., 2024). Endringer i finansieringsmodellen for høyere utdanning fra 2025 gjør at nedgangen i antall lærerstudenter får store økonomiske konsekvenser for institusjonene. I en undersøkelse fra 2024, kom det fram at flere av institusjonene som tilbyr lærerutdanningene vurdere kutt i fagtilbudet som følge av nedgangen i søkertall (Haugen et al., 2024). En slik krevende ressurssituasjon vil kunne tvinge fram at innovasjon og utvikling må nedprioriteres. Dersom lærerutdanningene får for lite ressurser, kan det føre til en dårligere av kvalitet og studietilbud ved lærerutdanningsinstitusjonene. En svekkelse av lærerutdanningene vil i neste omgang kunne føre til en svekkelse av fellesskolen.

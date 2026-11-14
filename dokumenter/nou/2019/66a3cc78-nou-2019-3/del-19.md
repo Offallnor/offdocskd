@@ -1,955 +1,447 @@
-# NOU 2019: 3, del 19 av 25 (side 217–227)
+# NOU 2019: 3, del 19 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 217]
+# Grunnskolens innhold og organisering
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Grunnskolen bygger på prinsippet om at alle elever skal fullføre med likeverdig kompetanse, og være kvalifisert til å søke på alle utdanningsprogrammene i videregående opplæring. Grunnskolen skal også være en inkluderende opplæringsarena for alle elever.
 
-mer mangfoldig og innovativ tilbyderside for digitale læremidler.
-Selv om det på lengre sikt blir flere og mer innovative læremidler tilgjengelig på denne måten,
-blir det ikke nødvendigvis lettere for lærere og
-skoler å velge riktig læremiddel for sine elever.
-Utvalget mener derfor det også er behov for tiltak
-for å styrke etterspørselssiden av læremiddelmarkedet. En løsning er å etablere en internettportal
-med verktøy for å vurdere og sammenligne læremidler etter nasjonalt fastsatte kvalitetskriterier.
-En slik tjeneste bør fungere som en veiledning for
-lærere og skoler i valg av læremidler.
-Utvalget mener det også bør innføres krav om
-at skoler bare kan kjøpe inn læremidler som er
-fagfellevurdert etter de samme nasjonalt fastsatte
-kvalitetskriteriene. Fagfellevurdering er en metode
-for kvalitetssikring som i stor grad blir brukt ved
-vitenskapelig publisering og har som formål å hindre publisering av manuskripter med for lav faglig
-kvalitet. Fagfellevurdering innebærer at andre
-fagpersoner innenfor samme felt vurderer manuskriptet og gir anbefaling om hvorvidt det bør
-publiseres. Et slikt krav vil prinsipielt sett ligge på
-etterspørselssiden fordi det er skolene som må
-velge å kjøpe inn fagfellevurderte læremidler,
-men vil samtidig kunne skape et større press på
-forlagene og andre tilbydere om å publisere fagfellevurderte læremidler ettersom læremidler uten
-fagfellevurdering ikke vil kunne bli kjøpt inn av
-skolene.
-Utvalget anbefaler
-–
-–
+En større tilrettelegging av grunnskolens innhold og organisering etter gutter og jenters kjønnstypiske interesser, motivasjon og holdninger kan bidra til mer læring. På den annen side kan økt tilrettelegging i grunnskolen føre til mer kjønnstypiske utdanningsvalg som på lengre sikt kan skape mer kjønnsubalanse i senere utdanning og arbeidsliv. Økt tilrettelegging kan også gå på bekostning av læring av undervisningsfag og ferdigheter som er viktige for livet senere. Utvalgets anbefalinger forsøker å balansere disse ulike hensynene.
 
-–
+## Undervisningsfagene i grunnskolen
 
-opprette såkornfond for digitale læremidler
-forvaltet på oppdrag fra Innovasjon Norge.
-etablere en felles nasjonal internettportal for
-vurdering og sammenligning av digitale læremidler etter nasjonalt fastsatte kvalitetskriterier for det enkelte fag.
-innføre krav om at skoler kun kan kjøpe inn fagfellevurderte læremidler etter nasjonalt fastsatte kvalitetskriterier for det enkelte fag.
+Læreplanverket styrer i stor grad det faglige innholdet i grunnskolen gjennom å fastsette timetall, kompetansemål og vurderingsform i de ulike undervisningsfagene. Det pågående arbeidet med fagfornyelsen innebærer at grunnskolen får et nytt læreplanverk fra 2020. Læreplanene skal bli mer relevante for fremtidens kompetansebehov og ha tydeligere prioriteringer og sammenhenger mellom fagene som legger til rette for dybdelæring. Demokrati og medborgerskap, bærekraftig utvikling og folkehelse og livsmestring skal inngå som tverrfaglige temaer i læreplanene for alle fag der det er relevant.
 
-14.4 Organisering av elever
-i grunnskolen
-Regelverket om organisering av elever legger til
-grunn at opplæringen skal bygge på og ivareta
-mangfoldet i bakgrunnen og forutsetningene for
-elevene. Elevene skal utvikle gjensidig respekt og
-toleranse for hverandre uavhengig av kjønn, sosiale, kulturelle, økonomiske og evnemessige forutsetninger. I opplæringsloven § 8-2 står det blant
+### Læreplaner for undervisningsfag
 
-215
+Dersom dagens fag- og timefordeling skal beholdes er det etter utvalgets vurdering særlig vektleggingen av fysisk aktivitet, livsmestring og psykisk helse, og holdninger til kjønnsmangfold i fagenes innhold, som kan redusere kjønnsforskjellene i grunnskolen.
 
-Kapittel 14
+Kroppsøving er det eneste faget i grunnskolen der guttene får bedre standpunktkarakterer enn jentene i gjennomsnitt, og fysisk aktivitet er også det valgfaget i grunnskolen som flest gutter velger. Kunnskapsgrunnlaget viser at fysisk aktivitet kan virke positivt for gutter og jenter, men det er uklart hvilke aspekter ved fysisk aktivitet som bidrar til økte prestasjoner. Forskning viser også at læring i forbindelse med fysisk aktivitet virker positivt på regneferdighetene for lavt presterende elever, og særlig for gutter. Slik læring utgjør derimot lite forskjell for elever som har stort utbytte av ordinær undervisning, slik som høyt presterende jenter. Utvalget mener det er grunnlag for å styrke faget kroppsøving og fysisk aktivitet i grunnskolen. Samtidig pågår det allerede en systematisk utprøving av fysisk aktiv læring og én undervisningstime ekstra til kroppsøving. Utvalget anbefaler derfor at ytterligere forslag om å styrke fysisk aktivitet eller faget kroppsøving i grunnskolen bør vurderes på bakgrunn av resultatene fra denne utprøvingen.
 
-annet: «Til vanleg skal organiseringa ikkje skje
-etter fagleg nivå, kjønn eller etnisk tilhør.» Uttrykket «til vanleg» angir lovens utgangspunkt og
-hovedregel. Hovedregelen kan fravikes når det
-etter en konkret totalvurdering foreligger tilstrekkelig tungtveiende elevhensyn (Kunnskapsdepartementet, 2017).
-Med det som utgangspunkt legger regelverket
-til grunn at elever kan organiseres etter faglig
-nivå dersom dette er nødvendig for at elevene skal
-få et forsvarlig utbytte av opplæringen. Vurderingen av behovet må gjøres for konkrete tilfeller og
-jevnlig for at slik organisering skal være tidsbegrenset. Elevene kan også organiseres etter kjønn
-dersom det etter en konkret totalvurdering foreligger tungtveiende elevhensyn, for eksempel dersom eleven ville oppleve det som integritetskrenkende å motta undervisning med begge kjønn til
-stede. Svømmeundervisning eller andre deler av
-kroppsøvingsfaget kan i konkrete tilfeller være
-slike
-eksempler
-(Kunnskapsdepartementet,
-2017).
-Samlet sett viser kunnskapsgrunnlaget at faglig nivådifferensiering kan virke negativt både
-skolefaglig og sosialt. Det er lite som tyder på at
-elevene i nivådelte grupper anstrenger seg mer
-for å forbedre sine prestasjoner. Et problem med
-faglig nivådeling synes å være at klassene eller
-gruppene med de svakeste prestasjonene ofte blir
-en «endestasjon» for lavt presterende elever, istedenfor grupper der man på en bedre måte kan ivareta deres behov.
-Derimot tyder kunnskapsgrunnlaget på at
-kjønnsdelte klasser og skoler kan være positivt for
-skoleresultater, men at dette kan slå ulikt ut i ulike
-land og skolesystemer. Det er likevel viktig å presisere at studiene som viser positive effekter av
-differensiering etter kjønn er fra land med ganske
-andre kjønnsroller enn i det norske samfunnet.
-Det er dermed uvisst hvorvidt disse studiene har
-relevans for norske forhold. En kartlegging tyder
-på at i underkant av 22 prosent av norske grunnskoler praktiserer kjønnsdelt kroppsundervisning i ulik grad. Skolenes begrunnelser for
-kjønnsdeling er at jentenes deltagelse øker, at jenter har et sårbart selvbilde, at det er fysiske forskjeller mellom jenter og gutter, at gutter dominerer aktiviteten, og at jenter og gutter har ulike
-interesser og behov (Klomsten, 2016).
-Utvalgets vurderinger
-Etter utvalgets vurdering er det eksisterende
-regelverket om faglig nivådifferensiering velbegrunnet i relevant forskning. Selv om kunnskaps-
+Kunnskapsgrunnlaget viser også at sosiale og emosjonelle ferdigheter påvirker elevenes læring gjennom blant annet evnen til selvregulering, og at jenter har bedre evner enn gutter til selvregulering fra småbarnsalderen og gjennom skoleløpet. Kjønnsforskjeller i selvregulering kan være med på å forklare hvorfor jenter får bedre skolekarakterer og gjennomfører høyere utdanning i større grad enn gutter. Både gutter og jenter opplever skolestress, men det har vært en særlig økning i opplevd skolestress for jenter på ungdomstrinnet i de siste ti årene. Selvrapporterte depressive symptomer har også økt blant jenter i de siste årene, noe som kan påvirke frafall senere i opplæringsløpet og inntekt i arbeidslivet. Læring av mestringsstrategier for å håndtere skolestress og bevisstgjøring av jenter og gutters ulike psykiske vansker kan virke forebyggende. Etter utvalgets vurdering gir kunnskapsgrunnlaget støtte til å legge mer vekt på livsmestring og psykisk helse i grunnskolen.
 
-[Side 218]
-
-216
-
-Kapittel 14
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-grunnlaget samlet sett viser at faglig nivådifferensiering kan virke negativt både skolefaglig og sosialt, finner studier også moderate positive effekter
-av nivådeling innad i hver klasse og i enkeltfag på
-tvers av klasser innenfor hvert kull. Etter utvalgets vurdering bør det derfor fortsatt være mulig
-å differensiere elevene etter faglig nivå. Samtidig
-er utvalget bekymret for mer omfattende former
-for nivådifferensiering, særlig dersom slike grupper blir permanente over lengre tidsperioder.
-Kunnskapsgrunnlaget viser at klassene eller
-gruppene med de svakeste prestasjonene ofte blir
-«endestasjonen» for lavt presterende elever, istedenfor grupper der man på en bedre kan ivareta
-deres behov. Utvalget mener at terskelen for faglig nivådifferensiering bør være høy. Utvalget
-mener derfor det bør utredes nærmere hvorvidt
-det er behov for å presisere vilkår i opplæringsloven § 8-2 for å motvirke omfattende former for differensiering av elever etter faglig nivå. Eksempler
-på slike vilkår kan være at organisering av elever
-etter faglig nivå skal være tidsavgrenset og evalueres regelmessig.
-Det finnes mindre forskning på effekten av
-kjønnssegregerte skoler eller klasser på norske
-jenter og gutters skoleprestasjoner. Samtidig
-
-mener utvalget at det er sterke prinsipielle argumenter mot å dele inn skoler og klasser etter
-kjønn, også som systematiske utprøvinger for å
-finne eventuelle læringseffekter. Skolen skal
-bygge på mangfoldet i elevenes bakgrunn. Samfunnet elevene møter utenfor skolen og etter endt
-utdanning er mangfoldig. Et mangfold av elever i
-skolehverdagen vil også utfordre elever til å utforske nye interesseområder og ferdigheter og redusere kjønnsstereotypiske oppfatninger ved at elevene blir gjort mer oppmerksom på sine egne kjønnede oppfatninger. Etter utvalgets vurdering bør
-terskelen for å kunne organisere elevene etter
-kjønn og etnisk tilhørighet være vesentlig høyere
-enn terskelen for å kunne organisere elevene
-etter faglig nivå.
-Utvalget anbefaler
-–
-
-Opplæringslovutvalget utreder nærmere hvorvidt det er behov for å presisere vilkår i opplæringsloven § 8-2 for å motvirke omfattende former for differensiering av elever etter kjønn og
-faglig nivå.
-
-[Side 219]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-217
-
-Kapittel 15
-
-Kapittel 15
-
-Overganger i utdanningsløpet
-Overganger mellom utdanningsløp og mellom
-utdanning og arbeid, kan utgjøre en mulighet for
-miljøskifte og fornyet motivasjon for arbeidsinnsats. På den annen side påvirker elevenes tidligere
-læring og karakterresultater videre muligheter og
-prestasjoner. Gutter er særlig utsatt i overganger,
-av flere grunner.
-For det første har flere gutter enn jenter lave
-grunnskolepoeng, og det er en sterk sammenheng mellom grunnskolepoeng og sannsynligheten for å fullføre videregående opplæring. For
-elever med lave grunnskolepoeng er også valget
-av utdanningsprogram viktig: I gruppene med
-under 35 grunnskolepoeng er fullføringsandelen
-3–4 prosentpoeng lavere i studieforberedende
-program sammenlignet med yrkesfag (Statistisk
-sentralbyrå, 2018b). Elever uten grunnskolepoeng og elever med lave grunnskolepoeng har
-større sannsynlighet for å oppnå grunnkompetanse gjennom lærekandidatordningen enn å fullføre et yrkesfaglig utdanningsløp (E. Markussen,
-Grøgaard & Hjetland, 2018). Samtidig som utdanningsvalg virker viktig for fullføring blant elever
-med svake grunnskolekarakterer er denne gruppens valgmuligheter begrenset.
-Dernest kan gutters senere modning være en
-utfordring når elevene står overfor viktige utdanningsvalg allerede i 15-årsalderen. Valgmodenhet
-er en betydelig utfordring i den norske utdanningsstrukturen, og rådgivning og utprøving kan
-utvikle elevenes valgmodenhet (Holen, 2014).
-Hegna (2014) viser at gutter som ønsker å ta høyere utdanning på 9. trinn i større grad endrer
-mening på 10. trinn og Vg2 enn jenter, i en studie
-fra Oslo. At noen elever og særlig gutter har
-senere fysisk modning, henger sammen med
-langsommere utvikling i kognitive ferdigheter
-(Koerselman & Pekkarinen, 2018). Det kan potensielt sett være en årsak til svake karakterprestasjoner.
-Det er også få gutter som har anledning til å
-velge et studieforberedende utdanningsprogram
-
-som følger deres interesser. I 2017–2018 valgte
-over 40 prosent av guttene fysisk aktivitet som
-valgfag i ungdomsskolen, og fagene programmering og teknologi i praksis hadde over 80 prosent
-gutteandel der disse fagene ble tilbudt (Utdanningsdirektoratet, 2018h). Samtidig fikk kun 6
-prosent av elevene plass på idrettsfag i 2017 og 3
-prosent fikk plass på medier og kommunikasjon
-(Utdanningsdirektoratet, 2018f).
-Kjønnsforskjellen i oppnådd utdanning fortsetter i høyere utdanning. Dette gjenspeiler at flere
-jenter velger studieforberedende fag og flere gutter velger yrkesfag, og hele 7 av 10 lærlinger er
-menn (Beregning gjort av Utdanningsdirektoratet
-for utvalget, 2018).
-Overganger i utdanningssystemet representerer en mulighet for samfunnet til å påvirke kjønnstradisjonelle valg. Kjønnsdeling i arbeidslivet kan
-være negativt for inntektsutjevning, arbeidsmiljø
-og profesjonsutvikling (Holter, Svare & Egeland,
-2008; Østbakken mfl., 2017). Dette handler til dels
-om at søkergruppen til en del fag er svært kjønnsdelt, både i videregående opplæring og høyere
-utdanning. Et annet problem er at enkelte utdanninger og skoler har svært høye inntakskrav eller
-særskilte krav som kan slå ut forskjellig for ulike
-kjønn.
-
-15.1 Utdanningsoverganger fra
-ungdomstrinnet
-I dag er det utdanningsstrukturen som i stor grad
-bestemmer når elevene tar utdanningsvalg, og i
-hvilke aldre deres prestasjoner får følger for
-videre utdanningsløp. Siden ungdoms utvikling
-skjer i ulik takt, er ikke alle elever klare for å ta
-utdanningsvalg i 10. klasse (Holen, 2014). Siden
-gutter har senere fysisk modning som henger
-sammen med kognitiv utvikling, er det grunn til å
-tro at dette tidspunktet er mer ugunstig for gutter
-enn for jenter.
-
-[Side 220]
-
-218
-
-Kapittel 15
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Alternative tiltak
-Alternativ a: Flytte vurdering og karakterbasert
-opptak fra 10. klasse til Vg1
-Med dette alternativet vil elevene få terminkarakterer i 10. klasse, men standpunktkarakterer og
-avsluttende eksamen flyttes til etter Vg1. Elevene
-vil kunne velge mellom et yrkesfaglig og et studieforberedende grunnkurs, og det innføres et
-utprøvingsfag, der elever får testet utdanningsretninger i tidsavgrensede moduler. Det kan også
-vurderes å flytte undervisningen fra videregående
-opplæring til ungdomsskolen, og om undervisningen skal gjøres obligatorisk.
-Alternativ b: Åpne for at elever kan forbedre karakterer som privatist
-Dette alternativet åpner for at elever kan forbedre
-grunnskolekarakterer som privatist, men innfører ikke tilbud om et utforskende skoleår etter
-grunnskolen. Dette alternativet forutsetter at private skoler vil skape et undervisningstilbud for
-denne gruppen, slik tilfellet er etter videregående
-opplæring.
-Alternativ c: Utforskende skoleår med mulighet for å
-forbedre karakterer
-Med dette alternativet får elevene mulighet til å
-forbedre karakterer i kjernefag og utforske valgfag og ulike yrker. Fylkeskommunen bør få ansvar
-for ordningen, og kan løse oppgaven på flere
-måter. Folkehøyskoler bør også kunne tilby skoleåret og disse vil muligens trenge større frihet til å
-sette sammen innholdet. Ideelt bør elever ha flere
-ulike tilbud om utforskende skoleår å velge mellom for å treffe elever med ulike utfordringer.
-Tilbudet bør utformes for ungdom som står i
-fare for å ikke fullføre videregående opplæring.
-Samtidig bør alle elever får tilbud om skoleåret
-ettersom det er vanskelig å sette en klar grense
-for hvilke elever som kan ha nytte av tilbudet.
-Man bør likevel unngå at elever som har godt
-grunnlag for å klare seg i videregående opplæring
-ser seg nødt til å ta et ekstra år for å forbedre
-karakterene sine. En løsning er å begrense antall
-fag som kan forbedres, for eksempel til norsk,
-matematikk og engelsk. En slik begrensning vil
-også sikre at ordningen ikke reduserer insentivene til å prestere godt på ungdomsskolen.
-
-Alternativ d: Utforskende skoleår uten mulighet for å
-forbedre karakterer
-Med dette alternativet får elevene tilbud om et
-utforskende skoleår, men uten mulighet for å forbedre vitnemålet. Irland har et slikt alternativt
-skoleår som går under betegnelsen The Transition Year Programme på flertallet av ungdomsskolene. Programmet har et sterkt fokus på personlig
-og sosial utvikling. (Jeffers, 2011). Skolene har
-stor frihet til å utvikle eget innhold, og det er
-ingen formell avgangseksamen. Det mangler
-kunnskap på om dette påvirker frafall i videregående opplæring.
-Utvalgets vurderinger
-Utvalget mener at dagens manglende fleksibilitet
-med hensyn til valgtidspunkt og alder ved tellende
-karakterer ikke gjenspeiler viktigheten av valgene
-og den bredden i modning som finnes i elevmassen ved 15-årsalderen.
-Etter utvalgets vurdering skaper ikke alternativet om å flytte tidspunktet for vurdering og karakterbasert opptak til Vg1 mer fleksibilitet i
-systemet. Ungdom som sliter på skolen får ikke
-mulighet til å innhente seg faglig. Skoletrett ungdom vil få utsatt sin mulighet til å følge sine egne
-interesser, noe som kan øke risikoen for frafall i
-Vg1. Kjønnsforskjellene i karakterer på yrkesfag
-og studiespesialisering hver for seg er dessuten
-omtrent like store etter Vg1, og tiltaket vil dermed
-ha begrenset effekt (Grøgaard & Arnesen, 2016).
-Utvalget mener at alternativet med å åpne for
-at elever kan forbedre karakterer fra grunnskolen
-som privatist, gir noe mer fleksibilitet. Ettersom
-alternativet ikke inneholder et motiverende eller
-utforskende element vil tilbudet imidlertid ikke
-være spesielt godt egnet for skoletrett ungdom.
-Dette alternativet vil trolig føre til mer konkurranse i opptaket til videregående opplæring. Det
-vil også være en betydelig kostnad for elevene
-som foreldrene eller Lånekassen må dekke.
-Utvalget anbefaler at alternativet med et utforskende skoleår innføres som et tilbud, men på en
-måte som kan effektevalueres. Evalueringene av
-den danske ordningen gir grunnlag for å tro at et
-utforskende skoleår vil føre til bedre faglige prestasjoner og økt motivasjon, som igjen antas å
-kunne føre til økt fullføring av videregående opplæring. Utvalget legger vekt at alternativet kan
-være spesielt gunstig for gutter. Det er likevel
-behov for bedre kunnskap om hvilke effekter
-slike tilbud har for elevenes læring og utvikling.
-
-[Side 221]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Evalueringen bør vurdere om tilbudet skal utvides
-til en rettighet eller avvikles.
-Utvalget presiserer at det utforskende skoleåret ikke bør komme på bekostning av tidligere
-innsats, men gi elever anledning til å gjenvinne
-motivasjon for skolearbeid, dekke faglige hull og
-forbedre karakterer i enkelte fag, og sette elever i
-stand til å ta gode yrkes- og utdanningsvalg.
-Alternativet med et utforskende skoleår er
-relativt kostbart jf. kapittel 16. Beregninger viser
-at 1 av 7 elever som ellers ikke hadde fullført videregående opplæring må fullføre som følge av tiltaket, for at tiltaket skal være samfunnsøkonomisk
-lønnsomt.
-Utvalget anbefaler
-–
-
-utvikle og effektevaluere tilbud om et utforskende skoleår etter grunnskolen.
-
-15.2 Endringer i inntaksforskriften til
-videregående opplæring
-Omtrent 98 prosent av elevene fra grunnskolen
-starter direkte i videregående opplæring. Inntaksreglene for videregående opplæring har dermed
-betydelige konskvenser for svært mange elever.
-Utvalget mener inntakssystemet for videregående
-opplæring bør legge til rette for gode faglige prestasjoner i grunnskolen og videregående skole,
-og at flere fullfører videregående opplæring. Inntakssystemet bør også sikre likebehandling og
-motarbeide kjønnssegregering i yrkeslivet, av
-hensyn til samfunnets behov for yrkesutøvere av
-begge kjønn og individets reelle muligheter til å
-velge blant et bredt spekter av yrker.
-
-15.2.1 Åpne for alternativer til karakterbasert
-inntak
-Etter dagens forskrift er inntak i videregående
-utdanning basert på grunnskolepoeng. Fylkeskommuner fastsetter nærmere regler gjennom en
-lokal forskrift om inntak. I noen fylker er det i
-praksis et geografisk inntakssystem, enten fordi
-hvert inntaksområde dekker få skoler eller fordi
-få elever søker seg til andre skoler, enn sin nærskole. Det er først og fremst i og rundt byene
-Oslo, Bergen og Stavanger at det er sterk konkurranse om elevplassene på de mest populære skolene.
-Dagens inntakssystem gir valgfrihet først og
-fremst til elever med høyt karakternivå, selv om
-
-219
-
-Kapittel 15
-
-valg av utdanningsprogram og motivasjon betyr
-mye for fullføringsgraden til lavt presterende
-elever. Gjennom å belønne gode karakterer med
-økt valgfrihet holder systemet dessuten elevene
-ansvarlig for hele sin prestasjon, også den delen
-som skyldes kjønn, sosial bakgrunn og læringsutbytte fra barneskolen. Dette står i kontrast til idealet for evaluering av skoler, som justerer for forskjeller som skyldes elevbakgrunn og tidligere
-prestasjoner for at alle skoler skal likebehandles
-(Falch, Bensnes & Strøm, 2016; E. Markussen
-mfl., 2017; Steffensen mfl., 2017).
-Systemet med karakterbasert inntak har også
-noen fordeler. Ordningen respekterer elevenes
-ønsker i så stor grad som mulig, og det er ikke
-mulig for to elever å bytte skoleplass uten at minst
-en av dem ender opp med en mindre ønsket plass.
-En annen fordel med karakterbasert inntak er at
-det skaper konkurranse mellom elever som stimulerer til bedre prestasjoner (Haraldsvik, 2014).
-Konkurranse kan imidlertid også føre til skolestress og lavere skolemotivasjon. Overgangen
-fra regionbasert til felles karakterbasert opptak i
-Oslo førte til lavere motivasjon for skolen blant
-jenter i 10. klasse (Hopland & Nyhus, 2016). En
-del elever med karakterer rundt inntaksgrensene
-opplever at hver enkeltkarakter blir svært viktig
-for videre opptak. Samtidig har en god del elever
-for lave poengsummer til å konkurrere om inntak
-ved de fleste av skolene, og noen elever kommer
-inn der de ønsker selv med liten innsats i ungdomsskolen.
-En mulighet er at gutter og eventuelt andre
-lavt presterende grupper får generelle ekstrapoeng når de søker om videregående opplæring.
-Siden fylkeskommuner ikke har tilgang på bakgrunnsvariable som foreldres utdanning på sine
-elever, vil ekstrapoeng for å bedre sosial utjevning
-måtte medføre tilleggspoeng til bydeler med lav
-gjennomsnittsinntekt. Utenfor de store byene
-kunne man tenkt seg at elever fra kommuner med
-lav gjennomsnittsinntekt fikk tilleggspoeng. Det
-er vanskelig å tenke seg at et system med generelle ekstrapoeng kan bli særlig treffsikkert for å
-nå gutter eller svakt presterende grupper. Det er
-en betydelig andel gutter som ikke har problemer
-med å konkurrere med jenter om skoleinntak, og
-bydeler med svakere prestasjoner har områder og
-elever med svært høyt utdannede foreldre. Det vil
-være vanskelig å avgjøre hvilke kriterier som skal
-legges til grunn for ekstrapoeng. Dette alternativet gjør heller ikke noe med utfordringen ved at
-konkurransetrykket blir svært ulikt fordelt mellom individer.
-
-[Side 222]
-
-220
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Andel elever
-
-Kapittel 15
-
-10%
-
-20%
-
-40%
-
-20%
-
-10%
-
-Gjennomsnitt av nasjonale prøver 8.trinn
-
-Mestringsnivå 1
-
-Mestringsnivå 2
-
-Mestringsnivå 3
-
-Mestringsnivå 4
-
-Mestringsnivå 5
-
-Grunnskolepoeng 10. trinn
-
-Skoleinntak
-
-Figur 15.1 Skjematisk fremstilling av inntaksmodell basert på karakterprogresjon.
-Utvalgets vurderinger
-Inntak basert på karakterprogresjon
-Utvalget foreslår å utrede om fylkeskommunene
-bør kunne basere inntaket på karakterprogresjon i
-stedet for karakterer, i tillegg til ordinært karakterbasert inntak og geografisk bestemt inntak.
-Med karakterprogresjon mener utvalget hvor mye
-eleven har løftet seg i prestasjoner gjennom ungdomsskolen. Dette vil belønne innsatsen som
-elevene legger i ungdomsskolen, men ikke
-ansvarliggjøre elevene for forhold som de ikke
-selv kan gjøre noe med.
-Det er flere måter å gjøre dette på. En løsning
-er å dele elevene inn i mestringsnivåer basert på
-resultater fra de nasjonale prøvene på 8. trinn, og
-at elevene konkurrerer om inntak til videregående med karakterene fra 10. trinn innen sitt
-mestringsnivå. Mestringsnivåene defineres gjennom et snitt av de nasjonale prøvene på 8. trinn.
-Hvert mestringsnivå gis en kvote av opptaket på
-hver skole, basert på andelen som har søkt fra
-dette mestringsnivået, jf. figur 15.1.
-Det vil gjøre at det er akkurat like vanskelig å
-komme inn på en skole for elever på alle mestringsnivåer, og elevene konkurrerer da bare med
-andre elever med de samme forutsetningene. Flere
-gutter enn jenter vil befinne seg på de lavere mestringsnivåene og ordningen vil trolig respektere
-gutters preferanser mer i skoleinntaket. Imidlertid
-vil ikke tiltaket innebære at systemet utjevner for-
-
-skjeller i elevmassen mellom videregående skoler
-som skyldes seleksjon, for eksempel ved at høyt
-presterende elever søker seg til en bestemt skole.
-Utvalget ser minst to mulige utfordringer ved
-å bruke nasjonale prøver til dette formålet. Den
-ene er at de nasjonale prøvene ikke er et treffsikkert mål på prestasjonsnivå for alle elever. En
-annen utfordring er at det kan gi elevene insentiver til å prestere dårligere på den nasjonale prøven på 8. trinn for å bli plassert i et lavere mestringsnivå i skoleinntaket. Det bør derfor gis rom
-for at lærere kan omplassere elever som har
-karakterer som ligger nærmere snittet til et annet
-mestringsnivå enn sitt tilordnede 1. termin og
-eventuelt 2. termin på 8. trinn. Hvor mange dette
-vil gjelde vil blant annet avhenge av antall mestringsnivåer, men for at det skal gi mening å
-benytte nasjonale prøver på denne måten bør
-dette gjelde et mindretall. Dette kan åpne for uheldige forsøk på påvirkning av lærerens avgjørelse
-fra elevens side. Dette kan også åpne for større
-grad av sosiale forskjeller mellom elever, da elever
-fra ressurssterke hjem og jenter vil kunne være
-bedre til å påvirke systemet. Samtidig er det slike
-utfordringer ved måten karakterer basert på
-lærervurdering fungerer også i dag.
-En annen utfordring med denne modellen er
-at den er mindre oversiktlig enn dagens modell.
-Det vil bli mindre gjennomsiktig hvordan man ligger an for å komme inn på ulike videregående
-skoler, og det kan føre til lavere innsats og motiva-
-
-[Side 223]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-sjon fordi man ikke forstår systemet. Elevene bør
-få oppgitt sitt mestringsnivå og karaktersnitt i
-mestringsnivået hver termin, og inntaksgrenser
-etter mestringsnivå bør offentliggjøres. Gjennom
-offentliggjøring av inntaksgrenser og søkertall
-opprettholder ideelt sett skolene fortsatt en konkurranse mellom seg om elevene og det vil være
-attraktivt å jobbe på skoler med elever som er i
-stand til å forbedre sine skoleprestasjoner. Skoler
-får dessuten uttelling for å gjøre seg attraktiv for
-andre elevgrupper enn de høyest presterende.
-Selv om karakterprogresjon har blitt beregnet
-ved flere anledninger i forsknings- og styringssammenheng, er inntak til videregående skole
-basert på dette i stor grad nybrottsarbeid. Utvalget anbefaler derfor at alternativet utredes grundig ved bruk av ekstern utlysning. Etter utvalgets
-vurdering kan modellen føre til økt fullføring
-ettersom preferansene til lavt presterende elever
-vektlegges i større grad enn i dag. Dessuten gir
-modellen gode insentiver til faglig prestasjon i
-ungdomsskolen, og likebehandler personer med
-likt utgangspunkt på 8. trinn.
-Samtidig vil det kunne være flere utilsiktede
-effekter av tiltaket, og utvalget har ikke full oversikt over disse. En utredning bør simulere hvordan ordningen vil påvirke ulike elevgrupper, dvs.
-hvem som får tilbud som i større grad samsvarer
-med egne preferanser, og hvem som i mindre
-grad får sine ønsker oppfylt. Spesielt bør utredningen anbefale hvor mange mestringsnivå modellen
-bør legge til grunn. I dag defineres mestringsnivå
-på nasjonale prøver etter en femdelt inndeling
-med de laveste 10 prosent, neste 20 prosent, 40
-prosent, 20 prosent og høyeste 10 prosentene av
-elevene i hver gruppe. Deles det i få mestringsnivåer, vil faktorpoeng (poengscoren på nasjonale
-prøver) innen hvert mestringsnivå spille en større
-rolle enn karakterprogresjon i opptaket, og det vil
-være uheldig ut fra prinsippet om likebehandling.
-Deles det i for mange grupper, vil en utfordring
-være knyttet til tak- og bunneffekter og at mange
-program- og skolekombinasjoner kun vil ha en
-eller noen få kandidater fra et mestringsnivå, som
-vil gjøre at inntaket blir mer tilfeldig.
-Inntak basert på enkeltkarakterer eller opptaksprøve/
-intervju
-I dagens forskrift til opplæringsloven kan fylkeskommunen fastsette særskilte regler for inntak til
-Vg1 musikk, dans, drama og idrettsfag der inntil
-50 prosent kan tas opp på grunnlag av dokumentasjon av ferdighet eller inntaksprøve. I utdanningsløp som leder frem til praksisbrevprøve eller til
-
-221
-
-Kapittel 15
-
-både yrkes- og studiekompetanse kan elevene tas
-opp på intervju.
-Gutter har større spredning i sine karakterer
-enn jenter og elever med stor spredning i karakterer har økt risiko for frafall i videregående opplæring, etter at karaktersnittet er tatt hensyn til
-(Sandsør, 2016). Det kan dermed være hensiktsmessig å prioritere elever med et sterkt talent og
-motivasjon innenfor et fagområde i inntaket til
-enkelte fag. Dette må balanseres mot hensynet til
-å skape insentiver for gode prestasjoner i alle fag,
-også blant elever med et særskilt talent.
-Utvalget mener derfor at regelverket bør åpne
-for at fylkeskommuner selv kan velge hvilke
-utdanningsprogrammer som skal kombinere
-karakterbasert opptak med opptak basert på
-dokumentasjon av ferdighet i form av en enkeltkarakter, inntaksprøve, eller intervju. Utvalget
-mener denne myndigheten bør legges til fylkeskommunene ettersom de har ansvar for både å
-øke fullføringsgraden i videregående opplæring,
-og å samarbeide med bedriftene for å finne læreplasser til elevene. Det er dermed naturlig at fylket har dialog med arbeidslivet lokalt for å sikre at
-elevgruppen tilfredsstiller arbeidslivets behov.
-Eksempelvis kunne restaurant og matfag og
-design og håndverk være utdanningsprogram
-som benytter karakter i henholdsvis mat og helse
-og kunst og håndverk eller opptaksprøve i opptaket. Utvalget mener videre at for elever som tas
-opp på en kombinasjon av egnethet og grunnskolepoeng, bør egnethet telle maksimalt 50 prosent.
-Dette vil skape noe sterkere insentiver til karakterprestasjoner også blant elever med et særskilt
-talent enn det dagens kvoteordning vil gjøre.
-Utvalget anbefaler
-–
-–
-
-–
-
-utrede ulike modeller for inntak til videregående opplæring basert på karakterprogresjon
-endre reglene for særskilt opptak slik at elever
-kan tas opp på en kombinasjon av egnethet og
-grunnskolepoeng. Egnethet kan telle maksimalt 50 prosent.
-åpne for at flere utdanningsprogrammer har
-anledning til opptak basert på en kombinasjon
-av grunnskolepoeng og enkeltkarakterer eller
-opptaksprøve og intervju.
-
-15.2.2 Innføre ekstrapoeng der et kjønn er
-underrepresentert
-I behandlingen av Meld. St. 7 (2015–2016) fattet
-Stortinget et vedtak om å be regjeringen utrede
-ekstrapoeng til gutter og jenter som søker på
-
-[Side 224]
-
-222
-
-Kapittel 15
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-utdanningsløp i videregående opplæring med for
-eksempel 80 prosent eller mer av det motsatte
-kjønnet (Vedtak 604, 2015–2016). Utdanningsdirektoratet fikk i oppdrag å vurdere innføring av
-ekstrapoeng etter kjønn ved inntak til videregående opplæring (Utdanningsdirektoratet, 2018c),
-og Kunnskapsdepartementet ba deretter Stoltenbergutvalget vurdere forslaget som del av sitt
-arbeid.
-I dag er søking, opptak og fullføring av videregående utdanningsprogram svært kjønnsdelt. I
-utdanningsprogrammene design og håndverk og
-helse- og oppvekstfag er gutteandelen blant de
-som fullfører i løpet av fem år henholdsvis 11 prosent og 14 prosent. I motsatt ende finner vi byggog anleggsteknikk, teknikk og industriell produksjon og elektrofag, der gutteandelen er mellom 87
-og 96 prosent (Utdanningsdirektoratet, 2018f).
-Utvalgets vurderinger
-For at ekstrapoeng til det underrepresenterte
-kjønn skal gi en effekt, må det finnes søkere som
-er villige til å fylle plassene. Ekstrapoeng til et
-underrepresentert kjønn kan dermed ikke
-erstatte holdningskampanjer eller bevisstgjøring
-blant rådgivere dersom hovedutfordringen ligger
-i kjønnsdelte utdanningsvalg. En mulighet er derfor å intensivere bruk av rekrutteringskampanjer
-for å få flere ungdommer til å velge kjønnsutradisjonelt i opptak til videregående skole. Regelverket kan også forutsette at andre virkemidler har
-vært utprøvd, før mer inngripende virkemidler
-som ekstrapoeng kan benyttes. Dette vil speile
-forskriften for opptak til høyere utdanning, som
-allerede har en slik regel. I Meld. St. 7 (2015–
-2016) vises det til flere gode eksempler på rekrutteringskampanjer for å få flere til å velge kjønnsutradisjonelt. Fylkesmannen i Oppland gjennomførte for eksempel et prosjekt der gutter på ungdomsskolen fikk anledning til å arbeide i barnehager.
-På den annen side er det vanskelig å legge
-dagens søkergruppe til grunn i vurderingen av
-ekstrapoeng ettersom søkerne tar inntaksgrensene i betraktning når de søker på videregående
-skoler. Dersom tallene fra 2017 legges til grunn,
-er det tett samsvar mellom kjønnsdeling i søkertall og i inntak til utdanningsprogrammer, men det
-er ikke fullt samsvar. Dersom alle jenter som
-søkte hadde kommet inn på bygg- og anleggsteknikk, elektrofag og teknikk og industriell produksjon hadde det utgjort 135 flere jenter, som ville
-ha økt andelen på utradisjonelle programmer med
-13 prosent. Hadde guttene som søkte design og
-
-håndverk og helse- og oppvekstfag kommet inn
-ville det gått 124 flere gutter på disse programmene, noe som utgjør 5 prosent av dem som i dag
-går utradisjonelle retninger.
-Dersom det skal innføres ekstrapoeng i inntaket til videregående skole, kan dette gjøres på
-ulike måter. En løsning er å gi ekstrapoeng til det
-underrepresenterte kjønnet der kjønnsforskjellen
-i opptaket til utdanningsprogrammet på nasjonalt
-eller fylkesnivå er skjevere enn 80 prosent i favør
-av et kjønn. En annen løsning er å gi ekstrapoeng
-til det underrepresenterte kjønnet på kombinasjoner av utdanningsprogrammer og skoler der forskjellen er 80 prosent i et kjønns favør i fullføringsandelen.
-Meld. St. 7 (2015–2016) argumenterer for at
-ekstrapoeng eller kvotering vil føre til at kandidater tas inn i en profesjon på bekostning av bedre
-kvalifiserte søkere. Utvalget mener slike konsekvenser må veies mot hensynet til en likere
-kjønnsbalanse i yrkessammensetningen. Det bør
-uansett ikke innføres for mange ekstrapoeng.
-Etter utvalgets vurdering vil mange ekstrapoeng
-være urimelig og kunne skape lavere insentiver til
-karakterprestasjoner for personer med kjønnsutradisjonelle utdanningsambisjoner. Et naturlig
-øvre tak på antall ekstrapoeng ligger muligens i
-den gjennomsnittlige kjønnsforskjellen i grunnskolepoeng.
-Etter utvalgets vurdering vil inkludering av
-kombinasjoner av utdanningsprogram og skoler i
-avgjørelsen om ekstrapoeng ta hensyn til at
-kjønnssegregerte klasser kan ha negative innvirkninger på skolemiljø og skoleprestasjoner, særlig
-for gutter. Ved å benytte fullføringsgrad i stedet
-for kjønnsforskjell i opptak vil man også endre på
-forskjeller i profesjonssammensetningen, som
-kan bli skjev til tross for et jevnt opptak dersom et
-kjønn fullfører utdanning i mindre grad enn det
-andre.
-Utvalget mener derfor at regelverket bør åpne
-for utprøvinger av to ekstrapoeng, og at det deretter vurderes om effekten av tiltaket tilsier at
-ekstrapoengene bør økes. Etter utvalgets vurdering vil tiltaket antagelig ha begrenset effekt ettersom hovedutfordringen med kjønnsdelte utdanningsløp ligger i kjønnsdelt søking. For å styrke
-rekrutteringen bør tiltaket betinges på at fylkeskommunen har forsøkt andre virkemidler.
-Utvalget mener videre at beslutninger om
-bruk av ekstrapoeng bør tas lokalt. Fylkespolitikere er bedre i stand til å vurdere lokale behov for
-ekstrapoeng og veie dette mot andre hensyn. Fylkene bør også drøfte tidsbegrensninger for tiltaket. Fylkeskommunen bør kunne opprettholde
-
-[Side 225]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-ekstrapoengene frem til en mindre skjev fordeling
-enn 80/20 holder seg stabil over tid.
-Utvalget anbefaler
-–
-
-fylkeskommuner kan gi inntil to ekstrapoeng
-til det underrepresenterte kjønnet på utdaningsprogrammer og skoler der kjønnsfordelingen er skjevere enn 80/20.
-
-15.2.3 Minstekrav for opptak til
-studiespesialisering
-Etter dagens inntaksordning kan elevene søke
-fritt på alle utdanningsprogrammer. Selv om
-karakterforskjeller ligger til grunn for inntaket,
-kan likevel elever havne i utdanningsløp der de
-har svært svake faglige forutsetninger for å gjennomføre. Blant elever med 10–24 grunnskolepoeng fullfører kun 16 prosent av de som begynner
-på studieforberedende program innen fem år, og
-20 prosent fullfører i yrkesfag. I gruppene med
-under 35 grunnskolepoeng er fullføringsandelen
-3–4 prosentpoeng lavere i studieforberedende
-program sammenlignet med yrkesfag, og samtlige grupper har lavere fullføringsandel enn 50
-prosent (Statistisk sentralbyrå, 2018b). Lave
-grunnskolepoeng er et signal om både svake forutsetninger og lav motivasjon for å gjennomføre et
-teoritungt utdanningsprogram som studiespesialisering. I de to laveste gruppene er menns fullføringsandel høyere enn kvinners. Videre er kjønnsforskjellen mellom yrkesfag og studieforberedende større for gutter, på 5–8 poeng i de ulike
-gruppene.
-Mange praktiske og interessebaserte utdanningsprogrammer er utilgjengelige for gruppen
-med de laveste karakterene, og en del ender opp i
-studiespesialiserende programmer. I gruppene
-med 10–24 grunnskolepoeng og 25–29 grunnskolepoeng begynte henholdsvis 8 prosent og 9 prosent på studieforberedende linjer i 2012, mens
-dette gjaldt 20 prosent i gruppen med 30–34
-grunnskolepoeng. Studiespesialisering er et billig
-utdanningsprogram for fylkeskommunene, og
-elevene går ofte i store klasser, som ikke er godt
-egnet for elever som trenger mye tilrettelagt
-undervisning.
-
-223
-
-Kapittel 15
-
-studiespesialiserende løp for elever med under 35
-grunnskolepoeng kan en slik grense være det
-beste for elevene, selv om det innskrenker deres
-valgmuligheter. Hensikten med tiltaket er at fylkeskommunene skal forplikte seg til å tilby andre
-attraktive utdanningstilbud for denne gruppen
-snarere enn at elever skal stenges ute fra et tilbud.
-Utvalget vurderer hensynet til økt fullføring som
-særlig tungtveiende og mener derfor at også inngripende tiltak som dette bør vurderes for å endre
-på det faktum at elever med svake grunnskolepoeng har svært lav fullføringsgrad.
-Utredningen bør drøfte ulike modeller for en
-slik nedre karaktergrense. For eksempel kan et
-minstekrav ha et visst rom for unntak for enkeltelever basert på en anbefaling fra lærer eller rådgiver fra ungdomsskolen. Utredningen bør også
-drøfte fordeler og ulemper med en veiledende
-norm for en nedre karaktergrense som pålegger
-rådgivere å anbefale andre utdanningsløp enn studiespesialisering til elever med svake karakterer
-fra grunnskolen.
-For utvalget er det en forutsetning for en
-nedre grense for opptak til studiespesialisering at
-flere av de andre anbefalingene fra utvalget gjennomføres. Det gjelder særlig forslaget om et utforskende skoleår etter grunnskolen der elevene får
-mulighet til å forbedre sine karakterer og faglige
-prestasjoner, opptak til videregående opplæring
-basert på en kombinasjon av grunnskolepoeng og
-egnethet og styrking av utdanningsløp som kombinerer studieforberedende og yrkesfaglige utdanningsprogrammer.
-Utvalget mener også at elever uten eller med
-færre enn 30 grunnskolepoeng og som ønsker å
-begynne på yrkesfaglige utdanningsprogrammer,
-bør anbefales lærekandidatordningen. Også på
-yrkesfaglige utdanningsprogrammer er et tilstrekkelig faglig grunnlag fra grunnskolen en forutsetning for å lykkes med opplæringen.
-Utvalget anbefaler
-–
-
-utrede en nedre karaktergrense for opptak til
-studiespesialisering, for eksempel på 35 grunnskolepoeng.
+Til slutt viser kunnskapsgrunnlaget at gutter og jenter har kjønnstypiske forventninger til sine egne prestasjoner på tvers av mange land. Guttene har mindre tillit til sine språkferdigheter enn jenter, og presterer dårligere på lesetester dersom de i forkant blir fortalt at de skal testes i lesing. Jenter har lavere forventninger til sine egne matematikkferdigheter. Norske jenter og gutter har imidlertid ganske lik selvtillit i matematikk. Gutter og jenter velger kjønnstypiske utdanninger og yrker i mange land. Etter utvalgets vurdering er det derfor grunn til å øke kunnskapen og bevisstheten blant elevene om kjønnsroller, kjønnsmangfold og kjønnstypiske oppfatninger.
 
 Utvalgets vurderinger
 
-15.3 Styrke kombinerte utdanningsløp
-i videregående opplæring
+Fagfornyelsen skal integrere det tverrfaglige temaet folkehelse og livsmestring i alle fagene der det er relevant, og skal omfatte sosiale og emosjonelle ferdigheter og psykisk helse. Det er ikke avklart hvordan dette tverrfaglige temaet skal komme til uttrykk i læreplanene for undervisningsfagene. For tverrfaglige temaer kan det alltid være en risiko for at temaet ikke finner en naturlig plass i fagene, får en teoretisk innretning, eller at elevene ikke oppfatter sammenhengene mellom relevante kompetansemål i de ulike fagene. Det er også en mulighet for at lærerne i de ulike fagene har lite eierskap til gjennomføringen av det tverrfaglige temaet. Det er grunn til å tro at lærere på ungdomstrinnet ikke vil ha tilstrekkelig faglig kompetanse til å ivareta formålet med det tverrfaglige temaet på en god nok måte.
 
-Etter utvalgets vurdering bør det utredes en
-nedre karaktergrense for opptak til studiespesialisering, for eksempel 30 eller 35 grunnskolepoeng.
-Gitt den lave sannsynligheten for fullføring av et
+Etter utvalgets vurdering bør livsmestring forankres i et eget fag på ungdomstrinnet. Folkehelse og livsmestring kan beholdes som tverrfaglig tema i grunnopplæringen, men utvalget mener det er behov for å vektlegge dette fagområdet ytterligere på ungdomstrinnet fordi dette er en viktig periode for regulering av gutter og jenters sosiale og emosjonelle ferdigheter. Obligatorisk undervisning i psykisk helse er blitt gjennomført som forsøk på en ungdomsskole i Trondheim, med omfordeling av timer fra faget utdanningsvalg. Det er likevel ikke gjort sammenligninger med kontrollskoler (Klomsten, 2018). Obligatorisk undervisning for å fremme sosial og emosjonell læring på ungdomstrinnet gjennomføres skoleåret 2018/2019 i Bærum kommune (Læringsmiljøsenteret, 2018).
 
-Forskning viser at betydningen av praktisk og
-variert læring for egen skoleinnsats er viktigere
-for skolefaglig svake elever enn for skolefaglig
-sterke elever (Dæhlen, Smette & Strandbu, 2011).
+En evaluering av faget utdanningsvalg på ungdomstrinnet viser at faget oppleves som diffust og utydelig. Lærere er usikre på nytteverdien av faget, og elevene synes i liten grad at faget forbereder dem for videregående opplæring og valg av yrkesveier (Lødding & Holen, 2012). Utvalget foreslår derfor å erstatte faget utdanningsvalg med et nytt fag: Utdanningsvalg og livsmestring. Forslaget innebærer ikke å utvide timetallet i faget, men å innføre kompetansemål om livsmestring og psykisk helse som del av faget. Utvalget foreslår å legge området utdanning og yrker i læreplanen kun til 10. trinn. Det vil knytte området tettere til overgangen til videregående opplæring. Risikoen for stofftrengsel ved å innføre nye kompetansemål i faget er ikke nødvendigvis stor, ettersom faget slik det er i dag uansett oppleves som diffust og utydelig. Utvalget mener at ved å gjøre temaene livsmestring og psykisk helse til deler av faget, vil det gi faget mer retning. En mulig ulempe med forslaget er at svakt presterende elever synes faget utdanningsvalg slik det er i dag, er interessant og lærerikt (Lødding & Holen, 2012). Utvalget mener likevel at disse elevene også vil kunne dra nytte av det nye faget utdanningsvalg og livsmestring.
 
-[Side 226]
+I fagfornyelsen er det lagt til grunn at sosiale og emosjonelle ferdigheter skal læres og utvikles gjennom arbeid med faglige mål i undervisningsfagene, blant annet fordi sosiale og emosjonelle ferdigheter ikke er egnet som vurderingsgrunnlag (Meld. St. 28 (2015–2016)). Utvalget vil påpeke at sosiale og emosjonelle ferdigheter i denne sammenheng ikke handler om elevers personlighetstrekk eller egenskaper, men om ferdigheter som er formbare og viktige for senere læring og utvikling. Uansett vil faget utdanningsvalg og livsmestring ikke bli vurdert med tallkarakter, men som deltatt eller ikke deltatt.
 
-224
+For å realisere fordelene ved forslaget er det etter utvalgets vurdering nødvendig å sikre at de som underviser i faget, har relevant kompetanse. Utvalget foreslår derfor at det utredes nærmere hvordan yrkesgrupper utenfor grunnskolen kan undervise i faget, særlig hvordan undervisningen kan gjennomføres i samarbeid med skolehelsetjenesten eller andre deler av de kommunale helse- og omsorgstjenestene. Utvalget mener også at ordinære lærere bør kunne tilbys relevant kompetanseutvikling i faget. For å styrke kunnskapsgrunnlaget for det tverrfaglige temaet folkehelse og livsmestring gjennom hele grunnopplæringen foreslår utvalget at det gjøres forsøk med å integrere sosiale og emosjonelle ferdigheter i de ordinære undervisningsfagene. Formålet bør være å systematisk prøve ut om slike ferdigheter kan redusere kjønnsforskjeller i sosial kompetanse og utagerende problematferd.
 
-Kapittel 15
+For å skape større kunnskap og bevissthet om hvordan kjønnsroller og kjønnstypiske forventninger kan påvirke skoleprestasjoner, foreslår utvalget at fagfornyelsen legger til grunn som prinsipp at læreplanverket gir elevene anledning til å reflektere over kjønnsroller, kjønnsmangfold og kjønnsstereotypiske forventninger.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-På ungdomstrinnet har lite skolemotiverte elever
-større arbeidsinnsats i valgfag enn i andre fag
-(Dæhlen & Eriksen, 2015).
-I videregående opplæring er det få gutter som
-har anledning til å velge studieforberedende
-utdanningsprogrammer som følger deres interesser. I 2017 fikk kun 6 prosent av elevene plass på
-idrettsfag og 3 prosent fikk plass på medier og
-kommunikasjon, som er eksempler på utdanningsprogrammer med høy søkning og som
-mange gutter trolig ville vært interesserte i
-(Utdanningsdirektoratet, 2018f). Det er også
-mange yrkesfaglige utdanningsprogrammer som
-har høye inntakskrav. Mange svake elever ender
-dermed opp i studiespesialiserende løp, der de
-har lave forutsetninger for å lykkes.
-Påbygg til studiekompetanse velges av rundt
-20 prosent av elevene som fullfører Vg2 yrkesfag
-(Utdanningsdirektoratet, 2016a). En av fem
-påbyggselever ønsket å ta yrkesfag med påbygg
-allerede før de startet videregående opplæring (E.
-Markussen & Gloppen, 2012). Hele 92 prosent av
-påbyggselevene har valgt påbygg som førstevalg,
-og bare 6 prosent tar påbygg fordi de ikke får
-læreplass. Samtidig er andelen elever som fullfører og består Vg3 påbygg svært lav, jf. tabell 15.1.
-Dette er vesentelig lavere enn fullføringen i Vg3 i
-studieforberedende løp (utenom påbygg) og Vg2
-yrkesfag, som begge var 84 prosent i 2014–15 (E.
-Markussen mfl., 2017). Blant elever som tar
-påbygg etter Vg2 uten å først ha oppnådd yrkeskompetanse, fullfører 63 prosent av guttene og 70
-prosent av jentene. Blant elevene som har fullført
-fag- eller svennebrev fullfører derimot gutter og
-jenter i like stor grad. Det tyder på at det kan være
-gunstig for en del gutter å først fullføre fagopplæring for deretter å ta påbygg. Svakt faglig grunnlag er likevel den klart viktigste grunnen til høyt
-frafall på påbygg, og det er spesielt til eksamen at
-påbyggelevene stryker (E. Markussen & Gloppen, 2012).
-Utdanningsløp som kombinerer yrkes- og studiekompetanse (YSK) er en ordning som er ettertraktet blant elever og hos bedrifter, og som får
-gode tilbakemeldinger fra sektoren.1 I denne ordningen går elevene et integrert fireårig løp som
-både gir fagbrev og studiekompetanse. Elevene
-
-har studieforberedende fag som ofte gir spesiell
-studiekompetanse, yrkesfaglig opplæring i skole,
-og praksis i bedrift alle fire årene. I enkelte fylker
-tas elevene opp på karakterer, mens andre steder
-blir elevene tatt opp på intervju og bedriftene som
-inngår i samarbeidet er med i avgjørelsen om opptak. Dette er en ordning som tiltrekker seg spesielt høyt kvalifiserte elever.
-Utvalgets vurderinger
-Utvalget mener at flere elever enn i dag bør få
-utvikle sine interesser gjennom videregående
-opplæring. Det er trolig at særlig flere gutter ville
-ha fullført videregående opplæring dersom de
-hadde fått utløp for sine interesser i opplæringen.
-I tillegg mener utvalget at det er positive synergieffekter mellom kombinert studieforberedende
-og yrkesfaglige utdanningsprogrammer som kan
-gjøre elevene mer attraktive som arbeidstakere.
-Det er også mulig at det er enklere å velge kjønnsutradisjonelt dersom eleven også blir del av et faglig og sosialt fellesskap utover det aktuelle yrkesfaget.
-Utvalget mener derfor at fylkeskommunene
-bør utvide tilbudet av studieforberedende utdanningsprogrammer som i dag har høy søkning i forhold til elevplasser. For å tilrettelegge for dette
-bør inntektssystemet for fylkeskommunene
-endres. I dag får fylker med en høy andel elever
-på yrkesfaglige utdanningsprogrammer og utdanningsprogrammet musikk, dans og drama på studieforberedende høyere inntekter enn fylker med
-mange elever på andre studieforberedende utdanningsprogrammer. Utvalget foreslår å plassere
-alle studieforberedende utdanningsprogrammer
-utenom studiespesialisering innenfor kategorien
-for høykostnadsprogram i inntektssystemet for
-fylkeskommunen. For å legge til rette for at fylkeskommunene faktisk øker kapasiteten i disse
-programmene mener utvalget at fylkeskommunene bør kompenseres gjennom rammetilskuddet, jf. kapittel 16. Yrkesfaglige utdanningspro1
-
-Denne ordningen het tidligere tekniske og allmenne fag
-(TAF).
-
-Tabell 15.1 Andel som fullførte påbygg i skoleåret 2017–2018. Antall elever i parentes.
-Totalt
-
-Gutt
-
-Jente
-
-Påbygg uten yrkeskompetanse
-
-67 % (8 615)
-
-63 % (3 484)
-
-70 % (5 131)
-
-Påbygg med yrkeskompetanse
-
-67 % (3 819)
-
-68 % (1 656)
-
-67 % (2 163)
-
-Kilde: Bestilt fra Utdanningsdirektoratet 2018.
-
-[Side 227]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-gram bør fortsatt være høykostnadsprogram i inntektssystemet.
-Utvalget mener også at utdanningsløp som
-kombinerer studieforberedende og yrkefaglige
-utdanningsprogrammer bør utredes. En mulighet
-er å utvide dagens ordning som kombinerer
-yrkes- og studiekompetanse (YSK) til en bredere
-elevmasse. I dag tilbys YSK innen bygg og anlegg,
-teknikk og industriell produksjon, elektrofag og
-helse- og sosialfag. Disse er spesielt innrettet mot
-at elevene skal kunne fortsette på henholdsvis
-(sivil)ingeniørfag og medisin. Det kan være en
-stor verdi i at teoretisk flinke elever også tar fagbrev, og siden disse ofte har ambisjoner om høyere utdanning kan kombinerte utdanningsløp tiltrekke seg elever til yrkesfag som ellers hadde
-gått studieforberedende løp. Det er imidlertid
-grunner til å tro at dette også er en god løsning for
-en bredere gruppe elever. Dagens påbyggingsår
-oppleves som svært krevende av elevene, med
-kun fellesfag. Det er en stor overgang fra Vg2
-yrkesfag der utdanningsprogrammene har både
-praktiske programfag og mer teoretiske fellesfag.
-Gitt elevenes tildels svake faglige grunnlag, er det
-krevende å løfte denne gruppen tilstrekkelig i
-løpet av kun et år. Det er trolig at elevene ville
-gjort det bedre i kombinerte løp der fellesfagene
-er jevnere spredt utover utdanningsløpet. Etter
-utvalgets vurdering bør det gis muligheter for
-utdanningsløp som kombinerer yrkes- og studiekompetanse innenfor alle yrkesfaglige retninger.
-En slik utredning bør også omfatte utdanningsløp som kombinerer yrkesfag med programfag fra studieforberedende utdanningsprogrammer i et treårig skoleløp før læretid. En slik tilleggskompetanse kan være attraktiv for både
-elever og arbeidsgivere. Et eksempel er å kombinere barne- og ungdomsarbeider med programfag
-fra utdanningsprogrammet musikk, dans og
-drama. I andre tilfeller kan det være løp som først
-og fremst gjør at elevene trives bedre på skolen,
-og som dermed kan øke fullføringen. For eksempel kan utdanningsløp som kombinerer yrkesfag
-med progamfag fra utdanningsprogrammet
-idrettsfag eller medier og kommunikasjon øke
-fullføringsgraden særlig blant gutter.
-Slike utdanningsløp er trolig mer kostbare å
-gjennomføre, og det må investeres i for eksempel
-idrettsutstyr, datamaskiner, verksteder og lignende. For utdanningsløp som kombinerer yrkesfag med programfag fra studieforberedende
-utdanningsprogrammer i treårige skoleløp før
-læretid medfører endringen også en økning i
-antall skoleår. Utvalget mener det bør opprettes et
-øremerket investeringstilskudd til fylkeskommu-
-
-225
-
-Kapittel 15
-
-nene for å utvikle slike kombinerte utdanningsløp.
-Ettersom tilskuddet er knyttet til utvikling av tilbud som delvis finnes allerede i fylkeskommunene mener utvalget at tilskuddet bør ha et krav
-om kommunal medfinansiering, og til slutt bør
-midlene innlemmes i rammetilskuddet når de
-kombinerte utdanningsløpene er fastsatt i tilbudsstrukturen for videregående opplæring, jf. kapittel
-16.
-Utvalget mener også at påbygg til studiekompetanse bør målrettes mot elever som endrer
-utdanningsplaner i løpet av opplæringen. Utvalget
-er bekymret over den svært høye strykprosenten
-på påbygg, og mener utdanningsrådgivere bør fraråde elever som ønsker både yrkes- og studiekompetanse å satse på et utdanningsløp med yrkesfag
-og påbygg. Disse elevene bør heller kunne velge
-kombinerte utdanningsløp.
 Utvalget anbefaler
-–
 
-–
+- erstatte faget utdanningsvalg på ungdomstrinnet med faget utdanningsvalg og livsmestring. Det nye faget skal inneholde kompetansemål om livsmestring og psykisk helse for hele ungdomstrinnet, mens området utdanning og yrker i læreplanen legges kun til 10. trinn.
 
-–
+- utrede nærmere hvordan yrkesgrupper utenfor grunnskolen kan undervise i faget utdanningsvalg og livsmestring, særlig gjennom samarbeid med skolehelsetjenesten og andre deler av de kommunale helse- og omsorgstjenestene. Lærere som skal undervise i faget bør tilbys kompetanseutvikling.
 
-–
+- beholde folkehelse og livsmestring som tverrfaglig tema i grunnopplæringen, men gjøre systematiske utprøvinger med å integrere sosiale og emosjonelle ferdigheter i undervisningsfagene. Disse må kunne effektevalueres.
 
-plassere alle studieforberedende utdanningsprogram utenom studiespesialisering i kategorien for høykostnadsprogram i inntektssystemet for fylkeskommunen, og kompensere
-fylkeskommunen gjennom rammetilskuddet.
-utrede utdanningsløp som kombinerer yrkesog studiekompetanse og yrkesfag med interessebaserte programfag fra studieforberedende
-utdanningsprogram
-innføre et øremerket investeringstilskudd til
-fylkeskommunene for å utvikle utdanningsløp
-som kombinerer studieforberedende og yrkesfaglige utdanningsprogrammer.
-påbygg til studiekompetanse målrettes mot
-elever som endrer utdanningsplaner i løpet av
-opplæringen.
+- fagfornyelsen legger til grunn som prinsipp at læreplanverket gir elevene anledning til å reflektere over kjønnsroller, kjønnsmangfold og kjønnsstereotypiske forventninger.
 
-15.4 Lovfeste rett til læreplass
-Opplæringsloven slår fast at alle har rett til treårig
-videregående opplæring som gir studiekompetanse, yrkeskompetanse eller grunnkompetanse. I
-2017 var det 8 100 flere søkere enn læreplasser,
-som betyr at 28 prosent av søkerne ikke fikk læreplass (Kunnskapsdepartementet, 2018b). Blant
-søkere med ungdomsrett er 73 prosent gutter, og
-72 prosent av søkere med ungdomsrett som får
-læreplass er gutter. De som ikke får læreplass har
-6,8 færre karakterpoeng fra Vg2 og lavere fravær,
-og søkere med innvandrerbakgrunn er overrepresentert i forhold til søkermassen.
-Søkere med ungdomsrett som ikke får læreplass får i dag tilbud om yrkesopplæring Vg3 i
+### Styrke elevenes valgmuligheter på ungdomstrinnet
+
+Fag- og timefordelingen angir hvilke fag elevene skal få opplæring i, og hvor mange timer som skal brukes på ulike trinn til det enkelte fag. Timetallet er et minstetimetall som den enkelte elev har rett til, og som skoleeieren er pliktig til å gi. I fag- og timefordelingen er det noen fag som er obligatoriske for alle elever, mens elevene kan velge mellom fremmedspråk, fordypningsfag, arbeidslivsfag og valgfag på ungdomstrinnet.
+
+I valgfagene har elevene 57 timer i løpet av ett år på ungdomstrinnet, noe som tilsvarer 1,5 timer i uken i gjennomsnitt. Skolene kan velge mellom 15 forskjellige valgfag, og de må tilby minst to av disse. De tre største valgfagene er fysisk aktivitet og helse, sal og scene, og natur, miljø og friluftsliv. For å undervise i valgfagene kreves det ikke at læreren har relevant kompetanse i faget. Lærernes eksisterende kompetanse legger trolig likevel betydelige føringer på hvilke valgfag skolene tilbyr sine elever. Det kan henge sammen med at tilbudet av etter- og videreutdanning for valgfagene er lite, og at det er lav bevissthet om slike tilbud (Dæhlen & Eriksen, 2015).
+
+Valgfagene er svært kjønnsdelte: Jenter velger i større grad design og redesign, innsats for andre, og sal og scene, mens gutter i større grad velger teknologi i praksis, fysisk aktivitet, og miljø og friluftsliv. I skoleåret 2017–2018 ble valgfaget programmering innført, med 210 skoler som tilbyr faget. På disse skolene velger i overkant av 10 prosent av elevene programmering, og 93 prosent av elevene er gutter.
+
+I likhet med standpunkt- og eksamenskarakterer får jenter bedre karakterer enn guttene i alle valgfagene, jf. figur 14.1. I faget kroppsøving, får gutter bedre karakterer enn jentene, og valgfaget fysisk aktivitet og helse er valgfaget med minst kjønnsforskjeller i karakterer. De gjennomsnittlige kjønnsforskjellene i valgfagkarakterer er omtrent 0,4 karakterpoeng i jentenes favør, og er dermed omtrent like store som kjønnsforskjellene i de andre undervisningsfagene. Samtidig er kjønnsforskjellene i karakterer i valgfagene med flest gutter mindre enn i andre valgfag, slik som fysisk aktivitet og helse, teknologi i praksis og natur, miljø og friluftsliv. På samme måte varierer størrelsen på kjønnsforskjellene i standpunkt- og eksamenskarakterer mellom de andre undervisningsfagene i grunnskolen. For eksempel er kjønnsforskjellene større i språkfag og de praktisk-estetiske fagene mat og helse, og kunst og håndverk, enn de er i matematikk.
+
+\[:figur:figX-X.jpg\]
+
+Gjennomsnittskarakterer for standpunktvurdering i valgfag på 10. trinn etter kjønn.
+
+Utdanningsdirektoratet (2018a).
+
+Kunnskapsgrunnlaget gir ikke et entydig svar på i hvilken grad gutter og jenter tidlig har kjønnstypiske preferanser og interesser, og hva som kan være mulige forklaringer. Samtidig er det forskning som tyder på at jenter og gutter presterer ulikt på ulike interesseområder i skolealderen, for eksempel ved at gutter i gjennomsnitt er flinkere på kunnskapsområder som er preget av makt og status, mens jentene i gjennomsnitt er flinkere på kunnskapsområder rettet mot familie og omsorg.
+
+Alternative tiltak for å styrke valgfagene
+
+*Alternativ A* er å beholde antall timer til valgfag innenfor dagens fag- og timefordeling, men innføre et krav om at kommunene må tilby minst fem valgfag som elevene kan velge mellom. For skoler som ikke er i stand til å oppfylle kravet, må kommunen legge til rette for samarbeid mellom skoler eller andre kommuner.
+
+*Alternativ B* er å øke timetallet til valgfag med 570 timer ved å øke totaltimetallet for ungdomstrinnet til 3192 timer. Det gir totalt 741 timer i valgfag på 8.–10. trinn eller i gjennomsnitt fem ekstra skoletimer i uken for hvert trinn i ungdomsskolen. En slik økning i totaltimetallet koster om lag 3,2 milliarder kroner (se kapittel 16). Kommunene må tilby minst fem valgfag som elevene kan velge mellom. For skoler som ikke er i stand til å oppfylle kravet, må kommunen legge til rette for samarbeid mellom skoler eller andre kommuner.
+
+*Alternativ C* er å beholde dagens totaltimetall, men å omfordele 171 timer til valgfag fra de andre fagene på ungdomstrinnet prosentvis ut fra fagets timetall. En økning med 171 timer vil føre til at det blir 342 timer med valgfag fra 8. til 10. trinn. Det tilsvarer i gjennomsnitt tre timer i uken til valgfag, sammenlignet med 1,5 timer med dagens ordning. Kommunene må tilby minst fem valgfag som elevene kan velge mellom. For skoler som ikke er i stand til å oppfylle kravet, må kommunen legge til rette for samarbeid mellom skoler eller andre kommuner.
+
+*Alternativ D* er å beholde dagens totaltimetall, men å innføre en ny fagstruktur der elevene kan velge fritt mellom et større utvalg av valg- og fordypningsfag. I denne fagstrukturen er KRLE, norsk, matematikk, naturfag, engelsk, samfunnsfag, kroppsøving og utdanningsvalg obligatoriske fag for alle elever. Valg- og fordypningsfag er de eksisterende valgfagene, fremmedspråk, fordypningsfagene, arbeidslivsfag, kunst og håndverk, musikk, og mat og helse. Skolene må tilby en minimumspakke av ti valg- og fordypningsfag, og av disse må alle skoler tilby fremmedspråk, kunst og håndverk, musikk, og mat og helse. For skoler som ikke er i stand til å oppfylle kravet må kommunen legge til rette for samarbeid mellom skoler eller andre kommuner.
+
+Fag- og timefordeling for elever på 8.–10. trinn etter alternativ A, B, C og D for å styrke valgfagene.
+
+05J2xt2
+
+<table>
+<colgroup>
+<col style="width: 46%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th colspan="4">Antall timer 8.–10. trinn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fag</td>
+<td>Alternativ A</td>
+<td>Alternativ B</td>
+<td>Alternativ C</td>
+<td>Alternativ D</td>
+</tr>
+<tr>
+<td>KRLE</td>
+<td>153</td>
+<td>153</td>
+<td>142</td>
+<td>153</td>
+</tr>
+<tr>
+<td>Norsk</td>
+<td>398</td>
+<td>398</td>
+<td>370</td>
+<td>398</td>
+</tr>
+<tr>
+<td>Matematikk</td>
+<td>313</td>
+<td>313</td>
+<td>291</td>
+<td>313</td>
+</tr>
+<tr>
+<td>Naturfag</td>
+<td>249</td>
+<td>249</td>
+<td>232</td>
+<td>249</td>
+</tr>
+<tr>
+<td>Engelsk</td>
+<td>222</td>
+<td>222</td>
+<td>207</td>
+<td>222</td>
+</tr>
+<tr>
+<td>Samfunnsfag</td>
+<td>249</td>
+<td>249</td>
+<td>232</td>
+<td>249</td>
+</tr>
+<tr>
+<td>Kroppsøving</td>
+<td>223</td>
+<td>223</td>
+<td>207</td>
+<td>223</td>
+</tr>
+<tr>
+<td>Utdanningsvalg</td>
+<td>110</td>
+<td>110</td>
+<td>105</td>
+<td>110</td>
+</tr>
+<tr>
+<td>Valgfag</td>
+<td>171</td>
+<td>741</td>
+<td>342</td>
+<td rowspan="5">705</td>
+</tr>
+<tr>
+<td>Fremmedspråk/fordypningsfag/arbeidslivsfag</td>
+<td>222</td>
+<td>222</td>
+<td>207</td>
+</tr>
+<tr>
+<td>Kunst og håndverk</td>
+<td>146</td>
+<td>146</td>
+<td>136</td>
+</tr>
+<tr>
+<td>Musikk</td>
+<td>83</td>
+<td>83</td>
+<td>77</td>
+</tr>
+<tr>
+<td>Mat og helse</td>
+<td>83</td>
+<td>83</td>
+<td>77</td>
+</tr>
+<tr>
+<td><em>Samlet minstetimetall</em></td>
+<td>2 622</td>
+<td>3 192</td>
+<td>2 622</td>
+<td>2 622</td>
+</tr>
+</tbody>
+</table>
+
+Utvalgets vurderinger
+
+Dersom elevene i større grad kan velge undervisningsfag ut fra sine egne interesser, kan det bidra til å redusere kjønnsforskjellene i grunnskolepoeng, og dermed også kjønnsforskjellene i opptak til videregående opplæring. Innføringen av valgfag i 2012 skulle gjøre ungdomsskolen mer motiverende, praktisk og variert, og gi elevene et bedre grunnlag for å ta utdanningsvalg. En evaluering viser at elever gleder seg til dager med valgfag, og påpeker at motivasjonen som skapes i valgfagene kan overføres til en glede over skolen mer generelt (Dæhlen & Eriksen, 2015). Samtidig påpeker NOU 2015: 8 (2015) at valgfag som tiltak for å styrke skolemotivasjonen er mindre relevant med fagfornyelsen. Målet for de nye læreplanene er at fagene skal få mer praktisk og relevant innhold.
+
+Kunnskapsgrunnlaget gir ikke et entydig svar på i hvilken grad gutter og jenter har kjønnstypiske interesser, og hvordan de utvikler seg gjennom livsløpet. Det finnes forskning som tyder på at gutter og jenter presterer ulikt på ulike interesseområder i skolealderen. Etter utvalgets vurdering tar hverken dagens valgmuligheter på ungdomstrinnet eller fagfornyelsen av læreplanene tilstrekkelig hensyn til at gutter og jenter kan ha forskjellige interesser. Samtidig mener utvalget det er stor grad av usikkerhet om hvilken effekt ulike modeller for valgfag har for elevenes skolemotivasjon, karakterer i valgfagene og andre undervisningsfag og sannsynligheten for å gjennomføre utdanning.
+
+For at valgfagene skal fylle en sentral funksjon er det etter utvalgets mening nødvendig at elevene har en reell mulighet til å velge mellom flere valgfag enn i dag. I dag har skolene kun plikt til å tilby to av 15 valgfag. Dæhlen og Eriksen (2015) viser at lite motiverte elever har større arbeidsinnsats i valgfag enn i andre fag, men at de trives mindre i valgfag enn andre elever dersom de ikke har interesse for valgfaget. Utvalget mener derfor at det bør innføres krav om at skolene må tilby flere valgfag enn i dag, slik at elevene kan velge valgfag som faktisk treffer deres interesser. Utvalget mener det er realistisk å ha en nedre grense på fem valgfag for de aller fleste skoler. For små ungdomsskoler kan det være krevende å tilby så mange valgfag, særlig dersom det er lange avstander mellom skolene. På den annen side benytter små ungdomsskoler seg mer av frivillige aktører fra lokalmiljøet (Dæhlen & Eriksen, 2015). I kombinasjon med samarbeid mellom skoler og andre kommuner mener utvalget at dette er en mulig løsning for at også skoler i små kommuner skal kunne tilby flere valgfag til elevene.
+
+Det er svært kostbart å øke totaltimetallet i grunnskolen. Selv bare det å øke antallet timer til valgfag fra 1,5 timer til fem timer i gjennomsnitt i uken koster om lag 3,2 milliarder kroner. Etter utvalgets vurdering er det mer realistisk å styrke valgfagene gjennom å omdisponere timer fra andre undervisningsfag. Samtidig mener utvalget at det er vanskelig å finne faglige kriterier for hvorfor noen fag bør prioriteres høyere enn andre. Norsk, matematikk og engelsk er for eksempel svært viktige fag for senere arbeid og utdanning, og i flere av disse fagene er kjønnsforskjellene betydelige. Selv om de praktisk-estetiske fagene ikke spiller samme rolle for alle elever senere i opplæringsløpet, har de en betydelig egenverdi. Konsekvensene for disse fagene av å omfordele timer er også langt større fordi timetallet allerede er langt lavere enn i de andre fagene på ungdomstrinnet. En omprioritering av timer kan tenkes å føre til færre ressurser til og mindre oppmerksomhet på disse fagene, og at tilbudet dermed blir dårligere på lengre sikt. Uansett vil en omfordeling måtte gå utover noen fag. Dersom timetallet til valgfagene skal økes gjennom å omfordele timer, mener utvalget at den rimeligste løsningen er å omfordele timer fra de andre fagene prosentvis ut fra timetallet i det enkelte faget.
+
+Forslaget om å beholde dagens totaltimetall, men å innføre en fagstruktur der elevene kan velge fritt mellom valg- og fordypningsfag kan også føre til en nedprioritering av enkelte fag som er viktige for elevene senere i livsløpet, slik som mat og helse. Forslaget kan også føre til at skolene nedprioriterer enkelte av fagene, og at tilbudet dermed blir dårligere på lengre sikt. For å ta hensyn til slike mulige konsekvenser må skolene med dette alternativet tilby minst ti valg- og fordypningsfag, og av disse må alle skoler tilby fremmedspråk, kunst og håndverk, musikk, og mat og helse.
+
+En fordel med å innføre en slik fagstruktur er at skolene får større frihet til å utvikle og tilpasse fagtilbudet til elevenes interesser. For eksempel bør det være mulig for elevene å velge fordypning i alle undervisningsfagene, og ikke bare i norsk, matematikk og engelsk som i dag. I dag er det de faglig sett svakeste elevene som velger fordypningsfagene, og elever som ikke ønsker å lære seg et fremmedspråk. Lærerne har også en oppfatning av at fordypningsfag ikke har like høy status som fremmedspråk, og at det er lettere å få gode karakterer i disse fagene (Bakken & Dæhlen, 2011). Uavhengig av hvilken effekt valgfag måtte ha for skolemotivasjon, karakterer i andre fag eller sannsynligheten for å gjennomføre videre utdanning, kan det ha en egenverdi å gi både gutter og jenter større valgmuligheter for å forfølge sine egne interesser.
+
+På den annen side virker det etter utvalgets vurdering mer sannsynlig at økte valgmuligheter for elevene vil føre til flere, snarere enn færre, kjønnstypiske utdanningsvalg. Allerede med dagens ordning velger elevene valgfag svært kjønnstypisk. Forslagene om å styrke valgfagene kan alle sammen føre til enda færre kjønnsutradisjonelle utdanningsvalg i grunnskolen, og dette kan ha ytterligere konsekvenser for videre utdannings- og yrkesvalg. Hensynet til å la elevene forfølge sine egne interesser må dermed veies opp mot hensynet til variasjon i elevenes utdannings- og yrkesvalg.
+
+Ettersom kunnskapsgrunnlaget er svakt når det gjelder effekten av økte valgmuligheter på elevenes skolemotivasjon, karakterer i valgfagene og andre undervisningsfag og sannsynligheten for å gjennomføre videre utdanning, mener utvalget at de alternative tiltakene bør prøves ut og evalueres systematisk før de eventuelt innføres for alle elever. En slik utprøving vil ha en risiko knyttet til seg ettersom det eksisterende kunnskapsgrunnlaget er forholdsvis svakt og kjønnsforskjellene i skoleprestasjoner er størst på ungdomstrinnet. På den annen side viser forskning at tidlig barndom er en sensitiv periode for tilegning av ferdigheter, og at tidlig læring får kumulative effekter ved at den styrker læring senere i utdanningsløpet (Cunha & Heckman, 2007; Cunha mfl., 2006). Dersom tiltak på ungdomstrinnet viser seg å ha negative effekter, kan de mulige konsekvensene dermed være mindre. Risikoen for negative konsekvenser for elevene senere, reduseres ved at forsøket ikke gjelder undervisningsfag som alle elever trenger i videregående opplæring, slik som norsk, matematikk og engelsk.
+
+Uansett hvilken løsning som velges, er det en forutsetning for utvalget at lærerne har relevant kompetanse. Lærere mener at det er deres interesse og motivasjon som gir gode valgfag, og både skoleledere og lærere mener i hovedsak at lærerne er kompetente og har relevant bakgrunn for å undervise i valgfag (Dæhlen & Eriksen, 2015). Alle alternativene til forslag for å styrke valgfagene innebærer imidlertid at skolene må tilby vesentlig flere valgfag enn i dag. Etter utvalgets vurdering er det dermed nødvendig å styrke lærernes kompetanse til å undervise i et antall valgfag. Samtidig mener utvalget at det bør utredes nærmere hvordan yrkesgrupper utenfor grunnskolen med relevant kompetanse kan undervise i enkelte av valgfagene, for eksempel lærere fra videregående opplæring, utøvende kunstnere, ansatte i kulturskolen og lignende. For både lærere og yrkesgrupper utenfor grunnskolen bør det opprettes flere relevante etter- og videreutdanningstilbud, og på lengre sikt bør det vurderes å innføre kompetansekrav på et relevant fagområde for å undervise i valgfag.
+
+Utvalget anbefaler
+
+- innføre krav om at skolene må tilby minst fem valgfag, utrede hvordan yrkesgrupper utenfor grunnskolen med relevant kompetanse kan undervise i enkelte av valgfagene og opprette etter- og videreutdanningstilbud for de som underviser i valgfagene.
+
+- systematisk prøve ut ulike modeller for å øke timetallet i valgfag på ungdomstrinnet for å evaluere effektene av valgfag på elevenes skolemotivasjon, karakterer i valgfag og andre undervisningsfag, og sannsynligheten for å fullføre videregående opplæring.
+
+## Rettferdig vurderingssystem i grunnskolen
+
+Alle elever i grunnopplæringen har rett til underveis- og sluttvurdering. Underveisvurdering er all vurdering underveis i opplæringen, slik som prøver, tester, lekser og halvårsprøver. Underveisvurdering skal fremme læring og gi eleven anledning til å forbedre kompetansen sin gjennom opplæringstiden. Vurdering av elevenes kompetanse underveis i opplæringen skal gi grunnlag for standpunktkarakterer i fagene.
+
+I grunnskolen er sluttvurderinger standpunkt- og eksamenskarakterer, og disse skal gi informasjon om kompetansen til elevene ved avslutningen av opplæringen i fag. På 10. trinn går elevene opp i én skriftlig eksamen i norsk, engelsk eller matematikk, og omtrent to tredjedeler av elevene blir trukket ut til å ta muntlig eksamen. Det er standpunktkarakterene som i hovedsak avgjør elevenes grunnskolepoeng, og dermed opptaksgrunnlaget til videregående opplæring. Vitnemålet fra grunnskolen består av én eller to eksamenskarakterer og mellom 15 og 17 standpunktkarakterer. I faget utdanningsvalg vurderes elevene som deltatt eller ikke deltatt.
+
+### Underveisvurdering
+
+Underveisvurdering kan ha betydelig effekt på elevens læring, men effekten avhenger i stor grad av hvordan tilbakemeldinger gis til elevene (Hattie, 2009, s. 174). Det kan være kjønnsforskjeller i hvordan gutter og jenter responderer på ulike vurderingsformer. Kunnskapsgrunnlaget tyder på at gutter i gjennomsnitt blir mer engasjert enn jenter av konkurranse og muligheter for å vinne, mens jenter i gjennomsnitt vegrer seg i større grad enn gutter for å delta i aktiviteter som innebærer risiko. Slike kjønnsforskjeller kan påvirke hvordan gutter og jenter responderer på ulike former for underveis- og sluttvurderinger.
+
+Elevene vil kunne oppleve at eksamen har store konsekvenser, eller at gevinsten av å prestere er høy, ettersom resultatet teller en hel karakter på vitnemålet fra grunnskolen. På den annen side kan elevene oppleve at underveisvurderinger har mindre konsekvenser ettersom det er mange underveisvurderinger som teller for standpunktkarakteren, og det kan være uklart for elevene i hvilken grad eller på hvilken måte de enkelte underveisvurderingene faktisk teller for standpunktkarakteren. Det er skolene og lærerne som fastsetter antallet og formen på underveisvurderingene i fag, men alle kompetansemålene i læreplanen danner grunnlaget for sluttvurderingen i et fag. Det kan dermed være store forskjeller mellom skoler og klasser i omfanget av underveisvurderinger.
+
+I PISA 2012 ble elevene som deltok, spurt om hvor mye innsats de hadde lagt i testen og hvor mye innsats de ville lagt i testen dersom den hadde vært en del av sluttvurderingen for elevene. Norge var et av OECD-landene der forskjellen mellom faktisk innsats og tenkt innsats dersom prøven hadde hatt betydning for karakterer var størst, og denne forskjellen var større for gutter enn jenter (Borgonovi mfl., 2018). Jenter opplever dessuten mer skolestress enn gutter. Det kan komme av ulike holdninger blant gutter og jenter til egne prestasjoner, opplevd forventningspress, ubalanse mellom innsats og belønning og krav fra skolen (Lillejord mfl., 2017).
+
+Utvalgets vurderinger
+
+Etter utvalgets vurdering gir kunnskapsgrunnlaget grunn til å forvente at gutter og jenters skolemotivasjon og innsats lar seg påvirke gjennom å endre eller presisere regelverket knyttet til underveisvurdering.
+
+En mulighet er å endre gjeldende bestemmelse i regelverk som sier at elevene skal «vere kjend med kva det blir lagt vekt på i fastsetjinga av hennar eller hans standpunktkarakter» (forskrift til opplæringsloven § 3-18), til at eleven skal være kjent med hvor mye mer underveisvurderinger med og uten tallkarakter teller for standpunktkarakteren i faget. Isolert vil en slik presisering kunne gjøre konsekvensene av underveisvurderingen for sluttvurderingen tydeligere for elevene, og motivere særlig guttene til økt skoleinnsats. Samtidig kan forslaget føre til økt skolestress for elevene ved at konsekvensene av slike underveisvurderinger for standpunktkarakteren blir tydeligere for elevene. Det er grunn til å regne med at jenter i større grad enn gutter kan oppleve dette som en kilde til skolestress og respondere negativt.
+
+I høringen av det delvis tilsvarende forslaget om prosentvekting av halvårsvurderingen for standpunktkarakteren i faget kom det frem flere relevante innvendinger. Det ble påpekt at vekting ikke er passende for alle fag, og at det kan begrense lærerens og skolens handlingsrom for å organisere opplæringen og skape unødig merarbeid for lærere. Elevene kan også beregne standpunktkarakterer underveis og tilpasse sin egen innsats i fagene deretter, og det kan dermed virke imot hensikten om at underveisvurdering skal brukes som grunnlag for tilpasset opplæring. Prosentvekting kan også føre til ulikheter mellom lærere og skoler i tolkningen av hvor stor del av faget som skal vektes (Utdanningsdirektoratet, 2015a).
+
+Utvalget deler bekymringen for at slike utilsiktede konsekvenser kan oppstå ved å presisere bestemmelsen om at elevene skal være kjent med hva det blir lagt vekt på i fastsettingen av standpunktkarakteren. Utvalgets forslag er mer omfattende enn forslaget om prosentvekting av halvårsvurderingen ved at det omfatter flere underveisvurderinger, men er samtidig mindre detaljert ved at det ikke nødvendigvis innebærer at lærere må vekte prosentvis den enkelte underveisvurdering. Utvalgets forslag kan likevel skape mer skolestress for elevene, noe som særlig kan være negativt for jentenes skolemotivasjon.
+
+En måte å redusere skolestress på som oppstår som følge av underveisvurderinger er å presisere bestemmelsen om at «Grunnlaget for vurdering i fag er kompetansemåla i læreplanane for fag slik dei er fastsatt i læreplanverket» (forskrift til opplæringsloven § 3-3) ikke innebærer at alle kompetansemålene må være gjenstand for underveisvurderinger med tallkarakter. Isolert sett kan et slikt forslag også være positivt for gutters skolemotivasjon dersom de uansett motiveres i mindre grad av vurderinger der gevinsten av å prestere er lav.
+
+I sum er det likevel utvalgets vurdering at det råder for stor usikkerhet om hvordan lærere faktisk praktiserer underveisvurdering, om det er tydelige kjønnsforskjeller i hvordan elever responderer på ulike former for underveisvurdering og hvor stressende elevene faktisk opplever underveisvurderinger i grunnskolen.
+
+Forutsetningene til den enkelte, fravær eller forhold knyttet til orden og atferd skal ikke trekkes inn i vurderingen i fagene. Unntaket er kroppsøving der innsatsen til eleven skal være en del av vurderingsgrunnlaget. Med det som bakgrunn mener utvalget at det er behov for mer forskning på hvordan underveisvurdering påvirker gutter og jenters skolemotivasjon og arbeidsinnsats før det kan vurderes å justere regelverket knyttet til underveisvurdering. Det bør særlig evalueres hvordan bestemmelsen om at innsats skal telle i kroppsøvingsfaget påvirker kjønnsforskjeller i skolemotivasjon og skoleprestasjoner.
+
+Utvalget anbefaler
+
+- kartlegge og evaluere hvordan regelverket for og læreres praksis av underveisvurdering på ungdomstrinnet påvirker gutter og jenters skolemotivasjon, arbeidsinnsats og skoleprestasjoner.
+
+### Sluttvurdering
+
+I grunnskolen er sluttvurderingene standpunkt- og eksamenskarakterer, og disse skal gi informasjon om kompetansen til elevene ved avslutningen av opplæringen i fag. Etter regelverket skal ikke forutsetningene til elevene eller forhold knyttet til orden og atferd være en del av vurderingen i fag. Det er bare i faget kroppsøving at innsatsen til elevene skal være en del av grunnlaget for vurderingen.
+
+Det er vesentlige forskjeller i hvilke kvalitetskrav som regelverket stiller til utformingen av ulike vurderingsformer i grunnskolen. Det er utviklet veiledende kjennetegn på måloppnåelse i enkelte fag for å støtte lærernes fastsetting av standpunktkarakterer. Formålet er å gi nasjonal retning for vurderingsarbeidet, og utvikle tolkningsfellesskap på skolene om hva elevene skal lære og hva som kjennetegner ulik grad av måloppnåelse. Det er trolig at elevenes sosiale ferdigheter og atferd i klasserommet kan gi større utslag på standpunktkarakterene enn på eksamenskarakterene.
+
+Det er flere kvalitetskrav knyttet til skriftlig eksamen. Det er fagnemnder som utarbeider skriftlig eksamen, og eksterne konsulenter gir tilbakemelding på oppgaveutkastet. Dagens krav er at fagnemndene består av personer med undervisningserfaring fra faget eller solid fagkompetanse i faget. Skriftlig eksamen rettes ikke av elevenes vanlige lærer. Skjevvurdering på eksamen etter kjønn kan likevel forekomme som følge av utformingen av prøvene. For eksempel presterer gutter svakere på tester med mange åpne spørsmål enn på tester med flervalgs- og kortsvarsoppgaver (Solheim & Lundetræ, 2018). Kvalitetskravene er langt strengere for blant annet nasjonale prøver. Rammeverket for nasjonale prøver stiller krav til den psykometriske utformingen av prøvene og utprøving eller pilotering av oppgavene. For eksempel blir oppgavene testet for skjevvurdering etter kjønn. Prøvene blir utviklet av Utdanningsdirektoratet i samarbeid med eksterne kvalitetssikrere og prøveutviklere.
+
+Kjønnsforskjeller i sluttvurderingen kan også oppstå ved poengberegningen til opptak til videregående opplæring ettersom antall standpunkt- og eksamenskarakterer er forskjellig for de ulike fagene. Ved utgangen av grunnskolen får elevene tre standpunktkarakterer i norsk (norsk hovedmål skriftlig, norsk sidemål skriftlig og norsk muntlig), to standpunktkarakterer i engelsk (muntlig og skriftlig) og én karakter i de øvrige fagene. På 10. trinn går elevene dessuten opp til én skriftlig eksamen i norsk, engelsk eller matematikk, og omtrent to tredjedeler av elevene blir trukket ut til muntlig eksamen. Det er dermed en overvekt av språkkarakterer på vitnemålet fra grunnskolen. Ettersom jentene gjennomgående gjør det bedre enn guttene i språkfag gir poengberegningen av vitnemålet jentene en fordel for inntak til videregående skoler.
+
+Situasjonsbeskrivelsen viser at jentene får bedre standpunkt- og eksamenskarakterer enn guttene i alle undervisningsfag, med unntak av kroppsøving. Kjønnsforskjellen er gjennomgående mindre målt etter eksamenskarakterer enn standpunktkarakterer. Både gutter og jenter gjør det svakere til skriftlig eksamen enn i standpunktvurderingen i faget. Til muntlig eksamen gjør gutter og jenter det bedre eller like bra som i standpunktvurderingen i faget.
+
+Kunnskapsgrunnlaget viser lite som tyder på at kjønnsforskjellen i prøver som er anonymt rettet, og lærerrettede prøver reflekterer lærernes kjønnsstereotypiske forventninger. Samtidig er det mye som tyder på at elevenes sosiale ferdigheter og atferd i klasserommet gir utslag på lærervurderte prøver. Slike forskjeller kan i gjennomsnitt virke i guttenes disfavør, og bidra til å forklare kjønnsforskjellene i eksamens- og standpunktkarakterer. Det er en sammenheng mellom stort omfang av lærervurderte prøver og deltagelse i høyere utdanning. I land med stort omfang av lærervurderte prøver er det også betraktelig færre gutter som deltar i høyere utdanning. Norge er det landet i OECD med mest bruk av lærervurderte prøver i skolen og lavest andel gutter som deltar i høyere utdanning (Borgonovi mfl., 2018).
+
+Utvalgets vurderinger
+
+Utvalget mener det i hovedsak er to regelverksendringer på dette området som kan redusere kjønnsforskjellene i grunnskolen: Grunnlaget for standpunkt- og eksamenskarakterer og poengberegningen av vitnemålet fra grunnskolen.
+
+Sammenlignet med standpunktkarakterer er det lavere risiko for at eksamen gir elevene uttelling for deres sosiale ferdigheter og atferd fordi det er flere kvalitetskrav knyttet til eksamen. Gutter responderer trolig også sterkere på eksamen enn på standpunktvurderinger ettersom gevinsten av å prestere er høyere. En løsning er derfor å erstatte standpunktkarakterer med eksamen i alle fag eller bare i utvalgte fag. Det ville innebære at eksamen ble gjennomført for hvert årstrinn på ungdomstrinnet. Etter utvalgets vurdering er det flere betydelige ulemper med denne løsningen. For det første vil det kreve store ressurser å gjennomføre eksamen for alle elever, selv om dette bare skulle gjelde for utvalgte fag. Lærerne ville dessuten hatt et langt snevrere vurderingsgrunnlag enn det standpunktkarakterer legger til rette for. Dette ville også være tilfellet selv om eksamen ble gjennomført etter hvert årstrinn på ungdomstrinnet som erstatning for standpunktkarakterene på ungdomstrinnet. Elevene kan videre tilpasse seg et slikt vurderingssystem der de i verste fall ender opp med å legge mindre vekt på regelmessig innsats og dybdelæring gjennom året. Et system med et stort antall eksamener ville trolig også skape mer skolestress for elevene, noe som særlig jenter kan tape på.
+
+Utvalget mener det er mer formålstjenlig å stille strengere rutinekrav til fastsettingen av standpunktkarakterer, slik som anonym retting av større, karaktergivende underveisvurderinger, felles lærervurdering av karaktergivende underveisvurderinger og stikkprøver på kommunenivå av standpunktkarakterer. Anonym retting reduserer mulighetene for at elevatferd påvirker standpunktkarakterene. Utvalget mener hensynet til læringsfremmende underveisvurderinger fortsatt er ivaretatt fordi anonym retting bare skal gjelde for større underveisvurderinger, ikke all underveisvurdering. Rutinekrav om felles lærervurdering av karaktergivende underveisvurderinger vil sørge for at flere lærere medvirker til karakterfastsettingen. Samtidig er det store forskjeller mellom skoler i fastsetting av standpunktkarakterer. Det er derfor behov for stikkprøver av standpunktkarakterer ved utvalgte skoler som kommunenivået bør ha ansvaret for å gjennomføre. Mange skoler og kommuner har allerede innført slike rutiner for ungdomstrinnet, men utvalget mener dette bør innføres i regelverket for elevvurdering for å fremme en mer rettferdig sluttvurdering for gutter og jenter på alle skoler. Utvalget legger til grunn at lærere må medvirke til utformingen av slike rutinekrav i regelverket.
+
+Utvalget mener det også bør stilles strengere kvalitetskrav til eksamen ved å stille krav til den psykometriske utformingen av prøvene, og ved at oppgavene prøves ut eller piloteres. Det betyr at fagnemndene må utvides med personer med relevant forskerkompetanse, og at eksterne kvalitetssikrere står for utprøving eller pilotering av eksamen. Etter utvalgets vurdering vil slike rutinekrav bidra til større kvalitetssikring av eksamen som vurderingsform og gi en mer rettferdig sluttvurdering for gutter og jenter. Samtidig bør det utredes nærmere hvilke konkrete kvalitetskrav som skal stilles til eksamen. Det er trolig ikke hensiktsmessig med like strenge krav for skriftlige eksamener som rammeverket for nasjonale prøver ettersom eksamen vurderer bredere og mer omfattende kompetanser enn grunnleggende regne- og leseferdigheter. Etter utvalgets vurdering bør en slik utredning gjøres i sammenheng med fagfornyelsen for å sikre at eksamen er i tråd med kompetansemålene for de nye læreplanene.
+
+Etter utvalgets vurdering står ikke dagens poengberegning av standpunkt- og eksamenskarakterer på vitnemålet for grunnskolen i et nøytralt forhold til de ulike undervisningsfagene. Elevene får tre standpunktkarakterer i norsk, to standpunktkarakterer i engelsk og én karakter i de øvrige fagene. Elevene går opp til én skriftlig eksamen i norsk, engelsk eller matematikk, og omtrent to tredjedeler av elevene blir trukket ut til muntlig eksamen. Det betyr at vitnemålet fra grunnskolen har en betydelig andel språkkarakterer. Ettersom jentene gjennomgående gjør det bedre enn guttene i språkfag gir denne poengberegningen jentene en fordel for inntak til videregående skoler.
+
+En løsning er at alle fag har én tellende karakter på vitnemålet ved å kombinere muntlige og skriftlige karakterer og standpunkt- og eksamenskarakterer til én vitnemålskarakter for faget. En slik løsning vil komme guttene til gode ettersom den relative vekten av språkkarakterene blir mindre for poengberegningen på vitnemålet. Én karakter i hvert fag formidler også et prinsipielt argument om at alle fag er like viktige. På den annen side har fagene svært forskjellig timetall. Norskfaget er omfattende med mange kompetansemål, og har flest timer av fagene på ungdomstrinnet. Det kan dermed være rimelig med flere karakterer for å avspeile fagets betydning for elevenes opplæring.
+
+Samtidig er ikke timetallet i norskfaget betydelig større enn for eksempel timetallet i matematikkfaget (398 timer i norsk og 313 timer i matematikk). Etter utvalgets vurdering er det derfor ikke klart hvorfor akkurat norskfaget skal ha tre standpunktkarakterer, mens matematikkfaget bare skal ha én standpunktkarakter. En annen løsning er derfor å utrede nærmere om det bør innføres flere matematikk- eller naturfagkarakterer for bedre å avspeile fagenes betydning for opplæringen. Kjønnsforskjellene i standpunkt- og eksamenskarakterer i matematikk og naturfag er små, og flere karakterer i disse fagene vil balansere antallet språkkarakterer på vitnemålet og gi en mer rettferdig sluttvurdering for gutter og jenter.
+
+En mer prinsipiell løsning er å vektlegge standpunktkarakterene på vitnemålet fra grunnskolen etter fagets timetall. Med en slik løsning vil timetallet i faget fungere som et uttrykk for fagets relative betydning, og bestemme standpunktkarakterens relative vekt i poengberegningen til opptak til videregående opplæring. For eksempel har matematikk 313 timer av totalt 2512 timer på ungdomstrinnet. I dag teller standpunktkarakteren i matematikk 6,7 prosent. Med dette forslaget vil standpunktkarakteren i matematikk vektes etter timetallet for faget, og telle 12,5 prosent ved poengberegningen til opptak til videregående opplæring jf. tabell 14.2.[^68] I fag med flere karakterer skal antall karakterer vektes likt før utregning etter timetall.
+
+Prosentvekting av standpunktkarakterer i fag etter antall fag (dagens situasjon) og etter timetall.
+
+03J1xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 66%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr>
+<th>Fag – standpunktkarakterer</th>
+<th style="text-align: right;">Prosentvekting – dagens situasjon</th>
+<th style="text-align: right;">Prosentvekting etter timetall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Engelsk skriftlig standpunkt</td>
+<td rowspan="2" style="text-align: right;">13,3</td>
+<td rowspan="2" style="text-align: right;">8,8</td>
+</tr>
+<tr>
+<td>Engelsk muntlig standpunkt</td>
+</tr>
+<tr>
+<td>Kunst og håndverk standpunkt</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">5,8</td>
+</tr>
+<tr>
+<td>Kroppsøving</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">8,9</td>
+</tr>
+<tr>
+<td>Matematikk standpunkt</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">12,5</td>
+</tr>
+<tr>
+<td>Mat og helse standpunkt</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">3,3</td>
+</tr>
+<tr>
+<td>Musikk standpunkt</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">3,3</td>
+</tr>
+<tr>
+<td>Naturfag standpunkt</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">9,9</td>
+</tr>
+<tr>
+<td>Norsk hovedmål standpunkt</td>
+<td rowspan="3" style="text-align: right;">20,0</td>
+<td rowspan="3" style="text-align: right;">15,8</td>
+</tr>
+<tr>
+<td>Norsk sidemål standpunkt</td>
+</tr>
+<tr>
+<td>Norsk muntlig standpunkt</td>
+</tr>
+<tr>
+<td>Kristendom, religion, livssyn og etikk standpunkt</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">6,1</td>
+</tr>
+<tr>
+<td>Samfunnsfag standpunkt</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">9,9</td>
+</tr>
+<tr>
+<td>Fremmedspråk/fordypning/arbeidslivsfag</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">8,8</td>
+</tr>
+<tr>
+<td>Valgfag</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">4,4</td>
+</tr>
+</tbody>
+</table>
+
+Et prinsipielt argument mot vektlegging etter timetall er at alle fag er like viktige uavhengig av timetallet i faget. Ut fra et slikt argument bør alle fag ha én tellende karakter på vitnemålet. Dersom det skal være flere standpunktkarakterer for enkelte fag – slik som i dag – bør det etter utvalgets prinsipielle vurdering foretas en vekting av karakteren etter fagets timetall. Det vil gi en mer rettferdig sluttvurdering for både gutter og jenter. Utvalget vil understreke at tiltaket ikke vil føre til at gutter eller jenter blir dyktigere i undervisningsfagene. Tiltaket er derimot begrunnet i en rettferdighetsbetraktning. En mulig negativ konsekvens av tiltaket er at elevene legger mindre innsats i de fagene som har minst uttelling for poengberegningen for opptak til videregående opplæring. Det vil særlig gå utover de praktisk-estetiske fagene, som har lavest timetall.
+
+En enkel beregning viser at alle forslagene ovenfor reduserer kjønnsforskjellene i guttenes favør. I denne beregningen er karakterer i valgfag, fremmedspråk, fordypningsfag og arbeidslivsfag utelatt, og gir en kjønnsforskjell på 4,8 grunnskolepoeng for dagens situasjon.[^69] Hvis vitnemålet utvides med én matematikkarakter, reduseres kjønnsforskjellen med 0,1 grunnskolepoeng fra dagens situasjon (resulterer i en kjønnsforskjell på 4,7 grunnskolepoeng). Dersom vitnemålet består av én tellende karakter for hvert fag, reduseres kjønnsforskjellen med 0,2 grunnskolepoeng fra dagens situasjon (resulterer i en kjønnsforskjell på 4,6 grunnskolepoeng). Dersom karakterene vektes etter fagets timetall, reduseres kjønnsforskjellene med 0,4 grunnskolepoeng (resulterer i en kjønnsforskjell på 4,4 grunnskolepoeng).
+
+Etter utvalgets vurdering bør disse beregningene gjøres mer detaljert før en av modellene iverksettes for hele grunnskolen. En slik utredning bør simulere effektene av de ulike modellene for ulike elevgrupper, særlig gutter og jenter. Utvalget vurderer videre at det bør utføres en tilsvarende utredning for videregående opplæring, der man simulerer vekting av de karakterene på vitnemålet som gir opptak til høyere utdanning.
+
+Utvalget anbefaler
+
+- innføre rutinekrav for fastsetting av standpunktkarakterer i regelverket om elevvurdering og stille strengere kvalitetskrav til utforming og utprøving av eksamensoppgaver.
+
+- innføre poengberegning av standpunkt- og eksamenskarakterer på vitnemålet fra grunnskolen og videregående opplæring etter fagenes timetall. Som ledd i innføringen bør potensielle negative konsekvenser av modellen utredes nærmere, for eksempel for fag med lavt timetall. Utredningen bør også vurdere alternative modeller for vekting av karakterer.
+
+## Læremidler som gir lærelyst for gutter og jenter
+
+Læremidler er trykte, ikke-trykte og digitalt materiale som kan brukes i undervisningen for å dekke kompetansemålene i læreplanverket. Læremidler er viktige for hvordan lærerne tolker og operasjonaliserer kompetansemålene i læreplanen til konkrete undervisningsopplegg (Gilje mfl., 2016). Læremidlene spiller dermed en avgjørende rolle for hvilket faglig innhold gutter og jenter møter i de ulike undervisningsfagene i grunnskolen.
+
+Frem til år 2000 fantes det en statlig godkjenningsordning for læremidler i skolen. Denne ordningen stilte krav om at læremidlene skulle godkjennes etter faglige og kvalitetsmessige hensyn. Godkjenningsordningen ble opphevet blant annet for å gi større handlingsrom til skolene og lærerne til å gjennomføre opplæringen uavhengig av læremidlene, bruke flere læremidler og stimulere til kritikk av eksisterende læremidler (Meld. St. 28 (2015–2016)). I dag er det lærerne som i realiteten velger hvilke læremidler de skal bruke. Kartlegginger viser at det i stor grad er lærerfellesskapet som velger ut læremidler, uten innblanding fra kommunenivået eller skoleledelsen (Gilje mfl., 2016; Waagene & Gjerustad, 2015).
+
+Det er utviklet nasjonale kvalitetskriterier for læremidler i matematikk som skal støtte lokale vurderinger av læremidler, slik som pedagogisk og didaktisk kvalitet og sammenheng til læreplanverket. Det skal utvikles kvalitetskriterier for flere fag på lengre sikt. For grunnskolen finnes det internettportaler som forlagene har opprettet for å formidle sine egne digitale læremidler, men ikke en fellestjeneste for formidling av kvalitetssikrede digitale læremidler. Nasjonal digital læringsarena (NDLA) kjøper, produserer og distribuerer fritt tilgjengelige digitale læremidler for elever i videregående opplæring. NDLA er et samarbeid mellom alle fylkeskommunene, med unntak av Oslo. Staten gir økonomisk støtte til utvikling av læremidler for elever med særskilte behov, minoritetsspråklige elever og smale fagområder i videregående opplæring. I tillegg gir staten økonomisk støtte gjennom prosjektet «Den teknologiske skolesekken» til utvikling av læremidler i forbindelse med fagfornyelsen av læreplanene i grunnopplæringen. I sum produseres og distribueres likevel læremidler i stor grad innenfor et fritt læremiddelmarked.
+
+Det finnes få studier av kvaliteten på norske læremidler. Ett unntak er Kongelf (2015), som viser at lærebøker i matematikkfaget har varierende faglig kvalitet. Kunnskapsgrunnlaget gir heller ikke entydig svar på om gutter og jenter motiveres av ulikt faglig innhold i undervisningsfagene. Det er likevel indikasjoner på at gutter og jenter responderer ulikt på faglig innhold og utforming i forskjellige undervisningsopplegg. Kjønnsforskjellene i nasjonale prøver øker når teksteksemplene omhandler jenter eller forhold som jenter sannsynligvis interesser seg mer for, og blir mindre når gutter kan identifisere seg med hovedpersonen i teksteksemplene (A. Eriksen & Roe, 2012; Roe & Vagle, 2012). Enkelte studier viser at digitale læringsverktøy kan redusere kjønnsforskjeller i skoleprestasjoner, men studiene har varierende kvalitet. For eksempel åpner digitale læremidler for mer konkurranse- og spillbasert undervisning. Det kan være en fordel for gutter ettersom de i gjennomsnitt blir mer motivert av konkurranse og også spiller mer dataspill enn jenter.
+
+Utvalgets vurderinger
+
+Etter utvalgets vurdering vil en større regulering av læremiddelmarkedet kunne føre til mindre mangfold av læremidler i grunnopplæringen, men også til lavere faglig kvalitet og innovasjon som følge av mindre konkurranse mellom tilbyderne. Samtidig mener utvalget at det er grunnlag for å legge til rette for et mer velfungerende læremiddelmarked, særlig for digitale læremidler. Læremidler med høy kvalitet og relevans for både gutter og jenter har et betydelig potensial for å skape et bedre innhold i grunnskolen, og mer lærelyst for alle elever.
+
+Det er kommunene som har ansvaret for å finansiere innkjøp av læremidler til sine skoler. Statlige tilskuddsordninger for å stimulere tilbudssiden av læremiddelmarkedet bør derfor ikke fortrenge kommunenes finansiering, men være knyttet til ulike former for markedssvikt. Staten har allerede tatt denne rollen for enkelte deler av markedet ved å gi økonomisk tilskudd til utvikling av læremidler for elever med særskilte behov, minoritetsspråklige elever og smale fagområder i videregående opplæring. Utvalget mener derfor at det ikke bør opprettes statlige tilskuddsordninger som er rettet mot alle eventuelle tilbydere av læremidler.
+
+Etter utvalgets vurdering er det derimot grunnlag for å opprette et såkornfond for digitale læremidler forvaltet på oppdrag fra Innovasjon Norge. Såkornfond skal vanligvis investere i bedrifter som er i en tidlig fase, og der det ordinært er vanskelig å oppnå finansiering på egenkapitalmarkedet. Dagens såkornfond er private investeringsselskaper og forvaltes på kommersiell basis på oppdrag fra Innovasjon Norge. Utvalget mener det bør utredes nærmere hvilke premisser som bør legges til grunn for et såkornfond for digitale læremidler, for eksempel hvilke kvalitetskriterier som bør legges til grunn for finansiering av utvikling av læremidler. Etter utvalgets vurdering er det avgjørende for å få et mer velfungerende læremiddelmarked at det oppstår en langt mer mangfoldig og innovativ tilbyderside for digitale læremidler.
+
+Selv om det på lengre sikt blir flere og mer innovative læremidler tilgjengelig på denne måten, blir det ikke nødvendigvis lettere for lærere og skoler å velge riktig læremiddel for sine elever. Utvalget mener derfor det også er behov for tiltak for å styrke etterspørselssiden av læremiddelmarkedet. En løsning er å etablere en internettportal med verktøy for å vurdere og sammenligne læremidler etter nasjonalt fastsatte kvalitetskriterier. En slik tjeneste bør fungere som en veiledning for lærere og skoler i valg av læremidler.
+
+Utvalget mener det også bør innføres krav om at skoler bare kan kjøpe inn læremidler som er fagfellevurdert etter de samme nasjonalt fastsatte kvalitetskriteriene. Fagfellevurdering er en metode for kvalitetssikring som i stor grad blir brukt ved vitenskapelig publisering og har som formål å hindre publisering av manuskripter med for lav faglig kvalitet. Fagfellevurdering innebærer at andre fagpersoner innenfor samme felt vurderer manuskriptet og gir anbefaling om hvorvidt det bør publiseres. Et slikt krav vil prinsipielt sett ligge på etterspørselssiden fordi det er skolene som må velge å kjøpe inn fagfellevurderte læremidler, men vil samtidig kunne skape et større press på forlagene og andre tilbydere om å publisere fagfellevurderte læremidler ettersom læremidler uten fagfellevurdering ikke vil kunne bli kjøpt inn av skolene.
+
+Utvalget anbefaler
+
+- opprette såkornfond for digitale læremidler forvaltet på oppdrag fra Innovasjon Norge.
+
+- etablere en felles nasjonal internettportal for vurdering og sammenligning av digitale læremidler etter nasjonalt fastsatte kvalitetskriterier for det enkelte fag.
+
+- innføre krav om at skoler kun kan kjøpe inn fagfellevurderte læremidler etter nasjonalt fastsatte kvalitetskriterier for det enkelte fag.
+
+## Organisering av elever i grunnskolen
+
+Regelverket om organisering av elever legger til grunn at opplæringen skal bygge på og ivareta mangfoldet i bakgrunnen og forutsetningene for elevene. Elevene skal utvikle gjensidig respekt og toleranse for hverandre uavhengig av kjønn, sosiale, kulturelle, økonomiske og evnemessige forutsetninger. I opplæringsloven § 8-2 står det blant annet: «Til vanleg skal organiseringa ikkje skje etter fagleg nivå, kjønn eller etnisk tilhør.» Uttrykket «til vanleg» angir lovens utgangspunkt og hovedregel. Hovedregelen kan fravikes når det etter en konkret totalvurdering foreligger tilstrekkelig tungtveiende elevhensyn (Kunnskapsdepartementet, 2017).
+
+Med det som utgangspunkt legger regelverket til grunn at elever kan organiseres etter faglig nivå dersom dette er nødvendig for at elevene skal få et forsvarlig utbytte av opplæringen. Vurderingen av behovet må gjøres for konkrete tilfeller og jevnlig for at slik organisering skal være tidsbegrenset. Elevene kan også organiseres etter kjønn dersom det etter en konkret totalvurdering foreligger tungtveiende elevhensyn, for eksempel dersom eleven ville oppleve det som integritetskrenkende å motta undervisning med begge kjønn til stede. Svømmeundervisning eller andre deler av kroppsøvingsfaget kan i konkrete tilfeller være slike eksempler (Kunnskapsdepartementet, 2017).
+
+Samlet sett viser kunnskapsgrunnlaget at faglig nivådifferensiering kan virke negativt både skolefaglig og sosialt. Det er lite som tyder på at elevene i nivådelte grupper anstrenger seg mer for å forbedre sine prestasjoner. Et problem med faglig nivådeling synes å være at klassene eller gruppene med de svakeste prestasjonene ofte blir en «endestasjon» for lavt presterende elever, istedenfor grupper der man på en bedre måte kan ivareta deres behov.
+
+Derimot tyder kunnskapsgrunnlaget på at kjønnsdelte klasser og skoler kan være positivt for skoleresultater, men at dette kan slå ulikt ut i ulike land og skolesystemer. Det er likevel viktig å presisere at studiene som viser positive effekter av differensiering etter kjønn er fra land med ganske andre kjønnsroller enn i det norske samfunnet. Det er dermed uvisst hvorvidt disse studiene har relevans for norske forhold. En kartlegging tyder på at i underkant av 22 prosent av norske grunnskoler praktiserer kjønnsdelt kroppsundervisning i ulik grad. Skolenes begrunnelser for kjønnsdeling er at jentenes deltagelse øker, at jenter har et sårbart selvbilde, at det er fysiske forskjeller mellom jenter og gutter, at gutter dominerer aktiviteten, og at jenter og gutter har ulike interesser og behov (Klomsten, 2016).
+
+Utvalgets vurderinger
+
+Etter utvalgets vurdering er det eksisterende regelverket om faglig nivådifferensiering velbegrunnet i relevant forskning. Selv om kunnskapsgrunnlaget samlet sett viser at faglig nivådifferensiering kan virke negativt både skolefaglig og sosialt, finner studier også moderate positive effekter av nivådeling innad i hver klasse og i enkeltfag på tvers av klasser innenfor hvert kull. Etter utvalgets vurdering bør det derfor fortsatt være mulig å differensiere elevene etter faglig nivå. Samtidig er utvalget bekymret for mer omfattende former for nivådifferensiering, særlig dersom slike grupper blir permanente over lengre tidsperioder. Kunnskapsgrunnlaget viser at klassene eller gruppene med de svakeste prestasjonene ofte blir «endestasjonen» for lavt presterende elever, istedenfor grupper der man på en bedre kan ivareta deres behov. Utvalget mener at terskelen for faglig nivådifferensiering bør være høy. Utvalget mener derfor det bør utredes nærmere hvorvidt det er behov for å presisere vilkår i opplæringsloven § 8-2 for å motvirke omfattende former for differensiering av elever etter faglig nivå. Eksempler på slike vilkår kan være at organisering av elever etter faglig nivå skal være tidsavgrenset og evalueres regelmessig.
+
+Det finnes mindre forskning på effekten av kjønnssegregerte skoler eller klasser på norske jenter og gutters skoleprestasjoner. Samtidig mener utvalget at det er sterke prinsipielle argumenter mot å dele inn skoler og klasser etter kjønn, også som systematiske utprøvinger for å finne eventuelle læringseffekter. Skolen skal bygge på mangfoldet i elevenes bakgrunn. Samfunnet elevene møter utenfor skolen og etter endt utdanning er mangfoldig. Et mangfold av elever i skolehverdagen vil også utfordre elever til å utforske nye interesseområder og ferdigheter og redusere kjønnsstereotypiske oppfatninger ved at elevene blir gjort mer oppmerksom på sine egne kjønnede oppfatninger. Etter utvalgets vurdering bør terskelen for å kunne organisere elevene etter kjønn og etnisk tilhørighet være vesentlig høyere enn terskelen for å kunne organisere elevene etter faglig nivå.
+
+Utvalget anbefaler
+
+- Opplæringslovutvalget utreder nærmere hvorvidt det er behov for å presisere vilkår i opplæringsloven § 8-2 for å motvirke omfattende former for differensiering av elever etter kjønn og faglig nivå.

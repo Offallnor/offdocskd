@@ -1,961 +1,190 @@
-# NOU 2020: 16, del 13 av 27 (side 152–164)
+# NOU 2020: 16, del 13 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/dafff701-nou-2020-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-16/id2798280/
 - Original-PDF: https://www.regjeringen.no/contentassets/ccc978f8e2184980b4597ba59796e7e3/no/pdfs/nou202020200016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 13 tabeller, 25 figurer, 243 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 152]
-
-150
-
-Kapittel 11
-
-NOU 2020: 16
-Levekår i byer
-
-sentrale områder hvor mange mennesker beveger
-seg inn og ut, har enkelte lokale bomiljøer hatt en
-høy ungdomskriminalitet over flere år. Den høye
-ungdomskriminaliteten øker risikoen for at nye
-ungdommer blir rekruttert til kriminelle nettverk.
-På østkanten i Oslo har det de siste årene vokst
-fram flere flyktige nettverk av ungdom som begår
-ulike typer kriminalitet, både ran, vold og narkotikahandel. Samtidig opplever politiet situasjonen
-innen og mellom ulike kriminelle nettverk som
-anspent. Utvalget er bekymret for tendensen til
-nettverksdannelse og gjengkriminalitet i enkelte
-utsatte områder og for at omfanget av kjøp, salg og
-bruk av narkotiske stoffer øker blant ungdommer.
-Utvalget er videre bekymret over at norskfødte
-med innvandrerforeldre, særlig gutter, er sterkt
-overrepresentert på kriminalitetsstatistikken.
-Trenden er den samme i Sverige og Danmark.
-Dette er ungdommer som har vokst opp med en
-rekke økonomiske og sosiale problemer. Sjansene
-for at barn som vokser opp med svært mange
-belastninger i livet, får utfordringer, er betydelig
-større enn at barn som har vokst opp under trygge
-familieforhold, får det. Barn som sliter, og som i tillegg føler at de ikke fullt ut er akseptert eller ikke
-hører til, kan være i risikosonen. Utsatte og sårbare
-barn er enklere for kriminelle aktører å rekruttere.
-Illegale aktiviteter som salg av hasj og andre rusmidler kan gi rask fortjeneste som gjør det mulig å
-kjøpe merkeklær og andre statussymboler. Dette
-kan virke forlokkende, særlig for barn og unge som
-i liten grad føler seg som en del av eller akseptert
-av storsamfunnet. Utvalget vil understreke at ungdommer som begår kriminalitet, ofte har mange
-risikofaktorer og få beskyttelsesfaktorer i livet sitt.
-Risikofaktorene kan forsterke hverandre og gi en
-ond sirkel det er vanskelig å komme ut av. Gjennom kriminaliteten søker noen av ungdommene tilhørighet, aksept, status og respekt som de ikke kan
-finne andre steder.
-Barn og unge i utsatte posisjoner og situasjoner er imidlertid en svært mangfoldig gruppe, og
-mange klarer seg bra. Utvalget vil understreke at
-selv om barn har vanskelige familieforhold, så er
-det ikke likegyldig hva som skjer på andre arenaer. En god skolesituasjon, positive fritidsaktiviteter og trygge voksne kan kompensere for vanskelige hjemmeforhold.
-I norske medier og politiske debatter vises det
-ofte til kriminaliteten i utsatte byområder i andre
-land og den negative utviklingen man har sett i
-slike områder over flere år. Er det tegn som tyder
-på at vi kan få den samme utviklingen i Norge?
-Utvalget vil vise til at politiet i Sverige peker på
-at kriminelle strukturer i noen utsatte boområder
-
-har utviklet seg og vokst seg sterke over flere år.
-En rekke tiltak er satt inn, men de har ikke alltid
-svart godt nok på problemene eller vart lenge nok
-til å gi effekt. Det har dermed bygd seg opp kriminell kapasitet i noen områder. De kriminelle gjennomsyrer hele lokalmiljøer ved at de bestemmer
-hvilke regler som gjelder. Det gjør det vanskelig
-for politiet å finne samarbeidspartnere som er til å
-stole på.
-Utviklingen i kriminaliteten i Sverige forklares
-på ulike måter. En forklaring er at den sosiale ulikheten øker. En annen forklaring er bosettingsmønstret. Segregeringen i Sverige er sterkere enn
-i Norge, og opphopingen av levekårsproblemer er
-betydelig større i enkelte områder. Innvandrere er
-sterkt overrepresentert i noen av områdene, og
-disse deltar i langt mindre grad i arbeidslivet og
-har lavere inntekter enn den øvrige befolkningen.
-Ut fra den informasjonen utvalget sitter på i
-dag, er det ingen klare tegn på at kriminaliteten er
-i ferd med å utvikle seg på samme måte i Norge
-som i Sverige. Kriminaliteten er fortsatt relativt
-lav i de fleste utsatte byområder. Kriminelle aktører har trolig ikke den samme innflytelsen i
-utsatte områder i Norge som de har i enkelte
-områder i Sverige. Det er likevel grunn til å tro at
-utsatte unge kan bli brukt som «redskap» for kriminelle narkotikanettverk også i Norge, og at de
-kriminelle nettverkene kan få et sterkere grep om
-lokalmiljøene de opererer i, dersom de ikke brytes opp tidlig.
-Det er dermed ikke grunnlag for å si at kriminalitetsutviklingen ikke kan gå i samme retning.
-Visse tendenser er de samme som i Sverige. De
-sosiale og økonomiske forskjellene mellom folk
-øker, og i en del store og mellomstore byer i
-Norge er det en relativt sterk opphoping av levekårsproblemer. Og selv om den registrerte kriminaliteten generelt går ned, så øker altså barne- og
-ungdomskriminaliteten, særlig vold, ran og narkotikakriminalitet. Videre vokser problemet med
-flere flyktige nettverk og kriminelle ungdomsgjenger noen steder, og det er kjent at svært unge
-barn rekrutteres til kriminelle miljøer.
-Under utvalgets tur til Malmö i Sverige ble det
-sagt at ungdomskriminaliteten i dag er et resultat
-av det som ikke ble gjort for 15–20 år siden. Utvalget vil understreke at for å motvirke at utviklingen
-går i feil retning i Norge, må prinsippet om tidlig
-innsats legges til grunn i all innsats. Å forebygge
-barne- og ungdomskriminalitet må ta utgangspunkt i et familieperspektiv for å trygge barns
-oppvekst. De varige effektene får man best ved å
-sette inn innsats tidlig og ved å jobbe langsiktig.
-
-[Side 153]
-
-Del IV
-Strategier og tiltak
-
-[Side 154]
-
-[Side 155]
-
-153
-
-NOU 2020: 16
-Levekår i byer
-
-Kapittel 12
-
-Kapittel 12
-
-Arbeid, likeverdige tjenester og kommunenes økonomi
-Arbeidsinntekt er den viktigste inntektskilden
-for de fleste husholdninger i Norge, og høy sysselsetting er grunnleggende for den norske velferdsstaten. En rekke politikkområder virker inn
-på sysselsettingen. By- og levekårsutvalget
-behandler særskilt temaer som handler om å
-utjevne geografiske levekårsforskjeller og målrettet innsats innenfor utsatte byområder. Den
-statlige sysselsettings- og næringspolitikken faller i hovedsak utenfor denne temaavgrensningen, men prioriteringer innenfor disse politikkområdene vil kunne påvirke levekårene i utsatte
-områder.
-Norske kommuner har stor grad av selvstyre
-og har viktige roller i å forebygge og kompensere for levekårsutfordringer. Kommunenes økonomi og hvordan inntektsfordelingen skal sette
-kommunene i stand til å tilby likeverdige tjenester, er vesentlig for utviklingen i utsatte byområder.
-
-12.1 Arbeidslivs- og velferdsmodellen i
-Norge
-12.1.1 Sentrale kjennetegn ved den norske
-arbeidslivs- og velferdsmodellen
-De nordiske velferdsstatene er omfattende, og
-finansieringen av dem hviler på at sysselsettingen
-er høy (NOU 2011: 7). I Norge er og har det vært
-en tverrpolitisk oppslutning om velferdsstatens
-grunnstruktur. Noe av forklaringen er at den norske arbeidslivs- og velferdsmodellen er forankret i
-institusjonelle ordninger, har legitimitet og bred
-representasjon, er støttet av organisasjonene i
-arbeidslivet og sivilsamfunnet og har over lengre
-tid levert gode resultater (NOU 2011: 7 og NOU
-2017: 2).
-Den norske arbeidslivs- og velferdsmodellen
-kjennetegnes blant annet av
-– høy yrkesdeltakelse
-– et velregulert arbeidsliv og samarbeid mellom
-myndighetene og sterke arbeidsgiver- og
-arbeidstakerorganisasjoner
-
-–
-–
-–
-–
-–
-
-et i hovedsak skattefinansiert offentlig velferdstilbud av høy kvalitet, som har en høy grad av
-rettighetsfesting, og som benyttes av de fleste
-et godt utbygd og universelt velferdssystem
-med relativt sjenerøse overføringer ved
-arbeidsledighet, sykdom, uførhet og alderdom
-en inntektsfordeling som i internasjonal sammenheng er jevn
-en omfattende familiepolitikk som fremmer
-likestilling mellom kjønnene
-høy tillit
-(NOU 2011: 7)
-
-Visse forutsetninger må være på plass for å kunne
-oppnå høy sysselsetting. Blant disse er et velfungerende og innovativt næringsliv, en velfungerende offentlig sektor, solide offentlige finanser,
-en økonomisk politikk rettet mot et høyt og stabilt
-nivå på samlet etterspørsel og oppdatert kompetanse i arbeidslivet (NOU 2019: 7).
-Skattesystemet skal medvirke til å finansiere
-offentlige oppgaver og til å utnytte ressurser
-effektivt. Samtidig bidrar skattesystemet til å
-omfordele gjennom skatt på inntekter og formuer
-og ved å finansiere offentlige ytelser og tjenester.
-Inntektssikringsordninger skal sørge for økonomisk trygghet og velferd i befolkningen og være
-med på å jevne ut økonomiske forskjeller mellom
-arbeidstakere og dem som står utenfor arbeidslivet. Inntektssikringsordningene skal samtidig
-balansere mellom hensynet til økonomisk trygghet og økonomiske insentiver til å jobbe (NOU
-2017: 2, NOU 2019: 7).
-Norge har et relativt sett høyt nivå på ytelsene
-og et lett tilgjengelig inntektssikringssystem sammenliknet med en rekke andre europeiske land.
-Det gjelder særlig de helserelaterte ytelsene. Den
-norske arbeidsledighetstrygden og sosialhjelpen
-er i hovedsak ikke spesielt sjenerøse sett opp mot
-sammenliknbare land. Inntektssikringsordninger
-og arbeidsmarkedstiltak ses mer i sammenheng
-nå enn tidligere både i Norge og andre nordeuropeiske land ved at det blir stilt flere krav til
-arbeidsrettet aktivitet (Pedersen mfl. 2019).
-
-[Side 156]
-
-154
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-Arbeidsmarkedet i Norge har ifølge OECD et
-middels sterkt stillingsvern, der arbeidstid og
-arbeidsvilkår er regulert slik at det blant annet
-skal ta hensyn til arbeidstakernes helse, miljø og
-sikkerhet (Venn 2009).
-Flere offentlige utvalg har analysert sentrale
-trekk ved den norske arbeidslivs- og velferdsmodellen og kommet med forslag til endrede strategier og nye tiltak. Dette gjelder blant annet Produktivitetskommisjonens to rapporter (NOU
-2015: 1 og NOU 2016: 3) og de to Brochmannutvalgene (NOU 2011: 7 og NOU 2017: 2). Brochmann-utvalgene analyserte sammenhengene mellom innvandring, arbeidsmarked og velferdsstat.
-De la blant annet vekt på å aktivisere og kvalifisere innvandrere for å øke arbeidsdeltakelsen.
-Sysselsettingsutvalget skal analysere utviklingen i
-sysselsettingen i Norge, utviklingen i mottak av
-inntektssikringsytelser og foreslå tiltak som kan
-bidra til at flere kommer i arbeid. Sysselsettingsutvalgets arbeid er delt i to faser. Etter første fase la
-en ekspertgruppe fram sine anbefalinger (NOU
-2019: 7). Cappelen-utvalget (NOU 2016: 15) analyserte lønnsdannelsen blant annet i lys av økt
-migrasjon.
-
-12.1.2 Universelle og målrettede virkemidler
-Noen av de viktigste velferdsordningene i Norge
-er universelle, det vil si at de gir alle like rettigheter til godene som ytes. Inntektssikrings- og velferdsordningene legger til rette for at alle har en
-levestandard på et visst nivå. Universelle velferdsordninger kan treffe innbyggerne ulikt, eller de
-klarer ikke å dekke behovene. De blir derfor i
-mange tilfeller benyttet sammen med mer målrettede ordninger, eller de er delvis målrettet mot
-individer og grupper med størst behov (differensiert universalisme).
-Argumenter for universelle ordninger er at de
-kan gi alle tilgang på tjenester av samme kvalitet,
-gi effektiv administrasjon, forebygge levekårsproblemer og opprettholde insentivene til å komme
-ut av en vanskelig situasjon. Argumenter for mer
-målrettede ordninger er at de treffer bedre og er
-kostnadseffektive (Dahl mfl. 2014).
-De fleste målrettede ordninger er rettet inn
-mot individer eller grupper med særskilte behov,
-men det finnes også ordninger som retter seg mot
-geografiske områder. I Norge er geografisk innrettede virkemidler i hovedsak utformet ut fra distriktshensyn, men den målrettede innsatsen rettes
-også mot levekårsutsatte byområder. Dette kan
-være både ekstra innsats rettet mot utsatte byområder og forsøk som blir gjennomført i slike områ-
-
-der. Et eksempel på sistnevnte er forsøket med
-gratis kjernetid i barnehage i områder i Oslo,
-Drammen og Bergen. Formålet var å få flere barn
-til å begynne i barnehage og gjøre dem bedre forberedt til å begynne på skolen. Områdene ble
-valgt fordi det bodde mange minoritetsspråklige
-barn der, deltakelsen i barnehage var relativt lav
-og behovet for språkstimulering var stort (Barne-,
-likestillings- og inkluderingsdepartementet 2011).
-Forsøket inkluderte alle barna som bodde i områdene, og var sånn sett et universelt tiltak i et
-avgrenset geografisk område.
-
-12.2 Arbeidsinkludering og
-næringsutvikling i utsatte
-byområder
-12.2.1 Tiltak for arbeid og kvalifisering
-12.2.1.1 Arbeidsmarkedstiltak og andre
-arbeidsrettede tiltak
-Arbeids- og velferdsetaten (NAV) tilbyr veiledning
-og hjelp til å søke jobb. I tillegg tilbyr etaten kompetansetiltak, som opplæring, kurs og støtte til
-utdanning, og tiltak på arbeidsplasser, for eksempel arbeidstrening, lønnstilskudd. Alle som henvender seg til NAV, har rett til å få vurdert behovet
-for bistand til å skaffe seg en jobb. Ungdom, innvandrere fra land utenfor EØS-området og personer som har vært ledige lenge, skal prioriteres
-ved inntak til arbeidsrettede tiltak. En betydelig
-andel av tiltaksdeltakerne har nedsatt arbeidsevne.
-Både norske og internasjonale studier viser at
-arbeidsmarkedstiltak gjør det mer sannsynlig å
-komme i jobb. Effekten varierer mellom ulike tiltak og etter ulike egenskaper ved deltakerne, og
-arbeidsmarkedstiltak kan også føre til lengre periode med arbeidsledighet, såkalt innlåsningseffekt. Individuell tilpasning og god oppfølging har
-trolig noe å si for resultatet. Arbeidsmarkedstiltak
-kan imidlertid ha negative effekter for andre
-arbeidssøkere hvis deltakere på arbeidsmarkedstiltak får jobber som ellers ville gått til ordinære
-jobbsøkere (von Simson 2019).
-Flere studier finner at innvandrere har godt
-utbytte av en del arbeidsmarkedstiltak sammenliknet med andre arbeidssøkere. Det gjelder blant
-annet for arbeidstrening, som gir svake resultater
-for mange arbeidssøkere. Ungdom har generelt
-sett lavere utbytte av arbeidsmarkedstiltak enn
-eldre (ibid.).
-Kommunene skal gi råd og veiledning som
-kan bidra til å løse sosiale problemer. Kommu-
-
-[Side 157]
-
-NOU 2020: 16
-Levekår i byer
-
-155
-
-Kapittel 12
-
-Boks 12.1 NAVs ressursfordelingsmodell
-Driftsmidler
-
-Midler til tiltak for arbeidssøkere
-
-Arbeids- og velferdsdirektoratet fordeler driftsmidler for NAV-kontorene til fylkene. Midlene
-blir hovedsakelig fordelt ut fra flere behovskriterier. De viktigste av disse er
-– personer med nedsatt arbeidsevne, med 25
-prosent ekstra vekt for innvandrere fra Asia,
-Afrika mv.
-– ordinære arbeidssøkere, med 50 prosent
-ekstra vekt for innvandrere fra Asia, Afrika
-mv.
-– tapte dagsverk som følge av legemeldt sykefravær
-
-Arbeidsmarkedstiltakene består av flere poster
-på statsbudsjettet. En av disse er tiltak for
-arbeidssøkere. Arbeids- og velferdsdirektoratet
-fordeler midler til tiltak til fylkene. Tildelingen
-er dels basert på fylkenes egne analyser av sine
-behov, dels etter parametre som befolkningstall,
-antall personer i ulike målgrupper og konjunkturendringer. For tiltaksplasser rettet mot personer med standard og situasjonsbestemt innsatsbehov gis det ekstra vekt for ledige med lang
-arbeidssøkervarighet, ledige under 30 år og innvandrere (ikke EØS). For tiltaksplasser for personer med tilpasset innsatsbehov gis det ekstra
-vekt for personer under 30 år.
-Fylkene fordeler midler videre til NAV-kontorene og eventuelt andre enheter internt i fylket. Fylkene kan avvike fra parametre som ligger til grunn for tildelingen til fylket.
-
-I tillegg blir fylkene tildelt midler for å kompensere for smådriftsulemper og ekstra reisekostnader. Fordelingen av disse midlene gjøres ut
-fra samlet landareal i hvert fylke.
-Det er fylkesledelsen som bestemmer fordelingen av midlene ned til det enkelte NAV-kontor og andre enheter i fylket. Fylkene bruker
-den samme ressursfordelingsmodellen som
-Arbeids- og velferdsdirektoratet eller modeller
-som likner på direktoratets modell.
-
-nene har også plikt til å tilby kvalifiseringsprogram til personer som oppfyller vilkårene for å
-delta. Kvalifiseringsprogrammet retter seg mot
-personer med vesentlig nedsatt arbeids- og inntektsevne som har behov for tett oppfølging. Hensikten er å styrke vedkommendes mulighet til å
-delta i arbeidslivet.1 Programmet skal gi individuelt tilpasset, tett og koordinert bistand som skal
-styrke deltakerens mulighet til å komme i jobb.
-En evaluering av kvalifiseringsprogrammet indikerte at programmet økte sysselsettingen med
-nesten 20 prosent for den aktuelle mottakergruppa (Markussen og Røed 2014).
-Flere offentlige utvalg har lagt vekt på behovet
-for gode ordninger for kvalifisering og aktivitet.
-Sysselsettingsutvalgets ekspertgruppe (NOU
-2019: 7) mente det er behov for økte ressurser til
-NAV for å kunne følge opp arbeidstakerne tettere
-og sikre at arbeidsmarkedstiltakene er effektive
-og har god kvalitet. Ekspertgruppa anbefalte også
-at kvalifiseringsprogrammet burde brukes i
-1
-
-Lov om sosiale tjenester i arbeids- og velferdsforvaltningen.
-
-Kilde: Notat til By- og levekårsutvalget fra Arbeids- og velferdsdirektoratet datert 02.06.20.
-
-større grad. De pekte på flere mulige årsaker til at
-programmet ikke blir brukt mer enn det gjør,
-blant annet at programmet er ressurskrevende for
-kommunene, og at det kan trekke i retning av at
-brukere blir ledet inn mot statlige ordninger som
-arbeidsavklaringspenger eller statlige arbeidsmarkedstiltak. Ekspertgruppa mente at det kan være
-behov for å se på ansvarsforholdet mellom stat og
-kommune for å øke insentivene til å benytte kvalifiseringsprogrammet.
-
-12.2.1.2 Kvalifiseringstiltak for flyktninger og
-nyankomne innvandrere
-Fra 1. januar 2021 er det lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) som regulerer blant annet introduksjonsprogram og opplæring i norsk og samfunnskunnskap. Integreringsloven erstatter introduksjonsloven.
-Kommunene skal tilby opplæring i norsk
-språk og samfunnskunnskap til nyankomne innvandrere. Mange innvandrere har rett og plikt til å
-gjennomføre opplæringen, og de får den gratis.
-
-[Side 158]
-
-156
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-Boks 12.2 Kvalifiserings- og sysselsettingstiltak i Drammen
-som «Jobbsjansen for kvinner». Tiltaket
-Drammen kommune har gjennomført flere kvahadde lokaler på Fjell og skulle også bidra til
-lifiserings- og sysselsettingstiltak i forbindelse
-å øke kunnskapen om lokale organisasjoner
-med områdesatsingen Fjell 2020. Tiltakene
-og andre forhold i lokalsamfunnet. Tiltaket
-inkluderte blant annet
-inngikk i ordinær drift etter prosjektperio– Jobbsjansen for kvinner. Målet med tiltaket
-den.
-var å øke sysselsettingen blant kvinner med
-innvandrerbakgrunn som sto utenfor arbeid
-– Lavterskel praksisplasser. Praksisplasser ved
-og utdanning. Tiltaket fikk statlig tilskudd
-det lokale bo- og servicesentret skulle bidra
-over en treårsperiode gjennom tilskuddordtil språk- og arbeidstrening. Praksisplassene
-er videreført i ordinær drift etter prosjektpeningen til «Jobbsjansen». Kvinnene fikk tilbud om et individuelt tilrettelagt kvalifiserioden.
-ringsprogram for at de skulle komme i utdanning eller arbeid. Tiltaket var lokalisert på
-Utrederne som evaluerte områdesatsingen,
-Fjell. Rekrutteringen skjedde lokalt gjennom
-mente at kvalifiserings- og sysselsettingstiltadør-til-dør-aksjoner og ved å spre informasjon
-kene i høy grad nådde målene. De mente at et
-via barnehager, skoler og frivillige organisaviktig suksesskriterium var at tiltakene var lokasjoner. Tiltaket ble ansett som svært vellyklisert på Fjell, slik at det var kjente omgivelser
-og kort vei fra hjemmet for deltakerne. Et annet
-ket og ble implementert i ordinær drift i NAV
-suksesskriterium var at metodikken og innholetter at den statlige tilskuddsperioden var
-over.
-det i kursene var tilpasset målgruppa.
-– Ut i jobb. Dette var et tiltak for både kvinner
-Kilde: Rambøll 2020
-og menn på Fjell basert på samme metodikk
-
-Arbeidsinnvandrere mellom 18 og 67 år som er fra
-land utenfor EØS-/EFTA-regelverket og familiegjenforente til disse, har plikt, men ikke rett til
-opplæring. Disse må betale opplæringen selv.
-Nyankomne flyktninger og deres familiegjenforente deltar i introduksjonsprogram i kommunen de er bosatt i. Det gis også tilskudd til
-kommuner til andre kvalifiseringstiltak for innvandrere, for eksempel til Jobbsjansen (se Boks
-12.2).
-Introduksjonsprogrammet og/eller ordningen
-med norskopplæring er evaluert flere ganger (se
-blant annet Djuve mfl. 2017, Djuve og Kavli 2015,
-Kavli mfl. 2007, Rambøll 2007, Skutlaberg mfl. 2014
-og Tronstad 2015). I den siste evalueringen fra
-2017 dokumenterer forskerne at det er store kommunale variasjoner i hvordan ordningene organiseres og implementeres, og at noen av variasjonene
-påvirker deltakernes resultater (Djuve mfl. 2017).
-Et annet sentralt funn er at introduksjonsprogrammet i for liten grad inneholder reelt kvalifiserende
-virkemidler for deltakerne. Tiltakene er ikke
-«utformet og dimensjonert slik at de fyller gapet
-mellom hva slags kompetanse deltakerne har i
-utgangspunktet, og hva som kreves i det norske
-arbeidsmarkedet» (ibid.:22).
-
-12.2.1.3 Tiltak for å senke tersklene i arbeidslivet
-NAV tilbyr ulike tiltak rettet mot arbeidsgivere
-slik at det skal være lettere å ansette personer
-med nedsatt arbeidsevne og lav produktivitet.
-NAV kan tilby lønnstilskudd for å bidra til at personer blir fast ansatt i ordinære virksomheter og
-hindre at folk faller ut av arbeidslivet. NAV kan
-også støtte opp om virksomheter hvor arbeidstakere har behov for særskilt tilrettelegging. Dette
-gjøres ved at NAV følger opp tett, eller ved at NAV
-støtter oppfølgingen på arbeidsplassen i arbeidsgivers regi. Et eksempel på det siste er mentortilskuddet som er frikjøp av kolleger til individuell
-oppfølging/opplæring på arbeidsplassen.
-Tidligere har flere arbeidsmarkedstiltak vært
-rettet inn mot skjermet arbeid, arbeidstrening på
-en skjermet arena eller opplæring først, med
-sikte på deltakelse i ordinært arbeidsliv etter
-hvert.2 Over tid har bruken av arbeidsmarkedstiltak i form av opptrening og oppfølging gjennom ordinært arbeidsliv gått opp. Det vil si at
-jobbsøkeren så raskt som mulig kommer ut i
-vanlig arbeid på en ordinær arbeidsplass med
-2
-
-«Train then place».
-
-[Side 159]
-
-NOU 2020: 16
-Levekår i byer
-
-157
-
-Kapittel 12
-
-Boks 12.3 Rett i jobb i Fjell kommune
-Fjell kommune (nå Øygarden kommune) oppging av både deltaker, mentor og arbeidsgiver
-underveis.
-rettet i 2017 et nytt tilbud for nyankomne flyktninger med høyere utdanning eller lang arbeidsKommunen mottok i prosjektperioden om
-lag 4 millioner kroner i tilskuddsmidler fra henerfaring. Formålet var å ta i bruk kompetansen
-til nyankomne flyktninger på en raskere og
-holdsvis Fylkesmannen i Hordaland og Integrebedre måte, gi språkopplæring i et norsktalende
-rings- og mangfoldsdirektoratet (IMDi). Tilarbeidsmiljø kombinert med norskundervisning
-skuddet ble brukt til å lønne to prosjektansatte.
-på kveldstid, løse oppgaver som kommunen
-Kommunen brukte integreringstilskuddet fra
-ellers ikke ville ha fått løst, og i tillegg utvikle et
-staten til å lønne deltakerne. De mottok lønn
-mentorprogram for å sikre god oppfølging av
-som assistenter i Fjell kommune i prosjektperiodeltakerne på sin respektive arbeidsplass. Flyktden, en lønn som var noe høyere enn introdukningene skulle begynne rett i jobb uten å gå
-sjonsstønaden. Dermed ble prosjektet noe
-veien via et toårig introduksjonsprogram. Ti perdyrere for kommunen enn det ordinære løpet.
-Til gjengjeld ble kommunens tjenestetilbud styrsoner ble ansatt i toårige prosjektstillinger fordelt på ulike enheter i kommunen, slik som
-ket i form av deltakernes ti årsverk. Prosjektpeskole, sykehjem og boligkontor.
-rioden ble avsluttet i 2019 med gode resultater. I
-Prosjektet hadde tre faser: først kartlegging
-begynnelsen av 2020 var ni av de ti deltakerne
-av aktuelle deltakeres utdanning, arbeidserfasom startet i prosjektet, i jobb.
-ring og personlige egenskaper samt behov og
-forventninger; så skreddersøm i form av individuell tilpasning av løpet og til slutt tett oppfølKilde: IMDis nettsider
-
-tett oppfølging.3 Sistnevnte metodikk innebærer
-at det søkes målrettet etter arbeidsplasser som
-kan gi brukeren lønnet arbeid på kort eller lang
-sikt.
-Undersøkelser tyder på at det fortsatt ligger et
-uutnyttet inkluderingspotensial i å benytte det
-ordinære arbeidsmarkedet som inkluderingsarena (Spjelkavik 2016). En gjennomgang av internasjonale effektevalueringer tyder samtidig på at
-opplæring først gjennom «train-then-place» generelt gir mer positive resultater enn «place-thentrain» for ordinære arbeidssøkere, særlig for innvandrere (von Simson 2019).
-I tillegg til NAVs virkemidler skal lovverket
-bidra til å senke tersklene i arbeidslivet. Forbud
-mot å diskriminere ved ansettelser og i arbeidsforhold er regulert i likestillings- og diskrimineringsloven. Dette er blant annet viktig for at innvandrere skal ha mulighet til å få jobb og få varig tilknytning til arbeidslivet (Elgvin og Svalund 2020).
-Sysselsettingsutvalgets ekspertgruppe (NOU
-2019: 7) mente at arbeidsmarkedspolitikken har
-lagt for lite vekt på arbeidsgiversiden. Mens en
-rekke tiltak retter seg mot å øke kvalifiseringen av
-arbeidstakere, mente de at det er få effektive tiltak
-3
-
-«Place then train».
-
-for å få arbeidsgivere til å i større grad ville
-ansette arbeidstakere med nedsatt arbeidsevne og
-lav produktivitet. Ekspertgruppa drøftet flere virkemidler for å gi lettere innpass i arbeidslivet.
-Norge har relativt få jobber i yrker med ingen
-eller lave krav til utdanning sammenliknet med
-andre land. Skandinavia har også lavere lønnsspredning, og forskjellen i sysselsetting mellom
-innvandrere født utenfor EØS-området og resten
-av befolkningen er lavere enn i andre europeiske
-land. Ekspertgruppa mente likevel, i likhet med
-Cappelen-utvalget (NOU 2016: 15), at generelt å
-redusere lønnsnivået i lavtlønnsyrker ikke er en
-farbar vei for å øke jobbmulighetene for blant
-annet flyktninger. Lavere lønninger vil gjøre det
-mindre lønnsomt å jobbe og øke risikoen for at
-flere blir stående varig utenfor arbeidslivet.
-Både Cappelen-utvalget og Sysselsettingsutvalgets ekspertgruppe framhevet derimot ulike
-former for tilpassede eller subsidierte lønninger
-som virkemidler det var aktuelt å videreutvikle.
-Det er ordninger som å redusere lønn ved helseutfordringer eller i en opplæringsperiode og
-lønnstilskudd. Resultater fra flere studier, både fra
-Norge og internasjonalt, viser at bruk av lønnstilskudd har positiv effekt på jobbmulighetene til
-dem som deltar og dermed bidrar til høyere sys-
-
-[Side 160]
-
-158
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-selsetting (von Simson 2019). De positive resultatene av lønnstilskudd har trolig sammenheng med
-at deltakere blir ansatt i virksomheten når de starter i tiltaket. Ekspertgruppa foreslo å øke bruken
-av lønnstilskudd betydelig. Samtidig framhevet de
-at lønnstilskuddet må være et målrettet virkemiddel mot utsatte grupper som har særskilte problemer med å få innpass i arbeidsmarkedet, og være
-tidsavgrenset, for å motvirke at tiltaket fortrenger
-jobbmulighetene for andre.
-Ekspertgruppa pekte videre på at kvalifikasjonsprinsippet4 i offentlig sektor kan være til hinder for slike virkemidler, og mente det bør kunne
-avvikes fra dette prinsippet i noen stillinger for å
-ansette personer med nedsatt arbeidsevne. Ansettelsesprosessene i staten er lovregulert, i motsetning til i arbeidslivet ellers. Kvalifikasjonsprinsippet er lovfestet, men det er mulig å avvike fra prinsippet av hensyn til positiv særbehandling etter
-likestillings- og diskrimineringsloven (Prop. 94 L
-(2016–2017)). Reglene for ansettelser i staten er
-nylig justert, slik at det i noe større grad gis anledning til en moderat kvotering. Hensynet til mangfold og inkludering kommer også fram av statens
-personalpolitiske føringer. I tildelingsbrevene til
-statlige virksomheter er det stilt krav om at virksomhetene skal arbeide systematisk for å realisere regjeringens inkluderingsdugnad.5 Traineeprogrammet i staten er også en del av statens satsing for å inkludere personer med nedsatt funksjonsevne og hull i CV-en i arbeidsmarkedet. Statlige virksomheter får støtte gjennom programmet,
-og trainee-ene får arbeidserfaring og følger et
-medarbeiderutviklingsprogram.
-Ansettelser i staten skal som hovedregel være
-faste. Det var tidligere større adgang til å inngå
-midlertidige arbeidsavtaler i staten enn i kommunal og privat sektor. I 2015 var om lag 17 prosent av
-de ansatte i staten midlertidig ansatt, mens andelen
-4
-5
-
-Den best kvalifiserte søkeren skal ansettes i en ledig stilling.
-Omtalt i høringsnotat fra Kommunal- og moderniseringsdepartementet «Forslag til endringer i forskrift til lov om
-statens ansatte mv.» 12. juli 2019.
-Regjeringen har tatt initiativ til en inkluderingsdugnad i
-offentlig og privat sektor for å få flere i jobb. Inkluderingsdugnaden har tre innsatsområder: (1) Regjeringen vil
-senke terskelen inn i arbeidslivet og gjøre det lettere for
-arbeidsgivere å ansette personer som står utenfor arbeidslivet. (2) Regjeringen vil videreutvikle og styrke tilbudet til
-arbeidssøkere med psykiske lidelser og/eller rusproblemer, slik at flere kan delta i arbeidslivet. (3) Regjeringen vil
-styrke mulighetene for opplæring slik at flere kvalifiseres
-inn i arbeid.
-Regjeringen har også satt et mål om at fem prosent av nyansatte i staten skal ha nedsatt funksjonsevne eller hull i CVen.
-
-i arbeidslivet samlet var på 8 prosent. Adgangen til
-midlertidige ansettelser i staten ble strammet noe
-inn (Prop. 94 L (2016–2017)), mens adgangen til
-midlertidig ansettelse for arbeidslivet generelt ble
-noe utvidet i 2015. Sysselsettingsutvalgets ekspertgruppe drøftet midlertidige ansettelser som et virkemiddel for å senke terskelen for å komme inn i
-arbeidsmarkedet. De mente at midlertidige ansettelser kan fungere som et springbrett for noen,
-men at det også kan føre til at arbeidstakere får
-langvarig svak og ustabil tilknytning til arbeidslivet.
-De mente derfor at omfanget av midlertidige ansettelser ikke bør bli for stort. Et alternativ kunne
-være å gjøre arbeidstakernes prøvetid til en mer
-reell utprøving før fast ansettelse.
-I en undersøkelse av motivasjon og hindre for
-å inkludere flyktninger oppgir intervjuede kommunale arbeidsgivere at de er opptatt av at deres
-enheter skal speile mangfoldet i befolkningen.
-Enkelte av informantene gir samtidig uttrykk for
-at regler om fast ansettelse og konkurranse om
-stillinger kan være til hinder for arbeidsinkludering (Bjerck mfl. 2018).
-
-12.2.2 Lokal næringsutvikling
-Statens næringspolitikk skal bidra til størst mulig
-verdiskapning innenfor bærekraftige rammer.
-Næringslivet omstiller seg gjennom endringer
-innad i bedriftene, men teknologi, kapitaltilgang,
-innovasjonsgrad, infrastruktur og annet påvirker
-mulighetene til å omstille. Offentlige støtteordninger i næringspolitikken skal korrigere for svikt i
-markedene og blant annet bidra til innovasjon og
-teknologiutvikling. Deler av næringspolitikken er
-rettet mot grønn omstilling i næringslivet, som
-forskning og utvikling av mer miljøvennlig produksjon og energibruk.
-Innovasjon Norge er statens og fylkeskommunenes virkemiddel for å realisere verdiskapende
-næringsutvikling. Blant annet skal Innovasjon
-Norge fremme flere gode gründere og flere vekstkraftige bedrifter. Det er også flere andre offentlige instanser som gir støtte til forskning og innovasjon, blant annet Siva og Forskningsrådet. Siva
-(Selskapet for industrivekst) er et statlig foretak
-som skal bidra til en nasjonal infrastruktur for innovasjon og næringsutvikling, slik som kontorplasser, kurs, nettverksarenaer osv. Siva investerer
-også i næringseiendommer og drifter og utvikler
-en eiendomsportefølje på over 100 eiendommer
-over hele landet. Fylkeskommunene har i tillegg
-mer avgrensede ordninger rettet mot innvandrere, som tilskudd til etablereropplæring og en
-mentor- og traineeordning. De offentlige instan-
-
-[Side 161]
-
-NOU 2020: 16
-Levekår i byer
-
-sene bidrar med rådgivnings- og kompetansetjenester til et bredt spekter av virksomheter. Finansieringstjenestene er mer avgrensede og for det
-meste rettet mot virksomheter med et stort vekstpotensial.
-Levekårsutsatte områder i byer er ikke prioritert i næringspolitikken, men deler av de næringspolitiske virkemidlene er geografisk avgrenset
-ved at de er rettet mot distriktskommuner.
-Enkelte støtteordninger, som distriktsrettet investeringsstøtte, kan kun gis til kommuner med særskilte distriktsutfordringer (det distriktspolitiske
-virkeområdet). Et eksempel på den distriktsrettede næringspolitikken er Merkur-programmet.
-Merkur-programmet er en statlig finansiert ordning som skal bidra til å sikre folk i distriktene en
-dagligvarebutikk med god kvalitet. Å utvikle nærbutikkene som en sosial arena og som et servicesenter i kommunen er også en del av satsingen i
-programmet. Programmet tilbyr blant annet kurs,
-veiledning, nettverksbygging og investeringsstøtte. En evaluering av ordningen fant at både
-kompetanseprogrammet og investeringsstøtten
-bedret vilkårene for butikkdrift (Halvorsen og
-Båtevik 2014).
-Kommuner og fylkeskommuner har også et
-ansvar for å legge til rette for lokal og regional
-samfunnsutvikling, og samfunns- og næringsutvikling virker inn på hverandre: Å ha attraktive
-lokalsentre kan styrke kundegrunnlaget for
-næringsdrivende, og næringsvirksomhet kan
-påvirke hvor attraktive områdene er. Gjennom
-blant annet Distriktssentret skal statlige virkemidler bidra til å heve kompetansen og gi økonomisk
-støtte til å utvikle lokalsamfunn i distriktskommuner, mens statlig innsats gjennom områdesatsinger skal bidra i utsatte byområder.
-Lokal samfunnsutvikling vil i mange sammenhenger handle om samarbeid mellom ulike aktører, både private og offentlige. Hensikten er å
-finne løsninger hvor både private og offentlige
-aktører kan bidra og dra nytte av innsatsen. Det
-finnes mange gode eksempler på samarbeid mellom det offentlige og private om lokal samfunnsutvikling. Samtidig er det hindre mot å få til slike
-vinn-vinn-løsninger.
-For eksempel ble det etablert en rekke lokale
-handelssentre i nærheten av kollektivknutepunkt i
-Groruddalen da disse drabantbyene ble bygd ut.
-Informanter fra bydelene viste til den historiske
-rollen disse sentrene har hatt, og at det er problematisk når sentrene har mange tomme lokaler og
-er dårlig vedlikeholdt. Det gjør at lokalbefolkningen mangler nærbutikker. I tillegg kan sentrene
-oppleves som utrygge og være et vitnesbyrd på
-
-159
-
-Kapittel 12
-
-Boks 12.4 Etablererstøtte til
-arbeidsledige
-I NOU 2019: 7 viser Sysselsettingsutvalgets
-ekspertgruppe til at flere land har støtteordninger til arbeidsledige som ønsker å etablere
-egen virksomhet. Slike ordninger er lite brukt
-i Norge. Ekspertgruppa foreslår å øke bruken
-av etablererstøtte og andre virkemidler som
-oppmuntrer til entreprenørskap blant arbeidsledige. Særlig mener ekspertgruppa dette kan
-være aktuelt hvis det er få ledige stillinger og
-mange jobbsøkere. Videre peker ekspertgruppa på at innvandrere og andre som har
-problemer med å komme inn på det ordinære
-arbeidsmarkedet, er særlig aktuelle målgrupper. Å bruke etablererstøtte kan medvirke til å
-bryte gjennom mulige barrierer som diskriminering og problemer med å dokumentere
-kompetanse.
-Støtteordningene ser ut til å kunne ha positiv effekt, men effektstudiene er usikre.
-Ekspertgruppa mener at det trengs mer kunnskap om effektene av etablererstøtte, og peker
-derfor på at dette kan være et område som
-egner seg for forsøksvirksomhet.
-
-forfall og liten interesse for området. Ved å gi sentrene nytt innhold, for eksempel gjennom kunst
-og kultur, mente informanter at sentrene kan bli
-gode møteplasser med historisk forankring. Gjennom den første Groruddalssatsingen ble det forsøkt å få til et bedre samarbeid mellom offentlig
-og privat sektor om å ruste opp lokale butikksentre. Ifølge informanter var det vanskelig å få til i
-praksis. Det er ikke nødvendigvis slik at nabolagenes ønsker om en møteplass sammenfaller med
-sentereiernes vilje til å investere. Midlene fra satsingen var begrensede og utløste i liten grad private investeringer i lokalsentrene (Gabrielsen
-2014).
-En del næringsaktører omtales som sosiale
-entreprenører. Dette er aktører og virksomheter
-som skal fylle et udekket velferdsbehov og bidra
-med nyskapende løsninger på sosiale problemer,
-samtidig som de har en ordinær forretningsdrift.
-En undersøkelse blant sosiale entreprenører i
-2017 viste at om lag 30 prosent av disse hadde
-mottatt støtte fra Innovasjon Norge og rundt
-20 prosent fra fylkeskommunen. Nær halvparten
-hadde fått støtte fra private aktører som stiftelser
-
-[Side 162]
-
-160
-
-NOU 2020: 16
-
-Kapittel 12
-
-Levekår i byer
-
-Boks 12.5 Norge Unlimited
-Norge Unlimited er en nettverksorganisasjon
-som bygger på en metode for å støtte privat
-initierte sosiale prosjekter i lokalsamfunn.
-Metoden går ut på å etablere en nabolagsinkubator hvor initiativtakere kan treffes og få
-ulike former for hjelp. En nabolagsinkubator
-er en fysisk arbeidsplass og en lærings- og
-nettverksarena. Det er etablert tre slike
-nabolagsinkubatorer i Norge, alle på steder
-hvor det er eller har vært gjennomført områdesatsinger (Tøyen, Storhaug og Fjell).
-Kilder: Tøyen Unlimiteds nettside, Brattbakk mfl. 2015.
-
-eller liknende. I sum pekte undersøkelsen på at
-det var en rekke virkemidler og rådgivningstjenester som de sosiale entreprenørene kunne
-benytte seg av, selv om de færreste var særskilt
-tilrettelagt for dem, og til tross for at ordningene
-var forvaltet av en rekke ulike offentlige og private aktører. Undersøkelsen så på hva som hindret sosiale entreprenører i å etablere seg og
-vokse. Informanter blant de sosiale entreprenørene opplevde at samfunnsbidraget som kom fra
-dem, ikke ble tilstrekkelig verdsatt, og mente at
-manglende fleksibilitet i offentlige regelverk
-kunne hindre innovasjon. Undersøkelsen viste
-også at en del ansatte i det offentlige tjenesteapparatet mente at sosiale entreprenører til dels tilbyr lettvinte løsninger på kompliserte samfunnsspørsmål (Kobro mfl. 2017).
-
-12.3 Levekårsutfordringer og
-kommunenes økonomi
-12.3.1 Kommunenes ansvar og inntekter
-Sentrale prinsipper i norsk offentlig forvaltning er
-at oppgaver skal legges på lavest mulig effektive
-nivå, og at det kommunale og fylkeskommunale
-selvstyret ikke bør begrenses mer enn nødvendig
-for å oppnå nasjonale mål. Det er videre et prinsipp for offentlig styring at forvaltningsnivået som
-har ansvaret for en oppgave, også skal finansiere
-utgiftene (det finansielle ansvarsprinsipp). Det
-nordiske systemet for oppgavefordeling er relativt
-desentralisert sammenliknet med i andre europeiske land. Norske kommuner har høy grad av
-selvstyre og et bredt myndighetsansvar.6
-
-Kommunesektorens inntekter er satt sammen
-av bundne og frie inntekter. De bundne inntektene består hovedsakelig av øremerkede tilskudd,
-gebyrer og egenbetalinger som er knyttet til spesifikke kommunale tjenester. De frie inntektene er
-inntekter kommuner og fylkeskommuner kan
-benytte fritt, uten andre føringer fra staten enn
-gjeldende lover og regler. De frie inntektene
-består av rammetilskudd og skatteinntekter. Rammetilskuddet er den delen av de frie inntektene
-som ikke fordeles på grunnlag av kommunens
-skatteinntekter. Det fordeles hovedsakelig på bakgrunn av antall innbyggere (innbyggertilskudd).
-En liten del av rammetilskuddet fordeles på bakgrunn av særskilte regionalpolitiske hensyn (regionalpolitiske tilskudd). Rammetilskuddet utgjør
-om lag 32 prosent og skatteinntektene 40 prosent
-av kommunesektorens inntekter, mens øremerkede tilskudd, brukerbetalinger og gebyrer utgjør
-samlet om lag 20 prosent.
-Innbyggertilskuddet blir omfordelt ut fra
-anslåtte forskjeller i kommunenes utgiftsbehov,
-det vil si forskjeller i utgifter som skyldes forhold
-kommunene selv ikke kan påvirke (utgiftsutjevning). Tilskuddet skal bidra til at kommunene kan
-gi likeverdige tjenestetilbud. Utgiftsutjevningen
-beregnes ut fra kommunenes utgifter til velferdstjenester av nasjonal karakter og tjenester det er
-knyttet sterke nasjonale føringer til. Kriteriene for
-utgiftsutjevningen kan i grove trekk deles i tre:
-alderskriterier, sosiale kriterier og strukturelle
-kriterier. Mange barn i skolealder, mange eldre
-som trenger omsorgstjenester, lange reiseavstander og/eller spredt bosetting er forhold som
-anses å ufrivillig øke kommunenes utgifter.
-Regjeringen nedsatte i mai 2020 et utvalg som
-skal gå gjennom inntektssystemet til kommunene
-og komme med forslag til endringer.7 Utvalget
-skal levere sin rapport i juni 2022.
-
-12.3.2 Kompensasjon for levekårsforskjeller i
-kommunenes inntektssystem
-Ulike demografiske og sosioøkonomiske trekk
-ved befolkningen påvirker utgiftsnivået i velferdssektorer som skole, barnehage og sosiale tjenester. Enslige forsørgere, utdanningsnivå, innvandrerandel og lavinntektsandel er noen av faktorene som kan påvirke utgiftene i velferdssektorene, og som utgiftsutjevningen i inntektssystemet skal korrigere for. Ifølge en undersøkelse
-6
-7
-
-Se Kriterier for god kommunestruktur. Sluttrapport fra
-ekspertutvalg (2014).
-Regjeringens nettsider.
-
-[Side 163]
-
-161
-
-NOU 2020: 16
-Levekår i byer
-
-Kapittel 12
-
-Tabell 12.1 Frie inntekter i 2019 for de fire største byene korrigert for variasjoner i utgiftsbehov.
-Landsgjennomsnitt = 100
-
-Korrigerte frie inntekter
-(prosent av landsgjennomsnittet
-per innbygger)
-
-Oslo
-
-Bergen
-
-Trondheim
-
-Stavanger
-
-Landsgjennomsnitt
-
-105
-
-100
-
-100
-
-102
-
-100
-
-Oslo har foruten rent kommunale oppgaver også fylkeskommunale og delegerte statlige oppgaver. Inntektsnivået for Oslo er her
-beregnet ut fra Oslos kommunale oppgaver.
-Som frie inntekter regnes her rammeoverføringer og skatt fra inntekt og formue for personer og dessuten naturressursskatt. I tillegg inkluderer tallene i denne tabellen inntekter fra eiendomsskatt og konsesjonskrafts- og hjemfallsinntekter.
-Kilde: Kommunal- og moderniseringsdepartementet
-
-av de store byenes utgiftsnivå ser det ut til at
-utgiftsutjevningen korrigerer for slike utgiftsforskjeller mellom de største byene og andre kommuner innenfor sentrale velferdssektorer som
-skole og barnehage. Store kommuner har lavere
-driftsutgifter til skole og noe høyere driftsutgifter
-til barnehage enn små kommuner (Brattbakk mfl.
-2016)
-Store byer har høyere utgifter til sosialhjelp
-enn små kommuner, og det ser ut til at de største
-byene bare delvis blir kompensert for de høye
-sosialhjelpsutgiftene gjennom utgiftsutjevningen
-(ibid.). Høye sosialhjelpsutgifter kan være en indikasjon på at en større andel av befolkningen i de
-store byene har alvorlige levekårsutfordringer,
-blant annet rus og psykiske lidelser, bostedsløshet, vansker på arbeidsmarkedet og økonomiske
-problemer, kombinert med høye boligpriser.
-Diagnoser innen rus og psykiatri er framhevet
-som viktige drivere for sosialhjelpsutgifter, men
-det er krevende å finne kriterier som fanger opp
-utgiftsforskjellene (Melberg mfl. 2003, NOU 2005:
-18, Løyland mfl. 2012, Halvorsen mfl. 2015). Det
-er også et spørsmål om ulike levekårsutfordringer
-virker sammen og forsterker hverandre, enten på
-individnivå eller i områder. Noen studier har funnet at utgiftene blir høyere ved at individer har
-flere levekårsproblemer samtidig (Dølvik mfl.
-2008, Løyland mfl. 2012). Det er mer sprikende
-resultater på spørsmålet om geografisk opphoping
-av levekårsproblemer gir økte utgifter. Enkelte
-undersøkelser finner en sammenheng mellom
-segregering og utgifter til sosialhjelp (PwC 2008,
-omtalt i Brattbakk mfl. 2016), mens andre ikke finner en tydelig sammenheng (Dølvik mfl. 2008,
-Løyland mfl. 2012).
-I flere av de store byene og deres omegn er
-boutgiftene høyere og behovet for en boligsosial
-innsats større enn i andre kommuner. Høye boligpriser kan gi større behov for økonomisk sosialhjelp. Tidligere undersøkelser viser at andelen
-
-husstander med lav inntekt i Oslo øker med flere
-prosentpoeng dersom den ses i sammenheng
-med det regionale prisnivået på boliger (Langørgen mfl. 2003, Mogstad 2005). Det er benyttet
-regionspesifikke lavinntektsgrenser i beregningen av kommunenes utgiftsbehov for å ta hensyn
-til forskjeller i boligpriser mellom ulike deler av
-landet. Andre boligsosiale utgifter, som utgifter til
-kommunale boliger, kommunal bostøtte og etablering i eid bolig, inngår ikke i utgiftsutjevningen.
-Dette er i liten grad offentlige støtteordninger
-med sterke og standardiserte nasjonale føringer.
-Høyere utgifter til boligsosialt arbeid kompenseres dels gjennom høyere inntekter gjennom husleier og boligsalg. Det er samtidig forskjeller mellom storbykommunene. Blant annet har Oslo
-høye boligsosiale utgifter også når det korrigeres
-for brukerbetaling som husleie (Brattbakk mfl.
-2016). I Oslo kommunes høringssvar til nytt inntektssystem for kommunene står det at tilgangen
-til en god og egnet bolig er en grunnleggende del
-av sosialarbeidet i kommunen.8 Kommunen
-bemerker at utgifter til kommunale boliger, bidrag
-til å etablere seg i egen bolig, i tillegg til arbeidsrettede tiltak i kommunal regi ikke inngår i beregningene av utgiftsbehov for sosialhjelp.
-Alle de fire største byene får samlet sett redusert innbyggertilskuddet gjennom utgiftsutjevningen. Samtidig har også alle disse byene høyere
-skatteinntekter enn landsgjennomsnittet. Deler av
-skatteinntektene blir omfordelt til kommuner med
-lavere skatteinntekter enn landsgjennomsnittet.
-Tabell 12.1 viser nivået på kommunenes frie inntekter når de er korrigert for variasjoner i utgiftsbehov.
-I 2011 ble det innført et eget storbytilskudd
-for å kompensere for særlige utfordringer som
-storbyene kan stå overfor, og som ikke fanges
-8
-
-Høringsuttalelse fra Oslo kommune til Kommunal- og
-moderniseringsdepartementet 07.03.2016.
-
-[Side 164]
-
-162
-
-Kapittel 12
-
-NOU 2020: 16
-Levekår i byer
-
-Boks 12.6 Oslo kommunes
-kriteriesystem og
-levekårsutfordringer
-Oslo kommune har et eget kriteriesystem for
-å fordele rammetilskudd til bydelene. Kommunen har kriterier for levekårsopphoping som
-inkluderer lav inntekt, lav utdanning og utflyttingstakt. Samtidig er det vanskelig å finne
-gode kriterier for en del utfordringer. Ifølge
-representanter for bydelene som er intervjuet
-i en undersøkelse om kriteriesystemet, har det
-vært vanskelig å fange opp enkelte grupper
-med store og sammensatte tjenestebehov.
-Dette kan være grupper som eldre med kognitiv svikt og rusproblemer, personer med både
-rusproblemer og psykiske lidelser og innvandrere med kort botid og lav utdanning.
-En del av kriteriene er revidert etter at undersøkelsen ble
-gjennomført.
-Kilde: Halvorsen mfl. 2015.
-
-godt nok opp gjennom utgiftsutjevningen. Oslo,
-Bergen, Trondheim, Stavanger, Kristiansand og
-Drammen mottar storbytilskudd. Det er usikkert
-om storbytilskuddet kompenserer for ekstrautgiftene som disse kommunene har til å forebygge og kompensere for levekårsutgifter, sammenliknet med kommuner med relativt sett få
-levekårsutfordringer (Brattbakk mfl. 2016, Iversen mfl. 2020).
-
-12.3.3 Ressursbruk i områder med
-levekårsutfordringer
-Kommunenes inntekter fordeles videre innad i
-kommunene. Når kommunene kompenseres for
-utgifter som følge av levekårsutfordringer, er det
-relevant å undersøke i hvilken grad det gir høyere ressursbruk i områder med mange levekårsutfordringer.
-Senter
-for
-økonomisk
-forskning ved NTNU Samfunnsforskning har på
-vegne av By- og levekårsutvalget gjennomført en
-analyse av ressursbruken innad i de fire storbyene Oslo, Bergen, Trondheim og Stavanger.
-Utrederne har sett på forskjeller i ressursbruken
-mellom kommunene som helhet og et utvalg analyseområder som skårer dårlig på levekårsindikatorer.
-
-Boks 12.7 Indeks for
-levekårsproblemer
-I perioden 1995–2008 utarbeidet SSB en egen
-indeks for levekårsproblemer som kommunene kunne benytte som styringsinformasjon
-for helse- og sosialtjenesten. Indeksen vektet
-et utvalg levekårsindikatorer slik at den ga et
-samletall for levekårsproblemer i en kommune eller et område sammenliknet med
-andre kommuner og områder. Indeksen ble
-avviklet på grunn av metodiske utfordringer.
-Kilde: Indeks for levekårsproblemer.
-
-Samlet sett tyder analysen på at utgiftene innenfor flere sektorer er høyere i utsatte områder.
-Undersøkelsen finner særlig høye utgifter i områder som skårer dårlig på flere levekårsindikatorer.
-Det kan tyde på at utgiftene øker særskilt når levekårsutfordringene blir store og sammensatte.
-De fire storbykommunene har alle egne ressursfordelingsmodeller innenfor flere sektorer
-der de bruker sosioøkonomiske kriterier for å fordele budsjettmidler. Denne ressursfordelingen
-gjør det mulig å bruke mer ressurser i områder
-med levekårsutfordringer. Disse systemene betyr
-mye innenfor enkelte sektorer. Et eksempel er
-utdanning, hvor forskjellene i ressursbruk mellom analyseområdene og andre områder er størst.
-Fordelingen ser ut til å gi noe høyere ressursbruk
-til årstimer i skolene. Samtidig ser det ut til at en
-høyere andel av årstimene på skoler i utsatte
-områder går til andre formål enn ordinær undervisning, og andelen lærere med godkjent utdanning er noe lavere enn andre steder.
-En del andre sektorer, som kultursektoren,
-har tilsynelatende ikke like tydelige systemer for
-å tildele ressurser etter sosioøkonomiske kriterier. En analyse av bydelene i Oslo tyder likevel på
-at kommunenes ressursbruk til fritids- og aktivitetstilbud er høyere i utsatte områder enn andre
-steder, selv om inntrykket fra intervjuer med
-offentlige ansatte er at tilbudene i de utsatte områdene ikke skiller seg vesentlig fra det som er i
-andre områder. Dette kan henge sammen med at
-det må til mer ressurser for å organisere aktiviteter og for å mobilisere folk til å bli med enn i andre
-områder. I tillegg vil trolig flere betale reduserte
-priser for aktivitetene når flere har lave inntekter
-(Iversen mfl. 2020).
+# Konsekvenser av bokonsentrasjon for sosial mobilitet, samhold og tillit
+
+En del internasjonal forskning har vært opptatt av hvordan oppvekststedet påvirker innbyggernes mulighetsrom og livssjanser. Det er særlig barn og unges sosiale mobilitet og livssjanser som har stått i sentrum i denne forskningen. Annen forskning har vært opptatt av hvordan nettverk, tillit og deltakelse påvirkes av at det er store sosiale og økonomiske forskjeller mellom folk i lokalsamfunnet.
+
+## Sosial mobilitet for barn og unge
+
+Den sosiale mobiliteten er høy i Norge og Skandinavia. I et samfunn med høy sosial mobilitet vil barns sosiale og økonomiske muligheter i voksenlivet være mindre avhengige av foreldrenes inntekt og sosiale status enn i et samfunn med lav sosial mobilitet. Også barn av innvandrere har høy sosial mobilitet. Mange norskfødte med innvandrerforeldre og barn som har innvandret til Norge før førskolealder, gjør det bra i Norge. De har imidlertid gjennomgående lavere inntekter enn jevnaldrende uten innvandrerbakgrunn (Epland og Kirkeberg 2018).
+
+Den sosiale mobiliteten mellom generasjoner i Norge kan være fallende (Markussen og Røed 2020 og Hoen mfl. 2018). En mulig forklaring er at et stadig høyere utdanningskrav i arbeidsmarkedet kan ha ført til at ulempen ved å være født inn i en familie med lav utdanning og inntekt er større nå enn før (Markussen og Røed 2020).
+
+### Forskning på nabolagseffekter
+
+Barn og unge bruker mye tid i nabolaget. På hjemstedet og i nabolaget blir barn kjent med andre og lærer alt fra viktige kulturelle koder, grunnleggende idrettsferdigheter til mer avansert «akademisk» kunnskap (Brattbakk og Andersen 2017).
+
+Nabolagseffekter kan forstås som både negative og positive selvforsterkende effekter. Forskningen om nabolagseffekter forutsetter at det er negative selvforsterkende effekter i utsatte områder og positive selvforsterkende effekter i «rike» områder (ibid., Brattbakk og Wessel 2013, Chetty mfl. 2016). Nabolagsforskningen ser særlig på effekter på barn og unge.
+
+Teoriene om hvordan nabolagseffekter oppstår, kan deles i dem som ser på trekk ved selve nabolaget («interne forhold»), og dem som ser på trekk ved samfunnet rundt («eksterne forhold»). I en artikkel i boka *Oslo – ulikhetenes by* oppsummerer Brattbakk og Wessel (2017) teorier om nabolagseffekter.
+
+Teorier om interne forhold legger vekt på at egenskaper, atferd eller holdninger hos ett eller flere individer påvirker naboene deres direkte. Teorier som trekkes fram, handler om læring/sosialisering, rollemodeller som påvirker barn og unges atferd og holdninger, smitteeffekter, sosiale normer og sosiale nettverk, konkurranse om ressurser, eksponering (for eksempel for kriminalitet og vold) og relativ deprivasjon (særlig relevant når man vokser opp som fattig i et rikt nabolag).
+
+De eksterne forklaringene handler om større strukturelle krefter i byområdet som påvirker nabolaget. En forklaring handler om lokale, institusjonelle ressurser. Goder og byrder er ulikt fordelt i byrommet, og enkelte nabolag har tilgang til færre, og kvalitativt dårligere, institusjonelle ressurser, for eksempel tjenester. Dårlig kvalitet på tjenestetilbudet kan i neste omgang bidra til ulikheter i levekår. En annen forklaring handler om stigmatisering av områder og menneskene som bor der, for eksempel at man forestiller seg at personer fra konkrete områder har visse felles egenskaper. Stigmatisering av områder kan virke inn på beboernes selvfølelse og stedstilhørighet, påvirke beboerne negativt i møte med omverdenen, føre til fordommer og forskjellsbehandling og i verste fall føre til reduksjon i kvalitet og kvantitet av ressurser som tilføres områder. Videre kan stigmatisering av et område forsterke et negativt omdømme og på den måten påvirke boligpriser og flyttestrømmer.
+
+Mye av forskningen på hvordan nabolaget påvirker barn og unges livssjanser og sosiale mobilitet, har foregått i USA. Det er der funn av slike effekter er tydeligst, i Europa er funnene mer sprikende. En kritikk går ut på at det er metodisk vanskelig å skille effekter av nabolaget fra øvrige sosiale kontekster som innbyggerne er en del av. Hvorvidt man finner effekter, og hvor store de eventuelt er, handler også om størrelsen på nabolaget en studerer.
+
+I Norge er de fleste studier av nabolagseffekter gjennomført i Oslo. Situasjonen i Oslo er veldig forskjellig fra større byer både i USA og i mange land i Europa, og antakelig kan ikke studier derfra overføres til norske forhold. De til dels sterke effektene som er påvist i amerikanske storbyer, kan tenkes å bli moderert i velferdsstater med sosiale ordninger og omfattende omfordelingspolitikk (Brattbakk og Andersen 2017).
+
+Forholdet mellom nabolag og individ må ses som et gjensidig samspill heller enn som en enveiseffekt nabolag har på individer (Sykes 2011). Unge tar aktive valg og samspiller med, og påvirker, sine omgivelser, inkludert nabolagene sine.
+
+«Moving to Opportunity» – forsøk i USA på å flytte lavinntektsfamilier
+
+Studier av et forsøk i USA kalt «Moving to Opportunity» (MTO) har hatt stor innflytelse på hvordan nabolagseffekter forstås. Forsøket ble gjennomført på oppdrag av US Department of Housing and Urban Development i fem amerikanske storbyer (Baltimore, Boston, Chicago, Los Angeles og New York) i perioden 1994–1998. Totalt deltok 4600 lavinntektsfamilier med barn i offentlige utleieboliger i forsøket. Familiene kom fra områder med en høy andel fattige. Familiene ble tilfeldig delt inn i tre grupper. Én gruppe fikk økonomisk støtte til å dekke husleie til private utleieboliger i boområder med en fattigdomsrate på under 10 prosent. Disse fikk veiledning fra en lokal frivillig organisasjon om hvor de kunne flytte. En annen gruppe fikk kun støtte til husleie, men ingen begrensninger på hvor de kunne flytte. Den tredje gruppa, kontrollgruppa, fikk ingen hjelp til å flytte via MTO-forsøket.
+
+Forsøket er studert over lengre tid. Blant funnene er at flytting til et boligområde med lav fattigdomsrate førte til bedre psykisk og fysisk helse og bedre trivsel og trygghet. Forskere har også undersøkt om det å bo i områder med mindre fattigdom hadde effekt på voksnes inntekt og sysselsetting. De fant ingen effekter på inntekt og sysselsetting (Katz mfl. 2001, Kling mfl. 2007, Clampet-Lundquist og Massey 2008, Ludwig mfl. 2013).
+
+I en senere studie av effektene av forsøket finner forskerne at det hadde langsiktige positive effekter for barn. Dersom et barn flytter til et område med lav fattigdomsrate før det fyller 13 år, øker barnet sjansene sine til å ta høyere utdanning og få høyere inntekter. Samtidig reduseres sannsynligheten for å bli enslig forelder. For barn som flyttet etter at de fylte 13 år, er det i stedet små negative effekter av å ha flyttet. Antakelig skyldes dette at det var vanskelig for ungdommene å komme inn i et nytt miljø. Studien konkluderer med at mindre barn har utbytte av å bo i et mer velstående nabolag, og at varigheten av å bo i godt nabolag som barn er en viktig faktor for barns langsiktige prestasjoner (Chetty mfl. 2016).
+
+Rammeslutt
+
+### Nabolagets betydning for barn fra lavinntektsfamilier
+
+Brattbakk og Andersen (2017) mener at trekk ved nabolagene ser ut til å virke sterkest på barn siden de er i en formativ alder. Fra USA finner Chetty og medforfattere (2016) at å bo i et godt nabolag som barn har positive effekter på barns senere utdanning og inntekter. Studier om nabolagseffekter som Hyggen og medforfattere (2018) har oppsummert, tyder på at nabolag har effekter på barn og unges senere utdanning, yrkesposisjon, arbeidstilknytning, inntekt, helse, rusbruk, sosiale normer og hvor utsatt de er for vold. Effektene for hvert enkelt individ er liten eller moderat, men fordi nabolagseffektene omfatter så mange barn og unge, kan samfunnseffekten likevel være betydelig. Nabolaget virker ulikt på barna. Gutter blir i større grad påvirket enn jenter, og effektene varierer med alder. De minste barna påvirkes minst, men fra de er i førskolealder og eldre, blir de mer påvirket i takt med at aksjonsradiusen deres øker (Brattbakk og Andersen 2017).
+
+Barn fra fattige familier ser ut til å påvirkes sterkere enn barn fra hjem hvor foreldrene har høy utdanning og inntekt. Det forklares ofte med at barn og unge fra fattige familier har mer familiestress i hjemmet, at foreldre i mindre grad beskytter barna mot uheldige sider ved nabolaget, at barna er mer sårbare, og at trangboddhet og dårlige boforhold gjør at de tilbringer mer tid hjemmefra. Barn fra fattige familier vil kunne ha færre positive rollemodeller blant unge og voksne (Brattbakk og Andersen 2017, Hyggen mfl. 2018). Flere kvalitative studier fra Oslo viser at når mange familier i et nabolag samtidig bor trangt og har svak økonomi, vil også mange barn og unge ha problemer med å gjøre lekser hjemme og ta med seg venner hjem (Hyggen mfl. 2018).
+
+Ikke alle studier finner slike nabolagseffekter på barn i lavinntektsfamilier. Markussen og Røed (2018) finner for eksempel ingen effekter av nabolaget på barn og unge som vokser opp i familier med de laveste inntektene.
+
+### Nabolagets effekter på utdanning, arbeid og inntekt
+
+Nabolaget ser ut til å ha effekter på utdanning, mens effekten på inntekt og arbeid er mindre tydelig. Funn fra Oslo viser at det er en sammenheng mellom de unges utdanningsnivå og nabolaget de er vokst opp i (Brattbakk og Wessel 2013). Sammenhengen mellom nabolag og inntekt er svakere. Utslaget på arbeidsledighet er høyest når ungdommene er 21 år, og avtar gradvis til de er helt borte ved 29-årsalderen. Studien viser også at det å vokse opp i et utsatt nabolag har en svak, men signifikant langtidseffekt både på ungdommenes inntekt og utdanning som unge voksne. Studien konsentrerer seg, som de fleste andre studier innenfor dette forskningsfeltet, om å måle hvilke effekter trekk ved beboersammensetningen i nabolaget har på barn og unge. Av de ulike egenskapene ved naboene som måles, er det andelen naboer som lever på ulike velferdsytelser, som ser ut til å ha sterkest effekt. Det er opplagt at andre trekk ved nabolaget enn beboersammensetning vil kunne påvirke barn og unge, for eksempel kvaliteten på skoler, fritidstilbudene og uteområdene og det «sosiale klimaet» i nærmiljøet. Beboersammensetningen samvarierer imidlertid ofte, men ikke alltid, med disse andre nabolagskvalitetene og brukes derfor ofte som et samlemål på trekk ved nabolaget. Et tilleggsmoment her er at data – altså statistikk om beboersammensetningen – så langt har vært lettere å få tak i enn data om øvrige nabolagstrekk.
+
+Brattbakk (2014) har sett nærmere på sammenhengen mellom utdanning og nabolagets størrelse i Oslo. Han finner sammenheng mellom ungdommenes framtidige utdanningsnivå og beboersammensetningen både etter de nærmeste kvartalene, skolekretsen og bydelen. Sammenhengen var sterkest for bydelsnivået. Han peker på dette som et overraskende resultat, blant annet fordi tilsvarende utenlandske studier viser at det er det nærmeste nabolaget som har mest å si. Han tolker dette som et resultat av tre mekanismer som virker sammen: 14–18-åringenes aksjonsradius som beveger seg utover det nære nabolaget, forskjeller i institusjonelle ressurser (særlig skoler) og stigmatisering av områder (som i større grad rammer større byområder).
+
+En undersøkelse basert på norske data over tre tiår ser på hvor store effekter skole og nabolag har på barn og deres utdanning og inntekt som voksne. Den finner at den sosioøkonomiske sammensetningen av elever ved skolene forklarer rundt 2 prosent av den gjennomsnittlige variasjonen i utdanningslengde for alle barn samlet og rundt 1 prosent av inntektene de får som voksne. Forskerne finner at nabolaget har noe mindre effekt enn det skolen har. Undersøkelsen konkluderer med at i norsk velferdsstatlig kontekst har ikke skolen og nabolaget vesentlig effekt på barns senere utdanning og inntekt (Hermansen mfl. 2020).
+
+Fra Sverige finner forskere nabolagseffekter på utdanning, både i studier som ser på hele Sverige (Andersson og Subramanian 2006, referert i Hyggen mfl. 2018) og utvalgte byer. Disse ser også på effekter på sysselsetting (Andersson 2004, referert i Hyggen mfl. 2018). Hedman og medforfattere (2015) finner at dersom man har vokst opp i lavinntektsnabolag, påvirker dette den senere inntekten negativt.
+
+Fra Danmark har man sett at å vokse opp i henholdsvis en drabantby eller et velstående nabolag får effekter. Unge voksne fra drabantbyer ble i større grad rammet av kortvarig arbeidsledighet sammenliknet med det unge voksne fra velstående områder gjorde. Det var derimot bare ubetydelige forskjeller på langtidsledigheten (Lander mfl. 2012, referert i Hyggen mfl. 2018).
+
+### Effekter av å vokse opp i ulike typer nabolag
+
+Flere nordiske studier viser at fattige nabolag kan påvirke unges sosiale mobilitet negativt, mens velstående nabolag og «sosialt blandede nabolag» kan påvirke sosial mobilitet positivt.
+
+Toft og Ljunggren (2016) ser på hvordan det går med dem som vokser opp i velstående nabolag. De finner at jo høyere andel velstående naboer (som her betyr personer med yrker som direktør, finansmegler, professor, lege, advokat m.m.) i nabolaget, jo mer sannsynlig er det at ungdommene selv tar høy utdanning. Sammenhengen mellom nabolag og ungdommenes situasjon som voksne var litt sterkere for ungdom fra lavinntektsfamilier enn for ungdommer fra mer velstående familier.
+
+Markussen og Røed (2018) finner at ungdom som vokser opp i det de omtaler som middelklassenabolag, oppnår de beste skoleresultatene fra grunnskolen målt som grunnskolepoeng. Effektene er varige og gjenspeiles i utdanningsnivå og inntekt i alle fall til de er 28–31 år. Tilsvarende effekter finner de verken for ungdom som vokser opp i utsatte nabolag eller i velstående nabolag. Det er barn av middelklasseforeldre som påvirkes i sterkest grad av oppvekststedet sitt. Forskerne påviser videre at å flytte fra et utsatt nabolag til et middelklassenabolag gir betydelige positive effekter. Dette tolker de blant annet som et resultat av at de som flytter da «sosialiseres» med personer som har en høy grad av humankapital og familiestøtte, og videre som et resultat av å bli eksponert for rollemodeller som har høy utdanning og er i arbeid. Markussen og Røed hevder funnene de har gjort, tyder på at det er misforstått at det beste for barn er å vokse opp i velstående nabolag. Tvert imot kan det være uheldig for de unge.
+
+En svensk studie utført av Bergsten (2010, referert i Hyggen mfl. 2018) finner at sosialt blandede nabolag har særlig positive effekter på skoleresultater og tendensen til å ta høyere utdanning.
+
+Pettersen og Sletten (2018) har, med utgangspunkt i ungdomsskoleelevers svar på Ung i Oslo-undersøkelsen fra 2015, sett på om ungdoms subjektive opplevelse av fattigdom preges av nabolaget der de bor. De finner at ungdom som vokser opp i familier med begrensede økonomiske ressurser, opplever fattigdommen sterkere i velstående nabolag enn i fattige nabolag. Når den relative økonomiske avstanden til jevnaldrende flest er stor, er det større sjanse for at ungdommene opplever at familien har dårlig råd. Undersøkelsen viser at barn og unge med innvandrerbakgrunn i lavinntektsfamilier opplever fattigdom sterkere når de vokser opp i rike nabolag, men at de likevel gjør det i mindre grad enn andre. Forskerne mener at dette kanskje kan forstås ut fra teorien om *doble referanserammer*. Innvandrere vurderer mulighetene sine og situasjonen sin ikke bare med utgangspunkt i en norsk kontekst, men også i lys av situasjonen i sitt eller foreldrenes opprinnelsesland. De kan dermed være mer tilbøyelige til å akseptere dårligere arbeids- og boforhold enn andre.
+
+Analyse av geografisk inntektsmobilitet i Norge
+
+Samfunnsøkonomisk analyse har sett på geografisk inntektsmobilitet i norske kommuner, dette har de gjort basert på modellen til Chetty og medforfattere (2014) fra USA (Samfunnsøkonomisk analyse 2018a).
+
+Samfunnsøkonomisk analyse undersøker om de faktorene som ser ut til å henge sammen med forventet utfall for barn fra lavinntektsfamilier i USA, har liknende betydning i Norge. De bruker estimater på inntektsmobilitet på kommunenivå til å studere korrelasjoner med kommunenes inntektsulikhet, skolekvalitet, sosiale kapital (målt som valgdeltakelse, religiøsitet og voldskriminalitet), segregering og familiestruktur.
+
+Resultatene forskerne kommer fram til, er at kommuner med høy inntektsmobilitet har mindre inntektsulikhet, mindre frafall fra videregående opplæring, mindre voldskriminalitet og færre enslige forsørgere. De finner ingen sammenheng mellom inntektsmobilitet og segregering. De tror imidlertid dette skyldes begrensninger i dataene heller enn at sammenhengen ikke er der.
+
+Rammeslutt
+
+## Nabolagseffekter på helse og voksnes sysselsetting
+
+### Konsekvenser for helse
+
+En kunnskapsoversikt fra Folkehelseinstituttet gjennomgår studier av hvilke helseeffekter det gir å bo i områder med materielle og sosiale mangler (Munthe-Kaas mfl. 2017). Utrederne presenterer studier som har sett på hvilke utslag slike nabolag har for den fysiske og psykiske helsen. Ingen av studiene så bare på effekten av å bo i et nabolag med en høy andel beboere med innvandrerbakgrunn. Fire oversiktsstudier har vurdert effekten på fysiske helserelaterte utfall. To av dem omhandlet barn og unge, én omhandlet mødre og barn og den siste eldre voksne. Dette er noen av funnene fra studiene: Den sosiale kapitalen i et nabolag påvirker muligens helsen hos barn og unge, nabolagseffekter kan forverre risikoen for ulike utfall på helsen (for eksempel lav fødselsvekt og andre helseutfall for barn), og å bo i et dårlig stilt nabolag kan føre til lav fødselsvekt, for tidlig fødsel og dødfødsel.
+
+To kunnskapsoversikter undersøker hvilke effekter nabolaget har på psykisk helse hos barn og unge (Curtis mfl. 2013, Richardson mfl. 2015). Den første oversikten konkluderte med at det ser ut til å være en sammenheng mellom problemer i nabolaget (fattigdom, dårlige livsforhold og vold) og problemer med psykisk helse blant ungdom (Curtis mfl. 2013). Den andre oversikten fant sprikende forskningsresultater og kunne ikke slå fast at det finnes en sammenheng mellom sosioøkonomisk status i et nabolag og depresjon blant ungdom (Richardson mfl. 2015).
+
+Studier fra «Moving to Opportunity»-forsøket i USA fant at å flytte til et boligområde med lav fattigdomsrate førte til bedre psykisk og fysisk helse og bedre trivsel og trygghet (Katz mfl. 2001).
+
+### Effekter på sysselsetting blant voksne
+
+Studier av hvilke effekter nabolaget har på de voksnes sysselsetting, har gitt sprikende resultater. I studiene som finner effekter, karakteriseres effektene i hovedsak som svake. Fra USA fant forskerne at det å flytte til et mer velstående nabolag ikke hadde noen effekt på voksnes og eldre unges inntekt og sysselsetting senere i livet (Katz mfl. 2001, Kling mfl. 2007, Clampet-Lundquist og Massey 2008 og Ludwig mfl. 2013). Fra Danmark finner Damm (2014) at innvandrernes sosiale nettverk har en positiv effekt på sysselsetting, men hun finner ikke en tilsvarende effekt av selve bostedet.
+
+Fra Sverige er det en rekke studier som tar opp forholdet mellom arbeidsmarkedet og segregering. Bergsten (2010) og Urban (2009) viser at innbyggere i områder med høy arbeidsledighet og fattigdom har større sannsynlig for selv å bli arbeidsledige. Edin og medforfattere (2003) og Andersson og Musterd (2014) finner at høy sysselsetting i en innvandrergruppe påvirker sysselsettingen for andre med samme innvandrerbakgrunn i positiv retning. Det motsatte, altså at sysselsettingen er lav i gruppa, kan føre til dårligere insentiver for å søke arbeid. Mood (2010) viser at dersom man bor i et område med stor andel personer som får stønad til livsopphold, «försörjningsstöd»[^95], øker risikoen for at man selv får slik stønad.
+
+I norsk sammenheng er nabolagseffekter på arbeid lite undersøkt. Nabolagseffekter av uføretrygd er det imidlertid gjort studier av. Bor man i nærheten av noen som blir uføretrygdet, øker sjansen for at en selv blir uføretrygdet (Rege mfl. 2012).
+
+Noen studier ser på om individuelle egenskaper påvirker både hvor man bor, og om man er sysselsatt. Resultatene er sprikende. Musterd og Andersson (2006) påviser at nabolaget har en selvstendig effekt på arbeidsledigheten, mens Brännström (2004) finner at selve nabolaget har kun svak effekt eller ingen effekter på arbeidsmarkedstilknytningen.
+
+## Konsekvenser av segregering i skoler
+
+Når elever som er like hverandre, samles i enkelte skolekretser, kan det skape forskjeller mellom skolene i hvordan elevene presterer og utvikler seg faglig. Sosiale utfordringer ved skolene påvirker skole-, lærings- og klasseromsmiljøet. Barn er på skolen store deler av dagen, og et dårlig skolemiljø kan påvirke om de trives på skolen. Dette kan i sin tur ha konsekvenser for læringsresultater og ønsker om å ta videregående opplæring (Lunde 2012).
+
+Nabolag hvor levekårsutfordringer har hopet seg opp, og særlig nabolag med mange leieboliger, kan være preget av mye inn- og utflytting. Det kan igjen påvirke skolene i områdene. Når mange flytter på seg, fører det til at mange elever skiftes ut. Dermed kan skole- og læringsmiljøet bli ustabilt. Dette kan påvirke elevenes resultater (von Simson og Umblijs 2020) og trivsel og gjøre det utfordrende for skoler og lærere å gi elevene kvalitativt god opplæring.
+
+I klasser hvor andelen elever med svake norskkunnskaper er høy, vil det kunne påvirke elevenes læring negativt. Når skolen er det eneste norske språkmiljøet til elevene og flertallet av elevene har dårlige norskferdigheter, utvikles ferdighetene i norsk saktere.[^96] Utfordringene blir større jo lenger i skoleløpet man kommer, når tekstmengden og kravene til å forstå fagstoffet blir større. Samtidig trekker ulike studier fram at elever med innvandrerbakgrunn ser ut til å ha en bedre prestasjonsutvikling enn andre elever når alt annet er likt (Kindt 2017, Grøgaard 2012). Dette kan trolig forklares mest med at mange foreldre med innvandrerbakgrunn motiverer barna sine i skolearbeidet og til å ta høyere utdanning.
+
+Så lenge det har vært gjennomført PISA-undersøkelser[^97], har Finland vært det landet som har minst variasjon i resultater mellom skoler (Sahlberg 2015, referert i Østerud 2016). En case-studie av ulike skoler i en norsk og en finsk kommune viser at skolene i alle områder i den finske kommunen har stor oppmerksomhet på læring av fag (Rapp 2018). I den norske kommunen, derimot, er det stor forskjell på hva skolene legger vekt på, avhengig av hva slags områder de ligger i. Ved skolene i «høystatusområder» står det faglige i sentrum, både hos lærere, elever, rektor og foreldre, og det er et betydelig press på at elevene presterer. I «lavstatusområder» legger skolene mest vekt på det sosiale og mindre på det faglige. Studien viser også til at det i Finland ofte settes inn ressurser med en gang de oppdager at et barn har behov for ekstra oppfølging. I Norge er hjelpeapparatet ofte fragmentert, dårlig koordinert, byråkratisk og langsomt. Det tar lang tid før barna får den hjelpen de trenger.
+
+### Skolesegregeringens konsekvenser for skoleresultater, prestasjonsutvikling og frafall i videregående skole
+
+Andelen med innvandrerbakgrunn på skolen ser ut til å bety svært lite for elevenes prestasjoner, både på ungdomsskolen og i videregående (Birkelund mfl. 2010). Foreldrenes utdanningsnivå har mer å si for elevenes karakterer i grunnskolen enn elevsammensetningen ved skolen de går på. Skoler hvor andelen elever med innvandrerbakgrunn er høy, har også en høy andel elever med lavt utdannede foreldre. Selv om gjennomsnittskarakterene er lavere ved disse skolene, har andelen med innvandrerbakgrunn ingen signifikant betydning for elevenes karakterer når det tas hensyn til elevenes familiebakgrunn (Birkelund mfl. 2010, Grøgaard 2012).
+
+Også i en studie fra Sverige ser det ut til at elevenes karakterer etter avsluttet ungdomsskole er relativt upåvirket av andelen medelever med innvandrerbakgrunn (Brandén mfl. 2016). Andelen har imidlertid en liten negativ effekt på resultatene til de aller svakeste elevene, både dem med og uten innvandrerbakgrunn. Innvandreres skoleresultater påvirkes svakt positivt av andelen jevnaldrende med den samme nasjonale bakgrunnen som dem selv. En studie fra Nederland viser at ungdommer som selv har innvandrerbakgrunn, og som bor i nabolag med en høy andel innvandrere, har bedre skoleresultater enn ungdommer som bor i nabolag med en lavere andel innvandrere (Nieuwenhuis mfl. 2017).
+
+En studie fra NTNU undersøker hvordan sammensetningen av elevgruppa i klassen påvirker resultatene på nasjonale prøver i matematikk for femteklassinger (Green og Iversen 2020). Studien viser at andelen elever med flyktningbakgrunn i klassen har klart negativ effekt på resultater til elever uten innvandrerbakgrunn. Den negative påvirkningen stammer fra spesifikke grupper av flyktninger som selv har stor sannsynlighet for å underprestere. Det er først og fremst gutter og elever av foreldre uten høyere utdanning som påvirkes negativt. Studien finner ingen negativ effekt på resultatene av at en høy andel av elevene har en annen innvandrerbakgrunn. Resultatene gjelder alle de undersøkte kommunene, men i storbyene er ikke effektene statistisk signifikante.
+
+Studien setter ellers søkelys på hvor variert både gruppa av innvandrerelever og gruppa av elever med flyktningbakgrunn er. Forskerne konkluderer med at skolene ikke har tilstrekkelige kompensatoriske verktøy til å motvirke slike negative effekter (ibid.).
+
+Skolenes elevsammensetning har lite å si for avgangskarakterer og frafall i videregående skole (Birkelund 2010). Ved skoler med mange elever med innvandrerbakgrunn fullfører elevene videregående opplæring i noe høyere grad, målt når elevene er tidlig i tjueårene (Hermansen og Birkelund 2015). Effektene er omtrent tre ganger sterkere blant elever som selv har innvandrerbakgrunn, enn blant øvrige elever. Videre varierer effektene etter hvor elevene med innvandrerbakgrunn kommer fra.
+
+Flere studier har sett på om det finnes såkalte terskeleffekter, altså om andelen elever med innvandrerbakgrunn over et visst nivå betyr mer, eventuelt mindre, for skoleresultater eller frafall (for eksempel Grøgaard 2012, Birkelund mfl. 2010, Næss 2011). Om, og eventuelt på hvilket nivå, man finner signifikante terskeleffekter, varierer. Noe av grunnen til de ulike funnene kan være at terskeleffektene inndeles på ulike måter (Andresen 2014).
+
+## Tillit, deltakelse og samhold
+
+I utvalgets mandat er det vist til NOU 2017: 2 *Integrasjon og tillit*, der det er pekt på at det norske samfunnet må lykkes bedre med integrering av innvandrere og flyktninger fra land utenfor Europa for å ivareta samhørighet, tillit og samfunnsmodellens legitimitet.
+
+Et sentralt element i et demokratisk samfunn er at folket deltar. Samfunnsengasjement blant ulike grupper i befolkningen er med på å gi legitimitet til dem som styrer. Samfunnsengasjementet er også med på å informere dem som styrer om hva som rører seg i samfunnet, slik at de kan ta informerte beslutninger (Eimhjellen mfl. 2020).
+
+### Tillit i den norske samfunnsmodellen
+
+Sosiale rettigheter, økonomisk omfordeling og demokratisk representasjon er grunnpilarer i det norske velferdssystemet. Rettighetene har bidratt til utjevning mellom ulike grupper i befolkningen og til deltakelse på ulike arenaer i samfunnet. Dette har skapt grunnlag for sosial kohesjon, forstått som samhold, samhørighet og samfunnsmessig solidaritet som gjerne knyttes til brede felles verdier og målsettinger i et samfunn – selv om samfunnet består av mennesker med ulik bakgrunn. Kohesjon og tillit er beslektede begreper, men mens tillit også kan eksistere mellom mennesker mer direkte, er kohesjon et begrep som mest brukes på samfunnsnivået (NOU 2017:2).
+
+Man antar at tillit er koplet til mange positive utfall for samfunnet (Newton 2007), og at høye nivåer av tillit er bygd inn i de nordiske samfunnsmodellene (Rothstein og Stolle 2003, NOU 2017: 2). Den norske velferdsstaten baserer seg på to former for tillit. Den ene formen for tillit handler om tilliten til samfunnsinstitusjoner, også kalt vertikal tillit. Borgerne stoler på at offentlig forvaltning stort sett fungerer, at myndighetene er upartiske, effektive, og at beslutninger som tas, skal baseres på informasjon som er etterprøvbar (ibid.). Uten tilliten til at staten og det offentlige mer generelt forvalter samfunnets ressurser på en fornuftig måte, vil den enkelte neppe være like villig til å betale skatt eller la offentlige instanser stå for store deler av omfordelingen i samfunnet. Høy tillit til politiske institusjoner blir gjerne sett på som nødvendig for at et demokrati skal fungere godt. Rothstein og Stolle (2003) hevder at økonomisk likhet tenderer til å øke den sosiale kapitalen i samfunnet, slik som for eksempel generalisert tillit.
+
+Den andre sentrale formen for tillit handler om tillit borgerne imellom og er kalt horisontal tillit. Horisontal tillit deles ofte inn i partikulær tillit til dem man kjenner, og generalisert tillit til folk flest. Denne troen på andre, det vil si den generaliserte tilliten til andre, er høy i Norge (Wollebæk og Seegård 2011). I befolkningen mener to av tre at man «kan stole på de fleste» (Brekke mfl. 2020).
+
+Selv om befolkningen i Norge har høy tillit generelt, er gradene av tillit ulikt fordelt i ulike grupper i befolkningen. For eksempel er tillitsnivåer til andre mennesker signifikant lavere i flere innvandrergrupper enn i den øvrige befolkningen. Levekårsundersøkelsen blant innvandrere fra 2016 viser at én av fem innvandrere (22 prosent) har liten tillit til sine medmennesker, mens det samme bare gjelder 6 prosent i befolkningen generelt. På den annen side har innvandrere mer tro på det politiske systemet enn den øvrige befolkningen. Arbeidsledighet, dårlig råd og diskriminering reduserer tilliten til det politiske systemet (Støren 2019). En studie av sivilsamfunnsdeltakelse blant innvandrere i Norge (Eimhjellen mfl. 2020), som blant annet analyserer data fra levekårsundersøkelsen blant innvandrere fra 2016, undersøker om tillit hos innvandrere øker med botid i Norge. Det er først og fremst i gruppa av innvandrere som har bodd i Norge i ti år eller lenger, at de ser en økning i grader av tillit. Men innvandrerne når aldri helt opp på tillitsnivået til den øvrige befolkningen. De som har bodd i Norge i mer enn 20 år, skårer 6,3 på tillitsskalaen, mot 7,2 i den øvrige befolkningen (ibid.).
+
+Levekårsdata fra SSB viser at om lag én av fire innvandrere oppgir at de ikke har en eneste venn uten innvandrerbakgrunn (Sandnes 2017). Ut fra dette kan man forvente at mennesker som først og fremst er sammen med andre med samme språkbakgrunn, religion, kultur eller landbakgrunn, vil ha færre sosiale bånd til mennesker med annen bakgrunn og mindre tillit til mennesker med andre kjennetegn.
+
+### Teorier om hvordan tillit utvikles
+
+Å delta i (lokale) aktiviteter bidrar til at folk utvikler tillit og opparbeider sosial kapital (Putnam 2000). Putnam definerer sosial kapital som summen av normer, tillit og nettverk (ibid.). Særlig sentralt er forholdet mellom sammenbindende (*bonding*) og brobyggende (*bridging*) sosial kapital (ibid.). Et sammenbindende nettverk kopler sammen individer som deler viktige kjennetegn, for eksempel språk, religion og kulturell tilhørighet, og gjør at deltakerne føler tilhørighet og identifiserer seg med gruppa. Brobyggende nettverk er med på å kople enkeltindivider sammen på tvers av slike forskjeller. Begge formene for sosial kapital anses som viktige, og de blir ikke bare sett på som et gode for enkeltindivider, men også for samfunnet som helhet. En viktig innsikt er at disse to formene for sosial kapital ikke trenger å stå i motstrid til hverandre, men at sammenbindende sosial kapital ofte er en forutsetning for den brobyggende. Mange trenger en trygg tilhørighet blant likesinnede før man orienterer seg mot dem som oppleves som mer ulike seg selv. Samtidig påpekes det at den brobyggende sosiale kapitalen ofte ikke kommer av seg selv (Ødegård mfl. 2014), men er mer krevende «å få til».
+
+Det er flere teorier om hvordan tillit utvikles gitt ulike omstendigheter. I det som blir kalt kontaktteorien (Allport 1958, Pettigrew mfl. 2011), forklarer man at tillit utvikles, og at fordommer reduseres ved at mennesker bygger relasjoner til hverandre gjennom ansikt-til-ansikt-kontakt. Kontaktteorien utfordres av konfliktteorien. I konfliktteorien blir det hevdet at jo mer man blir eksponert for folk med ulik bakgrunn, og dermed for konfliktfylte situasjoner, jo mer vil man holde seg til og stole på «sine egne». En tredje retning er det Putnam har kalt «constrict theory» (Putnam 2007). Ifølge denne retningen er det ikke slik at man enten stoler på sine egne eller på andre grupper. Man stoler mindre både på sine egne og på andre fordi man trekker seg tilbake fra samfunnslivet og de arenaene som ellers kunne skapt tillit.
+
+I flere internasjonale studier finner man en negativ sammenheng mellom segregering etter innvandrerbakgrunn og tillit (Delhey og Newton 2005, Uslaner 2012). Også i studier fra Skandinavia finnes holdepunkter for det som er kalt konfliktteorien. Flere studier finner at innslag av innvandrere i befolkningen (egentlig «etnisk mangfold») påvirker tillit. I en studie av 61 kommuner og bydeler i de største byene i Norge finner Fladmoe og Steen-Johansen (2018) at innslag av innvandrere i lokalsamfunnet svekker tilliten mellom folk lokalt, men ikke den generaliserte tilliten. Det samme finner man i Danmark (Dinesen og Sønderskov 2015). Fra Sverige finner man at både den lokale og den generaliserte tilliten er svekket av innslag av innvandrere i befolkningen (Wollebæk 2013, referert i NOU 2017: 2:164). Hva som er årsaken til lavere nivåer av tillit i nabolag og lokalsamfunn med mange innvandrere, gis det ikke klare svar på i disse studiene. Blant de mulige forklaringene forskerne peker på, er dette en: Fordi det bor mange innvandrere i et område, og det er slik at innvandrere generelt har lavere nivåer av tillit enn den øvrige befolkningen, så kan det være slik at man måler et lavere nivå av tillit hos innvandrere.
+
+I en undersøkelse av holdninger til innvandring, integrering og mangfold i Norge (Brekke mfl. 2020) framkommer det at selv om det er en høy andel i Norge som mener at man kan stole på de fleste, er det blant dem som svarer ja på dette spørsmålet, en betydelig andel som er mer lunkne når de får spørsmål om tillit til innvandrergrupper. Blant dem som svarte ja på spørsmålet om man kan stole på de fleste, var det om lag 80 prosent som mener at de stoler ganske mye eller helt og holdent på dem som i undersøkelsen er kalt «etniske nordmenn flest». Videre svarte om lag 50 prosent at de stoler på innvandrere fra land i Asia, Afrika, mv. flest, og 40 prosent at de stoler på østeuropeiske innvandrere flest. Dette tyder på at selv blant dem som uttrykker høy generell tillit, omfatter ikke denne tilliten nødvendigvis alle grupper av mennesker.
+
+Fra tidligere studier av utsatte områder blant annet i Nederland og Danmark har flere forskere funnet tegn til at folk trekker seg tilbake fra samfunnslivet (Andersen 2003). Dette gir støtte til Putnams «constrict theory», som innebærer at man trekker seg tilbake fra de arenaene som ellers kunne skapt tillit (Putnam 2007).
+
+At innbyggerne i et samfunn opplever fellesskap og tilhørighet til hverandre og til samfunnets institusjoner, og der den opplevde avstanden mellom ulike grupper er liten, påvirker sosial kapital (Rothstein og Stolle 2003) og kan sies å virke som et «lim» i samfunnet
+
+### Sosial kapital, kollektiv handlekraft, deltakelse og samhold
+
+Formelle og uformelle sosiale bånd mellom innbyggere i et område kan kalles sosial sammenhengskraft, eller kohesjon (*social cohesion*). Sosial kohesjon kan beskrives som et lim som holder samfunnet sammen, både det nære lokalsamfunnet og samfunnet i bredt. Innbyggere om trives på stedet de bor, oppsøker trolig naboer og arenaer i lokalmiljøet, som igjen vil påvirke den sosiale kohesjonen i et område (Christensen mfl. 2019b). Folk utvikler tillit og opparbeider sosial kapital ved å delta i lokale aktiviteter (Putnam 2000). Deltakelse er dermed viktig for limet i et lokalsamfunn. I lokalsamfunn er det sivilsamfunnet som står for mange av aktivitetene. At folk bor stabilt i et område, bidrar ikke automatisk til høy sosial sammenhengskraft i et område. Men det er et premiss for at en slik kraft kan oppstå (Christensen mfl. 2019b).
+
+Forskningslitteraturen peker på «kollektiv handlekraft» som et uttrykk for evnen i befolkningen til å organisere seg i sammenslutninger om et felles mål. Kollektiv handlekraft innebærer at folk gjennom å organisere seg i ulike sammenslutninger bruker demokratiske påvirkningskanaler eller positiv sosial kontroll til å reagere på normbrudd eller trusler i nærmiljøet og gjennom handlinger gjør felles positive normer gjeldende (Christensen mfl. 2019b).
+
+At innbyggerne deltar i forenings- og kulturlivet og i frivillig arbeid, er kjennetegn på at det er ressurser i nærmiljøet og lokalsamfunnet som kan mobiliseres til kollektiv handlekraft. Om en kollektiv handlekraft blir mobilisert i praksis, kan oppdages ved å se på den kollektive reaksjonen på konkrete hendelser som naboene opplever at kan redusere kvaliteten ved området de bor, for eksempel bygging av store veier. Hvis folk protesterer, kan det være et tegn på kollektiv handlekraft i området. Og motsatt, hvis det ikke er protester, kan det være et tegn på lav grad av kollektiv handlekraft i området (Christensen mfl. 2019b).
+
+Studier har vist at sivilsamfunnet er svekket i noen utsatte områder (Ødegård mfl. 2014). Det innebærer at arenaer der det utvikles interessebaserte relasjoner på tvers av ulike grupper, blir færre. Andre steder er det et problem at innvandrerbefolkningen og den øvrige befolkningen har sine nettverk og foreninger side om side, men med få relasjoner på tvers.
+
+Når folk ikke møtes, utvikles det heller ikke noen felles lokalsamfunnsidentitet. Selle og Wollebæk (2015) beskriver frivilligheten som en infrastruktur som gjør kollektiv handling mulig. Ødegård og medforfattere (2014) beskriver hvor mye det har å si at det er fellesskapsarenaer i flerkulturelle lokalsamfunn, hvor individer er ulike når det gjelder viktige kjennetegn som landbakgrunn, språk, religion og ideologisk tilhørighet. Der grupper med forskjellig kulturell og religiøs bakgrunn og/eller landbakgrunn ikke har felles møteplasser, bidrar det til å svekke innbyggernes tilhørighet til lokalsamfunnet. De siste tiårene har det vokst fram et foreningsliv hvor rekrutteringsgrunnlaget baseres på felles landbakgrunn eller religiøs og kulturell tilhørighet (ibid.). Dette er en viktig arena for sammenbindende kapital, men dersom det er begrenset kontakt mellom det tradisjonelle og innvandrerorienterte foreningslivet, blir da heller ikke frivilligheten en plattform for felles, kollektiv handling.
+
+I tillegg til at samfunnsengasjementet utgjør forbindelser mellom befolkningen og dem som styrer, kan samfunnsengasjement også være til nytte for de personene som deltar. For eksempel kan de gjennom å engasjere seg bygge opp personlige og sosiale ressurser som kunnskap, ferdigheter, ansvar, nettverk og tillit (Eimhjellen mfl. 2020).
+
+I undersøkelser gjort i hele befolkningen ser ikke organisasjonstilknytning ut til å påvirke, eller bare ha liten betydning, på sosial kapital (her forstått som nettverk og tillit) (se blant annet Wollebæk og Selle 2007). Selv om man ikke ser slike sammenhenger i befolkningen som helhet, har man i studier av innvandrere sett at frivillig arbeid samvarierer med tillit (se for eksempel Segaard 2011). Eimhjellen og medforfattere (2020) viser at innvandrere som jobber frivillig, har større tillit til andre mennesker enn innvandrere som ikke er med på frivillig arbeid. Forskerne har undersøkt om det er det frivillige arbeidet som gjør innvandrere tillitsfulle, eller om det er de tillitsfulle som søker seg til frivillig arbeid. Andre studier har ikke avklart om økt deltakelse fører til økt tillit, eller om det er omvendt. Eimhjellen og kolleger oppfatter det slik at tillit mer er en forutsetning for frivillig arbeid blant innvandrere, heller enn at det frivillige arbeidet bidrar til det (ibid.).
+
+## Forståelsen av parallellsamfunn og hvordan de utvikler seg
+
+Begrepet «parallellsamfunn» blir brukt for å beskrive mange virkeligheter og forstås på ulike måter. Egge og Solhjell (2018) har tatt for seg ulike måter begrepet forstås på i akademia, av politiet og i det offentlige ordskiftet. Forskerne viser til at begrepet er tett koplet til migrasjonsfeltet, og at synet på hvordan det skal forstås er relativt polarisert. Det ene perspektivet legger vekt på minoritetsgrupper som er skeptiske til samfunnets verdier og institusjoner. Det andre legger vekt på at stat og storsamfunn mangler vilje og evne til å inkludere minoritetsgrupper. Det at det utvikles parallellsamfunn kan ikke forklares med valgene til enkelte grupper eller miljøer alene. Det handler om et samspill mellom majoritetssamfunnet og ulike minoriteter.
+
+For å forstå parallellsamfunn brukes begrepene «samfunnskontrakt» og «sosial kapital». Samfunnskontrakten beskrives som et bånd mellom stat og borgere, som en symbolsk kontrakt eller enighet om hva slags samfunn man er en del av, og om hva slags lover og regler som gjelder. Sosial kapital handler om sivilsamfunnets evne til å utvikle tillitsfulle relasjoner mellom borgerne. Forskerne legger særlig vekt på den tillitsbyggingen som skjer i offentlige institusjonene ved at de leverer kvalitet og likebehandling. Er tilliten til systemet stabil og høy, påvirker det tilliten mellom borgerne. Statens legitimitet påvirker innbyggernes lojalitet, både til systemet og til hverandre.
+
+Oppsummert forstås begrepet parallellsamfunn som et todelt begrep. Det beskriver på den ene siden en samfunnsstruktur der det både er lav politisk vilje og/eller kapasitet til å sikre alle borgere grunnleggende tjenester og rettigheter. På den andre siden beskriver begrepet at det finnes en tilsvarende motstand fra innvandrergrupper om å slutte seg til majoritetssamfunnet. Forskerne mener det er misvisende å bruke betegnelsen parallellsamfunn på situasjonen i Norge. De slår imidlertid fast at det finnes utfordringer både knyttet til tillit og lojalitet på den ene siden og utestenging og diskriminering på den andre. I ulik grad vil det derfor danne seg nye former for subkulturer og utenforskap.
+
+Den danske strategien Ét Danmark uden parallelsamfund definerer ikke begrepet parallellsamfunn, men i omtalen vises det til at mange barn, unge og voksne med innvandrerbakgrunn lever i isolerte enklaver i Danmark. De beskrives å være reelt uten kontakt med det danske samfunnet, og de har ikke tatt til seg danske normer og verdier. Parallellsamfunn forstås dermed som et resultat av valg enkelte grupper eller miljøer tar. Det har likhetstrekk med begrepet «getto» som i den internasjonale forskningslitteraturen ofte blir brukt om utsatte, urbane boområder (Strand og Kindt 2019). Begrepet getto kan forstås som at innbyggerne i områdene lever mer isolert og har lagd egne institusjoner eller parallellsamfunn innad i byområdet. Videre innebærer begrepet at disse innbyggerne i liten grad beveger seg utenfor det utsatte området. Høy arbeidsledighet, levekårsproblemer og fattigdom kan forsterke effekten av at folk holder seg i nabolaget sitt. Med en slik forståelse av begrepet kan det ifølge Strand og Kindt ikke sies at det finnes gettoer i Norge.

@@ -1,882 +1,246 @@
-# NOU 2026: 10, del 24 av 31 (side 286–296)
+# NOU 2026: 10, del 24 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 286]
-
-284
-
-Kapittel 12
-
-NOU 2026: 10
-Fellesskolen
-
-12.3 Samarbeid med andre ansatte i
-skolen
-12.3.1 Alle ansatte skal støtte opp om skolens
-samfunnsoppdrag
-Som vist i kapittel 10 spiller andre yrkesgrupper
-enn lærere en vesentlig rolle i å støtte opp om skolens samfunnsoppdrag. Rundt én av fire ansatte i
-skolen er ikke lærere, og de utgjør en sammensatt
-gruppe med tanke på utdanningsbakgrunn og
-arbeidsoppgaver.
-Utvalget mener andre yrkesgrupper i skolen
-kan bidra positivt til det mer generelle og systematiske arbeidet med inkludering og skolemiljø, i
-tillegg til å følge opp enkeltelever. En eventuell
-nedprioritering av denne ansattgruppen, for
-
-eksempel på grunn av pressede ressurser, må
-ventes å få skadevirkninger på sikt.
-Utvalget er derfor positive til de tallene som
-presenteres i kapittel 10, som viser at andre
-ansatte utgjør en stabil andel og at det ikke er tegn
-til at gruppen reduseres som et resultat av lærernormen. Men utvalget anerkjenner at gruppen
-andre ansatte som jobber elevrettet er en sammensatt gruppe med varierte arbeidsoppgaver. Utvalget mener vi har for lite kunnskap om praksis,
-utfordringer og suksessfaktorer. Utvalget mener
-derfor at det i første omgang er behov for å vite
-mer om denne gruppen arbeidstakere i skolen før
-man kan anbefale eventuelle nasjonale tiltak.
-Utvalget viser også til våre vurderinger og forslag i kapittel 13 om skolens forebyggende funksjon
-i samfunnet og samarbeidet med andre aktører.
-
-Boks 12.3 Miljøteam som ressurs i fellesskolen
-Fellesskolen har en avgjørende rolle som sosial
-det mange lærere har i en travel hverdag, og
-møteplass og bærer av samfunnets verdigrunnbidrar til at elever kan oppleve trygghet, tillit og
-lag. Den skal være en inkluderende arena der
-lav terskel for å søke støtte. Slike relasjoner kan
-alle elever opplever tilhørighet, trygghet og
-være avgjørende for å forebygge konflikter,
-mulighet til både faglig og sosial utvikling. Samredusere fravær og fange opp elever som strever
-tidig viser erfaringer og evalueringer at det er
-på et tidlig tidspunkt.
-store variasjoner i hvordan disse verdiene fakMiljøteam er også særlig gode til å etablere
-tisk realiseres i praksis. Økende fravær, særlig
-alternative arenaer for mestring utenfor klasseetter pandemien, og elever som opplever skolerommet. Gjennom langsiktige og systematiske
-hverdagen som for krevende, peker på at fellestiltak, ikke bare enkeltstående arrangementer,
-skapet i skolen er under press. For at skolen
-får elever mulighet til å oppleve mestring på
-skal lykkes med sitt mandat, er det ikke tilstrekandre områder enn de faglige. Dette kan bidra
-kelig at elever med ulik bakgrunn er samlet i
-til økt motivasjon, bedre selvfølelse og sterkere
-samme klasserom. Det krever et systematisk og
-tilknytning til skolen som fellesskap.
-helhetlig arbeid med relasjoner, inkludering og
-Videre spiller miljøteamet en viktig rolle i
-sosioemosjonell kompetanse, der både faglig og
-oppfølging av elevenes fravær. Der lærere ofte
-sosial læring ses i sammenheng.
-har begrenset tid, kan miljøarbeidere følge opp
-Læreren har en sentral rolle i dette arbeidet,
-enkeltelever tettere, ha dialog med hjemmet og
-men det er samtidig urealistisk å forvente at
-bidra til å finne løsninger som gjør det lettere for
-læreren alene skal kunne ivareta alle aspekter
-eleven å komme tilbake til skolen. Slik oppfølsom kreves for å sikre et trygt og godt skoleging kan være avgjørende for å snu en negativ
-miljø. Et velfungerende miljøteam kan være et
-utvikling.
-avgjørende supplement i skolens arbeid, både
-Samlet sett gjør dette at et tett og forpliksom støtte for lærere og som en brobygger meltende samarbeid mellom lærer, rektor, miljølælom elever og ansatte. Miljøteamet kan bidra til å
-rer og sosiallærer gir skolen et langt bedre
-forebygge og håndtere konflikter, styrke eleveutgangspunkt for å lykkes med sitt samfunnsnes sosiale ferdigheter og sikre at flere elever
-oppdrag. Når flere profesjoner arbeider sammen
-opplever å bli sett, hørt og inkludert.
-med tydelige roller og felles mål, styrkes skoI tillegg til dette har miljøteamet ofte en unik
-lens evne til å skape et trygt, inkluderende og
-mulighet til å bygge relasjoner til elevene i det
-helhetlig skolemiljø der alle elever blir sett,
-som kan beskrives som fredstid, før utfordrinhørt, respektert og får reell mulighet til å delta i
-ger oppstår. Dette gir et annet utgangspunkt enn
-fellesskapet.
-
-[Side 287]
-
-NOU 2026: 10
-Fellesskolen
-
-12.3.2 Utvalgets forslag om samarbeid med
-ansatte i skolen
-Utvalget foreslår å
-• framskaffe mer kunnskap og statistikk om
-andre yrkesgrupper i skolen
-
-•
-
-285
-
-Kapittel 12
-
-legge til rette for at andre yrkesgrupper bidrar
-med sin kompetanse og inngår i samarbeidsstrukturer i skolesamfunnet
-
-[Side 288]
-
-286
-
-NOU 2026: 10
-
-Kapittel 13
-
-Fellesskolen
-
-13
-Figur 13.1
-
-Kapittel 13
-
-Hvordan styrke fellesskolens rolle i samfunnet?
-Alle de fem utviklingstrekkene vi har redegjort for
-tidligere virker inn på rammebetingelsene for å
-drive skole. Skolen utfordres av relativiseringen
-av kunnskap, teknologiutviklingen, presset på
-offentlig sektor, av at fellesskap svekkes og av økt
-mangfold i samfunnet. Utvalget har beskrevet
-hvordan vi mener at utviklingstrekkene krever at
-vi tenker nytt om hva skolen skal inneholde, og
-hvordan den må styres og drives. Utviklingen krever i tillegg at vi ser med nye øyne på skolens rolle
-og funksjon i samfunnet.
-I lys av utviklingstrekkene blir det tydelig for
-utvalget at skolens betydning for å opprettholde
-og videreutvikle et godt samfunn bare vil øke.
-Skolen er en bærebjelke i samfunnet, og det må
-ligge til grunn når vi tenker på skolen som samfunnsinstitusjon i framtiden.
-Uansett hvor vi bor i landet, skal skolen gi elevene mulighet til å utvikle seg til selvstendige individer, sosialisere dem inn i større fellesskap og
-kvalifisere for videre utdanning og arbeidsliv. Et
-likeverdig opplæringstilbud i hele landet, er et av
-flere nasjonale mål for fellesskolen. Kommunene
-er i dag svært forskjellige når det gjelder ressursbruk, bemanning, kompetanse, organisering og
-økonomi. Forskjellene mellom kommunene skyldes blant annet smådriftsulemper for kommuner
-med få elever og små skoler. Disse forskjellene vil
-trolig bli forsterket etter hvert som demografiske
-endringer slår inn i kommunenes befolkningssammensetning. Men forskjeller mellom kommuner skyldes også helt legitime politiske valg og
-prioriteringer. Vi kan med andre ord legge til
-
-grunn at det vil være betydelige variasjoner mellom lokalsamfunn, skoler, klasser og enkeltelever
-også i framtidens fellesskole.
-I dette kapittelet kommer utvalget med forslag
-til hvordan skolens rolle og funksjon i samfunnet
-kan utvikles for å ruste den for framtiden. I møte
-med de nevnte utfordringene er ikke svaret mindre skole, men økt satsing på skole. Skoleøkonomien er et viktig grunnlag for en slik satsing og
-må hegnes om. Fornuftig anvendt, gir økt ressursbruk i skolen mer likeverdig opplæring og er samfunnsøkonomisk lønnsomt. Samtidig ser utvalget
-mekanismer som gjør det sannsynlig at kommunene vil investere mindre i skolen i årene framover enn det som er gunstig for samfunnet som
-helhet. De nasjonale målene for fellesskolen gir
-gode grunner til å legge noen statlige føringer på
-skoleøkonomien, og utvalget kommer her med
-forslag til noen slike føringer.
-Endringer i skolestrukturen kan være ett av
-flere mulige svar på en strammere offentlig økonomi, og vi peker på momenter som forskning
-viser at det er viktig å ta hensyn til i slike sammenhenger.
-I dette kapittelet reflekterer vi også over skolens forebyggende funksjoner i samfunnet, og
-hvordan disse kan styrkes framover. Det kan blant
-annet skje gjennom et nært og godt samarbeid
-mellom skolens ansatte og andre aktører rundt
-elevene, der foreldrene er helt sentrale. Utvalget
-er i tillegg bedt om å svare på hva elevene trenger
-å lære for å leve gode liv i morgendagens samfunn, og om dagens omfang av grunnopplæringen
-
-[Side 289]
-
-NOU 2026: 10
-Fellesskolen
-
-er hensiktsmessig. Skolens sertifiseringsfunksjon og oppgaven med å kvalifisere til videre
-utdanning og til framtidens arbeidsmarked, er noe
-vi kommer inn på til slutt i kapittelet.
-
-13.1 Langsiktig prioritering av ressurser
-til skolen
-Utvalget mener det er gode grunner til å prioritere og hegne om skoleøkonomien framover, og at
-det er helt nødvendig med en slik prioritering for
-at fellesskolen skal kunne ivareta sitt samfunnsmandat. Utvalget mener det er høy risiko for at
-skoleøkonomien i kommunene vil svekkes i årene
-fram mot 2035, og vil i dette delkapittelet redegjøre for hvorfor. Utviklingstrekkene vi har presentert, og da spesielt den demografiske utviklingen og en presset offentlig økonomi, vil trolig
-gjøre det mer krevende å prioritere ressurser til
-skolen framover. Samtidig gir det økende mangfoldet i skolen økt ressursbehov. Vi mener scenarioanalysen vi har gjennomført illustrerer hvilket
-alvor vi står overfor.
-Et selvstendig poeng her er den forventede
-utviklingen i kommunenes demografiske sammensetting det neste tiåret. Som tidligere nevnt
-anslår Teknisk beregningsutvalg for kommunal
-og fylkeskommunal økonomi (TBU) at det vil
-komme et trekk fra kommunerammen på totalt
-11 mrd. kroner de neste ti årene, som følge av
-færre barn og unge i grunnskolealder. I tillegg
-anslår beregningsutvalget et trekk på nær 4 mrd.
-kroner fra fylkeskommunene, som følge av færre
-ungdommer i aldersgruppen for videregående
-skole.
-TBU varsler en medfølgende vridning av kommuneøkonomien fra grunnskole til omsorgstjenester i samme periode. Anslagene er riktignok
-usikre, men bekymringene vi har uttrykt i kapittel
-4.3 om mulige endringer i skolens rammebetingelser, gjentar vi her: Å nedprioritere skolen i dag,
-vil kunne gi større utenforskap, lavere skatteinntekter og økt hjelpebehov i framtiden. Motsatt vil
-det å opprettholde kvaliteten i skolen, herunder
-gjennom ressursbruken, bidra til å svare på
-mange av utfordringene vi som samfunn står overfor.
-Det forventede trekket fra kommunerammen
-det neste tiåret følger av måten inntektssystemet
-er rigget på, og det vil ikke endres uten aktive
-politiske grep på nasjonalt nivå. Utvalget mener
-det er avgjørende for fellesskolens framtid at
-staten tar sin del av det økonomiske ansvaret for
-utviklingen av skolen. Det innebærer også å ta
-
-287
-
-Kapittel 13
-
-ansvar for forutsigbare konsekvenser for skolen
-av å eventuelt ikke kompensere kommunene.
-Utvalget mener at staten bør kompensere kommunene og fylkene for de forventede automatiske
-kuttene som følger av fallende elevtall. I tillegg
-mener utvalget at staten bør utrede og innføre en
-ny ressursnorm for grunnskolen. Disse forslagene vil vi utdype og begrunne senere i dette
-kapittelet.
-En svekket kommuneøkonomi vil gjøre det
-svært krevende for kommunene å møte de utfordringene som vi har beskrevet andre steder i utredningen. Svaret på en svekket skoleøkonomi i kommunene er ikke så enkelt som å slå sammen skoler til større enheter for å oppnå stordriftsfordeler.
-For det første har en av fem kommuner bare én
-skole igjen, og det er derfor ingen skoler å legge
-ned, med mindre de samarbeider på tvers av kommunegrensene. For det andre kan antall innbyggere i skolealder komme til å øke igjen på lenger
-sikt, altså ut over den første tiårsperioden. Selv
-om framskrivningene lenger fram i tid er mer usikre, vil det være uheldig om kommunene settes i
-en situasjon hvor de må bygge ned skolekapasiteten det neste tiåret, bare for å måtte øke kapasiteten igjen etter dette. For det tredje er skolenedleggelsesprosesser krevende og det er ikke gitt at initiativer for å endre skolestrukturen i en kommune
-leder fram, eller at de gir besparelser dersom de
-faktisk leder fram.
-Utvalget ser det ikke som realistisk at kommunene skal klare å redusere ressursene til skolen med de anslåtte 11 mrd. kroner uten langvarige skadevirkninger for kvaliteten i skoletilbudet.
-En grunn til dette er forskjellen mellom gjennomsnittskostnader og marginalkostnader i skolesektoren. Gjennomsnittskostnaden per elev, som vi får
-ved å fordele kommunens samlede utgifter til
-skole på antallet elever totalt i kommunen, gir
-ikke et godt bilde av hva kommunen faktisk sparer når elevtallet går ned. De fleste kostnadene i
-grunnskolen som skolebygg, ledelse og lærerlønninger, er i praksis faste og lar seg i begrenset
-grad justere på kort sikt. Dermed vil marginalkostnaden, eller besparelsen ved lavere elevtall i
-en kommune, være betydelig mindre enn den
-gjennomsnittskostnaden per elev som kommunen
-trekkes økonomisk for. Det disponible økonomiske handlingsrommet vil derfor automatisk
-svekkes dersom skolen trekkes for gjennomsnittskostnader per elev.
-Konsekvensen er at nedgang i elevtall ikke
-automatisk frigjør ressurser i samme omfang som
-de beregnede gjennomsnittskostnadene tilsier.
-Reelle innsparinger forutsetter ofte strukturelle
-
-[Side 290]
-
-288
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-tilpasninger, som nedleggelse eller sammenslåing av klasser og skoler. Dette kan være både faglig og politisk svært krevende. I tillegg kan det
-være geografiske og praktiske forhold ved skoledriften som gjør at gjennomsnittskostnaden per
-elev i en kommune faktisk stiger når elevtallet går
-ned (f.eks. kostnader til skoleskyss). Dermed vil
-en del av de anslåtte demografiske gevinstene
-som staten legger til grunn i praksis ikke være
-mulig å realisere for kommunene.
-
-13.1.1 Risiko for lokal underinvestering i skole
-I tillegg til vår bekymring om framtidige trekk fra
-kommunerammen, mener utvalget at det er risiko
-for samfunnsøkonomisk underinvestering i fellesskolen dersom beslutninger om hvor mye penger
-som skal brukes på skole overlates helt og fullt til
-kommunene. Dette vil vi begrunne i det følgende.
-Kortsiktige kostnader trumfer langsiktige gevinster
-Investering i skolen gir mange gevinster, men
-ikke nødvendigvis umiddelbart for hver enkelt
-kommune og fylkeskommune, som i all hovedsak
-finansierer skolen. Mange av gevinstene tilfaller
-selvsagt det enkelte individ, mens andre gevinster
-tilfaller samfunnet rundt gjennom positive ringvirkninger. I tillegg kan investeringer i skolen føre
-til lavere offentlige utgifter og besparelser også
-utenfor den kommunen som har betalt for skoletiltaket. Gevinstene kommer blant annet til syne
-gjennom økt utdanningslengde, høyere sysselsetting, bedre folkehelse og mindre kriminalitet i
-befolkningen (Falch et al., 2026).
-Det er mye som tyder på at lokalpolitikere
-ikke tar inn over seg hele den langsiktige verdien
-og de eksterne virkningene av en god skole når de
-fatter beslutninger om skoleinvesteringer. Selv
-dersom man ser bort fra eksterne virkninger og
-bare tar hensyn til preferansene til innbyggerne,
-ser lokale myndigheter ut til å underinvestere i
-skole (Bayer, 2023; Cellini et al., 2010).1
-1
-
-Boligpriser kan brukes som et mål på hvor mye folk verdsetter gode skoler. Dersom en ekstra investering i skole
-øker boligverdiene i kommunen mer enn den ekstra investeringen koster, tyder det på at innbyggerne samlet sett
-verdsetter investeringen høyere enn kostnaden. For samfunnsøkonomer er dette et tegn på at kommunen investerer for lite i skole. Studier fra USA finner nettopp at økte
-skoleinvesteringer gir høyere lokale boligpriser. Det tyder
-på at lokal betalingsvilje for bedre skoler overstiger kostnaden, selv når man bare ser på gevinster som verdsettes
-lokalt (se Bayer, 2023; Cellini et al., 2010). Selv om studiene
-er fra USA, er mekanismen relevant også i Norge, fordi
-skolekvalitet kan påvirke hvor attraktiv en kommune er.
-
-En høy andel av de samfunnsøkonomiske
-gevinstene av dagens investeringer i skolen tilfaller altså andre sektorer i morgendagens samfunn,
-som næringslivet, helsesektoren og justissektoren. Forskning viser også at gevinstene ved å
-investere i skole kan ha virkninger på tvers av
-generasjoner, slik at barna til dem som får mer
-utdanning også får bedre forutsetninger i livet
-(Devereux et al., 2005; Oreopoulos et al., 2006).
-Dette innebærer at gevinstene og kostnadene ved
-investeringer i skole ofte er asymmetrisk fordelt.
-Gevinstene kommer langt fram i tid og kan tilfalle
-staten eller andre kommuner, mens kostnadene
-finansieres her og nå av den enkelte kommune.
-Det er grunn til å tro at dette «store regnestykket» er krevende å få øye på i de årlige og mer
-kortsiktige diskusjonene om kommunebudsjettene. De negative virkningene av å nedprioritere
-skolen kan framstå som lite konkrete, framtidige
-og dermed være vanskelige å ta hensyn til i både
-nasjonale og lokale budsjettforhandlinger. Når
-ressurser brukt på skolen først svarer seg over
-tid, og gjerne i andre sektorer, er det med andre
-ord fare for at skoleøkonomien i kommunene blir
-nedprioritert i kampen om knappe offentlige ressurser.
-Videre har forskning påvist en iboende kortsiktighet i politikken, både nasjonalt og lokalt,
-som gjør at politikerne har insentiver til å prioritere tiltak med kortsiktige gevinster og langsiktige kostnader, foran tiltak med kortsiktige kostnader og langsiktige gevinster (se f.eks. Ogami,
-2024). Investeringer i skole er nettopp et slikt tiltak med langsiktige gevinster, som vi har redegjort for over. Handlingsregelen for bruk av petroleumsinntekter er ellers et godt eksempel på at
-man politisk forsøker å motvirke politikkens iboende kortsiktighet.
-De nærmeste årene må, som nevnt, mange
-kommuner tilpasse seg uttrekk fra kommunerammen grunnet fallende elevtall. I kombinasjon med
-den nært forestående eldrebølgen kan det skape
-en opplevd lokal tvangssituasjon, hvor nedprioritering av oppveksttjenester til fordel for helse- og
-omsorgstjenester kan synes uunngåelig.
-Det er også fare for at skolen nedprioriteres
-lokalt fordi de umiddelbare skadevirkningene
-ikke er like synlige som i andre sektorer, for
-eksempel innenfor helse og omsorg. Det er dessuten allerede slik at også andre sektorer legger
-sterke føringer på kommuneøkonomien. Generalistkommuneutvalget er blant dem som har
-beskrevet at ingen kommuner makter å oppfylle
-alle lovkrav (NOU 2023: 9). Uten harmonisering
-på tvers av sektorene, vil en reduksjon av statlig
-
-[Side 291]
-
-NOU 2026: 10
-Fellesskolen
-
-styring i én sektor (for eksempel skole) dermed
-reelt sett innebære en statlig omprioritering mellom sektorer.
-I tillegg er spesialiserte velferdstjenester, som
-for eksempel individuelt tilrettelagt opplæring,
-ofte kostbare for kommunene. Det er en fare for at
-kommuner underprioriterer slike spesialiserte tjenester for ikke å tiltrekke seg flere ressurskrevende innbyggere. Dette fenomenet er beskrevet
-som et «race to the bottom» (NOU 2026: 1). Statlig
-styring er i slike tilfeller nødvendig for å hindre at
-ressursene styres vekk fra sårbare grupper og for
-å sikre at disse gruppene får det minimum av tjenester de har krav på.
-Det kan også være grunn til å spørre om det
-politiske systemet ivaretar barn og unges interesser i tilstrekkelig grad. Det er ikke gitt at barn og
-unges preferanser er tilstrekkelig representert
-gjennom de voksne, selv om det er naturlig å
-legge til grunn at foreldre representerer sine
-barns interesser politisk. I tillegg er det en tydelig
-representasjonsskjevhet i lokalpolitikken, med
-relativt sett flere eldre og klart færre ungdom og
-unge voksne (Statistisk sentralbyrå, 2025c).
-Eksterne virkninger av lokale skoleinvesteringer, kortsiktige kostnader og langsiktige gevinster, manglende harmonisering mellom sektorene
-og underrepresentasjon av barn og unges interesser i lokaldemokratiske prosesser, er alle forhold
-som peker i retning av at skoleøkonomien kan
-komme til å nedprioriteres i framtiden.
-Nedprioritering er sannsynlig, men ikke gitt
-Utvalget anerkjenner samtidig at det finnes lokale
-forhold, såkalte internaliserende mekanismer, som
-gir kommunene både økonomiske og politiske
-grunner til å prioritere skolesektoren høyt.
-Ett slikt forhold er lokaldemokratisk press.
-Foreldre har sterke preferanser for barnas framtidige muligheter, og lokalpolitikere som velger å
-nedprioritere oppvekstsektoren, kan ha mindre
-sjanse for å bli gjenvalgt. Et tydelig eksempel er
-det store lokaldemokratiske engasjementet som
-oppstår i saker om skolenedleggelser i kommunene. Mange eldre kommunestyrerepresentanter og kommunestyrerepresentanter uten
-barn, har dessuten barn og unges oppvekst høyt
-på agendaen. Paradoksalt nok kan dette lokaldemokratiske presset være til hinder for effektiv
-ressursbruk og kvalitet i skoletilbudet, rett og
-slett fordi det gjør det vanskeligere å tilpasse
-skolestrukturen til færre elever og endret bosettingsmønster. Mekanismene bak dette beskrives
-godt i rapporten om skolenedleggelser fra Tele-
-
-289
-
-Kapittel 13
-
-marksforskning og Nordlandsforskning (Storm
-et al., 2026).
-Et annet forhold er kommunens attraktivitet
-for tilflyttere. Et generøst og godt skoletilbud gjør
-kommunen attraktiv for barnefamilier, som kan
-sikre kommunen viktig arbeidskraft og økte skatteinntekter. Ikke minst vil tilflytting kunne gi kommuner en mer balansert demografisk utvikling og
-dermed bedre grunnlag for å håndtere eldrebølgen. Dette gir kommunene insentiver til å prioritere skole.
-I tillegg inneholder inntektssystemet for kommunene en mekanisme som omfordeler skatteinntekter fra skattesterke kommuner til skattesvake
-kommuner. Det faktiske tapet av skatteinntekter
-for en hjemkommune som «mister» ferdigutdannet ungdom til en annen kommune, er dermed
-betydelig mindre enn tapet ville vært uten en slik
-utjevningsordning.
-Det er altså ikke gitt at kommunene vil nedprioritere skole i framtiden. Men selv om slike internaliserende mekanismer kan gjøre seg gjeldende,
-mener utvalget at det er sannsynlig at kommunene i en presset situasjon vil nedprioritere
-midler til skolen i framtiden, relativt til det som er
-samfunnsøkonomisk optimalt. Dette handler ikke
-nødvendigvis om bevisst nedprioritering, men kan
-like gjerne skyldes opplevelse av å være i en
-tvangssituasjon for å finansiere økte behov innen
-helse og omsorg.
-Det springende punktet er om det er grunn til
-å tro at skolen vil bli for lavt prioritert i kommunene gitt en situasjon med mindre statlige
-føringer. Analysen som Kommunekommisjonen
-har fått gjennomført, konkluderer med at «dette
-ikke er åpenbart», med henvisning til mekanismene om lokaldemokrati, attraktivitet og inntektssystemet nevnt over (NOU 2026: 1, Vedlegg 1).
-Fellesskoleutvalget mener denne konklusjonen bygger på et for snevert grunnlag. Mye tyder
-på at kommunene ikke fullt ut tar hensyn til alle
-gevinstene av skoleinvesteringer, selv ikke gevinster som kommer til uttrykk gjennom høyere
-boligpriser og attraktivitet for tilflyttere. I tillegg
-diskuterer Kommunekommisjonen i liten grad
-samfunnsgevinster som lavere kriminalitet, bedre
-helse og lavere framtidige offentlige utgifter.
-Når det gjelder spesialiserte velferdstjenester,
-er dessuten konklusjonen fra analysen for Kommunekommisjonen at kommunene har insentiver
-til å nedprioritere slike tjenester. Individuell tilrettelegging av opplæringen er blant disse tjenestene.
-Utvalget mener disse momentene samlet sett
-gjør det nødvendig med en viss statlig styring av
-
-[Side 292]
-
-290
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-skoleøkonomien. Uten tydelige føringer er det en
-risiko for at kommunene investerer for lite i skole
-i framtiden. Statlig styring kan ifølge retningslinjene begrunnes i nasjonale mål, og utvalget vil
-hevde at fellesskolen er et slikt relevant nasjonalt
-mål.
-
-13.1.2 Tre gode grunner til å prioritere
-ressurser til skolen
-Selv om vi skulle se helt bort fra den nevnte risikoen for lokal nedprioritering, kan en statlig ressurssikring begrunnes selvstendig med skolens
-funksjon som en bærebjelke i samfunnet. Her vil
-vi særlig peke på at økt ressursbruk i skolen gir
-bedre og mer likeverdig opplæring, og store samfunnsøkonomiske gevinster. De økte kravene til
-skolen vil kreve mer og ikke mindre bruk av ressurser i skolen framover. Disse forholdene utdyper vi nedenfor.
-Økt ressursbruk i skolen gir bedre og mer likeverdig
-opplæring
-Det er forsket mye på sammenhengen mellom
-ressursbruk i skolen og skolens resultater. Den
-tidlige internasjonale forskningen greide ikke på
-noen overbevisende måte å isolere effektene av
-pengebruken fra alle andre forhold som korrelerer med ressurser og som kan påvirke skolens
-kvalitet. Denne forskningen fant derfor svake
-sammenhenger mellom ressursbruk og læringsutfall (Hanushek, 1986, 1989, 1996). De siste
-årene er det derimot ført sterkere forskningsmessige bevis for at økt ressursbruk på skole faktisk
-gir økt læring (Jackson et al., 2016). Gevinstene
-kommer til uttrykk gjennom økt utdanningslengde, økte inntekter og mindre forskjeller i livsutfall avhengig av kjønn. Ikke minst viser forskningen at økt ressursbruk i skolen på lengre sikt
-gir økt sosial mobilitet i samfunnet, fordi det er
-elever fra familier med lav og middels inntekt som
-har størst fordel av den økte ressursbruken (Jackson, 2020, s. 203-206; Langørgen & Løkken, 2023).
-Utvalget merker seg at forskerne finner forskjeller avhengig av hva ressursene brukes på. En
-litteraturgjennomgang viser at generelle budsjettøkninger nesten konsekvent gir bedre livsutfall for elevene (Jackson, 2020). Dette gjelder særlig når de frie midlene rettes direkte inn mot selve
-klasserommet og skolehverdagen, og går til
-lærere, støttepersonell, undervisningsmateriell og
-det løpende vedlikeholdet av skolens utstyr. For
-investeringer i skolens fasiliteter og infrastruktur
-er resultatene mer blandet. Noen studier finner
-
-positive effekter av nye skolebygg og oppgradering og vedlikehold av eksisterende skolebygg og
-anlegg, men flere studier finner ingen vesentlige
-gevinster for elevene senere i livet. Gitt generelle
-budsjettøkninger uten spesifikke føringer, gir
-ekstra midler som brukes på flere lærere, mer
-bemanning og undervisningsmateriell derimot
-tydelige langsiktige gevinster for elevene, spesielt
-for de fra lavere sosiale lag og spesielt for gutter
-(Jackson, 2020; Langørgen & Løkken, 2023).
-Disse forskningsresultatene støttes også av ny
-forskning om virkningene av omleggingen av inntektssystemet for norske kommuner i 1986. Reformen var i hovedsak budsjettnøytral nasjonalt, men
-førte til systematiske forskjeller i finansiering per
-elev mellom kommuner, betinget av alderssammensetningen blant elevene. Noen kommuner fikk
-dermed økte ressurser per elev uten egne politiske
-vedtak. Dette har gitt grunnlag for en kausal analyse av effekter av den økte ressursbruken. Studien finner for det første at ressursøkningen i
-hovedsak gikk til å ansette flere lærere. For det
-andre viser resultatene moderate, men positive
-langsiktige effekter, med en samfunnsøkonomisk
-avkastning som overstiger kostnadene. Inntektsnytte kom særlig for menn fra familier med
-lavt utdannede foreldre. For kvinner viser gevinstene seg blant annet gjennom flere års utdanning
-og bedre familieøkonomi (Duque, 2026).
-Forskningslitteraturen på langsiktige effekter
-av ekstra ressurser til skolene finner altså bedre
-resultater av generelle midler til skole rettet mot
-skolehverdagen enn av spesifikke, øremerkede tiltak (Jackson et al., 2016).
-Dette tyder på at lokale skolemyndigheter er
-godt posisjonert for å beslutte effektiv ressursbruk lokalt, enten det er om pengene skal brukes
-på lærere, på andre forhold i skolen, eller det
-dreier seg om hvordan ekstra lærerressurser best
-mulig bør innrettes.
-Enkelt sagt tyder forskningen på at mer ressurser til skolen grunnleggende sett gir mer likeverdig opplæring på lengre sikt. Med økte ressurser reduseres betydningen av elevenes ulike forutsetninger. Mer penger brukt på skole gjør at elevenes sosioøkonomiske bakgrunn får mindre
-betydning for om de lykkes med skolegangen og
-videre i livet. Denne mekanismen virker åpenbart
-begge veier. Dersom skolen nedprioriteres framover, så vil det ha betydelige og forutsigelige
-negative konsekvenser for skolens evne til å motvirke sosiale forskjeller.
-For at fellesskolen skal ha muligheten til å nå
-ambisjonen om en likeverdig opplæring i framtiden, er det derfor viktig å hegne om ressursene i
-
-[Side 293]
-
-NOU 2026: 10
-Fellesskolen
-
-skolen. Samfunnets ressursbruk på fellesskolen
-må stå i stil med forventningene til den, og likeverdig opplæring er en ambisiøs forventning som
-samfunnet har til skolen.
-Prinsippet om likeverdig opplæring vil i tillegg
-utfordres dersom kvalitetsforskjellene øker på
-grunn av geografi, og i den grad den enkelte kommunes økonomi og lokale prioriteringer gir ulike
-vilkår for å drive skole. Denne bekymringen har
-blitt tematisert ved flere anledninger av utvalgets
-referansegrupper, og kom tydelig fram i våre
-regionale dialogmøter høsten 2025.
-Økt ressursbruk i skolen gir store samfunnsøkonomiske gevinster
-På oppdrag for utvalget har Senter for økonomisk
-forskning (SØF) gjort en litteraturgjennomgang
-som dokumenterer hvilke virkninger skole har for
-individer og samfunn, og tallfestet samfunnsøkonomiske gevinster av ulike forbedringer i skolen.
-SØFs anslag viser at selv små forbedringer i skolen vil gi betydelige samfunnsøkonomiske gevinster (Falch et al., 2026).
-
-•
-
-•
-
-•
-
-Dersom fullføringen av videregående opplæring øker med ett prosentpoeng, fra dagens
-nivå på 82 prosent til 83 prosent, anslår SØF en
-samlet gevinst i form av økt verdiskaping, redusert kriminalitet og bedre helse på 1,74 mrd.
-kroner per kohort.
-Dersom andelen elever som ikke oppnår
-grunnskolepoeng etter 10. klasse reduseres
-med ett prosentpoeng, fra dagens nivå på åtte
-prosent til syv prosent, anslår SØF en samlet
-gevinst på 1,81 mrd. kroner per kohort.
-Dersom andelen elever som mobbes i skolen
-reduseres med ett prosentpoeng, fra dagens
-nivå på ti prosent til ni prosent, anslår SØF en
-samlet gevinst på 900 mill. kroner per kohort.
-
-Felles for de tre nevnte forholdene (økt fullføring,
-flere med grunnskolepoeng og færre som mobbes) er at forbedringene som er lagt til grunn vil
-berøre relativt få elever (ca. 600 elever per forhold, gitt en kohortstørrelse på 60 000 elever).
-SØF har i tillegg gjort beregninger av forbedringer i skolen som vil gjelde alle elever. De samfunnsøkonomiske gevinstene vil da bli vesentlige:
-
-•
-
-Dersom de faglige ferdighetene i skolen øker
-tilsvarende 0,1 karakterpoeng for alle elever,
-anslår SØF en samlet gevinst på hele 9,26 mrd.
-kroner per kohort som følge av økt verdiskaping, redusert kriminalitet og bedre helse.2
-
-•
-
-291
-
-Kapittel 13
-
-Dersom elevenes sosiale og emosjonelle ferdigheter økes tilsvarende 0,1 standardavvik,
-anslår SØF en samlet gevinst på hele 4,62 mrd.
-kroner per kohort som følge av økt verdiskaping, redusert kriminalitet bedre helse.
-
-SØF viser til at de her har gitt moderate anslag for
-hvordan ulike forbedringer i skolen kan komme
-til uttrykk. Utvalgets vurdering er at slike forbedringer er innen rekkevidde for framtidens fellesskole, gitt at den når opp i kampen om knappe
-offentlige ressurser.
-Internasjonal forskning viser at tiltak rettet
-mot barn og unge ofte gir svært høy gevinst sett i
-forhold til kostnaden. I praksis kan mange slike
-tiltak finansiere seg selv ved at kostnaden mer
-enn svarer seg over tid gjennom økte skatteinntekter og reduserte sosiale utgifter (Hendren og
-Sprung-Keyser, 2020). Samlet sett viser forskningen at mer ressurser til skolen kan gi mer
-utdanning, høyere inntekt i voksenlivet og mindre
-fattigdom. Utvalget understreker at vi her utelukkende vurderer de økonomiske effektene. Ikkeprissatte effekter for livskvalitet kommer i tillegg,
-og kan være vesentlige.
-Økte krav til skolen krever økte ressurser
-Utvalget mener det vil ha store negative konsekvenser for skolen og samfunnet dersom ressurser til skolen nedprioriteres i en tid hvor skolens
-oppdrag blir stadig mer krevende. Gitt de forventningene storsamfunnet stiller til skolen, er dessuten mulighetene til å redusere kompleksiteten
-og effektivisere skoledriften begrenset. Økte
-utfordringer og økte krav til skolen vil kreve økte
-ressurser i framtiden. Som nevnt mener utvalget
-at det særlig er samfunnstrendene med press på
-offentlig sektor og det økende mangfoldet i skolen
-som gjør ressursbruk til en reell grunn til bekymring.
-De langsiktige skadevirkningene for samfunnet av å nedprioritere skolebudsjettene i dag, vil
-merkes i samtlige sektorer i framtiden. Utvalget
-sender derfor et tydelig budskap til både nasjonale og lokale myndigheter om at ressursene til
-skolen må prioriteres i framtiden.
-2
-
-0,1 karakterpoeng kan «oversettes» til om lag 0,1 standardavvik, som man igjen regner med at tilsvarer ca. et
-halvt år med læring. Til sammenlikning var fallet i norske
-elevers prestasjoner i matematikk, lesing og naturfag i
-PISA i en femårsperiode på 0,2-0,4 standardavvik (2015–
-2020), altså mellom to og fire ganger så høyt. I lys av dette
-kaller SØF forutsetningen om en bedring på 0,1 karakterpoeng/standardavvik «forholdsvis moderat».
-
-[Side 294]
-
-292
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-Samtidig anerkjenner utvalget at kommunene
-er i en økonomisk situasjon som vil kreve fleksibilitet for å få mest mulig ut av de samlede ressursene framover. For stor innskrenking av kommunenes handlingsrom vil innebære et effektivitetstap som samfunnet som helhet ikke er tjent
-med. Et nasjonalt kappløp mellom sektorene om
-hvem som kan binde opp mest mulig penger i
-kommunene, vil være ugunstig for samfunnet sett
-under ett. Kommunekommisjonen peker på at
-stramme føringer for ressursbruk i kommunene
-begrenser kommunenes handlingsrom til å gjennomføre nødvendige omstillinger (NOU 2026: 1).
-I tillegg innebærer kompleksiteten i skolens
-samfunnsoppdrag, kombinert med stor variasjon i
-lokale forhold, at både kommuner, skoler, skoleledere og lærerprofesjonen bør ha betydelig handlingsrom og autonomi. Dette har implikasjoner for
-hvordan skolen bør styres, ledes og utvikles.
-Økt ressursbruk på skolen, fornuftig anvendt,
-vil gi mer likeverdig opplæring, økt livskvalitet for
-den enkelte og store økonomiske gevinster for
-samfunnet. Det vil gi et samfunn med mulighet for
-sosial mobilitet for den enkelte, og det vil gi bedre
-balanse i det store samfunnsregnskapet.
-Med andre ord er den offentlig finansierte
-skolen en viktig del av løsningen for utfordringene i samfunnet framover. Et sentralt spørsmål
-blir derfor hvordan vi kan sørge for tilstrekkelig
-med midler til at den kan løse sitt viktige samfunnsoppdrag, slik at dagens og morgendagens
-elever ikke blir tapere i kampen om knappere
-offentlige ressurser.
-Statlig styring kan begrunnes i fellesskolen som
-nasjonalt mål
-En klassisk løsning for å håndtere manglende
-hensyn til eksterne virkninger i beslutninger om
-investeringer, er å flytte beslutningene til et høyere nivå. I vårt tilfelle skulle det tilsi at beslutningene om nivået på skoleinvesteringer burde flyttes til staten. Da blir det den samme aktøren som
-både bærer kostnadene og høster gevinstene av
-dem, for eksempel i form av høyere skatteinntekter og lavere kriminalitet. På den måten blir det
-lettere å ta hensyn til de samlede virkningene av
-investeringene i skole.
-Samtidig må vi ta hensyn til Grunnlovens
-bestemmelse om at innbyggerne har rett til å
-styre lokale anliggender gjennom lokale folkevalgte organer (§ 49) og forholdsmessighetsprinsippet i kommuneloven (§ 2-2) som innebærer at
-det kommunale selvstyret ikke bør begrenses mer
-enn nødvendig for å ivareta nasjonale mål. Et vik-
-
-tig hensyn er at lokaldemokratiet gir innbyggerne
-mulighet til å påvirke beslutninger nær dem selv.
-Nærheten til innbyggerne, god informasjon om
-lokale forhold og behov og kommunenes selvstendige vurderinger, antas i tillegg å gi bedre beslutninger og bedre løsninger, og det har en demokratisk egenverdi.
-Når vi nedenfor likevel foreslår statlige føringer for skoleøkonomien, er det med bakgrunn i at
-skolen er en bærebjelke i det norske samfunnet,
-og at den gir store samfunnsøkonomiske gevinster utover den enkelte kommune når den lykkes.
-Vi mener redegjørelsen i kapittel 2 og 3 om skolens mål og formål, og den nasjonale målsettingen
-om likeverdig opplæring, viser hvordan det lokale
-selvstyret må virke innenfor rammene av den
-nasjonale målsettingen om en offentlig finansiert
-fellesskole. Utvalget mener altså at slik statlig styring som vi her foreslår, kan begrunnes i fellesskolen som nasjonalt mål.
-
-13.1.3 Spesielt om lærernormen
-Gitt drøftingen over, blir et spørsmål hvordan forholdene kan legges til rette slik at ressurser til
-skolen prioriteres i framtiden. En mye omtalt sak i
-denne forbindelse er normen om lærertetthet,
-den såkalte lærernormen. Lærernormen angir i
-dag en øvre grense for antall elever per lærer på
-en skole på hvert hovedtrinn. Siden den største
-innsatsfaktoren i skolen er lærerårsverkene, kan
-man se på økt lærertetthet som en måte å øke ressursbruken i skolen på. Lærernormen er med
-andre ord en mekanisme som legger nokså sterke
-statlige føringer på kommunenes bruk av midler
-på skole, selv om normen i utgangspunktet ble
-finansiert ved ekstra statlige midler og siden innlemmet i kommunerammen. Den politiske
-begrunnelsen for innføringen var et ønske om
-bedre grunnleggende og faglige ferdigheter for
-elevene, bedre inkludering og læringsmiljø i skolene og at flere skulle gjennomføre videregående
-opplæring (Prop. 1 S (2018–2019)).
-Evalueringen av lærernormen
-Utvalget har merket seg evalueringen som konkluderer med at lærernormen som bemanningsnorm fungerer etter hensikten. Den har bidratt til
-at kommunene har økt ressursinnsatsen i skolesektoren og til at skolene har ansatt flere lærere,
-uten at det umiddelbart synes å gå ut over ressursbruk til andre yrkesgrupper. Normen har
-gjort det vanskeligere for kommunene å kutte i
-ressursbruken i skolen (Pedersen, 2022).
-
-[Side 295]
-
-NOU 2026: 10
-Fellesskolen
-
-Boks 13.1 Lærernormen
-Lærernormen er et nasjonalt lovpålagt krav
-om en minstenorm for hvor mange lærere det
-skal være til sammen på en skole. Den sier at
-det i gjennomsnitt skal være maksimalt 15 elever per lærer i ordinær undervisning på 1. –4.
-trinn og maksimalt 20 elever per lærer i ordinær undervisning på 5.–10. trinn. Lærertettheten beregnes ved å dele antall elevtimer på
-antall lærertimer på en skole.
-Normen sier ikke noe om størrelsen på
-klassen, og den gjelder kun for offentlige skoler. Skolene er ikke forpliktet til å oppfylle normen på det enkelte trinn eller i den enkelte
-klasse eller gruppe, men på hvert av hovedtrinnene samlet. Tall fra Utdanningsdirektoratet for skoleåret 2025/26 viser at 93 prosent av
-skolene oppfyller normen på 1.–4. trinn. Da
-normen ble innført i 2018 var andelen 60 prosent.
-Det første året med helårseffekt ble det
-bevilget omtrent 1,5 mrd. kroner til lærernormen. Merk at dette kun er merkostnaden ved
-tiltaket, og ikke det samlede beløpet kommunene bruker på lærerårsverk eller skole
-generelt. Lærernormen binder derfor vesentlig mer ressurser enn 1,5 mrd. kroner.
-Til å begynne med ble lærernormen finansiert gjennom et øremerket tilskudd, men i
-2020 ble midlene lagt inn i rammetilskuddet til
-kommunene.
-Kilder: Utdanningsdirektoratet; Prop. 85 S (2017–2018).
-
-Evalueringen finner imidlertid ingen vesentlige endringer i trivsel hos elevene eller i elevenes
-læring, målt som resultater fra nasjonale prøver
-og karakterer.
-Som allerede nevnt, finnes det både internasjonale og nasjonale studier om virkningene av økt
-ressursbruk i skolen. Disse viser gevinster av
-generelle budsjettøkninger på ulike utfall senere i
-livet, som elevenes utdanningslengde og inntekt.
-Dette er forhold som først lar seg måle på lengre
-sikt. De langsiktige gevinstene oppstår når de
-økte ressursene ikke bindes til spesifikke normtall for klassestørrelser eller bemanning, men likevel kanaliseres til undervisningsrelaterte oppgaver, herunder økt lærertetthet (Duque, 2026;
-Jackson, 2020; Langørgen & Løkken, 2023).
-
-293
-
-Kapittel 13
-
-Forskning som tar utgangspunkt i vedtak om
-spesifikke normtall for klassestørrelser eller
-bemanning, og som så undersøker virkningen for
-elevenes karakterer og trivsel på kortere sikt,
-viser svakere og mer blandede resultater. Det
-siste gjelder også for evalueringen av lærernormen.
-Evalueringen tyder på at de ekstra lærerressursene i hovedsak har blitt benyttet til å følge opp
-svakt presterende elever, enten 1:1 eller for mindre grupper av elever. Dette mener forskerne kan
-bidra til å forklare manglede effekter av lærernormen når de bruker gjennomsnittlige utfall på
-skolenivå som mål. En eventuell framgang for
-svake enkeltelever har ikke vært stor nok til å
-flytte på skolens gjennomsnittlige resultater.
-Evalueringen tar utgangspunkt i den planlagte
-lærertettheten på skolene, som rektorene rapporterte i september/oktober. Forskerne spør om
-ulike hendelser og omrokkeringer som skjer gjennom skoleåret kan ha bidratt til at de ekstra lærertimene ikke nødvendigvis har utgjort en merkbar
-endring for elever og lærere. Litt spissformulert
-kan vi si at lærerressursene økte mest på skoler
-som trengte det minst (Pedersen, 2022, s. 14-16).
-Det innebærer at selv om de økte lærerressursene gjorde nytte på disse skolene, så kunne de
-gjort mer nytte på andre skoler som trengte dem
-mer. Denne manglende treffsikkerheten kommer
-vi tilbake til nedenfor.
-Forskning på lærertetthet og klassestørrelser
-Det finnes mange andre studier som undersøker
-effekter av vedtak om ekstra lærerressurser. En
-studie som undersøkte effekten av ekstra lærerressurser på over 160 utvalgte ungdomsskoler i
-årene 2013–2017 fant, i likhet med evalueringen
-av lærernormen, ingen forbedring i faglige resultater for elevene, verken målt gjennom nasjonale
-prøver, skriftlig eksamen eller standpunktkarakterer (Borgen et al., 2019). En gjennomgang av
-norsk og internasjonal forskning om virkninger av
-økt lærertetthet generelt finner blant annet
-(Sandsør, 2019)
-
-•
-•
-•
-
-ingen eller kun beskjedne positive effekter av
-økte lærerressurser på elevenes læringsutbytte i snitt
-større effekter for barn av foreldre med lav
-sosioøkonomisk bakgrunn eller barn som har
-svake ferdigheter
-noe større effekt på yngre enn på eldre elever
-
-[Side 296]
-
-294
-
-Kapittel 13
-
-NOU 2026: 10
-Fellesskolen
-
-Forskningen viser at måten man utnytter og organiserer de ekstra lærerressursene på, har betydning for elevenes læringsutbytte. Økt lærertetthet
-alene er med andre ord ikke nok for at elevene
-skal lære mer. To større norske studier med
-effekt- og kontrollgrupper viser at økt lærertetthet kan ha god effekt, men at det forutsetter godt
-samarbeid mellom lærerne og gjennomtenkte
-avgjørelser knyttet til undervisningspraksis. I studien som undersøkte en tolærerordning, ble positive virkninger særlig oppnådd i tilfeller der ordningen førte til delt ansvar for planlegging, gjennomføring og evaluering av undervisningen
-(Gourvennec et al., 2022). Forskerne fant også
-god effekt av å benytte en ekstra lærerressurs til
-smågruppeundervisning i matematikk på barnetrinnet (Opheim & Solheim, 2025; Solheim &
-Opheim, 2019). Når skolens lærerressurser rettes
-mot spesifikk og målrettet faglig støtte, finner forskerne at sårbare elever gjør det bedre på ungdomsskolen og får både utdanningsmessige og
-økonomiske gevinster senere i livet (Ye et al.,
-2025).
-Økt lærertetthet må ses på som et strukturelt
-tiltak, som gir økt handlingsrom for å endre og
-forbedre pedagogisk praksis. Effekten kommer
-ikke av seg selv, men krever gjennomtenkt bruk
-ut over organisatorisk differensiering (Opheim &
-Solheim, 2025). En forklaring som har vært trukket fram for manglende effekter av redusert klassestørrelse, er at det økte handlingsrommet ikke
-benyttes (Hattie, 2005).
-Økt lærertetthet garanterer ikke mer læring,
-men det kan gi mer læring. Økt lærertetthet kan
-virke dersom ressursene brukes målrettet, for
-eksempel på intensive tiltak for elever som strever
-i lesing, smågruppeundervisning i matematikk,
-eller godt organiserte tolærerordninger (Bonesrønning et al., 2022; Nergård-Nilssen et al., 2026;
-Solheim et al., 2018; Vembye et al., 2023).
-Mindre handlingsrom har blitt brukt for å forklare hvorfor forskere ikke finner noen vesentlige
-gevinster for elever av vedtak om reduserte klassestørrelser. For det første gjør slike vedtak at
-skolens ressurser ikke kan brukes like fleksibelt
-og målrettet, for eksempel til høyere lærertetthet i
-enkelte klasser, smågruppeundervisning eller
-oppfølging av enkeltelever. For det andre gjør vedtak om reduserte klassestørrelser ofte at skoler
-må opprette flere klasser og omfordele ressursene. For det tredje gir reduserte klasser rotasjon
-av lærere og elever, som igjen gir friksjon og overgangskostnader som går ut over læringsmiljøet
-(Langørgen & Løkken, 2023; Leuven & Løkken,
-2017).
-
-Et tilsynelatende paradoks
-Forskningen viser altså at flere lærere, brukt målrettet, kan øke elevenes læring. De manglende
-effektene av dagens lærernorm må derfor forstås
-som at lærernormen ikke gjør at de samlede
-lærerressursene brukes på måter som gir bedre
-læring eller trivsel. Dette tilsynelatende paradokset, nemlig at lærernormen ikke virker, samtidig
-som økt lærertetthet virker, forklares best med
-den manglende treffsikkerheten til lærernormen.
-I praksis har normen økt lærertettheten mest på
-større skoler i folkerike områder med relativt
-gode resultater der elevene har høyere sosioøkonomisk bakgrunn og det er lav minoritetsandel.
-Lærernormen bidrar dermed ikke nødvendigvis
-til økte lærerressurser der behovene er størst
-(Pedersen, 2022, s. 209). De samme ressursene
-ville gitt mer effekt på skoler som har større
-utfordringer. En påstand kan altså være at det er
-dagens lærernorm slik den er innrettet, som ikke
-virker. Økt lærertetthet anvendt på en fornuftig
-måte virker. Begge deler er sant på en gang.
-En mer generell ressursheving i skolen, som
-legger til rette for mer dynamisk bruk av ressursene (herunder lærerårsverkene), har vist seg å
-være mer treffsikker på lang sikt enn faste normer for bemanning. Dagens lærernorm er nettopp en slik fast norm for bemanning, som binder
-årsverk til hovedtrinn per skole.
-Det er derfor lite trolig at vi vil se store gevinster av dagens lærernorm på lengre sikt, for
-eksempel i form av redusert frafall, økt utdanningslengde eller økte inntekter. Det er for tidlig å
-slå dette fast helt sikkert. Men ut fra det vi nå vet,
-er observerbare langsiktige gevinster av lærernormen for mye å håpe på. Problemet knyttet til at
-lærernormen framtvinger «feil» allokering av
-lærerressurser, kommer ikke til å forsvinne ettersom tiden går. Dermed kan vi heller ikke utelukke
-at en alternativ innretting av midlene til dagens
-lærernorm kunne blitt brukt i skolen på måter
-som var mer samfunnsøkonomisk lønnsomt.
-Andre virkninger av økt lærertetthet
-Forskning har avdekket mulige positive virkninger
-av økt lærertetthet som ikke direkte gjelder elevenes læringsutbytte. Det dreier seg om bedre
-muligheter for læreren til å utvikle god klasseledelse med muligheter for mer varierte undervisningsformer, større mulighet for fordypning og
-bedre betingelser for å drive tilpasset opplæring.
-Lærerne som ble intervjuet om lærenormen,
-mener den er spesielt gunstig for elever med lære-
+## En kompetent lærerprofesjon
+
+En sterk lærerprofesjon er avgjørende for at skolen skal lykkes med samfunnsoppdraget, både i dag og i framtiden. Det er flere grunner til dette. Forskning viser at læreren er den mest betydningsfulle skolerelaterte faktoren for elevers læring, utvikling, trivsel og danning (Burroughs et al., 2019; Hattie, 2023b; Teodorović, 2009). Kompleksiteten i skolen gjør det nødvendig at lærerprofesjonen har betydelig ansvar og fullmakter. Lærerprofesjonen er sentral for å forvalte og realisere skolens brede mandat og bærer et viktig profesjonsansvar.
+
+Elevenes læring, utvikling, trivsel og danning må ses i sammenheng med lærernes profesjonelle utvikling. Å investere i lærerens kompetanse gjennom lærerutdanning og videre profesjonell utvikling har lenge vært kjent som noe av det mest effektive man kan gjøre for skolesystemet (Darling-Hammond & Sykes, 1999; Sahlberg & Walker, 2021). Land som er kjent for å ha velfungerende utdanningssystemer, som Finland, Australia, Canada og Singapore, investerer i lærernes kompetanse ved å ha systemer for å utvikle, støtte og opprettholde læreres kontinuerlige læring og profesjonelle utvikling. Dette innebærer at de ser at lærerkompetansen utvikles gjennom hele yrkeslivet (Darling-Hammond, 2017). Utdanningspolitikken i Norge siden årtusenskiftet bygger på denne kunnskapen og har løftet fram lærerprofesjonens betydning.
+
+Når utvalget mener at det å styrke lærerprofesjonen ytterligere er et vesentlig virkemiddel for å ruste fellesskolen for framtiden, er det en fortsettelse og forsterkning av en allerede etablert tverrpolitisk enighet om lærerprofesjonens betydning for skolen. De siste to tiårene har det vært satt i gang flere prosesser som har bidratt til en profesjonalisering av lærerprofesjonen, som vist i kapittel 10. Utvalget mener utviklingen er positiv og at det er viktig at profesjonaliseringsprosessene fortsetter. Utvalget ønsker særlig å trekke fram lærerutdanning på masternivå, etableringen av lærerprofesjonens etiske plattform, styrket partnerskap mellom lærerutdanning og skole, utvikling av sterke profesjonsfellesskap, økt forskningsforankring, langsiktig satsing på etter- og videreutdanning og satsing på profesjonsfaglig veiledning av nyutdannede lærere.
+
+Utvalgets oppdrag er å vurdere hvordan fellesskolen skal styrkes i et 20-års perspektiv. Selv om det er mange tiltak som trekker i riktig retning, mener utvalget at det bør satses mer på å styrke lærerprofesjonen. Utvalget mener lærerprofesjonen bør sidestilles med de klassiske profesjonene i samfunnet, som leger, prester og advokater. Lærerprofesjonens oppdrag er minst like komplekst og krever minst like høy ekspertise og profesjonelt skjønn for å realisere det.
+
+Utviklingstrekkene forsterker betydningen av en kompetent lærerprofesjon
+
+Utviklingstrekkene som påvirker fellesskolen forsterker behovet for en kompetent lærerprofesjon. En mer mangfoldig elevgruppe, ny teknologi og økt individualisering gjør skolens oppdrag vanskeligere, men også viktigere. Skolen må rustes til å møte en mer variert elevgruppe og inkludere mangfoldet av elever i fellesskapet. I en tid der stadig flere demokratier i verden utfordres, er det sentralt å lykkes med å realisere skolen som en felles arena der mangfold og meningsbrytninger anses som en ressurs, og ikke et problem. Utviklingstrekkene vil gjøre betydningen av skolen større og stille nye krav til lærernes kompetanse. Dersom kampen om arbeidskraft går på bekostning av tilgangen til kvalifiserte lærere, vil det kunne få store konsekvenser for kvaliteten i skolen.
+
+Det er et potensial for at den teknologiske utviklingen og kunstig intelligens vil føre til nye verktøy som kan støtte elevenes læring. Ny teknologi vil også kunne effektivisere administrative oppgaver i skolen. Noen kan hevde at ulike sider ved den teknologiske utviklingen vil gjøre behovet for lærere mindre. Utvalget mener derimot at det motsatte er tilfellet. Kompetente lærere er avgjørende for å kunne håndtere risikoer og utnytte mulighetene som åpner seg gjennom ny teknologi, som KI spesielt og mer avanserte digitale læringsressurser generelt. En viktig funksjon for fellesskolen er å skape gode læringsfellesskap gjennom opplæringen og i skolen som helhet. Dette krever kompetente lærere og kan ikke overlates til teknologi som for eksempel fasiliterer individuelle læringsløp. Utvalget vil derfor understreke at det også i framtiden vil være behov for lærere som gjennom sin undervisning legger til rette for elevenes læring, utvikling, trivsel og danning.
+
+Hvordan styrke lærerprofesjonen i framtidens fellesskole?
+
+Profesjonaliseringen av lærerprofesjonen må i hovedsak skje *innenfra*, altså fra profesjonen selv. Lærerprofesjonens oppgaver er komplekse, kunnskapsgrunnlaget er omfattende og sammensatt. Det stiller høye krav til profesjonen og til hvordan den holder orden i eget hus (Molander & Terum, 2008). Selv om utvalget sammenligner lærerprofesjonen med andre profesjoner, mener utvalget også at lærerprofesjonen har sine egne særtrekk. Læreroppdraget er lite forenelig med detaljerte oppskrifter og prosedyrer. Gode profesjonsfellesskap, både på den enkelte skole og på makronivå er avgjørende for å gjøre profesjonelle vurderinger og utvikle profesjonens kunnskapsgrunnlag. Ekspertgruppen om lærerrollen la vekt på at det kollektive profesjonsfellesskapet er en forutsetning for profesjonalisering innenfra (Ekspertgruppa om lærerrollen, 2016). Lærerprofesjonens etiske standarder og den stadig sterkere kollektive orienteringen er viktige elementer i profesjonaliseringen av lærerprofesjonen innenfra. En stadig større utbredelse av samarbeid og partnerskap med lærerutdanningene er også en del av profesjonaliseringen.
+
+Likevel er det fortsatt mange sentrale spørsmål og ansvarsområder som det er opp til profesjonen selv å definere, forvalte og diskutere. Hva innebærer det faglige ansvaret for opplæringen? Hvordan utvikles profesjonens kunnskapsbase? Hvordan formidles og omsettes ny kunnskap til praksis? Hva er en god standard for profesjonsutøvelsen? Dette er eksempler på spørsmål som profesjonen selv må ta ansvar for å utforske, drøfte og finne svar på.
+
+Nasjonale utdanningsmyndigheter må lage gode rammer og ordninger for å bidra til kompetanseutvikling i profesjonen. Her mener utvalget det er mye å lære fra systematikken i mange av de klassiske profesjonene og fra andre land med sterke lærerprofesjoner. I Norge er det mindre formaliserte rammer rundt profesjonskvalifiseringen til lærere, enn for andre profesjoner. For eksempel har leger, advokater og psykologer sterkere formaliserte ordninger for de ulike stegene i yrkeslivet, i form av introduksjonsår (turnus) og mulighet for gradvis større spesialisering og ansvar.
+
+Fellesskolens suksess bygger på en kunnskapsrik og kompetent lærerprofesjon. Derfor er det viktig å prioritere lærernes kompetanse. Utvalget mener følgende komponenter er sentrale for å styrke lærerprofesjonen i framtidens fellesskole:
+
+Hvordan styrke lærerprofesjonen i framtidens fellesskole?
+
+- *Fremragende lærerutdanning på masternivå:* Profesjonsrettede og forskningsbaserte lærerutdanninger med høy faglig kvalitet og relevans. Lærerutdanningene skal være integrerte masterutdanninger, og profesjonsbyggingen må skje i tett samspill mellom lærerutdanningene og skolene. Det må skapes politisk ro om lærerutdanningen som masterutdanning.
+
+- *Regulering av profesjonsfaglig veiledning for nyutdannede lærere*: Alle nyutdannede lærere må få profesjonsfaglig veiledning de to første årene i yrket.
+
+- *Kontinuerlig kompetanseutvikling gjennom yrkeslivet:* Det er avgjørende med sterke profesjonsfellesskap, faglig og pedagogisk utvikling og videreutdanning gjennom hele yrkeslivet.
+
+- *Ordning for utviklingslærere:* Erfarne lærere bør få mulighet til spesialisering og kunne få ansvar for utvalgte områder, for å bidra til utviklingsarbeid.
+
+- *Strengere kompetansekrav for lærere:* Kvalifiserte og utviklingsorienterte lærere må være bunnplanken i skolen. Derfor bør det være kompetansekrav for både tilsetting og undervisning for å sikre alle elever kvalifiserte lærere.
+
+- *Skolen som en attraktiv arbeidsplass:* Læreryrket vil alltid være krevende og meningsfylt. Det skal også være godt å være lærer. Skolen må ha gode arbeidsforhold. Det er grunnleggende for lærenes læring, trivsel og for rekruttering til læreryrket.
+
+Lærernes profesjonelle utvikling kan illustreres med en trapp som viser utviklingen fra grunnutdanningene og gjennom hele yrkeslivet (se figur 12.2). Overordnet i modellen er at skolen må være en attraktiv arbeidsplass. Den profesjonelle utviklingen må hvile på tydelige kompetansekrav for tilsetting og undervisning, og på noen grunnleggende premisser:
+
+- Profesjonsfellesskap
+
+- Partnerskap
+
+- Forskning med høy kvalitet og relevans
+
+Utvalget mener at disse komponentene bør være standarden for arbeidet med lærernes profesjonelle utvikling, dersom man politisk tar lærerprofesjonens betydning for skolen og skolens betydning for samfunnet på alvor. I det følgende beskriver og vurderer utvalget disse ulike komponentene. Flere av tiltakene vil kreve videre utviklingsprosesser og gradvis implementering. Utvalget mener det er viktig å tenke langsiktig og helhetlig for å styrke lærerprofesjonen i framtidens fellesskole.
+
+### Fremragende lærerutdanning på masternivå
+
+Utvalget mener at lærerutdanningen er helt avgjørende for utviklingen av skolen og lærerprofesjonen. Lærerutdanningene påvirker hvilket samfunn vi får i framtiden, og preger utdanningssystemet i flere generasjoner. Lærerutdanningene danner og utdanner framtidens lærere. Den bidrar også til kontinuerlig kompetanseutvikling av dagens lærere gjennom videreutdanning. Utdanningene bidrar også til kvalitetsutvikling på skolene gjennom utdanningsforskning og samarbeid med skoler i partnerskap og kollektiv kompetanseutvikling. For at lærerutdanningene skal fylle disse sentrale funksjonene, mener utvalget det er flere viktige hensyn å ta i den langsiktige politikkutviklingen.
+
+Integrert masterutdanning som hovedmodell
+
+Utvalget mener at det er et ufravikelig premiss at hovedmodellen for lærerutdanning forblir på masternivå. Utvalget mener at lærerutdanning for grunnskolen, for studieforberedende utdanningsprogram og fellesfag i videregående opplæring må være integrerte mastergradsutdanninger. Når forventningene til skolens rolle stadig øker, blir det viktigere at lærerne har nødvendig legitimitet og autoritet. Det er derfor nødvendig med profesjonsrettede og forskningsbaserte integrerte femårige lærerutdanninger med høy faglig kvalitet og relevans. Utvalget mener at både skolen og framtidens lærere vil trenge den faglige og pedagogiske bredden og dybden en masterutdanning kan gi.
+
+Lærerutdanning på masternivå er også viktig for å utdanne lærere med endrings- og utviklingskompetanse som forstår og kan anvende forskning. Prosessen med å skrive en masteroppgave er viktig for å få innsikt i hvordan utdanningsforskning foregår og for hvordan forskningsbasert kunnskap kan bedre pedagogisk praksis. Masterutdanning er også viktig for at lærerne utvikler evnen til å forstå og anvende forskning (research literacy). Å kunne bruke forskning godt forutsetter å kunne finne fram til forskning som er egnet til å belyse utfordringer i de konkrete situasjonene i praksis (Eriksen, 2023). Det er også viktig for å unngå at beslutninger tas på grunnlag av tilfeldige kilder eller enkeltstudier. I tillegg innebærer det å omsette forskning til pedagogisk praksis. Utvalget mener at politisk usikkerhet om lærerutdanningens lengde og status i seg selv kan svekke rekruttering til lærerutdanningene og anerkjennelsen av læreryrket som krevende. Utvalget peker på innspill fra Lærerstudentene som er opptatt av at lærerutdanningen må være attraktiv og krevende. Lærerstudentene understreker at det er behov for å utvikle en «forskningsbasert verktøykasse» for å kunne utøve profesjonsbasert skjønn. De mener at en femårig integrert lærerutdanning er en forutsetning for dette.
+
+Høye ambisjoner: Videreutvikling, kvalitet og relevans
+
+Lærerutdanningene må være i kontinuerlig utvikling. Samtidig har reformtempoet i lærerutdanningene vært usedvanlig høyt sammenlignet med andre utdanninger. Disse reformene er dels en respons på endrede forventninger fra samfunnet, men de har også vært begrunnet i en bekymring for om kvaliteten i lærerutdanningene var høy nok. For høy omstillingstakt kan begrense innovasjon og utvikling i lærerutdanningene. Utvalget foreslår derfor ingen ny reform av lærerutdanningene.
+
+Utvalget er kjent med at det pågår en prosess med å utvikle ny overordnet rammeplan for lærerutdanning, som omtalt i kapittel 10. Utvalget mener at dette er et viktig tiltak. Mer overordnet styring gir lærerutdanningene et viktig ansvar for å utvikle utdanningene i lys av endringer i samfunnet, i skolen og i forskningen. Utvalget mener at kvaliteten i lærerutdanningene utvikles best innenfra, på samme vis som i skolen. Det er derfor riktig at lærerutdanningsinstitusjonene får større ansvar for å tilpasse og utvikle utdanningene.
+
+Utvalget forventer at fagmiljøene i lærerutdanningene bruker tilliten de får med innføringen av felles rammeplan, til profesjonsbygging og til å fremme høye faglige ambisjoner på vegne av studentene. Overgangen til en ny felles rammeplan gir lærerutdanningene ansvar for å samordne seg slik at de utvikler likeverdige utdanninger av høy kvalitet til det beste for barnehagen, skolen og samfunnet som helhet. Lærerutdanningene må utdanne kompetente lærere med felles verdier og kompetanser i tråd med fellesskolens rammer.
+
+Utvalget mener at forventningene til lærerstudentene må speile det komplekse yrket, og at lærerstudentene må legge ned en studieinnsats som tilsvarer sammenlignbare profesjonsutdanninger som for eksempel medisin, odontologi og sivilingeniør. Utvalget registrerer at lærerstudenter på de femårige utdanningene bruker mindre tid på studiene enn sammenlignbare profesjonsutdanninger, men at de likevel får gjennomsnittlig gode karakterer. Utvalget mener dette vitner om at utdanningsinstitusjonenes ambisjonsnivå på vegne av studentene ikke samsvarer med de høye kravene som stilles når de nyutdannede lærerne kommer ut i skolen. Med dagens gjennomsnittlige tidsbruk i lærerutdanningene, så er det også betydelig rom for å øke omfanget av studieplanene.
+
+Utvalget forventer at lærerutdanningene påvirkes av og må tilpasse seg utviklingstrekkene som har blitt beskrevet i denne utredningen. For eksempel krever økningen i nevroutviklingsdiagnoser (som ADHD og autisme), som beskrevet i kapittel 4.5, at alle lærere får større bevissthet og kunnskap om hvordan ulike diagnoser kan komme til uttrykk i skolehverdagen, og hvordan tilpasse undervisning og læringsmiljø på en hensiktsmessig måte. Framover vil de fleste lærere møte elever med slike diagnoser i sine klasser. Dette kan stille økte krav til spesialpedagogisk kompetanse, både i grunnutdanningene og i ulike videreutdanningstilbud for lærere.
+
+Lærerutdanningsinstitusjonene må utvikle utdanningene i lys av rådene fra de nyeste evalueringene, lokale behov og utviklingen i samfunnet generelt. En høyere omstillingstakt i samfunnet stiller høyere krav til at institusjonene justerer utdanningene i tråd med endringer i samfunnet.
+
+Utvalget mener at utfordringene for fellesskolen som kommer fram i denne utredingen må få implikasjoner for utviklingen av lærerutdanningene, blant annet betydningen av skolens danningsoppdrag. For å snu de negative resultatene må også noen fag- og fagområder få spesiell oppmerksomhet. Det vil være viktig at ny rammeplan for lærerutdanning særlig ivaretar at studentene blir gjort i stand til å gi god opplæring i lesing, skriving og regning/matematikk, drive god demokratiopplæring og å kunne støtte elevenes sosiale og emosjonelle utvikling.
+
+Utviklingen av lærerutdanningene bør følge den fremste forskningen. Forskningen i lærerutdanningen er viktig, men det foregår også mye relevant forskning for lærerutdanningene i ulike fagdisipliner. Lærerutdanningene er tjent med et samarbeid med relevante fagmiljø utenfor lærerutdanningene og har et betydelig ansvar for å integrere kunnskap som utvikles i andre fagmiljøer.
+
+Evalueringene av lærerutdanningene viser at en gjenstridig utfordring for lærerutdanningen er å utvikle god integrasjon og sammenheng i utdanningene (Kunnskapsdepartementet, 2017a; Munthe et al., 2024; NOKUT, 2022). Utvalget mener det er viktig at lærerutdanningene jobber videre med dette. Verdigrunnlaget i overordnet del av læreplanverket er et eksempel på et område som må integreres som en naturlig del i alle de ulike fagene. Lærerutdanningenes heterogene kunnskapsgrunnlag krever at mange fagmiljøer bidrar inn til studentenes læring. Utvalget mener at studentene må få muligheter til å trene på kunnskapsintegrasjon og undervisning også på campus. Et eksempel på dette er undervisning om leseopplæringen. For å legge til rette for god leseopplæring trenger studentene å trekke sammen innsikter fra mange ulike fagfelt, som kognitiv teori, språkvitenskap, litteraturvitenskap, motivasjonsteori og lesedidaktikk. Disse fagfeltene undervises i ulike emner og av ulike faglærere. Lesing er en grunnleggende ferdighet og en del av kompetanse i alle fag. Det er derfor viktig at lærere, også i andre fag enn norsk, vet hvordan språklige ferdigheter i fagene påvirker lesing, læring og faglig utvikling, og hvordan de kan støtte utviklingen i undervisningen.
+
+Tett og gjensidig samarbeid med skolesektoren
+
+Utvalget mener at den gjensidige avhengigheten mellom lærerutdanningene og skolesektoren tilsier at samarbeidet mellom dem bør dyrkes og forsterkes. Lærerutdanningene må bidra til skoleutvikling, og skolesektoren må bidra til at lærerutdanningene blir relevante og praksisnære. Lærerutdanningene trenger å være tett på arbeidshverdagen og utfordringene i skolen, og skolene trenger å få tilgang på den nyeste relevante forskningen.
+
+Det er særlig i praksisperioden at studentene får øvd på å integrere det de har lært i ulike fag på campus i møte med elevene i klasserommet. Fordi praksis er helt nødvendig for å utdanne gode lærere, stilles det også krav til et minimum av praksis. Lærerutdanningene har ansvar for å utdanne lærere, men de er fullstendig avhengig av samarbeid med kommuner og fylkeskommuner for at lærerstudentene skal få god praksis i utdanningen. Kommunene er avhengig av at lærerutdanningene både utdanner nok lærere og at lærerne har blitt godt forberedt til yrkeslivet.
+
+Det er ikke enkelt å lage gode strukturer for samarbeid mellom lærerutdanningene og skolene, fordi disse er finansiert og regulert i hver sin sektor. Praksisstudiet til lærerstudentene blir styrt og rammet inn av flere nasjonale og lokale styringsdokumenter, fra både universitets- og høyskolesektoren, skolesektoren og barnehagesektoren (Arbeidsgruppe NFLP, 2023). Som omtalt i kapittel 8, må skoler, skoleledere og lærere forholde seg til et mangfold av styringsvirkemidler og styringssignaler i sitt arbeid. De må forholde seg til både nasjonale og lokale utdanningspolitiske prioriteringer. Disse er ikke nødvendigvis sammenfallende og dette kan skape manglende forutsigbarhet for skolen. At styringen kommer fra ulike nivåer og med ulike virkemidler, kan føre til at de som jobber i skolen opplever blandede styringssignaler. Politikkutviklingen de siste tiårene bygger på erkjennelsen om hvor avgjørende det er med et tett samarbeid mellom disse sektorene. Det er en underliggende utfordring at lærerutdanningene og skolene har ulike formål og er underlagt ulike styringslinjer. Utvalget mener det er viktig å styrke det gjensidige samarbeidet mellom lærerutdanningene og skolesektoren. Dette innebærer også å vurdere juridiske og økonomiske virkemidler.
+
+Lærerutdanningene gir direkte kompensasjon til praksislærerne og praksisstedene med utgangpunkt i øvingslæreravtalen. Dette skiller seg fra hvordan praksis er finansiert innenfor helse- og sosialfagutdanningene. Der må kommuner og helseforetak dekke kostnader til praksis innenfor sine ordinære budsjetter (Oslo Economics, 2025). En kunnskapsoppsummering peker på at vellykket praksis handler om både kapasitet og kvalitet. Samarbeid, organisering og veileders tid og kompetanse er viktige stikkord (Flobakk-Sitter et al., 2023). Oslo Economics har gjort en gjennomgang av finansiering av praksis i profesjonsutdanningene. De vurderer overordnet at finansieringsmodellen med direkte kompensasjon til skolene og praksisveilederne fungerer. Dette gjør den fordi den bidrar til tilstrekkelig antall praksisplasser. Samtidig trekker Oslo Economics fram at finansieringsmodellen bidrar til å individualisere ansvaret for veiledning. Dette kan føre til mindre helhetlige praksisopphold. De peker også på at det kan gjøre praksisopplæringen mer transaksjonsbasert og underminere målet om at UH-institusjonene og praksisfeltet skal være likeverdige parter med et felles ansvar for kvaliteten i praksis (Oslo Economics, 2025).
+
+Siden dagens finansieringsmodell bidrar til å skaffe praksisplasser foreslår ikke utvalget å gjøre endringer i denne. Utvalget mener likevel det er grunn til å gi kommunene et tydeligere og mer formelt ansvar for å bidra til arbeidet med å utdanne lærere. I helseutdanningene er det til sammenligning sterkere styring av praksisfeltets ansvar. Kommunene har plikt etter helse- og omsorgstjenesteloven § 8-1 til å medvirke til undervisning og praktisk opplæring av helsepersonell. Dette er en plikt til å bidra, ikke en plikt til å tilby et bestemt antall praksisplasser. Utvalget mener at kommuner og fylkeskommuner også bør bli forpliktet til å bidra i arbeidet med å utdanne lærere. Å tydeliggjøre kommunenes ansvar for å bidra til utdanning av lærerstudentene, på linje som ansvaret for å medvirke til utdanningen av helsepersonell, kan ses som en harmonisering på tvers av sektorer. Mangel på harmonisering av regelverket kan bidra til en omprioritering mellom sektorer og nedprioritering av skolesektoren (NOU 2023: 9).
+
+Utvalget oppfatter at det er enighet om at tett og gjensidig samarbeid mellom lærerutdanningene og skolesektoren er nødvendig, både for å utdanne så gode lærere som mulig og for at skolene skal få tilgang til den nyeste oppdaterte forskningen. Formuleringer som for eksempel «praksisnære lærerutdanninger» og «forskningsinformert skoleutvikling» er uttrykk som kan beskrive nettopp hvordan de to sektorene er avhengig av et tett samarbeid. Utvalget registrerer at dette samarbeidet på mange områder har en positiv utvikling, blant annet på grunn utbredelsen av partnerskap. Partnerskapstankegangen innebærer systematisk arbeid for likeverd og balanse mellom lærerutdanningene og skolesektoren. Strukturer som partnerskap, delte stillinger og hospiteringsordninger mellom skolene og lærerutdanningene er viktige tiltak som bør forsterkes og utvides. For å tydeliggjøre det likeverdige samarbeidet i partnerskapene, foreslo Faglig råd for lærerutdanning at det burde være overordnende og generelle forventninger om partnerskapsdannelse i både rammeplanene for lærerutdanning og i eksisterende rettslige dokumenter for skolen, og at det burde være langsiktig finansiering der partene er mottakere av midlene (Faglig råd for lærerutdanning, 2020a). I ny felles rammeplan er det foreslått å regulere at all lærerutdanning skal «bygge på langsiktige, likeverdige og forpliktende partnerskap som omfatter lærerutdanningsinstitusjon, barnehager/skoler og eiere/lokale myndigheter, og eventuelt andre relevante aktører». Utvalget mener det er god grunn til å følge opp anbefalingene fra Faglig råd for lærerutdanning.
+
+Lærerutdanningene må sikres bedre rammevilkår
+
+Gode lærerutdanninger er avgjørende for å styrke fellesskolen. Utvalget mener at politikkutviklingen bør ta hensyn til at lærerutdanningene er avgjørende for fellesskolens framtid. Utdanningene krever samarbeid både mellom ulike fagmiljøer og med skolesektoren. Ansvaret lærerutdanningene har for å justere utdanningene i takt med utviklingen i samfunnet og skolen krever mye av dem. Det viktigste nasjonale myndigheter kan gjøre for at utdanningene skal møte behovene i fellesskolen, er å styrke rammevilkårene. I tillegg til strukturer for samarbeid med skolesektoren, er tilstrekkelige økonomiske rammer avgjørende for hvilke ambisjoner det er realistisk for utdanningene å innfri.
+
+Utvalget mener at fellesskolen er avhengig av at lærerutdanningene holder høy kvalitet, og fellesskolen blir tilsvarende skadelidende dersom lærerutdanningene ikke har tilstrekkelig finansiering til å utvikle denne kvaliteten. Evalueringer av lærerutdanningene viser gjennomgående at lærerutdanningene er kostnadskrevende utdanninger som krever tilstrekkelig god finansiering (Advisory Panel for Teacher Education, 2020; Følgjegruppa for lærarutdanningsreforma, 2015; NOKUT, 2022).
+
+Lærerutdanningene er integrerte masterutdanninger og avhengige av høyt kompetente fagmiljøer fra ulike disipliner for å kunne tilby utdanning i bredden av skolens undervisningsfag. Fellesskolen er avhengig av lærere i alle skolens fag, og det er i dag kun de største institusjonene som tilbyr en full fagvifte. Flere institusjoner oppgir at de vurderer å kutte i fagtilbudene (Haugen et al., 2024). Utvalget mener det vil skade fellesskolen dersom fagmiljø i små fag forsvinner, eller kun tilbys ved et fåtall institusjoner. Når institusjonene er under press, er det vanskelig å skjerme fagmiljøer som ikke er økonomisk bærekraftige. Det kan ta kort tid å legge ned et fagmiljø, men å gjenreise det eller etablere nye miljøer tar lang tid. Hvis lærerutdanningene skal kunne utdanne lærere i alle skolens fag, må det være forutsigbar økonomi. Utvalget mener det er nødvendig å opprettholde sterke fagmiljøer innenfor bredden av skolens fag, selv om søkertallene til lærerutdanningene kan svinge.
+
+Lærerutdanningene har høye utgifter til praksis (Oslo Economics, 2025). Utvalget mener finansieringen av lærerutdanningene må dekke både nødvendig praksis og kvalitet i studiet ellers. Kvalitet og omfang på praksis bør være et spørsmål om hva som gir studentene best mulig utdanning, ikke et spørsmål om finansiering. Dersom vi skal utdanne lærere som kan gi praktisk og variert undervisning, må lærerstudentene gjennom utdanningen også ha fått tilgang til relevant utstyr, spesialrom, læremidler og læringsressurser på campus.
+
+Universitetene og høyskolene er rammefinansierte og har et ansvar for å dimensjonere og utvikle utdanningene etter samfunnets behov. Innenfor denne rammefinansieringen har institusjonene et ansvar for å ivareta mangfold av utdanninger og ulike hensyn. Utvalget har ikke innsikt i hvordan institusjonene fordeler ressurser mellom utdanningsprogrammer. Utvalget er likevel bekymret for om lærerutdanningene, som femårige profesjonsutdanninger med stort innslag av praksis, har tilstrekkelig finansiering.
+
+Da de femårige grunnskolelærerutdanningene ble innført, ble det satt ned et panel med internasjonale eksperter for å gi råd om reformen. Rådgivningsgruppen mente at tilstrekkelig finansiering var viktig for å lykkes med reformen på lang sikt, og anbefalte derfor at de femårige grunnskolelærerutdanningene burde flyttes fra kategori D til kategori C i det norske finansieringssystemet for høyere utdanning (Advisory Panel for Teacher Education, 2020).[^29] Utvalget registrer at flyttingen ikke skjedde. Selv om det ble bevilget midler i forbindelse med innføringen av reformen, mener utvalget at det bare ble bevilget et minimum da det femte året i lærerutdanningen ble finansiert (Prop. 1 S (2020–2021); Prop. 1 S (2021–2022)). Beløpet som ble tilført institusjonene var langt under det Universitets- og høgskolerådet hadde formulert krav om. Kravet var på 1,1 mrd. kroner og basert på kompensert endring av finansiering fra «gammel kategori D til C» (Tønnessen et al., 2020). Utvalget ser at en medlems- og interesseorganisasjon nødvendigvis vil være ekspansiv i beregning av kostnader ved en reform. Utvalget mener like fullt det er god dekning for påstanden om at reformen ble tydelig underfinansiert, sammenlignet med de uttrykte politiske ambisjonene og de faglige rådene (Advisory Panel for Teacher Education, 2020).
+
+Utvalget mener at basert på grep som ble tatt ved overgangen fra allmennlærerutdanning til grunnskolelærerutdanning i 2011, kostnader til praksisplasser og hevingen av lærerutdanningene til masternivå, så ville en rimelig finansiering utover det som ble lagt inn i 2021 og 2022 være i størrelsesorden 250–350 mill. kroner. Utvalget mener det er nødvendig å prioritere å styrke finansieringen av lærerutdanningene slik at de kan videreutvikle og tilby utdanninger av høy kvalitet og relevans.
+
+Satsning på utdanningsforskning og sammenkobling til skolesektoren
+
+Gode lærerutdanninger forutsetter også forskning av høy kvalitet. Utvalget mener det er viktig å satse på utdanningsforskning og strukturer for å videreformidle forskningen til skolesektoren. I et samfunn i rask endring er det behov for god forskningsberedskap. Det stiller krav til videreutvikling av forskningsfeltene og nye måter å samarbeide på tvers av fag, sektorer og landegrenser. Utvalget merker seg at det er en aktiv strategi for å styrke utdanningsforskningen fram mot 2029 (Kunnskapsdepartementet, 2025c). Utvalget mener dette legger et godt grunnlag for å satse på utdanningsforskning og sammenkobling mellom universitets- og høyskolesektoren og skolesektoren.
+
+Det er ingen automatikk i at utdanningsforskningen som skjer i akademia finner veien til skolene og klasserommet. Strategien for utdanningsforskning legger blant annet vekt på at et velfungerende økosystem for forskning krever både produksjon av forskning, bruk av forskning og en form for kunnskapsmegling, altså aktiviteter som fremmer bruk av forskning. (Kunnskapsdepartementet, 2025c). Det er flere tiltak som skal bidra til en slik sammenkobling. Her spiller Kunnskapssenter for utdanning og de nasjonale sentrene viktige roller. Det er også flere tiltak i lærerutdanningene som er ment å bygge sterkere kunnskapsbroer mellom akademia og skolesektoren, blant annet gjennom satsningen på partnerskap. Masterutdanningen er i seg selv viktig for at studentene kan trene på å omsette forskning til praksis. Det er med andre ord mange gode tiltak på dette området. Utvalget mener likevel det er viktig å undersøke hvordan man kan jobbe for å legge til rette for å fremme bruk av utdanningsforskningen. Endring i rammeplanen for lærerutdanningene framstår som en egnet mulighet også for dette. Utvalget vil i denne forbindelse også peke på at ordningen med offentlig sektor ph.d. bør utvikles og at det kan være en styrke med flere lærere med doktorgrad i skolen.
+
+Utdanningsforskningen er viktig for et velfungerende utdanningssystem. Som vist i kapittel 10, er det en positiv utvikling på dette området. For å få mer kunnskap om kvaliteten og utviklingen innen utdanningsforskning, mener utvalget det nå er på tide å gjennomføre ny fagevaluering av utdanningsforskningen i Norge.
+
+Lærere med kunnskap om samisk språk, kultur og samfunnsliv
+
+Skolen og lærerutdanningene spiller også en viktig rolle for å sikre samisk kompetanse i samfunnet. Det er stort behov for slik kompetanse. Å ha samisk kompetanse vil si både å beherske samisk språk og ha god kunnskap om samisk kultur. Utvalget mener fellesskolen og lærerutdanningene spiller en nøkkelrolle for å sikre at samiske elever får lære sitt eget språk, lære om egen kultur og historie og om de rettighetene den samiske folkegruppen har.
+
+Det er behov for formell samisk kompetanse innenfor mange fagområder og på mange områder i samfunnet, som utdanning, helse, rettsvesen og offentlig forvaltning. Vi trenger flere samiske språkbrukere for å få en positiv utviklingsspiral for samisk språk og kultur. Samisk barnehage og skole er avgjørende for å kvalifisere samiske språkbrukere som videre er kvalifisert til å starte på samisk lærerutdanning, slik at vi kan utdanne flere samiske lærere (Meld. St. 13 (2022–2023)). I dag er det egne samiske lærerutdanninger, og en ny felles samisk rammeplan for lærerutdanning er under utvikling (Kunnskapsdepartementet, 2025a). Utvalget mener det er nødvendig både at det utdannes nok samiske lærere og at alle lærerutdanninger og skoler bidrar til kunnskap om det samiske urfolket og om samisk språk, kultur og samfunnsliv.
+
+Tidligere i utredningen har vi beskrevet hvordan skolen var et viktig verktøy for fornorskingspolitikken. Denne politikken førte til at flere generasjoner samer og nasjonale minoriteter mistet språk og kultur, og senvirkningen av fornorskningspolitikken gjør seg fortsatt gjeldene. Da Stortinget behandlet Sannhets- og forsoningskommisjonens rapport, ba Stortinget regjeringen om å:
+
+- gjennomgå språkopplæringen i samisk og kvensk, og iverksette tiltak for at flere barn skal lære språkene i opplæringsløpet. Samarbeidet mellom språksentre, kommuner, fylkeskommuner og andre relevante aktører innen språkopplæring bør styrkes. I dette arbeidet må hindringer identifiseres og tiltak for rekruttering av samisk og kvensk språkkompetanse til barnehage og skole forbedres.
+
+- komme raskt tilbake til Stortinget med forslag til en nasjonal satsing på gjennomgående språkopplæring for kvensk og samiske språk fra barnehage til voksenopplæring.
+
+- aktivt støtte opp under teknologiutvikling og nye undervisningsmuligheter som kan bidra til bedre tilgang på utdanning i og på kvensk og samiske språk, og komme tilbake til Stortinget på egnet måte (Innst. 30 S (2024–2025)).
+
+Utvalget mener at disse vedtakene må følges opp og er kjent med at Kunnskapsdepartementet allerede er i gang med dette.
+
+Utvalget understreker igjen at den beklagelsen Stortinget ga i forbindelse med behandlingen av rapporten fra Sannhets- og forsoningskommisjonen, gir en særskilt forpliktelse for fellesskolen til å ivareta samiske barn og unges rettigheter til eget språk og kultur, og til å motvirke senskadene av fornorskningspolitikken.
+
+### Regulering av profesjonsfaglig veiledning for nyutdannede lærere
+
+Det er viktig at alle nyutdannede lærere får god profesjonsfaglig veiledning de første årene i yrket. Overgangsperioden er sentral for både lærernes og elevenes læring. Utvalget mener det er nødvendig å regulere en plikt for kommunen og fylkeskommunen til å gi alle nyutdannede lærere to introduksjonsår med profesjonsfaglig veiledning. De nyutdannede lærerne skal ha plikt til å delta i ordningen. Utvalget foreslår at introduksjonsperioden skal innebære at 10 prosent av arbeidstiden de første to årene skal kunne brukes til introduksjonsaktiviteter, veiledning og for- og etterarbeid til undervisning. Utvalget mener at ordningen etter en periode bør evalueres for å vurdere om den bør endres.
+
+Det er flere grunner til at utvalget mener det er nødvendig å regulere en introduksjonsperiode med profesjonsfaglig veiledning. En nyutdannet lærer er en viktig ressurs i profesjonsfellesskapene og kan bidra med ny forskning og nye perspektiver fra lærerutdanningene. Samtidig er en nyutdannet lærer fortsatt i en intensiv læreprosess de første årene i yrket. For å gi nye lærere en god start på yrkeslivet og tid til utvikling og modning, mener utvalget det er nødvendig at de får mer tid til for- og etterarbeid, introduksjonsaktiviteter og god profesjonsfaglig veiledning. Utvalget mener at en slik introduksjonsperiode også er viktig for å beholde nyutdannede lærere i yrket. En god overgang mellom utdanning og yrke er dermed også viktig i et rekrutteringsperspektiv.
+
+Utvalget understreker at veiledning er et svar på kompleksiteten i læreryrket. Det er noen sider ved lærernes profesjonskunnskap som læres best i yrket. Det er et begrenset antall dager i året lærerstudentene er i praksis. I disse periodene vil de ha en klasse på lån for en kort tid og sjelden ha det fulle ansvaret. En kort praksisperiode vil ikke kunne forberede for alle sider av lærergjerningen. I praksisperiodene vil det være et element av forutsigbarhet, og man kan ikke planlegge for alle de erfaringer en lærer gjør i løpet av et skoleår. Det er noen områder som læres best i de første årene i yrket. Områder som skole-hjem-samarbeid, samarbeid med andre instanser, relasjonsarbeid og klasseledelse, håndtering av skolemiljøsaker og planlegging av skoleåret, er eksempler på områder som må videreutvikles i yrket.
+
+Utvalget mener en stor fordel ved å regulere at nyutdannede lærere skal få en obligatorisk introduksjonsperiode, er at det vil gjøre det mulig å ha tydeligere forventinger til hva de nyutdannede bør lære disse årene. I dag skal organiseringen av og innholdet i veiledningen utformes lokalt. Lokal tilpasning er viktig, men utvalget mener også at det kan være hensiktsmessig med noe regulering av hva introduksjonsperioden skal inneholde.
+
+Prinsipper for profesjonsfaglig veiledning
+
+Partene er enige om følgende prinsipper for profesjonsfaglig veiledning for nyutdannede lærere i barnehage og skole:
+
+Prinsipper for innhold
+
+Profesjonsfaglig veiledning
+
+- skaper en god overgang og sammenheng mellom kvalifiseringen som skjer i utdanningen og videre profesjonsutvikling i yrket
+
+- er basert på forskning og erfaringsbasert kunnskap om veiledning for nyutdannede lærere og betydningen av videre profesjonsutvikling i yrket
+
+- videreutvikler den nyutdannedes profesjonsfaglige kompetanse og praksis
+
+- inkluderer, anerkjenner og bruker den nyutdannede som ressurs og bidragsyter i profesjonsfellesskapet
+
+- motiverer den nyutdannede til videre profesjonsfaglig utvikling og til å bli værende i yrket
+
+- ses i sammenheng med øvrige kompetansetiltak i barnehage og skole
+
+- tilpasses den nyutdannedes forutsetninger og behov
+
+- tilpasses lokale forhold når det gjelder organisering og innhold
+
+Prinsipper for gjennomføring
+
+Profesjonsfaglig veiledning
+
+- gjennomføres og prioriteres på en systematisk måte de to første yrkesårene
+
+  - gjennom avsatt tid til planlegging og gjennomføring hos både veiledere og nyutdannede
+
+  - etter en strukturert og målrettet plan
+
+  - med en hyppighet og et omfang som bidrar til læring og utvikling
+
+  - både individuelt og i grupper
+
+- utføres fortrinnsvis av kvalifiserte veiledere.
+
+- bør fortrinnsvis gjennomføres av veileder som ikke har formelt lederansvar for den nyutdannede
+
+Kilde: Kunnskapsdepartementet, 2025d
+
+Rammeslut
+
+Regulering er nødvendig
+
+Utvalget vil understreke at det har skjedd en positiv utvikling knyttet til veiledning av nyutdannede lærere i løpet av de senere årene. Som beskrevet i kapittel 10, registrerer utvalget at det både er faglig og politisk konsensus om at nyutdannede lærere skal få veiledning. Det har blitt satset aktivt på dette i to tiår, og utvalget mener det er med rette at Norge har blitt betraktet som et foregangsland (Bjerkholt & Olsen, 2025). Til tross for aktiv politikk, en dedikert tilskuddordning og partenes enighet om de nasjonale prinsippene og forpliktelsene, viser de nyeste kartleggingene dessverre at det er for stor variasjon i utbredelse og kvalitet (Halmrast et al., 2021; White et al., 2025). Utvalget mener det neppe er vond vilje som gjør at det fortsatt er mange nyutdannede som ikke får veiledning. Mange steder i landet er rekrutteringssituasjonen krevende. Utvalget ser at det i en sitasjon med mangel på lærerkompetanse kan være krevende å prioritere at lærere skal bruke tid på veiledning. Utvalget mener at gode intensjoner ikke har vært nok, og at det nå er nødvendig å regulere at alle nyutdannede lærere skal sikres profesjonsfaglig veiledning.
+
+Å innføre en plikt for kommunen og fylkeskommunen til å gi alle nyutdannede lærere to obligatoriske introduksjonsår med profesjonsfaglig veiledning, er en sterk form for styring av kommuner og fylkeskommuner, og det er en inngripen i det kommunale selvstyret. Det skal alltid angis ett eller flere nasjonale hensyn som tilsier at slik inngripen er nødvendig (Kommunal- og moderniseringsdepartementet, 2020). Utvalget viser til at forsøkene med mykere styringsgrep gjennom tilskuddsordninger og avtaler ikke har gitt tilstrekkelig effekt, og at mange nyutdannede lærere fortsatt ikke får veiledning. Utvalget mener derfor at lovregulering er et nødvendig og forholdsmessig virkemiddel som vil sikre at kommunene må prioritere ressurser til dette.
+
+Å innføre to obligatoriske introduksjonsår med profesjonsfaglig veiledning og 10 prosent redusert undervisning, har en økonomisk kostnad, og det vil kreve flere lærerårsverk. Forslaget innebærer at både nyutdannede lærere og veilederne deres får mindre tid til undervisning. Utvalget vil understreke at det er nødvendig at disse årsverkene kompenseres, for at det ikke skal svekke elevenes opplæring.
+
+Til tross for disse konsekvensene, mener utvalget en obligatorisk introduksjonsperiode med profesjonsfaglig veiledning er et viktig tiltak som vil styrke skolen i det lange løp. Det vil kunne bidra til bedre lærere, styrke opplæringen til elevene og til å gjøre læreryrket mer attraktivt slik at vi beholder gode lærere i yrket.
+
+Gode forutsetninger for gjennomføring
+
+Utvalget mener det allerede er gode forutsetninger for å regulere at alle nyutdannede lærere får veiledning. Blant annet legger partenes enighet om de nasjonale prinsippene for veiledning, og midlene som nå er overført til kommunerammen et godt grunnlag for å innføre en regulering. Det er også et godt utgangspunkt at partene gjennom arbeidstidsavtalen er enige om at lærere det første yrkesåret skal få redusert undervisningen med inntil 6 prosent fra skoleårets begynnelse. Dette mener utvalget er positivt.
+
+Utvalget merker seg at de nasjonale prinsippene legger til grunn at en kvalifisert veileder er en lærerutdannet som fortrinnsvis har formell veilederkompetanse, nødvendig fagkompetanse og minst tre års erfaring som lærer. Formell veilederkompetanse innebærer at man har studiepoeng i veiledning fra høyere utdanning. Forskningen understøtter betydningen av at veiledningen gis av lærere med formell veilederkompetanse (Frederiksen, 2020; Ingersoll & Strong, 2011), og utvalget støtter at veiledningen fortrinnsvis bør skje med kvalifiserte veiledere.
+
+En evaluering viser at om lag halvparten av veilederne ikke hadde noen studiepoeng i veiledning (Halmrast et al., 2021). Å sørge for at nok veiledere får videreutdanning i veiledning er viktig for kvaliteten på den profesjonsfaglige veiledningen i denne innføringsperioden. Utvalget mener at det å investere i veilederkompetanse også kan styrke kvaliteten i praksis i lærerutdanningene. De nasjonale rammene presiserer at organisering av veiledningen bør tilpasses lokale forhold. Utvalget mener derfor det bør være mulig å finne smidige, lokale løsninger for å samarbeide om veiledningsordninger slik at mindre skoler kan tilby nyutdannede lærere veiledning av kvalifiserte veiledere. Utvalget mener det er en styrke at det finnes et nasjonalt nettverk for profesjonsfaglig veiledning for nyutdannede som kan bidra til kunnskapsdeling og kvalitetsutvikling innenfor feltet (Nettverk for profesjonsfaglig veiledning for nyutdannede lærere, 2026).
+
+Det er avgjørende at det settes av dedikert og tilstrekkelig tid til veilederne. De nasjonale prinsippene presiserer at profesjonsfaglig veiledning skal gjennomføres i avsatt tid til planlegging og gjennomføring hos både veiledere og nyutdannede, og det skal være med hyppighet og omfang som bidrar til læring og utvikling (Kunnskapsdepartementet, 2025d). I den nyeste evalueringen av veiledningsordningen rapporterte 65 prosent av grunnskolelederne og 32 prosent av ledere i videregående opplæring at mengden formell veiledning er definert i den lokale arbeidstidsavtalen (Halmrast et al., 2021).
+
+I system for kompetanse- og karriereutvikling blir rollen som veileder for nyutdannede lærere, praksisstudenter og kolleger trukket fram som et godt eksempel på en spesialisert rolle eller funksjon. Utvalget mener også at rollen som veileder kan ses i sammenheng med en ordning for utviklingslærere.
+
+### Kontinuerlig kompetanseutvikling gjennom yrkeslivet
+
+Utvalget mener at det er nødvendig at lærerne, som del av en lærende profesjon, utvikler kompetanse gjennom hele yrkeslivet, også etter de første introduksjonsårene. Utdanningspolitikken bør støtte en slik utvikling, og rammene for profesjonens kompetanseutvikling må derfor videreføres og videreutvikles i framtiden. En profesjon som skal bidra til læring og utvikling for kommende generasjoner, må utvikle og fornye seg i takt med endringene i samfunnet og ny forskning. Utviklingstrekkene som er beskrevet i denne utredningen understreker et slikt behov. Det er også behov for videreutdanning for å sikre at flere lærere får undervisningskompetanse i fagene de underviser i. Det nylig vedtatte systemet for kompetanse- og karriereutvikling, som omtalt i kapittel 10, gir et godt utgangspunkt for å sikre den kontinuerlige kompetanseutviklingen til lærerprofesjonen.
+
+Utvalget mener at utvikling av lærerprofesjonen ikke vil lykkes uten kollektiv profesjonalisering som mål. Profesjonsutviklingen må skje i faglige fellesskap mellom lærerne som jobber i skolen for at de ulike tiltakene for å løfte profesjonen skal virke etter hensikten.
+
+Kollektiv læring og samarbeid i profesjonsfellesskapene er avgjørende
+
+Profesjonsfellesskapene er grunnleggende for lærernes kompetanseutvikling. Profesjonelle læringsfellesskap skaper et rom der lærere sammen utvikler kunnskap, deler erfaringer og reflekterer over praksis med elevenes læring, utvikling, trivsel og danning som felles mål. Når lærere samarbeider på tvers av erfaringer og perspektiver, styrkes både kvaliteten i undervisningen og den profesjonelle tryggheten i yrket.
+
+Den enkelte lærer er avhengig av autonomi i yrket. Samtidig er det nødvendig at profesjonen som helhet får tillit og handlingsrom til å ta faglige beslutninger. Dette handler om profesjonens kollektive autonomi. Gjennom samarbeid, dialog og gjensidig ansvar utvikles en kultur der lærere ikke står alene i vurderinger og utviklingsarbeid, men at de sammen bygger et profesjonelt skjønn basert på forskning, erfaring og kjennskap til elevenes behov. Slik blir profesjonelle læringsfellesskap ikke bare en arbeidsform, men en viktig forutsetning for skoleutvikling, kvalitet og profesjonsutøvelse.
+
+Kollektiv profesjonsutvikling blant lærere bør skje innenfor rammer med klare mål og med tilstrekkelig autonomi for lærerne til kontinuerlig å utvikle praksis i tråd med oppdatert kunnskap. Profesjonsfellesskapene i skolen må være systematiske, lærende og i en kontinuerlig forbedringsprosess. På sitt beste vil profesjonsfellesskapene bruke sin kompetanse og kunnskap til å utvikle seg sammen mot felles mål.
+
+Skolelederne har et ansvar for å lede profesjonsutviklingen og må ha de riktige verktøyene og rammene for å legge til rette for at slik utvikling kan skje. En kollektiv samarbeidskultur krever tid, en kultur for deling og aktiv deltakelse fra alle som er med.
+
+Rammer for å sikre lærernes profesjonsutvikling gjennom yrkeslivet
+
+Lærerprofesjonens kontinuerlige utvikling ivaretas på flere måter. Opplæringslova § 17-8 regulerer at kommunen «skal sørgje for at dei som er tilsett i lærarstilling, rektorar og andre tilsette i skolen får høve til å utvikle seg fagleg og pedagogisk så dei kan vere på høgd med utviklinga i skolen og samfunnet» (Opplæringslova, 2024). I arbeidstidsavtalen for skole, SFS 2213, er det satt av tid til kompetanseutvikling og faglig ajourføring for lærerne. Ledelsen gis et særlig ansvar for å styrke og støtte profesjonsfellesskapets faglige utvikling og samarbeid (SFS 2213, 2025).
+
+Utvalget mener at lærerne bør utvikle sin kompetanse gjennom hele yrkeslivet. En slik kompetanseutvikling bør skje i arbeidstiden og være betalt av arbeidsgiver. For å bygge opp under den kontinuerlige kompetanseutviklingen i profesjonen, er det både viktig med tid til faglig og pedagogisk utvikling i det daglige arbeidet, i noen perioder også gjennom formell videreutdanning. Lokale og sentrale myndigheter kan legge til rette for lærernes formelle kompetanseutvikling.
+
+Statlig finansiering av kompetanseutvikling gjennom «System for kompetanse- og karriereutvikling i barnehage og skole», kan bidra til å sikre et mer likeverdig tilbud på tvers av kommuner og fylkeskommuner, særlig ved å kompensere for ulik kapasitet og ressurstilgang lokalt. Felles rammer for kompetanseutvikling kan også gi tydeligere retning for utviklingsarbeidet i sektoren. Det finnes egne tilskuddsordninger som skal støtte lærernes kompetanseutvikling gjennom videreutdanning og kollektiv kompetanseutvikling. Kommunekommisjonen har foreslått at tilskuddsordningen for viderutdanning skal innlemmes i kommunerammen. Som vi argumenterer for i kapittel 13, mener utvalget det er avgjørende at tilskuddordningene bevares. Skolens ansatte må sikres relevant og oppdatert kompetanse. Utvalget mener også at tilskuddsordningene bør øke betraktelig for at lærerprofesjonen skal ha oppdatert og relevant kunnskap i møte med utviklingstrekkene i samfunnet. Økt tilskudd til kompetanseutvikling må ses i sammenheng med utvalgets forslag om å innføre krav om 15 studiepoeng for undervisning i alle fag på barnetrinnet som ikke har krav til faglig fordypning i dag, og forslaget om å innføre en ordning med utviklingslærere.

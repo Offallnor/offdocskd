@@ -1,812 +1,176 @@
-# NOU 2019: 3, del 17 av 25 (side 196–205)
+# NOU 2019: 3, del 17 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 196]
+## Fleksibel skolestart
 
-194
+I de fleste OECD-land starter barna på skolen når de er seks år. Enkelte land praktiserer skolestart allerede fra 4–5-årsalderen, mens det bare er i Estland, Finland og Sverige at barn begynner på skolen når de er syv år.[^58] Siden Reform 97 har også norske barn begynt på skolen det kalenderåret de fyller seks år.
 
-Kapittel 13
+Fleksibel skolestart kan defineres som muligheten til å begynne på skolen tidligere eller senere enn de barna som er født samme kalenderår. Fleksibel skolestart praktiseres forskjellig i ulike land. Utvalget har konsentrert seg om regelverk og praksis i Norge, og det som er kjent om praksisen i Danmark.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+I Norge reguleres tidspunktet for når barn skal starte på skolen i opplæringsloven § 2-1:
 
-nen for barnehagens vektlegging av utforsking og
-undring hos barnet, og dermed skape større pedagogisk sammenheng mellom barnehagen og
-grunnskolen. En rammeplan for SFO vil kunne gi
-en bedre ramme for fysisk aktivitet, fritidsaktiviteter og leksehjelp, men bør også ha betydelig rom
-for frilek for barna. Etter utvalgets vurdering legger dette forslaget videre til rette for at skolene
-gjennom SFO kan videreføre lekbaserte språkaktiviteter og aktiviteter for å utvikle barns sosiale
-og emosjonelle ferdigheter som de vil kjenne
-igjen fra barnehagen.
-Det finnes lite kunnskap om effekten av tilbudet i SFO for barnas læring og utvikling. Enkelte
-studier antyder at dagens tilbud har en svak negativ effekt på skoleprestasjoner sammenlignet med
-om barna var hjemme med foreldrene. Kunnskapsgrunnlaget viser også at gutter og jenter
-bruker fritiden sin ulikt, der gutter i mindre grad
-bruker tid på læringsfremmende aktiviter som
-lesing og lekser enn jenter. Gutter bruker noe
-mer tid på internett enn jenter, og en større andel
-gutter spiller dataspill. Jenter bruker på sin side
-mer tid på sosiale medier enn gutter. Forslaget om
-en tydeligere ramme for aktivitetene i SFO gjennom en rammeplan, vil kunne redusere forskjeller
-i hvordan gutter og jenter bruker fritiden sin på
-læringsfremmende aktiviteter. Etter utvalgets vurdering har derfor SFO et stort ubrukt potensial til
-å kunne redusere forskjeller mellom gutter og jenters læring og utvikling i starten av grunnskolen.
-Samtidig mener utvalget at potensialet til å ivareta ulike behov blant elever med ulikt utgangspunkt og utvikling vil være begrenset ved dette forslaget. Det skyldes at SFO ikke er obligatorisk.
-Ettersom ikke alle barn er i SFO kan heller ikke
-skolene samarbeide med SFO om å organisere
-undervisningen av fagene i grunnskolen vesentlig
-annerledes enn det de gjør i dag, for eksempel ved
-kortere undervisningsøkter spredt utover en
-større del av dagen. Utvalget mener også at en
-betydelig faglig nivåheving av tilbudet vil kunne få
-negative sosiale konsekvenser dersom tilbudet forblir valgfritt, ved at barna i SFO får en faglig fordel
-som andre barn ikke får. Det er dermed en risiko
-for at forslaget øker, heller enn reduserer, forskjellene i skoleprestasjoner etter sosial bakgrunn.
-En tredje mulighet er å innføre en obligatorisk
-heldagsskole for alle elever på 1.–4. trinn, men
-uten å utvide timetallet i de ulike undervisningsfagene som er fastsatt etter dagens fag- og timefordeling. Et minstealternativ kan være å utvide det
-totale timetallet på 1.–4. trinn innenfor gjeldende
-regulering av hvilken tid på dagen undervisningen kan foregå (kl. 08.00–15.30). Dette vil i prak-
+Grunnskoleopplæringa skal til vanleg ta til det kalenderåret barnet fyller 6 år. Dersom det etter sakkunnig vurdering er tvil om barnet er komme tilstrekkeleg langt i utviklinga si til å starte i skolen, har barnet rett til å utsetje skolestarten eitt år dersom foreldra krev det. Etter sakkunnig vurdering og med skriftleg samtykke frå foreldra kan kommunen i særlege tilfelle vedta å utsetje skolestarten eitt år. Dersom foreldra søkjer om det eller samtykkjer, kan kommunen etter sakkunnig vurdering la eit barn ta til på skolen eitt år før når det innan 1. april har fylt 5 år.
 
-sis bety en utvidelse av dagens skoledag med
-omtrent to timer i gjennomsnitt per dag fordelt på
-alle småskoletrinnene. Med et slikt forslag vil det
-fremdeles være behov for SFO fra og med rundt
-kl. 15.00. Et maksimumsalternativ er å innlemme
-hele SFO i skoledagen på småskoletrinnet, slik at
-heldagsskolen løper frem til kl. 17.00, og der en
-mulighet er at SFO-ansatte bemanner tiden som
-ikke går til undervisning.
-Et flertall i utvalget foreslår at det innføres en
-obligatorisk heldagsskole på 1.–4. trinn, men uten
-å utvide timetallet i fagene. For timetallet som ikke
-er undervisnings bør det innføres en rammeplan
-for timene som omfattes av utvidelsen. Rammeplanen kan bygge på rammeplanen for barnehagens
-vektlegging av utforsking og undring hos barnet,
-og dermed skape større pedagogisk sammenheng
-mellom barnehagen og grunnskolen. En slik rammeplan bør gi rammer for fysisk aktivitet, fritidsaktiviter, leksehjelp, og fordypning i ulike læringsaktiviteter, men bør også gi betydelig rom for frilek
-for barna. Ettersom tiltaket ikke medfører en
-økning i antall undervisningstimer, vil ikke tiltaket
-innebære en økning i lærernes undervisningsplikt
-(leseplikt). Ettersom undervisningstimene skal
-spres utover et lengre tidsrom enn i dagens småskole, vil tiltaket imidlertid medføre en utvidelse av
-tiden som lærerne må være disponible på skolen.
-I motsetning til forslaget om en rammeplan for
-SFO vil forslaget om en heldagsskole etter utvalgets vurdering kunne legge til rette for en vesentlig annerledes organisering av skolehverdagen.
-En heldagsskole langs disse linjene vil gjøre det
-mulig å gjennomføre undervisningen i kortere
-økter spredt utover en større del av skoledagen.
-En lengre skoledag vil også gjøre det enklere for
-lærere å organisere ekstra undervisningsstøtte til
-elever som henger etter i undervisningsfagene og
-fordypning i ulike læringsaktiviteter for elever
-som ønsker det.
-Etter utvalgets vurdering er det også trolig at
-en slik heldagsskole vil komme barn fra familier
-med en lav sosioøkonomisk bakgrunn særskilt til
-gode, ettersom de vil kunne få mer støtte i sin faglige og sosiale utvikling i en viktig fase av grunnskolen. Ettersom forslaget utvider timetallet i den
-ordinære grunnskolen og dermed er obligatorisk
-og gratis, kan tilbudet særlig komme elever til
-gode som i dag ikke går i SFO, for eksempel av
-økonomiske årsaker.
-På den annen side innebærer forslaget at elevene må være i «skolemodus» i et lengre tidsrom
-enn det som er tilfellet i dag ved at undervisningsøktene spres utover en lengre skoledag. For
-enkelte elever er det mulig at en slik skolehverdag
+Etter regelverket er det kommunen som fatter enkeltvedtak om utsatt skolestart i hvert tilfelle. Enkeltvedtaket kan påklages, i siste instans til Fylkesmannen. Regelverket for grunnskolen har åpnet for å utsette obligatorisk skolestart for barn i hvert fall siden folkeskoleloven fra 1936. Alle senere grunnskolelover har brukt omtrent samme formulering som dagens opplæringslov, selv om sakkyndig vurdering ikke alltid har vært et krav i selve lovbestemmelsen.[^59]
 
-[Side 197]
+Det finnes ikke historisk statistikk over omfanget av utsatt skolestart. Men det er grunn til å anta at praksis har endret seg over tid, særlig som følge av den økende vektleggingen av integrering i skolen i etterkrigstiden.[^60] Gjennom endringen av grunnskoleloven i 1975 fikk kommunene ansvaret for å oppfylle alle elevers rett til opplæring og tilpasset opplæring ble lovfestet som prinsipp for alle barn i skolen. Antallet spesialskoler ble kraftig redusert gjennom 1970-tallet (Jenssen & Lillejord, 2009; Telhaug, 1994; Tønnessen, 2004). I dag er forskyvninger i skolestart svært uvanlig i Norge. Av alle barna i et årskull får under 2 prosent utsatt eller fremskyndet skolestart (Gabrielsen & Lundetræ, 2017; Cools, Schøne, & Strøm, 2017). Barnet har større sannsynlighet for å begynne tidligere og mindre sannsynlighet for å begynne senere på skolen dersom én eller to av foreldrene har høyere utdanning (Cools, Schøne, & Strøm, 2017).
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+I andre land er forskjøvet skolestart vanligere. I Danmark kan barnet starte ett år tidligere på skolen dersom det er født før 1. oktober, og i underkant av 4 prosent av et årskull benytter seg av denne muligheten. Samtidig får 10–15 prosent av seksåringene i et årskull utsatt skolestart. Blant gutter som er født i desember er andelen 56 prosent, mens andelen desemberjenter som får utsatt skolestart er 31 prosent. Som resultat er gutter som er født på slutten av året i gjennomsnitt nesten fire måneder eldre ved skolestart enn jenter som er født på samme tidspunkt (Sievertsen, 2015).
 
-vil oppleves som enda mer belastende enn det skolen allerede oppleves som i dag. For eksempel er
-det risiko for at gutter vil ha størst problemer med å
-oppholde seg over et lengre tidsrom i skolemiljøet.
-Enkelte gutter kan ha et særlig selvhevdende handlingsmønster som kan være strevsomt å opprettholde over en lengre skoledag, og kan dermed ha
-behov for å skifte arena i løpet av dagen. Det kan
-også være at det å ha undervisning for langt utpå
-dagen er negativt for de yngste barna, dersom konsentrasjonen deres avtar utover skoledagen.
-Forslaget innebærer også at den obligatoriske
-grunnskolen beslaglegger en enda større del av
-barnas hverdag enn i dag. Elevene kan generelt
-ha behov for å kunne være for seg selv, og selv
-velge sine fritidsarenaer og aktiviteter utenfor
-skolen. Forslaget kan begrense tiden barna får
-sammen med foreldrene sine, og vil også
-begrense foreldrenes frihet til å organisere barnas
-og familiens hverdag slik de ønsker. Samtidig kan
-skolearenaen være et bedre alternativ for elever
-som har begrensede ressurser, fritidsmuligheter,
-eller muligheter til samvær med voksne etter skoletid.
-Utvalget mener det bør utredes nærmere
-hvilke utdanningskrav som bør stilles til personalet som skal ha ansvaret for timene som ikke er
-undervisning i fag, samt eventuelle behov for å
-opprette nye tilbud for videreutdanning. De økonomiske kostnadene ved et minstealternativ av
-heldagsskolen er beregnet å koste staten omtrent
-3 milliarder kroner i året. Et maksimumsalternativ
-av tiltaket, der heldagsskolen innebærer en total
-innlemmelse av SFO i heldagsskoletilbudet, er
-beregnet å koste staten omtrent 8,1 milliarder kroner i året, jf. kapittel 16. Det kan legges til grunn
-at det vil være en viss innsparing knyttet til at
-barna tilbringer mindre tid i SFO enn i dag. En
-gratis heldagsskole vil videre gjøre det mulig for
-foreldre å være fulltidssysselsatt i større grad.
-Samfunnøkonomisk medfører derfor forslaget en
-omfordeling av kostnader som i dag ligger hos
-barnets foreldre.
-Utvalget anbefaler
-–
+Utsatt skolestart er i den danske folkeskoleloven regulert i § 34.[^61] Sammenlignet med den norske opplæringsloven § 2-1 nevnes ikke behovet for sakkyndig vurdering, og foreldrenes anmodning eller samtykke er utgangspunktet for beslutningen om utsatt skolestart såfremt utsettelsen er begrunnet i barnets utvikling. Det betyr at utsettelse enten kan skje fordi foreldrene ønsker det eller fordi kommunen vurderer at det er det mest hensiktsmessige for barnet. I sistnevnte tilfelle skal det skje med foreldrenes samtykke (Undervisningsministeriet, 2018).
 
-innføre obligatorisk heldagsskole for alle
-elever på 1.–4. trinn, men uten å utvide timetallet i fagene. For timene som ikke er undervisning i fag bør det innføres en rammeplan som
-gir rammer for fysisk aktivitet, fritidsaktiviter,
-leksehjelp, og fordypning i ulike læringsaktiviteter, men som også gir betydelig rom for frilek.
+Etter utvalgets vurdering er det lite trolig at å heve alder for skolestart for alle barn til syv år – og dermed reversere et sentralt element i Reform 97 – vil redusere kjønnsforskjellene i skoleprestasjoner. For det første viser en norsk studie at innføringen av skolestart for seksåringer hverken hadde positive eller negative effekter på karakterer på ungdomstrinnet eller gjennomføring av videregående opplæring, selv om det er noen – riktignok usikre – indikasjoner på at jenter hadde større nytte av reformen (N. Drange, Havnes & Sandsør, 2012). Dessuten finnes forskjellene som er mellom gutter og jenters utvikling i seksårsalderen også i syvårsalderen, og utsatt skolestart for alle elever med ett år ville ikke bøte på det forspranget som jentene har. Det er heller ikke noe forskning som tyder på at kjønnsforskjellene i skoleprestasjoner i grunnskolen var mindre i tiden før seksårsreformen ble innført. Til sist er det få land i dag hvor barn begynner på skolen når de er syv år og det er betydelige kjønnsforskjeller også i disse landene.[^62] Utvalget vurderer derfor at det vil være lite virkningsfullt å reversere seksårsreformen som et tiltak for å redusere kjønnsforskjellene i skoleprestasjoner.
 
-195
+Etter utvalgets vurdering er det heller ikke grunnlag for å foreslå å utsette skolestart for alle gutter i et årskull. Utvalget mener det er prinsipielt problematisk å utsette retten og plikten til grunnskole med ett år for alle elever basert på kjønn, ettersom det strider mot grunnleggende prinsipper om likebehandling og like rettigheter. Det er dessuten betydelige forskjeller i ferdigheter og utvikling innad i gutte- og jentegruppene og stort overlapp mellom de to gruppene. Gitt at utsatt skolestart skulle ha positive effekter på elevenes læring og utvikling er det grunn til å tro at både gutter og jenter vil ha nytte av dette, selv om guttene ville være i flertall.
 
-Kapittel 13
+Utvalget har derfor utredet ulike modeller eller alternativer for utsatt skolestart der kjønn ikke er et selvstendig kriterium for hvem som skal ha eller bør anbefales utsatt skolestart.
 
-Særmerknader
-Utvalgsmedlem Kirkebirkeland mener en heldagsskole kan ha uheldige effekter ved å institusjonalisere barna for mye og ved å utvide tiden elevene
-er i skolemodus. En utvidelse av skoleplikten bør
-også brukes med stor varsomhet. Heldagsskolen
-reduserer barnas fritid og mulig samvær med foreldre og familie. Dette utvalgsmedlemmet viser
-også til tiltakets høye økonomiske kostnad, og vil
-heller prioritere andre anbefalte tiltak fra utvalget.
+Alternative tiltak
 
-13.5 Tilpasset opplæring for alle elever
-i grunnskolen
-Siden endringen i grunnskoleloven i 1975 har det
-vært et overordnet prinsipp i grunnopplæringen
-at alle elever skal ha tilpasset opplæring. Det betyr
-at all opplæring skal tilpasses elevenes forutsetninger og evner, både elever med stort læringspotensial og elever med behov for spesialundervisning. Alle elever skal i størst mulig grad inkluderes i den ordinære undervisningen. Samtidig har
-forutsetningene for tilpasset opplæring endret seg
-over tid.
-Etter Reform 97 skulle opplæringen på småskoletrinnet (1.–4. trinn) bygge på både barnehagens og skolens tradisjoner. Lærerne skulle legge
-vekt på læring gjennom lek og aldersblandede
-aktiviteter og organisere opplæringen etter tema
-med elementer fra undervisningsfagene. Opplæringen i fagene skulle gradvis bli innført gjennom
-småskoletrinnet. Med Kunnskapsløftet ble grunnleggende ferdigheter integrert i læreplanene for
-alle fag. Nå skulle arbeidet med å utvikle elevenes
-grunnleggende ferdigheter starte på 1. trinn.
-Timetallet på 1.–4. trinn ble utvidet for å styrke
-elevenes grunnleggende ferdigheter, og det ble
-innført nasjonale prøver i grunnleggende ferdigheter. Prinsippene for læreplanverket for Kunnskapsløftet har siden ligget fast. Staten har på
-ulike måter styrket skolenes kapasitet til å tidlig
-arbeide med grunnleggende ferdigheter og kompetanse i undervisningsfagene, for eksempel ved
-å innføre kartleggingsprøver, prioritere kompetanseutvikling for lærere, spesialisere lærerutdanningene etter trinn i grunnopplæringen, og ved å
-sette strengere krav til lærernes formelle kompetanse.
-Kunnskapsgrunnlaget viser at tidlig innsats
-gir positive læringseffekter som ikke nødvendigvis kan kompenseres for senere i barndommen.
-Dette kommer både av at tidlig barndom er en
-sensitiv periode og av at tidlig læring får kumula-
+Alternativ a: Status quo
 
-[Side 198]
+Videreføre dagens ordning for skolestart.
 
-196
+Alternativ b: Skolestart det skoleåret barnet har fylt seks år
 
-Kapittel 13
+Endre opplæringsloven § 2-1 tredje ledd slik at grunnskoleopplæringen til vanlig skal ta til *etter at barnet har fylt* seks år. Dette betyr at barna som er født før tidspunkt for skolestart (i august) har samme alder ved skolestart som i dag, mens barna som er født etter tidspunkt for skolestart venter ett år med skolestart.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Dette alternativet vil ikke endre på aldersspredningen innad i hver klasse. Med den nye ordningen blir barn født i juli nær ett år yngre (nettopp fylt seks år) enn sine klassekamerater som er født på høsten (fyller syv år før kalenderåret er omme). Ordningen vil imidlertid medføre at ingen barn starter på skolen før de er seks år, slik at absolutt alder ved skolestart forskyves. Dette alternativet medfører at høstbarna går i barnehagen ett år lenger enn det de gjør i dag.
 
-tive effekter ved å styrke læring senere i opplæringsløpet. Kunnskapsgrunnlaget gir dermed
-støtte til satsingen på tidlig innsats siden innføringen av Kunnskapsløftet i 2006.
-Kunnskapsgrunnlaget tyder videre på at intensiv opplæring over kortere perioder kan heve prestasjonene til elever med svake forutsetninger tidlig i opplæringsløpet, mens blant annet tilleggsundervisning i ferier kan være nyttig for eldre elever.
-Tett oppfølging og forskningsinformerte undervisningsopplegg synes å være avgjørende for at
-gutter skal dra nytte av tilleggs- og intensivopplæring. På den annen side er det lite belegg for at
-spesialundervisning gir økt læring for elevene.
-Enkelte studier antyder til og med at spesialundervisning kan være negativt for elevene, særlig dersom den gis av ikke-kvalifiserte assistenter.
-Det er langt flere gutter enn jenter som får spesialundervisning gjennom hele grunnskolen. I
-overkant av 10 prosent av alle guttene i grunnskolen får spesialundervisning, mens den tilsvarende
-andelen er 5 prosent for jentene. Rundt 70 prosent
-av alle enkeltvedtak om spesialundervisning i
-grunnskolen gjelder gutter. Siden skoleåret 2009–
-2010 har gjennomsnittlig antall lærertimer til spesialundervisning per elev økt svakt, mens gjennomsnittlig antall assistenttimer har økt kraftig
-(Utdanningsdirektoratet, 2018d). Gutter utgjør en
-større andel blant elevene som mottar spesialundervisning med assistent enn blant elever som
-mottar spesialundervisning med undervisningspersonale (Utdanningsdirektoratet, 2018b). Det er
-dermed risiko for at en ordning som har usikkert
-læringsutbytte går særlig negativt utover guttene.
-Ekspertgruppen for barn og unge med behov
-for særskilt tilrettelegging peker på flere utfordringer med spesialundervisningen slik ordningen eksisterer i dag (Nordahl mfl., 2018). Innsatsen kommer for sent, elever som har behov for
-særskilt tilrettelegging får ikke hjelpen de trenger, ansatte i PP-tjenesten bruker tiden på å utarbeide sakkyndige vurderinger i stedet for å heve
-kvaliteten på tilbudet, og spesialundervisningen
-blir ofte gitt av ufaglærte assistenter. Elevene som
-mottar spesialundervisning blir ofte møtt med
-lave forventninger, og det er trolig at de har et lavt
-læringsutbytte.
-Dagens
-spesialundervisning
-omtales som et ekskluderende system der organiseringen av og innholdet i det spesialpedagogiske
-tilbudet ofte medfører at barn og elever tas ut av
-fellesskapene i skoler og barnehager. Tilbakeføring til ordinære klasser og undervisning forekommer sjelden. Med bakgrunn i rapportens
-kunnskapsgrunnlag foreslår ekspertgruppen et
-helhetlig system for inkluderende og tilpasset
+Alternativ c: Rullerende skolestart
 
-pedagogisk praksis i skoler og barnehager som
-skal bygge på prinsippene om nærhet, inkludering og kompetanse. Ekspertgruppen vil at tiltak
-skal iverksettes umiddelbart når det viser seg at
-barna og elevene har vansker, og at støtten ikke
-skal være avhengig av sakkyndige behovsvurderinger. Dette vil frigjøre ressurser med høy fagkompetanse i PP-tjenesten som heller kan brukes
-i praksisfeltet der enkeltvedtakene skal settes ut i
-livet. Ekspertgruppen vil erstatte det dominerende individperspektivet med vekt på vansker og
-problemer hos barnet til fordel for en relasjonell
-og kontekstuell forståelse av problemene, der
-fokus rettes mot læringsmiljø og pedagogisk praksis. Ekspertgruppen foreslår derfor å fjerne den
-individuelle retten til spesialundervisning.
+Endre opplæringsloven § 2-1 slik at det åpnes for at kommuner kan innføre rullerende skolestart i enkelte eller samtlige av sine skoledistrikt, der tidspunkt for skolestart er fødselsdatoen det året barnet fyller seks år. Alternativet forutsetter aldersblandede klasser på 1.–4. trinn og læreplaner med større fleksibilitet i gjennomføringen av opplæringen. Ved slutten av 4. trinn skal alle elevene ha oppnådd kompetansemålene for 4. trinn, og fra begynnelsen av 5. trinn starter alle elever i aldershomogene klasser med utgangspunkt i kalenderåret de er født. Fra 5. trinn følger alle elever samme undervisningsprogresjon innenfor dagens læreplanverk.
+
+Alternativ d: Åpne for fleksibel uke i barnehage og grunnskole
+
+Alder for skolestart og regelverk for fleksibel skolestart beholdes som i dag, men det åpnes for at foreldre kan søke om at barnet tilbringer deler av uken på skolen og deler av uken i barnehagen der barnet har gått i løpet av 1. trinn. Sakkyndig vurdering om barnets utvikling kan innhentes etter foreldrenes ønske, men vil kun ha en rådgivende funksjon. For at barnet ikke skal gå glipp av viktig læring i grunnleggende lese- og regneferdigheter bør det så langt det er mulig legges til rette for at barnet ikke mister betydelig antall timer i fag hvor slike ferdigheter er særlig viktige.
+
+Det åpnes også for at foreldre kan søke om at barnehagebarn i femårsalderen som er motiverte for det, kan delta én eller flere dager på 1. trinn på grunnskolen de skal starte på til normert tid kalenderåret etter.
+
+Alternativ e: Forskjøvet skolestart
+
+Endre opplæringsloven § 2-1 slik at foreldrenes krav eller samtykke får avgjørende vekt ved kommunens godkjennelse av forskjøvet skolestart. Barn kan få utsatt skolestart med ett år etter normert skolestart. Barn som er fylt fem år innen en sentralt bestemt dato kan få fremskutt skolestart med ett år. Sakkyndig vurdering om barnets utvikling kan innhentes etter foreldrenes ønske, men vil kun ha en rådgivende funksjon. Kommunens godkjennelse av utsatt skolestart betinges av at barnet går i barnehagen det året det etter normert tid skulle ha begynt på skole.
+
+Alternativ f: Felles førskole og fleksibel skolestart
+
+Med dette forslaget begynner alle barn på grunnskolen det kalenderåret de fyller seks år som i dag. Alternativt begynner alle barn på skolen det kalenderåret de fyller fem år. Det første året i grunnskolen går barna i en førskole med lekbasert tilnærming til læring som vektlegger utvikling av bokstav-, språk- og tallforståelse. I løpet av førskoleåret praktiseres rullerende skolestart slik at en del av barna tas opp på 1. trinn enten én gang i løpet av skoleåret (for eksempel etter nyttår), på to ulike tidspunkter (slik som 1. november og 1. mars), eller fortløpende. De førskolebarna som ikke har rullerende opptak vil begynne på 1. trinn om høsten det året de fyller syv år. Det legges til grunn at det skal være en forholdvis stor andel som begynner på 1. trinn etter å ha fullført et helt år i førskolen. Tidspunktet for opptak til 1. trinn besluttes av skolen i dialog med foreldrene. Både skolen og foreldrene kan initiere en slik beslutning, men den endelige avgjørelsen skal treffes av skolen og skal basere seg på kartlegging, kjennskap til barnet og skolens skjønn etter felles nasjonale retningslinjer.
+
 Utvalgets vurderinger
-Til tross for en betydelig innsats siden Kunnskapsløftet for å realisere prinsippet om tidlig innsats, mener utvalget at de konkrete tiltakene i
-grunnskolen ikke har gitt et helhetlig system for å
-følge opp elever. Med det som utgangspunkt
-mener utvalget at det er behov for å konkretisere
-prinsippet om tidlig innsats til et helhetlig støttesystem for grunnskolen.
-Utvalget mener at ekspertgruppen for barn og
-unge med behov for særskilt tilrettelegging peker
-på viktige svakheter ved dagens system for spesialundervisning. Utvalget mener likevel at det er
-en betydelig risiko forbundet med å oppheve elevers individuelle rett til spesialundervisning. Det å
-ha enkeltvedtak om spesialundervisning er i seg
-selv ikke negativt for elever eller et uttrykk for at
-skolen har mislyktes med tilpasset opplæring. Det
-vil trolig alltid finnes elever som vil ha behov for
-mer eller mindre omfattende tilpasninger av den
-ordinære undervisningen og der spesialundervisning er nødvendig for at elevene skal få et tilpasset
-opplæringstilbud. Det er heller ikke negativt i seg
-selv at flere gutter enn jenter mottar spesialundervisning. Dette kan gjenspeile et reelt større behov
-blant gutter enn blant jenter. For eksempel har
-dobbelt så mange gutter som jenter diagnosen
-atferdsforstyrrelse, flertallet av barn med språkvansker er gutter, og for en del psykiske
-utviklingsforstyrrelser som henger sammen med
-lærevansker er gutter overrepresentert. Utvalget
-mener dessuten at skolene, selv på lengre sikt,
-ikke vil ha tilstrekkelig kompetanse til å ha det
-fulle ansvaret for å gjennomføre sakkyndige vurderinger av behovet for spesialundervisning. Det
-vil fortsatt være behov for særskilt kompetanse
 
-[Side 199]
+Mulige effekter på skoleprestasjoner og læring
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+De ulike alternativene til fleksibel skolestart tar utgangspunkt i forskning som viser at det er forskjeller i gutter og jenters utvikling i barneårene. Kunnskapsgrunnlaget viser at det ikke er kjønnsforskjeller i generell intelligens fra skolealder og fremover, men at jenter utvikler seg tidligere på områder som er viktige for skoleprestasjoner. Jenter har en tidligere utvikling av generelle kognitive ferdigheter i førskolealder og presterer noe bedre enn gutter på språklige evner i hvert fall fra ettårsalderen og fremover. Guttene presterer bedre enn jenter på tester av romforståelse, men gutters fortrinn på disse områdene viser seg først fra 4–6-årsalderen. Jenter skårer høyere på personlighetstrekket planmessighet, som sammen med selvregulering har omtrent like stor betydning for skoleprestasjoner som generell intelligens. Jenter viser fra tidlig barndom mer utviklede ferdigheter i selvregulering, spesielt av oppmerksomhet, aktivitet og impulser. Få studier har beregnet i hvilken grad kjønnsforskjeller i selvregulering kan forklare kjønnsforskjeller i skoleprestasjoner, men en studie finner at jenters fortrinn i selvregulering ved femårsalderen kunne forklare nesten halvparten av kjønnsforskjellen i leseprestasjoner på 5. trinn. Det er dermed gjennomsnittlige forskjeller mellom kjønnene i ferdigheter i barnealder der jenter spesielt har bedre utviklede sosiale og emosjonelle ferdigheter og oftere vurderes å være klare for å begynne på skolen.
 
-utenfor skolen for å gjøre sakkyndige vurderinger
-som ivaretar rettssikkerheten til elevene.
-Samtidig mener utvalget at terskelen for å fatte
-enkeltvedtak om spesialundervisning bør være
-høyere enn hva som er tilfellet i dag. Utvalget
-mener at det ikke ville være faglig forsvarlig å
-heve denne terskelen ved å legge bestemte
-begrensninger til grunn for skolenes mulighet til
-å fatte enkeltvedtak om spesialundervisning, slik
-som en nedre grense for antallet timer som vedtak
-om spesialundervisning må omfatte, eller at vedtak må innebære reduserte læreplanmål gjennom
-en individuell opplæringsplan. Selv om slike
-begrensninger skulle heve terskelen for å fatte
-enkeltvedtak, varierer elevbehovene for spesialundervisning for mye til at slike regler er faglig forsvarlige som generelle saksbehandlingskrav for
-spesialundervisning. Utvalget mener derfor at
-dagens saksbehandlingsregler for spesialundervisning bør gjelde, slik som vilkåret om at eleven
-ikke kan eller får tilfredsstillende utbytte av ordinær undervisning, og kravet til sakkyndig vurdering og individuell opplæringsplan.
-Det grunnleggende problemet for å realisere
-prinsippet om tidlig innsats er, etter utvalgets vurdering, manglende kompetanse i skolen for å tilpasse opplæringen til alle elever. For å kunne
-utnytte og utvikle kompetansen i skolen er det
-nødvendig med et mer helhetlig regelverk som
-angir hvilket støttesystem skolene skal tilby alle
-elever, enn det som er tilfellet i dag. Utvalget
-mener derfor at det bør innføres et lovkrav om at
-alle skoler har en støttemodell med tre nivåer:
-– støttenivå 1: tilpasset støtte i ordinær undervisning.
-– støttenivå 2: intensiv opplæring i kortere perioder.
-– støttenivå 3: spesialundervisning etter sakkyndig vurdering.
-Utgangspunktet for støttemodellen er at alle
-elever skal ha opplæring innenfor rammen av den
-ordinære undervisningen etter læreplanverket.
-Elever som har behov for ekstra støtte for å oppnå
-læreplanmålene, skal i første omgang ha tilpasset
-støtte innenfor ordinær undervisning sammen
-med de andre elevene. En slik støtte kan iverksettes umiddelbart og evalueres kontinuerlig etter
-lærernes egne faglige vurderinger. For å legge
-bedre til rette for støttenivå 1, mener utvalget at
-det er nødvendig å endre opplæringsloven § 1-3,
-som sier at opplæringen skal «tilpassast evnene
-og føresetnadene» til elevene. Kunnskapsgrunnlaget viser at forventninger til læring spiller en viktig rolle for elevenes utbytte av undervisningen,
+Samtidig er det vesentlig variasjon innad i gutte- og jentegruppene i slike ferdigheter som språk- og tallforståelse og i sosiale og emosjonelle ferdigheter (Stangeland, Lundetræ, & Reikerås, 2018). Det er videre gjennomsnittlige forskjeller i skoleprestasjoner mellom de som er født tidlig på året og de som er født sent på året i en skoleklasse, og denne forskjellen er lik for gutter og jenter (Björnsson & Olsen, 2018). Disse forskjellene mellom barn som er født i januar og desember blir gradvis mindre gjennom opplæringsløpet, mens kjønnsforskjellene blir større i løpet av grunnskolen. Forskjellene i skoleprestasjoner på kartleggingsprøver på 1. trinn i Oslo (Drange & Havnes, 2015) og nasjonale prøver på 5. trinn (Statistisk sentralbyrå, 2017) er relativt små og går i jenters favør i lesing og gutters favør i regning. I kontrast til dette finner man betydelig større kjønnsforskjeller i skolekarakterer på ungdomstrinnet og i videregående opplæring i Norge i dag og på tvers av land og over tid, og forskjellene i denne alderen går i jentenes favør i alle fagene i skolen med unntak av kroppsøving. Det er dermed også mulig at kjønnsforskjellene i senere skoleprestasjoner ikke i vesentlig grad skyldes ulik utvikling i tidlige barneår.
 
-197
+Tidlig utvikling av kognitive ferdigheter kan ha stor betydning for hvor mye kunnskap barn kan tilegne seg før skolestart og dermed for deres utgangspunkt for videre læring på skolen. Samtidig viser en rekke studier at tidlig innsats gir positive læringseffekter som ikke nødvendigvis kan kompenseres for senere i barndommen, som følge av at tidlig barndom er en sensitiv periode og at tidlig læring får kumulative effekter ved at det styrker læring senere i utdanningsløpet (Cunha & Heckman, 2007; Cunha mfl., 2006).
 
-Kapittel 13
+Kunnskapsgrunnlaget viser at det å være eldre ved skolestart fører til bedre skoleprestasjoner og at barna i mindre grad blir ansett som hyperaktive. Elevens relative alder til sine medelever har like mye å si for gutter og jenters skoleprestasjoner. Men det at eldre elever gjør det bedre skyldes i hovedsak at de er eldre ved prøvetidspunktet. Når dette er tatt hensyn til tyder forskningen på at det å være eldre ved skolestart hverken fører til bedre kognitive evner eller påvirker utdanningsnivå eller inntekt på lengre sikt (Black mfl., 2011). Elever som begynner senere på 1. trinn vil være eldre ved samtlige prøvetidspunkt og dermed ha et aldersfortrinn gjennom skoleløpet. Dette vil kunne utjevne kjønnsforskjeller i skoleresultater dersom flere gutter enn jenter får utsatt skolestart. Dette er imidlertid en effekt som ikke medfører at elevene som får utsatt skolestart lærer mer i løpet av skolegangen sammenlignet med det de lærer dersom de starter tidligere. Samtidig kan effekten av alder ved skolestart variere mellom ulike elevgrupper.
 
-og at gutter møtes med lavere forventninger til
-læring i skolen enn jenter. Etter utvalgets vurdering er det risiko for at dagens regulering bidrar
-til å redusere forventningene til elevene, noe som
-da kan gå ytterligere utover guttene. Utvalget
-mener derfor at denne reguleringen bør erstattes
-med en bestemmelse om at opplæringen skal gi et
-best mulig læringsutbytte gitt forutsetningene til
-den enkelte elev.
-Dersom en elev fortsatt ikke følger den forventede faglige progresjonen i læreplanverket
-skal eleven tilbys intensiv opplæring på støttenivå
-2. En slik støtte skal ikke forutsette sakkyndig
-vurdering eller individuell opplæringsplan, men
-kunne iverksettes etter lærernes faglige vurderinger for kortere perioder. Det bør likevel være et
-krav at foresatte til elevene holdes godt informert
-om lærernes beslutning om intensiv opplæring og
-evalueringer underveis om den faglige progresjonen til eleven. For å kunne legge til rette for et helhetlig oppfølgingssystem, mener utvalget at kravet om intensiv opplæring må gjelde gjennom hele
-grunnskolen og for alle læreplanmålene. Det
-betyr at det er nødvendig å endre opplæringsloven
-§ 1-4, som sier at elever på 1.–4. trinn som henger
-etter i lesing, skriving og regning skal få intensiv
-opplæring slik at forventet progresjon blir nådd.
-Dagens lovbestemmelse gir ikke skolen plikt til å
-tilby intensiv opplæring dersom eleven ligger
-etter på andre områder av læreplanverket eller på
-andre trinn i grunnskolen.
-Dersom eleven fortsatt ikke følger den forventede faglige progresjonen i læreplanverket etter
-kortere perioder med intensiv opplæring, eller det
-er urimelig å forvente at eleven skal kunne følge
-de ordinære læreplanmålene, skal eleven ha rett
-til sakkyndig vurdering og eventuelt tilbys spesialundervisning på støttenivå 3. Utvalget mener at
-dagens saksbehandlingsregler for spesialundervisning bør gjelde for støttenivå 3.
-Etter utvalgets vurdering er det stor risiko for
-at rene regelverksendringer vil ha begrenset
-effekt på hvilket opplæringstilbud elevene faktisk
-mottar, og lovkravet om et trenivå støttesystem
-må derfor kombineres med betydelige endringer i
-kompetansekravene til skolene.
-For å styrke skolenes kompetanse til å gi virkningsfulle støttetiltak på nivå 1 og 2, mener utvalget at det er behov for flere lærerspesialister i
-begynneropplæring i starten av grunnskolen.
-Utvalget mener derfor at det bør innføres en plikt
-om at hver skole med et barnetrinn uavhengig av
-størrelse skal ha minst én lærerspesialist i begynneropplæring på 1.–4. trinn. Lærerspesialistene
-skal fungere som ressurser for de andre lærerne
+De forskjellige alternativene for fleksibel skolestart har til hensikt å redusere variasjonen i kognitiv og sosial utvikling blant barn som går i samme skoleklasse. Ettersom kognitiv og sosial utvikling samvarierer med ferdighetsnivå vil fleksibel skolestart også redusere variasjonen i barnas ferdighetsnivå innenfor hver klasse. Hensikten er å legge bedre til rette for at det pedagogiske innholdet i skoletilbudet kan tilpasses elevene bedre. Imidlertid vil klassene ha samme variasjon som i dag når det gjelder underliggende læringsevner.
 
-[Side 200]
+Kunnskapsgrunnlaget tyder ikke på at klasser med mindre variasjon i ferdighets- eller utviklingsnivå nødvendigvis fører til mer læring. Eksempelvis viser en norsk studie at aldersblanding på mindre skoler, som gjør at spennet i ferdighets- og utviklingsnivå blir svært stort innad i hver klasse, gir små positive læringsresultater i gjennomsnitt (Leuven & Rønning, 2016). Det er spesielt eksponering for eldre barn som gir de positive utslagene på skoleprestasjonene, og disse er noe større enn de negative effektene av eksponering for yngre barn. Forsøk med nivådeling etter ferdigheter enten mellom skoler eller mellom klasser skaper grupper som er mer homogene både i ferdigheter og i underliggende evner. Disse forsøkene har ikke innfridd forventningene til økt læring i mer homogene grupper, og det kan være flere årsaker til dette, jf. kapittel 10. For eksempel kan medeleveffekter gjøre at det er gunstig for svakt presterende elever å gå sammen med elever som er flinkere, eller det kan være at delingen fører til for lave forventninger til svakt presterende elever. Det kan også være at mer homogene elevgrupper erstatter individuell tilpasning og intensivundervisning innenfor en mer heterogen gruppe, noe som har gitt positive effekter på 1. trinn (Solheim, Frijters, Lundetræ, & Uppstad, 2018).
 
-198
+Det vil være en utfordring for en systematisk utprøving av ulike alternativer for fleksibel skolestart at det for skoleprestasjoner ikke vil være mulig å skille effekten av fleksibel skolestart fra endringene som skjer i alder ved måletidspunkt. Dette er grunnen til at forskningen på alder ved skolestart ofte bruker utfall som først måles etter avsluttet skolegang. Dette medfører at et eventuelt forskningsprosjekt bør pågå i minst 15 år før spørsmål om hvorvidt tiltaket reduserer kjønnsforskjeller i skoleprestasjoner og har effekt på det videre utdanningsløpet og andre utfall kan besvares sikkert. Det samme gjelder vurderingen av om tiltaket påvirker en *årsak* til kjønnsforskjeller eller virker *kompensatorisk*. Når det gjelder utfall som ikke er knyttet direkte til skolen, som barns trivsel og mestringsfølelse, eller diagnose og behandling mot ADHD og andre psykiske lidelser, vil ikke problemet med å skille mellom effekt av alder og læring være tilstede i samme grad.
 
-Kapittel 13
+Risikomomenter for enkeltgrupper
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Det er risiko for negative konsekvenser for læringsutbyttet for enkelte av elevene dersom de får et kortere barnehage- og skoletilbud. Alternativ f: «Felles førskole og fleksibel skolestart» kan gjennomføres på to måter. Dersom elevene starter i førskolen det kalenderåret de fyller seks år, vil de elevene som rulleres tidlig inn fra førskolen til 1. trinn få redusert antall år med skolegang. Dersom elevene starter i felles førskole det kalenderåret de fyller fem år, reduseres risikoen for mindre læring som følge av kortere grunnskole. Elevene rulleres da inn til 1. trinn fra førskolen på samme tid som, eller tidligere enn, det de gjør i dag, slik at tiltaket ikke innebærer tap av skolegang for noen elevgrupper. For elevene som rulleres senest inn til 1. trinn vil tiltaket innebære et ekstra år med «skolegang» sammenlignet med i dag.
 
-og arbeide systematisk for å sikre opplæring i
-grunnleggende ferdigheter av høy kvalitet for
-hele elevgruppen. For å oppfylle en slik rolle er
-det nødvendig at lærerspesialisten frikjøpes en
-viss prosentandel fra stillingen sin. Lærere som i
-dag er ansatt til å undervise på 1.–4. trinn og som
-tilfredsstiller visse kompetansekrav, kan videreutdanne seg til å bli lærerspesialister gjennom
-lærerspesialistutdanningen. Det er grunn til å forvente at særlig gutter vil kunne ha nytte av lærerspesialister i leseopplæring.
-Samtidig kan det argumenteres for at en slik
-plikt først bør innføres etter at dagens ordning
-med lærerspesialister er evaluert. På den annen
-side er trolig risikoen ved å innføre et generelt
-krav om lærerspesialister begrenset, ettersom
-utdanningskravene som en slik stilling ville måtte
-bygge på, er basert på videreutdanning fra universiteter og høyskoler. For utvalget virker det rimelig å legge til grunn at slike videreutdanningstilbud er forskningsbaserte. Forslaget innebærer
-imidlertid en større detaljstyring av skolenes
-lærerbemanning. På den annen side har ikke forslaget særlig omfattende konsekvenser for skolene, ettersom forslaget åpner for at allerede
-ansatte lærere kan videreutdanne seg til slike
-lærerspesialister. Utvalget vurderer derfor at plikten ikke vil innebære en for stor inngripen i skoleeiers og skolers handlingsrom, og at mulige
-læringsgevinster av tiltaket bør veie tyngre.
-Utvalget mener at det er et stort behov for å
-styrke den spesialpedagogiske kompetansen som
-ligger til grunn for spesialundervisningen som
-elevene mottar. Etter utvalgets vurdering er det
-kvaliteten på tilbudet som er avgjørende for elevenes læring og utvikling snarere enn regelverket
-for saksbehandling av vedtak om spesialundervisning. Utvalget mener derfor at det bør innføres et
-lovkrav om at enkeltvedtak om spesialundervisning utløser rett til spesialundervisning fra personell med relevant pedagogisk eller spesialpedagogisk kompetanse i 80 prosent av timetallet som
-vedtaket omfatter. På samme måte som regelverket stiller krav om at alle lærere i undervisningsfagene skal ha et bestemt antall studiepoeng i faget,
-mener utvalget at det vil være hensiktsmessig å
-stille krav om et bestemt antall studiepoeng i spesialpedagogikk som kravet til relevant kompetanse kan legge til grunn. Utvalget mener imidlertid det bør utredes nærmere hvilke kompetansekrav som bør stilles til personalet som skal stå for
-spesialundervisningen. Utvalget mener også at
-regelverket bør presisere at unntak fra kravet om
-pedagogisk kompetanse bare kan gjøres for opp-
+Kunnskapsgrunnlaget viser at reformer i Canada og Tyskland som har kuttet antall skoleår har resultert i svakere skoleprestasjoner og også hatt negative sosiale konsekvenser, selv om læringsmålene har blitt holdt konstant (Huebener & Marcus, 2017; Krashinsky, 2014; Krekel, 2017; Morin, 2013). En større gruppe av elever som starter tidlig på 1. trinn vil gjennomføre tolv års skolegang, men muligens med svakere faglige resultater enn om de hadde fått fullføre 13 års skolegang. Studier av den kanadiske reformen fant at elever med tolv års skolegang oppnådde dårligere resultater på lavere universitetsgrad, og at det særlig var de flinkeste elevene som gjorde det dårligere ettersom flinke elever får større utbytte av et år på skolen enn andre elever.
 
-gaver av rent praktisk karakter, der elever med for
-eksempel nedsatt funksjonsevne har behov for
-personlig assistanse.
-I tillegg foreslår utvalget betydelige endringer
-i kravene til flerfaglig samarbeid for å støtte barn
-og elevers læring og utvikling mellom barnehagen, skolen og relevante kommunale tjenester,
-slik som de kommunale helse- og omsorgstjenestene, barnevernet og sosiale tjenester. Med
-disse endringene vil skolene ha tilgang til betydelig flere ressurser og kompetanse som kan styrke
-skolenes arbeid med støttemodellen, jf. delkapittel
-13.6 om flerfaglig samarbeid.
-Etter utvalgets vurdering vil disse endringene
-i sum sørge for at langt flere elever får tilpasset
-opplæring i ordinær undervisning, og at de elevene som mottar intensiv opplæring og spesialundervisning får et opplæringstilbud med et faglig
-innhold av høy kvalitet. For at støttemodellen skal
-ha ønsket effekt må de ulike støttenivåene tilbys
-trinnvis og systematisk. Først da vil også modellen kunne virke forebyggende på omfanget av
-elever som må tas ut fra ordinær undervisning i
-lengre tid. Terskelen for å fatte enkeltvedtak om
-spesialundervisning vil kunne bli høyere, og dermed sørge for at færre elever som i prinsippet kan
-ivaretas gjennom tilpasninger i ordinær undervisning tas ut av den vanlige klassen og får individuell opplæringsplan med reduserte kompetansemål. En viss risiko ved modellen kan være at elevene blir værende på et for lavt støttenivå for lenge,
-for eksempel ved at de ikke får tilbud om spesialundervisning på støttenivå 3 tidsnok. Etter utvalgets vurdering eksisterer også slik risiko med
-dagens regelverk, og der den mest realistiske løsningen for å redusere slik risiko er å heve kompetansen til skolene.
+Alternativene under tiltaket fleksibel skolestart bør derfor sees i sammenheng med andre tiltak som utvalget foreslår i overgangen mellom ungdomstrinnet og videregående opplæring og utvikling av nye tilbud i videregående opplæring, jf. kapittel 15. Særlig vil forslaget om et utforskende skoleår etter ungdomstrinnet og et universitets- og høyskoleforberedende tilbud etter videregående opplæring gi elevene mer tid i grunnopplæringen, og dermed redusere eventuelle negative konsekvenser av en kortere grunnskole for enkelte elever. En mulighet er å utrede hvordan plikten til tiårig grunnskole kan opprettholdes, slik at elever med tidlig opprykk til 1. trinn som fullfører grunnskolen på ni år plikter å ta enten et utforskende skoleår etter grunnskolen eller å fullføre Vg1.
+
+Et annet aspekt ved fleksibel skolestart er at gruppen som begynner på 1. trinn etter et helt år i barnehage eller førskole vil gå i klasser der tyngdepunktet av elever er yngre enn dem. Den positive gjennomsnittseffekten av aldersblanding var drevet av at det var positivt for yngre elever å gå sammen med de eldre, mens aldersblandingen virket negativt på skoleprestasjonene til de eldste elevene (Leuven & Rønning, 2016). Dette kan tyde på at elever som får utsatt skolestart vil tape på å gå sammen med yngre elever. Man vet imidlertid ikke hvorfor Leuven og Rønning (2016) finner en negativ effekt av aldersblanding for eldre elever, og dermed er implikasjonen for fleksibel skolestart usikker.
+
+Prinsipielle avveininger
+
+Fleksibel skolestart reiser prinsipielle spørsmål. Et sentralt prinsipp i norsk skolelovgivning er at det er skolens ansvar å tilpasse seg elevenes forutsetninger innenfor rammen av såkalte sammenholdte klasser snarere enn at elevene skal deles inn i grupper for å best mulig tilpasses skolen. Dette prinsippet dannet mye av bakgrunnen for grunnskoleloven av 1975 der kommunene fikk ansvaret for å oppfylle alle elevers rett til opplæring og prinsippet om tilpasset opplæring ble lovfestet. Prinsippet utgjør også grunnlaget for opplæringsloven § 8-2 om at elever til vanlig ikke skal organiseres etter kjønn og faglig nivå. Generelt er utvalget også skeptisk til omfattende former for nivådifferensiering i grunnskolen. Utvalget foreslår derfor at det utredes nærmere om det er behov for å presisere vilkårene for å organisere elever etter kjønn og faglig nivå i dagens § 8-2, jf. kapittel 14.
+
+Fleksibel skolestart innebærer ikke å organisere elever etter faglig nivå, men å fordele elevene noe mer etter hvor langt de er kommet i kognitiv og sosial utvikling. I dag skjer en slik fordeling strengt basert på hvilket kalenderår man er født i. En konsekvens av fleksibel skolestart vil likevel være noe mindre variasjon i barns ferdighetsnivå innenfor hver klasse, ettersom kognitiv og sosial utvikling samvarierer med ferdighetsnivå. Enkelte av utvalgsmedlemmene mener likefullt at skolene med fleksibel skolestart vil opprettholde en inkluderende praksis som i dag, eller bedre, fordi underliggende evne til å utvikle kognitive, sosiale og emosjonelle ferdigheter vil variere like mye innenfor hver klasse som i dag. Fra dette perspektivet er forskjellen fra dagens praksis i hovedsak at klassene settes sammen i noe større grad etter elevenes kognitive og sosiale utviklingsnivå. Dette kriteriet gjelder også i dag ved at de aller fleste skoler organiserer klasser etter årstrinn ut fra elevenes alder. Enkelte andre utvalgsmedlemmer vil fremheve at det er betydelig risiko for at fleksibel skolestart vil medføre at skolene kan opprettholde en lite inkluderende praksis eller føre til en praksis som er mindre inkluderende enn i dag, fordi elevene som konsekvens blir delt inn i mer homogene grupper etter ferdighetsnivå. Fra dette perspektivet kan fleksibel skolestart undergrave prinsippet om elevmangfold og inkludering som er grunnleggende for skolen og som er nedfelt i regelverket.
+
+En hensikt med fleksibel skolestart er å bidra til å redusere sosiale forskjeller i grunnopplæringen og senere i livsløpet ved å redusere kjønnsforskjeller (og andre forskjeller). En forutsetning for at fleksibel skolestart skal fungere er at det tas gode avgjørelser om når elevene begynner på 1. trinn. Enkelte utvalgsmedlemmer vil likevel fremheve at modeller for fleksibel skolestart der foreldre og lærere sammen skal vurdere elevenes progresjon, kan føre til større sosiale forskjeller mellom elever. Et systematisk funn i mange studier av økt fleksibilitet og valgfrihet (Bjordal, 2017; Jackson, 2013; Jackson, Jonsson og Rudolphi, 2012; Haugen, 2012) er at det er en risiko for økte sosiale forskjeller knyttet til slike tiltak. Når det gjelder fleksibel skolestart viste erfaringene fra Danmark der foreldrene selv kunne beslutte at barna skulle begynne senere på skolen, at ressurssterke foreldre benyttet tilbudet om senere skolestart oftere enn andre (Sievertsen 2015). Det er i Norge en risiko for at ressurssterke foreldre vil kunne vurdere det som fordelaktig at deres barn har en rask progresjon gjennom skoleløpet, for dermed å komme i posisjon til videre utdanning på et tidligere tidspunkt enn andre barn. Hele utvalget mener derfor at eventuelle utprøvinger av fleksibel skolestart må ta hensyn til slike mulige negative konsekvenser.
+
+Utvalgets diskusjon av fleksibel skolestart har også omfattet en diskusjon av risiko ved en eventuell utprøving av tiltaket. Ethvert tiltak vil i prinsippet ha risiko for negative virkninger. Risiko betyr derfor ikke at tiltaket ikke bør utprøves eller gjennomføres. All forskning må skje i tråd med forskningsetiske retningslinjer der en vurdering av risiko og planer for håndtering av risiko er sentralt. I følge de forskningsetiske retningslinjene i samfunnsvitenskap har forskerne et ansvar for å unngå skade og alvorlige eller urimelige belastninger for enkeltindivider (NESH, 2016). Barn som deltar i forskning har særlige krav på beskyttelse. Foreldre skal informeres om risiko for negative konsekvenser av tiltaket, og vil som hovedregel ha mulighet til å reservere sitt barn mot deltagelse i utprøvingen. Utvalget mener risikoen for negative effekter av tiltaket ikke kan sammenlignes med en ideell situasjon. Risiko må veies mot mulige positive virkninger av tiltaket og mot risikoen ved og konsekvensene av dagens situasjon, men også mot alternative tiltak. Det kan finnes alternative tiltak for å redusere kjønnsforskjeller som har større sannsynlighet for positive effekter, og som dermed bør prioriteres høyere enn fleksibel skolestart.
+
+Samlet vurdering og anbefaling
+
+Utvalgsmedlemmer *Abdelrahman, Fylling, Hausstätter, Kirkebirkeland, Løken* og *Monsen* ønsker å videreføre dagens ordning for skolestart fordi de mener fleksibel skolestart – herunder også forslaget om førskole og fleksibel skolestart (alternativ f) – ikke har tilstrekkelig støtte i eksisterende forskning, og dermed har svært usikre positive effekter som ikke veies opp av risikoen for negative konsekvenser. Disse utvalgsmedlemmene vektlegger også de problematiske prinsipielle sidene ved å fordele elever etter skolemodenhet, og er bekymret for at tiltaket vil gi økte sosiale forskjeller i skolen. Disse utvalgsmedlemmene ønsker heller å bruke ressurser på andre tiltak som utvalget foreslår, som handler om å endre skolens innhold og organisering.
+
+Utvalgsmedlemmer *Chaudhry, Lervåg, Nereid, Ogden* og *Stoltenberg* mener at det viktigste argumentet for forslaget om fleksibel skolestart er at dagens ordning for skolestart (status quo) ikke fungerer, og særlig ikke for gutter og de som er født sent på året. I tillegg uttrykker foreldre, lærere og andre bekymring for at mange barn ikke er klare for å starte på skolen. Denne bekymringen har særlig kommet til uttrykk etter at seksårsreformen ble innført. Disse utvalgsmedlemmene mener forslaget om felles førskole og fleksibel skolestart (alternativ f) er det som best ivaretar viktige hensyn til barns skolestart. Disse utvalgsmedlemmene er enige i at fleksibel skolestart mangler overbevisende empirisk støtte. Metodisk gode studier tyder på at alder ved skolestart ikke har effekt på læring, og erfaringene fra ordningen med fleksibel skolestart i Danmark er ikke i tilstrekkelig grad studert vitenskapelig. Alternativet tar utgangspunkt i en sannsynlig årsak til kjønnsforskjeller i skoleprestasjoner, men er likevel en nyskapning uten definerte forbilder, og er derfor ikke tilstrekkelig forskningsbasert til at utvalgsmedlemmene vil anbefale implementering uten forutgående forskning, utredning og utprøving. Tiltaket reduserer ikke variasjonen i en skoleklasse etter underliggende evner. Disse utvalgsmedlemmene mener derfor at tiltaket er i tråd med prinsippet om inkludering og mangfold som skolen bygger på, og kan redusere sosioøkonomiske forskjeller blant annet ved å redusere kjønnsforskjeller i skoleprestasjoner og ved å inkludere elever som trenger mer tid for å lære. Disse utvalgsmedlemmene mener at tiltaket ikke representerer en særlig stor risiko sammenlignet med andre tiltak.
+
 Utvalget anbefaler
-–
 
-–
+- *Utvalgsmedlemmer Abdelrahman, Fylling, Hausstätter, Kirkebirkeland, Løken* og *Monsen* anbefaler å videreføre dagens ordning for skolestart.
 
-–
+- *Utvalgsmedlemmer Chaudhry, Lervåg, Nereid, Ogden* og *Stoltenberg* anbefaler å utrede pilotering og utprøving av én eller flere former for fleksibel skolestart. Utredningen bør særlig legge vekt på en modell med felles førskole ved seks- eller femårsalderen med opptak til 1. trinn på ulike tidspunkter etter individuell vurdering av barnet for å tilpasse skoletilbudet bedre til elevenes utvikling.
 
-innføre lovkrav om at alle skoler skal ha en støttemodell med tre nivåer: tilpasset støtte i ordinær undervisning, intensiv opplæring i kortere
-perioder og spesialundervisning etter sakkyndig vurdering.
-innføre lovkrav om at enkeltvedtak om spesialundervisning utløser rett til spesialundervisning med personell med relevant pedagogisk
-eller spesialpedagogisk kompetanse i 80 prosent av timetallet som vedtaket omfatter.
-innføre en plikt om at hver skole med et barnetrinn skal ha minst én lærerpesialist i begynneropplæring på 1.–4. trinn.
+Nærmere vurderinger av felles førskole og fleksibel skolestart
 
-[Side 201]
+Utvalgsmedlemmene *Chaudhry, Lervåg, Nereid, Ogden* og *Stoltenberg* anbefaler å (1) forske på og utrede videre flere alternative former for fleksibel skolestart, for å (2) beslutte om og i hvilken form fleksibel skolestart skal piloteres og prøves ut systematisk i Norge. Det bør (3) etableres et samarbeid med Danmark om forskning på virkningene av fleksibel skolestart på kjønnsforskjeller. Man bør (4) særlig utrede modeller for fleksibel skolestart der alle barn begynner i førskole det kalenderåret de fyller seks år, eller (5) det kalenderåret de fyller fem år. Gitt at forskning, videre utredning og utprøving gir grunnlaget for det, mener disse utvalgsmedlemmene at tiltaket bør iverksettes i hele landet, og dermed erstatte dagens regelverk for utsatt skolestart.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Disse utvalgsmedlemmene mener at det ikke er en motsetning mellom tidlig innsats og fleksibel skolestart hvis man velger en modell som ivaretar hensynet til at tidlig læring kan være positivt for senere læring, slik forslaget om felles førskole med fleksibel skolestart gjør. Fra dette perspektivet blir det viktig at det er et tilstrekkelig tilpasset og godt læringsinnhold i førskolen, særlig dersom førskolen skal erstatte et skoleår i dagens skolesystem. Førskolen bør dermed jobbe aktivt med grunnleggende ferdigheter, men ha en tilnærming som er bedre tilpasset målgruppen. Disse utvalgsmedlemmene vektlegger at opplevelse av mestring i seg selv har en verdi og at det ikke bare er barns fødselsår, men deres utviklingskurve ved skolestart som skal være med å avgjøre når skolen forventer at de skal ha oppnådd et visst nivå av læring. For barn som utvikler seg sent, men vanlig, og for barn som har vedvarende svakere forutsetninger for læring, kan en slik effekt være positiv for deres læring.
 
-Særmerknader
-Utvalgsmedlem Monsen vektlegger at den eksisterende ordningen for lærerspesialister ikke er
-ferdig evaluert. Utvalgsmedlemmet fremhever at
-ordningen er omstridt fordi den griper inn i de forholdene som reguleres av partene i arbeidslivet,
-og at den ikke er vurdert helhetlig i samarbeid
-med de ansattes organisasjoner og arbeidsgiveren
-om hvilke områder man kan trenge ekstra kompetanse på. Utvalgsmedlemmet kan derfor ikke
-slutte seg til forslaget.
+Disse utvalgsmedlemmene mener videre at alternativet ikke er et brudd med de grunnleggende prinsippene om inkludering i grunnopplæringen fordi det er en måte å tilpasse skolen til elevene på. Risiko for stigmatisering ved utsatt skolestart må sammenlignes med risikoen ved dagens løsninger. Det er mye som tyder på at dagens praksis med utstrakt og økende bruk av spesialundervisning ikke har fulgt prinsippet som ligger til grunn i lovverket om at skolen skal tilpasses elevene. Praksisen har også ført til en segregering av elevgruppen som ofte blir permanent ettersom svært få elever får opphevet tiltak om spesialundervisning.
 
-13.6 Flerfaglig samarbeid
-Alle elever har rett til et godt fysisk og psykososialt miljø som fremmer helse, trivsel og læring.
-Skolen skal aktivt og systematisk arbeide for å
-fremme et godt psykososialt miljø, der den
-enkelte elev kan oppleve trygghet og sosial tilhørighet.
-Flerfaglig samarbeid i skolen kan frigjøre tid
-for lærere ved å bistå og tilrettelegge undervisningen. På skolenivå kan flerfaglig samarbeid også
-handle om egne rutiner for skole–hjem-samarbeid for enkelte elever, og rådgivning til elever om
-personlige, sosiale og emosjonelle ferdigheter
-knyttet til opplæringen. Pedagogisk-psykologisk
-tjeneste (PPT) skal blant annet hjelpe barnehager
-og skoler med kompetanse- og organisasjonsutvikling for å legge til rette for barn og elever med
-særskilte behov. I videregående opplæring skal
-oppfølgingstjenesten (OT) støtte og veilede ungdom utenfor opplæring og arbeid.
-Utenfor skolen kan flerfaglig samarbeid
-handle om støtte og veiledning fra kommunale
-helse- og omsorgstjenester, barnevern og sosialtjenester til barn og elever selv og deres familier.
-Skolehelsetjenesten skal bidra i undervisning om
-temaer og tiltak for læringsmiljø, og følge opp
-enkeltelever med psykiske vansker og lidelser.
-Flerfaglig samarbeid kan også innebære mer
-omfattende tiltak som avlastning og omsorgsovertakelse i barnevernet og behandling i kommunehelsetjenesten og spesialisthelsetjenesten.
-Særlovgivningen (pålegger allerede) de ulike
-kommunale tjenestene flerfaglig samarbeid.7 Blant
-annet skal den kommunale primærhelsetjenesten
-7
+Disse medlemmene mener forslaget følger samme prinsipp for opptak til 1. trinn som i dag, men erstatter en streng praksis for opptak etter fødselsår med en praksis der man med utgangspunkt i fødselsår foretar en individuell vurdering for å tilpasse skoletilbudet bedre til elevens utvikling. En forutsetning for at fleksibel skolestart skal fungere godt er at det tas gode avgjørelser om når elever begynner på 1. trinn. Her må hensynet til foreldres medbestemmelse veies mot et mål om likebehandling av elever og faglighet i avgjørelsen om når skolestart skal ta til. Sievertsen (2015) finner at det ikke er tilfeldig hvilke familier som benytter seg av muligheten for utsatt skolestart i Danmark. Muligheten for senere skolestart oppfattes som et gode, og barn med ikke-vestlig opprinnelse har for eksempel lavere sannsynlighet for å starte skolen senere enn den øvrige befolkningen. Dersom utsatt skolestart viser seg å ha positiv effekt på barnas skoleresultater, er det en mulighet for at tiltaket vil bidra til å øke forskjellene i prestasjoner mellom barn med ulik familiebakgrunn hvis det er foreldrene alene som skal avgjøre når barnet skal begynne på skolen. Modellen med felles førskole legger derfor den endelige avgjørelsen om tidspunkt for å begynne på 1. trinn til skolen, og foreldrenes ønsker, kartleggingsverktøy og lærerens/barnehagelærerens skjønn skal tillegges vekt. Det er imidlertid ingen garanti mot forskjellsbehandling i beslutningen om skolestart.
 
-Særlovgivningen brukes ofte om de ulike kommunale sektorlovene, slik som helse- og omsorgstjenesteloven, barnevernloven, barnehageloven og opplæringsloven. Kommuneloven gjelder hele kommunens virksomhet, og regulerer
-i hovedsak de formelle rammene og ansvaret for kommunene.
+Hvis man skal gjennomføre et forskningsprosjekt for å teste tiltaket systematisk bør man studere virkningen av tiltaket på flere måter. Hovedmålet med fleksibel skolestart er i denne sammenheng å redusere kjønnsforskjeller i skoleprestasjoner og fullføring av videregående opplæring. Det er også andre utfall som er viktige, blant annet: barn og unges trivsel på skolen, andelen med spesialundervisning i grunnskolen, andelen med intensiv lese- og skriveopplæring i de første skoleårene, andelen som får diagnose og behandling mot psykiske lidelser i skolealderen, andelen som får diagnosen hyperkinetisk forstyrrelse eller ADHD, andelen som får denne diagnosen etter fødselsmåned og om tiltaket påvirker sosioøkonomiske forskjeller i skoleprestasjoner.
 
-199
+De økonomiske konsekvensene ved tiltaket om felles førskole og fleksibel skolestart består i første omgang av forskning og utredning, jf. kapittel 16. Hvis tiltaket skal prøves ut systematisk vil det bestå i et forskningsprosjekt og ved innføring vil det innebære at førskoleåret krever en annen bemanning enn dagens 1. trinn, i form av barnehagefaglig kompetanse og flere ansatte per barn for å tilrettelegge for lekbasert læring. En systematisk utprøving av tiltaket anslås å ha en samlet kostnad på rundt 100 millioner kroner.
 
-Kapittel 13
+For å illustrere mulige økonomiske virkninger dersom en tiltaksmodell for fleksibel skolestart rulles ut nasjonalt, har utvalget valgt å ta med følgende anslagsvise beregninger, med forbehold om at disse må gjøres på nytt etter en eventuell utredning. Beregningene gjøres for versjoner av tiltaket der henholdsvis én eller to tredjedeler av barna går et helt år i førskole før de går videre til 1. trinn.
 
-samarbeide med skolen dersom skolen ønsker det,
-og barnevernstjenesten skal samarbeide med
-andre sektorer og forvaltningsnivåer dersom det
-kan bidra til å løse barnevernstjenestens oppgaver.
-Skolen har på sin side plikt til å samarbeide om vurdering og oppfølging av barn og unge med helsemessige, personlige, sosiale eller emosjonelle vansker. Barnehager og skoler har opplysningsplikt til
-barnevern og sosialtjeneste om barn og unge det
-er grunn til å være bekymret for. Oppfølgingstjenesten i videregående opplæring har ansvar for
-tverretatlig samarbeid for ungdom utenfor utdanning og arbeid, for eksempel gjennom å formidle
-tilbud fra ulike instanser.8
-Samtidig sier særlovgivningen lite om hvilke
-vilkår som utløser plikten til samarbeid, innhold
-og omfang av samarbeidet og hvem som har ledelsesansvaret. Det er grunn til å regne med at samarbeidet som oppstår i stor grad vil handle om
-gjensidig deling av informasjon, erfaring og kunnskap og utvikling av felles problem- og løsningsforståelse. Slikt samarbeid forutsetter bare frivillig
-tilpasning mellom partene. Flerfaglig samarbeid
-som innebærer å justere egne tiltak for å unngå å
-svekke hverandres måloppnåelse og utvikle felles
-planer og tiltak på tvers av sektorer krever derimot ledelse ettersom det er nødvendig å treffe
-bindende beslutninger som avveier kryssende
-interesser og hensyn (Difi, 2014).
-Det er forholdsvis små personalressurser
-knyttet til skolen som kan arbeide systemrettet
-med det psykososiale miljøet ved skolen og understøtte barn og elevers personlige, sosiale og emosjonelle utvikling. Totalt er det om lag 3000 årverk
-eller ansatte i stillinger som sosialpedagogisk rådgiver eller helsesykepleier i skolehelsetjenesten
-og rundt 1900 årsverk i fagstillinger i PPT. Selv
-om det også er andre faggrupper i skolen som miljøarbeidere og miljøterapeuter, er denne grunnbemanningen i relevante stillinger fordelt på 630 000
-elever på 2 830 grunnskoler svært lav.
-Kunnskapsgrunnlaget tyder på at det er positive virkninger av å styrke den flerfaglige kompetansen i skolen, for eksempel gjennom å utbygge
-skolehelsetjensten og etablere flerfaglige grupper
-knyttet til skolen. Kunnskapsgrunnlaget viser også
-tydelig at sosiale og emosjonelle ferdigheter er forutsetninger for læring, og at det psykososiale miljøet ved skolen kan påvirke alle elevers læring. Gutter synes å benytte seg av skolehelsetjenesten i noe
-8
+For alternativet der seksåringene starter i førskole beregnes tiltaket å medføre en reduksjon i statens utgifter til grunnskole på rundt 4 milliarder kroner i året for versjonen med en tredjedel av barna i førskole et år og rundt 900 millioner kroner i året for versjonen med to tredjedeler av barna i førskole et år. Reduksjonen i utgifter skyldes at henholdsvis to tredjedeler eller en tredjedel av elevene skal gå ett år mindre i grunnskolen enn i dag med dette alternativet. For alternativet der femåringene starter i førskole beregnes tiltaket å medføre en reduksjon i statens samlede utgifter til barnehage og grunnskole på rundt 4,5 milliarder kroner i året for versjonen med en tredjedel av barna i førskole et år og rundt 1,4 milliarder kroner i året for versjonen med to tredjedeler av barna i førskole et år. Reduksjonen i utgifter skyldes at et helt årskull med dette alternativet skal gå ett år mindre i barnehage enn i dag, samtidig som kun henholdsvis én eller to tredjedeler av elevene skal gå ett år mer i grunnskolen enn i dag. Imidlertid påløper det med dette siste alternativet en samlet investeringskostnad på omtrent 6 milliarder kroner til endringer av fysiske strukturer for å ta inn en hel elevkohort til i grunnskolen.[^63]
 
-I tillegg har de kommunale sektorene plikt til å samarbeide
-om såkalt individuell plan for barn og unge med behov for
-et helhetlig, koordinert og individuelt tilpasset tjenestetilbud.
+Disse utvalgsmedlemmene vurderer at de økonomiske innsparingene som følger av dette alternativet bør brukes til å finansiere utvalgets forslag om utvidelser av skoletilbudet etter grunnskolen, jf. kapittel 15.
 
-[Side 202]
+## En mer variert skoledag for alle elever
 
-200
+I overgangen fra barnehage til skole er det betydelige endringer i hvordan hverdagen til barna organiseres. Fra en barnehagehverdag preget av mye utetid og fysisk aktivitet, går barna over til en mer stillesittende skolehverdag med undervisningsøkter som brytes opp av kortere pauser og friminutter. Skolene står fritt til å organisere skolehverdagen på ulike måter, så lenge undervisningen som regel foregår mellom klokken 08.00 og 15.30. Samtidig er skolenes muligheter til å organisere skolehverdagen på ulike måter begrenset av det totale timetallet elevene har rett til, det fastsatte timetallet for det enkelte fag, samt lærernes arbeidstidsavtale som regulerer tiden lærerne skal være disponible på skolen.
 
-Kapittel 13
+I overgangen fra barnehage til skole endres også barnas hverdag ved at skoledagen er ferdig tidligere enn det barnehagedagen er for de fleste barn. Dette åpner for organiserte og uorganiserte fritidsaktiviteter. I starten av grunnskolen går de fleste barn i skolefritidsordningen (SFO) utenom ordinær skoletid. Andelen elever som benytter seg av tilbudet synker med årstrinnene, og på 4. trinn av grunnskolen er det bare én av tre elever som er i SFO. Det finnes ingen rammeplan, bemanningsnorm eller utdanningskrav for personalet i SFO. Kommunen skal imidlertid tilby gratis leksehjelp til elever i grunnskolen. Dersom leksehjelpen blir organisert som en del av SFO skal det ikke tas betalt for tiden eleven mottar leksehjelp. I motsetning til barnehager er det ingen makspris for SFO, og kommunene bestemmer prisen. Enkelte kommuner har redusert pris for familier med lav inntekt.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-mindre grad enn jenter, men likevel benytter de
-seg av tilbudet i betydelig omfang. Samtidig viser
-kunnskapsgrunnlaget at gutter og jenter i alderen
-4–12 år i økende grad velger seg kjønnsdelte vennegrupper og at omfanget av tidsbruk, delt forståelse og delte interesser innad i hver av disse gruppene gjør at det er snakk om to subkulturer med
-hvert sitt psykososiale miljø. Guttegruppene søker
-og oppnår også større autonomi fra voksne.
-Dersom gutter og jenter påvirkes av ulike,
-kjønnsdelte psykososiale miljø med hvert sitt sett
-av normer og regler, er det godt tenkelig at miljøforskjellene også bidrar til kjønnsforskjeller i skoleprestasjoner. Det kan også være spesielt vanskelig for skolen å skape effektive tiltak for å bedre
-gutters psykososiale miljø siden disse miljøene er
-mer tilbaketrukne fra voksenkontakt og også kan
-ha indre mekanismer som skjermer gruppen fra
-voksnes innsyn og inngripen.
 Utvalgets vurderinger
-Med større faglig fordypning og spesialisering i
-lærerutdanningene øker også behovet for andre
-yrkesgrupper i skolen. Dette kan gi et større
-behov for et lag rundt læreren. En del nyutdannede lærere forlater læreryrket etter kort tid og
-det er mulig at dette kunne forebygges med mer
-flerfaglig støtte. Etter utvalgets vurdering er selv
-ikke en opptrappingsplan for å øke grunnbemanningen i skolen tilstrekkelig for å sikre et effektivt
-flerfaglig samarbeid. Grunnbemanningen i dag er
-svært lav, og behovet er betydelig. Det betyr etter
-utvalgets mening at skolene i langt større grad
-bør utnytte ressursene som finnes utenfor skolen i
-relevante kommunale tjenester, slik som primærhelsetjenesten, barnevernet og sosiale tjenester.
-En mulighet er å innføre krav i særlovgivningen om tilstedeværelse av flerfaglige team i alle
-barnehager og på alle skoler som skal bestå av
-representanter for skolehelsetjenesten, PPT, barnevern, sosiale tjenester og ved behov, flyktningetjenesten og habiliteringstjenesten. I tillegg til
-bedre utnyttelse av de totale kommunale ressursene, vil tilstedeværelse av teamet der barna faktisk er forenkle observasjon og utredning og sikre
-raskere og mer tilpasset støtte gjennom et tettere
-samarbeid mellom tjenestene. Det er mulig at
-dette kan bidra til færre enkeltvedtak om spesialundervisning, ettersom barna kan få riktig oppfølging tidligere i opplæringsløpet.
-Med et større mangfold av profesjonsgrupper
-og tjenester i skolen er et reelt flerfaglig samarbeid avgjørende for å bruke disse ressursene
-effektivt. Et faremoment er at flerfaglige grupper i
 
-for stor grad individualiserer skolevansker i stedet
-for å jobbe systemrettet. Det eksisterer en ubalanse i dagens regelverk ved at skolehelsetjenesten er forpliktet gjennom sine nasjonale retningslinjer til å tilby skolen å samarbeide om systemrettede tiltak, mens skolen kun er forpliktet til
-å samarbeide om elevers individuelle vansker.
-Utvalget mener derfor at et nytt lovkrav bør vektlegge at de flerfaglige teamene skal arbeide systemrettet med det psykososiale miljøet, og støtte
-enkeltbarns læring og utvikling.
-Utvalget mener at forankring i skolens ledelse
-er avgjørende for å få gjennomført tiltak rettet mot
-å bedre det psykososiale miljøet på skolenivå.
-Dette kan være viktigere for gutters skolemestring ettersom de forholder seg til et større vennemiljø som ofte har lite voksenkontakt. Etter utvalgets vurdering er ledelse derfor en forutsetning
-for at strengere krav i særlovgivningen til flerfaglig samarbeid skal gi bedre retningsvalg og prioriteringer av de totale kommunale ressursene.
-Utvalget mener skoleledelsen bør ha ledelsesansvaret for de flerfaglige teamene. I dag er skolehelsetjenesten en del av de kommunale helse- og
-omsorgstjenestene, og skal samarbeide med skolene i den grad skolen ønsker det. Med en slik løsning mener utvalget at det faglige og administrative ledelsesansvaret for hele skolehelsetjenesten
-bør overføres til skoleledelsen fordi ledelsesansvaret dermed blir entydig plassert, og det vil
-kunne gi bedre utnyttelse av de totale kommunale
-ressursene. Av samme grunn mener utvalget at
-det bør utredes nærmere å overføre ansvaret for
-oppfølgingstjenesten fra fylkeskommunen til kommunene. De fleste aktuelle oppfølgingstiltakene
-ligger uansett i kommunene hvor ungdommene
-er bosatt, med unntak av tilbudet om videregående opplæring, og det er kommunene som bærer
-alle kostnadene ved slike oppfølgingstiltak.
-På den annen side mener utvalget at krav i
-særlovgivningen om flerfaglige team i alle barnehager og på alle skoler innebærer en betydelig
-detaljregulering av kommunenes organisering og
-ressursbruk. Det kan finnes andre måter å organisere det flerfaglige samarbeidet på som fungerer
-bedre, eller det kan hende at betingelsene for at
-en organiseringsform skal fungere varierer mellom ulike kommuner. Et slikt krav er heller ikke
-nødvendigvis heldekkende for de faggruppene
-som faktisk arbeider i skolen eller i ulike tjenester
-rundt skolen med barn og unges psykososiale
-miljø. Mange i slike stillinger har sosialfaglige
-utdanninger som barnevernspedagoger, sosionomer og vernepleiere (såkalt BSV-utdanninger), og
-de har opp mot 50 ulike stillingsbetegnelser i sko-
+Som tidligere beskrevet er det ikke sikkert at de betydelige kjønnsforskjellene i skoleprestasjoner på ungdomsskolen i vesentlig grad skyldes ulik utvikling i tidlige barneår. Kjønnsforskjellene i skoleprestasjoner i starten av grunnskolen er ganske små, og de er ikke entydig i jentenes favør. Kunnskapsgrunnlaget viser imidlertid at jenter er bedre enn gutter til selvregulering allerede fra femårsalderen, og at slike ferdigheter henger sammen med skoleprestasjoner. Samtidig er ikke kjønnsforskjeller i selvregulering stabile på tvers av land. Det antyder at foreldrenes forventninger, oppdragelse og støtte til barnas læring også kan fremme selvregulering.
 
-[Side 203]
+Gutter er i gjennomsnitt mer fysisk aktive og får bedre karakter i kroppsøving enn jenter. Kunnskapsgrunnlaget finner ikke entydig belegg for at fysisk aktivitet bedrer skoleprestasjoner. Det er uklart hvilke aspekter ved fysisk aktivitet som eventuelt bidrar til økt læring, og uansett vil øvelse i en spesifikk kognitiv ferdighet gi større forbedring av denne ferdigheten enn generell fysisk aktivitet. Enkelte studier finner at læring i sammenheng med fysisk aktivitet kan være fordelaktig for gutter. Det gjør imidlertid lite fra eller til for de som drar nytte av mer stillesittende læring, slik som høyt presterende jenter. Kunnskapsgrunnlaget viser imidlertid at aktivitetspauser i klasserommet kan forbedre elevenes oppmerksomhet og konsentrasjonsevne, og at elever presterer bedre på tester dersom testene er lagt etter pauser.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Etter utvalgets vurdering kan tiltak for en mer variert skolehverdag ta hensyn til forskjeller i fysisk aktivitet og evne til selvregulering mellom gutter og jenter. Formålet med slike tiltak vil være å lage en skolehverdag med større variasjon i aktiviteter og bedre muligheter for at elever med ulikt utgangspunkt og progresjon kan lykkes innenfor de samme læreplanmålene.
 
-len selv om de fyller mange av de samme funksjonene. I tillegg har barne- og ungdomsarbeidere og
-ufaglærte assistenter beslektede stillinger som
-miljøarbeidere i skolen, og med lignende vilkår
-som ansatte med sosialfaglige høyere utdanninger. En klar ulempe med strengere reguleringer i
-særlovgivningen er dermed at bestemmelsene
-ikke dekker alle relevante faggrupper som bør
-inngå i et flerfaglig samarbeid.
-I tillegg er det store kompetanseforskjeller
-mellom faggruppene som inngår i det flerfaglige
-samarbeidet. Den relevante faglige kompetansen
-til sosialpedagogiske rådgivere, barne- og ungdomsarbeidere og ufaglærte assistenter er trolig
-ganske lav. Den relevante kompetansen til helsesykepleiere og ansatte med sosialfaglige utdanninger er trolig større. Den tyngste relevante kompetansen ligger hos psykologer, enten i PPT eller
-knyttet til den kommunale helse- og omsorgstjenesten. Strengere reguleringer i særlovgivningen
-vil kunne redusere kommunenes muligheter til å
-prioritere faggrupper med kompetansen de
-mener er best for å løse oppgavene, og utnytte
-sine totale økonomiske ressurser til det beste for
-elevene.
-Utvalget mener til slutt at et slikt krav til flerfaglig samarbeid vil fraskrive kommunenivået
-ansvaret for helheten i det kommunale tjenestetilbudet. En profesjonell kommuneledelse evner å
-unytte potensialet i kommunens samlede flerfaglige kompetanse. Etter utvalgets vurdering er det
-nødvendig å plassere ledelsesansvaret for det flerfaglige samarbeidet på kommunenivået og ikke på
-den enkelte kommunale tjeneste eller sektor.
-Utvalget mener derfor at det heller bør innføres krav om flerfaglig samarbeid i selve kommuneloven for å sikre systemrettet arbeid med det
-psykososiale miljøet i alle barnehager og skoler,
-og støtte til det enkelte barns læring og utvikling.
-Et slikt krav i kommuneloven bør kombineres
-med å oppheve de detaljerte bestemmelsene i
-særlovgivningen om bestemte oppgaver, funksjoner og tjenester i de ulike kommunale sektorene.
-Utvalget mener det bør utredes nærmere om følgende bestemmelser kan oppheves:
-– retten til sosialpedagogisk rådgivning, jf. opplæringsloven § 9-2 og kapittel 22 i forskrift til
-opplæringsloven.
-– plikten til å ha en skolehelsetjeneste, jf. helse- og
-omsorgstjenesteloven § 3-2 og forskrift om kommunens helsefremmende og forebyggende
-arbeid i helsestasjons- og skolehelsetjenesten.
-– plikten til pedagogisk-psykologisk tjeneste
-som omhandler kompetanseutvikling og organisasjonsutvikling, jf. opplæringsloven § 5-6.
+En mulighet er å innføre begrensninger i regelverket for lengden på en ordinær skoletime og fastsette et minimum antall pauser i løpet av en skoledag for ulike trinn i grunnskolen. Ettersom kunnskapsgrunnlaget viser at det er kjønnsforskjeller i selvregulering i skolestartalder, er det etter utvalgets vurdering trolig at en stillesittende og lite variert skolehverdag med lange økter og få pauser er mindre egnet for gutter enn for jenter. Etter utvalgets vurdering er det imidlertid risiko for at skolenes begrensede organisatoriske muligheter til å skape en mer variert skolehverdag gjør at tiltaket ikke vil ha ønsket effekt eller vil være gjennomførbart. I tillegg mener utvalget at en slik regelverksendring innebærer en betydelig detaljstyring av skolen, som særlig vil frata lærerne og skolen fleksibilitet i organiseringen av undervisningen. Et slikt regelverk vil også være krevende for staten og kommunene å håndheve.
 
-–
+En annen mulighet er å innføre en egen rammeplan for skolefritidsordningen for å gi hele skolehverdagen et mer pedagogisk og variert innhold. En slik rammeplan kan bygge på rammeplanen for barnehagens vektlegging av utforsking og undring hos barnet, og dermed skape større pedagogisk sammenheng mellom barnehagen og grunnskolen. En rammeplan for SFO vil kunne gi en bedre ramme for fysisk aktivitet, fritidsaktiviteter og leksehjelp, men bør også ha betydelig rom for frilek for barna. Etter utvalgets vurdering legger dette forslaget videre til rette for at skolene gjennom SFO kan videreføre lekbaserte språkaktiviteter og aktiviteter for å utvikle barns sosiale og emosjonelle ferdigheter som de vil kjenne igjen fra barnehagen.
 
-201
+Det finnes lite kunnskap om effekten av tilbudet i SFO for barnas læring og utvikling. Enkelte studier antyder at dagens tilbud har en svak negativ effekt på skoleprestasjoner sammenlignet med om barna var hjemme med foreldrene. Kunnskapsgrunnlaget viser også at gutter og jenter bruker fritiden sin ulikt, der gutter i mindre grad bruker tid på læringsfremmende aktiviter som lesing og lekser enn jenter. Gutter bruker noe mer tid på internett enn jenter, og en større andel gutter spiller dataspill. Jenter bruker på sin side mer tid på sosiale medier enn gutter. Forslaget om en tydeligere ramme for aktivitetene i SFO gjennom en rammeplan, vil kunne redusere forskjeller i hvordan gutter og jenter bruker fritiden sin på læringsfremmende aktiviteter. Etter utvalgets vurdering har derfor SFO et stort ubrukt potensial til å kunne redusere forskjeller mellom gutter og jenters læring og utvikling i starten av grunnskolen.
 
-Kapittel 13
+Samtidig mener utvalget at potensialet til å ivareta ulike behov blant elever med ulikt utgangspunkt og utvikling vil være begrenset ved dette forslaget. Det skyldes at SFO ikke er obligatorisk. Ettersom ikke alle barn er i SFO kan heller ikke skolene samarbeide med SFO om å organisere undervisningen av fagene i grunnskolen vesentlig annerledes enn det de gjør i dag, for eksempel ved kortere undervisningsøkter spredt utover en større del av dagen. Utvalget mener også at en betydelig faglig nivåheving av tilbudet vil kunne få negative sosiale konsekvenser dersom tilbudet forblir valgfritt, ved at barna i SFO får en faglig fordel som andre barn ikke får. Det er dermed en risiko for at forslaget øker, heller enn reduserer, forskjellene i skoleprestasjoner etter sosial bakgrunn.
 
-plikten til å ha en oppfølgingstjeneste for ungdom, jf. opplæringsloven § 3-6 og kapittel 13 i
-forskrift til opplæringsloven.
+En tredje mulighet er å innføre en obligatorisk heldagsskole for alle elever på 1.–4. trinn, men uten å utvide timetallet i de ulike undervisningsfagene som er fastsatt etter dagens fag- og timefordeling. Et minstealternativ kan være å utvide det totale timetallet på 1.–4. trinn innenfor gjeldende regulering av hvilken tid på dagen undervisningen kan foregå (kl. 08.00–15.30). Dette vil i praksis bety en utvidelse av dagens skoledag med omtrent to timer i gjennomsnitt per dag fordelt på alle småskoletrinnene. Med et slikt forslag vil det fremdeles være behov for SFO fra og med rundt kl. 15.00. Et maksimumsalternativ er å innlemme hele SFO i skoledagen på småskoletrinnet, slik at heldagsskolen løper frem til kl. 17.00, og der en mulighet er at SFO-ansatte bemanner tiden som ikke går til undervisning.
 
-Utvalget mener at et krav om flerfaglig samarbeid
-i kommuneloven må legge til grunn at samarbeidet skal være forankret i den enkelte barnehage
-og skole. Skolen og barnehagen er arenaer hvor
-alle barn er samlet og oppholder seg over lengst
-tid, og de er dermed best posisjonert av de kommunale velferdstjenestene til å oppdage behov tidlig. Elever og foreldre oppsøker i liten grad selv
-de andre velferdstjenestene – særlig gjelder dette
-for gutter. For det andre har fullført utdanning
-positive effekter på barn og unges livsløp. Etter
-utvalgets vurdering betyr det at barnevern, helsetjenester og sosiale tjenester også bør være innrettet mot å øke sannsynligheten for at elevene fullfører utdanning. Etter utvalgets vurdering er det
-videre avgjørende at et slikt krav i kommuneloven
-legger til grunn at kommunene må plassere ledelsesansvaret for det flerfaglige samarbeidet et
-entydig sted i sin organisasjon.
-I tillegg kan kravet i kommuneloven om flerfaglig samarbeid inneholde en nedre grense for
-kvalitet og en oppfølgingsplikt for kommuner som
-faller under grensen, for eksempel knyttet til indikatorer for psykisk helse blant barn og unge, kartlegginger av barns utvikling før skolealder eller
-lignende. I skolesektoren finnes det allerede en
-slik nedre grense for kvalitet basert på et bredt
-indikatorsett for læringsresultater og læringsmiljø, og kommuner som faller under denne grensen tilbys kompetanseutvikling gjennom den
-såkalte oppfølgingsordningen. Ettersom forslaget
-vil innebære en betydelig utvidelse av kommunenes organisatoriske handlingsrom, mener utvalget at det bør følges av et forskningsprogram om
-effektene av ulike organisatoriske og innholdsmessige modeller for flerfaglig samarbeid.
-Med økt frihet for kommunene til å organisere
-det flerfaglige samarbeidet, bør også kommunenes økonomiske muligheter for å styrke relevante
-stillinger og yrkesgrupper i det flerfaglige samarbeidet økes. Det finnes i dag bemanningsnormer
-for ulike kommunale sektorer.9 I grunnskolen finnes det objektive bemanningsnormer i form av
-tallfestede regler om maksimalt antall elever per
-lærer på skolenivå. Utvalget ønsker å påpeke at et
-godt og inkluderende læringsmiljø ikke bygges
-9
+Et flertall i utvalget foreslår at det innføres en obligatorisk heldagsskole på 1.–4. trinn, men uten å utvide timetallet i fagene. For timetallet som ikke er undervisnings bør det innføres en rammeplan for timene som omfattes av utvidelsen. Rammeplanen kan bygge på rammeplanen for barnehagens vektlegging av utforsking og undring hos barnet, og dermed skape større pedagogisk sammenheng mellom barnehagen og grunnskolen. En slik rammeplan bør gi rammer for fysisk aktivitet, fritidsaktiviter, leksehjelp, og fordypning i ulike læringsaktiviteter, men bør også gi betydelig rom for frilek for barna. Ettersom tiltaket ikke medfører en økning i antall undervisningstimer, vil ikke tiltaket innebære en økning i lærernes undervisningsplikt (leseplikt). Ettersom undervisningstimene skal spres utover et lengre tidsrom enn i dagens småskole, vil tiltaket imidlertid medføre en utvidelse av tiden som lærerne må være disponible på skolen.
 
-Det er allerede innført kompetansekrav for den kommunale helse- og omsorgstjenesten ved at alle kommuner skal
-ha lege, sykepleier, fysioterapeut, jordmor og helsesøster.
-Det skal også innføres krav om psykologkompetanse i alle
-kommuner.
+I motsetning til forslaget om en rammeplan for SFO vil forslaget om en heldagsskole etter utvalgets vurdering kunne legge til rette for en vesentlig annerledes organisering av skolehverdagen. En heldagsskole langs disse linjene vil gjøre det mulig å gjennomføre undervisningen i kortere økter spredt utover en større del av skoledagen. En lengre skoledag vil også gjøre det enklere for lærere å organisere ekstra undervisningsstøtte til elever som henger etter i undervisningsfagene og fordypning i ulike læringsaktiviteter for elever som ønsker det.
 
-[Side 204]
+Etter utvalgets vurdering er det også trolig at en slik heldagsskole vil komme barn fra familier med en lav sosioøkonomisk bakgrunn særskilt til gode, ettersom de vil kunne få mer støtte i sin faglige og sosiale utvikling i en viktig fase av grunnskolen. Ettersom forslaget utvider timetallet i den ordinære grunnskolen og dermed er obligatorisk og gratis, kan tilbudet særlig komme elever til gode som i dag ikke går i SFO, for eksempel av økonomiske årsaker.
 
-202
+På den annen side innebærer forslaget at elevene må være i «skolemodus» i et lengre tidsrom enn det som er tilfellet i dag ved at undervisningsøktene spres utover en lengre skoledag. For enkelte elever er det mulig at en slik skolehverdag vil oppleves som enda mer belastende enn det skolen allerede oppleves som i dag. For eksempel er det risiko for at gutter vil ha størst problemer med å oppholde seg over et lengre tidsrom i skolemiljøet. Enkelte gutter kan ha et særlig selvhevdende handlingsmønster som kan være strevsomt å opprettholde over en lengre skoledag, og kan dermed ha behov for å skifte arena i løpet av dagen. Det kan også være at det å ha undervisning for langt utpå dagen er negativt for de yngste barna, dersom konsentrasjonen deres avtar utover skoledagen.
 
-NOU 2019: 3
+Forslaget innebærer også at den obligatoriske grunnskolen beslaglegger en enda større del av barnas hverdag enn i dag. Elevene kan generelt ha behov for å kunne være for seg selv, og selv velge sine fritidsarenaer og aktiviteter utenfor skolen. Forslaget kan begrense tiden barna får sammen med foreldrene sine, og vil også begrense foreldrenes frihet til å organisere barnas og familiens hverdag slik de ønsker. Samtidig kan skolearenaen være et bedre alternativ for elever som har begrensede ressurser, fritidsmuligheter, eller muligheter til samvær med voksne etter skoletid.
 
-Kapittel 13
+Utvalget mener det bør utredes nærmere hvilke utdanningskrav som bør stilles til personalet som skal ha ansvaret for timene som ikke er undervisning i fag, samt eventuelle behov for å opprette nye tilbud for videreutdanning. De økonomiske kostnadene ved et minstealternativ av heldagsskolen er beregnet å koste staten omtrent 3 milliarder kroner i året. Et maksimumsalternativ av tiltaket, der heldagsskolen innebærer en total innlemmelse av SFO i heldagsskoletilbudet, er beregnet å koste staten omtrent 8,1 milliarder kroner i året, jf. kapittel 16. Det kan legges til grunn at det vil være en viss innsparing knyttet til at barna tilbringer mindre tid i SFO enn i dag. En gratis heldagsskole vil videre gjøre det mulig for foreldre å være fulltidssysselsatt i større grad. Samfunnøkonomisk medfører derfor forslaget en omfordeling av kostnader som i dag ligger hos barnets foreldre.
 
-Nye sjanser – bedre læring
-
-gjennom enfaglig kompetanse, og at lærere trenger et reelt flerfaglig team rundt seg for å ivareta
-samfunnsoppdraget.
 Utvalget anbefaler
-–
 
-innføre krav om flerfaglig samarbeid i kommuneloven for å sikre systemrettet arbeid med det
-psykososiale miljøet i alle barnehager og skoler og støtte til det enkelte barns læring og
-utvikling.
+- innføre obligatorisk heldagsskole for alle elever på 1.–4. trinn, men uten å utvide timetallet i fagene. For timene som ikke er undervisning i fag bør det innføres en rammeplan som gir rammer for fysisk aktivitet, fritidsaktiviter, leksehjelp, og fordypning i ulike læringsaktiviteter, men som også gir betydelig rom for frilek.
 
 Særmerknader
-Utvalgsmedlemmer Kirkebirkeland og Nereid
-mener at dagens bemanningsnormer binder opp
-kommunenes økonomiske og organisatoriske
-muligheter til å utnytte de totale ressursene i kommunene best mulig. Disse medlemmene vil også
-peke på at det finnes en rekke ulike øremerkede
-tilskudd til det kommunale arbeidet for barn og
-unge som kunne vært brukt bedre for å styrke
-flerfaglig samarbeid dersom kommunene hadde
 
-større muligheter for gjøre egne økonomiske prioriteringer.10 Utvalgsmedlem Nereid mener bemanningsnormen for lærere i grunnskolen bør erstattes med en generell bemanningsnorm for personell i grunnskolen med relevant høyere skole-,
-sosial- og helsefaglig utdanning. En slik løsning vil
-gi kommunene større organisatorisk og økonomisk handlingsrom til å skape et reelt flerfaglig
-samarbeid på skolenivå, og samtidig sikre en
-grunnbemanning i alle grunnskoler. Lærernormen fortrenger i praksis andre yrkesgrupper fra
-skolen. En generell bemanningsnorm som forutsetter at personalet har relevant høyere utdanning
-ville ikke gjøre det mulig for kommunene å oppfylle normen ved å øke bruken av assistenter og
-ikke-kvalifisert personell.
-
-10
-
-En ekspertgruppe gjennomgikk nylig i rapporten Områdegjennomgang av øremerkede tilskudd i kommunesektoren
-finansieringen av kommunene, og foreslår å innlemme
-flere konkrete øremerkede tilskudd til det kommunale
-arbeidet for barn og unge.
-
-[Side 205]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-203
-
-Kapittel 14
-
-Kapittel 14
-
-Grunnskolens innhold og organisering
-Grunnskolen bygger på prinsippet om at alle
-elever skal fullføre med likeverdig kompetanse,
-og være kvalifisert til å søke på alle utdanningsprogrammene i videregående opplæring. Grunnskolen skal også være en inkluderende opplæringsarena for alle elever.
-En større tilrettelegging av grunnskolens innhold og organisering etter gutter og jenters
-kjønnstypiske interesser, motivasjon og holdninger kan bidra til mer læring. På den annen side
-kan økt tilrettelegging i grunnskolen føre til mer
-kjønnstypiske utdanningsvalg som på lengre sikt
-kan skape mer kjønnsubalanse i senere utdanning
-og arbeidsliv. Økt tilrettelegging kan også gå på
-bekostning av læring av undervisningsfag og
-ferdigheter som er viktige for livet senere. Utvalgets anbefalinger forsøker å balansere disse ulike
-hensynene.
-
-14.1 Undervisningsfagene
-i grunnskolen
-Læreplanverket styrer i stor grad det faglige innholdet i grunnskolen gjennom å fastsette timetall,
-kompetansemål og vurderingsform i de ulike
-undervisningsfagene. Det pågående arbeidet med
-fagfornyelsen innebærer at grunnskolen får et
-nytt læreplanverk fra 2020. Læreplanene skal bli
-mer relevante for fremtidens kompetansebehov
-og ha tydeligere prioriteringer og sammenhenger
-mellom fagene som legger til rette for dybdelæring. Demokrati og medborgerskap, bærekraftig
-utvikling og folkehelse og livsmestring skal inngå
-som tverrfaglige temaer i læreplanene for alle fag
-der det er relevant.
-
-14.1.1 Læreplaner for undervisningsfag
-Dersom dagens fag- og timefordeling skal beholdes er det etter utvalgets vurdering særlig vektleggingen av fysisk aktivitet, livsmestring og psykisk helse, og holdninger til kjønnsmangfold i
-
-fagenes innhold, som kan redusere kjønnsforskjellene i grunnskolen.
-Kroppsøving er det eneste faget i grunnskolen
-der guttene får bedre standpunktkarakterer enn
-jentene i gjennomsnitt, og fysisk aktivitet er også
-det valgfaget i grunnskolen som flest gutter velger. Kunnskapsgrunnlaget viser at fysisk aktivitet
-kan virke positivt for gutter og jenter, men det er
-uklart hvilke aspekter ved fysisk aktivitet som
-bidrar til økte prestasjoner. Forskning viser også
-at læring i forbindelse med fysisk aktivitet virker
-positivt på regneferdighetene for lavt presterende
-elever, og særlig for gutter. Slik læring utgjør derimot lite forskjell for elever som har stort utbytte
-av ordinær undervisning, slik som høyt presterende jenter. Utvalget mener det er grunnlag for å
-styrke faget kroppsøving og fysisk aktivitet i
-grunnskolen. Samtidig pågår det allerede en systematisk utprøving av fysisk aktiv læring og én
-undervisningstime ekstra til kroppsøving. Utvalget anbefaler derfor at ytterligere forslag om å
-styrke fysisk aktivitet eller faget kroppsøving i
-grunnskolen bør vurderes på bakgrunn av resultatene fra denne utprøvingen.
-Kunnskapsgrunnlaget viser også at sosiale og
-emosjonelle ferdigheter påvirker elevenes læring
-gjennom blant annet evnen til selvregulering, og
-at jenter har bedre evner enn gutter til selvregulering fra småbarnsalderen og gjennom skoleløpet.
-Kjønnsforskjeller i selvregulering kan være med
-på å forklare hvorfor jenter får bedre skolekarakterer og gjennomfører høyere utdanning i større
-grad enn gutter. Både gutter og jenter opplever
-skolestress, men det har vært en særlig økning i
-opplevd skolestress for jenter på ungdomstrinnet i
-de siste ti årene. Selvrapporterte depressive
-symptomer har også økt blant jenter i de siste
-årene, noe som kan påvirke frafall senere i opplæringsløpet og inntekt i arbeidslivet. Læring av
-mestringsstrategier for å håndtere skolestress og
-bevisstgjøring av jenter og gutters ulike psykiske
-vansker kan virke forebyggende. Etter utvalgets
-vurdering gir kunnskapsgrunnlaget støtte til å
+*Utvalgsmedlem Kirkebirkeland* mener en heldagsskole kan ha uheldige effekter ved å institusjonalisere barna for mye og ved å utvide tiden elevene er i skolemodus. En utvidelse av skoleplikten bør også brukes med stor varsomhet. Heldagsskolen reduserer barnas fritid og mulig samvær med foreldre og familie. Dette utvalgsmedlemmet viser også til tiltakets høye økonomiske kostnad, og vil heller prioritere andre anbefalte tiltak fra utvalget.

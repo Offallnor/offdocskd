@@ -1,984 +1,274 @@
-# NOU 2026: 10, del 28 av 31 (side 330–340)
+# NOU 2026: 10, del 28 av 35
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/27c3811b-nou-2026-10.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-10/id3170002/
 - Original-PDF: https://www.regjeringen.no/contentassets/2d95077d4a43451bbebcafdaad771fa7/no/pdfs/nou202620260010000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 58 figurer, 168 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 330]
-
-328
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Litteraturliste
-Abbott, A. D. (1988). The System of professions :
-an essay on the division of expert labor. University of Chicago Press.
-Abrahamsson, S. (2024). Smartphone Bans, Student Outcomes and Mental Health. NHH Dept.
-of Economics Discussion Paper No. 01. https:/
-/doi.org/http://dx.doi.org/10.2139/
-ssrn.4735240
-Acemoglu, D. & Restrepo, P. (2018). The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment. American Economic Review, 108(6),
-1488–1542. https://doi.org/10.1257/
-aer.20160696
-Acemoglu, D. & Restrepo, P. (2019). Automation
-and New Tasks: How Technology Displaces
-and Reinstates Labor. Journal of Economic Perspectives, 33(2), 3–30. https://doi.org/
-10.1257/jep.33.2.3
-Acemoglu, D. & Restrepo, P. (2026). Automation
-and Rent Dissipation: Implications for Wages,
-Inequality, and Productivity*. The Quarterly
-Journal of Economics. https://doi.org/
-10.1093/qje/qjag006
-Acemoglu, D. & Robinson, J. A. (2012). Why nations fail : the origins of power, prosperity, and
-poverty. Profile.
-Adressa. (2026). Slik gikk det med studentenes
-karakterer etter at KI kom. Adressa. https://
-www.adressa.no/nyheter/trondheim/i/
-zOg4RO/karakterene-stupte-etter-at-ki-kom
-Advisory Panel for Teacher Education. (2020).
-Transforming Norwegian Teacher Education:
-The Final Report for the International Advisory
-Panel for Primary and Lower Secondary
-Teacher Education (3-2020). https://
-www.nokut.no/globalassets/nokut/rapporter/ua/2020/transforming-norwegian-teachereducation-2020.pdf
-Agder politidistrikt. (2026). Hva kjennetegner
-barn som begår gjentatt alvorlig kriminalitet i
-Agder? Politiet.
-Alfonsi, V., Palmizio, R., Rubino, A., Scarpelli, S.,
-Gorgoni, M., D’Atri, A., Pazzaglia, M., Ferrara,
-M., Giuliano, S. & De Gennaro, L. (2020). The
-Association Between School Start Time and
-
-Sleep Duration, Sustained Attention, and Academic Performance. Nature and Science of
-Sleep, 12, 1161-1172. https://doi.org/10.2147/
-NSS.S273875
-Alfonsi, V., Scarpelli, S., D’Atri, A., Stella, G. & De
-Gennaro, L. (2020). Later School Start Time:
-The Impact of Sleep on Academic Performance
-and Health in the Adolescent Population. International Journal of Environmental Research
-and Public Health, 17(7), 2574.
-Allcott, H., Braghieri, L., Eichmeyer, S. & Gentzkow, M. (2020). The Welfare Effects of Social
-Media. American Economic Review, 110(3),
-629–676. https://doi.org/10.1257/
-aer.20190658
-Allport, G. (1954). The nature of prejudice. Addison-Wesley.
-Altamura, L., Vargas, C. & Salmerón, L. (2025). Do
-New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital
-Reading Habits and Text Comprehension.
-Review of Educational Research, 95(1), 53-88.
-https://doi.org/10.3102/00346543231216463
-Alter, A. (2017). Irresistible : why you are addicted
-to technology and how to set yourself free.
-Vintage.
-Amundsen, B. (2024, 28.09.2024). «Intensivt foreldreskap» har blitt den nye barneoppdragelsen.
-forskning.no. https://www.forskning.no/barnog-ungdom-foreldre/intensivt-foreldreskap-erblitt-den-nye-barneoppdragelsen/2411388
-Andersen, I. S. (2019). Kritisk tenkning. https://
-www.dembra.no/no/fagtekster-og-publikasjoner/artikler/kritisk-tenkning
-Anderson, D. M. (2014). In School and Out of
-Trouble? The Minimum Dropout Age and Juvenile Crime. The Review of Economics and Statistics, 96(2), 318-331. https://doi.org/
-10.1162/REST_a_00360
-Anker, T., Von der Lippe, M. & Sæle, C. (2025).
-Kontroversielle tema i utdanning – hva står på
-spill? https://doi.org/doi:10.18261/
-9788215072722-25
-Anshu. (2025). Emotional intelligence in Teacher
-Effectiveness: A Systmatic Review. Shodh
-
-[Side 331]
-
-NOU 2026: 10
-Fellesskolen
-
-Manjusha: An International Multidisciplinary
-Journal., 02(01), 36-54.
-Anthropic. (2026). Assessing Claude Mythos Preview’s cybersecurity capabilities. https://
-www.anthropic.com/research/mythos-preview
-Applebaum, A. (2020). Twilight of democracy : the
-failure of politics and the parting of friends.
-Allen Lane.
-Applebaum, A. (2024). Autocracy, Inc: The Dictators Who Want to Run the World. Doubleday.
-Arbeiderpartiet & Senterpartiet. (2021). Hurdalsplattformen. https://www.regjeringen.no/no/
-dokumentarkiv/regjeringen-stoere/andredokumenter/smk/2021/hurdalsplattformen/
-id2877252/
-Arbeidsgruppe NFLP. (2023). Forslag til rammer
-for ansvarsdeling og samarbeid om praksisopplæring i lærerutdanningene. Kunnskapsdepartementet. https://www.regjeringen.no/
-contentassets/
-277e4321131c4b6abd03f7fe7ffa14d0/
-2023.05.01_rapport-fraarbeidsgruppe_praksisopplaringen-i-lu-002.pdf
-Arenas-Arroyo, E., Fernández-Kranz, Daniel, Nollenberger, Natalia. (2023). High Speed Internet
-and the Widening Gender Gap in Adolescent
-Mental Health: Evidence from Hospital
-Records. IZA Institute of Labor Economics Discussion Papers., 15728.
-Arnesen, D. & Hansen, V. W. (2024). Kunnskapsoppsummering om barn og undes deltakelse i
-fritidsaktiviteter. Dimensjoner i deltakelse, barrierer, behov og tiltak. Rapport – Senter for
-forskning på sivilsamfunn og frivillig sektor.
-Arnesen, H. S., Steffensen, K., Stolpe, F., Lervåg,
-M.-L. & Keute, A.-L. (2023). Lærerkompetanse
-i grunnskolen Hovedresultater 2021/2022
-(Rapport 2022/50). https://www.ssb.no/
-utdanning/grunnskoler/artikler/laererkompetanse-i-grunnskolen.hovedresultater-20212022/_/attachment/inline/12e55903-5648405c-b8f451b12f15f866:8d9d5ab98a629f8fcfef48756297a
-5a2ad7995bc/RAPP202250_NY%20VERJSON%20feb23.pdf
-Arnesen, H. S., Steffensen, K., Stolpe Foss, E., Lervåg, M.-L. & Keute, A.-L. (2022). Lærerkompetanse i grunnskolen. Statistisk Sentralbyrå Rapporter, 2022/50.
-Arnesen, S. M. K., Jensen, A. R., Patil, G. G. & Berget, B. (2022). Gården som arena for tilpasset
-opplæring: Erfaringer med gård–skole-tilbud i
-et inkluderingsperspektiv. Nordisk tidsskrift
-for utdanning og praksis, 16 (1), 101-118.
-
-329
-
-Litteraturliste
-
-https://doi.org/https://doi.org/10.23865/
-up.v16.3355
-Arnesen, S. M. K., Losnedal, F., Bjørnarå, H. B. &
-Jentoft, N. (2024). Kunnskapsgrunnlag om
-alternative læringsarenaer. NORCE Norwegian Research Center. https://nva.sikt.no/
-registration/0198cc5581fa-2dd57253-89ac4425-9e14-19bbaaff4fba
-Arnevig Samuelsen, Ø., Bergene, A. C., Njølstad
-Vonen, M., Vogsted Drange, C., Sønstelie, N.,
-Torstein, d. B. & Pedersen, C. (2025). Spørsmål
-til Skole-Norge. Analyser og resultater fra
-Utdanningsdirektoratets spørreundersøkelse
-til skoler og skoleeiere våren 2025 (NIFU Rapport 2025:23). Nordisk institutt for studier av
-innovasjon, forskning og utdanning (NIFU).
-Askeland, K. G., Lorentsen, E. S., Raes, E., Kjølbro,
-G., Heradstveit, O. & Hysing, M. (2025). Physical Activity and School Achievement and
-School Absence in Norwegian Adolescents.
-Child & Youth Services, 46(3), 680-698. https:/
-/doi.org/10.1080/0145935X.2024.2426121
-Asker idrettsråd. (2026). Aktive Lokalsamfunn.
-https://www.xn--idrettsrd-d3a.no/viken/
-Asker/idrettsglede-for-alle/aktivelokalsamfunn2/
-Aubrey, C., Godfrey, R. & Dahl, S. (2006). Early
-mathematics development and later achievement: Further evidence. Mathematics Education Research Journal, 18(1), 27-46. https://
-doi.org/10.1007/BF03217428
-Autor, D. (2022). The Labor Market Impacts of
-Technological Change: From Unbridled Enthusiasm to Qualified Optimism to Vast Uncertainty. National Bureau of Economic Research
-Working Paper Series, No. 30074. http://
-www.nber.org/papers/w30074.pdf
-Autor, D., Goldin, C. & Katz, L. F. (2020). Extending the race between education and technology. AEA papers and proceedings,
-Autor, D. H. & Dorn, D. (2013). The Growth of
-Low-Skill Service Jobs and the Polarization of
-the US Labor Market. The American Economic
-Review, 103(5), 1553-1597. http://
-www.jstor.org/stable/42920623
-Baier, T., Lang, V., Grätz, M., Barclay, K. J., Conley,
-D. C., Dawes, C. T., Laidley, T. & Lyngstad, T.
-H. (2022). Genetic Influences on Educational
-Achievement in Cross-National Perspective.
-European Sociological Review, 38(6), 959-974.
-https://doi.org/10.1093/esr/jcac014
-Bakken, A. (2022). Ungdata 2022. Nasjonale resultater. (NOVA Rapport 5/22. NOVA, OsloMet.
-https://img1.custompublish.com/getfile.php/
-
-[Side 332]
-
-330
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-5056656.2331.bqwnbzzqnn7nis/NOVA-rapport-5-2022.pdf?return=www.fritidforalle.no
-Bakken, A. (2024). Ungdata 2024 Nasjonale resultater (NOVA Rapport 6/24. Velferdsforskningsinstituttet NOVA OsloMet­.
-Bakken, A. (2025). Ungdata 2025 Nasjonale resultater (NOVA Rapport. OsloMet – storbyuniversitetet. https://nva.sikt.no/registration/
-0198cc6dbe0b-b7398459-243d-45c6-8982604cc29528d4
-Bakken, A. (2026). Ung i Oslo 2026. Ungdomsskolen og videregående. (NOVA Rapport. OsloMet – storbyuniversitetet. https://nva.sikt.no/
-registration/019e97200659-fbb2f095-3865491b-9c11-7e1305db8b26
-Bakken A., Sletten, M. & Eriksen, I. M. (2018).
-Generasjon prestasjon? Ungdoms opplevelse
-av press og stress. Nordisk tidsskrift for ungdomsforskning, 18. https://utdanningsforskning.no/artikler/2018/generasjon-prestasjon-ungdoms-opplevelse-av-press-og-stress/
-Bandura, A. (1997). Self-efficacy : the exercise of
-control. Freeman.
-Bandura, A. (2006). Toward a Psychology of
-Human Agency. Perspectives on Psychological
-Science, 1(2), 164-180. http://www.jstor.org/
-stable/40212163
-Banerjee, A., Banerji, R., Berry, J., Duflo, E., Kannan, H., Mukerji, S., Shotland, M. & Walton, M.
-(2017). From Proof of Concept to Scalable Policies: Challenges and Solutions, with an Application. Journal of Economic Perspectives, 31(4),
-73-102. https://www.aeaweb.org/articles?id=10.1257/jep.31.4.73
-Barne og familiedepartementet og Digitaliserings.
-og forvaltningsdepartementet. (2025). Høring
-av forslag til lov om aldersgrense for bruk av
-sosiale medier. Barne og familiedepartementet
-& Digitaliserings- og forvaltningsdepartementet. https://www.regjeringen.no/no/
-dokumenter/horing-av-forslag-til-lov-omaldersgrense-for-bruk-av-sosiale-medier/
-id3114359/
-Barnehageloven. (2005). Lov om barnehager
-(LOV-2005-06-17-64). Lovdata. https://lovdata.no/lov/2005-06-17-64
-Barnekonvensjonen. (1989). FNs konvensjon om
-barnets rettigheter av 20. november 1989 (20.
-november 1989). Lovdata. https://lovdata.no/
-lov/1999-05-21-30/KAPITTEL_8
-Barneombudet. (2025). Barnebarometeret 2025.
-Barneombudet. https://www.barneombudet.no/uploads/documents/Publikasjoner/Barnebarometeret-2025-rapport.pdf.pdf
-
-Baron, N. S. (2016). Words onscreen : the fate of
-reading in a digital world (©2015. utg.) Oxford
-University Press.
-Baron, N. S. (2021). How we read now: Strategic
-Choices for Print, Screen, and Audio.
-Baroody, A. J., Lai, M. L. & Mix, K. S. (2014). The
-development of young children’s early number
-and operation sense and its implications for
-early childhood education. I I. B. Spodek & O.
-N. Saracho (Red.), Handbook of research on
-the education of young children (s. 205-240).
-Routledge.
-Barret, M. (2020). The Council of Europe’s Reference Framework of Competences for
-Democratic Culture: Policy context, content
-and impact. London Review of Education, 18.
-https://files.eric.ed.gov/fulltext/
-EJ1251647.pdf
-Barrett, P., Davies, F., Zhang, Y. & Barrett, L.
-(2015). The impact of classroom design on
-pupils’ learning: Final results of a holistic,
-multi-level analysis. Building and Environment,
-59. https://doi.org/10.1016/j.buildenv.2015.02.013
-Barziali, S. & Chinn, C. A. (2020). A review of educational responses to the «post truth» condition: Four lenses on «post-truth»problems.
-Educational Psychologist. https://www.tandfonline.com/doi/pdf/10.1080/
-00461520.2020.1786388
-Bastani, H., Bastani, O., Sungu, A., Ge, H.,
-Kabakcı, O. & Mariman, R. (2024). Generative
-AI Without Guardrails Can Harm Learning:
-Evidence from High School Mathematics. Working Paper. https://hamsabastani.github.io/
-education_llm.pdf
-Bateson, P. (2015). Playfulness and creativity. Current Biology, 25(1), R12-R16. https://doi.org/
-https://doi.org/10.1016/j.cub.2014.09.009
-Baumann, Z. (2001). The individualized society.
-Polity Press.
-Baumeister, R. F. & Leary, M. R. (1995). The need
-to belong: Desire for interpersonal attachments as a fundamental human motivation.
-Psychological Bulletin, 117(3), 497–529.
-Baumert, J., Kunter, M., Blum, W., Brunner, M.,
-Voss, T., Jordan, A., Klusmann, U., Krauss, S.,
-Neubrand, M. & Tsai, Y.-M. (2010). Teachers’
-Mathematical Knowledge, Cognitive Activation
-in the Classroom, and Student Progress. American Educational Research Journal, 47(1), 133180. https://doi.org/10.3102/
-0002831209345157
-Baumol, W. J. (1967). Macroeconomics of Unbalanced Growth: The Anatomy of Urban Crisis.
-
-[Side 333]
-
-NOU 2026: 10
-Fellesskolen
-
-The American Economic Review, 57(3), 415426. http://www.jstor.org/stable/1812111
-Bayer, P. J., Blair, P. Q., Whaley, K. . (2023). Does
-the United States Spend Enough on Public
-Schools and Teachers? NBER Working Paper.
-https://sites.duke.edu/patrickbayer/files/
-2021/10/
-Are_We_Spending_Enough_on_Schools.pdf
-Beck, K. (2025). The later the better? A novel
-approach to estimating the effect of school starting age on ADHD and academic skills. European Sociological Review, 41. https://doi.org/
-10.1093/esr/jcaf004
-Beck, U. & Beck-Gernsheim, E. (2002). Individualization. Institutionalized Individualism and its
-Social and Political Consequences. SAGE
-Publications.
-Bender, E. M., Gebru, T., McMillan-Major, A. &
-Shmitchell, S. (2021). On the Dangers of
-Stochastic Parrots: Can Language Models Be
-Too Big? ? Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, Virtual Event, Canada. https://
-doi.org/10.1145/3442188.3445922
-Bengio, Y., Hinton, G., Yao, A., Song, D., Abbeel, P.,
-Darrell, T., Harari, Y. N., Zhang, Y.-Q., Xue, L.,
-Shalev-Shwartz, S., Hadfield, G., Clune, J.,
-Maharaj, T., Hutter, F., Baydin, A. G., McIlraith,
-S., Gao, Q., Acharya, A., Krueger, D., Dragan,
-A., Torr, P., Russell, S., Kahneman, D., Brauner,
-J. & Mindermann, S. (2024). Managing
-extreme AI risks amid rapid progress. Science,
-384(6698), 842-845. https://doi.org/
-doi:10.1126/science.adn0117
-Bennett, W. L. & Livingston, S. (Red.). (2020). The
-Disinformation Age. Cambridge University
-Press.
-Bennetzen, J. & Gilje, S. J. (2025, 27.03.2025).
-Overgangen fra lærerutdanning til læreryrke.
-Statistisk sentralbryå,. Hentet 15.06.2026 fra
-https://www.ssb.no/utdanning/hoyere-utdanning/artikler/overgangen-fra-laererutdanning-til-laereryrke
-Berg-Nordlie, M. (2024). En kort introduksjon til
-samenes historie. Cappelen Damm Akademisk.
-Berg-Nordlie, M. (2025, 9. februar 2026). fornorsking. I Store norsk leksikon (60. utg.). https:/
-/snl.no/fornorsking
-Bergene, A. C., Vika, K. S., Lynnebakke, B., Ramberg, I. & Wollscheid, S. (2022). Spørsmål til
-Skole-Norge: Analyser og resultater fra Utdanningsdirektoratets spørreundersøkelse til skoler og skoleeiere våren 2022. NIFU.
-
-331
-
-Litteraturliste
-
-Bergene, A. C., Vonen, M. N., Tahir, H., Arnevig,
-Ø., Samuelsen, E. T., Sønstelie, N., Hodal, K.,
-Besche, T. d. & Drange, C. V. (2025). Spørsmål
-til Skole-Norge. NIFU.
-Bergene, A. C., Vika, K. S., Lynnebakke, B.,
-Vonen, M. N., Lyckander, R. H., Samuelsen, Ø.
-A. (2023). Fravær som vekker bekymring.
-NIFU.
-Bergsgard, N. A., Alvestad, K. C., Burner, T., Gustavsen, T. S., Husebø, Ø., Kacerja, S., Møller,
-G., Ruud, L. C. & Salvesen, G. S. (2026). Fornyelse og fordypning Evaluering av innføringen
-av LK20 i fire fag på barnetrinnet. Sluttrapport
-EvaFag 2025. Universitetet i Sørøst-Norge.
-https://nva.sikt.no/registration/
-019bf921c843-aec153f4-f4e2-4bfb-a4dc6425918a54da
-Bhargava, V. R. & Velasquez, M. (2021). Ethics of
-the Attention Economy: The Problem of Social
-Media Addiction. Business Ethics Quarterly,
-31(3), 321-359. https://doi.org/10.1017/
-beq.2020.32
-Biesta, G. (2007). Why "What Works" won't work:
-Evidence based practice and the democtatic
-deficit in educational research. Educational
-Theory, 57(1), 1-22. https://doi.org/https://
-doi.org/10.1111/j.1741-5446.2006.00241.x
-Biesta, G. (2009). Good education in an age of measurement: on the need to reconnect with the
-question of purpose in education. Educational
-Assessment, Evaluation and Accountability,
-21(1), 33-46. https://doi.org/https://doi.org/
-10.1007/s11092-008-9064-9
-Biesta, G. J. J. (2010). Why ‘What Works’ Still
-Won’t Work: From Evidence-Based Education
-to Value-Based Education. Studies in Philosophy and Education, 29(5), 491-503. https://
-doi.org/10.1007/s11217-010-9191-x
-Birkedal, I. K. & Alfsvåg, T. (2023). Rike oppgaver
-– rike muligheter. Bedre skole, 2. https://
-utdanningsforskning.no/artikler/2024/rikeoppgaver--rike-muligheter/
-Bjerkholt, E. & Olsen, K.-R. (2025). Profesjonsfaglig veiledning for nyutdannede lærere i Norge:
-intensjoner, resultater og utfordringer,. I E.
-Bjerkholt, N. A. Vasseljen, A. K. Dahl & G. S.
-Steinnes (Red.), Profesjonsfaglig veiledning
-for individuell og kollektiv utvikling, . Cappelen
-Damm forskning. https://doi.org/10.23865/
-cdf.270
-Bjerklund, M. & Hvitsand, C. (2024). Universell
-forebygging av vold og overgrep – Sammen
-Mot. https://telemarksforsking.no/en/publikasjoner/universell-forebygging-av-vold-ogovergrep-sammen-mot/4523/
-
-[Side 334]
-
-332
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Bjermeland, M. (2022). – Lærerne gjør 70 prosent
-riktig i klasserommet. https://www.forskning.no/partner-pedagogikk-podcast-laring/
-laererne-gjor-70-prosent-riktig-i-klasserommet/1957911
-Bjørklund, B. H. & Fiske, J. (2025). Et sammendrag av innspillene fra de regionale møtene. KS
-Konsulent. https://files.nettsteder.regjeringen.no/wpuploads01/sites/586/2026/02/
-KS-K-Rapport-Fremtidens-fellesskole-innspillfra-regionale-samlinger.pdf
-Bjørnestad, E., Myrvold, T. M., Dalland, C. P., Hølland, S., Svanes, I. K., Sundtjønn, T., og Håøy, A.
-(2024). Klasserommets praksisformer 20 år
-etter. En evaluering av seksårsreformen. Sluttrapport.
-Bjørnset, M. & Takvam Kindt, M. (2019). Fra gallionsfigur til overarbeidet altmuligmann?
-Rekruttering av skoleledere i norsk skole.
-Fafo-rapport, 2019:37. https://www.fafo.no/
-images/pub/2019/20734.pdf
-Bjaaland, I. F., Nilsen, M. M., Guajardo, G. &
-Hauge, M. S. (2025). Studiebarometeret 2024 –
-Hovedtendenser, (1-2025). NOKUT. https://
-www.nokut.no/globalassets/studiebarometeret/2025/studiebarometeret-2024hovedtendenser_1-2025.pdf
-Blanchard, L., Conway-Moore, K., Aguiar, A., Önal,
-F., Rutter, H., Helleve, A., Nwosu, E., Falcone,
-J., Savona, N., Boyland, E. & Knai, C. (2023).
-Associations between social media, adolescent
-mental health, and diet: A systematic review.
-Obes Rev, 24 Suppl 2, e13631. https://doi.org/
-10.1111/obr.13631
-Blikstad-Balas, M., Dalland, C. P. & Jenset, I. S.
-(2025). Hva vet vi om god undervisning? I M.
-Blikstad-Balas, C. P. Dalland & I. S. Jenset
-(Red.), God undervisning. Dette vet vi. Universitetsforslaget.
-Blikstad-Balas, M. & Lodding, I. G. (2020). Hvilken
-litteratur møter elevene i norskfaget?En analyse av hvilke skjønnlitterære verk som inngår
-i 178 norsktimer på åttende trinn. Edda, 107(2),
-85-99.
-Bokhandlerforeningen. (2024). Leseundersøkelsen 2024. https://bokhandlerforeningen.no/
-bransjefakta/forbrukerundersokelser/leserundersokelsen/leserundersokelsen-2024/
-Bonesrønning, H., Finseraas, H., Hardoy, I., Iversen, J., Nyhus, O. H., Opheim, V., Salvanes, K.,
-Sandsor, A. & Schone, P. (2022). Small-group
-instruction to improve student performance in
-mathematics in early grades: Results from a
-randomized field experiment. Journal of Public
-
-Economics, 216, 104765. https://doi.org/
-10.1016/j.jpubeco.2022.104765
-Borg, E., Dahl, T., Korseberg, L., Tahit, H. & Smesrud, J. (2025). Ny opplæringslov i praksis. Delrapport 1. Erfaringer fra første implementeringsår (2025:24). Nordisk institutt for studier
-av innovasjon, forskning og utdanning (NIFU).
-Borgen, J. S. & Prøitz, T. S. (2023) 5. Kunnskapens
-rolle i lærerutdanning. I En forskningsbasert
-skole? (s. 88-106). Universitetsforlaget. https:/
-/doi.org/doi:10.18261/9788215065540-23-05
-Borgen, J. S., Randers-Pehrson, A., Rimstad, Å.,
-Bergsland, J. E., Bottolfs, M., Hellenes, O.,
-Husebø, Ø., Murtnes, Å., Ouff, S. M., Thorrud,
-S., Strøm, I. T. & Weum, K. B. (2026). Evaluering av fagfornyelsen i de praktiske og estetiske fagene i LK20. Sluttrapport. Universitetet
-i Sørøst-Norge. https://nva.sikt.no/registration/019bf9606382-28d4f527-0e5a-4f0b-8206c0bf671ccf5f
-Borgen, N. T., Kirkebøen, L. J., Kotsadam, A. &
-Raaum, O. (2019). Do funds for more teachers
-improve student outcomes? (Discussion
-Papers. Statistisk sentralbyrå. https://
-www.ssb.no/offentlig-sektor/offentlig-forvaltning/artikler/do-funds-for-more-teachersimprove-student-outcomes/_/attachment/
-inline/d6dd8ec6-0c5b-4934-910ecf5a1e25bfbb:4b982dac8ab170cc08d3a2d17a9
-d74b9f88b4c26/DP982_web.pdf
-Bortes, C., Nilsson, K. & Strandh, M. (2022). Associations between children’s diagnosed mental
-disorders and educational achievements in
-Sweden. Scandinavian Journal of Public
-Health, 50(8), 1140-1147. https://doi.org/
-10.1177/14034948221089056
-Bostrom, N. (2014). Superintelligence : paths, dangers, strategies. Oxford University Press.
-Bourdieu, P., & Passeron, J.-C. (1990). Reproduction in education, society and culture (2nd ed.).
-Sage Publications.
-Bowers, A. J. (2020). Towards Measures of Different and Useful Aspects of Schooling: Why
-Schools Need Both Teacher-Assigned Grades
-and Standardized Assessments. I S. M. Brookhart & J. H. McMillan (Red.), I Classroom
-Assessment and Educational Measurement (s.
-209–223). Routledge.
-Braghieri, L., Levy, R. e. & Makarin, A. (2022).
-Social Media and Mental Health. American
-Economic Review, 112(11), 3660-3693. https://
-doi.org/10.1257/aer.20211218
-Brandao, P. R. (2025). The Impact of Artificial Intelligence on Modern Society. AI, 6(8), 190.
-
-[Side 335]
-
-NOU 2026: 10
-Fellesskolen
-
-Brandmo, C., Vaage Wang, M., Olsen, R. V., Bjørnebekk, G. & Hellerud Øistad, J. (2025).
-Læring, motivasjon, trivsel og tverrfaglige
-tema i fagfornyelsen (Evaluering av fagfornyelsen: Intensjoner , prosesser og praksiser
-(EVA2020). Universitetet i Oslo.
-Brattland, S. Ø. & Storstad, O. (2025). Kan skolen
-kompensere for samfunnet? Kunnskapsforskjeller i et flerkulturelt utdanningslandskap. I
-Unge medborgere i en ny tid (s. 34-57)
-(Books). Scandinavian University Press.
-https://doi.org/doi:10.18261/978821507393425-02
-Braverman, H. (1974). Labor and monopoly capital
-: the degradation of work in the twentieth century (25th anniversary. utg.). Monthly Review
-Press.
-Breivik, K. (2017). Å bli utsatt for mobbing : en
-kunnskapsoppsummering om konsekvenser
-og tiltak. Nasjonalt senter for læringsmiljø og
-atferdsforskning, Universitetet i Stavanger.
-Brevik, L. M., Gudmundsdottir, G. B., Mathé, N. E.
-H., Stovner, R. B., Magnusson, C. G., Dodou,
-K., Hatlevik, O. E. & Isaksen, A. (2026). På
-fagenes premisser: EDUCATE sluttrapport.
-Evaluering av LK20 i fagene på trinn 4-13: livsmestring, digital kompetanse og algoritmisk
-tenkning. Sluttrapport. Institutt for lærerutdanning og skoleforskning, Universitetet i Oslo.
-https://www.uv.uio.no/ils/forskning/prosjekter/educate/rapporter/brevik-et-al-(2026)educate-sluttrapport.pdf
-Brookhart, S. M., Guskey, T. R., Bowers, A. J.,
-McMillan, J. H., Smith, J. K., Smith, L. F., Stevens, M. T. & Welsh, M. E. (2016). A Century
-of Grading Research: Meaning and Value in the
-Most Common Educational Measure. Review
-of Educational Research,, 86(4), 803–848.
-https://doi.org/https://doi.org/10.3102/
-0034654316672069
-Brooks, J. (2026). Finnish children learn media
-literacy at 3 years old. It’s protection against
-Russian propaganda. AP. https://apnews.com/
-article/fake-news-classrooms-finland-russia194b32d8829838bfe47469d6ff357689
-Brugård, K. & Falch, T. (2013). Post-compulsory
-education and imprisonment. Labour Economics, 23, 97-106. https://doi.org/10.1016/
-j.labeco.2013.05.001
-Bryk, A. S., Gomez, L. M., Grunow, A., & LeMahieu, P. G. . (2015). Learning to improve: How
-America’s schools can get better at getting better. Harvard Education Press.
-
-333
-
-Litteraturliste
-
-Brynjolfsson, E. & Mcafee, A. (2017). The business of artificial intelligence. Harvard Business
-Review, 7(1), 1-2.
-Bråten, R. & Sten-Gahmberg, S. (2022). Unge
-uføre og veien til uføretrygd: The path to disability benefits for young people. Søkelys på
-arbeidslivet, 39, 1-19. https://doi.org/
-10.18261/spa.39.1.4
-Braathen, F. (2025, 30.09.2025). Foreldre lesser
-ned lærere med meldinger, krav og forventninger. – Mange foreldre er ganske selvopptatte.
-Aftenposten. https://www.aftenposten.no/
-norge/i/dR69Mq/laerere-i-hele-landet-lessesned-av-krav-og-forventninger-fra-foreldre
-Buland, T., Mathiesen, I. H., Aaslid, B. E., Haugsbakken, H., Bungum, B. & Mordal, S. (2011).
-På vei mot framtida – men i ulik fart? Sluttrapport fra evaluering av skolens rådgivning. SINTEF Teknologi og samfunn. https://
-www.udir.no/globalassets/filer/tall-og-forskning/rapporter/2011/5/
-sluttrapport_radgiving.pdf
-Buland, T., Mordal, S. & Mathiesen, I. H. (2020).
-Utdannings- og yrkesrådgiving og sosialpedagogisk rådgiving i norsk skole anno 2020. En
-kartlegging av ressurser og arbeidsoppgaver
-til rådgiving i skolen i Norge. NTNU Samfunnsforskning. https://samforsk.no/uploads/
-files/
-BulandMordalogMathiesen2020Rdgivinginors
-kskoleanno2020.pdf
-Bulus, S. W., Ayankoya, F. Y., Adeniyi, O. J. (2025).
-The Transformative Impact of Generative AI
-across Industries: A Comprehensive Systematic Review. Advanced Journal of Science, Technology and Engineering., 5(2).
-Burroughs, N., Gardner, J., Lee, Y., Guo, S., Touitou, I., Jansen, K. & Schmidt, W. (2019). A
-Review of the Literature on Teacher Effectiveness and Student Outcomes. I N. Burroughs, J.
-Gardner, Y. Lee, S. Guo, I. Touitou, K. Jansen &
-W. Schmidt (Red.), Teaching for Excellence
-and Equity: Analyzing Teacher Characteristics,
-Behaviors and Student Outcomes with TIMSS
-(s. 7-17). Springer International Publishing.
-https://doi.org/10.1007/978-3-030-16151-4_2
-Bæck, U.-D. K. (2024). Utdanning som fellesskapsskapende prosjekt. I G. C. Aakvaag, Bæck, U.D. K. (Red.), Robuste fellesskap. fagbokforlaget. https://oa.fagbokforlaget.no/index.php/
-vboa/catalog/download/54/78/853?inline=1
-Bøyum, I. & Tveit, Å. K. (2023). Rom for lesing og
-utforsking: Skolebibliotekets muligheter.
-ABM-media AS. https://skriftserien.oslomet.no/skriftserien/article/view/812/783
-
-[Side 336]
-
-334
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Caballar, R. D. (2026). Generative AI vs. predictive
-AI: What’s the difference? IBM Think.
-Campbell, D. T. (1979). Assessing the impact of
-planned social change. Evaluation and Program Planning, 2(1), 67-90. https://doi.org/
-https://doi.org/10.1016/0149-7189(79)90048X
-Carlsten, T. C. & Sjaastad, J. (2014). Evaluering av
-Program for skolebibliotekutvikling 2009-2013.
-NIFU Nordisk institutt for studier av innovasjon, forskning og utdanning. https://
-nva.sikt.no/registration/0198cc5b25f418696943-76a4-4414-86c7-6bd8b2bac7c2
-Carpentier, L. C. (2023). Policy Brief: New Economics for Sustainable Development: Attention
-Economy. https://www.un.org/sites/
-un2.un.org/files/attention_economy_feb.pdf
-Caspersen, J., Lassemo, E., Mordal, S., Tangen, S.,
-Jahreie, J., Drågen, A. K. B., Dahl, T. & Gottvassli, K. Å. (2026). Endring i lærerrollen i
-barnehage og skole. NTNU Samfunnsforskning,.
-Caspersen, J. & Smeby, J.-C. (2023). 6. Praksisrettede pedagoger og disiplinorienterte forskere
-– lærerutdanningen og forskningen 2008–
-2021. I En forskningsbasert skole? (s. 107-125)
-(Books). Universitetsforlaget. https://doi.org/
-doi:10.18261/9788215065540-23-06
-Caspersen, J., Vennerød-Diesen, F. F., Hermstad, I.
-H., Ljusberg, A.-L. L., Mordal, S., Pedersen, C.
-& Tangen, S. (2024). Innføring av rammeplan i
-SFO – sluttrapport fra evalueringen av de
-første årene med rammeplan (Rapport 2024).
-NIFU, NTNU Samfunnsforskning og Stockholms Universitet,. https://samforsk.no/
-uploads/files/
-NTNU_SamForsk_Sluttrapport_UU-1.pdf
-Cellini, S. R., Ferreira, F. & Rothstein, J. (2010).
-The Value of School Facility Investments: Evidence from a Dynamic Regression Discontinuity Design. The Quarterly Journal of Economics, 125(1), 215-261. https://doi.org/
-10.1162/qjec.2010.125.1.215
-Cheesman, R., Borgen, N., Sandsør, A. M. J. &
-Hufe, P. (2025). The genetic lottery goes to
-school: Better schools compensate for the
-effects of students’ genetic differences. Proceedings of the National Academy of Sciences,
-122(43), e2511715122. https://doi.org/
-doi:10.1073/pnas.2511715122
-Cheesman, R., Borgen, N. T., Lyngstad, T. H.,
-Eilertsen, E. M., Ayorech, Z., Torvik, F. A.,
-Andreassen, O. A., Zachrisson, H. D. & Ystrom, E. (2022). A population-wide gene-environment interaction study on how genes,
-
-schools, and residential areas shape achievement. NPJ science of learning, 7(1), 29. Hentet
-2022/10//, fra https://www.nature.com/articles/s41539-022-00145-8.pdf
-Cheng, M., Lee, C., Khadpe, P., Yu, S., Han, D. &
-Jurafsky, D. (2026). Sycophantic AI decreases
-prosocial intentions and promotes dependence. Science, 391(6792), eaec8352. https://
-doi.org/doi:10.1126/science.aec8352
-Claverie, B. & Du Cluzel, F. (2022). «Cognitive
-Warfare»: The Advent of the Concept of «Cognitics» in the Field of Warfare. I C. Bernard, P.
-Baptiste & N. Buchier (Red.), Cognitive Warfare: The Future of Cognitive Dominance (s. 2,
-1-7). NATO Collaboration Support Office.
-https://hal.science/hal-03635889
-Clement, V., Rigaud, K. K., Jones, B., Adamo, S.,
-Schewe, J., Sadiq, N. & Shabahat, E. (2021).
-Groundswell Acting on Internal Climate Migration. World Bank Group.
-Clements, D. H., Lizcano, R. & Sarama, J. (2023).
-Research and Pedagogies for Early Math. Education Sciences, 13(8), 839. https://
-www.mdpi.com/2227-7102/13/8/839
-Coenen, J., Cornelisz, I., Groot, W., Brink, H. M. v.
-d. & Klaveren, C. V. (2017). Teacher characteristics and their effects on student test scores.
-A systematic review. Journal of Economic Surveys, 32(3).
-Collins, H. M. (2014). Are we all scientific experts
-now? Polity.
-Cologna, V. e. a. (2025). Trust in scientists and
-their role in society across 68 countries. Nature
-Human Behaviour, 9(4), 713-730. https://
-doi.org/10.1038/s41562-024-02090-5
-Coyle, D. (1997). The weightless world : strategies
-for managing the digital economy. Capstone.
-Crafts, N. (2021). Artificial intelligence as a general-purpose technology: an historical perspective. Oxford Review of Economic Policy, 37(3),
-521-536. https://doi.org/10.1093/oxrep/
-grab012
-CRPD. (2006). Konvensjon om rettighetene til
-mennesker med nedsatt funksjonsevne Lovtata. https://lovdata.no/lov/1999-05-21-30/
-KAPITTEL_12
-Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience. I.
-Cukier, K., Mayer-Schonberger, V. & Vericourt, F.
-d. (2021). Framers : human advantage in an age
-of technology and turmoil. Dutton.
-Dale, E. L. (2008). Fellesskolen – reproduksjon av
-sosial ulikhet. Cappelen Damm akademisk.
-Dale, E. L. & Wærness, J. I. (2003). Differensiering
-og tilpasning i grunnopplæringen.
-
-[Side 337]
-
-NOU 2026: 10
-Fellesskolen
-
-Darling-Hammond, L. (2006). Powerful teacher
-education : lessons from exemplary programs.
-Jossey-Bass.
-Darling-Hammond, L. (2017). Empowered educators : how high-performing systems shape
-teaching quality around the world (First edition. utg.). Jossey-Bass,.
-Darling-Hammond, L. & Sykes, G. (1999).
-Teaching as the learning profession : handbook of policy and practice. Jossey-Bass Publishers.
-Darling-Hammond, L., Wechsler, M., Stephanie,
-L., Leung-Gagne, M. & Tozer, S. (2022).
-Developing Effective Principals, What Kind of
-Learning Matters? https://learningpolicyinstitute.org/product/developing-effective-principals-report
-Datareportal. (2025). Digital 2026. Global overview report. https://datareportal.com/
-reports/digital-2026-global-overview-report
-Davies, S., Pettersson, T. & Öberg, M. (2023).
-Organized violence 1989–2022, and the return
-of conflict between states. Journal of Peace
-Research, 60(4), 691-708. https://doi.org/
-10.1177/00223433231185169
-Dehaene, S. (2010). Reading in the brain : the new
-science of how we read. Penguin Books.
-Dehaene, S. (2011). The number sense : how the
-mind creates mathematics (Rev. and updated.
-utg.). Oxford University Press.
-Dehaene, S. (2021). How we learn : the new
-science of education and the brain . Penguin
-Books.
-Deineko, O. & Holm-Hansen, J. (2024). Strengthening Ukraine’s democracy through education
-during the war (Norwegian Institute for Urban
-and Regional Reseach NIBR. https://wergelandcentre.org/content/uploads/2024/08/
-mid-term-evaluation-Ukraine-final-report.pdf
-Desmurget, M. (2022). Screen Damage: The Dangers of Digital Media for Children. Polity.
-Desoete, A. & De Craene, B. (2019). Metacognition and mathematics education: an overview.
-ZDM, 51(4), 565-575. https://doi.org/10.1007/
-s11858-019-01060-w
-Devaney, J. & Spratt, T. (2009). Child abuse as a
-complex and wicked problem: Reflecting on
-policy developments in the United Kingdom in
-working with children and families with multiple problems. Children and youth services
-review, 31(6), 635-641. https://doi.org/
-10.1016/j.childyouth.2008.12.003
-Devereux, P. J., Black, S. E. & Salvanes, K. G.
-(2005). Why the apple doesn’t fall far : understanding intergenerational transmission of
-
-335
-
-Litteraturliste
-
-human capital. Open Access publications ,
-School of Economics, University College
-Dublin., 10197/309. https://ideas.repec.org/
-p/ucn/oapubs/10197-309.html
-DFØ. (2022). Færre og bedre – en evaluering av
-statsforvalterstrukturen. DFØ. https://
-www.dfo.no/dfo-rapport-20225-faerre-ogbedre-en-evaluering-av-statsforvalterstrukturen
-DFØ. (2024a). Hvordan styrer staten kommunene? En vurdering av normer og krav som
-binder personellressurser i kommunene
-(DFØ-rapport 2024:11). https://www.regjeringen.no/contentassets/
-3eafeb73402046e3b8ebc28d3f578a63/omradegjennomgang-rammestyring-av-kommunenevurdering-og-anbefaling.pdf
-DFØ. (2024b). Statlig styring av kommunene.
-Kartlegging av virkemiddelbruk og konsekvenser på fire områder (DFØ rapport
-2024:10). https://dfo.no/sites/default/files/
-2024-09/
-Omr%C3%A5degjennomgang%20rammestyrin
-g%20av%20kommunene%20%20kartleggingsrapport.pdf
-DFØ. (2026a). Innbyggerundersøkelsen 2026
-Dokumentasjonsrapport. https://www.dfo.no/
-sites/default/files/2026-02/dokumentasjonsrapport-30.01.2026.pdf
-DFØ. (2026b). Statsregnskapet. https://statsregnskapet.dfo.no/
-Diamond, A. (2013). Executive Functions. Annual
-Review of Psychology, 64. https://www.annualreviews.org/content/journals/10.1146/annurev-psych-113011-143750
-Dietrichson, J., Bhatnagar, R., Filges, T. & Vembye,
-M. H. (2026). On the mechanisms of intervention effect fade-out: A meta-analytic review of
-interventions targeting at-risk students’ achievement. Psychological Bulletin, 152(1), 66.
-https://doi.org/DOI:10.31234/osf.io/
-2eg67_v1
-Digitaliserings- og forvaltningsdepartementet.
-(2024). Fremtidens digitale Norge. https://
-www.regjeringen.no/no/dokumenter/fremtidens-digitale-norge/id3054645/
-?q=KI&ch=4#id0062
-Direktorat for høyere utdanning og kompetanse.
-(2026). Personer med fullført studiepogram.
-Direktoratet for høyere utdanning og kompetanse.
-(2025a). Karakterfordeling for bachelor og
-masteroppgaver
-Direktoratet for høyere utdanning og kompetanse.
-(2025b). Opptakstall.
-
-[Side 338]
-
-336
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Direktoratet for høyere utdanning og kompetanse.
-(2025c). Registrerte studenter.
-Ditlefsen, H. & Hamre, M. (2022, 20.01.2022).
-Etterlyser lærebøker: – Vi står mye på kopirommet med litt vondt i magen. NRK Sørlandet. https://www.nrk.no/sorlandet/etterlyserlaereboker_-_-vi-star-mye-pa-kopirommet-medlitt-vondt-i-magen-1.15816455
-Djupedal, E. F. (2025). Grunnskolen som kunnskapspolitikk – Politisk styring av skolens innhold, omfang og organisering 1954–2024 [Doktoravhandling]. Nasjonalt vitenarkiv. https://
-nva.sikt.no/registration/019a103f807842be3ed6-58a7-4e49-85f5-bac2f7012ab4
-Dokument 16 (2011–2012). (2011). Rapport til
-Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i Grunnloven, avgitt 19. desember 2011. https://
-www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Dokumentserien/20112012/Dok16-201112/?lvl=0
-Dovidio, J. F., Gaertner, S. L. & Kawakami, K.
-(2003). Intergroup Contact: The Past, Present,
-and the Future. Group Processes & Intergroup
-Relations, 6(1), 5-21. https://doi.org/10.1177/
-1368430203006001009
-Draghi, M. (2024). The future of European competitiveness. European Comission. European
-Union.
-Drange, N. & Sandsor, A. (2024). The effects of a
-free universal after-school program on child
-academic outcomes. Economics of Education
-Review, 98, 102504. https://doi.org/10.1016/
-j.econedurev.2023.102504
-Dreyfus, H. L., Dreyfus, S. E. & Athanasiou, T.
-(1986). Mind over machine: the power of
-human intuition and expertise in the era of the
-computer. Basil Blackwell.
-Drijvers, P. (2000). Students encountering obstacles using a CAS. International Journal of Computers for Mathematical Learning, 5(3), 189209. https://doi.org/10.1023/
-A:1009825629417
-Drugli, M. B. (2013). Atferdsvansker hos barn.
-Evidensbasert kunnskap og praksis. Cappelen
-Damm.
-Duckworth, A. (2017). Grit : why passion and resilience are the secrets to success. Vermilion.
-Duckworth, A. L. & Seligman, M. E. P. (2005). SelfDiscipline Outdoes IQ in Predicting Academic
-Performance of Adolescents. Psychological
-Science, 16(12), 939-944. https://doi.org/
-10.1111/j.1467-9280.2005.01641.x
-Duff, D., Tomblin, J. B. & Catts, H. (2015). The
-Influence of Reading on Vocabulary Growth: A
-
-Case for a Matthew Effect. Journal of Speech,
-Language, and Hearing Research, 58(3), 853864. https://doi.org/10.1044/2015_JSLHR-L13-0310
-Duke, N. K. & Cartwright, K. B. (2021). The
-Science of Reading Progresses: Communicating Advances Beyond the Simple View of
-Reading. Reading Research Quarterly, 56(S1),
-S25-S44. https://doi.org/https://doi.org/
-10.1002/rrq.411
-Duncan, G. J., Dowsett, C. J., Claessens, A., Magnuson, K., Huston, A. C., Klebanov, P., Pagani,
-L. S., Feinstein, L., Engel, M., Brooks-Gunn, J.,
-Sexton, H., Duckworth, K. & Japel, C. (2007).
-School readiness and later achievement
-[doi:10.1037/0012-1649.43.6.1428]. American
-Psychological Association.
-Duncan, S. (2005). Mothering, class and rationality. Sociological Review, 53(1), 50-76.
-Duque, D. (2026). The Long-Run Impact of School
-Funding on Economic Outcomes. MUNI
-ECON Working Papers. https://doi.org/
-10.5817/WP_MUNI_ECON_2026-02
-Dweck, C. S. (2017). Mindset : the new psychology
-of success (Updated edition. utg.). Robinson.
-Economist, T. (2026). How dangerous is Mythos,
-Anthropic’s new AI model? https://www.economist.com/business/2026/04/08/how-dangerous-is-mythos-anthropics-new-ai-model?
-Ekren, R., Stengrundet, A. & Kalcic, M. (2024).
-Hva kjennetegner private skoler? Rapporter,
-Statistisk Sentralbyrå SSB, 2024/6. https://
-www.ssb.no/utdanning/grunnskoler/artikler/hva-kjennetegner-private-skoler/_/
-attachment/inline/936479b8-4f23-40e3-95ad4e0c954c2c31:ed7ae40bec35ec1222027b4a8bb
-cb01f52b52729/RAPP2024-06.pdf
-Eksamensgruppa. (2020). Vurderinger og anbefalinger om fremtidens eksamen. Utdanningsdirektoratet. https://www.udir.no/eksamen-ogprover/eksamen/vurderinger-og-anbefalinger-fremtidens-eksamen/
-Ekspertgruppa om lærerrollen. (2016). Om lærerrollen. Et kunnskapsgrunnlag. Fagbokforlaget.
-https://www.regjeringen.no/contentassets/
-cce6902a2e3646a09de2f132c681af0e/rapportom-laererrollen-1.pdf
-Ekspertgruppe for skolebidrag. (2021). En skole
-for vår tid. Sluttrapport Ekspertgruppe for skolebidrag. https://www.regjeringen.no/contentassets/0f38964bb67f4259b74967911799bdac/
-en-skole-for-var-tid_v5.pdf
-Ekspertgruppen om barn i fattige familier. (2024).
-En barndom for livet. Økt tilhørighet, mestring
-og læring for barn i fattige familier. Revidert
-
-[Side 339]
-
-NOU 2026: 10
-Fellesskolen
-
-utgave, desember 2024. Barne- og familiedepartementet. https://www.regjeringen.no/
-contentassets/
-df568c8ea68f48d6b03f2cca6149cf77/no/pdfs/
-barn-i-fattige-familier.pdf
-Ekspertgruppen om betydningen av barnehage,
-skole, SFO for sosial & utjevning og sosial
-mobilitet. (2024). Et jevnere utdanningsløp.
-Barnehage og skole/SFO som innsats mot
-ulikhet blant barn. Kunnskapsdepartementet.
-https://www.regjeringen.no/contentassets/
-52d541c8fff94f3b84740a0e260c4597/no/pdfs/
-et-jevnere-utdanningslop.pdf
-Ekspertgruppen om styring av lærerutdanningene. (2024). Én felles rammeplan. Overordnet
-styring av lærerutdanningene, . Senter for profesjonsforskning. OsloMet – storbyuniversitetet. https://files.nettsteder.regjeringen.no/
-wpuploads01/sites/530/2024/08/
-Sluttrapport_Innhold_Trykk_RETTET.pdf
-Ekström, L., Appelgren, A. & Hafsteinsdóttir, E.
-(2019). Läsförståelse och undervisning om lässtrategier (9789198438383 (ISBN)).
-(Skolforskningsinstitutets systematiska översikter. Skolforskningsinstitutet. https://
-www.skolfi.se/forskningssammanstallningar/
-publicerade-systematiska-oversikter/lasforstaelse-och-undervisning-om-lasstrategier/
-Ellis, V. (2024). The New Political Economy of
-Teacher Education : The Enterprise Narrative
-and the Shadow State.
-Eloundou, T., Manning, S., Mishkin, P. & Rock, D.
-(2024). GPTs are GPTs: Labor market impact
-potential of LLMs. Science, 384(6702), 13061308. https://doi.org/doi:10.1126/
-science.adj0998
-Elstad, E. (2023). Læreren møter ChatGPT. Universitetsforlaget.
-EMK. (1950). Den europeiske menneskerettighetskonvensjon (4.11.1950). Lovdata. https://
-lovdata.no/lov/1999-05-21-30/
-KAPITTEL_emk
-Emslander, V., Holzberger, D., Ofstad, S. B., Fischbach, A. & Scherer, R. (2025). Teacher–Student Relationships and Student Outcomes: A
-Systematic. Second-Order Meta-Analytic
-Review. American Psychological Association,
-151(3), 365-397. https://doi.org/https://
-doi.org/10.1037/bul0000461
-Endringslov til velferdstjenestelovgivningen.
-(2021). Lov om endringer i velferdstjenestelovgivningen (samarbeid, samordning og barnekoordinator) (LOV-2021-06-11-78). Lovdata.
-https://lovdata.no/LTI/lov/2021-06-11-78
-
-337
-
-Litteraturliste
-
-Ennis, R. H. (1991). Critical Thinking: A Streamlined Conception. Teching Philosophy, 14(1).
-https://education.illinois.edu/docs/defaultsource/faculty-documents/robert-ennis/
-ennisstreamlinedconception_002.pdf
-Enstad, F. & Bakken, A. (2025). Ungdata junior
-2024 Nasjonale resultater (NOVA Rapport 3/
-25. Velferdsforskningsinstituttet NOVA OsloMet. https://nva.sikt.no/registration/
-0198cc70d9b4-924a5c27-3501-4da5-97a2aa37047afdee
-Epstein, J. L. (2011). School, Family, and Community Partnerships: Preparing Educators and
-Improving Schools (2. utg.). Routledge.
-Ericsson, K. (2004). Å holde styr på dem en elsker.
-Nordic Journal of Social Work, 23(3), 172-179.
-https://doi.org/10.18261/ISSN1504-30372003-03-06
-Eriksen, A. (2023). 2. Hva er forskningslitterasitet?
-Og hvorfor trenger lærere det? I S. Mausethagen, S. Bøyum, J. Caspersen, T. S. Prøitz & F.
-W. Thue (Red.), En forskningsbasert skole? (s.
-28-46) (Books). Universitetsforlaget. https://
-doi.org/doi:10.18261/9788215065540-23-02
-Erion, J. (2006). Parent Tutoring: A Meta-Analysis.
-Education and Treatment of Children, 29(1),
-79-106. http://www.jstor.org/stable/42899871
-Ertmer, P. A. & Newby, T. J. (1993). Behaviorism,
-Cognitivism, Constructivism: Comparing Critical Features from an Instructional Design Perspective. Performance Improvement Quarterly, 6(4), 50-72. https://doi.org/https://
-doi.org/10.1111/j.1937-8327.1993.tb00605.x
-Etzioni, A. (1969). The Semi-professions and their
-organization : teachers, nurses, social workers.
-The Free Press.
-European Comission. (2025). The future of European competitiveness. Publications Office of
-the European Union.
-Evanger, L. N., Pallesen, S., West Saxvig, I.,
-Hysing, M., Sivertsen, B., Lie, S. A., Gradisar,
-M. & Bjorvatn, B. (2024). Associations between sleep duration, insomnia, depression,
-anxiety and registry-based school grades: A
-longitudinal study among high-school students. Journal of sleep research, 34(4). https:/
-/doi.org/https://doi.org/10.1111/jsr.14430
-Evjen, S. (2024). Skolens pusterom – romlige og
-sosiale kvaliteter ved skolebiblioteket. Bedre
-skole, 2/2024. https://utdanningsforskning.no/artikler/2024/skolens-pusterom-romlige-og-sosiale-kvaliteter-ved-skolebiblioteket/
-
-[Side 340]
-
-338
-
-Litteraturliste
-
-NOU 2026: 10
-Fellesskolen
-
-Eyal, N. & Hoover, R. (2019). Hooked : how to
-build habit-forming products (Updated edition.
-utg.). Penguin Business.
-Faglig råd for lærerutdanning. (2020a). Partnerskap for kvalitet i lærerutdanningene (Anbefalinger fra Faglig råd for lærerutdanning 2025).
-Faglig råd for lærerutdanning. https://
-www.regjeringen.no/contentassets/
-e29c3dc21bfa4edc9308f2fc6908afb3/partnerskap-for-kvalitet-i-larerutdanningene-004.pdf
-Faglig råd for lærerutdanning. (2020b). Partnerskap i lærerutdanningene – et kunnskapsgrunnlag (Delrapport 1). Faglig råd for lærerutdanning. https://www.regjeringen.no/contentassets/
-9969c3f46f0c4a4f95ed9eee70b3ed19/partnerskap-i-larerutdanningene---et-kunnskapsgrunnlag.pdf
-Faglig råd for lærerutdanning. (2024). Utvidet
-praksisbegrep i lærerutdanningene, . https://
-files.nettsteder.regjeringen.no/wpuploads01/
-sites/429/2024/12/Utvidet-praksis-final.pdf
-Falch, T., Borge, L.-E., Lujala, P., Nyhus, O. H. &
-Strøm, B. (2010). Årsaker til og konsekvenser
-av manglende fullføring av videregående opplæring. https://samforsk.no/publikasjoner/
-nr-3-10-arsaker-til-og-konsekvenser-av-manglende-fullforing-av-videregaende-opplaering
-Falch, T., Haraldsvik, M. & Nyhus, O. H. (2026).
-Samfunnsøkonomiske gevinster av en bedre
-skole. SØF-rapport 02/2026. Senter for økonomisk forskning.
-Falch, T. & Strøm, B. (2025). Lærermangel og
-lærerutdanning de siste 50 år og prediksjoner
-fram mot 2035. Søkelys på arbeidslivet, 42(1),
-1-18. https://doi.org/10.18261/spa.42.1.4
-Fan, Y., Tang, L., Le, H., Shen, K., Tan, S., Zhao, Y.,
-Shen, Y., Li, X. & Gašević, D. (2025). Beware of
-metacognitive laziness: Effects of generative
-artificial intelligence on learning motivation,
-processes, and performance. British Journal of
-Educational Technology, 56(2), 489-530.
-https://doi.org/https://doi.org/10.1111/
-bjet.13544
-Farrington, D., Ttofi, M. & Piquero, A. (2016).
-Risk, promotive, and protective factors in youth
-offending: Results from the Cambridge study
-in delinquent development. Journal of Criminal
-Justice, 45. https://doi.org/10.1016/j.jcrimjus.2016.02.014
-Federici, R. A., Helleve, A., Midthassel, U. V., Bergene, A.-C. & Alne, R. (2021). Et lag rundt eleven : Økt helsesykepleierressurs i systemrettet
-og strukturert samarbeid med skole – en oppfølgingsstudie. NIFU Nordisk institutt for stu-
-
-dier av innovasjon, forskning og utdanning,
-Folkehelseinstituttet, Læringsmiljøsenteret.
-https://nva.sikt.no/registration/
-0198cc3deea9-4fc77a44-8366-4c51-b4e06795571f58bb
-Federici, R. A., Helleve, A., Midthassel, U. V., Salvanes, K. V., Pedersen, C., Bergene, A. C., Bru,
-L. E., Bøckmann, E., Vika, K. S. & Wollscheid,
-S. (2020). Et lag rundt eleven : Økt helsesykepleierressurs i systemrettet og strukturert
-samarbeid med skole – en effektevaluering.
-NIFU Nordisk institutt for studier av innovasjon, forskning og utdanning, Folkehelseinstituttet, Læringsmiljøsenteret.
-Ferreira, J., Bauerová, R., Taşlıbeyaz, E., Giannouli, V., Koyuncu, M., Agatonović, M. & Bojic,
-L. (2025). A Systematic Review of Emerging
-Technologies and Their Impact on Adolescent
-Well-Being and Religious Identity. https://
-doi.org/10.2139/ssrn.5702804
-FHI (2019). Helseeffekter av fysisk aktivitet. FHI,
-Folkehelseinstituttet. https://www.fhi.no/le/
-aktivitet/helseeffekter-av-fysisk-aktivitet/
-FHI (2025). Temautgave av Folkehelserapporten
-2025: Barn og unges psykiske helse. Folkehelseinstituttet. https://www.fhi.no/contentassets/b5b3603ec4794c5cb0c8651589b359f8/
-temautgave-barn-og-unges-psykiskehelse_2025.pdf
-Flatø, M., Bratsberg, B., Kotsadam, A., Torvik, F.
-A., Røgeberg, O. & Stoltenberg, C. (2025).
-Ready for school? Effects on school starters of
-establishing school psychology offices in Norway. Education Economics, 1-19. https://
-doi.org/10.1080/09645292.2025.2588588
-Flobakk-Sitter, F., Ballo, J. G., Hovdhaugen, E.,
-Fossum, L. W. & Karlstrøm, H. (2023). Kvalitet
-i praksisperioden : En kunnskapsoppsummering om praksis i profesjonsutdanninger
-(2023:11).
-Fløtten, T., Kavli, H. C., Trygstad, S. (2023). Ulikhetens drivere og dilemmaer. Universitetsforlaget.
-Folkehelseinstituttet. (2023). Folkehelserapporten – Psykiske plager og lidelser hos voksne.
-FHI. https://www.fhi.no/he/folkehelserapporten/psykisk-helse/psykiske-lidelservoksne/?term=
-Folkehelseinstituttet. (2025). Folkehelserapportens temautgave 2025: Barn og unges psykiske
-helse. https://www.fhi.no/he/fr/barn-ogunges-psykiske-helse/
-Forskningsrådet. (2018). Evaluation of Norwegian
-education research. Report from the international expert committee (Final report). https://
+## Skolens samarbeid med foreldrene
+
+### Et godt, tillitsfullt og gjensidig samarbeid
+
+Utvalget mener at et godt og tillitsfullt samarbeid mellom hjem og skole er en viktig forutsetning for at fellesskolen skal lykkes med sitt brede mandat i framtiden. Hjemmet og skolen er barn og unges viktigste arenaer for utvikling. Et godt og systematisk samarbeid mellom disse to arenaene er avgjørende for elevenes læring, utvikling, trivsel og danning, og for skolens arbeid med å utvikle et inkluderende fellesskap.
+
+Uansett familietype og sosial bakgrunn viser forskningen at forventninger og oppmuntring fra foreldrene har stor betydning for barnas læring. Forskning viser at det bare er familiens sosioøkonomiske bakgrunn som har større betydning for læringsresultater enn støtte fra foreldre. Utvalget understreker at skolen bør gi foreldre god informasjon om hvor viktig deres forventninger og oppmuntring er for barnas læring og skolegang. Foreldrenes interesse for skole og læring er viktig i seg selv, uavhengig av deres egen skolebakgrunn. Engasjerte foreldre finnes i alle samfunnslag.
+
+En god og tillitsfull dialog mellom hjem og skole er viktig for at samarbeidet skal fungere. Skolen må ha som utgangspunkt at alle foreldre er en ressurs som har nyttig informasjon om eleven og elevens liv, og må jobbe systematisk for et godt samarbeid. Hvordan foreldrene best mulig kan medvirke skal være tema på foreldremøtene. I samtalene med kontaktlærer er også samarbeidet mellom elev, skolen og foreldre et viktig tema (Opplæringsforskrifta, 2024, § 11-1). Selv om skolens plikt til å ha slike individuelle utviklingssamtaler med foreldrene ikke lenger gjelder etter at eleven har fylt 18 år, understreker utvalget at skole-hjem-samarbeidet også er viktig for de eldste elevene.
+
+Barnas hjemmemiljø er viktig for språkutvikling og senere leseutvikling. Grunnlaget for å bygge gode leseferdigheter legges i hjemmet. Utvalget mener det er avgjørende at foreldrene også får god informasjon om hvor viktig det er for barnas utvikling og læring at de har et godt ordforråd, at de blir lest for og at de får tid til å lese selv hver dag. Utvalget mener det er viktig å spre kunnskap om dette blant foreldre og å sette språkutvikling og lesing på dagsorden i dialogen mellom skolen og hjemmet.
+
+Utdanningsdirektoratet og Læringsmiljøsenteret har flere veiledningsressurser om samarbeidet mellom hjem og skole. Utdanningsdirektoratet skriver blant annet:
+
+Mange foreldre er usikre på skolens forventninger til dem, og forventningsavklaring er viktig når dere møter foreldre. Det kan handle om graden av medvirkning foreldrene skal ha, og på hvilke områder og hvordan foreldre skal følge opp elevens faglige og sosiale utvikling. Dere må også være tydelige på hvilke forventninger foreldrene kan ha til dere. Her må foreldrene få komme med sine innspill.
+
+Utdanningsdirektoratet, 2024d
+
+Det er viktig at skolen og hjemmet vet hvilke forventninger de kan ha til hverandre. Gjensidige forventningsavklaringer, der man kommer fram til en felles forståelse og avklarer forventninger til hverandre og til barnet, legger til rette for et styrket samarbeid. Slike forventningsavklaringer kan skje på kommunenivå, på hver skole eller på klassenivå. Mange skoler gjør dette i dag, enten i form av egne foreldrebrosjyrer, på nettsider med informasjon eller på foreldremøter. I boks 13.2 er et eksempel på hvordan Stavanger kommune har formidlet slike forventninger i form av en egen foreldrebrosjyre.
+
+Foreldrebrosjyre: Til foreldre i stavangerskolen
+
+Stavanger kommune har laget en brosjyre til foreldrene i stavangerskolen. Innholdet i brosjyren er basert kommunens strategi for kvalitet i stavangerskolen, som er utarbeidet blant annet med bidrag fra det kommunale foreldreutvalget. I brosjyren trekkes det fram at godt samarbeid mellom hjem og skole har stor betydning for elevenes trivsel og læring, og at foreldrene er viktige medspillere. Foreldrenes rettigheter er forklart, og det er en egen side om foreldrenes plikter og ansvar:
+
+Hvilke plikter og ansvar har du som forelder?
+
+- Du har hovedansvaret for barnets oppdragelse og utvikling.
+
+- Du har et individuelt ansvar for å bidra til et tolerant og godt fellesskap der alle barn opplever tilhørighet og en likeverdig rett til å delta.
+
+- Du skal støtte skolen i arbeidet med ditt barns læring og utvikling.
+
+- Din holdning til skolen er av stor betydning for elevens engasjement og innsats på skolen.
+
+- Du forventes å delta aktivt i hjem-skole-samarbeidet, og bidra til en åpen og respektfull dialog.
+
+- Du må respektere de skoleansattes arbeidstid.
+
+- Du skal medvirke til å finne gode løsninger for barnet ditt.
+
+- Du oppfordres til å engasjere deg i FAU, SU og som klassekontakt for å styrke samarbeidet mellom hjem og skole og bidra til et godt klassemiljø.
+
+Kilde: Stavanger kommune, 2025
+
+Rammeslutt
+
+En av de viktigste tilbakemeldingene fra foreldrene som utvalget har snakket med, er at det er behov for en større tydelighet om roller og ansvar og for gode forventningsavklaringer mellom skole og hjem. Foreldre etterlyser at skolen kommuniserer klart hva den forventer av dem, i tillegg til hva foreldrene kan forvente av skolen. Det kom også fram at det er store variasjoner i hvordan skolene jobber med dette.
+
+Utvalget mener det er behov for å jobbe bedre med gjensidige forventningsavklaringer mellom hjem og skole, og at god dialog og avklaringer om dette er viktig tidlig i skoleløpet. Foreldrene bør få god informasjon om hva som er skolens rolle og oppgaver, og hvor viktig det er at foreldrene bidrar til skolens oppdrag på en god måte. Tydelige rammer vil også kunne bidra til å begrense presset noen lærere og skoleledere opplever i form av et økende antall henvendelser etter arbeidstid. Tydeligere forventningsavklaringer om skolens rolle, oppgaver og ansvar kan også bidra til å begrense urealistiske forventninger om tilpasninger og individuell oppfølging. For å lykkes med et slikt arbeid er det viktig med gode samarbeidsprosesser både mellom skolen og foreldrene, og mellom skolen og elevene. Det gjelder for eksempel når skolen skal utarbeide skoleregler og uttrykke forventninger til foreldrene.
+
+Erfaringer viser at det er særlig viktig at skolen arbeider systematisk for å etablere tillit og ha lav terskel for å ta kontakt med foreldre. Tydelige kontaktlinjer og god tidlig dialog mellom hjem og kontaktlærer kan forebygge misforståelser og styrke samarbeidet. Tilgjengelig og inkluderende kommunikasjon er en forutsetning for reelt samarbeid. Bruk av tolk og informasjon på flere språk bidrar til at alle foreldre får mulighet til å delta. Samtidig viser erfaringer at det å anerkjenne foreldrenes egne språk og ressurser, styrker både tillit og involvering.
+
+Foreldre bør ikke primært betraktes som mottakere av informasjon, men som aktive samarbeidspartnere med verdifull kompetanse. Skoler som involverer foreldre som ressurspersoner eller veiledere for andre foreldre, har lykkes med å bygge bro mellom hjem og skole, særlig for familier som er nye i det norske skolesystemet.
+
+Også organiseringen av skole-hjem-samarbeidet har stor betydning. Når skolene utvikler foreldremøter fra å være rene informasjonsarenaer til å bli dialogbaserte møteplasser, øker ofte både engasjementet og kvaliteten på relasjonene. Erfaringer viser at møter der også elevene deltar kan styrke den gjensidige forståelsen og gi et bedre grunnlag for felles refleksjon. Slike arenaer gir rom for å drøfte temaer som søvn, skjermbruk, språkbruk og andre forhold som påvirker elevenes hverdag og læringsmiljø.
+
+For å oppnå varig effekt bør slike samarbeidsformer etableres tidlig i skoleløpet og videreføres gjennom både barne- og ungdomsskolen. Skolen må legge til rette for bred deltakelse, og det innebærer også en bevissthet om at foreldre har ulike livssituasjoner.
+
+Det er skolens ansvar å legge til rette for et inkluderende samarbeid med hjemmet. Dette kan innebære å være oppsøkende overfor foreldre som deltar i mindre grad, tilpasse kommunikasjonen til ulike behov og etablere gode relasjoner tidlig. En god start med nye familier legger et viktig grunnlag for videre samarbeid.
+
+Lærerens kompetanse er viktig for å få til et godt foreldresamarbeid. Det følger av rammeplanen for lærerutdanningene at en del av læringsutbyttet skal være å kunne initiere og ivareta et godt samarbeid mellom skole og hjem. Utvalget har fått innspill om at nyutdannede lærere ofte ikke føler seg tilstrekkelig forberedt på hvordan de skal legge til rette for et godt foreldresamarbeid. Dette framgår også av sluttrapporten fra evalueringen av grunnskolelærerutdanningene (Munthe et al., 2024).
+
+I kapittel 12 har utvalget foreslått å innføre en plikt for kommunen til å gi profesjonsfaglig veiledning til alle nyutdannede lærere de to første årene i yrket. Foreldresamarbeid bør være et av temaene som veiledningen skal omfatte.
+
+### Utvalgets forslag om samarbeid med foreldrene
+
+Utvalget foreslår å
+
+- oppfordre kommuner og fylkeskommuner til å gi foreldrene god informasjon om betydningen av deres holdninger og forventninger for barnas skolegang
+
+- oppfordre kommunene til å utarbeide gode rutiner for gjensidige forventningsavklaringer mellom skole og hjem
+
+  - For eksempel samarbeide om en «foreldreplakat» om foreldrenes rettigheter, plikter og ansvar
+
+- utarbeide mer veiledningsressurser på nasjonalt nivå, der også FUG bør bidra
+
+- stille krav om at foreldresamarbeid skal være en del av den profesjonsfaglige veiledningen til nyutdannede lærere
+
+## Skolens helsefremmende og forebyggende funksjon
+
+Skolens helsefremmende og forebyggende funksjon i samfunnet følger av opplæringsloven og folkehelseloven. Som tidligere nevnt har skolen ansvar for å sikre at alle elever har et trygt og godt skolemiljø som fremmer helse, inkludering, trivsel og læring. Dersom eleven ikke opplever at skolen er trygg, eller ikke opplever tilhørighet, utvikling og mestring, kan dette komme til uttrykk på ulike måter som over tid kan føre til helseutfordringer og redusere elevens evne til å nå sitt fulle potensial.
+
+Skolens helsefremmende og forebyggende funksjon har vært mye omtalt. Et eksempel fra årtusenskiftet er den nasjonale *Handlingsplan mot barne- og ungdomskriminalitet*, som kom i form av en stortingsmelding. Den legger vekt på at styrking og videreutvikling av elevenes deltakelse og ansvar i skolemiljøet og i nærmiljøet må stå sentralt i helsefremmende og forebyggende arbeid (St.meld. nr. 17 (1999–2000)). Et annet eksempel er fra Folkehelseinstituttet, som i en ny rapport peker på skolens relevans for barn og unges psykiske helse (Folkehelseinstituttet, 2025).
+
+Forebyggende og helsefremmende arbeid er avgjørende for å møte framtidens demografiske utfordringer, noe også helsepersonellkommisjonen var opptatt av. Ved å satse på folkehelse og tidlig innsats kan man redusere det framtidige behovet for helse- og omsorgstjenester, og dermed avlaste en presset helsesektor (NOU 2023: 4).
+
+WHO har definert fem strategiske innsatsområder på individ-, organisasjons- og samfunnsnivå, som er sentrale for å sette en befolkning i stand til å øke kontroll over eget liv og bedre egen helse (World Health Organization, 1986):
+
+1.  Bygge en helsefremmende politikk
+
+<!-- -->
+
+32. Skape støttende miljøer for helse og utvikling
+
+33. Styrke lokalsamfunns muligheter for kontroll over egen framtid
+
+34. Reorientere helsetjenesten mot helsefremmende arbeid
+
+35. Utvikle personlige ferdigheter, kunnskap og ressurser som setter folk i stand til å gjøre valg som fremmer helsen.
+
+Generelle innsatser på disse områdene har vist seg å ha god effekt, også for personer med forhøyet risiko for å utvikle ulike former for helseproblemer. Universelle helsefremmende tiltak som flytter risikofordelingen i hele befolkningen i riktig retning, gir størst effekt. Røykeloven er et godt eksempel på et universelt helsefremmende tiltak. Tilsvarende kan sies om 16 års aldersgrense for sosiale medier. Folkehelseinstituttet legger et forebyggingsperspektiv til grunn når de beskriver arbeid for å styrke barn og unges psykiske helse. De viser til at tiltak som retter seg mot alle barn og unge, i barnehage, skole og lokalmiljø, samlet kan ha større effekt enn tiltak som bare er rettet mot grupper med høyest risiko (Folkehelseinstituttet, 2025).
+
+Evalueringen av prosjektet *Universell forebygging av vold og overgrep – Sammen Mot* viser at universelle skole- og barnehagebaserte tiltak når fram til barn og unge med høy risiko, at tiltak rettet mot alle gir størst samlet reduksjon i problemer, og at selektive tiltak alene gir liten befolkningseffekt (Bjerklund & Hvitsand, 2024). Fellesskoleutvalget understreker at skolen ikke er avhengig av spesifikke programmer for å jobbe godt med forebygging. Det kan også gjøres gjennom det daglige og ordinære arbeidet med fag.
+
+### Skolen er ikke alene
+
+Utvalgets mandat spør om hva som er skolens oppgave å ta ansvar for når det gjelder hva barn og unge trenger å lære for å kunne leve gode liv i framtidens samfunn. Utvalget understreker at skolen ikke har et helsefremmende og forebyggende ansvar alene. Skolen er del av et lokalsamfunn. I denne sammenhengen er det viktig å se skolens helsefremmende og forebyggende funksjon i et helhetlig oppvekst- og folkehelseperspektiv. Barn og unges psykiske og fysiske helse formes i et samspill mellom individuelle, relasjonelle og strukturelle faktorer på alle arenaer der barn og unge lever sine liv. I nær tilknytning til skolen ligger hjemmene, helsestasjonene, barnehagene og skolefritidsordningen. I tillegg utgjør frivillige organisasjoner en viktig del av barn og unges liv. Sammen må alle disse aktørene samarbeide om å skape trygge og gode lokalsamfunn. Dette er barna våre avhengige av, både her og nå, og for å skape gode liv for seg selv i framtiden.
+
+Hjemmet forebygger og forbereder
+
+Fosterets utvikling påvirkes av faktorer i miljøet allerede i magen til mor, og deretter påvirkes det nyfødte barnet av hjemmeforholdene. Trygg og god tilknytning til foreldre, søsken og andre nære relasjoner i hjemmet, er av stor betydning for et barns utvikling. Trygge relasjoner og emosjonell respons fra omsorgspersoner danner malen for framtidig sosial fungering og mental helse. At hjemmet lærer å bidra til sunn og god utvikling, for eksempel gjennom kommunens helsestasjonsprogram, kan påvirke barnets helse positivt og forebygge senere problemer (Helsedirektoratet, 2021, 2023a). Utvalget viser til forslagene om foreldresamarbeid.
+
+Barnehagen forebygger og forbereder
+
+Ved ett års alder begynner de aller fleste barn i barnehage. I 2025 gikk 94,5 prosent av barn i alderen 1 til 5 år i barnehagen. I aldersgruppen 3 til 5 år deltar 97 prosent av barna (tall fra de siste fem årene) (Utdanningsdirektoratet, 2026f). Barnehagen skal ha en helsefremmende og en forebyggende funksjon og bidra til å utjevne sosiale forskjeller (Barnehageloven, 2005, § 2). Fysisk aktivitet, lek og varierte bevegelseserfaringer i tidlig barndom har betydning for motorisk utvikling, fysisk helse og senere aktivitetsvaner (Folkehelseinstituttet, 2025).
+
+Barnehagens daglige tilrettelegging for lek, bevegelse og samspill bidrar til barnas sosiale utvikling, evne til å regulere følelser og at de får oppleve å høre til i et fellesskap. Disse faktorene har dokumentert forebyggende effekt, særlig for barn i sårbare livssituasjoner (se f.eks. Drugli, 2013; Størksen, 2018).
+
+Skolefritidsordningen forebygger og forbereder
+
+Skolefritidsordningen (SFO) har fått en stadig større betydning i barns liv, og innføringen av 12 timer gratis kjernetid for 1.–3. trinn har økt deltakelsen.
+
+Forskning viser at skolefritidsordningen har et betydelig, men delvis uforløst potensial for å fremme både fysisk helse og sosial tilhørighet. SFO er en av arenaene hvor barn i småskolealder har størst mulighet til å leke, bevege seg og få utfolde seg sosialt i trygge rammer. SFO-tilbud med tilstrekkelig bemanning, kompetente voksne og gode fysiske rammer bidrar til høyere aktivitetsnivå, styrkede sosiale relasjoner og bedre opplevelse av tilhørighet, særlig for barn som strever faglig eller sosialt i skolen. SFOs betydning som overgangsarena mellom barnehage og skole løftes særlig fram. Trygge rammer, forutsigbarhet og muligheter til å utvikle vennskap i SFO, kan bidra til å redusere stress og utenforskap tidlig i skoleløpet. Evalueringen av rammeplanen for SFO understreker at barn som opplever tilhørighet og mestring i SFO, i større grad deltar i sosiale fellesskap også i skolen (Caspersen et al., 2024).
+
+SFO kan dermed bidra til å styrke barns tilknytning til skolefellesskapet og være med på å forebygge utfordringer knyttet til fravær, atferd eller sosial tilbaketrekning. Utdanningsdirektoratets oppdaterte kunnskapsgrunnlag understreker at SFO, særlig etter utvidelsen av gratis tilbud til 1.–3. trinn, bør ses på som en integrert del av kommunens samlede folkehelse- og oppvekstarbeid (Utdanningsdirektoratet, 2026j). Utvalget viser til forslagene i kapittel 11, om kvalitetsutvikling i SFO og en mer helhetlig skoledag for de yngste elevene.
+
+Frivillige organisasjoner forebygger og forbereder
+
+Frivillige organisasjoner og lag utgjør en viktig, men ofte undervurdert, del av det helsefremmende og forebyggende arbeidet for barn og unge. Ved siden av skolen, hjemmet, barnehagen og SFO, er frivilligheten en sentral hverdagsarena der barn og unge kan oppleve sosial tilhørighet, mestring, fysisk eller skapende aktivitet, mening og kontakt med trygge voksne utenfor familien. Norsk og internasjonal forskning viser at det å delta i organiserte fritidsaktiviteter er forbundet med bedre psykisk helse, høyere livskvalitet, sterkere sosial tilhørighet, og lavere risiko for ensomhet og marginalisering (Bakken, 2022; Folkehelseinstituttet, 2025; Fredricks & Eccles, 2006).
+
+Frivillige arenaer kjennetegnes ofte av lav terskel for deltakelse, sterk vektlegging av fellesskap og større rom for lek, engasjement og indre motivasjon enn mer formelle institusjoner. Dette gjør frivilligheten særlig viktig som et supplement til barnehage og skole, ikke minst for barn og unge som strever med skolemestring eller opplever skolen som lite inkluderende. I et forebyggende perspektiv kan frivilligheten dermed bidra til å styrke beskyttende faktorer tidlig i livsløpet, i tråd med et universelt og befolkningsrettet helsefremmende arbeid.
+
+Samtidig er deltakelse i frivillige aktiviteter sosialt skjevt fordelt. Økonomiske kostnader, transportutfordringer, foreldres tidsressurser og kjennskap til tilbudene fungerer som barrierer for mange familier. Barn og unge fra husholdninger med lav inntekt eller svake sosiale nettverk deltar i mindre grad i organiserte fritidsaktiviteter, til tross for at denne gruppen ofte har størst potensial for helsegevinst (Arnesen & Hansen, 2024). Uten målrettede inkluderende tiltak kan frivilligheten dermed bidra til å reprodusere snarere enn utjevne sosial ulikhet. Utvalget viser til omtale av samarbeidet mellom skolen og andre aktører i neste delkapittel.
+
+Et kunnskapsbasert helsefremmende arbeid for barn og unge forutsetter derfor at frivilligheten ses som en integrert del av et samlet oppvekst- og folkehelsesystem i kommunene. Kommunal tilrettelegging, økonomiske støtteordninger, samarbeid med barnehage, skole og SFO, og systematisk arbeid med tilgjengelighet og inkludering, er avgjørende for å sikre at flere barn og unge får reell tilgang til frivillige fellesskap og de helsefremmende ressursene disse representerer.
+
+### Skolen har et selvstendig ansvar
+
+Skolen står altså ikke alene i det helsefremmende og forebyggende arbeidet med barn og unge. Det er mange aktører og institusjoner som samlet bidrar til barn og unges oppvekst. Skolen står imidlertid i en særstilling, som en arena hvor alle barn og unge møtes. Dersom forebyggingsperspektivet løftes fram og prioriteres hos samtlige aktører, og skolen lykkes i sitt dannings- og utdanningsoppdrag, kan det beskytte mot en rekke negative konsekvenser.
+
+Skolen må motvirke marginalisering og utenforskap
+
+Et godt skolemiljø og fullført skolegang er blant de sterkeste beskyttelsesfaktorene vi har mot rusmisbruk, kriminalitet, vold og radikalisering. Barn og unge som begår kriminalitet, og særlig de som gjentatte ganger begår kriminalitet, har ofte sammensatte utfordringer og vokser ofte opp i familier med betydelige levekårsproblemer, omsorgssvikt og vold i hjemmet. Både politiet og forskning på kriminalitetsforebygging peker på at skolefravær, lav skolemestring og frafall kan være risikofaktorer for senere utenforskap og kriminalitet. Tilknytning til skolen og gjennomført utdanning er sentrale beskyttelsesfaktorer (Langøien et al., 2020). Forskning viser at skolemestring reduserer risikoen for normbrytende atferd og kriminalitet (Farrington et al., 2016). Undersøkelser viser at elever som opplever tilhørighet og trivsel i skolen, i mindre grad rapporterer problematferd og rusbruk (Bakken, 2022).
+
+I senere barneår og i ungdomstiden blir skolens forebyggende rolle særlig tydelig. Forskning viser at svak tilknytning til skole, lav trivsel, gjentatt fravær og manglende opplevelse av mestring er forbundet med økt risiko for rusmiddelbruk, normbrytende atferd og vold. Skolen fungerer dermed både som en læringsarena, og som en sentral sosial institusjon som kan motvirke marginalisering og radikalisering ved å gi barn og unge stabile strukturer, forutsigbarhet og demokratiske erfaringer.
+
+Skolens forebyggende funksjon ligger i stor grad i dens evne til å gi stabile og inkluderende fellesskap over tid. Tydelige rammer, forutsigbare forventninger fra voksne og stabile relasjoner bidrar til normutvikling og sosial regulering. Forebygging av kriminalitet og rus lykkes i mindre grad gjennom sene, individrettede tiltak, og i større grad gjennom tidlig og vedvarende styrking av tilknytning til skole og andre samfunnsinstitusjoner (se f.eks. Anderson, 2014; Machin et al., 2011). Fullført videregående opplæring har særlig stor betydning i et livsløpsperspektiv, både gjennom tilgang til arbeid og gjennom styrking av sosiale relasjoner, identitet og samfunnstilknytning (NOU 2019: 3; OECD, 2019c).
+
+En skole som lykkes med å styrke elevenes sosiale og emosjonelle utvikling og som skaper glede over å være sammen med andre, beskytter mot ensomhet, isolasjon og skolefravær. Opplevelse av tilhørighet og sosial inkludering i skolen henger tett sammen med elevenes psykiske helse, og med deres trivsel og deltakelse i skolehverdagen (Bakken, 2024; Folkehelseinstituttet, 2025).
+
+Lærdommer fra Agder politidistrikt om barn som begår gjentatt alvorlig kriminalitet
+
+Agder politidistrikt har gjennomført en analyse av hva som kjennetegner barn i Agder som begår gjentatt alvorlig kriminalitet. Rapporten viser at en høy andel av disse barna hadde store utfordringer på skolen, og falt helt eller delvis ut av skolen. Ungdomsskoleårene framstår som kritiske, hvor utfordringene eskalerte betydelig. Mange av barna hadde kjente utfordringer med psykisk helse, inkludert ADHD og traumediagnoser.
+
+Rapporten viser at barna har med seg komplekse sårbarhetsfaktorer, og at skoleutfordringene ikke er de eneste utfordringene for disse barna. Barna har ofte en oppvekst preget av uro og utrygghet, med tiltak fra barnevernet eller opphold på barneverninstitusjon. Barna sier selv at de gjerne skulle ha lykkes i skolen, men opplevde at de mislyktes. Flere av barna var selv registrert som fornærmet i en voldshendelse minst én gang, enten i nære relasjoner eller av jevnaldrende.
+
+Rapporten understreker behovet for en tidlig tverretatlig og helhetlig innsats der skolen, PP-tjenesten, barnevernet og helsetjenesten koordinerer sitt arbeid tettere for å fange opp de mest sårbare barna før utfordringene får utvikle seg til alvorlig kriminalitet.
+
+Kilde: Agder politidistrikt, 2026
+
+Rammeslutt
+
+Skolen har plikt til å samarbeide
+
+Kommunene har et lovpålagt ansvar for forebyggende arbeid rettet mot barn og unge. Alle sentrale velferdstjenester har plikt til å samarbeide med hverandre om oppfølgingen av barn og unge, både på systemnivå og i oppfølgingen av enkeltindivider (endringslov til velferdstjenestelovgivningen, 2021). Dette gjelder også for skolen, SFO og PP-tjenesten (Opplæringslova, 2024, § 24-1).
+
+Over tid har det vært bekymring for at mange barn og unge med behov for sammensatte velferdstjenester, ikke får et tilstrekkelig helhetlig tjenestetilbud. Mange offentlige utredninger har vist at de ulike tjenestene ofte ikke samarbeider godt nok, og at sårbare barn og unge ikke får den gode og helhetlige oppfølgingen de trenger. Dette var bakgrunnen for styrkingen og harmoniseringen av samarbeidspliktene i velferdstjenestelovene som ble vedtatt i 2021 (Prop. 100 L (2020–2021)). En evaluering av regelverket viser at det fortsatt er utfordringer i dette arbeidet, og at ressurser og mangel på kapasitet er de vanligste hindringene for å få til et godt samarbeid (Tøssebro et al., 2025).
+
+Utvalget mener det er behov for å styrke det tverretatlige samarbeidet om oppfølging av sårbare barn og unge. Både forskning og erfaringsbasert kunnskap viser at dette ikke fungerer godt nok i dag. Skolen, helsetjenesten, barnevern, politiet og andre aktører i barn og unges liv må handle tidlig og samordnet for å forebygge utenforskap og kriminalitet, og gi støtte til de mest utsatte barn og unge. Utvalget understreker at det vil gi store gevinster både for den enkelte og for samfunnet dersom velferdstjenestene i større grad klarer å samarbeide om å gi en god og helhetlig oppfølging av barn og unge som trenger det. Dette vil forebygge kriminalitet, utenforskap og helseutfordringer.
+
+Skolen må legge til rette for mangfold
+
+Et skolemiljø som anerkjenner ulikhet og ser på mangfold som en ressurs og en berikelse, reduserer fordommer, diskriminering og rasisme. Positiv og likeverdig kontakt mellom elever med ulik bakgrunn, kombinert med tydelige normer for inkludering og respekt, øker gjensidig forståelse og reduserer stereotypier (se f.eks. Allport, 1954; Dovidio et al., 2003). Elever som opplever anerkjennelse av egen identitet og tilhørighet i skolefellesskapet, har lavere risiko for ekskludering, for å bli utsatt for mobbing og for marginalisering. De har også bedre psykisk helse og skoletrivsel (Bakken, 2022; OECD, 2019c).
+
+Diskriminering og opplevelser av ikke å høre til, kan ha langsiktige konsekvenser for både læring, helse og for å delta i samfunnet.
+
+Skolen må fremme bevegelse og fysisk aktiv læring
+
+Forskningen viser at tiltak som integrering av fysisk aktivitet i skoledagen, aktive pauser og variert bruk av uteområder, bidrar til bedre fysisk helse, økt konsentrasjon, bedre læringsmiljø og redusert uro. På denne måten er fysisk aktivitet i skolen et tydelig helsefremmende og forebyggende virkemiddel, snarere enn et tillegg til skolens kjerneoppdrag.
+
+Sosiale fellesskap i skolen har også betydning for fysisk helse, blant annet ved sammenhenger mellom trivsel, aktivitetsnivå og deltagelse i organiserte og uorganiserte aktiviteter (Folkehelseinstituttet, 2025). Fysisk inaktivitet, psykiske plager og spiseforstyrrelser kan reduseres gjennom mer bevegelse i skolehverdagen, og gi økt robusthet og livsmestring.
+
+Mange barn og unge oppfyller ikke anbefalingene for daglig fysisk aktivitet, og fysisk inaktivitet henger sammen med lavere trivsel, mer stress og svakere opplevelse av mestring i skolehverdagen (Bakken, 2024). Folkehelseinstituttet peker på at skolen, gjennom sin struktur og sitt omfang, har unike muligheter til å bidra til daglig bevegelse og dermed til bedre fysisk helse for hele elevgruppen, uavhengig av sosial bakgrunn (Folkehelseinstituttet, 2025).
+
+Skolen må legge gode rammer for skolemåltider
+
+Fordi tiltak i skolen når alle barn og unge over tid uavhengig av sosial bakgrunn, er skolen en sentral arena for helsefremmende arbeid knyttet til mat og ernæring. Regelmessige måltider og tilgang til næringsrik mat i skolehverdagen kan ha positiv betydning for elevenes konsentrasjon, læring, trivsel og psykiske helse (Helsedirektoratet, 2023c).
+
+Mat- og helsetiltak i skolen har også betydning for forebygging av spiseforstyrrelser. Forskning tyder på at regelmessige måltider i trygge og støttende sosiale rammer, samt fravær av stigma og moraliserende holdninger til mat og kropp, kan være beskyttende faktorer mot utvikling av forstyrret spiseatferd og spiseforstyrrelser (Helsedirektoratet, 2017; López-Gil et al., 2024). Når matpakker og måltider integreres som en naturlig del av skolehverdagen, kan dette støtte et mer avslappet forhold til mat og fungere forebyggende. Vektlegging av kosthold, mat og helse i skolen kan dermed ses på som kunnskapsbasert og kostnadseffektivt, samtidig som det fremmer læring, psykisk helse og sosial inkludering. Lokale tiltak på dette området bør inngå som en integrert del av skolens helsefremmende og forebyggende arbeid. Utvalget foreslår å øke timetallet i mat og helse i grunnskolen, jf. kapittel 11.
+
+### Skolen er en av flere helsefremmende og forebyggende fellesskapsarenaer
+
+Hjemmet, offentlige oppvekstarenaer, lokalsamfunnet og frivilligheten har i sum sentrale roller i det helsefremmende og forebyggende arbeidet. Skolen er riktignok den mest omfattende og systematiserte av de offentlige arenaene, fordi de fleste barn og unge tilbringer 13 år av sitt liv i skolen. Men vi må huske at skolen er del av et større system. Flere ulike fellesskapsarenaer gir barn og unge opplevelser og erfaring gjennom hele oppveksten. Rusproblemer, kriminalitet og utenforskap utvikles ofte over tid og kan spores tilbake til vedvarende utfordringer knyttet til tilhørighet, mestring og deltakelse (Holte, 2012, 2018).
+
+Dersom alle arenaene hvor barn og unge lever sine liv lykkes med å gi dem trygghet, tilhørighet og mestring, vil de i sum representere en betydelig kraft for å fremme psykisk helse, fysisk helse, sosial tilhørighet og forebygge utenforskap. Som samfunn er vi avhengig av at alle institusjonene og aktørene som møter barn og unge i hverdagen, bidrar.
+
+Utvalget mener at det er behov for en sterkere kobling mellom forskning og praksisfelt knyttet til tverrfaglig og tverrsektorielt samarbeid om oppfølgingen av barn og unge. Dette kan legge til rette for at tiltak og samarbeidsmodeller mellom tjenester og ulike aktører prøves ut og evalueres. Det er også behov for utvidede følgestudier av barn og unge generelt, i tillegg til nærmere effekt- og følgestudier av tiltak for utsatte barn og unge spesielt. Kunnskap frambragt av slike langtidsstudier vil kunne gjøre tjenestetilbud for barn og unge bedre. Utvalget er kjent med at flere departementer har gått sammen for å finansiere en egen ordning i Forskningsrådet som skal fremme nettopp forskning på denne tematikken. Ordningen ses i sammenheng med samfunnsoppdraget om inkludering av barn og unge, som er en stor tverrfaglig og tverretatlig satsing med mål om å redusere utenforskap blant barn og unge innen 2035.
+
+### Utvalgets anbefalinger og forslag om skolens forebyggende funksjon
+
+Flere av utvalgets øvrige forslag i denne utredningen vil også fremme skolens forebyggende funksjon i samfunnet, til barn og unges beste. For eksempel vil det å prioritere økonomiske ressurser til skolen være en viktig forutsetning for det større forebyggende arbeidet. Tiltakene for å støtte elevenes sosiale og emosjonelle utvikling, økt fysisk aktivitet og bedre overgang mellom barnehage og skole som del av en mer helhetlig skoledag, vil også bidra positivt. Utvalget har foreslått å prioritere de praktiske og estetiske fagene, hvor mat og helse inngår, og vi vil fremme et inkluderende skolemiljø. Samlet sett vil dette framover gi kraft til skolens helsebringende og forebyggende funksjon i samfunnet.
+
+Utvalget mener samtidig at det kan være store kostnadsbesparelser både for den enkelte og for samfunnet om kommunene lykkes i sitt helsefremmende og forebyggende arbeid. Skolen har en nøkkelposisjon, men skolen er ikke alene. Kommunen har et særskilt ansvar for å legge til rette, koordinere og prioritere innsatser. Med bakgrunn i utvalgets beskrivelse over, vil utvalget komme med noen tydelige anbefalinger til hvordan kommuner og fylkeskommuner bør jobbe for å styrke skolens helsefremmende og forebyggende funksjon i samfunnet.
+
+Legg vekt på skolehelsetjenestens helsefremmende og forebyggende arbeid
+
+Skolehelsetjenesten skal drive helsefremmende og forebyggende psykososialt arbeid, bidra til å fremme elevenes fysiske og psykiske helse og forebygge sykdom og skade (Forskrift om helsestasjons- og skolehelsetjenesten, 2018, § 6). Utvalget understreker betydningen av at skolehelsetjenesten jobber *systemrettet* for å utnytte sitt helsefremmende og forebyggende potensial. Utvalget har merket seg at det systemrettede arbeidet framheves i nasjonal retningslinje om skolehelsetjenesten, og vil oppfordre kommunene til å legge vekt på dette arbeidet. Her er det en parallell til PP-tjenestens systemrettede mandat, som ble tydeliggjort i ny opplæringslov. En sentral intensjon var å redusere behovet for individuell tilrettelagt opplæring ved at utfordringer håndteres på systemnivå, heller enn at innsatsen hovedsakelig rettes inn mot enkeltelever.
+
+Prioriter tiltak som når alle, og som kan tilpasses og målrettes ved behov (proporsjonal universalisme)
+
+Ser en på Norges helsebudsjett alene, bruker staten bare 3 prosent på forebyggende helsearbeid (Lindstrøm & Utne, 2023). Skal forebyggende arbeid lykkes, må dette arbeidet i større grad anerkjennes og prioriteres, også økonomisk. Som nevnt vil utvalget prioritere ressurser til skolen og hegne om skoleøkonomien framover. Men det trengs kunnskap og forståelse i alle ledd og en anerkjennelse av helsefremmende og forebyggende arbeid i alle sektorer. Utvalget mener det som kan betegnes som *proporsjonal universalisme*, altså tiltak som er dokumentert virksomme, har lav terskel og god bærekraft, og som når alle, men som kan tilpasses og målrettes ved behov, må være en rettesnor for hvilke tiltak som prioriteres i framtiden.
+
+Bruk gode samhandlingsmodeller
+
+Tidlig innsats og helhetlig oppfølging er avgjørende for et forpliktende og systematisk samarbeid mellom hjem, barnehage, skole, frivillighet, helse- og omsorgstjenester, barnevern og politi. Slike samarbeid er nå tydelig forankret i regelverket til de ulike tjenestene. Det er også utarbeidet veiledere og etablerte strukturer på nasjonalt og kommunalt nivå. Men arbeidet er utfordrende. Når risikoen for utenforskap øker, bør alle berørte parter samhandle og tidlig tenke tverretatlig. Alt for ofte settes tiltak inn etter hverandre i rekke, ikke tverrfaglig og samordnet. Det gjør at en ikke lykkes, eller at det i noen tilfeller er for sent.
+
+Tidlig innsats forutsetter klare rutiner, lav terskel for samhandling og tid til relasjonsarbeid på tvers av tjenester. Da er det nyttig å se til samhandlingsmodeller som allerede har vist seg virksomme, og sørge for å ta dem i bruk.
+
+Ett eksempel er *Bedre tverrfaglig innsats (BTI).* Dette er en samhandlingsmodell som mange kommuner bruker i samarbeid på systemnivå. Hensikten med BTI-modellen er å sikre helhetlig og koordinert innsats uten at det blir brudd i oppfølgingen, og sørge for å prioritere helsefremmende innsatser.
+
+Et annet eksempel er *SLT-modellen*, som står for samordning av lokale rus- og kriminalitetsforebyggende tiltak. Modellen har til hensikt å koordinere informasjon, kunnskap og ressurser mellom kommunale aktører og politi, næringsliv og frivillige organisasjoner, for å fremme gode og trygge oppvekstsvilkår.
+
+Hev kompetansen om informasjonsdeling og samtykke
+
+Det er behov for klare rammer og økt kompetanse knyttet til informasjonsdeling og samtykke, slik at ansatte trygt kan samarbeide på tvers, innenfor gjeldende lovverk om taushetsplikt og personvern. Reglene om taushetsplikt, opplysningsplikt og adgang til å formidle opplysninger setter skranker for når opplysninger kan formidles og deles. Dette gjelder både ved samarbeid på tvers av tjenesteområder eller nivåer i egen sektor, og ved samarbeid på tvers av sektorene. Samtidig er det et handlingsrom innenfor regelverket som ansatte i de ulike tjenestene bør kjenne til og ha en felles forståelse av, for at den samordnede innsatsen skal lykkes.
+
+Ansatte i skolen har plikt til å være oppmerksome på forhold som kan føre til tiltak fra barnevernet, og en opplysningsplikt til barneverntjenesten. De har også en oppmerksomhetsplikt og opplysningsplikt til sosialtjenesten (Opplæringslova, 2024, §§ 24-2 og 24-3).
+
+Politiregisterloven sier at taushetsplikten ikke er til hinder for at politiet utleverer opplysninger til andre offentlige organer og institusjoner som inngår i et kriminalitetsforebyggende samarbeid, når det er nødvendig for å forebygge kriminalitet. Disse kriminalitetsforebyggende samarbeidene er helt sentrale for å lykkes. Politiinstruksen § 15-1 poengterer at politiet skal søke samarbeid med sosial- og skolemyndighetene.
+
+Legg vekt på et godt samarbeid med politiet
+
+Relasjonskompetanse, trygge oppvekstmiljøer og trygge relasjoner mellom barn og voksne og mellom barn og barn, virker forebyggende. Barn trenger trygge voksne som kan snakke med dem i hverdagslivet, og før en situasjon utvikler seg og tilspisses. Lærere og andre ansatte i skolen er i en særstilling for å oppdage elever som strever, enten det handler om helseutfordringer, utfordrende hjemmeforhold eller risiko for ungdomskriminalitet. Forebygging og bekjempelse av kriminalitet ligger til politiets kjerneoppdrag, ikke til skolens. Men skolen møter barna daglig og oppdager problemer tidligere enn politiet. Dette understreker viktigheten av et godt tverretatlig samarbeid mellom politi og skole.
+
+Skolen har etter regelverket en rekke plikter til å følge opp elevenes opplæring og trivsel. Kontaktlærer, sosiallærer eller andre i skolen kan være avgjørende for å fange opp økende tegn til risiko for ungdomskriminalitet. Det er også utarbeidet et *tiltakskort* for skolens handling og samarbeid når de er bekymret for et barn eller en ungdom, som gir råd om hvordan skolen bør gå fram i slike situasjoner, hvilke andre etater skolen bør kontakte og om informasjonsdeling (Utdanningsdirektoratet, 2025j).
+
+Kommunenes ansvar for forebyggende arbeid omfatter også kriminalitetsforebygging. Rapporter viser likevel at denne delen av ansvaret framstår som uklar og krevende å få tak på for kommunene, og at det mangler en omforent forståelse av roller og ansvar i det forebyggende arbeidet på kommunalt nivå (Riksrevisjonen, 2025a). Utvalget er kjent med etatssamarbeidet for utsatte barn og unge, som har fått i oppdrag å utrede roller og ansvar i det forebyggende arbeidet mot barne- og ungdomskriminalitet (Kunnskapsdepartementet, 2026d).
+
+Hold spesielt øye med overgangene
+
+Utenforskap kan beskrives som et kumulativt fenomen, der risiko ofte bygges opp ved gjentatte erfaringer med nederlag, brudd i relasjoner og manglende deltakelse. Overganger fra barnehage til skole og fra barneskolen til ungdomstrinn er særlig sårbare faser. Dersom barn og unge mister fotfeste i disse overgangene, øker risikoen for både skolefrafall, psykisk uhelse og kontakt med rus- og kriminalitetsproblematikk senere.
+
+Barn og unge trenger støtte mellom overgangene, rask gjenoppretting av relasjoner etter skifter, og en helhetlig og sammenhengende pedagogikk mellom nivåene. God overføring av informasjon om barna og elevene i overgangene er også viktig for progresjon i læring.
+
+I et livsløpsperspektiv innebærer dette at barnehage, SFO og skole ikke kan forstås som separate forebyggingsarenaer, men som deler av et samlet system. Sammen kan de bidra til å oppdage sårbarhet tidlig, tilby sammenhengende støtte og sikre at barn og unge opplever kontinuitet i relasjoner, forventninger og læring.
+
+Målrettet individuelt overgangsarbeid (MIO)
+
+MIO er et tiltak hvor videregående skoler og grunnskoler samarbeider om å gi individuell veiledning til elever i grunnskolen som vurderes å være i risiko for å ikke gjennomføre ordinær videregående opplæring.
+
+Intensjonen med MIO er å etablere et tettere samarbeid rundt eleven for å bidra til å forebygge frafall. Ungdomsskoleelever som deltar i MIO kan få målrettet og individualisert veiledning hvis skolen vurderer at eleven kan ha utfordringer med å gjennomføre ordinær videregående opplæring.
+
+Gjennom veiledningen skal eleven få den informasjonen som kreves før innsøking i videregående opplæring på våren i tiende klasse. Dette kan også innebære å få prøve ut eller hospitere i relevant arbeidspraksis, fag- eller yrkesretninger basert på en kartlegging av elevens interesser.
+
+Kilde: Nordland Fylkeskommune
+
+Rammeslutt
+
+Utvalget foreslår å
+
+- styrke det tverrsektorielle samarbeidet om forebygging og oppfølging av utsatte barn og unge som er i risiko for utenforskap og kriminalitet
+
+- støtte arbeidet med samfunnsoppdraget «Ingen barn og unge utanfor» og videreføre satsingen på forskning på temaet gjennom Forskningsrådet
+
+Utvalget støtter i tillegg de tverrsektorielle initiativene og forslagene som ble fremmet av en rekke departementer i stortingsmeldingen om sosial utjevning og like muligheter i oppveksten. Det gjelder spesielt de forslagene som vil være med å bedre betingelsene for skolens forebyggende funksjon i samfunnet (se Meld. St. 28 (2024–2025)).

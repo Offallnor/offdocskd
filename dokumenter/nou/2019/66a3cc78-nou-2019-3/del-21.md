@@ -1,882 +1,206 @@
-# NOU 2019: 3, del 21 av 25 (side 238–248)
+# NOU 2019: 3, del 21 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 238]
-
-236
-
-Kapittel 16
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Kapittel 16
-
-Økonomiske og administrative konsekvenser
-
-Innledning
-Det å delta i utdanning og tilegne seg ny kunnskap har en klar egenverdi. I tillegg har utdanning
-stor betydning for hvordan det går med et individ
-på mange områder i livet. Hva individet har med
-seg fra grunnopplæringen har konsekvenser for
-videre utdanning, som igjen henger sammen med
-sysselsetting og inntekt, helse, forventet levealder
-og tilpasningsevne i samfunnet. Blant annet finner
-Bhuller, Mogstad og Salvanes (2017) at ett år med
-ekstra skolegang gir høyere inntekt gjennom livsløpet, med en økonomisk avkastning på rundt 11
-prosent. Den privat-økonomiske avkastningen av
-utdanning varierer imidlertid med utdanningsnivå
-og med hvilken studieretning man velger i høyere
-utdanning (Aakvik, Salvanes, & Vaage, 2010; Kirkebøen, Leuven, & Mogstad, 2016). Utdanning får
-stadig mer å si for hvordan det går senere i livet.
-Blant annet stiller det norske arbeidsmarkedet
-stadig høyere krav til utdanningsnivå (S. Markussen & Roed, 2017).
-Utdanning har også en klar samfunnsøkonomisk nytteverdi. Utdanning kan bidra til økonomisk vekst i samfunnet gjennom å heve befolkningens generelle ferdighetsnivå (Hanushek og
-Woessman, 2008). En høyt utdannet arbeidsstyrke kan stimulere til forskning, innovasjon og
-teknologisk utvikling og dermed øke produktiviteten i samfunnet. I den enkelte bedrift bidrar
-høyt utdannet arbeidskraft til at hele bedriften
-blir mer produktiv gjennom kunnskapsspredning; i bedrifter med et gjennomsnittlig høyere
-utdanningsnivå har alle de ansatte høyere lønn,
-uavhengig av den enkelte ansattes utdanning.
-Med en utdannet befolkning følger også kunnskapsspredning og utvikling i lokalsamfunnet. Et
-høyere gjennomsnittlig utdanningsnivå i befolkningen øker det regionale inntektsnivået utover
-utdanningens privatøkonomiske avkastning. Når
-de ulike positive effektene av utdanning holdes
-sammen, blir den samfunnsøkonomiske avkastningen av utdanning beregnet til å ligge på rundt
-8 prosent i Norge. Ved å investere i befolkningens
-
-utdanningsnivå kan man videre forebygge
-arbeidsledighet, sikre bedre folkehelse, og legge
-grunnlaget for et samfunn med lav sosial ulikhet
-og lite kriminalitet. Til sist er en befolkning med
-en viss grunnutdanning en forutsetning for et
-informert og velfungerende demokrati (Statistisk
-sentralbyrå, 2005).
-Ethvert statlig eller lokalt tiltak som bidrar til
-at barn og unge lærer mer og oppnår et høyere
-utdanningsnivå, vil slik ha en samfunnsøkonomisk nytteverdi. Den samfunnsøkonomiske
-avkastningen av å investere i utdanning kan
-beregnes på flere måter. For eksempel er det
-beregnet at det for hver elev som fullfører videregående opplæring er en samfunnsøkonomisk
-gevinst på 1 million kroner. Og motsatt er den
-samfunnsøkonomiske kostnaden ved 10 prosent
-frafall i videregående opplæring beregnet til 6,2
-milliarder kroner (prisjustert for 2017) (Falch
-mfl., 2009). I vurderingen av de økonomiske konsekvensene av tiltakene som er foreslått i denne
-utredningen, må den samfunnsøkonomiske lønnsomheten av å investere i utdanning tas i betraktning.
-Ifølge utvalgets mandat skal minst ett av utvalgets forslag være basert på uendrede budsjettrammer.
-Kunnskapssystem for barnehage og grunnopplæring
-Utvalget har ikke foreslått endringer i de etablerte
-ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet.
-Utvalget foreslår å overføre oppgaver og ressurser knyttet til kompetanseutvikling fra Statlig
-spesialpedagogisk tjeneste til enkelte universiteter eller høyskoler. Dette tiltaket vil dermed ha
-administrative konsekvenser.
-Utvalget vurderer at de forslagene til tiltak
-som angår utvidelser og revideringer av dagens
-datakilder og systemer for informasjonsutveksling
-om barn og unges utvikling og læring, endringer i
-rammeplanene for barnehagelærer- og grunnskolelærerutdanningene, og endringer i det faglige
-
-[Side 239]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-innholdet og ansvaret for ulike kompetanseutviklingstilbud, kan gjennomføres innenfor eksisterende budsjettrammer.
-Utvalget foreslår å øke bevilgningen til
-forskningsprogrammet FINNUT i Forskningsrådet og øremerke midlene til forskning på
-kjønnsforskjeller i skoleprestasjoner og utdanningsløpet. Utvalget foreslår en bevilgning på
-minst 20 millioner kroner per år, som tilsvarer den
-statlige kostnaden av tiltaket.
-Utvalget foreslår å opprette et nasjonalt register for personentydige forløpsdata for barnehage
-og grunnopplæring, der SSB gis oppdraget med å
-forvalte registeret under forutsetning av at kommende reviderte statistikklov sikrer at data blir tilgjengelige for brukere på en effektiv måte. De
-økonomiske konsekvensene av dette tiltaket må
-utredes nærmere, men som et første anslag vurderer utvalget at utviklingen og forvaltningen av
-registeret kan komme til å koste staten omtrent
-20–25 millioner kroner i året.
-Utvalget anbefaler videre et nasjonalt senter
-for kunnskapsformidling som skal oppsummere
-og formidle utdanningsforskning og legge til rette
-for et utdanningsbibliotek for praksisfeltet. Dersom tiltaket gjennomføres ved å utvide mandatet
-til det eksisterende kunnskapssenteret for utdanning (KSU), behøver ikke tiltaket å ha nevneverdige administrative konsekvenser. Med utgangspunkt i de kostnadene som går til forvaltningen av
-et tilsvarende helsebiblioteket under Folkehelseinstituttet, vurderer utvalget at det bør bevilges
-rundt 25 millioner kroner årlig til forvaltningen av
-et utdanningsbibliotek under et slikt senter.
-Tidlig og tilpasset innsats
-Utvalget har ikke foreslått endringer i de etablerte
-ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet.
-Utvalget foreslår å innføre et krav om flerfaglig samarbeid i kommuneloven. Dersom man samtidig med dette forslaget opphever enkelte
-bestemmelser i særlovgivningen, vil forslaget ha
-betydelige administrative konsekvenser.
-Utvalget vurderer at et flertall av forslagene
-som angår endringer i opplæringsloven, mindre
-endringer i Rammeplan for barnehagens innhold
-og oppgaver, utviklingen av en rammeplan for
-aktiviteter i heldagsskolen, og forslag til
-endringer i kommuneloven, kan gjennomføres
-innenfor eksisterende budsjettrammer.
-Et flertall i utvalget foreslår å utrede en integrert lærerutdanning på mastergradsnivå for
-siste del av barnehagen og begynneropplæringen
-
-237
-
-Kapittel 16
-
-(for barn i aldersgruppen fem år til 4. trinn i
-grunnskolen). Her gjøres en første kostnadsberegning av et eventuelt tiltak. Utvalget tar
-utgangspunkt i at en andel studieplasser på
-dagens barnehagelærerutdanning (BLU) og en
-andel studieplasser på dagens grunnskolelærerutdanning trinn 1–7 (GLU) omgjøres til studieplasser på den nye lærerutdanningen. Som et
-utgangspunkt kan man se for seg at 20 prosent av
-studieplassene på BLU og 30 prosent av studieplassene på GLU blir omgjort. BLU ligger på
-bachelorgradsnivå, mens den nye lærerutdanningen skal ligge på mastergradsnivå. Dersom tiltaket skal følges av friske midler til UH-institusjonene, innebærer tiltaket statlige kostnader til å
-omgjøre BLU-studieplasser som ligger i departementets finansieringskategori E, til studieplasser
-i finansieringskategori D. I tillegg kommer kostnader til opprettelsen av nye studieplasser i en
-toårig mastergradsutdanning i kategori D. GLU
-ligger allerede på mastergradsnivå, og omgjøringen av studieplasser herfra medfører derfor ikke
-endringer i finansieringen.
-Dersom man tar utgangspunkt i at 20 prosent
-av dagens studieplasser på BLU (0,20*8225)
-omgjøres til studieplasser i det foreslåtte integrerte mastergradsløpet (tilsvarende rundt 1650
-studieplasser, der 330 studenter tas opp hvert år),
-vil statens totale kostnader av tiltaket i innføringsåret være 37 millioner kroner. Etter konsekvensjusteringer over fem år vil tiltaket være fullfinansiert med en årlig statlig kostnad på 161 millioner
-kroner. Dersom man heller velger å omgjøre 10
-eller 5 prosent av BLU-studieplassene til den nye
-lærerutdanningen, blir årlige kostnader etter fem
-år henholdsvis 78 eller 39 millioner kroner.1 Dersom det vurderes at tiltaket medfører behov for å
-slå sammen institutter for barnehagelærer- og
-grunnskolelærerutdanninger i UH-sektor, vil tiltaket i tillegg ha betydelige administrative konsekvenser.
-Utvalget foreslår å innføre plikt i barnehageloven for kommunen til å tilby gratis førskole til alle
-barn det kalenderåret barna fyller fem år. Tilbudet
-inkluderer minst fem timer lekbaserte læringsaktiviteter i uken, der også barn som ikke går i
-barnehagen skal kunne benytte seg av tilbudet.
-For å beregne kostnadene av tiltaket legger utvalget til grunn at førskoletilbudet gjennomføres i
-barnehagen. Fem timer av oppholdstiden i barnehagen per uke skal da være gratis og tilgjengelig
-1
-
-Dette er kun provenyanslaget over KDs budsjett, og viser
-ikke faktiske kostnader som institusjonene vil ha ved dette
-tiltaket.
-
-[Side 240]
-
-238
-
-Kapittel 16
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-for et helt årskull femåringer. Av alle femåringer
-går 97,6 prosent allerede i barnehage (Statistisk
-sentralbyrå, 2018b, tabeller 07459 og 09169). Kostnaden av å gi de resterende femåringene fem
-timer gratis oppholdstid i barnehage per uke er
-om lag 30 millioner kroner årlig. Dersom femåringene som går i barnehage i dag skal få en reduksjon i foreldrebetalingen som følge av tiltaket, vil
-den statlige totalkostnaden anslagsvis være på
-omtrent 260 millioner kroner årlig.
-Et flertall i utvalget foreslår å innføre en norm
-for lærerspesialister i begynneropplæring, der
-hver skole med et barnetrinn uavhengig av størrelse skal ha minst én lærerspesialist i begynneropplæring, og der lærerspesialisten delvis frikjøpes for å kunne fungere som en ressurs for de
-andre lærerne på småskoletrinnet. Tiltaket fastsetter ikke hvor stor prosentandel av et lærerårsverk lærerspesialisten skal frikjøpes fra, og dette
-må utredes nærmere. Allerede ansatte lærere kan
-videreutdanne seg til lærerspesialist, og utvalget
-vurderer at dette kan dekkes med eksisterende
-midler til videreutdanning. Staten må imidlertid
-kompensere kommunene for den prosentandelen
-som lærerne skal frikjøpes fra i stillingen som
-lærerspesialist. Som illustrasjonen følger her
-beregninger for frikjøp på henholdsvis 20 og 30
-prosent av et lærerårsverk. I 2019 utgjør et lærerårsverk i grunnskolen 745 000 kroner, og i 2018
-var det 2326 skoler med et barnetrinn i landet
-(Statistisk sentralbyrå, 2018b, tabeller 09546 og
-05232). For et frikjøp på 20 prosent vil tiltaket
-koste staten omtrent 350 millioner kroner årlig.
-For et frikjøp på 30 prosent vil de statlige kostnadene av tiltaket være på omtrent 520 millioner kroner årlig.
-Et knapt mindretall i utvalget foreslår å utrede
-flere modeller for felles førskole og fleksibel skolestart. For å illustrere mulige økonomiske virkninger av slike modeller har utvalget valgt å ta
-med anslagsvise beregninger i det følgende, med
-forbehold om at disse må gjøres på nytt etter en
-eventuell utredning med tanke på å pilotere og
-eventuelt systematisk prøve ut et tiltak for felles
-førskole og fleksibel skolestart. Gitt at det gjøres
-positive erfaringer med modellen i en piloteringsfase, foreslås det at ordningen prøves ut i et randomisert, kontrollert forsøk. Man vil trenge 50–100
-forsøksskoler og et tilsvarende antall kontrollskoler for å gjennomføre utprøvingen. Utprøvingen
-skjer over 15 år med definerte endepunkter
-underveis. Utvalget vurderer at forskningsinnsatsen og kostnaden til en systematisk
-utprøving av tiltaket, samlet vil komme på anslagsvis 100 millioner kroner. Dette inkluderer mer-
-
-kostnader som følge av at barna med forsøket får
-et førskoletilbud første året på skolen der ressursbruken skal være lik ressursbruken for en
-storbarnsplass i barnehage, se under. Tiltaket kan
-gjennomføres enten ved at alle barna starter i førskoleåret det kalenderåret de fyller seks år, eller
-ved at alle barna starter i førskoleåret det kalenderåret de fyller fem år.
-Dersom tiltaket gjennomføres ved at barna
-starter i førskoleåret det kalenderåret de fyller
-seks år, og tiltaket etter prøveperioden rulles ut
-nasjonalt, gjelder følgende beregning: Tiltaket
-innebærer med denne forutsetningen en ekstra
-ressurstildeling til seksåringene på rundt 33 500
-kroner per elev slik at ressursnivået blir likt som
-for en storbarnsplass (3 – 5 år) i barnehage.2 I
-det følgende tas det utgangspunkt i at et årskull
-er på 66 000 elever. Som en første illustrasjon
-antas det her at en tredjedel av barna med tiltaket vil gå et helt år i førskolen før de begynner
-på 1. trinn, det vil si rundt 22 000 elever. Merkostnadene av førskoleåret for disse elevene
-koster 737 millioner kroner. Det tas videre
-utgangspunkt i at en tredjedel av barna rulleres
-inn til 1. trinn etter et halvt år i førskolen. Merkostnadene av det halve førskoleåret for disse
-elevene er på rundt 369 millioner kroner. Disse
-elevene vil imidlertid bare gå et halvt år på 1.
-trinn, og vil i sum miste ett år i grunnskolen
-sammenlignet med i dag. Dette utgjør en reduksjon av statens utgifter til grunnskole på 2,56
-milliarder kroner. For disse elevene blir det dermed i sum en reduksjon av statlige utgifter på
-2,19 milliarder kroner. Til sist tas det utgangspunkt i at en tredjedel av elevene går rett videre
-til 1. trinn. Disse mister ett års skolegang i
-grunnskolen, noe som tilsvarer en reduksjon av
-statens utgifter til grunnskole på 2,56 milliarder
-kroner. Med antagelsene over om andelen elever
-som rulleres inn til 1. trinn på ulike tidspunkter,
-innebærer dermed dette tiltaket en samlet innsparing i statlige utgifter på ca. 4 milliarder kroner i året. Dersom man heller antar at to tredjedeler av seksåringene går et helt år i førskolen,
-en sjettedel av barna rulleres inn til 1. trinn etter
-et halvt år i førskolen og en sjettedel starter
-direkte på 1. trinn, medfører alternativet en samlet innsparing av statlige utgifter på ca. 900 millioner kroner i året.
-2
-
-I 2017 kostet en elev i en kommunal grunnskole i gjennomsnitt 116 200 kroner per år (Utdanningsdirektoratet, 2018i),
-mens gjennomsnittlig kostnad for en storbarnsplass (3–5
-år) i barnehage, prisjustert for 2019, er 149 710 kroner per
-år (Lunder, Eika & Håkonsen, 2018).
-
-[Side 241]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Dersom tiltaket gjennomføres ved at barna
-starter i førskoleåret det kalenderåret de fyller
-fem år, og tiltaket etter prøveperioden rulles ut
-nasjonalt, innebærer dette at et helt årskull starter
-ett år tidligere i grunnskolen. Som en første illustrasjon antas det her at en tredjedel av barna går
-et helt år i førskolen før de begynner på 1. trinn.
-Disse barna vil dermed få ett års skolegang mer i
-grunnskolen enn det de får i dag. Året de får
-ekstra er førskoleåret, som skal koste like mye
-som en storbarnsplass i barnehage. Dette innebærer da en ekstra utgift på rundt 3,29 milliarder
-kroner i året. Det antas videre at en tredjedel av
-barna rulleres inn til 1. trinn etter et halvt år i førskolen, går et halvt år på 1. trinn, og fullfører
-grunnskolen med samme antall år som i dag.
-Dette innebærer en ekstra utgift på 369 millioner
-kroner i året. Til sist antas det at en tredjedel av
-elevene går rett videre til 1. trinn. Disse vil gå like
-mange år på skolen som i dag, og medfører ingen
-ekstra kostnader. Samlede merkostnader blir da
-på ca. 3,7 milliarder kroner i året. Dersom man
-heller antar at to tredjedeler av femåringene går et
-helt år i førskolen, en sjettedel av barna rulleres
-inn til 1. trinn etter et halvt år i førskolen og en
-sjettedel starter direkte på 1. trinn, medfører alternativet en samlet kostnad på ca. 6,8 milliarder kroner i året.
-Ettersom femåringene med dette siste alternativet skal gå i grunnskolen i stedet for å gå i
-barnehagen, innebærer det en reduksjon av kostnader til barnehage. Gjennomsnittlig kostnad for
-en storbarnsplass (149 710 kroner) inkluderer
-både barnehageutgiftene til kommunene og foreldrebetaling (Lunder mfl., 2018). Foreldrene dekker omtrent 15 prosent av utgiftene til barnehagedrift (Utdanningsdirektoratet, 2018i). Kommunens kostnader per storbarnsplass beregnes her
-derfor til å utgjøre omtrent 127 250 kroner i 2019.
-97,6 prosent av alle femåringer går i barnehage
-(Statistisk sentralbyrå, 2018b, tabeller 07459 og
-09169). For et årskull på 66 000 barn tilsvarer
-dette ca. 64 400 barn. Innsparte kostnader for
-kommunen ved at 97,6 prosent av et årskull femåringer ikke lenger skal gå i barnehage, tilsvarer
-dermed ca. 8,2 milliarder kroner. Dette er utgifter
-som staten ikke lenger behøver å kompensere
-kommunene for. Når kostnadene for tiltaket er
-tatt med i beregning, innebærer dermed denne
-versjonen av tiltaket en netto reduksjon i samlede
-statlige kostnader til barnehage og skole på enten
-1,4 eller 4,5 milliarder kroner i året, avhengig av
-hvor stor andel av femåringene som skal gå et
-helt år i førskolen (to tredjedeler eller en tredjedel).
-
-239
-
-Kapittel 16
-
-Ettersom det med dette alternativet er snakk
-om en betydelig økning i elevtallet i grunnskolen,
-vil det imidlertid medføre investeringskostnader
-som ikke er medberegnet i driftsutgiftene i
-grunnskolen per elev over, blant annet grunnet
-behovet for endringer av fysiske strukturer. Det
-er utfordrende å anslå totale investeringskostnader til endringer av fysiske strukturer for skoler
-som har behov for det, ettersom dette vil variere
-med skolestørrelse, alderen på skolebygningene,
-utformingen av byggene, med mer. Det er imidlertid mulig å se til statens utgifter til tilskuddsordningen for kompensasjon av kommunenes
-utgifter til nødvendige investeringer i skolebygg,
-inventar og utstyr i forbindelse med skolestart for
-seksåringer, som ble innført høsten 1997. Her ble
-det foreslått en samlet investeringsramme på
-3 778 millioner kroner i 1996-kroner (St.prp. nr.
-39 (1995–96)), som prisjustert for 2018 er
-omtrent 6 milliarder kroner. Det hefter imidlertid
-usikkerhet ved hvor treffende dette og øvrige
-anslag for dette tiltaket er, og utvalget vurderer
-derfor at de økonomiske konsekvensene av en
-nasjonal utrulling av dette tiltaket må utredes
-nærmere.
-Et flertall i utvalget foreslår å innføre en heldagsskole på 1.–4. trinn i grunnskolen. Tiltaket
-kan gjennomføres på flere måter. En minstevariant er å utvide skoledagen med to timer som
-besettes av assistenter, og der det fremdeles vil
-være behov for SFO fra og med kl. 15.00. Kostnadene isolert sett for et slikt minstealternativ
-beregnes ved at elevene i gjennomsnitt er to
-timer lenger på skolen hver dag på hvert av trinnene 1 til 4, multiplisert med kostnaden for en
-uketime bemannet med assistenter, som er om
-lag 75 millioner kroner. Et minstealternativ av
-dette tiltaket vil dermed koste staten omtrent 3
-milliarder kroner årlig. Dette inkluderer ikke
-kostnader til en utvidelse av innhold eller tilbud i
-skoledagen, som kostnader til et varmt måltid,
-andre aktiviteter, læremidler, ekskursjoner eller
-lignende. Det kan legges til grunn at det vil være
-en viss innsparing knyttet til at barna tilbringer
-mindre tid i SFO, men dette er utfordrende å
-beregne gitt at SFO er ulikt organisert og finansiert i kommunene.
-Dersom man heller går inn for et maksimumsalternativ av tiltaket, der heldagsskolen
-innebærer en total innlemmelse av SFO i heldagsskoletilbudet, vil kostnadene bli betydelig større.
-Utvalget velger her å se til beregninger som
-Kunnskapsdepartementet har gjort i forbindelse
-med budsjettspørsmål fra Stortinget, der det
-beregnes at gratis SFO for småskoletrinnet der
-
-[Side 242]
-
-240
-
-Kapittel 16
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-alle elever i et årskull deltar, vil koste staten om
-lag 8,1 milliarder kroner i året (Budsjettspørsmål
-fra Stortinget, 2018). Ettersom maksimumsalternativet innebærer en innlemmelse av SFO i heldagsskolen, vil dette alternativet også ha betydelige administrative konsekvenser.
-Utvalget foreslår å innføre et lovkrav om at
-enkeltvedtak om spesialundervisning etter opplæringsloven § 5 utløser rett til spesialundervisning med personell med relevant pedagogisk
-eller spesialpedagogisk kompetanse i 80 prosent
-av vedtakstimene. Så langt utvalget har klart å
-bringe på det rene, finnes det ikke statistikk tilgjengelig som gjør det mulig å beregne kostnadene av dette tiltaket. Etter det utvalget kan forstå, beror dette på at data som er registrert i GSI
-om lærer- og assistentressurser til spesialundervisning ikke kan skille mellom ulike undervisningssituasjoner, slik at det ikke er mulig å etablere et entydig forhold mellom registrerte lærerog assistenttimer på den ene siden, og registrerte
-vedtakstimer for eleven (elevtimer) på den andre
-siden. Utvalget vurderer likefullt at det vil være
-nødvendig å kompensere kommunen økonomisk
-for et slikt lovforslag. Det vil derfor være behov
-for å beregne de statlige kostnadene av dette tiltaket nærmere, enten gjennom en kartlegging,
-eller gjennom forløpsdata dersom disse gjøres tilgjengelige i et nasjonalt register, jf. tidligere forslag til tiltak.3
-Utvalget foreslår parallelt å revidere barnehageloven § 19a og § 19e slik at enkeltvedtak om rett
-til spesialpedagogisk hjelp før opplæringspliktig
-alder utløser rett til spesialpedagogisk hjelp fra
-personell med relevant pedagogisk eller spesialpedagogisk kompetanse i 80 prosent av vedtakstimene. Slik utvalget kan forstå gjelder de samme
-utfordringene knyttet til kostnadsberegninger av
-dette tiltaket som for tiltaket om spesialundervisning. Utvalget vurderer at det også her vil være
-nødvendig å kompensere kommunen økonomisk
-3
-
-For å få et inntrykk av mulige kostnadsrammer, følger her
-en ren illustrasjon av hva et liknende tiltak ville koste,
-basert på registrert informasjon om lærer- og assistenttimer til spesialundervisning. I dag utgjør antall lærertimer
-til spesialundervisning 40 prosent av timeressursene til
-spesialundervisning, mens antall assistenttimer utgjør 60
-prosent. Dersom man ønsket å snu denne fordelingen, slik
-at antall lærertimer utgjør 60 prosent av timeressursene,
-ville det være behov for 4806 flere lærerårsverk enn i dag.
-Samtidig ville antallet assistentårsverk bli redusert med
-2018. For assistenter antas det at et årsverk er på 1687,5
-timer. Undervisningsplikten for lærere er beregnet til 708,5
-timer, basert på fordelingen av timer til spesialundervisning på barnetrinnet og ungdomstrinnet for skoleåret
-2018–2019. Med utgangspunkt i de gjennomsnittlige årsverkskostnadene ville den statlige merkostnaden av et slikt
-tiltak komme på omtrent 2,5 milliarder kroner.
-
-for lovforslaget, slik at det vil være behov for en
-nærmere utredning av de statlige kostnadene av
-tiltaket – enten gjennom en kartlegging eller gjennom forløpsdata.
-Grunnskolens innhold og organisering
-Utvalget har ikke foreslått endringer i de etablerte
-ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet.
-Utvalget foreslår å innføre krav om at skoler
-kun kan kjøpe inn fagfellevurderte læremidler
-etter nasjonalt fastsatte kvalitetskriterier for det
-enkelte fag. Dette tiltaket vil dermed ha administrative konsekvenser.
-Utvalget vurderer at forslagene til tiltak som
-angår endringer i læreplanverket, utredninger og
-videreutvikling av underveis- og sluttvurderingssystemet, endringer i opplæringsloven, samt etterog videreutdanningstilbud, kan gjennomføres
-innenfor eksisterende budsjettrammer.
-Utvalget foreslår å etablere en felles nasjonal
-internettportal for vurdering og sammenligning
-av digitale læremidler etter nasjonalt fastsatte kvalitetskriterier for det enkelte fag. Etter utvalgets
-vurdering bør det settes av en årlig budsjettramme på anslagsvis 10 millioner kroner til tiltaket.
-Utvalget foreslår å gjøre systematiske utprøvinger for å integrere opplæring i sosiale og emosjonelle ferdigheter i ulike undervisningsfag i
-grunnskolen. Etter utvalgets vurdering bør det
-settes av en årlig budsjettramme på anslagsvis 25
-millioner kroner til tiltaket.
-Utvalget foreslår å systematisk prøve ut ulike
-modeller for å øke timetallet i valgfag på ungdomstrinnet for å evaluere effektene av valgfag for
-elevenes skolemotivasjon, karakterer i valgfag og
-andre undervisningsfag, og sannsynligheten for å
-fullføre videregående opplæring. Etter utvalgets
-vurdering bør det settes av en årlig budsjettramme på anslagsvis 25 millioner kroner til tiltaket.
-Utvalget foreslår å opprette et såkornfond for
-digitale læremidler forvaltet på oppdrag fra Innovasjon Norge. Etter utvalgets vurdering bør det
-settes av en årlig budsjettramme på anslagsvis 50
-millioner kroner til tiltaket.
-Utvalget foreslår å utrede nærmere hvordan
-yrkesgrupper utenfor grunnskolen kan undervise
-i det foreslåtte faget utdanningsvalg og livsmestring, særlig gjennom samarbeid med skolehelsetjenesten og andre deler av de kommunale helseog omsorgstjenestene. Utvalget vurderer at øko-
-
-[Side 243]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-nomiske og administrative konsekvenser av dette
-forslaget må utredes nærmere.
-Utvalget foreslår videre å innføre krav om at
-kommunene må tilby minst fem valgfag som
-elevene kan velge mellom, utrede hvordan yrkesgrupper utenfor grunnskolen med relevant kompetanse kan undervise i enkelte av valgfagene,
-og opprette etter- og videreutdanningstilbud for
-de som underviser i valgfagene. Utvalget vurderer at de økonomiske og administrative konsekvensene av dette forslaget må utredes nærmere. Utvalget vurderer at det kan være hensiktsmessig å gjennomføre en kartlegging av
-eksisterende kompetanse blant dem som underviser i valgfagene, for deretter å vurdere hvor
-strengt et eventuelt kompetansekrav bør være.
-En mulighet er også å begrense kompetansekravet til å gjelde de vanligste eller største valgfagene. Utvalget vurderer at forslaget til tiltak bør
-inngå som en sak i konsultasjonsordningen med
-kommunene.
-Overganger til videregående opplæring og høyere
-utdanning
-Utvalget har ikke foreslått store endringer i de
-etablerte ansvarsforholdene mellom de tre forvaltningsnivåene under dette tiltaksområdet. Utvalget
-foreslår at ansvaret for karriereveiledning til hele
-befolkningen legges til fylkeskommunen. Dette
-medfører to endringer av forvaltningsnivå. For det
-første betyr det en endring fra dagens fordeling
-der kommunen har ansvar for rådgivning i grunnskolen. For det andre flyttes karriereveiledning
-for personer utenfor arbeid fra NAV, som er et
-partnerskap mellom stat og kommune, til fylkeskommunen.
-Utvalget vurderer at forslagene til tiltak og
-utredninger som angår inntaksforskriften til videregående opplæring, opptak til høyere utdanning,
-samt flertallet av forslagene om lærekandidatordningen, overganger mellom yrkesfaglige løp og
-høyere utdanning, kjønnsbalanse i høyere utdanning, og karriereveiledning for ungdom, kan gjennomføres innenfor eksisterende budsjettrammer.
-Utvalget foreslår å systematisk prøve ut løp
-som kombinerer fagskoleutdanning og høyere
-utdanning for å øke opptaket av studenter med
-fagbrev i høyere utdanning. Etter utvalgets vurdering bør det settes av en årlig budsjettramme på
-anslagsvis 25 millioner kroner til tiltaket.
-Utvalget foreslår at det utvikles et digitalt verktøy for karriereveiledere i ungdomsskolen. Etter
-utvalgets vurdering bør det settes av en årlig bud-
-
-241
-
-Kapittel 16
-
-sjettramme på anslagsvis 30 millioner kroner til
-tiltaket.
-Utvalget foreslår å utrede utdanningsløp som
-kombinerer henholdsvis yrkesfag med studiekompetanse, og yrkesfag med interessebaserte
-programfag fra studieforberedende utdanningsprogrammer. Utvalget mener utredningen også
-bør vurdere å opprette et øremerket investeringstilskudd til kommunene for å utvikle slike utdanningsløp og opprette elevplasser for slike tilbud.
-Ettersom tilskuddet er knyttet til utvikling av tilbud som allerede delvis finnes i fylkeskommunene, mener utvalget at tilskuddet bør ha et krav
-om kommunal medfinansiering. Til sist bør midlene innlemmes i rammetilskuddet når de kombinerte utdanningstilbudene er fastsatt i tilbudsstrukturen for videregående opplæring. Det antas
-at 25 prosent av elevene på yrkesfag (8750 elever)
-ønsker slike kombinerte utdanningsløp. Med en
-gjennomsnittlig utgift på 160 200 kroner per elev i
-videregående opplæring (Utdanningsdirektoratet, 2018i), bør fylkeskommunene da kompenseres for rundt 1,4 milliarder kroner. Den samfunnsøkonomiske nytten av å fullføre videregående
-opplæring er beregnet til omtrent 1 million kroner
-per elev (2017, prisjustert) (Falch mfl., 2009). For
-at tiltaket skal være samfunnsøkonomisk lønnsomt, må dermed 1400 flere elever fullføre videregående opplæring som følge av å ha mottatt tiltaket.
-Utvalget foreslår å utrede en ordning for å nedskrive studielånet for studieprogrammer der
-andelen søkere av ett kjønn utgjør under 20 prosent. Med ordningen vil personer av det underrepresenterte kjønnet få nedskrevet studielånet
-med 10 prosent eller opptil 25 000 kroner per år i
-de årene personen er i relevant arbeid. For å
-beregne kostnadene av tiltaket tas det utgangspunkt i at 1000 nyutdannede studenter per kull vil
-benytte ordningen hvert år. Det vil si at dersom
-studentene i gjennomsnitt bruker 20 år på å nedbetale lånet, vil 20 000 studenter benytte seg av tilbudet hvert år etter full utrulling av tiltaket. Gjennomsnittlig gjeld ved avsluttet høyere utdanning
-er 304 000 kroner i 2018 (Lånekassen, 2018). Med
-en nedbetalingsplan på 20 år, vil studentene i gjennomsnitt nedskrive lånet med 13 000 kroner per
-år. Tiltaket vil da koste staten 260 millioner kroner
-årlig. Ettersom tiltaket forutsetter at personene
-etter endt utdanning er i relevant arbeid, vil dette
-være en øvre grense for hva tiltaket vil koste for
-1000 studenter hvert kull.
-Utvalget foreslår å utrede et universitetsforberedende tilbud der elever kan ta opp fag fra videregående opplæring som ikke er bestått, bygge ut
-
-[Side 244]
-
-242
-
-Kapittel 16
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-vitnemålet til spesiell studiekompetanse, forbedre
-karakterer eller ta universitetsforberedende fag. I
-2017 deltok 1567 elever i alderen 19–24 år i annen
-videregående utdanning. Denne gruppen besto
-hovedsakelig av elever som tok fag ved private
-institusjoner. (Statistisk sentralbyrå, 2018b, tabell
-08947). Dersom disse i stedet gis tilbud om et universitetsforberedende år, og der det antas at kostnaden per elev er på rundt 150 000 kroner, vil
-dette medføre en statlig kostnad på 235 millioner
-kroner årlig. Kostnadene kan bli høyere dersom
-tiltaket gjør at flere elever enn i dag tar opp igjen
-fag etter videregående opplæring. Et kostnadsbegrensende tiltak kan være at tilbudet kun gis til
-elever som ikke har tatt et utforskende skoleår, jf.
-forslaget under. For de samfunnsøkonomiske
-kostnadene av tiltaket kan det legges til at noen
-elever som i dag går rett ut i arbeidslivet eller rett
-videre til et høyere utdanningsløp som de fullfører, vil bruke ett år mer på utdanning enn i dag før
-de kommer seg ut i arbeid. Det er utfordrende å
-avgjøre hvor stor samfunnsøkonomisk nytte tiltaket vil ha, ettersom tiltaket både vil kunne øke fullføringen i videregående opplæring og føre til at
-flere fullfører høyere utdanning.
-Utvalget foreslår å utrede et tilbud om et utforskende skoleår etter grunnskolen, der fylkeskommunene får ansvar for tilbudet. Ettersom skoleåret skal inneholde interessebaserte valgfag og
-utprøving av yrker i tillegg til et faglig innhold, er
-det naturlig å ta utgangspunkt i en kostnadsramme som ligger nærmere kostnadene for
-elever i videregående opplæring enn for elever i
-grunnskolen. Fylkeskommunene bruker i gjennomsnitt 160 200 kroner per elev i videregående
-opplæring (Utdanningsdirektoratet, 2018i). Tilbudet skal i utgangspunktet gis alle elever som
-ønsker det. Samtidig skal tilbudet utformes for
-ungdom som står i fare for å ikke fullføre videregående opplæring. Dersom alle elever uten
-grunnskolepoeng eller med færre enn 35 grunnskolepoeng mottar tilbudet, vil det utgjøre ca.
-15 000 elever. Dette tilsvarer en statlig kostnad på
-rundt 2,4 milliarder kroner årlig. Ettersom det
-like fullt vil være sannsynlig at flere elever enn de
-som er tenkt som målgruppe vil benytte seg av tilbudet, kan det være hensiktsmessig å vurdere
-kostnadene der eksempelvis 30 prosent av en
-kohort benytter seg av tilbudet. Dette vil tilsvare
-en statlig kostnad på omtrent 3,2 milliarder kroner
-årlig. Den samfunnsøkonomiske nytten av å fullføre videregående opplæring er 1 million kroner
-per elev. Tiltaket kan dermed være samfunnsøkonomisk lønnsomt dersom det bidrar til at henholdsvis 2400 eller 3200 flere elever fullfører vide-
-
-regående opplæring som resultat av å ha mottatt
-tiltaket.
-Utvalget foreslår å innføre lovfestet rett til
-læreplass for alle elever som fullfører Vg2 yrkesfag. Fylkeskommunen får ansvaret for å fylle retten, og må inngå opsjonskontrakter med lærebedrifter som skal dekke minst 50 prosent av elevene som starter på Vg1 i hvert yrkesfag. For å
-redusere risikoen noe for bedriften, foreslås en
-innføring av en seks måneders prøvetid for lærlinger over 18 år. Tiltaket innebærer derfor betydelige administrative konsekvenser. Videre skal
-dagens situasjon med flere kandidater enn lærlingplasser avhjelpes med økt lærlingtilskudd fra
-staten til fylkeskommunen. I 2017 var det 8100
-flere søkere enn læreplasser. Beholdes dagens
-lærlingtilskudd på 153 053 kroner, vil tiltaket medføre en statlig merkostnad på 1,2 milliarder kroner årlig.
-For å beregne den samfunnsøkonomiske nytten av tiltaket trengs et estimat på hvor mange av
-elevene som ville fullføre læretiden dersom de blir
-tilbudt læreplass. Det kan tenkes at de som står
-uten læreplass i dag, vil fullføre i noe lavere grad
-enn de som nå er lærlinger. Det er imidlertid ikke
-grunn til å tro at fullføringsandelen vil være svært
-annerledes, ettersom også disse elevene har fullført og bestått Vg2. Dersom vi regner med at de
-8100 elevene som blir tilgodesett med tiltaket fullfører i samme grad som lærlinger i dag (83 prosent fullføringsrate), vil rundt 6700 av dem fullføre
-videregående opplæring på normert tid. Av de
-elevene som ikke fikk lærlingplass i 2017, startet
-2500 av dem yrkesopplæring Vg3 i skole. Det
-antas at fullføringsgraden for disse er på mellom
-38 og 55 prosent (Aspøy & Nyen, 2015). Dersom
-vi trekker fra de elevene som fullfører yrkesopplæring Vg3 (omtrent 1 250 elever), vil tiltaket
-kunne føre til omtrent 5500 flere fagbrev med en
-samfunnsøkonomisk nytte på omtrent 1 million
-kroner per lærling. Den samfunnsøkonomiske
-innsparingen kan da bli på minst 5,5 milliarder
-kroner. Ettersom ordningen ideelt sett gjør yrkesfaglig Vg3 overflødig, kan man da ytterligere
-spare utgifter til 2 500 elever i Vg3. Disse koster
-160 200 kroner per år, og medfører dermed en
-besparelse på 400 millioner kroner. Den samlede
-innsparingen kan dermed bli på 5,9 milliarder kroner. Dersom dagens lærlingtilskudd beholdes, vil
-ordningen da ha en samfunnsøkonomisk nytte på
-hele 4,7 milliarder kroner.
-Det er utfordrende å avgjøre hvor mye av lærlingtilskuddet som må øke for at fylkeskommunen
-skal være i stand til å innfri rettigheten gjennom å
-gjøre ordningen attraktiv for bedriftene. Et
-
-[Side 245]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-maksalternativ er at staten dekker bedriftens fulle
-utgifter til lærlingene; dette vil innebære en dobling av lærlingtilskuddet (Utdanningsdirektoratet, 2017b). Totalt antall lærlinger i dag er omtrent
-21 000. Dersom lærlingtilskuddet dobles med den
-nye ordningen der alle har rett til læreplass, vil
-dette bety en ekstra kostnad for eksisterende lærlinger på omtrent 3,2 milliarder kroner (21 000 *
-153 000) og en kostnad for nye lærlinger på
-omtrent 2,5 milliarder kroner (8100 * 306 000). En
-fordobling av lærlingtilskuddet vil da koste staten
-5,7 milliarder kroner årlig. En dobling av lærlingtilskuddet vil samtidig medføre at lærlingen er
-fullfinansiert, noe som antas å være svært gunstig
-for bedriften. Selv med en dobling av lærlingtilskuddet vil dermed ordningen fortsatt være samfunnsøkonomisk lønnsom (5,9 - 5,7 milliarder kroner = 200 millioner kroner).
-Utvalget mener at fylkeskommunene bør
-utvide tilbudet av studieforberedende utdanningsprogrammer som i dag har høy søkning i forhold
-til antall elevplasser. Utvalget foreslår derfor å
-plassere alle studieforberedende utdanningspro-
-
-243
-
-Kapittel 16
-
-grammer utenom studiespesialisering i kategorien høykostnadsprogram i inntektssystemet for
-fylkeskommunen. I dag får fylker med en høy
-andel søkere til yrkesfaglige utdanningsprogrammer og det studieforberedende utdanningsprogrammet musikk, dans og drama høyere inntekter
-enn fylker med mange søkere til andre studieforberedende utdanningsprogrammer. Det er likevel
-ikke mulig å peke på et gitt beløp som staten overfører til fylkeskommunene til ulike utdanningsprogrammer. Det skyldes at videregående opplæring i hovedsak finansieres av fylkeskommunenes
-frie inntekter. For å legge til rette for at fylkeskommunene faktisk øker kapasiteten på populære
-utdanningsprogrammer mener utvalget at fylkeskommunene bør kompenseres gjennom rammetilskuddet. Det må utredes nærmere hva som er en
-rimelig kompensasjon for fylkeskommunene.
-Utvalget foreslår til sist at lærekandidater gis
-rett til videreutdanning til fagbrev uten tidsbegrensning. Økonomiske og administrative konsekvenser av dette tiltaket må imidlertid utredes
-nærmere.
-
-[Side 246]
-
-244
-
-Referanseliste
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Referanseliste
-Aadland, K. N., Aadland, E., Andersen, J. R., Lervåg, A., Moe, V. F., Resaland, G. K. & Ommundsen, Y. (2018). Executive Function, Behavioral Self-Regulation, and School Related
-Well-Being Did Not Mediate the Effect of
-School-Based Physical Activity on Academic
-Performance in Numeracy in 10-Year-Old Children. The Active Smarter Kids (ASK) Study.
-Frontiers in Psychology, 9, 245–245.
-Aakvik, A., Salvanes, K. G. & Vaage, K. (2010).
-Measuring heterogeneity in the returns to
-education using an education reform. European Economic Review, 54(4), 483–500.
-Abrahamsen, S. A., Ginja, R. & Riise, J. (2018).
-School Health Programs: Education, Heatlh,
-and Welfare Dependency of Young Adults. I S.
-A. Abrahamsen (Red.), Public Policy, Health,
-and Welfare. Universitetet i Bergen: Bergen.
-Accortt, E. E., Cheadle, A. C. & Schetter, C. D.
-(2015). Prenatal depression and adverse birth
-outcomes: an updated systematic review. Maternal and child health journal, 19(6), 1306–
-1337.
-Adler, N. E., Boyce, T., Chesney, M. A., Cohen, S.,
-Folkman, S., Kahn, R. L. & Syme, S. L. (1994).
-Socioeconomic status and health: The challenge of the gradient. American Psychologist,
-49(1), 15–24.
-Ainsworth, M. S. (1979). Infant–mother attachment. American Psychologist, 34(10), 932.
-Allen, J. S., Damasio, H., Grabowski, T. J., Bruss,
-J. & Zhang, W. (2003, 2003/04/01/). Sexual dimorphism and asymmetries in the gray–white
-composition of the human cerebrum. NeuroImage, 18(4), 880–894.
-Almas, I., Cappelen, A. W., Salvanes, K. G., Sørensen, E. Ø. & Tungodden, B. (2012). Explaining
-gender differences in competitiveness. American Economic Association Annual Meeting Paper, presented at Acapulco, January.
-Almond, D. (2006). Is the 1918 influenza pandemic over? Long-term effects of in utero influenza exposure in the post-1940 US population.
-Journal of Political Economy, 114(4), 672–712.
-
-Almond, D. & Currie, J. (2011). Killing Me Softly:
-The Fetal Origins Hypothesis. J Econ Perspect,
-25(3), 153–172.
-Almås, I., Cappelen, A. W., Salvanes, K. G., Sørensen, E. Ø. & Tungodden, B. (2016). What
-explains the gender gap in college track dropout? Experimental and administrative evidence. American Economic Review, 106(5),
-296–302.
-Almås, I., Salvanes, K. G. & Sørensen, E. Ø.
-(2012). Et valg i blinde? MAGMA Econas Tidsskrift for Økonomi og Ledelse, 5, 45–51.
-Altonji, J. G. & Pierret, C. R. (2001). Employer learning and statistical discrimination. The Quarterly Journal of Economics, 116(1), 313–350.
-Amato, P. R. (2001). Children of divorce in the
-1990s: an update of the Amato and Keith
-(1991) meta-analysis. Journal of Family Psychology, 15(3), 355.
-Amato, P. R. & Rezac, S. J. (1994). Contact with
-nonresident parents, interparental conflict,
-and children’s behavior. Journal of Family Issues, 15(2), 191–207.
-Andersen, P. Ø., Björklund, E., Bleses, D., Gjervan, M., Hagtvet, B. & Valvatne, H. (2011).
-Vurdering av verktøy som brukes til å kartlegge
-barns språk i norske barnehager. Rapport fra
-Ekspertutvalg nedsatt av Kunnskapsdepartementet 2010/2011. Hentet fra https://www.regjeringen.no/globalassets/upload/kd/vedlegg/barnehager/rapporter-og-planer/ekspertgruppe/vurdering_av_verktoy_2011.pdf
-Andersland, L. (2017). Peer Effects from a School
-Choice Reform. I Four Essays on the Determinants of Human Capital Accumulation in Norway. Bergen: Universitetet i Bergen.
-Anderson, M. L. (2008). Multiple inference and
-gender differences in the effects of early intervention: A reevaluation of the Abecedarian,
-Perry Preschool, and Early Training Projects.
-Journal of the American statistical Association,
-103(484), 1481–1495.
-Andresen, M. E. & Havnes, T. (2018). Child care,
-Parental labor supply and tax revenue. IZA Discussion Paper No. 11576, IZA Institute of Labor Economics.
-
-[Side 247]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Andresen, S., Høst, H., Nyen, T., Oldervoll, J. &
-Tønder, A. H. (2016). Evaluering av vekslingsmodell i fag-og yrkesopplæringen: Delrapport 2.
-NIFU Arbeidsnotat; 2016:18 og FAFO-notat;
-2016:18, NIFU og FAFO.
-Angrist, J. D. & Evans, W. N. (1996). Children and
-their parents’ labor supply: Evidence from exogenous variation in family size. NBER Working
-Paper No. 5778, National Bureau of Economic
-Research.
-Angrist, J. D. & Lavy, V. (1999). Using Maimonides’ rule to estimate the effect of class size on
-scholastic achievement. The Quarterly Journal
-of Economics, 114(2), 533–575.
-Angrist, J. D. & Lavy, V. (2009). The effects of
-high stakes high school achievement awards:
-Evidence from a randomized trial. American
-Economic Review, 99(4), 1384–1414.
-Angrist, J. D., Pathak, P. A. & Walters, C. R.
-(2013). Explaining charter school effectiveness. American Economic Journal: Applied
-Economics, 5(4), 1–27.
-Angrist, J. D. & Pischke, J.-S. (2008). Mostly harmless econometrics: An empiricist’s companion.
-Princeton: Princeton university press.
-Ankney, C. D. (1992). Sex differences in relative
-brain size: The mismeasure of woman, too? Intelligence, 16(3), 329–336.
-Antecol, H., Eren, O. & Ozbeklik, S. (2014). The
-effect of teacher gender on student achievement in primary school. Journal of Labor economics, 33(1), 63–89.
-Anthun, R. & Manger, T. (2006). Effects of Special
-Education Teams on School Psychology Services. School Psychology International, 27(3),
-259–280.
-Araujo, M. C., Carneiro, P., Cruz-Aguayo, Y. &
-Schady, N. (2016). Teacher quality and learning outcomes in kindergarten. The Quarterly
-Journal of Economics, 131(3), 1415–1453.
-Arcidiacono, P., Bayer, P. & Hizmo, A. (2010).
-Beyond Signaling and Human Capital: Education and the Revelation of Ability. American
-Economic Journal: Applied Economics, 2(4), 76104.
-Arden, R. & Plomin, R. (2006). Sex differences in
-variance of intelligence across childhood. Personality and Individual Differences, 41(1), 39–
-48.
-Aspøy, T. & Nyen, T. (2015). Godt, men ikke for
-godt: Evaluering av forsterket alternativ Vg3 for
-elever som ikke får læreplass (Fafo-rapport).
-Fafo. Hentet fra https://www.udir.no/globalassets/filer/tall-og-forskning/forskningsrapporter/alternativ-vg3.pdf
-
-245
-
-Referanseliste
-
-Attali, Y., Neeman, Z. & Schlosser, A. (2011). Rise
-to the challenge or not give a damn: differential
-performance in high vs. low stakes tests. IZA
-Discussion Paper No. 5693, IZA Institute of Labor Economics.
-Attanasio, O. P. & Kaufmann, K. M. (2014). Education choices and returns to schooling: Mothers’ and youths’ subjective expectations and
-their role by gender. Journal of Development
-Economics, 109, 203–216.
-Autor, D., Figlio, D., Karbownik, K., Roth, J. &
-Wasserman, M. (2016a). Family disadvantage
-and the gender gap in behavioral and educational outcomes. NBER Working Paper No.
-22267, National Bureau of Economics Research.
-Autor, D., Figlio, D., Karbownik, K., Roth, J. &
-Wasserman, M. (2016b). School Quality and
-the Gender Gap in Educational Achievement.
-The American Economic Review, 106(5), 289–
-295.
-Autor, D. & Wasserman, M. (2013). Wayward
-Sons: The Emerging Gender Gap in Labor
-Markets and Education. Washington, District
-of Columbia: Third Way. Hentet fra http://
-www.thirdway.org/report/wayward-sons-theemerging-gender-gap-in-labor-markets-andeducation
-Averett, S. L. & Burton, M. L. (1996). College attendance and the college wage premium: Differences by gender. Economics of Education
-Review, 15(1), 37–49.
-Avshalom Caspi & Terrie E. Moffitt. (2018). All
-for One and One for All: Mental Disorders in
-One Dimension. American Journal of Psychiatry, 175(9), 831–844.
-Azmat, G., Calsamiglia, C. & Iriberri, N. (2016).
-Gender differences in response to big stakes.
-Journal of the European Economic Association,
-14(6), 1372–1400.
-Backe-Hansen, E., Walhovd, K. B. & Huang, L.
-(2014). Kjønnsforskjeller i skoleprestasjoner: en
-kunnskapsoppsummering (NOVA Rapport 5/
-14). Norsk institutt for forskning om oppvekst,
-velferd og aldring.
-Backer-Grøndahl, A., Nærde, A. & Idsoe, T.
-(2018). Hot and Cool Self-Regulation, Academic Competence, and Maladjustment: Mediating and Differential Relations. Child Development.
-Backer-Grøndahl, A., Nærde, A., Ulleberg, P. &
-Janson, H. (2016). Measuring Effortful Control Using the Children’s Behavior Questionnaire–Very Short Form: Modeling Matters.
-
-[Side 248]
-
-246
-
-Referanseliste
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Journal of personality assessment, 98(1), 100–
-109.
-Bailey, M. J. (2006). More Power to the Pill: The
-Impact of Contraceptive Freedom on Women’s
-Life Cycle Labor Supply. The Quarterly Journal
-of Economics, 121(1), 289–320.
-Bailey, M. J. (2010). «Momma’s Got the Pill»: How
-Anthony Comstock and Griswold v. Connecticut Shaped US Childbearing. American Economic Review, 100(1), 98–129.
-Bailey, M. J. (2013). Fifty years of family planning:
-new evidence on the long-run effects of increasing access to contraception. (NBER Working
-Paper No. 19493). National Bureau of Economic Research.
-Bailey, M. J., Sun, S. & Timpe, B. (2018). Prep
-School for Poor Kids: The Long-Run Impacts
-of Head Start on Human Capital and Economic
-Self-Sufficiency. University of Michigan.
-Baker, M., Gruber, J. & Milligan, K. (2008). Universal child care, maternal labor supply, and family well-being. Journal of Political Economy,
-116(4), 709–745.
-Baker, M. & Milligan, K. (2016). Boy-girl differences in parental time investments: Evidence
-from three countries. Journal of Human Capital, 10(4), 399–441.
-Baker, R., Bettinger, E., Jacob, B. & Marinescu, I.
-(2018). The effect of labor market information
-on community college students’ major choice.
-Economics of Education Review 10/11, 65, 18–
-30.
-Bakken, A. (2009). Er mannlige lærere viktige for
-gutters skoleprestasjoner? Tidsskrift for ungdomsforskning, 9(2).
-Bakken, A. (2014). Ungdata. Nasjonale resultater
-2013. Oslo: Norsk institutt for forskning om
-oppvekst, velferd og aldring. Hentet fra http://
-www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2014/Ungdata.-Nasjonaleresultater-2013
-Bakken, A. (2015). Ungdata. Nasjonale resultater
-2014. Oslo: Norsk institutt for forskning om
-oppvekst, velferd og aldring. Hentet fra http://
-www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Ungdata.-Nasjonaleresultater-2014
-Bakken, A. (2016). Ungdata 2016. Nasjonale resultater. Oslo: Norsk institutt for forskning om
-oppvekst, velferd og aldring. Hentet fra http://
-www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publika-
-
-sjonar/Rapporter/2016/Ungdata-2016.-Nasjonale-resultater
-Bakken, A. (2017). Ungdata 2017 – Nasjonale resultater. Hentet fra http://www.hioa.no/OmOsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/
-2017/Ungdata-2017
-Bakken, A. (2018). Ungdata 2018. Nasjonale resultater. Oslo: Norsk institutt for forskning om
-oppvekst, velferd og aldring, OsloMet – storbyuniversitetet.
-Hentet
-fra
-http://
-www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2018/Ungdata-2018.-Nasjonale-resultater
-Bakken, A., Borg, E., Hegna, K. & Backe-Hansen,
-E. (2008). Er det skolens skyld? En kunnskapsovesikt om skolens bidrag til kjønnsforskjeller i skoleprestasjoner. Norsk institutt for
-forskning om oppvekst, velferd og aldring, NovaRapport, 4.
-Bakken, A. & Danielsen, K. (2011). Gode skoler–
-gode for alle? (NOVA-rapport). Norsk institutt
-for forskning om oppvekst, velferd og aldring.
-Bakken, A. & Dæhlen, M. (2011). Valgmuligheter i
-ungdomsskolen. Erfaringer med de språklige fordypningsalternativene og forsøk med arbeidslivsfag (NOVA Rapport 6/2011). Norsk institutt
-for forskning om oppvekst, velferd og aldring.
-Bandura, A., Barbaranelli, C., Caprara, G. V. &
-Pastorelli, C. (2001). Self-efficacy beliefs as
-shapers of children’s aspirations and career
-trajectories. Child Development, 72(1), 187–
-206.
-Barber, B. K., Stolz, H. E., Olsen, J. A., Collins, W.
-A. & Burchinal, M. (2005). Parental support,
-psychological control, and behavioral control:
-Assessing relevance across time, culture, and
-method. Monographs of the society for research
-in child development 70 (4), 1–137.
-Barclay, K. J. (2015). Birth order and educational
-attainment: evidence from fully adopted sibling groups. Intelligence, 48, 109–122.
-Baron-Cohen, S. (2002, 2002/06/01/). The
-extreme male brain theory of autism. Trends
-in cognitive sciences, 6(6), 248–254.
-Barrick, M. R. & Mount, M. K. (1991). The big
-five personality dimensions and job performance: a meta-analysis. Personnel Psychology,
-44(1), 1–26.
-Barrios, A. & Bovini, G. (2017). It’s Time to Learn:
-Understanding the Differences in Returns to Instruction Time. London School of Economics.
-Centre for Economic Performance.
+## Lovfeste rett til læreplass
+
+Opplæringsloven slår fast at alle har rett til treårig videregående opplæring som gir studiekompetanse, yrkeskompetanse eller grunnkompetanse. I 2017 var det 8 100 flere søkere enn læreplasser, som betyr at 28 prosent av søkerne ikke fikk læreplass (Kunnskapsdepartementet, 2018b). Blant søkere med ungdomsrett er 73 prosent gutter, og 72 prosent av søkere med ungdomsrett som får læreplass er gutter. De som ikke får læreplass har 6,8 færre karakterpoeng fra Vg2 og lavere fravær, og søkere med innvandrerbakgrunn er overrepresentert i forhold til søkermassen.
+
+Søkere med ungdomsrett som ikke får læreplass får i dag tilbud om yrkesopplæring Vg3 i skole, med praksisplass i bedrift. Kun 2 500 elever startet yrkesopplæring Vg3 i 2017. En evaluering viser at opplæring i skole ikke verdsettes like høyt som læreplass i arbeidsmarkedet, og at mange i sektoren anser ordningen som et nødvendig onde (Aspøy & Nyen, 2015). Dersom ordningen styrkes, kan den utkonkurrere lærlingordningen. Lærebedrifter bruker praksisplasser som en utvidet prøvetid da de har mulighet til å tilby praksiseleven lærlingplass ved et senere tidspunkt, eller de tar inn praksiselever ut fra et samfunnsansvar (Aspøy & Nyen, 2015). Ordningen er for lite meritterende til at de av elevene som er uten læreplass og har best karakterer og lavest fravær velger ordningen. Den er også lite motiverende for den svakest presterende gruppen. Aspøy og Nyen (2015) fant at andelen på Vg3 yrkesopplæring i skole som enten besto fagprøven eller fikk lærekontrakt var på 38–55 prosent i fylkene de undersøkte. Til sammenligning viser nasjonale tall at 83 prosent av lærlingene i bedrift som startet i 2012, fullførte med fagbrev i løpet av fem år (Utdanningsdirektoratet, 2018f).
+
+I 2011 ble muligheten for å lovfeste rett til læreplass utredet av Utdanningsdirektoratet (2011). Utredningen støttet seg på et juridisk notat om rett til læreplass av professor emeritus Henning Jakhelln ved Institutt for offentlig rett, Universitetet i Oslo. Den konkluderte med at en rett til læreplass vil måtte medføre en plikt til å gi læreplass, og at en slik plikt vil være for inngripende å legge på bedrifter. Det ble også drøftet om fylkeskommunen kan være pliktsubjekt. Det ble problematisert at fylkeskommunen dermed ville måtte tilby læreplasser der det ikke forelå tilbud fra bedrifter, noe som vil kunne føre til opplæringsplasser som i realiteten kun var en videreføring av skolegangen. Utredningen begrenset seg i stor grad til en juridisk vurdering. Å skape samsvar mellom antall skoleplasser og antall læreplasser ble avskrevet som en umulighet i utredningen, basert på drøfting med arbeidslivet og nordiske kollegaer. Hverken utdanningsvitenskapelige eller økonomiske forskningsmiljøer fikk i oppdrag å vurdere dette.
+
+I 2016 kom Riksrevisjonen med en rapport om styresmaktene sitt arbeid for å øke antall læreplasser (Riksrevisjonen, 2016). Der konkluderes det med at styresmaktene ikke har prioritert arbeidet med å rekruttere nye lærebedrifter høyt nok. Den viser også at økt lærlingtilskudd er det tiltaket som flest private lærebedrifter mener vil bidra til at de tar inn flere lærlinger.
+
+Utvalgets vurderinger
+
+Utvalget mener det bør innføres en lovfestet rett til læreplass for elever som fullfører Vg2 yrkesfag. Retten bør gis til alle som har fullført og bestått Vg2 innen tre måneder fra utstedelse av kompetansebevis. Utgangspunktet bør være at fylkeskommunen er pliktsubjekt, men at bedrifter skal tilby læreplassene. Etter utvalgets vurdering ligger det ikke noe vesentlig nytt i at kommunen får en plikt som de ikke selv er i stand til å fylle. Retten til barnehageplass ble innført under en erkjennelse av at det krevde en betydelig utbygging av private barnehager. Da denne rettigheten ble innført var det viktig at kommunene fikk virkemidler til å opprette de plassene som krevdes, gjennom økt tilskudd og bruk av markedsmekanismer for å realisere målet. På samme måte mener utvalget at fylkeskommunene bør få en rekke nye virkemidler for å skape likevekt i markedet for læreplasser.
+
+For det første foreslås det at fylkeskommunene må inngå kontrakter med opsjoner på læreplasser. I dag inngår fylkeskommunene avtaler med bedrifter samme år som lærlingene går ut i lære. For å sikre nok lærlingplasser må fylkeskommunene kjøpe opsjoner på lærlingkontrakter av lærebedriftene før elevene tas opp til Vg1. En opsjon er en kontrakt som gir fylkeskommunen rett, men ikke plikt, til å disponere en læreplass i bedriften. Lærebedriftene bør kunne selge opsjoner mellom seg før lærlingen tiltrer. Det vil redusere risikoen for bedriften, ved at tapet ikke blir like stort om bedriften for eksempel får færre ordrer enn den regnet med. Staten bør kreve at fylkeskommuner har opsjoner på minst 50 prosent av læreplassene ved opptak til Vg1. Prisen på opsjonen fastsettes i markedet. Ordningen medfører at bedriftene fortsatt konkurrerer om gode kandidater. Bedrifter med flere søkere enn plasser vil kunne velge fritt hvilke kandidater de vil gi tilbud til. Bedrifter med færre søkere enn plasser vil være bundet av opsjonen til å ta imot lærlinger basert på tildeling fra fylkeskommunen.
+
+Dette systemet vil medføre at fylkeskommunen må ta mer hensyn til tilbudet av lærekontrakter når de oppretter elevplasser på Vg1, enn tilfellet er i dag. Dette vil måtte gjøres på bekostning av etterspørselsstyrte elevplasser. I dag har alle elever rett til plass på ett av tre utdanningsprogrammer som eleven søker. Det kan være at enkelte fylker vil få lavere andel elever som får førsteønsket sitt oppfylt, og i enkelte tilfeller kan fylker måtte søke dispensasjon fra denne regelen for å sikre læreplass til alle. Lovverket bør derfor endres slik at fylkene kan søke om dispensasjon, men vilkårene bør være strenge.
+
+For at fylkeskommunen skal kunne oppfylle sin plikt til å gi læreplass, foreslås det videre at fylkeskommunen fristilles til å bestemme størrelsen på lærlingtilskuddet. I 2018 ligger basistilskuddet fast på 153 053 kroner for alle lærlinger. I enkelte bransjer vil det være stor etterspørsel etter lærlinger, og de vil bidra med høy verdiskapning i bedriftene. Disse bedriftene vil kunne tilbys et lavere tilskudd, mens i bransjer der rekrutteringen av læreplasser er vanskelig, bør fylkeskommunen gå inn med et høyere tilskudd. Opplæringsdelen i skole er heller ikke like kostbar i alle bransjer, og med en friere prissetting vil fylkeskommunen kunne ta hensyn til helheten i disponeringen av ulike skoletilbud. En fristilling av lærlingtilskuddet vil kunne virke kostnadsbesparende og føre til en bedre tilpasning mellom disponeringen av skoleplasser og arbeidsmarkedets behov. I tillegg bør fylkeskommunene også fristilles i prissettingen i markedet for opsjonskontrakter. Det er likevel sannsynlig at statens lærlingtilskudd til fylkeskommunen må økes for å fremskaffe 8 000 flere læreplasser og for å dekke kostnaden til opsjoner.
+
+I dag er lærekontrakter regulert i opplæringsloven. Dersom en part gjør seg skyldig i vesentlige brudd på pliktene sine i arbeidslivet, kan den andre parten heve lærekontrakten etter godkjenning fra fylkeskommunen. Dette stiller seg annerledes for lærlinger over 21 år: Denne gruppen har prøvetid og stillingsvern etter arbeidsmiljøloven. Regelverket for lærlinger gjenspeiler ikke bare at lærlingene er under opplæring på linje med skoleelever, men samtidig har et arbeidsforhold og må avfinne seg med regler som gjelder i arbeidslivet. Denne balansen opprettholdes blant annet gjennom at lærlingene søker på og konkurrerer om plassene som lærlinger slik som andre arbeidstakere.
+
+Med rett til læreplass vil enkelte bedrifter være forpliktet til å ta inn lærlinger som de har blitt tilordnet og ikke selv har valgt å gi tilbud til, og enkelte lærlinger vil få læreplass uten å ha gjennomgått en søknadsprosess. Dette skaper en større risiko for bedriftene enn det som er tilfellet i dagens system. Enkelte lærlinger får også et møte med arbeidslivet der det å få en jobb er en rettighet og ikke noe man må konkurrere om, på linje med retten til videregående opplæring i skole. Utvalget foreslår derfor at det innføres seks måneders prøvetid for lærlinger fra 18 år, slik at reglene samsvarer med bestemmelsene i det øvrige arbeidslivet. Også i prøvetiden har lærlingene et rettsvern mot usaklig avskjedigelse, men retten er vesentlig svakere enn etter prøvetiden. Dette vil både kunne redusere risikoen for bedriften og virke disiplinerende på arbeidstakeren.
+
+Fylkeskommunen har i dag mulighet til å benytte vekslingsmodeller for videregående opplæring, der elever går rett i lære eller parallelt i lære og skole. Dette kan virke motiverende for noen elevgrupper. Men en evaluering viser at de elevene som oppfattes som mest umodne (hvorav flertallet er gutter), ikke behersker kravene fra arbeidslivet i så ung alder og trenger tettere oppfølging og mer struktur, slik en skoleplass gir (S. Andresen, Høst, Nyen, Oldervoll & Tønder, 2016). Både fylkeskommunen og bedriftene tar dermed en økt risiko når svært unge elever plasseres i lære, en risiko som ikke bør legges til lærlingen.
+
+Endringen vil medføre at fylkeskommunen ikke lenger er ansvarlig for lærekontrakten og heller ikke beholder en mekler- og myndighetsrolle i avgjørelsen om heving av lærekontrakt for elever over 18 år. Det kan dermed være hensiktsmessig å ilegge fylkeskommunen en oppfølgingsplikt overfor lærlinger som står i fare for å miste sin kontrakt. Denne plikten kan legges til oppfølgingstjenesten og fylkeskommunen kan benytte flerfaglig kompetanse (gjennom for eksempel skolehelsetjenesten og Nav) for å igangsette tilpassede tiltak.
+
+Retten bør gjelde en læreplass som eleven er kvalifisert for, men kan ligge utenfor et fag kandidaten har søkt, og utenfor hjemfylket, slik tilfellet er i dag. Det bør også åpnes for at retten kan innfris med tilbud om læreplass i et annet land i EØS-området under samme vilkår som gjelder for læreplasser i Norge. Dersom fylkeskommunen likevel ikke klarer å oppnå likevekt i lærekontraktsmarkedet med disse virkemidlene, bør fylkeskommunen kunne søke om dispensasjon fra plikten til å tilby elever ett av tre utdanningsvalg.
+
+Tiltaket har også en prinsipiell side ved at ungdom og voksne i dag har rett til videregående opplæring. Utvalget anser alternativt Vg3 i skole som et så lite benyttet og lite meritterende tilbud at rettigheten reelt sett vanskelig kan anses som innfridd overfor elever som ikke får læreplass. Denne mangelen i dagens system går spesielt utover gutter.
+
+For å beregne den samfunnsøkonomiske nytten av tiltaket trengs et estimat på hvor mange av elevene som ville ha fullført læretiden dersom de ble tilbudt læreplass. Det kan tenkes at de som står uten læreplass i dag, vil fullføre i noe lavere grad enn de som nå er lærlinger. Det er imidlertid ikke grunn til å tro at fullføringsandelen er svært annerledes ettersom også disse elevene har fullført og bestått Vg2. Dersom vi regner med at de 8 100 som blir tilgodesett, fullfører i samme grad som lærlinger i dag, vil 6 700 av dem fullføre. Trekker vi fra de som i dag fullfører alternativt Vg3 (ca. halvparten av 2 500 elever), vil tiltaket kunne føre til 5 500 flere fagbrev med en samfunnsøkonomisk nytte på ca. 1 million per lærling. Samtidig spares utgifter til 2 500 elever i Vg3 som koster 400 mill. kroner. Den totale gevinsten kan da bli 5,9 mrd. kroner. Beholdes dagens lærlingtilskudd på 153 000 kroner vil det koste 1,2 mrd. kroner. Det er vanskelig å avgjøre hvor mye lærlingtilskuddet må øke for å innfri rettigheten, men tiltaket er lønnsomt selv om tilskuddet dobles for alle lærlinger: Da vil tiltaket samlet sett koste 5,7 mrd. kroner. En dobling av læretilskuddet vil medføre at lærlingen er fullfinansiert, noe som antas å være svært gunstig for bedriften. Utvalget vurderer dermed dette som et svært lønnsomt tiltak.
+
+Utvalget anbefaler
+
+- innføre lovfestet rett til læreplass for alle elever som fullfører Vg2 yrkesfag
+
+- innføre krav om at fylkeskommunene må inngå opsjonskontrakter med lærebedrifter to år frem i tid for minst 50 prosent av elevene som starter på Vg1 yrkesfag
+
+- øke den statlige satsen for lærlingtilskuddet og gi fylkeskommunene rett til å fordele lærlingtilskuddet fritt mellom bransjer.
+
+- senke aldersgrensen for prøvetid for lærlinger fra 21 til 18 år.
+
+## Målrette og øke anerkjennelsen av lærekandidatordningen
+
+Lærekandidatordningen er et tilbud til elever som ikke har forutsetninger for å ta fagbrev. I 2017 var det 1 952 lærekandidater, som utgjør 4,4 prosent av den samlede gruppen i yrkesopplæring i bedrift (lærlinger og lærekandidater). Lærekandidater følger en tilpasset opplæringsplan, enten fra starten av Vg1 eller etter først å ha prøvd ordinær yrkesopplæring. Ofte består dette i at kandidaten er unntatt fra læreplanmålene i ett eller flere fellesfag. To av tre lærekandidater er gutter, mens gutteandelen i yrkesopplæringen er 54 prosent (E. Markussen mfl., 2018).
+
+Praksisbrev er en ordning for lære rett etter ungdomsskolen for elever med svakt utgangspunkt. Ordningen praktiseres i fem fylker, og i 2017 var det 32 praksisbrevkandidater totalt (E. Markussen mfl., 2018). Målgruppen for praksisbrevordningen er «Elever fra grunnskolen som kan ha svake karakterer og høyt fravær, men som ikke har lærevansker eller særskilte opplæringsbehov» (Utdanningsdirektoratet, 2017a). Målgruppen for lærekandidatordningen er definert som «de som ønsker videregående opplæring i bedrift, men som ikke har forutsetninger for å nå kravene til fag- og svenneprøven» (Utdanningsdirektoratet, 2015b).
+
+Personer med grunnkompetanse fra lærekandidatordningen eller praksisbrev regnes i dag som ufaglært arbeidskraft og får ingen anerkjennelse for sin utdanning i yrkeslivet. NHO og Utdanningsforbundet mener at det kan være hensiktsmessig å innføre en yrkestittel for grunnkompetanse, som typisk vil inneholde assistentbegrepet for å skille gruppen fra arbeidere med fagbrev, for eksempel kokkeassistent og tømrerassistent (E. Markussen mfl., 2018). Begrunnelsen fra Utdanningsforbundet er at det kan virke motiverende for lærekandidater å ha en yrkestittel å sikte mot, og at det kan øke fullføringsgraden. LO ønsker ikke at det innføres en yrkestittel fordi de frykter at ordningen vil undergrave fagarbeidermodellen.
+
+I dag har alle som har fullført grunnskolen, og som ikke har fullført videregående opplæring, rett til dette, enten gjennom ungdomsretten (for personer på 24 år eller yngre) eller voksenretten (for personer over 24 år). Hva som ligger i begrepet «fullført videregående opplæring», skaper av og til tolkningsutfordringer (Utdanningsdirektoratet, 2016b). En streng tolkning medfører at fylkeskommuner har oppfylt sin plikt til å tilby videregående opplæring i henhold til opplæringsloven for lærekandidater som oppnår kompetansebevis. Det betyr at en person som har oppnådd grunnkompetanse, ikke har rett til videreutdanning til fag- eller svennebrev. Dette står i motsetning til elever som har falt ut av videregående opplæring, og som utvilsomt har rett til videreutdanning gjennom ungdomsretten og voksenretten.
+
+Utvalgets vurderinger
+
+E. Markussen mfl. (2018) har sammenlignet lærekandidatordningen med et normalt yrkesfaglig løp og yrkesfag med spesialundervisning. I analysen tok de hensyn til at lærlinger, yrkesfagelever og lærekandidater har ulike målsettinger, og konstruerte en kompetanseskala som verdsetter ulike mål med utdanningen. De fant at lærekandidatordningen gir bedre kompetanseoppnåelse for elever uten grunnskolepoeng og elever i den laveste desilen av grunnskolepoeng, som omtrent tilsvarer gruppen med færre enn 30 poeng. Den gir ikke bedre kompetanseoppnåelse for andre grupper.
+
+Elever i lærekandidatordningen kan skille seg fra andre elever langs mange dimensjoner med betydning for fullføring som ikke er tatt med i modellen. Samtidig peker resultatene fra analysen i samme retning som hovedtendensen i spørreundersøkelser og intervjuer av elever, lærere, fylkeskommuner, rådgivere, bedrifter og partene i arbeidslivet, om at ordningen fungerer godt for de svakest presterende elevene. Forskerene konkluderer med at «Elever med bedre karakterer fra ungdomsskolen bør holdes borte fra lærekandidatordningen».
+
+Etter utvalgets vurdering foreligger det en tydelig anbefaling fra forskningen om sterkere målretting av lærekandidatordningen. Utvalget mener derfor at ordningen bør anbefales for elever uten eller med færre enn 30 grunnskolepoeng, og kun unntaksvis anbefales for elever med høyere karakterer fra grunnskolen. Utvalget foreslår å gi kommunene plikt til å vurdere om elever med færre enn 30 grunnskolepoeng bør velge denne ordningen, og eventuelt gi eleven og fylkeskommunen et slikt råd i opptaket til videregående opplæring. I realiteten er dessuten lærekandidatordningen og praksisbrevet svært overlappende. Etter at fylkeskommunene ble fristilt til å benytte ulike vekslingsmodeller som avviker fra 2+2-modellen i fag- og yrkesopplæringen, er heller ikke ordningen med at elever går rett i lære etter ungdomsskolen, unik for praksisbrevordningen. Det virker unødvendig med to regelverk for svært overlappende grupper, særlig når den ene ordningen omtrent ikke benyttes. Utvalget mener derfor at disse ordningene bør slås sammen.
+
+For å gjøre lærekandidatordningen til et reelt utdanningsløp for ungdom vil utvalget oppfordre partene i arbeidslivet til å innføre en yrkestittel for lærekandidater gjennom tariffavtaler. Ved å målrette lærekandidatordningen mener utvalget at konkurransen med faglært arbeidskraft blir begrenset. Utvalget mener at fagbrev fortsatt skal være hovedordningen for yrkesfaglige utdanningsløp, og at alle elever med forutsetninger for å fullføre ordinært fagbrev bør holdes utenfor ordningen.
+
+I tillegg mener utvalget at det bør innføres en rett til videreutdanning til fagarbeidere med fagbrev for alle med oppnådd grunnkompetanse. Lærekandidatene er i utgangspunktet tatt opp fordi de mangler forutsetninger for å fullføre fagbrev. Imidlertid er dette forutsetninger som kan endre seg over tid. Dermed bør rett til videreutdanning heller ikke være begrenset av ungdomsretten, men også være del av retten til videregående opplæring for voksne. Retten til videreutdanning vil ytterligere være med på å sikre at faglært arbeidskraft fortsatt er hovedmodellen i norsk arbeidsliv, og unngå at lærekandidatordningen blir en fattigdomsfelle ved at lærekandidaters rett til videreutdanning sidestilles med elever som har falt ut av videregående opplæring.
+
+I opplæringsloven heter det at alle har rett til treårig videregående opplæring som gir studiekompetanse, yrkeskompetanse eller grunnkompetanse. På denne måten er oppnåelse av grunnkompetanse definert som et av tre mål med videregående opplæring. Likevel betegnes ikke fullført grunnkompetanse som fullføring av videregående opplæring i gjennomføringsstatistikken. En elev som har gått gjennom et planlagt løp som lærekandidat, sidestilles dermed med elever som for eksempel har sluttet tidlig i utdanningsløpet. Dersom dette endres vil det gi fylkeskommunene et sterkere insentiv til å ta i bruk lærekandidatordningen. 17 av 19 fylkeskommuner mener at oppnådd grunnkompetanse bør telle som fullført videregående opplæring, mens to fylkeskommuner ikke tar stilling til dette (E. Markussen mfl., 2018).
+
+Utvalget foreslår derfor at fullført lærekandidatløp med kompetansebevis blir regnet som fullført videregående utdanning i offisiell utdanningsstatistikk. Et motargument kan være at ordningen kan bli en for lett vei gjennom videregående for elever som egentlig kunne klart fagbrev. Fylkeskommuner og rådgivere kjenner seg imidlertid ikke igjen i den problemstillingen (E. Markussen mfl., 2018). Tydeligere krav om å målrette tilbudet bør sikre at ordningen ikke misbrukes for å bedre fullføringsstatistikken i videregående opplæring.
+
+Utvalget anbefaler
+
+- gi kommunene plikt til å vurdere om elever i ungdomsskolen som sannsynlig ikke vil oppnå 30 grunnskolepoeng, bør tilbys lærekandidatordningen, og eventuelt gi eleven og fylkeskommunen råd i opptaket til videregående opplæring.
+
+- oppfordre partene i arbeidslivet til å innføre yrkestittel for lærekandidater.
+
+- innføre rett til videreutdanning til fagbrev for lærekandidater, uten tidsbegrensning.
+
+- definere fullført grunnkompetanse som fullført videregående opplæring i offentlig statistikk.
+
+## Bedre utdanningsoverganger etter videregående opplæring
+
+For mange elever fra studieforberedende utdanningsprogrammer eller opplæringsløp kan overgangen til høyere utdanning være vanskelig. Noen av elevene mangler bare noen få fag for å oppnå studiekompetanse. Andre elever har oppnådd studiekompetanse, men mangler fag som de trenger for å søke seg på studiet de har lyst på. Det er særlig vanskelig å oppnå spesiell studiekompetanse om eleven har gått yrkesfag med påbygg til studiekompetanse. Flere gutter enn jenter søker seg til utdanning som krever spesiell studiekompetanse. En annen gruppe elever fullfører videregående utdanning med studiekompetanse, men får ikke gode nok karakterer til å komme inn på det studiet de ønsker. Andre igjen kommer inn på et studium, men mestrer ikke de kravene som stilles i høyere utdanning. Hele 39 prosent av mennene og 31 prosent av kvinnene som starter på høyere utdanning, fullfører ingen grad innen åtte år etter oppstart.
+
+I dag må elever som mangler karakter i et eller flere fag, som mangler spesiell studiekompetanse og som ønsker å forbedre sine karakterer gjøre dette gjennom private tilbud. For enkelte kan dette utgjøre en for stor økonomisk belastning til at de velger å forbedre eller fullføre sitt vitnemål. Elever som forbedrer karakterer i ettertid vil ikke kunne søke med sitt primærvitnemål, som kan gjøre at terskelen for å komme inn på ønsket studium blir høy for denne gruppen. Det er også svært ulikt hvorvidt studenter får anledning til å ta kurs som kan styrke grunnleggende studieferdigheter, for eksempel akademisk skriving, lesing av engelsk faglitteratur, eller studieteknikk.
+
+For elever fra yrkesfaglige utdanningsprogrammer er mulighetene for opptak til høyere utdanning begrenset. Y-veien er spesielt tilrettelagte utdanninger for søkere med relevant fagbrev som mangler studiekompetanse, og brukes først og fremst på ingeniørfag. NHO ønsker at flere høyskoler og universiteter skal tilby Y-veistudier, og for flere fagretninger, for eksempel innen økonomi, administrasjon og ledelse, helsefag, yrkesfaglærerutdanningen og IKT-fag (NTB, 2017). Universitets- og høgskolerådet mener at Y-veistudier er for ressurskrevende for institusjonene, og at studenter som tas opp i høyere utdanning, bør ha studiekompetanse.
+
+En annen mulighet for elever med yrkeskompetanse er opptak til høyere utdanning basert på realkompetanse. I dag er det opp til den enkelte institusjon om den vil ta opp studenter basert på realkompetanse i enkelte utdanninger. Realkompetanse innebærer at studenten har minst fem års arbeidserfaring på et relevant fagfelt. Det er også en aldersgrense på 25 år for opptak basert på realkompetanse, og henger sammen med at personer under 25 år har ungdomsrett og kan ta påbygg i stedet. I dag har imidlertid også personer over 25 år mulighet til å ta påbygg gjennom voksenretten.
+
+En tredje utdanningsmulighet for elever med yrkeskompetanse er fagskoletilbudet. Fagskoler er utdanningstilbud som bygger på fagbrev, og kan gi mesterbrev. Fra 2018 får personer med fullført toårig fagskoleutdanning generell studiekompetanse. Denne endringen kan øke antallet menn i høyere utdanning ettersom to av tre studenter i fagskolen er menn (Statistisk sentralbyrå, 2018b). Enkelte fagskoler har også samarbeid med høyskoler som gjør det mulig å bygge på en fagskoleutdanning til et bachelorprogram, slik som bachelorprogrammet i byggeledelse ved Fagskolen Innlandet, der fagbrev og yrkeserfaring er opptakskriterier (Fagskolen Innlandet, 2018).
+
+Elever med yrkeskompetanse har også begrensede muligheter for å spesialisere seg innenfor lærefagene. Videreutdanning ved en fagskole er en mer teoretisk spesialisering i blant annet ledelse, juss og økonomi. En fagarbeider med lengre praktisk erfaring har i dag ikke mulighet til å videreutdanne seg eller dokumentere opparbeidet praktisk kunnskap. En tømrer som for eksempel har lang erfaring med lafting av laftverk, har ikke mulighet til å sertifisere eller dokumentere lafteteknikken og kunnskapen. Det samme gjelder for mange fagarbeidere, spesielt innenfor håndverksfagene. Yrkes- og håndverksfagene er i stor grad basert på taus kunnskap som bare kan overføres til andre ved menneskelig samhandling gjennom praksis, prøving og feiling. Akademisk og teoretisk kunnskap kan i større grad skriftliggjøres og læres gjennom teoretisk opplæring i utdanningssystemet. Det er like stort behov for å videreutvikle kompetansen til fagarbeidere innenfor selve fagene som for arbeidskraft med høyere utdanning.
+
+Utvalgets vurderinger
+
+Et universitets- og høyskoleforberedende tilbud
+
+For å styrke overgangen fra videregående opplæring til høyere utdanning mener utvalget det er grunn til å utrede et universitets- og høyskoleforberedende tilbud. Særlig menn kan ha nytte av et slik tilbud. Det er flere menn enn kvinner som ikke fullfører videregående opplæring og høyere utdanning, og noen kjønnsforskjeller ser ut til å utjevne seg ved høyere alder.
+
+Et slikt tilbud kan gis elever som har gjennomført studieforberedende videregående opplæring uavhengig av om de har fullført og bestått alle fag. Elever bør kunne ta opp igjen fag som de mangler for å fullføre videregående utdanning, bygge ut vitnemålet til spesiell studiekompetanse, forbedre karakterer eller ta universitets- og høyskoleforberedende fag. Dersom tilbudet gjennomføres rett etter videregående opplæring, bør eleven gis anledning til å forbedre sitt primærvitnemål. Eksempler på universitetsforberedende fag kan være Examen Philosophicum, akademisk skriving, akademisk engelsk, studieteknikk, vitenskapelig metode og vitenskapsteori. Universitetsforberedende fag bør gi studiepoeng. Tilbudet kan legges til en videregående skole, inngå som en del av en folkehøyskole, eller utvikles i samarbeid med høyere utdanningsinstitusjoner.
+
+En risiko ved tiltaket er at elever ikke vil legge tilstrekkelig med arbeidsinnsats i det ordinære skoleløpet. Muligheten til å forbedre primærvitnemålet kan særlig bidra til dette. På den annen side kan spesielt gutter trenge noe lengre tid før læringspotensialet gir seg utslag i skoleprestasjoner. Denne risikoen kan begrenses på flere måter. En løsning er at forbedring av vitnemålet kun er mulig dersom skoleåret gjennomføres i direkte forlengelse av videregående opplæring eller vernepliktstjeneste. En annen løsning er å begrense antall fag som kan forbedres på primærvitnemålet. Dette bør utredes nærmere.
+
+Flere private aktører har i dag tilbud til denne elevgruppen, og formålet med tiltaket er ikke primært at det offentlige skal overta privat virksomhet. Fylkeskommuner bør kunne legge til rette for at private skoler kan tilby et universitets- og høyskoleforberedende skoleår med samme tilskudd som offentlige skoler ville fått. Det kan tale for at tilbudet reguleres gjennom universitets- og høyskoleloven som tillater private aktører å ta skolepenger og generere profitt.
+
+I 2017 deltok 1 567 elever i alderen 19–24 år i annen videregående utdanning, som hovedsakelig består av elever som tok fag ved private institusjoner (Statistisk sentralbyrå, 2018b, tabell 08947). Dersom disse i stedet gis tilbud om et universitetsforberedende år, og der kostnaden per elev beregnes til 150 000 kroner, vil dette medføre en statlig kostnad på 235 millioner årlig. Et kostnadsbegrensende tiltak kan være at tilbudet kun gis til elever som ikke har tatt et utforskende skoleår etter grunnskolen. I de samfunnsøkonomiske kostnadene av tiltaket kan det legges til at noen elever som i dag går rett ut i arbeidslivet eller rett videre til et høyere utdanningsløp som de fullfører, vil bruke ett år mer enn i dag før de kommer seg i arbeid. Det er vanskelig å avgjøre hvor stor nytte tiltaket vil ha ettersom tiltaket både vil kunne øke fullføringen i videregående opplæring og føre til at flere fullfører høyere utdanning.
+
+Tiltak for personer med yrkeskompetanse
+
+For å styrke utdanningsmulighetene for personer med yrkeskompetanse mener utvalget at mulighetene for etter- og videreutdanning og dokumentasjon av opparbeidet praktisk kunnskap i yrkesfagene bør utredes nærmere. Utredningen bør kartlegge dagens ordninger og muligheter, og evaluere mulige konsekvenser for arbeidsmarkedet og valg av utdanning og yrkeskarriere.
+
+Det er grunn til å regne med at dagens utdanningsmuligheter legger begrensninger på elever som har mer praktiske enn teoretiske og akademiske interesser, og dette gjelder trolig flere gutter. Så lenge norske gutter og jenter fortsetter å velge ulike videregående utdanningsprogrammer, fagområder og karriereveier, eksisterer det en skjevfordeling som kan begrense guttenes jobb- og karrieremuligheter på arbeidsmarkedet. Svake muligheter for videreutdanning innenfor et yrkesfag vil redusere motivasjon hos begge kjønn for å velge yrkesfag som en karrierevei. Arbeidsmarkedet er i rask forandring med stadig større krav til etter- og videreutdanning og kontinuerlig omstilling, også for yrkesfagene.
+
+På sikt mener utvalget det bør være mulig å oppnå fag- og svennebrev på flere faglige nivåer. En slik reform kan åpne for flere karrieremuligheter og gjøre det mer attraktivt å velge yrkesfag. Reformen bør utredes i samarbeid med partene i arbeidslivet.
+
+Utvalget mener at utdanningsmulighetene for elever med yrkeskompetanse også bør styrkes i høyere utdanning. Utvalget mener det bør utredes flere tilbud om forenklede overganger mellom yrkesfaglige løp og høyere utdanning, slik som Y-veien og samarbeidsstudier mellom fagskoler og høyskoleutdanninger. Utvalget mener også at aldersgrensen på 25 år for opptak til høyere utdanning etter realkompetanse bør oppheves. Denne aldersgrensen henger sammen med at personer under 25 år har ungdomsrett og dermed kan ta påbygg i stedet. I dag har imidlertid også personer over 25 år mulighet til å ta påbygg gjennom voksenretten. Dermed er det vanskelig å finne en god begrunnelse for aldersgrensen for opptak basert på realkompetanse.
+
+Utvalget anbefaler
+
+- utrede et universitets- og høyskoleforberedende tilbud der elever kan ta opp fag som ikke er bestått, bygge ut vitnemålet til spesiell studiekompetanse, forbedre karakterer eller ta universitetsforberedende fag.
+
+- utrede mulighetene for etter- og videreutdanning og dokumentasjon av opparbeidet praktisk kunnskap i yrkesfagene, og på sikt innføre muligheter for å oppnå fag- og svennebrev på flere nivåer og med fagspesialisering.
+
+- utrede og utvikle tilbud om forenklede overganger mellom yrkesfaglige løp og høyere utdanning, slik som Y-veien og utdanningsløp som kombinerer fagskoleutdanning og høyere utdanning
+
+- oppheve aldersgrensen på 25 år for opptak til høyere utdanning etter realkompetanse.
+
+## Øke kjønnsbalansen i opptaket til høyere utdanning
+
+Kjønnsbalansen i høyere utdanning påvirker kjønnsdelingen i arbeidslivet. Behovet for en mer variert gruppe yrkesutøvere kan særlig være stort i profesjoner med mye menneskelig kontakt der personlighet er viktig for yrkesutførelsen.
+
+For flere studier oppstår kjønnsubalanse gjennom at det er stor konkurranse i opptaket. I slike tilfeller vil selv de som ikke kommer inn på studiene ha høye karakterer fra videregående opplæring. I følge forskrift om opptak til høyere utdanning kan departementet gi inntil to tilleggspoeng for søkere av det underrepresenterte kjønnet på et studium for å jevne ut kjønnsforskjeller. Tilleggspoengene skal brukes i en avgrenset periode, og institusjonen må redegjøre for at andre virkemidler ikke har ført frem. I 2018 gis et ekstrapoeng til menn ved opptak til veterinær- og dyrepleierutdanningene ved Norges miljø- og biovitenskapelige universitet og sykepleierutdanningen ved Universitetet i Agder og Lovisenberg diakonale høyskole. I Meld. St. 7 (2015–2016) konkluderer regjeringen med å ikke oppfordre til bruk av kjønnskvoter, fordi dette binder institusjonene til å ta opp søkere med svakere resultater til populære studier, mens søkere av det motsatte kjønn med bedre kvalifikasjoner blir forbigått.
+
+Stortinget har bedt regjeringen om å utrede utforming og innføring av ekstrapoeng til gutter og jenter som søker på studier der det er for eksempel 80 prosent eller mer av det motsatte kjønn, og komme tilbake til Stortinget på egnet måte (Vedtak 605, 2015–2016). Flere studieprogram søkte om å få tilleggspoeng, men fikk avslag, der i blant psykologistudiet ved Universitetet i Oslo. Begrunnelsen var at studiet hadde 25 prosent menn ved opptaket i 2017. Psykologisk institutt mente at det burde være kjønnsandelen som fullfører studiet, og ikke kjønnsandelen som blir tatt opp, som legges til grunn for om det skal innvilges tilleggspoeng.
+
+Universitetet i Oslo er i ferd med å utvikle alternative opptakskriterier for studiet i medisin. De ønsker å bruke en flervalgstest som vurderer motivasjon, evne til kritisk og kvantitativ tenkning, etikk og språklig, kulturell og mellommenneskelig forståelse (Universitetet i Oslo, 2017a). I 2018 søkte de om å få ta opp 10 prosent av studentene basert på flervalgsprøven. Elevene må i tillegg oppfylle de formelle opptakskravene og ha minimum 5 i karaktersnitt. I Odense har de testet et opptakssystem som likner det som foreslås på medisinstudiet i Oslo. De fant at flere gutter kom inn på medisinstudiet med opptaket, og det var også lavere frafall blant studentene (Universitetet i Oslo, 2017b). Universitetet i Oslo ønsker en forsøksordning på fem år, men det er uklart hvordan ordningen skal evalueres.
+
+I opptaket til andre studier oppstår kjønnsubalanse som følge av at få av et kjønn søker seg til utdanningen, snarere enn at opptaket i seg selv fører til en skjevfordeling. I slike tilfeller vil man måtte akseptere en veldig stor forskjell i prestasjonsnivå mellom studentene av ulike kjønn for å få inn nok søkere av det underrepresenterte kjønnet. I noen tilfeller vil det overhodet ikke finnes søkere av det motsatte kjønn som kan fylle studieplassene. Da kan økonomiske insentiver brukes for å øke søkerandelen fra det underrepresenterte kjønnet. Dette gjelder kanskje spesielt fag med høy kvinneandel og lavt lønnsnivå, for eksempel sykepleierstudiet og barnehagelærerstudiet.
+
+Utvalgets vurderinger
+
+For å øke kjønnsbalansen i studier med stor konkurranse i opptaket foreslår utvalget at kun Universitets- og høgskolerådet kan søke om å igangsette forsøk og tiltak med tilleggspoeng, og at de må omfatte alle studiesteder som tilbyr studieprogrammet. Kravet om utprøving av andre virkemidler legges også på hele sektoren.
+
+En slik omlegging kan forsinke tiltak som institusjoner ønsker å gjennomføre, men tiltak som først blir satt i gang innføres med større kraft og i stor nok skala til at flere tiltak kan effektevalueres. Utvalget mener at krav om at tiltak evalueres, bør legges til grunn i forskriften. Gjennomføring og evaluering av felles tiltak vil videre sikre at eventuelle forbedringer i kjønnsbalansen ved ett studiested ikke forringer kjønnsbalansen ved et annet.
+
+Samtidig er det også hensyn som tilsier en restriktiv bruk av virkemidler som endrer opptakssystemet. Det er stor tillit til det norske opptakssystemet for høyere utdanning, og opptaket oppfattes som rettferdig blant søkerne (Hovdhaugen & Carlsten, 2018). At opptaket oppfattes som rettferdig kan være viktig for den norske samfunnskontrakten, særlig fordi høyere utdanning i stor grad er offentlig finansiert. Den norske opptaksordningen regnes også som svært effektiv. Både hensynet til rettferdighet og effektivitet kan trues av særskilte opptakskriterier, og det bør dermed stilles høye krav til transparens, forutsigbarhet og validitet i opptaksmetodene.
+
+I vurdering av søknader om bruk av tilleggspoeng eller alternative opptakskriterier bør Kunnskapsdepartementet etter utvalgets vurdering balansere flere hensyn. Virkemidler med få negative konsekvenser, som rekrutteringskampanjer, bør gjennomføres før mer inngripende virkemidler tas i bruk. I mange tilfeller kan imidlertid både tilleggspoeng og alternative opptaksformer være virkningsfulle tiltak, og i vurderingen av dette bør både den direkte effekten på opptaket og hvordan tiltaket vil påvirke søkermassen tas hensyn til.
+
+En rekke studier har i dag spesielle opptakskrav etter §4 i forskrift om opptak til høyere utdanning. De fleste av reglene omhandler krav om fordypningsfag og er begrunnet i at fagene er et nødvendig grunnlag for studiet. En annen kategori av spesielle opptakskrav krever en minimumskarakter i et fag eller et minste antall karakterpoeng. Dette gjelder krav om karakteren 3 i norsk for sykepleierstudiet ved OsloMet; krav om karakteren 3 i norsk og matematikk på alle sykepleierstudier fra 2019–2020 og i faglærerutdanningen i praktiske og estetiske fag; karakteren 4 i matematikk på integrert mastergradsstudium i teknologiske fag ved NTNU og i samfunnsøkonomi og politisk økonomi ved Universitetet i Bergen; krav om 35 karakterpoeng og karakteren 3 i norsk og 4 i matematikk på grunnskolelærer- og lektorutdanninger; og krav om karakteren 4 i engelsk ved engelskspråklige programmer ved NMBU og Det teologiske menighetsfakultet.
+
+Etter utvalgets vurdering kan spesielle opptakskrav til høyere utdanning være en mulig årsak til ubalanse mellom kjønn i høyere utdanning. Det har imidlertid ikke blitt utredet om spesielle opptakskrav påvirker kjønnsbalansen i fag der et kjønn er underrepresentert. Flere av disse kravene ble innført av andre hensyn, slik som å øke gjennomføringen blant studentene og øke prestisjen ved et studium. Det er mulig at noen av disse kravene kan være med å tiltrekke seg flere søkere av det underrepresenterte kjønnet ved at utdanningen og yrket får økt status. Samtidig mener utvalget at de spesielle kravene også kan ha andre kjønnseffekter. Gitt at alle studieplasser fylles opp, vil ikke spesielle krav øke det generelle faglige nivået på studentene som får plass. Det vil derimot skje en vridning av studentmassen, til studenter med et lavere karaktersnitt men som oppfyller karakterkravet i for eksempel norsk eller matematikk. Menn har både svakere karakterpoeng fra videregående opplæring og også en annen fordeling mellom fagene.
+
+Utvalget mener derfor at et forskningsmiljø bør utrede konsekvenser av spesielle opptakskrav i et kjønnsperspektiv. Analysen bør simulere hva som kjennetegner studenter som kom inn på studiet som følge av det spesielle kravet, men som ellers hadde hatt for lave karakterpoeng, og hva som kjennetegner studenter som ikke kom inn, men som hadde komme inn uten kravet. Det bør også gjøres en analyse av hvorvidt holdninger til faget blant potensielle søkere har endret seg som følge av opptakskravene. Formålet med denne analysen er å utrede om forskriften bør innskrenke bruken av spesielle opptakskrav.
+
+For å øke kjønnsbalansen for studier hvor det er få søkere fra et kjønn foreslår utvalget at det utredes en ordning med nedskriving av studielån. En gjennomgang viser at studier der menn utgjør mindre enn 20 prosent av søkerne omfatter 920 menn og 8 kvinner per år. Benytter man i stedet en grense på 30 prosent øker antallet med 1 958 menn og 1 277 kvinner, og vil da omfatte 4 163 personer til sammen (Statistisk sentralbyrå, 2018b; tabell 09516). Utvalget foreslår at en nedskriving følger samme regler som ordningen for Finnmark og Nord-Troms. Det innebærer at personer av det underrepresenterte kjønnet med en utdanning der andel søkere med et kjønn utgjør under 20 prosent kan nedskrive studielånet med 10 prosent eller opptil 25 000 per år der personen er i relevant arbeid. Med relevant arbeid menes det at personens yrke krever den særskilte utdanningen i profesjonsfag, og ellers at en grad på tilsvarende nivå kreves for stillingen.
+
+Nedskriving av studielån kan øke sannsynligheten for at menn og kvinner søker seg til andre studier. Lønn kan være en faktor i valg av studie, kanskje spesielt for menn. Utvalget tar utgangspunkt i at 1 000 nyutdannede per kull vil benytte ordningen hvert år. Disse har i gjennomsnitt 304 000 kroner i studielån, og utvalget har dermed beregnet at de de kan nedbetale i snitt 13 000 kroner per år i 20 år. Tiltaket vil da koste 260 millioner kroner årlig. Ettersom tiltaket forutsetter at personene etter endt utdanning er i relevant arbeid, vil dette være en øvre grense for hva tiltaket vil koste. Det er svært vanskelig å beregne samfunnsnytten av bedre kjønnsbalanse i ulike yrker.
+
+Utvalget anbefaler
+
+- erstatte dagens søknader fra høyere utdanningsinstitusjoner om bruk av tilleggspoeng og alternative opptakskriterier med felles søknader for studiesteder som tilbyr samme studieprogram i regi av Universitets- og høgskolerådet.
+
+- utrede konsekvenser av spesielle opptakskrav og andre særlige opptakskriterier for kjønnsforskjeller i høyere utdanning.
+
+- utrede en ordning for å nedskrive studielån for studieprogrammer der andel søkere med et kjønn utgjør under 20 prosent.
+
+## Styrke karriereveiledning for ungdom
+
+Karriereveiledning spiller en viktig rolle for utdanningssystemet. På ungdomstrinnet får elevene noen flere valgmuligheter, men alle går ut av grunnskolen med likestilt kompetanse, og de kan søke om opptak på alle utdanningsprogrammene i videregående opplæring. Faget utdanningsvalg på ungdomstrinnet skal bidra til at elevene oppnår kompetanse i å treffe karrierevalg som er basert på deres ønsker og forutsetninger. Faget skal gi kunnskaper om hva forskjellige utdanningsveier kan føre frem til, og gi innsikt i et arbeidsmarked i endring. I videregående opplæring må elevene velge mellom ulike utdanningsprogram og utdanningsløp innenfor hvert utdanningsprogram. Elever i grunnskolen og videregående opplæring har rett til utdannings- og yrkesrådgivning.
+
+I 2016 leverte Karriereveiledningsutvalget sin hovedrapport (NOU 2016: 7, 2016). En sentral anbefaling fra Karriereveiledningsutvalget var å lovfeste rett til karriereveiledning for hele befolkningen. I dag finnes denne retten for elever i grunnskolen og videregående skole og er ellers et tilbud fra NAV. Lærlinger er en gruppe som ofte ikke følges opp spesielt av noen av rådgiverne. En lovfesting kan tydeliggjøre lærlingers rett til karriereveiledning. En annen utfordring med dagens deling av dette ansvaret er at rådgivere i skolen ikke har særskilt kontakt med arbeidslivet og ikke nødvendigvis kjenner arbeidslivets behov, og at veiledere på NAV har begrenset oversikt over utdanningstilbud.
+
+I dag er det ingen formelle kompetansekrav til rådgivere og andre karriereveiledere. Utdanningsdirektoratet kom i 2009 med en anbefaling om formell kompetanse for rådgivere i skolen, som inneholder en anbefaling om utdanning på minst bachelornivå og 60 studiepoeng med relevant utdanning (Utdanningsdirektoratet, 2009). En av anbefalingene fra Karriereveiledningsutvalget var at det lovfestes kompetansekrav til karriereveiledere på tre nivå, etter europeisk standard. På laveste nivå bør det kreves at lærere i faget utdanningsvalg har utdanningen som i dag er anbefalt for rådgivere, i tillegg til lærerutdanning (Career Advisors). Rådgivere på skoler, på karrieresentre i NAV og i høyere utdanning bør ha karriereveiledning som sin hovedutdanning og bør ha mastergrad i dette (Career Professionals). Slike mastergrader tilbys i dag ved NTNU og ved Universitetet i Sørøst-Norge. I tillegg bør myndigheter og ledere for karrieretjenester ha kompetanse på høyeste nivå (Career Specialists), noe som krever mastergrad og betydelig arbeidserfaring. Disse skal utvikle karriereveiledningstilbudet og holde seg oppdatert på relevant forskning. Enkelte av disse bør også ha ph.d. innenfor karriereveiledning.
+
+Utvalgets vurderinger
+
+Utvalget støtter innføringen av en rett til karriereveiledning for hele befolkningen i tråd med forslaget fra Karriereveiledningsutvalget. Utvalget mener plikten til å tilby karriereveiledning bør legges til fylkeskommunen. Dette vil kunne løses av en felles karriereveiledningstjeneste, fra ungdomstrinnet og gjennom hele utdannings- og arbeidsløpet. Etter utvalgets vurdering er det særlig avgjørende at lærlinger får et bedre tilbud om karriereveiledning. Ettersom rundt 70 prosent av alle lærlinger er gutter vil en styrking av tilbudet for lærlinger særlig kunne komme gutter til gode, og dermed bidra til å redusere kjønnsforskjeller i utdanningssystemet.
+
+Etter utvalgets vurdering har en rett til karriereveiledning liten praktisk betydning dersom ikke rådgivere og karriereveiledning har tilstrekkelig kompetanse. Utvalget støtter derfor også anbefalingen fra Karriereveiledningsutvalget om å innføre kompetansekrav i karriereveiledning for rådgivere. Etter utvalgets vurdering bør ungdomsskolene særlig legge til rette for at undervisning i faget utdanningsvalg bør kunne kombineres med rådgiverstillinger, slik at rådgivere får hele stillinger.
+
+Gode utdannings- og karrierevalg krever mye informasjon om både utdanningstilbud, arbeidstilbud og tilgjengelig forskning og statistikk. Elever i ungdomsskolen har lite kjennskap til eksempelvis lønnsnivå i ulike bransjer, og særlig gjelder det for gutter (Almås mfl., 2012). Elever på ungdomsskolen har også lite kjenneskap til grad av fullføring på ulike utdanningsprogram i videregående opplæring. Det er spesielt vanskelig å få oversikt over hva som er det beste utdanningsvalget for individet. Mye av dette valget må gjøres på bakgrunn av egen motivasjon. Samtidig er det sterke sammenhenger mellom individkjennetegn som kjønn, grunnskolepoeng og fravær, og muligheten til å lykkes med en utdanning eller i et yrke.
+
+Etter utvalgets vurdering kan karriereveiledningen styrkes ved at det samles informasjon som i dag er spredt på mange kilder, og som bare delvis er tilgjengelig for rådgivere. Utvalget foreslår at det opprettes et digitalt verktøy for at ungdom skal kunne treffe gode utdanningsvalg. Verktøyet bør samle informasjon som ikke er tilgjengelig fra en kilde i dag. Dette gjelder inntakskrav ved ulike utdannings- og studieprogram, andelen som fullfører et utdanningsløp for personer med ulike grunnskolepoeng og eventuelt med ulikt fravær, andel som er i relevant jobb etter endt utdanning og forventet livsløpsinntekt. Det bør utredes nærmere hvilken informasjon som bør samles i verktøyet, særlig bør informasjonsbehovet avveies mot kostnadene ved å samle inn og sammenstille informasjonen.
+
+Utvalget mener også at det bør være mulig å legge inn individkjennetegn som kjønn, grunnskolepoeng og fravær i verktøyet. Som utfall bør verktøyet vise sannsynligheten for opptak til et utdannings- og studieprogram, sannsynligheten for å fullføre et utdanningsløp, sannsynligheten for relevant jobb og forventet livsløpsinntekt. Målet bør være å stimulere til økt innsats og riktigere valg.
+
+Samtidig vil utvalget understreke at slike sammenhenger mellom individkjennetegn og utfall i utdanningssystemet og arbeidslivet gjelder på gruppenivå. Selv om slike sammenhenger også bør være en bakgrunn for elevenes valg, har de likevel begrenset verdi for utdannings- og yrkesvalgene for den enkelte elev. Utvalget mener at verktøyet i hovedsak bør gjøre kunnskap om slike sammenhenger tilgjengelige for rådgivere som grunnlag for deres arbeid.
+
+Utvalget anbefaler
+
+- innføre en lovfestet plikt for fylkeskommunene til å tilby karriereveiledning for alle, både i og utenfor skolen.
+
+- innføre kompetansekrav i karriereveiledning for rådgivere.
+
+- utvikle et digitalt verktøy for fylkeskommunene som samler informasjon, og gjør kunnskap om sammenhenger mellom skoleresultater, fravær, utdanningsvalg og videre yrkesliv tilgjengelig for rådgivere.

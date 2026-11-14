@@ -1,874 +1,158 @@
-# NOU 2020: 16, del 12 av 27 (side 142–151)
+# NOU 2020: 16, del 12 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/dafff701-nou-2020-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-16/id2798280/
 - Original-PDF: https://www.regjeringen.no/contentassets/ccc978f8e2184980b4597ba59796e7e3/no/pdfs/nou202020200016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 13 tabeller, 25 figurer, 243 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 142]
-
-140
-
-Kapittel 10
-
-NOU 2020: 16
-Levekår i byer
-
-fagstoffet blir større. Samtidig trekker ulike studier fram at elever med innvandrerbakgrunn ser
-ut til å ha en bedre prestasjonsutvikling enn
-andre elever når alt annet er likt (Kindt 2017,
-Grøgaard 2012). Dette kan trolig forklares mest
-med at mange foreldre med innvandrerbakgrunn
-motiverer barna sine i skolearbeidet og til å ta
-høyere utdanning.
-Så lenge det har vært gjennomført PISAundersøkelser3, har Finland vært det landet som
-har minst variasjon i resultater mellom skoler
-(Sahlberg 2015, referert i Østerud 2016). En casestudie av ulike skoler i en norsk og en finsk kommune viser at skolene i alle områder i den finske
-kommunen har stor oppmerksomhet på læring av
-fag (Rapp 2018). I den norske kommunen, derimot, er det stor forskjell på hva skolene legger
-vekt på, avhengig av hva slags områder de ligger i.
-Ved skolene i «høystatusområder» står det faglige
-i sentrum, både hos lærere, elever, rektor og foreldre, og det er et betydelig press på at elevene
-presterer. I «lavstatusområder» legger skolene
-mest vekt på det sosiale og mindre på det faglige.
-Studien viser også til at det i Finland ofte settes
-inn ressurser med en gang de oppdager at et barn
-har behov for ekstra oppfølging. I Norge er hjelpeapparatet ofte fragmentert, dårlig koordinert,
-byråkratisk og langsomt. Det tar lang tid før barna
-får den hjelpen de trenger.
-
-10.3.1 Skolesegregeringens konsekvenser for
-skoleresultater, prestasjonsutvikling
-og frafall i videregående skole
-Andelen med innvandrerbakgrunn på skolen ser
-ut til å bety svært lite for elevenes prestasjoner,
-både på ungdomsskolen og i videregående (Birkelund mfl. 2010). Foreldrenes utdanningsnivå har
-mer å si for elevenes karakterer i grunnskolen
-enn elevsammensetningen ved skolen de går på.
-Skoler hvor andelen elever med innvandrerbakgrunn er høy, har også en høy andel elever med
-lavt utdannede foreldre. Selv om gjennomsnittskarakterene er lavere ved disse skolene, har andelen
-med innvandrerbakgrunn ingen signifikant betydning for elevenes karakterer når det tas hensyn til
-elevenes familiebakgrunn (Birkelund mfl. 2010,
-Grøgaard 2012).
-3
-
-OECDs PISA-undersøkelse (Programme for International
-Student Assessment) måler 15-åringers kompetanse i
-lesing, matematikk og naturfag. Det overordnede målet er
-å evaluere hvor godt skolesystemet i de ulike landene forbereder elevene til videre studier, yrkesliv og en aktiv deltakelse i samfunnet.
-
-Også i en studie fra Sverige ser det ut til at
-elevenes karakterer etter avsluttet ungdomsskole
-er relativt upåvirket av andelen medelever med
-innvandrerbakgrunn (Brandén mfl. 2016). Andelen har imidlertid en liten negativ effekt på resultatene til de aller svakeste elevene, både dem med
-og uten innvandrerbakgrunn. Innvandreres skoleresultater påvirkes svakt positivt av andelen jevnaldrende med den samme nasjonale bakgrunnen
-som dem selv. En studie fra Nederland viser at
-ungdommer som selv har innvandrerbakgrunn,
-og som bor i nabolag med en høy andel innvandrere, har bedre skoleresultater enn ungdommer
-som bor i nabolag med en lavere andel innvandrere (Nieuwenhuis mfl. 2017).
-En studie fra NTNU undersøker hvordan
-sammensetningen av elevgruppa i klassen påvirker resultatene på nasjonale prøver i matematikk
-for femteklassinger (Green og Iversen 2020).
-Studien viser at andelen elever med flyktningbakgrunn i klassen har klart negativ effekt på
-resultater til elever uten innvandrerbakgrunn.
-Den negative påvirkningen stammer fra spesifikke grupper av flyktninger som selv har stor
-sannsynlighet for å underprestere. Det er først
-og fremst gutter og elever av foreldre uten høyere utdanning som påvirkes negativt. Studien
-finner ingen negativ effekt på resultatene av at en
-høy andel av elevene har en annen innvandrerbakgrunn. Resultatene gjelder alle de undersøkte kommunene, men i storbyene er ikke
-effektene statistisk signifikante.
-Studien setter ellers søkelys på hvor variert
-både gruppa av innvandrerelever og gruppa av
-elever med flyktningbakgrunn er. Forskerne konkluderer med at skolene ikke har tilstrekkelige
-kompensatoriske verktøy til å motvirke slike
-negative effekter (ibid.).
-Skolenes elevsammensetning har lite å si for
-avgangskarakterer og frafall i videregående skole
-(Birkelund 2010). Ved skoler med mange elever
-med innvandrerbakgrunn fullfører elevene videregående opplæring i noe høyere grad, målt når
-elevene er tidlig i tjueårene (Hermansen og Birkelund 2015). Effektene er omtrent tre ganger sterkere blant elever som selv har innvandrerbakgrunn, enn blant øvrige elever. Videre varierer
-effektene etter hvor elevene med innvandrerbakgrunn kommer fra.
-Flere studier har sett på om det finnes såkalte
-terskeleffekter, altså om andelen elever med
-innvandrerbakgrunn over et visst nivå betyr mer,
-eventuelt mindre, for skoleresultater eller frafall
-(for eksempel Grøgaard 2012, Birkelund mfl.
-2010, Næss 2011). Om, og eventuelt på hvilket
-
-[Side 143]
-
-NOU 2020: 16
-Levekår i byer
-
-nivå, man finner signifikante terskeleffekter,
-varierer. Noe av grunnen til de ulike funnene kan
-være at terskeleffektene inndeles på ulike måter
-(Andresen 2014).
-
-10.4 Tillit, deltakelse og samhold
-I utvalgets mandat er det vist til NOU 2017: 2 Integrasjon og tillit, der det er pekt på at det norske
-samfunnet må lykkes bedre med integrering av
-innvandrere og flyktninger fra land utenfor
-Europa for å ivareta samhørighet, tillit og samfunnsmodellens legitimitet.
-Et sentralt element i et demokratisk samfunn
-er at folket deltar. Samfunnsengasjement blant
-ulike grupper i befolkningen er med på å gi legitimitet til dem som styrer. Samfunnsengasjementet
-er også med på å informere dem som styrer om
-hva som rører seg i samfunnet, slik at de kan ta
-informerte beslutninger (Eimhjellen mfl. 2020).
-
-10.4.1 Tillit i den norske samfunnsmodellen
-Sosiale rettigheter, økonomisk omfordeling og
-demokratisk representasjon er grunnpilarer i det
-norske velferdssystemet. Rettighetene har bidratt
-til utjevning mellom ulike grupper i befolkningen
-og til deltakelse på ulike arenaer i samfunnet.
-Dette har skapt grunnlag for sosial kohesjon, forstått som samhold, samhørighet og samfunnsmessig solidaritet som gjerne knyttes til brede felles
-verdier og målsettinger i et samfunn – selv om
-samfunnet består av mennesker med ulik bakgrunn. Kohesjon og tillit er beslektede begreper,
-men mens tillit også kan eksistere mellom mennesker mer direkte, er kohesjon et begrep som
-mest brukes på samfunnsnivået (NOU 2017:2).
-Man antar at tillit er koplet til mange positive
-utfall for samfunnet (Newton 2007), og at høye
-nivåer av tillit er bygd inn i de nordiske samfunnsmodellene (Rothstein og Stolle 2003, NOU 2017: 2).
-Den norske velferdsstaten baserer seg på to former
-for tillit. Den ene formen for tillit handler om tilliten
-til samfunnsinstitusjoner, også kalt vertikal tillit.
-Borgerne stoler på at offentlig forvaltning stort sett
-fungerer, at myndighetene er upartiske, effektive,
-og at beslutninger som tas, skal baseres på informasjon som er etterprøvbar (ibid.). Uten tilliten til
-at staten og det offentlige mer generelt forvalter
-samfunnets ressurser på en fornuftig måte, vil den
-enkelte neppe være like villig til å betale skatt eller
-la offentlige instanser stå for store deler av omfordelingen i samfunnet. Høy tillit til politiske institusjoner blir gjerne sett på som nødvendig for at et
-
-141
-
-Kapittel 10
-
-demokrati skal fungere godt. Rothstein og Stolle
-(2003) hevder at økonomisk likhet tenderer til å
-øke den sosiale kapitalen i samfunnet, slik som for
-eksempel generalisert tillit.
-Den andre sentrale formen for tillit handler
-om tillit borgerne imellom og er kalt horisontal
-tillit. Horisontal tillit deles ofte inn i partikulær
-tillit til dem man kjenner, og generalisert tillit til
-folk flest. Denne troen på andre, det vil si den
-generaliserte tilliten til andre, er høy i Norge
-(Wollebæk og Seegård 2011). I befolkningen
-mener to av tre at man «kan stole på de fleste»
-(Brekke mfl. 2020).
-Selv om befolkningen i Norge har høy tillit
-generelt, er gradene av tillit ulikt fordelt i ulike
-grupper i befolkningen. For eksempel er tillitsnivåer til andre mennesker signifikant lavere i flere
-innvandrergrupper enn i den øvrige befolkningen.
-Levekårsundersøkelsen blant innvandrere fra
-2016 viser at én av fem innvandrere (22 prosent)
-har liten tillit til sine medmennesker, mens det
-samme bare gjelder 6 prosent i befolkningen
-generelt. På den annen side har innvandrere mer
-tro på det politiske systemet enn den øvrige
-befolkningen. Arbeidsledighet, dårlig råd og diskriminering reduserer tilliten til det politiske
-systemet (Støren 2019). En studie av sivilsamfunnsdeltakelse blant innvandrere i Norge
-(Eimhjellen mfl. 2020), som blant annet analyserer data fra levekårsundersøkelsen blant innvandrere fra 2016, undersøker om tillit hos innvandrere øker med botid i Norge. Det er først og
-fremst i gruppa av innvandrere som har bodd i
-Norge i ti år eller lenger, at de ser en økning i grader av tillit. Men innvandrerne når aldri helt opp
-på tillitsnivået til den øvrige befolkningen. De som
-har bodd i Norge i mer enn 20 år, skårer 6,3 på tillitsskalaen, mot 7,2 i den øvrige befolkningen
-(ibid.).
-Levekårsdata fra SSB viser at om lag én av fire
-innvandrere oppgir at de ikke har en eneste venn
-uten innvandrerbakgrunn (Sandnes 2017). Ut fra
-dette kan man forvente at mennesker som først
-og fremst er sammen med andre med samme
-språkbakgrunn, religion, kultur eller landbakgrunn, vil ha færre sosiale bånd til mennesker
-med annen bakgrunn og mindre tillit til mennesker med andre kjennetegn.
-
-10.4.2 Teorier om hvordan tillit utvikles
-Å delta i (lokale) aktiviteter bidrar til at folk
-utvikler tillit og opparbeider sosial kapital (Putnam 2000). Putnam definerer sosial kapital som
-summen av normer, tillit og nettverk (ibid.). Sær-
-
-[Side 144]
-
-142
-
-Kapittel 10
-
-NOU 2020: 16
-Levekår i byer
-
-lig sentralt er forholdet mellom sammenbindende
-(bonding) og brobyggende (bridging) sosial kapital (ibid.). Et sammenbindende nettverk kopler
-sammen individer som deler viktige kjennetegn,
-for eksempel språk, religion og kulturell tilhørighet, og gjør at deltakerne føler tilhørighet og identifiserer seg med gruppa. Brobyggende nettverk
-er med på å kople enkeltindivider sammen på
-tvers av slike forskjeller. Begge formene for sosial
-kapital anses som viktige, og de blir ikke bare sett
-på som et gode for enkeltindivider, men også for
-samfunnet som helhet. En viktig innsikt er at
-disse to formene for sosial kapital ikke trenger å
-stå i motstrid til hverandre, men at sammenbindende sosial kapital ofte er en forutsetning for den
-brobyggende. Mange trenger en trygg tilhørighet
-blant likesinnede før man orienterer seg mot dem
-som oppleves som mer ulike seg selv. Samtidig
-påpekes det at den brobyggende sosiale kapitalen
-ofte ikke kommer av seg selv (Ødegård mfl.
-2014), men er mer krevende «å få til».
-Det er flere teorier om hvordan tillit utvikles
-gitt ulike omstendigheter. I det som blir kalt kontaktteorien (Allport 1958, Pettigrew mfl. 2011),
-forklarer man at tillit utvikles, og at fordommer
-reduseres ved at mennesker bygger relasjoner til
-hverandre gjennom ansikt-til-ansikt-kontakt. Kontaktteorien utfordres av konfliktteorien. I konfliktteorien blir det hevdet at jo mer man blir eksponert for folk med ulik bakgrunn, og dermed for
-konfliktfylte situasjoner, jo mer vil man holde seg
-til og stole på «sine egne». En tredje retning er det
-Putnam har kalt «constrict theory» (Putnam
-2007). Ifølge denne retningen er det ikke slik at
-man enten stoler på sine egne eller på andre grupper. Man stoler mindre både på sine egne og på
-andre fordi man trekker seg tilbake fra samfunnslivet og de arenaene som ellers kunne skapt tillit.
-I flere internasjonale studier finner man en
-negativ sammenheng mellom segregering etter
-innvandrerbakgrunn og tillit (Delhey og Newton
-2005, Uslaner 2012). Også i studier fra Skandinavia finnes holdepunkter for det som er kalt konfliktteorien. Flere studier finner at innslag av innvandrere i befolkningen (egentlig «etnisk mangfold») påvirker tillit. I en studie av 61 kommuner
-og bydeler i de største byene i Norge finner Fladmoe og Steen-Johansen (2018) at innslag av innvandrere i lokalsamfunnet svekker tilliten mellom
-folk lokalt, men ikke den generaliserte tilliten. Det
-samme finner man i Danmark (Dinesen og Sønderskov 2015). Fra Sverige finner man at både den
-lokale og den generaliserte tilliten er svekket av
-innslag av innvandrere i befolkningen (Wollebæk
-2013, referert i NOU 2017: 2:164). Hva som er
-
-årsaken til lavere nivåer av tillit i nabolag og lokalsamfunn med mange innvandrere, gis det ikke
-klare svar på i disse studiene. Blant de mulige forklaringene forskerne peker på, er dette en: Fordi
-det bor mange innvandrere i et område, og det er
-slik at innvandrere generelt har lavere nivåer av
-tillit enn den øvrige befolkningen, så kan det være
-slik at man måler et lavere nivå av tillit hos innvandrere.
-I en undersøkelse av holdninger til innvandring, integrering og mangfold i Norge (Brekke
-mfl. 2020) framkommer det at selv om det er en
-høy andel i Norge som mener at man kan stole på
-de fleste, er det blant dem som svarer ja på dette
-spørsmålet, en betydelig andel som er mer lunkne
-når de får spørsmål om tillit til innvandrergrupper.
-Blant dem som svarte ja på spørsmålet om man
-kan stole på de fleste, var det om lag 80 prosent
-som mener at de stoler ganske mye eller helt og
-holdent på dem som i undersøkelsen er kalt
-«etniske nordmenn flest». Videre svarte om lag 50
-prosent at de stoler på innvandrere fra land i Asia,
-Afrika, mv. flest, og 40 prosent at de stoler på østeuropeiske innvandrere flest. Dette tyder på at
-selv blant dem som uttrykker høy generell tillit,
-omfatter ikke denne tilliten nødvendigvis alle
-grupper av mennesker.
-Fra tidligere studier av utsatte områder blant
-annet i Nederland og Danmark har flere forskere
-funnet tegn til at folk trekker seg tilbake fra samfunnslivet (Andersen 2003). Dette gir støtte til Putnams «constrict theory», som innebærer at man
-trekker seg tilbake fra de arenaene som ellers
-kunne skapt tillit (Putnam 2007).
-At innbyggerne i et samfunn opplever fellesskap og tilhørighet til hverandre og til samfunnets
-institusjoner, og der den opplevde avstanden mellom ulike grupper er liten, påvirker sosial kapital
-(Rothstein og Stolle 2003) og kan sies å virke som
-et «lim» i samfunnet.
-
-10.4.3 Sosial kapital, kollektiv handlekraft,
-deltakelse og samhold
-Formelle og uformelle sosiale bånd mellom innbyggere i et område kan kalles sosial sammenhengskraft, eller kohesjon (social cohesion). Sosial
-kohesjon kan beskrives som et lim som holder
-samfunnet sammen, både det nære lokalsamfunnet og samfunnet i bredt. Innbyggere om trives på
-stedet de bor, oppsøker trolig naboer og arenaer i
-lokalmiljøet, som igjen vil påvirke den sosiale
-kohesjonen i et område (Christensen mfl. 2019b).
-Folk utvikler tillit og opparbeider sosial kapital
-ved å delta i lokale aktiviteter (Putnam 2000). Del-
-
-[Side 145]
-
-NOU 2020: 16
-Levekår i byer
-
-takelse er dermed viktig for limet i et lokalsamfunn. I lokalsamfunn er det sivilsamfunnet som
-står for mange av aktivitetene. At folk bor stabilt i
-et område, bidrar ikke automatisk til høy sosial
-sammenhengskraft i et område. Men det er et premiss for at en slik kraft kan oppstå (Christensen
-mfl. 2019b).
-Forskningslitteraturen peker på «kollektiv
-handlekraft» som et uttrykk for evnen i befolkningen til å organisere seg i sammenslutninger om et
-felles mål. Kollektiv handlekraft innebærer at folk
-gjennom å organisere seg i ulike sammenslutninger bruker demokratiske påvirkningskanaler eller
-positiv sosial kontroll til å reagere på normbrudd
-eller trusler i nærmiljøet og gjennom handlinger
-gjør felles positive normer gjeldende (Christensen
-mfl. 2019b).
-At innbyggerne deltar i forenings- og kulturlivet og i frivillig arbeid, er kjennetegn på at det er
-ressurser i nærmiljøet og lokalsamfunnet som kan
-mobiliseres til kollektiv handlekraft. Om en kollektiv handlekraft blir mobilisert i praksis, kan
-oppdages ved å se på den kollektive reaksjonen på
-konkrete hendelser som naboene opplever at kan
-redusere kvaliteten ved området de bor, for
-eksempel bygging av store veier. Hvis folk protesterer, kan det være et tegn på kollektiv handlekraft i området. Og motsatt, hvis det ikke er protester, kan det være et tegn på lav grad av kollektiv handlekraft i området (Christensen mfl.
-2019b).
-Studier har vist at sivilsamfunnet er svekket i
-noen utsatte områder (Ødegård mfl. 2014). Det
-innebærer at arenaer der det utvikles interessebaserte relasjoner på tvers av ulike grupper, blir
-færre. Andre steder er det et problem at innvandrerbefolkningen og den øvrige befolkningen har
-sine nettverk og foreninger side om side, men
-med få relasjoner på tvers.
-Når folk ikke møtes, utvikles det heller ikke
-noen felles lokalsamfunnsidentitet. Selle og Wollebæk (2015) beskriver frivilligheten som en infrastruktur som gjør kollektiv handling mulig. Ødegård og medforfattere (2014) beskriver hvor mye
-det har å si at det er fellesskapsarenaer i flerkulturelle lokalsamfunn, hvor individer er ulike når det
-gjelder viktige kjennetegn som landbakgrunn,
-språk, religion og ideologisk tilhørighet. Der
-grupper med forskjellig kulturell og religiøs bakgrunn og/eller landbakgrunn ikke har felles
-møteplasser, bidrar det til å svekke innbyggernes
-tilhørighet til lokalsamfunnet. De siste tiårene har
-det vokst fram et foreningsliv hvor rekrutteringsgrunnlaget baseres på felles landbakgrunn eller
-religiøs og kulturell tilhørighet (ibid.). Dette er en
-
-143
-
-Kapittel 10
-
-viktig arena for sammenbindende kapital, men
-dersom det er begrenset kontakt mellom det tradisjonelle og innvandrerorienterte foreningslivet,
-blir da heller ikke frivilligheten en plattform for
-felles, kollektiv handling.
-I tillegg til at samfunnsengasjementet utgjør
-forbindelser mellom befolkningen og dem som
-styrer, kan samfunnsengasjement også være til
-nytte for de personene som deltar. For eksempel
-kan de gjennom å engasjere seg bygge opp personlige og sosiale ressurser som kunnskap,
-ferdigheter, ansvar, nettverk og tillit (Eimhjellen
-mfl. 2020).
-I undersøkelser gjort i hele befolkningen ser
-ikke organisasjonstilknytning ut til å påvirke, eller
-bare ha liten betydning, på sosial kapital (her forstått som nettverk og tillit) (se blant annet Wollebæk og Selle 2007). Selv om man ikke ser slike
-sammenhenger i befolkningen som helhet, har
-man i studier av innvandrere sett at frivillig arbeid
-samvarierer med tillit (se for eksempel Segaard
-2011). Eimhjellen og medforfattere (2020) viser at
-innvandrere som jobber frivillig, har større tillit til
-andre mennesker enn innvandrere som ikke er
-med på frivillig arbeid. Forskerne har undersøkt
-om det er det frivillige arbeidet som gjør innvandrere tillitsfulle, eller om det er de tillitsfulle som
-søker seg til frivillig arbeid. Andre studier har
-ikke avklart om økt deltakelse fører til økt tillit,
-eller om det er omvendt. Eimhjellen og kolleger
-oppfatter det slik at tillit mer er en forutsetning for
-frivillig arbeid blant innvandrere, heller enn at det
-frivillige arbeidet bidrar til det (ibid.).
-
-10.5 Forståelsen av parallellsamfunn
-og hvordan de utvikler seg
-Begrepet «parallellsamfunn» blir brukt for å
-beskrive mange virkeligheter og forstås på ulike
-måter. Egge og Solhjell (2018) har tatt for seg
-ulike måter begrepet forstås på i akademia, av
-politiet og i det offentlige ordskiftet. Forskerne
-viser til at begrepet er tett koplet til migrasjonsfeltet, og at synet på hvordan det skal forstås er relativt polarisert. Det ene perspektivet legger vekt på
-minoritetsgrupper som er skeptiske til samfunnets verdier og institusjoner. Det andre legger
-vekt på at stat og storsamfunn mangler vilje og
-evne til å inkludere minoritetsgrupper. Det at det
-utvikles parallellsamfunn kan ikke forklares med
-valgene til enkelte grupper eller miljøer alene. Det
-handler om et samspill mellom majoritetssamfunnet og ulike minoriteter.
-
-[Side 146]
-
-144
-
-Kapittel 10
-
-NOU 2020: 16
-Levekår i byer
-
-For å forstå parallellsamfunn brukes begrepene «samfunnskontrakt» og «sosial kapital».
-Samfunnskontrakten beskrives som et bånd mellom stat og borgere, som en symbolsk kontrakt
-eller enighet om hva slags samfunn man er en del
-av, og om hva slags lover og regler som gjelder.
-Sosial kapital handler om sivilsamfunnets evne til
-å utvikle tillitsfulle relasjoner mellom borgerne.
-Forskerne legger særlig vekt på den tillitsbyggingen som skjer i offentlige institusjonene ved at de
-leverer kvalitet og likebehandling. Er tilliten til
-systemet stabil og høy, påvirker det tilliten mellom
-borgerne. Statens legitimitet påvirker innbyggernes lojalitet, både til systemet og til hverandre.
-Oppsummert forstås begrepet parallellsamfunn som et todelt begrep. Det beskriver på den
-ene siden en samfunnsstruktur der det både er lav
-politisk vilje og/eller kapasitet til å sikre alle borgere grunnleggende tjenester og rettigheter. På
-den andre siden beskriver begrepet at det finnes
-en tilsvarende motstand fra innvandrergrupper
-om å slutte seg til majoritetssamfunnet. Forskerne
-mener det er misvisende å bruke betegnelsen
-parallellsamfunn på situasjonen i Norge. De slår
-imidlertid fast at det finnes utfordringer både
-knyttet til tillit og lojalitet på den ene siden og ute-
-
-stenging og diskriminering på den andre. I ulik
-grad vil det derfor danne seg nye former for subkulturer og utenforskap.
-Den danske strategien Ét Danmark uden
-parallelsamfund definerer ikke begrepet parallellsamfunn, men i omtalen vises det til at mange
-barn, unge og voksne med innvandrerbakgrunn
-lever i isolerte enklaver i Danmark. De beskrives
-å være reelt uten kontakt med det danske samfunnet, og de har ikke tatt til seg danske normer og
-verdier. Parallellsamfunn forstås dermed som et
-resultat av valg enkelte grupper eller miljøer tar.
-Det har likhetstrekk med begrepet «getto» som i
-den internasjonale forskningslitteraturen ofte blir
-brukt om utsatte, urbane boområder (Strand og
-Kindt 2019). Begrepet getto kan forstås som at
-innbyggerne i områdene lever mer isolert og har
-lagd egne institusjoner eller parallellsamfunn
-innad i byområdet. Videre innebærer begrepet at
-disse innbyggerne i liten grad beveger seg utenfor det utsatte området. Høy arbeidsledighet, levekårsproblemer og fattigdom kan forsterke effekten av at folk holder seg i nabolaget sitt. Med en
-slik forståelse av begrepet kan det ifølge Strand
-og Kindt ikke sies at det finnes gettoer i Norge.
-
-[Side 147]
-
-NOU 2020: 16
-Levekår i byer
-
-145
-
-Kapittel 11
-
-Kapittel 11
-
-Utvalgets vurderinger av bokonsentrasjon – årsaker,
-konsekvenser og situasjonen i Norge
-11.1 Økonomisk ulikhet og byenes
-utforming legger grunnlag for
-segregering
-Utvalget mener det er sannsynlig at økt økonomisk ulikhet gir økt segregering, men hvor raskt
-det skjer, og hvor sterk effekten er, vil kunne variere. Flere forhold kan påvirke hvor sterkt økonomisk ulikhet gir seg utslag i segregering. Gode og
-varierte boligområder kan dempe segregeringen.
-Hvis boligområdene generelt har gode kvaliteter,
-vil det dempe mekanismene som fører til segregering. Ulike boligtyper innad i boligområdene kan
-gi prisforskjeller og valgmuligheter og også føre
-til at befolkningen blir mer sammensatt.
-Utvalget mener likevel at det er usikkert om
-offentlige myndigheter på lang sikt kan hindre at
-økonomisk ulikhet øker segregeringen. Økonomisk ulikhet kan bidra til at forskjellene i boligprisene øker, og at folk med lave inntekter har
-begrensede valgmuligheter på boligmarkedet. Da
-kan det være vanskelig å motvirke at de som har
-råd til det, i økende grad bosetter seg i de samme
-områdene, mens noen områder over tid får en
-sterk konsentrasjon av levekårsutfordringer.
-I Norge er velstandsnivået og sysselsettingsgraden høyere og den økonomiske ulikheten
-lavere enn i mange land det er naturlig å sammenlikne seg med. Norge har heller ikke store, isolerte områder med boliger av gjennomgående lav
-kvalitet. Boligområdene er generelt velholdte og
-godt planlagt, med gode transportforbindelser og
-større variasjon i boligtyper enn i mange andre
-land. Kommunene bruker mye ressurser på å vedlikeholde og ruste opp skoler, grøntområder og
-fritidsanlegg. Utvalget mener at dette er sentrale
-årsaker til at segregeringen er lavere i norske
-byer enn i mange tilsvarende vesteuropeiske byer.
-Avbrutt skolegang blant unge voksne, svak tilknytning til arbeidslivet i deler av befolkningen og
-økende inntekts- og formuesforskjeller innad i
-byene er imidlertid bekymringsfulle trekk. I løpet
-
-av de siste tiårene har andelen lavinntektsfamilier
-i norske byer økt sterkt. Det kan forsterke segregeringen også i Norge.
-Utvalget ser også noen uheldige trekk ved
-byutviklingen i Norge. Noen områder er preget av
-støy og luftforurensning, mangel på vedlikehold
-og andre kvalitetsutfordringer. Økende befolkningsvekst og etterspørsel etter boliger i byene
-betyr at det blir større press på friområdene, at
-flere grønne områder blir bygd ut, at folk må bo
-trangere, og at støy og luftforurensning øker. Når
-transportbehovet øker, går mer areal med til infrastruktur. Det kan binde områder sammen, men
-også gi større barrierer mellom områdene. Det er
-en fare for at høy etterspørsel og boligprisvekst
-presser lavinntektshusstander ut av byene eller
-inn i dårligere boforhold, og det er en fare for at
-høy utbyggingstakt og fortetting forsterker kvalitetsforskjellene mellom områder.
-
-11.2 Selektiv flytting forsterker
-bokonsentrasjon
-Flytting inn og ut av nabolag og byer påvirker
-hvordan et område utvikler seg over tid. Flytting
-kan forsterke segregering etter både inntekt, innvandrerbakgrunn og andre sosiale kjennetegn.
-En høy andel innbyggere med innvandrerbakgrunn i et boligområde kan føre til at andelen fortsetter å stige. Mekanismene bak dette er selektiv
-flytting, altså flyttemønstre både i befolkningen
-med og uten innvandrerbakgrunn som påvirker
-hvor høy andelen med innvandrerbakgrunn i
-områdene blir. I Norge er det ikke gjennomført
-store undersøkelser av selektiv flytting etter innvandrerbakgrunn, men i studier fra Sverige og
-Danmark er det dokumentert at slik selektiv
-flytting skjer. Segregeringen etter innvandrerbakgrunn påvirkes særlig av at den øvrige befolkningen unngår å flytte til, eller flytter fra, områder
-med mange innvandrere. Utvalget mener det er
-
-[Side 148]
-
-146
-
-Kapittel 11
-
-NOU 2020: 16
-Levekår i byer
-
-god grunn til å tro at slike mekanismer også gjelder i Norge.
-Når andelen innbyggere med innvandrerbakgrunn øker i enkelte områder, skyldes det flere
-forhold. Mange innvandrere har lavere inntekt og
-formue enn gjennomsnittet i befolkningen, og forskjeller i boligpriser vil derfor påvirke hvor innvandrere bosetter seg. I tillegg er det slik at folk
-som flytter gjerne søker seg til nabolag der befolkningen likner dem selv. Både innbyggere med og
-uten innvandrerbakgrunn kan ønske å bosette seg
-i nærheten av egen familie, eget nettverk eller folk
-de oppfatter at likner seg selv. Videre mener utvalget at det er grunn til å tro at en del velger seg
-vekk fra områder med mange med innvandrerbakgrunn ut fra andre årsaker. Det kan være
-omdømme, skoler med krevende læringsmiljøer
-og dårlige skoleresultater eller antakelser om at
-det er slik.
-Selektiv flytting forsterker segregeringen i
-byene og bidrar til en utvikling der noen nabolag
-får en opphoping av levekårsutfordringer. Utvalget
-mener utviklingen gir grunn til bekymring. Svært
-mange av familiene med lavinntekt i de områdene
-utvalget har studert, har innvandrerbakgrunn, og
-de kan ha flere andre typer utfordringer enn bare
-de økonomiske.
-
-11.3 At flere eier bolig, kan stabilisere
-levekårsutsatte områder
-Utvalget mener at det at mange eier boligen sin,
-kan ha stabiliserende effekter for levekårsutsatte
-områder. Boligeie kan være positivt for bostabilitet, noe som kan styrke fellesskapet i nabolagene
-og være viktig for barnas hverdag og skolene.
-Boligeie kan også fremme vedlikehold og velstandsutvikling og dermed slå ut positivt for nærmiljøkvalitetene.
-Når store deler av Norges befolkning eier sin
-egen bolig, er det med på å jevne ut de økonomiske ulikhetene sammenliknet med når flere
-leier bolig. Sånn sett bør en høy andel boligeiere
-ha en dempende effekt på segregering. Utvalget
-mener at det likevel er vanskelig å slå fast at boligeie er en viktig årsak til den relativt lave segregeringen i norske byer. De viktigste landene Norge
-kan sammenlikne seg med, har en høy andel sosiale utleieboliger konsentrert i enkelte byområder.
-I praksis ser det ut til at sosiale utleieboliger ofte
-blir konsentrert i enkelte deler av byen, og at
-dette i seg selv kan bidra til høyere segregering
-enn det vi har i Norge. Dette gjelder imidlertid
-ikke for alle byer. Det er også eksempler på at
-
-sosiale utleieboliger blir spredt og er en integrert
-del av ordinære bomiljøer, og at segregeringen
-der også er på samme nivå eller lavere enn i
-Norge. Det er i tillegg eksempler på vesteuropeiske byer med en høy boligeierandel som er
-betydelig mer segregert enn byer i Norge.
-Utvalget mener dessuten at det i det norske
-boligsystemet kan være noen faresignaler med
-hensyn til segregering. En høy andel boligeiere
-betyr at offentlige myndigheter ikke har samme
-mulighet til å gripe inn og påvirke segregeringen
-som myndighetene i land med en stor offentlig
-utleiesektor. Selv om en høy andel boligeiere gir en
-jevnere velstandsvekst enn en lav andel boligeiere,
-vil økende forskjeller i boligpriser øke de økonomiske ulikhetene. Hvis boligmarkedene i levekårsutsatte områder stagnerer, eller hvis boligprisutviklingen er betydelig lavere enn i andre deler av
-byen, vil det kunne gjøre det vanskeligere å flytte
-videre fra disse områdene. Sterk prisvekst i andre
-deler av byen vil innskrenke valgmulighetene for
-lavinntektshusstander og dermed kunne øke
-segregeringen.
-I tillegg er det i Norge tendenser til konsentrasjon av levekårsutfordringer i områder med
-mange utleieboliger. Selv om de fleste boliger er
-godt vedlikeholdt, er det også eksempler på manglende vedlikehold. Det gjelder både for eide og
-leide boliger, men er nok særlig utpreget i boområder med en høy andel utleieboliger. Utvalget
-mener at det er bekymringsfullt at en del boligsameier får en høy andel utleieboliger med mange
-beboere med levekårsutfordringer. En del leietakere har få muligheter på boligmarkedet. Det gjør
-at utleiere kan spekulere i å tilby dårlige boliger til
-høye husleier, og at leietakere kan synes det er
-vanskelig å ta opp mangler med utleieren. Det er
-en del eksempler på at boområder med mange
-utleieboliger har høy flyttehyppighet, svake sosiale nettverk og manglende vedlikehold. Utvalget
-mener at det er en fare for økende levekårsopphoping i slike områder.
-
-11.4 En variert befolkning kan styrke
-nabolag
-Utvalget mener at en sosioøkonomisk variert
-befolkning i nabolagene er positivt. Folk treffes i
-nabolaget blant annet gjennom skoler og barnehager, og gjennom lokale aktiviteter i idrettslag og
-lokale foreninger. Når folk med ulik bakgrunn bor i
-samme område, kan det bidra til å styrke relasjoner
-på tvers av ulike grupper. Utvalget vil særlig framheve at det er viktig for alle lokalsamfunn å ha
-
-[Side 149]
-
-NOU 2020: 16
-Levekår i byer
-
-engasjerte beboere som bryr seg om nabolaget, og
-som er villige til å bidra i idrettslag og andre lokale
-foreninger. Fellesskapet i nærmiljøet og kommunikasjonen mellom beboere med ulik bakgrunn, er
-med på å skape normer og felles forståelse for hva
-som er akseptabel atferd. Det skaper sosialt lim og
-kollektiv handlekraft. Gjennom slike fellesskap og
-sosiale bånd blir det også lettere å samarbeide om å
-løse utfordringer i nabolagene.
-Utvalget mener samtidig at det å bo i områder
-med små sosiale forskjeller kan ha sine fordeler.
-Mange liker å bo nær folk som likner dem selv, og
-det kan gi lokalsamfunn med sterkere samhold.
-Flere undersøkelser har også pekt på at naboer
-med ulik sosial bakgrunn ikke nødvendigvis
-omgås. I land hvor mange barn går på private skoler, vil det kunne bety at barn med ulik sosial bakgrunn ikke leker sammen, selv om de bor i
-samme nabolag. I Norge går barn stort sett på
-den lokale skolen, og i varierte nabolag vil det derfor være større sjanse for at barn med ulik sosial
-bakgrunn leker med hverandre. Det kan dessuten
-være fordeler av å ha varierte nabolag selv om
-folk ikke har så mye sosial kontakt. Folk med høyere inntekt og utdanning kan for eksempel ha
-større påvirkningskraft på offentlige beslutninger
-som angår nabolaget, noe som kommer hele
-nabolaget til gode. Selv om det er mange fordeler
-med samhold i nabolagene, er det ikke nødvendigvis bare fordeler. Det kan skape engasjement
-rundt fellesskapet, men også føre til et sosialt
-press mot folk som oppfører seg annerledes.
-Det kan likevel være grunn til å spørre om det
-er vanskeligere å få varierte lokalsamfunn til å fungere hvis de økonomiske ulikhetene i samfunnet
-generelt og innad i lokalmiljøene blir for store. Det
-vil si at det kan være vanskeligere å bygge fellesarenaer, nettverk, tillit og deltakelse på tvers i slike
-lokalsamfunn. En blandet befolkning sikrer heller
-ikke i seg selv gode oppvekstforhold for levekårsutsatte barn og unge. Det kan for eksempel være
-ekstra vanskelig for barn i familier med lave inntekter å bo i områder hvor andre har god råd.
-Mange nabolag har en variert befolkning. I tillegg er de økonomiske forskjellene i Norge små
-sammenliknet med andre land, og forskjellene
-innad i nabolagene blir dermed også mindre. Folk
-er også stort sett tilfredse med nabolaget sitt.
-Men segregeringen i Norge har økt, og i byer som
-Oslo ser vi ikke minst en høy bokonsentrasjon
-blant folk med høye inntekter og formuer.
-
-147
-
-Kapittel 11
-
-11.5 Mangel på deltakelse svekker
-tilliten og samholdet
-Utvalget legger vekt på at engasjement og deltakelse er grunnsteiner i et demokrati. For demokratiske prosesser er det derfor en utfordring at
-ulike sosiale grupper engasjerer seg og deltar i
-ulik grad, slik vi ser internasjonalt og i Norge.
-Hvis mange innbyggere i et område engasjerer
-seg mindre eller ikke deltar i nær- og oppvekstmiljøet til barna, kan det gjøre det vanskeligere for
-dem å bli inkludert.
-Det er ikke nødvendigvis slik at lokale tilbud i
-seg selv bidrar til nettverk og tillit mellom folk
-lokalt. Folk er mobile og kan like gjerne benytte
-tilbud andre steder i byen enn i sitt eget nærmiljø.
-Sosiale bånd i lokalsamfunn utvikles gjerne mellom mennesker som har noe til felles. I områder
-der det bor mange barnefamilier, vil for eksempel
-aktiviteter for barn danne felles arenaer der barn,
-unge og familier kan møtes.
-I enkelte utsatte områder kan det være færre
-som deltar på lokale arenaer. Det kan for eksempel være få møteplasser eller at de som er, brukes
-for lite. Andre steder er det et problem at innvandrerbefolkningen og øvrig befolkning har sine
-nettverk og foreninger side om side, men med lite
-samhandling på tvers.
-Utvalget registrerer at personer fra levekårsutsatte områder er svakt representert i politiske
-organer. Det er et demokratisk problem hvis
-kunnskapen om og erfaringer fra levekårsutsatte
-områder er svakt representert på Stortinget og i
-kommunepolitikken. Kunnskapen om eget nærmiljø vil ofte være større enn kunnskapen om
-andres nærmiljø. Utvalget mener derfor at det er
-viktig å følge med på den politiske representasjonen fra levekårsutsatte områder.
-Studier har vist at sivilsamfunnet er svekket i
-noen utsatte områder. Frivilligheten blir ikke en
-plattform for felles, kollektiv handling. At ulike
-grupper i befolkningen har sine nettverk ved
-siden av hverandre, innebærer at arenaer der det
-kan utvikles interessebaserte relasjoner på tvers
-av ulike grupper, blir færre. Det kan gjøre at folk i
-lokalsamfunn deltar mindre, folk møtes sjeldnere,
-og det utvikles heller ikke en felles identitet i
-lokalsamfunnet. Et svekket sivilsamfunn kan
-redusere evnen til å skape positivt engasjement i
-nærmiljøet og til at barn og unge i mindre grad
-blir sosialisert til å bli aktive samfunnsmedlemmer. Fellesskapet i nærmiljøet og kommunikasjonen mellom beboere er med på å skape normer og
-felles forståelse for hva som er akseptabel atferd.
-Det skaper sosialt lim og kollektiv handlekraft.
-
-[Side 150]
-
-148
-
-Kapittel 11
-
-NOU 2020: 16
-Levekår i byer
-
-Gjennom slike fellesskap og sosiale bånd blir det
-også lettere å samarbeide om å løse utfordringer i
-nabolagene.
-Tillit er en viktig forutsetning for den norske
-velferds- og samfunnsmodellen. Det er blant annet
-beskrevet av Brochmann-utvalgene. Tillit er både
-vertikal tillit, det vil si tillit til dem som styrer, og
-generalisert tillit mellom innbyggere. Utvalget
-viser til at innvandrere har høyere tillit til politiske
-institusjoner enn den øvrige befolkningen, selv
-om innvandrerbefolkningen i snitt har dårligere
-levekår. Selv om dårligere levekår hos innvandrere ikke nødvendigvis henger sammen med
-lavere grad av tillit til dem som styrer, viser utvalget til at arbeidsledighet og ikke minst opplevd
-diskriminering kan være skadelig for tilliten og
-for deltakelsen i bredt.
-For barn og unge er det av stor betydning
-hvordan utdanningssystemet påvirker livssjansene deres. Utvalget mener det er viktig at målet
-om at barn og unge skal ha like muligheter, holdes høyt. Om alle i realiteten gis like muligheter,
-vil påvirke tilliten til samfunnsinstitusjonene.
-I tillegg til den vertikale tilliten til dem som styrer, er generalisert tillit en viktig forutsetning i den
-norske velferds- og samfunnsmodellen. Den generaliserte tilliten lener seg på forståelsen av et fellesskap og bidrar til å gjøre samhandlingen mellom
-mennesker smidig og effektiv. Hvordan den generaliserte tilliten utvikles i hverdagen og i levd liv, er
-det lite dokumentasjon på fra forskningen. Men
-man kan anta at oppfatninger om likhet, relasjoner
-basert på noe som forener, og å ha felles interesser
-og opplevelser bidrar til bedre generalisert tillit.
-Utvalget tror at levende og gode lokalsamfunn
-med mange møteplasser og arenaer for å delta og
-samhandle kan ha positive effekter for tilliten og
-den opplevde tilhørigheten til stedet folk bor, men
-også til storsamfunnet på lang sikt. Tilliten mellom folk og tilliten til myndighetene er høy i
-Norge. Erfaringer fra andre land viser imidlertid
-at hvis tilliten og tilhørigheten i samfunnet svekkes, vil det kunne ha negative konsekvenser for
-folks livskvalitet og trygghet. Ettersom tillit er en
-form for lim i samfunnet i stort, vil minkende tillit
-kunne ha negative effekter for økonomien og den
-generelle velstandsutviklingen.
-
-11.6 Opphoping av
-levekårsutfordringer kan virke
-negativt for nabolagene
-En del internasjonale studier utvalget har gått
-gjennom viser eksempler på at ulike nabolagspro-
-
-blemer, både sosiale problemer og fysisk forfall,
-kan forsterke hverandre. I andre studier er det
-mer usikkert om ulike problemer faktisk forsterker hverandre eller bare opptrer samtidig.
-Selv om årsakssammenhengene ikke alltid er
-helt klare, mener utvalget at det er grunn til å slå
-fast at sterk konsentrasjon av levekårsutfordringer kan virke negativt på beboere. Det kan også
-øke risikoen for sosiale problemer i nabolagene.
-Utvalget vil samtidig presisere at selv om den gjennomsnittlige inntekten og utdanningsnivået i et
-nabolag er lavt, betyr det ikke nødvendigvis at risikoen for sosiale problemer er høy.
-Generelt ser det ikke ut til at levekårsutsatte
-områder har hatt en sterk negativ utvikling de
-siste ti årene. Den store majoriteten av beboere
-trives i nabolagene sine, boligområdene er velholdte, og det er få rapporter om alvorlig konfliktfylte nabolag. Det er likevel en svært sammensatt
-utvikling i levekårsutsatte områder, med både
-positive trekk og med noen klare faresignaler. En
-del områder er det viktig å følge ekstra nøye med
-på. Situasjonen er særlig utfordrende i et fåtall
-områder. Dette er områder med store levekårsutfordringer på mange ulike felt og som har hatt en
-tydelig negativ utvikling de siste ti årene. Utvalget
-er spesielt bekymret for det økende tallet på områder hvor svært mange barnefamilier har lave inntekter, og hvor mange har store levekårsutfordringer. Det kan gi svært vanskelige oppvekstforhold.
-En del områder, særlig sentrumsområder, har
-store interne levekårsforskjeller. Der bor folk med
-de aller laveste inntektene og størst levekårsutfordringer vegg i vegg med grupper med høy utdanning og inntekt. Flere slike områder er preget av
-mye inn- og utflytting, trangboddhet og mangel på
-rekreasjons- og grøntområder. I kombinasjon med
-høy kriminalitet noen steder gir dette særskilte
-utfordringer for barn og unges oppvekstmiljø.
-
-11.7 Å bo i utsatte områder kan påvirke
-barns utdanning negativt
-Nabolaget barn vokser opp i, ser ut til å ha effekter på utdanningen deres senere i livet. Studier fra
-flere land viser at det å vokse opp i et utsatt nabolag har negativ effekt på barnas utdanning når de
-er unge voksne. Både beboersammensetningen
-og andre trekk ved nabolaget kan påvirke, for
-eksempel skolenes kvalitet, fritidstilbudene, uteområdene og det sosiale miljøet. Skolene ser ut til
-å påvirke mest.
-Selv om det generelle bildet ved skolene i
-utsatte byområder er at barn trives på skolen, og
-
-[Side 151]
-
-NOU 2020: 16
-Levekår i byer
-
-at læringsmiljøet og det sosiale miljøet er godt, ser
-utvalget at det er store forskjeller mellom skolene
-i de utsatte områdene. Forskjellene kan være
-svært store også mellom skoler som ligger nær
-hverandre. At foreldre velger enten å flytte til en
-annen skolekrets eller å sende barna sine til skoler som de anser å ha bedre kvalitet, kan bidra til å
-forsterke tendensene til skolesegregering.
-Enkelte skoler får et uforholdsmessig stort
-omfang av utfordringer. De får flere elever med
-særlige behov, for eksempel behov for særskilt
-opplæring i norsk eller spesialundervisning, og
-elever som sliter med ulike sosiale utfordringer.
-En del av elevene har kanskje ikke den samme
-støtten hjemme som mange andre elever. Videre
-kan mange elever som flytter underveis i skoleløpet, gi et ustabilt skole- og læringsmiljø. At nyankomne elever som ikke snakker norsk, kommer
-inn underveis i skoleløpet, kan være ekstra utfordrende ved skoler som allerede sliter med å gi
-elevene tilpasset opplæring. Ved noen få skoler er
-bråk, uro, mobbing og vold mot lærere og andre
-elever et betydelig problem. Noen ungdomsskoler
-rapporterer om at en relativt høy andel av de eldste elevene er involvert i rus og kriminalitet. Rektorer rapporterer at mange elever ikke har tro på
-egen framtid. Samlet sett påvirker dette elevenes
-trivsel og trygghet som igjen påvirker læring.
-Lærerne må bruke mye av tiden sin på å håndtere
-sosiale utfordringer og drive med brannslukking,
-og de får slik mindre tid til å undervise i fag. Det
-ser ut til at omfanget av skoler som har særdeles
-store sosiale utfordringer, ikke er så stort, men at
-problemene oppleves som svært vanskelige å
-håndtere ved skolene det gjelder.
-Utvalget mener det kan være grunn til å tro at
-skolesegregeringen forsterker sosiale forskjeller
-mellom elever. De elevene som sliter mest, blir
-også belemret med de fleste ulempene. Å redusere sosiale forskjeller i skoleprestasjoner er
-vesentlig for å legge til rette for sosial mobilitet.
-Utvalget er bekymret over at andelen unge
-som ikke gjennomfører videregående opplæring,
-er høy i enkelte områder. Selv om andelen som
-ikke fullfører videregående skole har gått ned for
-både jenter og gutter i utsatte byområder over tid,
-er andelen i noen få områder svært høy. Å gjennomføre videregående skole anses ofte å være
-den viktigste faktoren for å oppnå stabil tilknytning til arbeidsmarkedet. Det har positive effekter
-på senere inntekt, familiedannelse og helse, og
-det forebygger kriminalitet.
-Noen skoler har en svært høy andel elever
-med innvandrerbakgrunn, og det bekymrer både
-foreldre og en del rektorer og lærere. Samtidig
-
-149
-
-Kapittel 11
-
-tyder studier utvalget har gått gjennom på at andelen elever med innvandrerbakgrunn på skolene
-trolig betyr lite for elevenes prestasjoner. Foreldrenes utdanningsnivå har mer å si, og skoler
-hvor andelen elever med innvandrerbakgrunn er
-høy, har gjerne også en høy andel elever med lavt
-utdannede foreldre.
-Utvalget ser samtidig at noen skoler har uforholdsmessig mange elever med språklige utfordringer i norsk, og at det kan være uheldig for alle
-elevene ved skolene. For elever med dårlige
-norskkunnskaper er skolen trolig det viktigste
-språkmiljøet de har. Dersom språkmiljøet er
-svakt, vil ferdighetene i norsk utvikle seg saktere.
-Dette kan påvirke elevenes læring negativt, og
-etterslepet blir verre å hente inn igjen jo lenger i
-skoleløpet de kommer. Elevenes språkutfordringer kan også bidra til å øke konfliktnivået mellom
-elever i klasserommet og i friminuttet.
-Utvalget vil samtidig løfte fram en svært positiv
-tendens. Studier viser at mange elever med innvandrerbakgrunn har en bedre prestasjonsutvikling enn andre elever. Dette kan trolig forklares
-med at mange foreldre med innvandrerbakgrunn
-motiverer barna sine i skolearbeidet og til å ta
-høyere utdanning, og at de unge får et særlig prestasjonsdriv.
-
-11.8 Flere utsatte unge kan øke
-kriminaliteten
-Kriminaliteten i utsatte byområder i Norge er
-generelt sett lav, og de fleste som bor i områdene,
-føler seg i all hovedsak trygge. Kriminalitet er
-likevel en faktor som kan påvirke beboere sterkt.
-Utvalget ser at kriminalitet kan påvirke beboere, først og fremst unge gutter, direkte.
-Nabolagsstudier fra flere land viser at barn som
-vokser opp i nabolag med store levekårsutfordringer og høy kriminalitet, i større grad begår kriminalitet selv. Samtidig viser studier at en del utsatte
-nabolag kan være dårligere rustet til å korrigere
-og slå ned på uønsket aktivitet og kriminelle
-handlinger fordi det sosiale limet blant beboerne
-er svakt. Høy kriminalitet, eller oppfatninger om
-at kriminaliteten er høy, kan også forklare hvorfor
-segregering oppstår eller opprettholdes. For
-eksempel kan den påvirke folks valg om å flytte til
-eller fra områder. Kriminalitet kan ha selvforsterkende negative effekter i noen utsatte områder
-som over tid kan gi en negativ utvikling.
-Barne- og ungdomskriminaliteten har økt i flere
-av de største byene de siste årene. Selv om det
-meste av kriminaliteten skjer i sentrum og i typiske
+# Flytting, nabolag og selvforsterkende prosesser
+
+Økonomiske forskjeller, sammen med hvor attraktive boligområdene er, danner mye av grunnlaget for segregering. Samtidig vil segregering kunne påvirke hvor attraktivt et område er. Folk kan ønske å flytte til områder hvor det bor andre med samme bakgrunn. Områder hvor det bor mange med levekårsutfordringer, vil kunne oppfattes som mindre attraktive. Det kan påvirke hvem som flytter inn og ut. Gjennom flytting og offentlige og private aktørers vilje til å investere i områdene kan den eksisterende segregeringen og ulikhetsmønstre mellom byområder forsterkes, opprettholdes eller svekkes.
+
+## Flytting og attraktivitet som selvforsterkende prosesser
+
+Flytting kan forsterke segregering etter både inntekt, innvandrerbakgrunn og andre sosiale kjennetegn. Folk som flytter, søker seg gjerne til nabolag der befolkningen likner dem selv (Turner og Sandlie 2016). Inntektsforskjeller kan også øke forskjellene på kvalitetene ved boligområdene ved at investeringene og vedlikeholdet er høyere i områder hvor folk har god økonomi. Når kvalitetsforskjellene øker, kan det også forsterke segregeringen gjennom økte boligprisforskjeller og flyttemønstre. Flytting og investeringer kan dermed inngå i prosesser som gir selvforsterkende segregering.
+
+Flyttemønstre blant beboere i Oslo-regionen tyder på at både husstander med høy, middels og lav inntekt flytter til nabolag hvor inntektsnivået likner deres eget (Galster og Turner 2019).[^90] Høyinntektshusstandene ser ut til å være minst villige til å blande seg med andre grupper. Dette er ingen ny tendens. Det ser imidlertid ut til å være et nytt mønster at de nest rikeste har begynt å opptre på samme måte som de aller rikeste (Galster og Turner 2017).
+
+Om folk velger å flytte eller bli boende, og hvor ofte man flytter, henger sammen med husholdningenes økonomi og posisjon i livsløpet og med egenskaper ved boligen og nabolaget, for eksempel sentralitet, boligtyper, hager, fritidstilbud og skoler (Aarland og Brattbakk 2020, Turner og Sandlie 2016). Å flytte er ofte frivillig. Folk ønsker å finne en større eller bedre bolig i et område de liker. Flytting kan også være ufrivillig. Hvis husleien blir for høy, kan man bli nødt til å flytte. Utleiekontrakter som blir avsluttet på kort varsel, og dårlige boforhold kan også være eksempler på årsaker til ufrivillig flytting.
+
+Unge og aleneboende flytter oftere enn andre, og par flytter gjerne før de får barn. Barnefamilier flytter mindre når de får flere barn. Innvandrere, også store barnefamilier, flytter oftere enn andre (Turner og Sandlie 2016).
+
+### Flytting og effekten på befolkningssammensetningen
+
+Flytting inn og ut av nabolag og byer har også noe å si for hvordan et område utvikler seg over tid. Flyttemønstre kan på den ene siden bidra til å endre befolkningssammensetningen og på den andre siden til å opprettholde en relativt konstant sammensetning av innbyggere over tid. Om sammensetningen i befolkningen endres eller er stabil, avhenger av om de som er bofaste, og de som flytter til og fra, er svært ulike grupper. For eksempel kan de som flytter til et område, ha lavere inntekt og sysselsetting enn de mer stabilt bofaste, og de som flytter videre. At innbyggere som flytter til et område, har lavere inntekt og sysselsetting enn de bofaste, trenger ikke bety at hele området faller i attraktivitet og status (en prosess kalt filtrering). De som flytter inn, bor der kanskje i ti år og har i denne perioden blitt eldre, fått bedre betalte jobber og flytter videre. De kan så erstattes av andre som starter boligkarrieren sin på samme måte og har tilsvarende flyttemønstre. Områder med en lang historie har ofte en blanding av beboere i ulike livsfaser (Aarland og Brattbakk 2020). Selv om flytting kan skape stabilitet i befolkningssammensetningen, går nabolag gjerne gjennom ulike faser i takt med livsfasene til beboerne. I et nybygd boligområde bor det gjerne mange barnefamilier. Etter som årene går, vokser barna til, og de flytter ut. Blant foreldre med voksne barn er det noen som flytter videre til en mindre bolig. Etter hvert blir utflytterne i et område erstattet av nye grupper som ofte er i en annen livsfase (ibid.).
+
+I noen områder flytter folk oftere enn i andre. Befolkningen blir raskere skiftet ut, slik at disse områdene i mindre grad følger beboernes ulike livsfaser. I byene er det områder som har preg av å være områder der nyinnflyttere etablerer seg. Dette er gjerne sentrale bystrøk med mange leieboliger. Hit kommer det mange unge for å studere eller jobbe. Dette er også ofte områder hvor en del innvandrere etablerer seg (Aarland og Brattbakk 2020). For mange er ikke slike områder et sted man blir boende over lengre tid (Brattbakk mfl. 2015 og 2017). Etter som tiden går og mange får partner og barn, flytter man gradvis mot større boliger i strøk litt lenger unna sentrum eller ut av byen.
+
+Når det bygges mange nye boliger, kan nye beboere flytte inn og bidra til å endre sammensetningen i befolkningen i området. Områdene kan dermed endre karakter selv om det ikke skjer endringer i befolkningen i de fra før av eksisterende boligene. I områder med ingen eller lav nybygging henger inn- og utflytting tett sammen. Noen må flytte ut for at andre kan flytte inn (Aarland og Brattbakk 2020).
+
+### Stabilitet og endring i boligområdenes attraktivitet
+
+Mange boområder har blitt mer eller mindre attraktive over tid. Ifølge en amerikansk undersøkelse har en del nabolag tendenser til 100-årssykluser, med forfall og senere oppgradering. I flertallet av de studerte nabolagene fant forskeren at det relative inntektsnivået endret seg betydelig i løpet av en 50-årsperiode. Over tid vil boligene bli eldre, for deretter ofte å bli restaurert. Dette kan påvirke attraktiviteten. Forskeren pekte på at lavinntektsfamilier i amerikanske byer ofte bor i eldre boliger som opprinnelig er bygd for husstander med høyere inntekter (Rosenthal 2008). På et gitt tidspunkt kan det bli lønnsomt å oppgradere forfalne områder. Da har husleiene og boligprisene til de oppgraderte boligene blitt høyere enn investeringskostnadene. Det kan føre til at etterspørselen etter boliger blant investorer øker, og at områder gentrifiseres (Smith 1979).
+
+I internasjonale diskusjoner om utsatte byområder er fysisk forfall og manglende private investeringer en sentral del av forklaringene på hvordan områder kan komme inn i selvforsterkende negative spiraler (Andersen 2002, Zwiers mfl. 2014, Bolt 2018). Hvis beboerne har lave inntekter, kan det bety at boligeiere bruker mindre penger på å vedlikeholde og oppgradere. Er boligprisene lave eller synkende, vil det dessuten gjøre det mindre lønnsomt å vedlikeholde og oppgradere boligene. En amerikansk undersøkelse indikerte for eksempel at boligeiere reduserte vedlikeholdskostnadene med 50 prosent hvis boligens verdi falt under byggekostnadene (Gyourko og Saiz 2004). I mange boligområder forsvinner lokale butikker, og en del områder kan preges av mangel på vedlikehold og investeringer fra lokalt næringsliv. Det kan henge sammen med en negativ levekårsutvikling, men kan også ha andre årsaker, ikke minst konkurranse fra større kjøpesentre (Hansen og Brattbakk 2005). Handel og serveringssteder blir gjerne plassert der det er sannsynlig at folk må eller har lyst til å ferdes (Samfunnsøkonomisk analyse 2017). Næringsvirksomhet kan være selvforsterkende ved at én butikk eller kafé styrker kundegrunnlaget for en annen.
+
+Selv om mange boområder går gjennom store endringer, kan det være vanskelig å snu utviklingen i områder med opphoping av levekårsutfordringer. En undersøkelse av nederlandske storbyer fant at i perioden 1971–2013 bodde husstander med lave inntekter i stor grad i de samme nabolagene. Dette forklarte forskerne med at en opprinnelig dårlig kvalitet på boliger og fysiske omgivelser spiller en stor rolle for hvem som bor der (Zwiers mfl. 2017). En undersøkelse fra England fant også en stor grad av stabilitet i andelen arbeidsledige i nabolag over en 15 års periode. Det er imidlertid ikke bare fysiske kvaliteter som kan skape en slik stabilitet. Omdømmet til nabolagene kan det være vanskelig å gjøre noe med, og dette kan bidra til at befolkningens sosioøkonomiske sammensetning holder seg stabil (Tunstall 2016). En dansk undersøkelse av utsatte byområder fant at områder som var i dårlig fysisk stand, i hovedsak også hadde dårligere omdømme. Fysiske forbedringer, som mindre avfall i fellesområder og bedre lekeplasser, hadde en viss effekt på omdømmet, men utrederne mente samtidig at å endre på omdømmet så ut til å være en langsiktig og komplisert prosess (Benjaminsen og Christensen 2000).
+
+De fysiske kvalitetene kan dermed være en sentral årsak til at nabolagenes sammensetning og attraktivitet holder seg på det relativt samme nivået. Det er ikke nødvendigvis enkelt å fastslå hva som er varige kvaliteter, og hvordan disse virker inn på attraktivitet, men det finnes indikasjoner på hva folk setter pris på over tid. Noen varige kvaliteter ved boliger kan blant annet være nært samspill mellom inne- og utearealer, dagslys og utsyn, fleksible romløsninger, solide materialer og håndverksmessig kvalitet (Nylander 1998). Varige kvaliteter ved boligområdene kan for eksempel være et nærmiljø fritt for støy og luftforurensning, trafikksikkerhet og leke- og oppholdsarealer ute som legger til rette for sosial kontakt (Martens og Moe 2018).
+
+Selv om en del kvaliteter er varige og verdsatt av de fleste, er også ulike kvaliteter ulikt verdsatt i befolkningen. Blant barnefamilier fører for eksempel ulike preferanser til ulike bosettingsmønstre. Barnefamilier som flytter ut av sentrumsområder i Oslo, synes å legge stor vekt på god plass, hage, utearealer og fravær av støy og forurensing. Barnefamilier som blir boende i sentrumsområder ser blant annet ut til å legge mer vekt på gå- og sykkelavstand til jobb- og kulturtilbud (Barlindhaug 2018). Over tid kan også preferansene endre seg. Endrede preferanser kan for eksempel ha bidratt til gentrifisering av tidligere arbeiderbydeler, sammen med andre årsaker som avindustrialisering og utbyggingsmønster.
+
+Nabolagenes kvaliteter kan endres gjennom bygging av nye boliger, men ofte vil kvaliteten og trekk ved nybyggingen likne på bebyggelsen i nærheten. I Sverige har kommunene gjerne forsøkt å få til en blanding av eide og leide boliger i nabolagene. Siden beboere i eide boliger i snitt har høyere inntekter enn beboere i leide boliger, kan en blanding av boligenes disposisjonsform bidra til en større blanding av sosioøkonomiske grupper. I en undersøkelse av 69 store og middels store svenske byer fant forskerne at nybygging hadde bidratt til større blanding av eide og leide boliger i 75 prosent av byene. Samtidig var det også forhold i boligmarkedet som kunne hindre dette. Ifølge svenske kommunale planleggere og boligbyggere vil beboere i eide boliger motsette seg at det bygges utleieboliger i nærområdet. Boligeiere kan være engstelige for at boligprisene går ned, og at bomiljøet blir dårligere. I utsatte områder kan derimot utfordringen være at det er vanskelig å få folk med høye inntekter til å ville flytte dit, og at det da kan være vanskelig å få boligprosjekter rettet mot denne kjøpergruppen til å bli lønnsomme (Bergsten og Holmquist 2007, Bergsten og Holmquist 2013).
+
+### Flytting til og fra områder med mange innvandrere
+
+Sammenhengen mellom bokonsentrasjon av innbyggere med innvandrerbakgrunn og flytting blant ulike grupper i befolkningen kan beskrives gjennom fire mekanismer. To mekanismer omhandler selektiv flytting blant innbyggere uten innvandrerbakgrunn og innebærer at disse flytter fra eller unngår å flytte til områder med en høy andel innvandrere. De to siste mekanismene tar for seg bostedspreferanser til innbyggere med innvandrerbakgrunn og handler om hvorvidt innvandrere er overrepresentert blant dem som flytter til innvandrertette nabolag, og underrepresentert blant dem som flytter fra innvandrertette områder (Andersen 2017).
+
+Danske og svenske flytteundersøkelser viser at den sterkeste driveren bak segregering etter innvandrerbakgrunn er at innbyggere uten innvandrerbakgrunn unngår å flytte til områder med mange innvandrere (Andersen 2017, Andersson 2013, Bråmå 2006). I Sverige fant man i tillegg en klar effekt på segregeringen av at personer uten innvandrerbakgrunn flyttet fra innvandrertette områder. I Danmark var denne effekten litt mindre (Andersen 2017). Malmberg og Clark (2020) oppsummerer at den nyeste litteraturen om segregering heller mot at sortering av innbyggere etter innvandrerbakgrunn i ulike områder handler mest om at de uten innvandrerbakgrunn unngår områder med mange innvandrere snarere enn at de «flykter fra» dem.
+
+Det er ikke gjort tilsvarende omfattende flyttestudier i Norge som i Sverige og Danmark etter innvandrerbakgrunn. Men i en studie om Oslo viser Wessel og Nordvik (2018) at familier med barn (eller som venter barn) og som ikke har innvandrerbakgrunn, har betydning for bokonsentrasjon av personer med innvandrerbakgrunn i byområder. To masteroppgaver fra Oslo og Osloregionen bekrefter at innbyggere uten innvandrerbakgrunn unngår å flytte til innvandrertette områder (Hewitt 2013, Sundell 2008). I en undersøkelse av holdninger til innvandring, integrering og mangfold svarte halvparten av utvalget at de ikke ønsker å bo i et område der flertallet har innvandrerbakgrunn (Brekke mfl. 2020).
+
+Andre studier undersøker om det er terskler for når befolkningen uten innvandrerbakgrunn ønsker at det var færre innvandrere i sitt område, eller flytter fra et område på grunn av høy innvandrertetthet. I en studie av bostedssegregering i Oslo, Stockholm og Helsinki finner forskerne at det *er* slike terskler. Disse tersklene er likevel forskjellige fra by til by og ligger omtrent på et nivå som tilsvarer gjennomsnittlig andel ikke-nordiske innvandrere i byen (Andersson mfl. 2016). Også Wessel og Nordvik (2018) er opptatt av slike terskler. De finner at husholdninger i Osloområdet med små barn er stabile i nabolaget når andelen med innvandrerbakgrunn er lav, men svært ustabile når andelen med innvandrerbakgrunn er høy.
+
+Forskningen om hvorvidt innvandreres bostedspreferanser påvirker segregeringen, peker i litt ulike retninger. En analyse fra Norge av innvandreres bostedspreferanser (Blom 2012)[^91] og en tidligere studie fra Danmark (Andersen 2010) finner at i noen innvandrergrupper er det et ønske om å bo nær egen familie. Dette påvirker segregeringen. Også innvandreres preferanser for å bo nær andre innvandrere mer generelt er undersøkt. I en studie fra Norge av bostedspreferansene til tre innvandrergrupper (tyrkere, somaliere og polakker) finner Søholt og Lynnebakke (2015) at personer med innvandrerbakgrunn oftere enn personer uten slik bakgrunn vil ha naboer som selv er innvandrere. Grunner innvandrerne oppgir for dette, er at de ikke får kontakt med nordmenn, og at andre innvandrere er enklere å omgås. Blom (2012) finner imidlertid at innvandreres egne preferanser i liten grad påvirker at innvandrere bosetter seg tett. Når innvandrerandelen på bostedet er høy, svarer innvandrerne at de ønsker å begrense innvandrertettheten. Fra Danmark finner Andersen (2017) at effekten av innvandreres preferanser for å bli boende i det samme området er uten betydning for segregeringen.
+
+Samtidig er det store likheter i preferansene til innvandrere og andre. I en kvalitativ undersøkelse blant personer fra ulike innvandrergrupper ble frisk luft, barnevennlige grøntområder og tilgang til offentlig transport vektlagt som viktige for valg av bolig (Søholt og Lynnebakke 2015).
+
+Internasjonal forskning som er oppsummert i Zwiers mfl. (2018a), finner at innvandrere over tid flytter vekk fra innvandrertette områder og inn i nabolag med høyere sosioøkonomisk status og hvor majoriteten av innbyggerne ikke har innvandrerbakgrunn. Sosioøkonomisk status har mye å si for et slikt flyttemønster. Det er de som har økonomisk mulighet, som flytter. Fra Norge viser Blom (2012) at innvandrernes representasjon i ulike deler av Oslo henger sammen med husholdningsstørrelsen. Mindre husholdninger med innvandrerbakgrunn har økt sin representasjon i vest. Ellers er mønstret i Oslo at større husholdninger oftere bor i øst enn i vest, og at innvandrere er overrepresenterte i gruppa store husholdninger.
+
+Økonomi er en viktig årsak til folks boligvalg, men det kan også være noen forskjeller i hva folk prioriterer. Færre innvandrere eier boligen de bor i enn befolkningen som helhet. Den primære årsaken til at innvandrere i mindre grad eier egen bolig, er at inntekten ikke er høy nok (Grødem og Sandbæk 2013). Landbakgrunn, opplevelse av tilknytning til Norge og religiøs overbevisning har langt mindre betydning (ibid.). Siden eide og leide boliger er ulikt fordelt i byene, vil forskjeller i eierandel kunne gi seg utslag i bokonsentrasjon. Mange med innvandrerbakgrunn bor også trangt. Det er usikkert i hvilken grad trangboddheten «skyldes frivillighet eller mangel på alternativer, men vi vet at det blant noen innvandrergrupper er vanlig å bo flere generasjoner sammen» (Søholt 2007). Data fra SSBs levekårsundersøkelser tyder på at mange innvandrere i mindre grad ser på boligen sin som for liten, selv om de er trangbodde etter objektive kriterier (Vrålstad og Wiggen 2017).
+
+### Foreldres motiver for å flytte bort fra eller bytte skole
+
+De aller fleste barn og unge i Norge går på den lokale grunnskolen. Men en del foreldre i utsatte nabolag velger enten å flytte til en annen skolekrets eller å sende barna sine til skoler som de anser har bedre kvaliteter utenfor nærmiljøet (Brattbakk og Andersen 2017). At foreldre tar slike valg, kan bidra til å forsterke tendensene til skolesegregering.
+
+En høy andel elever med innvandrerbakgrunn i skolene påvirker barnefamilier uten innvandrerbakgrunn og deres valg om å flytte inn og ut av områder. En studie dokumenterer en markant fraflytting av norske barnefamilier fra skolekretser med høye andeler elever med innvandrerbakgrunn (Sundell 2008). Barnefamilier uten innvandrerbakgrunn flytter også i langt lavere grad til områdene. At andelen elever med innvandrerbakgrunn er høy i den lokale skolen, er et viktig flyttemotiv (Hewitt 2013). Barnefamilier oppgir i betydelig større grad enn andre familier at en lav andel uten innvandrerbakgrunn i et boligområde er et viktig motiv for å flytte dit. Melbye (2014) viser til at det finnes en rekke årsaker til at personer uten innvandrerbakgrunn velger å flytte fra områder med mange med innvandrerbakgrunn. Andelen med innvandrerbakgrunn ved skolene i et område er likevel en viktig årsak for mange.
+
+En kvalitativ studie utført i Groruddalen i Oslo ser på hvorfor noen barnefamilier har flyttet, og særlig på hvilken rolle skolen spilte for familienes valg (Bragen 2013). Den viser at familiene flyttet både fordi de trengte større plass, ønsket bedre standard på boligen eller ønsket seg egen hage. Men de flyttet også fordi de var skeptiske til om skolene med en høy andel elever med innvandrerbakgrunn kunne gi et like godt tilbud som skoler hvor en større andel elever ikke har innvandrerbakgrunn.
+
+I integreringsbarometeret 2018 kommer det fram at flere enn fem av ti er skeptiske til å velge skoler der et flertall av elevene har innvandrerbakgrunn. Likevel svarer drøyt sju av ti at skolens resultater er viktigere enn andelen med innvandrerbakgrunn. Nesten ni av ti mener at det er positivt for barna å gå på en skole hvor elevene har ulik kulturell bakgrunn (Brekke og Mohn 2018).
+
+Morken og Theie (2015) har undersøkt hvilke faktorer foreldrene i Groruddalen legger vekt på ved valg av ungdomsskole. De mener flyttemønstret i Groruddalen tyder på at foreldre velger bort områder og skoler med en høy andel elever med innvandrerbakgrunn. Samtidig er foreldrenes motiver for å flytte eller bytte skole for barna sammensatte. Skolebytte skjer ikke bare til skoler med lav andel elever med innvandrerbakgrunn, og det er ikke bare de uten innvandrerbakgrunn som bytter eller flytter. En del bytter fra en skole med en andel elever med innvandrerbakgrunn på 90 prosent til skoler med en andel på 50–70 prosent. Faktorer som påvirker foreldrenes valg, er elevenes egne ønsker og meninger, skole i nærmiljøet (gangavstand), sosialt miljø ved skolen, karakternivå (men bare som en av mange faktorer) og andel elever med innvandrerbakgrunn. Studien viser at faktorer som sosialt miljø og trivsel er viktigere enn andelen elever med innvandrerbakgrunn og karakternivå.
+
+Også foreldre med innvandrerbakgrunn velger å flytte eller bytte skole for barna. Ifølge Roostami (2012) er grunnene til å søke skolebytte relativt like uavhengig av om foreldrene har innvandrerbakgrunn eller ikke. Den største forskjellen er at foreldre med innvandrerbakgrunn i større grad enn andre foreldre vil at barna skal være i et norsk språkmiljø. I likhet med flere andre studier viser også denne at foreldre, uavhengig av bakgrunn, ønsker et mangfoldig skole- og oppvekstmiljø for barna sine.
+
+Foreldre velger ut fra hva de vurderer som best for eget barns læring og utvikling. At skolen de velger bort, har et godt omdømme, for eksempel at lærerne sies å være dyktige, ser ikke ut til å veie opp for forhold som foreldrene mener er negative. Roostami (2012) viser til at flere av foreldrene, uavhengig av bakgrunn, søker nærmere dem de har mer til felles med.
+
+Selv om foreldre av hensyn til barnas skolegang velger å flytte til et sted hvor de antar at det er bedre å vokse opp, er det ikke alltid de undersøker skolene de flytter til, grundig før de flytter. De flytter til steder de opplever som trygge og som representerer noe kjent. Dermed antar de at skolene i disse områdene er gode nok (Bragen 2013). Dette bekreftes av Kvamme (2013) som har studert barnefamiliers bostedsvalg i Bydel Grorud. Samtlige av informantene hennes hevder at skole er en viktig faktor når de skal velge bolig, men de aller færreste sjekket forholdene ved skolene selv. De velger å stole på råd eller advarsler fra venner og bekjente. Hun viser til at følelser som uro og bekymring over skolesituasjonen kan føre til at man velger å flytte. Det er de mest urolige som også lettest lar seg påvirke av andres fortellinger.
+
+## Boligeie i utsatte byområder
+
+Boligeierskap står sterkt i Norge og har blitt framhevet som viktig for integrering og velstandsutvikling. Man kan derfor spørre seg om en høy andel boligeiere bidrar til å stabilisere levekårene og de sosiale forholdene for beboerne i utsatte områder og til å motvirke en negativ utvikling i områdene.
+
+Det finnes en rekke studier som tyder på at boligeierskap kan være positivt for beboernes levekår. Blant annet viser en studie at det er mer sannsynlig å motta sosialhjelp og uføretrygd som voksen hvis man har bodd i leiebolig som barn, også når forskerne tar hensyn til fars utdannings- og inntektsnivå (Nielsen 2011). Studien finner ikke slike sammenhenger for barn av innvandrere fra Afrika, Asia mv. Det er samtidig vanskelig å påvise at boligeierskap har en direkte positiv effekt på levekår, og at det ikke skyldes andre bakenforliggende faktorer (Aarland og Reid 2019, Umblijs mfl. 2019).
+
+Noen av de potensielt sett positive effektene av boligeierskap som blir trukket fram i forskningen, er
+
+- bostabilitet: Husstander som eier bolig, kan ha større muligheter for bostabilitet og unngå hyppige flyttinger.
+
+- formue: Boligeierskap kan gi formueoppbygging og økt velstand.
+
+- vedlikehold: Boligeiere som selv bor i boligene, antas å investere mer i boligene.
+
+### Bostabilitet i eide og leide boliger
+
+Bostabilitet kan være en viktig dimensjon ved levekår, særlig for barnefamilier. Dette kommer blant annet fram i kvalitative studier. Foreldre rapporterer om at hyppige skolebytter er vanskelig for barna og gjør det vanskelig å slå rot i nærmiljøet (Hansen og Lescher-Nuland 2011, Grødem og Sandbæk 2013).
+
+Sammenhengen mellom bostabilitet og boligeierskap vil avhenge av hvordan boligmarkedet fungerer og er regulert, men studier fra flere land med ulike boligmarkeder tyder på at boligeierskap kan gi økt bostabilitet. I Norge er det vanlig med tidsavgrensede leiekontrakter, og minstetiden er som hovedregel tre år. Leiemarkedet er dessuten lite og preget av privatpersoners utleie. Det kan gjøre det vanskelig å få langsiktige leiekontrakter.
+
+En analyse av leietakere som søkte om Husbankens startlån i perioden 2004–2010, tyder på at boligeie har en betydelig effekt på bostabiliteten (Aarland og Reid 2019). Flyttingene reduseres med om lag 40 prosent gjennom kjøp av bolig. Effekten er særlig sterk for innvandrere fra Øst-Europa og land i Afrika, Asia mv. Samtidig peker forskerne på at boligeie ikke nødvendigvis er positivt. Hvis husstander med lave inntekter bare kan kjøpe bolig i utsatte områder, kan det være at ulempene ved dårlige nærmiljøkvaliteter utlikner de positive effektene av boligeie.
+
+### Boligformue og velstandsutvikling
+
+Internasjonale undersøkelser tyder på at å eie bolig i hovedsak bidrar til økt formue sammenliknet med boligleie. Det skyldes både at boligeiere får ta del i verdistigningen i boligmarkedet, og at boliglån innebærer en form for tvungen sparing. Sånn sett kan en høy andel boligeiere bidra til velstandsutvikling også i områder med mange lavinntektshusstander (Aarland og Reid 2019). Ved å ta sikkerhet i boligen kan også husstandene ta opp større lån enn de ellers kunne gjort, og over tid bygge opp mer kapital. Ved å spare i bolig kombinerer dessuten husstandene sparingen med å skaffe seg et nødvendig konsumgode (Samfunnsøkonomisk analyse 2020).
+
+Det er samtidig studier som viser at lavinntektshusstander er særlig utsatt for å få gjeldsproblemer og miste boligen. De norske trygdeordningene kan bidra til å dempe risikoen for å miste boligen ved arbeidsledighet eller sykdom sammenliknet med andre land (Aarland og Reid 2019).
+
+Andelen boligeiere og gjeldsgraden til husstandene kan forøvrig virke inn på hvor sterkt boligmarkedet svinger. Land med en høy andel leieboliger og restriktiv utlånspraksis, for eksempel Tyskland, opplevde mindre grad av boligprisfall etter finanskrisen i 2008 enn land som Irland og Island (Priemus og Whitehead 2014).
+
+Selv om boligeie i hovedtrekk bidrar til å øke formuen, kan store og voksende boligprisforskjeller gi økt formuesulikhet. Svenske data om formuesutviklingen blant boligeiere viser store forskjeller ut fra hvordan utviklingstrekkene er i ulike byområder. Undersøkelsen tyder på at utviklingen i nabolagets andeler av innvandrere og høyt utdannede, sammen med hvor lenge den enkelte har eid bolig, er sentrale faktorer som forklarer forskjeller i kapitalgevinster blant boligeiere. Kapitalgevinstene i perioden 1995–2010 for et utvalg boligeiere sank med andelen innvandrere i nabolaget og steg med andelen høyt utdannede. Nabolagene betydde mer i storbyene enn i mellomstore byer. Beregningene tilsa at en familiefar med lav utdanning, lav inntekt og innvandrerbakgrunn i Stockholm mistet halvparten av boligformuen sin i løpet av de femten årene, mens en familiefar med høy utdanning, høy inntekt og uten innvandrerbakgrunn doblet boligformuen i samme periode (Wind og Hedman 2018).
+
+I Norge har imidlertid norskfødte med innvandrerbakgrunn relativt sett høye boligformuer sammenliknet med andre i samme aldersgruppe. Det kan forklares med at norskfødte med innvandrerbakgrunn i større grad bor i byregioner med høye boligpriser.[^92]
+
+### Vedlikehold og oppgradering av bolig
+
+Det er vanlig å anta at det er større vedlikeholdsmangler på boliger i områder med mye utleie enn i områder der folk bor i egen eid bolig. Undersøkelser fra enkelte levekårsutsatte områder tyder på at eide boliger generelt er godt vedlikeholdt og sjeldnere preges av manglende vedlikehold enn utleieboliger. Samtidig kan også eide boliger preges av manglende vedlikehold (Proba 2020).
+
+Vedlikehold av boligbygg skiller seg fra småhus ved at mange boligeiere må samarbeide. Studier fra andre europeiske land viser at det kan være vanskelig å vedlikeholde boligkomplekser med mange private eiere (Hess mfl. 2018). Store offentlige eller ikke-kommersielle utleiere kan ha økonomiske midler til å gjennomføre omfattende oppgraderingsprosjekter. Dette kan være vanskeligere for borettslag og sameier. For eksempel har det i mange drabantbyområder i Sverige vært satt i gang store rehabiliteringsprosjekter, men ofte i etterkant av betydelige forfallsprosesser. I eide boliger er det kanskje enklere å få gjennomført et jevnt vedlikehold (Brattbakk mfl. 2006). Samtidig er det ikke gitt at boligeie sikrer et jevnt og godt vedlikehold. Det forutsetter aktive styrer og et økonomisk fundament hos beboerne (Hansen og Brattbakk 2005).
+
+## Samspill mellom utfordringer i nabolag
+
+### Sosiale problemer og fysisk forfall i nabolag
+
+Det finnes ulike teorier og modeller for hvordan faktorer innad i områdene, særlig karakterisert ved fysisk forfall og sosiale problemer, kan påvirke områdene negativt (van Beckhoven mfl. 2009). Slike interne faktorer kan blant annet være at normer for bruk av uteområder endres, at beboerne trekker seg tilbake som følge av utrygge nærmiljøer, kriminalitet og konflikter i lokalsamfunnene, færre fritidstilbud og andre tilbud i nærmiljøet, reduserte sosiale fellesskap og stigmatisering av innbyggere og områder (Andersen 2003). Områdeinterne problemer kan virke sammen med flyttemønstre, stigende arbeidsledighet, dårlig omdømme og annet og føre til en negativ utvikling for nabolaget (ibid.).
+
+Dårlig omdømme kan forsterke utfordringene for et område ved at folk ikke ønsker å flytte dit eller oppholde seg der. Et dårlig omdømme stemmer ikke alltid med realiteten, men kan blant annet være et resultat av negative oppslag i media (for eksempel Tunstall 2016, Hess mfl. 2018). En undersøkelse fra sosiale boligområder i Danmark viste at de fleste av de intervjuede beboerne mente at det var forskjell på hvordan omverdenen oppfattet boligområdet, og hvordan de selv opplevde det. Negativ medieomtale blir framhevet av beboere som vel så viktig for boligområdenes omdømme som de fysiske og sosiale forholdene (Bech-Danielsen og Mechlenborg 2017).
+
+En dansk undersøkelse fra områder med sosiale utleieboliger fant flere eksempler på at nabolag sliter med de samme kombinasjonene av problemer. I områder med høy kriminalitet rapporterer beboerne også om utfordringer med hærverk og graffiti, samtidig rapporterte de om færre problemer med hærverk og graffiti i nabolag hvor uteområder og balkonger ble rustet opp. Videre ble det mindre avfall i uteområdene når boligblokkene ble rustet opp. Dette mener forskerne kan være tegn på at fysiske og sosiale problemer gjensidig forsterker hverandre, men at det også kan ha med felles bakenforliggende faktorer å gjøre. Det kan for eksempel være at undersøkelsen ikke i tilstrekkelig grad fanger opp effektene av utfordringer blant beboerne. De fant videre at fysisk forfall samvarierer med en høy andel barn og unge og med til en viss grad med en høy andel personer som mottar offentlige overføringer, men ikke med andelen innvandrere. Dette kan ha sammenheng med hvordan ulike beboere tar vare på omgivelsene, men også med hvor de blir tildelt bolig (Benjaminsen og Christensen 2000). Det er også flere andre undersøkelser som peker mot at fysisk forfall kan ha negative effekter på sosiale forhold, ikke minst i tilfeller der forfallet er betydelig. En studie fra USA fra perioden 2005–2009 finner for eksempel at forlatte boliger har en tydelig effekt på innbruddsraten, men ikke på antall tyverier (Jones og Pridemore 2016).
+
+Tillit mellom og kontakt med naboer er egenskaper ved nabolaget som teoretisk sett kan virke dempende på utviklingen av sosiale problemer. En undersøkelse fra to utsatte byområder i Nederland tok for seg om slike indikatorer på sosial kapital hang sammen med egenskaper ved beboerne. Den sosiale kapitalen så ut til å være høyere hos beboere med høyere inntekt, beboere med barn og beboere som var knyttet til nabolaget og oppfattet nabolaget som kvalitativt godt (Kleinhans mfl. 2007). Det kan bety at flere beboere med høyere inntekt kan være en styrke for utviklingen av nabolagene. En studie av ulike empiriske undersøkelser finner at lavinntektshusstander drar nytte av å ha beboere med høyere inntekter ved at det gir en sterkere positiv sosial kontroll og kan ha positiv innvirkning på kvaliteten på tjenestene i området. Utrederne finner ikke empirisk støtte for at lavinntektshusstander har mer kontakt med naboer eller bygger mer nettverk ved å ha flere naboer med høyere inntekter (Joseph mfl. 2007).
+
+Offentlige myndigheter legger ofte til grunn at det må lages møteplasser, inkludert skoler og idrettsanlegg, i lokalsamfunnene for å legge til rette for interaksjon mellom ulike grupper i befolkningen. Men hvordan slike møteplasser skal bidra til at innbyggerne får bedre kontakt med hverandre, kan være uklart. Folk som bor i nærheten av hverandre, omgås ofte folk som har lik bakgrunn og/eller felles interesser (van Kempen og Bolt 2009). Både denne studien og andre peker mot at økt sosioøkonomisk blanding i nabolagene kan svekke fellesskapet og gi flere nabolagskonflikter (Dekker og Bolt 2005, van Kempen og Bolt 2009, Kearns og Mason 2007, Andersen og Brattbakk 2020).
+
+### Kriminalitet i utsatte områder
+
+#### Effekter av kriminalitet og samhørighet i nabolag
+
+Det å vokse opp i kommuner med en høy andel kriminelle ser ut til å gjøre det langt mer sannsynlig at gutter blir kriminelle, enn det å vokse opp i kommuner med få kriminelle (Damm og Dustmann 2014). Studien viser at dersom andelen ungdomskriminelle i et område øker med 1 prosentpoeng, øker sannsynligheten for at guttene i kommunen blir dømt for kriminalitet med 7–13 prosent. Antallet dommer de får, stiger med mellom 10 og 16 prosent. Forskerne finner ikke tilsvarende effekter for jenter. Sosial interaksjon mellom individer trekkes fram som viktig. Guttene blir påvirket av atferden til alle unge kriminelle, men aller mest av unge med samme landbakgrunn som dem selv. Studien peker samtidig på at det er andelen unge kriminelle, ikke hvor mye kriminalitet som begås i kommunene, som påvirker resultatet.
+
+En studie fra USA finner at hvis andelen utsatte unge i et område er høy, er det mer sannsynlig at de unge i området begår kriminalitet (Billings mfl. 2019). Studien viser at sannsynligheten for å begå kriminalitet øker dersom de unge fra det samme boområdet går på den samme skolen. Den øker ytterligere hvis de har samme kjønn, samme etniske bakgrunn og går på samme klassetrinn. Funnene fra studien tyder altså på at nabolags- og skolesegregering kan øke ungdomskriminaliteten i utsatte områder.
+
+En annen undersøkelse fra USA ser på langsiktige positive effekter for barn som flyttet fra et utsatt nabolag til et område med lite fattigdom (Chyn 2018). Studien viser at barna senere hadde lavere frafall i videregående skole og større sannsynlighet for å få jobb og god inntekt i tidlig voksen alder enn jevnaldrende som ikke flyttet. Den viser også at de hadde lavere sannsynlighet for å bli arrestert for voldelig kriminalitet, særlig gutter og menn. Effektene var størst for barn som var ganske små (sju–tolv år) da de flyttet. Studien viser imidlertid at sannsynligheten for å begå eiendomskriminalitet[^93] økte.
+
+Evnen beboere og nabolag har til å dempe den kriminelle atferden til individer eller grupper i nabolag (omtalt som den kollektive handlekraften[^94]), varierer mellom områder. En studie som sammenlikner utsatte byområder i Chicago og Stockholm, viser at evnen nabolaget har til å dempe voldskriminalitet, synker kraftig i begge byene jo mer levekårsutsatte områdene er (Sampson 2012). De sosiale båndene er svakere i utsatte boområder, og beboerne der er i mindre grad villige til å gripe inn i uheldige situasjoner. Dette forklares blant annet med at det ofte bor mange innvandrere i områdene, og at språkbarrierer og ulike levemåter påvirker de sosiale båndene og dermed evnen og viljen til å gripe inn i ubehagelige hendelser negativt (ibid.).
+
+Den sosiale samhørigheten (gjensidig tillit, solidaritet og delte normer) i et lokalsamfunn ser ut til å virke positivt inn på viljen til å gripe inn i ubehagelige hendelser (Kleinhans 2014). I områder hvor det er positivt, hverdagslig samspill mellom beboere (også overflatisk), blir beboerne ikke bare bedre i stand til å gripe inn, men de blir også mer villige til å gjøre det. De blir tryggere i sin beslutning om å gripe inn når de vet at også andre beboere blir påvirket av hendelsen, og når de opplever at det er en felles enighet om når det bør gripes inn. Samtidig slår ikke sterke sosiale bånd i nabolag alltid bare positivt ut. Sosiale bånd kan bidra til at beboere snakker og deler historier om negative hendelser, og at dette igjen kan skape frykt og utrygghet. Når beboerne føler seg utrygge, blir de også mindre villige til å gripe inn. Videre kan sosiale bånd gjøre at noen ikke griper inn i ubehagelige hendelser fordi de forventer at andre gjør det. Det kan også være vanskelig å gripe inn når man kjenner personene som er involvert, fordi det kan ødelegge forholdet (ibid.).
+
+#### Fysisk utforming og atferd i drabantbyer
+
+Sentrale planleggingsidealer i etterkrigstiden var at trafikken skulle kanaliseres utenfor boligområdene, og at boligene skulle plasseres i grønne omgivelser som skulle gi godt med lys og luft. Kritikerne av planleggingsidealene har eksistert omtrent like lenge, men kritikken økte i 1970- og 1980-årene. Den har blant annet gått ut på at drabantbyområdene mangler naturlige møteplasser og ikke legger til rette for den positive sosiale kontrollen som kan hindre kriminalitet (Jacobs 1961, Gehl 1971, Newman 1972).
+
+Etterkrigstidens planleggingsidealer var framtredende under boligbyggingen i Sverige i 1960- og 1970-årene (Schulz 2004, Marcus 2007, Anderson og Bråmå 2018). Biltrafikken ble kanalisert i ringveier, og det ble lagt gangveier inne i boligområdene. Boligene ble spredt i grøntområdene, og torgene ble gjerne bygd som innendørs handlesentre. Dette mønstret kan gjøre at folk beveger seg mindre mellom boligområdene, og at de bare beveger seg inn i et boligområde hvis de bor der eller skal besøke noen (Marcus 2007). Er boligene spredt utover grøntområder, spres også folk over et større område. Det kan gjøre folk utrygge og redusere den sosiale kontakten mellom dem (Schulz 2004).
+
+I Danmark ble sosiale utleieboliger i 1960- og 1970-årene også ofte bygd som enklaver tydelig avgrenset fra resten av byen. Trafikken ble ledet utenom boligområdene, og veier, parkeringsområder, støyvern og grøntområder dannet grenser. Disse grensene anses nå dels å forsterke utfordringene i områder ved å «slå ring om problemene» (Bech-Danielsen og Mechlenborg 2017). I flere av de danske drabantbyområdene har det vært sett på som utfordrende at det ikke er tydelig hva uteområdene skal brukes til, og om de er private, halvprivate eller offentlige. Det kan da være vanskeligere for folk å bruke områdene, og sannsynligheten for hærverk øker (Bolt 2018, Bech-Danielsen og Mechlenborg 2017).
+
+Flere påpeker samtidig at man skal være forsiktig med å anta at det er tydelige årsakssammenhenger mellom fysiske omgivelser og folks oppførsel (Musterd og Ostendorf 2005, Wassenberg 2018). Sammenhenger mellom fysiske omgivelser og sosiale forhold kan være tilsynelatende og skyldes andre årsaker. Studier av hvordan fysiske omgivelser kan påvirke kriminalitet, viser at bildet er sammensatt. Trafikknutepunkt og trafikkerte veier kan være åsteder for kriminalitet, men hus langt fra veier kan også være utsatt. Belysning gjør ofte at beboere føler seg mer trygge, men demper ikke nødvendigvis kriminaliteten. Områder som blir formet med tanke på å forebygge kriminalitet, blir ikke nødvendigvis brukt slik de er tiltenkt, og det er eksempler på at kriminaliteten har økt i områder hvor slike tiltak er satt inn (Ceccato mfl. 2019).

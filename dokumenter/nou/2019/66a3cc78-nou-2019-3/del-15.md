@@ -1,903 +1,278 @@
-# NOU 2019: 3, del 15 av 25 (side 176–186)
+# NOU 2019: 3, del 15 av 26
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/66a3cc78-nou-2019-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-3/id2627718/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b06e9565c9e403497cc79b9fdf5e177/no/pdfs/nou201920190003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 57 figurer, 476 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 176]
+# Kunnskapssystem for barnehage og grunnopplæring
 
-174
+## Datagrunnlaget for barnehage og grunnopplæring
 
-Kapittel 12
+Det profesjonelle og faglige skjønnet til ansatte i barnehagene og grunnopplæringen er avgjørende for å utvikle kvaliteten på tilbudet til barna og elevene og ivareta deres rettigheter. Dette skjønnet kan imidlertid ikke erstatte systematisk kunnskap som kan frembringes ved hjelp av data om alle barn. Data fra barnehager og skoler kan brukes til statistikk over, analyse av og forskning på hvordan barnehager og skoler virker, hvem og hva de gagner, hvilke skader og utilsiktede virkninger de har, om ressursene utnyttes godt, og hvordan de påvirker livsløpet til den enkelte og samfunnsutviklingen. Bruk av data gir kunnskapsstøtte til elever og deres familier, lærere og andre ansatte i barnehagene og grunnopplæringen, men kan også bidra til informerte offentlige debatter og demokratiske prosesser.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Som situasjonsbeskrivelsen og kunnskapsgrunnlaget grundig har dokumentert, er det betydelige hull i det datagrunnlaget samfunnet har for å forstå når, hvordan og hvorfor kjønnsforskjeller oppstår i grunnopplæringen, og hvilke konsekvenser forskjellene har senere i livsløpet til kvinner og menn. Det mangelfulle datagrunnlaget er et generelt problem for drift og utvikling av skolen og knytter seg ikke spesifikt til problemstillinger i denne utredningen.
 
-datakilder, og dermed legge til rette for forskning
-og styring. Det betyr at forløpsdata mangler for en
-tidsperiode som er viktig for barns læring og
-utvikling, nemlig i starten av grunnskolen. Utvalget mener derfor det er behov for nasjonale prøver i regning og lesing på 3. trinn. Utvalget mener
-også det er behov for en nasjonal prøve i skriving
-på 8. trinn. Skriving er etter læreplanverket en
-grunnleggende ferdighet som skal inngå i alle
-undervisningsfag, men den blir ikke testet hverken av kartleggingsprøver eller nasjonale prøver.
-De aller fleste undervisningsfagene forutsetter
-skriftlige ferdigheter, og de fleste yrker i arbeidslivet etterspør ferdigheter i å skrive tekster med
-klart innhold og struktur. Utvalget mener nasjonale prøver i skriving ikke bør gjennomføres på
-starten av grunnskolen. I de første skoleårene er
-grunnleggende lese- og regneferdigheter høyt prioritert. Etter hvert som elevene blir eldre er
-grunnleggende skriveferdigheter tilsvarende viktige for å lykkes med de ulike undervisningsfagene.
-Disse utvidelsene av nasjonale prøver kan
-legge en ekstra belastning på barn og unge som
-allerede testes på mange områder i grunnskolen,
-og føre til at skolene legger ytterligere vekt på teoretisk innhold på bekostning av praktisk innhold.
-Utvalget mener at nasjonale prøver i skriving ikke
-nødvendigvis medfører at undervisningen blir
-mer teoretisk eller stillesittende. Det er fullt mulig
-å gjøre undervisningen av grunnleggende skriveferdigheter praktisk, utforskende og aktivitetsbasert. Læreplanverket legger ingen begrensninger
-på hvordan undervisningen skal utformes og gjennomføres. Selv om nasjonale prøver skal danne
-deler av grunnlaget for elevenes underveisvurdering, mener utvalget det er mer sannsynlig at det
-er prøver og tester skolene selv gjennomfører,
-som utgjør den største stressfaktoren for elevene.
-Det er langt flere slike prøver og tester gjennom
-opplæringen, og de har betydning for elevenes
-eksamens- og standpunktkarakterer.
-Utvalget deler bekymringen for skolestress
-knyttet til tester i skolen, og anbefaler derfor at de
-foreslåtte utvidelsene av nasjonale prøver kombineres med å nedskalere andre elementer i vurderingssystemet. Ved å innføre nasjonale prøver på
-3. trinn blir behovet for kartleggingsprøver på det
-samme trinnet mindre, og utvalget foreslår å gjøre
-kartleggingsprøvene på 3. trinn frivillige. Utvalget
-mener også at konsekvenser av å omgjøre nasjonale prøver på 9. trinn til utvalgsprøver bør utforskes nærmere. Dersom resten av prøvesystemet
-kan ivaretas anbefaler utvalget at nasjonale prøver
+Samtidig er samfunnsoppdraget slik det er formulert i rammeplanen for barnehagen og læreplanverket for grunnopplæringen svært omfattende. Det er hverken realistisk eller ønskelig å samle inn data om alle sider ved dette samfunnsoppdraget. Utvalget mener likevel at dagens kunnskapssystem og det faglige og profesjonelle skjønnet til ansatte i barnehagene og grunnopplæringen er utilstrekkelig for å drive, utvikle og styre barnehager, skoler og opplæringsarenaer på en etisk og forsvarlig måte, oppnå høy kvalitet og utnytte ressursene effektivt, og legge til rette for forskning.
 
-på 9. trinn omgjøres til utvalgsprøver for et mindre antall elever.
-Etter utvalgets vurdering utløser ikke forslagene om utvidelser av nasjonale prøver i seg selv
-nye særlige krav til personvern eller informasjonssikkerhet. Det finnes allerede i dag et velfungerende system for gjennomføring og administrering av nasjonale prøver i grunnskolen.
+Utvalget mener at et forsvarlig kunnskapssystem blant annet må kunne belyse følgende temaer:
+
+Beskrivelser av status, erfaringer og opplevelser
+
+- Hvordan er barnehage- og opplæringstilbudet fordelt etter kjønn, familiebakgrunn, innvandringsstatus, helsesituasjon og geografi, og hvilke utviklingstrekk finnes over lengre tidsperioder?
+
+- Hva er kvaliteten på tilbudet slik det er definert i rammeplanen for barnehagen og læreplanverket for grunnopplæringen?
+
+- Hvilke erfaringer og opplevelser har elever, lærere og andre ansatte i barnehagen og grunnopplæringen?
+
+- Hvordan medvirker elever, lærere og andre ansatte til utvikling av barnehagen og grunnopplæringen?
+
+Årsaker til og konsekvenser av status i barnehage og grunnopplæring
+
+- I hvilken grad fremmer barnehagen og grunnopplæringen barn og unges utvikling og læring slik det er definert i rammeplanen for barnehagen og læreplanverket for grunnopplæringen?
+
+- Er det systematiske forskjeller mellom elevgrupper?
+
+- Hvilke konsekvenser har barnehage- og opplæringstilbudet senere i livsløpet for helse, familiestiftelse, arbeid og inntekt?
+
+Effekter av tiltak og reformer i barnehage og grunnopplæring
+
+- Hvilke effekter har tiltak og reformer i barnehagen og i grunnopplæringen på resultater i skolen, i høyere utdanning og senere i livsløpet, slik som arbeid, inntekt, familiestiftelse og helse?
+
+- Hvilke skader og utilsiktede virkninger har tiltak og reformer i barnehage- og opplæringstilbudet?
+
+- Hva koster tiltak og reformer i barnehagen og grunnopplæringen?
+
+- Er tiltak og reformer i barnehagen og grunnopplæringen kostnadseffektive?
+
+Forskning vil gi ny kunnskap og innsikt som kan utfordre gjeldende tenkemåter. Forskning, analyse og statistikk kan gi kunnskap til alle aktører rundt barnehagen og skolen – elever, familier, lærere, myndigheter lokalt og nasjonalt, internasjonale organisasjoner og politikere. Kommunene og fylkene trenger kunnskap om sine barnehager og skoler for å tilpasse tilbudet til det enkelte barn og den enkelte elev, identifisere barn som trenger særskilt støtte, legge til rette for kvalitetsutvikling av hele tilbudet og prioritere innsatsen. Staten har behov for kunnskap om sektoren som helhet for å styre gjennom regelverket og prioritere mellom ulike tiltak. Staten kan ha behov for kunnskap om enkelte barnehager og skoler som grunnlag for tilsyn og målrettede tiltak. Sammenfallet i kunnskapsbehov tilsier at det bør etableres et felles nasjonalt system for innsamling, håndtering, sikring og tilgjengeliggjøring av data, slik at alle aktører kan bruke dataene til sine behov. Formålet med et slikt nasjonalt system bør være å fremskaffe kunnskap om barnehager og skoler ved å tilrettelegge for bruk av data i statistikk, analyser og forskning, samt kvalitetsutvikling, planlegging og styring i barnehagen og grunnopplæringen.
+
+Ved innsamling av data fra barnehager og skoler må hensynet til personvern og samfunnsnytte balanseres. På den ene side innebærer datainnsamling et inngrep i personvernet til barn og unge, familier og ansatte, blant annet fordi det er en risiko for misbruk av data. Risikoen ved å samle inn mer og bedre data må vurderes opp mot den risikoen eller ulempen som er knyttet til dagens systemer for innsamling, håndtering og bruk av data i barnehager og skoler. På den annen side, har analyse av data fra barnehager og skoler betydelig samfunnsnytte. Det er økonomisk og etisk uforsvarlig ikke å vite i hvor stor grad barnehager og skoler oppfyller samfunnsoppdraget sitt. Samfunnet bruker rundt 150 milliarder kroner i året på barnehager og skoler, og staten og kommunene har ansvaret for at ressursene blir brukt forsvarlig og kostnadseffektivt. Barnehager og skoler påvirker livet til rundt 300 000 barn i barnehagen og 750 000 elever og lærlinger i grunnopplæringen. Det er uetisk av staten og kommunene å iverksette eller opprettholde tiltak og ordninger uten å vite om de forbedrer eller forverrer resultater i skolen og livssituasjonen til barn og ungdom.
+
+Dagens systemer for innsamling, håndtering og bruk av data i barnehager og skoler er uoversiktlige og komplekse, og ofte har man benyttet tiltak som anonymisering for å redusere risikoen ved slike systemer. Konsekvensen av dette er at forløpsstudier ikke kan gjennomføres, og nasjonale sammenlignbare tall er mangelvare. Samtidig eksisterer det mest sannsynlig svært mange ulike IT løsninger og lokale retningslinjer for å håndtere de lokale og regionale dataene. Når man skal samle inn og håndtere personentydige opplysninger må man ha systemer med innebygd personvern, og vektlegge informasjonssikkerhet. Personentydige opplysninger er særlig attraktive fordi de kan misbrukes til identitetstyveri, utpressing, forretningsvirksomhet eller personangrep. Det foregår dataangrep mot myndigheter og bedrifter, og det er grunn til å tro at slike angrep vil kunne forekomme hyppigere i fremtiden. Det er like fullt mulig å utnytte teknologiske løsninger som ivaretar en sikker lagring og behandling av opplysninger i en nasjonal løsning som kan være enten desentralisert (felles retningslinjer, felles standarder for data og løsninger) eller sentralisert.
+
+Etter utvalgets vurdering er det bedre at staten oppretter og forvalter et trygt datasystem enn at hver enkelt kommune skal innføre lokale systemer som må koordineres med samtlige kommuner for å få nasjonale sammenlignbare data. En personvernulempe ved et nasjonalt felles system, som gir muligheter for koblinger til andre datakilder, er at informasjonsmengden om enkeltindivider øker innenfor ett system, og dermed vil konsekvensene ved et eventuelt datamisbruk være høyere enn om informasjonsmengden var begrenset. Samtidig kan risikoen for misbruk reduseres betydelig ved hjelp av teknologiske løsninger for kryptering og avidentifisering av personopplysninger og ulike typer av begrensninger i datatilganger. Personvernombud og Datatilsynet har sentrale roller i forbindelse med rådgivning for bruk og forvaltning av data, samt gjennom tilsyn for å bidra til at de ansvarlige ivaretar personvernet tilstrekkelig. I tillegg er det enklere for samfunnet å stille staten til ansvar for at data skal forvaltes i henhold til lover og regler enn hver enkelt kommune.
+
+I sum mener utvalget at det er mest hensiktsmessig å utvikle et felles nasjonalt system for å innsamle og forvalte data fra barnehage og grunnopplæring. Det må stilles strenge krav til personvern og informasjonssikkerhet, og til velutviklede systemer for å ivareta disse hensynene på en forsvarlig måte. Etter utvalgets overordnede vurdering er risikoen mindre og gevinstene langt større ved et felles nasjonalt system enn risikoen og gevinstene ved mange lokale systemer. Det er likevel viktig å avveie hensynet til personvern og samfunnsnytten konkret for bestemte innsamlingsmetoder (del 12.1.1), opplysninger (del 12.1.2) og overføring av informasjon fra systemet mellom nivåer og sektorer (del 12.1.3).
+
+### Nasjonalt register for forløpsdata i barnehage og grunnopplæring
+
+Utvalget mener at forløpsdata er nødvendige for å kunne gi bedre kunnskapsstøtte til elever og deres familier, lærere og andre ansatte i skole og barnehager, og kommuner, fylkeskommuner, staten og forskersamfunnet. Forløpsdata er datapunkter som gjør det mulig å følge enkeltpersoner over tid og måle læring og utvikling på ulike tidspunkter i opplæringsløpet og livsløpet.
+
+For å vite hvordan barns læring og utvikling endrer seg gjennom opplæringsløpet, er det nødvendig med data om de samme elevene på ulike tidspunkter i opplæringsløpet. Hvis man bare har tverrsnittsdata om ulike elevkohorter over tid, vil det være usikkert om eventuelle endringer skyldes endringer gjennom opplæringsløpet eller endringer mellom ulike elevkohorter. Dagens data fra skolen gir bare informasjon om elevenes læring fra 5. trinn og oppover, og mye tyder på at blant annet kjønnsforskjellene i læring oppstår langt tidligere. Uten forløpsdata er det også umulig å vite hva som er skolens bidrag til elevenes læring. Såkalte skolebidragsindikatorer tar hensyn til elevenes tidligere læring, sosiale bakgrunn og tilfeldige variasjoner for å gi et bilde av skolenes selvstendige bidrag til elevenes læring. Slike indikatorer beregnes gjennom endringene i elevenes læring på ulike tidspunkter. Det er også vanskelig å studere årsaker til manglende gjennomføring av videregående skole uten forløpsdata, eller konsekvenser av å ha fått spesialundervisning i grunnskolen.
+
+Forløpsdata er nødvendige for å vite konsekvensene av barnehage- og skoletilbudet for det som skjer senere i livet. Rammeplanen for barnehagen og læreplanverket for skolen legger betydelig vekt på at barn og elever skal settes i stand til å mestre livet og delta i samfunnet og arbeidslivet som selvstendige individer. Uten forløpsdata om barnehagen og grunnopplæringen som kan kobles til datakilder om resten av livsløpet – slik som arbeid, helse og familie – vet ikke samfunnet om barnehager og skoler ivaretar målene i rammeplanen og læreplanverket.
+
+For å vite hvordan særskilte elevrettigheter som læringsmiljø, spesialundervisning og særskilt språkopplæring[^55] virker inn på elevenes læring og hvilke konsekvenser slike elevrettigheter har senere i livsløpet, er det også nødvendig med forløpsdata. Uten slike data er det ikke mulig å dokumentere for eksempel om elever med spesialundervisning og særskilt språkopplæring tilbakeføres til ordinær undervisning gjennom opplæringsløpet, og hvor lenge de eventuelt er i ulike segregerte ordninger i skolen. Mangelen på datakoblinger mellom utdanningsdata og andre data og på forløpsdata om læringsmiljø gjør også at alle evalueringer av tiltak og reformer i barnehagen og grunnopplæringen blir avgrenset til noen få utvalgte mål for læring, slik som karakterer i enkelte fag og tester av grunnleggende lese- og regneferdigheter. Formålet med og begrunnelsen for mange tiltak og reformer er imidlertid langt bredere enn hva slike enkle mål for læring fanger opp.
+
+Barnehagen har ikke et system for personentydige forløpsdata, mens grunnopplæringen delvis har et slikt system. Gjennom vurderingssystemet for grunnskolen er det mulig å følge elevene indirekte gjennom opplæringsløpet fordi nasjonale prøver og eksamens- og standpunktkarakterer er på individnivå og rapporteres til Utdanningsdirektoratet. I grunnskolen samles det imidlertid ikke inn forløpsdata om hvilken klasse, hvilket trinn og hvilken skole elevene befinner seg på. For videregående opplæring samles det derimot inn forløpsdata om hvilke opplæringsløp, trinn, skoler og lærebedrifter elevene og lærlingene befinner seg på, og det samles inn eksamens- og standpunktkarakterer på individnivå. De andre datakildene om grunnopplæringen er ikke organisert som personentydige forløpsdata. Det skyldes at dataene aggregeres lokalt til gruppenivå, at de ikke er personentydige eller identifiserbare, eller ikke rapporteres til sentralt nivå, jf. tabell 12.1.
+
+Eksisterende og faste datakilder om barnehage og grunnopplæring.
+
+04J1xx2
+
+| Type | Formål | Gjennomføring | Datanivå |
+|----|----|----|----|
+| Elevundersøkelsen | Brukerundersøkelse om læringsmiljøet i grunnopplæringen | Kan gjennomføres på alle trinn, men er obligatorisk på trinn 7, 10 og Vg1 | Individnivå, men ikke identifiserbare; rapporteres på aggregert nivå til Udir |
+| Foreldre-, lærebedrift- og lærerundersøkelser | Brukerundersøkelse i grunnopplæringen | Frivillige | Individnivå, men ikke identifiserbare; rapporteres på aggregert nivå til Udir |
+| Foreldreundersøkelsen i barnehagen | Brukerundersøkelse i barnehagen | Frivillige | Individnivå, men ikke identifiserbare; rapporteres på aggregert nivå til Udir |
+| Kartleggingsprøver | Identifisere elever med behov for ekstra støtte i grunnleggende ferdigheter | Obligatorisk i lesing på 1., 2. og 3. trinn og i regning på 2. trinn; frivillig i regning på 1. og 3. trinn, i engelsk på 3. trinn og i digitale ferdigheter på 4. trinn | Individnivå, identifiserbare |
+| Nasjonale prøver | Informasjon om elevenes grunnleggende ferdigheter etter læreplanene; inngår ikke i sluttvurderingen til elevene | Obligatoriske; i lesing og regning på 5., 8. og 9. trinn; i engelsk på 5. og 8. trinn | Individnivå, identifiserbare og rapporteres til Udir på individnivå |
+| Internasjonale undersøkelser i grunnopplæringen (PISA, TIMMS, PIRLS, ICILS, ICCS) | Informasjon om elevenes ferdigheter og kompetanse i fag | Frivillige | Utvalgsundersøkelser på individnivå, men ikke identifiserbare |
+| Lærings- og karakterstøttende prøver | Læringsstøttende prøver i grunnleggende ferdigheter er verktøy i undervisningsvurdering og karakterstøttende prøver skal støtte underveis- og sluttvurdering i faget. | Frivillige; tilbys i naturfag og samfunnsfag på ungdomstrinnet; læringsstøttende prøver tilbys i lesing og regning 6. trinn, digitale ferdigheter 8. trinn og regning og lesing Vg1 | Individnivå, identifiserbare |
+| Eksamens- og standpunktkarakterer i grunnskole og videregående opplæring | Informasjon om elevenes kompetanse i fagene etter læreplanene; utgjør sluttvurderingen i fag til elevene | På 10. trinn trekkes en sentralt gitt skriftlig eksamen og en lokalt gitt muntlig eksamen; i vgo trekkes eksamen på alle trinn | Individnivå, identifiserbare og rapporteres til Udir på individnivå |
+| Statistikkrapportering fra barnehager, grunnskole og videregående opplæring | BASIL gir informasjon om ressurser og deltagelse i barnehagen; GSI gir informasjon om ressurser, elevtall og rettigheter i grunnskolen; VIGO gir informasjon om blant annet utdanningsvalg og gjennomføring |  | BASIL og GSI er på institusjonsnivå og rapporteres til Udir; VIGO er på individnivå og rapporteres til Udir |
+
+Udir er en forkortelse for Utdanningsdirektoratet; GSI er en forkortelse for Grunnskolens Informasjonssystem, BASIL er en forkortelse for Barnehage-Statistikk-InnrapporteringsLøsning; VIGO er et statistikksystem for videregående opplæring; ICILS er en forkortelse for International Computer and Information Literary Study, og undersøker de digitale ferdighetene til elever på ungdomstrinnet; ICCS er en forkortelse for International Civic and Citizenship Education Study, og undersøker medborgerskap hos elever på 9. trinn.
+
+Utvalgets vurderinger
+
+I prinsippet er det to hovedalternativer for å samle inn forløpsdata: Utvalgsundersøkelser som følger barna og elevene gjennom livsløpet, og registerdata for hele populasjoner av barn og elever. Som et minimum må et nasjonalt register for forløpsdata inneholde personentydige opplysninger om barnehage, skole, klasse og trinn, og kunne kobles til andre datakilder.
+
+Etter utvalgets vurdering kan kunnskapsbehovet for innbyggere, elever, elevenes familier, lærere og andre ansatte i barnehager og skoler, samt kommuner, staten og forskersamfunnet ikke dekkes gjennom utvalgsundersøkelser. Slike undersøkelser kan være et viktig og nyttig supplement for å få utdypende data, men er ikke tilstrekkelig for å dekke samfunnets kunnskapsbehov.
+
+Nasjonale registerdata har en rekke fortrinn. For det første har de opplysninger om alle. Dermed er det ingen risiko for skjevheter i utvalget, som er en vanlig grunn til at resultatene fra forskningsprosjekter er usikre og ikke kan generaliseres. Utvalgsundersøkelser krever som regel samtykke, og det er ikke tilfeldig hvem som ikke deltar i eller faller fra samtykkebaserte utvalgsundersøkelser over tid. Det er særlig barn og elever av foreldre med en lav sosioøkonomisk bakgrunn og minoritetsbakgrunn som ikke deltar i eller faller fra utvalgsundersøkelser. Disse elevene omfattes trolig også i større grad av elevrettigheter som spesialundervisning og særskilt språkopplæring. Kunnskapen om de mest sårbare gruppene, som mange tiltak er særlig rettet mot, blir dermed svakere enn for andre barn og elever.
+
+For det andre kreves det store økonomiske og administrative ressurser å etablere og vedlikeholde utvalgsundersøkelser som samler inn personentydige forløpsdata gjennom livsløpet til et tilstrekkelig stort utvalg. Registerdata forenkler i vesentlig grad datakoblinger mellom utdanningsdata og datakilder om livsløpet, og de er dessuten lettere å sikre og dermed bedre til å ivareta deltagernes personvern. I realiteten finnes det et begrenset antall slike utvalgsundersøkelser, og en viktig årsak er de økonomiske og administrative kostnadene.
+
+For det tredje vil registerdata for hele elevpopulasjoner gjøre effektevalueringer av tiltak og reformer betydelig enklere, og gjøre det mer sannsynlig at slike evalueringer faktisk blir gjennomført. Det skilles ofte mellom to typer av effektevalueringer (Schlotter mfl., 2011). Randomiserte kontrollerte utprøvinger fordeler elever tilfeldig i én gruppe som mottar tiltaket, og én gruppe som ikke mottar tiltaket. Slike utprøvinger er ofte best i stand til å identifisere effekter av tiltak. «Naturlige eksperimenter» er en betegnelse som omfatter flere metoder der fellestrekket er å utnytte tilfeldig variasjon som oppstår mellom de som mottar og de som ikke mottar et tiltak, eller de som har vært utsatt for eller ikke vært utsatt for en hendelse. Vanligvis vil slike tilfeldige variasjoner ikke være tilsiktet, og det er vanskelig å forutsi at de kommer til å oppstå.
+
+Det er faglig sett klart best å kombinere randomiserte kontrollerte utprøvinger med registerdata om hele populasjoner av barn og elever. Det er alltid en risiko for skjevheter i utvalget av barn og elever som deltar i slike utprøvinger. Registerdata gir informasjon om resultatene for grupper som takket nei til å delta eller ikke besvarte invitasjonen, eller som har falt fra underveis. Slik informasjon kan være like viktig som data fra kontrollgrupper som deltar i selve utprøvingen. Registerdata kan gi informasjon om utviklingen blant de som ikke har vært en del av utprøvingen, og dermed danne en bakgrunn for å forstå de effektene som oppstår i utprøvingen. I tillegg kan registerdata benyttes i forkant av en randomisert utprøving for å beskrive status i forkant av tiltaket og forberede dette. Til sist kan registerdata brukes til å følge opp i etterkant av utprøvinger eller innføring av et tiltak i hele befolkningen for å studere langtidseffekter og utilsiktede effekter.
+
+For mange naturlige eksperimenter er registerdata om hele befolkninger av barn og elever en nødvendig forutsetning. Det er ikke mulig å opprette og vedlikeholde egne dataregistre for hvert enkelt naturlige eksperiment, og i mange tilfeller kan det oppstå tilfeldige variasjoner uten at dette er tilsiktet eller planlagt på forhånd. Dersom det da allerede eksisterer et nasjonalt register for forløpsdata, øker sannsynligheten betydelig for at forskere klarer å identifisere slike naturlige eksperimenter, også for hendelser, tiltak eller reformer som ble gjennomført for mange år siden. Naturlige eksperimenter er ofte spesielt verdifulle for studier av statens styring av barnehager og skoler. Randomiserte kontrollerte eksperimenter gir kunnskap om effekten av et tiltak slik det ble innført i et avgrenset antall barnehager og skoler. Naturlige eksperimenter kan gi kunnskap om effektene av et tiltak slik det ble innført for hele sektoren. Statlige tiltak er i hovedsak endringer i regelverk og finansiering, og kommunene har betydelige frihetsgrader i hvordan de oppfyller regelverket eller bruker ressursene på sine barnehager og skoler. For eksempel er det mer relevant for statens styring og den offentlige debatten hva som er den samlede effekten av de ulike måtene å øke lærerressursene på, enn hva som er den beste organisatoriske og pedagogiske bruken av en ekstra lærer i hver enkelt klasse. Studier basert på naturlige eksperimenter er godt egnet til å belyse hva som er effektene av slike endringer av rammebetingelsene for kommunene.
+
+Et nasjonalt register med data fra barnehager og skoler stiller høye krav til sikkerhet, faglig kapasitet og kompetanse hos organisasjonen som skal oppbevare og behandle dataene, men også til deres legitimitet og tillit i hele den norske befolkningen. I realiteten kan et nasjonalt utdanningsregister forvaltes av Utdanningsdirektoratet eller Statistisk sentralbyrå (SSB). Etter utvalgets vurdering har SSB bedre kompetanse og kapasitet til å oppbevare, behandle og gi sikker tilgang til personentydige registerdata, og trolig også større legitimitet og tillit i befolkningen som dataforvalter. SSB er formelt sett uavhengig, og har ansvaret for flere nasjonale registre. For utvalget er det likevel et premiss for å plassere registeret i SSB at ny statistikklov klargjør deres faglige uavhengighet, og åpner for enklere bruk av personopplysninger til statistikk, analyse, forskning, kvalitetsforbedring, styring og planlegging. En annen fordel er at SSB kan koble utdanningsdata til andre personentydige datakilder, og dermed oppfylle et sentralt kunnskapsbehov. Utdanningsdirektoratet har som ordinært forvaltningsorgan ikke anledning til å gjøre slike datakoblinger på personnivå.
+
+For å realisere samfunnsnytten til et nasjonalt register for barnehager og skoler mener utvalget at det er nødvendig å samle inn data om sentrale elevrettigheter ettersom de er grunnleggende for samfunnsoppdraget til barnehager og skoler. Med dagens kunnskapsgrunnlag vet hverken kommunene eller staten om spesialundervisningen forbedrer eller forverrer elevenes læring, utvikling og livssituasjon. Det er heller ikke forsvarlig ressursbruk å bevilge betydelige midler til en ordning som hverken staten eller kommunene vet om har positive eller negative konsekvenser for læring og utvikling i opplæringsløpet og senere i livsløpet. For utvalget er spesialundervisning særlig viktig ettersom nesten 70 prosent av elevene som får spesialundervisning, er gutter. Det samme gjelder for retten til særskilt språkopplæring. Språkvansker er vanligere hos gutter enn hos jenter; gutter har tre ganger større sannsynlighet for sen språkutvikling sammenlignet med jenter, og det er grunn til å tro at slike kjønnsforskjeller i språkutvikling også finnes blant minoritetsspråklige elever. Registeret bør også omfatte data om dokumentert og udokumentert fravær[^56] for elever i grunnskolen. Fravær er et mål på elevers tilpasning, helse og trivsel i opplæringen. Utvalgsundersøkelser der elevene skal rapportere om slike forhold er sårbare for skjevheter i deltagelse og ulikheter i tolkning av spørsmålene. Lærere er pålagt å føre fravær for samtlige elever, og et register vil kunne sikre likere praksis i hvordan kommuner og skoler fører fravær for elevene.
+
+I dag samles det mye data i barnehager og skoler både rutinemessig og i forskningsprosjekter og de forvaltes i mange ulike systemer. Det finnes ikke noen samlet oversikt over for eksempel innsamling, lagring, kvalitet, sikkerhet, innsynsmuligheter, kostnader og nytte av disse dataene. Slike data er vanligvis hverken tilgjengelige for den enkelte som er registrert, eller til forskningsformål som kan støtte utvikling og drift av barnehager og skoler. Dette reduserer nytten og sannsynligvis også sikkerheten. Antagelig betyr det også at de samlede kostnadene er store uten at nytten er tilsvarende stor.
+
+Utvalget mener at et nasjonalt register må utformes slik at det øker nytten vesentlig for den enkelte og for samfunnet, samtidig som personvern og datasikkerhet ivaretas i tråd med det strenge lovverket på dette feltet. Det er nødvendig med en juridisk vurdering av det rettslige grunnlaget for et nasjonalt register, og mest sannsynlig vil en lovhjemmel være nødvendig.
+
 Utvalget anbefaler
-–
 
-–
+- opprette et nasjonalt register for personentydige forløpsdata for barnehage og grunnopplæring forvaltet av SSB. Data fra registeret skal kunne kobles til data fra andre kilder, blant annet utdanningsregistre og dataregistre med opplysninger om arbeid, helse, trygd og familiebakgrunn.
 
-–
-–
-–
+### Utvidelser av dagens datakilder om utvikling og læring
 
-utvikle og innføre en forskningsbasert, standardisert kartlegging av barns språklige,
-numeriske og sosiale utvikling ved fire- og
-seksårsalderen, organisert som personentydige forløpsdata som kan kobles til et nasjonalt
-register for barnehage og grunnopplæring.
-Kartleggingsplikten bør ligge på kommunen
-som helhet.
-erstatte Elevundersøkelsen med en kortere,
-forskningsbasert undersøkelse av elevers
-utvikling, helse, læringsmiljø og medvirkning,
-organisert som personentydige forløpsdata
-som kan kobles til et nasjonalt register for barnehage og grunnopplæring.
-innføre nasjonale prøver i lesing og regning på
-3. trinn og skriving på 8. trinn i grunnskolen.
-gjøre kartleggingsprøven i lesing på 3. trinn frivillig, og omgjøre nasjonale prøver i lesing og
-regning på 9. trinn til utvalgsundersøkelser.
-prioritere kompetanseutvikling for barnehager
-og skoler i bruk av undersøkelsene i de statlige
-ordningene for kompetanseutvikling.
+Datagrunnlaget om barn og elevers kognitive, sosiale og emosjonelle utvikling før opplæringspliktig alder er begrenset, og legger ikke til rette for datakoblinger med et nasjonalt register for barnehager og grunnopplæringen og registre om livsløpet senere.
+
+Barn under opplæringspliktig alder kartlegges i dag gjennom obligatoriske kontroller på helsestasjonen, blant annet språkferdigheter og sosialt samspill. Nasjonale retningslinjer for skolehelsetjenesten anbefaler også at alle barn får tilbud om en undersøkelse av fysisk og psykisk helse ved skolestart. Informasjon fra helsestasjonene er ikke systematisert eller gjort tilgjengelig for forskning og beslutningsstøtte til myndigheter og andre. Et kommunalt pasient- og brukerregister (KPR) skal på lengre sikt omfatte data fra helsestasjonene og skolehelsetjenesten.
+
+Barnehager er ikke pålagt å kartlegge barns utvikling, men evalueringer viser at ni av ti kommuner kartlegger barns språkutvikling etter samtykke fra foreldrene. Mye tyder på at de kartleggingsverktøyene kommunene bruker, varierer mye med hensyn til kvalitet, formål og teoretisk utgangspunkt. Det er også store lokale forskjeller i kompetansen til å bruke slike verktøy. Mange barnehager kartlegger barns sosiale og emosjonelle utvikling etter samtykke fra foreldrene, men informasjonen er ikke systematisert eller gjort tilgjengelig for forskning eller styring.
+
+Datagrunnlaget om elevers kognitive utvikling i starten av grunnskolen er også begrenset, og legger ikke til rette for datakoblinger med et sentralt register for barnehager og grunnopplæringen og data om livsløpet senere. Det er først nasjonale prøver på 5. trinn i grunnskolen som måler grunnleggende ferdigheter for hele fordelingen av elever, og som er gjort tilgjengelig for datakoblinger. Mot slutten av grunnskolen blir datagrunnlaget om elevenes kognitive utvikling langt bedre. Datagrunnlaget om elevenes sosiale og emosjonelle utvikling er imidlertid svakt gjennom hele grunnopplæringen, jf. tabell 12.1.
+
+Utvalgets vurderinger
+
+Etter utvalgets vurdering er det først mulig å realisere samfunnsnytten til et nasjonalt register for barnehage og grunnopplæring dersom det kan kobles til data om barn og elevers læring og utvikling i opplæringsløpet og data om livsløpet senere. Utvalget mener at dagens datakilder om barn og elevers utvikling og læring ikke er tilstrekkelige for å oppfylle samfunnets kunnskapsbehov. Samtidig legger utvalget vekt på at utvidelser av datakildene blir vurdert i sammenheng med hverandre. Selv om hvert enkelt forslag til utvidelse har en god begrunnelse, må avveiningen mellom personvern og samfunnsnytte gjøres i lys av det totale datagrunnlaget som forslagene innebærer.
+
+Noen mener at kartlegging av barns kognitive, sosiale og emosjonelle ferdigheter kan bidra til at det oppstår feilaktige oppfatninger i samfunnet av hva som er en typisk eller normal utvikling og hva som er en atypisk eller annerledes utvikling. Etter et slikt syn øker kartlegging risikoen for sykeliggjøring av utviklingstrekk som representerer en naturlig variasjon i barns utvikling og læring. I dag tar imidlertid barnehager, skoler, PPT og andre tjenester sentrale avgjørelser med et svakt kunnskapsgrunnlag, og uten å vite om tilbudet de får, gagner barna mer enn det skader. Dette er for eksempel tilfellet for avgjørelser om behovet for spesialvurdering og utredning av barns psykiske symptomer. Utvalget mener at bedre data og forskning kan redusere risikoen for et snevert normalitetsbegrep, sammenlignet med dagens situasjon der kunnskapen er mangelfull. Bedre data og forskning kan gi opplyste offentlige debatter, blant annet om normalitetsbegrepet. I tillegg kan bedre data og forskning gi mer effektiv utnyttelse av ressurser som skolen i dag benytter for å tilby støtte til de som har lærevansker eller andre utfordringer i skolen.
+
+Utvalget mener det er behov for data med høy kvalitet fra barnehager og skoler. Det er bedre med færre datainnsamlinger av gode data enn mange med svakere data. Utvalget mener derfor at det er behov for en standardisert kartlegging av barns språklige, numeriske og sosiale utvikling ved fire- og seksårsalderen, og som kan erstatte lokale kartlegginger. Kartleggingen skal ikke være basert på lese- og regneferdigheter etter læreplanverket for grunnskolen, men på språkutvikling, numerisk forståelse og sosial kompetanse i tråd med rammeplanen for barnehagen.
+
+Ved fireårsalderen mener utvalget at språkferdighetene som kartlegges bør omfatte både begrepsferdigheter og grammatikalske (syntaks og morfologi) ferdigheter da disse er kjerneferdigheter for å kunne forstå og å kunne bruke språk samtidig som de tydelig predikerer fremtidig språk og leseforståelse (Hjetland mfl., 2018). Videre mener utvalget at enkle numeriske ferdigheter som mengde, tall og telling (én-for-én prinsippet, stabil rekkefølge og kardinalitet) bør kartlegges, da dette vil gi informasjon om den tidligste numeriske utviklingen. Utvalget mener også at det vil være hensiktsmessig å kartlegge barns selvregulering gjennom individuell testing, for eksempel av *innsatskrevende kontroll* («emotional regulation»). Selvregulering har blitt kartlagt med bruk av ulike begreper og kartleggingsinstrumenter, men selv ulike tilnærminger har vist at selvregulering i førskolealder kan predikere fremtidige skoleprestasjoner (Backer-Grøndahl, Nærde & Idsoe, 2018). Selv om det har vært vanskelig å fastslå en årsakssammenheng mellom selvregulering og skoleprestasjoner, har slik kartlegging vist signifikante variasjoner i barns selvregulering så tidlig som ved fireårsalderen. I en individuell testsituasjon får barna oppgaver som måler ulike aspekter ved selvregulering, og skriftlige retningslinjer skal sikre at testsituasjonen er mest mulig standardisert. I longitudinelle analyser kan slik kartlegging bidra til å forklare hvordan selvregulering predikerer skolefaglige prestasjoner og atferd i skolealder. Ved seksårsalderen mener utvalget at man bør kartlegge de samme områdene som ved fireårsalderen, men i tillegg supplere med bokstavkunnskaper og fonologisk bevissthet.
+
+Utvalget ser det også som viktig at kartleggingsmaterialet er godt validert, og at samme kartleggingsmateriale benyttes ved både fire- og seksårsalderen (med unntak av den kartleggingen som kun gjøres ved seksårsalderen) slik at man får mulighet til å undersøke faktisk utvikling for samme elever mellom disse to tidspunktene. Formålet er ikke å måle barns personlighetstrekk eller egenskaper, men sosiale og emosjonelle ferdigheter som er formbare og viktige for senere utvikling og læring. Kartleggingen skal heller ikke brukes til å kategorisere eller diagnostisere barn på individnivå. Utvalget mener at dette hverken er hensiktsmessig eller at den foreslåtte kartleggingen egner seg til slikt bruk.
+
+Forslaget vil etter utvalgets vurdering utgjøre et vesentlig bedre kunnskapsgrunnlag om en viktig periode i barns utvikling. En slik kartlegging vil blant annet kunne avdekke hvordan kjønnsforskjeller oppstår og utvikler seg, og legge til rette for forskning på effektene av tiltak og reformer i barnehagen for sentrale elementer i rammeplanen for barnehagen. I dag kan det finnes tiltak og ordninger i barnehagen som forverrer heller enn forbedrer barns livssituasjon, uten at hverken kommunene eller staten er i stand til å avdekke hvilke effekter barnehagen har for barns utvikling. Etter utvalgets vurdering har en slik kartlegging en betydelig samfunnsnytte, og er en forutsetning for at staten og kommunene skal kunne styre og utvikle barnehagesektoren på en etisk og økonomisk forsvarlig måte.
+
+Utvalget vil understreke at denne kartleggingen skal gjennomføres i alle kommuner, og dermed erstatte lokale kartlegginger. Etter utvalgets vurdering er de kartleggingsverktøyene som mange helsestasjoner og barnehager bruker, oftest ikke standardiserte eller validerte gjennom forskning. Det betyr at kartleggingene har varierende faglig kvalitet, og kompetansen lokalt til å bruke slike verktøy varierer. I en slik situasjon mener utvalget at det uansett er bedre at alle barn blir kartlagt gjennom et forskningsvalidert verktøy som holder et høyt faglig nivå. Etter barnehageloven har dessuten barn under opplæringspliktig alder rett til spesialpedagogisk hjelp, også om de ikke går i barnehage. Etter utvalgets vurdering har ikke kommunene et kartleggingsverktøy tilgjengelig som setter dem i stand til å oppfylle denne retten på en forsvarlig måte.
+
+Samtidig er utvalget bekymret for at en kartleggingsplikt vil føre til målforskyvning i barnehagens arbeid bort fra rammeplanen for barnehagene. Det kan for eksempel skje ved at barnehager opplever et press om at alle barn skal lære å lese før skolestart. For utvalget er det et premiss at kartleggingen ikke skal måle barns lese- og regneferdigheter etter læreplanverket for grunnskolen, men barns språklige og numeriske utvikling etter rammeplanen for barnehagen. Utvalget ser likevel at en kartleggingsplikt vil kunne ha utilsiktede konsekvenser, særlig dersom plikten legges på barnehagene. Sannsynligheten for ulike målforskyvninger av barnehagens arbeid kan reduseres dersom plikten legges på kommunen som helhet.
+
+Informasjon fra kartleggingen er dessuten relevant for flere kommunale tjenester, og de bør samarbeide om oppfølgingen av resultatene. Dersom kartleggingsplikten ligger på kommunen, har kommuneledelsen entydig ansvar for å legge til rette og sørge for samarbeid mellom de ulike tjenestene. På den annen side er fordelen med å legge kartleggingsplikten til barnehagen og skolen at dette er arenaer barna kjenner godt og er trygge på. Fordelen med helsestasjonen er at den når alle barn, også de som ikke går i barnehage.
+
+Utvalget mener at kommunene selv bør kunne bestemme hvordan gjennomføringen av kartleggingen bør gjøres, og løsningene bør evalueres etter en tid. For eksempel kan selve kartleggingen gjøres i barnehagen, men som et samarbeid mellom personell fra helsestasjonen og barnehagen. Det kan også finnes andre gode organisatoriske løsninger. Ettersom kartleggingsverktøyet er standardisert, er risikoen liten for at svarene ikke vil være sammenlignbare på tvers av kommunene, selv om de velger ulike løsninger for selve gjennomføringen. For utvalget er det et premiss at tiltak for å heve kompetansen lokalt til å gjennomføre og bruke kartleggingsverktøyene prioriteres i de statlige ordningene for kompetanseutvikling. Foreldre må også sikres god informasjon om kartleggingene, og hvordan de bør snakke med barna i forkant og etterkant.
+
+Utvalget mener det er behov for å erstatte Elevundersøkelsen med en kortere, forskningsbasert undersøkelse av elevers sosiale utvikling, helse og læringsmiljø basert på forskningsvaliderte spørsmål. Formålet med å kartlegge sosial utvikling er ikke å måle barns personlighetstrekk eller egenskaper, men sosiale og emosjonelle ferdigheter som kan utvikles og er viktige for senere utvikling og læring. Elevundersøkelsen slik den gjennomføres i dag, er en brukerundersøkelse, der elevene uttrykker sin mening om læringsmiljøet i skolen. Enkelte av spørsmålene, slik som indikatoren for mobbing, holder etter utvalgets vurdering høyt faglig nivå. Imidlertid er flere av de andre spørsmålene i undersøkelsen utformet på en slik måte at det ikke er mulig å vite om spørsmålene måler det de er ment å måle. Samtidig finnes det forskningsutviklede skalaer for tilsvarende temaer som burde lagt grunnlaget for undersøkelsen, slik som skoletilhørighet, lærerstøtte og trivsel. Lærere og skoleledere rapporterer også at dagens form på Elevundersøkelsen er så lang at det går utover konsentrasjonen til elevene, og utvalget mener derfor undersøkelsen uansett bør kortes ned.
+
+Forslaget vil etter utvalgets vurdering gi staten, kommunene og forskningen et vesentlig bedre kunnskapsgrunnlag om sentrale elementer i læreplanverket for skolen. En slik kartlegging vil kunne bidra til å avdekke når kjønnsforskjeller oppstår og utvikler seg, og hvilke konsekvenser læringsmiljøet har for læring og det som skjer senere i livet. Utvalget vil særlig understreke at et godt læringsmiljø er en sentral elevrettighet, og hverken kommunene eller staten har etter utvalgets vurdering tilstrekkelige datakilder for å kunne vurdere om retten oppfylles på en forsvarlig måte. Det skyldes at dagens Elevundersøkelse samler inn data på individnivå, men rapporterer data til staten på aggregerte gruppenivåer. En forskningsbasert undersøkelse organisert som personentydige forløpsdata vil også kunne legge til rette for forskning på effektene av tiltak og reformer i barnehagen og skolen. I dag kan det finnes tiltak og ordninger i barnehagen og skolen som forverrer heller enn forbedrer barns livssituasjon, uten at hverken kommunene eller staten er i stand til å avdekke hvilke effekter tilbudet har for elevenes utvikling. Denne kunnskapsmangelen gjør at evalueringer av tiltak og reformer av nødvendighet blir begrenset til noen utvalgte mål på læring, slik som karakterer i fag og tester av grunnleggende lese- og regneferdigheter. Både læreplanverket og formålet med mange tiltak er langt bredere enn hva slike avgrensede mål på læring fanger opp. Etter utvalgets vurdering har en slik kartlegging en betydelig samfunnsnytte, og er en forutsetning for at staten og kommunene skal kunne styre og utvikle barnehage- og skolesektoren på en etisk og økonomisk forsvarlig måte.
+
+Elevundersøkelsen er obligatorisk å gjennomføre på 7. og 10. trinn i grunnskolen og på Vg1 i videregående opplæring, men majoriteten av skoler gjennomfører undersøkelsen også på de andre trinnene. Sammenlagt har i overkant av tre fjerdedeler av alle elever på trinnene 5. trinn til Vg1 gjennomført Elevundersøkelsen. Utvalget mener derfor at en forskningsbasert undersøkelse bør være obligatorisk å gjennomføre fra 5. trinn i grunnskolen til Vg3 i videregående opplæring. De aller fleste skoler gjennomfører uansett Elevundersøkelsen, og det er ikke tilfeldig hvilke skoler som ikke gjennomfører denne undersøkelsen der den er frivillig. Utvalget mener dette ikke vil bidra til mer skolestress eller på andre måter ha negative konsekvenser for elevenes hverdag, slik som elevvurderinger og ulike tester av kognitive ferdigheter kan tenkes å ha. Det vil heller ikke være krevende for skolene å gjennomføre undersøkelsen. En slik undersøkelse kan bidra til å skape et bedre læringsmiljø for elevene ettersom både staten og kommunene får et vesentlig bedre kunnskapsgrunnlag om et sentralt element i læreplanverket for grunnopplæringen. I tillegg kan det gi et bedre grunnlag for å sikre og utvikle elevers medvirkning i skolen.
+
+Samtidig innebærer forslagene om en kartlegging av barn ved fire- og seksårsalderen og en kartlegging av elevers sosiale utvikling, helse og læringsmiljø, innsamling av en betydelig mengde informasjon. I forbindelse med utviklingen av disse kartleggingene må hjemmelsgrunnlaget for innsamling, lagring og behandling av opplysningene utredes nærmere. Lovverket setter som premiss at slike data innsamles, lagres og gjøres tilgjengelige ved hjelp av tilfredsstillende løsninger for kryptering og datasikkerhet fra barnehager og skoler. GDPR, EUs personvernforordning, ble innført i 2018 og styrker rettighetene til den enkelte innbygger som er reigstrert. Etter utvalgets vurdering vil informasjonssikkerheten og personvernet i en ny dataløsning være vesentlig bedre enn dagens systemer for innsamling av data fra Elevundersøkelsen.
+
+Utvalget mener at det er behov for å justere antallet nasjonale prøver i grunnskolen. Det er i dag nasjonale prøver på 5. trinn for alle elever. Dette er første datakilde som kan kobles til andre datakilder, og dermed legge til rette for forskning og styring. Det betyr at forløpsdata mangler for en tidsperiode som er viktig for barns læring og utvikling, nemlig i starten av grunnskolen. Utvalget mener derfor det er behov for nasjonale prøver i regning og lesing på 3. trinn. Utvalget mener også det er behov for en nasjonal prøve i skriving på 8. trinn. Skriving er etter læreplanverket en grunnleggende ferdighet som skal inngå i alle undervisningsfag, men den blir ikke testet hverken av kartleggingsprøver eller nasjonale prøver. De aller fleste undervisningsfagene forutsetter skriftlige ferdigheter, og de fleste yrker i arbeidslivet etterspør ferdigheter i å skrive tekster med klart innhold og struktur. Utvalget mener nasjonale prøver i skriving ikke bør gjennomføres på starten av grunnskolen. I de første skoleårene er grunnleggende lese- og regneferdigheter høyt prioritert. Etter hvert som elevene blir eldre er grunnleggende skriveferdigheter tilsvarende viktige for å lykkes med de ulike undervisningsfagene.
+
+Disse utvidelsene av nasjonale prøver kan legge en ekstra belastning på barn og unge som allerede testes på mange områder i grunnskolen, og føre til at skolene legger ytterligere vekt på teoretisk innhold på bekostning av praktisk innhold. Utvalget mener at nasjonale prøver i skriving ikke nødvendigvis medfører at undervisningen blir mer teoretisk eller stillesittende. Det er fullt mulig å gjøre undervisningen av grunnleggende skriveferdigheter praktisk, utforskende og aktivitetsbasert. Læreplanverket legger ingen begrensninger på hvordan undervisningen skal utformes og gjennomføres. Selv om nasjonale prøver skal danne deler av grunnlaget for elevenes underveisvurdering, mener utvalget det er mer sannsynlig at det er prøver og tester skolene selv gjennomfører, som utgjør den største stressfaktoren for elevene. Det er langt flere slike prøver og tester gjennom opplæringen, og de har betydning for elevenes eksamens- og standpunktkarakterer.
+
+Utvalget deler bekymringen for skolestress knyttet til tester i skolen, og anbefaler derfor at de foreslåtte utvidelsene av nasjonale prøver kombineres med å nedskalere andre elementer i vurderingssystemet. Ved å innføre nasjonale prøver på 3. trinn blir behovet for kartleggingsprøver på det samme trinnet mindre, og utvalget foreslår å gjøre kartleggingsprøvene på 3. trinn frivillige. Utvalget mener også at konsekvenser av å omgjøre nasjonale prøver på 9. trinn til utvalgsprøver bør utforskes nærmere. Dersom resten av prøvesystemet kan ivaretas anbefaler utvalget at nasjonale prøver på 9. trinn omgjøres til utvalgsprøver for et mindre antall elever.
+
+Etter utvalgets vurdering utløser ikke forslagene om utvidelser av nasjonale prøver i seg selv nye særlige krav til personvern eller informasjonssikkerhet. Det finnes allerede i dag et velfungerende system for gjennomføring og administrering av nasjonale prøver i grunnskolen.
+
+Utvalget anbefaler
+
+- utvikle og innføre en forskningsbasert, standardisert kartlegging av barns språklige, numeriske og sosiale utvikling ved fire- og seksårsalderen, organisert som personentydige forløpsdata som kan kobles til et nasjonalt register for barnehage og grunnopplæring. Kartleggingsplikten bør ligge på kommunen som helhet.
+
+- erstatte Elevundersøkelsen med en kortere, forskningsbasert undersøkelse av elevers utvikling, helse, læringsmiljø og medvirkning, organisert som personentydige forløpsdata som kan kobles til et nasjonalt register for barnehage og grunnopplæring.
+
+- innføre nasjonale prøver i lesing og regning på 3. trinn og skriving på 8. trinn i grunnskolen.
+
+- gjøre kartleggingsprøven i lesing på 3. trinn frivillig, og omgjøre nasjonale prøver i lesing og regning på 9. trinn til utvalgsundersøkelser.
+
+- prioritere kompetanseutvikling for barnehager og skoler i bruk av undersøkelsene i de statlige ordningene for kompetanseutvikling.
 
 Særmerknader
-Utvalgsmedlem Kirkebirkeland ønsker å beholde
-nasjonale prøver på 9. trinn som i dag. Dette
-utvalgsmedlemmet mener at uten nasjonale prøver på dette trinnet mister sektoren en viktig kilde
-til informasjon om skolen, og dermed også mulighetene for å utvikle tilbudet til elevene. Utvalgsmedlemmer Fylling, Hausstätter og Løken ønsker
-primært å avvikle nasjonale prøver på 9. trinn og
-sekundært å omgjøre prøvene til utvalgsprøver.
-Disse medlemmene mener de øvrige forslagene
-til utvidelser av dagens datakilder gjør det nødvendig å redusere omfanget av andre tester og kartlegginger, for at helheten skal balansere hensynet
-til kunnskap om skolen med hensynet til ressursbruk og prioriteringer i skolen og potensielle
-konsekvenser for elevenes opplevde skolestress
-på en god måte.
 
-[Side 177]
+*Utvalgsmedlem Kirkebirkeland* ønsker å beholde nasjonale prøver på 9. trinn som i dag. Dette utvalgsmedlemmet mener at uten nasjonale prøver på dette trinnet mister sektoren en viktig kilde til informasjon om skolen, og dermed også mulighetene for å utvikle tilbudet til elevene. *Utvalgsmedlemmer Fylling*, *Hausstätter* og *Løken* ønsker primært å avvikle nasjonale prøver på 9. trinn og sekundært å omgjøre prøvene til utvalgsprøver. Disse medlemmene mener de øvrige forslagene til utvidelser av dagens datakilder gjør det nødvendig å redusere omfanget av andre tester og kartlegginger, for at helheten skal balansere hensynet til kunnskap om skolen med hensynet til ressursbruk og prioriteringer i skolen og potensielle konsekvenser for elevenes opplevde skolestress på en god måte.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+### Informasjonsutveksling mellom nivåer og sektorer
 
-12.1.3 Informasjonsutveksling mellom nivåer
-og sektorer
-Barnehager og skoler har plikt til å samarbeide
-om barns overgang fra barnehage til skole og skolefritidsordning. Samarbeidet skal bidra til at
-barna får en trygg og god overgang. Etter rammeplanen for barnehagen bør det utveksles informasjon mellom barnehage og skole som utgangspunkt for samarbeid om tilbudet til de eldste
-barna i barnehagen og deres overgang til skolen.
-Lillejord mfl. (2015) peker på at skolen i dag har
-lite kunnskap om barnehagene og omvendt.
-I flere land er det vanlig å overføre informasjon om barns kognitive og sosiale utvikling for å
-sørge for en best mulig overgang til skolen. Det er
-også vanlig med felles standarder eller krav til
-hvilke typer opplysninger som bør overføres mellom barnehager og skoler. Formålet med informasjonsutveksling er å legge til rette for at barnehager og skoler skal endre praksis og utvikle pedagogiske opplegg ut fra den informasjonen de mottar fra skolene om den videre utviklingen til barna
-som har gått i barnehagen (Borgonovi mfl., 2018).
-Utvalgets vurderinger
-Utvalget mener det er behov for å utrede nærmere
-hvordan relevant informasjon fra ulike datakilder
-om barns læring og utvikling bør formidles mellom
-ulike kommunale nivåer og tjenester. For informasjon om enkeltpersoner må det utredes hvordan
-utveksling av slik informasjon kan skje etter foreldrenes samtykke. Etter utvalgets vurdering vil
-samfunnsnytten av de ulike datakildene øke
-vesentlig dersom informasjon om enkeltpersoner
-kan utveksles mellom relevante kommunale tjenester gjennom standardiserte systemer, for slik å
-legge til rette for utvikling av tjenestene og tilpasse
-tilbudet til det enkelte barn og den enkelte elev.
-Utvalget anbefaler
-–
+Barnehager og skoler har plikt til å samarbeide om barns overgang fra barnehage til skole og skolefritidsordning. Samarbeidet skal bidra til at barna får en trygg og god overgang. Etter rammeplanen for barnehagen bør det utveksles informasjon mellom barnehage og skole som utgangspunkt for samarbeid om tilbudet til de eldste barna i barnehagen og deres overgang til skolen. Lillejord mfl. (2015) peker på at skolen i dag har lite kunnskap om barnehagene og omvendt.
 
-utrede systemer for informasjonsutveksling
-om barn og elevers læring og utvikling mellom
-relevante kommunale nivåer og tjenester.
-
-12.2 Kvalitetsutvikling i barnehage og
-grunnopplæring
-Hensikten med et kunnskapssystem er å skape en
-mer forskningsinformert praksis, og dermed
-støtte profesjonsutviklingen i barnehager og skoler. Forskning viser at objektive kjennetegn ved
-
-175
-
-Kapittel 12
-
-lærere som utdanningsnivå, erfaring og kjønn i
-liten grad forklarer hvorfor noen lærere oppnår
-mer læring for sine elever enn andre lærere, men
-at forskjellene er knyttet til undervisningspraksis.
-Det er dermed lite effektivt for kommuner og skoleledere å bruke objektive kjennetegn på lærere
-som grunnlag for styring og ledelse av skolen,
-mens det derimot er effektivt å påvirke og utvikle
-alle læreres undervisningspraksis (Hanushek,
-2011).
-I regelverket for grunnopplæringen er det lagt
-til grunn at lærere har såkalt metodefrihet i undervisningen. Læreplanverket styrer i stor grad det
-faglige innholdet i skolen gjennom å fastsette
-timetall, kompetansemål og vurderingsform i de
-ulike undervisningsfagene. Innenfor rammen av
-læreplanverket er det lærernes ansvar og faglige
-skjønn som skal avgjøre hvilke metoder de skal
-bruke i undervisningen. Samtidig skal alle skoler
-ha en forsvarlig ledelse, og opplæringen skal
-ledes av rektor. Det har ikke vært en rettslig
-prøving av forholdet mellom profesjonsskjønn og
-arbeidsgiverens styringsrett (B. Eriksen, 2018;
-Garbo & Raugland, 2017).
-Utvalget mener at forholdet mellom lærernes
-profesjonsskjønn og arbeidsgivers styringsrett
-bør avklares i regelverket, men at det uansett er
-rom for å utvikle praksis ved den enkelte barnehage og skole gitt prinsippet om metodefrihet.
-Det kan skje gjennom formidling av kunnskap
-basert på data om barn og elevers utvikling, formidling av forskning til praksisfeltet og mer
-omfattende og formaliserte tiltak for kompetanseutvikling.
-
-12.2.1 Kontinuerlig profesjonsutvikling og
-forskningsformidling
-I 2015 ble det bevilget omtrent 1,4 milliarder kroner til utdanningsforskning. Basisbevilgningen til
-universiteter og høyskoler utgjør nesten 70 prosent av midlene til utdanningsforskning, mens de
-resterende midlene kommer fra eksterne finansieringskilder som i hovedsak er konkurranseutsatte. Instituttsektoren står for under 7 prosent av
-de totale midlene til utdanningsforskning, og er i
-hovedsak knyttet til konkurranseutsatt oppdragsforskning (Gunnes, Hovdhaugen & Olsen, 2017).
-Grunnbevilgningen til universitetene og høyskolene er ikke knyttet til bestemte fagområder,
-og programområdene i Forskningsrådet er stort
-sett overordnede og bredt definert. I noen tilfeller
-styrer staten midlene til utdanningsforskning mer
-detaljert. Forskningsprogrammet FINNUT har
-utlyst midler til et senter for barnehagerelevant
-
-[Side 178]
-
-176
-
-Kapittel 12
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-forskning, og Forskningsrådet har utlyst midler til
-didaktisk forskning ved grunnskolelærerutdanningene. Staten har også tildelt midler til universiteter og høyskoler for å opprette sentre på
-bestemte områder, slik som Centre for Educational Measurement (CEMO) ved Universitetet i
-Oslo og Centre for the Science of Learning and
-Technology (SLATE) ved Universitetet i Bergen.
-Åpen og fri tilgang til offentlig finansiert
-forskning er et mål i mange land. Blant annet har
-flere land gjennom den såkalte Plan S ambisjoner
-om å sikre åpen tilgang til all publisering av
-forskningsresultater som er finansiert av offentlige midler. Mange land bygger dessuten opp
-systemer for å oversette kunnskap mellom
-forskningssystemet, politikkutviklingen og praksisfeltet.
-I Norge ble Kunnskapssenter for utdanning
-(KSU) opprettet i 2013 av Forskningsrådet for å
-ivareta denne funksjonen. KSU skulle oppsummere og formidle utdanningsforskning i hele
-utdanningssektoren. I 2018 besluttet Kunnskapsdepartementet å flytte virksomheten ut av
-Forskningsrådet og videreføre den i en ny vertsinstitusjon utenfor Oslo. Departementet inviterte
-fire institusjoner i universitets- og høyskolesektoren til å konkurrere om å være vertsinstitusjon for
-virksomheten.
-Til tross for ambisjoner om åpen tilgang til
-forskningsresultater, publiseres det meste av
-forskningen i tidsskrifter som er kostbare. Uansett fremtidig publiseringsmodell vil mye av den
-relevante forskningen som finnes, være tilgjengelig i slike tidsskrifter. De fleste akademiske institusjoner tilbyr sine medarbeidere et mangfold av
-oppslagsverk, tidsskrifter og annen faglitteratur,
-mens tilgangen på forskningskunnskap er langt
-svakere i praksisfeltet i mange sektorer. For å
-bøte på dette etablerte den offentlige helsetjenesten i 2006 en nasjonal, elektronisk tjeneste
-(helsebibliotek.no) for å sikre norsk helsepersonell enkel tilgang til kunnskapsbasert helsefaglig
-informasjon. Visjonen var å heve kvaliteten på helsetjenestene ved å tilby helsepersonell i hele landet fri tilgang til nyttig og pålitelig kunnskap. Nettstedet samler og integrerer åpne kunnskapskilder
-og betalte, lisensbaserte databaser, tidsskrifter og
-oppslagsverk. Erfaringer gjennom tolv år viser
-økende bruk av og tilfredshet med innholdet i
-Helsebiblioteket, særlig blant helsepersonell utenfor de store universitetssykehusene.
+I flere land er det vanlig å overføre informasjon om barns kognitive og sosiale utvikling for å sørge for en best mulig overgang til skolen. Det er også vanlig med felles standarder eller krav til hvilke typer opplysninger som bør overføres mellom barnehager og skoler. Formålet med informasjonsutveksling er å legge til rette for at barnehager og skoler skal endre praksis og utvikle pedagogiske opplegg ut fra den informasjonen de mottar fra skolene om den videre utviklingen til barna som har gått i barnehagen (Borgonovi mfl., 2018).
 
 Utvalgets vurderinger
-I lys av de betydelige samfunnsutfordringene
-kjønnsforskjeller i utdanningsløpet og livsløpet
-representerer, mener utvalget at det er behov for å
-styrke forskningen på kjønnsforskjeller i skoleprestasjoner og utdanningsløp. Kunnskapen om
-status, årsaker og konsekvenser, og tiltak for å
-redusere kjønnsforskjellene, er svak og mangelfull. I sum mener utvalget at bevilgningen til
-FINNUT bør styrkes med minst 20 millioner kroner i året til dette formålet. Utvalget mener det
-bør gis et fortrinn til prosjekter som har til hensikt
-å benytte nasjonale registre og kohortdata.
-Utvalget støtter departementets valg om å
-flytte Kunnskapssenter for utdanning ut fra
-Forskningsrådet. For at formidlingen av kunnskap skal være til nytte for hele barnehage- og
-skolesektoren, bør virksomheten etter utvalgets
-vurdering gis tydeligere faglige forventninger,
-men også større faglige oppgaver.
-Kjerneoppgaven for senteret bør fortsatt være
-å oppsummere og formidle pålitelige funn fra
-utdanningsforskning, særlig ved å videreutvikle
-formidlingssjangeren «kunnskapsoversikter». Etter
-utvalgets vurdering bør kunnskapsoversiktene
-prioritere studier om årsaker og effekter av tiltak
-eller praksiser i barnehager og skoler, og det bør
-stilles tydeligere faglige forventninger til hvordan
-slike studier sammenstilles. Som et minimum må
-slike studier vurderes og presenteres etter evidensnivå og effektstørrelse3. Det finnes flere gode
-eksempler på sentre for kunnskapsformidling i
-andre land som sorterer studier på denne måten.
-For brukerne blir det lett å navigere blant studiene for å finne informasjon som er mest relevant
-for et tiltak eller en undervisningssituasjon.
-Samtidig mener utvalget at mange systemer
-for kunnskapsformidling ikke tar tilstrekkelig
-hensyn til lærernes faglige og profesjonelle kompetanse. Som det ble påpekt nylig av en ekspertgruppe om lærerrollen, er det behov for en sterkere profesjonalisering av lærerrollen innenfra av
-profesjonen selv (T. Dahl mfl., 2016). Med innføring av lærerutdanninger på mastergradsnivå er
-det også lagt bedre til rette for at lærerne skal
-kunne forholde seg systematisk og metodisk til
-forskning. Økt vektlegging av kunnskapsformidling utenfra profesjonen selv kan være riktig i
-noen sammenhenger, men må ikke fortrenge eller
-3
 
-Effektstørrelse er et vanlig brukt begrep i statistikk som
-sier noe om hvor stor, betydningsfull eller viktig effekten av
-for eksempel et tiltak er for et bestemt utfallsmål, slik som
-læringsutbytte.
+Utvalget mener det er behov for å utrede nærmere hvordan relevant informasjon fra ulike datakilder om barns læring og utvikling bør formidles mellom ulike kommunale nivåer og tjenester. For informasjon om enkeltpersoner må det utredes hvordan utveksling av slik informasjon kan skje etter foreldrenes samtykke. Etter utvalgets vurdering vil samfunnsnytten av de ulike datakildene øke vesentlig dersom informasjon om enkeltpersoner kan utveksles mellom relevante kommunale tjenester gjennom standardiserte systemer, for slik å legge til rette for utvikling av tjenestene og tilpasse tilbudet til det enkelte barn og den enkelte elev.
 
-[Side 179]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-ødelegge for lærerprofesjonens egen utvikling
-innenfra. Etter utvalgets vurdering er det viktig
-for kvaliteten i barnehager og skoler at lærerprofesjonene settes i stand til å utvikle seg gjennom
-refleksjoner rundt sin egen praksis og relevante
-forskningsfunn.
-Utvalget mener derfor at praksisfeltet i barnehager og skoler bør få lik tilgang til relevant
-forskning gjennom et nasjonalt utdanningsbibliotek, slik det finnes for helsepersonell. Ettersom
-det allerede er besluttet av Kunnskapssenter for
-utdanning skal plasseres i universitets- og høyskolesektoren, mener utvalget at mandatet for virksomheten bør utvides til å omfatte utvikling og forvaltning av et nasjonalt utdanningsbibliotek. En
-slik løsning vil skape legitimitet og troverdighet
-blant brukerne gjennom en uavhengig organisering og høy fag- og formidlingskompetanse i virksomheten.
-Virksomheten bør også få ansvar for å konkretisere forskningsresultater om virkningsfull praksis i undervisningsfagene, klasseledelse og flerfaglig samarbeid. Flere land har utviklet ulike
-typer oppsummeringer av eller kjennetegn på virkningsfull praksis, men utvalget legger vekt på at
-forslaget må utvikles i tråd med den norske barnehage- og skolesektoren. Utvalget mener kjennetegn på virkningsfull praksis bør være anbefalinger eller veiledende normer for profesjonell yrkesutøvelse, og de bør kontinuerlig videreutvikles i
-tråd med nye forskningsresultater og lærernes
-egne erfaringer.
-Med disse utvidelsene av oppgavene vil virksomheten bli bedre posisjonert til ytterligere å
-støtte profesjonsutviklingen i barnehager og skoler. Utvalget mener også at denne funksjonen kan
-gjøre lærerutdanningsinstitusjonene mer relevante for praksisfeltet. En slik oppgaveutvidelse
-innebærer en større budsjettramme enn det
-departementet har lagt til grunn. Budsjettrammene for virksomheten bør derfor utredes nærmere.
 Utvalget anbefaler
-–
 
-–
+- utrede systemer for informasjonsutveksling om barn og elevers læring og utvikling mellom relevante kommunale nivåer og tjenester.
 
-øke bevilgningen til forskningsprogrammet
-FINNUT i Forskningsrådet med 20 millioner
-kroner per år og øremerke midlene til forskning på kjønnsforskjeller i skoleprestasjoner
-og utdanningsløpet.
-opprette et nasjonalt senter for kunnskapsformidling som skal oppsummere utdanningsforskning, formidle kjennetegn på virkningsfull
-praksis, og utvikle og forvalte et utdanningsbibliotek for praksisfeltet.
+## Kvalitetsutvikling i barnehage og grunnopplæring
 
-177
+Hensikten med et kunnskapssystem er å skape en mer forskningsinformert praksis, og dermed støtte profesjonsutviklingen i barnehager og skoler. Forskning viser at objektive kjennetegn ved lærere som utdanningsnivå, erfaring og kjønn i liten grad forklarer hvorfor noen lærere oppnår mer læring for sine elever enn andre lærere, men at forskjellene er knyttet til undervisningspraksis. Det er dermed lite effektivt for kommuner og skoleledere å bruke objektive kjennetegn på lærere som grunnlag for styring og ledelse av skolen, mens det derimot er effektivt å påvirke og utvikle alle læreres undervisningspraksis (Hanushek, 2011).
 
-Kapittel 12
+I regelverket for grunnopplæringen er det lagt til grunn at lærere har såkalt metodefrihet i undervisningen. Læreplanverket styrer i stor grad det faglige innholdet i skolen gjennom å fastsette timetall, kompetansemål og vurderingsform i de ulike undervisningsfagene. Innenfor rammen av læreplanverket er det lærernes ansvar og faglige skjønn som skal avgjøre hvilke metoder de skal bruke i undervisningen. Samtidig skal alle skoler ha en forsvarlig ledelse, og opplæringen skal ledes av rektor. Det har ikke vært en rettslig prøving av forholdet mellom profesjonsskjønn og arbeidsgiverens styringsrett (B. Eriksen, 2018; Garbo & Raugland, 2017).
 
-12.2.2 Grunnutdanning og kompetanseutvikling i barnehage og grunnopplæring
-Universitetene og høyskolene står for grunnutdanningen av mange av de ansatte i barnehager
-og skoler. For barnehagelærer- og grunnskolelærerutdanningene fastsetter staten rammeplaner som beskriver læringsutbyttet etter fullført
-utdanning og gir bestemmelser om blant annet
-utdanningenes struktur, faglige sammensetning
-og krav til praksis.
-I tillegg bruker staten om lag 2,5 milliarder
-kroner i året på ulike former for kompetanseutvikling av lærere og andre ansatte i etterkant av
-grunnutdanningen. Ifølge Meld. St. 21 (2016–
-2017) skal statlige midler til kompetanseutvikling
-i barnehager og grunnopplæringen over tid overføres til en ny kompetansemodell som består av
-følgende ordninger:
-– en videreutdanningsordning for lærere og skoleledere der staten finansierer kostnader for
-deltagelse (vikar- og stipendordning) og studieplasser innenfor enkelte prioriterte fagområder. Videreutdanning gir formelle studiepoeng
-fra universiteter og høyskoler.
-– en desentralisert ordning for kompetanseutvikling der kommuner definerer og prioriterer tiltak for kompetanseutvikling i samarbeid med
-universiteter og høyskoler. Staten fastsetter
-rammene for ordningen gjennom nasjonale
-mål, krav om kommunal medfinansiering og
-krav om at kommunene må samarbeide med et
-universitet eller en høyskole for å motta midler.
-– en oppfølgingsordning for kommuner som ligger under nedre grense for skolekvalitet. Staten har fastsatt en nedre grense gjennom et
-sett av indikatorer for læring og læringsmiljø,
-samt fylkesmannens skjønnsvurderinger, og
-kommuner som faller under denne grensen,
-får tilbud om støtte og veiledning.
-– innovasjonsordning der kommuner og forskningsinstitusjoner søker sammen om midler til
-utprøving av tiltak i barnehager og skoler. Staten legger ikke føringer på tema eller innhold
-utover at utprøvingene må kunne effektevalueres, og midlene tildeles utelukkende etter konkurranse.
-Hovedbegrunnelsen for denne kompetansemodellen er å ta hensyn til at utviklingskapasitet og kompetansebehov varierer betydelig mellom kommuner og skoler. Erfaringene med tematiske og sentralt styrte tiltak for kompetanseutvikling er etter
-departementets vurdering delte, se Meld. St. 21
+Utvalget mener at forholdet mellom lærernes profesjonsskjønn og arbeidsgivers styringsrett bør avklares i regelverket, men at det uansett er rom for å utvikle praksis ved den enkelte barnehage og skole gitt prinsippet om metodefrihet. Det kan skje gjennom formidling av kunnskap basert på data om barn og elevers utvikling, formidling av forskning til praksisfeltet og mer omfattende og formaliserte tiltak for kompetanseutvikling.
 
-[Side 180]
+### Kontinuerlig profesjonsutvikling og forskningsformidling
 
-178
+I 2015 ble det bevilget omtrent 1,4 milliarder kroner til utdanningsforskning. Basisbevilgningen til universiteter og høyskoler utgjør nesten 70 prosent av midlene til utdanningsforskning, mens de resterende midlene kommer fra eksterne finansieringskilder som i hovedsak er konkurranseutsatte. Instituttsektoren står for under 7 prosent av de totale midlene til utdanningsforskning, og er i hovedsak knyttet til konkurranseutsatt oppdragsforskning (Gunnes, Hovdhaugen & Olsen, 2017).
 
-Kapittel 12
+Grunnbevilgningen til universitetene og høyskolene er ikke knyttet til bestemte fagområder, og programområdene i Forskningsrådet er stort sett overordnede og bredt definert. I noen tilfeller styrer staten midlene til utdanningsforskning mer detaljert. Forskningsprogrammet FINNUT har utlyst midler til et senter for barnehagerelevant forskning, og Forskningsrådet har utlyst midler til didaktisk forskning ved grunnskolelærerutdanningene. Staten har også tildelt midler til universiteter og høyskoler for å opprette sentre på bestemte områder, slik som Centre for Educational Measurement (CEMO) ved Universitetet i Oslo og Centre for the Science of Learning and Technology (SLATE) ved Universitetet i Bergen.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Åpen og fri tilgang til offentlig finansiert forskning er et mål i mange land. Blant annet har flere land gjennom den såkalte Plan S ambisjoner om å sikre åpen tilgang til all publisering av forskningsresultater som er finansiert av offentlige midler. Mange land bygger dessuten opp systemer for å oversette kunnskap mellom forskningssystemet, politikkutviklingen og praksisfeltet.
 
-(2016–2017). Slike tiltak tilpasses ofte ikke de
-reelle kompetansebehovene og blir avgrensede
-punktinnsatser heller enn helhetlige tiltak som
-utvikler profesjonsfellesskapet på skolene. Tematisk og sentralt styrte tiltak tar sjelden hensyn til at
-implementering av ny praksis må strekke seg over
-mange år for å ha effekt, eller at utviklingskapasiteten varierer betydelig mellom kommuner og skoler.
+I Norge ble Kunnskapssenter for utdanning (KSU) opprettet i 2013 av Forskningsrådet for å ivareta denne funksjonen. KSU skulle oppsummere og formidle utdanningsforskning i hele utdanningssektoren. I 2018 besluttet Kunnskapsdepartementet å flytte virksomheten ut av Forskningsrådet og videreføre den i en ny vertsinstitusjon utenfor Oslo. Departementet inviterte fire institusjoner i universitets- og høyskolesektoren til å konkurrere om å være vertsinstitusjon for virksomheten.
+
+Til tross for ambisjoner om åpen tilgang til forskningsresultater, publiseres det meste av forskningen i tidsskrifter som er kostbare. Uansett fremtidig publiseringsmodell vil mye av den relevante forskningen som finnes, være tilgjengelig i slike tidsskrifter. De fleste akademiske institusjoner tilbyr sine medarbeidere et mangfold av oppslagsverk, tidsskrifter og annen faglitteratur, mens tilgangen på forskningskunnskap er langt svakere i praksisfeltet i mange sektorer. For å bøte på dette etablerte den offentlige helsetjenesten i 2006 en nasjonal, elektronisk tjeneste (helsebibliotek.no) for å sikre norsk helsepersonell enkel tilgang til kunnskapsbasert helsefaglig informasjon. Visjonen var å heve kvaliteten på helsetjenestene ved å tilby helsepersonell i hele landet fri tilgang til nyttig og pålitelig kunnskap. Nettstedet samler og integrerer åpne kunnskapskilder og betalte, lisensbaserte databaser, tidsskrifter og oppslagsverk. Erfaringer gjennom tolv år viser økende bruk av og tilfredshet med innholdet i Helsebiblioteket, særlig blant helsepersonell utenfor de store universitetssykehusene.
+
 Utvalgets vurderinger
-For grunnutdanningene av barnehageansatte og
-lærere mener utvalget at institusjonene i større
-grad bør legge vekt på betydningen av kjønnsforskjeller og kjønnsstereotypier. Rammeplanen for
-barnehagen fastslår at barnehagepersonalet må
-reflektere over sine egne holdninger for å kunne
-formidle og fremme likeverd og likestilling. Studier finner imidlertid at barnehageansatte arbeider lite systematisk med likestilling i barnehagen,
-og at de har kjønnsstereotypiske forventninger
-som gjør at de behandler gutter og jenter forskjellig (Eidevald, 2009; Meland & Kaltvedt, 2017; Østrem mfl., 2009). Studier finner også at lærere
-møter gutter med lavere forventninger enn jenter,
-og at de vurderer oppførselen til gutter mer negativt enn jenters oppførsel (Wollscheid mfl., 2018).
-Utvalget anbefaler derfor at det innføres tydeligere mål for læringsutbytte om kjønnsforskjeller
-og kjønnsstereotypier i rammeplanene for barnehagelærer- og grunnskolelærerutdanningene.
-For kompetanseutvikling i etterkant av grunnutdanningen støtter utvalget departementets vurdering at det ikke er tilrådelig å gå tilbake til tematisk og sentralt styrte tiltak for kompetanseutvikling, for eksempel gjennom et særskilt tiltak for å
-heve lærernes kompetanse om kjønnsstereotypier. Etter utvalgets vurdering vil tiltak som skal
-omfatte alle kommuner ikke kunne ta tilstrekkelig
-hensyn til at utviklingskapasiteten og kompetansebehovene varierer betydelig. Utvalget mener
-derfor det er bedre å videreutvikle den statlige
-kompetansemodellen, og legge til grunn at kompetanseutvikling som bygger på solid forskning,
-vil komme både gutter og jenter til gode.
-Kompetansemodellen er forskningsbasert ved
-at det er universiteter og høyskoler som i all
-hovedsak leverer det faglige innholdet i de konkrete tiltakene for kompetanseutvikling. Universitetene og høyskolene skal etter regelverket bygge
-på anerkjente vitenskapelige prinsipper, og de
-ulike fagmiljøene har en rekke normer for hva
-som utgjør vitenskapelig praksis. Utvalget mener
-forslaget om å opprette et nasjonalt senter for
 
-kunnskapsformidling vil styrke relevante institusjoner i sektoren gjennom å systematisere den
-eksisterende utdanningsforskningen. Forslaget
-om å øke bevilgningen til FINNUT og øremerkede midlene til forskning på kjønnsforskjeller vil
-også styrke institusjonene på dette området gjennom å utvikle forskningsgrunnlaget for hele sektoren.
-Samtidig mener utvalget at det bør kunne stilles spesifikke forskningskrav til institusjonene
-som frivillig deltar i den statlige kompetansemodellen. Formålet med disse ordningene er å finansiere tiltak for kompetanseutvikling som kan
-utvikle praksisen i barnehager og skoler. Etter
-utvalgets vurdering er det derfor rimelig å sette
-som premiss at det faglige innholdet som tiltakene
-bygger på, har en dokumentert effekt på elevenes
-utvikling og læring. Utvalget mener det er vanskelig å kreve at selve tilbudene om kompetanseutvikling fra institusjonene har en dokumentert
-effekt på elevenes læring og utvikling. Det er
-metodisk krevende å isolere effekten av selve tilbudet for konkrete barn og elever, men det er
-mulig å kreve at det faglige innholdet som tilbudene bygger på kan dokumentere positive effekter på barn og elevers utvikling og læring. Samtidig mener utvalget at det er lite realistisk å pålegge
-et slik krav om effektdokumentasjon for hele
-kompetansemodellen på kort sikt, og anbefaler
-derfor at kravet innføres gradvis og blir fullt gjeldende fra 2025.
-Utvalget mener at et krav om effektdokumentasjon innen 2025 vil skape større dynamikk mellom de statlige ordningene for kompetanseutvikling, universitets- og høyskolesektoren og instituttsektoren mer generelt. For eksempel bør det
-faglige innholdet i de ulike tilbudene som utvikles
-i den desentraliserte ordningen, over tid kunne
-prøves ut systematisk gjennom innovasjonsordningen, og legge til rette for at institusjonene videreutvikler tilbudene sine. Etter utvalgets vurdering vil et slikt krav styrke forskningsgrunnlaget
-for hele den statlige kompetansemodellen.
-Utvalget mener at prinsippene for kompetansemodellen bør legges til grunn for statens styring på flere områder. Bevilgningen til Statlig spesialpedagogisk tjeneste (Statped) som er knyttet
-til kompetanseutvikling og forskning, er ikke knyttet til eller forankret i kompetansemodellen. Statped er et statlig forvaltningsorgan som skal støtte
-kommunenes tilbud til elever med særskilte
-behov og elever med spesialundervisning. Statped
-gjennomfører tiltak for kompetanseutvikling og
-forskningsprosjekter, men er ikke organisatorisk
-forankret i universitets- og høyskolesektoren eller
+I lys av de betydelige samfunnsutfordringene kjønnsforskjeller i utdanningsløpet og livsløpet representerer, mener utvalget at det er behov for å styrke forskningen på kjønnsforskjeller i skoleprestasjoner og utdanningsløp. Kunnskapen om status, årsaker og konsekvenser, og tiltak for å redusere kjønnsforskjellene, er svak og mangelfull. I sum mener utvalget at bevilgningen til FINNUT bør styrkes med minst 20 millioner kroner i året til dette formålet. Utvalget mener det bør gis et fortrinn til prosjekter som har til hensikt å benytte nasjonale registre og kohortdata.
 
-[Side 181]
+Utvalget støtter departementets valg om å flytte Kunnskapssenter for utdanning ut fra Forskningsrådet. For at formidlingen av kunnskap skal være til nytte for hele barnehage- og skolesektoren, bør virksomheten etter utvalgets vurdering gis tydeligere faglige forventninger, men også større faglige oppgaver.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Kjerneoppgaven for senteret bør fortsatt være å oppsummere og formidle pålitelige funn fra utdanningsforskning, særlig ved å videreutvikle formidlingssjangeren «kunnskapsoversikter». Etter utvalgets vurdering bør kunnskapsoversiktene prioritere studier om årsaker og effekter av tiltak eller praksiser i barnehager og skoler, og det bør stilles tydeligere faglige forventninger til hvordan slike studier sammenstilles. Som et minimum må slike studier vurderes og presenteres etter evidensnivå og effektstørrelse[^57]. Det finnes flere gode eksempler på sentre for kunnskapsformidling i andre land som sorterer studier på denne måten. For brukerne blir det lett å navigere blant studiene for å finne informasjon som er mest relevant for et tiltak eller en undervisningssituasjon.
 
-instituttsektoren. Det betyr at Statped ikke er
-underlagt de samme reglene og normene for
-vitenskapelig kvalitet. Utvalget mener derfor at
-ansvaret for kompetanseutvikling og forskning i
-Statped bør overføres til utvalgte institusjoner i
-universitets- og høyskolesektoren. Etter utvalgets
-vurdering vil dette heve kvaliteten på tiltak for
-kompetanseutvikling, men også være positivt for
-hele det spesialpedagogiske fagområdet.
+Samtidig mener utvalget at mange systemer for kunnskapsformidling ikke tar tilstrekkelig hensyn til lærernes faglige og profesjonelle kompetanse. Som det ble påpekt nylig av en ekspertgruppe om lærerrollen, er det behov for en sterkere profesjonalisering av lærerrollen innenfra av profesjonen selv (T. Dahl mfl., 2016). Med innføring av lærerutdanninger på mastergradsnivå er det også lagt bedre til rette for at lærerne skal kunne forholde seg systematisk og metodisk til forskning. Økt vektlegging av kunnskapsformidling utenfra profesjonen selv kan være riktig i noen sammenhenger, men må ikke fortrenge eller ødelegge for lærerprofesjonens egen utvikling innenfra. Etter utvalgets vurdering er det viktig for kvaliteten i barnehager og skoler at lærerprofesjonene settes i stand til å utvikle seg gjennom refleksjoner rundt sin egen praksis og relevante forskningsfunn.
+
+Utvalget mener derfor at praksisfeltet i barnehager og skoler bør få lik tilgang til relevant forskning gjennom et nasjonalt utdanningsbibliotek, slik det finnes for helsepersonell. Ettersom det allerede er besluttet av Kunnskapssenter for utdanning skal plasseres i universitets- og høyskolesektoren, mener utvalget at mandatet for virksomheten bør utvides til å omfatte utvikling og forvaltning av et nasjonalt utdanningsbibliotek. En slik løsning vil skape legitimitet og troverdighet blant brukerne gjennom en uavhengig organisering og høy fag- og formidlingskompetanse i virksomheten.
+
+Virksomheten bør også få ansvar for å konkretisere forskningsresultater om virkningsfull praksis i undervisningsfagene, klasseledelse og flerfaglig samarbeid. Flere land har utviklet ulike typer oppsummeringer av eller kjennetegn på virkningsfull praksis, men utvalget legger vekt på at forslaget må utvikles i tråd med den norske barnehage- og skolesektoren. Utvalget mener kjennetegn på virkningsfull praksis bør være anbefalinger eller veiledende normer for profesjonell yrkesutøvelse, og de bør kontinuerlig videreutvikles i tråd med nye forskningsresultater og lærernes egne erfaringer.
+
+Med disse utvidelsene av oppgavene vil virksomheten bli bedre posisjonert til ytterligere å støtte profesjonsutviklingen i barnehager og skoler. Utvalget mener også at denne funksjonen kan gjøre lærerutdanningsinstitusjonene mer relevante for praksisfeltet. En slik oppgaveutvidelse innebærer en større budsjettramme enn det departementet har lagt til grunn. Budsjettrammene for virksomheten bør derfor utredes nærmere.
+
 Utvalget anbefaler
-–
 
-–
+- øke bevilgningen til forskningsprogrammet FINNUT i Forskningsrådet med 20 millioner kroner per år og øremerke midlene til forskning på kjønnsforskjeller i skoleprestasjoner og utdanningsløpet.
 
-–
+- opprette et nasjonalt senter for kunnskapsformidling som skal oppsummere utdanningsforskning, formidle kjennetegn på virkningsfull praksis, og utvikle og forvalte et utdanningsbibliotek for praksisfeltet.
 
-innføre tydelige mål for læringsutbytte om
-kjønnsforskjeller og kjønnsstereotypier i rammeplanen for barnehagelærer- og grunnskolelærerutdanningene.
-innføre krav i den statlige kompetansemodellen om at det faglige innholdet som tiltakene
-bygger på, kan dokumentere positive effekter
-på elevenes læring og utvikling.
-overføre oppgaver og ressurser knyttet til
-forskning og kompetanseutvikling i Statlig spe-
+### Grunnutdanning og kompetanseutvikling i barnehage og grunnopplæring
 
-179
+Universitetene og høyskolene står for grunnutdanningen av mange av de ansatte i barnehager og skoler. For barnehagelærer- og grunnskolelærerutdanningene fastsetter staten rammeplaner som beskriver læringsutbyttet etter fullført utdanning og gir bestemmelser om blant annet utdanningenes struktur, faglige sammensetning og krav til praksis.
 
-Kapittel 12
+I tillegg bruker staten om lag 2,5 milliarder kroner i året på ulike former for kompetanseutvikling av lærere og andre ansatte i etterkant av grunnutdanningen. Ifølge Meld. St. 21 (2016–2017) skal statlige midler til kompetanseutvikling i barnehager og grunnopplæringen over tid overføres til en ny kompetansemodell som består av følgende ordninger:
 
-sialpedagogisk tjeneste til enkelte universiteter
-eller høyskoler.
-Særmerknader
-Utvalgsmedlemmer Fylling, Hausstätter og Monsen
-peker på at universitetene og høyskolene er
-ansvarlige for det faglige innholdet i kompetanseutvikling, og mener at det er lite som tyder på at
-deres faglige vurderinger og bruk av forskning
-ikke er en sentral del av det tilbudet som gis i dag.
-Om det skal stilles dokumentasjonskrav på effekt
-av det faglige innholdet, vil dette i verste fall medføre at kunnskap som læreren bruker i skolen,
-men som ikke kan måles eller forskes på, vil bli
-fjernet av universitetene og høyskolene. Den
-negative effekten av forslaget vil da kunne være et
-smalere tilbud om etter- og videreutdanning for
-ansatte i barnehager og skoler. Disse utvalgsmedlemmene kan ikke slutte seg til forslaget om et
-dokumentasjonskrav om effekt av det faglige innholdet i tilbud om kompetanseutvikling.
+- en *videreutdanningsordning* for lærere og skoleledere der staten finansierer kostnader for deltagelse (vikar- og stipendordning) og studieplasser innenfor enkelte prioriterte fagområder. Videreutdanning gir formelle studiepoeng fra universiteter og høyskoler.
 
-[Side 182]
+- en *desentralisert ordning* for kompetanseutvikling der kommuner definerer og prioriterer tiltak for kompetanseutvikling i samarbeid med universiteter og høyskoler. Staten fastsetter rammene for ordningen gjennom nasjonale mål, krav om kommunal medfinansiering og krav om at kommunene må samarbeide med et universitet eller en høyskole for å motta midler.
 
-180
+- en *oppfølgingsordning* for kommuner som ligger under nedre grense for skolekvalitet. Staten har fastsatt en nedre grense gjennom et sett av indikatorer for læring og læringsmiljø, samt fylkesmannens skjønnsvurderinger, og kommuner som faller under denne grensen, får tilbud om støtte og veiledning.
 
-Kapittel 13
+- *innovasjonsordning* der kommuner og forskningsinstitusjoner søker sammen om midler til utprøving av tiltak i barnehager og skoler. Staten legger ikke føringer på tema eller innhold utover at utprøvingene må kunne effektevalueres, og midlene tildeles utelukkende etter konkurranse.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
+Hovedbegrunnelsen for denne kompetansemodellen er å ta hensyn til at utviklingskapasitet og kompetansebehov varierer betydelig mellom kommuner og skoler. Erfaringene med tematiske og sentralt styrte tiltak for kompetanseutvikling er etter departementets vurdering delte, se Meld. St. 21 (2016–2017). Slike tiltak tilpasses ofte ikke de reelle kompetansebehovene og blir avgrensede punktinnsatser heller enn helhetlige tiltak som utvikler profesjonsfellesskapet på skolene. Tematisk og sentralt styrte tiltak tar sjelden hensyn til at implementering av ny praksis må strekke seg over mange år for å ha effekt, eller at utviklingskapasiteten varierer betydelig mellom kommuner og skoler.
 
-Kapittel 13
-
-Tidlig og tilpasset innsats
-Utvalget har lagt to bærende prinsipper til grunn
-for arbeidet med dette tiltaksområdet: tidlig innsats og tilpasset innsats. Begge prinsippene er viktige for læring i skolen, og utvalget mener at en
-barnehage og grunnopplæring som er mer i tråd
-med disse prinsippene vil kunne redusere kjønnsforskjeller i skoleprestasjoner.
-Det er godt forskningsmessig belegg for at
-barn er svært mottagelige for læring allerede i de
-første barneårene. Disse årene er viktige for dannelsen av individuelle ferdigheter og egenskaper,
-og tidlig læring fremmer senere læring (Cunha &
-Heckman, 2007; Cunha, Heckman, Lochner &
-Masterov, 2006). Forskning viser store læringseffekter av tiltak for å fremme kognitive og sosiale
-og emosjonelle ferdigheter før skolealder (Bremnes, 2006; Carneiro & Heckman, 2003; Currie &
-Almond, 2011). For eksempel får barn bedre leseferdigheter av å begynne med språkopplæring i
-barnehagen (Bleses mfl., 2018). Særlig har slike
-tidlige intervensjoner stor nytte for barn fra
-underprivilegerte familier (Bailey mfl., 2018; Currie, 2001; Dustmann & Cornelissen, 2018; Elango
-mfl., 2015). Det er mindre sikkert hvilke utslag
-tidlig innsats har for kjønnsforskjeller i skoleprestasjoner. Det er færre studier som har undersøkt kjønnsforskjeller, og de har sprikende resultater. Noen studier finner at tidlige intervensjoner
-bedrer prestasjonene til jenter og gutter i like stor
-grad, andre studier finner at jenter og gutter får
-positive utfall på ulike mål, og andre studier igjen
-finner at jenter, eller gutter, i større grad har nytte
-av tidlige intervensjoner og barnehagetilbud av
-høy kvalitet (Anderson, 2008; Bremnes, 2006; Currie & Almond, 2011; Dustmann & Cornelissen,
-2018; Garcia, Heckman & Ziff, 2018; Heckman
-mfl., 2010).
-Det andre bærende prinsippet er å sikre at alle
-barn får en tilpasset opplæring. Tilpasset innsats
-handler om at barnehage og skole bør ta hensyn
-til den betydelige individuelle variasjonen mellom
-barn, som på gruppenivå resulterer i systematiske
-forskjeller mellom kjønn. Selv om forskning viser
-at barn har et stort læringspotensial i tidlig barn-
-
-dom, er barn mer mottakelige for visse former for
-læring på ulike alderstrinn. En slik antagelse ligger til grunn for alle skolesystemer ved at kompleksiteten i læreplanene øker gjennom opplæringsløpet og at lærere ofte har ulike utdanninger
-for å undervise på ulike alderstrinn. Det er også
-mulig at denne mottakeligheten for læring varierer med kjønn. Det eksisterer kjønnsforskjeller i
-kognitiv profil gjennom hele barndommen. Gutter
-utvikler generelle kognitive evner senere i småbarns- og førskolealder, og jenter viser fra tidlig
-barndom mer utviklede ferdigheter i planmessighet, selvregulering og andre sosiale og emosjonelle ferdigheter. Ulik utvikling av selvreguleringsevnen blant yngre gutter og jenter kan tyde
-på at for eksempel stillesittende læring ikke er
-hensiktsmessig på enkelte alderstrinn eller at det
-ikke passer for alle barn på samme alderstrinn.
-Samtidig er det mye som tyder på at både gutter
-og jenter kan øve opp selvreguleringsevnen i tidlige barneår, og at dette kan ha positive effekter
-for senere utdannings- og livsløpsutfall (Heckman
-mfl., 2013).
-Utvalget har bestrebet seg på å finne løsninger
-der den tilpassede innsatsen kan gjennomføres
-innenfor en allmennpedagogisk ramme, og der
-man søker å begrense segregering av barn basert
-på ferdigheter eller kjønn. Dette handler om å
-skape en mer variert skoledag, å gi barn tilbud om
-intensiv opplæring og spesialundervisning med
-høy kvalitet, og å styrke det flerfaglige arbeidet i
-skolen.
-Utvalget har også valgt å prioritere tiltak som
-kan iverksettes i utdanningssektoren. Det kan
-likevel finnes gode tiltak utenfor barnehage og
-grunnopplæring som kan påvirke gutter og jenters skoleprestasjoner. En norsk studie finner at
-det å starte i barnehagen når barna er 15 måneder
-i stedet for 19 måneder, er positivt for både jenter
-og gutters lese- og regneferdigheter i 6–7-årsalderen (N. Drange & Havnes, 2015). Dustmann og
-Schönberg (2012) finner at foreldrepermisjon
-som er lengre enn 18 måneder (sammenlignet
-med uformelle ordninger for barnepass) kan ha
-
-[Side 183]
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-negativ effekt på barnas gjennomføring av utdanningsløpet, men hovedsakelig for barn med
-mødre med lav utdanning. Disse studiene sannsynliggjør at barnehage vil kunne ha positiv effekt
-for både gutter og jenters utdanningsløp. Insentiver for at barn starter i barnehage er dermed viktige for gutter og jenters utdanningsløp. Kontantstøtten er en ordning som lønner foresatte som er
-hjemme med barn, og én mulig løsning kunne
-være å bruke denne støtten til å gi flere muligheten til å gå i barnehage, gjennom å gjøre barnehage gratis for alle eller for grupper av barn.
-Utvalget har imidlertid ikke prioritert å utrede
-dette videre.
-
-13.1 Innhold og tiltak i barnehagen
-Barnehageloven slår fast at barnehagen skal
-fremme demokrati og likestilling og motarbeide
-alle former for diskriminering. Rammeplan for
-barnehagen fastslår at barnehagepersonalet må
-reflektere over sine egne holdninger for best
-mulig å kunne formidle og fremme likeverd og
-likestilling.
-Rammeplanen slår også fast at alle barn skal få
-god språkstimulering, og at alle barn skal få delta i
-aktiviteter som fremmer kommunikasjon og en
-helhetlig språkutvikling. Samtidig vektlegger rammeplanen barnehagens egenart der barns lek og
-undring har en egenverdi som barnehagene skal
-ivareta.
-Barn under opplæringspliktig alder har en
-individuell rett til spesialpedagogisk hjelp dersom
-de har særlige behov for det, også de som ikke
-går i barnehage. Kommunen fatter et enkeltvedtak etter en sakkyndig vurdering av barnets
-behov. Situasjonsbeskrivelsen i denne utredningen viser at andelen barn som mottar spesialpedagogisk hjelp øker betydelig med barnas alder. I
-2017 mottok omtrent 6 prosent av femåringene i
-barnehager spesialpedagogisk hjelp. Det finnes
-imidlertid ikke nasjonal statistikk om andelen gutter og jenter med spesialpedagogisk hjelp før opplæringspliktig alder. Tall innhentet fra Trondheim
-kommune viser at nesten 70 prosent av de som
-mottar spesialpedagogisk hjelp i kommunen er
-gutter.
 Utvalgets vurderinger
-Som beskrevet tidligere finner studier at barnehageansatte arbeider lite systematisk med likestilling i barnehagen, og at de har kjønnsstereotypiske
-forventninger som gjør at de behandler gutter og
 
-181
+For grunnutdanningene av barnehageansatte og lærere mener utvalget at institusjonene i større grad bør legge vekt på betydningen av kjønnsforskjeller og kjønnsstereotypier. Rammeplanen for barnehagen fastslår at barnehagepersonalet må reflektere over sine egne holdninger for å kunne formidle og fremme likeverd og likestilling. Studier finner imidlertid at barnehageansatte arbeider lite systematisk med likestilling i barnehagen, og at de har kjønnsstereotypiske forventninger som gjør at de behandler gutter og jenter forskjellig (Eidevald, 2009; Meland & Kaltvedt, 2017; Østrem mfl., 2009). Studier finner også at lærere møter gutter med lavere forventninger enn jenter, og at de vurderer oppførselen til gutter mer negativt enn jenters oppførsel (Wollscheid mfl., 2018). Utvalget anbefaler derfor at det innføres tydeligere mål for læringsutbytte om kjønnsforskjeller og kjønnsstereotypier i rammeplanene for barnehagelærer- og grunnskolelærerutdanningene.
 
-Kapittel 13
+For kompetanseutvikling i etterkant av grunnutdanningen støtter utvalget departementets vurdering at det ikke er tilrådelig å gå tilbake til tematisk og sentralt styrte tiltak for kompetanseutvikling, for eksempel gjennom et særskilt tiltak for å heve lærernes kompetanse om kjønnsstereotypier. Etter utvalgets vurdering vil tiltak som skal omfatte alle kommuner ikke kunne ta tilstrekkelig hensyn til at utviklingskapasiteten og kompetansebehovene varierer betydelig. Utvalget mener derfor det er bedre å videreutvikle den statlige kompetansemodellen, og legge til grunn at kompetanseutvikling som bygger på solid forskning, vil komme både gutter og jenter til gode.
 
-jenter forskjellig (Eidevald, 2009; Meland & Kaltvedt, 2017; Østrem mfl., 2009). Studier finner også
-at lærere møter gutter med lavere forventninger
-enn jenter, og at de vurderer guttenes oppførsel
-som mer negativ enn jentenes oppførsel (Wollscheid mfl., 2018). Med det som bakgrunn har
-utvalget anbefalt å innføre mål for læringsutbytte
-om kjønnsforskjeller og kjønnsstereotypier i rammeplanen for barnehagelærer- og grunnskolelærerutdanningen, jf. kapittel 12.
-Utvalget mener at også regelverket for barnehagen i større grad bør vektlegge betydningen av
-kjønnsforskjeller og kjønnsstereotypier. Rammeplanen for barnehagen bør tydeliggjøre at også
-barna skal ha anledning til å reflektere over
-kjønnsroller og kjønnstypiske forventninger. Etter
-utvalgets vurdering bør regelverket i enda større
-grad legge til rette for mindre kjønnsinndelt lek
-og aktiviteter i barnehagen, og stimulere barna til
-å utforske kjønnsutypiske aktiviteter. Barnehagene bør i større grad gi barna mulighet til å sette
-spørsmålstegn ved forventningene som gutter og
-jenter møter.
-Regelverket for barnehagen og grunnopplæringen avviker fra hverandre ved at opplæringsloven fastslår at organisering av elever til vanlig
-ikke skal skje etter kjønn i grunnopplæringen,
-mens det ikke finnes en tilsvarende regel for organisering av kjønnsinndelte grupper og aktiviteter i
-barnehagen. I utredningens kapittel 14 anbefaler
-utvalget at Opplæringslovutvalget utreder nærmere hvorvidt det er behov for å presisere vilkår i
-opplæringsloven § 8-2 for å motvirke omfattende
-former for differensiering av elever etter kjønn og
-faglig nivå. Etter utvalgets vurdering bør også
-regelverket for barnehagen begrense omfanget av
-kjønnsinndelte grupper og aktiviteter i barnehagen. En slik regel for barnehagen vil kunne forhindre forskjellsbehandling av gutter og jenter og
-stimulere barn til å utforske kjønnsutypiske aktiviteter og interesser.
-Samtidig er barnehager i mindre grad organisert i klart definerte grupper, slik tilfellet ofte er i
-skolen. I grunnopplæringen er regelen for organisering etter kjønn knyttet til undervisningssituasjoner, ikke til hvordan elevene velger å organisere seg etter interesser og egne ønsker i friminutter og på SFO. Ettersom en tilsvarende regel
-for barnehagen vil omfatte barns egne valg av frilek og interessebaserte aktiviteter, mener utvalget
-at det er rimelig at reguleringen er mindre stram
-enn i grunnopplæringen. Utvalget mener derfor at
-det er tilstrekkelig at regelen legger til grunn at
-barn til vanlig ikke bør organiseres i kjønnsinndelte grupper eller aktiviteter.
+Kompetansemodellen er forskningsbasert ved at det er universiteter og høyskoler som i all hovedsak leverer det faglige innholdet i de konkrete tiltakene for kompetanseutvikling. Universitetene og høyskolene skal etter regelverket bygge på anerkjente vitenskapelige prinsipper, og de ulike fagmiljøene har en rekke normer for hva som utgjør vitenskapelig praksis. Utvalget mener forslaget om å opprette et nasjonalt senter for kunnskapsformidling vil styrke relevante institusjoner i sektoren gjennom å systematisere den eksisterende utdanningsforskningen. Forslaget om å øke bevilgningen til FINNUT og øremerkede midlene til forskning på kjønnsforskjeller vil også styrke institusjonene på dette området gjennom å utvikle forskningsgrunnlaget for hele sektoren.
 
-[Side 184]
+Samtidig mener utvalget at det bør kunne stilles spesifikke forskningskrav til institusjonene som frivillig deltar i den statlige kompetansemodellen. Formålet med disse ordningene er å finansiere tiltak for kompetanseutvikling som kan utvikle praksisen i barnehager og skoler. Etter utvalgets vurdering er det derfor rimelig å sette som premiss at det faglige innholdet som tiltakene bygger på, har en dokumentert effekt på elevenes utvikling og læring. Utvalget mener det er vanskelig å kreve at selve tilbudene om kompetanseutvikling fra institusjonene har en dokumentert effekt på elevenes læring og utvikling. Det er metodisk krevende å isolere effekten av selve tilbudet for konkrete barn og elever, men det er mulig å kreve at det faglige innholdet som tilbudene bygger på kan dokumentere positive effekter på barn og elevers utvikling og læring. Samtidig mener utvalget at det er lite realistisk å pålegge et slik krav om effektdokumentasjon for hele kompetansemodellen på kort sikt, og anbefaler derfor at kravet innføres gradvis og blir fullt gjeldende fra 2025.
 
-182
+Utvalget mener at et krav om effektdokumentasjon innen 2025 vil skape større dynamikk mellom de statlige ordningene for kompetanseutvikling, universitets- og høyskolesektoren og instituttsektoren mer generelt. For eksempel bør det faglige innholdet i de ulike tilbudene som utvikles i den desentraliserte ordningen, over tid kunne prøves ut systematisk gjennom innovasjonsordningen, og legge til rette for at institusjonene videreutvikler tilbudene sine. Etter utvalgets vurdering vil et slikt krav styrke forskningsgrunnlaget for hele den statlige kompetansemodellen.
 
-Kapittel 13
+Utvalget mener at prinsippene for kompetansemodellen bør legges til grunn for statens styring på flere områder. Bevilgningen til Statlig spesialpedagogisk tjeneste (Statped) som er knyttet til kompetanseutvikling og forskning, er ikke knyttet til eller forankret i kompetansemodellen. Statped er et statlig forvaltningsorgan som skal støtte kommunenes tilbud til elever med særskilte behov og elever med spesialundervisning. Statped gjennomfører tiltak for kompetanseutvikling og forskningsprosjekter, men er ikke organisatorisk forankret i universitets- og høyskolesektoren eller instituttsektoren. Det betyr at Statped ikke er underlagt de samme reglene og normene for vitenskapelig kvalitet. Utvalget mener derfor at ansvaret for kompetanseutvikling og forskning i Statped bør overføres til utvalgte institusjoner i universitets- og høyskolesektoren. Etter utvalgets vurdering vil dette heve kvaliteten på tiltak for kompetanseutvikling, men også være positivt for hele det spesialpedagogiske fagområdet.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-Kunnskapsgrunnlaget viser at kjønnsforskjeller i språkutvikling og sosiale og emosjonelle
-ferdigheter oppstår blant barn allerede i barnehagealder. Etter rammeplanen skal barnehagene
-legge til rette for god språkstimulering av alle
-barn, der barna skal få delta i aktiviteter som
-fremmer kommunikasjon og en helhetlig språkutvikling. Samtidig har norske barnehager et stort
-innslag av frilek og valgfrie aktiviteter. En norsk
-studie finner at barn med bedre språkferdigheter
-er mer interesserte, og deltar i større grad, i
-språkaktiviteter i barnehagen enn barna med dårligere språkferdigheter. Guttene er overrepresentert i gruppen som i større grad velger bort språkaktiviteter i barnehagen (Stangeland mfl., 2018).
-Internasjonal forskning viser tilsvarende at et
-stort innslag av valgfrie aktiviteter i barnehagen
-bidrar til kjønnsforskjeller i utviklingen av språkferdigheter, ettersom gutter og jenter velger å
-bruke tiden i barnehagen ulikt (Early mfl., 2010).
-Utvalget mener derfor at rammeplanen for
-barnehagen bør presisere at aktiviteter som barnehagene allerede gjennomfører på områder som
-språk og kommunikasjon ikke alltid skal være
-valgfrie for barna å delta i. Ettersom barnehagene
-allerede gjennomfører slike aktiviteter som en
-naturlig del av barnehagehverdagen vil det ikke
-være krevende å innføre forslaget. Samtidig kan
-forslaget ha positive effekter på barns læring og
-utvikling ettersom det gjøres eksplisitt at barn
-ikke alltid kan velge bort aktiviteter knyttet til
-språkutvikling. Utvalget mener også at rammeplanen bør tydeliggjøre hvordan utvikling av barnas
-sosiale og emosjonelle kompetanse kan fremme
-læring, for eksempel gjennom å øve opp evnen til
-selvregulering.
-For å ivareta barn med større sannsynlighet
-for negativ utvikling mener utvalget videre at det
-er behov for å styrke det spesialpedagogiske tilbudet for barn under opplæringspliktig alder.
-Forskning antyder at vanskebildet til barn som
-mottar spesialpedagogisk hjelp hovedsakelig kjennetegnes av språk- og kommunikasjonsvansker
-og deretter av psykososiale vansker og atferdsvansker (Nordahl mfl., 2018). Kunnskapsgrunnlaget om effekten av det spesialpedagogiske tilbudet for norske barn under opplæringspliktig alder
-er svakt, men internasjonal forskning gir grunn til
-å forvente at særskilte støttetilbud til utsatte grupper barn i barnehagealder har stort potensial til å
-styrke barns faglige og sosiale utvikling gjennom
-opplæringsløpet. Ekspertgruppen for barn og
-unge med behov for særskilt tilrettelegging peker
-på at det spesialpedagogiske tilbudet i norske barnehager ofte organiseres utenfor barnehagefelles-
-
-skapet, der oppleggene blir fragmenterte og satt
-lite i sammenheng med det pedagogiske arbeidet
-for hele barnegruppen. Flere steder er det en
-utbredt «vente-og-se-holdning» (Nordahl mfl.,
-2018).
-Etter utvalgets vurdering er det kvaliteten på
-det spesialpedagogiske tilbudet som er avgjørende for barns utvikling, snarere enn regelverket
-for saksbehandling av vedtak om spesialpedagogisk hjelp. Utvalget foreslår derfor at det innføres
-et lovkrav om at enkeltvedtak om spesialpedagogisk hjelp for barn under opplæringspliktig alder
-utløser rett til spesialpedagogisk hjelp fra personell med relevant pedagogisk eller spesialpedagogisk kompetanse i 80 prosent av timene som vedtaket omfatter. Utvalget mener det bør utredes
-nærmere hvilke kompetansekrav som skal stilles
-til personalet som skal stå for den spesialpedagogiske hjelpen. Unntak fra kravet kan gjøres for
-oppgaver av rent praktisk karakter, for eksempel
-der barn med nedsatt funksjonsevne kan ha
-behov for fysisk assistanse.
-Samtidig mener utvalget at terskelen for å fatte
-enkeltvedtak om spesialpedagogisk hjelp bør
-være høy, og at barn i utgangspunktet bør tilbys
-støtte innenfor det ordinære barnehagetilbudet.
-Utvalget mener derfor at lovkravet bør presisere
-at barnehagen skal ha vurdert og eventuelt prøvd
-ut andre tiltak for å dekke barnets behov før det
-kan fattes et slikt enkeltvedtak.
-Kunnskapsgrunnlaget viser at aktiviteter for å
-utvikle språk og sosiale og emosjonelle ferdigheter i barnehagealder bidrar til å heve skoleprestasjoner senere i opplæringsløpet, og kan ha
-positive effekter også senere i livet. Selv om kunnskapsgrunnlaget er mindre entydig om hvordan
-slike tidlige intervensjoner påvirker kjønnsforskjeller i skoleprestasjoner, vurderer utvalget at
-forslagene til mindre endringer i rammeplanen
-kan komme særlig guttene til gode, ettersom gutter er overrepresentert blant barna som velger
-bort slike aktiviteter i dag. Etter utvalgets vurdering er det grunn til å tro at også forslaget om å
-heve kvaliteten på det spesialpedagogiske tilbudet
-før opplæringspliktig alder vil komme særlig gutter til gode, ettersom de trolig er overrepresentert
-blant barna som mottar tilbudet i dag.
 Utvalget anbefaler
-–
 
-innføre krav i barnehageloven om at barna til
-vanlig ikke skal organiseres i kjønnsinndelte
-grupper eller aktiviteter i barnehagen, og presisere i rammeplanen for barnehagen at barn
-skal få anledning til å reflektere over kjønnsrol-
+- innføre tydelige mål for læringsutbytte om kjønnsforskjeller og kjønnsstereotypier i rammeplanen for barnehagelærer- og grunnskolelærerutdanningene.
 
-[Side 185]
+- innføre krav i den statlige kompetansemodellen om at det faglige innholdet som tiltakene bygger på, kan dokumentere positive effekter på elevenes læring og utvikling.
 
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-–
-
-–
-
-ler, kjønnsmangfold og kjønnsstereotypiske
-forventninger.
-presisere i rammeplanen for barnehagen at
-ikke alle aktiviteter i barnehagen som fremmer
-kommunikasjon og språkutvikling skal være
-valgfrie å delta i for barna, og tydeliggjøre hvordan utvikling av barnas sosiale og emosjonelle
-kompetanse kan fremme læring.
-innføre lovkrav om at enkeltvedtak om spesialpedagogisk hjelp for barn under opplæringspliktig alder utløser rett til spesialpedagogisk
-hjelp fra personell med relevant pedagogisk
-eller spesialpedagogisk kompetanse i 80 prosent av timene som vedtaket omfatter. Regelverket skal presisere at barnehagen skal ha
-vurdert og eventuelt prøvd ut andre tiltak for å
-dekke barnets behov før det kan fattes slikt
-enkeltvedtak.
+- overføre oppgaver og ressurser knyttet til forskning og kompetanseutvikling i Statlig spesialpedagogisk tjeneste til enkelte universiteter eller høyskoler.
 
 Særmerknader
-Utvalgsmedlem Kirkebirkeland mener det i tillegg
-bør systematisk prøves ut obligatoriske, lekbaserte aktiviteter for å utvikle språk, matematikk
-og sosiale ferdigheter for barn i alderen 3–4 år i et
-begrenset antall timer per uke. Etter dette utvalgsmedlemmets vurdering er det behov for å få mer
-kunnskap om effektene av spesifikke, obligatoriske aktiviteter i barnehagen som kan gi barn et
-likere faglig og sosialt utgangspunkt i det de starter på grunnskolen. Dette medlemmet mener
-slike aktiviteter kan gjennomføres uten å rokke
-ved barnehagens egenart, der frilek og valgfrihet
-skal være bærende elementer i barnehagetilbudet.
 
-13.2 Pedagogiske sammenhenger
-mellom barnehage og skole
-I de fleste utdanningssystemer innebærer overgangen fra barnehage til skole et skifte i pedagogisk tilnærming til læring. Dette kan være en brå
-overgang for mange barn, og forskning viser at
-dette i særlig grad slår negativt ut for gutter (Borgonovi mfl., 2018).
-I en norsk undersøkelse av hvordan pedagogiske ledere, førsteklasselærere og SFO-ledere
-arbeider for en bedre sammenheng mellom barnehage og skole, finner Hogsnes og Moser (2014)
-at det er utfordrende å forberede barna i barnehagen på innhold og arbeidsmetoder i skolen. En
-undersøkelse viser videre at 61 prosent av
-lærerne mener at dagens undervisning på 1. trinn
-i liten grad har innslag av pedagogikken i barne-
-
-183
-
-Kapittel 13
-
-hagen og lekbasert læring. Omtrent 67 prosent av
-lærerne er helt eller delvis enige i at overgangen
-fra barnehage til skole har vært vanskelig for
-mange av seksåringene de har undervist (Ridar,
-Ertesvåg & Christiansen, 2018). På den annen
-side viser en undersøkelse av elever i Hedmark at
-førsteklassinger har like høy trivsel som barn som
-går i barnehage. Det er kun 2,2 prosent av førsteklassingene som uttrykker at de til en viss grad
-ikke liker seg på skolen, og et stort flertall oppgir
-at de har et godt forhold til læreren, til sine medelever og at de liker å lære (Nordahl, 2018).
-Utvalgets vurderinger
-Utvalget vurderer at det er flere muligheter innenfor dagens utdanningsstruktur til å skape bedre
-pedagogiske sammenhenger mellom barnehagetilbudet og grunnskolen.
-Kunnskapsgrunnlaget viser at kjønnsforskjeller i språkutvikling og sosiale og emosjonelle
-ferdigheter oppstår blant barn allerede i barnehagealder, og at aktiviteter for å utvikle språk og
-sosiale og emosjonelle ferdigheter i barnehagealder kan bidra til å heve skoleprestasjonene senere
-i opplæringsløpet. I norske barnehager i dag er
-det relativt utbredt å ha egne grupper for femåringer, der man samler barna i mellom én til fem
-timer per uke for ulike skoleforberedende aktiviteter (Rambøll, 2010). Agderprosjektet ved Universitetet i Stavanger og Universitetet i Agder har
-som mål å gi barna samme læringsgrunnlag ved
-skolestart ved å stimulere femåringers sosiale
-ferdigheter, selvregulering, språk og matematikk
-gjennom førskoleaktiviteter minst to timer fire
-dager i uken. Det er foreløpig for tidlig i prosjektperioden til at prosjektet har publiserte resultater.
-I flere andre land finnes det strukturerte pedagogiske praksiser for denne aldersgruppen, blant
-annet gjennom organiserte førskoleprogram.
-For å skape bedre pedagogisk sammenheng
-mellom barnehage og skole er dermed en mulighet å innføre liknende førskoletilbud i Norge.
-Samtidig kan organiserte førskoletilbud bryte
-med viktige prinsipper og verdier knyttet til barndommens egenart, og vektleggingen av barns
-undring og lek som egenverdi. I stedet for å gjøre
-overgangen til grunnskolen mykere, er det en
-risiko for at et førskoletilbud gjør tiden før skolestart mer utfordrende for noen barn, kanskje særlig dersom førskoletilbudet har stort innslag av
-læringsaktiviteter. Utvalget vurderer likevel i sum
-at det veier tyngre at det er potensial for positive
-virkninger på barns utvikling og læring av å innføre et førskoletilbud nasjonalt, og at det er mulig
-
-[Side 186]
-
-184
-
-Kapittel 13
-
-NOU 2019: 3
-Nye sjanser – bedre læring
-
-at tilbudet kan virke utjevnende for grupper av
-barn etter sosial klasse og kjønn.
-Utvalget foreslår derfor en kommunal plikt til
-å tilby gratis førskole med minst fem timer lekbaserte læringsaktiviteter i uken for alle femåringer.
-Hensikten vil være å forberede barna bedre på
-skolehverdagen som møter dem året etter når de
-begynner på skolen. Etter utvalgets vurdering er
-det foreslåtte antallet timer med læringsaktiviteter
-forholdsvis moderat, slik at risikoen for at tilbudet
-vil være belastende for enkelte barn reduseres.
-Mesteparten av dagen i barnets hverdag vil være
-åpen for frilek og andre aktiviteter. Tilbudet skal
-heller ikke være obligatorisk, slik at det vil være
-mulig for familier som ikke ønsker at barnet skal
-delta i førskoletilbudet å velge dette bort. Med forslaget vil kommunene stå fritt til å organisere tilbudet på ulike måter, og førskoletilbudet vil være
-uavhengig av det ordinære barnehagetilbudet.
-Forslaget innebærer dermed ikke at rammeplanen for barnehagen må endres. For at tiltaket ikke
-skal føre til store lokale kvalitetsforskjeller i tilbudet, bør det innføres en egen rammeplan med fagområder som konkretiserer hva førskoletilbudet
-skal inneholde. Førskoletilbudet skal være gratis
-og også gjelde for barn som ikke går i barnehagen. Utvalget vurderer at forslaget dermed kan
-være spesielt nyttig, ettersom det kan treffe barn
-fra familier som av ulike grunner ikke benytter
-seg av barnehagetilbudet.
-Med skolereformen Kunnskapsløftet ble grunnleggende ferdigheter integrert i læreplanene for
-alle fag, og arbeidet med å utvikle elevenes grunnleggende ferdigheter skulle starte på 1. trinn av
-grunnskolen. Det nåværende læreplanverket for
-grunnskolen angir imidlertid kun kompetansemål
-for 2. trinn. Det er dermed opp til skolene å
-bestemme hvordan opplæringen skal legges opp
-på 1. trinn for at elevene skal oppnå kompetansemålene på 2. trinn.
-For å skape en mykere overgang fra barnehagen til grunnskolen er dermed en annen mulighet
-å utvikle en rammeplan for 1. trinn etter prinsippene for rammeplanen for barnehagen. En slik
-løsning vil bryte med prinsippene for læreplanverket for resten av grunnskolen, men vil åpne for
-føringer om at undervisningen på 1. trinn skal
-kjennetegnes av en aktiv og lekbasert tilnærming
-til læring.
-En fordel ved et slikt tiltak er at den pedagogiske inngangen til læring på 1. trinn blir mer
-gjenkjennbar for barna fra læringsaktiviteter i barnehagen. Med Reform 97 begynte seksåringene
-på skolen. Kritikere mener at seksårsreformen
-kombinert med Kunnskapsløftet har utsatt barna
-
-for læringsmål og teoretisk undervisning i for ung
-alder, og at enkelte barn, og kanskje særlig gutter,
-ikke er klare for skolen det året de fyller seks år.
-Fra og med Kunnskapsløftet har andelen vedtak
-om spesialundervisning som gjelder gutter ligget
-stabilt på rundt 70 prosent på 1. trinn. Tilsvarende
-andel for hele grunnskolen er noe lavere. Skoleåret 2018–2019 var 70,4 prosent av de som mottok
-spesialundervisning på 1. trinn gutter, mens gutteandelen av de som mottok spesialundervisning på
-hele grunnskolen samlet var på 67,7 prosent
-(Utdanningsdirektoratet, 2018b).
-Etter utvalgets vurdering er det likevel en
-betydelig risiko for at en rammeplan med fagområder som er mindre detaljerte og førende enn
-læreplanverkets kompetansemål, bidrar til mindre
-læring i starten av grunnskolen enn i dag. En slik
-rammeplan vil ha flere likhetstrekk med læreplanen for Reform 97, der opplæringen på småskoletrinnet skulle bygge både på barnehagens og skolens tradisjoner, med en gradvis inngang til læring
-gjennom lek og aldersblandede aktiviteter. En evaluering av reformen fant imidlertid at det ofte
-manglet klare mål for de undervisningsrettede
-aktivitetene og at omfanget av systematisk opplæring i grunnleggende lese- og regneferdigheter
-var forholdsvis lite (Klette, 2003). PIRLS-undersøkelsen fra 2001 viste at annenhver lærer på 4. trinn
-hadde som en av sine undervisningsstrategier å
-«vente på elevens modning» hvis eleven hang
-etter i leseutviklingen (Mullis, 2003). En studie
-viser også at Reform 97 hverken hadde positive
-eller negative effekter på karakterer på ungdomstrinnet og gjennomføring av videregående opplæring (N. Drange, Havnes & Sandsør 2012). Siden
-Kunnskapsløftet ble innført har både gutter og
-jenters leseferdigheter på 4. trinn økt vesentlig.
-Kjønnsforskjellene har ikke blitt mindre, men de
-har heller ikke økt (Borgonovi mfl., 2018).
-Utvalget mener videre at det er trolig at en
-rammeplan for 1. trinn vil medføre betydelige
-kostnader for å kunne implementeres på en god
-måte. Det er lite trolig at lekbasert læring kan
-gjennomføres som tradisjonell klasseromsundervisning. Antageligvis vil mye av formålet med å
-introdusere en rammeplan gå tapt om den ikke
-følges av en endring av undervisningssituasjonen
-i klasserommet til en læringssituasjon som i
-større grad tar utgangspunkt i individuelle aktiviteter. Det betyr at bemanningen trolig bør være
-vesentlig høyere enn i dag, med flere lærere eller i
-det minste assistenter tilstede i klasserommet.
-Et liknende tiltak kan være å innføre en læreplan for 1. trinn med kompetansemål som er i tråd
-med prinsippene for grunnskolens læreplanverk.
+*Utvalgsmedlemmer Fylling*, *Hausstätter* og *Monsen* peker på at universitetene og høyskolene er ansvarlige for det faglige innholdet i kompetanseutvikling, og mener at det er lite som tyder på at deres faglige vurderinger og bruk av forskning ikke er en sentral del av det tilbudet som gis i dag. Om det skal stilles dokumentasjonskrav på effekt av det faglige innholdet, vil dette i verste fall medføre at kunnskap som læreren bruker i skolen, men som ikke kan måles eller forskes på, vil bli fjernet av universitetene og høyskolene. Den negative effekten av forslaget vil da kunne være et smalere tilbud om etter- og videreutdanning for ansatte i barnehager og skoler. Disse utvalgsmedlemmene kan ikke slutte seg til forslaget om et dokumentasjonskrav om effekt av det faglige innholdet i tilbud om kompetanseutvikling.
