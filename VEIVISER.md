@@ -352,7 +352,7 @@ Teksten fra PDF-en har et merke, `[Side N]`, der hver side begynner. Lenken til 
 | 2015 | Prop. 115 L (2014-2015) | Proposisjonen inneholder forslag til endringer i folketrygdlovens regler om stønader til enslig mor eller far. Det ene formålet med endringsforslagene er å forenkle regelverket og gjøre bestemmelsene lettere tilgjengelig | `dokumenter/proposisjoner/2015/07005d3f-prop-115-l-2014-2015.md` |
 | 2015 | Prop. 11 L (2015–2016) | Proposisjonen omhandler forslag om økt grunnpensjon til gifte og samboende pensjonister, endringer i reglene om barnetillegg til uføre, endringer i dagpengeregelverket og endringer i reglene om supplerende stønad. Det fo | `dokumenter/proposisjoner/2015/0cc49a31-prop-11-l-20152016.md` |
 
-### Tildelingsbrev (648)
+### Tildelingsbrev (650)
 
 Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mottakere`) for å finne brevene til én mottaker. Brev og tillegg per mottaker og budsjettår:
 
@@ -360,7 +360,7 @@ Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mo
 |---|---|---|
 | Utdanningsdirektoratet | 107 | 2021 (41), 2022 (34), 2023 (9), 2024 (7), 2025 (11), 2026 (5) |
 | Direktoratet for høyere utdanning og kompetanse | 61 | 2020 (12), 2021 (13), 2022 (13), 2023 (6), 2024 (4), 2025 (8), 2026 (5) |
-| NAV Arbeids- og velferdsetaten | 43 | 2020 (8), 2021 (4), 2022 (12), 2023 (7), 2024 (6), 2025 (5), 2026 (1) |
+| NAV Arbeids- og velferdsetaten | 45 | 2020 (8), 2021 (4), 2022 (12), 2023 (7), 2024 (6), 2025 (5), 2026 (3) |
 | Integrerings- og mangfoldsdirektoratet | 41 | 2020 (5), 2021 (7), 2022 (9), 2023 (8), 2024 (8), 2025 (4) |
 | Arbeidstilsynet | 29 | 2020 (7), 2021 (8), 2022 (5), 2024 (7), 2025 (2) |
 | Norges forskningsråd | 25 | 2021 (2), 2022 (6), 2023 (3), 2024 (3), 2025 (6), 2026 (5) |
