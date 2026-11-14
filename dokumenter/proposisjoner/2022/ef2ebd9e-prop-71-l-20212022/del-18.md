@@ -1,1150 +1,1430 @@
-# Prop. 71 L (2021–2022), del 18 av 24 (side 186–198)
+# Prop. 71 L (2021–2022), del 18 av 23
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/ef2ebd9e-prop-71-l-20212022.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-71-l-20212022/id2905998/
 - Original-PDF: https://www.regjeringen.no/contentassets/479b9006cd88495fa6c0564883b7dfda/no/pdfs/prp202120220071000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 186]
-
-184
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-2021–2022
-
-en ordning for ytelser ved arbeidsløshet i den
-medlemsstaten, registrere seg ved og stille
-seg til rådighet for arbeidsformidlingen i medlemsstaten der han/hun sist drev selvstendig
-virksomhet og, når han/hun søker om ytelser,
-fortsette å overholde vilkårene i sistnevnte
-medlemsstats lovgivning. Den helt arbeidsløse
-kan i tillegg stille seg til rådighet for arbeidsformidlingen i bostedsstaten.
-2. Ytelser til den helt arbeidsløse som er nevnt i
-nr. 1, skal gis av den medlemsstat hvis lovgivning han/hun sist var undergitt, i samsvar
-med lovgivningen som den medlemsstaten
-anvender.
-3. Dersom den helt arbeidsløse som er nevnt i nr.
-1, ikke ønsker å stille seg til rådighet eller fortsatt være til rådighet for arbeidsformidlingen i
-medlemsstaten der han/hun sist drev selvstendig virksomhet, etter å ha blitt registrert
-der, og ønsker å søke arbeid i bostedsstaten,
-skal artikkel 64 gjelde tilsvarende, med unntak
-av artikkel 64 nr. 1 bokstav a). Den kompetente institusjon kan forlenge tidsrommet som
-er nevnt i artikkel 64 nr. 1 bokstav c) første
-punktum, inntil det tidspunkt retten til ytelser
-bortfaller.
-
-skal imidlertid først motta ytelser i samsvar
-med artikkel 64 når han/hun reiser tilbake
-til bostedsstaten, ettersom mottak av
-ytelser i samsvar med bokstav a) stanses
-midlertidig i det tidsrom han/hun mottar
-ytelser etter lovgivningen han/hun sist var
-undergitt.
-6. Ytelser som gis av institusjonen på bostedet i
-henhold til nr. 5, skal fortsatt dekkes av den.
-Den kompetente institusjon i den medlemsstat
-hvis lovgivning han/hun sist var undergitt,
-skal imidlertid gi institusjonen på bostedet full
-refusjon for ytelser sistnevnte institusjon har
-gitt i løpet av de tre første månedene, med forbehold for nr. 7. Beløpet som refunderes i
-dette tidsrommet, kan ikke være høyere enn
-beløpet som skal utbetales ved arbeidsløshet
-etter den kompetente medlemsstats lovgivning. I tilfellet nevnt i nr. 5 bokstav b) skal tidsrommet da det gis ytelser etter artikkel 64,
-trekkes fra tidsrommet nevnt i dette nummer
-annet punktum. Bestemmelser om refusjon
-skal fastsettes i gjennomføringsforordningen.
-7. Tidsrommet for refusjon som er nevnt i nr. 6,
-skal imidlertid forlenges til 5 måneder når den
-berørte personen i løpet av de foregående 24
-måneder har tilbakelagt tid med lønnet arbeid
-eller tid med selvstendig virksomhet av minst
-12 måneders varighet i den medlemsstat hvis
-lovgivning han/hun sist var undergitt, dersom
-disse tidsrom ville gitt rett til ytelser ved
-arbeidsløshet.
-8. Ved anvendelse av nr. 6 og 7 kan to eller flere
-medlemsstater eller deres kompetente
-myndigheter fastsette andre refusjonsmåter
-eller gi avkall på all refusjon mellom institusjoner som er underlagt deres myndighet.
-
-Når gjeldende lovgivning setter tilbakelagt trygdetid, tid med lønnet arbeid eller tid med selvstendig virksomhet som et vilkår for rett til ytelser ved
-tidligpensjonering, får artikkel 6 ikke anvendelse.
-
-Artikkel 65a
-
-Kapittel 8
-
-Særlige bestemmelser for helt arbeidsløse
-grensearbeidere som er selvstendig næringsdrivende, når bostedsstaten ikke har en ordning
-for ytelser ved arbeidsløshet for selvstendig
-næringsdrivende
-
-Familieytelser
-
-1. Som unntak fra artikkel 65 skal en helt
-arbeidsløs person som er grensearbeider og
-nylig har tilbakelagt trygdetid som selvstendig
-næringsdrivende eller tid med selvstendig
-virksomhet som er anerkjent for det formål å
-gi ytelser ved arbeidsløshet i en annen medlemsstat enn hans/ hennes bostedsstat, og
-hvis bostedsstat har gitt melding om at det
-ikke er noen mulighet for at noen kategori av
-selvstendig næringsdrivende kan omfattes av
-
-En person skal ha rett til familieytelser i samsvar
-med den kompetente medlemsstats lovgivning,
-også for familiemedlemmer som er bosatt i en
-annen medlemsstat, som om de var bosatt i førstnevnte medlemsstat. En pensjonist skal imidlertid
-ha rett til familieytelser i samsvar med lovgivningen i den medlemsstat som er den kompetente
-medlemsstat med hensyn til hans/hennes pensjon.
-
-Kapittel 7
-Ytelser ved tidligpensjonering
-Artikkel 66
-Ytelser
-
-Artikkel 67
-Familiemedlemmer bosatt i en annen medlemsstat
-
-[Side 187]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-Artikkel 68
-Prioriteringsregler ved sammenfall
-1. Når det gis ytelser etter mer enn én medlemsstats lovgivning for det samme tidsrom og for
-de samme familiemedlemmer, får følgende prioriteringsregler anvendelse:
-a) for ytelser som skal utbetales av mer enn én
-medlemsstat på forskjellig grunnlag, skal
-prioriteringen være som følger: i første
-rekke rettigheter på grunnlag av lønnet
-arbeid eller selvstendig virksomhet, deretter rettigheter på grunnlag av mottatt pensjon, og til slutt rettigheter på grunnlag av
-bosted,
-b) for ytelser som skal utbetales av mer enn én
-medlemsstat på samme grunnlag, skal prioriteringen fastsettes etter følgende tilleggskriterier:
-i) ved rettigheter på grunnlag av lønnet
-arbeid eller selvstendig virksomhet:
-barnas bosted, forutsatt at det utøves
-slik aktivitet der, og deretter, der det er
-relevant, det høyeste av ytelsesbeløpene fastsatt i de motstridende lovgivninger. I sistnevnte tilfelle skal utgiftene
-til ytelser deles i samsvar med kriterier
-fastsatt i gjennomføringsforordningen,
-ii) ved rettigheter på grunnlag av pensjon:
-barnas bosted, forutsatt at det skal utbetales en pensjon etter bostedets lovgivning, og deretter, der det er relevant,
-lengste trygdetid eller botid etter de
-motstridende lovgivninger,
-iii) ved rettigheter på grunnlag av bosted:
-barnas bosted.
-2. Ved samtidig rett til ytelser skal familieytelser
-gis etter den lovgivning som har prioritet i
-samsvar med nr. 1. Rett til familieytelser i henhold til annen motstridende lovgivning skal
-midlertidig stanses opp til det beløp som er
-fastsatt i førstnevnte lovgivning, og om nødvendig skal det gis et tillegg for den overskytende delen. Det er imidlertid ikke nødvendig
-å gi et slikt tillegg for barn som er bosatt i en
-annen medlemsstat, når den aktuelle rettigheten utelukkende gis på grunnlag av bosted.
-3. Dersom det i henhold til artikkel 67 sendes
-søknad om familieytelser til den kompetente
-institusjon i en medlemsstat hvis lovgivning får
-anvendelse, men ikke har prioritet i samsvar
-med nr. 1 og 2 i denne artikkel,
-a) skal den institusjonen umiddelbart oversende søknaden til den kompetente institu-
-
-185
-
-sjon i den medlemsstat hvis lovgivning får
-anvendelse og har prioritet, underrette den
-berørte personen om dette og, uten at det
-berører bestemmelsene i gjennomføringsforordningen om midlertidig tilståelse av
-ytelser, om nødvendig gi tillegg som nevnt i
-nr. 2,
-b) skal den kompetente institusjon i den medlemsstat hvis lovgivning får anvendelse og
-har prioritet, behandle søknaden som om
-det var søkt direkte til den, og søknaden
-skal anses innlevert til institusjonen med
-prioritet på samme dato som den ble innlevert til den første institusjonen.
-Artikkel 68a
-Utbetaling av ytelser
-Dersom den person som familieytelser utbetales
-til, ikke anvender ytelsene til underhold av sine
-familiemedlemmer, skal den kompetente institusjon på anmodning fra og gjennom institusjonen i
-deres bostedsstat eller den institusjon eller det
-organ som er utpekt for formålet av den kompetente myndighet i deres bostedsstat, utøve sin forpliktelse ved å utbetale disse ytelsene til den
-fysiske eller juridiske person som faktisk underholder familiemedlemmene.
-Artikkel 69
-Tilleggsbestemmelser
-1. Dersom det etter lovgivningen som det vises
-til i artikkel 67 og 68, ikke foreligger rett til
-utbetaling av ekstra eller særlige familieytelser
-til barn som har mistet en eller begge foreldre,
-skal slike ytelser utbetales automatisk og som
-et tillegg til de øvrige familieytelser som er
-ervervet i samsvar med lovgivningen nevnt
-over, etter den medlemsstatens lovgivning
-som den avdøde arbeidstakeren var undergitt
-lengst, dersom rettigheten ble ervervet etter
-den lovgivningen. Dersom det ikke er ervervet noen rettighet etter den lovgivningen, skal
-det undersøkes om vilkårene for ervervelse av
-slike rettigheter etter de øvrige medlemsstaters lovgivning er til stede, og ytelsene skal gis
-ut fra lengden av trygdetid eller botid tilbakelagt etter disse medlemsstaters lovgivning, i
-synkende rekkefølge.
-2. Ytelser som utbetales som pensjon eller pensjonstillegg, skal gis og beregnes i samsvar
-med kapittel 5.
-
-[Side 188]
-
-186
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-2021–2022
-
-Kapittel 9
-
-Avdeling IV
-
-Særlige, ikke-avgiftsbaserte kontantytelser
-Artikkel 70
-
-Den administrative kommisjon og den
-rådgivende komité
-
-Alminnelig bestemmelse
-
-Artikkel 71
-
-1. Denne artikkel får anvendelse på særlige,
-ikke-avgiftsbaserte kontantytelser som gis
-etter lovgivning som på grunn av personene
-som omfattes, målene og/eller vilkårene for
-rett til ytelser, har trekk både fra trygdelovgivningen nevnt i artikkel 3 nr. 1 og fra sosialhjelp.
-2. I dette kapittel menes med «særlige, ikkeavgiftsbaserte kontantytelser» ytelser som
-a) har til formål enten
-i) å supplere, erstatte eller gi et tillegg til
-dekning av risiko som omfattes av de
-deler av trygdesystemet som er nevnt i
-artikkel 3 nr. 1, og som sikrer de
-berørte personer en minsteinntekt til
-livsopphold i lys av de økonomiske og
-sosiale forholdene i den berørte medlemsstat,
-eller
-ii) utelukkende å sikre et særlig vern for
-personer med nedsatt funksjonsevne,
-noe som er nært knyttet til den berørte
-personens sosiale forhold i den berørte
-medlemsstat,
-og
-b) utelukkende finansieres ved pliktig skatt til
-dekning av generelle offentlige utgifter, og
-der vilkårene for å tilstå og beregne ytelser
-ikke er avhengig av avgiftsbetaling fra mottakerens side. Ytelser som gis som tillegg
-til en avgiftsbasert ytelse, skal imidlertid
-ikke anses som avgiftsbaserte ytelser bare
-av denne grunn,
-og
-c) er oppført i vedlegg X.
-3. Artikkel 7 og de øvrige kapitler i denne avdeling får ikke anvendelse på ytelser nevnt i nr. 2
-i denne artikkel.
-4. Ytelser nevnt i nr. 2 skal utelukkende gis i de
-berørte personenes bostedsstat, i samsvar
-med dens lovgivning. Slike ytelser skal gis og
-dekkes av institusjonen på bostedet.
-
-Den administrative kommisjons sammensetning
-og arbeidsmetoder
-1. Den administrative kommisjon for koordinering av trygdeordninger (heretter kalt Den
-administrative kommisjon), som er tilknyttet
-Europakommisjonen, skal bestå av én regjeringsrepresentant fra hver av medlemsstatene,
-eventuelt bistått av tekniske rådgivere. En
-representant for Europakommisjonen skal
-delta på møtene i Den administrative kommisjon med status som rådgiver.
-2. Den administrative kommisjon skal treffe
-avgjørelser ved kvalifisert flertall som definert
-i traktatene, unntatt når den fastsetter sine
-vedtekter, som skal utarbeides etter felles
-overenskomst mellom dens medlemmer.
-Beslutninger i fortolkningsspørsmål som
-nevnt i artikkel 72 bokstav a) skal offentliggjøres i den grad det er nødvendig.
-3. Europakommisjonen skal ivareta sekretariatsoppgavene for Den administrative kommisjon.
-Artikkel 72
-Den administrative kommisjons oppgaver
-Den administrative kommisjon skal
-a) behandle alle administrative spørsmål og fortolkningsspørsmål som oppstår som en følge
-av bestemmelsene i denne forordning eller
-gjennomføringsforordningen, eller som en
-følge av enhver avtale eller ordning som inngås innenfor rammen av disse forordningene,
-uten at dette berører den rett som de berørte
-myndigheter, institusjoner og enkeltpersoner
-har til å benytte seg av de rettergangsmåter og
-domstoler som er angitt i medlemsstatenes
-lovgivning, i denne forordning eller i traktaten,
-b) legge til rette for en enhetlig anvendelse av fellesskapsretten, framfor alt ved å fremme
-utveksling av erfaringer og beste administrativ
-praksis,
-c) fremme og utvikle samarbeid mellom medlemsstatene og deres institusjoner i trygdesaker, blant annet for å kunne ta opp bestemte
-spørsmål om visse persongrupper, og lette
-gjennomføringen av samarbeidstiltak over
-grensene med henblikk på koordinering av
-trygdeordningene,
-
-[Side 189]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-d) så langt det er mulig oppmuntre til bruk av ny
-teknologi for å lette fri bevegelighet for personer, særlig ved å modernisere framgangsmåtene for utveksling av opplysninger og tilpasse
-informasjonsstrømmen mellom institusjonene
-med sikte på elektronisk utveksling, samtidig
-som det tas hensyn til utviklingen innen databehandling i den enkelte medlemsstat. Den
-administrative kommisjon skal vedta felles
-regler for strukturen i datatjenestene, særlig
-med hensyn til sikkerhet og bruk av standarder, og skal fastsette bestemmelser om driften
-av den delen av disse tjenestene som er felles,
-e) påta seg alle andre oppgaver som hører under
-dens myndighetsområde etter denne forordning og gjennomføringsforordningen eller
-etter avtaler eller ordninger inngått innenfor
-rammen av disse forordningene,
-f) legge fram relevante forslag om koordineringen av trygdeordninger for Europakommisjonen for å forbedre og modernisere gjeldende
-fellesskapsrett gjennom å utarbeide nye forordninger eller ved å benytte andre instrumenter omhandlet i traktaten,
-g) fastsette hvilke faktorer som skal legges til
-grunn for regnskapsføringen av utgifter som
-skal dekkes av medlemsstatenes institusjoner
-etter denne forordning, og foreta de årlige
-regnskapsoppgjør mellom disse institusjonene
-på grunnlag av rapporten fra revisjonsutvalget
-nevnt i artikkel 74.
-Artikkel 73
-Den tekniske komité for databehandling
-1. Det skal knyttes en teknisk komité for databehandling (heretter kalt Den tekniske komité)
-til Den administrative kommisjon. Den tekniske komité skal legge fram forslag for Den
-administrative kommisjon om felles arkitekturregler for driften av databehandlingstjenestene, særlig om sikkerhet og bruken av
-standarder. Den skal levere rapporter og avgi
-en grunngitt uttalelse før Den administrative
-kommisjon treffer beslutninger i henhold til
-artikkel 72 bokstav d). Den tekniske komiteens sammensetning og arbeidsmetoder skal
-fastsettes av Den administrative kommisjon.
-2. For dette formål skal Den tekniske komité
-a) innhente relevant teknisk dokumentasjon
-og utføre de undersøkelser og annet arbeid
-som er nødvendig for at den skal kunne
-utføre sine oppgaver,
-
-187
-
-b) legge fram for Den administrative kommisjon de rapporter og grunngitte uttalelser
-som er nevnt i nr. 1,
-c) utføre alle andre oppgaver og undersøkelser i saker den får seg forelagt av Den administrative kommisjon,
-d) sørge for styring av forsøksprosjekter i Fellesskapet om bruk av databehandlingstjenester og, for fellesskapsdelen, av driftssystemer for bruk av slike tjenester.
-Artikkel 74
-Revisjonsutvalget
-1. Det skal knyttes et revisjonsutvalg til Den
-administrative kommisjon. Revisjonsutvalgets
-sammensetning og arbeidsmetoder skal fastsettes av Den administrative kommisjon.
-Revisjonsutvalget skal
-a) kontrollere metoden som benyttes til å fastsette og beregne de årlige gjennomsnittskostnadene som medlemsstatene framlegger,
-b) innhente de nødvendige data og foreta de
-beregninger som kreves for å fastsette den
-enkelte medlemsstats årlige krav,
-c) gi Den administrative kommisjon jevnlig
-redegjørelse om resultatene av gjennomføringen av denne forordning og gjennomføringsforordningen, særlig med hensyn til
-de finansielle sidene,
-d) legge fram de data og rapporter som er nødvendige for at Den administrative kommisjon skal kunne fatte beslutninger i henhold
-til artikkel 72 bokstav g),
-e) legge fram relevante forslag for Den administrative kommisjon, herunder forslag
-som gjelder denne forordning, i forbindelse
-med bokstav a), b) og c),
-f) utføre alle arbeidsoppgaver, undersøkelser
-eller oppdrag i saker den får seg forelagt av
-Den administrative kommisjon.
-Artikkel 75
-Den rådgivende komité for koordinering av
-trygdeordninger
-1. Det nedsettes en rådgivende komité for koordinering av trygdeordninger (heretter kalt
-Den rådgivende komité) med følgende medlemmer fra hver medlemsstat:
-a) én regjeringsrepresentant,
-b) én fagforeningsrepresentant,
-c) én representant for arbeidsgiverorganisasjonene.
-
-[Side 190]
-
-188
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-For hver av disse gruppene skal det for
-hver medlemsstat oppnevnes et varamedlem.
-Den rådgivende komités medlemmer og varamedlemmer skal oppnevnes av Rådet. Den
-rådgivende komité skal ledes av en representant for Europakommisjonen. Den rådgivende
-komité skal fastsette sin forretningsorden.
-2. Den rådgivende komité skal på anmodning fra
-Europakommisjonen eller Den administrative
-kommisjon eller på eget initiativ ha myndighet
-til
-a) å drøfte spørsmål av generell eller prinsipiell art og problemer som oppstår som en
-følge av gjennomføringen av fellesskapsbestemmelsene om koordinering av trygdeordninger, særlig med hensyn til visse persongrupper,
-b) å avgi uttalelser om slike saker til Den
-administrative kommisjon og legge fram
-forslag til eventuelle endringer av disse
-bestemmelsene.
-Avdeling V
-Forskjellige bestemmelser
-Artikkel 76
-Samarbeid
-1. De kompetente myndigheter i medlemsstatene skal gi hverandre alle opplysninger om
-a) tiltak som treffes for å gjennomføre denne
-forordning,
-b) endringer i egen lovgivning som kan
-påvirke gjennomføringen av denne forordning.
-2. Ved anvendelse av denne forordning skal medlemsstatenes myndigheter og institusjoner
-bistå hverandre og opptre som om det var sin
-egen lovgivning de gjennomførte. Administrativ bistand fra disse myndigheter og institusjoner skal i prinsippet ytes vederlagsfritt. Den
-administrative kommisjon skal imidlertid fastsette hvilke utgifter som kan refunderes, og
-hvilke terskler som utløser refusjon.
-3. Ved anvendelse av denne forordning kan medlemsstatenes myndigheter og institusjoner ta
-direkte kontakt med hverandre og med de
-berørte personer eller deres representanter.
-4. Institusjoner og personer som omfattes av
-denne forordning, skal ha plikt til å utveksle
-informasjon og samarbeide for å sikre at
-denne forordning gjennomføres på riktig
-måte.
-Institusjonene skal i samsvar med prinsippet om god forvaltning besvare alle forespørs-
-
-2021–2022
-
-ler innen en rimelig frist og i den forbindelse gi
-de berørte personer alle opplysninger som er
-nødvendige for at de skal kunne utøve sine rettigheter etter denne forordning.
-De berørte personer skal så snart som mulig
-underrette institusjonene i den kompetente
-medlemsstat og i medlemsstaten der de bor om
-enhver endring i sin personlige situasjon eller
-familiesituasjon som har betydning for retten
-til ytelser etter denne forordning.
-5. Manglende oppfyllelse av opplysningsplikten
-nevnt i nr. 4 tredje ledd kan føre til at det treffes tiltak som står i forhold til overtredelsen og
-er i samsvar med nasjonal lovgivning. Disse tiltakene skal likevel tilsvare tiltak som anvendes
-i henhold til nasjonal lovgivning i liknende
-situasjoner, og skal ikke gjøre at det i praksis
-blir umulig eller uforholdsmessig vanskelig
-for søkere å utøve sine rettigheter etter denne
-forordning.
-6. Dersom det oppstår vanskeligheter med fortolkningen eller anvendelsen av denne forordning som kan true rettighetene til en person
-som omfattes av den, skal institusjonen i den
-kompetente medlemsstat eller i den berørte
-personens bostedsstat kontakte institusjonen
-eller institusjonene i den eller de berørte medlemsstater. Dersom det ikke blir funnet en løsning innen en rimelig frist, kan de berørte
-myndigheter be om at Den administrative
-kommisjon griper inn.
-7. En medlemsstats myndigheter, institusjoner
-og domstoler kan ikke avvise søknader eller
-andre dokumenter de får seg forelagt, med
-den begrunnelse at de er skrevet på en annen
-medlemsstats offisielle språk, når dette språket er godkjent som offisielt språk i Fellesskapets organer i samsvar med artikkel 290 i traktaten.
-Artikkel 77
-Vern av personopplysninger
-1. Når en medlemsstats myndigheter eller institusjoner oversender personopplysninger til en
-annen medlemsstats myndigheter eller institusjoner i samsvar med denne forordning eller
-gjennomføringsforordningen, skal oversendelsen være undergitt senderstatens personvernlovgivning. Enhver oversendelse fra mottakerstatens myndighet eller institusjon, samt lagring, endring og destruering av data utført av
-den medlemsstaten, skal være undergitt mottakerstatens personvernlovgivning.
-
-[Side 191]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-2. Opplysninger som er nødvendige for å kunne
-anvende denne forordning og gjennomføringsforordningen, skal oversendes fra en medlemsstat til en annen i samsvar med fellesskapsbestemmelsene om beskyttelse av
-fysiske personer i forbindelse med behandling
-og fri utveksling av personopplysninger.
-Artikkel 78
-Databehandling
-1. Medlemsstatene skal gradvis ta i bruk ny teknologi i forbindelse med utveksling av, tilgang
-til og behandling av opplysninger som er nødvendige for å kunne anvende denne forordning og gjennomføringsforordningen. Europakommisjonen skal støtte aktiviteter av felles
-interesse så snart medlemsstatene har opprettet slike databehandlingstjenester.
-2. Hver medlemsstat skal ha ansvar for å forvalte
-sin del av databehandlingstjenestene i samsvar
-med fellesskapsbestemmelsene om beskyttelse av fysiske personer i forbindelse med
-behandling og fri utveksling av personopplysninger.
-3. Et elektronisk dokument som sendes eller
-utstedes av en institusjon i samsvar med
-denne forordning og gjennomføringsforordningen, kan ikke avvises av en myndighet eller
-institusjon i en annen medlemsstat med den
-begrunnelse at det ble mottatt elektronisk,
-dersom mottakerinstitusjonen har erklært at
-den kan motta elektroniske dokumenter. Gjengivelsen og registreringen av slike dokumenter skal antas å være en korrekt og nøyaktig
-gjengivelse av originaldokumentet eller av den
-informasjon det inneholder, med mindre det
-motsatte blir bevist.
-4. Et elektronisk dokument skal anses som gyldig dersom datasystemet som inneholder
-dokumentet, har de sikkerhetsmekanismer
-som er nødvendige for å hindre enhver endring av, utlevering av eller uautorisert tilgang
-til dokumentet. Det skal til enhver tid være
-mulig å gjengi de registrerte opplysningene i
-en umiddelbart lesbar form. Når et elektronisk
-dokument overføres fra en trygdeinstitusjon
-til en annen, skal det treffes hensiktsmessige
-sikkerhetstiltak i samsvar med fellesskapsbestemmelsene om beskyttelse av fysiske personer i forbindelse med behandling og fri utveksling av personopplysninger.
-
-189
-
-Artikkel 79
-Finansiering av tiltak på trygdeområdet
-Europakommisjonen kan innenfor rammen av
-denne forordning og gjennomføringsforordningen helt eller delvis finansiere
-a) tiltak for å bedre utvekslingen av opplysninger
-mellom medlemsstatenes myndigheter og
-institusjoner på trygdeområdet, særlig den
-elektroniske utvekslingen av data,
-b) andre tiltak for å gi personer som omfattes av
-denne forordning, og deres representanter,
-informasjon om de rettigheter og plikter som
-følger av denne forordning, på den måte som
-er mest hensiktsmessig.
-Artikkel 80
-Fritak
-1. Fritak for eller reduksjon av avgifter, stempelavgifter, rettsgebyrer eller registreringsavgifter fastsatt i en medlemsstats lovgivning for
-bekreftelser eller dokumenter som kreves
-framlagt i henhold til lovgivningen i den medlemsstaten, skal utvides til også å omfatte tilsvarende bekreftelser eller dokumenter som
-kreves framlagt i henhold til en annen medlemsstats lovgivning eller i henhold til denne
-forordning.
-2. Erklæringer, dokumenter og bekreftelser av
-enhver art som kreves framlagt i henhold til
-denne forordning, skal være fritatt for legalisering foretatt av diplomatiske eller konsulære
-myndigheter.
-Artikkel 81
-Krav, erklæringer, klager eller anker
-Krav, erklæringer, klager eller anker som etter en
-medlemsstats lovgivning skulle vært framsatt
-innen en bestemt frist for en myndighet, institusjon eller domstol i den medlemsstaten, skal
-anses som lovformelig framsatt dersom de er
-framsatt innen samme frist for en tilsvarende myndighet, institusjon eller domstol i en annen medlemsstat. I dette tilfellet skal myndigheten, institusjonen eller domstolen som mottar nevnte krav,
-erklæringer, klager eller anker, umiddelbart oversende dem til den kompetente myndighet, institusjon eller domsmyndighet i førstnevnte medlemsstat, enten direkte eller via de kompetente
-myndigheter i den berørte medlemsstat. Slike
-krav, erklæringer, klager eller anker skal anses
-framsatt for den kompetente myndighet, institusjon eller domstol den dato de ble framsatt for en
-
-[Side 192]
-
-190
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-myndighet, institusjon eller domstol i den andre
-medlemsstaten.
-Artikkel 82
-Medisinske undersøkelser
-Medisinske undersøkelser som skal foretas i henhold til en medlemsstats lovgivning, kan på
-anmodning fra den kompetente institusjon utføres
-i en annen medlemsstat av institusjonen på søkerens eller den stønadsberettigedes bosted eller
-oppholdssted, på de vilkår som er fastsatt i gjennomføringsforordningen eller avtalt mellom de
-berørte medlemsstaters kompetente myndigheter.
-Artikkel 83
-Anvendelse av lovgivning
-Særlige bestemmelser om anvendelsen av visse
-medlemsstaters lovgivning er oppført i vedlegg
-XI.
-Artikkel 84
-Innkreving av avgifter og tilbakekreving av
-ytelser
-1. Innkreving av skyldige avgifter til en institusjon i en medlemsstat og tilbakekreving av
-ytelser som er uriktig utbetalt av en institusjon
-i en medlemsstat, kan foretas i en annen medlemsstat etter de framgangsmåter og med de
-garantier og fordeler som gjelder for innkreving av skyldige avgifter til og tilbakekreving
-av ytelser som er uriktig utbetalt av den tilsvarende institusjonen i sistnevnte medlemsstat.
-2. Rettskraftige
-avgjørelser
-truffet
-av
-rettsmyndigheter og forvaltningsmyndigheter
-om innkreving av avgifter, renter og andre
-omkostninger eller om tilbakekreving av uriktig utbetalte ytelser etter en medlemsstats lovgivning skal anerkjennes og fullbyrdes på
-anmodning fra den kompetente institusjon i en
-annen medlemsstat innenfor de rammer og
-etter de lovfestede og eventuelle andre framgangsmåter som gjelder for tilsvarende avgjørelser i den medlemsstaten. Slike avgjørelser
-skal erklæres rettskraftige i den medlemsstaten, i den utstrekning det kreves etter dens
-lovgivning og etter eventuelle andre framgangsmåter der.
-3. Ved inndrivning, konkurs eller akkord skal fordringer som en medlemsstats institusjon har i
-en annen medlemsstat, nyte godt av samme
-
-2021–2022
-
-fortrinnsrett som tilsvarende fordringer ville
-hatt etter sistnevnte medlemsstats lovgivning.
-4. Bestemmelser om gjennomføringen av denne
-artikkel, herunder refusjon av utgifter, skal
-fastsettes i gjennomføringsforordningen eller,
-ved behov og som et utfyllende tiltak, ved avtaler mellom medlemsstatene.
-Artikkel 85
-Institusjoners rettigheter
-1. Dersom en person mottar ytelser etter en
-medlemsstats lovgivning for en skade som
-skyldes forhold inntruffet i en annen medlemsstat, skal følgende regler gjelde for eventuelle krav fra institusjonen som har ansvar for
-å gi ytelser, overfor en erstatningsansvarlig
-tredjepart:
-a) når institusjonen som har ansvar for å gi
-ytelser, i samsvar med lovgivningen den
-anvender, inntrer i ytelsesmottakerens krav
-overfor tredjepart, skal hver medlemsstat
-anerkjenne denne inntreden,
-b) når institusjonen som har ansvar for å gi
-ytelser, har et selvstendig krav overfor tredjepart, skal hver medlemsstat anerkjenne
-dette krav.
-2. Dersom en person mottar ytelser etter en
-medlemsstats lovgivning for en skade som
-skyldes forhold inntruffet i en annen medlemsstat, skal de bestemmelser i nevnte lovgivning som avgjør i hvilke tilfeller arbeidsgivere eller deres ansatte er unntatt erstatningsansvar, få anvendelse med hensyn til denne
-person eller den kompetente institusjon.
-Nr. 1 får også anvendelse på krav fra institusjonen som har ansvar for å gi ytelser, overfor
-arbeidsgivere eller deres ansatte i tilfeller der
-deres erstatningsansvar ikke kan utelukkes.
-3. Når to eller flere medlemsstater eller deres
-kompetente myndigheter i samsvar med artikkel 35 nr. 3 og/eller artikkel 41 nr. 2 har inngått en avtale om å gi avkall på refusjon mellom institusjoner som er underlagt deres myndighet, eller når refusjonen ikke avhenger av
-ytelsesbeløp som faktisk er gitt, skal følgende
-regler gjelde for eventuelle krav overfor en
-erstatningsansvarlig tredjepart:
-a) når institusjonen i bostedsstaten eller oppholdsstaten tilstår ytelser til en person for
-en skade oppstått på dens territorium, skal
-den, i samsvar med lovgivningen den
-anvender, utøve retten til å inntre i skadelidtes krav eller gjøre et selvstendig krav
-
-[Side 193]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-gjeldende overfor en erstatningsansvarlig
-tredjepart,
-b) ved anvendelse av bokstav a)
-i) skal den som mottar ytelser, anses å ha
-trygdedekning hos institusjonen på
-bostedet eller oppholdsstedet,
-og
-ii) skal den institusjonen anses som den
-institusjon som har ansvar for å gi
-ytelser,
-c) nr. 1 og 2 skal fortsatt anvendes ved ytelser
-som ikke omfattes av en avtale om avkall på
-refusjon, eller ved en refusjon som ikke
-avhenger av ytelsesbeløpet som faktisk er
-gitt.
-Artikkel 86
-Bilaterale avtaler
-Med hensyn til forbindelsene mellom Luxembourg på den ene siden og Frankrike, Tyskland
-og Belgia på den andre siden skal anvendelsen av
-og varigheten av tidsrommet som er nevnt i artikkel 65 nr. 7, fastsettes i bilaterale avtaler.
-Avdeling VI
-Overgangsbestemmelser og sluttbestemmelser
-Artikkel 87
-Overgangsbestemmelser
-1. Denne forordning skal ikke gi rett til ytelser
-for tidsrommet før datoen for dens anvendelse.
-2. Enhver trygdetid og, der det er relevant,
-enhver tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som er tilbakelagt etter en medlemsstats lovgivning før
-datoen for anvendelse av denne forordning i
-den berørte medlemsstat, skal medregnes ved
-fastsettelse av rett til ytelser etter denne forordning.
-3. Med forbehold for nr. 1 kan en rettighet oppnås etter denne forordning selv om den gjelder
-et trygdetilfelle som er inntruffet før datoen
-for dens anvendelse i den berørte medlemsstat.
-4. Enhver ytelse som ikke er tilstått, eller som er
-midlertidig stanset, på grunn av den berørte
-personens statsborgerskap eller bosted, skal
-på anmodning fra den berørte personen gis
-eller gjenopptas med virkning fra datoen for
-anvendelse av denne forordning i den berørte
-medlemsstat, forutsatt at tidligere fastsatte rettigheter ikke har ført til en engangsutbetaling.
-
-191
-
-5. Rettighetene til en person som har fått tilstått
-pensjon før datoen for anvendelse av denne
-forordning i en medlemsstat, kan på anmodning fra den berørte personen vurderes på
-nytt, idet det tas hensyn til denne forordning.
-6. Dersom anmodningen nevnt i nr. 4 eller 5
-framsettes innen to år fra datoen for anvendelse av denne forordning i en medlemsstat,
-skal rettigheter oppnådd i samsvar med denne
-forordning få virkning fra den datoen, og en
-medlemsstats lovgivning om tap eller begrensning av rettigheter kan ikke gjøres gjeldende
-overfor de berørte personer.
-7. Dersom anmodningen nevnt i nr. 4 eller 5
-framsettes mer enn to år etter datoen for
-anvendelse av denne forordning i den berørte
-medlemsstat, skal rettigheter som ikke er tapt
-eller foreldet, få virkning fra den dato anmodningen ble framsatt, med forbehold for eventuelle gunstigere bestemmelser i en medlemsstats lovgivning.
-8. Dersom denne forordning fører til at en person omfattes av lovgivningen i en annen medlemsstat enn den som fastsettes i samsvar med
-avdeling II i forordning (EØF) nr. 1408/71, får
-den lovgivningen fortsatt anvendelse så lenge
-den relevante situasjonen forblir uendret og
-under alle omstendigheter i høyst 10 år fra
-denne forordnings anvendelsesdato, med mindre den berørte person anmoder om å bli
-omfattet av lovgivningen som får anvendelse i
-henhold til denne forordning. Anmodningen
-skal innen tre måneder etter denne forordnings anvendelsesdato, legges fram for den
-kompetente institusjon i den medlemsstat hvis
-lovgivning får anvendelse etter denne forordning, dersom den berørte person skal omfattes av den medlemsstatens lovgivning fra
-denne forordnings anvendelsesdato. Dersom
-anmodningen framsettes etter at denne fristen
-er utløpt, skal endringen av gjeldende lovgivning finne sted den første dag i måneden som
-følger.
-9. Artikkel 55 i denne forordning får bare anvendelse på pensjoner som ikke er undergitt artikkel 46c i forordning (EØF) nr. 1408/71 på
-datoen for anvendelse av denne forordning.
-10. Bestemmelsene i andre punktum i artikkel 65
-nr. 2 og 3 får anvendelse på Luxembourg innen
-to år etter datoen for anvendelse av denne forordning.
-Med hensyn til Liechtenstein skal bestemmelsene i annen setning i artikkel 65 nr. 2 og
-nr. 3 få anvendelse senest fra 1. mai 2012.
-
-[Side 194]
-
-192
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-10a.Oppføringene i vedlegg III som gjelder Estland, Spania, Italia, Litauen, Ungarn og Nederland, skal opphøre å gjelde 4 år etter denne forordnings anvendelsesdato.
-10b.Listen i vedlegg III skal gjennomgås senest
-31. oktober 2014 på grunnlag av en rapport fra
-Den administrative kommisjon. Rapporten
-skal inneholde en konsekvensanalyse av viktigheten, hyppigheten, omfanget og kostnadene, både i absolutte og relative tall, i forbindelse med anvendelsen av bestemmelsene i
-vedlegg III. Rapporten skal også omfatte de
-mulige virkningene av å oppheve disse
-bestemmelsene for de medlemsstater som
-fortsatt er oppført i nevnte vedlegg etter tidspunktet nevnt i nr. 10a. På grunnlag av denne
-rapporten skal Kommisjonen avgjøre om den
-skal framlegge et forslag om at listen gjennomgås, med sikte på i prinsippet å oppheve listen
-med mindre Den administrative kommisjons
-rapport inneholder overbevisende argumenter
-for ikke å gjøre det.
-11. Medlemsstatene skal sikre at det gis tilstrekkelige opplysninger om de endringer i rettigheter og plikter som innføres ved denne forordning og gjennomføringsforordningen.
-Artikkel 87a
-Overgangsbestemmelser for anvendelsen av
-forordning (EU) nr. 465/2012
-1. Dersom en person som, etter at forordning
-(EU) nr. 465/2012 er trådt i kraft, i samsvar
-med avdeling II i denne forordning omfattes av
-lovgivningen i en annen medlemsstat enn den
-medlemsstat hvis lovgivning gjaldt for vedkommende før ikrafttredelsen, skal sistnevnte
-lovgivning fortsatt gjelde for ham/henne i en
-overgangsperiode som varer så lenge som den
-aktuelle situasjonen er uendret, og under alle
-omstendigheter høyst ti år fra den dag forordning (EU) nr. 465/2012 trer i kraft. En slik person kan be om at overgangsperioden ikke lenger skal gjelde for ham/henne. Anmodningen
-skal legges fram for institusjonen som er
-utpekt av den kompetente myndighet i
-bostedsstaten. En anmodning som er lagt fram
-innen 29. september 2012, skal anses å få virkning 28. juni 2012. En anmodning som er lagt
-fram etter 29. september 2012, skal få virkning
-den første dag i måneden etter at anmodningen er lagt fram.
-2. Innen 29. juni 2014 skal Den administrative
-kommisjon evaluere gjennomføringen av
-bestemmelsene i artikkel 65a i denne forord-
-
-2021–2022
-
-ning og legge fram en rapport om anvendelsen. På grunnlag av denne rapporten kan
-Europakommisjonen, når det er hensiktsmessig, legge fram forslag til endring av disse
-bestemmelsene.
-Artikkel 88
-Ajourføring av vedleggene
-Vedleggene til denne forordning skal revideres
-jevnlig.
-Artikkel 89
-Gjennomføringsforordning
-Bestemmelser om gjennomføringen av denne forordning skal fastsettes i en senere forordning.
-Artikkel 90
-Oppheving
-1. Rådsforordning (EØF) nr. 1408/71 oppheves
-fra datoen for anvendelse av denne forordning.
-Forordning (EØF) nr. 1408/71 skal imidlertid forbli i kraft og fortsatt ha rettsvirkning med
-hensyn til
-a) Rådsforordning (EF) nr. 859/2003 av 14.
-mai 2003 om utvidelse av bestemmelsene i
-forordning (EØF) nr. 1408/71 og forordning (EØF) nr. 574/72 til å omfatte tredjestatsborgere som ikke allerede er omfattet av disse bestemmelser utelukkende på
-grunn av sin nasjonalitet6, så lenge den forordningen ikke er opphevet eller endret,
-b) Rådsforordning (EØF) nr. 1661/85 av 13.
-juni 1985 om tekniske tilpasninger til Fellesskapets regler om trygd for vandrearbeidere med hensyn til Grønland7, så lenge
-den forordningen ikke er opphevet eller
-endret,
-c) avtalen om Det europeiske økonomiske
-samarbeidsområde8 og avtalen om fri bevegelighet for personer mellom Det europeiske fellesskap og dets medlemsstater på
-den ene side og Det sveitsiske edsforbund
-på den annen side9 samt andre avtaler som
-inneholder en henvisning til forordning
-(EØF) nr. 1408/71, så lenge disse avtalene
-6
-7
-8
-9
-
-EUT L 124 av 20.5.2003, s. 1.
-EFT L 160 av 20.6.1985, s. 7.
-EFT L 1 av 3.1.1994, s. 1.
-EFT L 114 av 30.4.2002, s. 6. Avtalen sist endret ved beslutning nr. 2/2003 i Felleskomiteen EU-Sveits (EUT L 187 av
-26.7.2003, s. 55).
-
-[Side 195]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-ikke er endret på bakgrunn av denne forordning.
-2. Henvisninger til forordning (EØF) nr. 1408/71
-i rådsdirektiv 98/49/EF av 29. juni 1998 om
-trygging av rettane til supplerande pensjon for
-arbeidstakarar og sjølvstendig næringsdrivande som flyttar innanfor Fellesskapet10 skal
-forstås som henvisninger til denne forordning.
-Artikkel 91
-Ikrafttredelse
-Denne forordning trer i kraft den 20. dag etter at
-den er kunngjort i Den europeiske unions tidende.
-Den får anvendelse fra den dag gjennomføringsforordningen trer i kraft.
-Denne forordning er bindende i alle deler og
-kommer direkte til anvendelse i alle medlemsstater.
-Vedlegg I
-Bidragsforskudd og særlige stønader ved fødsel
-og adopsjon (Artikkel 1 bokstav z))
-
-193
-
-Spania
-Bidragsforskudd i henhold til kongelig dekret
-1618/2007 av 7. desember 2007.
-Frankrike
-Familiebidrag utbetalt til et barn når en eller
-begge foreldre unnlater eller er ute av stand til å
-oppfylle sin underholdsplikt eller betale et underholdsbidrag fastsatt ved en rettsavgjørelse.
-Kroatia
-Midlertidige forskudd utbetalt av sentre for sosial
-velferd på grunnlag av plikten til å utbetale midlertidig underholdsbidrag i henhold til familieloven
-(offisielt kunngjøringsblad 116/03, som endret)
-Litauen
-Utbetalinger fra fondet for underholdsbidrag til
-barn i henhold til lov om underholdsbidrag til
-barn.
-
-I. Bidragsforskudd
-Belgia
-
-Luxembourg
-
-Bidragsforskudd etter lov av 21. februar 2003 om
-opprettelse av en avdeling for underholdsbidrag i
-SPF Finances.
-
-Bidragsforskudd og inndrivelse av underholdsbidrag i henhold til lov av 26. juli 1980.
-Østerrike
-
-Bulgaria
-Underholdsbidrag som utbetales av staten i henhold til artikkel 92 i familieloven.
-
-Bidragsforskudd etter føderal lov om tilståelse av
-forskudd på barnebidrag (Unterhaltsvorschussgesetz 1985 – UVG).
+b\) Artikkel 36 og 37 i avtalen om trygd av 28. april 1997 (rettigheter som ble opparbeidet før 8. oktober 1991 forblir ansvaret til avtaleparten som har tilkjent dem, mens pensjoner tilkjent mellom 8. oktober 1991 og 1. februar 1998, datoen for ikrafttredelse av den nevnte avtalen, beregnes på nytt når det gjelder trygdetid tilbakelagt i den andre avtaleparten inntil 31. januar 1998).
+
+Italia – Slovenia
+
+a\) Avtale om fastsettelse av gjensidige forpliktelser på trygdeområdet med henvisning til punkt 7 i vedlegg XIV til fredstraktaten, som ble inngått ved utveksling av noter 5. februar 1959 (beregning av trygdetid tilbakelagt før 18. desember 1954). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av avtalen.
+
+b\) Artikkel 45 nr. 3 i avtale om trygd av 7. juli 1997 om tidligere sone B i fristaten Trieste (beregning av trygdetid tilbakelagt før 5. oktober 1956). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Luxembourg – Portugal
+
+Avtale av 10. mars 1997 (om godkjenning av avgjørelser truffet av institusjoner i én avtalepart om uførhetstilstanden til personer som søker om pensjon fra institusjoner i den andre avtaleparten).
+
+Luxembourg – Slovakia
+
+Artikkel 50 nr. 5 i avtale om trygd av 23. mai 2002 (beregning av pensjonstrygdetid for politiske flyktninger).
+
+Ungarn – Østerrike
+
+Artikkel 36 nr. 3 i avtale om trygd av 31. mars 1999 (beregning av trygdetid tilbakelagt før 27. november 1961). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Ungarn – Slovenia
+
+Artikkel 31 i avtale om trygd av 7. oktober 1957 (beregning av trygdetid tilbakelagt før 29. mai 1956). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Ungarn – Slovakia
+
+Artikkel 34 nr. 1 i avtale om trygd av 30. januar 1959 (avtalens artikkel 34 nr. 1 fastsetter at trygdetid som var tilkjent før avtalen ble undertegnet, er trygdetid i den avtalestat på hvis territorium den berettigede person var bosatt). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Østerrike – Polen
+
+Artikkel 33 nr. 3 i avtale om trygd av 7. september 1998 (beregning av trygdetid tilbakelagt før 27. november 1961). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Østerrike – Romania
+
+Artikkel 37 nr. 3 i avtale om trygd av 28. oktober 2005 (beregning av trygdetid tilbakelagt før 27. november 1961). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Østerrike – Slovenia
+
+Artikkel 37 i avtale om trygd av 10. mars 1997 (beregning av trygdetid tilbakelagt før 1. januar 1956). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Østerrike – Slovakia
+
+Artikkel 34 nr. 3 i avtale om trygd av 21. desember 2001 (beregning av trygdetid tilbakelagt før 27. november 1961). Anvendelsen av denne bestemmelsen er fortsatt begrenset til de personer som omfattes av denne avtalen.
+
+Finland – Sverige
+
+Artikkel 7 i nordisk konvensjon om trygd av 18. august 2003 (om dekning av merutgifter til reise ved sykdom under opphold i en annen nordisk stat som nødvendiggjør en dyrere hjemreise til bostedsstaten).
+
+Island – Danmark
+
+Artikkel 7 i den nordiske konvensjonen om trygd av 18. august 2003 (om dekning av ytterligere reiseutgifter ved sykdom under opphold i et annet nordisk land, som gjør det nødvendig med dyrere returreise til hjemlandet).
+
+Island – Finland
+
+Artikkel 7 i den nordiske konvensjonen om trygd av 18. august 2003 (om dekning av ytterligere reiseutgifter ved sykdom under opphold i et annet nordisk land, som gjør det nødvendig med dyrere returreise til hjemlandet).
+
+Island – Sverige
+
+Artikkel 7 i den nordiske konvensjonen om trygd av 18. august 2003 (om dekning av ytterligere reiseutgifter ved sykdom under opphold i et annet nordisk land, som gjør det nødvendig med dyrere returreise til hjemlandet).
+
+Island – Norge
+
+Artikkel 7 i den nordiske konvensjonen om trygd av 18. august 2003 (om dekning av ytterligere reiseutgifter ved sykdom under opphold i et annet nordisk land, som gjør det nødvendig med dyrere returreise til hjemlandet).
+
+Norge – Danmark
+
+Artikkel 7 i den nordiske konvensjonen om trygd av 18. august 2003 (om dekning av ytterligere reiseutgifter ved sykdom under opphold i et annet nordisk land, som gjør det nødvendig med dyrere returreise til hjemlandet).
+
+Norge – Finland
+
+Artikkel 7 i den nordiske konvensjonen om trygd av 18. august 2003 (om dekning av ytterligere reiseutgifter ved sykdom under opphold i et annet nordisk land, som gjør det nødvendig med dyrere returreise til hjemlandet).
+
+Norge – Sverige
+
+Artikkel 7 i den nordiske konvensjonen om trygd av 18. august 2003 (om dekning av ytterligere reiseutgifter ved sykdom under opphold i et annet nordisk land, som gjør det nødvendig med dyrere returreise til hjemlandet).
+
+Vedlegg III
+
+Begrensning av rett til naturalytelser for en grensearbeiders familiemedlemmer (Artikkel 18 nr. 2)
 
 Danmark
 
-Polen
+Estland (denne oppføringen er gyldig i tidsrommet nevnt i artikkel 87 nr. 10a)
 
-Forskudd på barnebidrag fastsatt i lov om ytelser
-til barn.
-Forskudd på barnebidrag konsolidert ved lov nr.
-765 av 11. september 2002.
+Irland
 
-Ytelser fra fondet for underholdsbidrag i henhold
-til lov om bistand til personer som har rett til
-underholdsbidrag.
-Portugal
-
-Tyskland
-Bidragsforskudd etter tysk lov om bidragsforskudd (Unterhaltsvorschussgesetz) av 23. juli
-1979.
-Estland
-Underholdsbidrag i henhold til Lov om underholdsbidrag av 21. februar 2007.
-10
-
-EFT L 209 av 25.7.1998, s. 46.
-
-Bidragsforskudd (lov nr. 75/98 av 19. november
-om sikring av underhold til mindreårige).
-Slovenia
-Erstatning for underholdsbidrag i henhold til lov
-av 25. juli 2006 om Slovenias offentlige garanti- og
-underholdsfond.
-
-[Side 196]
-
-194
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-2021–2022
-
-Slovakia
-
-Spania
-
-Erstatning for underholdsbidrag i henhold til lov
-nr. 452/2004 Coll. om erstatning for underholdsbidrag, som endret ved senere lovgivning.
-
-Engangsutbetalinger ved fødsel og adopsjon.
-
-Finland
-Underholdsbidrag etter lov om sikring av barnebidrag (671/1998).
-
-Frankrike
-Stønad ved fødsel eller adopsjon som del av «prestation d’accueil du jeune enfant (PAJE)», unntatt
-når de utbetales til en person som fortsatt er
-omfattet av fransk lovgivning i henhold til artikkel
-12 eller artikkel 16.
-
-Sverige
-Underholdsbidrag etter lov om støtte til underhold (1996:1030).
-Island
-Forskudd på forsørgerutbetalinger i henhold til
-lov nr. 100/2007 om trygd.
-Liechtenstein
-Forskudd på forsørgerutbetalinger i henhold til
-lov av 21. juni 1989 om tildeling av forskudd på forsørgerutbetalinger, med senere endringer.
+Spania (denne oppføringen er gyldig i tidsrommet nevnt i artikkel 87 nr. 10a)
 
 Kroatia
-Engangskontantstøtte for et nyfødt barn i henhold
-til loven om barsels- og foreldreytelser (offisielt
-kunngjøringsblad 85/08, som endret)
-Engangskontantstøtte for et adoptert barn i henhold til loven om barsels- og foreldreytelser (offisielt kunngjøringsblad 85/08, som endret)
-Engangskontantstøtte for et nyfødt eller adoptert
-barn i samsvar med forskrifter om lokalt og regionalt selvstyre i henhold til artikkel 59 i loven om
-barsels- og foreldreytelser (offisielt kunngjøringsblad 85/08, som endret)
-Latvia
+
+Italia (denne oppføringen er gyldig i tidsrommet nevnt i artikkel 87 nr. 10a)
+
+Litauen (denne oppføringen er gyldig i tidsrommet nevnt i artikkel 87 nr. 10a)
+
+Ungarn (denne oppføringen er gyldig i tidsrommet nevnt i artikkel 87 nr. 10a)
+
+Nederland (denne oppføringen er gyldig i tidsrommet nevnt i artikkel 87 nr. 10a)
+
+Finland
+
+Sverige
+
+Det forente kongerike
+
+Island
 
 Norge
-Bidragsforskott i henhold til lov av 17. februar
-1989 nr. 2 om bidragsforskott.
 
-a) Fødselsstønad
-b) Adopsjonsstønad.
-Litauen
+Vedlegg IV
 
-II. Særlige stønader ved fødsel og adopsjon
-
-Engangsutbetaling ved fødsel.
+Flere rettigheter for pensjonister som reiser tilbake til den kompetente medlemsstat (Artikkel 27 nr. 2)
 
 Belgia
 
-Luxembourg
-
-Stønad ved fødsel og adopsjon.
-
-Bidrag før fødsel.
-Bidrag ved fødsel.
-
 Bulgaria
-Engangsutbetaling ved svangerskap og fødsel (lov
-om barnetrygd).
-
-Ungarn
 
 Tsjekkia
 
+Tyskland
+
+Hellas
+
+Spania
+
+Frankrike
+
+Kypros
+
+Luxembourg
+
+Ungarn
+
+Nederland
+
+Østerrike
+
 Polen
-
-Fødselsstønad.
-
-Stønad ved svangerskap/fødsel.
-
-Engangsutbetaling ved fødsel (lov om familieytelser).
-
-Estland
-a) Fødselsstønad.
-b) Adopsjonsstønad.
-
-Romania
-Fødselsstønad.
-Utstyr til nyfødte.
-
-[Side 197]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-195
-
-Fødselsstønad.
-
-ber 1960 (beregning av trygdetid tilbakelagt i
-visse grenseområder før, under og etter annen
-verdenskrig).
-
-Slovakia
-
-Belgia – Luxembourg
-
-a) Fødselsstønad.
-b) Tillegg til fødselsstønad.
-
-Avtale av 24. mars 1994 om trygd for grensearbeidere (i forbindelse med utfyllende standardrefusjon).
 
 Slovenia
 
-Finland
-Pakke ved svangerskap og fødsel, engangsutbetaling ved svangerskap og fødsel og bistand i form
-av et engangsbeløp for å kompensere for kostnadene ved internasjonal adopsjon i henhold til lov
-om ytelser ved svangerskap og fødsel.
-
-Bulgaria – Tyskland
-Artikkel 28 nr. 1 bokstav b) i avtale om trygd av
-17. desember 1997 (opprettholdelse av avtaler inngått mellom Bulgaria og den tidligere Tyske
-demokratisk republikk for personer som allerede
-mottok en pensjon før 1996).
+Sverige
 
 Island
-Engangsstønad for å motvirke kostnaden ved
-internasjonal adopsjon i henhold til lov nr. 152/
-2006 om tilskudd til adopsjon.
+
+Liechtenstein
+
+Vedlegg V
+
+Flere rettigheter for tidligere grensearbeidere som reiser tilbake til medlemsstaten der de tidligere utførte lønnet arbeid eller drev selvstendig virksomhet (får bare anvendelse dersom medlemsstaten med den kompetente institusjon som har ansvar for utgiftene til naturalytelser til pensjonisten i hans/hennes bostedsstat, også står oppført på listen) (Artikkel 28 nr. 2)
+
+Belgia
+
+Tyskland
+
+Spania
+
+Frankrike
+
+Luxembourg
+
+Østerrike
+
+Portugal
+
+Vedlegg VI
+
+Lovgivning av type a som bør omfattes av særlig koordinering (Artikkel 44 nr. 1)
+
+Tsjekkia
+
+Full uførepensjon for personer hvis totale uførhet oppstod før de fylte 18 år, og som ikke var trygdet for det påkrevde tidsrommet (avsnitt 42 i lov om pensjonsforsikring nr. 155/1995 Coll.).
+
+Estland
+
+a\) Uførepensjon tilkjent før 1. april 2000 i henhold til lov om statlige ytelser og som beholdes i henhold til lov om statlig pensjonsforsikring.
+
+b\) Nasjonal pensjon tilkjent på grunnlag av uførhet i henhold til lov om statlig pensjonsforsikring.
+
+c\) Uførepensjon tilkjent i henhold til lov om ansettelse i forsvaret, lov om ansettelse i politiet, lov om påtalemyndigheten, lov om dommeres status, lov om lønn til medlemmer av Riigikogu, lov om pensjon og andre sosiale ytelser samt lov om offentlige ytelser til republikkens president.
+
+d\) Arbeidsevneytelse innvilget i henhold til lov om arbeidsevneytelse.
+
+Irland
+
+Del 2 kapittel 17 i lov om trygd og velferd 2005 (konsolidert).
+
+Hellas
+
+Lovgivning om trygdeordningen i landbruket (OGA) under lov nr. 4169/1961.
+
+Kroatia
+
+a\) Uførepensjon som følge av yrkesskade eller yrkessykdom i samsvar med artikkel 52 nr. 5 i loven om pensjonsforsikring (offisielt kunngjøringsblad 102/98, som endret).
+
+b\) Ytelse ved fysisk skade i samsvar med artikkel 56 i loven om pensjonsforsikring (offisielt kunngjøringsblad 102/98, som endret).
+
+Latvia
+
+Uførepensjon (tredje gruppe) i henhold til artikkel 16 nr. 1 punkt 2 i lov om statlig pensjon av 1. januar 1996.
+
+Ungarn
+
+Fra og med 1. januar 2012 i henhold til lov CXCI av 2012 om ytelser til personer med nedsatt arbeidskapasitet og endring av visse andre lover:
+
+a\) ytelser ved rehabilitering,
+
+b\) ytelser ved uførhet.
+
+Slovakia
+
+Uførepensjon for en person som ble ufør som forsørget barn, eller under heltids doktorgradstudier før fylte 26 år, og som alltid anses å ha tilbakelagt den nødvendige trygdetid (artikkel 70 nr. 2, artikkel 72 nr. 3 og artikkel 73 nr. 3 og 4 i lov nr. 461/2003 om sosialforsikring, som endret).
+
+Finland
+
+Nasjonal pensjon til personer som er født med nedsatt funksjonsevne eller får nedsatt funksjonsevne i ung alder (lov om nasjonal pensjon (568/2007)).
+
+Uførepensjon fastsatt i henhold til overgangsregler og tilkjent før 1. januar 1994 (lov om gjennomføring av lov om nasjonal pensjon (569/2007)).
+
+Sverige
+
+Inntektsavhengig ytelse ved sykdom og inntektsavhengig aktivitetskompensasjon (kapittel 34 i sosialforsikringsloven).
+
+Det forente kongerike
+
+Sysselsettingsbidrag og støttebidrag (Employment and Support Allowance – ESA)
+
+a\) For ytelser som er innvilget før 1. april 2016, er ESA en kontantytelse ved sykdom for de første 91 dagene (vurderingsfasen). Fra den 92. dagen (hovedfasen) gjøres ESA om til en uførhetsytelse.
+
+b\) For ytelser som er innvilget 1. april 2016 eller senere, er ESA en kontantytelse ved sykdom for de første 365 dagene (vurderingsfasen). Fra den 366. dagen gjøres ESA (støttegruppen) om til en uførhetsytelse.
+
+Storbritannias lovgivning: Del 1 av lov om velferdsreform av 2007.
+
+Nord-Irlands lovgivning: Del 1 av lov om velferdsreform (Nord-Irland) av 2007.
+
+Vedlegg VII
+
+Samsvar mellom medlemsstatenes lovgivning om vilkår for uførhetsgrad (Forordningens artikkel 46 nr. 3)
+
+Belgia
+
+07N3xx2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 30%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="3">Medlemsstat</th>
+<th rowspan="3">Ordninger forvaltet av institusjoner i medlemsstater som har gjort vedtak om uførhetsgraden</th>
+<th colspan="5">Ordninger forvaltet av belgiske institusjoner som er bundet av vedtaket når det foreligger samsvar</th>
+</tr>
+<tr>
+<th rowspan="2">Alminnelig ordning</th>
+<th colspan="2">Ordning for gruvearbeidere</th>
+<th rowspan="2">Ordning for sjøfolk</th>
+<th rowspan="2">Ossom</th>
+</tr>
+<tr>
+<th>Generell uførhet</th>
+<th>Yrkesuførhet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frankrike</td>
+<td>1. Alminnelig ordning</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Gruppe III (kontinuerlig tilsyn)</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Gruppe II</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Gruppe I</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Landbruksordning</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Full generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– To tredjedels generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Kontinuerlig tilsyn</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Ordning for gruvearbeidere</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Delvis generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Kontinuerlig tilsyn</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Yrkesuførhet</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>4. Ordning for sjøfolk</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Kontinuerlig tilsyn</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Yrkesuførhet</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td>Italia</td>
+<td>1. Alminnelig ordning</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Uførhet – arbeidere</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Uførhet – funksjonærer</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Ordning for sjøfolk</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Ikke tjenestedyktig til sjøs</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+</tbody>
+</table>
+
+Frankrike
+
+14N3xx2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="3">Medlemsstat</th>
+<th rowspan="3">Ordninger forvaltet av institusjoner i medlemsstater som har gjort vedtak om uførhetsgraden</th>
+<th colspan="12">Ordninger forvaltet av franske institusjoner som er bundet av vedtaket når det foreligger samsvar</th>
+</tr>
+<tr>
+<th colspan="3">Alminnelig ordning</th>
+<th colspan="3">Landbruksordning</th>
+<th colspan="3">Ordning for gruvearbeidere</th>
+<th colspan="3">Ordning for sjøfolk</th>
+</tr>
+<tr>
+<th>Gruppe I</th>
+<th>Gruppe II</th>
+<th>Gruppe III (kontinuerlig tilsyn)</th>
+<th>To tredjedels uførhet</th>
+<th>Full uførhet</th>
+<th>Kontinuerlig tilsyn</th>
+<th>To tredjedels generell uførhet</th>
+<th>Kontinuerlig tilsyn</th>
+<th>Yrkesuførhet</th>
+<th>To tredjedels generell uførhet</th>
+<th>Full yrkesuførhet</th>
+<th>Kontinuerlig tilsyn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Belgia</td>
+<td>1. Alminnelig ordning</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Ordning for gruvearbeidere</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Delvis generell uførhet</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Yrkesuførhet</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar<sup>(2)</sup></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>3. Ordning for sjøfolk</td>
+<td>Samsvar<sup>(1)</sup></td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar<sup>(1)</sup></td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar<sup>(1)</sup></td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td>Italia</td>
+<td>1. Alminnelig ordning</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Uførhet – arbeidere</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Uførhet – funksjonærer</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Ordning for sjøfolk</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Ikke tjenestedyktig til sjøs</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+</tbody>
+</table>
+
+<sup>(1)</sup> I den utstrekning uførheten anses som generell uførhet av belgiske institusjoner.
+
+<sup>(2)</sup> Bare dersom den belgiske institusjonen har akseptert at arbeidstakeren ikke er i stand til å arbeide under bakken eller på bakkenivå.
+
+Italia
+
+05N3xx2
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 29%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="3">Medlemsstat</th>
+<th rowspan="3">Ordninger forvaltet av institusjoner i medlemsstater som har gjort vedtak om uførhetsgraden</th>
+<th colspan="3">Ordninger forvaltet av italienske institusjoner som er bundet av vedtaket når det foreligger samsvar</th>
+</tr>
+<tr>
+<th colspan="2">Alminnelig ordning</th>
+<th rowspan="2">Sjøfolk som ikke er tjenestedyktige til sjøs</th>
+</tr>
+<tr>
+<th>Arbeidere</th>
+<th>Funksjonærer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Belgia</td>
+<td>1. Alminnelig ordning</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Ordning for gruvearbeidere</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Delvis generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Yrkesuførhet</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Ordning for sjøfolk</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td>Frankrike</td>
+<td>1. Alminnelig ordning</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Gruppe III (kontinuerlig tilsyn)</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Gruppe II</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Gruppe I</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Landbruksordning</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Full generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Delvis generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Kontinuerlig tilsyn</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Ordning for gruvearbeidere</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Delvis generell uførhet</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Kontinuerlig tilsyn</td>
+<td>Samsvar</td>
+<td>Samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Yrkesuførhet</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>4. Ordning for sjøfolk</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>– Delvis generell uførhet</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Kontinuerlig tilsyn</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+<td>Ikke samsvar</td>
+</tr>
+<tr>
+<td></td>
+<td>– Yrkesuførhet</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Vedlegg VIII
+
+Tilfeller der pro rata-beregningen ikke skal foretas eller ikke får anvendelse (artikkel 52 nr. 4 og 5)
+
+Del 1: Tilfeller der pro rata-beregningen ikke skal foretas i henhold til artikkel 52 nr. 4
+
+Danmark
+
+Alle søknader om pensjon nevnt i lov om sosial pensjon, med unntak av pensjon nevnt i vedlegg IX.
+
+Irland
+
+Alle søknader om statlig pensjon (overgang), (avgiftsbasert) statlig pensjon, (avgiftsbasert) enkepensjon og (avgiftsbasert) enkemannspensjon.
+
+Kypros
+
+Alle søknader om alderspensjon, uførepensjon, enkepensjon og enkemannspensjon.
+
+Latvia
+
+a\) Alle søknader om uførepensjon (lov om statlig pensjon av 1. januar 1996).
+
+b\) Alle søknader om etterlattepensjon (lov om statlig pensjon av 1. januar 1996; lov om statsfinansiert pensjon av 1. juli 2001).
+
+Litauen
+
+Alle søknader om etterlattepensjon fra den statlige sosialforsikringen beregnet på grunnlag av grunnbeløpet for etterlattepensjonen (lov om pensjon fra den statlige sosialforsikringen).
+
+Nederland
+
+Alle søknader om alderspensjon i henhold til lov om generell alderstrygd (AOW).
+
+Østerrike
+
+a\) Alle søknader om ytelser i henhold til forbundslov av 9. september 1955 om alminnelig trygdeordning – ASVG, forbundslov av 11. oktober 1978 om trygdeordning for selvstendig næringsdrivende beskjeftiget i handelssektoren – GSVG, forbundslov av 11. oktober 1978 om trygdeordning for selvstendig næringsdrivende gårdbrukere – BSVG, og forbundslov av 30. november 1978 om trygdeordning for selvstendige næringsdrivende i frie yrker – FSVG.
+
+b\) Alle søknader om uførepensjon på grunnlag av en pensjonskonto i henhold til lov om alminnelig pensjon (APG) av 18. november 2004.
+
+c\) Alle søknader om etterlattepensjon på grunnlag av en pensjonskonto i henhold til lov om alminnelig pensjon (APG) av 18. november 2004, med unntak for tilfeller under del 2.
+
+d\) Alle søknader om uføre- og etterlattepensjon fra østerrikske provinslegekamre (Landesärztekammer) på grunnlag av grunngaranti (grunnytelse og eventuell tilleggsytelse, eller grunnpensjon).
+
+e\) Alle søknader om støtte ved permanent arbeidsuførhet og etterlatteytelser fra det østerrikske veterinærkammerets pensjonsfond.
+
+f\) Alle søknader om ytelser ved arbeidsuførhet, enkepensjon og barnepensjon i henhold til vedtektene for de østerrikske advokatforeningenes velferdsinstitusjoner, del A.
+
+g\) Alle søknader om ytelser i henhold til lov om notarforsikring av 3. februar 1972 – NVG 1972.
+
+Polen
+
+Alle søknader om uførepensjon, alderspensjon i henhold til ordningen med faste ytelser og etterlattepensjon, unntatt i tilfeller der total trygdetid tilbakelagt etter mer enn én medlemsstats lovgivning er minst 20 år for kvinner og 25 år for menn, men nasjonal trygdetid er kortere enn nevnte perioder (men ikke kortere enn 15 år for kvinner og 20 år for menn) og beregningen foretas etter artikkel 27 og 28 i lov av 17. desember 1998 (Polens offisielle lovtidende 2015, punkt 748).
+
+Portugal
+
+Alle søknader om uførepensjon, alderspensjon og etterlattepensjon, unntatt i tilfeller der total trygdetid tilbakelagt etter mer enn én medlemsstats lovgivning er minst 21 kalenderår, men nasjonal trygdetid er høyst 20 år og beregningen foretas etter artikkel 32 og 33 i lovdekret nr. 187/2007 av 10. mai 2007.
+
+Slovakia
+
+a\) Alle søknader om etterlattepensjon (enkepensjon, enkemannspensjon og barnepensjon) beregnet i samsvar med den lovgivning som var gjeldende før 1. januar 2004, der beløpet avhenger av en pensjon som tidligere er utbetalt til avdøde.
+
+b\) Alle søknader om pensjon beregnet i henhold til lov nr. 461/2003 Coll. om trygd, med senere endringer.
+
+Sverige
+
+a\) Søknader om alderspensjon i form av garantipensjon (kapittel 66 og 67 i sosialforsikringsloven).
+
+b\) Søknader om alderspensjon i form av tilleggspensjon (kapittel 63 i sosialforsikringsloven).
+
+Det forente kongerike
+
+Alle søknader om alderspensjon, statspensjon i henhold til del 1 i pensjonsloven av 2014, enkepensjon og ytelser ved dødsfall, unntatt der følgende er tilfelle i løpet av et skatteår som begynner 6. april 1975 eller senere:
+
+i\) Den berørte part hadde tilbakelagt trygdetid, tid med lønnet arbeid eller botid i henhold til lovgivningen i Det forente kongerike og en annen medlemsstat; og ett (eller flere) av skatteårene ikke ble ansett som et kvalifiserende år i henhold til Det forente kongerikes lovgivning.
+
+ii\) Det vil bli tatt hensyn til trygdetid tilbakelagt etter gjeldende lovgivning i Det forente kongerike før 5. juli 1948 ved anvendelse av forordningens artikkel 52 nr. 1 bokstav b) ved å anvende trygdetid, tid med lønnet arbeid eller botid etter en annen medlemsstats lovgivning.
+
+Alle søknader om tilleggspensjon i henhold til lov om trygdeavgifter og -tilskudd av 1992, avsnitt 44, og lov om trygdeavgifter og -tilskudd (Nord-Irland) av 1992, avsnitt 44.
+
+Island
+
+Alle søknader om grunnpensjon i forbindelse med alderspensjon samt pensjonsytelser innenfor rammen av en særordning for tjenestemenn.
+
+Liechtenstein
+
+Alle søknader om ordinær pensjon fra ordninger for alders-, etterlatte- og uføretrygd samt om alders-, etterlatte- og uførepensjon fra den yrkesbaserte ordningen i den utstrekning vedkommende pensjonsfonds regler ikke inneholder bestemmelser om reduksjon.
+
 Norge
-Engangsstønad ved nedkomst i henhold til lov om
-folketrygd.
-Engangsstønad ved adopsjon i henhold til lov om
-folketrygd.
-Vedlegg II
-Bestemmelser i avtaler som er i kraft, og som
-eventuelt er begrenset til personer som omfattes
-av disse bestemmelser (Artikkel 8 nr. 1)
 
-Bulgaria – Kroatia
-Artikkel 35 nr. 3 i avtale om trygd av 14. juli 2003
-(anerkjennelse av trygdetid tilbakelagt til og med
-31. desember 1957 til utgift for den avtaleparten
-der den berørte personen var bosatt 31. desember
-1957).
-Bulgaria – Østerrike
-Artikkel 38 nr. 3 i avtale om trygd av 14. april 2005
-(beregning av trygdetid tilbakelagt før 27. november 1961). Anvendelsen av denne bestemmelsen
-er fortsatt begrenset til de personer som omfattes
-av denne avtalen.
-Bulgaria – Slovenia
+Alle søknader om alderspensjon, unntatt pensjoner nevnt i vedlegg IX.
 
-Allmenne merknader
-Det er viktig å merke seg at bestemmelsene i bilaterale avtaler som ikke omfattes av denne forordnings virkeområde, og som fortsatt er i kraft mellom medlemsstatene, ikke er oppført i dette vedlegget. Dette omfatter forpliktelser mellom medlemsstater i henhold til avtaler som for eksempel
-inneholder bestemmelser om sammenlegging av
-trygdetid som er tilbakelagt i en tredjestat.
-Bestemmelser i trygdeavtaler som fortsatt
-gjelder:
-Belgia – Tyskland
-Artikkel 3 og 4 i sluttprotokollen av 7. desember
-1957 til den generelle avtalen av samme dag i den
-form den har i tilleggsprotokollen av 10. novem-
+Del 2: Tilfeller der artikkel 52 nr. 5 får anvendelse
 
-Artikkel 32 nr. 2 i avtale om trygd av 18. desember
-1957 (beregning av trygdetid tilbakelagt før 31.
-desember 1957).
-Tsjekkia – Tyskland
-Artikkel 39 nr. 1 bokstav b) og c) i avtale om trygd
-av 27. juli 2001 (opprettholdelse av avtalen som
-ble inngått mellom den tidligere Tsjekkoslovakiske republikk og den tidligere Tyske demokratiske republikk, for personer som allerede mottok
-en pensjon før 1996; beregning av trygdetid tilbakelagt i en av avtalestatene for personer som per
-1. september 2002 allerede mottok en pensjon for
-dette tidsrommet fra den andre avtalestaten, mens
-de var bosatt på dens territorium).
+Bulgaria
 
-[Side 198]
+Alderspensjon fra den pliktige tilleggspensjonsordningen i henhold til trygdelovens avdeling II del II.
 
-196
+Den tsjekkiske republikk
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Pensjon utbetalt gjennom ordningen under annen søyle opprettet ved lov nr. 426/2011 Coll. om pensjonssparing.
 
-2021–2022
+Danmark
 
-Tsjekkia – Kypros
+a\) Private pensjoner.
 
-Tyskland – Spania
+b\) Ytelser ved dødsfall (på grunnlag av bidrag til Arbeidsmarkedets tilleggspensjon i tiden før 1. januar 2002).
 
-Artikkel 32 nr. 4 i avtale om trygd av 19. januar
-1999 (fastsettelse av myndighet med hensyn til
-beregning av ansettelsestid tilbakelagt i henhold
-til den relevante avtalen fra 1976). Anvendelsen av
-denne bestemmelsen er fortsatt begrenset til de
-personer som omfattes av avtalen.
+c\) Ytelser ved dødsfall (på grunnlag av bidrag til Arbeidsmarkedets tilleggspensjon i tiden etter 1. januar 2002) som omtalt i konsolidert lov om arbeidsmarkedets tilleggspensjon 942:2009.
 
-Artikkel 45 nr. 2 i trygdeavtalen av 4. desember
-1973 (representasjon av diplomatiske og konsulære myndigheter).
+Estland
 
-Tsjekkia – Luxembourg
-Artikkel 52 nr. 8 i avtale om trygd av 17. november
-2000 (beregning av pensjonstrygdetid for politiske flyktninger).
-Tsjekkia – Østerrike
-Artikkel 32 nr. 3 i avtale om trygd av 20. juli 1999
-(beregning av trygdetid tilbakelagt før 27. november 1961). Anvendelsen av denne bestemmelsen
-er fortsatt begrenset til de personer som omfattes
-av denne avtalen.
-Tsjekkia – Slovakia
-Artikkel 12, 20 og 33 i avtale om trygd av 29. oktober 1992 (artikkel 12 fastsetter myndighet i forbindelse med tildeling av ytelser til etterlatte; artikkel
-20 fastsetter myndighet for beregning av trygdetid tilbakelagt fram til dagen for Den tsjekkiske og
-slovakiske føderale republikkens oppløsning;
-artikkel 33 fastsetter myndighet for utbetaling av
-pensjon tildelt før dagen for Den tsjekkiske og slovakiske føderale republikkens oppløsning).
+Pliktig fondsbasert alderspensjonsordning.
 
-Tyskland – Frankrike
-a) Tilleggsavtale nr. 4 av 10. juli 1950 til den generelle avtalen av samme dato, som fastsatt i tilleggsavtale nr. 2 av 18. juni 1955 (beregning av
-trygdetid tilbakelagt mellom 1. juli 1940 og 30.
-juni 1950).
-b) Avdeling I i tilleggsavtale nr. 2 (beregning av
-trygdetid tilbakelagt før 8. mai 1945).
-c) Nr. 6, 7 og 8 i den generelle protokoll av 10. juli
-1950 til den generelle avtalen av samme dato
-(administrative ordninger).
-d) Avdeling II, III og IV i avtalen av 20. desember
-1963 (trygd i Saarland).
-Tyskland – Kroatia
-Artikkel 41 i avtalen om trygd av 24. november
-1997 (regulering av rettigheter ervervet før 1.
-januar 1956 innenfor den andre avtalepartens
-trygdesystem). Anvendelsen av denne bestemmelsen er begrenset til personene som er omfattet
-av den.
-Tyskland – Luxembourg
-Artikkel 4, 5, 6 og 7 i avtalen av 11. juli 1959
-(beregning av trygdetid tilbakelagt mellom september 1940 og juni 1946).
+Frankrike
 
-Danmark – Finland
-Artikkel 7 i nordisk konvensjon om trygd av 18.
-august 2003 (om dekning av merutgifter til reise
-ved sykdom under opphold i en annen nordisk
-stat som nødvendiggjør en dyrere hjemreise til
-bostedsstaten).
+Grunn- eller tilleggspensjonsordninger der alderspensjonsytelsene beregnes på grunnlag av pensjonspoeng.
 
-Tyskland – Ungarn
-Artikkel 40 nr. 1 bokstav b) i avtale om trygd av 2.
-mai 1998 (opprettholdelse av avtalen som ble inngått mellom den tidligere Tyske demokratisk
-republikk og Ungarn, for personer som allerede
-mottok en pensjon før 1996).
+Kroatia
 
-Danmark – Sverige
-Artikkel 7 i nordisk konvensjon om trygd av 18.
-august 2003 (om dekning av merutgifter til reise
-ved sykdom under opphold i en annen nordisk
-stat som nødvendiggjør en dyrere hjemreise til
-bostedsstaten).
+Pensjoner fra den obligatoriske forsikringsordningen på grunnlag av individuelle kapitaloppsparinger i henhold til loven om obligatoriske og frivillige pensjonsfond (offisielt kunngjøringsblad 49/99, som endret) og loven om pensjonsforsikringsselskaper og utbetaling av pensjoner på grunnlag av individuelle kapitaloppsparinger (offisielt kunngjøringsblad 106/99, som endret), bortsett fra i tilfellene som er omhandlet i artikkel 47 og 48 i loven om obligatoriske og frivillige pensjonsfond (uførepensjon som følge av generell arbeidsudyktighet, og etterlattepensjon).
 
-Tyskland – Nederland
-Artikkel 2 og 3 i tilleggsavtale nr. 4 av 21. desember 1956 til avtalen av 29. mars 1951 (avgjørelse av
-spørsmål om rettigheter ervervet av nederlandske arbeidere i henhold til den tyske trygdeordningen mellom 13. mai 1940 og 1. september
-1945).
+Latvia
+
+Alderspensjon (lov om statlig pensjon av 1. januar 1996; lov om statsfinansiert pensjon av 1. juli 2001).
+
+Ungarn
+
+Pensjonsytelser på grunnlag av medlemskap i private pensjonsfond.
+
+Østerrike
+
+a\) Alderspensjon og herav avledet etterlattepensjon på grunnlag av en pensjonskonto i henhold til lov om alminnelig pensjon (APG) av 18. november 2004.
+
+b\) Pliktige stønader i henhold til artikkel 41 i forbundslov av 28. desember 2001, BGBl I nr. 154 om østerrikske farmasøyters alminnelige lønnsfond (Pharmazeutische Gehaltskasse für Österreich).
+
+c\) Alders- og førtidspensjon fra de østerrikske provinslegekamre på grunnlag av grunngaranti (grunnytelse og eventuell tilleggsytelse, eller grunnpensjon), og alle pensjonsytelser fra de østerrikske provinslegekamre på grunnlag av tilleggsytelser (tilleggspensjon eller individuell pensjon).
+
+d\) Aldersstøtte fra det østerrikske veterinærkammerets pensjonsfond.
+
+e\) Ytelser i samsvar med vedtektene for de østerrikske advokatforeningenes velferdsinstitusjoner, del A og B, med unntak av søknader om ytelser fra uførepensjon, enkepensjon og barnepensjon i samsvar med vedtektene for de østerrikske advokatforeningenes velferdsinstitusjoner, del A.
+
+f\) Ytelser fra velferdsinstitusjonene under forbundskammeret for arkitekter og rådgivende ingeniører under lov om det østerrikske sivilingeniørkammer (Ziviltechnikerkammergesetz) av 1993 og velferdsinstitusjonenes vedtekter, med unntak av ytelser på grunn av arbeidsuførhet og ytelser til etterlatte på grunnlag av disse ytelsene.
+
+g\) Ytelser i samsvar med vedtektene til velferdsinstitusjonen under forbundskammeret for yrkesutøvende regnskapsførere og skatterådgivere i henhold til lov om østerrikske yrkesutøvende regnskapsførere og skatterådgivere (Wirtschaftstreuhandberufsgesetz).
+
+Polen
+
+Alderspensjon i samsvar med ordningen med faste ytelser.
+
+Portugal
+
+Tilleggspensjoner innvilget i henhold til lovdekret nr. 26/2008 av 22. februar 2008 (offentlig kapitaliseringsordning).
+
+Slovenia
+
+Pensjon fra den pliktige tilleggspensjonsordningen.
+
+Slovakia
+
+Pliktig sparing til alderspensjon.
+
+Sverige
+
+Alderspensjon i form av inntektspensjon og premiepensjon (kapittel 62 og 64 i sosialforsikringsloven).
+
+Det forente kongerike
+
+Gradert alderspensjon utbetalt i henhold til lov om nasjonal forsikring av 1965, avsnitt 36 og 37, og lov om nasjonal forsikring (Nord-Irland) av 1966, avsnitt 35 og 36.
+
+Island
+
+Ordning for alderstrygd.
+
+Liechtenstein
+
+Alders-, etterlatte- og uførepensjon fra den yrkesbaserte ordningen.
+
+Norge
+
+Alderspensjon under lov om folketrygd (kapittel 20) og innskuddsbasert pensjonsordning under lov om obligatorisk tjenestepensjon.
+
+Vedlegg IX
+
+Ytelser og avtaler der artikkel 54 kan anvendes
+
+I. Ytelser nevnt i forordningens artikkel 54 nr. 2 bokstav a), der beløpet ikke avhenger av den tilbakelagte trygdetidens eller botidens lengde
+
+Belgia
+
+Ytelser innenfor den generelle uførhetsordningen, den særlige uførhetsordningen for gruvearbeidere og særordningen for sjøfolk i handelsflåten.
+
+Ytelser innenfor trygdeordningen for selvstendig næringsdrivende ved arbeidsudyktighet.
+
+Ytelser ved uførhet innenfor den oversjøiske trygdeordningen og innenfor uføreordningen for tidligere arbeidstakere i Belgisk Kongo og Rwanda-Urundi.
+
+Danmark
+
+Full dansk alderspensjon som oppnås etter ti års botid av personer som er tilstått pensjon senest 1. oktober 1989.
+
+Irland
+
+Uførepensjon av type A.
+
+Hellas
+
+Ytelser etter lov nr. 4169/1961 om trygdeordningen i landbruket (OGA).
+
+Spania
+
+Etterlattepensjon i henhold til den generelle ordningen og særordningene, med unntak av særordningen for tjenestemenn.
+
+Frankrike
+
+Uførepensjon i henhold til den generelle trygdeordningen eller ordningen for arbeidstakere i landbruket.
+
+Uførepensjon til gjenlevende ektefelle i henhold til den generelle trygdeordningen eller ordningen for arbeidstakere i landbruket, når den er beregnet på grunnlag av den avdøde ektefellens uførepensjon, fastsatt i samsvar med artikkel 52 nr. 1 bokstav a).
+
+Latvia
+
+Uførepensjon (tredje gruppe) i henhold til artikkel 16 nr. 1 punkt 2 i lov om statlig pensjon av 1. januar 1996.
+
+Nederland
+
+Lov av 18. februar 1966 om uføretrygd for lønnstakere, med senere endringer (WAO).
+
+Lov av 24. april 1997 om uføretrygd for selvstendig næringsdrivende, med senere endringer (WAZ).
+
+Lov av 21. desember 1995 om generell trygd for etterlatte (ANW).
+
+Lov av 10. november 2005 om arbeid og inntekt i samsvar med arbeidsevne (WIA).
+
+Finland
+
+Nasjonal pensjon til personer som er født med nedsatt funksjonsevne eller får nedsatt funksjonsevne i ung alder (lov om nasjonal pensjon (568/2007)).
+
+Nasjonal pensjon og ektefellepensjon fastsatt i samsvar med overgangsreglene og tilkjent før 1. januar 1994 (lov om gjennomføring av lov om nasjonal pensjon (569/2007)).
+
+Tillegg til barnepensjon ved beregning av uavhengige ytelser i samsvar med lov om nasjonal pensjon (lov om nasjonal pensjon (568/2007)).
+
+Sverige
+
+Inntektsavhengig ytelse ved sykdom og inntektsavhengig aktivitetskompensasjon (kapittel 34 i sosialforsikringsloven).
+
+Garantipensjon og garantert kompensasjon som erstatning for fullstendige statspensjoner i henhold til den lovgivning om statspensjon som gjaldt før 1. januar 1993, og full statspensjon som utbetalt i henhold til overgangsregler i lovgivning gjeldende fra nevnte dato.
+
+Island
+
+Barnetrygd i henhold til lov nr. 100/2007 om trygd, og barnetrygd i henhold til lov nr. 129/1997 om obligatorisk pensjonsforsikring og om virksomheten i pensjonsfond.
+
+II\. Ytelser nevnt i forordningens artikkel 54 nr. 2 bokstav b), der beløpet avhenger av et godskrevet tidsrom som anses tilbakelagt mellom tidspunktet da trygdetilfellet inntraff, og et senere tidspunkt
+
+Tyskland
+
+Uførepensjon og etterlattepensjon, der det tas hensyn til en tilleggsperiode.
+
+Alderspensjon, der det tas hensyn til en allerede opptjent tilleggsperiode.
+
+Spania
+
+Alderspensjon eller pensjon på grunn av permanent nedsatt funksjonsevne (uførhet) i henhold til særordningen for tjenestemenn, som kommer inn under avdeling I i konsolidert lov om statspensjonister, dersom mottakeren var eller ble betraktet som yrkesaktiv tjenestemann da trygdetilfellet inntraff. Pensjon ved dødsfall og etterlattepensjon (til gjenlevende ektefelle, barn som har mistet en eller begge foreldre, og foreldre), som kommer inn under avdeling I i konsolidert lov om statspensjonister, dersom tjenestemannen var eller ble betraktet som yrkesaktiv da dødsfallet inntraff.
+
+Italia
+
+Italiensk pensjon ved full arbeidsudyktighet (inabilità).
+
+Latvia
+
+Etterlattepensjon beregnet på grunnlag av antatt trygdetid (artikkel 23 nr. 8 i lov om statspensjon av 1. januar 1996).
+
+Litauen
+
+a\) Statlig pensjon ved arbeidsudyktighet som utbetales i henhold til lov om pensjon fra den statlige sosialforsikringen.
+
+b\) Etterlattepensjon og barnepensjon fra den statlige sosialforsikringen, beregnet på grunnlag av avdødes pensjon ved arbeidsudyktighet i henhold til lov om pensjon fra den statlige sosialforsikringen.
+
+Luxembourg
+
+Uføre- og etterlattepensjon.
+
+Slovakia
+
+a\) Slovakisk uførepensjon og herav avledet etterlattepensjon.
+
+b\) –
+
+Finland
+
+Tjenestepensjon, der det tas hensyn til framtidige tidsrom i samsvar med nasjonal lovgivning.
+
+Sverige
+
+Ytelse ved sykdom og aktivitetskompensasjon i form av garantikompensasjon (kapittel 35 i sosialforsikringsloven).
+
+Etterlattepensjon beregnet på grunnlag av godskrevne forsikringsperioder (kapittel 76–85 i sosialforsikringsloven).
+
+Island
+
+Uførepensjon i form av grunnpensjon, tilleggspensjon og aldersrelatert tilleggspensjon i henhold til lov nr. 100/2007 om trygd.
+
+Uførepensjon i henhold til lov nr. 129/1997 om obligatorisk pensjonsforsikring og om virksomheten i pensjonsfond.
+
+Norge
+
+Norske uførepensjoner, også når de omgjøres til alderspensjon ved oppnådd pensjonsalder, og alle pensjoner (etterlatte- og alderspensjoner) som er basert på en avdød persons pensjonsopptjening
+
+III\. Avtaler nevnt i forordningens artikkel 54 nr. 2 bokstav b) i), der hensikten er å unngå at det samme godskrevne tidsrommet medregnes mer enn én gang
+
+Trygdeavtale av 28. april 1997 mellom Republikken Finland og Forbundsrepublikken Tyskland.
+
+Trygdeavtale av 10. november 2000 mellom Republikken Finland og Storhertugdømmet Luxembourg.
+
+Nordisk konvensjon om trygd av 18. august 2003.
+
+Vedlegg X
+
+Særlige, ikke-avgiftsbaserte kontantytelser (Artikkel 70 nr. 2 bokstav c))
+
+Belgia
+
+a\) Inntektserstatningsstønad (lov av 27. februar 1987).
+
+b\) Garantert inntekt til eldre (lov av 22. mars 2001).
+
+Bulgaria
+
+Sosialpensjon for eldre (artikkel 89 i trygdeloven).
+
+Tsjekkia
+
+Sosiale ytelser (lov om offentlige trygdeorganer nr. 117/1995 Sb.).
+
+Danmark
+
+Bostøtte til pensjonister (lov om individuell boligstøtte, konsolidert ved lov nr. 204 av 29. mars 1995).
+
+Tyskland
+
+a\) Grunnleggende minsteinntekt for eldre og personer med redusert inntektsevne i henhold til kapittel 4 i bok XII i Sozialgesetzbuch.
+
+b\) Ytelser til dekning av levekostnader i henhold til grunngarantien for arbeidssøkere med mindre, med hensyn til disse ytelser, vilkårene for rett til et midlertidig tillegg som omfatter bekreftelse på mottak av ytelser ved arbeidsløshet (artikkel 24 nr. 1 i Sozialgesetzbuch II) er oppfylt.
+
+Estland
+
+a\) Uførestønad for voksne (lov om sosialstønad til uføre av 27. januar 1999).
+
+b\) Statlige ytelser ved arbeidsløshet (lov av 29. september 2005 om arbeidsmarkedstjenester og arbeidsmarkedsstøtte).
+
+Irland
+
+a\) Støtte til arbeidssøkere (lov om trygd og velferd 2005 (konsolidert), tredje del, kapittel 2).
+
+b\) Statlig pensjon (ikke-avgiftsbasert) (lov om trygd og velferd 2005 (konsolidert), tredje del, kapittel 4).
+
+c\) Enkepensjon (ikke-avgiftsbasert) og enkemannspensjon (ikke-avgiftsbasert) (lov om trygd og velferd 2005 (konsolidert), tredje del, kapittel 6).
+
+d\) Ytelser til uføre (lov om trygd og velferd 2005 (konsolidert), tredje del, kapittel 10).
+
+e\) Transportstønad (lov om helse av 1970, artikkel 61).
+
+f\) Stønad til blinde (lov om trygd og velferd 2005 (konsolidert), tredje del, kapittel 5).
+
+Hellas
+
+Særlige ytelser til eldre (lov nr. 1296/82).
+
+Spania
+
+a\) Garantert minsteinntekt (lov nr. 13/82 av 7. april 1982).
+
+b\) Kontantytelser til eldre og uføre som er arbeidsudyktige (kongelig dekret nr. 2620/81 av 24. juli 1981).
+
+c\) i) Ikke-avgiftsbasert uførepensjon og pensjon ved arbeidsopphør som fastsatt i artikkel 38 nr. 1 i den konsoliderte utgaven av den alminnelige loven om trygd, godkjent ved kongelig dekret nr. 1/1994 av 20. juni 1994, og
+
+ii\) tilleggsytelser til ovennevnte pensjoner, i samsvar med lovgivningen i de autonome regionene, der slike tilleggsytelser sikrer en minste inntekt til opphold idet det tas hensyn til den økonomiske og sosiale situasjonen i de berørte autonome regioner.
+
+d\) Ytelser til fremme av mobilitet og til kompensasjon av transportkostnader (lov nr. 13/1982 av 7. april 1982).
+
+Frankrike
+
+a\) Tilleggsytelser fra
+
+i\) det særlige fondet for uføre, og
+
+ii\) solidaritetsfondet for eldre med hensyn til ervervede rettigheter (lov av 30. juni 1956, kodifisert i bok VIII i trygdeloven).
+
+b\) Ytelser til voksne uføre (lov av 30. juni 1975, kodifisert i bok VIII i trygdeloven).
+
+c\) Særlig ytelse (lov av 10. juli 1952, kodifisert i bok VIII i trygdeloven) med hensyn til ervervede rettigheter.
+
+d\) Solidaritetsytelser til eldre (forordning av 24. juni 2004, kodifisert i bok VIII i trygdeloven) fra 1. januar 2006.
+
+Italia
+
+a\) Sosialpensjon til ubemidlede statsborgere (lov nr. 153 av 30. april 1969).
+
+b\) Pensjoner og ytelser til sivile uføre og funksjonshemmede (lov nr. 118 av 30. mars 1971, nr. 18 av 11. februar 1980 og nr. 508 av 23. november 1988).
+
+c\) Pensjoner og ytelser til døvstumme (lov nr. 381 av 26. mai 1970 og nr. 508 av 23. november 1988).
+
+d\) Pensjoner og ytelser til sivile blinde (lov nr. 382 av 27. mai 1970 og nr. 508 av 23. november 1988).
+
+e\) Tillegg til minstepensjonen (lov nr. 218 av 4. april 1952, nr. 638 av 11. november 1983 og nr. 407 av 29. desember 1990).
+
+f\) Tillegg til uførestønad (lov nr. 222 av 12. juni 1984).
+
+g\) Sosiale ytelser (lov nr. 335 av 8. august 1995).
+
+h\) Forhøyet sosialtilskudd (artikkel 1 nr. 1 og 12 i lov nr. 544 av 29. desember 1988, med senere endringer).
+
+Kypros
+
+a\) Sosialpensjon (lov om sosialpensjon av 1995 (lov 25(I)/95), med endringer).
+
+b\) Ytelser til svært bevegelseshemmede personer (ministerrådets beslutning nr. 38210 av 16. oktober 1992, nr. 41370 av 1. august 1994, nr. 46183 av 11. juni 1997 og nr. 53675 av 16. mai 2001).
+
+c\) Særlig ytelse til blinde (lov om særlige ytelser av 1996 (lov 77(I)/96), med endringer).
+
+Latvia
+
+a\) Statlig sosialforsikringsstønad (lov om statlige sosialstønader av 1. januar 2003).
+
+b\) Ytelser som kompensasjon for transportutgifter for funksjonshemmede med bevegelseshemning (lov om statlige sosialstønader av 1. januar 2003).
+
+Litauen
+
+a\) Sosialpensjon (lov av 2005 om statlige sosiale ytelser, artikkel 5).
+
+b\) Stønadsutbetaling (lov av 2005 om statlige sosiale ytelser, artikkel 15).
+
+c\) Transportgodtgjøring for funksjonshemmede med mobilitetsproblemer (lov av 2000 om transportgodtgjøring, artikkel 7).
+
+Luxembourg
+
+Inntektsstøtte for alvorlig funksjonshemmede (artikkel 1 nr. 2 i lov av 12. september 2003), med unntak for personer som er anerkjente som funksjonshemmede arbeidstakere og ansatt på det åpne arbeidsmarkedet eller i et vernet miljø.
+
+Ungarn
+
+a\) Livrente ved uførhet (ministerrådets dekret nr. 83/1987 (XII 27) om livrente ved uførhet).
+
+b\) Ikke-avgiftsbasert pensjonsytelser (lov III av 1993 om trygdeadministrasjon og trygdeytelser).
+
+c\) Transportstønad (regjeringsdekret nr. 164/1995 (XII 27) om transportytelser for personer med alvorlig fysisk funksjonshemming).
+
+Malta
+
+a\) Tilleggsstønad (avsnitt 73 i trygdeloven (kap. 318) 1987);
+
+b\) Alderspensjon (trygdeloven (kap. 318) 1987).
+
+Nederland
+
+a\) Lov om støtte til arbeid og sysselsetting for unge funksjonshemmede av 24. april 1997 (Wet Wajong).
+
+b\) Lov om tilleggsytelser av 6. november 1986 (TW).
+
+Østerrike
+
+Kompensasjonstillegg (forbundslov av 9. september 1955 om alminnelig trygdeordning – ASVG, forbundslov av 11. oktober 1978 om trygdeordning for selvstendig næringsdrivende beskjeftiget i handelssektoren – GSVG, og forbundslov av 11. oktober 1978 om trygdeordning for selvstendig næringsdrivende gårdbrukere – BSVG).
+
+Polen
+
+Sosialpensjon (lov av 27. juni 2003 om sosialpensjon).
+
+Portugal
+
+a\) Ikke-avgiftsbasert statlig alderspensjon og uførepensjon (lovdekret nr. 464/80 av 13. oktober 1980).
+
+b\) Ikke-avgiftsbasert enkepensjon (forordning nr. 52/81 av 11. november 1981).
+
+c\) Solidaritetstillegg til eldre (lovdekret nr. 232/2005 av 29. desember 2005, endret ved lovdekret nr. 236/2006 av 11. desember 2006).
+
+Slovenia
+
+a\) Statlig pensjon (lov om pensjons- og uføreforsikring av 23. desember 1999).
+
+b\) Inntektsstøtte for pensjonister (lov om pensjons- og uføreforsikring av 23. desember 1999).
+
+c\) Underholdsbidrag (lov om pensjons- og uføreforsikring av 23. desember 1999).
+
+Slovakia
+
+a\) Justering av pensjoner som utgjør eneste inntektskilde, som er foretatt før 1. januar 2004.
+
+b\) Sosialpensjon som er tilkjent før 1. januar 2004.
+
+Finland
+
+a\) Bostøtte til pensjonister (lov om bostøtte til pensjonister (571/2007)).
+
+b\) Arbeidsmarkedsstønad (lov om ytelser ved arbeidsløshet (1290/2002)).
+
+c\) Særlig støtte til innvandrere (lov om særlig støtte til innvandrere (1192/2002)).
+
+Sverige
+
+a\) Bostøtte til personer som mottar en pensjon (lov 2001: 761).
+
+b\) Økonomisk støtte til eldre (lov 2001: 853).
+
+Det forente kongerike
+
+a\) Statlig pensjonstillegg (lov om statlig pensjonstillegg av 2002 og lov om statlig pensjonstillegg (Nord-Irland) av 2002).
+
+b\) Inntektsbasert støtte til arbeidssøkere (lov om arbeidssøkere av 1995 og forordning om arbeidssøkere (Nord-Irland) av 1995).
+
+c\) –
+
+d\) Stønad til livsopphold for uføre, transportstøtte (lov om trygdeavgifter og -ytelser av 1992, og lov om trygdeavgifter og -ytelser (Nord-Irland) av 1992).
+
+e\) Inntektsbasert sysselsettingsbidrag og støttebidrag (lov om velferdsreform av 2007 og lov om velferdsreform (Nord-Irland) av 2007).
+
+Liechtenstein
+
+a\) Stønad til blinde (lov av 17. desember 1970 om stønad til blinde, med senere endringer).
+
+b\) Svangerskaps- og fødselsstønad (lov av 25. november 1981 om svangerskaps- og fødselsstønad).
+
+c\) Tilleggsytelser til alders-, etterlatte- og uføretrygd (lov av 10. desember 1965 om tilleggsytelser til alders-, etterlatte- og uføretrygd, med senere endringer).
+
+Norge
+
+a\) Garantert minste tilleggspensjon under lov om folketrygd til personer som er født uføre eller er blitt uføre i ung alder.
+
+b\) Særlige ytelser i henhold til lov av 29. april 2005 nr. 21 om supplerande stønad til personar med kort butid i Noreg.
+
+Vedlegg XI
+
+Særlige bestemmelser om anvendelsen av medlemsstatenes lovgivning (Artikkel 51 nr. 3, artikkel 56 nr. 1 og artikkel 83)
+
+Bulgaria
+
+Artikkel 33 nr. 1 i den bulgarske lov om syketrygd får anvendelse på alle personer som Bulgaria er kompetent medlemsstat for i henhold til avdeling III kapittel 1 i denne forordning.
+
+Tsjekkia
+
+Ved definering av familiemedlemmer i henhold til artikkel 1 bokstav i), omfatter «ektefelle» også registrerte partnere som definert i tsjekkisk lov nr. 115/2006 Coll. om registrert partnerskap.
+
+Danmark
+
+1\. a) Ved beregning av pensjonen i henhold til «lov om social pension» skal tidsrom som arbeidstaker eller selvstendig næringsdrivende som er tilbakelagt etter dansk lovgivning av en grensearbeider eller en arbeider som har reist til Danmark for å utføre sesongarbeid, anses som botid tilbakelagt i Danmark av den etterlatte ektefellen forutsatt at ektefellene i denne tiden var gift med hverandre og ikke var separert eller levde atskilt på grunn av uoverensstemmelser, og forutsatt at den etterlatte ektefellen i dette tidsrommet var bosatt i en annen medlemsstats territorium. I dette nummer menes med «sesongarbeid» arbeid som, fordi det avhenger av årstidene, automatisk gjentas hvert år.
+
+b\) Ved beregning av pensjonen i henhold til «lov om social pension» skal tidsrom som arbeidstaker eller selvstendig næringsdrivende som er tilbakelagt etter dansk lovgivning før 1. januar 1984, av en person som ikke omfattes av nr. 1 bokstav a), anses som botid tilbakelagt i Danmark av den etterlatte ektefellen forutsatt at ektefellene i denne tiden var gift med hverandre og ikke var separert eller levde atskilt på grunn av uoverensstemmelser, og forutsatt at den etterlatte ektefellen i dette tidsrommet var bosatt på en annen medlemsstats territorium.
+
+c\) Tidsrom som skal medregnes i henhold til bokstav a) og b), skal ikke tas hensyn til dersom de sammenfaller med tidsrom som medregnes i beregningen av pensjon som skal utbetales til den berørte person i henhold til en annen medlemsstats lovgivning om pliktig trygd, eller de sammenfaller med tidsrom da den berørte person mottok en pensjon i henhold til slik lovgivning. Disse tidsrommene skal imidlertid tas hensyn til dersom det årlige beløpet for nevnte pensjon er mindre enn halvparten av grunnbeløpet for sosialpensjonen.
+
+2\. a) Uten hensyn til bestemmelsene i artikkel 6 i denne forordning har personer som ikke har hatt inntektsgivende arbeid i en eller flere medlemsstater, rett til en dansk sosialpensjon bare dersom de har vært fast bosatt i Danmark i minst tre år, idet det tas hensyn til de aldersgrenser som er fastsatt i dansk lovgivning. Med forbehold for artikkel 4 i denne forordning får artikkel 7 ikke anvendelse på en dansk sosialpensjon som slike personer har ervervet rett til.
+
+b\) Ovennevnte bestemmelser får ikke anvendelse på rett til dansk sosialpensjon for familiemedlemmer til personer som har eller har hatt inntektsgivende arbeid i Danmark, eller for studenter eller medlemmer av deres familier.
+
+3\. Den midlertidige ytelsen til arbeidsløse personer som er omfattet av ordningen med fleksibelt arbeid (ledighedsydelse) (lov nr. 455 av 10. juni 1997), omfattes av avdeling III kapittel 6 i denne forordning. Når det gjelder arbeidsløse personer som reiser til en annen medlemsstat, skal artikkel 64 og 65 få anvendelse når denne medlemsstat har lignende sysselsettingsordninger for samme personkategori.
+
+4\. Når mottakeren av en dansk sosialpensjon også har rett til etterlattepensjon fra en annen medlemsstat, skal disse pensjonene ved anvendelsen av dansk lovgivning anses som ytelser av samme art i henhold til artikkel 53 nr. 1 i denne forordning, forutsatt at vedkommende hvis trygdetid eller botid danner grunnlag for beregningen av etterlattepensjon, også hadde ervervet rett til en dansk sosialpensjon.
+
+Tyskland
+
+1\. Uten hensyn til artikkel 5 bokstav a) i denne forordning og artikkel 5 nr. 4 punkt 1 i Sozialgesetzbuch VI (bok VI i Sozialgesetzbuch), kan en person som mottar full alderspensjon i henhold til en annen medlemsstats lovgivning, anmode om å bli pliktig medlem i den tyske pensjonstrygdeordningen.
+
+2\. Uten hensyn til artikkel 5 bokstav a) i denne forordning og artikkel 7 i Sozialgesetzbuch VI (bok VI i Sozialgesetzbuch) kan en person som har pliktig trygd i en annen medlemsstat eller mottar alderspensjon i henhold til en annen medlemsstats lovgivning, bli medlem av den frivillige trygdeordningen i Tyskland.
+
+3\. Ved tildeling av kontantytelser i henhold til § 47 nr. 1) i SGB V, § 47 nr. 1 i SGB VII og § 200 nr. 2 i Reichsversicherungsordnung til medlemmer i trygdeordningen som bor i en annen medlemsstat, beregner de tyske trygdeordningene nettolønnen, som anvendes for å beregne ytelser, som om medlemmet av trygdeordningen bodde i Tyskland, med mindre medlemmet av trygdeordningen anmoder om en vurdering på grunnlag av den nettolønnen vedkommende faktisk mottar.
+
+4\. Borgere fra andre medlemsstater som har sitt bosted eller sin vanlige bopel utenfor Tyskland, og som oppfyller de allmenne vilkårene i den tyske pensjonstrygdeordningen, kan betale frivillige avgifter bare dersom de på et tidligere tidspunkt har hatt frivillig eller pliktig medlemskap i den tyske pensjonstrygdeordningen; dette gjelder også for statsløse personer og flyktninger som har sitt bosted eller sin vanlige bopel i en annen medlemsstat.
+
+5\. Det faste godskrevne tidsrommet (pauschale Anrechnungszeit) i henhold til artikkel 253 i Sozialgesetzbuch VI (bok VI i Sozialgesetzbuch) skal fastsettes bare på grunnlag av tidsrom med tysk trygd.
+
+6\. I tilfeller der den tyske pensjonslovgivningen som var gjeldende 31. desember 1991, får anvendelse ved omregningen av en pensjon, får bare tysk lovgivning anvendelse ved beregning av erstatningsperioder (Ersatzzeiten).

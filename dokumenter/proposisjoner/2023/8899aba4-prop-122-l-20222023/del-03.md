@@ -1,554 +1,188 @@
-# Prop. 122 L (2022–2023), del 3 av 3 (side 27–36)
+# Prop. 122 L (2022–2023), del 3 av 4
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2023/8899aba4-prop-122-l-20222023.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-122-l-20222023/id2978530/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b619e8654f14dc0a93ef3d2141049a9/no/pdfs/prp202220230122000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 27]
-
-2022–2023
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-departementet det klart at Stortingets intensjon
-har vært at forskrift om utførelse av arbeid, med
-hjemmel i arbeidsmiljøloven og med Arbeidstilsynet som tilsynsmyndighet, skal gjelde for dykkere
-– også når dykking foregår fra skip. Dette vil særlig gjelde forskriftens kapittel 26 om sikkerhet ved
-dykkearbeid. Arbeidsmiljølovens dykkespesifikke regler fastsatt i forskrift vil også på dette
-området dermed måtte gis forrang foran forskrift
-om dykking gitt i medhold av skipssikkerhetsloven.
-Når det gjelder øvrige regler i henholdsvis
-arbeidsmiljøloven og skipssikkerhetsloven som
-potensielt innebærer motstrid, er departementets
-vurdering at Stortinget ikke har vært like tydelig
-på at arbeidsmiljølovens regler skal ha forrang.
-Det vises i denne sammenheng også til at komiteflertallet i Innst. 282 L (2020–2021) side 7 uttaler
-at «skipssikkerhetsloven får naturlig anvendelse
-med hensyn til forhold knyttet til skipet, så lenge
-skipet omfattes av lovens virkeområde. Dette gjelder for eksempel krav til teknisk, operativ, personlig og miljømessig sikkerhet». Etter departementets vurdering er det derfor naturlig å legge til
-grunn at skipssikkerhetsloven med tilhørende forskrifter legges til grunn lex specialis i tilfelle motstrid med arbeidsmiljøloven når det gjelder øvrige
-regler.
-Oppsummert innebærer departementets vurdering av ovennevnte forhold at for dykkere som
-har sitt arbeid på skip, og som med lovvedtaket
-henføres under arbeidsmiljøloven, vil både
-arbeidsmiljøloven og skipssikkerhetsloven gjelde.
-Der lovene regulerer samme forhold som innebærer motstrid, vil for det første arbeidsmiljøloven kapittel 10 om arbeidstid gå foran skipssikkerhetsloven §§ 23 og 24, og for det andre vil de
-dykketekniske regler fastsatt i medhold av
-arbeidsmiljøloven gå foran forskrift om dykking
-fastsatt i medhold av skipssikkerhetsloven. I tilfelle regelverkskollisjon mellom andre regler for
-øvrig, vil skipssikkerhetsloven måtte gå foran. Av
-pedagogiske hensyn antar departementet at det er
-hensiktsmessig at disse forhold fremgår uttrykkelig i forskrift.
-
-5.3.3 Særlig om rednings- og nøddykking
-Departementet har merket seg at Redningsselskapet i sitt høringsinnspill fremholder at «det har
-vært en allmenn oppfatning at RS’ dykkervirksomhet ikke omfattes av endringsloven».
-Redningsselskapet viser i den forbindelse til
-muntlige uttalelser fra Stortingets talerstol i forbindelse med behandling av Prop. 68 L (2020–
-
-27
-
-2021). Redningsselskapet hevder blant annet at dersom arbeidsmiljøloven skulle bli gjeldende regelregime for Redningsselskapets dykkevirksomhet,
-og det ikke sikres tilstrekkelig tilpasning til gjeldende krav herunder for arbeids- og hviletid, vil
-det innebære en tvungen avvikling av Redningsselskapets dykkevirksomhet.
-Departementet viser til at den vedtatte bestemmelsen i arbeidsmiljøloven § 1-2 andre ledd bokstav a ikke oppstiller noen unntak for særlige
-bransjer, visse former for dykking eller lignende.
-Dersom rednings- og nøddykking skal unntas fra
-bestemmelsen er det etter departementets vurdering således behov for at dette fastsettes særskilt.
-Departementet vil vurdere nærmere behovet for
-et unntak for rednings- og nøddykking, og viser i
-den forbindelse til at den foreslåtte forskriftshjemmelen vil åpne for at det kan fastsettes unntak fra
-arbeidsmiljøloven § 1-2 andre ledd bokstav a om
-«dykkeoperasjoner» i forskrift.
-
-5.4
-
-Særlig om skipsførers
-ansvarsforhold
-
-5.4.1 Bakgrunn og gjeldende rett
-I anmodningsvedtak nr. 771 har Stortinget bedt
-om at kapteinens ansvarsforhold under dykkeoperasjoner avklares. I skipssikkerhetsloven og skipsarbeidsloven benyttes betegnelsen «skipsfører»
-om den som har øverste myndighet om bord på
-skipet, og departementet vil i det videre benytte
-denne betegnelsen.
-Når det gjelder skipssikkerhetsloven, får denne
-anvendelse for skip uavhengig av om arbeidstakere på skipet omfattes av arbeidsmiljøloven eller
-skipsarbeidsloven. Dersom skipsfører selv deltar i
-dykkeoperasjoner, vil skipssikkerhetslovens plikter for skipsfører dermed gjelde uavhengig av om
-arbeidsmiljøloven ellers regulerer arbeidsforholdet. Skipsførerens ansvarsforhold i forbindelse
-med dykkeoperasjoner må vurderes med dette
-som utgangspunkt.
-Skipsførerens ansvarsforhold må ses i sammenheng med rederiets plikter. Rederiet er
-hovedpliktsubjekt etter skipssikkerhetsloven, jf.
-eksempelvis Ot.prp. nr. 87 (2005–2006) punkt
-8.2.4. Der hvor skipsfører har «sørge for»-plikter
-er dette konkret angitt. I tilknytning til eksempelvis lovens kapittel 3 om teknisk og operativ sikkerhet, og lovens kapittel 4 om arbeidsmiljø og personlig sikkerhet, er skipsførerens medvirkningsog sørge for-plikter konkret listet opp i henholdsvis §§ 19 og 29.
-
-[Side 28]
-
-28
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-5.4.2 Høringsinstansenes syn
-LO viser til at de har fått beskrevet flere uheldige
-situasjoner der skipsfører samtidig har fungert
-som dykkeleder eller lineholder og derfor ikke alltid kan ha tilstrekkelig oppmerksomhet og innsats
-i samtlige oppgaver på en gang. LO mener at
-skipsfører derfor ikke bør ha oppgaver med å ivareta fartøyets integritet så lenge dykkeoperasjonen pågår, og eventuelle redningsoperasjoner er
-avsluttet. Ut over dette støtter LO departementets
-vurderinger på dette feltet.
-Også Industri Energi bemerker at de har fått
-flere tilbakemeldinger om uheldige situasjoner
-der skipsfører samtidig har fungert som dykkeleder eller lineholder, og derfor ikke har hatt tilstrekkelig fokus på dykkeleder- eller lineholderoppgaven. Industri Energi fremholder at dersom
-skipsfører skal fungere som en del av et dykkerlag, fordrer dette full fokus. Skipsfører kan dermed ikke ha oppgaver med å ivareta fartøyets
-integritet så lenge dykkeoperasjonen pågår, og
-eventuelle redningsoperasjoner er avsluttet.
-Industri Energi fremholder at de vet at enkelte selskap nå i noe større grad benytter egne skipsførere, mens andre selskap har etablert interne prosedyrer for å holde disse oppgavene adskilt, grunnet uheldig erfaring. Utover dette støtter Industri
-Energi departementets vurdering i høringsnotatet.
-Yrkesdykkernes Fagforening mener at skipsførerens ansvarsforhold kan opprettholdes selv ved
-dykking. Yrkesdykkernes Fagforening viser til at
-når skipsfører selv dykker, kan regelverket i sjøloven § 136 andre ledd brukes: «Forlater skipsføreren skipet, plikter denne å gi den øverste tilstedeværende styrmann eller, dersom ingen styrmann er til stede, en annen av mannskapet underretning og nødvendig ordre for påkommende tilfelle.» Yrkesdykkernes Fagforening fremholder at
-det nok er flere spørsmål rundt dette temaet, men
-mener at det vil være et åpent spørsmål uansett
-hvilken vernelov som gjelder.
-Norsk Sjømannsforbund, Norsk Sjøoffisersforbund og Det norske maskinistforbund fremholder
-at skipsfører etter bestemmelser i skipssikkerhetsloven har et strengere ansvar enn arbeidsgiver, noe som avviker fra arbeidsmiljølovens regler.
-Disse organisasjonene viser til at departementets
-uttalelse i høringsnotatet om at skipsfører er
-«arbeidsgivers leder om bord» bare kan være korrekt dersom det legges til grunn at arbeidsgiver
-og rederiet er samme rettssubjekt, noe det ofte
-ikke er i skipsfarten. Sjøretten for øvrig er nemlig
-basert på at skipsføreren er rederens fullmektig
-
-2022–2023
-
-(jf. sjøloven kapittel 6), mens skipssikkerhetsloven har definerte plikter for rederi, skipsfører
-og arbeidsgiver, som ikke har paralleller i arbeidsmiljøloven. Disse organisasjonene viser blant
-annet til at rederiet er hovedpliktsubjektet i skipssikkerhetsloven, og at det har en plikt til å påse at
-hele kapittel 4 er oppfylt. Etter Norsk Sjømannsforbunds, Norsk Sjøoffisersforbunds og Det norske maskinistforbunds syn adresserer ikke departementet
-godt nok hvem som har ansvar for sikkerheten
-når det gjelder dykkeoperasjoner. Det må blant
-annet avklares om skipsfører nå har ansvaret for
-alle de plikter som i dag etter forskrift om utførelse av arbeid (FOR-2011-12-06-1357) kapittel 26
-tilligger arbeidsgiver, og dette må i tilfelle klargjøres i forskriften.
-Sjømat Norge viser til at arbeidsgiver og rederi
-ikke nødvendigvis alltid er samme rettssubjekt,
-noe som ikke er hensyntatt i høringsnotatets
-behandling av blant annet skipsførers ansvar.
-Kystrederiene har vedlagt juridisk betenkning
-om dykkeregelverket til sjøs av Sigmund Simonsen og Roald M. Engeness av 28. oktober 2021 til
-sitt høringsinnspill. I betenkningen kapittel 6.8
-fremgår det blant annet om skipsførers ansvarsforhold at skipsføreren har sørge for-ansvar i de
-tilfeller rederiet ikke har det, ellers har skipsføreren, som rederiets øverste representant om bord
-og den som har kommandoen om bord, flere sentrale medvirkningsplikter. I kapittel 7.2 i
-betenkningen fremkommer det videre at «når
-uhell inntrer, oppstår spørsmål om rederiet eller
-noen som handler på vegne av rederiet eventuelt
-kan straffes etter arbeidsmiljøloven. Dette kan
-være usikkert. Dersom det foreligger et straffverdig forhold, vil det i alle tilfelle kunne bli spørsmål
-om straff for overtredelse av skipssikkerhetsloven
-og forskrifter i medhold av den. Dersom dykkerarbeidet ledes av skipsføreren selv om denne ikke
-tar del i dykkeroperasjonen, oppstår spørsmålet
-om denne kan anses som «den som i arbeidsgivers sted leder virksomheten».»
-Sjøfartsdirektoratet påpeker at det er klart nok
-at skipsfører har selvstendige plikter og tilhørende ansvar som følger av skipssikkerhetsloven.
-Det er likevel uklart for Sjøfartsdirektoratet hvilke
-premisser departementet legger til grunn når
-departementet konkluderer med at endringene i
-arbeidsmiljøloven § 1-2 andre ledd bokstav a, når
-disse trer i kraft, ikke vil berøre eller innskrenke
-skipsførers rolle eller myndighet etter skipssikkerhetsloven. Sjøfartsdirektoratet viser til at skipssikkerhetslovens og skipsarbeidslovens regler er
-kompletterende, og det forhold at skipsarbeidsloven helt eller delvis settes til side, kan da også
-
-[Side 29]
-
-2022–2023
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-påvirke skipsførerens rolle og myndighet. Sjøfartsdirektoratet er videre ikke ubetinget enig i
-departementets begrunnelse knyttet til at skipsfører i en arbeidsmiljøkontekts (alltid) vil regnes
-som arbeidsgiver om bord. Det er ikke uvanlig at
-en virksomhet som bruker skip som base for å
-produsere tjenester eller fysiske produkter, ikke
-har en direkte tilknytning til rederiet. Sjøfartsdirektoratet viser til at et skip kan være leid ut til en
-befrakter som har eget personell om bord for å
-gjøre bruk av skipet, og dette personalet vil følgelig ikke være underlagt rederiets styringsrett. Sjøfartsdirektoratet fremholder at med utgangspunkt
-i at skipsfører kan vurderes som rederiets fullmektig om bord, vil denne rollen ikke nødvendigvis anses som arbeidsgiver for alle som utøver et
-yrke om bord i skipet. Virksomheter som tilbyr
-yrkesdykking fra skip, må følgelig heller ikke
-være direkte knyttet til den virksomheten som
-drifter selve skipet. Likevel påpeker Sjøfartsdirektoratet at skipsføreren har det overordnede ansvaret for skipets og de ombordværendes sikkerhet
-slik dette følger av skipssikkerhetsloven og forskrifter gitt i medhold av loven.
-Arbeidstilsynet er enig i departementets vurderinger: At «lovvedtaket ikke på noen måte vil
-berøre eller innskrenker skipsførers rolle eller
-myndighet etter skipssikkerhetsloven.» Arbeidstilsynet støtter videre at skipsfører vil regnes som
-arbeidsgiver om bord («den som i arbeidsgivers
-sted leder virksomheten»), jf. arbeidsmiljøloven
-§ 1-8 andre ledd andre punktum. Arbeidstilsynet
-påpeker at under en pågående dykkeaktivitet er
-det samtidig viktig at dykkeleder har ansvar for å
-lede dykkeoperasjonen og påse at hensynet til
-helse og sikkerhet blir ivaretatt i den forbindelse,
-jf. forskrift om utførelse av arbeid § 26-28. Arbeidstilsynet påpeker at kommunikasjon mellom dykkeleder og skipsfører må være god, men ser ikke
-grunn til å foreslå nye regler som regulerer forholdet mellom skipsfører og dykkeleder.
-
-5.4.3 Departementets vurdering
-Som det fremgår under forrige punkt, har flere
-instanser i høringen fremholdt at det ikke vil være
-forsvarlig å la skipsfører delta i dykkeoperasjoner,
-fordi det kan gå utover skipsførerens overordnede
-ansvar for skipets sikkerhet. Det fremholdes derfor at det bør fastsettes at skipsføreren ikke skal
-kunne delta i slike operasjoner. Slik departementet ser det, er det ikke grunnlag for å fastslå en
-slik regel. Skipsfører, og eventuelt rederiet, må
-
-29
-
-konkret vurdere om det vil være forsvarlig for
-skipsføreren å delta i dykkeoperasjonen, det være
-seg rollen som dykkeleder, lineholder, beredskapsdykker eller dykker. For øvrig vil reglene
-om rederiets ansvar og rolle i styring av risiko,
-drift av skipet mv. i skipssikkerhetsloven fortsatt
-gjelde.
-Det er videre viktig for departementet å slå
-fast at innføring av bestemmelsen om dykkeoperasjoner i arbeidsmiljøloven § 1-2 andre ledd bokstav a ikke er ment å berøre eller innskrenke
-skipsførers rolle og myndighet etter skipssikkerhetsloven. Sjøfartsdirektoratet har i den sammenheng fremholdt at det fremstår som uklart hvilke
-premisser departementet legger til grunn for
-dette. Departementet viser til at skipssikkerhetslovens (og sjølovens) regler om skipsførerens
-myndighet og plikter vil gjelde fullt ut, og at det
-også vil være tilfelle dersom skipsføreren selv deltar i dykkeoperasjoner, og derved, i kraft av
-endringsloven, vil være omfattet av arbeidsmiljøloven.
-Departementet legger for øvrig til grunn at
-skipsfører i en arbeidsmiljølovkontekst ikke vil
-anses som en «ordinær» arbeidstaker, men «den
-som i arbeidsgivers sted leder virksomheten», jf.
-arbeidsmiljøloven § 1-8 andre ledd andre punktum. Sjøfartsdirektoratet har påpekt at skipsfører
-betraktes som rederiets fullmektig om bord og
-videre at skipsfører ikke nødvendigvis vil anses
-som «arbeidsgiver» for alle som utøver et yrke om
-bord i skipet. Departementet er ikke uenig i dette.
-Hva gjelder «innaskjærs yrkesdykking», antar
-departementet at rederi og arbeidsgiver normalt
-er samme rettssubjekt. I tilfeller hvor rederi og
-arbeidsgiver skulle være ulike rettssubjekter,
-viser departementet til at rederiet som innleier
-også i en arbeidsmiljølovkontekst vil ha styringsrett overfor innleide arbeidstakere. Videre vises
-det til at arbeidsmiljøloven § 2-2 gir nærmere
-regler om arbeidsgivers plikter overfor andre enn
-egne arbeidstakere, herunder innleide arbeidstakere og selvstendige som utfører arbeidsoppgaver
-i tilknytning til arbeidsgivers aktivitet eller innretning. Videre fastsetter § 2-2 andre ledd at den virksomhet som anses som «hovedbedrift» har ansvar
-for samordningen av de enkelte virksomheters
-helse-, miljø- og sikkerhetsarbeid. Departementet
-antar at rederiet i tilfeller hvor det er flere virksomheter som utfører arbeidsoppgaver om bord
-på skip, vil anses som hovedbedrift, og at skipsfører som rederiets representant i et slikt tilfelle vil
-forestå den praktiske koordineringen om bord.
-
-[Side 30]
-
-30
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-2022–2023
-
-6 Arbeids- og hviletid for selvstendige oppdragstakere som
-driver yrkesdykking fra skip
-6.1
-
-Innledning
-
-I anmodningsvedtak nr. 772 fra Stortinget fremgår
-følgende:
-Stortinget ber regjeringen vurdere innføring
-av en forskrift med krav til arbeids- og hviletid
-for selvstendig næringsdrivende og oppdragstakere som driver yrkesdykking fra skip i virksomhet. Forskriften skal gi samme vern for
-selvstendig næringsdrivende og oppdragstakere som for arbeidstakere etter arbeidsmiljøloven.
-
-I høringsnotat 30. juni 2022 konkluderte departementet med at det ikke foreslås forskriftsregulering av arbeidstid for selvstendige oppdragstakere
-på nåværende tidspunkt. Det ble blant annet vist
-til at det å gjøre arbeidsmiljølovens arbeidstidsregler gjeldende for selvstendige oppdragstakere
-reiser både prinsipielle og praktiske spørsmål.
-Departementet uttalte samtidig at departementet
-vil følge utviklingen, og komme tilbake til spørsmålet dersom det viser seg å være behov for det.
-
-6.2
-
-Høringsinstansenes syn
-
-LO mener at ettersom arbeidstidsregulering er et
-stort risikomoment innenfor dykkevirksomhet, er
-det betenkelig at departementet ikke ønsker å
-foreslå forskriftsregulering av arbeidstid for selvstendige, og viser til at selvstendige oppdragstakere som driver dykking fra skip, utgjør en stor
-andel av yrkesdykkerne. LO viser til at usikkerhet
-(rundt arbeidstakerstatus) kan få uheldige konsekvenser ved at dykkere selv må kjempe sin rett,
-og at dette også kan ha et konkurransevridende
-aspekt. LO uttaler at dersom departementet holder fast på sitt standpunkt forutsettes det at utviklingen følges tett og nøye slik at man raskt kan
-komme tilbake til saken og gjøre tiltak. LO oppfatter samtidig dette som en oppfordring til Arbeidstilsynet om å følge dette opp. LO viser til at
-
-risikovurderinger sett opp mot arbeidstidsordninger for yrkesdykkere gjør seg like mye gjeldende
-for selvstendig næringsdrivende som for arbeidstakere, og ber om at det blir vurdert hvordan man
-kan etablere konsekvente og klare arbeidstidsordninger for yrkesdykkere som er selvstendig
-næringsdrivende.
-Industri Energi uttaler at tilbakemeldingen fra
-mange dykkere til Industri Energi, er at enkelte
-selskap stort sett bare leier inn selvstendige oppdragstakere, og at dette blant annet medfører at
-dykkeren selv har måttet tegne egne forsikringer,
-herunder yrkesskadeforsikring, sørge for eget
-skattetrekk mv. Industri Energi viser også til at det
-har vært praktisert slik at selvstendige oppdragstakere har vært unntatt arbeidstidsreguleringene.
-Industri Energi mener at dette kan være argumenter for å forskriftsfeste arbeidstidregulering for
-dykkere som er selvstendige oppdragstakere.
-Industri Energi viser samtidig til at dagens praksis
-antagelig er i strid med dagens lovverk, og disse
-støtter departementet i at det er den reelle og ikke
-den formelle statusen av arbeidsforholdet som er
-avgjørende. Industri Energi viser til at departementet i høringsnotatet uttaler at departementet
-vil følge utviklingen og eventuelt komme tilbake
-til saken, og at Industri Energi oppfatter dette samtidig som en oppfordring til Arbeidstilsynet om å
-følge dette opp. Det vises til at dette er en problemstilling som også har et konkurransevridende aspekt. Industri Energi uttaler at de støtter
-departementets vurdering og vil samtidig følge
-utviklingen i bransjen for å vurdere behovet for å
-kreve en egen forskrift. Yrkesdykkernes Fagforening er enig med Industri Energi som støtter
-departementets vurdering. Yrkesdykkernes Fagforening vil følge utviklingen i bransjen for å vurdere behovet for å kreve egen forskrift.
-Arbeidstilsynet uttaler at uklarheter knyttet til
-om dykkerne er omfattet av arbeidsmiljøloven
-eller ikke, vil være uheldig for å kunne gjennomføre effektiv kontroll, og at denne vanskelige
-grensegangen vil kunne motvirke hensikten med
-forslaget. Arbeidstilsynet viser også til hvilke for-
-
-[Side 31]
-
-2022–2023
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-hold innenfor dykking særskilt som tas i betraktning når man vurderer spørsmålet om en dykker
-er arbeidstaker eller oppdragstaker. Arbeidstilsynet mener det er gode grunner for at også yrkesdykkere som reelt sett er selvstendige oppdragstakere bør omfattes av arbeidsmiljøloven. Disse
-viser blant annet til at yrkesdykking er like risikofylt, uavhengig av om man er organisert som oppdragstaker eller man er arbeidstaker. Arbeidstilsynet mener at det kan gi incitamenter til å organisere dykkingen slik at arbeidsmiljølovens arbeidstidsbestemmelser ikke kommer til anvendelse,
-herunder ved økt bruk av selvstendige oppdragstakere. Arbeidstilsynet har forståelse for departementets prinsipielle tilnærming, men peker på at
-det ikke er tale om en fullstendig regulering av
-selvstendig oppdragstakere, men kun når det gjelder dykking. Petroleumstilsynet peker på at forslaget kan virke som insentiv til en dreining mot
-løsere tilknytningsformer ved at en ser fordeler
-ved en tilknytning som selvstendig oppdragstaker
-heller enn ordinær arbeidstaker.
-
-6.3
-
-Departementets vurdering
-
-Departementet viser til at selvstendige oppdragstakere i utgangspunktet faller utenfor arbeidsmiljølovens virkeområde, jf. § 1-2 første ledd jf. § 1-8
-første ledd. Loven gir likevel visse rettigheter og
-vern til selvstendige oppdragstakere, jf. for
-eksempel § 2-2 om arbeidsgivers plikter overfor
-andre enn egne arbeidstakere og reglene om vern
-mot diskriminering i kapittel 13, jf. § 13-2 andre
-ledd. Reglene om arbeidstid i arbeidsmiljøloven
-kapittel 10 kommer ikke til anvendelse for selvstendige oppdragstakere. Departementet kan likevel gi forskrift om at lovens regler helt eller delvis
-skal gjelde for virksomhet som ikke sysselsetter
-arbeidstaker, jf. § 1-4 første ledd. Blant annet gjelder forskrift 6. desember 2011 nr. 1357 om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av
-arbeid), herunder reglene i kapittel 26 om sikkerhet og helse ved arbeid under vann eller økt omgivende trykk for virksomhet som ikke sysselsetter
-arbeidstaker, jf. forskriften § 1-3 nr. 2 bokstav c.
-Til sammenligning har også skipsarbeidsloven
-et tilsvarende utgangspunkt; Loven gjelder i
-utgangspunktet for «arbeidstaker som har sitt
-arbeid om bord på norsk skip», men slik at selvstendige oppdragstakere er omfattet av lovens
-kapittel 8 til 10, jf. skipsarbeidsloven § 1-2. Når det
-gjelder skipssikkerhetsloven, gjelder denne på sin
-side for «dem som har sitt arbeid om bord», jf.
-
-31
-
-blant annet § 21. Dette omfatter i tillegg til
-arbeidstakere også selvstendige oppdragstakere
-og lignende. Dette innebærer blant annet at skipssikkerhetslovens arbeids- og hviletidsbestemmelser kommer til anvendelse også for selvstendige
-oppdragstakere som har sitt arbeid om bord. Forskrift 27. april 2020 nr. 876 om dykking fra skip,
-fastsatt i medhold av skipssikkerhetsloven, gjelder også for selvstendige oppdragstakere.
-Stortingets vedtak om at yrkesdykking skal
-omfattes av arbeidsmiljøloven, også om dykking
-forestås av skipets mannskap, innebærer at det er
-arbeidsmiljøloven som vil være den relevante lov
-for dykkere som er selvstendige oppdragstakere.
-For eksempel vil arbeidsmiljøloven § 2-2 og kapittel 13 gjelde. Særlig relevant i denne sammenheng er at det er de dykketekniske reglene i kapittel 26 i forskrift om utførelse av arbeid, med
-Arbeidstilsynet som tilsynsmyndighet, som vil
-gjelde for selvstendige dykkere. Under dette lovregimet vil likevel de fleste av arbeidsmiljølovens
-bestemmelser, herunder reglene om arbeids- og
-hviletid i kapittel 10, ikke gjelde for selvstendige
-oppdragstakere.
-Som det også fremgår i punkt 5.3.2 ovenfor
-legger departementet til grunn at skipssikkerhetsloven i utgangspunktet gjelder for alle som
-har sitt arbeid om bord, inkludert dykkere underlagt arbeidsmiljøloven. Departementet viser til sin
-vurdering ovenfor vedrørende forholdet mellom
-disse regelsettene. Departementet mener det er
-mest naturlig å legge til grunn at arbeids- og hviletidsbestemmelsene i skipssikkerhetsloven fortsatt
-vil gjelde for dykkere som er selvstendige oppdragstakere og som har sitt arbeid på skip. Dette
-skyldes at det for selvstendige oppdragstakere
-ikke er lovkollisjon med arbeidsmiljøloven når det
-gjelder regulering av arbeidstid for selvstendige
-oppdragstakere (fordi selvstendige oppdragstakere ikke er omfattet arbeidsmiljølovens arbeidstidsregler). Dette vil etter departementets vurdering følgelig være rettstilstanden dersom det ikke
-gjøres tilpasninger eller endringer. Så har Stortinget bedt Regjeringen vurdere å innføre forskrift
-som sikrer selvstendige oppdragstakere som driver yrkesdykking fra skip «samme vern» som
-arbeidstakere etter arbeidsmiljøloven.
-For departementet er det i utgangspunktet en
-noe fremmed tanke å skulle gjøre arbeidsmiljølovens arbeidstidsregler gjeldende for selvstendige oppdragstakere. Under arbeidsmiljølovens
-regime er et sentralt kjennetegn på selvstendighet
-nettopp muligheten til å styre egen arbeidstid. I
-arbeidsmiljøloven defineres «arbeidstid» som
-«den tid arbeidstaker står til disposisjon for
-
-[Side 32]
-
-32
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-arbeidsgiver», jf. § 10-1 første ledd. Dette er ingen
-treffende beskrivelse av en selvstendig oppdragstaker, som normalt skal levere en resultatforpliktelse til sin oppdragsgiver. I forlengelsen av dette
-kan det også reises spørsmål om hvem som bør
-være ansvarlig pliktsubjekt for at eventuelle rammer for arbeidstid etterleves; om dette bør påligge
-den selvstendige selv, eller dennes oppdragsgiver.
-Etter arbeidsmiljøloven er det arbeidsgiver som er
-pliktsubjekt etter loven, jf. § 2-1.
-Det å skulle gjøre arbeidstidsbestemmelsene i
-arbeidsmiljøloven gjeldende for selvstendige oppdragstakere, ville uansett kreve visse tilpasninger.
-Arbeidstidsbestemmelsene i kapittel 10 kommer
-ikke til anvendelse for arbeidstakere i særlig uavhengig stilling, med unntak av § 10-2 første, andre
-og fjerde ledd, jf. § 10-12 andre ledd. Det kan reises spørsmål ved hvordan denne bestemmelsen
-vil «slå ut» for selvstendig oppdragstakere som
-blir underlagt reglene.
-Departementet forstår det slik at bakgrunnen
-for Stortingets merknader vedrørende behovet for
-å vurdere å forskriftsfeste arbeidsmiljølovens
-arbeidstidsregulering for selvstendige dykkere, er
-å forebygge mulig omgåelse av endringsloven.
-Departementet vil i den forbindelse understreke
-at det er reell, og ikke formell, status som er
-avgjørende. Dersom den som utfører dykkearbeidet materielt sett er omfattet av arbeidsmiljølovens arbeidstakerbegrep, vil således arbeidsmiljøloven, herunder lovens arbeidstidsregime, uan-
-
-2022–2023
-
-sett gjelde. Arbeidstilsynet vil, her som ellers,
-«prejudisielt» kunne fatte avgjørelse om dette.
-Departementet viser i denne sammenheng også
-til at det er vedtatt en presisering av arbeidsmiljølovens arbeidstakerbegrep, samt en presumpsjonsregel om at arbeidstakerstatus skal legges til
-grunn med mindre oppdragsgiver gjør det overveiende sannsynlig at det foreligger et oppdragsforhold, jf. Prop. 14 L (2022–2023) og stortingsvedtak 9. mars 2023.
-Departementet foreslår på denne bakgrunn
-ingen egen forskriftsregulering som innebærer
-konkret å gi arbeidsmiljølovens arbeidstidsregler
-anvendelse for selvstendige oppdragstakere. Etter
-departementets vurdering kan det likevel være
-gode grunner for å vurdere nærmere behovet for
-at de dykketekniske reglene også bør inneholde
-regler om for eksempel hviletidskrav eller ytterligere tidsbestemmelser for dykkeoperasjoner.
-Departementet viser i denne sammenheng til at
-Arbeidstilsynets og Sjøfartsdirektoratets høringsnotat 29. april 2019 inneholdt et forslag om at det i
-forskrift om utførelse av arbeid § 26-1 andre ledd
-skal fremgå at «arbeidstiden og arbeidstidsordningen skal risikovurderes særskilt». Departementet
-vil be Arbeidstilsynet vurdere behovet for og
-eventuelt komme med forslag til om det bør fastsettes regler om tidsbestemmelser eller hviletidskrav for dykkeoperasjoner i forskrift om utførelse
-av arbeid kapittel 26. Slike regler vil i så fall naturlig også gjelde for selvstendige oppdragstakere.
-
-[Side 33]
-
-2022–2023
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-33
-
-7 Økonomiske og administrative konsekvenser
-Selve lovforslaget er en forskriftshjemmel og vil
-derfor ikke i seg selv ha noen økonomiske eller
-administrative konsekvenser.
-Forslaget i lovproposisjonen om at departementet kan gi utfyllende forskrifter om lovens
-anvendelse for dykkeoperasjoner tar primært
-sikte på å klargjøre rekkevidden av lovvedtaket
-7. mai 2021.
-
-Fastsettelse av forskrifter som viderefører rettigheter etter skipsarbeidsloven, jf. omtalen i
-punkt 4, vil heller ikke ha økonomiske eller administrative konsekvenser. Det vises til at dette er
-rettigheter de aktuelle arbeidstakerne har i dag.
-
-[Side 34]
-
-34
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-2022–2023
-
-8 Merknader til endringene i arbeidsmiljøloven
-Til § 1-2 andre ledd:
-Endringene i andre punktum gir departementet
-hjemmel til å fastsette nærmere forskrifter om
-lovens anvendelse for dykkeoperasjoner, og at det
-i slike forskrifter kan fastsettes særregler og unntak. Et eksempel på en «særregel» i denne forbindelse vil være forskriftsbestemmelser som «viderefører» rettigheter som i dag følger av skipsarbeidsloven, for arbeidstakere som i kraft av første
-punktum «overføres» fra skipsarbeidsloven til
-arbeidsmiljøloven. Når det gjelder det praktiske
-
-reguleringsbehovet, vises det til departementets
-drøftelser under punkt 4 og 5.
-Arbeids- og inkluderingsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver
-under et framlagt forslag til proposisjon til Stortinget om endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i arbeidsmiljøloven (forskriftshjemmel om
-lovens anvendelse for dykkeoperasjoner) i samsvar med et vedlagt forslag.
-
-[Side 35]
-
-2022–2023
-
-Prop. 122 L
-
-Endringer i arbeidsmiljøloven (forskriftshjemmel om lovens anvendelse for dykkeoperasjoner)
-
-35
-
-Forslag
-til lov om endringer i arbeidsmiljøloven (forskriftshjemmel
-om lovens anvendelse for dykkeoperasjoner)
-I
-I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. skal § 1-2 andre ledd lyde:
-(2) Unntatt fra loven er:
-a. sjøfart, fangst og fiske, herunder bearbeiding
-av fangsten ombord i skip, men likevel slik at
-dykkeoperasjoner og losing er omfattet av
-loven
-b. militær luftfart som omfattes av luftfartsloven.
-
-Departementet kan gi forskrift om unntak fra
-loven for sivil luftfart og annen statsluftfart enn
-militær luftfart og om særregler for slik luftfart og
-om lovens anvendelse for dykkeoperasjoner og om
-særregler og unntak for slike operasjoner.
-II
-
-Loven gjelder fra den tiden Kongen bestemmer.
-
-[Side 36]
-
-Departementenes sikkerhets- og serviceorganisasjon
+# Forholdet mellom arbeidsmiljøloven og skipsfartsreguleringen
+
+## Innledning
+
+I forbindelse med Stortingets lovvedtak om at yrkesdykkere skal «overføres» til arbeidsmiljøloven, har det blitt reist ulike spørsmål om forholdet mellom arbeidsmiljøloven og skipsfartsreguleringen. Det ene spørsmålet knytter seg til betydningen og rekkevidden av begrepet «dykkeoperasjoner» i den vedtatte bestemmelsen i arbeidsmiljøloven § 1-2 andre ledd bokstav a (endring i kursiv):
+
+Unntatt fra loven er
+
+a\) sjøfart, fangst og fiske, herunder bearbeiding av fangsten ombord i skip, *men likevel slik at dykkeoperasjoner og losing er omfattet av loven*
+
+Bestemmelsen innebærer at «dykkeoperasjoner» blir omfattet av arbeidsmiljøloven. Etter Stortingets lovvedtak har det blitt reist spørsmål om hvilken betydning begrepet «dykkeoperasjoner» har med hensyn til når arbeidsmiljøloven vil gjelde, og således grensedragningen mot skipsarbeidsloven. Nærmere bestemt hvorvidt bestemmelsen må forstås slik at arbeidsmiljøloven kun vil gjelde under selve dykkeoperasjonen og at arbeidsforholdet for øvrig vil reguleres av skipsfartslovgivningen, eller om arbeidsmiljøloven vil gjelde for hele arbeidsforholdet. Et tilgrensende spørsmål, som departementet ikke berørte i høringsnotatet 30. juni 2022, er rekkevidden av begrepet «dykkeoperasjoner» i sin alminnelighet, nærmere bestemt spørsmål om hva som skal til for at bestemmelsen (om at dykkeoperasjoner omfattes av arbeidsmiljøloven) i det hele tatt kommer til anvendelse. I høringen har flere høringsinstanser pekt på disse problemstillingene, særlig relatert til skipsarbeidere som både utfører yrkesdykking og har andre arbeidsoppgaver på skipet. Departementet oppfatter at det er behov for en klargjøring av disse spørsmålene.
+
+Videre har Stortinget i anmodningsvedtak nr. 771 bedt om «at bestemmelsene knyttet til arbeids- og hviletid i forbindelse med dykkeroperasjoner til sjøs klargjøres». Departementet oppfatter dette som at det bes om klargjøring av om det er arbeidsmiljølovens eller skipssikkerhetslovens arbeids- og hviletidsbestemmelser som vil gjelde for dykkere som utfører dykkeoperasjoner til sjøs, og som med lovvedtaket vil henføres under arbeidsmiljøloven. I høringen er det også etterlyst klargjøring knyttet til mulig lovkollisjon hva gjelder andre HMS-bestemmelser i henholdsvis arbeidsmiljøloven og skipssikkerhetsloven.
+
+## Høringsinstansenes syn
+
+*LO* viser blant annet til at lang arbeidstid er en av de viktigste risikofaktorene ved yrkesdykking, og at for lang arbeidstid vil kunne medføre både sikkerhetsrisiko og fysiologisk helserisiko for dykkerne. *LO* mener det gir liten mening hvis rammene for arbeidstidsordninger for dykkere på skip skal være videre enn for de som dykker fra kai og lignende. *LO* slutter seg til departementets vurdering om at arbeidsmiljølovens regler om arbeids- og hviletid skal gjelde og ha forrang over skipssikkerhetsloven i tilfelle motstrid på dette området, og at det har vært Stortingets intensjon at arbeidsmiljølovens arbeids- og hviletidsbestemmelser skal gjelde fullt ut for de aktuelle arbeidstakerne. *Yrkesdykkernes fagforening* har ingen innvendinger til departementets vurdering. *Industri Energi* støtter departementets vurdering i sin helhet. *Norsk Sjøoffiserforbund, Norsk Sjømannsforbund* og *Det norske maskinistforbund* er enige i at skipssikkerhetslovens arbeids- og hviletidsbestemmelser i §§ 23 og 24 må vike for arbeidsmiljøloven, men mener at skipssikkerhetsloven kapittel 4 bør gå foran arbeidsmiljøloven kapittel 4 ved eventuell motstrid.
+
+*NHO* mener at drøftelsene i høringsnotatet legger opp til en endret grensedragning mellom skipsarbeidsloven og arbeidsmiljøloven. *NHO* mener at det er av stor betydning at man ikke reelt sett gjør endringer som medfører at personer som har sitt arbeidssted på skip blir underlagt et annet regelsett enn sjøfolk for øvrig, uten at dette er konsekvensutredet grundigere. *Sjømat Norge* er ikke enige i departementets fortolkning av at lovgiver må ha ment at arbeidsmiljølovens arbeidstidsregler også skal gjelde for aktiviteter som ikke er dykkeoperasjoner. *Sjømat Norge* viser også til at komiteen på tidspunktet innstillingen ble avgitt ikke var tilstrekkelig kjent med at gjennomføringen trolig er i strid med både utredningsinstruksen og internasjonale forpliktelser. *Sjømat Norge* viser også til at dersom departementet fastholder sitt syn, vil dette bryte rammene fra lovgiver, og vil føre til en ytterligere begrensning i sjøfartslovverkets virkeområde. *Sjømat Norge* mener at det enkleste vil være å videreføre skipssikkerhetslovens regler også under dykking, alternativt må det klargjøres hvordan vekslingen mellom arbeids- og hviletidsbestemmelser i arbeidsmiljøloven og skipssikkerhetsloven skal fungere for de sjøfolk som kun dykker i en begrenset del av arbeidstiden sin. *Kystrederiene* mener at dersom arbeidsmiljøloven gjøres gjeldende for hele besetningene og alle som deltar i dykkeoperasjonene, vil det være brudd med de internasjonale forpliktelsene. *Kystrederiene* viser også til at ved innføring av arbeidsmiljøloven på skip ikke vil være mulig å opprettholde dagens drift av skip hvor det også gjennomføres dykkeoperasjoner.
+
+*Arbeidstilsynet* viser til at yrkesdykking er en høyrisikobransje, både med hensyn til antall ulykker og konsekvensene ulykkene har. *Arbeidstilsynet* viser til at det er godt dokumentert i arbeidsmedisinsk forskning at lang arbeidstid påvirker ulykkesrisikoen ytterligere, samtidig som risikoen for helseplager øker. *Arbeidstilsynet* viser til at en løsning som legger opp til at arbeidsmiljøloven bare gjelder for selve dykkeoperasjonen, mens skipssikkerhetsloven gjelder for øvrig arbeid, kan bli svært vanskelig å håndtere i praksis.
+
+*Sjøfartsdirektoratet* mener at spesiallovgivningen ikke kan settes til side av de mer generelle bestemmelsene i arbeidsmiljøloven når dykkeroperasjoner ikke er en fulltidsbeskjeftigelse for besetningen. *Sjøfartsdirektoratet* viser til MLC og mener at en avgjørelse knyttet til hvem som er omfattet av begrepet dykkeoperasjoner, skal treffes av Sjøfartsdirektoratet i samråd med relevante rederi- og sjømannsorganisasjoner. Disse viser også til at det kan innebære brudd på MLC dersom arbeidsmiljøloven skal regulere arbeidsforholdene til alle arbeidstakere som deltar i dykkeoperasjoner om bord på norske skip, også arbeidstakere som forestår den normale driften av skipet og som har oppgaver som fremgår av skipets alarminstruks. *Sjøfartsdirektoratet* mener at det er selve arbeidets art som bør være bestemmende for hvilke arbeids- og hviletidsregler som vil gjelde. Disse mener at dykkeoperasjoner vil følge arbeidsmiljøloven, mens oppgaver knyttet til driften av selve skipet og som derfor ikke omfatter dykkeoperasjoner vil følge skipssikkerhetsloven. *Sjøfartsdirektoratet* viser videre til at det å gi arbeidsmiljølovens arbeidstidsbestemmelser anvendelse for vaktgående besetning på skip sertifisert for fartsområde 3 eller høyere, kan innebære brudd på STCW-konvensjonen, jf. STCW A-koden seksjon VIII/1.2.1. *Sjøfartsdirektotatet* viser videre til situasjoner hvor skipsfører deltar i dykkeoperasjoner, og påpeker at arbeidsmiljøloven § 10-12 første og andre ledd innebærer at arbeidstaker i ledende eller særlig uavhengig stilling kan unntas arbeidstidsbestemmelsene i arbeidsmiljøloven kapittel 10. Det vises til at det på mindre skip er vanlig at skipsfører utfører regulær brovakttjeneste, og at skipssikkerhetslovens arbeids- og hviletidsbestemmelser følgelig får anvendelse. *Sjøfartsdirektoratet* uttaler at «med mindre arbeidsmiljølovens bestemmelser i denne sammenhengen viker tilbake for unntaksbestemmelsene som følger av arbeidsmiljøloven § 10-12, vil Norge risikere å være i brudd med internasjonale forpliktelser slik de følger av STCW-konvensjonen med tilhørende obligatoriske regelverk fastsatt i STCW A-koden».
+
+*Redningsselskapet* fremholder blant annet at det har vært en allmenn oppfatning at Redningsselskapets dykkervirksomhet ikke omfattes av endringsloven. *Redningsselskapet* viser til konkrete uttalelser gitt muntlig fra Stortingets talerstol under behandling av Prop. 68 L (2021–2022), blant annet om at redningsdykking og nøddykking ikke var ment å omfattes av arbeidsmiljøloven. *Redningsselskapet* hevder at dersom arbeidsmiljøloven skulle bli gjeldende regelregime for Redningsselskapets dykkervirksomhet, og det ikke sikres tilstrekkelig tilpasning til gjeldende krav, herunder for arbeids- og hviletid, vil det innebære en tvungen avvikling av Redningsselskapets dykkevirksomhet. *Redningsselskapet* viser blant annet til at arbeidsmiljølovens arbeids- og hviletidsbestemmelser ikke gir tilstrekkelig fleksibilitet for den turnus som er nødvendig for å ivareta tilstrekkelig beredskap, at overgang fra skipsarbeidsloven til arbeidsmiljøloven vil medføre dramatiske økte utgifter til reise og lønn, at endringene vil innebære behov for omfattende administrative endringer, og viser også til potensielle utfordringer knyttet til rekruttering. *Redningsselskapet* mener videre at det ikke er grunnlag for å tolke at alle arbeidstakere som er involvert i dykkeoperasjoner skal omfattes av arbeidsmiljøloven uavhengig av stillingsbrøk. *Redningsselskapet* er således uenig i departementets vurdering om at arbeidsmiljøloven vil regulere hele arbeidsforholdet, og ikke bare selve dykkeoperasjonen. *Redningsselskapet* mener at dette vil innebære et fragmentert regelsett for «dykkeoperasjoner» som i enda større grad vil befinne seg i grenseområdene mellom arbeidsmiljøloven og skipsarbeidsloven, og at dette vil svekke vernet for yrkesdykkere.
+
+## Departementets vurdering
+
+### Rekkevidden av begrepet «dykkeoperasjoner»
+
+Departementet behandler først spørsmålet om den generelle rekkevidden av begrepet «dykkeoperasjoner», nærmere bestemt virkeområdet for den vedtatte bestemmelsen i arbeidsmiljøloven § 1-2 andre ledd bokstav a. Departementet vil deretter vurdere spørsmålet om hvilken betydning det har for lovvalget at yrkesdykkere omfattes av arbeidsmiljøloven, det vil si om arbeidsmiljøloven i så fall vil regulere hele arbeidsforholdet eller om arbeidsmiljøloven kun vil gjelde under selve gjennomføringen av «dykkeoperasjoner». Problemstillingene er særlig reist for arbeidsforhold hvor arbeidstaker som har sitt arbeid om bord på skip både er involvert i dykkeoperasjoner og også utfører annet arbeid på skipet.
+
+Når det gjelder spørsmålet om det generelle virkeområdet for den vedtatte bestemmelsen i arbeidsmiljøloven § 1-2 andre ledd bokstav a, er dette omtalt både i Prop. 68 L (2020–2021) og i Innst. 282 L (2020–2021).
+
+I Prop. 68 L (2020–2021) side 16-17 uttaler departementet:
+
+Departementets lovforslag innebærer at alle arbeidstakere som er direkte involvert i dykkeoperasjoner i utgangspunktet vil være omfattet av arbeidsmiljøloven. Etter departementets syn vil dette innebære at i alle fall det personellet som er nødvendige for å oppfylle kravet til forsvarlig bemanning ved dykkeoperasjoner etter forskrift om utførelse av arbeid § 26-27 vil være underlagt arbeidsmiljøloven. Det innebærer som hovedregel minimum dykkeleder, dykker, beredskapsdykker og lineholder. Dersom slikt personell også utfører andre arbeidsoppgaver, vil ikke det i seg selv innebære at arbeidsmiljøloven ikke skal gjelde. Etter departementets syn vil arbeidstakere som dykker som en del av virksomhetens vanlige drift eller som en del av en tjeneste som tilbys, uansett være omfattet. I tilfeller hvor skipsarbeidstakere mer tilfeldig og unntaksvis foretar dykk, typisk i forbindelse med vedlikehold av eget skip, legger departementet til grunn at arbeidstakerne vil være omfattet av sjøfartsreglene.
+
+Flertallet i komiteen slutter seg til dette, jf. Innst. 282 L (2020–2021) side 7, og uttaler videre på side 7-8:
+
+F l e r t a l l e t legger til grunn at arbeidstakere som dykker som en del av virksomhetens vanlige drift eller som en del av en tjeneste som tilbys, alltid vil være omfattet av arbeidsmiljøloven. I tilfeller hvor skipsarbeidstakere mer tilfeldig og unntaksvis foretar dykk, typisk i forbindelse med vedlikehold av eget skip, vil arbeidstakerne være omfattet av sjøfartsreglene. Dette gjør det unødvendig å fastsette en nedre grense for arbeidstakerens dykkeaktivitet. F l e r t a l l e t fremhever viktigheten av å hindre tilpasninger til lovverket slik at arbeidstakere som utøver dykkevirksomhet, likevel ikke blir omfattet av arbeidsmiljøloven. Unntaksadgangen må derfor praktiseres strengt.
+
+I merknaden til § 1-2 i Prop. 68 L (2020–2021) uttales det videre:
+
+Begrepet «dykkeoperasjon» skal forstås på samme måte som definisjonen i forskrift om utførelse av arbeid § 1-4 nr. 12. Dykkeoperasjoner er der definert som «arbeid ved økt omgivende trykk under vann eller i trykkammer hvor dykkeren tilføres pustegass». Som et minimum, vil det personellet som er nødvendig for å oppfylle kravet til forsvarlig bemanning ved dykkeoperasjoner etter forskrift om utførelse av arbeid kapittel 26 anses som involvert i dykkeoperasjoner, og dermed være omfattet av arbeidsmiljøloven.
+
+Etter departementets syn legger disse uttalelsene rammene for når arbeidsmiljøloven er ment å gjelde, samt også i hvilke tilfeller arbeidsmiljøloven ikke vil gjelde. Når dykking er en del av virksomhetens vanlige drift eller som del av en tjeneste som tilbys, vil arbeidstakere som normalt deltar i dykkeoperasjonene være underlagt arbeidsmiljøloven – i hvert fall den del av personellet som er nødvendige for å oppfylle kravet til bemanning ved dykkeoperasjoner etter forskrift om utførelse av arbeid § 26-27. Dette vil etter departementets syn gjelde uavhengig av hvor stor eller liten andel av arbeidstiden som går med til å delta i dykkeoperasjoner. Det sentrale vil være om deltakelse i dykkeoperasjon kan sies å være en ordinær del av arbeidstakerens arbeidsoppgaver. Departementet legger motsetningsvis til grunn at skipsarbeidstakere som tilfeldig og unntaksvis deltar under slike dykkeoperasjoner, for eksempel i forbindelse med et kortvarig vikariat i en annens fravær, vil skipsarbeidsloven gjelde for denne arbeidstakeren. Etter departementets vurdering har det fra lovgivers side ikke vært meningen at arbeidstakere skal hoppe inn og ut av regelverksregimene, jf. også vurderingen nedenfor. Det vil være arbeidsoppgavene over noe tid, som avgjør om arbeidsmiljøloven eller skipsarbeidsloven vil gjelde. For virksomheter hvor dykking *ikke* er en del av virksomhetens ordinære drift, men hvor dykkeoperasjoner utføres av skipsarbeidstakere mer tilfeldig og unntaksvis, for eksempel i forbindelse med vedlikehold av eget skip, vil skipsarbeidsloven, og ikke arbeidsmiljøloven, gjelde.
+
+Departementet legger til grunn at det i de fleste tilfeller vil være enkelt å avgjøre om virksomheten har dykking som del av sin ordinære virksomhet eller ikke, samt hvilke arbeidstakere som normalt er involvert i dette arbeidet. Samtidig antar departementet at det kan forekomme grensetilfeller, herunder at det etter omstendighetene kan fremstå noe uklart hva som regnes som «tilfeldig og unntaksvis» dykking. Departementet viser til at det fremmes forslag om at det inntas en forskriftshjemmel i arbeidsmiljøloven § 1-2 som gir departementet adgang til blant annet å gi utfyllende forskrifter om lovens anvendelse for «dykkeoperasjoner». Departementet vil følge med på utviklingen, og på den bakgrunn vurdere om det er behov for nærmere å tydeliggjøre denne grensedragningen i forskrift.
+
+Dersom man etter en vurdering av ovenstående kommer til at arbeidsmiljøloven gjelder, er neste spørsmål om arbeidsmiljøloven i så fall regulerer hele arbeidsforholdet, eller om arbeidsmiljøloven kun gjelder under selve dykkeoperasjonen og at arbeidsforholdet for øvrig reguleres av skipsarbeidsloven og skipssikkerhetsloven.
+
+Departementet kan være enig i at ordlyden isolert sett kan tolkes slik at arbeidsmiljøloven kun kommer til anvendelse under selve dykkeoperasjonen, med en mulig motsatt slutning at skipsfartslovgivningen vil gjelde for arbeidsforholdet for øvrig. Etter departementets vurdering fremstår det imidlertid klart at en slik tolkning ikke har vært lovgivers intensjon.
+
+Departementet viser for det første til merknaden til bestemmelsen i Prop. 68 L (2020–2021), hvor det fremgår at «\[d\]ette betyr at yrkesdykking vil være omfattet av arbeidsmiljøloven, også når dykking skjer fra skip og utføres av skipets mannskap». Her er begrepet «yrkesdykking» benyttet, og er således ikke avgrenset til kun selve dykkeoperasjonen.
+
+Departementet viser videre til innstillingen fra komiteen, hvor det fremgår at
+
+Flertallet vil videre understreke at arbeidsmiljøloven gjør seg gjeldende for disse arbeidstakerne selv om de utfører øvrige oppgaver om bord på fartøyet. Følgelig reguleres ansettelsesforholdet av arbeidsmiljøloven.
+
+Det å skulle «hoppe» ut og inn av ulike lovregimer basert på hvilket arbeid som utføres, kanskje i løpet av en og samme dag, synes etter departementets vurdering generelt både upraktisk og uhensiktsmessig. Departementet viser i denne forbindelse også til Innst. 282 L (2020–2021) hvor komiteflertallet på side 6 uttaler:
+
+F l e r t a l l e t vil understreke at arbeidsmiljøloven skal gjelde for de som deltar i dykkeoperasjoner, fordi det er denne operasjonen (inklusive planlegging og gjennomføring) som representerer stor risiko. Det innebærer at alle personer som er ment å skulle dykke (delta i dykkeoperasjonen) ikke veksler mellom to regelverk, men er underlagt arbeidsmiljøloven.
+
+Departementet viser også til at komitéflertallet i Innst. 282 L (2020–2021) side 6 viser til at «arbeidsmiljøloven presist lovregulerer innholdet i faste ansettelser, midlertidige ansettelser og bruk av bemanningsselskaper». Etter departementets syn vil det gi lite mening å skulle vise til arbeidsmiljølovens regler om ansettelse og tilknytningsformer, dersom hensikten var at arbeidsmiljøloven kun skal gjelde under selve dykkeoperasjonen. Det fremgår også uttrykkelig av Innst. 282 L (2020–2021) at
+
+Det legges til grunn at arbeidstaker enten er omfattet av arbeidsmiljøloven eller skipsarbeidsloven, og at disse lovene er gjensidig utelukkende som vernelov for den enkelte arbeidstaker.
+
+Departementet kan ikke forstå dette på annen måte enn at det har vært meningen fra lovgivers side at arbeidsmiljøloven skal regulere hele arbeidsforholdet til de aktuelle arbeidstakerne, og ikke kun under selve dykkeoperasjonen. Dette må i hvert fall gjelde forholdet til skipsarbeidsloven. Departementets vurdering når det gjelder forholdet til skipssikkerhetsloven fremgår i punkt 5.3.2.
+
+### Forholdet mellom arbeidsmiljøloven og skipssikkerhetsloven
+
+Når det gjelder forholdet til skipssikkerhetsloven, uttaler komitéflertallet i Innst. 282 L (2020–2021) side 7 at
+
+Skipssikkerhetsloven får naturlig anvendelse med hensyn til forhold knyttet til skipet, så lenge skipet omfattes av lovens virkeområde. Dette gjelder for eksempel krav til teknisk, operativ, personlig og miljømessig sikkerhet.
+
+Departementet er enig i at skipssikkerhetsloven vil gjelde også for dykkere underlagt arbeidsmiljøloven i den grad de utfører arbeid på skip som omfattes av skipssikkerhetsloven. Skipssikkerhetsloven vil i all hovedsak utfylle arbeidsmiljøloven på dette området. Det er likevel enkelte regler i disse to lovene som overlapper eller regulerer samme forhold som kan innebære motstrid. Ved regelverkskollisjon må man på vanlig måte gjennom tolkning av relevante rettskilder og momenter vurdere hvilke regler som skal ha forrang. Som et generelt utgangspunkt mener departementet at siden skipssikkerhetsloven har spesialregler for skip, kan dette tale for at skipssikkerhetsloven, ved motstrid med arbeidsmiljøloven, legges til grunn lex specialis. Det må likevel vurderes om andre forhold tilsier et annet resultat.
+
+Stortinget har i anmodningsvedtak bedt om at «bestemmelsene knyttet til arbeids- og hviletid i forbindelse med dykkeoperasjoner til sjøs klargjøres».
+
+Skipssikkerhetsloven har blant annet regler om arbeidsmiljø og personlig sikkerhet om bord på skip i kapittel 4, herunder regler om arbeids- og hviletid. Som et utgangspunkt har Stortinget lagt til grunn at «skipssikkerhetsloven får naturlig anvendelse med hensyn til forhold knyttet til skipet, så lenge skipet omfattes av lovens virkeområde», jf. Innst. 282 L (2020–2021). Fordi skipssikkerhetsloven har egne regler om arbeids- og hviletid, jf. §§ 23 og 24, oppfatter departementet at Stortinget ber om en klargjøring av hvilke arbeids- og hviletidsregler som skal gjelde for dykkeoperasjoner til sjøs.
+
+Når det gjelder arbeids- og hviletidsbestemmelser særskilt, står man potensielt overfor en lovkollisjon ved at arbeidsmiljøloven og skipssikkerhetsloven har til dels ulike regler. Departementet viser til omtalen i Prop. 68 L (2020–2021) punkt 2.6:
+
+Sjøfartslovgivningen gir videre ytterrammer for arbeidstid sammenlignet med arbeidsmiljøloven. Sjøfartsregelverket begrenser den alminnelige arbeidstiden til 36 timer i gjennomsnitt i løpet av en periode på høyst ett år, men åpner for betydelig mer intensive arbeidsperioder når arbeidstaker er på jobb. Hensynet til skipets drift, enten det er i sjøen eller ligger i havn, gjør at arbeidstidsbestemmelsene for mannskapet om bord har videre rammer enn det som følger av arbeidsmiljøloven.
+
+Flere høringsinstanser har gitt innspill til spørsmålet om det er skipssikkerhetslovens eller arbeidsmiljølovens arbeids- og hviletidsbestemmelser som vil gjelde. Blant annet uttaler *Sjøfartsdirektoratet* at
+
+Det er Sjøfartsdirektoratets vurdering at det er selve arbeidets art som bør være bestemmende for hvilke sett av arbeids- og hviletidsbestemmelser som vil gjelde. Hvis det er tale om dykkeoperasjoner, følger arbeids- og hviletidsbestemmelsene av regelsettene i arbeidsmiljøloven. Er det tale om oppgaver knyttet til driften av selve skipet, og som derfor ikke omfatter dykkeroperasjoner, vil det være skipssikkerhetslovens bestemmelser om arbeids- og hviletid som skal legges til grunn.
+
+*Sjømat Norge* er ikke enig i at forarbeidene gir tilstrekkelig grunnlag for å bestemme at arbeidsmiljøloven og dens arbeidstidsregler skal gjelde andre operasjoner enn dykkeoperasjoner. Departementet viser på den ene siden til at skipssikkerhetsloven har spesialregler for skip, og at dette kan tale for at skipssikkerhetslovens arbeids- og hviletidsbestemmelser må legges til grunn lex specialis, jf. også ovenfor*.* På den andre siden finner departementet det klart og dermed må gis avgjørende betydning, at Stortingets intensjon har vært at arbeidsmiljølovens arbeids- og hviletidsregler skal gjelde for de aktuelle arbeidstakerne.
+
+I Prop. 68 L (2020–2021) fremgår det at arbeidsmiljølovens regulering av arbeidstid nettopp var en viktig årsak til forslaget om å gjøre arbeidsmiljøloven gjeldende for dykkere, også til sjøs:
+
+Det er departementets oppfatning at den særlige risikoen dykking i seg selv innebærer, samt kunnskapen om arbeidstidens betydning i denne sammenheng, innebærer at det bør utvises stor varsomhet med å la dykkere arbeide etter belastende arbeidstidsordninger. Departementet vil videre vise til at arbeidsmiljølovens arbeidstidsregulering er fleksibel, ved at det innenfor visse rammer og vilkår er anledning til å gjennomsnittsberegne arbeidstiden og å gjøre tilpasninger og unntak gjennom individuell avtale, etter avtale med tillitsvalgte, etter dispensasjon fra Arbeidstilsynet eller ved tariffavtale. I denne sammenheng vil det alltid gjelde et generelt krav om at de arbeidstidsordninger som iverksettes er forsvarlige, jf. arbeidsmiljøloven § 10-2 første ledd. Departementet legger til grunn at arbeidsmiljølovens arbeidstidsregulering uansett gir tilstrekkelig fleksibilitet for å kunne tilpasses dykkere på skip, ikke minst hensett til risikobildet innen dykkevirksomhet.
+
+I Innst. 282 L (2020–2021) fra arbeids- og sosialkomiteen la komiteens flertall også vekt på blant annet regulering av arbeidstid:
+
+Komiteens flertall, alle unntatt medlemmene fra Fremskrittspartiet, legger avgjørende vekt på at sikkerhetsbestemmelser, regulering av arbeidstid samt ansettelsesforhold er best og mest helhetlig regulert i arbeidsmiljøloven. Sett på bakgrunn av det erfarte behovet for å få tryggere forhold for yrkesdykkere støtter derfor flertallet regjeringens prinsippløsning. Forholdene skal derfor reguleres av arbeidsmiljøloven med Arbeidstilsynet som tilsynsmyndighet.
+
+Etter departementets syn fremgår Stortingets vilje på dette området også forutsetningsvis av enkelte uttalelser. I Innst. 282 L (2020–2021) side 7 fremgår:
+
+I redegjørelsen bør regjeringen avklare nærmere hvordan arbeidstidsbestemmelsene i arbeidsmiljøloven skal kunne praktiseres for eksempelvis dykkere som også er mannskap om bord på båtene.
+
+Det hadde etter departementets syn gitt liten mening å skulle avklare hvordan arbeidstidsbestemmelsene i arbeidsmiljøloven skal praktiseres, dersom de ikke var ment å gjelde. Departementet viser i denne sammenheng også til anmodningsvedtak nr. 772 fra Stortinget, hvor det fremgår:
+
+Stortinget ber regjeringen vurdere innføring av en forskrift med krav til arbeids- og hviletid for selvstendig næringsdrivende og oppdragstakere som driver yrkesdykking fra skip i virksomhet. Forskriften skal gi samme vern for selvstendig næringsdrivende og oppdragstakere som for arbeidstakere etter arbeidsmiljøloven.
+
+Departementet har vanskelig for å se hvorfor Stortinget skulle be regjeringen vurdere innføring av krav til arbeids- og hviletidsbestemmelser med samme vern som i arbeidsmiljøloven for selvstendige, dersom ikke tilsvarende var ment å gjelde for yrkesdykkere med arbeidstakerstatus.
+
+Etter departementets vurdering kan det heller ikke ha vært lovgivers intensjon at det skal veksles mellom henholdsvis arbeidsmiljølovens og skipssikkerhetslovens arbeidstidsbestemmelser, basert på arbeidsoppgaven som utføres, slik som enkelte høringsinstanser synes å mene. Departementet viser til uttalelsene gitt i Innst. 282 L (2020–2021) om at «F l e r t a l l e t mener lovendringen bør gjennomføres nettopp for å redusere den totale arbeidsbelastningen til dykkerne. Selv om en mindre del av arbeidstiden går med til dykking, er det den totale arbeidstiden som medfører forhøyet risiko». Departementet kan heller ikke se hvordan to ulike arbeidstidsregimer i praksis skal kunne anvendes på ett og samme arbeidsforhold. Reglene om arbeidstid setter ytre rammer for arbeidstakers arbeids- og hviletid for arbeidsforholdet i sin helhet. Dersom regelsettene har ulike ytre rammer for arbeids- og hviletid, må ett av regelsettene nødvendigvis gis forrang.
+
+Etter departementets syn kan det etter dette ikke være tvil om at lovgiver i utgangspunktet har ment at arbeidsmiljølovens arbeids- og hviletidsbestemmelser skal gjelde fullt ut, og dermed ha forrang over skipssikkerhetslovens regler på dette området. Forutsetningen er at arbeidsmiljøloven faktisk kommer til anvendelse, jf. ovenfor i punkt 5.3.1. Samtidig har komiteflertallet uttalt at det er behov for avklaring knyttet til «hvordan arbeidstidsbestemmelsene i arbeidsmiljøloven skal kunne praktiseres for eksempelvis dykkere som også er mannskap om bord på båtene», jf. side 7 i Innst. 282 L (2020–2021). Det fremgår også at
+
+Flertallet mener regjeringen må komme tilbake til Stortinget med en redegjørelse om arbeidsmiljølovens virkeområde for yrkesdykking samt Arbeidstilsynets oppfølging av lovendringen, dette for å sikre at Stortinget kan drøfte nærmere det krevende skillet mellom skipsarbeidsloven/skipssikkerhetsloven kontra arbeidsmiljøloven for de yrkesdykkerne som også er mannskap om bord på skip.
+
+Også flere høringsinstanser mener at en løsning med at arbeidsmiljølovens arbeidstidsregler skal gjelde vil være upraktisk eller har etterlyst hvordan arbeidsmiljølovens arbeidstidsregler bør praktiseres. *Kystrederiene* viser blant annet til at
+
+Ved innføringen av AML på skip vil det ikke være mulig å opprettholde dagens drift av skip hvor det også gjennomføres dykkeroperasjoner. Etter som AML har begrensninger på timer, vil en døgnkontinuerlig drift og en 1:1 ordning som i SAL, bety at det må opprettes ett ekstra skift på hvert enkelt skip. Økningen på driftskostnaden for ett ekstra skift alene er satt til minimum 30%, men en annen utfordring her er mangel på sjøfolk og kompetanse. Det finnes ikke folk til å kunne besette dette ekstra skiftet.
+
+*Sjømat Norge* fremholder at det enkleste vil være å videreføre skipssikkerhetslovens regler også under dykking, da man normalt uansett ikke kommer i konflikt med lovverkets begrensninger på dette området. Alternativt mener *Sjømat Norge* at departementet må klargjøre hvordan vekslingen mellom arbeids- og hviletidsbestemmelsene i arbeidsmiljøloven og skipssikkerhetsloven skal fungere for sjøfolk som kun dykker i en begrenset del av arbeidstiden.
+
+*Sjøfartsdirektoratet* fremholder at det å gi arbeidsmiljølovens arbeidstidsbestemmelser anvendelse for vaktgående besetning på skip sertifisert for fartsområde 3 eller høyere, kan innebære brudd på STCW-konvensjonen, jf. STCW A-koden seksjon VIII/1.2.1. Etter hva departementet forstår mener *Sjøfartsdirektoratet* også at det kan foreligge brudd med STCW-konvensjonen å gjøre arbeidsmiljølovens arbeidstidsbestemmelser gjeldende for skipsfører som går brovakt. Departementet oppfatter at bakgrunnen for dette er at arbeidstaker i ledende eller særlig uavhengig stilling etter arbeidsmiljøloven i stor grad er unntatt lovens arbeidstidsbestemmelser, jf. § 10-12. Skipssikkerhetslovens arbeids- og hviletidsbestemmelser gjelder på sin side for alle som har sitt arbeid om bord og følgelig også for blant annet skipsfører. Skipssikkerhetsloven inneholder skjerpede krav til hviletid for sjøfolk som inngår i brovakt, som følger av STCW-konvensjonen.
+
+Departementet viser til at arbeids- og hviletidsbestemmelsene i skipssikkerhetsloven i betydelig grad gjennomfører internasjonale forpliktelser, herunder både MLC og STCW-konvensjonen, jf. blant annet Prop. 11 L (2011–2012). Departementet er enig i at det bør undersøkes om disse konvensjonene innebærer forpliktelser som ikke kan oppfylles gjennom arbeidsmiljølovens arbeidstidsbestemmelser. Dersom det viser seg behov for å videreføre enkelte regler om arbeids- og hviletid som i dag følger av skipssikkerhetsloven, vil departementet i så fall fastsette dette i forskrift tilsvarende som for enkelte rettigheter etter skipsarbeidsloven, jf. omtale i punkt 3.
+
+Når det gjelder hvordan arbeidsmiljølovens arbeidstidsbestemmelser skal kunne praktiseres for arbeidstakere som har sitt arbeid om bord på skip, viser departementet til uttalelsene i Prop. 68 L (2020–2021) punkt 2.6:
+
+Departementet vil videre vise til at arbeidsmiljølovens arbeidstidsregulering er fleksibel, ved at det innenfor visse rammer og vilkår er anledning til å gjennomsnittsberegne arbeidstiden og å gjøre tilpasninger og unntak gjennom individuell avtale, etter avtale med tillitsvalgte, etter dispensasjon fra Arbeidstilsynet eller ved tariffavtale. I denne sammenheng vil det alltid gjelde et generelt krav om at de arbeidstidsordninger som iverksettes er forsvarlige, jf. arbeidsmiljøloven § 10-2 første ledd. Departementet legger til grunn at arbeidsmiljølovens arbeidstidsregulering uansett gir tilstrekkelig fleksibilitet for å kunne tilpasses dykkere på skip, ikke minst hensett til risikobildet innen dykkevirksomhet. Som departementet allerede har vært inne på, er det videre et poeng i seg selv at likt lovgrunnlag innebærer lik konkurranse mellom aktører som utfører samme aktivitet, dvs. uavhengig av hvilken «plattform» det dykkes fra.
+
+Departementet viser videre til at det finnes «to sett» med dykkespesifikke regler fastsatt i forskrift, med hjemmel i henholdsvis arbeidsmiljøloven og skipssikkerhetsloven. Selv om forskriftene i store trekk har de samme materielle regler, er det blant annet ulike tilsynsorganer, og innebærer i den forstand en motstrid. Også her finner departementet det klart at Stortingets intensjon har vært at forskrift om utførelse av arbeid, med hjemmel i arbeidsmiljøloven og med Arbeidstilsynet som tilsynsmyndighet, skal gjelde for dykkere – også når dykking foregår fra skip. Dette vil særlig gjelde forskriftens kapittel 26 om sikkerhet ved dykkearbeid. Arbeidsmiljølovens dykkespesifikke regler fastsatt i forskrift vil også på dette området dermed måtte gis forrang foran forskrift om dykking gitt i medhold av skipssikkerhetsloven.
+
+Når det gjelder øvrige regler i henholdsvis arbeidsmiljøloven og skipssikkerhetsloven som potensielt innebærer motstrid, er departementets vurdering at Stortinget ikke har vært like tydelig på at arbeidsmiljølovens regler skal ha forrang. Det vises i denne sammenheng også til at komiteflertallet i Innst. 282 L (2020–2021) side 7 uttaler at «skipssikkerhetsloven får naturlig anvendelse med hensyn til forhold knyttet til skipet, så lenge skipet omfattes av lovens virkeområde. Dette gjelder for eksempel krav til teknisk, operativ, personlig og miljømessig sikkerhet». Etter departementets vurdering er det derfor naturlig å legge til grunn at skipssikkerhetsloven med tilhørende forskrifter legges til grunn lex specialis i tilfelle motstrid med arbeidsmiljøloven når det gjelder øvrige regler.
+
+Oppsummert innebærer departementets vurdering av ovennevnte forhold at for dykkere som har sitt arbeid på skip, og som med lovvedtaket henføres under arbeidsmiljøloven, vil både arbeidsmiljøloven og skipssikkerhetsloven gjelde. Der lovene regulerer samme forhold som innebærer motstrid, vil for det første arbeidsmiljøloven kapittel 10 om arbeidstid gå foran skipssikkerhetsloven §§ 23 og 24, og for det andre vil de dykketekniske regler fastsatt i medhold av arbeidsmiljøloven gå foran forskrift om dykking fastsatt i medhold av skipssikkerhetsloven. I tilfelle regelverkskollisjon mellom andre regler for øvrig, vil skipssikkerhetsloven måtte gå foran. Av pedagogiske hensyn antar departementet at det er hensiktsmessig at disse forhold fremgår uttrykkelig i forskrift.
+
+### Særlig om rednings- og nøddykking
+
+Departementet har merket seg at *Redningsselskapet* i sitt høringsinnspill fremholder at «det har vært en allmenn oppfatning at RS’ dykkervirksomhet ikke omfattes av endringsloven».
+
+*Redningsselskapet* viser i den forbindelse til muntlige uttalelser fra Stortingets talerstol i forbindelse med behandling av Prop. 68 L (2020–2021). *Redningsselskapet* hevder blant annet at dersom arbeidsmiljøloven skulle bli gjeldende regelregime for Redningsselskapets dykkevirksomhet, og det ikke sikres tilstrekkelig tilpasning til gjeldende krav herunder for arbeids- og hviletid, vil det innebære en tvungen avvikling av Redningsselskapets dykkevirksomhet.
+
+Departementet viser til at den vedtatte bestemmelsen i arbeidsmiljøloven § 1-2 andre ledd bokstav a ikke oppstiller noen unntak for særlige bransjer, visse former for dykking eller lignende. Dersom rednings- og nøddykking skal unntas fra bestemmelsen er det etter departementets vurdering således behov for at dette fastsettes særskilt. Departementet vil vurdere nærmere behovet for et unntak for rednings- og nøddykking, og viser i den forbindelse til at den foreslåtte forskriftshjemmelen vil åpne for at det kan fastsettes unntak fra arbeidsmiljøloven § 1-2 andre ledd bokstav a om «dykkeoperasjoner» i forskrift.
+
+## Særlig om skipsførers ansvarsforhold
+
+### Bakgrunn og gjeldende rett
+
+I anmodningsvedtak nr. 771 har Stortinget bedt om at kapteinens ansvarsforhold under dykkeoperasjoner avklares. I skipssikkerhetsloven og skipsarbeidsloven benyttes betegnelsen «skipsfører» om den som har øverste myndighet om bord på skipet, og departementet vil i det videre benytte denne betegnelsen.
+
+Når det gjelder *skipssikkerhetsloven*, får denne anvendelse for skip uavhengig av om arbeidstakere på skipet omfattes av arbeidsmiljøloven eller skipsarbeidsloven. Dersom skipsfører selv deltar i dykkeoperasjoner, vil skipssikkerhetslovens plikter for skipsfører dermed gjelde uavhengig av om arbeidsmiljøloven ellers regulerer arbeidsforholdet. Skipsførerens ansvarsforhold i forbindelse med dykkeoperasjoner må vurderes med dette som utgangspunkt.
+
+Skipsførerens ansvarsforhold må ses i sammenheng med rederiets plikter. Rederiet er hovedpliktsubjekt etter skipssikkerhetsloven, jf. eksempelvis Ot.prp. nr. 87 (2005–2006) punkt 8.2.4. Der hvor skipsfører har «sørge for»-plikter er dette konkret angitt. I tilknytning til eksempelvis lovens kapittel 3 om teknisk og operativ sikkerhet, og lovens kapittel 4 om arbeidsmiljø og personlig sikkerhet, er skipsførerens medvirknings- og sørge for-plikter konkret listet opp i henholdsvis §§ 19 og 29.
+
+### Høringsinstansenes syn
+
+*LO* viser til at de har fått beskrevet flere uheldige situasjoner der skipsfører samtidig har fungert som dykkeleder eller lineholder og derfor ikke alltid kan ha tilstrekkelig oppmerksomhet og innsats i samtlige oppgaver på en gang. *LO* mener at skipsfører derfor ikke bør ha oppgaver med å ivareta fartøyets integritet så lenge dykkeoperasjonen pågår, og eventuelle redningsoperasjoner er avsluttet. Ut over dette støtter *LO* departementets vurderinger på dette feltet.
+
+Også *Industri Energi* bemerker at de har fått flere tilbakemeldinger om uheldige situasjoner der skipsfører samtidig har fungert som dykkeleder eller lineholder, og derfor ikke har hatt tilstrekkelig fokus på dykkeleder- eller lineholderoppgaven. *Industri Energi* fremholder at dersom skipsfører skal fungere som en del av et dykkerlag, fordrer dette full fokus. Skipsfører kan dermed ikke ha oppgaver med å ivareta fartøyets integritet så lenge dykkeoperasjonen pågår, og eventuelle redningsoperasjoner er avsluttet. *Industri Energi* fremholder at de vet at enkelte selskap nå i noe større grad benytter egne skipsførere, mens andre selskap har etablert interne prosedyrer for å holde disse oppgavene adskilt, grunnet uheldig erfaring. Utover dette støtter *Industri Energi* departementets vurdering i høringsnotatet.
+
+*Yrkesdykkernes Fagforening* mener at skipsførerens ansvarsforhold kan opprettholdes selv ved dykking. *Yrkesdykkernes Fagforening* viser til at når skipsfører selv dykker, kan regelverket i sjøloven § 136 andre ledd brukes: «Forlater skipsføreren skipet, plikter denne å gi den øverste tilstedeværende styrmann eller, dersom ingen styrmann er til stede, en annen av mannskapet underretning og nødvendig ordre for påkommende tilfelle.» *Yrkesdykkernes Fagforening* fremholder at det nok er flere spørsmål rundt dette temaet, men mener at det vil være et åpent spørsmål uansett hvilken vernelov som gjelder.
+
+*Norsk Sjømannsforbund, Norsk Sjøoffisersforbund* og *Det norske maskinistforbund* fremholder at skipsfører etter bestemmelser i skipssikkerhetsloven har et strengere ansvar enn arbeidsgiver, noe som avviker fra arbeidsmiljølovens regler. Disse organisasjonene viser til at departementets uttalelse i høringsnotatet om at skipsfører er «arbeidsgivers leder om bord» bare kan være korrekt dersom det legges til grunn at arbeidsgiver og rederiet er samme rettssubjekt, noe det ofte ikke er i skipsfarten. Sjøretten for øvrig er nemlig basert på at skipsføreren er rederens fullmektig (jf. sjøloven kapittel 6), mens skipssikkerhetsloven har definerte plikter for rederi, skipsfører og arbeidsgiver, som ikke har paralleller i arbeidsmiljøloven. Disse organisasjonene viser blant annet til at rederiet er hovedpliktsubjektet i skipssikkerhetsloven, og at det har en plikt til å påse at hele kapittel 4 er oppfylt. Etter *Norsk Sjømannsforbunds, Norsk Sjøoffisersforbunds* og *Det norske maskinistforbunds* syn adresserer ikke departementet godt nok hvem som har ansvar for sikkerheten når det gjelder dykkeoperasjoner. Det må blant annet avklares om skipsfører nå har ansvaret for alle de plikter som i dag etter forskrift om utførelse av arbeid (FOR-2011-12-06-1357) kapittel 26 tilligger arbeidsgiver, og dette må i tilfelle klargjøres i forskriften.
+
+*Sjømat Norge* viser til at arbeidsgiver og rederi ikke nødvendigvis alltid er samme rettssubjekt, noe som ikke er hensyntatt i høringsnotatets behandling av blant annet skipsførers ansvar.
+
+*Kystrederiene* har vedlagt juridisk betenkning om dykkeregelverket til sjøs av Sigmund Simonsen og Roald M. Engeness av 28. oktober 2021 til sitt høringsinnspill. I betenkningen kapittel 6.8 fremgår det blant annet om skipsførers ansvarsforhold at skipsføreren har sørge for-ansvar i de tilfeller rederiet ikke har det, ellers har skipsføreren, som rederiets øverste representant om bord og den som har kommandoen om bord, flere sentrale medvirkningsplikter. I kapittel 7.2 i betenkningen fremkommer det videre at «når uhell inntrer, oppstår spørsmål om rederiet eller noen som handler på vegne av rederiet eventuelt kan straffes etter arbeidsmiljøloven. Dette kan være usikkert. Dersom det foreligger et straffverdig forhold, vil det i alle tilfelle kunne bli spørsmål om straff for overtredelse av skipssikkerhetsloven og forskrifter i medhold av den. Dersom dykkerarbeidet ledes av skipsføreren selv om denne ikke tar del i dykkeroperasjonen, oppstår spørsmålet om denne kan anses som «den som i arbeidsgivers sted leder virksomheten».»
+
+*Sjøfartsdirektoratet* påpeker at det er klart nok at skipsfører har selvstendige plikter og tilhørende ansvar som følger av skipssikkerhetsloven. Det er likevel uklart for *Sjøfartsdirektoratet* hvilke premisser departementet legger til grunn når departementet konkluderer med at endringene i arbeidsmiljøloven § 1-2 andre ledd bokstav a, når disse trer i kraft, ikke vil berøre eller innskrenke skipsførers rolle eller myndighet etter skipssikkerhetsloven. *Sjøfartsdirektoratet* viser til at skipssikkerhetslovens og skipsarbeidslovens regler er kompletterende, og det forhold at skipsarbeidsloven helt eller delvis settes til side, kan da også påvirke skipsførerens rolle og myndighet. *Sjøfartsdirektoratet* er videre ikke ubetinget enig i departementets begrunnelse knyttet til at skipsfører i en arbeidsmiljøkontekts (alltid) vil regnes som arbeidsgiver om bord. Det er ikke uvanlig at en virksomhet som bruker skip som base for å produsere tjenester eller fysiske produkter, ikke har en direkte tilknytning til rederiet. *Sjøfartsdirektoratet* viser til at et skip kan være leid ut til en befrakter som har eget personell om bord for å gjøre bruk av skipet, og dette personalet vil følgelig ikke være underlagt rederiets styringsrett. *Sjøfartsdirektoratet* fremholder at med utgangspunkt i at skipsfører kan vurderes som rederiets fullmektig om bord, vil denne rollen ikke nødvendigvis anses som arbeidsgiver for alle som utøver et yrke om bord i skipet. Virksomheter som tilbyr yrkesdykking fra skip, må følgelig heller ikke være direkte knyttet til den virksomheten som drifter selve skipet. Likevel påpeker *Sjøfartsdirektoratet* at skipsføreren har det overordnede ansvaret for skipets og de ombordværendes sikkerhet slik dette følger av skipssikkerhetsloven og forskrifter gitt i medhold av loven.
+
+*Arbeidstilsynet* er enig i departementets vurderinger: At «lovvedtaket ikke på noen måte vil berøre eller innskrenker skipsførers rolle eller myndighet etter skipssikkerhetsloven.» *Arbeidstilsynet* støtter videre at skipsfører vil regnes som arbeidsgiver om bord («den som i arbeidsgivers sted leder virksomheten»), jf. arbeidsmiljøloven § 1-8 andre ledd andre punktum. *Arbeidstilsynet* påpeker at under en pågående dykkeaktivitet er det samtidig viktig at *dykkeleder* har ansvar for å lede dykkeoperasjonen og påse at hensynet til helse og sikkerhet blir ivaretatt i den forbindelse, jf. forskrift om utførelse av arbeid § 26-28. *Arbeidstilsynet* påpeker at kommunikasjon mellom dykkeleder og skipsfører må være god, men ser ikke grunn til å foreslå nye regler som regulerer forholdet mellom skipsfører og dykkeleder.
+
+### Departementets vurdering
+
+Som det fremgår under forrige punkt, har flere instanser i høringen fremholdt at det ikke vil være forsvarlig å la skipsfører delta i dykkeoperasjoner, fordi det kan gå utover skipsførerens overordnede ansvar for skipets sikkerhet. Det fremholdes derfor at det bør fastsettes at skipsføreren ikke skal kunne delta i slike operasjoner. Slik departementet ser det, er det ikke grunnlag for å fastslå en slik regel. Skipsfører, og eventuelt rederiet, må konkret vurdere om det vil være forsvarlig for skipsføreren å delta i dykkeoperasjonen, det være seg rollen som dykkeleder, lineholder, beredskapsdykker eller dykker. For øvrig vil reglene om rederiets ansvar og rolle i styring av risiko, drift av skipet mv. i skipssikkerhetsloven fortsatt gjelde.
+
+Det er videre viktig for departementet å slå fast at innføring av bestemmelsen om dykkeoperasjoner i arbeidsmiljøloven § 1-2 andre ledd bokstav a ikke er ment å berøre eller innskrenke skipsførers rolle og myndighet etter skipssikkerhetsloven. *Sjøfartsdirektoratet* har i den sammenheng fremholdt at det fremstår som uklart hvilke premisser departementet legger til grunn for dette. Departementet viser til at skipssikkerhetslovens (og sjølovens) regler om skipsførerens myndighet og plikter vil gjelde fullt ut, og at det også vil være tilfelle dersom skipsføreren selv deltar i dykkeoperasjoner, og derved, i kraft av endringsloven, vil være omfattet av arbeidsmiljøloven.
+
+Departementet legger for øvrig til grunn at skipsfører i en arbeidsmiljølovkontekst ikke vil anses som en «ordinær» arbeidstaker, men «den som i arbeidsgivers sted leder virksomheten», jf. arbeidsmiljøloven § 1-8 andre ledd andre punktum. *Sjøfartsdirektoratet* har påpekt at skipsfører betraktes som rederiets fullmektig om bord og videre at skipsfører ikke nødvendigvis vil anses som «arbeidsgiver» for alle som utøver et yrke om bord i skipet. Departementet er ikke uenig i dette. Hva gjelder «innaskjærs yrkesdykking», antar departementet at rederi og arbeidsgiver normalt er samme rettssubjekt. I tilfeller hvor rederi og arbeidsgiver skulle være ulike rettssubjekter, viser departementet til at rederiet som innleier også i en arbeidsmiljølovkontekst vil ha styringsrett overfor innleide arbeidstakere. Videre vises det til at arbeidsmiljøloven § 2-2 gir nærmere regler om arbeidsgivers plikter overfor andre enn egne arbeidstakere, herunder innleide arbeidstakere og selvstendige som utfører arbeidsoppgaver i tilknytning til arbeidsgivers aktivitet eller innretning. Videre fastsetter § 2-2 andre ledd at den virksomhet som anses som «hovedbedrift» har ansvar for samordningen av de enkelte virksomheters helse-, miljø- og sikkerhetsarbeid. Departementet antar at rederiet i tilfeller hvor det er flere virksomheter som utfører arbeidsoppgaver om bord på skip, vil anses som hovedbedrift, og at skipsfører som rederiets representant i et slikt tilfelle vil forestå den praktiske koordineringen om bord.

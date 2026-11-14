@@ -1,1033 +1,496 @@
-# Prop. 71 L (2021–2022), del 21 av 24 (side 227–237)
+# Prop. 71 L (2021–2022), del 21 av 23
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/ef2ebd9e-prop-71-l-20212022.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-71-l-20212022/id2905998/
 - Original-PDF: https://www.regjeringen.no/contentassets/479b9006cd88495fa6c0564883b7dfda/no/pdfs/prp202120220071000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 227]
+10\. Nr. 1-9 skal få tilsvarende anvendelse på familiemedlemmene til et medlem i trygdeordningen.
 
-2021–2022
+Artikkel 26
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Planlagt behandling
 
-7) Personer som omfattes av denne forordning,
-bør få svar på sine henvendelser til den kompetente institusjon innen rimelig tid. Svaret
-bør gis innenfor de frister som er fastsatt i
-trygdelovgivningen i den aktuelle medlemsstat, når det er fastsatt slike frister. Det vil
-være ønskelig at de medlemsstater hvis trygdelovgivning ikke har bestemmelser om slike
-frister, vurderer å innføre dette og sørge for at
-berørte personer får nødvendig informasjon.
-8) Medlemsstatene, deres kompetente myndigheter og trygdeinstitusjoner bør ha mulighet
-for å bli enige seg imellom om forenklede
-framgangsmåter og administrative rutiner
-som de anser som mer effektive og bedre tilpasset forholdene i deres respektive trygdeordninger. Slike ordninger bør imidlertid ikke
-berøre rettighetene til personer som omfattes
-av forordning (EF) nr. 883/2004.
-9) Ettersom trygdeområdet i seg selv er komplekst, må alle medlemsstatenes institusjoner
-gjøre en særlig innsats for å hindre at trygdeordningens medlemmer straffes selv om de
-ikke har fremmet krav eller sendt inn
-bestemte opplysninger til den institusjon som
-har ansvar for å behandle søknaden i samsvar
-med reglene og framgangsmåtene fastsatt i
-forordning (EF) nr. 883/2004 og i denne forordning.
-10) For å avgjøre hvilken institusjon som er kompetent, dvs. den institusjon hvis lovgivning får
-anvendelse eller som har ansvar for utbetalingen av bestemte ytelser, må den faktiske situasjonen til medlemmet i trygdeordningen og til
-vedkommendes familiemedlemmer undersøkes av institusjoner i mer enn én medlemsstat.
-For å sikre at den berørte personen er beskyttet mens nødvendig informasjonsutveksling
-mellom institusjonene pågår, bør det gis
-bestemmelser om midlertidig medlemskap i
-en trygdeordning.
-11) Medlemsstatene bør samarbeide om å fastlegge bostedet til personer som omfattes av
-denne forordning og av forordning (EF) nr.
-883/2004, og bør ved en eventuell tvist ta hensyn til alle relevante kriterier for å løse saken.
-Dette kan omfatte kriterier omhandlet i den
-relevante artikkelen i denne forordning.
-12) Mange tiltak og framgangsmåter omhandlet i
-denne forordning er ment å skulle sikre større
-åpenhet om de kriterier som medlemsstatenes
-institusjoner må legge til grunn etter forordning (EF) nr. 883/2004. Disse tiltak og framgangsmåter er et resultat av rettspraksis ved
-EF-domstolen, vedtak i Den administrative
+A. Framgangsmåte for å gi tillatelse
 
-225
+1\. Ved anvendelse av artikkel 20 nr. 1 i grunnforordningen skal medlemmet i trygdeordningen legge et dokument fram for institusjonen på oppholdsstedet, utferdiget av den kompetente institusjon. Ved anvendelse av denne artikkel er den kompetente institusjon den institusjon som dekker utgiftene til planlagt behandling; i tilfellene nevnt i artikkel 20 nr. 4 og artikkel 27 nr. 5 i grunnforordningen, der naturalytelser gitt i bostedsstaten refunderes på grunnlag av faste beløp, skal den kompetente institusjon være institusjonen på bostedet.
 
-kommisjon og mer enn tretti års erfaring med
-koordinering av trygdeordninger innenfor
-rammen av de grunnleggende friheter som er
-nedfelt i traktaten.
-13) Denne forordning fastsetter tiltak og rutiner
-som fremmer mobilitet for arbeidstakere og
-arbeidsløse. Grensearbeidere som er blitt helt
-arbeidsløse, kan stille seg til rådighet for
-arbeidsformidlingen både i bostedsstaten og i
-medlemsstaten der de sist utførte lønnet
-arbeid. De bør imidlertid bare ha rett til
-ytelser fra bostedsstaten.
-14) Det kreves visse særlige regler og framgangsmåter for å fastlegge hvilken lovgivning som
-skal få anvendelse ved vurdering av den tid
-som et medlem i trygdeordningen har egnet til
-omsorg for barn i de forskjellige medlemsstater.
-15) Visse framgangsmåter bør også gjenspeile
-behovet for en balansert kostnadsfordeling
-mellom medlemsstatene. Særlig i forbindelse
-med ytelser ved sykdom bør disse framgangsmåtene ta hensyn både til situasjonen i medlemsstater som dekker utgiftene forbundet
-med at medlemmer får tilgang til deres helsevesen, og situasjonen i medlemsstater hvis
-institusjoner dekker utgiftene til naturalytelser
-som medlemmer av deres trygdeordning mottar i en annen medlemsstat enn bostedsstaten.
-16) Innenfor rammen av forordning (EF) nr. 883/
-2004 er det behov for å avklare vilkårene for
-dekning av utgifter til naturalytelser ved sykdom som del av planlagt behandling, dvs.
-behandling som et medlem i trygdeordningen
-mottar i en annen medlemsstat enn staten der
-vedkommende er medlem eller er bosatt. Det
-bør presiseres hvilke plikter medlemmet har
-med hensyn til å søke om tillatelse på forhånd,
-og likeledes hvilke plikter institusjonen har
-overfor pasienten med hensyn til vilkårene for
-tillatelse. Det bør også avklares hvilke følger
-det får at utgifter til behandling gitt i en annen
-medlemsstat på grunnlag av en tillatelse, kan
-overtas.
-17) Denne forordning, og særlig bestemmelsene
-som gjelder opphold utenfor den kompetente
-medlemsstat og om planlagt behandling, bør
-ikke være til hinder for anvendelse av gunstigere nasjonale bestemmelser, særlig med hensyn til refusjon av utgifter påløpt i en annen
-medlemsstat.
-18) Det er svært viktig å vedta mer bindende framgangsmåter med sikte på å forkorte fristene
-for betaling av slike fordringer mellom medlemsstatenes institusjoner, for å kunne bevare
+2\. Dersom et medlem ikke er bosatt i den kompetente medlemsstat, skal han/hun be om tillatelse fra institusjonen på bostedet, som umiddelbart skal videresende den til den kompetente institusjon.
 
-[Side 228]
+I et slikt tilfelle skal institusjonen på bostedet uttale seg om hvorvidt vilkårene i artikkel 20 nr. 2 annet punktum i grunnforordningen er oppfylt i bostedsstaten.
 
-226
+Den kompetente institusjon kan unnlate å gi tillatelse bare dersom vilkårene i artikkel 20 nr. 2 annet punktum i grunnforordningen etter bostedsinstitusjonens vurdering ikke er oppfylt i bostedsstaten, eller dersom den samme behandlingen kan gis i den kompetente medlemsstat innen den tid som er medisinsk forsvarlig ut fra den berørte personens aktuelle helsetilstand og sykdommens sannsynlige forløp.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Den kompetente institusjon skal underrette institusjonen på bostedet om sitt vedtak.
 
-tilliten til en slik utveksling og ivareta behovet
-for en forsvarlig forvaltning av medlemsstatenes trygdeordninger. Framgangsmåtene for
-behandling av fordringer knyttet til ytelser ved
-sykdom og arbeidsløshet bør derfor styrkes.
-19) De framgangsmåter institusjonene benytter
-seg imellom for å bistå hverandre ved innkreving av fordringer som gjelder trygd, bør styrkes med sikte på å sikre en mer effektiv innkreving og at reglene om koordinering av
-trygdeordninger fungerer friksjonsfritt. Effektiv innkreving bidrar også til å hindre og
-bekjempe svindel og misbruk, og til å sikre
-bærekraftige trygdeordninger. Dette innebærer at det vedtas nye framgangsmåter på
-grunnlag av en rekke eksisterende bestemmelser i rådsdirektiv 2008/55/EF av 26. mai
-2008 om gjensidig bistand til innkreving av fordringer i forbindelse med avgifter, toll, skatt og
-andre tiltak4. De nye framgangsmåtene for
-innkreving bør vurderes på nytt etter fem år på
-bakgrunn av de erfaringer som er gjort, og om
-nødvendig tilpasses, særlig for å sikre at de
-fungerer fullt ut.
-20) Ved anvendelse av bestemmelser om gjensidig
-bistand i forbindelse med tilbakekreving av
-uriktig utbetalte ytelser, innkreving av midlertidige utbetalinger og avgifter, samt motregning og bistand ved innkreving, er den anmodede medlemsstats kompetanse begrenset til
-håndhevingstiltak. Alle andre tiltak hører
-under den anmodende medlemsstats kompetanse.
-21) Håndhevingstiltak som treffes i den anmodede
-medlemsstat, innebærer ikke at denne medlemsstat anerkjenner fordringens berettigelse
-eller grunnlag.
-22) Det er helt avgjørende for tilliten til kompetente myndigheter og medlemsstatenes institusjoner at berørte personer informeres om
-sine rettigheter og plikter. Informasjonen bør
-inneholde veiledning om saksgangen. Med
-berørte personer menes, avhengig av situasjonen, trygdeordningens medlemmer, deres
-familiemedlemmer og/eller deres etterlatte
-eller andre personer.
-23) Ettersom målene for denne forordning, som er
-vedtakelse av samordningstiltak for å sikre at
-retten til fri bevegelighet for personer kan utøves
-på en effektiv måte, ikke kan nås i tilstrekkelig
-grad av medlemsstatene og derfor på grunn av
-sitt omfang og sine virkninger bedre kan nås
-på fellesskapsplan, kan Fellesskapet treffe til4
+Om det ikke foreligger svar innen de frister som er fastsatt i dens nasjonale lovgivning, skal tillatelsen anses gitt av den kompetente institusjon.
 
-EUT L 150 av 10.6.2008, s. 28.
+3\. Dersom et medlem som ikke er bosatt i den kompetente medlemsstat, har behov for akutt, livsnødvendig behandling, og tillatelsen ikke kan avslås i henhold til artikkel 20 nr. 2 i grunnforordningen, skal institusjonen på bostedet gi tillatelse på vegne av den kompetente institusjon, som umiddelbart skal underrettes av institusjonen på bostedet.
 
-2021–2022
+Den kompetente institusjon skal godta undersøkelsesresultater og behandlingsmuligheter fastslått av leger som er godkjent av den institusjon på bostedet som utferdiger tillatelsen, hva angår behovet for akutt livsnødvendig behandling.
 
-tak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte
-artikkel går denne forordning ikke lenger enn
-det som er nødvendig for å nå dette målet.
-24) Denne forordning bør erstatte rådsforordning
-(EØF) nr. 574/72 av 21. mars 1972 om regler
-for gjennomføring av forordning (EØF) nr.
-1408/71 om anvendelse av trygdeordninger på
-arbeidstakere, selvstendig næringsdrivende
-og deres familiemedlemmer som flytter innenfor Fellesskapet5 –
-VEDTATT DENNE FORORDNING:
-Avdeling I
-Alminnelige bestemmelser
-Kapittel I
-Definisjoner
-Artikkel 1
-Definisjoner
-1. I denne forordning
-a) menes med «grunnforordning» forordning
-(EF) nr. 883/2004,
-b) menes med «gjennomføringsforordning»
-denne forordning, og
-c) skal definisjonene i grunnforordningen få
-anvendelse.
-2. I tillegg til de definisjoner som er nevnt i nr. 1,
-a) menes med «tilknytningspunkt» en enhet
-som tilbyr:
-i) et elektronisk kontaktpunkt,
-ii) automatisk ruting basert på adressen,
-og
-iii) intelligent ruting basert på programvare som muliggjør automatisk kontroll
-og ruting (for eksempel et program for
-kunstig intelligens) og/eller menneskelig inngripen,
-b) menes med «kontaktorgan» ethvert organ
-som er utpekt av en medlemsstats kompetente myndighet for en eller flere av de
-deler av trygdeordningen som er nevnt i
-artikkel 3 i grunnforordningen, til å svare
-på anmodninger om opplysninger og
-bistand i forbindelse med anvendelsen av
-grunnforordningen og gjennomføringsforordningen, og som skal utføre de oppgaver
-det er tillagt i henhold til avdeling IV i gjennomføringsforordningen,
-5
+4\. På ethvert tidspunkt mens spørsmålet om tillatelse er under behandling, skal den kompetente institusjon bevare retten til å få medlemmet av trygdeordningen undersøkt av en lege etter eget valg i oppholds- eller bostedsstaten.
 
-EFT L 74 av 27.3.1972, s. 1.
+5\. Institusjonen på oppholdsstedet skal, uten at dette berører et eventuelt vedtak om tillatelse, underrette den kompetente institusjon dersom det synes medisinsk hensiktsmessig å supplere den behandling som omfattes av den gjeldende tillatelsen.
 
-[Side 229]
+B. Dekning av utgifter til naturalytelser for medlemmet i trygdeordningen
 
-2021–2022
+6\. Med forbehold for nr. 7 skal artikkel 25 nr. 4 og 5 i gjennomføringsforordningen få tilsvarende anvendelse.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+7\. Dersom medlemmet av trygdeordningen faktisk selv helt eller delvis har dekket utgiftene til den godkjente medisinske behandlingen, og de utgifter som den kompetente institusjon har plikt til å refundere institusjonen på oppholdsstedet eller til medlemmet i samsvar med nr. 6 (faktisk utgift), er lavere enn de utgifter den ville ha måttet betale for samme behandling i den kompetente medlemsstat (teoretisk utgift), skal den kompetente institusjon på anmodning refundere medlemmets behandlingsutgifter inntil et beløp der den teoretiske utgiften overstiger den faktiske utgiften. Det refunderte beløpet kan imidlertid ikke overstige medlemmets faktiske utgifter, og det kan tas hensyn til hvilket beløp medlemmet hadde måttet betale om behandlingen hadde funnet sted i den kompetente medlemsstat.
 
-c) menes med «dokument» et sett med opplysninger, uansett hvilket medium som er
-benyttet, som er strukturert på en slik måte
-at det kan utveksles elektronisk, og som
-skal oversendes for at grunnforordningen
-og gjennomføringsforordningen skal få
-anvendelse,
-d) menes med «strukturert elektronisk dokument» ethvert strukturert dokument i et
-format som er utformet med sikte på elektronisk utveksling av opplysninger mellom
-medlemsstatene,
-e) menes med «elektronisk overføring» overføring av data ved hjelp av elektronisk
-utstyr til behandling (herunder digital komprimering) av data via kabler, radiosendere,
-optisk teknologi eller andre elektromagnetiske midler,
-f) menes med «revisjonsutvalg» det organ
-som er omhandlet i artikkel 74 i grunnforordningen.
+C. Dekning av utgifter til reise og opphold i forbindelse med planlagt behandling
+
+8\. Når den kompetente institusjons nasjonale lovgivning har bestemmelser om refusjon av reise- og oppholdsutgifter som ikke kan holdes atskilt fra medlemmets behandling, skal disse utgifter for den berørte personen, og om nødvendig for en nødvendig ledsager, betales av denne institusjonen når det er gitt tillatelse til behandling i en annen medlemsstat.
+
+D. Familiemedlemmer
+
+9\. Nr. 1-8 skal få tilsvarende anvendelse på familiemedlemmene til et medlem i trygdeordningen.
+
+Artikkel 27
+
+Kontantytelser i forbindelse med arbeidsudyktighet når vedkommende er bosatt eller oppholder seg i en annen medlemsstat enn den kompetente medlemsstat
+
+A. Framgangsmåte som skal følges av medlemmet i trygdeordningen
+
+1\. Dersom den kompetente medlemsstats lovgivning krever at medlemmet av trygdeordningen legger fram en bekreftelse for å kunne få rett til kontantytelser ved arbeidsudyktighet i henhold til artikkel 21 nr. 1 i grunnforordningen, skal medlemmet be den lege i bostedsstaten som har fastslått helsetilstanden, om å bekrefte hans/hennes arbeidsudyktighet og hvor lenge den sannsynligvis vil vare.
+
+2\. Medlemmet skal sende bekreftelsen til den kompetente institusjon innen den frist som er fastlagt i den kompetente medlemsstats lovgivning.
+
+3\. Når behandlende leger i bostedsstaten ikke utferdiger bekreftelser på arbeidsudyktighet, og en slik bekreftelse kreves etter den kompetente medlemsstatens lovgivning, skal medlemmet rette en direkte henvendelse til institusjonen på bostedet. Denne institusjonen skal umiddelbart sørge for at det foretas en medisinsk vurdering av medlemmets arbeidsudyktighet, og for at bekreftelsen nevnt i nr. 1 blir utferdiget. Bekreftelsen skal straks oversendes den kompetente institusjon.
+
+4\. Oversendelse av dokumentet nevnt i nr. 1, 2 og 3 skal ikke frita medlemmet for dets plikter etter gjeldende lovgivning, særlig overfor arbeidsgiveren. Arbeidsgiveren og/eller den kompetente institusjon kan eventuelt be arbeidstakeren delta i aktiviteter som skal bidra til å få ham/henne tilbake i arbeid.
+
+B. Framgangsmåte som skal følges av institusjonen i bostedsstaten.
+
+5\. På anmodning fra den kompetente institusjon skal institusjonen på bostedet foreta nødvendig administrativ kontroll eller medisinsk undersøkelse av den berørte personen i samsvar med lovgivningen som gjelder for sistnevnte institusjon. Institusjonen på bostedet skal umiddelbart oversende erklæringen fra undersøkende lege, særlig om arbeidsudyktighetens sannsynlige varighet, til den kompetente institusjon.
+
+C. Framgangsmåte som skal følges av den kompetente institusjon
+
+6\. Den kompetente institusjon skal forbeholde seg retten til å få medlemmet undersøkt av en lege etter eget valg.
+
+7\. Med forbehold for artikkel 21 nr. 1 annet punktum i grunnforordningen skal den kompetente institusjon utbetale kontantytelsene direkte til den berørte person, og skal om nødvendig underrette institusjonen på bostedet om dette.
+
+8\. Ved anvendelse av artikkel 21 nr. 1 i grunnforordningen skal opplysningene i en bekreftelse på arbeidsudyktighet for et medlem, utferdiget i en annen medlemsstat på grunnlag av undersøkende leges eller institusjons medisinske funn, ha samme rettsgyldighet som en bekreftelse utferdiget i den kompetente medlemsstat.
+
+9\. Dersom den kompetente institusjon avslår å betale kontantytelser, skal den gi medlemmet og institusjonen på bostedet samtidig melding om vedtaket.
+
+D. Framgangsmåte ved opphold i en annen medlemsstat enn den kompetente stat
+
+10\. Nr. 1-9 skal få tilsvarende anvendelse når medlemmet av trygdeordningen oppholder seg i en annen medlemsstat enn den kompetente medlemsstat.
+
+Artikkel 28
+
+Kontantytelser i forbindelse med langvarig pleie når den berørte personen er bosatt eller oppholder seg i en annen medlemsstat enn den kompetente medlemsstat
+
+A. Framgangsmåte som skal følges av medlemmet i trygdeordningen
+
+1\. For å få rett til kontantytelser i forbindelse med langvarig pleie i henhold til artikkel 21 nr. 1 i grunnforordningen skal medlemmet i trygdeordningen søke den kompetente institusjon. Den kompetente institusjon skal om nødvendig underrette institusjonen på bostedet om dette.
+
+B. Framgangsmåte som skal følges av institusjonen på bostedet
+
+2\. På anmodning fra den kompetente institusjon skal institusjonen på bostedet undersøke tilstanden til medlemmet i trygdeordningen hva angår behov for langvarig pleie. Den kompetente institusjon skal gi institusjonen på bostedet alle opplysninger som er nødvendige for å kunne foreta en slik undersøkelse.
+
+C. Framgangsmåte som skal følges av den kompetente institusjon
+
+3\. For å kunne bestemme hvor stort behov det er for langvarig pleie, skal den kompetente institusjon ha rett til å få medlemmet i trygdeordningen undersøkt av en lege eller en annen sakkyndig etter eget valg.
+
+4\. Artikkel 27 nr. 7 i gjennomføringsforordningen skal få tilsvarende anvendelse.
+
+D. Framgangsmåte ved opphold i en annen medlemsstat enn den kompetente stat
+
+5\. Nr. 1-4 skal få tilsvarende anvendelse når medlemmet i trygdeordningen oppholder seg i en annen medlemsstat enn den kompetente medlemsstat.
+
+E. Familiemedlemmer
+
+6\. Nr. 1-5 skal få tilsvarende anvendelse på familiemedlemmene til et medlem i trygdeordningen.
+
+Artikkel 29
+
+Anvendelse av artikkel 28 i grunnforordningen
+
+Dersom medlemsstaten der den tidligere grensearbeideren sist utøvde virksomhet, ikke lenger er den kompetente medlemsstat, og den tidligere grensearbeideren eller et medlem av hans/hennes familie reiser dit for å motta naturalytelser i henhold til artikkel 28 i grunnforordningen, skal han/hun legge et dokument utferdiget av den kompetente institusjon fram for institusjonen på oppholdsstedet.
+
+Artikkel 30
+
+Avgifter for pensjonister
+
+Dersom en person mottar pensjon fra mer enn én medlemsstat, skal den avgift som trekkes fra samtlige utbetalte pensjoner, ikke under noen omstendighet være høyere enn det beløp som trekkes fra for en person som mottar det samme pensjonsbeløp fra den kompetente medlemsstat.
+
+Artikkel 31
+
+Anvendelse av artikkel 34 i grunnforordningen
+
+A. Framgangsmåte som skal følges av den kompetente institusjon
+
+1\. Den kompetente institusjon skal underrette den berørte personen om bestemmelsen i artikkel 34 i grunnforordningen om å hindre sammenfall av ytelser. Slike regler skal sikre at den som ikke er bosatt i den kompetente medlemsstat, har rett til ytelser av en samlet størrelse eller verdi som tilsvarer den som vedkommende ville hatt rett til om han/hun var bosatt i den aktuelle medlemsstaten.
+
+2\. Den kompetente institusjon skal også underrette institusjonen på bostedet eller oppholdsstedet om utbetaling av kontantytelser i forbindelse med langvarig pleie når sistnevnte institusjons lovgivning har bestemmelser om naturalytelser ved langvarig pleie oppført i den liste som er nevnt i artikkel 34 nr. 2 i grunnforordningen.
+
+B. Framgangsmåte som skal følges av institusjonen på bostedet eller oppholdsstedet
+
+3\. Etter å ha mottatt opplysningene omhandlet i nr. 2 skal institusjonen på bostedet eller oppholdsstedet umiddelbart underrette den kompetente institusjon om eventuelle naturalytelser i forbindelse med langvarig pleie som etter dens lovgivning er tilstått den berørte personen for det samme formål, og om hvilken refusjonssats som skal gjelde i den forbindelse.
+
+4\. Den administrative kommisjon skal om nødvendig fastlegge gjennomføringstiltak til denne artikkel.
+
+Artikkel 32
+
+Særlige gjennomføringstiltak
+
+1\. Når en person eller en gruppe personer på anmodning fritas for pliktig syketrygd og dermed ikke er dekket av en syketrygdordning som omfattes av grunnforordningen, skal ikke en annen medlemsstats institusjon, utelukkende på grunn av fritaket, ha ansvar for å dekke utgiftene til naturalytelser eller kontantytelser til disse personene eller til et medlem av deres familie etter avdeling III kapittel I i grunnforordningen.
+
+2\. For medlemsstater nevnt i vedlegg 2 skal bestemmelsene om naturalytelser i avdeling III kapittel I i grunnforordningen gjelde for personer som har rett til naturalytelser utelukkende på grunnlag av en særordning for tjenestemenn, men bare i den grad det er angitt der.
+
+En annen medlemsstats institusjon skal ikke utelukkende av disse grunner bli ansvarlig for dekning av utgifter til naturalytelser eller kontantytelser til disse personene eller til medlemmer av deres familie.
+
+3\. Når de personer som er nevnt i nr. 1 og 2, og medlemmer av deres familie, er bosatt i en medlemsstat der retten til naturalytelser ikke forutsetter medlemskap i trygdeordning, lønnet arbeid eller selvstendig virksomhet, skal de betale fullt ut for alle naturalytelser som de mottar i bostedsstaten.
+
 Kapittel II
-Bestemmelser om samarbeid og utveksling av
-opplysninger
-Artikkel 2
-Regler for utveksling mellom institusjoner og
-omfanget av utvekslingen
-1. I forbindelse med gjennomføringsforordningen skal utveksling av opplysninger mellom
-medlemsstatenes myndigheter og institusjoner og personer som omfattes av grunnforordningen, være basert på prinsippene om offentlige tjenester, effektivitet, aktiv bistand, rask
-levering og tilgjengelighet, herunder e-tilgjengelighet, særlig for eldre og personer med
-funksjonsnedsettelse.
-2. Institusjonene skal umiddelbart legge fram
-eller utveksle alle opplysninger som er nødvendige for å kunne fastslå og bestemme rettigheter og plikter for personer som omfattes
-av grunnforordningen. Opplysningene skal
-overføres mellom medlemsstatene direkte av
-institusjonene selv, eller indirekte via kontaktorganene.
-3. Når en person ved en feiltakelse har lagt opplysninger, dokumenter eller krav fram for en
-institusjon på territoriet til en annen medlemsstat enn medlemsstaten der den institusjon
-befinner seg som er utpekt i samsvar med
-gjennomføringsforordningen, skal opplysningene, dokumentene eller kravene umiddelbart
-videresendes av førstnevnte institusjon til den
 
-227
+Ytelser ved yrkesskade og yrkessykdom
 
-institusjon som er utpekt i samsvar med gjennomføringsforordningen, med angivelse av
-datoen da opplysningene, dokumentene eller
-kravene først ble framlagt. Denne datoen skal
-være bindende for sistnevnte institusjon. En
-medlemsstats institusjoner skal imidlertid
-ikke holdes ansvarlige eller anses for å ha truffet en beslutning ved å forholde seg passive
-som følge av en forsinket oversendelse av opplysninger, dokumenter eller krav fra andre
-medlemsstaters institusjoner.
-4. Når opplysninger overføres indirekte via kontaktorganet i bestemmelsesstaten, skal fristene for å besvare en anmodning løpe fra den
-dag kontaktorganet mottok kravet, som om
-det var mottatt av institusjonen i den aktuelle
-medlemsstaten.
-Artikkel 3
-Regler for utveksling mellom berørte personer,
-og omfanget av utvekslingen
-1. Medlemsstatene skal sørge for at berørte personer får tilgang til nødvendige opplysninger,
-slik at de informeres om endringer i grunnforordningen og gjennomføringsforordningen og
-kan kreve sin rett. De skal også sørge for at tjenestene er brukervennlige.
-2. Personer som omfattes av grunnforordningen,
-skal ha plikt til å gi den relevante institusjon
-opplysninger, dokumenter eller underlagsmateriale som er nødvendig for å kunne fastslå
-deres eller familiens situasjon, for å fastsette
-eller opprettholde deres rettigheter og plikter
-og for å avgjøre hvilken lovgivning som få
-anvendelse og hvilke plikter de har etter den
-lovgivningen.
-3. Når medlemsstatene innhenter, overfører eller
-behandler personopplysninger i samsvar med
-sin lovgivning for å kunne gjennomføre grunnforordningen, skal de sørge for at berørte personer er fullt ut i stand til å utøve sine rettigheter knyttet til personvern, i samsvar med Fellesskapets bestemmelser om beskyttelse av
-fysiske personer i forbindelse med behandling
-av personopplysninger og om fri utveksling av
-slike data.
-4. I den grad det er nødvendig av hensyn til
-anvendelsen av grunnforordningen og gjennomføringsforordningen, skal de relevante
-institusjoner oversende opplysningene og
-utferdige dokumentene til berørte personer
-umiddelbart, og under alle omstendigheter
-innen de frister som er fastsatt i den aktuelle
-medlemsstatens lovgivning.
+Artikkel 33
 
-[Side 230]
+Rett til naturalytelser og kontantytelser ved bosted eller opphold i en annen medlemsstat enn den kompetente medlemsstat
 
-228
+1\. Ved anvendelse av artikkel 36 i grunnforordningen skal framgangsmåtene fastlagt i artikkel 24-27 i gjennomføringsforordningen få tilsvarende anvendelse.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+2\. Når institusjonen i oppholdsstaten eller bostedsstaten gir særlige naturalytelser ved yrkesskade og yrkessykdom etter egen nasjonale lovgivning, skal den umiddelbart underrette den kompetente institusjon.
 
-Den relevante institusjon skal gi en søker
-som er bosatt eller oppholder seg i en annen
-medlemsstat, melding om sitt vedtak, direkte
-eller via kontaktorganet i bosteds- eller oppholdsstaten. Når den avslår å gi ytelser, skal
-den også begrunne avslaget og opplyse om klagemuligheter og hvilke frister som gjelder i
-denne forbindelse. En kopi av vedtaket skal
-sendes til andre involverte institusjoner.
-Artikkel 4
-Format og metode for utveksling av
-opplysninger
-1. Den administrative kommisjon skal fastlegge
-struktur, innhold, format og nærmere ordninger for utveksling av dokumenter og strukturerte elektroniske dokumenter.
-2. Overføringen av opplysninger mellom institusjonene eller kontaktorganene skal skje elektronisk, enten direkte eller indirekte via tilknytningspunktene, innenfor en felles, sikker
-ramme som kan garantere at utvekslingen av
-opplysninger er fortrolig og beskyttet.
-3. De relevante institusjoner skal i sin kommunikasjon med berørte personer benytte de ordninger som i hvert enkelt tilfelle er hensiktsmessige, og skal foretrekke elektronisk overføring så langt det er mulig. Den administrative kommisjon skal fastlegge de praktiske
-ordningene for elektronisk oversendelse av
-opplysninger, dokumenter eller vedtak til
-berørte personer.
-Artikkel 5
-Den rettslige gyldigheten av dokumenter og
-underlagsmateriale utferdiget i en annen
-medlemsstat
-1. Dokumenter som en medlemsstats institusjon
-har utferdiget og som i forbindelse med anvendelsen av grunnforordningen og gjennomføringsforordningen viser en persons stilling, og
-det underlagsmateriale som ligger til grunn
-for utferdigelsen av dokumentene, skal godtas
-av de øvrige medlemsstaters institusjoner så
-lenge de ikke er trukket tilbake eller erklært
-ugyldige av medlemsstaten der de ble utferdiget.
-2. Når det er tvil om et dokuments gyldighet eller
-om riktigheten av de faktiske forhold som opplysningene i dokumentet bygger på, skal institusjonen i mottakerstaten be om nødvendig
-avklaring fra institusjonen som har utferdiget
-dokumentet, og eventuelt om at dokumentet
+Artikkel 34
 
-2021–2022
+Framgangsmåte ved yrkesskade eller yrkessykdom som inntreffer i en annen medlemsstat enn den kompetente stat
 
-trekkes tilbake. Institusjonen som har utferdiget dokumentet, skal ta begrunnelsen for å
-utferdige dokumentet opp til ny vurdering, og
-om nødvendig trekke det tilbake.
-3. I samsvar med nr. 2 skal institusjonen på oppholds- eller bostedet, når det er tvil om opplysningene som den berørte personen har lagt
-fram, dokumentets eller underlagsmaterialets
-gyldighet eller riktigheten av de faktiske forhold som enkelthetene i dokumentet bygger
-på, på anmodning fra den kompetente institusjon og så langt det er mulig, foreta nødvendig
-etterprøving av opplysningene eller dokumentet.
-4. Når de berørte institusjoner ikke blir enige,
-kan de kompetente myndigheter bringe saken
-inn for Den administrative kommisjon, tidligst
-en måned etter at anmodningen ble oversendt
-av institusjonen som mottok dokumentet. Den
-administrative kommisjon skal forsøke å
-oppnå enighet innen seks måneder fra den dag
-den fikk seg saken forelagt.
-Artikkel 6
-Midlertidig anvendelse av lovgivning og
-midlertidig tilståelse av ytelser
-1. Når institusjoner eller myndigheter i to eller
-flere medlemsstater er uenige om hvilken lovgivning som skal få anvendelse, skal den
-berørte personen, med mindre annet er fastsatt i gjennomføringsforordningen, være midlertidig undergitt lovgivningen i en av disse
-medlemsstater, etter følgende prioritering:
-a) lovgivningen i medlemsstaten der vedkommende faktisk utfører lønnet arbeid eller
-driver selvstendig virksomhet, dersom vedkommende utfører lønnet arbeid eller driver selvstendig virksomhet bare i en medlemsstat,
-b) bostedsstatens lovgivning, dersom vedkommende utfører lønnet arbeid eller driver selvstendig virksomhet i to eller flere
-medlemsstater og utfører en del av sin aktivitet i bostedsstaten, eller dersom vedkommende verken utfører lønnet arbeid eller
-driver selvstendig virksomhet,
-c) i alle andre tilfeller, den medlemsstats lovgivning hvis anvendelse det først ble anmodet om, dersom vedkommende utøver sin
-aktivitet i to eller flere medlemsstater.
-2. Når institusjoner eller myndigheter i to eller
-flere medlemsstater er uenige om hvilken
-institusjon som skal gi kontant- eller naturalytelser, skal berørte personer som kunne kreve
+1\. Dersom en yrkesskade inntreffer eller en yrkessykdom diagnostiseres for første gang i en medlemsstat som ikke er den kompetente medlemsstat, og nasjonal lovgivning har bestemmelser om erklæring eller melding, skal yrkesskaden eller yrkessykdommen erklæres eller meldes i samsvar med den kompetente medlemsstatens lovgivning, uten at dette berører eventuelle andre lovbestemmelser som er i kraft i medlemsstaten der yrkesskaden er inntruffet eller der yrkessykdommen er diagnostisert for første gang, som i slike tilfeller fortsatt skal få anvendelse. Erklæringen eller meldingen skal rettes til den kompetente institusjon.
 
-[Side 231]
+2\. Institusjonen i den medlemsstat på hvis territorium yrkesskaden er inntruffet eller yrkessykdommen først er diagnostisert, skal gi den kompetente institusjon melding om legeerklæringer som er utferdiget på den medlemsstatens territorium.
 
-2021–2022
+3\. Når det inntreffer en yrkesskade på reise til eller fra arbeid i en medlemsstat som ikke er den kompetente medlemsstat, og det er nødvendig med en nærmere undersøkelse på den førstnevnte medlemsstatens territorium for å få fastslått en eventuell rett til relevante ytelser, kan en person oppnevnes for dette formål av den kompetente institusjon, som skal underrette myndighetene i den aktuelle medlemsstaten om dette. Institusjonene skal samarbeide om å vurdere alle relevante opplysninger og gå gjennom rapporter og andre dokumenter knyttet til skaden.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+4\. Etter behandlingen skal det på anmodning fra den kompetente institusjon sendes en detaljert rapport vedlagt legeerklæringer om varige følger av skaden eller sykdommen, og særlig om den skadedes aktuelle helsetilstand og om tilfriskning eller stabilisering av skadene. Honorarer i den forbindelse skal betales av institusjonen på bostedet eller oppholdsstedet, alt etter som, etter institusjonens egne satser, og belastes den kompetente institusjon.
 
-ytelser om det ikke forelå uenighet, ha rett til
-midlertidige ytelser etter den lovgivning som
-anvendes av institusjonen på bostedet eller,
-dersom vedkommende ikke er bosatt på en av
-de berørte medlemsstaters territorium, ha rett
-til ytelser etter den lovgivning som gjelder for
-institusjonen der anmodningen først ble innlevert.
-3. Når de berørte institusjoner eller myndigheter
-ikke blir enige, kan de kompetente myndigheter bringe saken inn for Den administrative
-kommisjon, tidligst en måned etter at uenigheten nevnt i nr. 1 eller 2 oppstod. Den administrative kommisjon skal forsøke å oppnå
-enighet innen seks måneder fra den dag den
-fikk seg saken forelagt.
-4. Når det fastslås enten at gjeldende lovgivning
-ikke er lovgivningen i medlemsstaten som har
-gitt midlertidig medlemskap, eller at institusjonen som har tilstått ytelsene midlertidig ikke
-var den kompetente institusjon, skal den institusjon som fastslås å være kompetent, anses å
-ha vært dette med tilbakevirkende kraft, som
-om uenigheten ikke hadde forekommet,
-senest enten fra datoen for det midlertidige
-medlemskapet, eller fra den første midlertidige tilståelsen av de aktuelle ytelsene.
-5. Om nødvendig skal institusjonen som er fastslått å være den kompetente institusjon, og
-institusjonen som har utbetalt kontantytelser
-midlertidig eller har mottatt avgifter midlertidig, regulere den berørte personens økonomiske situasjon med hensyn til avgifter og
-kontantytelser betalt på midlertidig basis, i
-samsvar med bestemmelsene i avdeling IV
-kapittel III i gjennomføringsforordningen.
-Naturalytelser som er tilstått midlertidig av
-en institusjon i samsvar med nr. 2, skal refunderes av den kompetente institusjon i samsvar
-med avdeling IV i gjennomføringsforordningen.
-Artikkel 7
-Midlertidig beregning av ytelser og avgifter
-1. Når en person har rett til en ytelse eller skal
-betale avgift etter grunnforordningen, og den
-kompetente institusjon ikke har alle de opplysninger om situasjonen i en annen medlemsstat
-som er nødvendige for å kunne foreta en endelig beregning av ytelsens eller avgiftens størrelse, skal denne institusjon, med mindre det
-er fastsatt noe annet i gjennomføringsforordningen, på anmodning fra den berørte personen tilstå ytelsen eller beregne avgiften på
+5\. På anmodning fra institusjonen på bostedet eller oppholdsstedet, alt etter som, skal den kompetente institusjon gi den melding om et vedtak som fastsetter tidspunktet for tilfriskning eller stabilisering av skadene, og om et eventuelt vedtak om tilståelse av pensjon.
 
-229
+Artikkel 35
 
-midlertidig basis dersom en slik beregning er
-mulig ut fra opplysningene institusjonen sitter
-med.
-2. Ytelsen eller avgiften skal beregnes på nytt
-straks institusjonen har fått alt nødvendig
-underlagsmateriale eller alle nødvendige
-dokumenter.
+Tvister om hvorvidt skaden eller sykdommen er yrkesbetinget
+
+1\. Når den kompetente institusjon bestrider at lovgivningen om yrkesskade eller yrkessykdom etter artikkel 36 nr. 2 i grunnforordningen skal få anvendelse, skal den umiddelbart underrette institusjonen på bostedet eller oppholdsstedet som har gitt naturalytelsene, som så vil bli betraktet som syketrygdytelser.
+
+2\. Når det er gjort et endelig vedtak i saken, skal den kompetente institusjon umiddelbart underrette institusjonen på bostedet eller oppholdsstedet som har gitt naturalytelsene.
+
+Når det ikke er fastslått at det foreligger yrkesskade eller yrkessykdom, skal naturalytelser fortsatt gis som ytelser ved sykdom dersom den berørte personen har rett til dette.
+
+Når det er fastslått at det foreligger yrkesskade eller yrkessykdom, skal de naturalytelser ved sykdom som vedkommende har mottatt, betraktes som ytelser ved yrkesskade eller yrkessykdom fra den dag yrkesskaden inntraff eller yrkessykdommen først ble diagnostisert.
+
+3\. Artikkel 6 nr. 5 annet ledd i gjennomføringsforordningen skal få tilsvarende anvendelse.
+
+Artikkel 36
+
+Framgangsmåte ved eksponering for risiko for yrkessykdom i mer enn én medlemsstat
+
+1\. I tilfellet nevnt i artikkel 38 i grunnforordningen skal en erklæring eller melding om yrkessykdom sendes til den institusjon som er kompetent med hensyn til yrkessykdom i den medlemsstat etter hvis lovgivning den berørte personen sist har utført arbeid som må antas å kunne forårsake sykdommen.
+
+Når den institusjon som har mottatt erklæringen eller meldingen, fastslår at et arbeid som må antas å kunne forårsake yrkessykdommen, sist ble utført etter en annen medlemsstats lovgivning, skal den sende erklæringen eller meldingen og alle vedlagte bekreftelser til den motsvarende institusjonen i den medlemsstaten.
+
+2\. Når institusjonen i den medlemsstat etter hvis lovgivning den berørte personen sist har utført arbeid som må antas å kunne forårsake sykdommen, fastslår at vedkommende eller hans/hennes etterlatte ikke fyller vilkårene i den lovgivningen, blant annet fordi vedkommende aldri har utført et arbeid som har kunnet forårsake yrkessykdommen i den medlemsstaten, eller fordi den medlemsstaten ikke anerkjenner at sykdommen er yrkesbetinget, skal den umiddelbart videresende erklæringen eller meldingen og alle vedlagte bekreftelser, herunder resultater og rapporter fra medisinske undersøkelser foretatt av den første institusjonen, til institusjonen i den medlemsstat etter hvis lovgivning vedkommende tidligere har utført arbeid som må antas å kunne forårsake yrkessykdommen.
+
+3\. Om nødvendig skal institusjonene gjenta framgangsmåten angitt i nr. 2 ved å gå så langt tilbake som til den tilsvarende institusjon i medlemsstaten etter hvis lovgivning den berørte personen først har utført arbeid som må antas å kunne forårsake sykdommen.
+
+Artikkel 37
+
+Utveksling av opplysninger mellom institusjoner og forskudd ved klage på avslag
+
+1\. Ved klage på et vedtak om avslag gjort av institusjonen i en av de medlemsstater etter hvis lovgivning den berørte personen har utført arbeid som må antas å kunne forårsake yrkessykdommen, skal den institusjonen underrette institusjonen som mottok erklæringen eller meldingen, i samsvar med rutinen omhandlet i artikkel 36 nr. 2 i gjennomføringsforordningen, og skal deretter underrette den når det foreligger et endelig vedtak.
+
+2\. Når en person har rett til ytelser etter lovgivningen som anvendes av institusjonen som mottok erklæringen eller meldingen, skal denne institusjonen utbetale forskudd med et beløp som eventuelt skal fastsettes etter samråd med den institusjon hvis vedtak er påklaget, og på en slik måte at det ikke utbetales for mye. Sistnevnte institusjon skal refundere forskuddet dersom den som en følge av klagen, er pliktig å gi de aktuelle ytelsene. Beløpet skal deretter gå til fradrag i de ytelser som den berørte personen har rett til, i samsvar med artikkel 72 og 73 i gjennomføringsforordningen.
+
+3\. Artikkel 6 nr. 5 annet ledd i gjennomføringsforordningen skal få tilsvarende anvendelse.
+
+Artikkel 38
+
+Forverring av en yrkessykdom
+
+I tilfeller som omfattes av artikkel 39 i grunnforordningen, skal søkeren gi institusjonen i medlemsstaten der han/hun gjør krav på rett til ytelser, nærmere opplysninger om hvilke ytelser som tidligere er tilstått for den aktuelle yrkessykdommen. Denne institusjonen kan kontakte enhver annen tidligere kompetent institusjon for å få de opplysninger den mener er nødvendige.
+
+Artikkel 39
+
+Vurdering av uførhetsgrad ved yrkesskade eller yrkessykdom som har inntruffet tidligere eller inntreffer på et senere tidspunkt
+
+Når en tidligere eller senere arbeidsudyktighet er forårsaket av en skade som inntraff mens den berørte personen var undergitt lovgivningen i en medlemsstat der årsaken til arbeidsudyktigheten er uten betydning, skal den kompetente institusjon eller det organ som er utpekt av den kompetente myndighet i den aktuelle medlemsstat:
+
+a\) på anmodning fra den kompetente institusjon i en annen medlemsstat, gi opplysninger om graden av den tidligere eller senere arbeidsudyktigheten, og om mulig opplysninger som gjør det mulig å fastslå om arbeidsudyktigheten er en følge av en yrkesskade slik dette er definert i den lovgivning som gjelder for den andre medlemsstatens institusjon,
+
+b\) når retten til ytelser og deres størrelse skal fastsettes i samsvar med gjeldende lovgivning, ta hensyn til den uførhetsgrad som er en følge av disse tidligere eller senere tilfellene.
+
+Artikkel 40
+
+Innlevering og behandling av krav om pensjon eller tilleggsytelser
+
+For å kunne motta pensjon eller tilleggsytelse etter en medlemsstats lovgivning skal den berørte personen eller hans/hennes etterlatte som er bosatt på en annen medlemsstats territorium, framsette et krav til den kompetente institusjon, eller til institusjonen på bostedet, som skal videresende den til den kompetente institusjon.
+
+Kravet skal inneholde de opplysninger som kreves etter den kompetente institusjons lovgivning.
+
+Artikkel 41
+
+Særlige gjennomføringstiltak
+
+1\. For de medlemsstater som er nevnt i vedlegg 2, skal bestemmelsene om naturalytelser i avdeling III kapittel 2 i grunnforordningen gjelde for personer som har rett til naturalytelser utelukkende på grunnlag av en særordning for tjenestemenn, men bare i den grad det er angitt der.
+
+2\. Artikkel 32 nr. 2 annet ledd og artikkel 32 nr. 3 i gjennomføringsforordningen skal få tilsvarende anvendelse.
+
 Kapittel III
-Andre generelle bestemmelser om anvendelsen
-av grunnforordningen
-Artikkel 8
-Administrative avtaler mellom to eller flere
-medlemsstater
-1. Gjennomføringsforordningens bestemmelser
-skal erstatte bestemmelsene i avtaler som gjelder anvendelsen av avtaler nevnt i artikkel 8
-nr. 1 i grunnforordningen, unntatt bestemmelser om avtaler som gjelder konvensjoner nevnt
-i vedlegg II til grunnforordningen, forutsatt at
-bestemmelsene i disse avtaler er inntatt i vedlegg 1 til gjennomføringsforordningen.
-2. Medlemsstatene kan om nødvendig inngå
-avtaler seg imellom om anvendelsen av avtaler
-nevnt i artikkel 8 nr. 2 i grunnforordningen,
-forutsatt at disse avtalene ikke forringer
-berørte personers rettigheter og plikter og er
-inntatt i vedlegg 1 til gjennomføringsforordningen.
-Artikkel 9
-Andre framgangsmåter avtalt mellom myndigheter og institusjoner
-1. To eller flere medlemsstater, eller deres kompetente myndigheter, kan bli enige om andre
-framgangsmåter enn dem som er omhandlet i
-gjennomføringsforordningen, forutsatt at
-disse framgangsmåtene ikke forringer berørte
-personers rettigheter eller plikter.
-2. Alle avtaler som inngås for dette formål, skal
-meldes til Den administrative kommisjon og
-oppføres i vedlegg 1 til gjennomføringsforordningen.
-3. Bestemmelser nedfelt i gjennomføringsavtaler inngått mellom to eller flere medlemsstater
-med det samme eller tilsvarende formål som
-avtaler nevnt i nr. 2, som er i kraft dagen før
-gjennomføringsforordningen trer i kraft og er
-inntatt i vedlegg 5 til forordning (EØF) nr.
-574/72, skal fortsatt gjelde i forbindelsene
-mellom disse medlemsstater, forutsatt at de
-
-[Side 232]
-
-230
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-også er inntatt i vedlegg 1 til gjennomføringsforordningen.
-
-2021–2022
-
-rende når hans/hennes faktiske bosted skal
-fastsettes.
-
-Artikkel 10
-
-Artikkel 12
-
-Hindring av sammenfall av ytelser
-
-Sammenlegging av tid
-
-Når ytelser som kan kreves utbetalt etter to eller
-flere medlemsstaters lovgivning, på gjensidig
-grunnlag reduseres, suspenderes eller bortfaller,
-skal alle beløp som ikke ville blitt utbetalt ved en
-streng anvendelse av reglene om reduksjon, suspensjon eller bortfall i de berørte medlemsstaters
-lovgivning, divideres med antallet ytelser som
-skal reduseres, suspenderes eller bortfalle, uten
-hensyn til andre bestemmelser i grunnforordningen.
-
-1. Ved anvendelse av artikkel 6 i grunnforordningen skal den kompetente institusjon kontakte
-institusjonene i de medlemsstater hvis lovgivning den berørte personen også har vært
-undergitt, for å få fastlagt alle tidsrom som er
-tilbakelagt etter deres lovgivning.
-2. Trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid tilbakelagt etter
-en medlemsstats lovgivning skal legges til den
-tid som er tilbakelagt etter enhver annen medlemsstats lovgivning, i den grad det er nødvendig av hensyn til anvendelsen av artikkel 6 i
-grunnforordningen, forutsatt at disse tidsrommene ikke sammenfaller.
-3. Når trygdetid eller botid tilbakelagt med pliktig trygd etter en medlemsstats lovgivning
-sammenfaller med trygdetid tilbakelagt med
-frivillig trygd eller frivillig fortsatt trygd etter
-en annen medlemsstats lovgivning, skal bare
-den tid som er tilbakelagt med pliktig trygd
-medregnes.
-4. Når trygdetid eller botid, men ikke sidestilt
-tid, er tilbakelagt etter en medlemsstats lovgivning og sammenfaller med sidestilt tid på
-grunnlag av en annen medlemsstats lovgivning, skal bare den tid som ikke er sidestilt
-medregnes.
-5. Ethvert tidsrom som anses som sidestilt etter
-to eller flere medlemsstaters lovgivning, skal
-medregnes bare av institusjonen i den medlemsstat hvis lovgivning den berørte personen
-sist var undergitt på pliktig grunnlag forut for
-dette tidsrom. Dersom den berørte personen
-ikke var undergitt en medlemsstats lovgivning
-på pliktig grunnlag forut for det aktuelle tidsrom, skal dette tidsrom medregnes av institusjonen i den medlemsstat hvis lovgivning vedkommende først var undergitt på pliktig
-grunnlag etter det aktuelle tidsrom.
-6. Dersom det ikke lar seg gjøre å fastsette nøyaktig tilbakelagt trygdetid eller botid etter en
-medlemsstats lovgivning, skal det antas at
-disse tidsrom ikke sammenfaller med trygdetid eller botid tilbakelagt etter en annen medlemsstats lovgivning, og de skal, om det er
-rimelig, medregnes når det er til den berørte
-personens fordel.
-
-Artikkel 11
-Kriterier for fastsettelse av bosted
-1. Når to eller flere medlemsstaters institusjoner
-er uenige om fastsettelsen av bosted for en
-person som omfattes av grunnforordningen,
-skal disse institusjoner etter felles overenskomst fastslå hvor den berørte personen har
-sentrum for livsinteressene, ut fra en samlet
-vurdering av alle tilgjengelige opplysninger
-om relevante fakta, som blant annet kan
-omfatte:
-a) varigheten av vedkommendes tilstedeværelse på den berørte medlemsstats territorium, og besøkets kontinuitet,
-b) vedkommendes situasjon, herunder:
-i) virksomhetens art og særtrekk, særlig
-stedet der virksomheten utøves til vanlig, i hvilken grad det er en permanent
-virksomhet, og hvor lenge en eventuell
-arbeidsavtale varer,
-ii) vedkommendes familiesituasjon og
-familiebånd,
-iii) eventuell ulønnet virksomhet,
-iv) for studenters vedkommende, deres
-inntektskilde,
-v) vedkommendes boligsituasjon, særlig
-hvor permanent den er,
-vi) i hvilken medlemsstat vedkommende
-anses å være bosatt for skattemessige
-formål.
-2. Når vurderingen av de ulike kriteriene basert
-på relevante fakta som angitt i nr. 1 ikke fører
-til at de berørte institusjoner blir enige, skal
-vedkommendes hensikt, slik dette framgår av
-de faktiske forhold, og særlig årsakene til at
-vedkommende har flyttet, anses som avgjø-
-
-[Side 233]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-Artikkel 13
-Regler for omregning av tid
-1. Når tid tilbakelagt etter en medlemsstats lovgivning uttrykkes i andre tidsenheter enn dem
-som er fastsatt i en annen medlemsstats lovgivning, skal omregningen ved sammenlegging av tid etter artikkel 6 i grunnforordningen skje etter følgende regler:
-a) institusjonen i den medlemsstat etter hvis
-lovgivning tidsrommet ble tilbakelagt, skal
-gi melding om hvilket tidsrom som skal
-benyttes som grunnlag for omregningen,
-b) i ordninger der tidsrommene uttrykkes i
-dager, skal omregningen fra dager til andre
-tidsenheter, og omvendt, og mellom ulike
-ordninger basert på dager, beregnes i samsvar med følgende tabell:
-1 kvartal
-tilsvarer
-
-Høyeste
-antall
-dager i ett
-kalenderår
-
-Ordning
-basert på
-
-1 dag
-tilsvarer
-
-1 uke
-tilsvarer
-
-1 måned
-tilsvarer
-
-5 dager
-
-9 timer
-
-5 dager
-
-22 dager 66 dager 264 dager
-
-6 dager
-
-8 timer
-
-6 dager
-
-26 dager 78 dager 312 dager
-
-7 dager
-
-6 timer
-
-7 dager
-
-30 dager 90 dager 360 dager
-
-c) i ordninger der tidsrommene uttrykkes i
-andre tidsenheter enn dager,
-i) skal tre måneder eller 13 uker tilsvare
-ett kvartal, og omvendt,
-ii) skal ett år tilsvare fire kvartal, 12 måneder eller 52 uker, og omvendt,
-iii) når uker omregnes til måneder og
-omvendt, skal uker og måneder omregnes til dager i samsvar med omregningsreglene for ordninger basert på
-seks dager i punkt b) i tabellen,
-d) for tidsrom som uttrykkes i brøkdeler, skal
-disse tall omregnes til nærmeste lavere,
-hele tall etter reglene i punkt b) og c). Brøkdeler av år skal omregnes til måneder, med
-mindre ordningen er basert på kvartaler,
-e) dersom omregning etter dette ledd gir en
-brøkdel av en enhet, skal den nærmeste
-høyere hele enhet anses som et resultat av
-omregning etter dette ledd.
-2. Anvendelsen av nr. 1 skal ikke føre til at det for
-all tid som er tilbakelagt i et kalenderår, medregnes et tidsrom som overstiger antall dager
-oppført i den siste kolonnen i tabellen i nr. 1
-bokstav b), 52 uker, 12 måneder eller fire kvartaler.
-Dersom tidsrommene som skal omregnes,
-tilsvarer det maksimale antall tidsrom per år etter lovgivningen i medlemsstaten der de er til-
-
-231
-
-bakelagt, skal anvendelsen av nr. 1 i løpet av et
-kalenderår ikke gi tidsrom som er kortere enn
-det mulige maksimale antall tidsrom per år etter den aktuelle lovgivningen.
-3. Omregningen skal foretas enten i en enkelt
-operasjon for alle tidsrom som meldes som et
-samlet antall, eller for hvert enkelt år dersom
-tidsrommene meldes fra år til år.
-4. Når en institusjon gir melding om tidsrom
-uttrykt i dager, skal den samtidig angi om ordningen den forvalter, er basert på fem dager,
-seks dager eller sju dager.
-Avdeling II
-Fastsettelse av hvilken lovgivning som får
-anvendelse
-Artikkel 14
-Nærmere bestemmelser knyttet til artikkel 12 og
-13 i grunnforordningen
-1. Ved anvendelse av artikkel 12 nr. 1 i grunnforordningen skal «en person som utfører lønnet
-arbeid i en medlemsstat for en arbeidsgiver
-som vanligvis driver virksomhet der, og som
-sendes av arbeidsgiveren til en annen medlemsstat» omfatte en person som rekrutteres
-med sikte på å bli sendt til en annen medlemsstat, forutsatt at vedkommende umiddelbart
-før ansettelsesforholdet tar til, allerede er
-undergitt lovgivningen i medlemsstaten der
-arbeidsgiveren er etablert.
-2. Ved anvendelse av artikkel 12 nr. 1 i grunnforordningen skal ordene «som vanligvis driver
-virksomhet der» vise til en arbeidsgiver som til
-vanlig driver virksomhet av et visst omfang,
-som ikke er rent intern administrasjon, på territoriet til medlemsstaten der foretaket er etablert, og det skal da tas hensyn til alle kriterier
-som kjennetegner foretakets virksomhet. De
-relevante kriteriene må være tilpasset den
-enkelte arbeidsgivers særtrekk og virksomhetens reelle art.
-3. Ved anvendelse av artikkel 12 nr. 2 i grunnforordningen skal ordene «som vanligvis driver
-selvstendig virksomhet» vise til en person som
-til vanlig driver virksomhet av et visst omfang
-på territoriet til medlemsstaten der han/hun
-er etablert. Vedkommende må allerede ha drevet sin virksomhet en viss tid før den dato
-han/hun ønsker å dra fordel av bestemmelsen
-i nevnte artikkel, og må, i ethvert tidsrom med
-midlertidig virksomhet i en annen stat, fortsatt
-oppfylle kravene til drift av virksomheten i
-
-[Side 234]
-
-232
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-medlemsstaten der han/hun er etablert, for å
-kunne ta den opp ved tilbakekomsten.
-4. Ved anvendelse av artikkel 12 nr. 2 i grunnforordningen skal kriteriet for å avgjøre om den
-virksomhet en selvstendig person skal drive i
-en annen medlemsstat, er en virksomhet som
-«likner» den selvstendige virksomhet som til
-vanlig drives, være virksomhetens art, og ikke
-hvorvidt den betegnes som lønnet arbeid eller
-selvstendig virksomhet av den andre medlemsstaten.
-5. Ved anvendelse av artikkel 13 nr. 1 i grunnforordningen skal en person som «vanligvis utfører lønnet arbeid i to eller flere medlemsstater», vise til en person som samtidig eller skiftesvis utøver en eller flere separate aktiviteter i
-to eller flere medlemsstater for samme foretak
-eller arbeidsgiver eller for forskjellige foretak
-eller arbeidsgivere.
-5a. Ved anvendelse av avdeling II i grunnforordningen skal «forretningskontor eller forretningssted» vise til det forretningskontor eller
-forretningssted der foretaket treffer sine viktigste beslutninger, og der hovedadministrasjonen utfører sine oppgaver.
-Ved anvendelse av artikkel 13 nr. 1 i grunnforordningen skal et ansatt medlem av flygebesetning eller kabinbesetning som vanligvis utfører arbeid ved flyging med passasjerer eller
-frakt i to eller flere medlemsstater, være undergitt lovgivningen i medlemsstaten der hjemmebasen, som definert i vedlegg III til rådsforordning (EØF) nr. 3922/91 av 16. desember 1991
-om harmonisering av tekniske krav og administrative framgangsmåter i sivil luftfart6, befinner seg.
-5b. Det skal ses bort fra marginale aktiviteter ved
-fastsettelse av hvilken lovgivning som skal
-gjelde i henhold til artikkel 13 i grunnforordningen. Artikkel 16 i gjennomføringsforordningen får anvendelse i alle tilfeller som kommer inn under denne artikkel.
-6. Ved anvendelse av artikkel 13 nr. 2 i grunnforordningen skal en person som «vanligvis driver selvstendig virksomhet i to eller flere medlemsstater» spesielt vise til en person som
-samtidig eller skiftesvis driver en eller flere
-separate selvstendige virksomheter, uavhengig av disse virksomheters art, i to eller flere
-medlemsstater.
-6
-
-EFT L 373 av 31.12.1991, s. 4.
-
-2021–2022
-
-7. For å kunne skille mellom virksomhet etter nr.
-5 og 6 og situasjoner som er beskrevet i artikkel 12 nr. 1 og 2 i grunnforordningen, skal
-virksomhetens varighet i en eller flere andre
-medlemsstater (enten den er permanent eller
-ad hoc eller midlertidig) være avgjørende. For
-dette formål skal det foretas en samlet vurdering av alle relevante fakta, blant annet, når det
-dreier seg om en arbeidstaker, hvilket arbeidssted som er fastsatt i arbeidsavtalen.
-8. Ved anvendelse av artikkel 13 nr. 1 og 2 i
-grunnforordningen menes med «en vesentlig
-del av lønnet arbeid eller selvstendig virksomhet» i en medlemsstat, en kvantitativt sett
-vesentlig del av alt lønnet arbeid eller all selvstendig virksomhet der, uten at dette nødvendigvis er den største delen av arbeidet eller
-virksomheten.
-For å kunne avgjøre om en vesentlig del av
-arbeidet eller virksomheten finner sted i en
-medlemsstat, skal det tas hensyn til følgende
-kriterier:
-a) ved lønnet arbeid, arbeidstid og/eller lønn,
-og
-b) ved selvstendig virksomhet, omsetning,
-arbeidstid, antall tjenester som er levert,
-og/eller inntekt.
-I en samlet vurdering skal en andel under
-25 % av kriteriene nevnt over være en indikator
-på at en vesentlig del av virksomheten ikke utøves i den aktuelle medlemsstaten.
-9. Ved anvendelse av artikkel 13 nr. 2 bokstav b) i
-grunnforordningen skal «hovedtyngden» av
-en selvstendig næringsdrivendes virksomhet
-fastsettes ved å ta hensyn til alle sider ved vedkommendes yrkesutøvelse, blant annet stedet
-der vedkommendes fastsatte og permanente
-forretningssted befinner seg, virksomhetens
-vanlige karakter eller varighet, antall tjenester
-som er levert og vedkommendes hensikt slik
-den framgår av samtlige forhold.
-10. For å kunne avgjøre hvilken lovgivning som
-skal få anvendelse etter nr. 8 og 9, skal de
-berørte institusjoner ta hensyn til situasjonen
-slik den antas å ville være de påfølgende 12
-kalendermåneder.
-11. Dersom en person utfører lønnet arbeid i to
-eller flere medlemsstater for en arbeidsgiver
-som er etablert utenfor Unionens territorium,
-og denne person er bosatt i en medlemsstat
-uten å utføre en vesentlig del av sitt arbeid der,
-skal han/hun være undergitt bostedsstatens
-lovgivning.
-
-[Side 235]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-Artikkel 15
-Framgangsmåter ved anvendelse av artikkel 11
-nr. 3 bokstav b) og d), artikkel 11 nr. 4 og artikkel
-12 i grunnforordningen (om oversendelse av
-opplysninger til de berørte institusjoner)
-1. Når en person utøver virksomhet i en annen
-medlemsstat enn den som er kompetent medlemsstat etter avdeling II i grunnforordningen,
-skal arbeidsgiveren, eller den berørte personen selv dersom han/hun ikke utfører lønnet
-arbeid, gi den kompetente institusjon i den
-medlemsstat hvis lovgivning får anvendelse,
-underretning om dette, om mulig på forhånd.
-Institusjonen skal gi den berørte personen
-bekreftelsen nevnt i artikkel 19 nr. 2 i gjennomføringsforordningen, og skal umiddelbart
-stille til rådighet opplysninger om hvilken lovgivning som skal gjelde for personen i henhold
-til artikkel 11 nr. 3 bokstav b) eller artikkel 12 i
-grunnforordningen, for den institusjon som er
-utpekt av den kompetente myndighet i medlemsstaten der aktiviteten utøves.
-2. Nr. 1 skal få tilsvarende anvendelse for personer som omfattes av artikkel 11 nr. 3 bokstav
-d) i grunnforordningen.
-3. En arbeidsgiver som definert i artikkel 11 nr. 4
-i grunnforordningen som har en arbeidstaker
-om bord på et skip som fører en annen medlemsstats flagg, skal gi den kompetente institusjon i den medlemsstat hvis lovgivning får
-anvendelse, underretning om dette, om mulig
-på forhånd. Institusjonen skal umiddelbart
-sørge for at institusjonen som er utpekt av den
-kompetente myndighet i medlemsstaten hvis
-flagg føres av skipet der arbeidstakeren skal
-arbeide, underrettes om hvilken lovgivning
-som skal få anvendelse på den berørte personen i henhold til artikkel 11 nr. 4 i grunnforordningen.
-Artikkel 16
-Framgangsmåte ved anvendelse av artikkel 13 i
-grunnforordningen
-1. En person som utøver virksomhet i to eller
-flere medlemsstater, skal gi institusjonen som
-er utpekt av den kompetente myndighet i
-bostedsstaten, underretning om dette.
-2. Den utpekte institusjon på bostedet skal umiddelbart avgjøre hvilken lovgivning som skal få
-anvendelse på vedkommende, og det skal da
-tas hensyn til artikkel 13 i grunnforordningen
-og artikkel 14 i gjennomføringsforordningen.
-Den første avgjørelsen skal være midlertidig.
-
-3.
-
-4.
-
-5.
-
-6.
-
-233
-
-Institusjonen skal underrette de utpekte institusjoner i hver medlemsstat der det utøves
-virksomhet, om sin midlertidige avgjørelse.
-Den midlertidige avgjørelsen om hvilken lovgivning som skal får anvendelse, som omhandlet i nr. 2, skal bli endelig innen to måneder
-etter at institusjoner utpekt av den kompetente
-myndighet i de berørte medlemsstater er blitt
-underrettet om dette, i samsvar med nr. 2, med
-mindre lovgivningen allerede er endelig
-bestemt med hjemmel i nr. 4, eller minst en av
-de berørte institusjoner i løpet av disse to
-månedene underretter institusjonen som er
-utpekt av den kompetente myndighet i
-bostedsstaten, om at den ennå ikke kan godta
-avgjørelsen, eller om at den har et annet syn
-på dette.
-Når usikkerhet omkring fastsettelsen av hvilken lovgivning som skal få anvendelse, krever
-kontakt mellom institusjoner eller myndigheter i to eller flere medlemsstater, skal gjeldende lovgivning for den berørte personen
-avgjøres etter felles overenskomst på anmodning fra en eller flere av de institusjoner som
-er utpekt av den kompetente myndighet i de
-berørte medlemsstater, eller fra de kompetente myndigheter selv, og det skal da tas hensyn til artikkel 13 i grunnforordningen og de
-relevante bestemmelser i artikkel 14 i gjennomføringsforordningen.
-Når de berørte institusjoner eller kompetente myndigheter er uenige, skal de søke å
-oppnå enighet i samsvar med vilkårene ovenfor, og artikkel 6 i gjennomføringsforordningen skal få anvendelse.
-Den kompetente institusjon i den medlemsstat
-hvis lovgivning er fastsatt som gjeldende,
-enten midlertidig eller endelig, skal umiddelbart underrette den berørte personen om
-dette.
-Dersom den berørte personen unnlater å gi de
-opplysninger som er omhandlet i nr. 1, skal
-denne artikkel, på initiativ fra institusjonen
-som er utpekt av den kompetente myndighet i
-bostedsstaten, få anvendelse så snart institusjonen, eventuelt via en annen berørt institusjon, får kjennskap til denne personens situasjon.
-
-Artikkel 17
-Framgangsmåte ved anvendelse av artikkel 15 i
-grunnforordningen
-Kontraktsansatte i De europeiske fellesskap skal
-utøve retten til å velge etter artikkel 15 i grunnfor-
-
-[Side 236]
-
-234
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-ordningen når arbeidsavtalen inngås. Den myndighet som er bemyndiget til å inngå avtalen, skal
-underrette den utpekte institusjon i den medlemsstat hvis lovgivning den kontraktsansatte i De
-europeiske fellesskap har valgt.
-
-2021–2022
-
-den kompetente myndighet i den medlemsstat
-hvis lovgivning personen sist var undergitt,
-underrettes om hvilken dato den lovgivningen
-får virkning.
-Artikkel 21
-
-Artikkel 18
-
-Arbeidsgiverens plikter
-
-Framgangsmåte ved anvendelse av artikkel 16 i
-grunnforordningen
-
-1. En arbeidsgiver som har sitt forretningskontor
-eller forretningssted utenfor den kompetente
-medlemsstat, skal oppfylle alle lovfestede plikter overfor sine ansatte, særlig plikten til å
-betale avgifter etter den lovgivningen, som om
-vedkommende hadde sitt forretningskontor
-eller forretningssted i den kompetente medlemsstat.
-2. En arbeidsgiver som ikke har forretningssted i
-den medlemsstat hvis lovgivning gjelder, kan
-avtale med arbeidstakeren at sistnevnte kan
-oppfylle arbeidsgiverens plikter på dens vegne
-med hensyn til betaling av avgifter, uten at
-dette skal berøre arbeidsgiverens grunnleggende plikter. Arbeidsgiveren skal gi den kompetente institusjon i den berørte medlemsstat
-melding om ordningen.
-
-En anmodning fra arbeidsgiveren eller den
-berørte personen om unntak fra artikkel 11-15 i
-grunnforordningen skal, om mulig på forhånd,
-forelegges den kompetente myndighet eller det
-myndighetsutpekte organet i den medlemsstat
-hvis lovgivning skal få anvendelse etter arbeidstakerens eller personens ønske.
-Artikkel 19
-Informasjon til berørte personer og arbeidsgivere
-1. Den kompetente institusjon i den medlemsstat
-hvis lovgivning skal få anvendelse i henhold til
-avdeling II i grunnforordningen, skal underrette den berørte personen og eventuelt hans/
-hennes arbeidsgiver(e) om hvilke plikter som
-er fastlagt i den lovgivningen. Den skal gi dem
-nødvendig hjelp med de formaliteter som kreves etter den lovgivningen.
-2. På anmodning fra den berørte personen eller
-arbeidsgiveren skal den kompetente institusjon i den medlemsstat hvis lovgivning skal få
-anvendelse i henhold til avdeling II i grunnforordningen, bekrefte at lovgivningen skal få
-anvendelse, og eventuelt angi til hvilken dato
-og på hvilke vilkår.
-Artikkel 20
-Samarbeid mellom institusjoner
-1. De relevante institusjoner skal oversende den
-kompetente institusjon i den medlemsstat hvis
-lovgivning får anvendelse på en person i henhold til avdeling II i grunnforordningen, de
-opplysninger som er nødvendige for å kunne
-bestemme fra hvilken dato lovgivningen skal
-få anvendelse, og hvilke avgifter den berørte
-personen og hans/hennes arbeidsgiver(e)
-skal betale etter den lovgivningen.
-2. Den kompetente institusjon i den medlemsstat
-hvis lovgivning skal få anvendelse på en person i henhold til avdeling II i grunnforordningen, skal sørge for at institusjonen utpekt av
-
-Avdeling III
-Særlige bestemmelser om de ulike typer ytelser
-Kapittel I
-Ytelser ved sykdom, ytelser til mor ved svangerskap og fødsel og tilsvarende ytelser til far
-Artikkel 22
-Generelle gjennomføringsbestemmelser
-1. De kompetente myndigheter eller institusjoner skal sørge for at medlemmer i trygdeordningen får all nødvendig informasjon om framgangsmåter og vilkår for tilståelse av naturalytelser når disse ytelsene mottas på territoriet
-til en annen medlemsstat enn den kompetente
-institusjonens medlemsstat.
-2. Uten hensyn til artikkel 5 bokstav a) i grunnforordningen kan en medlemsstat bli ansvarlig
-for utgiftene til ytelser i samsvar med artikkel
-22 i grunnforordningen bare dersom
-medlemmet i trygdeordningen enten har
-fremmet krav om pensjon etter denne medlemsstatens lovgivning, eller i samsvar med
-artikkel 23-30 i grunnforordningen mottar
-pensjon etter denne medlemsstatens lovgivning.
-
-[Side 237]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-Artikkel 23
-Bestemmelser om hvilken ordning som skal
-gjelde når det er mer enn én ordning i bostedsstaten eller oppholdsstaten
-Dersom bostedsstatens eller oppholdsstatens lovgivning inneholder mer enn én ordning for ytelser
-ved sykdom, ytelser til mor ved svangerskap og
-fødsel og tilsvarende ytelser til far for mer enn én
-kategori av medlemmer, skal bestemmelsene som
-får anvendelse etter artikkel 17, artikkel 19 nr. 1,
-og artikkel 20, 22, 24 og 26 i grunnforordningen,
-være bestemmelsene i lovgivningen om den generelle ordningen for arbeidstakere.
-
-235
-
-ellers er nødvendig, kontakte den kompetente
-institusjon for å framskaffe et.
-2. Det skal angis i dokumentet at medlemmet har
-rett til naturalytelser på de vilkår som er fastlagt i artikkel 19 i grunnforordningen, som om
-vedkommende hadde trygdedekning etter
-oppholdsstatens lovgivning.
-3. Med naturalytelser som nevnt i artikkel 19 nr.
-1 i grunnforordningen menes de naturalytelser som tilbys i oppholdsstaten, i samsvar med
-dens lovgivning, og som blir nødvendige av
-medisinske grunner, slik at et medlem ikke
-blir tvunget til å reise tilbake til den kompetente medlemsstat for å få nødvendig behandling før oppholdet er avsluttet som planlagt.
-
-Artikkel 24
-Bosted i en annen medlemsstat enn den kompetente medlemsstat
-
-B. Framgangsmåte og ordninger for dekning av
-utgifter og refusjon av naturalytelser
-
-1. Ved anvendelse av artikkel 17 i grunnforordningen skal medlemmet i trygdeordningen
-og/eller medlemmer av hans/hennes familie
-ha plikt til å registrere seg ved institusjonen på
-bostedet. Deres rett til naturalytelser i
-bostedsstaten skal, på anmodning fra
-medlemmet eller fra institusjonen på bostedet,
-bekreftes ved et dokument utferdiget av den
-kompetente institusjon.
-2. Dokumentet nevnt i nr. 1 skal være gyldig til
-den kompetente institusjon underretter institusjonen på bostedet om at det ikke lenger
-gjelder.
-Institusjonen på bostedet skal underrette
-den kompetente institusjon om enhver registrering i henhold til nr. 1, og om enhver endring
-eller sletting av registreringen.
-3. Denne artikkel skal få tilsvarende anvendelse
-på personer som omfattes av artikkel 22, 24, 25
-og 26 i grunnforordningen.
-
-4. Dersom et medlem i trygdeordningen faktisk
-har dekket utgiftene til samtlige eller enkelte
-naturalytelser gitt innenfor rammen av artikkel 19 i grunnforordningen, og dersom vedkommende kan få refundert disse utgiftene i
-henhold til lovgivningen som institusjonen på
-oppholdsstedet anvender, kan han/hun sende
-en søknad om refusjon til institusjonen på oppholdsstedet. Institusjonen skal i dette tilfellet
-refundere direkte til vedkommende det beløp
-som tilsvarer utgiftene til disse ytelsene,
-innenfor de rammer og etter de refusjonssatser som er fastsatt i dens lovgivning.
-5. Dersom det ikke er bedt om utgiftsrefusjon
-direkte fra institusjonen på oppholdsstedet,
-skal den berørte personen få refundert utgiftene av den kompetente institusjon i samsvar
-med de refusjonssatser som administreres av
-institusjonen på oppholdsstedet, eller de beløp
-som oppholdsstedets institusjon hadde fått
-refundert om artikkel 62 i gjennomføringsforordningen var gjeldende i det aktuelle tilfellet.
-Institusjonen på oppholdsstedet skal på anmodning gi den kompetente institusjon alle
-nødvendige opplysninger om disse satser eller
-beløp.
-6. Som unntak fra nr. 5 kan den kompetente institusjon refundere de påløpte utgiftene innenfor
-de rammer og etter de refusjonssatser som er
-fastlagt i dens lovgivning, forutsatt at
-medlemmet har gitt sitt samtykke til at denne
-bestemmelsen skal få anvendelse på ham/
-henne.
-7. Dersom oppholdsstatens lovgivning ikke har
-bestemmelser om refusjon i henhold til nr. 4
-og 5 i det aktuelle tilfellet, kan den kompetente
-
-Artikkel 25
-Opphold i en annen medlemsstat enn den
-kompetente medlemsstat
-A. Framgangsmåte og rettighetens omfang
-1. Ved anvendelse av artikkel 19 i grunnforordningen skal medlemmet i trygdeordningen
-legge et dokument fram for helsetjenesteyteren i oppholdsstaten, utferdiget av den kompetente institusjon og med bekreftelse på retten
-til naturalytelser. Dersom medlemmet ikke
-har et slikt dokument, skal institusjonen på
-oppholdsstedet, på anmodning eller om det
+
+Gravferdshjelp
+
+Artikkel 42
+
+Søknad om gravferdshjelp
+
+Ved anvendelse av artikkel 42 og 43 i grunnforordningen skal en søknad om gravferdshjelp sendes til den kompetente institusjon, eller til institusjonen på søkerens bosted, som skal videresende den til den kompetente institusjon.
+
+Kravet skal inneholde de opplysninger som kreves etter den kompetente institusjons lovgivning.
+
+Kapittel IV
+
+Ytelser ved uførhet samt alders- og etterlattepensjon
+
+Artikkel 43
+
+Tilleggsbestemmelser for beregning av ytelser
+
+1\. Ved beregning av det teoretiske og det faktiske beløpet for ytelsen i samsvar med artikkel 52 nr. 1 bokstav b) i grunnforordningen skal reglene i artikkel 12 nr. 3-6 i gjennomføringsforordningen gjelde.
+
+2\. Når tid med frivillig trygd eller frivillig fortsatt trygd ikke er medregnet etter artikkel 12 nr. 3 i gjennomføringsforordningen, skal institusjonen i den medlemsstat etter hvis lovgivning slik tid er tilbakelagt, beregne beløpet som svarer til disse tidsrom etter dens lovgivning. Det faktiske beløpet for ytelsen, beregnet i samsvar med artikkel 52 nr. 1 bokstav b) i grunnforordningen, skal økes med det beløp som svarer til tid med frivillig trygd eller frivillig fortsatt trygd.
+
+3\. Institusjonen i hver medlemsstat skal, i henhold til egen lovgivning, beregne det beløp som svarer til tid med frivillig trygd eller frivillig fortsatt trygd som etter artikkel 53 nr. 3 bokstav c) i grunnforordningen ikke skal være undergitt en annen medlemsstats regler om reduksjon, midlertidig stans eller bortfall.
+
+Når det etter den kompetente institusjons lovgivning ikke er mulig å foreta en direkte beregning av dette beløpet fordi det i den lovgivningen tildeles forskjellige verdier for trygdetid, kan det fastsettes et teoretisk beløp. Den administrative kommisjon skal fastlegge nærmere regler for fastsettelsen av det teoretiske beløpet.
+
+Artikkel 44
+
+Medregning av tid med omsorg for barn
+
+1\. I denne artikkel menes med «tid med omsorg for barn» enhver tid som godskrives etter en medlemsstats pensjonslovgivning, eller som gir et pensjonstillegg, med den uttrykkelige begrunnelse at en person har hatt omsorg for et barn, uansett hvilken metode som benyttes til å beregne slik tid, og hvorvidt den godskrives på tidspunktet da omsorgen gis, eller godkjennes i etterkant.
+
+2\. Når tid med omsorg for barn ikke medregnes etter lovgivningen i den medlemsstat som er kompetent etter avdeling II i grunnforordningen, skal institusjonen i den medlemsstat hvis lovgivning, i samsvar med avdeling II i grunnforordningen, var gjeldende for den berørte personen fordi han/hun utførte lønnet arbeid eller drev selvstendig virksomhet på tidspunktet da beregningen av tid med omsorg for barn etter den lovgivningen tok til for vedkommende barn, fortsatt ha ansvar for å medregne denne tiden som tid med omsorg for barn etter egen lovgivning, som om omsorgen fant sted på dens eget territorium
+
+3\. Nr. 2 skal ikke gjelde dersom den berørte personen er eller blir undergitt lovgivningen i en annen medlemsstat fordi han/hun utfører lønnet arbeid eller driver selvstendig virksomhet.
+
+Artikkel 45
+
+Krav om ytelser
+
+A. Innlevering av krav om ytelser etter lovgivning av type A i henhold til artikkel 44 nr. 2 i grunnforordningen
+
+1\. For å motta ytelser etter lovgivning av type A i henhold til artikkel 44 nr. 2 i grunnforordningen, skal søkeren rette søknaden til institusjonen i den medlemsstat hvis lovgivning var gjeldende på tidspunktet da arbeidsudyktigheten inntraff, med påfølgende uførhet eller forverret uførhet, eller til institusjonen på bostedet, som skal videresende kravet til førstnevnte institusjon.
+
+2\. Dersom det er tilstått kontantytelser ved sykdom, skal tidspunktet da disse ytelsene opphører, eventuelt anses som tidspunktet for innlevering av pensjonskravet.
+
+3\. I tilfellet nevnt i artikkel 47 nr. 1 i grunnforordningen skal den institusjon der den berørte personen sist var medlem, underrette institusjonen som først betalte ytelsene, om ytelsenes størrelse og fra hvilken dato de skal gjelde etter gjeldende lovgivning. Fra dette tidspunktet skal ytelser vedkommende hadde rett til før uførheten ble forverret, bortfalle eller reduseres til et tillegg som nevnt i artikkel 47 nr. 2 i grunnforordningen.
+
+B. Innlevering av andre krav om ytelser
+
+4\. I andre tilfeller enn dem som er nevnt i nr. 1, skal søkeren levere søknad til institusjonen på bostedet, eller til institusjonen i den medlemsstat hvis lovgivning vedkommende sist var undergitt. Dersom den berørte personen ikke på noe tidspunkt har vært undergitt bostedsinstitusjonens lovgivning, skal denne institusjonen videresende søknaden til institusjonen i den medlemsstat hvis lovgivning vedkommende sist var undergitt.
+
+5\. Søknadens innleveringsdato skal gjelde for alle berørte institusjoner.
+
+6\. Dersom søkeren, selv om han/hun har blitt bedt om å gjøre det, ikke har meldt fra om at han/hun har utført lønnet arbeid eller vært bosatt i andre medlemsstater, skal, som unntak fra nr. 5, den dag søkeren inngir sin første søknad eller legger fram en ny søknad for de manglende tidsrommene med lønnet arbeid eller/og bosted i en medlemsstat, anses som den dag søknaden ble innlevert til den institusjon som anvender den aktuelle lovgivningen, med mindre denne lovgivningen har gunstigere bestemmelser.
+
+Artikkel 46
+
+Bekreftelser og opplysninger som søkeren skal legge ved søknaden
+
+1\. Søkeren skal levere søknaden i samsvar med bestemmelsene i den lovgivning som anvendes av institusjonen nevnt i artikkel 45 nr. 1 eller 4 i gjennomføringsforordningen, vedlagt de underlagsdokumenter som kreves i den lovgivningen. Søkeren skal særlig levere alle foreliggende, relevante opplysninger og underlagsdokumenter om trygdetid (institusjoner, identifikasjonsnummer), tid med lønnet arbeid (arbeidsgivere) eller med selvstendig virksomhet (virksomhetens art og sted) samt botid (adresser) som er tilbakelagt etter annen lovgivning, samt disse tidsrommenes varighet.
+
+2\. Når søkeren i samsvar med artikkel 50 nr. 1 i grunnforordningen ber om at tilståelse av ytelser ved alder etter en eller flere staters lovgivning utsettes, skal han/hun oppgi dette i søknaden og angi etter hvilken lovgivning det er bedt om utsettelse. For at søkeren skal kunne utøve denne rettigheten, skal de berørte institusjoner på anmodning fra søkeren gi ham/henne alle opplysninger de sitter med, slik at han/hun kan vurdere følgene av samtidige eller senere ytelser som han/hun kan søke om.
+
+3\. Om en søker trekker tilbake en søknad om ytelser etter en bestemt medlemsstats lovgivning, skal dette ikke anses som en samtidig tilbaketrekning av en søknad om ytelser etter andre medlemsstaters lovgivning.
+
+Artikkel 47
+
+De berørte institusjonenes søknadsbehandling
+
+A. Kontaktinstitusjon
+
+1\. Den institusjon som forelegges eller oversendes søknaden i samsvar med artikkel 45 nr. 1 eller 4 i gjennomføringsforordningen, skal heretter kalles «kontaktinstitusjonen». Institusjonen på bostedet skal ikke kalles kontaktinstitusjon dersom den berørte personen ikke på noe tidspunkt har vært undergitt denne institusjonens lovgivning.
+
+I tillegg til å behandle søknaden om ytelser etter egen lovgivning, skal denne institusjonen i egenskap av kontaktinstitusjon fremme den utveksling av opplysninger, den oversendelse av vedtak og de tiltak som er nødvendige for at de berørte institusjoner skal kunne behandle søknaden, samt på anmodning gi søkeren eventuelle opplysninger som er relevante for de sider ved søknadsbehandlingen som gjelder Fellesskapet, og holde ham/henne informert om den videre saksgangen.
+
+B. Behandling av søknader om ytelser etter lovgivning av type A i henhold til artikkel 44 i grunnforordningen
+
+2\. I tilfellet nevnt i artikkel 44 nr. 3 i grunnforordningen skal kontaktinstitusjonen sende alle dokumenter som gjelder den berørte personen, til institusjonen der han/hun tidligere var medlem, som så skal behandle saken.
+
+3\. Artikkel 48-52 i gjennomføringsforordningen skal ikke gjelde for behandling av søknader nevnt i artikkel 44 i grunnforordningen.
+
+C. Behandling av andre søknader om ytelser
+
+4\. I andre tilfeller enn dem som er nevnt i nr. 2, skal kontaktinstitusjonen umiddelbart sende søknader om ytelser og alle dokumenter som den har tilgang til, og eventuelt relevante dokumenter fra søkeren, til alle de aktuelle institusjoner, slik at de kan påbegynne behandlingen av søknaden samtidig. Kontaktinstitusjonen skal melde fra til de øvrige institusjoner om trygdetid eller botid etter dens lovgivning. Den skal også oppgi hvilke dokumenter som skal legges fram på et senere tidspunkt, og supplere søknaden så raskt som mulig.
+
+5\. Hver av de aktuelle institusjoner skal så snart som mulig gi kontaktinstitusjonen og de øvrige aktuelle institusjoner melding om trygdetid eller botid etter dens lovgivning.
+
+6\. Hver av de aktuelle institusjoner skal beregne ytelsenes størrelse i samsvar med artikkel 52 i grunnforordningen, og skal gi kontaktinstitusjonen og de øvrige berørte institusjoner melding om sitt vedtak, om størrelsen på de ytelser som kommer til utbetaling, og om eventuelle opplysninger som er nødvendige for de formål som er angitt i artikkel 53-55 i grunnforordningen.
+
+7\. Dersom en institusjon, på grunnlag av de opplysninger som er nevnt i nr. 4 og 5 i denne artikkel, fastslår at artikkel 46 nr. 2 eller artikkel 57 nr. 2 eller 3 i grunnforordningen skal få anvendelse, skal den underrette kontaktinstitusjonen og de øvrige berørte institusjoner.
+
+Artikkel 48
+
+Melding om vedtak til søkeren
+
+1\. Hver institusjon skal gi søkeren melding om det vedtak den har gjort i samsvar med gjeldende lovgivning. I vedtaket skal det opplyses om klagemuligheter og hvilke frister som gjelder i denne forbindelse. Når kontaktinstitusjonen har fått melding om alle vedtak som hver institusjon har gjort, skal den sende et sammendrag av vedtakene til søkeren og de øvrige berørte institusjoner. Den administrative kommisjon skal utarbeide en mal for et slikt sammendrag. Sammendraget skal sendes til søkeren på institusjonens språk eller, når søkeren ber om det, på et språk etter søkerens valg som er anerkjent som et offisielt språk i Fellesskapets organer i samsvar med traktatens artikkel 290.
+
+2\. Når søkeren etter å ha mottatt sammendraget har inntrykk av at hans/hennes rettigheter kan ha blitt forringet fordi vedtak gjort av to eller flere institusjoner har innvirket på hverandre, skal søkeren ha rett til å få vedtakene vurdert på nytt ved de berørte institusjoner innen de frister som er fastlagt i den enkelte institusjonens nasjonale lovgivning. Fristene skal løpe fra den dag sammendraget mottas. Søkeren skal underrettes skriftlig om utfallet av den nye vurderingen.
+
+Artikkel 49
+
+Fastsettelse av uførhetsgrad
+
+1\. Når artikkel 46 nr. 3 i grunnforordningen får anvendelse, skal den eneste institusjonen med myndighet til gjøre vedtak om søkerens uførhetsgrad, være kontaktinstitusjonen, dersom dens lovgivning er oppført i vedlegg VII til grunnforordningen, eller om det ikke er tilfellet, den institusjon hvis lovgivning, oppført i nevnte vedlegg, søkeren sist var undergitt. Den skal gjøre sitt vedtak så snart den kan avgjøre om vilkårene for rett til ytelser i gjeldende lovgivning er oppfylt, og det skal da eventuelt tas hensyn til artikkel 6 og artikkel 51 i grunnforordningen. Den skal umiddelbart gi de øvrige berørte institusjoner melding om vedtaket.
+
+Når kriteriene for rett til ytelser, bortsett fra de kriterier som gjelder uførhetsgrad, i gjeldende lovgivning ikke er oppfylt, idet det tas hensyn til artikkel 6 og artikkel 51 i grunnforordningen, skal kontaktinstitusjonen umiddelbart underrette den kompetente institusjon i den medlemsstat hvis lovgivning søkeren sist var undergitt. Sistnevnte institusjon skal ha myndighet til å gjøre vedtak om søkerens uførhetsgrad dersom vilkårene for rett til ytelser i gjeldende lovgivning er oppfylt. Den skal umiddelbart gi de øvrige berørte institusjoner melding om vedtaket.
+
+Når retten til ytelser skal fastsettes, kan det bli nødvendig å sende saken tilbake, på de samme vilkår, til den institusjon som er kompetent med hensyn til uførhet i den medlemsstat hvis lovgivning søkeren først var undergitt.
+
+2\. Når artikkel 46 nr. 3 i grunnforordningen ikke får anvendelse, skal hver institusjon, i samsvar med egen lovgivning, ha mulighet for å få søkeren undersøkt av lege eller annen sakkyndig etter eget valg for å kunne fastsette uførhetsgraden. En medlemsstats institusjon skal imidlertid ta hensyn til dokumenter, legeerklæringer og administrative opplysninger som er innhentet av enhver annen medlemsstats institusjon, som om de var utferdiget i dens egen medlemsstat.
+
+Artikkel 50
+
+Midlertidig utbetaling og forskuddsutbetaling av ytelser
+
+1\. Uten hensyn til artikkel 7 i gjennomføringsforordningen skal enhver institusjon som, når den har en søknad om ytelser til behandling, fastslår at søkeren har rett til en selvstendig ytelse etter gjeldende lovgivning i samsvar med artikkel 52 nr. 1 bokstav a) i grunnforordningen, utbetale denne ytelsen umiddelbart. Utbetalingen skal anses som midlertidig dersom beløpet vil kunne påvirkes av utfallet av søknadsbehandlingen.
+
+2\. Når det ut fra foreliggende opplysninger er innlysende at søkeren har rett til en utbetaling fra en institusjon etter artikkel 52 nr. 1 bokstav b) i grunnforordningen, skal denne institusjon utbetale et forskudd, og beløpet skal ligge så nært som mulig opp til det beløp som sannsynligvis vil bli utbetalt etter artikkel 52 nr. 1 bokstav b) i grunnforordningen.
+
+3\. Hver institusjon som har plikt til å utbetale midlertidig ytelse eller forskudd etter nr. 1 eller 2, skal umiddelbart underrette søkeren, og særlig gjøre ham/henne oppmerksom på at tiltaket er midlertidig, og om retten til å klage i samsvar med dens lovgivning.
+
+Artikkel 51
+
+Ny beregning av ytelser
+
+1\. Når ytelser beregnes på nytt i samsvar med artikkel 48 nr. 3 og 4, artikkel 50 nr. 4 og artikkel 59 nr. 1 i grunnforordningen, skal artikkel 50 i gjennomføringsforordningen få tilsvarende anvendelse.
+
+2\. Når ytelsen beregnes på nytt, bortfaller eller stanses midlertidig, skal den institusjon som har vedtatt dette, umiddelbart underrette den berørte personen og alle institusjoner der han/hun har en rettighet.
+
+Artikkel 52
+
+Tiltak med sikte på fortgang i pensjonsberegningen
+
+1\. For å lette og få fortgang i søknadsbehandlingen og utbetalingen av ytelser skal de institusjoner hvis lovgivning en person har vært undergitt
+
+a\) utveksle opplysninger med institusjoner i andre medlemsstater om personer som går over fra én gjeldende nasjonal lovgivning til en annen, eller stille slike opplysninger til rådighet for disse institusjoner, og sammen sørge for at identifikasjonsopplysningene bevares og stemmer overens, eller om det ikke er mulig, gi disse personene mulighet til direkte tilgang til sine identifikasjonsopplysninger,
+
+b\) i tilstrekkelig tid før minstealderen for pensjonsrettigheter inntrer, eller før en alder som fastsettes i nasjonal lovgivning, utveksle opplysninger (tilbakelagt tid eller andre viktige forhold) med den berørte personen og institusjoner i andre medlemsstater, om pensjonsrettigheter for personer som har gått over fra én gjeldende lovgivning til en annen, eller stille disse opplysninger til rådighet for dem, eller om det ikke er mulig, opplyse disse personer om, eller gi dem mulighet for å gjøre seg kjent med, deres fremtidige rett til ytelser.
+
+2\. Ved anvendelse av nr. 1 skal Den administrative kommisjon bestemme hvilke opplysninger som skal utveksles eller stilles til rådighet, samt fastsette hensiktsmessige rutiner og mekanismer, og det skal da tas hensyn til de nasjonale trygdeordningenes særtrekk, deres administrative og faglige organisering og hvilke teknologiske hjelpemidler som er til rådighet i de nasjonale pensjonsordningene. Den administrative kommisjon skal forsikre seg om disse pensjonsordningene gjennomføres ved å organisere en oppfølging av tiltakene og deres anvendelse.
+
+3\. Ved anvendelse av nr. 1 skal institusjonen i den medlemsstat der en person først tildeles et personlig identifikasjonsnummer (PIN) i trygdeforvaltningen, gis de opplysninger som er nevnt i denne artikkel.
+
+Artikkel 53
+
+Samordningstiltak i medlemsstatene
+
+1\. Når nasjonal lovgivning har regler om fastsettelse av hvilken institusjon som er ansvarlig eller hvilken ordning som skal gjelde, eller om at trygdetid skal legges til en bestemt ordning, skal disse regler gjelde, med forbehold for artikkel 51 i grunnforordningen, og det skal da bare tas hensyn til trygdetid tilbakelagt etter den berørte medlemsstats lovgivning.
+
+2\. Når nasjonal lovgivning har regler om koordinering av særordninger for tjenestemenn og den generelle ordningen for arbeidstakere, skal disse regler ikke berøres av bestemmelsene i grunnforordningen og gjennomføringsforordningen.
+
+Kapittel V
+
+Ytelser ved arbeidsløshet
+
+Artikkel 54
+
+Sammenlegging av tid og beregning av ytelser
+
+1\. Artikkel 12 nr. 1 i gjennomføringsforordningen skal få tilsvarende anvendelse på artikkel 61 i grunnforordningen. Med forbehold for de berørte institusjoners grunnleggende plikter kan den berørte personen legge et dokument fram for den kompetente institusjon, utferdiget av institusjonen i den medlemsstat hvis lovgivning vedkommende var undergitt da han/hun sist utførte lønnet arbeid eller drev selvstendig virksomhet, med angivelse av de tidsrom som er tilbakelagt etter den lovgivningen.
+
+2\. Ved anvendelse av artikkel 62 nr. 3 i grunnforordningen skal den kompetente institusjon i den medlemsstat hvis lovgivning den berørte personen var undergitt da han/hun sist utførte lønnet arbeid eller drev selvstendig virksomhet, umiddelbart og på anmodning fra institusjonen på bostedet gi alle opplysninger som er nødvendige for å kunne beregne de arbeidsløshetsytelser som kan oppnås i medlemsstaten der institusjonen befinner seg, særlig om lønn eller yrkesinntekt.
+
+3\. Ved anvendelse av artikkel 62 i grunnforordningen og uten hensyn til dens artikkel 63 skal den kompetente institusjon i en medlemsstat hvis lovgivning fastsetter at beregningen av ytelser varierer med antall familiemedlemmer, også ta hensyn til medlemmer av vedkommendes familie som er bosatt i en annen medlemsstat, som om de var bosatt i den kompetente medlemsstat. Denne bestemmelsen skal ikke gjelde når en annen person i familiemedlemmenes bostedsstat har rett til ytelser ved arbeidsløshet som beregnes ut fra antall familiemedlemmer.
+
+Artikkel 55
+
+Vilkår for og begrensninger i retten til å beholde ytelser for arbeidsløse som reiser til en annen medlemsstat
+
+1\. For å kunne omfattes av artikkel 64 eller 65a i grunnforordningen skal en arbeidsløs som reiser til en annen medlemsstat, underrette den kompetente institusjon før avreisen og be om et dokument som bekrefter at han/hun beholder retten til ytelser etter vilkårene i artikkel 64 nr. 1 bokstav b) i grunnforordningen.
+
+Denne institusjon skal opplyse den berørte personen om hans/hennes plikter og oversende dokumentet, som skal inneholde følgende opplysninger:
+
+a\) fra hvilken dato den arbeidsløse ikke lenger var til rådighet for arbeidsformidlingen i den kompetente stat,
+
+b\) fristen, i samsvar med artikkel 64 nr. 1 bokstav b) i grunnforordningen, for å registrere seg som arbeidssøkende i den medlemstat den arbeidsløse har reist til,
+
+c\) hvor lenge retten til ytelser maksimalt kan beholdes i samsvar med artikkel 64 nr. 1 bokstav c) i grunnforordningen,
+
+d\) forhold som kan virke inn på retten til ytelser.
+
+2\. Den arbeidsløse skal melde seg som arbeidssøker ved arbeidsformidlingen i medlemsstaten han/hun har reist til, i samsvar med artikkel 64 nr. 1 bokstav b) i grunnforordningen, og skal legge dokumentet nevnt i nr. 1 fram for institusjonen i den medlemsstaten. Dersom han/hun har underrettet den kompetente institusjon i samsvar med nr. 1, men unnlater å legge fram dette dokumentet, skal institusjonen i medlemsstaten den arbeidsløse har reist til, kontakte den kompetente institusjon for å få de nødvendige opplysninger.
+
+3\. Arbeidsformidlingen i medlemsstaten den arbeidsløse har reist til for å søke arbeid, skal opplyse den arbeidsløse om hans/hennes plikter.
+
+4\. Institusjonen i medlemsstaten den arbeidsløse har reist til, skal umiddelbart sende et dokument til den kompetente institusjon med opplysning om hvilket tidspunkt den arbeidsløse har meldt seg ved arbeidsformidlingen, og hans/hennes nye adresse.
+
+Dersom det i løpet av det tidsrom den arbeidsløse beholder retten til ytelser, oppstår forhold som kan berøre denne retten, skal institusjonen i medlemsstaten den arbeidsløse har reist til, umiddelbart sende den kompetente institusjon og den berørte personen et dokument med de relevante opplysningene.
+
+På anmodning fra den kompetente institusjon skal institusjonen i medlemsstaten den arbeidsløse har reist til, hver måned gi relevante opplysninger om oppfølgingen av den arbeidsløses situasjon, og særlig om vedkommende fremdeles er registrert ved arbeidsformidlingen og overholder de fastsatte kontrollrutiner.
+
+5\. Institusjonen i medlemsstaten den arbeidsløse har reist til, skal foreta eller sørge for at det blir foretatt kontroller, som om vedkommende var en arbeidsløs med rett til ytelser etter dens egen lovgivning. Om nødvendig skal den umiddelbart underrette den kompetente institusjon dersom det oppstår forhold som nevnt i nr. 1 bokstav d).
+
+6\. De kompetente myndigheter eller kompetente institusjoner i to eller flere medlemsstater kan bli enige seg imellom om bestemte rutiner og tidsfrister i forbindelse med oppfølgingen av den arbeidsløses situasjon, samt om andre tiltak som kan lette arbeidssøkingen for arbeidsløse som reiser til en av disse medlemsstater i henhold til artikkel 64 i grunnforordningen.
+
+7\. Nr. 2–6 skal gjelde tilsvarende for den situasjon som omfattes av artikkel 65a nr. 3 i grunnforordningen.
+
+Artikkel 56
+
+Arbeidsløse som har vært bosatt i en annen medlemsstat enn den kompetente stat
+
+1\. Når den arbeidsløse i samsvar med artikkel 65 nr. 2 eller artikkel 65a nr. 1 i grunnforordningen bestemmer seg for også å stille seg til rådighet for arbeidsformidlingen i medlemsstaten som ikke gir ytelsene, ved å registrere seg som arbeidssøker der, skal han/hun underrette institusjonen og arbeidsformidlingen i medlemsstaten som gir ytelsene.
+
+På anmodning fra arbeidsformidlingen i medlemsstaten som ikke gir ytelsene, skal arbeidsformidlingen i medlemsstaten som gir ytelsene, sende relevante opplysninger om den arbeidsløses registrering og arbeidssøking.
+
+2\. Når gjeldende lovgivning i de berørte medlemsstater krever at den arbeidsløse oppfyller bestemte plikter og/ eller treffer bestemte tiltak for å søke arbeid, skal den arbeidsløses plikter og/eller arbeidssøking i medlemsstaten som gir ytelsene, gå foran.
+
+Dersom den arbeidsløse ikke oppfyller alle plikter eller treffer alle tiltak for å søke arbeid i medlemsstaten som ikke gir ytelsene, skal dette ikke berøre ytelser tilstått i den andre medlemsstaten.
+
+3\. Ved anvendelse av artikkel 65 nr. 5 bokstav b) i grunnforordningen skal institusjonen i den medlemsstat hvis lovgivning arbeidstakeren sist var undergitt, underrette institusjonen på bostedet når denne ber om det, om hvorvidt arbeidstakeren har rett til ytelser etter artikkel 64 i grunnforordningen.
+
+Artikkel 57
+
+Bestemmelser om anvendelsen av artikkel 61, 62, 64 og 65 i grunnforordningen, med hensyn til personer som er dekket gjennom en særordning for tjenestemenn
+
+1\. Artikkel 54 og 55 i gjennomføringsforordningen skal få tilsvarende anvendelse på personer som er dekket gjennom en særlig arbeidsløshetsordning for tjenestemenn.
+
+2\. Artikkel 56 i gjennomføringsforordningen skal ikke gjelde for personer som er dekket gjennom en særlig arbeidsløshetsordning for tjenestemenn. En arbeidsløs som er dekket gjennom en særlig arbeidsløshetsordning for tjenestemenn, som er helt eller delvis arbeidsløs, og som under sitt siste arbeidsforhold var bosatt på territoriet til en annen medlemsstat enn den kompetente stat, skal motta ytelser etter den særlige arbeidsløshetsordningen for tjenestemenn i samsvar med bestemmelsene i den kompetente medlemsstats lovgivning, som om han/hun var bosatt på denne medlemsstats territorium. Disse ytelsene skal gis av institusjonen i den kompetente medlemsstat, og dekkes av den.
+
+Kapittel VI
+
+Familieytelser
+
+Artikkel 58
+
+Prioriteringsregler ved sammenfall
+
+Ved anvendelse av artikkel 68 nr. 1 bokstav b) i) og ii) i grunnforordningen, skal hver berørte medlemsstat beregne ytelsenes størrelse ved å medregne barn som ikke er bosatt på dens eget territorium, når prioriteringen ikke kan fastslås på grunnlag av barnas bosted. Ved anvendelse av artikkel 68 nr. 1 bokstav b) i) skal den kompetente institusjon i den medlemsstat hvis lovgivning fastsetter det høyeste ytelsesbeløpet, betale ytelsene i sin helhet og få refundert halvparten av dette fra den kompetente institusjon i den andre medlemsstaten, men ikke med mer enn det beløp som er fastsatt i sistnevnte medlemsstats lovgivning.
+
+Artikkel 59
+
+Hvilke regler som skal gjelde når gjeldende lovgivning og/eller myndigheten til å tilstå familieytelser endres
+
+1\. Når gjeldende lovgivning og/eller myndigheten til å tilstå familieytelser endres mellom medlemsstatene i løpet av en kalendermåned, uavhengig av utbetalingsdatoen for familieytelser etter disse medlemsstaters lovgivning, skal den institusjon som har utbetalt familieytelsene etter lovgivningen som lå til grunn for tilståelsen av ytelsen ved månedens begynnelse, fortsatt gjøre det ut den aktuelle måneden.
+
+2\. Den skal underrette institusjonen i den eller de andre berørte medlemsstater om hvilken dato den stanser de aktuelle familieytelsene. Den eller de øvrige berørte medlemsstater skal utbetale ytelsene fra samme dato.
+
+Artikkel 60
+
+Framgangsmåte ved anvendelse av artikkel 67 og 68 i grunnforordningen
+
+1\. Søknad om familieytelser skal rettes til den kompetente institusjon. Ved anvendelse av artikkel 67 og 68 i grunnforordningen skal det tas hensyn til hele familiens situasjon, som om alle de involverte var undergitt lovgivningen i den berørte medlemsstat og var bosatt der, særlig med hensyn til en persons rett til å søke om slike ytelser. Når en person som har rett til å søke om ytelsene ikke utøver denne retten, skal den kompetente institusjon i den medlemsstat hvis lovgivning får anvendelse, ta hensyn til en søknad om familieytelser fra den andre forelderen, fra en person som betraktes som en forelder, eller fra en person eller institusjon som opptrer som verge for barnet/barna.
+
+2\. Den institusjon som mottar en søknad i samsvar med nr. 1, skal behandle søknaden på grunnlag av de detaljerte opplysninger som søkeren har lagt fram, og det skal da tas hensyn til den samlede situasjonen, faktisk og rettslig, for søkerens familie.
+
+Dersom denne institusjonen kommer til at dens lovgivning skal få anvendelse og har prioritet i samsvar med artikkel 68 nr. 1 og 2 i grunnforordningen, skal den gi familieytelser i samsvar med sin lovgivning.
+
+Dersom denne institusjonen mener at det kan foreligge en rett til et tillegg etter en annen medlemsstats lovgivning i samsvar med artikkel 68 nr. 2 i grunnforordningen, skal den umiddelbart oversende søknaden til den andre medlemsstatens kompetente institusjon og informere den berørte personen. Videre skal den underrette den andre medlemsstatens institusjon om sitt vedtak, og om størrelsen på den utbetalte familieytelsen.
+
+3\. Når institusjonen som mottar søknaden, kommer til at dens lovgivning skal få anvendelse, men ikke har prioritet i samsvar med artikkel 68 nr. 1 og 2 i grunnforordningen, skal den umiddelbart gjøre et midlertidig vedtak om hvilke prioriteringsregler som skal gjelde, og oversende søknaden i samsvar med artikkel 68 nr. 3 i grunnforordningen til den andre medlemsstatens institusjon, samt underrette søkeren om dette. Denne institusjon skal ta stilling til det midlertidige vedtaket innen to måneder.

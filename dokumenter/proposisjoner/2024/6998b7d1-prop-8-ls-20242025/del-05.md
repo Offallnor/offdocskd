@@ -1,540 +1,387 @@
-# Prop. 8 LS (2024–2025), del 5 av 5 (side 51–60)
+# Prop. 8 LS (2024–2025), del 5 av 5
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2024/6998b7d1-prop-8-ls-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-8-ls-20242025/id3072922/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b41ffb699f64268a13430cae48e8a0b/nn-no/pdfs/prp202420250008000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 51]
+b\) Som unntak frå artikkel 18 nr. 1 bokstav k) og inntil det vert teke avgjerd slik det er nemnt i artikkel 18 nr. 2, skal den mellombels utpeikte daglege leiaren utøve fullmakta til tilsetjingsstyresmakta.
 
-2024–2025
+c\) Kommisjonen kan tilby hjelp til styresmakta, særleg ved å sende ut tenestemenn frå Kommisjonen som kan utføre verksemda til styresmakta under leiing av den mellombels utpeikte daglege leiaren eller av den daglege leiaren.
 
-Prop. 8 LS
-
-Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd
-nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
-
-tredjelanda skal ha i arbeidet til styresmakta,
-og korleis deltakinga skal finne stad, mellom
-anna føresegner om deltaking i initiativ som
-styresmakta utfører, om finansielle bidrag og
-om personale. Når det gjeld personalspørsmål,
-skal desse ordningane under alle omstende
-vere i samsvar med vedtektene for tenestemenn.
-3. Kommisjonen skal innføre ei eigna samarbeidsordning med den daglege leiaren for
-styresmakta for å sikre at styresmakta driv
-verksemda si innanfor mandatet sitt og det
-eksisterande institusjonelle rammeverket.
-
-51
-
-c) Kommisjonen kan tilby hjelp til styresmakta, særleg ved å sende ut tenestemenn
-frå Kommisjonen som kan utføre verksemda til styresmakta under leiing av den
-mellombels utpeikte daglege leiaren eller
-av den daglege leiaren.
-d) Den mellombels utpeikte daglege leiaren
-kan godkjenne alle utbetalingar som er
-omfatta av løyvingane i budsjettet til styresmaka, etter at dei er godkjende av styret, og
-kan inngå kontraktar, mellom anna personalkontraktar, etter at stillingsoversikta til
-styresmakta er vedteken.
-
-Artikkel 43
+d\) Den mellombels utpeikte daglege leiaren kan godkjenne alle utbetalingar som er omfatta av løyvingane i budsjettet til styresmaka, etter at dei er godkjende av styret, og kan inngå kontraktar, mellom anna personalkontraktar, etter at stillingsoversikta til styresmakta er vedteken.
 
 Artikkel 45
 
-Vertsstatsavtale og driftsvilkår
-
 Endringar av forordning (EF) nr. 883/2004
 
-1. Dei naudsynte ordningane for lokale som skal
-stillast til rådvelde for styresmakta i vertsmedlemsstaten, og til dei særlege reglane i vertsmedlemsstaten som skal nyttast på den daglege leiaren, styremedlemmene og personalet
-og familiane deira, skal fastsetjast i ei vertsstatsavtale mellom styresmakta og medlemsstaten der styresmakta har hovudkontoret sitt;
-denne avtala skal inngåast etter godkjenning
-frå styret og seinast 1. august 2021.
-2. Vertsmedlemsstaten til styresmakta skal syte
-for best moglege vilkår for at styresmakta skal
-fungere på ein smidig og effektiv måte, medrekna eit fleirspråkleg skuletilbod med europeisk innhald og passande transportsamband.
+I forordning (EF) nr. 883/2004 vert det gjort følgjande endringar:
 
-I forordning (EF) nr. 883/2004 vert det gjort
-følgjande endringar:
-1) I artikkel 1 skal ny bokstav lyde:
-«na)«Den europeiske arbeidsmarkedsmyndigheten» organet som er opprettet ved europaparlaments- og rådsforordning (EU)
-2019/1149(*) og omhandlet i artikkel 74a,
+1\) I artikkel 1 skal ny bokstav lyde:
 
-Artikkel 44
-Innleiing av verksemda til styresmakta
-1. Styresmakta skal innleie verksemda si med
-kapasitet til å gjennomføre sitt eige budsjett frå
-1. august 2021.
-2. Kommisjonen skal ha ansvaret for innføringa
-og den innleiande drifta av styresmakta inntil
-styresmakta sjølv er vorten verksam. For dette
-føremålet gjeld følgjande:
-a) Inntil den daglege leiaren tek til i stillinga si
-etter at han eller ho er oppnemnd av styret
-i samsvar med artikkel 31, kan Kommisjonen peike ut ein tenestemann i Kommisjonen som skal fungere mellombels som
-dagleg leiar og utføre oppgåvene til den
-daglege leiaren.
-b) Som unntak frå artikkel 18 nr. 1 bokstav k)
-og inntil det vert teke avgjerd slik det er
-nemnt i artikkel 18 nr. 2, skal den mellombels utpeikte daglege leiaren utøve fullmakta til tilsetjingsstyresmakta.
+«na) «Den europeiske arbeidsmarkedsmyndigheten» organet som er opprettet ved europaparlaments- og rådsforordning (EU) 2019/1149(\*) og omhandlet i artikkel 74a,
 
-(*)Europaparlaments- og rådsforordning (EU) 2019/1149 av
-20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr.
-492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU)
-2016/344 (EUT L 186 av 11.7.2019, s. 21).»
+(\*) Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/344 (EUT L 186 av 11.7.2019, s. 21).»
 
-2) Ny artikkel skal lyde:
-«Artikkel 74a
-Den europeiske arbeidsmarkedsmyndigheten
-1. Uten at det berører Den administrative
-kommisjonens oppgaver og virksomhet
-skal Den europeiske arbeidsmarkedsmyndigheten støtte anvendelsen av denne forordningen i samsvar med myndighetens
-oppgaver som fastsatt i forordning (EU)
-2019/1149. Den administrative kommisjonen skal samarbeide med Den europeiske
-arbeidsmarkedsmyndigheten for å koordinere virksomheten etter felles avtale og
-unngå enhver overlapping. For dette formålet skal den inngå en samarbeidsavtale
-med Den europeiske arbeidsmarkedsmyndigheten.
-2. Den administrative kommisjonen kan
-anmode Den europeiske arbeidsmarkedsmyndigheten om å henvise trygdesaker
-som er underlagt en meglingsprosedyre, i
-samsvar med artikkel 13 nr. 11 tredje leddet
-i forordning (EU) 2019/1149.»
+2\) Ny artikkel skal lyde:
 
-[Side 52]
+«*Artikkel 74a*
 
-52
+**Den europeiske arbeidsmarkedsmyndigheten**
 
-Prop. 8 LS
+1\. Uten at det berører Den administrative kommisjonens oppgaver og virksomhet skal Den europeiske arbeidsmarkedsmyndigheten støtte anvendelsen av denne forordningen i samsvar med myndighetens oppgaver som fastsatt i forordning (EU) 2019/1149. Den administrative kommisjonen skal samarbeide med Den europeiske arbeidsmarkedsmyndigheten for å koordinere virksomheten etter felles avtale og unngå enhver overlapping. For dette formålet skal den inngå en samarbeidsavtale med Den europeiske arbeidsmarkedsmyndigheten.
 
-2024–2025
-
-Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd
-nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
+2\. Den administrative kommisjonen kan anmode Den europeiske arbeidsmarkedsmyndigheten om å henvise trygdesaker som er underlagt en meglingsprosedyre, i samsvar med artikkel 13 nr. 11 tredje leddet i forordning (EU) 2019/1149.»
 
 Artikkel 46
+
 Endringar av forordning (EU) nr. 492/2011
-I forordning (EU) nr. 492/2011 vert det gjort
-følgjande endringar:
-1) I artikkel 26 skal nytt ledd lyde:
-«Den europeiske arbeidsmarknadsstyresmakta, som er innført ved europaparlamentsog rådsforordning (EU) 2019/1149(*), skal
-delta i møta i Det rådgjevande utvalet som
-observatør og tilby teknisk hjelp og sakkunnskap når det er relevant.
-(*) Europaparlaments- og rådsforordning (EU) 2019/1149 av
-20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr.
-883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om
-oppheving av avgjerd (EU) 2016/344 (EUT L 186 av
-11.7.2019, s. 21).»
 
-2) Artikkel 29–34 vert oppheva med verknad frå
-datoen då styresmakta vert verksam, i samsvar med artikkel 44 nr. 1 i denne forordninga.
-3) Artikkel 35 skal lyde:
-«Artikkel 35
-Dei møteføresegnene som gjaldt for Det
-rådgjevande utvalet 8. november 1968, skal
-framleis nyttast.»
-4) Artikkel 39 skal lyde:
-«Artikkel 39
-Administrasjonsutgiftene til Det rådgjevande utvalet skal førast opp i det allmenne
-budsjettet til Den europeiske unionen, i den
-delen som gjeld Kommisjonen.»
+I forordning (EU) nr. 492/2011 vert det gjort følgjande endringar:
+
+1\) I artikkel 26 skal nytt ledd lyde:
+
+«Den europeiske arbeidsmarknadsstyresmakta, som er innført ved europaparlaments- og rådsforordning (EU) 2019/1149(\*), skal delta i møta i Det rådgjevande utvalet som observatør og tilby teknisk hjelp og sakkunnskap når det er relevant.
+
+(\*) Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/344 (EUT L 186 av 11.7.2019, s. 21).»
+
+2\) Artikkel 29–34 vert oppheva med verknad frå datoen då styresmakta vert verksam, i samsvar med artikkel 44 nr. 1 i denne forordninga.
+
+3\) Artikkel 35 skal lyde:
+
+«*Artikkel 35*
+
+Dei møteføresegnene som gjaldt for Det rådgjevande utvalet 8. november 1968, skal framleis nyttast.»
+
+4\) Artikkel 39 skal lyde:
+
+«*Artikkel 39*
+
+Administrasjonsutgiftene til Det rådgjevande utvalet skal førast opp i det allmenne budsjettet til Den europeiske unionen, i den delen som gjeld Kommisjonen.»
+
 Artikkel 47
+
 Endringar av forordning (EU) 2016/589
-I forordning (EU) 2016/589 vert det gjort
-følgjande endringar:
-1) I artikkel 1 vert det gjort følgjande endringar:
-a) Bokstav a) skal lyde:
-«a) organisering av EURES-nettverket
-mellom Kommisjonen, Den europeiske
-arbeidsmarknadsstyresmakta og medlemsstatane,»
-b) Bokstav b) skal lyde:
-«b)samarbeid mellom Kommisjonen, Den
-europeiske
-arbeidsmarknadsstyresmakta og medlemsstatane om å
-utveksle relevante tilgjengelege data
-om ledige stillingar, jobbsøknader og
-CV-ar,»
-c) Bokstav f) skal lyde:
-«f) fremjing av EURES-nettverket på
-unionsplan gjennom effektive kommu-
 
-nikasjonstiltak frå Kommisjonen, Den
-europeiske
-arbeidsmarknadsstyresmakta og medlemsstatane.»
-2) I nr. 3 skal nytt nummer lyde:
-«(8)«Den europeiske arbeidsmarknadsstyresmakta» det organet som er skipa i medhald
-av europaparlaments- og rådsforordning
-(EU 2019/1149(*)
-(*) Europaparlaments- og rådsforordning (EU) 2019/1149 av
-20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr.
-883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om
-oppheving av avgjerd (EU) 2016/344 (EUT L 186 av
-11.7.2019, s. 21).»
+I forordning (EU) 2016/589 vert det gjort følgjande endringar:
 
-3) I artikkel 4 skal nr. 2 lyde:
-«2. Personar med nedsett funksjonsevne skal
-vere sikra tilgang til opplysningane i
-EURES-portalen og til støttetenester som
-er tilgjengelege på nasjonalt plan. Kommisjonen, Det europeiske samordningskontoret og EURES-medlemmene og -partnarane
-skal fastsetje korleis dette skal sikrast med
-omsyn til dei respektive pliktene dei har.»
-4) I artikkel 7 nr. 1 vert det gjort følgjande endringar:
-a) Bokstav a) skal lyde:
-«a) Eit europeisk samordningskontor som
-skal skipast under Den europeiske
-arbeidsmarknadsstyresmakta, og som
-skal ha ansvar for å hjelpe EURES-nettverket med å utføre verksemda si.»
-b) Ny bokstav skal lyde:
+1\) I artikkel 1 vert det gjort følgjande endringar:
+
+a\) Bokstav a) skal lyde:
+
+«a) organisering av EURES-nettverket mellom Kommisjonen, Den europeiske arbeidsmarknadsstyresmakta og medlemsstatane,»
+
+b\) Bokstav b) skal lyde:
+
+«b) samarbeid mellom Kommisjonen, Den europeiske arbeidsmarknadsstyresmakta og medlemsstatane om å utveksle relevante tilgjengelege data om ledige stillingar, jobbsøknader og CV-ar,»
+
+c\) Bokstav f) skal lyde:
+
+«f) fremjing av EURES-nettverket på unionsplan gjennom effektive kommunikasjonstiltak frå Kommisjonen, Den europeiske arbeidsmarknadsstyresmakta og medlemsstatane.»
+
+2\) I nr. 3 skal nytt nummer lyde:
+
+«(8) «Den europeiske arbeidsmarknadsstyresmakta» det organet som er skipa i medhald av europaparlaments- og rådsforordning (EU 2019/1149(\*)
+
+(\*) Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/344 (EUT L 186 av 11.7.2019, s. 21).»
+
+3\) I artikkel 4 skal nr. 2 lyde:
+
+«2. Personar med nedsett funksjonsevne skal vere sikra tilgang til opplysningane i EURES-portalen og til støttetenester som er tilgjengelege på nasjonalt plan. Kommisjonen, Det europeiske samordningskontoret og EURES-medlemmene og -partnarane skal fastsetje korleis dette skal sikrast med omsyn til dei respektive pliktene dei har.»
+
+4\) I artikkel 7 nr. 1 vert det gjort følgjande endringar:
+
+a\) Bokstav a) skal lyde:
+
+«a) Eit europeisk samordningskontor som skal skipast under Den europeiske arbeidsmarknadsstyresmakta, og som skal ha ansvar for å hjelpe EURES-nettverket med å utføre verksemda si.»
+
+b\) Ny bokstav skal lyde:
+
 «e) Kommisjonen.»
-5) I artikkel 8 vert det gjort følgjande endringar:
-a) I nr. 1 vert det gjort følgjande endringar:
-i) Den innleiande teksta skal lyde:
-«Det europeiske samordningskontoret skal hjelpe EURES-nettverket med
-å utføre verksemda si, særleg ved å
-utvikle og gjennomføre følgjande, i nært
-samarbeid med dei nasjonale samordningskontora og Kommisjonen:»
-ii) I bokstav a) skal punkt i) lyde:
-«i) som systemeigar av EURES-portalen og tilhøyrande IT-tenester, ein
-definisjon av behova til brukarane
-og driftskrava som skal sendast over
-til Kommisjonen med tanke på drift
-og utvikling av portalen, medrekna
-system og framgangsmåtar for
-utveksling av ledige stillingar,
-jobbsøknader og CV-ar, underlagsdokument og andre opplysningar, i
-samarbeid med andre relevante
 
-[Side 53]
+5\) I artikkel 8 vert det gjort følgjande endringar:
 
-2024–2025
+a\) I nr. 1 vert det gjort følgjande endringar:
 
-Prop. 8 LS
+i\) Den innleiande teksta skal lyde:
 
-Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd
-nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
+«Det europeiske samordningskontoret skal hjelpe EURES-nettverket med å utføre verksemda si, særleg ved å utvikle og gjennomføre følgjande, i nært samarbeid med dei nasjonale samordningskontora og Kommisjonen:»
 
-tenester, nettverk eller initiativ for
-informasjon
-og
-rådgjeving
-i
-Unionen,»
-b) Nr. 2 skal lyde:
-«2. Det europeiske samordningskontoret
-skal forvaltast av Den europeiske
-arbeidsmarknadsstyresmakta.
-Det
-europeiske samordningskontoret skal
-ha ein jamleg dialog med representantar for partane i arbeidslivet på unionsplan.»
-c) Nr. 3 skal lyde:
-«3. Det europeiske samordningskontoret
-skal utarbeide dei fleirårige arbeidsprogramma sine i samråd med den samordningsgruppa som er nemnd i artikkel
-14, og med Kommisjonen.
-6) I artikkel 9 nr. 2 skal bokstav b) lyde:
-«b)å samarbeide med Kommisjonen, Den
-europeiske arbeidsmarknadsstyresmakta
-og medlemsstatane om arbeidsformidling
-innanfor den ramma som er fastsett i kapittel III,».
-7) I artikkel 14 skal nr. 1 lyde:
-«1. Samordningsgruppa skal vere samansett av
-representantar på høveleg nivå ved Kommisjonen, Det europeiske samordningskontoret og dei nasjonale samordningskontora.»
-8) I artikkel 16 skal nr. 6 lyde:
-«6. Medlemsstatane skal, saman med Kommisjonen og Det europeiske samordningskontoret, alltid undersøkje om det er mogleg å prioritere EU-borgarar ved tilsetjing i
-ledige stillingar, med sikte på å oppnå jamvekt mellom tilbod og etterspurnad på
-arbeidsmarknaden i Unionen. Medlemsstatane kan vedta dei tiltaka som er naudsynte for dette føremålet.»
-9) I artikkel 19 skal nr. 1 lyde:
-«1. Medlemsstatane skal samarbeide med
-kvarandre, med Kommisjonen og med Det
-europeiske samordningskontoret når det
-gjeld samverknad mellom nasjonale system
-og den europeiske klassifiseringa som er
-utarbeidd av Kommisjonen. Kommisjonen
-skal melde frå til medlemsstatane om utviklinga av den europeiske klassifiseringa.»
-10) Artikkel 29 skal lyde:
-«Artikkel 29
-Utveksling av opplysningar om straumar
-og mønster
-Kommisjonen og medlemsstatane skal
-overvake og offentleggjere opplysningar om
-straumar og mønster i arbeidskraftmobiliteten
-i Unionen på grunnlag av rapportar frå Den
+ii\) I bokstav a) skal punkt i) lyde:
 
-53
+«i) som systemeigar av EURES-portalen og tilhøyrande IT-tenester, ein definisjon av behova til brukarane og driftskrava som skal sendast over til Kommisjonen med tanke på drift og utvikling av portalen, medrekna system og framgangsmåtar for utveksling av ledige stillingar, jobbsøknader og CV-ar, underlagsdokument og andre opplysningar, i samarbeid med andre relevante tenester, nettverk eller initiativ for informasjon og rådgjeving i Unionen,»
 
-europeiske arbeidsmarknadsstyresmakta, ved
-bruk av statistikk frå Eurostat og tilgjengelege
-nasjonale data.»
+b\) Nr. 2 skal lyde:
+
+«2. Det europeiske samordningskontoret skal forvaltast av Den europeiske arbeidsmarknadsstyresmakta. Det europeiske samordningskontoret skal ha ein jamleg dialog med representantar for partane i arbeidslivet på unionsplan.»
+
+c\) Nr. 3 skal lyde:
+
+«3. Det europeiske samordningskontoret skal utarbeide dei fleirårige arbeidsprogramma sine i samråd med den samordningsgruppa som er nemnd i artikkel 14, og med Kommisjonen.
+
+6\) I artikkel 9 nr. 2 skal bokstav b) lyde:
+
+«b) å samarbeide med Kommisjonen, Den europeiske arbeidsmarknadsstyresmakta og medlemsstatane om arbeidsformidling innanfor den ramma som er fastsett i kapittel III,».
+
+7\) I artikkel 14 skal nr. 1 lyde:
+
+«1. Samordningsgruppa skal vere samansett av representantar på høveleg nivå ved Kommisjonen, Det europeiske samordningskontoret og dei nasjonale samordningskontora.»
+
+8\) I artikkel 16 skal nr. 6 lyde:
+
+«6. Medlemsstatane skal, saman med Kommisjonen og Det europeiske samordningskontoret, alltid undersøkje om det er mogleg å prioritere EU-borgarar ved tilsetjing i ledige stillingar, med sikte på å oppnå jamvekt mellom tilbod og etterspurnad på arbeidsmarknaden i Unionen. Medlemsstatane kan vedta dei tiltaka som er naudsynte for dette føremålet.»
+
+9\) I artikkel 19 skal nr. 1 lyde:
+
+«1. Medlemsstatane skal samarbeide med kvarandre, med Kommisjonen og med Det europeiske samordningskontoret når det gjeld samverknad mellom nasjonale system og den europeiske klassifiseringa som er utarbeidd av Kommisjonen. Kommisjonen skal melde frå til medlemsstatane om utviklinga av den europeiske klassifiseringa.»
+
+10\) Artikkel 29 skal lyde:
+
+«*Artikkel 29*
+
+**Utveksling av opplysningar om straumar og mønster**
+
+Kommisjonen og medlemsstatane skal overvake og offentleggjere opplysningar om straumar og mønster i arbeidskraftmobiliteten i Unionen på grunnlag av rapportar frå Den europeiske arbeidsmarknadsstyresmakta, ved bruk av statistikk frå Eurostat og tilgjengelege nasjonale data.»
+
 Artikkel 48
-Oppheving
-Avgjerd (EU) 2016/344 vert oppheva med verknad frå datoen då styresmakta vert verksam i samsvar med artikkel 44 nr. 1 i denne forordninga.
-Tilvisingar til den oppheva avgjerda skal forståast som tilvisingar til denne forordninga.
-Artikkel 49
-Ikraftsetjing
-Denne forordninga tek til å gjelde 20. dagen etter
-at ho er kunngjord i Tidend for Den europeiske
-unionen.
-Denne forordninga er bindande i alle delar og
-gjeld direkte i alle medlemsstatane.
-Utferda i Brussel 20. juni 2019.
-For Europaparlamentet
-A. TAJANI
-President
 
-For Rådet
-G. CIAMBA
-Formann
+Oppheving
+
+Avgjerd (EU) 2016/344 vert oppheva med verknad frå datoen då styresmakta vert verksam i samsvar med artikkel 44 nr. 1 i denne forordninga.
+
+Tilvisingar til den oppheva avgjerda skal forståast som tilvisingar til denne forordninga.
+
+Artikkel 49
+
+Ikraftsetjing
+
+Denne forordninga tek til å gjelde 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen.*
+
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
+
+Utferda i Brussel 20. juni 2019.
+
+02N0xx1
+
+<table>
+<colgroup>
+<col style="width: 64%" />
+<col style="width: 35%" />
+</colgroup>
+<tbody>
+<tr>
+<td><p><em>For Europaparlamentet</em></p>
+<p>A. TAJANI</p>
+<p><em>President</em></p></td>
+<td><p><em>For Rådet</em></p>
+<p>G. CIAMBA</p>
+<p><em>Formann</em></p></td>
+</tr>
+</tbody>
+</table>
 
 VEDLEGG
-VERKSEMDA TIL PLATTFORMA SOM ER INNFØRT
-I SAMSVAR MED ARTIKKEL 16 NR. 2
-For å støtte måla til styresmakta når det gjeld
-kampen mot svart arbeid, skal plattforma særleg
-ta sikte på
-1) å betre kunnskapen om svart arbeid, mellom
-anna om årsaker, regionale skilnader og
-grensekryssande aspekt ved dette, ved hjelp
-av felles definisjonar og omgrep, kunnskapsbaserte måleverktøy og fremjing av samanliknande analysar, og å utvikle ei gjensidig forståing av ulike system og praksisar for å kjempe
-mot svart arbeid og analysere kor effektiviteten av politiske tiltak, mellom anna førebyggjande tiltak og sanksjonar,
-2) å leggje til rette for og evaluere ulike former
-for samarbeid mellom medlemsstatane, og
-eventuelt tredjeland, til dømes gjennom
-utveksling av personale, bruk av databasar,
-felles aktivitetar og felles opplæring, og innføre eit system for informasjonsutveksling
-med sikte på administrativt samarbeid ved
 
-[Side 54]
+VERKSEMDA TIL PLATTFORMA SOM ER INNFØRT I SAMSVAR MED ARTIKKEL 16 NR. 2
 
-54
+For å støtte måla til styresmakta når det gjeld kampen mot svart arbeid, skal plattforma særleg ta sikte på
 
-Prop. 8 LS
+1\) å betre kunnskapen om svart arbeid, mellom anna om årsaker, regionale skilnader og grensekryssande aspekt ved dette, ved hjelp av felles definisjonar og omgrep, kunnskapsbaserte måleverktøy og fremjing av samanliknande analysar, og å utvikle ei gjensidig forståing av ulike system og praksisar for å kjempe mot svart arbeid og analysere kor effektiviteten av politiske tiltak, mellom anna førebyggjande tiltak og sanksjonar,
 
-2024–2025
+2\) å leggje til rette for og evaluere ulike former for samarbeid mellom medlemsstatane, og eventuelt tredjeland, til dømes gjennom utveksling av personale, bruk av databasar, felles aktivitetar og felles opplæring, og innføre eit system for informasjonsutveksling med sikte på administrativt samarbeid ved bruk av ein særskild modul for svart arbeid innanfor IMI-systemet,
 
-Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd
-nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
+3\) å innføre verktøy, til dømes ein kunnskapsbank, for å effektivt å kunne dele informasjon og røynsler, og utarbeide retningslinjer for handheving, handbøker for god praksis, felles prinsipp for tilsyn for å kjempe mot svart arbeid og felles aktivitetar som til dømes europeiske kampanjar, og å evaluere røynslene med slike verktøy,
 
-bruk av ein særskild modul for svart arbeid
-innanfor IMI-systemet,
-3) å innføre verktøy, til dømes ein kunnskapsbank, for å effektivt å kunne dele informasjon
-og røynsler, og utarbeide retningslinjer for
-handheving, handbøker for god praksis, felles
-prinsipp for tilsyn for å kjempe mot svart
-arbeid og felles aktivitetar som til dømes europeiske kampanjar, og å evaluere røynslene
-med slike verktøy,
+4\) å utarbeide eit program for gjensidig læring for å identifisere god praksis på alle område som er relevante i kampen mot svart arbeid, og organisere fagfellevurderingar for å følgje framgangen i kampen mot svart arbeid i dei medlemsstatane som vel å delta i slike vurderingar,
 
-4) å utarbeide eit program for gjensidig læring
-for å identifisere god praksis på alle område
-som er relevante i kampen mot svart arbeid,
-og organisere fagfellevurderingar for å følgje
-framgangen i kampen mot svart arbeid i dei
-medlemsstatane som vel å delta i slike vurderingar,
-5) å utveksle dei røynslene som nasjonale styresmakter har med bruk av unionsretten i
-kampen mot svart arbeid.
+5\) å utveksle dei røynslene som nasjonale styresmakter har med bruk av unionsretten i kampen mot svart arbeid.
 
-[Side 55]
+2.
 
-2024–2025
+Avgjerd i EØS-komiteen nr. 319/2023 av 8. desember 2023 om endring av vedlegg V (Fri rørsle for arbeidstakarar) og VI (Trygd) og protokoll 31 (om samarbeid på særlege område utanfor dei fire fridommane) til EØS-avtala
 
-Prop. 8 LS
-
-Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd
-nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
-
-55
-
-Vedlegg 2
-
-Avgjerd i EØS-komiteen nr. 319/2023 av 8. desember 2023
-om endring av vedlegg V (Fri rørsle for arbeidstakarar)
-og VI (Trygd) og protokoll 31 (om samarbeid på særlege
-område utanfor dei fire fridommane) til EØS-avtala
 EØS-KOMITEEN HAR –
-med tilvising til avtala om Det europeiske økonomiske samarbeidsområdet, heretter kalla EØSavtala, særleg artikkel 86 og 98,
+
+med tilvising til avtala om Det europeiske økonomiske samarbeidsområdet, heretter kalla EØS-avtala, særleg artikkel 86 og 98,
+
 og ut frå desse synsmåtane:
-1) Europaparlaments- og rådsforordning (EU)
-2019/1149 av 20. juni 2019 om innføring av ei
-europeisk arbeidsmarknadsstyresmakt, om
-endring av forordning (EF) nr. 883/2004, (EU)
-nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/3441 skal takast
-inn i EØS-avtala.
-2) Forordning (EU) 2019/1149 opphevar, med
-verknad frå 1. august 2021, europaparlamentsog rådsavgjerd (EU) 2016/3442, som er teken
-inn i EØS-avtala og følgjeleg skal opphevast i
-EØS-avtala.
-3) Vedlegg V og VI og protokoll 31 til EØS-avtala
-bør difor endrast –
+
+1\) Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/344[^34] skal takast inn i EØS-avtala.
+
+2\) Forordning (EU) 2019/1149 opphevar, med verknad frå 1. august 2021, europaparlaments- og rådsavgjerd (EU) 2016/344[^35], som er teken inn i EØS-avtala og følgjeleg skal opphevast i EØS-avtala.
+
+3\) Vedlegg V og VI og protokoll 31 til EØS-avtala bør difor endrast –
+
 TEKE DENNE AVGJERDA:
+
 Artikkel 1
-I vedlegg V til EØS-avtala vert det gjort følgjande
-endringar:
-1. I nr. 2 (europaparlaments- og rådsforordning
-(EU) nr. 492/2011) skal nytt strekpunkt lyde:
-«– 32019 R 1149: Europaparlaments- og
-rådsforordning (EU) 2019/1149 av 20. juni
-2019 (EUT L 186 av 11.7.2019, s. 21).»
-2. I nr. 9 (europaparlaments- og rådsforordning
-(EU) 2016/589) vert følgjande lagt til:
+
+I vedlegg V til EØS-avtala vert det gjort følgjande endringar:
+
+1\. I nr. 2 (europaparlaments- og rådsforordning (EU) nr. 492/2011) skal nytt strekpunkt lyde:
+
+«– **32019 R 1149**: Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 (EUT L 186 av 11.7.2019, s. 21).»
+
+2\. I nr. 9 (europaparlaments- og rådsforordning (EU) 2016/589) vert følgjande lagt til:
+
 «, endret ved:
-– 32019 R 1149: Europaparlaments- og
-rådsforordning (EU) 2019/1149 av 20. juni
-2019 (EUT L 186 av 11.7.2019, s. 21).»
-1
-2
 
-TEU L 186 av 11.7.2019, s. 21.
-TEU L 65 av 11.3.2016, s. 12.
+– **32019 R 1149**: Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 (EUT L 186 av 11.7.2019, s. 21).»
 
-3. Etter nr. 10zv (Kommisjonens gjennomføringsbeslutning (EU) 2022/1949) vert følgjande
-lagt til:
-«11.32019 R 1149: Europaparlaments- og
-rådsforordning (EU) 2019/1149 av 20. juni
-2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/
-2011 og (EU) 2016/589 og om oppheving
-av avgjerd (EU) 2016/344 (EUT L 186 av
-11.7.2019, s. 21).
-For føremåla med denne avtala skal
-føresegnene i forordninga lesast med
-følgjande tilpassingar:
-a) Når det gjeld EFTA-statane, skal tilvisingar til unionsretten forståast som
-tilvisingar til EØS-avtala.
-b) Utan at det rører ved føresegnene i protokoll 1 til EØS-avtala, og med mindre anna
-er fastsett i denne avtala, skal orda ‘medlemsstat(ar)’ og ‘nasjonale styresmakter’
-omfatte, i tillegg til tydinga dei har i forordninga, høvesvis EFTA-statane og
-deira nasjonale styresmakter.
-c) I artikkel 1 nr. 2 og artikkel 2 skal orda
-‘og EFTAs overvakingsorgan’ leggjast
-til etter ordet ‘Kommisjonen’.
-d) I artikkel 7 nr. 1 bokstav e) og artikkel
-13 nr. 13 skal orda ‘eller, når det gjeld
-EFTA-statane, EFTAs overvakingsorgan’ leggjast til etter ordet ‘Kommisjonen’.
-e) I artikkel 9 nr. 9 og artikkel 10 nr. 3
-første leddet skal orda ‘eller, når det
-gjeld EFTA-statane, til EFTAs overvakingsorgan’ leggjast til etter ordet
-‘Kommisjonen’.
-f) I artikkel 12, etter nr. 3, skal nytt
-nummer lyde:
-‘3a. EFTA-statane skal delta fullt ut i
-plattforma og skal der ha dei same
+3\. Etter nr. 10zv (Kommisjonens gjennomføringsbeslutning (EU) 2022/1949) vert følgjande lagt til:
 
-[Side 56]
+«11. **32019 R 1149**: Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/344 (EUT L 186 av 11.7.2019, s. 21).
 
-56
+For føremåla med denne avtala skal føresegnene i forordninga lesast med følgjande tilpassingar:
 
-2024–2025
+a\) Når det gjeld EFTA-statane, skal tilvisingar til unionsretten forståast som tilvisingar til EØS-avtala.
 
-Prop. 8 LS
+b\) Utan at det rører ved føresegnene i protokoll 1 til EØS-avtala, og med mindre anna er fastsett i denne avtala, skal orda ‘medlemsstat(ar)’ og ‘nasjonale styresmakter’ omfatte, i tillegg til tydinga dei har i forordninga, høvesvis EFTA-statane og deira nasjonale styresmakter.
 
-Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd
-nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
+c\) I artikkel 1 nr. 2 og artikkel 2 skal orda ‘og EFTAs overvakingsorgan’ leggjast til etter ordet ‘Kommisjonen’.
 
-rettane og pliktene som medlemsstatane i EU, bortsett frå røysterett.’
-g) I artikkel 13:
-i) i nr. 1 skal orda ‘og EFTA-domstolen’ leggjast til etter ordet ‘Domstolen’,
-ii) i nr. 3, 5 og 6 skal orda ‘, EFTAs overvakingsorgan, når ein eller fleire av
-EFTA-statane er involvert,’ leggjast
-til etter ordet ‘Kommisjonen’.
-h) I artikkel 16 nr. 2, etter første leddet
-første punktumet, skal nytt punktum
-lyde: ‘Styresmakta kan invitere representantar for EFTAs overvakingsorgan
-til arbeidsgruppene og ekspertpanela
-som observatørar.’.
-i) I artikkel 17, etter nr. 1, skal nytt
-nummer lyde:
-‘1a.EFTA-statane og EFTAs overvakingsorgan skal delta fullt ut i styret
-og skal der ha dei same rettane og
-pliktene som høvesvis medlemsstatane i EU og Kommisjonen, bortsett frå røysterett.’
-j) I artikkel 26 skal nytt nummer lyde:
-‘5. EFTA-statane skal ta del i det tilskotet frå Unionen som er nemnd i
-nr. 3 bokstav a). For dette føremålet
-skal dei framgangsmåtane som er
-fastsette i artikkel 82 nr. 1 bokstav a)
-i og protokoll 32 til EØS-avtala,
-nyttast tilsvarande med naudsynte
-endringar.’
-k) I artikkel 30 skal nye ledd lyde:
-‘Som eit unntak frå artikkel 12 nr. 2
-bokstav a) og artikkel 82 nr. 3 bokstav a)
-i tenestevilkåra for andre tilsette i Den
-europeiske unionen kan borgarar frå
-EFTA-statane som har fulle borgarrettar, tilsetjast på kontrakt i medhald av
-fullmakta til tilsetjingsstyresmakta.
-Som eit unntak frå artikkel 12 nr. 2
-bokstav e), artikkel 82 nr. 3 bokstav e)
-og artikkel 85 nr. 3 i tenestevilkåra for
-andre tilsette i Den europeiske unionen
-skal styresmakta, med omsyn til personalet sitt, rekne dei språka som er
-nemnde i artikkel 129 nr. 1 i EØS-avtala,
-som språk i Unionen som er nemnde i
-artikkel 55 nr. 1 i traktaten om Den
-europeiske unionen.’
-l) I artikkel 32, etter nr. 1, skal nytt nummer lyde:
+d\) I artikkel 7 nr. 1 bokstav e) og artikkel 13 nr. 13 skal orda ‘eller, når det gjeld EFTA-statane, EFTAs overvakingsorgan’ leggjast til etter ordet ‘Kommisjonen’.
 
-‘1a.Ein EFTA-stat kan peike ut den
-nasjonale kontaktpersonen til ein
-annan EFTA-stat eller ein medlemsstat i EU som sin nasjonale kontaktperson.’
-m)I artikkel 34 skal følgjande leggjast til:
-‘EFTA-statane skal gje styresmakta
-og personalet hennar privilegium og
-immunitet tilsvarande dei som er omtala
-i protokoll 7 om privilegia og immuniteten til Den europeiske unionen.’»
+e\) I artikkel 9 nr. 9 og artikkel 10 nr. 3 første leddet skal orda ‘eller, når det gjeld EFTA-statane, til EFTAs overvakingsorgan’ leggjast til etter ordet ‘Kommisjonen’.
+
+f\) I artikkel 12, etter nr. 3, skal nytt nummer lyde:
+
+‘3a. EFTA-statane skal delta fullt ut i plattforma og skal der ha dei same rettane og pliktene som medlemsstatane i EU, bortsett frå røysterett.’
+
+g\) I artikkel 13:
+
+i\) i nr. 1 skal orda ‘og EFTA-domstolen’ leggjast til etter ordet ‘Domstolen’,
+
+ii\) i nr. 3, 5 og 6 skal orda ‘, EFTAs overvakingsorgan, når ein eller fleire av EFTA-statane er involvert,’ leggjast til etter ordet ‘Kommisjonen’.
+
+h\) I artikkel 16 nr. 2, etter første leddet første punktumet, skal nytt punktum lyde: ‘Styresmakta kan invitere representantar for EFTAs overvakingsorgan til arbeidsgruppene og ekspertpanela som observatørar.’.
+
+i\) I artikkel 17, etter nr. 1, skal nytt nummer lyde:
+
+‘1a. EFTA-statane og EFTAs overvakingsorgan skal delta fullt ut i styret og skal der ha dei same rettane og pliktene som høvesvis medlemsstatane i EU og Kommisjonen, bortsett frå røysterett.’
+
+j\) I artikkel 26 skal nytt nummer lyde:
+
+‘5. EFTA-statane skal ta del i det tilskotet frå Unionen som er nemnd i nr. 3 bokstav a). For dette føremålet skal dei framgangsmåtane som er fastsette i artikkel 82 nr. 1 bokstav a) i og protokoll 32 til EØS-avtala, nyttast tilsvarande med naudsynte endringar.’
+
+k\) I artikkel 30 skal nye ledd lyde:
+
+‘Som eit unntak frå artikkel 12 nr. 2 bokstav a) og artikkel 82 nr. 3 bokstav a) i tenestevilkåra for andre tilsette i Den europeiske unionen kan borgarar frå EFTA-statane som har fulle borgarrettar, tilsetjast på kontrakt i medhald av fullmakta til tilsetjingsstyresmakta.
+
+Som eit unntak frå artikkel 12 nr. 2 bokstav e), artikkel 82 nr. 3 bokstav e) og artikkel 85 nr. 3 i tenestevilkåra for andre tilsette i Den europeiske unionen skal styresmakta, med omsyn til personalet sitt, rekne dei språka som er nemnde i artikkel 129 nr. 1 i EØS-avtala, som språk i Unionen som er nemnde i artikkel 55 nr. 1 i traktaten om Den europeiske unionen.’
+
+l\) I artikkel 32, etter nr. 1, skal nytt nummer lyde:
+
+‘1a. Ein EFTA-stat kan peike ut den nasjonale kontaktpersonen til ein annan EFTA-stat eller ein medlemsstat i EU som sin nasjonale kontaktperson.’
+
+m\) I artikkel 34 skal følgjande leggjast til:
+
+‘EFTA-statane skal gje styresmakta og personalet hennar privilegium og immunitet tilsvarande dei som er omtala i protokoll 7 om privilegia og immuniteten til Den europeiske unionen.’»
+
 Artikkel 2
-I EØS-avtala vedlegg VI nr. 1 (europaparlamentsog rådsforordning (EF) nr. 883/2004) skal nytt
-strekpunkt lyde:
-«– 32019 R 1149: Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019
-(EUT L 186 av 11.7.2019, s. 21).»
+
+I EØS-avtala vedlegg VI nr. 1 (europaparlaments- og rådsforordning (EF) nr. 883/2004) skal nytt strekpunkt lyde:
+
+«– **32019 R 1149**: Europaparlaments- og rådsforordning (EU) 2019/1149 av 20. juni 2019 (EUT L 186 av 11.7.2019, s. 21).»
+
 Artikkel 3
-Teksta i andre strekpunktet i artikkel 15 nr. 9 i
-protokoll 31 til EØS-avtala (europaparlaments- og
-rådsavgjerd (EU) 2016/344) vert oppheva.
+
+Teksta i andre strekpunktet i artikkel 15 nr. 9 i protokoll 31 til EØS-avtala (europaparlaments- og rådsavgjerd (EU) 2016/344) vert oppheva.
+
 Artikkel 4
-Teksta til forordning (EU) 2019/1149 på islandsk
-og norsk, som vil verte kunngjord i EØS-tillegget
-til Tidend for Den europeiske unionen, skal verte
-gyldig.
+
+Teksta til forordning (EU) 2019/1149 på islandsk og norsk, som vil verte kunngjord i EØS-tillegget til *Tidend for Den europeiske unionen*, skal verte gyldig.
+
 Artikkel 5
-Denne avgjerda tek til å gjelde 9. desember 2023,
-på det vilkåret at alle meldingar etter artikkel 103
-nr. 1 i EØS-avtala er sende inn3.
+
+Denne avgjerda tek til å gjelde 9. desember 2023, på det vilkåret at alle meldingar etter artikkel 103 nr. 1 i EØS-avtala er sende inn[^36].
+
 Artikkel 6
-Denne avgjerda skal kunngjerast i EØS-avdelinga
-av og EØS-tillegget til Tidend for Den europeiske
-unionen.
+
+Denne avgjerda skal kunngjerast i EØS-avdelinga av og EØS-tillegget til *Tidend for Den europeiske unionen*.
+
 Utferda i Brussel 8. desember 2023.
+
 For EØS-komiteen
-Pascal Schafhauser
+
+*Pascal Schafhauser*
+
 Formann
-3
 
-Forfatningsrettslege krav oppgjevne.
+Felles fråsegn frå avtalepartane i samband med avgjerd nr. 319/2023 som innlemmar europaparlaments- og rådsforordning (EU) 2019/1149 i EØS-avtala
 
-[Side 57]
+Partane erkjenner at innlemminga av denne rettsakta ikkje rører ved den direkte bruken av protokoll 7 om privilegia og immuniteten til Den europeiske unionen på borgarar frå EFTA-statane på territoriet til kvar einskild medlemsstat i Den europeiske unionen, i samsvar med artikkel 11 i den nemnde protokollen.
 
-2024–2025
+[^1]: TEU C 440 av 6.12.2018, s. 128.
 
-Prop. 8 LS
+[^2]: TEU C 461 av 21.12.2018, s. 16.
 
-Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd
-nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
+[^3]: Haldning frå Europaparlamentet av 16. april 2019 (enno ikkje offentleggjord i TEU) og rådsavgjerd av 13. juni 2019.
 
-Felles fråsegn frå avtalepartane i samband med
-avgjerd nr. 319/2023 som innlemmar europaparlaments- og rådsforordning (EU) 2019/1149
-i EØS-avtala
-Partane erkjenner at innlemminga av denne rettsakta ikkje rører ved den direkte bruken av proto-
+[^4]: Europaparlaments- og rådsdirektiv 2014/67/EU av 15. mai 2014 om håndheving av direktiv 96/71/EF om utsending av arbeidstakere i forbindelse med tjenesteyting, og om endring av forordning (EU) nr. 1024/2012 om forvaltningssamarbeid gjennom informasjonssystemet for det indre marked («IMI-forordningen») (TEU L 159 av 28.5.2014, s. 11).
 
-57
+[^5]: Europaparlaments- og rådsdirektiv 2014/54/EU av 16. april 2014 om tiltak for å lette utøvelsen av arbeidstakeres rettigheter i forbindelse med fri bevegelighet for arbeidstakere (TEU L 128 av 30.4.2014, s. 8).
 
-koll 7 om privilegia og immuniteten til Den
-europeiske unionen på borgarar frå EFTA-statane
-på territoriet til kvar einskild medlemsstat i Den
-europeiske unionen, i samsvar med artikkel 11 i
-den nemnde protokollen.
+[^6]: Europaparlaments- og rådsforordning (EF) nr. 883/2004 av 29. april 2004 om koordinering av trygdeordninger (TEU L 166 av 30.4.2004, s. 1).
 
-[Side 58]
+[^7]: Europaparlaments- og rådsforordning (EU) 2018/1724 av 2. oktober 2018 om opprettelse av en felles digital portal for å gi tilgang til opplysninger, prosedyrer og støtte- og problemløsingstjenester, og om endring av forordning (EU) nr. 1024/2012 (TEU L 295 av 21.11.2018, s. 1).
 
-[Side 59]
+[^8]: Europaparlaments- og rådsforordning (EU) 2016/589 av 13. april 2016 om eit europeisk nettverk for arbeidsformidlingar (EURES), tilgang til mobilitetstenester for arbeidstakarar og ytterlegare integrasjon av arbeidsmarknadene, og om endring av forordning (EU) nr. 492/2011 og (EU) nr. 1296/2013 (TEU L 107 av 22.4.2016, s. 1).
 
-[Side 60]
+[^9]: Europaparlaments- og rådsavgjerd (EU) 2016/344 av 9. mars 2016 om etablering av ei europeisk plattform for å styrkje samarbeidet i kampen mot svart arbeid (TEU L 65 av 11.3.2016, s. 12).
 
-Departementenes sikkerhets- og serviceorganisasjon
+[^10]: Europaparlaments- og rådsbeslutning (EU) 2015/2240 av 25. november 2015 om innføring av et program om samvirkingsløsninger og felles rammer for europeiske offentlige forvaltninger, foretak og borgere (ISA<sup>2</sup>-programmet) som et middel til å modernisere den offentlige sektor (TEU L 318 av 4.12.2015, s. 1).
+
+[^11]: Europaparlaments- og rådsdirektiv (EU) 2016/2102 av 26. oktober 2016 om tilgjengeligheten av offentlige organers nettsteder og mobilapplikasjoner (TEU L 327 av 2.12.2016, s. 1).
+
+[^12]: Europaparlaments- og rådsforordning (EU) nr. 492/2011 av 5. april 2011 om fri rørsle for arbeidstakarar innanfor Unionen (TEU L 141 av 27.5.2011, s. 1).
+
+[^13]: Europaparlaments- og rådsforordning (EU) 2016/679 av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv 95/46/EF (generell personvernforordning) (TEU L 119 av 4.5.2016, s. 1).
+
+[^14]: Europaparlaments- og rådsforordning (EU) 2018/1725 av 23. oktober 2018 om vern av fysiske personer i forbindelse med behandling av personopplysninger i Unionens institusjoner, organer, kontorer og byråer og om fri utveksling av slike opplysninger samt om oppheving av forordning (EF) nr. 45/2001 og beslutning nr. 1247/2002/EF (EUT L 295 av 21.11.2018, s. 39).
+
+[^15]: Europaparlaments- og rådsforordning (EF) nr. 1049/2001 av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter (TEU L 145 av 31.5.2001, s. 43).
+
+[^16]: Europaparlaments- og rådsforordning (EU, Euratom) nr. 883/2013 av 11. september 2013 om undersøkelser som foretas av Det europeiske kontor for bedrageribekjempelse (OLAF) og om oppheving av europaparlaments- og rådsforordning (EF) nr. 1073/1999 og rådsforordning (Euratom) nr. 1074/1999 (TEU L 248 av 18.9.2013, s. 1).
+
+[^17]: TEF L 56 av 4.3.1968, s. 1.
+
+[^18]: Kommisjonsbeslutning 2009/17/EF av 19. desember 2008 om nedsettelse av en ekspertkomité for utsending av arbeidstakere (TEU L 8 av 13.1.2009, s. 26).
+
+[^19]: Europaparlaments- og rådsdirektiv 96/71/EF av 16. desember 1996 om utsending av arbeidstakere i forbindelse med tjenesteyting (TEF L 18 av 21.1.1997, s. 1).
+
+[^20]: Europaparlaments- og rådsforordning (EF) nr. 987/2009 av 16. september 2009 om fastsettelse av nærmere regler for gjennomføring av forordning (EF) nr. 883/2004 om koordinering av trygdeordninger (TEU L 284 av 30.10.2009, s. 1).
+
+[^21]: Rådsforordning (EØF) nr. 1408/71 av 14. juni 1971 om anvendelse av trygdeordninger på arbeidstakere, selvstendig næringsdrivende og deres familiemedlemmer som flytter innenfor Fellesskapet (TEF L 149 av 5.7.1971, s. 2).
+
+[^22]: Rådsforordning (EØF) nr. 574/72 av 21. mars 1972 om regler for gjennomføring av forordning (EØF) nr. 1408/71 om anvendelse av trygdeordninger på arbeidstakere, selvstendig næringsdrivende og deres familiemedlemmer som flytter innenfor Fellesskapet (TEF L 74 av 27.3.1972, s. 1).
+
+[^23]: Europaparlaments- og rådsforordning (EU) nr. 1231/2010 av 24. november 2010 om utvidelse av forordning (EF) nr. 883/2004 og forordning (EF) nr. 987/2009 til å omfatte tredjelandsborgere som ikke allerede er omfattet av disse forordningene utelukkende på grunn av sin nasjonalitet (TEU L 344 av 29.12.2010, s. 1).
+
+[^24]: Rådsforordning (EF) nr. 859/2003 av 14. mai 2003 om utvidelse av bestemmelsene i forordning (EØF) nr. 1408/71 og forordning (EØF) nr. 574/72 til å omfatte tredjelandsborgere som ikke allerede er omfattet av disse bestemmelsene utelukkende på grunn av sin nasjonalitet (TEU L 124 av 20.5.2003, s. 1).
+
+[^25]: Europaparlaments- og rådsforordning (EF) nr. 561/2006 av 15. mars 2006 om harmonisering av visse bestemmelser på det sosiale området innen veitransport og om endring av rådsforordning (EØF) nr. 3821/85 og (EF) nr. 2135/98 samt om oppheving av rådsforordning (EØF) nr. 3820/85 (TEU L 102 av 11.4.2006, s. 1).
+
+[^26]: Europaparlaments- og rådsdirektiv (EF) nr. 2006/22 av 15. mars 2006 om minstekrav for gjennomføring av rådsforordning (EØF) nr. 3820/85 og (EØF) nr. 3821/85 om bestemmelser på det sosiale området innen veitransport og om oppheving av rådsdirektiv 88/599/EØF (TEU L 102 av 11.4.2006, s. 35).
+
+[^27]: Europaparlaments- og rådsforordning (EF) nr. 1071/2009 av 21. oktober 2009 om innføring av felles regler med hensyn til vilkårene som må oppfylles for å utøve yrket som transportør på vei, og om oppheving av rådsdirektiv 96/26/EF (TEU L 300 av 14.11.2009, s. 51).
+
+[^28]: Delegert kommisjonsforordning (EU) nr. 1271/2013 av 30. september 2013 om det finansielle rammereglement for organene nevnt i artikkel 208 i europaparlaments- og rådsforordning (EU, Euratom) nr. 966/2012 (TEU L 328 av 7.12.2013, s. 42).
+
+[^29]: Europaparlaments- og rådsforordning (EU, Euratom) 2018/1046 av 18. juli 2018 om finansielle regler for Unionens alminnelige budsjett, om endring av forordning (EU) nr. 1296/2013, (EU) nr. 1301/2013, (EU) nr. 1303/2013, (EU) nr. 1304/2013, (EU) nr. 1309/2013, (EU) nr. 1316/2013, (EU) nr. 223/2014, (EU) nr. 283/2014 og beslutning nr. 541/2014/EU og om oppheving av forordning (EU, Euratom) nr. 966/2012 (TEU L 193 av 30.7.2018, s. 1).
+
+[^30]: Forordning nr. 1 av 15. april 1958 om fastsettelse av reglene for bruk av språk for Det europeiske økonomiske fellesskap (TEF 17 av 6.10.1958, s. 385).
+
+[^31]: Rådsforordning (Euratom, EF) nr. 2185/96 av 11. november 1996 om kontroll og inspeksjon på stedet som foretas av Kommisjonen for å verne De europeiske fellesskaps økonomiske interesser mot bedrageri og andre uregelmessigheter (TEF L 292 av 15.11.1996, s. 2).
+
+[^32]: Kommisjonsbeslutning (EU, Euratom) 2015/443 av 13. mars 2015 om sikkerhet i Kommisjonen (TEU L 72 av 17.3.2015, s. 41).
+
+[^33]: Kommisjonsbeslutning (EU, Euratom) 2015/444 av 13. mars 2015 om sikkerhetsregler for vern av graderte EU-opplysninger (TEU L 72 av 17.3.2015, s. 53).
+
+[^34]: TEU L 186 av 11.7.2019, s. 21.
+
+[^35]: TEU L 65 av 11.3.2016, s. 12.
+
+[^36]: Forfatningsrettslege krav oppgjevne.

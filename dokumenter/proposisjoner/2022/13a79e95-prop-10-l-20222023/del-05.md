@@ -1,982 +1,248 @@
-# Prop. 10 L (2022–2023), del 5 av 6 (side 53–66)
+# Prop. 10 L (2022–2023), del 5 av 6
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/13a79e95-prop-10-l-20222023.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-10-l-20222023/id2946493/
 - Original-PDF: https://www.regjeringen.no/contentassets/d40771700413464a87d28d6eaa76f0b4/no/pdfs/prp202220230010000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 53]
-
-2022–2023
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-etter personvernforordningen. Det vises til vurderingene i høringsnotatet inntatt i punkt 9.1 ovenfor.
-Departementet opprettholder sitt syn i
-høringsforslaget om at Ekstremismekommisjonen
-selv vil være behandlingsansvarlig etter personvernforordningen artikkel 4 nr. 7, at kommisjonen
-opphører å være behandlingsansvarlig når kommisjonens arbeid er avsluttet, og at Arkivverket vil
-være behandlingsansvarlig for arkivmateriale som
-avleveres til dem. Departementet er enig i
-høringsinnspill blant annet fra UDI, om at det bør
-fremgå eksplisitt av loven hvem som er behandlingsansvarlig. Departementet foreslår derfor at
-dette framgår av lovforslaget § 5 tredje ledd.
-
-9.3.3
-
-Kommisjonen må foreta en
-personvernkonsekvensvurdering
-
-Departementet legger til grunn at kommisjonen
-før den behandler personopplysninger skal foreta
-en vurdering av personvernkonsekvenser, jf. personvernforordningen artikkel 35. Departementet
-viser til at artikkel 35 nr. 7 oppstiller minimumskrav til hva vurderingen skal inneholde.
-
-9.3.4
-
-Særlig om den registrertes rett til
-innsyn
-Utgangspunktet etter personvernforordningen
-artikkel 15 er at den registrerte har rett til å få den
-behandlingsansvarliges bekreftelse på om personopplysninger om vedkommende behandles, og
-dersom dette er tilfellet, innsyn i personopplysningene. Det finnes imidlertid unntak fra dette.
-Departementet viser til at det følger av personopplysningsloven § 16 at retten til informasjon og innsyn etter personvernforordningen artikkel 13, 14
-og 15 ikke omfatter opplysninger som
-a. er av betydning for Norges utenrikspolitiske
-interesser eller nasjonale forsvars- og sikkerhetsinteresser, når den behandlingsansvarlige
-kan unnta opplysningene etter offentleglova
-§§ 20 eller 21
-b. det er påkrevd å hemmeligholde av hensyn til
-forebygging, etterforskning, avsløring og rettslig forfølgning av straffbare handlinger
-c. det må anses utilrådelig at den registrerte får
-kjennskap til av hensyn til vedkommendes
-helse eller forholdet til personer som står vedkommende nær
-d. i lov eller med hjemmel i lov er underlagt taushetsplikt
-e. utelukkende finnes i tekst som er utarbeidet for
-intern saksforberedelse, og som heller ikke er
-
-51
-
-utlevert til andre, så langt det er nødvendig å
-nekte innsyn for å sikre forsvarlige interne
-avgjørelsesprosesser
-f. det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å
-informere om
-Alle disse unntakene vil i praksis kunne være
-aktuelle for kommisjonen, dersom registrerte ber
-kommisjonen om innsyn. Personopplysningsloven
-§ 17 har også regler om unntak fra den registrertes rettigheter ved behandling av personopplysninger for arkivformål i allmennhetens interesse,
-vitenskapelige eller historiske forskningsformål
-og statistiske formål.
-Sikkerhetsgradert informasjon er underlagt
-taushetsplikt jf. sikkerhetsloven § 5-4 andre ledd,
-dersom den er gyldig gradert, og det vil ikke være
-innsynsrett i slike opplysninger.
-Departementet viser til høringsuttalelsen fra
-POD og Kripos knyttet til politiregisterloven § 23
-annet ledd. Bestemmelsen gjelder taushetsplikten
-til de som er ansatt i eller utfører tjeneste eller
-arbeid for politiet eller påtalemyndigheten og gir
-strengere regler om taushetsplikt enn det som
-følger av forvaltningsloven. Der politiet gir kommisjonen opplysninger som er undergitt strengere
-regler om taushetsplikt enn det som følger av
-forvaltningsloven, skal disse strengere reglene
-etter lovforslaget gjelde for kommisjonen og de
-som utfører arbeid eller tjeneste for kommisjonen,
-jf. lovforslaget § 4 andre ledd. Spørsmålet om å
-nekte den registrerte innsyn med hjemmel i
-personopplysningsloven § 16 første ledd bokstav d
-må da vurderes ut fra denne strengere taushetsplikten. Dersom politiet har pålagt kommisjonen
-taushetsplikt om utleverte opplysninger, jf. politiregisterloven § 35, kan den registrerte også nektes
-innsyn med hjemmel i personopplysningsloven
-§ 16 første ledd bokstav d. De andre unntakene i
-§ 16 første ledd kan også etter en konkret vurdering kunne komme til anvendelse.
-Departementet vil understreke det forhold
-som også er nevnt ovenfor under punkt 5.3 om
-hvilke saker kommisjonen skal se på. Etter politiregisterloven § 54 tredje ledd gis det en begrunnelse som ikke tilkjennegir at det foreligger en
-registrering, dersom den registrerte ber om innsyn i egne personopplysninger og får avslag. Den
-samme muligheten vil ikke foreligge for kommisjonen der kommisjonen får krav om innsyn fra
-den registrerte. Kommisjonen vil måtte vise til
-hvilken hjemmel som foreligger for avslag etter
-personopplysningsregelverket, og dermed tilkjennegi det dersom kommisjonen behandler per-
-
-[Side 54]
-
-52
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-sonopplysninger om den som ber om innsyn. Politiet må derfor før de utleverer opplysninger til
-kommisjonen ta dette i betraktning.
-Kommisjonen bør vurdere å innhente politiet
-eller påtalemyndighetens syn før kommisjonen
-beslutter om den registrerte skal gis innsyn i opplysninger innhentet fra politiet eller påtalemyndigheten. Det er imidlertid kommisjonen som tar den
-endelige beslutningen. Departementet foreslår
-imidlertid ikke å fastsette en konsultasjonsplikt i
-loven. Det sentrale vil i alle tilfelle være om opplysningene er av en slik karakter at det er grunn
-til å vurdere nærmere om det er behov og grunnlag for unntak fra innsynsretten etter personopplysningsloven §§ 16 eller 17. Det bør vurderes ut
-fra de konkrete opplysningene og omstendighetene for øvrig om en skal kontakte politiet eller
-påtalemyndigheten for å få innspill på dette. Det
-samme gjelder etter avlevering til arkivdepot.
-Departementet viser til PSTs høringsuttalelse
-om at det ikke er innsynsrett i saker hos PST jf.
-politiregisterloven § 66, at det er egne regler i
-sikkerhetsloven om innsyn i graderte dokumenter, og at det må sørges for at de samme
-reglene gjelder der det bes om innsyn hos kommisjonen. For kommisjonen vil det være personopplysningsloven og personvernforordningens regler
-som er avgjørende i tillegg til de spesielle reglene
-i dette lovforslaget. Departementet legger til
-grunn at politiregisterlovens § 66 om innsyn, ikke
-kan gis tilsvarende anvendelse for kommisjonen,
-men at PSTs interesser kan ivaretas gjennom at
-sikkerhetsgraderte opplysninger og andre opplysninger som er underlagt taushetsplikt i lov eller
-med hjemmel i lov kan unntas fra innsyn, jf. personopplysningsloven § 16 første ledd bokstav d.
-Departementet viser til at PST kan pålegge
-kommisjonen taushetsplikt ved utleveringen, jf.
-politiregisterloven § 35. Videre kan også de andre
-
-2022–2023
-
-unntakene i personopplysningsloven etter en konkret vurdering kunne komme til anvendelse.
-
-9.3.5
-
-Unntak fra rett til innsyn etter
-personvernforordningen § 15 dersom
-det krever en uforholdsmessig stor
-innsats å gi innsyn
-Departementet opprettholder også forslaget til § 5
-andre ledd, som innebærer et unntak fra den
-registrertes rett til innsyn i personopplysningene
-om vedkommende etter personvernforordningen
-artikkel 15 dersom det kreves uforholdsmessig
-stor innsats å gi innsyn. Det vises her til vurderingen i høringsnotatet inntatt i punkt 9.1 ovenfor.
-Departementet vil framheve at dette unntaket fra
-innsynsretten kun gjelder «dersom det vil kreve
-en uforholdsmessig stor innsats å gi innsyn».
-Dette innebærer at den registrerte fortsatt har
-rett til innsyn i opplysninger om vedkommende
-selv etter personvernforordningen artikkel 15 dersom det ikke krever en uforholdsmessig stor innsatts å gi vedkommende innsyn. Videre skal kommisjonens arkivmateriale avleveres til Arkivverket
-når kommisjonen har avsluttet sitt arbeid, jf. lovforslaget § 8 første ledd, og den registrerte kan da
-be om innsyn overfor Arkivverket, som er ny
-behandlingsansvarlig.
-Personopplysningsloven
-§ 17 kan imidlertid gi hjemmel for begrensinger i
-retten til innsyn også etter avlevering til arkivdepot. Når det gjelder muligheten for å få overprøvd et eventuelt avslag på innsynskrav etter lovforslaget § 5 andre ledd, viser departementet til at
-det er mulig å klage til Datatilsynet. Siden Datatilsynet er den alminnelige klageinstansen for
-klager over avslag på slike innsynskrav, opprettholder departementet at det ikke er grunn til å
-fastsette dette uttrykkelig i lovforslaget.
-
-[Side 55]
-
-2022–2023
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-53
-
-10 Forbud mot bruk av opplysninger i senere straffesak,
-sivil sak eller tilsynssak
-10.1 Forslaget i høringsnotatet
-Etter høringsforslaget § 6 skal opplysninger som
-kommisjonen har mottatt i medhold av forslag til
-lov § 3, ikke kunne brukes som bevis i en eventuell senere straffesak eller sivil sak. I høringsnotatet ble det gitt følgende redegjørelse for forslaget:
-«Straffeprosessloven § 118 og tvisteloven § 223 inneholder bevisforbud om opplysninger
-undergitt lovbestemt taushetsplikt. Uten samtykke fra departementet kan retten ikke ta imot
-forklaring fra et vitne, eller på annen måte få
-fremlagt bevis som inneholder slike opplysninger. Det fremgår av § 118 første ledd tredje
-punktum at departementet bare kan nekte
-samtykke når «åpenbaringen vil kunne utsette
-staten eller allmenne interesser for skade eller
-virke urimelig overfor den som har krav på
-hemmelighold». En tilnærmet likelydende
-bestemmelse følger av tvisteloven § 22-3 andre
-ledd andre punktum. Dersom samtykke gis vil
-en tjenestemann i utgangspunktet ha plikt til å
-avgi forklaring på vanlig måte.
-Etter departementets syn er det nødvendig
-for kommisjonens arbeid at det sikres best
-mulig tilgang til opplysninger, og at forklaringene som gis til kommisjonen, er mest
-mulig fullstendige. Uten et forbud mot bruk i
-senere rettssaker kan det tenkes at personer
-med relevant informasjon ikke vil gi opplysninger i frykt for at opplysningene senere kan
-bli brukt i rettssaker mot vedkommende eller
-noen som står vedkommende nær.
-Departementet viser til at en tilsvarende
-bestemmelse er vedtatt for blant annet NAVgranskningsutvalget, Partnerdrapsutvalget og
-Koronakommisjonen.
-Lovbestemmelsen er en spesialregel som
-på sitt felt går foran straffeprosessloven og
-tvisteloven. Bestemmelsen er rettet mot
-utvekslingen av informasjon mellom kommisjonen og personer som gir opplysninger til
-kommisjonen. Den medfører ikke noe generelt
-
-bevisforbud for visse opplysninger og er heller
-ikke til hinder for at en person som gir informasjon til kommisjonen, ellers må forklare seg om
-samme forholdene etter de alminnelige
-reglene om bevistilgang.»
-
-10.2 Høringsinstansens syn
-Domstoladministrasjonen støtter forslaget og
-uttaler at forslaget er prinsipielt riktig og vil lette
-kommisjonens arbeid. Datatilsynet trekker fram
-forbudet mot bruk av opplysninger som bevis i
-senere straffesak eller sivil sak som ett av flere tiltak i lovforslaget som bidrar til å verne den registrertes grunnleggende rettigheter og interesser.
-Kripos er den eneste høringsinstansen som
-ikke støtter forslaget. Kripos mener opplysninger
-som tilkommer kommisjonen, bør kunne benyttes
-som bevis i straffesaker, særlig i de mer alvorlige
-sakene. Kripos uttaler blant annet:
-«Det foreslåtte bevisforbudet har en klar side
-til kriminalitetsbekjempelse. Kripos’ prinsipielle utgangspunkt er at opplysninger som tilkommer utvalget også bør kunne benyttes som
-bevis i straffesaker. Manglende oppklaring og
-iretteføring av alvorlig kriminalitet som følge
-av begrensninger i bruken av opplysninger, er
-egnet til å svekke tilliten til politiet, domstolene
-og myndighetsapparatet for øvrig. Prinsippet
-om fri bevisføring og hensynet til sakens opplysning tilsier at påtalemyndigheten bør kunne
-føre de bevis man har. Dette vil bidra til en riktig avgjørelse og straffereaksjon.»
-Politidirektoratet (POD) støtter på sin side
-høringsforslaget. Direktoratet viser til bevisforbudet ikke er til hinder for at opplysninger kan
-brukes som bevis dersom en person for eksempel
-forklarer seg om de samme forholdene til politiet.
-Direktoratet viser til at dette forutsetter at politiet
-har egne hjemler til å innhente opplysningene
-etter de alminnelige reglene for bevis. POD viser
-til at en del av begrunnelsen for at kommisjonen
-
-[Side 56]
-
-54
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-kan gjøre inngrep i privatlivet, er bevisforbudet,
-og at det er en begrenset krets som kan få tilgang
-til opplysningene. Direktoratet uttaler at et unntak
-fra bevisforbudet derfor vil kunne utfordre forholdsmessighetsvurderingen som inngrepet i privatlivet er begrunnet i. POD viser videre til at den
-alminnelige plikten til å avverge et straffbart forhold, som følger av straffeloven § 196, vil gjelde
-for kommisjonen.
-Legeforeningen uttaler at det for helsetjenesten
-ofte vil være vel så aktuelt om opplysningene kan
-brukes i undersøkelser av brudd på helselovgivningen – tilsynssaker. Foreningen skriver at den
-legger til grunn at opplysninger kommisjonen har
-mottatt og vurderingene helsepersonell har gjort
-av utlevering til kommisjonen ikke kan brukes
-som grunnlag for tilsynssak og administrative
-reaksjoner, og at det med fordel kan presiseres.
-
-10.3 Departementets vurderinger
-D e p a r t e m e n t e t opprettholder forslaget om
-at opplysninger Ekstremismekommisjonen mot-
-
-2022–2023
-
-tar i medhold av § 3, ikke skal kunne brukes som
-bevis i en senere straffesak eller sivil sak.
-Departementet viser til begrunnelsen i høringsnotatet gjengitt i punkt 10.1 ovenfor. Departementet legger videre vekt på at bevisforbudet er et
-av flere tiltak som bidrar til at inngrep i privatlivet
-ikke blir mer omfattende enn nødvendig og som
-bidrar til å verne den registrertes grunnleggende
-rettigheter og interesser når det gjelder behandling av personopplysninger.
-Departementet viser til høringsuttalelsen fra
-Legeforeningen, og mener at de opplysningene
-kommisjonen mottar ikke bør kunne brukes i tilsynssaker som kan gi grunnlag for reaksjoner
-mot enkeltpersoner. Departementet foreslår derfor at dette framgår av lovforslaget § 6.
-Når det gjelder vurderingene helsepersonell
-og andre har gjort av om hvorvidt de skal utlevere
-opplysninger til kommisjonene, så vil dette imidlertid ikke reguleres av lovforslaget § 6. Lovforslaget er slik ikke til hinder for et eventuelt
-brudd på taushetsplikten, kan føre til en tilsynssak.
-
-[Side 57]
-
-2022–2023
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-55
-
-11 Arkivering, avgrensning og kassasjon
-11.1 Forslaget i høringsnotatet
-Høringsforslaget § 7 inneholdt en bestemmelse
-om avlevering og kassasjon av dokumenter. I
-høringsnotatet ble det gitt følgende redegjørelse
-for forslaget:
-«Det følger av forskrift om offentlege arkiv § 21
-fjerde ledd første punktum at offentlige utvalg
-som danner eget arkiv, skal overføre arkivet til
-oppdragsgiveren i ordnet stand når arbeidet er
-avsluttet, mens det så senere skal gjennomføres en avlevering fra oppdragsgiveren til
-arkivdepot. Etter departementets vurdering er
-det i dette tilfellet mest hensiktsmessig at
-kommisjonens arkivmateriale avleveres direkte
-til Arkivverket. Både Koronakommisjonen og
-NAV-granskingsutvalget har hatt en ordning
-der arkivmateriale blir avlevert direkte til
-Arkivverket.
-Før det kan gjennomføres avlevering, må
-det på vanlig måte gjennomføres en arkivavgrensning. Departementet viser her til forskrift om offentlege arkiv § 14, der det går fram
-at dette skal gjennomføres senest før avlevering. Materiale som kommisjonen besitter,
-men som ikke omfattes av deres arkiv, skal da
-sorteres ut og holdes utenfor arkivmaterialet
-som skal avleveres. Departementet foreslår av
-pedagogiske hensyn at dette skal framgå
-direkte av loven.
-Departementet foreslår at det skal framgå
-av loven at materiale som i utgangspunktet inngår i kommisjonens arkiv, men som ikke skal
-arkiveres eller bevares etter reglene i arkivlova
-med tilhørende forskrifter, skal kasseres etter
-at kommisjonen har avsluttet sitt arbeid. At
-materialet skal kasseres, innebærer som
-utgangspunkt at materialet tas ut og destrueres, jf. forskrift 19. desember 2017 nr. 2286 om
-utfyllende tekniske og arkivfaglige bestemmel-
-
-ser om behandling av offentlige arkiver (riksarkivarens forskrift) § 7-2 bokstav j.
-Departementet forutsetter at kommisjonen
-i oppstarten av sitt arbeid tar kontakt med
-Arkivverket angående opprettelsen av kommisjonens arkiv og avleveringen av arkivet.»
-
-11.2 Høringsinstansenes syn
-Det har ikke kommet innvendinger mot denne
-delen av lovforslaget under høringen. Arkivverket
-støtter forslaget og er positiv til at kommisjonens
-arkivmateriale avleveres direkte til Arkivverket.
-Arkivverket bekrefter at de vil bistå kommisjonen
-blant annet når det gjelder det å utarbeide en
-bevarings- og kassasjonsplan som etterlever arkivlovens bestemmelser.
-Datatilsynet trekker fram forslaget om kassering av materiale som ikke skal arkiveres, som et
-av flere tiltak i loven som bidrar til å verne den
-registrertes grunnleggende rettigheter og
-interesser.
-Politiets sikkerhetstjeneste (PST) uttaler at de
-legger til grunn at dersom det er graderte dokumenter eller opplysninger i materiale som skal
-avleveres til arkivdepot, vil det behandles etter
-reglene for arkivering av gradert informasjon.
-
-11.3 Departementets vurderinger
-D e p a r t e m e n t e t foreslår at forslaget i
-høringsforslaget videreføres i lovforslaget § 8 med
-en noe forenklet formulering. Dersom det er
-graderte dokumenter eller opplysninger i materiale som skal avleveres til arkivdepot, skal dette
-behandles etter reglene for arkivering av gradert
-informasjon, jf. reglene i sikkerhetsloven med forskrifter.
-
-[Side 58]
-
-56
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-2022–2023
-
-12 Tidsavgrensning for deler av loven
-12.1 Forslaget i høringsnotatet
-Etter høringsforslaget § 8 andre ledd oppheves
-§ 3 som gir adgangen til å gi kommisjonen opplysninger og § 5 som regulerer behandling av personopplysninger, når kommisjonen har avsluttet
-sitt arbeid. I høringsnotatet ble det gitt følgende
-redegjørelse for forslaget:
-«Departementet mener det vil være vanskelig å
-begrense kommisjonens tilgang til opplysninger innenfor den perioden kommisjonen
-skal arbeide, og at mulige begrensninger kan
-lede til at kommisjonens arbeid ikke blir fullstendig.
-Departementet viser til personvernforordningen artikkel 5 nr. 1 bokstav b, c og e hvor
-det følger av formålsbegrensningen i bokstav b
-at når formål eller delformål er oppfylt, skal
-personopplysningene ikke lenger behandles.
-Etter bokstav c om dataminimering skal
-behandling av personopplysninger være adekvate, relevante og begrenset til det som er
-nødvendig for formålene de behandles for.
-Bokstav e omhandler lagringsbegrensning og
-
-fastsetter blant annet at personopplysninger
-skal lagres slik at det ikke er mulig å identifisere de registrerte i lengre perioder enn det
-som er nødvendig for formålene som personopplysningene behandles for. Disse prinsippene gjelder uansett for kommisjonens
-behandling av personopplysninger.»
-
-12.2 Høringsinstansenes syn
-Det har ikke kommet inn merknader under
-høringen som spesifikt gjelder dette forslaget i
-høringsnotatet.
-
-12.3 Departementets vurderinger
-D e p a r t e m e n t e t foreslår at forslaget i
-høringsnotatet videreføres i lovforslaget § 9.
-Departementet har imidlertid foreslått å tilføye et
-tredje ledd i § 5. Departementet foreslår at § 5
-tredje ledd om hvem som er behandlingsansvarlig, ikke skal oppheves når kommisjonen har
-avsluttet sitt arbeid.
-
-[Side 59]
-
-2022–2023
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-57
-
-13 Forholdet til Grunnloven og menneskerettighetene
-13.1 Retten til privatliv – Grunnloven
-§ 102 m.m.
-13.1.1 Omtalen i høringsnotatet
-I høringsnotatet ble det vist til at forslaget om å gi
-kommisjonen adgang til å innhente taushetsbelagte
-og sensitive personopplysninger uten samtykke fra
-personene opplysningene gjelder, vil innebære et
-inngrep i personenes rett til privatliv, og derfor må
-oppfylle de kravene som følger av Grunnloven
-§ 102, EMK artikkel 8 og SP artikkel 17.
-I høringsforslaget la departementet til grunn
-at dersom loven vedtas, vil vilkåret om en klar lovhjemmel være oppfylt. Videre viste departementet
-til at formålet med kommisjonens saksgjennomgang og lovforslaget er å gå dypere inn i hvordan
-radikalising og ekstremisme oppstår og å trekke
-lærdom fra sakene med sikte på å forbedre det
-norske samfunnets evne til å forebygge radikalisering og ekstremisme, noe som må anses å være et
-viktig og legitimt formål.
-Om kravet om at inngrepet må være forholdsmessig ble det videre i høringsnotatet sagt
-følgende:
-«Departementet har vurdert om inngrepet vil
-være forholdsmessig for å nå dette målet og
-vurdert balansen mellom de beskyttede individuelle interessene på den ene siden og de legitime samfunnsbehovene som begrunner tiltaket på den andre.
-Det er klart at innhenting og analyse av det
-aktuelle materialet i seg selv er egnet til å
-oppnå formålet, som er å gå dypere inn i hvordan radikalisering og ekstremisme oppstår og
-å trekke lærdom fra sakene med sikte på å forbedre det norske samfunnets evne til å forebygge radikalisering og ekstremisme.
-Et inngrep i noens privatliv skal ikke gå
-lenger enn det som er nødvendig for å oppnå
-formålet. Departementet har derfor vurdert
-om formålet også kan oppnås ved tiltak som er
-mindre inngripende overfor enkeltpersonene
-opplysningene gjelder. Departementet har
-vurdert muligheten for å innhente materialet i
-
-anonymisert form eller å innhente materialet
-ved samtykke fra de berørte personene.
-Departementet har også vurdert om det er tilstrekkelig å bruke opplysninger som allerede
-er kjent gjennom åpne kilder.
-Som det redegjøres for under [høringsnotatet] punkt 4.1, mener departementet at
-verken anonymisering eller samtykke vil være
-tilstrekkelig som hjemmelsgrunnlag for å sikre
-kommisjonen tilgang til nødvendige opplysninger. Departementet anser derfor både anonymisering og samtykke som uegnet for å
-oppnå kommisjonens formål. Departementet
-viser til de nærmere vurderingene av dette
-ovenfor i [høringsnotatet] punkt 4.1. Departementet vurderer videre at det ikke er tilstrekkelig for kommisjonen å basere seg på opplysninger som allerede er kjent gjennom åpne
-kilder, se nærmere vurdering også av dette i
-[høringsnotatet] punkt 4.1.
-Det materialet kommisjonen skal innhente
-kan inneholde svært sensitive personopplysninger. Det kan inneholde opplysninger som er
-gitt, for eksempel til helsepersonell, under forutsetning om konfidensialitet. Den foreslåtte
-hjemmelen vil dermed kunne føre til relativt
-store inngrep i personers privatliv. Når
-departementet likevel foreslår en hjemmel for
-å innhente taushetsbelagte opplysninger,
-legger departementet avgjørende vekt på de
-viktige samfunnshensynene kommisjonens
-arbeid skal bidra til å ivareta. Forebygging av
-radikalisering, ekstremisme og de alvorlige
-konsekvensene dette kan ha, slik som for
-eksempel gjennomførte terrorhandlinger, er
-viktig for å ivareta den nasjonale sikkerheten
-og den offentlige tryggheten. Det er videre
-viktig for å forebygge kriminalitet, og for å
-beskytte andres rettigheter og friheter. Å forebygge radikalisering, og ekstremisme er altså
-avgjørende for å ivareta svært viktige samfunnshensyn. Dette må etter departementets
-syn tillegges betydelig vekt i forholdsmessighetsvurderingen, noe som da innebærer at den
-enkelte må tåle mer når det gjelder inngrep i
-privatlivet.
-
-[Side 60]
-
-58
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-Departementet viser til at det er en begrenset krets som gis tilgang til taushetsbelagte
-opplysninger gjennom den foreslåtte loven, og
-at disse er underlagt en like streng taushetsplikt som avgiveren. Det framgår også av mandatet at kommisjonen skal redegjøre for
-læringspunktene i sin utredning, på en måte
-som ivaretar den enkeltes personvern. I avveiningen av hensynet til den som rammes av inngrepet og de legitime formål som begrunner
-inngrepet, må den samfunnsmessige betydningen av kommisjonens arbeid tillegges stor
-vekt. Som nevnt gjelder dette kunnskapsbygging for å forebygge alvorlige samfunnsutfordringer. Dette formålet sett i forhold til
-inngrepet med dets begrensninger er etter
-departementets vurdering forholdsmessig.»
-Ut fra dette konkluderte departementet i
-høringsnotatet med at innhentingen av de nevnte
-taushetsbelagte og sensitive personopplysningene
-ikke er i strid med Grunnloven eller våre
-menneskerettslige forpliktelser.
-
-13.1.2 Høringsinstansenes syn
-Domstoladministrasjonen uttaler at forholdet til
-menneskerettighetene er grundig vurdert i
-høringsnotatet, og at Domstoladministrasjonen i
-hovedsak er enig i departementets vurderinger av
-disse spørsmålene, og i all hovedsak slutter seg til
-de avveiningene og konklusjonene departementet
-har trukket ved utforming av forslag til konkrete
-regler.
-KS påpeker at bestemmelsen i høringsforslaget § 3 vil omfatte en rekke yrkesgrupper med
-profesjonsbestemt taushetsplikt og uttaler at det
-er betenkelig at det ikke er redegjort nærmere for
-hensynene bak taushetsplikten som gjelder den
-enkelte yrkesgruppe. KS uttaler at det kan tenkes
-tilfeller der unntak fra taushetsplikten vil være i
-strid med Grunnloven § 102 og EMK artikkel 8
-nr. 2. KS mener det er særlig betenkelig for den
-«sterke taushetsplikten» på bevisforbudets
-område hvor unntak fra taushetsplikten utfordrer
-retten til eksempelvis å kunne søke rettslig
-bistand fra advokat i fortrolighet.
-Legeforeningen har uttalt følgende om forholdet til Grunnloven §§ 102 og 97:
-«Innhentingen og behandlingen av personopplysninger som det her legges opp til, innebærer
-et vesentlig inngrep i personenes rett til privatliv, jf. bl.a. Grunnloven § 102. Loven vil gjelde
-for opplysninger som er avgitt under forutset-
-
-2022–2023
-
-ning av konfidensialitet, og gis dermed tilbakevirkende kraft. Selv om det ikke vil vurderes å
-være i strid med Grunnloven § 97, mener vi det
-er et hensyn som bør vektlegges i vurderingen.
-Hva gjelder forholdsmessighetsvurderingen, er det utfordrende å ta stilling til om de
-faktiske utleveringene som kan gjøres i medhold av den foreslåtte loven, vil være forholdsmessige, når lovhjemmelen er så vid at den kun
-er begrenset av at man oppfyller vilkåret om å
-være «enhver» og at det gjelder «opplysninger
-som er nødvendige for at kommisjonen skal
-kunne utføre sine oppgaver», jf. ordlyden i forslaget § 3.»
-Advokatforeningen uttaler at:
-«Retten til fortrolig juridisk bistand følger av
-Grunnloven § 102 og EMK artikkel 8 og artikkel 6 nr. 1 og nr. 3 bokstav b og c (jf. Rt-20121601 avsnitt 30). I tillegg finnes det yrkesetiske
-regler om fortrolighet i de advokatetiske
-reglene, jf. Regler for god advokatskikk punkt
-2.3, se advokatforskriften kapittel 12. Leger har
-sin forpliktelse i Etiske regler for leger § 4.
-Det er ikke leger og advokater som er
-rettighetssubjekt for disse reglene. Det er pasienter og klienter som har denne grunnlovsmessige rettigheten. For borgernes rett til fortrolig juridisk bistand, har EMD slått fast at
-EMK artikkel 8 gjelder med særlig styrke, jf.
-EMDs dom 6. desember 2012 i sak 12323/11
-Michaud mot Frankrike avsnitt 118 til 119. Se
-for eksempel Prop. 214 L (2020–2021) punkt
-14.1.7 for en overordnet presentasjon og
-drøftelse.
-Slik lovforslaget er utformet legges det opp
-til at det er advokaten som skal vurdere om
-klienten skal beholde rettigheten eller ikke.
-Dette er etter Advokatforeningens syn ikke tilfredsstillende, og vil etter vårt syn åpne for en
-vilkårlighet som harmonerer dårlig med hensynene som skal ivaretas ved fortrolighetsretten til klientene. Det nevnes i denne forbindelse at det som del av proporsjonalitetsvurderingen i EMK artikkel 8 nr. 2 skal legges
-vekt på tilstedeværelsen av prosessuelle rettssikkerhetsmekanismer. Jo mer inngripende
-unntaket fra fortrolighetsretten er, desto større
-krav til slike mekanismer stilles.
-Advokatforeningen vil imidlertid peke på at
-andre regelsett uansett kan være til hinder for
-at de aktuelle opplysningene gis, se ovenfor
-(Regler for god advokatskikk punkt 2.3 og
-Etiske regler for leger § 4, i tillegg til EMK
-
-[Side 61]
-
-2022–2023
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-artikkel 6 og 8). Dette vil avhjelpe faren for vilkårlighet og mangel på rettssikkerhetsmekanismer, slik som nevnt over.
-Det kan reises spørsmål om i hvilken grad
-lovforslaget åpner for at advokater er fritatt fra
-all sin taushetsplikt. Advokaters taushetsplikt
-omfatter nemlig både opplysninger som advokaten har fått tilgang til i forbindelse juridisk
-bistand (såkalt «egentlig advokatvirksomhet»)
-og opplysninger som advokaten har fått tilgang
-til ved annen virksomhet. Når det gjelder opplysninger fra den egentlige advokatvirksomhet, stilles det særlige krav til presisjon i regelverket. Stortinget har i den nye advokatloven
-§ 33 (1) tatt konsekvensene av dette, og lovfestet at «advokater kan dele opplysninger som
-nevnt i straffeprosessloven § 119 første ledd og
-tvisteloven § 22-5 første ledd når dette er
-uttrykkelig fastsatt eller klart forutsatt i lov
-eller i medhold av lov» (ikke i kraft). Se også
-Prop. 214 L (2020–2021) punkt 14.4.7 hvor det
-blant annet heter at «unntak fra taushetsplikt
-om opplysninger som er omfattet av straffeprosessloven § 119 første ledd og tvisteloven
-§ 22-5 første ledd, bør ideelt sett fremgå uttrykkelig av unntaksbestemmelsene i særlovgivningen».
-I høringsnotatet punkt 3.2 om gjeldende
-rett fremholdes det for opplysninger omfattet
-av advokaters sterke taushetsplikt (opplysninger fra juridisk bistand) at «Utlevering av
-slike opplysninger utfordrer retten til å kunne
-søke rettslig bistand fra advokat i fortrolighet,
-og dette anses som særlig inngripende etter
-Den europeiske menneskerettskonvensjon
-4. november 1950 (EMK) artikkel 8. Det stilles
-derfor et strengt krav til klar lovhjemmel, legitimt formål og proporsjonalitet for at inngrepet
-kan aksepteres etter EMK artikkel 8 nr. 2.» Vi
-kan ikke se at høringsnotatet drøfter forholdet
-til EMK artikkel 8 nr. 2 hva gjelder slike opplysninger konkret.
-Etter dette fremstår nedslagsfeltet til det
-foreslåtte unntaket fra taushetsplikt for vidtrekkende.
-Som nevnt ovenfor, legger vi uansett til
-grunn at flere av de relevante yrkesgruppene,
-slik som advokater og leger, på annet rettslig
-grunnlag kan være avskåret fra å gi opplysninger. For ikke å krenke rettighetene som
-disse reglene beskytter, er det er derfor viktig
-at opplysningsadgangen som nå lovhjemles
-ikke etterlater et inntrykk av at de aktuelle opplysninger skal eller bør gis. Dette bør etter vår
-oppfatning komme klart frem av bestemmel-
-
-59
-
-sen. Vi foreslår derfor at § 3 får følgende tillegg, som et nytt annet ledd:
-Det er ingen forklaringsplikt for Ekstremismekommisjonen.»
-
-13.1.3 Departementets vurderinger
-Enkelte høringsinstanser har altså kommet med
-innspill som direkte gjelder forholdet til Grunnloven § 102 og EMK artikkel 8. Enkelte innspill fra
-høringsinstansene til andre deler av høringsforslaget kan også knyttes opp mot vurderingen
-etter Grunnloven § 102 og EMK artikkel 8, særlig
-innspill om kommisjonens informasjonstilgang
-etter lovforslaget § 3.
-D e p a r t e m e n t e t viser til at forslaget om
-å gi kommisjonen adgang til å innhente opplysninger innebærer et inngrep i enkeltindivers rett
-til privatliv, og det må derfor oppfylle de kravene
-som følger av Grunnloven § 102, EMK artikkel 8
-og SP artikkel 17.
-Departementet har vurdert høringsinnspillene
-og fastholder vurderingen i høringsnotatet om at
-lovforslaget ikke er i strid med Grunnloven § 102,
-EMK artikkel 8 eller SP artikkel 17.
-Når det gjelder vilkårene for å kunne tillate
-inngrep i personers rett til privatliv etter Grunnloven og menneskerettighetene, vises det til
-punkt 3.10 og den nærmere avveiningen som er
-gjort i høringsnotatet, omtalt ovenfor i punkt
-13.1.1.
-Departementet bemerker spesielt at lovforslaget inneholder flere bestemmelser som skal
-sikre at inngrepet i privatlivet ikke blir mer omfattende enn nødvendig. Dette gjelder blant annet
-§ 4 om at de som får tilgang til taushetsbelagte
-opplysninger under arbeidet i eller for kommisjonen eller ved senere arbeid i arkivdepot, er
-underlagt like streng taushetsplikt som avgiverorganet. Det vises til punkt 8.3.
-Det er riktig at personopplysninger kan være
-gitt under forutsetning om konfidensialitet, slik
-Legeforeningen er inne på og slik departementet
-også omtalte i høringsnotatet, og at dette er et
-relevant moment i forholdsmessighetsvurderingen. Etter departementets syn kan imidlertid
-ikke dette gjøre at inngrepet generelt blir uforholdsmessig. Det må gjøres en konkret vurdering
-av det konkrete inngrepet i hvert enkelt tilfelle.
-Departementet viser ellers til punkt 13.2.1 når det
-gjelder konfidensialitet og forholdet til Grunnloven § 97 for øvrig.
-Lovforslaget § 3 gjelder også profesjonsbestemt taushetsplikt. Departementet er enig
-med blant annet KS og Advokatforeningen i at det
-
-[Side 62]
-
-60
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-for yrkesgrupper som prester, advokater og helsepersonell, kan foreligge særlige hensyn når det
-gjelder deres taushetsplikt og fortrolighetsplikt.
-Også dette er relevant i avveiningen av om inngrepet vil være forholdsmessig. Departementet
-kan imidlertid ikke se at den ulempen det vil
-kunne innebære for den enkelte at lovforslaget
-åpner for at kommisjonen kan gis tilgang til slike
-opplysninger der det er nødvendig, generelt vil
-veie tyngre i forholdsmessighetsvurderingen enn
-kommisjonens behov for tilgang til opplysningene. Dette vil etter departementets syn gjelde
-både ved vurderingen etter Grunnloven § 102,
-EMK artikkel 8 og SP artikkel 17. Departementet
-viser til at behovet for å innhente opplysninger
-videre må vurderes konkret i hvert enkelt tilfelle
-og være i tråd med Grunnloven § 102, EMK artikkel 8 og SP artikkel 17. Utleveringen skal være
-forholdsmessig i betydningen at inngrepet ikke
-skal gå mer utover hensynene bak retten til privatliv enn hva som er nødvendig for å ivareta formålet. Det har også her betydning at de som får
-tilgang til opplysningene, selv er underlagt den
-samme taushetsplikten som avgiveren og at kommisjonen skal redegjøre for læringspunktene i sin
-utredning på en måte som ivaretar den enkeltes
-personvern. Når det gjelder helsepersonell og
-advokater, vises det for øvrig til vurderingene i
-punkt 7.3.4 ovenfor. Departementet viser i tillegg
-til at lovforslaget § 3 ikke oppstiller noen plikt til å
-gi taushetsbelagte opplysninger til kommisjonen,
-noe som også tydeliggjøres i lovforslaget § 3
-tredje ledd.
-For øvrig vises det til høringsnotatet og
-omtalen ovenfor i punkt 13.1.1. Ut fra dette foreslår departementet at forslaget i høringsnotatet
-videreføres.
-
-13.2 Tilbakevirkende kraft – forholdet
-til Grunnloven § 97
-13.2.1 Omtalen i høringsnotatet
-Om Grunnloven § 97 ble det gitt følgende redegjørelse i høringsnotatet:
-«Lovforslaget legger til rette for at kommisjonen skal få tilgang til taushetsbelagt informasjon som enkeltpersoner kan ha avgitt med en
-forventning om konfidensialitet. Kommisjonen
-vil være underlagt taushetsplikt etter forslaget
-§ 4, og det foreslås i § 6 et forbud mot bruk av
-opplysninger som kommisjonen har mottatt
-som bevis i senere straffesak eller i sivil sak.
-Det eventuelle inngrep som lovforslaget vil
-
-2022–2023
-
-gjøre i den enkeltes forventning om konfidensialitet, fremstår derfor som svært begrenset.
-Departementet viser til Lovavdelingens
-uttalelse 8. juni 2009 (JDLOV-2009-4068), der
-det er gitt en vurdering av forholdet til Grunnloven § 97 ved innføring av opplysningsplikt
-overfor et undersøkelsesutvalg uten hinder av
-taushetsplikt. Uttalelsen er inntatt som vedlegg
-nummer 2 til Innst. O. nr. 132 (2008–2009).
-Departementet mener på denne bakgrunn at
-lovforslaget ikke rammes av tilbakevirkningsforbudet i Grunnloven § 97.»
-
-13.2.2 Høringsinstansenes syn
-Bortsett fra innspillene nevnt under punkt 13.1.2,
-har det ikke kommet inn merknader under
-høringen som spesifikt går inn på Grunnloven
-§ 97.
-13.2.3 Departementets vurderinger
-D e p a r t e m e n t e t legger til grunn den forståelsen av forholdet til Grunnloven § 97 som det ble
-gitt uttrykk for i høringsnotatet.
-
-13.3 Uskyldspresumpsjonen
-13.3.1 Omtalen i høringsnotatet
-Om uskyldspresumpsjonen ble det gitt følgende
-redegjørelse i høringsnotatet:
-«På bakgrunn av at kommisjonens saksutvalg
-ikke er begrenset til saker hvor det foreligger
-fellende dom, vil kommisjonen potensielt
-komme til å få innsyn i, og uttale seg om, saker
-der det foreligger frifinnende dom og potensielt saker som ikke har blitt behandlet for
-domstolene. Dette reiser enkelte problemstillinger som må drøftes i relasjon til uskyldspresumpsjonen, jf. Grunnloven § 96 andre
-ledd, SP artikkel 14 nr. 2 og EMK art. 6 nr. 2.
-Det framgår av kommisjonens mandat at
-kommisjonen skal gjennomgå og vurdere
-alvorlige saker som omhandler ekstremisme.
-Det kan dreie seg om saker der det foreligger
-en rettskraftig straffedom, men dette er ikke et
-krav. Det vil etter departementets syn ikke
-være skyldkonstaterende at kommisjonen
-velger ut en sak for gjennomgang. Det framgår
-eksplisitt av mandatet at kommisjonen ikke
-skal ta stilling til straffansvar eller annet rettslig ansvar i forbindelse med enkeltsaker. Dette
-innebærer at kommisjonen ikke skal uttale seg
-
-[Side 63]
-
-2022–2023
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-skyldkonstaterende i tilfeller hvor det ikke
-foreligger en endelig avgjørelse av skyldspørsmålet, og at kommisjonen ikke skal komme
-med uttalelser som kan så tvil om riktigheten
-av en frifinnende dom. Dette gjelder både for
-utformingen av kommisjonens rapport, men
-også for uttalelser i andre sammenhenger. For
-øvrig har kommisjonen taushetsplikt, hvilket
-begrenser adgangen til å uttale seg om taushetsbelagte opplysninger. Det framgår av mandatet at kommisjonen i sin utredning skal redegjøre for læringspunktene fra saksgjennomgangen, på en måte som ivaretar den enkeltes
-personvern. Det gjelder også der kommisjonen
-omtaler eventuell svikt i tjenesteapparatet eller
-liknende.
-
-61
-
-På denne bakgrunn legger departementet
-til grunn at kommisjonens arbeid vil bli
-gjennomført på en måte som ikke krenker
-uskyldspresumpsjonen, jf. Grunnloven § 96
-andre ledd eller våre menneskerettslige forpliktelser på området.»
-
-13.3.2 Høringsinstansenes syn
-Det har ikke kommet merknader i høringsrunden
-som gjelder uskyldspresumpsjonen.
-13.3.3 Departementets vurderinger
-D e p a r t e m e n t e t legger til grunn den forståelsen det ble gitt uttrykk for i høringsnotatet.
-
-[Side 64]
-
-62
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-2022–2023
-
-14 Økonomiske og administrative konsekvenser
-Lovforslaget vil i liten grad ha økonomiske eller
-administrative konsekvenser. Kostnadene ved
-kommisjonens arbeid dekkes innenfor Arbeidsog inkluderingsdepartementets ordinære budsjettrammer, og reglene om informasjonstilgang
-m.m. vil i seg selv i liten grad påvirke disse kostnadene. Ulike organer og tjenester vil måtte ta
-stilling til forespørsler fra kommisjonen om innsyn i opplysninger og dokumenter. Kommisjonens
-arbeid vil for øvrig trolig medføre en del innsynskrav i oversendte dokumenter og dokumenter
-
-som kommisjonen selv utarbeider, og ellers en del
-spørsmål og henvendelser. Dette vil bli håndtert
-innenfor de vanlige rammene til de organene som
-skal behandle de aktuelle kravene og øvrige henvendelsene, enten dette er kommisjonen selv eller
-andre. Arkivdepoets kostnader knyttet til langtidsoppbevaring og innsynsbehandling de fem første
-årene etter at Ekstremismekommisjonens arkiv er
-avlevert til arkivdepot, skal dekkes over Arbeidsog inkluderingsdepartementets budsjett.
-
-[Side 65]
-
-2022–2023
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-63
-
-15 Merknader til de enkelte paragrafene
-Til § 1
-Bestemmelsen i § 1 fastsetter at formålet med
-loven er å gi Ekstremismekommisjonen tilgang til
-opplysninger som er nødvendig for å få utført
-kommisjonens arbeid i henhold til mandatet, og å
-gi kommisjonen adgang til å behandle disse opplysningene. Departementet viser til de generelle
-merknadene i punkt 6.
-Til § 2
-Etter § 2 gjelder loven også på Svalbard og Jan
-Mayen.
-Til § 3
-Bestemmelsen i § 3 første ledd fastsetter at enhver
-uhindret av taushetsplikt kan gi Ekstremismekommisjonen de opplysningene som er nødvendige for at kommisjonen skal kunne utføre sine
-oppgaver. Kommisjonen består av kommisjonens
-leder, medlemmer og sekretariat.
-Opplysninger som er framkommet ved kommunikasjonskontroll, kan bare utleveres dersom
-de inngår i en rapport eller analyse og de ikke
-inneholder individualiserende kjennetegn. I tillegg er det et krav at opplysningene ikke er
-sperret etter politiregisterloven §§ 50 eller 51.
-Dette følger av § 3 andre ledd.
-Bestemmelsen innebærer ingen plikt til å gi
-opplysninger til kommisjonen. I utgangspunktet
-er det opp til den som innehar opplysningene, om
-vedkommende vil gi kommisjonen tilgang til dem.
-Fritaket fra taushetsplikt gjelder kun så langt
-informasjonen er nødvendig for at kommisjonens
-skal kunne utføre sine oppgaver. I vurderingen av
-nødvendighetskriteriet, må individets interesser
-avveies mot samfunnets interesser, sett i lys av formålet med inngrepet. Når det gjelder inngrep i
-privatlivet, må det vurderes om det foreligger
-tungtveiende samfunnsinteresser som taler for at
-det i en konkret situasjon iverksettes et inngrep.
-De hensynene som taler for et inngrep, og den
-belastningen som borgeren vil bli påført gjennom
-inngrepet, må veies mot hverandre. Vilkåret er at
-
-det må være et rimelig forhold mellom argumentene til støtte for tiltaket og den byrden som individet vil påføres. Dette er en vurdering som må
-gjøres konkret i den enkelte sak. Nødvendighetsvurderingen skal foretas av den som har de aktuelle opplysningene kommisjonen ønsker tilgang
-til, på samme måte som ved andre vurderinger av
-om det skal gis innsyn. Kommisjonen vil i tillegg
-kunne bistå i vurderingen av om nødvendighetskravet er oppfylt. Dersom et dokument er
-utferdiget av et annet organ, kan det også være
-aktuelt å spørre om dette organets vurdering.
-Fritaket fra taushetsplikt gjelder «enhver».
-Dette omfatter blant annet taushetsplikt etter
-forvaltningsloven § 13 og profesjonsbestemt
-taushetsplikt etter helsepersonelloven §§ 21 flg.,
-verdipapirhandelloven § 10-5, finansforetaksloven
-§ 16-2 og eiendomsmeglingsloven § 3-6. Dette
-omfatter også den taushetsplikten som forutsetningsvis følger av straffeloven § 211, straffeprosessloven § 119 og tvisteloven § 22-5.
-Departementet legger til grunn at kommisjonen trolig ikke vil ha behov for å innhente informasjon fra ekomtilbydere. Ekomtilbydere er gjennom ekomloven underlagt en streng profesjonsbestemt taushetsplikt. Dersom det skulle bli aktuelt for kommisjonen å innhente slike opplysninger
-må det vurderes konkret om det er innenfor rammene av ekomloven og EUs kommunikasjonsverndirektiv (2002/58/EF). Se nærmere omtale
-av dette ovenfor i de generelle merknadene i
-punkt 7.3.2.
-§ 3 annet ledd sier at informasjonstilgangen
-etter § 3 første ledd ikke omfatter opplysninger
-som er sperret etter politiregisterloven §§ 50 eller
-51. Slike opplysninger kan dermed ikke utgis til
-kommisjonen.
-§ 3 tredje ledd presiserer at kommisjonen ikke
-kan pålegge noen å gi opplysninger etter første
-ledd. Dette inkluderer også forklaringer for kommisjonen. Dette følger også indirekte av formuleringen i første ledd, men fremheves uttrykkelig av
-pedagogiske grunner i tredje ledd.
-Departementet viser ellers til de generelle
-merknadene i punkt 7.
-
-[Side 66]
-
-64
-
-Prop. 10 L
-Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
-
-Til § 4
-Paragrafen regulerer taushetsplikten til kommisjonen, både kommisjonens medlemmer og
-sekretariat, og taushetsplikten til andre som
-utfører tjeneste eller arbeid for kommisjonen.
-Dette kan for eksempel være en ekstern utreder
-som ikke inngår i det vanlige sekretariatet, men
-også noen som utfører rent praktiske oppgaver
-som levering, transport osv., og som gjennom
-dette blir kjent med taushetsbelagte opplysninger.
-Det følger av første ledd første punktum at forvaltningslovens regler i §§ 13 til 13 g om taushetsplikt gjelder for kommisjonen. Etter første
-ledd andre punktum gjelder likevel ikke forvaltningsloven § 13 b første ledd nr. 6 for kommisjonen og de som utfører arbeid eller tjeneste for
-kommisjonen. Kommisjonen kan derfor ikke gi
-påtalemyndigheten eller kontrollmyndigheter
-opplysninger om lovbrudd ut fra allmenne hensyn. Plikten til å avverge et straffbart forhold,
-som følger av straffeloven § 196, vil imidlertid
-gjelde for medlemmene i kommisjonen og de
-som utfører tjeneste eller arbeid for kommisjonen.
-Etter andre ledd første punktum kan kommisjonen og andre som utfører arbeid eller tjeneste
-for kommisjonen, også få en strengere taushetsplikt enn det som følger av forvaltningslovens
-generelle regler. I tilfeller der kommisjonen eller
-andre som utfører arbeid eller tjeneste for kommisjonen, mottar opplysninger som er underlagt
-strengere regler om taushetsplikt enn det som
-følger av forvaltningsloven, vil den strengere taushetsplikten også gjelde for kommisjonen eller den
-som ellers blir kjent med opplysningene. Dette
-kan for eksempel handle om at taushetsplikten
-omfatter flere opplysninger, at det er en snevrere
-adgang til å dele opplysningene med andre, eller
-at taushetsplikten gjelder for en lengre periode.
-Etter andre ledd andre punktum skal en slik eventuell strengere taushetsplikt også gjelde etter at
-materialet er avlevert til arkivdepot. De som
-utfører arbeid eller tjeneste for arkivdepotet, vil
-dermed ha samme taushetsplikt for slike opplysninger som medlemmene i kommisjonen.
-I tillegg vil også annen taushetsplikt som
-følger av lovverket gjelde, for eksempel taushetsplikten etter sikkerhetsloven § 5-4 annet ledd.
-Bestemmelsen sier at alle som får tilgang til
-sikkerhetsgradert informasjon som ledd i arbeidet eller tjenesten for en virksomhet som omfattes
-av loven, har taushetsplikt om innholdet, samt at
-taushetsplikten gjelder også etter at arbeidet eller
-tjenesten er avsluttet.
-
-2022–2023
-
-Den som krenker taushetsplikten etter § 4,
-kan straffes etter straffeloven §§ 209 og 210.
-Departementet viser for øvrig til de generelle
-merknadene i punkt 8.
-Til § 5
-Paragrafen regulerer kommisjonens behandling
-av personopplysninger. Bakgrunnen for dette er
-at kommisjonen i sitt arbeid vil behandle en rekke
-personopplysninger uten samtykke fra dem opplysningene gjelder.
-Første ledd presiserer at kommisjonen har
-grunnlag til å behandle de personopplysningene
-som er nødvendige for formålet med kommisjonens arbeid, uten samtykke fra dem opplysningene gjelder, og at hjemmelen omfatter særlige
-kategorier av personopplysninger etter personvernforordningen artikkel 9 og personopplysninger om straffedommer og lovovertredelser
-etter forordningen artikkel 10.
-Andre ledd gjør unntak fra den registrertes rett
-til innsyn i personopplysningene om vedkommende etter personvernforordningen artikkel 15.
-Bestemmelsen sier at den registrertes rett til innsyn ikke gjelder så langt det vil «kreve en uforholdsmessig stor innsats å gi innsyn». Kommisjonens forholdsmessighetsvurdering skal være i
-samsvar med det som gjelder for vitenskapelige
-forskningsformål, jf. Prop. 56 LS (2017–2018)
-punkt 38.1 under merknadene til § 17, hvor det
-blant annet uttales at «i forholdsmessighetsvurderingen inngår ikke bare den enkelte innsynsbegjæringen; også den samlede mengden av
-innsynsbegjæringer og potensielle innsynsbegjæringer kan tas i betraktning».
-Bestemmelsen medfører ingen begrensning i
-den registrertes rett til å klage og bruke rettsmidler etter personvernforordningen kapittel 8.
-Klageinstansen ved klage over avslag på innsynskrav etter forordningen artikkel 15 er Datatilsynet.
-Tredje ledd fastslår at kommisjonen er behandlingsansvarlig fram til kommisjonen har avsluttet
-sitt arbeid, og at Arkivverket er behandlingsansvarlig for materiale som avleveres til dem.
-Departementet viser ellers til de generelle
-merknadene i punkt 9.
-Til § 6
-Bestemmelsen i § 6 fastsetter at opplysninger
-som kommisjonen har mottatt i medhold av § 3,
-ikke kan brukes som bevis i en senere straffesak
-eller sivil sak. Bestemmelsen er rettet mot utveks-
+# Taushetsplikt for kommisjonens medlemmer m.m.
+
+## Forslaget i høringsnotatet
+
+Høringsforslaget § 4 inneholdt bestemmelser om Ekstremismekommisjonens taushetsplikt. Det ble gitt følgende redegjørelse i høringsnotatet for forslaget:
+
+«**4.5.1 Innledning**
+
+Departementet foreslår å lovfeste hvilken taushetsplikt som gjelder for kommisjonen og enhver som utfører tjeneste eller arbeid for kommisjonen. Departementets forslag til bestemmelse framgår av lovutkastet § 4.
+
+**4.5.2 Hvilken taushetsplikt som skal gjelde**
+
+Kommisjonen er et offentlig organ. Dette innebærer blant annet at dersom ikke annet er bestemt i eller i medhold av lov, er det de alminnelige reglene om taushetsplikt i forvaltningsloven §§ 13 til 13 f som vil gjelde.
+
+Departementet foreslår at forvaltningslovens regler om taushetsplikt, jf. §§ 13 til 13 f, med noen unntak, skal gjelde for medlemmene av kommisjonen og enhver som utfører tjeneste eller arbeid for kommisjonen.
+
+Departementet foreslår at forvaltningsloven § 13 b første ledd nr. 6 ikke skal gjelde for kommisjonen. Etter denne bestemmelsen er taushetsplikt etter § 13 ikke til hinder for at forvaltningsorganet anmelder eller gir opplysninger om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet, «når det finnes ønskelig av allmenne omsyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver». Det framgår av mandatet at kommisjonen ikke skal ta stilling til straffeansvar eller annet rettslig ansvar i forbindelse med håndteringen. Det siste alternativet i § 13 b første ledd nr. 6, «naturlig sammenheng med avgiverorganets oppgaver», vil derfor trolig ikke være aktuelt for kommisjonen i noe tilfelle. Departementet ser det også lite aktuelt at kommisjonen skulle anmelde eller gi opplysninger om lovbrudd ut fra allmenne hensyn.
+
+Departementet foreslår videre at dersom kommisjonen mottar opplysninger som er underlagt strengere taushetsplikt enn det som følger av forvaltningsloven, skal de strengere reglene gjelde. Dette vil også gjelde strengere regler om adgangen til å formidle opplysninger videre, og om taushetspliktens varighet.
+
+Departementet foreslår at den strengere taushetsplikten også skal gjelde etter at kommisjonens arkivmateriale er avlevert til arkivdepot. De som er ansatt i eller utfører arbeid eller tjeneste for arkivdepotet, vil etter forslaget ha samme taushetsplikt for slike opplysninger som medlemmene i kommisjonen. Den strengere taushetsplikten bør ikke falle bort. Når det gjelder spørsmålet om hvordan det etter avleveringen skal avklares hvilken taushetsplikt som gjelder, antar departementet at det i stor grad vil gå tydelig fram hvem som er avsender av de aktuelle dokumentene, og dermed hvilke avsendere som er underlagt en strengere taushetsplikt. Dette spørsmålet bør ellers avklares så langt som mulig i forbindelse med avleveringen av materialet.
+
+**4.5.3 Taushetspliktens varighet**
+
+Departementet foreslår at taushetsplikten faller bort etter de vanlige reglene i forvaltningsloven og annet regelverk. Det vil si at forvaltningsloven § 13 c tredje ledd annet punktum, som sier at taushetsplikten som hovedregel bortfaller etter 60 år, vil gjelde med mindre lengre taushetsplikt følger av annet regelverk.
+
+Dersom kommisjonen mottar opplysninger som er underlagt strengere taushetsplikt enn det som følger av forvaltningsloven, skal de strengere reglene gjelde. Helsepersonellovens kapittel 5 om helsepersonells taushetsplikt og opplysningsrett innebærer for eksempel ikke at taushetsplikten oppheves etter et visst antall år. Dersom kommisjonen mottar slike opplysninger vil altså taushetsplikten være varig. I barnevernssaker og adopsjonssaker faller taushetsplikten bort etter 100 år, jf. forskrift 15. desember 2006 nr. 1456 (forvaltningslovforskriften) § 10.
+
+Det er også grunn til å påpeke her at Riksarkivaren etter forvaltningslovforskriften § 11, kan forlenge taushetsplikten for opplysninger i saker som befinner seg hos Arkivverket, når hensynet til personvern tilsier det. Dette ble for eksempel gjort for opplysningene i landssvikarkivet. Taushetsplikten ble der forlenget til 70 år.
+
+**4.5.4 Straffansvar for brudd på taushetsplikten**
+
+Den som krenker taushetsplikten som følger av lovforslaget § 4, vil klart omfattes av den objektive gjerningsbeskrivelsen i straffeloven § 209, og kan dermed straffes etter straffeloven §§ 209 og 210. Ut fra dette finner departementet ikke grunn til å ta inn en henvisning til straffeloven i lovforslaget § 4.
+
+Departementet finner det heller ikke tvilsomt at kommisjonsmedlemmene og de som ellers utfører arbeid eller tjeneste for kommisjonen, ikke er omfattet av den personkretsen som kan straffes etter straffeloven § 211.
+
+**4.5.5 Annen bruk av taushetsbelagte opplysninger**
+
+Når det ellers gjelder kommisjonens bruk av taushetsbelagte opplysninger, legger departementet til grunn at taushetsplikten etter lovforslaget § 4 ikke er til hinder for at kommisjonen deler opplysninger med eventuelle eksterne personer som arbeider på oppdrag for kommisjonen, jf. forvaltningsloven § 13 b første ledd nr. 2 og 4.
+
+Informasjon som kommisjonen mottar, skal sikres på betryggende måte slik at bevisverdien og taushetsplikten ivaretas, jf. rundskriv G-48/75 punkt IV. Departementet finner det ikke hensiktsmessig å regulere dette nærmere i loven.»
+
+## Høringsinstansenes syn
+
+*Domstoladministrasjonen* uttaler at taushetsplikten sannsynligvis ville fulgt av andre regler, men mener likevel det er fornuftig at taushetsplikten presiseres i loven. *Helsedirektoratet* støtter forslaget til lov og uttaler at høringsnotatet gir en god drøftelse av sentrale personvernprinsipper og hensyn knyttet til taushetsplikten, og at lovforslaget vil gi en god regulering av spørsmål som har kommet opp i forbindelse med sammenlignbare lovreguleringer.
+
+*Arkivverket* er positive til at det fremgår eksplisitt av lovteksten at de strengere taushetspliktreglene skal gjelde for kommisjonen dersom den mottar opplysninger som er undergitt strengere regler om taushetsplikt enn det som følger av forvaltningsloven. Arkivverket støtter videre at taushetsplikten etter avlevering til arkivdepot er uttrykkelig fastsatt.
+
+*Legeforeningen* mener som nevnt ovenfor i punkt 7.2, at den vanlige profesjonsbestemte taushetsplikten i helse- og omsorgstjenesten bør gjelde overfor kommisjonen, og at en for vid krets kan gis tilgang til sensitive opplysninger gjennom høringsforslaget. Legeforeningen mener i forlengelsen av dette at det er problematisk at det i høringsforslaget legges til grunn at kommisjonens taushetsplikt etter lovforslaget § 4 ikke er til hinder for at kommisjonen deler opplysninger med eventuelle eksterne personer som arbeider på oppdrag for kommisjonen, jf. forvaltningsloven § 13 b første ledd nr. 2 og 4.
+
+*KS* mener forholdet til straffesanksjoner regulert i straffeloven §§ 209 flg. med fordel kan presiseres i lovteksten. *Legeforeningen* mener det er problematisk at utlevering av taushetsbelagte opplysninger til kommisjonen kan innebære et brudd på taushetsplikten og straffansvar. Legeforeningen uttaler at den legger til grunn at det kun vil være de åpenbare tilfellene av unødvendig utlevering, eventuelt for omfattende utlevering som unntaksvis kan rammes. *Politidirektoratet (POD)* ber departementet tydeliggjøre i lovens forarbeider at plikten til å avverge straffbare forhold, jf. straffeloven § 196, vil gjelde for kommisjonen.
+
+Både *POD* og *Politiets sikkerhetstjeneste (PST)* kommer med høringsuttalelser som berører spørsmålet om innsyn etter offentleglova i opplysninger som kommisjonen har innhentet. POD viser til at det forutsettes at politiet kan pålegge kommisjonen taushetsplikt etter politiregisterloven § 35 annet ledd når det utleveres opplysninger etter politiregisterlovens regler. POD uttaler at det praktiske likevel vil være at kommisjonen, ved innsynskrav, avklarer med politiet hvilke opplysninger som ev. er taushetspliktig, i stedet for at politiet må vurdere dette for alle opplysningene i forbindelse med utleveringen. POD uttaler at det bør fremgå av lovproposisjonen at kommisjonen har samme taushetsplikt som politiet og at utvalget skal konsulere politiet ved forespørsler og vurdering av innsyn. *PST* uttaler at det ikke er innsynsrett i saker hos PST etter PSTs regelverk for behandling av opplysninger, jf. politiregisterloven § 66 og at det er egne regler i sikkerhetsloven for innsyn i graderte opplysninger. PST uttaler at det må sikres at de samme reglene gjelder der det bes om innsyn hos kommisjonen.
+
+*Mediebedriftenes landsforening*, *Norsk redaktørforening*, *Norsk journalistlag* og *Norsk presseforbund* uttrykker i en felles uttalelse at det er så stor allmenn interesse i kommisjonens arbeid, at det er viktig at kommisjonen har kapasitet til å håndtere innsynskrav, og at innsyn gis i tråd med offentleglovas krav til saksbehandling. De uttaler at de mener kommisjonen må pålegges å publisere sin journal løpende på Internett, fortrinnsvis på eInnsyn. De er uenig i departementets tolkning av offentleglova § 14 første ledd. Departementet skrev i høringsnotatet at bestemmelsen vil kunne brukes til å unnta nedtegning av eller referater fra muntlige forklaringer som organinterne dokumenter, selv om den som avgir forklaringen får lese gjennom nedtegningen eller referatet hos kommisjonen, eventuelt et annet sted sammen med en representant for kommisjonen. De mener videre at offentleglova § 24 første ledd ikke kan komme til anvendelse for kommisjonens arbeid, og at dette bør fremheves av departementet. De viser i denne sammenheng til Sivilombudets uttalelse 2021/105, som omhandler innsyn i Koronakommisjonens saksdokumenter.
+
+## Departementets vurderinger
+
+### Hvilken taushetsplikt som skal gjelde
+
+Departementet viderefører forslaget i høringsnotatet om taushetsplikt, jf. høringsforslaget § 4, og foreslår i tillegg å inkludere forvaltningsloven § 13 g i lovforslaget § 4 første ledd første punktum.
+
+Departementet viser til at mange av opplysningene kommisjonen vil få tilgang til, trolig må regnes som til dels svært sensitive. I avveiningen mellom allmennhetens interesser i å få innsyn i informasjonen og hensynet til den enkeltes personvern, har det vært avgjørende for departementet å ivareta den enkeltes personvern. Det er også grunn til å tro at en nokså streng taushetsplikt for kommisjonen kan bidra til at den med større sannsynlighet får tilgang til sensitive opplysninger. Ut fra dette opprettholdes forslaget om at den strengere taushetsplikten skal gjelde tilsvarende for kommisjonen, dersom kommisjonen får tilgang til opplysninger som er underlagt strengere taushetsplikt enn det som følger av forvaltningsloven. Ut fra de samme hensyn opprettholdes også forslaget om at den strengere taushetsplikten skal gjelde etter at arkivmateriale er avlevert til arkivdepot for de som er ansatt i eller utfører arbeid eller tjeneste for arkivdepotet.
+
+Departementet opprettholder at kommisjonens taushetsplikt etter lovforslaget § 4 ikke skal være til hinder for at kommisjonen deler opplysninger med eventuelle eksterne personer som arbeider på oppdrag for kommisjonen, jf. forvaltningsloven § 13 b første ledd nr. 2 og 4. Departementet legger vekt på at den strenge taushetsplikten lovforslaget i slike tilfeller pålegger den eksterne.
+
+Kommisjonen og de som utfører tjeneste eller arbeid for kommisjonen vil ha taushetsplikt om sikkerhetsgradert informasjon. Det samme gjelder de som er ansatt i eller utfører tjeneste eller arbeid for arkivdepotet. Dette følger av sikkerhetsloven § 5-4 annet ledd og departementet finner ikke at det er nødvendig å ta inn en henvisning til dette i lovforslaget, eller å ta inn en egen bestemmelse om forholdet til sikkerhetsloven.
+
+### Plikt til å avverge straffbare forhold, opplysningsplikt til barnevernet m.m.
+
+Lovforslaget regulerer kommisjonens taushetsplikt. Andre steder i lovverket finnes det bestemmelser om varsling eller avverging som går foran lovbestemt taushetsplikt. Slike regler vil også gjelde for de som pålegges taushetsplikt gjennom dette lovforslaget. I tråd med innspill fra POD vil departementet understreke at den alminnelige plikten til å avverge et straffbart forhold, som følger av straffeloven § 196, også vil gjelde for medlemmene i kommisjonen og de som utfører tjeneste eller arbeid for kommisjonen. Avvergeplikten gjelder uten hensyn til taushetsplikt og vil dermed ha forrang, jf. strl. § 196 første ledd annet punktum. Videre gjelder plikten som følger av straffeloven § 226, til å varsle om opplysninger som godtgjør at en uskyldig person er tiltalt eller dømt. Departementet vil også nevne at opplysningsplikten til barnevernet etter barnevernloven § 6-4 første ledd vil gjelde.
+
+### Taushetspliktens varighet
+
+Det har ikke kommet innvendinger fra høringsinstansene når det gjelder taushetspliktens varighet, og departementet opprettholder høringsforslaget slik at taushetsplikten faller bort etter de vanlige reglene i forvaltningsloven eller annet regelverk. Dersom kommisjonen mottar opplysninger som er underlagt strengere taushetsplikt enn det som følger av forvaltningsloven skal de strengere reglene gjelde også når det gjelder taushetspliktens varighet. Som påpekt i høringsnotatet og i Arkivverkets høringsuttalelse, kan også Riksarkivaren forlenge taushetsplikten for opplysninger i saker som befinner seg hos Arkivverket når hensyn til personvern tilsier det, jf. forvaltningsforskriften § 11.
+
+### Straffansvar for brudd på taushetsplikten
+
+Den som krenker taushetsplikten som følger av lovforslaget § 4, vil klart omfattes av den objektive gjerningsbeskrivelsen i straffeloven § 209, og kan dermed straffes etter straffeloven §§ 209 og 210. Ut fra dette finner departementet ikke grunn til å ta inn en henvisning til straffeloven i lovforslaget § 4, og opprettholder derfor høringsforslaget også på dette punktet.
+
+Etter straffeloven § 211 kan visse yrkesgrupper (prester i Den norske kirke, prester eller forstandere i registrerte trossamfunn, advokater, forsvarere i straffesaker, meklingsmenn i ekteskapssaker, og disses hjelpere) straffes dersom de «uberettiget røper eller unnlater å hindre at andre får adgang eller kjennskap til hemmeligheter som er betrodd dem eller deres foresatte i anledning av stillingen eller oppdraget». Kommisjonsmedlemmene og de som ellers utfører arbeid eller tjeneste for kommisjonen, er i utgangspunktet ikke omfattet av denne personkretsen, og de mottar dessuten opplysninger i kraft av sitt verv knyttet til kommisjonen, ikke i anledning sin vanlige stilling. Det kan imidlertid tenkes at utvalgsmedlemmet biskop Alvsvåg også kan motta opplysninger på bakgrunn av sitt yrke, for eksempel i form av særskilte betroelser, og det samme kan gjelde eventuelle advokater, andre prester osv. som gjør tjeneste for kommisjonen. I utgangspunktet vil da straffeloven § 211 gjelde på vanlig måte, men adgangen til å gi kommisjonen opplysninger etter den foreslåtte § 3 må etter departementets vurdering også gjelde for kommisjonsmedlemmer og andre som gjør tjeneste for kommisjonen. Straffansvar etter straffeloven § 211 vil dermed ikke være aktuelt. Departementet legger til grunn at det er svært lite sannsynlig at en slik problemstilling vil oppstå i praksis og viser også til at det ikke foreligger noen forklaringsplikt for kommisjonen. Det foreslås ut fra dette ikke å ta inn noen henvisning til straffeloven § 211 i lovforslaget.
+
+### Presentasjon av materiale og innsyn etter offentleglova
+
+Når det gjelder kommisjonens presentasjon av de mottatte opplysningene, legger departementet til grunn at dette vil bli håndtert på forsvarlig måte. Kommisjonens skal ivareta sin taushetsplikt, blant annet kommisjonens taushetsplikt når det gjelder sikkerhetsgradert informasjon. Kommisjonen vil kunne se hen til tidligere utredninger fra andre utvalg og kommisjoner. Den kan også rådføre seg med PST og andre relevante instanser som har avgitt informasjon.
+
+Kommisjonen skal ikke uttale seg skyldkonstaterende i tilfeller hvor det ikke foreligger en endelig avgjørelse av skyldspørsmålet, eller komme med uttalelser som kan så tvil om riktigheten av en frifinnende dom. Dette gjelder både for utformingen av kommisjonens rapport, men også for uttalelser i andre sammenhenger. For øvrig har kommisjonen taushetsplikt, hvilket begrenser adgangen til å uttale seg om taushetsbelagte opplysninger. Det framgår av mandatet at kommisjonen i sin utredning skal redegjøre for læringspunktene fra saksgjennomgangen, på en måte som ivaretar den enkeltes personvern. Det gjelder også der kommisjonen omtaler eventuell svikt i tjenesteapparatet eller liknende.
+
+Departementet kan ikke se at det er behov for å fastsette særskilte regler i denne loven om unntak fra innsyn for personsensitive opplysninger. Personsensitive opplysninger vil i all hovedsak være taushetsbelagte etter forvaltningsloven § 13 første ledd nr. 1 og dermed unntatt fra innsyn, jf. offentleglova § 13 første ledd. For øvrig vil flere regler i offentleglova om unntak fra innsyn kunne være aktuelle.
+
+Departementet kan heller ikke se at det er behov for å fastsette særskilte regler i denne loven om unntak fra innsyn i dokumenter utlevert fra politiet. Der politiet gir kommisjonen opplysninger som er undergitt strengere regler om taushetsplikt enn det som følger av forvaltningsloven, skal disse strengere reglene etter lovforslaget også gjelde for kommisjonen og de som utfører arbeid eller tjeneste for kommisjonen, jf. forslaget til § 4 andre ledd. Departementet viser til at det forutsettes en utlevering av opplysninger etter politiregisterloven til kommisjonen og at politiet da også har adgang til å pålegge taushetsplikt når organet mottar opplysninger, jf. politiregisterloven § 35 andre ledd. Opplysninger underlagt taushetsplikt i lov eller i medhold av lov er unntatt fra innsyn, jf. offentleglova § 13 første ledd, og slik informasjon skal dermed unntas fra innsyn. Selve pålegget om taushetsplikt må imidlertid etter departementets syn skje ved utleveringen av opplysningene. Departementet slutter seg altså ikke til PODs uttalelse på dette punktet. Kommisjonen bør i alle tilfeller i tråd med god forvaltningsskikk, innhente politiets eller påtalemyndighetens syn før kommisjonen beslutter om det skal gis innsyn etter offentleglova i opplysninger innhentet fra politi eller påtalemyndighet.
+
+Sikkerhetsgradert informasjon er underlagt taushetsplikt jf. sikkerhetsloven § 5-4 andre ledd, dersom den er gyldig gradert. Det skal dermed gjøres unntak fra innsyn etter offentleglova § 13 første ledd for slik informasjon. Svært ofte vil informasjonen hos PST være gradert eller underlagt taushetsplikt av andre årsaker, og det skal dermed gjøres unntak fra innsyn etter offentleglova § 13. Ved spørsmål om omgradering av opplysninger kommisjonen har mottatt, vil det være virksomheten som har utstedt informasjonen som avgjør en eventuell omgradering, jf. forskrift 20. desember 2018 nr. 2053 om virksomheters arbeid med forebyggende sikkerhet (virksomhetsikkerhetsforskriften) § 31, eventuelt en overordnet virksomhet, det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet innenfor sektoren, eller Nasjonal sikkerhetsmyndighet. Departementet viser videre til at det også kan gjøres unntak fra innsyn i dokument som gjelder saker hos PST og fra innsyn i journaler hos PST, jf. offentlegforskrifta § 9 tredje ledd. Unntaket gjelder hele dokumenter og journaler. Det kan også være aktuelt å gjøre unntak for opplysninger etter offentleglova § 21, dersom dette er «påkravd» av hensyn til nasjonale sikkerhetshensyn eller forsvaret av landet.
+
+Når det gjelder forståelsen av hva som er et organinternt dokument etter offentleglova § 14 første ledd, opprettholder departementet sin forståelse slik dette ble redegjort for i høringsnotatet og i punkt 3.4 ovenfor.
+
+Departementet foreslår ikke å pålegge kommisjonen en plikt til å publisere sin journal løpende på Internett, slik Mediebedriftenes landsforening mfl. ønsker. Dette spørsmålet er ikke i dag regulert i lovverket, men departementet viser til at offentlegforskrifta § 6 som er vedtatt, men ikke er trådt i kraft, omhandler tilgjengeliggjøring av journaler på Internett. Offentlige utvalg og kommisjoner omfattes ikke av plikten til å gjøre journalen tilgjengelig for allmennheten på internett, jf. forskriften § 6 første ledd. Etter § 6 annet ledd er enkelte organer ikke i noe tilfelle omfattet av plikten til å gjøre journalen sin tilgjengelig på Internett. Kommisjonen har en del til felles med noen av organene som er tatt inn i § 6 annet ledd, siden kommisjonen vil komme til å innhente svært sensitiv informasjon. Dette taler mot at kommisjonen pålegges å gjøre journalen sin tilgjengelig på Internett.
+
+Departementet legger til grunn at kommisjonens samlede arbeid ikke kan anses som et «kontroll- og reguleringstiltak» i offentleglova § 24 første ledd sin forstand, og at kommisjonen dermed ikke generelt kan unnta sine dokumenter med hjemmel i denne bestemmelsen. Det kan imidlertid tenkes at bestemmelsen i enkelte tilfeller kan komme til anvendelse, avhengig av det enkelte dokuments innhold, for eksempel dersom kommisjonen har innhentet opplysninger som omhandler offentlige kontroll- og reguleringstiltak.
+
+### Behandling av klager etter offentleglova
+
+Departementet foreslår dessuten å fastsette i lovforslaget § 7 hvem som er klageinstans ved klager på avgjørelser etter offentleglova som gjelder innsyn i kommisjonens arkiv. Etter forslaget skal klageinstansen være det departementet som behandlet saken om oppnevningen av kommisjonen, og dermed er kommisjonens administrativt overordnede organ. Så lenge kommisjonen er virksom, følger dette også av gjeldende rett, jf. offentlegforskrifta § 11 første ledd. Departementet foreslår videre at det samme departementet også skal være klageinstans for avgjørelser etter offentleglova som gjelder kommisjonens arkiv etter at arkivet er overlevert til arkivdepot. Det er dette departementet som vil kjenne saksområdet best og generelt ha de beste forutsetningene for å vurdere klagesaker vedrørende innsyn i materialet. Forslaget har også sammenheng med forslaget omtalt i punkt 11 om at kommisjonen skal avlevere sitt arkiv direkte til arkivdepot, og ikke overføre arkivet til departementet, slik utvalg og kommisjoner vanligvis gjør. Hvis ikke et klageorgan ble utpekt i lovforslaget ville utgangspunktet ha vært at arkivdepotets overordnede organ, i dag Kultur- og likestilingsdepartementet, ble klageinstans etter at arkivet var avlevert. Dette ville i større grad medføre behov for bistand ved behandlingen av klagesakene og kunne påføre dette departementet urimelige belastninger med behandling av klagesaker.
+
+Ut fra dette foreslår departementet at det fastsettes i loven at departementet er klageinstans for kommisjonens avgjørelser etter offentleglova og for avgjørelser som gjelder kommisjonens arkiv etter at arkivet er avlevert til arkivdepot. Dette skal være det departementet som har ansvaret for det området som kommisjonens virksomhet omfattes av. Se forslaget til § 7 i lovforslaget.
+
+# Behandling av personopplysninger
+
+## Forslaget i høringsnotatet
+
+Høringsforslaget § 5 første ledd innholdet en bestemmelse om kommisjonens grunnlag for behandling av personopplysninger. Høringsforslaget § 5 andre ledd inneholdt en bestemmelse som gjør unntak fra innsynsretten i personvernforordningen artikkel 15. I høringsnotatet ble det gitt følgende redegjørelse for forslaget:
+
+**«4.6.1 Innledning**
+
+For at Ekstremismekommisjonen skal kunne behandle personopplysninger som er nødvendige for formålet med kommisjonens arbeid, uten samtykke fra dem opplysningene gjelder, foreslår departementet en egen bestemmelse om behandling av personopplysninger.
+
+Departementets forslag til bestemmelse framgår av lovutkastet § 5.
+
+**4.6.2 Lovhjemmel for behandling av personopplysninger**
+
+Lovforslaget vil innebære at kommisjonen vil kunne innhente personopplysninger og ofte særlig sårbare kategorier av personopplysninger og personopplysninger om straffedommer og lovovertredelser. Fordi verken samtykke eller anonymisering anses som tilstrekkelig grunnlag for kommisjonens innhenting av personopplysninger, jf. \[høringsnotatet\] punkt 4.1 ovenfor, er det nødvendig med en uttrykkelig lovhjemmel for behandling av personopplysninger, herunder særlige kategorier av personopplysninger og personopplysninger om straffedommer og lovovertredelser.
+
+Departementet viser til at formålet med kommisjonens saksgjennomgang og øvrige arbeid er å belyse hvordan radikalising og ekstremisme oppstår og å trekke lærdom med sikte på å forbedre det norske samfunnets evne til å forebygge radikalisering og ekstremisme. Forebygging av radikalisering og ekstremisme er viktig for å ivareta den nasjonale sikkerhet og den offentlige tryggheten. Det er videre viktig for å forebygge kriminalitet, og for å beskytte andres rettigheter og friheter. Å forebygge radikalisering og ekstremisme er altså avgjørende for å ivareta svært viktige samfunnshensyn. Departementet finner derfor at selv om kommisjonens behandling av personopplysninger kan være inngripende, er samfunnsnytten av behandlingen så stor at den begrunner dette.
+
+Departementet foreslår derfor at kommisjonen skal kunne behandle personopplysninger som er nødvendige for formålet med kommisjonens arbeid, uten samtykke fra dem opplysningene gjelder. Dette gjelder etter forslaget også personopplysninger som nevnt i personvernforordningen artikkel 9 og artikkel 10. Departementet legger til grunn at den foreslåtte bestemmelsen i lovforslaget § 5 gir grunnlag for behandling av personopplysninger, og at denne hjemmelen også omfatter særlige kategorier av personopplysninger etter personvernforordningen artikkel 9 og personopplysninger om straffedommer og lovovertredelser etter samme forordning artikkel 10.
+
+Departementet vurderer at behandling av særlige kategorier av personopplysninger er forholdsmessig sett opp mot samfunnsnytten av kommisjonens arbeid. De tiltakene som er foreslått fastsatt i loven – begrensning av tilgang til opplysninger hva gjelder innhold, personkrets og tid, kassering av dokumenter som ikke er arkivverdig og forbud mot bruk av informasjonen i senere rettssaker – er tilstrekkelige for å verne den registrertes grunnleggende rettigheter og interesser. Videre viser departementet til at andre lignende utvalg har vurdert å ha grunnlag for å behandle særlige kategorier av personopplysninger etter artikkel 9 nr. 2 bokstav g, alternativt den langt på vei tilsvarende bestemmelsen i personopplysningsloven 2000 § 9 tredje ledd. For eksempel fikk 22. juli-kommisjonen konsesjon fra Datatilsynet til å behandle særlige kategorier av personopplysninger etter personopplysningsloven 2000 § 9 tredje ledd, jf. NOU 2012: 14 side 40.
+
+Kommisjonen skal løpende vurdere om de personopplysningene som til enhver tid behandles, er nødvendige for å gjennomføre oppgavene i kommisjonens mandat. Departementet viser her til personvernforordningen artikkel 5 nr. 1 bokstav c og e. Etter bokstav c om dataminimering skal behandling av personopplysninger være adekvate, relevante og begrenset til det som er nødvendig for formålene de behandles for. Etter bokstav e skal opplysningene ikke lagres lenger enn det som er nødvendig for formålet.
+
+**4.6.3 Kommisjonen vil selv være behandlingsansvarlig**
+
+Departementet legger til grunn at kommisjonen selv vil være behandlingsansvarlig etter personvernforordningen artikkel 4 nr. 7, siden kommisjonen vil gjennomføre sitt arbeid uavhengig av Statsministerens kontor, Arbeids- og inkluderingsdepartementet og andre organer. Som behandlingsansvarlig skal kommisjonen etter personvernforordningen artikkel 24 nr. 1 gjennomføre egnede tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med forordningen. Den skal også foreta en vurdering av personvernkonsekvenser etter personvernforordningen artikkel 35 i den grad denne bestemmelsen kommer til anvendelse.
+
+Kommisjonen opphører å være behandlingsansvarlig når kommisjonens arbeid er avsluttet. Når kommisjonen avslutter sitt arbeid, skal den avlevere arkivet til arkivdepot. Arkivverket vil være behandlingsansvarlig for arkivmateriale som avleveres til dem.
+
+**4.6.4 Unntak fra rett til innsyn**
+
+Det følger av personvernforordningen artikkel 23 nr. 1 bokstav e at nasjonal rett kan begrense rettighetene til den registrerte når en slik begrensning overholder det vesentligste innholdet i de grunnleggende rettighetene og frihetene, og er et nødvendig og forholdsmessig tiltak i et demokratisk samfunn for å sikre «viktige mål av generell allmenn interesse».
+
+Det foreslås derfor, med grunnlag i personvernforordningen artikkel 23 nr. 1 bokstav e, et unntak fra den registrertes rett til innsyn i personopplysningene om vedkommende etter personvernforordningen artikkel 15. På bakgrunn av at kommisjonens arbeid skal foregå innenfor en tidsavgrenset periode, er departementets vurdering at det ikke er hensiktsmessig dersom en for stor del av kommisjonens arbeidstid går med til å behandle innsynskrav. Departementet foreslår derfor at denne innsynsretten ikke skal gjelde dersom det vil kreve en uforholdsmessig stor innsats å gi innsyn. Det vises til at tilsvarende unntak gjelder ved behandling av personopplysninger for vitenskapelige forskningsformål.
+
+Bestemmelsen, som foreslås tatt inn i § 5 andre ledd, innebærer at den registrertes rett til innsyn ikke gjelder «så langt det vil kreve en uforholdsmessig stor innsats å gi innsyn». Formuleringen «så langt» er vesentlig for at begrensningen i innsynsretten skal være i tråd med forholdsmessighetskravet i personvernforordningen artikkel 23. Forholdsmessighetsvurderingen skal være i samsvar med det som gjelder for vitenskapelige forskningsformål etter personopplysningsloven § 17, jf. Prop. 56 LS (2017–2018) side 217–218:
+
+«Det kan bare gjøres unntak i den utstrekning innsyn er uforholdsmessig. Det må derfor foretas en konkret vurdering av de ulike typene informasjon som omfattes av artikkel 15. Det kan for eksempel kreve en uforholdsmessig innsats å gi en kopi av personopplysningene som behandles, jf. artikkel 15 nr. 3, men ikke å gi slik generell informasjon som er nevnt i artikkel 15 nr. 1 og 2. Da vil det foreligge innsynsrett etter artikkel 15 nr. 1 og 2, men ikke etter nr. 3. I forholdsmessighetsvurderingen inngår ikke bare den enkelte innsynsbegjæringen; også den samlede mengden av innsynsbegjæringer og potensielle innsynsbegjæringer kan tas i betraktning.»
+
+Når det gjelder muligheten for å få overprøvd et eventuelt avslag på innsynskrav, viser departementet til at det er mulig å klage til Datatilsynet. Siden Datatilsynet er den alminnelige klageinstansen for klager over avslag på slike innsynskrav, finner departementet ikke grunn til å fastsette dette uttrykkelig i loven her.
+
+**4.6.5 Informasjonsplikt etter personvernforordningen**
+
+Det foreslås ikke å ta inn en bestemmelse i loven om informasjonsplikt etter personvernforordningen. Departementet legger til grunn at unntakene fra denne plikten etter forordningen artikkel 14 nr. 5 bokstav b og c i stor grad vil gjelde for kommisjonens virksomhet, og i den grad det vil gjenstå noen informasjonsplikt, følger denne av forordningen, som etter personopplysningsloven § 1 er norsk lov. Om og i hvilken grad det vil foreligge noen informasjonsplikt, vil måtte avgjøres ut fra hvilke opplysninger kommisjonen faktisk får tilgang til, og departementet har ikke forutsetninger for å si noe nærmere om dette.»
+
+## Høringsinstansenes syn
+
+*Domstoladministrasjonen* er enig i at kommisjonens arbeid krever et tilstrekkelig og klart behandlingsgrunnlag etter personvernlovgivningen, og uttaler at departementets forslag er tilstrekkelig og hensiktsmessig på dette punktet, og at forslaget for øvrig gir en hensiktsmessig regulering av forholdet til personvernlovgivningens regler om behandlingsansvar, den registrertes rettigheter med videre.
+
+*Datatilsynet* uttrykker forståelse for at Ekstremismekommisjonen må ha tilgang til taushetsbelagte personopplysninger for å få utført sitt oppdrag, herunder særlige kategorier av personopplysninger etter personvernforordningen artikkel 9 og opplysninger om straffbare forhold og lovovertredelser, jf. artikkel 10. Datatilsynet støtter departementets vurdering av at kravene til en klar og tydelig hjemmel for inngrepet tilsier at kommisjonens adgang til å innhente informasjon må reguleres i egen lov. Datatilsynet støtter videre at nødvendighetskravet framgår eksplisitt av lovforslaget § 5 og uttaler:
+
+«Ekstremismekommisjonens tilgang til informasjon vil være begrenset til opplysninger som er nødvendige for arbeidet. Departementet angir at nødvendighetsvurderingen må gjøres av organet som avgir opplysningene, og slik vil det i praksis måtte være. Det kan likevel være vanskelig for avgiverorganet å gjøre en reell avgrensning av informasjonen.
+
+Som departementet påpeker, har også kommisjonen som behandlingsansvarlig et selvstendig og fortløpende ansvar for å tilse at kravet om nødvendighet er oppfylt, jf. prinsippet om dataminimering i personvernforordningen artikkel 5 nr. 1 bokstav c. Vi ser positivt på at dette fremgår eksplisitt av lovforslagets § 5. Det er viktig at kommisjonens medlemmer har et bevisst forhold til nødvendighetskriteriet, ettersom de selv velger hvilke saker som er relevante for deres arbeid.»
+
+Også *Legeforeningen* og *Oslo kommune* trekker fram kravene til dataminimering og at det er viktig at kommisjonen har et bevisst forhold til nødvendighetskriteriet. Oslo kommune ønsker en nærmere og grundigere redegjørelse av hvilke personvernkonsekvenser slik tilgang til taushetsbelagte opplysninger vil kunne medføre for den berørte registrerte. Oslo kommune skriver at kommisjonen må foreta en personvernkonsekvensvurdering før de starter behandlingen av personopplysningene i sitt arbeid og ønsker også at departementet fremhever dette.
+
+*Datatilsynet* mener det er et godt pedagogisk grep at tiltak som verner den registrertes rettigheter og interesser, er tatt inn i lovforslaget. Datatilsynet uttaler om dette:
+
+«Behandling av særlige kategorier av helseopplysninger, for eksempel helseopplysninger og opplysninger om etnisk bakgrunn, er som utgangspunkt forbudt, jf. personvernforordningen artikkel 9 nr. 1. Et av unntakene i artikkel 9 nr. 2 må gjøre seg gjeldende for at behandlingen skal være lovlig.
+
+Det relevante unntaket i artikkel 9 nr. 2 bokstav g tillater behandling av særlige kategorier av personopplysninger når det «er nødvendig av hensyn til viktige allmenne interesser, på grunnlag av (…) medlemsstatenes nasjonale rett som skal stå i et rimelig forhold til det mål som søkes oppnådd, være forenlig med det grunnleggende innholdet i retten til vern av personopplysninger og sikre egnede og særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser».
+
+Bestemmelsen stiller altså uttrykkelige krav til at det skal foreligge tiltak (garantier) ved behandling av særlige kategorier av personopplysninger. Slik vi leser forarbeidene til bestemmelsen, går de langt i å anbefale at det utformes spesifikke regler i det nasjonale regelverket om særlige og egnede tiltak/garantier der dette er mulig. Eksempler på egnede og særlige tiltak kan være begrensninger i lagringstid, tilgangsstyring, regler om arkivering, bruk av pseudonyme opplysninger der dette er mulig m.m.
+
+Departementet har tatt inn flere slike tiltak/garantier i lovforslaget. Tilgangen til opplysningene er begrenset til kommisjonens medlemmer (eller oppdragstakere), og den gjelder kun så lenge kommisjonen består. Det fremgår uttrykkelig av lovforslaget at det skal gjøres vurderinger av nødvendigheten av opplysningene, at ikke-arkivverdig materiale skal kasseres og at det er forbud mot bruk av opplysningene i en senere straffesak. Det er også eksplisitt stadfestet at den strengere taushetsplikten som eventuelt gjelder vil følge opplysningene også når det er levert til arkivdepot.
+
+Dette er i stor grad uttrykk for allerede gjeldende regler, men vi mener det er et godt pedagogisk grep å ta bestemmelsene direkte inn i loven.»
+
+Datatilsynet uttaler at tilsynet ser at det kan være en hensiktsmessig løsning at Ekstremismekommisjonen selv er behandlingsansvarlig etter personvernregelverket. Datatilsynet ber departementet ta stilling til hvem som skal være behandlingsansvarlig etter at kommisjonen opphører å eksistere. *Utlendingsdirektoratet (UDI) og Kripos* mener det bør framgå eksplisitt av loven at Ekstremismekommisjonen selv skal være behandlingsansvarlig etter personvernforordningen artikkel 4 nr. 7. UDI mener videre at det også bør framgå eksplisitt av loven at kommisjonen opphører å være behandlingsansvarlig når kommisjonens arbeid er avsluttet og at Arkivverket vil være behandlingsansvarlig for materiale som avleveres til dem.
+
+*KS* ønsker en fyldigere begrunnelse for hvorfor det i høringsforslag § 5 andre ledd gjøres unntak fra personvernforordningens artikkel 15. Organisasjonen uttaler blant annet:
+
+«Dette gjelder særlig siden innsyn fremstår som et naturlig motstykke både til at taushetsplikt er foreslått satt til side og at behandlingen av personopplysninger foreslås å kunne skje uten samtykke fra dem opplysningene gjelder. Det bemerkes her at det kan tenkes tilfeller hvor det ikke er forholdsmessig å foreta behandling av personopplysninger uten samtykke. Selv om samme unntak ble gjort for eksempelvis koronakommisjonen, er det ikke tilstrekkelig begrunnelse i seg selv. Ekstremismekommisjonens arbeid er mer vidtgående og kan berøre svært sensitiv informasjon.»
+
+*Politidirektoratet (POD)* og *Kripos* uttaler at opplysninger som er taushetsbelagte etter politiregisterloven § 23 andre ledd vil være unntatt fra retten til innsyn etter personvernforordningen, jf. personopplysningsloven § 16 første ledd bokstav d. POD og Kripos uttaler at politiet må kontaktes for en vurdering av om opplysningene er omfattet av unntaket, ved behandling av begjæring om innsyn i eventuelle opplysninger som er utlevert fra politiet.
+
+Videre understreker POD og Kripos at dersom kommisjonen behandler begjæringer om innsyn i opplysninger utlevert fra politiets registre, må den behandlingsansvarlige for registeret få anledning til å gi føringer for hvilke opplysninger den registrerte kan få innsyn i. De viser til at Kripos er behandlingsansvarlig for 18 av de sentrale politiregistrene.
+
+*Politiets sikkerhetstjeneste (PST)* viser til at lovforslaget legger opp til at det kan bes om innsyn i kommisjonens materiale og at Datatilsynet vil være klageinstans. PST uttaler at det ikke er innsynsrett i saker hos PST etter PSTs regelverk for behandling av opplysninger, jf. politiregisterloven § 66. I tillegg er det egne regler i sikkerhetsloven for innsyn i graderte opplysninger. PST uttaler at det må sikres at de samme reglene gjelder der det bes om innsyn hos kommisjonen.
+
+## Departementets vurderinger
+
+### Innledning
+
+Departementet foreslår at forslaget i høringsnotatet videreføres, og at det også tilføyes tredje ledd i lovforslaget § 5 om hvem som er behandlingsansvarlig.
+
+### Hjemmel for behandling av personopplysninger
+
+Departementet legger til grunn at § 5 første ledd i lovforslaget gir grunnlag for behandling av personopplysninger, og at denne hjemmelen også omfatter særlige kategorier av personopplysninger etter personvernforordningen artikkel 9 og personopplysninger om straffedommer og lovovertredelser etter samme forordning artikkel 10. Departementet vurderer at behandling av særlige kategorier av personopplysninger er forholdsmessig sett opp mot samfunnsnytten av kommisjonens arbeid. De tiltakene som er foreslått fastsatt i loven – begrensning av tilgang til opplysninger hva gjelder innhold, personkrets og tid, kassering av dokumenter som ikke er arkivverdig og forbud mot bruk av informasjonen i senere rettssaker og tilsynssaker – er tilstrekkelige for å verne den registrertes grunnleggende rettigheter og interesser. Departementet er videre enig med Datatilsynet og Legeforeningen i viktigheten av at kommisjonen som behandlingsansvarlig selv tar ansvar for at de personopplysningene kommisjonen behandler, er adekvate, relevante og begrenset til det som er nødvendig for formålene de behandles for, jf. personvernforordningen artikkel 5 nr. 1 bokstav c. Det vises videre til vurderingen i høringsnotatet inntatt i punkt 9.1 ovenfor. Ut fra dette opprettholdes forslaget fra høringsnotatet.
+
+Departementet opprettholder at det ikke tas inn en bestemmelse i loven om informasjonsplikt etter personvernforordningen. Det vises til vurderingene i høringsnotatet inntatt i punkt 9.1 ovenfor.
+
+Departementet opprettholder sitt syn i høringsforslaget om at Ekstremismekommisjonen selv vil være behandlingsansvarlig etter personvernforordningen artikkel 4 nr. 7, at kommisjonen opphører å være behandlingsansvarlig når kommisjonens arbeid er avsluttet, og at Arkivverket vil være behandlingsansvarlig for arkivmateriale som avleveres til dem. Departementet er enig i høringsinnspill blant annet fra UDI, om at det bør fremgå eksplisitt av loven hvem som er behandlingsansvarlig. Departementet foreslår derfor at dette framgår av lovforslaget § 5 tredje ledd.
+
+### Kommisjonen må foreta en personvernkonsekvensvurdering
+
+Departementet legger til grunn at kommisjonen før den behandler personopplysninger skal foreta en vurdering av personvernkonsekvenser, jf. personvernforordningen artikkel 35. Departementet viser til at artikkel 35 nr. 7 oppstiller minimumskrav til hva vurderingen skal inneholde.
+
+### Særlig om den registrertes rett til innsyn
+
+Utgangspunktet etter personvernforordningen artikkel 15 er at den registrerte har rett til å få den behandlingsansvarliges bekreftelse på om personopplysninger om vedkommende behandles, og dersom dette er tilfellet, innsyn i personopplysningene. Det finnes imidlertid unntak fra dette. Departementet viser til at det følger av personopplysningsloven § 16 at retten til informasjon og innsyn etter personvernforordningen artikkel 13, 14 og 15 ikke omfatter opplysninger som
+
+1.  er av betydning for Norges utenrikspolitiske interesser eller nasjonale forsvars- og sikkerhetsinteresser, når den behandlingsansvarlige kan unnta opplysningene etter offentleglova §§ 20 eller 21
+
+<!-- -->
+
+7.  det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølgning av straffbare handlinger
+
+8.  det må anses utilrådelig at den registrerte får kjennskap til av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær
+
+9.  i lov eller med hjemmel i lov er underlagt taushetsplikt
+
+10. utelukkende finnes i tekst som er utarbeidet for intern saksforberedelse, og som heller ikke er utlevert til andre, så langt det er nødvendig å nekte innsyn for å sikre forsvarlige interne avgjørelsesprosesser
+
+11. det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om
+
+Alle disse unntakene vil i praksis kunne være aktuelle for kommisjonen, dersom registrerte ber kommisjonen om innsyn. Personopplysningsloven § 17 har også regler om unntak fra den registrertes rettigheter ved behandling av personopplysninger for arkivformål i allmennhetens interesse, vitenskapelige eller historiske forskningsformål og statistiske formål.
+
+Sikkerhetsgradert informasjon er underlagt taushetsplikt jf. sikkerhetsloven § 5-4 andre ledd, dersom den er gyldig gradert, og det vil ikke være innsynsrett i slike opplysninger.
+
+Departementet viser til høringsuttalelsen fra POD og Kripos knyttet til politiregisterloven § 23 annet ledd. Bestemmelsen gjelder taushetsplikten til de som er ansatt i eller utfører tjeneste eller arbeid for politiet eller påtalemyndigheten og gir strengere regler om taushetsplikt enn det som følger av forvaltningsloven. Der politiet gir kommisjonen opplysninger som er undergitt strengere regler om taushetsplikt enn det som følger av forvaltningsloven, skal disse strengere reglene etter lovforslaget gjelde for kommisjonen og de som utfører arbeid eller tjeneste for kommisjonen, jf. lovforslaget § 4 andre ledd. Spørsmålet om å nekte den registrerte innsyn med hjemmel i personopplysningsloven § 16 første ledd bokstav d må da vurderes ut fra denne strengere taushetsplikten. Dersom politiet har pålagt kommisjonen taushetsplikt om utleverte opplysninger, jf. politiregisterloven § 35, kan den registrerte også nektes innsyn med hjemmel i personopplysningsloven § 16 første ledd bokstav d. De andre unntakene i § 16 første ledd kan også etter en konkret vurdering kunne komme til anvendelse.
+
+Departementet vil understreke det forhold som også er nevnt ovenfor under punkt 5.3 om hvilke saker kommisjonen skal se på. Etter politiregisterloven § 54 tredje ledd gis det en begrunnelse som ikke tilkjennegir at det foreligger en registrering, dersom den registrerte ber om innsyn i egne personopplysninger og får avslag. Den samme muligheten vil ikke foreligge for kommisjonen der kommisjonen får krav om innsyn fra den registrerte. Kommisjonen vil måtte vise til hvilken hjemmel som foreligger for avslag etter personopplysningsregelverket, og dermed tilkjennegi det dersom kommisjonen behandler personopplysninger om den som ber om innsyn. Politiet må derfor før de utleverer opplysninger til kommisjonen ta dette i betraktning.
+
+Kommisjonen bør vurdere å innhente politiet eller påtalemyndighetens syn før kommisjonen beslutter om den registrerte skal gis innsyn i opplysninger innhentet fra politiet eller påtalemyndigheten. Det er imidlertid kommisjonen som tar den endelige beslutningen. Departementet foreslår imidlertid ikke å fastsette en konsultasjonsplikt i loven. Det sentrale vil i alle tilfelle være om opplysningene er av en slik karakter at det er grunn til å vurdere nærmere om det er behov og grunnlag for unntak fra innsynsretten etter personopplysningsloven §§ 16 eller 17. Det bør vurderes ut fra de konkrete opplysningene og omstendighetene for øvrig om en skal kontakte politiet eller påtalemyndigheten for å få innspill på dette. Det samme gjelder etter avlevering til arkivdepot.
+
+Departementet viser til PSTs høringsuttalelse om at det ikke er innsynsrett i saker hos PST jf. politiregisterloven § 66, at det er egne regler i sikkerhetsloven om innsyn i graderte dokumenter, og at det må sørges for at de samme reglene gjelder der det bes om innsyn hos kommisjonen. For kommisjonen vil det være personopplysningsloven og personvernforordningens regler som er avgjørende i tillegg til de spesielle reglene i dette lovforslaget. Departementet legger til grunn at politiregisterlovens § 66 om innsyn, ikke kan gis tilsvarende anvendelse for kommisjonen, men at PSTs interesser kan ivaretas gjennom at sikkerhetsgraderte opplysninger og andre opplysninger som er underlagt taushetsplikt i lov eller med hjemmel i lov kan unntas fra innsyn, jf. personopplysningsloven § 16 første ledd bokstav d. Departementet viser til at PST kan pålegge kommisjonen taushetsplikt ved utleveringen, jf. politiregisterloven § 35. Videre kan også de andre unntakene i personopplysningsloven etter en konkret vurdering kunne komme til anvendelse.
+
+### Unntak fra rett til innsyn etter personvernforordningen § 15 dersom det krever en uforholdsmessig stor innsats å gi innsyn
+
+Departementet opprettholder også forslaget til § 5 andre ledd, som innebærer et unntak fra den registrertes rett til innsyn i personopplysningene om vedkommende etter personvernforordningen artikkel 15 dersom det kreves uforholdsmessig stor innsats å gi innsyn. Det vises her til vurderingen i høringsnotatet inntatt i punkt 9.1 ovenfor. Departementet vil framheve at dette unntaket fra innsynsretten kun gjelder «dersom det vil kreve en uforholdsmessig stor innsats å gi innsyn». Dette innebærer at den registrerte fortsatt har rett til innsyn i opplysninger om vedkommende selv etter personvernforordningen artikkel 15 dersom det ikke krever en uforholdsmessig stor innsatts å gi vedkommende innsyn. Videre skal kommisjonens arkivmateriale avleveres til Arkivverket når kommisjonen har avsluttet sitt arbeid, jf. lovforslaget § 8 første ledd, og den registrerte kan da be om innsyn overfor Arkivverket, som er ny behandlingsansvarlig. Personopplysningsloven § 17 kan imidlertid gi hjemmel for begrensinger i retten til innsyn også etter avlevering til arkivdepot. Når det gjelder muligheten for å få overprøvd et eventuelt avslag på innsynskrav etter lovforslaget § 5 andre ledd, viser departementet til at det er mulig å klage til Datatilsynet. Siden Datatilsynet er den alminnelige klageinstansen for klager over avslag på slike innsynskrav, opprettholder departementet at det ikke er grunn til å fastsette dette uttrykkelig i lovforslaget.

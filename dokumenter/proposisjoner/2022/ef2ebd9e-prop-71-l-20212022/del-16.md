@@ -1,970 +1,520 @@
-# Prop. 71 L (2021–2022), del 16 av 24 (side 164–174)
+# Prop. 71 L (2021–2022), del 16 av 23
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/ef2ebd9e-prop-71-l-20212022.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-71-l-20212022/id2905998/
 - Original-PDF: https://www.regjeringen.no/contentassets/479b9006cd88495fa6c0564883b7dfda/no/pdfs/prp202120220071000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 164]
+2\. Artikkel 18 nr. 1 får tilsvarende anvendelse på de personer som er nevnt i nr. 1, når de oppholder seg i medlemsstaten der den kompetente institusjon ligger som har ansvar for utgifter til naturalytelser til pensjonisten i hans/hennes bostedsstat, og nevnte medlemsstat har valgt dette og er oppført i vedlegg IV.
 
-162
+3\. Artikkel 20 får tilsvarende anvendelse på en pensjonist og/eller medlemmer av hans/hennes familie som oppholder seg i en annen medlemsstat enn bostedsstaten for å få hensiktsmessig behandling for sin tilstand.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+4\. Med mindre det er fastsatt noe annet i nr. 5, skal utgiftene til naturalytelser nevnt i nr. 1–3 dekkes av den kompetente institusjon som har ansvar for utgifter til naturalytelser til pensjonisten i hans/hennes bostedsstat.
 
-rende ytelser til far, bør medlemmer i trygdeordningen og deres familiemedlemmer som
-bor eller oppholder seg i en annen medlemsstat enn den kompetente medlemsstat, gis
-beskyttelse.
-21) Bestemmelsene om ytelser ved sykdom og
-ytelser til mor ved svangerskap og fødsel og
-tilsvarende ytelser til far, er utarbeidet i lys av
-Domstolens rettspraksis. Bestemmelsene om
-forhåndstillatelse er blitt bedre ved at de tar
-hensyn til Domstolens avgjørelser på området.
-22) Den spesielle situasjonen for pensjonister og
-personer som fremmer krav om pensjon, og
-medlemmer av deres familie, gjør det nødvendig med bestemmelser om syketrygd som er
-tilpasset denne situasjonen.
-23) Fordi det er forskjeller mellom de ulike nasjonale ordningene, bør medlemsstatene om
-mulig fastsette at medlemmer av grensearbeideres familie kan få medisinsk behandling i
-medlemsstaten der grensearbeideren utøver
-sin aktivitet.
-24) Det må fastsettes særlige bestemmelser for å
-hindre sammenfall av natural- og kontantytelser ved sykdom når de er av samme art som
-de ytelser som er omhandlet i dommene
-avsagt av Domstolen i sak C-215/99 Jauch og i
-sak C-160/96 Molenaar, forutsatt at ytelsene
-dekker samme risiko.
-25) Med hensyn til ytelser ved yrkesskader og
-yrkessykdommer bør det, for å kunne gi
-beskyttelse, fastsettes bestemmelser som
-regulerer situasjonen for personer som bor
-eller oppholder seg i en annen medlemsstat
-enn den kompetente medlemsstat.
-26) Når det gjelder ytelser ved uførhet, bør det
-utarbeides et system for koordinering som
-respekterer særtrekkene i nasjonal lovgivning,
-særlig med hensyn til anerkjennelse av uførhet og forverret uførhet.
-27) Det må utarbeides en ordning for tilståelse av
-ytelser ved alder og ytelser til etterlatte når
-den berørte personen har vært undergitt en
-eller flere medlemsstaters lovgivning.
-28) Det er nødvendig å fastsette pensjonsbeløpet
-som er beregnet etter metoden med sammenlegging av tid og pro rata-beregning, og som er
-sikret ved fellesskapsretten, når anvendelsen
-av nasjonal lovgivning, herunder regler om
-reduksjon, midlertidig stans eller bortfall av
-ytelser, er mindre gunstig enn ovennevnte
-metode.
-29) For å beskytte vandrearbeidere og deres etterlatte mot en altfor streng anvendelse av nasjonale regler om reduksjon, midlertidig stans
+5\. Utgiftene til naturalytelser nevnt i nr. 3 skal dekkes av institusjonen på bostedet til pensjonisten eller til medlemmene av hans/hennes familie, dersom de er bosatt i en medlemsstat som har valgt refusjon på grunnlag av faste beløp. I så fall skal institusjonen på bostedet til pensjonisten eller til medlemmene av hans/hennes familie ved anvendelse av nr. 3 anses som den kompetente institusjon.
 
-2021–2022
-
-eller bortfall av ytelser, må det tas inn bestemmelser som setter klare grenser for anvendelsen av disse reglene.
-30) Som Domstolen gjentatte ganger har fastslått,
-anses Rådet ikke berettiget til å vedta regler
-som pålegger begrensninger ved sammenfall
-av to eller flere pensjoner som er opptjent i
-ulike medlemsstater, gjennom å redusere pensjonsbeløpet som utelukkende er opptjent i
-henhold til nasjonal lovgivning.
-31) Ifølge Domstolen er det nasjonal lovgiver som
-skal vedta slike regler, og det er opp til fellesskapslovgiveren å fastsette grensene for
-anvendelsen av nasjonale bestemmelser om
-reduksjon, midlertidig stans eller bortfall.
-32) For å fremme arbeidstakernes mobilitet er det
-særlig på sin plass å gjøre det enklere å søke
-arbeid i de ulike medlemsstater. Det er derfor
-nødvendig å sikre en tettere og mer effektiv
-koordinering mellom ordningene for arbeidsløshetstrygd og arbeidsformidlingene i alle
-medlemsstater.
-33) Lovfestede ordninger for tidligpensjonering
-må inngå som del av denne forordnings virkeområde for å sikre likebehandling og mulighet
-for eksport av ytelser ved tidligpensjonering
-samt tilståelse av familieytelser og helseytelser
-for den berørte personen, i samsvar med
-bestemmelsene i denne forordning. Regelen
-om sammenlegging av tid bør imidlertid ikke
-tas inn, ettersom svært få medlemsstater har
-lovfestede ordninger for tidligpensjonering.
-34) Ettersom familieytelser dekker et svært bredt
-felt og gir beskyttelse både i såkalt klassiske
-situasjoner og i mer spesifikke situasjoner, og
-den sistnevnte typen er omhandlet i dommer
-avsagt av Domstolen i de forente sakene C245/94 og C-312/94 Hoever og Zachow samt i
-sak C-275/96 Kuusijärvi, er det nødvendig å
-regulere alle slike ytelser.
-35) For å unngå uberettiget sammenfall av ytelser
-må det fastsettes prioriteringsregler ved sammenfall av rett til familieytelser etter lovgivningen i den kompetente medlemsstat og etter
-lovgivningen i familiemedlemmenes bostedsstat.
-36) Bidragsforskudd er forskudd på underholdsbidrag som kan kreves tilbakebetalt, og som
-skal kompensere for at en forelder unnlater å
-oppfylle sin lovfestede plikt til å betale underhold for sitt eget barn, som er en plikt utledet
-av familieretten. Slike forskudd bør derfor
-ikke anses som en direkte ytelse som inngår i
-den samlede støtten til familien. Koordine-
-
-[Side 165]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-ringsreglene bør på denne bakgrunn ikke få
-anvendelse på slike underholdsbidrag.
-37) Som Domstolen gjentatte ganger har uttalt, må
-bestemmelser som fraviker prinsippet om at
-trygdeytelser kan eksporteres, gis en streng
-fortolkning. Dette innebærer at de får anvendelse bare på ytelser som oppfyller nærmere
-angitte vilkår. Det følger av dette at avdeling
-III kapittel 9 i denne forordning får anvendelse
-bare på ytelser som er både særytelser og
-ikke-avgiftsbaserte ytelser, og som er oppført i
-vedlegg X til denne forordning.
-38) Det må opprettes en administrativ kommisjon
-bestående av én regjeringsrepresentant for
-hver medlemsstat, som særlig har til oppgave
-å behandle alle administrative spørsmål eller
-fortolkningsspørsmål som oppstår i forbindelse med bestemmelsene i denne forordning,
-og å fremme det videre samarbeidet mellom
-medlemsstatene.
-39) Det har vist seg at utviklingen og bruken av
-databehandlingstjenester for informasjonsutveksling krever at det opprettes en teknisk
-komité under Den administrative kommisjons
-ledelse, med et særlig ansvar for databehandling.
-40) Bruken av databehandlingstjenester til utveksling av data mellom institusjonene krever
-bestemmelser som sikrer at dokumenter som
-utveksles eller leveres elektronisk, godtas som
-likeverdige med papirversjoner. Slik utveksling skal skje i samsvar med fellesskapsbestemmelsene om beskyttelse av fysiske personer i forbindelse med behandling og fri utveksling av personopplysninger.
-41) For å gjøre det lettere å anvende koordineringsreglene må det fastsettes særlige bestemmelser tilpasset særtrekkene i de nasjonale
-lovgivninger.
-42) I tråd med forholdsmessighetsprinsippet og i
-samsvar med forutsetningen for å utvide
-denne forordning til å omfatte alle borgere i
-Den europeiske union, og for å finne en løsning som tar hensyn til enhver begrensning
-som kan være forbundet med særtrekk i ordninger basert på bosted, er det ansett som
-hensiktsmessig med et særlig unntak for Danmark ved å tilføye punktet «DANMARK» i vedlegg XI, som er begrenset til rett til sosialpensjon utelukkende for den nye kategorien av
-ikke-yrkesaktive personer som nå omfattes av
-denne forordning, ut fra særtrekkene i den
-danske ordningen og ut fra det faktum at disse
-pensjonene kan eksporteres etter ti års botid i
-
-163
-
-henhold til gjeldende dansk lovgivning (pensjonsloven).
-43) I tråd med prinsippet om likebehandling er det
-ansett som hensiktsmessig med et særlig unntak for Finland ved å tilføye punktet «FINLAND» i vedlegg XI, som er begrenset til
-bostedsbaserte nasjonale pensjoner, ut fra
-særtrekkene i finsk trygdelovgivning, som har
-som mål å sikre at den nasjonale pensjonen
-ikke kan være lavere enn den nasjonale pensjonen som ville blitt resultatet dersom all
-trygdetid tilbakelagt i en hvilken som helst
-medlemsstat, var tilbakelagt i Finland.
-44) Det må innføres en ny forordning for å oppheve forordning (EØF) nr. 1408/71. Forordning (EØF) nr. 1408/71 må imidlertid av hensyn til rettssikkerheten forbli i kraft og fortsatt
-ha rettsvirkning med hensyn til enkelte av Fellesskapets rettsakter og avtaler der Fellesskapet er part.
-45) Ettersom målet for det foreslåtte tiltak, som er
-koordineringstiltak for å sikre at retten til fri
-bevegelighet for personer kan utøves på en
-effektiv måte, ikke kan nås i tilstrekkelig grad
-av medlemsstatene og derfor på grunn av tiltakets omfang og virkninger bedre kan nås på
-fellesskapsplan, kan Fellesskapet treffe tiltak i
-samsvar med nærhetsprinsippet som fastsatt i
-traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel
-går denne forordning ikke lenger enn det som
-er nødvendig for å nå dette målet –
-VEDTATT DENNE FORORDNING:
-Avdeling I
-Alminnelige bestemmelser
-Artikkel 1
-Definisjoner
-I denne forordning menes med:
-a) «lønnet arbeid» enhver aktivitet eller tilsvarende beskjeftigelse som betraktes som lønnet
-arbeid etter trygdelovgivningen i medlemsstaten der denne aktivitet eller tilsvarende
-beskjeftigelse finner sted,
-b) «selvstendig virksomhet» enhver aktivitet eller
-tilsvarende beskjeftigelse som betraktes som
-selvstendig virksomhet etter trygdelovgivningen i medlemsstaten der denne aktivitet eller
-tilsvarende beskjeftigelse finner sted,
-c) «medlem i trygdeordningen», i forbindelse
-med de deler av trygdesystemet som omfattes
-av avdeling III kapittel 1 og 3, en person som
-
-[Side 166]
-
-164
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-oppfyller vilkårene for rett til ytelser etter lovgivningen i den kompetente medlemsstat i
-henhold til avdeling II, idet det tas hensyn til
-bestemmelsene i denne forordning,
-d) «tjenestemann» en person som anses som tjenestemann eller er sidestilt med tjenestemenn
-av medlemsstaten som forvaltningen han/hun
-er ansatt i, er underlagt,
-e) «særordning for tjenestemenn» en trygdeordning som skiller seg fra den generelle trygdeordningen for arbeidstakere i den berørte
-medlemsstat, og som alle eller bestemte kategorier av tjenestemenn er direkte underlagt,
-f) «grensearbeider» en person som utfører lønnet arbeid eller driver selvstendig virksomhet i
-en medlemsstat og er bosatt i en annen medlemsstat, som han/hun som regel reiser tilbake til daglig eller minst en gang i uken,
-g) «flyktning» en person som definert i artikkel 1
-i konvensjonen om flyktningers stilling, undertegnet i Genève 28. juli 1951,
-h) «statsløs» en person som definert i artikkel 1 i
-konvensjonen om statsløses stilling, undertegnet i New York 28. september 1954,
-i) «familiemedlem»
-1. i) en person som defineres eller anerkjennes som familiemedlem eller betegnes
-som husholdningsmedlem etter lovgivningen som ligger til grunn for ytelsene,
-ii) med hensyn til naturalytelser i henhold
-til avdeling III kapittel 1 om ytelser ved
-sykdom og ytelser til mor ved svangerskap og fødsel og tilsvarende ytelser til
-far, en person som defineres eller anerkjennes som familiemedlem eller betegnes som husholdningsmedlem etter
-bostedsstatens lovgivning,
-2. dersom den lovgivning som får anvendelse
-i henhold til nr. 1, ikke skiller mellom familiemedlemmer og andre som lovgivningen
-gjelder for, skal ektefelle, mindreårige barn
-og forsørgede barn som har nådd myndighetsalder, anses som familiemedlemmer,
-3. dersom en person, etter lovgivningen som
-får anvendelse i henhold til nr. 1 og 2, anses
-som et familiemedlem eller et husholdningsmedlem bare dersom han/hun bor
-sammen med den som er medlem i trygdeordningen eller er pensjonist, skal dette vilkåret anses oppfylt dersom han/hun i
-hovedsak forsørges av medlemmet i trygdeordningen eller pensjonisten,
-j) «bosted» stedet der en person til vanlig er
-bosatt,
-k) «opphold» midlertidig opphold,
-
-2021–2022
-
-l) «lovgivning», for hver enkelt medlemsstat,
-lover, forskrifter og andre lovbestemmelser
-samt alle andre gjennomføringstiltak knyttet til
-de deler av trygdesystemet som omfattes av
-artikkel 3 nr. 1.
-Denne termen omfatter ikke andre avtalebestemmelser enn dem som skal oppfylle en
-forsikringsplikt etter de lover og forskrifter
-som er nevnt i foregående ledd, eller som ved
-offentlige myndigheters vedtak er blitt obligatoriske eller har fått utvidet sitt virkeområde,
-forutsatt at den berørte medlemsstat avgir en
-erklæring om dette som meddeles Europaparlamentets president og formannen for Rådet
-for Den europeiske union. Erklæringen skal
-kunngjøres i Den europeiske unions tidende,
-m) «kompetent myndighet», for hver enkelt medlemsstat, den eller de statsråder eller annen tilsvarende myndighet som har ansvar for trygdeordninger i hele eller deler av den berørte
-medlemsstat,
-n) «Den administrative kommisjon» den kommisjon som er omhandlet i artikkel 71,
-o) «gjennomføringsforordning» den forordning
-som er omhandlet i artikkel 89,
-p) «institusjon» for hver enkelt medlemsstat, det
-organ eller den myndighet som har ansvar for
-anvendelsen av hele eller deler av lovgivningen,
-q) «kompetent institusjon»
-i) institusjonen der den berørte personen har
-trygdedekning på det tidspunkt han/hun
-søker om en ytelse,
-eller
-ii) institusjonen der den berørte personen har
-rett til ytelser eller ville hatt rett til ytelser
-dersom han/hun eller ett eller flere medlemmer av hans/hennes familie var bosatt i
-medlemsstaten der institusjonen ligger,
-eller
-iii) institusjonen som er utpekt av den kompetente myndighet i den berørte medlemsstat,
-eller
-iv) dersom det gjelder en ordning som angår
-arbeidsgivers plikter med hensyn til
-ytelsene angitt i artikkel 3 nr. 1, enten
-arbeidsgiveren eller den berørte assurandør, eller om en slik ikke finnes, det organ
-eller den myndighet som er utpekt av den
-kompetente myndighet i den berørte medlemsstat,
-r) «institusjonen på bostedet» og «institusjonen
-på oppholdsstedet» henholdsvis den institusjon som er ansvarlig for å gi ytelser på stedet
-
-[Side 167]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-der den berørte personen er bosatt, og den
-institusjon som er ansvarlig for å gi ytelser på
-stedet der den berørte personen oppholder
-seg, i samsvar med den lovgivning institusjonen anvender, eller dersom en slik institusjon
-ikke finnes, den institusjon som er utpekt av
-den kompetente myndighet i den berørte medlemsstat,
-s) «kompetent medlemsstat» medlemsstaten der
-den kompetente institusjon ligger,
-t) «trygdetid» tid med avgiftsinnbetaling, med
-lønnet arbeid eller med selvstendig virksomhet definert eller anerkjent som trygdetid etter
-lovgivningen den er tilbakelagt eller anses
-som tilbakelagt under, og all tid som sidestilles
-med slik tid, når den etter nevnte lovgivning
-anses som sidestilt med trygdetid,
-u) «tid med lønnet arbeid» eller «tid med selvstendig virksomhet» tid definert eller anerkjent som slik tid etter lovgivningen den er tilbakelagt under, og all tid som sidestilles med
-slik tid, når den etter nevnte lovgivning anses
-som sidestilt med tid med lønnet arbeid eller
-tid med selvstendig virksomhet,
-v) «botid» tid definert eller anerkjent som botid
-etter lovgivningen den er tilbakelagt eller
-anses som tilbakelagt under,
-va) Med «naturalytelser» menes
-i) ved anvendelse av avdeling III kapittel 1
-(ytelser ved sykdom og ytelser til mor ved
-svangerskap og fødsel, og de tilsvarende
-ytelser til far), naturalytelser i henhold til en
-medlemsstats lovgivning med sikte på å
-levere, gjøre tilgjengelig, betale direkte
-eller refundere utgifter til legehjelp og legemidler samt tjenester knyttet til legehjelpen. Dette omfatter naturalytelser ved langvarig pleie,
-ii) ved anvendelse av avdeling III kapittel 2
-(yrkesskader og yrkessykdommer), alle
-naturalytelser knyttet til yrkesskader og
-yrkessykdommer som definert under i)
-ovenfor og i henhold til medlemsstatenes
-ordninger for yrkesskader og yrkessykdommer.
-w) «pensjon» ikke bare pensjoner, men også
-engangsytelser som kan utbetales i stedet for
-pensjoner, utbetalinger i form av refusjon av
-innbetalte avgifter og, med forbehold for
-bestemmelsene i avdeling III, forhøyelser
-gjennom reguleringer eller tilleggsbidrag,
-x) «ytelse ved tidligpensjonering» alle kontantytelser, bortsett fra ytelser ved arbeidsløshet
-eller førtidige ytelser ved alder, som fra en
-bestemt alder gis til arbeidstakere som har
-
-165
-
-redusert, eller på permanent eller midlertidig
-basis innstilt, sin yrkesaktivitet, fram til tidspunktet da de har rett til alderspensjon eller
-førtidspensjon, og som ikke forutsetter at den
-berørte personen registreres som arbeidssøker i den kompetente stat. Med «førtidig ytelse
-ved alder» menes en ytelse som gis før vanlig
-pensjonsalder, og som enten utbetales også
-etter denne alder, eller erstattes med en annen
-ytelse ved alder,
-y) «gravferdshjelp» engangsutbetaling ved dødsfall, unntatt engangsytelser som omhandlet i
-bokstav w),
-z) «familieytelse» alle naturalytelser eller kontantytelser til dekning av familieutgifter, unntatt
-bidragsforskudd og særlige stønader ved fødsel og adopsjon nevnt i vedlegg I.
-Artikkel 2
-Personer som omfattes
-1. Denne forordning får anvendelse på statsborgere i en medlemsstat, på statsløse personer
-og flyktninger som er bosatt i en medlemsstat
-og som er eller har vært undergitt en eller
-flere medlemsstaters lovgivning, og på deres
-familiemedlemmer og etterlatte.
-2. Den skal også få anvendelse på etterlatte etter
-personer som har vært undergitt en eller flere
-medlemsstaters lovgivning, uansett nasjonalitet, når de etterlatte er statsborgere i en medlemsstat eller statsløse eller flyktninger bosatt
-i en medlemsstat.
-Artikkel 3
-Områder som omfattes
-1. Denne forordning får anvendelse på all lovgivning om følgende deler av trygdesystemet:
-a) ytelser ved sykdom,
-b) ytelser til mor ved svangerskap og fødsel og
-tilsvarende ytelser til far,
-c) ytelser ved uførhet,
-d) ytelser ved alder,
-e) ytelser til etterlatte,
-f) ytelser ved yrkesskade og yrkessykdom,
-g) gravferdshjelp,
-h) ytelser ved arbeidsløshet,
-i) ytelser ved tidligpensjonering,
-j) familieytelser.
-2. Med mindre det er fastsatt noe annet i vedlegg
-XI, får denne forordning anvendelse på generelle og særlige trygdeordninger, enten de er
-avgiftsbaserte eller ikke, og på ordninger knyttet til arbeidsgivers eller skipsreders plikter.
-
-[Side 168]
-
-166
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-3. Denne forordning får også anvendelse på særlige, ikke-avgiftsbaserte kontantytelser som
-omfattes av artikkel 70.
-4. Bestemmelsene i avdeling III i denne forordning skal imidlertid ikke berøre en medlemsstats lovbestemmelser om en skipsreders plikter.
-5. Denne forordning får ikke anvendelse på
-a) sosialhjelp og medisinsk hjelp, eller
-b) ytelser der en medlemsstat påtar seg ansvaret for personskader og gir erstatning, for
-eksempel ytelser til ofre for krig og militære aksjoner eller følger av slike; ofre for
-forbrytelser, attentater eller terrorhandlinger; ofre for skade forvoldt av en medlemsstats tjenestemenn under deres tjenesteutøvelse; eller ofre som er påført skade av
-politiske eller religiøse grunner eller på
-grunn av sin avstamning.
-Artikkel 4
-Likebehandling
-Med mindre det er fastsatt noe annet i denne forordning, skal personer som omfattes av denne forordning, ha de samme rettigheter og plikter etter
-en medlemsstats lovgivning som denne medlemsstats borgere.
-Artikkel 5
-Likebehandling med hensyn til ytelser,
-inntekter, faktiske forhold eller hendelser
-Med mindre det er bestemt noe annet i denne forordning, og på bakgrunn av de særlige gjennomføringsbestemmelser som er fastsatt, får følgende
-anvendelse:
-a) når mottak av trygdeytelser og andre inntekter har visse rettsvirkninger etter den kompetente medlemsstats lovgivning, skal de relevante bestemmelser i denne lovgivning også få
-anvendelse på mottak av tilsvarende ytelser
-etter en annen medlemsstats lovgivning eller
-på inntekter i en annen medlemsstat,
-b) når visse faktiske forhold eller hendelser gir
-rettsvirkninger etter den kompetente medlemsstats lovgivning, skal denne medlemsstat
-ta hensyn til tilsvarende faktiske forhold eller
-hendelser som inntreffer i en annen medlemsstat, som om de hadde funnet sted på dens
-eget territorium.
-
-2021–2022
-
-Artikkel 6
-Sammenlegging av tid
-Med mindre det er fastsatt noe annet i denne forordning, skal den kompetente institusjon i en
-medlemsstat hvis lovgivning setter tilbakelagt
-trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som et vilkår for
-– å oppnå, beholde eller få tilbake rett til ytelser,
-eller for at denne rettighet skal ha en viss varighet,
-– å få lovfestet trygdedekning,
-eller
-– å få adgang til eller fritak for pliktig trygd, frivillig trygd eller frivillig fortsatt trygd,
-i den utstrekning det er nødvendig ta hensyn til
-trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som er tilbakelagt etter
-en annen medlemsstats lovgivning, som om dette
-var tid tilbakelagt etter lovgivningen den anvender.
-Artikkel 7
-Opphevelse av bostedskrav
-Med mindre det er fastsatt noe annet i denne forordning, skal kontantytelser som utbetales etter
-en eller flere medlemsstaters lovgivning eller etter
-denne forordning, ikke reduseres, endres, midlertidig stanses, bortfalle eller beslaglegges som
-følge av at mottakeren eller medlemmer av hans/
-hennes familie er bosatt i en annen medlemsstat
-enn medlemsstaten der institusjonen som har
-ansvar for å gi ytelsene, ligger.
-Artikkel 8
-Forholdet mellom denne forordning og andre
-koordineringsinstrumenter
-1. Innenfor sitt virkeområde skal denne forordning erstatte enhver trygdeavtale som gjelder
-mellom medlemsstatene. Visse bestemmelser
-i trygdeavtaler som medlemsstatene har inngått før datoen for anvendelse av denne forordning, får imidlertid fortsatt anvendelse, forutsatt at de er gunstigere for mottakerne eller
-skyldes konkrete historiske omstendigheter
-og har tidsbegrenset virkning. For at disse
-bestemmelsene fortsatt skal få anvendelse,
-skal de oppføres i vedlegg II. Dersom enkelte
-av disse bestemmelsene av objektive grunner
-ikke kan utvides til å gjelde alle personer som
-omfattes av denne forordning, skal dette oppgis.
-
-[Side 169]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-2. To eller flere medlemsstater kan, dersom det
-er behov for det, inngå avtaler med hverandre
-basert på prinsippene i denne forordning og i
-tråd med dens intensjoner.
-Artikkel 9
-Erklæringer fra medlemsstatene om denne
-forordnings virkeområde
-1. Medlemsstatene skal underrette Europakommisjonen skriftlig om erklæringer som nevnt i
-artikkel 1 bokstav l), lovgivning og ordninger
-som nevnt i artikkel 3, inngåtte avtaler som
-nevnt i artikkel 8 nr. 2, minsteytelser som
-nevnt i artikkel 58 og manglende trygdeordning som nevnt i artikkel 65a nr. 1 samt om
-vesentlige endringer. I underretningen skal
-det opplyses om hvilken dato denne forordning får anvendelse på de ordninger som er
-oppført i medlemsstatenes erklæringer.
-2. Meldingene skal hvert år legges fram for
-Europakommisjonen og offentliggjøres i den
-grad det er nødvendig.
-Artikkel 10
-Hindring av sammenfall av ytelser
-Med mindre det er angitt noe annet, skal denne
-forordning verken gi eller opprettholde en rett til
-flere ytelser av samme art for ett og samme tidsrom med pliktig trygd.
-Avdeling II
-Fastsettelse av hvilken lovgivning som får
-anvendelse
-Artikkel 11
-Generelle regler
-1. Personer som omfattes av denne forordning,
-skal være undergitt lovgivningen i bare én
-medlemsstat. Gjeldende lovgivning skal fastsettes i samsvar med bestemmelsene i denne
-avdeling.
-2. I denne avdeling skal personer som mottar
-kontantytelser som følge av å ha utført lønnet
-arbeid eller drevet selvstendig virksomhet,
-anses å utøve en slik aktivitet. Dette får ikke
-anvendelse på uføre-, alders- eller etterlattepensjoner eller pensjoner i forbindelse med
-yrkesskader eller yrkessykdommer, eller på
-kontantytelser ved sykdom som dekker
-behandling i et ubegrenset tidsrom.
-3. Med forbehold for artikkel 12–16
-
-167
-
-a) skal en person som utfører lønnet arbeid
-eller driver selvstendig virksomhet i en
-medlemsstat, være undergitt denne medlemsstats lovgivning,
-b) skal en tjenestemann være undergitt lovgivningen i medlemsstaten som forvaltningen
-han/hun er ansatt i, er underlagt,
-c) skal en person som i samsvar med artikkel
-65 mottar ytelser ved arbeidsløshet etter
-bostedsstatens lovgivning, være undergitt
-den medlemsstatens lovgivning,
-d) skal en person som er innkalt eller gjeninnkalt til militærtjeneste eller sivilarbeidertjeneste i en medlemsstat, være undergitt den
-medlemsstatens lovgivning,
-e) skal enhver annen person som ikke omfattes av bokstav a)–d), være undergitt
-bostedsstatens lovgivning, uten at det berører andre bestemmelser i denne forordning
-som sikrer ham/henne ytelser etter en eller
-flere andre medlemsstaters lovgivning.
-4. I denne avdeling skal lønnet arbeid eller selvstendig virksomhet som vanligvis utføres om
-bord på et skip til sjøs som seiler under en
-medlemsstats flagg, anses som en aktivitet
-som utføres i denne medlemsstat. En person
-som arbeider om bord på et skip som seiler
-under en medlemsstats flagg, og som lønnes
-for dette arbeidet av et foretak eller en person
-som har sitt forretningskontor i en annen medlemsstat, skal imidlertid være undergitt sistnevnte medlemsstats lovgivning dersom han/
-hun er bosatt i den staten. Det foretak eller
-den person som betaler lønnen, skal anses
-som arbeidsgiver ved anvendelse av nevnte
-lovgivning.
-5. Arbeid utført som medlem av flygebesetning
-eller kabinbesetning ved flyging med passasjerer eller frakt skal anses som en aktivitet som
-utføres i medlemsstaten der hjemmebasen,
-som definert i vedlegg III til forordning (EØF)
-nr. 3922/91, befinner seg.
-Artikkel 12
-Særregler
-1. En person som utfører lønnet arbeid i en medlemsstat for en arbeidsgiver som vanligvis driver virksomhet der, og som sendes av arbeidsgiveren til en annen medlemsstat for å utføre
-arbeid for arbeidsgiveren, skal fortsatt være
-undergitt førstnevnte medlemsstats lovgivning, forutsatt at arbeidet ikke forventes å vare
-mer enn 24 måneder, og at han/hun ikke er
-utsendt for å erstatte en annen utsendt person.
-
-[Side 170]
-
-168
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-2. En person som vanligvis driver selvstendig
-virksomhet i en medlemsstat, og som reiser til
-en annen medlemsstat for å drive en liknende
-virksomhet, skal fortsatt være undergitt førstnevnte medlemsstats lovgivning, forutsatt at
-virksomheten ikke forventes å vare mer enn
-24 måneder.
-Artikkel 13
-Aktiviteter i to eller flere medlemsstater
-1. En person som vanligvis utfører lønnet arbeid i
-to eller flere medlemsstater, skal være undergitt
-a) bostedsstatens lovgivning dersom han/hun
-utfører en vesentlig del av sitt arbeid i den
-medlemsstaten, eller
-b) dersom han/hun ikke utfører en vesentlig
-del av sitt arbeid i bostedsstaten:
-i) lovgivningen i medlemsstaten der forretningskontoret eller forretningsstedet til foretaket eller arbeidsgiveren
-befinner seg, dersom han/hun er ansatt
-av ett foretak eller én arbeidsgiver, eller
-ii) lovgivningen i medlemsstaten der forretningskontoret eller forretningsstedet til foretakene eller arbeidsgiverne
-befinner seg, dersom han/hun er ansatt
-av to eller flere foretak eller arbeidsgivere som har sitt forretningskontor
-eller forretningssted i bare én medlemsstat, eller
-iii) lovgivningen i medlemsstaten der forretningskontoret eller forretningsstedet til foretaket eller arbeidsgiveren
-befinner seg, men som ikke er bostedsstaten, dersom han/hun er ansatt av to
-eller flere foretak eller arbeidsgivere
-som har sitt forretningskontor eller forretningssted i to medlemsstater, og den
-ene av dem er bostedsstaten, eller
-iv) lovgivningen i bostedsstaten dersom
-han/hun er ansatt av to eller flere foretak eller arbeidsgivere, og minst to av
-dem har sitt forretningskontor eller forretningssted i forskjellige medlemsstater, som ikke er bostedsstaten.
-2. En person som vanligvis driver selvstendig
-virksomhet i to eller flere medlemsstater, skal
-være undergitt
-a) bostedsstatens lovgivning dersom han/hun
-driver en vesentlig del av sin virksomhet i
-den medlemsstaten,
-eller
-
-2021–2022
-
-b) lovgivningen i medlemsstaten der hovedtyngden av hans/hennes virksomhet
-befinner seg, dersom han/hun ikke er
-bosatt i en av medlemsstatene der han/hun
-driver en vesentlig del av sin virksomhet.
-3. En person som vanligvis utfører lønnet arbeid
-og driver selvstendig virksomhet i forskjellige
-medlemsstater, skal være undergitt lovgivningen i medlemsstaten der han/hun utfører lønnet arbeid eller, dersom han/hun utfører slikt
-arbeid i to eller flere medlemsstater, lovgivningen som fastsettes i samsvar med nr. 1.
-4. En person som er ansatt som tjenestemann i
-en medlemsstat, og som utfører lønnet arbeid
-og/eller driver selvstendig virksomhet i en
-eller flere medlemsstater, skal være undergitt
-lovgivningen i medlemsstaten som forvaltningen han/hun er ansatt i, er underlagt.
-5. De personer som er nevnt i nr. 1–4, skal, ved
-anvendelse av lovgivningen fastsatt i samsvar
-med disse bestemmelser, behandles som om
-de utførte alt sitt lønnede arbeid eller drev all
-sin selvstendige virksomhet og hadde alle sine
-inntekter i den berørte medlemsstat.
-Artikkel 14
-Frivillig trygd eller frivillig fortsatt trygd
-1. Artikkel 11–13 får ikke anvendelse på frivillig
-trygd eller frivillig fortsatt trygd, med mindre
-en medlemsstat kun har en frivillig trygdeordning i en av de deler av trygdesystemet som er
-nevnt i artikkel 3 nr. 1.
-2. Når den berørte personen etter en medlemsstats lovgivning er undergitt pliktig trygd i den
-medlemsstaten, kan han/hun ikke omfattes av
-en frivillig trygdeordning eller en ordning for
-frivillig fortsatt trygd i en annen medlemsstat.
-I alle andre tilfeller der det i en bestemt del av
-trygdesystemet er mulig å velge mellom flere
-forskjellige frivillige trygdeordninger eller
-ordninger for frivillig fortsatt trygd, skal den
-berørte personen kun bli medlem i den ordningen som han/hun har valgt.
-3. Når det gjelder ytelser ved uførhet, ytelser ved
-alder og ytelser til etterlatte, kan imidlertid
-den berørte personen bli medlem av en frivillig trygdeordning eller en ordning for frivillig
-fortsatt trygd i en medlemsstat selv om han/
-hun er undergitt en annen medlemsstats lovgivning på pliktig grunnlag, forutsatt at han/
-hun på et tidspunkt i sitt yrkesliv har vært
-undergitt førstnevnte medlemsstats lovgivning
-som følge av å ha utført lønnet arbeid eller drevet selvstendig virksomhet, og dersom et slikt
-
-[Side 171]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-samtidig medlemskap er eksplisitt eller implisitt tillatt etter førstnevnte medlemsstats lovgivning.
-4. Når retten til frivillig trygd eller frivillig fortsatt trygd i henhold til en medlemsstats lovgivning forutsetter bosted i vedkommende medlemsstat eller tidligere virksomhet som
-arbeidstaker eller selvstendig næringsdrivende, får artikkel 5 bokstav b) anvendelse
-bare på personer som på et tidligere tidspunkt
-har vært omfattet av denne medlemsstatens
-lovgivning på grunnlag av en virksomhet som
-arbeidstaker eller selvstendig næringsdrivende.
-Artikkel 15
-De europeiske fellesskaps kontraktansatte
-De europeiske fellesskaps kontraktansatte kan
-velge om de skal være undergitt lovgivningen i
-medlemsstaten der de er ansatt, den medlemsstats lovgivning de sist var undergitt, eller lovgivningen i medlemsstaten der de er statsborgere,
-unntatt når det gjelder bestemmelsene om familiebidrag, som er fastsatt i ansettelsesvilkårene for
-dette personalet. Retten til å velge, som kan utøves
-bare en gang, får anvendelse fra ansettelsestidspunktet.
-Artikkel 16
-Unntak fra artikkel 11–15
-1. To eller flere medlemsstater, kompetente
-myndigheter i disse medlemsstater eller organer utpekt av disse myndigheter kan etter felles overenskomst gjøre unntak fra bestemmelsene i artikkel 11–15 til fordel for visse personer eller persongrupper.
-2. En person som mottar en eller flere pensjoner
-etter en eller flere medlemsstaters lovgivning
-og er bosatt i en annen medlemsstat, kan etter
-egen anmodning unntas fra anvendelsen av
-sistnevnte stats lovgivning, forutsatt at han/
-hun ikke er undergitt dens lovgivning gjennom å utføre lønnet arbeid eller drive selvstendig virksomhet.
-
-169
-
-Avdeling III
-Særlige bestemmelser om de ulike typer ytelser
-Kapittel 1
-Ytelser ved sykdom samt ytelser til mor ved svangerskap og fødsel og de tilsvarende ytelser til far
-Avsnitt 1
-Medlemmer i trygdeordningen og deres familiemedlemmer, unntatt pensjonister og deres
-familiemedlemmer
-Artikkel 17
-Bosted i en annen medlemsstat enn den kompetente medlemsstat
-Et medlem i trygdeordningen eller medlemmer
-av hans/hennes familie som er bosatt i en annen
-medlemsstat enn den kompetente medlemsstat,
-skal motta naturalytelser i bostedsstaten, som på
-vegne av den kompetente institusjon gis av institusjonen på bostedet i samsvar med bestemmelsene
-i lovgivningen den anvender, som om de hadde
-trygdedekning etter nevnte lovgivning.
-Artikkel 18
-Opphold i den kompetente medlemsstat når
-bostedet er i en annen medlemsstat – særregler
-for grensearbeideres familiemedlemmer
-1. Med mindre det er fastsatt noe annet i nr. 2,
-skal medlemmet i trygdeordningen og medlemmene av hans/hennes familie som er nevnt
-i artikkel 17, også ha rett til naturalytelser
-under opphold i den kompetente medlemsstat.
-Naturalytelsene skal gis av den kompetente
-institusjon og dekkes av den, i samsvar med
-bestemmelsene i lovgivningen den anvender,
-som om de berørte personer var bosatt i den
-medlemsstaten.
-2. En grensearbeiders familiemedlemmer skal
-ha rett til naturalytelser under opphold i den
-kompetente medlemsstat.
-Dersom den kompetente medlemsstat er
-oppført i vedlegg III, skal imidlertid en grensearbeiders familiemedlemmer som er bosatt i
-samme medlemsstat som grensearbeideren,
-ha rett til naturalytelser i den kompetente medlemsstat bare på de vilkår som er fastsatt i artikkel 19 nr. 1.
-Artikkel 19
-Opphold utenfor den kompetente medlemsstat
-1. Med mindre det er fastsatt noe annet i nr. 2,
-skal et medlem i trygdeordningen og medlem-
-
-[Side 172]
-
-170
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-mer av hans/hennes familie som oppholder
-seg i en annen medlemsstat enn den kompetente medlemsstat, ha rett til de naturalytelser
-som av medisinske grunner blir nødvendige
-under oppholdet, idet det tas hensyn til ytelsenes art og oppholdets forventede varighet.
-Disse ytelsene skal på vegne av den kompetente institusjon gis av institusjonen på oppholdsstedet i samsvar med bestemmelsene i
-lovgivningen den anvender, som om de
-berørte personer hadde trygdedekning etter
-nevnte lovgivning.
-2. Den administrative kommisjon skal utarbeide
-en liste over naturalytelser som, for å kunne
-gis under et opphold i en annen medlemsstat,
-av praktiske grunner forutsetter en forhåndsavtale mellom den berørte personen og
-behandlingsinstitusjonen.
-Artikkel 20
-Reise for det formål å motta naturalytelser –
-tillatelse til å motta nødvendig behandling
-utenfor bostedsstaten
-1. Med mindre det er fastsatt noe annet i denne
-forordning, skal et medlem i trygdeordningen
-som reiser til en annen medlemsstat for det
-formål å motta naturalytelser under oppholdet,
-søke den kompetente institusjon om tillatelse.
-2. Et medlem i trygdeordningen som får tillatelse
-av den kompetente institusjon til å reise til en
-annen medlemsstat for å få nødvendig behandling for sin tilstand, skal motta naturalytelser,
-som på vegne av den kompetente institusjon
-gis av institusjonen på oppholdsstedet i samsvar med bestemmelsene i lovgivningen den
-anvender, som om han/hun hadde trygdedekning etter nevnte lovgivning. Det skal gis tillatelse når den aktuelle behandling er blant de
-ytelser som tilbys etter lovgivningen i den
-berørte personens bostedsstat, og dersom
-han/hun ikke kan gis slik behandling innen en
-frist som er medisinsk forsvarlig, idet det tas
-hensyn til hans/hennes nåværende helsetilstand og sykdommens sannsynlige utvikling.
-3. Nr. 1 og 2 får tilsvarende anvendelse på familiemedlemmene til et medlem i trygdeordningen.
-4. Dersom familiemedlemmene til et medlem i
-trygdeordningen er bosatt i en annen medlemsstat enn medlemmet i trygdeordningens
-bostedsstat, og denne medlemsstat har valgt
-refusjon på grunnlag av faste beløp, skal utgifter til naturalytelsene nevnt i nr. 2 dekkes av
-institusjonen på familiemedlemmenes bosted.
-
-2021–2022
-
-I så fall skal institusjonen på familiemedlemmenes bosted ved anvendelse av nr. 1 anses
-som den kompetente institusjon.
-Artikkel 21
-Kontantytelser
-1. Et medlem i trygdeordningen og medlemmer
-av hans/hennes familie som bor eller oppholder seg i en annen medlemsstat enn den kompetente medlemsstat, skal ha rett til kontantytelser fra den kompetente institusjon i samsvar
-med lovgivningen den anvender. Etter avtale
-mellom den kompetente institusjon og institusjonen på bostedet eller oppholdsstedet kan
-imidlertid ytelsene gis av institusjonen på
-bostedet eller oppholdsstedet og dekkes av
-den kompetente institusjon i samsvar med den
-kompetente medlemsstats lovgivning.
-2. Den kompetente institusjon i en medlemsstat
-hvis lovgivning fastsetter at beregningen av
-kontantytelser skal foretas på grunnlag av
-gjennomsnittsinntekt eller gjennomsnittlig
-avgiftsgrunnlag, skal fastsette denne gjennomsnittsinntekt eller dette gjennomsnittlige
-avgiftsgrunnlag utelukkende på grunnlag av
-bekreftede inntekter eller anvendt avgiftsgrunnlag i den tid som er tilbakelagt etter
-nevnte lovgivning.
-3. Den kompetente institusjon i en medlemsstat
-hvis lovgivning fastsetter at beregningen av
-kontantytelser skal foretas på grunnlag av en
-normert inntekt, skal utelukkende ta hensyn
-til normert inntekt eller, når det er hensiktsmessig, gjennomsnittlig normert inntekt i den
-tid som er tilbakelagt etter nevnte lovgivning.
-4. Nr. 2 og 3 får tilsvarende anvendelse i tilfeller
-der lovgivningen som anvendes av den kompetente institusjon, fastsetter en bestemt referanseperiode som i det aktuelle tilfellet helt eller
-delvis svarer til den tid den berørte personen
-har tilbakelagt etter en eller flere andre medlemsstaters lovgivning.
-Artikkel 22
-Personer som fremmer krav om pensjon
-1. Et medlem i trygdeordningen som, når han/
-hun fremmer krav om pensjon, eller når et
-slikt krav er til behandling, mister retten til
-naturalytelser etter lovgivningen i den medlemsstat som sist var den kompetente medlemsstat, skal fortsatt ha rett til naturalytelser
-etter lovgivningen i bostedsstaten, forutsatt at
-den som fremmer krav om pensjon, oppfyller
-
-[Side 173]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-vilkårene for trygd etter lovgivningen i den
-medlemsstat som er nevnt i nr. 2. Familiemedlemmene til den som fremmer krav om pensjon, skal også ha rett til naturalytelser i
-bostedsstaten.
-2. Naturalytelsene skal dekkes av den medlemsstats institusjon som ved tilstått pensjon ville
-bli den kompetente institusjon etter artikkel
-23–25.
-Avsnitt 2
-
-171
-
-utgiftene dekkes av den kompetente institusjon i den medlemsstaten,
-b) når pensjonisten har rett til naturalytelser
-etter to eller flere medlemsstats lovgivning,
-skal utgiftene dekkes av den kompetente
-institusjon i den medlemsstat hvis lovgivning pensjonisten har vært undergitt
-lengst. Skulle anvendelsen av denne regelen føre til at flere institusjoner har ansvar
-for utgiftene, skal utgiftene dekkes av den
-institusjon hvis lovgivning pensjonisten sist
-var undergitt.
-
-Pensjonister og medlemmer av deres familie
-Artikkel 23
-
-Artikkel 25
-
-Rett til naturalytelser etter bostedsstatens
-lovgivning
-
-Pensjon etter lovgivningen i en eller flere
-medlemsstater som ikke er bostedsstaten, når
-det foreligger rett til naturalytelser i bostedsstaten
-
-En person som mottar en eller flere pensjoner
-etter to eller flere medlemsstaters lovgivning og
-er bosatt i en av dem, og som har rett til naturalytelser etter den medlemsstatens lovgivning, skal
-sammen med medlemmer av sin familie motta og
-få dekket slike naturalytelser fra institusjonen på
-bostedet, som om han/hun var en pensjonist hvis
-pensjon utelukkende kom til utbetaling etter den
-medlemsstatens lovgivning.
-Artikkel 24
-Ingen rett til naturalytelser etter bostedsstatens
-lovgivning
-1. En person som mottar en eller flere pensjoner
-etter en eller flere medlemsstaters lovgivning
-og ikke har rett til naturalytelser etter bostedsstatens lovgivning, skal likevel motta slike
-ytelser for seg selv og medlemmer av sin familie i den utstrekning han/hun ville hatt rett til
-disse ytelsene etter lovgivningen i den medlemsstat, eller i minst en av de medlemsstater,
-som ville vært den kompetente medlemsstat
-med hensyn til hans/hennes pensjoner om
-han/hun var bosatt i den medlemsstaten.
-Naturalytelsene skal gis av institusjonen på
-bostedet, men dekkes av institusjonen nevnt i
-nr. 2, som om den berørte personen hadde rett
-til pensjon og naturalytelser etter den medlemsstatens lovgivning.
-2. I tilfellene omhandlet i nr. 1 skal utgifter til
-naturalytelser dekkes av den institusjon som
-utpekes i samsvar med følgende regler:
-a) når pensjonisten har rett til naturalytelser
-etter én medlemsstats lovgivning, skal
-
-Når den som mottar en eller flere pensjoner etter
-en eller flere medlemsstaters lovgivning, er bosatt
-i en medlemsstat etter hvis lovgivning retten til
-naturalytelser ikke er undergitt vilkår om trygd,
-lønnet arbeid eller selvstendig virksomhet, og
-ikke mottar pensjon fra den medlemsstaten, skal
-utgiftene til naturalytelser for ham/henne og medlemmer av hans/hennes familie dekkes av institusjonen i en av de medlemsstater som i henhold til
-artikkel 24 nr. 2 er den kompetente medlemsstat
-med hensyn til hans/hennes pensjon, i den
-utstrekning pensjonisten og medlemmene av
-hans/hennes familie ville hatt rett til slike ytelser
-om de var bosatt i den medlemsstaten.
-Artikkel 26
-Familiemedlemmer som er bosatt i en annen
-medlemsstat enn pensjonistens bostedsstat
-Familiemedlemmene til en person som mottar en
-eller flere pensjoner etter en eller flere medlemsstaters lovgivning, skal, selv om de er bosatt i en
-annen medlemsstat enn pensjonistens bostedsstat, ha rett til naturalytelser fra institusjonen på
-sitt bosted i samsvar med bestemmelsene i lovgivningen den anvender, i den utstrekning pensjonisten har rett til naturalytelser etter en medlemsstats lovgivning. Utgiftene skal dekkes av den
-kompetente institusjon som har ansvar for utgiftene til naturalytelser til pensjonisten i hans/hennes bostedsstat.
-
-[Side 174]
-
-172
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
-
-Artikkel 27
-Opphold for pensjonisten eller medlemmer av
-hans/hennes familie i en annen medlemsstat enn
-bostedsstaten – opphold i den kompetente
-medlemsstat – tillatelse til nødvendig behandling utenfor bostedsstaten
-1. Artikkel 19 får tilsvarende anvendelse på en
-person som mottar en eller flere pensjoner
-etter en eller flere medlemsstaters lovgivning
-og har rett til naturalytelser etter lovgivningen
-i en medlemsstat som gir ham/henne pensjon,
-eller for medlemmer av hans/hennes familie
-som oppholder seg i en annen medlemsstat
-enn sin bostedsstat.
-2. Artikkel 18 nr. 1 får tilsvarende anvendelse på
-de personer som er nevnt i nr. 1, når de oppholder seg i medlemsstaten der den kompetente institusjon ligger som har ansvar for
-utgifter til naturalytelser til pensjonisten i
-hans/hennes bostedsstat, og nevnte medlemsstat har valgt dette og er oppført i vedlegg IV.
-3. Artikkel 20 får tilsvarende anvendelse på en
-pensjonist og/eller medlemmer av hans/hennes familie som oppholder seg i en annen medlemsstat enn bostedsstaten for å få hensiktsmessig behandling for sin tilstand.
-4. Med mindre det er fastsatt noe annet i nr. 5,
-skal utgiftene til naturalytelser nevnt i nr. 1–3
-dekkes av den kompetente institusjon som har
-ansvar for utgifter til naturalytelser til pensjonisten i hans/hennes bostedsstat.
-5. Utgiftene til naturalytelser nevnt i nr. 3 skal
-dekkes av institusjonen på bostedet til pensjonisten eller til medlemmene av hans/hennes
-familie, dersom de er bosatt i en medlemsstat
-som har valgt refusjon på grunnlag av faste
-beløp. I så fall skal institusjonen på bostedet til
-pensjonisten eller til medlemmene av hans/
-hennes familie ved anvendelse av nr. 3 anses
-som den kompetente institusjon.
 Artikkel 28
+
 Særregler for pensjonerte grensearbeidere
-1. En grensearbeider som har gått av med alderseller uførepensjon, har fortsatt rett til naturalytelser ved sykdom i den medlemsstat der vedkommende sist var arbeidstaker eller selvstendig næringsdrivende, i den utstrekning dette
-er en fortsettelse av behandling som begynte i
-den medlemsstaten. Med uttrykket «fortsettelse av behandling» menes fortsatt undersø-
 
-2.
+1\. En grensearbeider som har gått av med alders- eller uførepensjon, har fortsatt rett til naturalytelser ved sykdom i den medlemsstat der vedkommende sist var arbeidstaker eller selvstendig næringsdrivende, i den utstrekning dette er en fortsettelse av behandling som begynte i den medlemsstaten. Med uttrykket «fortsettelse av behandling» menes fortsatt undersøkelse, diagnostisering og behandling av en sykdom så lenge den varer.
 
-3.
+Første ledd får tilsvarende anvendelse på den tidligere grensearbeiderens familiemedlemmer med mindre medlemsstaten der grensearbeideren sist utførte sin virksomhet, er oppført i vedlegg III.
 
-4.
+2\. En pensjonist som i løpet av de siste fem årene før han/hun går av med alders- eller uførepensjon har utført lønnet arbeid eller drevet selvstendig virksomhet som grensearbeider i minst to år, skal ha rett til naturalytelser i medlemsstaten der han/hun har utøvet en slik aktivitet som grensearbeider, dersom den medlemsstaten og medlemsstaten der den kompetente institusjon ligger som har ansvar for utgiftene til naturalytelser til pensjonisten i hans/hennes bostedsstat, har valgt dette, og begge er oppført i vedlegg V.
 
-5.
+3\. Nr. 2 får tilsvarende anvendelse på medlemmer av familien til en tidligere grensearbeider eller hans/hennes etterlatte dersom de, i de tidsrom som er nevnt i nr. 2, hadde rett til naturalytelser etter artikkel 18 nr. 2, selv om grensearbeideren døde før pensjoneringen, forutsatt at han/hun i løpet av de siste fem årene før sin død hadde utført lønnet arbeid eller drevet selvstendig virksomhet som grensearbeider i minst to år.
 
-2021–2022
+4\. Nr. 2 og 3 får anvendelse til den berørte personen blir undergitt en medlemsstats lovgivning på grunnlag av lønnet arbeid eller selvstendig virksomhet.
 
-kelse, diagnostisering og behandling av en
-sykdom så lenge den varer.
-Første ledd får tilsvarende anvendelse på
-den tidligere grensearbeiderens familiemedlemmer med mindre medlemsstaten der grensearbeideren sist utførte sin virksomhet, er oppført i vedlegg III.
-En pensjonist som i løpet av de siste fem årene
-før han/hun går av med alders- eller uførepensjon har utført lønnet arbeid eller drevet selvstendig virksomhet som grensearbeider i
-minst to år, skal ha rett til naturalytelser i medlemsstaten der han/hun har utøvet en slik aktivitet som grensearbeider, dersom den medlemsstaten og medlemsstaten der den kompetente institusjon ligger som har ansvar for
-utgiftene til naturalytelser til pensjonisten i
-hans/hennes bostedsstat, har valgt dette, og
-begge er oppført i vedlegg V.
-Nr. 2 får tilsvarende anvendelse på medlemmer av familien til en tidligere grensearbeider
-eller hans/hennes etterlatte dersom de, i de
-tidsrom som er nevnt i nr. 2, hadde rett til naturalytelser etter artikkel 18 nr. 2, selv om grensearbeideren døde før pensjoneringen, forutsatt at han/hun i løpet av de siste fem årene
-før sin død hadde utført lønnet arbeid eller
-drevet selvstendig virksomhet som grensearbeider i minst to år.
-Nr. 2 og 3 får anvendelse til den berørte personen blir undergitt en medlemsstats lovgivning
-på grunnlag av lønnet arbeid eller selvstendig
-virksomhet.
-Utgiftene til naturalytelser nevnt i nr. 1–3 skal
-dekkes av den kompetente institusjon som har
-ansvar for utgifter til naturalytelser til pensjonisten eller til hans/hennes etterlatte i deres
-respektive bostedsstater.
+5\. Utgiftene til naturalytelser nevnt i nr. 1–3 skal dekkes av den kompetente institusjon som har ansvar for utgifter til naturalytelser til pensjonisten eller til hans/hennes etterlatte i deres respektive bostedsstater.
 
 Artikkel 29
+
 Kontantytelser til pensjonister
-1. Kontantytelser skal utbetales til en person som
-mottar en eller flere pensjoner etter en eller
-flere medlemsstaters lovgivning, av den kompetente institusjon i medlemsstaten der den
-kompetente institusjon ligger som har ansvar
-for utgifter til naturalytelser til pensjonisten i
-hans/hennes bostedsstat. Artikkel 21 får tilsvarende anvendelse.
-2. Nr. 1 får også anvendelse på pensjonistens
-familiemedlemmer.
+
+1\. Kontantytelser skal utbetales til en person som mottar en eller flere pensjoner etter en eller flere medlemsstaters lovgivning, av den kompetente institusjon i medlemsstaten der den kompetente institusjon ligger som har ansvar for utgifter til naturalytelser til pensjonisten i hans/hennes bostedsstat. Artikkel 21 får tilsvarende anvendelse.
+
+2\. Nr. 1 får også anvendelse på pensjonistens familiemedlemmer.
+
+Artikkel 30
+
+Avgifter som skal innbetales av pensjonister
+
+1\. Den institusjon i en medlemsstat som etter lovgivningen den anvender, har ansvar for å foreta trekk for avgifter knyttet til ytelser ved sykdom og ytelser til mor ved svangerskap og fødsel og tilsvarende ytelser til far, kan be om innbetaling av og innkreve slike avgifter, som beregnes i samsvar med lovgivningen den anvender, men bare i den utstrekning utgiftene til ytelser i henhold til artikkel 23–26 skal dekkes av en institusjon i nevnte medlemsstat.
+
+2\. Når det i tilfellene nevnt i artikkel 25, etter lovgivningen i medlemsstaten der den berørte pensjonisten bor, skal innbetales avgifter eller tilsvarende beløp i forbindelse med ytelser ved sykdom og ytelser til mor ved svangerskap og fødsel og tilsvarende ytelser til far, skal disse avgifter ikke innkreves på grunnlag av dette bostedet.
+
+Avsnitt 3
+
+Felles bestemmelser
+
+Artikkel 31
+
+Alminnelig bestemmelse
+
+Artikkel 23–30 får ikke anvendelse på en pensjonist eller medlemmer av hans/hennes familie som har rett til ytelser etter en medlemsstats lovgivning på grunnlag av lønnet arbeid eller selvstendig virksomhet. I et slikt tilfelle skal den berørte personen, i dette kapittel, omfattes av artikkel 17–21.
+
+Artikkel 32
+
+Prioritering av rett til naturalytelser – særregel for familiemedlemmers rett til ytelser i bostedsstaten
+
+1\. En selvstendig rett til naturalytelser etter en medlemsstats lovgivning eller etter dette kapittel skal gå foran en avledet rett til ytelser for familiemedlemmer. En avledet rett til naturalytelser skal imidlertid gå foran en selvstendig rett når den selvstendige retten i bostedsstaten direkte og utelukkende skyldes at den berørte personen er bosatt i den medlemsstaten.
+
+2\. Når familiemedlemmene til et medlem i trygdeordningen er bosatt i en medlemsstat etter hvis lovgivning retten til naturalytelser ikke er undergitt vilkår om trygd, lønnet arbeid eller selvstendig virksomhet, skal naturalytelser dekkes av den kompetente institusjon i bostedsstaten dersom medlemmets ektefelle eller den som tar seg av hans/hennes barn, utfører lønnet arbeid eller driver selvstendig virksomhet i nevnte medlemsstat eller mottar pensjon fra den medlemsstaten på grunnlag av lønnet arbeid eller selvstendig virksomhet.
+
+Artikkel 33
+
+Større naturalytelser
+
+1\. Et medlem i trygdeordningen eller et medlem av hans/hennes familie som har fått rett til en protese, et større hjelpemiddel eller andre større naturalytelser av en medlemsstats institusjon før han/hun fikk trygdedekning etter lovgivningen som anvendes av en annen medlemsstats institusjon, skal få disse ytelsene dekket av førstnevnte institusjon, selv om de tilstås etter at han/hun allerede har fått trygdedekning etter sistnevnte institusjons lovgivning.
+
+2\. Den administrative kommisjon skal utarbeide en liste over ytelser som omfattes av nr. 1.
+
+Artikkel 34
+
+Sammenfall av ytelser ved langvarig pleie
+
+1\. Dersom en mottaker av kontantytelser ved langvarig pleie, som må behandles som ytelser ved sykdom og derfor gis av den medlemsstat som er den kompetente medlemsstat med hensyn til kontantytelser etter artikkel 21 eller 29, samtidig og etter dette kapittel har rett til naturalytelser for det samme formål fra institusjonen på bostedet eller oppholdsstedet i en annen medlemsstat, og en institusjon i førstnevnte medlemsstat etter artikkel 35 også skal refundere utgiftene til disse naturalytelsene, skal den alminnelige bestemmelsen i artikkel 10 om å hindre sammenfall av ytelser få anvendelse, men med følgende begrensning: dersom den berørte personen gjør krav på og mottar naturalytelsen, skal kontantytelsen reduseres med beløpet for den naturalytelse som kreves eller kan kreves fra institusjonen i førstnevnte medlemsstat som skal refundere utgiften.
+
+2\. Den administrative kommisjon skal utarbeide en liste over kontantytelser og naturalytelser som omfattes av nr. 1.
+
+3\. To eller flere medlemsstater, eller deres kompetente myndigheter, kan bli enige om andre eller utfyllende tiltak, som ikke skal være mindre gunstige for de berørte personer enn prinsippene fastsatt i nr. 1.
+
+Artikkel 35
+
+Refusjon mellom institusjoner
+
+1\. Naturalytelser som etter dette kapittel gis av en medlemsstats institusjon på vegne av en annen medlemsstats institusjon, skal refunderes fullt ut.
+
+2\. Refusjonene nevnt i nr. 1 skal fastsettes og foretas etter de regler som er angitt i gjennomføringsforordningen, enten mot dokumentasjon av faktiske utgifter eller, for medlemsstater hvis rettslige eller forvaltningsmessige struktur er slik at refusjon på grunnlag av faktiske utgifter ikke er hensiktsmessig, på grunnlag av faste beløp.
+
+3\. To eller flere medlemsstater og deres kompetente myndigheter kan avtale andre refusjonsmåter eller gi avkall på enhver refusjon mellom institusjoner som er underlagt deres myndighet.
+
+Kapittel 2
+
+Ytelser ved yrkesskade og yrkessykdom
+
+Artikkel 36
+
+Rett til naturalytelser og kontantytelser
+
+1\. Med forbehold for eventuelle gunstigere bestemmelser i nr. 2 og 2a i denne artikkel skal artikkel 17, artikkel 18 nr. 1, artikkel 19 nr. 1 og artikkel 20 nr. 1 også få anvendelse på ytelser ved yrkesskade og yrkessykdom.
+
+2\. En person som har pådratt seg en yrkesskade eller yrkessykdom, og som er bosatt eller oppholder seg i en annen medlemsstat enn den kompetente medlemsstat, skal ha rett til de særlige naturalytelser innenfor ordningen for yrkesskade og yrkessykdom, som på vegne av den kompetente institusjon gis av institusjonen på bostedet eller oppholdsstedet i samsvar med lovgivningen den anvender, som om han/hun hadde trygdedekning etter nevnte lovgivning.
+
+2a. Kompetent institusjon kan ikke nekte å gi tillatelsen omhandlet i artikkel 20 nr. 1 til en person som har pådratt seg en yrkesskade eller yrkessykdom, og som har rett til ytelser som skal betales av denne institusjonen, dersom den behandlingen for hans/hennes tilstand krever, ikke kan gis i bostedsstaten innen en frist som er medisinsk forsvarlig, når det tas hensyn til hans/hennes nåværende helsetilstand og sykdommens sannsynlige forløp.
+
+3\. Artikkel 21 får også anvendelse på ytelser som kommer inn under dette kapittel.
+
+Artikkel 37
+
+Transportutgifter
+
+1\. Den kompetente institusjon i en medlemsstat hvis lovgivning har bestemmelser om dekning av utgifter til transport av en person som har pådratt seg en yrkesskade eller yrkessykdom, enten til hans/hennes bosted eller til sykehus, skal dekke slike utgifter til det tilsvarende sted i en annen medlemsstat der personen er bosatt, forutsatt at institusjonen på forhånd har gitt tillatelse til en slik transport, idet det tas behørig hensyn til de grunner som taler for dette. Det skal ikke kreves slik tillatelse for grensearbeidere.
+
+2\. Den kompetente institusjon i en medlemsstat hvis lovgivning har bestemmelser om dekning av utgifter til transport til begravelsesstedet av en person som er død etter en arbeidsulykke, skal i samsvar med lovgivningen den anvender, dekke slike utgifter til det tilsvarende sted i en annen medlemsstat der personen var bosatt på ulykkestidspunktet.
+
+Artikkel 38
+
+Ytelser ved yrkessykdom når den syke personen har vært utsatt for samme risiko i flere medlemsstater
+
+Når en person som har pådratt seg en yrkessykdom, etter to eller flere medlemsstaters lovgivning har utført arbeid som er av en slik art at det må antas å kunne forårsake denne sykdommen, skal ytelsene som han/hun eller hans/hennes etterlatte kan gjøre krav på, utelukkende gis etter lovgivningen i den siste staten hvis vilkår er oppfylt.
+
+Artikkel 39
+
+Forverring av en yrkessykdom
+
+Ved forverring av en yrkessykdom som den syke personen har mottatt eller mottar ytelser for etter en medlemsstats lovgivning, får følgende regler anvendelse:
+
+a\) dersom den berørte personen mens han/hun mottar ytelser, etter en annen medlemsstats lovgivning ikke har utført lønnet arbeid eller drevet selvstendig virksomhet som må antas å kunne forårsake eller forverre den aktuelle sykdommen, skal den kompetente institusjon i førstnevnte medlemsstat dekke utgiftene til ytelser etter bestemmelsene i lovgivningen den anvender, idet det tas hensyn til forverringen,
+
+b\) dersom den berørte personen mens han/hun mottar ytelser, etter en annen medlemsstats lovgivning har utført slikt arbeid eller drevet slik virksomhet, skal den kompetente institusjon i førstnevnte medlemsstat dekke utgiftene til ytelsene etter lovgivningen den anvender, uten å ta hensyn til forverringen. Den kompetente institusjon i den andre medlemsstaten skal gi den berørte personen et tillegg som tilsvarer differansen mellom det ytelsesbeløp som den kompetente institusjon etter lovgivningen den anvender, skal utbetale etter forverringen, og det beløp som skulle vært utbetalt før forverringen, dersom sykdommen hadde inntruffet mens den berørte personen var undergitt denne medlemsstats lovgivning,
+
+c\) regler i en medlemsstats lovgivning om reduksjon, midlertidig stans eller bortfall skal ikke gjøres gjeldende overfor personer som mottar ytelser fra institusjoner i to medlemsstater i samsvar med bokstav b).
+
+Artikkel 40
+
+Regler for å ta hensyn til særlige bestemmelser i visse lovgivninger
+
+1\. Dersom det ikke finnes noen trygdeordning for yrkesskade eller yrkessykdom i medlemsstaten der den berørte personen er bosatt eller oppholder seg, eller dersom det finnes en slik ordning, men ingen institusjon som har ansvar for å gi naturalytelser, skal disse ytelsene gis av den institusjon på bostedet eller oppholdsstedet som har ansvar for å gi naturalytelser ved sykdom.
+
+2\. Dersom det ikke finnes noen trygdeordning for yrkesskade eller yrkessykdom i den kompetente medlemsstat, skal bestemmelsene om naturalytelser i dette kapittel likevel få anvendelse på en person som har rett til slike ytelser ved sykdom og ved svangerskap og fødsel og tilsvarende ytelser til far etter den medlemsstatens lovgivning, dersom personen pådrar seg en yrkesskade eller en yrkessykdom mens han/hun er bosatt eller oppholder seg i en annen medlemsstat. Utgiftene skal dekkes av den institusjon som er den kompetente institusjon med hensyn til naturalytelser etter den kompetente medlemsstats lovgivning.
+
+3\. Artikkel 5 får anvendelse på den kompetente institusjon i en medlemsstat med hensyn til likestilling av yrkesskade og yrkessykdom som er inntruffet eller påvist på et senere tidspunkt etter en annen medlemsstats lovgivning, ved fastsettelse av graden av arbeidsudyktighet, retten til ytelser eller størrelsen på ytelsene, forutsatt at
+
+a\) det for en yrkesskade eller en yrkessykdom som er inntruffet eller påvist på et tidligere tidspunkt, ikke gis erstatning etter lovgivningen den anvender,
+
+og
+
+b\) det for en yrkesskade eller en yrkessykdom som er inntruffet eller påvist på et senere tidspunkt, ikke gis erstatning etter den andre medlemsstatens lovgivning, som var gjeldende da yrkesskaden eller yrkessykdommen inntraff eller ble påvist.
+
+Artikkel 41
+
+Refusjon mellom institusjoner
+
+1\. Artikkel 35 får også anvendelse på ytelser som kommer inn under dette kapittel, og refusjon skal gis på grunnlag av faktiske utgifter.
+
+2\. To eller flere medlemsstater eller deres kompetente myndigheter kan avtale andre refusjonsmåter eller gi avkall på enhver refusjon mellom institusjoner som er underlagt deres myndighet.
+
+Kapittel 3
+
+Gravferdshjelp
+
+Artikkel 42
+
+Rett til gravferdshjelp når dødsfallet inntreffer i eller mottakeren er bosatt i en annen medlemsstat enn den kompetente medlemsstat
+
+1\. Når et medlem i trygdeordningen eller et medlem av hans/hennes familie dør i en annen medlemsstat enn den kompetente medlemsstat, skal dødsfallet anses som inntruffet i den kompetente medlemsstat.
+
+2\. Den kompetente institusjon skal gi gravferdshjelp etter lovgivningen den anvender, selv om mottakeren er bosatt i en annen medlemsstat enn den kompetente medlemsstat.
+
+3\. Nr. 1 og 2 får også anvendelse når dødsfallet skyldes yrkesskade eller yrkessykdom.
+
+Artikkel 43
+
+Utbetaling av ytelser når en pensjonist dør
+
+1\. Når en pensjonist som har rett til en pensjon etter en medlemsstats lovgivning eller til flere pensjoner etter to eller flere medlemsstaters lovgivning, dør mens han/hun er bosatt i en annen medlemsstat enn medlemsstaten der den institusjon ligger som har ansvar for utgifter til naturalytelser gitt etter artikkel 24 og 25, skal gravferdshjelp etter lovgivningen som denne institusjonen anvender, utbetales av nevnte institusjon for egen regning som om pensjonisten da dødsfallet inntraff, var bosatt i medlemsstaten der institusjonen ligger.
+
+2\. Nr. 1 får tilsvarende anvendelse på pensjonistens familiemedlemmer.
+
+Kapittel 4
+
+Ytelser ved uførhet
+
+Artikkel 44
+
+Personer som bare er undergitt lovgivning av type A
+
+1\. I dette kapittel menes med «lovgivning av type A» lovgivning der størrelsen på ytelser ved uførhet ikke avhenger av trygdetidens eller botidens lengde, og som den kompetente medlemsstat uttrykkelig har oppført i vedlegg VI, og med «lovgivning av type B» menes all annen lovgivning.
+
+2\. En person som fortløpende eller skiftevis har vært undergitt to eller flere medlemsstaters lovgivning, og som har tilbakelagt trygdetid eller botid utelukkende under lovgivning av type A, skal bare ha rett til ytelser fra institusjonen i den medlemsstat hvis lovgivning ble anvendt på tidspunktet da arbeidsudyktigheten med påfølgende uførhet inntraff, eventuelt etter at det er tatt hensyn til artikkel 45, og skal motta disse ytelser i samsvar med den lovgivningen.
+
+3\. En person som ikke har rett til ytelser etter nr. 2, skal motta de ytelser han/hun fremdeles har rett til etter en annen medlemsstats lovgivning, eventuelt etter at det er tatt hensyn til artikkel 45.
+
+4\. Dersom lovgivningen nevnt i nr. 2 eller 3 har regler om reduksjon, midlertidig stans eller bortfall av ytelser ved uførhet når det foreligger andre, samtidige inntekter eller samtidige ytelser av forskjellig art som definert i artikkel 53 nr. 2, får artikkel 53 nr. 3 og artikkel 55 nr. 3 tilsvarende anvendelse.
+
+Artikkel 45
+
+Særlige bestemmelser om sammenlegging av tid
+
+Dersom en medlemsstats lovgivning setter tilbakelagt trygdetid eller botid som et vilkår for å oppnå, beholde eller få tilbake rett til ytelser, skal den kompetente institusjon i denne medlemsstat om nødvendig anvende artikkel 51 nr. 1 tilsvarende.
+
+Artikkel 46
+
+Personer som er undergitt enten bare lovgivning av type B eller lovgivning av både type A og B
+
+1\. En person som fortløpende eller skiftevis har vært undergitt to eller flere medlemsstaters lovgivning, der minst én ikke er lovgivning av type A, skal ha rett til ytelser etter kapittel 5, som får tilsvarende anvendelse idet det tas hensyn til nr. 3.
+
+2\. Dersom den berørte personen tidligere har vært undergitt lovgivning av type B og blir arbeidsudyktig med påfølgende uførhet mens han/hun er undergitt lovgivning av type A, skal han/hun imidlertid motta ytelser i samsvar med artikkel 44, forutsatt at
+
+– han/hun utelukkende oppfyller vilkårene i den lovgivningen eller i annen lovgivning av samme type, eventuelt etter at det er tatt hensyn til artikkel 45, men uten at trygdetid eller botid som er tilbakelagt etter en lovgivning av type B, medregnes,
+
+og
+
+– han/hun ikke gjør krav på ytelser ved alder, idet det tas hensyn til artikkel 50 nr. 1.
+
+3\. Det vedtak en medlemsstats institusjon gjør om søkerens uførhetsgrad, skal være bindende for andre berørte medlemsstaters institusjoner, forutsatt at samsvaret mellom disse medlemsstaters lovgivning med hensyn til vilkårene for uførhetsgrad er bekreftet i vedlegg VII.
+
+Artikkel 47
+
+Forverring av uførhet
+
+1\. Ved forverring av uførhet som en person mottar ytelser for etter en eller flere medlemsstaters lovgivning, får følgende bestemmelser anvendelse, idet det tas hensyn til forverringen:
+
+a\) ytelsene skal gis i samsvar med kapittel 5, som får tilsvarende anvendelse,
+
+b\) når den berørte personen har vært undergitt to eller flere lovgivninger av type A, og etter å ha mottatt ytelse ikke har vært undergitt en annen medlemsstats lovgivning, skal imidlertid ytelsen gis i samsvar med artikkel 44 nr. 2.
+
+2\. Dersom summen av den eller de ytelser som skal utbetales etter nr. 1, er lavere enn ytelsesbeløpet den berørte personen mottok fra den institusjon som tidligere var den kompetente institusjon med hensyn til utbetaling, skal den institusjonen utbetale et tillegg til ham/henne lik differansen mellom de to beløpene.
+
+3\. Dersom den berørte personen ikke har rett til å få ytelser dekket av en institusjon i en annen medlemsstat, skal den kompetente institusjon i den medlemsstat som tidligere var den kompetente medlemsstat, gi ytelsene i samsvar med lovgivningen den anvender, idet det tas hensyn til forverringen og eventuelt artikkel 45.
+
+Artikkel 48
+
+Overgang fra ytelser ved uførhet til ytelser ved alder
+
+1\. Ytelser ved uførhet skal, når det er hensiktsmessig, gå over til ytelser ved alder på de vilkår som er fastsatt i lovgivningen eller lovgivningene som ble lagt til grunn da ytelsene ble gitt, og i samsvar med kapittel 5.
+
+2\. Når en person som mottar ytelser ved uførhet, kan fremme krav om ytelser ved alder etter en eller flere andre medlemsstaters lovgivning i samsvar med artikkel 50, skal en institusjon som har ansvar for å gi ytelser ved uførhet etter en medlemsstats lovgivning, fortsatt gi denne person de ytelser ved uførhet som han/hun har rett til etter lovgivningen den anvender, inntil nr. 1 får anvendelse på den institusjonen eller så lenge den berørte personen oppfyller vilkårene for slike ytelser.
+
+3\. Når ytelser ved uførhet som gis etter en medlemsstats lovgivning i samsvar med artikkel 44, går over til ytelser ved alder, og den berørte personen ennå ikke oppfyller vilkårene fastsatt i en eller flere av de øvrige medlemsstaters lovgivning for å motta slike ytelser, skal den berørte personen motta ytelser ved uførhet fra denne eller disse medlemsstater fra overgangstidspunktet.
+
+Disse ytelser ved uførhet skal gis i samsvar med kapittel 5, som om kapittelet hadde anvendelse på tidspunktet da arbeidsudyktigheten med påfølgende uførhet inntraff, og til den berørte personen oppfyller vilkårene for ytelser ved alder etter de aktuelle nasjonale lovgivninger eller, når det ikke er fastsatt bestemmelser om en slik overgang, så lenge han/hun har rett til ytelser ved uførhet etter den eller de sistnevnte lovgivninger.
+
+4\. De ytelser ved uførhet som er omhandlet i artikkel 44, skal beregnes på nytt i samsvar med kapittel 5 så snart mottakeren oppfyller vilkårene for ytelser ved uførhet fastsatt i en lovgivning av type B, eller så snart han/hun mottar ytelser ved alder etter en annen medlemsstats lovgivning.
+
+Artikkel 49
+
+Særlige bestemmelser for tjenestemenn
+
+Artikkel 6, artikkel 44, artikkel 46-48 og artikkel 60 nr. 2 og 3 får tilsvarende anvendelse på personer som omfattes av en særordning for tjenestemenn.
+
+Kapittel 5
+
+Alderspensjon og etterlattepensjon
+
+Artikkel 50
+
+Alminnelige bestemmelser
+
+1\. Når det er søkt om ytelser, skal retten til ytelser fastsettes av alle kompetente institusjoner i de medlemsstater hvis lovgivning den berørte personen har vært undergitt, med mindre han/hun uttrykkelig ber om at tilståelse av ytelser ved alder etter en eller flere medlemsstaters lovgivning utsettes.
+
+2\. Dersom den berørte personen på et tidspunkt ikke, eller ikke lenger, oppfyller vilkårene i alle lovgivninger i medlemsstatene som han/hun har vært undergitt, skal institusjoner som anvender en lovgivning der vilkårene er oppfylt, ved beregning av ytelser i samsvar med artikkel 52 nr. 1 bokstav a) eller b), ikke ta hensyn til tid tilbakelagt etter lovgivninger der vilkårene ikke, eller ikke lenger, er oppfylt, når dette fører til et lavere ytelsesbeløp.
+
+3\. Nr. 2 får tilsvarende anvendelse når den berørte personen uttrykkelig har bedt om at tilståelse av ytelser ved alder utsettes.
+
+4\. Det skal automatisk foretas en ny beregning når vilkårene i de øvrige lovgivninger er oppfylt, eller når en person ber om å få tilstått en ytelse ved alder som har vært utsatt i samsvar med nr. 1, med mindre tilbakelagt tid etter de øvrige lovgivninger allerede er medregnet i samsvar med nr. 2 eller 3.
+
+Artikkel 51
+
+Særlige bestemmelser om sammenlegging av tid
+
+1\. Når en medlemsstats lovgivning setter tilbakelagt trygdetid i et bestemt lønnet arbeid eller en bestemt selvstendig virksomhet eller i et yrke som har en særordning for personer som utfører lønnet arbeid eller driver selvstendig virksomhet, som et vilkår for å tilstå visse ytelser, skal den kompetente institusjon i den medlemsstaten ta hensyn til tid som er tilbakelagt etter andre medlemsstaters lovgivning bare dersom den er tilbakelagt under en tilsvarende ordning eller, i mangel av en slik ordning, i det samme yrket eller eventuelt i det samme lønnede arbeid eller den samme selvstendige virksomhet.
+
+Dersom den berørte personen på grunnlag av slik tilbakelagt trygdetid ikke oppfyller vilkårene for å motta ytelser etter en særordning, skal denne tiden medregnes ved tilståelse av ytelser etter den alminnelige ordningen eller, i mangel av en slik ordning, eventuelt etter en ordning for arbeidere eller funksjonærer, forutsatt av den berørte personen har vært omfattet av en eller flere slike ordninger.
+
+2\. Den trygdetid som er tilbakelagt under en særordning i en medlemsstat, skal medregnes ved tilståelse av ytelser etter den alminnelige ordningen eller, i mangel av en slik ordning, eventuelt etter en ordning for arbeidere eller funksjonærer i en annen medlemsstat, forutsatt at den berørte personen har vært omfattet av en eller flere slike ordninger, også om denne tiden allerede er medregnet etter en særordning i sistnevnte medlemsstat.
+
+3\. Når lovgivningen eller en særskilt ordning i en medlemsstat setter som vilkår at en berørt person er medlem i trygdeordningen på det tidspunkt trygdetilfellet inntreffer for at vedkommende skal kunne oppnå, beholde eller få tilbake rett til ytelser, skal dette vilkåret anses som oppfylt dersom den berørte personen tidligere har vært trygdet i henhold til lovgivningen eller en særskilt ordning i denne medlemsstaten, og dersom vedkommende da trygdetilfellet inntraff, var trygdet i henhold til en annen medlemsstats lovgivning for samme risiko eller, dersom dette ikke er tilfelle, dersom en ytelse skal betales i henhold til en annen medlemsstats lovgivning for samme risiko. Sistnevnte vilkår skal imidlertid anses som oppfylt i tilfellene omhandlet i artikkel 57.
+
+Artikkel 52
+
+Tilståelse av ytelser
+
+1\. Den kompetente institusjon skal beregne ytelsesbeløpet som vil komme til utbetaling
+
+a\) etter lovgivningen den anvender, men bare når vilkårene for rett til ytelser er oppfylt utelukkende etter nasjonal lovgivning (selvstendig ytelse),
+
+b\) ved å beregne et teoretisk beløp og deretter et faktisk beløp (pro rata-ytelse), som følger:
+
+i\) det teoretiske ytelsesbeløpet er lik ytelsen den berørte personen ville hatt rett til dersom all trygdetid og/eller botid som er tilbakelagt etter de øvrige medlemsstaters lovgivning, var tilbakelagt etter lovgivningen den anvender på det tidspunkt ytelsen tilstås. Dersom beløpet etter denne lovgivning ikke avhenger av den tilbakelagte tidens lengde, skal dette beløpet anses som det teoretiske beløpet,
+
+ii\) den kompetente institusjon skal deretter fastsette det faktiske beløpet for pro rata-ytelsen basert på det teoretiske beløpet, på grunnlag av forholdet mellom den tilbakelagte trygdetidens lengde før trygdetilfellet inntraff etter lovgivningen den anvender, og samlet tilbakelagt trygdetid før trygdetilfellet inntraff etter alle berørte medlemsstaters lovgivning.
+
+2\. Den kompetente institusjon skal, når det er hensiktsmessig, anvende alle regler om reduksjon, midlertidig stans eller bortfall etter lovgivningen den anvender, på det beløp som er beregnet i samsvar med nr. 1 bokstav a) og b), innenfor de grenser som er fastsatt i artikkel 53–55.
+
+3\. Den berørte personen skal ha rett til å motta det høyeste av de beløp som er beregnet i samsvar med nr. 1 bokstav a) og b), fra den kompetente institusjon i hver medlemsstat.
+
+4\. Når beregning etter nr. 1 bokstav a) i en medlemsstat alltid fører til at den selvstendige ytelsen er lik eller høyere enn pro rata-ytelsen beregnet i samsvar med nr. 1 bokstav b), kan den kompetente institusjon unnlate å foreta en pro rata-beregning, forutsatt at
+
+i\) en slik situasjon er angitt i vedlegg VIII del 1,
+
+ii\) ingen lovgivning som inneholder regler mot sammenfall av ytelser, som nevnt i artikkel 54 og 55, får anvendelse med mindre vilkårene fastsatt i artikkel 55 nr. 2 er oppfylt, og
+
+iii\) artikkel 57, under de særskilte omstendigheter som gjelder for tilfellet, ikke får anvendelse på tidsrom som er tilbakelagt i henhold til en annen medlemsstats lovgivning.
+
+5\. Uten hensyn til bestemmelsene i nr. 1, 2 og 3, får pro rata-beregningen ikke anvendelse på ordninger som gir ytelser der tidsrom ikke er relevant for beregningen, forutsatt at ordningene er oppført i vedlegg VIII del 2. I slike tilfeller skal den berørte person ha rett til den ytelsen som beregnes i samsvar med den berørte medlemsstats lovgivning.
+
+Artikkel 53
+
+Regler mot sammenfall
+
+1\. Sammenfall av ytelser ved uførhet, ytelser ved alder og ytelser til etterlatte som beregnes eller gis på grunnlag av trygdetid og/eller botid tilbakelagt av samme person, skal anses som sammenfall av ytelser av samme art.
+
+2\. Sammenfall av ytelser som ikke kan anses å være av samme art som definert i nr. 1, skal anses som sammenfall av ytelser av forskjellig art.
+
+3\. Ved anvendelsen av regler mot sammenfall i en medlemsstats lovgivning skal følgende bestemmelser få anvendelse når en ytelse ved uførhet eller alder eller en ytelse til etterlatte sammenfaller med en ytelse av samme art eller en ytelse av en annen art eller med andre inntekter:
+
+a\) den kompetente institusjon skal ta hensyn til ytelser eller inntekter ervervet i en annen medlemsstat bare når lovgivningen den anvender, har bestemmelser om at det skal tas hensyn til ytelser eller inntekter som er ervervet i utlandet,
+
+b\) den kompetente institusjon skal ta hensyn til det ytelsesbeløp som skal utbetales av en annen medlemsstat før fradrag av skatt, trygdeavgifter og andre individuelle avgifter eller fradrag, med mindre lovgivningen den anvender, fastsetter at reglene mot sammenfall skal anvendes etter slike fradrag, på de vilkår og etter de framgangsmåter som er fastsatt i gjennomføringsforordningen,
+
+c\) den kompetente institusjon skal ikke ta hensyn til ytelsesbeløp som er ervervet etter en annen medlemsstats lovgivning på grunnlag av frivillig trygd eller frivillig fortsatt trygd,
+
+d\) dersom en enkelt medlemsstat anvender regler mot sammenfall fordi den berørte personen mottar ytelser av samme eller forskjellig art etter andre medlemsstaters lovgivning eller inntekter ervervet i andre medlemsstater, kan ytelsen som skal utbetales, bare reduseres med et beløp tilsvarende disse ytelser eller inntekter.
+
+Artikkel 54
+
+Sammenfall av ytelser av samme art
+
+1\. Når ytelser av samme art etter to eller flere medlemsstaters lovgivning sammenfaller, skal reglene mot sammenfall som er fastsatt i en medlemsstats lovgivning, ikke få anvendelse på en pro rata-ytelse.
+
+2\. Reglene mot sammenfall får anvendelse på en selvstendig ytelse bare dersom ytelsen er
+
+a\) en ytelse der beløpet ikke avhenger av trygdetidens eller botidens lengde,
+
+eller
+
+b\) en ytelse hvis beløp fastsettes på grunnlag av et godskrevet tidsrom som anses tilbakelagt mellom tidspunktet da trygdetilfellet inntraff, og et senere tidspunkt, og som sammenfaller med
+
+i\) samme type ytelse, unntatt når det er inngått en avtale mellom to eller flere medlemsstater om ikke å medregne det samme godskrevne tidsrommet mer enn én gang,
+
+eller
+
+ii\) en ytelse som nevnt i bokstav a).
+
+De ytelser og avtaler som er nevnt i bokstav a) og b), er oppført i vedlegg IX.
+
+Artikkel 55
+
+Sammenfall av ytelser av forskjellig art
+
+1\. Dersom mottak av ytelser av forskjellig art eller av annen inntekt krever anvendelse av reglene mot sammenfall som er fastsatt i den berørte medlemsstats lovgivning, på
+
+a\) to eller flere selvstendige ytelser, skal de kompetente institusjoner dividere ytelsesbeløpet eller -beløpene eller den andre inntekten som er medregnet, med antallet ytelser som kommer inn under disse regler.
+
+Anvendelsen av denne bokstav kan imidlertid ikke frata den berørte personen hans/hennes status som pensjonist etter andre kapitler i denne avdeling, på de vilkår og etter de framgangsmåter som er fastsatt i gjennomføringsforordningen,
+
+b\) en eller flere pro rata-ytelser, skal de kompetente institusjoner ved anvendelse av reglene mot sammenfall medregne ytelsen(e) eller den andre inntekten og alle andre faktorer på grunnlag av forholdet mellom trygdetid og/eller botid som er fastsatt for beregningen omhandlet i artikkel 52 nr. 1 bokstav b) ii),
+
+c\) en eller flere selvstendige ytelser og en eller flere pro rata-ytelser, skal de kompetente institusjoner la bokstav a) få tilsvarende anvendelse på selvstendige ytelser og bokstav b) få tilsvarende anvendelse på pro rata-ytelser.
+
+2\. Den kompetente institusjon skal ikke foreta den foreskrevne delingen av selvstendige ytelser dersom lovgivningen den anvender, fastsetter at det skal tas hensyn til ytelser av forskjellig art og/eller annen inntekt og alle andre faktorer ved beregning av en del av beløpet, som skal fastsettes på grunnlag av forholdet mellom trygdetid og/eller botid som er omhandlet i artikkel 52 nr. 1 bokstav b) ii).
+
+3\. Nr. 1 og 2 får tilsvarende anvendelse når en eller flere medlemsstaters lovgivning fastsetter at det ikke foreligger rett til en ytelse når den berørte personen får utbetalt en ytelse av en annen art etter en annen medlemsstats lovgivning eller har annen inntekt.
+
+Artikkel 56
+
+Tilleggsbestemmelser for beregning av ytelser
+
+1\. Følgende regler får anvendelse ved beregning av det teoretiske beløpet og pro rata-beløpet nevnt i artikkel 52 nr. 1 bokstav b):
+
+a\) Når samlet trygdetid og/eller botid som er tilbakelagt etter alle berørte medlemsstaters lovgivning før trygdetilfellet inntraff, overstiger den maksimumstid som kreves etter en av disse medlemsstaters lovgivning for å motta full ytelse, skal den kompetente institusjon i den medlemsstaten ta denne maksimumstid i betraktning i stedet for samlet tilbakelagt tid. Denne beregningsmåten skal ikke føre til at institusjonen må utbetale et høyere ytelsesbeløp enn det som er fastsatt for full ytelse i lovgivningen den anvender. Denne bestemmelsen får ikke anvendelse på ytelser der beløpet ikke avhenger av trygdetidens lengde.
+
+b\) Beregningsmåten for sammenfallende tidsrom er fastsatt i gjennomføringsforordningen.
+
+c\) Dersom en medlemsstats lovgivning fastsetter at ytelsene skal beregnes på grunnlag av inntekter, avgifter, avgiftsgrunnlag, tillegg, fortjeneste eller annet beløp, eller en kombinasjon av to eller flere slike faktorer (gjennomsnittlige, forholdsmessige, faste eller godskrevne), skal den kompetente institusjon
+
+i\) fastsette beregningsgrunnlaget for ytelsene kun på grunnlag av trygdetid som er tilbakelagt etter lovgivningen den anvender,
+
+ii\) for å kunne fastsette beløpet som skal beregnes på grunnlag av trygdetid og/eller botid tilbakelagt etter de øvrige medlemsstaters lovgivning, benytte de samme faktorer som er fastsatt eller registrert for trygdetid tilbakelagt etter lovgivningen den anvender,
+
+der det er nødvendig etter framgangsmåtene fastsatt i vedlegg XI for den berørte medlemsstat.
+
+d\) Dersom bokstav c) ikke får anvendelse fordi en medlemsstats lovgivning fastsetter at ytelsen skal beregnes på grunnlag av andre faktorer enn trygdetid eller botid, som ikke er knyttet til tid, skal den kompetente institusjon for hver trygdetid eller botid som er tilbakelagt i henhold til en annen medlemsstats lovgivning, ta hensyn til den kapitalen som er opptjent, den kapitalen som anses som opptjent, eller eventuelle andre faktorer i beregningen i henhold til den lovgivning som institusjonen forvalter, dividert på de tilsvarende tidsenheter i den berørte pensjonsordningen.
+
+2\. Bestemmelsene i en medlemsstats lovgivning om regulering av faktorene som inngår i beregningen av ytelser, skal eventuelt få anvendelse på faktorer som den kompetente institusjon i den medlemsstaten skal ta hensyn til i samsvar med nr. 1, i forbindelse med trygdetid eller botid som er tilbakelagt etter andre medlemsstaters lovgivning.
+
+Artikkel 57
+
+Trygdetid eller botid under ett år
+
+1\. Uten hensyn til artikkel 52 nr. 1 bokstav b) skal en medlemsstats institusjon ikke være pålagt å gi ytelser på grunnlag av tid som er tilbakelagt etter lovgivningen den anvender, og som skal medregnes når trygdetilfellet inntreffer, dersom
+
+– denne tiden er under ett år,
+
+og
+
+– det ikke foreligger noen rett til ytelser etter den lovgivningen om bare denne tiden medregnes.
+
+I denne artikkel menes med «tid» all trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid som enten gir rett til eller direkte øker den aktuelle ytelsen.
+
+2\. Den kompetente institusjon i hver berørte medlemsstat skal ved anvendelse av artikkel 52 nr. 1 bokstav b) i) ta hensyn til den tid som er nevnt i nr. 1.
+
+3\. Dersom anvendelse av nr. 1 ville føre til at alle institusjoner i de berørte medlemsstater fritas for sine forpliktelser, skal ytelsene gis utelukkende etter lovgivningen i den siste av de medlemsstater hvis vilkår er oppfylt, som om all trygdetid og botid tilbakelagt og medregnet i samsvar med artikkel 6 og artikkel 51 nr. 1 og 2 var tilbakelagt etter den medlemsstatens lovgivning.
+
+4\. Denne artikkel får ikke anvendelse på ordninger oppført i vedlegg VIII del 2.
+
+Artikkel 58
+
+Tilståelse av en tilleggsytelse
+
+1\. En ytelsesmottaker som dette kapittel får anvendelse på, kan ikke, i medlemsstaten der vedkommende bor og etter hvis lovgivning en ytelse skal utbetales til ham eller henne, gis en ytelse som er lavere enn minsteytelsen fastsatt i den lovgivningen for en trygdetid eller botid som tilsvarer all tid medregnet for utbetaling etter dette kapittel.
+
+2\. Den kompetente institusjon i den medlemsstaten skal, så lenge han/hun er bosatt på dens territorium, utbetale ham/henne en tilleggsytelse som tilsvarer differansen mellom de samlede ytelser som kommer til utbetaling etter dette kapittel, og minsteytelsen.
+
+Artikkel 59
+
+Ny beregning og regulering av ytelser
+
+1\. Dersom metoden for fastsettelse av ytelser eller reglene for beregning av ytelser endres i en medlemsstats lovgivning, eller dersom det skjer en relevant endring i den berørte personens personlige situasjon som etter den lovgivningen resulterer i en justering av ytelsesbeløpet, skal det foretas en ny beregning i samsvar med artikkel 52.
+
+2\. Dersom den berørte medlemsstats ytelser endres med en prosentdel eller med et bestemt beløp som følge av økte levekostnader, endret inntektsnivå eller andre forhold som nødvendiggjør en justering, skal derimot denne prosentdel eller dette beløp anvendes direkte på ytelser fastsatt i samsvar med artikkel 52, uten at det er nødvendig å foreta en ny beregning.
+
+Artikkel 60
+
+Særlige bestemmelser for tjenestemenn
+
+1\. Artikkel 6, artikkel 50, artikkel 51 nr. 3 og artikkel 52–59 får tilsvarende anvendelse på personer som omfattes av en særordning for tjenestemenn.
+
+2\. Dersom den kompetente medlemsstats lovgivning setter som et vilkår for å oppnå, tape, beholde eller få tilbake rett til ytelser etter en særordning for tjenestemenn at all trygdetid skal være tilbakelagt under en eller flere særordninger for tjenestemenn i den medlemsstaten, eller skal være sidestilt med slik tid etter den medlemsstatens lovgivning, skal imidlertid medlemsstatens kompetente institusjon utelukkende ta hensyn til tid som kan godkjennes etter lovgivningen den anvender.
+
+Dersom slik tilbakelagt trygdetid er medregnet og den berørte personen ikke oppfyller vilkårene for å motta disse ytelsene, skal denne tid medregnes når ytelser tilstås etter den alminnelige ordningen eller, i mangel av en slik ordning, eventuelt etter en ordning for arbeidere eller funksjonærer.
+
+3\. Når ytelser etter en særordning for tjenestemenn etter en medlemsstats lovgivning beregnes på grunnlag av den lønn som sist ble utbetalt i løpet av en referanseperiode, skal den medlemsstatens kompetente institusjon ved beregningen utelukkende ta hensyn til den regulerte lønn som er mottatt i det eller de tidsrom da den berørte personen var undergitt denne lovgivning.
+
+Kapittel 6
+
+Ytelser ved arbeidsløshet
+
+Artikkel 61
+
+Særregler om sammenlegging av trygdetid, tid med lønnet arbeid eller tid med selvstendig virksomhet
+
+1\. Dersom en medlemsstats lovgivning setter tilbakelagt trygdetid, tid med lønnet arbeid eller tid med selvstendig virksomhet som et vilkår for å oppnå, beholde eller få tilbake rett til ytelser, eller for at denne rettighet skal ha en viss varighet, skal den kompetente institusjon i den utstrekning det er nødvendig, ta hensyn til trygdetid, tid med lønnet arbeid eller tid med selvstendig virksomhet som er tilbakelagt etter enhver annen medlemsstats lovgivning, som om den var tilbakelagt etter lovgivningen den anvender.
+
+Når gjeldende lovgivning setter tilbakelagt trygdetid som et vilkår for rett til ytelser, skal det imidlertid ikke tas hensyn til tid med lønnet arbeid eller tid med selvstendig virksomhet som er tilbakelagt etter en annen medlemsstats lovgivning, med mindre dette er tid som ville vært ansett som trygdetid om den var tilbakelagt i samsvar med gjeldende lovgivning.
+
+2\. Med unntak av de tilfeller som er nevnt i artikkel 65 nr. 5 bokstav a), skal nr. 1 i denne artikkel bare anvendes dersom den berørte personen, i samsvar med lovgivningen som legges til grunn for krav om ytelser, sist har tilbakelagt
+
+– trygdetid, dersom lovgivningen krever trygdetid,
+
+– tid med lønnet arbeid, dersom lovgivningen krever tid med lønnet arbeid,
+
+eller
+
+– tid med selvstendig virksomhet, dersom lovgivningen krever tid med selvstendig virksomhet.
+
+Artikkel 62
+
+Beregning av ytelser
+
+1\. Den kompetente institusjon i en medlemsstat hvis lovgivning fastsetter at ytelser skal beregnes på grunnlag av tidligere lønn eller yrkesinntekt, skal utelukkende ta hensyn til den lønn eller yrkesinntekt den berørte personen har mottatt for sitt siste lønnede arbeid eller sin siste selvstendige virksomhet etter nevnte lovgivning.
+
+2\. Nr. 1 får også anvendelse dersom den lovgivning som den kompetente institusjon anvender, har bestemmelser om en bestemt referanseperiode for fastsettelse av den lønn som skal være beregningsgrunnlaget for ytelser, og dersom den berørte personen har vært undergitt en annen medlemsstats lovgivning i hele eller deler av den perioden.
+
+3\. For arbeidsløse personer som omfattes av artikkel 65 nr. 5 bokstav a), skal institusjonen på bostedet som unntak fra nr. 1 og 2 ta hensyn til lønn eller yrkesinntekt den berørte personen har mottatt i den medlemsstat hvis lovgivning han/hun var undergitt da han/hun utførte sitt siste lønnede arbeid eller drev sin siste selvstendige virksomhet, i samsvar med gjennomføringsforordningen.
+
+Artikkel 63
+
+Særlige bestemmelser om opphevelse av bostedskrav
+
+I dette kapittel får artikkel 7 bare anvendelse på de tilfeller som er omhandlet i artikkel 64, 65 og 65a, og innenfor de grenser som er fastsatt der.
+
+Artikkel 64
+
+Arbeidsløse som reiser til en annen medlemsstat
+
+1\. En helt arbeidsløs person som oppfyller den kompetente medlemsstats vilkår for rett til ytelser, og som reiser til en annen medlemsstat for å søke arbeid der, skal beholde sin rett til kontantytelse ved arbeidsløshet på følgende vilkår og med følgende begrensninger:
+
+a\) før avreisen må den arbeidsløse ha vært registrert som arbeidssøker og ha vært til rådighet for arbeidsformidlingen i den kompetente medlemsstat i minst fire uker etter at han/hun ble arbeidsløs. Den kompetente arbeidsformidling eller den kompetente institusjon kan likevel gi samtykke til at han/hun reiser før utløpet av denne fristen,
+
+b\) den arbeidsløse skal registrere seg som arbeidssøker ved arbeidsformidlingen i medlemsstaten han/hun har reist til, omfattes av kontrollordningen som gjelder der, og overholde vilkårene i den medlemsstatens lovgivning. Dette vilkåret skal anses oppfylt i tiden fram til den berørte personen registrerer seg, dersom registreringen skjer innen sju dager fra den dag han/hun ikke lenger er til rådighet for arbeidsformidlingen i medlemsstaten han/hun har forlatt. I unntakstilfeller kan den kompetente arbeidsmidling eller den kompetente institusjon forlenge denne perioden,
+
+c\) retten til ytelser skal beholdes i tre måneder fra den dag den arbeidsløse ikke lenger er til rådighet for arbeidsformidlingen i medlemsstaten han/hun har forlatt, forutsatt at det ikke gis ytelser i lengre tid totalt enn den tid han/hun totalt har rett til ytelser etter denne medlemsstatens lovgivning. Den kompetente arbeidsformidling eller den kompetente institusjon kan forlenge perioden på tre måneder med inntil tre nye måneder,
+
+d\) ytelsene skal gis av den kompetente institusjon i samsvar med lovgivningen den anvender, og skal dekkes av den.
+
+2\. Dersom den berørte personen reiser tilbake til den kompetente medlemsstat i løpet av tidsrommet han/hun har rett til ytelser etter nr. 1 bokstav c), skal han/hun fortsatt ha rett til ytelser etter denne medlemsstatens lovgivning. Han/hun skal tape all rett til ytelser etter den kompetente medlemsstatens lovgivning dersom han/hun ikke reiser tilbake dit i løpet av dette tidsrommet, med mindre den lovgivningen har gunstigere bestemmelser. Den kompetente arbeidsformidling eller den kompetente institusjon kan i unntakstilfeller tillate at den berørte personen reiser tilbake på et senere tidspunkt uten tap av rettigheter.
+
+3\. Med mindre den kompetente medlemsstats lovgivning har gunstigere bestemmelser, skal tidsrommet mellom to ansettelsesperioder med opprettholdelse av rett til ytelser etter nr. 1, være høyst tre måneder totalt. Den kompetente arbeidsformidling eller den kompetente institusjon kan forlenge denne perioden med inntil tre nye måneder.
+
+4\. Bestemmelser om utveksling av opplysninger, samarbeid og gjensidig bistand mellom institusjoner og tjenester i den kompetente medlemsstat og medlemsstaten personen reiser til for å søke arbeid, skal fastsettes i gjennomføringsforordningen.
+
+Artikkel 65
+
+Arbeidsløse som har vært bosatt i en annen medlemsstat enn den kompetente stat
+
+1\. En person som er delvis eller periodevis arbeidsløs, og som da han/hun sist utførte lønnet arbeid eller drev selvstendig virksomhet, var bosatt i en annen medlemsstat enn den kompetente medlemsstat, skal stille seg til rådighet for sin arbeidsgiver eller for arbeidsformidlingen i den kompetente medlemsstat. Han/hun skal motta ytelser i samsvar med den kompetente medlemsstats lovgivning som om han/hun var bosatt i den medlemsstaten. Disse ytelsene skal gis av institusjonen i den kompetente medlemsstat.
+
+2\. En person som er helt arbeidsløs, og som da han/hun sist utførte lønnet arbeid eller drev selvstendig virksomhet, var bosatt i en annen medlemsstat enn den kompetente medlemsstat, og som fortsatt er bosatt i den medlemsstaten eller reiser tilbake til den medlemsstaten, skal stille seg til rådighet for arbeidsformidlingen i bostedsstaten. Uten at det berører artikkel 64 kan en helt arbeidsløs person i tillegg stille seg til rådighet for arbeidsformidlingen i medlemsstaten der han/hun sist utførte lønnet arbeid eller drev selvstendig virksomhet.
+
+En arbeidsløs person som ikke er grensearbeider, og som ikke reiser tilbake til sin bostedsstat, skal stille seg til rådighet for arbeidsformidlingen i den medlemsstat hvis lovgivning han/hun sist var undergitt.
+
+3\. Den arbeidsløse personen som er nevnt i nr. 2 første punktum, skal registrere seg som arbeidssøker ved den kompetente arbeidsformidling i bostedsstaten, omfattes av kontrollordningen som gjelder der, og overholde vilkårene i den medlemsstatens lovgivning. Dersom han/hun også velger å registrere seg som arbeidssøker i medlemsstaten der han/hun sist utførte lønnet arbeid eller drev selvstendig virksomhet, skal han/hun oppfylle forpliktelsene som gjelder i den medlemsstaten.
+
+4\. Gjennomføringen av nr. 2 annet punktum og nr. 3 annet punktum, samt bestemmelser om utveksling av opplysninger, samarbeid og gjensidig bistand mellom institusjoner og tjenester i bostedsstaten og medlemsstaten der han/hun sist var yrkesaktiv, skal fastsettes i gjennomføringsforordningen.
+
+5\.
+
+a\) Den arbeidsløse personen som nevnt i nr. 2 første og annet punktum, skal motta ytelser i samsvar med bostedsstatens lovgivning som om han/hun var undergitt den lovgivningen da han/hun sist utførte lønnet arbeid eller drev selvstendig virksomhet. Disse ytelsene skal gis av institusjonen på bostedet.
+
+b\) En arbeidstaker som ikke er grensearbeider, og som har fått utbetalt ytelser av den kompetente institusjon i den medlemsstat hvis lovgivning han/hun sist var undergitt, skal imidlertid først motta ytelser i samsvar med artikkel 64 når han/hun reiser tilbake til bostedsstaten, ettersom mottak av ytelser i samsvar med bokstav a) stanses midlertidig i det tidsrom han/hun mottar ytelser etter lovgivningen han/hun sist var undergitt.
+
+6\. Ytelser som gis av institusjonen på bostedet i henhold til nr. 5, skal fortsatt dekkes av den. Den kompetente institusjon i den medlemsstat hvis lovgivning han/hun sist var undergitt, skal imidlertid gi institusjonen på bostedet full refusjon for ytelser sistnevnte institusjon har gitt i løpet av de tre første månedene, med forbehold for nr. 7. Beløpet som refunderes i dette tidsrommet, kan ikke være høyere enn beløpet som skal utbetales ved arbeidsløshet etter den kompetente medlemsstats lovgivning. I tilfellet nevnt i nr. 5 bokstav b) skal tidsrommet da det gis ytelser etter artikkel 64, trekkes fra tidsrommet nevnt i dette nummer annet punktum. Bestemmelser om refusjon skal fastsettes i gjennomføringsforordningen.
+
+7\. Tidsrommet for refusjon som er nevnt i nr. 6, skal imidlertid forlenges til 5 måneder når den berørte personen i løpet av de foregående 24 måneder har tilbakelagt tid med lønnet arbeid eller tid med selvstendig virksomhet av minst 12 måneders varighet i den medlemsstat hvis lovgivning han/hun sist var undergitt, dersom disse tidsrom ville gitt rett til ytelser ved arbeidsløshet.

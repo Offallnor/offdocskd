@@ -1,833 +1,254 @@
-# Prop. 131 L (2021–2022), del 3 av 6 (side 30–39)
+# Prop. 131 L (2021–2022), del 3 av 7
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/40431bb0-prop-131-l-20212022.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-131-l-20212022/id2919207/
 - Original-PDF: https://www.regjeringen.no/contentassets/e6495a5123204697a0593b7ed1bbbfa2/no/pdfs/prp202120220131000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 30]
-
-28
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-som ikke trenger å følge likebehandlingsprinsippet, og mer midlertidighet og permitteringer.
-Adecco Group Norge mener at et forbud vil gi grobunn for flere useriøse aktører og alternative
-tilknytningsformer, og ikke flere faste ansettelser.
-Departementet viser generelt til at en ikke
-med sikkerhet kan si hva som blir de samlede
-konsekvensene av et forbud som foreslått i og
-med at det er mange og ulike forhold som har
-betydning for utviklingen i næringen. Det er imidlertid en ønsket konsekvens at praksis vil måtte
-legges om. Departementet viser til at forslaget for
-arbeidstakerne innebærer muligheter for økt
-bruk av faste ansettelser, med den trygghet og
-forutsigbarhet det fører med seg når det gjelder
-sikkerhet for fremtidig arbeid og inntekt. Høy
-grad av faste ansettelser kan også bidra til mer
-produktive, omstillings- og konkurransedyktige
-virksomheter, blant annet som følge av at det
-investeres i de ansattes kompetanse. Et mål er å
-gjøre det mer attraktivt og lettere å rekruttere
-arbeidstakere til faste stillinger i virksomhetene,
-herunder å skape grunnlag for styrket rekruttering til byggenæringen gjennom lærlingeordning
-og bruk av fagarbeidere, hvor det eksisterer godt
-utviklede ordninger i næringen og hvor det er
-behov for å øke tilbudet av kvalifisert arbeidskraft.
-Alle slike forhold bidrar også til positive konsekvenser på samfunnsnivå.
-Når det gjelder bruk av underentreprenører,
-er dette vanlig i byggenæringen og reguleres
-gjennom ordinære kontraktsforhold. Departementet antar at det med forslaget kan oppstå en
-dreining mot bruk av mer entreprise i næringen,
-det vil si at virksomheter kjøper resultatentrepriser fra andre virksomheter under sistnevntes
-arbeidsledelse i stedet for å utføre arbeidet selv
-ved hjelp av innleid arbeidskraft. En slik utvikling
-tilsier at arbeidskraften i så fall er ansatt direkte
-hos (under)-entreprenørene. Til forskjell fra innleie vil det her foreligge toparts arbeidsforhold
-direkte i produksjonsleddet.
-Departementet viser til at det gjelder en rekke
-krav som alle virksomheter i næringen må følge,
-blant annet krav om at lønns- og arbeidsvilkår må
-være i samsvar med gjeldende allmenngjøringsforskrift. For hovedleverandør/hovedentreprenør
-gjelder en plikt til å påse at lønns- og arbeidsvilkår
-hos virksomhetens underleverandører er i overensstemmelse med gjeldende allmenngjøringsforskrifter. I offentlige kontrakter av en viss verdi er
-det også en hovedregel om maksimalt to ledd med
-underleverandører.
-Departementet viser også til forslag om å tydeliggjøre grensen mellom innleie og entreprise,
-
-2021–2022
-
-som omtales i kapittel 8. Hvorvidt en oppdragskontrakt er å anse som innleie eller entreprise er
-også underlagt offentlig tilsyn, gjennom at tilsynsmyndighetene må ta stilling til denne grensedragningen i forbindelse med tilsyn av innleiereglene.
-Departementet viser også til initiativet for å
-utarbeide en Norgesmodell med nasjonale seriøsitetskrav for alle offentlige anskaffelser, hvor intensjonen er å styrke de offentlige oppdragsgivernes
-kontroll og oppfølging av sine leverandører.
-Offentlige oppdrag står for en betydelig andel av
-prosjektmengden for byggenæringen. Som det
-fremgår nedenfor, vil departementet i samråd
-med partene dessuten utarbeide en veileder knyttet til regler og problemstillinger ved bruk av innleie og entreprise i arbeidslivet.
-Når det gjelder bekymringen knyttet til økt
-bruk av midlertidig ansettelse, viser departementet til at et klart mål for regjeringen er at byggebedriftene organiserer sin faste grunnbemanning
-etter sitt permanente arbeidskraftbehov, og at
-arbeidstakere som i dag er ansatt i bemanningsforetak får direkte ansettelse i en produksjonsbedrift. Lovens klare hovedregel er fast ansettelse,
-og midlertidig ansettelse ved såkalte arbeidstopper som ikke er sesongavhengige, er kun tillatt
-«dersom det dreier seg om kortvarige og uforutsigbare situasjoner», jf. Prop. 39 L (2014–2015)
-punkt 5.3.1.2. Departementet viser også til at prosjekt- eller oppdragsbasert arbeid i seg selv ikke
-gir grunnlag for midlertidig ansettelse eller innleie. Dersom dette rettslige utgangspunktet legges til grunn, bør det etter departementets vurdering være god grunn til å tro at grunnbemanningen i byggebedriftene vil øke. Departementet
-understreker samtidig at virksomhetene fortsatt
-vil ha mulighet for midlertidig ansettelse som en
-fleksibilitetsmekanisme. Fordi midlertidig ansettelse ligger innenfor rammen av direkte ansettelse
-i topartsforhold, vurderer departementet at dette i
-større grad enn innleie legger grunnlag for tillit,
-utvikling og samarbeid, samt overgang til fast
-ansettelse.
-Når det gjelder bekymringer knyttet til mangel
-på arbeidskraft, forsinkelser og kostander, viser
-departementet til at et forbud mot innleie i seg
-selv ikke bør føre til redusert tilgang på arbeidskraft. Et forbud mot innleie vil derimot ha betydning for hvordan virksomhetene tilknytter seg
-arbeidskraften. I stedet for å leie inn må virksomheten ansette arbeidstakeren direkte. Dette kan
-innebære noe mer administrasjon fra virksomhetens side, særlig i en overgangsperiode, og kan
-hende sterkere krav til prosjektstyring og -gjennomføring for alle involverte for å unngå at det
-
-[Side 31]
-
-2021–2022
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-oppstår situasjoner med forsinkelser, korte tidsfrister mv. som kan ha vært viktige årsaker til at
-det oppstår behov for å benytte innleie.
-Departementet viser generelt til at det er
-mange og ulike forhold som påvirker kostnadene
-ved byggeprosjekter. Departementet kan ikke se
-at det foreligger særlige forhold i byggenæringen
-som tilsier at faste og/eller direkte ansettelser
-skal innebære større omkostninger her enn hva
-tilfellet er for annet prosjektbasert arbeid i norsk
-arbeidsliv. Departementet viser ellers til omtale av
-behovet for overgangsordning nedenfor.
-Departementet peker videre på at fleksibilitet i
-et topartsforhold også kan oppnås gjennom muligheten for deltidsansettelse, og at loven åpner for
-gjennomsnittsberegning av arbeidstiden slik at
-det kan arbeides mer i enkelte perioder mot tilsvarende fritid i andre. For virksomheter som i perioder står uten oppdrag, er det også mulig å leie ut
-egne arbeidstakere til annen produksjonsbedrift,
-jf. § 14-13. Bestemmelsen tar typisk sikte på
-utlånslignende situasjoner mellom produksjonsbedrifter som alternativ til oppsigelse eller permittering, se Ot.prp. nr. 70 (1998–1999) punkt 6.3.4.1.
-Departementet viser for øvrig til kapittel 13
-nedenfor med nærmere omtale og vurderinger av
-økonomiske og administrative konsekvenser.
-I høringen ba departementet også om
-høringsinstansenes innspill til alternative tiltak
-som kan være egnet til å få bukt med uønsket innleie til byggenæringen i Oslo-området.
-NHO mener det bør sees på en løsning der
-adgang til innleie fra bemanningsforetak kan
-begrenses til de tilfellene enten innleier eller
-utleier er bundet av tariffavtale inngått med fagforening med innstillingsrett, eventuelt i kombinasjon med krav til stillingsprosent. NHO mener
-også at det er grunn til i samarbeid med partene å
-utrede muligheten for en kvote. NHO viser også
-til at en mulighet kan være at oppdragsgiver eller
-hovedentreprenør pålegges informasjons- og
-påseplikt knyttet til innleieregelverket, og at oppdragsgiver i offentlige kontrakter stiller krav om
-lovlig innleie, og at det på forespørsel må dokumenteres at vilkårene er oppfylt.
-Departementet har vurdert disse innspillene,
-men mener at forslagene ikke vil være tilstrekkelige for å løse problemet med omfattende og vedvarende bruk av innleie i stedet for faste ansettelser i virksomhetene. Behovet for tiltak, jf. ovenfor,
-gjelder etter departementets vurdering også for
-tariffbundne virksomheter. Det å ha en regel om
-at innleie er tillatt fra bemanningsforetak med
-tariffavtale, vil innebære at alle byggebedrifter
-fortsatt kan leie inn, men presumptivt kun fra
-
-29
-
-noen få store bemanningsforetak som har tariffavtale. At adgangen til innleie forutsetter tariffbinding på et visst nivå for utleier eller innleier fremstår derfor ikke som et egnet alternativ. Når det
-gjelder kvote, viser departementet til at dette også
-er utredet og hørt tidligere. Forslaget møtte motstand i høringen, fra organisasjoner på både
-arbeidsgiver- og arbeidstakersiden. I Prop. 73 L
-(2017–2018) punkt 8.3.1 fremkommer at
-flere mener at en kvote vil kunne oppfattes som
-en norm og føre til mer innleie. Det er videre
-påpekt utfordringer ved praktiseringen av en
-kvoteregel, og flere mener at en eventuell regulering må skje på arbeidsplassnivå i stedet for
-virksomhetsnivå. Andre har pekt på at en kvote
-vil være komplisert, og flere har vist til utfordringer med håndheving og sanksjonering.
-Departementet mener at dette fortsatt er relevante forhold å se hen til, og at en slik regulering
-uansatt ikke vil være tilstrekkelig for å løse utfordringen med vedvarende høy bruk av innleie til
-byggenæringen i Oslo-området.
-Det har også kommet innspill om andre tiltak
-knyttet til innleie i byggenæringen, som eventuelt
-kunne virke sammen med eller i tillegg til forslaget om forbud. Arbeidstilsynet har ulike forslag til
-tiltak for å styrke innleide arbeidstakeres arbeidsmiljø og arbeidsvilkår, herunder å tydeliggjøre
-innleiers ansvar for arbeidsmiljøet til innleide,
-krav om skriftlig oppdatert oversikt over innleide
-arbeidstakere, lovfeste skriftlighetskrav om hvilke
-opplysninger innleier skal gi til bemanningsforetaket, og påseplikt for innleier. Oslo kommune viser
-til kravene i Oslomodellen, og peker på at en
-nasjonal Norgesmodell vil kunne bidra til at leverandørmarkedet i større grad satser på fast
-ansatte i stedet for innleide for å få oppdrag.
-Departementet vil vurdere slike tiltak nærmere.
-Departementet peker i denne sammenheng dessuten på at departementet i samråd med partene vil
-utarbeide en praktisk og juridisk veileder for bruk
-av innleie og entreprise i norsk arbeidsliv.
-Det er i høringen reist spørsmål om forskriftens hjemmelsgrunnlag. NHO Service og Handel
-viser blant annet til at forhistorien til § 14-12 femte
-ledd tilsier at forskriftshjemmelen skal brukes for
-å forhindre at innleie skal virke lønns- og kostnadsdrivende, og viser til enkelte forarbeidsuttalelser. Etter departementets vurdering er det
-sentrale vilkåret i forskriftshjemmelen at det foreligger «viktige samfunnshensyn» som tilsier at
-innleie av visse arbeidstakergrupper eller på visse
-områder må forbys. At forarbeidene gir eksempel
-
-[Side 32]
-
-30
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-på hvilke situasjoner man har hatt i tankene, oppfatter ikke departementet som en uttømmende
-beskrivelse av når forskriftshjemmelen kan benyttes. Etter departementets vurdering foreligger nå
-viktige samfunnshensyn som tilsier et bransjemessig og geografisk avgrenset forbud. Det vises
-til vurderingen ovenfor.
-Departementet nevner for ordens skyld at som
-følge av forslag om nye ledd i § 14-12 jf. nedenfor,
-vil gjeldende femte ledd bli nytt sjette ledd.
-Flere høringsinstanser, herunder NHO, har
-også spilt inn at det er behov for overgangsordninger for bindende tilbud og inngåtte kontrakter.
-Departementet ser at et forbud vil kunne innebære en stor overgang for de som i dag benytter
-mye innleie. Departementet vil fastsette forskrift
-med virkning fra 2023, og i tillegg med overgangsordninger for allerede bindende kontrakter.
-Det er i høringen etterspurt avklaring om forbudets varighet og også bedt om at forbudet gjøres tidsbegrenset, samt uttrykt behov for at forbudet evalueres underveis. Departementet mener
-det er viktig at forbudets virkninger vurderes og
-evalueres. Som nevnt i kapittel 5 vil departementet iverksette et eksternt FoU-prosjekt for å belyse
-virkninger av de forslagene som fremmes, herunder forbudet. Et slikt oppdrag er det naturlig at
-utformes i samråd med partene. Det bør tas sikte
-på å få kartlagt virkningene av forbudet, herunder
-betydning for blant annet omfang av grunnbemanning og faste ansettelser, bruk av underentreprise, midlertidig ansettelse og selvstendige oppdragstakere. Det bør også ses på mulighetene for
-å få kartlagt virkningene forbudet får for blant
-annet byggeaktivitet og kostnader, og også fagorganisering i næringen. Resultatene fra prosjektet
-vil inngå i et arbeid med å evaluere tiltakene.
-
-6.4.3 Tilsynshjemmel
-Departementet viser til at Arbeidstilsynet (og
-Petroleumstilsynet og Luftfartstilsynet på sine
-områder) med virkning fra 1. juli 2020 fikk myndighet til å føre tilsyn med innleie- og likebehandlingsreglene, jf. Prop. 61 LS (2019–2020). Det er etter
-departementets vurdering både naturlig og nødvendig for å sikre etterlevelse, at også et forbud
-hjemlet i § 14-12 underlegges offentlig tilsyn.
-Departementet foreslår at Arbeidstilsynet gis
-hjemmel til å føre tilsyn med forskrifter gitt i medhold av § 14-12 sjette ledd (nåværende femte ledd).
-Etter departementets vurdering bør Arbeidstilsynets påleggskompetanse når det gjelder forbud være den samme som den som gjelder innleiereglene for øvrig. Det vil si at tilsynets myndig-
-
-2021–2022
-
-het avgrenses mot spørsmål om arbeidstakers rett
-til direkte ansettelse mv., se Prop. 61 LS (2019–
-2020) særlig punkt 2.6.2.1.
-Advokatforeningen mener at brukervennlighet
-og hensynet til klarhet tilsier at tilsynskompetansen også beskrives i selve forskriften. Departementet vil vurdere dette nærmere ved fastsetting
-av forskriften.
-Tilsynshjemmelen vil også gjelde for eventuelle andre fremtidige forskrifter fastsatt i medhold
-av § 14-12 sjette ledd.
-Som departementet påpekte i høringen, vil
-også et forbud med hjemmel i § 14-12 være omfattet av reglene om kollektiv søksmålsrett, som nå
-er vedtatt og som vil tre i kraft fra 1. juli 2022.
-
-6.4.4
-
-Generell innstramming i
-innleiereglene
-
-Når det gjelder behovet for en generell innstramming i adgangen til innleie fra bemanningsforetak, er det særlig muligheten til å leie inn ved
-arbeid av midlertidig karakter som etter departementets syn er problematisk og som bidrar til å
-fortrenge direkte ansettelser i en topartsrelasjon,
-jf. arbeidsmiljøloven § 14-12 første ledd, jf. § 14-9
-andre ledd bokstav a. Departementet viser til at
-muligheten til å leie inn arbeidstakere når arbeidet er av midlertidig karakter beror på en bred
-skjønnsmessig
-vurdering.
-Innleieadgangen
-bestemmelsen åpner for kan misforstås og misbrukes, og kan generelt gjøre det mulig å basere
-et permanent bemanningsbehov på innleie.
-Etter departementets syn er det grunn til å
-anta at innleie begrunnet i at arbeidet er av midlertidig karakter blir benyttet i større omfang enn
-loven gir grunnlag for, og at flere virksomheter
-dekker et permanent bemanningsbehov med innleie etter denne hjemmelen. Departementet viser
-til en kartlegging utført av Svalund mfl. (2019),
-der mellom 23 og 36 prosent av arbeidsgiverne
-som deltok i undersøkelsen oppga at de kan ha
-leid inn arbeidstakere uten å ha adgang til dette
-etter regelverket, og uten å ha avtale med tillitsvalgte, jf. punkt 3.7. I enkelte bransjer kan deler av
-arbeidet være av midlertidig varighet, uten at
-lovens vilkår om midlertidighet nødvendigvis er
-oppfylt. Det synes blant annet å være en utbredt
-misforståelse at prosjektarbeid alltid vil være
-arbeid av midlertidig karakter. Etter departementets vurdering vil det å fjerne muligheten for innleie ved arbeid av midlertidig karakter kunne
-bidra til å hindre misbruk og omgåelser.
-Etter departementets syn er det ikke bare i
-de tilfeller bestemmelsen misbrukes og misfor-
-
-[Side 33]
-
-2021–2022
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-stås at innleieadgangen er problematisk. Også i
-de tilfeller bestemmelsen praktiseres etter sin
-ordlyd, åpner den etter departementets vurdering i dag for en innleiepraksis som blir for vidtgående. Departementet viser til at det er bred
-enighet om at fast og direkte ansettelse skal
-være hovedregelen i norsk arbeidsliv. Innleie er
-en tilknytningsform som fortrenger og utfordrer
-den faste ansettelsen på flere måter, og som innebærer flere negative konsekvenser for de innleide arbeidstakerne, innleievirksomhetens egne
-ansatte og for arbeidsmarkedet, jf. punkt 3.6 og
-kapittel 5. Departementet mener derfor at det å
-oppheve adgangen til innleie ved arbeid av midlertidig karakter vil være en hensiktsmessig innstramming av innleieadgangen. Forslaget innebærer at innleie først og fremst vil være aktuelt
-ved reelle vikariater. I tillegg tillates innleie etter
-avtale med de tillitsvalgte dersom virksomheten
-er bundet av tariffavtale med fagforening med
-innstillingsrett.
-Hensynet til å gjøre innleieregelverket enklere
-å håndheve taler etter departementets syn også
-for å fjerne innleieadgangen ved arbeid av midlertidig karakter. Arbeidstilsynet fikk fra 1. juli 2020
-myndighet til å føre tilsyn med vilkårene for innleie, jf. Prop. 61 LS (2019–2020). Departementet
-viser til at Arbeidstilsynet har pekt på problemer
-med å håndheve bestemmelsen, ettersom vurderingen av om arbeidet er av midlertidig karakter
-er svært skjønnsmessig.
-Forslaget vil etter departementets vurdering
-bidra til å stimulere til flere faste og direkte ansettelser, og dermed økt grunnbemanning. En slik
-innstramming vil også gjøre regelverket enklere å
-forstå og praktisere, både for arbeidsgiver og
-arbeidstaker.
-Flere høringsinstanser støtter forslaget. LO
-mener at forslaget er svært viktig og et egnet tiltak som vil ha stor betydning i alle bransjer. LO
-viser til at innleie fortrenger faste ansettelser i
-topartsrelasjoner, og at dagens ulike grunnlag for
-innleie med innslag av skjønn åpner for misbruk
-og misforståelser. En innstramming vil føre til et
-enklere regelverk og gjøre det enklere å avdekke
-misforståelser og misbruk. Konsekvensen vil
-ifølge LO være flere faste og direkte ansettelser.
-Forslaget støttes også av blant annet Unio, YS og
-Arbeidstilsynet.
-Hovedorganisasjonene på arbeidsgiversiden
-viser til at forslaget er inngripende og at det vil ha
-dramatisk effekt for virksomheter som er avhengig av innleie ved midlertidig behov. Lovens
-øvrige mekanismer vil etter deres syn ikke løse
-virksomhetenes bemanningsbehov på en god
-
-31
-
-måte. NHO mener at innleie ved arbeid av midlertidig karakter ikke fortrenger faste ansettelser,
-ettersom behovet hos innleier er midlertidig. Forslaget vil ifølge organisasjonene på arbeidsgiversiden føre til økt bruk av midlertidige ansettelser.
-Departementet viser til at formålet med forslaget er å bidra til flere faste og direkte ansettelser, hvilket er hovedregelen i norsk arbeidsliv, jf.
-§ 14-9 første ledd. Loven oppstiller strenge vilkår
-for å gjøre unntak fra denne hovedregelen. Generelle eller jevne variasjoner i ordretilgang eller
-generell usikkerhet knyttet til fremtidig arbeidskraftbehov oppfyller ikke vilkåret om at arbeidet
-må være av midlertidig karakter, jf. Ot.prp. nr. 49
-(2004–2005) side 214. Det at arbeidet er organisert i prosjekt eller som et enkeltstående oppdrag, er ifølge forarbeidene i seg selv heller ikke
-tilstrekkelig til å begrunne midlertidig ansettelse
-etter denne bestemmelsen.
-En sannsynlig konsekvens av forslaget vil etter
-departementets vurdering derfor være at flere
-virksomheter vil bli nødt til å øke grunnbemanningen med flere faste ansettelser.
-Etter departementets syn vil lovens øvrige
-mekanismer gi virksomhetene tilstrekkelig fleksibilitet til å løse reelle midlertidige behov for økt
-bemanning. Departementet viser til at det fortsatt
-vil være mulig å leie inn arbeidstakere i vikartilfellene, eller å inngå tidsbegrenset avtale om innleie
-med de tillitsvalgte etter § 14-12 andre ledd. Sistnevnte vil kunne bidra til økt utbredelse av fagorganisering og tariffavtaler, hvilket er en ønsket
-virkning av forslaget. Det vil også være mulig å
-leie inn arbeidstakere fra andre produksjonsbedrifter, jf. § 14-13, for eksempel for å ta unna
-arbeidstopper.
-Det vil i tillegg være mulig med direkte midlertidig ansettelse, jf. § 14-9 andre ledd bokstav a, forutsatt at lovens vilkår er oppfylt. Departementet
-vil følge nøye med på en eventuell utvikling i retning av økt bruk av ulovlige midlertidige ansettelser.
-Flere høringsinstanser mener at midlertidig
-ansettelse gir arbeidstakerne dårligere vern enn
-ved utleie fra bemanningsforetak. Det vises blant
-annet til at midlertidig ansatte ikke er beskyttet
-av likebehandlingsreglene, og til at den enkelte
-får kortvarig tilknytning til mange ulike arbeidsgivere over tid, og dermed svekkede sykepengerettigheter og en fragmentert pensjonsopptjening.
-Etter departementets syn har midlertidig og
-direkte ansettelse i en topartsrelasjon flere fordeler sammenlignet med innleie. Direkte midlertidig ansettelse sikrer etter departementets vurde-
-
-[Side 34]
-
-32
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-ring bedre grunnlag for tillit, samarbeid, medvirkning og kompetanseutvikling, samt overgang
-til fast ansettelse. Departementet viser til at
-arbeidstakere som er midlertidig ansatt, med
-unntak av vikartilfellene, har fortrinnsrett til ny
-ansettelse dersom arbeidstakeren på grunn av
-virksomhetens forhold ikke får fortsatt ansettelse, jf. § 14-2 andre ledd. Tilsvarende gjelder
-ikke ved innleie. En analyse utført av Strøm og
-von Simson (2020) viser at 40–50 prosent av de
-midlertidig ansatte oppnår fast stilling etter ett
-år. Når det gjelder innleie, viser tall fra Institutt
-for samfunnsforskning at rundt 30 prosent av de
-innleide går over til fast ansettelse. Departementet viser videre til at det ved innleie ofte er slik at
-arbeidstakeren leies ut til flere ulike virksomheter, og at innleieadgangen ikke i seg selv sikrer
-arbeidstakeren en mer langvarig tilknytning til
-virksomheten. Etter hva departementet er kjent
-med benytter bemanningsforetakene ofte gjennomsnittsberegning av arbeidstiden, og når
-arbeidstakeren har arbeidet den avtalte stillingsprosenten, har arbeidstakeren gjerne ingen
-garanti for at vedkommende vil få tildelt flere
-oppdrag. Etter hva departementet er kjent med
-er det heller ikke vanlig praksis at arbeidstakerne får lønn mellom oppdrag. Departementet
-kan ikke se at dette sikrer bedre forutsigbarhet
-for arbeidstakeren.
-En konsekvens av forslaget vil være at virksomhetene i større grad vil måtte basere eventuell
-innleie på avtale med de tillitsvalgte, jf. § 14-12
-andre ledd. LO påpeker at dette kan medføre et
-økt press på lokale tillitsvalgte, og også at de tillitsvalgte opplever et press for å inngå avtaler av
-lang varighet og med et stort omfang. Etter LOs
-syn bør det derfor angis en maksimal varighet på
-avtaler om innleie enten i lov eller forarbeider. YS
-mener at avtaleadgangen burde vært lagt til selve
-fagforeningen med innstillingsrett.
-Departementet viser her til at det i 2019 ble stilt
-høyere krav til nivået på tariffavtalen innleiebedriften må være bundet av for å inngå avtale med
-lokale tillitsvalgte. Som et ledd i begrunnelsen viste
-departementet til at det var rapportert om at tillitsvalgte opplevde press for å inngå avtaler, jf. Prop. 73
-L (2017–2018). Departementet antar at det i seriøse
-virksomheter bundet av tariffavtale med fagforening med innstillingsrett vanligvis vil foreligge en
-god dialog i forkant av eventuelle avtaler om innleie, og at lokale tillitsvalgte vil kunne søke råd og
-veiledning av fagforeningen sentralt før det inngås
-slik avtale. Arbeidsgiver har etter gjeldende rett
-også en plikt til å drøfte bruken av innleid arbeidskraft med de tillitsvalgte, jf. § 14-12 tredje ledd, og
-
-2021–2022
-
-det er et generelt krav at innleie etter avtale med tillitsvalgte skal være «tidsbegrenset». Departementet kan på nåværende tidspunkt ikke se at det er
-nødvendig å sette en grense for lengden på slike
-avtaler. Departementet viser også til forslaget om at
-arbeidstakere som er innleid med hjemmel i avtale
-med de tillitsvalgte skal ha rett til fast ansettelse i
-innleievirksomheten etter en viss tid, jf. kapittel 7.
-KS og flere bemanningsforetak viser til at forslaget vil innebære en konkurranseulempe for
-virksomheter som ikke er bundet av tariffavtale
-med fagforening med innstillingsrett, og at forslaget for slike virksomheter i realiteten vil virke
-som et forbud mot innleie utover vikartilfellene.
-Dette vil særlig ramme små og mellomstore
-bedrifter. Høringsinstansene påpeker at det ikke
-er opp til arbeidsgiver å bestemme om virksomheten skal være tariffbundet eller ikke, og at organisasjonsfriheten innebærer at arbeidsgiver ikke
-kan pålegge de ansatte å organisere seg.
-Departementet viser her til at lovens system er
-lagt opp slik at virksomheter med tariffavtale på
-høyt nivå gis visse unntak og rettigheter. Etter
-departementets vurdering kan avtaleadgangen
-etter § 14-12 andre ledd bidra til større grad av
-organisering og avtaledekning i bransjer som er
-avhengig av innleid arbeidskraft. Departementet
-viser til at Fafo, basert på tall fra Fellesordningen
-for AFP i privat sektor, anslår at 93 prosent av de
-organiserte arbeidstakerne er organisert i fagforeninger med innstillingsrett. Arbeidsgivere som
-har organiserte arbeidstakere i virksomheten vil
-etter departementets syn derfor kunne påvirke
-om virksomheten skal være bundet av tariffavtale
-med fagforening med innstillingsrett, ved å fremsette tilbud om slik avtale. Departementet vil også
-presisere at det ikke er slik at avtaleadgangen
-etter § 14-12 andre ledd gir fri adgang til innleie.
-Bestemmelsen forutsetter at det oppnås enighet
-med de tillitsvalgte og at innleien er tidsbegrenset. I virksomheter der det ikke oppnås enighet
-om slik innleieavtale, og i virksomheter som ikke
-er bundet av tariffavtale inngått med fagforening
-med innstillingsrett, vil det fortsatt være mulig å
-benytte innleie ved vikariat, leie fra andre produksjonsbedrifter, samt inngå avtale om midlertidig
-ansettelse dersom vilkårene er oppfylt.
-Innleie fra bemanningsforetak ved arbeid av
-midlertidig karakter brukes innen sentrale
-offentlige tjenesteområder. KS viser til at forslaget vil være problematisk for kommunal sektor
-når det er behov for å øke bemanningen raskt for
-å dekke midlertidige behov, for eksempel under
-pandemier, naturkatastrofer og flyktningkriser.
-KS mener også at det kan være tid- og ressur-
-
-[Side 35]
-
-2021–2022
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-skrevende å inngå avtaler med de tillitsvalgte om
-innleie.
-Departementet viser til at det i offentlig sektor
-er full tariffavtaledekning, og at alle virksomheter
-i offentlig sektor derfor i utgangspunktet vil ha
-mulighet til å inngå avtale med tillitsvalgte om innleie fra bemanningsforetak. Departementet viser
-videre til at innleie utgjør en liten del av samlet
-sysselsetting på disse områdene, og at det bør
-være mulig å komme frem til egnede løsninger
-som også inkluderer bruk av avtaler med de tillitsvalgte i virksomhetene. Det vises for øvrig til
-omtale av helsesektoren nedenfor.
-Departementet ba i høringen om forslag til
-alternative tiltak som kan bidra til å begrense bruken av innleie. Flere høringsinstanser har foreslått økt tilsyn for å slå ned på useriøse aktører.
-Departementet deler oppfatningen om at tilsyn er
-et viktig virkemiddel for å slå ned på ulovlig innleie, og viser til at Arbeidstilsynet fra 1. juli 2020
-fikk myndighet til å føre tilsyn med vilkårene for
-innleie, jf. Prop. 61 LS (2019–2020). Departementet har også foreslått å innføre en godkjenningsordning for bemanningsforetak, og også å styrke
-Arbeidstilsynets tilsynskompetanse i denne forbindelse. Forslaget innebærer blant annet at
-Arbeidstilsynet gis hjemmel til å føre tilsyn med
-og sanksjonere mot brudd på plikten for bemanningsforetak til å være godkjent, og at Arbeidstilsynets reaksjonsmidler også skal omfatte overtredelsesgebyr, jf. kapittel 9. For å styrke etterlevelsen av innleieregelverket har regjeringen også
-gjeninnført kollektiv søksmålsrett, slik at fagforeninger som har medlemmer i en virksomhet som
-har leid inn arbeidstaker fra bemanningsforetak,
-kan reise søksmål i eget navn om lovligheten av
-slik innleie. Samlet må dette antas å bidra til å få
-ned andelen ulovlig innleie.
-Departementet mener uansett at tiltak knyttet
-til håndheving ikke er nok for å få ned bruken av
-innleie som fortrenger faste og direkte ansettelser, og for å begrense de negative sidene innleie
-har for de innleide, innleievirksomhetens egne
-ansatte og for arbeidsmarkedet. Etter departementets syn er det behov for tiltak for å begrense
-innleieadgangen som sådan, og ikke kun for å slå
-ned på ulovlig innleie.
-Enkelte høringsinstanser har foreslått at det
-som et alternativ til å oppheve adgangen til innleie
-etter § 14-12 første ledd, jf. § 14-9 andre ledd bokstav a, bør fremgå av loven eller en egen veileder
-hva som menes med arbeid av midlertidig karakter. Departementet er i utgangspunktet enig i at
-slike tiltak vil kunne gjøre det enklere for bru-
-
-33
-
-kerne av loven å forstå hva som utgjør et arbeid av
-midlertidig karakter. Etter departementets syn
-åpner bestemmelsen imidlertid uansett for en for
-vidtgående bruk av innleie, jf. ovenfor, selv om
-bestemmelsen praktiseres etter sin ordlyd og verken misforstås eller omgås. En presisering er derfor etter departementets vurdering ikke tilstrekkelig for å begrense bruken av innleie. Departementet vil likevel som omtalt ovenfor utarbeide en
-generell veileder i samråd med partene på området.
-Norsk Olje og Gass har foreslått at innleie ved
-arbeid av midlertidig karakter bør være tillatt for
-virksomheter som er bundet av tariffavtale inngått med fagforening med innstillingsrett, uten at
-det kreves lokal avtale om innleie. Et annet alternativ kan ifølge Norsk Olje og Gass være å etablere en dispensasjonsordning etter modell fra
-Arbeidsleieutvalget, som på 1990-tallet hadde
-anledning til å gi dispensasjon fra dagjeldende
-regelverk, jf. Blaalid-utvalgets utredning (NOU
-1998: 15) kapittel 5 og 6. Departementet viser
-her til at det allerede gjelder et krav om tidsbegrensning i avtaleadgangen etter § 14-12 andre
-ledd, og at det å innføre et krav om midlertidighet og samtidig fjerne kravet om lokal avtale, trolig ikke vil medføre at bruken av innleie reduseres. Når det gjelder dispensasjonsordning, ville
-dette etter departementets syn være både tid- og
-ressurskrevende. Det vil også være utfordrende
-for det organet som eventuelt skal gi slike
-dispensasjoner å få tilstrekkelig oversikt over
-virksomhetens organisering for å vurdere om det
-foreligger grunnlag for dispensasjon. Departementet vurderer at disse tiltakene ikke er hensiktsmessige for å oppnå målet med forslagene.
-Departementet har også vurdert andre tiltak,
-herunder om det bør innføres en kvoteordning.
-Departementet viser til at dette ble vurdert i Prop.
-73 L (2017–2018), og at de samme motforestillingene gjør seg gjeldende også i dag, jf. punkt 6.4.2
-ovenfor.
-Departementet har etter dette kommet til at
-adgangen til innleie ved arbeid av midlertidig
-karakter bør oppheves. Departementet har særlig lagt vekt på at bestemmelsen åpner for en for
-vidtgående innleieadgang, at bestemmelsens
-skjønnsmessige karakter muliggjør omgåelser av
-regelverket, og at dette samlet bidrar til å fortrenge faste og direkte ansettelser. Det vil fortsatt være adgang til å leie inn arbeidstakere fra
-bemanningsforetak etter § 14-12 første ledd, jf.
-§ 14-9 andre ledd bokstav b til e, samt ved avtale
-med de tillitsvalgte, jf. § 14-12 andre ledd.
-
-[Side 36]
-
-34
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-Departementet mener at en lovendring på
-dette området som hovedregel bør gjelde alle
-bransjer og ikke være geografisk avgrenset.
-På enkelte områder ser departementet imidlertid at det kan være grunn til å vurdere en
-avgrenset unntaksadgang.
-Hovedregelen i norsk arbeidsliv skal være fast
-og direkte ansettelse. Også helsepersonell bør etter
-departementets syn som den klare hovedregel
-ansettes direkte i den virksomheten som skal ha
-arbeidet utført. Departementet ser likevel at det
-kan være særlige hensyn som tilsier at det i noen
-situasjoner kan være behov for å leie inn helsepersonell for å sikre forsvarlig drift, herunder for
-å opprettholde kapasiteten og kvaliteten i helsetilbudet til befolkningen. Etter departementets
-vurdering er det avgjørende at virksomheter
-innen helse og omsorg har tilgang til tilstrekkelig
-kvalifisert arbeidskraft. Departementet viser til at
-staten og kommunene har et overordnet ansvar
-for å tilby forsvarlige helse- og omsorgstjenester,
-jf. spesialisthelsetjenesteloven § 2-2 og helse- og
-omsorgstjenesteloven § 4-1. Mangel på tilstrekkelig kvalifisert helsepersonell kan i verste fall gå
-utover pasientsikkerheten. Departementet viser
-videre til at det i distriktene kan være vanskelig å
-få rekruttert helsepersonell for direkte ansettelse.
-Behovet for innleie kan også oppstå raskt, for
-eksempel ved utbrudd av sykdommer, større
-ulykker mv.
-Departementet foreslår derfor at det åpnes for
-en unntaksadgang på dette området, ved at det inntas en forskriftshjemmel i arbeidsmiljøloven som
-gir departementet mulighet til å fastsette særregler
-om tidsbegrenset innleie av helsepersonell for å
-sikre forsvarlig drift av helse- og omsorgstjenesten.
-Bestemmelsen vil åpne for at det i avgrensede tilfeller kan åpnes for innleie i noe flere situasjoner enn
-det som vil følge av § 14-12 første ledd, jf. § 14-9
-andre ledd bokstav b til e. Det presiseres at
-bestemmelsen skal forstås strengt. Departementet
-foreslår at Arbeidstilsynet skal kunne føre tilsyn
-med slik forskrift, og at dette presiseres i § 18-6 første ledd.
-Departementet viser videre til at bruk av rådgivere og konsulenter med spesialkompetanse kan
-reise noen særlige spørsmål. Slike tjenester vil i
-noen sammenhenger organiseres slik at forholdet
-må anses som innleie, og slik at forholdene hos
-utleier innebærer at konsulent- eller rådgivningsselskapet er å anse som bemanningsforetak. I slike
-tilfeller må blant annet vilkårene for innleie i § 14-12
-være oppfylt, og konsulent- eller rådgivningsselskapet må være registrert i bemanningsforetaksregisteret. Høringsinnspill viser blant annet til at rådgi-
-
-2021–2022
-
-vere og konsulenter i både privat og offentlig
-sektor benyttes for å hente inn tidsbegrenset
-ekspertise og spisskompetanse, for eksempel til
-gjennomføring av innovasjons- og utviklingsprosjekter, herunder innenfor IKT. Det vises også til at
-bruk av slike konsulenter bidrar til utvikling ved at
-de deler erfaring og kunnskap, og at de hos sine
-arbeidsgivere har fagmiljø for vedlikehold og videreutvikling av kompetanse. Videre pekes det på at
-konsulenter og rådgivere er høyt utdannede med
-faste og ordnede arbeidsforhold.
-Departementet ser at det kan være viktig for
-virksomheters utviklings- og omstillingsarbeid å
-ha mulighet til knytte til seg eksterne konsulenter
-og rådgivere med ekspertise og erfaring som virksomheten selv ikke besitter. Departementet antar
-at bruk av slike tjenester kan organiseres på ulike
-måter, både som kjøp av tjenester fra selvstendige
-oppdragstakere, innleie fra bemanningsforetak
-eller produksjonsbedrift, og som entreprise. Som
-også enkelte høringsinnspill viser, vil ikke entreprise nødvendigvis være en egnet kontraktsform
-innenfor dette markedet, blant annet fordi prosjekter kan ønskes gjennomført i tett samarbeid
-med oppdragsgiver, og det ikke alltid er ønskelig
-eller mulig at resultatet fastsettes på forhånd.
-Etter departementets oppfatning vil innleie av
-ekspertise og spisskompetanse til klart avgrensede prosjekter i innleievirksomheten, i mindre
-grad også utfordre virksomhetens grunnbemanning eller faste ansettelser. De innleide arbeidstakerne det her er tale om kan etter departementets
-syn dessuten i mindre grad være sårbare for de
-negative virkningene av innleie.
-Departementet vil på bakgrunn av forholdene
-ovenfor vurdere nærmere behovet for et mulig
-snevert unntak eller særregulering knyttet til slik
-innleie. Den nærmere avgrensning knyttet til et
-eventuelt unntak, herunder hvilke spesialister
-slike regler eventuelt bør omfatte, må avklares
-nærmere i et forskriftsarbeid. Departementet
-foreslår derfor at det i arbeidsmiljøloven inntas en
-forskriftshjemmel som åpner for at departementet
-kan fastsette nærmere regler for innleie av spesialkompetanse som avviker fra § 14-12 første ledd.
-Departementet foreslår at Arbeidstilsynet skal
-kunne føre tilsyn med slik forskrift, og at dette
-presiseres i § 18-6 første ledd.
-I høringen nevnte departementet at avløsning
-til jordbruket kan reise noen særskilte spørsmål.
-Det finnes enkelte utfordringer knyttet til
-arbeidsvilkår i landbruksnæringen, herunder for
-sesongarbeidere. Departementet mener imidlertid det er viktig å sørge for en fortsatt effektiv og
-velfungerende avløserordning for norske bønder.
-
-[Side 37]
-
-2021–2022
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-På denne bakgrunn kan det være behov for å vurdere tilpasninger i regelverket for denne næringen særskilt. Departementet viser i denne sammenheng også til at gjeldende forskriftsverk på
-området kan fremstå uklar.
-Departementet vil i samråd med Landbruksog matdepartementet og partene i arbeidslivet
-
-35
-
-foreta en gjennomgang av regelverket. Departementet mener det bør gis utsatt ikrafttredelse av
-opphevelsen av adgangen til å leie inn arbeidstakere ved arbeid av midlertidig karakter for jordbruksforetak frem til dette er utredet og særregulering fastsatt.
-
-[Side 38]
-
-36
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-2021–2022
-
-7 Innleid arbeidstakers rett til fast ansettelse hos innleier
-7.1
-
-Gjeldende rett
-
-Det følger i dag av arbeidsmiljøloven at innleid
-arbeidstaker har rett til fast ansettelse hos innleievirksomheten dersom arbeidstaker har vært sammenhengende innleid over en viss tid. Regelen
-fremgår av § 14-12 fjerde ledd, som fastslår at «tre/fireårsregelen» for midlertidig ansatte gjelder tilsvarende, jf. § 14-9 sjuende ledd. Sistnevnte
-bestemmelse regulerer rett til fast ansettelse etter
-en viss tid for midlertidig ansatte etter § 14-9
-andre ledd bokstav a og b. Bestemmelsen innebærer at innleid arbeidstaker som har vært innleid med grunnlag i bokstav a (arbeid av midlertidig karakter) har rett til fast ansettelse etter fire
-år. Ved innleie på grunnlag av bokstav b (vikariat)
-har den innleide rett til fast ansettelse etter tre år.
-Innleie etter disse grunnlagene i kombinasjon gir
-rett til fast ansettelse etter tre år. Rettigheten er
-dermed parallell med reglene for midlertidig
-ansettelse.
-Tre-/fireårsregelen gjelder ikke ved avtalebasert innleie etter § 14-12 andre ledd. Dette fremgår forutsetningsvis av henvisningen til tre-/fireårsregelen for midlertidig ansatte, som kun gjelder ansettelse etter bokstav a og b. Det fremgår
-også av forarbeidene til § 14-12 at tre-/fireårsregelen ikke gjelder i disse tilfellene, jf. Ot.prp. nr. 54
-(2008–2009) punkt 6.1.5 og lovmerknadene.
-
-7.2
-
-Departementets høringsforslag
-
-I høringen foreslo departementet en endring i
-arbeidsmiljøloven § 14-12 fjerde ledd. Departementet foreslo at retten til fast ansettelse hos innleier
-også skal gjelde for arbeidstaker som er innleid
-med grunnlag i avtale med tillitsvalgte etter § 14-12
-andre ledd. I dag gjelder retten kun ved innleie
-etter § 14-12 første ledd. Departementet foreslo
-videre at innslagstidspunktet for når retten til fast
-ansettelse inntrer for innleid arbeidstaker, senkes
-til to år. I dag inntrer retten etter henholdsvis tre
-eller fire år avhengig av grunnlaget for innleien.
-Departementet foreslo at regelen om rett til
-fast ansettelse for innleide får en selvstendig
-
-bestemmelse i § 14-12 fjerde ledd uten henvisning
-til tre-/fireårsregelen for midlertidig ansettelse.
-
-7.3
-
-Høringsinstansenes syn
-
-LO støtter forslaget om å innføre rett til fast ansettelse etter kortere tid enn i dag, men mener det vil
-være en bedre løsning at innleid arbeidstaker har
-krav på fast ansettelse etter å ha utført arbeid for
-samme virksomhet i sammenlagt mer enn 24
-måneder i løpet av en periode på 36 måneder, slik
-som er foreslått i Sverige. LO viser til at man da
-unngår problemstillinger knyttet til om ansettelsen er sammenhengende. LO viser til at en slik
-regel gjerne kan kombineres med en type standardisert erstatningsregel, slik som det svenske
-forslaget. LO foreslår at en slik regel også skal
-gjelde for innleie etter § 14-12 andre ledd.
-Unio støtter forslaget om rett til fast ansettelse
-etter to år, og mener det vil kunne være et viktig
-virkemiddel for at arbeidsgiver i større grad
-benytter seg av faste stillinger, eller ordinær midlertidighet som vil gi den ansatte en nærmere tilknytning til sin arbeidsgiver og større mulighet til
-påvirkning av sitt arbeidsforhold. Unio mener at
-en slik regel bør innføres som en ensidig rett for
-den enkelte arbeidstaker som vil fremsette krav
-om ansettelse, og ikke som en automatisk regel.
-Unio mener det er mange ulike årsaker til at
-arbeidstakere velger å arbeide gjennom bemanningsforetak, og en slik automatisk regel vil
-kunne føre til negative konsekvenser for dem som
-ønsker å jobbe på denne måten.
-YS støtter vurderingen av at innleide etter
-§ 14-12 andre ledd også bør omfattes av reglene
-om fast ansettelse etter en viss tid. YS støtter også
-forslaget om å gi arbeidstaker rett til fast ansettelse etter to år. YS mener at det bør vurderes om
-samme grense bør gjelde ved midlertidig ansettelse.
-Akademikerne støtter forslaget om at det for
-alle innleietilfeller hjemlet i arbeidsmiljøloven
-§ 14-12 skal være en rett til fast ansettelse etter en
-viss tid i innleievirksomheten. Akademikerne
-mener at mange ansatte ønsker å være fast ansatt
-
-[Side 39]
-
-2021–2022
-
-Prop. 131 L
-Endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
-
-i for eksempel rådgivnings- eller konsulentvirksomhet, og mener det derfor er viktig at det er
-opp til den innleide selv om man ønsker å benytte
-seg av en rett til fast ansettelse hos innleier eller
-forbli ansatt hos utleier, og mener at dette må
-tydeliggjøres enten i selve lovbestemmelsen eller
-forarbeidene. Akademikerne mener det er viktig at
-tidsgrensene for når man har rett til fast ansettelse
-harmoniseres i ulike lover/bestemmelser. Akademikerne vil ikke sette seg imot forslaget om at retten til fast ansettelse knyttes til en toårsregel, men
-mener at en slik grense må konsekvensutredes
-først, og at en tidsgrense for innleie uansett bør
-kunne fravikes etter avtale med tillitsvalgte,
-eksempelvis fra to til tre år. Akademikerne mener
-også at forslaget må ses i sammenheng med den
-foreslåtte harmoniseringen som Fougner-utvalgets flertall har foreslått.
-NHO støtter ikke forslaget og viser blant annet
-til at det i en rekke fag og bransjer vil være et klart
-behov for innleieforhold som strekker seg ut over
-to år. NHO viser også til at forslaget avviker fra
-Fougner-utvalgets flertall der man foreslo en
-generell regel om rett til fast ansettelse etter tre år
-som midlertidig ansatt, at forslaget mangler en
-faktisk begrunnelse og at det ikke pekes på noe
-faktagrunnlag som tyder på at det er problematisk
-med uforholdsmessig lange innleieforhold generelt eller med hjemmel i § 14-12 andre ledd. NHO
-mener at det under enhver omstendighet bør gjøres unntak for rett til fast ansettelse i tilfeller der
-den innleide skriftlig bekrefter at en ikke ønsker
-fast ansettelse.
-KS støtter forslaget om at innleid arbeidstaker
-skal ha rett til fast ansettelse hos innleier etter en
-viss tid også ved innleie etter avtale. KS støtter
-ikke forslaget om rett til fast ansettelse hos innleier etter to år som innleid. KS ser ikke at
-begrunnelsen for forslaget berettiger at det skal
-være ulike regler avhengig av om vikarbehovet
-dekkes av innleide eller midlertidige ansatte, og
-mener det vil gi uheldige og tilfeldige resultater
-dersom innleide som også har et arbeidsforhold
-og rettigheter hos utleier, på et tidligere tidspunkt
-enn kommunens midlertidige ansatte, skal få rett
-til fast ansettelse.
-Virke støtter ikke forslaget, og mener at
-dagens regler balanserer ulike behov på en god
-måte, at en ny bestemmelse vil komplisere arbeidet for den enkelte virksomhet, og ikke tar hensyn til de ulike årsakene til hvorfor virksomhetene benytter innleie. Virke viser til at en stor
-andel av de som leies inn benyttes til konkrete og
-tidsavgrensede prosjekter og bemanningsbehov.
-Andre benytter innleie som del av inkluderings-
-
-37
-
-arbeidet, der flertallet av Virkes medlemmer
-oppgir adgang til midlertidig ansettelse og innleie som viktig for å gi jobbmulighet til de som
-ellers ikke ville blitt ansett som kvalifisert, og at
-innleie i disse tilfellene kan fungere som en terskel inn til fast arbeid.
-Spekter støtter ikke forslaget, og kan ikke se
-noen gode begrunnelser for en særregel for innleide personer, hvorav de fleste allerede har et
-godt etablert arbeidsforhold hos bemanningsforetaket. Spekter viser til at følgen av en slik regel kan
-bli at bemanningsforetakets ansatte som i dag
-gjennom gjentatte utleieforhold til et begrenset
-utvalg innleievirksomheter som de blir godt kjent
-med, i stedet blir leid ut til mange forskjellige virksomheter over tid med den konsekvens at de får
-stadig nye arbeidsplasser og kollegaer å forholde
-seg til.
-Arbeidstilsynet og Petroleumstilsynet støtter forslaget.
-
-7.4
-
-Departementets vurdering og
-forslag
-
-Etter departementets vurdering er retten til fast
-ansettelse hos innleier etter en viss tid en viktig
-mekanisme for å forhindre misbruk av innleieinstituttet. På samme måte som for midlertidig
-ansettelse, bør innleieforhold etter departementets vurdering verken vare over for langt tidsrom
-eller gjenopptas i for stor utstrekning. Dersom en
-arbeidstaker har vært innleid til virksomheten
-over en lengre periode, kan dette dessuten indikere et stabilt behov for arbeidskraft. Det å få fast
-ansettelse hos innleier etter en viss tid er også en
-viktig rettighet for innleide arbeidstakere ved at
-disse kan oppnå fast ansettelse direkte i den virksomheten hvor arbeidet utføres, og dermed ansettelse i en topartsrelasjon.
-Retten til fast ansettelse etter tre/fire år gjelder ikke i de tilfellene arbeidstaker er innleid med
-grunnlag i avtale etter § 14-12 andre ledd. I forarbeidene fremgår at «fireårsregelen ved innleie
-bør ha samme anvendelsesområde som fireårsregelen ved midlertidige ansettelser. Fireårsregelen bør derfor på tilsvarende måte ikke gjelde ved
-avtale om innleie etter § 14-12 annet ledd», jf.
-Ot.prp. nr. 54 (2008–2009).
-Departementet har i lys av utviklingen gjort en
-ny vurdering av dette, og kan i dag vanskelig se at
-regelen om rett til fast ansettelse etter en viss tid
-ikke bør gjelde ved innleie på bakgrunn av avtale
-etter § 14-12 andre ledd. På samme måte som ved
-innleie etter første ledd, er det prinsipielt uheldig
+# Innstramming i adgangen til innleie fra bemanningsforetak
+
+## Gjeldende rett
+
+Hovedregelen i norsk arbeidsliv er at arbeidstaker skal ansettes fast, jf. arbeidsmiljøloven § 14-9 første ledd. Andre tilknytningsformer, slik som midlertidig ansettelse og innleie, kan benyttes dersom bestemte vilkår er oppfylt. Arbeidsmiljøloven skiller mellom innleie fra bemanningsforetak og innleie fra produksjonsbedrift. Vilkårene for innleie fra produksjonsbedrift er regulert i § 14-13. Innleie fra bemanningsforetak er regulert i § 14-12.
+
+I § 14-12 første ledd fremgår at innleie fra bemanningsforetak er tillatt i samme utstrekning som det kan avtales midlertidig ansettelse etter arbeidsmiljøloven § 14-9 første ledd bokstav a til e.
+
+Dette innebærer at alle virksomheter kan inngå avtaler om innleie:
+
+a\) når arbeidet er av midlertidig karakter
+
+b\) for arbeid i stedet for en annen eller andre (vikariat)
+
+c\) for praksisarbeid
+
+d\) for deltaker i arbeidsmarkedstiltak i regi av eller i samarbeid med arbeids- og velferdsetaten, og
+
+e\) for idrettsutøvere, idrettstrenere, dommere og andre ledere innen den organiserte idretten.
+
+For virksomheter som er bundet av tariffavtale med fagforening med innstillingsrett, åpner loven for innleie utover dette, jf. § 14-12 andre ledd. Arbeidsgiver og de tillitsvalgte lokalt kan i slike virksomheter inngå skriftlig avtale om tidsbegrenset innleie uavhengig av vilkårene i bokstav a til e ovenfor. Med virkning fra 1. januar 2019 ble bestemmelsen strammet inn ved at det ble stilt høyere krav til tariffavtalenivået innleiebedriften må være bundet av for å inngå slik avtale, jf. Prop. 73 L (2017–2018).
+
+Hvorvidt arbeidet er av midlertidig karakter, jf. bokstav a, beror på en konkret vurdering. Av Prop. 39 L (2014–2015) side 135 fremgår at:
+
+Både forskjeller i arbeidets art som skiller seg fra det ordinære, og markerte forskjeller i arbeidsmengde skal fortsatt omfattes av ordlyden og gi grunnlag for midlertidig ansettelse. I rettspraksis er det slått fast at bestemmelsens vilkår om at «arbeidets karakter tilsier det» skal tolkes strengt, men er ikke til hinder for midlertidig ansettelse når det trengs personell med særlige formelle kvalifikasjoner og det ikke har meldt seg kvalifiserte søkere. Høyesterett har slått fast at dette er arbeidsforhold av en slik særegen karakter at midlertidig ansettelse lovlig kan avtales når det er saklig behov for det, og ansettelsen begrenses til det som er strengt nødvendig. Tidligere rettspraksis vil fortsatt kunne legges til grunn, bl.a. Rt-1991-872 og Rt-1985-1141.
+
+Det at arbeidet er organisert som et prosjekt eller som et enkeltstående oppdrag, er i seg selv ikke tilstrekkelig til å begrunne midlertidig ansettelse, jf. Ot.prp. nr. 49 (2004–2005) side 214.
+
+I § 14-12 femte ledd er det inntatt en bestemmelse som gir departementet hjemmel til å fastsette forskrift om forbud mot innleie for «visse arbeidstakergrupper eller på visse områder når viktige samfunnshensyn tilsier det». Det gjelder ingen slike forskrifter i dag. Det fremgår av forarbeidene til bestemmelsen, jf. Ot.prp. nr. 70 (1998–1999) side 43, blant annet:
+
+En adgang til å forby innleie av visse arbeidstakergrupper vil sikre at myndighetene har en mulighet til å håndtere eventuelle uønskete resultater av innleie. Bestemmelsen skal kunne benyttes både for innleie av arbeidstakere fra vikarbyrå og fra ordinære virksomheter. Selv om bestemmelsen står i arbeidsmiljøloven gjelder dette vurderinger som må foretas av arbeidsmarkedsmyndighetene på bakgrunn av samfunnsmessige kriterier, herunder i særlig grad arbeidsmarkedsmessige forhold.
+
+## Departementets høringsforslag
+
+I høringen ga departementet uttrykk for at det er behov både for et målrettet tiltak rettet mot byggenæringen i Oslo-området gjennom et mulig forbud mot innleie fra bemanningsforetak, samt en generell innstramming i adgangen til innleie fra bemanningsforetak.
+
+Departementet anbefalte at det med hjemmel i arbeidsmiljøloven § 14-12 femte ledd, fastsettes et forbud i forskrift mot innleie til byggenæringen i Oslo, Viken og tidligere Vestfold. Bakgrunnen for departementets anbefaling er særlig behovet for å få ned innleieandelen, øke andelen fast ansatte, styrke rekrutteringen av fagarbeidere og øke organisasjonsgraden.
+
+I høringen la departementet frem forslag til hvordan en slik forskriftsregulering kan se ut, herunder knyttet til bransjemessig og geografisk avgrensning, og konsekvenser ved brudd. Forslaget innebærer nye bestemmelser i forskrift 11. januar 2013 nr. 33 om innleie fra bemanningsforetak. Departementet ba i høringen om høringsinstansenes innspill til et slikt forbud, samt til alternative tiltak som kunne være egnet til å få bukt med uønsket innleie til byggenæringen i Oslo-området.
+
+Det ble i høringen også foreslått at Arbeidstilsynet skal føre tilsyn med at et forbud overholdes. For å tydeliggjøre hjemmelsgrunnlaget for en slik tilsynskompetanse, foreslo departementet at det inntas en henvisning til § 14-12 femte ledd i bestemmelsen om Arbeidstilsynets påleggskompetanse i § 18-6.
+
+I høringen ba departementet også om høringsinstansenes syn på behovet for en generell innstramming i adgangen til innleie fra bemanningsforetak, gjennom en oppheving av adgangen til innleie fra bemanningsforetak ved arbeid av midlertidig karakter. Formålet med en slik innstramming i innleieregelverket er blant annet å hindre at innleie fortrenger faste ansettelser ved at virksomhetene baserer et permanent bemanningsbehov på innleie, samt å gjøre regelverket enklere å praktisere og håndheve.
+
+Departementet la til grunn at en lovendring på dette området i utgangspunktet skal gjelde alle bransjer og ikke være geografisk avgrenset. Departementet viste samtidig til at konsekvensene av innstrammingene vil kunne variere mellom ulike bransjer, og trakk spesielt frem behovet for å sikre arbeidskraft til sentrale offentlige tjenesteområder som helse, omsorg, barnehager og skoler. Departementet ba om høringsinstansenes innspill knyttet til konsekvenser og behov på disse områdene.
+
+Problemstillinger knyttet til avløsning i landbruket ble også trukket frem av departementet.
+
+Departementet ba også om høringsinstansenes innspill til alternative tiltak som er egnet til å begrense omfanget av innleie fra bemanningsforetak.
+
+## Høringsinstansenes syn
+
+Departementets anbefaling om å innføre forbud mot innleie fra bemanningsforetak i byggenæringen i Oslo-området støttes i hovedsak av hovedorganisasjonene på arbeidstakersiden. *LO* støtter anbefalingen om å innføre forbud, og viser blant annet til at et forbud vil redusere innleieandelen, antallet faste stillinger vil øke og større egenbemanning vil igjen muliggjøre et bedret lærlingetilbud og kompetanseutvikling i bedriftene, og at dette på sikt vil føre til at rekrutteringen av fagarbeidere blir styrket. *LO* støtter at tilsynsmyndighetene kan føre tilsyn med at forbudet blir overholdt.
+
+*Unio* støtter anbefalingen, og viser blant annet til at til tross for flere reguleringer de siste årene og et godt partssamarbeid på området, så har utfordringene med innleie i byggenæringen eskalert over tid og spesielt i Oslo-området. *Unio* savner en drøfting av hvorvidt et forbud er ment å være tidsbegrenset eller permanent.
+
+*YS* støtter et forbud og at Arbeidstilsynet bør ha tilsynskompetanse. Når det gjelder den geografiske avgrensningen viser *YS* til at det er fare for tilpasninger, og ber om at situasjonen overvåkes og at det gjøres en ny vurdering når man har fått erfaring fra hvordan forbudet fungerer.
+
+*Akademikerne* støtter et geografisk avgrenset innleieforbud i byggebransjen dersom dette kombineres med tidsbegrensning og fortløpende evaluering av en eventuell videreføring.
+
+Hovedorganisasjonene på arbeidsgiversiden støtter ikke et forbud. *NHO* advarer sterkt mot et forbud, og viser til at det vil være svært inngripende, få uønskede konsekvenser og være et uforholdsmessig tiltak. *NHO* viser blant annet til at et forbud vil medføre enorme kostnader ettersom de utførende har bundet seg i tilbud og inngått kontrakter som kan vare i flere år. *NHO* peker på at dersom forbud innføres må det være en betydelig lenger overgangsperiode enn det som er skissert i høringsnotatet, minimum to år. *NHO* har spilt inn alternative forslag til tiltak.
+
+*KS* uttrykker bekymring for de forstyrrelsene et geografisk forbud mot innleie i byggebransjen kan få for arbeidsmarkedet og for mulighetene til å få gjennomført nødvendige byggearbeider både med tanke på tid og kostnader. *KS* mener også at forslaget kan ha mulige EØS-rettslige konsekvenser.
+
+*Virke* støtter ikke forbud. *Virke* viser til at et geografisk avgrenset innleieforbud vil gi uheldige konsekvenser for langt flere enn de useriøse aktørene, også utenfor den foreslåtte avgrensningen, og at flere virksomheter vil kunne miste oppdrag som understøtter den øvrige kjernevirksomheten de driver. *Virke* viser blant annet til at virksomhetenes hybride bemanningsmodeller sikrer nødvendig fleksibilitet for å møte variasjoner i oppdrag og volum, og at det ikke vil være hensiktsmessig å erstatte innleide med fast ansatte i slike tilfeller. *Virke* mener at en geografisk avgrensing vil bidra til konkurransevridning gjennom å gi ulike rammevilkår for virksomheter i og utenfor forbudssonen.
+
+*Spekter* støtter ikke forbud, og viser blant annet til at pågående og planlagte utbyggingsprosjekter av kapasitetshensyn ikke kan gjennomføres uten bruk av innleid arbeidskraft. *Spekter* viser til at bransjen selv har iverksatt mange tiltak de senere år og at disse gir resultater. *Spekter* viser også til at et innleieforbud trolig vil føre til at arbeidskraftbehovet blir dekket gjennom langt mindre regulerte tilknytningsformer enn innleie, og viser til at bransjen selv forventer mer bruk av underentrepriser og selvstendige oppdragstakere.
+
+*Arbeidstilsynet* legger til grunn at et forbud vil være enklere for Arbeidstilsynet å håndheve. *Arbeidstilsynet* har innspill til ulike detaljer i reguleringsforslaget. *Arbeidstilsynet* etterlyser avklaring av rekkevidden av påleggskompetansen, for eksempel om det er tenkt at Arbeidstilsynet kan gi pålegg om innleid arbeidstakers rett til fast ansettelse ved brudd.
+
+Forslaget om en generell innstramming i adgangen til innleie fra bemanningsforetak støttes av hovedorganisasjonene på arbeidstakersiden, med unntak av *Akademikerne*.
+
+*LO* viser til at bestemmelsen åpner for misbruk og omgåelser, og at å oppheve adgangen til innleie ved arbeid av midlertidig karakter vil føre til flere faste og direkte ansettelser. Innstramming medfører ifølge *LO* likevel en risiko for at innleie blir erstattet av ulovlige midlertidige ansettelser, innleie forkledd som entrepriser, bruk av selvstendige oppdragstakere som skulle vært klassifisert som arbeidstakere og andre typer av omgåelser. *LO* har erfart at mange tillitsvalgte opplever til dels betydelig press fra arbeidsgiver for å inngå avtale om innleie etter § 14-12 andre ledd. Det bør ifølge *LO* stilles krav om at utleiebedriften/vikarbyrået også skal være bundet av tariffavtale med fagforening med innstillingsrett. *LO* viser også til at de tillitsvalgte presses til å inngå avtale om innleie med lang varighet og stort omfang. Etter *LOs* syn bør departementet vurdere å angi en maksimal varighet på avtalene, for eksempel seks eller tolv måneder. Ved prosjektarbeid bør det i tillegg stilles krav om at varigheten ikke kan gjelde utover det enkelte prosjekts varighet. Innleide bør ifølge *LO* også ha fortrinnsrett til ny ansettelse etter § 14-2.
+
+*Unio* mener forslaget vil styrke arbeidstakernes vern og fremme flere direkte ansettelser. *Unio* påpeker samtidig at det er en risiko for at arbeidstakerne blir gående permanent på midlertidige ansettelseskontrakter, og viser til at departementet må følge nøye med på situasjonen med tanke på en økning i midlertidige ansettelser etter en eventuell lovendring.
+
+*Akademikerne* støtter ikke forslaget, og mener det er behov for et bedre kunnskapsgrunnlag og en grundig konsekvensutredning før man eventuelt vurderer endringer. *Akademikerne* viser til at forslaget vil ramme konsulent- og rådgivningsbransjen. I konsulent- og rådgivningsbransjen er det vanlig at høyt utdannet arbeidskraft leies ut fra virksomhet som har til formål å drive utleie. Forslaget vil ifølge *Akademikerne* medføre at konsulenter/rådgivere ansettes midlertidig, som i en faglig sammenheng er mindre attraktivt. Innstrammingen vil etter *Akademikernes* syn trolig også medføre at tilgangen på spisskompetanse i bredden av næringslivet blir mindre, hvilket vil kunne få alvorlige følger for norsk økonomi.
+
+*YS* støtter forslaget og viser til at det vil bidra til å hindre misbruk av innleieadgangen. *YS* peker likevel på at det ikke lenger vil være symmetri mellom innleieregelverket og reglene om midlertidig ansettelse, og at det ikke er uproblematisk at virksomhetene skal ha forskjellig adgang til å leie inn arbeidskraft ut fra hvilke forbund de har tariffavtale med. Etter *YS* sitt syn burde adgangen til å inngå avtale om innleie etter § 14-12 andre ledd vært lagt til organisasjon med innstillingsrett.
+
+Hovedorganisasjonene på arbeidsgiversiden støtter ikke forslaget. *NHO* viser til at forslaget for bedrifter som ikke har avtale om innleie med fagforening med innstillingsrett, vil virke som et forbud utover vikartilfellene. Det ligger ikke til arbeidsgiver å avgjøre om virksomheten skal være tariffbundet. Forslaget vil ifølge *NHO* ha dramatisk effekt for virksomheter som er avhengig av innleie ved midlertidig behov, uten at det kan begrunnes i kunnskapsgrunnlaget. *NHO* er uenig i at innleie ved arbeid av midlertidig karakter fortrenger faste ansettelser i innleiebedriftene. Ettersom behovet hos innleier er midlertidig, vil det ikke være et alternativ å øke antallet faste ansatte. Departementet har ifølge *NHO* ikke vist til noe statistikk som tilsier at bestemmelsens skjønnsmessige karakter gjør den lett å misbruke og at virksomheter baserer bemanningen på innleie etter bestemmelsen i større grad enn det loven åpner for. Som alternativ foreslår *NHO* at Arbeidstilsynet utarbeider en veileder i samarbeid med partene om hva som utgjør arbeid av midlertidig karakter.
+
+*NHO* nevner konsekvenser det vil få for ulike næringer dersom adgangen til innleie ved arbeid av midlertidig karakter oppheves. *NHO* viser blant annet til at mange virksomheter i byggenæringen ikke er bundet av tariffavtale, og at forslaget for disse i realiteten vil virke som et forbud mot innleie. Industrien er ifølge *NHO* også avhengig av innleie, eksempelvis ved revisjonsstanser. Selv om det er god tariffavtaledekning, er det ikke sikkert at man får til avtale om innleie. I olje- og gassnæringen er det ifølge *NHO* behov for innleie av spesialkompetanse til prosjekter. *NHO* mener forslaget vil ramme en velfungerende organisering av behovet for nøkkelpersonene i bransjen hardt. De nevner også konsekvenser for blant annet reiselivsnæringen og fiskeindustrien.
+
+*KS* viser til at forslaget vil være særlig problematisk for kommunal sektor når det er behov for å øke bemanningen raskt for å dekke midlertidige behov, for eksempel under pandemier, naturkatastrofer og flyktningkriser. Ved innleie slipper arbeidsgiver å bruke tid på ansetteselsprosesser, hvilket muliggjør en raskere oppbemanning. Kvalifikasjonsprinsippet i offentlig sektor innebærer strengere og mer tidkrevende krav til ansettelsesprosesser enn i privat sektor. Bruk av bemanningsforetak kan ifølge *KS* være avgjørende for å få tilgang til et tilstrekkelig stort arbeidsmarked med riktig kompetanse. *KS* påpeker at å inngå avtaler med de tillitsvalgte kan være tidkrevende. Bestemmelsens skjønnsmessige karakter kan ikke begrunne forslaget, ettersom bestemmelsen fortsatt vil gjelde for adgangen til midlertidig ansettelse. Som alternative tiltak foreslår KS veiledning om regelverket og økt tilsyn i de bransjer myndighetene mener det forekommer misbruk av innleiebestemmelsene.
+
+*Virke* støtter ikke forslaget, og viser til at det vil innebære en konkurranseulempe for virksomheter som ikke har tariffavtale. *Virke* påpeker at det i liten grad er opp til arbeidsgiver å avgjøre om virksomheten skal være bundet av tariffavtale eller ikke, at det er organisasjonsfrihet og at arbeidsgiver derfor ikke kan pålegge ansatte å organisere seg. Forslaget er inngripende og vil frata virksomhetene helt nødvendig fleksibilitet. *Virke* kan ikke se at departementet har fremlagt noe grunnlag som tilsier at tariffavtale og høyere organisasjonsgrad i seg selv vil redusere andelen ulovlig innleie eller useriøse aktører i markedet. *Virke* mener at man ikke kan legge til grunn at økt grunnbemanning med faste ansatte vil bli resultatet dersom adgangen til innleie ved arbeid av midlertidig karakter oppheves. Forslaget vil medføre stadige omstillings-, opp- og/eller nedbemanningsprosesser og økt bruk av permittering, hvilket gir stor usikkerhet for de ansatte og økte kostnader for det offentlige.
+
+*Spekter* viser til at det ikke alltid er mulig å dekke bemanningsbehovet ved ordinære ansettelser, ettersom det ikke alltid er tid til å gjennomføre en ansettelsesprosess eller at den nødvendige kompetansen kun er tilgjengelig på utleiemarkedet. *Spekter* støtter ikke departementets vurdering om at direkte, midlertidig ansettelse er å foretrekke fremfor innleie. Den enkelte får kortvarig tilknytning til mange ulike arbeidsgivere over tid og dermed svekkede sykepengerettigheter og en fragmentert pensjonsopptjening. *Spekter* kan ikke se hvordan dette styrker topartsforholdet og tilknytningen til arbeidsplassen. Det er ifølge *Spekter* ikke alltid mulig med direkte ansettelser, for eksempel dersom arbeidstakerne kommer fra utlandet og kun oppholder seg i Norge for en tidsavgrenset periode, eller foretrekker fleksibiliteten innleie gir dem. Forslaget kan innebære at det norske arbeidsmarkedet blir mindre ettertraktet for utenlandske arbeidstakere. *Spekter* viser også til at forslaget vil få store konsekvenser for bemanningen i helseforetakene.
+
+*NHO Service og Handel* mener at fast ansettelse ikke er et alternativ til innleie for mange virksomheter, og at forslaget vil føre til økt bruk av midlertidige ansettelser og selvstendige oppdragstakere. Å erstatte innleie med midlertidige ansettelser er ifølge *NHO Service og Handel* ikke i arbeidstakers interesse. *NHO Service og Handel* mener ansettelse gjennom et bemanningsforetak gir arbeidstakerne en bedre sosial sikring enn det midlertidig ansatte har. *NHO Service og Handel* mener at arbeidsgiver har begrenset innflytelse på opprettelse av tariffavtaler, da dette i privat sektor som regel avhenger av tilstrekkelig organisasjonsgrad i virksomheten.
+
+*Arbeidstilsynet* støtter forslaget og viser til at bestemmelsen er skjønnsmessig*. Arbeidstilsynet* har ikke omfattende tilsynspraksis om bestemmelsen enda, grunnet blant annet koronapandemien. Inntrykket er likevel at lovens vilkår om at arbeidet må være av midlertidig karakter misforstås av en del virksomheter. Forslaget innebærer at regelverket blir tydeligere og enklere å håndheve for Arbeidstilsynet.
+
+*Petroleumstilsynet* mener at det istedenfor å oppheve adgangen til innleie etter § 14-9 andre ledd bokstav a, bør fremgå av lovteksten hva som menes med arbeid av midlertidig karakter.
+
+## Departementets vurdering og forslag
+
+### Innledning
+
+Dagens innleieregelverk åpner etter departementets syn for en praktisering som går på bekostning av faste og direkte ansettelser. Fast og direkte ansettelse hos den virksomheten som skal ha arbeidet utført, er den tilknytningsformen som best legger grunnlaget for tillit, utvikling og samarbeid mellom partene, og som dermed best ivaretar interessefellesskapet rundt den norske arbeidslivsmodellen. Departementet viser til at innleie er en tilknytningsform som fortrenger og utfordrer den faste ansettelsen på flere måter, og som kan medføre negative konsekvenser for de innleide arbeidstakerne, innleievirksomhetens egne ansatte og for arbeidsmarkedet. Det vises til omtalen i kapittel 5.
+
+Departementet har derfor vurdert behovet både for et målrettet tiltak rettet mot byggenæringen i Oslo-området gjennom et forbud mot innleie fra bemanningsforetak, samt en generell innstramming i adgangen til innleie fra bemanningsforetak.
+
+### Innleie til byggenæringen
+
+Når det gjelder byggenæringen særskilt, viser departementet til at det i denne næringen benyttes innleie i betydelig omfang, jf. punkt 3.2. SSB-tall viser at innleie utgjorde i overkant av 8 prosent av timeverkene i næringen i 2019. Dette er langt høyere enn i arbeidslivet for øvrig, hvor det anslås at omfanget samlet ligger på 1,7–1,9 prosent av de sysselsatte i årene 2018–2019, jf. punkt 3.1. I Oslo-området er innleieandelen i byggenæringen markert høyere. I 2017 anslo Fafo at nivået i Oslo-området lå 4–7 prosentpoeng over landsgjennomsnittet for næringen, mens bemanningsbransjen anslo at prosentandelen innleide i Oslo lå rundt det dobbelte av landsgjennomsnittet for byggenæringen. Kartlegginger som fagforeninger har gjort på enkelte byggeplasser har vist en innleieandel på 35 prosent i gjennomsnitt, jf. punkt 3.2. Kartlegginger og tall fra bemanningsbransjen viser at omfanget av innleie til byggenæringen ble redusert i 2019, noe som kan ha sammenheng med endringene i arbeidsmiljøloven som trådte i kraft det året. I 2020 og 2021 medførte pandemien og innreiserestriksjoner redusert aktivitet. Utleie til bygg og anlegg er imidlertid fortsatt det største aktivitetsområdet for bemanningsbransjen, og generelt er deres utleieaktivitet høyest i Oslo og Viken-regionen. Også en kartlegging Oslo Economics utførte i 2020 blant medlemmer i Fellesforbundet og virksomheter i BNL, tydet på en høyere andel innleie i Oslo og Viken enn resten av landet. Det foreligger ikke egen statistikk om regional fordeling av innleie til bygg og anlegg.
+
+Når innleieandelen er såpass høy, vil næringen etter departementets vurdering i større grad være eksponert for de negative konsekvensene knyttet til innleie, jf. punkt 3.6 og kapittel 5. Departementet viser i denne sammenheng særlig til de negative virkningene for arbeidsmiljø, medvirkning og fagorganisering, men også til økt ulykkesrisiko. Departementet viser dessuten til at det er stor etterspørsel etter lærlinger og fagarbeidere i næringen. En rapport fra SSB om sysselsetting og arbeidsstyrke frem mot 2040 viser at det kan bli særlig underskudd på helsefagarbeidere og fagarbeidere innen industri, bygg og anlegg og håndverksfag. I BNLs medlemsundersøkelse fra januar 2021 svarte nær halvparten av bedriftene at de ikke får tak i fagarbeidere, mens en fjerdedel ikke får tak i lærlinger. Tall fra Utdanningsdirektoratet viser at det er en viss økning i antallet søkere til videregående opplæring i byggrelaterte fag, og antall lærlinger og lærebedrifter. Tallene kan likevel tyde på at interessen for å søke seg til slik utdanning er for lav i forhold til behovet. Det kan være flere forhold som påvirker dette.
+
+Omfanget av innleie, sett sammen med de negative konsekvensene innleie har, tilsier etter departementets vurdering at det er nødvendig med grunnleggende endringer hva gjelder innleie til byggenæringen. På samme måte som i resten av arbeidslivet må det være den klare hovedregel at arbeidstakere som utfører arbeid på byggeplasser er fast ansatt direkte i den virksomheten som utfører arbeidet. Etter departementets vurdering vil det å stimulere til bruk av faste ansettelser også legge til rette for organisering og bruk av tariffavtaler i næringen. Det gir også et grunnlag for styrket rekruttering til næringen gjennom lærlingeordning og bruk av fagarbeidere. I norsk arbeidsliv er det tradisjon for at selvstendige fagarbeidere bidrar til forbedringer og innovasjon i virksomhetene, og for at arbeidsgivere investerer i kompetanseutvikling for sine medarbeidere. Tradisjonelt har virksomhetene vært preget av flate organisasjonsstrukturer og et nært samspill mellom ledelsen og arbeidstakernes tillitsvalgte. Dette er kvaliteter i arbeidslivet som risikerer å bli svekket når arbeidsplassene i byggenæringen består av flere innleide uten fast tilknytning til virksomheten.
+
+I høringen anbefalte departementet at det innføres et forbud mot innleie til bygningsarbeid på byggeplasser i Oslo, Viken og tidligere Vestfold. Flere høringsinstanser støtter innføring av forbud. *LO* viser blant annet til at innleieandelen i byggenæringen i Oslo-området har holdt seg vedvarende høy til tross for at det har vært stor oppmerksomhet rundt dette og ulike tiltak har blitt iverksatt. *LO* viser blant annet til at et forbud vil gi positive utslag på sysselsettingen, at større egenbemanning vil muliggjøre bedre lærlingetilbud og kompetanseutvikling, og at det på sikt vil føre til styrket rekruttering av fagarbeidere. *Unio* viser blant annet til at til tross for flere reguleringer de siste årene og et godt partssamarbeid på området, så har utfordringene med innleie i byggenæringen eskalert over tid og spesielt i Oslo-området. *NITO* mener at det utvilsomt er snakk om viktige samfunnshensyn som gjør det både riktig og nødvendig med et lokalt forbud mot innleie. *Oslo kommune* mener et forbud vil være et treffsikkert og effektivt virkemiddel for å bidra til å snu en uheldig utvikling og øke seriøsiteten i byggebransjen i Oslo-området. *Arbeidstilsynet* uttaler generelt at de er positive til forslag som styrker arbeidstakernes rettigheter og mulighet for faste og direkte ansettelser. *Arbeidstilsynet* legger til grunn at et forbud mot innleie vil være enklere for Arbeidstilsynet å håndheve.
+
+Departementet viser til at det over tid har vært fokus på innleienivået og arbeidsforholdene, særlig i byggenæringen. Det har de senere år blitt utredet, vurdert og innført flere tiltak fra myndighetenes side, og også ulike tiltak fra næringen selv. Til tross for dette, er det fortsatt en vedvarende høy innleieandel i byggenæringen i Oslo-området. Departementet mener det er behov for et sterkt og tydelig tiltak, rettet bransjemessig og geografisk mot en næring hvor det er behov for en grunnleggende endring i hvordan bemanningen planlegges og organiseres. Etter departementets syn vil en regel som forbyr innleie fra bemanningsforetak være nødvendig for å sikre at det skapes varige endringer i virksomhetenes bemanningsmetoder, for på den måten å stimulere til økt bruk av faste ansettelser, som igjen kan virke positivt på blant annet organisering og rekruttering i næringen. Departementet vil derfor i forskrift fastsette et geografisk avgrenset forbud mot innleie fra bemanningsforetak til bygningsarbeid på byggeplasser.
+
+Flere har pekt på at et sentralt kjennetegn ved byggenæringen er at den er prosjektbasert og preget av uforutsigbar oppdragsmengde og oppdragstidspunkt. *Byggenæringens Landsforening (BNL)* viser til at næringen er preget av anbudskonkurranser, som kan innebære uforutsigbarhet det er vanskelig å planlegge for. *BNL* peker også på at byggeprosjekter stopper opp og nye prosjekter kan bli forsinket fordi planprosesser og tillatelser lar vente på seg. *NHO* viser til at næringen er preget av oppdragene og oppdragsgivers krav, og at oppstart kan endres av ulike årsaker og at prosjektene kan øke i omfang. *NHO* viser til at det heller ikke er uvanlig at prosjekter blir forsinket eller forsert. Departementet ser at slike forhold kan innebære usikkerhet knyttet til bemanningsbehovet, og departementet antar at dette kan være en del av forklaringen på hvorfor innleie brukes i såpass stor grad i byggenæringen. Departementet peker samtidig på at også andre deler av norsk arbeidsliv kan være utpreget oppdrags- og prosjektbasert, men hvor man likevel ser mindre grad av vedvarende bruk av innleie enn hva som er tilfelle for byggenæringen.
+
+Flere høringsinstanser advarer mot innføring av forbud, og peker på ulike konsekvenser et slikt tiltak kan få. *NHO* mener blant annet at et forbud vil medføre enorme kostnader ettersom de utførende har bundet seg i tilbud og inngått kontrakter som kan vare i flere år. *NHO* viser til at det blir vanskelig å overholde frister, at bedriftene må si nei til oppdrag, og at økte kostnader vil føre til høyere totalpriser. *NHO* er ikke enig i at midlertidig ansettelse er å foretrekke fremfor innleie, og viser blant annet til at midlertidig ansatte vil gå over i jobbsøkerfase eller ledighet, og at de ikke er beskyttet av likebehandlingsreglene. *BNL* peker blant annet på at forslaget kan lede til flere permitteringer eller nedbemanninger, færre lærlinger, at bedriftene blir nødt til å si nei til oppdrag, forsinkelser, økte kostnader og flere underentrepriser. *NHO Service og Handel* mener et forbud vil gi grobunn for useriøse aktører, mer midlertidig ansettelse, permittering, nedbemanning og alternative tilknytningsformer, og at et forbud vil motvirke seriøsitet. *NHO Service og Handel* peker også på at alternative løsninger til innleie vil kunne gi arbeidstakere svakere vern enn det norske bemanningsforetak er pliktig å gi sine ansatte. *Manpower Group* mener blant annet at et forbud vil åpne for flere useriøse underentreprenører, økning i bruken av utenlandske foretak som ikke trenger å følge likebehandlingsprinsippet, og mer midlertidighet og permitteringer. *Adecco Group Norge* mener at et forbud vil gi grobunn for flere useriøse aktører og alternative tilknytningsformer, og ikke flere faste ansettelser.
+
+Departementet viser generelt til at en ikke med sikkerhet kan si hva som blir de samlede konsekvensene av et forbud som foreslått i og med at det er mange og ulike forhold som har betydning for utviklingen i næringen. Det er imidlertid en ønsket konsekvens at praksis vil måtte legges om. Departementet viser til at forslaget for arbeidstakerne innebærer muligheter for økt bruk av faste ansettelser, med den trygghet og forutsigbarhet det fører med seg når det gjelder sikkerhet for fremtidig arbeid og inntekt. Høy grad av faste ansettelser kan også bidra til mer produktive, omstillings- og konkurransedyktige virksomheter, blant annet som følge av at det investeres i de ansattes kompetanse. Et mål er å gjøre det mer attraktivt og lettere å rekruttere arbeidstakere til faste stillinger i virksomhetene, herunder å skape grunnlag for styrket rekruttering til byggenæringen gjennom lærlingeordning og bruk av fagarbeidere, hvor det eksisterer godt utviklede ordninger i næringen og hvor det er behov for å øke tilbudet av kvalifisert arbeidskraft. Alle slike forhold bidrar også til positive konsekvenser på samfunnsnivå.
+
+Når det gjelder bruk av underentreprenører, er dette vanlig i byggenæringen og reguleres gjennom ordinære kontraktsforhold. Departementet antar at det med forslaget kan oppstå en dreining mot bruk av mer entreprise i næringen, det vil si at virksomheter kjøper resultatentrepriser fra andre virksomheter under sistnevntes arbeidsledelse i stedet for å utføre arbeidet selv ved hjelp av innleid arbeidskraft. En slik utvikling tilsier at arbeidskraften i så fall er ansatt direkte hos (under)-entreprenørene. Til forskjell fra innleie vil det her foreligge toparts arbeidsforhold direkte i produksjonsleddet.
+
+Departementet viser til at det gjelder en rekke krav som alle virksomheter i næringen må følge, blant annet krav om at lønns- og arbeidsvilkår må være i samsvar med gjeldende allmenngjøringsforskrift. For hovedleverandør/hovedentreprenør gjelder en plikt til å påse at lønns- og arbeidsvilkår hos virksomhetens underleverandører er i overensstemmelse med gjeldende allmenngjøringsforskrifter. I offentlige kontrakter av en viss verdi er det også en hovedregel om maksimalt to ledd med underleverandører.
+
+Departementet viser også til forslag om å tydeliggjøre grensen mellom innleie og entreprise, som omtales i kapittel 8. Hvorvidt en oppdragskontrakt er å anse som innleie eller entreprise er også underlagt offentlig tilsyn, gjennom at tilsynsmyndighetene må ta stilling til denne grensedragningen i forbindelse med tilsyn av innleiereglene.
+
+Departementet viser også til initiativet for å utarbeide en Norgesmodell med nasjonale seriøsitetskrav for alle offentlige anskaffelser, hvor intensjonen er å styrke de offentlige oppdragsgivernes kontroll og oppfølging av sine leverandører. Offentlige oppdrag står for en betydelig andel av prosjektmengden for byggenæringen. Som det fremgår nedenfor, vil departementet i samråd med partene dessuten utarbeide en veileder knyttet til regler og problemstillinger ved bruk av innleie og entreprise i arbeidslivet.
+
+Når det gjelder bekymringen knyttet til økt bruk av midlertidig ansettelse, viser departementet til at et klart mål for regjeringen er at byggebedriftene organiserer sin faste grunnbemanning etter sitt permanente arbeidskraftbehov, og at arbeidstakere som i dag er ansatt i bemanningsforetak får direkte ansettelse i en produksjonsbedrift. Lovens klare hovedregel er fast ansettelse, og midlertidig ansettelse ved såkalte arbeidstopper som ikke er sesongavhengige, er kun tillatt «dersom det dreier seg om kortvarige og uforutsigbare situasjoner», jf. Prop. 39 L (2014–2015) punkt 5.3.1.2. Departementet viser også til at prosjekt- eller oppdragsbasert arbeid i seg selv ikke gir grunnlag for midlertidig ansettelse eller innleie. Dersom dette rettslige utgangspunktet legges til grunn, bør det etter departementets vurdering være god grunn til å tro at grunnbemanningen i byggebedriftene vil øke. Departementet understreker samtidig at virksomhetene fortsatt vil ha mulighet for midlertidig ansettelse som en fleksibilitetsmekanisme. Fordi midlertidig ansettelse ligger innenfor rammen av direkte ansettelse i topartsforhold, vurderer departementet at dette i større grad enn innleie legger grunnlag for tillit, utvikling og samarbeid, samt overgang til fast ansettelse.
+
+Når det gjelder bekymringer knyttet til mangel på arbeidskraft, forsinkelser og kostander, viser departementet til at et forbud mot innleie i seg selv ikke bør føre til redusert tilgang på arbeidskraft. Et forbud mot innleie vil derimot ha betydning for hvordan virksomhetene tilknytter seg arbeidskraften. I stedet for å leie inn må virksomheten ansette arbeidstakeren direkte. Dette kan innebære noe mer administrasjon fra virksomhetens side, særlig i en overgangsperiode, og kan hende sterkere krav til prosjektstyring og -gjennomføring for alle involverte for å unngå at det oppstår situasjoner med forsinkelser, korte tidsfrister mv. som kan ha vært viktige årsaker til at det oppstår behov for å benytte innleie.
+
+Departementet viser generelt til at det er mange og ulike forhold som påvirker kostnadene ved byggeprosjekter. Departementet kan ikke se at det foreligger særlige forhold i byggenæringen som tilsier at faste og/eller direkte ansettelser skal innebære større omkostninger her enn hva tilfellet er for annet prosjektbasert arbeid i norsk arbeidsliv. Departementet viser ellers til omtale av behovet for overgangsordning nedenfor.
+
+Departementet peker videre på at fleksibilitet i et topartsforhold også kan oppnås gjennom muligheten for deltidsansettelse, og at loven åpner for gjennomsnittsberegning av arbeidstiden slik at det kan arbeides mer i enkelte perioder mot tilsvarende fritid i andre. For virksomheter som i perioder står uten oppdrag, er det også mulig å leie ut egne arbeidstakere til annen produksjonsbedrift, jf. § 14-13. Bestemmelsen tar typisk sikte på utlånslignende situasjoner mellom produksjonsbedrifter som alternativ til oppsigelse eller permittering, se Ot.prp. nr. 70 (1998–1999) punkt 6.3.4.1.
+
+Departementet viser for øvrig til kapittel 13 nedenfor med nærmere omtale og vurderinger av økonomiske og administrative konsekvenser.
+
+I høringen ba departementet også om høringsinstansenes innspill til alternative tiltak som kan være egnet til å få bukt med uønsket innleie til byggenæringen i Oslo-området.
+
+*NHO* mener det bør sees på en løsning der adgang til innleie fra bemanningsforetak kan begrenses til de tilfellene enten innleier eller utleier er bundet av tariffavtale inngått med fagforening med innstillingsrett, eventuelt i kombinasjon med krav til stillingsprosent. *NHO* mener også at det er grunn til i samarbeid med partene å utrede muligheten for en kvote. *NHO* viser også til at en mulighet kan være at oppdragsgiver eller hovedentreprenør pålegges informasjons- og påseplikt knyttet til innleieregelverket, og at oppdragsgiver i offentlige kontrakter stiller krav om lovlig innleie, og at det på forespørsel må dokumenteres at vilkårene er oppfylt.
+
+Departementet har vurdert disse innspillene, men mener at forslagene ikke vil være tilstrekkelige for å løse problemet med omfattende og vedvarende bruk av innleie i stedet for faste ansettelser i virksomhetene. Behovet for tiltak, jf. ovenfor, gjelder etter departementets vurdering også for tariffbundne virksomheter. Det å ha en regel om at innleie er tillatt fra bemanningsforetak med tariffavtale, vil innebære at alle byggebedrifter fortsatt kan leie inn, men presumptivt kun fra noen få store bemanningsforetak som har tariffavtale. At adgangen til innleie forutsetter tariffbinding på et visst nivå for utleier eller innleier fremstår derfor ikke som et egnet alternativ. Når det gjelder kvote, viser departementet til at dette også er utredet og hørt tidligere. Forslaget møtte motstand i høringen, fra organisasjoner på både arbeidsgiver- og arbeidstakersiden. I Prop. 73 L (2017–2018) punkt 8.3.1 fremkommer at
+
+flere mener at en kvote vil kunne oppfattes som en norm og føre til mer innleie. Det er videre påpekt utfordringer ved praktiseringen av en kvoteregel, og flere mener at en eventuell regulering må skje på arbeidsplassnivå i stedet for virksomhetsnivå. Andre har pekt på at en kvote vil være komplisert, og flere har vist til utfordringer med håndheving og sanksjonering.
+
+Departementet mener at dette fortsatt er relevante forhold å se hen til, og at en slik regulering uansatt ikke vil være tilstrekkelig for å løse utfordringen med vedvarende høy bruk av innleie til byggenæringen i Oslo-området.
+
+Det har også kommet innspill om andre tiltak knyttet til innleie i byggenæringen, som eventuelt kunne virke sammen med eller i tillegg til forslaget om forbud. *Arbeidstilsynet* har ulike forslag til tiltak for å styrke innleide arbeidstakeres arbeidsmiljø og arbeidsvilkår, herunder å tydeliggjøre innleiers ansvar for arbeidsmiljøet til innleide, krav om skriftlig oppdatert oversikt over innleide arbeidstakere, lovfeste skriftlighetskrav om hvilke opplysninger innleier skal gi til bemanningsforetaket, og påseplikt for innleier. *Oslo kommune* viser til kravene i Oslomodellen, og peker på at en nasjonal Norgesmodell vil kunne bidra til at leverandørmarkedet i større grad satser på fast ansatte i stedet for innleide for å få oppdrag. Departementet vil vurdere slike tiltak nærmere. Departementet peker i denne sammenheng dessuten på at departementet i samråd med partene vil utarbeide en praktisk og juridisk veileder for bruk av innleie og entreprise i norsk arbeidsliv.
+
+Det er i høringen reist spørsmål om forskriftens hjemmelsgrunnlag. *NHO Service og Handel* viser blant annet til at forhistorien til § 14-12 femte ledd tilsier at forskriftshjemmelen skal brukes for å forhindre at innleie skal virke lønns- og kostnadsdrivende, og viser til enkelte forarbeidsuttalelser. Etter departementets vurdering er det sentrale vilkåret i forskriftshjemmelen at det foreligger «viktige samfunnshensyn» som tilsier at innleie av visse arbeidstakergrupper eller på visse områder må forbys. At forarbeidene gir eksempel på hvilke situasjoner man har hatt i tankene, oppfatter ikke departementet som en uttømmende beskrivelse av når forskriftshjemmelen kan benyttes. Etter departementets vurdering foreligger nå viktige samfunnshensyn som tilsier et bransjemessig og geografisk avgrenset forbud. Det vises til vurderingen ovenfor.
+
+Departementet nevner for ordens skyld at som følge av forslag om nye ledd i § 14-12 jf. nedenfor, vil gjeldende femte ledd bli nytt sjette ledd.
+
+Flere høringsinstanser, herunder *NHO*, har også spilt inn at det er behov for overgangsordninger for bindende tilbud og inngåtte kontrakter. Departementet ser at et forbud vil kunne innebære en stor overgang for de som i dag benytter mye innleie. Departementet vil fastsette forskrift med virkning fra 2023, og i tillegg med overgangsordninger for allerede bindende kontrakter.
+
+Det er i høringen etterspurt avklaring om forbudets varighet og også bedt om at forbudet gjøres tidsbegrenset, samt uttrykt behov for at forbudet evalueres underveis. Departementet mener det er viktig at forbudets virkninger vurderes og evalueres. Som nevnt i kapittel 5 vil departementet iverksette et eksternt FoU-prosjekt for å belyse virkninger av de forslagene som fremmes, herunder forbudet. Et slikt oppdrag er det naturlig at utformes i samråd med partene. Det bør tas sikte på å få kartlagt virkningene av forbudet, herunder betydning for blant annet omfang av grunnbemanning og faste ansettelser, bruk av underentreprise, midlertidig ansettelse og selvstendige oppdragstakere. Det bør også ses på mulighetene for å få kartlagt virkningene forbudet får for blant annet byggeaktivitet og kostnader, og også fagorganisering i næringen. Resultatene fra prosjektet vil inngå i et arbeid med å evaluere tiltakene.
+
+### Tilsynshjemmel
+
+Departementet viser til at Arbeidstilsynet (og Petroleumstilsynet og Luftfartstilsynet på sine områder) med virkning fra 1. juli 2020 fikk myndighet til å føre tilsyn med innleie- og likebehandlingsreglene, jf. Prop. 61 LS (2019–2020). Det er etter departementets vurdering både naturlig og nødvendig for å sikre etterlevelse, at også et forbud hjemlet i § 14-12 underlegges offentlig tilsyn. Departementet foreslår at Arbeidstilsynet gis hjemmel til å føre tilsyn med forskrifter gitt i medhold av § 14-12 sjette ledd (nåværende femte ledd).
+
+Etter departementets vurdering bør Arbeidstilsynets påleggskompetanse når det gjelder forbud være den samme som den som gjelder innleiereglene for øvrig. Det vil si at tilsynets myndighet avgrenses mot spørsmål om arbeidstakers rett til direkte ansettelse mv., se Prop. 61 LS (2019–2020) særlig punkt 2.6.2.1.
+
+*Advokatforeningen* mener at brukervennlighet og hensynet til klarhet tilsier at tilsynskompetansen også beskrives i selve forskriften. Departementet vil vurdere dette nærmere ved fastsetting av forskriften.
+
+Tilsynshjemmelen vil også gjelde for eventuelle andre fremtidige forskrifter fastsatt i medhold av § 14-12 sjette ledd.
+
+Som departementet påpekte i høringen, vil også et forbud med hjemmel i § 14-12 være omfattet av reglene om kollektiv søksmålsrett, som nå er vedtatt og som vil tre i kraft fra 1. juli 2022.
+
+### Generell innstramming i innleiereglene
+
+Når det gjelder behovet for en generell innstramming i adgangen til innleie fra bemanningsforetak, er det særlig muligheten til å leie inn ved *arbeid av midlertidig karakter* som etter departementets syn er problematisk og som bidrar til å fortrenge direkte ansettelser i en topartsrelasjon, jf. arbeidsmiljøloven § 14-12 første ledd, jf. § 14-9 andre ledd bokstav a. Departementet viser til at muligheten til å leie inn arbeidstakere når arbeidet er av midlertidig karakter beror på en bred skjønnsmessig vurdering. Innleieadgangen bestemmelsen åpner for kan misforstås og misbrukes, og kan generelt gjøre det mulig å basere et permanent bemanningsbehov på innleie.
+
+Etter departementets syn er det grunn til å anta at innleie begrunnet i at arbeidet er av midlertidig karakter blir benyttet i større omfang enn loven gir grunnlag for, og at flere virksomheter dekker et permanent bemanningsbehov med innleie etter denne hjemmelen. Departementet viser til en kartlegging utført av Svalund mfl. (2019), der mellom 23 og 36 prosent av arbeidsgiverne som deltok i undersøkelsen oppga at de kan ha leid inn arbeidstakere uten å ha adgang til dette etter regelverket, og uten å ha avtale med tillitsvalgte, jf. punkt 3.7. I enkelte bransjer kan deler av arbeidet være av midlertidig varighet, uten at lovens vilkår om midlertidighet nødvendigvis er oppfylt. Det synes blant annet å være en utbredt misforståelse at prosjektarbeid alltid vil være arbeid av midlertidig karakter. Etter departementets vurdering vil det å fjerne muligheten for innleie ved arbeid av midlertidig karakter kunne bidra til å hindre misbruk og omgåelser.
+
+Etter departementets syn er det ikke bare i de tilfeller bestemmelsen misbrukes og misforstås at innleieadgangen er problematisk. Også i de tilfeller bestemmelsen praktiseres etter sin ordlyd, åpner den etter departementets vurdering i dag for en innleiepraksis som blir for vidtgående. Departementet viser til at det er bred enighet om at fast og direkte ansettelse skal være hovedregelen i norsk arbeidsliv. Innleie er en tilknytningsform som fortrenger og utfordrer den faste ansettelsen på flere måter, og som innebærer flere negative konsekvenser for de innleide arbeidstakerne, innleievirksomhetens egne ansatte og for arbeidsmarkedet, jf. punkt 3.6 og kapittel 5. Departementet mener derfor at det å oppheve adgangen til innleie ved arbeid av midlertidig karakter vil være en hensiktsmessig innstramming av innleieadgangen. Forslaget innebærer at innleie først og fremst vil være aktuelt ved reelle vikariater. I tillegg tillates innleie etter avtale med de tillitsvalgte dersom virksomheten er bundet av tariffavtale med fagforening med innstillingsrett.
+
+Hensynet til å gjøre innleieregelverket enklere å håndheve taler etter departementets syn også for å fjerne innleieadgangen ved arbeid av midlertidig karakter. Arbeidstilsynet fikk fra 1. juli 2020 myndighet til å føre tilsyn med vilkårene for innleie, jf. Prop. 61 LS (2019–2020). Departementet viser til at Arbeidstilsynet har pekt på problemer med å håndheve bestemmelsen, ettersom vurderingen av om arbeidet er av midlertidig karakter er svært skjønnsmessig.
+
+Forslaget vil etter departementets vurdering bidra til å stimulere til flere faste og direkte ansettelser, og dermed økt grunnbemanning. En slik innstramming vil også gjøre regelverket enklere å forstå og praktisere, både for arbeidsgiver og arbeidstaker.
+
+Flere høringsinstanser støtter forslaget. *LO* mener at forslaget er svært viktig og et egnet tiltak som vil ha stor betydning i alle bransjer. *LO* viser til at innleie fortrenger faste ansettelser i topartsrelasjoner, og at dagens ulike grunnlag for innleie med innslag av skjønn åpner for misbruk og misforståelser. En innstramming vil føre til et enklere regelverk og gjøre det enklere å avdekke misforståelser og misbruk. Konsekvensen vil ifølge *LO* være flere faste og direkte ansettelser. Forslaget støttes også av blant annet *Unio*, *YS* og *Arbeidstilsynet*.
+
+Hovedorganisasjonene på arbeidsgiversiden viser til at forslaget er inngripende og at det vil ha dramatisk effekt for virksomheter som er avhengig av innleie ved midlertidig behov. Lovens øvrige mekanismer vil etter deres syn ikke løse virksomhetenes bemanningsbehov på en god måte. *NHO* mener at innleie ved arbeid av midlertidig karakter ikke fortrenger faste ansettelser, ettersom behovet hos innleier er midlertidig. Forslaget vil ifølge organisasjonene på arbeidsgiversiden føre til økt bruk av midlertidige ansettelser.
+
+Departementet viser til at formålet med forslaget er å bidra til flere faste og direkte ansettelser, hvilket er hovedregelen i norsk arbeidsliv, jf. § 14-9 første ledd. Loven oppstiller strenge vilkår for å gjøre unntak fra denne hovedregelen. Generelle eller jevne variasjoner i ordretilgang eller generell usikkerhet knyttet til fremtidig arbeidskraftbehov oppfyller ikke vilkåret om at arbeidet må være av midlertidig karakter, jf. Ot.prp. nr. 49 (2004–2005) side 214. Det at arbeidet er organisert i prosjekt eller som et enkeltstående oppdrag, er ifølge forarbeidene i seg selv heller ikke tilstrekkelig til å begrunne midlertidig ansettelse etter denne bestemmelsen.
+
+En sannsynlig konsekvens av forslaget vil etter departementets vurdering derfor være at flere virksomheter vil bli nødt til å øke grunnbemanningen med flere faste ansettelser.
+
+Etter departementets syn vil lovens øvrige mekanismer gi virksomhetene tilstrekkelig fleksibilitet til å løse reelle midlertidige behov for økt bemanning. Departementet viser til at det fortsatt vil være mulig å leie inn arbeidstakere i vikartilfellene, eller å inngå tidsbegrenset avtale om innleie med de tillitsvalgte etter § 14-12 andre ledd. Sistnevnte vil kunne bidra til økt utbredelse av fagorganisering og tariffavtaler, hvilket er en ønsket virkning av forslaget. Det vil også være mulig å leie inn arbeidstakere fra andre produksjonsbedrifter, jf. § 14-13, for eksempel for å ta unna arbeidstopper.
+
+Det vil i tillegg være mulig med direkte midlertidig ansettelse, jf. § 14-9 andre ledd bokstav a, forutsatt at lovens vilkår er oppfylt. Departementet vil følge nøye med på en eventuell utvikling i retning av økt bruk av ulovlige midlertidige ansettelser.
+
+Flere høringsinstanser mener at midlertidig ansettelse gir arbeidstakerne dårligere vern enn ved utleie fra bemanningsforetak. Det vises blant annet til at midlertidig ansatte ikke er beskyttet av likebehandlingsreglene, og til at den enkelte får kortvarig tilknytning til mange ulike arbeidsgivere over tid, og dermed svekkede sykepengerettigheter og en fragmentert pensjonsopptjening.
+
+Etter departementets syn har midlertidig og direkte ansettelse i en topartsrelasjon flere fordeler sammenlignet med innleie. Direkte midlertidig ansettelse sikrer etter departementets vurdering bedre grunnlag for tillit, samarbeid, medvirkning og kompetanseutvikling, samt overgang til fast ansettelse. Departementet viser til at arbeidstakere som er midlertidig ansatt, med unntak av vikartilfellene, har fortrinnsrett til ny ansettelse dersom arbeidstakeren på grunn av virksomhetens forhold ikke får fortsatt ansettelse, jf. § 14-2 andre ledd. Tilsvarende gjelder ikke ved innleie. En analyse utført av Strøm og von Simson (2020) viser at 40–50 prosent av de midlertidig ansatte oppnår fast stilling etter ett år. Når det gjelder innleie, viser tall fra Institutt for samfunnsforskning at rundt 30 prosent av de innleide går over til fast ansettelse. Departementet viser videre til at det ved innleie ofte er slik at arbeidstakeren leies ut til flere ulike virksomheter, og at innleieadgangen ikke i seg selv sikrer arbeidstakeren en mer langvarig tilknytning til virksomheten. Etter hva departementet er kjent med benytter bemanningsforetakene ofte gjennomsnittsberegning av arbeidstiden, og når arbeidstakeren har arbeidet den avtalte stillingsprosenten, har arbeidstakeren gjerne ingen garanti for at vedkommende vil få tildelt flere oppdrag. Etter hva departementet er kjent med er det heller ikke vanlig praksis at arbeidstakerne får lønn mellom oppdrag. Departementet kan ikke se at dette sikrer bedre forutsigbarhet for arbeidstakeren.
+
+En konsekvens av forslaget vil være at virksomhetene i større grad vil måtte basere eventuell innleie på avtale med de tillitsvalgte, jf. § 14-12 andre ledd. *LO* påpeker at dette kan medføre et økt press på lokale tillitsvalgte, og også at de tillitsvalgte opplever et press for å inngå avtaler av lang varighet og med et stort omfang. Etter *LOs* syn bør det derfor angis en maksimal varighet på avtaler om innleie enten i lov eller forarbeider. *YS* mener at avtaleadgangen burde vært lagt til selve fagforeningen med innstillingsrett.
+
+Departementet viser her til at det i 2019 ble stilt høyere krav til nivået på tariffavtalen innleiebedriften må være bundet av for å inngå avtale med lokale tillitsvalgte. Som et ledd i begrunnelsen viste departementet til at det var rapportert om at tillitsvalgte opplevde press for å inngå avtaler, jf. Prop. 73 L (2017–2018). Departementet antar at det i seriøse virksomheter bundet av tariffavtale med fagforening med innstillingsrett vanligvis vil foreligge en god dialog i forkant av eventuelle avtaler om innleie, og at lokale tillitsvalgte vil kunne søke råd og veiledning av fagforeningen sentralt før det inngås slik avtale. Arbeidsgiver har etter gjeldende rett også en plikt til å drøfte bruken av innleid arbeidskraft med de tillitsvalgte, jf. § 14-12 tredje ledd, og det er et generelt krav at innleie etter avtale med tillitsvalgte skal være «tidsbegrenset». Departementet kan på nåværende tidspunkt ikke se at det er nødvendig å sette en grense for lengden på slike avtaler. Departementet viser også til forslaget om at arbeidstakere som er innleid med hjemmel i avtale med de tillitsvalgte skal ha rett til fast ansettelse i innleievirksomheten etter en viss tid, jf. kapittel 7.
+
+*KS* og flere bemanningsforetak viser til at forslaget vil innebære en konkurranseulempe for virksomheter som ikke er bundet av tariffavtale med fagforening med innstillingsrett, og at forslaget for slike virksomheter i realiteten vil virke som et forbud mot innleie utover vikartilfellene. Dette vil særlig ramme små og mellomstore bedrifter. Høringsinstansene påpeker at det ikke er opp til arbeidsgiver å bestemme om virksomheten skal være tariffbundet eller ikke, og at organisasjonsfriheten innebærer at arbeidsgiver ikke kan pålegge de ansatte å organisere seg.
+
+Departementet viser her til at lovens system er lagt opp slik at virksomheter med tariffavtale på høyt nivå gis visse unntak og rettigheter. Etter departementets vurdering kan avtaleadgangen etter § 14-12 andre ledd bidra til større grad av organisering og avtaledekning i bransjer som er avhengig av innleid arbeidskraft. Departementet viser til at Fafo, basert på tall fra Fellesordningen for AFP i privat sektor, anslår at 93 prosent av de organiserte arbeidstakerne er organisert i fagforeninger med innstillingsrett. Arbeidsgivere som har organiserte arbeidstakere i virksomheten vil etter departementets syn derfor kunne påvirke om virksomheten skal være bundet av tariffavtale med fagforening med innstillingsrett, ved å fremsette tilbud om slik avtale. Departementet vil også presisere at det ikke er slik at avtaleadgangen etter § 14-12 andre ledd gir fri adgang til innleie. Bestemmelsen forutsetter at det oppnås enighet med de tillitsvalgte og at innleien er tidsbegrenset. I virksomheter der det ikke oppnås enighet om slik innleieavtale, og i virksomheter som ikke er bundet av tariffavtale inngått med fagforening med innstillingsrett, vil det fortsatt være mulig å benytte innleie ved vikariat, leie fra andre produksjonsbedrifter, samt inngå avtale om midlertidig ansettelse dersom vilkårene er oppfylt.
+
+Innleie fra bemanningsforetak ved arbeid av midlertidig karakter brukes innen sentrale offentlige tjenesteområder. *KS* viser til at forslaget vil være problematisk for kommunal sektor når det er behov for å øke bemanningen raskt for å dekke midlertidige behov, for eksempel under pandemier, naturkatastrofer og flyktningkriser. *KS* mener også at det kan være tid- og ressurskrevende å inngå avtaler med de tillitsvalgte om innleie.
+
+Departementet viser til at det i offentlig sektor er full tariffavtaledekning, og at alle virksomheter i offentlig sektor derfor i utgangspunktet vil ha mulighet til å inngå avtale med tillitsvalgte om innleie fra bemanningsforetak. Departementet viser videre til at innleie utgjør en liten del av samlet sysselsetting på disse områdene, og at det bør være mulig å komme frem til egnede løsninger som også inkluderer bruk av avtaler med de tillitsvalgte i virksomhetene. Det vises for øvrig til omtale av helsesektoren nedenfor.
+
+Departementet ba i høringen om forslag til alternative tiltak som kan bidra til å begrense bruken av innleie. Flere høringsinstanser har foreslått økt tilsyn for å slå ned på useriøse aktører. Departementet deler oppfatningen om at tilsyn er et viktig virkemiddel for å slå ned på ulovlig innleie, og viser til at Arbeidstilsynet fra 1. juli 2020 fikk myndighet til å føre tilsyn med vilkårene for innleie, jf. Prop. 61 LS (2019–2020). Departementet har også foreslått å innføre en godkjenningsordning for bemanningsforetak, og også å styrke Arbeidstilsynets tilsynskompetanse i denne forbindelse. Forslaget innebærer blant annet at Arbeidstilsynet gis hjemmel til å føre tilsyn med og sanksjonere mot brudd på plikten for bemanningsforetak til å være godkjent, og at Arbeidstilsynets reaksjonsmidler også skal omfatte overtredelsesgebyr, jf. kapittel 9. For å styrke etterlevelsen av innleieregelverket har regjeringen også gjeninnført kollektiv søksmålsrett, slik at fagforeninger som har medlemmer i en virksomhet som har leid inn arbeidstaker fra bemanningsforetak, kan reise søksmål i eget navn om lovligheten av slik innleie. Samlet må dette antas å bidra til å få ned andelen ulovlig innleie.
+
+Departementet mener uansett at tiltak knyttet til håndheving ikke er nok for å få ned bruken av innleie som fortrenger faste og direkte ansettelser, og for å begrense de negative sidene innleie har for de innleide, innleievirksomhetens egne ansatte og for arbeidsmarkedet. Etter departementets syn er det behov for tiltak for å begrense innleieadgangen som sådan, og ikke kun for å slå ned på ulovlig innleie.
+
+Enkelte høringsinstanser har foreslått at det som et alternativ til å oppheve adgangen til innleie etter § 14-12 første ledd, jf. § 14-9 andre ledd bokstav a, bør fremgå av loven eller en egen veileder hva som menes med arbeid av midlertidig karakter. Departementet er i utgangspunktet enig i at slike tiltak vil kunne gjøre det enklere for brukerne av loven å forstå hva som utgjør et arbeid av midlertidig karakter. Etter departementets syn åpner bestemmelsen imidlertid uansett for en for vidtgående bruk av innleie, jf. ovenfor, selv om bestemmelsen praktiseres etter sin ordlyd og verken misforstås eller omgås. En presisering er derfor etter departementets vurdering ikke tilstrekkelig for å begrense bruken av innleie. Departementet vil likevel som omtalt ovenfor utarbeide en generell veileder i samråd med partene på området.
+
+*Norsk Olje og Gass* har foreslått at innleie ved arbeid av midlertidig karakter bør være tillatt for virksomheter som er bundet av tariffavtale inngått med fagforening med innstillingsrett, uten at det kreves lokal avtale om innleie. Et annet alternativ kan ifølge *Norsk Olje og Gass* være å etablere en dispensasjonsordning etter modell fra Arbeidsleieutvalget, som på 1990-tallet hadde anledning til å gi dispensasjon fra dagjeldende regelverk, jf. Blaalid-utvalgets utredning (NOU 1998: 15) kapittel 5 og 6. Departementet viser her til at det allerede gjelder et krav om tidsbegrensning i avtaleadgangen etter § 14-12 andre ledd, og at det å innføre et krav om midlertidighet og samtidig fjerne kravet om lokal avtale, trolig ikke vil medføre at bruken av innleie reduseres. Når det gjelder dispensasjonsordning, ville dette etter departementets syn være både tid- og ressurskrevende. Det vil også være utfordrende for det organet som eventuelt skal gi slike dispensasjoner å få tilstrekkelig oversikt over virksomhetens organisering for å vurdere om det foreligger grunnlag for dispensasjon. Departementet vurderer at disse tiltakene ikke er hensiktsmessige for å oppnå målet med forslagene.
+
+Departementet har også vurdert andre tiltak, herunder om det bør innføres en kvoteordning. Departementet viser til at dette ble vurdert i Prop. 73 L (2017–2018), og at de samme motforestillingene gjør seg gjeldende også i dag, jf. punkt 6.4.2 ovenfor.
+
+Departementet har etter dette kommet til at adgangen til innleie ved arbeid av midlertidig karakter bør oppheves. Departementet har særlig lagt vekt på at bestemmelsen åpner for en for vidtgående innleieadgang, at bestemmelsens skjønnsmessige karakter muliggjør omgåelser av regelverket, og at dette samlet bidrar til å fortrenge faste og direkte ansettelser. Det vil fortsatt være adgang til å leie inn arbeidstakere fra bemanningsforetak etter § 14-12 første ledd, jf. § 14-9 andre ledd bokstav b til e, samt ved avtale med de tillitsvalgte, jf. § 14-12 andre ledd.
+
+Departementet mener at en lovendring på dette området som hovedregel bør gjelde alle bransjer og ikke være geografisk avgrenset.
+
+På enkelte områder ser departementet imidlertid at det kan være grunn til å vurdere en avgrenset unntaksadgang.
+
+Hovedregelen i norsk arbeidsliv skal være fast og direkte ansettelse. Også *helsepersonell* bør etter departementets syn som den klare hovedregel ansettes direkte i den virksomheten som skal ha arbeidet utført. Departementet ser likevel at det kan være særlige hensyn som tilsier at det i noen situasjoner kan være behov for å leie inn helsepersonell for å sikre forsvarlig drift, herunder for å opprettholde kapasiteten og kvaliteten i helsetilbudet til befolkningen. Etter departementets vurdering er det avgjørende at virksomheter innen helse og omsorg har tilgang til tilstrekkelig kvalifisert arbeidskraft. Departementet viser til at staten og kommunene har et overordnet ansvar for å tilby forsvarlige helse- og omsorgstjenester, jf. spesialisthelsetjenesteloven § 2-2 og helse- og omsorgstjenesteloven § 4-1. Mangel på tilstrekkelig kvalifisert helsepersonell kan i verste fall gå utover pasientsikkerheten. Departementet viser videre til at det i distriktene kan være vanskelig å få rekruttert helsepersonell for direkte ansettelse. Behovet for innleie kan også oppstå raskt, for eksempel ved utbrudd av sykdommer, større ulykker mv.
+
+Departementet foreslår derfor at det åpnes for en unntaksadgang på dette området, ved at det inntas en forskriftshjemmel i arbeidsmiljøloven som gir departementet mulighet til å fastsette særregler om tidsbegrenset innleie av helsepersonell for å sikre forsvarlig drift av helse- og omsorgstjenesten. Bestemmelsen vil åpne for at det i avgrensede tilfeller kan åpnes for innleie i noe flere situasjoner enn det som vil følge av § 14-12 første ledd, jf. § 14-9 andre ledd bokstav b til e. Det presiseres at bestemmelsen skal forstås strengt. Departementet foreslår at Arbeidstilsynet skal kunne føre tilsyn med slik forskrift, og at dette presiseres i § 18-6 første ledd.
+
+Departementet viser videre til at bruk av *rådgivere og konsulenter med spesialkompetanse* kan reise noen særlige spørsmål. Slike tjenester vil i noen sammenhenger organiseres slik at forholdet må anses som innleie, og slik at forholdene hos utleier innebærer at konsulent- eller rådgivningsselskapet er å anse som bemanningsforetak. I slike tilfeller må blant annet vilkårene for innleie i § 14-12 være oppfylt, og konsulent- eller rådgivningsselskapet må være registrert i bemanningsforetaksregisteret. Høringsinnspill viser blant annet til at rådgivere og konsulenter i både privat og offentlig sektor benyttes for å hente inn tidsbegrenset ekspertise og spisskompetanse, for eksempel til gjennomføring av innovasjons- og utviklingsprosjekter, herunder innenfor IKT. Det vises også til at bruk av slike konsulenter bidrar til utvikling ved at de deler erfaring og kunnskap, og at de hos sine arbeidsgivere har fagmiljø for vedlikehold og videreutvikling av kompetanse. Videre pekes det på at konsulenter og rådgivere er høyt utdannede med faste og ordnede arbeidsforhold.
+
+Departementet ser at det kan være viktig for virksomheters utviklings- og omstillingsarbeid å ha mulighet til knytte til seg eksterne konsulenter og rådgivere med ekspertise og erfaring som virksomheten selv ikke besitter. Departementet antar at bruk av slike tjenester kan organiseres på ulike måter, både som kjøp av tjenester fra selvstendige oppdragstakere, innleie fra bemanningsforetak eller produksjonsbedrift, og som entreprise. Som også enkelte høringsinnspill viser, vil ikke entreprise nødvendigvis være en egnet kontraktsform innenfor dette markedet, blant annet fordi prosjekter kan ønskes gjennomført i tett samarbeid med oppdragsgiver, og det ikke alltid er ønskelig eller mulig at resultatet fastsettes på forhånd.
+
+Etter departementets oppfatning vil innleie av ekspertise og spisskompetanse til klart avgrensede prosjekter i innleievirksomheten, i mindre grad også utfordre virksomhetens grunnbemanning eller faste ansettelser. De innleide arbeidstakerne det her er tale om kan etter departementets syn dessuten i mindre grad være sårbare for de negative virkningene av innleie.
+
+Departementet vil på bakgrunn av forholdene ovenfor vurdere nærmere behovet for et mulig snevert unntak eller særregulering knyttet til slik innleie. Den nærmere avgrensning knyttet til et eventuelt unntak, herunder hvilke spesialister slike regler eventuelt bør omfatte, må avklares nærmere i et forskriftsarbeid. Departementet foreslår derfor at det i arbeidsmiljøloven inntas en forskriftshjemmel som åpner for at departementet kan fastsette nærmere regler for innleie av spesialkompetanse som avviker fra § 14-12 første ledd. Departementet foreslår at Arbeidstilsynet skal kunne føre tilsyn med slik forskrift, og at dette presiseres i § 18-6 første ledd.
+
+I høringen nevnte departementet at *avløsning til jordbruket* kan reise noen særskilte spørsmål.
+
+Det finnes enkelte utfordringer knyttet til arbeidsvilkår i landbruksnæringen, herunder for sesongarbeidere. Departementet mener imidlertid det er viktig å sørge for en fortsatt effektiv og velfungerende avløserordning for norske bønder. På denne bakgrunn kan det være behov for å vurdere tilpasninger i regelverket for denne næringen særskilt. Departementet viser i denne sammenheng også til at gjeldende forskriftsverk på området kan fremstå uklar.
+
+Departementet vil i samråd med Landbruks- og matdepartementet og partene i arbeidslivet foreta en gjennomgang av regelverket. Departementet mener det bør gis utsatt ikrafttredelse av opphevelsen av adgangen til å leie inn arbeidstakere ved arbeid av midlertidig karakter for jordbruksforetak frem til dette er utredet og særregulering fastsatt.

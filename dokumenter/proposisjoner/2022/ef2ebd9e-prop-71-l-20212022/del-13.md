@@ -1,857 +1,294 @@
-# Prop. 71 L (2021–2022), del 13 av 24 (side 131–140)
+# Prop. 71 L (2021–2022), del 13 av 23
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/ef2ebd9e-prop-71-l-20212022.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-71-l-20212022/id2905998/
 - Original-PDF: https://www.regjeringen.no/contentassets/479b9006cd88495fa6c0564883b7dfda/no/pdfs/prp202120220071000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 131]
+Ny § 22-1 a tas kun inn av informasjonshensyn, og bestemmelsen har i seg selv ingen rettsskapende virkning. Aktuelle rettigheter og plikter ut over dem som framgår av loven, følger direkte av de avtalene som til enhver tid er gjennomført i norsk rett. Se forslagene til §§ 1-3 og 1-3 a og spesialmerknadene til disse paragrafene.
 
-2021–2022
+I det følgende redegjøres det for hovedtrekkene for hvilken betydning de folkerettslige instrumentene har for folketrygdloven kapittel 22. Redegjørelsen må leses i lys av de forbeholdene som presenteres i kapittel 1 og punkt 7.5.1 i proposisjonen her.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Folketrygdloven kapittel 22 har overskriften «Utbetaling». I saker som innebærer et grensekryssende element med en eller flere andre stater som anvender trygdeforordningen, suppleres bestemmelsene i kapittel 22 med bestemmelsene i trygdeforordningen avdeling V og bestemmelsene i gjennomføringsforordningen avdeling IV, kapittel III.
 
-likebehandlingsbestemmelsen i trygdeforordningen
-artikkel 4.
-Lovvalgsreglene innebærer som hovedregel at
-en person skal være underlagt lovgivningen i staten der han eller hun arbeider eller driver selvstendig virksomhet, jf. trygdeforordningen artikkel 11 nr. 3 bokstav a). Personer som ikke arbeider eller er i selvstendig virksomhet, skal som
-hovedregel være underlagt lovgivningen i
-bostedsstaten, jf. trygdeforordningen artikkel 11
-nr. 3 bokstav e).
-For alderspensjon må det avklares i hvilke
-EØS-stater vedkommende har vært trygdedekket
-i ulike perioder i livet. Dette skyldes at alderspensjon kun opptjenes i de periodene man er trygdedekket i den enkelte EØS-staten, jf. delpensjonsprinsippet. Det vises til omtale av delpensjonsprinsippet og dets innvirkning på alderspensjon etter
-kapittel 19 nedenfor.
-For pensjoner foretas som regel lovvalgs- og
-medlemskapsvurderingen på det tidspunktet da
-det søkes om pensjon, hvilket vil kunne være
-lenge etter at pensjonsrettighetene faktisk er opptjent. Hva som skal regnes som tid med trygdedekning i en stat som er utpekt som lovvalgsstat,
-defineres av nasjonal lovgivning. Trygdemyndighetene i de berørte statene utveksler derfor informasjon om opptjeningsperioder.
-De generelle reglene om lovvalg er nærmere
-omtalt i NOU 2021: 8 kapittel 6. Lovvalgsreglenes
-betydning for alderspensjon er omtalt i NOU
-2021: 8 punkt 8.12.2.2.
-Likebehandling
-Det er ikke tillatt å forskjellsbehandle norske
-statsborgere og andre personer som er omfattet
-av trygdeforordningens regler, jf. trygdeforordningen artikkel 4. Som en forlengelse av dette,
-kreves det i trygdeforordningen artikkel 5 at en
-medlemstat likestiller ytelser, inntekter, faktiske
-forhold eller hendelser i hele EØS.
-Folketrygdloven kapittel 19 inneholder ingen
-vilkår som knytter rettsvirkninger til status som
-norsk statsborger.
-Forbudet mot indirekte forskjellsbehandling
-og kravet til likebehandling av ytelser, inntekter,
-faktiske forhold eller hendelser fra andre EØS-stater, vil for alderspensjon i praksis ha mindre
-betydning enn trygdeforordningen artikkel 6 om
-sammenlegging av tid og trygdeforordningen
-avdeling III kapittel 5. Det vises til omtale av sammenleggingsprinsippet nedenfor.
-Likebehandlingsprinsippet er nærmere omtalt
-i NOU 2021: 8 punkt 5.3. Likebehandlingsprinsip-
+I folketrygdloven kapittel 22 finnes regler om inndriving av folketrygdens fordringer som følge av feilutbetalinger mv. Som følge av trygdeforordningen og gjennomføringsforordningen, har de statene som anvender dem, plikt til å bistå hverandre med inndriving av fordringer.
 
-129
+Også andre internasjonale avtaler har betydning for trygdekoordinering, se forslag til folketrygdloven ny § 1-3 a. Noen av disse avtalene innebærer langt på vei bare at trygdeforordningen og gjennomføringsforordningen gis anvendelse for områder og personer som ikke er omfattet av trygdeforordningen etter EØS-avtalen.
 
-pets betydning for alderspensjon er omtalt i NOU
-2021: 8 punkt 8.12.2.3.
-Sammenlegging av tid
-Sammenleggingsreglene innebærer at opptjeningsperioder i andre stater som anvender trygdeforordningen i noen tilfeller skal legges sammen
-med opptjeningsperioder i Norge, se trygdeforordningen artikkel 6.
-Rett til alderspensjon etter kapittel 19 forutsetter i utgangspunktet en trygdetid på minst fem år,
-jf. folketrygdloven § 19-2 første ledd. Trygdeforordningen artikkel 6 krever at trygdetid i andre
-EØS-stater legges sammen med trygdetid i folketrygden, dersom dette er nødvendig for å oppfylle
-dette inngangsvilkåret. Slik sammenlegging innebærer at alderspensjon etter kapittel 19 kan
-komme til utbetaling også for personer som har
-en trygdetid i Norge på mindre enn fem år.
-Det framgår av trygdeforordningen artikkel
-57 nr. 1 at det i utgangspunktet kan kreves at man
-har noe norsk trygdetid å legge trygdetiden fra
-andre EØS-stater sammen med. Etter bestemmelsen er en stat ikke forpliktet til å gi ytelser dersom
-medlemstid etter egen lovgivning samlet er kortere enn ett år, med mindre statens egen lovgivning gir slik rett. Andre stater hvor det er opptjent
-pensjonsrettigheter, skal imidlertid ved sin pro
-rata-beregning av pensjon medregne slike kortere medlemsperioder, jf. trygdeforordningen
-artikkel 57 nr. 2. Alderspensjon etter kapittel 19
-beregnes etter reglene i folketrygdloven kapittel
-3. Folketrygdloven åpner for å gi alderspensjon
-basert på trygdetid. Hva som regnes som trygdetid, er nærmere angitt i folketrygdloven § 3-5. Det
-inkluderer blant annet «tidsrom […] da en person
-fra fylte 16 år til og med det året han eller hun fylte
-66 år, har vært medlem i trygden med rett til
-ytelser etter pensjonskapitlene», jf. første ledd.
-Etter tredje ledd skal et kalenderår som medlemmet har opptjent pensjonspoeng i, regnes som et
-helt års trygdetid. For at det gjennom sammenlegging med trygdetid fra andre EØS-stater skal
-kunne foreligge rett til alderspensjon etter kapittel
-19, må vedkommende ha opptjent minst ett års
-trygdetid. Dette innebærer at alderspensjon etter
-kapittel 19 vil kunne gis på grunnlag av ett år med
-pensjonspoeng. Dette tilsvarer ikke nødvendigvis
-et helt års faktisk opptjening.
-For personer omfattet av EØS-avtalen, som
-ikke har vært yrkesaktive i noen EØS-stat, kreves
-det til sammen minst tre års botid i Norge for rett
-til alderspensjon etter kapittel 19. Dette unntaket
-framgår av Norges oppføring i vedlegg XI til tryg-
+Dette gjelder EFTA-konvensjonen og nordisk konvensjon om trygd. Dette gjelder også bestemmelsene om trygdekoordinering i separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia samt avtalen mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere (trianguleringsavtalen), som i dag er gjennomført i brexit-loven, og som nå inkorporeres i folketrygdloven med forslaget til ny § 1-3 a.
 
-[Side 132]
+Disse multilaterale avtalene er nærmere omtalt av Trygdekoordineringsutvalget i NOU 2021: 8 kapitlene 9 til 11.
 
-130
+Bilaterale avtaler med betydning for trygdekoordinering gis virkning i norsk rett ved forskrift hjemlet i folketrygdloven ny § 1-3 a. Disse avtalene og deres innvirkning på norsk trygdelovgivning er omtalt av Trygdekoordineringsutvalget i NOU 2021: 8 kapittel 12.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Hvorvidt en av de ovennevnte internasjonale avtalene får betydning i en konkret trygdesak, og hva betydningen i tilfelle vil være, vil avhenge av det konkrete innholdet i den aktuelle avtalen og de nærmere omstendighetene i saken.
 
-deforordningen, se EØS-avtalen vedlegg VI nr. 1,
-bokstav l) nr. 3 bokstav a). Det følger imidlertid av
-bokstav b) at unntaket ikke gjelder for norske
-pensjonsrettigheter opparbeidet av familiemedlemmer til personer som har eller har hatt inntektsgivende arbeid i Norge, eller for studenter
-eller deres familiemedlemmer.
-Bestemmelsene i trygdeforordningen artikkel
-57 nr. 3 medfører at dersom det ikke foreligger
-minst ett års opptjening i noen av de berørte EØSstatene, og ingen av disse statene gir pensjonsrett
-for kortere tid, skal Norge, dersom Norge er den
-staten der vedkommende sist var trygdedekket,
-likevel beregne alderspensjon, forutsatt at folketrygdlovens vilkår om fem års forutgående trygdetid kan oppfylles gjennom sammenlegging av
-periodene i andre EØS-stater. Alderspensjonen
-beregnes da etter folketrygdlovens regler som om
-all EØS-trygdetid hadde vært trygdetid i Norge.
-Slik trygdetid på under ett år skal også tas med
-ved beregningen av det teoretiske beløpet i andre
-staters pro rata-beregninger, jf. trygdeforordningen artikkel 57 nr. 2. Tilsvarende vil eventuell
-norsk opptjening på mindre enn ett år tas med ved
-beregningen i en annen stat, dersom vedkommende sist var medlem der.
-Muligheten til å ta ut alderspensjon etter folketrygdloven kapittel 19 før fylte 67 år er regulert i
-folketrygdloven § 19-11. Det følger av denne
-bestemmelsen at summen av grunnpensjon, tilleggspensjon og pensjonstillegg når vedkommende fyller 67 år, minst må tilsvare minste pensjonsnivå med full trygdetid når vedkommende
-fyller 67 år. Bestemmelsen er foreslått justert i
-Prop. 41 L (2021–2022). I den justerte bestemmelsen er det et krav for å ta ut alderspensjon før
-fylte 67 år at summen av grunnpensjon, tilleggspensjon og pensjonstillegg minst tilsvarer minste
-pensjonsnivå med full trygdetid. Ved vurdering av
-retten til tidlig uttak legges full trygdetid til grunn
-for minste pensjonsnivå som det sammenlignes
-med, mens faktisk trygdetid legges til grunn i
-beregningen av selve pensjonen. Dersom vedkommende har opptjening i en stat Norge har
-trygdeavtale med, som omfatter alderspensjon og
-som gir rett til pensjon gjennom sammenlegging,
-gjøres det unntak fra dette. Dette gjøres ved at
-minstekravet til pensjonens størrelse reduseres
-forholdsmessig når det foreligger pensjonsopptjening i en eller flere slike avtalestater.
-Det er faktiske opptjeningsperioder i andre
-EØS-stater som skal legges til grunn. Forordningens regler er i folketrygdlovens kontekst operasjonalisert ved at det kreves minst én måneds (30
-dager) opptjening til sammen i den enkelte avta-
+Til § 23-4 a
 
-2021–2022
+*Første punktum* i bestemmelsen viser i dag til avtaler inngått med hjemmel i § 1-3. Bestemmelsen endres som konsekvens av forslagene til endringer i kapittel 1.
 
-lestaten for at opptjeningstiden der skal kunne
-anvendes ved proratisering av minste pensjonsnivå. Bakgrunnen for dette, er at det for den ordinære pro rata-brøken er lagt til grunn at teller og
-nevner fastsettes i hele måneder (30 dager), og
-det er denne brøken som benyttes også ved vurderingen av uttak før fylte 67 år.
-Reduksjonen av minstekravet gjøres ved å proratisere minste pensjonsnivå etter forholdet mellom trygdetid i Norge og samlet trygdetid i samtlige EØS-stater, inkludert Norge. Dette gjør det
-enklere å fylle vilkåret for tidliguttak for personer
-som har opptjent trygdetid i EØS-stater. Regelen
-virker slik at jo kortere trygdetiden i Norge er, i
-forhold til samlet trygdetid i EØS-stater, desto
-lavere blir kravet til minste pensjonsnivå.
-Det vises til omtale av problemstillingen om
-eksport av uføretrygd til tredjeland, i spesialmerknaden til § 12-1 a. Problemstillingen gjelder
-tilsvarende for eksport av alderspensjon etter
-kapittel 19 til tredjeland, ettersom den som ikke er
-medlem i trygden, og ikke har minst 20 års botid,
-ikke nødvendigvis vil ha rett til å beholde hele
-ytelsen, jf. folketrygdloven § 19-3 andre ledd.
-Arbeids- og inkluderingsdepartementet vil vurdere om trygdetid fra andre EØS-stater må regnes
-med trygdetid i Norge ved vurderingen av om 20årsvilkåret er oppfylt, med hensyn til eksport til
-tredjeland. Rett til eksport av ytelsen til andre
-EØS-stater er omtalt nedenfor.
-Sammenleggingsprinsippet
-er
-nærmere
-omtalt i NOU 2021: 8 punkt 5.5. Sammenleggingsprinsippets betydning for alderspensjon er omtalt i
-NOU 2021: 8 punkt 8.12.2.4.
-Delpensjonsprinsippet
-Delpensjonsprinsippet, også omtalt som pro rataprinsippet, kommer til anvendelse i forbindelse
-med alderspensjon etter kapittel 19. Medlemstid
-fra ulike EØS-stater legges sammen for å avgjøre
-om det foreligger rett til alderspensjon, men sammenleggingen innebærer ikke at ytelsens størrelse blir beregnet på bakgrunn av trygdetid i
-andre EØS-stater. Ytelsene utbetales i utgangspunktet av hver av de involverte medlemsstatene i
-form av delpensjoner, utmålt i forhold til hvor lang
-opptjening pensjonisten har i hver enkel stat.
-Trygdeforordningen artikkel 52 fastsetter
-hvordan pensjonen skal beregnes. Det vises til
-nærmere omtale av denne bestemmelsen i spesialmerknadene til §§ 16-1 a, 17-1 a og 18-1 a.
-Også folketrygdlovens egne beregningsregler
-for alderspensjon gir anvisning på en pro rataberegning. Beregning etter folketrygdlovens
+*Tredje punktum* i bestemmelsen viser i dag til brexit-loven § 2 første ledd bokstav c. Som en konsekvens av at denne bestemmelsen i brexit-loven foreslås opphevet, som følge av forslaget om inkorporering i folketrygdloven § 1-3 a, endres henvisningen, slik at den viser til folketrygdloven § 1-3 a første ledd bokstav c.
 
-[Side 133]
+Se forslag til §§ 1-3 og 1-3 a og spesialmerknadene til disse paragrafene.
 
-2021–2022
+## Til endringene i kontantstøtteloven
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Til overskriften i kapittel 1
 
-regler gir derfor vanligvis det samme resultatet
-som beregning etter trygdeforordningen. Trygdeforordningen artikkel 52 nr. 4 åpner for at Norge
-kan anvende nasjonale beregningsregler på alderspensjon. Dette gjelder alle alderspensjoner, unntatt
-uføre- og gjenlevendepensjoner som går over til
-alderspensjon, jf. Norges oppføring i vedlegg VIII
-til trygdeforordningen, se EØS-avtalen vedlegg VI
-nr. 1, bokstav g).
-Når alderspensjon etter kapittel 19 blir beregnet etter kortere trygdetid enn fem år som følge
-av sammenlegging med opptjeningstid i andre
-EØS-stater, foretas beregningen etter folketrygdlovens regler, men slik at det beregnes pensjon
-også for trygdetid mellom ett og fem år.
-Som nevnt ovenfor, fritar trygdeforordningen
-artikkel 57 nr. 1 en stat fra å gi ytelser på grunnlag
-av trygdetid på under ett år, når dette ikke gir rett
-til ytelser etter statens nasjonale lovgivning. Slik
-trygdetid skal imidlertid tas med ved beregningen
-av det teoretiske beløpet i andre staters pro rataberegninger, jf. trygdeforordningen artikkel 57 nr.
-2. Bestemmelsen er bare aktuell for ytelser som
-beregnes pro rata. Hvis vedkommende ikke har
-minst ett års trygdetid i noen EØS-stat, og/eller
-ikke har rett til ytelse i noen av statene, skal den
-EØS-staten hvor vedkommende sist var medlem,
-yte pensjon beregnet etter sin nasjonale lovgivning som om all trygdetid i EØS-stater var opptjent der, se trygdeforordningen artikkel 57 nr. 3.
-Det er en forutsetning at vilkårene for ytelse etter
-denne statens lovgivning er oppfylt etter sammenlegging av trygdetid. Bestemmelsene i artikkel 57
-skal sikre at trygdetid som vedkommende ellers
-ikke ville fått noe igjen for, blir medregnet.
-Delpensjonsprinsippet er nærmere omtalt i
-NOU 2021: 8 punkt 5.7. Delpensjonsprinsippets
-betydning for alderspensjon er omtalt i NOU
-2021: 8 punkt 8.12.2.5. For nærmere informasjon
-om beregning av alderspensjon etter kapittel 19,
-se spesialmerknaden til § 3-1.
-Krav til opphold i Norge
-Det er ingen særskilte krav til opphold i Norge for
-å beholde rett til alderspensjon etter kapittel 19.
-Det er likevel slik at utbetaling av ytelsen utenfor
-Norge i utgangspunktet forutsetter at man fortsatt
-er medlem i folketrygden, se folketrygdloven
-§ 19-3. Medlemmer i folketrygden er blant annet
-de som er bosatt i Norge, jf. folketrygdloven § 2-1.
-Dersom vedkommendes medlemskap bygger på
-at vedkommende er bosatt i Norge, og vedkommende oppholder seg i utlandet i et slikt omfang
-at vedkommende ikke lenger regnes for å være
+Overskriften i kapittel 1 endres for å synliggjøre at ny § 1 a om forholdet til bestemmelser om internasjonal trygdekoordinering tas inn i kapittel 1.
 
-131
+Til § 1 a
 
-bosatt i Norge i folketrygdlovens forstand, uten at
-det er andre grunnlag for medlemskap i folketrygden, vil retten til alderspensjon i utgangspunktet
-opphøre etter de nasjonale reglene, jf. folketrygdloven § 19-3. Se nærmere omtale nedenfor om
-eksport av alderspensjon etter kapittel 19.
-For ektefelletillegg og barnetillegg gjelder det
-et vilkår om at alderspensjonisten er medlem i
-trygden etter § 2-1, § 2-3 første ledd eller § 2-5
-første ledd, jf. henholdsvis § 3-24 andre ledd og
-§ 3-25 første ledd. Det gjelder i tillegg et vilkår om
-at ektefellen eller barnet er bosatt og oppholder
-seg lovlig i Norge, jf. henholdsvis § 3-24 andre
-ledd bokstav b og § 3-25 første ledd bokstav b.
-Retten til eksport av alderspensjon etter kapittel 19 og tillegg til alderspensjonen er behandlet
-nedenfor.
-Eksportabilitet
-Trygdeforordningens generelle regler om eksportabilitet innebærer blant annet at en ytelse ikke
-kan reduseres eller stanses bare fordi mottakeren
-er bosatt i en annen EØS-stat, med mindre forordningen selv gir regler om noe annet, jf. trygdeforordningen artikkel 7.
-Trygdeforordningen artikkel 7 medfører altså
-at kravet om fortsatt medlemskap i folketrygdloven § 19-3 første ledd for rett til alderspensjon
-etter kapittel 19 (for personer som ikke har minst
-20 års trygdetid) må fravikes i enkelte tilfeller. Det
-samme gjelder kravet til medlemskap i §§ 3-24 og
-3-25. Kravet til at ektefellen eller barnet er bosatt
-og oppholder seg i Norge for å få ektefelletillegg
-eller barnetillegg, må også fravikes dersom forsørget ektefelle eller barn er bosatt eller oppholder seg i en annen EØS-stat.
-Artikkel 70 fastsetter unntak fra artikkel 7. Det
-vises til omtale av dette i spesialmerknaden til
-§ 12-1 a. Dersom alderspensjonen inneholder et
-ung ufør-tillegg, kan nasjonale eksportforbud
-anvendes for tillegget.
-De generelle reglene om eksportabilitet er
-nærmere omtalt i NOU 2021: 8 punkt 5.6. Eksportabilitetsreglenes betydning for alderspensjon er
-omtalt i NOU 2021: 8 punkt 8.12.2.6.
-Andre avtaler med betydning for trygdekoordinering
-Også andre internasjonale avtaler har betydning
-for trygdekoordinering, se første ledd andre punktum i forslaget til ny § 19-1 a. Det er foreslått at
-disse gis virkning i norsk rett i eller i medhold av
-folketrygdloven § 1-3 a. Noen av disse avtalene
-innebærer langt på vei bare at trygdeforordningen
+Paragrafen er en oppfølging av Trygdekoordineringsutvalgets forslag til folkerettsmarkører i trygdelovgivningen, men lovteksten er noe forkortet og forenklet. Se nærmere omtale i kapittel 7 i proposisjonen her.
 
-[Side 134]
+Ny § 1 a tas kun inn av informasjonshensyn, og bestemmelsen har i seg selv ingen rettsskapende virkning. Aktuelle rettigheter og plikter ut over dem som framgår av loven, følger direkte av de avtalene som til enhver tid er gjennomført i norsk rett. Se forslagene til §§ 1-3 og 1-3 a i folketrygdloven og kontantstøtteloven §§ 3 a og 22 med spesialmerknader.
 
-132
+Som det framgår av *første punktum*, er kontantstøtte en familieytelse, jf. trygdeforordningen artikkel 3 nr. 1 bokstav j). Regler av betydning for familieytelser framgår i hovedsak av trygdeforordningen avdeling I, avdeling II og avdeling III kapittel 8. Dette innebærer at bestemmelsene i kontantstøtteloven skal tolkes og anvendes i samsvar med de relevante bestemmelsene i trygdeforordningen, se *andre punktum.* Bestemmelsene i kontantstøtteloven skal også tolkes og anvendes i samsvar med de øvrige avtalene med betydning for trygdekoordinering.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+I det følgende redegjøres det for hovedtrekkene for hvilken betydning de folkerettslige instrumentene har for denne ytelsen. Redegjørelsen må leses i lys av de forbeholdene som presenteres i kapittel 1 og punkt 7.5.1 i proposisjonen her.
 
-og gjennomføringsforordningen gis anvendelse
-for områder og personer som ikke er omfattet av
-trygdeforordningen etter EØS-avtalen. Kontaktpunktene omtalt ovenfor vil derfor også kunne
-gjøre seg gjeldende i disse sammenhengene.
-Dette gjelder EFTA-konvensjonen og nordisk
-konvensjon om trygd. Dette gjelder også bestemmelsene om trygdekoordinering i separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia samt avtalen mellom EU og EØS/EFTA om
-trygdekoordinering for britiske borgere (trianguleringsavtalen), som i dag er gjennomført i brexitloven, og som nå inkorporeres i folketrygdloven
-med forslaget til ny § 1-3 a. Disse instrumentene
-kan imidlertid også inneholde særregler som ikke
-er dekket av kontaktpunktene omtalt under
-beskrivelsen av EØS-forordningene, eller som
-gjør unntak fra reglene i forordningene.
-Se nærmere omtale av de multilaterale avtalene med betydning for trygdekoordinering i
-NOU 2021: 8 kapitlene 9 til 11.
-Bilaterale avtaler med betydning for trygdekoordinering gjennomføres i norsk rett ved forskrift hjemlet i folketrygdloven ny § 1-3 a andre
-ledd. De bilaterale trygdeavtalene tar først og
-fremst sikte på å regulere det trygdemessige lovvalget, og å regulere trygdekoordineringen av
-pensjoner og uføretrygd. Selv om det er grunnleggende likhetspunkter mellom de forskjellige avtalene, er det imidlertid en del forskjeller i de tekniske løsningene, og det ville føre for langt å redegjøre i detalj for disse avtalenes innhold i proposisjonen her. De fleste av avtalene er imidlertid
-basert på de samme grunnprinsippene om trygdedekning i én stat, likebehandling, delpensjoner,
-sammenlegging og eksportabilitet av pensjoner
-som trygdeforordningen er basert på.
-De bilaterale avtalene og deres innvirkning på
-norsk trygdelovgivning er omtalt i NOU 2021: 8
-kapittel 12.
-Hvorvidt en av de ovennevnte internasjonale
-avtalene får betydning i en konkret trygdesak, og
-hva betydningen i tilfelle vil være, vil avhenge av
-det konkrete innholdet i den aktuelle avtalen og
-de nærmere omstendighetene i saken.
-Nærmere om forslaget til nytt andre ledd
-I andre ledd er departementet gitt hjemmel til i forskrift å kunne gi nærmere regler som supplerer
-eller legger til rette for etterlevelse av trygdeforordningens bestemmelser om ytelser ved
-alder. Det vises til omtale av dette i punkt 7.5.2.4 i
-proposisjonen her.
-
-2021–2022
-
-Til innholdsfortegnelsen i kapittel 20
-Som følge av forslaget om tilføyelse av en ny § 20-1 a,
-er innholdsfortegnelsen til kapittel 20 andre strekpunkt justert. Nåværende andre til tjueførste strekpunkt blir tredje til tjueandre strekpunkt.
-Det vises til punkt 7.5.2 i proposisjonen her.
-Til ny § 20-1 a
-Paragrafen er en oppfølging av Trygdekoordineringsutvalgets forslag til folkerettsmarkører i
-trygdelovgivningen, men lovteksten er noe forkortet og forenklet. Se nærmere omtale i kapittel
-7 i proposisjonen her.
-Ny § 20-1 a tas kun inn av informasjonshensyn,
-og bestemmelsen har i seg selv ingen rettsskapende virkning. Aktuelle rettigheter og plikter ut
-over dem som framgår av loven, følger direkte av
-de avtalene som til enhver tid er gjennomført i
-norsk rett. Se forslagene til §§ 1-3 og 1-3 a og spesialmerknadene til disse paragrafene.
-Fra 2010 kom det nytt regelverk for opptjening
-av alderspensjon i folketrygden. Personer som er
-født før 1954, får alderspensjonen etter reglene i
-folketrygdloven kapittel 19 (gammel alderspensjon). Personer født i 1963 eller senere vil tjene
-opp alderspensjon kun etter reglene i folketrygdloven kapittel 20 (ny alderspensjon). Personer
-som er født i perioden fra og med 1954 til og med
-1962, vil tjene opp alderspensjon både etter gammelt og nytt regelverk.
-Som det framgår av første ledd første punktum,
-regnes alderspensjon etter folketrygdloven kapittel 20 som en ytelse ved alder etter trygdeforordningen, jf. trygdeforordningen artikkel 3 nr. 1
-bokstav d). Dette innebærer at bestemmelsene i
-folketrygdloven kapittel 20 må tolkes og anvendes
-i samsvar med de relevante bestemmelsene i trygdeforordningen, se første ledd andre punktum.
-Regler av betydning for alderspensjon etter kapittel 20 framgår i hovedsak av trygdeforordningen
-avdeling I, avdeling II og avdeling III kapittel 5.
-I det følgende redegjøres det for hovedtrekkene for hvilken betydning de folkerettslige
-instrumentene har for denne ytelsen. Redegjørelsen må leses i lys av de forbeholdene som presenteres i kapittel 1 og punkt 7.5.1 i proposisjonen
-her.
-Trygdekoordineringsutvalgets omtale av folketrygdlovens regler om alderspensjon kontaktpunktene mellom folketrygdlovens regler om
-alderspensjon etter kapittel 20 og trygdeforordningens regler finnes i NOU 2021: 8 punkt 8.12.
-
-[Side 135]
-
-2021–2022
-
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Trygdekoordineringsutvalgets omtale av kontaktpunktene mellom kontantstøtteloven og trygdeforordningens regler finnes i NOU 2021: 8 punkt 8.19.2.
 
 Lovvalg
-Lovvalgsreglenes formål er å koordinere de aktuelle
-medlemsstatenes nasjonale bestemmelser om trygdedekning, for å forsøke å unngå at personer kommer i situasjoner der de enten står uten trygdedekning eller er trygdedekket i to stater samtidig, med
-tilhørende avgiftsplikt til to trygdesystemer. Det er
-imidlertid grunn til å understreke at det faktum at en
-stat utpekes som lovvalgsstat, ikke er ensbetydende
-med at den aktuelle personen faktisk blir trygdedekket i denne staten. Dette må vurderes etter de nasjonale reglene om trygdedekning, sammenholdt med
-likebehandlingsbestemmelsen i trygdeforordningen
-artikkel 4.
-Lovvalgsreglene innebærer som hovedregel at
-en person skal være underlagt lovgivningen i staten der han eller hun arbeider eller driver selvstendig virksomhet, jf. trygdeforordningen artikkel 11 nr. 3 bokstav a). Personer som ikke arbeider eller er i selvstendig virksomhet, skal som
-hovedregel være underlagt lovgivningen i
-bostedsstaten, jf. trygdeforordningen artikkel 11
-nr. 3 bokstav e).
-For alderspensjon må det avklares i hvilke
-EØS-stater vedkommende har vært trygdedekket
-i ulike perioder i livet. Dette skyldes at alderspensjon kun opptjenes i de periodene man er trygdedekket i den enkelte EØS-staten, jf. delpensjonsprinsippet. Det vises til omtale av delpensjonsprinsippet og dets innvirkning på alderspensjon
-nedenfor.
-For pensjoner foretas som regel lovvalgs- og
-medlemskapsvurderingen på det tidspunktet da
-det søkes om pensjon, hvilket vil kunne være
-lenge etter at pensjonsrettighetene faktisk er opptjent. Hva som skal regnes som tid med trygdedekning i en stat som er utpekt som lovvalgsstat,
-defineres av nasjonal lovgivning. Trygdemyndighetene i de berørte statene utveksler derfor informasjon om opptjeningsperioder.
-De generelle reglene om lovvalg er nærmere
-omtalt i NOU 2021: 8 kapittel 6. Lovvalgsreglenes
-betydning for alderspensjon er omtalt i NOU
-2021: 8 punkt 8.12.2.2.
+
+Lovvalgsreglene innebærer som hovedregel at en person skal være underlagt lovgivningen i staten der han eller hun arbeider eller driver selvstendig virksomhet. Personer som ikke arbeider eller driver selvstendig virksomhet, skal som hovedregel være underlagt lovgivningen i bostedsstaten, jf. trygdeforordningen artikkel 11 nr. 3 bokstav e).
+
+For familieytelsene følger det av trygdeforordningen artikkel 67 at en person har rett til familieytelser også for familiemedlemmer som er bosatt i en annen medlemsstat, som om de var bosatt i den aktuelle EØS-staten. Lovvalgsvurderingen gjøres for foreldrene og barnet det blir søkt om eller utbetalt kontantstøtte for. Retten til kontantstøtte ved midlertidig opphold i utlandet beholdes så lenge minst en av foreldrene og/eller barnet som det blir utbetalt barnetrygd for, har Norge som lovvalgsstat.
+
+Siden en familie består av mer enn én person, og disse kan bo og arbeide i ulike stater, vil de ulike familiemedlemmene kunne ha tilknytning til, og være underlagt lovgivningen til, ulike stater, se nedenfor om prioriteringsregler og regler om differanseutbetaling som får anvendelse i slike situasjoner.
+
+De generelle reglene om lovvalg er omtalt i NOU 2021: 8 kapittel 6.
+
 Likebehandling
-Det er ikke tillatt å forskjellsbehandle norske
-statsborgere og andre personer som er omfattet
-av trygdeforordningens regler, jf. trygdeforordningen artikkel 4. Som en forlengelse av dette,
-kreves det i trygdeforordningen artikkel 5 at en
-EØS-stat likestiller ytelser, inntekter, faktiske forhold eller hendelser i hele EØS.
 
-133
+Det er ikke tillatt å forskjellsbehandle norske statsborgere og andre personer som er omfattet av trygdeforordningens regler, jf. trygdeforordningen artikkel 4. Som en forlengelse av dette, kreves det i trygdeforordningen artikkel 5 at en EØS-stat likestiller ytelser, inntekter, faktiske forhold eller hendelser i hele EØS.
 
-Folketrygdloven kapittel 20 inneholder ingen
-vilkår som knytter rettsvirkninger til status som
-norsk statsborger.
-Forbudet mot indirekte forskjellsbehandling
-og kravet til likebehandling av ytelser, inntekter,
-faktiske forhold eller hendelser fra andre EØS-stater, vil for alderspensjon i praksis ha mindre
-betydning enn trygdeforordningen artikkel 6 om
-sammenlegging av tid og trygdeforordningen
-avdeling III kapittel 5. Det vises til omtale av sammenleggingsprinsippet nedenfor.
-Likebehandlingsprinsippet er nærmere omtalt
-i NOU 2021: 8 punkt 5.3. Likebehandlingsprinsippets betydning for alderspensjon er omtalt i NOU
-2021: 8 punkt 8.12.2.3.
-Sammenlegging av tid
-De generelle reglene om sammenlegging innebærer at opptjeningsperioder i andre stater som
-anvender trygdeforordningen i noen tilfeller skal
-legges sammen med opptjeningsperioder i Norge,
-se trygdeforordningen artikkel 6.
-Rett til inntektspensjonen i alderspensjon etter
-kapittel 20 gis basert på opptjening fra første
-krone, og uten krav til opptjeningsperiodens
-lengde. Det er derfor ikke nødvendig å benytte
-sammenlegging for å oppnå rett til inntektspensjon fra folketrygden.
-Rett til garantipensjon forutsetter derimot i
-utgangspunktet en trygdetid på minst fem år, jf.
-folketrygdloven § 20-10 andre ledd. Definisjonen
-av trygdetid i folketrygdloven § 3-5, hvor det blant
-annet er definert som et kalenderår som
-medlemmet har opptjent pensjonspoeng i, gjelder
-ikke for kapittel 20, se § 3-5 første ledd. For kapittel 20 er trygdetid definert som tidsrom da en person fra fylte 26 år og til og med det året han eller
-hun fylte 66 år har vært medlem av trygden med
-rett til ytelser etter pensjonskapitlene, se § 20-10.
-Trygdeforordningen artikkel 6 krever at trygdetid i andre EØS-stater legges sammen med
-trygdetid i folketrygden, dersom dette er nødvendig for å oppfylle inngangsvilkåret i folketrygdloven § 20-10 andre ledd. Slik sammenlegging innebærer at garantipensjonen kan komme til utbetaling også for personer som har en trygdetid i
-Norge på mindre enn fem år.
-Det framgår av trygdeforordningen artikkel
-57 nr. 1 at det i utgangspunktet kan kreves at man
-har noe norsk trygdetid å legge trygdetiden fra
-andre EØS-stater sammen med. Etter bestemmelsen er en stat ikke forpliktet til å gi ytelser dersom
-medlemstid etter egen lovgivning samlet er kortere enn ett år, med mindre statens egen lovgiv-
+Kontantstøtteloven inneholder en særregel i § 4 som knytter retten til kontantstøtte til norsk statsborgerskap for arbeidstakere ved utenlandsk representasjon eller annen administrativ tjenestegren i Norge, jf. omtalen av barnetrygd i punkt 11.10. I tilfeller hvor vilkåret om statsborgerskap vil være avgjørende, følger det uansett av trygdeforordningen artikkel 4 at statsborgere fra andre EØS-stater må likestilles med norske statsborgere.
 
-[Side 136]
+Kontantstøtteloven inneholder ingen andre bestemmelser som knytter rettsvirkninger til status som norsk statsborger.
 
-134
+At familier der de ulike familiemedlemmene har tilknytning til ulike EØS-stater, likebehandles med familier som bare har tilknytning til én stat, er viktig for å ivareta det EØS-rettslige prinsippet om fri bevegelighet for personer. En arbeidstaker i Norge har rett til kontantstøtte fra Norge som kompetent stat også for barn som er bosatt i en annen EØS-stat.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Likebehandlingsprinsippet er nærmere omtalt i NOU 2021: 8 punkt 5.3.
 
-ning gir slik rett. Andre stater hvor det er opptjent
-pensjonsrettigheter, skal imidlertid ved sin pro
-rata-beregning av pensjon medregne slike medlemsperioder, jf. trygdeforordningen artikkel 57
-nr. 2. Folketrygdloven åpner ikke for å gi rett til
-garantipensjon basert på kortere medlemstid enn
-ett år. Som nevnt ovenfor, kreves det etter nasjonal
-rett fem års trygdetid, og det skal i denne sammenheng bare regnes med faktiske medlemskapsperioder, ikke godskrevne poengår. Det kreves derfor at vedkommende har vært medlem i
-folketrygden i minst ett år for at det gjennom sammenlegging med trygdetid fra andre EØS-stater
-skal kunne foreligge rett til garantipensjon etter
-folketrygdloven § 20-10. Flere medlemsperioder
-kan legges sammen for å oppfylle dette minstekravet.
-For personer omfattet av EØS-avtalen, som
-ikke har vært yrkesaktive i noen EØS-stat, kreves
-det til sammen minst tre års botid i Norge for rett
-til garantipensjon. Dette unntaket framgår av Norges oppføring i vedlegg XI til trygdeforordningen,
-se EØS-avtalen vedlegg VI nr. 1, bokstav l) nr. 3
-bokstav a). Det følger imidlertid av bokstav b) at
-unntaket ikke gjelder for norske pensjonsrettigheter opparbeidet av familiemedlemmer til personer
-som har eller har hatt inntektsgivende arbeid i
-Norge, eller for studenter eller deres familiemedlemmer.
-Bestemmelsene i trygdeforordningen artikkel
-57 nr. 3 medfører at dersom det ikke foreligger
-minst ett års opptjening i noen av de berørte EØSstatene, og ingen av disse statene gir pensjonsrett
-for kortere tid, skal Norge, dersom Norge er den
-staten der vedkommende sist var trygdedekket,
-likevel beregne garantipensjon, forutsatt at folketrygdlovens vilkår om fem års forutgående trygdetid kan oppfylles gjennom sammenlegging av
-periodene i andre EØS-stater. Garantipensjonen
-beregnes da etter folketrygdlovens regler som om
-all EØS-trygdetid hadde vært trygdetid i Norge.
-Slik trygdetid på under ett år skal også tas med
-ved beregningen av det teoretiske beløpet i andre
-staters pro rata-beregninger, jf. trygdeforordningen artikkel 57 nr. 2. Tilsvarende vil eventuell
-norsk opptjening på mindre enn ett år tas med ved
-beregningen i en annen stat, dersom vedkommende sist var medlem der.
-Muligheten for å ta ut alderspensjon etter folketrygdloven kapittel 20 før fylte 67 år er regulert
-i folketrygdloven § 20-15. Det følger av denne
-bestemmelsen at summen av inntektspensjon og
-garantipensjon når vedkommende fyller 67 år,
-minst må tilsvare garantipensjonsnivået med full
-trygdetid når vedkommende fyller 67 år. Bestem-
+Sammenlegging av tid eller inntekter
 
-2021–2022
+De generelle reglene om sammenlegging innebærer at opptjeningsperioder i andre stater som anvender trygdeforordningen i noen tilfeller skal legges sammen med opptjeningsperioder i Norge.
 
-melsen er foreslått justert i Prop. 41 L (2021–
-2022). I den justerte bestemmelsen er det et krav
-for å ta ut alderspensjon før fylte 67 år at summen
-av inntektspensjon og garantipensjon minst tilsvarer garantipensjonsnivået med full trygdetid. Ved
-vurdering av retten til tidlig uttak legges full trygdetid til grunn for garantipensjonsnivået som det
-sammenlignes med, mens faktisk trygdetid legges til grunn i beregningen av selve pensjonen.
-Dersom vedkommende har opptjening i en stat
-Norge har trygdeavtale med som omfatter alderspensjon og som gir rett til pensjon gjennom sammenlegging, gjøres det unntak fra dette. Dette gjøres ved at minstekravet til pensjonens størrelse
-reduseres forholdsmessig når det foreligger pensjonsopptjening i en eller flere slike avtalestater.
-Det er faktiske opptjeningsperioder i andre
-EØS-stater som skal legges til grunn. Forordningens regler er i folketrygdlovens kontekst operasjonalisert ved at det kreves minst én måneds (30
-dager) opptjening til sammen i den enkelte avtalestaten for at opptjeningstiden der skal kunne
-anvendes ved proratisering av garantipensjonsnivået. Bakgrunnen for dette er at det for den ordinære pro rata-brøken er lagt til grunn at teller og
-nevner fastsettes i hele måneder (30 dager), og
-det er denne brøken som benyttes også ved vurderingen av uttak før fylte 67 år.
-Reduksjonen av minstekravet gjøres ved å proratisere garantipensjonsnivået etter forholdet mellom trygdetid i Norge og samlet trygdetid i samtlige EØS-stater, inkludert Norge. Dette gjør det
-enklere å fylle vilkåret for tidliguttak for personer
-som har opptjent trygdetid i EØS-stater. Regelen
-virker slik at jo kortere trygdetiden i Norge er, i
-forhold til samlet trygdetid i EØS-stater, desto
-lavere blir kravet til garantipensjonsnivå.
-Det vises til omtale av problemstillingen om
-eksport av uføretrygd til tredjeland, i spesialmerknaden til § 12-1 a. Problemstillingen gjelder tilsvarende for eksport av garantipensjon til tredjeland, ettersom den som ikke er medlem i trygden,
-må ha minst 20 års samlet botid for å beholde rett
-til garantipensjon, jf. § 20-10 femte ledd. Arbeids- og
-inkluderingsdepartementet vil vurdere om trygdetid fra andre EØS-stater må regnes med trygdetid i
-Norge ved vurderingen av om 20-årsvilkåret er oppfylt, når det gjelder eksport til tredjeland. Rett til
-eksport av ytelsen til andre EØS-stater er omtalt
-nedenfor.
-De generelle reglene om sammenlegging er
-nærmere omtalt i NOU 2021: 8 punkt 5.5. Sammenleggingsreglenes betydning for alderspensjon
-er omtalt i NOU 2021: 8 punkt 8.12.2.4.
+Det er et vilkår for rett til kontantstøtte at støttemottakeren har minst fem års medlemskap i folketrygden, jf. kontantstøtteloven § 3 andre punktum. Dersom barnet bor sammen med begge foreldrene, må begge foreldrene ha vært medlemmer i folketrygden i fem år.
 
-[Side 137]
+Trygdeforordningen artikkel 6 regulerer sammenlegging av trygdetid fra andre EØS-stater. Når det skal vurderes om medlemskapsvilkårene er oppfylt for personer underlagt forordningen, skal perioden personen er dekket av en trygdeordning i en annen EØS-stat regnes med i den sammenlagte medlemskapsperioden. Bestemmelsen skal forstås slik at også tredjelandsborgere som er i familie med en EØS-borger, skal få medregnet trygdetid fra en annen EØS-stat, jf. trygdeforordningen artikkel 2.
 
-2021–2022
+I noen tilfeller er én forelder underlagt norsk lovgivning, mens den andre forelderen og barnet/barna er bosatt i en annen stat. Da vil ikke hele familien være registrert som bosatt i Norge i folkeregisteret. I slike saker vurderes det i Arbeids- og velferdsetatens praksis kun om den forelderen som er underlagt norsk lovgivning, fyller vilkåret om fem års medlemskap. Etter Trygdekoordineringsutvalgets syn følger det imidlertid av EU-domstolens tilnærming i *Slanina*-dommen og *Trapkowsk*i-dommen at det alternativt må vurderes om forelderen som bor med barnet/barna i hjemstaten oppfyller kravet til fem års medlemskap. For denne forelderens vedkommende må vurderingen skje ut fra en rettslig fiksjon om at bosettingsstaten er Norge.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+I tilfeller hvor foreldrene er i et parforhold, kreves det at de begge oppfyller kravet til fem års medlemskap, jf. kontantstøtteloven § 3. I tilfeller hvor foreldrene ikke (lenger) lever i et parforhold, kreves det etter utvalgets syn at forelderen som har barnet boende hos seg oppfyller kravet til fem års medlemskap, jf. *Trapkowski*-dommen. Som det går fram nedenfor under «Bevegelsesfrihet – familiemedlemmer», la utvalget til grunn at det følger av rettspraksis at forelderen som er bosatt med det felles barnet i en annen EØS-stat, har en *selvstendig* rett til å kreve familieytelser fra Norge, dersom vedkommende oppfyller vilkårene for ytelsen og den andre forelderen både er underlagt norsk lovgivning og i hovedsak forsørger barnet. Departementet vil vurdere utvalgets syn på spørsmålet om selvstendige rettigheter nærmere.
 
-Delpensjonsprinsippet
-Delpensjonsprinsippet, også omtalt som pro rataprinsippet, kommer til anvendelse i forbindelse
-med alderspensjon etter kapittel 20. Medlemstid
-fra ulike EØS-stater legges sammen for å avgjøre
-om det foreligger rett til alderspensjon, men sammenleggingen innebærer ikke at ytelsens størrelse blir beregnet på bakgrunn av trygdetid i
-andre EØS-stater. Ytelsene utbetales i utgangspunktet av hver av de involverte medlemsstatene i
-form av delpensjoner, utmålt i forhold til hvor lang
-opptjening pensjonisten har i hver enkel stat.
-Trygdeforordningen artikkel 52 fastsetter
-hvordan pensjonen skal beregnes. Det vises til
-nærmere omtale av denne bestemmelsen i spesialmerknadene til §§ 16-1 a, 17-1 a og 18-1 a.
-Etter trygdeforordningen artikkel 52 nr. 5 skal
-imidlertid ytelser som ikke beregnes på bakgrunn
-av opptjeningsperioder, utmåles etter nasjonale
-regler, og ikke etter reglene om pro rata-beregning. Dette gjelder «Alderspensjon under lov om
-folketrygd (kapittel 20) og innskuddsbasert pensjonsordning under lov om obligatorisk tjenestepensjon», jf. Norges oppføring i vedlegg VIII til
-trygdeforordningen, se EØS-avtalen vedlegg VI
-nr. 1, bokstav h). Inntektspensjon etter folketrygdloven kapittel 20 skal altså utmåles etter nasjonale
-regler.
-Garantipensjon beregnes derimot på grunnlag av trygdetid, jf. folketrygdloven § 20-10 første
-ledd første punktum. Det er imidlertid slik at også
-folketrygdlovens egne beregningsregler for
-garantipensjon gir anvisning på en pro rata-beregning. Beregning etter folketrygdlovens regler gir
-derfor vanligvis det samme resultatet som beregning etter trygdeforordningen. Trygdeforordningen artikkel 52 nr. 4 åpner for at Norge kan
-anvende nasjonale beregningsregler på alderspensjon. Dette gjelder alle alderspensjoner, unntatt
-uføre- og gjenlevendepensjoner som går over til
-alderspensjon, jf. Norges oppføring i vedlegg VIII
-trygdeforordningen, se EØS-avtalen vedlegg VI
-nr. 1, bokstav g). Dette omfatter også garantipensjon etter kapittel 20.
-Når garantipensjonen blir beregnet etter kortere trygdetid enn fem år som følge av sammenlegging med opptjeningstid i andre EØS-stater,
-foretas beregningen etter folketrygdlovens regler,
-men slik at det beregnes pensjon også for trygdetid mellom ett og fem år.
-Som nevnt ovenfor, fritar trygdeforordningen
-artikkel 57 nr. 1 en stat fra å gi ytelser på grunnlag
-av trygdetid på under ett år, når dette ikke gir rett
-til ytelser etter statens nasjonale lovgivning. Slik
+Kontantstøttens størrelse er ikke avhengig av foreldrenes inntekt, noe som innebærer at reglene om likebehandling av inntekter i artikkel 5 ikke får betydning.
 
-135
+Bevegelsesfrihet – familiemedlemmer
 
-trygdetid på under ett år skal imidlertid tas med
-ved beregningen av det teoretiske beløpet i andre
-staters pro rata-beregninger, jf. trygdeforordningen artikkel 57 nr. 2. Bestemmelsen er bare aktuell
-for ytelser som beregnes etter trygdeforordningens pro rata-regler. Hvis vedkommende ikke har
-minst ett års trygdetid i noen EØS-stat, og/eller
-ikke har rett til ytelse i noen av statene, skal den
-EØS-staten hvor vedkommende sist var medlem,
-yte pensjon beregnet etter sin nasjonale lovgivning
-som om all trygdetid i EØS-stater var opptjent der,
-jf. trygdeforordningen artikkel 57 nr. 3. Det er en
-forutsetning at vilkårene for ytelse etter denne statens lovgivning er oppfylt etter sammenleggingen
-av trygdetid. Bestemmelsene i artikkel 57 skal
-sikre at trygdetid som vedkommende ellers ikke
-ville fått noe igjen for, blir medregnet.
-Delpensjonsprinsippet er nærmere omtalt i
-NOU 2021: 8 punkt 5.7. Delpensjonsprinsippets
-betydning for alderspensjon er omtalt i NOU
-2021: 8 punkt 8.12.2.5.
-Krav til opphold i Norge
-Det er ingen særskilte krav til opphold i Norge for å
-beholde rett til alderspensjon etter kapittel 20. Det
-er likevel slik at utbetaling av garantipensjon utenfor Norge i utgangspunktet forutsetter at man fortsatt er medlem i folketrygden, jf. folketrygdloven
-§ 20-10 femte ledd. Medlemmer i folketrygden er
-blant annet de som er bosatt i Norge, jf. folketrygdloven § 2-1. Dersom vedkommendes medlemskap
-bygger på at vedkommende er bosatt i Norge, og
-vedkommende oppholder seg i utlandet i et slikt
-omfang at vedkommende ikke lenger regnes for å
-være bosatt i Norge i folketrygdlovens forstand,
-uten at det er andre grunnlag for medlemskap i
-folketrygden, vil retten til garantipensjon i utgangspunktet opphøre etter de nasjonale reglene, jf.
-folketrygdloven § 20-10 femte ledd. Retten til
-eksport av garantipensjonen er behandlet nedenfor.
-Eksportabilitet
-Trygdeforordningens generelle regler om eksportabilitet innebærer blant annet at en ytelse ikke
-kan reduseres eller stanses bare fordi mottakeren
-er bosatt i en annen EØS-stat, med mindre forordningen selv gir regler om noe annet, jf. trygdeforordningen artikkel 7.
-Trygdeforordningen artikkel 7 medfører altså
-at kravet om fortsatt medlemskap i folketrygdloven § 20-10 femte ledd for rett til garantipensjon
-(for personer som ikke har minst 20 års trygdetid) må fravikes i enkelte tilfeller.
+For familieytelser som kontantstøtte, er hensynet til fri bevegelighet primært ivaretatt av prinsippet nedfelt i trygdeforordningen artikkel 67. En person skal ha rett til familieytelser i samsvar med den kompetente medlemsstatens lovgivning, *også for familiemedlemmer som er bosatt i en annen medlemsstat*, som om de var bosatt i den førstnevnte medlemsstaten. Dette kan for eksempel gjelde i et tilfelle der en av foreldrene arbeider i Norge og er underlagt norsk lovgivning, mens den andre forelderen og deres felles barn er bosatt i Polen og er underlagt polsk lovgivning. At personene bor i ulike stater vil ikke være til hinder for at vilkårene for kontantstøtte i et slikt tilfelle vil kunne være oppfylt.
 
-[Side 138]
+Det er et vilkår for rett til kontantstøtte at forelderen har barnet boende fast hos seg, se kontantstøtteloven § 2. I tilfeller hvor en EØS-borger som arbeider i Norge (har Norge som lovvalgsstat), i hovedsak forsørger et barn som bor med den andre forelderen i en annen EØS-stat, kan trygdeforordningen gi rett til kontantstøtte selv om foreldrene er skilt, er separert eller ikke lenger er samboere. Dette gjelder uavhengig av om den andre forelderen og barnet er underlagt lovgivningen i en annen stat som anvender trygdeforordningen, og følger av artikkel 67 og EU-domstolens praksis. EU-domstolens standpunkt synes å være at barnet fungerer som koblingspunkt mellom foreldrene, i hvert fall i tilfeller hvor den ene forelderen er den som barnet bor hos, og den andre forelderen er den som hovedsakelig forsørger barnet. Resultatet er at foreldrene må betraktes som familiemedlemmer med hverandre i henhold til trygdeforordningen artikkel 67, selv om de ikke er i noe parforhold, se blant annet *Slanina-*dommen.
 
-136
+Utvalget la til grunn at rettspraksis medfører at forelderen som er bosatt med det felles barnet i en annen EØS-stat, har en selvstendig rett til å kreve familieytelser fra Norge, dersom denne forelderen oppfyller vilkårene for ytelsen og den andre forelderen både er underlagt norsk lovgivning og i hovedsak forsørger barnet. Dette gjelder også der foreldrene ikke lenger bor sammen. Det kan framstå som om utvalget gikk noe lenger i å anerkjenne selvstendig rett til familieytelsen til forelderen i utlandet som bor sammen med barnet, enn det som følger av Arbeids- og velferdsetatens praksis der den andre forelderen som bor i en annen EØS-stat sammen med barnet, kan ha rett til å «tre inn i» kravet på kontantstøtte. Departementet vil vurdere dette spørsmålet nærmere.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Bevegelsesfrihet – krav om å være bosatt i Norge
 
-2021–2022
+Det er et vilkår for rett til kontantstøtte at barnet og støttemottakeren er bosatt i Norge, se kontantstøtteloven §§ 2 og 3. Trygdeforordningen kan medføre at dette kravet anses oppfylt dersom barnet og støttemottakeren bor i en annen stat som anvender trygdeforordningen, se trygdeforordningen artiklene 7 og 67.
 
-Artikkel 70 fastsetter unntak fra artikkel 7. Det
-vises til omtale av dette i spesialmerknaden til
-§ 12-1 a.
-Når en ufør person blir 67 år, går vedkommende over til alderspensjon. Særrettighetene for
-personer som oppfyller vilkårene for å regnes som
-ung ufør, videreføres ved overgang til alderspensjon, se blant annet folketrygdloven § 20-7 a tredje
-ledd. Alderspensjon etter kapittel 20 beregnet
-etter særreglene for unge uføre beholdes etter folketrygdloven bare så lenge pensjonisten er medlem i folketrygden, se § 20-7 a åttende ledd. Trygdeforordningen er ikke til hinder for at den nasjonale eksportbegrensningen anvendes, jf. artikkel
-70. Det betyr imidlertid ikke at Norge kan oppstille et generelt eksportforbud for de aktuelle
-personenes alderspensjoner, bare at det ved
-eksport til andre EØS-stater må foretas en omregning, slik at alderspensjonen beregnes uten særrettighetene for unge uføre.
-De generelle reglene om eksportabilitet er
-nærmere omtalt i NOU 2021: 8 punkt 5.6. Disse
-reglenes betydning for alderspensjon er omtalt i
-NOU 2021: 8 punkt 8.12.2.6.
+Kontantstøtteloven § 2 andre ledd gir regler om hvor lenge et barn kan oppholde seg i utlandet før det ikke lenger kan anses som bosatt i Norge. Det følger motsetningsvis av bestemmelsens andre punktum at et midlertidig utenlandsopphold på mer enn tre måneder fører til at retten til kontantstøtte bortfaller. Dette gjelder ikke i EØS-saker, så lenge en av foreldrene og/eller barnet det gjelder fortsatt har Norge som lovvalgsstat.
 
-Bilaterale avtaler med betydning for trygdekoordinering gjennomføres i norsk rett ved forskrift hjemlet i folketrygdloven ny § 1-3 a andre
-ledd. De bilaterale trygdeavtalene tar først og
-fremst sikte på å regulere det trygdemessige lovvalget, og å regulere trygdekoordineringen av
-pensjoner og uføretrygd. Selv om det er grunnleggende likhetspunkter mellom de forskjellige avtalene, er det imidlertid en del forskjeller i de tekniske løsningene, og det ville føre for langt å redegjøre i detalj for disse avtalenes innhold i proposisjonen her. De fleste av avtalene er imidlertid
-basert på de samme grunnprinsippene om trygdedekning i én stat, likebehandling, delpensjoner,
-sammenlegging og eksportabilitet av pensjoner
-som trygdeforordningen er basert på.
-De bilaterale avtalene og deres innvirkning på
-norsk trygdelovgivning er omtalt i NOU 2021: 8
-kapittel 12.
-Hvorvidt en av de ovennevnte internasjonale
-avtalene får betydning i en konkret trygdesak, og
-hva betydningen i tilfelle vil være, vil avhenge av
-det konkrete innholdet i den aktuelle avtalen og
-de nærmere omstendighetene i saken.
+For barn som alt i utgangspunktet er bosatt i en annen EØS-stat, er det klart at begrensningene i kontantstøtteloven §§ 2 og 3 ikke kommer til anvendelse, jf. trygdeforordningen artiklene 7 og 67. For en familie hvor alle familiemedlemmene er bosatt i Norge, vil ikke Norge stanse utbetalingen av kontantstøtte bare fordi familien ønsker å oppholde seg mer enn tre måneder i en annen EØS-stat. Selv om hele familien skulle flytte fra Norge, vil retten til kontantstøtte bestå så lenge minst ett familiemedlem har Norge som lovvalgsstat også etter at barnet har reist fra Norge, jf. trygdeforordningen artikkel 67. Dersom flytting fra Norge medfører at ingen av familiens medlemmer lenger har Norge som lovvalgsstat, er det klart at trygdeforordningen ikke lenger gir opphav til noe krav på kontantstøtte fra Norge. Lovvalgsvurderingen gjøres for foreldrene og barnet det blir søkt om eller utbetalt kontantstøtte for.
+
+Krav på overlappende ytelser fra flere stater – prioriteringsregler og differansebetaling
+
+At ulike familiemedlemmer kan ha tilknytning til ulike kompetente stater, kan medføre at det foreligger rett til familieytelser av samme art fra flere stater samtidig. Trygdeforordningen og gjennomføringsforordningen inneholder detaljerte prioriteringsregler for slike tilfeller. Se omtale av disse reglene under barnetrygd i punkt 11.10. Reglene er imidlertid bare anvendelige dersom de andre aktuelle statene har en tilsvarende ytelse.
 
 Andre avtaler med betydning for trygdekoordinering
 
-Nærmere om forslaget til nytt andre ledd
+Også andre internasjonale avtaler har betydning for trygdekoordinering, se andre punktum i forslaget til ny § 1 a. Det er foreslått at disse gis virkning i norsk rett i eller i medhold av kontantstøtteloven § 22 og folketrygdloven § 1-3 a. Noen av disse avtalene innebærer langt på vei bare at trygdeforordningen og gjennomføringsforordningen gis anvendelse for områder og personer som ikke er omfattet av trygdeforordningen etter EØS-avtalen. Kontaktpunktene omtalt ovenfor vil derfor også kunne gjøre seg gjeldende i disse sammenhengene. Dette gjelder EFTA-konvensjonen og nordisk konvensjon om trygd. Dette gjelder også separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia og avtalen mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere (trianguleringsavtalen), som i dag er gjennomført i brexit-loven, og som nå inkorporeres i folketrygdloven med forslaget til ny § 1-3 a. Disse instrumentene kan imidlertid også inneholde særregler som ikke er dekket av kontaktpunktene omtalt under beskrivelsen av EØS-forordningene, eller som gjør unntak fra reglene i forordningene.
 
-Også andre internasjonale avtaler har betydning
-for trygdekoordinering, se første ledd andre punktum i forslaget til ny § 20-1 a. Det er foreslått at
-disse gis virkning i norsk rett i eller i medhold av
-folketrygdloven § 1-3 a. Noen av disse avtalene
-innebærer langt på vei bare at trygdeforordningen
-og gjennomføringsforordningen gis anvendelse
-for områder og personer som ikke er omfattet av
-trygdeforordningen etter EØS-avtalen. Kontaktpunktene omtalt ovenfor vil derfor også kunne
-gjøre seg gjeldende i disse sammenhengene.
-Dette gjelder EFTA-konvensjonen og nordisk
-konvensjon om trygd. Dette gjelder også bestemmelsene om trygdekoordinering i separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia samt avtalen mellom EU og EØS/EFTA om
-trygdekoordinering for britiske borgere (trianguleringsavtalen), som i dag er gjennomført i brexitloven, og som nå inkorporeres i folketrygdloven
-med forslaget til ny § 1-3 a. Disse instrumentene
-kan imidlertid også inneholde særregler som ikke
-er dekket av kontaktpunktene omtalt under
-beskrivelsen av EØS-forordningene, eller som
-gjør unntak fra reglene i forordningene.
-Se nærmere omtale av de multilaterale avtalene med betydning for trygdekoordinering i
-NOU 2021: 8 kapitlene 9 til 11.
+Se nærmere omtale av de multilaterale avtalene med betydning for trygdekoordinering i NOU 2021: 8 kapitlene 9 til 11.
 
-I andre ledd er departementet gitt hjemmel til i forskrift å kunne gi nærmere regler som supplerer
-eller legger til rette for etterlevelse av trygdeforordningens bestemmelser om ytelser ved
-alder. Det vises til omtale av dette i kapittel 7.5.2.4
-i proposisjonen her.
-Til innholdsfortegnelsen i kapittel 21
-Som følge av forslaget om tilføyelse av en ny § 21-1 a,
-er innholdsfortegnelsen til kapittel 21 andre strekpunkt justert. Nåværende andre til sekstende strekpunkt blir tredje til syttende strekpunkt.
-Det vises til punkt 7.5.2 i proposisjonen her.
-Til ny § 21-1 a
-Paragrafen er en oppfølging av Trygdekoordineringsutvalgets forslag til folkerettsmarkører i
-trygdelovgivningen, men lovteksten er noe forkortet og forenklet. Se nærmere omtale i kapittel
-7 i proposisjonen her.
-Ny § 21-1 a tas kun inn av informasjonshensyn,
-og bestemmelsen har i seg selv ingen rettsskapende virkning. Aktuelle rettigheter og plikter ut
-over dem som framgår av loven, følger direkte av
-de avtalene som til enhver tid er gjennomført i
+Bilaterale avtaler med betydning for trygdekoordinering gjennomføres i norsk rett ved forskrift hjemlet i blant annet kontantstøtteloven § 22. De bilaterale trygdeavtalene tar først og fremst sikte på å regulere det trygdemessige lovvalget, og å regulere trygdekoordineringen av pensjoner og uføretrygd.
 
-[Side 139]
+De bilaterale avtalene og deres innvirkning på norsk trygdelovgivning er omtalt i NOU 2021: 8 kapittel 12.
 
-2021–2022
+Hvorvidt en av de ovennevnte internasjonale avtalene får betydning i en konkret trygdesak, og hva betydningen i tilfelle vil være, vil avhenge av det konkrete innholdet i den aktuelle avtalen og de nærmere omstendighetene i saken.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Til § 3 a
 
-norsk rett. Se forslagene til §§ 1-3 og 1-3 a og spesialmerknadene til disse paragrafene.
-I det følgende redegjøres det for hovedtrekkene for hvilken betydning de folkerettslige
-instrumentene har for folketrygdloven kapittel 21.
-Redegjørelsen må leses i lys av de forbeholdene
-som presenteres i kapittel 1 og punkt 7.5.1 i proposisjonen her.
-Folketrygdloven kapittel 21 har overskriften
-«Saksbehandling i trygdesaker. Anke- og klagebehandling m.m.». I saker som innebærer et grensekryssende element med en eller flere andre stater
-som anvender trygdeforordningen, suppleres
-bestemmelsene i kapittel 21 med bestemmelsene i
-trygdeforordningen avdeling V, som har overskriften «Forskjellige bestemmelser», og bestemmelsene i gjennomføringsforordningen.
-Hensikten med ny § 21-1 a er å synliggjøre at
-Norges folkerettslige forpliktelser med hensyn til
-trygdekoordinering også har betydning for anvendelsen av bestemmelsene i folketrygdloven om
-saksbehandling.
-Nedenfor omtales noen kontaktpunkter mellom relevante bestemmelser i trygdeforordningen
-og gjennomføringsforordningen og bestemmelser
-i folketrygdloven. Kontaktpunktene gjelder forordningene slik de gjør seg gjeldende etter EØSavtalen, men vil i de fleste tilfeller også gjøre seg
-gjeldende i de andre gjennomføringene av trygdeforordningen. Omtalen er ikke uttømmende.
-Etter folketrygdloven § 21-2 skal krav om
-ytelser etter folketrygdloven i utgangspunktet settes fram for det felles lokale kontoret i arbeids- og
-velferdsforvaltningen der vedkommende bor. Det
-kan gjelde unntak fra dette i medhold av trygdeforordningen eller gjennomføringsforordningen.
-Av artikkel 81 i trygdeforordningen framgår det at
-krav, erklæringer, klager eller anker som etter en
-medlemsstats lovgivning skulle vært framsatt
-innen en bestemt frist for en myndighet, institusjon eller domstol i denne medlemsstaten, skal
-anses som lovlig framsatt, dersom de er framsatt
-innen den samme fristen for en tilsvarende myndighet, institusjon eller domstol i en annen medlemsstat. Se for øvrig gjennomføringsforordningen artikkel 45.
-Adgangen til å gi ut personopplysninger om
-folketrygdens medlemmer er svært begrenset,
-men folketrygdloven § 21-4 b har bestemmelser
-om utveksling av opplysninger med finansinstitusjoner. Trygdeforordningen inneholder bestemmelser om samarbeid og utveksling av opplysninger mellom EØS-statenes institusjoner i artiklene
-76 til 78. Se også gjennomføringsforordningen
-avdeling I, kapittel II, artiklene 2 til 7. Dette inne-
+I någjeldende § 3 a i kontantstøtteloven er det vist til forordning (EØF) nr. 1408/71 og forordning (EØF) nr. 574/72. Disse forordningene er erstattet av henholdsvis forordning (EF) nr. 883/2004 om koordinering av trygdeordninger (trygdeforordningen) og forordning (EF) nr. 987/2009 om regler for gjennomføring av forordning (EF) nr. 883/2004 (gjennomføringsforordningen). Henvisningen må oppdateres. Som en konsekvens av at de to forordningene foreslås inkorporert i folketrygdloven § 1-3, foretas det en språklig forenkling i *første punktum* ved at det vises til «trygdeforordningen og gjennomføringsforordningen, jf. folketrygdloven § 1-3». Formuleringen «tilsvarende anvendelse» er videreført, og det legges til grunn at det siktes til samme forhold til øvrige bestemmelser gitt i eller i medhold av loven som det trygdeforordningen og gjennomføringsforordningen har på fastlandet.
 
-137
+*Andre punktum* er ny. Bestemmelsen markerer at bestemmelsene om kontantstøtte vil komme til anvendelse overfor arbeidstakere på kontinentalsokkelen fra stater og områder utenfor EØS i den grad det følger av en bilateral avtale som er gjennomført i norsk rett i medhold av § 22 eller en multilateral avtale som er gjennomført i folketrygdloven § 1-3 a. I nordisk konvensjon om trygd framgår det av artikkel 6 at den kommer til anvendelse også på sokkelen.
 
-bærer at norske myndigheter i større utstrekning
-enn det som framgår av folketrygdloven må dele
-medlemmenes personopplysninger med andre.
-Også andre internasjonale avtaler har betydning for trygdekoordinering. Det er foreslått at
-disse gis virkning i norsk rett i eller i medhold av
-folketrygdloven § 1-3 a. Noen av disse avtalene
-innebærer langt på vei bare at trygdeforordningen
-og gjennomføringsforordningen gis anvendelse
-for områder og personer som ikke er omfattet av
-trygdeforordningen etter EØS-avtalen. Dette gjelder EFTA-konvensjonen og nordisk konvensjon
-om trygd. Dette gjelder også bestemmelsene om
-trygdekoordinering i separasjonsavtalen mellom
-EØS/EFTA-statene og Storbritannia samt avtalen
-mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere (trianguleringsavtalen), som i dag er gjennomført i brexit-loven,
-og som nå inkorporeres i folketrygdloven med
-forslaget til ny § 1-3 a. Disse instrumentene kan
-imidlertid også inneholde særregler som ikke er
-dekket av kontaktpunktene nevnt over, eller som
-gjør unntak fra reglene i forordningene.
-Disse multilaterale avtalene er nærmere
-omtalt av Trygdekoordineringsutvalget i NOU
-2021: 8 kapitlene 9 til 11.
-Bilaterale avtaler med betydning for trygdekoordinering gjennomføres i norsk rett ved forskrift hjemlet i folketrygdloven ny § 1-3 a. Trygdekoordineringsutvalget omtalte disse avtalene og
-deres innvirkning på norsk trygdelovgivning i
-NOU 2021: 8 kapittel 12.
-Hvorvidt en av de ovennevnte internasjonale
-avtalene får betydning i en konkret trygdesak, og
-hva betydningen i tilfelle vil være, vil avhenge av
-det konkrete innholdet i den aktuelle avtalen og
-de nærmere omstendighetene i saken.
-Til innholdsfortegnelsen i kapittel 22
-Som følge av forslaget om tilføyelse av en ny § 22-1 a,
-er innholdsfortegnelsen til kapittel 22 andre strekpunkt justert. Nåværende andre til tjueførste strekpunkt blir tredje til tjueandre strekpunkt.
-Det vises til punkt 7.5.2 i proposisjonen her.
-Til § 22-1 a
-Paragrafen er en oppfølging av Trygdekoordineringsutvalgets forslag til folkerettsmarkører i
-trygdelovgivningen, men lovteksten er noe forkortet og forenklet. Se nærmere omtale i kapittel
-7 i proposisjonen her.
-Ny § 22-1 a tas kun inn av informasjonshensyn,
-og bestemmelsen har i seg selv ingen rettsska-
+Se også forslag til revidert § 22 og ny § 1-3 a i folketrygdloven og spesialmerknadene til disse.
 
-[Side 140]
+Til § 22
 
-138
+Bestemmelsen er totalrevidert. Det foreslås å oppheve inkorporasjonsforskriften og bestemmelser i brexit-loven § 2, og i stedet gjennomføre de folkerettslige instrumentene i eller i medhold av §§ 1-3 og 1-3 a i folketrygdloven. Det er derfor behov for en egen bestemmelse i kontantstøtteloven som henviser til gjennomføringsbestemmelsene i folketrygdloven. Det tas i tillegg inn en egen bestemmelse om gjennomføring av bilaterale trygdeavtaler.
 
-Prop. 71 L
-Endringer i folketrygdloven mv. (synliggjøring av folkerettslige forpliktelser til trygdekoordinering)
+Bestemmelsen regulerer etter dette forholdet til trygdeforordningen, gjennomføringsforordningen og bi- og multilaterale avtaler om trygdekoordinering, og tilsvarer reguleringen i folketrygdloven § 1-3 tredje ledd og § 1-3 a tredje ledd. Det vises til spesialmerknadene til disse bestemmelsene.
 
-pende virkning. Aktuelle rettigheter og plikter ut
-over dem som framgår av loven, følger direkte av
-de avtalene som til enhver tid er gjennomført i
-norsk rett. Se forslagene til §§ 1-3 og 1-3 a og spesialmerknadene til disse paragrafene.
-I det følgende redegjøres det for hovedtrekkene for hvilken betydning de folkerettslige
-instrumentene har for folketrygdloven kapittel 22.
-Redegjørelsen må leses i lys av de forbeholdene
-som presenteres i kapittel 1 og punkt 7.5.1 i proposisjonen her.
-Folketrygdloven kapittel 22 har overskriften
-«Utbetaling». I saker som innebærer et grensekryssende element med en eller flere andre stater
-som anvender trygdeforordningen, suppleres
-bestemmelsene i kapittel 22 med bestemmelsene i
-trygdeforordningen avdeling V og bestemmelsene i gjennomføringsforordningen avdeling IV,
-kapittel III.
-I folketrygdloven kapittel 22 finnes regler om
-inndriving av folketrygdens fordringer som følge
-av feilutbetalinger mv. Som følge av trygdeforordningen og gjennomføringsforordningen, har de
-statene som anvender dem, plikt til å bistå hverandre med inndriving av fordringer.
-Også andre internasjonale avtaler har betydning for trygdekoordinering, se forslag til folketrygdloven ny § 1-3 a. Noen av disse avtalene innebærer langt på vei bare at trygdeforordningen og
-gjennomføringsforordningen gis anvendelse for
-områder og personer som ikke er omfattet av
-trygdeforordningen etter EØS-avtalen.
-Dette gjelder EFTA-konvensjonen og nordisk
-konvensjon om trygd. Dette gjelder også bestemmelsene om trygdekoordinering i separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia samt avtalen mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere
-(trianguleringsavtalen), som i dag er gjennomført
-i brexit-loven, og som nå inkorporeres i folketrygdloven med forslaget til ny § 1-3 a.
-Disse multilaterale avtalene er nærmere
-omtalt av Trygdekoordineringsutvalget i NOU
-2021: 8 kapitlene 9 til 11.
-Bilaterale avtaler med betydning for trygdekoordinering gis virkning i norsk rett ved forskrift
-hjemlet i folketrygdloven ny § 1-3 a. Disse avtalene og deres innvirkning på norsk trygdelovgivning er omtalt av Trygdekoordineringsutvalget i
-NOU 2021: 8 kapittel 12.
-Hvorvidt en av de ovennevnte internasjonale
-avtalene får betydning i en konkret trygdesak, og
-hva betydningen i tilfelle vil være, vil avhenge av
-det konkrete innholdet i den aktuelle avtalen og
-de nærmere omstendighetene i saken.
+Dagens første ledd første punktum slår fast at Kongen kan inngå gjensidige trygdeavtaler med andre stater, men tilfører ikke noe ut over det som følger av Grunnloven § 26 første ledd. Bestemmelsen er derfor ikke videreført. Dagens første ledd andre punktum er utformet som en derogasjonshjemmel, som åpner for at Kongen kan gjøre unntak fra lovens bestemmelser. Det foreslås at det framgår av paragrafen her at bestemmelsene som er gitt i eller i medhold av denne loven, skal tolkes og anvendes i samsvar med forpliktelser som følger av bilaterale avtaler som nevnt i første ledd, og forordninger og avtaler som nevnt i folketrygdloven §§ 1-3 og 1-3 a. Bestemmelsen i første ledd andre punktum videreføres derfor ikke.
 
-2021–2022
+*Første ledd* er en forskriftshjemmel som åpner for at Kongen kan gjennomføre bilaterale avtaler om trygdekoordinering ved forskrift. Disse avtalene og deres innvirkning på norsk trygdelovgivning er omtalt i kapittel 12 i NOU 2021: 8.
 
-Til § 23-4 a
-Første punktum i bestemmelsen viser i dag til avtaler inngått med hjemmel i § 1-3. Bestemmelsen
-endres som konsekvens av forslagene til
-endringer i kapittel 1.
-Tredje punktum i bestemmelsen viser i dag til
-brexit-loven § 2 første ledd bokstav c. Som en konsekvens av at denne bestemmelsen i brexit-loven
-foreslås opphevet, som følge av forslaget om
-inkorporering i folketrygdloven § 1-3 a, endres
-henvisningen, slik at den viser til folketrygdloven
-§ 1-3 a første ledd bokstav c.
-Se forslag til §§ 1-3 og 1-3 a og spesialmerknadene til disse paragrafene.
+*Andre ledd* sikrer at reglene i trygdeforordningen, gjennomføringsforordningen og bi- og multilaterale avtaler om trygdekoordinering, som Norge er bundet av, har gjennomslagskraft overfor bestemmelser gitt i eller i medhold av kontantstøtteloven.
 
-11.7 Til endringene i kontantstøtteloven
+Med henvisningen til avtaler og forordninger «som nevnt», menes avtaler og forordninger som er gjennomført i medhold av bestemmelsen i § 22 første ledd, eller i medhold av bestemmelsene i folketrygdloven §§ 1-3 og 1-3 a.
+
+Trygdeforordningen og gjennomføringsforordningen er foreslått gjennomført i norsk rett på lovs nivå ved inkorporasjon i folketrygdloven, jf. folketrygdloven § 1-3. Det samme er nordisk konvensjon om trygd og bestemmelsene om trygdekoordinering i EFTA-konvensjonen artikkel 21 sammenholdt med tillegg 2 til vedlegg K, separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia artiklene 29 til 34 og trianguleringsavtalen, jf. folketrygdloven § 1-3 a første ledd. For informasjon om forholdet mellom disse trygdekoordineringsinstrumentene og kontantstøtteloven vises det til NOU 2021: 8 punkt 8.19 (trygdeforordningen), kapittel 9 (EFTA-konvensjonen), kapittel 10 (trygdekoordinering med Storbritannia) og kapittel 11 (nordisk konvensjon om trygd).
+
+## Til endringene i spesialisthelsetjenesteloven
+
+Til ny § 1-3
+
+Paragrafen inneholder bestemmelser som regulerer forholdet til trygdeforordningen, gjennomføringsforordningen og bi- og multilaterale avtaler med betydning for trygdekoordinering. Bestemmelsene i paragrafen viderefører og synliggjør koblingen mellom folkeretten og spesialisthelsetjenesteloven.
+
+Som en konsekvens av forslagene i proposisjonen her, vil den någjeldende inkorporasjonsforskriften bli opphevet, herunder listen over lover som kan fravikes, i den utstrekning det er nødvendig av hensyn til forpliktelsene som følger av trygdeforordningen og gjennomføringsforordningen. Spesialisthelsetjenesteloven er ikke eksplisitt nevnt i inkorporasjonsforskriften, men loven omfattes av trygdeforordningen og gjennomføringsforordningen.
+
+Spesialisthelsetjenesteloven er nevnt i listen i brexit-loven § 2 tredje ledd over lover som kan fravikes i den utstrekning det er nødvendig for gjennomføringen av bestemmelsene om trygdekoordinering i separasjonsavtalen mellom EFTA-statene og Storbritannia og avtalen mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere (trianguleringsavtalen), jf. § 2 tredje ledd bokstav g.
+
+Bestemmelsen i ny § 1-3 er en direkte konsekvens av forslaget om å oppheve brexit-loven § 2 tredje ledd, og i stedet gjennomføre separasjonsavtalen og trianguleringsavtalen i ny § 1-3 a i folketrygdloven sammen med nordisk konvensjon om trygd og bestemmelsene om trygd i EFTA-konvensjonen. Se nærmere omtale av forslaget til ny § 1-3 a i folketrygdloven i punkt 6.3.5 i proposisjonen her.
+
+Som følge av at gjennomføringsbestemmelsene i brexit-loven flyttes til folketrygdloven, vil henvisningen til spesialisthelsetjenesteloven ikke bli videreført. Det er derfor behov for en egen bestemmelse i spesialisthelsetjenesteloven som henviser til gjennomføringsbestemmelsene i folketrygdloven. Det tas i tillegg inn en egen bestemmelse i spesialisthelsetjenesteloven om gjennomføring av bilaterale trygdeavtaler, se nedenfor. Utformingen av bestemmelsen i § 1-3 er basert på utvalgets forslag til § 22 i barnetrygdloven og § 22 i kontantstøtteloven, men med noe endret ordlyd.
+
+*Første ledd* er en forskriftshjemmel som gir Kongen adgang til å gjennomføre bilaterale avtaler om trygdekoordinering ved forskrift, slik at avtalene blir en del av norsk rett. På den måten sikres transparens i gjennomføringen. Bestemmelsen vil blant annet kunne få anvendelse for avtaler hvor det saklige virkeområdet for avtalen omfatter helsetjenester som Helse- og omsorgsdepartementet har myndighet til å framforhandle. Uttrykket «trygdekoordinering» er ikke begrenset til koordinering av ytelser etter trygdelovgivningen. Prinsippene for trygdekoordinering ligger også til grunn for bilaterale avtaler som regulerer rettigheter til å motta helsetjenester for personer som er omfattet av en stats trygdeordning under opphold i den andre staten, og dekningen av utgifter til slike tjenester.
+
+*Andre ledd* er inntatt av informasjonshensyn og viser blant annet til inkorporasjonsbestemmelsene i forslaget til §§ 1-3 og 1-3 a i folketrygdloven, som på denne måten reflekteres i spesialisthelsetjenesteloven. Bestemmelsen har rettsvirkninger ved at den regulerer forholdet mellom spesialisthelsetjenesteloven og forpliktelsene i folketrygdloven §§ 1-3 og 1-3 a. Det innebærer at bestemmelsene som er gitt i eller i medhold av spesialisthelsetjenesteloven må tolkes og anvendes i samsvar med forpliktelser som følger av avtaler som er gjennomført i norsk rett, enten i medhold av denne paragrafen eller i folketrygdloven. Bestemmelsen tydeliggjør at trygdeforordningen og bi- og multilaterale avtaler med betydning for trygdekoordinering innebærer unntak fra spesialisthelsetjenesteloven, på samme måte som brexit-loven hittil har gjort når det gjelder separasjonsavtalen og trianguleringsavtalen. Det forutsetter imidlertid at de folkerettslige instrumentene det er vist til, får anvendelse for tjenester etter spesialisthelsetjenesteloven. Henvisningen er ikke ment å utvide de folkerettslige instrumentenes anvendelsesområde. Med henvisningen til avtaler og forordninger «som nevnt», menes avtaler og forordninger som er gjennomført i medhold av bestemmelsen i § 1-3 første ledd, eller i medhold av bestemmelsene i folketrygdloven §§ 1-3 og 1-3 a.
+
+## Til endringene i pasient- og brukerrettighetsloven
+
+Til ny § 1-4
+
+Paragrafen inneholder bestemmelser som regulerer forholdet til trygdeforordningen, gjennomføringsforordningen og bi- og multilaterale avtaler med betydning for trygdekoordinering. Bestemmelsene i paragrafen viderefører og synliggjør koblingen mellom folkeretten og pasient- og brukerrettighetsloven.
+
+Som en konsekvens av forslagene i proposisjonen her, vil den någjeldende inkorporasjonsforskriften bli opphevet, herunder listen over lover som kan fravikes, i den utstrekning det er nødvendig av hensyn til forpliktelsene som følger av trygdeforordningen og gjennomføringsforordningen. Pasient- og brukerrettighetsloven er ikke eksplisitt nevnt i inkorporasjonsforskriften, men loven omfattes av trygdeforordningen og gjennomføringsforordningen.
+
+Pasient- og brukerrettighetsloven er nevnt i listen i brexit-loven § 2 tredje ledd over lover som kan fravikes, i den utstrekning det er nødvendig for gjennomføringen av bestemmelsene om trygdekoordinering i separasjonsavtalen mellom EFTA-statene og Storbritannia og avtalen mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere (trianguleringsavtalen), jf. § 2 tredje ledd bokstav h.
+
+Bestemmelsen i ny § 1-4 er en direkte konsekvens av forslaget om å oppheve brexit-loven § 2 tredje ledd, og i stedet gjennomføre separasjonsavtalen og trianguleringsavtalen i ny § 1-3 a i folketrygdloven sammen med nordisk konvensjon om trygd og bestemmelsene om trygd i EFTA-konvensjonen. Se nærmere omtale av forslaget til ny § 1-3 a i folketrygdloven i punkt 6.3.5 i proposisjonen her.
+
+Som følge av at gjennomføringsbestemmelsene i brexit-loven flyttes til folketrygdloven, vil henvisningen til pasient- og brukerrettighetsloven ikke bli videreført. Det er derfor behov for en egen bestemmelse i pasient- og brukerrettighetsloven som henviser til gjennomføringsbestemmelsene i folketrygdloven. Det tas i tillegg inn en egen bestemmelse i pasient- og brukerrettighetsloven om gjennomføring av bilaterale trygdeavtaler, se nedenfor. Utformingen av bestemmelsen i § 1-4 er basert på utvalgets forslag til § 22 i barnetrygdloven og § 22 i kontantstøtteloven, men med noe endret ordlyd.
+
+*Første ledd* er en forskriftshjemmel som gir Kongen adgang til å gjennomføre bilaterale avtaler om trygdekoordinering ved forskrift, slik at avtalene blir en del av norsk rett. På den måten sikres transparens i gjennomføringen. Bestemmelsen vil blant annet kunne få anvendelse for avtaler hvor det saklige virkeområdet for avtalen omfatter helsetjenester som Helse- og omsorgsdepartementet har myndighet til å framforhandle. Uttrykket «trygdekoordinering» er ikke begrenset til koordinering av ytelser etter trygdelovgivningen. Prinsippene for trygdekoordinering ligger også til grunn for bilaterale avtaler som regulerer rettigheter til å motta helsetjenester for personer som er omfattet av en stats trygdeordning under opphold i den andre staten, og dekningen av utgifter til slike tjenester.
+
+*Andre ledd* er tatt inn av informasjonshensyn og viser blant annet til inkorporasjonsbestemmelsene i forslaget til §§ 1-3 og 1-3 a i folketrygdloven, som på denne måten reflekteres i pasient- og brukerrettighetsloven. Bestemmelsen har rettsvirkninger ved at den regulerer forholdet mellom pasient- og brukerrettighetsloven og forpliktelsene i folketrygdloven §§ 1-3 og 1-3 a. Det innebærer at bestemmelsene som er gitt i eller i medhold av pasient- og brukerrettighetsloven må tolkes og anvendes i samsvar med forpliktelser som følger av avtaler som er gjennomført i norsk rett, enten i medhold av denne paragrafen eller i folketrygdloven. Det forutsetter imidlertid at de folkerettslige instrumentene det er vist til, får anvendelse for tjenester som omfattes av pasient- og brukerrettighetsloven. Henvisningen er ikke ment å utvide de folkerettslige instrumentenes anvendelsesområde. Med henvisningen til avtaler og forordninger «som nevnt», menes avtaler og forordninger som er gjennomført i medhold av bestemmelsen i § 1-4 første ledd, eller i medhold av bestemmelsene i folketrygdloven §§ 1-3 og 1-3 a.
+
+## Til endringene i barnetrygdloven
+
 Til overskriften i kapittel 1
-Overskriften i kapittel 1 endres for å synliggjøre at
-ny § 1 a om forholdet til bestemmelser om internasjonal trygdekoordinering tas inn i kapittel 1.
-Til § 1 a
-Paragrafen er en oppfølging av Trygdekoordineringsutvalgets forslag til folkerettsmarkører i
-trygdelovgivningen, men lovteksten er noe forkortet og forenklet. Se nærmere omtale i kapittel
-7 i proposisjonen her.
-Ny § 1 a tas kun inn av informasjonshensyn,
-og bestemmelsen har i seg selv ingen rettsskapende virkning. Aktuelle rettigheter og plikter ut
-over dem som framgår av loven, følger direkte av
-de avtalene som til enhver tid er gjennomført i
-norsk rett. Se forslagene til §§ 1-3 og 1-3 a i folketrygdloven og kontantstøtteloven §§ 3 a og 22
-med spesialmerknader.
-Som det framgår av første punktum, er kontantstøtte en familieytelse, jf. trygdeforordningen
-artikkel 3 nr. 1 bokstav j). Regler av betydning for
-familieytelser framgår i hovedsak av trygdeforordningen avdeling I, avdeling II og avdeling III kapittel 8. Dette innebærer at bestemmelsene i kontantstøtteloven skal tolkes og anvendes i samsvar
-med de relevante bestemmelsene i trygdeforordningen, se andre punktum. Bestemmelsene i kontantstøtteloven skal også tolkes og anvendes i
-samsvar med de øvrige avtalene med betydning
-for trygdekoordinering.
-I det følgende redegjøres det for hovedtrekkene for hvilken betydning de folkerettslige
-instrumentene har for denne ytelsen. Redegjørel-
+
+Overskriften i kapittel 1 endres for å synliggjøre at ny § 1 a om forholdet til bestemmelser om internasjonal trygdekoordinering innlemmes i kapittel 1.
+
+Til § 1 a
+
+Paragrafen er en oppfølging av Trygdekoordineringsutvalgets forslag til folkerettsmarkører i trygdelovgivningen, men lovteksten er noe forkortet og forenklet. Se nærmere omtale i kapittel 7 i proposisjonen her.
+
+Ny § 1 a tas kun inn av informasjonshensyn, og bestemmelsen har i seg selv ingen rettsskapende virkning. Aktuelle rettigheter og plikter ut over dem som framgår av loven, følger direkte av de avtalene som til enhver tid er gjennomført i norsk rett. Se forslagene til §§ 1-3 og 1-3 a i folketrygdloven og §§ 6 og 22 i barnetrygdloven med spesialmerknader.
+
+Som det framgår av *første punktum*, er barnetrygd en familieytelse, jf. trygdeforordningen artikkel 3 nr. 1 bokstav j). Dette gjelder både ordinær og utvidet barnetrygd. Regler av betydning for familieytelser framgår i hovedsak av trygdeforordningen avdeling I, avdeling II og avdeling III kapittel 8. Dette innebærer at bestemmelsene i barnetrygdloven skal tolkes og anvendes i samsvar med de relevante bestemmelsene i trygdeforordningen, se *andre punktum.* Bestemmelsene i barnetrygdloven skal også tolkes og anvendes i samsvar med de øvrige avtalene med betydning for trygdekoordinering.
+
+I det følgende redegjøres det for hovedtrekkene for hvilken betydning de folkerettslige instrumentene har for denne ytelsen. Redegjørelsen må leses i lys av de forbeholdene som presenteres i kapittel 1 og punkt 7.5.1 i proposisjonen her.
+
+Trygdekoordineringsutvalgets omtale av kontaktpunktene mellom barnetrygdloven og trygdeforordningens regler finnes i NOU 2021: 8 punkt 8.18.2.
+
+Lovvalg
+
+Lovvalgsreglene innebærer som hovedregel at en person skal være underlagt lovgivningen i staten der han eller hun arbeider eller driver selvstendig virksomhet, jf. trygdeforordningen artikkel 11 nr. 3 bokstav a). Personer som ikke arbeider eller driver selvstendig virksomhet, skal som hovedregel være underlagt lovgivningen i bostedsstaten, jf. trygdeforordningen artikkel 11 nr. 3 bokstav e).
+
+For familieytelsene følger det av trygdeforordningen artikkel 67 at en person har rett til familieytelser også for familiemedlemmer som er bosatt i en annen medlemsstat, som om de var bosatt i den aktuelle medlemsstaten. Lovvalgsvurderingen gjøres for foreldrene og barnet det blir søkt om eller blir utbetalt barnetrygd for. Retten til barnetrygd ved midlertidig opphold i utlandet beholdes så lenge minst en av foreldrene og/eller barnet som det blir utbetalt barnetrygd for, har Norge som lovvalgsstat.
+
+Siden en familie består av mer enn én person, og disse kan bo og arbeide i ulike stater, vil de ulike familiemedlemmene kunne ha tilknytning til, og være underlagt lovgivningen til, ulike stater, se nedenfor om prioriteringsregler og regler om differanseutbetaling som får anvendelse i slike situasjoner.
+
+De generelle reglene om lovvalg er omtalt i NOU 2021: 8 kapittel 6.
+
+Likebehandling
+
+Det er ikke tillatt å forskjellsbehandle norske statsborgere og andre personer som er omfattet av trygdeforordningens regler, jf. trygdeforordningen artikkel 4. Som en forlengelse av dette, kreves det i trygdeforordningen artikkel 5 at en EØS-stat likestiller ytelser, inntekter, faktiske forhold eller hendelser i hele EØS.
+
+Barnetrygdloven inneholder en særregel i § 7 som knytter retten til barnetrygd til norsk statsborgerskap for arbeidstakere ved utenlandsk representasjon eller annen administrativ tjenestegren i Norge. Regelen fører til at barnetrygd ikke gis for barn som forsørges av utenlandske statsborgere som tjenestegjør eller er ansatt ved en ambassade eller et konsulat, eller som arbeider for NATO i Norge mv., selv om barnet fyller vilkåret om minst tolv måneders opphold i riket. I tilfeller hvor vilkåret om statsborgerskap vil være avgjørende, følger det uansett av trygdeforordningen artikkel 4 at statsborgere fra andre EØS-stater må likestilles med norske statsborgere.
+
+Barnetrygdloven inneholder ingen andre bestemmelser som knytter rettsvirkninger til status som norsk statsborger.
+
+At familier der de ulike familiemedlemmene har tilknytning til ulike EØS-stater likebehandles med familier som bare har tilknytning til én stat, skal ivareta det EØS-rettslige prinsippet om fri bevegelighet for personer. En arbeidstaker i Norge har rett til barnetrygd fra Norge som kompetent stat også for barn som er bosatt i en annen EØS-stat.
+
+Selv om barnetrygd i utgangspunktet ikke kan gjøres betinget av bosted, kan bostedet likevel tillegges vekt i spesielle saker. Et eksempel gir EFTA-domstolen i sak E-3/05 *ESA mot Norge*, som gjaldt Finnmarkstillegget til barnetrygden (dette tillegget ble avviklet i 2014).
+
+Likebehandlingsprinsippet er nærmere omtalt i NOU 2021: 8 punkt 5.3.
+
+Bevegelsesfrihet – familiemedlemmer
+
+For familieytelser som barnetrygd er hensynet til fri bevegelighet primært ivaretatt av prinsippet nedfelt i trygdeforordningen artikkel 67. En person skal ha rett til familieytelser i samsvar med den kompetente medlemsstatens lovgivning, også for familiemedlemmer som er bosatt i en annen medlemsstat, som om de var bosatt i den førstnevnte medlemsstaten. Dette kan for eksempel gjelde i et tilfelle der far arbeider i Norge og er underlagt norsk lovgivning, mens hans kone og barn er bosatt i Polen og er underlagt polsk lovgivning. At personene bor i ulike stater, vil ikke være til hinder for at vilkårene for barnetrygd i et slikt tilfelle vil kunne være oppfylt.
+
+Det er et vilkår for rett til barnetrygd at forelderen har barnet boende fast hos seg, se barnetrygdloven § 4. I tilfeller hvor en EØS-borger som arbeider i Norge (har Norge som lovvalgsstat) i hovedsak forsørger et barn som bor med den andre forelderen i en annen EØS-stat, kan trygdeforordningen gi rett til barnetrygd selv om foreldrene er skilt, er separert eller ikke lenger er samboere. Dette gjelder uavhengig av om den andre forelderen og barnet er underlagt lovgivningen i en annen stat som anvender trygdeforordningen, og følger av artikkel 67 og EU-domstolens praksis. EU-domstolens standpunkt synes å være at barnet fungerer som koblingspunkt mellom foreldrene, i hvert fall i tilfeller hvor den ene forelderen er den som barnet bor hos, og den andre forelderen er den som hovedsakelig forsørger barnet. Resultatet er at foreldrene må betraktes som familiemedlemmer med hverandre i henhold til trygdeforordningen artikkel 67, selv om de ikke er i noe parforhold, se blant annet *Slanina-*dommen.
+
+Også dersom barnet ikke bor hos en av foreldrene, men hos andre familiemedlemmer bosatt i en annen EØS-stat, kan trygdeforordningen artikkel 67 komme til anvendelse. Barnetrygdloven § 2 andre ledd åpner for at også andre omsorgspersoner enn foreldrene kan ha rett til barnetrygd.
+
+*Slanina*-dommen tilsier også at kravet til forsørgelse kan være oppfylt selv om forelderen som ikke har barnet boende hos seg, rent faktisk ikke betaler barnebidrag eller andre bidrag, så lenge vedkommende er forpliktet til å gjøre det. Det vises til at Slaninas eksmann ikke overholdt sin lovpålagte plikt til å betale barnebidrag, men EU-domstolen uttalte at dette var uten relevans for vurderingen av forsørgelsesvilkåret.
+
+Trygdekoordineringsutvalget la til grunn at rettspraksis medfører at forelderen som er bosatt med det felles barnet i en annen EØS-stat, har en selvstendig rett til å kreve familieytelser fra Norge, dersom denne forelderen oppfyller vilkårene for ytelsen og den andre forelderen både er underlagt norsk lovgivning og i hovedsak forsørger barnet. Dette gjelder også der foreldrene ikke lenger bor sammen. Arbeids- og velferdsetaten må etter utvalgets syn gi forrang til et krav fra forelderen som har barnet boende hos seg, dersom begge søker. Dette følger etter utvalgets syn av trygdeforordningen artikkel 67 og EU-domstolens praksis. Praksisen er etter utvalgets oppfatning kodifisert i gjennomføringsforordningen artikkel 60.
+
+Det kan framstå som om utvalget gikk noe lenger i å anerkjenne selvstendig rett til familieytelsen til forelderen i utlandet som bor sammen med barnet, enn det som følger av dagens praksis der den andre forelderen som bor i en annen EØS-stat sammen med barnet kan ha rett til å «tre inn i» kravet på ordinær barnetrygd. Departementet vil vurdere dette spørsmålet nærmere.
+
+Utvidet barnetrygd gis etter dagens praksis til en forelder som bor alene sammen med barnet, og skal dekke ekstrakostnader forbundet med det å være enslig forsørger. Dersom forelderen som er omfattet av norsk lovgivning anses å være enslig forsørger for barnet, vil denne forelderen etter dagens praksis ha krav på utvidet barnetrygd dersom de øvrige vilkårene er oppfylt. Dersom barnet bor sammen med den andre forelderen i en annet EØS-stat, anses vilkårene for å få utvidet barnetrygd ikke som oppfylt.
+
+Utvalget mente at dagens praksis må legges om for retten til utvidet barnetrygd for foreldre som er skilt eller separert, eller som tidligere har bodd sammen, slik at det også i disse tilfellene vurderes om barnet i hovedsak forsørges av forelderen som arbeider i Norge. Det var etter utvalgets syn den forelderen som har barnet boende hos seg, som kan kreve barnetrygd fra Norge, som om vedkommende, og barnet, var bosatt i Norge og underlagt norsk lovgivning. Det følger, etter utvalgets syn, av dette at også utvidet barnetrygd kan måtte utbetales til en enslig forelder bosatt i en annen EØS-stat, så lenge vilkårene for øvrig er oppfylt. Departementet vil vurdere dette spørsmålet nærmere, og herunder se det i sammenheng med problemstillingen om eventuelle selvstendige rettigheter for forelderen som bor med barnet i en annen EØS-stat.
+
+Bevegelsesfrihet – krav om å være bosatt i Norge
+
+Trygdeforordningen kan medføre at vilkåret om at barnet må være bosatt i Norge for rett til barnetrygd, se barnetrygdloven § 4, anses oppfylt dersom barnet bor i en annen stat som anvender trygdeforordningen, se trygdeforordningen artiklene 7 og 67.
+
+Retten til barnetrygd fra Norge opphører etter de nasjonale reglene i folketrygdloven som hovedregel etter tre måneder ved midlertidig opphold i en annen stat. Dette vil ikke gjelde i EØS-saker, så lenge en av foreldrene og/eller barnet det gjelder fortsatt har Norge som lovvalgsstat.
+
+For barn som alt i utgangspunktet er bosatt i en annen EØS-stat, er det klart at § 4 tredje ledd ikke kommer til anvendelse, jf. trygdeforordningen artiklene 7 og 67. For en familie hvor alle familiemedlemmer er bosatt i Norge, vil ikke Norge stanse utbetaling av barnetrygd bare fordi familien ønsker å oppholde seg mer enn tre måneder i en annen EØS-stat. Selv om hele familien skulle flytte fra Norge, vil retten til barnetrygd bestå så lenge minst ett familiemedlem har Norge som lovvalgsstat også etter at barnet har reist fra Norge, jf. trygdeforordningen artikkel 67.
+
+Dersom flytting fra Norge medfører at ingen av familiens medlemmer lenger har Norge som lovvalgsstat, er det klart at trygdeforordningen ikke lenger gir opphav til noe krav på barnetrygd fra Norge.
+
+Krav på overlappende ytelser fra flere stater – prioriteringsregler og differansebetaling
+
+Ettersom familieytelsene tilkommer familien som sådan, vil det ofte være slik at familier i grensekryssende situasjoner har krav på ytelser av samme slag fra flere stater, jf. trygdeforordningen artikkel 67. Trygdeforordningen artikkel 10 slår fast at dette ikke må lede til dobbel uttelling.
+
+Trygdeforordningen og gjennomføringsforordningen inneholder av denne grunn detaljerte prioriteringsregler, jf. trygdeforordningen artiklene 67–69 og gjennomføringsforordningen artiklene 58–61. Prioriteringsreglene innebærer at én stat har det primære ansvaret for å utbetale ytelsen (primærstaten), mens den andre staten utbetaler et eventuelt supplement dersom ytelsen i sistnevnte stat er høyere. Ingen stat er forpliktet til å utbetale en ytelse som er høyere enn hva staten betaler etter egen lovgivning. Samtidig har mottakeren rett til en samlet utbetaling som tilsvarer den høyeste av de familieytelsene vedkommende har krav på. Når primærstaten har utbetalt sin ytelse, skal derfor de øvrige statene der familien har overlappende rettigheter, utbetale et supplement – differansen – slik at den samlede ytelsen tilsvarer den høyeste ytelsen man har krav på, jf. trygdeforordningen artikkel 68 nr. 2. Stønadene fra Norge vil kunne bli utbetalt redusert, eller falle helt bort, som følge av at støttemottaker får en tilsvarende ytelse fra en annen stat som er primærstat.
+
+Staten hvor retten til en ytelse er basert på arbeid er normalt primærstat. Artikkel 68 nr. 1 bokstav a) angir prioriteringsreglene der de overlappende rettighetene har ulikt grunnlag, for eksempel et tilfelle der far arbeider i Norge og mor er pensjonist i en annen stat.
+
+Artikkel 68 nr. 1 bokstav b) punktene (i) og (ii) angir prioriteringsreglene der de overlappende rettighetene har samme grunnlag, for eksempel et tilfelle der begge foreldrene arbeider.
+
+Andre avtaler med betydning for trygdekoordinering
+
+Også andre internasjonale avtaler har betydning for trygdekoordinering, se andre punktum i forslaget til ny § 1 a. Det er foreslått at disse gis virkning i norsk rett i eller i medhold av § 22 og folketrygdloven § 1-3 a. Noen av disse avtalene innebærer langt på vei bare at trygdeforordningen og gjennomføringsforordningen gis anvendelse for områder og personer som ikke er omfattet av trygdeforordningen etter EØS-avtalen. Kontaktpunktene omtalt ovenfor vil derfor også kunne gjøre seg gjeldende i disse sammenhengene. Dette gjelder EFTA-konvensjonen og nordisk konvensjon om trygd. Dette gjelder også separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia og avtalen mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere (trianguleringsavtalen), som i dag er gjennomført i brexit-loven, og som nå inkorporeres i folketrygdloven med forslaget til ny § 1-3 a. Disse instrumentene kan imidlertid også inneholde særregler som ikke er dekket av kontaktpunktene omtalt under beskrivelsen av EØS-forordningene, eller som gjør unntak fra reglene i forordningene.
+
+Se nærmere omtale av de multilaterale avtalene med betydning for trygdekoordinering i NOU 2021: 8 kapitlene 9 til 11.
+
+Bilaterale avtaler med betydning for trygdekoordinering gjennomføres i norsk rett ved forskrift hjemlet i blant annet barnetrygdloven § 22. De bilaterale trygdeavtalene tar først og fremst sikte på å regulere det trygdemessige lovvalget, og å regulere trygdekoordineringen av pensjoner og uføretrygd.
+
+De bilaterale avtalene og deres innvirkning på norsk trygdelovgivning er omtalt i NOU 2021: 8 kapittel 12.
+
+Hvorvidt en av de ovennevnte internasjonale avtalene får betydning i en konkret trygdesak, og hva betydningen i tilfelle vil være, vil avhenge av det konkrete innholdet i den aktuelle avtalen og de nærmere omstendighetene i saken.
+
+Til § 6
+
+I någjeldende § 6 er det vist til forordning (EØF) nr. 1408/71 og forordning (EØF) nr. 574/72. Disse er erstattet av henholdsvis forordning (EF) nr. 883/2004 om koordinering av trygdeordninger (trygdeforordningen) og forordning (EF) nr. 987/2009 om regler for gjennomføring av forordning (EF) nr. 883/2004 (gjennomføringsforordningen). Henvisningen må oppdateres. Som en konsekvens av at de to forordningene foreslås inkorporert i folketrygdloven § 1-3, foretas en språklig forenkling i *første punktum* ved at det vises til «trygdeforordningen og gjennomføringsforordningen, jf. folketrygdloven § 1-3». Formuleringen «tilsvarende anvendelse» er videreført, og det legges til grunn at det siktes til samme forhold til øvrige bestemmelser gitt i eller i medhold av loven som det trygdeforordningen og gjennomføringsforordningen har på fastlandet.
+
+*Andre punktum* er nytt. Bestemmelsen markerer at bestemmelsene om barnetrygd vil komme til anvendelse overfor arbeidstakere på kontinentalsokkelen fra stater og områder utenfor EØS i den grad det følger av en bilateral avtale som er gjennomført i norsk rett i medhold av § 22 eller en multilateral avtale som er gjennomført i folketrygdloven § 1-3 a. I nordisk konvensjon om trygd framgår det av artikkel 6 at den kommer til anvendelse også på sokkelen.
+
+Se også forslag til revidert § 22 og ny § 1-3 a i folketrygdloven og spesialmerknadene til disse.
+
+Til § 22
+
+Bestemmelsen er totalrevidert. Det foreslås å oppheve inkorporasjonsforskriften og bestemmelser i brexit-loven § 2, og i stedet gjennomføre de folkerettslige instrumentene i eller i medhold av §§ 1-3 og 1-3 a i folketrygdloven. Det er derfor behov for en egen bestemmelse i barnetrygdloven som henviser til gjennomføringsbestemmelsene i folketrygdloven. Det tas i tillegg inn en egen bestemmelse om gjennomføring av bilaterale trygdeavtaler.
+
+Bestemmelsen regulerer etter dette forholdet til trygdeforordningen, gjennomføringsforordningen og bi- og multilaterale avtaler om trygdekoordinering, og tilsvarer reguleringen i folketrygdloven § 1-3 tredje ledd og § 1-3 a tredje ledd. Det vises til spesialmerknadene til disse paragrafene.
+
+Dagens første ledd første punktum slår fast at Kongen kan inngå gjensidige trygdeavtaler med andre stater, men tilfører ikke noe ut over det som følger av Grunnloven § 26 første ledd. Bestemmelsen er derfor ikke videreført. Dagens første ledd andre punktum er utformet som en derogasjonshjemmel, som åpner for at Kongen kan gjøre unntak fra lovens bestemmelser. Det foreslås at det framgår av paragrafen her at bestemmelsene som er gitt i eller i medhold av denne loven, skal tolkes og anvendes i samsvar med forpliktelser som følger av bilaterale avtaler som nevnt i første ledd, og forordninger og avtaler som nevnt i folketrygdloven §§ 1-3 og 1-3 a. Bestemmelsen i første ledd andre punktum videreføres derfor ikke.
+
+*Første ledd* er en forskriftshjemmel som åpner for at Kongen kan gjennomføre bilaterale avtaler om trygdekoordinering ved forskrift. Disse avtalene og deres innvirkning på norsk trygdelovgivning er omtalt i kapittel 12 i NOU 2021: 8.
+
+*Andre ledd* sikrer at reglene i trygdeforordningen, gjennomføringsforordningen og bi- og multilaterale avtaler om trygdekoordinering som Norge er bundet av, har gjennomslagskraft overfor bestemmelser gitt i eller i medhold av barnetrygdloven. Med henvisningen til avtaler og forordninger «som nevnt», menes avtaler og forordninger som er gjennomført i medhold av bestemmelsen i § 22 første ledd, eller i medhold av bestemmelsene i folketrygdloven §§ 1-3 og 1-3 a.
+
+Trygdeforordningen og gjennomføringsforordningen er foreslått gjennomført i norsk rett på lovs nivå ved inkorporasjon i folketrygdloven, jf. folketrygdloven § 1-3. Det samme er nordisk konvensjon om trygd og bestemmelsene om trygdekoordinering i EFTA-konvensjonen artikkel 21 sammenholdt med tillegg 2 til vedlegg K, separasjonsavtalen mellom EØS/EFTA-statene og Storbritannia artiklene 29 til 34 og trianguleringsavtalen, jf. folketrygdloven § 1-3 a første ledd. For informasjon om forholdet mellom disse trygdekoordineringsinstrumentene og barnetrygdloven vises det til NOU 2021: 8 punkt 8.19 (trygdeforordningen), kapittel 9 (EFTA-konvensjonen), kapittel 10 (trygdekoordinering med Storbritannia) og kapittel 11 (nordisk konvensjon om trygd).
