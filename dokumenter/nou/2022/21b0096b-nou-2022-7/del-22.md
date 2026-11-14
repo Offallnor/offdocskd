@@ -1,1803 +1,610 @@
-# NOU 2022: 7, del 22 av 31 (side 251–263)
+# NOU 2022: 7, del 22 av 32
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
 - Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 251]
-
-249
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-sent av grunnbeløpet både for enslige og gifte, og
-det bidro til å redusere den relative forskjellen
-mellom minsteytelsene til enslige og gifte.
-Etter at særtillegget ble innført i 1969 ble det
-økt en rekke ganger. Det var likt for enslige og
-gifte fram til 1. mai 1972 da særtilleggssatsen for
-enslige og for pensjonister med ektefelletillegg
-økte fra 14 til 17 prosent og for gifte med ektefelle
-som mottar pensjon til 16 prosent av grunnbeløpet. I innstillingen fra sosialkomitéen om forhøyelse av satsene vises det til St.meld. nr. 14 (1971–
-72) der det står at en del utgifter i mange tilfeller
-er like store for en enslig pensjonist som for et
-ektepar. På bakgrunn av meldingen var komitéen
-enig i at det kunne være grunnlag for å ha en
-lavere særtilleggssats for gifte enn for enslige, jf.
-Innst. O. nr. 59 (1971–72).
-Satsen for enslige var noe høyere enn for gifte
-fra 1972 til 1994, men fra 1. januar 1994 ble det
-igjen en felles sats på 60,5 prosent. Satsene ble
-trappet videre opp gjennom 1990- og 2000-tallet
-inntil særtillegget fra 1. januar 2010 utgjorde 100
-prosent av grunnbeløpet både for enslige og for
-gifte og samboere.
-I forbindelse med trygdeoppgjøret for 1989 ble
-det vedtatt en særskilt økning av særtillegget til
-minstepensjonister som forsørger ektefelle over
-60 år med sikte på at denne gruppen skulle sikres
-samme minstenivå som ektepar der begge er minstepensjonister. Økningen ble gjennomført ved at
-pensjonister som forsørger ektefelle fra 1. april
-1989 fikk to ganger særtillegget til pensjonistpar,
-jf. Ot.prp. nr. 4 (1993–1994).
-Økningene i grunnpensjonen og særtilleggssatsene for gifte har over tid redusert den relative
-forskjellen på minstepensjonen til enslige og gifte.
-I 1967, da minstepensjonen kun besto av grunnpensjon, utgjorde minstepensjonen til pensjonistpar 150 prosent av minstepensjonen til enslige.
-Fra 1. mai 2010 var dette økt til 185 prosent, da
-særtillegget var 100 prosent av grunnbeløpet for
-både enslige og gifte og grunnpensjonen til gifte
-var 0,85 G.
-Figur 11.1 viser utviklingen i minstepensjonen
-for enslige og gifte med ordinær sats målt som
-andel av grunnbeløpet i perioden 1967–2010. Det
-går fram at minsteytelsene økte særlig mye på
-1970-tallet og på slutten av 1990- og 2000-tallet.
-Med unntak av økningen av grunnpensjonen til
-gifte og samboende perioden 2003–2005, skyldes
-veksten i minsteytelsene at særtillegget har blitt
-økt.
-Den samlede effekten av reguleringen av pensjoner i de 43 årene fra 1967 til 2010 er illustrert i
+# Regulering av pensjon
 
-Kapittel 11
+## Innledning og sammendrag
 
-2,5
+I utvalgets mandat framgår det at utvalget «skal vurdere den praktiske gjennomføringen av regulering av pensjoner under utbetaling, og ev. komme med alternative forslag til reguleringsregler som ikke svekker bærekraften i pensjonssystemet».
 
-2,5
+Ved behandlingen av Dokument 8:53 S (2020–2021) i februar 2021 ba Stortinget regjeringen legge fram lovforslag om å regulere løpende pensjoner med gjennomsnittet av pris- og lønnsveksten med virkning fra 2022, jf. Innst. 221 S (2020–2021), vedtak 622. Departementet la i Prop. 41 L (2021–2022) fram forslag om at både minsteytelser og løpende pensjoner skal reguleres med et gjennomsnitt av pris- og lønnsveksten fra 2022, og dette ble vedtatt av Stortinget, jf. Innst. 194 L (2021–2022) og Lovvedtak 50 (2021–2022).
 
-2,0
+På bakgrunn av stortingsvedtaket i februar 2021 sendte Arbeids- og sosialministeren 26. mars brev til utvalget med en presisering av mandatet:
 
-2,0
+«Gitt Stortingets anmodningsvedtak om at regjeringen skal legge frem et forslag om omlegging av reguleringsreglene til gjennomsnitt av pris- og lønnsvekst, er det viktig at utvalget utreder et konkret forslag til hvordan en slik omlegging kan gjennomføres. Utvalget må vurdere om en slik omlegging tilsier at det bør gjøres andre endringer i pensjonssystemet. Eksempler på forhold som utvalget må vurdere er vilkåret for å ta ut alderspensjon før 67 år, reguleringen av minsteytelsene og tiltak som kan sikre et konsistent pensjonssystem, herunder mulighetene til å opprettholde en nøytral uttaksmodell.»
 
-1,5
+Utvalgets vurdering av reguleringen av minsteytelsen står i kapittel 11, mens de øvrige spørsmålene vurderes i dette kapitlet, se avsnitt 10.5.
 
-1,5
+I avsnitt 10.2 beskrives ulike prinsipper for å regulere pensjon, og det er en oversikt over hvordan pensjonene reguleres i ulike land. Avsnitt 10.3 beskriver endringene i reglene for den årlige reguleringen siden folketrygden ble etablert i 1967, mens avsnitt 10.4 viser hvordan disse reglene har påvirket utviklingen i pensjonene.
 
-1,0
+Før pensjonsreformen ble pensjonene regulert med utgangspunkt i retningslinjer fastsatt av Stortinget, se avsnitt 10.3. Disse ble endret flere ganger, men fra 1979 tok retningslinjene utgangspunkt i at pensjonene skulle vokse i takt med inntektsveksten for yrkesaktive, og fra 2003 gav retningslinjene relativt detaljerte regler for hvordan reguleringen skulle skje.
 
-1,0
+I praksis ble likevel løpende pensjoner regulert klart svakere enn lønnsveksten. Samlet over hele perioden fra 1967 til 2010 økte reallønningene i gjennomsnitt med 1,8 prosent årlig, mens realverdien av pensjonene økte med 1,2 prosent. En grunn til at løpende pensjoner økte mindre enn lønningene, var trolig at Stortinget prioriterte å øke minstepensjonene, se kapittel 11.
 
-0,5
+Fra 2011 ble den årlige reguleringen, både av opparbeidede pensjonsrettigheter og løpende pensjoner, fullt ut regelstyrt. Det var en viktig endring, og i tråd med det som er vanlig i andre land, se avsnitt 10.2.3. Den årlige reguleringen av alderspensjonene har langsiktige økonomiske konsekvenser, både for den enkelte og for staten. Reglene for regulering av pensjon må sikre forutsigbarhet. Utvalget mener derfor at reguleringen ikke egner seg for årlige forhandlinger, Stortinget bør vedta regler for hvordan pensjonene skal reguleres, og reglene bør bare endres etter grundige vurderinger av de langsiktige konsekvensene for statens utgifter og for pensjonistene på kort og lang sikt.
 
-0,5
+Utvalget har vurdert «tiltak som kan sikre et konsistent pensjonssystem, herunder mulighetene til å opprettholde en nøytral uttaksmodell», se avsnitt 10.5.2. Utvalget peker på at å videreføre dagens regler for å fastsette forholdstall og delingstall kan føre til inkonsistenser når løpende pensjoner skal reguleres med gjennomsnittet av pris- og lønnsveksten. Utvalget mener imidlertid at de inkonsistensene som vil oppstå ikke er så store at de tilsier at beregningene av forholdstall og delingstall bør legges om. Å videreføre dagens regler, vil ikke skape noen systematiske skjevheter, og de mulige problemene er trolig små. Det er andre deler av regelverket som i større grad kan gi skjevheter ut fra målet om nøytralitet: Skattereglene for pensjonsinntekt stimulerer normalt til tidliguttak. Samtidig har mange en høyere forventet levealder enn det som ligger til grunn for beregningen av delingstallene, noe som isolert sett gjør det lønnsomt å vente med å ta ut pensjonen.
 
-0,0
+Utvalget mener det ikke er grunnlag nå for å endre faktoren på 0,75 prosent som benyttes når forholds- og delingstallene fastsettes. Det er imidlertid grunn til å følge med på om faktoren på 0,75 over tid er i rimelig samsvar med halvparten av forventet langsiktig reallønnsvekst. Faktoren bør justeres dersom avviket ventes å bli langvarig, men den bør ikke være gjenstand for hyppige endringer.
 
-0,0
-1967 1972 1977 1982 1987 1992 1997 2002 2007
-Gift
+Utvalget har også vurdert vilkåret for å ta ut pensjon før 67 år, se avsnitt 10.5.3. For å kunne ta ut alderspensjonen før 67 år må alderspensjonen ved 67 år minst tilsvare minsteytelsen for enslige ved 67 år. Løpende pensjoner skal fra 2022 reguleres med gjennomsnittet av pris- og lønnsveksten. Om de som tar ut pensjon før 67 år får et pensjonsnivå ved 67 år som minst tilsvarer minsteytelsen, avhenger derfor av hvordan satsen for minsteytelsen blir regulert.
 
-Enslig
+Dersom minsteytelsene skal reguleres gunstigere enn løpende pensjoner, må pensjonen ved uttak før 67 år være høyere enn minstenivået på uttakstidspunktet. Hvordan dette skal gjøres, avhenger av hvordan reguleringen av minsteytelsene skjer. Hvis satsen for minsteytelsene reguleres med gjennomsnittet av pris- og lønnsveksten, men tillagt en fast faktor, vil størrelsen på den faste faktoren kunne benyttes for å beregne hvor mye høyere enn minstenivået pensjonen ved uttak må være.
 
-Figur 11.1 Minstepensjon til enslige og gifte
-(ordinær sats) som andel av grunnbeløpet 1967–
-2010. Årlig gjennomsnitt
-Kilde: Arbeids- og velferdsdirektoratet.
+Hvis minsteytelsene reguleres med lønnsveksten, eventuelt med et fast fratrekk, vil det ikke bli noe forutsigbart forhold ved 67 år mellom pensjon som er tatt ut tidlig og minstenivåene ved 67 år. Jo høyere reallønnsveksten er, desto større blir forskjellen mellom reguleringen av minsteytelsene og reguleringen av løpende pensjoner.
 
-figur 11.2. Mens reallønningene økte med 114 prosent i perioden, hadde pensjoner over minstepensjon en reell økning på 64 prosent. Realverdien av
-minstepensjonen for enslige økte med 226 pro-
+Utvalget mener det kan gi et mer stabilt reguleringsregime dersom minsteytelsene reguleres med utgangspunkt i lønnsveksten, eventuelt med et fast fratrekk, framfor å regulere med gjennomsnittet av pris- og lønnsveksten tillagt en fast faktor. For å begrense antallet som vil motta et pensjonstillegg, bør vilkåret for å ta ut pensjonen før 67 år utformes med en sikkerhetsmargin. Dette vil sikre at mange får en høyere livsvarig pensjon og redusere kostnadene. Men det vil samtidig begrense muligheten til å ta ut pensjonen tidlig. Dersom ikke minstenivåene øker vesentlig, vil imidlertid de fleste med rett til AFP som er født i 1963 eller senere kunne ta ut full pensjon ved nedre aldersgrense for å ta ut pensjon.
 
-450
+## Prinsipper for å regulere pensjoner
 
-450
+### Innledning
 
-400
+Pensjonsrettigheter tjenes opp over lang tid, og pensjonene skal utbetales over lang tid. Det er derfor ønskelig med klare og forutsigbare prinsipper og regler for hvordan verdien av pensjonsrettighetene reguleres både mens pensjonen tjenes opp og når den utbetales. Klare regler betyr imidlertid ikke at den faktiske utviklingen i pensjonene blir forutsigbar.
 
-400
+I ordninger som er løpende finansiert (pay-as-you-go), som den norske folketrygden, der det ikke avsettes øremerkede midler i et fond, kan verdisikringen skje på ulike måter, for eksempel ved å regulere med faste indekser for lønns- og/eller prisstigning. Det er vanlig å skille mellom pensjon under opptjening, pensjon under utbetaling og minstesatser når vi vurderer hvordan pensjonen bør reguleres. Dette avsnittet handler primært om reguleringen av pensjon under utbetaling. I Norge har reguleringen av flere ordninger blitt regulert på samme måte som alderspensjon fra folketrygden, for eksempel AFP i privat og offentlig sektor og offentlig tjenestepensjon.
 
-350
+I private, fondsbaserte tjenestepensjonsordninger er utviklingen i verdien av pensjonene og opptjent pensjon som regel bestemt av den løpende avkastningen på den oppsparte pensjonskapitalen, selv om garantert regulering kan avtales.
 
-350
+### Prinsipper for å regulere løpende pensjoner
 
-300
+De fleste land har en form for regelstyrt regulering av offentlige pensjoner, normalt ved at veksten i løpende pensjoner er knyttet til pris- og/eller lønnsveksten. Reglene sikrer at pensjonistene normalt opprettholder kjøpekraften. Regelstyrt regulering gir større forutsigbarhet for pensjonistene og ble vesentlig mer utbredt etter at høy inflasjon på 1970-tallet undergravde verdien av pensjonene i mange land (Hohnerlein 2019). Regelstyrt regulering innebærer også at en kan unngå årlige, potensielt vanskelige, politiske beslutninger om reguleringen. Det tradisjonelle argumentet mot regelstyrt regulering er at det begrenser statens økonomiske handlefrihet, jf. Whitehouse (2009). For å sikre handlefriheten har flere land innført ‘sikkerhetsventiler’ som åpner for å fravike reguleringsreglene dersom den økonomiske situasjonen skulle tilsi det.
 
-300
+I Norge har særlig Pensjonistforbundet argumentert for at pensjonistorganisasjonene bør kunne forhandle med myndighetene om den årlige reguleringen av pensjonene (trygdeoppgjør), slik tilfellet var i Norge før pensjonsreformen. Forslaget har fått liten støtte.
 
-250
+*Prisregulering* betyr at løpende pensjoner øker i takt med en prisindeks, normalt konsumprisindeksen. Dette er den mest vanlige måten å regulere løpende pensjoner på, jf. avsnitt 10.2.3. Prisregulering innebærer at realverdien av pensjonene opprettholdes over tid. Pensjonistene sikres dermed at kjøpekraften opprettholdes også i perioder der den yrkesaktive befolkningen opplever reallønnsnedgang. Men prisregulering gjør at pensjonistene ikke får del i den økonomiske veksten. I perioder med høy reallønnsvekst vil avstanden mellom lønnstakernes og pensjonistenes inntekter øke. Siden lønningene over tid normalt øker en del mer enn prisene, kan avstanden mellom verdien av pensjonen og en gjennomsnittslønn bli stor på slutten av livet, etter mange år som pensjonist. For å sikre at også pensjonistene får en viss realinntektsøkning, kan en øke pensjonene med et tillegg ut over prisveksten.
 
-250
+*Lønnsregulering* betyr at løpende pensjoner øker i takt med en lønnsindeks. Oftest benyttes en gjennomsnittslønn, men det finnes mange varianter av dette. Lønnsregulering sikrer at verdien av pensjonene følger lønnsutviklingen i samfunnet, og det gir dermed pensjonistene en realinntektsutvikling på linje med det lønnstakerne får. I perioder der reallønningene faller, må imidlertid også pensjonistene akseptere en nedgang i realverdien av pensjonene.
 
-200
+Lønnsregulering innebærer at pensjonistene har samme realinntektsutvikling, men også samme usikkerhet med hensyn til realinntektsutviklingen, som lønnstakerne som gruppe. Det at pensjoner under utbetaling reguleres i takt med lønnsutviklingen kan være et viktig bidrag til pensjonssystemets sosiale og økonomiske bærekraft i den forstand at lønnstakere og pensjonister står last og brast i både gode og dårlige tider. Men det kan innvendes mot dette at pensjonistene har mindre evne til å håndtere risiko i form av svingninger i realinntekten enn yrkesaktive siden pensjonistene har lavere inntekt og mindre muligheter til å foreta individuelle tilpasninger for å øke inntekten, jf. Diamond (2009).
 
-200
+Oftest reguleres løpende pensjoner med en kombinasjon av lønns- og prisveksten. Å regulere med en kombinasjon av lønns- og prisveksten gjør at pensjonistene sikres en *andel* av den økonomiske veksten, og det begrenser reduksjonen i kjøpekraft i perioder med reallønnsnedgang. Å regulere med lønnsveksten fratrukket en fast faktor gjør at pensjonistene vil kunne oppleve nedgang i kjøpekraften i perioder med svak, men positiv, reallønnsutvikling.
 
-150
+Reguleringen av løpende pensjoner må ses i sammenheng med utgangsnivået. Dersom lavere regulering under utbetaling, alt annet likt, gir rom for høyere opptjening og dermed høyere utgangsnivåer innenfor en bærekraftig økonomisk ramme, så gir lavere regulering av løpende pensjoner en profil på utbetalingene som gir høyere ytelser tidlig i perioden som pensjonist og relativt lavere ytelser sent i utbetalingsperioden. I Sverige har man for eksempel valgt en forholdsvis sterk underregulering av løpende pensjon med 1,6 prosent i forhold til lønnsutviklingen (den såkalte «följsamhetsindexeringen») som så legges til grunn ved beregningen av delingstallene slik at nivået på pensjonen ved uttakstidspunktet blir høyere enn det som ville blitt resultatet uten underregulering.
 
-150
+### Regulering i andre land
 
-100
+Tabell 10.1 viser type pensjonsordning og reguleringsregimet i ulike land. Det går fram at mange land fortsatt har ytelsesbaserte ordninger. ‘DC’ (Defined Contribution) er innskuddsliknende ordninger, og det skilles i tabellen mellom ordninger som er fonderte og de som har en fiktiv fondering (Norge, Sverige, Italia, Hellas). Noen land har helt eller delvis poengsystemer der pensjonen beregnes som summen av opparbeidede poeng gjennom yrkeskarrieren multiplisert med en poengverdi.
 
-100
-1967 1972 1977 1982 1987 1992 1997 2002 2007
-Minstepensjon gifte
-Minstepensjon enslige
+Type pensjonsordning og reguleringsregime i ulike land
 
-Lønn
-Pensjon over minstepensjon
+03J1xx2
 
-Figur 11.2 Realverdien1 av lønn, pensjon over
-minstenivået2 og minstepensjon 1967–2010.
-Indekser 1967=100
-1
+|  | Type ordning | Reguleringsregime |
+|----|----|----|
+| Belgia | Ytelse | Pris |
+| Canada | Ytelse | Pris (bærekraft) |
+| Estland | Poeng/Fondert DC | 80 % lønnssum + 20 % pris |
+| Finland | Ytelse | 20 % lønn + 80 % pris |
+| Frankrike | Ytelse/poeng | Pris |
+| Hellas | Ytelse / Fiktiv DC | 50 % pris + 50 % BNP / pris |
+| Island | Ytelse | Pris (høyest av pris og lønn for minsteytelse) |
+| Italia | Fiktiv DC | Pris, 75 % av pris for høye pensjoner |
+| Japan | Ytelse | Lønn til 67 år, pris fra 68 år |
+| Latvia | Fiktiv DC / Fondert DC | Pris + 50 % av lønnssum |
+| Litauen | Poeng | Lønnssum |
+| Luxemburg | Ytelse | Pris, lønn (bærekraft) |
+| Nederland | Ytelse (tjenestepensjon) | Pris (bærekraft) |
+| Norge | Ytelse / Fiktiv DC | Lønn – 0,75 %; 50 % pris + 50 % lønn fra 2022 |
+| Polen | Fiktiv DC | Pris, lønn (bærekraft) |
+| Portugal | Ytelse | Pris, diskresjonært |
+| Slovakia | Poeng | 50 % pris + 50 % lønn |
+| Slovenia | Ytelse | 60 % lønn + 40 % pris |
+| Spania | Ytelse | Pris |
+| Sveits | Ytelse | 50 % pris + 50 % lønn |
+| Sverige | Fiktiv DC / Fondert DC | Lønn – 1,6 % (bærekraft) |
+| Tsjekkia | Ytelse | 50 % pris + 50 % lønn |
+| Tyrkia | Ytelse | Pris |
+| Tyskland | Poeng | Lønn – bærekraft |
+| Ungarn | Ytelse | Pris |
+| USA | Ytelse | Pris |
+| Østerrike | Ytelse | Diskresjonært (pris) |
 
-Deflatert med konsumprisindeksen.
-Pensjon over minstenivået er målt ved utviklingen i grunnbeløpet.
-Kilder: Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
-2
+OECD (2021) Pensions at a Glance 2021. Tabellene 3.2 og 3.3.
 
-[Side 252]
+Siste kolonne i tabellen viser reguleringsregimet. Det går fram at de fleste landene regulerer med utgangspunkt i pris- og/eller lønnsveksten. Av disse har flertallet prisregulering, mens få regulerer utelukkende med lønn. Fire land regulerer med gjennomsnittet av pris- og lønnsveksten, mens ytterligere tre land har en annen vekting av pris- og lønnsveksten. For tre av landene inngår lønnsummen, dvs. både lønnsvekst og sysselsettingsvekst. Norge og Sverige er de eneste landene som har regulert med lønnsveksten fratrukket en fast faktor. Østerrike er det eneste landet som ikke har en regelstyrt regulering. For noen av landene står det ‘bærekraft’, som betyr at det er en form for sikkerhetsmekanisme som åpner for at hovedregelen kan fravikes i visse situasjoner. Danmark inngår ikke i tabellen fordi den danske ‘folkepensjonen’, som reguleres i takt med lønnsveksten, er uavhengig av inntekten som yrkesaktiv og dermed er en minstesikringsordning.
 
-250
+## Regulering av alderspensjon fra folketrygden i Norge
 
-NOU 2022: 7
+### Regulering av grunnbeløpet siden 1967
 
-Kapittel 11
+Reguleringen fram til 2011
 
-Et forbedret pensjonssystem
+Grunnbeløpet ble innført som en del av folketrygden i 1967, og fram til 2010 var reguleringen av folketrygdens alderspensjon under utbetaling og opptjent pensjon direkte knyttet til grunnbeløpet.
 
-Tabell 11.1 Gjennomsnittlig årlig realvekst1 i lønn og pensjon 1967–2010. Prosent
+Grunnbeløpet ble fram til 2011 fastsatt av Stortinget etter forutgående drøftinger med pensjonistenes organisasjoner i det såkalte trygdeoppgjøret. Drøftingene hadde karakter av forhandlinger, og reguleringen skulle gjennomføres med utgangspunkt i retningslinjer som Stortinget hadde vedtatt. Etter trygdeoppgjøret la regjeringen fram et forslag for Stortinget.
 
-Lønn
+Grunnbeløpet ble i perioden 1967–2010 regulert etter ulike retningslinjer. I henhold til retningslinjene som gjaldt fram til 1978, ble det tatt sikte på en todelt regulering av grunnbeløpet. Det ble først gitt et pristillegg basert på veksten i konsumprisindeksen og deretter et velstandstillegg som skulle sikre pensjonistene en andel av velstandsøkningen.
 
-Alderspensjon
-utover
-minstepensjon2
+Etter 1978 gikk en bort fra den todelte reguleringen ved at det spesielle pristillegget ble sløyfet. Reguleringen av grunnbeløpet skulle begrunnes med forventninger om inntektsutviklingen for yrkesaktive og med prisstigningen.
 
-Minstepensjon
-enslige
+I 1991 kom det nye retningslinjer. Siktemålet med reguleringen av grunnbeløpet skulle nå være å gi pensjonistene en inntektsutvikling om lag på linje med «ventet inntektsutvikling for yrkesaktive» og i tråd med de prinsipper og mål som ble lagt til grunn for det inntektspolitiske opplegget ellers.
 
-Minstepensjon
-gifte
+I flere av trygdeoppgjørene, særlig på 1980-tallet og begynnelsen av 1990-tallet, ble det tatt inn andre elementer enn regulering av grunnbeløpet i trygdeoppgjørene. Det gjaldt blant annet bostøtte, garantert tilleggspensjon for unge uføre, og ikke minst opptrapping av særtillegget for å øke minstepensjonen. Forbedringer på andre områder som partene var enige om, gikk da på bekostning av den ordinære reguleringen av grunnbeløpet.
 
-1967–1970
+Retningslinjene ble igjen revidert høsten 1999. Siktemålet med reguleringen skulle nå være å gi pensjonister med pensjon fra folketrygden en inntektsutvikling «om lag på linje med utviklingen for yrkesaktive», og i tråd med de prinsipper og mål som ble lagt til grunn for det inntektspolitiske opplegget ellers. Når ordet «ventet» ble sløyfet, var det fordi en ønsket en klarere vektlegging av målet om parallell inntektsutvikling mellom pensjonister og yrkesaktive.
 
-1,6
+Stortinget vedtok 28. mai 2003 de retningslinjene for regulering av grunnbeløpet som gjaldt inntil pensjonsreformen trådte i kraft, jf. Innst. S. nr. 223 (2002–2003). Disse lød som følger:
 
-2,4
+«Etter drøftingar på førehand med organisasjonar for pensjonistane gjer Regjeringa framlegg for Stortinget om regulering av grunnbeløpet i folketrygda.
 
-7,2
+Reguleringa av grunnbeløpet skjer normalt 1. mai kvart år.
 
-8,0
+Siktemålet for reguleringa skal vere å gi pensjonistar med folketrygdpensjon ei inntektsutvikling minst på linje med utviklinga for yrkesaktive, korrigert for særlege tilhøve, og i tråd med dei prinsipp og mål som er lagt til grunn for gjennomføringa av det inntektspolitiske opplegget elles. Til grunn for reguleringa skal liggje venta inntektsutvikling for lønnstakarar i alt i reguleringsåret etter justering av grunnbeløpet for avvik mellom venta og reell lønnsauke siste år.
 
-1970–1980
+Venta inntektsutvikling for yrkesaktive blir fastsett med utgangspunkt i inntektsoppgjera for lønnstakarar i alt. Det skal følgje med eit bakgrunnsmateriale som viser kva tala for venta inntektsutvikling for yrkesaktive er basert på og andre tilhøve som har hatt innverknad på fastlegginga av grunnbeløpet. Materialet skal også vise korleis inntektsutviklinga har vore for yrkesaktive og pensjonistar siste år og i dei seinare åra. Oversikt over utviklinga for yrkesaktive i alt baserast på materiale om lønnsutviklinga frå Det tekniske berekningsutvalet for inntektsoppgjera.»
 
-2,3
+De nye retningslinjene innebar en sterkere understreking av at pensjonene skulle reguleres i takt med lønnsutviklingen. Det var også enkelte presiseringer, blant annet at en skulle ta hensyn til «avvik mellom venta og reell lønnsauke siste år» og at en skulle se på lønnsutviklingen for «lønnstakarar i alt». Det ble også åpnet for å ta hensyn til «særlege tilhøve».
 
-0,9
+Også med disse retningslinjene ble prinsippet om at pensjonen skulle reguleres i takt med inntektsutviklingen for yrkesaktive fraveket, blant annet ved at noe av «rammen» ble benyttet til å øke særtillegget for enslige i årene 2008–2010.
 
-3,3
+I de årlige trygdeoppgjørene med forhandlinger med pensjonistenes organisasjoner var fokus primært på reguleringen av løpende pensjoner. Systemet gjorde at langsiktige konsekvenser av de årlige beslutningene i liten grad ble vurdert, for eksempel konsekvensene for opparbeidede pensjonsrettigheter. Dersom kortsiktige hensyn får dominere ved den årlige reguleringen, skaper det uforutsigbarhet og en fare for at de årlige endringene akkumulerer seg til systemendringer som ikke er tilsiktet eller ønsket. Dette var en viktig del av bakgrunnen for omleggingen av trygdeoppgjørene fra 2011.
 
-3,9
+Reguleringen av grunnbeløpet fra 2011
 
-1980–1990
+Fra 2011 gikk en over til et system der grunnbeløpet ble regulert med lønnsveksten og reguleringsreglene ble fastsatt i lov og forskrift. Reguleringen av grunnbeløpet blir ikke lenger vedtatt av Stortinget, men fastsettes i forskrift ved kongelig resolusjon.
 
-0,4
+Grunnbeløpet i folketrygden er beskrevet i § 1-4 i folketrygdloven:
 
--0,3
+«Grunnbeløpet er en beregningsfaktor som har betydning for retten til ytelser og for størrelsen på ytelser etter denne loven.
 
-0,5
+Grunnbeløpet fastsettes av Kongen og reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten.
 
-0,5
+Til grunn for reguleringen legges forventet lønnsutvikling i reguleringsåret, justert for eventuelt avvik mellom forventet og faktisk lønnsutvikling siste to år.
 
-1990–2000
+Kongen gir forskrifter med nærmere regler om regulering av grunnbeløpet, herunder fra hvilket tidspunkt nytt grunnbeløp får virkning for de enkelte ytelsene etter denne loven.»
 
-2,1
+Nærmere bestemmelser om beregningen er fastsatt i forskrift 6. mai 2011 nr. 465 om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden.
 
-1,3
+Av forskriften § 2 framgår det at forventet lønnsutvikling i reguleringsåret skal settes lik regjeringens anslag for gjennomsnittlig årslønnsvekst for alle sektorer slik det framkommer i revidert nasjonalbudsjett. Faktisk lønnsutvikling for siste to år settes til gjennomsnittlig årslønnsvekst for lønnstakere. Det skal vurderes om det foreligger særlige forhold som har påvirket lønnsutviklingen for enkeltgrupper, og om effekten av dette skal holdes utenfor når lønnsveksten beregnes.
 
-2,6
+Forskriften § 3 inneholder tekniske regler om hvordan et eventuelt avvik mellom faktisk og forventet lønnsvekst skal inngå i beregningen av samlet lønnsvekst. Det skal først tas hensyn til avvikene de to siste år i prosentpoeng og deretter til den forventede prosentvise lønnsveksten i inneværende år. Samlet årslønnsvekst, avvik og forventet lønnsvekst fastsettes i prosent med to desimaler.
 
-3,2
+Nytt grunnbeløp fastsettes fra 1. mai slik at den prosentvise veksten i det gjennomsnittlige grunnbeløpet fra forrige kalenderår til inneværende kalenderår blir lik samlet årslønnsvekst.
 
-2000–2010
+Videre følger det av forskriften § 5 at når lønnsveksten som skal benyttes i reguleringen av grunnbeløpet og alderspensjonen blir fastsatt, skal tallgrunnlaget som beskrevet i forskriften § 2 drøftes med pensjonistenes, de funksjonshemmedes og arbeidstakernes organisasjoner. Med pensjonistenes organisasjoner menes organisasjoner som får statstilskudd etter forskrift 31. oktober 2012 nr. 1016 om tilskudd til pensjonistenes organisasjoner.
 
-2,5
+Overgangen til nytt system for regulering av grunnbeløpet har ført til at drøftingene med organisasjonene har fått nytt innhold. Drøftingene er nå avgrenset til å vurdere tallgrunnlaget for reguleringen. Gjennomføringen av trygdedrøftingene er nedfelt i en avtale mellom regjeringen og organisasjonene.
 
-2,4
+Den årlige reguleringen av alderspensjonene har langsiktige økonomiske konsekvenser, både for den enkelte og for staten. Reglene for regulering av pensjon må sikre forutsigbarhet. Utvalget mener derfor at reglene for regulering ikke egner seg for årlige forhandlinger. Stortinget bør vedta regler for hvordan pensjonene skal reguleres, og reglene bør bare endres etter grundige vurderinger av de langsiktige konsekvensene for statens utgifter og for pensjonistene. Dette er ikke til hinder for at det kan forhandles med pensjonistenes organisasjoner om andre elementer av betydning for pensjonistenes levekår.
 
-3,5
+Utviklingen i grunnbeløpet
 
-4,2
+Figur 10.1 viser hvilken utvikling reguleringsregimene har gitt i grunnbeløpet over tid når det korrigeres for den alminnelige lønnsutviklingen. Det går fram at grunnbeløpet gjennomgående ble regulert svakere enn lønnsveksten fram til 2001, mens det deretter har fulgt lønnsveksten. Unntakene er to år på slutten av 1960-tallet og en periode fra 1976 til 1979. Svingningene etter 2011 skyldes at grunnbeløpet reguleres med utgangpunkt i et anslag på lønnsveksten og korrigeres for ‘feil anslag’ to år tilbake i tid.
 
-1967–2010
+Fra 1967 til 2010 ble grunnbeløpet redusert med vel 23 prosent sammenliknet med det gjennomsnittlige lønnsnivået. Det tilsvarer 0,66 prosentpoeng lavere årlig vekst. Fra 1967 til 2001 var veksten i grunnbeløpet i gjennomsnitt 0,82 prosentpoeng lavere enn veksten i lønningene. Figur 10.1 viser at grunnbeløpet har fulgt utviklingen i lønningene siden 2001.
 
-1,8
+Grunnbeløpet 1967–2021, lønnsdeflatert. Indeks 1967=100
 
-1,2
+Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
 
-2,8
+### Regulering av alderspensjon fra 2011 til 2021
 
-3,3
+Før 2011 bestod alderspensjonen fra folketrygden av grunnpensjon, tilleggspensjon og eventuelt særtillegg. Alle de tre komponentene ble beregnet som andeler av grunnbeløpet (G) og reguleringen av grunnbeløpet var dermed sentralt for utviklingen i løpende pensjoner. Pensjonen til gifte og (fra 1994) samboende med felles barn, ble i tillegg påvirket av at grunnpensjonen til gifte og samboende ble økt fra 0,75 til 0,85 G i perioden fra 1. mai 2003 til 1. mai 2005. Minstepensjonene ble også påvirket av en rekke økninger i særtillegget, jf. avsnitt 11.2.
 
-1
+Fra 2011 ble den årlige reguleringen fullt ut regelstyrt, og det ble egne regler for regulering av pensjonene i tillegg til reglene for å regulere grunnbeløpet. Grunnbeløpet og opparbeidede pensjonsrettigheter ble regulert med lønnsveksten, mens pensjoner under utbetaling ble regulert med lønnsveksten og deretter fratrukket 0,75 prosent.
 
-Deflatert med konsumprisindeksen.
-Pensjon over minstenivået er målt ved utviklingen i grunnbeløpet.
-Kilder: Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
-2
+Satsene for minste pensjonsnivå ble regulert i samsvar med lønnsveksten og deretter justert for effekten av levealdersjusteringen for 67-åringer i reguleringsåret, men reguleringen skulle ikke være lavere enn lønnsveksten fratrukket 0,75 prosent. Garantibestemmelsen ville fått virkning dersom effekten av levealdersjusteringen var over 0,75 prosent, noe som ikke har vært tilfellet i perioden 2011–2021.
 
-sent, mens minstepensjonen for gifte økte med
-302 prosent. I 2010 utgjorde minstepensjonen for
-enslige 34,1 prosent av en brutto gjennomsnittslønn, mens det tilsvarende tallet for gifte var 31,6
-prosent. Etter skatt var kompensasjonsgraden
-46,9 prosent for enslige og 43,3 prosent for gifte.
-Den gjennomsnittlige årlige realveksten i pensjoner og lønninger i ulike perioder fram til 2010
-er sammenfattet i tabell 11.1.
+En noe mindre regulering av løpende pensjoner enn av opptjente rettigheter var et premiss i pensjonsreformen; både dagens og framtidige pensjonister skulle bidra til å styrke bærekraften i pensjonssystemet. I perioden 1967–2010 ble både løpende pensjoner og opptjente rettigheter regulert svakere enn lønnsveksten, men fra 2011 ble det lovfestet at opptjente rettigheter skulle reguleres med lønnsveksten.
 
-11.2.3 Minsteytelser 2010–2021
-Fra 2011 ble systemet for minsteytelsene lagt om.
-Minstenivåene ble videreført, og det ble vedtatt at
-de årlig skulle reguleres i takt med lønnsveksten fratrukket virkningen av levealdersjustering ved 67 år.
-For pensjon opptjent etter gamle regler ble
-minstenivåene – kalt minste pensjonsnivå – fra
-2011 fastsatt som kronebeløp. Overgangen innebar ingen nivåendring av minsteytelsene, men var
-en teknisk omlegging ved at det ikke ble gitt særtillegg til nye pensjonister født i 1943 eller senere.
-Hvis summen av grunnpensjon og tilleggspensjon
-var mindre enn minste pensjonsnivå, fikk nye pensjonister i stedet for særtillegg et pensjonstillegg
-som dekket differansen.
-Fra 1. februar 2016 kunne det første årskullet
-med opptjening i ny opptjeningsmodell for alderspensjon ta ut pensjon. Dette gjaldt personer født i
-1954 som tok ut alderspensjon fra 62 år. Det ble
-dermed også fastsatt minstesatser – kalt garantipensjon – for pensjon fra ny alderspensjon. Ordinær og høy sats for garantipensjon ble satt lik de
-tilsvarende satsene for minste pensjonsnivå, og
-også garantipensjonen ble dermed avhengig av
-sivilstand. Personer med opptjening i både gam-
+Fratrekket på 0,75 prosent ved reguleringen av løpende pensjoner og fratrekket i minsteytelsene for virkningen av levealdersjustering er innstramminger sammenliknet med de retningslinjene som gjaldt før 2011. De nye reglene for regulering av minsteytelsene innebar en klar endring sammenliknet med utviklingen fram til 2010, da minsteytelsene økte klart mer enn lønningene, se kapittel 11. De nye reglene for regulering av pensjoner over minstenivåene gir imidlertid en årlig økning på linje med den faktiske utviklingen fram til 2001 når en sammenlikner med lønnsutviklingen. Utviklingen i verdien av pensjonene beskrives nærmere i punkt 10.4.2.
 
-mel og ny opptjeningsmodell får et minstenivå
-som er en kombinasjon av minste pensjonsnivå og
-garantipensjon. Personer født i 1963 og senere får
-garantipensjon.
-Figur 11.3 viser utviklingen i minste pensjonsnivå og garantipensjon fra 2010 målt som andel av
-grunnbeløpet. Omleggingen av reguleringen av
-minsteytelsene innebar at minste pensjonsnivå
-som andel av grunnbeløpet ble redusert i årene
-etter 2011.
-Siden 2016 har Stortinget flere ganger, i tillegg
-til den den ordinære reguleringen, vedtatt å øke
-minste pensjonsnivå:
-– Fra 1. september 2016 økte lav og ordinær sats
-for minste pensjonsnivå for alderspensjonister
-med 4000 kroner, og det ble innført en ny, særskilt sats for enslige alderspensjonister som var
-4000 kroner høyere enn høy sats. Fra samme
-tidspunkt økte grunnpensjonen til gifte og samboende pensjonister fra 0,85 til 0,90 G, noe som
-økte lav og ordinær sats for minste pensjonsnivå ytterligere.
-– Fra 1. september 2017 økte den særskilte satsen for enslige minstepensjonister med
-4000 kroner, mens de øvrige satsene for minste
-pensjonsnivå økte med 1000 kroner.
-– Fra 1. september 2019 økte igjen den særskilte
-satsen for enslige minstepensjonister med
-4000 kroner.
-– Fra 1. mai 2020 ble den særskilte satsen for enslige minstepensjonister økt med 4000 kroner.
-– Fra 1. juli 2021 ble den særskilte satsen for enslige minstepensjonister økt med 5000 kroner.
-I tillegg slo garantibestemmelsen om at minstenivåene ikke skal øke mindre enn løpende pensjo-
+### Fra gjennomsnitt av pris og lønn til lønn minus 0,75 prosent
 
-[Side 253]
+Pensjonskommisjonen
 
-251
+Pensjonskommisjonen (NOU 2004: 1) foreslo at løpende pensjoner skulle reguleres med et gjennomsnitt av pris- og lønnsveksten. Begrunnelsen for å regulere pensjonene mindre enn økningen i lønningene var «å sikre bærekraftige offentlige finanser på lang sikt». De pekte også på at denne reguleringen, ville «muliggjøre at en kan opprettholde et høyere kompensasjonsnivå i folketrygden ved overgang til pensjon enn det som ellers hadde vært mulig. Trolig vil dette også gi en profil på utbetalingene i perioden som pensjonist som er bedre i samsvar med folks ønsker og behov». I dette ligger at å regulere pensjonene lavere enn lønnsveksten, innenfor en gitt økonomiske ramme, vil gi rom for et høyere startnivå på pensjonen og dermed gi pensjonistene bedre økonomi mens helsa og forbruksevnen fortsatt er god. Kommisjonen skriver videre at å regulere løpende pensjoner med et gjennomsnitt av pris- og lønnsveksten vil sikre pensjonistenes kjøpekraft og i tillegg gi pensjonistene en del av den generelle velstandsutviklingen.
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+Pensjonskommisjonen foreslo at minstenivåene burde reguleres med lønnsveksten, men korrigert for virkningen av levealdersjustering. Årsaken til at kommisjonen ikke foreslo lønnsregulering var at dette ville «innebære at en stadig større andel av dem som pensjonerer seg ved 67 år i framtiden vil omfattes av garantipensjonen». Kommisjonen pekte på at det kan være uheldig med to ulike regimer for å regulere pensjon, og vurderte om også minstenivåene burde reguleres med et gjennomsnitt av pris- og lønnsveksten. Når de likevel ikke foreslo dette, synes begrunnelsen å være at kommisjonens forslag ble antatt å gi en noe bedre utvikling av minstenivåene over tid. De skriver videre at «Dette alternativet gir videre en om lag tilsvarende effekt av delingstallet for personer på garantipensjon som for personer med inntektspensjon ved pensjonering ved 67 år». For yrkesaktive som tar ut pensjonen ved 67 år blir effekten av levealdersjusteringen lik endringen i delingstallet ved 67 år.
 
-GP enslig
+Høringsnotat om ny alderspensjon i folketrygden
 
-GP gift
+Forslagene fra Pensjonskommisjonen om regulering av løpende pensjoner ble tatt inn i de to stortingsmeldingene om pensjonsreformen (St.meld. nr. 12 (2004–2005) og St.meld. nr. 5 (2006–2007)) og inngikk også i det første pensjonsforliket på Stortinget 26. mai 2005. Det var først i høringsnotatet om ny alderspensjon i folketrygden 28. januar 2009 at det ble foreslått at løpende pensjoner skulle reguleres med lønnsveksten fratrukket 0,75 prosent. Dette forslaget ble presentert som en alternativ måte å gjennomføre Stortingets vedtak på: «Størrelsen på faktoren er fastsatt ut fra at reguleringen over tid forventes å gi om lag samme resultat som regulering med gjennomsnittet av lønns- og prisveksten.» Begrunnelsen for forslaget var at det ville bidra «til et mer konsistent og bærekraftig pensjonssystem». Bak denne formuleringen synes det å ligge to forhold: 1) Konsistens mellom reglene for opptjening og uttak, og 2) Stabilisere pensjonsutgiftene som andel av verdiskapingen.
 
-2021
+Konsistens
 
-2020
+Delingstallene og forholdstallene bestemmer hvor høy den årlige pensjonen blir ved uttak i ulike aldre. Når tallene fastsettes det året årskullet fyller 61 år, må en også ta hensyn til hvordan pensjonen skal reguleres etter at den er tatt ut. Dette er særlig viktig i ny folketrygd som bygger på at delingstallene skal sørge for at (nåverdien av) den pensjonen som forventes utbetalt skal være lik opptjent pensjon (pensjonsbeholdningen). Dersom reguleringen knyttes til lønnsveksten – med eller uten et fast fratrekk – kan delingstallene beregnes slik at summen av utbetalt pensjon automatisk blir lik opptjent pensjon (pensjonsbeholdningen) for en som lever like lenge som forutsatt når delingstallene fastsettes. Dersom reguleringen også avhenger av prisveksten, må det gjøres et anslag på reallønnsveksten når delingstallene beregnes, og den faktiske, samlede pensjonsutbetalingen kan bli større eller mindre enn pensjonsbeholdningen. Hvis reallønnsveksten blir sterkere enn lagt til grunn ved beregningen av delingstallene, vil samlet pensjonsutbetaling bli høyere enn pensjonsbeholdningen, og omvendt hvis den blir lavere.
 
-2019
+Stabilisere pensjonsutgiftene
 
-MP gift
+Når reguleringen av løpende pensjoner knyttes til lønnsutviklingen, vil pensjonistenes inntekter i større grad svinge i takt med variasjonene i de yrkesaktives inntekter. Statens utgifter til pensjon vil dermed utgjøre en mer stabil andel av verdiskapingen i samfunnet. Dersom pensjonene reguleres med et gjennomsnitt av lønns- og prisveksten, vil pensjonsutgiftene øke som andel av lønnsinntektene i perioder med svak reallønnsvekst, og avta i perioder med sterk reallønnsvekst. Det betyr at pensjonsutgiftene blir tyngre å finansiere i perioder med svak økonomisk vekst, mens høy vekst letter finansieringen av pensjonene. Pensjonene kan imidlertid da virke som en «automatisk stabilisator» ved at de demper konjunktursvingninger.
 
-1
+Tidligpensjon
 
-Pensjon korrigert for prisstigning målt ved konsumprisindeksen.
-Kilder: Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
+Et moment som *ikke* er nevnt i høringsnotatet, men først i Ot.prp. nr. 37 (2008–2009) der lovforslaget om ny alderspensjon ble lagt fram, er betingelsene for å kunne ta ut pensjon før 67 år. For å kunne ta ut pensjon før 67 år må alderspensjonen ved 67 år minst tilsvare minste pensjonsnivå ved 67 år (særskilt sats enslige). Minste pensjonsnivå har blitt regulert med lønnsveksten fratrukket virkningen av levealdersjusteringen ved 67 år, målt ved endringen i forholdstallet mellom årskull. Siden forholdstallet fastsettes endelig det året årskullet fyller 61 år, er minste pensjonsnivå ved 67 år kjent på uttakstidspunktet, målt som andel av grunnbeløpet. Når løpende pensjoner reguleres med lønnsveksten fratrukket en fast faktor og grunnbeløpet reguleres med lønnsveksten, vil også løpende pensjoner ved 67 år målt som andel av grunnbeløpet være kjent på uttakstidspunktet. En trenger dermed ikke å gjøre anslag på framtidig prisvekst for å kunne vurdere om vilkåret for tidliguttak vil være oppfylt.
 
-114
+Dersom pensjon under utbetaling blir regulert med gjennomsnittet av pris- og lønnsveksten, må anslag på framtidig prisutvikling inngå i vilkårsvurderingen. Dersom prisveksten blir lavere enn forutsatt – reallønnsveksten blir høyere – vil løpende pensjoner øke mindre enn forutsatt målt i antall grunnbeløp, og pensjonen ved 67 år kan bli lavere enn minste pensjonsnivå. Dette vil, med dagens regler, utløse et tillegg til pensjonen og dermed øke kostnadene.
 
-114
+### Regulering av alderspensjon i 2021 og senere
 
-112
+I perioden fra 2015 til 2020 var det negativ eller lav vekst i realverdien av løpende pensjoner, jf. figur 10.2. Til sammenlikning var det bare i ett av disse årene, 2016, at reallønnsveksten var negativ. Det går fram av Ot.prp. nr. 37 (2008–2009) at departementet var oppmerksom på at å regulere med gjennomsnittet av pris- og lønnsveksten ville gi lavere sannsynlighet for at pensjonistene fikk negativ kjøpekraftsutvikling i enkelte år enn når pensjonene ble regulert med lønnsveksten fratrukket en fast faktor på 0,75 prosent: «Risikoen for negativ kjøpekraftsutvikling antas således å være relativt liten med en fast faktor på 0,75 prosent. Perioder som gir negativ kjøpekraftsutvikling, vil dessuten normalt være relativt kortvarige».
 
-112
+Prosentvis årlig realvekst i løpende alderspensjon fra folketrygden 2011–2021<sup>1</sup>
 
-110
+<sup>1</sup> Gjelder pensjoner som er høyere enn minstepensjon. Prisveksten er målt ved konsumprisindeksen.
 
-110
+Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
 
-108
+I alle årene i perioden 2015–2020 ville det vært gunstigere å regulere løpende pensjoner med et gjennomsnitt av pris- og lønnsveksten. Dette ledet fram til at Stortinget 16. februar 2021 enstemmig vedtok at løpende pensjoner skal reguleres med gjennomsnittet av pris- og lønnsveksten fra 2022.
 
-108
+Stortinget gjorde flere vedtak i 2020 og 2021 om reguleringen av pensjonene i 2021. Det endelige vedtaket kom ved behandlingen av trygdeoppgjøret, der Stortinget vedtok at økningen i løpende pensjoner fra 1. mai skulle være slik at årsveksten ble 3,83 prosent, det samme som veksten i grunnbeløpet.[^93] Det innebar en økning i løpende pensjoner fra 1. mai på 5,36 prosent. Med de ordinære reglene ville økningen vært 4,19 prosent.
 
-106
+Regjeringen presenterte et forslag til nye regler for regulering av pensjon fra 2022 i Prop. L 41 (2021–2022) og forslaget er vedtatt av Stortinget, jf. Innst. 194 L (2021–2022) og Lovvedtak 50 (2021–2022). De nye reglene innebærer at både løpende pensjoner og minstenivåene skal reguleres med gjennomsnittet av pris- og lønnsveksten fra 2022. Reglene beskrives under.
 
-106
+Regulering av pensjon opptjent etter kapittel 19
 
-104
+Kapittel 19 i folketrygdloven har regler for pensjon opptjent med ‘gamle’ regler. I § 19-14 omtales regulering av pensjon under opptjening og utbetaling:
 
-104
+«Pensjon under opptjening reguleres gjennom endringer i grunnbeløpet, se § 1-4. Restpensjon, se § 19-10, reguleres i samsvar med lønnsveksten.
 
-102
+Pensjoner under utbetaling reguleres i samsvar med et gjennomsnitt av lønns- og prisvekst.
 
-102
+Satsene for minste pensjonsnivå, se § 19-8, reguleres i samsvar med andre ledd.
 
-100
+Regulering etter første til tredje ledd skjer årlig med virkning fra 1. mai.
 
-100
-2021
+Dersom vedkommende mottar hel alderspensjon og utbetalt pensjon blir lavere enn satsen for minste pensjonsnivå som vedkommende har rett til etter § 19-8, skal differansen utbetales som et tillegg til pensjonen. Som utbetalt pensjon etter denne bestemmelsen inngår også ytelser som kan medregnes ved tidliguttak etter § 19-11 tredje ledd. Se også § 19-15 andre ledd.
 
-116
+Til grunn for reguleringen legges forventet lønnsutvikling i reguleringsåret, justert for eventuelt avvik mellom forventet og faktisk lønnsutvikling siste to år, og forventet prisvekst i reguleringsåret, justert for eventuelt avvik mellom forventet og faktisk prisvekst året før.
 
-2020
+Ved første regulering etter uttak eller endring av uttaksgrad, skal pensjonen eller restpensjonen reguleres etter første og andre ledd i forhold til når på året pensjonen tas ut eller endres.
 
-118
+Kongen fastsetter reguleringsfaktorer etter første og andre ledd og satser for minste pensjonsnivå etter tredje ledd, jf. § 19-8.
 
-116
+Kongen gir forskrifter med nærmere regler om regulering etter denne paragrafen.
 
-2019
+Departementet gir forskrifter med nærmere regler om framgangsmåten ved regulering som nevnt i tredje og sjuende ledd.»
 
-118
+Siden grunnbeløpet reguleres med lønnsveksten, innebærer første ledd at pensjon under opptjening skal reguleres med lønnsveksten, mens andre ledd slår fast at pensjon under utbetaling skal reguleres med gjennomsnittet av lønns- og prisvekst. Det går fram av tredje ledd at satsene for minste pensjonsnivå skal reguleres på samme måte som pensjon under utbetaling.
 
-2012
+Regulering av pensjon opptjent etter kapittel 20
 
-ner inn 1. mai 2021, og alle minstesatsene økte
-prosentvis like mye som løpende pensjoner.
-Figur 11.3 viser at satsene for minste pensjonsnivå for både enslige og gifte nå ligger høyere enn
-det som følger av reguleringsreglene. Satsene for
-garantipensjon samt minste pensjonsnivå for gifte
-ligger nå lavere enn satsene i 2010 målt i antall
-grunnbeløp, mens minste pensjonsnivå for enslige
-ligger høyere. De særskilte økningene i minste
-pensjonsnivå for enslige har altså vært større enn
-effekten av den ordinære reguleringen. Garantipensjonen, som ikke har vært økt særskilt slik
-som minste pensjonsnivå, har, fram til 2021, fulgt
-forløpet i reguleringsbestemmelsen i loven.2
-Figur 11.4 viser utviklingen i realverdien av
-minsteytelsene etter 2010. Det går fram at kjøpekraften økte relativt mye fram til 2014, men gikk
-deretter litt ned i to år. Fra 2016 har realverdien av
-minste pensjonsnivå for enslige igjen økt mye,
-mens realverdien av garantipensjonen har vært
-relativt stabil.
-Figur 11.5 viser utviklingen i realverdien av lønninger og pensjoner siden 2010. Det går fram at
-minste pensjonsnivå for enslige har økt klart mer
-enn lønningene etter 2016, mens de andre minste-
+Kapittel 20 i folketrygdloven har regler for pensjon opptjent med nye regler. § 20-18 har regler for regulering av pensjonsbeholdning og pensjoner:
 
-MP enslig
+«Pensjonsbeholdningen reguleres årlig i samsvar med lønnsveksten.
 
-Figur 11.4 Realverdien1 av minste pensjonsnivå
-(MP) og garantipensjon (GP) for enslige og gifte.
-Indekser 2010=100
+Pensjoner under utbetaling reguleres i samsvar med et gjennomsnitt av lønns- og prisvekst.
 
-2011
+Satsene for garantipensjon, se § 20-9, reguleres i samsvar med andre ledd. Regulering etter første til tredje ledd skjer årlig med virkning fra 1. mai.
 
-Satsen for enslige var fram til 2016 lik satsen for gifte som
-forsørget ektefelle. Fra 2016 ble det fastsatt en egen særskilt sats for enslige. For minste pensjonsnivå for gifte er det
-brukt ordinær sats.
-Kilde: Arbeids- og velferdsdirektoratet.
+Dersom vedkommende mottar hel alderspensjon og utbetalt pensjon blir lavere enn satsen for garantipensjon som vedkommende har rett til etter §§ 20-9 og 20-10, skal differansen utbetales som et tillegg til pensjonen. Som utbetalt pensjon etter denne bestemmelsen inngår også ytelser som kan medregnes ved tidliguttak etter § 20-15 tredje ledd. Se også § 20-19 andre ledd.
 
-2018
+Til grunn for reguleringen legges forventet lønnsutvikling i reguleringsåret, justert for eventuelt avvik mellom forventet og faktisk lønnsutvikling siste to år, og forventet prisvekst i reguleringsåret, justert for eventuelt avvik mellom forventet og faktisk prisvekst året før.
 
-98
-2010
+Ved første regulering etter uttak eller endring av uttaksgrad, skal pensjonen eller pensjonsbeholdningen reguleres etter første og andre ledd i forhold til når på året pensjonen tas ut eller endres.
 
-100
+Kongen fastsetter reguleringsfaktorer etter første og andre ledd og satser for garantipensjon etter tredje ledd, jf. § 20-9.
 
-98
+Kongen gir forskrifter med nærmere regler om regulering etter denne paragrafen.
 
-2021
+Departementet gir forskrifter med nærmere regler om framgangsmåten ved regulering som nevnt i tredje og sjuende ledd.»
 
-2020
+Det går fram at opptjent pensjon (pensjonsbeholdningen), pensjoner under utbetaling og minstenivåene (garantipensjon) skal reguleres på tilsvarende måte som pensjon etter kapittel 19.
 
-2019
+## Inflasjon, lønnsvekst og pensjon 1967–2021
 
-2018
+### Inflasjon og lønnsvekst
 
-2017
+På slutten av 1960-tallet var prisstigningen lav, mens den økte og holdt seg på et høyt nivå gjennom 1970-tallet og langt ut på 1980-tallet, jf. figur 10.3. I perioden 1969–1988 steg prisene i gjennomsnitt med 8,5 prosent per år. Så sent som i 1987 var prisstigningen på 8,9 prosent. Etter dette gikk prisstigningen ned, og den har etter 1990 holdt seg på et nivå rundt 1–3 prosent per år. I perioden 1991–2021 steg prisene i gjennomsnitt med 2,1 prosent per år. Laveste prisstigning var i 2004 med 0,4 prosent, mens prisstigningen var høyest i 2008 med 3,8 prosent.
 
-1
+Prosentvis årlig nominell lønns- og prisvekst 1967–2021
 
-Jf. fltrl. § 19-14 og § 20-18.
+Statistisk sentralbyrå.
 
-100
+Også den nominelle lønnsveksten var høy gjennom 1970-tallet og inn på 1980-tallet. Fra 1967 til 1988 økte lønningene årlig med 9,6 prosent i gjennomsnitt. Fra 1988 til 2015 økte lønningene i gjennomsnitt med 4,3 prosent årlig, mens veksten fra 2015 til 2021 har vært på 2,8 prosent.
 
-MP gift
-GP gift
+Figur 10.4 viser utviklingen i reallønningene i perioden. I gjennomsnitt for hele perioden har reallønningene økt med 1,7 prosent årlig, men figuren viser at det har vært store årlige variasjoner. Særlig fram til begynnelsen av 1990-tallet var variasjonene store, og det var flere år med negativ eller svært lav reallønnsvekst. I gjennomsnitt fra 1967 til 1990 økte reallønningene årlig med 1,3 prosent.
 
-Figur 11.3 Minste pensjonsnivå (MP) og
-garantipensjon1 (GP) for enslige og gifte målt som
-andel av grunnbeløpet 2010–2021. Årlig
-gjennomsnitt
+Prosentvis årlig reallønnsvekst 1967–2021
 
-2
+Statistisk sentralbyrå.
 
-102
+Etter at prisveksten ble mer moderat og stabil fra tidlig på 1990-tallet, fulgte en periode med høy vekst i reallønningene. Fra 1990 til 2013 økte reallønningene i gjennomsnitt med 2,3 prosent årlig, og veksten var aldri under 1,0 prosent. Siden 2013 har veksten vært lav; i gjennomsnitt 0,4 prosent årlig. Det er bare i to tidligere perioder at veksten har vært lavere: Fra 1977 til 1983 *falt* reallønningene i gjennomsnitt med 0,4 prosent årlig, mens det var nullvekst fra 1987 til 1990.
 
-2010
+### Utviklingen i løpende alderspensjoner fra 1967 til 2010
 
-MP enslig
-GP enslig
+Under beskrives utviklingen i løpende pensjoner i perioden 1967–2010. Utviklingen i minsteytelsene i pensjonssystemet omtales i kapittel 11. Figur 10.5 viser utviklingen i reallønn og realverdien av pensjon for enslige utover minstepensjon før pensjonsreformen. Pensjon utover minstenivå er beregnet ved realveksten i grunnbeløpet. Figuren viser at disse størrelsene har variert mye over tid. Samlet over hele perioden har reallønningene i gjennomsnitt økt med 1,8 prosent årlig, mens pensjonene har økt med 1,2 prosent, se tabell 10.2. At grunnbeløpet økte mindre enn lønnsveksten påvirket ikke bare løpende pensjoner, det reduserte også verdien av allerede opptjente pensjonsrettigheter.
 
-2016
+Prosentvis årlig realvekst i lønn og pensjon utover minstenivået. Enslige 1967–2010
 
-2015
+Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
 
-2014
+Den gjennomsnittlige årlige realveksten i pensjoner og lønninger i ulike perioder er sammenfattet i tabell 10.2. Det går fram at alderspensjonen har økt mindre enn lønningene i alle 10-årsperiodene siden 1970. Forskjellen var særlig stor på 1970-tallet, mens veksten var om lag lik i perioden 2000–2010.
 
-2013
+Utvikling i gjennomsnittlig årlig realvekst i lønn og pensjon 1967–2010. Prosent
 
-2012
+03J1xt1
 
-2011
+|             |  Lønn | Alderspensjon utover minstepensjon |
+|-------------|------:|-----------------------------------:|
+| 1967–1970   |   1,6 |                                2,4 |
+| 1970–1980   |   2,3 |                                0,9 |
+| 1980–1990   |   0,4 |                               -0,3 |
+| 1990–2000   |   2,1 |                                1,3 |
+| 2000–2010   |   2,5 |                                2,4 |
+| *1967–2010* | *1,8* |                              *1,2* |
 
-2010
+Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
 
-1,6
+Den samlede effekten av reguleringen av pensjoner i de 43 årene fra 1967 til 2010 er illustrert i figur 10.6. Mens reallønningene økte med 114 prosent i perioden, hadde pensjonen over minstepensjon en reell økning på 64 prosent.
 
-104
+Reallønn og realverdi av pensjon utover minstenivået 1967–2010. Indeks 1967=100
 
-102
+Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
 
-2018
+### Utviklingen i alderspensjonen fra 2011
 
-1,6
+I 2011 trådte nye regler for regulering av pensjon i kraft: Løpende pensjoner ble regulert med lønnsveksten fratrukket 0,75 prosent. De første årene i perioden var det god realvekst i både lønninger og pensjoner, men siden 2015 har veksten i realverdiene vært klart svakere, jf. tabell 10.3 og figur 10.7. I årene fra 2015 til 2021 økte reallønningene i gjennomsnitt med bare 0,3 prosent årlig, mens realverdien av løpende pensjoner årlig ble redusert med 0,5 prosent i gjennomsnitt. Realverdien av løpende pensjoner var likevel 3,4 prosent høyere i 2021 enn i 2010.
 
-106
+Årlig utvikling i alderspensjonistenes kjøpekraft 2011–2021. Prosent
 
-104
+06J2xt2
 
-2017
+<table>
+<colgroup>
+<col style="width: 40%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 5%" />
+<col style="width: 11%" />
+<col style="width: 17%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th colspan="2">Nominell vekst</th>
+<th></th>
+<th colspan="2">Realvekst</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Lønn</td>
+<td>Priser</td>
+<td></td>
+<td>Lønn</td>
+<td>Alderspensjon utover minstenivået</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>4,2</td>
+<td>1,3</td>
+<td></td>
+<td>2,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>4,0</td>
+<td>0,6</td>
+<td></td>
+<td>3,3</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>3,9</td>
+<td>2,1</td>
+<td></td>
+<td>1,7</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>3,1</td>
+<td>2,1</td>
+<td></td>
+<td>1,0</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>2,8</td>
+<td>2,1</td>
+<td></td>
+<td>0,6</td>
+<td>-0,4</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>1,7</td>
+<td>3,6</td>
+<td></td>
+<td>-1,8</td>
+<td>-1,8</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>2,3</td>
+<td>1,8</td>
+<td></td>
+<td>0,5</td>
+<td>-0,9</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>2,8</td>
+<td>2,7</td>
+<td></td>
+<td>0,0</td>
+<td>-0,8</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>3,5</td>
+<td>2,2</td>
+<td></td>
+<td>1,3</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>3,1</td>
+<td>1,3</td>
+<td></td>
+<td>1,8</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>3,5</td>
+<td>3,5</td>
+<td></td>
+<td>0,0</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>Årlige gjennomsnitt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>2015–2021</em></td>
+<td><em>2,8</em></td>
+<td><em>2,5</em></td>
+<td></td>
+<td><em>0,3</em></td>
+<td><em>-0,5</em></td>
+</tr>
+<tr>
+<td><em>2011–2021</em></td>
+<td><em>3,1</em></td>
+<td><em>2,2</em></td>
+<td></td>
+<td><em>0,8</em></td>
+<td><em>0,1</em></td>
+</tr>
+</tbody>
+</table>
 
-1,7
+Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
 
-106
+Figur 10.7 viser utviklingen fra 2010 til 2021 i lønn og pensjon korrigert for prisstigningen målt ved konsumprisindeksen. Samlet har reallønningene økt med 11,8 prosent i perioden, mens realverdien av pensjonene har økt med 3,4 prosent.
 
-2017
+Indekser for realverdien av lønn og pensjon 2010–2021. 2010=100
 
-1,7
+Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
 
-108
+Kjøpekraften til pensjonene påvirkes også av endringer i skattene. I Meld. St. 33 (2020–2021) anslås det at alderspensjonistene samlet har fått en skattelettelse over perioden 2014–2021 på vel fem mrd. kroner. Kjøpekraften har dermed økt noe mer enn ytelsene før skatt.
 
-2016
+## Tilpasninger når løpende pensjoner skal reguleres med gjennomsnittet av pris- og lønnsvekst
 
-1,8
+### Innledning
 
-110
+Løpende pensjoner skal reguleres med gjennomsnittet av lønns- og prisveksten fra 2022. På bakgrunn av dette, ble utvalgets mandat presisert i brev til utvalget fra daværende Arbeids- og sosialminister 26. mars 2021:
 
-108
+«Utvalget må vurdere om en slik omlegging tilsier at det bør gjøres andre endringer i pensjonssystemet. Eksempler på forhold som utvalget må vurdere er vilkåret for å ta ut alderspensjon før 67 år, reguleringen av minsteytelsene og tiltak som kan sikre et konsistent pensjonssystem, herunder mulighetene til å opprettholde en nøytral uttaksmodell.»
 
-2016
+Reguleringen av minsteytelsene vurderes i kapittel 11, mens de øvrige temaene vurderes i dette avsnittet.
 
-1,8
+Reglene for å regulere løpende pensjoner med gjennomsnittet av pris- og lønnsveksten bør bygge på de reguleringsreglene som gjaldt før 2022, jf. avsnitt 10.3.2. Da ble først årsveksten i grunnbeløpet i folketrygden (G) beregnet ved å ta utgangspunkt i anslaget for årslønnsveksten i inneværende år i revidert nasjonalbudsjett og deretter ble det justert for eventuelle avvik mellom forventet og faktisk årslønnsvekst de to foregående årene. Deretter ble veksten i G fra 1. mai beregnet, og til slutt ble veksten i løpende pensjoner fra 1. mai fastsatt ved å trekke 0,75 prosent fra G-veksten.
 
-110
+Disse reglene er fra 2022 tilpasset regulering med gjennomsnittet av pris- og lønnsveksten, jf. avsnitt 10.3.4. Reguleringen av G skal gjennomføres som tidligere. I tillegg må det fastsettes et anslag på årsveksten i konsumprisindeksen. På tilsvarende måte som for lønnsveksten tas det utgangspunkt i anslaget for prisveksten i revidert nasjonalbudsjett, men dette må korrigeres for et eventuelt avvik mellom faktisk prisvekst året før og anslaget på prisveksten året før. Med anslaget på årsveksten i G (lønnsveksten) og det korrigerte anslaget på årsveksten i prisene kan gjennomsnittet av pris- og lønnsveksten på årsbasis beregnes. Da kan også veksten i løpende pensjoner fra 1. mai beregnes.
 
-2015
+### Forholdstall og delingstall – nøytrale uttaksregler
 
-1,9
+Reglene fram til 2022
 
-112
+Forholdstallene og delingstallene er to sentrale størrelser i pensjonssystemet. Forholdstallene benyttes til å omregne alderspensjon opptjent med gamle opptjeningsregler før levealdersjustering til en årlig ytelse, mens delingstallene benyttes til å omregne alderspensjon opptjent etter nye opptjeningsregler (pensjonsbeholdningen) til en årlig ytelse. Både forholdstallene og delingstallene skal reflektere forventet gjenstående levealder på uttakstidspunktet. I tillegg påvirkes også forholdstallene og delingstallene av fratrekket på 0,75 prosent som har vært benyttet ved reguleringen.[^94]
 
-2015
+Delingstallene bestemmer hvor høy den årlige pensjonen blir ved uttak, mens reguleringsreglene bestemmer hvordan den løpende pensjonen utvikler seg over tid. Regelverket er utformet slik at summen av pensjonsutbetalingene blir lik den opptjente pensjonsbeholdningen for personer som lever like lenge som lagt til grunn når delingstallene beregnes. Fratrekket på 0,75 prosent når delingstallene fastsettes gjør at delingstallet ved uttak blir lavere enn uten et slikt fratrekk, og årlig pensjon ved uttak blir dermed høyere for en gitt pensjonsbeholdning enn det ville vært uten fratrekket. Det betyr at reguleringsreglene for ny folketrygd bidrar til et høyere pensjonsnivå i starten av pensjonisttilværelsen enn et system uten fratrekk.
 
-1,9
+Med et fratrekk på 0,75 prosent ved reguleringen, har det vært et forutsigbart forhold mellom verdien av løpende pensjoner – som har blitt regulert med lønnsveksten fratrukket 0,75 prosent – og pensjonsopptjening som *ikke* er tatt ut som reguleres med lønnsveksten.[^95] Dette gjør at systemet kan utformes slik at nåverdien av utbetalingen fra en gitt pensjonsbeholdning (før skatt) på det tidspunktet delingstallet beregnes blir uavhengig av når pensjonen tas ut. Dette omtales gjerne som at uttaksreglene er «nøytrale». Fratrekket på 0,75 prosent har sikret at reglene for ny alderspensjon er konsistente.
 
-114
+Regulering med gjennomsnittet av pris- og lønnsveksten
 
-112
+Når løpende pensjoner skal reguleres med gjennomsnittet av pris- og lønnsveksten, vil ikke nødvendigvis dagens regler for å beregne delingstallene sikre at uttaksreglene er nøytrale. Å regulere med gjennomsnittet av pris- og lønnsveksten betyr at realverdien av løpende pensjoner vil øke med om lag halvparten av reallønnsveksten. Fratrekket på 0,75 prosent ved reguleringen har gjenspeilet en forutsetning om at reallønnsveksten over tid vil være om lag 1,5 prosent. Dersom reallønnsveksten over tid *er* 1,5 prosent, vil det å regulere med gjennomsnittet av pris- og lønnsveksten derfor gi det samme resultatet som å regulere med lønnsveksten fratrukket 0,75 prosent.
 
-2014
+Dersom reallønnsveksten er *høyere* enn 1,5 prosent, vil løpende pensjoner få en svakere regulering enn lagt til grunn når delingstallene beregnes, og pensjonsbeholdningen vil ikke være «brukt opp» over forventet gjenstående levetid. Anta en utbetalingsperiode på 25 år. Med en reallønnsvekst på 2,5 prosent, vil samlet utbetalt pensjon bli 5,6 prosent lavere målt i faste lønninger enn med en reallønnsvekst på 1,5 prosent. Høy reallønnsvekst betyr dermed at verdien av pensjonene – og kostnadene målt i *faste lønninger* (G) – blir lavere enn lagt til grunn når delingstallene beregnes. En reallønnsvekst på 2,5 prosent er på linje med gjennomsnittet de forutgående ti årene i perioden 2002–2013. Målt i *faste priser*, vil verdien av pensjonene øke så lenge reallønnsveksten er positiv, og jo høyere reallønnsvekst, desto høyere vekst i pensjonene målt i faste priser.
 
-2,0
+Dersom reallønnsveksten er *lavere* enn 1,5 prosent, vil løpende pensjoner få en sterkere regulering enn lagt til grunn når delingstallene beregnes, og pensjonsbeholdningen vil være «brukt opp» før forventet gjenstående levetid. Med en utbetalingsperiode på 25 år vil en reallønnsvekst på 1,0 prosent innebære at samlet utbetalt pensjon blir 3,0 prosent høyere målt i faste lønninger enn dersom reallønnsveksten hadde vært 1,5 prosent. Kostnadene målt i *fast lønn* blir dermed høyere enn lagt til grunn. En reallønnsvekst på rundt 1 prosent årlig er på linje med gjennomsnittet for perioden fra 2010 til 2021. Målt i *faste priser* vil verdien av pensjonene øke mindre jo lavere reallønnsveksten er.
 
-116
+Jo høyere reallønnsvekst, desto sterkere blir veksten i pensjonen korrigert for prisstigning. Det gjelder både med nye og tidligere regler for regulering av løpende pensjoner. De nye reglene er imidlertid gunstigere enn de tidligere når reallønnsveksten er lav, mens det er omvendt når reallønnsveksten er høy.
 
-114
+Størrelsen på fratrekket når delingstallene fastsettes
 
-2014
+For å sikre at pensjonsreglene er konsistente, bør fratrekket som benyttes når delingstallene fastsettes reflektere forventninger om framtidig reallønnsvekst. Den er ukjent, så da må forholds- og delingstallene beregnes med utgangspunkt i *anslag* på den framtidige reallønnsveksten. Dette kan gjøres ved å videreføre dagens ordning der det administrativt legges til grunn en reallønnsvekst – i dag på om lag 1,5 prosent – eller det kan legges opp til at anslaget skal beregnes med utgangspunkt i historiske observasjoner av reallønnsveksten.
 
-2,0
+Fordi det ofte er perioder der reallønnsveksten er høy i flere år etter hverandre og tilsvarende når reallønnsveksten er lav, så vil en mekanisk beregning basert på historiske observasjoner neppe være en god metode for å anslå reallønnsveksten mange år fram i tid. En mer avansert og framoverskuende metode for å fastsette fratrekket, som innebærer at fratrekket kan variere over tid, betyr at utbetalt pensjon det første året (og senere) kan variere for personer med samme pensjonsopptjening som er født i påfølgende år. Utvalget mener derfor at fratrekket bør fastsettes administrativt slik det har blitt til nå.
 
-116
+Over tid er det grunn til å vente at reallønnsveksten vil reflektere produktivitetsveksten i økonomien. Et fratrekk på 0,75 prosent reflekterer en forventet produktivitetsvekst på om lag 1,5 prosent årlig. Produktivitetsveksten i Norge og mange andre vestlig land har vært relativt lav de siste 15 årene. Årsakene til dette og faktorer som kan påvirke produktivitetsveksten framover er drøftet i kapittel 3 i Meld. St. 14 (2020–2021) *Perspektivmeldingen 2021* og i NOU 2021: 4 *Norge mot 2025*. Det går fram at den framtidige produktivitetsveksten er usikker og påvirkes av mange faktorer. I Perspektivmeldingen 2021 legges det til grunn en årlig reallønnsvekst på 1,5 prosent i perioden 2021–2060, se Dyvi (2021).
 
-2013
+Dersom det i stedet legges til grunn en årlig reallønnsvekst på 1,0 prosent når delingstallene beregnes, vil anslaget på delingstallet ved 67 år for 1963-kullet øke fra 16,30 til 16,73, altså med 2,7 prosent, og årlig pensjon ved uttak fra 67 år ville blitt tilsvarende lavere.
 
-2,1
+Konsistensen i pensjonssystemet
 
-118
+Dersom beregningen av delingstallene opprettholdes som i dag, vil reglene for ny alderspensjon i folketrygden ikke nødvendigvis bli konsistente når løpende pensjoner reguleres med gjennomsnittet av pris- og lønnsveksten. Dersom reallønnsveksten er lavere enn det som ligger til grunn for beregningen av delingstallene, vil summen av pensjonsutbetalingene bli høyere desto tidligere pensjonen tas ut, mens høy reallønnsvekst gjør det mer lønnsomt å vente med å ta ut pensjonen.[^96] Betydningen av dette kan illustreres med et eksempel:
 
-2013
+Anta at prisveksten er lik lønnsveksten, slik at gjennomsnittet av pris- og lønnsveksten blir lik lønnsveksten. Da vil løpende pensjoner bli regulert med lønnsveksten. Dersom priser og lønninger vokser like mye – reallønnsveksten er null – blir forventet nåverdi av pensjonsutbetalingen for en person født i 1963 1,5 prosent lavere ved uttak 67 år enn ved uttak 62 år, mens forskjellen på uttak ved 75 og 62 år er 3,7 prosent. Dersom pensjonsbeholdningen er fem millioner kroner, blir dette henholdsvis 75 700 kroner og 184 300 kroner. Det lønner seg altså isolert sett å ta ut pensjonen tidlig når reallønnsveksten er lav. Årsaken er at pensjon som er tatt ut reguleres gunstigere enn det som ble lagt til grunn når delingstallene ble fastsatt, og det er fordelaktig å ha denne gunstigere reguleringen i flest mulig år.
 
-2,1
+Dersom reallønnsveksten i hele utbetalingsperioden er høyere enn 1,5 prosent, vil det lønne seg å ta ut pensjon sent. Med en reallønnsvekst på tre prosent, blir de prosentvise utslagene om lag de samme som i forgående avsnitt, men med motsatt fortegn. Det vil lønne seg å vente med å ta ut pensjon når reallønnsveksten er høy.
 
-118
+Beregningene i eksemplene over er gjort under forutsetning av ‘lav’ eller ‘høy’ reallønnsvekst i *alle* år etter at pensjonen er tatt ut. Likevel er forskjellen i nåverdi mellom tidlig og sent uttak relativt moderat. Utslagene må også vurderes på bakgrunn av at pensjonssystemet i praksis ikke er fullt ut aktuarisk nøytralt for den enkelte, se diskusjonen i kapittel 7 om insentiver i det samlede pensjonssystemet. De viktigste årsakene til dette er at skattereglene for pensjonsinntekt normalt stimulerer til tidliguttak og at mange har en høyere forventet levealder enn det som ligger til grunn for beregningen av delingstallene noe som gjør det lønnsomt å vente med å ta ut pensjonen.
 
-2012
+Årsaken til at reglene for ny alderspensjon ikke blir nøytrale når løpende pensjoner skal reguleres med gjennomsnittet av pris- og lønnsveksten, er at det ikke blir et forutsigbart forhold mellom utviklingen i verdien av opptjente pensjonsrettigheter og utviklingen i verdien av løpende pensjoner. Svært høy eller lav reallønnsvekst over en lang periode er klart mindre sannsynlig enn at dette skjer over noen få år. Dette åpner en gevinstmulighet om det er forventet at reallønnsveksten blir ekstremt høy eller lav i et enkeltår. Reglene er slik at de som har tatt ut pensjonen, men stopper uttaket, får omregnet den løpende pensjonen til en pensjonsbeholdning ved at den multipliseres med delingstallet på stopp-tidspunktet, jf. folketrygdloven § 20-16. Deretter reguleres pensjonsbeholdningen med lønnsveksten inntil pensjonen tas ut på nytt, og ny årlig pensjon beregnes ved å dividere den oppregulerte pensjonsbeholdningen med delingstallet på nytt uttakstidspunkt. Forskjellen på delingstallet på tidspunktene for stopp og nytt uttak reflekterer forskjellen i forventet gjenstående levetid ved de to tidspunktene og den forutsetningen om reallønnsvekst som ligger i delingstallene.
 
-2,2
+Anta at en person som ennå ikke har tatt ut pensjonen forventer en svært lav reallønnsvekst et år, for eksempel et fall på fire prosent. Når pensjonen reguleres med et gjennomsnitt av lønns- og prisveksten, vil løpende pensjoner få en nedgang i realverdi på to prosent, mens pensjonsbeholdningen får en nedgang i realverdi på fire prosent dersom pensjonen ikke tas ut. Det vil da være lønnsomt å ta ut pensjonen før løpende pensjoner skal reguleres og eventuelt stoppe den igjen etterpå. Situasjonen blir tilsvarende dersom man har tatt ut pensjon og forventer en svært høy reallønnsvekst et år. Da vil det kunne lønne seg å stoppe pensjonen før den blir regulert og ta den ut igjen etterpå.
 
-2011
+Gevinsten ved å tilpasse seg kortvarige ekstreme utslag i reallønnsveksten begrenses imidlertid av regelverket. Ifølge folketrygdloven §§ 19-14 og 20-18 skal det ved reguleringen tas hensyn til når på året pensjonen er tatt ut eller pensjonsgraden er endret. For å få full glede av å tilpasse seg en ekstremt lav reallønnsvekst, må pensjonen tas ut minst tolv måneder før reguleringen, og dersom pensjonen tas ut én måned før reguleringen, blir gevinsten bare en tolvdel.
 
-2,2
+Lenge før reguleringstidspunktet er det vanskelig å ha en sikker oppfatning om hva den framtidige reallønnsveksten vil bli. Når pensjonen må tas ut relativt lenge før reguleringen skal skje for at effekten skal bli stor, begrenses mulighetene for å tilpasse seg en forventet høy eller lav reallønnsvekst. Når pensjonsbeholdningen er på flere millioner kroner, skal det imidlertid ikke stor endring i avkastningen til, før gevinsten blir noen tusen kroner. Begrenset likviditet kan redusere muligheten til å stoppe en pensjon som allerede er tatt ut for dem som har sluttet i arbeid.
 
-Kapittel 11
+Noen mulige endringer
 
-Pensjon over minstepensjon
-Minstepensjon gifte
-Minstepensjon enslige
-Lønn
+For å redusere gevinstmulighetene som kan oppstå når løpende pensjoner skal reguleres med gjennomsnittet av pris- og lønnsveksten, kan reguleringen av de opptjente rettighetene (pensjonsbeholdningen) etter fylte 62 år legges om. Det kan vises at dersom pensjonsbeholdningen etter 62 år reguleres med gjennomsnittet av pris- og lønnsveksten, altså som løpende pensjoner, men tillagt om lag 0,75 prosent for å korrigere for at faktoren 0,75 prosent benyttes ved beregningen av delingstallene, så vil systemet under visse betingelser bli aktuarisk nøytralt. Dette vil i stor grad begrense muligheten til å ‘spekulere’ mot reallønnsveksten. Ulempen ved et slikt system vil være at pensjonsbeholdningen vil bli regulert ulikt før og etter fylte 62 år noe som vil gi et noe mer komplisert pensjonssystem, sammenliknet med nå hvor reguleringen av pensjon som ikke er tatt ut er den samme både før og etter nedre aldersgrense for uttak.
 
-Figur 11.5 Realverdien1 av lønn, pensjon over
-minstenivået og minste pensjonsnivå 2010–2021.
-Indekser 2010=100
-1
+En annen mulighet som vil redusere tilpasningsmulighetene, er å ikke fastsette delingstallene endelig før ved 66 år. I Sverige fastsettes det foreløpige delingstall for årene 61–65 år det året et årskull fyller 60 år. Når årskullet fyller 64 år, fastsettes det endelige delingstall, også for årene 61–65 år. De som har tatt ut pensjonen før 65 år, vil få omregnet pensjonen når de fyller 65 år. Både foreløpige og endelige delingstall fastsettes med utgangspunkt i statistikk for den registrerte dødeligheten. Når levealderen øker vil det innebære at de som har tatt ut pensjonen før 65 år vil få redusert den årlige pensjonen når de fyller 65 år.
 
-Pensjon korrigert for prisstigning målt ved konsumprisindeksen.
-Kilder: Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
+I Norge vil et tilsvarende system kunne innebære at det fastsettes foreløpige delingstall for aldrene 62–67 år det året et årskull fyller 61 år, og endelige delingstall det året årskullet fyller 66 år. Fordelen med dette er primært at de endelige delingstallene kan bli basert på mer oppdatert dødelighetsstatistikk. Men det vil også bety at eventuelle avvik i forutsetningene om regulering som ligger i de foreløpige delingstallene vil bli korrigert, noe som vil redusere muligheten for spekulasjon.[^97] En annen side ved en slik beregning av delingstallene er at oppdaterte beregninger på et senere tidspunkt i livet normalt vil slå ut i en sterkere levealdersjustering.
 
-ytelsene har økt mindre. Løpende pensjoner har hatt
-den svakeste utviklingen, men samlet over perioden har det likevel vært realvekst i pensjonene.
+Et slikt ‘svensk system’ ble vurdert i høringsnotatet om ny alderspensjon i januar 2008. Her heter det blant annet:
 
-[Side 254]
+«Tidspunktet for når delingstallet skal fastsettes for det enkelte årskull må baseres på en avveining mellom hensynet til forutsigbarhet og hensynet til at delingstallet skal bygge på mest mulig oppdatert informasjon. (…) Departementet anser det imidlertid som uheldig om pensjonsytelsene for de som allerede har gått av med pensjon blir beregnet på nytt på grunnlag av nye observasjoner av dødeligheten.»
 
-252
+Departementet foreslo derfor at delingstallene skulle fastsettes endelig det året årskullet fyller 61 år. Ingen høringsinstanser foreslo et system med foreløpige delingstall, men enkelte mente det kunne være for sent å få fastsatt delingstallene først ved fylte 61 år. Departementet skrev i Ot.prp. nr. 37. (2008–2009) at de årlige prognosene på delingstallene ville sikre den enkelte tilstrekkelig forutsigbarhet.
 
-NOU 2022: 7
+Utvalgets vurdering
 
-Kapittel 11
+Utvalget er bedt om å vurdere «tiltak som kan sikre et konsistent pensjonssystem, herunder mulighetene til å opprettholde en nøytral uttaksmodell». Utvalget mener de inkonsistensene som vil oppstå når løpende pensjoner skal reguleres med gjennomsnittet av pris- og lønnsveksten ikke er så store at de tilsier at beregningen av forholdstall og delingstall bør legges om. Utvalget mener det heller ikke er grunnlag nå for å endre faktoren på 0,75 prosent som benyttes når forholds- og delingstallene fastsettes. Å videreføre dagens regler vil ikke skape noen systematiske skjevheter, og de mulige problemene er trolig små. Det er andre deler av regelverket som i større grad kan gi skjevheter ut fra målet om nøytralitet: Skattereglene for pensjonsinntekt stimulerer normalt til tidliguttak. Samtidig har mange en høyere forventet levealder enn det som ligger til grunn for beregningen av delingstallene, noe som gjør det lønnsomt å vente med å ta ut pensjonen.
 
-Et forbedret pensjonssystem
+Det er imidlertid grunn til å følge med på om faktoren på 0,75 over tid er i rimelig samsvar med forventet langsiktig reallønnsvekst. Faktoren bør justeres dersom avviket ventes å bli langvarig, for eksempel ved evalueringer hvert tiende år som utvalget foreslår i kapittel 4.
 
-Tabell 11.2 Gjennomsnittlig årlig realvekst1 i lønn og pensjon 2010–2021. Prosent
+### Vilkåret for å ta ut alderspensjon før 67 år
 
-Lønn
+For å kunne ta ut alderspensjonen før 67 år, må alderspensjonen ved 67 år minst tilsvare minsteytelsen for enslige ved 67 år. For personer født senest i 1953 er minstenivået lik minste pensjonsnivå, særskilt sats enslige, mens det er lik garantipensjonen for enslige i ny folketrygd. Personer i årskullene 1954–1962 har et minstenivå som er en kombinasjon av minste pensjonsnivå og garantipensjon. Årsaken til at kravet for alle gjelder minstenivået for enslige, er at sivilstatusen kan endre seg. Personer i privat sektor med rett til AFP, kan medregne den livsvarige delen av AFP i samlet pensjon, når det vurderes om vilkåret for å ta ut pensjonen før 67 år er oppfylt.
 
-Alderspensjon
-utover
-minstepensjon
+Minsteytelsene har blitt regulert med lønnsveksten fratrukket virkningen av levealdersjusteringen ved 67 år, målt ved endringen i forholdstallet mellom årskull. Siden forholds- og delingstallene fastsettes endelig det året et årskull fyller 61 år, har minste pensjonsnivå ved 67 år vært kjent på uttakstidspunktet, målt som andel av grunnbeløpet. Når løpende pensjoner har blitt regulert med lønnsveksten fratrukket 0,75 prosent, har kravet vært at pensjonen ved uttak 62 år må være 3,7 prosent[^98] høyere enn minste pensjonsnivå ved 67 år.
 
-Minstepensjon
-enslige
+Stortinget har siden 2016 økt minstenivåene en rekke ganger i tillegg den reguleringen som følger av loven. Dette har ført til at en del som har tatt ut pensjonen tidlig, har kommet under minstenivået. Disse har fått et pensjonstillegg (individuelt minstenivåtillegg) som har sikret at samlet pensjon har blitt lik minstenivået.
 
-Minstepensjon
-gifte
+Løpende pensjoner skal fra 2022 reguleres med gjennomsnittet av pris- og lønnsveksten. Om de som tar ut pensjon før 67 år får et pensjonsnivå ved 67 år som minst tilsvarer minsteytelsen, avhenger av hvordan minsteytelsen blir regulert.
 
-2010–2014
+Stortinget har vedtatt at minsteytelsene i pensjonssystemet fra 2022 skal reguleres med gjennomsnittet av pris- og lønnsveksten, altså på samme måte som løpende pensjoner. Dersom pensjonen på uttakstidspunktet minst er lik minstenivået på uttakstidspunktet, vil dette også være tilfellet ved 67 år siden de to størrelsene reguleres på samme måte.[^99]
 
-2,2
+Dersom minsteytelsene skal reguleres gunstigere enn løpende pensjoner, må pensjonen ved uttak før 67 år være høyere enn minste pensjonsnivå på uttakstidspunktet for å sikre at pensjonen ved 67 år ikke er lavere enn minstenivået. Hvordan dette skal gjøres, avhenger av hvordan reguleringen av minsteytelsene skjer. Hvis minsteytelsene reguleres med gjennomsnittet av pris- og lønnsveksten, men tillagt en fast faktor, vil størrelsen på den faste faktoren kunne benyttes for å beregne hvor mye høyere enn minstenivået pensjonen ved uttak må være.
 
-1,7
+Hvis minsteytelsene reguleres med lønnsveksten, eventuelt med et fast fratrekk, vil det ikke bli et forutsigbart forhold ved 67 år mellom pensjon som er tatt ut tidlig og minstenivåene ved 67 år. Jo høyere reallønnsveksten er, desto større blir forskjellen mellom reguleringen av minsteytelsene og reguleringen av løpende pensjoner. Med en lønnsvekst på fem prosent og en prisvekst på to prosent, vil løpende pensjoner etter fem år være regulert med rundt sju prosent mindre enn lønningene.
 
-2,1
+Utvalget mener det kan gi et mer stabilt reguleringsregime dersom minsteytelsene reguleres med utgangspunkt i lønnsveksten, eventuelt med et fast fratrekk, framfor å regulere med gjennomsnittet av pris- og lønnsveksten tillagt en fast faktor, se avsnitt 11.7. For å begrense antallet som vil motta et pensjonstillegg, bør vilkåret for å ta ut pensjonen før 67 år utformes med en sikkerhetsmargin. Dette vil sikre at mange får en høyere livsvarig pensjon og redusere kostnadene. Men det vil samtidig begrense muligheten til å ta ut pensjonen tidlig. Dersom ikke minstenivåene øker vesentlig, vil imidlertid de fleste med rett til AFP som er født i 1963 eller senere, kunne ta ut full pensjon ved tidligst mulige alder, se avsnitt 11.7.
 
-2,1
+Et alternativ er å akseptere at enkelte kan få ytelser ved aldersgrensen for ubetinget rett til uttak som er lavere enn minstenivået. I høringsrunden om ny alderspensjon i folketrygden i 2008, mente flere av høringsinstansene at kravene til å ta ut pensjon før 67 år ble for høye. Departementet la imidlertid vekt på å sikre at pensjonsnivåene ikke ble for lave, og mente alle burde være sikret garantipensjonsnivået.
 
-2014–2016
+## Regulering av andre pensjoner
 
--0,6
+I dag reguleres en del andre pensjoner på samme måte som løpende alderspensjoner fra folketrygden, blant annet AFP i privat sektor, offentlig tjenestepensjon og pensjoner fra de lovfestede pensjonsordningene for fiskere og arbeidstakere til sjøs. Også i noen private tjenestepensjonsordninger er det åpnet for en slik regulering av pensjonen.
 
--1,1
+Da Stortinget vedtok nye regler for regulering av pensjon fra folketrygden, ble det samtidig vedtatt tilsvarende endringer i reguleringen av en rekke lovfestede pensjonsordninger, blant annet pensjon fra Statens pensjonskasse, AFP i offentlig sektor og pensjon fra pensjonsordningen for sykepleiere. Også garantert regulering av pensjon etter tjenestepensjonsloven (hybridpensjon) ble vedtatt endret.
 
--0,5
+Partene i KS-området har vedtatt at også AFP og tjenestepensjon i kommunal sektor skal reguleres med gjennomsnittet av pris- og lønnsveksten fra 2022.
 
--0,4
-
-2016–2021
-
-0,7
-
--0,2
-
-1,7
-
-0,4
-
-2010–2021
-
-1,0
-
-0,3
-
-1,4
-
-0,8
-
-Garantipensjon
-
--0,1
-
-1
-
-Deflatert med konsumprisindeksen.
-Kilder: Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
-
-Enslig
-
-200
-
-200
-
-150
-
-150
-
-100
-
-100
-2022
-
-250
-
-2017
-
-250
-
-Gift
-
-Figur 11.6 Minstepensjon/minste pensjonsnivå for
-enslige1 og gifte som andel av grunnbeløpet 1967–
-2021. Årlig gjennomsnitt
-1
-
-300
-
-Minstepensjon gifte
-Lønn
-Minstepensjon enslige
-Pensjon over minstepensjon
-
-2022
-
-2017
-
-2012
-
-2007
-
-2002
-
-1997
-
-1992
-
-0,0
-1987
-
-0,0
-1982
-
-0,5
-
-1977
-
-0,5
-
-1972
-
-1,0
-
-1967
-
-1,0
-
-300
-
-2012
-
-1,5
-
-350
-
-2007
-
-1,5
-
-350
-
-2002
-
-2,0
-
-400
-
-1997
-
-2,0
-
-400
-
-1992
-
-2,5
-
-450
-
-1987
-
-2,5
-
-450
-
-1982
-
-Figur 11.6 viser utviklingen i minstepensjon/minste pensjonsnivå i hele perioden 1967–2021. Vi ser
-at de årlige endringene etter 2010 er relativt små
-sammenliknet med enkelte år i perioden 1967–
-2010. Særlig økningen av særtillegget i 1998 gav
-en stor økning da minstepensjonen som andel av
-G økte med henholdsvis 10 og 12 prosent for gifte
-og enslige. Økningen i særtillegget i årene 2007–
-
-1977
-
-Minsteytelsene 1967–2021
-
-1967
-
-11.2.4
-
-2010 gav et tilsvarende løft på 12 prosent, men da
-med en opptrapping over en treårsperiode. I perioden 2002–2005 ble grunnpensjonen for gifte økt
-fra 0,75 til 0,85 prosent av G, og forskjellen mellom minstenivået for gifte og enslige ble redusert,
-men denne forskjellen har senere økt som følge av
-økt sats for minste pensjonsnivå for enslige. Fra 1.
-juli 2021 er minste pensjonsnivå for et ektepar 172
-prosent av særskilt sats enslige.
-Figur 11.7 viser utviklingen i realverdien av
-lønninger og pensjoner siden 1967. Det går fram
-at pensjonsreformen medførte et brudd i utviklin-
-
-1972
-
-Tabell 11.2 oppsummerer utviklingen i realverdien av lønn og pensjon i perioden 2010–2021.
-
-Satsen for enslige var fram til 2016 lik satsen for gifte som
-forsørget ektefelle. Fra 2016 ble det fastsatt en egen særskilt sats for enslige. For minste pensjonsnivå for gifte er det
-brukt ordinær sats.
-Kilde: Arbeids- og velferdsdirektoratet.
-
-Figur 11.7 Realverdien1 av lønn, pensjon over
-minstenivået2 og minste pensjonsnivå 1967–2021.
-Indekser 1967=100
-1
-
-Pensjon korrigert for prisstigning målt ved konsumprisindeksen.
-2
-Målt ved veksten i grunnbeløpet fram til 2010 og ved
-lønnsveksten fratrukket 0,75 prosent deretter.
-Kilder: Arbeids- og velferdsdirektoratet og Statistisk sentralbyrå.
-
-[Side 255]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-253
-
-Kapittel 11
-
-Tabell 11.3 Satser for minste pensjonsnivå og garantipensjon fra 1. juli 2021
-Satser for minste pensjonsnivå
-1 Lav sats (ektefellen har alderspensjon eller avtalefestet pensjon fra offentlig sektor)1
-
-167 125
-
-2 Ordinær sats (ektefellen har uføretrygd, overgangsstønad eller årlig inntekt over 2 G)
-
-193 429
-
-3 Høy sats (ektefellen har inntekt under 2 G og mottar ikke pensjon eller trygd)
-
-203 545
-
-4 Særskilt sats (forsørger ektefelle over 60 år og fyller vilkårene for rett til ektefelletillegg)2
-
-316 825
-
-5
-
-Særskilt sats enslige3
-
-224 878
-
-Satser for garantipensjon
-6 Ordinær sats (ektefellen har uføretrygd, alderspensjon, avtalefestet pensjon fra offentlig
-sektor, overgangsstønad eller årlig inntekt over 2 G)
-
-187 252
-
-7 Høy sats (enslige og pensjonist med ektefelle med inntekt under 2 G og som ikke mottar
-pensjon eller trygd)
-
-202 425
-
-1
-2
-3
-
-Dersom begge ektefellene mottar hel alderspensjon fra folketrygden gjelder likevel en egen garanti om at den samlede pensjonen minst skal tilsvare to ganger minste pensjonsnivå etter ordinær sats.
-Det er vedtatt at særskilt sats skal fases ut med årskullene 1954–1962.
-Særskilt sats enslige ble økt med 5000 kroner fra 1. juli 2021.
-
-gen ved at veksten i minstenivåene ble svakere
-enn tidligere. Dette skyldes ikke bare de nye
-reglene for regulering av pensjon, men etter 2014
-også relativt moderat vekst i reallønningene. Etter
-2016 har det vært et nytt løft i realverdien av minste pensjonsnivå for enslige som i 2021 var 280
-prosent høyere enn i 1967.
-
-ninger, for eksempel støtte til dekning av boutgifter.
-Minstenivået for enslige i Norge økte ytterligere i 2021, og minste pensjonsnivå for enslige
-utgjorde 36 prosent av en gjennomsnittslønn før
-skatt og 49 prosent etter skatt.
-Nærmere om Norge, Sverige og Danmark
-
-11.2.5 Minsteytelsene fra 1. juli 2021
-Tabell 11.3 viser satsene for minste pensjonsnivå
-og for garantipensjon fra 1. juli 2021. Satsene
-avhenger av sivilstatus. For enslige alderspensjonister er det to satser; henholdsvis særskilt sats
-for minste pensjonsnivå og høy sats for garantipensjon. For gifte og samboende avhenger minste
-pensjonsnivå også av inntekten og pensjonen til
-ektefelle/samboer, mens for garantipensjon er det
-kun én sats for gifte og samboende.
-
-11.2.6 Minsteytelser i andre land
-Minstenivåer i OECD-landene
-Minstenivåene i det norske pensjonssystemet er
-relativt sjenerøse sammenliknet med andre land,
-jf. figur 11.8. Få land har høyere minstenivå før
-skatt. I motsetning til i Norge, betaler minstepensjonistene i mange land inntektsskatt, men OECD
-har ikke publisert statistikk over landenes minstenivåer etter skatt. Det er også store forskjeller
-mellom landene på omfanget av ulike andre ord-
-
-Pedersen (2021) sammenlikner minstesikringen i
-de skandinaviske landene. Han viser at forskjeller
-i pensjonistbeskatning og i spesielle bostøtteordninger for pensjonister både kompenserer for og
-forsterker forskjeller i nivåene på selve minstepensjonene i de respektive landene.
-I Sverige er nivået på minstepensjonen vesentlig lavere enn i de to andre landene, og dette kompenseres bare delvis av at bostøtteordningen for
-pensjonister er mer sjenerøs enn i Norge.
-Pensjon på minstenivået er skattefri i Norge. I
-Danmark og Sverige blir minstepensjonistene
-beskattet etter tilnærmet de samme reglene som
-de yrkesaktive, samtidig som spesielle bostøtteordninger spiller en større rolle i begge disse landene enn i Norge. Når alle disse komponentene
-tas med i betraktning, kommer Danmark ut med
-det høyeste nivået på minstesikringen for enslige
-pensjonister tett fulgt av Norge, mens nivået på
-minstesikringen i Sverige er klart lavest, jf. figur
-11.9.
-Danmark har et tilnærmet flatt offentlig pensjonssystem, og standardsikringen er lagt til
-
-[Side 256]
-
-254
-
-NOU 2022: 7
-
-Kapittel 11
-
-Et forbedret pensjonssystem
-
-Island
-New Zealand
-Danmark
-Slovenia
-Luxemburg
-Norge
-Nederland
-Belgia
-Frankrike
-Irland
-Australia
-Portugal
-Israel
-Østerrike
-Sveits
-Sverige
-Finland
-Hellas
-Storbritannia
-Spania
-OECD
-Italia
-Tyskland
-Canada
-Japan
-Slovakia
-Chile
-Estland
-USA
-Polen
-Costa Rica
-Mexico
-Tjekkia
-Tyrkia
-Litauen
-Korea
-Latvia
-Ungarn
-Colombia
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-Figur 11.8 Minstepensjon for enslige før skatt som andel av brutto gjennomsnittslønn 2020. Prosent
-Kilde: OECD (2021).
-
-10
-
-10
-
-0
-
-0
-
-Danmark
-
-Norge
-
-2018
-
-20
-
-2016
-
-20
-
-2014
-
-30
-
-2012
-
-30
-
-2010
-
-40
-
-2008
-
-40
-
-2006
-
-50
-
-2004
-
-50
-
-2002
-
-60
-
-2000
-
-60
-
-Sverige
-
-Figur 11.9 Minstepensjon for enslig etter skatt
-som andel av en gjennomsnittslønn etter skatt,
-2000–2019. Prosent
-Kilde: Pedersen (2021).
-
-arbeidsmarkedsbaserte ordninger. Den danske
-minsteytelsen er imidlertid karakterisert ved en
-markant sterkere differensiering til fordel for enslige pensjonister, slik at Norge har det høyeste
-minstenivået i Skandinavia for gifte og samboende
-pensjonister.
-Reguleringen av minsteytelsene tilsier at forskjellene mellom landene kan fortsette. I Sverige
-prisreguleres minstenivåene, mens de lønnsreguleres i Danmark.
-
-11.3 Antall med minsteytelse
-11.3.1 Innledning
-Formålet med minsteytelsene er å sikre alle et
-minste inntektsnivå i alderdommen. Etter pensjonsreformen er det imidlertid ikke trivielt å
-avgrense hvem som skal regnes som minstepensjonister. Avsnitt 11.3.2 beskriver hvem Arbeidsog velferdsdirektoratet regner som minstepensjonister, mens avsnitt 11.3.3 viser utviklingen i antall
-minstepensjonister fra 1970. Avsnitt 11.3.4 disku-
-
-[Side 257]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-terer kort garantipensjonens rolle i ny alderspensjon, mens avsnitt 11.3.5 beskriver hvordan trygdetid påvirker alderspensjonene.
-
-11.3.2
-
-Hvem er minstepensjonister?
-
-Før pensjonsreformen besto alderspensjonen av
-grunnpensjon og tilleggspensjon og/eller særtillegg. Særtillegget ble avkortet krone for krone
-mot opptjent tilleggspensjon, og minstenivåene
-var lik summen av full grunnpensjon og fullt særtillegg. Personer som mottok særtillegg, ble regnet som minstepensjonister. Satsene for minstepensjon var likevel ingen nedre grense for alderspensjonen fordi både grunnpensjon og særtillegg
-ble avkortet proporsjonalt dersom trygdetiden var
-kortere enn 40 år.
-Fra 2011 blir minstenivåene fastsatt som kronebeløp. Kronebeløpene i gammel alderspensjon
-(minste pensjonsnivå) og ny alderspensjon
-(garantipensjon) er nå ulike. Personer som mottar
-pensjon etter både gamle og nye regler – årskullene 1954–1962 – får minstenivået fastsatt som en
-kombinasjon av minstenivåene i gammel og ny
-alderspensjon.
-Pensjonen kan tas ut fra 62 år dersom opptjeningen er så høy at pensjonsnivået ved 67 år minst
-er lik minstenivået for enslige. Det fører til at selv
-personer med relativt høy pensjonsopptjening
-som tar ut pensjonen tidlig, kan ende opp med en
-minsteytelse dersom minstenivået for enslige
-øker ut over den ordinære reguleringen 1. mai. I
-tillegg har minstenivåene blitt regulert gunstigere
-enn løpende pensjoner. Personer som i utgangspunktet har en pensjon over minstenivået, kan
-derfor etter hvert få en samlet pensjon som er lik
-minstenivået.
-Fra 2011 utbetales det en rekke tillegg til pensjonene. Tilleggene skal sikre at personer med
-full trygdetid får en samlet alderspensjon som
-minst er lik minstenivået. De fleste som har fylt 67
-år og mottar disse tilleggene regnes som minstepensjonister. Arbeids- og velferdsdirektoratet regner ikke personer under 67 år som minstepensjonister selv om de mottar et av tilleggene.
-Pensjonstillegg gis ved førstegangsbehandling
-av alderspensjonen hvis summen av grunn- og tilleggspensjon er lavere enn satsen for minste pensjonsnivå. Individuelt minstenivåtillegg gis hvis
-nivået på alderspensjonen senere enn førstegangsbehandlingen, faller under gjeldende minstenivå. Det kan skje siden minste pensjonsnivå
-og garantipensjonen har blitt regulert gunstigere
-enn løpende pensjoner og når Stortinget øker
-minstenivåene ut over den ordinære regulerin-
-
-255
-
-Kapittel 11
-
-gen. Pensjonistpar er garantert en samlet pensjon
-på to ganger ordinær sats for minste pensjonsnivå.
-For å oppfylle garantien utbetales det et tillegg til
-pensjonistpar.
-Alderspensjonister som utelukkende mottar
-tillegg for pensjonistpar regnes ikke som minstepensjonister.3 Personer som mottar særtillegg,
-pensjonstillegg og individuelt minstenivåtillegg
-defineres som minstepensjonister i statistikken
-som Arbeids- og velferdsdirektoratet publiserer,
-med følgende unntak:
-– Personer under 67 år
-– Personer som har høyere samlet pensjon enn
-minstenivået fordi de mottar privat AFP
-– Personer som tar ut pensjonen etter 67 år kan
-få en høyere samlet alderspensjon enn minstenivået selv om de mottar pensjonstillegg, og
-disse regnes heller ikke som minstepensjonister
-
-11.3.3
-
-Antall minstepensjonister
-
-Ved utgangen av 2021 var det 146 500 minstepensjonister. Som andel av alle alderspensjonister
-utgjorde denne gruppen 14,6 prosent. Vel 30 000
-minstepensjonister, 20 prosent, hadde redusert
-trygdetid.
-Andelen minstepensjonister har falt over tid, jf.
-figur 11.10. Nedgangen skyldes at yngre årskull i
-gjennomsnitt har høyere pensjonsopptjening enn
-eldre. Det henger blant annet sammen med at de
-eldste gruppene i større grad var yrkesaktive før
-folketrygden ble innført i 1967, og de fikk derfor
-ikke pensjonsopptjening for hele yrkeskarrieren.
-For kvinner er en viktig faktor den sterke økningen i kvinners sysselsetting fra 1960- til 1980-tallet.
-Figur 11.10 viser at andelen minstepensjonister har gått jevnt nedover over tid med noen få
-unntak i år med særskilte økninger i minstenivå
-som følge av endret særtilleggssats og/eller særskilte kronetillegg. I 1970 mottok nesten alle (98
-prosent) av alderspensjonistene minstepensjon,
-mens i 1990 var andelen som ble regnet som minstepensjonister redusert til halvparten. Også i de
-siste 20 årene har andelen med minste pensjonsnivå gått ned, fra rundt 40 prosent ved årtusenskiftet og ned til 14,6 prosent ved utgangen av
-2021.
-
-3
-
-Dette vil være gifte alderspensjonister som uten tillegget
-har høyere alderspensjon enn lav sats, og samtidig lavere
-alderspensjon enn ordinær sats. Jf. forskrift om alderspensjon, § 5-4.
-
-[Side 258]
-
-256
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-40
-
-150
-
-30
-
-100
-
-20
-
-50
-
-10
-
-0
-
-0
-
-Antall alle
-Andel kvinner
-
-nister som var 85 år eller eldre, faller inn under
-definisjonen av minstepensjonist. For menn i den
-samme aldersgruppa var det bare én av ti. I aldersgruppen 67–69 år var de tilsvarende andelene 7,7
-prosent for kvinner og 3,5 prosent for menn.
-Prosent
-
-200
-
-2020
-
-50
-
-2015
-
-60
-
-250
-
-2010
-
-300
-
-2005
-
-70
-
-2000
-
-350
-
-1995
-
-80
-
-1990
-
-90
-
-400
-
-1985
-
-450
-
-1980
-
-100
-
-1975
-
-500
-
-1970
-
-Tusen personer
-
-Kapittel 11
-
-Antall utbetalte tillegg og mottakere av ulike tillegg
-Fram til 1. mai 2010 fikk alle nye pensjonister
-utbetalt særtillegg ved førstegangsutstedelse av
-alderspensjon dersom opptjent tilleggspensjon var
-lavere enn fullt særtillegg. Fra 2011 utbetales det i
-stedet pensjonstillegg til alle nye pensjonister født
-i 1943 eller senere. I løpet av 2021 har det blitt
-flere pensjonister som får utbetalt pensjonstillegg
-enn særtillegg. Ved utgangen av 2021 ble det utbetalt 61 500 særtillegg og 69 200 pensjonstillegg.
-Samlet var det dermed 130 700 personer som mottok enten særtillegg eller pensjonstillegg.
-Ved utgangen av 2021 var det 168 300 pensjonister i alderen 62 år og eldre som mottok ett eller
-flere tillegg, og av disse hadde 146 500 fylt 67 år
-og ble regnet som minstepensjonister. Om en kun
-ser på antall gifte pensjonister, så var det 42 700
-som mottok minste pensjonsnivå med lav sats
-sammenliknet med 5900 personer med ordinær
-sats. Tillegget til pensjonistpar, som ble mottatt av
-7600 pensjonister som før tillegget hadde pensjon
-lavere enn ordinær sats, innebærer at antallet som
-samlet hadde en alderspensjon på nivå med ordinær sats var 14 200. Siden antall pensjonister som
-mottar tillegget til pensjonistpar (7600) er mye
-lavere enn antallet som mottar minste pensjons-
-
-Andel alle
-Andel menn
-
-Figur 11.10 Antall (venstre akse) og andel (høyre
-akse) alderspensjonister med minstenivå ved
-utgangen av året i prosent. 1970–2021
-Kilde: Arbeids- og velferdsdirektoratet.
-
-Minstepensjonister etter alder og kjønn
-Det er en klart større andel kvinner enn menn
-som er minstepensjonister. Ved utgangen av 2021
-var andelen kvinner 24,2 prosent, mens det kun
-var 4,6 prosent av mennene som var minstepensjonister. Det er spesielt de eldre kvinnene som mottar minste pensjonsnivå. Figur 11.11 viser at
-nesten halvparten av alle kvinnelige alderspensjo-
-
-50
-
-50
-
-47,1
-
-45
-
-45
-
-40
-
-40
-
-37,1
-33,6
-
-35
-30
-
-30
-
-26,2
-17,1
-
-5
-
-20
-14,6
-
-10,9
-7,7
-3,5
-
-5,6
-
-25
-
-15,8
-
-15
-10
-
-24,2
-
-23,5
-
-25
-20
-
-35
-
-9,8
-
-4,7
-
-4,6
-
-70-74 år
-
-75-79 år
-
-6,8
-
-15
-10
-
-4,6
-
-0
-
-5
-0
-
-67-69 år
-
-80-84 år
-
-85+ år
-
-I alt
-
-Alder
-Kvinner
-
-Menn
-
-Totalt
-
-Figur 11.11 Andel minstepensjonister av alle alderspensjonister. Kjønn og alder. Desember 2021. Prosent
-Kilde: Arbeids- og velferdsdirektoratet.
-
-[Side 259]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-nivå med lav sats (42 700), viser tallene at mange
-minstepensjonister er gift/samboer med en pensjonist som har en ytelse over minstenivået.
-Det vil være noen som ikke blir minstepensjonister når de tar ut pensjon, men som senere får et
-individuelt minstenivåtillegg og dermed regnes
-som minstepensjonister dersom de har fylt 67 år.
-Økte utbetalinger av individuelt minstenivåtillegg
-har kommet dels fordi minsteytelsene har blitt
-regulert gunstigere enn andre pensjoner og dels
-på grunn av økningene av minstenivåene utenom
-den ordinære reguleringen. Ved utgangen av 2021
-var det 143 800 personer som mottok individuelt
-minstenivåtillegg.
-Supplerende stønad
-Personer som har fylt 67 år og har en samlet inntekt som er lavere enn garantipensjonen, kan søke
-om supplerende stønad. Supplerende stønad er
-ikke en folketrygdytelse, men er regulert i lov om
-supplerande stønad til personar med kort butid i
-Noreg. Ordningen har som formål å garantere en
-minsteinntekt for personer som har fylt 67 år og
-som bor i Norge, men som har kort botid, slik at
-de ikke har kunnet tjene opp tilstrekkelige alderspensjonsrettigheter i folketrygden. Målgruppen
-for stønadsordningen er eldre innvandrere (personer med opphold på humanitært grunnlag og
-andre) og eldre norske statsborgere som har hatt
-langvarige opphold i utlandet uten å ha tjent opp
-tilstrekkelige, eksporterbare pensjonsrettigheter
-der.4 Ved utgangen av 2021 var det 2600 personer
-som mottok supplerende stønad.
-Ordningen kan supplere eller erstatte alderspensjon fra folketrygden. Stønaden er behovsprøvd mot all inntekt fra Norge og utlandet, samt
-inntekten til eventuell ektefelle, samboer eller
-registrert partner. Stønaden blir også behovsprøvd mot formue. Full supplerende stønad tilsvarer garantipensjonsnivåene, men rundt 90 prosent
-mottar en redusert ytelse fordi de har andre inntekter eller formue.
-For å ha rett til supplerende stønad må en være
-bosatt i Norge. Retten til supplerende stønad faller
-bort dersom mottakeren oppholder seg i utlandet i
-mer enn 90 dager sammenlagt i løpet av en stønadsperiode, som er på tolv måneder. Dette gjelder
-også ved opphold i et annet nordisk land eller et
-EØS-land. Det stilles ingen krav om ventetid eller
-opptjent trygdetid for å ha rett til ytelsen. Motta4
-
-Også uføre flyktninger med kort botid kan søke om supplerende stønad. Flyktninger generelt hadde fram til 1. januar
-2021 rett til minste pensjonsnivå uavhengig av trygdetid.
-
-257
-
-Kapittel 11
-
-kere må fremme ny søknad hvert år ved personlig
-frammøte hos Arbeids- og velferdsetaten.
-
-11.3.4
-
-Minstepensjonister i ny
-alderspensjon
-Personer født i 1963 eller senere skal få alderspensjonen beregnet med nye regler. For disse er minstenivået lik full garantipensjon. Siden garantipensjonen avkortes med 80 prosent mot inntektspensjonen, vil nesten alle som mottar garantipensjon
-få en avkortet garantipensjon når de tar ut pensjonen og en samlet pensjon som er høyere enn minstenivået.
-Personer som ville fått en full garantipensjon
-dersom de tok ut pensjonen ved 67 år, kan få en
-høyere pensjon dersom de utsetter uttaket. Disse
-vil heller ikke bli regnet som minstepensjonister.
-Dersom minstenivåene reguleres gunstigere
-enn løpende pensjoner, kan de som hadde en pensjon over minstenivået når de tok ut pensjon, etter
-hvert komme ned på minstenivået. Med dagens
-regler vil disse få et pensjonstillegg («individuelt
-minstenivåtillegg») som sikrer at de får en samlet
-pensjon som er lik minsteytelsen. Og de blir minstepensjonister. Hvor mange som senere blir minstepensjonister, vil avhenge av hvordan minsteytelsene blir regulert. Siden de fleste «garantipensjonister», personer som mottar en full eller avkortet garantipensjon, vil ha en samlet pensjon som
-er høyere enn minstenivåene, sier antall garantipensjonister ikke noe om hvor mange som er minstepensjonister.
-11.3.5 Betydningen av trygdetid
-Det er et krav om minst fem års trygdetid for å ha
-rett til alderspensjon fra gammel folketrygd og for
-å ha rett til garantipensjon i ny folketrygd, mens
-det ikke er noe krav til trygdetid for å ha rett til
-opptjent inntektspensjon5.
-Alderspensjonister som har mindre enn 40 års
-trygdetid vil få avkortet alderspensjonen sin. Slik
-var det også før pensjonsreformen. Minsteytelsene i pensjonssystemet er derfor ikke noen
-nedre grense for samlet pensjon. Personer med
-mindre enn 40 års trygdetid omfatter personer
-som har innvandret til Norge etter fylte 27 år eller
-som i lengre perioder har arbeidet i utlandet uten
-frivillig medlemskap i folketrygden.
-5
-
-Minstekravet til trygdetid ble økt fra tre til fem år med virkning fra 1. januar 2021, jf. Prop. 10 L (2019–2020), Innst. 80
-L (2019–2020), Lovvedtak 18 (2019–2020).
-
-[Side 260]
-
-258
-
-NOU 2022: 7
-
-Kapittel 11
-
-Et forbedret pensjonssystem
-
-Som nevnt var det ved utgangen av desember
-2021 vel 30 000 minstepensjonister med redusert
-trygdetid. I tillegg til minstepensjonister med
-redusert trygdetid, er det en gruppe som mottar
-alderspensjon under minstenivåene, men som
-likevel ikke regnes som minstepensjonister, siden
-de før avkorting for trygdetid har en alderspensjon som ligger over minstenivået. Ifølge Arbeidsog velferdsdirektoratet var det ved utgangen av
-2020 om lag 25 000 personer i denne gruppen, og
-av disse var nesten to tredeler bosatt i utlandet.
-At minsteytelsene avkortes med trygdetid må
-ses i sammenheng med at personer med manglende trygdetid kan ha opptjent alderspensjon i
-andre land. Innenfor EØS-området og for land som
-Norge har trygdeavtale med, finnes det regler for
-hvordan pensjonen skal beregnes for personer
-med opptjening i flere land. Avkorting ved manglende trygdetid ble ikke drøftet hverken av Pensjonskommisjonen eller i de to stortingsmeldingene om pensjonsreformen, men ved innføringen
-av folketrygden siterte departementet Pensjonsutredningskomitéen i St.meld. nr. 75 (1963–64):
-«Det er etter komitéens mening ikke uten
-videre rimelig at personer som har oppholdt seg
-utenfor landet kanskje i hele sitt yrkesaktive liv,
-skal kunne vende tilbake til hjemlandet ved pensjonsalderen og straks få rett til full alderspensjon på linje med dem som har oppholdt seg i
-landet og etter økonomisk evne har deltatt i
-finansieringen av ordningen. Det naturlige
-synes å være at pensjonen fastsettes på grunnlag av vedkommendes oppholdstid i landet.»
-Departementet sluttet seg til denne vurderingen.
-Det høyere nivået på innvandring og
-utvandring de siste tiårene vil føre til sterk vekst i
-antall personer som ikke har full trygdetid og som
-dermed ikke vil ha rett til en samlet pensjon på
-linje med minstenivåene. Mange av disse vil heller
-ikke ha rett til alderspensjon fra andre land. Utvalget mener at dette eventuelt må løses utenfor pensjonssystemet, jf. at ordningen med supplerende
-stønad sikrer personer med kort botid – og dermed kort trygdetid – en inntekt på linje med
-garantipensjonen. Det er naturlig at ordningen tilpasses utvalgets forslag for en gradvis økning i
-alderen for ubetinget rett til uttak av alderspensjon i takt med levealdersutviklingen, samt innføring av årskullspesifikke minsteytelser. Endringer
-i inn- og utvandring over tid innebærer også at det
-er behov for god kunnskap om bruken av ordningen for å kunne vurdere om den fungerer etter
-hensikten.
-
-11.4 Andre minsteytelser
-i folketrygden
-11.4.1 Innledning
-Utvalget er bedt om å vurdere minsteytelsene i
-pensjonssystemet opp mot andre minsteytelser i
-folketrygden. Dette avsnittet gir en oversikt over
-disse andre minsteytelsene. Det er ingen minsteytelse for sykepenger og dagpenger, men det er et
-minstekrav til nivået på tidligere inntekt for å ha
-rett til disse ytelsene.
-Mottakere av arbeidsavklaringspenger og uføretrygd som har hatt lav eller ingen tidligere inntekt,
-har rett på en minsteytelse. For overgangsstønad til
-enslig mor eller far utbetales det en grunnsikring
-som er uavhengig av tidligere inntekt.
-Uføretrygd gir opptjening av alderspensjon på
-grunnlag av beregningsgrunnlaget for uføretrygden, mens for arbeidsavklaringspenger og stønad
-til enslig mor eller far er det selve ytelsen som gir
-pensjonsopptjening.
-11.4.2 Uføretrygd
-Før 2015 ble uførepensjonen beregnet som en
-pensjon etter tilsvarende regler som alderspensjon fra folketrygden etter gamle regler før levealdersjustering, og uføre hadde særlig gunstige
-skatteregler. Fram til 1. mai 2011 var minstenivåene i uførepensjonen på samme nivå som minstenivåene for enslige og gifte/samboende i alderspensjonen. Satser for minste pensjonsnivå, jf.
-avsnitt 11.2.5, ble fastsatt som andeler av G fra
-1. januar 2011. Ordinær sats ble økt fra 1,82 til
-1,85 G, høy sats økte fra 1,97 til 2,00 G og særskilt
-sats fra 2,94 til 3,00 G. Lav sats var uendret på
-1,59 G. Ved reguleringen 1. mai 2011 ble minstenivåene i alderspensjonen regulert etter nye regler,
-altså med lønnsveksten fratrukket virkningen av
-levealdersjustering ved 67 år, mens minstenivåene
-i uførepensjonen fortsatt var andeler av grunnbeløpet og ble dermed regulert med lønnsveksten.
-Siden det heller ikke var skatt på minsteytelsene
-til uføre, ble minsteytelsene etter skatt høyere i
-uføreordningen enn i alderspensjonen. Minsteytelsene i uførepensjonen var uendret målt i G
-fram til 2015.
-Uføreytelsen i folketrygden ble lagt om fra
-2015. Etter omleggingen ble kompensasjonsgraden for uføretrygd 66 prosent av tidligere inntekt.
-Som tidligere inntekt regnes gjennomsnittet av de
-tre beste av de fem siste inntektsårene. Personer
-med lav tidligere inntekt får en minsteytelse som
-er differensiert etter sivilstand.
-
-[Side 261]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Den nye uføretrygden blir skattlagt som
-lønnsinntekt, og minsteytelsene ble økt for å kompensere for dette. I tillegg ble de ulike satsene for
-gifte og samboende gjort om til én sats som var
-uavhengig av ektefellens inntekt og pensjonsstatus. Minsteytelsene for uføretrygd ble fastsatt
-som andeler av grunnbeløpet og satsene har ligget fast siden 2015. Ved omleggingen i 2015 var
-intensjonen at uføreytelsen etter skatt skulle være
-på samme nivå som tidligere for personer uten
-andre inntekter enn uføreytelsen. I praksis ble
-imidlertid økningen marginalt større enn dette,
-noe som økte forskjellen mellom minsteytelsen i
-uføreordningen og alderspensjonen ytterligere.
-For enslige er minste årlige ytelse (høy sats)
-2,48 G eller 263 900 kroner, fra 1. mai 2021. For gifte
-og samboere er minstebeløpet (ordinær sats)
-2,28 G som tilsvarer 242 600 kroner. Minstesatsene
-innebærer at en enslig med en tidligere inntekt
-under 3,76 G vil få minsteytelsen, mens for en gift er
-inntektsgrensen 3,45 G. Uføre skatter etter samme
-regler som yrkesaktive og utbetalt beløp etter skatt
-for de som mottar minsteytelsen er i gjennomsnitt
-for 2021 på 215 000 kroner for enslige og
-200 800 kroner for gifte med skattereglene for 2021.
-Personer som har blitt uføre før fylte 26 år («ung
-ufør») og der uførheten skyldes «en alvorlig og varig
-sykdom, skade eller lyte som er klart dokumentert»,
-kan få en høyere minsteytelse. Minsteytelsene for
-unge uføre er 2,66 G for gifte/samboende og 2,91 G
-for enslige. Beløpene gir en inntekt etter skatt på
-henholdsvis 227 400 og 244 700 kroner i 2021. Som
-andel av G blir dette 1,92 og 2,05.
-I tillegg gis det barnetillegg for hvert barn en
-som mottar uføretrygd forsørger. Barnetillegget
-utgjør 40 prosent av grunnbeløpet for hvert forsørget barn og avkortes med trygdetid.
-
-11.4.3 Arbeidsavklaringspenger
-Arbeidsavklaringspenger (AAP) ble innført fra 1.
-mars 2010 som erstatning for de tidligere ytelsene
-rehabiliteringspenger, attføringspenger og tidsbegrenset uførestønad, jf. St.meld. nr. 9 (2006–2007)
-og Ot.prp. nr. 4 (2008–2009).
-Minsteytelsen på rehabiliteringspenger og attføringspenger var ved inngangen til 2000-tallet på
-1,6 G. Det var lavere enn minstepensjonen til enslige som da var på 1,7933 G. I tillegg hadde personer på rehabiliteringspenger og attføringspenger
-ikke de samme skattefordelene som alders- og
-uførepensjonister. Ved innføringen av tidsbegrenset uførestønad i 2004 ble det et felles minstenivå
-på de tre ytelsene på 1,8 G. I Ot.prp. nr. 102 (2001–
-2002) begrunnes økningen blant annet med at
-
-259
-
-Kapittel 11
-
-«Dersom differansen mellom minstenivået i den
-tidsbegrensede stønadsordningen og uførepensjonsordningen er for stor, vil dette kunne medføre et press for å få uførepensjon».
-I forbindelse med trygdeoppgjøret for 2008 ble
-det foreslått en opptrappingsplan med sikte på å
-øke minstepensjonen for enslige til 2 G, jf. Ot.prp.
-nr. 77 (2007–2008). I proposisjonen ble det foreslått en tilsvarende opptrapping av minsteytelsen
-for rehabiliteringspenger, attføringspenger og
-tidsbegrenset uførestønad. I proposisjonen heter
-det at «[d]epartementet ser det som vesentlig at
-minsteytelsene i de midlertidige helserelaterte
-ytelsene og overgangsstønaden til enslige forsørgere er på samme nivå.»
-Kompensasjonsgraden for arbeidsavklaringspenger er 66 prosent av tidligere inntekt. Personer med lav tidligere inntekt får en minsteytelse
-som ikke er gradert etter sivilstand, noe heller
-ikke de tre ytelsene som ble erstattet av AAP var.
-Minsteytelsen ved innføringen av AAP i 2010 var
-på 1,97 G, men ble økt til 2 G fra 1.1.2018. Den var
-dermed på samme nivå før skatt som høy sats i
-uførepensjonen før reformen i 2015.
-Ved innføringen av AAP i 2010 var det en egen
-minstesats på 2,44 G for dem som fikk arbeidsevnen nedsatt før fylte 26 år. Denne bestemmelsen
-ble opphevet fra 1.1.2018.
-Fra 1.2.2020 ble minste årlige ytelse for personer under 25 år redusert til to tredeler av 2 G,
-altså 1,33 G.
-De som mottar AAP kan ha rett til barnetillegg
-som utgjør 27 kroner per dag for hvert barn fem
-dager i uka.
-Arbeidsavklaringspenger skattlegges som
-lønnsinntekt, og en minsteytelse på 2 G gir en inntekt etter skatt på 178 500 kroner i 2021 som tilsvarer 1,70 G.
-
-11.4.4 Overgangsstønad til enslig forsørger
-En enslig mor eller far med omsorg for barn under
-åtte år kan få overgangsstønad. De som ikke kan
-arbeide fordi de har omsorg barn som krever særlig tilsyn, kan innvilges overgangsstønad inntil barnet fyller 18 år. Overgangsstønaden kan ytes i tre år
-til sammen. Stønadstiden kan utvides med opptil to
-år når den enslige moren eller faren er under nødvendig og hensiktsmessig utdanning.
-Fram til 2014 var overgangsstønaden et fast
-beløp på 2 G som ble skattlagt som pensjonsinntekt. I Statsbudsjettet 2014 ble det foreslått at
-overgangsstønaden fra 1.4.2014 skulle skattlegges
-som lønnsinntekt for nye stønadsmottakere, og i
-Prop. 23 L (2013–2014) ble det derfor foreslått å
-
-[Side 262]
-
-260
-
-NOU 2022: 7
-
-Kapittel 11
-
-Et forbedret pensjonssystem
-
-øke overgangsstønaden til 2,25 G (239 400 kroner
-fra 1.5.2021). Stønaden reduseres med 45 prosent
-av inntekt6 over halvparten av grunnbeløpet. Det
-innebærer at stønaden bortfaller om inntekten er
-5,5 G eller høyere.
-En stønad på 2,25 G gir en inntekt etter skatt
-på 198 600 kroner i 2021. Det tilsvarte 1,90 G.
-
-11.4.5 Omstillingsstønad til gjenlevende
-Stortinget vedtok 18. desember 2020 endringer i
-folketrygdens ytelser til etterlatte. For voksne
-etterlatte innebærer vedtaket at dagens varige
-ytelse til etterlatte under 67 år erstattes av en ny
-tidsbegrenset og standardisert omstillingsstønad
-med samme avkortingsregler mot inntekt som
-stønad til enslig mor eller far. Full ytelse er 2,25 G
-(239 400 kroner fra 1.5.2021) når avdøde hadde
-full trygdetid. Nivået er satt likt med nivået på
-overgangsstønaden til enslige forsørgere.7 Etter
-skatt er inntekten på 198 600 kroner i 2021.
-Omstillingsstønaden kan gis for en periode på
-tre år etter dødsfallet, med mulighet til to års forlengelse, dersom den etterlatte trenger tiltak eller
-utdanning for å bli selvforsørget. Den tidsbegrensede omstillingsstønaden, innebærer at framtidens
-etterlatte vil kunne motta en ytelse i en overgangsfase som skal hjelpe dem til å bli selvforsørget. Den
-nye innretningen legger vekt på at de fleste etterlatte under 67 år er arbeidsføre personer som i det
-alt vesentlige må kunne forutsettes å forsørge seg
-6
-7
-
-Med inntekt menes arbeidsinntekt, foreldrepenger, dagpenger med mer.
-Se Prop. 13 L (2020–2021), kapittel 1.3.2.
-
-Minsteytelse AAP
-
-ved egen inntekt. Den nye ytelsen er vedtatt innført, med overgangsregler for årskull født før 1963
-og for årskull født før 1970 som er innvilget etterlattepensjon før ikrafttredelsestidspunktet.
-
-11.4.6
-
-Forholdet mellom minsteytelsene
-i folketrygden
-Formålet med minsteytelsene i trygde- og pensjonssystemet er det samme: å gi mottakerne en
-inntekt som gir en grunnsikring. Det er likevel
-noen forskjeller mellom ytelsene. For sykepenger
-og dagpenger er det ingen minsteytelse. For overgangsstønad og arbeidsavklaringspenger er det
-ingen differensiering etter sivilstand, men overgangsstønaden gis per definisjon bare til enslige.
-Figur 11.12 viser minsteytelser etter skatt i
-2021 med gjennomsnittsbeløp for året som andel
-av grunnbeløpet i folketrygden. Omstillingsstønad til etterlatte vil tidligst komme til utbetaling
-fra 2023. Det er lagt til grunn at den etterlatte i likhet med enslig forsørger, har barn og at skattereglene er like for de to ytelsene. Enslig forsørger
-kan ha rett til et særfradrag, men det er ikke gitt
-særfradrag i figuren. For de andre ytelsene vil
-eventuelle forsørgingstillegg for barn komme i tillegg. For alderspensjonister er forsørgingstillegg
-vedtatt avviklet fra 1. januar 2025.
-Figuren viser at nivået på minsteytelsene etter
-skatt varierer. Høyest er minsteytelsene til enslige
-alderspensjonister med minste pensjonsnivå og
-enslige uføretrygdede, mens minsteytelsen på
-arbeidsavklaringspenger og garantipensjonen til
-gifte er lavest.
-
-1,70
-
-Overgangsstønad /omstillingsstønad
-
-1,90
-
-Minsteytelse uføretrygd, gift
-
-1,92
-
-Minsteytelse uføretrygd, enslig
-Minste pensjonsnivå, gift (ordinær sats)
-
-2,05
-1,82
-
-Minste pensjonsnivå, enslig
-Garantipensjonsnivå, gift
-Garantipensjonsnivå, enslig
-
-Figur 11.12 Minsteytelser i folketrygden etter skatt. Andel av G, gjennomsnitt for 2021
-
-2,08
-1,76
-1,90
-
-[Side 263]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Nivået på flere av minsteytelsene var i utgangspunktet like, men ulike endringer har gjort at de nå
-er forskjellige. Ytelsene gis i ulike livssituasjoner,
-og det kan derfor være ulike hensyn som bør vektlegges for de ulike ytelsene. For eksempel gis
-arbeidsavklaringspenger til personer som er forventet å komme i arbeid, og det kan derfor være
-naturlig at arbeidsavklaringspengene ikke er differensiert etter sivilstand. For ytelser som gis til personer i alderen der det er vanlig å arbeide, bør
-nivået på minsteytelsen gi en lavere inntekt enn det
-mottakerne kan oppnå i arbeidsmarkedet slik at
-det lønner seg å arbeide. Det er videre lettere å
-klare seg på en lav inntekt en relativt kort periode.
-Det er verdt å merke seg at mens en ufør med
-minsteytelse i de fleste tilfeller vil få minste pensjonsnivå ved overgang til alderspensjon med
-gammel alderspensjon, vil en ufør født i 1963 eller
-senere tjene opp inntektspensjon på bakgrunn av
-en fiktiv fastsatt inntekt før uførhet, og de fleste vil
-dermed få en alderspensjon som er litt høyere enn
-garantipensjonsnivået.
-
-11.5 Inntektssituasjonen for eldre med
-lave inntekter
-11.5.1 Innledning
-Pensjonssystemets grunnleggende formål er å gi
-økonomisk og sosial trygghet gjennom å sikre
-den enkelte inntekt i alderdommen. Grunnsikringen skal forebygge fattigdom og ivaretas i pensjonssystemet i Norge av minste pensjonsnivå og
-garantipensjon.
-De fleste alderspensjonistene har ikke bare
-pensjon fra folketrygden, men også andre inntekter. Nivået på minsteytelsene gir derfor ikke et
-fullstendig bilde av minstepensjonistenes økonomiske situasjon. Formålet med dette avsnittet er å
-beskrive nivået på og utviklingen i alderspensjonistenes samlende inntekter og belyse deres økonomiske situasjon mer generelt. Det går fram at
-det er stor variasjon mellom alderspensjonistene.
-Mange aleneboende minstepensjonister har relativt lav inntekt. Mange gifte pensjonister har imidlertid svært god økonomi, og også mange gifte
-minstepensjonister lever i en husholdning med
-god økonomi.
-Videre belyses først inntektssituasjonen for
-alderspensjonister som mottar minsteytelser
-(avsnitt 11.5.2). Deretter sammenliknes omfanget
-av lavinntektsproblemer blant eldre med omfanget i
-andre grupper (avsnittene 11.5.3, 11.5.4, og 11.5.5).
-
-11.5.2
-
-261
-
-Kapittel 11
-
-Sammensetningen av inntektene til
-alderspensjonister
-
-Den økonomiske situasjon til alderspensjonistene
-kan ikke vurderes ut fra nivået på alderspensjonen
-fra folketrygden alene. Den økonomiske situasjonen vil blant annet også avhenge av andre inntekter, formue og levekostnader på bostedet.
-Hvor romslig økonomien er måles normalt på
-husholdningsnivå. Mange minstepensjonister bor i
-husholdninger sammen med andre. I 2020 gjaldt
-dette 58 prosent av husholdningene med minst én
-minstepensjonist. For de minstepensjonistene som
-tilhører en flerpersonhusholdning, er det mest vanlig å bo sammen med en annen pensjonist som ikke
-er minstepensjonist. Drøyt 54 000 alderspensjonister
-med minstepensjon var aleneboende. Det tilsvarte
-om lag 42 prosent av husholdningene med minstepensjonister ifølge inntektsstatistikken for 2020.
-Tabell 11.4 viser sammensetningen av samlet
-inntekt i husholdninger med alderspensjonister
-med minste pensjonsnivå i ulike husholdningstyper. Den øverste delen av tabellen viser absolutte
-gjennomsnittstall i tusen kroner, mens den nederste delen viser andeler av samlet inntekt før skatt i
-prosent. Det går fram at alderspensjon fra folketrygden i gjennomsnitt utgjør 60,7 prosent av samlet inntekt, og samlet inntekt var dermed 65 prosent høyere enn alderspensjonen. Blant aleneboende utgjorde alderspensjonen hele 77,7 prosent
-av samlet inntekt, mens andelen er lavest blant
-minstepensjonister i gruppen «andre» som i
-hovedsak er minstepensjonister som bor sammen
-med andre, men ikke er gift. Den sistnevnte gruppen utgjør ni prosent av populasjonen, og her er
-yrkesinntekt den viktigste inntektskilden for husholdningen. Tabellen viser videre at tjenestepensjoner i gjennomsnitt utgjør elleve prosent av samlet inntekt i husholdninger med minstepensjonister. Andelen med tjenestepensjon er lavest blant
-aleneboende, og høyest blant gifte som bor
-sammen med andre.
-Tabell 11.4 viser også samlet inntekt etter
-skatt per forbruksenhet (EU60).8 Det går fram at
-gifte m.fl. har 57 prosent høyere inntekt etter skatt
-per forbruksenhet enn aleneboende; 363 500 mot
-232 200 kroner. Tabellen viser videre at alle gruppene har relativt stor nettoformue. Dette omtales
-nærmere i avsnitt 11.5.3.
-8
-
-I EU60 har det første voksne husholdningsmedlemmet en
-vekt på 1, mens det andre har skal en vekt på 0,5 og barn en
-vekt på 0,3. Det betyr at en husholdning med to voksne
-trenger 50 prosent høyere inntekt enn en enslig for å ha
-samme inntekt per forbruksenhet.
+Sliterordningen og Fellesordningen for AFP har bestemt at slitertillegget og AFP i privat sektor fortsatt skal reguleres med lønnsveksten fratrukket 0,75 prosent.

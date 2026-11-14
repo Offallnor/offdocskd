@@ -1,952 +1,444 @@
-# NOU 2022: 7, del 24 av 31 (side 279–288)
+# NOU 2022: 7, del 24 av 32
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
 - Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 279]
+## Andre minsteytelser i folketrygden
 
-277
+### Innledning
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+Utvalget er bedt om å vurdere minsteytelsene i pensjonssystemet opp mot andre minsteytelser i folketrygden. Dette avsnittet gir en oversikt over disse andre minsteytelsene. Det er ingen minsteytelse for sykepenger og dagpenger, men det er et minstekrav til nivået på tidligere inntekt for å ha rett til disse ytelsene.
 
-pensjonister. Minstenivåene bli i så fall årskullspesifikke; hvert årskull får sine minstenivåer.
-Isolert sett vil årskullspesifikke minstenivåer
-gi lavere pensjon enn regulering med lønnsveksten for de som har minste pensjonsnivå eller
-som ville ha blitt tatt igjen av minsteytelsene. Et
-eksempel kan belyse betydningen av reguleringen. Dersom vi tar utgangpunkt i en lønnsvekst på
-3,5 prosent årlig og en prisvekst på 2,0 prosent, så
-vil løpende pensjoner nominelt øke med 2,75 prosent årlig, mens reallønnsveksten blir i underkant
-av 1,5 prosent. Over en 20-årsperiode vil da
-løpende pensjoner reduseres i verdi med 13 prosent i forhold til lønningene, men øke nesten 15
-prosent mer enn prisene.
-Årskullspesifikke minstenivåer vil bare ha
-betydning dersom minstenivåene ved normert
-pensjoneringsalder reguleres gunstigere enn
-løpende pensjoner. Kombinert med gunstigere
-regulering av utgangsnivåene, er årskullspesifikke minstenivåer ikke nødvendigvis til ugunst
-for dem med lavest pensjoner. Vi kan sammenlikne fordelingen av pensjonene i 2060 i alternativet med økte aldersgrenser med et alternativ der, i
-tillegg til økte aldersgrenser, minsteytelsene reguleres med lønnsveksten og der det er en årskullspesifikk minsteytelse. Figur 11.24 og figur 11.25
-viser fordelingen av alderspensjonen i 2060 etter
+Mottakere av arbeidsavklaringspenger og uføretrygd som har hatt lav eller ingen tidligere inntekt, har rett på en minsteytelse. For overgangsstønad til enslig mor eller far utbetales det en grunnsikring som er uavhengig av tidligere inntekt.
 
-500
+Uføretrygd gir opptjening av alderspensjon på grunnlag av beregningsgrunnlaget for uføretrygden, mens for arbeidsavklaringspenger og stønad til enslig mor eller far er det selve ytelsen som gir pensjonsopptjening.
 
-500
+### Uføretrygd
 
-450
+Før 2015 ble uførepensjonen beregnet som en pensjon etter tilsvarende regler som alderspensjon fra folketrygden etter gamle regler før levealdersjustering, og uføre hadde særlig gunstige skatteregler. Fram til 1. mai 2011 var minstenivåene i uførepensjonen på samme nivå som minstenivåene for enslige og gifte/samboende i alderspensjonen. Satser for minste pensjonsnivå, jf. avsnitt 11.2.5, ble fastsatt som andeler av G fra 1. januar 2011. Ordinær sats ble økt fra 1,82 til 1,85 G, høy sats økte fra 1,97 til 2,00 G og særskilt sats fra 2,94 til 3,00 G. Lav sats var uendret på 1,59 G. Ved reguleringen 1. mai 2011 ble minstenivåene i alderspensjonen regulert etter nye regler, altså med lønnsveksten fratrukket virkningen av levealdersjustering ved 67 år, mens minstenivåene i uførepensjonen fortsatt var andeler av grunnbeløpet og ble dermed regulert med lønnsveksten. Siden det heller ikke var skatt på minsteytelsene til uføre, ble minsteytelsene etter skatt høyere i uføreordningen enn i alderspensjonen. Minsteytelsene i uførepensjonen var uendret målt i G fram til 2015.
 
-450
+Uføreytelsen i folketrygden ble lagt om fra 2015. Etter omleggingen ble kompensasjonsgraden for uføretrygd 66 prosent av tidligere inntekt. Som tidligere inntekt regnes gjennomsnittet av de tre beste av de fem siste inntektsårene. Personer med lav tidligere inntekt får en minsteytelse som er differensiert etter sivilstand.
 
-400
+Den nye uføretrygden blir skattlagt som lønnsinntekt, og minsteytelsene ble økt for å kompensere for dette. I tillegg ble de ulike satsene for gifte og samboende gjort om til én sats som var uavhengig av ektefellens inntekt og pensjonsstatus. Minsteytelsene for uføretrygd ble fastsatt som andeler av grunnbeløpet og satsene har ligget fast siden 2015. Ved omleggingen i 2015 var intensjonen at uføreytelsen etter skatt skulle være på samme nivå som tidligere for personer uten andre inntekter enn uføreytelsen. I praksis ble imidlertid økningen marginalt større enn dette, noe som økte forskjellen mellom minsteytelsen i uføreordningen og alderspensjonen ytterligere.
 
-400
+For enslige er minste årlige ytelse (høy sats) 2,48 G eller 263 900 kroner, fra 1. mai 2021. For gifte og samboere er minstebeløpet (ordinær sats) 2,28 G som tilsvarer 242 600 kroner. Minstesatsene innebærer at en enslig med en tidligere inntekt under 3,76 G vil få minsteytelsen, mens for en gift er inntektsgrensen 3,45 G. Uføre skatter etter samme regler som yrkesaktive og utbetalt beløp etter skatt for de som mottar minsteytelsen er i gjennomsnitt for 2021 på 215 000 kroner for enslige og 200 800 kroner for gifte med skattereglene for 2021.
 
-350
+Personer som har blitt uføre før fylte 26 år («ung ufør») og der uførheten skyldes «en alvorlig og varig sykdom, skade eller lyte som er klart dokumentert», kan få en høyere minsteytelse. Minsteytelsene for unge uføre er 2,66 G for gifte/samboende og 2,91 G for enslige. Beløpene gir en inntekt etter skatt på henholdsvis 227 400 og 244 700 kroner i 2021. Som andel av G blir dette 1,92 og 2,05.
 
-350
+I tillegg gis det barnetillegg for hvert barn en som mottar uføretrygd forsørger. Barnetillegget utgjør 40 prosent av grunnbeløpet for hvert forsørget barn og avkortes med trygdetid.
 
-300
+### Arbeidsavklaringspenger
 
-300
+Arbeidsavklaringspenger (AAP) ble innført fra 1. mars 2010 som erstatning for de tidligere ytelsene rehabiliteringspenger, attføringspenger og tidsbegrenset uførestønad, jf. St.meld. nr. 9 (2006–2007) og Ot.prp. nr. 4 (2008–2009).
 
-250
+Minsteytelsen på rehabiliteringspenger og attføringspenger var ved inngangen til 2000-tallet på 1,6 G. Det var lavere enn minstepensjonen til enslige som da var på 1,7933 G. I tillegg hadde personer på rehabiliteringspenger og attføringspenger ikke de samme skattefordelene som alders- og uførepensjonister. Ved innføringen av tidsbegrenset uførestønad i 2004 ble det et felles minstenivå på de tre ytelsene på 1,8 G. I Ot.prp. nr. 102 (2001–2002) begrunnes økningen blant annet med at «Dersom differansen mellom minstenivået i den tidsbegrensede stønadsordningen og uførepensjonsordningen er for stor, vil dette kunne medføre et press for å få uførepensjon».
 
-250
+I forbindelse med trygdeoppgjøret for 2008 ble det foreslått en opptrappingsplan med sikte på å øke minstepensjonen for enslige til 2 G, jf. Ot.prp. nr. 77 (2007–2008). I proposisjonen ble det foreslått en tilsvarende opptrapping av minsteytelsen for rehabiliteringspenger, attføringspenger og tidsbegrenset uførestønad. I proposisjonen heter det at «\[d\]epartementet ser det som vesentlig at minsteytelsene i de midlertidige helserelaterte ytelsene og overgangsstønaden til enslige forsørgere er på samme nivå.»
 
-200
+Kompensasjonsgraden for arbeidsavklaringspenger er 66 prosent av tidligere inntekt. Personer med lav tidligere inntekt får en minsteytelse som ikke er gradert etter sivilstand, noe heller ikke de tre ytelsene som ble erstattet av AAP var. Minsteytelsen ved innføringen av AAP i 2010 var på 1,97 G, men ble økt til 2 G fra 1.1.2018. Den var dermed på samme nivå før skatt som høy sats i uførepensjonen før reformen i 2015.
 
-200
+Ved innføringen av AAP i 2010 var det en egen minstesats på 2,44 G for dem som fikk arbeidsevnen nedsatt før fylte 26 år. Denne bestemmelsen ble opphevet fra 1.1.2018.
 
-150
+Fra 1.2.2020 ble minste årlige ytelse for personer under 25 år redusert til to tredeler av 2 G, altså 1,33 G.
 
-150
+De som mottar AAP kan ha rett til barnetillegg som utgjør 27 kroner per dag for hvert barn fem dager i uka.
 
-100
+Arbeidsavklaringspenger skattlegges som lønnsinntekt, og en minsteytelse på 2 G gir en inntekt etter skatt på 178 500 kroner i 2021 som tilsvarer 1,70 G.
 
-100
+### Overgangsstønad til enslig forsørger
 
-50
+En enslig mor eller far med omsorg for barn under åtte år kan få overgangsstønad. De som ikke kan arbeide fordi de har omsorg barn som krever særlig tilsyn, kan innvilges overgangsstønad inntil barnet fyller 18 år. Overgangsstønaden kan ytes i tre år til sammen. Stønadstiden kan utvides med opptil to år når den enslige moren eller faren er under nødvendig og hensiktsmessig utdanning.
 
-50
+Fram til 2014 var overgangsstønaden et fast beløp på 2 G som ble skattlagt som pensjonsinntekt. I Statsbudsjettet 2014 ble det foreslått at overgangsstønaden fra 1.4.2014 skulle skattlegges som lønnsinntekt for nye stønadsmottakere, og i Prop. 23 L (2013–2014) ble det derfor foreslått å øke overgangsstønaden til 2,25 G (239 400 kroner fra 1.5.2021). Stønaden reduseres med 45 prosent av inntekt[^105] over halvparten av grunnbeløpet. Det innebærer at stønaden bortfaller om inntekten er 5,5 G eller høyere.
 
-0
+En stønad på 2,25 G gir en inntekt etter skatt på 198 600 kroner i 2021. Det tilsvarte 1,90 G.
 
-0
-0
+### Omstillingsstønad til gjenlevende
 
-10 20 30 40 50 60 70 80 90 100
-Prosentil
-Økte aldersgrenser
-Økte aldersgrenser, lønnsreg. av minsteytelser,
-årskullspesifikk minsteytelse
-Garantipensjon enslig 2021
+Stortinget vedtok 18. desember 2020 endringer i folketrygdens ytelser til etterlatte. For voksne etterlatte innebærer vedtaket at dagens varige ytelse til etterlatte under 67 år erstattes av en ny tidsbegrenset og standardisert omstillingsstønad med samme avkortingsregler mot inntekt som stønad til enslig mor eller far. Full ytelse er 2,25 G (239 400 kroner fra 1.5.2021) når avdøde hadde full trygdetid. Nivået er satt likt med nivået på overgangsstønaden til enslige forsørgere.[^106] Etter skatt er inntekten på 198 600 kroner i 2021.
 
-Figur 11.24 Fordeling av alderspensjon fra
-folketrygden blant arbeidsføre alderspensjonister i
-2060 etter prosentiler.1 Tusen 2021-kroner
-(lønnsdeflatert)
-1
+Omstillingsstønaden kan gis for en periode på tre år etter dødsfallet, med mulighet til to års forlengelse, dersom den etterlatte trenger tiltak eller utdanning for å bli selvforsørget. Den tidsbegrensede omstillingsstønaden, innebærer at framtidens etterlatte vil kunne motta en ytelse i en overgangsfase som skal hjelpe dem til å bli selvforsørget. Den nye innretningen legger vekt på at de fleste etterlatte under 67 år er arbeidsføre personer som i det alt vesentlige må kunne forutsettes å forsørge seg ved egen inntekt. Den nye ytelsen er vedtatt innført, med overgangsregler for årskull født før 1963 og for årskull født før 1970 som er innvilget etterlattepensjon før ikrafttredelsestidspunktet.
 
-Alltid bosatte. Forutsatt uttak samtidig med avgang. Gifte
-og samboende får samlet pensjon delt med en vekt på 1,7.
-Årskullspesifikk minsteytelse bare i ny folketrygd.
+### Forholdet mellom minsteytelsene i folketrygden
 
-Kapittel 11
+Formålet med minsteytelsene i trygde- og pensjonssystemet er det samme: å gi mottakerne en inntekt som gir en grunnsikring. Det er likevel noen forskjeller mellom ytelsene. For sykepenger og dagpenger er det ingen minsteytelse. For overgangsstønad og arbeidsavklaringspenger er det ingen differensiering etter sivilstand, men overgangsstønaden gis per definisjon bare til enslige.
 
-500
+Figur 11.12 viser minsteytelser etter skatt i 2021 med gjennomsnittsbeløp for året som andel av grunnbeløpet i folketrygden. Omstillingsstønad til etterlatte vil tidligst komme til utbetaling fra 2023. Det er lagt til grunn at den etterlatte i likhet med enslig forsørger, har barn og at skattereglene er like for de to ytelsene. Enslig forsørger kan ha rett til et særfradrag, men det er ikke gitt særfradrag i figuren. For de andre ytelsene vil eventuelle forsørgingstillegg for barn komme i tillegg. For alderspensjonister er forsørgingstillegg vedtatt avviklet fra 1. januar 2025.
 
-500
+Minsteytelser i folketrygden etter skatt. Andel av G, gjennomsnitt for 2021
 
-450
+Figuren viser at nivået på minsteytelsene etter skatt varierer. Høyest er minsteytelsene til enslige alderspensjonister med minste pensjonsnivå og enslige uføretrygdede, mens minsteytelsen på arbeidsavklaringspenger og garantipensjonen til gifte er lavest.
 
-450
+Nivået på flere av minsteytelsene var i utgangspunktet like, men ulike endringer har gjort at de nå er forskjellige. Ytelsene gis i ulike livssituasjoner, og det kan derfor være ulike hensyn som bør vektlegges for de ulike ytelsene. For eksempel gis arbeidsavklaringspenger til personer som er forventet å komme i arbeid, og det kan derfor være naturlig at arbeidsavklaringspengene ikke er differensiert etter sivilstand. For ytelser som gis til personer i alderen der det er vanlig å arbeide, bør nivået på minsteytelsen gi en lavere inntekt enn det mottakerne kan oppnå i arbeidsmarkedet slik at det lønner seg å arbeide. Det er videre lettere å klare seg på en lav inntekt en relativt kort periode.
 
-400
+Det er verdt å merke seg at mens en ufør med minsteytelse i de fleste tilfeller vil få minste pensjonsnivå ved overgang til alderspensjon med gammel alderspensjon, vil en ufør født i 1963 eller senere tjene opp inntektspensjon på bakgrunn av en fiktiv fastsatt inntekt før uførhet, og de fleste vil dermed få en alderspensjon som er litt høyere enn garantipensjonsnivået.
 
-400
+## Inntektssituasjonen for eldre med lave inntekter
 
-350
+### Innledning
 
-350
+Pensjonssystemets grunnleggende formål er å gi økonomisk og sosial trygghet gjennom å sikre den enkelte inntekt i alderdommen. Grunnsikringen skal forebygge fattigdom og ivaretas i pensjonssystemet i Norge av minste pensjonsnivå og garantipensjon.
 
-300
+De fleste alderspensjonistene har ikke bare pensjon fra folketrygden, men også andre inntekter. Nivået på minsteytelsene gir derfor ikke et fullstendig bilde av minstepensjonistenes økonomiske situasjon. Formålet med dette avsnittet er å beskrive nivået på og utviklingen i alderspensjonistenes samlende inntekter og belyse deres økonomiske situasjon mer generelt. Det går fram at det er stor variasjon mellom alderspensjonistene. Mange aleneboende minstepensjonister har relativt lav inntekt. Mange gifte pensjonister har imidlertid svært god økonomi, og også mange gifte minstepensjonister lever i en husholdning med god økonomi.
 
-300
+Videre belyses først inntektssituasjonen for alderspensjonister som mottar minsteytelser (avsnitt 11.5.2). Deretter sammenliknes omfanget av lavinntektsproblemer blant eldre med omfanget i andre grupper (avsnittene 11.5.3, 11.5.4, og 11.5.5).
 
-250
+### Sammensetningen av inntektene til alderspensjonister
 
-250
+Den økonomiske situasjon til alderspensjonistene kan ikke vurderes ut fra nivået på alderspensjonen fra folketrygden alene. Den økonomiske situasjonen vil blant annet også avhenge av andre inntekter, formue og levekostnader på bostedet.
 
-200
+Hvor romslig økonomien er måles normalt på husholdningsnivå. Mange minstepensjonister bor i husholdninger sammen med andre. I 2020 gjaldt dette 58 prosent av husholdningene med minst én minstepensjonist. For de minstepensjonistene som tilhører en flerpersonhusholdning, er det mest vanlig å bo sammen med en annen pensjonist som ikke er minstepensjonist. Drøyt 54 000 alderspensjonister med minstepensjon var aleneboende. Det tilsvarte om lag 42 prosent av husholdningene med minstepensjonister ifølge inntektsstatistikken for 2020.
 
-200
+Tabell 11.4 viser sammensetningen av samlet inntekt i husholdninger med alderspensjonister med minste pensjonsnivå i ulike husholdningstyper. Den øverste delen av tabellen viser absolutte gjennomsnittstall i tusen kroner, mens den nederste delen viser andeler av samlet inntekt før skatt i prosent. Det går fram at alderspensjon fra folketrygden i gjennomsnitt utgjør 60,7 prosent av samlet inntekt, og samlet inntekt var dermed 65 prosent høyere enn alderspensjonen. Blant aleneboende utgjorde alderspensjonen hele 77,7 prosent av samlet inntekt, mens andelen er lavest blant minstepensjonister i gruppen «andre» som i hovedsak er minstepensjonister som bor sammen med andre, men ikke er gift. Den sistnevnte gruppen utgjør ni prosent av populasjonen, og her er yrkesinntekt den viktigste inntektskilden for husholdningen. Tabellen viser videre at tjenestepensjoner i gjennomsnitt utgjør elleve prosent av samlet inntekt i husholdninger med minstepensjonister. Andelen med tjenestepensjon er lavest blant aleneboende, og høyest blant gifte som bor sammen med andre.
 
-150
+Husholdningenes inntektssammensetning for personer 67 år og eldre som var alderspensjonister med minste pensjonsnivå. Gjennomsnittstall i 2020
 
-150
+05J1xt2
 
-100
+|  | Alle alderspensjonister med minste pensjonsnivå | Aleneboende | I par og gift/registrert partner eller samboer med felles barn | Andre |
+|----|---:|---:|---:|---:|
+| *Beløp i 1000 kroner* |  |  |  |  |
+| Yrkesinntekt | 74,3 | 5,4 | 87,5 | 312,2 |
+| Kapitalinntekter | 38,5 | 12,9 | 60,7 | 37,7 |
+| Overføringer | 404,7 | 229,1 | 545,9 | 454,0 |
+| Skattepliktige overføringer | 397,0 | 221,6 | 539,7 | 438,0 |
+| Ytelser fra folketrygden | 331,9 | 195,5 | 443,2 | 362,0 |
+| Alderspensjon fra folketrygden | 314,2 | 192,2 | 425,7 | 279,4 |
+| Uføretrygd | 14,9 | 2,9 | 14,7 | 68,7 |
+| Arbeidsavklaringspenger | 2,3 | 0,1 | 2,2 | 12,6 |
+| Avtalefeltet pensjon, privat og offentlig sektor | 2,1 | 0,2 | 3,5 | 3,8 |
+| Tjenestepensjoner | 54,8 | 23,0 | 84,8 | 41,0 |
+| Skattefrie overføringer | 7,7 | 7,5 | 6,2 | 16,1 |
+| Bostøtte | 2,3 | 4,4 | 0,4 | 2,2 |
+| Sosialhjelp | 0,8 | 0,7 | 0,6 | 2,7 |
+| Grunn- og hjelpestønad | 1,2 | 0,9 | 1,2 | 2,2 |
+| Samlet inntekt | 517,5 | 247,4 | 694,1 | 804,0 |
+| Samlet inntekt etter skatt | 443,5 | 232,6 | 582,0 | 663,5 |
+| Inntekt etter skatt per forbruksenhet (EU60) | 309,3 | 232,2 | 363,5 | 371,3 |
+| Beregnet nettoformue | 3 717,5 | 2 061,9 | 5 190,7 | 3 452,3 |
+| *Prosent av samlet inntekt* |  |  |  |  |
+| Yrkesinntekt | 14,4 | 2,2 | 12,6 | 38,8 |
+| Kapitalinntekter | 7,4 | 5,2 | 8,7 | 4,7 |
+| Overføringer | 78,2 | 92,6 | 78,6 | 56,5 |
+| Skattepliktige overføringer | 76,7 | 89,6 | 77,8 | 54,5 |
+| Ytelser fra folketrygden | 64,1 | 79,0 | 63,9 | 45,0 |
+| Alderspensjon fra folketrygden | 60,7 | 77,7 | 61,3 | 34,8 |
+| Uføretrygd | 2,9 | 1,2 | 2,1 | 8,5 |
+| Arbeidsavklaringspenger | 0,4 | 0,0 | 0,3 | 1,6 |
+| Avtalefeltet pensjon, privat og offentlig sektor | 0,4 | 0,1 | 0,5 | 0,5 |
+| Tjenestepensjoner | 10,6 | 9,3 | 12,2 | 5,1 |
+| Skattefrie overføringer | 1,5 | 3,0 | 0,9 | 2,0 |
+| Bostøtte | 0,4 | 1,8 | 0,1 | 0,3 |
+| Sosialhjelp | 0,2 | 0,3 | 0,1 | 0,3 |
+| Grunn- og hjelpestønad | 0,2 | 0,4 | 0,2 | 0,3 |
+| Samlet inntekt | 100,0 | 100,0 | 100,0 | 100,0 |
+| Samlet inntekt etter skatt | 85,7 | 94,0 | 83,8 | 82,5 |
+
+Statistisk sentralbyrå. Uttrekk for AID fra inntekts- og formuesstatistikk for husholdninger.
+
+Tabell 11.4 viser også samlet inntekt etter skatt per forbruksenhet (EU60).[^107] Det går fram at gifte m.fl. har 57 prosent høyere inntekt etter skatt per forbruksenhet enn aleneboende; 363 500 mot 232 200 kroner. Tabellen viser videre at alle gruppene har relativt stor nettoformue. Dette omtales nærmere i avsnitt 11.5.3.
+
+En del av inntektspostene i tabell 11.4 er skjevt fordelt. Det går fram av tabell 11.5 som viser tilsvarende tall, men medianbeløp. Tabellen viser at på mange av postene har flertallet ikke noe beløp. Alderspensjon fra folketrygden utgjør nå under halvparten av samlet inntekt for alle husholdningstypene, men for aleneboende minstepensjonister er andelen hele 91,0 prosent. Det går videre fram at gifte m.fl. hadde relativt mye tjenestepensjon, mens under halvparten av de aleneboende mottok tjenestepensjon. Kapitalinntekter er en liten del av samlet inntekt for flertallet i alle husholdningstypene. Medianverdien av inntekt per forbruksinntekt var 48 prosent høyere blant gifte m.fl. enn blant aleneboende minstepensjonister.
+
+Husholdningenes inntektssammensetning for personer 67 år og eldre som var alderspensjonister med minste pensjonsnivå. Mediantall i 2020
+
+05J1xt2
+
+|  | Alle alderspensjonister med minste pensjonsnivå | Aleneboende | I par og gift/registrert partner eller samboer med felles barn | Andre |
+|----|---:|---:|---:|---:|
+| *Beløp i 1000 kroner* |  |  |  |  |
+| Yrkesinntekt | – | – | – | 67,8 |
+| Kapitalinntekter | 2,7 | 1,1 | 5,3 | 3,1 |
+| Overføringer | 383,8 | 218,4 | 518,1 | 454,2 |
+| Skattepliktige overføringer | 376,1 | 204,1 | 514,3 | 443,3 |
+| Ytelser fra folketrygden | 321,5 | 204,1 | 451,1 | 391,3 |
+| Alderspensjon fra folketrygden | 208,8 | 204,1 | 444,6 | 204,1 |
+| Uføretrygd | – | – | – | – |
+| Arbeidsavklaringspenger | – | – | – | – |
+| Avtalefeltet pensjon, privat og offentlig sektor | – | – | – | – |
+| Tjenestepensjoner | 19,7 | – | 48,5 | 11,9 |
+| Skattefrie overføringer | – | – | – | – |
+| Bostøtte | – | – | – | – |
+| Sosialhjelp | – | – | – | – |
+| Grunn- og hjelpestønad | – | – | – | – |
+| Samlet inntekt | 441,5 | 224,4 | 564,7 | 645,1 |
+| Samlet inntekt etter skatt | 414,4 | 220,3 | 496,9 | 552,1 |
+| Inntekt etter skatt per forbruksenhet (EU60) | 280,3 | 220,3 | 326,4 | 344,4 |
+| Beregnet nettoformue | 2 535,2 | 1 436,5 | 3 621,8 | 2 427,1 |
+| *Prosent av samlet inntekt* |  |  |  |  |
+| Yrkesinntekt | – | – | – | 10,5 |
+| Kapitalinntekter | 0,6 | 0,5 | 0,9 | 0,5 |
+| Overføringer | 86,9 | 97,3 | 91,7 | 70,4 |
+| Skattepliktige overføringer | 85,2 | 91,0 | 91,1 | 68,7 |
+| Ytelser fra folketrygden | 72,8 | 91,0 | 79,9 | 60,7 |
+| Alderspensjon fra folketrygden | 47,3 | 91,0 | 78,7 | 31,6 |
+| Uføretrygd | – | – | – | – |
+| Arbeidsavklaringspenger | – | – | – | – |
+| Avtalefeltet pensjon, privat og offentlig sektor | – | – | – | – |
+| Tjenestepensjoner | 4,5 | – | 8,6 | 1,8 |
+| Skattefrie overføringer | – | – | – | – |
+| Bostøtte | – | – | – | – |
+| Sosialhjelp | – | – | – | – |
+| Grunn- og hjelpestønad | – | – | – | – |
+| Samlet inntekt | 100,0 | 100,0 | 100,0 | 100,0 |
+| Samlet inntekt etter skatt | 93,9 | 98,2 | 88,0 | 85,6 |
+
+Statistisk sentralbyrå. Uttrekk for AID fra inntekts- og formuesstatistikk for husholdninger.
+
+### Lavinntekt i ulike grupper
+
+Forskjellen på minstenivåene for gifte og enslige har tradisjonelt vært begrunnet med at det er stordriftsfordeler ved å bo flere sammen fordi en kan dele på mange utgifter. Det er ikke åpenbart hvor store disse stordriftsfordelene er, og de varierer trolig med for eksempel livsfase og hvor en bor. For å sammenlikne ‘inntektsbehovet’ i ulike typer husholdninger kreves det et anslag på gjennomsnittlig inntektsbehov for hver person i husholdningen. Til dette benyttes ulike «ekvivalensskalaer» som tilordner vekter til de ulike husholdningsmedlemmene. De to mest brukte ekvivalensskalaene i Norge har fått navn etter EU og OECD. Skalaen som benyttes av EU, og som både i Norge og internasjonalt har blitt dominerende, regner med at utgiftene til en husholdning med to voksne vil være 50 prosent høyere enn i en enpersonhusholdning. Det betyr at en husholdning med to personer trenger 50 prosent høyere inntekt enn en enslig for å ha samme inntekt per forbruksenhet. EU-skalaens innebygde antakelser støttes av en empirisk studie av forbruksmønstrene til australske alderspensjonister som finner at de økonomiske behovene til samboende pensjonistpar er om lag 1,5 ganger høyere enn behovene til enslige pensjonister, jf. Bradbury (1996). EU-skalaen samsvarer med den innebygde skalaen i alderstrygden som var før folketrygden og med det opprinnelige størrelsesforholdet mellom grunnpensjonen til enslige og par i folketrygden. Med skalaen som OECD benytter, har den andre personen i en husholdning med to personer en vekt på 0,7, slik en husholdning med to voksne trenger 70 prosent høyere inntekt enn en person som lever alene.
+
+Det er ingen offisiell fattigdomsgrense i Norge. Statistisk sentralbyrå utarbeider imidlertid ulike mål på *lavinntekt*. Lavinntekten beregnes som den inntekten etter skatt som utgjør 50 eller 60 prosent av medianinntekten etter skatt i befolkningen. Det er altså et mål på *relativ* og ikke absolutt, inntekt. Tabell 11.6 viser ulike mål på lavinntekt. Mest brukt i Norge er nå den såkalte EU60, altså den inntekten etter skatt som utgjør 60 prosent av medianinntekten etter skatt når en bruker EUs ekvivalensskala. Tabellen viser at dette gir de høyeste lavinntektsgrensene.
+
+Lavinntektsgrenser per person i kroner (årsinntekt) i 2020 basert på ulike avstander til medianinntekt og ulike ekvivalensskalaer. Inntekt etter skatt i kroner
+
+03J1xt1
+
+|                        |  Enslig | Par uten barn |
+|------------------------|--------:|--------------:|
+| OECD-skala, 50 prosent | 170 300 |       144 750 |
+| OECD-skala, 60 prosent | 204 400 |       173 700 |
+| EU-skala, 50 prosent   | 202 200 |       151 650 |
+| EU-skala, 60 prosent   | 242 600 |       181 950 |
+
+Inntekts- og formuesstatistikk for husholdninger. Statistikkbanken tabell 09593.
+
+Det er en del faktorer som påvirker husholdningens økonomiske situasjon, men som ikke påvirker det inntektsbegrepet som benyttes til å beregne EU60. Dette gjelder blant annet verdien av offentlige tjenester, hjemmeproduksjon og verdien av egen bolig. Aaberge, Langørgen og Lindgren (2021) viser at andelen med lavinntekt i Norge reduseres betydelig når en tar hensyn til verdien av offentlige tjenester. Det skyldes at barn og eldre mottar en stor del av de offentlige tjenestene, og disse tilhører husholdninger som er overrepresentert i den nedre halvdelen av inntektsfordelingen.
+
+Tabell 11.7 viser andelen med lavinntekt i ulike grupper i befolkningen i utvalgte år i perioden fra 2008 til 2020. Det går fram at det er en lav andel av alderspensjonistene som har lavinntekt, 9,7 prosent i 2020, og andelen har gått ned fra 17,5 prosent i 2008. Blant alderspensjonister 67 år og eldre var andelen 11,1 prosent i 2020. Tallene er imidlertid vesentlig høyere blant aleneboende minstepensjonister med alderspensjon, der nærmere 80 prosent inngår i lavinntektsgruppen. Andelen med lavinntekt er på samme nivå som i 2008 og kan se ut til å ha økt noe fra 2011. Nedgangen fra 2008 til 2011 kan skyldes at minstepensjonen til enslige økte med 5,1 prosent fra 2008 til 2010 i fast grunnbeløp.
+
+Andel personer i husholdninger med lavinntekt i året (EU60) i prosent. Inntekt etter skatt. Utvalgte år 2008–2020
+
+08J1xt2
+
+|  | 2008 | 2011 | 2014 | 2016 | 2018 | 2019 | 2020 |
+|----|---:|---:|---:|---:|---:|---:|---:|
+| Hele befolkningen | 10,2 | 9,6 | 10,8 | 11,0 | 11,2 | 11,2 | 11,1 |
+| Personer 18 år og eldre | 10,4 | 9,7 | 10,6 | 10,6 | 10,8 | 10,8 | 10,7 |
+| Personer 18-24 år | 18,6 | 19,0 | 18,7 | 18,9 | 18,8 | 18,6 | 18,4 |
+| Personer 25-66 år | 7,9 | 8,0 | 9,3 | 9,5 | 9,8 | 9,9 | 9,8 |
+| Enslige forsørgere med barn 0-17 år | 20,5 | 21,1 | 26,0 | 27,8 | 29,6 | 29,5 | 29,8 |
+| Par med barn 0-17 år | 6,2 | 6,5 | 7,8 | 8,4 | 8,6 | 8,3 | 7,8 |
+| Par med barn 0-17 år i laveste inntektsklasse | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 |
+| Barn under 18 år | 9,4 | 9,5 | 11,5 | 12,3 | 12,8 | 12,5 | 12,2 |
+| Aleneboende under 35 år | 32,8 | 35,2 | 35,5 | 34,7 | 34,0 | 33,3 | 31,5 |
+| Aleneboende 35-49 år | 17,8 | 18,1 | 19,6 | 19,8 | 20,6 | 21,6 | 22,0 |
+| Aleneboende 50-66 år | 16,6 | 14,0 | 15,7 | 15,5 | 16,7 | 17,3 | 17,8 |
+| Aleneboende 67 år og eldre | 36,9 | 26,3 | 26,8 | 26,0 | 25,7 | 25,9 | 25,8 |
+| Alderspensjonister | 17,5 | 10,7 | 9,8 | 9,5 | 9,4 | 9,5 | 9,7 |
+| Alderspensjonister 67 år og eldre | 17,5 | 11,6 | 11,4 | 11,0 | 10,8 | 11,0 | 11,1 |
+| Uføretrygdede | : | 13,0 | 18,1 | 17,9 | 21,6 | 22,8 | 24,6 |
+| Etterlattepensjonister | 10,7 | 10,2 | 10,9 | 10,9 | 12,3 | 12,5 | 13,0 |
+| Aleneboende minstepensjonister | : | : | 71,7 | 72,2 | 74,9 | 75,4 | 75,6 |
+| Aleneboende minstepensjonister med alderspensjon | 79,3 | 65,4 | 75,5 | 78,2 | 79,7 | 78,6 | 78,2 |
+| Aleneboende uføretrygdede med minsteytelse | 66,7 | 48,5 | 65,7 | 61,1 | 68,1 | 70,9 | 72,2 |
+| Langtidsledige | 47,3 | 42,0 | 50,0 | 44,2 | 49,2 | 53,9 | 45,3 |
+| Personer med nedsatt arbeidsevne som ikke mottar arbeidsavklaringspenger (AAP) | . | 31,2 | 40,2 | 43,6 | 49,2 | 50,1 | 49,1 |
+| Arbeidsavklaringspenger (AAP)-mottakere | : | : | : | : | 32,3 | 33,7 | 35,6 |
+| Sosialhjelpsmottakere | 55,3 | 52,5 | 63,6 | 67,5 | 68,7 | 68,3 | 67,7 |
+| Aleneboende sosialhjelpsmottakere | 59,9 | 54,4 | 62,7 | 64,9 | 65,6 | 66,0 | 64,9 |
+| Langtidsmottakere av sosialhjelp | 66,3 | 63,4 | 74,4 | 77,4 | 78,5 | 78,0 | 78,7 |
+| Kvalifiseringsstønadsmottakere | . | 63,1 | 73,4 | 71,8 | 76,0 | 75,9 | 76,2 |
+| Innvandrere fra EU/EØS, etc. | 22,7 | 25,5 | 24,1 | 21,4 | 19,6 | 19,7 | 19,1 |
+| Norskfødte med innvandrerforeldre fra EU/EØS, etc | 10,8 | 11,0 | 10,6 | 11,0 | 10,6 | 11,5 | 11,4 |
+| Innvandrere fra Afrika, Asia, etc. | 35,3 | 34,2 | 38,2 | 39,3 | 39,3 | 37,7 | 35,3 |
+| Norskfødte med innvandrerforeldre fra Afrika, Asia, etc | 24,9 | 21,6 | 20,8 | 19,6 | 18,6 | 17,8 | 17,1 |
+| Personer med flyktningbakgrunn | 37,3 | 36,8 | 42,6 | 45,0 | 45,2 | 43,5 | 41,2 |
+| Personer med flyktningbakgrunn og introduksjonsstønad | 61,1 | 65,1 | 75,7 | 79,0 | 79,3 | 77,0 | 76,2 |
+| Supplerende stønadsmottakere | 90,5 | 56,0 | 69,5 | 70,9 | 74,6 | 75,9 | 76,2 |
+
+Inntekts- og formuesstatistikk for husholdninger, Statistisk sentralbyrå. Statistikkbanken tabell 12599.
+
+Tabell 11.7 viser ikke hvor langt under de relative grensene for lavinntekt de ulike gruppene er. Aleneboende minstepensjonister, med full trygdetid, hadde et inntektsnivå som ligger minst på 85 prosent av grensen for lavinntekt (EU60) i 2020. Andre grupper med høy andel med lavinntekt har trolig større variasjon i inntektsnivåer under nivået for lavinntekt.
+
+Tabell 11.7 tar ikke hensyn til formue. Stiglitz, Sen og Fatoussi (2009) argumenter for at inntekt og formue bør ses under ett når en beskriver ulike gruppers økonomiske levekår. Årsaken er at det ikke er sikkert at et lavinntektshushold med stor formue økonomisk sett er verre stilt enn et hushold med gjennomsnittlig inntekt som ikke har noen formue. I Omholt (red.) (2019) har forfatterne sett nærmere på betydningen av formue. Figur 11.13 viser resultatet dersom personer som i 2019 hadde en finansformue per forbruksenhet som er større enn lavinntektsgrensen (EU60) ikke regnes med i lavinntektsgruppen. Det går fram at andelen reduseres mest blant personer som er 67 år eller eldre. Andelen blant aleneboende minstepensjonister er fortsatt relativt høy, nærmere 50 prosent, etter justering for formue, men vesentlig lavere enn når det ikke tas hensyn til formue.
+
+Andel personer med lavinntekt<sup>1</sup> før og etter justering for formue.<sup>2</sup> 2019. Prosent
+
+<sup>1</sup> Andel personer med inntekt etter skatt lavere enn 60 prosent av medianen for alle. Personer i studenthushold er utelatt.
+
+<sup>2</sup> Finansformue per forbruksenhet større eller lik lavinntektsgrensen. Verdien av bolig og annen realkapital er ikke medregnet.
+
+Statistisk sentralbyrå. Inntektsstatistikk for husholdninger. Figur 3.3.2 i Omholt (2019), men oppdatert med 2019-tall.
+
+Omholt (2020) belyser formuessituasjonen blant lavinntektsgrupper. Anslaget på nettoformuen tar utgangspunkt i opplysningene i skattemeldingen. Det anslås en markedsverdi på boliger. Figur 11.14 viser median beregnet nettoformue per forbruksenhet for ulike husholdningstyper. For hver husholdningstype skilles det mellom husholdninger med og uten lavinntekt. Det går fram at lavinntektsgruppen har liten eller ingen nettoformue i de fleste husholdningstypene. Unntakene er aleneboende over 66 år og mottakere av alderspensjon og etterlattepensjon. Også aleneboende minstepensjonister har en viss nettoformue; halvparten har en beregnet nettoformue som er større enn vel 600 000 kroner.[^108]
 
-100
+Median beregnet nettoformue for husholdninger uten og med lavinntekt (EU60). Husholdninger i alt og ulike grupper 2018. Tusen kroner
 
-50
+Inntekts- og formuesstatistikk for husholdninger, Statistisk sentralbyrå. Figur 6.2 i Omholt (2020).
 
-50
+### Vedvarende lavinntekt i ulike grupper
 
-0
-0
+Noen grupper har bare lavinntekt i en kort periode, mens andre grupper har større vansker med å forbedre sin økonomiske situasjon. Statistisk sentralbyrå måler normalt «vedvarende lavinntekt» som det å ha en inntekt etter skatt per forbruksenhet som i gjennomsnitt over en periode på tre år er lavere enn den gjennomsnittlige lavinntektsgrensen for de samme årene.
 
-10
+Tabell 11.8 viser andelen i ulike aldersgrupper som har vedvarende lavinntekt i utvalgte treårsperioder fra 2004–2006 til 2018–2020. I den siste perioden er det gruppen 18–34 år som har høyest andel som bor i en husholdning med vedvarende lavinntekt, og andelen har økt over tid. Blant personer 67 år og eldre har andelen med lavinntekt falt, og den var nest lavest i den siste treårsperioden. Endringene for denne gruppen er små etter 2012–2014.
 
-20
+Andel personer med vedvarende lavinntekt<sup>1</sup>, etter alder. Utvalgte treårsperioder 2004–2006 til 2018–2020. Prosent
 
-30
-
-40
-
-50 60
-Prosentil
-
-70
-
-80
-
-0
-90 100
-
-Økte aldersgrenser
-Økte aldersgrenser, lønnsreg. av minsteytelser,
-årskullspesifikk minsteytelse
-Garantipensjon enslig 2021
-
-Figur 11.25 Fordeling av alderspensjon fra
-folketrygden blant uføre alderspensjonister i 2060
-etter prosentiler.1 Tusen 2021-kroner (lønnsdeflatert)
-1
-
-Alltid bosatte. Forutsatt uttak samtidig med avgang. Gifte
-og samboende får samlet pensjon delt med en vekt på 1,7.
-Årskullspesifikk minsteytelse bare i ny folketrygd.
-
-prosentiler blant henholdsvis arbeidsføre og
-uføre. I figurene er alderspensjonistene delt i 100
-like store grupper, og figurene viser gjennomsnittlig alderspensjon i hver gruppe når de ordnes
-etter størrelsen på alderspensjonen. Det går fram
-at for både arbeidsføre og uføre så er pensjonsnivåene i de laveste prosentilene høyere med lønnsregulering av minsteytelsene og årkullspesifikke
-minsteytelser enn med bare økte aldersgrenser.
-Særlig gjelder dette for uføre. Reguleringen av
-utgangsnivåene for minsteytelsene er altså viktigere enn reguleringen av løpende pensjoner; om
-det er universelle minsteytelser.
-Lønnsregulering av minsteytelsene kombinert
-med årskullspesifikk minsteytelse vil gi høyere
-gjennomsnittlige pensjoner og dermed også økte
-kostnader sammenliknet med å bare øke aldersgrensene. I 2060 er økningen nær 10 mrd. kroner
-og i 2080 vel 17 ½ mrd. Men kostnadene blir noe
-lavere enn ved lønnsregulering uten årskullspesifikk minsteytelse; knapt 2 mrd. 2021-kroner både i
-2060 og 2080.
-Årskullspesifikk minsteytelse vil fjerne en
-uheldig egenskap ved dagens regler: Å ta ut pensjonen tidlig gjør at årlig pensjon blir lavere. De
-som har lave pensjoner, kan da bli «tatt igjen» av
-minsteytelsen og kan dermed få en høyere samlet
-pensjonsutbetaling når minsteytelsen reguleres
-
-[Side 280]
-
-278
-
-Kapittel 11
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-gunstigere enn løpende pensjoner. Det trekker
-isolert sett i retning av at det blir lønnsomt for personer med moderat opptjening å ta ut pensjonen
-så tidlig som mulig.
-Årskullspesifikk minsteytelse vil innebære at
-alle løpende pensjoner reguleres likt. Det vil være
-en forenkling.
-
-11.7.4
-
-Regulering av minsteytelsene:
-Teknisk løsning
-Dersom minsteytelsene skal reguleres i samme
-takt som lønningene, kan dette oppnås på ulike
-måter; enten ved at minsteytelsene reguleres på
-samme måte som grunnbeløpet i folketrygden,
-eller ved at de reguleres med gjennomsnittet av
-pris- og lønnsveksten, men tillagt en faktor som
-gjenspeiler om lag halvparten av den forventede
-reallønnsveksten. Dersom reallønnsveksten blir
-som forventet, vil de to alternativene gi om lag
-den samme utviklingen i minsteytelsene. Dersom
-siktemålet er at minsteytelsene over tid skal vokse
-i takt med lønningene og det legges til grunn en
-gjennomsnittlig reallønnsvekst på 1,5 prosent, så
-må det faste tillegget være om lag 0,75 prosent.
-Fordelen med å regulere minsteytelsene med
-lønnsveksten er at dette sikrer at det hvert år blir
-en nær sammenheng mellom lønnsveksten og
-veksten i minsteytelsene. Dersom minsteytelsene
-reguleres med gjennomsnittet av pris- og
-lønnsveksten tillagt en fast faktor, vil verdien av
-minsteytelsene øke mer enn lønningene i perioder
-med svak reallønnsvekst, mens de vil øke mindre
-enn lønningene i perioder med sterk reallønnsvekst. Veksten i realverdien av minsteytelsene vil dermed variere mindre dersom minsteytelsene reguleres med gjennomsnittet av pris- og
-lønnsveksten tillagt en fast faktor, enn dersom
-minsteytelsene reguleres med lønnsveksten.
-Dersom minsteytelsene reguleres med gjennomsnittet av pris- og lønnsveksten, men med et
-fast tillegg, blir det et forutsigbart forhold mellom
-minsteytelsene og verdien av løpende pensjoner.
-Kriteriet for tidlig uttak kan da være om pensjonen på uttakstidspunktet er høyere enn minstenivået på uttakstidspunktet, men tillagt effekten av
-det faste tillegget. Årlig pensjon på uttakstidspunktet må, som i dag, være høyere enn minstenivået på uttakstidspunktet når minstenivået skal
-reguleres gunstigere enn løpende pensjoner.
-Dersom minsteytelsene reguleres med
-lønnsveksten, blir det ikke lenger noe forutsigbart
-forhold mellom minsteytelsene og verdien av
-løpende pensjoner. For å redusere sannsynligheten for at pensjonsnivåene ved 67 år blir lavere
-
-enn minstenivået, kan det legges inn en sikkerhetsmargin i vilkåret for å kunne ta ut pensjon tidlig.
-
-11.8 Differensiering etter sivilstand
-Utvalget er i mandatet også bedt om å vurdere om
-pensjonssystemet bør gjøres «mer individorientert og uavhengig av sivilstatus. Ytelsene fra folketrygden har over tid blitt mer individualiserte i
-betydningen at de i større grad utelukkende
-beregnes med utgangspunkt i egen inntekt. Sykepenger, dagpenger og arbeidsavklaringspenger er
-helt individualiserte. Det samme gjelder ny alderspensjon og uføretrygd ut over minsteytelsene. For
-enkelte ytelser er det forsørgingstillegg, men
-omfanget er redusert. Forsørgingstillegg i alderspensjonen til ektefelle og barn er vedtatt utfaset.
-En fullstendig individualisering av folketrygdytelsene kan begrunnes med at man ønsker at alle
-skal være økonomisk uavhengig av andre husholdningsmedlemmer eller med at familietilhørighet er en privatsak. Siden lønn ikke er differensiert etter familiesituasjon synes det naturlig at de
-ytelsene som i en periode skal erstatte lønnsinntekt heller ikke er det.
-Alternativet til individualisering er at ytelsene
-gis med utgangspunkt i inntektsbehovet for å sikre
-en rimelig levestandard. Det er for eksempel bakgrunnen for barnetilleggene til uføretrygd og
-arbeidsavklaringspenger som skal bidra til rimelige
-levekår for grupper med utgifter til barn. Også i
-alderspensjonen fra folketrygden er det elementer
-av at familiesituasjonen påvirker størrelsen på
-alderspensjonen. Det gjelder særlig i gammel
-alderspensjon der grunnpensjonen er lavere for par
-enn for enslige, det ytes tillegg for ektefelle og
-barn, minste pensjonsnivå er gradert etter sivilstand og ektefellens inntektssituasjon, og enslig
-med avdød ektefelle kan få høyere tilleggspensjon
-dersom ektefellen hadde høyest pensjonsopptjening. Ektefelletillegg og barnetillegg skal ikke lenger innvilges etter 2021. Ny alderspensjon er mer
-individualisert enn den gamle ved at det eneste
-gjenværende elementet av sivilstandsgradering er
-at garantipensjonen er ulik for enslige og par.
-Det er sterkere grunner for å differensiere
-minsteytelsene enn for at pensjoner over minstenivåene skal variere med familiesituasjonen.
-Formålet med minsteytelsene er å gi alderspensjonistene en grunnsikring for å sikre rimelige levekår, og de har dermed en sosial karakter. Slike
-ytelser er det mer naturlig å gi ut fra en behovsvurdering siden husholdninger med to personer
-har stordriftsfordeler sammenliknet med enslige
-
-[Side 281]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-pensjonister ved at de kan dele på mange utgifter
-som enslige må dekke alene.
-En egenskap ved garantipensjonen i ny alderspensjon, i motsetning til minste pensjonsnivå i
-gammel alderspensjon, er at ytelsene til alle som
-er i avkortingsintervallet for garantipensjonen
-påvirkes av nivået på garantipensjonen. Det innebærer at ytelsene for mange med moderate inntekter gjennom yrkeslivet i noen grad vil være graderte etter sivilstand.
-Mange av dagens enslige minstepensjonister er
-kvinner som i etterkrigstidens arbeidsmarked i liten
-grad har vært yrkesaktive eller som har hatt lav inntekt. I ny alderspensjon vil alle som har hatt arbeidseller trygdeinntekt eller som har hatt omsorg for
-barn ha noe opptjening ut over garantipensjonsnivået. Personer med svak tilknytning til arbeidsmarkedet vil, på grunn av avkortingen av garantipensjonen, få pensjonsnivåer som ikke ligger betydelig
-over garantipensjonsnivået. I dagens samfunn bør
-det kunne legges til grunn at par som frivillig velger
-en skjevdeling av formelt og uformelt arbeid i husholdningen, også selv har et betydelig ansvar for å
-forsikre parten med lav eller ingen inntekt mot den
-andre partens bortgang eller skilsmisse.
-De fleste land som har minsteytelser i alderspensjonen, synes å differensiere dem ut fra husholdningsstørrelse, men mindre enn det EU-skalaen tilsier. EU-skalaen innebærer at enslige har et
-inntektsbehov som er 33 prosent høyere enn hver
-person i et par, og dette tilsvarer forskjellen på
-minsteytelsene til enslige og gifte da folketrygden
-ble innført i 1967. I Danmark er folkepensjonen til
-enslige 35 prosent høyere enn pensjonen til gifte, i
-Sverige er forskjellen 12 prosent, mens i Finland
-er garantipensjonen lik for enslige og gifte. I
-Norge er forskjellen på minste pensjonsnivå til
-enslige og gifte 16,3 prosent fra 1. juli 2021, mens
-forskjellen på satsene for garantipensjon nå er
-bare 8,1 prosent. Det betyr at minste pensjonsnivå
-for et pensjonistpar er 72 prosent høyere enn minste pensjonsnivå for en enslig, mens tilsvarende
-tall for garantipensjonen er 85 prosent.
-Utvalget mener minsteytelsene fortsatt bør
-være høyere for enslige enn for gifte, og det bør
-vurderes å øke forskjellen mellom garantipensjonen for enslige og for gifte.
-
-11.9 Nivået på minsteytelsene
-i pensjonssystemet
-11.9.1 Innledning
-Dette kapitlet har gjennomgått utviklingen i minsteytelsene i folketrygden over tid og beskrevet
-
-279
-
-Kapittel 11
-
-hvem som er minstepensjonister og hvem som
-kommer til å motta minsteytelser framover. Det er
-gjort rede for eldres inntektssituasjon og omfanget av lavinntekt blant alderspensjonistene sammenliknet med andre grupper.
-Hovedbildet er at det har vært en betydelig
-vekst i minsteytelsene over tid sammenliknet med
-den alminnelige lønnsutviklingen, særlig fram til
-2011. Fra 2011 og fram til i dag har det relative
-nivået vært mer stabilt, men det har økt noe for
-enslige mot slutten av perioden, jf. figur 11.6. Den
-historiske utviklingen i Norge har vært at minstenivåene i pensjonssystemet har økt mer enn
-lønningene og dermed den alminnelige velstandsutviklingen i samfunnet. En internasjonal sammenlikning viser at nivået på minstepensjonen i
-Norge er høyt, jf. figur 11.8.
-Minstesikringen i pensjonssystemet må ses i
-sammenheng med skattereglene for pensjonister
-og med bostøtteordningen. En sammenlikning av
-minstesikringen i de skandinaviske landene, se
-avsnitt 11.2.6, viser at forskjeller i pensjonistbeskatning og i spesielle bostøtteordninger for
-pensjonister både kompenserer for og forsterker
-forskjeller i nivåene på selve minstepensjonene i
-de respektive landene (Pedersen 2021).
-De eldres inntektsforhold har generelt bedret
-seg vesentlig over de siste 30 årene. Det er i dag
-en meget lav andel blant gifte og samboende
-alderspensjonister som har en inntekt lavere enn
-60 prosent av medianinntekten i samfunnet
-(EU60). Og minste pensjonsnivå for gifte og samboende minstepensjonister er på nivå med EU60.
-Det er imidlertid fortsatt en betydelig andel aleneboende minstepensjonister som har en samlet inntekt som er lavere enn 60 prosent av medianinntekten i samfunnet, jf. tabell 11.9 selv om avstanden opp til denne grensen er liten. Dette bildet
-modifiseres videre av at mange pensjonister har
-en betydelig finansiell formue og en boligformue
-som bidrar til å redusere de reelle boutgiftene
-sammenliknet med familier i etableringsfasen.
-For eksempel viste en studie basert på data fra
-levekårsundersøkelsen i 2004 at fattigdomsraten
-blant enslige alderspensjonister reduseres med
-vel 40 prosent når man tar hensyn til variasjon i de
-reelle boutgiftene (Pedersen og Hellevik 2010).
-Ettersom EU60 er et mål på relativ inntekt, kan en
-konstant andel av enslige minstepensjonister
-under denne grensen tilsi at enslige minstepensjonister som gruppe har hatt den samme velstandsveksten som resten av befolkningen.
-
-[Side 282]
-
-280
-
-Kapittel 11
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-11.9.2 Prinsipielt utgangspunkt
-Utvalget er bedt om å vurdere hva som er «hensiktsmessige minstenivåer». Utformingen av pensjonssystemet er resultatet av en avveining av en
-rekke, delvis motstridende hensyn. Å unngå inntektsfattigdom blant de eldre er ett slikt hensyn.
-Det har i utviklingen av pensjonsreformen også
-vært bred enighet om at personer som har vært i
-jobb skal ha en høyere pensjon enn de som ikke
-har det. Pensjonssystemet skal dermed også bidra
-til at pensjonen står i et rimelig forhold til tidligere
-arbeidsinntekt, noe som bidrar til å bedre insentivene til å stå i arbeid og legge en effektiv ramme
-for sparing og forsikring over den enkeltes livsløp.
-Disse ulike avveiningene må bygge på grunnleggende normative oppfatninger av hvordan velferdsstaten bør innrettes og hvordan fordelingshensyn bør vektlegges i offentlige ordninger og
-økonomien mer generelt. Utvalget mener det er
-mulig å klargjøre noe nærmere rammene for de
-prinsipielle avklaringene som må og bør gjøres,
-for å gi mer stabilitet i beslutningene om minstenivåer framover.
-Utvalget har valgt å formulere noen hovedsynspunkter:
-1) Hensynet til å sikre gode levekår for de svakeste i
-samfunnet har bred politisk oppslutning, uavhengig av synet på forskjeller i levekår i samfunnet.11 Nivåene på minstesikringen i folketrygden på ulike ytelser er da viktig.
-2) Dårlig stilte eldre kan oppfattes som en gruppe
-med et sterkt krav på prioritering fra samfunnets side. En viktig grunn er at lavinntekt i
-alderdommen gjerne er en permanent tilstand
-samtidig som den typisk rammer individer
-som har hatt lav inntekt gjennom livet. Kortvarige episoder med lav inntekt kan lettere tolereres hvis den det gjelder har forventninger
-om andre og bedre inntektsforhold i framtiden. Eldre pensjonister har ikke samme mulighet som yngre til å forsørge seg selv gjennom
-eget arbeid, og vil dermed i hovedsak ikke
-kunne ha slike forventninger. Dette tilsier at
-minstesikringen ikke bør være for lav.
-3) Gode minsteytelser er ett bidrag til å sikre rimelige levekår for alle, men nivåene kan ikke vurderes isolert fra andre økonomiske forhold. I
-dette kapitlet er det redegjort for hvordan minsteytelsen har utviklet seg over tid. Ved inter11
-
-Det trenger ikke innebære å gå så langt som den amerikanske filosofen John Rawls prinsipp for et rettferdig samfunn
-(Rawls 1971) der enhver økonomisk forskjell bare er rettferdig dersom denne forskjellen er til fordel for de dårligst
-stilte i samfunnet.
-
-nasjonale sammenlikninger er det viktig å vurdere om effekten av skattereglene er inkludert
-eller ikke. I mange land vil også minsteytelser
-utløse skatt, som for eksempel i Danmark.
-Videre vil omfanget av formue bety mye for de
-reelle økonomiske levekårene.
-4) Inntekter og formue påvirker adgangen til markedsbaserte varer og tjenester. Gode levekår er
-avhengig av mer enn det. En velferdsstat av
-skandinavisk type kjennetegnes av et stort
-omfang av universelle offentlige tjenester, som
-i stor grad leveres gratis eller med lav egenandel. Det dreier seg både om utdannings- og
-helsetjenester som i stor grad leveres kostnadsfritt til personer med både høye og lave
-inntekter. Forskjeller i inntekt som kan brukes
-til å kjøpe varer og tjenester i et marked, motvirkes bevisst i den norske velferdsstaten ved
-at markedets betydning på viktige områder
-begrenses.12,13 I tillegg er det tjenester og
-ytelser som spesielt er utformet slik at de letter tilgangen for pensjonister med lave inntekter. Nivået på minstesikringen bør dermed
-blant annet ses i sammenheng med kravet til
-betaling for slike tjenester, se boks 11.1.
-5) Nivået på minstesikringen påvirker insentivene
-til arbeid. Eldre over en viss alder forventes
-ikke lenger å være selvforsørgende gjennom
-arbeid. Det er derfor i noen grad ikke det
-samme motsetningsforholdet mellom fordelingshensyn og hensynet til gode arbeidsinsentiver som gjør seg gjeldende for andre minsteytelser i folketrygden. På den andre siden
-vil høye minsteytelser svekke arbeidsinsentivene gjennom yrkeslivet. Et sosialt bærekraftig pensjonssystem må ikke bare sikre at minsteytelsene er på et akseptabelt nivå; det må
-også sikre at de som har vært i arbeid får uttelling for dette i form av høyere pensjon enn de
-som ikke har vært i arbeid. Et sentralt argument for å innføre en inntektspensjon som gir
-uttelling fra første krone, var å bli kvitt den
-såkalte «minstepensjonsfella» i det gamle pensjonssystemet. Den forholdsvis strenge
-12
-
-13
-
-I en klassisk artikkel prøver den amerikanske økonomen
-James Tobin (1970) å gi en prinsipiell begrunnelse for at
-visse goder som helse- og utdanning ikke fordeles etter
-den enkeltes kjøpekraft, men fordeles etter behov.
-I ulikhetsforskningen vil en gjerne ta hensyn til verdien av
-offentlige tjenester ved å sette en økonomisk verdi på dem
-og regne fordeling av inntekt etter en slik korreksjon, jf.
-Offentlige tjenester reduserer ulikhet og fattigdom
-(ssb.no). En kan også argumentere mer direkte for verdien
-av felles offentlige tjenester ved å beskrive omfanget av viktige områder i folks levekår som ikke er påvirket av forskjeller i inntekt og formue.
-
-[Side 283]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-281
-
-Kapittel 11
-
-Boks 11.1 Ordninger som bidrar positivt til pensjonisters økonomi
-som mottar særskilt sats for enslige på
-Som vist i avsnitt 11.5, avhenger pensjonistenes
-224 878 kroner, og som ikke har annen inntekt
-økonomi av mer enn alderspensjonen fra folkeut over dette, kunne motta opp til 7500 kroner
-trygden. I avsnittet er det gitt en oversikt over
-årlig i høyere bostøtte enn en aleneboende med
-eldres inntektsforhold sammenliknet med andre
-samme lave inntekt, som ikke er pensjonist. Forgrupper av husholdninger etter skatt. Skatteredelen av egenandelsreglene er 2739 kroner. I tilglene har stor betydning for pensjonistenes, og
-legg kommer verdien av sjablong for oppvarsærlig minstepensjonistenes inntekt. Generelt
-mingsutgifter, dersom boutgiftene i utgangser skattereglene utformet slik at de er til gunst
-punktet er lavere enn taket.
-for pensjonister, se boks 7.1. Eldre har et stort
-Regelverket for utmåling av bostøtte er kombehov for offentlige helse- og omsorgstjenester.
-plisert og trekker inn mange kriterier, men støtDisse er i stor grad gratis (for eksempel spesiaten kan beregnes ved hjelp av en egen kalkulalisthelsetjenester og hjemmesykepleie) eller
-tor på husbanken.no. En ekspertgruppe har
-inntektsprøvd til gunst for personer med lav innnylig vurdert endringer i bostøtteordningen.
-tekt (opphold på sykehjem). Disse ordningene
-Ekspertgruppens rapport er på høring med frist
-er i prinsippet felles for alle aldersgrupper.
-19. august 2022.
-Andre ordninger bidrar til på dekke behov som
-Honnørordninger for alders- og uførepensjonisalle aldersgrupper har, men er utformet særlig
-ter: Staten har fastsatt minstekrav til sosiale
-gunstig for pensjonister:
-rabattordninger for kollektivtransport innenBostøtte: Bostøtte er en statlig støtteordning
-lands som skal gi minst 50 prosent rabatt på
-for personer med lave inntekter og høye boutgifenkeltbillett for barn, honnørreisende og verneter. Bostøtten dekker 73,7 prosent av differanpliktige. Honnørreisende er i hovedsak persosen mellom godkjente boutgifter og en egenanner over 67 år, uføre med minst 50 prosent ufødel som varierer med husstandens inntekt og
-regrad og ektefeller/partnere av honnørreiformue. Ikke medregnet særskilt strømstøtte i
-sende.
-2022 er øvre grense for godkjente årlige boutgifEn rekke private aktører har ulike former for
-ter for en enslig om lag 75 000 kroner i de fleste
-honnør- eller seniorrabatter på f.eks. kulturarkommuner, men noe høyere i de største byene
-rangementer, opplevelser og aktiviteter. Det kan
-og enkelte andre sentrale kommuner. Boutgiftfor eksempel gjelde kino, teater, museer, fornøystaket øker med antall personer i husstanden.
-elsesparker og rekreasjon mv.
-For alders-, uføre og etterlattepensjonister som
-Gratis medisiner for minstepensjonister.
-betaler for egen oppvarming, legges 6527 kroAlderspensjonister som har fylt 67 år og tar ut
-ner i året til de øvrige boutgiftene, men taket er
-hel alderspensjon, er fritatt for å betale egenandet samme. Egenandelen starter på 21 643 krodel på blå resept, hvis de får utbetalt en årlig
-ner per år, og øker når inntekten overstiger
-pensjon som ikke overstiger minste pensjons106 705 kroner per år. Enslige alderspensjonister
-nivå. Dette fritaket gjelder også for mottakere av
-får litt høyere bostøtte enn andre, fordi de kan ha
-uføretrygd med minsteytelse.
-litt høyere inntekt før egenandelen begynner å
-øke. Samlet vil en aleneboende minstepensjonist
-
-avkortningen av garantipensjonen mot opptjent inntektspensjon betyr imidlertid at den
-reelle pensjonsmessige uttellingen ved økt
-arbeidsinnsats blir beskjeden for mange. I Sverige har dette hensynet fått stor plass i den
-offentlige debatten om minstepensjonens størrelse og innretning.14 I 2021 ble det innført en
-ny opptjeningskomponent i det svenske pensjonssystemet (et såkalt «inkomstpensionstillägg») som gir en viss kompensasjon til per-
-
-soner med lavere og midlere livsløpslønn for
-avtrapningen av garantipensjonen mot opptjent inntektspensjon (Ds 2020:7).
-6) Nivået på minsteytelsene bør differensieres mellom enslige og par. Siden formålet med minste14
-
-Differansen mellom minstepensjonen til en person som har
-vært helt utenfor arbeidslivet og pensjonen til en lønnstaker som har vært i fulltidsarbeid gjennom yrkeslivet omtales i offentlige utredninger som «respektavståndet».
-
-[Side 284]
-
-282
-
-Kapittel 11
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-ytelsene er å sikre gode levekår for alle, bør de
-innrettes etter faktisk utgiftsbehov. Pensjonisthusholdninger med to personer har stordriftsfordeler sammenliknet med enslige pensjonister ved at de kan dele på mange utgifter som
-enslige må dekke alene. Ifølge EU-skalaen
-trenger en husholdning med to personer bare
-50 prosent høyere inntekt enn en enslig for å
-ha samme forbruk per forbruksenhet. De
-fleste land som har minsteytelser i alderspensjonen, synes å differensiere dem ut fra husholdningsstørrelse, men noe mindre enn EUskalaen tilsier. I gammel folketrygd er satsen
-for par 72 prosent høyere enn for enslige,
-mens garantipensjonen er 85 prosent høyere
-for to som er gift enn for en enslig.
-7) Nivået og innretningen på minstesikringen bør i
-noen grad innrettes slik at den tar hensyn til at
-det er stor variasjon i de eldres boligøkonomi og
-i tilgangen på inntekt fra andre kilder enn pensjon fra folketrygden. Det kan i denne sammenheng være viktig å vurdere skattereglene for
-pensjonister og eventuelt hvilke bostøtteregler
-en bør ha for pensjonister som komponenter i
-den samlede sikringen av gode levekår for
-eldre, se boks 11.1.
-8) Minsteytelsene i gammel alderspensjon og
-garantipensjonen i ny alderspensjon har ulike
-egenskaper, noe som taler for at nivåene kan
-vurderes ulikt. Mange av dagens enslige minstepensjonister er kvinner som i liten grad har
-vært yrkesaktive eller som har hatt lav inntekt.
-Det henger i stor grad sammen med hvordan
-samfunnet tidligere var organisert. Nå må vi
-ha som forventning at alle arbeider eller mottar pensjonsgivende ytelser slik at alle vil få
-noe pensjon ut over garantipensjonen.
-
-11.10 Utvalgets vurdering
-Utvalget er i mandatet bedt om å vurdere både
-nivået på minsteytelsene i dag og reguleringen av
-minsteytelsene framover. Siden reguleringen av
-minsteytelsene påvirker det framtidige nivået på
-ytelsene, må disse to spørsmålene vurderes samlet.
-Stortinget har siden 2016 økt minsteytelsene i
-pensjonssystemet en rekke ganger i tillegg til den
-ordinære reguleringen fra 1. mai. Det er en indikasjon på at de reglene som ble innført i 2011 ikke
-har hatt tilstrekkelig oppslutning. Endringer i
-minsteytelsene har konsekvenser for pensjonssystemets virkemåte, særlig hvis de også omfatter
-garantipensjonen i ny alderspensjon. Det er
-
-ønskelig at det etableres et nivå på minsteytelsene
-og et system for reguleringen av dem, som reduserer omfanget av ekstraordinære økninger som
-vedtas uten at de langsiktige konsekvensene er
-belyst.
-Både økte minsteytelser og en gunstigere
-regulering enn i dag kan gi vesentlig høyere pensjonsutgifter enn med de reglene som har virket
-fra 2011. Det er derfor nødvendig å prioritere.
-Regulering av minsteytelsene
-Utvalget mener at det er tungtveiende argumenter
-for at minsteytelsene ved den normerte pensjoneringsalderen bør reguleres i takt med den generelle velstandsutviklingen målt ved den gjennomsnittlige lønnsveksten. For et gitt nivå på minsteytelsene, vil dette sikre at de opprettholder sin
-verdi sammenliknet med en gjennomsnittslønn
-over tid. Dersom de arbeidsføre ikke kompenserer fullt ut for effekten av levealdersjusteringen,
-vil forholdet mellom gjennomsnittlig alderspensjon til nye arbeidsføre alderspensjonister og
-minsteytelsene gå ned. Utviklingen i forholdet
-mellom pensjonsnivåene til ulike grupper må vurderes nærmere over tid.
-Utvalget har vurdert om minsteytelsene i stedet bør reguleres med gjennomsnittet av pris- og
-lønnsveksten, men tillagt en fast faktor som over
-tid forventes å gi den samme veksten i minsteytelsene som å regulere med lønnsveksten direkte.
-En slik regulering vil forenkle vilkårsprøvingen
-for tidliguttak, og vil gi mindre variasjoner i veksten i realverdien av minsteytelsene enn dersom
-minsteytelsene reguleres med lønnsveksten. I år
-der reallønnsveksten er lav, vil et fast tillegg gi en
-gunstigere regulering enn å regulere med
-lønnsveksten. I år med høy reallønnsvekst vil tillegget bety en svakere regulering, og det kan oppstå press for å øke det faste tillegget. I så fall kan
-minsteytelsen over tid bli regulert gunstigere enn
-den generelle lønnsveksten. Utvalget mener regulering med gjennomsnittet av pris- og lønnsveksten tillagt en fast faktor kan gi et mindre stabilt system enn dersom minsteytelsene reguleres
-med lønnsveksten slik utvalget foreslår.
-Årskullspesifikk minsteytelse
-Utvalget mener alle løpende pensjoner bør reguleres på samme måte, altså med gjennomsnittet av
-pris- og lønnsveksten. Når minsteytelsene reguleres gunstigere enn løpende pensjoner, vil en del
-som i utgangspunktet har en pensjon over minstenivåene etter hvert kunne komme ned på min-
-
-[Side 285]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-stenivået. Med dagens regler vil disse få et tillegg
-til pensjonen som sikrer at de oppnår minstenivået.
-Utvalgets flertall, alle unntatt Fuglevaag og
-Søviknes, mener det ikke lenger bør gis et slikt tillegg til pensjonen slik at slik at hvert årskull får
-sine spesifikke minstenivåer. Årskullspesifikke
-minsteytelser må ses i sammenheng med at utvalget foreslår at minsteytelsene ved normert pensjoneringsalder skal reguleres i takt med lønnsveksten.
-Årskullspesifikke minstenivåer er ikke nødvendigvis til ugunst for dem med lavest pensjoner.
-Det avhenger av hva som er alternativet. Dette
-kapitlet har vist at pensjonsnivåene for dem med
-lavest pensjoner kan bli høyere med lønnsregulering av minsteytelsene og årkullspesifikke minsteytelser enn når minsteytelsene reguleres svakere
-enn lønnsveksten og det ikke er årkullspesifikke
-minsteytelser. Særlig gjelder dette for uføre.
-Årskullspesifikk minsteytelse vil være en forenkling, og det vil fjerne en uheldig egenskap ved
-dagens regler: Å ta ut pensjonen tidlig gjør at årlig
-pensjon blir lavere. De som har lave pensjoner,
-kan da bli «tatt igjen» av minsteytelsen og kan dermed få en høyere samlet pensjonsutbetaling når
-minsteytelsen reguleres gunstigere enn løpende
-pensjoner. Det trekker isolert sett i retning av at
-det blir lønnsomt for personer med lave eller
-moderat opptjening å ta ut pensjonen så tidlig som
-mulig.
-Nivået på minsteytelsene
-For å ikke svekke forholdet mellom standardsikringen og minstesikringen i pensjonssystemet
-ytterligere, og for å begrense utgiftsveksten, tilrår
-utvalget ikke en generell økning i minsteytelsene,
-hverken ytelsene i gammel folketrygd eller
-garantipensjonen i ny folketrygd.
-Minsteytelsene for pensjonister i Norge er
-høye ved en internasjonal sammenlikning, særlig
-etter skatt. Som vist i avsnitt 11.5 har mange minstepensjonister også andre inntekter og formue.
-Mens forholdet mellom høyeste og laveste pensjon i folketrygden i 1967 var 4:1, var forholdet i
-2010 halvert til 2:1, dvs. et betydelig flatere pensjonssystem. Minsteytelsene økte klart mer enn
-lønningene i denne perioden. Også etter 2010 har
-minste pensjonsnivå for enslige økt klart mer enn
-lønningene, mens de andre minsteytelsene har
-økt noe mindre. Det har vært realvekst i alle minstenivåene både før og etter 2010.
-Økte minstenivåer vil medføre at færre vil oppfylle kravet for uttak av alderspensjon før fylte 67
-
-283
-
-Kapittel 11
-
-år og dermed begrense muligheten til fleksibelt
-uttak for de som av ulike årsaker ønsker å ta ut
-alderspensjonen tidlig.
-Når det gjelder garantipensjonen er det viktig
-å understreke at denne ordningen for minstesikring har en annen rolle i ny folketrygd enn minstepensjon i gammel folketrygd. Så å si alle vil ha noe
-pensjonsopptjening ut over garantipensjonsnivået.
-En økning av nivået på garantipensjonen vil medføre at enda flere vil motta en avkortet garantipensjon, og dermed få svekket uttelling av å stå i
-arbeid. Utvalgets medlem Fuglevaag mener at
-nivået på garantipensjonen i større grad bør harmoniseres med nivået på minste pensjonsnivå.
-I framtiden vil økt garantipensjon, som påvirker alle i avkortingsintervallet for garantipensjonen, være en lite målrettet og kostbar måte å forebygge fattigdom blant eldre på. Hvis det er ønskelig å bedre levekårene for vanskeligstilte eldre,
-mener utvalget det er bedre å bruke mer målrettede tiltak. Dette kan for eksempel skje ved at
-garantipensjonen suppleres med en justert bostøtteordning for alderspensjonister som tar større
-hensyn til variasjonen i økonomiske behov mellom enslige og samboende/gifte pensjonister og
-til den reelle variasjonen i boligformue og boutgifter mellom de eldre.
-Differensiering etter sivilstand
-Ytelsene fra folketrygden har over tid blitt mer
-individualiserte i betydningen at de i større grad
-utelukkende beregnes med utgangspunkt i egen
-inntekt. Sykepenger, dagpenger og arbeidsavklaringspenger er helt individualiserte. Det samme
-gjelder ny alderspensjon og uføretrygd ut over
-minsteytelsene.
-Det er sterkere grunner for å differensiere
-minsteytelsene enn for at høyere pensjoner skal
-variere med familiesituasjonen. Formålet med
-minsteytelsene er å gi alderspensjonistene en
-grunnsikring for å sikre rimelige levekår, og de
-har dermed en sosial karakter. Slike ytelser er det
-mer naturlig å gi ut fra en behovsvurdering siden
-husholdninger med to personer har stordriftsfordeler sammenliknet med enslige pensjonister som
-må dekke kostnadene alene. De fleste land som
-har minsteytelser i alderspensjonen, synes å differensiere dem ut fra husholdningsstørrelse.
-Utvalget mener minsteytelsene fortsatt bør
-være høyere for enslige enn for gifte, og det bør
-vurderes å øke forskjellen mellom garantipensjonen for enslige og for gifte.
-
-[Side 286]
-
-284
-
-NOU 2022: 7
-
-Kapittel 12
-
-Et forbedret pensjonssystem
-
-Kapittel 12
-
-Levealdersjustering og fleksibel pensjon
-12.1 Innledning og sammendrag
-Levealdersjustering og fleksibel pensjon er to
-hovedelementer i pensjonsreformen. Levealdersjusteringen innebærer at når levealderen øker, så
-blir den den årlige pensjonen til et årskull lavere
-enn den pensjonen tidligere årskull fikk ved en
-gitt uttaksalder. Den fleksible pensjonen er utformet slik at årlig pensjon blir høyere desto senere
-pensjonen tas ut, og fleksibel pensjon gir dermed
-mulighet til å kompensere for virkningen av levealdersjustering. Det er dermed en nær sammenheng mellom levealdersjustering og fleksibel pensjon.
-I utvalgets mandat heter det:
-«Levealdersjustering er det sentrale elementet
-i reformen som begrenser utgiftsveksten.
-Levealdersjusteringen sikrer at pensjonsutgiftene ikke øker som følge av at den gjennomsnittlige levealderen øker, og medfører samtidig at framtidige årskull må stå lenger i arbeid
-for å opprettholde pensjonsnivåene til de som i
-dag starter uttak av alderspensjon. Over tid
-anslås en betydelig økning av forventet levealder. Et robust pensjonssystem må ta hensyn til
-dette og gi insentiver til å stå lenger i arbeid.
-Muligheten til å stå lenger i arbeid vil imidlertid kunne variere. For eksempel avslutter om
-lag en tredel i hvert årskull arbeidslivet med
-mottak av uføretrygd, og disse har ikke samme
-mulighet som arbeidsføre til å stå lenger i
-arbeid. Levealdersjusteringens effekt på pensjonsnivåene vil dermed kunne variere mellom
-individer og grupper, og til dels avhenge av
-mulighetene i arbeidsmarkedet. Utvalget skal
-utrede effekten av levealdersjusteringen for
-ulike grupper i samfunnet, herunder personer
-som mottar uføretrygd ved overgang til alderspensjon. Utvalget skal videre vurdere konkrete
-løsninger som kan sikre et rimelig forhold mellom alderspensjonsnivået til uføre og arbeidsføre.»
-
-Levealdersjustering og fleksibelt uttak er sentrale
-virkemidler for å sikre den økonomiske bærekraften i pensjonssystemet. For at pensjonssystemet
-også skal være sosialt bærekraftig er det viktig at
-det ikke er store systematiske forskjeller i muligheten til å utnytte fleksibiliteten i systemet og til å
-kompensere for virkningen av levealdersjustering.
-Reglene for fleksibelt uttak av alderspensjon
-gjør at pensjonsnivåene ved tidlig uttak av pensjon
-blir relativt lave, og levealdersjusteringen gjør at
-nivåene ved en gitt uttaksalder blir gradvis lavere
-for yngre årskull som lever lenger. I mandatet
-heter det: «I hvilken grad pensjonsreformen vil
-bidra til at avgangsalderen øker tilstrekkelig mye
-for tilstrekkelig mange, er derfor avgjørende for
-om pensjonsreformen bidrar til å sikre den økonomiske og sosiale bærekraften.» Sentrale spørsmål
-som vurderes i dette kapitlet er:
-– Vil tilstrekkelig mange kunne jobbe så lenge at
-de oppnår et tilfredsstillende pensjonsnivå?
-– Vil tilstrekkelig mange kunne øke avgangsalderen i takt med virkningen av levealdersjustering slik at samlet pensjon blir like høy sammenliknet med inntekten som eldre årskull?
-Problemstillingene drøftes nærmere i avsnitt 12.2.
-Reglene for fleksibelt uttak er utformet med
-sikte på at den årlige pensjonen skal reflektere forventet antall år som pensjonist, se avsnitt 12.3. For
-en person som lever like lenge som forventet, vil
-den samlede utbetalingen av pensjon før skatt
-være uavhengig av ved hvilken alder pensjonen
-tas ut. Dette omtales gjerne som at uttaksreglene
-er «nøytrale». Formålet med nøytrale uttaksregler
-er at det ikke skal lønne seg å ta ut alderspensjonen så tidlig som mulig, noe som var en forutsetning for å åpne for at alderspensjonen skulle
-kunne kombineres med arbeidsinntekt uten at
-alderspensjonen avkortes. Det har vært bred
-enighet om at uttaksreglene i folketrygden bør
-være tilnærmet nøytrale.
-De fleksible uttaksreglene gjør at det blir relativt stor forskjell på årlig alderspensjon avhengig
-av om pensjonen tas ut tidlig eller sent. Evnen til å
-
-[Side 287]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-fortsette i jobb svekkes med alderen, og noen blir
-arbeidsledige i høy alder. En del vil derfor ikke
-kunne oppnå et tilfredsstillende pensjonsnivå dersom de må ta ut alderspensjonen når de ikke lenger har arbeidsinntekt. For disse må andre ordninger i folketrygden – dagpenger og de helserelaterte ytelsene – sikre inntekten i en overgangsperiode eller fram til alderspensjonen tas ut. Disse
-ytelsene gir også opptjening av alderspensjon, noe
-som øker pensjonsnivået. Utvalgets forslag om
-økte aldersgrenser vil øke alderspensjonen til de
-som mottar andre ytelser fram til pensjonering.
-Ikke alle vil være kvalifisert for andre ytelser
-fra folketrygden enn alderspensjon, og noen kan
-ha behov for supplerende inntektssikring. En
-utfordring med å lage egne ordninger for spesielle
-grupper er å avgrense gruppene på en meningsfull måte. Avgrensningen må være basert på
-objektive kriterier, og dette kan gjøre det vanskelig å få ordningen tilstrekkelig målrettet. I tillegg
-må de som blir omfattet skille seg tilstrekkelig fra
-andre grupper for at ordningen skal oppfattes som
-rettferdig: Hvis en stor del av de som mottar en
-ytelse i realiteten kunne fortsatt i jobb, undergraver det legitimiteten til ordningen. I praksis blir
-slike ordninger enten utformet med enkle og
-strenge, objektive kriterier med usikker treffsikkerhet, eller med avkortingsregler mot annen inntekt som begrenser hvor attraktive ordningene er.
-Levealdersjusteringen gjør at det er nødvendig
-å øke avgangsalderen for å oppnå like høy årlig
-pensjon som eldre årskull, se avsnitt 12.4. Da pensjonsreformen ble forberedt, ble det lagt til grunn
-at levealdersjusteringen ville føre til at årlig pensjon ved uttak 67 år ville bli redusert med om lag
-en halv prosent fra hvert årskull til det neste.
-Fordi forventet levealder har økt mer enn antatt,
-har virkningen blitt sterkere. Med anslagene fra
-2021 på utviklingen i levealderen de neste årene,
-blir pensjonen ved 67 år for 1963-kullet – det første
-årskullet som i sin helhet skal få alderspensjonen
-med nye regler – 8,6 prosent lavere enn det Pensjonskommisjonen la til grunn.
-Sterkere virkning av levealdersjustering betyr
-at behovet for å øke avgangsalderen har økt, og
-yrkesdeltakingen blant eldre arbeidstakere har
-økt etter pensjonsreformen. Flere har undersøkt
-om det er forskjeller mellom ulike grupper i hvilken grad yrkesdeltakingen har økt. Undersøkelsene har så langt ikke identifisert grupper som
-henger etter; økningen i yrkesdeltakingen synes å
-være uavhengig av tidligere inntekt, utdanning,
-yrke og helse.
-Fleksibelt uttak og levealdersjustering er to
-sentrale elementer i pensjonsreformen. Selv om
-
-285
-
-Kapittel 12
-
-det ikke er usannsynlig at en del vil velge å ta ut
-noe av den framtidige velstandsveksten i økt fritid
-gjennom å ikke fullt ut kompensere for levealdersjusteringen, er det avgjørende for reformens sosiale bærekraft at tilstrekkelig mange kompenserer
-helt eller delvis ved å jobbe lenger. Det er foreløpig for tidlig å vurdere hvordan levealdersjusteringen vil påvirke arbeidstilbudet, og de
-undersøkelsene som hittil er gjennomført viser
-primært effekten av de fleksible uttaksreglene.
-Det er relativt store forskjeller på forventet
-levealder for ulike grupper. Kvinner lever lenger
-enn menn, og leger lever lenger enn kokker. Personer med høy utdanning og inntekt er overrepresentert blant de som lever lenge, se avsnitt 12.6.
-Forskjellene i levealder har vært relativt stabile
-over tid.
-Levealdersjusteringen og reglene for fleksibelt
-uttak tar ikke hensyn til at det er forskjeller i forventet levealder for ulike grupper. Reglene er like
-for alle i hvert årskull. Siden folketrygden utbetaler livsvarige pensjoner, er like regler til fordel for
-de som lever lenge. Livsvarige pensjoner er imidlertid bare ett av mange omfordelende elementer i
-pensjonssystemet, og flere av de andre omfordelende elementene inklusive skattesystemet, virker
-i motsatt retning av forskjellene i levealder. Fordelingsvirkningene av pensjonssystemet diskuteres
-i kapittel 6.
-Det er betydelige praktiske problemer knyttet
-til å forskjellsbehandle ulike grupper med
-utgangspunkt i at de har ulik forventet levealder.
-Utvalget mener reglene for levealdersjustering og
-fleksibelt uttak fortsatt bør være like for alle i
-hvert årskull.
-Levealdersjustering av alderspensjon vil medføre at uføre får et stadig lavere alderspensjonsnivå, både i forhold til lønnsnivået i samfunnet og i
-forhold til nivået på uføretrygden som uføre mottar før de går over på alderspensjon. Dersom
-arbeidsføre i yngre årskull står lenger i arbeid, vil
-uføre over tid også få et lavere pensjonsnivå relativt til arbeidsføre.
-For å sikre uføre et tilfredsstillende pensjonsnivå framover, må reglene for alderspensjon til
-uføre justeres. Ulike måter å gjøre dette på diskuteres i avsnitt 12.7. Utvalget anbefaler en initial
-økning i aldersgrensen for uføres opptjening (fra
-dagens 62-årsgrense) i ny opptjeningsmodell, og
-at alderen for uføres opptjening og overgang til
-alderspensjon økes videre fra og med 1964-kullet.
-Utvalgets flertall, alle unntatt Fuglevaag og Søviknes, mener at regelverket for uføres alderspensjon bør ta utgangspunkt i hvor lenge arbeidsføre
-faktisk står i arbeid, og at aldersgrensene og
-
-[Side 288]
-
-286
-
-NOU 2022: 7
-
-Kapittel 12
-
-Et forbedret pensjonssystem
-
-nivået på uføres alderspensjon vurderes etter en
-viss tid, i lys av utviklingen i avgangsmønsteret
-blant arbeidsføre.
-
-12.2 Problemstilling
-12.2.1
-
-Levealdersjustering og fleksibel
-pensjon
-Formålet med levealdersjustering er «å gjøre pensjonssystemet mer robust i forhold til økende
-levealder» (Pensjonskommisjonen, NOU 2004: 1).
-Utgangspunktet for levealdersjusteringen er at
-pensjonister fra ulike årskull skal få like høy samlet utbetaling av alderspensjon fra folketrygden
-gjennom perioden som alderspensjonist uansett
-hvordan levealderen utvikler seg.
-I St.meld. nr. 12 (2004–2005) Pensjonsreform –
-trygghet for pensjonene heter det:
-«Innføring av delingstall er det viktigste tiltaket
-for å gjøre folketrygden bærekraftig på lang
-sikt. Med en delingstallsmekanisme justeres
-ytelsene automatisk i takt med endringene i
-levealderen, noe som kan bidra til å stabilisere
-pensjonsutgiftene selv om den gjennomsnittlige levealderen øker. Med et delingstall tar en
-også hensyn til demografisk usikkerhet. Dersom levealderen øker mindre enn forventet, vil
-reduksjonen i ytelsesnivå bli lavere. Behovet
-for innstramminger i pensjonssystemet vil da
-også være lavere. Dette gir et pensjonssystem
-som er robust mot endringer i levealderen, noe
-som også skaper trygghet for den enkelte.
-Alternativet til et delingstall som automatisk tar
-hensyn til utviklingen i forventet levealder, er
-en høyere allmenn pensjonsalder, økte innbetalinger eller reduksjon i ytelsesnivå ettersom
-folk lever lenger.»
-Tilsvarende formuleringer finnes i de etterfølgende stortingsmeldingene, og i Ot.prp. nr. 37
-(2008–2009) heter det:
-«Levealdersjustering kombinert med fleksibelt
-uttak av alderspensjon gir den enkelte valget
-mellom å utsette uttaket av pensjon noe, kombinere hel eller delvis pensjon med fortsatt
-arbeid, eller å ta ut en lavere årlig pensjon. Uansett hvordan den enkelte velger å tilpasse seg,
-sikrer levealdersjusteringen at folketrygdens
-utgifter til alderspensjon på lang sikt blir om
-lag upåvirket av endringer i levealderen. I lys
-av forventningene om stadig økende levealder
-er levealdersjusteringen det viktigste enkelttil-
-
-taket for å gjøre pensjonssystemet bærekraftig
-på sikt.»
-Partene i det første pensjonsforliket på Stortinget
-26. mai 2005 sluttet seg til at pensjonene skulle
-levealdersjusteres: «Som et ledd i å sikre bærekraft i pensjonssystemet innføres en ordning med
-levealdersjustering (delingstall) som innebærer at
-pensjonsalderen i folketrygdens alderspensjon
-justeres med endring i forventet levealder».
-(Innst. S. nr. 195 (2004–2005)).
-Uttaksreglene for alderspensjon – høyere pensjon ved senere uttak – gir den enkelte mulighet
-til å kompensere for virkningen av levealdersjusteringen. Pensjonskommisjonen mente at «Innføring av delingstall bør kombineres med fleksibel
-pensjonsalder, slik at den enkelte ved å arbeide
-lenger kan motvirke effekten av delingstallet. En
-slik reform vil dermed kunne stimulere til høyere
-yrkesdeltaking blant eldre.» (NOU 2004: 1).
-I pensjonsforliket 26. mai 2005 ber Stortinget
-regjeringen om å komme tilbake med et forslag til
-en allmenn, fleksibel alderspensjon i folketrygden
-fra 62 år. Det heter at:
-«Grunnlaget for vurderingen bør blant annet
-være at:
-– det skal lønne seg å jobbe for de som er
-over 62 år
-– det skal være bedre muligheter til å kombinere pensjon og arbeid
-– den øvre grensen for pensjonsopptjening på
-70 år fjernes. Særaldersgrensene i privat og
-offentlig sektor må vurderes»
-En skisse til fleksible uttaksregler ble lagt fram i
-St.meld. nr. 5 (2006–2007) Opptjening og uttak av
-alderspensjon i folketrygden:
-«Regjeringens forslag til fleksibel alderspensjon i folketrygden innebærer at:
-– Det åpnes for uttak av alderspensjon i folketrygden fra fylte 62 år.
-– Den fleksible alderspensjonen utformes
-slik at årlig pensjon reflekterer antall år
-som pensjonist.
-– Det åpnes for uttak av hel eller delvis alderspensjon så lenge pensjonen fra fylte 67 år
-overstiger minstepensjonsnivået.
-– Det åpnes for å kombinere uttak av alderspensjon og arbeid uten avkorting av pensjonen.»
-Det andre strekpunktet i sitatet viser at prinsippet
-om at årlig pensjon skal reflektere antall år som
+10J1xt2
+
+|  | 2004–2006 | 2006–2008 | 2008–2010 | 2010–2012 | 2012–2014 | 2014–2016 | 2016–2018 | 2017–2019 | 2018–2020 |
+|----|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Alle aldre | 7,9 | 8,2 | 7,9 | 7,9 | 9,0 | 9,4 | 9,8 | 10,1 | 10,1 |
+| 0–17 år | 7,0 | 7,6 | 7,7 | 8,0 | 9,4 | 10,3 | 11,3 | 11,7 | 11,7 |
+| 18–34 år | 9,6 | 10,3 | 11,1 | 12,2 | 14,0 | 14,3 | 14,7 | 14,8 | 14,5 |
+| 35–49 år | 5,5 | 5,9 | 5,9 | 6,2 | 7,2 | 8,0 | 8,6 | 9,1 | 9,2 |
+| 50–66 år | 4,5 | 4,8 | 4,6 | 4,5 | 5,1 | 5,4 | 5,8 | 6,0 | 6,3 |
+| 67 år eller eldre | 16,9 | 15,8 | 12,8 | 10,1 | 9,6 | 9,1 | 8,9 | 8,9 | 9,0 |
+
+<sup>1</sup> Gjennomsnittlig inntekt etter skatt per forbruksenhet (EU-skala) i en treårsperiode er under 60 prosent av medianen i samme treårsperiode.
+
+Inntekts- og formuesstatistikk for husholdninger, Statistisk sentralbyrå. Statistikkbanken tabell 10498.
+
+Tabell 11.9 viser andelen med vedvarende lavinntekt i ulike grupper. Aleneboende alderspensjonister med minstepensjon skiller seg ut med en høy andel med vedvarende lavinntekt; 70 prosent, og andelen har vært stabil de siste årene. Andelen med vedvarende lavinntekt er noe lavere enn andelen med lavinntekt, se tabell 11.7.
+
+Andel personer med vedvarende lavinntekt<sup>1</sup>, I ulike mottakergrupper. Utvalgte treårsperioder 1997–1999 til 2018–2020. Prosent
+
+09J1xt2
+
+|  | 1997–1999 | 2001–2003 | 2004–2006 | 2007–2009 | 2010–2012 | 2013–2015 | 2016–2018 | 2018–2020 |
+|----|---:|---:|---:|---:|---:|---:|---:|---:|
+| Hele befolkningen eksklusive studenter | 8 | 8 | 8 | 8 | 8 | 9 | 10 | 10 |
+| Barn under 18 år | 4 | 6 | 7 | 8 | 8 | 10 | 11 | 12 |
+| Personer som mottok alderspensjon alle årene i perioden | 28 | 22 | 18 | 16 | 11 | 9 | 8 | 8 |
+| Personer som mottok uføretrygd alle årene i perioden | 10 | 6 | 7 | 8 | 7 | 9 | 10 | 12 |
+| Personer som har tilhørt enslig forsørgerhusholdning i alle årene i treårsperioden | 9 | 10 | 14 | 18 | 20 | 25 | 28 | 30 |
+| Personer i enslig forsørgerhusholdning med 3 eller flere barn | 4 | 7 | 9 | 9 | 9 | 11 | 13 | 14 |
+| Aleneboende 35 år eller yngre, aleneboende i hele perioden | 17 | 19 | 22 | 23 | 26 | 30 | 30 | 30 |
+| Innvandrere eller norskfødte med innvandrerforeldre | 23 | 25 | 27 | 26 | 26 | 28 | 29 | 29 |
+| Aleneboende minstepensjonister med alderspensjon, siste året i perioden | . | . | . | 76 | 63 | 70 | 71 | 71 |
+| Aleneboende minstepensjonister med uføretrygd, siste året i perioden | . | . | . | 57 | 47 | 55 | 58 | 64 |
+
+<sup>1</sup> Gjennomsnittlig inntekt etter skatt per forbruksenhet (EU-skala) i en treårsperiode under 60 prosent av medianen i samme treårsperiode.
+
+Inntekts- og formuesstatistikk for husholdninger, Statistisk sentralbyrå. Statistikkbanken tabell 09008.
+
+### Oppfatning om økonomiske utfordringer i ulike grupper
+
+Over er den økonomiske situasjonen for ulike grupper belyst med ulike data om inntekt og formue. De kan i ulik grad få fram og belyse den generelle levestandarden. Men i noen grad kan det også være andre faktorer som påvirker denne. Det finnes også målinger som får fram hvordan ulike befolkningsgrupper *oppfatter* økonomiske utfordringer.
+
+Tabell 11.10 viser andelen i ulike aldersgrupper som mener de har det vanskelig eller svært vanskelig med å få endene til å møtes. Det går fram at andelen blant personer som er 67 år eller eldre er vesentlig lavere enn i yngre aldersgrupper; bare rundt tre prosent svarer at det er vanskelig eller svært vanskelig å få endene til å møtes.
+
+Andel personer 16 år og over som bor i en husholdning som har vanskelig eller svært vanskelig å få endene til å møtes. 2020. Prosent
+
+04J1xt1
+
+|                   | Begge kjønn | Menn | Kvinner |
+|-------------------|------------:|-----:|--------:|
+| Alder i alt       |           6 |    6 |       6 |
+| 16–24 år          |           8 |    9 |       7 |
+| 25–44 år          |           7 |    9 |       6 |
+| 45–66 år          |           6 |    5 |       7 |
+| 67 år eller eldre |           3 |    2 |       3 |
+
+Levekårsundersøkelsen, SSB. Statistikkbanken tabell 12123.
+
+## Virkninger av økte minsteytelser
+
+### Innledning
+
+Et sosialt bærekraftig pensjonssystem må sikre at minsteytelsene er på et akseptabelt nivå, men det må også sikre at de som har vært i arbeid får uttelling for dette i form av høyere pensjon enn de som ikke har vært i arbeid. Dette avsnittet beskriver noen virkninger av økte minsteytelser.
+
+Økte minsteytelser vil endre forholdet mellom grunnsikringen og standardsikringen i pensjonssystemet. Det kan også svekke arbeidsinsentivene i ny folketrygd fordi flere vil motta en avkortet garantipensjon, samtidig som det vil gjøre at færre kan ta ut pensjonen tidlig. Gode insentiver til arbeid og muligheter til tidliguttak for mange var også viktige hensyn da den nye folketrygden ble utformet. Økte minstenivåer vil øke kostnadene. Hvis dette skal finansieres ved svekket standardsikring, kan arbeidsinsentivene bli svekket ytterligere.
+
+### Minsteytelsenes rolle
+
+Minsteytelsene har litt ulik rolle i gammel og ny alderspensjon. I begge tilfeller er formålet å sikre alle et minste inntektsnivå i alderdommen, men fordi utformingen er forskjellig virker en økning i minstenivået også ulikt.
+
+Figur 11.15 viser prinsippskisser av de to modellene for alderspensjon fra folketrygden. Venstre panel viser gammel folketrygd, der hovedelementene er grunnpensjon og tilleggspensjon. Minsteytelsen, kalt minste pensjonsnivå, fastsettes som nominelle størrelser, og de som ikke har tilstrekkelig opptjent tilleggspensjon til å oppnå minste pensjonsnivå, får et pensjonstillegg som sikrer at samlet pensjon blir lik minste pensjonsnivå. Utformingen fører til at mange som har vært i arbeid i mange år og opptjent tilleggspensjon, men med relativt lav lønn, likevel ender opp med minste pensjonsnivå. Dette er den såkalte «minstepensjonsfella».
+
+Gammel og ny folketrygd. Prinsippskisser med full trygdetid
+
+En økning i minste pensjonsnivå fører til at den horisontale linjen over arealet for pensjonstillegget i venstre panel i figuren vil flyttes oppover. Dette vil øke pensjonen til dem som mottar minsteytelsen, men det vil også føre til at flere med opptjent tilleggspensjon blir minstepensjonister.
+
+Ved utformingen av ny folketrygd ble det lagt vekt på å unngå den såkalte minstepensjonsfella. Alle skulle få uttelling ved å jobbe i form av høyere pensjon samtidig som det skulle være en positiv sammenheng mellom livslønn og utbetalt pensjon. Høyre panel i figur 11.15 illustrerer ny folketrygd. Inntektspensjonen tjenes opp fra første krone, og ikke bare på inntekt over 1 G slik tilleggspensjonen i gammel folketrygd gjør. Minsteytelsen, kalt garantipensjon, avkortes med 80 prosent mot opptjent inntektspensjon. Alle som har opptjent *noe* inntektspensjon – gjennom arbeid, avtjening av førstegangstjeneste, omsorgsarbeid eller ved å motta trygdeytelser – vil dermed få en høyere pensjon enn minsteytelsen ved uttak dersom de tar ut pensjonen tidligst ved 67 år. For samme nivå på minsteytelsene i gammel og ny alderspensjon betyr dette at langt færre vil få minstenivået med ny alderspensjon. Den gradvise avkortingen av garantipensjonen betyr imidlertid at langt flere vil få (en avkortet) garantipensjon enn tilfellet ville vært med 100 prosent avkorting. Økt garantipensjon (ny alderspensjon) øker derfor kostnadene mer enn en økning i minste pensjonsnivå (gammel alderspensjon).
+
+Økt garantipensjon betyr at den skrå linjen over arealet for garantipensjon i figur 11.15 flyttes oppover. Det vil føre til at flere vil motta garantipensjon.
+
+### Insentiver
+
+Garantipensjonen i ny folketrygd avkortes med 80 prosent mot inntektspensjonen. For dem som vil motta en avkortet garantipensjon vil økt inntekt gi en mindre økning i samlet pensjon enn det opptjeningsprosenten på 18,1 prosent tilsier. Arbeidsinsentivene gjennom livet blir dermed svakere for denne gruppen.
+
+Når garantipensjonen avkortes med 80 prosent, blir den marginale pensjonsopptjeningen bare en femdel av 18,1 prosent, altså 3,62 prosent. I tillegg kommer virkningen av marginalskatten på pensjon. Samlet er den reelle marginale opptjeningen for personer som mottar en avkortet garantipensjon svært beskjeden. For personer som mottar bostøtte, blir den reelle marginale pensjonsopptjeningen tilnærmet null, jf. Pedersen (2021).
+
+For at garantipensjonen skal avkortes helt, slik at samlet pensjon bare består av inntektspensjon, må opptjeningen være så høy at den årlige inntektspensjonen er minst 25 prosent høyere enn garantipensjonen. Opptjent inntektspensjon avhenger av antall år med pensjonsopptjening og gjennomsnittlig pensjonsgivende inntekt i disse årene. Figur 11.16 viser samlet pensjon første år målt i G for ulike kombinasjoner av inntekt som yrkesaktiv og antall opptjeningsår. Det er benyttet delingstall for 1963-kullet ved 67 år, men garantipensjonen er satt lik gjennomsnittlig garantipensjon for enslige i 2021. Med en pensjonsgivende inntekt på 7,1 G er det tilstrekkelig med vel 30 opptjeningsår for at pensjonen utlukkende skal bestå av inntektspensjon. Med en inntekt på 6 G, som var nær gjennomsnittslønnen for heltidsansatte i 2021, kreves det minst 36 opptjeningsår for at ikke deler av pensjonen skal være garantipensjon. Den gule kurven har derfor en knekk ved 36 opptjeningsår og kurven stiger bare svakt ved færre år. Med en inntekt som yrkesaktiv på 5 G, kreves det 43 opptjeningsår for at hele pensjonen skal bestå av inntektspensjon, og med en gjennomsnittlig inntekt på 4 G, vil også personer med 50 opptjeningsår motta en avkortet garantipensjon. Med bare 30 års opptjening med en gjennomsnittlig inntekt på 4 G, vil samlet pensjon fra folketrygden bli 2,2 G, altså en del høyere enn garantipensjonen på 1,91 G.
+
+Nivået på årlig alderspensjon fra folketrygden (inntektspensjon og eventuell garantipensjon<sup>1</sup> det første året ved uttak fra 67 år for ulike kombinasjoner av inntekt (4–7,1 G) og opptjeningsår (30–50 år). Garantipensjonen satt lik 1,91 G. 1963-kullet
+
+<sup>1</sup> Garantipensjonen er satt lik 1,91 G som var gjennomsnittsnivået for enslige i 2021. Med gjeldende regler kan garantipensjonsnivået ved 67 år for 1963-kullet anslås til 1,78 G.
+
+Figur 11.16 gjelder med en garantipensjon på 1,91 G. I figur 11.17 er garantipensjonen satt lik 2,15 G som er nivået på minste pensjonsnivå for enslige fra 1. juli 2021. Da øker kravet til antall opptjeningsår. Dersom inntekten som yrkesaktiv var 5 G, kreves det 49 opptjeningsår for at ikke deler av pensjonen skal være garantipensjon, og med en inntekt på 6 G kreves det 41 opptjeningsår.
+
+Nivået på årlig alderspensjon fra folketrygden (inntektspensjon og eventuell garantipensjon<sup>1</sup> det første året ved uttak fra 67 år for ulike kombinasjoner av inntekt (4–7,1 G) og opptjeningsår (30–50 år). Garantipensjonen satt lik 2,15 G. 1963-kullet
+
+<sup>1</sup> Garantipensjonen er satt lik 2,15 G som er minste pensjonsnivå, særskilt sats enslige fra 1. juli 2021. Med gjeldende regler kan garantipensjonsnivået ved 67 år for 1963-kullet anslås til 1,78 G.
+
+### Muligheten til å gå av tidlig
+
+For å kunne ta ut alderspensjonen fra folketrygden før 67 år, kreves det at samlet pensjon ved 67 år minst tilsvarer minstenivået for enslige. Samlet pensjon er summen av folketrygd og den livsvarige delen av en eventuell AFP i privat sektor.
+
+Figur 11.18 viser andeler som er anslått å kunne ta ut 100 prosent alderspensjon fra folketrygden i ulike deler av økonomien blant personer født i 1959 som fylte 62 år i 2021. Det går fram at andelene varierer betydelig. Andelene som kan ta ut folketrygden ved 62 år er høyest blant ansatte i bedrifter med privat AFP som omfatter 30 prosent av populasjonen. Blant disse er det for 1959-kullet anslått at 94 prosent av mennene og 87 prosent av kvinnene kan ta ut alderspensjon fra 62 år. Blant ansatte i offentlig sektor, som omfatter 35 prosent av populasjonen, er de tilsvarende andelene 70 og 27 prosent. At andelene er så lave skyldes at 1959-kullet i offentlig sektor fortsatt skal ha AFP som tidligpensjon i alderen 62–66 år, og figuren viser derfor hvor mange som kan ta ut alderspensjon fra folketrygden blant dem som *ikke* har tatt ut offentlig AFP, ikke hvor mange i offentlig sektor som faktisk kan gå av ved 62 år. Lavest andeler som kan ta ut folketrygden er det i gruppen «andre», som utgjør 11 prosent av populasjonen og hovedsakelig omfatter personer som ikke er yrkesaktive, men ikke personer som mottar uføretrygd eller gjenlevendepensjon.
+
+Andel som kan ta ut 100 prosent alderspensjon ved 62 år blant personer født i 1959 som ikke mottar uføretrygd, gjenlevendepensjon eller offentlig AFP.<sup>1</sup> Prosent
+
+<sup>1</sup> «Andre» omfatter hjemmeværende og mottakere av særalderspensjon, arbeidsavklaringspenger og dagpenger.
+
+Arbeids- og velferdsdirektoratet.
+
+Økte minstenivåer vil medføre at færre vil oppfylle kravet for uttak av alderspensjon før fylte 67 år og dermed begrense muligheten til fleksibelt uttak for de som av ulike årsaker ønsker å ta ut alderspensjonen tidlig. Denne effekten vil være større jo større økningen i minstenivåene er. Av svar fra arbeids- og sosialministeren på spørsmål fra Høyre ved behandlingen av Dokument 8:53 S (2020–2021) går det fram at Arbeids- og velferdsdirektoratet anslo at andelen som kan ta ut alderspensjonen ved 62 år i årskullene fra 1963-kullet blir redusert med rundt 20 prosentpoeng dersom minstenivåene øker til EU60. Beregninger som Statistisk sentralbyrå har gjort for utvalget gir om lag samme resultat.
+
+### Økte minsteytelser – beregninger
+
+Statistisk sentralbyrå har beregnet konsekvenser av å øke minsteytelsene. I tabell 11.11 viser de tre siste linjene alternativene med økt minsteytelse. Disse skal sammenliknes med referansebanen og med et alternativ der minsteytelsene reguleres med lønnsveksten. I alle alternativene unntatt referansebanen, skjermes uføre helt for virkningen av levealdersjustering.
+
+Alternativer for økte minsteytelser
+
+02J1xx2
+
+| Alternativ | Beskrivelse |
+|----|----|
+| Referansebanen | Videreføring av 2021-regler. Det betyr blant annet full levealdersjustering av uføres alderspensjon, løpende pensjoner reguleres med lønnsveksten fratrukket 0,75 prosent, og minsteytelsene reguleres med lønnsveksten fratrukket virkningen av levealdersjustering ved 67 år. |
+| Lønnsregulering, full skjerming | Økte aldersgrenser fra og med 1964-kullet, minsteytelsene reguleres med lønnsveksten fra 2023, uføre skjermes helt for virkningen av levealdersjustering fra 1964-kullet. |
+| Harmonisering av MP og GP | Økte aldersgrenser fra og med 1964-kullet, nivåene på garantipensjonen øker til nivåene på minste pensjonsnivå fra 2025, minsteytelsene reguleres med lønnsveksten fra 2023, uføre skjermes helt virkningen av levealdersjustering fra 1964-kullet. |
+| MP til EU60 | Som harmonisering, men minste pensjonsnivå øker til EU60 fra 2025. |
+| MP og GP til EU60 | Som harmonisering, men minste pensjonsnivå og garantipensjonen øker til EU60 fra 2025. |
+
+Tabell 11.12 og figur 11.19 viser hvordan økte minsteytelser påvirker pensjonskostnadene. Alternativet *lønnsregulering, full skjerming* gir en betydelig kostnadsøkning sammenliknet med *referansebanen*; 26,6 mrd. 2021-kroner i 2060 og 58,1 mrd. 2021-kroner i 2080. Med en harmonisering av garantipensjonen og minste pensjonsnivå øker kostnadene ytterligere, med 10,0 mrd. 2021-kroner i 2060 og 11,9 mrd. i 2080.
+
+Pensjonskostnader økte minsteytelser, se tabell 11.11.<sup>1</sup> Mrd. 2021-kroner (lønnsdeflatert)
+
+06J1xt2
+
+|  | Referansebanen | Lønnsregulering, full skjerming | Harmonisering av MP og GP | MP til EU60 | MP og GP til EU60 |
+|----|---:|---:|---:|---:|---:|
+| 2021 | 259,0 |  |  |  |  |
+| 2040 | 336,4 | 341,4 | 346,5 | 350,3 | 357,8 |
+| 2060 | 363,5 | 390,1 | 400,1 | 400,2 | 415,6 |
+| 2080 | 372,6 | 430,7 | 442,6 | 442,7 | 460,8 |
+| *Endring fra referansebanen i mrd.* |  |  |  |  |  |
+| 2040 |  | 5,0 | 10,0 | 13,9 | 21,4 |
+| 2060 |  | 26,6 | 36,6 | 36,7 | 52,2 |
+| 2080 |  | 58,1 | 70,0 | 70,1 | 88,2 |
+| *Endring fra referansebanen i prosent* |  |  |  |  |  |
+| 2040 |  | 1,5 | 3,0 | 4,1 | 6,4 |
+| 2060 |  | 7,3 | 10,1 | 10,1 | 14,4 |
+| 2080 |  | 15,6 | 18,8 | 18,8 | 23,7 |
+
+<sup>1</sup> Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen.
+
+Pensjonskostnader økte aldersgrenser, se tabell 11.11.<sup>1</sup> Mrd. 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen.
+
+Alternativet *MP til EU60* vil gi en midlertidig kostnadsøkning sammenliknet med *Harmonisering av MP og GP* siden dette bare påvirker pensjonen til de som har pensjon fra gammel opptjeningsmodell. I 2040 er kostnadene 3,9 mrd. 2021-kroner høyere når minste pensjonsnivå øker til EU60, mens forskjellen er redusert til 0,1 mrd. i 2060.
+
+Dersom også garantipensjonen øker til EU60, blir det er stor, varig økning i kostnadene. Den isolerte effekten av å øke garantipensjonsnivåene til EU60 er på 15,4 mrd. 2021-kroner i 2060 og 18,1 mrd. i 2080. Sammenliknet med referansebanen øker pensjonskostnadene med 14,4 prosent i 2060 og 23,7 prosent i 2080.
+
+Økte minstenivåer i ny alderspensjon betyr at flere blir garantipensjonister; de vil motta en hel eller avkortet garantipensjon. Figur 11.20 viser andelen garantipensjonister i de ulike alternativene. I referansebanen er andelen relativ konstant på i overkant av 30 prosent. I alternativet med lønnsregulering og full skjerming av uføre øker andelen og den stabiliseres på i underkant av 50 prosent for årskullene etter 2000-kullet. Med harmonisering av minste pensjonsnivå og garantipensjonen øker andelen allerede for personer født i siste del av 1950-tallet, og fra 2000-kullet er andelen 56–57 prosent. Dersom både minste pensjonsnivå og garantipensjonen øker til EU60, øker andelen til over 50 prosent allerede for personer født i 1960 og andelen stabiliseres rundt 65 prosent fra rundt 2000-kullet. Med et minstenivå på garantipensjonen lik EU60 må en person født i 1963 med jevn inntekt på 6 G ha 45 opptjeningsår for å komme over avkortingsintervallet for garantipensjonen, og rundt 20 prosentpoeng færre vil kunne ta ut alderspensjonen ved lavest mulig alder, se avsnitt 11.6.4.
+
+Andel garantipensjonister ved avgang i årskullene 1954–2020. Prosent

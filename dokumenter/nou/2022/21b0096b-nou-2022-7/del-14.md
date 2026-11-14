@@ -1,931 +1,176 @@
-# NOU 2022: 7, del 14 av 31 (side 158–167)
+# NOU 2022: 7, del 14 av 32
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
 - Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 158]
+## Andre faktorer som har betydning for pensjoneringsbeslutningen
 
-156
+### Innledning
 
-Kapittel 7
+Økonomiske insentiver for å stå lengre i arbeid og særlig fleksibel pensjonsalder og nøytralt uttak, har ført til flere sysselsatte seniorer. Økonomiske insentiver synes å ha stor innvirkning på kort sikt, mens det på lengre sikt kan være andre forhold enn inntekt og økonomi som veier tungt.
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+Det er store individuelle forskjeller med hensyn til når den enkelte ønsker eller har behov for å trappe ned arbeidsinnsatsen eller tre ut av arbeidslivet. Pensjonsbeslutningen påvirkes av en rekke faktorer, blant annet hvor lenge den enkelte har stått i arbeid, belastningen i stillingen, forhold på arbeidsplassen og den enkeltes helsetilstand. I dette avsnittet omtales noen av disse faktorene.
+
+### Trivsel i jobben
+
+Et godt arbeidsmiljø er viktig både for de sysselsattes helse og trivsel og for virksomhetenes produktivitet og resultater. Det er godt dokumentert at arbeidsmiljøet er viktig for sykefravær og uførhet, arbeidsinkludering og tidspunktet for alderspensjonering. I Norsk seniorpolitisk barometer 2020 er et godt arbeidsmiljø den enkeltfaktoren som flest mener er viktig for at de skal fortsette i arbeid etter at de har rett til å ta ut pensjon; hele 78 prosent svarer at det er svært viktig og ytterligere 18 prosent at det er ganske viktig.
+
+Norge har tradisjonelt hatt gode arbeidsmiljøforhold. Det er en viktig forutsetning for en god samfunns- og velferdsutvikling og et konkurransefortrinn i en tid med høy endringstakt i arbeidslivet. Forebyggende arbeidsmiljøarbeid er et viktig virkemiddel i arbeidet med å styrke arbeidslinjen i Norge. Gjennom samarbeidet om IA-avtalen er det satt i gang en rekke tiltak som skal bidra til å forebygge og redusere sykefravær og frafall og legge til rette for inkludering og forlengede yrkeskarrierer. Dette arbeidet må innrettes og tilpasses de særskilte utfordringene som finnes på den enkelte arbeidsplassen.
+
+Aldersstereotypier og omgivelsenes forventninger kan ha betydning for eldres motivasjon til å stå i arbeid. Arbeidsgivers behov for å avklare pensjoneringstidspunkt som følge av intern planlegging kan komme i konflikt med eldres opplevelse av å være ønsket på arbeidsplassen, jf. Oslo Economics (2018).
+
+Thorsen m.fl. (2016) ser på sammenhengen mellom psykososialt arbeidsmiljø og pensjoneringsalder. I studien følges danske arbeidstakere i alderen 60–64 år. Studien fant at ti psykososiale arbeidsmiljøfaktorer var signifikante predikatorer for tidlig pensjonering; lav jobbtilfredshet, lav innflytelse i jobben, lave utviklingsmuligheter, lav rolleklarhet, opplevd aldersdiskriminering, lav anerkjennelse fra ledelsen, lav rettferdighet på arbeidsplassen, dårlig tillit til ledelse, dårlig lederkvalitet og dårlig forutsigbarhet. Det ble ikke funnet belegg for at lave krav eller gode relasjoner mellom kolleger påvirker eldre ansattes beslutning om førtidspensjonering.
+
+### Familieforhold og kjønn
+
+Familieforhold og kjønn har også betydning for tidspunktet for tilbaketrekning fra arbeidslivet. Menn går av med pensjon omtrent ett år senere enn kvinner, og gjennomsnittlig alder er vel 66 for menn og drøyt 65 for kvinner.
+
+Grødem og Kitterød (2021) undersøkte hvordan menn og kvinner i alderen 30–61 år ser for seg tilværelsen som pensjonist. Rundt en tredel ser for seg at de vil fortsette å arbeide etter at de har tatt ut pensjon, og menn i noe større grad enn kvinner. Undersøkelsen finner at helse og inntekt er viktige faktorer i menns forestillinger om pensjonstilværelsen, mens partnere og barn er viktigere for kvinner.
+
+De fleste av dem som står overfor et valg mellom pensjonering og fortsatt yrkesaktivitet, har en ektefelle eller samboer. Valget mellom fortsatt arbeid og pensjonering treffes ikke bare utfra hensyn til egne forhold; for flerperson-husholdninger vil det ofte være felles inntekt og også felles nytte av samvær, altså ikke bare egen nytte av fritid, som har betydning. Forskning viser at ektefeller samordner sine pensjonsbeslutninger og koordinerer sin innsats i arbeidslivet. Dette kan skje på ulike måter. I den ene ytterligheten velger personen pensjoneringstidspunkt gitt at ektefellens arbeidssituasjon er status quo, mens i den andre ytterligheten velger begge ektefellene pensjoneringstidspunkt utfra hva de er best tjent med samlet som par.
+
+Hernæs m.fl. (2002) viser at ektefeller ønsker å pensjoneres noenlunde samtidig (beskrevet som fritidskomplementaritet). Det kan forstås som at ektefellene nyter ekstra godt av å ha fritid dersom den andre partneren også har fritid. Vanligvis er mannen cirka to år eldre enn kvinnen – spørsmålet er da om mannen ‘leder an’ med å vente å pensjonere seg eller om det er kvinnen som ‘leder an’ med å framskynde sitt pensjoneringstidspunkt?
+
+Kruse (2021) studerer ektefellenes koordinering av pensjonsbeslutningen ved å bruke omleggingen av AFP i privat sektor, som gav kraftig økning i insentivene til å arbeide. Han finner at særlig kvinner som jobbet i offentlig sektor og som var gift med menn i privat sektor med AFP, økte sitt arbeidstilbud ved å utsette pensjoneringen da privat AFP ble lagt om fra en tidligpensjonsordning. Det var også en viss indikasjon på at menn i offentlig sektor økte sitt arbeidstilbud dersom de var gift med kvinner i privat sektor med AFP selv om denne effekten var mindre. Dette gir støtte til teorien om fritidskomplementaritet. Samtidig som det ser ut til at menns beslutning om pensjoneringstidspunkt påvirker partnerens pensjoneringsbeslutning mer enn kvinners beslutning påvirker deres partner.
+
+Også Johnsen m.fl. (2021) viser at gifte menns bruk av AFP i privat sektor, den gang ordningen var en førtidspensjonsordning, økte ektefellens sannsynlighet for å forlate arbeidsmarkedet. Avgangen var fire prosentpoeng høyere sammenliknet med de som var gift med en ektefelle uten tilgang på AFP. Også uføretilbøyeligheten for de gifte kvinnene var tre prosentpoeng høyere. Studien påviste ikke noen tilsvarende effekt for ektemennene som på sin side i liten grad endret atferd som følge av at ektefellen gikk av med AFP.
+
+Forskningen gir støtte til at insentivendringer som er rettet mot individer kan ha større effekt enn de som kan måles bare ved å se på endret atferd hos den som berøres direkte. Det betyr at en del par der den ene ønsker å utsette avgangen fra arbeidslivet som følge av levealdersjusteringen, trolig vil få følge av sin ektefelle. Også hva kollegaer og andre gjør vil kunne påvirke atferden til den enkelte. For eksempel fant Brown og Laschever (2012) i en studie av pensjoneringsatferd blant lærere at det at en ekstra lærer pensjonerte seg, økte sannsynligheten for også andre pensjonerte seg.
+
+### Helsetilstand
+
+Den økte levealderen blant 70-åringer i Norge i perioden 1995–2017 gav om lag like stor økning i antall funksjonsfriske år, jf. Storeng m.fl. (2021). Om økningen i levealderen framover også gir flere funksjonsfriske år, slik at eldre får mulighet til å respondere på insentivene levealdersjusteringen gir, vil ha stor betydning.
+
+Med alder øker slitasjen på kroppen. Slitasje fører til en gradvis økt risiko for ulike lidelser. Det er imidlertid stor individuell variasjon i graden av ‘slitenhet’, og variasjonen i funksjonsnivå innenfor en aldersgruppe, for eksempel 60-åringer, er større enn mellom gjennomsnittet i ulike aldersgrupper selv om funksjonsnivået i gjennomsnitt avtar med alder. Variasjonen er avhengig av arv, men også i stor grad av individuell atferd, sosioøkonomisk bakgrunn og sosiale omgivelser.
+
+Studier som undersøker hvorvidt det er bra for eldre å stå lenger i jobb, viser litt ulike resultater. Noen viser at det kan være bra å fortsette i jobb både for mental og fysisk helse, mens andre studier viser at det kan være mindre heldig. Dette varierer mellom land, og avhenger også av hvilke yrkesgrupper som er undersøkt og hvilke helsemål som er benyttet. En norsk studie, Syse m.fl. (2017), antyder at tidlig avgang fra arbeidslivet gir positive helseeffekter for flere enn dem som opplever positive helsevirkninger ved forlenget yrkesaktivitet.
+
+Å forlenge eldres yrkesdeltakelse er et ledd i mange velferdsstaters strategi for å redusere ressursbruk og kostnader knyttet til en aldrende befolkning. Fleksibilitet i tidspunkt for pensjonering kan være viktig for å forebygge framtidige helseplager hos yngre eldre, samtidig som det kan sikre at eldre som kan og vil arbeide lenger vil få mulighet til det.
+
+Betydningen av helse for i hvilken grad individer responderer på de økonomiske insentivene i reformen er tema for Aakvik m.fl. (2020). Den empiriske undersøkelsen sammenlikner arbeidstilbudet til fødselskull som fylte 62 år før pensjonsreformen ble innført i 2011, med dem som fylte 62 år etter reformen. Undersøkelsen finner ingen tendens til at arbeidstakerne med dårligst helse i mindre grad økte sitt arbeidstilbud enn de arbeidstakerne med best helse.
+
+Vekst i forventet levealder og en eldre befolkning vil i årene framover gi økt behov for pleie- og omsorgstjenester. Det kan føre til at flere søker om omsorgslønn og/eller pensjonsopptjening for omsorgsarbeid for en (eldre) ektefelle, forelder eller slektning.
+
+## Arbeidsmarkedet for eldre arbeidstakere
+
+### Innledning
+
+Sysselsettingen blant eldre arbeidstakere har økt siden tidlig på 2000-tallet og også etter pensjonsreformen i 2011. I 2020 var det forventet at en 50-åring ville arbeide 12 årsverk etter fylte 50 år, se figur 7.6. Beregninger fra Arbeids- og velferdsdirektoratet viser at forventet yrkesaktivitet etter 50 år har økt med ett årsverk fra 2011 til 2020.
+
+Det er flere årsaker til den økte sysselsettingen i eldre aldersgrupper. Pensjonsreformen har gitt sterkere økonomiske insentiver til å stå lenger i arbeid. Også bedre helse, mindre fysisk krevende jobber og økt utdanningsnivå har sammen med et generelt godt arbeidsmarked, bidratt til at sysselsettingen blant seniorene har økt.
+
+Vigtel (2018) ser på hvilken betydning senkningen av nedre aldersgrense for uttak av alderspensjon fra 67 til 62 har hatt for arbeidsgivernes tilbøyelighet til å ansette seniorer. Senkningen kan ha ført til at arbeidsgiverne vurderer risikoen knyttet til å ansette en eldre arbeidssøker lavere enn før reformen. Vigtels undersøkelse tyder på at økningen i etterspørselen etter arbeidskraft hovedsakelig var forårsaket av et positivt skift i etterspørselen etter «risikofylte» seniorarbeidere, arbeidere med tidligere sykmeldinger. Dette gir støtte til hypotesen om at arbeidsgiverne er mer villige til å ansette seniorarbeidere når pensjonsalderen reduseres.
+
+Selv om sysselsettingen har økt over tid, så faller den likevel raskt med alderen etter fylte 60 år. Det er i dag under ti prosent av personer i aldersgruppen 70–74 som er sysselsatte. Likevel er trolig potensialet for å øke sysselsettingen større i gruppen mellom 60 og 70 år enn i gruppen over 70 år.
+
+At flere ønsker å stå lenger i jobb er en nødvendig, men ikke tilstrekkelig, betingelse for økt sysselsetting blant eldre. Sysselsettingen avhenger også av etterspørselssiden i arbeidsmarkedet, av lovbestemte aldersgrenser og av graden av inkludering av eldre i arbeidslivet. For å øke sysselsettingen blant eldre må det arbeides for at færre skal slutte i den jobben de har samtidig som det må bli lettere for seniorer som er ledige å få jobb.
+
+### Opphør av arbeidsforhold på grunn av alder
+
+Arbeidsmiljøloven gir i dag adgang til å bringe et arbeidsforhold til opphør på grunn av alder når arbeidstakeren fyller 72 år. Aldersgrensen i arbeidsmiljøloven § 15-13 a ble hevet fra 70 til 72 år med virkning fra 1. juli 2015, jf. Prop. 48 L (2014–2015). Arbeidsgiver kan fastsette en lavere aldersgrense, men ikke under 70 år, dersom grensen gjøres kjent for arbeidstakerne, den praktiseres konsekvent av arbeidsgiver og arbeidstaker har en tilfredsstillende tjenestepensjonsordning. I staten er den alminnelige aldersgrensen 70 år, og ansatte i staten er unntatt fra arbeidsmiljøloven § 15-13 a ved bestemmelse i forskrift.[^48] I kommunal sektor fastsettes aldersgrensene etter de samme prinsipper som gjelder i staten.[^49]
+
+I etterkant av at aldersgrensen i arbeidsmiljøloven ble hevet fra 70 til 72 år innførte flere arbeidsgivere i privat sektor bedriftsinterne aldersgrenser. Særlig ble dette vanligere blant store bedrifter, og i næringer med høy gjennomsnittsalder blant de ansatte.[^50] Mulighetene for å fortsette i arbeid etter fylte 70 år ble derfor i en del private virksomheter i realiteten begrenset på grunn av kravet til streng praktisering, selv om formålet med endringene var det motsatte.
+
+Det er ulike syn på spørsmålet om økte aldersgrenser. Argumenter for økte grenser har vært bedre helse i befolkningen og pensjonsreformen som innebærer at årskull født tidlig på 60-tallet må vente med å ta ut alderspensjon til etter 70 år om de skal kompensere for levealdersjusteringen. Blant annet må 1963-årskullet vente med uttak til de er 70 år og åtte måneder om de skal kompensere for levealdersjusteringen. I argumentasjonen mot høyere aldersgrenser har det vært vist til arbeidsgivers styringsrett og at det kan oppstå vanskelige konfliktfylte forhold mellom arbeidsgiver og arbeidstaker. Hvis arbeidsgivere ser en risiko for at en arbeidstaker med redusert arbeidsytelse kan bli i stillingen i flere år framover, kan arbeidsgiver forsøke å få arbeidstakeren til å slutte tidligere. Arbeidstakere over 62 år har allerede et sterkere stillingsvern enn yngre arbeidstakere gjennom retten til redusert arbeidstid, og et større vern mot nedbemanning blant annet gjennom det ulovfestede ansiennitetsprinsippet. De som går mot en ytterligere heving av aldersgrensene, hevder at dette vil bidra til å gjøre seniorer mindre attraktive på arbeidsmarkedet enn de er i dag og at det er andre virkemidler som bør benyttes for å bidra til at flere kan stå lenger i arbeid.
+
+Aldersgrensen på 72 år i arbeidsmiljøloven og også aldersgrensen som gjelder for statsansatte ble utredet i de to fasene av Sysselsettingsutvalgets arbeid. Først i ekspertutvalgets utredning og deretter i utvalgets utredning i fase II der utvalget var sammensatt dels av fagpersoner og dels av partene i arbeidslivet, jf. NOU 2019: 7 og NOU 2021: 2.
+
+Et flertall i sysselsettingsutvalgets fase II mente det bør legges bedre til rette for at arbeidstakere kan jobbe etter at de har passert aldersgrensen for stillingsvern. Utvalgets flertall mente at en heving av øvre aldersgrense i staten til 72 år på tilsvarende måte som i arbeidsmiljøloven, vil ha negative konsekvenser både for statlige virksomheter og ansatte. Flertallet ønsket også å senke aldersgrensen i arbeidsmiljøloven til 70 år og samtidig fjerne muligheten til lavere bedriftsinterne aldersgrenser med krav om konsekvent praktisering.
+
+Kravet om konsekvent praktisering av bedriftsinterne aldersgrenser praktiseres strengt, og arbeidsgiver kan bare helt unntaksvis la enkelte arbeidstakere fortsette å arbeide i virksomheten etter at de har passert den bedriftsinterne aldersgrensen. Forutsetningen er at det kun dreier seg om et fåtall tilfeller og at det i hovedsak er knyttet til særlige og tidsavgrensede behov. Dersom virksomheten reengasjerer eller tar inn igjen ansatte som har sluttet ved oppnådd aldersgrense (for eksempel som innleide, selvstendige eller midlertidig ansatte), vil dette også få betydning ved vurderingen av om kravet til konsekvent praktisering er oppfylt, og det er avgjørende hvor mange ansatte som i en gitt periode faktisk har sluttet i virksomheten på grunn av oppnådd aldersgrense og hvor mange som har fått tilbud om å fortsette. Hvor nivået skal ligge presiseres ikke i Prop. 48 L (2014–2015), men det legges til grunn som et akseptabelt omfang at inntil ti prosent av de ansatte får fortsette (over en periode på rundt fem år) uten at det rokker ved inntrykket om at aldersgrensen er praktisert konsekvent.
+
+Regjeringen Solberg la høsten 2021 fram et lovforslag om å heve den alminnelige aldersgrensen i staten til 72 år (aldersgrenseloven), slik den er i arbeidsmiljøloven. Lovforslaget ble trukket av Regjeringen Støre. Begrunnelsen for å trekke lovforslaget og holde fast ved 70-årsgrensen i staten, var at mange høringsinstanser, både på arbeidsgiver- og arbeidstakersiden, samt Sysselsettingsutvalgets flertall i fase II, mente at en burde holde på 70-årsgrensen i staten for å unngå uverdige og konfliktfylte avganger fra arbeidslivet. Utvalgets flertall var også av den oppfatning at hevingen av aldersgrensen fra 70 til 72 år i arbeidsmiljøloven burde reverseres.
+
+I Norsk seniorpolitisk barometer 2021 svarte 38 prosent ledere «nei», 36 prosent «ja» og 26 prosent «vet ikke» på spørsmålet «mener du det bør være en øvre aldersgrense for hvor lenge en arbeidstaker skal ha rett til å fortsette i yrkeslivet», se Ipsos (2021). I offentlig sektor var det flere ledere som ønsket en øvre aldersgrense enn de som ikke ønsket det (47 prosent versus 23 prosent), mens i privat sektor var det motsatt (33 prosent versus 42 prosent). Blant de som mente det burde være en øvre aldersgrense, var det 54 prosent som mente at den burde være 70 år.
+
+Omtrent åtte av ti ledere ønsker i meget eller ganske stor grad at eldre ansatte skal fortsette til de når den øvre aldersgrensen i virksomheten. Tilbøyeligheten til å ønske at eldre ansatte skal fortsette utover øvre aldersgrense er noe større i små enn i store virksomheter; mens det er 26 prosent av ledere for virksomheter med 10–14 ansatte som er tilhengere av en øvre aldersgrense, mener hele 59 prosent av dem som representerer en virksomhet med minst 50 ansatte det samme. Den samme tendensen gjenfinnes når det skilles på virksomhetenes omsetning/budsjett. Det var blant lederne vesentlig større skepsis til at deres eldre ansatte skal fortsette å arbeide utover den øvre aldersgrensen enn hva det var på spørsmålet om å arbeide inntil øvre aldersgrense i virksomheten; her svarte halvparten av lederne at de i liten grad eller ikke i det hele tatt ønsket dette og fire av ti ledere at de ønsket det. At det er såpass mange som 80 prosent som ønsker at de ansatte skal fortsette til aldersgrensen og samtidig bare 40 prosent som ønsker at de skal fortsette utover aldersgrensen, kan kanskje skyldes at den øvre aldersgrensen i arbeidsmiljøloven oppfattes som en normgivende grense, og at det er tillit til at denne grensen er satt ved en «riktig» alder.
+
+Aldersgrensene i arbeidsmiljøloven og aldersgrenseloven vil trolig bli et hinder for videre yrkesdeltakelse for mange. På kort sikt vil de fleste kunne oppnå et tilfredsstillende pensjonsnivå før de når aldersgrensen, men etter hvert når for eksempel 1963-kullet blir 70 år, altså i 2033, tilsier utformingen av pensjonssystemet at en må se nærmere på hvordan mulighetene til å fortsette i arbeid etter 70 år kan styrkes.
+
+### Hva skal til for at arbeidsgivere skal beholde og ansette seniorer?
+
+For å øke sysselsettingen blant personer i 60-årene hvor frafallet er størst, må det legges til rette for at færre går av tidlig, samtidig som det må bli lettere for seniorer å finne en ny jobb. For at flere seniorer i framtiden skal stå lenger i arbeid vil det kreve tiltak både fra arbeidstaker- og arbeidsgiversiden. For eksempel vil arbeidsgiverinitiert satsing på kompetanseutvikling og ordninger for omskolering kunne bidra til å øke avgangsalderen, mens særaldersgrenser og sluttpakker gjør at flere går av tidligere enn de ellers ville ha gjort. Selv om tidspunktet for pensjonering for de fleste først og fremst er et eget valg, er også etterspørselssiden i arbeidsmarkedet viktig. Under gjennomgås noen viktige forhold knyttet til å legge til rette for økt sysselsetting blant personer over 60 år:
+
+- Arbeid med inkludering av eldre i arbeidslivet
+
+- Eldre arbeidstakeres produktivitet
+
+- Kompetanse
+
+- Seniorgoder
+
+- Arbeidsmiljø, motivasjon og holdninger
+
+- Tilrettelegging og oppfølging på arbeidsplassen
+
+Arbeidet med inkludering av eldre i arbeidslivet
+
+Arbeidsgiveres vurdering av eldre arbeidstakere spiller en viktig rolle for jobbmulighetene for eldre arbeidssøkere. Det å arbeide for at eldre som ønsker å stå i arbeid gis mulighet til det kan skje på flere måter, både gjennom lovgivning og på annen måte. Etter arbeidsmiljøloven er det forbudt å diskriminere noen på grunn av alder i arbeidslivet. OECD (2019) peker på at aldersdiskriminering ved ansettelser er vanlig i flere OECD-land, til tross for at det er ulovlig. Opplevd diskriminering kan påvirke sysselsettingen ikke bare gjennom ansettelsesbeslutninger, men også fordi diskriminerende barrierer kan føre til eldre arbeidstakere begrenser sin jobbsøking eller slutter å søke etter arbeid. En undersøkelse fra 2015 i EU viser at 60 prosent av arbeidsgiverne mener at personer over 55 år kommer dårligere ut i forbindelse med jobbsøknader enn yngre personer (EU 2015).
+
+OECD (2019) drøfter utfordringer og tiltak for å møte en eldre befolkning og tiltak for å forlenge eldre arbeidstakeres deltagelse i arbeidsmarkedet. I rapporten pekes det på flere mulige tiltak innenfor lovgivning, holdningskampanjer og samarbeid mellom partene i arbeidslivet som kan øke eldres deltakelse i arbeidslivet:
+
+- Bekjempe diskriminering i arbeidsforhold på grunn av alder ved å iverksette tiltak, gjennom lovgivning eller bevisstgjøringskampanjer for å forebygge aldersdiskriminering både i rekrutteringsprosesser, ved forfremmelses- og opplæringsprosesser.
+
+- Søke å begrense obligatorisk pensjonering i nært samråd og samarbeid med arbeidsgiver- og arbeidstakerrepresentanter, samtidig som det respekteres der slik praksis kan være nødvendig.
+
+- Oppmuntre til god praksis fra arbeidsgivere når det gjelder å legge til rette for en aldersvariert arbeidsstyrke. Blant annet bør dette gjøres ved kunnskapsdeling på tvers av aldersgrupper i virksomheter og ved å tilpasse ansvar og arbeidstidsordninger til alder.
+
+Oppfatninger om hvem som er eldre arbeidstakere har endret seg over tid. Ledere oppfatter gjennomgående denne alderen som lavere sammenliknet med når det samme spørsmålet stilles til yrkesaktive som sådan. Lederes oppfatninger om hvem som er eldre har endret seg fra gjennomsnittlig 52 år i 2003 til 56,1 år i 2021, mens hos den yrkesaktive befolkningen har alderen økt fra 55 år til 58,4 år. Ifølge Norsk seniorpolitisk barometer 2021 (Ipsos 2021) er arbeidsgivere i private bedrifter noe mer skeptiske til å ansette seniorer enn arbeidsgivere i offentlig sektor. Undersøkelsen gir også støtte for at viljen til å ansette eldre arbeidstakere er noe større i store bedrifter enn i små bedrifter. Likevel oppgir 79 prosent av arbeidsgiverne at ansatte over 60 år har minst like gode arbeidsprestasjoner som dem under 60 år. På spørsmål om hvor gammel en kvalifisert søker skal være før en leder vil nøle med å innkalle til jobbintervju, var gjennomsnittsalderen 59 år, en økning på ett år sammenliknet med for ti år siden.
+
+I et eksperiment som kartlegger mulige grunner til at personer i 50–60-årsalderen kan bli diskriminert i ansettelsesprosesser, finner Van Borm m.fl. (2021) støtte for at en slik aldersdiskriminering i stor grad har sammenheng med at arbeidsgivere mener eldre har lav teknologisk kompetanse, at de er lite fleksible samt at mulighetene for å lære opp eldre anses å være mer begrenset.
+
+Andre studier viser at det som skjer i samspillet mellom ledere og ansatte lenge før den tradisjonelle pensjonsalderen er avgjørende for lengden på yrkeslivet. Arbeidsgivere som har rutiner for karriereutvikling, intern rekruttering og rutiner for evaluering på alle tidspunkt i karrieren, gir gode grunnlag for et utvidet arbeidsliv ved at denne interaksjonen påvirker lengden på karrieren og ikke bare den ansattes pensjonsavgjørelse like før pensjonering (Wikström og Liff 2020). Ulike internasjonale studier finner at avgjørelser om pensjonering tas lenge før den formelle pensjonsalderen, og arbeidsgiver kan spille en viktig rolle ved blant annet å tilpasse arbeidsplassen til en eldre arbeidsstokk (Moulaert og Biggs 2013 og Wainwright m.fl. 2019). Det at arbeidsgivere forstår og verdsetter eldre arbeidstakere ved å trekke fram relevansen av taus kunnskap både til yngre kollegaer og ledere kan være viktig (Wikström m.fl. 2018). Betydningen av at HR-rutiner aktivt tilpasses og støtter opp under ulike behov som skyldes variasjon i alderen på arbeidsstokken blir også nevnt som viktig av Wikström og Liff (2020).
+
+Eldre arbeidstakeres produktivitet
+
+Økonomiske insentiver har stor betydning også for arbeidsgiverne. For arbeidsgivere er det viktig at betingelser og forhold er lagt til rette for at det skal lønne seg å beholde eller ansette seniorer.
+
+Arbeidsgivernes vurdering av eldre arbeidstakere spiller en viktig rolle for jobbmulighetene for eldre arbeidssøkere. OECD (2019) drøfter eldres tilpasning i arbeidsmarkedet og mulige tiltak som kan øke deres deltakelse i arbeidslivet. Her pekes det på flere mulige faktorer som kan svekke arbeidsgivernes vilje til å rekruttere eldre personer. Ifølge Lazear (1981) kan stigende lønn over yrkeskarrieren ses på som et middel til å holde på arbeidstakere i virksomheten. Ifølge denne teorien er arbeidstakere betalt mindre enn sin produktivitet som unge og mer enn sin produktivitet på slutten av karrieren.
+
+Mange arbeidsgivere er usikre på om eldre arbeidstakere er like produktive som yngre.[^51] Det er en omfattende litteratur som studerer hvordan produktiviteten varierer med alder. Selv om mange deltar i arbeidsmarkedet, er seniorer ikke noen enhetlig gruppe. Funnene i de ulike studiene avhenger blant annet av hvordan produktivitet måles og hva slags arbeidstakere som studeres. Mahlberg m.fl. (2013) finner, basert på data for virksomheter i Østerrike, ikke dekning for Lazears hypotese om at eldre arbeidstakere koster mer enn verdien av det de produserer. Studien ser på produktivitet i industri- og anleggssektoren og i servicesektoren, og finner at arbeidstakere under 30 år har lavere produktivitet enn lønnskostnad i industrisektoren, mens arbeidstakere over 50 år som jobber i tjenestesektoren har høyere produktivitet enn lønnskostnad. Resultatene i studien fra Mahlberg m.fl. står i kontrast til Lazears hypotese om avtakende arbeidsproduktivitet i forhold til lønnskostnader etter alder. Disse viser til at varigheten på ansettelsesforholdet og alderssammensetningen i virksomheten er av betydning. Det avhenger blant annet av om arbeidet som utføres er av en slik karakter at arbeidstakere i ulik alder utfyller hverandre eller om de jobber like godt alene.
+
+Ifølge Aldersgrenseutvalget (2016) kan sammenhengen mellom alder og arbeidsprestasjoner variere med type arbeid. Høy alder kan gi fortrinn i jobber der fysisk styrke og reaksjonstid har liten betydning, mens høy alder kan være en ulempe når arbeidet er fysisk krevende, er under tidspress eller når erfaring betyr lite. Ng og Feldman (2013) fant at oppgaver som krever raske kognitive prosesser er mer krevende for eldre, mens kvaliteten av erfaringsbaserte vurderinger synes å styrkes med alderen. Oslo Economics (2019) skriver at det kan virke som produktiviteten faller noe i 60-års alderen, men at nedgangen avhenger av hvordan den måles og hva slags arbeidstakere som studeres. Oslo Economics peker på at forskning publisert i nyere tid kan tyde på at den negative sammenhengen mellom alder og produktivitet er blitt noe svakere.
+
+De forannevnte undersøkelsene viser at alder og arbeidsproduktivitet avhenger av en rekke forhold, blant annet av type arbeid, varigheten av ansettelsesforholdet, og av hvordan produktiviteten måles. De aller fleste arbeider sammen med andre og for disse vil produktivitet både avhenge av den enkeltes arbeidstakers egen produktivitet som et resultat av egen innsats og ferdigheter, men også av det kollektive bidrag inn i produksjonen som er resultatet av interaksjoner med kollegaene en samarbeider med. Det kollektive bidraget vil avhenge av hvor godt arbeidere i ulike aldre samarbeider, deler kunnskap og utfyller hverandre. OECD (2020) beskriver studier som studerer variasjon i produktivitet etter alder når det tas hensyn til både individuelle og kollektive bidrag til produktivitet. Ifølge OECD viser disse studiene at produktiviteten øker i de tidligere årene av karrieren. Det er mindre klart hva som skjer fra midten av yrkeslivet og fram til pensjonering. Flertallet av eksisterende studier finner at produktiviteten er høyest når arbeidere er i 40- eller 50-årene, og at den så stagnerer eller avtar etter hvert som folk blir eldre, mens noen få studier også indikerer at produktiviteten fortsetter å øke fram til pensjonisttilværelsen. På grunnlag av funnene som rapporten baserer seg på, viser gjennomgangen at arbeidstakerne starter sitt arbeidsliv med relativt lav produktivitet og at middelaldrende og eldre arbeidstakere ser ut til å ha stort sett like høy produktivitet.
+
+Også Norsk Seniorpolitisk barometer 2020 viser at ledere gjennomgående er uenige i at eldre arbeidstakere er mindre produktive enn yngre. På påstanden om at eldre arbeidstakere ikke er produktive nok, svarer hele 77 prosent av lederne at dette passer litt eller meget dårlig i forhold til deres erfaringer, og kun fem prosent svarer at dette passer meget eller ganske godt. Når det gjelder påstanden om at eldre arbeidstakere ikke leverer tilstrekkelig kvalitet, er «motstanden» enda høyere. Hele 87 prosent mener dette passer litt eller meget dårlig (Ipsos 2020).
+
+Solem (2017) argumenterer for å holde et klart skille mellom begrepene arbeidsprestasjoner og arbeidsevne. Ifølge Solem trenger ikke svekket arbeidsevne å føre til svekkede arbeidsprestasjoner fordi ulike mekanismer og tiltak kan motvirke at prestasjonene svekkes. Slike mekanismer er for eksempel sterkere motivasjon, bedre arbeidsmetoder, bedre ergonomi eller mer tid brukt på restitusjon etter jobben. Solem peker på at interessante arbeidsoppgaver, selvbestemmelse og ønsket om å bidra med noe meningsfylt også ofte synes å øke med alder. Ng og Feldman (2013) peker også på at eldre legger mer vekt på å samarbeide og å hjelpe andre. Eldre kan derfor bidra like mye som yngre arbeidstakere til virksomhetens produktivitet.
 
 Seniorgoder
-Seniorer har flere særordninger. Ansatte over 60
-år har blant annet etter ferieloven rett til en ekstra
-ferieuke med lønnskompensasjon fra fylte 60 år, og
-i staten gis det i tillegg fra 62 år åtte dager tjenestefri med lønn med tillegg av inntil seks dager per år
-om det er inngått lokal avtale om dette. Seniordagene bidrar til å øke arbeidsgivers kostnader og
-kan dermed redusere etterspørselen etter seniorer. I en undersøkelse mente halvparten av norske
-ledere at seniortiltakene bidrar til å gjøre eldre
-dyrere enn yngre, se Midtsundstad m.fl. (2017).
-Levealdersjusteringen innebærer at det blir
-viktigere for arbeidstakere å stå lenger i arbeid,
-og det kan også tilsi et behov for tilpassede tiltak
-som bidrar til at seniorer deltar lenger i arbeidslivet. Det foreligger imidlertid begrenset kunnskap
-om ulike seniorgoder har effekt på når arbeidstakere velger å pensjonere seg og om slike tiltak
-bidrar til at flere eldre blir stående lenger i arbeid.
-Basert på en spørreundersøkelse fant Svalund og
-Veland (2016) ikke støtte for at lovpålagte seniorgoder som ekstra ferie, redusert arbeidstid og rett
-til tilrettelagt arbeid på grunn av alder påvirket
-beslutningen om å forlenge yrkeskarrieren.
-Midtsundstad m.fl. (2012) fant heller ikke at virksomhetsbestemte seniortiltak samlet har positiv
-effekt på yrkesdeltakelsen.
-I nedgangstider vil virksomheter kunne ha et
-ønske om å nedbemanne ved å tilby gunstige
-sluttpakker. At det enkelte steder gjennomføres
-kostnadskutt ved å tilby sluttpakker, kan også gi
-krav om at også andre arbeidsgivere skal tilby det
-samme. Dette står i motsetning til målet om å øke
-yrkesdeltagelsen blant eldre arbeidstakere. I de
-gamle AFP-ordningene var etterlønn uten arbeidsplikt (sluttpakker) uforenlig med uttak av AFP.
-Arbeidstakeres insentiver til å takke ja til sluttpakker har derfor blitt sterkere enn tidligere i de tilfeller hvor virksomhetene har AFP-ordning.
-For å gjøre seniorer og eldre arbeidstakere
-mer attraktive på arbeidsmarkedet, foreslo sysselsettingsutvalgets ekspertgruppe, i NOU 2019: 7,
-at man burde vurdere å fjerne seniorgoder som
-innebærer økt timelønn for senior arbeidstakere,
-som ekstra ferieuke med lønnskompensasjon. Det
-ble imidlertid pekt på at det kan være behov for
-ordninger som gir eldre arbeidstakere mulighet
-til å tilpasse arbeidstiden til belastninger i arbeidet, som en ekstra ferieuke uten lønnskompensasjon. Sysselsettingsutvalget fase II viser til at det
-er uklart om seniortiltak som bonuser, subsidierte arbeidstidsreduksjoner eller ekstra ferie eller
-fridager har effekt på arbeidstilbudet.17 Funnene
 
-kan imidlertid ikke tolkes dithen at seniorpolitikk
-i form av tiltak er meningsløst. Hippe m.fl. (2012)
-indikerer at den manglende effekten også kan
-relateres til type tiltak, hvordan de er utformet og
-faktisk tildeles og brukes. Midtsundstad og
-Bogen (2011) undersøkte effekten av IA-tiltak i
-seks kommuner. Et av funnene var at kommunene
-primært fokuserte på økonomiske insentiver eller
-arbeidstidsreduksjoner rettet mot alle over en viss
-alder, enten de hadde behov for tiltak eller ikke,
-og lite på skreddersøm og forebygging. Dette til
-tross for at IA-avtalen antar at de mest effektive
-individrettede tiltakene tar utgangspunkt i den
-enkelte arbeidstakers særskilte behov og evner.
+Seniorer har flere særordninger. Ansatte over 60 år har blant annet etter ferieloven rett til en ekstra ferieuke med lønnskompensasjon fra fylte 60 år, og i staten gis det i tillegg fra 62 år åtte dager tjenestefri med lønn med tillegg av inntil seks dager per år om det er inngått lokal avtale om dette. Seniordagene bidrar til å øke arbeidsgivers kostnader og kan dermed redusere etterspørselen etter seniorer. I en undersøkelse mente halvparten av norske ledere at seniortiltakene bidrar til å gjøre eldre dyrere enn yngre, se Midtsundstad m.fl. (2017).
+
+Levealdersjusteringen innebærer at det blir viktigere for arbeidstakere å stå lenger i arbeid, og det kan også tilsi et behov for tilpassede tiltak som bidrar til at seniorer deltar lenger i arbeidslivet. Det foreligger imidlertid begrenset kunnskap om ulike seniorgoder har effekt på når arbeidstakere velger å pensjonere seg og om slike tiltak bidrar til at flere eldre blir stående lenger i arbeid. Basert på en spørreundersøkelse fant Svalund og Veland (2016) ikke støtte for at lovpålagte seniorgoder som ekstra ferie, redusert arbeidstid og rett til tilrettelagt arbeid på grunn av alder påvirket beslutningen om å forlenge yrkeskarrieren. Midtsundstad m.fl. (2012) fant heller ikke at virksomhetsbestemte seniortiltak samlet har positiv effekt på yrkesdeltakelsen.
+
+I nedgangstider vil virksomheter kunne ha et ønske om å nedbemanne ved å tilby gunstige sluttpakker. At det enkelte steder gjennomføres kostnadskutt ved å tilby sluttpakker, kan også gi krav om at også andre arbeidsgivere skal tilby det samme. Dette står i motsetning til målet om å øke yrkesdeltagelsen blant eldre arbeidstakere. I de gamle AFP-ordningene var etterlønn uten arbeidsplikt (sluttpakker) uforenlig med uttak av AFP. Arbeidstakeres insentiver til å takke ja til sluttpakker har derfor blitt sterkere enn tidligere i de tilfeller hvor virksomhetene har AFP-ordning.
+
+For å gjøre seniorer og eldre arbeidstakere mer attraktive på arbeidsmarkedet, foreslo sysselsettingsutvalgets ekspertgruppe, i NOU 2019: 7, at man burde vurdere å fjerne seniorgoder som innebærer økt timelønn for senior arbeidstakere, som ekstra ferieuke med lønnskompensasjon. Det ble imidlertid pekt på at det kan være behov for ordninger som gir eldre arbeidstakere mulighet til å tilpasse arbeidstiden til belastninger i arbeidet, som en ekstra ferieuke uten lønnskompensasjon. Sysselsettingsutvalget fase II viser til at det er uklart om seniortiltak som bonuser, subsidierte arbeidstidsreduksjoner eller ekstra ferie eller fridager har effekt på arbeidstilbudet.[^52] Funnene kan imidlertid ikke tolkes dithen at seniorpolitikk i form av tiltak er meningsløst. Hippe m.fl. (2012) indikerer at den manglende effekten også kan relateres til type tiltak, hvordan de er utformet og faktisk tildeles og brukes. Midtsundstad og Bogen (2011) undersøkte effekten av IA-tiltak i seks kommuner. Et av funnene var at kommunene primært fokuserte på økonomiske insentiver eller arbeidstidsreduksjoner rettet mot alle over en viss alder, enten de hadde behov for tiltak eller ikke, og lite på skreddersøm og forebygging. Dette til tross for at IA-avtalen antar at de mest effektive individrettede tiltakene tar utgangspunkt i den enkelte arbeidstakers særskilte behov og evner.
+
 Kompetanse
-Arbeidsplassen er en viktig læringsarena, også for
-seniorer. Opplæring og ny kompetanse på arbeidsplassen vil øke sannsynligheten for at eldre
-arbeidstakere mestrer kravene de møter på jobben. Det kan bidra til å øke arbeidstakers attraktivitet og dermed redusere tidligpensjonering. Det
-krever at arbeidsgivere legger til rette for en slik
-opplæring og at arbeidstakere selv er interessert i
-å delta i opplæring. Olsen og Børing (2019) viser
-at åtte av ti eldre mener de har behov for kontinuerlig kompetanseutvikling i jobben, men mange
-opplever at det er lite tid til dette. Samtidig svarer
-to av tre eldre arbeidstakere at deres arbeidsplass
-mangler planer for kompetanseutvikling.
-Opplæring og ny kompetanse vil øke sannsynligheten for at eldre arbeidstakere mestrer kravene de møter på arbeidsplassen. Det er bred
-enighet om at innsatsen for å øke sysselsettingen
-for seniorer og eldre arbeidstakere bør forsterkes
-blant annet gjennom økt satsing på kompetanseutvikling for voksne arbeidstakere. I en undersøkelse blant Unios medlemsgrupper innenfor helsetjenestene svarer over 80 prosent at tilbud om
-kompetanseheving er viktig eller svært viktig for
-at de skal stå i arbeid til fylte 67 år (Ny Analyse,
-2017).
-Eldre arbeidstakere deltar i mindre grad i opplæring enn yngre arbeidstakere. Ifølge Norsk
-seniorpolitisk barometer 2020 (Ipsos 2020) var det
-47 prosent av arbeidstakerne i aldersgruppen 60
-år og eldre som oppgir at de har deltatt i kurs,
-opplæring eller utdanning de siste tolv månedene,
-mens deltakelsen blant yngre aldersgrupper var i
-størrelsesorden 55–61 prosent. Lavere deltagelse
-blant eldre i opplæring kan ha sammenheng med
-lavere motivasjon hos disse til å delta på etter- og
-17
 
-NOU 2021: 2, avsnitt 12.2, side 298.
+Arbeidsplassen er en viktig læringsarena, også for seniorer. Opplæring og ny kompetanse på arbeidsplassen vil øke sannsynligheten for at eldre arbeidstakere mestrer kravene de møter på jobben. Det kan bidra til å øke arbeidstakers attraktivitet og dermed redusere tidligpensjonering. Det krever at arbeidsgivere legger til rette for en slik opplæring og at arbeidstakere selv er interessert i å delta i opplæring. Olsen og Børing (2019) viser at åtte av ti eldre mener de har behov for kontinuerlig kompetanseutvikling i jobben, men mange opplever at det er lite tid til dette. Samtidig svarer to av tre eldre arbeidstakere at deres arbeidsplass mangler planer for kompetanseutvikling.
 
-[Side 159]
+Opplæring og ny kompetanse vil øke sannsynligheten for at eldre arbeidstakere mestrer kravene de møter på arbeidsplassen. Det er bred enighet om at innsatsen for å øke sysselsettingen for seniorer og eldre arbeidstakere bør forsterkes blant annet gjennom økt satsing på kompetanseutvikling for voksne arbeidstakere. I en undersøkelse blant Unios medlemsgrupper innenfor helsetjenestene svarer over 80 prosent at tilbud om kompetanseheving er viktig eller svært viktig for at de skal stå i arbeid til fylte 67 år (Ny Analyse, 2017).
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+Eldre arbeidstakere deltar i mindre grad i opplæring enn yngre arbeidstakere. Ifølge Norsk seniorpolitisk barometer 2020 (Ipsos 2020) var det 47 prosent av arbeidstakerne i aldersgruppen 60 år og eldre som oppgir at de har deltatt i kurs, opplæring eller utdanning de siste tolv månedene, mens deltakelsen blant yngre aldersgrupper var i størrelsesorden 55–61 prosent. Lavere deltagelse blant eldre i opplæring kan ha sammenheng med lavere motivasjon hos disse til å delta på etter- og videreutdanningskurs. Det kan også være at eldre har større utbytte av læring gjennom arbeidet som utføres sammenliknet med yngre arbeidstakere. Arbeidsgiverne kan også være mindre villige til å tilby eldre arbeidstakere opplæring og undervisningstilbud om de opplever eldre som mindre produktive eller om de er usikre på hvor lenge seniorene vil fortsette å jobbe. Norsk seniorpolitisk barometer 2020 viser at vel fem av ti yrkesaktive har opplevd at yngre arbeidstakere blir foretrukket ved innføring av ny teknologi eller når nye arbeidsmetoder skal innføres. I Norsk seniorpolitisk barometer 2021 svarer 64 prosent av ledere i privat sektor og 52 prosent av ledere i offentlig sektor at yngre arbeidstakere blir foretrukket når ny teknologi eller nye arbeidsmåter skal innføres, se Ipsos (2021). At eldre har mindre erfaringer med IKT-relatert arbeid enn yngre arbeidstakere, eller at de vurderer sine ferdigheter mer kritisk, kan være mulige årsaker, men dette er ikke undersøkt nærmere.
 
-videreutdanningskurs. Det kan også være at eldre
-har større utbytte av læring gjennom arbeidet
-som utføres sammenliknet med yngre arbeidstakere. Arbeidsgiverne kan også være mindre villige til å tilby eldre arbeidstakere opplæring og
-undervisningstilbud om de opplever eldre som
-mindre produktive eller om de er usikre på hvor
-lenge seniorene vil fortsette å jobbe. Norsk seniorpolitisk barometer 2020 viser at vel fem av ti
-yrkesaktive har opplevd at yngre arbeidstakere
-blir foretrukket ved innføring av ny teknologi eller
-når nye arbeidsmetoder skal innføres. I Norsk
-seniorpolitisk barometer 2021 svarer 64 prosent
-av ledere i privat sektor og 52 prosent av ledere i
-offentlig sektor at yngre arbeidstakere blir foretrukket når ny teknologi eller nye arbeidsmåter
-skal innføres, se Ipsos (2021). At eldre har mindre
-erfaringer med IKT-relatert arbeid enn yngre
-arbeidstakere, eller at de vurderer sine ferdigheter mer kritisk, kan være mulige årsaker, men
-dette er ikke undersøkt nærmere.
-Hauge og Halvorsen (2019) peker på at eldre
-som har mye kompetanse fra før, ofte tilegner seg
-mer kompetanse, mens de som har lite kompetanse i mindre grad får kompetansepåfyll. Lazazzara m.fl. (2013) fant at arbeidsgivere tenderte til
-å gi opplæring til eldre som mestret jobben godt,
-mens de som hadde behov for opplæring, i mindre
-grad ble tilbudt opplæring.
-Omstillinger, både i privat og offentlig sektor,
-gjør det nødvendig at både arbeidstakere og
-arbeidsgivere legger til rette for at kompetansen
-fornyes slik at den samsvarer med næringslivets
-behov, og at slik læring skjer på en hensiktsmessig måte. Som nevnt foreslo sysselsettingsutvalgets ekspertgruppe, se NOU 2019: 7, foreslo at
-man burde vurdere å fjerne seniorgoder som en
-ekstra ferieuke med lønn. I stedet mente de at innsatsen for å øke sysselsettingen i arbeidsmarkedet
-burde forsterkes, med vekt på kompetanse og tiltak for å styrke etterspørselen. Sysselsettingsutvalget viste også til at arbeidstakere over 62 år har
-rett til å få redusert sin arbeidstid dersom arbeidstidsreduksjonen kan gjennomføres uten vesentlig
-ulempe for virksomheten. For eldre arbeidstakere
-kan avkastningen av dyre kompetanseinvesteringer bli lav, siden de har få yrkesaktive år foran
-seg. Men dersom kompetanseinvesteringene kan
-få arbeidstakerne til å være yrkesaktive lenger, vil
-hvert år de jobber lenger som følge av investeringene kunne gi gevinster både for arbeidstakerne
-selv, og for samfunnet som vil få skatteinntekter
-fra deres arbeid i flere år. Det kan også være
-naturlig å se på om dagens ordning med ekstra
+Hauge og Halvorsen (2019) peker på at eldre som har mye kompetanse fra før, ofte tilegner seg mer kompetanse, mens de som har lite kompetanse i mindre grad får kompetansepåfyll. Lazazzara m.fl. (2013) fant at arbeidsgivere tenderte til å gi opplæring til eldre som mestret jobben godt, mens de som hadde behov for opplæring, i mindre grad ble tilbudt opplæring.
 
-157
+Omstillinger, både i privat og offentlig sektor, gjør det nødvendig at både arbeidstakere og arbeidsgivere legger til rette for at kompetansen fornyes slik at den samsvarer med næringslivets behov, og at slik læring skjer på en hensiktsmessig måte. Som nevnt foreslo sysselsettingsutvalgets ekspertgruppe, se NOU 2019: 7, foreslo at man burde vurdere å fjerne seniorgoder som en ekstra ferieuke med lønn. I stedet mente de at innsatsen for å øke sysselsettingen i arbeidsmarkedet burde forsterkes, med vekt på kompetanse og tiltak for å styrke etterspørselen. Sysselsettingsutvalget viste også til at arbeidstakere over 62 år har rett til å få redusert sin arbeidstid dersom arbeidstidsreduksjonen kan gjennomføres uten vesentlig ulempe for virksomheten. For eldre arbeidstakere kan avkastningen av dyre kompetanseinvesteringer bli lav, siden de har få yrkesaktive år foran seg. Men dersom kompetanseinvesteringene kan få arbeidstakerne til å være yrkesaktive lenger, vil hvert år de jobber lenger som følge av investeringene kunne gi gevinster både for arbeidstakerne selv, og for samfunnet som vil få skatteinntekter fra deres arbeid i flere år. Det kan også være naturlig å se på om dagens ordning med ekstra feriedager støtter opp under IA-avtalen mål om å legge til rette for at så mange som mulig kan arbeide så lenge som mulig. I noen yrker og virksomheter vil målsettingen om å få seniorer til å stå lenger i arbeid kunne møtes bedre med kompetanseheving enn med ekstra feriedager for seniorer. Kompetansehevende tiltak utover de arbeidsgiver er pålagt gjennom sin tilretteleggingsplikt vil gi økte kostnader for de arbeidsgivere som tilbyr dette. Det bør derfor ses nærmere på om slike tiltak kan erstatte ekstra feriedager for seniorer.
 
-Kapittel 7
-
-feriedager støtter opp under IA-avtalen mål om å
-legge til rette for at så mange som mulig kan
-arbeide så lenge som mulig. I noen yrker og virksomheter vil målsettingen om å få seniorer til å stå
-lenger i arbeid kunne møtes bedre med kompetanseheving enn med ekstra feriedager for seniorer. Kompetansehevende tiltak utover de arbeidsgiver er pålagt gjennom sin tilretteleggingsplikt vil
-gi økte kostnader for de arbeidsgivere som tilbyr
-dette. Det bør derfor ses nærmere på om slike tiltak kan erstatte ekstra feriedager for seniorer.
 Arbeidsmiljø, motivasjon og holdninger
-Arbeidsmiljø, motivasjon og holdninger til eldre
-har betydning for eldres deltakelse i arbeidsmarkedet. Et godt arbeidsmiljø er sentralt. Ifølge
-Norsk seniorpolitisk barometer 2020 nevnes et
-godt arbeidsmiljø og gode kolleger som de to viktigste årsakene til at arbeidstakere over 62 år fortsatt er i arbeid etter at de fikk rett til pensjon, se
-Ipsos (2020). Den samme undersøkelsen viser
-også at 60-åringer er den aldersgruppen som gleder seg mest til å gå på jobb. Også i undersøkelsen
-til Ny Analyse (2017) trekkes forhold som et godt
-arbeidsmiljø og interessante arbeidsoppgaver fram
-som viktige for å kunne stå lenger i arbeid. En
-undersøkelse fra Statens arbeidsmiljøinstitutt
-(2018) underbygger også at arbeidsmiljøet har
-betydning for pensjoneringstidspunktet. Undersøkelsen viser at en opplevelse av å ta del i meningsfullt arbeid preget av et godt arbeidsmiljø har
-betydning for jobbengasjement og jobbtilhørighet.
-Et bekymringsfullt trekk er at ønsket pensjoneringsalder er blitt noe redusert de siste fem
-årene. Ifølge Norsk seniorpolitisk barometer 2020
-svarte de yrkesaktive at de i gjennomsnitt ønsket
-å tre ut av arbeidslivet når de var 65,2 år. Det er ett
-år tidligere enn for fem år siden. Pandemien kan
-medføre særskilt usikkerhet om svarene i undersøkelsen i 2020.
+
+Arbeidsmiljø, motivasjon og holdninger til eldre har betydning for eldres deltakelse i arbeidsmarkedet. Et godt arbeidsmiljø er sentralt. Ifølge Norsk seniorpolitisk barometer 2020 nevnes et godt arbeidsmiljø og gode kolleger som de to viktigste årsakene til at arbeidstakere over 62 år fortsatt er i arbeid etter at de fikk rett til pensjon, se Ipsos (2020). Den samme undersøkelsen viser også at 60-åringer er den aldersgruppen som gleder seg mest til å gå på jobb. Også i undersøkelsen til Ny Analyse (2017) trekkes forhold som et godt arbeidsmiljø og interessante arbeidsoppgaver fram som viktige for å kunne stå lenger i arbeid. En undersøkelse fra Statens arbeidsmiljøinstitutt (2018) underbygger også at arbeidsmiljøet har betydning for pensjoneringstidspunktet. Undersøkelsen viser at en opplevelse av å ta del i meningsfullt arbeid preget av et godt arbeidsmiljø har betydning for jobbengasjement og jobbtilhørighet.
+
+Et bekymringsfullt trekk er at ønsket pensjoneringsalder er blitt noe redusert de siste fem årene. Ifølge Norsk seniorpolitisk barometer 2020 svarte de yrkesaktive at de i gjennomsnitt ønsket å tre ut av arbeidslivet når de var 65,2 år. Det er ett år tidligere enn for fem år siden. Pandemien kan medføre særskilt usikkerhet om svarene i undersøkelsen i 2020.
+
 Tilrettelegging og oppfølging på arbeidsplassen
-Tilrettelegging og oppfølging på arbeidsplassen
-kan være viktig for å holde på eldre arbeidstakere.
-Arbeidsgiver har en generell plikt til å ta hensyn
-til den enkelte arbeidstaker på arbeidsplassen.
-Det kan være særlig viktig for eldre arbeidstakere
-som har helseproblemer. Eksempler på tilrettelegging kan være endring av oppgaver, organisering
-av arbeidet, redusert arbeidstid eller tilbud om
-hjelpemidler. Tilbud om opplæring eller omskolering er andre tiltak.
 
-[Side 160]
+Tilrettelegging og oppfølging på arbeidsplassen kan være viktig for å holde på eldre arbeidstakere. Arbeidsgiver har en generell plikt til å ta hensyn til den enkelte arbeidstaker på arbeidsplassen. Det kan være særlig viktig for eldre arbeidstakere som har helseproblemer. Eksempler på tilrettelegging kan være endring av oppgaver, organisering av arbeidet, redusert arbeidstid eller tilbud om hjelpemidler. Tilbud om opplæring eller omskolering er andre tiltak.
 
-158
-
-NOU 2022: 7
-
-Kapittel 8
-
-Et forbedret pensjonssystem
-
-Kapittel 8
-
-Pensjonssystemets økonomiske bærekraft
-8.1
-
-Innledning og sammendrag
-
-I dette kapitlet gir utvalget en overordnet vurdering av den økonomiske bærekraften til folketrygdens pensjonssystem.
-Pensjonskommisjonen foreslo kraftige tiltak
-for å bedre pensjonssystemets økonomiske bærekraft. Utvalget vil konkludere med at pensjonsreformen var nødvendig for å begrense utgiftsveksten til alderspensjon fra folketrygden og
-bedre bærekraften i offentlige finanser. Levealdersjusteringen bidrar til å dempe og stabilisere
-utgiftsveksten framover.
-Pensjonsreformen har endret insentivene til å
-stå i arbeid mot slutten av yrkeslivet. De nye pensjonsreglene innfases gradvis og vil i stigende grad
-de neste tiårene påvirke pensjonsnivåene og fordelingen mellom grupper både for nåværende og
-framtidige pensjonister. Siden alderspensjon er en
-stor del av de offentlige utgiftene, er pensjonsreglene også svært viktige for offentlige finanser.
-Oppdaterte beregninger tilsier at reformen vil
-kunne virke etter hensikten, og at målet om å
-begrense utgiftsveksten vil kunne nås. Bidragsraten er et mål for pensjonssystemets finansieringsbyrde. Med en videreføring av dagens regelverk (i
-en såkalt referansebane) er anslaget for bidragsraten i 2050 oppjustert fra knapt 17 prosent i 2009 til
-vel 18 prosent nå. Bidragsraten stabiliserer seg ut
-over århundret på rundt 18–19 prosent. Det er
-likevel klart at utgiftene til pensjon vil øke betydelig de nærmeste tiårene, noe som også lå til grunn
-for Pensjonskommisjonens vurderinger.
-Uten pensjonsreformen ville finansieringsbyrden blitt enda høyere enn tidligere antatt og den
-ville ha fortsatt å stige. Anslaget på bidragsraten i
-2050 uten pensjonsreformen er oppjustert fra 21
-prosent i 2009 til 25 prosent nå. Uten pensjonsreformen ville bidragsraten ha fortsatt å øke mot
-2100, se figur 8.2.
-Det er mange forhold som har endret seg
-siden pensjonsreformen. Levealderen har økt
-betydelig, og befolkningsframskrivingene viser en
-sterkere vekst i levealderen, særlig for menn, enn
-
-det som ble forutsatt av Pensjonskommisjonen. På
-den annen side har utviklingen i verdien av Statens pensjonsfond vært betydelig mer positiv enn
-tidligere anslått. Selv om anslaget for realavkastningen er redusert fra fire til tre prosent, er muligheten for bruk av midler fra fondet i tråd med
-handlingsregelen1 økt betydelig. Mens en i Perspektivmeldingen i 2004 så for seg at en kunne ha
-en fondsavkastning på knapt seks prosent av BNP
-for Fastlands-Norge i 2050, kan en nå forvente en
-fondsavkastning på åtte prosent. Vi har de siste 20
-årene faset inn bruken av fondsmidler i et mye
-høyere tempo enn det man så for seg for 20 år
-siden.
-Utvalget vil peke på at oljepengebruken som
-allerede er faset inn, har gått til mange formål, som
-det ikke vil være lett å nedprioritere. Framover vil
-det i liten grad være mulig å øke utgiftene til alderspensjon, uten å måtte stramme inn på andre områder. Perspektivmeldingen viser, med de forutsetninger som ble lagt til grunn i den, at rommet for
-økt oljepengebruk er begrenset framover. I Meld.
-St. 14 (2020–2021) Perspektivmeldingen 2021 skisseres det at vi på kort sikt kan fase inn 3–6 mrd.
-kroner årlig, mens vi i perioden 2011–2019 faset inn
-i størrelsesorden 12 mrd. kroner årlig.
-Utvalget legger til grunn Perspektivmeldingens
-overordnede vurderinger av finansieringsutfordringene for offentlige finanser framover. Utvalget
-registrerer at de offentlige finansene, og pensjonssystemet som en del av dette, i enda større grad
-enn antatt ved pensjonsreformens start vil avhenge
-av overføringer fra pensjonsfondet.
-Pensjonsbeslutninger er langsiktige. Mange
-beslutninger om pensjonsregler som vi tar i dag,
-vil først få virkning på lengre sikt. Hvis vi vurderte
-at pensjonssystemet ikke ville være økonomisk
-bærekraftig mot midten av dette århundret, ville
-det være behov for å gjøre justeringer nå, for å iva1
-
-«Handlingsregelen» benyttes om retningslinjene for bruk
-av midler fra Statens pensjonsfond utland over statsbudsjettet. Bruken av fondsmidlene skal over tid følge forventet
-realavkastning av fondet, anslått til tre prosent.
-
-[Side 161]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-reta pensjonsrettigheter og lage rimelige overgangsordninger.
-Utvalget vil peke på flere forhold som er viktige ved en vurdering av framtidig økonomisk
-bærekraft. Bærekraften vil i stor grad avhenge av
-at vi sikrer et tilstrekkelig høyt arbeidstilbud.
-Dette vil være krevende. Hvis vi ikke lykkes med
-det, vil det være svært utfordrende å sikre både
-tilstrekkelige inntekter og tilstrekkelig arbeidskraft til velferdsstaten, herunder til å dekke
-økende behov for helse- og omsorgstjenester. Det
-er svært viktig at pensjonssystemet fortsatt støtter
-opp under insentivene til å stå i arbeid.
-Perspektivmeldingen legger til grunn at standarden på offentlige tjenester fortsatt vil øke noe
-framover, men at veksten vil bli betydelig mindre
-enn vi har vært vant til. Dessuten viser Perspektivmeldingen et betydelig inndekningsbehov. Vekst i
-produktiviteten vil innebære at framtidige generasjoner trolig vil være rikere enn oss, og det kan
-argumenteres for at de selv bør finansiere standardhevinger og konsekvenser av økende levealder. Utvalget vil derfor mene at neste generasjon,
-ut fra det vi nå ser for oss, ikke bør ha grunnlag
-for å hevde at vår generasjon burde ha strammet
-inn pensjonssystemet på 2020-tallet. Selv om neste
-generasjon må forvente å stå lenger i jobb for å
-opprettholde pensjonsnivået, vil dette være knyttet til at forventet levealder vil øke, og dermed
-antakelig også den helsemessige funksjonsdyktigheten ved ulike alderstrinn.
-Utvalget vil konkludere med at det bildet som
-dette kapitlet tegner av utviklingen framover med
-dagens regelverk og ut fra forutsetningene i referansebanen, ikke tilsier at det er behov for større
-innstramminger og systemendringer.
-Utvalget vil imidlertid peke på at vi står overfor en usikker framtid. Forutsetninger om pensjonsfondets avkastning framover kan for eksempel vise seg å være for optimistiske. Hvis forutsetningene for pensjonssystemets bærekraft – for
-eksempel forholdet mellom antall arbeidstakere
-og pensjonister – svikter i betydelig grad, må sterkere tiltak for å stabilisere utgiftene vurderes.
-En kan håpe på at sysselsettingen øker mer og
-at Statens pensjonsfond vokser raskere enn det
-som nå legges til grunn, men en bør ikke planlegge ut fra dette. Utvalget mener at vi bør vektlegge den nedsiderisikoen som finnes for offentlige finanser framover. Det tilsier at en bør være
-forsiktig med å vedta nye justeringer av pensjonssystemet som øker utgiftene. Dette må også ses i
-lys av at pensjonsregler i noen grad er beskyttet
-av Grunnloven, slik at det kan bli krevende å
-stramme inn ordninger med rask effekt på et
-
-159
-
-Kapittel 8
-
-senere tidspunkt hvis en først har økt pensjonsrettighetene.
-På denne bakgrunnen mener utvalget at pensjonssystemet ikke bør justeres slik at det svekker
-bærekraften, men at justeringene som kan og bør
-gjøres, må bidra til en balansert og holdbar utvikling. Utvalget mener derfor at for å bidra til en
-balanse mellom generasjonene, bør bidragsraten i
-utgangspunktet ikke øke særlig mye ut over anslaget i referansebanen.
-Dette kan bli krevende. Det er flere forhold
-ved dagens regelverk som ikke i tilstrekkelig grad
-bidrar til å sikre den sosiale bærekraften. Utvalget
-viser blant annet til at det i referansebanen ikke er
-lagt inn skjerming av uføre for levealdersjusteringen. Ved vurderingen av uføres alderspensjon (jf.
-kapittel 12 og kapittel 14) vil hensynet til behovet
-for en slik skjerming måtte avveies mot konsekvensene for den økonomiske bærekraften.
-Framover vil det være særlig viktig at eventuelle justeringer opprettholder gode insentiver til å
-stå i arbeid, og ikke vesentlig svekker levealdersjusteringen, som er den mekanismen som i pensjonsreformen særlig ivaretar den økonomiske
-bærekraften.
-Tilstrekkelig oppslutning om reformen er
-avgjørende for å sikre bærekraftige pensjonsordninger. Siden reformen ble innført i 2011, og før
-den for alvor har begynt å få betydelig effekt, er
-det vedtatt en rekke mindre justeringer i pensjonsreglene. Det er vedtatt økt grunnpensjon til
-gifte og samboende pensjonister, minstepensjonen er økt i flere omganger og det ble gitt gunstigere regulering av alderspensjon under utbetaling
-i 2021. Endringene har i stor grad dreid seg om å
-gjøre reglene for gammel alderspensjon mer gunstige.2 Effektene vil derfor i hovedsak være faset
-ut til 2050. Nå som ny alderspensjon fases inn, og
-levealdersjusteringen får større effekt over tid, er
-det avgjørende at det er oppslutning om de samlede pensjonsreglene, og at oppslutningen hviler
-på at konsekvensene av reglene er forstått og
-aksepterte ut fra en helhetsvurdering. Pensjonssystemet er komplekst, og endringer på ett
-område kan få utilsiktede konsekvenser på andre
-områder. Enkelte justeringer som hver for seg
-kan fremstå som fornuftige kan, om de blir mange
-nok, over tid bidra til å undergrave pensjonsrefor2
-
-Et unntak er at det er vedtatt innstramminger i etterlatteordningen ved at det for gammel folketrygd er vedtatt å
-fryse de nominelle verdiene av løpende etterlatteytelser.
-Det er samtidig vedtatt å ikke videreføre en ordning med
-etterlatteytelser i det nye opptjeningssystemet. Dette var en
-uavklart sak i Pensjonskommisjonen og i lovproposisjonen
-om pensjonsreformen i 2009.
-
-[Side 162]
-
-160
-
-Kapittel 8
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-men og målet om et bærekraftig pensjonssystem.
-Det kan derfor være hensiktsmessig at endringer
-i pensjonsreglene gjennomføres på bakgrunn av
-brede evalueringer, for eksempel hvert tiende år,
-jf. avsnitt 4.6.
-Videre innhold
-Mandatet og utvalgets vektlegginger og forståelse
-av økonomisk bærekraft blir redegjort for i avsnitt
-8.2
-I avsnitt 8.3 introduseres begrepet bidragsrate,
-som beskriver forholdet mellom pensjonsutgifter
-og samlede pensjonsgivende inntekter i samfunnet.
-Bidragsraten er en viktig, men ikke fullt ut dekkende, indikator for økonomisk bærekraft.
-I avsnitt 8.4 beskrives målbildet for pensjonsreformen slik det var før den trådte i kraft.
-I avsnitt 8.5 gir utvalget en oppdatert vurdering av den økonomiske bærekraften belyst ved
-bidragsraten. Hovedbildet er at behovet for pensjonsreformen er minst like stort nå som anslått
-av Pensjonskommisjonen. Videre anslås effekten
-av pensjonsreformen å bli om lag som forventet av
-Pensjonskommisjonen.
-I avsnitt 8.6 beskrives befolkningsutviklingen
-som påvirker den økonomiske bærekraften i stor
-grad. Befolkningsframskrivingene de siste 20
-årene innebærer at vi lever og kommer til å leve
-stadig lenger.
-Pensjonssystemets økonomiske bærekraft bør
-gjøres ut fra en bredere tilnærming enn isolerte
-vurderinger av bidragsraten. Den må også ses i en
-helhetlig sammenheng med bærekraften i offentlige finanser og andre utfordringer for velferdsstaten. I avsnitt 8.7 beskrives en slik bred tilnærming
-med utgangspunkt i Perspektivmeldingen 2021
-som beskriver utfordringsbildet for neste generasjon (dvs. i 2060). Perspektivmeldingen anslår som
-hovedalternativ et inndekningsbehov på 5,6 prosent av BNP for Fastlands- Norge i 2060.3
-I avsnitt 8.8 skisseres hvordan utfordringer for
-den økonomiske bærekraften i pensjonssystemet
-kan håndteres, enten ved tilpasninger av andre
-utgifter, skatteøkninger eller utgiftsreduksjoner i
-selve pensjonssystemet.
-Avsnitt 8.9 drøfter om pensjonssystemet har
-iboende systemutfordringer som kan bli vanskelige å håndtere over tid. Levealdersjustering av
-ytelsene er det viktigste systemtiltaket som Pen3
-
-Inndekningsbehovet er i Perspektivmeldingen definert
-som hvilke tilpasninger av skattenivået som vil være nødvendig for å finansiere offentlige utgifter for en gitt bruk av
-fondsmidler innenfor handlingsregelen.
-
-sjonskommisjonen foreslo, og det ivaretar mye av
-de systemutfordringene som pensjonssystemet
-må håndtere. Andre land, som Sverige, har imidlertid mer omfattende tiltak for å sikre den økonomiske bærekraften.
-
-8.2
-
-Mandatet og utvalgets forståelse
-av økonomisk bærekraft
-
-Vi lever lenger og blir flere eldre framover. Denne
-demografiske utviklingen med flere eldre (særlig
-over 80 år), gir økte utgifter til pensjoner og økte
-utgifter og betydelig økt personellbehov i helseog omsorgssektoren. Samtidig blir det svakere
-vekst i den delen av befolkningen som gjennom
-arbeid og skattebetalinger skal finansiere utgiftsveksten. Dette er en stor utfordring for velferdssamfunnet framover som mange land står overfor.
-I mandatet for utvalget sies det blant annet:
-«Pensjonsreformens langsiktige mål er å
-styrke bærekraften både ved at veksten i utgiftene til alderspensjon begrenses og gjennom at
-styrkede insentiver til arbeid vil bedre pensjonssystemets finansieringsgrunnlag. (…)
-[Det] oppnevnes et utvalg som skal
-beskrive pensjonssystemet og evaluere om de
-langsiktige målene i reformen vil kunne nås.
-Utvalget skal videre se på mulige justeringer
-for å sikre pensjonssystemets økonomiske og
-sosiale bærekraft. (…)
-[M]ålet om at flere står lenger i arbeid, (…)
-vil (…) bidra til å styrke den økonomiske bærekraften gjennom økt verdiskaping og økte skatteinntekter. (…) Utvalget skal drøfte i hvilken
-grad det langsiktige målet i reformen om å
-begrense utgiftsveksten vil kunne nås.»
-Dette avsnittet drøfter utvalgets forståelse av hva
-økonomiske bærekraft betyr.
-Folketrygdens alderspensjon er basert på at
-utgiftene dekkes løpende (pay-as-you-go). Overordnet kan den økonomiske bærekraften vurderes ut fra om det er et bærekraftig forhold mellom
-skatteinntekter og utgiftene til alderspensjon. Kan
-utgiftsnivået bæres av dem som betaler inn til
-systemet, uten å fortrenge andre viktige oppgaver
-for det offentlige? Kan utgiftsnivået bæres uten at
-økonomiens funksjonsevne svekkes av for høye
-skattesatser og svekkede arbeidsinsentiver? Er
-det en rimelig og rettferdig fordeling av byrdene
-mellom yrkesaktive og yrkespassive?
-Den økonomiske bærekraften vil grovt sett
-avhenge av tre forhold:
-
-[Side 163]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-161
-
-Kapittel 8
-
-Er nivået på det som kreves av innbetalinger/
-skattefinansiering i utgangspunktet rimelig ut
-fra effektivitets- og byrdefordelingshensyn?
-Et dette nivået stabilt, eller vil det øke over tid?
-En økende belastning over tid vil utfordre
-bærekraften.
-Er det mekanismer i pensjonssystemet som
-håndterer balansen mellom inntekter og utgifter over tid? Det vil være en fordel om disse
-mekanismene ikke krever stadig nye politiske
-vedtak, men er regelfestede og tilpasses
-løpende de utfordringene vi vil møte.
-
-«Aldringen av befolkningen medfører at offentlige finanser stilles overfor store utfordringer i
-årene framover. (…) Det ligger (…) an til at
-handlingsrommet i finanspolitikken de neste
-årene blir vesentlig mindre enn vi er blitt vant
-til, som betyr behov for økte offentlige inntekter og/eller reduserte offentlige utgifter.
-Finansieringen av fremtidens velferdssamfunn
-vil kreve gode og bevisste valg i årene som
-kommer. Dersom målene med pensjonsreformen ikke nås, vil utfordringene bli betydelig
-mer krevende.»
-
-Utvalget vil drøfte utviklingen i pensjonssystemet
-til nå og framover ut fra disse tre forholdene.
-Det har vært en betydelig vekst i levealderen
-over tid, og veksten vil trolig fortsette. Et system
-med faste aldersgrenser, og faste ytelser ved disse
-aldersgrensene, vil medføre stadig økende utgifter. Det gamle pensjonssystemet i folketrygden
-hadde ikke noen mekanisme som hindret at høyere levealder medførte at like høye pensjoner ble
-utbetalt i en stadig lenger tidsperiode. Dette ville
-ha gitt behov for stadig økende innbetalinger/
-skatter for å finansiere pensjonene. Det sentrale
-grepet i pensjonsreformen var å innføre levealdersjustering av ytelsene. Det innebærer at den
-enkelte må forlenge yrkesdeltakelsen for å opprettholde et gitt årlig pensjonsnivå, når levealderen øker. Denne mekanismen bidrar til å dempe
-utgiftsveksten og på sikt i stor grad til å stabilisere
-utgiftene til alderspensjon. Utgiftene til pensjon vil
-imidlertid likevel øke betydelig de nærmeste tiårene.
-Den økonomiske bærekraften avhenger også
-av hvilke insentiver pensjonssystemet gir. Dersom
-flere, som følge av reformen, står lenger i arbeid,
-bidrar det gjennom økte skatteinntekter til å
-bedre finansieringsgrunnlaget for folketrygdens
-alderspensjon og velferdsstaten. Målet må være et
-økonomisk og sosialt bærekraftig pensjonssystem
-med en rimelig byrdefordeling mellom generasjonene samtidig som andre viktige velferdsordninger og offentlige oppgaver ikke fortrenges.
-Utgiftene til alderspensjon fra folketrygden er
-den største enkeltposten på statsbudsjettet. Statens evne til å finansiere utgiftene til alderspensjon avhenger imidlertid også av utviklingen i
-andre utgifter og hvordan statsbudsjettets inntekter, primært skatteinntekter, men også inntektene
-fra Statens pensjonsfond utland, utvikler seg.
-Utvalgets mandat tar utgangspunkt i utfordringer for offentlige finanser mer generelt, jf.:
-
-Utvalget vil derfor både vurdere i hvilken grad
-utgiftsveksten i pensjonssystemet isolert sett er
-bærekraftig, og i hvilken grad pensjonssystemet
-er bærekraftig i lys av andre utviklingstrekk.
-Eksempelvis kan det stilles enda strengere krav til
-bærekraften i pensjonssystemet hvis andre
-utviklingstrekk tilsier at det er behov for innstramminger i offentlige finanser. Alternativt kan
-vi tåle sterkere vekst i utgiftene til alderspensjon
-enn forutsatt, hvis andre utviklingstrekk tilsier økt
-handlingsrom for offentlige finanser framover.
-Et moment i en slik vurdering kan være om
-utviklingen i pensjonsfondets størrelse tilsier endringer i målbildet for pensjonsreformen. Et annet
-moment kan være utviklingen på andre utgiftsområder, for eksempel utviklingen i helse- og omsorgsbehov knyttet til at det blir flere eldre over 80 år.
-Dette overordnete perspektivet vil bli belyst
-med utgangspunkt i Perspektivmeldingen 2021 i
-avsnitt 8.7.
-
-•
-
-•
-
-•
-
-8.3
-
-Bidragsraten som mål for
-bærekraft
-
-Endringer i pensjonssystemet har virkninger
-langt fram i tid. Utgiftene til alderspensjon over tid
-blir som oftest målt i faste lønninger, altså korrigert for den nominelle lønnsveksten.4
-Utgiftene målt i faste lønninger – eller fast
-grunnbeløp (G) – sier noe om volumet på utgiftene,
-men er ikke tilstrekkelig til å belyse hvor krevende
-finanseringen av disse utgiftene vil bli. Folketrygden finansieres løpende, og det er derfor nærlig4
-
-Hvis en hadde målt pensjonsutgiftene i faste kroner, dvs.
-justert med konsumprisindeksen, ville i en situasjon med
-reallønnsvekst, utgiftstallene og utgiftsveksten vært større.
-Lønnsdeflatering kan dermed i en viss forstand sies å
-undervurdere utgiftstall og utgiftsvekst. Samtidig vil det
-ofte være nyttig å relatere nivåene til nivåene for inntektsgrunnlaget slik vi gjennomgående velger å gjøre i rapporten.
-
-[Side 164]
-
-162
-
-NOU 2022: 7
-
-Kapittel 8
-
-Et forbedret pensjonssystem
-
-gende å måle finansieringsbyrden som andel av
-den løpende verdiskapingen, altså brutto nasjonalprodukt (BNP) eller BNP for Fastlands-Norge.5
-Dette er tilnærmingen i Perspektivmeldingen, der
-en vurderer inndekningsbehovet, dvs. differansen
-mellom inntekter og utgifter, for offentlig sektor
-som andel av BNP i Fastlands-Norge.
-5
-
-I et fondert system vil det være naturlig å vurdere bærekraft ut fra fonderingsgrad og ulike avkastningsforventninger.
-
-Utgiftene til alderspensjon målt som andel av
-all pensjonsgivende inntekt i samfunnet, ofte
-omtalt som bidragsraten, er et hyppig brukt, mål
-på den finansielle bærekraften til alderspensjonssystemet, men noe snevrere enn tilnærmingen ut
-fra BNP. Se boks 8.1 for en definisjon av bidragsraten og drøfting av ulike utforminger av denne indikatoren. Det som skiller disse utformingene, er
-hvordan de behandler skatt på pensjonsinntekter.
-
-Boks 8.1 Definisjon av bidragsraten og håndtering av skatt på pensjonsinntekt
-dagpenger og foreldrepenger). Bidragsraten er
-Bidragsraten, slik den har vært anvendt i bereget hypotetisk mål, i den forstand at den ikke er
-ninger av pensjonsforpliktelser, tilsvarer den
-knyttet til hvordan utgiftene til alderspensjon
-skattesatsen som er nødvendig for å finansiere
-faktisk finansieres. Tilnærmingen er blant annet
-utbetalingene av alderspensjon fra folketrygden,
-brukt i Ot.prp. nr. 37 (2008–2009) Om lov om
-gitt at finansieringsbyrden utelukkende legges
-endringer i folketrygdloven (ny alderspensjon) der
-på arbeids- og pensjonsinntekter i samme år.
-det endelige lovforslaget om pensjonsreformen
-Både utgiftene og finansieringsgrunnlaget deflable fremmet.
-teres med lønn, noe som får fram utviklingen i
-Det er mulig å definere bidragsraten på
-finansieringsbyrden over tid (Stensnes m.fl.
-andre måter. For eksempel kan en tenke seg at
-2007, side 20f). Rent teknisk har bidragsraten i
-pensjoner skattlegges på samme nivå som
-arbeidet med pensjonsreformen vært definert
-lønnsinntekt. I så tilfelle blir bidragsraten:
-som:
-BR =
-
-P
-W + 0 ,5 × P
-
-(1 )
-
-der P er de samlede pensjonsutgiftene, og W er
-de samlede arbeidsinntektene. I nevneren i
-uttrykket ganges P med 0,5 fordi pensjoner i
-sum grovt sett antas skattlagt med halvparten av
-det lønnsinntekter skattlegges. Dels vil pensjonister betale lavere skatt fordi inntektsnivået er
-lavere enn for yrkesaktive, og i et progressivt
-skattesystem vil det gi lavere gjennomsnittsskatt
-for pensjonister. Dels er det egne skatteregler
-for pensjonister (pensjonsfradrag og lavere trygdeavgift), som gir lavere skatt for pensjonister enn
-for yrkesaktive med samme inntekt. I beregningene er denne andelen forutsatt å ligge fast, selv
-om den vil kunne endres over tid.
-Arbeidsinntektene tar utgangspunkt i pensjonsgivende inntekt, men fratrukket enkelte
-trygdeytelser (AAP, overgangsstønad og uføretrygd). Arbeidsinntekt består dermed av lønn
-og næringsinntekt, samt trygdeytelser som er
-nært knyttet til yrkesdeltakelse (sykepenger,
-
-BR =
-
-P
-W + P
-
-(2 )
-
-En annen beregningsmetode er å se hva skattesatsen måtte vært dersom pensjoner ikke skattlegges, og den fulle finansieringsbyrden skulle
-legges på de arbeidsføre. I så fall blir bidragsraten definert som:
-
-BR =
-
-P
-W
-
-(3 )
-
-Disse mulige tekniske utformingene av bidragsraten gjør ulike forutsetninger om hvem som ev.
-vil belastes økninger i pensjonsutgifter hvis
-disse løpende dekkes inn ved endringer i skatteinntekter. Formel 3 innebærer at all belastning
-legges på yrkesaktive, mens formel 2 forutsetter
-at belastningen deles forholdsmessig likt mellom yrkesaktive og pensjonister. Formel 1 forutsetter en videreføring av de gunstigere skattereglene som i dag gjelder for pensjonister, se
-Pedersen (2013).
-
-[Side 165]
-
-163
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Bidragsraten beskriver hva dagens skatteytere
-alt annet likt må bidra med for å finansiere utgiftene til dagens mottakere av alderspensjon. På et
-senere tidspunkt, for eksempel i 2060, kan tilsvarende bidrag og mottak beskrives.
-Bidragsraten gir et godt bilde av effekten av
-ulike regelverksendringer på pensjonsutgiftene,
-men får ikke så godt fram hvordan pensjonsreglene kan påvirke arbeidstilbudet og dermed
-offentlige inntekter mer generelt, se avsnitt 8.5.2.
-Bidragsrateberegninger er også blitt brukt til
-å belyse hvilke årskull som mottar mer eller mindre i pensjon enn det som følger av bidragsraten
-for deres årskull og på den måten også til å belyse
-fordeling mellom generasjoner.6
-Over tid har innfasingen av midler fra pensjonsfondet isolert sett redusert behovet for
-løpende skattefinansiering av økte pensjonsutgifter. Beregninger av bidragsraten gir dermed i
-norsk sammenheng ikke et fullstendig grunnlag
-for å belyse pensjonssystemets påvirkning på fordelingen mellom generasjoner. I avsnitt 8.7 gis en
-nærmere beskrivelse av hvilket velferdssamfunn
-senere generasjoner står overfor med utgangspunkt i Perspektivmeldingen.
-Utvalget legger vekt på å kunne sammenlikne
-beregningene i dette kapitlet med tidligere beregninger. Det er da en fordel å benytte samme definisjon av bidragsraten som tidligere. Ved hjelp av
-beregninger av bidragsraten framover vil utvalget
-belyse utviklingen i pensjonssystemets økonomiske bærekraft. Videre i kapitlet vil utviklingen
-6
-
-Se Fredriksen og Stølen (2017) der bidragsraten legges inn
-som bidraget fra hver generasjon som så måles opp mot
-utbetalinger. Med utgangspunkt i Disney (2004, s. 274)
-defineres bidragsraten som den gjennomsnittlige skatteraten som måtte pålegges arbeids- og pensjonsinntekter i
-inneværende år, dersom hele finansieringsbyrden av pensjonsutgiftene skulle inndekkes på denne måten. I dette ligger det at det ikke skal måtte forekomme budsjettoverføringer eller akkumulering av et pensjonsfond. Fredriksen
-og Stølen (2017) argumenterer for at målt med utgangspunkt i netto diskonteringsfaktor, vil årskullene født mellom 1930 og 2000 i hovedsak tape på pensjonsreformen fra
-2011 ved at den reduserer de framtidige ytelsene deres.
-Yngre årskull tjener på reformen i hovedsak fordi deres
-nåverdi av framtidige bidrag blir redusert mer enn nåverdien av deres framtidige ytelser.
-
-Kapittel 8
-
-settes inn i en større sammenheng i lys av utfordringsbildet som skisseres i Perspektivmeldingen.
-
-8.4
-
-Målbildet for pensjonsreformen
-
-8.4.1
-Pensjonskommisjonen
-Pensjonskommisjonens forslag innebar innstramminger i pensjonssystemet. Den viktigste var innføring av levealdersjustering, som innebærer at
-man må jobbe lenger for å få samme årlige pensjonsnivå som tidligere generasjoner, dersom
-levealderen øker. Pensjonskommisjonen foreslo å
-innføre levealdersjustering, sammen med et nytt
-system for regulering av løpende pensjoner, som
-skulle dempe veksten i bidragsraten.
-Tabell 8.1 er fra Pensjonskommisjonens rapport (NOU 2004: 1, tabell 7.3) og den viser pensjonsutgiftene som andel av samlet pensjonsgivende inntekt i 2001, samt i 2050 henholdsvis
-ved en videreføring av det gamle pensjonssystemet (dvs. uten pensjonsreformen) og ved
-«Modernisert folketrygd», som var Pensjonskommisjonens forslag til reform.
-Tabell 8.1 viser at Pensjonskommisjonen anslo
-at deres forslag ville dempe veksten i belastningen
-på de yrkesaktive (redusere økningen i bidragsraten) med 19 prosent. Andelen av pensjonsgivende
-inntekt som må til for å dekke alderspensjonsutgifter i 2050, reduseres fra en økning på 13 prosentenheter (125 prosent) til en økning på 8 ½
-prosentenheter (vel 80 prosent).
-Det er verd å merke seg at også målbildet til
-Pensjonskommisjonen innebar en betydelig
-økning i pensjonsutgiftene og bidragsraten. Boks
-8.2 viser hvordan Pensjonskommisjonen drøftet
-hvor generøst pensjonssystemet burde være ved
-fastsetting av opptjeningsprosenten.
-Utvalget merker seg vurderingene som ble
-gjort av Pensjonskommisjonen om bærekraft og
-avveininger mellom yngre og eldre generasjoner,
-se boks 8.2. Det vil være de samme typer avveininger som vil være viktig å vurdere framover.
-
-Tabell 8.1 Nødvendig bidragsrate1 for å finansiere alderspensjonssystemet med og uten reform av
-folketrygden i Pensjonskommisjonens NOU 2004: 1
-
-Alderspensjon
-1
-
-Pensjonsutgifter
-i 2001
-
-Dagens system
-i 2050
-
-Modernisert folketrygd
-i 2050
-
-Prosentvis
-endring
-
-10,3
-
-23,2
-
-18,8
-
--19,0
-
-Med bidragsrate menes andelen pensjonsutgiftene utgjør av de samlede pensjonsgivende inntektene i økonomien.
-Kilde: NOU 2004: 1, tabellene 3.11 og 7.3 (utdrag).
-
-[Side 166]
-
-164
-
-Kapittel 8
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Boks 8.2 Pensjonskommisjonens avveininger ved valg av opptjeningsprosent
-på statens hånd enn det Pensjonskommisjonen
-«Opptjeningen er beregnet til 1,25 prosent av
-har lagt til grunn. Videre vil en høyere opptjeninntektsgrunnlaget det enkelte år. Ved en samlet
-ing gi lite rom for utvikling av supplerende penopptjeningsperiode på 43 år gir det en kompensjonsordninger tilpasset ulike pensjoneringsbesasjonsgrad på 54 pst. av gjennomsnittsinntekhov. Det vil i så fall kunne bli mindre spredning
-ten som yrkesaktiv. (…) Pensjonskommisjonen
-av risiko i pensjonssystemet enn det er i dag.
-har også vurdert andre opptjeningsfaktorer enn
-En lavere pensjonsprosent vil på den annen
-1,25 pst. pr. år. En har kommet til at med en høyside innebære at andelen med garantipensjon
-ere opptjeningsfaktor blir det vanskelig å oppnå
-øker. I Norge har det vært et viktig mål i folkevesentlige innsparinger i forhold til dagens foltrygden å sikre en rimelig god minstesikring til
-ketrygd, selv om det innføres delingstall og
-alle som det går an å leve av. Pensjonskommisjoendret indeksering i den moderniserte folkenen ønsker å videreføre en god minstepensjon.
-trygden. En høyere opptjeningsfaktor vil derfor
-Samtidig bør et klart flertall av befolkningen
-innebære at summen av skatter og premieinnbeopptjene pensjon etter det inntektsbaserte
-talinger til inntektspensjonssystemet må øke
-systemet. Kommisjonen har kommet til at en
-vesentlig over tid.
-opptjeningsfaktor som tilsvarer 1,25 pst. pr. år er
-En høyere opptjening vil kreve tilsvarende
-et rimelig kompromiss mellom de ulike hensyhøyere premieinnbetalinger og dermed øke
-nene.»
-belastningen på unge i etableringsfasen. En høyere opptjening vil også kreve at en de nærmeste
-Kilde: NOU 2004: 1, boks 7.1 og avsnitt 7.2.1.
-årene foretar en enda større fondsoppbygging
-
-Pensjonskommisjonen anslo at deres forslag
-(Modernisert folketrygd) ville gi netto innsparinger
-på tre måter ved at: antallet alderspensjonister blir
-lavere, gjennomsnittlig alderspensjon blir lavere
-og verdiskapingen blir høyere. Men virkningene
-ville avhenge av hvordan yrkesaktive mv. tilpasset
-seg pensjonsreformen.
-Innsparingen sammenliknet med gammel
-alderspensjon skyldes i hovedsak at utgiftene til
-alderspensjon blir lavere som følge av delingstallet (dvs. effekten av levealdersjustering) og
-endringene i reglene for regulering av pensjon.
-Delingstallet ble isolert sett anslått å kunne redusere folketrygdens utgifter med om lag 18 prosent
-i 2050. Innsparingen vil øke over tid som følge av
-at virkningen av levealdersjusteringen øker over
-tid. Endret regulering av alderspensjoner ble isolert sett anslått å kunne redusere utgiftene til
-alderspensjon med om lag 7 prosent på lang sikt.7
-7
-
-Innsparingen knyttet til regulering er direkte ved at pensjonen til mottakere av gammel folketrygd reguleres lavere
-enn med lønnsveksten (Pensjonskommisjonen foreslo et
-snitt av pris- og lønnsvekst). For mottakere av ny folketrygd, som tjener opp en pensjonsbeholdning, vil endret
-regulering i utgangspunktet medføre et høyere
-utgangsnivå ved uttak av pensjon, som så reguleres lavere
-over tid. Opptjeningsprosenten er imidlertid tilpasset slik at
-det gjennomsnittlige pensjonsnivået før levealdersjustering
-skal være om lag det samme som i gammel folketrygd.
-
-En modernisert folketrygd uten disse tiltakene
-ble på den annen side anslått å øke pensjonsutgiftene noe på lang sikt. Dette følger av at en opptjening på 1,25 prosent av inntekten hvert år, se boks
-8.2, isolert sett vil gi litt høyere gjennomsnittsytelser enn med gammel alderspensjon, særlig for
-dem med lange yrkeskarrierer.
-På lang sikt ble pensjonsutgiftene som andel
-av samlet pensjonsgivende inntekt nesten stabilisert i beregningene som følge av effekten av
-delingstallet. Det ble da lagt til grunn at fruktbarheten og en positiv nettoinnvandring om lag er tilstrekkelig til å opprettholde den yrkesaktive
-befolkningen. Stabiliseringen ville imidlertid skje
-på et mye høyere nivå enn nivået den gangen.8
-
-8.4.2
-
-Oppfølgingen av
-Pensjonskommisjonen
-Pensjonskommisjonens rapport ble fulgt opp av to
-stortingsmeldinger i 2004 og 2006 som i stor grad
-baserte seg på, og fulgte opp, forslagene fra kommisjonen. I Ot.prp. nr. 37 (2008–2009), der nye
-8
-
-De konkrete beregningene i Pensjonskommisjonens rapport avhenger av en rekke tekniske forutsetninger, modellutformingen av Mosart på dette tidspunktet og detaljer
-ved utforming av reglene. Utvalget har ikke detaljert etterprøvd disse beregningene.
-
-[Side 167]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-regler for pensjonssystemet ble foreslått, ble det
-foretatt nye beregninger. Disse var basert på nye
-befolkningsframskrivinger fra 2008, som isolert
-sett reduserte finansieringsbyrden, samt enkelte
-justeringer i pensjonsreformen. Proposisjonen
-oppsummerer slik:
-«Bidragsraten ved en videreføring av dagens
-alderspensjon i 2050 er nå anslått til 21,0 prosent, mens Stortingets vedtak i 2007 nå er
-anslått å gi en bidragsrate på 16,9 prosent.
-Den konkrete gjennomføringen av levealdersjusteringen bidrar isolert sett til å redusere bidragsraten med 0,6 prosentpoeng i
-2050. Gradvis innfasing av levealdersjusteringen og trygdeoppgjøret i 2008 [med økning av
-minsteytelser] bidrar på den annen side isolert
-sett til å øke bidragsraten med 0,3 prosentpoeng. Bidragsraten med forslaget i denne proposisjonen er dermed anslått til 16,6 prosent i
-2050.»
-Hovedbildet er i stor grad det samme som i Pensjonskommisjonens rapport. Anslagene for
-bidragsraten med en videreføring av gammelt system er redusert noe. Anslagene for pensjonsreformens effekt på bidragsraten er den samme (4,4
-prosentenheter), slik at anslaget for bidragsraten
-med ny alderspensjon nå er noe redusert sammenliknet med Pensjonskommisjonens vurdering (fra 18,8 prosent til 16,6 prosent).
-Effektene på arbeidstilbudet er vurdert på nytt
-i proposisjonen:
-«SSB har anslått at gjennomsnittlig uttaksalder
-på kort sikt kan øke med om lag 0,6 år for de
-yrkesaktive som følge av fleksibelt, nøytralt
-uttak. SSB anslår videre at gjennomsnittlig
-uttaksalder fram mot 2050 kan komme til å øke
-med om lag 2,6 år sammenliknet med i dag som
-følge av fleksibelt nøytralt uttak og levealdersjustering. Arbeidstilbudet i 2050, målt i utførte
-timeverk, anslås å øke med om lag 5,9 prosent
-sammenliknet med å videreføre dagens system.»
-Oppsummert bekreftet lovproposisjonen fra 2009
-i store trekk både behovet for en pensjonsreform
-og effekten av hovedgrepene som ble foreslått av
-Pensjonskommisjonen.
-Utvalget merker seg at intensjonen med pensjonsreformen ikke er å fjerne enhver demografisk
-effekt på pensjonssystemet, men er fokusert på
-ett element, nemlig det at levealderen øker. Pensjonsreformens sentrale idé er å gjøre ytelsesnivået
-
-165
-
-Kapittel 8
-
-avhengig av uttakstidspunktet. Det bidrar til å
-nøytralisere effekten av at folk lever lenger, og
-bidrar til å holde en balanse mellom antall år som
-yrkesaktiv og antall år som mottaker av pensjon.
-Pensjonsreformen har imidlertid ikke noen mekanisme som sikrer at forskjeller i størrelsen på
-generasjonene utliknes. Det ble født mange fra
-1945 og utover med en fallende tendens fra ca.
-1970. Alt annet likt medfører dette en økende
-«eldrebyrde» fra 2012 og utover. Hvorvidt dette er
-bærekraftig, må vurderes nærmere i lys av utviklingen i offentlige finanser mer generelt. Se
-omtale i avsnitt 8.7.
-
-8.5
-
-Oppdatert vurdering av
-måloppnåelsen for
-pensjonsreformen
-
-SSB har tidligere vurdert effekter av pensjonsreformen, se Fredriksen m.fl. (2019) som belyser
-både virkninger på inntektssiden og utgiftssiden
-for offentlige finanser, både for folketrygden og
-for offentlig tjenestepensjon og både for alderspensjon og for uføretrygd. Resultatene viser at
-2011-reformen alene i 2060 vil ha redusert finansieringsbehovet med 235 mrd. 2017-kroner.9
-I det følgende presenteres oppdaterte beregninger av utviklingen i bidragsraten med de forutsetninger og begrensninger som ligger i denne.
-Det er tatt utgangspunkt i framskrivninger av en
-referansebane for folketrygdens alderspensjon.
-
-8.5.1
-
-Hvordan måle utviklingen
-i bidragsraten – Mosart-modellen
-Formålet med en referansebane for pensjonsberegninger er å beskrive hvordan utgiftene og
-bidragsraten vil kunne utvikle seg gitt at dagens
-regelverk og utviklingstrender videreføres. En
-kan også analysere konsekvensene av ulike
-endringer i pensjonsreglene og belyse konsekvensene av ulike forutsetninger om atferd.
-Referansebanen er utviklet ut fra det som er
-hensiktsmessige forutsetninger for utvalget, men
-skiller seg ikke mye fra det som benyttes i andre
-sammenhenger av SSB eller Finansdepartementet. Når referansebanen benyttes til å vurdere kon9
-
-Knapt halvparten kan ifølge artikkelen, knyttes til økte inntekter, mens noe over halvparten knyttes til reduserte utgifter i folketrygden og offentlig tjenestepensjon. Inntektsøkningen knyttes til bedre arbeidsinsentiver og kommer
-relativt raskt mens utgiftsreduksjonene kommer over tid, jf.
-at muligheten for tidliguttak gir merutgifter om lag i 10 år
-etter reformen i 2011.
+# Pensjonssystemets økonomiske bærekraft

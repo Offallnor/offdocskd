@@ -1,1181 +1,230 @@
-# NOU 2022: 7, del 28 av 31 (side 323–334)
+# NOU 2022: 7, del 28 av 32
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
 - Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 323]
+## Alderspensjon til uføre
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+### Bakgrunn
 
-2
+Som en del av pensjonsreformen ble uføreytelsen i folketrygden lagt vesentlig om fra 2015. Endringene har medført at uføreytelsen ikke lenger beregnes som en pensjon, men på bakgrunn av arbeidsinntekten de siste 3–5 årene før uførheten oppstår. Ny alderspensjon og ny uføretrygd har også gjort det nødvendig å ta stilling til hvilken alderspensjon uføre skal ha, og om (eller i hvilken grad) alderspensjonen til uføre skal levealdersjusteres.
 
-0
+Pensjonskommisjonen omtalte forholdet mellom ny fleksibel alderspensjon, uføreytelsen og alderspensjon til uføre i kapittel 12 i NOU 2004: 1 *Modernisert folketrygd – Bærekraftig pensjon for framtida*. Kommisjonen pekte på at personer som kan tenkes å ha rett til både en uføreytelse og alderspensjon utgjør en ny gruppe når det innføres fleksibel alderspensjon, og at det ville være en utfordring å sikre at de to ordningene på hensiktsmessig måte kan virke parallelt. Kommisjonen viste til at mange personer som står i arbeid kan ha helseproblemer som hos andre ville ført til søknad om en uføreytelse, særlig når de begynner å nærme seg ordinær pensjonsalder. Kort oppsummert la kommisjonen til grunn at:
 
-0
-2021
+- Opptjeningen av alderspensjon til uføre skulle ta utgangspunkt i den inntekten man hadde før uføretidspunktet, og ikke selve uføreytelsen, for å sikre et tilstrekkelig høyt grunnlag.
 
-2
+- Overgang fra uføreytelsen til alderspensjon skulle skje ved fylte 67 år, for å unngå at mange uføre ender opp med minstenivået som alderspensjonister.
 
-2019
+- Levealdersjustering skulle innføres også for uføres alderspensjon, men tidspunktet for overgang til alderspensjon burde revurderes på et senere tidspunkt.
 
-4
+- Uføreytelsen skulle kunne innvilges også mellom 62 og 67 år, men de nærmere vilkårene for rett til en uføreytelse når det samtidig foreligger rett til alderspensjon burde vurderes.
 
-2017
+- Løpende uføreytelser skulle reguleres med lønnsveksten, men det burde vurderes å gå over til samme regulering som for alderspensjon fra 62 år.
 
-4
+Uførepensjonsutvalget utredet ny uførestønad og alderspensjon til uføre i NOU 2007: 4 *Ny uførestønad og ny alderspensjon til uføre*. Mens den tidligere uførepensjonen ble beregnet på samme måte som alderspensjonen, noe som innebar at uføre opprettholdt inntektsnivået ved overgangen fra uførepensjon til alderspensjon, la Uførepensjonsutvalget til grunn at den gjennomsnittlige alderspensjonen til uføre kunne bli noe lavere enn den ville blitt ved en videreføring av dagjeldende folketrygd, og at uføre, i likhet med yrkesaktive, burde kunne akseptere en viss nedgang i inntekten ved overgang til alderspensjon.
 
-2015
+Uførepensjonsutvalgets utredning ble fulgt opp med forslag til ny uføretrygd og alderspensjon til uføre i Prop. 130 L (2010–2011) *Ny uføretrygd og alderspensjon til uføre*. De nye reglene for uføres alderspensjon er basert på følgende elementer:
 
-6
+- Opptjeningen til alderspensjon skjer på grunnlag av beregningsgrunnlaget for uføretrygden, med samme opptjeningsprosent som for arbeidsinntekter. Dette medfører at personer som mottar uføretrygd tjener opp pensjonsrettigheter som om de hadde fortsatt i jobb.
 
-2013
+- For uføre født til og med 1953, gjelder opptjeningsreglene i gammel alderspensjon (med besteårsregel og maksimalt 40 poengår), hvor den uføre får godskrevet pensjonsopptjening som om vedkommende stod i arbeid til 67 år.
 
-6
+- Fra og med 1954-kullet fases nye opptjeningsregler for alderspensjon inn (med alleårsregel), og gjelder fullt ut fra og med 1963-kullet. Med de nye opptjeningsreglene gir uføretrygd pensjonsopptjening fram til og med kalenderåret en fyller 61 år.
 
-2011
+- Personer som mottar uføretrygd, har overgang til alderspensjon ved fylte 67 år.
 
-8
+- Personer født i årene 1944–1953 som mottar uføretrygd ved fylte 67 år, får et tillegg til alderspensjonen som innebærer at virkningen av levealdersjustering om lag halveres (det såkalte skjermingstillegget for uføre alderspensjonister).
 
-2009
+For personer som kommer tidlig ut i arbeidslivet, vil de nye opptjeningsreglene kunne gi høyere alderspensjon sammenliknet med de gamle opptjeningsreglene siden det kan gis opptjening utover 40 år. Dette vil i prinsippet også være mulig for uføre: en person som har jevn inntekt fra fylte 22 år og fram til uførheten oppstår, vil ha 40 års opptjening både med gamle og nye opptjeningsregler. Uføre som kommer senere ut i arbeidslivet enn dette, vil få mindre enn 40 års opptjening med nye regler, mens personer som kommer ut i arbeidslivet som 21-åringer eller yngre og senere blir uføre, samt de som får innvilget uføretrygd før fylte 22 år, vil kunne få mer enn 40 års opptjening. I *gjennomsnitt* ga de nye opptjeningsreglene litt lavere pensjonsnivå for de som var uføre ved omleggingen i 2011. Basert på daværende opptjeningshistorikk, ble det i Prop. 130 L (2010–2011) anslått at opptjening til nær 65 år med nye opptjeningsregler ville gi om lag samme gjennomsnittlige alderspensjon som med gamle opptjeningsregler. Dette må samtidig ses i sammenheng med at overgangen fra uførepensjon til uføretrygd medførte en noe høyere gjennomsnittlig uføreytelse etter skatt (om lag tre prosent).
 
-8
+Høsten 2019 sendte Arbeids- og sosialdepartementet et forslag om regler for uføres alderspensjon på høring. Forslaget, som Stortinget senere sluttet seg til, innebar at skjermingstillegget som gis til uføre alderspensjonister født i årene 1944–1953, ikke ble ytterligere utvidet til uføre født i 1954 eller senere. I høringsnotatet viste departementet blant annet til utviklingen i median avgangsalder fra arbeidslivet, og uttalte at arbeidsføre så langt i liten grad har kompensert for effekten av levealdersjusteringen. Videre ble det i høringsnotatet vist til at mange arbeidsføre går av tidlig, og at uføre med nye opptjeningsregler får en alderspensjon som om de hadde stått i arbeid til vel 65 år. I høringsnotatet uttalte departementet at etter en tid med full levealdersjustering for uføre, vil uføres alderspensjon kunne bli for lav sett i forhold til arbeidsføres alderspensjon, og at det da vil kunne oppstå behov for tiltak for å opprettholde et ønsket forhold mellom uføres og arbeidsføres alderspensjonsnivå.
 
-2007
+### Framskrivinger av uføreandeler og pensjonsnivå
 
-10
+For å få innvilget uføretrygd er det et vilkår at en har varig nedsatt inntektsevne. Forutsatt at uføregraden er satt riktig, og dermed reflekterer den inntektsevnen som har falt bort grunnet sykdom eller skade, vil uføre dermed ikke kunne kompensere for levealdersjusteringen. Dette vil føre til at uføre i yngre årskull vil få en lavere alderspensjon, relativt til lønnsnivået, sammenliknet med uføre i eldre årskull, samt at uføre i yngre årskull vil kunne få en lavere alderspensjon sammenliknet med arbeidsføre i samme årskull, dersom de arbeidsføre over tid står lenger i arbeidslivet. Et sentralt mål med pensjonsreformen er nettopp forlengede arbeidsliv, og i den grad en lykkes med å nå dette målet, vil gjeldende regelverk medføre at uføre i yngre årskull får en lavere alderspensjon sett i forhold til arbeidsføre i samme årskull.
 
-2005
+Figur 12.7 viser andelen uføre alderspensjonister, som her er avgrenset til alle bosatte alderspensjonister som mottok en uføreytelse (gammel uførepensjon eller ny uføretrygd) fra folketrygden ved 67 år. Andelen uføre alderspensjonister økte i årene før pensjonsreformen. De siste tiårene har det vært en nedgang i uføreandelene i aldersgruppene 50 år og eldre, som bidrar til å redusere andelen uføre alderspensjonister fram mot år 2030. Fra 2011 viser figuren et markant fall, som må ses i sammenheng med ordningen med tidsbegrenset uførestønad i perioden 2004–2010, samt muligheten for tidlig uttak av alderspensjon fra 2011, som økte antallet ikke-uføre alderspensjonister. Rundt år 2035 viser framskrivingene at andelene igjen vil øke, som følge av at det de siste tiårene har vært en økning i uføreandelen i den yngre befolkningen. I SSBs framskrivinger ligger andelen uføre alderspensjonister på drøyt 35 prosent på lengre sikt.
 
-10
+Andel uføre blant alle bosatte alderspensjonister. Faktiske data til og med år 2019. Framskrivinger 2020–2100. Prosent
 
-2003
+Statistisk sentralbyrå.
 
-12
+Figur 12.8 viser framskrevet, gjennomsnittlig nivå på alderspensjon fra folketrygden blant pensjonister som mottok en uføreytelse ved 67 år. Figuren viser referansebanen, det vil si at pensjonsnivået for årskullene født 1953 og senere er framskrevet med gjeldende aldersgrenser og ordinær levealdersjustering for uføre. Merk at nivået er målt relativt til utviklingen i folketrygdens grunnbeløp som reguleres i samsvar med lønnsveksten. Med reallønnsvekst kan en nedgang i pensjonsnivået relativt til grunnbeløpet likevel innebære en vekst i kjøpekraft målt med utviklingen i konsumprisindeksen. Reduksjonen over tid som framgår av figuren, skyldes i stor grad effekten av levealdersjusteringen. Så lenge den langsiktige reallønnsveksten er høyere enn effekten av levealdersjusteringen, noe som også er en forventet utvikling, vil uføre alderspensjonister i yngre årskull få økt kjøpekraft sammenliknet med dagens uføre alderspensjonister.
 
-2001
+Gjennomsnittlig årlig pensjonsnivå, uføre alderspensjonister. Faktiske data til og med årskullet 1952. Framskrivinger årskullene 1953–2020 med referansebanen. Kroner i 2021-G
 
-12
-
-År
-Offentlig AFP
-
-Privat AFP
-
-Figur 13.1 Andel av befolkningen 62–66 år som
-mottar offentlig eller privat AFP (gammel ordning).
-Desember 2001–2021. Prosent
-Kilde: Arbeids- og velferdsdirektoratet.
-
-etter gammel ordning i privat sektor. I 2021 mottok 9,3 prosent av befolkningen i alderen 62–66 år
-AFP som førtidspensjon. Andelen stiger med
-alder; mens det blant 62-åringer i 2021 var 4,4 prosent som mottok AFP, var denne andelen steget til
-14,3 prosent blant 66-åringer.
-
-13.3 Betydningen av inngangsvilkårene
-For å ha rett til folketrygdens ytelser må en tilfredsstille visse vilkår. Inngangsvilkårene for å
-motta ytelsen og hvor høy ytelsen er, vil påvirke
-antallet som mottar en ytelse. I noen tilfeller, for
-eksempel med barnetrygd som bare avhenger av
-om en har barn i en viss alder, vil det være lett å
-kontrollere om vilkåret er oppfylt, og ytelsen
-påvirker i svært begrenset grad antallet mottakere. I andre tilfeller er det imidlertid vanskelig å
-avgjøre om inngangsvilkårene er oppfylt. Det gjelder blant annet for de helserelaterte ytelsene i folketrygden som har medisinske inngangsvilkår;
-arbeids- eller inntektsevnen skal være nedsatt på
-grunn av sykdom, skade eller lyte. I de fleste tilfellene er det imidlertid snakk om grader av sykdom
-og uførhet. Det blir da en skjønnsmessig vurdering om helsesvekkelsen er tilstrekkelig stor til at
-inngangsvilkåret er oppfylt. Dette kan skape utfordringer både for den enkelte, for legene og for
-Arbeids- og velferdsetaten. For eldre arbeidsta-
-
-321
-
-Kapittel 13
-
-kere kan det være krevende å skille mellom sykdom og uførhet som skal gi rett til en helserelatert
-ytelse, og utfordringer i arbeidslivet relatert til
-aldringsprosessen, som alderspensjonssystemet
-skal bidra til å løse. Gråsonen mellom frisk og syk
-handler ikke nødvendigvis om misbruk av ordningene, men om arbeidsdelingen mellom pensjonssystemet og de andre ordningene i folketrygden.
-Kjernen i problemet er en reell usikkerhet om
-den enkelte oppfyller vilkårene eller ikke, da det
-kan være en betydelig gråsone mellom frisk/ikke
-frisk som øker med alderen. Én kilde til usikkerhet er at mange mottar helserelaterte ytelser på
-grunn av lidelser som det er vanskelig å observere. Avgjørelsen av om det foreligger en tilstrekkelig alvorlig lidelse må da delvis baseres på egenopplevd helse og opplysninger den enkelte selv
-gir. Økt kontroll av om vilkårene er oppfylt vil ikke
-nødvendigvis være et effektivt tiltak.
-Usikkerheten om inngangsvilkårene er oppfylt
-skaper problemer for mange. Særlig gjelder det
-de helserelaterte ordningene:
-– Legene kan i mange tilfeller ikke basere seg på
-observerbare symptomer, men må i stedet
-basere seg på pasientens beskrivelser, og
-mange leger ønsker ikke å overprøve pasientens subjektive vurdering, jf. Carlsen og
-Nyborg (2009).
-– Arbeids- og velferdsetaten har begrensede
-muligheter til å overprøve legenes vurderinger.
-– Den enkelte kan være usikker på om hun eller
-han skal søke ytelsen. Det kan også være at
-den enkelte, av legen eller av Arbeids- og velferdsetaten, blir anbefalt å søke ytelsen selv om
-den enkelte mener at arbeidsevnen ikke er
-vesentlig nedsatt.
-Vilkåret for dagpenger er basert på kriterier om at
-arbeidstiden må være redusert med minst 50 prosent og minstekrav til tidligere arbeidsinntekt.
-Selv om den enkelte kan være usikker på om en
-har rett til ytelsen, er dette først og fremst knyttet
-til manglende informasjon om regelverket og sjelden usikkerhet om inngangsvilkåret er oppfylt.
-Men det kan være usikkert om den enkelte er
-reell arbeidssøker, særlig for eldre arbeidstakere
-der det for eksempel er unntak fra kravet til geografisk mobilitet.
-Ordningenes legitimitet er avhengig av at det
-er tillit til at de vurderingene som gjøres av legene
-og Arbeids- og velferdsetaten stort sett er riktige,
-slik at de aller fleste som mottar ytelsene har fått
-de på et godt begrunnet grunnlag. Undergraves
-tilliten, kan flere søke ytelsene. Samfunnet kan
-respondere ved å redusere nivået på ytelsene for å
-
-[Side 324]
-
-322
-
-Kapittel 13
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-gjøre det mindre attraktivt for den enkelte å søke
-om ytelsen, hvor det å gjøre ytelsen mindre attraktiv må avveies mot redusert inntektssikring for de
-som omfattes av ordningen.
-Utvalget legger til grunn at økende levealder
-og forlengende arbeidsliv også fordrer gode inntektssikringsordninger for de som rammes av sykdom eller ledighet i alderen hvor det fortsatt er
-forventet at en står i arbeid. Samtidig må dette
-veies opp mot de potensielle problemene som
-manglende kontroll over tilgangen til ordningene
-skaper. Sammenliknet med å fortsette i full jobb,
-vil det aldri lønne seg økonomisk å motta en trygdeytelse. For noen vil imidlertid økt fritid anses som
-et betydelig gode som helt eller delvis kan oppveie
-et inntektsbortfall. I likhet med slik det var før
-pensjonsreformen, vil derfor noen kunne ønske å
-avslutte karrieren med en periode på trygd. For
-personer som oppfyller inngangsvilkårene i ordningene, kan det ligge inne elementer av valg og
-tilpasning ved utløsning av sykepenger og dagpenger. For disse vil det kunne lønne seg å søke
-en trygdeytelse dersom alternativet er å ta ut frivillig alderspensjon fra folketrygden, noe som vil
-gi økte utgifter både til korttidsytelser og alderspensjon. Hvor omfattende dette kan være, er imidlertid vanskelig å vurdere.
-
-13.4 Økonomiske effekter for den
-enkelte
-13.4.1 Utsatt uttak og økt opptjening
-I hvilken grad det er økonomisk gunstig å motta
-en midlertidig ytelse avhenger av hva en sammenlikner med. Sammenliknet med å fortsette i jobb,
-vil det å motta en midlertidig ytelse normalt innebære et økonomisk tap, fordi ytelsen er lavere enn
-lønna. Unntaket er sykepenger, der folketrygden
-gir 100 prosent kompensasjon opp til 6 G, og der
-mange har dekning for inntektsbortfall over 6 G
-fra arbeidsgiver. Personer som mottar sykepenger, vil derfor ofte ikke ha noe økonomisk tap i
-sykepengeperioden sammenliknet med om de
-hadde fortsatt i jobb.
-For personer som har fylt 62 år kan valget
-være et annet: Å fortsette i jobb eller å ta ut alderspensjon. I denne situasjonen kan det å motta en
-midlertidig ytelse fra folketrygden representere
-en betydelig økonomisk gevinst sammenliknet
-med å ta ut alderspensjon.
-Den økonomiske gevinsten ved å motta en
-midlertidig ytelse sammenliknet med å ta ut alderspensjon frivillig, varierer noe mellom ytelsene.
-Den kvantitativt viktigste effekten er verdien av å
-
-kunne utsette uttaket av pensjon. Før 67 år vil ett
-års utsatt pensjonsuttak øke den livsvarige årlige
-pensjonen med rundt fem prosent de første årene.
-Denne effekten gjelder alle ytelsene, men er viktigst for de helserelaterte ytelsene som kan mottas lengst. De fleste som blir uføre har mottatt
-ytelser i et sammenhengende løp fra sykepenger
-til arbeidsavklaringspenger og til uføretrygd.
-Verdien av økt pensjonsopptjening avhenger
-av grunnlaget for pensjonsopptjeningen og tidligere opptjening. I den gamle opptjeningsmodellen
-for alderspensjon, som gjelder helt eller delvis for
-alle født før 1963, er det en grense på 40 tellende
-år. Mange av dem som står i jobb etter fylte 62 år
-har nådd grensen på 40 år, og de opptjente rettighetene vil da i liten grad påvirkes av om de står
-lenger i jobb eller mottar dagpenger eller en helserelatert ytelse.
-De som er født i 1954 eller senere får helt eller
-delvis alderspensjonen beregnet med ny opptjeningsmodell for alderspensjon, der alle år teller
-med. Ett års ekstra opptjening i ny opptjeningsmodell avhenger av hvor mange år en har fra før og
-om ny opptjeningsmodell gjelder helt eller bare
-delvis. De som er født i 1963 og som tjener opp
-hele sin pensjon i ny opptjeningsmodell, vil med
-40 års opptjening med jevn inntekt, øke pensjonsbeholdningen med 1/40, det vil si 2,5 prosent, ved
-å fortsette opptjeningen i ett år til. Dette vil være
-tilfellet for personer som mottar sykepenger eller
-dagpenger. Dersom opptjeningen skjer på grunnlag av utbetalt ytelse – slik tilfellet er for arbeidsavklaringspenger – og ikke beregningsgrunnlaget
-for ytelsen slik tilfellet er for dagpenger, blir den
-økte opptjeningen noe lavere. Personer som mottar uføretrygd, tjener ikke opp alderspensjon i ny
-opptjeningsmodell etter 62 år.
-Det er ikke noe nytt at det er økonomisk fordelaktig å motta en midlertidig ytelse for personer
-som ønsker å avslutte yrkeskarrieren før 67 år.
-For eksempel var det før pensjonsreformen også
-slik at en kommer økonomisk bedre ut ved å
-motta sykepenger i ett år etter at en har planlagt å
-slutte å jobbe. Det som er nytt med pensjonsreformen er at også den livsvarige pensjonen blir
-større ved mottak av midlertidige ytelser (både
-uttakseffekt og opptjeningseffekt) sammenliknet
-med tidligere hvor en bare fikk økt opptjening
-hvis en hadde under 40 års opptjening.
-Figur 13.2 viser kompensasjonsgrader i ny
-alderspensjon etter skatt fra 67 år for ulike
-arbeids- og stønadsforløp. Søylen lengst til venstre
-viser kompensasjonsgraden for uføre alderspensjonister. I søyle nummer to mottas sykepenger i
-ett år fra 62 år og deretter arbeidsavklaringspen-
-
-[Side 325]
-
-323
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Kapittel 13
-
-60
-51
-
-55
-
-53
-48
-
-50
-
-60
-50
-
-42
-40
-
-40
-
-30
-
-30
-
-20
-
-20
-
-10
-
-10
-
-0
-
-0
-Ufør, i arbeid fram til
-uførhet
-
-I arbeid til 62 år,
-deretter 1 år
-sykepenger og 4 år
-AAP
-
-I arbeid til 62 år,
-deretter 2 år
-dagpenger
-
-I arbeid til 62 år
-
-I arbeid til 67 år
-
-Figur 13.2 Kompensasjonsgrad etter skatt fra 67 år som andel av tidligere inntekt etter skatt for 1963årskullet. 37 opptjeningsår ved fylte 62 år med 6 G i gjennomsnittlig årsinntekt. Prosent
-
-ger i fire år fram til overgang til alderspensjon fra
-67 år. Det tredje eksempelet viser mottak av dagpenger i to år fra 62 år og deretter uttak av alderspensjon fra 64 år. De to siste søylene i figuren
-viser overgang direkte fra arbeid til alderspensjon
-ved 62 og 67 år.
-Ved å motta dagpenger i to år fra 62 år, blir
-alderspensjonen like høy som om en hadde stått i
-arbeid til 64 år, siden opptjenings- og uttakseffekten er den samme som for arbeid. Ved å motta
-sykepenger og deretter arbeidsavklaringspenger
-blir opptjeningseffekten noe redusert sammenliknet med en som står i arbeid til 67 år, siden det for
-arbeidsavklaringspenger er selve ytelsen (og ikke
-inntektsgrunnlaget) som er pensjonsgivende.
-Figur 13.2 viser at den livsvarige alderspensjonen
-i disse stønadstilfellene blir betydelig høyere enn
-ved å ta ut alderspensjon fra 62 år.
-Det er mulig å kvalifisere for AFP i privat sektor selv om en mottar midlertidige ytelser etter 62
-år, men det er lagt til grunn i figuren at vilkårene
-for uttak av privat AFP ikke er oppfylt. Ved mottak
-av privat AFP ville det kommet et AFP-påslag som
-øker kompensasjonsnivåene for alle eksemplene i
-figuren, med unntak av for uføre som ikke har rett
-til AFP. AFP-påslaget vil øke kompensasjonsgraden etter skatt med om lag seks prosentpoeng,
-gitt øvrige forutsetninger i figuren.
-
-13.4.2
-
-Offentlig tjenestepensjon og AFP fra
-privat og offentlig sektor
-
-Personer med offentlig tjenestepensjon utgjør rundt
-40 prosent av sysselsatte 61-åringer. Offentlige
-ansatte født før 1963 kan fortsatt motta AFP etter
-gammel ordning i alderen 62–66 år. I alderen 62–
-64 år beregnes AFP som (gammel) uførepensjon
-fra folketrygden, pluss et AFP-tillegg på
-20 400 kroner. Dette gir en kompensasjonsgrad
-før skatt på 50–60 prosent for vanlige inntekter.
-Fra 65 år beregnes AFP som en brutto tjenestepensjon, dvs. som 66 prosent av pensjonsgrunnlaget for de som har full tjenestetid. Det er avtalt at
-offentlig ansatte som er født i 1963 eller senere og
-som ikke mottar uføretrygd etter fylte 62 skal få
-ny AFP, etter mønster av den gjeldende AFP-ordningen i privat sektor.
-Dersom offentlig ansatte blir uføre, vil de få 66
-prosent uføretrygd fra folketrygden for årlig inntekt inntil 6 G, og i tillegg uførepensjon fra tjenestepensjonsordningen. Uførepensjonen fra tjenestepensjonsordningen beregnes som tre prosent av
-pensjonsgrunnlaget opp til 6 G og 69 prosent i
-intervallet 6–12 G.3 I tillegg gis det 25 prosent av
-grunnbeløpet begrenset til seks prosent av pen3
-
-At personer med inntekt i intervallet 6–12 G får 69 prosent
-av pensjonsgrunnlaget fra tjenestepensjonen, kommer av at
-folketrygden ikke har uføredekning for arbeidsinntekt over
-6 G.
-
-[Side 326]
-
-324
-
-Kapittel 13
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-sjonsgrunnlaget. Samlet betyr dette at alle offentlig ansatte med inntekt opp til 12 G er sikret en
-uføreytelse før skatt i størrelsesorden 70–75 prosent av tidligere inntekt dersom de har full opptjeningstid. De som mangler opptjeningstid, får medregnet tjenestetid fram til 67 år.
-For personer som er ansatt i offentlig sektor
-og har middels eller høy inntekt, vil det normalt
-være økonomisk fordelaktig å motta uføretrygd
-framfor å ta ut AFP i alderen 62–64 år. Også fra
-fylte 65 år er summen av uføretrygd fra folketrygden og uførepensjon fra tjenestepensjonsordningen normalt høyere enn AFP, men forskjellen er
-klart lavere fordi AFP normalt er høyere fra 65 år.
-Personer i privat sektor med rett til AFP utgjør
-rundt 30 prosent av sysselsatte 61-åringer. Disse
-kan, under forutsetning av tilstrekkelig pensjonsopptjening, fra 62 år ta ut fleksibel alderspensjon
-fra folketrygden og ny AFP som et livsvarig tillegg
-til pensjonen fra folketrygden. For de fleste som
-kan ta ut AFP i tillegg til folketrygden, vil samlet
-pensjon normalt være i samme størrelsesorden
-som dagpenger, arbeidsavklaringspenger og uføretrygd. Personer med lav opptjening som tar ut
-pensjon i alderen 62–66 år, vil ofte få en lavere
-samlet pensjon sammenliknet med en annen
-ytelse fra folketrygden, mens det vil kunne være
-motsatt for personer med høy pensjonsopptjening.
-Begge grupper vil imidlertid få en livsvarig
-gevinst i form av økt alderspensjon dersom de
-utsetter uttaket av pensjon og får inntekten fra
-dagpenger eller en helserelatert ytelse i en kortere eller lengre periode.
-Å miste retten til AFP medfører et betydelig
-økonomisk tap. Det er derfor svært viktig å stå i et
-arbeidsforhold som kvalifiserer til AFP ved 62 år.
-For personer med gjennomsnittlig lengde på
-yrkeskarrieren og inntekt opp til 6 G, vil årlig AFP
-tilsvare om lag ti prosent av tidligere inntekt dersom AFP tas ut ved 62 år. Over hele perioden som
-pensjonist blir dette i størrelsesorden to hele
-årslønner.
-For å ta ut ny AFP i privat sektor må arbeidstakeren på uttakstidspunktet, og i de siste tre årene
-før dette tidspunktet, sammenhengende ha vært
-ansatt og reell arbeidstaker i foretak tilsluttet AFPordningen. Arbeidsforholdet må tilsvare minst 20
-prosent stilling. Personer som mottar fulle dagpenger har normalt ikke noe ansettelsesforhold,
-og har dermed heller ikke rett til AFP. En mister
-retten til AFP ved mottak av uføretrygd etter fylte
-62 år, og det er tidsbegrenset hvor lenge en kan
-motta sykepenger og arbeidsavklaringspenger i
-årene før fylte 62 år før retten til AFP i privat sektor faller bort. Etter at AFP er tatt ut, er det fullt
-
-mulig å motta ytelsen i kombinasjon med sykepenger eller AAP, men ikke samtidig med uføretrygd.
-Personer i privat sektor uten AFP har tidligere
-ikke hatt mulighet til å ta ut pensjon før fylte 67 år.
-Disse, som nå utgjør rundt 30 prosent av sysselsatte 61-åringer, fikk fra 2011 muligheten til dette,
-og det var grunn til å vente at en del som tidligere
-ville mottatt dagpenger eller en helserelatert
-ytelse, nå i stedet ville velge å ta ut alderspensjon
-fra folketrygden. At dette har skjedd bekreftes av
-Hernes (2017) som finner at det har blitt noe mindre uføretrygding blant dem som fikk ny alderspensjon. Dette kan dels skyldes at personer med
-helseplager søker seg til alderspensjon framfor å
-motta en korttidsytelse med tilhørende aktivitetskrav, men også at muligheten for tidligpensjonering fører til at flere har trukket seg ut av arbeidslivet før helseplagene oppstår, og dermed ikke lenger kvalifiserer til en ytelse. For personer uten
-rett til AFP vil det være lønnsomt å motta dagpenger eller en helserelatert ytelse framfor å ta ut tidligpensjon.
-
-13.4.3 Økonomisk gevinst – oppsummering
-Det er flere grunner til at det kan være økonomisk
-fordelaktig å motta sykepenger, arbeidsavklaringspenger, uføretrygd og dagpenger fra folketrygden i alderen 62–66 år, sammenliknet med å
-slutte i arbeid og ta ut alderspensjon fra folketrygden:
-– Nivået på ytelsene er normalt høyere enn alderspensjonen
-– Opptjeningen av alderspensjon øker (med unntak av uføretrygd)
-– En kan utsette å ta ut alderspensjonen, noe som
-gir høyere pensjonsnivå fra uttaksalder
-Hvor fordelaktig det er å motta midlertidige
-ytelser avhenger av om en har rett til ny AFP eller
-ikke.
-For de som har rett til privat AFP eller ny AFP
-i offentlig sektor, begrenses gevinsten noe av
-reglene for bortfall av AFP. De som mottar uføretrygd etter fylte 62 år mister retten til AFP, og de
-som har tatt ut AFP etter 62 år før de blir uføre,
-må si fra seg AFP for å kunne motta uføretrygd.
-For mange vil det ikke være økonomisk fordelaktig å motta uføretrygd dersom de mister retten til
-AFP, og etter 63–64 års alder vil det for de fleste
-lønne seg å beholde (livsvarig) privat AFP framfor
-å få uføretrygd fram til fylte 67 år, for deretter å gå
-over til alderspensjon uten AFP.
-
-[Side 327]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-For å kunne ta ut AFP er det videre begrensinger på hvor lenge en kan ha mottatt fulle sykepenger og eventuelt arbeidsavklaringspenger i treårsperioden før en får AFP. De som er født etter 1. mars
-1955 kan maksimalt ha mottatt disse ytelsene i
-104 uker. Det er imidlertid ingen begrensninger
-på muligheten til å motta sykepenger eller arbeidsavklaringspenger for de som allerede har tatt ut
-AFP. Det betyr at det kan være en betydelig pensjonsgevinst av å kunne motta dagpenger eller
-sykepenger og arbeidsavklaringspenger framfor
-kun å motta alderspensjon.
-For personer som ikke har rett til AFP vil det
-ubetinget være lønnsomt å kunne utsette uttaket
-av alderspensjon gjennom å motta dagpenger eller
-en helserelatert ytelse etter 62 år. Særlig kan det
-være fordelaktig å motta uføretrygd, fordi ytelsen
-verken har aktivitets- eller varighetskrav. De
-andre ytelsene gir imidlertid opptjening i tillegg til
-utsettelseseffekten.
-To ellers like personer kan ha ganske ulik oppfatning av egen helse, og mens én kan velge eller
-bli rådet til å søke helserelaterte ytelser, kan en
-annen velge å ta ut alderspensjon, kanskje fordi
-det oppfattes som en mer «verdig avgang». Disse
-to vil komme ulikt ut økonomisk. Slike forskjeller i
-pensjonsnivå kan oppfattes urimelige og svekke
-oppslutningen om systemet, noe som over tid kan
-undergrave den sosiale bærekraften. I tillegg vil
-inntektssikringen for den enkelte gjennom helserelaterte ytelser eller dagpenger medføre merutgifter i folketrygden, som igjen kan utfordre den
-økonomiske bærekraften.
-
-13.5 Diskusjon og utvalgets
-vurderinger
-Folketrygdens ytelser ved arbeidsledighet og sykdom skal sikre inntekten til personer som ikke
-kan arbeide fordi de blir arbeidsledige eller får
-helseproblemer. Behovet for inntektssikring er
-prinsipielt sett ikke annerledes etter 62 år enn tidligere i livet. Muligheten til å ta ut fleksibel alderspensjon innebærer imidlertid at mange vil kunne
-ha en inntektssikring fra folketrygden i form av
-alderspensjon fra fylte 62 år. Det kan derfor reises
-spørsmål om behovet for den inntektssikringen
-som ytelsene ved arbeidsledighet og helseproblemer gir er like stort etter 62 år som tidligere i
-livet, eller om inntektssikringen helt eller delvis
-bør ivaretas av alderspensjonen. Dette er særlig
-relevant i lys av at inngangsvilkårene til de midlertidige ytelsene kan være vanskeligere å kontrollere og følge opp for denne aldersgruppen.
-
-325
-
-Kapittel 13
-
-Samtidig vil muligheten til å få en korttidsytelse fra folketrygden kunne bidra til et velfungerende arbeidsmarked for eldre. Tilgang til ytelser
-som erstatter et midlertidig bortfall av arbeidsinntekt kan bidra at mottakerne holder seg i arbeidsmarkedet, og i så måte legge til rette for forlengede arbeidsliv. Personer som mottar sykepenger,
-arbeidsavklaringspenger eller dagpenger ved
-arbeidsledighet møter normalt aktivitetskrav og
-skal få oppfølging fra Arbeids- og velferdsetaten
-med mål om å skaffe ny jobb eller beholde et
-eksisterende arbeidsforhold. Terskelen for å
-komme tilbake i arbeid kan være høyere dersom
-inntektssikringen for eldre arbeidstakere begrenses til tidlig uttak av alderspensjon uten arbeidsrettet oppfølging.
-Det at det finnes en inntektssikring i form av
-alderspensjon fra 62 år kan sies i noen grad å
-redusere behovet for andre inntektssikringsordninger. Samtidig vil uttak fra 62 år for en person
-som har rett til å ta ut alderspensjon, gi lavere
-årlig pensjon livet ut. Arbeidslinja i velferdspolitikken bygger på at det skal lønne seg å arbeide, og
-det var også et viktig mål med pensjonsreformen.
-Dagens nøytrale og fleksible pensjonssystem vil,
-sammenliknet med det gamle systemet med én
-allmenn pensjonsalder og ingen gevinst av å
-utsette pensjonsuttak, medføre større forskjeller i
-pensjon mellom de som ønsker og kan stå lenge i
-arbeid, og de som ikke har samme ønske og/eller
-mulighet. Når pensjonssystemet er lagt opp med
-mål om at det skal lønne seg å stå i arbeid og
-vente med pensjon, vil dette også bety at det medfører et tap å ikke stå i arbeid og starte uttak av
-pensjon. Et individ som har planer om å stå i
-arbeid til 70 år, men som får helseproblemer som
-68-åring og av den grunn må slutte i arbeid, vil
-ende opp med et lavere årlig pensjonsnivå enn det
-han eller hun ville fått dersom helseproblemene
-ikke hadde oppstått.
-Innføringen av nøytralt, fleksibelt uttak i alderspensjonssystemet bringer med seg to viktige problemstillinger:
-– Skal det være mulig å motta andre folketrygdytelser for personer som har rett til uttak av
-alderspensjon fra folketrygden?
-– Hvis ja, hvor lenge skal ytelsene gis?
-I tillegg må det også tas stilling til hva nivået på
-ytelsene eventuelt skal være, om de skal være
-pensjonsgivende samt om det eventuelt skal være
-andre krav for å kunne motta en ytelse enn før 62
-år, for eksempel strengere krav til inntektsbortfall
-eller liknende.
-
-[Side 328]
-
-326
-
-Kapittel 13
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Et prinsipielt utgangspunkt kunne være at det
-gis ytelser etter ordinære regler så lenge den
-enkelte har planlagt å være i arbeid: Personer som
-har tenkt å arbeide fulltid fram til fylte 65 år og
-deretter slutte helt å arbeide, vil ikke ha noe reelt
-inntektsbortfall etter fylte 65 år, og bør derfor heller ikke – prinsipielt sett – kunne motta andre folketrygdytelser etter 65 år. Med mindre jobben er
-sagt opp før vedkommende ble arbeidsledig, syk
-eller ufør, kan planlagt uttreden imidlertid ikke
-observeres på individnivå og det er ikke praktisk
-mulig å innrette aldersgrenser etter den enkeltes
-subjektive planlegging.
-Et alternativ kan være at ytelsene gis til den
-alderen arbeidsføre i gjennomsnitt trer ut av
-arbeidslivet, eventuelt til den alderen en viss andel
-av de arbeidsføre har en arbeidsinntekt som er
-lavere enn et gitt beløp. Tanken bak dette er at
-ytelsene bør kunne gis så lenge det er (relativt)
-vanlig å være i arbeid. Et mulig problem med
-denne tilnærmingen er at de som ikke har høy
-nok pensjonsopptjening til å ta ut alderspensjon
-fra folketrygden før 67 år kan komme i den situasjonen at de ikke har rett til noen ytelse utover
-eventuelt økonomisk sosialhjelp. Jo nærmere 67
-år, desto flere vil oppfylle kravet om tilstrekkelig
-pensjonsopptjening, men det vil likevel være en
-gruppe som ikke gjør det.
-Med gjeldende regler foreligger det en ubetinget rett til å ta ut alderspensjon fra 67 år. Selv om
-det ikke lenger er én allmenn pensjonsalder, vil
-dagens 67-årsgrense være en normativ grense i
-den forstand at alle i utgangspunktet er forventet
-å forsørge seg selv gjennom eget arbeid før fylte
-67 år. På bakgrunn av dette kan det argumenteres
-for at de som ikke er i stand til å forsørge seg selv
-på grunn av sykdom eller arbeidsledighet før fylte
-67 år, bør ha samme rett som yngre til folketrygdytelser.
-Før pensjonsreformen var regelverket utformet slik at personer med hel alderspensjon ikke
-skulle kunne motta annen inntektssikring. Dette
-prinsippet ble særlig utfordret etter innføringen av
-nøytralt fleksibelt uttak av alderspensjon fra 2011.
-Regelen om at personer med full pensjon ikke
-skulle ha rett til andre ytelser ble ikke videreført,
-siden mange av disse nå var i fullt arbeid og benyttet seg av den nye fleksibiliteten i pensjonssystemet. På den andre siden ble det heller ikke foreslått at adgangen til å få annen inntektssikring
-skulle være ubegrenset, når ytelsene gis ved
-siden av en uavkortet alderspensjon. Etter reformen er øvre aldersgrense for andre folketrygdytelser i hovedsak videreført. I likhet med slik det
-var før pensjonsreformen, faller retten til annen
-
-inntektssikring bort fra 67 år, med unntak av en
-begrenset sykepengerett i alderen 67–69 år for
-dem som har arbeidsinntekt av et visst omfang
-(årsinntekt høyere enn 2 G).
-Et pensjonssystem med nøytrale uttaksregler,
-hvor pensjon fritt kan kombineres med arbeid, gir
-gode arbeidsinsentiver. I den grad det er overlapp
-mellom perioden hvor en kan starte uttak av
-alderspensjon og perioden hvor en kan ha rett til
-annen inntektssikring, vil systemet også gi gode
-«trygdeinsentiver». Pensjonsreformen medførte
-ikke økte insentiver til trygdebruk i alderen 62–66
-år, og muligheten til tidlig uttak av alderspensjon
-har trolig avlastet øvrige inntektssikringsordninger. Men det er fortsatt slik at dersom en ønsker å
-slutte i arbeid før 67 år, vil det lønne seg å motta
-en trygdeytelse i en periode. En utvidelse av øvre
-aldersgrense for andre folketrygdytelser, vil medføre at en utvider perioden hvor en har mulighet
-for dobbel inntektssikring, og dermed gi økte
-insentiver til trygd. Levealdersjusteringen medfører imidlertid at alderspensjonsnivået for en gitt
-uttaksalder blir lavere for yngre årskull, og at
-yngre årskull må stå stadig lenger i arbeid for å
-kompensere for effekten av levealdersjusteringen.
-Det kan på den bakgrunn stilles spørsmål om den
-øvre aldersgrensen for inntektssikringsordningen burde økes utover 67 år.
-Selv om pensjonsreformen gjorde det mulig
-for flere å slutte i arbeid og ta ut alderspensjon før
-67 år, er det rimelig å anse dagens 67-årsgrense
-for ubetinget rett til uttak som indikasjon på hvor
-lenge den enkelte er forventet å kunne forsørge
-seg selv gjennom eget arbeid. Pensjonsnivået –
-målt i faste lønninger – for en gitt uttaksalder vil
-falle over tid som følge av sterkere levealdersjustering for yngre årskull. Samtidig vil også andre
-faktorer som tidligere inntekt og opptjeningsmodell (gammel eller ny) påvirke den enkeltes pensjonsnivå. Gjennomsnittlig pensjonsnivå i faste
-lønninger, når pensjonsnivået omregnes til det
-som det ville vært dersom pensjonen hadde vært
-tatt ut samtidig med avgangen fra arbeidslivet, er
-lavere for yngre årskull, se kapittel 14. Det ser
-altså ut til at de som er omfattet av pensjonsreformen i gjennomsnitt velger å gå av noe tidligere
-enn den alderen som ville opprettholdt pensjonsnivået slik det var før reformen. Gjennomsnittlig
-avgangsalder øker for yngre årskull, men er fortsatt lavere enn 67 år, og det er et mindretall som
-står i arbeid etter 67 år.
-I ny alderspensjon tar opptjeningen av pensjonsrettigheter form av en pensjonsbeholdning som
-bygges opp over den yrkesaktive livsfasen og som
-danner grunnlaget for å beregne inntektspensjon.
-
-[Side 329]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Også garantipensjonen regnes om til en egen
-beholdning ved uttak. Det er likevel ikke slik at
-folketrygdens alderspensjon kommer fra en faktisk beholdning som den enkelte har finansiert
-gjennom årlige innskudd. Folketrygdens utgifter
-er langt høyere enn inntektene fra trygdeavgiften
-og arbeidsgiveravgiften, og finansieres også dels
-gjennom tilskudd fra staten. Fra fylte 67 år er folketrygdens garantipensjon en universell inntektssikring uten betingelser om tidligere finansielle
-bidrag. På den bakgrunnen kan det være rimelig
-at aldersgrensen hvor retten til andre inntektssikringsordninger opphører, sammenfaller med
-alderen hvor det foreligger en ubetinget rett til
-alderspensjon.
-Personer som er i et fast arbeidsforhold av et
-visst omfang etter alderen for ubetinget rett til
-alderspensjon, vil kunne oppleve sykdom av
-begrenset varighet, men likevel så lenge at det er
-nødvendig med alternativ inntektssikring. Det
-kan være lite hensiktsmessig om disse må søke
-om alderspensjon for å dekke dette inntektsbehovet i en kort periode før de vender tilbake til
-arbeid. Det kan tale for å videreføre en begrenset
-rett til sykepenger i en kortere periode for personer som står i arbeid etter alderen for ubetinget
-rett til alderspensjon.
-Det har i årene etter pensjonsreformen vært
-en reduksjon i andelen som mottar helserelaterte
-ytelser og dagpenger blant personer i alderen 62–
-66 år. Dette henger til dels sammen med faktorer
-som bedre helse, høyere utdanningsnivå, bedre
-arbeidsmiljø mv., men kan også indikere at pensjonsreformen ikke har bidratt til en vesentlig høyere tilstrømming til ytelsene, men snarere redusert bruken av andre folketrygdytelser blant de
-eldste. Dette er også bekreftet av effektstudier,
-hvor spesielt tidlig uttak av folketrygdens alderspensjon for personer som jobber i privat sektor
-uten rett til AFP ser ut til å avlaste helserelaterte
-ytelser.
-Om økningen i levealderen gir gjennomsnittlig
-flere, færre eller like mange år med god helse, er
-ikke opplagt. Syse m.fl. (2016) viser til en sammenfatning av internasjonal forskning på dette
-området, og skriver at dersom sykelighet måles
-som funksjonsbegrensninger i hverdagen, støttes
-hypotesen om utsatt sykelighet – altså at økt levealder har gitt flere friske år: «En foreløpig konklusjon ser dermed ut til å være at vi ikke nødvendigvis har fått færre år med sykdommer enn før, kanskje snarere flere. Likevel ser det ut til at vi klarer
-oss bedre med disse sykdommene enn tidligere.
-Dette kan henge sammen med bedre medisinsk
-behandling, bedrede fysiske omgivelser og tekno-
-
-327
-
-Kapittel 13
-
-logi som tilrettelegger for at man kan klare seg
-selv, og at eldre i dag har mer utdanning enn eldre
-hadde før i tiden.» Dette støttes også av en nyere
-norsk studie, som finner en reduksjon i antall år
-med funksjonsbegrensinger blant 70-åringer i
-Norge (Storeng m.fl. 2021). I basisforløpet i Perspektivmeldingen 2021, jf. boks 8.4, er det lagt til
-grunn at økningen i forventet levealder på sju år
-fram til 2060 gir tre ekstra friske leveår, slik at
-omsorgsutgiftene til en 80-åring i 2060 tilsvarer
-omsorgsutgiftene til en 77-åring i dag.
-Det kan altså være grunn til å forvente at
-økningen i forventet levealder vil sammenfalle
-med bedre helse for en gitt alder, altså at 62–66åringer i yngre årskull vil ha et lavere behov for
-helserelaterte ytelser, alt annet likt. Samtidig
-påvirkes bruken av helserelaterte ytelser ikke
-bare av individets helsetilstand, men også tilbøyeligheten til å søke om slike ytelser, samt av samfunnsforhold som konjunkturer, arbeidsmiljø mv.
-Selv om bruken av korttidsytelsene så langt
-har blitt redusert blant de eldste i arbeidsstyrken,
-kan dette snu over tid. Pensjonsreglene for de første årskullene etter reformen, spesielt for overgangskullene 1954–1962, er komplekse, og mange
-vil oppfatte reglene som svært krevende å sette
-seg inn i. Dette kan ha medvirket til å begrense
-omfanget av strategisk tilpasning og dermed også
-begrenset bruken av helserelaterte ytelser. Personer født 1963 eller senere har nye opptjeningsregler i folketrygden, og vil få en enklere tjenestepensjon i offentlig sektor, samtidig som levealdersjusteringen i tiltakende grad vil medføre lavere
-pensjoner for en gitt uttaksalder. Kombinasjonen
-av et mer oversiktlig pensjonsregelverk og sterkere levealdersjustering vil kunne medføre at
-flere både er i stand til, samt tilbøyelige til, å gjøre
-strategiske valg. Videre vil råd og veiledning fra
-andre aktører (pensjonsrådgivere mv.) som peker
-på de økonomiske effektene av utsatt uttak kunne
-påvirke valgene. Det kan ikke utelukkes at dette
-vil føre til flere mottakere av helserelaterte ytelser
-og dagpenger blant dem over 62 år.
-Mange eldre mottar en helse- eller arbeidsrelatert ytelse fra folketrygden. Inntektssikring fra
-folketrygden er en utgift for staten, men bidrar
-samtidig til å utjevne levekår, både mellom individer og mellom livsfasene til hver enkelt. Helsen
-forverres med alder, og bruken av helserelaterte
-ytelser vil derfor også forventes å øke med alder.
-Lavere aldersgrenser i pensjonssystemet ville isolert sett ført til færre mottakere av helserelaterte
-ytelser, samtidig som dette ville medføre at en gir
-retten til alderspensjon, altså en ubetinget inntektssikring, til flere personer som reelt sett er i
-
-[Side 330]
-
-328
-
-Kapittel 13
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-stand til å forsørge seg selv. Motsatt – med høyere
-aldersgrenser i pensjonssystemet – vil det i en lengre periode stilles krav om at en kan dokumentere
-redusert helse, før det foreligger en ubetinget rett
-til å la seg forsørge av det offentlige. At mange
-reelt sett har dårlig helse, og dermed kan ha rett
-til annen inntektssikring før overgang til alderspensjon, vil til dels være en konsekvens av høye
-aldersgrenser i pensjonssystemet.
-Det er i dag en ubetinget rett til å ta ut alderspensjon fra 67 år. Kapittel 9 har presentert en
-modell for gradvis økning av aldersgrensene i
-pensjonssystemet – herunder den normerte pensjoneringsalderen hvor det inntreffer en ubetinget
-rett til uttak av alderspensjon – i takt med økende
-forventet levealder. Utvalget viser til diskusjonen i
-kapittel 9 der det er lagt opp til at en skal ha ordinære regler for inntektssikring fram til normert
-pensjoneringsalder, og vil i utgangspunktet gå inn
-for at ordningene i folketrygden som er rettet mot
-personer i arbeidsfør alder, bør kunne gis så lenge
-det ikke foreligger en ubetinget rett til alderspensjon. Dette vil medføre en gradvis utvidelse av
-alderen hvor en kan ha rett til slike ytelser i takt
-med økende forventet levealder, og dermed også
-gi merutgifter i folketrygden. Årlige merutgifter
-som følge av en økning i øvre aldersgrense for
-korttidsytelser er anslått til 3,8 milliarder kroner i
-2060, og 5,9 milliarder kroner i 2080 (jf. tabell 9.4
-og figur 9.12).
-Prinsippet om at aldersgrensene for inntektssikringsordningene skal følge normert pensjoneringsalder bør ses i lys av den faktiske tilpasningen over tid. Dersom det i årene framover blir
-stadig flere som går via andre folketrygdytelser til
-alderspensjon, bør det vurderes å justere regelverket. Slike justeringer kan være å fjerne redusert
-krav til å være reell arbeidssøker i dagpengeordningen for personer over 60 år, begrense muligheten for å motta dagpenger ved selvforskyldt
-ledighet for arbeidstakere med rett til alderspensjon, redusere den maksimale stønadsperioden
-(for eksempel for arbeidsavklaringspenger), samt
-å ikke gi opptjening til alderspensjon for arbeidsavklaringspenger og dagpenger etter en gitt alder
-(for eksempel 62 år, tilsvarende gjeldende opptjeningsregler for uføretrygd).
-Gjeldende regelverk kan resultere i store forskjeller i livsvarig alderspensjonsnivå for personer
-med relativt lik yrkeskarriere fram til 62 år og
-relativt lik tilknytning til arbeidsmarkedet og lik
-helsetilstand, avhengig av om en søker og får innvilget en ytelse eller ikke. Disse forskjellene kan
-oppfattes som urimelige, og det kan i tillegg være
-krevende å utforme gode inngangsvilkår for eldre
-
-arbeidstakere. På den ene siden kan det være
-gode grunner for å styre innsatsen i arbeids- og
-velferdsforvaltningen i retning av yngre aldersgrupper som har mange potensielle arbeidsår
-foran seg. Samtidig vil svakere aktivitetskrav for
-eldre, for eksempel slik praksis er i dagpengeordningen for personer over 60 år, kunne medføre at
-ytelsene framstår som et foretrukket alternativ til
-tidlig uttak av alderspensjon for personer som
-ønsker å slutte i arbeid. Det er nødvendig å sørge
-for at eldre i arbeidsstyrken også får god arbeidsrettet oppfølging fra arbeids- og velferdsforvaltningen og arbeidsgiver der det er aktuelt. God
-oppfølging kan bidra til å hindre utilsiktet bruk,
-men også styrke eldres mulighet til å fortsette i
-jobb etter en periode som arbeidsledig eller på
-sykepenger og dermed bidra til et mer velfungerende arbeidsmarked for eldre.
-Uttak av alderspensjon fra 62 år vil gi utilstrekkelige kompensasjonsnivåer for mange, og en del
-har heller ikke rett til å ta ut pensjonen fra 62 år.
-De årskullene som nå i er slutten av sin arbeidskarriere må stå i jobb utover 62 år, og gjerne til 67
-år eller lenger for å få et godt pensjonsnivå. Utvalget mener derfor at folketrygdens korttidsytelser
-som forsikrer mot sykdom og ledighet skal kunne
-gis også etter fylte 62 år.
-Utvalget mener at det er gode grunner for at
-retten til å motta andre trygdeytelser som hovedregel bortfaller ved den alderen hvor en har en
-ubetinget rett til å ta ut av alderspensjon. Over tid
-vil uttak fra 67 år gi et stadig lavere pensjonsnivå,
-målt i faste lønninger, og det er grunn til å forvente at yngre årskull både har ønske om, og
-mulighet til, å forsørge seg selv gjennom eget
-arbeid utover 67 år, i takt med stigende forventet
-levealder og bedre helse. Denne forventningen vil
-understøttes av innføringen av en normert pensjoneringsalder og systemet for regulering av aldersgrensene i pensjonssystemet som utvalget foreslår. Utvalget mener derfor at aldersgrensene i
-øvrige folketrygdytelser bør følge utviklingen i
-den normerte pensjoneringsalderen.
-Utvalget vurderer at pensjonsreformen så
-langt ikke ser ut til å ha medført økt bruk av helserelaterte ytelser og dagpenger blant de eldste.
-Denne utviklingen er i tråd med antakelsen om at
-økningen i forventet levealder vil sammenfalle
-med bedre helse for en gitt alder, og at økt levealder isolert sett medfører at bruken av helserelaterte ytelser for en gitt alder avtar. Det er likevel
-grunn til å følge utviklingen tett. Etter hvert som
-levealdersjusteringen tiltar i styrke, kan det ikke
-utelukkes at den positive utviklingen i bruk av helserelaterte ytelser og dagpenger blant eldre stan-
-
-[Side 331]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-ser opp eller snur. Dersom det over tid blir stadig
-flere som avslutter arbeidslivet med en periode på
-trygd, vil dette kunne utfordre både den sosiale
-og den økonomiske bærekraften i pensjonssystemet. I så fall bør det vurderes justeringer av
-
-329
-
-Kapittel 13
-
-regelverket som kan bidra til at eldre arbeidstakere fortsetter i arbeid, herunder tiltak som vil
-kunne begrense bruken av helserelaterte ytelser
-og dagpenger blant eldre.
-
-[Side 332]
-
-330
-
-NOU 2022: 7
-
-Kapittel 14
-
-Et forbedret pensjonssystem
-
-Kapittel 14
-
-Samlet tilrådning – Løsning for minsteytelsene og uføres
-alderspensjon
-14.1 Innledning og sammendrag
-Utvalget har blant annet fått i oppdrag å vurdere
-endringer i pensjonssystemet som kan sikre pensjonssystemets økonomiske og sosiale bærekraft.
-Sentralt i dette arbeidet har vært å vurdere:
-1. Aldersgrensene i pensjonssystemet
-2. Nivået på og reguleringen av minsteytelsene i
-pensjonssystemet
-3. Reglene for alderspensjon til uføre
-Økte aldersgrenser er en logisk videreføring av
-pensjonsreformen. Formålet er å påvirke pensjoneringsnormene og bidra til lengre yrkeskarrierer. Dette vil styrke den økonomiske bærekraften
-i pensjonssystemet og øke den enkeltes alderspensjon. Dette kapitlet bygger på den modellen
-for økte aldersgrenser som er presentert i kapittel
-9 der aldersgrensene øker i takt med økningen i
-levealderen fra og med 1964-kullet.
-Bakgrunnen for å gjøre endringer i reglene for
-uføres alderspensjon og minsteytelsene er å bedre
-den sosiale bærekraften i pensjonssystemet. Det
-er ikke mulig å gjøre endringer i reglene for uføres alderspensjon og minsteytelsene som bedrer
-den sosiale bærekraften i pensjonssystemet, uten
-at det medfører økte kostnader. Det er altså en
-motsetning mellom ønskene om å sikre både den
-sosiale og den økonomiske bærekraften.
-Samtidig er sosial og økonomisk bærekraft
-gjensidig avhengige, se kapittel 4. Pensjonssystemets sosiale bærekraft avhenger av at det er
-økonomisk bærekraftig og har tilstrekkelig legitimitet både gjennom at det er, og at det oppfattes
-som, rettferdig – også blant de yrkesaktive som
-bidrar til systemet gjennom skatter og avgifter.
-Utvalgets prinsipielle utgangspunkt ved vurderingen av reglene for minsteytelsene og uføres
-alderspensjon er at:
-– minstenivåene for nye alderspensjonister bør
-utvikle seg i takt med velstandsutviklingen, og
-
-–
-
-uføres alderspensjon bør over tid stabiliseres i
-forhold til sammenliknbare arbeidsføres1
-alderspensjon.
-
-Det er ikke åpenbart hvordan det andre prinsippet
-skal operasjonaliseres siden det kan være ulike
-vurderinger av hva som bør legges til grunn om
-den framtidige utviklingen i arbeidsføres avgangsalder. Det første prinsippet peker imidlertid mer
-entydig mot at minstenivåene reguleres i takt med
-den alminnelige lønnsveksten i samfunnet.
-De ulike alternativene presenteres skrittvis.
-Avsnitt 14.2 bygger på kapittel 9 og viser hvordan
-økte aldersgrenser vil dempe den kostnadsøkningen som ville blitt resultatet dersom uføre skjermes for virkningen av levealdersjustering og minsteytelsene får en gunstigere regulering enn med
-reglene som gjaldt fram til 2021, men uten at
-aldersgrensene øker.
-Utvalgets vurdering av minsteytelsene gjengis
-i avsnitt 14.3 som bygger på omtalen i kapittel 11.
-Utvalget tilrår at minsteytelsene ved normert pensjoneringsalder reguleres med lønnsveksten.
-Regulering med lønnsveksten må ses i sammenheng med at tidspunktet for når minsteytelser
-ubetinget kan mottas, justeres oppover med utviklingen i normert pensjoneringsalder fra og med
-2031. Utvalgets flertall tilrår videre at minsteytelsene under utbetaling reguleres med gjennomsnittet av pris- og lønnsveksten som øvrige pensjoner under utbetaling.
-Ulike løsninger for uføres alderspensjon belyses i avsnitt 14.4. Det bygger på omtalen i kapittel
-12. Først vises virkninger av ulik grad av skjerming når ny folketrygd er fullt innfaset, dvs. fra og
-med 1964-kullet. Det er mulig å avvente ytterligere skjerming av uføre født før 1964 ut fra en vurdering av yrkesaktives tilpasning. Utvalget mener
-1
-
-I beregningene som vises i dette kapitlet brukes begrepet
-«arbeidsføre» om alle som ikke har mottatt uføretrygd. De
-fleste av disse er eller har vært i arbeid når de tar ut alderspensjon, men ikke alle.
-
-[Side 333]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-imidlertid at også uføre i årskullene 1954–1963
-bør få økt alderspensjon, og at økt alder for opptjening i ny opptjeningsmodell for alderspensjon er
-en hensiktsmessig måte å gjøre dette på, se kapittel 12. Avsnitt 14.4.3 viser virkninger av å øke opptjeningsalderen for uføre i ny opptjeningsmodell
-for alderspensjon fra 62 år til henholdsvis 65 og 67
-år for årskullene 1954–1963 og videre i takt med
-økningen i den normerte pensjoneringsalderen
-for etterfølgende årskull.
-I avsnitt 14.5 presenteres noen mulige samlede løsninger for minsteytelsene og uføres alderspensjon, mens utvalgets vurderinger oppsummeres i avsnitt 14.6. Avsnitt 14.7 oppsummerer de
-økonomiske konsekvensene av utvalgets samlede
-forslag.
-
-14.2 Pensjonsreformen og økte
-aldersgrenser
-Kapittel 8 Pensjonssystemets økonomiske bærekraft
-viser at pensjonsreformen på lang sikt vil redusere veksten i pensjonsutgiftene betydelig, men at
-det likevel vil bli en stor utgiftsøkning framover.
-Økt alderspensjon til uføre og økte minsteytelser
-vil gi økte kostnader og dermed reversere deler
-av de innsparingene som følger av pensjonsreformen.
-Et hovedforslag fra utvalget er å øke aldersgrensene for arbeidsføre gradvis fra 1964-kullet,
-se kapittel 9. Vi skal i dette avsnittet vise hvordan
-
-331
-
-Kapittel 14
-
-økte aldersgrenser vil dempe den kostnadsøkningen som ville blitt resultatet dersom uføre skjermes for virkningen av levealdersjustering og minsteytelsene får en gunstigere regulering enn med
-reglene som gjaldt fram til 2021, men uten at
-aldersgrensene øker.
-Tabell 14.1 viser alternativene i det første settet av beregninger i dette kapitlet, som er kalt
-«basisalternativer». De to første alternativene,
-Ingen pensjonsreform og Referansebanen, er presentert i kapittel 8. Det går fram av figur 14.1 og
-tabell 14.2 at pensjonsutgiftene i referansebanen
-vokser markert mindre enn de ville gjort uten
-pensjonsreformen, men at det likevel er en klar
-vekst. Veksten i pensjonsutgiftene fra 2021 til 2060
-er mer enn halvert sammenliknet med alternativet
-uten pensjonsreform, men pensjonsutgiftene øker
-likevel med over 100 mrd. 2021-lønnskroner.
-Det tredje alternativet, Referansebanen, lønnsregulering av minsteytelser, full skjerming av uføre,
-viser konsekvensene av å både regulere satsene
-for minsteytelsene med lønnsveksten og å
-skjerme uføre fullt for virkningen av levealdersjustering, men uten å øke aldersgrensene. Sammenliknet med referansebanen øker pensjonskostnadene med nesten 60 mrd. 2021-lønnskroner i 2060
-og med nesten 100 mrd. i 2080.
-Det fjerde alternativet, økte aldersgrenser, er
-presentert i kapittel 9. Det innebærer økte aldersgrenser, også for uføre. Det betyr at uføre i
-utgangspunktet skjermes fullt for virkningen av
-
-Tabell 14.1 Basisalternativer
-Alternativ
-
-Beskrivelse
-
-Ingen pensjonsreform
-
-Videreføring av 2010-regler. Det betyr blant annet ingen levealdersjustering, heller ikke av uføres alderspensjon, og lønnsregulering av
-minsteytelser og løpende pensjoner.
-
-Referansebanen
-
-Videreføring av 2021-regler. Det betyr blant annet full levealdersjustering
-av uføres alderspensjon, løpende pensjoner reguleres med lønnsveksten
-fratrukket 0,75 prosent og minsteytelsene reguleres med lønnsveksten
-fratrukket virkningen av levealdersjustering ved 67 år.
-
-Referansebanen, lønnsregulering av minsteytelser,
-full skjerming av uføre
-
-Som referansebanen, men full skjerming av uføres alderspensjon for
-virkningen av levealdersjustering fra 1964-kullet og satsene for minsteytelsene reguleres i takt med lønnsveksten.
-
-Økte aldersgrenser
-
-Som referansebanen, men aldersgrensene for alderspensjon og trygdeytelsene øker fra og med 1964-kullet. Det innebærer full skjerming av
-uføres alderspensjon fra 1964-kullet gjennom økt alder for opptjening og
-overgang fra uføretrygd til alderspensjon.
-
-Økte aldersgrenser, lønnsregulering av minsteytelser
-
-Som økte aldersgrenser, men satsene for minsteytelsene reguleres i takt
-med lønnsveksten.
-
-[Side 334]
-
-332
-
-NOU 2022: 7
-
-Kapittel 14
-
-Et forbedret pensjonssystem
-
-600
-550
-500
-450
-400
-350
-300
-250
-200
-150
-2100
-
-2090
-
-2080
-
-2070
-
-2060
-
-2050
-
-2040
-
-2030
-
-2020
-
-2010
-
-600
-550
-500
-450
-400
-350
-300
-250
-200
-150
-
-År
-Ingen pensjonsreform
-Referansebanen, lønnsregulering minstytelser,
-full skjerming uføre
-Økte aldersgrenser, lønnsregulering av minsteytelser
-Økte aldersgrenser
-Referansebanen
-
-Figur 14.1 Pensjonskostnader. Mrd. 2021-kroner
-(lønnsdeflatert)1
-1
-
-Se tabell 14.1 for en presisering av alternativene. Pensjonskostnader er utgifter til alderspensjon og økte utgifter til
-uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger
-mv. sammenliknet med referansebanen.
-
-med lønnsveksten fratrukket virkningen av levealdersjustering, men siden aldersgrensene øker, blir
-den årlige økningen i minsteytelsene større enn i
-referansebanen, se figur 11.23. Årsaken er at virkningen av levealdersjusteringen måles ved endringen i delingstallet ved den normerte pensjoneringsalderen, og når den normerte pensjoneringsalderen øker, så blir endringen mindre. Det går
-fram av figur 14.1 og tabell 14.2 at økte aldersgrenser etter hvert gir en økning i pensjonskostnadene
-sammenliknet med referansebanen, men økningen er klart mindre enn den ville vært uten økte
-aldersgrenser. De økte kostnadene skyldes hovedsakelig økte utgifter til uføretrygd og andre ytelser
-fra folketrygden og økt alderspensjon til uføre.
-Det femte alternativet, økte aldersgrenser,
-lønnsregulering av minsteytelser, har både full
-skjerming av uføre og lønnsregulering av satsene
-for minsteytelsene. Lønnsreguleringen øker pensjonskostnadene sammenliknet med alternativet
-økte aldersgrenser med nesten 12 mrd. 2021-lønnskroner i 2060 og med nesten 20 mrd. i 2080. Men
-kostnadene er vesentlig lavere enn uten økte
-aldersgrenser, altså i referansebanen med lønnsregulering av satsene for minsteytelsene og full
-skjerming av uføre.
-
-levealdersjustering siden de både får økt opptjening og går over på alderspensjon ved en høyere
-alder. Minsteytelsene reguleres i dette alternativet
-Tabell 14.2 Pensjonskostnader basisalternativene.1 Mrd. 2021-kroner (lønnsdeflatert)
-Ingen
-pensjonsreform
-
-Referansebanen,
-lønnsregulering av
-Referanse- minsteytelser, full
-banen
-skjerming uføre
-
-Økte
-aldersgrenser
-
-Økte aldersgrenser, lønnsregulering av
-minsteytelser
-
-2021
-
-256,3
-
-259,0
-
-2040
-
-408,0
-
-336,4
-
-359,4
-
-335,9
-
-341,4
-
-2060
-
-496,0
-
-363,5
-
-422,6
-
-378,3
-
-390,1
-
-2080
-
-563,8
-
-372,6
-
-472,4
-
-411,0
-
-430,7
-
-23,0
-
--0,5
-
-5,0
-
-Endring fra referansebanen i mrd.
-2040
-2060
-
-132,5
-
-59,1
-
-14,9
-
-26,6
-
-2080
-
-191,2
-
-99,8
-
-38,4
-
-58,1
-
-6,8
-
--0,2
-
-1,5
-
-Endring fra referansebanen i prosent
-2040
-2060
-
-36,5
-
-16,3
-
-4,1
-
-7,3
-
-2080
-
-51,3
-
-26,8
-
-10,3
-
-15,6
-
-1
-
-Se tabell 14.1 for en presisering av alternativene. Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd,
-AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen.
+Statistisk sentralbyrå.
+
+Som figuren viser, har det vært en økning i gjennomsnittlig pensjonsnivå i denne gruppen relativt til lønnsnivået i samfunnet fram til 1945-kullet. I de neste tiårene viser framskrivingene at gjennomsnittlig årlig pensjonsnivå blant nye uføre vil falle relativt til lønnsnivået i samfunnet, i takt med sterkere levealdersjustering, ned mot 200 000 2021-kroner for uføre født 1973 som blir alderspensjonister i år 2040, og under 150 000 2021-kroner for uføre født rundt 2020, som blir alderspensjonister mot slutten av århundret.
+
+Fleksibelt uttak av alderspensjon gjør det krevende å vurdere forholdet mellom uføres og arbeidsføres alderspensjonsnivå. For det første vil de arbeidsføres pensjonsnivå påvirkes av at mange tar ut alderspensjon før de slutter i arbeid. Det synes rimelig at endringer i arbeidsføres pensjonsnivåer som skyldes at de tar ut alderspensjon samtidig som de fortsetter å jobbe, ikke i seg selv skal gi grunnlag for å endre reglene for uføres alderspensjon. Når uføres og arbeidsføres pensjonsnivåer skal ses i forhold til hverandre, bør en etter 2011 derfor korrigere for effekten av tidliguttak blant de som fortsetter i arbeid.
+
+Et naturlig utgangspunkt for en slik vurdering er å sammenlikne de uføres og arbeidsføres gjennomsnittlige alderspensjonsnivåer, hvor en omregner pensjonsnivået blant arbeidsføre slik at en tar hensyn til når arbeidsføre har avgang fra arbeidslivet og dermed antas å ha behov for alderspensjon, på lik linje med behovet for alderspensjon blant uføre når uføretrygden faller bort. Det er imidlertid ikke åpenbart hvordan en skal gjøre en slik sammenlikning. Det er systematiske forskjeller mellom gruppen uføre og gruppen arbeidsføre som ikke har med uførestatus å gjøre, men som likevel påvirker deres pensjonsnivåer. Et eksempel er forskjellen i kvinners og menns gjennomsnittlige alderspensjonsnivåer, både blant arbeidsføre og uføre. Kvinner har i gjennomsnitt lavere inntekt og dermed lavere pensjonsopptjening enn menn i begge gruppene. Samtidig er nær 60 prosent av uføre alderspensjonister kvinner, hvilket motsvares av en høyere andel menn blant arbeidsføre alderspensjonister. Dette påvirker uføres og arbeidsføres gjennomsnittlige alderspensjonsnivå dersom vi ser begge kjønn samlet, i retning av at uføre har lavere gjennomsnittlig pensjon. Imidlertid er deler av denne forskjellen altså knyttet til forskjeller mellom kjønn, ikke til om en er tidligere ufør eller ikke.
+
+Figur 12.9 og figur 12.10 viser framskrevet, gjennomsnittlig nivå på alderspensjonen fra folketrygden blant personer som mottok en uføreytelse ved 67 år (blå linjer), sammenholdt med pensjonsnivå blant arbeidsføre under ulike forutsetninger om arbeidsføres avgangsmønster (sorte linjer). Heltrukken sort linje viser framskrivinger av pensjonsnivået blant arbeidsføre for ulike årskull, gitt at de arbeidsføre øker avgangsalderen med to tredeler av økningen i forventet levealder fra 1963-kullet, altså slik at de fullt ut kompenserer for effekten av levealdersjusteringen. Stiplet sort linje viser framskrivinger av pensjonsnivået blant arbeidsføre, gitt at avgangsmønsteret ikke endres etter 2030. De sorte linjene illustrerer to mulige scenarier for de arbeidsføres tilpasning til levealdersjusteringen. Dersom de arbeidsføre velger å *delvis* kompensere for levealdersjusteringen, vil de arbeidsføres alderspensjon havne mellom den heltrukne og den stiplede sorte linjen. I teorien kan den faktiske utviklingen også kunne falle utenfor dette spennet, dersom de arbeidsføre øker avgangsalderen med mer enn det som kreves for å kompensere for effekten av levealdersjusteringen, eller i tiltakende grad velger å benytte muligheten for tidlig avgang. Heltrukken blå linje viser alderspensjonsnivået til uføre, framskrevet med gjeldende regelverk. Stiplet blå linje viser alderspensjonsnivået til uføre, gitt at uføre født 1963 eller senere fullt ut skjermes for effekten av levealdersjusteringen gjennom en gradvis økning i aldersgrensen for opptjening og overgang til alderspensjon.
+
+Gjennomsnittlig årlig pensjonsnivå, uføre og ikke-uføre menn, uttak samtidig med avgang.<sup>1</sup> Årskullene 1920–2020. Tusen 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Personer med minst 20 års botid.
+
+Statistisk sentralbyrå.
+
+Figur 12.9 viser at blant menn har uføres alderspensjonsnivå gjennomgående ligget noe lavere enn nivået blant arbeidsføre i kohortene som ble alderspensjonister før pensjonsreformen (årskullene til og med 1943). Forholdet mellom pensjonsnivået til uføre menn og arbeidsføre menn var på om lag 91 prosent for 1930-kullet, og svekket seg til 86 prosent for 1943-kullet. Det kan ha sammenheng med at sammensetningen av gruppene uføre og arbeidsføre har endret seg over tid. For årskullene 1944–1953, som har vært omfattet av skjermingstillegget til uføre alderspensjonister, økte uføres alderspensjon relativt mer enn arbeidsføres, og forholdet var på 90 prosent for menn i 1953-kullet. Skjermingstillegget er ikke utvidet til å omfatte personer født 1954 og senere, og dette fører til et tydelig fall i (framskrevet) pensjonsnivå for 1954-kullet sammenliknet med 1953-kullet. Fram mot 1963-kullet svekker forholdet mellom pensjonsnivået til uføre menn og arbeidsføre menn seg ytterligere, gitt forutsetningene i referansebanen, der arbeidsføre øker avgangsalderen slik at de fullt ut kompenserer for effekten av levealdersjusteringen, til om lag 79 prosent.
+
+Selv om referansebanen forutsetter at arbeidsføre øker avgangsalderen for å kompensere for effekten av levealdersjusteringen, viser framskrivingene at gjennomsnittlig pensjonsnivå i fast G faller for yngre årskull. Dette har på lengre sikt i hovedsak sammenheng med at arbeidsføre ikke får opptjenings- eller uttakseffekt etter fylte 75 år når aldersgrensene ligger fast. Det er også enkelte mindre effekter som i hovedsak stanser å ha effekt for årskull født på 1980-tallet; minsteytelsen vil bli gradvis lavere i fast G i referansebanen, noe som gir lavere ytelsesnivåer nedover i inntektsfordelingen, stadig flere har senere jobbstart på grunn av lengre utdanningsløp, det er en stadig lavere andel uføre ved aldersgrensen[^118] og det blir flere (eldre) innvandrere.
+
+Blant kvinner har uføres pensjonsnivå ligget på nivå med arbeidsføres for årskullene født i 1930 og tidligere, jf. figur 12.10. Fram mot 1943-årskullet ble pensjonsnivået blant uføre kvinner svekket relativt til arbeidsføre kvinner, og utgjorde om lag 92 prosent for 1943-årskullet som fylte 67 år i 2010. Ettersom gruppen arbeidsføre også omfatter ikke-uføre som ikke er i jobb, har kvinners inntog på arbeidsmarkedet hatt stor betydning for utviklingen i disse årskullene. For kvinner var forholdet om lag uendret for årskullene 1944–1953, og var på 91 prosent for kvinner i 1953-kullet. For kvinner i årskullene 1954–1962 svekker forholdet seg gradvis, forutsatt at arbeidsføre øker avgangsalderen slik at de fullt ut kompenserer for effekten av levealdersjusteringen, men styrkes igjen for 1963-kullet og er tilbake på om lag 92 prosent. Framskrivingene viser et tydelig fall i alderspensjonen til arbeidsføre kvinner fra 1962-kullet til 1963-kullet. Dette må ses i sammenheng med ny offentlig tjenestepensjon og avviklingen av gjeldende AFP-ordning i offentlig sektor. Personer i offentlig sektor som ønsker avgang fra arbeidslivet før 67 år, vil med gjeldende regelverk kunne ta ut AFP, som medfører at de venter med uttak av folketrygdens alderspensjon til 67 år. Dette gir en høyere alderspensjon fra folketrygden ved uttak, sammenliknet med personer i 1963-kullet som i framskrivingene kan kombinere tidlig uttak av alderspensjon fra folketrygden med et AFP-påslag etter mønster av AFP-ordningen i privat sektor.
+
+Gjennomsnittlig årlig pensjonsnivå, uføre og ikke-uføre kvinner, uttak samtidig med avgang.<sup>1</sup> Årskullene 1920–2020. Tusen 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Personer med minst 20 års botid.
+
+Statistisk sentralbyrå.
+
+Det er som tidligere påpekt, systematiske forskjeller mellom gruppen uføre og gruppen arbeidsføre som ikke har med uførestatus å gjøre, men som likevel påvirker deres pensjonsnivåer. I tillegg til skjev kjønnsfordeling blant uføre, vil det også være andre forskjeller mellom gruppen uføre og gruppen arbeidsføre (utdanningsnivå, sektortilhørighet mv.), som også vil kunne variere over tid. En bør derfor ikke ensidig ta sikte på at forholdet mellom pensjonsnivået til uføre og arbeidsføre holdes konstant over tid, siden et endret forhold også kan skyldes at sammensetningen i hver gruppe endres, samt regelverksendringer som omleggingen av AFP-ordningen mv. Utviklingen i avgangsmønsteret blant arbeidsføre vil også være relevant for vurderingen, og diskuteres nærmere i avsnitt 12.7.5.
+
+Utvalgets mandat legger opp til at det er de arbeidsføres alderspensjonsnivå som skal være referansepunktet for pensjonsnivået til personer som har mottatt uføretrygd. For å sikre uføre et tilfredsstillende pensjonsnivå framover, mener utvalgets at reglene for alderspensjon til uføre må justeres. Flertallet, alle unntatt Fuglevaag og Søviknes, mener at regelverket for uføres alderspensjon bør ta utgangspunkt i hvor lenge arbeidsføre faktisk står i arbeid. Dette har også vært utgangspunktet for tidligere vurderinger, herunder begrunnelsen for skjermingsordningen som ble innført for uføre i årskullene 1944–1953. Prop. 130 L (2010–2011) *Ny uføretrygd og alderspensjon til uføre* viser til at «\[F\]orholdet mellom uføres og arbeidsføres alderspensjon påvirkes av arbeidsføres faktiske tilpasning. En vurdering av om, og eventuelt hvordan, uføres alderspensjon skal skjermes mot virkninger av levealdersjusteringen må baseres på observasjoner av arbeidsføres tilpasning». Verken Pensjonskommisjonen eller Uførepensjonsutvalget anbefalte at uføre ubetinget skulle skjermes fra levealdersjusteringen, men anbefalte tilpasninger i regelverket etter en tid i lys av utviklingen i yrkesaktiviteten til arbeidsføre.
+
+### Virkemidler som kan påvirke uføres alderspensjonsnivå
+
+Dersom arbeidsføre står stadig lenger i arbeid, vil det medføre at deres behov for alderspensjon melder seg på et senere tidspunkt, og at årlig pensjonsnivå øker sett i forhold til uføres alderspensjonsnivå. Utvalget vurderer at det ikke har avgjørende betydning om det er levealdersjusteringen eller andre forhold som er årsaken til at avgangsalderen øker. Utsatt avgang medfører – alt annet likt – høyere pensjonsnivåer, og det er grunn til å anta at uføre også ville stått lenger i arbeid dersom uførheten ikke hadde inntruffet. Det er derfor grunn til å justere uføres alderspensjon ut fra utviklingen i arbeidsføres tilpasninger.
+
+Nivået på uføres alderspensjon bestemmes av en rekke faktorer i pensjonssystemet: opptjeningsprosent, opptjeningsgrunnlag, øvre aldersgrense for opptjening og alder for overgang fra uføretrygd til alderspensjon. Virkemiddelet for å opprettholde et ønsket forhold mellom uføres og arbeidsføres alderspensjon må derfor ikke nødvendigvis være knyttet til levealdersjusteringsmekanismen, slik som er tilfellet med skjermingsordningen for uføre i årskullene 1944–1953. I det følgende diskuteres alternative virkemidler som alle kan bidra til å endre eller opprettholde et ønsket forhold mellom uføres og arbeidsføres alderspensjon:
+
+- endret opptjeningsprosent for uføre
+
+- endret opptjeningsgrunnlag for uføre
+
+- endret øvre alder for opptjening til alderspensjon
+
+- endret alder for overgang til alderspensjon
+
+- tillegg i alderspensjonen til uføre
+
+Endret opptjeningsprosent for uføre
+
+Dagens regelverk gir uføre og arbeidsføre lik opptjeningssats (18,1 prosent). Arbeidsføre tjener opp til sin pensjonsbeholdning med utgangspunkt i pensjonsgivende inntekt, mens uføre har opptjening fra uføretidspunktet med utgangspunkt i beregningsgrunnlaget for uføretrygden (det vil si den lønnsinntekten som er lagt til grunn ved beregningen av uføretrygden). Uføre har (som arbeidsføre) et årlig opptjeningstak i alderspensjon på 7,1 G. For enkelte av folketrygdens ytelser, eksempelvis arbeidsavklaringspenger, er det selve ytelsen som er pensjonsgivende (det vil si maksimalt 3,96 G per år). Fordi uføretrygden – i motsetning til folketrygdens korttidsytelser – i mange tilfeller gis over en lang periode, ble det i forbindelse med pensjonsreformen vurdert at alderspensjonen ville ha blitt for lav og ned mot minste pensjonsnivå dersom det var selve uføretrygden som skulle være pensjonsgivende.
+
+Økt opptjeningsprosent vil gi høyere alderspensjon til uføre. Under forutsetning av at arbeidsføre i tiltakende grad kompenserer for effekten av levealdersjusteringen, vil dette alternativet medføre behov for å endre opptjeningsprosent og/eller opptjeningsgrunnlag mellom ulike årskull. Samtidig vil det for noen uføre gå svært lang tid fra de får innvilget uføretrygd til vedkommende går over til alderspensjon (49 år for de som innvilges uføretrygd ved 18 år). Det er ikke mulig å forutse hvor lenge arbeidsføre står i arbeid flere tiår fram i tid. Forutsatt at en ikke kan miste allerede opptjente pensjonsrettigheter, vil det da kunne bli behov for å endre opptjeningsprosenten ikke bare mellom ulike årskull, men også underveis i uføreløpet til det enkelte årskull. Dette er mulig rent teknisk, men vil oppfattes som uoversiktlig både av beslutningstakere, i forvaltningen og for den enkelte uføre.
+
+Øke øvre alder for uføres opptjening til alderspensjon
+
+Alle uføre født til og med 1953 har pensjonsopptjening etter gamle regler, det vil si fram til fylte 67 år. Fra 1954-kullet fases nye opptjeningsregler gradvis inn, hvor uføre får pensjonsopptjening til fylte 62 år. Opptjening utover 62 år vil øke nivået på uføres alderspensjon. Det vil være mulig å innføre økt opptjeningsalder også for overgangskullene 1954–1962, som vil ha en begrenset, men økende effekt på pensjonsnivået for disse årskullene som kun får deler av alderspensjonen beregnet etter nye opptjeningsregler. For kullene fra og med 1963, vil ett års økt opptjening øke alderspensjonsnivået ved 67 år med om lag 2,5 prosent for personer som er over avkortingsintervallet for garantipensjon. For personer som befinner seg i avkortingsintervallet for garantipensjon, vil ett års økt opptjening gi en femdel av dette – om lag 0,5 prosent økt årlig alderspensjon – siden garantipensjonen reduseres med 80 prosent av inntektspensjonen. I framskrivingene med referansebanen vil om lag 60 prosent av de uføre alderspensjonistene befinne seg i avkortingsintervallet for garantipensjon når nye opptjeningsregler er fullt innfaset. For en stor andel av de uføre vil dette alternativet dermed i begrenset grad gi økt alderspensjon, som må ses i sammenheng med at minstesikringen medfører at de får en høyere alderspensjon enn opptjeningen alene skulle tilsi. Uføre med lav eller ingen tidligere inntekt vil, i likhet med arbeidsføre, få løftet pensjonsnivået gjennom minstesikringen. Dersom minsteytelsene framover reguleres med den gjennomsnittlige lønnsveksten, jf. diskusjonen og konklusjonene i kapittel 11, blir det da heller ingen levealdersjustering å kompensere for i minstesikringen.
+
+Under forutsetning av at arbeidsføre i tiltakende grad kompenserer for effekten av levealdersjusteringen, vil økt opptjeningsalder for uføre *over tid* alene ikke være tilstrekkelig til å opprettholde et ønsket forhold mellom uføre og arbeidsføres pensjonsnivå, med mindre en skulle øke (den fiktive) opptjeningen utover alderen for overgang til alderspensjon.
+
+Øke alderen for uføres overgang til alderspensjon
+
+Uføre har i dag overgang fra uføretrygd til alderspensjon når de fyller 67 år. Overgangstidspunktet ligger fast, og forskyves ikke ettersom levealdersjusteringen får gradvis større effekt.
+
+Dersom overgangstidspunktet og aldersgrensen for opptjening økes i takt med levealdersjusteringen, kan alderspensjonen opprettholdes på samme relative nivå som før levealdersjustering. Dette ville i realiteten være det samme som å la være å levealdersjustere uføres alderspensjon. Alternativt kan overgangstidspunktet øke med mindre enn levealdersjusteringen. Da vil alderspensjonen relativt til lønnsnivåene i samfunnet og inntekten som ufør reduseres for yngre årskull, men reduksjonen vil ikke være like stor som ved full levealdersjustering. Så lenge overgangstidspunktet relateres til levealdersjusteringen, og ikke til de arbeidsføres tilpasning, vil imidlertid uføres alderspensjonsnivå være løsrevet fra arbeidsføres alderspensjonsnivå, og medføre at forholdet mellom uføres og arbeidsføres alderspensjon fortsatt vil være i bevegelse.
+
+Overgangstidspunktet kan alternativt forankres til arbeidsføres faktiske tilpasning, altså hvor lenge arbeidsføre står i arbeid. Det vil kunne holde uføres gjennomsnittlige alderspensjon konstant sammenliknet med arbeidsføres gjennomsnittlige alderspensjon, gitt at andre kjennetegn ved gruppene ikke endrer seg. Det er imidlertid ikke åpenbart hva som vil kunne være en god indikator på hvor lenge de arbeidsføre står i arbeid. Det er ingen entydig sammenheng mellom uttak av alderspensjon og avgang fra arbeidslivet, og mange kombinerer uttak av alderspensjon med fulltidsarbeid. For de fleste vil avgangen fra arbeidslivet være relativt brå, mens andre velger en mer gradvis overgang til pensjonisttilværelsen gjennom en gradvis nedtrapping av arbeidstilbudet. Muligheten for å etablere en treffsikker og observerbar indikator er nærmere drøftet i avsnitt 9.4.2. Det kan også diskuteres om en indikator skal legge en «gjennomsnittlig» atferd til grunn, eller om en skal orientere seg i retning av den øvre eller nedre delen av fordelingen av alderen hvor arbeidsføre slutter å jobbe. På den ene siden kan det synes rimelig å se hen til avgangsmønsteret til arbeidstakere med begrensede muligheter for tidligpensjonering (gruppen som verken har særaldersgrenser eller rett til avtalefestet pensjon). På den andre siden kan det synes rimelig at uføre ikke får vesentlig høyere alderspensjon enn personer som etter et langt arbeidsliv slutter i arbeid og starter tidlig uttak av alderspensjon med et relativt lavt pensjonsnivå.
+
+Kapittel 9 har presentert en modell for økte aldersgrenser, hvor aldersgrensene i pensjonssystemet øker med to tredeler av veksten i delingstallene fra og med 1964-kullet, slik at årlig pensjonsnivå opprettholdes. Dette vil i praksis være ekvivalent med full levealdersjustering for uføre fram til og med 1963-kullet, for deretter å unnta uføre fra videre levealdersjustering fra 1964-kullet. Dersom det er ønskelig med en mindre økning i aldersgrensene for uføre, for eksempel ut fra en forsiktig antakelse om arbeidsføres videre tilpasning til levealdersjusteringen, vil det være mulig å øke aldersgrensene for uføre med mindre enn det som skal til for fullt ut å kompensere for effekten av levealdersjusteringen. En må da finne en løsning for de uføre som har passert alderen hvor en ikke lenger har rett til uføretrygd, men som grunnet lav opptjening ikke har rett til uttak av alderspensjon får alderen for fritt uttak av minsteytelsen.
+
+Økt alder for uføres overgang til alderspensjon innebærer at de uføre skal få beholde uføretrygden ut over 67 år. I så fall bør aldersgrensen for å få innvilget uføretrygd også vurderes økt. Økt alder for overgang fra uføretrygd til alderspensjon bør også vurderes i sammenheng med aldersgrensene for de øvrige inntektssikringsytelsene. Dette vurderes nærmere i kapittel 13.
+
+Eget tillegg i alderspensjonen til uføre
+
+Dette alternativet innebærer at uføre får et særskilt tillegg til alderspensjonen. Det er slik ordningen for årskullene 1944–1953 er innrettet, ved at de uføre får et tillegg som tilsvarer halvparten av den reduksjonen i alderspensjonen som følger av levealdersjusteringen. I prinsippet kan et slikt skjermingstillegg utformes med en hvilken som helst skjermingsgrad, for eksempel ved at størrelsen knyttes til i hvilken grad arbeidsføre kompenserer for levealdersjusteringen. Med dette alternativet vil utgiftene knyttet til skjermingen kunne synliggjøres mer eksplisitt, i motsetning til i de øvrige alternativene hvor det er selve pensjonsberegningen som endres, enten ved økt pensjonsopptjening eller ved senere overgang til alderspensjon. Et eget tillegg i alderspensjon til uføre vil imidlertid kunne oppfattes som kompliserende, sammenliknet med å påvirke alderspensjonsnivået direkte gjennom uføres aldersgrenser for opptjening og overgang som allerede ligger i pensjonssystemet. Når en sentral indikator for utmålingen av uføres alderspensjon nettopp vil være utviklingen i avgangsmønsteret blant arbeidsføre, kan det være enklere å kommunisere og forstå at endringer i arbeidsføres avgangsmønster – eller antakelser om utviklingen i dette mønsteret framover – gir direkte utslag i økte aldersgrenser for uføre, framfor statiske aldersgrenser for uføre i kombinasjon med et tillegg som utmåles med utangspunkt i de arbeidsføres avgangsmønster.
+
+### Økonomiske effekter for den enkelte
+
+Etter dagens regler går uføre over på alderspensjon ved fylte 67 år, altså ved en høyere alder enn laveste alder for uttak av alderspensjon. Det innebærer at personer som ellers ville sluttet i arbeid og tatt ut full alderspensjon ved 62 år, vil få høyere alderspensjon dersom de innvilges uføretrygd.
+
+Uførepensjonsutvalget (NOU 2007: 4) identifiserte tre kilder til denne gevinsten, som de omtalte som «pensjonsgapet»:
+
+- Ytelsesnivået i uføreytelsen kan være høyere enn det alderspensjonen ville vært.
+
+- En tjener opp pensjonsrettigheter mens en mottar ytelsene (gjelder ikke uføretrygd i ny alderspensjon som gir opptjening til 62 år).
+
+- De som mottar ytelsene kan utsette uttaket av alderspensjon og dermed få en høyere årlig, livsvarig pensjon.
+
+Uføretrygdede i årskullene 1944–1953 har også fått et tillegg til alderspensjonen fra 67 år («skjermingstillegget»).
+
+Alderspensjon for tidligere ufør sammenliknet med alderspensjon for tidligere yrkesaktiv i privat sektor uten AFP
+
+I figur 12.11 sammenliknes en person som mottar uføretrygd fram til 67 år og senere alderspensjon fra folketrygden, med yrkesaktive i privat sektor uten rett til AFP, som går rett fra arbeid til alderspensjon. I figuren er all opptjening i ny opptjeningsmodell, og alderspensjonen blir levealdersjustert med delingstall som gjelder for 1963-kullet. Figuren illustrerer at kompensasjonsgraden etter skatt for uføre alderspensjonister er høyere enn for arbeidsføre med uttak fra 62 og fra 65 år, men noe lavere enn for arbeidsføre med uttak 67 år. I figuren er det tatt hensyn til effekten av at uføretrygd reguleres med alminnelig lønnsvekst og høyere enn alderspensjon som reguleres med gjennomsnittet av lønns- og prisveksten. En person som mottar uføretrygd fram til 67 år vil få en alderspensjon som ved 67 år er 22 prosent høyere etter skatt sammenliknet med en person som tar ut alderspensjon fra 62 år. Videre er årlig nivå på uføretrygd etter skatt som mottas i alderen 62–66 år (lilla søyle) drøyt 50 prosent høyere enn alderspensjon fra 62 år.
+
+Uføretrygd og alderspensjon fra folketrygden ved 67 år. Kompensasjonsgrad etter skatt fra 67 år som andel av tidligere inntekt etter skatt for 1963-årskullet. 37 opptjeningsår ved fylte 62 år med 6 G i gjennomsnittlig arbeidsinntekt. Prosent
+
+Alderspensjon for tidligere ufør sammenliknet med alderspensjon for tidligere yrkesaktiv i privat sektor med AFP
+
+Figur 12.12 viser samme situasjon som i figur 12.11, men med den forskjellen at alderspensjonisten som avslutter arbeidsforholdet i privat sektor også har rett på AFP.[^119] Personer med uføretrygd kan ikke motta AFP. Vi ser at alderspensjonen til tidligere ufør etter skatt er litt høyere sammenliknet med tidlig uttak fra 62 år, når privat AFP kommer på toppen av folketrygden, men klart lavere enn uttak fra 65 år.
+
+Uføretrygd og alderspensjon fra folketrygden og AFP ved 67 år. Kompensasjonsgrad etter skatt fra 67 år som andel av tidligere inntekt etter skatt for 1963-årskullet. 37 opptjeningsår ved fylte 62 år med 6 G i gjennomsnittlig arbeidsinntekt. Prosent
+
+Normalt vil den årlige pensjonen være lavere enn det en får utbetalt ved å motta en annen livsoppholdsytelse fra folketrygden før 67 år. Det gjelder også for andre midlertidige ytelser (sykepenger, arbeidsavklaringspenger, dagpenger mv.) at det vil være en økonomisk gevinst ved å motta ytelsen som kommer i tillegg til verdien av at den livsvarige, årlige alderspensjonen blir høyere.
+
+### Hva er et rimelig pensjonsnivå?
+
+Det synes å være bred enighet om at uføre skal være sikret et rimelig alderspensjonsnivå, men hva som vektlegges i vurderingen av hva som er *rimelig,* vil kunne variere. Uføres alderspensjonsnivå kan ses i forhold til nivået på uføreytelsen før overgang til alderspensjon, det generelle pensjonsnivået blant arbeidsføre, pensjonsnivået i gruppen arbeidsføre som går av tidlig (for eksempel ved 62 år eller så snart en har mulighet), eller minstenivået i alderspensjonen (minste pensjonsnivå og garantipensjon). I høringsnotatet om uføres alderspensjon fra Arbeids- og sosialdepartementet høsten 2019, ble uføres alderspensjonsnivå sammenliknet med arbeidsføres gjennomsnittlige pensjonsnivå, men også med pensjonsnivået til arbeidsføre som starter tidlig uttak og samtidig slutter i arbeid.
+
+Fleksibel alderspensjon vil kunne avlaste uføreordningen, i den forstand at den enkelte selv forlater arbeidsmarkedet med alderspensjon i stedet for via en helserelatert ytelse. Hensikten med alderspensjon er å gi alle en verdig alderdom i lys av at alderdomssvekkelse gradvis vil gjøre det vanskeligere å forsørge seg selv gjennom arbeid. I den grad folketrygdens alderspensjon anses å være en forsikring mot helseproblemer allerede fra 62 år, vil en slik avlasting av uføreordningen kunne vurderes som rimelig. Dette vil imidlertid gi større forskjeller i pensjonsnivåer, både mellom de som har helse til å stå i arbeid etter 62 år og de som ikke har det, men også innad i gruppen som har helseproblemer. Muligheten til å starte tidlig uttak av alderspensjon med et relativt lavt pensjonsnivå, vil kunne medføre at personer med lik opptjeningshistorikk og helsetilstand ender med ulikt pensjonsnivå, avhengig av om de søker om en helserelatert ytelse før overgang til alderspensjon eller ikke. Om en søker eller ikke, vil igjen kunne avhenge av faktorer som kunnskap om trygdesystemet, egne og andres holdninger til mottak av trygdeytelser mv.
+
+Samtidig vil det kunne vurderes som urimelig at personer med helseproblemer tvinges til å tære på pensjonsbeholdningen i folketrygden på et tidligere tidspunkt enn de ville gjort dersom helseproblemene ikke hadde inntruffet. Før pensjonsreformen var alderspensjonen i utgangspunktet fullforsikret mot helseproblemer, i den forstand at uføre fikk en alderspensjon på nivå med det de ville fått dersom de hadde stått i arbeid fram til pensjonsalderen. I ny alderspensjon, med fleksible nøytrale uttaksregler, er det ikke mulig å gi et enkelt anslag på hvor mye den uføre ville fått i alderspensjon dersom uførheten ikke hadde oppstått. Det vil dermed uansett ikke være mulig å forsikre den enkeltes alderspensjonsnivå korrekt mot uførhet. Det vil være store individuelle forskjeller: Noen uføre ville ha stått lenger i arbeid og ventet med uttak av alderspensjon, og dermed fått høye pensjonsnivåer. Andre ville ha sluttet i arbeid og startet uttak allerede ved 62 år og fått tilhørende lave pensjonsnivåer. Med fleksible uttaksregler vil det være uunngåelig at uføre som hadde planer om å stå lenge i arbeid, taper pensjonsmessig som følge av uførheten. Motsatt vil uføre som ellers ville hatt tidlig avgang, kunne komme bedre ut, siden de får utsatt uttaket av alderspensjon til 67 år. Så lenge uføre har overgang til alderspensjon ved en høyere alder enn laveste alder for uttak av alderspensjon (62 år), vil personer som ellers ville sluttet i arbeid og startet uttak av full alderspensjon ved 62 år, få høyere alderspensjon dersom de innvilges uføretrygd.
+
+I ny opptjeningsmodell har personer som mottar uføretrygd opptjening til fylte 62 år, og overgang til alderspensjon ved fylte 67 år. Dette gir en alderspensjon som om den uføre hadde stått i arbeid til om lag 65 og et halvt år, og deretter sluttet i arbeid og tatt ut full alderspensjon. Dette er om lag på nivå med gjennomsnittlig avgangsalder i 2021, slik den er beregnet av Arbeids- og velferdsdirektoratet, jf. figur 5.4 i kapittel 5. Denne indikatoren for gjennomsnittlig avgangsalder er beregnet med utgangspunkt i tverrsnittsdata etter samme metodikk som OECDs indikator for avgangsalder, og tar utgangspunkt i alle som var i jobb ved 50 år. Avgang innebærer i denne sammenhengen å være helt ute av arbeidslivet og inkluderer også personer som blir uføre etter fylte 50 år. Dette betyr at personer som blir uføre etter fylte 50 år trekker ned den beregnede avgangsalderen. At personer med en relativt liten tilknytning til arbeidslivet ikke anses som å ha hatt avgang før de er helt ute, trekker i motsatt retning. Denne indikatoren vil dermed ikke nødvendigvis gi et godt svar på hvor lenge de arbeidsføre står i arbeid, i den forstand at primærkilden til forsørgelse er gjennom eget arbeid.
+
+Figur 5.3 i kapittel 5 viser utviklingen i median avgangsalder, det vil si når halvparten av lønnstakerne som var i arbeid ved 61 år, og som heller ikke på et senere tidspunkt mottok arbeidsavklaringspenger eller uføretrygd, har hatt avgang fra arbeidslivet. Med denne avgrensingen var median avgangsalder for årskullene 1951–1954 om lag 67,5 år blant de som jobbet i privat sektor uten AFP-avtale, drøyt 66 år i offentlig sektor, og om lag 66 år blant de som jobbet i en virksomhet i privat sektor med AFP-avtale. Etter pensjonsreformen har det vært en tydelig vekst i median avgangsalder blant de som jobbet i privat sektor med AFP-avtale, samt en svak vekst i offentlig sektor fram til 1949-kullet, og en svak nedgang for årskullene 1950–1954. Blant de som jobbet i privat sektor uten AFP-avtale har det vært en mindre nedgang. Dette skyldes trolig at en del i denne gruppen fikk mulighet til å starte uttaket av alderspensjon før 67 år, noe som også ga mulighet for en tidligere avgang. For alle sektorene har en omlegging av datagrunnlaget fra 2015 trolig bidratt til lavere avgangsalder for de yngste årskullene.
+
+Mange kan ha en gradvis overgang mellom arbeid og pensjon. Eksempelvis vil noen arbeidstakere som slutter i sin opprinnelige stilling likevel beholde eller inngå et mindre arbeidsforhold. Det er rimelig å anta at personer som har et mindre arbeidsforhold, for eksempel ti timer per uke, har behov for supplerende inntektskilder som alderspensjon, og at de av den grunn kan anses å ha hatt avgang fra arbeidslivet. Det kan derfor være argumenter for å benytte en strengere definisjon av å være «i arbeid», for eksempel at en skal ha et arbeidsforhold tilsvarende minst 50 prosent stilling.
+
+Tabell 12.2 viser utviklingen i andelen som fortsatt er rapportert med et arbeidsforhold med minst 20 timer per uke ved ulike aldre, for årskullet 1954, av de som sto i arbeid ved 61 år i 2015.
+
+Andelen i jobb er basert på data ved utgangen av året. Personer født i 1954 var ved utgangen av 2015 i gjennomsnitt 61,5 år, ved utgangen av 2016 i gjennomsnitt 62,5 år osv. Tabellen kan leses slik at for 1954-kullet, som kan observeres fram til utgangen av året de fyller 67 år (2021), var eksempelvis 83 prosent av de som var i arbeid året de fylte 61 år fortsatt i arbeid minst 20 timer per uke ved utgangen av året de fylte 62 år, og 73 prosent fortsatt i arbeid ved utgangen av det året de fylte 63 år.
+
+Andelen som fortsatt står i arbeid, minst 20 timer per uke, blant personer født 1954. Prosent
+
+05J1xt2
+
+|                  | Alle | Privat med AFP | Privat uten AFP | Offentlig |
+|------------------|-----:|---------------:|----------------:|----------:|
+| 2015 (≈ 61,5 år) |  100 |            100 |             100 |       100 |
+| 2016 (≈ 62,5 år) |   83 |             79 |              87 |        83 |
+| 2017 (≈ 63,5 år) |   73 |             67 |              81 |        73 |
+| 2018 (≈ 64,5 år) |   66 |             58 |              75 |        66 |
+| 2019 (≈ 65,5 år) |   53 |             48 |              66 |        50 |
+| 2020 (≈ 66,5 år) |   42 |             38 |              56 |        39 |
+| 2021 (≈ 67,5 år) |   27 |             25 |              41 |        22 |
+
+Arbeids- og velferdsdirektoratet.
+
+Avgangsmønsteret blant de som står i arbeid ved 61-års alder varierer mellom sektorene. Figur 5.5 i kapittel 5 viste at det er tydelige topper i avgangsmønsteret, som sammenfaller med aldersgrensene i pensjonssystemet. Hvis en ser nærmere på avgangsmønsteret blant de som jobber i privat sektor uten AFP-avtale, er det relativt få som går av tidlig. I 1954-kullet hadde 13 prosent avgang i året de fylte 62 år, totalt 19 prosent innen utgangen av året de fylte 63 år, og totalt 25 prosent innen utgangen av året de fylte 64 år. Median avgangsalder for denne gruppen, gitt betingelsen om minst 20 timer arbeid per uke for å defineres til å være i arbeid, er beregnet til 66,9 år. Den er noe høyere for menn (67,1 år) enn for kvinner (66,5 år).
+
+Det er tidligere vist til at nye opptjeningsregler medfører at uføre får en alderspensjon som om han eller hun hadde stått i arbeid til om lag 65 og et halvt år, og deretter sluttet i arbeid og tatt ut full alderspensjon. Nær halvparten av alle i 1954-kullet som stod i arbeid ved 61 år, og som heller ikke ble uføre, jobber mindre enn 20 timer per uke ved 65 og et halvt års alder. Mange av de som går av tidlig har tilgang på andre pensjonsordninger, for eksempel rett til AFP i privat sektor, men selv når en kun ser på gruppen som jobber i privat sektor uten AFP-avtale, har om lag en tredel hatt avgang fra arbeidslivet ved 65,5 års alder. Under forutsetning av at uføre i denne sektoren ellers er lik de ikke-uføre i samme sektor, vil gjeldende regelverk medføre at om lag en tredel kommer bedre ut pensjonsmessig som følge av uførheten, mens to tredeler kommer dårligere ut.
+
+### Insentiver
+
+Det er i utgangspunktet strenge vilkår for å få innvilget en helserelatert ytelse, men avgjørelsen vil til en viss grad være påvirket av pasientens egne opplysninger om og vurderinger av, egen helse. Noen vil kunne fortsette i arbeid til tross for at en har et sykdomsbilde som tilsier at en søknad om en helserelatert ytelse ville blitt innvilget. Det kan dermed ikke utelukkes at personer med et helseproblem i noen tilfeller kan stå overfor et valg mellom å fortsette i arbeid, ta ut alderspensjon eller søke om en helserelatert ytelse.
+
+Dersom de helserelaterte ytelsene blir et økonomisk sett gunstigere alternativ, kan det føre til økt press på disse ytelsene. En av tre avslutter arbeidslivet med mottak av uføretrygd. For personer som befinner seg i en helsemessig gråsone mot slutten av arbeidslivet, kan det gi en betydelig økonomisk gevinst å få innvilget uføretrygd, og dermed utsette uttaket av alderspensjon til 67 år, framfor å ta ut alderspensjonen tidlig. Gevinsten for den enkelte sammenliknet med alderspensjon tatt ut ved 62 år kan anslås til en økning i alderspensjon etter skatt på opp mot 20 prosent (se figur 12.11 og figur 12.12). Videre vil uføretrygden som mottas i alderen 62–66 år i gjennomsnitt gi høyere inntekt enn alderspensjonen tatt ut fra 62 år.
+
+Dersom nivået på uføres alderspensjon blir for høyt sammenliknet med arbeidsføres, f.eks. gjennom at alderen hvor uføre overføres til alderspensjon økes med mer enn økningen i avgangsalderen blant arbeidsføre, vil det kunne gi et økende press i retning av å avslutte arbeidslivet med mottak av uføretrygd, særlig for dem med behov for eller ønske om å slutte tidlig. Det vil kunne stride mot pensjonsreformens prinsipp om at den enkelte selv må finansiere sin egen tidligavgang og kan utfordre både den sosiale og den økonomiske bærekraften. Samtidig vil også en selvfinansiert tidligavgang blant personer som reelt sett ikke har mulighet til å stå i jobb grunnet helseproblemer, kunne oppfattes som en utfordring for den sosiale bærekraften.
+
+Pensjonsreformen har påvirket insentivene til å søke om uføretrygd i ulik retning for ulike grupper. I utgangspunktet har ikke reformen av folketrygdens alderspensjon samlet sett gitt sterkere insentiver til å søke om en uføreytelse. Samtidig er levealdersjusteringen den viktigste stabiliseringsmekanismen som bidrar til å gjøre pensjonssystemet bærekraftig. Dersom insentivene utformes slik at en stor gruppe helt eller delvis unntas effekten av levealdersjusteringen, kan det bli en utfordring for den økonomiske bærekraften – særlig hvis denne gruppen øker over tid.
+
+Før 2011 hadde personer som var under 67 år og som hadde behov for å slutte i arbeid, det være seg grunnet helseproblemer, arbeidsmarkedsproblemer eller andre forhold, ingen andre alternativer til livsopphold enn AFP, dagpenger og helserelaterte ytelser (samt eventuelt særalderspensjon, privat forsørgelse og økonomisk sosialhjelp). AFP-ordningen er foreløpig uendret i offentlig sektor, og i omleggingen av AFP-ordningen i privat sektor var det et uttalt mål at omleggingen i seg selv ikke skulle endre nivået på samlet pensjon ved 62 år. Evalueringen av AFP-ordningen viste til at gjennomsnittlig, samlet ytelse for nye mottakere av AFP ved 62 år var på samme nivå som for en mottaker fra 1943-kullet, som gikk av med gammel AFP. For personer uten rett til AFP, har det med pensjonsreformen blitt mulig å ta ut pensjon fra 62 år under forutsetning av tilstrekkelig opptjening. I den grad en prosess som leder til en søknad om uføretrygd, herunder utredning, behandling og arbeidsmarkedstiltak, anses som et onde, vil insentivene til uføretrygd i denne gruppen være svekket siden tidlig uttak av alderspensjon fra folketrygden kommer inn som et alternativ. På den andre siden er det en liten gruppe blant de som tidligere hadde rett til AFP fra 62 år, men som etter reformen ikke har rett til uttak fra 62 år grunnet lav opptjening. Blant disse er insentivene til å søke om uføretrygd økt sammenliknet med før reformen.
+
+De studiene som har sett på sammenhengen mellom aldersgrenser i pensjonssystemet og tilbøyeligheten til å søke uføretrygd, spriker i resultatene, fra å ikke kunne påvise slike effekter, til å finne svært ulike grader av veksling. Staubli og Zweimüller (2013) finner at en østerriksk reform der nedre aldersgrense for tidlig pensjonsuttak økte fra 60 til 62 år for menn og fra 55 til 58 år og 3 måneder for kvinner, hadde liten effekt på graden av uføretrygd, men stor effekt på arbeidsledighetstrygd. På den andre siden viste Duggan m.fl. (2007) at økningen i aldersgrensen for fullt pensjonsuttak fra 65 til 67 år i USA i 1983 ledet til økt uføretrygding blant både menn og kvinner i alderen 45 til 64 år, og antyder at effekten vil bli enda sterkere ettersom årskullene blir fullt eksponert for den økte aldersgrensen. Atalay og Barrett (2017) studerte en australsk pensjonsreform fra 1993 som gradvis økte pensjonsalderen for kvinner fra 60 til 65 år, og fant en økning i uføretrygding med om lag 20 til 34 prosentpoeng. Atav m.fl. (2019) finner imidlertid at en gradvis økning i pensjonsalderen i Nederland ikke ser ut til å ha påvirket uføretilbøyeligheten i de studerte årskullene (1950–1952).
+
+For Norge fant Hernæs m.fl. (2016) at pensjonsreformen hadde beskjeden effekt på uføreandelene. De finner at uføretilbøyeligheten blant personer i privat sektor som tidligere kunne tatt AFP, men som etter reformen ikke kvalifiserer for folketrygd og dermed mistet muligheten til å gå av tidlig, økte med 1,7 prosentpoeng (27 prosent). Kruse og Myhre (2021) finner at personer som mistet retten til AFP som følge av konkurs i bedriften har nærmere 50 prosent større sannsynlighet for å få uføretrygd enn personer som beholdt retten til AFP. Bratsberg m.fl. (2013) viste at å miste jobben øker uføresannsynligheten til det dobbelte. Johnsen m.fl. (2020) viste at innføringen av AFP i 1989 hadde sterk negativ effekt på uføretrygding for personer som fikk tidligere tilgang til pensjon. Studien viste at uføretrygd stod for over 60 prosent av «programvekslingseffekten» for menn, og omtrent en tredel av den totale effekten på tidlig pensjonsuttak. Effekten er noe svakere for kvinner.
+
+I tråd med at økende levealder anslås å henge sammen med bedre helse, er det grunn til å forvente videre nedgang i andelen uføre i 50- og 60-årene alt annet likt. I tillegg til å følge med på utviklingen i arbeidsføres avgangsmønster, mener utvalget det er viktig å følge med på utviklingen i andelen uføre i denne aldersgruppen.
+
+### Utvalgets vurderinger
+
+Levealdersjusteringen av alderspensjonen vil medføre at uføre får et stadig lavere pensjonsnivå, sett i forhold til lønnsnivået i samfunnet og nivået på egen uføretrygd før overgangen til alderspensjon. Dersom arbeidsføre i yngre årskull står lenger i arbeid, vil uføre også over tid få et lavere pensjonsnivå relativt til arbeidsføre. Det er grunn til å anta at avgangsalderen blant arbeidsføre vil øke over tid. Utsatt avgang medfører – alt annet likt – høyere pensjonsnivåer, og utvalget anbefaler derfor justeringer i regelverket som vil sikre uføre en bedre alderspensjon enn det dagens regler vil innebære.
+
+Utvalget vurderer at det ikke har avgjørende betydning om det er levealdersjusteringen eller andre forhold som er årsaken til at avgangsalderen blant arbeidsføre øker. Utvalgets flertall, alle unntatt Fuglevaag og Søviknes, mener at regelverket for uføres alderspensjon bør ta utgangspunkt i hvor lenge arbeidsføre står i arbeid og den forventede utviklingen framover. Selv om yrkesaktiviteten blant eldre har økt etter pensjonsreformen, er det i første rekke avviklingen av den gamle AFP-ordningen i privat sektor som så langt har gitt en tydelig vekst i avgangsalderen. I de andre delene av norsk økonomi har fleksibiliteten som fulgte med det nye regelverket fra 2011 trukket i retning av større spredning, og mange arbeidsføre velger avgang fra arbeidslivet før 67 år. Med utgangspunkt i dagens avgangsmønster blant arbeidsføre, mener utvalget at regelverket for beregning av uføres alderspensjon i gammel opptjeningsmodell er rimelig, og at det ikke er behov for større justeringer i pensjonsnivået for de første årskullene som er delvis omfattet av ny opptjeningsmodell.
+
+Fram mot 2030 – når 1963-kullet fyller 67 år og ny opptjeningsmodell er fullt innfaset – vil det etter utvalgets syn i tiltakende grad bli behov for justeringer. Utvalget viser til modellen for økte aldersgrenser som er presentert i kapittel 9, og vurderer at uføre bør sikres en bedre alderspensjon ved at alderen for opptjening og overgang til alderspensjon økes. En skjematisk økning i aldersgrensene må nødvendigvis være basert på antakelser om framtidige tilpasninger. Det er krevende å gi prognoser på utviklingen i avgangsmønsteret framover, og utviklingen vil påvirkes av både tilbuds- og etterspørselssiden i arbeidsmarkedet. Gitt en videreføring av avgangsmønsteret som er observert i perioden 2011–2020, vil det bli en relativt beskjeden økning i avgangsalderen fram mot 1963-kullet. Sterkere levealdersjustering og innfasing av ny opptjeningsmodell vil imidlertid kunne føre til en sterkere vekst i avgangsalderen. Utvalget legger til grunn at overgangskullene vil bli dekket på en tilfredsstillende måte ved å øke øvre alder for opptjening til alderspensjon for uføre (dagens 62-årsgrense), basert på en antakelse om at arbeidsføre i årskullene 1954–1962 vil stå stadig lenger i arbeid. Dette diskuteres og illustreres nærmere i kapittel 14, hvor utvalgets flertall, alle unntatt Fuglevaag og Søviknes, foreslår at uføre født 1954–1963 skal ha opptjening til 65 år i ny opptjeningsmodell. Fuglevaag og Søviknes foreslår at uføre i disse årskullene skal ha opptjening til 67 år i ny opptjeningsmodell for alderspensjon.
+
+Over tid vil økt opptjening for uføre gjennom å heve dagens øvre aldersgrense for pensjonsopptjening for uføre ikke være tilstrekkelig, under forutsetning av at arbeidsføre står stadig lenger i arbeid. Uføre i yngre årskull bør sikres en høyere alderspensjon ved at alderen for opptjening og overgang til alderspensjon økes fra og med 1964-kullet, i tråd med modellen for økte aldersgrenser som er presentert i kapittel 9. Utvalgets flertall vil imidlertid understreke at regelverket bør ta utgangspunkt i hvor lenge arbeidsføre *faktisk* står i arbeid. Dersom arbeidsføre i yngre årskull benytter fleksibiliteten i det nye systemet til å gå av tidligere enn det som kreves for fullt ut å kompensere for effekten av levealdersjusteringen, mener flertallet at det er rimelig at uføre heller ikke skjermes fullt for effekten av levealdersjusteringen. Dette diskuteres nærmere i kapittel 14, hvor utvalgets flertall, alle unntatt Fuglevaag og Søviknes, legger seg på en noe forsiktig antakelse om i hvor stor grad arbeidsføre utsetter avgangen fra arbeid, og av den grunn tilrår en skjermingsgrad i størrelsesorden en halv til to tredeler. Fuglevaag og Søviknes mener uføre fra og med 1964-kullet, bør skjermes helt fra virkningen av levealdersjustering, uavhengig av arbeidsføres tilpasning.
+
+Utvalget tilrår at nivået på uføres alderspensjon vurderes etter en viss tid – hvert tiende år – i lys av utviklingen i avgangsmønsteret blant arbeidsføre. I en slik vurdering bør det også ses hen til utviklingen i andelen uføre. Av hensyn til økonomisk bærekraft, og fordi den videre utviklingen i de arbeidsføres avgangsmønster er usikker, bør en legge til grunn en forsiktig antakelse om i hvor stor grad arbeidsføre utsetter avgangen fra arbeid. Det vil trolig være enklere å forbedre uføres alderspensjon enn å stramme inn på et senere tidspunkt, dersom arbeidsføres avgangsmønster tilsier at det er behov for det. Kapittel 14 presenterer beregninger av utgifts- og ytelsesnivå med utgangspunkt i ulike antakelser om arbeidsføres tilpasning.

@@ -1,3 +1,3 @@
-# Siste kjøring av innboksen (2026-11-14 07:04)
+# Siste kjøring av innboksen (2026-11-14 07:08)
 
-- **prp202520260033000ddddocx.docx**: lest inn i «Prop. 33 L (2025–2026)» (3475 ord, PDF-teksten hadde 3765).
+- **nou202220220007000ddddocx.docx**: lest inn i «NOU 2022: 7» (196689 ord, PDF-teksten hadde 210798).

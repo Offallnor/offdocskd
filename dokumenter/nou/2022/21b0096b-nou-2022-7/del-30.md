@@ -1,1167 +1,809 @@
-# NOU 2022: 7, del 30 av 31 (side 348–361)
+# NOU 2022: 7, del 30 av 32
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
 - Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 348]
-
-346
-
-Kapittel 14
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-pris; forslagene vil gi en betydelig vekst i pensjonskostnadene sammenliknet med referansebanen og svekke den økonomiske bærekraften i
-pensjonssystemet. Samtidig vil det være av stor
-verdi å etablere et system for regulering av minsteytelser og uføres alderspensjon som kan bidra
-til å styrke den sosiale bærekraften og oppslutningen om pensjonssystemet. Utvalget mener derfor
-at de økte kostnadene kan forsvares. Det vil imidlertid være viktig å følge utviklingen framover,
-særlig utviklingen i yrkesaktives avgangsmønster.
-Utvalget vil også peke på at det helt siden Uførepensjonsutvalgets innstilling NOU 2007: 4, har
-vært lagt til grunn at uføres alderspensjon over tid
-ikke skal svekkes sammenliknet med arbeidsføres. Dette ligger imidlertid ikke inne i referansebanen. Det er ikke mulig å finne en løsning for
-uføres alderspensjon uten at kostnadene øker.
-Som beskrevet i kapittel 8 vil det finanspolitiske handlingsrommet bli strammere framover.
-Flertallets forslag innebærer økte pensjonskostnader på om lag 20 mrd. 2021-lønnskroner i 2060 og
-om lag 45 mrd. 2021-lønnskroner i 2080. Mindretallets forslag gir en økning på vel 27 mrd. kroner
-i 2060 og om lag 63 mrd. kroner i 2060. Dersom
-utvalgets forslag om å øke aldersgrensene gir økt
-arbeidstilbud og økte skatteinntekter ut over det
-som framkommer i beregningene, trekker det i
-
-retning av at belastningen på statsfinansene blir
-mindre. Både flertallets og mindretallets samlede
-forslag vil likevel i sum svekke statsfinansene. Gitt
-at forslagene ikke dekkes inn med andre innstramminger i pensjonssystemet, vil det måtte
-finansieres ved innstramminger på andre utgiftsområder eller økt skatt.
-Utvalget har i tråd med mandatet, lagt til
-grunn at hovedprinsippene i pensjonsreformen
-skal ligge fast. Utvalget har vurdert nødvendige
-justeringer i pensjonsreglene, og har konsentrert
-arbeidet om aldersgrensene og pensjonssystemets sosiale bærekraft.
-Utvalget har bedt Statistisk sentralbyrå om å
-beregne konsekvensene av ulike innstramminger i
-pensjonssystemet. Flere av tiltakene som er beregnet innebærer endringer i sentrale parametere i
-pensjonssystemet. Utvalget understreker at disse
-innstrammingene ikke er noe utvalget foreslår og
-at konsekvensene av tiltakene ikke er tilstrekkelig
-utredet. Beregningene illustrerer imidlertid størrelsesorden på effektene av ulike tiltak, og kan
-bidra til å sette de økonomiske konsekvensene av
-utvalgets samlede forslag i perspektiv. Se boks 14.2.
-I oppfølgingen av utvalgets innstilling mener
-utvalget det bør vurderes endringer i skattereglene for pensjonister som reduserer skattefordelene for pensjonister.
-
-Boks 14.2 Innsparing ved ulike endringer i pensjonssystemet
-6 G. Tabellen viser at dette vil gi en innsparing
-Statistisk sentralbyrå har beregnet konsekvenpå 14 mrd. lønnskroner i 2060 og om lag 21 mrd.
-sene av ulike innstramminger i pensjonssysi 2080. Redusert tak for opptjening vil gi lavere
-temet. Beregningene er gjennomført med
-pensjon til alle som har inntekt over 6 G. Det vil
-utgangspunkt i alternativet Lønnsregulering, to
-gi et flatere pensjonssystem og flere garantipentredels skjerming i tabell 14.3, dvs. med økte
-sjonister blant personer med svært variabel innaldersgrenser fra og med 1964-kullet, minstetektshistorikk.
-ytelsene reguleres med lønnsveksten, årskullDen andre endringen innebærer å redusere
-spesifikk minsteytelse, opptjening til 65 år i ny
-satsen for årlig opptjening av inntektspensjon fra
-opptjeningsmodell for uføre, og der uføre skjer18,1 til 17 prosent. Tiltaket reduserer pensjonen
-mes for to tredeler av virkningen av levealderstil alle som tjener opp inntektspensjon og vil gi
-justering fra 1964-kullet.
-en betydelig innsparing på sikt. Merk at beregDet er betydelige samspillseffekter mellom
-ningen av innsparingen ved lavere opptjeningsflere av tiltakene som er beregnet. Dette er hensats er gjennomført gitt at taket for opptjening
-syntatt ved at tre endringer i sentrale parameførst er redusert til 6 G. Med et tak for opptjetere er beregnet suksessivt. Virkningen av
-ningen på 7,1 G ville virkningen av redusert oppøvrige endringer er beregnet isolert. Det vil
-tjeningssats vært større. Også lavere opptjeimidlertid også kunne være samspillseffekter
-ningssats vil gi flere garantipensjonister og et
-mellom disse tiltakene og andre tiltak. Tabell
-flatere pensjonssystem. Tabellen viser at dette
-14.8 viser resultatet av beregningene.
-vil gi en innsparing på ytterligere 7,3 mrd. i 2060
-Den første endringen er å redusere taket for
-og 11,6 mrd. i 2080.
-årlig opptjening av inntektspensjon fra 7,1 til
-
-[Side 349]
-
-347
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Kapittel 14
-
-Boks 14.2 forts.
-Tabell 14.8 Innsparinger ved ulike endringer i pensjonssystemet. Mrd. 2021-kroner (lønnsdeflatert)
-2060
-
-2080
-
-Opptjeningstak på 6 G
-
-14,0
-
-21,2
-
-+ Opptjeningssats 17 prosent
-
-7,3
-
-11,6
-
-+ Garantipensjonen avkortes med 90 prosent mot inntektspensjon
-
-8,3
-
-11,0
-
-29,6
-
-43,8
-
-Regulering av løpende pensjoner med prisveksten
-
-31,3
-
-33,8
-
-Minsteytelser reguleres med lønnsvekst fratrukket 0,3 prosent
-
-9,1
-
-16,0
-
-Garantipensjonen for gifte videreføres nominelt til forskjellen mellom
-enslige og gifte tilsvarer ekvivalens på 1,7
-
-2,3
-
-2,9
-
-Endring i sentrale parametere:
-
-Samlet innsparing
-Isolert virkning av andre endringer:
-
-Den tredje endringen er å øke avkortingen av
-garantipensjonen mot opptjent tilleggspensjon
-fra 80 til 90 prosent. Innsparingen ved denne
-endringen er i samme størrelsesorden som ved
-å redusere opptjeningssatsen fra 18,1 til 17 prosent gitt at ovennevnte innstramminger gjennomføres først – om lag 8,3 mrd. i 2060 og 11
-mrd. i 2080. Økt avkorting av garantipensjonen
-vil redusere pensjonen til alle som i utgangspunktet mottar en avkortet garantipensjon, og
-det vil redusere antall garantipensjonister. Det
-vil samtidig svekke arbeidsinsentivene noe for
-de som fortsatt befinner seg i avkortingsintervallet.
-Å regulere løpende pensjoner med prisveksten i stedet for med gjennomsnittet av prisog lønnsvekst, fra 2023 anslås å redusere utgiftene med 31,3 mrd. kroner i 2060 og 33,8 mrd.
-kroner i 2080 gitt en reallønnsvekst på 1,5 prosent. Lavere regulering av løpende pensjoner er
-et tiltak som vil ha forholdsvis umiddelbar effekt
-på utgiftsveksten sammenliknet med f.eks. redusert opptjening som først får betydning på noe
-sikt. Allerede første år vil regulering med prisveksten gi en innsparing på 2,5 mrd. kroner
-sammenliknet med å regulere med et gjennomsnitt av pris- og lønnsveksten. Den faktiske reallønnsveksten vil ha betydning for hva innsparingen blir i et enkelt år. Regulering med prisveksten vil gi lavere vekst i alle pensjoner under
-
-utbetaling. Det vil sikre kjøpekraften til pensjonistene, men de vil ikke få del i den generelle
-velstandsutviklingen.
-Å regulere minsteytelsene ved den normerte
-pensjonsalderen med lønnsvekst fratrukket 0,3
-prosent i stedet for med lønnsveksten, vil isolert
-sett gi en innsparing på om lag ni mrd. kroner i
-2060 og 16 mrd. kroner i 2080. Det vil innebære
-at minsteytelsene reguleres gunstigere enn med
-dagens regler, jf. figur 14.7, men vil ikke følge
-opp prinsippet om at minstenivåene bør utvikle
-seg i takt med den generelle velstandsutviklingen, operasjonalisert ved lønnsveksten.
-I kapittel 11 peker utvalget på at det bør vurderes å øke forskjellen mellom garantipensjonen for enslige og for gifte. Skalaen som OECD
-benytter gir den andre personen i en husholdning med to personer en vekt på 0,7, slik at en
-husholdning med to voksne trenger 70 prosent
-høyere inntekt enn en person som lever alene.
-Dersom garantipensjonen til gifte videreføres
-nominelt, vil det ta anslagsvis 2–3 år før forskjellen på ytelsen til enslige og gifte tilsvarer en
-ekvivalens på 1,7. Lengden på innfasingsperioden avhenger av den faktiske lønnsveksten. Tiltaket vil imidlertid først få full effekt når minsteytelsene i gammel alderspensjon er fullt utfaset.
-Innsparingen kan anslås til i underkant av tre
-mrd. kroner årlig etter full innfasing.
-
-[Side 350]
-
-348
-
-Kapittel 14
-
-NOU 2022: 7
-Et forbedret pensjonssystem
+# Samlet tilrådning – Løsning for minsteytelsene og uføres alderspensjon
 
-14.7 Økonomiske konsekvenser av
-utvalgets samlede forslag
-Som påpekt i avsnitt 14.6.5 vil utvalgets forslag gi
-en betydelig vekst i pensjonskostnadene sammenliknet med referansebanen og svekke den økonomiske bærekraften i pensjonssystemet. Utvalget
-mener at økte aldersgrenser for arbeidsføre vil
-påvirke pensjoneringsnormene og dermed gi økt
-arbeidstilbud og økte skatteinntekter. Utvalgets
-samlede forslag vil likevel i sum svekke statsfinansene. Samtidig vil det være av stor verdi å
-etablere et system for regulering av minsteytelser
-og uføres alderspensjon som kan bidra til å styrke
-den sosiale bærekraften og oppslutningen om
-pensjonssystemet. Utvalget mener derfor at de
-økte kostnadene kan forsvares. Det vil imidlertid
-være viktig å følge utviklingen framover, særlig
-utviklingen i yrkesaktives avgangsmønster.
-Flertallets hovedforslag innebærer:
-– Økte aldersgrenser for arbeidsføre, herunder
-økte aldersgrenser for å kunne motta uføretrygd og andre folketrygdytelser
-– Lønnsjustering av minsteytelser fra 2023 og
-årskullspesifikke minsteytelser
-– Opptjening til 65 år i ny alderspensjon for uføre
-fra 1954- til 1963-kullet, og videre økning i opptjeningsalderen i takt med økningen i den normerte pensjoneringsalderen
-– Halv til to tredels skjerming av uføre for virkningen av levealdersjusteringen fra 1964-kullet
-Tabell 14.9 viser samlet anslått virkning av
-disse endringene på pensjonskostnadene, bidragsraten og netto skattesats. Effekten av at økte
-aldersgrenser vil påvirke pensjoneringsnormene
-er ikke ivaretatt i beregningene. Økt arbeidstilbud
-og økte skatteinntekter ut over det som er hensyn-
+## Innledning og sammendrag
 
-tatt i beregningene, vil ikke gi reduserte pensjonskostnader, tvert imot, men det vil redusere veksten i bidragsraten og særlig netto skattesats. På
-den andre siden er det heller ikke tatt hensyn til
-mulige atferdsendringer av endringene i skjermingsreglene for uføre. Se nærmere drøfting i
-avsnitt 9.8. Det understrekes at beregningene er
-usikre, jf. boks 14.3.
-Tabell 14.10 viser en dekomponering av veksten i pensjonskostnadene ved utvalgets forslag
-sammenliknet med referansebanen i årene 2060
-og 2080. Tiltakene er lagt på i den rekkefølgen de
-står i tabellen. På grunn av samspillseffekter,
-påvirker rekkefølgen den relative betydningen tiltaket får i tabellen.
-I tillegg har utvalget enkelte andre tilrådinger
-som vil kunne ha økonomiske konsekvenser som
-ikke hensyntas i beregningene over.
-I kapittel 9 peker utvalget på at det bør vurderes å øke den nedre aldersgrensen mer enn de
-øvrige aldersgrensene i pensjonssystemet. Økt
-nedre aldersgrense vil gi en innsparing fram til ca.
-år 2040 på grunn av utsatt uttak. Deretter vil utgiftene øke fordi pensjonene i gjennomsnitt blir noe
-høyere, se figur 9.36. Det samme bildet gjelder for
-bidragsraten og netto skattesats, se figurene 9.37
-og 9.38. Utvalget mener det bør vurderes en løsning der den nedre aldersgrensen i en periode
-øker raskere enn de øvrige aldersgrensene.
-Eksempelvis kunne en sett for seg en løsning der
-avstanden mellom nedre aldersgrense og den normerte pensjoneringsalderen reduseres over en
-periode fra dagens fem år til tre år. I så fall vil innsparingen komme noe senere, og det vil gå noe lengre tid før opptjeningseffekten er større enn utsettelseseffekten.
+Utvalget har blant annet fått i oppdrag å vurdere endringer i pensjonssystemet som kan sikre pensjonssystemets økonomiske og sosiale bærekraft. Sentralt i dette arbeidet har vært å vurdere:
 
-Tabell 14.9 Pensjonskostnader, bidragsrate og netto skattesats ved utvalgets samlede forslag
-Pensjonskostnader
-(Mrd. 2021-lønnskroner)
-
-Bidragsrate
-(Prosent)
-
-Netto skattesats
-(Prosent)
-
-2040
-
-341,2–341,8
-
-18,2
-
-15,0
-
-2060
-
-382,4–385,5
-
-19,7–19,8
-
-16,0–16,1
-
-2080
-
-415,3–420,7
-
-21,1–21,3
-
-16,9–17,0
-
-Endring fra referansebanen. Kostnader i mrd. kroner. Bidragsrate og skattesats i prosentpoeng
-2040
-
-4,8–5,3
-
-0,2
-
-0,1–0,2
-
-2060
-
-19,0–22,0
-
-0,8–0,9
-
-0,5
-
-2080
-
-42,7–48,1
-
-1,8–2,0
-
-1,0–1,1
-
-1
-
-Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger
-mv. sammenliknet med referansebanen.
-
-[Side 351]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-349
-
-Kapittel 14
-
-Boks 14.3 Usikkerhet i beregningene
-Et annet eksempel er effekten av regelEndringer i pensjonssystemet vil ofte først få full
-endringer på omfanget av uføretrygding. Det er
-effekt langt fram i tid. For å vurdere virkningene
-dokumentert at hvor mange som blir uføre også
-av nye regler, må vi derfor anslå hvordan
-kan påvirkes av hvor økonomisk gunstig det er å
-endringene vil virke om mange år. De fleste
-bli uføretrygdet. En viktig forskjell mellom de
-beregningene i denne rapporten er gjennomført
-alternativene som utvalget har fått beregnet er
-på Statistisk sentralbyrås modell Mosart. Se
-hvor gunstig reglene for alderspensjon til uføre
-boks 8.3 for en nærmere beskrivelse av modeler. Hvor mange som blir uføretrygdet påvirkes
-len. Mosart har en svært detaljert modellering
-imidlertid ikke av dette i modellen. Forskjellen
-av pensjons- og trygdesystemet, og er særlig
-mellom alternativene, blant annet i utgiftene til
-godt egnet for å beregne virkninger av ulike
-uføretrygd, kan derfor være større enn det som
-regelverksendringer i pensjons- og trygdeframkommer i beregningene.
-systemet. Men resultatene er naturligvis avhenFor å ivareta effekter som ikke er modellert i
-gig de forutsetningene som legges til grunn om
-Mosart, kan en justere forutsetningene i de
-blant annet demografi og yrkesdeltaking og av
-alternative beregningene, for eksempel øke
-de mekanismene som er modellert. Resultatene
-arbeidstilbudet mer enn modellen predikerer
-er derfor usikre.
-for å ivareta at økte aldersgrenser kan påvirke
-Utvalget er særlig opptatt av å belyse forskjelpensjoneringsnormene. Mulige virkninger av
-len mellom alternative regler i pensjonssysenkelte endringer som ikke er modellert er
-temet. Dette er gjort ved å sammenlikne resultabelyst ved virkningsberegninger, blant annet
-tene ved en videreføring av 2021-reglene – refemed ulike forutsetninger om arbeidstilbudet.
-ransebanen – med resultatene med alternative
-For å ta stilling til et forslag om endring i
-regler i pensjonssystemet.
-pensjonsreglene, er det nødvendig at konseForskjellene mellom beregningene er trolig
-kvensene av forslaget er godt belyst. Det kan ta
-mindre påvirket av mekanismene i Mosart og
-lang tid før vi ser de fulle effektene av endringer
-hvilke forutsetninger som er lagt til grunn i refei pensjonssystemet. Dermed er modellberegninransebanen enn nivåtallene for pensjon og
-ger, selv med de begrensninger som er nevnt,
-bidragsrate mv. Men forskjellene kan også være
-den klart beste måten å anslå virkningene på.
-påvirket av forhold som ikke er modellert i MosDet sikrer en grad av konsistens som vanskelig
-art: Endringer i pensjonsreglene kan påvirke
-kan oppnås på annen måte. Slike beregninger
-forskjellene mellom de alternativene som utvalhar sine begrensninger, men utvalget mener det
-get har fått beregnet på en måte som modellen
-er sannsynlig at Mosart-beregningene belyser
-ikke ivaretar.
-hovedtrekkene ved forskjellene mellom de alterEtt eksempel er virkningen på arbeidstilbunativene som er beregnet.
-det av økte aldersgrenser. Utvalget mener at
-Usikkerheten om resultatene øker jo lengre
-økte aldersgrenser kan bidra til å øke den gjenfram i tid vi ser fordi sannsynligheten vokser for
-nomsnittlige avgangsalderen gjennom å påvirke
-at de forutsetningene som er lagt til grunn avvipensjoneringsnormene. Denne effekten er ikke
-ker mye fra den faktiske utviklingen. Samtidig
-ivaretatt i beregningene, noe som bidrar til at de
-er det nødvendig å se godt stykke framover for å
-gunstige effektene av økte aldersgrenser kan
-vurdere endringer i pensjonsreglene.
-være undervurdert.
+1\. Aldersgrensene i pensjonssystemet
 
-I kapittel 11 peker utvalget på at det bør vurderes å øke forskjellen mellom garantipensjonen for
-enslige og for gifte. Skalaen som OECD benytter,
-gir den andre personen i en husholdning med to
-personer en vekt på 0,7, slik at en husholdning
-med to voksne trenger 70 prosent høyere inntekt
-enn en person som lever alene. Dersom garantipensjonen til gifte videreføres nominelt, vil det ta
-anslagsvis 2–3 år før forskjellen på ytelsen til ens-
+2\. Nivået på og reguleringen av minsteytelsene i pensjonssystemet
 
-lige og gifte tilsvarer en ekvivalens på 1,7. Lengden på innfasingsperioden avhenger av den faktiske lønnsveksten. Innsparingen kan anslås til i
-underkant av 3 mrd. kroner årlig etter full innfasing, jf. boks 14.2. Motsatt, om en skulle velge å
-øke avstanden gjennom å øke garantipensjonen
-for enslige, vil det øke kostnadene.
-Utvalgets forslag har administrative konsekvenser. Forslaget innebærer betydelige endringer
+3\. Reglene for alderspensjon til uføre
 
-[Side 352]
+Økte aldersgrenser er en logisk videreføring av pensjonsreformen. Formålet er å påvirke pensjoneringsnormene og bidra til lengre yrkeskarrierer. Dette vil styrke den økonomiske bærekraften i pensjonssystemet og øke den enkeltes alderspensjon. Dette kapitlet bygger på den modellen for økte aldersgrenser som er presentert i kapittel 9 der aldersgrensene øker i takt med økningen i levealderen fra og med 1964-kullet.
 
-350
+Bakgrunnen for å gjøre endringer i reglene for uføres alderspensjon og minsteytelsene er å bedre den sosiale bærekraften i pensjonssystemet. Det er ikke mulig å gjøre endringer i reglene for uføres alderspensjon og minsteytelsene som bedrer den sosiale bærekraften i pensjonssystemet, uten at det medfører økte kostnader. Det er altså en motsetning mellom ønskene om å sikre *både* den sosiale *og* den økonomiske bærekraften.
 
-Kapittel 14
+Samtidig er sosial og økonomisk bærekraft gjensidig avhengige, se kapittel 4. Pensjonssystemets sosiale bærekraft avhenger av at det er økonomisk bærekraftig og har tilstrekkelig legitimitet både gjennom at det er, og at det oppfattes som, rettferdig – også blant de yrkesaktive som bidrar til systemet gjennom skatter og avgifter.
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+Utvalgets prinsipielle utgangspunkt ved vurderingen av reglene for minsteytelsene og uføres alderspensjon er at:
 
-Tabell 14.10 Dekomponering av endringen i pensjonskostnader ved flertallets samlede forslag. Mrd. 2021kroner (lønnsdeflatert)
-Endring i pensjonskostnader fra referansebanen
-Beskrivelse
+- minstenivåene for nye alderspensjonister bør utvikle seg i takt med velstandsutviklingen, og
+
+- uføres alderspensjon bør over tid stabiliseres i forhold til sammenliknbare arbeidsføres[^123] alderspensjon.
+
+Det er ikke åpenbart hvordan det andre prinsippet skal operasjonaliseres siden det kan være ulike vurderinger av hva som bør legges til grunn om den framtidige utviklingen i arbeidsføres avgangsalder. Det første prinsippet peker imidlertid mer entydig mot at minstenivåene reguleres i takt med den alminnelige lønnsveksten i samfunnet.
+
+De ulike alternativene presenteres skrittvis. Avsnitt 14.2 bygger på kapittel 9 og viser hvordan økte aldersgrenser vil dempe den kostnadsøkningen som ville blitt resultatet dersom uføre skjermes for virkningen av levealdersjustering og minsteytelsene får en gunstigere regulering enn med reglene som gjaldt fram til 2021, men uten at aldersgrensene øker.
+
+Utvalgets vurdering av minsteytelsene gjengis i avsnitt 14.3 som bygger på omtalen i kapittel 11. Utvalget tilrår at minsteytelsene ved normert pensjoneringsalder reguleres med lønnsveksten. Regulering med lønnsveksten må ses i sammenheng med at tidspunktet for når minsteytelser ubetinget kan mottas, justeres oppover med utviklingen i normert pensjoneringsalder fra og med 2031. Utvalgets flertall tilrår videre at minsteytelsene under utbetaling reguleres med gjennomsnittet av pris- og lønnsveksten som øvrige pensjoner under utbetaling.
+
+Ulike løsninger for uføres alderspensjon belyses i avsnitt 14.4. Det bygger på omtalen i kapittel 12. Først vises virkninger av ulik grad av skjerming når ny folketrygd er fullt innfaset, dvs. fra og med 1964-kullet. Det er mulig å avvente ytterligere skjerming av uføre født før 1964 ut fra en vurdering av yrkesaktives tilpasning. Utvalget mener imidlertid at også uføre i årskullene 1954–1963 bør få økt alderspensjon, og at økt alder for opptjening i ny opptjeningsmodell for alderspensjon er en hensiktsmessig måte å gjøre dette på, se kapittel 12. Avsnitt 14.4.3 viser virkninger av å øke opptjeningsalderen for uføre i ny opptjeningsmodell for alderspensjon fra 62 år til henholdsvis 65 og 67 år for årskullene 1954–1963 og videre i takt med økningen i den normerte pensjoneringsalderen for etterfølgende årskull.
+
+I avsnitt 14.5 presenteres noen mulige samlede løsninger for minsteytelsene og uføres alderspensjon, mens utvalgets vurderinger oppsummeres i avsnitt 14.6. Avsnitt 14.7 oppsummerer de økonomiske konsekvensene av utvalgets samlede forslag.
+
+## Pensjonsreformen og økte aldersgrenser
+
+Kapittel 8 *Pensjonssystemets økonomiske bærekraft* viser at pensjonsreformen på lang sikt vil redusere veksten i pensjonsutgiftene betydelig, men at det likevel vil bli en stor utgiftsøkning framover. Økt alderspensjon til uføre og økte minsteytelser vil gi økte kostnader og dermed reversere deler av de innsparingene som følger av pensjonsreformen.
+
+Et hovedforslag fra utvalget er å øke aldersgrensene for arbeidsføre gradvis fra 1964-kullet, se kapittel 9. Vi skal i dette avsnittet vise hvordan økte aldersgrenser vil dempe den kostnadsøkningen som ville blitt resultatet dersom uføre skjermes for virkningen av levealdersjustering og minsteytelsene får en gunstigere regulering enn med reglene som gjaldt fram til 2021, men uten at aldersgrensene øker.
+
+Tabell 14.1 viser alternativene i det første settet av beregninger i dette kapitlet, som er kalt «basisalternativer». De to første alternativene, *Ingen pensjonsreform* og *Referansebanen*, er presentert i kapittel 8. Det går fram av figur 14.1 og tabell 14.2 at pensjonsutgiftene i referansebanen vokser markert mindre enn de ville gjort uten pensjonsreformen, men at det likevel er en klar vekst. Veksten i pensjonsutgiftene fra 2021 til 2060 er mer enn halvert sammenliknet med alternativet uten pensjonsreform, men pensjonsutgiftene øker likevel med over 100 mrd. 2021-lønnskroner.
+
+Basisalternativer
+
+02J1xx2
+
+| Alternativ | Beskrivelse |
+|----|----|
+| Ingen pensjonsreform | Videreføring av 2010-regler. Det betyr blant annet ingen levealdersjustering, heller ikke av uføres alderspensjon, og lønnsregulering av minsteytelser og løpende pensjoner. |
+| Referansebanen | Videreføring av 2021-regler. Det betyr blant annet full levealdersjustering av uføres alderspensjon, løpende pensjoner reguleres med lønnsveksten fratrukket 0,75 prosent og minsteytelsene reguleres med lønnsveksten fratrukket virkningen av levealdersjustering ved 67 år. |
+| Referansebanen, lønnsregulering av minsteytelser, full skjerming av uføre | Som referansebanen, men full skjerming av uføres alderspensjon for virkningen av levealdersjustering fra 1964-kullet og satsene for minsteytelsene reguleres i takt med lønnsveksten. |
+| Økte aldersgrenser | Som referansebanen, men aldersgrensene for alderspensjon og trygdeytelsene øker fra og med 1964-kullet. Det innebærer full skjerming av uføres alderspensjon fra 1964-kullet gjennom økt alder for opptjening og overgang fra uføretrygd til alderspensjon. |
+| Økte aldersgrenser, lønnsregulering av minsteytelser | Som økte aldersgrenser, men satsene for minsteytelsene reguleres i takt med lønnsveksten. |
+
+Pensjonskostnader. Mrd. 2021-kroner (lønnsdeflatert)<sup>1</sup>
+
+<sup>1</sup> Se tabell 14.1 for en presisering av alternativene. Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen.
+
+Det tredje alternativet, *Referansebanen, lønnsregulering av minsteytelser, full skjerming av uføre*, viser konsekvensene av å både regulere satsene for minsteytelsene med lønnsveksten og å skjerme uføre fullt for virkningen av levealdersjustering, men uten å øke aldersgrensene. Sammenliknet med referansebanen øker pensjonskostnadene med nesten 60 mrd. 2021-lønnskroner i 2060 og med nesten 100 mrd. i 2080.
+
+Det fjerde alternativet, *økte aldersgrenser*, er presentert i kapittel 9. Det innebærer økte aldersgrenser, også for uføre. Det betyr at uføre i utgangspunktet skjermes fullt for virkningen av levealdersjustering siden de både får økt opptjening og går over på alderspensjon ved en høyere alder. Minsteytelsene reguleres i dette alternativet med lønnsveksten fratrukket virkningen av levealdersjustering, men siden aldersgrensene øker, blir den årlige økningen i minsteytelsene større enn i referansebanen, se figur 11.23. Årsaken er at virkningen av levealdersjusteringen måles ved endringen i delingstallet ved den normerte pensjoneringsalderen, og når den normerte pensjoneringsalderen øker, så blir endringen mindre. Det går fram av figur 14.1 og tabell 14.2 at *økte aldersgrenser* etter hvert gir en økning i pensjonskostnadene sammenliknet med referansebanen, men økningen er klart mindre enn den ville vært uten økte aldersgrenser. De økte kostnadene skyldes hovedsakelig økte utgifter til uføretrygd og andre ytelser fra folketrygden og økt alderspensjon til uføre.
+
+Pensjonskostnader basisalternativene.<sup>1</sup> Mrd. 2021-kroner (lønnsdeflatert)
+
+06J1xt2
+
+<table>
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 17%" />
+<col style="width: 11%" />
+<col style="width: 14%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th>Ingen pensjonsreform</th>
+<th>Referansebanen</th>
+<th>Referansebanen, lønnsregulering av minsteytelser, full skjerming uføre</th>
+<th>Økte aldersgrenser</th>
+<th>Økte aldersgrenser, lønnsregulering av minsteytelser</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2021</td>
+<td>256,3</td>
+<td>259,0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td>408,0</td>
+<td>336,4</td>
+<td>359,4</td>
+<td>335,9</td>
+<td>341,4</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>496,0</td>
+<td>363,5</td>
+<td>422,6</td>
+<td>378,3</td>
+<td>390,1</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>563,8</td>
+<td>372,6</td>
+<td>472,4</td>
+<td>411,0</td>
+<td>430,7</td>
+</tr>
+<tr>
+<td colspan="4"><em>Endring fra referansebanen i mrd.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td></td>
+<td></td>
+<td>23,0</td>
+<td>-0,5</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>132,5</td>
+<td></td>
+<td>59,1</td>
+<td>14,9</td>
+<td>26,6</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>191,2</td>
+<td></td>
+<td>99,8</td>
+<td>38,4</td>
+<td>58,1</td>
+</tr>
+<tr>
+<td colspan="3"><em>Endring fra referansebanen i prosent</em></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td></td>
+<td></td>
+<td>6,8</td>
+<td>-0,2</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>36,5</td>
+<td></td>
+<td>16,3</td>
+<td>4,1</td>
+<td>7,3</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>51,3</td>
+<td></td>
+<td>26,8</td>
+<td>10,3</td>
+<td>15,6</td>
+</tr>
+</tbody>
+</table>
 
-2060
+<sup>1</sup> Se tabell 14.1 for en presisering av alternativene. Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen.
 
-2080
+Det femte alternativet, *økte aldersgrenser, lønnsregulering av minsteytelser*, har både full skjerming av uføre og lønnsregulering av satsene for minsteytelsene. Lønnsreguleringen øker pensjonskostnadene sammenliknet med alternativet *økte aldersgrenser* med nesten 12 mrd. 2021-lønnskroner i 2060 og med nesten 20 mrd. i 2080. Men kostnadene er vesentlig lavere enn uten økte aldersgrenser, altså i referansebanen med lønnsregulering av satsene for minsteytelsene og full skjerming av uføre.
 
-Samlede utgifter i referansebanen
+## Minsteytelsene
 
-363,5
+Utvalget er i mandatet bedt om å vurdere både nivået på minsteytelsene i dag og reguleringen av minsteytelsene framover. Siden reguleringen av minsteytelsene påvirker det framtidige nivået på ytelsene, må disse to spørsmålene vurderes samlet. I tillegg påvirkes uføres alderspensjon av nivået på og reguleringen av minsteytelsene.
 
-372,6
+Utvalget mener at det er tungtveiende argumenter for at satsene for minsteytelsene ved alderen for fritt uttak av alderspensjon – normert pensjoneringsalder – bør reguleres med lønnsveksten. For et gitt nivå på minsteytelsene, vil dette sikre at de opprettholder sin verdi sammenliknet med en gjennomsnittslønn over tid, og minsteytelsene vil øke i takt med den generelle velstandsutviklingen. Dersom de arbeidsføre ikke kompenserer fullt ut for effekten av levealdersjusteringen, vil forholdet mellom gjennomsnittlig alderspensjon til nye arbeidsføre alderspensjonister og minsteytelsene gå ned.
 
-Økte aldersgrenser for arbeidsføre
+Å regulere satsene for minsteytelsene med lønnsveksten vil øke kostnadene relativt mye: De to siste kolonnene i tabell 14.2 viste at dersom minsteytelsene reguleres med lønnsveksten, så øker pensjonskostnadene i 2060 med 11,7 mrd. 2021-lønnskroner sammenliknet med å bare øke aldersgrensene, mens økningen i 2080 er på 19,6 mrd. kroner.
 
--3,1
-
-6,3
-
--10,5
-
--3,7
-
-herunder vekst i utgifter til uføretrygd, AAP og etterlatte
-
-3,6
-
-4,2
-
-herunder vekst i utgifter til andre korttidsytelser for personer 62 år og eldre
-
-3,8
-
-5,9
-
-13,3
-
-25,0
-
-+ Halv til to tredels skjerming for uføre fra 1964-kullet
-
-8,3–11,0
-
-12,4–16,7
-
-herunder utgifter til alderspensjon til tidligere uføre
-
--2,9– -3,9
-
--4,5– -5,3
-
-herunder vekst i direkte utgifter til uføretrygd
-
-11,2–14,9 16,9–22,0
-
-herunder vekst i utgifter til alderspensjon
-
-+ Lønnsregulere minsteytelsene
-
-+ Økt opptjening til 65 år for uføre fra 1954-kullet
-
-2,5–2,7
-
-2,2–2,6
-
-+ Årskullspesifikk minsteytelse
-
--2,1– -2,0
-
--3,1– -2,6
-
-Sum kostnadsvekst
-
-19,0–22,0
-
-42,7–48,1
-
-herunder vekst i utgifter til alderspensjon
-
-0,4– -0,3 15,8–16,0
-
-herunder vekst i utgifter til uføretrygd, AAP og etterlatte
-
-14,8–18,5 21,1–26,2
-
-herunder vekst i utgifter til andre folketrygdytelser for personer 62 år og eldre
-
-i folketrygdloven, særlig for pensjon, men også
-for øvrige ytelser som i dag har en øvre aldersgrense.
-Det vil være behov for systemtilpasninger i NAV
-for å ivareta utvalgets forslag til endringer i folketrygden. Enkelte av de foreslåtte endringene, som
-innføring av en årskullspesifikk minsteytelse og
-lik regulering av minsteytelser under utbetaling
-som andre løpende pensjoner, må antas å innebære en forenkling av reglene på sikt.
-Utvalget mener at dersom aldersgrensene i
-folketrygden øker, bør også aldersgrensene i tjenestepensjonsordninger, AFP-ordninger og individuelle pensjonsordninger økes. Dette må imidlertid
-vurderes nærmere av de som forvalter regelverket for de ulike ordningene. Konsekvenser av
-endrede aldersgrenser i tjenestepensjonsordninger, AFP-ordninger og individuelle pensjonsordninger, blant annet for allerede opptjente rettigheter og ytelser som er under utbetaling, må utredes
-nærmere. Endringer i disse supplerende ordningene vil kreve endringer i flere ulike lover og/
-eller endringer i tariffavtaler. Det vil også være
-
-3,8
-
-5,9
-
-behov for systemtilpasning hos pensjonsleverandørene.
-Det går fram av kapittel 7 at utvalget mener at
-dagens pensjonsportaler gir god informasjon, men
-at prognoseberegningene fortsatt kan videreutvikles og forbedres. Det bør blant annet bli mulig å
-få et mer helhetlig bilde av samlet pensjon ved
-ulike uttakstidspunkt når pensjon fra private og
-offentlige tjenestepensjonsordninger inkluderes.
-Det vil kunne kreve systemutvikling hos NAV, pensjonsleverandørene og Norsk Pensjon. Utvalget
-peker også på at det bør utarbeides en helhetlig
-strategi for informasjon på pensjonsområdet.
-Blant annet for å understøtte de jevnlige evalueringene av pensjonssystemet utvalget foreslår, er
-det etter utvalgets syn et løpende behov for
-forskning på hvordan systemet fungerer. Utvalget
-mener blant annet at det er behov for mer kunnskap om hvordan tjenestepensjonsordninger og
-offentlig og privat AFP påvirker fordelingen i det
-samlede pensjonssystemet. Herunder bør det innhentes kunnskap om hvordan kvaliteten på tjenestepensjonsordningene varierer mellom ulike
-
-[Side 353]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-grupper, herunder også mellom ansatte i offentlig
-og privat sektor, og hvordan kvalitetsforskjellene i
-tjenestepensjon påvirker fordelingen av samlet
-
-351
-
-Kapittel 14
-
-alderspensjon. Videre bør det innhentes kunnskap om hvordan utbredelsen av AFP påvirker fordelingen.
-
-[Side 354]
-
-352
-
-Referanser
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Referanser
-Actecan (2019). Innskuddspensjon i ulike næringer.
-Hvordan kvaliteten på innskuddspensjonsordninger varierer mellom ulike næringer. Rapport
-2019–02.
-Aldersgrenseutvalget (2016). Seniorer og arbeidslivet – aldersgrenser og tilpasninger. Rapport fra
-et partssammensatt utvalg.
-Alsos, Kristine (2019). Tariffavtalenes regulering
-av lønn under sykdom. Notat 2019:01. Oslo:
-Fafo.
-Andersen, Asbjørn Goul, Simen Markussen og
-Knut Røed (2021). Pension reform and the efficiency-equity trade-off: Impacts of removing
-an early retirement subsidy. Labour Economics, Vol. 72, October 2021.
-ASD (2016). Arbeid, pensjon og inntekt i den eldre
-befolkningen. Rapport fra Pensjonspolitisk arbeidsgruppe 31. mai 2016. Oslo: Arbeids- og
-sosialdepartementet.
-Atalay, Kadir og Garry F. Barrett (2015). The impact of age pension eligibility age on retirement and program dependence. Evidence
-from an Australian experiment. Review of Economics and Statistics, Vol. 97 (1), pp 71-87.
-Atav, Tilbe, Egbert Jongen og Simon Rabate
-(2019). The Effects of the Increase in the Retirement Age in the Netherlands. CPB Discussion
-Paper, December 2019. The Hague: CPB Netherlands Bureau for Economic Policy Analysis.
-Bettio, Francesca, Marcella Corsi, Carlo D’Ippoliti, Antigone Lyberaki, Manuela Samek Lodovici, and Aline Verashchagina (2013). The impact of the economic crisis on the situation of
-women and men and on gender equality policies. Synthesis report. Publications Office of the
-European Union, Luxembourg.
-Bjørnstad, Atle Fremming (2018). Utviklingen i
-pensjonering og sysselsetting blant seniorer.
-Arbeid og velferd, 2/2018. Oslo: Arbeids- og velferdsdirektoratet.
-Borgan, Jens-Kristian og Inger Texmon (2015).
-Levealder og uttak av tidligpensjon i ulike yrker.
-Rapporter 2015/39. Oslo: Statistisk sentralbyrå.
-Bradbury, Bruce (1996). Household Income Sharing, Joint Consumption and the Expenditure
-
-Patterns of Australian Retired Couples and Single People. SPRC Disc. Paper 66.
-Bratberg, Espen, Tor Helge Holmås og Øystein
-Thøgersen (2000). Assessing the effects of early
-retirement programs. Discussion Paper 4/2000.
-Bergen: Norges Handelshøyskole.
-Bratsberg, Bjørn, Elisabeth Fevang and Knut
-Røed (2013). Job loss and disability insurance.
-Labour Economics, Vol. 24, pp 137-150.
-Brinch, Christian N., Dennis Fredriksen og Ola
-Lotherington Vestad (2018). Life expectancy
-and claiming behavior in a flexible pension
-system. Scandinavian Journal of Economics
-120(4), pp 979-1010.
-Brinch, Christian N., Erik Hernæs and Zhiyang
-Jia (2017). Salience and Social Security Benefits. Journal of Labor Economics, Vol. 35, no. 1,
-pp 265-297.
-Brinch, Christian N., Ola Lotherington Vestad and
-Josef Zweimüller (2015). Excess Early Retirement? Evidence from the Norwegian 2011
-Pension Reform. Bergen: Universitetet i Bergen.
-https://www.semanticscholar.org/paper/Excess-Early-Retirement-Evidence-fromthe-Norwegian-Brinch-Vestad/
-dc1ab5e83e012f385a57863d2541f6476371936f
-Brown, Kristine M. and Ron A. Laschever (2012).
-When They’re Sixty-Four: Peer Effects and the
-Timing of Retirement. American Economic
-Journal: Applied Economics, Vol. 4, no. 3, pp 90115.
-Carlsen, Benedicte og Karine Nyborg (2009). The
-Gate is Open: Primary Care Physicians as Social Security Gatekeepers. Memorandum 07/
-2009. Oslo University, Department of Economics.
-Chłoń-Domińczak, Agnieszka (2017). Gender Gap
-in Pensions: Looking ahead. Study for the
-FEMM Committee, European Parliament.
-Christensen, Arne Magnus, Dennis Fredriksen,
-Ole Christian Lien og Nils Martin Stølen
-(2012). Pension Reform in Norway: Combining NDC and Distributional Goals. I Holzmann, Robert; E. Palmer, D. Robalino (2012).
-Nonfinancial Defined Contribution Pension
-Schemes in a Changing Pension World: Volume
-
-[Side 355]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-1: Progress, Lessons, and Implementation. The
-World Bank.
-Dahl, Espen Halland (2009). Hvem har tjent på besteårsregelen. Arbeid og velferd, 2/2009. Oslo:
-Arbeids- og velferdsdirektoratet.
-Dahl, Espen Steinung og Anders Galaasen (2013),
-Ja, takk – begge deler. En spørreundersøkelse om
-arbeid og pensjon. Rapport 4/2013. Oslo: Arbeids- og velferdsdirektoratet.
-Diamond, Peter (2009). Economic Globalisation
-and Swedish Pensions. Expert report no. 28 to
-Sweden’s Globalisation Council.
-Disney, Richard (2004). Are Contributions to Public Pension Programmes a Tax on Employment? Economic Policy, Vol. 19, Issue 39, pp
-267-311.
-Dokument 8:53 S (2020–2021) Representantforslag
-fra stortingsrepresentantene Siv Jensen, Audun
-Lysbakken, Erlend Wiborg og Solfrid Lerbrekk
-om et anstendighetsløft for pensjonister.
-Ds 2020:7 Inkomstpensionstillägg.
-Duggan, Mark, Perry Singleton and Jae Song
-(2007). Aching to retire? The rise in the full retirement age and its impact on the social security disability rolls. Journal of Public Economics, Vol. 91 (7–8), pp 1327-1350.
-Dyvi, Yngvar (2021). Langsiktige fremskrivinger til
-Perspektivmeldingen 2021. Arbeidsnotat 2021/
-3. Oslo: Finansdepartementet.
-ETK (2022). Expected effective retirement age and
-exit age in the Nordic countries and Estonia.
-Statistics from the Finish Centre for Pensions
-02/2022.
-EU (2015). Discrimination in the EU in 2015: report. European Commission, Directorate-General for Justice and Consumers.
-European Commission and Social Protection
-Committee (2015). The 2015 Pension Adequacy
-Report: Current and Future Income Adequacy
-in Old Age in the EU, vol. 1. Brussels: European Commission.
-Fredriksen, Dennis and Nils Martin Stølen
-(2017). Life time pension benefits relative to
-life time contributions. International Journal of
-Microsimulation, Vol. 10(2), pp 177–207.
-Fredriksen, Dennis and Nils Martin Stølen
-(2014). Gender Aspects of the Norwegian Pension System. I Dekkers, Gijs, M. Keegan and
-C. O’Donoghue (2014). New Pathways in Microsimulation. Routledge.
-Fredriksen, Dennis, Elin Halvorsen og Nils Martin Stølen (2022a). Sosial bærekraft i systemet
-for alderspensjon. Søkelys på arbeidslivet, nr. 12022. Oslo: Universitetsforlaget.
-
-353
-
-Referanser
-
-Fredriksen, Dennis, Erling Holmøy, Birger Strøm
-og Nils Martin Stølen (2019). Betydningen av
-pensjonsreformen for arbeidstilbud og offentlige finanser. Søkelys på arbeidslivet 04/2019.
-Oslo: Universitetsforlaget.
-Fredriksen, Dennis, Herman Kruse og Nils Martin Stølen (2022). Dynamisk justering av aldersgrensene i pensjonssystemet belyst ved modellen
-Mosart. Rapporter 2022/22. Oslo: Statistisk
-sentralbyrå.
-Galaasen, Anders M. og Espen Steinung Dahl
-(2013). Ja, takk – begge deler? En spørreundersøkelse om arbeid og pensjon. Rapport 2014:4.
-Oslo: Arbeids- og velferdsdirektoratet.
-Galaasen, Sigurd Mølster (2021). Pension Reform
-Disabled. The Scandinavian Journal of Economics, Vol. 123(4), pp 1227–1260. John Wiley &
-Sons Ltd.
-Giesecke, Matthias and Guanzhong Yang (2017).
-Are financial retirement incentives more effective if pension knowledge is high? Journal of
-Pension Economics and Finance, Vol. 17, Special Issue 3, pp 278–315.
-Grødem, Anne Skevik (2021). Vinneren tar alt?
-Fordelingsvirkninger av det nye norske pensjonssystemet. Søkelys på arbeidslivet 02/2021.
-Oslo: Universitetsforlaget.
-Grødem, Anne Skjevik og Ragni Hege Kitterød
-(2020). Høyere pensjon jo lavere levealder?
-https://pensjonslab.no/index.php/blogg/
-item/hoyere-pensjon-jo-lavere-levealder
-Grødem, Anne Skevik and Ragni Hege Kitterød
-(2021). Retirement anticipation – gendered
-patterns in a gender-equal society? a study of
-senior workers in Norway. Journal of Women &
-Aging.
-Haga, Oddbjørn og Ole Christian Lien (2017). Utviklinga i pensjonering og sysselsetjing blant
-seniorar. Arbeid og velferd, 2/2017. Oslo: Arbeids- og velferdsdirektoratet.
-Halrynjo, Sigtona, Ragni Hege Kitterød and Axel
-West Pedersen (2019). A woman’s cause? Popular attitudes towards pension credits for
-child care. European Journal of Social Security,
-vol. 21(3).
-Halvorsen, Elin and Axel West Pedersen (2019).
-Closing the gender gap in pensions: A microsimulation analysis of the Norwegian NDC pension system. Journal of European Social Policy
-2019, vol. 29(1), pp 130–143.
-Halvorsen, Elin og Aslak Hetland (2021). Pensjonsformue i Norge 2018. Rapporter 2021/16. Oslo:
-Statistisk sentralbyrå.
-Halvorsen, Elin og Axel West Pedersen (2022). Bidrar folketrygdens pensjonssystem til inn-
-
-[Side 356]
-
-354
-
-Referanser
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-tektsutjevning i et livsløpsperspektiv? Søkelys
-på arbeidslivet, vol. 39, 1. Oslo: Universitetsforlaget.
-Handal, Jørn (2015). Homo oeconomicus og pensjonsreformen. Samfunnsøkonomen, nr. 3, pp 6–
-17.
-Hansen, Thomas, Britt Slagsvold and Torbjørn
-Moum (2008). Financial Satisfaction in Old
-Age: A Satisfaction Paradox or a Result of Accumulated Wealth? Social Indicators Research:
-An International and Interdisciplinary Journal
-for Quality-of-Life Measurement, 2008, vol. 89,
-issue 2, 323-347.
-Hauge, Linda og Bjørn Halvorsen (2019). Hva vet
-vi om alder og produktivitet i arbeidslivet. Notat
-4. Oslo: Senter for seniorpolitikk.
-Hernæs, Erik (2017). Yrkesaktivitet og pensjonsuttak etter pensjonsreformen. Rapport 1/2017.
-Oslo: Stiftelsen Frischsenteret for samfunnsøkonomisk forskning.
-Hernæs, Erik and Zhiyang Jia (2013). Earnings
-Distribution and Labour Supply after a Retirement Earnings Test Reform. Oxford Bulletin of
-Economics and Statistics, 75, pp 410-434.
-Hernæs, Erik, Knut Røed og Steinar Strøm
-(2002). Yrkesdeltakelse, pensjoneringsatferd og
-økonomiske insentiver. Rapport 4/2002. Oslo:
-Stiftelsen Frischsenteret for samfunnsøkonomisk forskning.
-Hernæs, Erik, Simen Markussen, John Piggot and
-Knut Røed (2016). Pension reform and labor
-supply. Journal of Public Economics, Vol. 142
-(2016), pp 39–55.
-Hetland, Aslak (2022). Pensjonsformue og tidlig alderspensjon.
-SSB-artikkel.
-https://
-www.ssb.no/inntekt-og-forbruk/inntekt-ogformue/artikler/pensjonsformue-og-tidlig-alderspensjon
-Hippe, Jon M., Henrik Hammer og Hans Gunnar
-Vøien (2018). Nok pensjon? Etter pensjonsreformen: effekter av ny folketrygd, AFP og tjenestepensjoner. Rapport 2018:17. Oslo: Fafo.
-Hippe, Jon M., Roar Bergan, Geir Veland og Tove
-Midtsundstad (2005). Obligatorisk tjenestepensjon. Rapport 470. Oslo: Fafo.
-Hippe, Jon M., Tove Midtsundstad, Åsmund Arup
-Seip, Hanne Bogen og Gudmund Hernes
-(2012). When I’m Sixty-Four – seniorpolitiske
-framtidsbilder. Rapport 2012:02. Oslo: Fafo.
-Hjemås, Geir, Erling Holmøy og Fatima Haugstveit (2019). Fremskrivinger av etterspørselen etter arbeidskraft i helse- og omsorg mot 2060.
-Rapporter 2019/12. Oslo: Statistisk sentralbyrå.
-
-Hohnerlein, Eva Maria (2019). Pension indexation
-for retirees revisited – Normative patterns and
-legal standards. Global Social Policy, Volume
-19, issue 3, pp 246–265.
-Holmøy, Erling, Geir Hjemås, Ingunn Sagelvmo
-og Birger Strøm (2020). Skatteregningen for
-helse- og omsorgsutgifter mot 2060. Rapporter
-2020/42. Oslo: Statistisk sentralbyrå.
-Innst. 224 L (2018–2019) Innstilling fra finanskomiteen om Endringer i innskuddspensjonsloven
-mv. (egen pensjonskonto).
-Innst. 80 L (2019–2020) Innstilling fra arbeids- og
-sosialkomiteen om Endringer i folketrygdloven
-og enkelte andre lover (samleproposisjon høsten
-2019).
-Innst. 128 L (2020–2021) Innstilling fra arbeids- og
-sosialkomiteen om Endringer i folketrygdloven
-(nye etterlatteytelser).
-Innst. 519 L (2020–2021) Innstilling fra arbeids- og
-sosialkomiteen om Endringer i lov om aldersgrenser for offentlige tjenestemenn m.fl. og lov
-om pensjonsordning for sykepleiere (fjerning av
-plikten til å fratre ved særaldersgrense).
-Innst. 51 L (2021–2022) Innstilling fra finanskomiteen om Endringer i pensjonslovgivningen mv.
-(pensjon fra første krone og dag, garanterte pensjonsprodukter).
-Innst. 194 L (2021–2022) Innstilling fra arbeids- og
-sosialkomiteen om Endringer i folketrygdloven,
-lov om Statens pensjonskasse og enkelte andre
-lover (endret regulering av alderspensjon under
-utbetaling).
-Innst. O. nr. 16 (1963–64) Innstilling fra sosialkomitéen om lover om endringer i 1. lov om alderstrygd av 6. juli 1957, 2. lov om uføretrygd
-av 22. januar 1960 og 3. lov om attføringshjelp
-av 22. januar 1960. (Ot.prp. nr. 4.).
-Innst. O. VIII (1965–66) Innstilling fra sosialkomitéen om lov om folketrygd.
-Innst. O. nr. 59 (1971–72) Tilleggsinnstilling fra sosialkomitéen om lov om endringer i lov av 19.
-juni 1969 nr. 61 om særtillegg til ytelser fra folketrygden.
-Innst. S. nr. 200 (1988–1989) Innstilling fra sosialkomiteen om folketrygdens økonomi og pensjonssystem (St.meld. nr. 12.)
-Innst. S. nr. 223 (2002–2003) Innstilling fra sosialkomiteen om vurdering av retningslinjene for
-trygdeoppgjøret.
-Innst. S. nr. 195 (2004–2005) Innstilling fra finanskomiteen om pensjonsreform – trygghet for pensjonene.
-Innst. S. nr. 168 (2006–2007) Innstilling fra arbeids- og sosialkomiteen om opptjening og uttak
-av alderspensjon i folketrygden.
-
-[Side 357]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Innst. 221 S (2020–2021) Innstilling fra arbeids- og
-sosialkomiteen om Representantforslag fra stortingsrepresentantene Siv Jensen, Audun Lysbakken, Erlend Wiborg og Solfrid Lerbrekk om et
-anstendighetsløft for pensjonister.
-Innst. 665 S (2020–2021) Innstilling fra arbeids- og
-sosialkomiteen om Regulering av pensjoner i
-2021 og pensjonisters inntektsforhold.
-Ipsos (2020). Norsk seniorpolitisk barometer 2020.
-Yrkesaktiv befolkning.
-Ipsos (2021). Norsk seniorpolitisk barometer 2021.
-Ledere i arbeidslivet.
-Jacobsen, Ove (2014). Pensjonsreformen: Hvilken
-innvirkning har den på bruken av helserelaterte ytelser? Arbeid og velferd, 3/2014. Oslo:
-Arbeids- og velferdsdirektoratet.
-Jacobsen, Ove (2018). AFP i privat sektor – endring i mottak av arbeidsavklaringspenger og
-uføretrygd. Arbeid og velferd, 1/2018. Oslo: Arbeids- og velferdsdirektoratet.
-Johnsen, Julian Vedeler, Kjell Vaage and Alexander Willén (2020). Interactions in Public Policies: Spousal Responses and Program Spillovers of Welfare Reforms, NHH Dept. of Economics Discussion Paper No. 20/2020: https://
-dx.doi.org/10.2139/ssrn.3698532
-Johnsen, Julian Vedeler, Kjell Vaage og Alexander
-Willén (2021), Interactions in Public Policies:
-Spousal Responses and Program Spillovers of
-Welfare Reforms, The Economic Journal, forthcoming: https://doi.org/10.1093/ej/ueab053
-Kalstø, Åshild Male og Inger Cathrine Kann
-(2018). Færre på helserelaterte ytelser: friskere befolkning? Arbeid og velferd, 4/2018.
-Oslo: Arbeids- og velferdsdirektoratet.
-Keilman; Nico (2003). Pensjonskommisjonen bør
-ta usikkerhet i befolkningsutviklingen alvorlig.
-Økonomiske analyser 2/2003. Oslo: Statistisk
-sentralbyrå.
-Kommissionen om tilbagetrækning og nedslidning (2022). Fremtidssikring af et stærkt pensionssystem. Rapport mai 2022.
-Kostøl, Andreas Ravndal and Magne Mogstad
-(2014). How Financial Incentives Induce Disability Insurance Recipients to Return to Work.
-The American Economic Review, Vol. 104(2),
-pp 624–655.
-Kruse, Herman (2021). Joint Retirement in
-Couples: Evidence of Complementarity in
-Leisure. The Scandinavian Journal of Economics, Vol. 123, Issue 3.
-Kruse, Herman and Andreas Myhre (2021). Early
-Retirement Provision for Elderly Displaced Workers. Mimeo: https://dx.doi.org/10.2139/
-ssrn.3910440.
-
-355
-
-Referanser
-
-Lazazzara, Alessandra., Kasia Karpinska and Kène
-Henkens (2013). What factors influence training opportunities? Three factorial surveys
-exploring the attitudes of HR professionals.
-The International Journal of Human Resource
-Management, 24:11, pp 2154-2172.
-Lazear, Edward (1981). Agency, Earnings Profiles,
-Productivity, and Hours Restrictions. American Economic Review, Vol. 71, issue 4, pp 60620.
-Lien, Ole Christian (2021), Når lønner det seg å ta
-ut pensjon. Notat nr. 1-2021. Oslo: Arbeids- og
-velferdsdirektoratet.
-Mastrobuoni, Giovanni (2011). The role of information for retirement behavior: Evidence based on the stepwise introduction of the social
-security statement. Journal of Public Economics, Vol. 95(7–8), pp 913-925.
-Meld. St. 14 (2020–2021) Perspektivmeldingen
-2021.
-Meld. St. 33 (2020–2021) Regulering av pensjoner i
-2021 og pensjonisters inntektsforhold.
-Meld. St. 1 (2021–2022) Nasjonalbudsjettet 2022.
-Midtsundstad, Tove og Hanne Bogen (2011). Seniorpolitikk – behov for justering? – Analyse av
-praksis i seks foregangskommuner. Søkelys på
-arbeidslivet, vol. 28(1-2), pp 89–106. Oslo: Universitetsforlaget.
-Midtsundstad, Tove og Roy A. Nielsen (2019). Heving av aldersgrensen for stillingsvern. Rapport
-2019:27. Oslo: Fafo.
-Midtsundstad, Tove, Roy A. Nielsen og Åsmund
-Hermansen (2017). Seniorer og seniorpolitikk i
-statlige virksomheter. Rapport 2017:18. Oslo:
-Fafo.
-Moulaert, Thibauld, and Simon Biggs (2013). International and European policy on work and
-retirement: reinventing critical perspectives
-on active ageing and mature subjectivity. Human Relations 66(1), pp 23–43.
-Ng, Thomas W. H. and Daniel C. Feldman (2013).
-A meta-analysis of the relationships of age and
-tenure with innovation-related behaviour. Journal of Occupational and Organizational Psychology, 86(4).
-NHO og LO (2017). Evaluering av AFP i privat
-sektor. Rapport 7. desember 2017.
-Nicolajsen, Stian og Nils Martin Stølen (2016).
-Fordelingsvirkninger av pensjonsreformen.
-Søkelys på arbeidslivet, Nr. 1-2 2016. Oslo: Universitetsforlaget.
-Nordby, Pål og Helge Nesheim (2017). Yrkesaktivitet blant eldre før og etter pensjonsreformen.
-2016. Rapporter 2017/5. Oslo: Statistisk sentralbyrå.
-
-[Side 358]
-
-356
-
-Referanser
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Normann, Tor Morten og Lene Sandvik (2021).
-Store ulikheter i formue. SSB Analyse 2021/07.
-Oslo: Statistisk sentralbyrå.
-NOU 1978: 12 Pensjonsutredningen.
-NOU 1994: 6 Private pensjonsordninger.
-NOU 2004: 1 Modernisert folketrygd – Bærekraftig
-pensjon for framtida.
-NOU 2007: 4 Ny uførestønad og ny alderspensjon til
-uføre.
-NOU 2015: 9 Finanspolitikk i en oljeøkonomi –
-Praktisering av handlingsregelen.
-NOU 2017: 3 Folketrygdens ytelser til etterlatte –
-Forslag til reform.
-NOU 2019: 7 Arbeid og inntektssikring – Tiltak for
-økt sysselsetting.
-NOU 2021: 2 Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting.
-NOU 2021: 4 Norge mot 2025.
-Ny Analyse (2017). Teknologi og kompetanse i endring. Digitaliseringen og framtidig kompetansebehov for Unios helseforbund. Oslo.
-O’Connell, Alison (2010). How long do we expect
-to live? A review of the evidence. Journal of Population Ageing, Vol. 4, 185–201.
-OECD (2019). Working Better with Age. Paris:
-OECD Publishing.
-OECD (2020). Promoting an Age-Inclusive Workforce: Living, Learning and Earning Longer. Paris: OECD Publishing.
-OECD (2021). Pensions at a glance 2021: OECD
-and G20 Indicators. Paris: OECD Publishing.
-OECD Revenue statistics 2021.
-Olsen, D. S og Børing, P. (2019). Kompetanseutvikling og livslang læring blant seniorer innen akademikeryrker. Rapport 2019:14. Oslo: NIFU.
-Omholt, Elisabeth Løyland (red.) (2019). Økonomi og levekår for lavinntektsgrupper 2019.
-Rapporter 2019/33. Oslo: Statistisk sentralbyrå.
-Omholt, Elisabeth Løyland (2020). Formue blant
-lavinntektsgrupper. Rapporter 2020/46. Oslo:
-Statistisk sentralbyrå.
-Oslo Economics (2018). Aldringens betydning for
-helse, arbeidskapasitet og arbeidsprestasjoner.
-Rapport 2018-32.
-Ot.prp. nr. 51 (1968–69) Om lov om Særtillegg til
-ytelser fra folketrygden.
-Ot.prp. nr. 11 (1983–1984) Om lov om endringer i
-lov av 17 juni 1966 nr. 12 om folketrygd og i
-visse andre lover.
-Ot.prp. nr. 77 (1989–1990) Om lov om endringer i
-lov 17 juni 1966 nr. 12 om folketrygd og i visse
-andre lover.
-Ot.prp. nr. 4 (1993–1994) Om lov om endringer i
-lov 17 juni 1966 nr. 12 om folketrygd og i visse
-
-andre lover (Større trygdemessig likhet for samboere og ektepar. Økning av særtillegget for minstepensjonistektepar. Endringer i reglene om
-pensjon mv for personer med utenlandsopphold.
-Endringer i bidragsreglene og andre endringer).
-Ot.prp. nr. 102 (2001–2002) Om lov om endringer i
-folketrygdloven og i enkelte andre lover (tidsbegrenset uførestønad).
-Ot.prp. nr. 12 (2007–2008) Om lov om endringer i
-folketrygdloven mv. (samleproposisjon høsten
-2007).
-Ot.prp. nr. 77 (2007–2008) Om lov om endringer i
-folketrygdloven og lov om supplerande stønad til
-personar med kort butid i Noreg.
-Ot.prp. nr. 4 (2008–2009) Om lov om endringer i
-folketrygdloven og i enkelte andre lover (arbeidsavklaringspenger, arbeidsevnevurderinger og
-aktivitetsplaner).
-Ot.prp. nr. 8 (2008–2009) Om lov om endringer i
-folketrygdloven (samleproposisjon høsten 2008).
-Ot.prp. nr. 37 (2008–2009) Om lov om endringer i
-folketrygdloven (ny alderspensjon).
-Ot.prp. nr. 111 (2008–2009) Om lov om statstilskott
-til arbeidstakere som tar ut avtalefestet pensjon i
-privat sektor (AFP-tilskottsloven).
-Pedersen, Axel West (2013). Levealdersjustering
-av alderspensjonen – økonomisk ansvarlighet
-og usosial populisme. I Ketscher, Kirsten; Lilleholt, Kåre; Smith, Eivind; Syse, Aslak (red.).
-Velferd og rettferd: Festskrift til Asbjørn Kjønstad
-70 år, pp 629-639. Gyldendal Juridisk.
-Pedersen, Axel West (2021). Approaches to minimum-income protection in old age: comparing
-the three Scandinavian countries. Kapittel 10 i
-Aidukaite, Jolanta, Sven E.O. Hort and Stein
-Kuhnle (2021). Challenges to the Welfare State.
-Family and Pension Policies in the Baltic and
-Nordic Countries. Edward Elgar Publishing Limited.
-Pedersen, Axel West og Tale Hellevik (2010).
-Hvem er fattigst i landet her? Livsfase, inntekt
-og boligøkonomi. Tidsskrift for velferdsforskning, vol. 13, No. 4.
-Pensjonspolitisk arbeidsgruppe (2021). Arbeid,
-pensjon og inntekt i den eldre befolkningen. Rapport 9. juni 2021.
-Prop. 54 L (2009–2010) Endringer i folketrygdloven
-mv. (oppheving av reglene om inntektsprøving
-for 69-åringer mv.).
-Prop. 130 L (2010–2011) Endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre).
-Prop. 202 L (2012–2013) Endringer i lov om Statens pensjonskasse og enkelte andre lover (ny
-uførepensjonsordning).
-
-[Side 359]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Prop. 42 L (2014–2015) Endringer i tjenestepensjonsloven mv. (uførepensjon).
-Prop. 48 L (2014–2015) Endringer i arbeidsmiljøloven og allmenngjøringsloven (arbeidstid, aldersgrenser, straff mv.).
-Prop. 156 L (2014–2015) Endringer i lov om Statens pensjonskasse mv. (minstegrense for rett til
-medlemskap).
-Prop. 11 L (2015–2016) Endringer i folketrygdloven
-og enkelte andre lover (økning i grunnpensjon
-til gifte og samboende pensjonister og andre
-endringer).
-Prop. 61 L (2017–2018) Endringer i lov om Statens
-pensjonskasse, lov om samordning av pensjonsog trygdeytelser og enkelte andre lover (tilpasning av alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden
-opptjent etter nye regler – levealdersjustering og
-samordning).
-Prop. 40 L (2018–2019) Endringer i innskuddspensjonsloven mv. (egen pensjonskonto).
-Prop. 87 L (2018–2019) Endringer i lov om Statens
-pensjonskasse, samordningsloven og enkelte andre lover (ny tjenestepensjon for ansatte i offentlig sektor).
-Prop. 10 L (2019–2020) Endringer i folketrygdloven
-og enkelte andre lover (samleproposisjon høsten
-2019).
-Prop. 13 L (2020–2021) Endringer i folketrygdloven
-(nye etterlatteytelser).
-Prop. 138 L (2020–2021) Endringer i lov om aldersgrenser for offentlige tjenestemenn m.fl. og lov
-om pensjonsordning for sykepleiere (fjerning av
-plikten til å fratre ved særaldersgrense).
-Prop. 223 L (2020–2021) Endringer i pensjonslovgivningen mv. (pensjon fra første krone og dag,
-garanterte pensjonsprodukter).
-Prop. 41 L (2021–2022) Endringer i folketrygdloven, lov om Statens pensjonskasse og enkelte andre lover (endret regulering av alderspensjon
-under utbetaling).
-Prop. 1 LS (2021–2022) For budsjettåret 2022 –
-Skatter, avgifter og toll 2022.
-Prop. 43 LS (2021–2022) Endringer i finansforetaksloven mv. (gjennomføring av EØS-rett, egen
-pensjonskonto) og samtykke til godkjennelse av
-EØS-komiteens beslutning nr. 54/2021 av 5. februar 2021 om innlemmelse i EØS-avtalen av
-direktiv (EU) 2016/2341 om virksomhet i og
-tilsyn med tjenestepensjonsforetak (IORP II).
-Prop. 126 S (2020–2021) Endringer i statsbudsjettet
-2021 under Arbeids- og sosialdepartementet
-(oppfølging av anmodningsvedtak om pensjon).
-Rawls, John (1971). A Theory of Justice. Oxford
-University Press.
-
-357
-
-Referanser
-
-Remery, Chantal, Kene Henkens, Joop Schippers,
-and Peter Ekamper. (2003). Managing an
-Aging Workforce and a Tight Labor Market: Views Held by Dutch Employers. Population Research and Policy Review, Vol. 22, pp 21–40.
-Rådgivende utvalg for finanspolitiske analyser:
-UTTALELSE 2022 Oslo februar 2022.
-Solem, Per Erik (2017). Aldring og arbeidsprestasjoner. Tidsskrift for Norsk psykologforening,
-vol. 55, nummer 1, 2017, pp 56–63.
-St.meld. nr. 75 (1963–64) Om folkepensjon.
-St.meld. nr. 14 (1971–72) Om folketrygdens økonomi og finansiering.
-St.meld. nr. 12 (1988–1989) Folketrygdens økonomi
-og pensjonssystem.
-St.meld. nr. 29 (2000–2001) Retningslinjer for den
-økonomiske politikken.
-St.meld. nr. 8 (2004–2005) Perspektivmeldingen
-2004 – utfordringer og valgmuligheter for norsk
-økonomi.
-St.meld. nr. 12 (2004–2005) Pensjonsreform – trygghet for pensjonene.
-St.meld. nr. 5 (2006–2007) Opptjening og uttak av
-alderspensjon i folketrygden.
-St.meld. nr. 9 (2006–2007) Arbeid, velferd og inkludering.
-Statens arbeidsmiljøinstitutt (2018). Faktabok om
-arbeidsmiljø og helse 2018. Rapport 19:3. Oslo.
-Staubli, Stefan and Josef Zweimüller (2013). Does
-raising the early retirement age increase employment of older workers? Journal of Public
-Economics 108, pp 17-32.
-Stensnes, Kyrre, Nils Martin Stølen og Inger Texmon (2007). Pensjonsreformen: Virkninger på
-statsfinanser, effektivitet og fordeling. Rapporter
-2007/11. Oslo: Statistisk sentralbyrå.
-Stiglitz, Joseph E., Amartya Sen and Jean-Paul Fatoussi (2009). Report by the Commission on the
-Measurement of Economic Performance and
-Social Progress. (Report). The French National
-Institute of Statistics and Economic studies
-(INSEE).
-Storeng, Siri H., Simon Øverland, Vegard Skirbekk, Laila Arnesdatter Hopstock, Erik R.
-Sund, Steinar Krokstad and Bjørn H Strand
-(2021). Trends in Disability-Free Life Expectancy (DFLE) from 1995 to 2017 in the older
-Norwegian population by sex and education:
-The HUNT Study. Scandinavian Journal of Public Health, pp 1-10.
-Svalund, Jørgen og Geir Veland (2016). Aldersgrenser for oppsigelse og særordninger for eldre i
-arbeidslivet. Rapport 2016:22. Oslo: Fafo.
-Syse, Astri, Dinh Q. Pham og Nico Keilman
-(2016). Befolkningsframskrivinger 2016–2100:
-
-[Side 360]
-
-358
-
-Referanser
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Dødelighet og levealder. Økonomiske analyser
-3/2016. Oslo: Statistisk sentralbyrå.
-Syse, Astri, Marijke Veenstra, Trude Furunes,
-Reidar J. Mykletun and Per Erik Solem (2017).
-Changes in Health and Health Behavior Associated With Retirement. Journal of Aging and
-Health. 2017 Feb, 29(1), pp 99–127.
-Texmon, Inger (2022). Dødelighet etter yrke. Kommer i serien Rapporter fra Statistisk sentralbyrå.
-Thorsen, Sannie Vester, Per H. Jensen and Jacob
-Bue Bjørner (2016). Psychosocial work environment and retirement age: a prospective
-study of 1876 senior employees. International
-archives of Occupational and Environmental
-Health 89 (6), pp 891–900.
-Tobin, James (1970). On Limiting the Domain of
-Inequality. The Journal of Law & Economics,
-Vol. 13, No. 2 (Oct. 1970), pp 263-277.
-Van Borm, Hannah, Ian Burn and Stijn Baert
-(2021). What Does a Job Candidate’s Age Signal to Employers? Labour Economics, Vol. 71.
-Vigtel, Trond C. (2018). The retirement age and
-the hiring of senior workers. Labour Economics, Vol. 51, pp 247-270.
-Wainwright, David, Joanne Crawford, Wendy Loretto, Christopher Phillipson, Mark Robinson,
-Sue Shepherd, Sarah Vickerstaff and Andrew
-Weyman, (2019). Extending working life and
-the management of change. Is the workplace
-ready for the ageing worker? Ageing and Society, Vol. 39, Issue 11, pp 1-23.
-
-Whitehouse, Edvard (2009). Pensions, PurchasingPower Risk, Inflation and Indexation. OECD
-Social, Employment and Migration Working
-Papers, No. 77. Paris: OECD Publishing.
-Wikström, Eva, Ellinor Eriksson, Lejla Karamehmedovic and Roy Liff (2018). Knowledge retention and age management – senior employees’ experiences in a Swedish multinational
-company. Journal of Knowledge Management,
-Vol. 22(7), pp 1510-1526.
-Wikström, Eva, og Roy Liff. (2020). An interactional perspective on age management for prolonged working life, Nordisk välfärdsforskning, pp
-137–139.
-Aaberge, Rolf, Audun Langørgen og Petter Y.
-Lindgren (2021). Fordelingseffekter av offentlig tjenesteproduksjon i Europa. Samfunnsøkonomen, nr. 2.
-Aakvik, Arild, Tor Helge Holmås og Karin Monstad (2020). Sysselsettingseffekter av pensjonsreformen – avhenger de av helsetilstand?
-Søkelys på arbeidslivet, vol. 37 (01-02), pp 4-19.
-Oslo: Universitetsforlaget.
-Aase, Knut K. and Petter Bjerksund (2021). The
-Optimal Spending Rate versus the Expected
-Real Return of a Sovereign Wealth Fund. Journal of Risk and Financial Management, Vol. 14.
-Aase, Knut K. og Petter Bjerksund (2021). Handlingsregelen må baseres på et optimalt uttak fra
-Oljefondet. Dagens Næringsliv 16. september.
-
-[Side 361]
-
-Norges offentlige utredninger
-2021
-Arbeids- og sosialdepartementet:
-NOU 2021: 2 Kompetanse, aktivitet og inntektssikring
-NOU 2021: 5 Grunnlaget for inntektsoppgjørene 2021
-NOU 2021: 8 Trygd over landegrensene
-NOU 2021: 9 Den norske modellen og fremtidens
-arbeidsliv
-
-Helse- og omsorgsdepartementet:
-NOU 2021: 11 Selvstyrt er velstyrt
-
-Finansdepartementet:
-NOU 2021: 1 Endringer i verdipapirhandelloven
-NOU 2021: 4 Norge mot 2025
-NOU 2021: 7 Trygg og enkel eiendomsmegling
-NOU 2021: 10 Ny lov om folkefinansiering av
-næringsvirksomhet
-
-Kulturdepartementet:
-NOU 2021: 3 Barneliv foran, bak og i skjermen
-
-Kommunal- og moderniseringsdepartementet:
-NOU 2021: 6 Myndighetenes håndtering av
-koronapandemien
+Virkningen av økt *nivå* på minsteytelsene er vist i avsnitt 11.6. Det går fram at dersom både minste pensjonsnivå og garantipensjonen økes til EU60-nivå, så øker pensjonskostnadene med hele 25,6 mrd. 2021-lønnskroner i 2060 og med 30,1 mrd. 2021-lønnskroner i 2080. Dette kommer i tillegg til den økningen som følger dersom minsteytelsene reguleres med lønnsveksten.
+
+Sterk vekst i nivået på minsteytelsene vil også ha uheldige systemegenskaper, se kapittel 11. Det vil gjøre at det blir langt flere som vil motta en avkortet garantipensjon, noe som vil svekke insentivene til arbeid, og færre vil kunne ta ut pensjon tidlig. Beregningene i kapittel 11 viste at dersom både minste pensjonsnivå og garantipensjonen økes til EU60-nivå, så vil rundt 65 prosent av årskullene fra 2000-kullet motta en avkortet garantipensjon. Det er dobbelt så høy andel som i referansebanen.
+
+For å ikke svekke forholdet mellom standardsikringen og minstesikringen i pensjonssystemet ytterligere, og for å begrense utgiftsveksten, tilrår utvalget ikke en generell økning i minsteytelsene, hverken minste pensjonsnivå i gammel folketrygd eller garantipensjonen i ny folketrygd. Minsteytelsene for pensjonister i Norge er relativt høye ved en internasjonal sammenlikning, særlig etter skatt, se kapittel 11. Mange minstepensjonister har også andre inntekter og formue.
+
+Utvalget ønsker å prioritere reguleringen av minsteytelsene ved uttak framfor en generell økning i minstenivåene. Dersom minsteytelsene til nye alderspensjonister reguleres med lønnsveksten, vil det sikre at verdiene opprettholdes over tid sammenliknet med det alminnelige lønnsnivået, og minstenivåene vil bli regulert på samme måte som alderspensjon som ennå ikke er tatt ut. Det kan etter hvert gi høyere minstenivåer sammenliknet med å øke minstenivåene nå og regulere dem mindre enn lønnsveksten deretter.
+
+Utvalget mener alle pensjoner under utbetaling bør reguleres på samme måte, altså med gjennomsnittet av pris- og lønnsveksten. Dersom minsteytelsene reguleres gunstigere enn løpende pensjoner, vil en del som i utgangspunktet har en pensjon over minstenivåene etter hvert kunne komme ned på minstenivået. Med dagens regler vil disse få et tillegg til pensjonen som sikrer at de oppnår minstenivået.
+
+Utvalgets flertall, alle unntatt Fuglevaag og Søviknes, mener det ikke lenger bør gis et slikt tillegg til pensjonen slik at hvert årskull får sine spesifikke minstenivåer. Årskullspesifikke minstenivåer må ses i sammenheng med at utvalget foreslår at minsteytelsene ved normert pensjoneringsalder skal reguleres i takt med lønnsveksten. Flertallets forslag vil innebære at det blir et felles reguleringsregime for pensjonsrettigheter som ikke er tatt ut – de skal reguleres i takt med lønnsveksten – mens all pensjon under utbetaling skal reguleres med gjennomsnittet av pris- og lønnsveksten.
+
+Årskullspesifikke minstenivåer er ikke nødvendigvis til ugunst for dem med lavest pensjoner. Det avhenger av hva som er alternativet. Kapittel 11 viste at pensjonsnivåene for dem med lavest pensjoner kan bli høyere med lønnsregulering av satsene for minsteytelsene og årkullspesifikke minsteytelser enn når minsteytelsene reguleres svakere enn lønnsveksten og det ikke er årskullspesifikke minsteytelser. Særlig gjelder dette for uføre.
+
+Årskullspesifikk minsteytelse vil være en forenkling og det vil fjerne en uheldig egenskap ved dagens regler: Å ta ut pensjonen tidlig gjør at årlig pensjon blir lavere. De som har lave pensjoner, kan da bli «tatt igjen» av minsteytelsen og kan dermed få en høyere samlet pensjonsutbetaling når minsteytelsen reguleres gunstigere enn løpende pensjoner. Det trekker isolert sett i retning av at det blir lønnsomt for personer med lav eller moderat opptjening å ta ut pensjonen så tidlig som mulig.
+
+Årskullspesifikk minsteytelse vil redusere økningen i pensjonskostnadene. Sammenliknet med lønnsregulering av minsteytelsene uten årskullspesifikk minsteytelse er kostnadene knapt 2 mrd. 2021-kroner lavere både i 2060 og 2080.
+
+## Uføres alderspensjon
+
+### Innledning
+
+Flertallet, alle unntatt Fuglevaag og Søviknes, mener at prinsippet ved vurderingen av uføres alderspensjon bør være at uføres gjennomsnittlige pensjonsnivå stabiliseres i forhold til sammenliknbare arbeidsføres gjennomsnittlige pensjonsnivå. Hvor høy alderspensjon arbeidsføre vil få, vil avhenge av hvor lenge de står i arbeid. Dette er usikkert. Økte aldersgrenser, slik det er presentert i kapittel 9, vil i utgangspunktet gi uføre full skjerming for virkningen av levealdersjustering fra og med 1964-kullet fordi økte aldersgrenser både gir uføre økt opptjening og overgang til alderspensjon ved en høyere alder. Avsnitt 14.4.2 viser virkninger av ulik grad av skjerming.
+
+Uføre i årskullene 1944–1953 har fått et eget tillegg til alderspensjonen som skjermer uføre for om lag halvparten av virkningen av levealdersjustering. Tillegget er ikke videreført for senere årskull. Utvalget mener at også uføre i årskullene 1954–1963 bør få økt alderspensjon, og at økt alder for opptjening i ny opptjeningsmodell for alderspensjon er en hensiktsmessig måte å gjøre dette på, se kapittel 12. Denne løsningen betyr at økningen i uføres alderspensjon fases inn i takt med innfasingen av ny alderspensjon i folketrygden der 1954-kullet får én tidel av alderspensjonen beregnet med ny opptjeningsmodell, 1955-kullet får to tideler, osv. Fra og med 1963-kullet, som skal få hele alderspensjonen beregnet med ny opptjeningsmodell, vil ett års økt opptjening øke inntektspensjonen ved 67 år med om lag 2,5 prosent. Avsnitt 14.4.3 viser virkninger av å øke opptjeningsalderen for uføre i ny opptjeningsmodell for alderspensjon fra 62 år til henholdsvis 65 og 67 år.[^124] Disse grensene øker videre i takt med de øvrige aldersgrensene i pensjonssystemet fra 1964-kullet.
+
+Utvalget legger i dette avsnittet til grunn at satsene for minsteytelsene reguleres med lønnsveksten, jf. avsnitt 14.3. Det går fram av avsnitt 14.1 at utvalgets flertall mener at uføres alderspensjon prinsipielt bør stabiliseres i forhold til sammenliknbare arbeidsføres alderspensjon. Det er derfor nødvendig å studere konkret hvilken grad av skjerming av de uføre som bør legges til grunn for å oppfylle prinsippet.
+
+For å belyse de ulike avveiningene, presenteres i dette avsnittet beregninger av alternativene i tabell 14.3. Alternativene varierer rundt graden av skjerming av uføre, hvorvidt minsteytelsene gjøres årskullspesifikke og hvorvidt de uføre får opptjening til 65 eller 67 år i ny opptjeningsmodell for alderspensjon.
+
+Beregningsalternativer
+
+02J1xx2
+
+| Alternativ | Beskrivelse |
+|----|----|
+| Referansebanen | Videreføring av 2021-regler. Det betyr blant annet full levealdersjustering av uføres alderspensjon, løpende pensjoner reguleres med lønnsveksten fratrukket 0,75 prosent, og minsteytelsene reguleres med lønnsveksten fratrukket virkningen av levealdersjustering ved 67 år. |
+| Lønnsreg., opptj. til 67 år, full skjerming | Økte aldersgrenser fra og med 1964-kullet, full skjerming av uføre for virkningen av levealdersjustering, uføre får opptjening til 67 år i ny opptjeningsmodell og satsene for minsteytelsene reguleres i takt med lønnsveksten. 67-årsgrensen øker i takt med normert pensjoneringsalder fra 1964-kullet. |
+| Lønnsregulering, full skjerming | Økte aldersgrenser fra og med 1964-kullet, satsene for minsteytelsene reguleres med lønnsveksten, årskullspesifikk minsteytelse, opptjening til 65 år i ny opptjeningsmodell for uføre, uføre skjermes helt for virkningen av levealdersjustering fra 1964-kullet. 65-årsgrensen øker i takt med normert pensjoneringsalder fra 1964-kullet. |
+| Lønnsregulering, to tredels skjerming | Økte aldersgrenser fra og med 1964-kullet, satsene for minsteytelsene reguleres med lønnsveksten, årskullspesifikk minsteytelse, opptjening til 65 år i ny opptjeningsmodell for uføre, uføre skjermes for to tredeler av virkningen av levealdersjustering fra 1964-kullet. 65-årsgrensen øker i takt med normert pensjoneringsalder fra 1964-kullet. |
+| Lønnsregulering, halv skjerming | Økte aldersgrenser fra og med 1964-kullet, satsene for minsteytelsene reguleres med lønnsveksten, årskullspesifikk minsteytelse, opptjening til 65 år i ny opptjeningsmodell for uføre, uføre skjermes for halvparten av virkningen av levealdersjustering fra 1964-kullet. 65-årsgrensen øker i takt med normert pensjoneringsalder fra 1964-kullet. |
+| Lønn minus 0,3 %, halv skjerming | Økte aldersgrenser fra og med 1964-kullet, satsene for minsteytelsene reguleres med lønnsveksten fratrukket 0,3 prosent fra 2023, årskullspesifikk minsteytelse, opptjening til 65 år i ny opptjeningsmodell for uføre, uføre skjermes for halvparten av virkningen av levealdersjustering fra 1964-kullet. 65-årsgrensen øker i takt med normert pensjoneringsalder fra 1964-kullet. |
+
+### Grad av skjerming fra 1964-kullet
+
+Graden av skjerming for virkningen av levealdersjustering har stor betydning både for nivået på uføres alderspensjon og for pensjonskostnadene. Figur 14.2 viser utviklingen i gjennomsnittlig alderspensjon til uføre etter fødselsår dersom uføre skjermes fullt, for to tredeler eller for halvparten av virkningen av levealdersjustering fra 1964-kullet.
+
+Gjennomsnittlig alderspensjon til uføre etter fødselsår.<sup>1</sup> Tusen 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Uføre født i 2000 vil få en gjennomsnittlig alderspensjon som er 6,9 prosent lavere med to tredels skjerming enn de ville fått med full skjerming. Med halv skjerming er pensjonsnivået 9,9 prosent lavere. Målt i faste lønninger reduseres det gjennomsnittlige pensjonsnivået med om lag 0,2–0,3 prosent årlig fra 1963- til 2020-kullet dersom uføre skjermes for to tredeler og med i overkant av 0,3 prosent dersom uføre skjermes for halvparten av virkningen av levealdersjustering. Kjøpekraften til alderspensjonen vil øke fra ett årskull til det neste dersom reallønnsveksten er større enn nedgangen i det gjennomsnittlige pensjonsnivået målt i faste lønninger. Selv med halv skjerming av uføre vil dermed kjøpekraften normalt øke, siden reallønnsveksten over tid må forventes å ligge betydelig over 0,3 prosent.
+
+Det er usikkert i hvilken grad arbeidsføre i yngre årskull vil kompensere for effekten av levealdersjusteringen gjennom å stå lenger i arbeid. Dersom aldersgrensene for uføres opptjening og overgang til alderspensjon øker mer enn avgangsalderen, vil uføre få et stadig høyere pensjonsnivå relativt til sammenliknbare arbeidsføre. Fordi det er usikkerhet om i hvor stor grad de arbeidsføre tilpasser seg levealdersjusteringen, mener flertallet, alle unntatt Fuglevaag og Søviknes, at det bør vurderes en løsning hvor uføre ikke skjermes fullt for effekten av levealdersjustering inntil en får mer erfaring med hvordan de arbeidsføre tilpasser seg.
+
+Figur 14.3 viser forholdet mellom uføres og arbeidsføres alderspensjon dersom arbeidsføre kompenserer for to tredeler av virkningen av levealdersjustering. Det går fram at dersom uføre da kompenseres fullt, så vil forholdet øke. Økningen fra 1962- til 1963-kullet skyldes at personer med offentlig tjenestepensjon i 1963-kullet får fleksibel tjenestepensjon og ikke lenger har AFP som tidligpensjon. En del av de som ville tatt ut alderspensjonen ved 67 år med de gamle ordningene, vil da ventelig ta ut folketrygden før 67 år og dermed få lavere alderspensjon.
+
+Forholdet mellom uføres og arbeidsføres alderspensjon etter fødselsår.<sup>1</sup> Arbeidsføre kompenserer for to tredeler av virkningen av levealdersjustering. Prosent
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Figur 14.4 viser forholdet mellom uføres og arbeidsføres alderspensjon dersom arbeidsføre kompenserer fullt ut for virkningen av levealdersjustering. Det går fram at hvorvidt de arbeidsføre tilpasser seg levealdersjusteringen ved å kompensere fullt eller kun delvis, har sterk påvirkning på utviklingen i forholdet mellom uføre og arbeidsføres alderspensjon. Dersom de arbeidsføre bare delvis kompenserer for effekten av levealdersjusteringen, taler det for å delvis kompensere de uføre. Figur 14.4 viser at dersom de arbeidsføre faktisk kompenserer fullt for effekten av levealdersjusteringen, er det bare full skjerming av uføre som stabiliserer forholdet over tid.
+
+Forholdet mellom uføres og arbeidsføres alderspensjon etter fødselsår.<sup>1</sup> Arbeidsføre kompenserer fullt ut for virkningen av levealdersjustering. Prosent
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+### Økt opptjeningsalder for uføres alderspensjon
+
+Figur 14.5 viser virkningen på uføres alderspensjon av å øke opptjeningen for uføre i ny opptjeningsmodell for alderspensjon til henholdsvis 65 og 67 år for uføre født i årene 1954–1963. Det er forutsatt at de uføre skjermes for to tredeler av effekten av levealdersjusteringen fra 1964-kullet. Figur 14.6 viser det tilsvarende ved halv skjerming av de uføre fra 1964-kullet. Det går fram at effekten av økt opptjening blir gradvis større fra 1954- til 1963-kullet og at forskjellen mellom alternativene med økte aldersgrenser er relativt stabil for de etterfølgende årskullene. Økt opptjening i ny alderspensjon gir altså i hovedsak en nivåøkning i pensjonsnivåene for uføre fra 1963-kullet.
+
+Gjennomsnittlig alderspensjon til uføre etter fødselsår.<sup>1</sup> Økte aldersgrenser, to tredels skjerming. Tusen 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Gjennomsnittlig alderspensjon til uføre etter fødselsår.<sup>1</sup> Økte aldersgrenser, halv skjerming. Tusen 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Sammenliknet med økte aldersgrenser og to tredels/halv skjerming, øker det gjennomsnittlige pensjonsnivået fra 1963-kullet med om lag 3–4 prosent dersom opptjeningsalderen økes til 65 år og med om lag seks prosent dersom opptjeningsalderen økes til 67 år, og effekten er marginalt sterkere ved to tredels skjerming. At økningen ikke er større, skyldes blant annet at mange uføre – i likhet med mange arbeidsføre – er i avkortingsintervallet for garantipensjonen, og de får dermed ikke full uttelling for den økte opptjeningen av inntektspensjon. Dette er dessuten en medvirkende årsak til at ytelsesnivåene faller noe over tid. Den viktigste årsaken er likevel at de uføre bare delvis skjermes for effekten av levealdersjusteringen. En årsak er også at sammensetningen av de uføre endres ved at det, i tråd med utviklingen de siste årene, er forutsatt at flere blir uføre tidligere i livet og dermed får et lavere opptjeningsgrunnlag for alderspensjon. Den gjennomsnittlige årlige reduksjonen fra 1963- til 2020-kullet er på 0,1 prosent i faste lønninger, uavhengig av om 1963-kullet har opptjening til 65 år eller til 67 år i ny opptjeningsmodell for alderspensjon.
+
+Økt opptjeningsalder gir økte kostnader. Dersom uføre skjermes for to tredeler av virkningen av levealdersjustering, øker kostnadene i 2060 med 2,8 mrd. 2021-kroner dersom uføre har opptjening til 65 år og med 4,9 mrd. kroner dersom uføre har opptjening til 67 år. I 2080 er økningen henholdsvis 2,7 og 4,8 mrd., altså om lag like stor.
+
+Tabell 14.4 viser også at kostnadene øker litt mer dersom de uføre skjermes for to tredeler av virkningen av levealdersjustering enn dersom de skjermes for halvparten. For eksempel er den isolerte kostnaden av å gå fra opptjening til 62 år til opptjening til 65 år i 2060 på 2,8 mrd. kroner dersom de uføre skjermes for to tredeler av effekten av levealdersjusteringen, mens den er 2,6 mrd. dersom de uføre skjermes for halvparten av effekten av levealdersjusteringen. Årsaken er at uføre i større grad vil omfattes av garantipensjonen dersom de skjermes mindre, og da vil lengre opptjening ha mindre betydning – det vil si i mindre grad komme til faktisk utbetaling utover garantinivået.
+
+Pensjonskostnader ved økt opptjeningsalder.<sup>1</sup> Mrd. 2021-kroner (lønnsdeflatert)
+
+07J1xt2
+
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th>Økte aldersgrenser, to tredels skjerming, opptjening til 62 år</th>
+<th>+opptjening til 65 år</th>
+<th>+opptjening til 67 år</th>
+<th>Økte aldersgrenser, halv skjerming, opptjening til 62 år</th>
+<th>+opptjening til 65 år</th>
+<th>+opptjening til 67 år</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2040</td>
+<td>340,0</td>
+<td>341,8</td>
+<td>343,3</td>
+<td>339,3</td>
+<td>341,2</td>
+<td>342,8</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>382,7</td>
+<td>385,5</td>
+<td>387,6</td>
+<td>379,8</td>
+<td>382,4</td>
+<td>384,7</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>418,0</td>
+<td>420,7</td>
+<td>422,8</td>
+<td>413,0</td>
+<td>415,3</td>
+<td>417,4</td>
+</tr>
+<tr>
+<td colspan="2"><em>Endring fra referansebanen i mrd.</em></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td>3,6</td>
+<td>5,4</td>
+<td>6,9</td>
+<td>2,9</td>
+<td>4,8</td>
+<td>6,4</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>19,2</td>
+<td>22,0</td>
+<td>24,1</td>
+<td>16,3</td>
+<td>18,9</td>
+<td>21,2</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>45,4</td>
+<td>48,1</td>
+<td>50,2</td>
+<td>40,4</td>
+<td>42,7</td>
+<td>44,8</td>
+</tr>
+<tr>
+<td colspan="2"><em>Endring fra referansebanen i prosent</em></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td>1,1</td>
+<td>1,6</td>
+<td>2,1</td>
+<td>0,9</td>
+<td>1,4</td>
+<td>1,9</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>5,3</td>
+<td>6,1</td>
+<td>6,6</td>
+<td>4,5</td>
+<td>5,2</td>
+<td>5,8</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>12,2</td>
+<td>12,9</td>
+<td>13,5</td>
+<td>10,8</td>
+<td>11,5</td>
+<td>12,0</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Se tabell 14.3 for en presisering av alternativene. Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen.
+
+## Mulige samlede løsninger
+
+Utvalget har i avsnitt 14.3 beskrevet en løsning for minsteytelsene som innebærer at minstenivåene for nye alderspensjonister reguleres i takt med lønnsveksten og blir årskullspesifikke. I avsnitt 14.4 er konsekvensene av at uføre får økt opptjeningsalder i ny opptjeningsmodell for alderspensjon belyst.
+
+Utvalgets flertall, alle unntatt Fuglevaag og Søviknes, foreslår at uføre født i årene 1954–1963 får opptjening til 65 år i ny opptjeningsmodell for alderspensjon, altså tre år lenger enn i dag, og at 65-årsgrensen øker i takt med den normerte pensjoneringsalderen for yngre årskull. Dette vil øke uføres inntektspensjon med om lag 7,5 prosent, og tilsvarer om lag den samlede effekten av ett års utsatt uttak (uttaks- og opptjeningseffekt). Dersom arbeidsføre i 1963-kullet i gjennomsnitt står ett år lenger i arbeid enn 1953-kullet, anser utvalget at tre års økt opptjening er tilstrekkelig. Økningen vil være på nivå med den samlede effekten av levealdersjusteringen fra 1953-kullet til 1963-kullet, målt ved endringen i delingstallet mellom disse årskullene.[^125] Utvalgets flertall mener opptjening til 65 år er en rimelig avveining av hensynet til å sikre uføre et tilfredsstillende pensjonsnivå og hensynet til å begrense veksten i kostnadene.
+
+Mindretallet, Fuglevaag og Søviknes, mener uføre bør få opptjening til 67 år i ny opptjeningsmodell for alderspensjon.
+
+Dersom uføre ikke fullt ut kompenseres for effekten av levealdersjustering, vil dette gi lavere utgifter enn hvis uføre får full skjerming. I dette avsnittet presenteres beregninger av alternativer hvor uføre får mindre enn full skjerming for effekten av levealdersjustering.
+
+Alternativene er beskrevet i tabell 14.3. De fire nederste alternativene har årskullspesifikk minsteytelse og uføre får opptjening til 65 år i ny opptjeningsmodell. Det nest øverste alternativet har ikke årskullspesifikk minsteytelse og uføre får opptjening til 67 år i ny opptjeningsmodell. Dette tilsvarer mindretallets forslag. I de fire midterste alternativene reguleres minsteytelsene ved uttak med lønnsveksten.
+
+For å belyse konsekvensene av å regulere minsteytelsene svakere enn lønnsveksten, er det også tatt med et alternativ der minsteytelsene årlig reguleres med lønnsveksten, men fratrukket 0,3 prosent. Det er dermed tre ulike reguleringsregimer for minsteytelsene i alternativene, se figur 14.7. Pensjoner under utbetaling reguleres med gjennomsnittet av pris- og lønnsveksten.
+
+Garantipensjon<sup>1</sup> til enslige i faste lønninger. Tusen 2021-kroner (deflatert med grunnbeløpet)
+
+<sup>1</sup> Minstepensjon/minste pensjonsnivå før 2016.
+
+Figur 14.8 viser utviklingen i uføres alderspensjon etter fødselsår i de seks alternativene. De røde linjene viser utviklingen dersom minsteytelsene reguleres med lønnsveksten, men med ulik grad av skjerming av uføres alderspensjon fra 1964-kullet. Med full skjerming vil nivået opprettholdes i faste lønninger fra 1963- til 2020-kullet. Med to tredels skjerming av uføre reduseres nivået med 0,2 prosent årlig sammenliknet med lønningene, mens med halv skjerming reduseres det med vel en kvart prosent årlig. Alternativet med opptjening til 67 år i ny alderspensjon, den mørkeblå linjen, har et høyere utgangsnivå enn den heltrukne røde linjen der det er opptjening til 65 år, men fra 1963-kullet er endringene relativt like i de to alternativene.
+
+Gjennomsnittlig alderspensjon til uføre etter fødselsår.<sup>1</sup> Tusen 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Dersom minsteytelsene reguleres med lønnsveksten fratrukket 0,3 prosent og uføre har halv skjerming (lyseblå, stiplet linje), er reduksjonen 0,4 prosent årlig sammenliknet med lønningene, mens den er knapt 0,7 prosent årlig i referansebanen. I alle alternativene vil dermed kjøpekraften øke når reallønnsveksten er større enn knapt 0,7 prosent.
+
+Forholdet mellom uføres og arbeidsføres alderspensjon vil avhenge av i hvilken grad arbeidsføre kompenserer for virkningen av levealdersjustering. Figur 14.9 viser hvordan forholdet utvikler seg dersom arbeidsføre kompenserer for to tredeler av virkningen av levealdersjustering. Økningen fra 1962- til 1963-kullet skyldes at omleggingen av pensjonsordningene i offentlig sektor er antatt å føre til en reduksjon i gjennomsnittlig alderspensjon for arbeidsføre i 1963-kullet, se avsnitt 14.4.2. I de to alternativene med full skjerming av uføre stiger forholdet med rundt 6 ½ prosentpoeng fra 1963- til 2020-kullet. Med to tredels skjerming er forholdet relativt stabilt, i de to alternativene der minsteytelsene reguleres svakere enn lønnsveksten faller forholdet relativt mye.
+
+Forholdet mellom uføres og arbeidsføres alderspensjon etter fødselsår.<sup>1</sup> Arbeidsføre kompenserer for to tredeler av virkningen av levealdersjustering. Prosent
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Figur 14.10 viser utviklingen i forholdet mellom uføres og arbeidsføres alderspensjon dersom arbeidsføre kompenserer fullt ut for virkningen av levealdersjustering. Da vil forholdet stabiliseres dersom uføre skjermes helt for virkningen av levealdersjustering. Forløpet er relativt likt forløpet for uføres alderspensjon, men reduksjonen i forholdet er noe mindre i referansebanen. Tilsvarende vil en sammenlikning der arbeidsføre kompenserer for halvparten av virkningen av levealdersjusteringen, vise at forholdet mellom uføres og arbeidsføres alderspensjon om lag opprettholdes med halv skjerming av uføre.
+
+Forholdet mellom uføres og arbeidsføres alderspensjon etter fødselsår.<sup>1</sup> Arbeidsføre kompenserer fullt for virkningen av levealdersjustering. Prosent
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Figur 14.11 viser andelen garantipensjonister ved avgang i de seks alternativene. En garantipensjonist er her en person som mottar hel eller avkortet garantipensjon. I referansebanen holder andelen seg relativt stabilt rundt 35 prosent for alle årskullene. I alternativet der minsteytelsene reguleres med lønnsveksten fratrukket 0,3 prosent, faller andelen noe fordi uføre her skjermes for halvparten av virkningen av levealdersjustering, mens det ikke er noen skjerming i referansebanen. I alternativene der minsteytelsene reguleres med lønnsveksten så øker andelen garantipensjonister til rundt 50 prosent for uføre født etter år 2000. Det er relativt små forskjeller mellom de fire øverste linjene, men andelen garantipensjonister reduseres med økt skjerming av uføres alderspensjon.
+
+Andel garantipensjonister<sup>1</sup> ved avgang. Prosent
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Det er relativt stor forskjell på andelen garantipensjonister blant arbeidsføre og uføre. Blant arbeidsføre stabiliseres andelen garantipensjonister rundt 40 prosent i alternativene, mens figur 14.12 viser at andelen stiger til over 70 prosent blant uføre i alternativene med lønnsregulering og halv eller to tredels skjerming. Opptjening til 67 år for uføre i ny opptjeningsmodell gir noe lavere andel garantipensjonister enn med opptjening til 65 år.
+
+Andel uføre garantipensjonister<sup>1</sup> ved avgang. Prosent
+
+<sup>1</sup> Personer med minst 20 års botid. Se tabell 14.3 for en presisering av alternativene.
+
+Tabell 14.5 og figur 14.13 viser pensjonskostnadene. Forskjellen mellom de to alternativene med full skjerming, er at det alternativet som skal illustrere mindretallets forslag har opptjening til 67 år for uføre i ny opptjeningsmodell for alderspensjon og ikke årskullspesifikk minsteytelse, mens alternativet *lønnsregulering, full skjerming* har opptjening til 65 år og årskullspesifikk minsteytelse. Tabellen viser at pensjonskostnadene er rundt fire mrd. lavere både i 2060 og 2080 med opptjening til 65 år og årskullspesifikk minsteytelse.
+
+Pensjonskostnader.<sup>1</sup> Mrd. 2021-kroner (lønnsdeflatert)
+
+<sup>1</sup> Se tabell 14.3 for en presisering av alternativene. Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen. I alternativene i de fire midterste linjene får uføre opptjening til 65 år i ny opptjeningsmodell for alderspensjon, og det er årskullspesifikke minsteytelser.
+
+Tabell 14.5 viser videre at graden av skjerming av uføre har relativt stor betydning for kostnadene. I alternativene med opptjening til 65 år for uføre, er forskjellen på full og to tredels skjerming 5,5 mrd. 2021-lønnskroner i 2060 og 10,6 mrd. i 2080, mens forskjellen på full og halv skjerming er 8,5 mrd. i 2060 og 16,0 mrd. i 2080.
+
+Forskjellen mellom de to siste kolonnene i tabell 14.5 viser betydningen av reguleringen. Dersom minsteytelsene reguleres med lønnsveksten fratrukket 0,3 prosent, reduseres kostnadene med 9,6 mrd. i 2060 og 16,6 mrd. i 2080.
+
+Pensjonskostnader.<sup>1</sup> Mrd. 2021-kroner (lønnsdeflatert)
+
+07J1xt2
+
+<table>
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 11%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th>Referansebanen</th>
+<th>Lønnsregulering, opptjening til 67 år, full skjerming</th>
+<th>Lønnsregulering, full skjerming</th>
+<th>Lønnsregulering, to tredels skjerming</th>
+<th>Lønnsregulering, halv skjerming</th>
+<th>Lønn minus 0,3 %, halv skjerming</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2021</td>
+<td>259,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td>336,4</td>
+<td>344,8</td>
+<td>343,0</td>
+<td>341,8</td>
+<td>341,2</td>
+<td>337,1</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>363,5</td>
+<td>394,9</td>
+<td>390,9</td>
+<td>385,5</td>
+<td>382,4</td>
+<td>372,8</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>372,6</td>
+<td>435,5</td>
+<td>431,3</td>
+<td>420,7</td>
+<td>415,3</td>
+<td>398,7</td>
+</tr>
+<tr>
+<td colspan="4"><em>Endring fra referansebanen i mrd.</em></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td></td>
+<td>8,3</td>
+<td>6,5</td>
+<td>5,3</td>
+<td>4,8</td>
+<td>0,7</td>
+</tr>
+<tr>
+<td>2060</td>
+<td></td>
+<td>31,5</td>
+<td>27,5</td>
+<td>22,0</td>
+<td>19,0</td>
+<td>9,4</td>
+</tr>
+<tr>
+<td>2080</td>
+<td></td>
+<td>62,9</td>
+<td>58,7</td>
+<td>48,1</td>
+<td>42,7</td>
+<td>26,1</td>
+</tr>
+<tr>
+<td colspan="4"><em>Endring fra referansebanen i prosent</em></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td></td>
+<td>2,5</td>
+<td>1,9</td>
+<td>1,6</td>
+<td>1,4</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td>2060</td>
+<td></td>
+<td>8,7</td>
+<td>7,6</td>
+<td>6,1</td>
+<td>5,2</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2080</td>
+<td></td>
+<td>16,9</td>
+<td>15,8</td>
+<td>12,9</td>
+<td>11,5</td>
+<td>7,0</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Se tabell 14.3 for en presisering av alternativene. Pensjonskostnader er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv. sammenliknet med referansebanen. I de fire kolonnene til høyre får uføre opptjening til 65 år i ny opptjeningsmodell for alderspensjon og det er årskullspesifikke minsteytelser.
+
+Tabell 14.6 viser utviklingen i bidragsraten, mens tabell 14.7 viser netto skattesats. Fordi arbeidstilbudet er høyere med økte aldersgrenser, er forskjellen mellom referansebanen og de tre alternativene med lønnsregulering av minsteytelsene og opptjening til 65 år for uføre i ny opptjeningsmodell – som også innebærer økte aldersgrenser – mindre enn forskjellen i pensjonskostnader. I alternativene med økte aldersgrenser, men ulik grad av skjerming, er det forutsatt samme arbeidstilbud.
+
+Netto skattesats.<sup>1</sup> Prosent
+
+07J1xt2
+
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th>Referansebanen</th>
+<th>Lønnsregulering, opptjening til 67 år, full skjerming</th>
+<th>Lønnsregulering, full skjerming</th>
+<th>Lønnsregulering, to tredels skjerming</th>
+<th>Lønnsregulering, halv skjerming</th>
+<th>Lønn minus 0,3 %, halv skjerming</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2021</td>
+<td>12,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td>14,8</td>
+<td>15,1</td>
+<td>15,0</td>
+<td>15,0</td>
+<td>15,0</td>
+<td>14,8</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>15,6</td>
+<td>16,3</td>
+<td>16,2</td>
+<td>16,1</td>
+<td>16,0</td>
+<td>15,8</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>15,9</td>
+<td>17,3</td>
+<td>17,2</td>
+<td>17,0</td>
+<td>16,9</td>
+<td>16,5</td>
+</tr>
+<tr>
+<td colspan="2"><em>Endring fra referansebanen. Prosentpoeng</em></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td></td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,1</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td>2060</td>
+<td></td>
+<td>0,8</td>
+<td>0,7</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td>2080</td>
+<td></td>
+<td>1,5</td>
+<td>1,4</td>
+<td>1,1</td>
+<td>1,0</td>
+<td>0,6</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Se tabell 14.3 for en presisering av alternativene.
+
+Tabell 14.7 viser at netto skattesats i 2060 øker med fra 0,5 til 0,7 prosentpoeng sammenliknet med referansebanen i de tre alternativene med lønnsregulering av minsteytelsene og opptjening til 65 år, avhengig av graden av skjerming av uføre. I 2080 er økningen fra 1,0 til 1,4 prosentpoeng. Med opptjening til 67 år er økningen 0,8 prosentpoeng i 2060 og 1,5 prosentpoeng i 2080.
+
+Bidragsrate.<sup>1</sup> Prosent
+
+07J1xt2
+
+<table>
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 11%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th>Referansebanen</th>
+<th>Lønnsregulering, opptjening til 67 år, full skjerming</th>
+<th>Lønnsregulering, full skjerming</th>
+<th>Lønnsregulering, to tredels skjerming</th>
+<th>Lønnsregulering, halv skjerming</th>
+<th>Lønn minus 0,3 %, halv skjerming</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2021</td>
+<td>15,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2040</td>
+<td>18,0</td>
+<td>18,4</td>
+<td>18,3</td>
+<td>18,2</td>
+<td>18,2</td>
+<td>18,0</td>
+</tr>
+<tr>
+<td>2060</td>
+<td>18,9</td>
+<td>20,3</td>
+<td>20,1</td>
+<td>19,8</td>
+<td>19,7</td>
+<td>19,2</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>19,3</td>
+<td>22,0</td>
+<td>21,8</td>
+<td>21,3</td>
+<td>21,1</td>
+<td>20,3</td>
+</tr>
+<tr>
+<td colspan="7"><em>Endring fra referansebanen. Prosentpoeng</em></td>
+</tr>
+<tr>
+<td>2040</td>
+<td></td>
+<td>0,4</td>
+<td>0,3</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td>2060</td>
+<td></td>
+<td>1,4</td>
+<td>1,2</td>
+<td>0,9</td>
+<td>0,8</td>
+<td>0,4</td>
+</tr>
+<tr>
+<td>2080</td>
+<td></td>
+<td>2,7</td>
+<td>2,5</td>
+<td>2,0</td>
+<td>1,8</td>
+<td>1,0</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Se tabell 14.3 for en presisering av alternativene.

@@ -1,1433 +1,202 @@
-# NOU 2022: 7, del 15 av 31 (side 168–179)
+# NOU 2022: 7, del 15 av 32
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
 - Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 168]
-
-166
-
-Kapittel 8
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-sekvensene av endringer, er nivåene i referansebanen ofte av mindre betydning. En vil uansett
-kunne få fram anslag på endringseffektene. I boks
-
-8.3 beskrives kort modellen som benyttes for
-disse beregningene, Mosart.
-
-Boks 8.3 Mosart
-3. Ny utforming av folketrygdens ytelser til
-Modell for skolegang, arbeidsmarked og trygd
-etterlatte, jf. Prop. 13 L (2020–2021), Innst.
-(Mosart) er en demografisk basert mikrosimu128 L (2020–2021) og Lovvedtak 39 (2020–
-leringsmodell. Modellen tar i de fleste framskri2021), er lagt inn i modellen.
-vinger utgangspunkt i den fullstendige populasjonen av individer i de norske registerdataene
-Forutsetninger om hvordan individene tilpasser
-og simulerer det videre livsforløpet for alle indiseg er vesentlige for utfallet av modellberegninvidene.
-gene. Vi har valgt å legge til grunn de forutsetModellen simulerer en rekke hendelser over
-ningene som gjøres i SSBs hovedalternativ for
-livsløpet som inn- og utvandring, fødsler, død,
-framskrivinger med Mosart i andre sammenforandringer i ekteskapsstatus, skolegang,
-henger. Det innebærer en noe lenger forleneffekten av utdanningsnivå, trygdestatus og
-gelse av yrkeskarrieren enn det som ligger inne
-arbeidstilbud med arbeidsinntekt. Modellen er
-i Perspektivmeldingen. Det er i Perspektivmelsærlig egnet til å studere sammenhengen meldingen forutsatt at levealdersjusteringen bare
-lom disse nevnte hendelsene, og er svært rik i
-delvis kompenseres, jf. avsnitt 8.7. Utvalget vil
-modelleringen av pensjons- og trygdesystemet.
-understreke at forutsetningen om forlengelsen
-Dette gjør Mosart til et særlig egnet verktøy for
-av yrkeslivet for å motvirke effekten av levealå beregne virkninger av ulike regelverksdersjustering er usikker, og kan være for optiendringer for pensjons- og trygdesystemet,
-mistisk på sikt. Effekten av andre forutsetninger
-både med hensyn til budsjettmessige konseblir belyst i avsnitt 8.5.2. I vurderingen av
-kvenser så vel som konsekvenser for individene
-endringer av aldersgrensene, jf. kapittel 9, kan
-på både kort, mellomlang og lang sikt.
-det være grunn til å ta høyde for mindre optimisMosart benyttes i svært mange sammenhentiske forutsetninger.
-ger, og det er derfor nødvendig å klargjøre
-Under følger en nærmere beskrivelse av
-hvilke forutsetninger som ligger til grunn for
-noen viktige forutsetninger i utvalgets referanutvalgets bruk av modellen. Det er laget en refesebane:
-ransebane som skiller seg noe fra for eksempel
-A. Avgangsalderen øker med to tredeler av
-den som brukes i Perspektivmeldingen 2021.
-økningen i alderen som gir delingstall lik
-Hensikten er at utvalgets referansebane skal ta
-13,42 (delingstallet for 1943-kullet ved 67 år).
-utgangspunkt i regelverket for pensjonssysFor en flat inntektsprofil på 40 år vil dette
-temet nøyaktig slik det er utformet i dag, uten å
-sammen med opptjeningseffekten, langt på
-forskuttere noen regelverksendringer selv på
-vei kompensere for levealdersjusteringen.
-lang sikt.
-B. Levealdersjusteringen øker mye mellom
-Referansebanen bygger på middelalternati1953- og 1963-kullet, delvis på grunn av overvet i Statistisk sentralbyrås befolkningsframskrigang fra forholdstall til delingstall. Det er
-vinger fra 2020.
-lagt inn en mer moderat vekst i avgangsaldeFølgende forutsetninger om regelverk i referen over disse årskullene, på linje med hva
-ransebanen skiller seg fra tidligere analyser:
-enten forholdstall eller delingstall hver for
-1. Det er ikke forskuttert regelendringer som
-seg ville gitt. Parallelle endringer i opptjeskjermer uføre eller tilpasser alderspensjoningssatser og -muligheter kan begrunne
-nen til uføre til utviklingen i de yrkesaktives
-dette.
-yrkeskarrierer ut over det såkalte skjermingstillegget for personer født i årene
-1
-Det er i Perspektivmeldingen 2021 lagt inn en viss skjer1944–1953.1
-ming av uføre. Mer presist følger skjermingen av uføre
-2. Den øvre aldersgrensen for pensjonsopptjeveksten i avgangsalder for ikke-uføre som antas å tilsvare
-om lag 2/3 kompensasjon for effekten av levealdersjustening på 75 år ligger fast over tid.
-ringen. Dette vil derfor gi uføre en «skjermingsgrad» tilsvarende 2/3 av effekten av levealdersjusteringen.
-
-[Side 169]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-167
-
-Kapittel 8
-
-Boks 8.3 forts.
-C. Overgangssannsynlighetene til arbeidsavklaringspenger og uføretrygd holdes på gjennomsnittlig observert nivå over årene 2016–
-2020.
-D. Nivå for tidliguttak for alderspensjon reduseres med om lag 10–15 prosent sammenliknet
-med det observerte nivået.
-E. Utfra befolkningsframskrivingene legges det
-inn innvandrere etter landbakgrunn (VestEuropa+, Østlig EU og Resten av Verden) og
-kjønn og alder. Nye innvandrere tildeles tre
-kjennetegn; utdanning, om de kommer rett i
-jobb og forventet inntektsnivå (et restledd
-som følger hver person over hele livsløpet).
-Alle tre kjennetegn er basert på statistikk fra
-nyere år. En stor andel av innvandrerne vil få
-uoppgitt utdanning, og det er en variabel
-som påvirker yrkesdeltaking og pensjonering.
-Å stå uten arbeid eller utdanningsaktivitet i
-voksen alder, er et kjennetegn som i stor
-grad svekker videre yrkesdeltaking.
-Innvandring er viktig, både ved at innvandrere trolig vil ha lav inntekt som alderspensjonister, og fordi det kan være uklart i hvilken grad de bidrar til finansieringen av pensjonen (gjennom skatt på arbeidsinntekt).
-Personer som kommer som innvandrere
-til Norge etter fylte 16 år, tar med seg sine
-kjennetegn, mens personer som er født av
-innvandrere eller ankommer Norge før fylte
-16 år, opptrer på samme måte som de øvrige
-individene i modellen, med unntak av utdanningsvalg og fruktbarhet. Disse forskjellene
-gir lite utslag i resultatene. Personer som tar
-med seg kjennetegn som innvandrere, vil i
-
-8.5.2
-
-Utviklingen i bidragsraten – resultater
-fra referansebanen
-I det følgende beskrives utviklingen i bidragsraten
-slik vi nå ser den, sammenliknet med hvordan den
-ble vurdert under forberedelsen av pensjonsreformen.
-Det har vært gjort enkelte endringer i pensjonsreglene fra 2011 til i dag. Disse har, med unntak av ytelser til etterlatte, i hovedsak dreid seg
-om å gjøre reglene for gammel alderspensjon gunstigere. Effektene av disse endringene er betydelige på kort sikt, men vil i stor grad være faset ut
-til 2050. Samlet kostnad akkumulert fram til 2050
-
-større grad enn den øvrige befolkningen ha
-lav eller uoppgitt utdanningsnivå. Det gir utslag i lavere yrkesdeltakelse og gjelder særlig for innvandrere fra ikke-vestlige land.
-Landbakgrunn påvirker ikke direkte yrkesdeltaking og pensjonering, men indirekte
-gjennom de kjennetegnene de får tildelt.
-F. Utdanningsmønstre: Dagens mønster videreføres. Det kommer dermed en vesentlig
-økning i utdanningsnivået i den eldre delen
-av befolkningen i framskrivingene, spesielt
-blant kvinner. I Mosart påvirker utdanningsnivået yrkesdeltaking, uføretrygding
-og pensjonering ellers.
-G. Arbeid: Yrkesprosenter og arbeidstid holdes
-på gjennomsnittet av de fem siste årene. Ved
-økt avgangsalder legges det inn en viss
-økning i nivået på arbeidsinntekten for gitt
-alder. Inntektsnivået faller med økende alder
-i siste del av yrkeslivet, trolig knyttet opp
-mot kortere arbeidstid, men kanskje også
-knyttet til nedtrapping i innhold (retrettstillinger) og svakere posisjon i lønnsforhandlinger. Dette svekker opptjeningseffekten av
-økt avgangsalder. Denne effekten forskyves
-til høyere alder ved økende levealder.
-H. Samliv: Overganger i samlivsstatus holdes
-på gjennomsnittet av de fem siste årene.
-Kvinner som har stått utenfor arbeidsmarkedet og som blir skilt (eller enker), vil ha små
-pensjonsrettigheter. Det blir trolig flere
-skilte framover (generasjonseffekter), men
-samtidig har kvinner også høyere yrkesdeltaking enn før.
-
-er anslått til om lag 90 mrd. kroner.10 Endringene
-dreier seg om:
-Grunnpensjonen til gifte og samboende i gammel opptjeningsmodell ble økt fra 0,85 G til 0,9 G
-fra september 2016. Dette fikk en helårsvirkning i
-10
-
-Kilde: Arbeids- og velferdsdirektoratet basert på deres
-beregningsmodell TRIM. Beregningene som er foretatt for
-utvalget avviker noe fra kortsiktige beregninger som er
-foretatt i budsjettsammenheng. Det er i tillegg vedtatt innstramminger i flyktningefordeler inkludert økt krav til
-botid som gjelder både gammel og ny folketrygd. I 2030 er
-utgiftsvirkningen på usikkert grunnlag beregnet til 1,1 mrd.
-kroner. Reduserte utgifter under folketrygden motvirkes
-delvis av økte utgifter til supplerende stønad utenfor folketrygden.
-
-[Side 170]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-600
-500
-400
-300
-200
-100
-
-Ingen pensjonsreform
-
-2100
-
-2090
-
-2080
-
-2070
-
-2060
-
-2050
-
-2040
-
-2030
-
-2010
-
-2020
+## Innledning og sammendrag
 
-2000
+I dette kapitlet gir utvalget en overordnet vurdering av den økonomiske bærekraften til folketrygdens pensjonssystem.
 
-1990
+Pensjonskommisjonen foreslo kraftige tiltak for å bedre pensjonssystemets økonomiske bærekraft. Utvalget vil konkludere med at pensjonsreformen var nødvendig for å begrense utgiftsveksten til alderspensjon fra folketrygden og bedre bærekraften i offentlige finanser. Levealdersjusteringen bidrar til å dempe og stabilisere utgiftsveksten framover.
 
-0
-1980
+Pensjonsreformen har endret insentivene til å stå i arbeid mot slutten av yrkeslivet. De nye pensjonsreglene innfases gradvis og vil i stigende grad de neste tiårene påvirke pensjonsnivåene og fordelingen mellom grupper både for nåværende og framtidige pensjonister. Siden alderspensjon er en stor del av de offentlige utgiftene, er pensjonsreglene også svært viktige for offentlige finanser.
 
-2017 på om lag 2,5 mrd. kroner. Fra 2021 vil de
-årlige merkostnadene falle gradvis som følge av
-innfasingen av ny opptjeningsmodell for alderspensjon. Summert over perioden til 20 50 gir
-dette knapt 45 mrd. kroner i merutgifter.
-Minstepensjonen har blitt økt i flere omganger, i 2016, 2017, 2019, 2020 og 2021. Merutgiftene
-som følge av de ekstraordinære økningene i minstepensjonen er ventet å nå toppen i 2022, med om
-lag 1,7 mrd. kroner. Etter dette vil de årlige merkostnadene avta, ettersom endringene kun gjelder
-pensjon beregnet etter gamle opptjeningsregler,
-og siden det blir stadig færre minstepensjonister.
-Summert over perioden til 2050 gir dette om lag
-32 mrd. kroner i merutgifter.
-For 2021 ble det vedtatt en gunstigere regulering av alderspensjonene enn hva som hadde vært
-tilfellet med regelverket som gjaldt fram til 2020.
-Samlet effekt av den særskilte reguleringen i 2021
-er anslått å gi merkostnader i 2021 på 1,9 mrd.
-kroner. Den årlige merkostnaden vil deretter avta
-gradvis fram til alle alderspensjonister i 2021 (som
-i all hovedsak har opptjening i gammel folketrygd) på lang sikt har falt bort. Summert over
-perioden til 2050 gir dette om lag 35 mrd. kroner i
-merutgifter.
-Det er vedtatt innstramminger i etterlatteordningen. Etterlatteytelsen knyttet til gammel alderspensjon videreføres bare nominelt, dvs. uten regulering. Dette gir en akkumulert innsparing på
-rundt 22 mrd. kroner fram til 2050. Det er samtidig vedtatt at det ikke skal gis tillegg i alderspensjonen for etterlatte i ny folketrygd. Dette var en
-uavklart sak i Pensjonskommisjonen og i lovproposisjonen i 2009.11
+Oppdaterte beregninger tilsier at reformen vil kunne virke etter hensikten, og at målet om å begrense utgiftsveksten vil kunne nås. Bidragsraten er et mål for pensjonssystemets finansieringsbyrde. Med en videreføring av dagens regelverk (i en såkalt referansebane) er anslaget for bidragsraten i 2050 oppjustert fra knapt 17 prosent i 2009 til vel 18 prosent nå. Bidragsraten stabiliserer seg ut over århundret på rundt 18–19 prosent. Det er likevel klart at utgiftene til pensjon vil øke betydelig de nærmeste tiårene, noe som også lå til grunn for Pensjonskommisjonens vurderinger.
 
-1970
+Uten pensjonsreformen ville finansieringsbyrden blitt enda høyere enn tidligere antatt og den ville ha fortsatt å stige. Anslaget på bidragsraten i 2050 uten pensjonsreformen er oppjustert fra 21 prosent i 2009 til 25 prosent nå. Uten pensjonsreformen ville bidragsraten ha fortsatt å øke mot 2100, se figur 8.2.
 
-Kapittel 8
+Det er mange forhold som har endret seg siden pensjonsreformen. Levealderen har økt betydelig, og befolkningsframskrivingene viser en sterkere vekst i levealderen, særlig for menn, enn det som ble forutsatt av Pensjonskommisjonen. På den annen side har utviklingen i verdien av Statens pensjonsfond vært betydelig mer positiv enn tidligere anslått. Selv om anslaget for realavkastningen er redusert fra fire til tre prosent, er muligheten for bruk av midler fra fondet i tråd med handlingsregelen[^53] økt betydelig. Mens en i Perspektivmeldingen i 2004 så for seg at en kunne ha en fondsavkastning på knapt seks prosent av BNP for Fastlands-Norge i 2050, kan en nå forvente en fondsavkastning på åtte prosent. Vi har de siste 20 årene faset inn bruken av fondsmidler i et mye høyere tempo enn det man så for seg for 20 år siden.
 
-1960
+Utvalget vil peke på at oljepengebruken som allerede er faset inn, har gått til mange formål, som det ikke vil være lett å nedprioritere. Framover vil det i liten grad være mulig å øke utgiftene til alderspensjon, uten å måtte stramme inn på andre områder. Perspektivmeldingen viser, med de forutsetninger som ble lagt til grunn i den, at rommet for økt oljepengebruk er begrenset framover. I Meld. St. 14 (2020–2021) *Perspektivmeldingen 2021* skisseres det at vi på kort sikt kan fase inn 3–6 mrd. kroner årlig, mens vi i perioden 2011–2019 faset inn i størrelsesorden 12 mrd. kroner årlig.
 
-168
+Utvalget legger til grunn Perspektivmeldingens overordnede vurderinger av finansieringsutfordringene for offentlige finanser framover. Utvalget registrerer at de offentlige finansene, og pensjonssystemet som en del av dette, i enda større grad enn antatt ved pensjonsreformens start vil avhenge av overføringer fra pensjonsfondet.
 
-Referansebanen
+Pensjonsbeslutninger er langsiktige. Mange beslutninger om pensjonsregler som vi tar i dag, vil først få virkning på lengre sikt. Hvis vi vurderte at pensjonssystemet ikke ville være økonomisk bærekraftig mot midten av dette århundret, ville det være behov for å gjøre justeringer nå, for å ivareta pensjonsrettigheter og lage rimelige overgangsordninger.
 
-Figur 8.1 Utgifter til alderspensjon fra folketrygden.
-Mrd. 2021-kroner (lønnsdeflatert). Framskrevet etter
-2019
-Kilde: Statistisk sentralbyrå.
+Utvalget vil peke på flere forhold som er viktige ved en vurdering av framtidig økonomisk bærekraft. Bærekraften vil i stor grad avhenge av at vi sikrer et tilstrekkelig høyt arbeidstilbud. Dette vil være krevende. Hvis vi ikke lykkes med det, vil det være svært utfordrende å sikre både tilstrekkelige inntekter og tilstrekkelig arbeidskraft til velferdsstaten, herunder til å dekke økende behov for helse- og omsorgstjenester. Det er svært viktig at pensjonssystemet fortsatt støtter opp under insentivene til å stå i arbeid.
 
-Utvikling i bidragsraten
-Figur 8.2 viser utviklingen i bidragsraten henholdsvis med og uten pensjonsreformen.12 Hoved35
-30
-25
-20
+Perspektivmeldingen legger til grunn at standarden på offentlige tjenester fortsatt vil øke noe framover, men at veksten vil bli betydelig mindre enn vi har vært vant til. Dessuten viser Perspektivmeldingen et betydelig inndekningsbehov. Vekst i produktiviteten vil innebære at framtidige generasjoner trolig vil være rikere enn oss, og det kan argumenteres for at de selv bør finansiere standardhevinger og konsekvenser av økende levealder. Utvalget vil derfor mene at neste generasjon, ut fra det vi nå ser for oss, ikke bør ha grunnlag for å hevde at vår generasjon burde ha strammet inn pensjonssystemet på 2020-tallet. Selv om neste generasjon må forvente å stå lenger i jobb for å opprettholde pensjonsnivået, vil dette være knyttet til at forventet levealder vil øke, og dermed antakelig også den helsemessige funksjonsdyktigheten ved ulike alderstrinn.
 
-Samlede utgifter til alderspensjon
+Utvalget vil konkludere med at det bildet som dette kapitlet tegner av utviklingen framover med dagens regelverk og ut fra forutsetningene i referansebanen, ikke tilsier at det er behov for større innstramminger og systemendringer.
 
-15
+Utvalget vil imidlertid peke på at vi står overfor en usikker framtid. Forutsetninger om pensjonsfondets avkastning framover kan for eksempel vise seg å være for optimistiske. Hvis forutsetningene for pensjonssystemets bærekraft – for eksempel forholdet mellom antall arbeidstakere og pensjonister – svikter i betydelig grad, må sterkere tiltak for å stabilisere utgiftene vurderes.
 
-Samlet vil utgiftene til alderspensjon øke framover, helt fram til rundt år 2080, hvor utgiftene i
-2021-beløp utgjør knapt 373 mrd. kroner, se figur
-8.1. Utgiftene stiger ganske raskt fram til om lag
-2040 og flater noe ut etter dette.
-I en situasjon uten pensjonsreform kunne
-utgiftene i 2080 komme til å bli knapt 570 mrd.
-kroner, dvs. om lag 200 mrd. kroner mer enn med
-pensjonsreformen.
+En kan håpe på at sysselsettingen øker mer og at Statens pensjonsfond vokser raskere enn det som nå legges til grunn, men en bør ikke planlegge ut fra dette. Utvalget mener at vi bør vektlegge den nedsiderisikoen som finnes for offentlige finanser framover. Det tilsier at en bør være forsiktig med å vedta nye justeringer av pensjonssystemet som øker utgiftene. Dette må også ses i lys av at pensjonsregler i noen grad er beskyttet av Grunnloven, slik at det kan bli krevende å stramme inn ordninger med rask effekt på et senere tidspunkt hvis en først har økt pensjonsrettighetene.
 
-10
-5
+På denne bakgrunnen mener utvalget at pensjonssystemet ikke bør justeres slik at det svekker bærekraften, men at justeringene som kan og bør gjøres, må bidra til en balansert og holdbar utvikling. Utvalget mener derfor at for å bidra til en balanse mellom generasjonene, bør bidragsraten i utgangspunktet ikke øke særlig mye ut over anslaget i referansebanen.
 
-Ingen pensjonsreform
+Dette kan bli krevende. Det er flere forhold ved dagens regelverk som ikke i tilstrekkelig grad bidrar til å sikre den sosiale bærekraften. Utvalget viser blant annet til at det i referansebanen ikke er lagt inn skjerming av uføre for levealdersjusteringen. Ved vurderingen av uføres alderspensjon (jf. kapittel 12 og kapittel 14) vil hensynet til behovet for en slik skjerming måtte avveies mot konsekvensene for den økonomiske bærekraften.
 
-2090
+Framover vil det være særlig viktig at eventuelle justeringer opprettholder gode insentiver til å stå i arbeid, og ikke vesentlig svekker levealdersjusteringen, som er den mekanismen som i pensjonsreformen særlig ivaretar den økonomiske bærekraften.
 
-2100
+Tilstrekkelig oppslutning om reformen er avgjørende for å sikre bærekraftige pensjonsordninger. Siden reformen ble innført i 2011, og før den for alvor har begynt å få betydelig effekt, er det vedtatt en rekke mindre justeringer i pensjonsreglene. Det er vedtatt økt grunnpensjon til gifte og samboende pensjonister, minstepensjonen er økt i flere omganger og det ble gitt gunstigere regulering av alderspensjon under utbetaling i 2021. Endringene har i stor grad dreid seg om å gjøre reglene for gammel alderspensjon mer gunstige.[^54] Effektene vil derfor i hovedsak være faset ut til 2050. Nå som ny alderspensjon fases inn, og levealdersjusteringen får større effekt over tid, er det avgjørende at det er oppslutning om de samlede pensjonsreglene, og at oppslutningen hviler på at konsekvensene av reglene er forstått og aksepterte ut fra en helhetsvurdering. Pensjonssystemet er komplekst, og endringer på ett område kan få utilsiktede konsekvenser på andre områder. Enkelte justeringer som hver for seg kan fremstå som fornuftige kan, om de blir mange nok, over tid bidra til å undergrave pensjonsreformen og målet om et bærekraftig pensjonssystem. Det kan derfor være hensiktsmessig at endringer i pensjonsreglene gjennomføres på bakgrunn av brede evalueringer, for eksempel hvert tiende år, jf. avsnitt 4.6.
 
-2080
+Videre innhold
 
-2070
+Mandatet og utvalgets vektlegginger og forståelse av økonomisk bærekraft blir redegjort for i avsnitt 8.2
 
-2060
+I avsnitt 8.3 introduseres begrepet bidragsrate, som beskriver forholdet mellom pensjonsutgifter og samlede pensjonsgivende inntekter i samfunnet. Bidragsraten er en viktig, men ikke fullt ut dekkende, indikator for økonomisk bærekraft.
 
-2050
+I avsnitt 8.4 beskrives målbildet for pensjonsreformen slik det var før den trådte i kraft.
 
-2040
+I avsnitt 8.5 gir utvalget en oppdatert vurdering av den økonomiske bærekraften belyst ved bidragsraten. Hovedbildet er at behovet for pensjonsreformen er minst like stort nå som anslått av Pensjonskommisjonen. Videre anslås effekten av pensjonsreformen å bli om lag som forventet av Pensjonskommisjonen.
 
-2030
+I avsnitt 8.6 beskrives befolkningsutviklingen som påvirker den økonomiske bærekraften i stor grad. Befolkningsframskrivingene de siste 20 årene innebærer at vi lever og kommer til å leve stadig lenger.
 
-2020
+Pensjonssystemets økonomiske bærekraft bør gjøres ut fra en bredere tilnærming enn isolerte vurderinger av bidragsraten. Den må også ses i en helhetlig sammenheng med bærekraften i offentlige finanser og andre utfordringer for velferdsstaten. I avsnitt 8.7 beskrives en slik bred tilnærming med utgangspunkt i Perspektivmeldingen 2021 som beskriver utfordringsbildet for neste generasjon (dvs. i 2060). Perspektivmeldingen anslår som hovedalternativ et inndekningsbehov på 5,6 prosent av BNP for Fastlands- Norge i 2060.[^55]
 
-2010
+I avsnitt 8.8 skisseres hvordan utfordringer for den økonomiske bærekraften i pensjonssystemet kan håndteres, enten ved tilpasninger av andre utgifter, skatteøkninger eller utgiftsreduksjoner i selve pensjonssystemet.
 
-2000
+Avsnitt 8.9 drøfter om pensjonssystemet har iboende systemutfordringer som kan bli vanskelige å håndtere over tid. Levealdersjustering av ytelsene er det viktigste systemtiltaket som Pensjonskommisjonen foreslo, og det ivaretar mye av de systemutfordringene som pensjonssystemet må håndtere. Andre land, som Sverige, har imidlertid mer omfattende tiltak for å sikre den økonomiske bærekraften.
 
-1990
-
-1980
-
-1970
-
-1960
-
-0
-
-Referansebanen
-
-Figur 8.2 Bidragsrate. Framskrevet etter 2019.
-Prosent
-11
-
-Sammenliknet med en videreføring av en etterlatteordning
-også i ny folketrygd, er dette en betydelig innstramming.
-Samlet årlig innsparingseffekt (inkludert nominell videreføring av gammel etterlatteytelse) er av Arbeids- og inkluderingsdepartementet beregnet til om lag 3 ½ mrd. om 30–
-35 år.
+## Mandatet og utvalgets forståelse av økonomisk bærekraft
 
-Kilde: Statistisk sentralbyrå.
-12
+Vi lever lenger og blir flere eldre framover. Denne demografiske utviklingen med flere eldre (særlig over 80 år), gir økte utgifter til pensjoner og økte utgifter og betydelig økt personellbehov i helse- og omsorgssektoren. Samtidig blir det svakere vekst i den delen av befolkningen som gjennom arbeid og skattebetalinger skal finansiere utgiftsveksten. Dette er en stor utfordring for velferdssamfunnet framover som mange land står overfor.
 
-Det er forutsatt at pensjonene uten pensjonsreformen ville
-blitt regulert med lønn. I perioden før pensjonsreformen
-ble pensjonene i stor grad regulert lavere enn lønn, jf.
-kapittel 10.
+I mandatet for utvalget sies det blant annet:
 
-[Side 171]
+«Pensjonsreformens langsiktige mål er å styrke bærekraften både ved at veksten i utgiftene til alderspensjon begrenses og gjennom at styrkede insentiver til arbeid vil bedre pensjonssystemets finansieringsgrunnlag. (…)
 
-169
+\[Det\] oppnevnes et utvalg som skal beskrive pensjonssystemet og evaluere om de langsiktige målene i reformen vil kunne nås. Utvalget skal videre se på mulige justeringer for å sikre pensjonssystemets økonomiske og sosiale bærekraft. (…)
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+\[M\]ålet om at flere står lenger i arbeid, (…) vil (…) bidra til å styrke den økonomiske bærekraften gjennom økt verdiskaping og økte skatteinntekter. (…) Utvalget skal drøfte i hvilken grad det langsiktige målet i reformen om å begrense utgiftsveksten vil kunne nås.»
 
-Kapittel 8
+Dette avsnittet drøfter utvalgets forståelse av hva økonomiske bærekraft betyr.
 
-Tabell 8.2 Bidragsrate for alderspensjon i 2050. Anslag i NOU 2004: 1, i Ot.prp. nr. 37 (2008–2009) og nye
-anslag basert på oppdaterte forutsetninger. Prosent
-Pensjonskommisjonen NOU 2004: 1
+Folketrygdens alderspensjon er basert på at utgiftene dekkes løpende (pay-as-you-go). Overordnet kan den økonomiske bærekraften vurderes ut fra om det er et bærekraftig forhold mellom skatteinntekter og utgiftene til alderspensjon. Kan utgiftsnivået bæres av dem som betaler inn til systemet, uten å fortrenge andre viktige oppgaver for det offentlige? Kan utgiftsnivået bæres uten at økonomiens funksjonsevne svekkes av for høye skattesatser og svekkede arbeidsinsentiver? Er det en rimelig og rettferdig fordeling av byrdene mellom yrkesaktive og yrkespassive?
 
-Ot.prp. nr. 37 (2008–2009)
+Den økonomiske bærekraften vil grovt sett avhenge av tre forhold:
 
-Oppdaterte anslag
+- Er *nivået* på det som kreves av innbetalinger/skattefinansiering i utgangspunktet rimelig ut fra effektivitets- og byrdefordelingshensyn?
 
-Uten reform
+- Et dette nivået *stabilt*, eller vil det øke over tid? En økende belastning over tid vil utfordre bærekraften.
 
-23,2
+- Er det *mekanismer* i pensjonssystemet som håndterer balansen mellom inntekter og utgifter over tid? Det vil være en fordel om disse mekanismene ikke krever stadig nye politiske vedtak, men er regelfestede og tilpasses løpende de utfordringene vi vil møte.
 
-21,0
+Utvalget vil drøfte utviklingen i pensjonssystemet til nå og framover ut fra disse tre forholdene.
 
-25,0
+Det har vært en betydelig vekst i levealderen over tid, og veksten vil trolig fortsette. Et system med faste aldersgrenser, og faste ytelser ved disse aldersgrensene, vil medføre stadig økende utgifter. Det gamle pensjonssystemet i folketrygden hadde ikke noen mekanisme som hindret at høyere levealder medførte at like høye pensjoner ble utbetalt i en stadig lenger tidsperiode. Dette ville ha gitt behov for stadig økende innbetalinger/skatter for å finansiere pensjonene. Det sentrale grepet i pensjonsreformen var å innføre levealdersjustering av ytelsene. Det innebærer at den enkelte må forlenge yrkesdeltakelsen for å opprettholde et gitt årlig pensjonsnivå, når levealderen øker. Denne mekanismen bidrar til å dempe utgiftsveksten og på sikt i stor grad til å stabilisere utgiftene til alderspensjon. Utgiftene til pensjon vil imidlertid likevel øke betydelig de nærmeste tiårene.
 
-Med reform
+Den økonomiske bærekraften avhenger også av hvilke insentiver pensjonssystemet gir. Dersom flere, som følge av reformen, står lenger i arbeid, bidrar det gjennom økte skatteinntekter til å bedre finansieringsgrunnlaget for folketrygdens alderspensjon og velferdsstaten. Målet må være et økonomisk og sosialt bærekraftig pensjonssystem med en rimelig byrdefordeling mellom generasjonene samtidig som andre viktige velferdsordninger og offentlige oppgaver ikke fortrenges.
 
-18,8
+Utgiftene til alderspensjon fra folketrygden er den største enkeltposten på statsbudsjettet. Statens evne til å finansiere utgiftene til alderspensjon avhenger imidlertid også av utviklingen i andre utgifter og hvordan statsbudsjettets inntekter, primært skatteinntekter, men også inntektene fra Statens pensjonsfond utland, utvikler seg.
 
-16,6
+Utvalgets mandat tar utgangspunkt i utfordringer for offentlige finanser mer generelt, jf.:
 
-18,3
+«Aldringen av befolkningen medfører at offentlige finanser stilles overfor store utfordringer i årene framover. (…) Det ligger (…) an til at handlingsrommet i finanspolitikken de neste årene blir vesentlig mindre enn vi er blitt vant til, som betyr behov for økte offentlige inntekter og/eller reduserte offentlige utgifter. Finansieringen av fremtidens velferdssamfunn vil kreve gode og bevisste valg i årene som kommer. Dersom målene med pensjonsreformen ikke nås, vil utfordringene bli betydelig mer krevende.»
 
-bildet er at bidragsraten stiger en del de nærmeste årene særlig fram til 2040, men etter hvert
-stabiliserer seg på rundt 18–19 prosent. En stabilisering over tid er en viktig forutsetning for et
-bærekraftig system. Videre må nivået være bærekraftig. Vi ser av tabell 8.2 at bidragsraten i 2050
-er på 18,3 prosent i referansebanen. Det er noe
-høyere enn det som ble beregnet i forbindelse
-med pensjonsreformen i Ot.prp. nr. 37 (2008–
-2009). Nivået fortsetter å stige noe utover århundret, men mer avdempet. Bidragsraten når noe
-over 19 prosent i 2080. I alternativet uten pensjonsreform fortsetter bidragsraten å stige sterkt
-utover århundret, og kommer opp i 31 prosent.
-Det er i dette alternativet både forutsatt økte utgifter og noe lavere arbeidstilbud. Dette viser at uten
-pensjonsreformen ville den økonomiske bærekraften vært kraftig svekket.
-Bildet som tegnes, er at pensjonssystemet fram
-til 2050 ville ha vært enda mindre bærekraftig uten
-pensjonsreformen, enn det som ble lagt til grunn i
-2004 og i 2009. Behovet for pensjonsreformen vurdert ut fra indikatoren bidragsrate, kan altså anslås
-å være en del større enn det som ble antatt da reformen ble vedtatt og også noe større enn de opprinnelige anslagene fra Pensjonskommisjonen.
-Forskjellen fra Ot.prp. nr. 37 (2008–2009) i
-alternativet med reform skyldes i stor grad effekten av tidliguttak av pensjon, som på kort sikt har
-økt pensjonsutgiftene mer enn man forutså. I anslaget fra 2009 ble det antatt at uttaksalder var lik
-avgangsalder, noe som kraftig undervurderte
-uttaket.
+Utvalget vil derfor både vurdere i hvilken grad utgiftsveksten i pensjonssystemet isolert sett er bærekraftig, og i hvilken grad pensjonssystemet er bærekraftig i lys av andre utviklingstrekk. Eksempelvis kan det stilles enda strengere krav til bærekraften i pensjonssystemet hvis andre utviklingstrekk tilsier at det er behov for innstramminger i offentlige finanser. Alternativt kan vi tåle sterkere vekst i utgiftene til alderspensjon enn forutsatt, hvis andre utviklingstrekk tilsier økt handlingsrom for offentlige finanser framover.
 
-Et annet viktig element er at befolkningen i
-dagens befolkningsframskrivinger har betydelig
-lengre forventet levetid enn i framskrivingene
-som lå til grunn i 2009. Det påvirker særlig anslaget for bidragsraten uten reform. Oppjusteringen
-av anslaget på bidragsraten med reform er mindre, fordi den ekstra økningen i levealder vil ha
-mindre effekt på grunn av levealdersjusteringen.
-Anslagene for utgifter og bidragsrate avhenger av hvilke forutsetninger som er lagt til grunn.
-I det følgende vises hvordan referansebanen
-påvirkes av endrede forutsetninger om levealder
-og yrkesdeltakelse.
-Utvikling i levealder
-Hvis vi legger SSBs høyalternativ for levealder13
-til grunn, vil utgiftene i 2060 være nesten 16 mrd.
-kroner høyere enn i referansealternativet.
-Bidragsraten vil være om lag 0,4 prosentpoeng
-høyere i 2060 og 0,3 prosentpoeng høyere i 2080.
-Delingstallene fastsettes med bakgrunn i anslag
-for levealder som er fortidige og ikke basert på
-prognoser. Delingstallene vil dermed i en situasjon med økende levealder undervurdere hvor
-lenge folk faktisk vil motta pensjon og dermed
-ikke fullt ut nøytralisere finansieringsbyrden ved
-økt levealder. Uten pensjonsreformen ville svekkelsen av bidragsraten som følge av høy levealders13
+Et moment i en slik vurdering kan være om utviklingen i pensjonsfondets størrelse tilsier endringer i målbildet for pensjonsreformen. Et annet moment kan være utviklingen på andre utgiftsområder, for eksempel utviklingen i helse- og omsorgsbehov knyttet til at det blir flere eldre over 80 år.
 
-SSBs høyalternativ for levealder legger til grunn knapt to
-år lenger forventet levealder ved fødselen i 2060 enn i middelalternativet; 91,7 år versus 89,9 år.
+Dette overordnete perspektivet vil bli belyst med utgangspunkt i Perspektivmeldingen 2021 i avsnitt 8.7.
 
-Tabell 8.3 Utgifter og bidragsrate under ulike forutsetninger om levealder og yrkesdeltakelse. Mrd. 2021kroner (lønnsdeflatert). Bidragsrate i prosent
-År
-Alternativ
+## Bidragsraten som mål for bærekraft
 
-2050
+Endringer i pensjonssystemet har virkninger langt fram i tid. Utgiftene til alderspensjon over tid blir som oftest målt i *faste lønninger*, altså korrigert for den nominelle lønnsveksten.[^56]
 
-2060
+Utgiftene målt i faste lønninger – eller fast grunnbeløp (G) – sier noe om volumet på utgiftene, men er ikke tilstrekkelig til å belyse hvor krevende finanseringen av disse utgiftene vil bli. Folketrygden finansieres løpende, og det er derfor nærliggende å måle finansieringsbyrden som andel av den løpende verdiskapingen, altså brutto nasjonalprodukt (BNP) eller BNP for Fastlands-Norge.[^57] Dette er tilnærmingen i Perspektivmeldingen, der en vurderer inndekningsbehovet, dvs. differansen mellom inntekter og utgifter, for offentlig sektor som andel av BNP i Fastlands-Norge.
 
-2080
+Utgiftene til alderspensjon målt som andel av all pensjonsgivende inntekt i samfunnet, ofte omtalt som *bidragsraten*, er et hyppig brukt, mål på den finansielle bærekraften til alderspensjonssystemet, men noe snevrere enn tilnærmingen ut fra BNP. Se boks 8.1 for en definisjon av bidragsraten og drøfting av ulike utforminger av denne indikatoren. Det som skiller disse utformingene, er hvordan de behandler skatt på pensjonsinntekter.
 
-Utgifter
+Definisjon av bidragsraten og håndtering av skatt på pensjonsinntekt
 
-Bidragsrate
+Bidragsraten, slik den har vært anvendt i beregninger av pensjonsforpliktelser, tilsvarer den skattesatsen som er nødvendig for å finansiere utbetalingene av alderspensjon fra folketrygden, gitt at finansieringsbyrden utelukkende legges på arbeids- og pensjonsinntekter i samme år. Både utgiftene og finansieringsgrunnlaget deflateres med lønn, noe som får fram utviklingen i finansieringsbyrden over tid (Stensnes m.fl. 2007, side 20f). Rent teknisk har bidragsraten i arbeidet med pensjonsreformen vært definert som:
 
-Utgifter
+der *P* er de samlede pensjonsutgiftene, og *W* er de samlede arbeidsinntektene. I nevneren i uttrykket ganges *P* med 0,5 fordi pensjoner i sum grovt sett antas skattlagt med halvparten av det lønnsinntekter skattlegges. Dels vil pensjonister betale lavere skatt fordi inntektsnivået er lavere enn for yrkesaktive, og i et progressivt skattesystem vil det gi lavere gjennomsnittsskatt for pensjonister. Dels er det egne skatteregler for pensjonister (pensjonsfradrag og lavere trygdeavgift), som gir lavere skatt for pensjonister enn for yrkesaktive med samme inntekt. I beregningene er denne andelen forutsatt å ligge fast, selv om den vil kunne endres over tid.
 
-Bidragsrate
+Arbeidsinntektene tar utgangspunkt i pensjonsgivende inntekt, men fratrukket enkelte trygdeytelser (AAP, overgangsstønad og uføretrygd). Arbeidsinntekt består dermed av lønn og næringsinntekt, samt trygdeytelser som er nært knyttet til yrkesdeltakelse (sykepenger, dagpenger og foreldrepenger). Bidragsraten er et hypotetisk mål, i den forstand at den ikke er knyttet til hvordan utgiftene til alderspensjon faktisk finansieres. Tilnærmingen er blant annet brukt i Ot.prp. nr. 37 (2008–2009) *Om lov om endringer i folketrygdloven (ny alderspensjon)* der det endelige lovforslaget om pensjonsreformen ble fremmet.
 
-Utgifter
+Det er mulig å definere bidragsraten på andre måter. For eksempel kan en tenke seg at pensjoner skattlegges på samme nivå som lønnsinntekt. I så tilfelle blir bidragsraten:
 
-Bidragsrate
+En annen beregningsmetode er å se hva skattesatsen måtte vært dersom pensjoner ikke skattlegges, og den fulle finansieringsbyrden skulle legges på de arbeidsføre. I så fall blir bidragsraten definert som:
 
-Referansebane
+Disse mulige tekniske utformingene av bidragsraten gjør ulike forutsetninger om hvem som ev. vil belastes økninger i pensjonsutgifter hvis disse løpende dekkes inn ved endringer i skatteinntekter. Formel 3 innebærer at all belastning legges på yrkesaktive, mens formel 2 forutsetter at belastningen deles forholdsmessig likt mellom yrkesaktive og pensjonister. Formel 1 forutsetter en videreføring av de gunstigere skattereglene som i dag gjelder for pensjonister, se Pedersen (2013).
 
-346,7
+\[Boks slutt\]
 
-18,3
+Bidragsraten beskriver hva dagens skatteytere alt annet likt må bidra med for å finansiere utgiftene til dagens mottakere av alderspensjon. På et senere tidspunkt, for eksempel i 2060, kan tilsvarende bidrag og mottak beskrives.
 
-363,5
+Bidragsraten gir et godt bilde av effekten av ulike regelverksendringer på pensjonsutgiftene, men får ikke så godt fram hvordan pensjonsreglene kan påvirke arbeidstilbudet og dermed offentlige inntekter mer generelt, se avsnitt 8.5.2.
 
-18,9
+Bidragsrateberegninger er også blitt brukt til å belyse hvilke årskull som mottar mer eller mindre i pensjon enn det som følger av bidragsraten for deres årskull og på den måten også til å belyse fordeling mellom generasjoner.[^58]
 
-372,6
+Over tid har innfasingen av midler fra pensjonsfondet isolert sett redusert behovet for løpende skattefinansiering av økte pensjonsutgifter. Beregninger av bidragsraten gir dermed i norsk sammenheng ikke et fullstendig grunnlag for å belyse pensjonssystemets påvirkning på fordelingen mellom generasjoner. I avsnitt 8.7 gis en nærmere beskrivelse av hvilket velferdssamfunn senere generasjoner står overfor med utgangspunkt i Perspektivmeldingen.
 
-19,3
+Utvalget legger vekt på å kunne sammenlikne beregningene i dette kapitlet med tidligere beregninger. Det er da en fordel å benytte samme definisjon av bidragsraten som tidligere. Ved hjelp av beregninger av bidragsraten framover vil utvalget belyse utviklingen i pensjonssystemets økonomiske bærekraft. Videre i kapitlet vil utviklingen settes inn i en større sammenheng i lys av utfordringsbildet som skisseres i Perspektivmeldingen.
 
-Høy levealder (SSB)
+## Målbildet for pensjonsreformen
 
-360,6
+### Pensjonskommisjonen
 
-18,7
+Pensjonskommisjonens forslag innebar innstramminger i pensjonssystemet. Den viktigste var innføring av levealdersjustering, som innebærer at man må jobbe lenger for å få samme årlige pensjonsnivå som tidligere generasjoner, dersom levealderen øker. Pensjonskommisjonen foreslo å innføre levealdersjustering, sammen med et nytt system for regulering av løpende pensjoner, som skulle dempe veksten i bidragsraten.
 
-379,2
+Tabell 8.1 er fra Pensjonskommisjonens rapport (NOU 2004: 1, tabell 7.3) og den viser pensjonsutgiftene som andel av samlet pensjonsgivende inntekt i 2001, samt i 2050 henholdsvis ved en videreføring av det gamle pensjonssystemet (dvs. uten pensjonsreformen) og ved «Modernisert folketrygd», som var Pensjonskommisjonens forslag til reform.
 
-19,3
+Tabell 8.1 viser at Pensjonskommisjonen anslo at deres forslag ville dempe veksten i belastningen på de yrkesaktive (redusere økningen i bidragsraten) med 19 prosent. Andelen av pensjonsgivende inntekt som må til for å dekke alderspensjonsutgifter i 2050, reduseres fra en økning på 13 prosentenheter (125 prosent) til en økning på 8 ½ prosentenheter (vel 80 prosent).
 
-389,3
+Nødvendig bidragsrate<sup>1</sup> for å finansiere alderspensjonssystemet med og uten reform av folketrygden i Pensjonskommisjonens NOU 2004: 1
 
-19,6
+05J1xt2
 
-Ikke forlenget yrkesliv
+|  | Pensjonsutgifter i 2001 | Dagens system i 2050 | Modernisert folketrygd i 2050 | Prosentvis endring |
+|----|---:|---:|---:|---:|
+| Alderspensjon | 10,3 | 23,2 | 18,8 | -19,0 |
 
-344.9
+<sup>1</sup> Med bidragsrate menes andelen pensjonsutgiftene utgjør av de samlede pensjonsgivende inntektene i økonomien.
 
-18,7
+NOU 2004: 1, tabellene 3.11 og 7.3 (utdrag).
 
-357,4
+Det er verd å merke seg at også målbildet til Pensjonskommisjonen innebar en betydelig økning i pensjonsutgiftene og bidragsraten. Boks 8.2 viser hvordan Pensjonskommisjonen drøftet hvor generøst pensjonssystemet burde være ved fastsetting av opptjeningsprosenten.
 
-19,4
-
-356,8
-
-19,8
-
-Kilde: Statistisk sentralbyrå.
-
-[Side 172]
-
-170
-
-Kapittel 8
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-vekst vært betydelig. I 2060 ville bidragsraten ha
-økt fra ca. 27,5 prosent til om lag 29,3 prosent. Det
-er en vesentlig større økning enn i referansebanen.
-Utvikling i yrkesdeltakelse
-En viktig hensikt med pensjonsreformen var å forbedre insentivene til å stå i arbeid. Fredriksen
-m.fl. (2019) anslo at pensjonsreformen kan føre til
-nesten ti prosent flere årsverk i 2060 enn uten
-reformen.
-Vurderinger så langt tyder på en betydelig
-økning av arbeidstilbudet på grunn av pensjonsreformen, jf. avsnitt 5.2.
-I referansebanen legges det til grunn at yrkesaktive forlenger yrkeskarrieren slik at effekten av
-levealdersjustering blir kompensert. Det er en
-større økning i yrkesdeltakelsen enn det som er
-lagt til grunn i Perspektivmeldingen, jf. avsnitt
-8.7.3. Hvis yrkeskarrieren ikke forlenges, vil pensjonsopptjeningen bli mindre og utgiftene lavere.
-Men bidragsraten svekkes. Svekkelsen er noe
-større enn ved høyere levealder.
-Størrelsen på pensjonsutbetalingene følger i
-stor grad proporsjonalt med volumet av pensjonsgivende inntekt over yrkeskarrieren. En del elementer i pensjonsreformen bidrar likevel til at
-bidragsraten øker hvis folk jobber mindre, dvs.
-reduserer pensjonsgivende inntekt gjennom livet.
-• Redusert arbeidstilbud vil komme før reduserte pensjonsutgifter i tid, og dermed øke
-bidragsraten.
-• Redusert arbeidstilbud vil føre til at flere vil få
-garantipensjon. Det gir mindre reduksjon i
-pensjonsutgifter enn reduksjonen i pensjonsgivende inntekt.
-• Redusert arbeidstilbud vil også kunne redusere omfanget av inntekt over 7,1 G som ikke
-gir økt pensjonsopptjening i folketrygden.
-Dette vil bidra til en mindre reduksjon av pensjonsutgifter enn reduksjonen i pensjonsgivende inntekt.
-Bidragsraten er altså i stor grad avhengig av hvilken utvikling vi vil få i yrkesdeltakelsen framover.
-Videre påvirker økt arbeidstilbud offentlige
-finanser betydelig mer enn det som framkommer
-av bidragsraten. En økning av pensjonsgivende
-inntekter vil ikke bare finansiere pensjonsutgifter
-(som altså i noen grad øker proporsjonalt med
-økningen i pensjonsgivende inntekter), men også
-andre offentlige utgifter (utdanning, rettsvesen,
-forvaltning, samferdsel), som ikke, eller i liten
-grad, øker med veksten i pensjonsgivende inntek-
+Utvalget merker seg vurderingene som ble gjort av Pensjonskommisjonen om bærekraft og avveininger mellom yngre og eldre generasjoner, se boks 8.2. Det vil være de samme typer avveininger som vil være viktig å vurdere framover.
 
-ter. Dette kommer fram i beregningene som er
-gjennomført i Perspektivmeldingen 2021, der økt
-arbeidstilbud i stor grad bedrer inntektsgrunnlaget for finansiering av offentlige utgifter, jf. avsnitt
-8.7. Denne effekten er også forsøkt belyst ved vurderinger av endringer i aldersgrensene som kan
-gi økt arbeidstilbud, jf. introduksjonen av en netto
-skattesats i kapittel 9.
-Oppsummering
-Hovedbildet slik det er vist over, er at bidragsraten
-for folketrygdens alderspensjon de nærmeste
-årene stiger en del, men etter hvert stabiliserer
-seg på om lag 18–19 prosent. En stabilisering over
-tid er en viktig forutsetning for et bærekraftig system.
-Det er tydelig at utgiftene til pensjon vil øke
-betydelig de nærmeste tiårene, noe som også lå til
-grunn for pensjonsreformen i 2009.
-Levealdersjusteringen
-i
-pensjonsreglene
-bidrar til å dempe og stabilisere utgiftsveksten
-framover. Bidragsraten fortsetter å stige sterkt
-utover århundret i alternativet uten pensjonsreform og kommer opp i 31 prosent i 2080. Dette tilsier at uten pensjonsreformen ville bærekraften
-vært kraftig svekket.
-Dempningen i bidragsraten er noe avhengig
-av hvilke forutsetninger som legges til grunn.
-Særlig er utviklingen i arbeidstilbudet viktig.
+Pensjonskommisjonens avveininger ved valg av opptjeningsprosent
 
-8.6
-8.6.1
+«Opptjeningen er beregnet til 1,25 prosent av inntektsgrunnlaget det enkelte år. Ved en samlet opptjeningsperiode på 43 år gir det en kompensasjonsgrad på 54 pst. av gjennomsnittsinntekten som yrkesaktiv. (…) Pensjonskommisjonen har også vurdert andre opptjeningsfaktorer enn 1,25 pst. pr. år. En har kommet til at med en høyere opptjeningsfaktor blir det vanskelig å oppnå vesentlige innsparinger i forhold til dagens folketrygd, selv om det innføres delingstall og endret indeksering i den moderniserte folketrygden. En høyere opptjeningsfaktor vil derfor innebære at summen av skatter og premieinnbetalinger til inntektspensjonssystemet må øke vesentlig over tid.
 
-Betydningen av demografi
+En høyere opptjening vil kreve tilsvarende høyere premieinnbetalinger og dermed øke belastningen på unge i etableringsfasen. En høyere opptjening vil også kreve at en de nærmeste årene foretar en enda større fondsoppbygging på statens hånd enn det Pensjonskommisjonen har lagt til grunn. Videre vil en høyere opptjening gi lite rom for utvikling av supplerende pensjonsordninger tilpasset ulike pensjoneringsbehov. Det vil i så fall kunne bli mindre spredning av risiko i pensjonssystemet enn det er i dag.
 
-Endringen i demografianslag fra 2002
-til 2020
-I det følgende beskrives endringer i anslagene for
-befolkningsutviklingen fram mot 2050 slik de ble
-anslått i SSBs befolkningsframskriving i 2002 sammenliknet med framskrivingene fra 2020. Vekten
-legges på endringer som påvirker bidragsraten.
-Figur 8.3 viser at utviklingen i befolkningen
-over 67 år, som andel av befolkningen 20–66 år, er
-relativt like i de to middelalternativene fram til
-begynnelsen av 2040-tallet. Deretter øker andelen
-ytterligere i 2020-framskrivingen fram til 2085,
-mens den flater ut i 2002-framskrivingen. Dette
-innebærer at det ikke er særlig stor forskjell på
-forsørgelsesbyrden for eldre de neste 20 årene,
-men på lengre sikt ser utfordringen større ut nå
-enn den gjorde i 2002.
-Endringene i framskrivingene fra 2002 til 2020
-skyldes flere forhold. Forventet levealder er betydelig oppjustert med utgangspunkt i økt faktisk
-levealder fram til 2019, se tabell 8.4. Effekten er
+En lavere pensjonsprosent vil på den annen side innebære at andelen med garantipensjon øker. I Norge har det vært et viktig mål i folketrygden å sikre en rimelig god minstesikring til alle som det går an å leve av. Pensjonskommisjonen ønsker å videreføre en god minstepensjon. Samtidig bør et klart flertall av befolkningen opptjene pensjon etter det inntektsbaserte systemet. Kommisjonen har kommet til at en opptjeningsfaktor som tilsvarer 1,25 pst. pr. år er et rimelig kompromiss mellom de ulike hensynene.»
 
-[Side 173]
+NOU 2004: 1, boks 7.1 og avsnitt 7.2.1.
 
-171
+\[Boks slutt\]
 
-NOU 2022: 7
-Et forbedret pensjonssystem
+Pensjonskommisjonen anslo at deres forslag (Modernisert folketrygd) ville gi netto innsparinger på tre måter ved at: antallet alderspensjonister blir lavere, gjennomsnittlig alderspensjon blir lavere og verdiskapingen blir høyere. Men virkningene ville avhenge av hvordan yrkesaktive mv. tilpasset seg pensjonsreformen.
 
-0
+Innsparingen sammenliknet med gammel alderspensjon skyldes i hovedsak at utgiftene til alderspensjon blir lavere som følge av delingstallet (dvs. effekten av levealdersjustering) og endringene i reglene for regulering av pensjon. Delingstallet ble isolert sett anslått å kunne redusere folketrygdens utgifter med om lag 18 prosent i 2050. Innsparingen vil øke over tid som følge av at virkningen av levealdersjusteringen øker over tid. Endret regulering av alderspensjoner ble isolert sett anslått å kunne redusere utgiftene til alderspensjon med om lag 7 prosent på lang sikt.[^59] En modernisert folketrygd uten disse tiltakene ble på den annen side anslått å øke pensjonsutgiftene noe på lang sikt. Dette følger av at en opptjening på 1,25 prosent av inntekten hvert år, se boks 8.2, isolert sett vil gi litt høyere gjennomsnittsytelser enn med gammel alderspensjon, særlig for dem med lange yrkeskarrierer.
 
-0
+På lang sikt ble pensjonsutgiftene som andel av samlet pensjonsgivende inntekt nesten stabilisert i beregningene som følge av effekten av delingstallet. Det ble da lagt til grunn at fruktbarheten og en positiv nettoinnvandring om lag er tilstrekkelig til å opprettholde den yrkesaktive befolkningen. Stabiliseringen ville imidlertid skje på et mye høyere nivå enn nivået den gangen.[^60]
 
-Registrert
+### Oppfølgingen av Pensjonskommisjonen
 
-Middel BF 2020
+Pensjonskommisjonens rapport ble fulgt opp av to stortingsmeldinger i 2004 og 2006 som i stor grad baserte seg på, og fulgte opp, forslagene fra kommisjonen. I Ot.prp. nr. 37 (2008–2009), der nye regler for pensjonssystemet ble foreslått, ble det foretatt nye beregninger. Disse var basert på nye befolkningsframskrivinger fra 2008, som isolert sett reduserte finansieringsbyrden, samt enkelte justeringer i pensjonsreformen. Proposisjonen oppsummerer slik:
 
-mer i pensjonssystemet som kan bidra til å dempe
-og/eller stabilisere slike effekter. Som påpekt i
-avsnitt 8.4.2 har økningen i levealder særlig påvirket anslaget for bidragsraten uten pensjonsreformen, mens oppjusteringen av anslaget med
-reform er mindre, fordi den ekstra økningen i
-levealder vil ha langt mindre effekt på grunn av
-levealdersjusteringen. Pensjonsreformen har
-gjort pensjonssystemet langt mere økonomisk
-robust for endringer i levealder – både den forutsette veksten, men også for avvik fra det som er
-forventet.
+«Bidragsraten ved en videreføring av dagens alderspensjon i 2050 er nå anslått til 21,0 prosent, mens Stortingets vedtak i 2007 nå er anslått å gi en bidragsrate på 16,9 prosent.
 
-8.6.2
+Den konkrete gjennomføringen av levealdersjusteringen bidrar isolert sett til å redusere bidragsraten med 0,6 prosentpoeng i 2050. Gradvis innfasing av levealdersjusteringen og trygdeoppgjøret i 2008 \[med økning av minsteytelser\] bidrar på den annen side isolert sett til å øke bidragsraten med 0,3 prosentpoeng. Bidragsraten med forslaget i denne proposisjonen er dermed anslått til 16,6 prosent i 2050.»
 
-2100
+Hovedbildet er i stor grad det samme som i Pensjonskommisjonens rapport. Anslagene for bidragsraten med en videreføring av gammelt system er redusert noe. Anslagene for pensjonsreformens effekt på bidragsraten er den samme (4,4 prosentenheter), slik at anslaget for bidragsraten med ny alderspensjon nå er noe redusert sammenliknet med Pensjonskommisjonens vurdering (fra 18,8 prosent til 16,6 prosent).
 
-10
+Effektene på arbeidstilbudet er vurdert på nytt i proposisjonen:
 
-2090
+«SSB har anslått at gjennomsnittlig uttaksalder på kort sikt kan øke med om lag 0,6 år for de yrkesaktive som følge av fleksibelt, nøytralt uttak. SSB anslår videre at gjennomsnittlig uttaksalder fram mot 2050 kan komme til å øke med om lag 2,6 år sammenliknet med i dag som følge av fleksibelt nøytralt uttak og levealdersjustering. Arbeidstilbudet i 2050, målt i utførte timeverk, anslås å øke med om lag 5,9 prosent sammenliknet med å videreføre dagens system.»
 
-10
+Oppsummert bekreftet lovproposisjonen fra 2009 i store trekk både behovet for en pensjonsreform og effekten av hovedgrepene som ble foreslått av Pensjonskommisjonen.
 
-2080
-
-20
-
-2070
-
-20
-
-2060
-
-30
-
-2050
-
-30
-
-2040
-
-40
-
-2030
-
-40
-
-2020
-
-50
-
-2010
-
-50
-
-2000
-
-60
-
-1990
-
-60
-
-Kapittel 8
-
-Middel BF 2002
-
-Figur 8.3 Befolkningen 67 år og eldre som andel av
-befolkningen 20–66 år. Registrert og
-middelalternativet i befolkningsframskrivingene fra
-2002 (BF2002) og 2020 (BF2022). Prosent
-Kilde: Statistisk sentralbyrå.
-
-sterk for begge kjønn, men sterkest for menn. I tillegg har det vært en høyere netto innvandring
-fram til 2019 enn antatt i 2002. Siden innvandrere i
-hovedsak er under 67 år, reduseres andelen over
-67 år som andel av dem mellom 20 og 66 år på
-kort sikt.
-Økt forventet levealder, og endring i antakelser om innvandring, har bare i løpet av de tre siste
-befolkningsframskrivingene (2016, 2018 og 2020)
-endret forholdet mellom aldersgruppen 67 pluss
-og aldersgruppen 20–66 år i 2060 fra vel 39 prosent i anslaget fra 2016 til knapt 48 prosent i anslaget fra 2020. Det viser behovet for å ha mekanis-
-
-Demografisk utvikling – samlet
-forsørgelsesbyrde
-
-Den samlede demografiske utfordringen avhenger ikke bare av utviklingen i levealderen for
-eldre. Også utviklingen i antallet yngre er viktig. I
-det følgende beskrives utviklingen i «samlet forsørgelsesbyrde» dvs. det kvantitative forholdet
-mellom de aldersgruppene som normalt forutsettes å være yrkesaktive, og de aldersgruppene som
-forutsettes å være forsørget enten av foreldre eller
-av pensjonssystemet. Dette gir et noe bredere
-grunnlag for å vurdere de samlede utfordringene
-for velferdsstaten knyttet til den demografiske
-utviklingen. Endringer i forholdet mellom utviklingen av antallet yngre og antallet eldre skyldes
-tre forhold:
-1. Endringer i fødselstall på ulike tidspunkt som
-«forplanter» seg gjennom hver generasjons
-levealder. Det store antallet som ble født etter
-1945, vil med stor grad av sikkerhet gi mange
-personer over 80 år fra 2025.
-2. Endringer i levealder. Mens økningen i levealder tidligere i stor grad skyldtes redusert barnedødelighet, er veksten nå i stor grad drevet
-av at eldre lever lenger.
-
-Tabell 8.4 Forventet levealder ved fødselen. Registrert 2002 og 2019 og middelalternativet i
-befolkningsframskrivingene fra 2002 (BF2002) og 2020 (BF2020) i 2050 og 2100
-Kvinner
-Registrert
-
-BF2002
-
-2002
-
-81,5
-
-81,6
-
-2019
-
-84,7
-
-2020
-
-84,9
-
-Menn
-BF2020
-
-BF2002
-
-76,4
-
-76,3
-
-BF2020
-
-81,2
-84,1
-
-84,8
-
-2050
-
-88,1
-
-2100
-
-94,8
-
-Kilde: Statistisk sentralbyrå.
-
-Registrert
-
-81,5
-
-79,3
-
-81,5
-
-89,6
-
-84,2
-
-87,3
-
-94,9
-
-92,1
-
-93,4
-
-[Side 174]
-
-172
-
-NOU 2022: 7
-
-Kapittel 8
-
-Et forbedret pensjonssystem
-
-3. Utviklingen i innvandring og dens aldersfordeling.
-Figur 8.4 viser utviklingen i samlet forsørgelsesbyrde i perioden 1950–2100 basert på historiske
-tall og SSBs befolkningsframskriving fra 2020.
-Resultatene er avhengig av hvilke forutsetninger
-som legges til grunn om fruktbarhet, levealder og
-innvandring. Her brukes SSBs middelalternativ.
-Eldrebyrden er definert som antall personer 67
-år og eldre, som andel av personer i alderen 20–66
-år.14 Eldrebyrden øker til 47,7 prosent i 2060, altså
-nærmere en dobling sammenliknet med nivået på
-25,1 prosent i 2020 (opp fra et bunnivå rundt 2010
-på om lag 21 prosent). Se figur 8.4.
-Yngrebyrden er definert som antall personer 0–
-19 år, som andel av antall personer i alderen 20–66
-år. Yngrebyrden er redusert fra 44,7 prosent i
-
-100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-1950 1965 1980 1995 20102025 2040 2055 2070 2085 2100
-Registrert
-Yngrebyrde
-
-Samlet
-Eldrebyrde
-
-Figur 8.4 Utviklingen i samlet forsørgelsesbyrde
-1950–2100. Prosent
-Kilde: SSB. Historiske tall 1950–2020. Framskriving 2021–2100
-fra middelalternativet i befolkningsframskrivingen 2020
-14
-
-De ulike definisjonene for byrde ut fra forholdet mellom
-bestemte aldergrupper over tid kan sies å innebære et statisk og etter hvert misvisende syn på den reelle byrdeutviklingen. Med økt levealder og bedre helse, vil en 67 åring i
-dag ha bedre forutsetninger for å stå i jobb enn en person
-på 67 år for 20 år siden og bør dermed ikke representere
-den samme «byrden». Det kan likevel være nyttig å presentere utviklingen basert på forutsetninger om statisk byrdeutvikling. Det er ikke klart hvilket alternativ en skulle
-legge til grunn – dvs. hvor mye friskere en skal anta eldre
-blir over tid. Det statiske utgangspunktet gir et godt grunnlag for modifiserte beregninger, jf. håndteringen i Perspektivmeldingen i avsnitt 8.7.3, og motivasjon for å gjøre noe
-med de aldersgrensene (som 67 år) som er basert på det
-statiske utgangspunktet.
-
-1990 til 37,9 prosent ved inngangen til 2020 og
-reduseres videre til 36,1 prosent i 2060.
-Samlet forsørgelsesbyrde er definert som summen av antall personer 0–19 år og 67 år og eldre,
-som andel av antall personer i alderen 20–66 år.
-Denne falt fra 68,8 prosent i 1990 til 62,0 prosent i
-2011. Deretter har forsørgelsesbyrden økt noe, og
-den var på 63,1 prosent ved inngangen til 2020.
-Framover stiger samlet forsørgelsesbyrde til 74,3
-prosent i 2040 og 83,8 prosent i 2060.
-Samlet forsørgelsesbyrde økte relativt mye fra
-1950 til midten av 1960-tallet, særlig fordi det i
-perioden ble født mange barn. Deretter var det en
-lang periode fram til 2013 der andelen falt, og også
-dette var drevet av utviklingen i yngrebyrden. I
-framskrivingsperioden er utviklingen drevet av
-økning i eldrebyrden.
-Forholdet mellom antall yngre og antall eldre
-endrer seg markert i perioden. I 1950 var det
-nesten fire ganger så mange under 20 år som det
-var i aldersgruppen 67+. Fra 2035 er det flere i
-gruppen 67+ enn det er i aldersgruppen 0–19 år,
-og i 2100 er det mer enn 50 prosent flere i aldersgruppen 67+ enn i aldersgruppen 0–19 år.
-Det er liten tvil om at befolkningsutviklingen
-vil innebære at samlet forsørgelsesbyrde vil øke
-relativt mye framover. Det er imidlertid ikke noen
-en-til-en sammenheng mellom den demografiske
-utviklingen og belastningen for offentlige finanser.
-For det første er det viktig hvor mange i
-arbeidsdyktig alder som faktisk arbeider, og hvor
-mye de arbeider. Samlet forsørgelsesbyrde er
-bare en opptelling av antall personer. Blant unge
-har økt utdanning ført til et markert lavere
-arbeidstilbud samtidig som økt utdanning kan
-bidra til økt yrkesdeltakelse senere i livet.
-For det andre er ikke alle som ikke arbeider
-like belastende for offentlig økonomi. Eldre som
-mottar både pensjoner og et stort omfang av
-offentlige tjenester kan være vesentlig mer belastende på offentlige budsjetter enn yngre.
-For det tredje endres kostnadene knyttet til
-hver aldersgruppe over tid. Kostnadene knyttet til
-både unge og eldre er vesentlig høyere i dag enn
-tidligere. Utbyggingen av barnehager og utdanningstilbud og modningen av pensjonssystemet er
-forhold som har bidratt til dette. Samtidig bidrar
-levealdersjusteringen av pensjonsytelsene til å
-redusere konsekvensene av en økning i antallet
-eldre for pensjonsutgiftene ved at lengre levealder
-langt på vei nøytraliseres. Videre bidrar forlenget
-tid i arbeidslivet, også ut over 67 år, til høyere
-skattegrunnlag.
-En samlet vurdering av konsekvenser av den
-demografiske utviklingen sammen med forutset-
-
-[Side 175]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-ninger om kostnadsutvikling (effektivitets- og
-standardutvikling) og andre utviklingstrekk
-(arbeidsdeltakelse) blir gjort hvert fjerde år i Perspektivmeldingen. Se avsnitt 8.7.
-
-8.7
-
-Velferdsstatens samlede
-økonomiske bærekraft
-
-Hovedbudskap i Perspektivmeldingen 2021
-Perspektivmeldingen presenterer hvert fjerde år
-perspektiver på utviklingen i norsk økonomi og
-offentlige finanser på mellomlang og lang sikt.
-Siste melding ble lagt fram i februar 2021, jf.
-Meld. St. 14 (2020–2021).
-Utfordringen knyttet til forholdet mellom
-antall yrkesaktive og pensjonister går fram av første avsnittet i meldingen som innledes slik:
-
-–
-
-8.7.1
-
-«I årene framover står Norge overfor både nye
-og kjente utfordringer. I tiårene som kommer
-vil det stå færre i yrkesaktiv alder bak hver pensjonist. Statens utgifter vil gå opp, uten at inntektene øker like mye. Samtidig skal vi gjennomføre det grønne skiftet. Å ta vare på og
-sikre velferdssamfunnets bærekraft – sosialt,
-klimamessig og økonomisk – er derfor vesentlig for at Norge fortsatt skal være et godt land
-å bo i.»
-Meldingens budskap kan punktvis oppsummeres
-slik:
-– Vi står nå som samfunn ved et skille. Til nå har
-vi hatt sterk vekst i de aldersgruppene som er i
-jobb. Framover vil aldersgruppen 20–66 år
-slutte å vokse, og etter hvert vil den krympe.
-All befolkningsvekst framover kommer i
-aldersgruppen 67 år og over. Særlig vil andelen
-over 75 år øke. Se figur 8.5. Vekst i de eldre
-aldersgruppene innebærer økning i utgifter til
-pensjoner og helse- og omsorg.
-– Innfasingen av økte oljeinntekter er i hovedsak
-bak oss. Over tid vil det være en mindre andel
-av offentlige utgifter som kan finansieres av
-Statens Pensjonsfond Utland. Figur 8.6 viser at
-det vil være lite rom for å fase inn økt bruk av
-fondsmidler framover, og andelen vil gå ned
-utover mot 2060 etter hvert som økonomien
-vokser.
-– Resultatet av svakere vekst i arbeidsstyrken og
-økonomien, samt nedgang i bilrelaterte avgiftsinntekter, vil være at skatteinntektene vokser
-saktere. Den årlige økningen både i skatte- og
-fondsinntekter er beregnet til å bli betydelig
-
-–
-
-173
-
-Kapittel 8
-
-lavere fram mot 2030 enn i den foregående tiårsperioden. Det er anslått en vekst på 18 mrd.
-2021-kroner i gjennomsnitt i nasjonalbudsjettene for 2011–2019, mens veksten reduseres til
-10 mrd. kroner i gjennomsnitt i perioden fram
-til 2030.
-Bruken av fondsinntekter vokste i gjennomsnitt med 12 mrd. kroner årlig i perioden 2011–
-2019 mot anslått 3–6 mrd. 2021-kroner årlig i
-perioden 2023–2030. Gitt at handlingsregelen
-ligger til grunn, blir det mindre handlingsrom i
-statsbudsjettene framover. I perioden 2011–2019
-var det stort rom for ulike satsinger. I perioden
-2023–2030 er det ikke rom for mer enn å dekke
-utgiftsveksten i folketrygden og utgiftsveksten
-i kommuner og helseforetak knyttet til demografiske endringer. Nye satsinger vil kreve
-omprioriteringer eller økte skatter. Se figur 8.7.
-Ser vi lenger fram, øker utfordringene. Utgiftene vil øke raskere enn inntektene, og vi får et
-finansieringsgap. I hovedalternativet i Perspektivmeldingen 2021, som kalles basisforløpet, er
-det et gradvis økende innstrammingsbehov
-fram til 2060 på 5,6 prosent av BNP for Fastlands-Norge. Se figur 8.8. Det tilsvarer knapt
-5 mrd. kroner i gjennomsnittlig årlig inndekningsbehov i perioden.
-
-En særlig utfordring som belyses i meldingen, er
-det økte ressursbehovet som vil komme innenfor
-helse- og omsorgssektoren. Dette vil være krevende for offentlige finanser, men det vil også gi
-en sterk vekst i behovet for flere årsverk innenfor
-sektoren. I en oppdatering av beregningene fra
-SSB (Hjemås m.fl. 2019) med befolkningsframskrivingene fra 2020, viser hovedalternativet at
-antall årsverk innen helse- og omsorgssektoren
-kan måtte øke fra 310 000 i 2018 til knapt 425 000
-årsverk i 2035, og videre til om lag 570 000 i
-2060.15
-Framskrivningene i Perspektivmeldingen tegner, ut fra de hovedpunktene som er nevnt over, et
-krevende bilde av finansieringsgrunnlaget for velferdsstaten framover, inkludert mulighetene for å
-finansiere pensjonssystemet.
-15
-
-Framskrivingene er avhengig av hvilke forutsetninger som
-legges inn. I Hjemås m.fl. (2019) er det blant annet forutsatt at helsetilstanden for personer over 55 år bedres i takt
-med avtakende dødelighet, at produktivitetsveksten i helseog omsorgstjenestene er på 0,5 prosent årlig og at standarden målt som endring i timeverk per bruker øker med 1
-prosent i året. Forutsetningene er ikke helt identiske med
-forutsetningene i basisforløpet i Perspektivmeldingen, men
-hovedbildet er det samme og sannsynliggjør at dette kan
-medføre en krevende omdanning av arbeidsmarkedet
-framover.
-
-[Side 176]
-
-174
-
-NOU 2022: 7
-
-Kapittel 8
-
-Et forbedret pensjonssystem
-
-7000
-
-7000
-
-6000
-
-6000
-
-5000
-
-5000
-
-4000
-
-4000
-
-3000
-
-3000
-
-0–14
-15–19
-20–66
-67–74
-
-2000
-
-2000
-
-1000
-
-1000
-
-0
-1846
-
-1866
-
-1886
-
-1906
-
-1926
-
-1946
-
-1966
-
-1986
-
-2006
-
-2026
-
-2046
-
-2066
-
-75+
-
-0
-2086 2100
-
-Figur 8.5 Befolkning fordelt på aldersgrupper 1846 til 2100 i 1000 personer
-Kilde: Finansdepartementet. Perspektivmeldingen 2021, figur 7.8.
-
-8.7.2
-
-Analysene i perspektivmeldingen tar utgangspunkt i framskrivinger for norsk økonomi og
-offentlige finanser basert på visse hovedforutset-
-
-Hva forteller perspektivmeldingen
-om handlingsvalg framover?
-
-Bruk av fondsmidler
-12
-
-12
-
-10
-
-10
-
-8
-
-8
-
-6
-
-6
-
-4
-
-4
-3-prosentbane
-
-2
-
-2
-
-Nøytral bane (0 budsjettimpuls)
-Strukturelt, oljekorrigert underskudd
-
-0
-
-0
-2000
-
-2010
-
-2020
-
-2030
-
-2040
-
-2050
-
-2060
-
-Figur 8.6 Strukturelt oljekorrigert underskudd og forventet realavkastning i fondet med en gjennomsnittlig
-impuls på 0,0–0,1 prosent. Prosent av BNP for fastlands-Norge
-Kilde: Finansdepartementet. Perspektivmeldingen 2021, figur 7.2.
-
-[Side 177]
-
-175
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Kapittel 8
-
-Handlingsrom. Mrd. 2021-kroner
-35
-
-Inntekter
-
-Utgifter
-
-Inntekter
-
-Utgifter
-
-Fondsmidler
-
-Demografi HF
-og kommune
-
-Folketrygden
-
-Skatteinntekter
-
-Folketrygden
-
-2011–2019
-
-2023–2030
-
-2023–2030
-
-30
-25
-
-Andre
-prioriterte
-formål
-
-Fondsmidler
-
-20
-15
-10
-
-Demografi HF
-og kommune
-
-Skatte inntekter
-
-5
-0
-2011–2019
-
-Figur 8.7 Anslått årlig vekst i strukturelle skatte- og avgiftsinntekter, vekst i bruk av olje- og fondsinntekter,
-folketrygden og demografidrevne kostnader i helseforetakene og kommunesektoren. Mrd. 2021-kroner. I
-figuren er midtpunktet mellom 3 og 6 mrd. kroner (4,5 mrd. kroner) lagt til grunn
-Kilde: Finansdepartementet: Perspektivmeldingen 2021, figur 7.7.
-
-6
-
-6
-
-5
-
-5
-
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-1
-
-1
-
-0
-
-0
-
--1
-
--1
-
--2
-
--2
-
--3
-
--3
-
--4
-
--4
-2021
-
-2031
-
-2041
-
-2051
-
-2060
-
-Figur 8.8 Inndekningsbehov. Andel av fastlandsBNP. Prosent
-Kilde: Finansdepartementet. Perspektivmeldingen 2021, figur
-7.12.
-
-ninger og det vises konsekvenser av alternative
-forutsetninger. Framskrivingene er ikke ment å
-være en prognose for den mest sannsynlige utviklingen i norsk økonomi eller uttrykk for ønsket
-utvikling i økonomien og offentlige finanser.
-Basert på de valgte forutsetningene tegnes det et
-
-bilde som på kort og lengre sikt viser et vedvarende og økende udekket finansieringsbehov for
-offentlige finanser. Forutsetninger som hver for
-seg kan framstå som rimelige, summerer seg opp
-til dette bildet.
-Det vil bli en stor utfordring for oss som samfunn å gjøre de gode avveiningene om offentlig
-ressursbruk framover som gjør at vi kan beholde
-og videreutvikle vårt velferdssamfunn. Framskrivingene tilsier at det vil bli krevende å håndtere
-økte pensjonsutgifter. Vekst i disse vil konkurrere
-med bruk av offentlige midler til andre viktige formål, herunder sikring av ressurser til helse- og
-omsorgssektoren, eller kreve skatteøkninger.
-Langsiktige framskrivinger er spesielt relevante ved utforming av pensjonsregler. Pensjonsytelser skiller seg fra mange andre offentlige
-ytelser og utgifter ved at regelendringer vil ha
-konsekvenser langt framover i tid. Opparbeiding
-av rettigheter i dag, for eksempel for yngre
-arbeidstakere, vil ha konsekvenser så lenge rettighetshaverne lever, dvs. helt mot år 2100. Både
-konsekvenser av innstramminger og konsekvenser av utvidelser vil gjerne fases inn over tid. Særlig innstramminger kan kreve overgangsregler
-som skjermer de som er nærmest pensjonsalder.
-Innstramminger og utvidelser vil derfor ikke
-behandles symmetrisk ved at utvidelser gjerne
-blir faset inn raskere enn innstramminger.
-
-[Side 178]
-
-176
-
-Kapittel 8
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Et eksempel kan belyse dette. Stortinget har
-vedtatt endringer i reglene for etterlatte, jf. Innst.
-128 L (2020–2021). Barnetilleggene er vedtatt økt
-slik at utgiftene fram til 2025 vil øke sammenliknet
-med dagens regler. Utfasing av etterlattetillegg til
-alderspensjonen vil imidlertid medføre i størrelsesorden 3 ½ mrd. kroner i årlig innsparing på 30–
-35 års sikt sammenliknet med en videreføring av
-dagens ordninger.
-Utvalget legger til grunn Perspektivmeldingens overordnede vurderinger av finansieringsutfordringene for offentlige finanser framover. I det
-følgende beskrives noen sentrale forutsetninger i
-de langsiktige beregningene i Perspektivmeldingen.16 Det gir et grunnlag for å vurdere usikkerheten i disse. En nærmere forståelse av «driverne» i framskrivningene gir også et grunnlag
-for å vurdere hvordan pensjonssystemet bør utformes slik at det fortsatt bidrar til en bærekraftig
-velferdsstat.
-
-8.7.3
-
-Forutsetninger i basisforløpet
-i Perspektivmeldingen
-Noen forutsetninger viser seg gjennom alternative beregninger til basisforløpet å være mindre
-viktige mens andre er av større betydning for
-framskrivingene. Videre er det visse forutsetninger som er særlig viktige sett i sammenheng med
-pensjonssystemets utfordringer og ligger til
-grunn for de vurderinger som utvalget gjør. Vi
-konsentrerer oss i teksten om forutsetninger om
-arbeidstilbud, produktivitetsutvikling, standardutvikling, Pensjonsfondets avkastning og samlet
-nivå på skatteinntekter. Boks 8.4 gir en oversikt
-over øvrige forutsetninger som også er viktige i
-en vurdering av utfordringsbildet fra Perspektivmeldingen.
-Forutsetninger om arbeidstilbud
-Finansieringen av velferdssamfunnet framover
-avhenger av at arbeidskraften utnyttes og yrkeslivet forlenges. En viktig forutsetning vil derfor
-være i hvilken grad folk står lenger i arbeid når
-levealderen framover forventes å øke. Det forutsettes i basisforløpet at en økning i forventet levealder ved fødsel på sju år fram mot 2060 forlenger
-yrkesaktiviteten med to år. Til sammenlikning var
-det i Perspektivmeldingen 2017 en forutsetning
-som ga om lag halvparten så stor effekt på forlenget yrkesdeltakelse. Med denne antakelsen ville
-16
-
-Forutsetningene er fyldig beskrevet i et arbeidsnotat fra
-Finansdepartementet (Dyvi 2021).
-
-inndekningsbehovet i 2060 vært 0,8 prosentpoeng
-høyere. Det er ikke forutsatt at yrkeslivet forlenges fullt ut for å kompensere for lavere pensjonsnivåer som følge av levealdersjustering. Det er i
-Perspektivmeldingen lagt til grunn at befolkningen vil stå en del lenger i arbeid slik at de ifølge
-meldingen kompenserer for nærmere to tredeler
-av virkningen av levealdersjusteringen. Det innebærer at en andel av den framtidige velstandsveksten også tas ut i noe økt andel fritid. Det kan
-gi litt lengre tid som pensjonister enn en forholdsmessig lik økning i antall år som yrkesaktiv og
-som pensjonist når levealderen øker. For å motvirke levealdersjusteringen fullt ut, må yrkeskarrieren samlet forlenges med i størrelsesorden tre år
-ved en økning i forventet levealder ved fødselen
-på sju år.17 Det tilsvarer forutsetningen som Pensjonsutvalget har lagt til grunn i referansebanen
-for bidragsraten.
-Utvalget har fått Finansdepartementet til å
-beregne effekten på inndekningsbehovet dersom
-yrkeskarrieren øker mer enn to år. Inndekningsbehovet blir redusert fra 5,6 prosent til:
-– 4,9 prosent ved tre års forlengelse
-– 4,6 prosent ved 3 ½ års forlengelse
-– 4,1 prosent ved 4 års forlengelse
-– 3,6 prosent ved 5 års forlengelse
-I Perspektivmeldingen er det også gjort analyser
-av effekten på inndekningsbehovet av redusert
-arbeidstilbud. Det illustreres i et forløp hvor en
-gradvis innføring av seks timers arbeidsdag fører
-til en reduksjon i gjennomsnittlig arbeidstid fram
-mot 2060 med 15 prosent sammenliknet med
-basisforløpet. Offentlig bruk av arbeidskraft, slik
-den antas å bli bestemt av befolkningsutviklingen
-mv. innenfor de ulike offentlige tjenesteområdene,
-påvirkes ikke av endringene i arbeidstiden i dette
-beregningsalternativet. Målt i timer er dermed
-offentlig sysselsetting uendret sammenliknet med
-basisforløpet, men målt i personer øker sysselsettingen i offentlig forvaltning med 17,6 prosent.
-Reduksjonen i skattegrunnlaget gir en økning i
-17
-
-Økningen i levealder som ligger til grunn for delingstallene
-som beregnes fra 27 år, er noe lavere enn sju år. Det skyldes fortsatt nedgang i dødeligheten blant barn og unge
-voksne. Utgangspunkter er her 6,6 år. De som er yrkesaktive ved alderspensjonering må utsette pensjoneringen
-med to tredeler av denne sistnevnte levealdersveksten for å
-kompensere for levealdersjusteringen, det vil si 4,4 år. De
-som er ute av jobb før alderspensjonering, i stor grad uføretrygdete, kan vanskelig forutsettes å utsette avgangen.
-Dette omfatter om lag 30 prosent av årskullet, slik at økningen i avgangsalder for hele årskullet blir på 70 prosent av
-disse 4,4 årene. Det vil si at hvis gjennomsnittlig avgangsalder for hele årskullet øker med 3,1 år, vil de arbeidsføre
-kompensere for levealdersjusteringen.
-
-[Side 179]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-inndekningsbehovet med i overkant av åtte prosentenheter, til 14,0 prosent målt som andel av
-fastlands-BNP. Selv om det ikke innføres sekstimersdag fram til 2060, illustrerer dette at også
-mindre arbeidstidsreduksjoner vil kunne øke inndekningsbehovet.
-Utvalget vil understreke viktigheten av at
-arbeidsinsentivene som pensjonsreformen har
-gitt ikke må svekkes. Utvalget vil i denne sammenheng peke på at urvalgets referansebane er
-noe mer optimistisk enn det som er lagt til grunn i
-Perspektivmeldingen. Det tilsier en viss forsiktighet i vurderingen av referansebanen og hvordan
-pensjonsregler bør utvikles videre, se drøfting av
-aldersgrenser i kapittel 9.
-Forutsetninger om produktivitetsvekst
-En mulig tilnærming til utfordringer for pensjonssystemet og velferdsstaten kan være å prioritere
-vekstfremmende og produktivitetsutviklende politikk mer generelt framfor å vurdere pensjonsregler. Forholdet mellom produktivitetsutvikling og
-pensjonssystemets bærekraft er imidlertid komplisert.
-Effekten av økt produktivitet i privat sektor
-som bidrag til å redusere inndekningsbehovet i
-offentlig sektor og pensjonssystemet i Norge,
-begrenses i stor grad ved at lønninger i offentlig
-sektor forutsettes å følge lønnsveksten i privat
-sektor og at nivået på pensjonene følger
-lønnsveksten generelt i samfunnet. Lønnsutgifter
-utgjør en stor del av offentlige utgifter. Det betyr
-at finansieringsbyrden, målt som andel av verdiskapingen som anvendes til offentlig sektor, herunder pensjon, ikke blir så mye redusert ved produktivitetsvekst i privat sektor.
-Men om vi får økt effektivitet i offentlig tjenesteyting, vil dette trekke ned veksten i ressursbruken. I framskrivingene i Perspektivmeldingen er
-det ikke lagt til grunn produktivitetsvekst i offentlig forvaltning. Det kan argumenteres for at ressursbehovet ved å videreføre det offentlig finansierte tjenestetilbudet overvurderes med en antakelse om ingen produktivitetsvekst i offentlig sektor.
-I et beregningsalternativ med en årlig innsparing i ressursbruken i offentlig forvaltning med
-0,25 prosentenheter, reduseres inndekningsbehovet fram mot 2060 med 3,1 prosentenheter sammenliknet med basisforløpet.
-Det er videre flere andre forhold som i noen
-grad tilsier at produktivitetsutvikling betyr noe for
-inndekningsbehovet framover.
-
-177
-
-Kapittel 8
-
-Prinsipp for regulering: Hvis pensjonene reguleres med et fast fratrekk fra lønnsveksten slik det
-ble gjort fra 2011, påvirkes ikke bærekraften i
-offentlig finanser av om reallønnsveksten er stor
-eller liten. Men med omleggingen av reguleringen
-til et snitt av pris- og lønnsveksten fra 2022, endres
-dette. Forskjellen mellom lønn og pris, og dermed
-hvor mye mindre reguleringen av pensjon er sammenliknet med lønn, blir større jo høyere reallønnsveksten er. Det betyr alt annet likt, at
-bidragsraten reduseres ved høy reallønnsvekst og
-øker ved lav reallønnsvekst. Høy produktivitetsvekst gir normalt høy reallønnsvekst. Gitt en reallønnsvekst på 1,5 prosent over tid, som forutsatt i
-Perspektivmeldingen 2021, vil den langsiktige
-bidragsraten imidlertid ikke påvirkes av endringen i reguleringsregimet.
-Innkjøp av varer og tjenester fra privat sektor:
-Produktivitetsvekst i privat sektor kan gjøre det
-mulig å redusere offentlige utgifter uten at standarden senkes. I basisforløpet er det lagt til grunn
-en viss standardvekst ved innkjøp. Likevel bidrar
-produktivitetsvekst i privat sektor til at offentlig
-produktinnsats, dvs. kjøp av varer og tjenester fra
-privat sektor til bruk i offentlig tjenesteproduksjon, kan reduseres som andel av BNP i FastlandsNorge fra om lag ni prosent til noe under sju prosent. Inndekningsbehovet reduseres altså med 2,2
-prosentpoeng.
-Oppsummert vil høyere produktivitetsvekst i
-noen grad kunne redusere finansieringsbyrden av
-offentlig sektor, selv om dette begrenses av at
-lønn i offentlig sektor og pensjoner vil følge produktivitetsveksten. Men i tillegg til disse direkte
-effektene av produktivitetsvekst, kan en slik vekst
-gjøre det lettere å håndtere økte utgifter til pensjoner. Perspektivmeldingen skisserer en betydelig
-økonomisk vekst framover. I basisforløpet legges
-det til grunn at BNP per innbygger for FastlandsNorge vokser med om lag 60 prosent samlet i perioden 2020–2060. Dette kan være relevant både
-ved vurderingen av utgiftsbehov og inntektsnivå.
-Mange offentlige utgifter, både lønn til dem
-som produserer offentlige tjenester og stønader
-som sykepenger og pensjoner, følger i utgangspunktet veksten i økonomien. Men enkelte ytelser
-som skal dekke spesifikke behov, kan det være
-grunnlag for å redusere målt i faste lønninger ved
-økt velstandsnivå.18
-18
-
-Et eksempel kan være grunnstønad som skal dekke spesifikke merutgifter ved sykdom mv eksempelvis diett og slitasje på klær. Dette er utgifter som kan bli mindre over tid
-som andel av den enkeltes inntekt.
+Utvalget merker seg at intensjonen med pensjonsreformen ikke er å fjerne enhver demografisk effekt på pensjonssystemet, men er fokusert på ett element, nemlig det at levealderen øker. Pensjonsreformens sentrale idé er å gjøre ytelsesnivået avhengig av uttakstidspunktet. Det bidrar til å nøytralisere effekten av at folk lever lenger, og bidrar til å holde en balanse mellom antall år som yrkesaktiv og antall år som mottaker av pensjon. Pensjonsreformen har imidlertid ikke noen mekanisme som sikrer at forskjeller i størrelsen på generasjonene utliknes. Det ble født mange fra 1945 og utover med en fallende tendens fra ca. 1970. Alt annet likt medfører dette en økende «eldrebyrde» fra 2012 og utover. Hvorvidt dette er bærekraftig, må vurderes nærmere i lys av utviklingen i offentlige finanser mer generelt. Se omtale i avsnitt 8.7.

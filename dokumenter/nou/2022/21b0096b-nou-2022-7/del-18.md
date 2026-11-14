@@ -1,1497 +1,248 @@
-# NOU 2022: 7, del 18 av 31 (side 201–212)
+# NOU 2022: 7, del 18 av 32
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/21b0096b-nou-2022-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-7/id2918654/
 - Original-PDF: https://www.regjeringen.no/contentassets/de89ff1348ab4754a64d08b9ce77a584/no/pdfs/nou202220220007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 199 figurer, 1942 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 201]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-må derfor ta utgangspunkt i en sammenlikning
-med forventet levealder for et basisårskull.
-Basisårskullet kunne for eksempel ha vært
-1943-årskullet, slik at endringen i aldersgrensene
-for et gitt årskull ble knyttet til endringen i dette
-årskullets forventete levealder sammenliknet med
-forventet levealder for 1943-kullet. 1943-årskullet
-nevnes her særskilt fordi det allerede fungerer
-som basisårskull for beregning av forholds- og
-delingstall.
-Siden det er tolv år siden 1943-kullet fylte 67
-år, og forventet levealder har økt for hvert årskull,
-er det relativt stor forskjell mellom forventet levealder ved 67 år for 1943-kullet og det første kullet
-det er aktuelt å justere aldersgrensene for, 1963kullet. Levealdersutviklingen tilsier at dersom
-1943-kullet hadde vært basisårskullet, så ville
-aldersgrensene for 1963-kullet ha økt med om lag
-2,6 år. En slik justering av aldersgrensene innebærer at personer i 1963-kullet – som med dagens
-regler kan gå av med alderspensjon ved 62 år i
-2025 – ville måttet vente til siste halvdel av 2027
-eller første halvdel av 2028, før de kunne gå av.3
-For å unngå et slik initialt «hopp» i aldersgrensene, har man i utgangspunktet to muligheter: En
-mulighet er at gapet på 2,6 år kan fases inn over
-for eksempel en tiårsperiode. Det vil si at de første
-ti årskullene som omfattes (1964–1973) vil få en
-noe raskere heving av aldersgrensene enn de
-etterfølgende årskullene.
-Den andre muligheten er å velge et basisårskull som ligger nærmere det første årskullet som
-skal få økt aldersgrense. På den måten oppstår det
-ikke et gap i forventet levealder som må «tas
-igjen» ved innføringen av justeringsmekanismen.
-Det kan da være naturlig å la 1963-kullet fungere
-som basisårskull, slik at 1964-kullet blir det første
-som kan få økte aldersgrenser. 1963-kullet kan
-være et naturlig valg også fordi eldre årskull har
-deler av sin pensjonsopptjening i folketrygden
-etter gammel modell, og dermed noe andre rammebetingelser enn årskullene fra og med 1963kullet. Det innebærer samtidig en varig «forsinkelse» på 2,6 år i tilpasningen av aldersgrensene
-til effekten av levealdersjusteringen.
-Heving av aldersgrensene fra og med 1964-kullet vil da kunne knyttes til veksten i forventet gjenstående levetid for et gitt årskull, sammenliknet
-med forventet gjenstående levetid for 1963-kullet
-ved 67 år. Hvis et framtidig årskull for eksempel er
-forventet å leve ett år lenger enn 1963-kullet ved 67
-år, betyr det at aldersgrensene heves med åtte
-3
-
-Det faktiske tidspunktet vil variere med når på året den
-enkelte er født.
-
-199
-
-Kapittel 9
-
-måneder – to tredeler av levealdersveksten – for
-dette årskullet.
-Nærmere om å justere aldersgrensene i takt med
-utviklingen i delingstall
-På samme måte som justering av aldersgrensene i
-takt med forventet levealder måtte ta utgangspunkt i forventet levealder for et gitt årskull
-(basisårskull), må justering av aldersgrensene i
-takt med utviklingen i delingstallene ta utgangspunkt i utviklingen i delingstall for et gitt årskull
-sammenliknet med delingstall for et basisårskull.
-En mulighet er å knytte justeringen opp mot
-delingstallene for 1963-kullet. Hevingen av aldersgrensene for et gitt årskull vil da avhenge av hvor
-mye lenger dette årskullet må vente med å ta ut
-alderspensjon for å få samme delingstall som
-1963-kullet fikk ved en gitt alder.4
-
-9.4.4
-Utvalgets vurdering
-Utvalget har vurdert ulike modeller for justering
-av aldersgrensene i pensjonssystemet.
-En mulighet er at aldersgrensene justeres i
-takt med faktisk avgangsalder for de yrkesaktive.
-En fordel med dette er at dersom aldersgrensene
-for uføre justeres i takt med aldersgrensene for
-arbeidsføre, vil det gi en kompensasjon for levealdersjusteringen til uføre som står i forhold til den
-kompensasjonen de arbeidsføre oppnår gjennom
-å jobbe lenger. En slik modell vil imidlertid også
-ha noen uheldige sider. Dersom de arbeidsføre
-ikke tilpasser seg levealdersjusteringen ved å stå
-lenger i arbeid, vil aldersgrensene øke mindre
-enn det levealdersveksten skulle tilsi. Dermed blir
-signaleffekten av økte aldersgrenser lavere enn
-ønskelig. Modellen vil også ha måleproblemer og
-den vil være sårbar for konjunktursvingninger og
-utslag av ulike rammebetingelser for pensjonering. Dette vil kunne føre til at noen årskull vil
-4
-
-1963-kullet oppnår eksempelvis delingstall 13,42 ved om
-lag 70 år og 7 måneder. Dette delingstallet gir et gitt årskull
-samme pensjonsnivå som 1943-kullet fikk ved 67 år for en
-gitt pensjonsopptjening. Hevingen av aldersgrensene fra
-1963-kullet til senere kull kan da knyttes til hvor mye lenger enn 1963-kullet et gitt kull må vente med å ta ut pensjon
-for å oppnå delingstall 13,42. For eksempel oppnår 1970kullet delingstall 13,42 ved om lag 71 år og 9 måneder.
-Dette kullet når med andre ord delingstall 13,42 når det er
-1 år og 2 måneder eldre enn 1963-kullet. På grunn av økt
-pensjonsopptjening ved utsatt tilbaketrekning, er det imidlertid tilstrekkelig at 1970-kullet øker tilbaketrekningsalderen med to tredeler av veksten i alder for å få delingstall
-13,42 for å få samme alderspensjon som 1963-kullet. Dette
-betyr at aldersgrensene for 1970-kullet må øke med i overkant av 9 måneder.
-
-[Side 202]
-
-200
-
-Kapittel 9
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-kunne få enten større eller mindre økning i aldersgrensene enn det den faktiske utviklingen i yrkesaktivitet for årskullet skulle tilsi. Det er også en
-svakhet ved en slik modell at det ikke vil kunne
-lages solide prognoser for framtidig utvikling i
-aldersgrensene, slik at det vil kunne være usikkerhet knyttet til hvilke aldersgrenser som vil gjelde
-for framtidige alderspensjonister.
-En alternativ modell er å knytte justeringen av
-aldersgrensene til utviklingen i levealder. Dette
-kan gjøres enten ved å knytte endringen av aldersgrensene direkte til levealdersutviklingen eller
-ved å knytte den til utviklingen i folketrygdens
-delingstall. Det er ingen store prinsipielle forskjeller mellom å knytte aldersgrensejusteringen til
-enten forventet gjenstående levetid ved 67 år eller
-delingstallene. Det er fordeler og ulemper ved
-begge tilnærminger.
-Etter en samlet vurdering mener utvalget at
-justeringen av aldersgrensene bør knyttes til levealdersutviklingen, nærmere bestemt til utviklingen i delingstall. Se boks 9.1 for en beskrivelse av
-hvordan dette prinsippet kan operasjonaliseres.
-Utvalget mener koblingen til folketrygdens
-delingstall vil legge til rette for enkel, sammenhengende og forståelig kommunikasjon. Å ta
-
-Boks 9.1 Modell for automatisk justering
-av aldersgrensene
-Utvalget foreslår at aldersgrensene skal øke i
-takt med levealdersjustering. Økningen skal
-være tilstrekkelig til at en person som utsetter
-avgangen fra yrkeslivet like lenge som økningen i aldersgrensen i gjennomsnitt vil kompensere fullt ut for levealdersjusteringen.
-SSB har beregnet (Fredriksen m.fl.
-(2022)) at når man inkluderer opptjeningseffekten ved å utsette avgangen fra yrkeskarrieren, vil en person med jevn inntektsprofil på
-40 år i midten av 60-årene omtrent kompensere fullt ut for effekten av levealdersjusteringen dersom yrkeskarrieren forlenges med to
-tredeler av økningen i delingstallene.
-Konkret foreslår derfor utvalget at aldersgrensene fra og med 1964-kullet skal øke med
-to tredeler av økningen mellom påfølgende
-årskull i alderen som gir delingstall 13,42.
-Delingstall 13,42 tilsvarer delingstallet ved 67
-år for det siste årskullet som ikke fikk levealdersjustert alderspensjonen fra folketrygden
-– 1943–kullet.
-
-utgangspunkt i delingstallene framfor levealdersutviklingen innebærer også at «arvegevinsten» som reflekterer endringer i dødelighet før
-67 år hensyntas ved justeringen av aldersgrensene på samme måte som i delingstallene.
-Utvalget mener videre at justeringen av aldersgrensene bør avhenge av forholdet mellom et gitt
-årskulls delingstall og delingstallene for 1963-kullet. Dette innebærer at aldersgrensene øker fra og
-med 1964-kullet.
-Utvalget foreslår at aldersgrensen for ubetinget rett til alderspensjon som i dag er 67 år, kalles
-normert pensjoneringsalder, med normalderen
-som kortform.
-
-9.5
-
-Innfasing av nye aldersgrenser
-
-9.5.1
-Praktiske hensyn
-Aldersgrensene kan heves enten gjennom vedtak
-i Stortinget hver gang grensene skal økes, eller
-ved en regelfestet, automatisk mekanisme. Ved
-direkte vedtak vil Stortinget kunne vurdere spørsmålet i en bredere sammenheng. Å regelfeste
-hvordan aldersgrensene skal endres vil imidlertid
-gi betydelig større forutsigbarhet for den enkelte
-som skal ta avgjørelser om pensjonering. Automatisk justering av aldersgrensene er også i tråd
-med OECDs anbefalinger, jf. avsnitt 9.2.1.
-Utvalget mener aldersgrensene bør justeres
-automatisk og jevnlig. Justeringen bør knyttes til
-utviklingen i en mest mulig objektiv målevariabel.
-Utvalget mener som omtalt i avsnitt 9.4.4 at denne
-målevariabelen bør være delingstallene i folketrygden. Utvalget mener imidlertid at konsekvensene av justeringen av aldersgrensene i pensjonssystemet bør vurderes hvert 10. år, basert på en
-bred evaluering, blant annet i lys av utviklingen i
-de yrkesaktives tilpasning. Blant annet bør det følges med på at utviklingen i sammenliknbare
-arbeidsføres alderspensjoner ikke avviker for mye
-fra utviklingen i uføres alderspensjoner.
-Aldersgrensene kan justeres enten med hele
-år eller med måneder av gangen. Dersom justeringen av aldersgrensene knyttes til utviklingen i forventet levealder, og aldersgrensene skal øke med
-hele år, tilsier den forventede framtidige levealdersveksten at aldersgrensene øker omtrent
-hvert tiende år. Utvalget anser en slik løsning som
-lite ønskelig av to grunner. For det første vil det
-forsinke effektene av reformen, fordi en rekke
-årskull ikke vil få noen endring i aldersgrensene.
-Videre vil det gi relativt store forskjeller mellom
-årskull der aldersgrensene økes med ett år.
-
-[Side 203]
+## Er det uløste systemutfordringer i pensjonssystemet?
 
-201
-
-NOU 2022: 7
-Et forbedret pensjonssystem
+Enkelte forhold ved pensjonssystemet kan være kostbare, men de er forutsigbare og varierer lite over tid. Reglene blir dermed i utgangspunktet ikke mer og mer kostbare over tid. Eksempler på dette kan være opptjeningsprosenten eller nivået på minsteytelsene. Slike forhold er ikke systemutfordringer. Men enkelte andre forhold og elementer ved pensjonssystemet kan over tid utvikle seg slik at de blir mer og mer kostbare å håndtere. Økt levealder kan være et eksempel på et slikt forhold i et pensjonssystem hvis dette medfører videreføring av pensjonsytelser for en stadig lengre periode. Dette kan skape iboende systemutfordringer.
 
-9.5.2
+Ut fra dette vil det være to tilnærminger til å sikre bærekraften over tid:
 
-Aldersgrenser som bør justeres
-
-I dag er det fem år fra nedre aldersgrense til
-aldersgrensen for fritt uttak av minsteytelse, og
-derfra er det igjen åtte år til øvre aldersgrense for
-pensjonsopptjening. Se tabell 9.2 for en oversikt
-over aldersgrensene i pensjonssystemet, og
-enkelte tilstøtende aldersgrenser, og prognoser
-for utvikling i disse aldersgrensene med den foreslåtte tekniske modellen for justering av aldersgrenser. Det er her lagt til grunn at en del andre
-aldersgrenser i folketrygden følger aldersgrensene i pensjonssystemet, og at alle aldersgrenser
-øker i samme takt. En modell for uføres alders-
-
-82
-
-82
-
-80
-
-80
-
-78
-
-78
-
-76
-
-76
+- En kan justere ulike parametre i pensjonssystemet – for eksempel opptjeningstaket eller reglene for garantipensjon – og fase inn endringer over tid. En kan da ta sikte på å holde utgiftene innenfor en akseptabel utgiftsramme og over tid diskresjonært holde en økonomisk bærekraftig balanse i systemet.
 
-74
-
-74
+- En kan justere egenskapene ved systemet slik at det mer eller mindre automatisk bidrar til å dempe utgiftsveksten og stabilisere pensjonssystemets bærekraft hvis de underliggende drivkreftene fører til svekket bærekraft.
 
-72
-70
+OECD (2021) drøfter om god planlegging for å kunne holde utgiftene under kontroll kan være et alternativ. OECD peker på at planlegging av parameterendringer over tid for å sikre bærekraft krever at anslagene framover er korrekte og at grepene blir gjennomført.[^78] Det vil være en fordel å knytte endringer til visse indikatorer som automatisk kan tilpasse seg utviklingen i behov.
 
-72
-70
+OECDs siste oversikt over utviklingen i pensjonssystemene i OECD-landene (OECD 2021) har et eget kapittel som beskriver og drøfter ulike automatiske stabiliseringsmekanismer. OECD definerer slike mekanismer som forutbestemte regler som automatisk endrer pensjonsparametre ut fra utviklingen i visse indikatorer. Disse kan ifølge OECD være basert på ulike forhold, eventuelt også i en kombinasjon:
 
-2040
+- Demografiske: Eksempler er utvikling i levealder eller utvikling i forholdet mellom generasjoner.
 
-2030
+- Økonomiske: Eksempler kan være utvikling i samlet lønnssum eller utvikling i BNP.
 
-2020
+- Finansielle: For eksempel balanse i fondering.
 
-2010
+Mekanismene kan påvirke ytelsesnivå, pensjonsalder eller innbetalinger, og være mer eller mindre automatiske.
 
-2000
+Norge nevnes som et eksempel på land som har innført en automatisk justeringsmekanisme for pensjonsytelsene basert på utvikling i levealder. Andre land med løpende pensjonsfinansiering som helt eller delvis har en slik mekanisme er Hellas, Italia, Latvia, Polen og Sverige.
 
-60
-1990
+En annen mekanisme som kan justere for utviklingen i levealder, enten alene eller kombinert med justering av ytelser, er å øke aldersgrensene i systemet. OECD identifiserer denne løsningen i sju land: Danmark, Estland, Finland, Hellas, Italia, Nederland og Portugal.
 
-62
+Videre er det eksempler på pensjonssystemer som justerer ytelsene etter utviklingen i samlet lønnssum eller BNP. Det betyr at pensjonene reguleres ikke bare ut fra gjennomsnittlig lønnsvekst (som i Norge), men også ut fra antallet bidragsytere til systemet. Med fall i befolkningen eller antallet yrkesaktive vil det gjøre en forskjell. OECD nevner her at Estland, Hellas, Japan og Litauen har en slik mekanisme.
 
-60
-1980
+Til sist redegjør OECD for land med mekanismer som direkte skal sikre budsjettbalansen. Her nevnes Canada, Nederland, Sverige, USA og med innslag av dette, Luxemburg og Tyskland.[^79]
 
-64
+Livsvarige pensjonsytelser i en situasjon med stadig økende levealder er en systemutfordring. Det vil øke perioden med pensjonsytelser og i betydelig grad gi økte utgifter over tid. I privat tjenestepensjon er dette «løst» ved at en i større og større grad går over til innskuddspensjon med tidsbegrensede og ikke livsvarige ytelser. Det har flyttet en betydelig risiko fra arbeidsgiver til den enkelte arbeidstaker/pensjonist.[^80] Pensjonskommisjonen foreslo en annen mekanisme for folketrygden, en levealdersjustering av ytelsesnivåene, som i stor grad automatisk nøytraliserer effektene av at befolkningen lever lenger. Dette er som oversikten fra OECD viser, en av de vanligste stabiliseringsmekanismene som OECD-land har tatt i bruk. Det er også enkelte andre elementer i pensjonsreformen som i noen grad bidrar til stabilisering. Innføringen av alleårsopptjening bidrar til en tydeligere sammenheng mellom yrkesaktivitet og dermed skattegrunnlag og senere pensjonsutbetaling. Her er det imidlertid et stort tidsetterslep, og bl.a. garantipensjonen svekker dette forholdet. Opptjening på annet grunnlag enn arbeid (ved uførepensjonering eller omsorgsopptjening) kan avhengig av hvordan den utformes, i tillegg svekke sammenhengen mellom arbeid og pensjon.
 
-62
-1970
+Behov for ytterligere balanseringsmekanismer?
 
-66
+Utvalget mener det er viktig å beholde og ikke svekke de systemgrepene som ble foreslått og gjennomført gjennom pensjonsreformen. Levealdersjustering, alleårsopptjening og reglene for nøytralt uttak bidrar til å balansere systemet.
 
-64
+Levealdersjustering balanserer i stor grad, men ikke fullt ut, utviklingen i levealderen. Alleårsopptjening gir en tettere sammenheng med utviklingen i yrkesaktivitet gjennom livet. Reglene for nøytralt uttak skal føre til at den enkelte selv betaler for tidliguttak.
 
-1960
+OECD vurderer at det å justere aldersgrensene når levealderen øker, kan være hensiktsmessig i kombinasjon med å justere ytelsene med levealder. Siktemålet er da å unngå for lave ytelser hvis arbeidstakerne ikke forlenger yrkesaktiviteten. Utvalget drøfter økte aldersgrenser i kapittel 9.
 
-68
+Levealdersjusteringsmekanismen vil ikke fange opp alle underliggende utfordringer for pensjonssystemet. Endringer i forholdet mellom yrkesaktive og pensjonister som skyldes forskjeller i størrelsen på ulike kohorter, for eksempel forskjellen mellom etterkrigsgenerasjonen og etterfølgende generasjoner, fanges ikke opp.[^81] Generelt er utviklingen i størrelsen mellom aldersgrupper et stort problem i OECD-landene:
 
-1950
+«The problem is that the demographic old-age to working-age ratio is projected to double by around 2060 on average in the OECD (…) This implies that the contribution rate would have to double if the total employment rate does not change, which is not realistic. Thus, while contribution rates may be adjusted to help deal with ageing, this would only be one (small) part of the equation: to preserve pension levels, the adjustment must involve limiting the increase in the pensioners-to-contributors ratio, by raising employment, in particular at older ages and especially by raising the retirement age to accompany improvements in life expectancy.» (OECD 2021)
 
-68
-66
+Utvalget merker seg i denne sammenheng at Pensjonskommisjonens forslag innebar at bidragsraten i 2050 reduseres fra en økning på 13 prosentenheter (125 prosent) til en økning på 8 ½ prosentenheter (vel 80 prosent), se tabell 8.2. Reduksjonen er altså ikke mer enn ca. en tredel av den utgiftsveksten vi stod foran for ca. 20 år siden og som i stor grad kan knyttes til demografisk utvikling. Men levealdersjusteringen og de øvrige elementene i pensjonsreformen bidrar, slik vi har sett av de oppdaterte beregningene av referansebanen, til i stor grad å stabilisere bidragsraten over tid (se figur 8.2).
 
-1940
+Det er heller ikke mekanismer i pensjonssystemet som stabiliserer utviklingen ved endringer i mer grunnleggende økonomiske utviklingstrekk, for eksempel avkastningen på pensjonsfondet.
 
-Utvalget ser det med andre ord som mest hensiktsmessig at aldersgrensene heves gradvis, det
-vil si med måneder og for hvert årskull. Dette er
-også i tråd med OECDs anbefalinger, jf. avsnitt
-9.2.1.
-Hvis justeringen av aldersgrensene skal følge
-utviklingen i delingstallene, er det naturlig at den
-endelige fastsettingen av aldersgrensene for et
-gitt årskull finner sted samtidig med den endelige
-fastsettingen av delingstallene for årskullet. Dette
-gjøres i dag i det kalenderåret det aktuelle årskullet fyller 61 år, altså året før dagens nedre aldersgrense for tidlig pensjonsuttak. Arbeids- og velferdsdirektoratet bør imidlertid publisere prognoser for utviklingen i aldersgrensene på samme
-måte som de allerede publiserer prognoser for
-framtidige delingstall.
+Det svenske pensjonssystemet er bygd opp med levealdersjusteringsmekanismen som stabiliseringstiltak. Men i tillegg finnes det en generell balanserings- eller korreksjonsmekanisme som skal sikre den økonomiske bærekraften. Den nasjonale alderspensjonen er innrettet med en balanseringsmekanisme, som gjerne kalles «Bromsen».[^82]
 
-Kapittel 9
+Det svenske pensjonssystemet er et frittstående system som i sin helhet skal finansieres med innbetalinger og avkastning fra bufferfond (AP-fondene). Når forpliktelsene overstiger inntektene, gjennomføres en balansering for å tilpasse pensjonsforpliktelsene til systemets finansieringsgrunnlag. Hvert år fastsettes et ‘balansetall’ som uttrykker forholdet mellom inntekter og forpliktelser. Et balansetall mindre enn 1 fører til at balanseringen aktiveres og en egen balanseringsindeks beregnes. Det betyr at i stedet for å justere verdien av opptjente pensjonsrettigheter og løpende pensjoner med en lønnsindeks, justeres verdien med denne balanseringsindeksen. Siden denne vil være mindre enn lønnsindeksen, betyr det at verdiene «underreguleres» eller reduseres. Når balansen igjen er oppnådd, skjer omregningen igjen med en lønnsindeks. Balanseringsindeksen påvirker både løpende pensjoner og opparbeidede pensjonsrettigheter.
 
-Fødselsår
-Øvre aldersgrense
-Nedre aldersgrense
+Balanseringsmekanismen kom til anvendelse i etterkant av finanskrisen ved at pensjonene ble redusert i verdi både nominelt og reelt, hovedsakelig som et resultat av fall i verdien i reservefond. Etter dette ble det innført glattingsregler for å spre konsekvensene ut over flere år (OECD 2021).
 
-Fritt uttak
+En slik kobling mellom inntekter/avkastning og forpliktelser har vi ikke i den norske folketrygden som ikke er bygd opp med direkte fondering. Utvalget har ikke fått i mandat å vurdere en fondering av pensjonsforpliktelsene for å sikre systemets bærekraft. Uavhengig av dette vil vi imidlertid peke på at en fondering alene ikke vil løse den usikkerheten vi står overfor. En formalisert sammenheng mellom kapitalen i fondet og pensjonene til eldre og uføre ved at det innføres en eller annen form for balanseringsmekanisme vil kunne skape usikkerhet om framtidige pensjonsutbetalinger, jf. erfaringene fra Sverige der balanseringsmekanismen i det svenske systemet medførte reduserte pensjoner etter finanskrisen.
 
-Figur 9.4 Aldersgrenser for uttak av alderspensjon
-fra folketrygden. Justering av aldersgrensene
-knyttet til utvikling i delingstall. Etter fødselsår.
-Aldersgrenser
-Kilde: Statistisk sentralbyrå.
+Levealdersjusteringen bidrar til å dempe og stabilisere utgiftsveksten framover. Vi står likevel overfor en betydelig vekst i bidragsraten. Andre land har tatt i bruk stabiliseringsmekanismer som knytter reguleringen av pensjoner til utviklingen til finansieringsgrunnlaget, for eksempel antall bidragsytere til systemet. Dette kan i større grad enn det vi har i Norge fange opp systemubalanser.
 
-pensjon drøftes nærmere i kapittel 12, og korttidsytelsene drøftes i kapittel 13.
-Gitt at aldersgrensene heves i takt med utviklingen i delingstallene, viser figur 9.4 prognoser på
-utviklingen i de tre aldersgrensene som i dagens
-system er 62 år, 67 år og 75 år, med utgangspunkt i
-de siste prognosene for utviklingen i delingstallene.
+Utvalget vil peke på viktigheten av å beholde de stabiliseringsmekanismer som vi har, dvs. i hovedsak levealdersjusteringen for å sikre den økonomiske bærekraften. Utvalget vil videre peke på at vi må være forberedt på at behovet for stabiliseringsmekanismene kan bli større, og være forberedt på å vurdere flere tiltak for systematisk å håndtere utviklingstrekk i pensjonssystemet som bidrar til å svekke bærekraften over tid. Utvalget vil i denne sammenheng peke på at en mulighet som vil kunne bidra til balansering vil være å redusere de særlige skattefordelene for pensjonister slik at en økning i finansieringsforpliktelser kunne legges både på yrkesaktive og pensjonister, se formel 2 i boks 8.1 om bidragsraten.
 
-Tabell 9.2 Illustrasjon av aldersgrensene i pensjonssystemet, gitt lik økning i alle aldersgrensene. Justering av
-aldersgrensene knyttet til utvikling i delingstall
-Beskrivelse av aldersgrense
+Utvalget vil kort nevne to utfordringer ved pensjonssystemet som i større eller mindre grad kan være av systemmessig art. Det kan være grunn til å følge med på utviklingen, men det ser ikke ut til å være behov for tiltak på kort sikt.
 
-Dagens Ny aldersgrense Ny aldersgrense Ny aldersgrense
-aldersgrense
-for 1964-kullet
-for 1974-kullet
-for 1984-kullet
+Aldersseleksjon
 
-Nedre grense for uttak av alderspensjon
-(tidliguttak)
+Hvis de som dør tidlig, tar ut pensjon tidlig, og de som dør sent, tar ut pensjon sent, vil utgiftene øke sammenliknet med en situasjon der det ikke er noen systematisk sammenheng mellom uttaksalder og levealder. Dette er en potensiell systemutfordring i et system der rettigheter til pensjon opparbeides og utjevnes mellom ulike grupper, selv om det er klare kjennetegn for den enkelte mottaker som påvirker om det lønner seg å ta ut tidlig eller å vente med å ta ut pensjon. Det viktigste skillet her er mellom kvinner og menn. Siden menn lever kortere enn kvinner, vil, alt annet likt, kvinner tjene på å vente med uttak og menn tjene på å ta ut pensjon tidlig. Et slikt mønster, som også kan danne seg ut fra andre kjennetegn ved pensjonsmottakerne som yrke og utdanningsnivå, kan over tid potensielt være en systemutfordring.
 
-62 år
+Arbeids- og velferdsdirektoratet har analysert uttaksmønster og dødelighet for 1949-kullet, se beskrivelse og figur 5.16 i kapittel 5. Analysen viser at menn har langt høyere dødelighet enn kvinner slik at det er potensial for aldersseleksjon. Konklusjonen er at det er en viss seleksjon i uttak. De som kunne ta ut ved 62 år og som har tatt ut, har en høyere dødelighet enn de som kunne ta ut og ikke gjorde det. Men forskjellene er små, og de som har tatt ut, vil antakelig leve lenger enn snittet av sine årskull. Isolert sett vil de da ha tapt på å ta ut tidlig, i hvert fall før skatt. Det er foreløpig ikke tegn til utbredt aldersseleksjon, men det kan likevel være hensiktsmessig å gjøre nærmere analyser av dette når det foreligger flere årskull som kan analyseres over lengre tidsperioder.
 
-62 år og
-1 måned
+Virkning av tidliguttak
 
-63 år og
-2 måneder
+De første årene fra 2011 ble pensjonsutgiftene mye større enn anslått fordi mange tok ut pensjonen før de sluttet å arbeide. Også på lengre sikt vil muligheten for tidliguttak gi økte pensjonsutgifter. Vi vil ha en situasjon både med stigende befolkning og økende levealder. Tidliguttak vil flytte større utgifter som ville kommet senere nærmere i tid og øke pensjonsutbetalingene sammenliknet med en situasjon uten tidliguttak. I framskrivingene over bidrar dette til at bidragsraten har økt noe ut over det som ble antatt ved pensjonsreformens start. Omfanget av tidliguttak er imidlertid redusert de siste årene, jf. omtale i avsnitt 5.5. Utvalget vurderer at det vil være ønskelig å redusere tidliguttaket noe og foreslår å øke aldersgrensen for tidliguttak, se kapittel 9.
 
-64 år og
-4 måneder
+## Utvalgets konklusjon
 
-Nedre grense for fritt uttak av minsteytelse
+Utvalget legger til grunn Perspektivmeldingens overordnede vurderinger av finansieringsutfordringene for offentlige finanser framover. Utvalget registrerer at de offentlige finansene, og pensjonssystemet som en del av dette, i enda større grad enn antatt ved pensjonsreformens start vil avhenge av overføringer fra pensjonsfondet.
 
-67 år
+Pensjonsbeslutninger er langsiktige. Mange beslutninger om pensjonsregler som vi tar i dag, vil først få virkning på lengre sikt. Hvis vi vurderte at pensjonssystemet ikke ville være økonomisk bærekraftig mot midten av dette århundret, ville det være behov for å gjøre justeringer nå, for å ivareta pensjonsrettigheter og lage rimelige overgangsordninger.
 
-67 år og
-1 måned
+Utvalget vil peke på flere viktige forhold i en vurdering av framtidig økonomisk bærekraft. Den vil i stor grad avhenge av at vi sikrer et tilstrekkelig høyt arbeidstilbud. Dette vil være krevende. Hvis vi ikke lykkes med det, vil det være svært utfordrende å sikre både tilstrekkelige inntekter og tilstrekkelig arbeidskraft til velferdsstaten, herunder til å dekke økende behov for helse- og omsorgstjenester. Det er svært viktig at pensjonssystemet fortsatt støtter opp under insentivene til å stå i arbeid.
 
-68 år og
-2 måneder
+Perspektivmeldingen legger til grunn at standarden på offentlige tjenester fortsatt vil øke noe framover, men at veksten vil bli betydelig mindre enn vi har vært vant til. Dessuten viser Perspektivmeldingen et betydelig inndekningsbehov. Vekst i produktiviteten vil innebære at framtidige generasjoner trolig vil være rikere enn oss, og det kan argumenteres for at de selv bør finansiere standardhevinger og konsekvenser av økende levealder. Utvalget vil derfor mene at neste generasjon, ut fra det vi nå ser for oss, ikke bør ha grunnlag for å hevde at vår generasjon burde ha strammet inn pensjonssystemet på 2020-tallet. Selv om neste generasjon må forvente å stå lenger i jobb for å opprettholde pensjonsnivået, vil dette være knyttet til at forventet levealder vil øke, og dermed antakelig også den helsemessige funksjonsdyktigheten ved ulike alderstrinn.
 
-69 år og
-4 måneder
+Utvalget mener at det bildet som dette kapitlet tegner av utviklingen framover med dagens regelverk og ut fra forutsetningene i referansebanen, ikke tilsier at det er behov for større innstramminger og systemendringer.
 
-Øvre grense for beregnet pensjonsopptjening for uføretrygdede
+Utvalget vil imidlertid peke på at vi står overfor en usikker framtid. Forutsetninger om pensjonsfondets avkastning framover kan vise seg å være for optimistiske. Hvis forutsetningene for pensjonssystemets bærekraft – for eksempel forholdet mellom antall arbeidstakere og pensjonister – svikter i betydelig grad, må sterkere tiltak for å stabilisere utgiftene vurderes.
 
-62 år
+Man kan håpe på at sysselsettingen øker mer og at statens pensjonsfond vokser raskere enn det som nå legges til grunn, men en bør ikke planlegge ut fra dette. Utvalget mener at vi bør vektlegge den nedsiderisikoen som finnes for offentlige finanser framover. Det tilsier at en bør være forsiktig med å vedta nye justeringer av pensjonssystemet som øker utgiftene. Dette må også ses i lys av at pensjonsregler i noen grad er beskyttet av Grunnloven, slik at det kan bli krevende å stramme inn ordninger med rask effekt på et senere tidspunkt hvis en først har økt pensjonsrettighetene.
 
-62 år og
-1 måned
+På denne bakgrunnen mener utvalget at pensjonssystemet ikke bør justeres slik at det svekker bærekraften, men at justeringene som kan og bør gjøres, må bidra til en balansert og holdbar utvikling. Utvalget mener derfor at for å bidra til en balanse mellom generasjonene, bør bidragsraten i utgangspunktet ikke øke særlig mye ut over anslaget i referansebanen.
 
-63 år og
-2 måneder
+Dette kan bli krevende. Det er flere forhold ved dagens regelverk som ikke i tilstrekkelig grad bidrar til å sikre den sosiale bærekraften. Utvalget viser blant annet til at det i referansebanen ikke er lagt inn skjerming av uføre for levealdersjusteringen. Ved vurderingen av uføres alderspensjon (jf. kapittel 12 og kapittel 14) vil hensynet til behovet for en slik skjerming måtte avveies mot konsekvensene for den økonomiske bærekraften.
 
-64 år og
-4 måneder
+Framover vil det være særlig viktig å sikre at eventuelle justeringer opprettholder gode insentiver til å stå i arbeid, og ikke vesentlig svekker levealdersjusteringen, som er den mekanismen som i pensjonsreformen særlig ivaretar den økonomiske bærekraften.
 
-Alder for overføring fra uføretrygd
-til alderspensjon
+Tilstrekkelig oppslutning om reformen er avgjørende for å sikre bærekraftige pensjonsordninger. Nå som ny alderspensjon fases inn, og levealdersjusteringen får større effekt over tid, er det avgjørende at det er oppslutning om de samlede pensjonsreglene, og at oppslutningen hviler på at konsekvensene av reglene er forstått og aksepterte ut fra en helhetsvurdering. Pensjonssystemet er komplekst, og endringer på ett område kan få utilsiktede konsekvenser på andre områder. Enkelte justeringer som hver for seg kan framstå som fornuftige kan, om de blir mange nok, over tid bidra til å undergrave pensjonsreformen og målet om et bærekraftig pensjonssystem. Det kan derfor være hensiktsmessig at endringer i pensjonsreglene gjennomføres på bakgrunn av brede evalueringer, for eksempel hvert tiende år, jf. avsnitt 4.6.
 
-67 år
+# Aldersgrensene i pensjonssystemet
 
-67 år og
-1 måned
+## Innledning og sammendrag
 
-68 år og
-2 måneder
+Før pensjonsreformen var det en lovfestet nedre aldersgrense på 67 år for å motta alderspensjon fra folketrygden. Fra denne alderen gjaldt en ubetinget rett til å motta alderspensjon. Med pensjonsreformen ble det innført fleksibelt pensjonsuttak mellom 62 og 75 år. 67 år ble imidlertid beholdt som den laveste alderen for *ubetinget* rett til å ta ut alderspensjon. Gjennomgangen av pensjoneringsmønstrene etter pensjonsreformen i kapittel 5 *Sysselsetting og pensjon etter pensjonsreformen*, viser at det er mye som tyder på at 67 år fremdeles anses som en «normal» alder å trekke seg tilbake fra arbeidslivet og bli alderspensjonist.
 
-69 år og
-4 måneder
+Samtidig som det ble innført fleksibelt uttak, ble det også innført levealdersjustering av alderspensjonen. Levealdersveksten etter 2011 har vært kraftigere enn forventet da pensjonsreformen ble vedtatt. Samtidig forventes det at levealdersveksten vil fortsette. Økende levealder vil føre til at levealdersjusteringen får stadig større effekt på pensjonsnivåene. For å få tilstrekkelige pensjonsnivåer, må derfor yngre årskull stå lenger og lenger i arbeid for å kompensere for effekten av levealdersjusteringen.
 
-Øvre grense for mottak av korttidsytelser fra folketrygden
-
-67 år
-
-67 år og
-1 måned
-
-68 år og
-2 måneder
-
-69 år og
-4 måneder
-
-Øvre grense for opptjening av inntektspensjon og beregning av delingstall
-
-75 år
-
-75 år og
-1 måned
-
-76 år og
-2 måneder
-
-77 år og
-4 måneder
-
-Kilde: Statistisk sentralbyrå, basert på prognoser for delingstallet fra 2021.
-
-[Side 204]
-
-202
-
-Kapittel 9
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-I tillegg til aldersgrensene i tabell 9.2, mener
-utvalget at også enkelte andre aldersgrenser eller
-størrelser bør heves eller beregnes ved en høyere
-alder enn tidligere. Særlig gjelder dette intervallet
-for beregning av delingstall og øvre alder for
-beregningen av arvegevinst som inngår i delingstallene. I beregningene som presenteres i avsnitt
-9.6 er det lagt til grunn at:
-– Arvegevinstene i delingstallet beregnes fram til
-og med ett kalenderår før gjeldende aldersgrense for fritt uttak av minsteytelsen. For 1984kullet betyr det fram til og med 68 år og 4 måneder ut fra de siste prognosene for delingstallet.
-– Delingstallene beregnes for den tiårsperioden
-som kommer to år før nedre grense for uttak av
-alderspensjon. For 1984-kullet betyr det fra 52
-år og 4 måneder til 62 år og 3 måneder ut fra de
-siste prognosene for delingstallet.
-– Trygdetid i ny folketrygd beregnes til og med
-året før alderen for fritt uttak av minsteytelsen,
-tilsvarende som for arvegevinsten. Trygdetid
-fastsettes i hele år.
-Dersom aldersgrensene i pensjonssystemet skal
-økes, vil det på sikt kunne bli behov for at også
-aldersgrensene for stillingsvern justeres. Det er
-imidlertid utenfor utvalgets mandat å vurdere
-disse aldersgrense, og problemstillingen ligger
-noe fram i tid. Utvalget har derfor ikke gått nærmere inn i denne problemstillingen.
-
-9.6
-
-Konsekvenser uten effekter
-av normdanning
-
-9.6.1
-Innledning
-Utvalgets vurderinger av hvilke konsekvenser
-økte aldersgrenser vil få, bygger på beregninger
-foretatt av Statistisk sentralbyrå (SSB). I beregningene er det lagt til grunn at alle aldersgrensene i
-pensjonssystemet justeres automatisk i tråd med
-utvalgets forslag, se også avsnitt 9.4.3. Se Fredriksen m.fl. (2022) for ytterligere informasjon om
-SSBs beregninger, herunder også detaljerte
-beregningsforutsetninger.
-SSB sammenlikner effektene av at det innføres
-automatisk justering av aldersgrensene med
-effektene av en videreføring av regelverket for
-pensjon i 2021 – referansebanen. Beregningen av
-referansebanen tar utgangspunkt i SSBs forventninger om utviklingen framover og det gjeldende
-regelverket for pensjon og trygder. Referansebanen er nærmere beskrevet i kapittel 8.
-Som alle framskrivinger bygger også SSBs
-beregninger på usikre forutsetninger om framti-
-
-den. Blant annet er det gjort antagelser om den
-framtidige utviklingen i arbeidstilbudet. Hvordan
-arbeidstilbudet utvikler seg påvirker gjennomsnittlige pensjoner for arbeidsføre, framtidige forventede utgifter til pensjon, og statens muligheter
-til å finansiere pensjonsutgiftene.
-Det er flere grunner til å forvente at arbeidstilbudet blant eldre vil øke framover, herunder blant
-annet bedret helse og arbeidsmiljø, og økt utdanning i befolkningen. Etter hvert som levealdersjusteringen tiltar, vil pensjonsnivåene for en gitt opptjening og avgangsalder, bli stadig lavere. Dette gir
-den enkelte et økonomisk insentiv til å stå lenger i
-arbeid for å unngå å få for lav alderspensjon. Insentivene som levealdersjusteringen gir vil virke uavhengig av om det innføres økte aldersgrenser.
-SSB har i sine beregninger av referansebanen
-– altså før det innføres økte aldersgrenser – lagt til
-grunn at de arbeidsføre vil utsette avgangen fra
-arbeidsmarkedet så lenge at de, så langt dagens
-faste aldersgrenser tillater, fullt ut kompenserer
-for effekten av levealdersjusteringen. Det er usikkert om arbeidsføre vil øke arbeidstilbudet så mye
-som det er lagt til grunn i referansebanen. For
-eksempel legges det i Perspektivmeldingen til
-grunn at arbeidstilbudet ikke øker så mye. Det vil
-si at noe av den framtidige velstandsveksten tas ut
-i form av økt fritid som pensjonist. Forutsetningen
-om full kompensering betyr uansett at det er lagt
-til grunn at arbeidstilbudet vil øke også uten at
-aldersgrensene økes.
-Utvalget legger til grunn at økte aldersgrenser
-vil gi en større økning i arbeidstilbudet enn om
-dagens faste aldersgrenser opprettholdes. For det
-første setter dagens faste aldersgrenser skranker
-på når det er tillatt å ta ut alderspensjon. Dersom
-aldersgrensene øker i takt med levealdersutviklingen slik utvalget foreslår, vil dette øke både den
-laveste alderen der det er mulig å ta ut alderspensjon, alderen den ubetingede retten til alderspensjon inntreffer og hvor lenge det er mulig å utsette
-avgangen fra arbeidslivet og fortsatt få økt alderspensjon.
-Økte aldersgrenser vil med andre ord påvirke
-arbeidstilbudet «mekanisk» ved at de arbeidsføres
-valgmuligheter endres. Disse mekaniske effektene på arbeidstilbudet er hensyntatt i SSBs
-beregninger av konsekvensene av å øke aldersgrensene som presenteres i dette avsnittet.
-Utvalget legger til grunn at økte aldersgrenser
-også vil påvirke pensjoneringsnormene, altså når
-den enkelte oppfatter at det er naturlig å slutte å
-arbeide. Også på denne måten kan økte aldersgrenser bidra til at flere står lenger i arbeid enn de
-vil gjøre med faste aldersgrenser. Dersom alders-
-
-[Side 205]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-grensene økes i takt med levealdersutviklingen,
-vil det sende et tydelig signal til den enkelte om at
-avgangsalderen bør øke dersom levealderen øker.
-Slike normdanningseffekter er en vesentlig grunn
-til at utvalget foreslår at aldersgrensene bør økes.
-En annen viktig grunn er at økte aldersgrenser vil
-bidra til å sikre rimelige pensjonsnivåer også for
-framtidens pensjonister.
-SSB har ikke lagt inn mulige effekter på pensjoneringsnormene i konsekvensberegningene av
-økte aldersgrenser. Beregningene som presenteres i dette avsnittet viser derfor mulige konsekvenser av økte aldersgrenser uten at det er tatt
-hensyn til normdanningseffekter.
-Dersom økte aldersgrenser påvirker pensjoneringsnormene slik utvalget legger til grunn – altså
-at endrede normer øker arbeidstilbudet – vil det
-bidra til å redusere finansieringsbyrden av pensjonssystemet. Det tilsier at veksten i finansieringsbyrden av å øke aldersgrensene som presenteres i dette avsnittet trolig overvurderes noe.
-For å illustrere hvordan normdanningseffekter av økte aldersgrenser potensielt kan påvirke
-pensjonskostnadene og finansieringsbyrden av
-pensjonssystemet, vises i avsnitt 9.7 beregninger
-der det er lagt til grunn at endrede normer påvirker arbeidsføre slik at disse øker arbeidstilbudet
-mer enn de ellers ville gjort når aldersgrensene
-øker. Beregningene viser at positive normdanningseffekter vil øke pensjonsutgiftene, men at
-veksten i finansieringsbyrden av pensjonssystemet likevel blir mindre.
-I SSBs beregninger er det videre lagt til grunn
-at levealdersveksten blir som i middelalternativet i
-SSBs befolkningsframskriving fra 2020 og at sannsynligheten for å bli ufør, gitt alder, kjønn og en
-rekke andre kjennetegn, opprettholdes på samme
-nivå som observert i de fem siste årene SSB har
-data for. Det siste innebærer blant annet at det
-ikke er tatt hensyn til mulige atferdsendringer
-knyttet til uføretrygding som følge av at aldersgrensene øker. I avsnitt 9.8 vises en del beregninger der disse forutsetningene er modifiserte.
-Det er lagt til grunn for beregningene at alle
-aldersgrensene i pensjonssystemet justeres like
-mye når levealderen øker. Det innebærer at det er
-lagt til grunn at både alderen der uføre går over til
-alderspensjon og alderen uføres opptjening av
-alderspensjon stopper vil øke i takt med de øvrige
-aldersgrensene. Automatisk justering av aldersgrensene for uføre i takt med levealdersutviklingen kan bidra til å løse en av utfordringene med
-dagens regelverk – at uføres gjennomsnittlige
-alderspensjon vil bli stadig lavere relativt til de
-arbeidsføres, dersom arbeidsføre tilpasser seg
-
-203
-
-Kapittel 9
-
-levealdersjusteringen fullt ut ved å stå lenger i
-arbeid. I beregningene er det som nevnt lagt til
-grunn at arbeidsføre tilpasser seg levealdersjusteringen ved å stå lenger i jobb slik at årlig alderspensjon opprettholdes på samme relative nivå som
-for tidligere årskull. Gitt at de arbeidsføre faktisk
-øker avgangsalderen som forutsatt, vil justeringen
-av aldersgrensene for uføre som er lagt til grunn i
-SSBs beregninger innebære at forholdet mellom
-uføres og arbeidsføres alderspensjoner opprettholdes på dagens nivå også i framtiden.
-Dersom arbeidsføre derimot ikke utsetter
-avgangsalderen like mye som forutsatt, vil uføres
-alderspensjoner over tid øke sammenliknet med
-arbeidsføres alderspensjoner. Det kan stilles
-spørsmål ved om de arbeidsføre i noen grad vil
-velge å ta ut deler av den framtidige velstandsveksten i økt fritid gjennom noe mindre utsettelse
-av pensjoneringstidspunktet enn det som ligger til
-grunn for SSBs beregninger. Se kapittel 12, der
-det blant annet drøftes alternative løsninger for å
-opprettholde et rimelig forhold mellom uføres og
-arbeidsføres alderspensjoner.
-Beregningene som presenteres i dette avsnittet skal spenne ut mulighetsrommet mellom
-dagens regelverk i referansebanen og en slags
-maksimumsløsning for økte aldersgrenser, og er
-ment å danne grunnlag for vurderingene av
-mulige justeringer i regelverket for regulering,
-minsteytelser, uføres alderspensjon, mv. i de påfølgende kapitlene. Beregningene er med andre ord
-ikke ment å skulle illustrere utvalgets anbefalte
-samlede løsning. Utvalgets anbefalte samlede løsning for justering av aldersgrenser, reguleringsregler, regler for minsteytelser, korttidsytelser og
-uføres alderspensjon er oppsummert i kapittel 14
-Samlet tilrådning – Løsning for minsteytelsene og
-uføres alderspensjon.
-I dette avsnittet illustreres det hvordan økte
-aldersgrenser vil kunne påvirke folketrygdens
-utgifter til pensjon og andre trygdeytelser. Videre
-illustreres det hvordan bidragsraten og netto skattesats vil kunne endres.
-Den tradisjonelle definisjonen av bidragsraten
-er at dette er den skattesatsen som er nødvendig
-for å finansiere utbetalingene av alderspensjon fra
-folketrygden, gitt at finansieringsbyrden utelukkende legges på arbeids- og pensjonsinntekter i
-samme år. Når aldersgrensene øker, er det naturlig å ta med i definisjonen av bidragsraten den
-delen av utgiftsveksten til andre ytelser enn pensjon som knytter seg direkte til økte aldersgrenser, herunder veksten i utgifter til uføretrygd,
-arbeidsavklaringspenger og etterlattepensjon som
-vil følge av økte aldersgrenser. Begrepet «pen-
-
-[Side 206]
-
-204
-
-NOU 2022: 7
-
-Kapittel 9
-
-Et forbedret pensjonssystem
-
-sjonsutgifter» defineres derfor her som samlede
-utgifter til alderspensjon fra folketrygden, pluss
-en eventuell endring i utgifter til uføretrygd,
-arbeidsavklaringspenger, etterlattepensjon og
-korttidsytelser sammenliknet med en videreføring av gjeldende regler (referansebanen).
-Bidragsraten gir et godt bilde av effekten på
-pensjonsutgiftene av ulike regelverksendringer,
-men får ikke så godt fram effekten av at endringer
-i pensjonsreglene også kan påvirke arbeidstilbudet og dermed offentlige inntekter. For en nærmere diskusjon av bidragsraten, og hvordan den
-kan si noe om pensjonssystemet økonomiske
-bærekraft, se avsnitt 8.2.
-Det er som nevnt grunn til å tro at økte aldersgrenser i seg selv vil øke arbeidstilbudet. I den
-grad økte aldersgrenser brukes som virkemiddel
-til å skjerme uføre for levealdersjustering, vil økte
-aldersgrenser gjøre det økonomisk mer gunstig å
-gå over til alderspensjon fra uføretrygd. Dette vil i
-noen grad kunne svekke arbeidsinsentivene. I
-
-SSBs hovedberegninger er det imidlertid ikke
-lagt til grunn at skjerming av uføre vil påvirke
-arbeidsinsentivene.
-Økt arbeidstilbud vil som nevnt øke skattebasen som skal finansiere alderspensjonene. Skattebasen skal imidlertid også finansiere andre offentlige utgifter. SSB har lagt til grunn at 25 prosent av
-en gitt økning i skattebasen normalt vil gå til å
-finansiere andre offentlige utgifter enn pensjoner.
-Andre offentlige utgifter – som utgifter til helse,
-skole, mv. – vil i prinsippet ikke påvirkes av at
-arbeidstilbudet endres som følge av økte aldersgrenser i pensjonssystemet. Gitt en slik forutsetning, vil statsfinansene ellers – altså den delen av
-statsfinansene som ikke knytter seg til alderspensjon – bli styrket tilsvarende økningen i skattebasen som ikke går til å dekke alderspensjoner.
-Denne bedringen av statsfinansene fanges ikke
-opp av bidragsraten.
-For å belyse den totale effekten av ulike regelverksendringer for de offentlige finansene, har
-
-Boks 9.2 Netto skattesats
-Netto skattesats er definert slik:
-
-Netto skattesats =
-
-pensjonsutgifter –25 % x endring i skattebase
-
-Pensjonsutgifter er definert som samlede utgifter til alderspensjon fra folketrygden, pluss en
-eventuell økning i utgifter til uføretrygd, arbeidsavklaringspenger, etterlattepensjon og korttidsytelser sammenliknet med en videreføring av
-gjeldende regler (referansebanen).
-I beregningen av netto skattesats ses altså
-pensjonsutgiftene i forhold til en skattebase
-bestående av all lønnsinntekt og alle pensjonsog trygdeytelser. Til sammenlikning ses pensjonsutgiftene i forhold til en mer avgrenset
-skattebase bestående av lønnsinntekt og kun
-alderspensjon og endringer i uføretrygd ved
-beregning av bidragsraten. Dette innebærer at
-nivået på netto skattesats alltid vil være en del
-lavere enn nivået på bidragsraten.
-«Endring i skattebase» er endringen skattebasen sammenliknet med skattebasen i referansebanen. I referansebanen vil dermed «endring i
-skattebase» per definisjon være lik null. Netto
-skattesats i referansebanen blir dermed lik pensjonsutgifter delt på skattebasen.
-
-skattebase
-Økte aldersgrenser vil gi endringer i beregnet arbeidstilbud og uttak av ulike pensjons- og
-trygdeytelser. Dette fører til at skattebasen
-endres sammenliknet med skattebasen i referansebanen. Dermed blir leddet «endring i skattebase» i formelen for netto skattesats ulikt null
-når netto skattesats beregnes under forutsetning av økte aldersgrenser.
-SSB har lagt til grunn at 25 prosent av endringen i skattebasen normalt vil gå til å finansiere
-andre offentlige utgifter enn pensjon. I beregningen av netto skattesats er det imidlertid lagt til
-grunn at også disse midlene inngår i finansieringen av pensjon. Formelen over viser at ved
-beregning av netto skattesats benyttes disse 25
-prosentene av økningen i skattebasen til å redusere pensjonsutgiftene som skal finansieres.
-Se Fredriksen m.fl. (2022) for en nærmere
-beskrivelse av netto skattesats.
-
-[Side 207]
-
-205
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-9.6.2
-Beregningsresultater
-Antall alderspensjonister og uføretrygdede
-De fleksible uttaksreglene som ble innført fra 2011,
-førte til at antall alderspensjonister økte sammenliknet med hva antallet ville vært uten en reform.
-SSBs beregninger viser at dersom dagens regler
-videreføres (referansebanen), vil antallet alderspensjonister bli liggende permanent høyere enn
-uten pensjonsreformen. Dersom aldersgrensene
-økes, vil imidlertid antallet alderspensjonister gå
-klart ned. Dette skyldes først og fremst at flere må
-vente med å ta ut pensjon når nedre aldersgrense
-øker. I disse beregningene er alle som mottar
-alderspensjon regnet som alderspensjonister. Det
-innebærer at personer som fortsatt er i arbeid, men
-som har tatt ut alderspensjon, regnes med.
-Figur 9.5 viser beregnet antall alderspensjonister fram til 2100 gitt at det ikke hadde blitt gjennomført en pensjonsreform i 2011, med referansebanen og med økte aldersgrenser. Antallet alderspensjonister vil fortsette å øke selv om aldersgrensene øker, men som figuren viser vil veksten bli
-redusert betraktelig. Fra 2045 vil antallet alderspensjonister være lavere enn det ville ha vært
-uten en pensjonsreform i 2011.
-Økte aldersgrenser vil også kunne påvirke
-hvor mange som mottar minsteytelsene i folketrygden. Andelen minstepensjonister ved avgang
-er beregnet å bli lavere enn én prosent av alle pensjonister både ved en videreføring av gjeldende
-regler (referansebanen) og med økte aldersgren-
-
-2 000
- 000
-1 800 000
-1 600 000
-1 400
- 000
-1 200
- 000
-1 000 000
-800 000
-600 000
-400 000
-200 000
-2100
-
-2090
-
-2080
-
-2070
-
-2060
-
-2050
-
-2040
-
-2030
-
-2010
-
-2020
-
-1990
-
-2000
-
-1980
-
-0
-1970
-
-SSB derfor beregnet en såkalt netto skattesats, se
-boks 9.2. I beregningen av netto skattesats legges
-det til grunn at hele økningen i offentlige inntekter som følge av økt arbeidstilbud brukes på å
-redusere skattebyrden av pensjonssystemet. På
-den måten er netto skattesats i situasjoner med
-endret arbeidstilbud et bedre mål enn bidragsraten på skattesatsen som er nødvendig for å finansiere pensjonsutgiftene. En endring i netto skattesats som følge av en gitt endring i pensjonsregelverket – eksempelvis økte aldersgrenser som vil
-påvirke arbeidstilbudet – gir dermed også et
-bedre bilde på den samlede effekten av regelendringen for statsfinansene. Effektene er for øvrig
-avhengige av de beregnede utslagene på skattebasen, som igjen er avhengig av hvilke forutsetninger en legger til grunn om arbeidstilbudet framover. Forutsetningene om utviklingen i arbeidstilbudet framover er usikre, og i Fredriksen m.fl.
-(2022) er det gjort rede for utslaget av ulike
-endringer i disse forutsetningene.
-
-Kapittel 9
-
-År
-Ingen pensjonsreform
-Økte aldersgrenser
-
-Referansebanen
-
-Figur 9.5 Antall alderspensjonister inklusive ikke
-bosatte. Etter kalenderår
-Kilde: Statistisk sentralbyrå.
-
-ser for alle framtidige årskull. En minstepensjonist er her definert som en person som mottar en
-pensjon som er mindre enn gjeldende minstenivå
-gitt sivilstand og egen trygdetid, og/eller hvor
-både garantitillegget og tilleggspensjonen er null.
-Dette innebærer at personer som har lavere pensjon enn minstenivået, men der dette skyldes
-manglende trygdetid ikke vil defineres som
-minstepensjonist. I ny alderspensjon vil nesten
-alle med full trygdetid ha noe pensjonsopptjening
-som gir en pensjon over garantipensjonsnivået
-ved avgang (minstenivået i ny alderspensjon).
-SSB har også beregnet den mulige utviklingen
-i antall garantipensjonister. En garantipensjonist er
-definert som en person som får utbetalt enten
-særtillegg eller minstenivåtillegg fra gammel
-alderspensjon fra folketrygden, eller garantitillegg
-fra ny alderspensjon. Dette vil være personer som
-befinner seg i «avkortingsintervallet» for garantipensjonen.
-Figur 9.6 viser andelen garantipensjonister
-ved avgang i referansebanen med økte aldersgrenser. I referansebanen vil andelen garantipensjonister ligge på i overkant av 30 prosent for alle
-årskull fram til 2065-kullet. Med økte aldersgrenser vil imidlertid andelen garantipensjonister avta
-fra 35 prosent for 1955-kullet til under 20 prosent
-for årskull født etter 2050. Nedgangen skyldes at
-økte aldersgrenser vi gi økt pensjonsopptjening
-for uføre og utsatt tidliguttak for arbeidsføre, noe
-som fører til at færre får garantitillegg.
-
-[Side 208]
-
-206
-
-NOU 2022: 7
-
-Kapittel 9
-
-Et forbedret pensjonssystem
-
-100 %
-
-600 000
-
-90 %
-500 000
-
-80 %
-70 %
-
-400 000
-
-60 %
-300 000
-
-50 %
-40 %
-
-200 000
-
-30 %
-20 %
-
-100 000
-
-10 %
-1960
-1970
-1980
-1990
-2000
-2010
-2020
-2030
-2040
-2050
-2060
-2070
-2080
-2090
-2100
-
-2065
-
-2055
-
-2045
-
-2035
-
-2025
-
-2015
-
-2005
-
-1995
-
-1985
-
-1975
-
-1965
-
-1955
-
-0%
-
-År
-
-Fødselsår
-Referansebanen
-
-Referansebanen
-
-Økte aldersgrenser
-
-Figur 9.6 Andel garantipensjonister ved avgang.
-Etter fødselsår. Prosent
-
-Økte aldersgrenser
-
-Figur 9.7 Antall bosatte uføretrygdede
-Kilde: Statistisk sentralbyrå.
-
-Kilde: Statistisk sentralbyrå.
-
-kant av ni prosent i 2050 og til om lag ti prosent i
-2100. Med en videreføring av dagens regler – referansebanen – er imidlertid andelen uføre anslått å
-ville bli redusert til under åtte prosent fra 2060. Se
-Fredriksen m.fl. (2022) for mer detaljerte framskrivninger av utviklingen i uføreandelene med
-økte aldersgrenser.
-
-12
-10
-8
-6
-4
-2
-
-2100
-
-2090
-
-2080
-
-2070
-
-2060
-
-2050
-
-2040
-
-2030
-
-2020
-
-2010
-
-2000
-
-1990
-
-0
-1980
-
-Antall uføre vil øke dersom aldersgrensen for
-overgang fra uføretrygd til alderspensjon øker
-siden hver enkelt uføretrygdet er ufør i flere år, og
-det kan bli innvilget uføretrygd også til personer
-som har fylt 67 år. Figur 9.7 viser beregnet antall
-uføretrygdede i referansebanen og med økte
-aldersgrenser. Det er lagt til grunn at sannsynligheten for å bli ufør, gitt alder, kjønn og en rekke andre
-kjennetegn, holder seg konstant framover som
-observert i de fem siste årene det foreligger data
-for. SSB anslår, som det framgår av figuren, at økte
-aldersgrenser vil kunne øke antallet uføre fram mot
-2100 med i overkant av 100 000 personer sammenliknet med en videreføring av gjeldende regler.
-Det kan tenkes at økt nedre alder for fleksibelt
-uttak av alderspensjon kan føre til at flere med
-svekket helse som ellers ville klart å «holde ut» i
-arbeidslivet til dagens aldersgrense på 62 år vil bli
-uføre fordi det blir for lenge å vente på kunne
-motta alderspensjon. Samtidig vil det bli mer gunstig å motta uføretrygd dersom uføre skjermes for
-virkningen av levealdersjusteringen. Også slike
-forhold kan potensielt bidra til at flere blir uføre.
-Det er ikke tatt hensyn til slike mulige effekter i
-SSBs hovedberegninger. Det vises beregninger
-med andre forutsetninger om uførerater i avsnitt
-9.8.3.
-Også andelen uføretrygdede er anslått å øke
-dersom aldersgrensene øker. Figur 9.8 viser at
-andelen uføretrygdede i befolkningen anslås å
-øke fra i overkant av åtte prosent i dag til i over-
-
-År
-Referansebanen
-
-Økte aldersgrenser
-
-Figur 9.8 Andel bosatte uføretrygdede, som andel
-av befolkningen over 16 år. Prosent
-Kilde: Statistisk sentralbyrå.
-
-[Side 209]
-
-207
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-Pensjonsnivåer
-Figur 9.9 viser beregnet utvikling i gjennomsnittlig alderspensjon for henholdsvis uføre (stiplede
-linjer) og arbeidsføre (heltrukne linjer) ved en
-videreføring av dagens regler – referansebanen –
-og med automatisk justering av aldersgrensene i
-pensjonssystemet fra og med 1964-kullet.
-De sorte linjene viser gjennomsnittlig alderspensjon for arbeidsføre og uføre i referansebanen.
-Gjennomsnittlig alderspensjon forventes å avta for
-både arbeidsføre og uføre dersom dagens regelverk videreføres. Arbeidsføres alderspensjon avtar
-med om lag 12 prosent fra 1963-kullet til 2020-kullet. Denne reduksjonen skjer til tross for at det er
-antatt i referansebanen at arbeidsføre kompenserer fullt ut for levealdersjusteringen. En av grunnene til dette er at den øvre aldersgrensen i
-økende grad begrenser muligheten for å kompensere. De yngste kan dermed rent faktisk ikke kompensere fullt ut for effekten av levealdersjusteringen fordi den øvre aldersgrensen er for lav. Det er
-også en rekke andre effekter som i hovedsak gjelder personer født før 1980: minsteytelsen blir stadig lavere målt i faste lønninger, noe som gir personer med ingen eller lav egen opptjening stadig
-lavere pensjon målt i faste lønninger, stadig flere
-starter i arbeid senere på grunn av lengre skolegang og får dermed færre opptjeningsår, og det
-blir flere ikke-vestlige innvandrere i pensjonsalder.
-Alderspensjonene i referansebanen forventes
-som figur 9.9 viser, å avta mest for uføre. Dermed
-vil forskjellen mellom arbeidsføres og uføres
-alderspensjoner øke over tid. Uføre i 1963-kullet
-forventes å få en alderspensjon som utgjør 86 prosent av alderspensjonen til arbeidsføre. Dette forholdet synker i referansebanen til 68 prosent for
-uføre i 2020-kullet. Den økte differansen skyldes
-særlig at arbeidsføre her antas å kompensere fullt
-ut for levealdersjusteringen ved å stå lenger i
-arbeid, noe uføre ikke har samme anledning til.
-De røde linjene i figur 9.9 viser utviklingen i
-forventede alderspensjoner dersom aldersgrensene øker. For arbeidsføre innebærer økte aldersgrenser at gjennomsnittlig avgangsalder stiger.
-Siden det er lagt til grunn at de arbeidsføre kompenserer fullt ut for levealdersjusteringen i referansebanen skjer denne økningen først og fremst
-fordi muligheten til tidliguttak – med tilhørende
-lave pensjonsnivåer – begrenses når den nedre
-aldersgrensen øker, samt at minsteytelsene øker
-når aldersgrensen for uttak av disse øker. Dette
-gir økt pensjonsopptjening, og følgelig høyere
-alderspensjoner. Samtidig tas alderspensjonene ut
-senere, slik at levealdersjusteringen blir noe mil-
-
-Kapittel 9
-
-350 000
-300 000
-250 000
-200 000
-150 000
-100 000
-50 000
-1940 1950 1960 1970 1980 1990 2000 2010 2020
-Fødselsår
-Uføre – Referansebanen
-Arbeidsføre – Referansebanen
-Uføre – Økte aldersgrenser
-Arbeidsføre – Økte aldersgrenser
-
-Figur 9.9 Utvikling i uføres og arbeidsføres alderspensjon i referansebanen og ved økte aldersgrenser.
-Forutsatt uttak samtidig med avgang og minst 20 års
-botid. Etter fødselsår. 2021-kroner (lønnsdeflatert)
-Kilde: Statistisk sentralbyrå.
-
-dere sammenliknet med hva den blir med faste
-aldersgrenser. Figuren viser at økte aldersgrenser
-vil føre til at forventet gjennomsnittlig alderspensjon for nye årskull arbeidsføre vil bli liggende om
-lag konstant på samme nivå som for 1963-kullet.
-I SSBs beregninger er det lagt til grunn at når
-aldersgrensene for arbeidsføre øker vil også
-aldersgrensen for når uføre går over til alderspensjon og når uføres opptjening av alderspensjon
-stopper øke. Veksten i disse aldersgrensene fører
-til at uføre skjermes mer eller mindre fullt ut for
-effekten av levealdersjusteringen. Figuren viser at
-dette fører til at uføres alderspensjoner framover
-vil ligge om lag på samme nivå som for 1963-kullet.
-Pensjonsnivåene vil imidlertid avta noe over tid.
-Grunnen er at økte aldersgrenser kun vil gi en delvis skjerming av minstenivåene for effekten av
-levealdersjusteringen. Uføre påvirkes mer av dette
-enn arbeidsføre, fordi det – relativt sett – er flere
-uføre som mottar en avkortet garantipensjon.
-SSBs beregninger viser med andre ord at økte
-aldersgrenser og full skjerming av uføre mot levealdersjustering både vil føre til at arbeidsføres og
-uføres alderspensjoner langt på vei opprettholdes
-relativt til velstandsnivået for yrkesaktive, og til at
-forholdet mellom arbeidsføres og uføres alderspensjoner vil være relativt stabilt, forutsatt at
-arbeidsføre fullt ut kompenserer for levealdersjusteringen.
-
-[Side 210]
-
-208
-
-NOU 2022: 7
-
-Kapittel 9
-
-Et forbedret pensjonssystem
-
-En vesentlig grunn til at utvalget tilrår å øke
-aldersgrensene, er at aldersgrensene kan virke
-normgivende for den enkeltes pensjoneringsbeslutning, og at faste aldersgrenser derfor kan
-bidra til at mange arbeidsføre tar ut alderspensjon
-og slutter å arbeide tidligere enn det som er optimalt både for den enkelte og for samfunnet.
-Denne effekten hensyntas som nevnt ikke i beregningene her, fordi det er lagt til grunn at arbeidsføre kompenserer fullt ut for levealdersjusteringen i både referansebanen og med økte aldersgrenser. Se beregninger med alternative forutsetninger i avsnitt 9.7.
-Økte aldersgrenser vil også kunne påvirke fordelingen av årlig pensjon. Figur 9.10 viser beregnet fordeling på husholdsnivå av årlig alderspensjon i 2060 med henholdsvis referansebanen
-(sorte linjer) og økte aldersgrenser (røde linjer)
-for arbeidsføre og uføre. Uføre og arbeidsføre er
-fordelt i 100 like store grupper (prosentiler) etter
-størrelsen på årlig pensjon, fra de som har lavest
-pensjon til de som har høyest pensjon.
-Det er lagt til grunn at alle tar ut alderspensjon
-samtidig som de har avgang fra arbeidslivet. Dette
-
-600 000
-500 000
-400 000
-300 000
-200 000
-100 000
-0
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-Prosentil
-
-innebærer at eventuelle ulikheter i tidliguttak av
-alderspensjon i kombinasjon med fortsatt arbeid
-mellom ulike grupper ikke påvirker fordelingsprofilene i figuren.
-Bare personer som har bodd i Norge i alle år
-etter fylte 15 år inngår i denne beregningen. Det
-vil si at «migranter» – her definert som personer
-som har bodd i utlandet i minst ett år etter fylte 15
-år – ikke inngår. Migrantene er en sammensatt
-gruppe, som av ulike årsaker – herunder ofte
-manglende trygdetid – får spesielt lav alderspensjon. Økte aldersgrenser vil gi noe høyere alderspensjoner også til migranter, men økningen er
-relativt sett mindre enn for uføre og arbeidsføre.
-Figur 9.10 viser at både arbeidsføre og uføre
-vil få økt årlig pensjon over hele inntektsfordelingen dersom aldersgrensene øker. Økningen er
-imidlertid klart størst for uføre (stiplede linjer).
-Effekten på uføres alderspensjon av skjermingen
-mot levealdersjustering er med andre ord større
-enn effekten av økte aldersgrenser er for arbeidsføres pensjoner, blant annet fordi det er forutsatt i
-modellen at arbeidsføre allerede kompenserer for
-levealdersjusteringen i referansebanen.
-I figuren er også minste pensjonsnivå for enslige i 2021 tegnet inn. Med en videreføring av
-dagens regler – referansebanen – vil om lag halvparten av alle uføre i 2060 få en alderspensjon som
-er lavere enn dagens minsteytelse for enslige.
-Denne andelen reduseres til 35 prosent dersom
-aldersgrensene øker. For arbeidsføre er andelen
-25 prosent med referansebanen og 20 prosent
-med økte aldersgrenser.
-Dette resultatet betyr imidlertid ikke at 35 prosent av de uføre og 20 prosent av de arbeidsføre i
-2060 vil få en alderspensjon som er lavere enn
-minsteytelsen for enslige. Dersom dagens regler
-for regulering av minsteytelsene videreføres vil
-minsteytelsene – målt i faste kroner – bli en del
-lavere i 2060 enn i 2021, selv om det tas hensyn til
-at alderen for beregning av minsteytelsen øker.
-
-Arbeidsføre – Referansebanen
-Uføre – Referansebanen
-Arbeidsføre – Økte aldersgrenser
-Uføre – Økte aldersgrenser
-Minsteytelse, enslig 2021
-
-Figur 9.10 Fordeling av alderspensjon i folketrygden
-per person på husholdsnivå i 2060. Prosentilfordelt.
-2021-kroner (lønnsdeflatert)
-Forutsetninger: Fordeling på husholdsnivå. Uttaksalder lik
-avgangsalder. Alderspensjonistpar regnes som et hushold,
-ekvivalensvekt for person 2 er 0,7.
-Kilde: Statistisk sentralbyrå.
-
-Pensjonsutgifter
-SSB har definert «pensjonsutgifter» som samlede
-utgifter til alderspensjon pluss veksten i utgifter til
-uføretrygd, arbeidsavklaringspenger, etterlattepensjon og korttidsytelser5 sammenliknet med
-nivået på disse ytelsene i referansebanen.
-5
-
-Med korttidsytelser menes her dagpenger, sykepenger
-(for arbeidstakere og selvstendige), pleie-, opplærings- og
-omsorgspenger, feriepenger av sykepenger (og pleie-,
-ferie- og omsorgspenger), samt enkelte etterbetalinger i
-forbindelse med klagesaker (som derfor kan utbetales
-etter at aldersgrensen er nådd).
-
-[Side 211]
-
-NOU 2022: 7
-Et forbedret pensjonssystem
-
-350
-
-350
-
-300
-
-300
-
-250
-
-250
-
-200
-
-200
-2100
-
-400
-
-2090
-
-400
-
-2080
-
-450
-
-2070
-
-450
-
-2060
-
-500
-
-2050
-
-500
-
-2040
-
-550
-
-2030
-
-550
-
-2020
-
-600
-
-2010
-
-600
-
-År
-Ingen pensjonsreform
-Økte aldersgrenser
-
-Referansebanen
-
-Figur 9.11 Pensjonsutgifter. Etter kalenderår. Mrd.
-2021-kroner (lønnsdeflatert)
-Kilde: Statistisk sentralbyrå.
-
-Figur 9.11 viser beregnet utvikling i samlede
-pensjonsutgifter uten en pensjonsreform, med
-dagens regler – referansebanen – og med økte
-aldersgrenser. Det framgår at økte aldersgrenser
-vil øke de samlede pensjonsutgiftene sammenliknet med en videreføring av dagens regler. Siden
-økte aldersgrenser fases gradvis inn vil imidlertid
-utgiftsøkningen være relativt beskjeden på kort
-sikt. Først rundt 2045 vil pensjonsutgiftene øke
-dersom aldersgrensene økes. På lang sikt – fram
-mot 2100 – øker imidlertid de årlige utgiftene med
-i overkant av 50 milliarder.
-Tabell 9.3 viser beregnede pensjonsutgifter i et
-utvalg år for de tre scenariene i figur 9.11. Tabellen viser at økte aldersgrenser i sum er beregnet å
-ville gi uendrete utgifter i 2040 sammenliknet med
-
-Tabell 9.3 Pensjonsutgifter. Etter kalenderår.
-Milliarder 2021-kroner (lønnsdeflatert)
-Ingen
-pensjonsreform
-
-Referanse- Økte aldersbanen
-grenser
-
-2024
-
-283
-
-273
-
-273
-
-2040
-
-408
-
-336
-
-336
-
-2060
-
-496
-
-363
-
-378
-
-2080
-
-564
-
-373
-
-411
-
-Kilde: Statistisk sentralbyrå.
-
-209
-
-Kapittel 9
-
-referansebanen. I 2060 og 2080 er utgiftene beregnet å øke med henholdsvis 15 og 38 milliarder.
-Det er mange ulike effekter som ligger bak
-den beregnede veksten i pensjonsutgiftene når
-aldersgrensene øker. Hovedbegrunnelsen for forslaget om å øke aldersgrensene er å påvirke
-normdanningen blant den arbeidsføre delen av
-befolkningen, for på den måten å styrke den økonomiske bærekraften i pensjonssystemet. Dersom
-aldersgrensene økes også for andre grupper, kan
-samtidig den sosiale bærekraften i systemet
-bedres. I SSBs beregninger er det som nevnt lagt
-til grunn av aldersgrensene for uføre – aldersgrensen for opptjening av alderspensjon og alderen for overgang fra uførepensjon til alderspensjon – økes like mye som aldersgrensene for
-arbeidsføre. Samtidig er det lagt til grunn at
-aldersgrensene for hvor lenge det er mulig å
-motta andre folketrygdytelser også øker.
-Det er i første rekke økningen i aldersgrensene
-for uføreytelser og andre folketrygdytelser som
-gjør at utgiftene øker. Figur 9.12 viser den beregnede utviklingen i utgifter til henholdsvis alderspensjon, korttidsytelser og uføretrygd, arbeidsavklaringspenger (AAP) og etterlattepensjon fra 2020
-til 2100. Som figuren viser, anslås utgiftene til
-alderspensjon å bli lavere enn i referansebanen helt
-til midt på 2080-tallet. Utgiftsveksten kommer i all
-hovedsak fra økte utgifter til uføretrygd, arbeidsavklaringspenger og etterlattepensjon. Utgiftene til
-korttidsytelser vil også øke, men relativt lite sammenliknet med veksten i utgifter til uføretrygd mv.
-Den blå linjen viser den samlede endringen i pensjonsutgiftene.
-Det er altså endringer i aldersgrensene for å
-styrke den sosiale bærekraften i pensjonssystemet
-som i første rekke fører til at pensjonsutgiftene øker.
-Tabell 9.4 viser dekomponert utgiftsvekst i 2060
-og 2080, der det først er beregnet hvordan utgiftene endres dersom kun aldersgrensene for
-arbeidsføre øker, før det deretter er beregnet hvordan utgiftene endres gitt at også aldersgrensene for
-uføre endres. Tabellen viser at utgiftsveksten i
-hovedsak skyldes økte aldersgrenser for uføre.
-Når aldersgrensene for arbeidsføre øker, er
-utgiftene anslått å bli redusert med 3,1 milliarder
-kroner i 2060. Som tabellen viser, vil utgiftene til
-alderspensjon isolert sett reduseres med over 10
-milliarder kroner. Denne reduksjonen skyldes
-dels at nedre aldersgrense for uttak av pensjon
-øker, slik at en del arbeidsføre må vente noe lenger enn de hadde tenkt med å ta ut pensjon. Den
-skyldes også flere vil vente noe lenger med å ta ut
-pensjon fordi minstenivåene og dermed terskelen
-for tidliguttak øker noe.6
-
-[Side 212]
-
-210
-
-NOU 2022: 7
-
-Kapittel 9
-
-Et forbedret pensjonssystem
-
-60
-
-60
-
-50
-
-50
-
-40
-
-40
-
-30
-
-30
-
-20
-
-20
-
-10
-
-10
-
-0
-
-0
-
--10
-
--10
-
--20
-2020
-
-2030
-
-2040
-
-2050
-
-Utgifter til alderspensjon
-Utgifter til andre korttidsytelser
-
-2060
-År
-
-2070
-
-2080
-
--20
-2100
-
-2090
-
-Utgifter til uføretrygd, AAP og etterlatte
-Totalt
-
-Figur 9.12 Endring i utgifter til alderspensjon, uføretrygd, AAP og etterlatteytelser og andre korttidsytelser ved
-økte aldersgrenser sammenliknet med referansebanen. Etter kalenderår. Mrd. 2021-kroner (lønnsdeflatert)
-Kilde: Statistisk sentralbyrå.
-
-Når aldersgrensene øker for arbeidsføre, vil
-det imidlertid også bli noen flere som blir uføre og
-som mottar korttidsytelser, slik at utgiftene til
-disse ytelsene vil øke. Tabellen viser at i 2080 vil
-veksten i utgifter til uføretrygd, arbeidsavklarings6
-
-Delingstallene blir også noe høyere fordi de baseres på tiårsperioden som kommer to år før nedre grense for uttak av
-alderspensjon, og dermed i større grad holder tritt med
-levealdersveksten enn i referansebanen.
-
-penger, etterlattepensjon og korttidsytelser for
-arbeidsføre overstige reduksjonen i utgiftene til
-alderspensjon.
-Dersom aldersgrensene økes også for uføre slik
-at uføre kompenseres fullt ut for levealdersjusteringen, vil utgiftene øke med 18 milliarder kroner i 2060 og 32,1 milliarder kroner i 2080. Denne
-utgiftsveksten skyldes at utgiftene til uføretrygd
-øker når uføretrygden skal utbetales i flere år enn
-
-Tabell 9.4 Dekomponering av effekter på pensjonsutgiftene av økte aldersgrenser sammenliknet med
-referansebanen. Milliarder 2021-kroner (lønnsdeflatert)
-2060
-
-2080
-
-- 3,1
-
-6,4
-
-- 10,5
-
--3,7
-
-– Uføretrygd, arbeidsavklaringspenger og etterlattepensjon
-
-3,5
-
-4,2
-
-– Korttidsytelser
-
-3,8
-
-5,9
-
-Endring i pensjonsutgifter på grunn av økte aldersgrenser for uføre
-
-18,0
-
-32,1
-
-– Alderspensjon
-
-- 4,0
-
-- 1,2
-
-– Uføretrygd
-
-22,0
-
-33,3
-
-Samlet effekt på pensjonsutgiftene
-
-14,9
-
-38,4
-
-Endring i pensjonsutgifter på grunn av økte aldersgrenser for arbeidsføre
-Herunder endring i utgifter til:
-– Alderspensjon
-
-Herunder endring i utgifter til:
-
-Kilde: Statistisk sentralbyrå.
+Den forventede økningen i levealder innebærer at det er grunn til å vurdere å gå bort fra dagens faste aldersgrenser og la aldersgrensene i folketrygden og andre deler av pensjonssystemet øke for å unngå at framtidens pensjonister får for lave pensjoner. Problemstillingen er beskrevet i utvalgets mandat, der det heter:
+
+«Utvalget skal vurdere aldersgrensene i pensjonssystemet i sammenheng med en vurdering av aldersgrensene i øvrige inntektssikringsordninger og utviklingen i alderen hvor det er vanlig å trekke seg ut av arbeidsmarkedet.»
+
+I dette kapitlet diskuteres det hvorfor aldersgrensene i folketrygden etter utvalgets syn bør justeres i takt med at befolkningens levealder øker, samt ulike modeller for hvordan en slik justering av aldersgrensene kan gjennomføres. Se avsnitt 9.2, hvor det også gjennomgås hvordan andre land har justert aldersgrensene.
+
+Økende levealder innebærer at de yrkesaktive må stå stadig lenger i arbeid, både for at de selv skal få rimelige pensjoner, men også av hensyn til den økonomiske bærekraften i pensjonssystemet. Dagens faste aldersgrenser er uheldige fordi de sender signaler til de yrkesaktive om at de gamle pensjoneringsaldrene er naturlige utgangspunkt for uttak av alderspensjon også i framtiden.
+
+Et sentralt formål med å øke aldersgrensene er derfor å påvirke pensjoneringsnormene – den generelle oppfatningen i befolkningen av når en bør planlegge å ta ut alderspensjon. På lang sikt er økte aldersgrenser dessuten en forutsetning for at de yrkesaktive skal kunne kompensere fullt ut for levealdersjusteringen. I den grad økte aldersgrenser gir lengre yrkeskarrierer, vil det bidra til å øke verdiskapingen og skatteinntektene, og på den måten styrke den økonomiske bærekraften i pensjonssystemet.
+
+Det er den arbeidsføre delen av befolkningen som kan forventes å stå lenger i arbeid når levealderen øker. Dersom de arbeidsføre kompenserer for levealdersjusteringen ved å bli stående lenger i arbeid, vil videreførte faste aldersgrenser for opptjening og beregning av alderspensjon for uføre innebære at uføre får stadig lavere pensjoner sammenliknet med de arbeidsføre. Dette vil være uheldig for pensjonssystemets sosiale bærekraft, og kan tale for at også aldersgrensene for hvor lenge uføre tjener opp alderspensjon og fra hvilken alder de går fra uføretrygd til alderspensjon bør økes. Justering av aldersgrensene for uføre vil bidra til å skjerme uføre fra effektene av levealdersjusteringen.
+
+Skjerming av uføre for effektene av levealdersjustering vil styrke pensjonssystemet sosiale bærekraft, men vil samtidig øke utgiftene og dermed svekke den økonomiske bærekraften. Ved økte aldersgrenser må en også regne med økt bruk av blant annet sykepenger, arbeidsavklaringspenger og dagpenger, og at flere vil avslutte yrkeskarrieren med uføretrygd, noe som vil gi merutgifter til folketrygden. Avhengig av hvordan økte aldersgrenser gjennomføres, vil det derfor kunne bli et spenningsforhold mellom hensynet til sosial bærekraft og hensynet til økonomisk bærekraft.
+
+De ulike aldersgrensene i dagens pensjonssystem gjennomgås i avsnitt 9.3.
+
+I avsnittene 9.4 og 9.5 diskuteres konkrete modeller for justering av aldersgrensene og hvordan økte aldersgrenser kan fases inn. Utvalget har vurdert ulike modeller for å justere aldersgrensene, og mener etter en samlet vurdering at aldersgrensene bør økes i takt med økningen i forventet levealder, målt ved endringen i delingstallene. Utvalget mener koblingen til folketrygdens delingstall vil legge til rette for enkel, sammenhengende og forståelig kommunikasjon. Utvalget mener videre at aldersgrensene bør økes fra og med 1964-kullet.
+
+Utvalget foreslår at aldersgrensen for ubetinget rett til alderspensjon som i dag er 67 år, kalles *normert pensjoneringsalder*, med *normalderen* som kortform.
+
+I avsnitt 9.6 presenteres mulige effekter for pensjonsnivåer, utviklingen i antall minstepensjonister og antall uføre, samt mulige økonomiske effekter av å justere aldersgrensene. I disse beregningene er det ikke tatt hensyn til mulige normdanningseffekter av økte aldersgrenser. I avsnitt 9.7 illustreres det på hvilken måte normdanning kan påvirke beregningene.
+
+Beregningene som presenteres i avsnitt 9.6 bygger også på en del usikre forutsetninger om framtiden. I avsnitt 9.8 diskuteres det hvordan disse forutsetningene påvirker beregningsresultatene.
+
+Utvalget har også vurdert mulige effekter av å øke den nedre aldersgrensen for uttak av alderspensjon i pensjonssystemet fra 62 år til 64 år *før* den automatiske justeringen av aldersgrensene trer i kraft. Mulige effekter av en slik endring diskuteres i avsnitt 9.9. Utvalget mener det bør vurderes å øke den nedre aldersgrensen mer enn de øvrige aldersgrensene i pensjonssystemet. Den nedre aldersgrensen kan ikke økes fra 62 år til 64 år allerede i 2026 siden dette vil gi årskullene som nå nærmer seg pensjonsalderen for kort tid til å tilpasse seg. Det kan derimot vurderes en løsning der den nedre aldersgrensen øker raskere enn de øvrige aldersgrensene i en viss periode.
+
+Tjenestepensjonsordninger og AFP-ordninger som supplerer folketrygdens alderspensjon har i dag langt på vei de samme aldersgrensene som i folketrygden, blant annet knyttet til fra hvilken alder retten til uttak av pensjon inntrer og hvor lenge det tjenes opp rett til pensjon. Utvalget mener at aldersgrensene bør økes også i slike ordninger, men samtidig at dette må vurderes nærmere av de som forvalter regelverket for de ulike ordningene. Se avsnitt 9.10.
+
+## Hvorfor aldersgrensene bør økes
+
+Et sentralt langsiktig mål med pensjonsreformen var å styrke den økonomiske bærekraften i pensjonssystemet blant annet ved å begrense veksten i utgiftene til alderspensjon som økende levealder ville føre med seg. Et system med faste aldersgrenser og faste ytelser ved disse aldersgrensene vil medføre et stadig økende nivå på utgiftene når vi lever stadig lengre. Det gamle pensjonssystemet i folketrygden hadde ikke noen mekanisme som hindret at høyere levealder medførte at like høye pensjoner ble utbetalt i en stadig lenger tidsperiode. Det sentrale grepet i pensjonsreformen var å innføre levealdersjustering av ytelsene slik at den enkelte må forlenge yrkesdeltakelsen for å opprettholde nivået på pensjonsytelsene. Denne mekanismen bidrar til å dempe utgiftsveksten. Samtidig ble insentivene til arbeid styrket. Bedre arbeidsinsentiver legger til rette for økt arbeidsinnsats, noe som både vil gi den enkelte høyere pensjonsopptjening og dermed høyere alderspensjon, og det vil styrke pensjonssystemets finansieringsgrunnlag. Uten disse endringene, ville vi fått et mindre bærekraftig forhold mellom skatteinntekter og pensjonsutgifter over tid, jf. også kapittel 8 *Pensjonssystemets økonomiske bærekraft*.
+
+Levealdersjustering innebærer i prinsippet at det er pensjonistene som bærer de pensjonsmessige kostnadene ved økt levealder i befolkningen. Parallelt med levealdersjustering ble det innført fleksibelt uttak av pensjon. De nye fleksible uttaksreglene gjør det mulig for den enkelte å kompensere for levealdersjusteringen ved å stå lenger i arbeid.
+
+At framtidens pensjonister står lenger i arbeid er viktig ikke bare for den enkeltes alderspensjon, men også for fellesskapets evne til å kunne finansiere økte pensjonsutgifter.
+
+Økende avgangsalder er altså et sentralt mål for pensjonsreformen. Til tross for dette har aldersgrensene i pensjonssystemet blitt videreført. Det er grunn til å tro at disse faste aldersgrensene virker *normdannende* ved at de sender et signal om hvilken alder lovgiver mener bør være den «normale» avgangsalderen. Avsnitt 5.2.3. viser at det er en klar opphopning av personer som slutter i arbeid ved de ulike faste aldersgrensene i pensjonssystemet. Dette gir en klar indikasjon på at aldersgrensene faktisk har en normdannende effekt.
+
+Dagens faste aldersgrenser kan med andre ord sende signaler til den enkelte som er motstridende til effekten av levealdersjusteringen. Dette kan føre til at mange oppfatter at de bør avslutte yrkeskarrieren og ta ut alderspensjon *tidligere* enn det levealdersjusteringen tilsier.
+
+Dersom aldersgrensene i pensjonssystemet i stedet øker i takt med at levealderen i befolkningen øker, vil det sendes et signal til de yrkesaktive om at økende levealder betyr at også avgangsalderen bør øke. På denne måten kan økende aldersgrenser påvirke pensjoneringsnormene i befolkningen. I den grad økte aldersgrenser faktisk påvirker normene slik at avgangsalderen øker, vil et slikt tiltak bidra til å styrke offentlige finanser ved at verdiskapingen og skatteinntektene blir høyere enn de ellers ville blitt.
+
+En del – særlig menn – har valgt å ta ut pensjon så tidlig som mulig og kombinere pensjonsuttaket med fortsatt arbeid og pensjonsopptjening. Dette har ført til økte kostnader for pensjonssystemet. En økning i den nedre aldersgrensen for pensjonsuttak vil nødvendigvis føre til at flere må vente med å ta ut alderspensjon. Dette vil redusere folketrygdens utgifter på kort og mellomlang sikt.
+
+Økte aldersgrenser kan altså bidra til å styrke pensjonssystemet økonomiske bærekraft. Men det kan samtidig styrke den sosiale bærekraften. Dersom nye årskull pensjonister tar ut pensjon fra samme alder som tidligere årskull, vil levealdersjusteringen føre til at pensjonsnivåene blir stadig lavere sammenliknet med nivået på yrkesinntektene. Stadig lavere pensjonsnivåer vil over tid kunne bidra til å svekke den sosiale bærekraften og undergrave oppslutningen om levealdersjusteringen. Framtidens alderspensjonister kan imidlertid opprettholde gode pensjonsnivåer så lenge de står lenger i arbeid enn dagens pensjonister.
+
+Dersom den gjennomsnittlige avgangsalderen ikke øker etter hvert som levealderen øker, vil framtidens pensjonister også få en stadig større andel av livet som alderspensjonister. Dette kan være uheldig i et generasjonsperspektiv. For den sosiale bærekraften til pensjonssystemet er det trolig bedre om andelen av livet som pensjonist holdes om lag på samme nivå på tvers av generasjoner. Dette tilsier at økningen i levealder fordeles mellom en forlenget yrkeskarriere og en forlenget pensjonisttilværelse. Også dette gjør at det er viktig å øke den generelle avgangsalderen når levealderen øker.
+
+Siden utsatt avgangsalder også øker pensjonsopptjeningen, er det ikke nødvendig å jobbe mer enn om lag to tredeler av økningen i forventet levealder for å opprettholde det samme pensjonsnivået som eldre årskull.[^83] Utsatt avgang med to tredeler av veksten i levealderen bidrar også til å holde antall år som pensjonist i forhold til antall yrkesaktive år om lag konstant.
+
+Figur 9.1 viser – for en gitt yrkeskarriere – et eksempel på hvor lenge ulike årskull må stå i arbeid for å for å få samme årlige pensjon fra folketrygden som de ville fått fra 67 år dersom pensjonsreformen ikke hadde blitt gjennomført. I figuren inngår både effekten av levealdersjustering, effekten av at det er innført en ny opptjeningsmodell fra 1954-kullet og effekten av økt opptjening ved utsatt pensjonsuttak. Figuren viser at personer født i år 2000 må forvente å arbeide til de er nærmere 72 ½ år for å kompensere fullt ut for levealdersjusteringen.
+
+Nødvendig avgangsalder for å kompen- sere for de samlede effektene av pensjonsreformen
+
+Statistisk sentralbyrå.
+
+Dagens aldersgrense på 75 år for opptjening av pensjonsrettigheter i folketrygden har i dag liten betydning fordi få arbeider etter fylte 75 år. Etter hvert som virkningen av levealdersjusteringen tiltar, vil trolig stadig flere ønske å stå i arbeid ut over dagens øvre grense for pensjonsopptjening. Økte aldersgrenser vil gjøre dette mulig.
+
+Det er mulig å tilpasse seg levealdersjusteringen ved å stå i arbeid ut over 67 år også med dagens faste aldersgrenser. De som arbeider ut over 67 år i dag gjør dette i stor grad uten de ordinære inntektssikringsordningene samfunnet har for arbeidstakere som er yngre enn 67 år i form av rett til ordinære sykepenger, arbeidsavklaringspenger og dagpenger fra folketrygden. Dersom aldersgrensene for rett til slike ytelser økes i takt med aldersgrensene i pensjonssystemet, vil de som står lenge i jobb få bedre inntektssikringsordninger enn de har i dag. Dette kan styrke arbeidsinsentivene for de eldste. Det vil samtidig øke utgiftene til disse ytelsene. Forholdet mellom aldersgrensene for alderspensjon og øvrige inntektssikringsordninger i folketrygden drøftes nærmere i kapittel 13 *Annen inntektssikring fra folketrygden*.
+
+Aldersgrensene for stillingsvern i arbeidsmiljøloven (72 år) og aldersgrenseloven (70 år) begrenser muligheten til å jobbe. Når disse aldersgrensene om en del år hindrer mange arbeidstakere i å få en tilfredsstillende pensjon, er det naturlig at også disse grensene øker. Utvalget mener imidlertid at diskusjonen om aldersgrensene for stillingsvern ligger utenfor utvalgets mandat.
+
+Levealdersutviklingen vil føre til at tidlig uttak av alderspensjon etter hvert vil gi svært lave kompensasjonsnivåer. De stadig avtagende kompensasjonsnivåene innebærer at tidlig uttak av pensjon etter hvert vil forutsette at en enten har arbeidsinntekt ved siden av pensjonsytelsen eller har andre oppsparte midler å leve av.
+
+Utfordringene med faste aldersgrenser som er beskrevet over knytter seg i første rekke til den arbeidsføre delen av befolkningen som faktisk har mulighet til å velge avgangstidspunkt. Økende levealder og faste aldersgrenser påvirker imidlertid også alderspensjonene til de som er uføre og dermed har begrenset mulighet til å kompensere for levealdersjusteringen gjennom å utsette pensjonsuttaket.
+
+Uføre får i dag opptjening til alderspensjon i ny folketrygd fram til fylte 62 år, og går over fra uføretrygd til alderspensjon ved 67 år. Uføres alderspensjon beregnes og reguleres på samme måte som arbeidsføres alderspensjon. Dette innebærer at de årlige alderspensjonsnivåene blir gradvis lavere for nye årskull uføre fordi levealdersjusteringen reduserer pensjonsnivåene ved 67 år. Hvis den arbeidsføre delen av befolkningen står lenger i arbeid, og på den måten kompenserer for levealdersjusteringen, vil forskjellen mellom uføres og arbeidsføres alderspensjoner bli stadig større. Helt uføre kan ikke øke opptjeningen sin og utsette uttaket på tilsvarende måte som arbeidsføre, fordi det er faste aldersgrenser for hvor lenge uføre tjener opp alderspensjon og for når de skal gå over til alderspensjon. Det innebærer at de må bære den fulle effekten av levealdersjusteringen, uten samme mulighet til å kompensere som arbeidsføre har.
+
+Dersom uføre kommer stadig dårligere ut sammenliknet med arbeidsføre, vil det åpenbart svekke den sosiale bærekraften i pensjonssystemet. Økte aldersgrenser også for uføre kan bidra til å hindre en slik utvikling. Hvis opptjeningsalderen for uføre og aldersgrensen for overgang fra uføretrygd til alderspensjon øker med to tredeler av veksten i forventet levealder, vil uføre få om lag like stor kompensasjon for levealdersjusteringen som arbeidsføre som kompenserer fullt ut. Dermed vil uføre skjermes helt for levealdersjustering. Det er også mulig å utforme regler som gjør at uføre får kompensert for en del av virkningen av levealdersjusteringen. Den midlertidige skjermingsordningen for uføre som omfattet årskull til og med 1953-kullet, kompenserte for om lag halvparten av virkningen av levealdersjusteringen.
+
+Alderspensjon til uføre, herunder mulige justeringer i aldersgrensen for opptjening av alderspensjon for uføre og aldersgrensen for overgang til alderspensjon, diskuteres nærmere i kapittel 12 *Levealdersjustering og fleksibel pensjon*.
+
+Levealdersutviklingen har også påvirket folketrygdens minsteytelser. Minsteytelsene har blitt regulert med lønnsveksten fratrukket virkningen av levealdersjustering ved 67 år. Disse reglene innebærer at nivået på minsteytelsene over tid gradvis blir redusert sammenliknet med det gjennomsnittlige lønnsnivået i samfunnet. Med økt aldersgrense for minsteytelsene, kan nivåene på minsteytelsene økes uten at kostnadene stiger, fordi minsteytelsene skal utbetales en kortere periode.
+
+Reguleringen av og nivået på, minsteytelsene diskuteres i kapittel 11 *Minsteytelsene i pensjonssystemet*.
+
+### Justering av aldersgrenser i andre land
+
+En rekke land har innført automatiske justeringsmekanismer i sine pensjonssystemer som likner på levealdersjusteringen i det norske pensjonssystemet. Flere av disse landene har imidlertid supplert disse mekanismene med justering av aldersgrensene i pensjonssystemet.
+
+OECD (2021) har gjennomgått automatiske justeringsmekanismer som er innført i pensjonssystemene i ulike OECD-land. Det går fram av denne gjennomgangen at det er flere land som har innført automatisk justering av aldersgrensene. Alle disse ordningene er innrettet slik at justeringen av aldersgrensene i pensjonssystemene er koblet til utviklingen i forventet levealder. I Finland, Estland, Italia, Nederland og Portugal fører økt levealder automatisk til økt pensjonsalder. I Danmark og Hellas er det laget mekanismer som beskriver hvordan pensjonsalderen skal endres dersom levealderen øker, men det kreves vedtak i parlamentet for å gjennomføre endringene. I tillegg til landene omtalt over har Sverige nylig vedtatt å innføre automatisk justering av aldersgrensene ved endringer i levealderen, jf. nærmere omtale under.
+
+Automatiske justeringsmekanismer kan ifølge OECD generelt sett bidra til å beskytte pensjonssystemet – både pensjonsnivået til pensjonistene og det offentliges utgifter til alderspensjon – fra endringer i demografi og økonomisk utvikling. I det norske pensjonssystemet er levealdersjusteringen av alderspensjonene å anse som en automatisk justeringsmekanisme som delvis ivaretar demografiske endringer.
+
+OECD gir uttrykk for at en rekke ulike målsetninger kan nås hvis utviklingen i pensjonsalderen knyttes opp mot forventet levealder: bedre økonomisk bærekraft, pensjonsnivåene opprettholdes på et tilfredsstillende nivå, rimelig fordeling mellom generasjoner og høyere arbeidstilbud.
+
+Et hovedproblem med pensjonssystemer som det norske, der pensjonsnivåene allerede avhenger av utviklingen i levealderen, er slik OECD ser det, at en stadig økende levealder på sikt vil føre til at pensjonsnivåene blir for lave. OECD peker blant annet på at mange *ikke* utsetter pensjonsuttaket til tross for at pensjonsnivåene fra en gitt uttaksalder blir stadig lavere når levealderen øker. En stadig reduksjon av pensjonsnivåene vil over tid trolig ikke være sosialt bærekraftig. Justeringsmekanismer som levealdersjustering kan derfor etter OECDs syn fungere bedre dersom de kombineres med ordninger der også aldersgrensene i pensjonssystemet knyttes opp mot levealdersutviklingen. Dette fordi en justering av aldersgrensene vil kunne bidra til å sikre at pensjonsnivåene opprettholdes på et rimelig nivå.
+
+Både Finland og Sverige, som begge tidligere innførte mekanismer tilsvarende den norske levealdersjusteringen, har senere valgt å også knytte aldersgrensene opp mot levealdersutviklingen.
+
+Landene som har innført automatisk justering av aldersgrensene har innrettet justeringsmekanismene på ulike måter. I noen land – blant annet Danmark[^84] – øker aldersgrensene like mye som veksten i levealder. I andre land – blant annet i den kommende ordningen i Sverige – øker aldersgrensene med to tredeler av veksten i levealderen. OECD gir uttrykk for at ordninger med to tredels økning i aldersgrensene er å foretrekke. Bakgrunnen er at en slik innretting fører til at andelen av livet som pensjonist vil holdes om lag konstant mellom ulike generasjoner. Dersom aldersgrensene økes like mye som økningen i levealder, vil derimot andelen av livet som pensjonist avta etter hvert som levealderen øker. Dette kan bidra til å undergrave oppslutningen om justeringsmekanismen.
+
+OECD viser videre til at politiske beslutninger om å øke i pensjonsalderen generelt er upopulære. For å unngå at oppslutningen om pensjonssystemet svekkes når slike mekanismer innføres, mener OECD derfor at det er viktig med tydelig kommunikasjon om *hvorfor* det er viktig at pensjonsalderen øker når levealderen øker. OECD mener videre at det er viktig med transparens knyttet til hvordan indikatoren som bestemmer når og hvor mye pensjonsalderen skal økes er beregnet.
+
+OECD mener det er bedre å øke pensjonsalderen jevnlig med små skritt – for eksempel med én måned av gangen – enn å øke den sjelden og med store skritt, for eksempel et helt år. Dette blant annet fordi store endringer i pensjonsalderen lettere vil føre til at justeringsmekanismen kommer under press. I de fleste land som har innført automatisk justering av pensjonsalderen, økes pensjonsalderen med små skritt. Av samme grunn mener OECD at slike justeringsmekanismer bør innføres *før* det oppstår et behov for en kraftig engangsøkning i aldersgrensene.
+
+En økning i aldersgrensene i pensjonssystemet fører ikke automatisk til en like stor økning i gjennomsnittlig avgangsalder. OECD peker på at en slik justeringsmekanisme derfor bør suppleres med aktive tiltak for å beholde flere eldre i arbeidsmarkedet lenger.
+
+Riktålder-reformen i Sverige
+
+Sverige har et alderspensjonssystem som har mange likhetstrekk med det norske. Blant annet justeres nivået på alderspensjoner med utviklingen i levealder slik det også gjøres i det norske systemet.
+
+Aldersgrensene i Sverige har inntil 2020 ligget fast. Fra 2020 ble imidlertid nedre aldersgrense for uttak av alderspensjon økt fra 61 år til 62 år. Denne økningen er første steg i en rekke endringer i aldersgrensene i det svenske pensjonssystemet som ble vedtatt i den svenske Riksdagen i 2019. Vedtaket innebærer blant annet at det er innført en såkalt «riktålder» i pensjonssystemet.
+
+Riktålderen skal fastsettes hvert år, men ikke få virkning før seks år senere. Den skal være lik nedre alder for ubetinget uttak av garantipensjon (minsteytelsen), som i dag er 65 år. Riktålderen skal justeres automatisk i takt med utviklingen i forventet levealder, men den skal ikke øke mer enn to tredeler av økningen i forventet levealder. Dette for å sikre at andelen av livet som pensjonist blir om lag den samme for ulike årskull. Riktålderen skal øke med hele år. Rent teknisk skal utgangspunktet for å beregne riktålderen være forskjellen i gjennomsnittlig forventet levealder ved 65 år sammenliknet med forventet levealder ved 65 år i «basisåret» 1994, som var det året den svenske pensjonsreformen ble vedtatt.
+
+Bakgrunnen for økningen i aldersgrensene i det svenske pensjonssystemet er at levealderen har økt vesentlig siden det nåværende systemet ble innført. Samtidig har stadig flere svensker begynt å ta ut pensjon tidlig. Økende levealder og tidliguttak innebærer at pensjonsnivåene blir stadig lavere.
+
+Det er vedtatt at riktålderen i 2026 skal være 67 år. Det betyr at aldersgrensen for ubetinget uttak av garantipensjon øker til 67 år i 2026. Fra samme år endres også den nedre grensen for tidlig uttak av alderspensjon til 64 år, hvilket betyr at det blir mulig å ta ut alderspensjonen tre år før grensen for ubetinget uttak av garantipensjon (riktålderen). Dette innebærer at avstanden mellom aldersgrensen for tidliguttak og riktålderen har blitt kortet ned med ett år sammenliknet med hvordan uttaksreglene var ved innføringen av den svenske pensjonsreformen da nedre aldersgrense var 61 år og garantipensjon ble utbetalt fra 65 år.
+
+Alle aldersgrensene i pensjonssystemet vil framover være koblet til nivået på riktålderen. Hvis riktålderen endres, så skal også de øvrige aldersgrensene endres tilsvarende.
+
+Som en tilpasning til endringene i aldersgrensene som følger av riktålderen fra 2026, er det videre foreslått å øke aldersgrensen for ubetinget rett til alderspensjon fra 65 år til 66 år, og den nedre alderen for uttak av alderspensjon fra 62 år til 63 år, begge endringer fra 2023.
+
+I tillegg til vedtakene om endringer i aldersgrensene i pensjonssystemet, er aldersgrensene for stillingsvern i Sverige vedtatt økt fra 67 år til 68 år fra 2020 og til 69 år fra 2023.
+
+### Utvalgets vurdering
+
+Det er grunn til å tro at aldersgrensene i pensjonssystemet er normgivende for den enkeltes pensjoneringsbeslutning. Faste aldersgrenser bidrar derfor trolig til at mange arbeidsføre tar ut alderspensjon og slutter å arbeide tidligere enn det som er optimalt både for den enkelte og for samfunnet. På sikt vil faste aldersgrenser kunne bidra til at den økonomiske og sosiale bærekraften i pensjonssystemet svekkes.
+
+Utvalget mener at å justere aldersgrensene i pensjonssystemet når levealderen øker, vil sende et tydelig signal om at økt levealder innebærer at arbeidsføre må stå lenger i arbeid enn tidligere for å få en tilfredsstillende pensjon.
+
+Justering av aldersgrensene kan bidra til å ivareta minst fire hensyn:
+
+1\. Det kan bidra til at også framtidens pensjonister får tilfredsstillende pensjonsnivåer.
+
+2\. Det kan bidra til at andelen av livet som pensjonist opprettholdes på om lag samme nivå mellom ulike generasjoner.
+
+3\. Dersom også aldersgrensene for når uføre går over til alderspensjon og opptjeningsalderen for uføre justeres, vil uføre kunne skjermes helt eller delvis for effekten av levealdersjusteringen.
+
+4\. Dersom alderen for ubetinget mottak av minsteytelser justeres, vil minstenivåene kunne reguleres noe gunstigere enn i dag uten at kostnadene øker.
+
+I den grad økte aldersgrenser gir lengre yrkeskarrierer, vil det også bidra til å øke verdiskapingen og skatteinntektene, og på den måten styrke den økonomiske bærekraften. Skjerming av uføre for effektene av levealdersjustering vil på den annen side øke utgiftene og dermed svekke den økonomiske bærekraften. Ved økte aldersgrenser må en også regne med økt bruk av blant annet sykepenger, arbeidsavklaringspenger og dagpenger og at flere vil avslutte yrkeskarrieren med uføretrygd, noe som vil gi merutgifter til folketrygden. Avhengig av hvordan økte aldersgrenser gjennomføres vil det kunne bli et spenningsforhold mellom hensynet til sosial bærekraft og hensynet til økonomisk bærekraft. Ikke alle vil ha like lett for å tilpasse seg økningen i aldersgrensene ved å jobbe lenger. Det kan derfor være behov for ordninger som ivaretar grupper som har behov for tidlig avgang. Slike ordninger bør imidlertid ikke bli så gunstige at de i alvorlig grad svekker de økonomiske insentivene til å fortsette i jobb, se kapittel 7 *Insentiver i det samlede pensjonssystemet*.
+
+Utvalget presiserer at formålet med å justere aldersgrensene i pensjonssystemet *ikke* er å redusere pensjonsnivåene, tvert imot. Utvalget foreslår ikke å endre levealdersjusteringen eller reglene for fleksibelt uttak, med unntak av at nedre alder for tidligste uttak av alderspensjon foreslås å øke sammen med andre aldersgrenser. Pensjonsnivået for arbeidsføre ved en gitt uttaksalder vil med andre ord være uendret etter at aldersgrensene har økt. Levealdersjusteringen er det mest sentrale grepet i pensjonsreformen for å bedre pensjonssystemets økonomiske bærekraft. Dersom økte aldersgrenser fører til økt avgangsalder, vil det øke pensjonsnivåene, og på den måten bidra til å styrke oppslutningen om levealdersjusteringen.
