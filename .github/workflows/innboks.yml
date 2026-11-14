@@ -3,7 +3,7 @@ name: Les inn filer fra innboksen
 on:
   push:
     branches: [main]
-    paths: ["innboks/**", "*.docx", "*.epub", "*.html", "*.htm", "*.odt", "!innboks/README.md", "!innboks/rapport.md"]
+    paths: ["innboks/**", "*.docx", "*.epub", "*.html", "*.htm", "*.odt", "*.rtf", "*.zip", "!innboks/README.md", "!innboks/rapport.md"]
   workflow_dispatch:
     inputs:
       tving:

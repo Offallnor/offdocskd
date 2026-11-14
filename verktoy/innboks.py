@@ -8,14 +8,14 @@ i dokumenter/, eller hele KU-id-en) eller på tittelen (for eksempel «NOU 2019 
 mot PDF-teksten, så en feil fil ikke erstatter riktig dokument. Toppen av dokumentfilen med lenkene
 beholdes. Filer som er lest inn, slettes fra innboksen. Resultatet står i innboks/rapport.md.
 """
-import csv, os, re, subprocess, sys, time
+import csv, os, re, subprocess, sys, tempfile, time, zipfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import deling  # noqa: E402
 from kudos_hent import FELT, OVERSIKT, ROT, les_oversikt, skriv_oversikt, slug  # noqa: E402
 
 INNBOKS = os.path.join(ROT, "innboks")
-FORMATER = {".docx": "docx", ".epub": "epub", ".html": "html", ".htm": "html", ".odt": "odt"}
+FORMATER = {".docx": "docx", ".epub": "epub", ".html": "html", ".htm": "html", ".odt": "odt", ".rtf": "rtf", ".zip": "zip"}
 GRENSE = (0.7, 1.5)   # ordtall i ny tekst delt på ordtall i PDF-teksten
 
 
@@ -33,7 +33,7 @@ def finn(navn, rader):
             return treff[0], ""
     # Filnavnet fra regjeringen.no: Word-filen heter som PDF-filen, med docx i stedet for pdfs
     # (…/pdfs/nou202520250001_kddddpdfs.pdf og …/docx/nou202520250001_kdddddocx.docx).
-    kjerne = re.sub(r"(docx|epub|html?|odt|pdfs)$", "", stamme.lower())
+    kjerne = re.sub(r"(docx|epub|html?|odt|rtfz?|pdfs)$", "", stamme.lower())
     if len(kjerne) >= 8:
         treff = [r for r in rader.values()
                  if re.sub(r"pdfs$", "", os.path.splitext(os.path.basename(r.get("kilde") or ""))[0].lower()) == kjerne]
@@ -49,6 +49,14 @@ def finn(navn, rader):
 
 
 def til_tekst(sti, fra):
+    if fra == "zip":   # eldre dokumenter på regjeringen.no: RTF i zip (…/rtfz/…rtfz.zip)
+        with zipfile.ZipFile(sti) as z, tempfile.TemporaryDirectory() as d:
+            inne = [n for n in z.namelist() if os.path.splitext(n)[1].lower() in FORMATER and not n.lower().endswith(".zip")
+                    and not os.path.isabs(n) and ".." not in n.split("/")]
+            if len(inne) != 1:
+                raise RuntimeError(f"zip-fila må ha nøyaktig én tekstfil, har {len(inne)}")
+            ut = z.extract(inne[0], d)
+            return til_tekst(ut, FORMATER[os.path.splitext(inne[0])[1].lower()])
     r = subprocess.run(["pandoc", "-f", fra, "-t", "gfm", "--wrap=none", sti], capture_output=True, timeout=600)
     if r.returncode:
         raise RuntimeError(r.stderr.decode("utf-8", "replace")[:300])
@@ -96,13 +104,13 @@ def main():
         p = os.path.join(ROT, r["fil"])
         hode = deling.les(r["fil"])[0]
         fra = FORMATER[os.path.splitext(navn)[1].lower()]
-        kilde = {"docx": "Word-fil", "odt": "ODT-fil", "epub": "epub-fil", "html": "HTML-side"}[fra]
+        kilde = {"docx": "Word-fil", "odt": "ODT-fil", "epub": "epub-fil", "html": "HTML-side", "rtf": "RTF-fil", "zip": "RTF-fil"}[fra]
         linjer = [x for x in hode.split("\n") if not x.startswith("- Tekst:")]
         i = next((k for k, x in enumerate(linjer) if x.startswith("- Kudos:")), len(linjer))
         linjer.insert(i, f"- Tekst: fra {kilde} lastet opp {time.strftime('%Y-%m-%d')}, ikke fra PDF. Tabellene er med. "
                          "Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.")
         deling.skriv(r["fil"], "\n".join(linjer), tekst)
-        r.update(tekstkilde=fra, ord=str(ny), tabeller=str(len(re.findall(r"(?m)^\|.*\|$\n^\|[ :|-]+\|$", tekst))
+        r.update(tekstkilde="rtf" if fra == "zip" else fra, ord=str(ny), tabeller=str(len(re.findall(r"(?m)^\|.*\|$\n^\|[ :|-]+\|$", tekst))
                                                           + tekst.count("<table")), figurer="", tall_linjer="")
         os.remove(sti)
         lest += 1
