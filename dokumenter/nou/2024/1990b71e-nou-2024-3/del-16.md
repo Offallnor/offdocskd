@@ -1,1038 +1,214 @@
-# NOU 2024: 3, del 16 av 40 (side 205–216)
+# NOU 2024: 3, del 16 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 205]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-overfor noen som ikke ville ha begått farlige
-handlinger. Hvilke dette er, kan man ikke vite.21
-Det er ikke ofte handlingsplanene som er rettet mot å hindre hets og diskriminering av minoriteter, blir evaluert. Å evaluere handlingsplaner
-kan være nyttig for å få kunnskap om hvordan tiltakene har fungert, og for å justere eventuelle til21
-
-Se Holmboe 2023b i vedlegg 4
-
-203
-
-Kapittel 24
-
-tak, innsatsområder og se dem i sammenheng.
-Proba samfunnsanalyse har evaluert handlingsplaner mot antisemittisme for perioden 2016–2023
-og kommet med flere anbefalinger for å styrke
-den gjeldende handlingsplanen. Evalueringen deres
-viste at det er vanskelig å vurdere virkningene av
-handlingsplanene mot antisemittisme fordi visse
-tiltak startet før handlingsplanene, og fordi noen
-tiltak også er en del av andre handlingsplaner.22
-
-Boks 24.5 Den nasjonale oppfølgingen etter 22. juli 2011
-Etter terrorangrepene 22. juli 2011 var det
-meldingen om terrorberedskap.3 Stortingsmelbehov for å få klarhet i både hva som hadde
-dingen la frem regjeringens overordnede straskjedd, hvordan et slikt angrep kunne skje, og
-tegi for å forebygge og håndtere terror i Norge
-hva som kunne vært gjort for å forhindre det.
-og sikre norske interesser og nordmenn i utlanDet var særlig mye oppmerksomhet på at samdet mot terror. Året etter la Solberg-regjeringen
-funnet manglet beredskap for å håndtere terrorfrem en revidert handlingsplan mot radikaliseangrep, og at politiets beredskap sviktet, og minring og voldelig ekstremisme.
-dre oppmerksomhet på konsekvensene. DavæMed tanke på de direkte berørte etter terrorrende justis- og politimester og forsvarsminister
-angrepet 22. juli ble ulike direkte traumeutsatte
-redegjorde for Stortinget om angrepet.1 Det ble
-grupper identifisert, og det ble lagt en plan for
-oppnevnt en uavhengig kommisjon, 22. juli-komhvordan de skulle følges opp. Ulike behov blant
-misjonen, som skulle gjennomgå og trekke lærde berørte resulterte i en todelt modell. Helsedidom fra angrepene på regjeringskvartalet og
-rektoratet anbefalte en proaktiv tilnærming.4 De
-som ble rammet av terrorangrepet på Utøya og
-Utøya. Kommisjonen avga sin rapport i august
-2
-de som var nært berørte, skulle bli fulgt opp av
-2012 med følgende hovedkonklusjoner:
-• Angrepet på regjeringskvartalet kunne ha hjemkommunen sin.5 De som var på arbeidsvært forhindret gjennom effektiv iverksetplassen sin i regjeringskvartalet under angrepet,
-telse av allerede vedtatte sikringstiltak.
-skulle ivaretas av bedriftshelsetjenesten. Perso• Myndighetenes evne til å beskytte mennes- ner som var til stede i regjeringskvartalet, men
-kene på Utøya sviktet. En raskere politiaksom ikke jobbet der, skulle få støtte av hjelpeapsjon var reelt mulig. Gjerningsmannen kunne
-paratet i kommunene. Det samme gjaldt enkelte
-ha vært stanset tidligere.
-etterlatte som mistet familiemedlemmer i bom• Flere sikrings- og beredskapstiltak for å van- beangrepet.6
-skeliggjøre nye angrep og redusere skadeNasjonalt kunnskapssenter om vold og trauvirkningene burde ha vært iverksatt 22. juli.
-matisk stress fikk i oppdrag av Helsedirektora• Helse- og redningsarbeidet ivaretok de tet å følge overlevende fra Utøya og deres nærskadde og pårørende i akuttfasen på en god
-meste i en studie. De fikk også i oppdrag å gjenmåte.
-nomføre en undersøkelse av oppfølgingen av
-• Regjeringens kommunikasjon til befolknin- berørte fra regjeringskvartalet. Dette er nærgen var god. Departementene maktet å videmere omtalt i kapittel 36 Direkte berørte etter
-reføre sitt arbeid på tross av skadene.
-terror.
-• Med en bedre arbeidsmetodikk og et bre- 1
-Stortinget 2011
-dere fokus kunne PST ha kommet på sporet
-2
-NOU 2012: 14
-av gjerningsmannen før 22. juli. Kommisjo3 Meld. St. 21 (2012–2013)
-nen hadde likevel ikke grunnlag for å si at
-4 Lereim, Prietz, Ellefsen og Handeland 2012
-PST dermed kunne og burde ha avverget
-5 Meld. St. 29 (2011–2012)
-6 Nilsen, Stene, Glad, Hafstad og Dyb 2017
-angrepene.
-Som oppfølging av kommisjonens rapport la
-Stoltenberg II-regjeringen i 2013 frem stortings-
-
-[Side 206]
-
-204
-
-Kapittel 24
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-24.3 Effekten av forebyggende arbeid
-Det finnes ikke forskningsmessig belegg for
-effekten av forebyggende tiltak mot voldelig
-ekstremisme og radikalisering, heller ikke for
-tverretatlig samarbeid eller reintegrering. Internasjonalt er det gjennomført flere systematiske
-gjennomganger, uten at det har vært mulig å peke
-på en slik effekt.23 I 2021 utførte FHI en systematisk oversikt på oppdrag fra POD.24 Problemstillingen var hvilken effekt kriminalitetsforebyggingstiltak på seksuallovbrudd og radikalisering
-har blant ungdom. FHI gjorde et omfattende søk i
-studier fra nordiske land og Europa for øvrig, men
-fant ingen studier som møtte inklusjonskriteriene.
-FHI konkluderte derfor med at det mangler
-effektforskning på politiets forebyggingsarbeid
-rettet mot radikalisering blant ungdom. Det mangler også tilsvarende forskning for voksne.25
-Forskning på effekten av forebygging er vanskelig av flere grunner, men en særlig utfordring
-er at man sjelden kan si med stor sikkerhet hva
-som hadde skjedd om tiltak ikke ble satt inn.
-Dette gjelder alt forebyggende arbeid, og ikke
-kun innenfor radikalisering og ekstremisme. Selv
-om det ikke er mulig å peke på forskningsbasert
-effekt av tverretatlige forebyggende tiltak, legger
-kommisjonen til grunn at en helhetlig og koordinert tilnærming er den beste måten å håndtere
-det sammensatte utfordringsbildet som ligger bak
-radikalisering som beskrevet i del IV. Kommisjonen har også merket seg ny forskning som indikerer at undervisning eller annen tematisering om
-demokratiske verdier kan bidra til å redusere
-sannsynligheten for at deltagerne også er villige
-til å forsvare bruk av vold.26 Kommisjonen har i
-sitt arbeid fått informasjon om flere saker der
-forebyggende arbeid har ført til en positiv utvikling for personen det gjelder. Selv om dette er
-enkeltsaker og ikke forskning, kan det være lærdom å trekke fra slike saker.
-I tillegg til usikkerheten rundt forebyggende
-tiltaks positive effekt, kan forebygging også ha
-utilsiktede negative konsekvenser.27 Et eksempel
-er risikoen for at man stempler eller stigmatiserer
-enkeltpersoner eller grupper gjennom arbeid mot
-radikalisering og ekstremisme.28 Dette kan skje
-22
-
-Proba samfunnsanalyse 2023a
-Pistone, Eriksson, Beckman, Mattson og Sager 2019;
-Mazerolle, Cherney, Eggins, Hine og Higginson 2021
-24
-Langøien, Jardim og Nøkleby 2021
-25 Se mer om forskning i kapittel 31
-26 Haugstvedt og Bjørgo 2022
-27
-Førde og Andersen 2018
-23
-
-ved at enkeltpersoner får «merkelapper» som blir
-upresise eller er feil.29 Dette kan forsterke den
-samme identiteten som man ønsker å forebygge
-eller motvirke, for eksempel identiteten som
-ekstremist eller voldelig.30 Et godt forebyggende
-arbeid forutsetter derfor høy bevissthet rundt
-eventuelle negative konsekvenser, samtidig som
-dette ikke må hindre at radikaliseringsbekymringer tas på alvor eller tiltak iverksettes.
-
-24.4 Saker der man har lyktes med
-forebyggingen
-Av mandatet følger det at kommisjonen skal
-«beskrive tilfeller der samfunnet har lyktes med å
-forebygge og hindre radikaliseringsprosesser og
-bruk av vold, og belyse faktorer som gjør at man
-har lyktes i disse tilfellene».31 Kommisjonen har
-lagt til grunn at dette omfatter saker der det har
-vært en alvorlig bekymring for at en konkret person har vært eller var i en radikaliseringsprosess
-mot voldelig ekstremisme. Videre at tjenesteapparatet har vært involvert som følge av bekymringen
-og gjort tiltak, og hvor utfallet har vært at ikke det
-lenger foreligger en slik bekymring.32
-For å innhente informasjon om saker der man
-har lyktes med forebyggingen, har kommisjonen
-vært i kontakt med flere ulike aktører i ulike deler
-av landet, inkludert kommunalt ansatte, politiet,
-og tverretatlige nettverk. I motsetning til enkeltsakene som er inkludert i kommisjonens saksgjennomgang i del VIII, var ikke sakene der man har
-lyktes i å forebygge, omfattet av lov om informasjonstilgang m.m. for Ekstremismekommisjonen.
-Kommisjonen har dermed ikke hatt hjemmel til å
-innhente taushetsbelagt informasjon for å belyse
-denne delen av mandatet. Kommisjonen har derfor vært avhengig av at tjenesteapparatet har
-ønsket å dele informasjon om slike saker. Det har
-vært nødvendig å enten innhente samtykke til å
-dele informasjon med kommisjonen eller dele
-sakene i anonymisert form. Samtlige eksempler
-28
-
-Lindekilde 2016
-Lindekilde 2012b
-30 Cherney 2016
-31 Mandatet sier også at kommisjonen som en del av saksgjennomgangen skal si hvordan sakene i saksgjennomgangen «skiller seg fra saker der man har lyktes i å forebygge
-radikalisering og ekstremisme». For den komparative
-delen, se del VIII Saksgjennomgang
-32 For nærmere omtale av hva som utgjør en bekymring vises
-det til kapittel 23 Hvordan skal man fange opp dem som
-radikaliseres?
-29
-
-[Side 207]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-på saker som har blitt delt med kommisjonen, har
-blitt delt i anonymisert form.
-Basert på innspill fra ulike aktører som jobber
-forebyggende, har kommisjonen identifisert
-enkelte kjennetegn på saker der forebyggingen
-har fungert godt. Disse presenteres her i forkant
-av omtalen av aktører og virkemidler med tanke
-på at det kan legge grunnlag for lesing av det forebyggende arbeidet i Norge i det videre:
-• Tidlig intervensjon. Flere aktører har pekt på at
-det å komme i kontakt med personen så tidlig
-som mulig i radikaliseringsprosessen kan ha
-stor betydning for det forebyggende arbeidet.
-Dette er også fremhevet i forordet til inneværende handlingsplan mot radikalisering og
-voldelig ekstremisme, der det står at man bør
-«fange opp personer i risikosonen så tidlig som
-mulig og møte dem med tiltak som virker».33
-Tidlig intervensjon og innsats anses som sentralt i alle typer forebygging for at tiltakene skal
-lykkes før problemene utvikler seg. Dette gjelder også for radikaliseringsbekymringer. For
-eksempel bryter enkelte med venner og nettverk på et punkt i radikaliseringen. Dette gjør
-at det kan oppleves vanskelig å forlate det
-ekstreme miljøet dersom de mener de ikke har
-noen alternativ omgangskrets å gå tilbake til.
-For at tjenesteapparatet skal ha en grunn til å
-starte et forebyggende arbeid mot radikalisering og voldelig ekstremisme, må det foreligge
-en bekymring av en viss alvorlighetsgrad. Det
-innebærer at radikaliseringen allerede kan ha
-kommet langt. I tilfeller som involverer barn,
-kan det være lettere å finne innganger for å
-gripe inn på et tidligere tidspunkt enn for
-voksne.
-• Kompetanse på ekstremisme og radikalisering.
-Selv om forebygging av voldelig ekstremisme
-kan ha mange fellestrekk med forebygging av
-annen kriminalitet eller uønsket atferd, er det
-særtrekk ved fagfeltet som krever særlig kompetanse. Dette gjelder for eksempel fenomenforståelse og kunnskap om hvilken betydning
-ideologi, internasjonale faktorer og annet kan
-spille.
-• Tverretatlig og tverrfaglig samhandling og informasjonsdeling, forankret i en etablert struktur.
-Aktørene kommisjonen har snakket med, har
-understreket hvor viktig det er med etablerte
-samarbeidsstrukturer som gir felles arenaer
-for samarbeid og dialog. Politiet og PST har et
-tydelig kriminalitetsforebyggende mandat.
-Mange av virkemidlene som kan gi sysselset33
-
-Justis- og beredskapsdepartementet 2020b, s. 3
-
-•
-
-•
-
-•
-
-•
-
-205
-
-Kapittel 24
-
-ting, stabilitet og positive relasjoner, ligger
-imidlertid hos andre instanser, som barnevern,
-helse, Nav og kommune. Etablerte samarbeid
-gir aktørene en felles situasjonsforståelse og
-mulighet til å koordinere oppfølgingen. Aktørene har pekt på at muligheten for informasjonsdeling er viktig, og at det kan skape vanskeligheter når personen ikke samtykker.
-Aktørene har også pekt på viktigheten av tydelig ledelse, ansvarfordeling og rolleavklaring i
-forholdet mellom de ulike aktørene med ulike
-mandater og virkemidler.
-Dialog, tillit og relasjonsbygging med den det
-gjelder. Ser man bort fra skjult forebyggingsarbeid og straffeforfølgning, er de fleste virkemidlene som er tilgjengelige i det forebyggende arbeidet, avhengige av at den aktuelle
-personen samtykker og samarbeider. Dersom
-personen ikke ønsker hjelp og støtte, er det
-vanskelig å gjennomføre gode tiltak. I et godt
-forebyggende arbeid er det derfor viktig å
-arbeide med å etablere relasjoner over tid og
-følge opp relasjonene jevnlig.
-Individuell tilpasning. Det er mange ulike faktorer som kan spille inn i en persons radikaliseringsprosess, fra personlige erfaringer til geopolitiske forhold som krig og konflikter. Selv
-om det finnes fellestrekk som gjør at man kan
-definere en bestemt utvikling som radikalisering, finnes det ikke ett sett med tiltak som passer for alle. Tilnærmingen og virkemidlene må
-tilpasses den enkelte personens situasjon og
-behov.
-Samarbeid med familie og familieveiledning.
-Godt samarbeid med foreldre/familie er en viktig faktor. Familier kan også ha nytte av råd og
-veiledning fra fagpersoner. Andre personer
-som allerede har en relasjon til personen, kan
-også spille viktige roller i forebyggende arbeid
-ved å blant annet gi tilhørighet til et ikkeekstremt miljø og korreksjon til ekstreme
-ytringer eller lignende.
-Bruk av mentor. Flere aktører har trukket frem
-bruk av mentor som et viktig virkemiddel i det
-forebyggende arbeidet. Før det gis tilbud om
-mentor, må det gjøres gode risiko- og forsvarlighetsvurderinger i forkant. Kjennskap til eller
-mistanke om alvorlig psykisk lidelse, vold og/
-eller rus er sentrale vurderingsfaktorer. Det er
-også viktig med en god matching mellom mentor og mentee. Det å ha en variert mentorbank
-bestående av mentorer med ulik bakgrunn og
-interesser nevnes som et suksesskriterium for
-å få en god match. Ofte har mentee en viss
-skepsis til hjelpeapparatet. En mentor kan
-
-[Side 208]
-
-206
-
-Kapittel 24
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-motivere, bygge bro og skape tillit til andre tjenester og dermed bidra til at mentee benytter
-seg av tjenester hen ellers ikke ville ha brukt.
-Det er viktig at mentorene får jevnlig veiledning, både i gruppe/nettverk og individuelt, i
-tillegg til opplæring i blant annet samtaleverktøy, konflikthåndtering og fenomenkunnskap.
-Konkrete eksempler på saker der man har lyktes
-med forebyggingen finnes løpende i denne delen i
-egne bokser omtalt som «eksempelsaker».
-
-24.5 Reintegrering
-Reintegrering handler om å få mennesker som
-har blitt radikalisert til å fungere i et samfunn
-basert på liberale demokratiske prinsipper.34
-Reintegrering kan være vanskelig å oppnå, og selv
-for alminnelige kriminelle er det krevende.35 Det
-kan være vanskelig å forlate et ekstremt miljø.
-Årsakene til det er sammensatte. Både psykologiske, sosiale og praktiske faktorer kan påvirke
-evnen og viljen til å slutte å delta i en ekstrem
-gruppe. Hver enkelt har sin egen vei inn i en
-ekstrem gruppe, og reintegreringen avhenger av
-at det utvikles en fleksibel individbasert praksis.36
-I en nylig publisert rapport ble det pekt på viktigheten av at ideologi ikke kommer i skyggen av
-risiko- og sårbarhetsfaktorer i det forebyggende
-arbeidet. Rapporten pekte også på at samarbeid
-mellom offentlige aktører og frivillige organisasjoner kan styrke innsatsen for reintegrering.37
-Norge har ikke et nasjonalt exit- eller reintegreringsprogram. Arbeidet med reintegrering er
-en del av det tverretatlige forebyggingsarbeidet.
-Det finnes i dag en offentlig veileder for exitarbeid, publisert i 2020. Veilederen ble utarbeidet av
-direktoratsgruppen som arbeider med radikalisering og voldelig ekstremisme og Sekretariatet for
-konfliktrådene på oppdrag fra Justis- og beredskapsdepartementet. Veilederen ligger ute på
-regjeringens nettsider.38 Kommisjonen har gjennom sitt arbeid ikke fått inntrykk at veilederen er
-kjent i tjenesteapparatet, eller at det er gjort noe
-for å spre den.
-
-34
-
-Lid og Christensen 2023
-Christensen og Bjørgo 2018
-36 Christensen og Bjørgo 2018
-37 Lid og Christensen 2023
-38 Justis- og beredskapsdepartementet u.å.
-35
-
-24.6 Familiens rolle i det forebyggende
-arbeidet
-Det er oftest formelle og organiserte prosesser
-som vies oppmerksomhet i forebyggingssammenheng. Det er imidlertid ofte familie og venner kan
-bidra til å avverge eller stoppe enkeltpersoner fra
-å engasjere seg i ekstreme miljøer eller utvikle
-negative holdninger mot enkeltgrupper i samfunnet.39 Familie og venners verdier, normer og
-generelle livssyn påvirker ofte ens egne oppfatninger og holdninger, spesielt i oppvekstfasen. Dette
-gjelder imidlertid «begge veier», altså at familiemedlemmer også kan være radikalisatorer. Familie og venner har likevel en større rolle som forebyggere.40 Forebygging fra familie og venner kan
-kalles uformell intervensjon og hverdagsforebygging, og skjer som en del av hverdagslivet.41 Et
-forskningsprosjekt som undersøkte muslimers
-erfaringer med forebyggende tiltak mot ekstremisme, viste at familie, nærmiljø og venner
-utgjorde den viktigste forebyggingen av ekstremisme.42 Flere som har kommet ut av en ekstremistisk retning, gjør det på bakgrunn av at noen i
-familien, venner eller bekjente griper inn.43 Familien kan sies å være et modererende element.44
-Det er likevel ikke familienes ansvar å forhindre et familiemedlems radikaliseringsprosess.
-Det er samfunnet og myndighetenes ansvar.45 For
-å veilede familier i ulike situasjoner finnes det
-flere ulike aktører og ressurser, for eksempel
-utveier.no og kommunale initiativ som kan dekke
-bredere utfordringer for barn og unge.46 I kommisjonens møter med pårørende til ekstremister har
-det kommet frem at informasjonen som finnes
-ikke nødvendigvis når målgruppen og at terskelen
-for å kontakte tjenesteapparatet om egne familiemedlemmer er høy.
-Bufetats spisskompetansemiljø for foreldrestøtte og forebygging har utviklet et foreldreveiledningsprogram for ungdomsforeldre, kalt
-ICDP47 ungdom. Familievernet kan også tilby
-opplæring til kommuner og andre.48 Et eget program for familier med radikaliserte familiemed39
-
-Institutt for kriminologi og rettssosiologi 2020
-Ellefsen og Sandberg 2022
-41 Ellefsen og Sandberg 2022; Mohamed og Sandberg 2019
-42 Ellefsen og Sandberg 2022
-43 Presentasjon av Sveinung Sandberg på kommisjonsmøte
-16. november 2022
-44 Mohamed og Sandberg 2019
-45 Haugstvedt 2022
-46
-Se eksempelvis Foreldreveileder, Bærum kommune 2015
-47 International Child Development Programme, for mer
-informasjon, se ICDP Norge u.å.
-40
-
-[Side 209]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-lemmer er prøvd ut tidligere.49 Evalueringen av
-ordningen viste at det trengs foreldreveiledning
-48
-
-Korrespondanse mellom kommisjonens sekretariat og Bufdir, 8. november 2023
-49
-Korrespondanse mellom kommisjonens sekretariat og Bufdir, 8. november 2023
-
-207
-
-Kapittel 24
-
-blant ungdomsforeldre med bekymringer, og at
-det kan være aktuelt å oppsøke foreldre med frykt
-for radikalisering. Den påpekte imidlertid også at
-det var vanskelig å nå målgruppen.50
-50
-
-Bråten og Sønsterudbråten 2017
-
-[Side 210]
-
-208
-
-Kapittel 25
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 25
-
-Justissektoren
-Justissektoren brukes som en fellesbetegnelse på
-instansene som jobber for å opprettholde rettsstaten, sikre rettferdighet og beskytte samfunnet og
-borgerne. Justis- og beredskapsdepartementet
-har ansvaret for å følge opp flere virksomheter
-som har en viktig rolle i å forebygge radikalisering og voldelig ekstremisme, som politiet, PST,
-kriminalomsorgen og konfliktrådene.
-Politiets og kriminalomsorgens forebyggende
-arbeid ligger primært i de øverste nivåene i forebyggingstrekanten, indikativ forebygging og reintegrering, og handler om å forebygge kriminalitet i
-forbindelse med ekstremisme. Eksempler på dette
-kan være hatkriminalitet, vold og terror. Justissektoren kan også drive med selektiv forebygging,
-som handler om å redusere risikofaktorer, fordi
-andre typer kriminalitet vil kunne være risikofaktor
-for radikalisering og voldelig ekstremisme.
-I tillegg til sitt arbeid med voldelig ekstremisme, har politiet og kriminalomsorgen befatning
-med utslag av dehumaniserende holdninger som
-inngår i den brede formen for ekstremisme, særlig
-gjennom sitt arbeid med hatefulle ytringer. Det er
-imidlertid ikke politiets eller kriminalomsorgens
-jobb å forebygge uønskede holdninger. Eventuelle
-tiltak som politiet eller kriminalomsorgen gjør på et
-slikt grunnlag, kan utgjøre ulovlige og menneskerettighetsstridige inngrep i innbyggernes liv.
-
-25.1 Politiet
-25.1.1 Politiets organisering, roller og ansvar
-Politiet er underlagt Justis- og beredskapsdepartementet og er organisert med et direktorat, POD,
-tolv politidistrikter, fem særorganer med nasjonale oppgaver1 og fire andre underliggende enheter.2 Det er påtalemyndigheten i politiet som har
-ansvar for etterforskingen, beslutter bruk av
-
-tvangsmidler og avgjør spørsmål om påtale i straffesakene.3
-POD har det overordnede ansvaret for faglig
-ledelse, styring, oppfølging og utvikling av politidistriktene og særorganene i politiet, med visse
-unntak, inkludert PST. POD skal både faglig og
-administrativt legge til rette for at distriktene kan
-ivareta oppgavene på best mulig måte. POD har
-også en generell instruksjonsmyndighet overfor
-politidistriktene, særorganene og de andre underlagte enhetene, der ikke annet er regulert i lov,
-med unntak av påtalefunksjonen i politiet.4 PODs
-fagmyndighet skal inkludere arbeidet med ekstremisme og radikalisering. Direktoratet organiserer
-også en årlig nasjonal konferanse om forebygging
-av radikalisering og voldelig ekstremisme. Denne
-skal samle ulike aktører som forskere, sivilsamfunn og tjenester. Som tidligere omtalt kom
-det i evalueringen av radikaliseringskontaktordningen frem flere alvorlige svakheter ved PODs
-faglige ledelse på feltet. Politiet er en etat med
-mange oppgaver, og POD har i møte med kommisjonen trukket frem at det er viktig med tydelige
-føringer i tildelingsbrevet fra Justis- og beredskapsdepartementet for å kunne sørge for god prioritering i politietaten.5 Det har for eksempel vært
-få bestillinger til POD i tildelingsbrevene fra
-departementet om radikaliseringskontaktordningen. De få bestillingene som har kommet, har
-imidlertid heller ikke blitt fulgt opp på en tilfredsstillende måte av POD.6
-Politiets oppgaver er nedfelt i politiloven. Politiet skal blant annet bidra til å redusere kriminalitet og øke tryggheten for innbyggerne. Forebygging er et virkemiddel for å oppnå dette og er kjernen i politiets samfunnsoppdrag.7 I politiets strate3
-
-4
-1
-2
-
-Politihøgskolen, Kripos, Økokrim, Politiets utlendingsenhet og Utrykningspolitiet
-Politiets fellestjenester, Politiets IT-enhet, Nasjonalt ID-senter og Grensekommissæren
-
-5
-6
-7
-
-Påtalemyndighetens laveste nivå er en integrert del av politiet, men ledes faglig av riksadvokatembetet og statsadvokatembetet som utgjør Den høyere påtalemyndighet
-Justis- og beredskapsdepartementet 2022a
-Kommisjonens møte med Politidirektoratet, 5. september
-2023
-Ravndal og Tandberg 2023
-Politidirektoratet 2020b
-
-[Side 211]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-gidokument «I forkant av kriminaliteten» beskrives forebyggende arbeid som «arbeidet politiet
-utfører, alene eller i samarbeid med andre, for å
-redusere forekomsten av kriminelle handlinger
-og uønskede hendelser, redusere skadevirkningene og hindre gjentakelse».8 For å løse sine oppgaver, inkludert forebygging, trenger politiet
-etterretningsinformasjon som gir beslutningsstøtte i form av kunnskap om problemer og trusler.9
-Politiet arbeider både i det forebyggende sporet og i straffesakssporet. Etter straffeprosessloven § 224 kan politiet iverksette etterforsking
-når det foreligger rimelig grunn til å undersøke
-om det foreligger et straffbart forhold. Påtalemyndigheten avgjør om det skal tas ut tiltale. I
-bestemte tilfeller kan det iverksettes avvergende
-etterforsking.10 Strafferettslig forfølgning kan
-sies å forebygge på grunn av straffens avskrekkende effekt.11
-Alle politidistriktene og særorganene skal
-følge opp de prioriterte tiltakene som beskrives i
-den reviderte nasjonale kontraterrorstrategien.12
-Politidistriktene, Kripos, Økokrim og Politihøgskolen har også føringer om at de skal følge opp
-politiets forpliktelser i handlingsplanen mot radikalisering og voldelig ekstremisme. Den nasjonale enhet for bekjempelse av organisert og
-annen alvorlig kriminalitet (Kripos) er et av politiets særorgan og har en nasjonal rolle i kompetanseheving, rådgivning og metodeutvikling for politidistriktenes tilstedeværelse og politiarbeid på
-internett. Kripos har utarbeidet tipsportalen til
-politiet, der publikum kan tipse om bekymring for
-radikalisering. Nasjonalt cyberkrimsenter (NC3)
-åpnet i 2019 og er en avdeling under Kripos som
-skal forebygge, avdekke og bekjempe trusler og
-kriminalitet i det digitale rom. Senteret «utvikler
-metoder og gir bistand til politidistriktene samt
-etterforsker egne saker innen cyberkriminalitet».13
-Politiet må samarbeide med andre offentlige
-aktører, næringsliv, frivillige organisasjoner og
-sivilsamfunnet for øvrig.14 Det er som regel ikke
-politiet som har de mest relevante tiltakene å sette
-inn i det forebyggende arbeidet, da disse typisk
-ligger hos andre etater som helsesektoren, kom8
-
-Politidirektoratet 2020b
-9
-Politidirektoratet 2020a
-10
-Straffeprosessloven, § 222 d
-11
-NOU 2002: 4 og Myhrer 2011
-12 Justis- og beredskapsdepartementet 2022b
-13 Politiet.no, Nasjonalt cyberkrimsenter
-14 Politiinstruksen §§ 10-1 og 15-1
-
-209
-
-Kapittel 25
-
-munen, skolesektoren, barnevernet eller Nav. En
-stor del av politiets forebyggende arbeid går ut på
-å formidle informasjon og kontakt til andre relevante aktører. For at dette arbeidet skal fungere
-godt, er det viktig å ha kontaktpersoner og samarbeidspartnere hos de andre aktørene.
-
-25.1.2 Radikaliseringskontaktordningen
-I regjeringens handlingsplan mot radikalisering
-og voldelig ekstremisme fra 2014 ble det besluttet
-at det skulle etableres forebyggingskontakter i
-alle politidistrikter som skulle arbeide med radikalisering og voldelig ekstremisme.15 Opprettelsen
-av radikaliseringskontaktordningen innebar en
-tydelig forventning fra nasjonale myndigheter om
-at politiet skal arbeide forebyggende mot voldelig
-ekstremisme. Alle politidistrikter har i dag en
-dedikert ansatt som skal være både fagperson og
-koordinator på feltet i politidistriktet.16 I noen politidistrikter heter funksjonen radikaliseringskontakt, mens andre bruker navnet radikaliseringskoordinator.17 Flere politidistrikter har også en eller
-flere lokale radikaliseringskontakter i tillegg til
-politidistriktets dedikerte kontakt eller koordinator. Begrepene brukes altså forskjellig i ulike distrikter.
-Radikaliseringskontaktene eller -koordinatorene skal være kontaktpunkter for lokalsamfunnet
-ved bekymring om radikalisering og voldelig
-ekstremisme, gi råd og videreformidle henvendelser til rette instans.18 De skal ha kunnskap om tilgjengelige ressurser, drive bevisstgjøringsarbeid
-og være kontaktpunkter for PST og de lokale samarbeidsaktørene. De skal også ha en rådgivende
-funksjon overfor politirådene og Samordning av
-lokale rus- og kriminalitetsforebyggende tiltak
-(SLT-koordinatorer)19 og andre lokale samordningsstrukturer.20 PST skal ha tett dialog med og
-oppfølging av de lokale radikaliseringskontaktene
-og -koordinatorene og gi dem relevant opplæring i
-fenomenkunnskap.21 Radikaliseringskontakten vil
-ofte være den som mottar bekymringsmeldinger
-fra både offentlige instanser og andre aktører.
-Som omtalt innledningsvis i denne delen, kom
-det høsten 2023 en evaluering av politiets radikali15
-
-Justis- og beredskapsdepartementet 2014
-Justis- og beredskapsdepartementet 2014
-17 Tandberg og Ravndal 2023
-18 Politidirektoratet 2017
-19 Se kapittel 33.1.1 Samordning av lokale rus- og kriminalitetsforebyggende tiltak
-20 Justis- og beredskapsdepartementet 2020b
-21 Justis- og beredskapsdepartementet 2020b
-16
-
-[Side 212]
-
-210
-
-Kapittel 25
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-seringskontaktordning som var utført på oppdrag
-fra POD og Justis- og beredskapsdepartementet.
-Evalueringsrapporten så på den erfarte effekten av
-ordningen, politiets interne organisering av ordningen, PODs nasjonale koordinering av ordningen,
-samt radikaliseringskontaktenes samarbeid med
-nasjonale samarbeidspartnere, herunder PST, og
-lokale samarbeidspartnere i kommunene.
-Evalueringens hovedfunn var at nesten ti år
-etter at radikaliseringskontaktordningen ble innført, er det fremdeles uklart hva som er politiets
-rolle, ansvar og oppgaver i arbeidet med å forebygge radikalisering og voldelig ekstremisme. Evalueringen fant at POD i liten grad ivaretok sin oppgave med å koordinere ordningen. POD har heller
-ikke tilrettelagt godt for erfaringsdeling og kompetanseutvikling. Slik kommisjonen forstår det, har
-POD gitt Kripos i oppdrag å ivareta et fagnettverk
-for distriktenes radikaliseringskontakter og -koordinatorer, blant annet gjennom å legge til rette for
-faste møter.22 Denne oppgaven har tidligere ligget
-hos POD. I evalueringsrapporten kom det frem at
-dette ikke fungerte godt, da det var ulik forståelse
-mellom POD og medlemmene i fagnettverket om
-hva som var intensjonen med møtene.
-Evalueringsrapporten fant videre at det var
-betydelig variasjon i måten politidistriktene orga22
-
-Korrespondanse mellom kommisjonens sekretariat og
-Politidirektoratet, 5. september 2023
-
-niserer sine radikaliseringskontakter på. Dette
-skyldes manglende retningslinjer, instrukser og
-nasjonal koordinering. Evalueringen påpekte også
-at til tross for at det er kommunene som sitter på
-de mest aktuelle forebyggende tiltakene, har ikke
-kommunene, i motsetning til politiet, fått i oppdrag å sette av ressurser til å forebygge radikalisering og voldelig ekstremisme. I evalueringen
-omtales politiets rolle som et «umulig oppdrag»
-fordi det er PST som har et tydelig lovfestet mandat på området, mens det er kommunen som har
-de fleste tiltakene. Basert på disse funnene anbefalte rapporten at kommunene får et tydelig mandat til å koordinere personrettede tiltak som kan
-forebygge radikalisering, og at PST overtar oppfølgingen når det foreligger en trussel. Evalueringen foreslo at radikaliseringskontaktenes rolle i
-disse sakene skulle være som etterretningsstøtte.
-Evalueringen fant også at det ikke foreligger
-noen fast opplæring for politiets radikaliseringskontakter og at det ikke er et definert kunnskapsgrunnlag som arbeidet kan basere seg på. Utvalgene som evaluerte angrepene i Bærum i 2019,
-Kongsberg i 2021 og Oslo i 2022, pekte på det
-samme problemet. Ekstremisme eller radikalisering er heller ikke nevnt i program- eller rammeplan for politiutdanningen.23 I evalueringen av
-radikaliseringskontaktordningen ble det anbefalt
-23
-
-Politihøgskolen 2018; Politihøgskolen 2019
-
-Boks 25.1 Eksempelsak I – vellykket forebygging
-Det ble meldt bekymring til politiet om en ugift
-fant ikke noe. Bekymringen ble først håndtert av
-ung mann. Han hadde droppet ut av skolen, sto
-politiet. Radikaliseringskontakten i politiet opputenfor arbeidslivet og hadde lite sosialt nettrettet kontakt med Nav, helsetjenesten og etter
-verk. Samholdet i familien var dysfunksjonelt.
-hvert mannen selv og hans familie. TaushetsHan var mistroisk til systemet og hadde erfaring
-plikten ble opphevet på bakgrunn av samtykke,
-med og tilgang til våpen. Gjennom tidligere utaslik at de ulike aktørene kunne dele informasjon
-gering hadde han utvist volds- og skadepotensial
-med hverandre. Det ble sentralt å kartlegge
-samt kapasitet, og han var kjent for politiet fra
-hans psykiske helse for eventuell behandling,
-tidligere på grunn av oppdrag relatert til blant
-for så å koble på to mentorer etter at han samannet psykisk uhelse. Bekymringen som politiet
-tykket til dette. Mentorforløpet gikk bra og
-mottok, handlet om ekstreme ytringer og at innkunne etter hvert trappes ned til én mentor.
-melder fryktet at mannen kunne komme til å
-Mannen fjernet seg fra tidligere synspunkter og
-begå alvorlig vold mot uskyldige mennesker.
-har uttalt at han ikke lenger har noe hat eller
-Han hadde utviklet et fiendebilde mot ulike
-negativt syn på noen menneskegrupper i samgrupper, som personer med nedsatt funksjonsfunnet. Han tror selv at han utviklet fiendebilevne, personer som brukte rusmidler, skilte perdene på grunn av blant annet sin dårlige psysoner og kvinner. Kripos ble anmodet om å
-kiske helse kombinert med kunnskap om religjøre søk på åpne kilder rundt mannen for å se
-gion og ideologi som forsterket synspunktene.
-om det fantes indikatorer på radikalisering, men
-
-[Side 213]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-at POD samarbeider med PST og relevante forskningsmiljøer som Politihøgskolen om å utvikle en
-grunnopplæring for politiets radikaliseringskontakter. Politihøgskolen startet utvikling av et
-studieemne i forebygging av radikalisering og voldelig ekstremisme høsten 2023.24
-
-25.1.3 Forebyggende samtaler
-Et tiltak som politiet kan benytte i arbeidet mot
-radikalisering og voldelig ekstremisme, er forebyggende samtaler. Slike samtaler kan ha ulike innretninger og formål, og de omtales med ulike benevnelser som «bekymringssamtaler» og «avklaringssamtaler». Bekymringssamtalen er forankret i politiloven § 13 fjerde ledd:
-Dersom politiet har grunn til å tro at en person
-under 15 år har begått en ellers straffbar handling, eller at en person under 18 år har begått
-en straffbar handling, kan den mindreårige og
-foreldrene pålegges å møte for politiet til samtale for å forebygge ytterligere lovbrudd.
-
-En bekymringssamtale er et verktøy for politiets
-samtaler med unge og deres foresatte om risikoatferd og kriminalitet. Bekymringssamtalen brukes
-for å kartlegge og identifisere risiko- og beskyttelsesfaktorer i unges liv med tanke på kriminalitet.25 Samtalen kan også gi politiet opplysninger
-om kriminalitet som må formidles videre, og kan
-inneholde informasjon som har etterretningsverdi. POD har utviklet en veileder for bekymringssamtalene.26 Barn med uønsket atferd, som
-ikke er lovbruddsatferd, eller barn som er i risikosonen for straffbare handlinger, kan ikke pålegges
-slik samtale. Disse kan inviteres til frivillig samtale hos politiet.
-Det er forsket lite på effekten av forebyggende
-samtaler. I verste fall kan de virke mot sin hensikt,
-for eksempel ved at den som kalles inn til samtale,
-føler seg stemplet som kriminell.27 Det kan være
-problematisk når unge og deres foresatte tenker
-de er i en samtale med politiet med formål om å
-hjelpe, uten at politiet eksempelvis informerer om
-at de kan benytte informasjonen som kommer
-frem, til andre politimessige formål.28 I november
-2023 sendte Justis- og beredskapsdepartementet
-på høring et forslag om en forskriftsendring som
-24
-
-Justis- og beredskapsdepartementet 2023d
-Politihøgskolen 2014
-26 Politidirektoratet 2011
-27 Ellefsen og Sandberg 2022
-28
-Lie 2020
-25
-
-211
-
-Kapittel 25
-
-vil gjøre det mulig å utlevere opplysninger fra
-bekymringssamtaler til forskere uten anonymisering.29
-Politiet gjennomfører også såkalte avklaringssamtaler i det forebyggende arbeidet mot radikalisering til voldelig ekstremisme. Avklaringssamtalen er rettet mot personer over 18 år. Bruk av samtalen er basert på samtykke, og politiet kan ikke
-pålegge noen å møte til slik samtale.
-I motsetning til bekymringssamtalen er ikke
-avklaringssamtalen uttrykkelig forankret i politiloven, og det har ført til usikkerhet rundt hjemmelsgrunnlaget for samtalene.30 Det er også reist
-spørsmål om slike samtaler kan være i strid med
-legalitetsprinsippet og det menneskerettslige vernet av privatliv på grunn av manglende hjemmelsgrunnlag.31
-
-25.1.4 Dialog- og mangfoldsarbeid i politiet
-Politiet har som ambisjon å styrke arbeidet med
-mangfold, dialog og tillit. I 2022 ble det lagt frem
-en handlingsplan på området.32 Planen legger
-særlig vekt på tiltak som retter seg mot etniske og
-religiøse minoriteter, blant annet samer, andre
-nasjonale minoriteter og personer med innvandrerbakgrunn, skeive og personer med nedsatt
-funksjonsevne.33 Lokalt politi skal etter handlingsplanen holde dialogmøter med skeive miljøer,
-muslimske organisasjoner, jødiske trossamfunn
-og andre minoriteter. Det ble etablert dialog mellom politiet og Sametinget i arbeidet med Sametingets handlingsplan mot samehets.34 Politiet
-arbeider med å utvikle en veileder for å anmelde
-samehets.35
-I samarbeid med Rosa kompetanse er det utarbeidet et nettkurs som skal øke politiets kunnskap
-om kjønns- og seksualitetsmangfold.36 I forbindelse med pride i Oslo 2023 ble det arrangert et
-fagseminar om kjønnsidentitet og kjønnsuttrykk.37 Kommisjonen har også fått opplyst at
-PST og politiet sammen har gjennomført dialogmøter med relevante organisasjoner i 2023. Disse
-møtene har favnet flere skeive organisasjoner og
-29
-
-Justis- og beredskapsdepartementet 2023a
-Ravndal og Tandberg 2023
-31 Politiets bruk av forebyggende samtale overfor voksne – i
-tråd med gjeldende rett? 2022
-32
-Politidirektoratet 2022
-33 Politiet 2023
-34 Sametinget 2022
-35 Politiet 2023
-36 Foreningen FRI u.å.-b
-37
-Politiet 2023
-30
-
-[Side 214]
-
-212
-
-Kapittel 25
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 25.2 Tipsordningen politi.no
-Årstall
-
-2019
-
-2020
-
-2021
-
-2022
-
-Antall tips
-
-202
-
-233
-
-189
-
-246
-
-Politiet er avhengig av å motta informasjon fra
-befolkningen for å kunne oppdage og forebygge
-bekymringer om radikalisering. Tipsløsningen
-er et viktig virkemiddel i dette arbeidet. På
-politi.no kan innbyggerne tipse om personer,
-grupper eller organisasjoner som via internett
-eller i andre sammenhenger oppfordrer til eller
-bruker vold for å nå sine politiske, ideologiske
-eller religiøse mål.
-Et av tiltakene i regjeringens handlingsplan
-mot radikalisering og voldelig ekstremisme fra
-2014 var å styrke politiets tilstedeværelse på
-internett. Kripos fikk oppgaven med å etablere
-tipsmottak på nett for politiet.1 Denne er senere
-videreutviklet.2
-
-Det er ansatte ved Nasjonalt Cyberkrimsenter (NC3) på Kripos som mottar og håndterer
-tipsene som blir sendt inn via denne løsningen.
-Når Kripos mottar denne typen tips, gjøres det
-en konkret vurdering av innholdet i tipset. Tipset ses i sammenheng med annen kunnskap og
-informasjon, og det innhentes mer informasjon
-om nødvendig. Videre håndteres tipsene i samarbeid med politidistriktet som er involvert,
-sammen med distriktets radikaliseringskontakt.3
-
-pride-arrangører landet over. Temaet for møtene
-var trusselvurdering av pride, og politiets, PSTs
-og PODs oppfølging av anbefalinger fra 25. juniutvalgets rapport. Det var også anledning til å
-stille spørsmål og komme med innspill til oppfølgingen.38
-Alle politidistriktene og særorganene i politiet
-skal ha etablert en egen rolle som mangfoldskoordinator, med fagansvar for mangfoldsarbeidet.39
-Mangfoldskoordinatorene jobber i stor grad utadrettet overfor innbyggerne. Det er også utviklet et
-konsept kalt «Rettferdig politi», som skal bidra til
-kompetanseheving innenfor temaer som dialog,
-kommunikasjon og konflikthåndtering. Politiets
-dialog og møte med etniske og religiøse minoriteter er særlig vektlagt, og opplæringen skal gjennomføres i samtlige politidistrikter.40
-Kommisjonen har hatt flere møter med grupper som inngår i ekstremisters fiendebilder eller
-på andre måter er marginalisert og utsatt for hets,
-trakassering og vold. Slike grupper inkluderer
-etniske, religiøse, språklige og seksuelle minoriteter.41 På tross av arbeidet som beskrevet ovenfor,
-er inntrykket at flere ikke opplever seg tilstrekke-
-
-lig beskyttet og ivaretatt. De er bekymret for at
-myndighetene som skal beskytte dem, ikke har
-nok kunnskap om trusselen de lever med, og har
-lav kunnskap om hvem de er, og utfordringene de
-lever med generelt. Dialogmøter med trusselutsatte minoritetsgrupper er en del av PODs oppfølgingsplan etter 25. juni-evalueringen.42
-
-38
-
-Politiet 2023
-39 Politidirektoratet 2022
-40 Politiet 2023
-41
-Se del II Ekstremisme og tilgrensende fenomener
-
-1
-2
-3
-
-Justis- og beredskapsdepartementet 2014
-Justis- og beredskapsdepartementet 2020b
-Korrespondanse mellom kommisjonens sekretariat og
-Kripos, 8. mai 2023
-
-25.1.5 Politiets arbeid med hatkriminalitet
-Kriminelle handlinger kan være motivert av hat
-eller negative holdninger til bestemte kategorier
-mennesker. Slik kriminalitet kan for eksempel
-være hatefulle ytringer, rasistisk motivert skadeverk eller vold. Hatkriminalitet kan være et
-uttrykk for voldelig ekstremisme, men dekker
-imidlertid et bredere spekter av kriminelle
-handlinger enn vold og kan utføres av personer
-med for eksempel fordommer uten ideologisk forankring.43
-Hatkriminalitet har vært en sentral prioritering i rundskriv fra Riksadvokaten44 og fått mer
-oppmerksomhet i politiet, både gjennom grunnut42
-
-Politiet 2023
-Se også omtale i kapittel 4 Begreper og definisjoner og kapittel 11 Ekstremismens konsekvenser for utsatte grupper
-44 Riksadvokaten 2019; Riksadvokaten 2020; Riksadvokaten
-2021; Riksadvokaten 2022; Riksadvokaten 2023
-43
-
-[Side 215]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-213
-
-Kapittel 25
-
-danningen ved Politihøgskolen og i politidistriktene.45 Oslo politidistrikt opprettet en egen hatkrimgruppe i 2014.
-I 2022 ble 923 anmeldelser registrert som hatkriminalitet. Det var en økning på 13 prosent fra
-2021. Politiet antar at utviklingen har en sammenheng med at befolkningen har blitt mer bevisst på
-hatkriminalitet, og at politiet også har fått større
-kompetanse. Selv med større bevissthet og kompetanse tror politiet det er store mørketall, altså at
-mennesker blir utsatt for hatkriminalitet som aldri
-blir anmeldt.46 Det kreves personlig oppmøte på
-en politistasjon for å anmelde hatkriminalitet, noe
-som kan oppleves som for belastende for den
-enkelte. Det kan også være lav tillit til politiet
-blant personer som utsettes for hatkriminalitet.47
-I en rapport om holdninger til samer og nasjonale minoriteter i Norge anbefaler Norges institusjon for menneskerettigheter (NIM) at alle politidistriktene bør samle inn og publisere statistikk
-om hatefulle ytringer og hatkriminalitet mot
-samer og nasjonale minoriteter.48 Bakgrunnen for
-anbefalingen var at det kun er Oslo politidistrikt
-som publiserer slik statistikk. Bortsett fra for antisemittisme,49 finnes det derfor ikke ikke tall for
-rapporterte tilfeller av hatkriminalitet knyttet til
-andre grupper i Norge. POD arbeider for å følge
-opp anbefalingen fra NIM.
-Politiet fikk i 2021 oppdrag om å etablere et
-nasjonalt kompetansemiljø for hatkriminalitet. Syv
-millioner kroner ble tildelt Oslo politidistrikt med
-bakgrunn i distriktets brede erfaring og kompetanse på fagfeltet.50 Kompetansemiljøet er derfor
-organisatorisk lagt til Oslo politidistrikt, men tjenesten favner hele landet. Målet for kompetansemiljøet er at mørketallene skal bli mindre, og at
-den som blir utsatt for hatkriminalitet, skal bli
-møtt av et kompetent politi uavhengig av hvor i
-landet den enkelte bor.51 Mandatet til kompetansemiljøet er å heve kompetansen til politiet om
-
-hatkriminalitet, hvordan hatkriminalitet kan
-komme til uttrykk, fysisk og digitalt, samt bistå
-alle landets politidistrikt med kunnskap og veiledning på fagfeltet.52
-Politiet skal være i stand til å avdekke, forebygge og bekjempe hatkriminalitet uansett hvor i
-landet den skjer.53 Kompetansemiljøet avholdt sin
-første nasjonale digitale konferanse høsten 2022.
-Formålet var å gi en grunnleggende innføring i
-hatkriminalitet med temaer som fenomenforståelse, identifisering og registrering av saker til
-etterforsking og påtale. Etter angrepet 25. juni
-2022 har kompetansemiljøet styrket sin utadrettede virksomhet, spesielt blant skeive organisasjoner.54 I løpet av 2023 skal alle politidistrikt ha fått
-på plass en egen hatkriminalitetskontakt, og det
-nasjonale kompetansemiljøet skal besøke alle distriktene og ha opplæring for utpekte ressurspersoner. Disse ressurspersonene skal igjen sørge
-for kompetanseheving i sitt distrikt.55
-Støttesenter for kriminalitetsutsatte er etablert
-i hvert politidistrikt for å styrke offeromsorgen.56
-Sentrene ble opprettet i 2017 og har som formål å
-tilby psykososial støtte, informasjon og veiledning
-til personer utsatt for integritetskrenkende kriminalitet. Ved sentrene kan kriminalitetsutsatte,
-inkludert de som utsettes for hatkriminalitet, få
-hjelp til å anmelde, støtte gjennom straffesaken og
-hjelp til å søke voldsoffererstatning. Støttesentrene har i hovedsak helse- og sosialfaglige
-ansatte.57 I Riksrevisjonens undersøkelse av myndighetenes innsats mot vold i nære relasjoner
-gikk det frem at det har vært utfordringer med å
-få på plass bemanning, og at noen politidistrikter
-har nedprioritert sentrene av økonomiske grunner.58 Det arbeides med nasjonale retningslinjer
-som skal bidra til å etablere en felles standard for
-støttesentrenes virksomhet og arbeid. Kommisjonen er ikke kjent med om hatkriminalitet inngår i
-disse nasjonale retningslinjene.
-
-45
-
-52
-
-Kommisjonens møte med Nasjonalt kompetansemiljø
-innen hatkriminalitet, 4. september 2023
-46 Politidirektoratet og Oslo politidistrikt 2023
-47 Kommisjonens møte med Nasjonalt kompetansemiljø
-innen hatkriminalitet, 4. september 2023
-48
-Norges institusjon for menneskerettigheter 2022a
-49
-Kommunal- og moderniseringsdepartementet 2021
-50 Politiet 2023
-51
-Ording 2021
-
-Politidirektoratet og Oslo politidistrikt 2023
-Politidirektoratet 2022, punkt 15
-54 Politiet 2023
-55 Kommisjonens møte med Nasjonalt kompetansemiljø
-innen hatkriminalitet, 4. september 2023
-56 Prop. 1 S (2016 –2017)
-57 Kommisjonens møte med Politidirektoratet, 29. november
-2023
-58
-Riksrevisjonen 2022b
-53
-
-[Side 216]
-
-214
-
-Kapittel 25
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 25.3 Psykiatrigruppen
-Psykiatrigruppen består av en gruppe etterforikke lykkes i det administrative sporet med å
-skere og jurister i Oslo politidistrikt. Gruppens
-forebygge ytterligere kriminalitet, eller der hvor
-mandat er å etterforske og avgjøre om det skal
-de straffbare forholdene er av særlig alvorlig art
-reises påtale i straffesaker mot et forhåndsdefiog det er nødvendig av hensyn til samfunnsvernert utvalg av personer i Oslo politidistrikt som
-net, tar politiet ut tiltale med påstand om dom på
-alle er antatt utilregnelige. Gruppen ble etablert
-overføring til tvungent psykisk helsevern eller
-på fast basis i 2018. Gruppen består av syv ettertvungen omsorg, jf. straffeloven §§ 62 og 63.
-forskere og fem jurister. Gruppen følger i dag
-Psykiatrigruppen følger også med på alle
-opp rundt 70 personer som begår enten alvorlig
-som er på dom til tvungent psykisk helsevern
-eller gjentatt kriminalitet.
-eller tvungen omsorg i Oslo politidistrikt. DerKartlegging av en persons tilregnelighet gjøsom politiet får kjennskap til omstendigheter
-res ved blant annet registersøk, foreløpig
-ved den domfelte som er av betydning for samrettspsykiatrisk undersøkelse, full rettspsykiafunnsvernet, varsler gruppen den faglig ansvartrisk undersøkelse og innhenting av helseopplige i helsevesenet og setter på den måten spesilysninger. Sistnevnte avhenger av fritak fra tausalisthelsetjenesten i stand til å gjøre vurderinger
-hetsplikt. Gruppens mål er først og fremst å
-ut fra den domfeltes situasjon «her og nå».
-forebygge kriminalitet fra disse personene.
-I møte med kommisjonen pekte gruppen på
-Ettersom politiet har begrensede virkemidler
-utfordringer i sitt arbeid både hva gjelder tausoverfor utilregnelige lovbrytere, forutsetter det
-hetspliktsregelverk og kapasitet i helsetjenesten
-forebyggende arbeidet godt samarbeid med
-til å følge opp samarbeidet. Gruppens erfaring
-andre etater. Dette kan være for eksempel adevar at samarbeidet klart fungerte best der de
-kvat helsehjelp, inkludert medisinering og
-hadde faste kontaktpunkter og etablerte relasjoutredning, bolig med riktig omsorgsnivå og sosiner med ansatte i helseinstitusjonen.1
-alhjelp.
-1 Kommisjonens møte med Psykiatrigruppen, 27. juni
-Der man lykkes i det forebyggende arbeidet
-2023. Samarbeid mellom politi og helse omtales i kapittel
-og kriminaliteten avtar eller reduseres til det
-33 og 34
-samfunnet kan tåle, henlegges sakene. Der man
-
-25.1.6 Politiets nettpatruljer
-I 2017 fikk politiet i oppdrag fra Justis- og beredskapsdepartementet å starte innføringen av
-patruljering på nett.59 I dag er det en nettpatrulje i
-hvert politidistrikt. Målet er å forebygge kriminalitet, bidra til trygghet i det digitale rom og styrke
-folks tillit til politiet. Nettpatruljene samarbeider
-59
-
-Justis- og beredskapsdepartementet 2017
-
-med lokalt politi i sitt distrikt og interne ressurser
-som blant annet etterretningsseksjonen, radikaliseringskontakter og PST. Hele distriktet skal
-kunne bruke sin nettpatrulje som en ressurs
-innenfor politiarbeid på internett, kontakt med tjenestetilbydere og søk og sikring på sosiale
-medier.60
-60
-
-Korrespondanse mellom kommisjonens sekretariat og
-Politidirektoratet, 13. november 2023
+# Arenaer for radikalisering
+
+## Fysiske og digitale miljøer i samspill
+
+De senere årene har både forskning, trusselvurderinger og handlingsplaner fremhevet internett og sosiale medier som en viktig kilde til radikalisering.[^1096] I PSTs nasjonale trusselvurdering for 2023 var propaganda på digitale arenaer trukket frem som en viktig kilde til radikalisering og terrorinspirasjon.[^1097]
+
+Selv om det er utfordrende å avgjøre nøyaktig hvilken rolle internett spiller i en radikaliseringsprosess, er det bred enighet i forskningslitteraturen om at sosiale medier er et viktig verktøy for radikalisering og rekruttering til voldelig ekstremisme.[^1098] Sosiale medier tilrettelegger for rekruttering ved at det er lett for radikalisatorer å komme i kontakt, for eksempel ved å sende en venneforespørsel på Facebook, uten å måtte ta fysisk kontakt. For dem som har fellesskap og tilhørighet som en viktig motivasjonsfaktor for å bli med i ekstreme fellesskap, er det mye som tyder på at dette også kan skapes av sosial omgang på nettet.[^1099]
+
+Brukeratferd og eksponering for ekstremistisk propaganda på nettet og i sosiale medier kan legge til rette for og intensivere radikaliseringsprosesser. På nettet kan man søke seg til uendelig mange former for nettsamfunn. Man kan treffe likesinnede brukere eller bli eksponert for ekstremistisk innhold, også algoritmisk forsterket av søkehistorikk og brukeratferd.[^1100] Søker man på ekstremistisk innhold, vil man få mer ekstremistisk innhold.
+
+I tillegg kan radikaliseringsprosessen være vanskeligere å oppdage når den i stor grad foregår på nettet og man kan operere anonymt. Flere radikaliseringsprosesser kan også foregå relativt hurtig, spesielt i såkalte akselerasjonistiske høyreekstreme nettsamfunn som vektlegger et hurtighetselement: Det haster å fremskynde rasekrig gjennom vold og terror.[^1101] Det finnes eksempler på unge menn som har blitt radikalisert i digitale subkulturer, og som på kort tid har blitt sympatisør med en ideologi uten at familie og venner har oppdaget det.[^1102]
+
+Videre har barrierene for deltakelse i ekstremistiske nettverk blitt mindre. Mens alder og fysikk kan være en hindring for deltakelse, kan en datamaskin og anonymitet åpne opp for langt yngre personer. For eksempel ble den amerikanske nynazistiske organisasjonen *Atomwaffen Division*, nå *National Socialist Order,*[^1103] grunnlagt av tenåringer.[^1104]
+
+Sosiale medier er en sentral arena for rekruttering og spredning av ekstremistisk propaganda, både for ekstreme islamister[^1105] og høyreekstreme.[^1106] Ekstreme islamister var tidlig ute med å bruke sosiale medier. Vestlige fremmedkrigere i Irak og Syria brukte sosiale medier og fildelingsplattformer som Facebook, Instagram, WhatsApp, PalTalk med flere, og særlig var daværende Twitter populær.[^1107] Når det gjelder høyreekstreme, er Breivik bare ett eksempel på internetts rolle i en radikaliseringsprosess. Internett spilte en avgjørende rolle i Breiviks radikalisering fordi det tilbød ham 1) et alternativt verdensbilde som kunne stå uimotsagt, 2) relevant og taktisk kunnskap, og 3) en mulighet til å isolere seg fra den virkelige verden ved å spille online-spill intenst over flere år.[^1108] Likevel kan ikke internett være hele forklaringen på Breiviks voldelige radikalisering.[^1109]
+
+Begrepet «nettradikalisering» har blitt møtt med kritikk. Kritikken går ut på at det i dagens digitale tidsalder er mindre nyttig å skille skarpt mellom aktivitet på nettet og aktivitet i den «virkelige», fysiske verden.[^1110] Digitale miljøer er sentralt medvirkende i radikaliseringsprosesser, men da ofte i samspill med andre bakenforliggende faktorer. Internett forårsaker ikke radikalisering, men det er likevel et behov for å forstå samspillet mellom bakenforliggende motivasjonsfaktorer og sosialisering i digitale subkulturer.
+
+Når det gjelder ekstrem islamisme, har en studie fra Frankrike vist at selv om internett spiller en sentral rolle, er fysiske grupper og møteplasser fremdeles viktige arenaer for rekruttering og radikalisering, enten det er møter gjennom familie og venner, moské eller fengsel.[^1111] PST vurderte også i sin nasjonale trusselvurdering for 2023 at «radikalisering til ekstrem islamisme vil foregå både i fysiske relasjoner og i digitale nettverk».[^1112]
+
+Et eksempel fra Norge på at både de fysiske og de digitale arenaene er viktige for ekstreme islamistiske grupperinger, er den nå nedlagte Profetens Ummah. Profetens Ummah var i utgangspunktet en Facebook-gruppe, og mobiliseringen til alle demonstrasjonene gruppen sto bak, begynte der. Fysiske møter var imidlertid en viktig del av rekrutteringen, planleggingen og mobiliseringen til gruppen. Internett var en sentral arena og et verktøy for propaganda, rekruttering og kommunikasjon. Sosiale medier spilte for eksempel en avgjørende rolle for at gruppen nådde ut med sitt budskap i Norge i 2013.[^1113]
+
+Når det gjelder høyreekstremisme i Norge, vurderte PST i sin nasjonale trusselvurdering for 2023 at det primært er høyreekstreme digitale arenaer som vil legge til rette for radikalisering.[^1114] Som i tilfellet med ekstreme islamister, om enn i mindre grad, betyr ikke dette at fysiske arenaer ikke spiller en rolle i rekruttering og propaganda. Organisasjoner som DNM arrangerer offentlige marsjer og demonstrasjoner, og disse strømmes og legges ut på nettet og bidrar til oppmerksomhet rundt organisasjonen og dens ideologi. Høyreekstreme organisasjoner har også interne møter og sosiale sammenkomster. Disse spiller en viktig rolle for å holde på medlemmene, både dem som er opptatt av ideologi, og dem som hovedsakelig er med for å delta i et fellesskap. Den transnasjonale dimensjonen er viktig, da den kan gi et inntrykk av at miljøene er større enn de er, og fordi den gjør at man kan knytte relasjoner og spre ideer og tankegods over landegrenser.[^1115]
+
+## Radikalisering i fengsel
+
+Fengsler kan være egnet for radikalisering.[^1116] Dårlige fengselsforhold kan føre til oppblomstring av ekstremistiske meninger og holdninger, og radikalisering er ett av alternativene den innsatte har til å opponere.[^1117] En annen årsak er at det kan være utfordringer som preger hverdagen til de innsatte i fengselet, for eksempel opplevelse av manglende tilhørighet.[^1118] Isolasjon kan i seg selv skape kognitive endringer hos den enkelte. Dette kan føre til at innsatte søker seg til fellesskap, og det kan få innsatte til å vende seg til «sterkere» medinnsatte.[^1119]
+
+Fengsler er arenaer hvor personer som sprer ekstrem ideologi, og de som er sårbare for radikalisering, kan møtes. Ved kontakt over tid kan innsatte radikaliseres. Fengselsopphold kan dermed bidra til å «produsere ekstremister». Ekstremismen kan rettes mot både innsatte og ansatte.[^1120] For noen kan det være ytre faktorer, altså forhold utenfor fengslet, som bidrar til radikalisering, for eksempel ekstremt innhold i bøker eller digitale flater, korrespondanse med personer utenfor fengslet og påvirkning fra besøkende.[^1121]
+
+Videre inngår også fengsler og fengselsopphold i ekstremistenes tankegang. Et opphold i fengsel kan potensielt gi status blant ekstremistene fordi den fengslede ekstremisten kan fremstille seg som et offer for «motmakten». Fengselsopphold kan også bidra til planlegging av ny kriminalitet, nettverksbygging eller ytterligere fordyping innen den ekstremistiske retningen.[^1122] Det kan også bidra til en styrket status hos egen gruppe.
+
+Kriminalomsorgens rolle i det forebyggende arbeidet omtales i del V.
+
+# Hvordan skal man fange opp dem som radikaliseres?
+
+For å kunne forebygge ekstremisme, må man identifisere og komme i kontakt med de som står i fare for å radikaliseres eller er radikalisert. Men hvordan fanger man opp disse personene? Hvilke bekymringstegn på radikalisering skal man være på utkikk etter? Hvor melder man bekymringer, hvem følger opp bekymringsmeldingen, og hva er egentlig en bekymring? Og ikke minst: Hvilke verktøy har tjenesteapparatet for å vurdere risiko og tiltak dersom bekymringen er reell? Dette kapittelet forsøker å belyse disse spørsmålene. Håndtering av bekymringer i tjenesteapparatet omtales i del V Det forebyggende arbeidet mot radikalisering og ekstremisme.
+
+## Hva er en bekymring?
+
+I regjeringens to siste handlingsplaner mot radikalisering og voldelig ekstremisme og andre relevante dokumenter på feltet brukes begrepet bekymring uten å være nærmere definert. Ny forskning har vist at heller ikke de som jobber i praktisk forebyggingsarbeid, opererer med noen klar og avgrenset forståelse av bekymring, men at det snarere er et fleksibelt begrep som kan romme mye.[^1123]
+
+På den ene siden kan det være positivt å ha et begrep som er fleksibelt nok til å gi mening for alle aktører i det forebyggende arbeidet. Dette inkluderer politiet, kommunen, Nav og helsesektoren. Bruken av begrepet bekymring i regjeringens handlingsplan mot radikalisering og voldelig ekstremisme har bidratt til et felles språk for de ulike aktørene, slik at de kunne forstå og beskrive problemet på tvers av ulike perspektiver, fagbakgrunner og mandater. Bekymring kan derfor i noen grad anses som et samlende begrep for sektorer og tjenester, og det knytter til dels nokså ulike fenomener, problemer, personer og grupper sammen til ett arbeidsfelt, som kan kalles «bekymringsarbeidet».[^1124] Begrepet bekymring er mer nøytralt og mindre stigmatiserende enn andre begreper som «mistanke».[^1125]
+
+På den andre siden er begrepet bekymring nokså vagt, og det er ikke alltid klart hva som menes når myndighetene og aktører på feltet bruker ordet. Det er en fare for at begrepet gjør at motstridende forståelser, agendaer og interesser ikke kommer ordentlig til syne.[^1126] Et begrep som er så fleksibelt, bidrar heller til usikkerhet om hvor forebyggingsarbeidet skal rette seg, og hvor grensene for arbeidet går. Usikkerheten kan også tenkes å reflektere ulik forståelse av selve problemet som skal forebygges, altså radikalisering og voldelig ekstremisme.[^1127]
+
+Så hva er egentlig en bekymring? Begrepet brukes som et fellesbegrep for ulike varsler om avvik, varsler om at noe er farlig, ulovlig eller mer uspesifikt «ikke greit». En bekymring om radikalisering kan for eksempel handle om et individ, en gruppe eller en hendelse som noen mener politiet (eller andre) burde undersøke, reagere på eller iverksette tiltak mot. Bekymringen kan være basert på en observasjon av endring, utsagn, hendelser eller lignende. En bekymring kan også ha utspring i at en person som arbeider forebyggende, selv vurderer at en situasjon kan kreve handling, for eksempel innhenting av mer informasjon eller kontakt med andre deler av tjenesteapparatet. En bekymring om radikalisering kan handle om at en person er en mulig sikkerhetsrisiko, men det kan også handle om personen selv og behov for sosial oppfølging og tiltak rettet mot vedkommende for å hindre utvikling i en negativ retning.
+
+Personer som jobber forebyggende, kan bruke begrepet bekymring både om den innledende bekymringen, for eksempel når en radikaliseringskontakt har en bekymring rundt en person, eller i betydningen «bekymringsmelding», altså konkrete meldinger fra personer eller aktører som Nav, skole eller lignende. Bekymring kan også brukes om saken som opprettes i kjølvannet av en varsling som oppleves som velbegrunnet, kanskje mer presist betegnet som «bekymringssaker».
+
+Ettersom det er et nokså vidt spenn i hva som utgjør en bekymring om radikalisering, vil mange av sakene det jobbes med, være ulike både i innhold og alvorlighetsgrad.
+
+Spørsmålet om det forelå voldelig ekstremisme eller utvikling i en slik retning \[i sakene\] var nesten alltid uavklart. \[…\] Dermed var det grensefiguren bekymring, som betegner det usikre rommet mellom normalitet og avvik, som bandt disse ellers svært forskjellige sakene sammen og rammet inn arbeidsfeltet for bekymringsarbeiderne. Innrammingen bekymring bidro til å gjøre det meningsfylt at disse sakene skulle behandles av de samme instansene og individene i det offentlige tjenesteapparatet, at de skulle vurdere dem etter noenlunde de samme kriteriene og forsøke å løse dem med mange av de samme tiltakene. (Førde, Andersen og Hellevik, 2023 s.55–56)
+
+## Bekymringsarbeidet
+
+Bekymringsarbeidet handler i hovedsak om å skille mellom «reell» og «ubegrunnet» bekymring for radikalisering og voldelig ekstremisme og å avgjøre hva som eventuelt er en hensiktsmessig form for intervensjon dersom risikoen vurderes som «reell».[^1128] En viktig del av arbeidet med bekymringer er å avkrefte at bekymringen er «reell».[^1129]
+
+Når det skal vurderes om en bekymring er reell, er det mange faktorer som spiller inn, blant annet
+
+- om det er en ny radikaliseringsbekymring eller en kjent radikaliseringsbekymring der nye forhold kommer til
+
+- om det er snakk om en engangshendelse eller -uttalelse eller gjentatte tilfeller
+
+- om det gis uttrykk for å legitimere vold for å oppnå bestemte forhold
+
+En særlig utfordring i det forebyggende arbeidet mot radikalisering og voldelig ekstremisme er at en del radikaliseringsbekymringer handler mer uønskede holdninger og ytringer enn om konkrete trusler eller planer om vold. Forebyggere må derfor utvise stor varsomhet med å ikke sette i verk tiltak som kan utgjøre ulovlige inngrep i den enkeltes rett til tanke- og ytringsfrihet.
+
+Om det faktisk er grunn til bekymring eller ikke, samt hvor alvorlig bekymringen er, har betydning for hvem som kan følge opp saken, hvilke tiltak som kan settes inn, og om det kan deles informasjon mellom aktørene i tjenesteapparatet.
+
+En bekymring er ikke bare noe som oppstår i tjenesteapparatet, men også i den private sfæren eller på andre arenaer. Ofte er det de nærmeste som først blir bekymret, og familie, venner og bekjente kan derfor bidra til å stanse radikaliseringsprosesser.[^1130] For at samfunnet skal fange opp personer som er i en radikaliseringsprosess, er det viktig med lett tilgjengelig og god informasjon til befolkningen om hvilke tegn som kan gi grunn til bekymring, og hvor man kan henvende seg dersom man har en radikaliseringsbekymring for et familiemedlem, en venn eller en bekjent.
+
+### Bekymringstegn
+
+Bekymringstegn er indikasjoner på at en person er i ferd med å bli radikalisert. Ofte vil det være kombinasjoner av ulike tegn. Det er utarbeidet lister over typiske bekymringstegn. Slike lister er omstridt. Eksempler på tegn kan være endringer i utseende eller klesdrakt, bruk av symboler, aktiviteter, vennekrets, atferd og utsagn. Et tydelig eksempel på atferd som kan gi grunn til bekymring, er ekstremistisk motivert hatkriminalitet, inkludert hatefulle ytringer og ytringer som viser at en person har utviklet aksept for bruk av vold for å oppnå politiske, religiøse eller ideologiske mål.[^1131] Når ytringer ligger til grunn for bekymring, er det viktig å ta i betraktning at en rekke ubehagelige og krenkende ytringer er lovlige og beskyttet av ytringsfriheten.
+
+Mulige bekymringstegn
+
+I en radikaliseringsprosess vil det ofte være flere motivasjonsfaktorer som gjør seg gjeldende. Videre vil det ofte være kombinasjoner av ulike bekymringstegn. Nedenfor er det listet opp noen mulige bekymringstegn.<sup>1</sup> Listen er ikke uttømmende.
+
+Uttalelser/ytringer
+
+- Intoleranse for andres synspunkter
+
+- Fiendebilder – oss, vi og dem
+
+- Konspirasjonsteorier
+
+- Hatretorikk
+
+- Sympati for absolutte løsninger, som avskaffelse av demokrati
+
+- Legitimerer vold
+
+- Trusler om vold for å nå politiske mål
+
+Interesser/utseende/symbolbruk
+
+Appellerer til og søker etter ekstremistisk materiale på nett
+
+- Endrer utseende, klesdrakt m.m.
+
+- Benytter symboler knyttet til ekstremistiske idealer og organisasjoner
+
+- Slutter på skolen eller med fritidsaktiviteter m.m.
+
+Aktiviteter
+
+- Opptatt av ekstremisme på internett og i sosiale medier
+
+- Deltar på demonstrasjoner eller i sammenstøt med andre grupper
+
+- Bruker trusler og vold som følge av ekstremisme
+
+- Hatkriminalitet
+
+- Reisevirksomhet som kan føre til økt radikalisering og kontakt med ekstremister
+
+Venner og sosiale nettverk
+
+- Endrer nettverk og omgangskrets
+
+- Omgås personer og grupper som er kjent for voldelig ekstremisme
+
+- Omgås grupper der det utøves trusler, vold eller annen kriminell virksomhet
+
+- Medlem i ekstremistiske grupper, nettverk og organisasjoner
+
+<sup>1</sup> Listen er hentet fra Justis- og beredskapsdepartementet 2014
+
+\[Boks slutt\]
+
+Det er ikke mulig å lage en uttømmende liste over bekymringstegn. Hvilke handlinger og ytringer som gir grunn til bekymring, vil variere over tid og avhenger av samfunnsforhold, kontekst og personens utgangspunkt. Bekymringstegn på radikalisering skapes heller ikke i et vakuum, men påvirkes av den offentlige samtalen om ekstremisme og holdninger til rasisme, islamofobi eller annen gruppefiendtlighet. Fellesnevneren for hva som bør vekke bekymring, er likevel en tydelig endring[^1132] – for eksempel i holdninger, atferd, væremåte, fremtoning og sosiale nettverk.
+
+Ofte vil en bekymringssituasjon knyttet til voldelig ekstremisme være for kompleks til å passe inn i en «sjekkliste», og slike lister må også brukes med varsomhet, slik at de ikke bidrar til stigmatisering og marginalisering. Heller enn en «sjekkliste» kan en mer hensiktsmessig tilnærming for tidlig bekymring være å anerkjenne venners, familiers eller profesjonelles bekymring, kombinert med fagfolks ekstremismekompetanse.[^1133]
+
+## Om å melde bekymring
+
+I noen tilfeller kan det være vanskelig å oppdage radikalisering, både for familie, omgangskrets og ikke minst tjenesteapparatet. Dette kan skyldes at radikaliseringen kan skje fort og i det skjulte for de nærmeste, for eksempel på nettet.[^1134] I mange saker vil det likevel være noen synlige tegn for omgivelsene, såkalte lekkasjer.
+
+Ofte er nærstående de første som registrerer tegn på en begynnende radikaliseringsprosess.[^1135] I de tilfellene hvor familiemedlemmer eller andre nærstående ser tegn på radikalisering, kan det likevel være høy terskel for å melde fra. Fra internasjonal forskning på soloterrorister er det kjent at for eksempel rundt 60 prosent av terroristens nærstående visste om at terroristen hadde et ønske om å gjennomføre terrorhandlingen, men bare ti prosent av sakene ble avverget på grunn av tips fra de nærstående.[^1136]
+
+Det kan være mange grunner til at nærstående ikke melder fra. Selv om en nærstående har fordelen ved å lett kunne registrere endringer ved en person, kan det også være lettere å bagatellisere det man opplever eller ser, på grunn av den tette relasjonen. Voksne kan tenke at barn og ungdom bare går gjennom en fase eller tester grenser. Man står ofte litt for nær familiemedlemmer og venner til å betrakte dem objektivt. Selv om foreldrene kan være redde for å miste barna sine inn i det ukjente som bekymringen springer ut fra, kan de også være redde for å miste barna inn i hjelpeapparatet.[^1137]
+
+Terskelen kan være høy for å kontakte noen og varsle om at en person i ens nære omgangskrets viser tegn på radikalisering og voldelig ekstremisme, særlig hvis det er uklart hvilke konsekvenser varslingen får, og hva som vil skje med vedkommende videre. Dette gjelder kanskje særlig varsling til politi/PST, med tanke på hvilke virkemidler disse etatene sitter på.
+
+I tillegg til å frykte konsekvensene for den man melder fra om, kan man også være bekymret for at det skal bli kjent hvem som har tipset. I ungdomskulturen har uttrykket *snitching* bredt seg, og den som melder fra til voksne om konflikter, kriminelle handlinger eller annet, kan bli utsatt for sosial utestengelse, mobbing, trusler og hatprat.[^1138] Det er ikke utenkelig at dette kan gjøre ungdommer nervøse for å melde fra om radikaliseringsbekymringer.
+
+Det kan også være mange som er usikre på hvor de skal henvende seg med en bekymring. En studie blant ungdom og unge voksne i Norge viste at de færreste vet hvor de kan henvende seg for å få hjelp hvis en venn eller bekjent har blitt eller er i ferd med å bli radikalisert.[^1139] Dette kan tyde på at det trengs tydeligere informasjon om hvor man kan henvende seg i en slik situasjon.
+
+Den nasjonale veiledningsressursen utveier.no tar i mot henvendelser fra privatpersoner, men er primært en ressurs for offentlige aktører.[^1140]
+
+Det finnes ikke en særskilt, anonym telefontjeneste man kan ringe ved spørsmål eller bekymring for ekstremisme hos noen man kjenner i dag.[^1141] Av en undersøkelse fra 2022 gikk det frem at to femtedeler av ungdommer og unge voksne er litt eller veldig villige til å bruke en anonym telefontjeneste ved bekymring for radikalisering. At en anonym telefontjeneste om ekstremisme skilte seg positivt ut som et alternativ, kan henge sammen med at muligheten for å være anonym oppleves som tryggere. Nesten like mange sa seg villige til en uformell henvendelse til politiet, mens langt færre ville kontakte politiet eller PST formelt.[^1142]
+
+## Risikovurderingsverktøy
+
+### Om risikovurderingsverktøy
+
+Et risikovurderingsverktøy er et spesialisert hjelpemiddel som kan brukes i arbeidet med å forebygge radikalisering og voldelig ekstremisme. Formålet med slike verktøy er todelt: Man ønsker på den ene siden å identifisere personer som utgjør en risiko. På den andre siden ønsker man å utarbeide og iverksette forebyggende tiltak for å redusere risiko, basert på en tverrfaglig kartlegging av risiko- og sårbarhetsfaktorer og beskyttelsesfaktorer.[^1143] Hvilke aktører som har ansvar for hvilke tiltak, er beskrevet i neste del, del V. Politiet og PST gjør i dag risikovurderinger av personer de følger med på i det forebyggende arbeidet. Enkelte andre aktører gjør også slike vurderinger innenfor sine fagfelt. I dag finnes det imidlertid ikke et felles verktøy for dette arbeidet.
+
+Risikovurderinger handler dels om å forsøke å «forutse» menneskelig atferd. Dette er generelt utfordrende.
+
+Like fullt er det nødvendig å gjøre vurderinger av risiko og tiltak når politiet og andre får inn bekymringer om radikalisering eller saker med allerede radikaliserte personer. Da kan spesialiserte verktøy forankret i kjente risikofaktorer være til god støtte i de analysene og vurderingene fagpersonene må foreta.[^1144]
+
+Noen aktører som jobber med forebygging av radikalisering og voldelig ekstremisme, bruker allerede i dag ulike former for risikovurderingsverktøy. I møter med ulike aktører har det blitt foreslått at kommisjonen bør se nærmere på et felles risikovurderingsverktøy til bruk i arbeidet mot radikalisering og voldelig ekstremisme. Videre er et av tiltakene i handlingsplanen på feltet å «utrede mulighet for bruk av risikovurderingsverktøy for politiet, PST og Kriminalomsorgen».[^1145]
+
+Når det er snakk om et felles risikovurderingsverktøy for flere sektorer er det flere utfordringer. De involverte aktørene har ikke samme samfunnsoppdrag, formål, organisering, regelverk, informasjon, kompetanse, behov, ressurser og så videre. Likevel er det mange fordeler med et felles verktøy. Det etablerer en ensartet systematikk på tvers av kommuner og politidistrikter, det gir aktørene et felles språk, og det kan sikre at den rette faglige kompetansen er til stede når radikaliseringsbekymringer skal håndteres.
+
+### Ulike former for risikovurderinger
+
+Risikovurderinger kan deles inn i tre hovedkategorier: ustrukturerte eller semi-strukturerte vurderinger, aktuariske vurderinger og strukturerte vurderinger.[^1146]
+
+- Ved ustrukturerte eller semi-strukturerte vurderinger anvender profesjonelle fagfolk sin erfaring, kunnskap og ekspertise til å vurdere risikoen ved personer. Fordelen er at slik faglig skjønnsutøvelse ofte er en metode som er godt kjent for fagpersonene. Ulempen er at man kan overse viktige indikatorer/forhold, og at fagpersonens fordommer også kan spille inn.
+
+- I såkalte aktuariske vurderinger svarer man på spørsmål som til slutt utgjør en totalscore. En slik vurdering er formell og algoritmisk, og det er en risiko for å overse individuelle variasjoner. Vurderingen er lite sensitiv for endringer og omfatter ikke håndtering av risikoen. At denne typen vurderinger er statiske, gjør dem mindre egnet til arbeid mot voldelig ekstremisme.[^1147]
+
+- Strukturerte vurderinger kan beskrives som en «guidet tilnærming» og en «kombinasjon av en strukturert evaluering og faglig skjønn».[^1148] I disse vurderingene tar man utgangspunkt i bestemte tematikker, spørsmål eller kriterier. Andre relevante forhold skal også trekkes inn i vurderingene. Til grunn for risikoavgjørelsen skal det ligge en helhetsvurdering som bygger på både forhåndsbestemte faktorer og på fagpersonenes skjønn. Tilnærmingen har flere fordeler, blant annet at den anvender både statiske og dynamiske risikofaktorer basert på tilgjengelig kunnskap. Det er en strukturert metode som også har rom for fagpersoners skjønnsmessige vurderinger. Metoden er også fleksibel og kan tilpasses individuelt til målgruppen og personen. Det er også noen potensielle ulemper ved metoden. Den krever at fagpersonene som skal benytte den, har god forståelse av både risikovurderingene og fagområdet vurderingen skal benyttes på. Videre er metoden tids- og ressurskrevende, både når det gjelder opplæringen og selve gjennomføringen. Til slutt er skjønnsutøvelsen fortsatt et sentralt element i den strukturerte tilnærmingen, med de potensielle usikkerhetene det medfører.[^1149]
+
+En nylig gjennomført studie av risikovurderinger av radikaliserte individer i Norden, pekte på at strukturerte vurderinger er den tilnærmingen som har sterkest posisjon innen kliniske miljøer internasjonalt når det gjelder vurdering av voldsrisiko generelt. Strukturerte vurderinger er den foretrukne tilnærmingen for flere forskere når det gjelder terrorismerelaterte handlinger.[^1150]
+
+### Eksempler på risikovurderingsverktøy i bruk
+
+I Norge benyttes norske versjoner av internasjonalt utviklede, spesialiserte verktøy til å vurdere ulike typer vold. Skal man eksempelvis vurdere voldsrisiko, kan man bruke risikovurderingsverktøyet V-RISK-10. Er det risiko for vold i nære relasjoner, kan man bruke SARA. Er det risiko for æresrelatert vold, kan man benytte PATRIARK.[^1151] En utfordring med disse verktøyene er at de tar utgangspunkt i gjentakelsesfare. Dersom man benytter dem på individer som ikke har begått voldshandlinger, er det risiko for falske positiver, da mange kan ha lik «sårbarhetsprofil» som de som begår voldshandlinger, uten at de noensinne utøver vold. Det samme vil gjelde risiko for radikalisering og voldelig ekstremisme.
+
+Internasjonalt er det også utviklet flere terrorismerelaterte risikovurderingsverktøy som benyttes av enkeltaktører, for eksempel politiet eller kriminalomsorgen. Ett eksempel er VERA-2R, som er utviklet i Nederland og brukes i mange land, inkludert Sverige.[^1152] Det er først og fremst utviklet for bruk i fengsler, spesifikt rettet mot innsatte som er dømt for terrorismerelatert kriminalitet, eller mot andre innsatte som kan være eller bli radikalisert. Et annet eksempel er TRAP-18[^1153] som ble utviklet for å vurdere enslige aktørers risiko for å begå terrorisme. I Sverige skal alle politidistrikter tilbys utdanning i TRAP-18.[^1154] En versjon av TRAP-18 er bearbeidet til norsk av RVTS.[^1155]
+
+Noen av risikovurderingsverktøyene som finnes på fagfeltet, retter seg som nevnt spesifikt mot kriminalomsorgen og skal primært brukes på innsatte i fengsler. Andre har returnerte fremmedkrigere og familiene deres som målgruppe, mens noen verktøy er primært rettet mot personer som står i fare for å bli radikaliserte. Det er pekt på at det er mindre kontroversielt å gjøre terrorismerelaterte risikovurderinger av personer som allerede er i rettsvesenets søkelys for relevante forbrytelser, men at det fort blir et spørsmål om utvalgskriterier, informasjonsdeling og personvern når man beveger seg utenfor kriminalomsorgens målgruppe.[^1156]
+
+Innen politiet er det ingen nasjonale føringer eller standardisering av hvilke metoder som skal anvendes til risikovurderinger på ekstremismefeltet. Metodene som anvendes på tvers av politidistrikter, varierer fra ustrukturerte til mer strukturerte vurderinger. Enkelte politidistrikter anvender PSTs anbefalte metode, «trefaktormodellen». Her vurderer man trusselen personen utgjør (blant annet intensjon, kapasitet og kapabilitet), ved å sammenligne med en gitt verdi og sårbarheter. Ut fra dette vurderer man risikoen samt hvilke risikoreduserende tiltak som er iverksatt, og som kan iverksettes. Enkelte politidistrikt vurderer å ta i bruk risikovurderingsverktøyet TRAP-18.[^1157] I ett distrikt har de prøvd å utvikle en egen standard/mal med tilhørende brukerveiledning for hvordan risikovurderinger gjøres, basert på VERA-2R og TRAP-18. Det tverretatlige operative teamet (TOT) mot radikalisering i Bergen gjennomfører semistrukturerte risikovurderinger ut fra gitte kriterier, uten at man har konkrete risikovurderingsskjemaer foran seg. Teamet vurderer da risiko-, sårbarhets- og beskyttelsesfaktorer og bestemmer tiltak ut fra dette.[^1158]
+
+Kommisjonen har i løpet av sitt arbeid fått mange innspill om å se hen til den danske infohusmodellen. I Danmark har man innenfor infohusmodellen utarbeidet et vurderingsverktøy som brukes til systematisk og ensartet vurdering av bekymringer for voldelig ekstremisme.[^1159]
+
+### Risikovurderinger av radikaliserte individer i Norden
+
+Det er noe forskning på vurderinger av radikaliseringsbekymringer i de nordiske landene,[^1160] men det har vært mindre forskning på risikovurderinger av allerede radikaliserte personer. En rapport som ble publisert i slutten av 2023, er et bidrag til sistnevnte og belyser arbeidet med risikovurdering og reintegrering av radikaliserte individer i Danmark, Sverige, Norge og Finland.[^1161]
+
+Kommisjonen erfarer at mange mener det er behov for en standardisering av metoder for risikovurderinger. I nevnte nordiske studie var praktikerne klare på at det bør være norske myndigheters oppgave å avgjøre og utvikle metoder for risikovurderinger som kan tas i bruk. Slike metoder må være spesifikt egnet til å forebygge radikalisering og voldelig ekstremisme. Det ble også pekt på at det er et for stort ansvar at metodene for risikovurderinger skal utvikles lokalt. Det ble pekt på et behov for mer veiledning i hvordan vurderingene skal gjøres.[^1162] Rapporten har blant annet følgende anbefaling:
+
+De nasjonale myndighetene særlig i Sverige, Norge og Finland må ta et langt større ansvar for å utvikle det forebyggende arbeidet mot radikalisering og voldelig ekstremisme generelt, og arbeidet med risikovurdering av radikaliserte individer spesielt. Myndighetene bør standardisere organisering av arbeidet med risikovurderinger, utvikle en systematikk og metodikk for risikovurderinger og gi tydelige retningslinjer for tolkning av lovgivningen om deling av personinformasjon. (Lid & Christensen, 2023, s.72)
+
+For at det skal være mulig å bruke felles vurderingsverktøy til å vurdere risikoen for radikalisering og voldelig ekstremisme, er det behov for informasjonsdeling og strukturer for samarbeid mellom etater og kommuner/regioner. Dette omtales nærmere i del V.
+
+Del V
+
+Det forebyggende arbeidet mot radikalisering og ekstremisme

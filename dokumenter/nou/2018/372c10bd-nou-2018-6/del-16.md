@@ -1,999 +1,1088 @@
-# NOU 2018: 6, del 16 av 18 (side 185–194)
+# NOU 2018: 6, del 16 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/372c10bd-nou-2018-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-6/id2593665/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd4f61bba893409a9b715ee1971a0004/no/pdfs/nou201820180006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 26 figurer, 49 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 185]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-sterke at de sa opp stillingen sin selv.3 Se også
-punkt 7.3.
-Utvalget mener at dette tyder på at for mange
-saker om varsling ender i konflikt og at det er fare
-for at mange arbeidstakere utsettes for gjengjeldelse. Det er dermed grunnlag for å vurdere om
-organisatoriske tiltak kan bidra til å redusere
-disse utfordringene.
-
-–
-–
-
-12.2 Hva kan løses med organisatoriske
-tiltak
-
-–
-–
-–
-–
-–
-
-12.2.1 Innledning om ulike typer oppgaver
-Ulike typer organisatoriske tiltak kan bidra til å
-fremme varsling om kritikkverdige forhold og
-motvirke gjengjeldelse. Man kan tenke seg flere
-modeller for organisatoriske tiltak der et eller
-flere eksisterende eller nyopprettede organ får
-myndighet og oppgaver i relasjon til en eller flere
-av aktørene og problemstillingene som kan oppstå
-i en varslingssak.
-Varsleres behov for veiledning, støtte og tvisteløsning kan bli løst på mange ulike måter. Eksemplet fra Nederland, jf. punkt 6.3.1, illustrerer at
-verdien av å tilby hjelp i forbindelse med varsling
-om kritikkverdige forhold, langt kan overstige
-kostnadene. De ulike oppgavene som skisseres
-nedenfor er av svært ulik karakter og kan tenkes
-gjennomført av ett eller flere av de organene som
-drøftes i dette kapittelet (listen er ikke uttømmende):
-– kompetanse og ressurser til å gi veiledning,
-konkrete råd og støtte
-– pådriverrolle
-– myndighet til å gi rådgivende/bindende vurdering/pålegg om reglene i arbeidsmiljøloven
-kapittel 2 A er brutt
-– siling av saker
-– myndighet til å ilegge oppreisning og erstatning
-– myndighet til å anbefale fri rettshjelp
-– myndighet til å undersøke det kritikkverdige
-forholdet
-Ingen varslingssaker er like. Behovet for bistand
-hos arbeidstakere, arbeidsgivere, den eller de det
-varsles om og andre involverte kan blant annet
-påvirkes av:
-– hvem man er (personlighet, erfaring, kunnskap)
-– hvilken stilling eller rolle man har i virksomheten
-
-–
-–
-–
-–
-
-–
-–
-
-Ibid.
-
-hvor man er i prosessen
-hva det varsles om (alvorlighetsgrad og type
-kritikkverdig forhold)
-hvem som er ansvarlig for det kritikkverdige
-forholdet
-hvordan ledelsen behandler kritiske ytringer
-hvordan forholdet mellom varsleren og ledelsen var i utgangspunktet
-hvordan ytringskulturen og arbeidsmiljøet er
-på arbeidsplassen generelt
-erfaring med andre varslingssaker
-om man varsler alene eller sammen med andre
-om man er organisert eller ikke
-organisasjonsgraden i virksomheten
-størrelsen på og maktstrukturen i virksomheten
-om man blir utsatt for gjengjeldelse og hvilken
-type gjengjeldelse man blir utsatt for
-om andre har varslet i virksomheten før og blitt
-utsatt for gjengjeldelse
-
-Behovet for råd og støtte vil særlig kunne oppstå i
-de tilfellene der arbeidsgiver ikke klarer å sikre
-varsleren et forsvarlig arbeidsmiljø, eller den
-potensielle varsleren frykter at saken ikke vil bli
-håndtert korrekt, eller der saken har utviklet seg
-til å bli en vanskelig konflikt. Det er i denne sammenheng viktig å være oppmerksom på at det nok
-er mest vanlig å henvende seg til kolleger, tillitsvalgte og verneombud for råd og støtte i slike situasjoner. Et tilbud utenfor virksomheten vil først og
-fremst være aktuelt der slik støtte ikke er mulig
-eller ikke er tilstrekkelig. De som er uorganiserte,
-eller organiserte som opplever interessekonflikter
-eller manglende støtte fra tillitsvalgte, vil også
-kunne ha et særlig behov for noen å gå til for råd
-og støtte. En form for rådgivningstjeneste vil
-kunne være en ressurs også for tillitsvalgte, verneombud og andre.
+Lennane, K. J., og De Maria, W. (1998). *The downside of whistleblowing.* Medical Journal of Australia, 169(7), 351–352.
 
-12.2.2 Kort om ansvars- og oppgavefordeling
-i statlig forvaltning
-Om forvaltningsorganer4
-Forvaltningsorganer er en del av staten og kan
-være underlagt ett eller flere departementer. De
-ordinære forvaltningsorganene omfatter departementene og en rekke underliggende organ som
-direktorat, tilsyn, ombud og senter. De underliggende organene har ulike oppgaver som overordnet sektorstyring, forvaltning av regelverk, tjenes4
+Lewis, D., D’Angelo, A. og Clarke, L. (2015*). Industrial relations and the management of whistleblowing after the Francis report: what can be learned from the evidence?* Industrial Relations Journal, 46(4), 312–327.
 
-3
+McDonald, S., og Ahern, K. (2000). *The professional consequences of whistleblowing by nurses.* Journal of Professional Nursing, 16(6), 313–321. doi:DOI 10.1053/jpnu.2000.18178.
 
-185
-
-Kapittel 12
+Matthiesen, S. B. (2016). *Mottak av varsling*. I MAGMA, Econas Tidsskrift for økonomi og ledelse 4/2016.
 
-Avsnittet bygger på St.meld. nr. 19 (2008–2009), punkt
-2.3.2 og PWC (2016) s. 17.
+Matthiesen, S. B., og Bjørkelo, B. (2008). *Sladrehank skal selv ha bank. Om whistleblowing i Norge* \[Informers must pay. Whistleblowing in Norway\]. Tidsskrift for den Norske Psykologforening, 45, s. 318–328.
 
-[Side 186]
+Matthiesen, S. B., Bjørkelo, B. og Nielsen, M. B. (2008). *Klanderverdig adferd og varsling i norsk arbeidsliv.* Forskningsgruppe for arbeidsmiljø, ledelse og konflikt (FALK) Universitetet i Bergen: Det psykologiske institutt.
 
-186
+Matthiesen, S. B., Bjørkelo, B., og Burke, R. J. (2011). *Workplace bullying as the dark side of whistleblowing.* I S. Einarsen, H. Hoel, D. Zapf, og C. L. Cooper (red), *Bullying and harassment in the workplace : developments in theory, research, and practice* (2nd ed., pp. 301–324). Boca Raton, Fla: CRC Press.
 
-NOU 2018: 6
+Matthiesen, S. B., Knudsen, T., og Susegg, J. A. (2013). *Den inspirerende lederen. Betydningen av transformasjonsledelse.* I R. Rønning, W. Brochs-Haukedal, og L. Glasø (red.), Livet som leder. Lederundersøkelsen 3.0, s. 181–222.
 
-Kapittel 12
+McGunn, Rossi og Fernandes (2017). *Estimating the Economic Benefits of Whistleblower Protection in Public Procurement.* Brussels: Final Report European Commission (EU 2017).
 
-Varsling – verdier og vern
+Mesmer-Magnus, J. R. og Viswesvaran, C. (2005). *Whistleblowing in organizations: An examination of correlates of whistleblowing intentions, actions, and retaliation*. Journal of Business Ethics, 62(3):277–297.
 
-teproduksjon og forvaltning av stønader og tilskudd. De statlige virksomhetene blir styrt i første rekke gjennom etatsinstrukser, tildelingsbrev
-og årlige budsjetter. I tillegg har departementene
-og underliggende virksomheter jevnlig kontakt
-om styringen gjennom såkalt styringsdialog.
-Statsråden har normalt adgang til å instruere
-sine forvaltningsorganer i alle typer saker og
-spørsmål både av faglig og administrativ art, samt
-å omgjøre vedtak som organet har gjort. Enkelte
-forvaltningsorganer har større grad av faglig uavhengighet, med begrenset adgang til å styre eller
-instruere dem. Statsråden og departementet vil
-likevel beholde et overordnet sektoransvar for å
-følge med og eventuelt initiere struktur- eller
-regelendringer for å korrigere en eventuell uheldig utvikling. Felles for forvaltningsoppgavene og
-tilhørende roller er forventninger om at statlige
-organer skal opptre som nøytrale forvaltere av lov
-og regelverk og iverksettere av politiske vedtak.
+Miceli, M. P., og Near, J. P. (1992). *Blowing the whistle. The organizational and legal implications for companies and employees.* New York: Lexington Books.
 
-Om direktorater og tilsyn5
-Det foreligger ikke noen felles definisjon av et
-direktorat, men det er vanlig å bruke betegnelsen
-om statlige sentraladministrative organer med
-hele landet som virkefelt og som er tillagt myndighetsutøvelse. Av sentrale forvaltningsorganer er
-det vanlig å regne med om lag 60 direktorater,
-uavhengig av om de har «direktorat» i navnet eller
-ikke. Tilsyn er ikke en egen type forvaltningsorgan, men direktorater som tillegges tilsynsfunksjoner ut fra sine saklige virkeområder.
-Om ombud6
-Av St.meld. nr. 19 (2008–2009) Ei forvaltning for
-demokrati og fellesskap fremkommer det at ombu5
-6
+Miceli, M. P. og Near, J. P. (2013): *An International Comparison of the Incidence of Public Sector Whistle-Blowing and the Prediction of Retaliation: Australia, Norway, and the US.* Australian Journal of Public Administration, vol. 72, no. 4, pp. 433–446.
 
-Avsnittet bygger på Difi-rapport 2013:11, punkt 2.2.4.
-Avsnittet bygger på PWC (2016) s. 17 og St.meld. nr. 19
-(2008–2009), punkt 5.5.
+Miceli, M. P., Near, J. P. og Dworkin, T. M. (2008). *Whistleblowing in organizations.* New York: Routledge/Taylor & Francis Group.
 
-Tabell 12.1 Ombud i Norge – en oversikt1
-Primært
-rettet mot
+Miceli, M. P., Near, J. P., Rehg, M. T., og Van Scotter, J. R. (2012). *Predicting employee reactions to perceived organizational wrongdoing: Demoralization, justice, proactive personality, and whistle-blowing.* Human Relations, 65(8), 923–954. doi:Doi 10.1177/0018726712447004.
 
-Formål
+Midtbøen, A. H., Steen-Johnsen, K. og Thorbjørnsrud, K. \[red.\] (2017a). *Boundary Struggles: Contestations of Free Speech in the Norwegian Public Sphere.*
 
-Rolle
+Midtbøen, A. H., Steen-Johnsen, K. og Thorbjørnsrud, K. \[red.\] (2017b). *Offentlighetens grenser. Hovedfunn fra prosjektet Status for ytringsfriheten i Norge 2015–2017.*
 
-Barneombudet BLD (faglig
-uavhengig)
+Miethe, T. D. (1999). *Whistleblowing at work : tough choices in exposing fraud, waste, and abuse on the job.* Boulder, Colo.: Westview Press.
 
-Offentlig og
-privat sektor
+Monsen, P.-Y. (2008). *Muldvarp i Siemens* \[Mole in Siemens\]. Oslo: Spartacus.
 
-Fremme barns
-interesser
+Near, J. P. (1995). *Effective Whistle-Blowing*. Academy of Management Review, 20(3), 679–708. doi:Doi 10.2307/258791.
 
-Pådriver
-og tilsyn
+Near, J. P., og Miceli, M. P. (1985). *Organizational Dissidence – the Case of Whistle-Blowing*. Journal of Business Ethics, 4(1), 1–16. doi:Doi 10.1007/Bf00382668.
 
-Nei
+Near, J. P., og Miceli, M. P. (1996). *Whistle-blowing: Myth and reality.* Journal of Management, 22(3), 507–526.
 
-Likestillings- og BLD (faglig
-diskrimineuavhengig)
-ringsombudet
+Nergaard, K. (2016). *Tilknytningsformer i norsk arbeidsliv. Nullpunktsanalyse.* Fafo-rapport 2016:07.
 
-Offentlig og
-privat sektor
+Nergaard, K. (2017). *Arbeidsutleie og selvstendig næringsdrivende. Oppdaterte tall for 2016.* Fafo-notat 2017:12.
 
-Arbeide mot
-diskriminering
-og fremme
-likestilling
+Nergaard, K. (2018). *Organisasjonsgrader i norsk arbeidsliv 2016*. Fafo-notat 2018:04.
 
-Pådriver og tilsyn
+Noonan, W. R. (2007). *Discussing the undiscussable: a guide to overcoming defensive routines in the workplace.* London: John Wiley & Sons, Inc.
 
-Avgrenset til
-hastesaker
+OECD (2016). *Committing to Effective Whistleblower Protection.* OECD-rapport.
 
-HelsePasient- og
-brukerombudet direktoratet
-(et ombud i
-hvert fylke)
+Oslo Economics (2017). *Verdien av varsling. Utredning for Varslingsutvalget og Arbeids- og sosialdepartementet.* OE-rapport 2017–45.
 
-Pådriver
-Spesialisthelse- Sikre pasientog brukerrettig- og tilsyn
-tjenesten og
-heter
-den kommunale helse- og
-omsorgstjenesten
+PWC (2016). *Utredning av håndhevings- og virkemiddelapparatet på likestillings- og ikke-diskrimineringsområdet.*
 
-Sivilombudsmannen
+Rehg, M. T., Miceli, M. P., Near, J. P., og Van Scotter, J. R. (2008). *Antecedents and outcomes of retaliation against whistleblowers: Gender differences and power relationships.* Organization Science, 19(2), 221–240. doi:DOI 10.1287/orsc.1070.0310.
 
-Stortinget
+Rothschild, J., og Miethe, T. D. (1999). *Whistle-blower disclosures and management retaliation – The battle to control information about organization corruption.* Work and Occupations, 26(1), 107–128. doi:Doi 10.1177/0730888499026001006.
 
-Offentlig
-forvaltning
+Schaefer, R. (2015) *Monika-saken: Min historie – fra drapsetterforsker til varsler*. Vigmostad Bjørke.
 
-Tilsyn
-Sikre borgernes rettigheter i
-møte med forvaltningen
+Schein, E. H. (2010). *Organizational culture and leadership* (4. utg.). San Francisco: Jossey-Bass.
 
-Nei
+Skivenes, M. og Trygstad, S. C. (2015). *Explaining whistle blowing processes in the Norwegian Labour Market – power and institutional factors*. Industrial Democracy in Europe, 38(1), 119–143.
 
-Ombudsmannen for
-forsvaret
+Skjønberg, A. N., Hognestad, E. og Hotvedt M. J. (2017). *Individuell arbeidsrett*. 2. utgave. Oslo: Gyldendal Juridisk.
 
-Stortinget
+Soeken, K. L., og Soeken, D. R. (1987). *A survey of whistleblowers: Their stressors and coping strategies.* Proceedings of the Hearing on H.R. 25, U.S. Government Printing Office, Washington, DC, pp. 156–166.
 
-Forsvaret
-
-Sikre rettigTilsyn
-heter for forsvarets personell
-
-Nei
-
-Ombudsmannen for
-sivile vernepliktige
-
-Stortinget
-
-Sivil
-verneplikt
-
-Sikre rettigheter for sivile
-vernepliktige
-
-Nei
-
-Ombud
-
-1
-
-Underlagt
-
-Tilsyn
-
-Vedtaksmyndighet
-
-Nei
-
-Basert på tabell 5.2 i St.meld. nr. 19 (2008–2009) punkt 5.5.2. Fra 1. januar 2018 endret Forbrukerombudet navn til Forbrukertilsynet. Tilsynet har fra samme dato fått myndighet til å fatte vedtak mot næringsdrivende, der Markedsrådet skal være klageorgan.
-
-[Side 187]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-dene har en viktig rolle i å sikre at regelverk som
-fremmer interessene til bestemte grupper eller
-enkeltpersoner blir etterlevd. I tillegg skal de
-fremme slike interesser gjennom andre tiltak,
-som informasjonsarbeid, og være pådriver for forbedring av regelverket som skal verne interessene. Av stortingsmeldingen fremkommer også
-sentrale forskjeller mellom tilsyn og ombud. Tilsynene driver større grad av kontroll på eget initiativ, mens ombudene gjerne behandler klager eller
-saker som enkeltpersoner bringer inn for dem. En
-sentral del av ombudenes oppgaver er å påvirke
-opinionen og gi innspill til politiske styresmakter
-(pådriverrolle).
-Om nemnder for tvisteløsning7
-Det finnes en lang rekke forvaltningsorganer som
-avgjør rettsspørsmål på bindende måte. Klagenemnder behandler klager over forvaltningsvedtak, mens tvistenemnder treffer avgjørelser i første instans i saker mellom to private parter eller
-mellom en privat part og forvaltningen. Ordningen med ulike nemnder gjør at mange konflikter
-avgjøres av forvaltningsorganer som i større eller
-mindre grad ligner på domstoler. I en undersøkelse i 2014 fant Direktoratet for forvaltning og
-IKT (Difi) 52 statlige nemnder fordelt på 14 departementsområder.8 De fleste nemndene er rene
-klagenemnder. Det vanlige er at nemndenes
-avgjørelse av klagesaker ikke kan overprøves av
-andre forvaltningsorganer, men at de kan bringes
-inn for domstolene for overprøving. De ti største
-nemndene traff årlig til sammen mer enn 30 000
-avgjørelser.
-
-12.2.3 Anbefalinger fra internasjonale
-organisasjoner og kompetansemiljøer
-I rapporten Committing to Effective Whistleblower
-Protection fra 2016 viser OECD til beste praksis
-for uavhengige varslingsorganer:
-Best practice when setting up an oversight and
-enforcement agency is to ensure that it is independent, that it has sufficient budgetary
-resources to enable it to operate effectively,
-and that it meets the objectives of the law. It is
-also essential to ensure that a strong and independent judiciary has the resources, capacity
-and independence to prosecute whistleblowing
-related offences.
-7
-8
-
-Avsnittet er basert på NOU 2017: 8, punkt 4.2.
-Difi-rapport 2014:2.
-
-187
-
-Kapittel 12
-
-Europarådets ministerkomité vedtok i 2014 en
-anbefaling til medlemsstatene om beskyttelse av
-varslere, Recommendation CM/Rec(2014)7 on the
-protection of whistleblowers prepared by the European Committee on Legal Co-operating (CDCJ) of
-the Council of Europe. Medlemsstatene oppfordres
-til å gjøre det enklere å rapportere og avsløre forhold som er av offentlig interesse og beskytte
-varslere ved nasjonale regler, institusjonelle rammer og tariffavtaler. Anbefalingen omfatter en
-rekke prinsipper som skal veilede medlemsstatene når de skal evaluere eller endre regelverket
-på området, herunder detaljerte krav til varslingskanaler og konkrete krav til arbeidsgivers
-behandling av mottatte varsel. Fra anbefalingen
-siteres følgende:
-VIII. Advice, awareness and assessment
-27. The national framework should be promoted widely in order to develop positive attitudes amongst the public and professions and to
-facilitate the disclosure of information in cases
-where the public interest is at stake.
-28. Consideration should be given to
-making access to information and confidential
-advice free of charge for individuals contemplating making a public interest report or
-disclosure. Existing structures able to provide
-such information and advice should be identified and their details made available to the
-general public. If necessary, and where possible, other appropriate structures might be equipped in order to fulfil this role or new structures created.
-David Lewis er professor i arbeidsrett ved Middlesex University. Han leder Whistleblowing Research Unit som driver International Whistleblowing Research Network. Han har utarbeidet et
-vedlegg til Fafo-notat 2017:3 Kunnskapsstatus om
-varsling og varslingsprosesser. I notatet, Some lessons from recent cases in other jurisdictions. Some
-suggestions for reforming Norway’s whistleblowing
-legislation [based on international experience and
-best practice principles], gis følgende anbefaling
-basert på beste praksis:
-Consideration should be given to establishing a
-Public Interest Disclosure Agency in order to
-highlight the importance of whistleblowing in
-Norwegian society and monitor the impact of
-the legislation (see the Council of Europe Principles below and the OECD Recommendation).
-Such a body might provide advisory and counselling services, keep records (for example,
-
-[Side 188]
-
-188
-
-NOU 2018: 6
-
-Kapittel 12
-
-Varsling – verdier og vern
-
-about the number and type of disclosures made
-and how they were dealt) and report regularly
-to Parliament on the effectiveness of the national framework. Alternatively, such functions
-might be performed by a Whistleblowing
-Ombudsman or a specialist division of the national Human Rights Institution.
-
-12.3 Oversikt over utvalgets forslag til
-organisatoriske tiltak
-Utvalget har funnet grunn til å anbefale at det opprettes et eget nasjonalt ombud som får navnet
-Varslingsombudet. Når det gjelder hvilke oppgaver utvalget mener at Varslingsombudet skal ha,
-tas det utgangspunkt i opplistingen i punkt 12.2.1.
-De ulike oppgavene som er nevnt i punkt
-12.2.1 kan sorteres i tre grupper eller oppgavetyper: 1) informasjon, veiledning og råd (generelt
-og i enkeltsaker), 2) håndheving av varslingsreglene og 3) uavhengig undersøkelse av varslingssaker. Det er ulike prinsipielle hensyn som gjør
-seg gjeldende for de tre ulike oppgavetypene og
-disse er derfor diskutert hver for seg nedenfor i
-punkt 12.4–12.6. Se figur 12.1 for en oversikt.
-Utvalget anbefaler at Varslingsombudet får en
-særlig kompetanse til å kunne ta initiativ til uavhengige undersøkelser av alvorlige varslingssaker. Se nærmere nedenfor i punkt 12.4.
-Utvalgets flertall foreslår også at det bør opprettes en egen tvistenemnd for varslingssaker. Se
-Veiledning og støtte
-i varslingssaker
-
-Varslingsenhet i
-Arbeidstilsynet
-
-utvalgets drøftelse av ulike løsninger for tvisteløsningsmekanismer i punkt 12.5.
-I punkt 12.6 drøfter utvalget behovet for å etablere en ny uavhengig undersøkelsesmyndighet.
-
-12.4 Forslag om opprettelse av et
-Varslingsombud
-12.4.1 Vurdering av behovet for individuell
-veiledning og støtte
-Arbeidstilsynet har per i dag en generell veiledningsplikt for regelverket i arbeidsmiljøloven
-kapittel 2 A. Arbeidstilsynet arbeider med å bygge
-opp en forsterket servicefunksjon for varslere og
-har fått 5 millioner kroner som er øremerket
-arbeidet med varsling, jf. punkt 8.4.4. Det må legges til grunn at denne styrkingen vil føre til at
-Arbeidstilsynet vil kunne gi mer og bedre veiledning i varslingssaker. Varsling henger tett
-sammen med andre fagområder som Arbeidstilsynet har ansvar for og kompetanse på: arbeidslivskriminalitet, psykososialt og organisatorisk
-arbeidsmiljø, trakasseringssaker og andre spørsmål relatert til helse-, miljø og sikkerhet. Arbeidstilsynet har prosessfokus, og kan gjennom tilsyn
-og veiledning konstatere mulige lovbrudd og
-bidra til å sette i gang interne systemer for håndtering av avvik, varsling og konflikter. Se mer om
-Arbeidstilsynets oppgaver i punkt 4.4. og 8.4.4.
-Utvalget finner det hensiktsmessig at Arbeidstilsynet opprettholder pågående arbeid med vars-
-
-Tvisteløsning
-i varslingssaker
-
-Tvisteløsningsnemnda for
-arbeidsmiljøloven
-
-Uavhengig undersøkelse
-av varslingssaker
-
-Ny uavhengig myndighet
-(ref. den adskilte
-undersøkelsesavdelingen i
-Varslerhuset i Nederland)
-
-Diskrimineringsnemnda
-Varslingsenhet i
-LDO
-Tvistenemnd for
-varslingssaker
-Undersøkelseskommisjon
-(ad hoc eller permanent
-gruppe under
-Varslingsombudet)
-
-Varslingsombud
-Domstolene
-
-Figur 12.1 Alternativer som utvalget har vurdert
-
-[Side 189]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-ling og legger til grunn at de fortsatt bør ha
-ansvar for å gi generell veiledning om varslingsreglene i arbeidsmiljøloven. Utvalget mener likevel
-at Arbeidstilsynets generelle veiledning og pågående arbeid ikke vil styrke varslervernet tilstrekkelig.
-For å bidra til at flest mulig saker løses på
-lavest mulig nivå og for å forebygge at det skjer
-gjengjeldelse, mener utvalget at det er viktig at
-alle parter i en varslingssak har noen å kontakte
-som også kan gi individuell veiledning og støtte.
-Eksempler på slik veiledning kan være informasjon om det konkrete antatt kritikkverdige forholdet kan antas å bryte med regelverket, informasjon om spilleregler på arbeidsplassen, hvem det
-kan være hensiktsmessig å varsle til, prosessregler mv. I tillegg til informasjon om ulike typer
-regelverk, kan det også oppstå behov for noen å
-diskutere ulike dilemmaer med, og noen som kan
-gi mer konkrete råd og veilede i en vanskelig
-beslutningsprosess. I de sakene der prosessen tar
-lang tid, vil mange kunne ha behov for moralsk
-støtte og råd underveis. Det kan også være behov
-for å kunne henvende seg til noen utenfor virksomheten som kan veilede om det er et mulig kritikkverdig forhold i henhold til varslingsreglene,
-om det er varslet på en forsvarlig måte, eller om
-det synes å ha skjedd gjengjeldelse som kan gi
-grunnlag for oppreisning og erstatning.
-Det å gi støtte til enkeltpersoner som opplever
-at de står i en svært krevende situasjon vil kreve
-ansatte med ulik faglig bakgrunn, der gode medmenneskelige egenskaper, rolleforståelse og
-tverrfaglig kunnskap om varslingssaker vil være
-svært viktig.
-Utvalget har vurdert flere løsninger som kan
-sikre at varslere gis individuell veiledning og
-støtte i enkeltsaker, se punkt 12.4.2 nedenfor.
-Utvalgets samlede vurdering og konklusjon fremgår av punkt 12.4.3.
-
-12.4.2 Ulike løsninger utvalget har vurdert
-Utvalget har vurdert tre alternative løsninger – å
-opprette en egen varslingsenhet i Arbeidstilsynet,
-en egen varslingsenhet i LDO eller et eget Varslingsombud.
-Varslingsenhet i Arbeidstilsynet
-Man kan se for seg at Arbeidstilsynet får en utvidet veiledningsplikt for de privatrettslige reglene i
-kapittel 2 A. Det vil kunne bestå i å gå inn i den
-enkelte sak og gi konkrete råd, for eksempel om
-en arbeidstaker bør varsle i en gitt situasjon eller
-
-189
-
-Kapittel 12
-
-la være, eventuelt at de bistår arbeidstaker ved å
-fungere som et bindeledd til arbeidsgiver i tiden
-før eventuell varsling finner sted. Som en videreutvikling av Arbeidstilsynets svartjeneste kan det
-for eksempel etableres en støttetelefon for varslere som besvares av noen med kompetanse på
-varsling, arbeidsliv og psykologi.9 Videre kan man
-tenke seg at Arbeidstilsynet skal kunne gi
-uttalelser om lovligheten av eventuelle gjengjeldelser en arbeidstaker opplever og gi råd om hvor
-arbeidstaker kan søke hjelp, eventuelt om hensiktsmessigheten av å gå til rettslige skritt.
-En annen type utvidelse av kompetansen vil
-kunne være å gi Arbeidstilsynet påleggskompetanse ved brudd på arbeidsmiljøloven § 2 A-1 (rett
-til å varsle på en forsvarlig måte) og § 2 A-2 første
-og andre ledd (forbud mot gjengjeldelse). Det å gi
-pålegg på bakgrunn av at noen er utsatt for gjengjeldelse (og om at gjengjeldelsen må opphøre)
-vil ligne noe på det å gi pålegg vedrørende mobbing og trakassering, som Arbeidstilsynets
-inspektører kan gjøre i dag. Slike saker vil kunne
-kreve grundige faktaundersøkelser og være svært
-ressurskrevende.
-På den ene siden er det momenter som taler
-for at en forsterket eller utvidet veiledningsoppgave bør legges til Arbeidstilsynet. For det første
-kan man kan bygge på eksisterende kompetanse
-og organisering i en etablert virksomhet. For det
-andre innebærer Arbeidstilsynets organisering at
-de har god oversikt over norsk nærings- og
-arbeidsliv, og hvor konkrete risikoforhold er mest
-fremtredende. Arbeidstilsynet har sju regioner
-med underliggende tilsynskontor spredd over
-hele landet. Med sin landsdekkende organisering
-vil også Arbeidstilsynet kunne være lettere fysisk
-tilgjengelig for flere.
-På den andre siden er det flere argumenter
-som taler mot å etablere en varslingsenhet i
-Arbeidstilsynet. Særlig viktig er det at tilsynsmyndigheten er avhengig av tillit hos både arbeidstakere og arbeidsgivere. Dette kan utfordres dersom Arbeidstilsynet skal gå mer konkret til verks
-og gi råd i enkeltsaker og være en støtte for varsleren. Arbeidstilsynet prioriterer sine oppgaver
-basert på risiko. Det vil si at de i første rekke konsentrerer tilsynsaktiviteten mot bransjer, virksomheter og forhold som innebærer størst risiko for
-helseskade eller dårlige arbeidsforhold på andre
-måter. Også tips og varsler blir brukt som indikator for Arbeidstilsynets utvelgelse av tilsynsobjek9
-
-Varslerhuset i Nederland har tilknyttet seg psykologer som
-varslere kan kontakte for hjelp dersom veiledningsavdelingen i Varslerhuset vurderer at det er behov for dette.
-
-[Side 190]
-
-190
-
-Kapittel 12
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-ter. Det å skulle få utvidede oppgaver knyttet til
-enkeltsaker angående varsling vil kunne være i
-strid med denne innfallsvinkelen, og kreve andre
-typer prioriteringer og organisering.
-Varslingsenhet i Likestillings- og diskrimineringsombudet
-Likestillings- og diskrimineringsombudet (LDO)
-har ansvar for å gi generell og individuell veiledning om diskrimineringsbestemmelsene. LDO
-har også en pådriverrolle og skal arbeide for å
-fremme reell likestilling og hindre diskriminering
-på alle samfunnsområder på grunn av kjønn, graviditet, permisjon ved fødsel og adopsjon,
-omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder. Ombudet skal
-også arbeide for å fremme likebehandling i
-arbeidslivet, uavhengig av politisk syn og medlemskap i arbeidstakerorganisasjoner.
-Dersom LDO skulle fått utvidet mandat og
-ansvar for å veilede om varslingsreglene, ville det
-være nødvendig å lage en egen enhet for dette.
-Dette ville også synliggjøre eksternt at ombudet
-har varsling som et eget ansvarsområde.
-På samme måte som Arbeidstilsynet, har også
-LDO opparbeidet seg kompetanse på veiledningsmetodikk og kommunikasjon med arbeidstakere og arbeidsgivere som ønsker informasjon og
-råd. Svært mange av sakene som LDO kommer i
-kontakt med, gjelder diskriminering i arbeidslivet.
-LDO har i dag en pådriverrolle når det gjelder
-vern mot diskriminering. Et utvidet LDO kan ha
-en pådriverrolle også når det gjelder samfunnsnytten av varsling. Et utvidet LDO ville også
-kunne gi anerkjennelse for at varsling er viktig og
-dermed skape en signaleffekt som kan påvirke
-holdninger og virke forebyggende. Det å etablere
-en varslingsenhet i LDO vil, i hvert fall midlertidig, gi oppmerksomhet om temaet og kunne bidra
-til at flere aktører vet hvor de kan henvende seg.
-Ved å bygge videre på dagens struktur, kan man
-nyttiggjøre seg eksisterende administrasjon og
-organisering, noe som kan være kostnadsbesparende.
-Å legge en utvidet veiledningsoppgave og støttefunksjon til LDO vil ikke på samme måte som
-for Arbeidstilsynet være utfordrende når det gjelder tilsynsoppgaver og balansen mellom arbeidstaker og arbeidsgiver. En utvidelse av ansvarsområdet til LDO vil imidlertid gjøre det nødvendig å
-bygge et miljø med tverrfaglig kunnskap om varsling, juss, arbeidsliv, arbeids- og organisasjonspsy-
-
-kologi mv., som langt på vei vil overlappe med
-Arbeidstilsynets kompetanse.
-Et nasjonalt Varslingsombud
-Et nasjonalt og faglig uavhengig Varslingsombud
-kan gis ulike typer oppgaver, der plikt til å yte individuell veiledning og støtte i tilknytning til de privatrettslige reglene i kapittel 2 A vil være den
-mest sentrale, jf. beskrivelse over i punkt 12.4.1.
-Et Varslingsombud kan i tillegg ha en pådriverrolle og gi anerkjennelse av at varsling er viktig og dermed skape en signaleffekt som kan
-påvirke holdninger og virke forebyggende. Denne
-pådriverrollen kan også Arbeidstilsynet og LDO
-ha. Etablering av et eget organ vil imidlertid
-kunne gi økt oppmerksomhet om temaet, og derved bidra til at flere vet hvor de kan henvende seg.
-Fordelen sammenlignet med å styrke eller utvide
-Arbeidstilsynets eller LDOs oppgaver og kompetanse, vil først og fremst være at et nytt organ ikke
-vil være bundet av andre oppgaver og roller som
-kan komme i konflikt med arbeidet knyttet til
-varsling.
-Ved opprettelse av et eget Varslingsombud vil
-det bli et eget budsjettkapittel til dette formålet.
-Gjennom øremerking og styrt prioritering fra fagdepartementet kan likevel samme ressursbruk
-oppnås i Arbeidstilsynet.
-Et Varslingsombud vil måtte bygge et tverrfaglig miljø med kompetanse innen varsling, juss,
-arbeidsliv, arbeids- og organisasjonspsykologi
-mv., som delvis vil overlappe Arbeidstilsynets
-kompetanse. Det vil være viktig å gå opp grensene
-mellom Arbeidstilsynet og et nytt organ for å
-unngå å skape unødvendig uklarhet om ansvarsområdene.
-Det vil kreve ressurser å drifte et Varslingsombud med egen ledelse og administrasjon.10 Det er
-grunn til å anta at dette, samlet sett, vil bli dyrere
-enn å legge funksjonen til et allerede eksisterende
-organ. I tillegg til ressursbruk ved opprettelse og
-drift, vil det også medføre jevnlig arbeid med
-etatsstyring i det ansvarlige departementet.11
-
-12.4.3 Utvalgets vurdering og forslag
-Utvalget mener at det er nødvendig å opprette et
-nasjonalt Varslingsombud som kan være et sted å
-10
-
-Utgiftene til et eventuelt varslingsombud vil avhenge av
-hvilke oppgaver ombudet gis. Som eksempel vises det til at
-årlig bevilgning til disposisjon for Likestillings- og diskrimineringsombudet er på kr 42 821 000, jf. tildelingsbrev for
-2018. Likestillings- og diskrimineringsombudet har 38
-ansatte fordelt på fire avdelinger per februar 2018.
-
-[Side 191]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-gå for varslere og andre som er involverte i varslingssaker. Varslingsombudet må være et uavhengig forvaltningsorgan administrativt underordnet
-departementet, og bør ikke kunne instrueres om
-ombudets faglige virksomhet.
-Utvalget har vurdert om det er hensiktsmessig
-å gi Arbeidstilsynet ansvaret for individuell veiledning i konkrete varslingssaker. Arbeidstilsynets
-rolle som nøytralt tilsynsorgan, der de ikke oppfattes som partsrepresentant for verken arbeidsgiver
-eller arbeidstaker, gjør at Arbeidstilsynet har tillit
-på begge sider. Dette er viktig både for at Arbeidstilsynet skal få tilstrekkelig informasjon under tilsyn og for at begge sider kan kontakte Arbeidstilsynet for å få veiledning. Arbeidstilsynet har i dag
-et klart skille mellom det offentligrettslige og privatrettslige regelverket i arbeidsmiljøloven når
-det gjelder ansvarsoppgaver. Dersom deres
-ansvar skulle utvides til også å favne de privatrettslige sidene, måtte det gjennomføres organisatoriske grep for å sikre habilitet, tillit og troverdighet i tilsyn, søksmålsrisiko og ressurser. Utvalget har derfor konkludert med at dette ikke vil
-være det mest hensiktsmessige alternativet.
-Utvalget har også vurdert om Likestillings- og
-diskrimineringsombudet (LDO) kan gis ansvaret
-for individuell veiledning i konkrete varslingssaker. Ombudet vil i større grad være i stand til å gi
-slik veiledning uten å komme i konflikt med andre
-oppgaver. Varslingsreglene og vernet mot gjengjeldelse i arbeidsmiljøloven gjelder imidlertid
-ved varsel om alle typer kritikkverdige forhold, og
-det kan ha en begrensende effekt dersom det etableres en varslingsenhet i LDO, som er en etablert aktør når det gjelder kritikkverdige forhold
-på likestillings- og diskrimineringsfeltet. Utvalget
-har derfor konkludert med at heller ikke dette vil
-være det mest hensiktsmessige alternativet.
-Prinsipielle hensyn tilsier at rollen til et nyopprettet nasjonalt Varslingsombud i hovedsak bør
-være å gi veiledning og støtte til varslere og andre
-som opplever utfordringer og konflikter knyttet til
-varslingssaker, til den eller de omvarslede og
-11
-
-Utgifter til opprettelse vil bl.a. kunne være utredning i
-departementet, konsulentrapporter om økonomiske og
-administrative konsekvenser av opprettelsen, innkjøp av
-kontorutstyr inkludert anbudsprosesser, ressurser til
-rekruttering av kompetent direktør og medarbeidere, opprettelse av nettside, opplæring og eventuell kompetanseoverføring fra andre kunnskapsmiljøer mv. Et nyopprettet
-organ vil i tillegg til saksbehandlere måtte ha minst 4–5
-administrative stillinger for å ivareta oppgaver knyttet til
-ledelse, personal, administrasjon, økonomi, kommunikasjon, IT-forvaltning og arkiv. Noen av utgiftene vil være
-engangsutgifter for departementet og det nye organet,
-mens andre vil inngå som løpende driftsutgifter for sistnevnte.
-
-191
-
-Kapittel 12
-
-arbeidsgivere, men også til tillitsvalgte og verneombud. Ved siden av en slik veilednings- og støttefunksjon, bør Varslingsombudet være tydelig i
-den offentlige debatt og bidra til kunnskap om
-verdien av varsling og behovet for vern av de
-involverte. Det vil være viktig at Varslingsombudet har god kunnskap og oversikt, slik at det vil
-være i stand til å veilede og bistå varsleren også
-med hensyn til hvem som er rette varslingsmottaker for det konkrete kritikkverdige forholdet som
-det er varslet om eller som det vurderes å varsle
-om. En som tar kontakt med Varslingsombudet
-etter å ha observert kritikkverdige forhold i virksomheten, må kunne få veiledning om varslingsreglene av Varslingsombudet, samt kunne få råd om
-hvordan man kan gå frem for å varsle om de kritikkverdige forholdene til noen i virksomheten, til
-en tilsynsmyndighet eller til politiet. En som henvender seg til Varslingsombudet etter å ha varslet
-om seksuell trakassering på arbeidsplassen, kan
-for eksempel få veiledning om varslingsreglene av
-Varslingsombudet og ved behov henvises til å ta
-kontakt med LDO for veiledning og råd om
-reglene i likestillings- og diskrimineringsloven.
-Utvalget mener at det bør vurderes å etablere
-en sentral, elektronisk løsning for mottak og sortering av varsler om alle typer kritikkverdige forhold til offentlige myndigheter. Se mer om dette i
-boks 11.1.
-Varslingsombudets hovedoppgave bør være å
-gi god veiledning og støtte til varslere og andre
-som er i vanskelige situasjoner i forbindelse med
-varsling. Ombudet kan da nøste opp i saken, finne
-ut hva som egentlig er den rettslige problemstillingen og gi råd om hvilke alternativer som finnes.
-For øvrig bør ombudet også utføre pådriver- og
-kunnskapsarbeid i tråd med ombudets formål,
-samt ha kompetanse til å se strukturelle hindringer for god håndtering av varslersaker.
-Utvalget mener det er viktig at Varslingsombudet ikke blir tillagt oppgaven med å ta stilling til
-om det har skjedd gjengjeldelse, eller om det er
-grunnlag for erstatning eller oppreisning. Det kan
-innebære prinsipielle utfordringer dersom samme
-organ skal gi veiledning og bistand til en eller
-flere parter i en varslingssak og samtidig eller
-senere ta stilling til om det har funnet sted gjengjeldelse.
-I tillegg til hva som vil være Varslingsombudets hovedoppgaver, har utvalget også diskutert
-enkelte andre relevante oppgaver.
-Mange varslere har tatt til orde for at de har
-hatt behov for å få en «varslerstatus». Dette kan
-for eksempel være der det er uenighet om det er
-et kritikkverdig forhold det er varslet om, eller om
-
-[Side 192]
-
-192
-
-Kapittel 12
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-det i det hele tatt er gitt et varsel. Det kan også
-være aktuelt for å motvirke gjengjeldelse fra
-arbeidsgiver, eller hvis varsleren allerede har blitt
-møtt med gjengjeldelse. Utvalget har forståelse for
-at det for enkelte kan oppstå et slikt behov, men er
-skeptiske til at et Varslingsombud, som vil være et
-forvaltningsorgan, skal fatte vedtak om dette.
-«Varslerstatus» er ikke et begrep i arbeidsmiljølovens varslingsregler og har heller ikke for øvrig
-noe definert rettslig innhold. Det kan likevel være
-naturlig at ombudet ved behov kan gi en uttalelse
-om de regner noen for å ha varslet eller ikke. En
-slik vurdering vil kun kreve en mer overordnet
-vurdering av om den som henvender seg fyller
-varslingsreglenes personelle og materielle virkeområde, for eksempel hvis det gjelder en arbeidstaker som har meldt fra til nærmeste leder om at
-det trolig har skjedd lovbrudd i virksomheten.
-I forlengelsen av dette vil et Varslingsombud
-også kunne bidra til å skille ut saker som ikke
-handler om kritikkverdige forhold, men som kan
-gjelde arbeidstakers misnøye med arbeidsgivers
-utøvelse av styringsretten eller andre typer ytringer som ikke omfattes av varslingsreglene. Slik
-veiledning vil kunne være konfliktdempende og
-bidra til tidlig avklaring av om det er en varslingssak eller ikke. Dette kan på sikt bidra til færre
-såkalte «feilvarslinger» og redusere antallet saker
-der det gis inntrykk av at varslingsreglene blir
-«misbrukt».
-Dersom varsleren ønsker bistand overfor
-arbeidsgiver og opphever ombudets taushetsplikt,
-kan man også se for seg at ombudet kan ta kontakt med arbeidsgiver for å orientere om regelverket slik at det ikke skjer gjengjeldelse. Dette kan
-vurderes som del av fremtidige elektroniske løsninger, se boks 11.1 om dette, og eksempelvis
-Navs digitale sykefraværsoppfølging via Altinn.12
-Det finnes allerede et etablert og tilgjengelig
-lavterskeltilbud for mekling hos Konfliktrådet, jf.
-omtale av Konfliktrådets erfaring med arbeidslivskonflikter i punkt 8.4.4. Utvalget mener likevel at
-Varslingsombudet bør kunne tilby mer spesialisert mekling for varslingssaker.
-Varslere kan føle seg ensomme og isolerte,
-både på jobb og i sin personlige situasjon. De kan
-bli stengt ute av arbeidsfellesskapet med kollegene sine, og noen ganger kan de bli utsatt for
-trusler eller andre påkjenninger. En varsler som
-er i en slik ekstremt stressende situasjon, kan
-oppleve negative helsefølger i form av både
-12
-
-https://www.nav.no/no/Bedrift/Oppfolging/
-Sykmeldt+arbeidstaker/digital-sykmelding-informasjon-tilarbeidsgivere (lest 27. januar 2018).
-
-fysiske og psykiske plager. Utvalget mener det er
-viktig at Varslingsombudet har egenkompetanse
-på psykososiale tilstander. Ombudet bør også ha
-oversikt over hvordan man kan få bistand via helsetjenester og NAV, og også kunne anbefale slik
-bistand, dersom situasjonen tilsier det. Utvalget
-mener at slike tiltak vil kunne bidra til å opprettholde varslerens arbeidstilknytning og forhindre
-eller redusere negative helsemessige konsekvenser av å stå i en vanskelig varslingssak over tid.
-Utvalget mener det er gode grunner for at
-Varslingsombudet eller annen relevant myndighet
-bør ha hjemmel til å anbefale at det innvilges fri
-rettshjelp for saker som kommer for domstolene.
-Utvalget anbefaler at dette utredes nærmere.
-Utvalget mener også at i de tilfellene der Varslingsombudet blir kjent med svært alvorlige varslingssaker av stor samfunnsmessig betydning, bør
-ombudet ha en særlig kompetanse til å kunne ta
-initiativ til uavhengige undersøkelser av alvorlige
-varslingssaker.13 Et alternativ til dette kan være at
-ombudet knytter til seg et korps med relevante
-fagpersoner som kan gjennomgå varslingssaker
-der «alt går galt», og som i den forbindelse kan
-gjennomføre en uavhengig og samlet vurdering av
-saken og peke på læringspunkter og eventuelle
-behov for endringer. Utvalget vil understreke at en
-slik løsning kun bør brukes i særlige tilfeller og
-ha funksjon som en sikkerhetsventil der ordinære
-strukturer ikke synes å ivareta tungtveiende samfunnsinteresser. Dette kan lett innebære store
-økonomiske, ressursmessige og tidsmessige
-belastninger, slik at det må avklares også hvordan
-dette skal finansieres, og hva slags mulig rettslig
-status en slik granskingskommisjons rapport skal
-ha. Det anbefales at dette spørsmålet utredes
-videre.
-Utvalget mener at det kan være gode grunner
-for at Varslingsombudet bør søkes samlokalisert
-13
-
-Undersøkelseskommisjoner (ad hoc og faste kommisjoner) oppnevnes av det offentlige for å utrede et bestemt
-saksforhold. Slike kommisjoner er forvaltningsorganer, og
-forvaltningsloven, offentlighetsloven og arkivloven gjelder
-for dem. I rundskriv G-48/75 er det gitt en nærmere veiledning om oppnevning og saksbehandlingsregler som må
-eller bør følges. Den virksomheten som en offentlig undersøkelseskommisjon bedriver vil også være berørt av personopplysningsloven.
-I NOU 2009: 9 Lov om offentlige undersøkelseskommisjoner –
-Særskilt oppnevnte offentlige kommisjoner ble det foretatt en
-generell og prinsipiell vurdering av sammensetning, oppgaver, rettslig status og saksbehandling (herunder offentlighetsspørsmål) for ad hoc undersøkelseskommisjoner.
-For faste undersøkelseskommisjoner finnes det egne regelverk for saksbehandling, sammensetning mv. som er spesielt tilpasset det aktuelle fagområdet, eksempelvis for Statens havarikommisjon for transport og for den nyopprettede
-undersøkelseskommisjon for helse- og omsorgstjenesten.
-
-[Side 193]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-med LDO. De spørsmålene som ombudene skal
-behandle vil kunne ha en viss likhet og man vil
-dermed kunne dra nytte av hverandres kompetanse. Ved samlokalisering kan man også ha en
-viss nytte av felles administrative tjenester. En
-samlokalisering kan dermed bidra både til bedre
-ressursanvendelse og mulighet for faglig utvikling.
-
-12.5 Forslag om opprettelse av en
-Varslingsnemnd
-12.5.1 Tvisteløsning i varslingssaker i dag
-Arbeidstilsynet håndhever reglene om plikt til å
-utarbeide varslingsrutiner, men har ikke kompetanse til å vurdere eller føre tilsyn med de privatrettslige reglene i arbeidsmiljøloven kapittel 2 A.
-Dersom gjengjeldelse på grunn av varsling består
-i brudd på regler som andre myndigheter har
-ansvar for, for eksempel trakassering eller diskriminering, vil Arbeidstilsynet og LDO eller Diskrimineringsnemnda kunne holde virksomheten
-ansvarlig. Disse myndighetene har likevel ikke
-myndighet til å ta stilling til om trakasseringen
-eller diskrimineringen har årsakssammenheng
-med varslingen. De har heller ikke myndighet til å
-ilegge arbeidsgiver oppreisnings- og erstatningsansvar etter arbeidsmiljøloven § 2 A-2 tredje ledd.
-For øvrig er det de alminnelige domstolene
-som tar stilling til tvister som omhandler reglene
-om varsling i arbeidsmiljøloven. Domstolene kan
-kjenne en oppsigelse eller avskjed ugyldig og de
-kan gi dom for at arbeidsgiver må betale erstatning for gjengjeldelse. Det finnes ikke noen fullstendig oversikt over hvor mange varslingssaker
-som behandles i domstolene. En gjennomgang av
-tilgjengelig rettspraksis i 2013 viste at antallet
-saker for domstolene hadde økt betydelig etter at
-arbeidsmiljøloven fikk regler om varsling, se også
-punkt 4.11. En forklaring på dette kan være økt
-kunnskap om retten til å varsle om kritikkverdige
-forhold blant arbeidstakere, arbeidsgivere, tilsynsmyndigheter, advokater og domstoler. Det
-må likevel legges til grunn at det bare er et fåtall
-saker som reises for domstolene utelukkende
-med krav om oppreising og eventuelt erstatning
-for økonomisk tap grunnet gjengjeldelse.
-12.5.2 Behov for en god og effektiv
-tvisteløsningsmekanisme
-Utvalget foreslår som nevnt i punkt 12.4.3 at det
-skal opprettes et eget Varslingsombud. Dette
-ombudet skal først og fremst tilby støtte og
-
-193
-
-Kapittel 12
-
-bistand til både varslere, omvarslede og arbeidsgivere. Ombudet skal også tilby mekling til partene,
-og ombudet skal kunne initiere uavhengige
-undersøkelser av alvorlige varslingssaker. Imidlertid skal ombudet ikke ta standpunkt til om gjengjeldelse for varsling eller brudd på aktivitetsplikten har funnet sted, eller vurdere om det er grunnlag for krav om erstatning eller oppreisning.
-Utvalget ser behovet for en tvisteløsningsmekanisme for disse sakene. Utvalget har særlig drøftet to løsninger; enten at disse sakene fortsatt skal
-høre hjemme i domstolene og kun der, eller om
-det bør etableres et lavterskeltilbud i form av en
-nemnd som skal kunne behandle disse sakene.
-Det er flere varianter av nemnd som kan være
-aktuelt, se de nærmere alternativene som drøftes i
-punkt 12.5.6.
-Utvalget forutsetter at stillingsvernssaker i alle
-tilfeller fortsatt skal behandles i domstolene.
-Utvalget legger til grunn at målsettingen, i tråd
-med at saker bør løses på lavest mulig nivå, er at
-sakene skal la seg løse raskt, enkelt og rimelig,
-helst som et lavterskeltilbud, uten at det skal gå
-utover rettssikkerheten til partene.
-
-12.5.3 Utenrettslig tvistenemnd
-Det er fordeler og ulemper ved tvisteløsning både
-i de alminnelige domstolene og ved bruk av utenrettslige nemndsløsninger. Utvalget har sett nærmere på dette i lys av mandatet. Her behandles
-først utenrettslig nemndsløsning, deretter tvisteløsning i de alminnelige domstoler i punkt 12.5.4.
-Innledningsvis bemerkes at mange varslere
-har gitt uttrykk for at det er for vanskelig å få medhold i rettssystemet. Det oppleves at det er vanskelig å bevise at det har funnet sted gjengjeldelse, det vil si at det er vanskelig å bevise årsakssammenheng mellom varslingen og en påfølgende ugunstig behandling av varsleren. Det kan
-innebære at den som blir gjengjeldt opplever at
-gjengjeldelsen ikke får noen konsekvenser for
-den ansvarlige. Manglende sanksjonering av et
-lovbrudd er uheldig og kan bidra til å undergrave
-gjengjeldelsesvernets autoritet og preventive
-effekt. Både reelle og allmennpreventive hensyn
-tilsier at brudd på gjengjeldelsesforbudet bør ha
-konsekvenser.
-Utvalget har ikke kunnet vurdere om og eventuelt i hvilken utstrekning domstolene har truffet
-materielt sett gale avgjørelser, og kjenner ikke til
-at det foreligger relevant forskning på dette området. Utvalget understreker imidlertid at hensynet
-til rettssikkerhet også for den omvarslede og for
-andre involverte må veie like tungt, enten man
-
-[Side 194]
-
-194
-
-Kapittel 12
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-velger en nemndsløsning eller å beholde dagens
-tvisteløsningstilbud. Utvalget har i kapittel 11
-kommet med flere forslag til opplærings- og kompetanseutviklingstiltak. Formålet er at de som
-behandler varslingssaker skal ha best mulig kompetanse til å behandle sakene, herunder kunnskap
-om at gjengjeldelse kan ha mange subtile former
-og at man må se nøye hen til mulig årsakssammenheng. Muligheten for å få medhold i en
-påstand om gjengjeldelse kan også henge
-sammen med bevisbyrdereglene, som utvalget
-behandler i punkt 10.12.
-Utvalget ser at en nemnd kan være et raskt og
-rimelig lavterskeltilbud. Dette forutsetter at nemnda har kompetanse og ressurser til å håndtere
-sakene raskt, og at sakene ikke blir mer komplekse enn at de kan løses enkelt. Prinsippet for
-nemnder er at hver av partene bærer sine egne
-saksomkostninger, og parten har derved i alle fall
-kontroll på sine egne kostnader. Behandlingen er
-i tillegg gratis, mens man i domstolene har rettsgebyr.
-Det å gå til domstolene vil for mange representere en stor mental og økonomisk barriere, som
-for de fleste vil kreve representasjon ved advokat.
-Dersom man er organisert, vil man kunne henvende seg til egen organisasjon for juridisk
-bistand og eventuell partsrepresentasjon under
-domstolsbehandlingen. Det er likevel kun om lag
-halvparten av norske arbeidstakere som er fagorganiserte, og det er heller ikke slik at alle arbeidstakerorganisasjonene har ressurser til å føre
-saker på vegne av sine medlemmer. Kostnadene
-til advokat kan, i kombinasjon med usikkerhet
-med hensyn til utfallet av saken (ileggelse av motpartens sakskostnader mv.), medføre at man
-vegrer seg for å ta en sak til retten.
-En nemnd kan settes sammen med særskilt og
-sammensatt kompetanse, eksempelvis med jurister, organisasjonspsykologer og andre relevante
-yrkesgrupper.
-Å opprette en nemnd vil være et tydelig signal
-til samfunnet om at man ønsker å tilby en lavterskelløsning for disse sakene. Det er også i tråd
-med mandatet å foreslå tiltak som vil kunne styrke
-rettsstillingen til varslere.
-En nemnd som skal treffe avgjørelser raskt og
-hvor avgjørelsene ikke kan påklages til et klageorgan i forvaltningen, behøver ikke, og forventes
-ikke å legge like mye arbeid i premissene som
-domstolene vil gjøre. Det er imidlertid ikke gitt at
-en nemnd behandler saker raskt. Tilstrekkelige
-ressurser til å behandle saker raskt vil derfor
-være påkrevd.
-
-En nemnd vil regelmessig basere seg på skriftlig behandling, men kan velge muntlig behandling
-under visse omstendigheter. Dette vil kunne sikre
-forsvarlig bevisbedømmelse.
-Dersom det opprettes en nemnd, må partene
-likevel kunne velge hvilken instans de ønsker å ta
-saken inn for. Velger man nemnd, må man ha
-bestemmelser som tilsier at domstolene ikke kan
-behandle saken mens den er til behandling i nemnda. Siden nemndsavgjørelsen ikke kan påklages
-til et overordnet forvaltningsorgan, må imidlertid
-saken deretter kunne bringes inn for domstolene
-dersom partene ser behov for det.
-En nemnd bør ha mulighet til å sile saker. Det
-kan være to grunner til å sile; den ene er at sakene
-som bringes inn, er av en slik karakter at de ikke
-lar seg løse verken ved skriftlig eller muntlig
-behandling på hensiktsmessig måte, den andre at
-de er så sammensatte og komplekse at de i sin
-helhet bør løses av domstolene. Nemnder vil ha et
-sekretariat som kan bistå selve nemnda med dette
-arbeidet. Det vil forenkle arbeidet for nemndsmedlemmene.
-Ved opprettelsen av en slik nemnd må det også
-tas standpunkt til fra hvilket tidspunkt man skal
-starte å behandle saker slik at nemnda ikke blir
-overbelastet med saker som gjelder hendelser
-som ligger langt tilbake i tid.
-Selv om en nemndsløsning i utgangspunktet
-vil kreve en del ressurser, kan det være hensiktsmessig å anvende dem til dette konkrete formålet,
-som vil kunne gi gode resultater.
-
-12.5.4 Tvisteløsning i de alminnelige
-domstolene
-Det er en oppfatning blant flere i utvalget at domstolene i for liten grad har vist seg egnet til å
-behandle saker om gjengjeldelse ved varsling. De
-største svakhetene er at det kan ta for lang tid og
-kan være svært kostbart for partene. Kostnaden
-er også uforutsigbar i og med at man ved tap av
-saken kan bli idømt motpartens saksomkostninger.
-Kostnaden kan avdempes noe dersom varslere
-gis mulighet til fri sakførsel. Her kan det tenkes
-en løsning der Varslingsombudet gis myndighet
-til å anbefale at fritt rettsråd og fri sakførsel innvilges av Fylkesmannen. Det kan også være en
-mulighet å gjøre denne type saker gebyrfrie.
-Ut fra generelle rettssikkerhetsprinsipper må
-det også tas hensyn til den omvarslede og virksomheten. Dette kan innebære at det i mange
-saker er behov for mer omfattende bevisførsel. En
-nemnd som skal avgjøre sakene raskt og først og
+Strader, K. D. (1993), *Counterclaims against Whistleblowers: Should Counterclaims against Qui Tam Plaintiffs Be Allowed in False Claims Act Cases*. University of Cincinnati Law Review 713.
+
+Swartz, M., og Watkins, S. (2003). *Power failure : the inside story of the collapse of Enron* (1. utg.). New York: Doubleday.
+
+Trygstad, S. C. og Ødegård, A. M. (2014). Varsling i arbeidslivet i Enjolras, B., Rasmussen, T. og Steen-Johansen, K. (red). *Status for ytringsfriheten i Norge.* Oslo: Institutt for samfunnsforskning (Fafo 2014 I).
+
+Trygstad, S. C. (2015) *Ytringsfrihet i arbeidslivet*. Sosiologisk tidsskrift, nr. 1–2, 2015.
+
+Vandekerckhove, W. (2010). *European Whistleblower protection: tiers or tears?*, I. D. B. Lewis (red.), *A global approach to Public Interest Disclosure.* USA: Cheltenham, UK, Northampton, MA, USA: Edvard Elgar.
+
+Vandekerckhove, W. og Lewis, D. (2011). *The Content of Whistleblowing Procedures: A Critical Review of Recent Official Guidelines.* Journal of Business Ethics, 108 (2), 253–264.
+
+Wiersholm (2015). «*Monika-saken» Arbeidsgivers håndtering av Robin Schaefers varsling*. Rapport fra advokatfirmaet Wiersholm til Justis- og beredskapsdepartementet 25. juni 2015.
+
+Williams, K. D. (2007). *Ostracism*. Annu Rev Psychol, 58, 425–452. doi:10.1146/annurev.psych.58.110405.085641.
+
+Nettsider
+
+Advokatforeningens retningslinjer for private granskninger: https://www.advokatforeningen.no/PageFiles/1092/Retningslinjer_for_private_granskninger.PDF.
+
+Antall fagorganiserte og organisasjonsgrad i Norge: http://www.arbeidslivet.no/Lonn/Fagorganisering/Antall-fagorganiserte-og-organisasjonsgrad-i-Norge/.
+
+Arbeidsgivernes medlemstall og organisasjonsgrad: http://www.arbeidslivet.no/Lonn/Fagorganisering/Arbeidsgivernes-medlemstall-og-organisasjonsgrad/.
+
+Arbeidstilsynet, Årsrapport 2016: arbeidstilsynet.no/om-oss/forskning-og-rapporter/årsrapporter.
+
+Difi, Årsrapport 2016: https://www.difi.no/sites/difino/files/arsrapport_difi_2016.pdf.
+
+Diskrimineringsnemda, Årsrapport 2016: http://www.diskrimineringsnemnda.no/media/2030/aarsrapport-2016-scannet.pdf.
+
+Diskrimineringsnemda, tildelingsbrev for 2018: https://www.regjeringen.no/contentassets/1dbf3597b082480cb3a9af8d76c3db43/tildelingsbrev-2018-sekretariatet-for-diskrimineringsnemnda.pdf.
+
+Fritt Ord: Fritt Ords Pris 2015 til Robin Schaefer og Jan Erik Skog, 2. mars 2015: http://www.frittord.no/aktuelt/fritt-ords-pris-20151/ (lest 29. januar 2018).
+
+Khrono: Tidligere teologistudent sa fra om ubehagelige opplevelser med Giske: https://khrono.no/seksuell-trakassering-trakassering-ap/tidligere-teologistudent-sa-fra-om-ubehagelige-opplevelser-med-giske/205910 (lest 2. januar 2018).
+
+KS, Veileder om ytringsfrihet og varsling: http://www.ks.no/globalassets/blokker-til-hvert-fagomrade/samfunn-og-demokrati/etikk/17197-ks_brosjyre-varsling-og-ytringsfrihet_f42_web.pdf.
+
+LDO, Årsmelding 2016: http://www.ldo.no/nyheiter-og-fag/brosjyrar-og-publikasjonar/Arsrapporter/arsmelding-2016/kapittel-3/.
+
+LDO, tildelingsbrev 2018: https://www.regjeringen.no/contentassets/1dbf3597b082480cb3a9af8d76c3db43/tildelingsbrev-2018-ldo.pdf.
+
+Norges nasjonale institusjon for menneskerettigheter, Årsmelding 2016: http://www.nhri.no/nyhetsarkiv/publisert-les-var-arsmelding-for-2016-article512-28.html.
+
+NTB: Unibuss-saken til Høyesterett, 14. august 2016: https://e24.no/lov-og-rett/korrupsjon/unibuss-saken-til-hoeyesterett/23765577
+
+(lest 29. januar 2018).
+
+Oslo kommune: Varsling om korrupsjon, misligheter og andre lovbrudd: https://www.oslo.kommune.no/politikk-og-administrasjon/politikk/slik-styres-oslo/varsling-om-korrupsjon-misligheter-og-andre-lovbrudd/ (lest 4. februar 2018).
+
+Ottesen, S. (2010). En vond tanke. Kronikk, Aftenposten, 15. mars 2010: https://web-retriever-info-com.ezproxy.library.bi.no/services/archive/displayPDF?documentId=020002201003153175&serviceId=2.
+
+Slettholm, A. (2016): Unibuss-saken: Korrupsjonsalarmen ringte, men de ansvarlige politikerne gjorde ingenting, Kommentar, Aftenposten, 17. august 2016: https://www.aftenposten.no/meninger/kommentar/i/mVLK0/Unibuss-saken-Korrupsjonsalarmen-ringte\_-men-de-ansvarlige-politikere-gjorde-ingenting--Andreas-Slettholm (lest 30. januar 2018).
+
+Tømmerås, O. (2014): Han varslet om korrupsjon i Unibuss i årevis, FriFagbevegelse, 30. oktober 2014: https://frifagbevegelse.no/nyheter/han-varslet-om-korrupsjon-i-unibuss-i-arevis-6.158.190159.27b8cdb3b7 (lest 29. januar 2018).
+
+Varslingsplakaten: Varsling om kritikkverdige forhold i utenrikstjenesten (arbeidsmiljøloven §§ 2-4, 2-5 og 3-6): https://www.regjeringen.no/globalassets/departementene/ud/vedlegg/varsling/ud_varslingsplakat180108.pdf (lest 3. februar 2018).
+
+Utenriksdepartementet, AKAN i Utenrikstjenesten, Retningslinjer for håndtering av rusmiddelbruk, spillavhengighet og annen problematisk avhengighet på arbeidsplassen, gjeldende fra 1.1.2017: https://www.regjeringen.no/globalassets/departementene/ud/vedlegg/varsling/akan_plakat.pdf.
+
+Utenriksdepartementet, Retningslinjer for håndtering av konflikter, trakassering eller annen utilbørlig opptreden, 19. desember 2014: https://www.regjeringen.no/globalassets/departementene/ud/vedlegg/varsling/retningslinjer_trakassering141219.pdf (lest 3. februar 2018).
+
+Utenriksdepartementet, Retningslinjer for håndtering av mistanke om økonomiske misligheter, 18.3.2011: https://www.regjeringen.no/contentassets/29735fe0e53945d694541609ec3adf9f/misligheter_okonomi.pdf (lest 3. februar 2018).
+
+[^1]: Se nærmere utvalgets overordnede vurderinger i kapittel 9 og omtale av Oslo Economics (2017) i punkt 3.4.
+
+[^2]: Saker som avdekker alvorlige misligheter, for eksempel korrupsjon, skal selvsagt avdekkes og bringes inn for relevant myndighet. I korrupsjonssaker bør politi og påtalemyndighet håndtere saken videre.
+
+[^3]: Utvalget har også foretatt andre avgrensninger, se nedenfor i punkt 1.6.
+
+[^4]: Hersh (2002) s. 243 med videre henvisning til Strader (1993).
+
+[^5]: NOU 1999: 27 s. 175.
+
+[^6]: Near og Miceli (1985) s. 4.
+
+[^7]: Ibid.
+
+[^8]: Fafo 2016 I s. 8.
+
+[^9]: \#metoo-kampanjen er et særlig eksempel som ble svært aktuelt i løpet av utvalgets arbeid, se boks 2.1.
+
+[^10]: Near og Miceli (1985) s. 4–5.
+
+[^11]: NOU 1999: 27 s. 176.
+
+[^12]: St.meld. nr. 26 (2003–2004) punkt 4.11.5.
+
+[^13]: NOU 2004: 5 s. 449–450.
+
+[^14]: Ot.prp. nr. 49 (2004–2005) s. 132–133.
+
+[^15]: Ot.prp. nr. 49 (2004–2005) punkt 11.4.2.
+
+[^16]: Ibid. s. 133–134.
+
+[^17]: Innst. O. nr. 100 (2004–2005) punkt 11.2.
+
+[^18]: Arbeids- og inkluderingsdepartementet (2005).
+
+[^19]: Ot.prp. nr. 84 (2005–2006) s. 37-49.
+
+[^20]: Besl. O. nr. 4 (2006–2007) jf. Innst. O. nr. 6 (2006–2007).
+
+[^21]: Innst. O. nr. 6 (2006–2007) punkt 2.5.
+
+[^22]: Arntzen de Besche (2013) og Fafo (2014) I, se mer om disse i punkt 7.2.
+
+[^23]: Eriksen (2016), Del IV s. 327 flg.
+
+[^24]: Oslo Economics (2017) s. 4.
+
+[^25]: Ibid. s. 12.
+
+[^26]: Se nærmere om saken i punkt 8.7.1.
+
+[^27]: Oslo Economics (2017) s. 13.
+
+[^28]: Ibid. s. 21.
+
+[^29]: Ibid. s. 31.
+
+[^30]: Ibid. s. 32.
+
+[^31]: Ibid. s. 34.
+
+[^32]: Ibid. s. 35.
+
+[^33]: Ibid. s. 35.
+
+[^34]: Fafo 2016 I.
+
+[^35]: Oslo Economics (2017) s. 39.
+
+[^36]: Ibid. s. 39–41.
+
+[^37]: Se konkurranseloven kapittel 7.
+
+[^38]: Oslo Economics (2017) s. 40–41.
+
+[^39]: Ibid. s. 43.
+
+[^40]: Ibid. s. 41.
+
+[^41]: Oslo Economics (2017) s. 44.
+
+[^42]: Ibid.
+
+[^43]: Ibid. s. 45.
+
+[^44]: Ibid. s. 48.
+
+[^45]: Ibid. s. 49.
+
+[^46]: Ibid.
+
+[^47]: Ibid. s. 50.
+
+[^48]: Ibid. s. 51.
+
+[^49]: Ibid. s. 54.
+
+[^50]: Ibid. s. 55.
+
+[^51]: Oslo Economics (2017) s. 56.
+
+[^52]: McGunn, Rossi og Fernandes (2017).
+
+[^53]: NOU 1999: 27, punkt 1.2.
+
+[^54]: NOU 1999: 27, punkt 2.2.
+
+[^55]: Ibid., punkt 1.2.
+
+[^56]: Ibid., punkt 1.1.1 Kommisjonens forslag.
+
+[^57]: Ibid.
+
+[^58]: Ot.prp. nr. 84 (2005–2006), punkt 3.2.
+
+[^59]: St.meld. nr. 26 (2003–2004), punkt 4.11.5.
+
+[^60]: Ibid.
+
+[^61]: Ot.prp. nr. 84 (2005–2006), s. 7.
+
+[^62]: Ibid., punkt 8.2.2.2.
+
+[^63]: Ibid. s. 7.
+
+[^64]: Ibid. s. 8.
+
+[^65]: Innst. O. nr. 6 (2006–2007), punkt 2.5 Komiteens merknader.
+
+[^66]: Prop. 72 L (2016–2017), punkt 3.4 og tilråding fra arbeids- og sosialkomiteen i Innst. 303 L (2016–2017) punkt 5 og lovvedtak 93 (2016–2017).
+
+[^67]: Ot.prp. nr. 84 (2005–2006) s. 7 Innledning – sammendrag.
+
+[^68]: Innst. O. nr. 6 (2006–2007), punkt 2.5 Komiteens merknader.
+
+[^69]: Ot.prp. nr. 84 (2005–2006), punkt 8.2.3.1 Hovedregelen: Rett til å varsle.
+
+[^70]: Ibid.
+
+[^71]: Ibid.
+
+[^72]: Ot.prp. nr. 84 (2005–2006), merknad til § 2-4 første ledd (rett til å varsle).
+
+[^73]: I Ot.prp. nr. 84 (2005–2006) merknad til § 2-4 første ledd (rett til å varsle) er dette formulert slik: «I tillegg omfattes alminnelige etiske standarder som det er bred tilslutning til i samfunnet. Hva som er kritikkverdig bør fortolkes i lys av at forholdene normalt bør ha en viss allmenn interesse før arbeidstaker kan gå ut med dem. Forhold som arbeidstaker mener er kritikkverdige ut fra egen politisk eller etisk overbevisning omfattes dermed ikke av bestemmelsen.»
+
+[^74]: Ot.prp. nr. 84 (2005–2006), punkt 8.2.3.1 Hovedregelen: Rett til å varsle.
+
+[^75]: Ibid.
+
+[^76]: Den såkalte Monika-saken fra Hordaland Politidistrikt ble vurdert av advokatfirmaet Wiersholm i rapporten «Monika-saken – Arbeidsgivers håndtering av politietterforsker Robin Schaefers varsel», der gråsonen mellom faglig uenighet og kritikkverdig forhold drøftes slik på s. 74: «Selv om det fra begynnelsen av var elementer i den kritikk Schaefer fremførte som hadde preg av faglig kritikk, er likevel det dominerende i hans alvorlige og grunnleggende bekymring at tjenestens behov var tilsidesatt, og deretter en voksende bekymring for at ledelsen i stedet for å fokusere på å avklare eventuelle mangler i etterforskningen, heller så på Schaefer som et problem. Det Schaefer har tatt opp handler grunnleggende sett om svakheter ved HPDs evne til å løse sitt samfunnsoppdrag. At kritikken nødvendigvis må ha faglige elementer i seg for å være relevant, endrer likevel ikke karakteren av det kritikken i realiteten handler om.» Advokatfirmaet Wiersholm AS ble ved mandat gitt av Justis- og beredskapsdepartementet 16. mars 2015 bedt om å vurdere arbeidsgivers håndtering av politietterforsker Robin Schaefers varsel i den såkalte Monika-saken i Hordaland politidistrikt. Mandatet omfattet bare de arbeidsrettslige sider av saken. De politifaglige og strafferettslige spørsmål er behandlet av Riksadvokaten og Spesialenheten. Se mer om denne saken i punkt 8.7.1.
+
+[^77]: Regelen er en videreføring av tidligere § 2-4 andre ledd og det vises til Ot.prp. nr. 84 (2005–2006) punkt 8.2.3.3 og merknader til § 2-4 andre ledd.
+
+[^78]: Ot.prp. nr. 84 (2005–2006) s. 39. Gjeldende rett før 1. januar 2007 for ytringsfrihet i arbeidsforhold etablert i praksis etter Grunnloven § 100 og den ulovfestede lojalitetsplikten er fremstilt i Ot.prp. nr. 84 (2005–2006) punkt 4.2.
+
+[^79]: Innst. O. nr. 6 (2006–2007), punkt 2.5 Komiteens merknader.
+
+[^80]: Ot.prp. nr. 84 (2005–2006), merknad til § 2-4 andre ledd.
+
+[^81]: Ibid.
+
+[^82]: Ibid.
+
+[^83]: Ibid.
+
+[^84]: Ibid.
+
+[^85]: Rt-2003-1614 (Telenor) avsnitt 46.
+
+[^86]: Ibid.
+
+[^87]: Ot.prp. nr. 84 (2005–2006), merknad til § 2-4 andre ledd.
+
+[^88]: Ibid., punkt 8.2.3.4.
+
+[^89]: Ibid. merknad til § 2-4.
+
+[^90]: Forbudet mot gjengjeldelse er en videreføring av tidligere § 2-5 og det vises til merknaden til denne bestemmelsen i Ot.prp. nr. 84 (2005–2006).
+
+[^91]: Ot.prp. nr. 84 (2005–2006), merknad til § 2-5.
+
+[^92]: Tidligere § 2-5 erstattet tidligere § 2-4 andre ledd i 2007, som i 2005 avløste tidligere § 54 G i arbeidsmiljøloven av 1977.
+
+[^93]: I en dom fra Borgarting lagmannsrett, LB-2009-36995 (Norweld), tok ikke retten standpunkt til den enkelte anførte gjengjeldelseshandling spesifikt. Selv om retten fant at det kunne være uklart hva arbeidstaker konkret var blitt utsatt for, konkluderte den med at det ikke var tvilsomt at arbeidstaker flere ganger var blitt utsatt for ulovlig gjengjeldelse: «Selv om det kan være noe uklart hva A i detalj har blitt utsatt for, er det etter lagmannsretten syn ikke tvilsomt at A flere ganger har blitt utsatt for en ulovlig gjengjeldelse fra F. Tar man i betraktning at det blant fagfolk kan være noe ulike syn på enkelte av de forhold A påpekte, og at F som avdelingsleder må ha anledning til å komme med motytringer, har Fs opptreden overfor A fra kort tid etter tiltredelsen til A ble sykemeldt, likevel karakter av ren trakassering. Det er uomtvistet at arbeidsmiljøet i Oslo ble meget dårlig, og lagmannsretten finner det som mest sannsynlig at dette har sin årsak i at A tok opp kritikkverdige og ulovlige forhold. Selv om man tar i betraktning at A kanskje på enkelte punkter, for F, kan ha fremstått som unødig pirkete, endrer det ikke totalinntrykket av situasjonen, det vil si at F ved sin trakassering overfor A har utøvet en ulovlig gjengjeldelse slik som beskrevet i As e-post til C 8. oktober 2007.»
+
+[^94]: Ot.prp. nr. 84 (2005–2006), merknad til § 2-5.
+
+[^95]: Bestemmelsen i tidligere § 2-5 utvidet anvendelsesområdet for regelen i tidligere § 13-8 om delt bevisbyrde i saker om gjengjeldelse mot arbeidstaker som har tatt opp en diskrimineringssak, og erstattet samtidig denne bestemmelsen.
+
+[^96]: Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) trådte i kraft 1. januar 2018.
+
+[^97]: Arbeidsmiljøloven § 2 A-2 tredje ledd er en videreføring av tidligere § 2-5 tredje ledd. Tidligere § 2-5 tredje ledd erstattet arbeidsmiljøloven § 13-9 andre ledd og utvidet anvendelsesområdet for erstatning til gjengjeldelse mot arbeidstaker som har tatt opp en diskrimineringssak.
+
+[^98]: Ot.prp. nr. 84 (2005–2006), merknad til § 2-5.
+
+[^99]: For mer om erstatningsutmåling, se Ot.prp. nr. 84 (2005–2006), merknad til § 2-5 med videre henvisninger.
+
+[^100]: For mer om rettspraksis, se punkt 4.11 og Arntzen de Besche (2013).
+
+[^101]: LB-2009-36995 (Norweld).
+
+[^102]: LA-2009-57115 (Miljøarbeider).
+
+[^103]: Ot.prp. nr. 84 (2005–2006), merknad til § 2-5 s. 54.
+
+[^104]: Bestemmelsen erstatter tidligere § 3-6 som ble opphevet ved lov 16. juni 2017 nr. 42 (ikr. 1. juli 2017 iflg. res. 16. juni 2017 nr. 752).
+
+[^105]: Regelen i § 2 A-3 første ledd er en videreføring av bestemmelsen i tidligere § 3-6.
+
+[^106]: Regjeringen Solberg foreslo at grensen skulle settes ved virksomheter som jevnlig sysselsetter minst ti arbeidstakere, men stortingsflertallet vedtok at grensen skulle være på fem. Se Prop. 72 L (2016–2017) punkt 3.6, tilråding fra arbeids- og sosialkomiteen i Innst. 303 L (2016–2017) punkt 5 og lovvedtak 93 (2016–2017).
+
+[^107]: Prop. 72 L (2016–2017), merknad til § 2 A-3.
+
+[^108]: Ibid. Etter tidligere § 3-6 skulle arbeidsgiver også vurdere «andre tiltak» som eventuelt kunne være relevante i stedet for varslingsrutiner. Plikten til å vurdere andre tiltak er ikke videreført.
+
+[^109]: Ot.prp. nr. 84 (2005–2006), merknad til § 3-6.
+
+[^110]: Prop. 72 L (2016–2017), merknad til § 2 A-3.
+
+[^111]: Ibid.
+
+[^112]: Ibid.
+
+[^113]: Ibid., punkt 3.6.4.
+
+[^114]: Ibid.
+
+[^115]: Ibid.
+
+[^116]: Personopplysningsloven §§ 11 første ledd bokstav e, 19 og 20.
+
+[^117]: Personopplysningsloven §§ 11 første ledd bokstav c og 13.
+
+[^118]: Prop. 72 L (2016–2017) punkt 3.7, tilråding fra arbeids- og sosialkomiteen i Innst. 303 L (2016–2017) punkt 5 og lovvedtak 93 (2016–2017).
+
+[^119]: For mer om bakgrunn og gjeldende rett før 1. juli 2017 vises det til Arbeids- og sosialdepartementets høringsnotat 20. juni 2016 med forslag til endringer i arbeidsmiljølovens regler om varsling.
+
+[^120]: Prop. 72 L (2016–2017), merknad til § 2 A-4.
+
+[^121]: Ibid.
+
+[^122]: Svartjenesten er Arbeidstilsynets førstelinjetjeneste som gir generell veiledning om arbeidsmiljøloven, tobakkskadeloven og ferieloven. I 2017 var det om lag 92 000 henvendelser fordelt på telefon, e-post, innsynsbegjæringer, Facebook og ung.no. Om lag 60 prosent av henvendelsene var fra arbeidstakere som har spørsmål om ansettelse, oppsigelse, arbeidsavtaler, arbeidstid, ferieloven og manglende utbetalinger fra arbeidsgiver. Nærmere 40 prosent av henvendelsene kom fra arbeidsgivere som ønsket veiledning om arbeidstid, ansettelse og oppsigelse, tilrettelegging for sykmeldte og hvilke krav som stilles til arbeidsutstyr mv.
+
+[^123]: Bestemmelsen gjelder tilsvarende for Petroleumstilsynet, jf. arbeidsmiljøloven § 18-1 andre ledd andre punktum.
+
+[^124]: Ot.prp. nr. 67 (1999–2000), punkt 5.3.2.2.
+
+[^125]: Ved særlig skjerpende omstendigheter kan fengsel i inntil tre år benyttes, jf. § 19-1 andre ledd. I vurderingen av om det foreligger særlig skjerpende omstendigheter skal det særlig vektlegges om overtredelsen har eller kunne ha medført alvorlig fare for liv eller helse, eller om den er foretatt eller fortsatt til tross for pålegg eller henstilling fra offentlig myndighet, vedtak av arbeidsmiljøutvalget eller henstilling fra verneombud eller bedriftshelsetjenesten. Dersom en overtredelse har eller kunne ha medført alvorlig fare for liv eller helse, skjerpes aktsomhetskravet. Arbeidsgiver kan da straffes, med mindre vedkommende har opptrådt fullt forsvarlig i enhver henseende når det gjelder de plikter som følger av loven eller bestemmelser i medhold av loven.
+
+[^126]: I dom inntatt i Rt-1983-176 ble en arbeidstaker ilagt 300 kroner i bot fordi han ikke hadde varslet om eller utbedret en feil eller mangel som han burde forstå kunne medføre fare for liv eller helse og som han selv var i stand til å rette eller utbedre uten større vanskeligheter. Avgjørelsen gjelder arbeidsmiljøloven (1977) § 16 nr. 1 tredje ledd, som tilsvarer arbeidsmiljøloven (2005) § 2-3 andre ledd bokstav b).
+
+[^127]: Ved særlig skjerpende omstendigheter kan fengsel inntil ett år anvendes, jf. § 19-2 tredje ledd.
+
+[^128]: Se også Auglend og Jakhelln (2017) *Varslingsrett, rapporteringsplikt og taushetsplikt*.
+
+[^129]: Ot.prp. nr. 84 (2005–2006), punkt 8.2.3.5 Varslingsplikt og rutiner om varsling.
+
+[^130]: Innst. O. nr. 6 (2006–2007), punkt 2.5 Komiteens merknader.
+
+[^131]: Lov 2. juli 1999 nr. 64 om helsepersonell m.v.
+
+[^132]: Ot.prp. nr. 13 (1998–99), merknad til § 17.
+
+[^133]: Lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip.
+
+[^134]: Prop. 115 L (2012–2013), merknad til § 2-6.
+
+[^135]: Ibid.
+
+[^136]: Ibid., merknad til § 9-7.
+
+[^137]: Ibid., punkt 12.3.2.4.
+
+[^138]: Ibid., merknad til § 2-6.
+
+[^139]: Rt-2000-1602 (Nøkk) s. 1610. Uttalelsen ble fulgt opp i Rt-2001-418 (Kårstø) s. 428.
+
+[^140]: Evju (2010) s. 31.
+
+[^141]: Fougner (2016) s. 148–149.
+
+[^142]: Ibid. s. 163.
+
+[^143]: Skjønberg, Hognestad og Hotvedt (2017) s. 110 og Fougner (2016) s. 158.
+
+[^144]: Fougner (2016) s. 160.
+
+[^145]: Jakhelln (2006) s. 24.
+
+[^146]: Se blant annet Rt-2001-418 (Kårstø) og Rt-2011-841 (Undervisningsinspektør).
+
+[^147]: Fougner (2016) s. 164.
+
+[^148]: Se blant annet Rt-2000-1602 (Nøkk), Rt-2002-1576 (Hakon), Rt-2008-1246 (Statoil), Rt-2009-1465 (Seinvakt) og Rt-2010-412 (Fokus Bank). Se også Hotvedt og Ulseth (2013) s. 112–138.
+
+[^149]: En underrettsavgjørelse om varsling som illustrerer hvordan de alminnelige bestemmelsene utfyller særbestemmelsene om varsling, er en dom i Hardanger tingrett av 19. oktober 2012 (Bygdaheimen). Her understreket retten arbeidsgivers alminnelige handlingsplikt til å håndtere denne type helseskadelige psykososiale fenomen som tillegg til anvendelsen av særbestemmelsen om varslervernet i arbeidsmiljøloven § 2 A-2 (daværende § 2-5).
+
+[^150]: Skjønberg, Hognestad og Hotvedt (2017) s. 59.
+
+[^151]: Wiersholm (2015) s. 93.
+
+[^152]: Kjennelse fra Oslo Byfogdembete 11. september 2007 (RG-2008-53).
+
+[^153]: Ved kjennelse fra Oslo tingrett av 29. september 2005, TOSLO-2004-99016 (Siemens), ble oppsigelsen av A kjent ugyldig, og SBS ble dømt til å betale A en erstatning på kroner 1 500 000. Retten fant det etter en samlet vurdering sannsynliggjort at den egentlige årsak til oppsigelsen var at A hadde varslet Siemens i Tyskland.
+
+[^154]: Kjennelse fra Oslo Byfogdembete 11. september 2007 (RG-2008-53) s. 9.
+
+[^155]: Ibid.
+
+[^156]: Eriksen (2016) s. 241–242.
+
+[^157]: LA-2009-57115 (Miljøarbeider).
+
+[^158]: Ibid. s. 7.
+
+[^159]: Ot.prp. nr. 92 (1998–99) s. 104.
+
+[^160]: Det følger av § 8 at personopplysninger bare kan behandles dersom den opplysningene gjelder har samtykket, dersom det er lovfestet adgang til behandlingen eller dersom behandlingen er nødvendig for et av formålene i bokstav a til f, herunder for «å utføre en oppgave av allmenn interesse» (bokstav d) eller for å «vareta en berettiget interesse» og hensynet til den opplysningene gjelder ikke overstiger denne berettigede interessen (bokstav f).
+
+[^161]: Hva som regnes som sensitive personopplysninger er definert i personopplysningsloven § 2 første ledd nr. 8.
+
+[^162]: Behandling av sensitive personopplysninger vil dermed kunne være lovlig for eksempel fordi det er fastsatt i lov (bokstav b), behandlingen er «nødvendig for å fastsette, gjøre gjeldende eller forsvare et rettskrav» (bokstav e) eller behandlingen er nødvendig for at den behandlingsansvarlige kan «gjennomføre sine arbeidsrettslige plikter eller rettigheter» (bokstav f).
+
+[^163]: Ot.prp. nr. 92 (1998–99) s. 113.
+
+[^164]: Plikten til å rette mangelfulle personopplysninger og forbudet mot å lagre unødvendige personopplysninger er nærmere presisert i personopplysningsloven §§ 27 og 28.
+
+[^165]: Ot.prp. nr. 92 (1998–99) s. 114.
+
+[^166]: Forskrift 15. desember 2000 nr. 1256 om behandling av personopplysninger.
+
+[^167]: Forordning 2016/679 av 27. april 2016 om beskyttelse av fysiske personer med hensyn til behandling av personopplysninger og om fri bevegelighet for slike opplysninger og om oppheving av direktiv 95/46/EF.
+
+[^168]: Ny Personopplysningslov – Gjennomføring av personvernforordningen i norsk rett, høringsnotat 6. juli 2017, snr. 17/4200.
+
+[^169]: Ibid. s. 3.
+
+[^170]: Ibid. s. 50.
+
+[^171]: NOU 2011: 12, punkt 12.3.
+
+[^172]: NOU 2011: 12, punkt 12.2.1.
+
+[^173]: Arntzen de Besche (2013).
+
+[^174]: Ibid. s. 6–7.
+
+[^175]: Ot.prp. nr. 84 (2005–2006) s. 50.
+
+[^176]: TAHER-2009-67427.
+
+[^177]: LA-2009-57115 (Miljøarbeider).
+
+[^178]: LB-2010-40623.
+
+[^179]: LB-2009-137220.
+
+[^180]: LB-2009-36995.
+
+[^181]: LB-2009-137220.
+
+[^182]: TRON-2008-161599.
+
+[^183]: Arntzen de Besche (2013) s. 41–42.
+
+[^184]: Ibid. s. 47.
+
+[^185]: Ibid. s. 10.
+
+[^186]: Ibid. s. 45–47 og 62.
+
+[^187]: Tron Dalheim, advokat og partner i Arntzen de Besche. Presentasjon til Varslingsutvalget 15. februar 2017.
+
+[^188]: http://ec.europa.eu/smart-regulation/roadmaps/docs/plan_2016_241_whistleblower_protection_en.pdf.
+
+[^189]: http://www.europarl.europa.eu/sides/ getDoc.do?type=TA&language=EN&reference=P8-TA-2017-0402.
+
+[^190]: https://www.euractiv.com/section/economy-jobs/news/juncker-promises-eu-law-to-protect-whistleblowers/ (lest 7. mars 2018).
+
+[^191]: United Nations Convention against Corruption.
+
+[^192]: Ot.prp. nr. 53 (2005–2006).
+
+[^193]: Recommendation CM/Rec (2014)7 on the protection of whistleblowers prepared by the European Committee on Legal Co-operating (CDCJ) of the Council of Europe.
+
+[^194]: OECD (2016).
+
+[^195]: Schjødt (2017).
+
+[^196]: Ibid.
+
+[^197]: Direktiv (2014/65/EU).
+
+[^198]: https://lovdata.no/dokument/SF/forskrift/2017-12-04-1913 og https://lovdata.no/dokument/SF/forskrift/2017-12-04-1914.
+
+[^199]: Finansdepartementet i Finland opplyser at det i løpet av mars/april 2018 vil bli nedsatt en arbeidsgruppe om varsling og korrupsjon i tilknytning til et underprosjekt om «den grå økonomien» under Finlands handlingsplan for bekjempelse av korrupsjon. Arbeidsgruppens formål vil være å utrede trygg rapportering om alle former av korrupsjon gjennom en mulig ny rapporteringskanal som ivaretar hensynet til anonymitet og konfidenisalitet.
+
+[^200]: https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2016749-om-sarskilt-skydd-mot-repressalier_sfs-2016-749
+
+[^201]: Whistleblowers Authority, Annual Report 2016.
+
+[^202]: Schjødt (2017).
+
+[^203]: Schjødt (2017).
+
+[^204]: Schjødt (2017).
+
+[^205]: NOU 1999: 27, punkt 4.4.
+
+[^206]: Hind og Fladmoe (2013) s. 55.
+
+[^207]: Prosjektet Status for ytringsfriheten i Norge har munnet ut i en serie rapporter som er åpent tilgjengelige på nettsiden www.ytringsfrihet.no.
+
+[^208]: Enjolras, Rasmussen og Steen-Johansen (2014).
+
+[^209]: Ibid. s. 12–14.
+
+[^210]: Ibid. s. 232–235.
+
+[^211]: Midtbøen, Steen-Johnsen og Thorbjørnsrud (2017a).
+
+[^212]: Midtbøen, Steen-Johnsen og Thorbjørnsrud (2017b).
+
+[^213]: Ibid. s. 10.
+
+[^214]: Fafo 2016 I. Undersøkelsen er også omtalt i punkt 7.3. Her omtales kun funn om hvordan arbeidstakerne vurderte sine ytringsbetingelser.
+
+[^215]: Ibid. s. 24–25.
+
+[^216]: Fafo 2016 II. Undersøkelsen er også omtalt i punkt 7.3. Her omtales kun funn om hvordan arbeidstakerne vurderte sine ytringsbetingelser.
+
+[^217]: Fafo 2014 I.
+
+[^218]: Ibid. s. 69.
+
+[^219]: Fafo 2017 II. Undersøkelsen er også omtalt i punkt 7.3. Her omtales kun funn om hvordan arbeidstakerne vurderte sine ytringsbetingelser.
+
+[^220]: Ibid. s. 48–49.
+
+[^221]: Ledelsesbarometeret er en medlemsundersøkelse i fagforbundet Lederne med svar fra 3262 respondenter i 2016 og 2582 respondenter i 2017.
+
+[^222]: Falkum og Nordrik (2016) s. 38–39.
+
+[^223]: Svar fra 3053 respondenter. Fylkeskommunal/kommunal sektor er også med.
+
+[^224]: Falkum, Ingelsrud og Nordrik (2016).
+
+[^225]: Fafo 2014 II.
+
+[^226]: Arntzen de Besche (2013). Evaluering av varslingsreglene. En gjennomgang og analyse av rettspraksis og Sivilombudsmannens praksis. Rapport til Arbeidsdepartementet.
+
+[^227]: Arntzen de Besche (2013) s. 7.
+
+[^228]: Ibid.
+
+[^229]: Arntzen de Besche (2013) s. 61.
+
+[^230]: Ibid. s. 7.
+
+[^231]: Fafo 2017 I.
+
+[^232]: Se blant annet Fafo 2016 I s. 8 med videre henvisninger.
+
+[^233]: Forsker ved University of Greenwich, ekspert for Transparancy International og Europarådet.
+
+[^234]: Fafo 2017 I s. 16 med videre henvisning til Vandekerckhove (2010).
+
+[^235]: Se drøfting i Eriksen (2016), punkt 6.5.4.
+
+[^236]: Matthiesen, Bjørkelo og Nielsen (2008).
+
+[^237]: Fafo 2010 s. 41 flg. og Fafo 2016 I s. 26 flg.
+
+[^238]: Fafo 2014 II s. 201.
+
+[^239]: Se Matthiesen, Bjørkelo og Nielsen (2008), Fafo 2010 og Fafo 2016 I.
+
+[^240]: Fafo 2014 I.
+
+[^241]:
+    |  |  |  |  |  |  |  |
+    |----|----|----|----|----|----|----|
+    | Undersøkelse | LKU 2006 | Fafo 2010 | Fafo 2014 I | LKU 2016 | Fafo 2016 I | Fafo 2017 II |
+    |  |  |  |  |  |  |  |
+    | Andel som har observert kritikkverdige forhold | 25 % | 34 % | 19 % | 15 % | 16 % | 21 % |
+    |  |  |  |  |  |  |  |
+    | Antall respondenter i undersøkselen | 9 200 | 6 000 | 2 152 | 7 791 | 3 155 | 1 232 |
+    |  |  |  |  |  |  |  |
+    | Omfang | Hele arbeidslivet | Hele arbeidslivet | Hele arbeidslivet | Hele arbeidslivet | Hele arbeidslivet | Kommuner og fylkeskommuner |
+    |  |  |  |  |  |  |  |
+
+    Fafo 2017 II.
+
+[^242]: SSBs levekårsundersøkelse om arbeidsmiljø 2016 (LKU 2016).
+
+[^243]: Fafo 2017 I s. 30.
+
+[^244]: Fafo 2017 I s. 32.
+
+[^245]: Fafo 2016 II. Se også punkt 7.1.
+
+[^246]: Fafo 2017 I s. 35.
+
+[^247]: Se nærmere henvisninger i Fafo 2017 I s. 33 flg.
+
+[^248]: Brown (2008).
+
+[^249]: Miceli og Near (2013).
+
+[^250]: I levekårsundersøkelsene var spørsmålet om man hadde varslet formulert slik: «Sa du fra om noen av disse/denne handlingen(e) videre til noen som du mente kunne stoppe det?» Her ble kritikkverdig forhold definert som «handlinger som er så kritikkverdige at de burde stoppes». I Fafo-undersøkelsene var spørsmålet om man hadde varslet formulert slik: «Du har svart at du har opplevd/avdekket følgende kritikkverdige forhold (listet opp) de siste 12 månedene som burde være stoppet. Varslet du om ett eller flere av disse forholdene?»
+
+[^251]:
+    |  |  |  |  |  |  |  |
+    |----|----|----|----|----|----|----|
+    | Undersøkelse | LKU 2006 | Fafo 2010 | Fafo 2014 I | LKU 2016 | Fafo 2016 I | Fafo 2017 II |
+    |  |  |  |  |  |  |  |
+    | Andel som har rapportert (varslet) om kritikkverdige forhold | 78 % | 53 % | 62 % | 75 % | 53 % | 60 % |
+    |  |  |  |  |  |  |  |
+    | Antall respondenter i undersøkelsen | 9 200 | 6 000 | 2 152 | 7 791 | 3 155 | 1 232 |
+    |  |  |  |  |  |  |  |
+    | Omfang | Hele arbeidslivet | Hele arbeidslivet | Hele arbeidslivet | Hele arbeidslivet | Hele arbeidslivet | Kommuner og fylkeskommuner |
+    |  |  |  |  |  |  |  |
+
+    Fafo 2016 II s. 42.
+
+[^252]: Fafo 2017 I s. 42 flg.
+
+[^253]: Matthiesen (2016).
+
+[^254]: Miceli og Near (2013).
+
+[^255]: Fafo 2017 I s. 41 flg. med videre henvisninger.
+
+[^256]: Ibid.
+
+[^257]: Ibid.
+
+[^258]: Ibid. s. 43 med videre henvisninger.
+
+[^259]: Fafo 2017 I s. 45.
+
+[^260]: Ibid.
+
+[^261]: Mesmer-Magnus og Viswesvaran (2005).
+
+[^262]: Fafo 2017 I s. 44–45 med henvisning til Bjørkelo (2010).
+
+[^263]: Ibid.
+
+[^264]: Matthiesen (2016).
+
+[^265]: Miceli, Near og Dworkin (2008).
+
+[^266]: Schein (2010).
+
+[^267]: Fafo 2017 I s. 40 flg.
+
+[^268]: Fafo 2016 I s. 35.
+
+[^269]: Fafo 2017 II s. 85.
+
+[^270]: Ibid. s. 84.
+
+[^271]: Fafo 2017 I s. 40 med videre henvisninger.
+
+[^272]: Ibid.
+
+[^273]: Ibid. s. 50.
+
+[^274]: Fafo 2016 I s. 40.
+
+[^275]: Ibid.
+
+[^276]: Ibid.
+
+[^277]: Skivenes og Trygstad (2015) og Fafo 2010.
+
+[^278]: Fafo 2017 I s. 51.
+
+[^279]: SSB, LKU 2016.
+
+[^280]: Fafo 2016 I s. 41–42.
+
+[^281]: Ibid. figur 5.3.
+
+[^282]: Fafo 2010, Fafo 2014 I og Fafo 2016 I s. 41.
+
+[^283]: Ot.prp. nr. 84 (2005–2006) s. 52.
+
+[^284]: Se for eksempel Bjørkelo (2010).
+
+[^285]: For en nærmere diskusjon, se Matthiesen, Bjørkelo og Burke (2011).
+
+[^286]: Bjørkelo (2010).
+
+[^287]: Fafo 2017 I.
+
+[^288]: Fafo 2016 I s. 45–46.
+
+[^289]: Fafo 2016 I s. 36.
+
+[^290]: Trygstad og Ødegård (2018) *Varsling i norsk arbeidsliv. Den det varsles om, mottak og håndtering*. Fafo-notat 2018:06 (Fafo 2018).
+
+[^291]: Se nærmere i Fafo 2018, kapittel 2, for utdypende informasjon om metode og utvalg.
+
+[^292]: Fafo 2018.
+
+[^293]: Fafo 2016 I s. 48 flg.
+
+[^294]: Ibid.
+
+[^295]: Ibid.
+
+[^296]: Fafo 2017 I s. 23.
+
+[^297]: Fafo 2014 II.
+
+[^298]: Fafo 2014 II s. 192–193.
+
+[^299]: Fafo 2017 I s. 27–28 med videre henvisninger.
+
+[^300]: Ibid.
+
+[^301]: Lewis, D’Angelo og Clarke (2015) s. 13.
+
+[^302]: Arbeidsmiljøloven kapittel 6 gir regler om verneombud.
+
+[^303]: Arbeidsmiljøloven § 6-2 første ledd.
+
+[^304]: Fafo 2016 I s. 35.
+
+[^305]: Ibid. s. 27–29.
+
+[^306]: Ibid. s. 48.
+
+[^307]: Ibid. s. 35.
+
+[^308]: Ibid. s. 27–29.
+
+[^309]: Ibid. s. 48.
+
+[^310]: Beskrivelsen er basert på informasjon gitt på nettsiden www.arbeidstilsynet.no.
+
+[^311]: Arbeidsmiljøloven kapittel 7 gir regler om arbeidsmiljøutvalg.
+
+[^312]: Beskrivelsen er basert på informasjon gitt på nettsiden www.arbeidstilsynet.no.
+
+[^313]: Det er gitt regler om BHT i arbeidsmiljøloven § 3-3 og forskrift om organisering, ledelse og medvirkning kapittel 13. Oversikt over godkjente bedriftshelsetjenester finnes på www.arbeidstilsynet.no.
+
+[^314]: Forskrift om organisering, ledelse og medvirkning § 13-1.
+
+[^315]: Nergaard (2018) *Organisasjonsgrader i norsk arbeidsliv 2016* s. 9.
+
+[^316]: Ibid. s. 11.
+
+[^317]: Ibid. s. 23.
+
+[^318]: Sivilombudsmannens årsmelding for 2016, s. 49.
+
+[^319]: Avsnittet er basert på NOU 2017: 8, punkt 4.2.
+
+[^320]: Difi-rapport 2014:2.
+
+[^321]: Svartjenesten er Arbeidstilsynets førstelinjetjeneste som gir generell veiledning om arbeidsmiljøloven, tobakkskadeloven og ferieloven. I 2017 var det ca. 92 000 henvendelser fordelt på telefon, e-post, innsynsbegjæringer, Facebook og ung.no. 60 prosent av henvendelsene var fra arbeidstakere som hadde spørsmål om ansettelse, oppsigelse, arbeidsavtaler, arbeidstid, ferieloven og manglende utbetalinger fra arbeidsgiver. Nærmere 40 prosent av henvendelsene kom fra arbeidsgivere som ønsket veiledning om arbeidstid, ansettelse og oppsigelse, tilrettelegging for sykemeldte, hvilke krav som stilles til arbeidsutstyr mv.
+
+[^322]: I dette prosjektet har fjorten offentlige myndigheter jobbet frem en felles handlingsplan for perioden 2018–2020 for å bedre samhandlingen om varsling, se sluttrapport Offentlige myndigheter og bedre samhandling om varsling januar 2018. Prosjektmålet er at offentlige myndigheter skal ta imot varsel slik at varselets faglige innhold kommer frem til riktig myndighet og sikre at varsleren får hensiktsmessig veiledning. Deltakere er Arbeidstilsynet, Datatilsynet, Finanstilsynet, Fylkesmannen representert ved fylkesmannen i Rogaland, Konkurransetilsynet, Likestillings- og diskrimineringsombudet, Luftfartstilsynet, Mattilsynet, Miljødirektoratet, Petroleumstilsynet, Skattedirektoratet, Statens helsetilsyn, Statens jernbanetilsyn og ØKOKRIM.
+
+[^323]: Beskrivelsen er basert på informasjon gitt på nettsiden www.konfliktraadet.no og opplysninger fra sekretariatet for konfliktrådene.
+
+[^324]: Konfliktrådets virksomhet er regulert i konfliktrådsloven og tilhørende forskrift.
+
+[^325]: Tall fra Domstolsadministrasjonen 27.02.18.
+
+[^326]: Arntzen de Besche (2013).
+
+[^327]: Near og Miceli (1985).
+
+[^328]: Swartz og Watkins (2003).
+
+[^329]: Miceli, Near og Dworkin (2008).
+
+[^330]: Matthiesen og Bjørkelo (2008).
+
+[^331]: Mesmer-Magnus og Viswesvaran (2005).
+
+[^332]: Schein (2010).
+
+[^333]: Argyris og Schön (1974).
+
+[^334]: Matthiesen (2016).
+
+[^335]: Near og Miceli (1996).
+
+[^336]: Miethe (1999).
+
+[^337]: Matthiesen, Bjørkelo og Nielsen (2008).
+
+[^338]: French, Raven og Cartwright (1959).
+
+[^339]: Near og Miceli (1996).
+
+[^340]: Matthiesen, Bjørkelo og Nielsen (2008).
+
+[^341]: Miethe (1999).
+
+[^342]: Se Fafo 2016 I og Fafo 2017 I.
+
+[^343]: Rehg, Miceli, Near og Van Scotter (2008).
+
+[^344]: Williams (2007).
+
+[^345]: Lennane (1993).
+
+[^346]: McDonald og Ahern (2000).
+
+[^347]: Fafo 2017 I.
+
+[^348]: Fafo 2016 I.
+
+[^349]: Matthiesen, Bjørkelo og Nielsen (2008).
+
+[^350]: Baumeister, Bratslavsky, Finkenauer og Vohs (2001).
+
+[^351]: Bjørkelo (2010).
+
+[^352]: Se bl.a. Lennane (1993), McDonald og Ahern (2000) og Rothschild og Miethe (1999).
+
+[^353]: Lennane og De Maria (1998).
+
+[^354]: Bjørkelo (2010).
+
+[^355]: Bjørkelo, Einarsen, Nielsen og Matthiesen (2011).
+
+[^356]: Miceli og Near (1992).
+
+[^357]: Se for eksempel Alford (1999) og Monsen (2008).
+
+[^358]: The Government Accountability Project, GAP, er en organisasjon for å beskytte og forsvare varslere i USA. https://www.whistleblower.org/.
+
+[^359]: Devine og Maassarani (2011) s. 19–40.
+
+[^360]: Near (1995).
+
+[^361]: Matthiesen, Bjørkelo og Nielsen (2008).
+
+[^362]: Fafo 2017 I.
+
+[^363]: Ibid.
+
+[^364]: Dagens Medisin, 24. januar 2002.
+
+[^365]: Halvorsen (2000).
+
+[^366]: Ottesen (2010).
+
+[^367]: Monsen (2008).
+
+[^368]: Soeken og Soeken (1987).
+
+[^369]: Transaksjonsorienterte ledere.
+
+[^370]: Matthiesen, Knudsen og Susegg (2013).
+
+[^371]: Gerhardsen (1931/ 2000) og Gerhardsen (2006).
+
+[^372]: House (1981).
+
+[^373]: Greene og Latting (2004).
+
+[^374]: Bjørkelo, Matthiesen og Einarsen (2008).
+
+[^375]: Matthiesen (2016).
+
+[^376]: Miceli, Near, Rehg og Van Scotter (2012).
+
+[^377]: Fremstillingen av de faktiske forhold i forbindelse med Schaefers varsling er basert på Wiersholms rapport *«Monika-saken» – Arbeidsgivers håndtering av Robin Schaefers varsling*, rapport av 25. juni 2015 til Justis- og beredskapsdepartementet etter mandat gitt 16. mars 2015.
+
+[^378]: Som følge av beslutningen om gjenåpning, ble en ny etterforskning satt i gang og 20. oktober 2014 ble en person pågrepet, og saken ble klassifisert som drap. Den aktuelle personen ble senere dømt for drap.
+
+[^379]: Schaefer (2015).
+
+[^380]: Wiersholm (2015).
+
+[^381]: Slettholm Andreas, *Unibuss-saken: Korrupsjonsalarmen ringte, men de ansvarlige politikerne gjorde ingenting*, Aftenposten 17. august 2016.
+
+[^382]: NTB, Unibuss-saken til Høyesterett, 14. august 2016.
+
+[^383]: Tømmerås Ola, *Han varslet om korrupsjon i Unibuss i årevis*, FriFagbevegelse 30. oktober 2014.
+
+[^384]: Fritt Ord, Fritt Ords Pris 2015 til Robin Schaefer og Jan Erik Skog, 2. mars 2015.
+
+[^385]: Fremstillingen av de faktiske forholdene er basert på Borgarting lagmannsretts dom 8. oktober 2009, LB-2009-36995.
+
+[^386]: LB-2009-36995.
+
+[^387]: Saken er omtalt andre steder som miljøarbeider-dommen.
+
+[^388]: Fremstillingen av de faktiske forholdene er basert på Agder lagmannsretts dom 2. november 2009, LA-2009-57115.
+
+[^389]: Forsvarsdepartementet, Retningslinjer for varsling i forsvarssektoren, 8. januar 2015.
+
+[^390]: Varsling om kritikkverdige forhold i utenrikstjenesten (arbeidsmiljøloven §§ 2-4, 2-5 og 3-6).
+
+[^391]: Utenriksdepartementet, AKAN i Utenrikstjenesten, Retningslinjer for håndtering av rusmiddelbruk, spillavhengighet og annen problematisk avhengighet på arbeidsplassen, gjeldende fra 1.1.2017.
+
+[^392]: Utenriksdepartementet, Retningslinjer for håndtering av konflikter, trakassering eller annen utilbørlig opptreden, 19.12.2014.
+
+[^393]: Utenriksdepartementet, Retningslinjer for håndtering av mistanke om økonomiske misligheter, 18.3.2011.
+
+[^394]: Braathen Ellen Cecilie og Dhall Nitika, Oslo kommunes varslingsordning, presentasjon for Varslingsutvalget 21. november 2017.
+
+[^395]: Oslo kommune, Varsling om korrupsjon, misligheter og andre lovbrudd.
+
+[^396]: Sandnes kommune, Etiske retningslinjer og varslingsrutiner.
+
+[^397]: Lindås kommune, Rettleiar for tilsette som vil varsle om kritikkverdige forhold i Lindås kommune.
+
+[^398]: SAS, Varsling om interne forhold, publisert 23. mars 2012, sist endret 1. juli 2017.
+
+[^399]: Fafo 2016 I.
+
+[^400]: NOU 1999: 27 s. 130.
+
+[^401]: Oslo Economics (2017).
+
+[^402]: Fafo 2017 II s. 51–53.
+
+[^403]: Fafo 2018.
+
+[^404]: Fafo 2016 I.
+
+[^405]: Ot.prp. nr. 84 (2005–2006) s. 52.
+
+[^406]: Fafo 2016 I.
+
+[^407]: Ibid.
+
+[^408]: Oslo Economics (2017) s. 4.
+
+[^409]: Også i forskningen beskrives ofte varsling som en prosess som består av ulike faser, se f.eks. Bjørkelo (2010). På grunnlag av sitt mandat tar utvalgets beskrivelse av den ideelle varslingsprosessen utgangspunkt i prosessen for å håndtere varselet, det kritikkverdige forholdet, og ikke i hvilke faser varsleren går gjennom.
+
+[^410]: Fafo 2016 I.
+
+[^411]: Oslo Economics (2017) s. 42.
+
+[^412]: Fafo 2016 I.
+
+[^413]: Oslo Economics (2017) s. 31.
+
+[^414]: Mediefridomslova trådte i kraft 1. januar 2009. Den lovfester kjernen i Redaktørplakaten, formulert i § 4:
+
+    «Innanfor ramma av grunnsynet og føremålet til verksemda skal redaktøren leie den redaksjonelle verksemda og ta avgjerder i redaksjonelle spørsmål.
+
+    Eigaren av medieføretaket eller den som på eigaren sine vegner leier føretaket, kan ikkje instruere eller overprøve redaktøren i redaksjonelle spørsmål, og kan heller ikkje krevje å få gjere seg kjend med skrift, tekst eller bilete eller høyre eller sjå programmateriale før det blir gjort allment tilgjengeleg.»
+
+[^415]: Vær Varsom-plakaten er de redaktørstyrte medienes egne etiske retningslinjer, utarbeidet og forvaltet av mediene selv, gjennom Norsk Presseforbund og Pressens Faglige Utvalg (PFU). Sistnevnte mottar og behandler klager fra publikum mot mediene. Den første Vær Varsom-plakaten ble vedtatt i 1936. Den er revidert og modernisert en rekke ganger. Plakaten har fire kapitler: Pressens samfunnsrolle, Integritet og troverdighet, Journalistisk atferd og forholdet til kildene, Publiseringsregler. Det er særlig i de to siste kapitlene vi finner de punktene som er interessante for dem som blir utsatt for det de mener er urettmessig omtale i mediene. I kapitlet om journalistisk atferd og forholdet til kildene finner vi blant annet retningslinjer om kildevern, kildekritikk og opplysningskontroll, hensynet til kilder i ubalanse og bruk av skjulte metoder. Blant publiseringsreglene omtales blant annet privatliv, forhåndsdom, hensynet til ofre og pårørende, identifisering, omtale av barn og retten til samtidig imøtegåelse og tilsvar.
+
+[^416]: Advokatforeningens retningslinjer for private granskninger.
+
+[^417]: Fafo 2017 I.
+
+[^418]: Oslo Economics (2017) s. 55.
+
+[^419]: Prop. 1 S (2017–2018) Arbeids- og sosialdepartementet, s. 208-209.
+
+[^420]: I internasjonal litteratur omtales en ny gruppe, såkalte «bell ringers», som i likhet med «whistleblowers» har en varslingsfunksjon, men som ikke er arbeidstakere eller andre innsidere som har tilknytning til organisasjonen slik som whistleblowers. Se Brown m.fl. (2014) s. 71–73.
+
+[^421]: Ot.prp. nr. 49 (2004–2005) s. 69.
+
+[^422]: Arntzen de Besche (2013) og Fafo 2014 II.
+
+[^423]: Fafo 2016 II. Rapporten presenterer en undersøkelse blant medlemmer i sju fagforbund: Norsk Sykepleierforbund, Den norske legeforening, Forbundet for Ledelse og Teknikk (FLT), Utdanningsforbundet, Norsk Tjenestemannslag (NTL), Juristforbundet og Politiets Fellesforbund. Se også omtale i Fafo 2017 I.
+
+[^424]: Tobakkskadeloven § 25.
+
+[^425]: Ot.prp. nr. 49 (2004–2005) s. 72.
+
+[^426]: Ot.prp. nr. 84 (2005–2006) s. 33.
+
+[^427]: Prop. 72 L (2016–2017) s. 11.
+
+[^428]: Norges nasjonale institusjon for menneskerettigheter, Årsmelding 2016.
+
+[^429]: Arbeids- og sosialdepartementets høringsbrev datert 23.12.2005: Høring – forslag til nye regler om ansattes ytringsfrihet/varsling. Forslaget ble fremmet på grunnlag av rapporten Ansattes ytringsfrihet, som ble laget i regi av Arbeids- og sosialdepartementet i 2005.
+
+[^430]: Ot.prp. nr. 84 (2005–2006) s. 36–37.
+
+[^431]: Europarådets rekommandasjon punkt II, Personal scope:
+
+    «3. The personal scope of the national framework should cover all individuals working in either the public or private sectors, irrespective of the nature of their working relationship and whether they are paid or not.
+
+    4\. The national framework should also include individuals whose work–based relationship has ended and, possibly, where it is yet to begin in cases where information concerning a threat or harm to the public interest has been acquired during the recruitment process or other pre-contractual negotiation stage.»
+
+[^432]: Recommendation CM/Rec (2014)7 on the protection of whistleblowers prepared by the European Committee on Legal Co-operating (CDCJ) of the Council of Europe.
+
+[^433]: Prop. 72 L (2016–2017) s. 16.
+
+[^434]: En slik forståelse av virkeområdet er lagt til grunn i en lagmannsrettsdom inntatt i RG-2008-53, der et krav om innsyn i arbeidstakers e-post etter at arbeidsforholdet var avsluttet, ble ansett som en fortsettelse av gjengjeldelsen mot arbeidstaker, som startet mens arbeidsforholdet fremdeles bestod.
+
+[^435]: Utgangspunktet i et entrepriseforhold er gjerne at en underentreprenør bringer med seg sine egne arbeidstakere for å utføre et arbeid på oppdrag fra en oppdragsgiver. Underentreprenøren har ansvaret for resultatet av det arbeidet som utføres. Se Prop. 74 L (2011–2012) s. 26.
+
+[^436]: Nergaard (2016).
+
+[^437]: Nergaard (2017).
+
+[^438]: Alsos, Jesnes, Sletvold Øistad og Nesheim (2017) s. 7–9.
+
+[^439]: Rt-2013-998 (Statoil).
+
+[^440]: Prop. 72 L (2016–2017) s. 17.
+
+[^441]: Jf. Prop. 1 S (2017–2018) Arbeids- og sosialdepartementet, s. 217: «Departementet vil igangsette et arbeid for å utrede hvorvidt utsendte arbeidstakere skal omfattes av reglene om varsling. Temaet reiser ulike problemstillinger som må avklares nærmere, særlig knyttet til det EØS-rettslige handlingsrommet og håndheving av varslingsreglene når det gjelder utsendte arbeidstakere. Regjeringen vil komme tilbake til Stortinget på egnet måte etter departementets utredning.»
+
+[^442]: Ot.prp. nr. 84 (2005-2006) s. 37
+
+[^443]: Se for eksempel LA-2209-57115 (Miljøarbeider) og LB-2008-184575.
+
+[^444]: Ot.prp.nr. 84 (2005–2006) s. 50.
+
+[^445]: Ibid. s. 37.
+
+[^446]: Arntzen de Besche (2013).
+
+[^447]: En slik forståelse av hva som er å anse som «kritikkverdige forhold» er lagt til grunn i en lagmannsrettsdom, LB-2008-184675, der en klage fra en arbeidstaker på oppsetting av vaktlister og avregning av timer, samt manglende betaling av overtid ble ansett som et varsel etter arbeidsmiljølovens regler, og der retten uttaler at: «Selv om forholdene kan sies å dreie seg om hans eget arbeidsforhold, er det av en slik generell art at det også dreier seg om varsling om forhold som A fant kritikkverdige.»
+
+[^448]: Employment Rights Act (ERA), se også punkt 6.3.2.
+
+[^449]: Ot.prp. nr. 84 (2004–2005) s. 38.
+
+[^450]: Ibid. s. 50.
+
+[^451]: Ibid. s. 51.
+
+[^452]: Ot.prp. nr. 84 (2005–2006) s. 50.
+
+[^453]: Ot.prp. nr. 84 (2005–2006) s. 39 og Innst. O. nr. 6 (2006–2007) s. 11–12.
+
+[^454]: Arntzen de Besche (2013) s. 42.
+
+[^455]: Ot.prp.nr. 84 (2005–2006) s. 40.
+
+[^456]: Ibid. s. 51
+
+[^457]: Ot.pr. nr. 84 (2005–2006) s. 52.

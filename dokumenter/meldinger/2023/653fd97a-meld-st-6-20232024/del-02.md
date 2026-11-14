@@ -1,971 +1,270 @@
-# Meld. St. 6 (2023–2024), del 2 av 17 (side 17–27)
+# Meld. St. 6 (2023–2024), del 2 av 18
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2023/653fd97a-meld-st-6-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-6-20232024/id3018556/
 - Original-PDF: https://www.regjeringen.no/contentassets/5d8550e1045d4f8684acdf893bd10b50/no/pdfs/stm202320240006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 21 tabeller, 58 figurer, 843 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 17]
+# Innledning og sammendrag
 
-2023–2024
+## Innledning
 
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
+Folketrygden utgjør en hovedpilar i velferdsstaten og er det bærende elementet i det samlede pensjonssystemet. Det grunnleggende formålet er å gi den enkelte økonomisk og sosial trygghet når det ikke lenger kan forventes at man kan forsørge seg selv ved eget arbeid. Pensjonssystemet må sikre en trygg og verdig alderdom for alle, og befolkningen må ha tillit til at systemet også i framtiden vil innfri sine pensjonsløfter. Regjeringen mener det er avgjørende at hovedelementene i pensjonsreformen ligger fast for at systemet også i framtiden skal kunne gi økonomisk og sosial trygghet. Regjeringen ser behov for tiltak som styrker den sosiale bærekraften framover, samtidig som dette må avveies mot den økonomiske bærekraften.
 
-organisasjoner. Reguleringsreglene ble endret med
-pensjonsreformen og innebar fram til 2022 at
-alderspensjon under utbetaling ble regulert med
-lønnsveksten fratrukket 0,75 prosent, og at opptjente rettigheter ble regulert med lønnsveksten.
-Regjeringen mener det er viktig at reguleringsreglene sikrer forutsigbarhet for den enkelte og for
-staten. Pensjonsrettighetene tjenes opp og utbetales over lang tid. For å sikre forutsigbarhet er det
-viktig med klare regler og prinsipper for hvordan
-verdien av pensjonsrettighetene skal reguleres,
-både mens pensjonen tjenes opp og når den utbetales. Regjeringen slutter seg derfor til Pensjonsutvalgets vurdering om at reguleringen av pensjoner bør være fullt ut regelstyrt og at den ikke
-egner seg til forhandlinger. Flertallet av høringsinstansene stiller seg også bak at den årlige reguleringen skal være fullt ut regelstyrt og at reguleringen ikke skal være åpen for forhandlinger.
-Regjeringen er tilfreds med at et samlet Storting i 2022 vedtok å legge om reguleringsreglene
-for løpende pensjoner til gjennomsnittet av lønnsog prisveksten, og viser til at den brede støtten til
-endringen både i Stortinget og blant høringsinstansene er et tegn på at man nå har en modell
-som fungerer godt, og som vil kunne stå seg over
-tid. Regjeringen støtter også Pensjonsutvalgets
-vurdering av at endringen ikke gjør det nødvendig
-med tilpasninger i øvrig regelverk, men at dette
-bør vurderes i framtidige evalueringer av pensjonssystemet. De vedtatte reglene gir en jevnere
-regulering, og pensjonistene blir skjermet fra en
-negativ utvikling i kjøpekraft i år med lav reallønnsvekst, samtidig som de er sikret en del av
-den generelle velstandsutviklingen i samfunnet.
-Reglene hindrer at pensjonistene taper kjøpekraft
-mange år på rad når arbeidstakerne ikke taper
-kjøpekraft. De nye reguleringsreglene er derimot
-mindre gunstige for pensjonistene enn de gamle
-reglene i år med høy reallønnsvekst. Regjeringen
-mener disse egenskapene gir en regulering av
-pensjonene som i større grad ivaretar pensjonistenes behov for en forutsigbar inntektsutvikling,
-samtidig som dagens pensjonister fortsatt bidrar
-til pensjonssystemets økonomiske bærekraft.
+Folketrygdens alderspensjon skal ivareta målet om trygghet både i form av en grunnsikring og en standardsikring. Grunnsikringen innebærer at alle er garantert et minstenivå på inntekten som pensjonist. Sammen med skattesystemet bidrar dette til sosial omfordeling og til å sikre gode levekår for alle. Dette er hensyn som står sentralt i den norske velferdsmodellen, og som har bred politisk oppslutning. Samtidig må pensjonssystemet stimulere til arbeidsdeltaking. Dette ivaretas av standardsikringen, som innebærer at pensjonen skal stå i et rimelig forhold til tidligere arbeidsinntekt. Når den enkelte får pensjonsmessig uttelling for arbeid, bidrar det også til å opprettholde legitimiteten og betalingsviljen for folketrygdens alderspensjon som bærebjelken i det samlede pensjonssystemet. Det er bred politisk enighet om at personer som har vært i jobb skal ha en høyere pensjon enn de som ikke har det.
 
-1.3.7
+Regjeringen mener pensjonsreformen har vært nødvendig for å sikre fortsatt god pensjon for kommende generasjoner. Arbeidskraften er vår klart viktigste ressurs, og et viktig mål med pensjonsreformen er å stimulere til lengre yrkeskarrierer. Yrkesaktiviteten i eldre aldersgrupper har økt etter reformen i 2011, i tråd med målsettingen, selv om også andre forhold har bidratt til dette. Pensjonsreformens langsiktige hovedmålsetting er å styrke pensjonssystemets økonomiske og sosiale bærekraft. For å sikre et robust og forutsigbart pensjonssystem, er det viktig at reformens hovedprinsipper ligger fast. Det forutsetter at systemet har bred politisk oppslutning over tid.
 
-Aldersgrensene (kapittel 8)
+Regjeringens forslag i denne stortingsmeldingen følger opp forslag fra Pensjonsutvalget som ble nedsatt for å evaluere pensjonsreformen som ble innført i 2011. Utvalget fikk i oppdrag å beskrive pensjonssystemet og evaluere om de langsiktige målene i reformen vil kunne nås. Videre skulle utvalget se på mulige justeringer for å sikre pensjonssystemets økonomiske og sosiale bærekraft.
+
+Pensjonsreformen ble innledet med nedsettelsen av en bredt sammensatt Pensjonskommisjon, hvor både medlemmer fra de politiske partiene og fageksperter deltok. Reformen ble vedtatt etter to brede forlik i Stortinget. Viljen og evnen til å søke slike brede, langsiktige løsninger er en styrke ved vårt felleskap. Pensjonsutvalget, satt ned av Regjeringen Solberg i juni 2020, hadde en tilsvarende sammensetning som Pensjonskommisjonen. Pensjonsutvalget viser selv til at deres tilrådinger er ment som et innspill til et nytt bredt pensjonsforlik.
+
+Pensjonsutvalget er samstemte i de fleste vurderingene og står samlet bak de fleste forslagene. I oppfølgingen av utvalgets arbeid har regjeringen lagt vekt på å bygge videre på dette, med sikte på å befeste den tverrpolitiske oppslutningen om pensjonsreformen. Regjeringens forslag til endringer som skisseres i denne meldingen er ment som et grunnlag for et nytt bredt pensjonsforlik.
+
+Pensjonsbeslutninger er langsiktige. Beslutninger om pensjonsregler som tas i dag, vil ofte først få virkning på lengre sikt. Langsiktigheten tilsier at konsekvenser av systemendringer bør vurderes nøye. Samtidig er samfunnet i konstant utvikling, noe som tilsier at det jevnlig vil være behov for å oppdatere kunnskapsgrunnlaget som ligger til grunn for pensjonsreformen. Flere av Pensjonsutvalgets tilrådinger er betinget av at det følges med på utviklingen framover. Videre peker utvalget på at det kan være hensiktsmessig med jevnlige, brede evalueringer av pensjonsreformen og det nye pensjonssystemet. Regjeringen støtter Pensjonsutvalgets vurdering og mener slike evalueringer kan bidra til økt stabilitet og til å forebygge hyppige justeringer som gjennomføres uten at de langsiktige konsekvensene er belyst. Pensjonssystemet er komplisert, og endringer i én del av systemet kan ha utilsiktede konsekvenser for andre deler. Det er derfor viktig at endringer gjøres på bakgrunn av vurderinger av hvordan det vil påvirke helheten i pensjonssystemet på kort og lang sikt, for å ivareta både den sosiale og den økonomiske bærekraften.
+
+## Hovedpunkter i regjeringens forslag
+
+Regjeringen slutter seg i all hovedsak til forslagene fra flertallet i Pensjonsutvalget, men ser behov for mindre justeringer og videre utredninger på enkelte punkter. Hovedformålet med forslagene som varsles i denne meldingen er å styrke den sosiale profilen i folketrygdens alderspensjon, som er kjernen i det samlede pensjonssystemet. Endringene vil øke de framtidige utgiftene, men regjeringen mener at forslagene vil gi et forbedret pensjonssystem, med en bedre balanse mellom økonomiske og sosiale hensyn.
+
+De sentrale forslagene er:
+
+- Aldersgrensene i pensjonssystemet økes i takt med økningen i levealder fra og med 1964-kullet. Aldersgrensen for ubetinget rett til alderspensjon fra folketrygden, som nå er 67 år, omtales som normert pensjoneringsalder, eller normalder, og de øvrige aldersgrensene i pensjonssystemet justeres i takt med denne.
+
+- Aldersgrensene for folketrygdens øvrige inntektssikringsordninger økes også i takt med normalderen.
+
+- Minsteytelsene i pensjonssystemet følger velstandsutviklingen ved at minstenivåene ved normert pensjoneringsalder reguleres i takt med grunnbeløpet.
+
+- Uføres alderspensjon skjermes for om lag to tredjedeler av virkningen av levealdersjusteringen for å holde tritt med arbeidsføres alderspensjonsnivå.
+
+- Det gjennomføres jevnlige, brede evalueringer av pensjonsreformen og det nye pensjonssystemet.
+
+Regjeringen legger avgjørende vekt på at forslagene vil bidra til økt sosial omfordeling og styrket grunnsikring i pensjonssystemet framover. På sikt vil forslagene innebære at uføre alderspensjonister og mottakere av minsteytelsene vil få en vesentlig bedre pensjon enn med dagens regler. Forslaget om økte aldersgrenser vil legge til rette for lengre yrkeskarrierer, og dermed høyere pensjoner, som også vil kunne bidra til å styrke den sosiale bærekraften. Når forslagene sett under ett vil svekke den økonomiske bærekraften, må det ses i lys av at pensjonssystemets legitimitet og oppslutning, og dermed den langsiktige bærekraften, også avhenger av at systemet er sosialt bærekraftig over tid. Den økonomiske bærekraften ivaretas på en god måte ved at hovedelementene i pensjonsreformen som demper utgiftsveksten ligger fast: Både levealdersjusteringen, reglene for regulering av løpende pensjoner og nøytrale uttaksregler videreføres. Økte aldersgrenser i pensjonssystemet vil også kunne styrke den økonomiske bærekraften, i den grad forslaget bidrar til økt yrkesaktivitet blant eldre, noe som i så fall vil gi økt verdiskaping og skatteinntekter.
+
+Aldersgrensene i pensjonssystemet økes i tråd med økningen i levealderen
+
+Et viktig mål med pensjonsreformen var å stimulere til lengre yrkeskarrierer. Reglene for levealdersjustering og fleksibel pensjon gjør det mulig å oppnå like høy årlig alderspensjon som eldre årskull ved å jobbe lenger. Aldersgrensene på 62 og 67 år har imidlertid ligget fast siden pensjonsreformen trådte i kraft i 2011.
+
+Regjeringen mener det er en naturlig videreutvikling av pensjonsreformen at aldersgrensene i pensjonssystemet øker og foreslår en gradvis økning for personer født fra og med 1964. Dette kan bidra til økt gjennomsnittlig avgangsalder gjennom å påvirke pensjoneringsnormene i samfunnet. Økt nedre aldersgrense vil også innebære at de som ellers ville tatt ut pensjon ved første mulighet må stå noe lenger i arbeid.
+
+Økte aldersgrenser i pensjonssystemet vil understøtte pensjonsreformen ved å bidra til at flere står lengre i arbeid. Økte aldersgrenser kan også øke gjennomsnittlig alderspensjon og dermed gjøre pensjonssystemet mer sosialt bærekraftig.
+
+Dagens aldersgrense på 67 år er alderen der alle har en ubetinget rett til å ta ut alderspensjon. Regjeringen foreslår at denne grensen skal øke med to tredjedeler av økningen i forventet gjenstående levealder. Da vil de som øker avgangsalderen i takt med den økte aldersgrensen kompensere fullt for virkningen av levealdersjustering. Regjeringen foreslår at den økende 67-årsgrensen kalles normert pensjoneringsalder, eller normalderen, og at de øvrige aldersgrensene øker i takt med den normerte pensjoneringsalderen.
+
+Regjeringens forslag vil innebære at aldersgrensene øker med om lag ett år per tiår, slik at personer født i 1974 tidligst kan ta ut alderspensjonen når de fyller 63 år.
+
+Aldersgrensene for folketrygdens øvrige inntektssikringsordninger økes i takt med normalderen
+
+Folketrygdens ytelser ved arbeidsledighet og sykdom skal sikre inntekten for de som blir arbeidsledige eller får helseproblemer. Behovet for inntektssikring er prinsipielt sett ikke annerledes etter 62 år enn tidligere i livet. Muligheten til å motta korttidsytelsene bidrar til et velfungerende arbeidsmarked for eldre og til at flere kan stå lenger i arbeid. Regjeringen mener derfor at aldersgrensene for hvor lenge en kan motta dagpenger, sykepenger og arbeidsavklaringspenger bør øke i takt med den normerte pensjoneringsalderen. Ytelsene vil da fortsatt kunne gis fram til alderen der alle har en ubetinget rett til alderspensjon fra folketrygden.
+
+Regulering av minsteytelsene med velstandsutviklingen
+
+Etter pensjonsreformen har minsteytelsene i pensjonssystemet en rekke ganger blitt økt utover den ordinære reguleringen. Pensjonsutvalget ser dette som en indikasjon på at reglene som ble innført i 2011 ikke har hatt tilstrekkelig oppslutning.
+
+Minsteytelsene blir i dag regulert med gjennomsnittet av lønns- og prisveksten. På sikt vil dette innebære at minstenivåene blir hengende etter velstandsutviklingen i samfunnet. Det vil kunne skape problemer for pensjonssystemets sosiale bærekraft framover. Regjeringen mener derfor, i tråd med Pensjonsutvalgets vurderinger, at det bør etableres et nytt system der minsteytelsene ved normert pensjoneringsalder reguleres med lønnsveksten. Dette vil bety at minsteytelsene på sikt opprettholder sin relative verdi i forhold til det generelle lønnsnivået i samfunnet. Formålet er å sikre gode levekår også for framtidens pensjonister, og samtidig etablere et forutsigbart system som reduserer behovet for, og omfanget av, ekstraordinære økninger som vedtas uten at de langsiktige konsekvensene er belyst.
+
+Dersom yrkesaktive ikke kompenserer for virkningen av levealdersjusteringen framover, vil lønnsregulering av minsteytelsene på sikt kunne svekke forholdet mellom standardsikringen og grunnsikringen i betydelig grad. Dette vil innebære en svakere sammenheng mellom yrkesaktivitet og pensjon, noe som vil kunne svekke legitimiteten og betalingsviljen for folketrygdens alderspensjon. Regjeringen mener på denne bakgrunnen at framtidige evalueringer av pensjonsreformen bør se særskilt på utviklingen i forholdet mellom minsteytelsene og gjennomsnittlig pensjonsnivå. Dersom forholdet mellom standard- og grunnsikringen på sikt blir svekket i betydelig grad, bør det vurderes endringer.
+
+Bedre alderspensjon for uføre
+
+Bedre helsetilstand og høyere utdanningsnivå blant eldre, i kombinasjon med sterkere levealdersjustering, trekker i retning av at avgangsalderen blant arbeidsføre vil øke over tid. Mottakere av uføretrygd har ikke samme mulighet som arbeidsføre til å stå lenger i arbeid. Regjeringen mener at levealdersjusteringen vil gi for lave pensjonsnivåer for uføre med dagens regler. For årskullene 1954–1963 foreslår regjeringen at den øvre alderen for opptjening til alderspensjon i ny opptjeningsmodell økes til 65 år. Økningen i opptjening for uføre vil om lag tilsvare økningen i pensjonsnivå som følger av at arbeidsføre utsetter avgangen med ett år, noe som er om lag to tredjedeler av en full kompensering for økt levealdersjustering for årskullene fra 1954 til 1963. Dette er også i tråd med forslaget fra flertallet i Pensjonsutvalget.
+
+Flertallet i Pensjonsutvalget mente at uføre burde skjermes for mellom en halv og to tredjedeler av virkningen av levealdersjusteringen for årskullene 1964 og yngre. Regjeringen foreslår en løsning der uføres alderspensjon skjermes for om lag to tredjedeler av den videre effekten av levealdersjusteringen for uføre fra og med 1964-kullet. Det foreslås at dette gjennomføres ved at uføre har overgang til alderspensjon ved normert pensjoneringsalder, men at alderen for opptjening for uføre ligger fast. Dette vil medføre at uføres alderspensjonsnivå holder tritt med arbeidsføres alderspensjonsnivå, dersom gjennomsnittlig avgangsalder utvikler seg i tråd med antakelsen om at arbeidsføre i yngre årskull øker avgangsalderen slik at de kompenserer for to tredjedeler av effekten av levealdersjusteringen.
+
+Regjeringen mener at aldersgrensene for uføres alderspensjon må ses i lys av utviklingen i avgangsmønsteret blant arbeidsføre, med mål om at uføres og arbeidsføres pensjonsnivå står i et rimelig forhold over tid. Spesielt sett hen til kommende endringer i de offentlige tjenestepensjonsordningene, som vil påvirke avgangs- og pensjoneringsmønsteret blant arbeidsføre, vil regjeringen ikke nå foreslå en automatisk justeringsmekanisme for skjerming av uføres alderspensjon mot virkningen av levealdersjustering. Regjeringen vil på et senere tidspunkt komme tilbake til hvordan prosessen knyttet til vurderingen av aldersgrensene og pensjonsnivået for uføre bør legges opp.
+
+Jevnlige evalueringer
+
+Regjeringen mener at pensjonssystemet bør ha *bred politisk oppslutning* over tid. Det gir stabilitet og forutsigbarhet på tvers av politiske skifter og er viktig for tilliten til systemet. Regjeringens forslag til endringer som skisseres i denne meldingen er ment som et grunnlag for et nytt bredt pensjonsforlik. Regjeringen deler Pensjonsutvalgets vurdering av at det kan være hensiktsmessig med jevnlige brede evalueringer av pensjonsreformen og det nye pensjonssystemet. Både fordi flere av forslagene som legges fram er betinget av at det følges med på utviklingen, men også fordi det vil kunne forebygge at hyppige endringer gjøres uten at konsekvensene for helheten er belyst. Jevnlige evalueringer, hvert tiende år, vil dermed bidra til økt stabilitet og forutsigbarhet i pensjonssystemet. Pensjonsreglenes kompleksitet tilsier også at endringer bør gjøres på bakgrunn av grundig utredning, der det tas hensyn til helheten i pensjonssystemet på både kort og lang sikt.
+
+## Sammendrag
+
+### Bakgrunn og beskrivelse av det samlede pensjonssystemet (kapittel 2)
+
+I kapittelet beskrives pensjonsreformen og det samlede pensjonssystemet, samt de sentrale forslagene fra Pensjonsutvalget og hovedinntrykk fra høringen.
+
+Arbeidet med pensjonsreformen har pågått siden 2001, da Pensjonskommisjonen ble nedsatt. Bakgrunnen var aldringen av befolkningen, som kombinert med høyere gjennomsnittlige ytelser og tiltakende tidligpensjonering, ville ha ført til en sterk økning i pensjonsutgiftene framover. Et overordnet mål med reformen var å gjøre pensjonssystemet mer økonomisk og sosialt bærekraftig, blant annet gjennom å stimulere til høy yrkesdeltaking.
+
+Oppfølgingen av Pensjonskommisjonen resulterte i to forlik i Stortinget som sikret bred politisk tilslutning til hovedelementene i reformen, og hvor hovedtrekkene i det nye pensjonssystemet ble fastlagt. Endringene i folketrygden ble gitt virkning fra 1. januar 2011. Etterfølgende arbeid har vært konsentrert om tilpasninger for å sikre at hele pensjonssystemet støtter opp under målene med reformen.
+
+Det samlede pensjonssystemet beskrives ofte som bestående av tre deler: folketrygden, arbeidsmarkedsbaserte pensjoner og individuell pensjonssparing. I folketrygden er de viktigste elementene i pensjonsreformen alleårsopptjening, fleksibelt uttak av pensjon fra 62 år, nøytralt utformede uttaksregler og levealdersjustering. Regelverket for de private tjenestepensjonsordningene er tilpasset reformen i folketrygden, og gir dermed pensjonsmessig uttelling for å jobbe etter 62 år. AFP i privat sektor ble i 2011 lagt om til et livsvarig tillegg til alderspensjonen fra folketrygden, noe som bidro til en betydelig styrking av lønnsomheten av arbeid. I tariffoppgjøret i 2018 ble partene enige om å gjennomføre en felles utredning av en mulig omlegging av dagens AFP-ordning. Utredningen ble lagt fram i 2021. Det er enighet om at en framtidig AFP-ytelse skal kobles til tid i AFP-bedrift.
+
+Parallelt med at denne meldingen legges fram, fremmer Arbeids- og inkluderingsdepartementet lovforslag om ny AFP for medlemmer av Statens pensjonskasse, i henhold til avtalen inngått 3. mars 2018 mellom partene i offentlig sektor. Lovforslaget innebærer at AFP for offentlig ansatte født i 1963 eller senere legges om fra en tidligpensjonsordning til et livsvarig tillegg til alderspensjonen fra folketrygden.
+
+Offentlig sektor har et enhetlig pensjonssystem som omfatter alle ansatte i staten, kommunene, fylkeskommunene og enkelte virksomheter med offentlig tilknytning. Samlet utgjør dette omtrent en tredjedel av alle arbeidstakere. Som en del av oppfølgingen av avtalen fra 2018 vedtok Stortinget i 2019 en ny offentlig tjenestepensjon for personer født i 1963 og senere. Sammen med de foreslåtte reglene for ny offentlig AFP, vil dette gi offentlig ansatte bedre uttelling av å stå lenger i arbeid. De nye ordningene vil gi offentlig ansatte samme mulighet som ansatte i privat sektor til å opprettholde pensjonsnivåene når levealderen øker.
+
+Pensjonsutvalget fikk i oppdrag å beskrive pensjonssystemet, evaluere om de langsiktige målene i reformen vil kunne nås, og se på mulige justeringer for å sikre pensjonssystemets økonomiske og sosiale bærekraft. Flertallet av høringsinstansene støtter hovedforslagene fra Pensjonsutvalget om økte aldersgrenser, at minsteytelsene bør følge den generelle velstandsutviklingen og at uføre bør sikres en bedre alderspensjon.
+
+### Mål og prinsipper for pensjonssystemet (kapittel 3)
+
+I dette kapittelet beskrives grunnleggende prinsipper, mål og hensyn som pensjonssystemet skal ivareta. Disse beskrivelsene danner utgangspunkt for regjeringens vurderinger i øvrige deler av stortingsmeldingen. Folketrygdens alderspensjon har som grunnleggende formål å gi økonomisk og sosial trygghet. Alderspensjonen skal sikre den enkelte inntekt i alderdommen, dvs. når det ikke lenger kan forventes at man kan forsørge seg selv ved eget arbeid. Målet om trygghet omfatter både grunnsikring og standardsikring, og dette var sentrale hensyn ved utformingen av pensjonsreformen. Grunnsikringen innebærer sosial omfordeling og er en offentlig oppgave. Standardsikring i forhold til inntekt som yrkesaktiv, kan ivaretas både ved obligatoriske og frivillige ordninger og ved offentlige og private ordninger.
+
+Pensjonssystemet skal gjennom standardsikringen bidra til å fordele inntekt og forbruk over den enkeltes livsløp, og har både en spare- og forsikringsfunksjon. Sparefunksjonen går ut på at den enkelte sparer til sin egen pensjon. Forsikringsfunksjonen handler om risikohåndtering. Systemet må ha gode mekanismer for å håndtere og fordele ulike typer risiko, både knyttet til helse, demografi og økonomiske rammevilkår mv. Levealdersjustering håndterer usikkerheten knyttet til endringer i levealder mellom fødselskull. Risiko i et pensjonssystem kan strekke seg over lang tid, noe som tilsier at en bør vurdere konsekvensene av eventuelle økte forpliktelser nøye.
+
+Et økonomisk bærekraftig pensjonssystem er et system som lar seg finansiere på lang sikt uten å fortrenge andre viktige oppgaver for det offentlige, og som bidrar til et velfungerende arbeidsmarked. Det krever at finansieringen av pensjonssystemet ikke legger urimelige byrder på de yrkesaktive, at denne byrden er stabil over tid og at det finnes mekanismer i systemet som håndterer endringer i balansen mellom inntekter og utgifter. Gode insentiver til arbeid, omfordeling, legitimitet, tillit og bred politisk oppslutning er sentrale forutsetninger for et bærekraftig pensjonssystem.
+
+Pensjonsreformens hovedmålsetting er å gjøre pensjonssystemet mer bærekraftig på lang sikt. For å bidra til dette ble det ved omleggingen lagt stor vekt på at reformen skal gi sterkere økonomisk belønning for å jobbe mer, både gjennom yrkeskarrieren og ved lengre yrkesliv. Med reformen har det blitt en tydeligere og tettere sammenheng mellom arbeidsinntekt og opptjening av pensjonsrettigheter. Bærekraften i pensjonssystemet avhenger av gode arbeidsinsentiver som befolkningen responderer på. Det er viktig at dette ligger fast.
+
+Levealdersjusteringen innebærer at pensjonssystemet i stor grad er robust for økning i levealderen. Levealdersjusteringens bidrag til å sikre den økonomiske bærekraften avhenger delvis av at tilstrekkelig mange øker avgangsalderen tilstrekkelig mye. Dersom flere står lenger i arbeid, bidrar det gjennom økte skatteinntekter til å bedre finansieringsgrunnlaget for folketrygdens alderspensjon og velferdsstaten.
+
+Sosial bærekraft handler om at pensjonssystemet må fylle sine grunnleggende funksjoner. Økonomisk trygghet og sosial fordeling er en sentral del, men sosial bærekraft handler også om legitimitet, tillit og oppslutning om systemet. Legitimiteten til det offentlige pensjonssystemet avhenger av at det oppfattes som rettferdig. Pensjonssystemet bør ha bred politisk oppslutning over tid. Det gir stabilitet og forutsigbarhet på tvers av politiske skifter og er viktig for tilliten til systemet.
+
+En fordelingspolitisk målsetting for pensjonssystemet bør være at inntektsulikheten blant alderspensjonistene ikke blir for stor, og at alle får en rimelig forsikring mot ulik risiko knyttet til levealder, helsesvikt og uførhet. Samtidig må omfordeling i pensjonssystemet ses opp mot muligheten til omfordeling gjennom skatte- og avgiftssystemet og andre overføringer. De omfordelende elementene bidrar til å kompensere for sosiale ulikheter i forventet levealder og ulike muligheter til å stå lenge i jobb.
+
+### Insentiver til arbeid og utviklingen i yrkesaktiviteten etter pensjonsreformen (kapittel 4)
+
+Kapittel 4 beskriver hvordan pensjonsreformen har påvirket insentivene til arbeid og utviklingen i yrkesaktiviteten etter reformen. Regjeringens oppfølging av Stortingets anmodning om å vurdere tiltak som styrker insentivene til å jobbe lenger for offentlig ansatte som er født før 1963, jf. Innst. 175 L (2022–2023), omtales også.
+
+Da folketrygden ble innført i 1967, lå insentivene til arbeid i pensjonssystemet i hovedsak i at arbeid fram til fylte 70 år ga opptjening av tilleggspensjon. Arbeidsinntekt utover 40 år ga likevel normalt ikke høyere alderspensjon. Før pensjonsreformen innebar reglene at den årlige pensjonen ikke økte som følge av senere uttak. Det var derfor naturlig å avkorte pensjonen mot arbeidsinntekt, slik at det ikke skulle lønne seg å ta ut pensjonen så tidlig som mulig.
+
+Fra 2011 har pensjonsreformen gitt sterkere insentiver til å stå lengre i arbeid. Det har trolig gitt et viktig bidrag til at sysselsettingen blant eldre arbeidstakere har økt. Det er nå en tettere sammenheng mellom arbeidsinntekten i det enkelte år og pensjonsopptjeningen, og arbeid gjennom hele yrkeslivet gir pensjonsopptjening. Nøytrale uttaksregler stimulerer til lengre yrkeskarrierer ved at utsatt uttak gir økt pensjon, og pensjon under utbetaling avkortes ikke mot samtidig arbeidsinntekt. Levealdersjusteringen vil få gradvis større betydning for pensjonsnivåene og trolig også for arbeidstilbudet. Så langt har trolig endringen i reglene for uttak av pensjon, inkludert omleggingen av AFP i privat sektor, hatt størst betydning for yrkesaktiviteten.
+
+Selv om pensjonsreglene er nøytralt utformet og gir gode insentiver til å stå i arbeid, avhenger valg av uttaksalder også av den samlede kompensasjonsgraden i systemet. Skattefradraget for pensjonsinntekt bidrar isolert sett til at det kan lønne seg å ta ut pensjon tidlig. Andre forhold vil også ha betydning for beslutningen om uttakstidspunkt. Både trivsel i jobben, tradisjoner og normer, helsetilstanden og familieforhold kan ha betydning. I tillegg har de ulike aldersgrensene trolig en symboleffekt, ved at mange velger å tre ut av arbeidslivet uten at valget om å gå av kan knyttes direkte til regelverket.
+
+Ved utgangen av 2022 var det nesten to millioner arbeidsforhold med privat tjenestepensjon. Samlet gir de private tjenestepensjonsordningene økonomiske insentiver til å jobbe etter 62 år og er tilpasset reformen av alderspensjonen fra folketrygden. Den nye tjenestepensjonsordningen i offentlig sektor er tilpasset pensjonsreformen og vil gi gode insentiver til fortsatt arbeid etter 62 år. Den nye ordningen omfatter personer født i 1963 eller senere. For ansatte i offentlig sektor født før 1963 var imidlertid insentivene til å jobbe både før og etter 67 år svake også etter 2011. Stortinget har på denne bakgrunnen bedt regjeringen komme med forslag til tiltak som styrker insentivene til å jobbe lenger for personer født før 1963.
+
+Regjeringen legger derfor, parallelt med denne stortingsmeldingen, fram en lovproposisjon som styrker insentivene til å stå i jobb for offentlig ansatte født 1954–1962.
+
+De siste 20 årene har det vært en klar vekst i yrkesaktiviteten blant eldre, både fordi andelen uføre har gått ned, utdanningsnivået er høyere og fordi flere kvinner har fulle yrkeskarrierer. Etter pensjonsreformen har også fleksible uttaksregler medvirket til økt yrkesaktivitet. Fra 2011 til 2022 økte antall forventede yrkesaktive år etter fylte 50 år med 1,0 år. Den mest vanlige avgangsalderen har forskjøvet seg fra 62 år før pensjonsreformen, til 67 år etter pensjonsreformen.
+
+Pensjonsreformen har gitt flere valgmuligheter. Det legger et større ansvar for årlig pensjon på den enkelte, men myndighetene må også tilrettelegge for god informasjon. Informasjon og veiledning fra Arbeids- og velferdsetaten skal være korrekt, ha et klart språk og være tilpasset brukernes forutsetninger og behov. Samhandlingen mellom myndigheter og andre pensjonsleverandører er en forutsetning for velinformerte pensjonsvalg. Regjeringen vil ta initiativ til at det utarbeides en helhetlig strategi for informasjon på pensjonsområdet.
+
+### Pensjonssystemets økonomiske bærekraft (kapittel 5)
+
+Folketrygden skal være en bærebjelke i velferdssamfunnet. Det fordrer at pensjonssystemet er økonomisk bærekraftig over tid. Pensjonsutvalget ble i mandatet bedt om å vurdere om det langsiktige målet om å begrense utgiftsveksten ville nås. I kapittel 5 omtales regjeringens vurderinger av den økonomiske bærekraften til folketrygden, med utgangspunkt i Pensjonsutvalgets vurderinger, samt oppdaterte beregninger av utviklingen i folketrygdens utgifter.
+
+Pensjonskommisjonen vurderte at folketrygden, før pensjonsreformen, sto overfor økende utfordringer, særlig knyttet til pensjonssystemets langsiktige bæreevne. Kommisjonen viste til at svakere vekst i den yrkesaktive befolkningen, høyere gjennomsnittlige ytelser og stigende levealder ville gi et økende press på økonomien i folketrygden. Levealdersjustering og nye regler for regulering av løpende pensjon er innført for å dempe veksten i utgiftene.
+
+Pensjonsutvalget ble i mandatet bedt om å drøfte i hvilken grad det langsiktige målet i pensjonsreformen om å begrense utgiftsveksten vil kunne nås. Utvalget konkluderer med at reformen var nødvendig for å begrense utgiftsveksten til alderspensjon fra folketrygden og bedre bærekraften i offentlige finanser. Utvalget peker på at det framover i liten grad vil være mulig å øke utgiftene til alderspensjon, uten å måtte stramme inn på andre områder. Utvalget peker samtidig på flere forhold ved dagens regelverk som ikke i tilstrekkelig grad bidrar til å sikre den sosiale bærekraften. Utvalget mener at det framover vil være særlig viktig å sikre at eventuelle justeringer opprettholder gode insentiver til å stå i arbeid, og ikke vesentlig svekker levealdersjusteringen, som er den mekanismen i pensjonsreformen som særlig ivaretar den økonomiske bærekraften.
+
+Regjeringen viser til oppdaterte beregninger som viser at bidragsraten for folketrygdens alderspensjon de nærmeste årene vil stige en del, men etter hvert stabilisere seg. Stabilisering over tid er en viktig forutsetning for et bærekraftig system. En betydelig økning i pensjonsutgiftene lå også til grunn for pensjonsreformen.
+
+Beregningene viser videre at uten pensjonsreformen ville bærekraften vært kraftig svekket. Levealdersjusteringen i pensjonsreglene bidrar til å dempe og stabilisere utgiftsveksten framover.
+
+Nye befolkningsframskrivinger innebærer at forsørgelsesbyrden på lengre sikt nå anslås å bli større enn Pensjonskommisjonens framskrivinger viste. Endringene henger sammen med betydelig oppjustering av forventet levealder. Endringene understreker behovet for å ha mekanismer i pensjonssystemet som bidrar til å dempe og/eller stabilisere slike effekter.
+
+Pensjonsreformen og innføring av levealdersjustering har gjort pensjonssystemet langt mer økonomisk robust for endringer i levealder. Fra 1900 og fram til i dag har befolkningsvekst hovedsakelig skjedd gjennom flere i yrkesaktiv alder (20–66 år). Framover vil antallet i denne aldersgruppen ligge stabilt for deretter å reduseres. All befolkningsvekst framover kommer i aldersgruppen 67 år og over. Særlig vil andelen over 75 år øke.
+
+Perspektivmeldingen 2021 tegner et krevende bilde av finansieringsgrunnlaget for velferdsstaten framover. Vekst i pensjonsutgiftene vil konkurrere med bruk av offentlige midler til andre viktige formål.
+
+Regjeringen mener, som Pensjonsutvalget, at nedsiderisikoen for offentlige finanser framover bør vektlegges. Det tilsier at en bør være forsiktig med endringer i pensjonssystemet som øker utgiftene. Det vil være særlig viktig å opprettholde gode insentiver til å stå i arbeid og ikke vesentlig svekke levealdersjusteringen.
+
+### Levealdersjustering og fleksibel pensjon (kapittel 6)
+
+I kapittel 6 omtales regjeringens vurderinger og forslag knyttet til levealdersjustering og fleksibel pensjon, som er to sentrale elementer i pensjonsreformen. Levealdersjusteringen gjør at årlig pensjon blir lavere dersom levealderen øker. Fleksibelt uttak gjør det mulig å utsette uttaket og få høyere årlig pensjon, kombinere pensjon med fortsatt arbeid, eller å gå av tidlig og ta ut en lavere årlig pensjon. Fleksibel pensjon gir dermed mulighet til å kompensere for virkningen av levealdersjusteringen.
+
+Pensjonsutvalget viser til at levealdersjusteringen er avgjørende for å sikre den økonomiske bærekraften. Utvalget mener også at oppslutning om de samlede pensjonsreglene er avgjørende når ny alderspensjon fases inn og effekten av levealdersjusteringen øker. Utvalget viser til at pensjonsnivåene vil kunne opprettholdes dersom mange kompenserer for levealdersjusteringen ved å jobbe lenger. Dersom det ikke skjer, kan det true både den sosiale og økonomiske bærekraften. Utvalget mener videre at den sosiale bærekraften i pensjonssystemet primært bør ivaretas gjennom de omfordelende elementene i pensjonssystemet, samt gjennom andre folketrygdytelser som de helserelaterte ytelsene. Regjeringen støtter utvalgets syn. Som følge av at forventet levealder har økt mer enn tidligere forutsatt, har levealdersjusteringen blitt sterkere enn tidligere forventet. Konsekvensen av dette er at personer født i 1963 og senere må jobbe noe lenger enn tidligere forventet for å oppnå et gitt pensjonsnivå.
+
+Regjeringen mener, i tråd med Pensjonsutvalgets vurderinger, at både levealdersjustering, fleksibel pensjon og nøytralt uttak må videreføres. Økt levealder innebærer flere år med utbetaling av alderspensjon, og dermed en økning i utgiftene til alderspensjon. Det er avgjørende for å sikre den økonomiske bærekraften til pensjonssystemet at tilstrekkelig mange øker avgangsalderen. Mulighet til utsatt uttak av pensjon og utsatt avgang fra yrkeslivet gir mulighet til å kompensere for virkningen av levealdersjusteringen. De ulike elementene henger dermed tett sammen. Videre er nøytrale uttaksregler en forutsetning for at arbeidsinntekt og pensjon skal kunne kombineres uten at pensjonen avkortes.
+
+Fleksibiliteten i uttaksreglene gjør at den enkelte selv kan velge tidspunkt for uttak av pensjon etter behov. Det kan være ulike grunner til at personer ikke har mulighet til å kompensere for levealdersjusteringen ved å utsette avgangen fra arbeidslivet. Omfanget av helseproblemer øker med alderen. For personer med så store helseproblemer at det begrenser muligheten til å jobbe, vil uføretrygd og andre inntektssikringsordninger i folketrygden være mulige løsninger. Tidligpensjonsordninger gir også mulighet til å tre ut av arbeidslivet tidlig.
+
+Regjeringen mener arbeidstakere som i dag har særaldersgrenser utgjør arbeidskraft og kompetanse som er viktig for offentlig sektor allerede i dag, men særlig i tiden framover. Regjeringens mål med det videre arbeidet med særaldersgrensene er at offentlig sektor i større grad får nyttiggjort seg den kompetansen personer som i dag har særaldersgrenser har.
+
+Regjeringen mener at bedre tilrettelegging kan bidra til å gjøre det lettere å forlenge yrkeskarrieren, også i stillinger som i dag har en særaldersgrense. Arbeidsplassens utforming og arbeidsgivers tilrettelegging spiller en viktig rolle for at flere skal stå lenger i arbeid. Tiltak for å bedre arbeidsmiljøet og redusere belastningen vil kunne bidra til lavere helserelatert fravær og mindre frafall fra yrket, også blant yngre ansatte.
+
+Regjeringen viser til at personer som av helsemessige årsaker ikke har mulighet til å forlenge yrkeslivet, vil kunne ha rett på en helserelatert ytelse fra folketrygden. Andre kan ha redusert helse, men hvor helseproblemene er av en slik karakter at man ikke er berettiget til en helserelatert ytelse fra folketrygden. Regjeringen mener det er viktig for pensjonssystemets legitimitet og tillit at ikke enkelte grupper kommer systematisk dårligere ut fordi de ikke klarer å stå lenger i arbeid. Flere høringsinstanser har også pekt på behovet for ordninger for de som ikke kan utsette avgangen fra arbeidslivet. Regjeringen vil derfor nedsette et utvalg som skal vurdere og komme med forslag til ulike løsninger for sliterne, herunder en ordning i folketrygden.
+
+### Regulering av pensjon (kapittel 7)
+
+I kapittel 7 redegjøres det for den historiske reguleringen av alderspensjon fra folketrygden, og regjeringen gir sine vurderinger av hvordan reguleringen bør skje framover. Pensjon utgjør hovedinntektskilden til de fleste eldre, og regulering av pensjoner står dermed sentralt for eldres inntektsutvikling. Den årlige reguleringen av alderspensjoner har langsiktige økonomiske konsekvenser, og de ulike elementene i pensjonssystemet henger tett sammen. Uten en regelstyrt regulering øker faren for at kortsiktige hensyn dominerer ved den årlige reguleringen, noe som igjen kan skape uforutsigbarhet og en fare for at pensjonene utvikler seg over tid på en måte som ikke er tilsiktet eller ønsket.
+
+De fleste land har en form for regelstyrt regulering av offentlige pensjoner, normalt ved at veksten i løpende pensjoner er knyttet til pris- og/eller lønnsveksten. De ulike reguleringsregimene har både fordeler og ulemper. Normalt vil regulering med lønnsveksten være gunstigere enn regulering med prisveksten. I perioder med høy inflasjon og reallønnsnedgang vil det imidlertid være motsatt.
+
+Fram til 2011 var reguleringen av folketrygdens alderspensjon både under opptjening og utbetaling direkte knyttet til grunnbeløpet. Grunnbeløpet ble fram til 2011 fastsatt av Stortinget etter forutgående drøftinger med pensjonistenes organisasjoner. Reguleringsreglene ble endret med pensjonsreformen og innebar fram til 2022 at alderspensjon under utbetaling ble regulert med lønnsveksten fratrukket 0,75 prosent, og at opptjente rettigheter ble regulert med lønnsveksten.
+
+Regjeringen mener det er viktig at reguleringsreglene sikrer forutsigbarhet for den enkelte og for staten. Pensjonsrettighetene tjenes opp og utbetales over lang tid. For å sikre forutsigbarhet er det viktig med klare regler og prinsipper for hvordan verdien av pensjonsrettighetene skal reguleres, både mens pensjonen tjenes opp og når den utbetales. Regjeringen slutter seg derfor til Pensjonsutvalgets vurdering om at reguleringen av pensjoner bør være fullt ut regelstyrt og at den ikke egner seg til forhandlinger. Flertallet av høringsinstansene stiller seg også bak at den årlige reguleringen skal være fullt ut regelstyrt og at reguleringen ikke skal være åpen for forhandlinger.
+
+Regjeringen er tilfreds med at et samlet Storting i 2022 vedtok å legge om reguleringsreglene for løpende pensjoner til gjennomsnittet av lønns- og prisveksten, og viser til at den brede støtten til endringen både i Stortinget og blant høringsinstansene er et tegn på at man nå har en modell som fungerer godt, og som vil kunne stå seg over tid. Regjeringen støtter også Pensjonsutvalgets vurdering av at endringen ikke gjør det nødvendig med tilpasninger i øvrig regelverk, men at dette bør vurderes i framtidige evalueringer av pensjonssystemet. De vedtatte reglene gir en jevnere regulering, og pensjonistene blir skjermet fra en negativ utvikling i kjøpekraft i år med lav reallønnsvekst, samtidig som de er sikret en del av den generelle velstandsutviklingen i samfunnet. Reglene hindrer at pensjonistene taper kjøpekraft mange år på rad når arbeidstakerne ikke taper kjøpekraft. De nye reguleringsreglene er derimot mindre gunstige for pensjonistene enn de gamle reglene i år med høy reallønnsvekst. Regjeringen mener disse egenskapene gir en regulering av pensjonene som i større grad ivaretar pensjonistenes behov for en forutsigbar inntektsutvikling, samtidig som dagens pensjonister fortsatt bidrar til pensjonssystemets økonomiske bærekraft.
+
+### Aldersgrensene (kapittel 8)
 
 I kapittelet foreslår regjeringen økte aldersgrenser i pensjonssystemet og i de andre inntektssikringsordningene i folketrygden.
-Det er tre sentrale aldersgrenser i reglene for
-alderspensjon fra folketrygden: 62, 67 og 75 år.
-I 2011 ble den laveste alderen for å kunne ta ut
-alderspensjon fra folketrygden senket fra 67 til 62
-
-15
-
-år. For å kunne ta ut pensjonen før 67 år kreves
-det at samlet pensjon minst tilsvarer minstepensjonen for enslige.
-Ved 67 år har alle en ubetinget rett til alderspensjon fra folketrygden; også personer uten
-pensjonsopptjening kan ta ut alderspensjon, og
-minstenivåene i pensjonssystemet gjelder ved
-uttak ved 67 år.
-Aldersgrensen på 75 år har to funksjoner. For
-det første gis det pensjonsopptjening til og med
-det året en fyller 75 år. For det andre øker pensjonen ved utsatt uttak – for en gitt opptjening – fram
-til måneden etter at en fyller 75 år.
-Regjeringen foreslår at de tre aldersgrensene i
-pensjonssystemet skal økes fra og med 1964-kullet
-med to tredjedeler av veksten i forventet gjenstående levealder. De som øker avgangsalderen i takt
-med den økte aldersgrensen, vil få økt pensjonsopptjening og kompensere fullt for virkningen av
-levealdersjustering. Regjeringens forslag vil innebære at aldersgrensene vil øke med én til to måneder per årskull og om lag ett år per tiår.
-Regjeringen har vurdert Pensjonsutvalgets
-forslag om en raskere økning av den nedre aldersgrensen for å ta ut alderspensjon. En raskere
-økning i den nedre aldersgrensen vil ha flere positive virkninger: Reduserte muligheter for tidliguttak vil øke sysselsettingen på kort og lengre
-sikt, og redusere folketrygdens utgifter på kort og
-mellomlang sikt. Regjeringen vil likevel ikke foreslå dette nå. Årsaker er blant annet at dette kan
-komplisere andre prosesser, og at en raskere
-økning av den nedre aldersgrensen kan gjøre at
-flere får problemer med å stå i arbeid til aldersgrensen. Dette må blant annet ses i sammenheng
-med at regjeringen i kapittel 6 varsler at det skal
-settes ned et utvalg som skal vurdere ulike løsninger for sliterne.
-Regelverket for pensjonsordningene som supplerer alderspensjonen fra folketrygden – private
-og offentlige tjenestepensjonsordninger og offentlig og privat AFP – er tilpasset aldersgrensene i
-folketrygden. Når aldersgrensene i folketrygden
-endres, er det derfor naturlig at også reglene for
-de øvrige pensjonsytelsene tilpasses disse
-endringene. For eksempel gjelder dette nedre
-aldersgrense for utbetaling av pensjon.
-De supplerende tjenestepensjonsordningene
-er dels lovfestede og dels avtalefestede. Regjeringen vil komme tilbake med forslag til endringer
-i de lovfestede ordningene og legger til grunn at
-også de avtalefestede ordningene vil bli tilpasset
-endringene i folketrygden.
-Dagpenger, sykepenger og arbeidsavklaringspenger kan som hovedregel mottas fram til fylte
-
-[Side 18]
-
-16
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-67 år, dvs. alderen hvor alle har en ubetinget rett
-til alderspensjon fra folketrygden. I tillegg er det
-en begrenset rett til sykepenger fra 67 til 70 år.
-Regjeringen foreslår at disse grensene skal økes i
-takt med aldersgrensene i pensjonssystemet. Når
-pensjonssystemet legger til rette for lengre yrkesliv, bør også reglene i de andre inntektssikringsordningene tilpasses.
-Ifølge arbeidsmiljøloven kan arbeidsgiver
-avslutte et arbeidsforhold på grunn av alder når
-arbeidstakeren fyller 72 år. Arbeidsgiver kan fastsette en lavere bedriftsintern aldersgrense, men
-ikke under 70 år, dersom grensen gjøres kjent for
-arbeidstakerne, den praktiseres konsekvent av
-arbeidsgiver og arbeidstaker har en tilfredsstillende tjenestepensjonsordning.
-Den alminnelige aldersgrensen i staten reguleres i aldersgrenseloven og er 70 år. Arbeidsforholdet i staten opphører uten oppsigelse ved
-den alminnelige aldersgrensen. I kommunene
-følger aldersgrensene de samme prinsippene som
-i staten.
-Regjeringen foreslår ikke endringer i aldersgrensene for stillingsvern i arbeidsmiljøloven og
-aldersgrenseloven nå. Når disse aldersgrensene
-blir et hinder for mange i å kunne oppnå et tilfredsstillende pensjonsnivå, må spørsmålet vurderes på nytt.
-
-1.3.8 Alderspensjon for uføre (kapittel 9)
-I dette kapittelet foreslår regjeringen endringer i
-regelverket for alderspensjon til tidligere mottakere av uføretrygd. Endringene vil styrke pensjonsnivået til uføre i yngre årskull.
-Med gjeldende regler har uføre pensjonsopptjening til 67 år i gammel opptjeningsmodell, og til
-62 år i ny opptjeningsmodell. Uføre har overgang
-til alderspensjon ved 67 år. Levealdersjustering – i
-kombinasjon med faste aldersgrenser – vil gi
-uføre i yngre årskull et lavere pensjonsnivå relativt til lønnsnivået i samfunnet, og relativt til uføretrygden som reguleres med lønnsveksten. Under
-forutsetning av at arbeidsføre kompenserer for
-hele eller deler av levealdersjusteringen ved å stå
-lenger i arbeid, vil uføre også få en stadig lavere
-alderspensjon relativt til personer som var
-arbeidsføre fram til pensjonisttilværelsen.
-Regjeringen stiller seg bak et prinsipp om at
-regelverket for uføres alderspensjon skal ta
-utgangspunkt i hvor lenge arbeidsføre står i
-arbeid, slik at uføres pensjonsnivå holder tritt med
-arbeidsføres gjennomsnittlige pensjonsnivå. Dette
-innebærer at uføre ikke ubetinget skal skjermes
-mot hele effekten av levealdersjusteringen, men
-
-2023–2024
-
-at arbeidsføres framtidige avgangsmønster skal
-legge føringer for nivået på alderspensjonen til
-uføre. Regjeringen foreslår at øvre alder for opptjening til alderspensjon i ny opptjeningsmodell
-økes til 65 år, og at uføre skal ha overgang til
-alderspensjon ved normert pensjoneringsalder.
-Siden det er usikkert i hvilken grad arbeidsføre vil
-kompensere for virkningen av levealdersjustering
-gjennom å stå lenger i arbeid, foreslår regjeringen
-at øvre alder for opptjening til alderspensjon i ny
-opptjeningsmodell holdes fast på 65 år. Dette vil gi
-uføre i årskullet 1963 en alderspensjon på linje
-med personer som jobber til drøyt 66 år, og årskullene 1964 og yngre om lag to tredjedels
-skjerming av den videre virkningen av levealdersjustering.
-Regjeringen mener at aldersgrensene for
-uføres alderspensjon må ses i lys av utviklingen i
-avgangsmønsteret blant arbeidsføre og utviklingen i antall uføre, med mål om at uføres og
-arbeidsføres pensjonsnivå står i et rimelig forhold
-over tid. Regjeringen foreslår ikke en automatisk
-justeringsmekanisme for skjerming av uføres
-alderspensjon mot virkningen av levealdersjustering nå, og mener at dette, inntil videre, bør
-vurderes i sammenheng med jevnlige evalueringer
-av pensjonssystemet.
-
-1.3.9 Minsteytelsene (kapittel 10)
-I kapittel 10 redegjøres det for utviklingen i
-minsteytelsene i pensjonssystemet, og regjeringen
-gir sine vurderinger av nivået på, og reguleringen
-av, minsteytelsene.
-Siden innføringen av folketrygden har det
-vært en betydelig vekst i minsteytelsene sammenlignet med den alminnelige lønnsutviklingen.
-Generelt sett har de eldres økonomiske situasjon
-bedret seg vesentlig de siste tiårene, men det er
-stor variasjon mellom ulike grupper.
-Etter pensjonsreformen har minsteytelsene i
-pensjonssystemet blitt økt en rekke ganger,
-utover den ordinære reguleringen. Pensjonsutvalget ser dette som en indikasjon på at de
-reglene som ble innført i 2011 ikke har hatt tilstrekkelig oppslutning.
-Rett til alderspensjon tjenes opp både gjennom
-elementer som varierer med pensjonsgivende inntekt og elementer som tjenes opp gjennom trygdetid, dvs. uavhengig av inntektsnivå. Pensjonsutvalget foreslo ikke endringer i dette grunnleggende trekket ved pensjonssystemet. Regjeringen vil heller ikke foreslå endringer i disse
-reglene, og mener at justeringer bør gjøres innenfor dette systemet. Beskrivelsene av minste-
-
-[Side 19]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-ytelsene er derfor i hovedsak under forutsetning
-om 40 års trygdetid. Minstenivåene vil være tilsvarende lavere ved færre enn 40 års trygdetid.
-Regjeringen mener de ekstraordinære økningene har vært viktige for å bedre levekårene for
-utsatte grupper av eldre. Samtidig har endringer i
-minsteytelsene konsekvenser for pensjonssystemets virkemåte. Økte minsteytelser reduserer
-uttellingen for arbeid, og innebærer at færre kan
-ta ut pensjon tidlig. Utformingen av pensjonssystemet er et resultat av en avveining mellom
-ulike hensyn. God minstesikring er ett av flere
-hensyn som skal ivaretas. Pensjonssystemet må
-også bidra til standardsikring, som innebærer at
-pensjonen må stå i et rimelig forhold til tidligere
-arbeidsinntekt. Når den enkelte får pensjonsmessig uttelling for arbeidsinnsats bidrar det til
-økt arbeidstilbud som er viktig for velferdsstatens
-bærekraft, og det bidrar til å opprettholde legitimiteten og betalingsviljen for folketrygdens alderspensjon som bærebjelken i det samlede pensjonssystemet.
-Minstenivåene i ny alderspensjon har en
-annen utforming enn minstepensjonen i den
-gamle ordningen, og de ulike egenskapene innebærer at nivåene bør vurderes ulikt. En vesentlig
-forskjell er at nær sagt alle som i hovedsak har
-bodd i Norge vil ha opptjent inntektspensjon, og
-dermed vil de aller fleste motta en ytelse over
-garantipensjonssatsen. I den gamle ordningen
-kunne selv personer med en god del arbeidsinntekt ende opp som minstepensjonister, og få
-samme pensjonsnivå som de som aldri hadde deltatt i arbeidsmarkedet.
-Reguleringen av minstenivåene påvirker det
-framtidige nivået på ytelsene. Et godt nivå på
-dagens minsteytelser vil bare sikre framtidens
-pensjonister dersom reguleringen opprettholder
-nivåene i tilstrekkelig grad. Nivået på minsteytelsene i dag og reguleringen av minsteytelsene
-framover bør derfor vurderes samlet. Pensjonsutvalget viser til at å både øke minsteytelsene og
-innføre en gunstigere regulering enn i dag kan gi
-vesentlig høyere pensjonsutgifter, og de mener
-derfor det er nødvendig å prioritere. Utvalget
-mener samtidig at det er tungtveiende argumenter for at minstenivåene, ved den normerte pensjoneringsalderen, bør reguleres i takt med den
-generelle velstandsutviklingen, målt ved den gjennomsnittlige lønnsveksten.
-Regjeringen støtter utvalgets vurderinger og
-viser til at en heving av minstenivåene og en
-videreføring av gjeldende reguleringsregler vil
-innebære å prioritere dagens minstenivåer framfor minstenivåene til framtidige generasjoner i
-
-17
-
-uforholdsmessig stor grad. Pensjonssystemet bør
-ha gode minstenivåer, men det bør også gjelde i
-framtiden. Regjeringen mener derfor at nivåene
-på minsteytelsene bør videreføres, samtidig som
-det etableres et nytt system for regulering av minsteytelsene ved at minsteytelsene ved normert
-pensjoneringsalder reguleres med lønnsveksten.
-Dette vil bety at minsteytelsene på sikt opprettholder sin relative verdi i forhold til det generelle
-lønnsnivået i samfunnet. Formålet er å sikre gode
-levekår også for framtidens pensjonister, og samtidig etablere et forutsigbart system som reduserer behovet for ekstraordinære økninger som
-vedtas uten at de langsiktige konsekvensene er
-belyst.
-Lønnsregulering av minsteytelsene ved normert pensjoneringsalder innebærer ingen endring i reglene for regulering av løpende pensjoner.
-Siden normert pensjoneringsalder avhenger av
-fødselsår, innebærer dette at minstenivåene blir
-årskullspesifikke.
-
-1.3.10 Økonomiske og administrative
-konsekvenser (kapittel 11)
-I dette kapittelet beskrives viktige konsekvenser
-av regjeringens forslag og det redegjøres for økonomiske og administrative konsekvenser. Regjeringens forslag i denne stortingsmeldingen vil ha
-store økonomiske konsekvenser på lang sikt.
-Konsekvensene er belyst ved beregninger ved
-bruk av Statistisk sentralbyrås mikrosimuleringsmodell MOSART.
-Beregningene viser at regjeringens forslag
-bedrer den sosiale bærekraften i pensjonssystemet. Uføre vil få en klart høyere alderspensjon
-enn med gjeldende regler, og dette gjelder særlig
-dem med de laveste pensjonene. Bedre regulering
-av minsteytelsene vil løfte pensjonsnivået til
-mange, og særlig blant de som har relativt lav pensjon.
-Beregningene viser videre at sysselsettingen
-vil øke, men de beregnede effektene er relativt
-moderate. Mange mulige effekter er imidlertid
-ikke tallfestet. Økte aldersgrenser kan gi økt sysselsetting gjennom å påvirke den alminnelige oppfatningen i befolkningen av når det er «normalt» å
-ta ut pensjon. Denne normdanningseffekten er
-ikke forsøkt tallfestet i beregningene. På den
-andre siden vil regjeringens forslag gjøre det mer
-lønnsomt å motta en ytelse fra en midlertidig inntektssikringsordning. Det kan redusere insentivene til å stå lenger i arbeid og gjøre at flere vil
-motta disse ytelsene. I beregningene er det antatt
-at økt nedre aldersgrense i liten grad vil påvirke
-
-[Side 20]
-
-18
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-sysselsettingen og at mange som ville tatt ut
-alderspensjon med en lavere aldersgrense i stedet
-blir uføre. Dette kan være for pessimistisk.
-Samlet beregnes det en klar økning i antall
-personer som mottar uføretrygd eller midlertidig
-inntektssikring. Antall uføre øker med 75 000 i
-2060 og 113 000 i 2080 sammenlignet med et alternativ der dagens regler er videreført.
-Forslagene vil etter hvert gi en vesentlig
-økning i folketrygdens utgifter sammenlignet
-med en videreføring av dagens regler. Økningen
-anslås til rundt 30 mrd. 2023-kroner i 2060 og om
-lag 66 mrd. kroner i 2080. Økningen skyldes dels
-at nivået på gjennomsnittlig alderspensjon øker,
-men særlig at det blir økte utgifter til uføretrygd
-og andre ytelser fra folketrygden fordi disse kan
-mottas lenger når aldersgrensene øker, og fordi
-flere vil bli uføre når den nedre aldersgrensen for
-å ta ut alderspensjon øker.
-Regjeringens forslag vil også gi staten høyere
-inntekter. Det skyldes særlig at sysselsettingen vil
-øke. Det er usikkert hvor mye inntektene vil øke,
-men det er neppe tvil om at regjeringens forslag
-samlet vil bety en svekkelse av statsfinansene.
-Den såkalte bidragsraten som er et mål på finansieringsbyrden til pensjonssystemet, er anslått å
-øke med 1,2 prosentpoeng i 2060 og 2,6 prosentpoeng i 2080, sammenlignet med en videreføring
-av dagens regler.
-Selv om utgiftene øker relativt mye, vil regjeringens forslag fortsatt gi en betydelig innsparing
-
-2023–2024
-
-sammenlignet med om pensjonsreformen ikke
-var gjennomført.
-Forslagene om økte aldersgrenser, økt opptjening for uføre og endret regulering av minstenivåene vil samlet føre til betydelige økonomiske
-og administrative konsekvenser for Arbeids- og
-velferdsetaten. Arbeids- og velferdsdirektoratet
-har særlig trukket fram at følgende områder
-berøres:
-– Systemendringer i saksbehandlingssystemene
-for pensjon og uføretrygd
-– Systemendringer i øvrige saksbehandlingssystemer
-– Endringer i selvbetjeningsløsninger/søknadsløsninger
-– Endringer i informasjonsbrev og på nettsiden
-nav.no
-– Opplæring og informasjon
-Videre vil forslagene kunne medføre økt ressursbehov knyttet til utvikling av digitale informasjonsverktøy, veiledning og tettere oppfølging av
-økt antall brukere på helserelaterte ytelser.
-Arbeids- og velferdsdirektoratet vurderer at det er
-for tidlig å si noe konkret om administrative kostnader og gjennomføringsevne.
-Forslagene vil også ha store økonomiske og
-administrative konsekvenser for de øvrige pensjonsleverandørene.
-
-[Side 21]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-19
-
-2 Bakgrunn og beskrivelse av det samlede pensjonssystemet
-2.1
-
-Innledning og sammendrag
-
-Pensjonsreformen innebærer en omfattende
-omlegging av hele det norske pensjonssystemet.
-Bakgrunnen for reformen var i hovedsak å tilpasse
-systemet til demografiske endringer og en forventning om at andelen eldre i befolkningen ville øke
-også framover. Et økonomisk og sosialt bærekraftig pensjonssystem er et pensjonssystem som over
-tid ikke medfører for stor økonomisk belastning for
-de yrkesaktive. Pensjonsreformens langsiktige mål
-er å styrke pensjonssystemets økonomiske og
-sosiale bærekraft – både ved at veksten i utgiftene
-til alderspensjon begrenses og gjennom styrkede
-insentiver til arbeid. Framover vil det være viktig å
-stimulere til høy arbeidsdeltakelse, og at det
-samlede pensjonssystemet støtter opp under
-målene med pensjonsreformen. Pensjonsutvalget
-har i NOU 2022: 7 Et forbedret pensjonssystem sett
-på mulige justeringer for å sikre pensjonssystemets
-bærekraft – både økonomisk og sosialt.
-I avsnitt 2.2 beskrives kort pensjonsreformen
-og bakgrunnen for reformen, mens avsnitt 2.3 gir
-en overordnet beskrivelse av det norske pensjonssystemet. Reglene for alderspensjon fra folketrygden beskrives mer detaljert i senere kapitler,
-mens regelverket for tjenestepensjon og avtalefestet pensjon (AFP) i hovedsak beskrives i dette
-kapittelet. Avsnitt 2.4 gir en beskrivelse av Pensjonsutvalgets mandat og hovedforslag, samt en
-overordnet omtale av høringen. Pensjonsutvalgets
-vurderinger og høringsinstansenes synspunkter
-knyttet til de konkrete forslagene følger i meldingens kapittel 6–10.
-
-2.2
-
-Pensjonsreformen
-
-2.2.1 Innledning
-Arbeidet med pensjonsreformen har pågått siden
-2001 da Regjeringen Stoltenberg I nedsatte
-Pensjonskommisjonen. Reformen omfatter alle
-deler av pensjonssystemet, både i og utenfor
-folketrygden.
-Bakgrunnen for reformen var først og fremst
-den forventede aldringen av befolkningen. Kombi-
-
-nert med høyere gjennomsnittlige ytelser og tiltakende tidligpensjonering ville aldringen ha ført
-til en sterk økning i pensjonsutgiftene framover,
-dersom det tidligere pensjonssystemet hadde blitt
-videreført. Et overordnet mål med reformen var å
-gjøre pensjonssystemet mer økonomisk og sosialt
-bærekraftig, blant annet gjennom å stimulere til
-høy yrkesdeltakelse.
-Det etterfølgende arbeidet med pensjonsreformen resulterte i to forlik i Stortinget som sikret bred politisk tilslutning til hovedelementene i
-reformen. Gjennom Stortingets vedtak i mai 2005
-(Pensjonsforlik I) og april 2007 (Pensjonsforlik II)
-ble hovedtrekkene i det nye pensjonssystemet
-fastlagt. Stortingsforlikene kom i etterkant av to
-stortingsmeldinger om endringer i folketrygdens
-alderspensjon – henholdsvis St.meld. nr. 12
-(2004–2005) Pensjonsreform – trygghet for pensjonene og St.meld. nr. 5 (2006–2007) Opptjening og
-uttak av alderspensjon i folketrygden – og var også
-grunnlaget for senere endringer i tilgrensende og
-supplerende pensjonsytelser.
-Ved lov 5. juni 2009 nr. 32 om endringer i
-folketrygdloven (ny alderspensjon), ble det blant
-annet innført nye opptjeningsregler, levealdersjustering og fleksibelt uttak fra 62 år i folketrygdens alderspensjon. Det ble også innført nye
-regler for regulering av alderspensjon. De vedtatte endringene bygger på to brede forlik i
-Stortinget i 2005 og 2007, som ble fulgt opp ved
-Ot.prp. nr. 37 (2008–2009). De nye reglene om
-fleksibelt uttak, levealdersjustering og regulering
-gjelder både pensjon beregnet etter dagens opptjeningsregler og pensjon beregnet etter nye
-opptjeningsregler. Reglene ble gitt virkning fra
-1. januar 2011.
-I de etterfølgende årene har arbeidet med
-pensjonsreformen vært konsentrert om tilpasninger, både midlertidige og varige, i andre
-ytelser fra folketrygden, samt supplerende ytelser
-fra tjenestepensjonsordningene, se avsnitt 2.3.
-Tilpasningene har vært gjort for å sikre at det
-samlede pensjonssystemet støtter opp under prinsippene i den nye alderspensjonen i folketrygden
-og støtter opp under målene med pensjonsreformen.
-
-[Side 22]
-
-20
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-2.2.2
-
-Pensjonskommisjonen og NOU 2004: 1
-Modernisert folketrygd – Bærekraftig
-pensjon for framtida
-Pensjonskommisjonen, som ble nedsatt av Regjeringen Stoltenberg I 30. mars 2001, hadde medlemmer fra partiene på Stortinget og uavhengige
-eksperter for å utrede hovedmål og prinsipper for
-en reform av det samlete pensjonssystemet.
-Kommisjonen ble gitt følgende mandat:
-«Kommisjonen skal avklare hovedmål og prinsipper for et samlet pensjonssystem. Arbeidet
-skal ta utgangspunkt i de problemer og utfordringer dagens pensjonssystem står overfor.
-Et framtidig pensjonssystem må ivareta
-hensynet til langsiktighet, stabilitet og oversiktlighet, og bidra til å møte utfordringer knyttet til en aldrende befolkning og tiltakende tidligpensjonering.
-Tidligere norske utredninger, samt utredninger og erfaringer fra pensjonsreformer i
-andre land, vil være viktig bakgrunnsmateriale
-for kommisjonen.
-Aldringen av befolkningen kombinert med
-høyere ytelser vil føre til en sterk økning i pensjonsutgifter utover i dette århundret. Kommisjonen skal blant annet vurdere utviklingen i
-tidligpensjoneringen og behovet for slike ordninger i framtiden. Kommisjonen må avveie
-hensynet til at et framtidig pensjonssystem skal
-sikre eldre arbeidstakere valgfrihet med hensyn til pensjoneringstidspunkt, samtidig som
-rettighetene sikres for arbeidstakere som har
-behov for å trappe ned eller slutte.
-En gjennomgang av pensjonssystemet må
-baseres på at man trekker opp hva som skal
-være statens ansvar og hva som kan omfattes
-av arbeidsmarkedsbaserte ordninger og individuelle ordninger. Et spørsmål som må vurderes, er om en fondering av pensjonsytelsene
-kan bidra til å sikre et bærekraftig pensjonssystem på sikt. Kommisjonen skal også vurdere forholdet til supplerende ordninger, samt
-hvilken betydning endringer i familie- og samlivsmønstre kan ha for utformingen av pensjonssystemet. Kommisjonen skal vurdere
-hvordan pensjonsordningene kan bidra til å
-ivareta fordelings- og likestillingshensyn.
-Pensjonssystemet i Norge framstår samlet
-sett som komplisert, der regelverket for ulike
-ordninger griper inn i hverandre. Blant annet
-er samordningsregelverket mellom de offentlige tjenestepensjonsordningene og folketrygden omfattende. Kommisjonen må vurdere til-
-
-2023–2024
-
-tak som kan bidra til forenklinger og gjøre et
-framtidig pensjonssystem mer oversiktlig.
-Regelverket for folketrygdens uførepensjon og pensjoner til etterlatte er knyttet
-sammen med regelverket for alderspensjon. I
-den grad kommisjonen foreslår å endre folketrygdens alderspensjon må den også vurdere
-hvilke systemendringer dette gir for folketrygdens uføre- og etterlattepensjoner.
-Eventuelle endringer vil måtte gjelde for
-framtidig opptjening av pensjon. Ved alternative
-utforminger av pensjonssystemet, bør kommisjonen derfor også utrede overgangsordninger.
-Kommisjonen skal legge fram sin utredning for Finansdepartementet og Sosial- og
-helsedepartementet innen 1.10.2003.»
-Pensjonskommisjonen fikk høsten 2003 utsatt
-fristen for sitt arbeid noe, og kommisjonen la
-13. januar 2004 fram sin utredning NOU 2004: 1
-Modernisert folketrygd – Bærekraftig pensjon for
-framtida.
-Bakgrunnen for Pensjonskommisjonen var at
-pensjonsutgiftene i folketrygden, med uendrede
-regler, ville øke mye i tiårene framover. Den viktigste årsaken til dette var at antall eldre var forventet å øke kraftig i forhold til antall yrkesaktive,
-bl.a. fordi levealderen øker over tid. I tillegg
-hadde Norge store fødselskull etter annen verdenskrig som nærmet seg pensjonsalderen, mens
-fødselstallene senere hadde gått ned. Også
-ytelsene pr. pensjonist var forventet å øke, som
-følge av at nye pensjonister hadde høyere pensjonsopptjening enn eldre årskull.
-Et bredt flertall i Pensjonskommisjonen, alle
-utenom medlemmene fra Fremskrittspartiet og
-Sosialistisk Venstreparti, ble enige om et forslag
-til ny alderspensjon i folketrygden med følgende
-hovedelementer:
-– En standardsikring gjennom en inntektspensjon
-der pensjonsopptjeningen er proporsjonal med
-arbeidsinntekten gjennom livet. Det innebærer
-at alle år med arbeidsinntekt skal telle med, og
-at personer med lik inntekt over yrkeskarrieren
-får lik pensjon. Det ble foreslått en årlig pensjonsopptjening tilsvarende 1,25 prosent av
-arbeidsinntekt opp til en øvre grense på 8 G.
-– En grunnsikring i form av en garantipensjon på
-nivå med minstepensjonen i dag. Det ble foreslått at garantipensjonen skulle avtrappes gradvis mot inntektspensjonen. Dermed vil også de
-med lavere inntekter få noe igjen for pensjonsopptjeningen.
-– En forbedret ordning for pensjonsopptjening
-ved ulønnet omsorgsarbeid.
-
-[Side 23]
-
-2023–2024
-
-–
-–
-
-–
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-Fleksibelt uttak av alderspensjon fra 62 år der
-pensjonen blir høyere jo lenger en står i arbeid.
-Pensjonen beregnes i forhold til forventet gjenstående levetid for den aldersgruppen man tilhører. Det betyr at man må stå i arbeid lenger
-for å få den samme pensjonen hvis forventet
-levealder øker.
-Pensjoner under utbetaling reguleres i takt
-med gjennomsnittet av lønns- og prisutviklingen, mens opptjente pensjonsrettigheter reguleres i takt med lønnsveksten.
-
-Kommisjonen la til grunn en gradvis innføring av
-nye regler for alderspensjon i folketrygden fra
-2010.
-
-2.2.3
-
-St.meld. nr. 12 (2004–2005) og
-Pensjonsforlik I
-
-Regjeringen Bondevik II la 10. desember 2004
-fram St.meld. nr. 12 (2004–2005) Pensjonsreform –
-trygghet for pensjonene. Regjeringen forholdt seg
-til hovedprinsippene i forslaget om modernisert
-folketrygd fra flertallet i Pensjonskommisjonen,
-uten å foreslå konkrete beløpsgrenser og satser i
-et nytt pensjonssystem.
-I forbindelse med behandlingen av meldingen
-fattet Stortinget 26. mai 2005 følgende vedtak (nr.
-354), jf. Innst. S. nr. 195 (2004–2005):
-«Stortinget viser til avtale om pensjonsreform
-inngått mellom Arbeiderpartiet, Høyre, Kristelig Folkeparti, Senterpartiet og Venstre (heretter kalt «avtalepartene») og ber Regjeringen
-om å iverksette det videre arbeidet med en pensjonsreform i tråd med nevnte avtale som går
-fram av det følgende:
-Dagens pensjonssystem står overfor store
-og økende økonomiske utfordringer gjennom
-svakere vekst i den yrkesaktive befolkningen,
-høyere gjennomsnittlige pensjonsytelser og
-stigende levealder. I tillegg stimulerer dagens
-pensjonssystem for lite til arbeid og har noen
-urettferdige sider, blant annet ved en gradvis
-svekkelse av sammenhengen mellom inntekt
-og pensjon og at like livsinntekter kan gi til dels
-meget ulik pensjon. Det er derfor behov for en
-pensjonsreform.
-1. Modell for alderspensjon i folketrygden
-Folketrygdens alderspensjon skal fortsatt
-bestå av en grunnsikring (garantipensjon) og
-en inntektsavhengig tilleggspensjon.
-
-21
-
-Alderspensjonen i folketrygden skal bygge
-på prinsippet om at det skal lønne seg å
-arbeide. Det må derfor være en sammenheng
-mellom arbeidsinnsatsen gjennom hele livet og
-pensjonsytelsen, og alle år må telle med. Folketrygdens alderspensjon må ha en god sosial
-profil og bidra til utjevning av inntektsforskjeller.
-Avtalepartene er enige om at utformingen
-av en ny alderspensjon i folketrygden skal
-bygge på at:
-– De som har hatt liten eller ingen inntekt
-skal fortsatt sikres en pensjon på nivå med
-dagens minstepensjon.
-– De som har hatt lave inntekter skal få mer
-igjen for sin pensjonsopptjening enn i
-dagens system, slik at det blir færre minstepensjonister. Det betyr at de som har hatt
-en jevn inntekt på mellom 2 og 4 G i 40 år
-skal få en høyere pensjon enn med dagens
-folketrygd.
-– De som etter 40 år i yrkeslivet har hatt inntekter i underkant av gjennomsnittet for
-heltidsansatte, må ikke få en lavere alderspensjon enn med dagens system. Det betyr
-at personer som har en jevn inntekt på
-mellom 4 og 5 G i 40 år ikke skal ha en
-lavere pensjon enn de ville ha fått med
-dagens folketrygd. Etter 43 år i yrkeslivet
-vil disse inntektsgruppene få en høyere
-pensjon enn i dag.
-– Omsorgsarbeid skal gi pensjonsopptjening.
-Omsorgsopptjeningen skal utformes slik at
-alle som innfrir kravene til omsorgsopptjening får en minste pensjonsopptjening på
-4,5 G. Pensjonsopptjening ut over minstenivået skal utformes slik at den premierer
-arbeidsinnsats. Omsorgsopptjeningen skal
-ikke gi klare stimulanser til en skjev fordeling av omsorgsarbeid mellom kvinner
-og menn. Svar på spørsmål 15 fra Arbeiderpartiet viser eksempel på en alternativ
-modell for omsorgsopptjening.
-– Regjeringen arbeider videre med konkrete
-forslag om tilbakevirkende kraft for pensjonsopptjening for omsorgsarbeid også i
-dagens folketrygd.
-– Vernepliktige gis pensjonsopptjening.
-– Regjeringen vurderer pensjonsopptjening
-for studenter i lys av modellvalg og kommer
-tilbake med forslag.
-– Folketrygdens ytelser under sykdom og
-arbeidsledighet, herunder ufrivillig deltidsarbeidende som mottar dagpenger, gis pen-
-
-[Side 24]
-
-22
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-sjonsopptjening på linje med lønnsinntekter.
-En modell for pensjonsopptjening i folketrygden
-som både har en god fordelingsprofil og som gir
-pensjonsopptjening for alle årene i arbeidslivet
-kan uformes på flere måter, blant annet en
-knekkpunktmodell og modell med grunnpensjon og jevn opptjening av pensjonsrettigheter
-over grunnpensjonen. I en knekkpunktmodell
-gir den laveste delen av inntekten en høyere
-pensjonsopptjening som andel av inntekten enn
-den høyeste delen av inntekten. Eksempler på
-en slik type modell finnes i svar på spørsmål 8 fra
-Arbeiderpartiets fraksjon der Finansdepartementet har regnet på to varianter av denne typen
-modell, modell A og B. I begge modellene gir
-alle år i arbeidslivet pensjonsopptjening. Modell
-A gir en inntektspensjon som tilsvarer 1,7 pst. av
-inntekten opp til 3 G og 0,8 pst. av inntekten
-mellom 3 og 8 G. I denne modellen avkortes
-garantipensjonen mot inntektspensjonen på
-samme måten som i pensjonskommisjonens forslag til modernisert folketrygd. Modell B gir en
-inntektspensjon som tilsvarer 2,3 pst. av inntekten opp til 2 G og 0,7 pst. av inntekten mellom
-2 og 8 G. Garantipensjonen avkortes fullt ut mot
-inntektspensjonen.
-I en modell med en grunnpensjon og jevn
-opptjening gir all inntekt over grunnpensjonen
-samme pensjonsopptjening. Eksempler på
-denne typen modell er forslaget til modell D i
-svar på spørsmål 23 fra Arbeiderpartiets fraksjon. I modell D får alle en grunnpensjon tilsvarende dagens minstepensjon på 1,79 G for
-enslige og 1,62 G for par, og en inntektspensjon
-på 0,85 pst. av inntekten ut over grunnpensjonen.
-Det gis ikke pensjonsopptjening for inntekter over 8 G i noen av modellene.
-Tabell 1 viser sammenhengen mellom pensjon og inntekt i dagens folketrygd, modernisert folketrygd modell A, B og D etter 43 år
-med jevn inntekt. Tabellen og de øvrige beregningene fra Finansdepartementet viser at både
-modell A, B og D gir en bedre fordelingsprofil
-enn pensjonskommisjonens forslag til modernisert folketrygd.
-Tabell 1: Inntekt og pensjon med dagens
-folketrygd, modernisert folketrygd modell A, B
-og D etter 43 år. Kroner i hele tusen. Inntekt i G
-Regjeringen må utforme en pensjonsmodell med en fordelingsprofil som ligger nær
-opp til profilen i modell A, B og D.
-
-2023–2024
-
-Figur 1 viser fordelingsprofilen i dagens
-folketrygd, modernisert folketrygd og modell
-A, B og D for en enslige som har hatt en jevn
-inntekt gjennom 43 år.
-Figur 1: Sammenhengen mellom lønn og
-pensjon i dagens folketrygd, modernisert
-folketrygd, modell A, B og D etter 43 års opptjening. Tall i grunnbeløp i folketrygden (G).
-Det følger av modellene at etter 43 år vil alle
-med jevne inntekter mellom 2 og 8 G få en
-høyere pensjon enn med dagens folketrygd.
-2. Tjenestepensjoner
-2.1 Obligatorisk tjenestepensjon
-Det innføres obligatorisk tjenestepensjon i
-arbeidsforhold. Loven trer i kraft 1. januar
-2006.
-Ordningene utformes innenfor Lov om
-foretakspensjon og Lov om innskuddspensjon.
-Obligatorisk tjenestepensjon i arbeidsforhold skal omfatte alle arbeidstakere som oppfyller kravene til medlemskap etter Lov om innskuddspensjon og Lov om foretakspensjon.
-Kravet om tjenestepensjon for ansatte som
-også delvis er eiere må avklares nærmere.
-Regjeringen vurderer hvordan det kan etableres gode kontrollordninger som kan sikre at
-alle bedrifter tilbyr tjenestepensjon til sine
-ansatte.
-De obligatoriske ordningene må utformes
-slik at det blir enkelt å utvide dem, slik at de
-ikke hindrer videreføring av eksisterende tjenestepensjonsordninger og slik at det blir
-enkelt for små og mellomstore bedrifter å opprette og administrere ordningene.
-I den obligatoriske ordningen er arbeidsgiver pålagt å betale et innskudd på minst 2 pst.
-av lønnen over 1 G for den enkelte arbeidstaker. Dersom foretaket ikke velger en innskuddsbasert ordning, skal kostnadene til premier i de andre ordningene tilsvare et innskudd på 2 pst. av lønn over 1 G. Arbeidsgiver
-og arbeidstaker kan avtale at arbeidstaker i tillegg skal betale inn et innskudd eller en premie
-i pensjonsordningen.
-For bedrifter som hittil ikke har hatt
-tjenestepensjon, kan innføringen av obligatorisk tjenestepensjon medføre en økonomisk
-belastning. Regjeringen bes vurdere nærmere
-de økonomiske og administrative konsekvensene for disse.
-
-[Side 25]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-2.2 Samordning av tjenestepensjoner for flere
-foretak
-Det må være mulig for flere foretak å opprette
-en felles innkjøpsordning for tjenestepensjoner. En innkjøpsordning kan opprettes
-gjennom avtale mellom foretakene eller gjennom avtaler mellom partene i arbeidslivet.
-Innkjøpsordningen kan på vegne av medlemsforetakene inngå avtaler om kjøp av pensjonsprodukter fra forsikringsselskaper, banker og andre tilbydere. En slik felles innkjøpsordning må kunne omfatte både lovpålagte
-minimumsordninger, avtalte tilleggsytelser for
-alle medlemsforetakene og tilleggsytelser som
-medlemsforetakene selv kan velge om de vil
-ha.
-Regjeringen bes komme tilbake til Stortinget med eventuelle lovendringer som måtte
-være nødvendig for å opprette slike fellesordninger, og bes særlig om å vurdere:
-– en avtalt standard pensjonsordning for alle
-medlemsforetakene
-– felles kapitalforvaltning, rentegaranti mv.
-– felles administrasjon av tjenestepensjonene
-– avtaler om medregning av tjenestetid når
-en arbeidstaker bytter jobb fra et medlemsforetak til et annet
-– avtaler om premieutjamning knyttet til
-alder og kjønn mellom medlemsforetakene
-Avtalepartene har under behandlingen av
-St.prp. nr. 68 (2004–2005) gått inn for at det så
-snart som mulig skal åpnes for at flere foretak
-skal kunne opprette en felles pensjonskasse
-etter modell av de interkommunale pensjonskassene.
-2.3 Tilpasning av lovgivningen for tjenestepensjoner
-Etter at det er vedtatt en ny modell for folketrygdens alderspensjon, må lovverket for
-tjenestepensjonsordningene tilpasses den nye
-folketrygdmodellen. Det vil blant annet være
-nødvendig å se nærmere på hvilke konsekvenser innføring av livsløpsbasert opptjening,
-delingstall og ny indeksering i folketrygden
-bør få for utformingen av tjenestepensjonsordningene. Det vil også være nødvendig å se
-nærmere på regelverket for midlertidig ansatte
-og deltidsansatte.
-Det opprettes snarest mulig et fripoliseregister, og regjeringen vurderer hvordan pensjonsrettigheter fra ulike ordninger kan samles.
-
-23
-
-Det åpnes for kjønns- og aldersnøytrale
-premier i tjenestepensjoner i privat sektor.
-2.4 Offentlige tjenestepensjoner
-Tjenestepensjon tilsvarende to tredjedeler av
-sluttlønn i offentlig sektor (bruttoordninger)
-videreføres.
-Etter at det er vedtatt en ny modell for folketrygdens alderspensjon, må de offentlige
-tjenestepensjonsordningene tilpasses den nye
-folketrygdmodellen, uten at dette svekker de
-offentlige tjenestepensjonene, men slik at de
-også omfattes av delingstall og ny indeksering.
-Den endelige tilpasningen skal skje gjennom forhandlinger mellom partene i offentlig
-sektor.
-Pensjonsordningene til statsråder, stortingsrepresentanter mv. må tilpasses en ny
-folketrygdmodell.
-Stortinget tar ikke nå stilling til om forpliktelsene til Statens Pensjonskasse skal fonderes. Før Stortinget tar stilling til fondering av
-Statens Pensjonskasse, må det gjøres en grundig vurdering av blant annet utviklingen av
-Statens Pensjonskasse som selskap, konkurransen om tjenestepensjonene til fristilte
-offentlige virksomheter, mobiliteten i arbeidsmarkedet og mulighetene for kostnadskontroll
-i offentlig sektor.
-2.5 Selvstendig næringsdrivende
-Enkeltmannsforetak skal også kunne opprette
-en felles innkjøpsordning for tjenestepensjoner.
-Det arbeides videre med endringer i Lov
-om innskuddspensjon (eventuelt etter Lov om
-foretakspensjon) slik at ordningene også åpnes
-for foretak med færre enn 2 sysselsatte. Tilslutning til en slik ordning bør gjøres frivillig for
-selvstendig næringsdrivende og andre med
-eierinteresser i foretak. Også for de med frivillig tilslutning til en kollektiv tjenestepensjonsordning, må det gis større skattemessig
-likebehandling med ordninger med tjenestepensjon for arbeidstakere, blant annet med fradrag for premien i skattbar næringsinntekt.
-3. AFP og tidligpensjon
-Det må være en tidligpensjonsordning for alle
-arbeidstakere fra 62 år, også for de som har
-hatt lave inntekter. En slik ordning må bygge
-videre på AFP- ordningen.
-
-[Side 26]
-
-24
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-Aldersgrensen i AFP ligger fast. Statens
-samlede økonomiske bidrag i AFP-ordningen
-videreføres. Eventuelle endringer i AFP-ordningen kan først skje etter forhandlinger med
-partene ved hovedtariffoppgjøret i 2006. Dette
-vil være en oppfølging av regjeringens brev til
-partene i tariffoppgjøret i 1997, hvor enkelte
-elementer i AFP-ordningen ble varslet revurdert i 2007.
-I tillegg til at AFP-ordningen videreføres,
-arbeides det videre med en allmenn fleksibel
-tidligpensjonsordning i folketrygden. Stortinget
-tar ikke nå stilling til hvordan et slikt framtidig
-tidligpensjonssystem i folketrygden skal se ut,
-men ber regjeringen komme tilbake til hvordan dette kan utformes etter at uførepensjonen
-er utredet og etter at hovedtariffoppgjøret i
-2006 er avsluttet. Grunnlaget for vurderingen
-bør blant annet være at:
-– det skal lønne seg å jobbe for de som er
-over 62 år
-– det skal være bedre muligheter til å kombinere pensjon og arbeid
-– den øvre grensen for pensjonsopptjening på
-70 år fjernes. Særaldersgrensene i privat og
-offentlig sektor må vurderes.
-Den alminnelige pensjonsalderen må ikke
-reduseres, og arbeidstakere over 62 år må
-motiveres til fortsatt arbeidsinnsats. Arbeidet
-med et inkluderende arbeidsliv må videreføres så det blir mulig for eldre arbeidstakere
-å fortsette i jobb. Staten må i samarbeid med
-partene i arbeidslivet utforme tiltak for en
-seniorpolitikk som motiverer godt voksne
-arbeidstakere til å fortsette i arbeid, og
-arbeidsgivere til å ansette og beholde disse
-arbeidstakerne.
-
-5. Fondering av folketrygden
-Petroleumsfondet og Folketrygdfondet omgjøres til et pensjonsfond.
-Stortinget ber Regjeringen arbeide videre
-med å vurdere om pensjonssystemet bør få en
-mer selvstendig rolle i forhold til de øvrige
-statsfinansene, og hvordan dette eventuelt kan
-gjøres. Regjeringen skal også vurdere hvordan
-den rollen det nye pensjonsfondet har som
-bufferfond for de generasjonsmessige ubalansene i folketrygden, kan styrkes. Videre skal
-regjeringen vurdere en egen pensjonspremie i
-skattesystemet, som synliggjør at dette er
-sparing til egen alderdom.
-6. Uføre- og etterlattepensjoner
-En ny uføretrygdordning utredes nærmere av
-et eget utvalg, og må ses i sammenheng med
-tidligpensjonsordningene.
-Uføretrygden skal også i den nye ordningen justeres i takt med lønnsveksten.
-Berettigelsen av en etterlattepensjon i
-folketrygden vil være avhengig av om alderspensjonen i framtiden vil bli samordnet mellom ektefeller/samboere/partnere eller ikke.
-Dette spørsmålet må derfor utredes videre
-etter at Stortinget har tatt stilling til ny opptjeningsmodell i folketrygdens alderspensjon.»
-Stortinget tok altså i pensjonsforliket av 26. mai
-2005 ikke stilling til opptjeningsmodell for alderspensjon, men ba regjeringen komme tilbake med
-forslag som oppfylte bestemte kriterier knyttet til
-fordelingsprofilen.
-
-2.2.4
-
-4. Et bærekraftig pensjonssystem
-Som et ledd i å sikre bærekraft i pensjonssystemet innføres en ordning med levealdersjustering (delingstall) som innebærer at pensjonsalderen i folketrygdens alderspensjon justeres med endring i forventet levealder. Den
-enkelte kan motvirke effekten av delingstall
-ved å arbeide lenger.
-Etter at pensjonsreformen er trådt i kraft,
-justeres løpende pensjoner i folketrygden med
-et gjennomsnitt av lønns- og prisveksten.
-Opparbeidede pensjonsrettigheter justeres med lønnsveksten. Garantipensjonen
-lønnsindekseres justert for utviklingen i levealder.
-
-2023–2024
-
-St.meld. nr. 5 (2006–2007) og
-Pensjonsforlik II
-Regjeringen Stoltenberg II la 20. oktober 2006
-fram St.meld. nr. 5 (2006–2007) Opptjening og
-uttak av alderspensjon i folketrygden. Meldingen
-var en oppfølging av Stortingets vedtak av 26. mai
-2005 når det gjaldt folketrygdens alderspensjon
-og meldingen inneholdt konkrete forslag til nye
-regler for alderspensjon fra folketrygden.
-Regjeringen foreslo en inntektspensjon som
-innebærer at en hvert år tjener opp pensjonsrettigheter tilsvarende 1,35 prosent av inntekten opp
-til 7 G for en person som tar ut pensjon fra 67 år
-gitt levealderen i 2010. Garantipensjonen ble foreslått avkortet med 80 prosent av opptjent inntektspensjon. Regjeringen foreslo at den enkelte
-
-[Side 27]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-kan ta ut hel eller delvis alderspensjon fra 62 år så
-lenge pensjonen ved 67 år overstiger minstepensjonsnivået. Det ble videre foreslått å utforme
-den fleksible alderspensjonen slik at årlig pensjon
-reflekterer forventet antall år som pensjonist, og
-at pensjon og arbeid kan kombineres uten avkorting av pensjonen.
-Stortinget sluttet seg til hovedpunktene i
-meldingen, men med enkelte presiseringer.
-Stortinget fattet 23. april 2007 følgende vedtak
-(vedtak nr. 406), jf. Innst. S. nr. 168 (2006–2007):
-«Stortinget viser til avtale inngått 21. mars 2007
-mellom Arbeiderpartiet, Høyre, Sosialistisk
-Venstreparti, Kristelig Folkeparti, Senterpartiet og Venstre, og ber Regjeringen legge
-følgende til grunn i sitt videre arbeid med
-modell for opptjening og uttak av alderspensjon i folketrygden:
-1. Det gis pensjonsopptjening for ulønnet
-omsorgsarbeid tilsvarende 4,5 G i inntil
-seks år pr. barn.
-2. Årlig inntekt opp til 7,1 G skal være pensjonsgivende.
-3. Det gis pensjonsopptjening for alle som
-avtjener førstegangstjeneste på minst seks
-måneder.
-4. Rammen som følger av endringene de tre
-ovenfor nevnte punktene medfører, er den
-endelige rammen for ny modell for opptjening og uttak av alderspensjon i folketrygden. Rammen skal også gjelde ved den
-senere konkretiseringen av regelverket.
-5. Regjeringen vil komme tilbake til en nærmere vurdering av å gi omsorgsopptjening
-tilbakevirkende kraft for de som blir omfattet av de nye opptjeningsreglene i folketrygden, jf. St.meld. nr. 5 (2006–2007).
-6. Dagens ordninger for omsorgsarbeid ved
-pleie av eldre, syke og funksjonshemmede
-videreføres i den nye folketrygden.
-7. Regjeringspartiene vil innføre en ny ordning med skattestimulert individuell pensjonssparing med virkning fra 2008, jf. notat
-av 9. mars 2007, med årlig sparebeløp inntil
-15 000 kroner. Nærmere redegjørelse for
-arbeidet med å innføre ordningen vil bli lagt
-fram i Revidert nasjonalbudsjett for 2007.
-Høyre, Kristelig Folkeparti og Venstre står
-for sin del fritt til å foreslå et høyere sparebeløp og til å foreslå en videreføring av ordninger med individuell og kollektiv livrente,
-jf. protokolltilførsel fra disse partier.
-8. Ut over det som framgår av de sju ovenfor
-nevnte punktene, slutter avtalepartnerne
-
-25
-
-seg til innholdet i St.meld. nr. 5 (2006–
-2007).»
-
-2.2.5 Ot.prp. nr. 37 (2008–2009)
-Basert på stortingsvedtakene våren 2005 og våren
-2007, sendte daværende Arbeids- og inkluderingsdepartementet 28. januar 2008 på høring et forslag
-til den nærmere utformingen av ny alderspensjon,
-herunder hvordan de nye reglene skal innfases og
-konkretisering av levealdersjusteringen. Departementet la også fram utkast til lovbestemmelser
-om ny alderspensjon i folketrygden og nødvendige tilpasninger i lovbestemmelsene for gammel
-alderspensjon.
-Lovforslaget ble lagt fram 13. februar 2009, jf.
-Ot.prp. nr. 37 (2008–2009) Om lov om endringer i
-folketrygdloven (ny alderspensjon), og ny alderspensjon ble vedtatt ved lov 5. juni 2009 nr. 32 om
-endringer i folketrygdloven.
-Mange bestemmelser som levealdersjustering og fleksibelt uttak av pensjon, fikk virkning for
-pensjoner tatt ut fra og med 2011, mens nye regler
-for regulering av pensjon også fikk virkning fra
-2011 for pensjoner som allerede var tatt ut. Avsnitt
-2.3 har en nærmere beskrivelse av hvordan
-alderspensjon fra folketrygden er utformet etter at
-pensjonsreformen trådte i kraft.
-
-2.3
-
-Pensjonssystemet i Norge
-
-Det samlede pensjonssystemet beskrives ofte som
-bestående av tre deler: folketrygden, arbeidsmarkedsbaserte pensjoner og individuell pensjonssparing. Arbeidsmarkedsbaserte pensjoner
-er pensjon opptjent i arbeidsforhold og omfatter
-tjenestepensjoner og avtalefestet pensjon (AFP).
-De ulike delene av det samlede pensjonssystemet
-vil i det følgende omtales hver for seg.
-
-2.3.1 Alderspensjon fra folketrygden
-Alle som bor og arbeider i Norge har rett til
-alderspensjonen fra folketrygden. I Norge er
-folketrygden den dominerende pensjonsordningen, og alderspensjon fra folketrygden utgjør
-for de fleste den klart største delen av samlet
-alderspensjon. Hvor mye hver enkelt får i alderspensjon fra folketrygden beregnes ut fra hvor
-mange år den enkelte har bodd i Norge, antall år i
-arbeid og inntektsnivået i løpet av yrkeskarrieren.
-Pensjonsreformen innebar en omfattende
-omlegging av hele det norske pensjonssystemet.
-Alderspensjon fra folketrygden er derfor utformet
+
+Det er tre sentrale aldersgrenser i reglene for alderspensjon fra folketrygden: 62, 67 og 75 år.
+
+I 2011 ble den laveste alderen for å kunne ta ut alderspensjon fra folketrygden senket fra 67 til 62 år. For å kunne ta ut pensjonen før 67 år kreves det at samlet pensjon minst tilsvarer minstepensjonen for enslige.
+
+Ved 67 år har alle en ubetinget rett til alderspensjon fra folketrygden; også personer uten pensjonsopptjening kan ta ut alderspensjon, og minstenivåene i pensjonssystemet gjelder ved uttak ved 67 år.
+
+Aldersgrensen på 75 år har to funksjoner. For det første gis det pensjonsopptjening til og med det året en fyller 75 år. For det andre øker pensjonen ved utsatt uttak – for en gitt opptjening – fram til måneden etter at en fyller 75 år.
+
+Regjeringen foreslår at de tre aldersgrensene i pensjonssystemet skal økes fra og med 1964-kullet med to tredjedeler av veksten i forventet gjenstående levealder. De som øker avgangsalderen i takt med den økte aldersgrensen, vil få økt pensjonsopptjening og kompensere fullt for virkningen av levealdersjustering. Regjeringens forslag vil innebære at aldersgrensene vil øke med én til to måneder per årskull og om lag ett år per tiår.
+
+Regjeringen har vurdert Pensjonsutvalgets forslag om en raskere økning av den nedre aldersgrensen for å ta ut alderspensjon. En raskere økning i den nedre aldersgrensen vil ha flere positive virkninger: Reduserte muligheter for tidliguttak vil øke sysselsettingen på kort og lengre sikt, og redusere folketrygdens utgifter på kort og mellomlang sikt. Regjeringen vil likevel ikke foreslå dette nå. Årsaker er blant annet at dette kan komplisere andre prosesser, og at en raskere økning av den nedre aldersgrensen kan gjøre at flere får problemer med å stå i arbeid til aldersgrensen. Dette må blant annet ses i sammenheng med at regjeringen i kapittel 6 varsler at det skal settes ned et utvalg som skal vurdere ulike løsninger for sliterne.
+
+Regelverket for pensjonsordningene som supplerer alderspensjonen fra folketrygden – private og offentlige tjenestepensjonsordninger og offentlig og privat AFP – er tilpasset aldersgrensene i folketrygden. Når aldersgrensene i folketrygden endres, er det derfor naturlig at også reglene for de øvrige pensjonsytelsene tilpasses disse endringene. For eksempel gjelder dette nedre aldersgrense for utbetaling av pensjon.
+
+De supplerende tjenestepensjonsordningene er dels lovfestede og dels avtalefestede. Regjeringen vil komme tilbake med forslag til endringer i de lovfestede ordningene og legger til grunn at også de avtalefestede ordningene vil bli tilpasset endringene i folketrygden.
+
+Dagpenger, sykepenger og arbeidsavklaringspenger kan som hovedregel mottas fram til fylte 67 år, dvs. alderen hvor alle har en ubetinget rett til alderspensjon fra folketrygden. I tillegg er det en begrenset rett til sykepenger fra 67 til 70 år. Regjeringen foreslår at disse grensene skal økes i takt med aldersgrensene i pensjonssystemet. Når pensjonssystemet legger til rette for lengre yrkesliv, bør også reglene i de andre inntektssikringsordningene tilpasses.
+
+Ifølge arbeidsmiljøloven kan arbeidsgiver avslutte et arbeidsforhold på grunn av alder når arbeidstakeren fyller 72 år. Arbeidsgiver kan fastsette en lavere bedriftsintern aldersgrense, men ikke under 70 år, dersom grensen gjøres kjent for arbeidstakerne, den praktiseres konsekvent av arbeidsgiver og arbeidstaker har en tilfredsstillende tjenestepensjonsordning.
+
+Den alminnelige aldersgrensen i staten reguleres i aldersgrenseloven og er 70 år. Arbeidsforholdet i staten opphører uten oppsigelse ved den alminnelige aldersgrensen. I kommunene følger aldersgrensene de samme prinsippene som i staten.
+
+Regjeringen foreslår ikke endringer i aldersgrensene for stillingsvern i arbeidsmiljøloven og aldersgrenseloven nå. Når disse aldersgrensene blir et hinder for mange i å kunne oppnå et tilfredsstillende pensjonsnivå, må spørsmålet vurderes på nytt.
+
+### Alderspensjon for uføre (kapittel 9)
+
+I dette kapittelet foreslår regjeringen endringer i regelverket for alderspensjon til tidligere mottakere av uføretrygd. Endringene vil styrke pensjonsnivået til uføre i yngre årskull.
+
+Med gjeldende regler har uføre pensjonsopptjening til 67 år i gammel opptjeningsmodell, og til 62 år i ny opptjeningsmodell. Uføre har overgang til alderspensjon ved 67 år. Levealdersjustering – i kombinasjon med faste aldersgrenser – vil gi uføre i yngre årskull et lavere pensjonsnivå relativt til lønnsnivået i samfunnet, og relativt til uføretrygden som reguleres med lønnsveksten. Under forutsetning av at arbeidsføre kompenserer for hele eller deler av levealdersjusteringen ved å stå lenger i arbeid, vil uføre også få en stadig lavere alderspensjon relativt til personer som var arbeidsføre fram til pensjonisttilværelsen.
+
+Regjeringen stiller seg bak et prinsipp om at regelverket for uføres alderspensjon skal ta utgangspunkt i hvor lenge arbeidsføre står i arbeid, slik at uføres pensjonsnivå holder tritt med arbeidsføres gjennomsnittlige pensjonsnivå. Dette innebærer at uføre ikke ubetinget skal skjermes mot hele effekten av levealdersjusteringen, men at arbeidsføres framtidige avgangsmønster skal legge føringer for nivået på alderspensjonen til uføre. Regjeringen foreslår at øvre alder for opptjening til alderspensjon i ny opptjeningsmodell økes til 65 år, og at uføre skal ha overgang til alderspensjon ved normert pensjoneringsalder. Siden det er usikkert i hvilken grad arbeidsføre vil kompensere for virkningen av levealdersjustering gjennom å stå lenger i arbeid, foreslår regjeringen at øvre alder for opptjening til alderspensjon i ny opptjeningsmodell holdes fast på 65 år. Dette vil gi uføre i årskullet 1963 en alderspensjon på linje med personer som jobber til drøyt 66 år, og årskullene 1964 og yngre om lag to tredjedels skjerming av den videre virkningen av levealdersjustering.
+
+Regjeringen mener at aldersgrensene for uføres alderspensjon må ses i lys av utviklingen i avgangsmønsteret blant arbeidsføre og utviklingen i antall uføre, med mål om at uføres og arbeidsføres pensjonsnivå står i et rimelig forhold over tid. Regjeringen foreslår ikke en automatisk justeringsmekanisme for skjerming av uføres alderspensjon mot virkningen av levealdersjustering nå, og mener at dette, inntil videre, bør vurderes i sammenheng med jevnlige evalueringer av pensjonssystemet.
+
+### Minsteytelsene (kapittel 10)
+
+I kapittel 10 redegjøres det for utviklingen i minsteytelsene i pensjonssystemet, og regjeringen gir sine vurderinger av nivået på, og reguleringen av, minsteytelsene.
+
+Siden innføringen av folketrygden har det vært en betydelig vekst i minsteytelsene sammenlignet med den alminnelige lønnsutviklingen. Generelt sett har de eldres økonomiske situasjon bedret seg vesentlig de siste tiårene, men det er stor variasjon mellom ulike grupper.
+
+Etter pensjonsreformen har minsteytelsene i pensjonssystemet blitt økt en rekke ganger, utover den ordinære reguleringen. Pensjonsutvalget ser dette som en indikasjon på at de reglene som ble innført i 2011 ikke har hatt tilstrekkelig oppslutning.
+
+Rett til alderspensjon tjenes opp både gjennom elementer som varierer med pensjonsgivende inntekt og elementer som tjenes opp gjennom trygdetid, dvs. uavhengig av inntektsnivå. Pensjonsutvalget foreslo ikke endringer i dette grunnleggende trekket ved pensjonssystemet. Regjeringen vil heller ikke foreslå endringer i disse reglene, og mener at justeringer bør gjøres innenfor dette systemet. Beskrivelsene av minsteytelsene er derfor i hovedsak under forutsetning om 40 års trygdetid. Minstenivåene vil være tilsvarende lavere ved færre enn 40 års trygdetid.
+
+Regjeringen mener de ekstraordinære økningene har vært viktige for å bedre levekårene for utsatte grupper av eldre. Samtidig har endringer i minsteytelsene konsekvenser for pensjonssystemets virkemåte. Økte minsteytelser reduserer uttellingen for arbeid, og innebærer at færre kan ta ut pensjon tidlig. Utformingen av pensjonssystemet er et resultat av en avveining mellom ulike hensyn. God minstesikring er ett av flere hensyn som skal ivaretas. Pensjonssystemet må også bidra til standardsikring, som innebærer at pensjonen må stå i et rimelig forhold til tidligere arbeidsinntekt. Når den enkelte får pensjonsmessig uttelling for arbeidsinnsats bidrar det til økt arbeidstilbud som er viktig for velferdsstatens bærekraft, og det bidrar til å opprettholde legitimiteten og betalingsviljen for folketrygdens alderspensjon som bærebjelken i det samlede pensjonssystemet.
+
+Minstenivåene i ny alderspensjon har en annen utforming enn minstepensjonen i den gamle ordningen, og de ulike egenskapene innebærer at nivåene bør vurderes ulikt. En vesentlig forskjell er at nær sagt alle som i hovedsak har bodd i Norge vil ha opptjent inntektspensjon, og dermed vil de aller fleste motta en ytelse over garantipensjonssatsen. I den gamle ordningen kunne selv personer med en god del arbeidsinntekt ende opp som minstepensjonister, og få samme pensjonsnivå som de som aldri hadde deltatt i arbeidsmarkedet.
+
+Reguleringen av minstenivåene påvirker det framtidige nivået på ytelsene. Et godt nivå på dagens minsteytelser vil bare sikre framtidens pensjonister dersom reguleringen opprettholder nivåene i tilstrekkelig grad. Nivået på minsteytelsene i dag og reguleringen av minsteytelsene framover bør derfor vurderes samlet. Pensjonsutvalget viser til at å både øke minsteytelsene og innføre en gunstigere regulering enn i dag kan gi vesentlig høyere pensjonsutgifter, og de mener derfor det er nødvendig å prioritere. Utvalget mener samtidig at det er tungtveiende argumenter for at minstenivåene, ved den normerte pensjoneringsalderen, bør reguleres i takt med den generelle velstandsutviklingen, målt ved den gjennomsnittlige lønnsveksten.
+
+Regjeringen støtter utvalgets vurderinger og viser til at en heving av minstenivåene og en videreføring av gjeldende reguleringsregler vil innebære å prioritere dagens minstenivåer framfor minstenivåene til framtidige generasjoner i uforholdsmessig stor grad. Pensjonssystemet bør ha gode minstenivåer, men det bør også gjelde i framtiden. Regjeringen mener derfor at nivåene på minsteytelsene bør videreføres, samtidig som det etableres et nytt system for regulering av minsteytelsene ved at minsteytelsene ved normert pensjoneringsalder reguleres med lønnsveksten. Dette vil bety at minsteytelsene på sikt opprettholder sin relative verdi i forhold til det generelle lønnsnivået i samfunnet. Formålet er å sikre gode levekår også for framtidens pensjonister, og samtidig etablere et forutsigbart system som reduserer behovet for ekstraordinære økninger som vedtas uten at de langsiktige konsekvensene er belyst.
+
+Lønnsregulering av minsteytelsene ved normert pensjoneringsalder innebærer ingen endring i reglene for regulering av løpende pensjoner. Siden normert pensjoneringsalder avhenger av fødselsår, innebærer dette at minstenivåene blir årskullspesifikke.
+
+### Økonomiske og administrative konsekvenser (kapittel 11)
+
+I dette kapittelet beskrives viktige konsekvenser av regjeringens forslag og det redegjøres for økonomiske og administrative konsekvenser. Regjeringens forslag i denne stortingsmeldingen vil ha store økonomiske konsekvenser på lang sikt. Konsekvensene er belyst ved beregninger ved bruk av Statistisk sentralbyrås mikrosimuleringsmodell MOSART.
+
+Beregningene viser at regjeringens forslag bedrer den sosiale bærekraften i pensjonssystemet. Uføre vil få en klart høyere alderspensjon enn med gjeldende regler, og dette gjelder særlig dem med de laveste pensjonene. Bedre regulering av minsteytelsene vil løfte pensjonsnivået til mange, og særlig blant de som har relativt lav pensjon.
+
+Beregningene viser videre at sysselsettingen vil øke, men de beregnede effektene er relativt moderate. Mange mulige effekter er imidlertid ikke tallfestet. Økte aldersgrenser kan gi økt sysselsetting gjennom å påvirke den alminnelige oppfatningen i befolkningen av når det er «normalt» å ta ut pensjon. Denne normdanningseffekten er ikke forsøkt tallfestet i beregningene. På den andre siden vil regjeringens forslag gjøre det mer lønnsomt å motta en ytelse fra en midlertidig inntektssikringsordning. Det kan redusere insentivene til å stå lenger i arbeid og gjøre at flere vil motta disse ytelsene. I beregningene er det antatt at økt nedre aldersgrense i liten grad vil påvirke sysselsettingen og at mange som ville tatt ut alderspensjon med en lavere aldersgrense i stedet blir uføre. Dette kan være for pessimistisk.
+
+Samlet beregnes det en klar økning i antall personer som mottar uføretrygd eller midlertidig inntektssikring. Antall uføre øker med 75 000 i 2060 og 113 000 i 2080 sammenlignet med et alternativ der dagens regler er videreført.
+
+Forslagene vil etter hvert gi en vesentlig økning i folketrygdens utgifter sammenlignet med en videreføring av dagens regler. Økningen anslås til rundt 30 mrd. 2023-kroner i 2060 og om lag 66 mrd. kroner i 2080. Økningen skyldes dels at nivået på gjennomsnittlig alderspensjon øker, men særlig at det blir økte utgifter til uføretrygd og andre ytelser fra folketrygden fordi disse kan mottas lenger når aldersgrensene øker, og fordi flere vil bli uføre når den nedre aldersgrensen for å ta ut alderspensjon øker.
+
+Regjeringens forslag vil også gi staten høyere inntekter. Det skyldes særlig at sysselsettingen vil øke. Det er usikkert hvor mye inntektene vil øke, men det er neppe tvil om at regjeringens forslag samlet vil bety en svekkelse av statsfinansene. Den såkalte bidragsraten som er et mål på finansieringsbyrden til pensjonssystemet, er anslått å øke med 1,2 prosentpoeng i 2060 og 2,6 prosentpoeng i 2080, sammenlignet med en videreføring av dagens regler.
+
+Selv om utgiftene øker relativt mye, vil regjeringens forslag fortsatt gi en betydelig innsparing sammenlignet med om pensjonsreformen ikke var gjennomført.
+
+Forslagene om økte aldersgrenser, økt opptjening for uføre og endret regulering av minstenivåene vil samlet føre til betydelige økonomiske og administrative konsekvenser for Arbeids- og velferdsetaten. Arbeids- og velferdsdirektoratet har særlig trukket fram at følgende områder berøres:
+
+- Systemendringer i saksbehandlingssystemene for pensjon og uføretrygd
+
+- Systemendringer i øvrige saksbehandlingssystemer
+
+- Endringer i selvbetjeningsløsninger/søknadsløsninger
+
+- Endringer i informasjonsbrev og på nettsiden nav.no
+
+- Opplæring og informasjon
+
+Videre vil forslagene kunne medføre økt ressursbehov knyttet til utvikling av digitale informasjonsverktøy, veiledning og tettere oppfølging av økt antall brukere på helserelaterte ytelser. Arbeids- og velferdsdirektoratet vurderer at det er for tidlig å si noe konkret om administrative kostnader og gjennomføringsevne.
+
+Forslagene vil også ha store økonomiske og administrative konsekvenser for de øvrige pensjonsleverandørene.

@@ -1,1023 +1,138 @@
-# NOU 2024: 3, del 11 av 40 (side 135–147)
+# NOU 2024: 3, del 11 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 135]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Sverige har hatt to angrep på politikere med
-dødelige utfall med drapene på statsminister Olof
-Palme i 198626 og utenriksminister Anna Lindh i
-2003.27 Den kjente svenske psykiateren Ing-Marie
-Wieselgren ble drept på den politiske Almedalsveckan i 2022.28 Myndighetspersoner andre steder i
-Vest-Europa har også blitt utsatt for angrep. Den
-britiske Labour-politikeren og parlamentsmedlemmet Jo Cox ble drept av en høyreekstrem terrorist 16. juni 2016.29 Cox var aktiv talskvinne for
-remain-kampanjen i forkant av den britiske folkeavstemningen om hvorvidt Storbritannia skulle bli
-værende i EU. I juni 2019 ble den tyske politikeren Walter Lübcke drept i sitt hjem.30 Lübcke var
-en uttalt tilhenger av Angela Merkels liberale
-holdning til asylsøkere under den store tilstrømningen av flyktninger til Europa i 2015. For dette
-mottok han dødstrusler og fikk derfor beskyttelse
-av myndighetene. Den nynazistiske drapsmannen hadde en rekke dommer for hatkriminalitet.
-Allerede som 15-åring hadde han forsøkt å sette
-fyr på boligen til en tyrkisk immigrantfamilie.31
-Flere tyske ordførere overlevde angrep som de
-ble utsatt for av nynazister fordi de hadde en tilsvarende liberal holdning under flyktningkrisen.32
-PST har utarbeidet råd til politikere som opplever hat og trusler.33 Trusler og hatefulle ytringer
-kan være belastende og ødeleggende for enkeltmennesker og deres nærstående. Trusler og hets
-mot politikere og myndighetspersoner og andre
-som ytrer seg, er en alvorlig utfordring for demokratiet siden den samlede belastningen for flere
-myndighetspersoner og politikere kan føre til at
-enkelte trekker seg fra den offentlige debatten
-eller avstår fra å stille til valg.34
-Det er ikke nødvendigvis slik at trusler skremmer folk fra å innta politiske verv og posisjoner,
-men trusler kan true den representativiteten
-demokratiet er avhengig av. Undersøkelser viser
-for eksempel at kvinner og unge er særlig tilbøyelige til å trekke seg fra verv.35 Selv om rikspolitikere generelt er mer utsatt for hets og hatytringer
-enn lokalpolitikere, kan hatefulle ytringer og trus25
-
-Se eksempelvis Riksadvokaten 2019; Riksadvokaten 2023
-NRK u.å.-a
-27
-Larsen 2021
-28 Nijjer og Røyne 2022
-29 Cobain og Taylor 2016
-30
-Oltermann 2021
-31 Oltermann 2021
-32 Manthe 2020
-33 Politiets sikkerhetstjeneste 2023b
-34
-Politiets sikkerhetstjeneste 2023a
-35 Brandtzæg, Magnussen, Vike, Heian, Kvernenes, Jupskås
-og Ruud 2022
-26
-
-133
-
-Kapittel 11
-
-ler oppleves enda mer alvorlig for lokalpolitikere
-ettersom de som fremsetter trusselen, høyst sannsynlig befinner seg i lokalområdet.36
-Ungdomspolitikere kommisjonen har snakket
-med, sier at det kan være summen av ting som
-gjør at man trekker seg, selv om det man opplever, ikke er ulovlig. For demokratiet er det viktig
-at unge mennesker vil og kan engasjere seg, og at
-de deltar i det offentlige ordskiftet.
-
-11.3 Antisemittisme
-Antisemittisme er fiendtlige holdninger og
-handlinger rettet mot jøder fordi de er jøder. Kommisjonen anerkjenner at det er ulike definisjoner,
-men forholder seg i det videre til definisjonen i
-regjeringens handlingsplan: «fiendtlige holdninger og handlinger rettet mot jøder eller det som
-oppfattes som jødisk, basert på bestemte forestillinger om jøder».37
-Antisemittismen har lange historiske røtter i
-Europa og Norge.38 Paragraf 2 i Grunnloven, den
-såkalte «jødeparagrafen», nektet jøder og jesuitter
-adgang til landet. Inntil denne paragrafen ble opphevet i 1851, var det forbudt for jøder å bosette
-seg i Norge. De første jødene som immigrerte til
-Norge kom som flyktninger fra russiske pogromer på slutten av 1800-tallet.
-Antisemittiske konspirasjonsfortellinger om
-jøder spilte en sentral rolle i opptakten til holocaust under 2. verdenskrig. Det norske holocaust
-betegner forsøket på å tilintetgjøre de norske
-jødene gjennom drap og deportasjoner under
-2. verdenskrig. Totalt ble 773 norske jøder og
-jødiske flyktninger deportert fra Norge til nazistiske døds- og konsentrasjonsleirer. Av de 38 som
-kom tilbake, var det ingen kvinner og barn.39 230
-familier ble helt utslettet.40
-Forekomsten av antisemittiske holdninger i
-den norske offentligheten og i befolkningen både
-før og etter krigen var lenge lite undersøkt. Det
-har også tatt lang tid for myndighetene, historieformidlingen og den kollektive bevisstheten å
-erkjenne at nordmenn deltok i deportasjonen av
-36
-
-Brandtzæg, Magnussen, Vike, Heian, Kvernenes, Jupskås
-og Ruud 2022
-37 Kommunal- og moderniseringsdepartementet 2021, s. 12.
-«Det bor 1 500–2 000 jøder i Norge. Dette tallet inkluderer
-nye, innvandrede jøder. De fleste bor i Oslo og Trondheim,
-men det bor jøder også i Kristiansand og Bergen.» Banik
-og Levin 2016 i Berge, Haugsevje og Løkka 2019
-38 Eriksen, Harket og Lorenz 2009; Simonsen 2023
-39 Bruland 2017
-40 HL-senteret u.å.-b
-
-[Side 136]
-
-134
-
-Kapittel 11
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-sine jødiske medborgere til de nazistiske konsentrasjons- og dødsleirene høsten 1942 og vinteren
-1943.41 Svært mange sider ved norsk antisemittisme og opptakten til deportasjonene og
-oppgjøret etter krigen har først blitt løftet frem i
-lyset de siste årene. Det er verdt å nevne antisemittisme i den norske pressen,42 fravær av norske gjerningsmenn i fortellinger om deportasjonene43 og den økonomiske likvidasjonen av jødenes bo,44 som var en forutsetning for deportasjonen ut av landet.
-Å hevde at holocaust er overdrevet eller ikke
-fant sted, såkalt holocaustfornektelse eller -forvrengning, har vært et sentralt element i antisemittismen etter 2. verdenskrig. Holocaustfornektelse kan beskrives som gjenbruk av gamle
-antijødiske konspirasjonsforestillinger, tilpasset
-det politiske klimaet i etterkrigstiden.45 Historiker
-Kjetil Braut Simonsen utdyper hvordan dette har
-artet seg:
-Benektelsen av folkemordet på de europeiske
-jødene dreier seg ikke bare om et feilaktig og
-forvridd syn på historien. Den hviler i siste
-instans på forestillinger om at jødene besitter
-en verdensomspennende makt. Sett ut ifra
-dette perspektivet finnes det en klar kontinuitetslinje fra den nasjonalsosialistiske antisemittismen under krigen til den høyreekstreme antisemittismen etter krigen. (Simonsen, 2021)
-
-Holocaustforvrengning handler om å anerkjenne
-at folkemordet har skjedd, men å bestride dets
-omfang, årsaker og konsekvenser. Holocaustforvrengning innebærer ofte et element av å tillegge
-jødene selv skylden for folkemordet, eller en
-anklage om at jødene misbruker holocaust til sin
-fordel.
-Antisemittisme kan blant annet utrykkes med
-referanse til konspirasjonsforestillinger om at
-jøder kontrollerer regjering, media eller banker
-med et ondsinnet ønske om makt og verdensherredømme. Det kan være knyttet til Israel-relatert
-kritikk som tar i bruk antisemittiske stereotypier,
-innvandringsfiendtlige holdninger eller anti-globaliseringsholdninger.
-Antisemittisme spres fra et bredt spekter av
-miljøer, både på den politiske ytre høyre, og ven41
-
-Eriksen 1995
-Westlie 2019
-43 Corell 2010
-44 Corell 2021
-45
-Simonsen 2021
-42
-
-stresiden, i konspirasjonsmiljøer, i muslimske og
-kristne miljøer.46 Antisemittiske konspirasjonsfortellinger om jøder er en sentral komponent i
-mange høyreekstreme og ekstreme islamist
-strømninger og bevegelser nasjonalt og transnasjonalt, som omtalt ovenfor. Antisemittisme var
-sentralt i det høyreekstreme verdensbildet som
-motiverte Philip Manshaus sitt terrorangrep.47 I
-terrorfremmende propaganda fra IS og al-Qaida
-har «korsfarere» og «jøder» blitt brukt i samme
-setning som betegnelser på den samme fienden.
-Hatet begrunnes videre ut fra en overbevisning
-om at jøder har infiltrert vestlige myndigheter.48
-Antisemittisme får næring og eskalerer i perioder med politisk, økonomisk og sosial uro.49 Antisemittiske konspirasjonsfortellinger har blitt produsert og endret seg i respons til kriser som
-migrasjonskrisen i 201550, Covid-19 pandemien51
-og den russiske invasjonen og krigføringen i
-Ukraina.52 Jøder har blitt beskyldt for å stå bak
-både migrasjon, virusspredning og krig for å
-oppnå makt og kontroll. I kontekst av Israel-Gaza
-krigen i 2023/24 oppstod nye konspirasjonsfortellinger om at Israel selv stod bak angrepet 7.oktober 2023.
-En nyere utvikling kjennetegnes av at ulike
-aktører fra en rekke miljøer speiler hverandres
-antisemittiske diskurser på tvers av ulike ideologier. Slike allianser av «hybridisert» og ideologikryssende antisemittisme forsterker antisemittisk innhold.53 Antisemittismens karakter og
-uttrykksmåter endres ikke kun i respons til ulike
-kriser og kritiske hendelser, men også av ny teknologi og internettkultur. I ulike fora fremmes
-dehumaniserende antisemittisme gjennom memetisk ironi og humor.54 Humoristiske memer blir
-brukt for å fremme dehumaniserende, antisemittisk propaganda og oppfordring til vold.55 Antisemittisme er ikke kun begrenset til ekstreme
-grupper eller perifere miljø, men finnes også på
-arenaer på og utenfor nett hvor flertallet av innbyggerne samhandler. Bruk av ordet jøde som
-skjellsord er normalisert og utbredt i norske sko46
-
-Brekke, Beyer og Enjolras 2019
-Bitsch 2022a
-48 Argentino, Amarasingam og Conley 2022
-49
-Moe 2022
-50
-Thorleifsson 2019a
-51 Freeman, Waite, Rosebrock, Petit, Causier, East, Jenner,
-Teale, Carr, Mulhall, Bold og Lambe 2022
-52
-Gerster 2022
-53 Institute for Strategic Dialogue 2023
-54 Thorleifsson 2022a
-55
-Thorleifsson 2022a. Se omtale av digitalisering og ekstremisme i del III
-47
-
-[Side 137]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-legårder.56 En studie som kartla den danske digitale offentlighet på Facebook ved hjelp av maskinlæring, viste at når samtalene dreier seg om jøder,
-kan hver tiende kommentar karakteriseres som
-antisemittisk.57
-Negative forestillinger om jøder er dokumentert i den norske befolkningen.58 HL-senteret har
-gjennomført tre befolkningsundersøkelser om
-nordmenns holdninger til jøder siden 2012.59 Studiene gir viktig innsikt i fordommer og syn på
-jøder blant nordmenn. Et av funnene i HL-senterets holdningsundersøkelse fra 2022 er at nordmenns holdninger til jøder har blitt mindre negative de siste ti årene.60 Samtidig er fordommer i
-form av antisemittiske stereotyper utbredt.
-Påstanden om at «verdens jøder arbeider i det
-skjulte for å fremme jødisk interesser», en konspirasjonsforestilling med lange linjer i antisemittismen, ble støttet av 14 prosent av respondentene.61 Stereotypiske forestillinger om jødisk
-makt og innflytelse er mer utbredt blant muslimer
-enn blant ikke-muslimer. Norske muslimer skårer
-omtrent likt og stadig lavere på målinger av motvilje og sosial avstand til jøder som andre. Fordommer mot jøder er imidlertid fremdeles klart
-mer utbredt blant muslimer enn i resten av befolkningen.62 Blant muslimer er det en tydelig diskrepans mellom de stereotypiske forestillingene om
-jøder og holdninger til jøder som naboer eller venner. Ifølge forskere tyder dette på at antisemittisme blant norske muslimer først og fremst
-er relatert til internasjonale forhold og i liten grad
-har betydning for mellommenneskelige relasjoner.63
-Norske jøder erfarer selv en negativ utvikling
-knyttet til antisemittisme. Flere undersøkelser de
-siste årene har vist at norske jøders erfaringer
-med antisemittisme i stor grad kan knyttes til den
-israelsk-palestinske konflikten, og flere norske
-jøder opplever at de holdes personlig ansvarlig for
-Israels politikk.64 Flere aktører som kommisjonen
-56
-
-Kunnskapsdepartementet 2011
-Jødisk informationcenter, Nordic Safe Cities, Analyse & Tal
-og Common Consultancy 2023. Forskere i Norge har også
-undersøkt muligheten for å bruke lignende programvare
-for å kartlegge forekomsten av antisemittiske ytringer på
-nett og i sosiale medier. Som med andre forebyggende tiltak på nett må slik kartlegging og dokumentasjon gjøres
-innenfor rammene av personvern og ytringsfrihet
-58 Moe 2022
-59
-HL-senteret u.å.-a
-60 Moe 2022
-61 Moe 2022
-62 Moe 2022
-63 Moe 2022
-57
-
-135
-
-Kapittel 11
-
-har hatt møter med har pekt på behovet for økt
-kompetanse om antisemittisme i skolen.65 Flere
-aktører har pekt på at manglende kunnskap om
-antisemittisme på og utenfor nett er en utfordring
-i det forebyggende arbeidet mot radikalisering og
-ekstremisme.66
-Israel-Palestina konflikten utgjør en sentral
-referanse for dagens antisemittisme.67 Regjeringens handlingsplan mot antisemittisme drøfter
-hvordan kritikk av Israel og israelske myndigheter kan være kraftig, ensidig og ubalansert uten
-å være antisemittisk. Samtidig er det eksempler
-på at det som oppfattes som negative handlinger
-utført av staten Israel, beskrives som resultat av
-iboende, negative karaktertrekk hos jøder, noe
-som kan være antisemittisk. Israel-kritikk kan
-ifølge HL-senteret defineres som: «antisemittisk
-når den tar i bruk antisemittiske stereotypier (for
-eksempel ved koblinger til den tradisjonelle anklagen om ritualmord og barnedrap), eller når negative syn på Israel fortoner seg som motstand mot
-jøder som kollektiv».68 Det hender med andre ord
-at israel-kritikk inkluderer antisemittiske forestillinger, og at ytringer med antisemittisk innhold
-fremmes i enkelte sammenhenger kamuflert som
-antisionisme.69 Antisemittiske holdninger og
-handlinger øker også når konflikten i Israel-Palestina og Midtøsten eskalerer. Etter Hamas' angrep
-7. oktober 2023 og den påfølgende krigen70 er det
-rapportert om en kraftig økning i antisemittiske
-handlinger og ytringer internasjonalt.71
-I Norge har antallet anmeldelser om antisemittisme doblet seg siden i fjor, og halvparten
-av anmeldelsene har kommet etter 7. oktober.72
-Trusselen mot jødiske og israelske mål i Norge
-er skjerpet.73 Flere jøder i Norge har vært utsatt
-for truende hendelser.74
-Det Mosaiske Trossamfund sendte ut det de
-kalte «et varsko for det norske demokratiet»:
-64
-
-Moe 2022; Thorleifsson 2022b
-Kommisjonens møte med Samarbeidsrådet for tros- og livssynssamfunn, 1. desember 2022
-66 Kommisjonens møter med representanter for ulike trossamfunn, jf. vedlegg 1
-67 Brekke, Beyer og Enjolras 2019; Kommunal- og moderniseringsdepartementet 2021; Moe 2022
-68
-Moe 2022
-69
-Brekke, Beyer og Enjolras 2019
-70 Se kapittel 21 Drivere og motivasjonsfaktorer
-71 FNs høykommissær for menneskerettigheter 2023; Renard
-og Cook 2023
-72 Njie, Syed, Bråthen, Manbari og Uleberg 2023
-73 Solheim, Brekke og Elgaaen 2023
-74 NTB 2023; Strand, Hjorthen, Einarsdóttir og Breidlid 2023
-65
-
-[Side 138]
-
-136
-
-Kapittel 11
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Ord fører til handlinger, og effekten av dette
-ordskiftet blir nå følt i hverdagen på en måte vi
-ikke kan huske i vår generasjon. Flere av våre
-medlemmer har de siste dagene opplevd truende hendelser mot sine hjem, fordi de er
-jødiske. (Det Mosaiske Trossamfund, 2023)
-
-I kontekst av Israel-Palestina konflikten har
-jødene blitt fremstilt som representanter for en
-spesielt arkaisk og voldelig religion, noe som er
-en nedarvet, antisemittisk fremstilling.75 Post
-7.oktober angrepet reproduserte en lederartikkel
-i Dagbladet76 liknende forestillinger. I lederen der
-Israel ble kritisert for uproporsjonal gjengjeldelse
-mot sivilbefolkningen i Gaza ble uttrykk om jøder
-som «det utvalgte folk» og budet om «øye for øye,
-tann for tann» tatt i bruk. Disse spiller på at jøder
-anser seg selv som overlegne og er hevnlystige.77
-Forståelsen av uttrykket «det utvalgte folk»
-«som» herskerdrøm og overlegenhetstanke med
-jødenes påståtte ambisjoner om verdensherredømme har dype røtter i antisemittisk tradisjon.78
-I Europa har Israel-Palestina konflikten lenge
-vært en delmotivasjon for jihadistisk voldelig
-ekstremisme og terror rettet mot jødiske mål.79
-Antisemittiske ytringer har også ført til domfellelse av ekstreme islamister i Norge. I 2006
-avfyrte den norske islamisten Arfan Bhatti elleve
-skudd med automatvåpen mot synagogen i Oslo.
-Påtalemyndigheten mente at dette var en terrorhandling, men Bhatti ble dømt for medvirkning til
-grovt skadeverk på synagogen. I januar 2023 ble
-imamen Noor Ahmad dømt til 60 dagers betinget
-fengsel og bot på 12 000 kroner for hatefulle ytringer og oppfordring til drap på jøder.80
-Regjeringens første handlingsplan mot antisemittisme kom i 2016. Den gjeldende handlingsplanens løpende tiltak er besluttet videreført ut
-2024. Det er planlagt en ny handlingsplan mot
-antisemittisme.81
-
-75
-
-Lenz og Geelmuyden 2020
-Dagbladet 2023
-77
-Simonsen og Moe 2023
-78 Simonsen og Moe 2023
-79 Det vises til omtale i del IV Radikalisering
-80 I mai 2019 skrev Ahmad følgende: «Hitler sparte noen
-jøder så verden kunne se hvor brutalt dette folket er, og
-hvorfor det er nødvendig å drepe dem.» Ahmad mistet jobben som følge av uttalelsene, og han har i ettertid kommet
-med en beklagelse. Moskeen han tilhørte, kom med en
-offentlig uttalelse der den blant annet slår fast at styret har
-nulltoleranse for antisemittisme og vil slå hardt ned på alle
-former for hets, rasisme og diskriminering
-81 Kommunal- og distriktsdepartementet 2023b
-76
-
-11.4 Muslimfiendtlige holdninger
-og diskriminering av muslimer
-Muslimfiendtlighet er «(…) når muslimer tillegges iboende negative egenskaper og diskrimineres kun i kraft av å være muslimer.»82
-En definisjon på muslimfiendtlighet er som følger:
-Muslimfiendtlighet er utbredte negative fordommer, uriktige eller sterkt overdrevne negative påstander om muslimer, og handlinger og
-praksiser som angriper, ekskluderer eller diskriminerer mennesker på bakgrunn av at de er
-eller antas å være muslimer. (Bangstad og
-Døving 2023, s 95)
-
-I akademiske fagmiljøer er begrepet islamofobi
-utbredt om en fordomsproduksjon som underbygger frykt for, hat mot og diskriminering av muslimer og de som oppfattes som muslimer. Islamofobi favner «formede meningssystemer», og er
-derfor ikke noen fobi i psykologisk forstand, men
-et ideologisk fiendebilde.83
-Muslimfiendtlighet er et globalt fenomen og
-muslimer inngår i fiendebildene til en rekke ulike
-partier og bevegelser både i Vesten og globalt, i
-demokratiske og autoritære land. Muslimfiendtlig
-retorikk og propaganda sirkulerer på tvers av landegrenser, slik tilfellet er med en rekke ytre høyre
-transnasjonale partier og bevegelser som fremmer ensidige skremmebilder av muslimer. Muslimfiendtlighet eksisterer og omformes også i
-ulike geografiske og religiøse kontekster (for
-eksempel buddisme, hinduisme) hvor muslimske
-minoriteter avhumaniseres og blir forfulgt i land
-som India, Kina og Myanmar.84
-Muslimer pekes på som den gruppen som
-dominerer i fiendebildet til ytre høyre i dag. Fordommer mot muslimer har i senere år blitt en sentral del av tankeverdenen til ytre høyre-grupper
-verden over, og forskere advarer mot å underdrive betydningen av dette.85 Særegent for hat
-mot muslimer er at hatet deles av i utgangspunktet svært forskjelligartede fraksjoner av ytre
-høyre, både nasjonalt og transnasjonalt.
-Muslimer og antatte muslimer har vært utsatt
-for flere ekstreme handlinger i Norge. Det første
-angrepet på en moské i Norge var da Nor moské i
-Oslo ble utsatt for et terrorangrep av en høyreek82
-
-Bangstad og Døving 2023, s 195
-Bangstad og Døving 2023
-84
-Ganesh, Frydenlund og Brekke 2023
-85 Beutel og Johnson 2021
-83
-
-[Side 139]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-strem i 1985. En kvinne mistet hørselen under
-angrepet. Det siste og mest alvorlige angrepet på
-norske muslimer til dags dato var terrorangrepet
-mot Al-Noor moskeen i Bærum i 2019. Gjerningsmannen hadde et mål om å drepe så mange muslimer som mulig og var inspirert av angrepet i
-Christchurch på New Zealand seks måneder tidligere. Muslimer inngikk i fiendebildet til Anders
-Behring Breivik da han drepte 77 mennesker 22.
-juli 2011. Med henvisning til den såkalte Eurabiateorien hevdet han å forsvare sin kultur mot en
-pågående muslimsk invasjon.
-HL-senterets holdningsundersøkelse fra 2022
-viste at ca. 31 prosent av respondentene hadde
-utpregede fordommer mot muslimer.86 Påstanden
-«muslimer har selv mye av skylden for økende
-muslimhets» ble støttet av 44 prosent av befolkningen ifølge undersøkelsen. 25 prosent støttet
-påstanden «muslimer ønsker å ta over Europa».87
-Regjeringens handlingsplan mot diskriminering av og hat mot muslimer slår fast at muslimer
-som gruppe er mer sammensatt enn den offentlige debatten gir inntrykk av, og advarer om at en
-ensidig debatt kan bidra til å forsterke fordommer
-mot muslimer og mistenkeliggjøring av dem.88
-Muslimske veivisere rapporterer om det de opplever som lav kunnskap om muslimsk liv og praksis,
-og de rapporterer om muslimfiendtlige holdninger og hat mot muslimer i Norge – særlig i distriktene. De etterlyser større mangfoldskompetanse i
-tjenesteapparatet.89 Folk som skal jobbe tett på
-muslimske familier, bør ha kompetanse om tro og
-kultur og forskjellen på dem.
-Flere aktører som kommisjonen har hatt møte
-med, har pekt på den muslimfiendtlige organisasjonen SIAN og deres aksjoner som en stor utfordring i det forebyggende arbeidet mot radikalisering og ekstremisme. På den ene siden kan aktiviteter som koranbrenning ifølge PST bidra til radikalisering og føre til ekstrem islamisme.90 På den
-andre siden kan det stilles spørsmål ved om
-SIANs holdninger og handlinger omfattes av det
-brede ekstremismebegrepet. SIAN-leder Lars
-Thorsen er dømt for hatefulle ytringer mot muslimer og har blant annet uttalt at muslimer er «en
-trussel mot rikets sikkerhet», og at de «må deporteres eller interneres på livstid».91
-86
-
-Moe 2022
-Moe 2022
-88 Kulturdepartementet 2020b
-89 Kommisjonens møte med muslimske veivisere, 13. mars
-2023. Se også omtale av muslimske veivisere i kapittel 39.5
-90 Politiets sikkerhetstjeneste 2023a
-91
-TOSLO-2019-14462 (Oslo tingrett)
-87
-
-137
-
-Kapittel 11
-
-Enkelte forskere har påpekt at SIAN er en
-«perifer» gruppe med middelaldrende til gamle
-medlemmer med både begrenset voldspotensial
-og begrenset gjennomslag for sitt tankegods.92
-Samtidig kan de menneskelige konsekvensene være store for norske muslimer som kan føle
-på frykt, sinne, redsel og avmakt i forbindelse
-med SIANS demonstrasjoner. I kommisjonens
-møte med ungdommer ga ungdommene uttrykk
-for at de følte på sinne og frustrasjon da SIAN
-demonstrerte i byen deres.
-Tidligere ble innvandringsmotstand fra ytre
-høyre begrunnet i rase, etnisitet og nasjonalitet,
-men det har skjedd en gradvis utvikling der
-hovedfienden i dag er islam og muslimer. Fortellingen om at det pågår en kulturkrig mellom vestlige samfunn og Islam, fikk særlig vind i seilene
-etter at det internasjonale terrornettverket alQaida angrep USA 11. september 2001. Det vokste
-frem et kontrajihadistisk nettverk på internett
-som er omtalt overfor. Det var denne typen tekster Breivik refererte til i det han kalte et manifest.
-Muslimfiendtlighet kan også oppstå som reaksjoner på internasjonale konflikter og krig i Midtøsten. Når kommisjonen ferdigstiller denne rapporten, er det usikkert hvilke konsekvenser konflikten mellom Israel og Hamas vil få for muslimer
-i Norge.93 Enkelte norske muslimer uttrykker at
-de opplever at de ikke anses som en del av det
-norske fellesskapet:94
-Jeg sier alltid «vi» fordi jeg er herfra, men det
-er en ekkel bismak i ordet. Det er ikke noe «vi».
-Jeg ser det nå. Hadde det eksistert noe «vi», så
-hadde over 100 norske barn som er sperret
-inne i Gaza, fått 100.000 ganger mer spalteplass
-enn de får, og Norge hadde eksplodert, og vi
-hadde fylt gatene med sinne, og hele den norske pressen hadde sagt fordømme og ren ondskap. (Abdelmaguid, 2023)
-
-Handlingsplanen mot diskriminering av og hat
-mot muslimer utløp i 2023. Høsten 2023 ble det
-besluttet at handlingsplanen skulle forlenges til
-2024, i likhet med handlingsplanen mot antisemittisme. En ny plan skal legges frem i 2025.95 I
-forbindelse med denne nyheten uttalte kultur- og
-likestillingsministeren følgende: «Vi har alle et
-ansvar for å bekjempe fordommer og rasisme.
-Regjeringen er opptatt av at krigen i Gaza ikke
-92
-
-Torres og Ighoubah 2021
-Rose og Davey 2023
-94 Johansen og Høeg 2023
-95
-Kultur- og likestillingsdepartementet 2023d
-93
-
-[Side 140]
-
-138
-
-Kapittel 11
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 11.3 Drapet på Mahmed Jamal Shirwac
-Den norsk-somaliske taxisjåføren Mahmed
-ikke retten at det var usannsynlig at skuddene
-Jamal Shirwac ble drept av en passasjer i sin bil
-kunne rammet hvem som helst. Retten ville derpå Heimdal utenfor Trondheim 23. april 2008. I
-for ikke uttale seg bestemt om hvilket motiv tilrettssaken trakk aktoratet frem at gjerningspertalte hadde, noe de heller ikke anså som nødvensonen forut for drapet hadde utvist sterke antidig for bevisvurderingen.
-patier mot innvandrere og muslimer og uttrykt
-I vurderingen av om gjerningspersonen
-et ønske om å brenne moskeer og drepe musliskulle dømmes til tvungent psykisk helsevern
-mer.1 Han hadde også ifølge dommen uttalt seg
-uttalte flertallet: «Tiltalte var psykotisk, og hans
-negativt overfor innvandrere på «ulike nettstemotvilje mot muslimer var så sterk at han hadde
-der». Retten kom frem til at det ikke kunne ses
-gitt uttrykk for ønsket om å «drepe muslimer
-bort fra at rasistiske og religiøse forestillinger
-om sjansen byr seg». Dette viser at han i psykovar tiltaltes motiv for drapet. Det ble også slått
-tisk tilstand utgjør en betydelig risiko for omgifast at det neppe var en impulshandling, ettervelsene, særlig innvandrergrupper og personer
-som våpenet var medbrakt hjemmefra. Ettersom
-med muslimsk bakgrunn.»
-gjerningsmannen ble kjent psykotisk i den
-1
-TTRON-2009-52277 (Trondheim tingrett)
-rettspsykiatriske vurderingen, anså imidlertid
-
-skal øke motsetningene i Norge».96 Internasjonalt
-rapporteres det om betydelig økning i tilfeller av
-muslimfiendtlige episoder som, i likhet med
-økningen i antisemittiske hendelser, blir tolket
-som et utslag av den eskalerte krigen i Midtøsten.97
-
-11.5 Antisiganisme: hets
-og diskriminering av rom
-Antisiganisme er en spesifikk form for rasisme
-mot og diskriminering av minoriteten rom. Europarådet tok i bruk begrepet i 2005. Rådet definerer vanligvis antisiganisme som «en ideologi
-basert på ideen om en rasemessig overlegenhet,
-en form for avhumanisering og institusjonell
-rasisme, næret av en historisk diskriminering».98
-Porrajmos er betegnelsen for forsøket på å
-utrydde Europas rombefolkning under 2. verdenskrig.
-HL-senteret har siden 2006 arbeidet systematisk med å heve kunnskapsnivået i befolkningen
-om rom under krigen, et arbeid som også har
-foregått i fellesskap med representanter for den
-romske minoriteten.99 I 2015 kom en utredning
-om dette utført på oppdrag av det daværende For96
-
-NRK 2023a
-FNs høykommissær for menneskerettigheter 2023
-98 Rosvoll 2023
-99 Rosvoll, Lien og Brustad 2015
-97
-
-nyings-, administrasjons- og kirkedepartementet
-(FAD). Norske myndigheters avvisning av 68 norske romer på grensen mellom Tyskland og Danmark i 1934 ble spesielt undersøkt. På den internasjonale romdagen, 8. april 2015, kom daværende statsminister Erna Solberg med en offisiell
-beklagelse til norske romer for den rasistiske ekskluderingspolitikken som ble ført både før og
-etter 2.verdenskrig, og de fatale følgene denne
-politikken fikk for norske romer under holocaust.100
-Det er mer utbredt med sosial avstand til rom
-enn til noen av de andre gruppene som inngår i
-HL-senterets holdningsundersøkelse.101 En tredjedel av den norske befolkningen ønsker ikke
-sosial kontakt med romer. HL-senteret anbefaler å
-følge med på denne utviklingen. Alle andre gruppebaserte fordommer har høyest forekomst i
-befolkningsdelene med lavest utdanning og inntekt, men det forholder seg motsatt med fordommer mot rom. Dette peker i retning av at fordommene mot denne gruppen også har utspring i en
-klassebasert forakt.102 Det er et tankekors at
-romer mangler en handlingsplan samtidig som de
-ifølge HL-senterets holdningsundersøkelse er
-sterkt utsatt for negative holdninger fra majoritetsbefolkningen. Noen forskere peker også på at
-antisiganisme er et lite innarbeidet begrep i nor100 Meld. St. 12 (2020–2021)
-101 Moe 2022
-102 Moe 2022
-
-[Side 141]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-ske offentlige dokumenter, og at dette står i kontrast til den dokumenterte rasismen minoriteten
-er utsatt for.103 Av norske minoriteter er rom også
-den eneste som ikke har fått en forsoningsprosess. I møte med kommisjonen fikk kommisjonen
-fortellinger om generasjonssmerte og en opplevelse av å ikke være en del av «den store fortellingen».104
-Det berettes om lav kunnskap om romske livsvilkår og romsk historie i befolkningen og tjenesteapparatet. Romer opplever også diskriminering
-fra tjenester i førstelinjen og majoritetsbefolkningen.105 Hatprat og hets mot romer og romanifolk
-eller tatere kommer gjerne som påstander om at
-disse gruppene tigger, stjeler og snylter på samfunnet.106
-
-11.6 Hets og diskriminering av samer,
-kvener/norskfinner og skogfinner
-Samer er anerkjent som urfolk i Norge, mens kvener/norskfinner og skogfinner er anerkjent som
-nasjonale minoriteter på linje med jøder, romanifolk og rom.
-Fornorskingspolitikken fikk alvorlige konsekvenser for samer, kvener og skogfinner. Nedvurderingen av samisk, kvensk og skogfinsk språk og
-kultur førte til språk- og kulturtap og også kunnskapsløshet om gruppene i befolkningen. Sannhets- og forsoningskommisjonen har påpekt at
-mange av handlingsmønstrene, holdningene og
-samfunnsstrukturene som fornorskingspolitikken bidro til, ble videreført også etter at fornorskningspolitikken ble avviklet.107 Ifølge kommisjonen har arven etter fornorskingspolitikken ført til
-at minoritetene ofte blir sett ned på og utsatt for
-mobbing, hatprat, trakassering og til dels diskriminering i møtet med majoritetsbefolkningen.
-Den utbredte diskrimineringen av gruppene er
-fortsatt et alvorlig samfunnsproblem. Ett av fire
-utsagn på Facebook om samer er negativt, ifølge
-en rapport fra høsten 2023.108
-Folkehelseundersøkelsen i Troms og Finnmark viste at én av tre samer i regionen har opplevd diskriminering.109 Mobbing og etnisk diskriminering er den kulturelle faktoren som bidrar
-103 Lauritzen 2023
-
-104 Kommisjonens møte med Romsk råd, 25. mai 2023
-105
-
-Kommisjonens møte med Romsk råd, 25. mai 2023
-Norges institusjon for menneskerettigheter 2022a
-107 Dokument 19 (2022–2023)
-108
-Analyse & Tall 2023
-109 Melhus og Broderstad 2020
-106
-
-139
-
-Kapittel 11
-
-sterkest til angst- og depresjonsvansker hos
-Saminorundersøkelsen,
-samisk
-ungdom.110
-SAMINOR 3, som undersøker helse og levekår
-blant samer og kvener og norsk befolkning i
-utvalgte områder, ser blant annet på historiske
-traumer og langvarig påvirkning på helsen.
-Undersøkelsen varer til 2025.111 Regjeringen har
-besluttet å utarbeide en handlingsplan mot hets
-og diskriminering av samer. Den skal etter planen
-være ferdigstilt høsten 2024.112
-Blant personer bosatt i Nord-Norge er andelen
-med et negativt inntrykk av samer og kvener eller
-norskfinner elleve prosent. Dette er nesten fire
-ganger landsgjennomsnittet.113 Hatprat eller hets
-rettet mot samer knytter seg gjerne til spørsmål
-om rettigheter til utmark og beitemark og til
-påstander om at samer ikke er urfolk.114 Under
-debatten om vindturbinene på Fosen115 opplevde
-mange samer økte fordommer og negative stereotypier på sosiale medier.116 Fosen-saken har ifølge
-Samisk nasjonalt kompetansesenter for psykisk
-helsevern og rus påvirket den samiske minoritetens helse, og den har ført til «minoritetsstress».117
-Norges institusjon for menneskerettigheters
-undersøkelse fra 2022 viste at ni av ti i befolkningen over 18 år oppgir at de lærte lite eller ingenting om kvener/norskfinner, skogfinner, romer og
-romanifolk/tatere på skolen, mens halvparten
-oppga det samme om samer, og en tredjedel
-oppga det samme om jøder.118 Rapporten påpekte
-at undervisning om samer og jøder i skolen har
-økt i omfang, mens undervisning om kvener/
-norskfinner, skogfinner, romer og romanifolk/
-tatere har holdt seg stabilt på et lavt nivå. I tillegg
-pekte rapporten på at undervisning om samer og
-110
-
-Universitetet i Tromsø u.å.-a
-
-111 Universitetet i Tromsø u.å.-b
-
-112 Kultur- og likestillingsdepartementet 2023a
-
-113 Norges institusjon for menneskerettigheter 2022a
-114 Norges institusjon for menneskerettigheter 2022a
-115
-
-Fosen-saken refererer til konflikten om de to vindkraftverkene Storheia og Roan i Trøndelag og reindriftssamenes
-rettigheter. Vindkraftverkene ligger i beiteområdet til
-Fosen reinbeitedistrikt. Olje- og energidepartementets
-konsesjon til vindkraftanleggene ble klaget inn, og i oktober 2021 kom dommen fra Høyesterett (HR-2021-1975-S).
-Dommen slo fast at vindkraftutbyggingen på Fosen var
-ugyldig fordi den krenker reindriftssamers rett til utøvelse
-av kultur etter artikkel 27 i FNs konvensjon om sivile og
-politiske rettigheter. Til tross for dommen i Høyesterett er
-vindkraftverkene fortsatt i drift, og dette førte til store
-aksjoner og demonstrasjoner i 2023. Norges institusjon for
-menneskerettigheter 2022a
-116 Norges institusjon for menneskerettigheter 2022a
-117
-Veimæl og Gerhardsen 2023
-118 Norges institusjon for menneskerettigheter 2022a
-
-[Side 142]
-
-140
-
-Kapittel 11
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-nasjonale minoriteter nedprioriteres i skolen og i
-lærerutdanningen.119
-
-11.7 Hets og trusler mot skeive
-Skytingen mot utesteder i Rosenkrantz’ gate i
-Oslo 25. juni 2022 skjedde natten før pridefeiringen. To mennesker ble drept, og flere ble skadet.
-Studier viser at mange skeive i Norge lever et
-godt liv, og det har skjedd flere fremskritt for
-skeive både i Norge og flere europeiske land.120
-Samtidig anerkjenner regjeringens handlingsplan
-for kjønns- og seksualitetsmangfold at Norge fortsatt står overfor store utfordringer.121 Ifølge en
-undersøkelse fra Institutt for samfunnsforskning
-fra 2019 utsettes LHBTIQ+-personer dobbelt så
-ofte for hatytringer som den øvrige befolkningen.122 Mer enn én av fem LHBTIQ+-personer
-oppga at de hadde blitt utsatt for hatytringer det
-siste året, mens 15 prosent hadde blitt utsatt for
-konkrete trusler.
-Det pågår en polarisert global debatt rundt
-kjønn. Organisasjoner for skeives rettigheter som
-kommisjonen har snakket med123, melder om at
-hets og trakassering er særlig rettet mot transkjønnede, ikke-binære og andre som bryter med
-tradisjonelle normer for kjønnsuttrykk. De forteller at debatten er preget av kampanjer mot enkeltpersoner. Dette fører til tilbaketrekning, ensomhet og store psykososiale utfordringer.
-Aktører kommisjonen har snakket med, peker
-videre på at mediene og politiet har liten kunnskap om de bevegelsene som vokser frem, og om
-forbindelsene som finnes mellom radikal feminisme og kristenkonservativisme.124 De peker på
-at dette er grupper og individer som fører et vol119 Dette begrunnes i at det er krevende å skaffe til veie til-
-
-strekkelige menneskelige, økonomiske og pedagogiske
-ressurser til å gjennomføre målene og kravene i læreplanene og retningslinjene for lærerutdanningen. Norges
-institusjon for menneskerettigheter 2022a
-120 Kultur- og likestillingsdepartementet, Arbeids- og inkluderingsdepartementet, Barne- og familiedepartementet, Forsvarsdepartementet, Helse- og omsorgsdepartementet,
-Justis- og beredskapsdepartementet, Kommunal- og distriktsdepartementet, Kunnskapsdepartementet og Utenriksdepartementet 2023
-121 Kultur- og likestillingsdepartementet, Arbeids- og inkluderingsdepartementet, Barne- og familiedepartementet, Forsvarsdepartementet, Helse- og omsorgsdepartementet,
-Justis- og beredskapsdepartementet, Kommunal- og distriktsdepartementet, Kunnskapsdepartementet og Utenriksdepartementet 2023
-122 Fladmoe og Nadim 2019
-123 Se vedlegg 1
-124
-Fitzsimons 2019
-
-delig og avhumaniserende språk og i tillegg er
-truende og ekstremt aktive. Aktørene mener at
-det er behov for holdningsendringer hos ulike
-instanser, herunder politiet, idet de ikke føler seg
-beskyttet i dag. Dette bekreftes også av politiets
-egen undersøkelse, hvor 30 prosent av respondentene i LHBTIQ+-undersøkelsen svarte at de har
-svært lav eller ganske lav tillit til at politiet kan ivareta behovene til LHBTIQ+-innbyggerne i Norge.125
-Det finnes også en utrygghet i relasjonen mellom
-skeive og politiet.126
-I andre halvår av 2022 viste politiet til en tredobling i antall anmeldelser av hatefulle ytringer
-på grunnlag av seksuell orientering, kjønnsidentitet og kjønnsuttrykk, sammenlignet med første
-halvår av 2022. Politiet anga at økningen kan ha
-sammenheng med terrorangrepet den 25. juni
-2022. Det er uklart om den markante økningen
-skyldtes at det ble begått flere straffbare
-handlinger, eller om det kunne begrunnes i økt tilbøyelighet til å anmelde hatefulle ytringer.127
-
-11.8 Andre trusselutsatte
-Noen grupper i det norske samfunnet er marginaliserte og sårbare fordi de befinner seg i ekstremisters fiendebilder samtidig som de selv opplever å være i blindsonen til myndighetene og samfunnet for øvrig. Kommisjonen anerkjenner at
-dette er en utfordring, og at det er vanskelig å bli
-sett for grupper som allerede er marginalisert.
-Kommisjonen har møtt representanter for noen av
-disse gruppene. Det ligger i sakens natur at den
-etterfølgende omtalen ikke er uttømmende. Situasjonsbildet som er omtalt ovenfor, er i stadig endring, og det må også tas høyde for blindsoner som
-ennå ikke er avdekket.
-Grupper og enkeltindivider som utsettes for
-negativ sosial kontroll eller æresrelatert vold, støtes ut av miljøer eller utsettes for hets og trusler
-av ulike årsaker. Dette kan være mennesker som
-er særlig utsatt fordi trusselen de lever med, ofte
-kommer fra miljøer de vanskelig kan bryte ut av
-eller fjerne seg fra. Et kjent eksempel er saken der
-den tidligere nevnte Mohyeldeen Mohammad ble
-dømt til to års fengsel for trusler mot stortingspolitiker Abid Raja. Blant annet fremsatte han følgende ytringer: «Din skitne svin, må Allah brenne
-125 Jakobsen 2023
-
-126 Jakobsen 2023; Kierulf, Bjørke og Spurkland 2023. Kommi-
-
-sjonens møter og samtaler med representanter for skeive i
-løpet av arbeidet, jf. vedlegg 1
-127
-Politidirektoratet og Oslo politidistrikt 2023
-
-[Side 143]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-deg i Jahannam din uoppdratte murtad kafir hund!
-Du er en skam for pakkiser og muslimer, ikke kall
-deg muslim, for Wallahi du har INGENTING med
-islam å gjøre, skitne forræder!!!».128
-Barn og unge er særlig utsatt for det som i
-hjelpetjenestene og regjeringens handlingsplan
-Frihet fra negativ sosial kontroll og æresrelatert
-vold, omtaler som «ekstrem kontroll».129
-
-11.8.1 Ahmadiyya-muslimer
-Ahmadiyya-muslimer ble utsatt for et terrorangrep i 1985 da en norsk nynazist sprengte en
-bombe ved moskéen deres, Nór, på Frogner i
-Oslo. Ahmadiyya er en forfulgt minoritet, og FNs
-menneskerettighetseksperter er utvetydige når
-de peker på behovet for et langt bedre beskyttelsesvern for denne minoriteten verden over.130
-Handlingsplanen mot diskriminering av og hat
-mot muslimer angir at Ahmadiyya-minoriteten er
-utsatt i Sør-Asia og deler av Midtøsten.131 I et
-møte med kommisjonen fortalte medlemmer fra
-trossamfunnet at de opplever seg som en utsatt
-minoritet som både er gjenstand for fordommer
-fra majoritetssamfunnet og hat fra andre muslimer og muslimske trossamfunn i Norge.132 De
-oppfatter at andre muslimske samfunn anser
-Ahmadiyya som en indre trussel. Medlemmer av
-minoriteten mener at Norge er et trygt land å bo i,
-men at norske myndigheter har liten kunnskap
-om hvor utsatte de er, og at det mangler forståelse
-for at når hatet mot Ahmadiyya øker i Pakistan og
-i andre land, reflekteres hatet også i Norge.
-11.8.2 Utenlandsadopterte
-Utenlandsadopterte er også en gruppe som opplever at de lenge har vært i en blindsone hva angår
-rasisme og diskriminering i storsamfunnet. 10.
-august 2019 drepte Philip Manshaus sin adopterte
-stesøster Johanne Zhangjia Ihle-Hanssen fordi
-han ønsket å skåne foreldrene fra den rasekrigen
-han mente ville komme raskt.133 Som tidligere
-nevnt ble Arve Beheim Karlsen, adoptert fra
-India, jaget mot og døde i Sogndalselva 24. april
-1999. I lengre tid forut for hendelsen ble han
-utsatt for massiv rasistisk hets. Utenlandsadop128 NTB 2016
-
-129 Arbeids- og inkluderingsdepartementet 2021
-130 Shaheed, Khan og Varennes 2021
-131 Kulturdepartementet 2020b
-132
-
-Kommisjonens møte med Ahmadiyya muslimske trossamfunn, 13. mars 2023
-133 TAHER-2020-5113 (Asker og Bærum tingrett)
-
-141
-
-Kapittel 11
-
-terte har i møte med kommisjonen fortalt at de
-måtte rømme fra norske nynazister på 1990-tallet,
-og at de utsettes for rasisme også i dag.134
-Videre vokser mange utenlandsadopterte opp i
-«norske» familier som ikke nødvendigvis har kompetanse til å kunne veilede og støtte den adopterte
-når hen utsettes for rasisme og diskriminering.
-Dette har gjort at mange har følt seg ensomme i
-håndteringen av disse opplevelsene. Det fortelles
-om tilfeller av rasisme og utrygghet i egen storfamilie. Erfaringene støttes av funn gjort av By- og
-regionsforskningsinstituttet NIBR ved Oslo Met,
-som viser at utenlandsadopterte forskjellsbehandles i samme grad som andre innvandrere, men at
-de har vanskelig for å bli trodd og finne støtte for
-dette, selv i nær familie.135 De har også et behov
-for at tjenesteapparatet skal ha større forståelse for
-situasjonen deres og de negative opplevelsene de
-har hatt. Bufetat tilbyr råd og veiledning til adopterte og deres familier etter adopsjon, herunder
-råd til hvordan det kan søkes innsyn i egen adopsjonssak eller råd og bistand til adopterte som vil
-søke etter sin opprinnelse. Også etterkommere
-etter adopterte kan få bistand av Bufetat. Det er
-også opprettet et nytt tilbud om samtalestøtte med
-terapeuter for adopterte over 16 år.136 Et av tiltakene i regjeringens handlingsplan mot rasisme og
-diskriminering er å styrke adoptivforeldres kunnskap om rasisme og diskriminering.137
-
-11.8.3 Personer med nedsatt funksjonsevne
-Personer med nedsatt funksjonsevne, som utgjør
-rundt 16 prosent av verdens befolkning og dermed er verdens største minoritet,138 inngår blant
-annet i høyreekstremes fiendebilder.139 I en rapport fra Norges institusjon for menneskerettigheter fra 2022 som er basert på dybdeintervjuer med
-personer med nedsatt funksjonsevne kom det
-frem at informantene utsettes for hets, trakassering og hatefulle ytringer. «Særlig de yngre informantene i undersøkelsen oppgir at de har opplevd
-hets og trakassering, særlig på nett. Dette gjør at
-flere vegrer seg for å ta del i det offentlige ordskiftet, og på annen måte benytte seg av ytringsfriheten sin».140 I tillegg fører mangel på tilgjengelig
-134
-
-Kommisjonens møte med Adopsjon i endring, 4. november
-2022
-135 Kvanvik 2021
-136
-Bufdir u.å.-d
-137 Arbeids- og inkluderingsdepartementet 2023a
-138 Verdens helseorganisasjon 2023
-139 Europakommisjonen 2021b
-140 Norges institusjon for menneskerettigheter 2022
-
-[Side 144]
-
-142
-
-Kapittel 11
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-informasjon og fysiske barrierer til at de ikke får
-deltatt i det politiske liv. «[D]e får rett og slett ikke
-muligheten til å være samfunnsborgere på lik linje
-med oss andre».141
-Hatkriminalitet mot personer med nedsatt
-funksjonsevne har vært forbudt i Norge siden
-2013.142 I nasjonal trygghetsundersøkelse for
-2020 gikk det frem at personer med nedsatt funksjonsevne er mer utsatt for hatkriminalitet enn
-personer uten funksjonsnedsettelse.143 I en rapport fra Nordlandsforskning fra 2016 kom det
-frem at 32 prosent av respondentene (307 av 947)
-hadde blitt utsatt for hatytringer. Politiets oversikt
-
-over hatkriminalitet viser at det har vært få anmeldelser av hatkriminalitet mot denne gruppen.144
-Likestillings- og diskrimineringsombudet har
-uttalt at de frykter store mørketall om hatkriminalitet mot funksjonshemmede.145 Personer med
-nedsatt funksjonsevne opplever også utestenging
-og diskriminering i arbeidslivet.146 Utfordringene
-personer med nedsatt funksjonsevne møter er
-adressert i regjeringens handlingsplan Et samfunn for alle – Likestilling, demokrati og menneskerettigheter.147
-
-141 Kierulf 2022
-
-145 Likestillings- og diskrimineringsombudet 2018
-
-143
-
-147
-
-142 Prop. 131 L (2012–2013)
-
-Løvgren, Høgestøl og Kotsadam 2022
-
-144
-
-Politidirektoratet og Oslo politidistrikt 2023
-
-146 Bufdir 2023a
-
-Kulturdepartementet 2020a
-
-[Side 145]
-
-Del III
-Ekstremisme i en digital tidsalder
-
-[Side 146]
-
-[Side 147]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-145
-
-Kapittel 12
-
-Kapittel 12
-
-Innledning
-Norge er blant de mest digitaliserte landene i verden.1 Både voksne og barn lever store deler av sin
-hverdag på nettet, og med sosiale medier og ny
-medieteknologi blir mennesker stadig mer sammenflettet. En hyperkoblet verden der milliarder av
-mennesker kan kommunisere over høyhastighetsnett, gir mange muligheter. For eksempel åpner det
-for en bredere deltakelse i den offentlige debatten
-og mer involvering av befolkningen i demokratiske
-prosesser. Like fullt har den teknologiske utviklingen mange og store fallgruver, både for samfunnet
-generelt og for ekstremismefeltet spesielt.
-Ekstremister bruker sosiale medier og ny teknologi til radikalisering, rekruttering, opplæring,
-terrorplanlegging, innsamling av informasjon,
-kommunikasjon, forberedelse, propaganda og
-finansiering.2 Den raske utviklingen innebærer at
-plattformene hvor ekstreme holdninger deles og
-videreutvikles, blir mer avanserte. Ny teknologi
-kan spre informasjon på nye måter som gjør at
-desinformasjon, hatefulle ytringer, voldelig ekstremisme eller annet skadelig innhold når ut til et
-bredere publikum og kan få større negative ringvirkninger enn tidligere. Nye ekstremistiske nettsamfunn og kommunikasjonsmåter dukker opp i
-stor skala og i et raskt tempo som gjør det utfordrende å holde seg oppdatert på trender og trusselbilder. Selve størrelsen på den digitale verdenen av tekst, videoer og bilder gjør det nærmest
-umulig å ha full oversikt i sanntid.
-Teknologiutviklingen gjør at geografisk avstand
-betyr mindre. På mange samfunnsområder er
-denne delen av globaliseringen positiv. Når det gjelder drivere for radikalisering og ekstremisme, er
-bildet mer nyansert. Radikaliseringstrender kan
-raskere migrere eller «smitte» fra et land til et
-annet. Nye teknologiske instrumenter gjør det
-også enklere å oversette innhold fra og til norsk.
-Teknologiutviklingen gjør derfor at samfunnet i
-enda større grad smelter sammen med resten av
-verden. Det blir vanskeligere å «holde verden ute».
-1
-2
-
-Se for eksempel Europakommisjonen 2022
-United Nations Office of Counter-Terrorism 2023
-
-Revolusjonerende utvikling innen kunstig
-intelligens gjør også at metodene for å spre ytringer, meninger og tankegods endrer seg raskt. I
-2021 viste den britiske MI6-sjefen i sin åpne trusselvurdering til at teknologiutviklingen det neste
-tiåret kunne gå lenger enn det siste århundret.3
-Samtidig gir teknologiutviklingen nye redskaper i innsatsen mot radikalisering og ekstremisme.
-Ny teknologi, inkludert kunstig intelligens, gir styresmaktene kraftfulle verktøy til å kontrollere
-utviklingen gjennom preventive tiltak som overvåkning og kontroll av informasjon. Hensikten med tiltakene mot voldelig ekstremisme bør i siste instans
-være å bevare demokratiet og et sterkt menneskerettighetsvern for alle. Teknologien muliggjør likevel etter hvert så omfattende inngrep i borgernes
-sivile rettigheter at det ikke er ønskelig for samfunnet å ta i bruk alle virkemidler som finnes. Dersom
-samfunnet ikke finner en god balanse mellom rettighetsvern på den ene siden og inngrep med overvåkning og kontroll på den andre, kan iveren etter å
-beskytte samfunnet og grunnleggende verdier
-ende opp med å svekke menneskerettighetene og
-demokratiet som man søker å verne.
-Det er vanskelig å forutse hvordan teknologiutviklingen vil påvirke radikalisering og voldelig
-ekstremisme. Myndighetenes tiltak og regulering blir derfor reaktiv og «hengende etter». Når
-styresmaktene benytter ny teknologi i kampen
-mot radikalisering og voldelig ekstremisme, må
-tempoet og omfanget kalibreres godt.
-Det teknologiske landskapet er dynamisk og i
-stadig endring. Det samme gjelder måten ekstremistene utnytter teknologien. Kommisjonen har valgt å
-se nærmere på noen overordnede utviklingstrekk
-og trender. Denne delen handler om hvordan ekstremister bruker sosiale medier og andre digitale flater,
-hvordan kunstig intelligens og andre nye teknologier kan påvirke ekstremismefeltet, menneskerettslige utfordringer og hvordan myndighetene forsøker
-å møte disse utfordringene gjennom regulering.
-3
-
-The International Institute for Strategic Studies 2021
+# Venstreekstremismen og dens omland
+
+Venstreekstremisme kan betegne forskjellige former for politiske ideologier til venstre for den parlamentariske sosialismen. Begrepet omfatter i denne betydningen både ikke-voldsaksjoner og terrorisme. I PSTs nasjonale trusselvurdering for 2023 er definisjonen «ideologiske overbevisninger \[…\] forankret i voldsforherligende varianter av kommunisme, anarkisme og antifascisme.»[^610] Begrepet har imidlertid vært definert noe ulikt, også av PST, gjennom de siste årene.[^611] PSTs tyske søsterorganisasjon, *Verfassungsschutz*, ser venstreekstremisme som en «helhetlig ideologisk forståelse og begrunnelse for politisk handling, inkludert voldshandlinger».[^612] Venstreekstremisme kjennetegnes ut fra dette av at den søker å erstatte den eksisterende stats- og samfunnsordningen, herunder den liberale demokratiske grunnordningen, som nevnt i den tyske grunnloven, med et kommunistisk eller anarkistisk system.[^613] Det viktige er da ikke faktisk bruk av vold, men den ideologiske begrunnelsen for om og når voldsbruk er legitimt for å oppnå politiske mål. *Verfassungsschutz* opererer derfor også med kategorien «voldsberedte».[^614]
+
+Forskjellen mellom norsk og tysk etterretningsdefinisjon av venstreekstremisme kan sies å komme fra de ulike historiske erfaringene med fenomenet. Viktigheten av å forstå det sympatiserende omlandet og dets potensial er en viktig lærdom fra terrorbølgen i det tidligere Vest-Tyskland på 1970-tallet. Den norske lærdommen fra samme periode er derimot at det er viktig å skille klart mellom holdninger og handlinger i møte med politisk radikalisering. Et slikt skille gjør at man kan unngå en ytterligere radikalisering og voldseskalering.[^615]
+
+I trusselvurderingen for 2023 anga PST at det er svært lite sannsynlig at venstreekstremister vil forsøke å gjennomføre terrorhandlinger i Norge i 2023. Det er ventet at venstreekstreme miljøer forblir små.[^616] Likevel er det mulig at verdenssyn og holdninger som tradisjonelt forbindes med venstreekstreme, kan inngå i et radikaliseringsløp eller i antidemokratisk tankegods.
+
+Historisk har venstreekstreme i hovedsak tatt utgangspunkt i revolusjonære ideer som ble utviklet i andre halvdel av 1800-tallet, og som har blitt videreutviklet i ulike retninger. Venstreekstremismen har videre historiske røtter i revolusjonære og totalitære regimer i det 20. århundre. Venstreekstremister oppfattet tradisjonelt demokratiet som et maskert borgerlig diktatur, som de ville erstatte med et samfunn uten klasseskiller, privat eiendom og statsmakt.[^617] Etter revolusjonen skulle proletariatets diktatur oppstå, og mange venstreekstreme argumenterte for at vold og tvang måtte brukes mot revolusjonens fiender og restene av det gamle borgerlige samfunnet.[^618]
+
+Venstreekstreme miljøer etter 1960 kjennetegnes ikke av at de har en homogen ideologisk forståelsesramme som peker mot en bestemt samfunnstype som skal erstatte den eksisterende. Konspirasjonsfortellinger om jødiske sammensvergelser er ikke forbeholdt ytre høyre og ekstrem islamisme, men kan også prege verdensbildet til mennesker på venstresiden.[^619] De er gjerne knyttet til en generell antiamerikanisme som kan gå over i konspiratoriske tanker om hvem som egentlig sto bak angrepene 11. september 2001.[^620] Venstreekstreme kjemper mot det de oppfatter som en urettferdig verdensorden som anses som dysfunksjonell og ansvarlig for ødeleggelse av miljøet, kriger og undertrykkelse av svake og fattige.[^621]
+
+Når det gjelder motiver og potensiale, kan venstreekstremisters forhold til vold inndeles i tre undergrupper:
+
+- tradisjonelle kommunistpartier som er åpne for at en revolusjonær omveltning vil innebære vold mot revolusjonens fiender
+
+- grupperinger som er villige til å bruke vold for å fremprovosere økte motsetninger i samfunnet for å få økt oppslutning om revolusjonære ideer
+
+- autonome miljøer som bruker vold mot politiske motstandere for å hindre dem i å vokse frem og bre seg[^622]
+
+## Venstreekstremismen og dens omland internasjonalt
+
+En kommunistisk fremtid virket forlokkende på mange unge intellektuelle fra middelklassen i både Øst- og Vest-Europa etter 2. verdenskrig.[^623] Mange følte seg underlegne det arbeidende folket, proletariatet, og mange meldte seg inn i kommunistiske partier.
+
+Kommunistiske regimer som Sovjetunionen og senere Kina og Kambodsja utviklet seg imidlertid til svært voldelige regimer som utsatte befolkningen i egne land for brutalitet og forfølgelse. Særlig gikk det ut over «revolusjonens fiender», som ble fjernet i såkalte utrenskninger.
+
+Selv om brutaliteten i kommunistiske regimer var kjent i Vesten, var mange på venstresiden i Vest-Europa tilhengere av kommunisme og følgelig også kommunistiske regimer som Sovjetunionen. Sovjetregimet nøt godt av den aura av antifascisme som kom som følge av de store ofrene russiske soldater gjorde på slagmarken under 2. verdenskrig.[^624] Denne strategien og tankegangen appellerte særlig til intellektuelle på venstresiden. Som motstandere av alt som var fascistisk ble den logiske slutningen for mange å akseptere og tolerere volden utført av det kommunistiske regimet i Sovjetunionen, som ikke sto tilbake for den volden som hadde blitt utført av det nazistiske regimet under 2. verdenskrig. De kriminelle handlingene som ble utført av Sovjetunionen, kunne unnskyldes fordi de var midler til å nå et høyere mål.[^625]
+
+Sovjetunionen og de øvrige kommunistlandene i Øst-Europa begynte i etterkrigsårene å legge for dagen en statlig sanksjonert antisemittisme. Jødiske skoler ble stengt, jøder ble kastet ut av kommunistpartiene, og antisemittiske utsagn som anklaget jøder for å være «rotløse kosmopolitter uten identitet», dominerte den kommunistiske partipressen.[^626] Befolkningen i Sovjetunionen og Øst-Europa ble utsatt for overvåkning, vilkårlige arrestasjoner, deportasjoner og likvidasjoner. Noen steder ble det utstedt visum, slik at jødene kunne forlate landet. Mange jøder reiste til USA og Israel.
+
+Både i Øst- og i Vest-Europa dalte begeistringen for den sovjetiske kommunismen etter opprøret mot de sovjetisk-styrte styresmaktene i Ungarn, et opprør som ble slått brutalt ned av sovjetiske styrker i 1956.[^627] Kommunistpartiene mistet et stort antall medlemmer over hele Vest-Europa, og bevegelser ytterst til venstre i Vesten vendte oppmerksomheten mot asiatisk og latinamerikansk anti-imperialistisk kommunisme. Sympatiserende på venstresiden tok avstand fra den volden som utspant seg på deres eget kontinent, fordi den ble utført av staten. Vold som ble utført av frihetskjempere, ble ansett som legitim.[^628] Venstreekstreme grupperinger, herunder terrorgrupper, utgjorde en trussel mot mange av de vesteuropeiske demokratiene under den kalde krigen.
+
+Venstreekstreme grupper i dag har i hovedsak forankring i antifascistiske og anarkistiske strømninger. Etter kommunismens fall og slutten på den kalde krigen mener imidlertid forskere at det ekstreme venstre har vært i en ideologisk krise. Like fullt er fiendebildet av det internasjonale pengefondet IMF, NATO, EU og supermakten USA relativt uendret. Det samme er nasjonale politiske eliter som oppfattes som kontrollert av multinasjonale selskaper.[^629]
+
+Et eksempel på en bevegelse i dag er Antifascistisk aksjon, Antifa eller AfA. Det er en løst sammensatt, transnasjonal politisk bevegelse som aksepterer bruk av vold mot antifascister. Et viktig prinsipp for Antifa er at fascister med alle nødvendige midler må hindres i å få en plattform å snakke fra.[^630] I bydelen Nørrebro i København har gruppen hengt opp klistremerker hvor det står *WARNING – Fascists will be assaulted in this area*.[^631] Militante antifascister vil ha direkte konfrontasjoner med fascister, og i senere år har Antifa benyttet seg av såkalt *doxxing*, som vil si å avsløre identiteten til høyreekstreme personer på digitale plattformer.[^632]
+
+Venstreekstrem terror og ekstremisme
+
+Venstreekstrem terrorisme i Vest-Europa har kommet fra små miljøer som i hovedsak har vært isolerte fra det politiske landskapet for øvrig. Unntaket er Italia, hvor skillet mellom venstreekstreme, venstreterrorister og venstreradikale har vært mer flytende.[^633] I Italia fantes det på venstresiden en frykt for at fascistene skulle ta over makten i landet.[^634]
+
+I Tyskland dreide opprøret seg for mange om det de anså som et manglende oppgjør med den nære nazifortiden, som viste seg gjennom at tidligere nazister gikk inn i ledende posisjoner i den nye republikken Vest-Tyskland.[^635]
+
+De venstreekstreme terrorgruppene som har gjort mest skade, var *Rote Armee Fraktion* (RAF), også kjent som *Baader-Meinhof*-gruppen,[^636] og *Brigate Rosse*[^637] i henholdsvis Vest-Tyskland og Italia. Disse gruppene, som særlig besto av unge studenter, næret mistillit til de nye demokratiene som oppsto etter 2. verdenskrig, som de oppfattet som imperialistiske og kapitalistiske.
+
+Ungdomsbevegelsene på ytre venstre utviklet et konsept om «legitim motvold» som knyttet seg til en internasjonal kamp mot kolonialisme og for borgerrettigheter i USA og klassekamp i Europa.[^638] Gjennom såkalt «defensiv vold» ville de provosere frem det de mente var styresmaktenes sanne, fascistiske natur. Det var ulike meninger om hva defensiv vold innebar. De mest ytterliggående gikk fra demonstrasjoner til symbolsk vold i form av for eksempel ødeleggelse av eiendom. Følgen av dette ble at de i noen grad lyktes med å fremprovosere den motreaksjonen de ønsket seg: Staten tok i bruk mer vold. Da den tyske studenten Benno Ohnesorg ble drept av politiet i Vest-Berlin i 1967, mente mange at analysen deres var bekreftet.[^639] Utover på 1970-tallet sto RAF bak en rekke bombeangrep, skytinger, kidnappinger og bankran. Toppen av angrepsaktiviteten ble nådd med «den tyske høsten» i 1977. Bevegelsen mistet mye av den støtten som den hadde vært avhengig av, samtidig som myndighetene intensiverte kampen mot RAF. 34 mennesker mistet livet på grunn av terror utført av RAF. Motstanden fra ytre venstre fortsatte etter dette mer som småskalavold mot politiske motstandere på ytre høyre, fra grupper som Antifa.
+
+I Italia kidnappet Brigate Rosse politikere, næringslivstopper og advokater og forlangte løsepenger. De mistet sympati blant folk da de kidnappet og myrdet den tidligere statsministeren Aldo Moro i 1978. Mange politikere på venstresiden og fengslede medlemmer fra gruppen selv tok avstand fra drapet.[^640]
+
+Fra slutten av 1960-tallet og frem til slutten på den kalde krigen var det også eksempler på politisk vold utført av venstreekstreme grupper i Danmark og Sverige. *Blekingegadebanden* fra København gjennomførte ran og andre kriminelle handlinger på 1970- og 80-tallet, blant annet for å skaffe penger til den palestinske organisasjonen *Popular Front for the Liberation of Palestine*, PFLP.[^641]
+
+Dagens utenomparlamentariske venstreside er radikale i sin samfunnskritikk, men støtter ikke eller bruker ikke politisk vold. Venstreekstreme miljøer skiller seg altså fra den øvrige venstresiden, som klart tar avstand fra vold. Venstreekstremister ser på seg selv som en del av en større internasjonal kamp mot global urettferdighet og orienterer seg gjerne i retning av større transnasjonale fellesskap.
+
+## Venstreekstremismen og dens omland i Norge
+
+Norsk venstreekstremisme har ikke kommet til uttrykk gjennom mange ekstreme handlinger. Hovedbildet er at de partiene og bevegelsene på venstresiden som her til lands har støttet væpnet revolusjon eller på andre måter ansett vold som legitimt virkemiddel, historisk sett ikke har satt denne tankegangen ut i livet. Det er også viktig å anerkjenne at Stortingets granskningskommisjon, Lund-kommisjonen, kom frem til at det hadde foregått ulovlig overvåkning i stor skala av norske borgere, særlig på venstresiden.[^642]
+
+Når Ekstremismekommisjonen likevel velger å omtale bevegelser som deltok i valg og ikke brukte eller argumenterte direkte for å bruke politisk vold, er dette fordi legitimeringen av vold hos disse gruppene på ulike tidspunkter var en sentral del av deres partiprogram og tankegods. Lund-kommisjonen formluerte det slik: «Kommisjonen har ikke funnet at det frem til siste halvdel av 1960-årene skjedde avgjørende endringer i NKPs holdninger som gjorde det uforsvarlig at norske myndigheter ikke tidligere endret sin oppfatning av kommunister som en mulig sikkerhetstrussel.»[^643] Dette støttes også av forskere som har pekt på at partiet NKPs ytre tilslutning til Grunnloven ikke gjenspeilte seg i partiorganisasjonen.[^644]
+
+Norske kommunister og Sovjetunionens bidrag til nedkjempingen av nazismen bidro til en viss folkelig sympati med NKP, som tidoblet sin medlemsmasse sammenlignet med før 2. verdenskrig. Partiet fikk ti prosent av stemmene og elleve representanter inn på Stortinget ved stortingsvalget i 1945. Dette var for øvrig en trend også ellers i Europa. NKP sluttet opp om den felles politiske plattformen Fellesprogrammet,[^645] som dannet grunnlaget for politisk styring av Norge i etterkrigstiden, og NKP forpliktet seg dermed til de demokratiske prinsippene som er nedfelt i Grunnloven.[^646] Det oppsto imidlertid tvil om NKPs nasjonale og demokratiske holdning, noe som skyldtes den internasjonale utviklingen med motsetninger mellom øst og vest og partiets ideologiske dreining. Overvåkningstjenesten begynte å overvåke og etterforske kommunistenes handlinger.[^647] Overvåkningstjenestens interesse for NKP avtok etter hvert.
+
+Ved inngangen til 1970-tallet og gjennom 80-tallet ble det maoistiske og revolusjonære Arbeidernes Kommunistparti (marxist-leninistene), eller AKP-ml, dominerende på den radikale venstresiden i Norge. Ml-bevegelsens forhold til vold har vært omdiskutert. Det ble bygget opp en organisering for illegal virksomhet og deler av organisasjonen ble holdt hemmelig, selv for interne medlemmer. Enkeltpersoner gikk inn i Heimevernet eller avtjente militær verneplikt, enten for å svekke «det borgerlige militærapparatet» eller for å forberede seg på den kommende motstandskampen eller den sovjetiske invasjonen.[^648] Et særtrekk ved den revolusjonære ml-bevegelsen i Norge var at den sprang ut av en hel organisasjon, Sosialistisk Folkepartis ungdomsorganisasjon (SUF), som ble maoistisk. Noen analyser vektlegger betydningen av at det fantes et organisasjonsapparat over hele landet, og at ml-bevegelsen måtte forholde seg til en norsk virkelighet og en bred kontaktflate.[^649]
+
+AKP-ml hadde en voldelig ideologi og retorikk, og det ble også pekt på konkrete personer som skulle likvideres etter revolusjonen. Ideologien og retorikken forble imidlertid «på papiret». AKP-ere var involvert i mye demonstrasjonsvold, men partiet hadde en klar linje mot «individuell terrorisme».[^650] En annen årsaksforklaring på hvorfor det ikke vokste frem venstreterrorisme i Norge, antas å være at AKP tidlig tok et oppgjør med anarkistiske krefter som gikk inn for «individuell vold», altså terrorisme, og i stedet gikk inn for «væpna revolusjon» som en form for kollektiv vold.[^651] En annen faktor som er fremhevet, er at ml-bevegelsen fikk et betydelig kulturelt gjennomslag og politisk spillerom og ikke risikerte sanksjoner som kriminalisering eller yrkesforbud, slik tilfellet var i andre land.[^652] Dette bidro trolig til at det fremsto mer formålstjenlig for partiet å operere innenfor organiserte rammer. Ikke bare ideologi, men også tilhørighet og fellesskap var viktige drivere for mange av dem som søkte seg til og ikke minst ble værende i bevegelsen.[^653] Både gjennom sakprosa og skjønnlitterære verker[^654] har tidligere medlemmer av ml-bevegelsen bidratt til en innsikt i hvilke faktorer som spilte inn da de gikk inn i bevegelsen.
+
+Dagens arvtaker til ml-bevegelsen, partiet Rødt, karakteriserer seg fortsatt som et revolusjonært politisk parti. Forskere peker imidlertid på at selv om det fortsatt finnes formuleringer i partiprogrammet som kan tolkes revolusjonært og antidemokratisk, er partiet i praksis lojalt mot systemet og forsvarer det.[^655]
+
+Ungdom og motkultur i Norge
+
+På 1970-og 80-tallet var det opptøyer og husokkupasjoner i flere norske byer, igangsatt av en løst sammensatt gruppe unge mennesker. Ut fra dette vokste det frem en ungdomsbevegelse som stilte krav, særlig for å få mulighet til kulturell og politisk utfoldelse og innflytelse på bylivet. Deres kampformer og uttrykk hadde innslag av blant annet humoristiske aktiviststunt, sabotasje og ramponeringer. Ungdommer fra Blitzhuset i Oslo gjorde seg bemerket i forbindelse med alt fra budsjettnedskjæringer, politivold, apartheid til NATO i løpet av 80-tallet. Det politiske venstre, blant annet med representanter fra ungdomspartiene Rød ungdom og Sosialistisk ungdom, forsøkte forgjeves å få makt og innflytelse over Blitz-miljøet.[^656] Hovedmotstanderen til blitzerne og miljøet som sprang ut av Blitz på 1980- og 90-tallet, var nynazister. Det kom til jevnlige konfrontasjoner mellom disse to gruppene, etter hvert også med våpen.
+
+Den norske fraksjonen av Antifa ble grunnlagt i 1994. Antifas mål var å være en militant og direkte respons på økningen av nynazistiske grupperinger i Norge på 1980- og 1990-tallet. Den kommunistiske gruppen Tjen folket ser også vold som et akseptabelt middel i kampen mot fascismen. Både Antifa og Tjen folket er små grupper i Norge, og de anses ikke som en stor trussel av politiet eller PST. Likevel mener politiet at voldspotensialet hos disse gruppene har kommet til uttrykk, spesielt rundt demonstrasjoner mot høyreekstreme grupper som DNM og SIAN etc.[^657]
+
+Enkelte klimaaktivister har i senere år tatt til orde for at vold kan bli nødvendig i kampen for å redde klimaet.[^658] PST vurderer at det er svært lite sannsynlig at venstreekstremister eller ekstremister motivert av klima-, miljø- og naturvernsaker, vil forsøke å gjennomføre terrorhandlinger i Norge i 2023. PSTs vurdering er likevel at klima-, miljø- og naturvernsaker har et potensial til å radikalisere.[^659]
+
+# Normalisering av ekstrem diskurs
+
+Verdenssyn som bygger på konspirasjonsfortellinger og rasistiske og antisemittiske stereotypier samt en forestilling om at demokratisk valgte regjeringer er forrædere eller landssvikere, var for ti–femten år siden i all hovedsak isolert til nettfora, undergrunnsbevegelser og marginale politiske miljøer. I dag er slike ideer toneangivende flere steder, både blant mennesker som besitter mye makt, og blant enkeltborgere.
+
+Antidemokratisk og ekstremt tankegods brukes ikke kun av aktører som befinner seg utenfor det demokratiske systemet. Utviklingen i det politiske ordskiftet i flere land de siste årene har satt i gang en samtale om *mainstreaming* eller normalisering av ekstrem diskurs, spesielt fra ytre høyre.[^660] Normalisering eller mainstreaming av ekstrem diskurs beskriver en prosess hvor språk eller elementer fra konspirasjonsfortellinger eller avhumaniserende og nativistisk retorikk tas inn i det offentlige ordskiftet.
+
+Prosessen frem mot Storbritannias utmeldelse av EU, Brexit[^661], og Donald Trumps presidentkampanje og seier i USA i 2016 var hendelser som bidro til å legitimere og operasjonalisere forestillinger om rase, kultur, innvandring og nasjonal identitet.[^662] Det har også vakt oppsikt at teknologimogulen Elon Musk har spredt konspirasjonsfortellinger om jøder til 140 millioner følgere på plattformen X.[^663]
+
+«Overton-vinduet» er et begrep som kan forklare denne utviklingen. Joseph Overton beskrev det som i hverdagsspråket kalles ytringsrommet, som et vindu av det som er akseptert diskurs. Det som er upopulært eller ansett som ikke fornuftig å si, befinner seg utenfor vinduet. Politisk påvirkning vil da si å utvide vinduet eller flytte det som tidligere ikke var akseptert å si, inn i vinduet.[^664] Dette fenomenet har vært mye diskutert i norsk kontekst. Dersom elementer av konspirasjonsfortellinger, såkalt konspirasjonssnakk, tas i bruk av politiske ledere eller andre fremtredende stemmer, kan de bakenforliggende ideene legitimeres i fellesskap som fra før preges av mistillit, fordommer og et negativt syn på demokratiet, minoriteter eller utsatte grupper. I slike fellesskap deles også forestillinger om skjulte eliter med hemmelige planer. Det har særlig blitt rettet oppmerksomhet mot at elementer fra konspirasjonsfortellingen Eurabia[^665] har kommet inn i hovedstrømmen.[^666]
+
+Når påstander om «snikislamisering» og støtte til islamistiske terrorister blir framført av framstående politikere, kan det bidra til å normalisere konspiratoriske forestillinger om at politiske motstandere bevisst legger til rette for Islams invasjon av Europa. (Bjørgo og Gjelsvik 2018, s. 36)
+
+Normaliseringsfenomenet forbindes oftest med strømninger fra eller representanter for ytre høyre. Det er likevel viktig å forstå at dette fenomenet ikke utelukkende skjer på ytre høyre. Desinformasjon og konspirasjonsfortellinger er virksomme verktøy i ustabile tider, særlig i forkant av eller underveis i krig. Russlands konspirasjonsfortellinger om Ukraina har vært et fremtredende eksempel på dette, og de har hatt en viktig plassering i Russlands propagandakrigføring i forbindelse med krigen.[^667] Etter Russlands annektering av Krim i 2014 og fullskalakrig mot Ukraina i 2022 har det pågått en debatt om hvordan konflikten skal forstås, analyseres og møtes av Vesten. Ulike forklaringsmodeller og fortellinger konkurrerer mot hverandre og det strides om i hvilken grad slike analyser skal trekke USAs og NATOs handlinger inn i forklaringsmodellene av den utviklingen som har funnet sted. Slike analyser er ikke kontroversielle, og er en del av den politiske diskursen, både i USA[^668] og Europa, herunder Norge.[^669] Enkelte miljøer og enkeltpersoner som tradisjonelt forbindes med venstresiden går imidlertid lenger i sin kritikk av Vestens rolle i konflikten, og sprer russisk propaganda inn i den norske offentligheten. Nettstedet Steigan.no har blitt pekt på som en bidragsyter til dette.[^670]
+
+Ekstreme utsagn er mer utbredt enn tidligere, noe som skyldes de mulighetene for rask spredning som den digitale tidsalderen gir, og det politiske klimaet utsagnene har oppstått i. Det er for øvrig ingen gitt sammenheng mellom utbredelsen av ekstreme holdninger eller utsagn og effekten av dem. Fenomenet er globalt, men effekten av det er ikke den samme over alt.
+
+At det blir mer vanlig å uttale seg med små henvisninger til store konspirasjonsfortellinger eller stigmatiserende retorikk mot utsatte grupper, kan ha ulike effekter, fra forskyvning av diskurs og politikk i en bestemt retning til vold og drap på mennesker i ekstremistenes fiendebilder. Metaforen «hundefløyte» beskriver hvordan budskap kan kodes med ekstremt innhold slik at det når innvidde uten at avsenderen kan straffes for det hen har uttalt. Hundefløyten er et effektivt virkemiddel for politiske stemmer som ønsker å nå ut til ytterliggående grupperinger uten selv å fremstå ytterliggående. Etter 22. juli 2011 har dette vært en aktuell og mye diskutert problemstilling i Norge.[^671] Mennesker som befinner seg i ekstremisters fiendebilder, frykter ofte ikke avsenderen av et ekstremt, kodet budskap, men effekten hundefløyten kan ha på individer som har voldspotensial.[^672] I møte med økt utbredelse av nettopp denne typen retorikk er det trolig avgjørende at det finnes tilstrekkelig demokratisk motstandskraft[^673] i befolkningen. Befolkningen må være oppmerksom på desinformasjon og villedende virkelighetsbeskrivelser som på kort og lang sikt er undergravende for demokratiet.
+
+Et normativt standpunkt kan være at ekstreme utsagn ikke blir mindre ekstreme eller farlige selv om de har blitt vanligere. Når elementer av ekstremt tankegods tas i bruk av demokratisk valgte politikere, kan dette være med på å bygge ned demokratiet innenfra og sette utsatte grupper under press. Dette kan dreie seg om verdensbilder som peker på opplevde indre eller ytre fiender, eller konspirasjonsfortellinger om sårbare eller utsatte grupper eller enkeltpersoner. Dette er samfunnstrusler som ikke kun kan løses på individnivå, og som understreker betydningen av hele samfunnets fellesansvar.
+
+# Tillit og mistillit
+
+Tilliten til myndighetene er nedadgående i mange liberale demokratier i dag. I USA ble tilliten til myndighetene målt til «historisk lav» i 2022.[^674] Organisasjonen for økonomisk samarbeid og utvikling, OECD, har i befolkningsundersøkelsen fra 2021 vist at tilliten til myndighetene ikke har vært så lav siden finanskrisen i 2008.[^675] Den norske befolkningens tillit til myndighetene ligger langt over gjennomsnittet i undersøkelsen.[^676] En robust velferdsstat, en sterk økonomi og et nokså homogent samfunn pekes på som sentrale faktorer for at tilliten lenge har vært så høy i Norge.[^677] Rapporten pekte likevel på noen særskilte utfordringer, som at norske myndigheter og norske institusjoner bør være særlig oppmerksomme på at den norske befolkningen er i endring, og at det offentlige tjenesteapparatet bør rustes til å håndtere og inkludere en befolkning som blir stadig mer mangfoldig, både hva gjelder alder og bakgrunn. Rapporten pekte på sårbarhetsfaktorer for tillit som er særskilte for Norge, som forholdet sentrum-periferi, og mellom høyt og lavt utdannede.[^678] I perioden juni til desember 2021 falt befolkningens tillit til Stortinget med ni prosentpoeng, fra 78 til 69 prosent.[^679] Nedgangen har blitt forklart med «pendlerboligsaken», som avdekket at flere stortingspolitikere og regjeringsmedlemmer hadde benyttet ordningen med gratis pendlerbolig på en måte som stred med regelverket, og som begunstiget dem økonomisk.[^680] Befolkningens tillit til folkevalgte politikere og politiske institusjoner ble også et stort diskusjonstema i norsk offentlighet etter flere habilitetssaker blant både regjeringsmedlemmer og stortingspolitikere på sensommeren og høsten 2023.[^681]
+
+Når det gjelder institusjonell politisk tillit, er det stor forskjell på tap av tillit til enkeltpolitikere og tap av tillit til politiske institusjoner. Det siste har langt større konsekvenser, ettersom enkeltpolitikere er utbyttbare ved valg.[^682]
+
+Den institusjonelle tilliten er ulik i ulike deler av befolkningen. To befolkningsgrupper, som til dels overlapper hverandre, har lavere tillit enn resten av befolkningen: personer uten høyere utdanning og arbeidsledige eller personer på annen trygd eller pensjon. Disse to sosiodemografiske gruppene opplever ofte utenforskap på andre arenaer, som den politiske og den økonomiske.[^683] Opplevelsen av utenforskap kan underbygge befolkningsgruppenes opplevelse av at samfunnets aktører og institusjoner ikke ivaretar interessene deres. Over tid ser man at de som har mest tillit, beholder den. De som er sosialt, økonomisk og politisk ressurssterke, blir ikke like påvirket. De som har minst tillit til myndighetene fra før, har også lettest for å miste den.[^684]
+
+Tillit og demokratisk motstandskraft
+
+Både individuelle og kollektive radikaliseringsprosesser kjennetegnes av lav tillit.<sup>1</sup> Mistillit kan være en drivkraft som får folk til å søke seg til lukkede meningsfellesskaper, for eksempel antistatlige bevegelser som baserer seg på konspirasjonsfortellinger, som *QAnon*-bevegelsen i USA eller *Reichsbürger-*bevegelsen i Tyskland. Motivasjon for å engasjere seg i demokratiske prosesser forutsetter både interpersonell og systemisk tillit. Man må ha en grunnleggende antakelse om at den andre «vil noe godt», og at det faktisk er mulig å komme frem til gode løsninger i det eksisterende politiske systemet. Å motarbeide tendenser som kan bidra til å bryte ned tillit på alle samfunnsnivåer, inngår dermed i en styrking av demokratisk motstandskraft.
+
+<sup>1</sup> Bjørgo 2018b
+
+\[Boks slutt\]
+
+I kriser og perioder preget av unntakstilstand der myndigheter tar avgjørelser som griper inn i folks liv og frihet, kan det være krevende å opprettholde eller få tillit. Tilliten til myndighetene påvirkes også hvis det avdekkes systemsvikt i det offentlige tjenesteapparatet, eller hvis folkevalgte eller regjeringsmedlemmer misbruker sine verv.[^685] Kriser kan også styrke tilliten til myndighetene. I tiden umiddelbart etter terrorangrepet 22. juli 2011 økte både den mellommenneskelige og den institusjonelle tilliten i Norge betraktelig, for så å falle tilbake til normalnivået nokså hurtig.[^686] Lignende opinionsmålinger av kortvarig styrket tillit er gjort etter andre terrorangrep og kriser. Samfunnsforskere beskriver fenomenet som *the rallying effect* eller *rallying around the flag*.[^687] Forklaringen går ut på at en befolkning gjerne samler seg rundt den øverste politiske ledelsen for å få beskyttelse når de rammes av terror, krig eller andre kriser. De nordiske landene hadde eksempelvis vesentlig forskjellige strategier i møtet med covid-19-pandemien. Forskningen viser imidlertid at tilliten til myndighetene økte i hele Norden i pandemiens første fase.[^688]
+
+Demokratisk kultur
+
+En demokratisk kultur kjennetegnes av at ting gjøres på en demokratisk måte. Skal demokratiet være robust og motstandsdyktig, må demokratiske prinsipper gjennomsyre samtlige aspekter ved samfunnslivet.<sup>1</sup> Dette innebærer at praksiser og samhandlingsformer for eksempel i arbeidslivet, på utdanningsfeltet eller i kulturlivet er basert på likeverd, gjensidig respekt og inkludering. En slik innarbeidet demokratisk kultur kan bidra til en «demokratisk ryggmargsrefleks» i møtet med nye situasjoner og utfordringer. Særlig i krisetider viser det seg om demokratiske samfunn er robuste. Både historiske og mer samtidige eksempler har vist at demokratiske institusjoner kan miste legitimitet og oppslutning hvis de ikke bygger på og «næres» av reelle demokratiske prosesser. Demokratiet blir sårbart når demokratiske verdier og prinsipper undergraves. Motstandsdyktige demokratier er ikke bare avhengige av robuste institusjoner, de er også avhengige av tillit og legitimitet som skapes gjennom en demokratisk kultur.<sup>2</sup>
+
+<sup>1</sup> Dewey 1993
+
+<sup>2</sup> Europarådet 2016
+
+\[Boks slutt\]
+
+Tillit til medier
+
+Svak tillit til myndigheter er gjerne også forbundet med svak eller ingen tillit til det som omtales som *mainstream* *media* eller tradisjonelle, redaktørstyrte medier.[^689] Norge er blant de landene i verden som har høyest tillit til nyheter, og nordmenn har generelt høy tillit til norske nyhetsmedier, uavhengig av kjønn og aldersgrupper.[^690] Undersøkelser av befolkningens tillit til medier viser at denne tilliten henger sammen med økonomi og utdanning. Lav tillit til mediene henger sammen med lav utdanning og lav husholdningsinntekt.[^691] Alder spiller også en rolle. De under 35 år har merkbart lavere tillit til mediene enn resten av befolkningen.[^692]
+
+Redaktørstyrte medier har høy tillit i den norske befolkningen og skiller seg klart fra alternative medier og sosiale medier, som har lav tillit i befolkningen. Undersøkelser under covid-19-pandemien tyder videre på at nordmenn søker til redaktørstyrte medier i krisetider.[^693]
+
+Medietilsynet har pekt på en markant økning i andelen av yngre som overhodet ikke bruker nyhetskilder som papiravis, TV, radio eller nettavis. I gruppen ni til femten år var andelen 63 prosent i 2020. Tallet hadde steget til 72 prosent i en undersøkelse gjort i 2021.[^694] I alderen 16–24 år var det 35 prosent som ikke hadde brukt nyheter på disse plattformene. Andelen som oppsøker nyheter daglig, stiger betraktelig i disse gruppene hvis nyheter på sosiale medier regnes med. Det rapporteres om at yngre i mindre grad enn eldre konsumerer såkalt «harde nyheter» om politikk, samfunn og økonomi og i stedet oppsøker underholdnings- og kjendisnyheter. Dette er en indikasjon på at de yngre velger bort informasjon om politikk og samfunn. Medietilsynet påpeker følgende: «Sjølv om andelen som ikkje er ‘påkopla’, og har ei meir einsidig nyheitsorientering enn befolkninga generelt, totalt sett er liten, er det viktig å følge med på utviklinga langs demografiske og sosiale skiljelinjer. Ei informasjonskløft mellom majoriteten av borgarane og nokre grupper kan føre til ei meir fragmentert offentlegheit og auka risiko for polarisering og ekkokammer».[^695]

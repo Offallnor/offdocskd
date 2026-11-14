@@ -1,6020 +1,1272 @@
-# NOU 2026: 5, del 12 av 14 (side 212–237)
+# NOU 2026: 5, del 12 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cea47c9-nou-2026-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-5/id3155079/
 - Original-PDF: https://www.regjeringen.no/contentassets/ff40476a92434880bcad7f8ec8d2b31e/no/pdfs/nou202620260005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 109 tabeller, 76 figurer, 12002 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 212]
+# Utviklingen i konkurranseevnen
 
-Sammenhengen mellom gjennomsnittlig lønn per utført timeverk, lønnskostnader per utførte
-timeverk er nærmere beskrevet i vedlegg 6.
+- Relative arbeidskraftkostnader per time mellom norsk industri og industrien hos handelspartnerne målt i felles valuta gikk opp med 0,1 prosent i 2025, ifølge foreløpig statistikk. Veksten i arbeidskraftkostnader per time i norsk industri var høyere enn i industrien hos handelspartnerne, mens en svekkelse av kronen trakk i motsatt retning.
 
-Sammenhengen mellom permitteringer, årslønn og sysselsetting
-Ved permittering er arbeidstaker pålagt arbeidsfritak og arbeidsgiver er fritatt sin lønnsplikt.
-Arbeidsforholdet består og det forutsettes at arbeidsstans kun er midlertidig.
-Det store omfanget av permitteringer i 2020 har betydning for den målte lønnsveksten og
-sysselsettingen. Kvantitative effekter av endret sammensetning av sysselsettingen på målt lønn
-omtales i kapittel 1 og 2.
-Årslønn
-Som det framgår av dette vedlegget, er årslønn den beregnede lønnen i et arbeidsforhold for et
-kalenderår, der lønnen regnes om til å tilsvare heltidsarbeid hele året og beregnes som om det er full
-lønn under ferie og annet fravær. Det er likevel forskjeller i hvordan permitterte håndteres i
-beregningene.
+- Industriens kostnadsmessige konkurranseevne har bedret seg siden 2012, etter å ha svekket seg i årene før. Svekkelsen frem til 2012 hadde både sammenheng med høyere vekst i arbeidskraftkostnadene per time i norsk industri enn hos våre handelspartnere og en styrking av kronen. Bedringen i årene etterpå avspeiler i stor grad utviklingen i kronekursen.
 
-e
-v
-ga
+- Gjennomsnittlige arbeidskraftkostnader per time i norsk industri var i 2025 21 prosent høyere enn et vektet gjennomsnitt av våre handelspartnere i EU og Storbritannia. Forskjellen var med det om lag den samme som i 2024 og 43 prosentpoeng lavere enn i 2012 da den var på sitt høyeste. Av EU-landene var det bare i Danmark nivået var høyere i fjor. At arbeidskraftkostnadene per time er høyere i norsk industri enn i industrien hos de fleste av våre handelspartnere, reflekterer norsk økonomis høye produktivitet og inntektsnivå.
 
-I påløpt og utbetalt årslønn inkluderes arbeidsforhold bare så lenge det er utbetalt lønn, dvs.
-permitterte er med bare i lønnspliktperioden. Det betyr at det kan oppstå sammensetningseffekter i
-påløpt og utbetalt årslønn fra statistikken til SSB, som ikke oppstår i forhandlingsområdene.
-Permitteringene vil få forskjellige konsekvenser for årslønn i forhandlingsområdene som følge av
-forskjeller i data og metode. For Virke-bedrifter i varehandel vil årslønnen være påvirket av
-permitteringene i den grad de omfatter november måned, som er tellingsmåneden fra og med 2020.
-Tilsvarende gjelder for Spekter-bedrifter utenom helseforetakene, hvor tellingstidspunktet er
-novemberlønn (per 1. desember). For NHO-bedrifter benyttes opplysninger for alle måneder i året,
-og årslønn blir beregnet basert på måneder med utbetalt lønn. Dermed vil årslønnen, slik den hittil
-har blitt beregnet, bli påvirket av permitteringene gjennom sammensetningseffekter, tilsvarende
-som i statistikkene fra SSB. Det samme gjelder årslønn for finanstjenester.
+- OECDs anslag vektet med handelspartneraggregatet TBU benytter, innebærer en vekst i lønnskostnadene per sysselsatt hos våre handelspartnere på 4,2 prosent i 2025 og 3,3 prosent i 2026.
 
-t
-u
-g
+- Ifølge foreløpige nasjonalregnskapstall økte produktiviteten i norsk industri, målt ved bruttoprodukt per timeverk, med 2,3 prosent i fjor, etter å ha falt med 0,6 prosent året før. Produktivitetsveksten i norsk industri i perioden 2015–2024 var i gjennomsnitt 0,2 prosent per år, 1,3 prosentpoeng lavere enn et vektet gjennomsnitt av handelspartnerne.
 
-i
-p
+- I 2024 var Norges BNP per innbygger, fratrukket petroleumsrenten, 39 prosent høyere enn OECD-gjennomsnittet. Nivået i Norge er blant de høyeste i OECD-området, selv når petroleumsrenten holdes utenfor.
 
-ø
-l
-re
+## Innledning
 
-Tabell 2.1 oppsummerer virkninger av permitteringer i beregninger av lønn per dato og årslønn etter
-datagrunnlag.
+Omfattende deltakelse i internasjonal handel med varer og tjenester har gjort det mulig for Norge å oppnå en høyere materiell levestandard enn hva som ville vært mulig dersom norsk økonomi hadde vært mer skjermet mot utenlandsk konkurranse. Fordelene vil imidlertid reduseres hvis Norge ikke klarer å sørge for en effektiv ressursutnyttelse, herunder full sysselsetting, og en akseptabel inntektsfordeling. For å høste gevinstene ved internasjonalt varebytte, må man klare å omstille ressurser som blir ledige som følge av endringer i markedsforholdene.
 
-o
-F
+Alle land må over tid ha en rimelig balanse i utenriksøkonomien. Et lands konkurranseevne uttrykker evnen til å opprettholde en rimelig balanse i utenriksøkonomien over tid, samtidig som en har full og effektiv ressursutnyttelse og en akseptabel inntektsfordeling. Et land har ikke nødvendigvis god konkurranseevne selv om det har balanse i utenriksøkonomien, dersom for eksempel store deler av landets arbeidsstyrke er arbeidsløse. Men full sysselsetting og lav arbeidsledighet sammen med store underskudd i utenriksøkonomien, tilsier også at et land har svakere konkurranseevne enn hva som kan være bærekraftig over tid.
 
-210
+Det er viktig å skille mellom konkurranseevnen for enkeltnæringer og for Norge som helhet. Konkurranseevnen for en næring beror på næringens lønnsomhet og dens evne til å avlønne innsatsfaktorene. En lønnsom næring må både kunne hevde seg i konkurranse med utenlandske bedrifter på produktmarkedene, og med andre norske næringer i faktormarkedene, herunder arbeidsmarkedet. En økonomi i vekst og med en høy omstillingsgrad vil være kjennetegnet av ulik utvikling i konkurranseevnen for de enkelte næringene. I konkurransen om knappe faktorer må noen næringer trappe ned sin virksomhet, mens andre kan ekspandere i takt med økt lønnsomhet. Dersom en næring mottar subsidier i tilknytning til sin virksomhet, kan dette bedre næringens konkurranseevne, men det fører normalt til en dårligere utnyttelse av ressursene i økonomien samlet sett, og dermed ikke bedre konkurranseevne i samfunnsøkonomisk forstand.
 
-[Side 213]
-
-Tabell 2.1 Datagrunnlag og virkningen av permitteringer i beregninger av lønn per dato
-og årslønn
-Datagrunnlag
-Alle måneder i året
-
-Påløpt og utbetalt årslønn
-
-Effekt av permitteringer
-Bare måneder med utbetalt lønn inngår,
-dvs. permitterte faller ut fra første måned.
-Påvirket i den grad
-permitteringer/oppsigelser påvirker antall
-med lønn og gjennomsnittlig lønn på
-tellingstidspunktet.
-Permitteringer kan likevel påvirke
-gjennom de andre komponentene i
-månedslønn, som måles som
-gjennomsnitt over året.
-Virke: kun heltidsansatte.
-Som for årslønn i lønnsstatistikken.
-
-Årslønn i Virke, Spekter, Staten
-og KS
-
-KS: 1. desember
-Virke: november
-Spekter: 1. desember
-(novemberlønn)
-Staten: 1. oktober
-
-Årslønn i NHO
-
-Alle måneder i året
-
-Per dato-tall fra lønnsstatistikken
-
-November.
-Tidligere var tellingstidspunktet
-september.
-
-Kvartalsstatistikken Antall
-arbeidsforhold og lønn,
-ARBLONN
-
-o
-F
-
-Månedlig statistikk om
-lønnssummer
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-Februar, mai, august og november.
-
-ø
-l
-re
-
-Kontantlønn fra månedsstatistikk
-
-Arbeidsforhold er med bare når det er
-utbetalt lønn. Avtalt lønn er for
-september/november mens det er alle
-måneder hittil i året for de andre
-komponentene i månedslønn (bonus og
-uregelmessige tillegg). Permitteringer
-som var avsluttet med retur til arbeid før
-telling får ikke effekt på avtalt lønn, men
-kan påvirke månedslønn gjennom
-tillegg/bonus i gjennomsnitt for året.
-Kvartalsstatistikken benytter bare data for
-de respektive tellingsmånedene.
-Permitteringer som var avsluttet før
-tellingstidspunktet får ikke effekt.
-Effekt umiddelbart i statistikken når
-utbetalinger faller bort. Etterbetalinger
-som er utestående fra tidligere perioder er
-med.
-
-Omfatter alle kontante ytelser fra
-arbeidsgiver herunder avtalt lønn,
-faste og uregelmessige tillegg,
-bonus, overtidsgodtgjørelse,
-sluttvederlag og andre kontante
-ytelser, før skatt.
-Sum beløp for grunnlag for
-arbeidsgiveravgift og kontantlønn.
-Grunnlag for arbeidsgiveravgift er
-summen av alle
-arbeidsgiveravgiftspliktige ytelser:
-alle kontantytelser, ulike
-naturalytelser og enkelte
-pensjonsforpliktelser.
-
-211
-
-Effekt umiddelbart i statistikken når
-utbetalinger faller bort, men noen
-elementer kan bestå gjennom
-permittering (f.eks.
-pensjonsforpliktelser). Etterbetalinger
-som er utestående fra tidligere perioder er
-med. Refusjoner vil påvirke beløpene,
-herunder refusjoner for sykefravær og
-forskuttert lønn under permittering og
-sykefravær. Reglene for å kunne kreve
-refusjon for forskuttert lønn ved
-permitteringer er endret i perioden fra
-mars 2020 til dags dato, det er ikke lenger
-mulig å kreve fradrag for forskutteringer
-av lønn ved permittering. Tiltaket med 4
-prosent reduksjon i arbeidsgiveravgiften i
-mai og juni 2020 vil også påvirke disse
-beløpene.
-
-[Side 214]
-
-Sysselsetting
-I arbeidskraftundersøkelsen (AKU) og den registerbaserte sysselsettingsstatistikken behandles
-permitterte litt forskjellig. I AKU blir de som har vært helt permittert i inntil tre måneder eller
-forventer å være permittert i mindre enn tre måneder regnet som sysselsatte med midlertidig fravær.
-De som har vært, eller forventer å være, permittert i mer enn tre måneder blir enten regnet som
-arbeidsledige eller for å være utenfor arbeidsstyrken avhengig av hva de svarer på spørsmålene om
-de søker arbeid og om de er tilgjengelige for arbeid 89. Permitterte som oppgir i AKU at de likevel
-utførte noen oppgaver i forbindelse med jobben i referanseuka (dvs. uka de intervjues om) blir
-klassifisert som sysselsatte. I den registerbaserte sysselsettingsstatistikken blir permitteringer med
-en forventet varighet under tre måneder uten lønn regnet som sysselsetting, og når permitteringen
-går over tre sammenhengende måneder blir personen regnet som ikke sysselsatt.
-I nasjonalregnskapet regnes alle personer som er midlertidig fraværende fra inntektsgivende arbeid
-pga. sykdom, ferie, permisjon mv. som sysselsatt. Når det gjelder permisjoner på grunn av spesielle
-forhold på arbeidsmarkedet, gjelder samme regel som i registerbasert sysselsettingsstatistikk. Hvis
-permitteringen har vart i nitti dager (tre måneder) og arbeidsforholdet ikke er meldt avsluttet i aordningen, vil nasjonalregnskapet manuelt legge inn at jobben er opphørt. Når en jobb forsvinner,
-forsvinner også denne jobbens bidrag til årsverk.
-
-e
-v
-ga
-
-Årsverk i nasjonalregnskapet beregnes med utgangspunkt i jobber og arbeidstid, slik at permitterte
-inngår i årsverk de første tre månedene. Varer permitteringen lenger, eller jobben blir borte, vil den
-ikke lenger bidra til årsverkene. Permitterte og arbeidstakere med annet fravær inngår ikke i
-beregningen av utførte timeverk, heller ikke de første tre månedene.
-
-t
-u
-g
-
-i
-p
-
-Kjennemerker
-
-Arbeidsgivere opplyser yrke, arbeidstid, og andre egenskaper ved arbeidsforholdet. Arbeidsgiver
-rapporterer yrkeskode i henhold til standard for yrkesklassifisering (STYRK-98). SSB omkoder
-denne til en nyere versjon av yrkeskoden, STYRK-08, som er basert på ISCO-08 som benyttes ved
-frigivingen av arbeidsmarkedsstatistikk. Standarden bygger på de to kvalifikasjonsprinsippene
-kompetansenivå og grad av spesialisering. Hvilken yrkeskode en stilling skal ha, bestemmes av
-arbeidsoppgavene. Det vil si at yrkeskoden skal tilsvare konkrete arbeidsoppgaver, ikke utdanning
-hos den enkelte, type ansettelsesforhold, kontrakt, lønn eller bransje. Hovedregelen er at ansatte
-som utfører samme arbeidsoppgaver, skal ha samme yrkeskode.
-
-o
-F
-
-ø
-l
-re
-
-SSB kobler også på opplysninger om utdanning fra utdannelsesregisteret, gruppert etter lengden på
-utdanningen i samsvar med norsk standard for utdanningsgruppering. For å identifisere
-arbeidsforhold der arbeidstakeren er lærling, kobler SSB på informasjon om personer som er under
-fagopplæring i videregående skole.
-SSBs statistikker benytter standard for næringsgruppering (SN 2007) og institusjonell sektor for å
-gruppere virksomhetens aktivitet. Dette er en annen inndeling enn i forhandlingsstatistikken, som
-NHO benytter. Det er for eksempel ikke fullt ut de samme bedriftene som inngår i næringen
-industri. Industribedrifter med ansatte som utfører tjenester knyttet til utvinning er ut fra
-tariffavtaletilknytning med i lønnstallene for industrien for NHO-bedrifter, men de er ikke med i
-industrinæringen til SSB iht. SN 2007.
-
-89
-Før 2021, før bruddet, ble det ikke spurt om forventet varighet i AKU. Se også Sundt C. (2022) Hvilke indikatorer har
-vi for arbeidsmarkedet? https://www.ssb.no/arbeid-oglonn/sysselsetting/statistikk/arbeidskraftundersokelsen/artikler/hvilke-indikatorer-har-vi-for-arbeidsmarkedet
-
-212
-
-[Side 215]
-
-Det samme blir gjort for sektor, også kalt institusjonell sektorgruppering, der lønnsstatistikken
-benytter følgende gruppering:
-Sektor 6100: Statlig forvaltning
-Sektor 6500: Kommunal og fylkeskommunal forvaltning
-Øvrige: Privat sektor og offentlige foretak
-«Statlig forvaltning» er svært nær opptil det gamle SST-registeret, men omfatter også
-helseforetakene. Ved å kombinere sektor og næring vil man tilnærmet kunne identifisere
-helseforetakene. Næring 86 (Helsetjenester) innen statlig forvaltning vil omfatte helseforetakene,
-eksklusive virksomheter som driver «ikke-helserelatert virksomhet» (sykehusapotek, it-avdelinger
-etc.).
-
-o
-F
-
-t
-u
-g
-
-e
-v
-ga
-
-i
-p
-
-ø
-l
-re
-
-213
-
-[Side 216]
-
-Vedlegg 3.
-
-3 Utviklingen i kronekursen og rentenivå
-Dette vedlegget gir en omtale av utviklingen i kronekursen og rentenivå. I omtalen er det lagt mest
-vekt på utviklingen de siste ti årene.
-Kronekursindekser
-Industriens effektive valutakurs (konkurransekursindeksen (KKI)) er en nominell effektiv kronekurs
-beregnet på grunnlag av kursene på den norske kronen mot valutaene for Norges 25 viktigste
-handelspartnere (geometrisk gjennomsnitt veid med OECDs løpende konkurransevekter, beregnet
-som en kjedet indeks). Indeksen er satt lik 100 i 1990. Fallende indeksverdi betyr en styrking av
-kronen.
-Den importveide kursindeksen (I44) er et geometrisk gjennomsnitt av kursene til 44 land. Vektene
-er beregnet på grunnlag av Norges vareimport fra 44 land. Indeksen er satt lik 100 i 1995. Fallende
-indeksverdi betyr en styrking av kronen. Indeksen er beregnet etter samme prinsipp som industriens
-effektive valutakurs.
-
-e
-v
-ga
-
-Utviklingen i de to valutakursindeksene er illustrert i figur 3.1, figur 3.2 og tabell 3.1.
-
-o
-F
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-Figur 3.1 Industriens effektive valutakurs og importveid kursindeks. Fallende kurve
-angir sterkere kronekurs. Månedlige observasjoner. Januar 1982 – Februar 2026
-Kilde: Macrobond
-214
-
-[Side 217]
-
-e
-v
-ga
-
-Figur 3.2 Industriens effektive valutakurs og importveid kursindeks. Fallende kurve
-angir sterkere kronekurs. Daglige observasjoner. Siste observasjon 25.03.2026.
-
-t
-u
-g
-
-Kilde: Macrobond
-
-i
-p
-
-Utviklingen i kronekursen
-
-Fra slutten av 1990-tallet og frem til 2013 styrket kronen seg, noe som må ses i sammenheng med at
-økonomien i Norge utviklet seg sterkere enn hos våre handelspartnere, og at rentenivået i Norge var
-høyere. Utviklingen snudde i 2013, og kronen svekket seg markert de neste årene. Svekkelsen av
-kronen inntraff samtidig som oljeprisen falt markert.
-
-o
-F
-
-ø
-l
-re
-
-Etter å ha holdt seg noe mer stabil i perioden 2016-2019, bidro pandemien og et markert fall i
-oljeprisen til at kronen svekket seg kraftig våren 2020. Kronen styrket seg deretter, og var ved
-slutten av året 14 prosent sterkere enn da den var på sitt svakeste i mars, målt ved industriens
-effektive valutakurs. Kronen styrket seg i 2021 og 2022, men var likevel ved utgangen av 2022
-svakere enn den var før pandemien.
-Våren 2023 svekket kronen seg igjen kraftig. Svekkelsen skjedde samtidig som at rentenivået ute
-økte mer enn i Norge, og petroleumsprisene begynte å normalisere seg etter rekordnivåene i 2022.
-Som årsgjennomsnitt var kronen i 2023 9,5 prosent svakere enn året før, se tabell 3.1 under.
-Kronen svekket seg videre med 1,3 prosent i 2024 og 0,5 prosent i 2025. Målt som årsgjennomsnitt
-har kronen aldri før vært så svak som i 2025, målt ved industriens effektive valutakurs. Så langt i år
-har kronen styrket seg og var 25.mars 4,4 prosent sterkere enn ved nyttår og 3,6 prosent sterkere
-enn årsgjennomsnittet i fjor.
-I Pengepolitisk rapport 1/26, som Norges Bank publiserte 26. mars i år viste banken til at kronen
-hadde styrket seg siden bankens forrige pengepolitiske rapport i desember. Banken skrev blant
-annet:
-«Styrkingen har sammenfalt med en svekkelse av amerikanske dollar tidlig i perioden, en markert
-økning i oljeprisen og høyere rentedifferanse mot utlandet. Økt usikkerhet i finansmarkedene har
-trolig dempet styrkingen.
-215
-
-[Side 218]
-
-I denne rapporten legger vi til grunn at publiseringen av rentebeslutningen og Pengepolitisk
-rapport ikke vil føre til endringer i kronekursen (…). Det må ses i sammenheng med at rentebanen
-er i tråd med styringsrenteforventningene i markedet. Etter publisering av rentebeslutningen legger
-vi til grunn en uendret kronekurs ut prognoseperioden.»
-Tabell 3.1 Kronekursen. Prosentvis endring fra året før1
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024 2025
-
-Industriens effektive valutakurs (KKI)
-
-1,4
-
--0,6
-
-0,5
-
-3,0
-
-8,1
-
--4,9
-
--0,3
-
-9,5
-
-1,3
-
-0,5
-
-Importveid valutakurs (I-44)
-
-1,8
-
--0,8
-
-0,1
-
-2,9
-
-6,7
-
--5,3
-
-1,2
-
-8,5
-
-0,8
-
--0,6
-
-Et positivt endringstall innebærer en effektiv svekkelse av norske kroner målt ved hhv. industriens effektive valutakurs
-og den importveide valutakursen.
-Kilde: Norges Bank
-
-1
-
-Figur 3.3 viser utviklingen i norske kroner per euro og dollar de siste ti årene. Målt mot euro var
-kronen 25. mars 8,2 prosent svakere enn gjennomsnittet de siste ti årene. Målt mot dollar var kronen
-4,5 prosent svakere. Det har vært betydelige svingninger i perioden.
-
-o
-F
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-Figur 3.3 Utviklingen i norske kroner per euro og dollar. Fallende kurve angir sterkere
-kronekurs. Siste observasjon 25.03.2026
-Kilde: Macrobond
-
-Figur 3.4 viser utviklingen i den norske kronen målt mot den svenske kronen de siste ti årene. Den
-25. mars var den norske kronen målt mot den svenske 6,1 prosent svakere enn gjennomsnittet de
-siste ti årene. Det har vært betydelige svingninger i perioden.
-
-216
-
-[Side 219]
-
-e
-v
-ga
-
-Figur 3.4 Utviklingen i norske kroner per svenske kroner. Fallende kurve angir sterkere
-kronekurs. Siste observasjon 25.03.2026
-
-t
-u
-g
-
-Kilde: Macrobond
-
-i
-p
-
-Utviklingen i renten
-
-ø
-l
-re
-
-Som følge av at de økonomiske utsiktene forverret seg markert, reduserte Norges Bank i løpet av tre
-rentemøter styringsrenten fra 1,5 til 0 prosent våren 2020. Det hadde aldri tidligere hendt at
-styringsrenten i Norge hadde vært så lav som dette.
-
-o
-F
-
-På rentemøtet i september 2021 satte Norges Bank styringsrenten opp til 0,25 prosent. I forbindelse
-med dette uttalte banken at «Normaliseringen av økonomien tilsier at det nå er riktig å starte en
-gradvis normalisering av styringsrenten». De neste årene satte Norges Bank styringsrenten gradvis
-opp, til den nådde 4,5 prosent i desember 2023.
-I fjor reduserte Norges Bank styringsrenten med 0,25 prosentpoeng på hvert av rentemøtene i juni
-og september, til den kom ned i 4 prosent.
-På rentemøtet i mars i år besluttet Norges Bank å holde styringsrenten uendret. I pressemeldingen
-etter rentemøtet skrev banken blant annet følgende om renteutsiktene:
-«Komiteen mener det er behov for en mer innstrammende pengepolitikk for å få prisveksten tilbake
-til målet innen rimelig tid. Inflasjonsutsiktene tilsier at det trolig vil være nødvendig å sette renten
-opp. Samtidig gjør den overraskende høye prisveksten de siste månedene det vanskelig å vurdere
-det underliggende inflasjonspresset, og det er uvanlig stor usikkerhet om utviklingen i olje- og
-gassprisene. Komiteen ønsker derfor å avvente mer informasjon om inflasjonsutsiktene.
-Komiteen besluttet å holde renten uendret på dette møtet. Det er stor usikkerhet om utsiktene, men
-dersom økonomien utvikler seg om lag slik vi nå ser for oss, settes renten trolig opp på et av de
-nærmeste rentemøtene.»
-Styringsrenten i Norge de siste ti årene har i gjennomsnitt vært høyere enn i euroområdet og
-Sverige, men lavere enn i USA og Storbritannia, jf. figur 3.5.
-217
-
-[Side 220]
-
-e
-v
-ga
-
-Figur 3.5 Styringsrenter i Norge og hos noen av handelspartnerne. Prosent. Siste
-observasjon 25.03.2026
-
-t
-u
-g
-
-Kilde: Macrobond
-
-o
-F
-
-i
-p
-
-ø
-l
-re
-
-Figur 3.6 Tremåneders pengemarkedsrente i Norge og hos noen av handelspartnerne.
-Prosent. Siste observasjon 25.03.2026
-Kilde: Macrobond
-
-218
-
-[Side 221]
-
-Vedlegg 4.
-
-4 Tabellvedlegg
-
-o
-F
-
-t
-u
-g
-
-e
-v
-ga
-
-i
-p
-
-ø
-l
-re
-
-219
-
-[Side 222]
-
-Tabell 4.1 Skattesatser og beløpsgrenser for inntektsårene 2015–2026
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-2026
-
-a. Trygdeavgift pst.
-Lønnsinntekt, pst.
-
-8,2
-
-8,2
-
-8,2
-
-8,2
-
-8,2
-
-8,2
-
-8,0
-
-7,9
-
-7,8
-
-7,7
-
-7,6
-
-1
-
-Næringsinntekt , pst.
-
-11,4
-
-11,4
-
-11,4
-
-11,4
-
-11,4
-
-11,4
-
-11,2
-
-11,1
-
-11,0
-
-10,9
-
-10,8
-
-Pensjonsinntekt
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-5,1
-
-0,44
-
-0,93
-
-1,4
-
-1,9
-
-1,9
-
-1,7
-
-1,7
-
-1,7
-
-1,7
-
-1,7
-
-1,7
-
-159 800
-
-164 100
-
-169 000
-
-174 500
-
-180 800
-
-184 800
-
-190 350
-
-198 350
-
-208 050
-
-217 400
-
-226 100
-
-1,7
-
-2,41
-
-3,3
-
-224 900
-
-230 950
-
-237 900
-
-10,7
-
-11,52
-
-12,4
-
-565 400
-
-580 650
-
-b. Trinnskatt (toppskatt t.o.m. 2015)
-Trinn 1
-Sats, pst.
-Innslagspunkt
-Trinn 2
-Sats, pst.
-Innslagspunkt
-Sats pst.
-Innslagspunkt
-Trinn 4 (tidl. trinn 2 i toppskatten)
-Sats, pst.
-Innslagspunkt
-Trinn 5
-Sats, pst.
-Innslagspunkt
-
-g
-i
-p
-4,2
-
-4,2
-
-4,0
-
-4,0
-
-4,0
-
-4,0
-
-4,0
-
-4,0
-
-245 650
-
-254 500
-
-260 100
-
-267 900
-
-279 150
-
-292 850
-
-306 050
-
-318 300
-
-13,2
-
-13,2
-
-13,2
-
-13,4
-
-13,5
-
-13,6
-
-13,7
-
-13,7
-
-598 050
-
-617 500
-
-639 750
-
-651 250
-
-643 800
-
-642 950
-
-670 000
-
-697 150
-
-725 050
-
-16,2
-
-16,2
-
-16,2
-
-16,4
-
-16,5
-
-16,6
-
-16,7
-
-16,8
-
-964 800
-
-999 550
-
-1021550
-
-969 200
-
-926 800
-
-937 900
-
-942 400
-
-980 100
-
-17,4
-
-17,5
-
-17,6
-
-17,7
-
-17,8
-
-ø
-l
-re
-
-Trinn 3 (tidl. trinn 1 i toppskatten)
-
-o
-F
-
-t
-u
-
-e
-v
-ga
-
-13,7
-
-14,52
-
-15,4
-
-909 500
-
-934 050
-
-962 050
-
-2 000 000 1 500 000
-
-1 350 000 1 410 750 1 467 200
-
-Skatter på alminnelig inntekt
-c. Kommune, fylkes- og fellesskatt
-Finnmark og Nord-Troms, pst.
-
-21,5
-
-20,5
-
-19,5
-
-18,5
-
-18,5
-
-18,5
-
-18,5
-
-18,5
-
-18,5
-
-18,5
-
-18,5
-
-Landet ellers, pst.
-
-25,0
-
-24,0
-
-23,0
-
-22,0
-
-22,0
-
-22,0
-
-22,0
-
-22,0
-
-22,0
-
-22,0
-
-22,0
-
-d. Maksimale effektive skattesatser
-220
-
-[Side 223]
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-2026
-
-Lønnsinntekt (ekskl.
-arbeidsgiveravgift), pst.
-
-46,9
-
-46,7
-
-46,6
-
-46,4
-
-46,4
-
-46,4
-
-47,4
-
-47,4
-
-47,4
-
-47,4
-
-47,4
-
-Næringsinntekt1, pst.
-
-50,1
-
-49,9
-
-49,8
-
-49,6
-
-49,6
-
-49,6
-
-50,6
-
-50,6
-
-50,6
-
-50,6
-
-50,6
-
-51 750
-
-53 150
-
-54 750
-
-56 550
-
-51 300
-
-52 450
-
-58 250
-
-79 600
-
-88 250
-
-108 550
-
-114 540
-
-76 250
-
-78 300
-
-43,0
-
-44,0
-
-45,0
-
-45,0
-
-45,0
-
-46,0
-
-46,0
-
-46,0
-
-46,0
-
-46,0
-
-46,0
-
-Øvre grense, kr
-
-91 450
-
-94 750
-
-97 610
-
-100 800
-
-104 450
-
-106 750
-
-109 950
-
-104 450
-
-104 450
-
-92 000
-
-95 700
-
-Nedre grense, kr
-
-4 000
-
-4 000
-
-4 000
-
-4 000
-
-4 000
-
-4 000
-
-31 800
-
-Utgår
-
--
-
--
-
--
-
-29,0
-
-31,0
-
-31,0
-
-31,0
-
-31,0
-
-37,0
-
-40,0
-
-40,0
-
-40,0
-
-40,0
-
-40,0
-
-73 600
-
-81 200
-
-83 000
-
-85 050
-
-87 450
-
-88 700
-
-90 800
-
-86 250
-
-86 250
-
-73 150
-
-75 400
-
-4 000
-
-4 000
-
-4 000
-
-4 000
-
-4 000
-
-4 000
-
-4 000
-
-Utgår
-
--
-
--
-
--
-
-31 800
-
-31 800
-
-31 800
-
-31 800
-
-31 800
-
-31 800
-
-Standardfradrag mv.
-e. Personfradrag
-Klasse 1, kr
-Klasse 2, kr
-
-2
-
-f. Minstefradrag for lønnsinntekt
-Sats, pst.
-
-g
-i
-p
-
-g. Minstefradrag for pensjonsinntekt
-Sats, pst.
-Øvre grense, kr
-Nedre grense, kr
-h. Særskilt fradrag i arbeidsinntekt ,
-3
-
-i. Særfradrag for uførhet, kr
-
-ø
-l
-re
-
-o
-F
-
-t
-u
-
-e
-v
-ga
-
-j. Særskilt skattefradrag for
-pensjonister
-Maksimalt beløp, kr
-
-29 880
-
-29 940
-
-29 950
-
-30 000
-
-32 330
-
-32 620
-
-33 400
-
-32 825
-
-34 350
-
-36 000
-
-37 100
-
-Innslagspunkt trinn 1, kr
-
-184 800
-
-188 700
-
-193 250
-
-198 200
-
-204 150
-
-206 050
-
-210 950
-
-219 950
-
-258 400
-
-276 400
-
-284 950
-
-15,3
-
-15,3
-
-15,3
-
-15,3
-
-16,7
-
-16,7
-
-16,7
-
-16,7
-
-16,7
-
-16,7
-
-16,7
-
-278 950
-
-284 350
-
-290 700
-
-297 900
-
-306 300
-
-310 700
-
-318 600
-
-331 750
-
-391 550
-
-422 950
-
-436 050
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-55,0
-
-139 400
-
-143 150
-
-147 450
-
-147 450
-
-147 450
-
-147 450
-
-147 450
-
-147 450
-
-147 450
-
-147 450
-
-163 750
-
-Nedtrappingssats trinn 1, pst.
-Innslagspunkt trinn 2, kr
-Nedtrappingssats trinn 2, pst.
-k..Skattebegrensningsregelen4
-Avtrappingssats, pst.
-Skattefri nettoinntekt
-Enslige, kr
-
-221
-
-[Side 224]
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-2026
-
-Gifte, kr
-
-128 150
-
-131 600
-
-135 550
-
-135 550
-
-135 550
-
-135 550
-
-135 550
-
-135 550
-
-135 550
-
-135 550
-
-151 350
-
-l. Foreldrefradrag (for barn under
-12 år)
-Øvre grense, ett barn, kr
-
-25 000
-
-25 000
-
-25 000
-
-25 000
-
-25 000
-
-25 000
-
-25 000
-
-25 000
-
-25 000
-
-25 000
-
-15 000
-
-Tillegg per barn utover det første, kr
-
-15 000
-
-15 000
-
-15 000
-
-15 000
-
-15 000
-
-15 000
-
-15 000
-
-15 000
-
-15 000
-
-15 000
-
-10 000
-
-Sats per barn 6–17 år, kr
-
-11 640
-
-11 640
-
-11 640
-
-12 480
-
-12 648
-
-12 648
-
-12 648
-
-14 300
-
-19 144
-
-22 808
-
--
-
-Sats per barn 0–5 år, kr
-
-11 640
-
-11 640
-
-11 640
-
-12 480
-
-13 848
-
-17 448
-
-20 112
-
-20 840
-
-21 192
-
-22 808
-
--
-
-m. Barnetrygd
-
-5
-
-e
-v
-ga
-
-Næringsdrivende innenfor fiske og fangst samt barnepass i eget hjem (barn under 12 år eller med særlig behov for omsorg og pleie) har 7,6 prosent trygdeavgift på
-næringsinntekten i 2026. Lavere trygdeavgiftssats for fiske og fangst har sammenheng med at disse næringene betaler produktavgift som blant annet skal dekke
-differansen mellom 7,6 prosent og 10,8 prosent trygdeavgift.
-2
-Skatteklasse 2 er avviklet fra 2018. Gjaldt tidligere for skattytere med forsørgeransvar for ektefelle.
-3
-Skattyter må velge mellom minstefradrag og særskilt fradrag i arbeidsinntekt (lønnsfradrag).
-4
-Fra 2015 gjelder skattebegrensningsregelen kun pensjon eller overgangsstønad til en tidligere familiepleier eller gjenlevende ektefelle.
-5
-Enslige forsørgere får barnetrygd for ett barn mer enn det de har (utvidet barnetrygd). Enslige forsørgere med full overgangsstønad og utvidet barnetrygd får dessuten
-8 352 kroner ekstra i 2025 dersom de har barn fra 0–3 år.
-1
-
-Kilde: Finansdepartementet
-
-g
-i
-p
-
-o
-F
-
-ø
-l
-re
-
-222
-
-t
-u
-
-[Side 225]
-
-Tabell 4.2 Utvikling i grunnbeløpet (G), minstepensjonene11 for enslige og ektepar
-og pensjonen til enslige uføre1. Kroner og målt i antall G
-
-01.05.09–30.04.103
-01.05.10–30.04.114
-01.05.11–30.04.125
-01.05.12–30.04.13
-01.05.13–30.04.14
-01.05.14–31.12.14
-01.01.15–30.04.15
-01.05.15–30.04.16
-01.05.16–31.08.16
-01.09.16–30.04.177
-01.05.17–31.08.17
-01.09.17–30.04.188
-01.05.18–30.04.19
-01.05.19–31.08.19
-01.09.19–30.04.209
-01.05.20–30.04.2110
-01.05.21-30.06.2110
-01.07.21-30.04.22
-01.05.22-31.12.22
-01.01.23-30.04.2312
-01.05.23-30.04.24
-01.05.24-30.04.25
-01.07.24-30.04.25
-01.05.25-30.04.26
-
-Årlig minstepensjon
-for enslig
-
-Årlig minstepensjon
-for ektepar
-
-Årlig minsteytelse i
-uføretrygden for
-enslige2
-
-Grunnbeløpet
-
-Kroner
-
-Antall G
-
-Kroner
-
-Antall G
-
-Kroner
-
-Antall G
-
-72 881
-75 641
-79 216
-82 122
-85 245
-88 370
-88 370
-90 068
-92 576
-92 576
-93 634
-93 634
-96 883
-99 858
-99 858
-101 351
-106 399
-106 399
-111 477
-111 477
-118 620
-124 028
-124 028
-130 160
-
-143 568
-151 272
-157 639
-162 615
-167 963
-173 274
-173 274
-175 739
-179 748
-183 748
-184 766
-188 766
-194 192
-198 818
-202 818
-208 690
-219 878
-224 878
-232 816
-236 816
-257 040
-264 134
-264 134
-279 933
-
-1,97
-2,00
-1,99
-1,98
-1,97
-1,96
-1,96
-1,95
-1,94
-1,98
-1,97
-2,02
-2,00
-1,99
-2,03
-2,06
-2,07
-2,11
-2,09
-2,12
-2,17
-2,13
-2,13
-2,15
-
-265 272
-279 864
-291 644
-300 850
-310 744
-320 570
-320 570
-325 132
-332 548
-341 530
-343 422
-345 422
-355 350
-363 816
-363 816
-367 174
-386 858
-386 858
-400 514
-400 514
-434 718
-446 716
-446 716
-463 290
-
-3,64
-3,70
-3,68
-3,66
-3,65
-3,63
-3,63
-3,61
-3,59
-3,69
-3,67
-3,69
-3,67
-3,64
-3,64
-3,62
-3,64
-3,64
-3,59
-3,59
-3,66
-3,60
-3,60
-3,56
-
-143 568
-151 272
-158 424
-164 256
-170 496
-176 736
-219 1586
-223 369
-229 588
-229 588
-232 212
-232 212
-240 270
-247 648
-247 648
-251 350
-263 870
-263 870
-276 463
-276 463
-294 178
-307 589
-313 667
-329 175
-
-1,97
-2,00
-2,00
-2,00
-2,00
-2,00
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,48
-2,53
-2,53
-
-o
-F
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-e
-v
-ga
-
-For tidligere år se NOU 2017: 10 Grunnlaget for inntektsoppgjørene 2017.
-Fra 1. juli 2024 er minsteytelsen per år i uføretrygden 2,529 G for enslige og 2,329 G for gifte og samboende.
-Personer som er født uføre eller har blitt uføre før fylte 26 år er garantert en minsteytelse på 2,709 G
-(samboende) eller 2,959 G (enslige).
-3
-Heving av særtilleggssatsen fra 1.5.2009. Ordinær sats utgjør 97 prosent av grunnbeløpet.
-4
-Heving av særtilleggssatsen fra 1.5.2010. Ordinær sats utgjør 100 prosent av grunnbeløpet.
-5
-Fra og med 1.5.2011 er satsene for minste pensjonsnivå for alderspensjonister regulert i samsvar med
-lønnsveksten og deretter justert for effekten av levealdersjusteringen, mens minstepensjon for
-uførepensjonister er regulert i samsvar med grunnbeløpet (lønnsveksten).
-6
-Fra 1.1.2015 er uførepensjon endret til uføretrygd og blir skattlagt som lønn. For å føre videre nivået etter skatt,
-er minstesatsene økt.
-7
-Fra 1.9.2016 økte grunnpensjonen til gifte og samboende pensjonister fra 0,85 G til 0,90 G. Minste
-pensjonsnivå for gifte alderspensjonister økte, og minste pensjonsnivå for enslige alderspensjonister ble økt
-med 4 000 kr per år.
-8
-Fra 1.9.2017 ble minste pensjonsnivå for enslige økt med 4 000 kr per år, og minste pensjonsnivå for
-gifte/samboere ble økt med 1 000 kr per år.
-9
-Fra 1.9.2019 ble minste pensjonsnivå for enslige økt med 4 000 kr per år.
-10
-I 2021 ble satsen for minste pensjonsnivå for enslige hevet to ganger, første gang i mai med 4 000 kroner, og
-med virkning fra 1. mai 2020, og i juli da satsen ble hevet med ytterligere 5 000 kroner.
-1
-2
-
-223
-
-[Side 226]
-
-11
-12
-
-Satsene for minstepensjon i tabellen gjelder for personer født i 1953 eller tidligere.
-Med virkning fra 1. januar 2023 økte satsen for minstepensjonsnivå for enslige med 4000 kroner.
-
-Kilde: Arbeids- og inkluderingsdepartementet
-
-Tabell 4.3 Arbeidskraftkostnader i industrien hos Norges handelspartnere i
-nasjonal valuta.1 Prosentvis endring fra året før
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-Sverige
-
-3,3
-
-1,1
-
-3,1
-
-3,6
-
--0,8
-
-4,8
-
-2,9
-
-3,6
-
-3,4
-
-2,6
-
-Tyskland
-
-2,3
-
-3,4
-
-3,0
-
-2,7
-
-0,9
-
-0,2
-
-5,3
-
-4,8
-
-4,5
-
-2,0
-
-USA
-
-2,3
-
-2,4
-
-2,4
-
-2,5
-
-2,4
-
-3,0
-
-4,8
-
-3,8
-
-3,7
-
-3,3
-
-Nederland
-
-1,7
-
-2,5
-
-2,5
-
-2,2
-
-4,3
-
-1,2
-
-5,0
-
-6,8
-
-5,4
-
-6,2
-
-Storbritannia
-
-2,7
-
-2,6
-
-3,1
-
-1,8
-
-8,9
-
--0,1
-
-0,6
-
-6,7
-
-8,3
-
-7,6
-
-Danmark
-
-2,8
-
-1,4
-
-2,4
-
-3,1
-
-1,4
-
-4,0
-
-3,0
-
-2,9
-
-3,6
-
-3,1
-
-Polen
-
-4,5
-
-6,5
-
-7,9
-
-6,9
-
-5,6
-
-8,1
-
-11,2
-
-11,3
-
-11,7
-
-8,6
-
-Belgia
-
-0,1
-
-1,2
-
-1,7
-
-2,1
-
-1,7
-
-1,3
-
-6,9
-
-7,5
-
-3,4
-
-3,5
-
-Frankrike
-
-1,3
-
-1,5
-
-2,4
-
-1,7
-
-1,9
-
--0,4
-
-3,2
-
-3,6
-
-3,9
-
-3,1
-
-Finland
-
-0,7
-
--1,9
-
-1,1
-
-0,6
-
--0,4
-
-4,0
-
-3,3
-
-3,4
-
-1,4
-
-3,7
-
-Italia
-
--0,4
-
-0,5
-
-1,2
-
-3,5
-
-2,5
-
--2,0
-
-3,1
-
-4,4
-
-4,1
-
-3,5
-
-Spania
-
-0,4
-
-0,9
-
-0,7
-
-2,0
-
-4,1
-
--0,9
-
-2,3
-
-5,7
-
-4,9
-
-3,6
-
-Kina
-
-Canada
-Japan
-Brasil
-Tyrkia
-Sør-Korea
-Tsjekkia
-
-o
-F
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-e
-v
-ga
-
-4,2
-
-8,4
-
-8,7
-
-8,0
-
-7,4
-
-2,8
-
-5,0
-
-8,0
-
-6,4
-
-6,3
-
-9,0
-
-10,0
-
-8,8
-
-5,9
-
-5,2
-
-12,7
-
-13,3
-
-10,9
-
-9,7
-
-7,7
-
-7,2
-
-7,7
-
-6,8
-
-6,7
-
-3,3
-
-7,3
-
-8,5
-
-9,0
-
-6,91
-
-7,3
-
-Østerrike
-
-2,0
-
-1,8
-
-3,4
-
-3,2
-
-2,7
-
-1,5
-
-5,8
-
-7,9
-
-6,6
-
-4,1
+I dette kapitlet ser vi på noen utvalgte indikatorer for utviklingen i industriens konkurranseevne. Det er en næring som i stor grad konkurrerer internasjonalt og som er viktig for balansen i utenriksøkonomien. I avsnitt 8.2 presenteres tall og anslag for utviklingen i lønnskostnader. I avsnittet ser vi også på forskjell i lønnskostnadsnivåene i industrien i Norge og andre land. I avsnitt 8.3 gir vi en beskrivelse av utviklingen i produktiviteten. For alle indikatorene som presenteres i kapitlet sammenligner vi Norge med et aggregat av våre viktigste handelspartnere, jf. boks 8.1. Se også boks 8.2 for beskrivelse av kildebruk.
 
 Norges handelspartnere
 
-2,5
-
-2,3
-
-3,0
-
-3,0
-
-2,5
-
-2,6
-
-4,3
-
-5,3
-
-4,9
-
-4,1
-
-7,3
-
-2,6
-
-1,6
-
-2,7
-
-2,4
-
-4,8
-
-4,2
-
-5,8
-
-4,1
-
-4,8
-
-Litauen
-Island
-Sveits
-India
-Nigeria
-
-Memo:
-Norge
-1
-
-Se tabellnote til tabell 8.3 for en beskrivelse av hvordan tallene er beregnet.
-
-Kilder: Statistisk sentralbyrå, Eurostat, Office for National Statistics og U.S. Bureau of Labor Statistics
-
-224
-
-[Side 227]
-
-Tabell 4.4 Lønnskostnader per ansatt i hele økonomien hos Norges handelspartnere i
-
-nasjonal valuta. Prosentvis vekst fra året før1
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-2026
-
-Sverige
-
-2,1
-
-3,9
-
-3,0
-
-2,5
-
-4,9
-
-2,1
-
-5,3
-
-5,2
-
-3,2
-
-3,2
-
-Tyskland
-
-2,8
-
-3,1
-
-3,3
-
-0,3
-
-3,2
-
-4,3
-
-6,2
-
-5,1
-
-5,0
-
-3,8
-
-USA
-
-2,9
-
-3,5
-
-3,1
-
-7,5
-
-5,3
-
-2,8
-
-3,4
-
-4,4
-
-4,0
-
-3,5
-
-Nederland
-
-0,9
-
-2,3
-
-3,1
-
-4,1
-
-2,8
-
-3,7
-
-6,2
-
-6,5
-
-4,3
-
-3,2
-
-Storbritannia
-
-2,8
-
-2,6
-
-3,8
-
-0,1
-
-4,3
-
-6,3
-
-5,7
-
-5,1
-
-6,4
-
-3,5
-
-Danmark
-
-1,6
-
-1,8
-
-1,8
-
-2,5
-
-3,1
-
-2,6
-
-3,4
-
-4,4
-
-3,0
-
-3,1
-
-Polen
-
-5,6
-
-7,6
-
-5,5
-
-5,0
-
-4,6
-
-12,4
-
-14,3
-
-10,3
-
-9,7
-
-5,1
-
-Belgia
-
-1,9
-
-1,8
-
-2,1
-
--1,2
-
-4,9
-
-7,5
-
-7,5
-
-3,4
-
-3,3
-
-1,9
-
-Frankrike
-
-2,0
-
-1,5
-
--0,1
-
--3,5
-
-5,0
-
-5,0
-
-4,1
-
-3,2
-
-1,4
-
-0,9
-
-Finland
-
--0,5
-
-1,2
-
-1,8
-
-0,6
-
-4,1
-
-2,5
-
-3,4
-
-1,8
-
-3,0
-
-2,2
-
-Italia
-
-0,6
-
-1,5
-
-1,3
-
--4,1
-
-6,8
-
-3,8
-
-2,7
-
-3,3
-
-3,5
-
-2,8
-
-Spania
-
-0,7
-
-1,7
-
-3,4
-
-0,8
-
-4,8
-
-4,7
-
-5,0
-
-4,6
-
-3,8
-
-2,8
-
-Canada
-
-1,9
-
-3,6
-
-2,0
-
-4,7
-
-2,8
-
-4,2
-
-3,0
-
-3,8
-
-1,8
-
-1,6
-
-Japan
-
-0,5
-
-1,2
-
-0,7
-
--0,8
-
-1,7
-
-1,8
-
-1,4
-
-3,1
-
-2,9
-
-3,0
-
-Sør-Korea
-
-3,4
-
-4,7
-
-3,5
-
-3,0
-
-3,2
-
-2,6
-
-4,4
-
-4,2
-
-2,7
-
-4,1
-
-Tsjekkia
-
-7,4
-
-8,3
-
-7,7
-
-4,0
-
-6,2
-
-6,9
-
-7,0
-
-6,1
-
-6,1
-
-4,9
-
-Litauen
-
-9,5
-
-Island
-
-8,7
-
-Kina
-
-Brasil
-Tyrkia
-
-India
-Nigeria
-Østerrike
-
-Memo:
-Norge
-1
-2
-
-7,9
-
-10,5
-
-6,9
-
-11,5
-
-11,6
-
-12,1
-
-7,1
-
-9,6
-
-6,1
-
-2,0
-
--3,6
-
-9,5
-
-15,5
-
-11,6
-
-6,5
-
-5,3
-
-5,7
-
-1,1
-
-1,6
-
--1,3
-
-4,1
-
-4,4
-
-1,4
-
-2,5
-
-0,7
-
-1,5
-
-2,8
-
-2,7
-
-1,8
-
-2,8
-
-4,8
-
-6,8
-
-7,2
-
-3,8
-
-3,5
-
-2,4
-
-3,2
-
-2,9
-
-2,0
-
-4,3
-
-4,3
-
-5,6
-
-5,0
-
-4,2
-
-3,3
-
-2,0
-
-3,2
-
-4,0
-
-1,8
-
-4,9
-
-4,4
-
-6,4
-
-5,1
-
-4,2
-
-3,6
-
-0,4
-
-F
-
-Norges
-handelspartnere2
-
-ø
-l
-e
-
-g
-t
-u
-
-10,6
-
-r
-o
-
-Sveits
-
-g
-i
-p
-
-e
-v
-a
-
-1,6
-
-Tallene for 2025 og 2026 er anslag.
-Ved beregning av tall for Norges handelspartnere benyttes vektene som er beskrevet i tabell 8.1.
-
-Kilde: OECD Economic Outlook 118 (Publisert i desember 2025)
-
-225
-
-[Side 228]
-
-Tabell 4.5 Netto lønnskostnadsandel for industrien i Norge og utvalgte land.
-Prosent.
-
-*
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024*
-
-2025*
-
-Norge
-
-83,1
-
-79,5
-
-81,7
-
-84,1
-
-82,0
-
-79,7
-
-72,4
-
-73,8
-
-76,6
-
-74,7
-
-Sverige
-
-67,3
-
-68,8
-
-68,9
-
-68,2
-
-70,6
-
-68,7
-
-60,4
-
-63,1
-
-Tyskland
-
-75,0
-
-75,6
-
-78,4
-
-81,2
-
-84,4
-
-79,6
-
-78,5
-
-75,8
-
-81,8
-
-Finland
-
-71,5
-
-63,3
-
-65,6
-
-65,8
-
-65,5
-
-64,0
-
-59,5
-
-69,1
-
-69,4
-
-Danmark
-
-63,1
-
-62,4
-
-62,1
-
-60,1
-
-62,5
-
-61,2
-
-57,9
-
-48,4
-
-45,3
-
-Nederland
-
-62,4
-
-59,5
-
-58,6
-
-59,9
-
-61,7
-
-56,2
-
-55,7
-
-56,1
-
-58,1
-
-Frankrike
-
-80,0
-
-80,4
-
-81,2
-
-79,4
-
-86,1
-
-83,3
-
-80,9
-
-74,5
-
-77,7
-
-Polen
-
-53,5
-
-59,0
-
-60,9
-
-61,6
-
-61,6
-
-57,4
-
-54,9
-
-55,9
-
-62,4
-
-Foreløpige tall Kilder: Statistisk sentralbyrå, Danmarks Statistik, Statistiska centralbyrån Sverige og Eurostat
-
-Tabell 4.6 Lønnsomhetsmål i industrien. Prosent
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-4,4
-5,2
-4,0
-4,1
-5,8
-4,4
-2,8
-5,0
-
-4,8
-5,3
-4,4
-4,6
-6,3
-5,0
-3,9
-5,8
-
-4,7
-5,3
-4,7
-4,7
-5,6
-5,1
-4,3
-6,2
-
-4,1
-5,3
-3,6
-4,5
-5,7
-4,6
-3,2
-5,7
-
-3,0
-5,2
-3,6
-4,3
-5,4
-4,1
-3,3
-5,5
-
-3,3
-6,3
-2,7
-3,7
-5,6
-2,5
-1,7
-5,0
-
-6,7
-6,1
-7,0
-4,8
-9,0
-4,8
-5,7
-8,2
-
-7,3
-5,8
-6,8
-5,4
-9,8
-6,7
-6,2
-8,7
-
-7,9
-5,6
-6,9
-5,6
-9,1
-7,1
-6,5
-9,0
-
-7,8
-9,9
-5,6
-5,7
-9,0
-6,6
-5,8
-8,4
-
-6,1
-7,1
-5,5
-5,5
-8,0
-6,0
-5,2
-7,9
-
-e
-v
-ga
-2021
-
-2022
-
-2023
-
-2024
-
-5,1
-5,8
-4,5
-5,1
-7,1
-4,1
-5,1
-6,5
-
-8,5
-5,9
-4,6
-5,4
-7,1
-4,1
-4,0
-6,4
-
-4,7
-5,9
-4,7
-6,7
-6,0
-4,6
-3,5
-5,3
-
-5,5
-6,1
-4,6
-6,3
-4,7
-4,9
-
-6,5
-7,0
-3,8
-3,5
-8,3
-4,4
-3,4
-6,9
-
-9,3
-6,9
-6,9
-5,5
-10,4
-5,8
-6,5
-7,9
-
-11,9
-7,4
-9,0
-6,6
-12,0
-5,9
-5,7
-9,4
-
-11,3
-10,7
-14,4
-7,5
-10,1
-6,7
-7,0
-8,2
-
-8,6
-10,2
-8,0
-6,9
-7,8
-7,5
-
-51,4
-56,6
-37,8
-43,6
-52,0
-45,8
-32,0
-39,4
-
-48,6
-46,9
-37,8
-42,9
-50,8
-45,0
-32,9
-41,0
-
-49,3
-45,9
-37,4
-42,9
-50,6
-44,1
-31,4
-39,9
-
-49,8
-47,9
-38,2
-44,9
-54,1
-45,1
-33,2
-41,4
-
-50,5
-45,8
-39,5
-46,1
-55,1
-46,0
-
-Driftsmargin
-Norge
-Belgia
-Frankrike
-Italia
-Polen
-Spania
-Tyskland
-Østerrike
-
-o
-F
-
-Totalrentabilitet
-Norge
-Belgia
-Frankrike
-Italia
-Polen
-Spania
-Tyskland
-Østerrike
-
-t
-u
-g
-
-ø
-l
-re
-
-i
-p
-
-Egenkapitalandel
-Norge
-47,0
-50,9
-49,8
-51,6
-52,6
-Belgia
-46,2
-44,8
-45,1
-45,5
-48,0
-Frankrike
-36,7
-37,4
-39,0
-37,1
-37,3
-Italia
-37,5
-39,6
-39,4
-40,3
-42,4
-Polen
-52,5
-51,9
-52,9
-52,6
-52,3
-Spania
-42,8
-43,2
-44,2
-45,9
-46,1
-Tyskland
-32,4
-34,1
-33,6
-32,7
-32,9
-Østerrike
-39,5
-39,2
-38,7
-38,8
-39,1
-Kilder: Statistisk sentralbyrå og Banque de France (BACH-databasen)
-
-226
-
-[Side 229]
-
-Tabell 4.7 Husholdninger. Inntekter og utgifter. Milliarder kroner
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024*
-
-Inntekter:
-
-1820,1
-
-1885,7 1958,5 2061,7
-
-2104
-
-2288,2
-
-2406,2
-
-2577,1
-
-2772,1 2942,9
-
-Lønn
-
-1161,9
-
-1201,3 1257,7 1321,9 1335,8 1420,1
-
-1528,3
-
-1625,3
-
-1723,9 1818,2
-
-Blandet inntekt1/driftsresultat
-
-210,4
-
-219,3
-
-222,5
-
-234,3
-
-209
-
-230,5
-
-285,2
-
-290,2
-
-308,5
-
-326,7
-
-Herav: Tjenester fra egen
-bolig
-
-123,6
-
-127,3
-
-135,6
-
-154,7
-
-144,4
-
-160,8
-
-189,6
-
-189,7
-
-200,1
-
-209,3
-
-Formuesinntekter
-
-80,5
-
-82,6
-
-88,6
-
-99,9
-
-93,6
-
-174
-
-121,8
-
-153
-
-181,1
-
-194,1
-
-Herav: Mottatt aksjeutbytte
-
-45
-
-50,3
-
-45
-
-48,5
-
-43,2
-
-42,5
-
-38,6
-
-39,1
-
-47,6
-
-48,4
-
-Offentlige stønader, inkl.
-pensjon
-
-67,2
-
-68,6
-
-73,4
-
-81,4
-
-77,4
-
-163,1
-
-102,8
-
-108,7
-
-117,1
-
-122,1
-
-Andre inntekter (netto)
-
-460,5
-
-474
-
-485,2
-
-503,6
-
-556,5
-
-569,1
-
-588,4
-
-645,6
-
-700,6
-
-743,3
-
-Utgifter:
-
-463,2
-
-475,3
-
-494,2
-
-523,1
-
-529,1
-
-578,5
-
-624,8
-
-732,3
-
-812,6
-
-849,4
-
-Skatt på inntekt og formue
-
-360,6
-
-367,5
-
-383
-
-400
-
-415,6
-
-480,9
-
-492
-
-516,7
-
-554,1
-
-587,9
-
-Formuesutgifter
-
-102,6
-
-107,7
-
-111,2
-
-123,1
-
-113,4
-
-97,5
-
-132,7
-
-215,6
-
-258,5
-
-261,5
-
-Korreksjon for indirekte målte
-banktjenester
-
-61,4
-
-68,8
-
-68,2
-
-68,2
-
-78,9
-
-71,3
-
-60,2
-
-66,4
-
-71,3
-
-70,9
-
-Disponibel inntekt
-
-1418,4
-
-1479,2 1532,5 1606,8 1653,8
-
-1781
-
-1841,6
-
-1911,0
-
-2030,8 2164,4
-
-g
-i
-p
-
-e
-v
-a
-
-g
-t
-u
-
-2025*
-
-Blandet inntekt er den delen av driftsresultatet som tilfaller husholdningssektoren. Dette inkluderer også
-beregnet avkastning av boligkapitalen.
-*
-Foreløpige tall.
-1
+For å vurdere utviklingen i konkurranseevnen til norsk næringsliv, sammenlignes gjerne ulike indikatorer i Norge med tilsvarende størrelser hos våre handelspartnere.
+
+Utvalget har i denne rapporten tatt utgangspunkt i tall fra OECD for internasjonal varehandel for perioden 2000–2023. Utvalget har lagt de 25 landene som Norge hadde størst varehandel (ekskludert eksport av råolje og naturgass) med i 2023 til grunn som landsammensetning for handelspartneraggregatet. Denne landsammensetningen er benyttet for alle år, selv om det i perioden har vært variasjoner mht. hvilke 25 land Norge har hatt størst varehandel med. Basert på landsammensetningen og handelstallene for de ulike årene, er det beregnet handelsvekter for hvert år i perioden 2000–2023. Vektene som er benyttet i beregningene av indikatorene i dette kapittelet varierer dermed fra år til år i perioden 2000–2023. For 2024 og 2025 foreligger det ikke handelstall fra OECD, og for disse årene er det derfor lagt til grunn de samme vektene som i 2023.
+
+I TBU-rapporten i fjor var handelspartneraggregatet beregnet basert på tall fra OECD for 2020. Tabell 8.1 viser landsammensetningen og vektene som er benyttet for årene 2023–2025 i årets rapport, sammenlignet med handelspartneraggregatet i fjorårets rapport. De største endringene at Sverige og Danmark har fått betydelig lavere vekter, mens vektene til USA og Kina har økt. For Kina foreligger det imidlertid ikke tall for noen av størrelsene som omtales i dette kapittelet.
+
+Nye land i handelspartneraggregatet er Island, India og Nigeria, mens Russland, Taiwan og Romania går ut.
+
+Sammensetning av handelspartneraggregatet. Prosent
+
+05J1tx2
+
+<table>
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 19%" />
+<col style="width: 30%" />
+<col style="width: 25%" />
+<col style="width: 18%" />
+</colgroup>
+<tbody>
+<tr>
+<td>Nr.</td>
+<td>Land</td>
+<td style="text-align: right;">Vekter for 2023–2025<br />
+i årets TBU-rapport</td>
+<td style="text-align: right;">Vekter for 2020<br />
+i TBU-rapporten i fjor</td>
+<td style="text-align: right;">Differanse</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sverige</td>
+<td style="text-align: right;">15,6</td>
+<td style="text-align: right;">22,6</td>
+<td style="text-align: right;">-7,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Tyskland</td>
+<td style="text-align: right;">11,7</td>
+<td style="text-align: right;">13,1</td>
+<td style="text-align: right;">-1,4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>USA</td>
+<td style="text-align: right;">8,7</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">4,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Kina</td>
+<td style="text-align: right;">8,0</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">3,2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nederland</td>
+<td style="text-align: right;">7,9</td>
+<td style="text-align: right;">8,1</td>
+<td style="text-align: right;">-0,2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Storbritannia</td>
+<td style="text-align: right;">7,1</td>
+<td style="text-align: right;">7,1</td>
+<td style="text-align: right;">0,0</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Danmark</td>
+<td style="text-align: right;">6,8</td>
+<td style="text-align: right;">8,9</td>
+<td style="text-align: right;">-2,1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Polen</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">0,9</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Belgia</td>
+<td style="text-align: right;">3,3</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">0,7</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Frankrike</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">0,1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Finland</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;">0,3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Italia</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">0,2</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Spania</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">0,4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Canada</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">-0,5</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Japan</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">0,4</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Brasil</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">0,5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Tyrkia</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,4</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Sør-Korea</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">-0,6</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Tsjekkia</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">0,1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Litauen</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">-0,1</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Island</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">1,1</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Sveits</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,0</td>
+</tr>
+<tr>
+<td>23</td>
+<td>India</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">1,0</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Nigeria</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">0,9</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Østerrike</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">0,0</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Russland</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">-1,5</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Taiwan</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">-0,7</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Romania</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">-0,7</td>
+</tr>
+<tr>
+<td></td>
+<td>SUM</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;"></td>
+</tr>
+</tbody>
+</table>
+
+Kilder: OECD og Beregningsutvalget
+
+Nærmere om grunnlaget for beregningen av handelsvektene
+
+Handelsvektene er beregnet basert på BIMTS<sup>1</sup>-databasen til OECD. Datagrunnlaget i denne databasen bygger på offisielle statistikker for utenrikshandel med varer fra rundt 200 land.
+
+En utfordring med handelsstatistikken er at det er systematiske forskjeller mellom for eksempel norsk eksportverdi av en vare og importverdien av samme vare i mottakerlandet. Det er fordi Norge måler verdien ved grensepassering i norske kroner, mens importlandet måler verdien ved sin grense, i egen valuta og inkludert frakt og forsikring. OECD har utviklet metoder for å harmonisere og avstemme eksport- og importverdier mellom land, og BIMTS-databasen er et resultat av dette arbeidet. I tillegg harmoniserer OECD tallene også ved å korrigere for reeksport.
+
+I beregningen av vektene i dette kapittelet har vi benyttet tall for alle varer, unntatt eksport av råolje og naturgass. OECD har lagt om og forbedret BIMTS-databasen, og denne overgangen forklarer i hovedsak avvikene mellom nye og tidligere vekter i tabell 8.1.
+
+Vektene her omfatter både eksport og import og avviker noe fra eksportvektene som omtales i kapittel 5, se tabell 5.2. Dette er fordi vektene i kapittel 5 er beregnet utelukkende på destinasjonen for Norges eksport av varer fra fastlandet.
+
+Nærmere om forenklinger i beregningene
+
+I en beregning av landsammensetning og vekter som skal danne grunnlag for å vurdere konkurranseevnen til norske bedrifter ovenfor bedrifter i andre land, burde i prinsippet alle faktorer som har betydning for konkurranseevnen tas med. Flere forhold er imidlertid vanskelig å fange opp i slike beregninger, og metoden tilsier at dette er en forenkling.
+
+For det første inneholder ikke BIMTS-databasen handel med tjenester. I 2025 utgjorde tjenester 27 prosent av Norges eksport, og 39 prosent av Norges import.
+
+Handelsstrømmene er for øvrig ikke brutt ned til hver enkelt varetype for å kunne gi et grunnlag for å vurdere i hvilken grad det faktisk er direkte konkurranse mellom norske og utenlandske bedrifter. Den faktiske varesammensetningen vil for eksempel variere betydelig mellom Norge og lavkostland, slik at det på et gitt tidspunkt i praksis kan være liten reell konkurranse mellom norske bedrifter og bedrifter fra lavkostlandet.
+
+I beregningen av vektene her er det heller ikke tatt hensyn til konkurranse mellom norske og utenlandske bedrifter i tredjeland.
+
+<sup>1</sup> BIMTS = Balanced international merchandise trade statistics
+
+\[Boks slutt\]
+
+## Indikatorer for kostnadsutviklingen
+
+Lønnskostnadene er den enkeltfaktoren som betyr mest for kostnadene i næringslivet. Ifølge en analyse av Norges Bank utgjør de direkte lønnskostnadene 26 prosent av samlet produksjonsverdi i norske bedrifter. Hvis en inkluderer lønnskostnadene som påløper gjennom produktinnsatsen fra innenlandske underleverandører øker andelen til 39 prosent.[^65] Lønnskostnadene kan blant annet måles ved timelønnskostnader og lønnskostnader per produsert enhet. Svakere krone bedrer isolert sett bedriftenes konkurransesituasjon mot utlandet. Foruten lønnskostnadene vil andre kostnadskomponenter som energikostnader, kapitalkostnader, transportkostnader og andre kostnader til innenlandsk produsert produktinnsats ha betydning for norske bedrifters muligheter til å kunne hevde seg i den internasjonale konkurransen. Videre vil også produktivitetsutviklingen, prisutviklingen og offentlige avgifter og subsidier være av betydning for konkurranseevnen.
+
+Utviklingen i industriens internasjonale konkurranseevne avhenger også av produktivitets- og kostnadsutviklingen i øvrige deler av norsk næringsliv. Disse næringene leverer produktinnsats, energi og kapitalvarer til industrien. Jo billigere disse leveransene er, desto bedre blir industriens internasjonale konkurranseevne. Videre konkurrerer industrien med øvrige næringer om innsatsfaktorer som blant annet arbeidskraft. Lavere lønninger i andre næringer kan bidra til en bedring i industriens konkurranseevne ved at det blir lettere og billigere for industrien å skaffe arbeidskraft og kapitalvarer. Kostnadsutviklingen i industrien kan derfor ikke ses uavhengig av kostnadsutviklingen i norsk økonomi for øvrig. Konkurranseevneforbedringen fra svakere krone dempes av dyrere produktinnsats på importerte varer og tjenester. Dette gir insentiver til å erstatte importerte produkter med norskproduserte varer og tjenester som så vil dempe kostnadene igjen.
+
+### Vekst i arbeidskraftkostnader
+
+Den kostnadsmessige konkurranseevnen målt ved relative arbeidskraftkostnader per time i industrien i felles valuta svekket seg i årene fram til og med 2012. Svekkelsen hadde både sammenheng med høyere vekst i timelønnskostnadene i norsk industri enn hos våre handelspartnere og en styrking av kronen. I perioden etter 2012 har en markert svekkelse av kronen bidratt til at konkurranseevnen har bedret seg igjen. Utviklingen i valutakursen har variert mye fra år til år, og bidratt til at det har vært langt større svingninger i den relative timelønnskostnadsveksten målt i felles valuta enn i nasjonal valuta.
+
+Figur 8.1 viser utviklingen i arbeidskraftkostnader per time siden år 2000 for ansatte i industrien i Norge sammenlignet med industrien hos våre handelspartnere målt i nasjonal og i felles valuta.
+
+Relative arbeidskraftkostnader per time i industrien. Norge<sup>1</sup> og handelspartnerne<sup>2,3</sup>. 2000–2025. Indeks 2000=100
+
+<sup>1</sup> For Norge er tallene for perioden 2016–2024 beregnet basert på statistikk for arbeidskraftkostnader og faktisk arbeidede timer som SSB publiserte i desember 2025. SSB sine tall for arbeidskraftkostnader og faktisk arbeidede timer er utarbeidet etter en ny metode sammenlignet med tidligere, og avviker derfor fra de tallene som Eurostat per tid har publisert for Norge. Framover vil SSB rapportere til Eurostat i tråd med den nye metoden. Det foreligger ikke tall etter den nye metoden for årene før 2016 og for 2025, og tallene for disse årene er derfor anslått med å bruke arbeidskraftkostnadsindekser som Eurostat har publisert for Norge.
+
+<sup>2</sup> Handelspartnerne i figuren utgjør 80,6 prosent av handelspartneraggregatet i årene 2023–2025. For årene før 2023 varierer handelspartnernes andel av aggregatet mellom 76 og 81 prosent. Variasjonene skyldes at landenes vekter varierer fra år til år, jf. beskrivelse i boks 8.1. Figur 8.1 inneholder en større andel av handelspartneraggregatet enn figur 8.3 fordi det i denne figuren også foreligger tall for USA og Island.
+
+<sup>3</sup> Tallene for EU-landene og Island er arbeidskraftkostnadsindekser fra Eurostat. For Belgia foreligger det bare tall tom. 2. kvartal 2025, og årsveksten for Belgia er derfor anslått ved å beregne veksten fra 1–2. kvartal 2024 til 1–2. kvartal 2025. Tilsvarende er gjort for Nederland hvor det foreligger tall tom. 3. kvartal 2025. Tall for handelspartnerne er beregnet som veide geometriske gjennomsnitt. Tallene for Storbritannia er fra Office for National Statistics som publiserer tall for «Annual average labour compensation per hour worked». Det er publisert tall for Storbritannia per 3. kvartal 2025. Tallene for USA er fra U.S. Bureau of Labor Statistics som publiserer tall for «Employment cost index». Det er publisert tall for USA per 3. kvartal 2025.
+
+Kilder: Eurostat, Office for National Statistics, U.S. Bureau of Labor Statistics, Statistisk sentralbyrå og Norges Bank
+
+Ifølge tall for arbeidskraftkostnader fra Eurostat var veksten i arbeidskraftkostnader per time i norsk industri i fjor 4,8 prosent, 0,7 prosentpoeng høyere enn et vektet aggregat av våre handelspartnere, jf. tabell 8.2 under. I motsatt retning trakk en svekkelse av kronen, slik at den kostnadsmessige konkurranseevnen svekket seg med 0,1 prosent i fjor. Til sammenligning ble det i den foreløpige TBU-rapporten i februar anslått at svekkelsen i fjor var 1,6 prosent. Nedjusteringen skyldes at tallene for 2025 i den foreløpige TBU-rapporten var anslått basert på tall fra Eurostat per 3. kvartal 2025, mens det til denne rapporten foreligger tall fra Eurostat for hele 2025.
+
+Sett over de siste ti årene samlet har gjennomsnittlig vekst i arbeidskraftkostnader per time i norsk industri vært 4,0 prosent per år, 0,5 prosentpoeng høyere enn hos våre handelspartnere. Kronen, målt ved industriens effektive valutakurs, har i gjennomsnitt svekket seg med 1,8 prosent per år.
+
+Siden utvalgets rapport i fjor har SSB publisert oppdaterte tall for arbeidskraftkostnader og faktisk arbeidede timer. Tallene avviker betydelig fra tallene som ble benyttet ved beregningene i fjorårets TBU-rapport. Bakgrunnen for revisjonene er endringer i beregningsmetoden til SSB for data som skal leveres til Eurostat. Endringene er blant annet knyttet til beregninger av utførte timeverk kontra betalte timeverk som er en sentral variabel for å beregne arbeidskraftkostnader per time. Tallene er foreløpig ikke publisert av Eurostat, men framover vil SSB levere tall til Eurostat beregnet på denne metoden slik at dette etter hvert vil reflekteres i Eurostats database.
+
+Arbeidskraftkostnader per time i industrien i Norge<sup>1</sup> og handelspartnerne.<sup>2</sup> Prosentvis endring fra året før
+
+13J1tx2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 28%" />
+<col style="width: 8%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td style="text-align: right;">Gj.snitt perioden</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: right;">2017</td>
+<td style="text-align: right;">2018</td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td colspan="2">Arbeidskraftkostnader per time</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td></td>
+<td>Norge</td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">7,3</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;">4,8</td>
+<td style="text-align: right;">4,2</td>
+<td style="text-align: right;">5,8</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">4,8</td>
+</tr>
+<tr>
+<td></td>
+<td>Handelspartnerne</td>
+<td style="text-align: right;">3,4</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">5,3</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">4,1</td>
+</tr>
+<tr>
+<td colspan="2">Relative arbeidskraftkostnader per time i nasjonal valuta</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">-1,4</td>
+<td style="text-align: right;">-0,3</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">-0,1</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">-0,8</td>
+<td style="text-align: right;">0,7</td>
+</tr>
+<tr>
+<td colspan="2">Valutakurs<sup>3</sup></td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">-0,6</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">8,1</td>
+<td style="text-align: right;">-4,9</td>
+<td style="text-align: right;">-0,3</td>
+<td style="text-align: right;">9,5</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">0,5</td>
+</tr>
+<tr>
+<td colspan="2">Relative arbeidskraftkostnader per time i felles valuta</td>
+<td style="text-align: right;">-1,2</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">-1,9</td>
+<td style="text-align: right;">-3,2</td>
+<td style="text-align: right;">-7,5</td>
+<td style="text-align: right;">7,3</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">-8,3</td>
+<td style="text-align: right;">-2,1</td>
+<td style="text-align: right;">0,1</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Se fotnote til figur 8.1 for en forklaring på tallene for Norge.
+
+<sup>2</sup> Tallene for handelspartnerne er beregnet med vektene som er beskrevet i boks 8.1. Se fotnote til figur 8.1 for forklaring på tallene for handelspartnerne.
+
+<sup>3</sup> Industriens effektive valutakurs. Et positivt endringstall innebærer en svekkelse av norske kroner målt ved industriens effektive valutakurs. Utviklingen i industriens effektive valutakurs kan avvike betydelig fra kronens verdi mot enkeltvalutaer. Dette innebærer bl.a. at et veid gjennomsnitt ikke gir et fullstendig uttrykk for den endringen i konkurransesituasjonen de enkelte bedriftene eller bransjene står overfor.
+
+Kilder: Eurostat, Office for National Statistics, U.S. Bureau of Labor Statistics, Statistisk sentralbyrå og Norges Bank
+
+Dersom vi går ut over industrien og ser på næringsvirksomhet i fastlandsøkonomien har den kostnadsmessige konkurranseevnen bedret seg med i gjennomsnitt 1,5 prosent per år over de siste ti årene, jf. tabell 8.3. Som det framgår av tabellen har arbeidskraftkostnadene per time i Norge økt mer enn hos handelspartnerne i EU, men virkningen av kronesvekkelsen i perioden har vært større.
+
+Arbeidskraftkostnader per time i næringsvirksomhet. Prosentvis endring fra året før
+
+13J1tx2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 28%" />
+<col style="width: 8%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td style="text-align: right;">Gj.snitt perioden</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: right;">2017</td>
+<td style="text-align: right;">2018</td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td colspan="2">Arbeidskraftkostnader pr. time</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td></td>
+<td>Fastlands-Norge<sup>1</sup></td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">6,9</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">4,2</td>
+</tr>
+<tr>
+<td></td>
+<td>Handelspartnerne i EU<sup>2</sup></td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">5,0</td>
+<td style="text-align: right;">5,4</td>
+<td style="text-align: right;">4,8</td>
+<td style="text-align: right;">4,3</td>
+</tr>
+<tr>
+<td colspan="2">Relative arbeidskraftkostnader per time i nasjonal valuta</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">-1,2</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">-0,7</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">-0,4</td>
+<td style="text-align: right;">-0,1</td>
+</tr>
+<tr>
+<td colspan="2">Valutakurs<sup>3</sup></td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">-0,6</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">8,1</td>
+<td style="text-align: right;">-4,9</td>
+<td style="text-align: right;">-0,3</td>
+<td style="text-align: right;">9,5</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">0,5</td>
+</tr>
+<tr>
+<td colspan="2">Relative arbeidskraftkostnader per time i felles valuta</td>
+<td style="text-align: right;">-1,5</td>
+<td style="text-align: right;">-2,5</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;">-1,9</td>
+<td style="text-align: right;">-7,0</td>
+<td style="text-align: right;">7,1</td>
+<td style="text-align: right;">-0,4</td>
+<td style="text-align: right;">-7,4</td>
+<td style="text-align: right;">-1,7</td>
+<td style="text-align: right;">-0,7</td>
+</tr>
+<tr>
+<td colspan="2"><em>Memo:</em></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td colspan="2">Norge<sup>4</sup></td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">-1,9</td>
+<td style="text-align: right;">5,8</td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">6,1</td>
+<td style="text-align: right;">4,2</td>
+<td style="text-align: right;">4,1</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Tall for Fastlands-Norge i 2024 er en spesialberegning av SSB for TBU hvor tall for arbeidskraftkostnader per time i næringsvirksomhet fra SSB sin statistikk for «Lønn og arbeidskraftkostnader» er justert for utvinning av råolje og naturgass. Tall for 2016–2023 og 2025 er beregnet basert på tall i nasjonalregnskapet.
+
+<sup>2</sup> Tall fra Eurostat for «Business economy». Handelspartnerne er beregnet med vektene som er beskrevet i boks 8.1
+
+<sup>3</sup> Se fotnote til tabell 8.2
+
+<sup>4</sup> Tall for 2017–2024 er fra SSB sin statistikk for «Lønn og arbeidskraftkostnader». Det foreligger ikke tall for 2016 og 2025 i denne statistikken, og tallene for disse årene er derfor fra nasjonalregnskapet.
+
+Kilder: Eurostat, Statistisk sentralbyrå og Norges Bank
+
+### Arbeidskraftkostnader per time i industrien
+
+Forholdet mellom arbeidskraftkostnadene per time i industrien i Norge og i industrien hos handelspartnerne i EU og Storbritannia økte trendmessig fram til 2012, jf. figur 8.3. Både høyere lønnskostnadsvekst i Norge enn hos handelspartnerne og en styrking av kronen bidro. I 2012 var arbeidskraftkostnadene per time i norsk industri 64 prosent høyere enn i industrien til et vektet snitt av handelspartnerne i EU inkludert Storbritannia. En markert svekkelse av kronen har bidratt til at differansen har falt, og var i fjor 21 prosent. Forskjellen mellom Norge og handelspartnere har de to siste årene vært på det laveste siden 2004.
+
+Arbeidskraftkostnader per time i industrien i Norge<sup>1</sup> i forhold til industrien hos handelspartnerne i EU<sup>2</sup> og Storbritannia<sup>3</sup>. 2000–2025. Handelspartnerne i figuren=100<sup>4</sup>
+
+<sup>1</sup> Se fotnote til figur 8.1 for en forklaring på tallene for Norge.
+
+<sup>2</sup> Tallene for EU-landene er basert på Eurostats arbeidskraftkostnadsundersøkelse som utføres hvert fjerde år. Eurostat har publisert nivåtall for hvert år i perioden 2020–2024, og for hvert fjerde år f.o.m. 2008 til 2020. For år hvor Eurostat ikke har publisert nivåtall er nivåene i figuren anslått ved å legge til grunn arbeidskraftkostnadsindekser fra Eurostat. Disse indeksene omfatter lønnskostnader inkludert skatter (f.eks. arbeidsgiveravgift) og fratrukket lønnsubsidier, se definisjoner i boks 8.2. En svakhet med statistikken til Eurostat er at det i en del tilfeller er dårlig samsvar mellom de fireårige nivåtallene og indeksene i årene mellom. Anslagene for de årene hvor Eurostat ikke har publisert nivåtall må derfor tolkes med forsiktighet.
+
+<sup>3</sup> Tallene for Storbritannia er fra Office for National Statistics. Eurostat publiserte tidligere nivåtall for Storbritannia, men sluttet med det da landet gikk ut av EU. Sammenlignet med de gamle nivåtallene som Eurostat har publisert for Storbritannia ligger tallene fra Office for National Statistics litt høyere.
+
+<sup>4</sup> Handelspartnerne i figuren utgjør 70,8 prosent av handelspartneraggregatet i årene 2023–2025. For årene før 2023 varierer handelspartnernes andel av aggregatet mellom 68 og 79 prosent. Variasjonene skyldes at landenes vekter varierer fra år til år, jf. beskrivelse i boks 8.1.
+
+Kilder: Statistisk sentralbyrå, Eurostat, Office for National Statistics og Norges Bank
+
+Sammenlignet med utvalgets rapport i fjor er det for enkelte år vesentlige endringer i den beregnede forskjellen mellom arbeidskraftkostnadene per time i norsk industri og i industrien hos handelspartnerne i EU og Storbritannia. Blant annet er forskjellen i toppåret 2012 økt fra 56 til 64 prosent. Endringene siden i fjor skyldes i hovedsak de nye og forbedrede tallene fra SSB for arbeidskraftkostnadene per time i norsk industri.
+
+Figur 8.1 viser at relative arbeidskraftkostnader per time mellom norsk industri og industrien hos våre handelspartnere har gått opp med 9,4 prosent fra 2000 til 2025, målt i felles valuta. Samtidig viser figur 8.2 at forskjellen i arbeidskraftkostnader per time mellom industrien i Norge og våre handelspartnere i EU og Storbritannia har økt med 12,6 prosent i samme periode. En grunn til at figurene viser litt ulik utvikling er at figur 8.1 som er basert på tall for årlig vekst inkluderer tall for USA og Island. En annen grunn er at figur 8.2 i beregningen tar hensyn til at de ulike landene som inngår har forskjellige lønnskostnadsnivåer. For et land med en gitt lønnsutvikling blir effekten på det vektede aggregatet større hvis nivået er høyt enn hvis det er lavt. Samlet sett over perioden har veksten i arbeidskraftkostnader per time vært høyest i Litauen, Polen og Tsjekkia, mens Tyskland, Frankrike og Italia har hatt den laveste veksten. En tredje grunn til at figurene kan vise litt forskjellig utvikling er knyttet til utviklingen i valutakursene. I figur 8.2 er arbeidskraftkostnadsnivåene til alle landene omregnet til euro. I figur 8.1 er omregningen fra relative arbeidskraftkostnader per time i nasjonal valuta til felles valuta gjort ved å benytte industriens effektive valutakurs (konkurransekursindeksen).
+
+Figur 8.3 illustrerer forholdet mellom arbeidskraftkostnadene per timeverk i industrien i Norge og i industrien hos handelspartnerne i EU og Storbritannia i 2025. Selv om forholdet mellom arbeidskraftkostnadene per time i industrien i Norge og i industrien hos handelspartnerne har falt markert siden 2012, var nivået i Norge i fjor fortsatt høyere enn de fleste landene i sammenligningen. Dette reflekterer norsk økonomis høye produktivitet og inntektsnivå, samt jevnere fordeling av inntektene. Av handelspartnerne i EU er det bare industrien i Danmark som hadde høyere kostnadsnivå enn norsk industri i fjor. Av de andre handelspartnerne lå lønnskostnadsnivået i Belgia, Østerrike og Tyskland høyest i 2025, mens Tsjekkia, Polen og Litauen lå lavest.
+
+Arbeidskraftkostnader per time i industrien i Norge og industrien hos Norges handelspartnere<sup>1</sup> i EU og Storbritannia i felles valuta i 2025. Handelspartnerne i figuren=100
+
+<sup>1</sup> Det vektede gjennomsnittet er beregnet ut fra vektene som er beskrevet i boks 8.1. Figuren her illustrerer handelspartnerne som inngår i beregningene av figur 8.2 og 8.3. Figur 8.1 som viser veksten i arbeidskraftkostnader per time inkluderer også tall for USA og Island.
+
+Kilder: Statistisk sentralbyrå, Eurostat, Office for National Statistics og Norges Bank
+
+Eurostats arbeidskraftkostnadsundersøkelse
+
+Endring i kildebruk
+
+Det har bakover i tid vært brukt ulike kilder i analysene i dette kapitlet. I beregningen av forskjell i timelønnskostnadsnivå mellom norsk industri og industrien hos våre handelspartnere (avsnitt 8.2.1) og i beregningen av vekst i timelønnskostnader (avsnitt 8.2.3) benyttet vi i flere år Eurostat som kilde for handelspartnerne, mens vi for Norge benyttet nasjonalregnskapet. Nivåtallene til Eurostat bygger på EU/EØS-landenes arbeidskraftkostnadsundersøkelse som gjennomføres hvert fjerde år, og siste gang for året 2020. Undersøkelsen er lovregulert<sup>1</sup>. I årene mellom leverer landene kvartalsvise arbeidskraftkostnader på indeksform etter samme definisjoner som i den 4-årige undersøkelsen. Fra og med 2024 skiftet vi kilde for de norske tallene fra timelønnskostnader i nasjonalregnskapet til arbeidskraftkostnader (per timeverk) som SSB har levert til Eurostat i henhold til definisjonene i arbeidskraftkostnadsundersøkelsen. Dette gjøres for å øke sammenlignbarheten mellom land. Lønnskostnader i nasjonalregnskapet har et litt annet innhold enn arbeidskraftkostnadene, siden nasjonalregnskapet bare har med punkt 1 samt arbeidsgiveravgift (punkt 4), se definisjonene under.
+
+Fra og med TBU-rapporten i 2024 er det inkludert tall også for Storbritannia, der kilden er Office for National Statistics. Tall for Storbritannia var inkludert i Eurostats arbeidskraftundersøkelse t.o.m. 2016. Etter inkludering av Storbritannia, dekker tallene i tabeller og figurer totalt 79,8 prosent av handelspartneraggregatet.
+
+I sammenligningen av lønnskostnader og lønnskostnadskomponenter for Norge og andre land (avsnitt 8.2.2) var kildematerialet fram til NOU 2022: 4 basert på Conference Board, mens fordelingen for Norge var estimert på bakgrunn av arbeidskraftkostnadsundersøkelsen i Statistisk sentralbyrå. Tallmaterialet til Conference Board oppdateres ikke lenger, og Utvalget har derfor valgt å bruke dataene fra EU-landenes arbeidskraftkostnadsundersøkelse også her.
+
+Innhold og definisjoner i Eurostats arbeidskraftkostnadsundersøkelse
+
+Den europeiske arbeidskraftkostnadsundersøkelsen er basert på en harmonisert definisjon av arbeidskraftkostnader, og tallene finnes både med og uten lærlinger. Det framgår av tallene at rapporteringen av data uten lærlinger varierer mellom land. For Norges del lages arbeidskraftkostnader årlig med utgangspunkt i data fra a-ordningen.
+
+Eurostats definisjon av arbeidskraftkostnader:
+
+1.  Lønnskostnader som består av
+
+<!-- -->
+
+1.  Lønn (med og uten lærlinger) og som dekker
+
+    direkte lønn for betalt arbeidstid, samt
+
+    bonuser, skiftarbeid o.l. også omfatter betalinger til arbeidstakeres spareordninger, betaling for dager som ikke er arbeidet (helligdager og velferdsdager), naturalytelser, uttak av varer fra virksomheten, fri bolig, firmabil, aksjeopsjoner og aksjekjøpsordninger, samt andre ordninger som fri kantine, fri transport og alle andre ytelser som blir betalt av arbeidsgiver på vegne av arbeidstaker.
+
+2.  Sosiale ytelser som består av trygde- og pensjonsordninger der lovfestede og kollektive ordningene dekker for eksempel sykepenger, arbeidsledighetsstønader osv., ufinansierte sosiale ytelser som dekkes direkte av arbeidsgiver, betalt sykefravær, sluttpakker mv.
+
+<!-- -->
+
+2.  Kostnader til opplæring, kurs o.l.
+
+3.  Andre utgifter betalt av arbeidsgiver (rekrutteringskostnader, arbeidsklær som dekkes av arbeidsgiver, flyttegodtgjørelse mv.)
+
+4.  Avgifter/skatter som er basert på lønnsutbetalinger (norsk arbeidsgiveravgift føres her)
+
+5.  Subsidier og refusjoner som gis for å dekke deler av lønnen (dekker ikke refusjoner til arbeidsgiver fra trygde- eller forsikringsordninger).
+
+<sup>1</sup> Rådsforordning (EF) nr. 0530/1999 av 9. mars 1999. Kommisjonsforordning (EF) nr. 1737/2005 av 21. oktober 2005 Kommisjonsforordning (EF) nr. 698/2006 av 5. mai 2006
+
+\[Boks slutt\]
+
+### Sammensetningen av arbeidskraftkostnadene i industrien
+
+Tabell 8.4[^66] viser at arbeidskraftkostnadene for industriansatte i 12 utvalgte konkurrentland har nærmet seg det norske nivået, som var på 505 kroner per time i 2020. Neste oppdatering av nivået på arbeidskraftkostnadene vil bli tilgjengelig først for årgangen 2024 og vil bli oppdatert til neste års rapport.
+
+Danmarks kostnadsnivå (eksklusive lærlinger) per time var i underkant av 76 prosent av det norske i 2012, men var litt høyere enn det norske nivået i 2020. Hadde vi sammenlignet arbeidskraftkostnadene for industriansatte inklusive lærlinger, ville det danske kostnadsnivået ligget like under det norske. Ellers viser tabellen at det er klare skiller mellom Øst-Europa, Sør-Europa og Nord-Europa. De østlige landene hadde et kostnadsnivå i 2020 som utgjorde 20–30 prosent av det norske. To av landene fra det sørlige Europa (Italia og Spania) hadde et nivå på 50–60 prosent, mens landene i Nord-Europa varierte fra et nivå på i overkant av 78 prosent av det norske (Finland) til vel 100 prosent (Danmark).
+
+Arbeidskraftkostnadene i 2020 er splittet på lønn for betalt arbeidstid, ikke arbeidet tid og sosiale kostnader. Betaling for ikke arbeidet tid består av betaling for hellig- og velferdsdager, naturalytelser, uttak av varer fra virksomheten, fri bolig, firmabil, aksjeopsjoner og aksjekjøpsordninger, ordninger som fri kantine, fri transport og alle andre ytelser som blir betalt av arbeidsgiver på vegne av arbeidstaker. I tillegg er opplæringskostnader og eventuelt andre kostnader som arbeidsgiver har (klær, rekrutteringskostnader, flyttegodtgjørelse mv) inkludert.[^67] Sosiale kostnader inkluderer lønn for sykefravær, pensjons- og trygdeytelser, opplæringskostnader, andre utgifter som betales av arbeidsgiver, avgifter knyttet til lønnsutbetaling og fratrukket subsidier (eksempelvis lønnstilskudd).[^68]
+
+For Norge utgjør kostnadene til arbeidet tid i overkant av 70 prosent, som er 2 prosentpoeng over gjennomsnittet for landene i tabellen. Også kostnadsandelen for ikke arbeidet tid er nærmere 2 prosentpoeng over gjennomsnittet, mens andelen som går til sosiale kostnader er 4 prosentpoeng under gjennomsnittet. For øvrig er sosiale kostnader i 2020 for flere av landene påvirket av midlertidige lønnstilskudd og refusjoner gitt under pandemien. Ordningene varierer mellom land, men i flere land fikk arbeidsgivere lønnstilskudd, mot at lønnsmottakerne fikk beholde mesteparten av den normale lønnen selv om deres arbeidstid ble nedkortet. Et annet eksempel er refusjon for hele eller deler av arbeidsgivers kostnader til lønn under sykdom.
+
+Industriens arbeidskraftkostnader per time (eksklusive lærlinger). Konkurrentland sammenlignet med Norge og fordeling av arbeidskraftkostnader på hhv. lønn, lønn for ikke arbeidet tid, samt andre indirekte arbeidskraftkostnader (2020)
+
+09J2xt2
+
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 9%" />
+<col style="width: 11%" />
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="3" style="text-align: center;">Gjennomsnittlig arbeidskraftkostnader per arbeidet time. Norge = 100</td>
+<td style="text-align: right;">Arbeidet tid</td>
+<td style="text-align: right;">Ikke<br />
+arbeidet tid</td>
+<td style="text-align: right;">Arbeidet og<br />
+ikke arbeidet tid</td>
+<td style="text-align: right;">Sosiale kostnader</td>
+<td style="text-align: right;">Totalt</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">2012</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">Prosent</td>
+<td style="text-align: right;">Prosent</td>
+<td style="text-align: right;">Prosent</td>
+<td style="text-align: right;">Prosent</td>
+<td style="text-align: right;">Prosent</td>
+</tr>
+<tr>
+<td>Norge</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">70,5</td>
+<td style="text-align: right;">12,9</td>
+<td style="text-align: right;">83,4</td>
+<td style="text-align: right;">16,6</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Belgia</td>
+<td style="text-align: right;">78,1</td>
+<td style="text-align: right;">87,1</td>
+<td style="text-align: right;">90,7</td>
+<td style="text-align: right;">61,3</td>
+<td style="text-align: right;">13,0</td>
+<td style="text-align: right;">74,2</td>
+<td style="text-align: right;">25,8</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Danmark</td>
+<td style="text-align: right;">75,6</td>
+<td style="text-align: right;">92,4</td>
+<td style="text-align: right;">100,6</td>
+<td style="text-align: right;">74,4</td>
+<td style="text-align: right;">15,7</td>
+<td style="text-align: right;">90,1</td>
+<td style="text-align: right;">9,9</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Tyskland</td>
+<td style="text-align: right;">67,2</td>
+<td style="text-align: right;">82,8</td>
+<td style="text-align: right;">91,7</td>
+<td style="text-align: right;">66,4</td>
+<td style="text-align: right;">11,8</td>
+<td style="text-align: right;">78,1</td>
+<td style="text-align: right;">21,9</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Sverige</td>
+<td style="text-align: right;">76,9</td>
+<td style="text-align: right;">89,0</td>
+<td style="text-align: right;">89,3</td>
+<td style="text-align: right;">56,0</td>
+<td style="text-align: right;">14,0</td>
+<td style="text-align: right;">70,0</td>
+<td style="text-align: right;">30,0</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td style="text-align: right;">65,1</td>
+<td style="text-align: right;">78,1</td>
+<td style="text-align: right;">78,5</td>
+<td style="text-align: right;">71,3</td>
+<td style="text-align: right;">11,5</td>
+<td style="text-align: right;">82,8</td>
+<td style="text-align: right;">17,2</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Frankrike</td>
+<td style="text-align: right;">67,1</td>
+<td style="text-align: right;">77,4</td>
+<td style="text-align: right;">89,0</td>
+<td style="text-align: right;">64,1</td>
+<td style="text-align: right;">5,2</td>
+<td style="text-align: right;">69,3</td>
+<td style="text-align: right;">30,7</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Nederland</td>
+<td style="text-align: right;">61,9</td>
+<td style="text-align: right;">76,6</td>
+<td style="text-align: right;">85,2</td>
+<td style="text-align: right;">70,4</td>
+<td style="text-align: right;">11,3</td>
+<td style="text-align: right;">81,7</td>
+<td style="text-align: right;">18,3</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Italia</td>
+<td style="text-align: right;">50,4</td>
+<td style="text-align: right;">57,6</td>
+<td style="text-align: right;">62,4</td>
+<td style="text-align: right;">64,0</td>
+<td style="text-align: right;">7,3</td>
+<td style="text-align: right;">71,3</td>
+<td style="text-align: right;">28,7</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Spania</td>
+<td style="text-align: right;">41,7</td>
+<td style="text-align: right;">47,6</td>
+<td style="text-align: right;">51,4</td>
+<td style="text-align: right;">64,9</td>
+<td style="text-align: right;">8,8</td>
+<td style="text-align: right;">73,7</td>
+<td style="text-align: right;">26,3</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Litauen</td>
+<td style="text-align: right;">10,3</td>
+<td style="text-align: right;">15,4</td>
+<td style="text-align: right;">20,8</td>
+<td style="text-align: right;">89,3</td>
+<td style="text-align: right;">10,3</td>
+<td style="text-align: right;">99,5</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Tsjekkia</td>
+<td style="text-align: right;">18,0</td>
+<td style="text-align: right;">21,5</td>
+<td style="text-align: right;">30,4</td>
+<td style="text-align: right;">61,7</td>
+<td style="text-align: right;">12,0</td>
+<td style="text-align: right;">73,6</td>
+<td style="text-align: right;">26,4</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td>Polen</td>
+<td style="text-align: right;">12,7</td>
+<td style="text-align: right;">16,4</td>
+<td style="text-align: right;">21,4</td>
+<td style="text-align: right;">73,9</td>
+<td style="text-align: right;">9,6</td>
+<td style="text-align: right;">83,5</td>
+<td style="text-align: right;">16,5</td>
+<td style="text-align: right;">100</td>
+</tr>
+</tbody>
+</table>
+
+Kilde: Eurostat
+
+### Vekst i lønnskostnader per sysselsatt i hele økonomien[^69]
+
+Ifølge tall fra OECDs siste utgave av Economic Outlook (nr. 2, 2025), som ble publisert i desember i fjor, var veksten i lønnskostnader per sysselsatt i hele økonomien i Norge 5,1 prosent i 2024, jf. vedleggstabell 4.4. Det var 0,1 prosentpoeng høyere enn et vektet snitt av våre handelspartnere, jf. boks 8.1.
+
+OECDs anslag vektet med handelspartneraggregatet TBU benytter innebærer en vekst i lønnskostnadene per sysselsatt hos våre handelspartnere på 4,2 prosent i 2025 og 3,3 prosent i 2026.
+
+Anslagene fra OECD som presenteres i denne rapporten er usikre, og kan bli revidert.
+
+### Elektrisitetspriser
+
+Også andre kostnader er viktige for industrien. Tabell 8.5 gir en oversikt over industriens priser på elektrisk kraft, som er av stor betydning for konkurranseevnen for deler av norsk industri. Krigen i Ukraina og påfølgende energikrise i Europa bidro til rekordhøye elektrisitetspriser i 2022. Prisene har kommet litt ned igjen, men var likevel høye også i 2023 og 2024. Det er per tid ikke publisert elektrisitetspriser i industrien for 2025. Men informasjon fra kraftbørser viser at spotprisene på kraft samlet sett var litt høyere i 2025 enn året før. Selv om industrien i stor grad har lange kontrakter, vil prisene de i gjennomsnitt betaler påvirkes av spotprisen.
+
+Industriens elektrisitetspriser. Øre per kWh
+
+12J1xt2
+
+|                   |          |      |      |      |      |      |      |      |      |      |      |
+|-------------------|---------:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|
+|                   | Gj.snitt | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+| Norge<sup>1</sup> |     40,2 | 29,4 | 31,0 | 32,2 | 36,8 | 37,0 | 31,3 | 43,3 | 62,2 | 52,0 | 50,3 |
+
+<sup>1</sup> Tallene er fra SSB sin statistikk «Energibruk i industrien» som publiseres årlig (vanligvis i midten av mai). Tallene er for innkjøpt elektrisk kraft i industrien. Nettleie inngår ikke.
 
 Kilde: Statistisk sentralbyrå
 
-ø
-l
-re
+For å gi en indikasjon på forskjell i nivået på elektrisitetsprisene i norsk industri og industrien hos våre handelspartnere benyttes tall fra Eurostat. Tallene til Eurostat er for ikke-husholdninger, og inkluderer mer enn industrien. Tallene er derfor ikke sammenlignbare med tallene for Norge i tabell 8.5, men kan likevel bidra til å gi en pekepinn på forskjellen i elektrisitetspriser. Som tabell 8.6 viser har elektrisitetsprisene for ikke-husholdninger i Norge gjennomgående vært lavere i Norge enn hos handelspartnerne i Europa.
 
-Tabell 4.8 Nettonasjonalprodukt og faktorinntekt. Milliarder kroner
+Elektrisitetspriser for ikke-husholdninger<sup>1</sup>. Øre per kWh
 
-o
-F
+12J1xt2
 
-2016
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|----|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|  | Gj.snitt | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+| Norge | 67,4 | 38,1 | 44,2 | 45,2 | 58,3 | 57,0 | 32,5 | 81,2 | 159,0 | 90,5 | 68,4 |
+| Handelspartnerne i Europa | 91,8 | 62,6 | 60,8 | 59,1 | 62,1 | 67,2 | 68,3 | 81,1 | 148,0 | 164,5 | 143,9 |
+| Relative elektrisitetspriser<sup>2</sup> prosent<sup>2</sup> | 74,6 | 60,9 | 72,6 | 76,5 | 93,9 | 84,9 | 47,5 | 100,0 | 107,4 | 55,0 | 47,6 |
 
-2017
+<sup>1</sup> «Non-household consumers» fra Eurostat. Tallene dekker bedrifter med konsum fra 2 000 MWh til 19 999 MWh. Tallene er utenom skatter og avgifter. Tallene til Eurostat er i euro, men er her omregnet til øre per kWh.
 
-2018
+<sup>2</sup> Nivået på prisen i Norge i prosent av nivået hos handelspartnerne.
 
-2019
+Kilder: Eurostat og Norges Bank.
 
-2020
+## Produktivitet og relative priser
 
-2021
+Høy produktivitetsvekst innenlands og lavere vekst i prisene på arbeidskraft og andre innsatsfaktorer, vil isolert sett bedre norsk industris kostnadsmessige konkurranseevne. Dersom vi får en høyere pris på homogene varer enn andre land, for eksempel fordi vi utsettes for en lavere tollsats på relevante markeder, vil det trekke i samme retning og vice versa.
 
-2022
+Prisene på ulike industrivarer beveger seg aldri helt i takt. Og hvis prisen på de varene vi produserer mye av stiger mye i forhold til andre, vil det i seg selv ikke bedre industriens konkurranseevne. Men en slik prisendring vil isolert sett bedre lønnsomheten og vil kunne reflektere økt internasjonal etterspørsel og derigjennom økte eksportmuligheter.
 
-2023
+### Utviklingen i produktiviteten målt ved bruttoprodukt per timeverk
 
-2024*
+Produktivitetsvekst kan følge av økt kapital per arbeidstaker, teknologiske framskritt og organisatoriske forbedringer som gjør at man får mer varer og tjenester ut av samme innsats av arbeidskraft.
 
-2025*
+Ifølge foreløpige nasjonalregnskapstall økte produktiviteten i norsk industri, målt ved bruttoprodukt per timeverk, med 2,3 prosent i fjor. Dette var første år med oppgang siden 2021. Norsk industris produktivitet i forhold til industrien hos handelspartnerne, målt i faste priser, har samlet sett i perioden 2000–2025 falt. Produktivitetsveksten i norsk industri i den siste tiårsperioden hvor vi har tall for handelspartnerne (dvs. 2015–2024) var i gjennomsnitt 0,2 prosent per år, 1,3 prosentpoeng lavere enn et vektet snitt av handelspartnerne, se tabell 8.6.
 
-Nettonasjonalprodukt
+Av våre handelspartnere (jf. boks 8.1) som det foreligger tall for er det industrien i Danmark og Sveits som har hatt den høyeste produktivitetsveksten de siste ti årene, mens Canada og Finland har hatt svakest utvikling. En skal være oppmerksom på at ulik produktivitetsutvikling i stor grad vil ha sammenheng med ulik industristruktur mellom land.
 
-2627,6
+Måling av produktivitet er vanskelig, og det er utfordringer både i målingen av tellerne og nevneren i de vanlige målene. Relativt høy prisvekst kan være tegn på god konkurranseevne for en næring, men vil uansett være gunstig for landets konkurranseevne og vice versa.
 
-2829,3
+Figur 8.4 sammenligner utviklingen i bruttoprodukt per timeverk i norsk industri i forhold til handelspartnerne i henholdsvis løpende og faste priser. I perioden 2000–2012 var utviklingen i norsk industri vesentlig gunstigere målt i løpende priser enn i faste priser. Dette gjenspeiler sterkere prisvekst på norske industriprodukter enn på produktene til handelspartnerne i denne perioden. I perioden etter 2012 har utviklingen for norsk industri vært vesentlig svakere når en ser på løpende priser i felles valuta. Det knytter seg betydelig usikkerhet rundt dekomponeringen av verditall på volum og pris. Utviklingen i lønnsomheten til industrien er uansett den samme.
 
-3052,1
+Bruttoprodukt per timeverk i norsk industri i forhold til industrien hos handelspartnerne. Faste priser og løpende priser i felles valuta. 2000–2024. Indeks 2000=100
 
-3048,7
+Kilder: OECD og Statistisk sentralbyrå
 
-2858,2
+Figur 8.5 viser utviklingen i bytteforholdet for varer fra fastlandet for Norge. Litt ut på 2000-tallet bedret bytteforholdet seg markert, og har deretter svingt rundt et høyere nivå. Etter et klart fall fra 2018 til 2020 bedret bytteforholdet for varer fra fastlandet seg markert de to neste årene. Utviklingen må ses i sammenheng med høy vekst i prisene på eksport av varer fra fastlandet. I 2021 økte eksportprisene på varer fra fastlandet med 12,6 prosent, mens de i 2022 økte med hele 28,8 prosent, se tabell 8.7. Veksten i 2022 var den høyeste siden 1974. Den høye veksten i eksportprisene disse årene må blant annet ses i sammenheng med høy vekst i prisene på raffinerte oljeprodukter, metaller og for varegruppen «kjemikalier, kjemiske og mineralske produkter». I 2023 og 2024 svekket bytteforholdet seg igjen. Svekkelsen må blant annet ses i sammenheng med svak utvikling i prisene på eksport av metaller. I fjor bedret bytteforholdet for varer fra fastlandet seg litt. Oppgangen skyldes gunstig utvikling i bytteforholdet for industriprodukter, mens utviklingen i prisene i varegruppen «Produkter fra jordbruk, skogbruk og fiske» trakk i motsatt retning.
 
-3687,4
+Dersom en holder raffinerte oljeprodukter utenom har svingningene i bytteforholdet i perioden vært noe mindre, jf. figur 8.5.
 
-4380,1
-
-4392,8
-
-4479,1
-
-2627,6
-
-- Netto produksjonskatter
-
-334,2
-
-354,3
-
-370,1
-
-375,5
-
-356,3
-
-392,2
-
-389,6
-
-412,1
-
-426,8
-
-436,2
-
-2293,4
-
-2475,0
-
-2682,0
-
-2673,1
-
-2501,9
-
-3295,1
-
-4690,7
-
-3968,0
-
-3966,0
-
-4042,9
-
-- Lønnskostnader
-
-1490,8
-
-1540,8
-
-1617,5
-
-1709,8
-
-1717,4
-
-1823,2
-
-1977,3
-
-2123,0
-
-2251,7
-
-2359,3
-
-= Driftsresultat
-
-802,5
-
-934,2
-
-1064,5
-
-963,3
-
-784,5
-
-1472,0
-
-2713,4
-
-1845,1
-
-1714
-
-1684
-
-- Driftsresultat i olje- og
-gassutvinning inkl.
-rørtransport
-
-204,4
-
-318,0
-
-438,7
-
-312,2
-
-171,4
-
-783,9
-
-1797,2
-
-988,6
-
-893,7
-
-805,7
-
-Driftsresultat i øvrige
-næringer
-
-598,1
-
-616,1
-
-625,8
-
-651,1
-
-613,1
-
-688,1
-
-916,2
-
-856,4
-
-820,6
-
-877,9
-
-= Faktorinntekt
-
-* Foreløpige tall
-Kilde: Statistisk sentralbyrå
-
-227
-
-[Side 230]
-
-Tabell 4.9 Lønnskostnader for noen hovedgrupper av næringer. Milliarder kroner
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024*
-
-2025*
-
-Alle næringer
-
-1490,8
-
-1540,8
-
-1617,5
-
-1709,8
-
-1717,4
-
-1823,2
-
-1977,3
-
-2123,0
-
-2251,7
-
-2359,3
-
-Offentlig forvaltning
-
-471,2
-
-493,2
-
-515,6
-
-539,9
-
-554,0
-
-581,7
-
-616,3
-
-657,6
-
-701,7
-
-737,4
-
-Ideelle organisasjoner,
-boligtjenester, eget
-bruk
-
-29,5
-
-31,1
-
-32,5
-
-34,4
-
-34,6
-
-37,8
-
-41,0
-
-43,8
-
-45,3
-
-47,7
-
-Markedsrettet
-virksomhet1
-
-990,1
-
-1016,5
-
-1069,5
-
-1135,6
-
-1128,8
-
-1203,7
-
-1320,1
-
-1421,6 1504,7
-
-1574
-
-Olje- og gassutvinning
-inkl. rørtransport
-
-37,4
-
-36,3
-
-38,1
-
-40,9
-
-41,3
-
-42,2
-
-47,5
-
-Markedsrettet
-virksomhet1 FastlandsNorge
-
-946,4
-
-974,0
-
-1025,0
-
-1088,1
-
-1081,5
-
-1155,6
-
-1266,9
-
-Elektrisitet, gass og
-varmtvannsforsyning
-
-14,7
-
-15,2
-
-15,7
-
-16,5
-
-16,8
-
-18,4
-
-20,0
-
-23,5
-
-24,3
-
-24,9
-
-Industri
-
-142,6
-
-142,0
-
-147,2
-
-156,2
-
-153,6
-
-160,4
-
-171,2
-
-183,4
-
-196,6
-
-209,2
-
-Verkstedindustri og
-skipsbyggingsindustri
-mv.
-
-71,4
-
-68,0
-
-70,4
-
-76,8
-
-81,5
-
-89,7
-
-97,9
-
-106,1
-
-Råvarebasert industri
-
-29,0
-
-30,3
-
-31,7
-
-32,9
-
-36,9
-
-38,8
-
-41,3
-
-43,1
-
-Øvrige
-industrinæringer
-
-42,2
-
-43,7
-
-45,0
-
-52,7
-
-54,9
-
-57,4
-
-60,0
-
-Øvrig markedsrettet
-virksomhet i FastlandsNorge
-
-803,9
-
-1178,9 1244,8
-
-1299,5
-
-877,8
-
-931,9
-
-76,1
-
-32,7
-
-34,3
-
-46,5
-
-50,1
-
-927,9
-
-995,2
-
-57,2
-
-59,1
-
-1362,3 1441,4
-
-1508,7
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-831,9
-
-46,5
-
-74,4
-
-53,4
-
-1095,8
-
-Markedsrettet virksomhet er samlingen av produksjonsenheter som henter mer enn 50 prosent av sine inntekter
-fra salg i markedet.
-* Foreløpige tall
-1
-
-o
-F
+Bytteforhold for varer fra fastlandet for Norge. Indeks 2000=100
 
 Kilde: Statistisk sentralbyrå
 
-228
-
-[Side 231]
-
-Tabell 4.10 Beregnet årslønnsvekst1 fra året før. Supplement til tabell 1.1 i kapittel 1
-
-År
-
-2016
-2017
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-2015–2025
-Gj. sn. per år6
-Årslønn 2025
-
-År
-
-2016
-2017
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-2015–2025
-Gj. sn. per år6
-
-Arbeidere i NHO-bedrifter2:
-Arbeidere
-i alt
-
-1,5
-2,4
-2,8
-3,1
-2,3
-3,4
-3,5
-4,7
-4,9
-5,0
-39,1
-3,4
-638 900
-Arbeidere i NHO-bedrifter2
-Landtransport
-
-2,6
-2,6
-2,1
-3,0
-2,5
-2,8
-3,7
-5,2
-5,4
-3,9
-39,4
-3,4
-
-Industriarbeidere
-
-Nærings- og
-nytelsesmiddelindustri
-
-Treindustri
-
-Kjemisk
-Prosessindustri
-
-Verksted- og
-metallindustri
-
-2,0
-2,6
-2,8
-3,1
-2,0
-2,8
-3,5
-5,1
-5,7
-4,916
-40,4
-3,5
-637 400
-
-2,2
-2,2
-2,9
-2,9
-2,2
-2,7
-2,2
-4,9
-5,4
-4,6
-37,2
-3,2
-598 500
-
-1,5
-3,1
-2,5
-3,2
-2,2
-3,2
-4,0
-4,6
-5,0
-3,9
-38,6
-3,3
-563 800
-
-2,3
-1,9
-2,8
-3,1
-2,6
-3,0
-4,6
-5,7
-5,8
-4,7
-43,0
-3,6
-709 500
-
-2,1
-2,3
-2,8
-3,3
-1,7
-2,8
-3,6
-4,9
-6,2
-5,2
-40,8
-3,5
-654 300
-
-o
-F
-
-ø
-l
-re
-
-g
-i
-p
-
-Hotell og restaurant5
-
-1,5
-2,7
-2,8
-3,6
-1,7
-3,4
-3,2
-4,6
-5,0
-3,7
-37,2
-3,2
-
-Funksjonærer i NHO-bedrifter
-I alt
-
-2,1
-2,7
-2,2
-3,0
-2,3
-2,8
-4,4
-4,4
-4,7
-4,5
-38,4
-3,3
-229
-
-t
-u
-
-Bygg- og anleggsvirksomhet
-I alt
-Byggevirksomhet
-
-2,2
-2,5
-2,5
-2,6
-2,3
-2,5
-3,8
-5,2
-5,4
-4,9
-39,5
-3,4
-692 600
-
-2,6
-2,7
-2,8
-2,7
-2,2
-2,5
-3,6
-5,0
-5,6
-4,8
-40,3
-3,4
-680 900
-
-e
-v
-ga
-
-Transportsektoren i alt
-
-1,6
-2,8
-2,8
-3,1
-2,7
-2,5
-4,2
-4,9
-5,0
-3,8
-38,8
-3,3
-594 300
-
-Industrifunk.
-
-Industrien i NHObedrifter i alt
-
-Virkebedrifter
-
-2,2
-2,7
-2,8
-3,0
-2,1
-3,1
-4,910
-4,010
-4,710
-4,917
-40,2
-3,4
-
-1,9
-2,4
-2,6
-3,1
-2,2
-3,1
-4,0
-4,8
-5,2
-5,215
-40,3
-3,4
-
-2,5
-3,1
-2,7
-3,0
-3,6
-4,7
-3,7
-3,98
-5,18
-4,4
-43,3
-3,7
-
-[Side 232]
-
-Årslønn 2024
-
-År
-
-2016
-2017
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-2015–2025
-Gj.sn. per år6
-Årslønn 2024
-
-576 300
-
-486 700
-
-Staten3
-
-938 100
-
-I alt
-
-2,4
-2,3
-2,7
-3,87
-1,87
-2,8
-4,37
-6,411
-5,413
-4,814
-43,3
-3,7
-786 400
-
-2,5
-2,5
-2,9
-3,5
-1,7
-2,6
-3,79
-5,612
-5,4
-4,8
-41,0
-3,5
-674 300
-
-Kommunene
-Undervisningsansatte
-
-2,5
-2,3
-2,8
-3,0
-1,2
-2,3
-3,39
-6,112
-5,6
-4,8
-39,4
-3,4
-733 400
-
-ø
-l
-re
-
-g
-i
-p
-
-1 005 700
-
-Øvrige ansatte
-
-2,5
-2,6
-3,0
-3,7
-1,9
-2,8
-3,99
-5,512
-5,4
-4,6
-42,2
-3,6
-657 900
-
-t
-u
-
-806 500
-Spekter-bedrifter
-Helseforetakene
-
-e
-v
-ga
-
-2,04
-3,64
-3,4
-3,4
-1,8
-3,6
-4,5
-5,8
-5,6
-4,3
-45,1
-3,8
-796 900
-
-690 600
-
-Øvrige bedrifter
-
-2,4
-2,4
-2,9
-3,3
-1,9
-2,9
-4,0
-5,4
-5,3
-4,5
-41,0
-3,5
-719 400
-
-Veksttallene er per årsverk for arbeidere og funksjonærer i NHO-bedrifter, staten, kommunene og Spekter-bedrifter. For de andre er veksttallene for heltidsansatte med
-unntak av varehandel i alt og forretningsmessig tjenesteyting fra og med 2010.
-2
-Gjelder for arbeidere med gjennomsnittlig avtalefestet normalarbeidstid, for dagarbeidere betyr dette 37,5 t/uke.
-3
-Statsansatte er ansatte i det statlige tariffområdet. Statlige eide foretak, som for eksempel de statlig eide helseforetakene er ikke en del av statlig tariffområde. Fra og med
-2015 er datagrunnlaget basert på a-ordningen.
-4
-For ansatte i konflikt i 2016 ble virkningstidspunktet forskjøvet. Dette trakk ned årslønnsvekstanslaget i 2016 med 0,4 prosentpoeng og trakk opp anslaget i 2017 med 0,4
-prosentpoeng. Deler av lønnsoppgjøret i 2016 ble også først utbetalt i 2017, noe som ytterligere trakk ned årslønnsvekstanslaget i 2016 og ytterligere trakk opp anslaget i
-2017. Strukturendringer trakk i samme retning.
-5
-Det har gjennom perioden vært betydelige bevegelser i form av at hotell- og restaurantansatte slutter og begynner, særlig ifm. pandemien i 2020-2022. Årslønnsveksttallene
-kan ses i sammenheng med at prosentvis lønnsvekst for identiske personer var 3,0 i 2016, 4,3 i 2017, 4,2 i 2018, 4,8 i 2019, 2,4 i 2020, 4,6 i 2021, 5,9 i 2022, 6,3 i 2023
-og 6,3 i 2024.
-6
-Geometrisk gjennomsnitt.
-7
-Vekst i faste og variable tillegg bidro til økt årslønnsvekst med 0,4 prosentpoeng i 2019, se boks 1.1 i kapittel 1. Årslønnsveksten i det statlige tariffområde ekskl. forsvaret
-er 1,5 prosent i 2020. Vekst i faste og variable tillegg bidrar til økt årslønnsvekst med 0,3 prosentpoeng i 2020. Ser man bort fra endringen i faste og variable tillegg
-reduseres lønnsveksten med 0,5 prosentpoeng i 2022.
-8
-Reduserte bonusutbetalinger trakk årslønnsveksten ned med 1,1 prosentpoeng i 2023. Økte bonusutbetalinger og økte uregelmessige tillegg trakk lønnsveksten opp hhv 0,2
-prosentpoeng og 0,1 prosentpoeng i 2024, mens endret sammensetning fra engroshandel til detaljhandel trekker ned med 0,1 prosentpoeng.
-230
-1
-
-o
-F
-
-[Side 233]
-
-Lønnsdata for 2022 for arbeidstakere i konflikt er korrigert med kjennelsen i Rikslønnsnemnda. For ansatte i konflikt i 2022 ble virkningstidspunktet forskjøvet. Dette trakk
-årslønnsvekstanslaget i 2022 ned med 0,2 prosentpoeng for kommunesektoren samlet, ned med 0,8 prosentpoeng for undervisningsansatte, og ned med i underkant av 0,1
-prosentpoeng for øvrige ansatte. Konflikten i 2021 har trukket opp årslønnsveksten i 2022 med 0,1 prosentpoeng for kommunesektoren samlet, og opp med 0,2
-prosentpoeng for undervisningsansatte.
-10
-Bonusutbetalinger trakk lønnsveksten for funksjonærer opp med 1,5 prosentpoeng i 2022 og ned med 0,5 prosentpoeng i 2023 og ned med 0,4 prosentpoeng i 2024.
-11
-Beregninger viser at årslønnsveksten i staten eksklusiv Forsvaret er på 6,0 prosent.
-12
-Konflikten i 2022 trakk årslønnsveksten i 2023 opp med 0,2 prosentpoeng for kommunesektoren samlet, opp med 0,7 prosentpoeng for undervisningsansatte og opp med
-0,05 prosentpoeng øvrige ansatte.
-13
-Uten streik ville veksten vært 0,2 prosentpoeng høyere. Årslønnsveksten i staten eksklusiv forsvaret var på 4,9 prosent.
-14
-Veksten i faste og variable tillegg bidro til økt årslønnsvekst med 0,4 prosentpoeng i 2025.
-15
-Lønnsveksten i industrien er trukket opp av sammensetningseffekter og høye uregelmessige tillegg i Industrioverenskomsten Verksted. Dersom man kontrollerer for
-sammensetningseffekter basert på årsverk og andel årsverk for industriarbeidere og funksjonærer reduseres veksten i industrien samlet med 0,5 prosentpoeng.
-16
-Endringer i sammensetningen av tariffavtaleområdene trekker veksten opp med 0,1 prosentpoeng. Høye uregelmessige tillegg trekker lønnsveksten opp med 0,2
-prosentpoeng.
-17
-Endringer i sammensetningen av næringsgruppene trekker veksten opp med 0,3 prosentpoeng. Økte utbetalinger av bonus trekker opp 0,3 prosentpoeng.
-9
-
-g
-i
-p
-
-Kilder: Statistisk sentralbyrå, Beregningsutvalget og KS
-
-o
-F
-
-ø
-l
-re
-
-231
-
-t
-u
-
-e
-v
-ga
-
-[Side 234]
-
-Tabell 4.11 Kvinners gjennomsnittslønn1 i forhold til menns etter næring. Heltidsansatte
-Månedslønn*12
-Menn
-
-Kvinner Andel kvinner2
-
-2015 2016 2017 2018
-
-2019
-
-20196
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-2025
-
-2025
-
-2025
-
-Jordbruk, skogbruk og fiske
-
-89,1
-
-88,2
-
-86,4
-
-88,4
-
-87,8
-
-88,1
-
-88,5
-
-88,5
-
-89,1
-
-91,4
-
-90,4
-
-90,0
-
-716 760
-
-645 240
-
-24
-
-Bergverksdrift og utvinning
-
-95,5
-
-96,7
-
-98,1 100,1
-
-99,8
-
-101,0
-
-100,4
-
-101,3
-
-103,0 102,3
-
-101,9
-
-102,0
-
-1 132 200
-
-1155 120
-
-21
-
-Industri
-
-92,2
-
-93,1
-
-93,9
-
-94,5
-
-94,8
-
-93,8
-
-94,2
-
-94,5
-
-94,8
-
-95,1
-
-95,3
-
-95,5
-
-768 120
-
-733 200
-
-22
-
-Elektr. forsyning mv.
-
-93,6
-
-93,9
-
-93,9
-
-93,7
-
-93,6
-
-94,0
-
-94,3
-
-94,3
-
-95,0
-
-95,0
-
-96,4
-
-97,9
-
-1 031 160
-
-1 009 320
-
-26
-
-Vann, avløp, renovasjon
-
-106,3 107,2 106,5 107,6
-
-109,0
-
-109,6
-
-108,9
-
-109,6
-
-108,6 108,9
-
-108,1
-
-108,1
-
-689 280
-
-744 960
-
-19
-
-Bygge- og anleggsvirksomhet
-
-103,9 104,3 104,7 105,4
-
-105,7
-
-107,7
-
-107,6
-
-107,3
-
-106,5
-
-106,6
-
-705 120
-
-751 320
-
-8
-
-Varehandel mv.
-
-87,7
-
-87,6
-
-88,1
-
-88,3
-
-88,5
-
-86,2
-
-86,8
-
-87,5
-
-89,9
-
-90,1
-
-740 280
-
-667 200
-
-33
-
-Transport og lagring
-
-90,2
-
-91,6
-
-92,3
-
-93,2
-
-93,1
-
-93,3
-
-95,2
-
-94,5
-
-95,4
-
-95,6
-
-746 640
-
-714 000
-
-18
-
-Overnattings- og serveringsvirksomhet
-
-93,9
-
-94,3
-
-95,2
-
-95,7
-
-95,8
-
-93,2
-
-93,2
-
-92,0
-
-Informasjon og kommunikasjon
-
-85,9
-
-86,4
-
-87,2
-
-87,2
-
-87,8
-
-87,6
-
-88,2
-
-88,3
-
-Finansierings- og forsikringsvirksomhet
-
-69,6
-
-70,2
-
-70,2
-
-Omsetning og drift av fast eiendom
-
-83,1
-
-83,5
-
-83,2
-
-Faglig, vit. og teknisk tjenesteyting
-
-80,3
-
-81,7
-
-82,3
-
-Forretningsmessig tjenesteyting
-
-90,4
-
-92,3
-
-93,1
-
-Offentlig adm. og forsvar mm.
-
-87,9
-
-88,5
-
-88,6
-
-Undervisning
-
-93,8
-
-94,3
-
-94,4
-
-Helse- og sosialtjenester
-Kultur, underholdning og fritid
-Annen tjenesteyting
-
-84,2
-92,3
-82,7
-
-85,2
-93,1
-83,3
-
-84,7
-93,3
-84,1
-
-Kommune og fylkeskommune i alt4
-Skoleverket/undervisning3,4
-Øvrige ansatte4
-
-94,1
-97,3
-92,6
-
-Staten (ekskl. helseforetak)
-
-g
-i
-p
-
-e
-v
-a
-
-g
-t
-u
-107,3 107,2
-88,3
-
-89,4
-
-94,9
-
-95,7
-
-93,2
-
-94,3
-
-94,7
-
-94,8
-
-559 080
-
-529 920
-
-47
-
-88,4
-
-88,6
-
-89,1
-
-89,1
-
-1 014 240
-
-903 480
-
-29
-
-74,6
-
-77,3
-
-77,7
-
-76,9
-
-1 198 560
-
-921 480
-
-45
-
-70,8
-
-72,9
-
-73,2
-
-74,0
-
-82,5
-
-85,8
-
-84,6
-
-85,2
-
-84,8
-
-85,6
-
-87,2
-
-89,0
-
-88,9
-
-986 640
-
-876 840
-
-33
-
-82,7
-
-83,1
-
-82,9
-
-83,7
-
-83,1
-
-84,3
-
-85,1
-
-85,5
-
-85,8
-
-996 960
-
-855 360
-
-41
-
-o
-F
-
-ø
-l
-re
-
-74,2
-
-92,9
-
-93,2
-
-93,4
-
-91,5
-
-92,3
-
-92,0
-
-89,9
-
-90,0
-
-89,5
-
-703 800
-
-630 120
-
-32
-
-89,2
-
-89,2
-
-89,7
-
-90,0
-
-90,3
-
-90,6
-
-90,8
-
-90,3
-
-90,2
-
-850 440
-
-767 040
-
-51
-
-94,7
-
-94,8
-
-94,7
-
-94,8
-
-95,3
-
-95,0
-
-95,5
-
-95,7
-
-95,7
-
-744 480
-
-712 440
-
-65
-
-85,0
-93,6
-84,7
-
-85,6
-93,6
-85,0
-
-85,3
-90,4
-83,7
-
-85,5
-90,8
-85,5
-
-85,9
-91,0
-86,4
-
-85,7
-90,7
-87,3
-
-86,4
-91,6
-87,6
-
-87,0
-91,8
-88,5
-
-86,9
-91,2
-89.0
-
-778 080
-734 160
-770 880
-
-676 080
-669 360
-685 800
-
-78
-44
-60
-
-94,6
-97,3
-93,2
-
-94,8
-97,7
-93,4
-
-94,8
-97,9
-93,4
-
-95,3
-98,1
-94,0
-
-93,8
-97,0
-92,4
-
-94,0
-97,3
-92,4
-
-94,5
-97,6
-93,0
-
-94,3
-97,4
-92,8
-
-94,4
-97,6
-93,0
-
-94,7
-97,7
-93,3
-
-94,5
-97,8
-93,1
-
-711 840
-722 640
-706 560
-
-672 360
-706 440
-657 480
-
-71
-69
-72
-
-89,0
-
-89,3
-
-89,5
-
-90,1
-
-89,7
-
-89,9
-
-90,2
-
-90,4
-
-90,6
-
-90,7
-
-90,0
-
-90,2
-
-846 600
-
-763 560
-
-50
-
-Helseforetak5
-
-79,7
-
-80,8
-
-80,7
-
-81,6
-
-81,7
-
-81,8
-
-82,0
-
-82,6
-
-83,0
-
-83,3
-
-83,5
-
-83,5
-
-925 440
-
-773 160
-
-73
-
-Alle næringer (heltidsansatte)
-
-86,9
-
-87,6
-
-88,1
-
-88,5
-
-88,9
-
-89,4
-
-89,3
-
-89,6
-
-89,5
-
-90,2
-
-90,0
-
-89,8
-
-809 520
-
-727 080
-
-41
-
-232
-
-[Side 235]
-
-Månedslønn per september/november/desember.
-I prosent av antall arbeidsforhold med heltid.
-3
-Basert på tallmateriale fra KS t.o.m. 2019. F.o.m. nye 2019-tall er tallene fra SSB. I undergruppe til kommuneforvaltningen benyttes næringsgruppen 85 Undervisning
-f.o.m. nye 2019-tall.
-4
-Skoleverket inkluderer alle ansatte og ikke bare undervisningspersonale.
-5
-Fra og med 2015 (a-ordningen) er helseforetakene basert på datamateriale fra næringen Helsetjenester under Statlig forvaltning.
-6
-Tellingstidspunktet er november. Tidligere var september tellingstidspunkt.
-1
-2
-
-Kilder: Statistisk sentralbyrå, KS og Beregningsutvalget
-
-g
-i
-p
-
-o
-F
-
-ø
-l
-re
-
-233
-
-t
-u
-
-e
-v
-ga
-
-[Side 236]
-
-Tabell 4.12 Kvinners gjennomsnittslønn1 i forhold til menns etter næring. Heltids- og deltidsansatte hvor deltid er omgjort til
-heltidsekvivalenter
-Månedslønn*12, 2025
-2015 2016
-
-2017
-
-2018
-
-2019
-
-20194
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-Menn
-
-Kvinner
-
-89,0
-95,3
-
-88,0
-96,1
-
-86,8
-97,7
-
-88,1
-99,7
-
-87,7
-99,6
-
-88,2
-100,5
-
-88,0 87,8
-99,9 100,8
-
-88,4
-102,7
-
-90,0
-102,1
-
-89,1
-101,7
-
-88,9
-101,8
-
-685 920
-1 127 400
-
-610 080
-1 147 920
-
-Industri
-90,0 90,5
-Elektrisitetsforsyning mv.
-91,7 91,9
-Vann, avløp, renovasjon
-104,9 105,5
-Bygge- og anleggsvirksomhet
-101,8 102,4
-Varehandel mv.
-82,4 82,8
-Transport og lagring
-89,7 90,9
-Overnattings- og serveringsvirksomhet
-92,1 92,0
-Informasjon og kommunikasjon
-84,8 85,5
-Finansierings- og forsikringsvirksomhet
-68,7 69,3
-Omsetning og drift av fast eiendom
-82,2 82,0
-Faglig, vitenskapelig og teknisk tjenesteyting 79,2 80,7
-Forretningsmessig tjenesteyting
-90,4 91,6
-Offentlig administrasjon og forsvar mm.
-87,0 87,6
-Undervisning
-92,7 93,1
-Helse- og sosialtjenester
-87,5 88,6
-Kultur, underholdning og fritid
-89,7 90,4
-Annen tjenesteyting
-82,2 83,0
-2
-Kommune og fylkeskommune i alt
-92,9 93,3
-Skoleverket/undervisning3
-95,6 96,1
-Øvrige ansatte2
-92,1 92,5
-Staten (ekskl. helseforetak)
-88,5 89,0
-Helseforetak3
-80,6 81,7
-
-91,3
-92,0
-105,0
-102,8
-83,0
-91,5
-92,6
-86,2
-69,4
-81,9
-81,4
-92,0
-87,9
-93,3
-87,9
-90,8
-83,5
-93,6
-96,3
-92,7
-89,3
-81,4
-
-92,0
-92,2
-106,0
-103,7
-83,3
-92,3
-93,4
-86,3
-70,2
-81,6
-81,7
-91,2
-88,7
-93,9
-88,1
-90,9
-84,0
-93,6
-98,1
-92,9
-89,9
-82,1
-
-92,4
-92,0
-107,5
-104,0
-83,4
-92,3
-93,7
-87,0
-72,2
-84,0
-82,2
-91,8
-88,6
-94,0
-88,8
-91,0
-84,3
-94,1
-98,3
-93,4
-89,6
-82,3
-
-92,3
-92,8
-108,3
-104,6
-83,4
-92,6
-93,4
-86,8
-72,8
-83,5
-82,3
-91,5
-89,1
-94,1
-87,9
-90,8
-83,8
-93,9
-96,4
-93,2
-89,8
-82,1
-
-92,7 93,0
-93,0 93,4
-107,5 108,6
-104,5 104,1
-83,5 83,7
-94,2 93,8
-93,1 92,1
-87,5 87,6
-73,9 73,6
-84,2 83,4
-83,0 82,4
-89,5 90,4
-89,4 89,8
-94,2 94,7
-88,0 88,2
-91,2 91,3
-85,1 86,1
-94,1 94,5
-96,8 97,1
-93,2 93,6
-90,1 90,4
-82,5 82,9
-
-93,2
-94,2
-107,6
-104,3
-83,9
-94,0
-92,8
-87,8
-74,4
-84,4
-83,6
-90,3
-90,2
-94,4
-88,1
-90,6
-86,9
-94,4
-96,9
-92,8
-90,6
-83,4
-
-93,4
-94,3
-107,9
-104,3
-84,9
-95,1
-93,6
-88,0
-77,3
-85,7
-84,5
-88,0
-90,4
-95,0
-88,7
-91,5
-87,1
-88,5
-97,3
-93,6
-90,7
-83,6
-
-93,7
-95,7
-107,1
-103,5
-85,3
-94,8
-93,8
-88,5
-77,6
-86,7
-84,9
-87,7
-90,0
-95,4
-89,3
-91,3
-87,7
-94,8
-97,4
-93,9
-90,0
-83,9
-
-94,0
-97,2
-107,2
-103,8
-85,4
-95,1
-93,5
-88,4
-76,7
-86,7
-85,1
-87,1
-89,8
-95,3
-89,2
-90,5
-88,2
-94,6
-97,4
-93,7
-90,2
-84,0
-
-762 360
-1 027 320
-685 680
-703 680
-709 200
-726 600
-531 480
-1 003 560
-1 188 240
-944 760
-983 880
-679 680
-841 680
-721 200
-739 200
-683 760
-737 640
-688 320
-698 280
-683 760
-837 240
-910 440
-
-716 280
-998 160
-734 880
-730 320
-605 520
-690 840
-496 920
-887 400
-911 520
-819 480
-837 240
-592 080
-756 240
-687 480
-659 400
-618 480
-650 400
-651 120
-680 040
-640 440
-755 280
-764 880
-
-Alle næringer (heltids- og deltidsansatte)
-
-86,7
-
-87,1
-
-87,6
-
-87,8
-
-87,5
-
-87,6
-
-88,3
-
-88,2
-
-87,9
-
-787 320
-
-692 280
-
-Jordbruk, skogbruk og fiske
-Bergverksdrift og utvinning
-
-ø
-l
-re
-
-o
-F
-
-85,3
-
-86,1
-
-g
-i
-p
-
-2020
-
-t
-u
-87,9
-
-e
-v
-ga
-
-Månedslønn per september/november/desember.
-Basert på tall fra KS t.o.m. 2019. F.o.m. nye 2019-tall er tallene fra SSB. I undergruppe til kommuneforvaltningen benyttes næringsgruppen 85 Undervisning f.o.m. nye
-2019-tall.
-3
-Fra og med 2015 baserer statistikken for helseforetakene seg på næringen Helsetjenester under Statlig forvaltning.
-1
-2
-
-234
-
-[Side 237]
-
-4
-
-Tellingstidspunktet er november. Tidligere var september tellingstidspunkt.
-
-Kilder: Statistisk sentralbyrå, Beregningsutvalget og KS
-
-g
-i
-p
-
-o
-F
-
-ø
-l
-re
-
-235
-
-t
-u
-
-e
-v
-ga
+Bytteforhold for varer fra fastlandet. Prosentvis endring fra året før
+
+12J1xt2
+
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 13%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: right;">Gj.snitt<sup>1<br />
+</sup>2016–2025</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: right;">2017</td>
+<td style="text-align: right;">2018</td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td>Eksportpris</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">5,1</td>
+<td style="text-align: right;">0,1</td>
+<td style="text-align: right;">-3,5</td>
+<td style="text-align: right;">12,6</td>
+<td style="text-align: right;">28,8</td>
+<td style="text-align: right;">-0,1</td>
+<td style="text-align: right;">-1,3</td>
+<td style="text-align: right;">1,3</td>
+</tr>
+<tr>
+<td>Importpris</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">5,0</td>
+<td style="text-align: right;">15,1</td>
+<td style="text-align: right;">5,9</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">1,1</td>
+</tr>
+<tr>
+<td>Bytteforhold</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">-2,3</td>
+<td style="text-align: right;">-7,5</td>
+<td style="text-align: right;">7,2</td>
+<td style="text-align: right;">11,9</td>
+<td style="text-align: right;">-5,7</td>
+<td style="text-align: right;">-2,2</td>
+<td style="text-align: right;">0,2</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Gjennomsnittene er beregnet geometrisk.
+
+Kilder: Statistisk sentralbyrå
+
+Industrien. Produktivitet (målt ved bruttoprodukt per timeverk). Prosentvis endring fra året før
+
+13J1xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 11%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: right;">Gj.snitt<sup>1<br />
+</sup>2015–2024</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: right;">2017</td>
+<td style="text-align: right;">2018</td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td><em>Produktivitet</em></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>Norsk industri</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">-0,6</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;">-2,6</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">-0,9</td>
+<td style="text-align: right;">-0,6</td>
+<td style="text-align: right;">-0,6</td>
+<td style="text-align: right;">2,3</td>
+</tr>
+<tr>
+<td>Handelspartnerne</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">-0,6</td>
+<td style="text-align: right;">5,8</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">-2,8</td>
+<td style="text-align: right;">0,1</td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>Relativ produktivitet</td>
+<td style="text-align: right;">-1,3</td>
+<td style="text-align: right;">-3,5</td>
+<td style="text-align: right;">-1,7</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">-1,1</td>
+<td style="text-align: right;">-0,7</td>
+<td style="text-align: right;">-2,1</td>
+<td style="text-align: right;">-1,3</td>
+<td style="text-align: right;">-4,6</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">-0,7</td>
+<td style="text-align: right;"></td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Gjennomsnittene er beregnet geometrisk.
+
+Kilder: Statistisk sentralbyrå og OECD
+
+For hele fastlandsøkonomien økte produktiviteten i perioden 2015–2024 med gjennomsnittlig 1,0 prosent per år, dvs. litt høyere enn et vektet gjennomsnitt av våre handelspartnere, jf. tabell 8.9. Ifølge foreløpige nasjonalregnskapstall økte produktiviteten i fastlandsøkonomien med 1,3 prosent i fjor.
+
+Hele økonomien. Produktivitet målt ved bruttoprodukt per timeverk. Prosentvis endring fra året før
+
+13J1xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 11%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: right;">Gj.snitt<sup>1<br />
+</sup> 2015–2024</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: right;">2017</td>
+<td style="text-align: right;">2018</td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td>Fastlands-Norge</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">-0,8</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">1,3</td>
+</tr>
+<tr>
+<td>Handelspartnerne</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">-0,3</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>Relativ produktivitet</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;">-0,1</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">-0,1</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">-1,8</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;"></td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Gjennomsnittene er beregnet geometrisk.
+
+Kilder: Statistisk sentralbyrå og OECD
+
+### Vekst i lønnskostnader per produsert enhet
+
+Høyere norsk lønnskostnadsvekst bidro til at lønnskostnadene per produsert enhet i norsk industri økte med 46,3 prosent fra 2000 til 2023 relativt til industrien hos handelspartnerne i Europa, målt i nasjonal valuta. Utviklingen i kronekursen har bidratt til at det har vært større svingninger i det relative forholdet for lønnskostnader per produsert enhet målt i felles valuta enn i nasjonal valuta, jf. figur 8.6. Fra 2000 til 2023 økte lønnskostnadene per produsert enhet i norsk industri med 20,4 prosent mer enn i industrien hos handelspartnerne, målt i felles valuta.
+
+OECD har per tid ikke publisert tall for våre handelspartnere lenger enn til 2023. Tall fra SSB viser at lønnskostnadene per produsert enhet i norsk industri økte med 6,0 prosent i 2024 og 2,1 prosent i 2025. De siste ti årene (2016–2025) har lønnskostnadene per produsert enhet økt med i gjennomsnitt 3,0 prosent per år.
+
+Lønnskostnader per produsert enhet i industrien i Norge relativt til handelspartnerne i Europa<sup>1</sup>. 2000–2023. Indeks 2000=100
+
+<sup>1</sup> Handelspartnerne i figuren utgjør 71,9 prosent av handelspartneraggregatet i år 2023. For årene 2000–2019 varierer andelen mellom 69 og 80 prosent, som følge av at vektene varierer fra år til år.
+
+Kilder: OECD, Statistisk sentralbyrå og Norges Bank
+
+Dersom en ser på den siste tiårsperioden hvor vi har tall for handelspartnerne (dvs. 2014–2023) har lønnskostnadene per produsert enhet i norsk industri relativt til industrien hos handelspartnerne falt med i gjennomsnitt 1,5 prosent per år, målt i felles valuta. Veksten i lønnskostnadene per produsert enhet i norsk industri var i gjennomsnitt 1,6 prosent høyere per år enn hos handelspartnerne, men svekkelsen av kronen mer enn motvirket det.
+
+I dette kapitlet vies det mer plass til drøfting av utviklingen i relative timelønnskostnader enn relative lønnskostnader per produsert enhet. Det må blant annet ses i sammenheng med at tallene til OECD for lønnskostnader per produsert enhet publiseres sent, og det foreligger per tid ikke tall lenger enn til 2023. Videre er det trolig noe større usikkerhet til beregningene av tallene for lønnskostnader per produsert enhet hos våre handelspartnere, og det er ofte betydelige revisjoner i tallene.
+
+### Kjøpekraftsjustert BNP justert for petroleumsinntekter
+
+En metode for å sammenligne inntekter i Norge med utviklingen i andre land er å se på tall for bruttonasjonalproduktet (BNP) per innbygger. I slike sammenligninger er det hensiktsmessig å regne om BNP-tallene i de enkelte landene til et felles prissett ved å bruke såkalte kjøpekraftspariteter (KKP). Prisene på varer og tjenester i Norge er normalt høye når vi bruker offisielle valutakurser og sammenligner med prisene på tilsvarende varer og tjenester i andre OECD-land. Sammenlignes landenes BNP per innbygger i felles valuta uten å ta hensyn til forskjeller i kjøpekraft, blir BNP i Norge svært høyt. Ved å bruke kjøpekraftsjusterte priser regnes verdiskapingen i Norge om til internasjonale priser og ikke i norske priser slik SSB gjør når nasjonalregnskapstallene lages. Da vil for eksempel prisen på en hamburger ikke bli verdsatt til det den koster i Norge, men hva en hamburger gjennomgående koster internasjonalt.
+
+Før oljealderen tok til var Norges BNP per innbygger regnet i kjøpekraftsjusterte priser og i felles valuta (USD) litt lavere enn OECD-gjennomsnittet, jf. figur 8.7.[^70] OECDs beregninger viser at Norges inntektsnivå per innbygger i perioden 2015–2020 var 40–50 prosent høyere enn OECD-gjennomsnittet. Høye petroleumspriser bidro til at forskjellen økte markert i 2021 og 2022. Ifølge beregningene til OECD var inntektsnivået i Norge i 2022 hele 120 prosent høyere enn OECD-snittet. Lavere petroleumspriser har bidratt til at inntektsnivåforskjellen gikk ned igjen de to neste årene, og var i 2024 på 64 prosent.
+
+Generelt er de norske BNP-tallene sterkt påvirket av varierende petroleumspriser og inntekter.
+
+For å få et riktigere bilde på utviklingen i inntektsnivået i norsk økonomi relativt til i andre land, bør de norske BNP-tallene justeres for den ekstraordinære avkastningen ressursinnsatsen i petroleumsvirksomheten gir. Denne ekstraordinære avkastningen kalles ofte for petroleumsrenten. Bidraget fra petroleumsrenten til BNP kan betraktes som en omplassering av formue, og ikke inntekt. Petroleumsrenten er definert som driftsresultatet i sektoren inkludert indirekte skatter, fratrukket kapitalslit og antatt normal realavkastning på kapitalen i sektoren. I beregningene her er det lagt til grunn at normal realavkastning er 4 prosent.
+
+BNP per innbygger i Norge (i KKP) relativt til OECD-snittet og BNP i Norge eksklusive petroleumsrente (i KKP) relativt til OECD-snittet. 1970–2024
+
+Kilder: OECD og Statistisk sentralbyrå
+
+Petroleumsrenten er her satt til null før 1975, og i figuren er derfor relativt BNP per innbygger det samme fra 1970 til 1974. Fra midten av 1970-tallet begynner kurvene å sprike. Det justerte norske inntektsnivået økte relativt sett særlig mye gjennom 1990-tallet og første del av 2000-tallet. Forskjellen i BNP (justert for petroleumsrenten) per innbygger mellom Norge og OECD-snittet var på sitt høyeste i 2022 da det var på nesten 54 prosent. De to neste årene falt forskjellen, og var i 2024 39 prosent høyere enn OECD-snittet. Samlet sett har inntektsveksten regnet som inntekt per innbygger, vært meget sterk i Norge sammenlignet med andre land selv når vi holder petroleumsrenten utenom.

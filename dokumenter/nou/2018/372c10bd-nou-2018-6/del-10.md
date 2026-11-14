@@ -1,1151 +1,310 @@
-# NOU 2018: 6, del 10 av 18 (side 119–132)
+# NOU 2018: 6, del 10 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/372c10bd-nou-2018-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-6/id2593665/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd4f61bba893409a9b715ee1971a0004/no/pdfs/nou201820180006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 26 figurer, 49 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 119]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-av det kritikkverdige forholdet og av evalueringen
-av om man skal varsle eller ei.
-Trinn 3) Konfrontasjon. Når beslutningen om varsling er tatt, er noe av stresset borte vedrørende
-uvissheten om hva man bør gjøre.
-
-–
-
-Trinn 4) Gjengjeldelse. Har varsleren gitt beskjed
-helt åpenlyst, frykter han eller hun å bli møtt med
-gjengjeldelse, å bli straffet for å ha varslet. Gjengjeldelsen kan komme fra arbeidsgiver, ledere
-eller kolleger. Varsleren er som regel ikke forberedt på dette, selv om han eller hun kan ha fryktet
-gjengjeldelse på et tidligere stadium.
-
-–
-
-Trinn 5) Den uavklarte tiden. Perioden som går fra
-det har blitt varslet til det blir en endelig løsning,
-kan oppleves som en lang og vanskelig tid og fører
-ofte med seg psykiske plager for varsleren. Hvis
-varsleren mister jobben i løpet av prosessen, kommer også økonomiske problemer som en følge.
-Skilsmisse, tap av ektefelle og kontakt med barn,
-venner og familie kan bli en realitet. Uten terapeutisk hjelp vil mange varslere forbli på dette trinnet.
-
-–
-
-Trinn 6) Avklaring er for eksempel når saken er
-ferdig behandlet i domstolene, eller at varsleren
-slutter å forfølge den. Følelsesmessig opplever
-varslerne ofte både lettelse og skuffelse i denne
-fasen. De kan oppleve sorg hvis resultatet av en
-eventuell rettssak har vært utilfredsstillende, og
-kan da ha behov for en «sørgetid».
-Trinn 7) Løsning kjennetegnes ved at varsleren
-har akseptert situasjonen og «kommet til seg
-selv». Personen klarer å legge bak seg det som har
-skjedd, og fortsette med sitt liv.
-Kjennetegn på saker som løses uten store konflikter
-Det er lettere å unngå uforsonlige konflikter når
-toppledelse og selve organisasjonen som system
-ikke er involvert. Det er også lettere når de stridende parter har kunnskap om varsling og er
-etisk bevisste. Hvis virksomheten har etablerte
-varslingsrutiner som både de ansatte og deres
-ledere forholder seg til, vil sannsynligheten for
-destruktive konflikter minimeres.
-Skolering av tillitsvalgte og verneombud vil
-også være verdifullt. I likhet med personalorienterte ledere, som for eksempel transformasjonsledere som gir personlig oppfølgning til medarbeiderne, og LMX-ledere68 som behersker kombinasjonen mellom formell og uformell kommunika-
-
-–
-
-–
-–
-–
-–
-
-–
-–
-
-119
-
-Kapittel 8
-
-Boks 8.2 Råd til varslere
-Se an situasjonen og vurder om du er forberedt på å stå frem.
-Start med kollegene som står for forseelsen(e).
-Sørg for at fremgangsmåten din er forsvarlig.
-Anta at andre internt i organisasjonen er
-interessert.
-Samle bevis og støtte fra andre.
-Dokumenter saksgangen nøye.
-Gå gjennom de formelle kanalene i virksomheten.
-Få råd fra folk som ikke er berørt i eller av
-saken, slik som utenforstående eksperter.
-Få emosjonell støtte hos venner og gode
-kolleger.
-Gå eksternt som siste utvei.
-
-Kilde: Greene og Latting (2004), modifisert av Bjørkelo,
-Matthiesen og Einarsen (2008).
-
-sjon med de ansatte, så vil også tillitsvalgte og verneombud kunne bidra med sosial støtte til
-varslere.69 70 Sosial støtte er verdifullt og vil
-kunne være stressdempende, også i stressituasjoner som innebærer varsling av kritikkverdig
-atferd.71 Verneombud og tillitsvalgte vil kunne
-bistå varslere og bidra til at den valgte fremgangsmåten for varsling fremstår minst mulig konflikteskalerende. Å holde varslingen unna offentligheten og i stedet løse problemene og utfordringene
-internt, kan være et eksempel på hva tillitsvalgte
-og verneombud kan bidra med i en situasjon der
-det har skjedd noe kritikkverdig.
-De to australske forskerne Greene og Latting
-foreslår en fremgangsmåte for hvordan varslere
-bør gå frem, bestående av ti trinn (se boks 8.1).72 I
-hovedsak går rådene deres ut på at arbeidstakere
-bør varsle forsvarlig via formelle kanaler, sørge
-for at flere kommer til samme konklusjon som
-dem med hensyn til det kritikkverdige forholdet,
-samt dokumentere alt man gjør i forbindelse med
-varslingen.
-68
-69
-70
-71
-72
-
-Transaksjonsorienterte ledere.
-Matthiesen, Knudsen og Susegg (2013).
-Gerhardsen (1931/ 2000) og Gerhardsen (2006).
-House (1981).
-Greene og Latting (2004).
-
-[Side 120]
-
-120
-
-Kapittel 8
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Flere av rådene til Greene og Latting kan være
-nyttige for både interne og eksterne varslere, ikke
-minst det å dokumentere fremgangsmåte og å få
-råd og emosjonell støtte i prosessen.73 På den
-annen side kan det velmenende rådet om å gå
-eksternt som siste utvei, stoppe en varsler som
-ikke kan ta det kritikkverdige opp med den eller
-de det gjelder på grunn av fare for bevisforspillelse
-eller fordi forseelsene er en integrert del av virksomhetens drift. Noen ganger er det derfor nødvendig å gå utenfor virksomheten, et behov som
-først og fremst er ivaretatt gjennom adgangen til å
-varsle til tilsynsmyndigheter og andre offentlige
-myndigheter i arbeidsmiljøloven § 2 A-1.
-For den som mottar varsel, er det viktig å
-huske på at varslerens hensikt i utgangspunktet
-er positiv for virksomheten.74 Varsleren er ansvarlig eller prososial.75 Den som mottar et varsel, har
-en stor mulighet til å bidra til at kritisk informasjon, ofte av stor betydning for virksomheten eller
-for samfunnet, kommer frem og kan lede til en
-ønsket utvikling. Det er viktig å sjekke om varsleren har konkrete eksempler, dokumentasjon
-eller bevis, slik at ikke varselet forblir diffust eller
-abstrakt. Man må skille mellom et varsel og udokumenterbare beskyldninger. Prinsippet om kontradiksjon må ivaretas, det vil si at den som
-beskyldes for klanderverdig atferd, må bli hørt og
-få anledning til å komme med sin versjon. Det er
-viktig at leder eller den som mottar varselet,
-møter varsleren med sympati eller empati og at
-man erkjenner at det å varsle ofte har vært en krevende beslutning, der personen er redd for konsekvensene for egen posisjon eller fremtid i organisasjonen. Varslingen må håndteres konfidensielt.
-Det er viktig å gi varsleren tilstrekkelig tid,
-gjerne slik at mottaker av varselet og varsleren
-møtes ved mer enn én anledning. Varsleren forventer at leder, tillitsvalgt eller den som mottar
-varselet, er tydelig på hva man har tenkt å gjøre,
-hvordan man vil følge opp varselet, og at man som
-mottaker står ved sitt ord. Dersom informasjonen
-eller problemet man får seg forelagt er omfattende
-eller komplekst, kan det være lurt å be om
-betenkningstid med hensyn til hvordan man har
-tenkt å handle. Det anbefales skriftlighet med
-hensyn til konkrete avtaler man blir enige om for
-hvordan man vil følge opp. Det er vanlig høflighet
-og folkeskikk å takke personer som gjør noe prisverdig.
-
-8.7
-
-8.7.1 Monika-saken
-Robin Schaefer varslet i slutten av desember 2013
-første gang om det han vurderte som alvorlige
-mangler ved etterforskningen som ble gjort i forbindelse med at åtte år gamle Monika Sviglinskaja
-ble funnet død i hjemmet sitt på Sotra 14. november 2011.76 Schaefer varslet flere ganger internt
-om sine vurderinger uten at saken ble gjenåpnet.
-Han redegjorde også for vurderingene sine for
-Monikas families bistandsadvokat. Schaefer ble
-sykmeldt flere ganger i perioden på grunn av den
-påvirkningen den interne behandlingen av saken
-og den manglende viljen til å gjenoppta saken
-hadde på ham.
-Som følge av kontakten med Schaefer
-begjærte bistandsadvokaten saken gjenåpnet i
-april 2014, og i mai 2014 slo Bergens Tidende opp
-saken. Politiet besluttet at saken skulle gjenåpnes
-dagen etter oppslaget.77 I etterkant uttalte Schaefer seg til media om manglene ved etterforskningen og den interne håndteringen av varslene
-hans, og ga også ut en bok om saken og sine egne
-opplevelser i 2015.78 På denne måten varslet han
-også allmennheten om forholdene.
-I mars 2015 ga Justis- og beredskapsdepartementet advokatfirmaet Wiersholm i oppdrag å
-undersøke arbeidsrettslige forhold knyttet til
-Schaefers varslingssak. Wiersholm leverte sin
-rapport i juni 2015.79 I rapporten konkluderte
-advokatfirmaet med at Robin Schaefer ved sin
-opptreden hadde varslet om kritikkverdige forhold etter arbeidsmiljøloven § 2-4, og at varslene
-til politimesteren, bistandsadvokaten, pressen og
-allmennheten var forsvarlige og dermed lovlige i
-henhold til loven. Videre konkluderte rapporten
-med at Schaefer var utsatt for ulovlig gjengjeldelse ved at Schaefers arbeidsmiljø ikke forble
-fullt forsvarlig og at han gradvis ble marginalisert,
-noe som til slutt førte til at han ble sykmeldt.
-På bakgrunn av Wiersholm-rapporten, la Justis- og beredskapsdepartementet til grunn at
-Schaefer hadde varslet om alvorlige, kritikkver76
-
-77
-
-73
-
-Bjørkelo, Matthiesen og Einarsen (2008).
-Matthiesen (2016).
-75
-Miceli, Near, Rehg og Van Scotter (2012).
-74
-
-Eksempelsaker
-
-78
-79
-
-Fremstillingen av de faktiske forhold i forbindelse med
-Schaefers varsling er basert på Wiersholms rapport
-«Monika-saken» – Arbeidsgivers håndtering av Robin Schaefers varsling, rapport av 25. juni 2015 til Justis- og beredskapsdepartementet etter mandat gitt 16. mars 2015.
-Som følge av beslutningen om gjenåpning, ble en ny etterforskning satt i gang og 20. oktober 2014 ble en person
-pågrepet, og saken ble klassifisert som drap. Den aktuelle
-personen ble senere dømt for drap.
-Schaefer (2015).
-Wiersholm (2015).
-
-[Side 121]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-dige forhold på en forsvarlig måte, og at han
-hadde blitt utsatt for ulovlig gjengjeldelse. Departementet utbetalte på denne bakgrunnen 200 000
-kroner til Schaefer i oppreisningserstatning.
-Saken ble også tatt inn for Spesialenheten for
-politisaker, som skulle vurdere om det hadde
-skjedd straffbare brudd på arbeidsmiljøloven.
-Spesialenheten henla saken som intet straffbart
-forhold. Denne avgjørelsen ble påklaget til Riksadvokaten, som i sin avgjørelse 5. oktober 2016 konkluderte med at det kunne reises kritikk mot politidistriktets samlede håndtering av Schaefer, men
-at forsømmelsene ikke var graverende nok til at
-noen kunne straffes for brudd på arbeidsmiljøloven. Riksadvokaten drøftet forholdet mellom rapporteringsplikten og varslingsregelverket og la til
-grunn at det siste først ble aktualisert ved sviktende oppfølging av rapportering i henhold til rapporteringsplikten. Det ble samtidig konkludert
-med at kravene til arbeidsgivers oppfølging i det
-alt vesentlige er sammenfallende enten det er
-snakk om rapportering eller varsling. Etter Riksadvokatens syn var Schaefer å anse som varsler da
-han uttalte seg til media i september 2014.
-
-8.7.2 Unibuss-saken
-Jan Erik Skog var ansatt som busselektriker i Unibuss AS og satt i selskapets styre som ansattrepresentant. Skog varslet fra slutten av 90-tallet gjennom mange år gjentatte ganger om forhold han
-oppfattet som kameraderi og korrupsjon i det
-kommunale busselskapet.80 Skog tok først saken
-opp internt i selskapet, så med morselskapet, uten
-å nå frem med bekymringene sine. Skog og Rune
-Aasen, leder av Oslo Sporveiers Arbeiderforening, utarbeidet en rapport i samarbeid med
-Erling Folkvord fra partiet Rødt. Folkvord la rapporten frem for kommunens kontrollutvalg, som
-ba kommunerevisjonen om å undersøke påstandene. Kommunerevisjonen jobbet med saken i om
-lag ett år, og deretter ble rapporten presentert for
-byråden for miljø og samferdsel. Saken ble imidlertid ikke fulgt opp før det i 2011 ble kjent at en
-person i et selskap som produserer busser, innrømmet å ha betalt flere millioner kroner til innkjøpssjefen i Unibuss.
-I september 2011 ble de første pågripelsene i
-forbindelse med korrupsjonssaken gjort, og en
-rekke personer ble dømt for forhold i tilknytning
-til korrupsjonssaken.81
-
-Skog har ikke uttrykt at han har opplevd gjengjeldelse i forbindelse med varslingen, men har
-uttalt til media at «veggen han møtte hver gang
-han slo alarm, tok hardt på opp gjennom årene».82
-Stiftelsen Fritt Ords pris for 2015 ble tildelt
-Robin Schaefer og Jan Erik Skog, som varslet i
-Unibuss-saken, for «deres modige innsats for å
-avdekke kritikkverdige forhold i norsk arbeidsliv».83
-
-8.7.3 Norweld-saken
-Pål Stenstad ble i mars 2007 ansatt som tekniker i
-Norweld Control Services AS, som drev med
-industriell radiografi.84 Relativt kort tid etter at
-han hadde startet i jobben sin, oppdaget han en
-rekke kritikkverdige og ulovlige forhold ved virksomheten. Dette dreide seg blant annet om at selskapet ikke fulgte strålevernforskriften og forskrift om transport av farlig gods og også drev
-med juks med registrering av stråling.
-Stenstad tok opp de kritikkverdige forholdene
-med sin avdelingsleder, som ikke var enig i hans
-vurdering av situasjonen i virksomheten. Deretter
-tok han forholdene opp med administrerende
-direktør ved hovedkontoret i Stavern, og til slutt
-med Arbeidstilsynet.
-Etter at han tok opp forholdene med sin leder,
-hevdet Stenstad at han ble utsatt for trakassering,
-mobbing, sjikanering og utfrysning fra avdelingslederen. Situasjonen førte til at han ble sykmeldt.
-Stenstad fremsatte krav om erstatning og oppreisning etter arbeidsmiljøloven § 2-5, jf. § 2-4 for
-gjengjeldelse etter varsling.
-Stenstad nådde ikke frem med erstatnings- og
-oppreisningskravet sitt i tingretten, men anket
-saken videre til lagmannsretten. Lagmannsretten
-la til grunn at Stenstad hadde varslet om til dels
-svært kritikkverdige forhold på arbeidsplassen.
-Videre la retten til grunn at Stenstad ved å først ta
-opp forholdene med sin nærmeste leder, deretter
-med administrerende direktør, før han så gikk til
-Arbeidstilsynet, hadde «gått frem på en helt korrekt måte» og dermed varslet forsvarlig.85 Etter
-lagmannsrettens syn hadde Stenstad også blitt
-utsatt for ulovlig gjengjeldelse i form av trakasse81
-82
-83
-84
-
-80
-
-Slettholm Andreas, Unibuss-saken: Korrupsjonsalarmen
-ringte, men de ansvarlige politikerne gjorde ingenting, Aftenposten 17. august 2016.
-
-121
-
-Kapittel 8
-
-85
-
-NTB, Unibuss-saken til Høyesterett, 14. august 2016.
-Tømmerås Ola, Han varslet om korrupsjon i Unibuss i årevis, FriFagbevegelse 30. oktober 2014.
-Fritt Ord, Fritt Ords Pris 2015 til Robin Schaefer og Jan
-Erik Skog, 2. mars 2015.
-Fremstillingen av de faktiske forholdene er basert på Borgarting lagmannsretts dom 8. oktober 2009, LB-200936995.
-LB-2009-36995.
-
-[Side 122]
-
-122
-
-Kapittel 8
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-ring som følge av at han varslet om de kritikkverdige forholdene. I tillegg til erstatning for faktisk
-påløpte utgifter, herunder utgifter til juridisk
-bistand og lidt inntektstap, tilkjente lagmannsretten ham på denne bakgrunnen 100 000 kroner i
-oppreisningserstatning.
-
-8.7.4 Holmestrand kommune86
-En kvinnelig ansatt ved et bofellesskap i Holmestrand kommune varslet i 2007 virksomhetslederen om hvordan lederen i bofellesskapet forholdt
-seg til beboere og ansatte.87 Kvinnen tok opp forholdene på vegne av seg selv og flere ansatte i
-bofellesskapet. Forholdene hun tok opp var blant
-annet at lederen kom med nedsettende kommentarer til både brukere og ansatte, at enkelte
-ansatte følte seg mobbet, trakassert og baksnakket og at flere kolleger sykmeldte seg på grunn av
-vedkommendes lederstil.
-I etterkant av at den kvinnelige ansatte sa fra
-om disse forholdene til virksomhetslederen, ble
-ansettelsesforholdet hennes avsluttet. Virksomhetslederen sørget også for at hun ble utestengt
-fra arbeidsoppdrag i samtlige av kommunens boliger, og kommunen stoppet aktivt kvinnens forsøk
-på å få andre kommunale stillinger. Som følge av
-dette, fremsatte kvinnen krav om erstatning og
-oppreisning blant annet på grunn av gjengjeldelse
-etter varsling.
-I forbindelse med behandlingen av kravet i lagmannsretten la domstolen til grunn at kvinnen
-hadde varslet da hun tok opp lederens lederstil,
-og at det ikke kunne være til hinder for å anse
-henne som varsler at arbeidsgiveren allerede var
-kjent med hele eller vesentlige deler av de kritikkverdige forholdene. Videre sa lagmannsretten at
-kvinnen hadde varslet forsvarlig ved at hun hadde
-stått frem som talsperson for de ansatte om forholdet overfor ledelsen i møter. Lagmannsretten la
-videre til grunn at kommunen hadde utsatt kvinnen for ulovlig gjengjeldelse ved å aktivt utestenge henne fra å få oppdrag og nye ansettelser i
-kommunen.
-På denne bakgrunnen kom lagmannsretten til
-at kvinnen hadde rett på erstatning og oppreisning som følge av den ulovlige gjengjeldelsen.
-I tillegg til erstatning for inntektstap i to år, ble
-kvinnen tilkjent 150 000 kroner i oppreisningserstatning.
-86
-87
-
-Saken er omtalt andre steder som miljøarbeider-dommen.
-Fremstillingen av de faktiske forholdene er basert på
-Agder lagmannsretts dom 2. november 2009, LA-200957115.
-
-8.8
-
-Eksempler på varslingsrutiner
-
-8.8.1 Innledning
-Arbeidsmiljøloven § 2 A-3 pålegger virksomheter
-som har behov for det eller som jevnlig sysselsetter minst fem arbeidstakere å utarbeide rutiner
-for intern varsling. Bestemmelsen angir rammene
-for hva rutinene skal inneholde, men den nærmere utformingen og innholdet i rutinene må tilpasses den enkelte virksomheten. I det følgende
-gis det en gjennomgang av ulike varslingsrutiner
-innenfor henholdsvis statlig, kommunal og privat
-sektor. Gjennomgangen er kun ment som en illustrasjon på hvordan varslingsrutiner kan se ut, og
-vi har særlig sett på hvordan rutinene behandler
-følgende tema:
-– forbudet mot gjengjeldelse
-– muligheten til å varsle anonymt
-– informasjon til varsleren underveis i prosessen
-– habilitet
-– hvorvidt det er etablert en ekstern varslingskanal
-
-8.8.2 Statlig sektor
-Forsvarssektoren
-Forsvarsdepartementet har utarbeidet retningslinjer for varsling i forsvarssektoren.88 Retningslinjene er en punktvis oversikt over hvordan man
-kan eller bør gå frem i forbindelse med varsling,
-hvordan varsler skal håndteres og følges opp mv.
-Vedlagt retningslinjene er en varslingsplakat, som
-gir en kortfattet oversikt over relevant informasjon i forbindelse med varsling. Også skjema for
-varsling og en protokoll for mottak av varsel, som
-som hovedregel skal benyttes i forbindelse med
-varslinger, er lagt ved retningslinjene. Retningslinjene åpner for varsling fra forsvarspersonell, konsulenter, innleide, håndverkere, eksterne personer og andre uten direkte tilknytning til virksomhetene.
-Retningslinjene for varsling i forsvarssektoren
-behandler vernet mot gjengjeldelse i punkt 4.1.
-Her fremgår det at saksbehandleren som mottar
-varselet, har et særlig ansvar for å sørge for at
-gjengjeldelse ikke skjer. Varslingsmottaker skal
-også vurdere og avklare behov for å iverksette tiltak for å forhindre gjengjeldelse. Hva som regnes
-som gjengjeldelse, er nærmere definert i retningslinjene som blant annet fratakelse av arbeidsopp88
-
-Forsvarsdepartementet, Retningslinjer for varsling i forsvarssektoren, 8. januar 2015.
-
-[Side 123]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-gaver, omplassering, forbigåelse, mobbing, trakassering og andre negative reaksjoner. Det presiseres at «saklig motargumentasjon og fremføring av
-fakta som svekker eller avkrefter påstander om
-kritikkverdige forhold» ikke regnes som gjengjeldelse. Den vedlagte protokollen for mottak av varsel har et punkt om tiltak for å forhindre gjengjeldelse mot varsleren som skal fylles ut av den som
-håndterer varselet.
-I punkt 3.10 i retningslinjene omtales anonym
-varsling. Det fremgår at selv om anonym varsling
-kan «gjøre det enklere å ta opp kritikkverdige forhold», bør dette «benyttes unntaksvis», ettersom
-åpenhet normalt vil sikre en bedre saksgang og
-bedre resultat for involverte parter. Det presiseres videre at en varsler aldri kan garanteres komplett anonymitet, ettersom domstolen vil kunne
-kreve opplysninger om varslerens identitet fra forvaltningen. Av punkt 5.1 fremgår det at også anonyme varsler skal tas alvorlig og behandles, og at
-undersøkelser for å identifisere anonyme varslere
-ikke skal forekomme. Av punkt 5.1 fremgår også
-at saksbehandleren som mottar varselet, skal vurdere hvem som skal involveres i den videre
-behandlingen av saken, og at det kan bli aktuelt å
-oversende varselet til en varslingsenhet eller
-andre steder, for eksempel på grunn av egen habilitet.
-Det fremgår av punkt 5.8.2 i retningslinjene at
-saksbehandlere som mottar varselet skal orientere varsleren om at varselet er mottatt, at saken
-vil bli behandlet og hva som er forventet saksbehandlingstid. Videre fremgår det at varsleren som
-hovedregel skal orienteres om utfallet av saken,
-og at det må vurderes om varsleren har rett på
-informasjon etter personopplysningsloven.
-Det er etablert egne varslingskanaler for de
-ulike virksomhetene i forsvarssektoren, i tillegg til
-at alle kan varsle til Forsvarsdepartementets varslingsenhet. Forsvarsdepartementet har ikke etablert en ekstern varslingskanal.
-Utenrikstjenesten
-Utenriksdepartementet har utarbeidet en varslingsplakat for varsling om kritikkverdige forhold
-i utenrikstjenesten.89 Varslingsplakaten er en skjematisk oversikt over blant annet hva et varsel bør
-inneholde, i tillegg til retningslinjer for hvordan
-og til hvem man kan varsle. Det fremgår at alle
-ansatte, hospitanter, praktikanter, konsulenter og
-også personer uten tilknytning til utenrikstje89
-
-Varsling om kritikkverdige forhold i utenrikstjenesten
-(arbeidsmiljøloven §§ 2-4, 2-5 og 3-6).
-
-123
-
-Kapittel 8
-
-nesten kan varsle etter retningslinjene. I tillegg til
-varslingsplakaten, har Utenrikstjenesten utarbeidet rutiner for håndtering av nærmere angitte kritikkverdige forhold. Det gjelder ulike former for
-avhengighet,90 konflikter, trakassering eller
-annen utilbørlig opptreden91 og økonomiske misligheter.92
-På varslingsplakaten konstateres det kort at
-gjengjeldelse som følge av varsling er forbudt,
-mens dette utdypes noe i retningslinjene for håndtering av konflikter, trakassering eller annen utilbørlig opptreden punkt 7, hvor det fremgår at som
-ulovlig gjengjeldelse regnes «fratakelse av
-arbeidsoppgaver eller forbigåelse ved mulighet
-for faglig eller lønnsmessig utvikling, mobbing
-eller trakassering, alle andre negative sanksjoner
-som er en følge av varslingen», og at slik gjengjeldelse ikke skal skje fra verken ledere eller medarbeidere.
-Retningslinjene nevner flere steder at det er
-mulig å varsle anonymt.
-Varslingsplakaten slår fast at et prinsipp for
-håndtering av varsel i utenrikstjenesten er informasjon til partene og ivaretakelse av de berørte
-parter. Videre fremgår det av plakaten at varsleren skal, hvis det er mulig, ha en bekreftelse på at
-varslingen er mottatt, og at retten til informasjon
-for øvrig følger av offentleglova, forvaltningsloven
-og personopplysningsloven. Det følger av retningslinjene for håndtering av mistanke om økonomiske misligheter punkt 4 at Sentral kontrollenhet, en sentral kontrollenhet i Utenriksdepartementet for saker hvor det varsles om og behandles mistanke om økonomiske misligheter, skal
-bekrefte at varselet er mottatt. Retningslinjene for
-håndtering av konflikter, trakassering eller annen
-utilbørlig opptreden punkt 7 slår fast at partene
-skal holdes løpende orientert om sakens utvikling, når saksbehandlingen planlegges sluttført og
-om utfallet av vurderingen.
-Det følger av varslingsplakaten at habilitet skal
-vurderes etter forvaltningslovens regler, og at
-arbeidsgiveren må foreta en konkret vurdering av
-hvem, interne eller eksterne, som skal håndtere
-saken, alt etter hvilken type sak og hvem varslingen er rettet mot. Retningslinjene for håndtering
-90
-
-91
-
-92
-
-Utenriksdepartementet, AKAN i Utenrikstjenesten, Retningslinjer for håndtering av rusmiddelbruk, spillavhengighet og annen problematisk avhengighet på arbeidsplassen,
-gjeldende fra 1.1.2017.
-Utenriksdepartementet, Retningslinjer for håndtering av
-konflikter, trakassering eller annen utilbørlig opptreden,
-19.12.2014.
-Utenriksdepartementet, Retningslinjer for håndtering av
-mistanke om økonomiske misligheter, 18.3.2011.
-
-[Side 124]
-
-124
-
-Kapittel 8
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-av mistanke om økonomiske misligheter punkt 4
-slår fast at Sentral kontrollenhet i utgangspunktet
-håndterer varslingssaker om mistanke om økonomiske misligheter, men det presiseres at det ofte
-vil være nødvendig å engasjere et uavhengig,
-internasjonalt anerkjent revisjonsfirma i forbindelse med slike varsel.
-Utenriksdepartementet har opprettet en
-ekstern varslingskanal som kan benyttes av
-enhver i forbindelse med varslinger.
-
-8.8.3 Kommunal sektor
-Oslo kommune
-Oslo kommune har en lokal og en sentral ordning
-for varsling. Den lokale er ment å være hovedkanalen for ansatte, mens den sentrale ordningen er
-åpen for alle, herunder innbyggere, leverandører,
-brukere av tjenester og ansatte.93 I det følgende
-omtales kun den sentrale ordningen.
-Kommunens sentrale varslingsordning er en
-ekstern varslingskanal som har som formål å
-gjøre det enkelt og trygt å varsle om korrupsjon,
-misligheter og andre lovbrudd i Oslo kommune
-eller mot Oslo kommune.94 Informasjon om den
-sentrale varslingsordningen ligger på Oslo kommunes nettsider.
-Nettsidene omtaler ikke forbudet mot gjengjeldelse ved varsling etter arbeidsmiljøloven.
-Det fremgår av oversikten over den sentrale
-ordningen at man kan velge å varsle anonymt og
-at dette i så fall ikke vil gå utover behandlingen av
-varselet. Kommunen opplyser om at dersom man
-ikke kan identifisere enkeltpersoner eller taushetsbelagte forhold, vil varselet kunne bli offentlig
-etter begjæring om innsyn.
-Videre fremgår det at varsel blir behandlet av
-et sentralt varslingsråd, som beslutter videre prosess, og at oppfølgingen av varselet vil avhenge av
-hvilke forhold varselet gjelder. Den enkelte vil få
-informasjon om hvilken oppfølging varselet vil få
-og informasjon når saken er ferdig behandlet.
-Dersom det er gjort funn i saken, vil varsleren
-som hovedregel få en kort orientering om dette.
-
-93
-
-Braathen Ellen Cecilie og Dhall Nitika, Oslo kommunes
-varslingsordning, presentasjon for Varslingsutvalget 21.
-november 2017.
-94
-Oslo kommune, Varsling om korrupsjon, misligheter og
-andre lovbrudd.
-
-Sandnes kommune
-Sandnes kommune har utarbeidet varslingsrutiner som er tilgjengelig sammen med kommunens
-etiske retningslinjer.95 I tillegg er det utarbeidet et
-skjema man kan bruke for å varsle. Rutinene gjelder for medarbeidere i Sandnes kommune.
-Av rutinene følger det at arbeidstakere som
-varsler, ikke skal utsettes for gjengjeldelse som
-følge av varselet. Det presiseres at «enhver ugunstig behandling som er en reaksjon på ytringen» i
-utgangspunktet skal anses som gjengjeldelse.
-Videre følger det at forbudet først og fremst vil
-gjelde «formelle sanksjoner som oppsigelse, suspensjon og avskjed samt ordensstraff hjemlet i tjenestemannsloven», men at også «uformelle sanksjoner som for eksempel endring i arbeidsoppgaver, utfrysning, interne overføringer og såkalt tjenestelig tilrettevisning» vil være omfattet av forbudet. Videre følger det av retningslinjene at
-forbudet ikke utelukker at arbeidsgiver kommer
-med motytringer.
-Retningslinjene legger opp til at man kan
-varsle anonymt, men varslere oppfordres om å
-oppgi sin identitet av hensyn til oppfølging av
-saken.
-Det følger av retningslinjene at det skal gis tilbakemelding til varsleren innen én måned etter at
-varselet er mottatt om at saken er mottatt, om progresjon og om når saken forventes ferdigbehandlet. Videre fremgår det at varsleren skal få tilbakemelding «om saken er henlagt eller fulgt opp» og
-om varsleren skal få ytterligere informasjon må
-vurderes konkret.
-Varslingsrutinene omtaler ikke habilitet i forbindelse med behandling av varsel. Det legges
-opp til at den som mottar varselet, har ansvaret for
-oppfølgingen, og at når denne er nærmeste leder,
-«kan denne innhente annen nødvendig kompetanse og la seg bistå av ressurspersoner i kommunen som har kompetanse innenfor det området
-varselet gjelder». Når det varsles til bedriftshelsetjenesten/strategisk systemansvar for HMS, fremgår det at saken skal legges frem for et «varslingsråd» som består av «to faste representanter fra
-organisasjon og økonomi» og at annen kompetanse kan innhentes ved behov.
-Sandnes kommune har lagt til rette for at
-arbeidstakere kan varsle til kommunens varslingsgruppe dersom man ikke kan eller vil varsle i linja,
-men de har ikke etablert en ekstern varslingskanal.
-95
-
-Sandnes kommune, Etiske retningslinjer og varslingsrutiner.
-
-[Side 125]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Lindås kommune
-Lindås kommune har etablert retningslinjer for
-ansatte som vil varsle om kritikkverdige forhold i
-kommunen.96 Retningslinjene gir en oversikt over
-problemstillinger i forbindelse med varsling, herunder hvilke krav som stilles til forsvarlighet mv.
-og hvordan man kan eller bør gå frem for å varsle
-om kritikkverdige forhold i kommunen.
-Det fremgår av retningslinjene at varslere ikke
-skal bli utsatt for gjengjeldelse, herunder «oppseiing, avskjed, suspensjon, personalsak, trakassering, utstøyting, fråtaking av arbeidsoppgåver,
-endra arbeidsplass eller andre negative reaksjonar som har karakter av straff eller sanksjonar»,
-men at man som varsler likevel må kunne tåle saklige motargumenter angående de påståtte kritikkverdige forholdene.
-Det fremgår av retningslinjene at det er mulig
-å varsle anonymt, men at det i utgangspunktet er
-ønskelig at varsling skjer åpent fordi det vil bidra
-til å få saken best mulig opplyst. Anonym varsling
-kan skape «mistru og gi svekka tillit på arbeidsplassen».
-Videre fremgår det at den som varsler, har
-krav på bekreftelse om at varselet er mottatt, men
-at videre saksbehandling kan være underlagt lovbestemt taushetsplikt, for eksempel i personalsaker.
-Hvem som skal håndtere varselet, herunder
-vurderinger av habilitet, er ikke omtalt særskilt i
-retningslinjene, men Lindås kommune har en
-egen varslingsgruppe for varsling utenfor linja.
-Lindås kommune har ikke etablert en ekstern
-varslingskanal.
-
-125
-
-Kapittel 8
-
-gang og et bedre resultat for alle involverte parter».
-Når det gjelder informasjon, slår retningslinjene fast at varsleren skal få skriftlig tilbakemelding om behandlingen, og av varslingsplakaten
-følger det at denne tilbakemeldingen skal gis
-innen én uke. Videre fremgår det at varsleren skal
-få en ordentlig forklaring dersom kritikken er
-grunnløs eller baserer seg på en misforståelse.
-Retningslinjene slår fast at interne varslingssaker skal behandles av ledergruppen. Habilitet ved
-slik behandling omtales ikke.
-Det åpnes for at den enkelte virksomhet kan
-etablere eksterne varslingskanaler.
-SAS
-
-NHO har utarbeidet forslag til varslingsrutine og
-en varslingsplakat for sine medlemsbedrifter som
-beskriver hva man kan varsle om, hvordan man
-kan eller bør gå frem i forbindelse med varsling
-mv. Retningslinjene og varslingsplakaten kan tilpasses den enkelte virksomhet.
-Varslingsplakaten nevner ikke gjengjeldelse,
-men det står at den som varsler ikke skal straffes.
-Retningslinjene og varslingsplakaten slår fast
-at varsling kan skje anonymt, men av plakaten følger det at «åpenhet normalt vil sikre bedre saks-
-
-SAS har utarbeidet varslingsrutiner for varsling
-om interne forhold.97 I tillegg er varsling omtalt i
-deres Code of Conduct, som jevnlig gjennomgås
-av alle ansatte. Videre er det inntatt et punkt i
-egenmeldingsskjema ved sykefravær som gir
-mulighet til å gi beskjed om fraværet kan skyldes
-forhold på arbeidsplassen.
-Det presiseres flere ganger i SAS’ varslingsrutiner at ansatte skal kunne være trygge på å
-varsle internt uten at dette skal få negative konsekvenser for vedkommende. Videre trekkes forbudet mot gjengjeldelse i arbeidsmiljøloven frem, og
-det gis eksempler på hva som kan være ulovlig
-gjengjeldelse: «ulike former for mobbing/trakassering/utfrysing», «at arbeidstaker ikke får naturlig utvikling i lønns- og arbeidsvilkår», «at arbeidstaker ikke får naturlig utvikling i arbeidsoppgaver» og «oppsigelse/avskjed». Det presiseres at
-den som mottar varselet har et ansvar for å bidra
-til at varselet ikke får negative konsekvenser for
-varsleren.
-I rutinene oppfordres ansatte til å oppgi hvem
-de er når de varsler av hensyn til oppfølging og
-informasjon, men det presiseres at «dersom
-arbeidstaker ikke ønsker å stå frem med navn er
-det bedre at det varsles anonymt enn at det ikke
-varsles i det hele tatt». Av SAS’ Code of Conduct
-følger det at ansatte kan varsle anonymt.
-Rutinene slår fast at varsleren skal få tilbakemelding om hva som gjøres med forholdet, også
-dersom det besluttes at varselet ikke skal følges
-opp.
-Retningslinjene omtaler ikke habilitet i forbindelse med oppfølging av varselet.
-
-96
-
-97
-
-8.8.4
-
-Privat sektor
-
-NHO
-
-Lindås kommune, Rettleiar for tilsette som vil varsle om
-kritikkverdige forhold i Lindås kommune.
-
-SAS, Varsling om interne forhold, publisert 23. mars 2012,
-sist endret 1. juli 2017.
-
-[Side 126]
-
-126
-
-NOU 2018: 6
-
-Kapittel 8
-
-8.9
-
-Varsling – verdier og vern
-
-Varslingsutvalgets
-innspillskonferanse
-
-8.9.1 Innledning
-I henhold til mandatet skal utvalget redegjøre for
-hvilke forhold som påvirker prosessen og utfallet
-av en varslingssak. Utvalget skal også drøfte hvilken rolle myndighetene, domstoler, fagforeninger,
-tillitsvalgte og verneombud har i varslingssaker,
-herunder om eksisterende aktører og organer
-dekker behovet for informasjon, veiledning og
-tvisteløsning. I henhold til mandatet skal også
-utvalget «innhente erfaringer og synspunkter fra
-personer, arbeidsgivere og virksomheter som har
-praktisk erfaring med varslingssaker i ulike sektorer, herunder eksterne varslingsmottakere».
-Utvalget inviterte til innspillskonferanse
-23. mai 2017 i Fritt Ords lokaler. På konferansen
-samlet utvalget en rekke deltakere med erfaringer
-fra og synspunkter på varsling og varslingsreglene til en dag med diskusjon om spørsmål knyttet til de to problemstillingene som trekkes frem i
-mandatet.
-
-Boks 8.3
-Tirsdag 23. mai 2017 i Fritt Ords lokaler
-Program
-–
-–
-
-–
-
-Innledning til dagen ved Knut Olav Åmås,
-direktør i Fritt Ord
-Gruppediskusjoner om: Hvilke forhold
-påvirker varslingsprosessen og utfallet av
-en varslingssak – Hva er de største utfordringene?
-Gruppediskusjoner om: Dekker ulike aktører som offentlige myndigheter, domstolene, fagforeninger, tillitsvalgte og verneombud behovet for informasjon, veiledning
-og tvisteløsning i varslingssaker?
-
-Deltakere: Varslere, tillitsvalgte, verneombud,
-representanter fra HR-avdelinger, eksterne
-varslingsmottak,
-offentlige
-myndigheter
-(Arbeidstilsynet, politiet, Helsetilsynet, Sivilombudsmannen, Kommunal- og moderniseringsdepartementet), advokater, media og forskere.
-Møteleder: Gitte Haugnæss, Agenda
-Kaupang
-
-Det var 56 deltakere som var fordelt på seks
-grupper med representanter fra varslere, varslingsmottakere,
-tillitsvalgte,
-verneombud,
-eksterne varslingsmottak, advokater, media og
-forskere. Medlemmer i utvalget fungerte som
-ordstyrere i gruppene. Utvalget innhentet bidrag
-fra forskningssjef på Fafo, Sissel Trygstad, som i
-samarbeid med utvalgets sekretariat hadde utarbeidet korte bakgrunnsnotater som grunnlag for
-diskusjonene. Bakgrunnsnotatene og spørsmålene som skulle diskuteres, var sendt ut til deltakerne på forhånd.
-
-8.9.2
-
-Hvilke forhold påvirker varslingsprosessen og utfallet av en
-varslingssak?
-Bakgrunnsnotatet beskrev forskning knyttet til
-hva det blir varslet om, varslingsaktivitet og varslingseffektivitet, konsekvenser av å varsle og
-kunnskap om regelverk og rutiner. Bakgrunnsnotatet var bygget på mye av den samme forskningen som er gjennomgått foran i punkt 7.3.
-Gruppene fikk i oppdrag å diskutere følgende
-problemstillinger:
-– Hva er de største utfordringene i varslingssakene?
-– Foreligger det uklarheter om hva varsling er,
-hva man kan varsle om, hvordan man kan
-varsle på en forsvarlig måte eller hva gjengjeldelse er?
-– Hvorfor er det uklart?
-– Hvordan redusere slike uklarheter?
-– Hvordan få flere arbeidstakere til å varsle om
-kritikkverdige forhold?
-– Hvilke utfordringer oppstår når arbeidsgiver
-skal håndtere varslingssaker?
-– Hvordan håndtere varsel der sjefen er
-ansvarlig for det kritikkverdige?
-– Hvordan unngå at en varslingssak skaper
-splittelse på arbeidsplassen?
-Stikkordene nedenfor kan være representative for
-synspunktene på hva deltakerne opplever som de
-største utfordringene i varslingssaker:
-– At det er vanskelig å avklare de faktiske forholdene og hva som skjedde først, begynte det
-som en personalsak eller med et varsel?
-– At det er usikkert hva som er et varsel kontra
-rapportering eller avviksmelding.
-– At det er uklart hva som er varsling, gjengjeldelse og hva som ligger i det å ha varslerstatus.
-– At det mangler kunnskap om at arbeidstaker i
-mange tilfeller har en plikt til å varsle.
-
-[Side 127]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-–
-–
-–
-–
-–
-–
-–
-–
-–
-
-–
-–
-–
-–
-
-At deltidsansatte, midlertidig ansatte og andre
-med usikker jobbtilknytning ikke tør å varsle.
-At det er uklart når en arbeidstaker er blitt en
-varsler.
-At loven bygger på et speilvendt prinsipp ved å
-stille et forsvarlighetskrav til varslingen.
-At det er vanskelig å sikre en nøytral og habil
-behandling av varselet.
-At varsling, varsel og varsler har blitt begrep
-som er belastet og som mange ønsker å unngå.
-At varsling føles utrygt og får konsekvenser for
-karrieren til den som varsler.
-At virksomhetene ikke har erfaring med å
-håndtere uenighet og mangler trening i å se
-kritikk som noe positivt.
-At det handler om psykologi og makt i arbeidslivet, og ikke regelverket.
-At manglende forskning på de som faller ut av
-arbeidslivet og hemmelige sluttavtaler gjør det
-vanskelig å få oversikt over hvordan det går
-med de verste sakene.
-At det kun er de få som blir tatt inn ved Jobbfast
-på Haukeland Universitetssykehus som får
-hjelp av helsevesenet.
-At det ikke er noen eksterne som tar over
-arbeidsgivers omsorgsansvar for arbeidstaker
-når arbeidsgiver ikke makter dette.
-At dokumentasjons- og bevisspørsmål gjør at
-gjengjeldelsesvernet ikke fungerer tilstrekkelig.
-At den pønale effekten er for dårlig – selv en
-erstatning på 100 000 kroner vil ofte medføre
-tap for varsleren, og signaliserer til arbeidsgiver at den økonomiske konsekvensen ikke er
-all verden.
-
-I diskusjonene rundt de mer konkrete problemstillingene, samlet deltakerne seg under noen
-hovedsynspunkter:
-– God håndtering av varslingssaker handler mer
-om kultur enn regler. Det må etableres en
-åpenhetskultur, og vi må tørre å diskutere og ta
-opp feil og mangler.
-– Ledelsen må være positiv til varsling og bevisst
-på hvordan varslere bør behandles.
-– Lovens begreper er uklare og vanskelige å forholde seg til. Grensen mellom ytringsfrihet og
-lojalitetsplikt er vanskelig å trekke. «Kritikkverdige forhold» er et vanskelig begrep. Det er
-vanskelig å skille mellom varslinger og avvik,
-personalsaker og reelle varslingssaker. Det er
-uklart hva «forsvarlig fremgangsmåte» betyr,
-og det kan dermed bidra til å heve terskelen for
-varsling. Bestemmelsene i arbeidsmiljøloven
-gjør at oppmerksomheten flyttes fra det kritikk-
-
-–
-–
-
-–
-–
-
-127
-
-Kapittel 8
-
-verdige forholdet det varsles om, til måten det
-varsles på.
-Arbeidsmiljøloven bør inneholde en regel om
-aktivitetsplikt for arbeidsgiver som også innebærer å informere og ivareta varsleren.
-Virksomhetene må ha gode varslingsrutiner
-som sikrer informasjon og veiledning til alle de
-berørte, habilitet og forsvarlig saksbehandling.
-Dette er særlig viktig i små virksomheter.
-Tillitsvalgte og verneombud må involveres, og
-de må bli flinkere til å ta ansvar i vanskelige
-varslingssaker.
-Et varslerombud vil kunne være en uavhengig
-aktør som kan gi råd og veiledning og sikre en
-nøytral behandling av vanskelige saker.
-
-8.9.3
-
-Dekker ulike aktører behovet for
-informasjon, veiledning og
-tvisteløsning i varslingssaker?
-Spørsmålet til diskusjon i denne delen var om
-ulike aktører som offentlige myndigheter, domstolene, fagforeninger, tillitsvalgte og verneombud dekker behovet for informasjon, veiledning
-og tvisteløsning i varslingssaker. Forskningssjef
-Sissel Trygstad redegjorde for innholdet i bakgrunnsnotatet. Forskningen er nokså entydig når
-det gjelder hvem det varsles til; norske arbeidstakere følger linja når de varsler. I notatet ble offentlige myndigheters ansvar og roller, domstolenes
-rolle og tillitsvalgte og verneombudenes roller
-beskrevet nærmere.
-Gruppene fikk i oppdrag å diskutere følgende
-problemstillinger:
-– Hvorfor er det så få som varsler til myndighetene?
-– Hvilken rolle bør tilsynene ha i varslingssaker?
-– Hvor er behovet for opplæring størst og hvordan sikre at disse får opplæring i håndtering av
-varslingssaker?
-– Hvordan fungerer domstolene i varslingssaker?
-– Hvordan kan en varslingssak behandles og
-avsluttes på en måte som ivaretar de involverte?
-Nedenfor gjengis noen hovedsynspunkter fra diskusjonene:
-– Det oppfordres til å varsle «i linja», og at varslingssaker skal behandles på lavest mulig nivå.
-Mange føler at det å varsle noen utenfor virksomheten er å gå over en grense og kan virke
-eskalerende. Å varsle tilsynsmyndigheter kan
-dessuten innebære å miste kontrollen over
-situasjonen.
-
-[Side 128]
-
-128
-
-NOU 2018: 6
-
-Kapittel 8
-
-–
-–
-–
-–
-–
-–
-
-Varsling – verdier og vern
-
-Mange vet ikke at det er mulig å varsle til myndighetene eller hva myndighetene i tilfelle kan
-gjøre.
-Tilsynene skal drive tilsyn og har verken mandat eller kapasitet til å granske og gå inn i en
-konkret varslingssak.
-Tilsynene bør ha en tydeligere veiledningsplikt, på systemnivå. Det bør være en nasjonal
-guide for varslingssaker.
-Alle aktørene i varslingssaker trenger opplæring, både arbeidstakere, verneombud, tillitsvalgte og ledelsen i virksomheten.
-Varsling må inn som en del av virksomhetens
-HMS-system.
-Det er høy kvalitet i domstolene – utfordringen
-er knyttet til bevisspørsmålene.
-
-–
-–
-–
-
-–
-–
-–
-
-Det er ikke ønskelig at flere saker havner i
-rettsapparatet.
-Domstolene er et tid- og ressurskrevende apparat. Det bør opprettes nemnder med spesialkompetanse.
-Det viktigste for å avslutte en varslingssak på
-en god måte er å skape en god åpenhets- og
-ytringskultur i virksomheten, der det er ønsket
-og mulig å si fra om kritikkverdige forhold, og
-der det er kultur for å motta kritikk.
-Det er behov for et ombud, eller å kunne trekke
-inn noen utenfra, særlig i mindre kommuner
-og virksomheter.
-Det må være gode rutiner for alle deler av en
-varslingsprosess.
-To- og trepartssamarbeidet bør spille en sterkere rolle.
-
-[Side 129]
-
-Del III
-Vurderinger og forslag
-
-[Side 130]
-
-Figur 9.1
-
-[Side 131]
-
-131
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 9
-
-Kapittel 9
-
-Utvalgets overordnede vurderinger
-9.1
-
-Innledning
-
-Utvalget har fått i oppdrag å gjennomgå gjeldende
-regelverk om varsling i arbeidsmiljøloven for å
-vurdere om det er behov for å foreslå lovendringer eller andre tiltak som kan styrke varslervernet i arbeidslivet. Oppdraget er for så vidt
-avgrenset mot varsling og andre former for ytringer utenfor arbeidslivet. Utvalget har gjennom sitt
-arbeidet kommet frem til et målbilde som er gjengitt nedenfor i figur 9.2. I figuren forsøker vi å
-illustrere sammenhengen mellom nullvisjonen for
-arbeidslivet i Norge (ingen kritikkverdige forhold), varslingsinstituttets rolle som en metode
-for å avdekke kritikkverdige forhold og utvalgets
-mandat om å styrke vernet av varslerne. Det er
-
-mange måter samfunnet kan arbeide med å oppnå
-idealet om ingen kritikkverdige forhold. Her er
-det kun tatt med den delen som er direkte relevant for Varslingsutvalgets arbeid.
-Utvalget tar imidlertid utgangspunkt i at det
-overordnede for samfunnet er å avdekke og rette
-opp i kritikkverdige forhold. Som vist til flere steder i denne utredningen, kan varsling være en
-samfunnsøkonomisk svært lønnsom måte for å
-avdekke forhold som samfunnet har bestemt at
-man ikke ønsker at skal finne sted. Med det for
-øye har utvalget sett på retten til å varsle i et litt
-bredere perspektiv og drøfter også om andre
-grupper bør omfattes av varslingsregelverket og
-vernet mot gjengjeldelse.
-
-Nullvisjon for
-arbeidslivet:
-Ingen kritikkverdige
-forhold
-
-Kritikkverdige forhold som oppstår
-må avdekkes, håndteres og opphøre
-
-Varsling skal være en trygg og samfunnsnyttig
-måte å avdekke kritikkverdige forhold på
-
-Flest mulig
-varsler om
-observerte
-kritikkverdige
-forhold
-
-Figur 9.2 Målbilde
-
-Kostnadseffektiv håndtering
-på lavest mulig
-nivå
-
-Håndtering
-uten
-gjengjeldelse
-
-Ivaretakelse
-av varsleren
-
-Varslingsregler
-som er tydelige
-og tilgjengelige
-
-Kunnskap og
-holdninger om
-varsling
-
-[Side 132]
-
-132
-
-Kapittel 9
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Det følger av mandatet at det er et styrket vern
-av varslerne som er et førende hensyn for hva
-utvalget kan eller skal foreslå av nye tiltak.
-Forskning og annen kunnskap viser at det er en
-forutsetning for å få frem de kritikkverdige forholdene i samfunnet at de som har kunnskap om
-dem, som ofte vil være arbeidstakere, føler at de
-trygt kan gå videre med det de observerer.
-Ivaretakelse av hensynet til den som varsler,
-handler også om at varselet tas på alvor. Fafo har i
-sin forskning sett på hvordan varslingsmottakere
-håndterer det kritikkverdige forholdet som det
-varsles om. I Fafo 2016 I svarte varslingsmottakerne at de i 50 prosent av tilfellene undersøkte
-saken det ble varslet om og tok det opp med den
-saken gjaldt, mens 45 prosent svarte at de sendte
-saken videre til overordnede eller til virksomhetens varslingsmottak eller -enhet.1 I mange tilfeller vil det være slik at forholdet det ble varslet om
-faktisk viser seg ikke å være kritikkverdig, eller at
-arbeidsgiver eller andre varslingsmottakere ikke
-finner at det er alvorlig nok til å kunne prioriteres.
-Også i slike tilfeller er det viktig at det er gode
-prosesser og rutiner.
-Alle i Norge har et utstrakt ytringsfrihetsvern
-etter Grunnloven § 100. Arbeidstakere omfattes
-av det samme ytringsfrihetsvernet som alle andre.
-Spørsmålet om arbeidstakeres ytringsfrihetsvern
-kommer imidlertid i en særstilling fordi et
-arbeidsforhold også bærer i seg en plikt for
-arbeidsgiver og arbeidstaker til å opptre lojalt og
-aktsomt overfor hverandre. Ytringer i et arbeidsforhold kan ha stor betydning og slå tilbake på
-andre enn arbeidstakeren som ytrer seg, også på
-kolleger. Samtidig er det viktig å ikke tillegge lojalitetsplikten større vekt enn det er rettslig grunnlag for. Rundt halvparten av Norges befolkning er
-i en eller annen form for ansettelsesforhold. Hensynet til allmennheten taler for stor grad av
-ytringsfrihet for alle disse arbeidstakerne. Dette
-utgangspunktet har betydning for utvalgets drøftinger av om andre grupper kan være i en posisjon
-hvor de har behov for et særskilt vern mot gjengjeldelse.
-Ytringsfrihet og en reell mulighet til å kunne
-varsle om kritikkverdige forhold uten gjengjeldelse er først og fremst avhengig av en god og
-åpen ytringskultur og en god og trygg ledelse
-som tør, og ser verdien av, å være åpen for diskusjoner og uenighet. Nettopp dette er et hovedpoeng i følgende avsnitt, hentet fra NOU 1999: 27
-«Ytringsfrihed bør finde Sted» – Forslag til ny
-Grunnlov § 100:
-
-Manglende toleranse for uenighet i egne rekker kan ligge bak forsøk på å begrense ansattes
-ytringsfrihet. Dette kan igjen henge sammen
-med synet på uenighet som noe negativt og
-ikke som noe positivt. Uenighet kan imidlertid
-være begge deler, og man skal være forsiktig
-med å stemple opposisjon som illojalitet uten
-nærmere undersøkelser. Vi vil generelt advare
-mot at antydninger om illojalitet spilles ut som
-den første responsen på offentlig kritikk fra
-ansatte. Man bør heller ta den ansattes initiativ
-som en positiv utfordring og mulighet til ytterligere offentlig ordskifte – til nytte både for allmennheten og arbeidsplassen.2
-Varsling om kritikkverdige forhold kan bidra til å
-avdekke ulovlige og uønskede forhold i en organisasjon innenfor et meget bredt spekter av forhold
-som samfunnet har vurdert som uønskede; straffbare forhold som arbeidslivskriminalitet, miljøkriminalitet, korrupsjon og annen økonomisk kriminalitet, fare for pasienters liv og helse, skadelige
-arbeidsforhold, brudd på regler om personvernog informasjonssikkerhet, maktmisbruk mv. Det
-er viktig at arbeidstakere som har en særlig innsikt og kompetanse oppfatter at det er ønskelig og
-trygt å ytre seg om slike forhold. Ytringer fra
-ansatte i offentlig sektor bidrar til bedre kontroll
-med offentlige ytelser og ressursbruk.
-I forbindelse med Varslingsutvalgets arbeid
-har Oslo Economics fått i oppdrag å kartlegge og
-analysere den samfunnsøkonomiske verdien av
-varsling.3 Figur 9.3 er hentet fra rapporten, og
-illustrerer på hvilke måter et varsel kan gi virkninger.
-Det varsles om mange tusen kritikkverdige
-forhold årlig på norske arbeidsplasser. Oslo Economics legger til grunn at det varsles om mellom
-50 000 og 160 000 opplevde kritikkverdige forhold
-årlig. Av disse tas om lag 18 000 til 60 000 til følge.
-Et regneeksempel basert på en antakelse om hvor
-mange tilsynsmedarbeidere, politifolk og revisorer som ville vært nødvendig for å avdekke alle
-disse kritikkverdige forholdene uten varsling, tilsier at samfunnet spares for mellom en halv og 12
-milliarder kroner. Selv det laveste estimatet på
-hvilken verdi varsling har som avdekkingsmekanisme per i dag, tilsier at det er av meget stor samfunnsinteresse å iverksette tiltak som vil føre til at
-arbeidstakerne varsler om observerte kritikkverdige forhold i samfunnet.
-2
-
-1
-
-Fafo 2016 I.
-
-3
-
-NOU 1999: 27 s. 130.
-Oslo Economics (2017).
+Media vurderer om de skal gå videre med saken eller ikke. Beslutningen skjer så fort som mulig for å unngå «den lange ventetiden» for den som har varslet, og slik at det ikke blir varslet «til alle». Dersom saken ikke er oppfølgingsverdig, blir saken avsluttet og varsleren får beskjed om det.
+
+Media følger opp saken med presseoppslag
+
+Etter tilstrekkelig faktasjekk og andre undersøkelser følger media opp saken med én eller flere publiseringer som avdekker det kritikkverdige forholdet for allmennheten og for beslutningstakerne, slik at de som er ansvarlige, blir påvirket til å håndtere saken. Varsleren bør anerkjennes, og samfunnsnytten av varsling bør fremheves.
+
+1.  **Hjelpere og hindre for den ideelle prosessen**
+
+Utvalget har hatt en grundig diskusjon av hvilke faktorer som kan kalles hjelpere for de ideelle prosessene og hvilke som vil utgjøre hindre. I alle prosessene er det enkelte forhold som peker seg ut som hjelpere når de er til stede, og hindre når de mangler.
+
+Åpenhetskultur er den helt sentrale faktoren. Det må være rom for å ta feil og rom for å si fra om det, det må være rom for diskusjoner og meningsbrytninger. Kunnskap om varsling og varslingsprosesser er også en svært viktig faktor. Først og fremst er det viktig for arbeidsgiver og virksomhetsledelsen, men også varsleren selv, tillitsvalgte og verneombud og hele den øvrige organisasjonen bør ha nødvendig kunnskap. Levende varslingsrutiner og saksbehandlingsregler er andre viktige elementer, og en god prosess i virksomheten for å utvikle dette vil gi et godt bidrag til utvikling av både kultur og kunnskap. At arbeidsgiver er profesjonell i sin håndtering av varslingssaker er et annet sentralt element. Varsleren må ivaretas, og organisasjonen må ikke settes «sjakk matt» av slike prosesser. Det er selvsagt også viktig at arbeidsgiver er villig til å prioritere sakene og bruke nødvendige ressurser, både på varsleren og på å få løst det kritikkverdige forholdet. Sist, men ikke minst, er det antakelig helt avgjørende at varsleren, men også andre sentrale aktører, har mulighet til å søke råd og veiledning. Ofte vil det være kolleger, tillitsvalgte, verneombud eller andre kjente som er de nærmeste å gå til, men i mange tilfeller vil det også være behov for et sted å gå som kan gi mer profesjonell og målrettet bistand.
+
+1.  **Behovet for tiltak**
+
+*Utvalget* har gjennom sitt arbeid kommet til at det er behov for å foreslå tiltak av ulik karakter, med sikte på å styrke varslervernet i norsk arbeidsliv. På bakgrunn av kunnskapsinnhenting, identifiserte hovedutfordringer, etablering av målbildet og den ideelle prosess har *utvalget* arbeidet med sikte på å foreslå tiltak som samlet sett kan bidra til gode varslingsprosesser. De nærmere, konkrete tiltakene drøftes i de følgende kapitlene 10 til 13.
+
+1.  **Enkelte andre sentrale problemstillinger**
+
+Nedenfor drøftes enkelte andre problemstillinger i tillegg, som *utvalget* mener hører hjemme i det store og komplekse bildet som varsling og varslingsprosesser er.
+
+1.  **Personvern og kontradiksjon**
+
+Varsling forutsetter at det er mistanke om kritikkverdige forhold. Et varsel er ikke en konstatering av at kritikkverdige forhold foreligger. Dette innebærer at den mistanken retter seg mot, også har behov for vern. Det er viktige rettssikkerhetshensyn som gjør seg gjeldende her. Særlig er uskyldspresumsjonen og retten til kontradiksjon viktig for den som utsettes for mistanke om at vedkommende har opptrådt kritikkverdig. Dette er forhold som arbeidsgiver eller andre varslingsmottakere må være bevisste på når varselet skal behandles.
+
+I utvalgets mandat er det presisert at også hensynet til den det varsles om, skal ivaretas. Regelverket må i tilstrekkelig grad ivareta hensynet til kontradiksjon og nødvendig konfidensialitet.
+
+Private granskninger benyttes i stadig større omfang i forbindelse med at varsler om kritikkverdige forhold gjøres til gjenstand for undersøkelser. I forbindelse med granskning er det særlig følgende kategorier «kritikkverdige forhold» som granskes:
+
+- saker om økonomisk kriminalitet eller misligheter
+
+- arbeidsmiljørelaterte saker
+
+- andre former for varslingssaker
+
+Når det gjelder punkt 2, gjelder dette også saker om hvorvidt det har forekommet gjengjeldelse i henhold til arbeidsmiljøloven § 2 A-2.
+
+Advokatforeningen har en egen veileder for private granskninger.[^416] Denne gjelder der hvor advokater deltar i granskningsutvalg. Her er det særlig grunn til å fremheve kravet til uavhengighet i punkt 3.2 og kravet om relevant kompetanse i punkt 3.1, hvor det fremgår at de som påtar seg et granskningsoppdrag, samlet sett må inneha den nødvendige kompetanse til å gjennomføre granskningen. *Utvalget* vil bemerke at det kan være relevant å vurdere behovet for å koble inn organisasjonspsykologisk kompetanse i granskningsutvalg som gjelder psykososiale forhold, for eksempel ved granskning av påstander om gjengjeldelse. Både uavhengighet og riktig kompetanse i et granskingsutvalg vil bidra til tillit fra alle involverte, noe som er viktig for at granskningen skal kunne bidra til konfliktløsning. Disse prinsipper kan gi god veiledning også der hvor andre enn advokater deltar i granskningsutvalg.
+
+1.  **Varslere som utstøtes fra arbeidslivet må sikres ettervern**
+
+Varslere kan føle seg ensomme og isolerte, både på jobb og i sin personlige situasjon. De kan bli stengt ute av arbeidsfellesskapet med kollegene sine, og noen ganger kan trusler eller andre påkjenninger være involvert. Det kan bli vanskelig å fortsette i jobb der de var, eller å få nytt arbeid. Dette kan avhjelpes med et godt helsetilbud med god kompetanse på akkurat disse problemstillingene. Det kan være ønskelig med et tverrfaglig miljø, med lege, psykolog, fysioterapeut mv. som ser hele mennesket og alle utfordringer en varsler kan stå i. Et godt helsetilbud kan bidra til at færre ansatte vil ta «omkamp» om varslinger som er avsluttet. Ved adekvat profesjonell hjelp kan trolig noen komme seg videre og få verktøy og strategier for å legge saken bak seg.
+
+*Utvalget* viser til punkt 12.4.3 der det uttales at et ombud, som utvalget foreslår opprettet, må ha kompetanse på psykososiale tilstander, ombudet bør ha oversikt over hvordan man kan få bistand via helsetjenester og NAV, og også kunne anbefale en slik tilgang, dersom situasjonen tilsier det. *Utvalget* mener at slike tiltak vil kunne bidra til å opprettholde varslerens arbeidstilknytning og forhindre eller redusere negative helsemessige konsekvenser av å stå i en vanskelig varslingssak over tid.
+
+*Utvalget* har hatt et møte med representanter for «Jobbfast» og viser til omtalen av tilbudet i boks 7.1. *Utvalget* er opptatt av at det er ønskelig med et godt helsetilbud. Det vil generelt være samfunnsnyttig og kostnadsbesparende og få flere folk ut i jobb, og bidra til at varslere unngår å ende som arbeidsuføre eller arbeidsløse.
+
+1.  **Varslere må anerkjennes**
+
+Gjennom innspillskonferansen og annen informasjon er det pekt på viktigheten av at varslerne oppnår en anerkjennelse for det de gjør. Når man handler i henhold til sin overbevisning om hva som er grunnleggende rett og galt og risikerer å utsette seg for det ubehag som det kan innebære, er det ekstra viktig med «et klapp på skulderen». For samfunnet, som ønsker at flere kritikkverdige forhold avdekkes, er det viktig å stimulere til dette. Heder og anerkjennelse er derfor ett av flere relevante tiltak. Varsleren har behov for og skal ha anerkjennelse for det mot hun eller han viser ved å ta opp noe man mener er kritikkverdige forhold. Det gjelder uavhengig av om det i ettertid viser seg at det forelå et faktisk kritikkverdig forhold eller ikke. Slik anerkjennelse kan gis på flere måter.
+
+I en undersøkelse gjennomført av Fafo i 2016 oppga over halvparten av dem som hadde varslet, at de ble møtt med positive tilbakemeldinger fra ledelsen eller kolleger. Femten prosent oppga også å ha fått andre positive reaksjoner etter å ha varslet.[^417] Oslo Economics har i sin utredning pekt på at tiltak for å anerkjenne varslere kan være et lite kostbart bidrag til at det varsles mer, jf. punkt 3.4.6. Det finnes allerede enkelte tiltak som anerkjenner varslere, blant annet er Fritt Ords pris i flere tilfeller blitt utdelt til varslere. Slike tiltak vil være med på å høyne statusen for varsling og å kunne få flere til å varsle om kritikkverdige forhold.
+
+*Utvalget* mener at det å anerkjenne varslere i en organisasjon eller i offentligheten vil kunne være svært viktig for varsleren og virke holdningsskapende. I noen tilfeller vil det imidlertid kunne bli oppfattet som et lite «plaster på såret» som i liten grad kan kompensere for de konsekvensene som varslingen har medført. *Utvalget* legger til grunn at virkningen av å anerkjenne varslere vil avhenge av mange forhold i den konkrete saken, deriblant hvor konfliktfylt saken har vært, om prosessen har vært langvarig, varslerens oppfatning av anerkjennelsen og tidspunktet for den. Også hvem som gir uttrykk for anerkjennelsen er et viktig moment; om anerkjennelsen kommer fra arbeidsgiver, en uavhengig interesseorganisasjon eller blir gitt i form av positiv medieomtale. *Utvalget* mener det må være opp til den enkelte arbeidsgiver å vurdere hvordan anerkjennelse kan brukes på en hensiktsmessig måte i den enkelte sak, og har ikke funnet grunnlag for å anbefale noen konkrete tiltak i denne forbindelse.
+
+1.  **Juridiske tiltak**
+
+    1.  **Behov for juridiske tiltak som styrker varslervernet i arbeidslivet**
+
+Varslingsutvalget skal ifølge mandatet gjennomgå varslingsbestemmelsene i arbeidsmiljøloven og vurdere om det er behov for å foreslå lovendringer som kan styrke varslervernet i norsk arbeidsliv. Utvalget skal i den sammenheng sørge for at både den som varsler, og også den det varsles om, blir tilstrekkelig ivaretatt. En problemstilling som utvalget særlig skal vurdere er om «kritikkverdige forhold» og «forsvarlig fremgangsmåte» i arbeidsmiljøloven kapittel 2 A er hensiktsmessige begreper og avgrensninger.
+
+Utvalget skal også vurdere fordeler og ulemper med å ha varslingsreglene i arbeidsmiljøloven, sammenholdt med fordeler og ulemper med en egen lov om varsling, og på dette grunnlaget gi en anbefaling om lovplassering.
+
+Utvalget er med andre ord bedt om å vurdere om det er behov for juridiske tiltak i form av nye eller endrede lovregler om varsling i arbeidslivet. Med juridiske tiltak forstås i denne sammenhengen virkemidler for å endre personers og virksomheters atferd gjennom lover og forskrifter, reguleringer, tilsyn, kontroll mv.[^418]
+
+I tillegg til vern av varslere er et hovedmål med varslingsreglene å bidra til at ulovlige og uønskede forhold avdekkes og opphører. Allmenninteressen i at kritikkverdige forhold kommer frem og opphører er like sterk, uavhengig av hvem de oppdages av. Det er grunn til å vurdere om virkeområdet for varslingsreglene skal omfatte flere eller andre grupper enn i dag. Det kan gjelde grupper med en nær, men annen tilknytning til virksomheten enn ordinære arbeidstakere og innleide arbeidstakere, og det kan gjelde andre som har samme mulighet til å oppdage uregelmessigheter, for eksempel pasienter og pårørende i helseinstitusjoner, kunder, publikum mv.
+
+\#metoo-kampanjen, som har bidratt til å gi tusenvis av kvinner mot til å si fra om ubehageligheter de har opplevd, har avdekket saker både fra arbeidslivet og organisasjonslivet. Se omtale av \#metoo-kampanjen i boks 2.1 i kapittel 2. Kampanjen og sakene som har kommet i kjølvannet av den, har aktualisert behovet for å drøfte om det bør innføres lovregler om varsling også for grupper utenfor arbeidslivet, det vil si om politiske partier, interesseorganisasjoner og andre frivillige organisasjoner innen eksempelvis kultur og idrett bør omfattes av varslingsregelverket. Dette reiser spørsmålet om hva varsling innebærer. Det er viktig å ha med seg at et hovedformål med varslingsregelverket etter arbeidsmiljøloven i dag er å verne arbeidstakere som varsler mot gjengjeldelse. Hvilke grupper man eventuelt skal velge å inkludere i varslingsregelverket bør også drøftes i lys av spørsmålet om hvem som har behov for et særskilt gjengjeldelsesvern. Disse problemstillingene vurderes nærmere i sammenheng med spørsmålet om varsling bør reguleres i en egen lov, se punkt 10.3.
+
+I dette kapitlet har *utvalget* først og fremst vurdert behovet for juridiske tiltak i form av endringer i arbeidsmiljølovens regler om varsling om kritikkverdige forhold.
+
+Lovregler er viktige, men løser ikke alt, og er heller ikke egnet til å løse alt. Særlig gjelder dette forhold og hendelser som også kan dreie seg om relasjoner mellom mennesker.
+
+Varslingsutvalget har likevel gjennom kunnskapsinnhenting og andre innspill fått en klar oppfatning om betydningen av et klart og forståelig regelverk. På utvalgets innspillskonferanse var det mange som presiserte at utfordringene knyttet til varsling og varslingsprosesser handler mer om kultur enn juss, og at den største utfordringen er åpenhetskultur og holdninger til varsling og de som varsler. Det var ingen av deltakerne som tok til orde for omfattende (materielle) endringer i varslingsreglene i arbeidsmiljøloven. Et hovedinntrykk fra konferansen er imidlertid at lovens begreper og avgrensninger oppleves som uklare og vanskelige å forholde seg til. Det kan i verste fall bety at reglene hemmer istedenfor å fremme varsling.
+
+*Utvalget* har på bakgrunn av innspill et klart inntrykk av at det er mange som mener at «kritikkverdige forhold» er et utydelig begrep, og at det er vanskelig å skille for eksempel mellom hva som er personalkonflikter og arbeidsmiljøkonflikter som berører flere, faglig uenighet eller uforsvarlighet. Videre er inntrykket at det av mange oppfattes som uklart hva kravet til «forsvarlig fremgangsmåte» betyr. Det vises til nærmere omtale av innspillskonferansen i punkt 8.9. I innspill til utvalget ble det også etterlyst en regel som tydeliggjør arbeidsgivers plikt til å sørge for forsvarlig mottak og behandling av både varsel og varsler (aktivitetsplikt).
+
+Det er mange kjente varslingssaker og også nyere saker i kjølevannet av \#metoo-kampanjen som viser at det er varsleren, og ikke saken det varsles om, som kommer i fokus. Man blir først og fremst opptatt av om det er varslet forsvarlig eller om lojalitetsplikten til arbeidsgiver er overholdt, heller enn å fokusere på om varslingen gjelder regelbrudd eller andre kritikkverdige forhold. *Utvalget* mener at det er behov for tydeligere avgrensning i lovgivningen av hva som er et varsel og hvordan man skal varsle. En bedre kultur knyttet til verdien av et godt ytringsklima vil være et viktig bidrag, også for å flytte oppmerksomheten fra varsleren til varselet.
+
+Arbeidstakernes ytringsfrihet har sitt fundament i Grunnloven § 100. Arbeidsmiljølovens regler om varsling handler først og fremst om å gi arbeidstakere vern mot gjengjeldelse når de varsler om kritikkverdige forhold i arbeidsgivers virksomhet. Forskning viser at tre av fire arbeidstakere ikke opplever negative reaksjoner når de varsler, og at det store flertallet – 75 prosent – av de som oppga å ha varslet om et kritikkverdig forhold de siste 12 månedene, fikk positive reaksjoner på sin varsling. Samtidig indikerer undersøkelsene at halvparten av dem som observerer kritikkverdige forhold i norske virksomheter velger å ikke si fra. Et stort flertall av disse oppgir som begrunnelse at de frykter for negative konsekvenser i form av gjengjeldelse, se nærmere om dette i punkt 7.3. På utvalgets innspillskonferanse var det mange innspill knyttet til at vernet mot gjengjeldelse ikke er tilstrekkelig effektivt, herunder at lovens bevisbyrderegel ikke fungerer etter hensikten og at nivået på oppreisningsbeløp som tilkjennes i gjengjeldelsessaker er lavt. *Utvalget* drøfter også disse problemstillingene i kapitlet her.
+
+1.  **Hva kan løses med juridiske tiltak**
+
+Juridiske tiltak i form av lovendringer vil få direkte effekt på den rettslige reguleringen av rettigheter og plikter for arbeidstaker, arbeidsgiver og innleier i saker som behandles etter reglene om varsling i arbeidsmiljøloven. Lovgivningstiltak kan også ha symboleffekt og bidra til kulturendringer. At lovreglene om varsling klargjøres og gjøres lettere tilgjengelige for brukerne vil kunne bidra til å heve kunnskapen om varsling.
+
+Lovtiltak kan i denne sammenheng tenkes å omfatte mer enn klargjøring eller innføring av nye forbud og rettigheter ved varsling og i varslingsprosesser. Også regler om de ulike aktørenes rolle og myndighet for å dekke behovet for informasjon, veiledning og tvisteløsning i varslingssaker vil måtte hjemles i lov, se drøftelser nedenfor i kapittel 12 og om vurdering av andre typer tiltak i kapittel 11.
+
+*Utvalget* har på grunnlag av sin kunnskapsinnhenting og i tråd med mandatet kommet til at det er viktig å foreslå endringer i varslingsbestemmelsene i arbeidsmiljøloven, i tillegg til en anbefaling om en egen lov om varsling. Endringene i arbeidsmiljøloven skal bidra til å styrke vernet av varslere i arbeidslivet gjennom en hensiktsmessig klargjøring av reglenes virkeområde, innhold og avgrensninger. Dette kapitlet omhandler først og fremst arbeidsmiljøloven, det vil si varsling i arbeidslivet.
+
+Vurderingen av om lovens kriterier er oppfylt beror på flere skjønnsmessige vurderinger der et sett ulike momenter skal vektlegges, og som i dag ikke fremgår av lovteksten. Etter utvalgets oppfatning er det viktig at varslingsbestemmelsene i arbeidsmiljøloven både enkeltvis og sett i sammenheng bidrar til å legge til rette for en god varslingsprosess der det tilrettelegges for varsling, saker løses raskt og på et lavest mulig nivå, uten fare for gjengjeldelse og at oppmerksomheten rettes mot innholdet i varselet og ikke mot den som varsler.
+
+*Varslingsutvalget* foreslår lovendringer som klargjør lovens virkeområde, rekkevidden av varslingsreglene og lovens begreper. *Utvalget* foreslår presiseringer i loven som skal klargjøre sammenhengen mellom ytringsfrihet for arbeidstakere og varsling. Videre foreslås tiltak som skal bidra til å få i gang dialog, informasjon, opplæring og bevissthet rundt et godt ytringsklima og verdien av varsling som et gode for samfunnet. *Utvalget* foreslår å klargjøre hva som skal utløse de ulike aktørenes rettigheter og plikter ved varsling og i varslingsprosesser, og å i den sammenheng tydeliggjøre kravene til arbeidsgivers saksbehandling av varselet. *Utvalget* har også drøftet spørsmål knyttet til anonymitet og konfidensialitet ved varsling. *Utvalget* foreslår å klargjøre lovens regler om gjengjeldelsesforbud og bevisbyrde og foreslår en ny regel om objektivt erstatningsansvar ved gjengjeldelse. *Utvalget* har også diskutert om reglene om oppreisning og straff er tilstrekkelig effektive tiltak for å hindre gjengjeldelse ved varsling.
+
+Offentlig og privat sektor
+
+Varslingsreglene i arbeidsmiljøloven gjelder for arbeidstakere og innleide arbeidstakere i privat og offentlig sektor. Spørsmålet om betydningen av varsling og vern av varslere er svært aktuelt i offentlig sektor, eksempelvis innen helsevesen, kommunale tjenester og i politiet, hvor både brukere, pårørende og allmennheten kan ha interesse av å vite hva som foregår og eventuelt få informasjon om lovbrudd og andre kritikkverdige forhold. Allmennhetens interesse i det som tidligere ble sett på som rene virksomhetsinterne forhold, kan sies å ha økt i takt med en samfunnsutvikling, der det i stadig større grad legges til rette for brukerorientering og kundekrav. Rettsutviklingen synes også innenfor privat sektor å ha gått i retning av en økende legitimering av private selskapers samfunnsansvar.
+
+Det er viktig å avdekke kritikkverdige forhold hos dem som sitter med makt og som bruker offentlige bevilgede midler til sin virksomhet. Her kan arbeidstakernes varsel om kritikkverdige forhold spille en viktig rolle i tillegg til offentlig kontroll, slik som riksrevisjon, forvaltningsrevisjon, kontrollutvalgenes funksjon i kommuner og fylkeskommuner og annen demokratisk kontroll.
+
+Men også i privat sektor er det utfordringer som samfunnet har en sterk interesse i at avdekkes. I privat sektor er det også stor grad av maktutfoldelse. Det kan i denne sammenhengen vises til at arbeidslivskriminalitet (A-krim) har utviklet seg til et stort problem for samfunnet og arbeidslivet i Norge.[^419] Tips eller varsling er viktige verktøy for å avdekke og få bukt med disse utfordringene, herunder brudd på helse-, miljø- og sikkerhetsregler, ulovlig arbeids- og oppholdstillatelser og skatte- og trygdekriminalitet.
+
+1.  **Tipsflom om svart arbeid**
+
+A-krim-gruppen er veldig avhengig av tips.
+
+Det er veldig ofte at tipsene fører til konkrete resultater, sier Gro Ellingsen i Arbeidstilsynet til NRK Rogaland.<sup>1</sup>
+
+<sup>1</sup> https://www.nrk.no/rogaland/tipsflom-om-svart-arbeid-1.13822800 (lest 7. mars 2018)
+
+**\[Boks slutt\]**
+
+Selv om det kan være ulike krav med hensyn til lojalitet og åpenhet i privat og offentlig sektor, mener *Varslingsutvalget* at det ikke er grunnlag for prinsipielt å skille mellom privat og offentlig sektor rettslig sett. Det er på denne bakgrunn viktig å legge forholdene til rette for at kritikkverdige forhold kan avdekkes, uavhengig av sektor. Det er samtidig viktig å ivareta hensynet til arbeidsgiver og de skadevirkninger negativ omtale kan ha for en virksomhets omdømme.
+
+Etter *utvalgets* syn bør derfor tiltak for å styrke varslervernet i offentlig og privat sektor i utgangspunktet vurderes samlet. Når det gjelder lovens begreper og vurderingstema, kan det imidlertid tenkes at litt ulike momenter vil ha betydning for henholdsvis offentlig og privat sektor.
+
+1.  **Behov for en egen lov om varsling**
+
+Ifølge mandatet skal utvalget vurdere fordeler og ulemper ved dagens plassering av varslingsbestemmelsene i arbeidsmiljøloven og sammenholde disse med fordeler og ulemper ved en særlov, og gi sin anbefaling om lovplasseringen.
+
+*Varslingsutvalget* mener at lovregler om varsling i arbeidslivet fortsatt skal være regulert i arbeidsmiljøloven. Arbeidsmiljøloven er den grunnleggende loven for arbeidslivet i Norge. De mest sentrale bestemmelsene som regulerer et arbeidsforhold finnes i arbeidsmiljøloven, og loven er godt kjent og mye brukt. Reglene om varsling og vern mot gjengjeldelse ved varsling har og en klar sammenheng med mange andre deler av arbeidsmiljøloven, særlig gjelder det kravet til et fullt forsvarlig arbeidsmiljø og reglene om systematisk helse-, miljø- og sikkerhetsarbeid, samt stillingsvernsreglene. *Utvalget* foreslår derfor at regler som regulerer varsling i arbeidsforhold videreføres i arbeidsmiljøloven.
+
+*Varslingsutvalgets flertall, utvalgets leder og medlemmene Dahle, Dalheim, Eriksen, Jensen, Matthiesen, Rygh Monsen, Skog og Stenberg-Nilsen* mener at det er ønskelig med en egen lov om varsling. *Flertallet* mener at en egen lov vil kunne bidra til økt oppmerksomhet om varsling, om verdien av varsling og et godt ytringsklima. *Flertallet* har drøftet symboleffekten av en egen lov. For mange som observerer kritikkverdige forhold og vurderer hva de skal gjøre, ville det kanskje vært lettere å finne frem til regelverket hvis det var en egen lov om varsling. En egen lov om varsling kunne også gitt et tydelig signal om at varsling er viktig og at vern av varslere prioriteres.
+
+*Mindretallet, medlemmet Opstad Sunde*, er usikker på om det er hensiktsmessig med en egen lov om varsling, og ønsker en særskilt utredning og evaluering av spørsmålet før det konkluderes med at en slik lov bør gis.
+
+*Varslingsutvalget* foreslår i punkt 12.4 at det skal etableres et særskilt Varslingsombud. Etter *utvalgets* mening bør en ny lov om varsling inneholde regler om Varslingsombudets organisasjon og virksomhet. Se nærmere om dette i punkt 12.4.3. *Et flertall i utvalget*, slik som det fremgår i punkt 12.5, foreslår at det oppnevnes en egen tvistenemnd for varslingssaker. *Utvalget* mener at lovregulering av en slik nemnd også bør reguleres i samme lov som Varslingsombudet. Samtidig presiserer *utvalget* at ordningen med ombud og nemnd bør iverksettes straks, selv om det tar noe lengre tid å få utredet en ny varslingslov. Det innebærer at en ombuds- og nemndsordning eventuelt bør lovfestes i en egen varslingsombuds- og nemndslov, eventuelt hjemles i arbeidsmiljøloven.
+
+En nærmere redegjørelse for hva som bør være virkeområde og nærmere innhold i en egen varslingslov (utover regler om Varslingsombud og -nemnd) vil kreve en omfattende analyse. *Varslingsutvalget* har ikke hatt mandat eller kapasitet til å gjennomføre et slikt utredningsarbeid. *Utvalget* understreker imidlertid at selv om det ikke skulle bli opprettet et eget Varslingsombud, så bør det likevel tilrettelegges for egen lov.
+
+*Varslingsutvalget* vil også peke på at det kan være grunn til å følge samfunnsutviklingen på dette feltet nøye, også debatten knyttet til varsling internasjonalt.[^420] Sakene om seksuell trakassering og maktmisbruk som er avdekket gjennom \#metoo-kampanjen det siste året, viser tydelig at det også innenfor andre områder enn i arbeidslivet og det tradisjonelle arbeidsforholdet foregår kritikkverdige forhold, og at den som varsler om slike forhold, bør bli ivaretatt. Også i andre sammenhenger kan det være slik, for eksempel innenfor religiøse organisasjoner, idrettsorganisasjoner og andre frivillige organisasjoner. I mange av disse tilfellene kan det på tilsvarende måte som i arbeidslivet være maktkonstellasjoner og relasjoner som tilsier at aktørene i en varslingsprosess har behov for den beskyttelse som for eksempel gode varslingsrutiner vil kunne gi.
+
+*Utvalget* mener at det er viktig at myndighetene har dette under oppsikt og vurderer om det er et behov for lovregulering av et varslingsvern også på andre samfunnsområder som nevnt over. *Utvalget* vil anbefale at det igangsettes en egen utredning av dette spørsmålet. I den forbindelse vil en egen varslingslov på sikt være lettere å bre ut til områder utenfor arbeidslivet.
+
+*Utvalget* vil samtidig oppfordre alle samfunnsaktører til å arbeide aktivt for en god og trygg åpenhetskultur i alle deler av samfunnslivet. Arbeidsmiljølovens regler kan være en mal eller et eksempel for hvordan regler og retningslinjer for varsling kan utformes også på andre områder.
+
+*Varslingsutvalgets medlem Jensen* har følgende særmerknad:
+
+*Dette medlemmet* mener det haster med å utarbeide en egen lov om varsling, og anbefaler at dette arbeidet igangsettes så raskt som mulig. En egen varslingslov, med enkelte parallelle bestemmelser i arbeidsmiljøloven, vil ha stor symbolkraft og vil dessuten gjøre det enklere for alle varslere å orientere seg om sine grunnleggende rettigheter, uavhengig av hvorvidt varselet skjer i et ansettelsesforhold som omfattes av arbeidsmiljøloven. Slik *dette medlemmet* oppfatter utvalgets flertall, legges det i for stor grad vekt på varsling som et arbeidsmiljøfenomen. En egen lov om varsling vil kunne fremheve det samfunnsmessige perspektivet ved varsling, slik det er uttrykt ønske om fra mange hold.
+
+En egen lov om varsling vil etter *dette medlemmets* oppfatning naturlig også omfatte andre grupper enn de som omfattes av arbeidsmiljøloven. Blant annet er det naturlig at de grupper som regnes opp i arbeidsmiljøloven § 1-6 bør være omfattet, se liste i punkt 10.6.4.
+
+*Dette medlemmet* mener at disse gruppene bør være omfattet av varslervernet, uavhengig av om de «utfører arbeid i virksomhet som er omfattet av loven», slik utvalgets flertall legger opp til. Etter *dette medlemmets* oppfatning vil flertallets forslag på dette punktet dessuten være svært krevende å håndtere bevismessig og er, etter *dette medlemmets* syn, ikke i tråd med prinsippet om at det er det samfunnsmessige perspektivet ved varslingen som er det sentrale.
+
+I tillegg til grupper som nevnt ovenfor mener *dette medlemmet* at det også bør vurderes å innlemme andre grupper, for eksempel tillitsvalgte i organisasjoner, politiske partier og lignende, samt ulike grupper som utfører arbeid eller tjenester regulert gjennom andre avtaleformer, for eksempel bemanningsentreprise.
+
+*Dette medlemmet* mener at en egen lov om varsling bør inneholde følgende elementer:
+
+- Formålsbestemmelse
+
+- Virkeområde
+
+- Definisjoner
+
+- Arbeidstakers ytringsrett – henvisning til Grunnlovens § 100
+
+- Hvilke forhold som omfattes av varslingsreglene
+
+- Fremgangsmåten ved varsling
+
+- Gjengjeldelsesforbud
+
+- Taushetsplikt
+
+- Etterforskningsforbud
+
+- Varslerombud.
+
+  1.  **Arbeidsmiljølovens formålsbestemmelse**
+
+      1.  **Gjeldende rett**
+
+Arbeidsmiljøloven § 1-1 angir lovens formål. Formålsbestemmelsen skal først og fremst gi veiledning, ved at den angir retning, gir inspirasjon og gir uttrykk for lovens overordnede visjon og verdisyn.
+
+Formålsbestemmelsen gir også informasjon om hensikten med regelverket og viktige forutsetninger som ligger til grunn for reglene. Den vil derfor ha en mer eller mindre direkte rettslig betydning, selv om formålsbestemmelsen i seg selv ikke innebærer noen bindende materiell regulering. Tolkning av lovens materiellrettslige bestemmelser skal skje i lys av formålet og formålsangivelsen og kan derfor etter omstendighetene være avgjørende for tolkningsresultatet.[^421]
+
+1.  **Arbeidsmiljølovens formålsbestemmelse**
+
+*§ 1-1. Lovens formål*
+
+Lovens formål er:
+
+a\) å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som gir full trygghet mot fysiske og psykiske skadevirkninger, og med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,
+
+b\) å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet,
+
+c\) å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,
+
+d\) å gi grunnlag for at arbeidsgiver og arbeidstakerne i virksomhetene selv kan ivareta og utvikle sitt arbeidsmiljø i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig myndighet,
+
+e\) å bidra til et inkluderende arbeidsliv.
+
+**\[Boks slutt\]**
+
+1.  **Erfaringer med reglene**
+
+Både forskning og undersøkelser som er gjennomført de senere årene, bekrefter inntrykket som ble fremhevet i begge rapportene fra evalueringen av varslingsreglene[^422], om at det er behov for en bevisstgjøring og holdningsendring om varsling og ytringsfrihet i arbeidslivet. Ulike undersøkelser Fafo har gjennomført om varsling og ytringsfrihet i norsk arbeidsliv viser at selv om det i hovedsak oppleves å være et godt ytringsklima på norske arbeidsplasser, oppleves det ikke alltid som like lett å si fra. Se nærmere om disse i punkt 7.3. En undersøkelse utført blant medlemmer i ulike arbeidstakerorganisasjoner bekrefter dette inntrykket og viser og at det er visse bransjeforskjeller, blant annet betrakter ansatte i staten ytringsklimaet som dårligere enn ansatte i privat og kommunal sektor.[^423]
+
+Utvalget har gjennom sin kunnskaps- og erfaringsinnhenting, blant annet på innspillskonferansen, fått flere innspill som understreker at det må gis tydelige signaler om at det er viktig med en åpen ytringkultur og at man erkjenner verdien av varslere og varsling. *Utvalget* mener at det er behov for lovendringer og lovregler som tydeligere enn dagens regelverk kan signalisere og anerkjenne ytringsfrihet og varsling som noe ønsket og positivt i norsk arbeidsliv.
+
+1.  **Utvalgets vurdering og forslag**
+
+Gode reelle muligheter til å si fra om feil og mangler er et vesentlig trekk ved et godt arbeidsmiljø og en sunn bedriftskultur. Det er viktig at forholdene legges til rette for at arbeidstakere melder fra om kritikkverdige forhold i virksomheten. Ytringsklimaet har stor betydning for hvordan kritikkverdige forhold blir håndtert.
+
+Som nevnt innledningsvis mener utvalget at lovgivning også kan bidra til å skape eller påvirke kultur. Det omfattende røykeforbudet i den såkalte «røykeloven», som trådte i kraft i 2004, er et mye brukt eksempel på at regler kan utvikle kultur.[^424] *Utvalget* legger til grunn at det er behov for forsterkede regler for å initiere og påvirke ytringskultur. Det vil være et viktig signal dersom arbeidsmiljølovens formålsparagraf inneholder en bestemmelse som uttrykkelig vektlegger hensynet til ytringsklima som en sentral faktor for et sikkert og godt arbeidsmiljø.
+
+Arbeidsmiljøloven er primært en vernelov for arbeidstakerne. Virksomhetenes og samfunnets behov er derfor i utgangspunktet ikke en del av arbeidsmiljølovens formålsbestemmelse, selv om dette også er forhold som hensyntas i loven. I lovforarbeidene til arbeidsmiljøloven understrekes det at det er viktig at formålsbestemmelsen primært fokuserer på arbeidervern og arbeidsmiljø, mens hensynet til virksomhetenes interesser og generelle samfunnsinteresser først og fremst vil komme til uttrykk og må anses ivaretatt gjennom utformingen av lovens enkeltbestemmelser.[^425] Samtidig kan det argumenteres for at et godt ytringsklima også gir et vern for arbeidstakerne, all den tid det minsker muligheten for å bli utsatt for gjengjeldelse ved varsling, samt at det bidrar til åpenhet og senker konfliktnivået, til beste for alle.
+
+Her skal det også understrekes at reglene om varsling i arbeidsmiljøloven skal ivareta flere hensyn. Reglene bygger både på det grunnleggende hensynet til et godt ytringsklima og hensynet til virksomheten og samfunnsinteressen generelt i at kritikkverdige forhold avdekkes, samtidig som et hovedformål er å gi arbeidstakere som varsler vern mot gjengjeldelse. I forarbeidene til varslingsreglene er det lagt til grunn at det er arbeidsgivers ansvar å sørge for å tilrettelegge for et godt ytringsklima i virksomheten, blant annet gjennom etablering av varslingsrutiner. Etter *utvalgets* oppfatning vil en tilføyelse i loven om behovet for et godt ytringsklima derfor kunne passe godt inn i formålsbestemmelsens overordnede og prinsipielle karakter.
+
+Samtidig som hensynet til ytringsfrihet og et godt ytringsklima er spesielt aktuelt når det gjelder lovens særlige kapittel om varsling, vil det også ha relevans for andre bestemmelser i loven, særlig kapittel 3 og 4 om krav til arbeidsmiljøet og virkemidler i arbeidsmiljøarbeidet. Det kan også tale for at hensynet til et godt ytringsklima bør reflekteres i lovens formålsbestemmelse.
+
+På denne bakgrunn foreslår *utvalget* at lovens formålsbestemmelse utvides til også å omfatte hensynet til et godt ytringsklima. En ny bokstav b) i arbeidsmiljøloven § 1-1 kan eksempelvis formuleres slik:
+
+*b) å legge til rette for et godt ytringsklima i virksomheten.*
+
+1.  **Forholdet mellom varslingsreglene og ytringsfriheten**
+
+    1.  **Gjeldende rett**
+
+Utgangspunktet er at arbeidstakere har ytringsfrihet på linje med alle andre. Ansattes ytringsfrihet er beskyttet av den alminnelige bestemmelsen om ytringsfrihet i Grunnloven § 100 med de begrensninger som eventuelt vil følge av den ulovfestede lojalitetsplikten som gjelder i alle arbeidsforhold. Ansatte har rett til å uttale seg kritisk om faktiske forhold på arbeidsplassen eller delta i debatt om spørsmål som berører virksomheten. Et ansettelsesforhold reiser likevel visse særlige spørsmål, fordi arbeidsgiver, innen visse rammer, har krav på den ansattes lojalitet. For å overholde lojalitetsplikten til arbeidsgiver kan den ansatte etter forholdene bli nødt til å avstå fra visse ytringer. Se nærmere om ytringsfrihetens grenser i arbeidsforhold i punkt 4.1.5.
+
+Varslingsreglene i arbeidsmiljøloven skal bidra til å styrke den reelle ytringsfriheten i arbeidsforhold.[^426] Bestemmelsene har som formål at det skal gjelde klare og presise regler for arbeidstakere som sier fra om kritikkverdige forhold i virksomheten.[^427]
+
+1.  **Utvalgets vurdering og forslag**
+
+Det er blitt hevdet at dagens varslingsregler er defensive med hensyn til behovet for økt åpenhet og gir sterke signaler om begrensninger i ytringsfriheten og retten til å varsle, slik at hovedregelen og utgangspunktet om ytringsfrihet er underkommunisert. Både på innspillskonferansen og i andre innspill til utvalget er det flere som har pekt på vi bør ha et regelverk som legger til rette for en åpenhetskultur og et godt ytringsklima i virksomhetene. Norges nasjonale institusjon for menneskerettigheter anbefaler i sin årsmelding for 2016 at arbeidsmiljølovens bestemmelser om varsling bør utformes slik at de ivaretar ytringsfriheten på best mulig måte.[^428]
+
+Etter *utvalgets* oppfatning kan det være grunn til å vurdere om varslingsreglene bør inneholde en henvisning til den generelle ytringsfriheten i Grunnloven § 100. Selv om en slik henvisning ikke er nødvendig rettslig sett, kan det være ønskelig både av opplysningshensyn og pedagogiske hensyn at loven inneholder en slik klargjøring. Det er likevel usikkert hvilken effekt det vil kunne ha på arbeidstakernes tilbøyelighet til å varsle, og om det vil bidra til at arbeidstakere i større grad vil benytte seg av sin ytringsfrihet i arbeidsforholdet.
+
+En utfordring er at ethvert forsøk på formuleringer av ytringsfriheten i arbeidsmiljølovens regler om varsling kan bli oppfattet som å innebære en begrensning av ytringsfriheten etter Grunnloven § 100. Det kan i denne sammenheng vises til at det i departementets høringsbrev i 2005 ble fremmet følgende forslag:
+
+§ 2-4. *Arbeidstakers ytringsfrihet*
+
+Arbeidstaker har rett til på egne vegne å ytre seg om forhold som berører virksomheten, jf. Grunnloven § 100, herunder ytringer om politiske og faglige spørsmål.[^429]
+
+Forslaget ble ikke fulgt opp i Ot.prp. nr. 84 (2005–2006) med følgende begrunnelse:
+
+Hensikten med en generell bestemmelse om arbeidstakers ytringsfrihet, vil for det første være å gi klare signaler om at ansattes ytringsfrihet er svært vid og at arbeidstakeres deltakelse i politisk og faglig debatt i utgangspunktet både er lovlig og ønskelig. For det andre vil det være et formål å gi partene større klarhet og forutberegnelighet enn i dag når det gjelder ytringsfrihetens grenser. Høringsrunden viser imidlertid at forslaget til en generell bestemmelse om ansattes ytringsfrihet, slik det er formulert i høringsutkastet, vil kunne gi inntrykk av en for snever ytringsfrihet. Dersom dette skulle bli tilfellet, vil bestemmelsen åpenbart virke mot sin hensikt og ikke gi den veiledning og forutberegnelighet som etterstrebes. Samtidig er det etter departementets oppfatning vanskelig å komme fram til en alternativ lovtekst som er dekkende, treffende og mer informativ enn høringsforslaget. Departementet mener dessuten at det er varsling som det er viktigst å regulere i loven, \[…\]. På denne bakgrunn er departementet kommet fram til at det ikke vil legge fram forslag om regulering av ansattes ytringer generelt.[^430]
+
+*Utvalget* ønsker ikke å foreslå en generell bestemmelse om ansattes ytringsfrihet, som var det som lå i forslaget fra 2005. Etter utvalgets mening er det, av rent informative og pedagogiske hensyn, likevel behov for å tydeliggjøre at retten til å varsle om kritikkverdige forhold er en del av den alminnelige ytringsfriheten. *Utvalget* foreslår derfor å ta inn en henvisning til Grunnloven § 100 i varslingsreglene i arbeidsmiljøloven, som ikke er ment å innebære noen rettslig endring.
+
+Skisse til lovtekst
+
+*Varslingsutvalget* har delt seg med hensyn til utforming av en skisse til lovtekst.
+
+*Varslingsutvalgets flertall, medlemmene Dahle, Eriksen, Jensen, Matthiesen, Rygh Monsen og Skog* foreslår en tydelig henvisning til Grunnloven § 100 og den alminnelige ytringsfriheten, med følgende formulering, som enten kan tas inn som en egen paragraf eller som et første ledd i arbeidsmiljøloven § 2 A-1:
+
+*Arbeidstaker har rett til å ytre seg om forhold i virksomheten, i overensstemmelse med Grunnloven § 100.*
+
+*Flertallet* mener at en slik henvisning er viktig, primært av pedagogiske hensyn. *Flertallet* viser til at det er en utfordring at den alminnelige ytringsfriheten på den ene siden og varslingsreglene på den andre har helt ulikt utgangspunkt. Varslingsreglene innebærer en «speilvending» av ytringsfriheten etter Grunnloven § 100 og Den europeiske menneskerettserklæringen (EMK) artikkel 10. Etter § 100 og artikkel 10 har man ytringsfrihet om dette ikke er (tilstrekkelig begrunnet) forbudt. Det vises til at varslingsregelen er motsatt. Den har som utgangspunkt å redegjøre for hvilke positive vilkår som må være oppfylt for at man skal bli «godkjent» som varsler. På denne bakgrunn fremstår det fortsatt, etter *flertallets* oppfatning, som om varsling er «forbudt» dersom vilkårene ikke er oppfylt. *Flertallet* mener at det må komme klarere frem at varsling er en utvidelse av den alminnelige ytringsfriheten, ved at ytringer som oppfyller kriteriene for varsling nyter et forsterket vern. Dette mener *flertallet* at kan gjøres ved å legge inn en tydelig henvisning fra varslingsreglene i arbeidsmiljøloven til ytringsfriheten og § 100, før man fastsetter hva det kan varsles om og fremgangsmåten ved varsling.
+
+*Varslingsutvalgets mindretall, utvalgets leder og medlemmene Dalheim, Stenberg-Nilsen og Opstad Sunde* foreslår følgende skisse til lovtekst som innebærer en nøytral henvisning til Grunnloven § 100 i arbeidsmiljøloven § 2 A-1 første ledd:
+
+*Arbeidstaker har rett til å varsle om kritikkverdige forhold i arbeidsgivers virksomhet, jf. Grunnloven § 100.*
+
+*Mindretallet* ønsker å presisere at forslaget er formulert som en ren henvisningsbestemmelse som ikke er ment å innebære noen endring eller innskrenking av ytringsfriheten etter Grunnloven § 100.
+
+1.  **Hvem skal omfattes av varslingsreglene**
+
+    1.  **Gjeldende rett**
+
+Arbeidsmiljølovens utgangspunkt er at den gjelder forholdet mellom arbeidsgiver og arbeidsgivers egne ansatte. Det er imidlertid flere unntak fra dette, for eksempel reguleres forholdet til persongrupper som ikke er arbeidstakere i utgangspunktet i § 1-6 og forholdet til innleide og selvstendige i § 2-2 og §§ 14-12 til 14-14.
+
+Det samme utgangspunktet gjelder for varslingsreglene i arbeidsmiljøloven kapittel 2 A. Retten til å varsle om kritikkverdige forhold etter § 2 A-1, og den tilhørende beskyttelsen mot gjengjeldelse i § 2 A-2, er i utgangspunktet begrenset til å gjelde i arbeidstaker- og arbeidsgiverforhold, jf. arbeidsmiljøloven § 1-8.
+
+Varslingsbestemmelsene i arbeidsmiljøloven kapittel 2 A ble med virkning fra 1. juli 2017 utvidet til også å gjelde innleide arbeidstakere. Det innebærer at innleide arbeidstakere likestilles med innleievirksomhetens egne arbeidstakere når det gjelder retten til å varsle om kritikkverdige forhold i innleievirksomheten. Varslingsreglene i arbeidsmiljøloven gjelder etter dette alle virksomheter i privat og offentlig sektor, for både faste, midlertidige og innleide arbeidstakere.
+
+1.  **Internasjonale anbefalinger og andre lands rett**
+
+Europarådets rekommandasjon om vern av varslere anbefaler at regelverk for varslere bør omfatte alle som arbeider innen offentlig og privat sektor, uavhengig av ansettelsesforholdets karakter og om det er lønnet arbeid eller ikke.[^431] Det anbefales i den sammenheng at potensielle arbeidstakere også bør omfattes, selv etter at arbeidsforholdet er opphørt, og om mulig i en rekrutteringsprosess. I kommentardelen til rekommandasjonen anbefales medlemslandene også å vurdere om vernet skal utvides til å omfatte for eksempel konsulenter, underentreprenører mv.[^432]
+
+Etter britisk og svensk rett gjelder varslervernet for arbeidstakere i offentlig og privat virksomhet. Etter de svenske varslingsreglene er innleide arbeidstakere likestilte med innleievirksomhetens egne ansatte og har et særskilt vern mot gjengjeldelse fra innleier ved varsel om kritikkverdige forhold i innleievirksomheten. Innleide arbeidstakere har imidlertid ikke tilsvarende vern mot gjengjeldelse i forhold til egen arbeidsgiver (bemanningsforetaket) når varselet gjelder forhold i innleievirksomheten. I slike situasjoner gjelder vanlige stillingsvernsregler etter svensk rett. Se omtale i punkt 5.6 om andre lands regelverk om varsling.
+
+1.  **Behov for å innlemme nye grupper**
+
+Arbeidsmiljølovens regler om varsling gjelder for arbeidstakere og innleide arbeidstakere som varsler om kritikkverdige forhold i egen arbeidsgivers eller innleiers virksomhet. Innleide arbeidstakere har vern mot gjengjeldelse både hos innleier og egen arbeidsgiver. Hvem som er å anse som arbeidstaker og innleid arbeidstaker er definert henholdsvis i arbeidsmiljøloven §§ 1-8, 14-2 og 14-3. Personer som ikke er ansatt i virksomheten, herunder tidligere ansatte og arbeidssøkere, selvstendige næringsdrivende og andre persongrupper er ikke omfattet.
+
+*Utvalget* viser til at et hovedformål med reglene om varsling er å bidra til at ulovlige og uønskede forhold avdekkes og håndteres. Det er derfor i utgangspunktet en like sterk allmenninteresse i at kritikkverdige forhold kommer frem og opphører, uavhengig av hvem som oppdager de kritikkverdige forholdene.
+
+Alle som er i et ansettelseslignende forhold eller som har nær tilknytning til en virksomhet på annen måte (oppdragstakere, kunder mv.) vil i utgangspunktet ha samme mulighet til å oppdage kritikkverdige forhold og ha behov for å si fra om dette. Det vil også i slike tilfeller kunne foreligge en ubalanse i styrkeforholdet mellom partene som i mange tilfeller kan tilsi et behov for vern mot gjengjeldelse. Gode grunner kan dermed tale for at persongrupper med en nær tilknytning til virksomheten bør ha samme rett som arbeidstakere til å varsle om kritikkverdige forhold og ha et vern mot gjengjeldelse.
+
+En praktisk situasjon er forholdet til arbeidssøkere og situasjoner der arbeidsforholdet nylig er avsluttet. En enda mer praktisk situasjon i et moderne arbeidsliv er forholdet til grupper som er knyttet til arbeidsmarkedet gjennom andre kontraktsformer enn den tradisjonelle arbeidskontrakten, slik som selvstendige oppdragstakere, arbeidstakere i entrepriseforhold mv. Entrepriser er ikke omfattet av arbeidsmiljølovens regler om innleie, og det betyr at en arbeidstaker som utfører arbeid i kraft av entreprise, ikke vil ha varslervern hvis vedkommende varsler om kritikkverdige forhold andre steder enn hos egen arbeidsgiver. Enkelte av høringsinstansene som kommenterte forslagene til endringer i varslingsreglene som trådte i kraft 1. juli 2017, tok til orde for utvidelse av virkeområdet til å omfatte flere grupper, herunder særlig selvstendige oppdragstakere, arbeidstakere hos virksomhetens underleverandører. Andre, som NHO, la i sin høringsuttalelse avgjørende vekt på ulikhetene mellom innleie og ansettelse, og uttalte blant annet at:
+
+\[u\]tvidelse av varslervernet til å omfatte innleide arbeidstakere ville øke risikoen for unødige konflikter. For eksempel vil bevisvurderingen knyttet til om avslutning av oppdrag er ulovlig gjengjeldelse, gjerne være vanskelig.[^433]
+
+1.  **Utvalgets vurdering og forslag**
+
+Nedenfor vurderer *utvalget* spørsmålet om virkeområdet for arbeidsmiljølovens varslingsregler bør utvides til å omfatte flere grupper med nær og noe mer perifer tilknytning til virksomheten.
+
+Tidligere ansatte og arbeidssøkere
+
+Slik loven er formulert er det et krav at den som varsler er arbeidstaker. Arbeidstakerbegrepet i arbeidsmiljøloven omfatter ikke tidligere ansatte eller arbeidssøkere ettersom disse ikke «utfører arbeid» i virksomheten.
+
+Etter gjeldende rett vil en arbeidstaker kunne reise sak om erstatning for gjengjeldelse i strid med loven dersom det skjer mens vedkommende er i et arbeidsforhold. Gjengjeldelse som skjer etter at arbeidsforholdet er opphørt, omfattes i utgangpunktet ikke av forbudet i § 2 A-2. Dette gjelder situasjonen der både varslingen og gjengjeldelsen skjer etter at arbeidsforholdet er avsluttet. Det kan imidlertid stille seg annerledes i en situasjon hvor det varsles mens arbeidsforholdet består, men gjengjeldelsen skjer eller fortsetter etter at arbeidsforholdet har opphørt. I praksis kan det for eksempel dreie seg om gjengjeldelseshandlinger som manglende referanser, negativ omtale overfor potensielle nye arbeidsgivere, trakassering, trusler mv. Behovet for vern vil kunne være like sterkt i slike tilfeller. Ettersom det er spørsmål om beskyttelse av en arbeidstaker som faktisk har benyttet sin varslingsrett etter loven mens vedkommende var i arbeid, taler reelle hensyn for at denne situasjonen omfattes av forbudet mot gjengjeldelse.[^434]
+
+*Utvalget* ser at både arbeidssøkere og tidligere ansatte kan ha behov for å være omfattet av reglene, i større utstrekning enn det som kan utledes av gjeldende rett i dag. *Utvalget* ønsker likevel ikke å foreslå noen slik utvidelse. Behovet anses ikke like stort for disse gruppene, sammenlignet med de som er arbeidstakere – og er i et ansettelsesforhold. Disse gruppene har for øvrig uansett ytringsfrihet og er ikke på samme måte bundet av den lojalitetsplikten som gjelder mens et arbeidsforhold består. Det vil også være utfordrende for arbeidsgiver å ivareta sine forpliktelser overfor personer med en svakere tilknytning til virksomheten. Både tidligere ansatte og arbeidssøkere vil i tillegg i større grad kunne varsle anonymt og benytte seg av ulike varslingskanaler mv. Det vil også kunne være vanskelige avgrensningstilfeller og bevismessige utfordringer ved å innlemme disse gruppene i virkeområdet til varslingsreglene, herunder forbudet mot gjengjeldelse.
+
+Personer som anses som arbeidstakere etter arbeidsmiljøloven § 1-6
+
+Arbeidsmiljøloven § 1-6 lister opp persongrupper som faller utenfor arbeidstakerbegrepet i § 1-8, men som likevel skal anses som arbeidstakere etter lovens regler om helse, miljø og sikkerhet når de utfører arbeid i virksomhet som går inn under loven. Dette gjelder blant annet elever ved institusjoner som har undervisning eller forskning som formål, vernepliktige, pasienter i helseinstitusjoner mv. Disse gruppene arbeider ikke på grunnlag av en ansettelseskontrakt, men er tilknyttet virksomheten på andre grunnlag (lovbestemte plikter og rettigheter, andre typer avtaler mv.).
+
+1.  **Arbeidsmiljøloven § 1-6 Personer som ikke er arbeidstakere**

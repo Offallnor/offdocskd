@@ -1,894 +1,498 @@
-# NOU 2024: 3, del 37 av 40 (side 461–471)
+# NOU 2024: 3, del 37 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 461]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-globalassets/dokumenter-strategier-og-horinger/pod/i-forkant-av-kriminaliteten.pdf
-Politidirektoratet. (2022). Mangfold, dialog og tillit
-Handlingsplan for politiets arbeid (2022–
-2025). politiet. https://www.politiet.no/globalassets/dokumenter-strategier-og-horinger/
-pod/mangfold-dialog-og-tillit---handlingsplanfor-politiets-arbeid.pdf
-Politidirektoratet & Oslo politidistrikt. (2023).
-Hatkriminalitet i Norge 2022. politiet. https://
-www.politiet.no/globalassets/dokumenterstrategier-og-horinger/oslo/rapporter/anmeldt-hatkriminalitet-oslo/hatkriminalitet-inorge-2022.pdf
-Politiet. (2023). Politiets årsrapport 2022. Politidirektoratet. https://www.politiet.no/globalassets/dokumenter-strategier-og-horinger/pod/
-rapporter/politiets-arsrapport-2022.pdf
-Politiet. (u.å.-a). Hatefulle ytringer. politiet.no.
-https://www.politiet.no/rad/hat-ytringer-ogtrusler/hatefulle-ytringer/#Hvor-gar-grensenmellom-lovlige-og-ulovlige-ytringer?
-Politiet. (u.å.-b). Hatkriminalitet. politiet.no.
-https://www.politiet.no/rad/hat-ytringer-ogtrusler/hatkriminalitet/
-Politiets bruk av forebyggende samtale overfor
-voksne – i tråd med gjeldende rett? (2022).
-[Masteroppgave, Universitetet i Bergen].
-https://bora.uib.no/bora-xmlui/bitstream/
-handle/11250/3061569/
-67_JUS399_H22.pdf?sequence=1&isAllowed=y
-Politiets Efterretningstjeneste. (2021). Årlig redegjørelse 2020. pet.dk. https://pet.dk/-/media/
-mediefiler/pet/dokumenter/aarlig-redegoerelse/aarlig-redegoerelse-2020.pdf
-Politiets Efterretningstjeneste. (u.å.). Forebyggelse
-af radikalisering og terrorisme. https://pet.dk/
-forebyggelse-af-radikalisering-og-terrorisme
-Politiets sikkerhetstjeneste. (2005). Nasjonal trusselvurdering 2005. pst. https://www.pst.no/
-alle-artikler/trusselvurderinger/trusselvurdering-2005/
-Politiets sikkerhetstjeneste. (2013). Nasjonal trusselvurdering 2013. pst. https://www.pst.no/
-globalassets/eldre/nasjonale-trusselvurderinger/trusselvurdering-2013.pdf
-Politiets sikkerhetstjeneste. (2016). Temarapport:
-Hvilken bakgrunn har personer som frekventerer islamistiske miljøer i Norge før de blir radikalisert? Ekstern rapport (16/03327). pst.
-https://politietstryggingsteneste.no/globalassets/eldre/norsk_radikaliseringsprosjektetsrapport_ugradert.pdf
-Politiets sikkerhetstjeneste. (2019). Temarapport:
-Hvilken bakgrunn har personer i høyreekstreme
-
-459
-
-Referanseliste
-
-miljøer i Norge? (17/12585-16). pst. https://
-www.pst.no/globalassets/eldre/temarapport_pst_-hvilken-bakgrunn-har-personer-ihoyreekstreme-miljoer-i-norge.pdf
-Politiets sikkerhetstjeneste. (2020a). Nasjonal
-trusselvurdering
-2020.
-pst.
-https://
-www.pst.no/alle-artikler/trusselvurderinger/
-nasjonal-trusselvurdering-2020/
-Politiets sikkerhetstjeneste. (2020b). Trusselvurdering: Den muslimske høytiden Id al-adha.
-https://www.pst.no/alle-artikler/artikler/
-trusselvurdering-den-muslimske-hoytiden-idal-adha/
-Politiets sikkerhetstjeneste. (2021a). 10 år siden
-22. juli – sentrale utviklingstrekk innen høyreekstremisme. pst. https://www.pst.no/globalassets/2021/rapporter/pst-rapport-10-ar-siden22.-juli---sentrale-utviklingstrekk-innen-hoyreekstremisme.pdf
-Politiets sikkerhetstjeneste. (2021b). Forebyggje.
-pst.no.
-https://www.pst.no/alle-artikler/artikler/dette-gjor-vi/forebyggje/
-Politiets sikkerhetstjeneste. (2021c). Mindreårige
-involvert i terror og terrorrelaterte handlinger.
-politietstryggingsteneste.no. https://politietstryggingsteneste.no/globalassets/2021/rapporter/mindrearige-involvert-i-terror-og-terrorrelaterte-handlinger.pdf
-Politiets sikkerhetstjeneste. (2021d). Nasjonal
-trusselvurdering 2021.
-PST. https://
-www.pst.no/alle-artikler/trusselvurderinger/
-nasjonal-trusselvurdering-2021/
-Politiets sikkerhetstjeneste. (2021e). Dataspill.
-Selfie-jihad og livestreaming av terrorangrep:
-Hvordan ekstreme digitale nettverk påvriker terrortrusselen i Vesten og i Norge. pst. https://
-www.pst.no/globalassets/2021/utgivelser/dataspill-selfie-jihad-og-livestreaming-av-terrorangrep-hvordan-ekstreme-digitale-nettverk-pavirker-terrortrusselen-i-vesten-og-norge.pdf
-Politiets sikkerhetstjeneste. (2022a). Høringssvar
-til JDs «Taushetsplikt, opplysningsrett og opplysningsplikt. En veileder». regjeringen. https://
-www.regjeringen.no/contentassets/
-f41a04d2237e43c3b512bd80053a8ede/annenoffentlig-etat/politiets-sikkerhetstjeneste.pdf?uid=Politiets_sikkerhetstjeneste
-Politiets sikkerhetstjeneste. (2022b). Nasjonal
-trusselvurdering
-2022.
-pst. https://
-www.pst.no/alle-artikler/trusselvurderinger/
-ntv-2022/
-Politiets sikkerhetstjeneste. (2022c). Temarapport: Ekstremisme og psykiske lidelser -samt
-samhandling mellom helsetjenestene, politi og
-
-[Side 462]
-
-460
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-pst. pst. https://pst.no/globalassets/ekstremismeogpsykiskhelserapport2022.pdf
-Politiets sikkerhetstjeneste. (2023a). Nasjonal
-trusselvurdering
-2023.
-pst. https://
-www.pst.no/alle-artikler/trusselvurderinger/
-ntv-2023/
-Politiets sikkerhetstjeneste. (2023b, 12.09.2023).
-Våre råd til politikere som opplever hat og trusler. pst. https://www.pst.no/alle-artikler/artikler/vare-rad-til-politikere-som-opplever-hatog-trusler2/
-Politiets sikkerhetstjeneste. (2023c). Trusselpotensialet i Anders Behring Breivik som inspirasjonskilde, 1. desember 2023. Upublisert.
-Politihøgskolen. (2014). Studieplan for videreutdanning av veiledere i politiets bekymringssamtale. politihogskolen.no. https://www.politihogskolen.no/globalassets/etter-og-videreutdanning/laring-og-undervisning-i-politiet/politiets-bekymringsamtale---for-veiledere/studieplan-veiledere-politiets-bekymringssamtalepolitihogskolen.pdf
-Politihøgskolen. (2018). Rammeplan for Bachelor
-– politiutdanning. https://www.politihogskolen.no/globalassets/for-studenter/regelverkog-innholdet-i-bachelor/rammeplan-og-programplaner/rammeplan-bachelor-politiutdanning-2019.pdf
-Politihøgskolen. (2019). Programplan, Bachelor –
-politiutdanning 2023–2026. https://www.politihogskolen.no/globalassets/for-studenter/regelverk-og-innholdet-i-bachelor/rammeplanog-programplaner/programplan-bachelor-politiutdanning-forste-studiear-2023-2026-politihogskolen.pdf
-Politihøgskolen. (2020). Forebygging og etterforskning av hatkriminalitet. politihogskolen.no.
-https://www.politihogskolen.no/etter-videreutdanning/forebygging-mangfold/forebygging-etterforskning-hatkriminalitet/
-Politihøgskolen. (2021, 01.12.2021). Investigating
-Contested Theories on Extreme-Right Terrorism
-(INCONTEXT). politihogskolen.no. https://
-www.politihogskolen.no/forskning/
-forskningsprosjekter/investigating-contestedtheories-on-extreme-right-terrorism-incontext/
-Poushter, J. (2015). In nations with significant
-Muslim populations, much disdain for ISIS.
-pewresearch. https://www.pewresearch.org/
-short-reads/2015/11/17/in-nations-with-significant-muslim-populations-much-disdain-forisis/
-Prensky, M. (2009). H. Sapiens Digital: From Digital Immigrants and Digital Natives to Digital
-
-Wisdom. Innovate: Journal of Online Education, 5, 1.
-PREVEX. (u.å.). Forside. prevex-balkan-mena.
-https://www.prevex-balkan-mena.eu/
-Proba samfunnsanalyse. (2023a). Evaluering av
-handlingsplaner mot antisemtiitsme 2016–
-2023 (2023–11). https://proba.no/wp-content/uploads/Rapport-2023-11-Evaluering-avhandlingsplaner-mot-antisemittisme-20162023.pdf
-Proba samfunnsanalyse. (2023b). Kunnskapsformidling om rasisme og diskriminering (2023-2).
-imdi.
-https://www.imdi.no/contentassets/
-77c37d2500b947ecbc620ee427d14ea6/probakunnskapsformidling-om-rasisme-og-diskriminering.pdf
-Proba samfunnsanalyse. (2023c). Samstemt – men
-ikke koordinert eller samkjørt: Kunnskapsdepartementets føringer knyttet til laget rundt barnet og eleven (2023–5). proba.no. https://
-proba.no/wp-content/uploads/Rapport-20235-Samstemt-men-ikke-koordinert-eller-samkjort.pdf
-Prøitz, L., Langeland, F., Steinnes, K. K. &
-Mainsah, H. (2022). Hybride maskuliniteter og
-hatideologi på nett. Norsk medietidsskrift,
-29(2),
-1-155.
-https://doi.org/10.18261/
-nmt.29.2.3
-Public Religion Research Institute. (2022,
-24.02.2022). New PRRI Report Reveals Nearly
-One in Five Americans and One in Four Republicans Still Believe in QAnon Conspiracy Theories. prri.com. https://www.prri.org/press-release/new-prri-report-reveals-nearly-one-infive-americans-and-one-in-four-republicansstill-believe-in-qanon-conspiracy-theories/
-Puar, J. K. (2007). Terrorist Assemblages: Homonationalism in Queer Times. Duke University
-Press.
-Pummerer, L., Böhm, R., Lilleholt, L., Winter, K.,
-Zettler, I. & Sassenberg, K. (2021). Conspiracy
-theories and their societal effects during the
-COVID-19 pandemic. Social Psychological and
-Personality Science, 13(1), 49-59. https://journals.sagepub.com/doi/10.1177/
-19485506211000217
-Rafoss, T. W. (2015). Meningsløs terror og meningsfylt fellesskap: Stoltenbergs taler etter
-22. juli. Sosiologisk tidsskrift, 23(1-2), 6-28.
-https://doi.org/10.18261/ISSN1504-29282015-01-02-02
-Rafoss, T. W. (2018). Hva betydde rosetogene? I
-H. Syse (Red.), Norge etter 22. juli: Forhandlinger om verdier, identiteter og et motstandsdyktig
-samfunn. Cappelen Damm Akademisk.
-
-[Side 463]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Rafoss, T. W. (2020). Å føle fellesskap –ed fremmede – rosetogene og følelsenes sosiologi.
-Fellowship wi–h strangers – the rose marches
-and the sociology of emotions, 4(4), 225-240.
-Rambøll. (2014). Evaluering av politirådene. regjeringen. https://www.regjeringen.no/contentassets/68bba047344748d4b286212caf336070/
-evaluering_politiraadene_2014.pdf
-Rambøll. (2022). Evaluering av forebyggingstiltak
-mot radikalisering under straffegjennomføring.
-kriminalomsorgen. https://www.kriminalomsorgen.no/evaluering-av-kriminalomsorgensarbeide-mot-radikalisering-og-voldelig-ekstremisme.6595089-516313.html
-Ran Practicioners. (2021). The Impact of Conspiracy Narratives on Violent RWE and LWE
-Narratives.
-europa.eu.
-https://homeaffairs.ec.europa.eu/system/files/2021-01/
-ran_c-n_concl_pap_impact_consp_narr_on_vrwe_vlwe_24-25_112021_en.pdf
-Ran Practicioners. (2022). COVID-19, Violent
-Extremism and Anti-Government Movement.
-home-affairs.
-https://home-affairs.ec.europa.eu/system/files/2022-10/spotlight_antigovernment_extremism_102022_en.pdf
-Ranstorp, M. & Ahlerup, L. (2023). LVU-kampanjen: desinformation, konspirationsteorier, och
-kopplingarna mellan det inhemska och det internationella i relation till informationspåverkan från icke-statliga aktörer. fhs. https://
-www.fhs.se/download/18.32d29dd2187bd01d5e455265/1682576119173/LVU-kampanjen.pdf
-Rasmussen, K. (1997). Trusler mot taushetsplikten. Tidsskrift for Den norske legeforening, (29).
-https://tidsskriftet.no/1997/11/artikkel/trusler-mot-taushetsplikten
-Rassismusmonitor, N. D.-. (u.å.). Rassistische Realitäten: Wie setzt sich Deutschland mit Rassismus Auseinander?. rassismusmonitor.de.
-https://www.rassismusmonitor.de/publikationen/studie-rassistische-realitaeten/
-Ravndal, J. A. (2013). Anders Behring Breivik’s
-use of the Internet and social media. Journal
-EXIT-Deutschland. Zeitschrift für Deradikalisierung und demokratische Kultur, 2. https://
-ia902308.us.archive.org/1/items/ravndal.jex/Ravndal.JEX.pdf
-Ravndal, J. A. (2014). The online life of a modern
-terrorist: Anders Behring Breivik’s use of the internet. voxpol. https://www.voxpol.eu/the-online-life-of-a-modern-terrorist-anders-behringbreiviks-use-of-the-internet/
-Ravndal, J. A. (2017). Right-wing terrorism and violence in Western Europe: a comparative analy-
-
-461
-
-Referanseliste
-
-sis [Doktorgradsavhandling, Universitetet i
-Oslo].
-https://www.duo.uio.no/bitstream/
-handle/10852/60365/PhD-Ravndal2017.pdf?sequence=4&isAllowed=y
-Ravndal, J. A. (2019). Transnational Militancy in
-the Making: A Primer on the Nordic Resistance
-Movement and Generation Identity (1/2019).
-uio. https://www.sv.uio.no/c-rex/english/publications/c-rex-working-paper-series/transnational-militancy-in-the-making.pdf
-Ravndal, J. A. (2020). Fra landssvik til «trollterror:
-utviklingen i det norske høyreekstreme trusselbildet fra 1945 til 2019. Nytt norsk tidsskrift,
-37(4), 355-368. https://doi.org/10.18261/
-issn.1504-3053-2020-04-06
-Ravndal, J. A., Tandberg, C., Jupskås, A. R. &
-Thorstensen, M. (2022). RTV Trend Report
-2022: Right-Wing Terrorism and Violence in
-Western Europe, 1990–2021 (1/2022). uio.
-https://www.sv.uio.no/c-rex/english/publications/c-rex-reports/2022/rtv_trend_report_2022.pdf
-Ravndal, J. A., Tandberg, C., Sessolo, S., Jupskås,
-A. R. & Bjørgo, T. (2023). RTV Trend Report
-2023: Right-Wing Terrorism and Violence in
-Western –urope, 1990–2022 (1/2023). uio.
-https://www.sv.uio.no/c-rex/english/groups/
-rtv-dataset/2023-rtv-trend-report.pdf
-Redd Barna. (2021). Fritidsklubbens betydning for
-barn og unge: Et bra–sted å være – slik barn og
-unge ser det.
-reddbarna.no. https://
-docs.google.com/viewerng/viewer?url=https://dylbw5db8047o.cloudfront.net/uploads/RB_fritidtidsklubb_rapp_0322_WEB.pdf
-Redd Barna. (u.å.). Lovfest retten til en fritidsklubb
-for alle barn. reddbarna.no. https://www.reddbarna.no/vart-arbeid/barn-i-norge/lek-og-fritid/fritidsklubb/
-Reed, R. (2021). ‘Protect expression, protect speech,
-protect thinking’. hls.harvard. https://hls.harvard.edu/today/protect-expression-protectspeech-protect-thinking/
-Reeve, S. (1999). The new jackals: Ramzi Yousef,
-Osama bin Laden and the future of terrorism.
-Northeastern.
-Reform. (2022). Incels i Norge: En kartlegging av
-ensomhet og helse blant norske ‘incels’. reform.no. https://reform.no/wp-content/uploads/2022/01/2022.01.28-Reform-rapport-Incels-i-Norge-for-publisering-1.pdf
-Regeringen. (2015). Et stærkt værn mod terror: 12
-nye tiltag mod terror. regeringen. https://
-www.regeringen.dk/media/1312/et_staerkt_vaern_mod_terror.pdf
-
-[Side 464]
-
-462
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Regeringen. (2018). Ét Danmark uden parallelsamfund: Ingen ghettoer i 2030. regeringen.no.
-https://www.regeringen.dk/aktuelt/tidligerepublikationer/%c3%a9t-danmark-uden-parallelsamfund/
-Regionalt kunnskapssenter for barn og unge –
-psykisk helse og barnevern. (u.å.). Forside.
-ntnu. https://www.ntnu.no/rkbu
-Regionalt kunnskapssenter for barn og unge
-Nord. (u.å.). Forside. uit. https://uit.no/enhet/rkbu-nord
-Regionalt kunnskapssenter for barn og unge Vest.
-(u.å.). Forside. rkbu.norce. https://rkbu.norceresearch.no/
-Regionsenter for barn og unges psykiske helse
-Øst og Sør. (u.å.). Forside. rbup. https://
-www.rbup.no/
-Regjeringen. (2015, 22.07.2015). 22. juli-senteret
-opna. regjeringen.no. https://www.regjeringen.no/no/sub/etter-22-juli/nyheter-om-22.juli/22.-juli-senteret-opna/id2427931/
-Regjeringen. (2016a, 03.03.2016). Begreper, ord og
-uttrykk i arbeidet mot radikalisering og ekstremisme. regjeringen.no. https://www.regjeringen.no/no/sub/radikalisering/veileder/begreper-ord-og-uttrykk/id2398413/
-Regjeringen. (2016b, 15.01.2016). Nytt senter for
-forskning på høyreekstremisme. regjeringen.no.
-https://www.regjeringen.no/no/sub/radikalisering/aktuelt/nytt-senter-for-forskning-pahoyreekstremisme/id2470584/
-Regjeringen. (2016c, 03.03.). Radikaliseringsprosessen. regjeringen.no. https://www.regjeringen.no/no/sub/radikalisering/veileder/begreper-ord-og-uttrykk/radikaliseringstunnellen/id2399043/
-Regjeringen. (2017, 02.10.2017). Veileder til mentorordning mot radikalisering og voldelig ekstremisme. https://www.regjeringen.no/no/sub/
-radikalisering/veileder-til-mentorordning-motradikalisering-og-voldelig-ekstremisme/
-id2573369/?expand=factbox2573374
-Regjeringen. (2018). Bærekraftsmålene. regjeringen.no.
-https://www.regjeringen.no/no/
-tema/fns-barekraftsmal/id2590133/
-Regjeringen. (2019a, 13.08.). Mulige bekymringstegn. regjeringen.no. Hentet 15.12.2022 fra
-https://www.regjeringen.no/no/sub/radikalisering/bekymret/Mulige-bekymringstegn/
-id762528/
-Regjeringen. (2019b, 13.08.2019). Politiets oppgaver i arbeidet mot radikalisering og voldelig
-ekstremisme.
-regjeringen.no.
-Hentet
-12.12.2022 fra https://www.regjeringen.no/
-no/sub/radikalisering/politiet/id663871/
-
-Regjeringen. (2019c). Rapportering: Regjeringens
-handlingsplan mot radikalisering og voldelig ekstremisme. regjeringen.no. https://www.regjeringen.no/contentassets/0917ed704a7f40769ba19b784af72fd5/statusrapport-handlingsplanradikalisering-oktober-2019.pdf
-Regjeringen. (2020a, 03.03.2020). Råd for personer
-med nedsatt funksjonsevne. regjeringen. https:/
-/www.regjeringen.no/no/tema/kommunerog-regioner/kommunestruktur/Verktoy/lokaldemokrativeilederen/kommunen-og-innbyggerne/rad-for-personer-med-nedsatt-funksjonsevne/id2425376/
-Regjeringen. (2020b, 03.03.2020). Tilrettelegging
-for økt valgdeltakelse. regjeringen.no. https://
-www.regjeringen.no/no/tema/kommuner-ogregioner/kommunestruktur/Verktoy/lokaldemokrativeilederen/del-a/tilrettelegging-forokt-valgdeltakelse/id2424156/
-Regjeringen. (2022). Fritidserklæringen. regjeringen.no. Hentet 19.06.2023 fra https://www.regjeringen.no/contentassets/
-547fc860cfc1403d97e842a61024dc48/fritidserklaeringen_2022_uu.pdf
-Regjeringen. (u.å.). Kommunale helse- og omsorgstjenester. regjeringen.no. https://www.regjeringen.no/no/tema/helse-og–msorg/helse-og-omsorgstjenester-i-kommunene/id10903/
-Reiss, E. & Noor, L. (2018). Radikalisering: fenomen og forebygging. Minotenk Frekk.
-Rekawek, K. (2022). Foreign Fighters in Ukraine:
-The Brown-Red Cocktail. Taylor & Francis.
-Renard, T. & Cook, J. (2023, 05.12.2023). Is the Israel-Hamas War Spilling Over Into Europe? Lawfare. https://www.lawfaremedia.org/article/
-is-the-israel-hamas-war-spilling-over-into-europe#site-main
-Renard, T. & Coolsaet, R. (2018a). From the kingdom to the caliphate and back: returnees in
-Belgium. I T. Renard & R. Coolsaet (Red.), Returnees: who are they, why are thay (not) coming back and how should we deal with them?.
-Egmont.
-https://www.egmontinstitute.be/
-app/uploads/2018/02/egmont.papers.101_online_v1-3.pdf
-Renard, T. & Coolsaet, R. (2018b, 22.03.2018). Reassessing Belgium’s ‘Failed’ Counterterrorism
-Policy. Lawfare. https://www.lawfaremedia.org/article/reassessing-belgiums-failedcounterterrorism-policy
-Retriever. (2022). Mediedekningen etter 22. juli: en
-analyse av norske mediers dekning av terrorangrepene som rammet Norge 22. juli 2011. retrievergroup. https://8317147.fs1.hubspotusercontent-na1.net/hubfs/8317147/Marke-
-
-[Side 465]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-ting%20and%20CMS%20Hub/Norway/
-NO%20Reports/Mediedekningen%20etter%2022.%20juli.pdf?hsCtaTracking=50a4026f2b01-4b5b-97b0-daa09ce588d8%7Cd8e3450a6bcc-4e30-8767-b1f42ed00d2e
-Reuters. (2017, 14.01.2017). Austria’s Strache calls
-for ‘Islamization ban’. Deutsche Welle. https://
-www.dw.com/en/austrian-freedom-party-leader-strache-calls-for-islamization-ban/a37135625
-Revheim-Rafaelsen, M. (2023, 17.08.2023). Uenige
-om Matapours tilregnelighet: – Kan ha skapt
-en usikkerhet. NRK. https://www.nrk.no/
-norge/uenige-om-matapours-tilregnelighet_-_kan-ha-skapt-en-usikkerhet-1.16519866
-Revheim-Rafaelsen, M. & Mjaaland, O. (2023,
-18.08.2023). Anders Behring Breivik saksøker
-staten på nytt. NRK. https://www.nrk.no/
-norge/anders-behring-breivik-saksoker-staten-pa-nytt-1.16521341
-RFI. (2015, 16.07.2015). Terrorist attack on
-French military base foiled. RFI. https://
-www.rfi.fr/en/france/20150716-terrorist-attack-french-military-base-foiled
-RFI. (2023a, 10.07.2023). France’s internal security chief warns of rise in far-right violence.
-RFI. https://www.rfi.fr/en/france/20230710france-s-internal-security-chief-warns-againtrise-in-far-right-violence
-RFI. (2023b, 28.11.2023). France moves to ban ultra-right groups in wake of violent protests.
-RFI. https://www.rfi.fr/en/france/20231128france-moves-to-ban-ultra-right-groups-inwake-of-violent-protests
-RFI. (2024, 01.01.2024). France will no longer
-accept imams trained by foreign countries.
-RFI. https://www.rfi.fr/en/france/20240101france-will-no-longer-accept-imams-trained-byforeign-countries
-RiddoDuottarMuseat. (u.Å.). Om RDM. rdm.
-https://rdm.no/no/om_rdm/
-Riksrevisjonen. (2022a). Riksrevisjonens undersøkelse av helse-, opplærings- og velferdstjenester
-til innsatte i fengsel (Dokument 3:4 (2022–
-2023)). riksrevisjonen.no. https://www.riksrevisjonen.no/globalassets/rapporter/NO-20222023/helse-opplarings-og-velferdstjenester-tilinnsatte-i-fengsel.pdf
-Riksrevisjonen. (2022b). Riksrevisjonens undersøkelse av myndighetenes innsats mot vold i nære
-relasjoner (Dokument 3:8 (2021–2022)). riksrevisjonen.no.
-https://www.riksrevisjonen.no/globalassets/rapporter/no-2021-2022/
-myndighetenes-innsats-mot-vold-i-nare-relasjoner2.pdf
-
-463
-
-Referanseliste
-
-Robertson, D. (2018, 25.02.2018). How an Obscure Conservative Theory Became theogrump Era’s Go-to Nerd Phrase. Politico.
-https://www.politico.com/magazine/story/
-2018/02/25/overton-window-explained-definition-meaning-217010/
-Robinson, K., Malone, I. & Crenshaw, M. (2023).
-Countering Far-Right Anti-Government Extremism in the United States. Perspectives on Terrorism, 17(1), 73-87. https://www.jstor.org/
-stable/27209219
-Rognlien, J. (2007, 13.03.2007). Stå samlet, vær
-våkne, alvorlige og livlige. Vinduet. https://
-www.vinduet.no/essayistikk/staa-samlet-vaervaakne-alvorlige-og-livlige-om-maoistisk-skriftkultur-i-norge/
-Romarheim, A. G. (2012). Hva er terrorisme? I A.
-R. Jupskås (Red.), Akademiske perspektiver på
-22. juli. Fagbokforlaget.
-Romsk kultur- og ressurssenter, R. K. (u.å.-a).
-Rom viser vei [Brosjyre]. K. bymisjon. https:/
-/kirkensbymisjon.no/content/uploads/2019/
-12/A5-brosjyre_RomViserVei_4s.pdf
-Romsk kultur- og ressurssenter, R. K. (u.å.-b). Romano kher. kirkensbymisjon. https://kirkensbymisjon.no/romano-kher/
-Rosbach, M. (2005– 19.11.2005). – Preket jihad i
-Oslo. Nettavisen. https://www.nettavisen.no/
-artikkel/preket-jihad-i-oslo/s/12-95-496437
-Rose, G. (1981). Strategy of prevention: lessons
-from cardiovascular disease. British medical
-journal (clinical research ed.), 282(6279),
-1847-1851.
-https://www.bmj.com/content/
-282/6279/1847
-Rose, H. & Davey, J. (2023, 02.11.2023). Use of
-words, phrases and hashtags associated with
-anti-Muslim mobilisation surges amid IsraelGaza conflict. isdglobal. https://www.isdglobal.org/digital_dispatches/use-of-words-phrases-and-hashtags-associated-with-anti-muslimmobilisation-surges-amid-israel-gaza-conflict/
-Rosvoll, M. (2023). Antisiganisme. I Store norske
-leksikon. https://snl.no/antisiganisme
-Rosvoll, M. S., Lien, L. & Brustad, J. A. S. (2015).
-«Å bli dem kvit»: utviklingen av en «sigøynerpolitikk» og utryddelsen av norske rom. regjeringen. https://www.regjeringen.no/contentassets/a10ae43b518a4a80b98dd4df0f1c3964/a_bli_dem_kvit_hl_senteret.pdf
-Rougier, B. (Red.). (2020). Les territoires conquis
-de l’islamisme. Presses universitaires de
-France.
-Roy, O. (1990). Islam and Resistance in Afghanistan. Cambridge University Press.
-
-[Side 466]
-
-464
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Roy, O. (2017). Jihad and Death: The Global Appeal of Islamic State. Hurst.
-Rubin, B. R. (1995). The Fragmentation of Afghanistan. Yale University Press.
-Rucker, P. & Costa, R. (2017, 23.02.2017). Bannon
-vows a daily fight for ‘deconstruction of the administrative state’. The Washington Post.
-https://www.washingtonpost.com/politics/
-top-wh-strategist-vows-a-daily-fight-for-deconstruction-of-the-administrative-state/2017/02/
-23/03f6b8da-f9ea-11e6-bf01d47f8cf9b643_story.html
-Rueda, D. (2021). Alain de Benoist, ethnopluralism and the cultural turn in racism. Patterns of
-Prejudice, 55(3), 213-235. https://doi.org/
-10.1080/0031322X.2021.1920722
-Rumman, M. A. & Hanieh, H. A. (2009). The Jihadi Salafist Movement in Jordan after Zarqawi: Identity, Leadership Crisis and Obscured
-Vision. Friedrich-Ebert-Stiftung. https://library.fes.de/pdf-files/bueros/amman/
-06601.pdf
-Ruud, T., Birkeland, B., Faugli, A., Hagen, K. A.,
-Hellman, A., Hilsen, M., Kallander, E. K.,
-Kufås, E., Løvås, M., Peck, G. C., Skogerbø, Å.,
-Skogøy, B. E., Stavnes, K., Thorsen, E. & Weimand, B. M. (2015). Barn som pårørende: Resultater fra en multisenterstudie (IS-0522). helsedirektoratet. https://www.helsedirektoratet.no/rapporter/barn-som-parorende-resultater-fra-en-multisenterstudie/
-Barn%20som%20p%C3%A5r%C3%B8rende%20%
-E2%80%93%20Resultater%20fra%20en%20multisenterstudie.pdf/_/attachment/inline/
-80ae6065-0af7-4daa-a6b757e6fb2949a8:dad0550eeafb0d50eacdd3662f66ba833bd5dc05/
-Barn%20som%20p%C3%A5r%C3%B8rende%20%
-E2%80%93%20Resultater%20fra%20en%20multisenterstudie.pdf
-RVTS. (2021, 20.07.2021). Psykisk helse som sårbarhets- og risikofaktor. utveier. https://utveier.no/psykisk-helse-som-risikofaktor/
-RVTS. (u.å.). Hva kan Utveier.no og RVTS tilby?.
-socialboards. https://faq.socialboards.com/
-rvtsost/utveier
-RVTS vest. (u.å.). Los-funksjon for råka etter 22.
-juli. rvtsvest.no. https://rvtsvest.no/los-funksjon-for-raka-etter-22-juli/
-Rädda barnen. (u.å.). Orostelefon om radikalisering. raddabarnen.se. https://www.raddabarnen.se/rad-och-kunskap/orostelefonen-om-radikalisering/
-
-Røde kors. (u.å.-a). Besøk til innsatte i fengsel. rodekors.no.
-https://www.rodekors.no/tilbudene/besok-til-innsatte-i-fengsel/
-Røde Kors. (u.å.-b). Medkvinner i Tromsø. rodekors.no.
-https://www.rodekors.no/lokalforeninger/troms/tromso/om-tromso-rodekors/aktiviteter-i-tromso-rode-kors/medkvinner/
-Sageman, M. (2004). Understanding terror
-networks. University of Pennsylvania Press.
-Salimi, N. (2023, 24.05.2023). Folketinget snur om
-karikaturer: – Bøyer nakken av frykt. NRK.
-https://www.nrk.no/norge/reagerer-pa-atdanmark-snur-om-muhammed-tegninger1.16413905
-Samarbeidsrådet for tros- og livssynssamfunn.
-(2023a, 05.09.2023). Fellesuttalelse fra religiøse
-ledere i STL og ledere fra skeive organisasjoner
-og religiøse skeive. stl. https://stl.no/nyheter/
-fellesuttalelse-fra-religiose-ledere-i-stl-og-ledere-fra-skeive-organisasjoner-og-religioseskeive/?fbclid=IwAR2JmTaChLWBbVaJNQX8PLqp4xNtpt1YawkQVV0EWjUCCtrRicVQ
-xsFwhQg_aem_AUUP8G5nq3iSYxTcWFxpH
-gXyPuER7uNZVNchNxXDhWiknXQs_Xlz_CwufmFaqFCtR20
-Samarbeidsrådet for tros- og livssynssamfunn.
-(2023b, 30.10.2023). Uttalelse fra Religions- og
-livssynslederforumet i STL. stl. https://stl.no/
-nyheter/uttalelse-fra-religions-og-livssynslederforumet-i-stl/
-Samarbeidsrådet for tros- og livssynssamfunn.
-(u.å.-a). Forside. stl. https://stl.no/
-Samarbeidsrådet for tros- og livssynssamfunn.
-(u.å.-b). Om oss. stl.no. https://stl.no/om-oss/
-Sametinget. (2022). Sametingets handlingsplan
-mot samehets. sametinget. https://sametinget.no/_f/p1/iad6ed3b0-a065-4395-b5a67ae1e68b0dd4/handlingsplan-mot-samehets_norsk.pdf
-Samfunnsøkonomisk analyse. (2023, 03.11.2023).
-Felteksperiment om omfanget av etnisk diskriminering i leiemarkedet. samfunnsokonomiskanalyse.no. https://www.samfunnsokonomiskanalyse.no/nye-prosjekter/2023/11/3/felteksperiment-om-omfanget-av-etnisk-diskriminering-i-leiemarkedet
-Samiske veivisere. (u.å.-a). Forside. samiskeveivisere.no. https://samiskeveivisere.no/
-Samiske veivisere. (u.å.-b). Om ordningen Sámi
-ofelaččat / Samiske veivisere. samiskeveivisere.no. https://samiskeveivisere.no/informasjon-om-veiviserordningen/
-
-[Side 467]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Samsen kulturhus. (u.å.). Demokratiprosjektet.
-samsen.com. https://samsen.com/demokratiprosjektet/
-Sarfi, E. (2022). Oppstanden i Ungarn i 1956. I
-Store norske leksikon. https://snl.no/oppstanden_i_Ungarn_i_1956
-Savyon, A. & Manzour, M. (2023, 27.01.2023). International Holocaust Remembrance Day In
-Iran: Iran’s Islamic Regime Denies The Holocaust. Memri. https://www.memri.org/reports/international-holocaust-remembranceday-iran-irans-islamic-regime-denies-holocaust
-SCENOR. (u.å.). Gaming For Democracy In The
-Context Of Contemporary Forms Of Extremism.
-scenor.no. https://www.scenor.at/gamed-theproject
-Scheppele, K. L. (2022). How Viktor Orbán Wins.
-Journal of Democracy, 33(3), 45-61. https://
-www.journalofdemocracy.org/articles/howviktor-orban-wins/
-Schmid, A. (2004). Terrorism – The Definitional
-Problem. Case Western Reserve journal of International
-Law,
-36(2).
-https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1400&context=jil
-Schuurman, B., Lindekilde, L., Malthaner, S.,
-O’Connor, F., Gill, P. & Bouhana, N. (2019).
-End of the Lone Wolf: The Typology that
-Should Not Have Been. Studies in Conflict &
-Terrorism, 42(8), 771-778. https://doi.org/
-10.1080/1057610X.2017.1419554
-Secrétariat général du Comité interministériel de
-prévention de la délinquance et de la radicalisation. (2019, 12.04.2019). Le plan national de
-prévention de la radicalisation. cipdr.gouv.
-https://www.cipdr.gouv.fr/pnpr/
-Seelow, P. S. (2023, 06.12.2023). Attentat à Paris: le
-terroriste avait initialement prévu d’attaquer
-une cible juive. Le Monde. https://www.lemonde.fr/societe/article/2023/12/06/attentat-de-paris-le-terroriste-avait-initialementprevu-d-attaquer-une-cible-juive_6204271_3224.html
-Segerstedtinstitutet. (2022). Segerstedtinstiutet.
-gu. https://www.gu.se/segerstedtinstitutet
-Segaard, S. B. & Saglie, J. (2023). Institusjonell tillit i ulike befolkningsgrupper i Norge: Kunnskapsoversikt og deskriptiv analyse. samfunnsforskning.
-https://samfunnsforskning.brage.unit.no/samfunnsforskning-xmlui/bitstream/handle/11250/3059671/ISF_Rapport_20235_Segaard_og_Saglie_UUweb.pdf?sequence=1&isAllowed=y
-Seierstad, Å. (2016). To søstre. Kagge.
-
-465
-
-Referanseliste
-
-Selbekk, V. (2020, 15.05.2020). Er Philip Manshaus en kristen terrorist? Dagen. https://
-www.dagen.no/okategoriserade/er-philipmanshaus-en-kristen-terrorist/
-Sfrintzeris, Y. A. (2022, 15.02.2022). EOS-utvalget
-undersøker barskytingen i Oslo. VG. https://
-direkte.vg.no/nyhetsdognet/news/eos-utvalget-skal-undersoeke-25-juni-terroren-ioslo.3ur9SPeh5
-Shaheed, A., Khan, I. & Varennes, F. d. (2021). International Community must pay attention to
-the persecution of Ahmadi Muslims worldwide.
-ohchr. https://www.ohchr.org/en/press-releases/2021/07/international-community-mustpay-attention-persecution-ahmadi-muslims
-Shawcross, W. (2023). Independent Review of Prevent (HC 1072). gov.uk. https://assets.publishing.service.gov.uk/government/uploads/
-system/uploads/attachment_data/file/
-1134986/Independent_Review_of_Prevent.pdf
-Sheikh, M. K. & Krause, D. (2022). Transnational
-Jihadism: a Conflict to be Resolved, a
-Movement to Implode or an Ideology to be Countered? Perspectives on Terrorism, 16(1).
-https://www.universiteitleiden.nl/perspectives-on-terrorism/archives/2022#volume-xviissue-1
-Sikresiden. (u.å.). Om sikresiden.no. Hentet
-10.11.2023 fra https://www.sikresiden.no/omsikresiden
-Sikt. (2023). Sko–evalgresultat – Landsoversikt –
-2023.
-sikt.no.
-https://skolevalg.sikt.no/
-landsoversikt/2023
-Silverman, C. & Kao, J. (2022, 11.03.2022). Infamous Russian Troll Farm Appears to Be
-Source of Anti-Ukraine Propaganda. ProPublica. https://www.propublica.org/article/infamous-russian-troll-farm-appears-to-besource-of-anti-ukraine-propaganda
-Silverman, T., Stewart C. J., Amanullah, Z. & Birdwell, J. (2016) The Impact of Counter-Narratives. isdglobal. https://www.isdglobal.org/wpcontent/uploads/2016/08/Impact-of-CounterNarratives_ONLINE_1.pdf
-Silvola, N. M. (2022). Dagbladet sendte 96,7 prosent av Breiviks frie forklaring. Journalisten.
-https://www.journalisten.no/anders-behringbreivik-dagbladet-frode-hansen/dagbladetsendte-967-prosent-av-breiviks-frie-forklaring/
-498269
-Simmel, G. (1978). The philosophy of money (T.
-Bottomore & D. Frisby, Overs.). Routledge &
-Kegan Paul.
-Simonsen, K. B. (2021). Holocaustbenektelse på
-norsk: et historisk perspektiv. I E. Rees, H.
-
-[Side 468]
-
-466
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Karlsen, M. Brovold & S. Dingstad (Red.), Minoritetsdiskurser i norsk litteratur (s. 181-200).
-Universitetsforlaget.
-https://doi.org/
-10.18261/9788215045320-2021-09
-Simonsen, K. B. (2023). I skyggen av Holocaust:
-antisemittisme i norsk–historie 1945–2023. Humanist forlag.
-Simonsen, K. B. & Moe, V. (2023, 27.10.2023). Stereotypier i framstillingen av konflikten. Dagbladet. https://www.dagbladet.no/meninger/
-stereotypier-i-framstillingen-av-konflikten/
-80418484
-Sindberg, M. (2019, 03.08.2019). ANTIFA: De
-’gode’ voldsparate ekstremister. Information.
-https://www.information.dk/moti/2019/08/
-antifa-gode-voldsparate-ekstremister
-Sitter, N. (2017). Terrorismens historie: attentat og
-terrorbekjempelse fra Bakunin til IS. Dreyer.
-Sitter, N. (2022). Terrorisme. I Store norske leksikon. http://snl.no/terrorisme
-Sitter, N. & Stenersen, A. (2022). Terror. I Store
-Norske Leksikon. https://snl.no/terror
-Sivenbring, J. (2018). Utslag av oro: en analys av
-Rädda Barnens orostelefon om radikalisering.
-gu.se. https://www.gu.se/sites/default/files/
-2020-03/1694895_utslag-av-oro-sivenbring2.pdf
-Sivenbring, J. & Andersson Malmros, R. (2019).
-Mixing Logics: Multiagency approaches for countering violent extremism. gupea. https://gupea.ub.gu.se/bitstream/handle/2077/66720/
-gupea_2077_66720_1.pdf?sequence=1&isAllowed=y
-Sivenbring, J. & Malmros, R. A. (2023). The good,
-the bad, and the ugly – Involving civil society
-organizations in Nordic policy for preventing
-extremism. Journal of Civil Society, 19(1), 1-19.
-https://doi.org/10.1080/
-17448689.2023.2206150
-Sjøen, M. (2019). Skolen i forebyggingens tid. I S.
-Lid & G. Heierstad (Red.), Forebygging av radikalisering og voldelig ekstremisme (s. 69-90).
-Gyldendal Akademisk.
-Sjøen, M. M. (2023). Håndtering av terrorfrykt i
-skolen. Norsk pedagogisk tidsskrift, 107(1), 1526. https://doi.org/10.18261/npt.107.1.3
-Skatteetaten. (2017). Skatteforvaltningshåndboken
-2023. skatteetaten.no https://www.skatteetaten.no/rettskilder/type/handboker/skatteforvaltningshandboken/gjeldende/
-Skevik, E. (2011, 18.11.2011). Bhatti kastet ut av
-terror-rettssak. VG. https://www.vg.no/nyheter/innenriks/i/l63ak/bhatti-kastet-ut-av-terror-rettssak
-
-Skirbekk, H. & Grimen, H. (2012). Tillit i Norge.
-Res Publica.
-Skjelsbæk, I., Leidig, E., Segers, I. B. & Thorleifsson, C. (2020, 07.09.2020). What role does gender play in The far right?. uio. https://
-www.sv.uio.no/c-rex/english/groups/
-compendium/what-role-does-gender-play-inthe-far-right.html
-Skjervold, H. (2014). Slik skal Storbritannia sikre
-seg mot terrorangrep. Aftenposten. https://
-www.aftenposten.no/verden/i/OnJJb/slikskal-storbritannia-sikre-seg-mot-terrorangrep
-Skjervø, G. B., Kjær, E. K. & Huitfeldt, A. (2021).
-Aldri tie, aldri glemme: en bok fra AUF, ti år etter terroren. Res publica.
-Skaarup, P., Adelsteen, P., Christiansen, K., Dahl,
-K. T., Henriksen, M. & Kjærsgaard, P. (2010).
-Forslag til folketingsbeslutning om forbud mod
-Hizb ut-Tahrir. retsinformation. https://
-www.retsinformation.dk/eli/ft/20101BB00067
-Smith-Solbakken, M. & Dahle, E. A. (2017). Alexander Kielland-ulykken. I Store norske leksikon. https://snl.no/Alexander_Kielland-ulykken
-Smith-Solbakken, M. & Weihe, H.-J. W. (2019).
-Alexander L. Kielland-ulykken 1980: fortielsen og forbitrelsen. Arbeiderhistorie, 23(1),
-189-213. https://doi.org/10.18261/issn.23875879-2019-01-11
-Snublestein. (u.å.). Velkommen til snublestein.no.
-https://www.snublestein.no/
-Snyder, T. (2018). Om tyranni: 20 ting vi kan lære
-av det 20. århundre (J. Grande, Overs.). Forlaget Press.
-Solheim, E. K., Brekke, A. A. T. & Elgaaen, V.
-(2023, 01.11.2023). PST: − Trusselen mot jødiske og israelske mål i Norge er skjerpet. VG.
-https://www.vg.no/nyheter/i/WRzw6g/pstvurderer-at-trusselen-mot-jordiske-maal-inorge-er-skjerpet
-Solheim, Ø. & Jupskås, A. R. (2021). Consensus or
-Conflict? A Survey Analysis of How Norwegians Interpret the July 22, 2011 Attacks a Decade Later. Perspectives on Terrorism, 15(3),
-109-131. https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2021/issue-3/solheim-andjupskas.pdf
-Solhjell, R., Høy-Petersen, N. & Haanshuus, B.
-(2020, 10.05.2023). What Is hate crime?. uio.
-https://www.sv.uio.no/c-rex/english/groups/
-compendium/what-is-a-hate-crime.html
-Solhjell, R., Sivenbring, J., Kangasniemi, M., Kallio, H., Christensen, T. W., Haugstvedt, H. &
-Gjelsvik, I. M. (2022). Experiencing trust in
-
-[Side 469]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-multiagency collaboration to prevent violent
-extremism: A Nordic qualitative study. Journal
-for
-deradicalization,
-(32).
-https://
-hdl.handle.net/11250/3028974
-Solomon, E. (2023, 10.11.2023). Germany’s Stifling of Pro-Palestinian Voices Pits Historical
-Guilt Against Free Speech. The New York Times. https://www.nytimes.com/2023/11/10/
-world/europe/germany-pro-palestinian-protests.html
-Solstad, D. (1982). Gymnaslærer Pedersens beretning om den store politiske vekkelse som har
-hjemsøkt vårt land. Oktober.
-Sommer, W. (2020, 02.01.2020). Trum throws
-fresh fuel on dangerous QAnon conspiracy
-theory. The Daily Beast. https://www.thedailybeast.com/trump-throws-fresh-fuel-on-dangerous-qanon-conspiracy-theory
-Spilker, R. S., Indseth, T., Hussaini, L., Labberton,
-A. S., Ali, W. A., Syse, A., Olsen, A. O., Qureshi,
-S. A., Straiton, M. L., Kumar, B. N. og Bruun,
-T. (2022). Helse blant personer med innvandrerbakgrunn [Folkehelserapporten]. https://
-www.fhi.no/he/folkehelserapporten/grupper/helse-innvandrerbakgrunn/?term=
-St.meld. nr. 27 (1996–97) Om statens forhold til frivillige organisasjoner. Kulturdepartementet.
-https://www.regjeringen.no/no/dokumenter/stmeld-nr-27-1996-97-/id191104/
-Standard Norge. (u.å.). Norsk Standard for mangfoldsledelse. standard.no. https://standard.no/
-fagomrader/styringssystemer/mangfoldsledelse/
-Stang, E. G. (2023). Barnevernsloven note 3 til §
-13-2 (LOV-2021-06-18-97). Karnlov lovkommentar.
-Stang, E. G., Aamodt, H. A., Sverdrup, S., Kristoffersen, L. B. & Winsvold, A. (2013). Taushetsplikt, opplysningsrett og opplysningsplikt (NOVA
-Rapport 3/13).
-oslomet. https://oda.oslomet.no/oda-xmlui/bitstream/handle/
-20.500.12199/5063/6818_1.pdf?sequence=1&isAllowed=y
-Statistisk Sentralbyrå. (2022). Hvor mange innvandrere er overkvalifisert?. ssb. https://
-www.ssb.no/arbeid-og-lonn/sysselsetting/artikler/hvor-mange-innvandrere-er-overkvalifisert
-Statkonsult. (2007). Evaluering av Samiske veivisere.
-regjeringen. https://www.regjeringen.no/globalassets/upload/aid/temadokumenter/sami/sami_publukasjoner_evaluering_samiske_veivisere.pdf
-Statsbygg. (u.å.). Det nasjonale minnestedet på
-Utøykaia [Faktaark]. statsbygg.no. https://
-
-467
-
-Referanseliste
-
-dok.statsbygg.no/wp-content/uploads/2020/
-05/minnestedFakta.pdf
-Statsforvalteren. (2023, 02.01.2023). Desentralisert
-ordning for grunnskoler og videregående skoler.
-statsforvalteren.no. https://www.statsforvalteren.no/portal/barnehage-og-opplaring/lokalkompetanseutvikling-i-barnehage-og-grunnopplaring/desentralisert-ordning-for-grunnskoler-og-videregaende-skoler/
-Statsministerens kontor. (2022a). Statsministerens innledning om oppnevning av ekstremismekommisjonen.
-regjeringen.
-Hentet
-08.06.2023 fra https://www.regjeringen.no/
-no/aktuelt/statsministerens-innledning-omoppnevning-av-ekstremismekommisjonen/
-id2918195/
-Statsministerens kontor. (2022b, 18.06.2022).
-Statsministerens tale under åpning av nasjonalt
-minnested etter 22. juli på Utøyakaia. regjeringen. https://www.regjeringen.no/no/aktuelt/
-statsministerens-tale-under-apning-av-nasjonalt-minnested-etter-22.-juli-pa-utoyakaia/
-id2919610/
-Steen, R. B. (2018, 24.10.2018). Velkommen til demokratiet, Listhaug!. Dagsavisen. https://
-www.dagsavisen.no/debatt/2018/10/24/velkommen-til-demokratiet-listhaug/
-Steen, T. & Hansen, K. F. (2022). Slaveri. I Store
-norske leksikon. https://snl.no/slaveri
-Stenberg, M. A. J. & Bringsvor, S. V. (2022,
-22.07.2022). Mista sonen 22. juli – heidrar han
-med å gje fattige eit betre liv. NRK. https://
-www.nrk.no/mr/har-hjelpt-sorafrikanarar-etter-at-sonen-doydde-i-angrepet-pa-regjeringskvartalet-1.16045650
-Stenersen, A. (2016). Jihadistenes program i Europa. Internasjonal politikk, 74(4). https://
-doi.org/10.17585/ip.v74.618
-Stenersen, A. (2017). Al-Qaida in Afghanistan.
-Cambridge University Press.
-Stensland, M. (2021, 09.08.2021). Flere melder fra
-om bekymring for radikalisering til PST. Aftenposten. https://www.aftenposten.no/norge/i/
-QxdvQR/flere-melder-fra-om-bekymring-forradikalisering-til-pst
-Stensland, S. Ø., Glad, K. A. & Ottesen, A. A.
-(2023). Barn, unge og familier på flukt. Tidsskrift for Den norske legeforening, (3). https://
-tidsskriftet.no/2023/02/fra-fagmiljoene/barnunge-og-familier-pa-flukt
-Stiftelsen 10. august. (u.å.-a). Et minne- og læringssenter mot utenforskap, radikalisering og ekstremisme.
-stiftelsen10.august.no.
-https://
-www.stiftelsen10august.no/
-
-[Side 470]
-
-468
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Stiftelsen 10. august. (u.å.-b). Læringssenter. stiftelsen10august. https://www.stiftelsen10august.no/laeringssenter
-Stiftelsen 10. august. (u.å.-c). Om stiftelsen. stiftelsen10august.no. https://www.stiftelsen10august.no/om-stiftelsen
-Stiftelsen Falstadsenteret. (2022). Plan for
-forskning og utvikling 2022–2025. falstadsenteret.no.
-https://falstadsenteret.no/wp-content/uploads/2022/02/Plan-for-forskning-ogutvikling-2022-2025.pdf
-Stokke, O. (2022, 04.03.2022). Svensk mor dømt
-til seks års fengsel for ikke å ha forhindret at
-sønnen ble barnesoldat i IS. Aftenposten.
-https://www.aftenposten.no/norge/i/
-66v6oQ/svensk-mor-doemt-til-seks-aars-fengsel-for-ikke-aa-ha-forhindret-at-soennen-blebarnesoldat-i-is
-Stonehouse, R. (2023, 03.08.2023). Terrorism:
-What’s behind surge in arrests of under-18s?
-BBC. https://www.bbc.com/news/newsbeat66365312
-Stopp hatprat. (u.å.). Forside. stopphatprat.no.
-https://beta.stopphatprat.no/stopp-hatprat/
-Store norske leksikon. (2005–2007a). Fellesprogrammet. I Store norske leksikon. https://
-snl.no/Fellesprogrammet
-Store norske leksikon. (2005–2007b). Suffragetter. I Store norske leksikon. https://snl.no/suffragetter
-Storeide, A. (2018). Vitner som historiefortellere.
-22.julisenteret.
-https://www.22julisenteret.no/aktuelt/artikler/vitner-som-historiefortellere
-Stortinget. (2011, 25.11.2011). 22. juli-Redegjørelsen. stortinget. https://www.stortinget.no/no/
-Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hvaskjer-nyheter/2011-2012/Redegjorelse-om-angrepene-22-juli/
-Stortinget. (2020). Lov om Etterretningstjenesten
-(etterretningstjenesteloven).
-stortinget.no.
-https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=79451
-Stortinget. (2022, 14.10.2022). Hva er et demokrati?. stortinget.no. https://www.stortinget.no/no/Stortinget-og-demokratiet/stortinget-undervisning/ungdomstrinnet/demokrati--ung/kort-om-demokrati/
-Strand, F. (2020, 25.02.2020). Da terroren Ramte
-Danmark. dansk-politi. https://dansk-politi.dk/nyheder/terroren-ramte-danmark
-Strand, R. H. & Andreassen, T. A. (2022,
-26.09.2022). Partier fra ytre høyre tas inn i varmen i flere land. Aftenposten. https://www.af-
-
-tenposten.no/verden/i/8JBaoW/partier-fraytre-hoeyre-tas-inn-i-varmen-i-flere-land
-Strand, T., Hjorthen, I. R., Einarsdóttir, S. B. &
-Breidlid, C. (2023, 30.11.2023). Jødehatet.
-NRK. https://www.nrk.no/spesial/sporreundersokelse-blant-norske-joder-etter-7.-oktober1.1664462–intro-authors--expand
-Stray, J. H. (2011). Demokrati på timeplanen. Fagbokforlaget.
-Strong cities network. (u.å.). Forside. stringcitiesnetwork.org.
-https://strongcitiesnetwork.org/
-Strømmen, Ø. (2011, 12.08.2011). Storhaugs bibliotek. Dagbladet. https://www.dagbladet.no/
-kultur/storhaugs-bibliotek/63580114
-Strømmen, Ø. (2022, 01.05.2022). nr. 7, 2022:
-Konspirasjonsteoriar som propagandavåpen.
-oyvindstrommen.substack.
-https://oyvindstrommen.substack.com/p/nr-7-2022-konspirasjonsteoriar-som?utm_source=facebook&s=r
-Strømmen, Ø. (2023, 09.12.2023). nr. 14, 2023:
-Active
-Clubs.
-oyvindstrommen.substack.
-https://oyvindstrommen.substack.com/p/nr14-2023-active-clubs
-Strålberg, E. & Lindahl, H. S. (2023, 11.08.2023).
-Ordliste for kunstig intelligens. teknologiradet.no. https://teknologiradet.no/ordliste-forkunstig-intelligens/
-Stub, M. (2022a). Forvaltningsloven, note 4 til § 13
-g (LOV-1967-02-10). Karnov lovkommentarer.
-https://lovdata.no/pro/#document/NL/lov/
-1967-02-10
-Stub, M. (2022b). Forvaltningsloven, note 21 til §
-13 b (LOV-1967-02-10). Karnov lovkommentarer. https://lovdata.no/pro/#document/NL/
-lov/1967-02-10
-Stubberud, E. & Eggebø, H. (2020). Voldsutsatthet
-blant skeive med innvandrerbakgrunn. Cappelen Damm Akademisk.
-Støttegruppen 22. juli. (u.å.). Støttegruppen.
-22.juli.info. https://22juli.info/
-Støttegruppen for etterlatte og overlevende etter
-mordbrannen på «Scandinavian Star». (u.å.).
-Forside. scandinavianstar. https://www.scandinavianstar.no/
-Sunde, I. M. E. (Red.). (2013). Forebygging av radikalisering og voldelig ekstremisme på internett.
-Politihøgskolen.
-https://phs.brage.unit.no/
-phs-xmlui/bitstream/handle/11250/175110/
-forebygging_av_radikalisering.pdf?sequence=1&isAllowed=y.
-Sunde, I. M. (2020). Bør rettssikkerheten i politiets kriminalitetsforebyggende arbeid styrkes?
-
-[Side 471]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Tidsskrift for strafferett, 20(1), 3-5. https://
-doi.org/10.18261/issn.0809-9537-2020-01-01
-Svendsen, C. (2019, 13.04.2019). De som valgte
-vold og terror. NRK. https://www.nrk.no/
-dette-er-nordmennene-som-valgte-krig-og-terror-i-syria-1.14511716
-Svendsen, C. & Alayoubi, M. (2019, 15.04.2019).
-Datteren tok med seg tre norskfødte barn til
-IS: – Jeg var så sint på henne. NRK. https://
-www.nrk.no/norge/datteren-tok-med-seg-trenorskfodte-barn-til-is_-_-jeg-var-sa-sint-pahenne-1.14508512
-Svendsen, C. & Døvik, O. (2016, 09.02.2016). –
-Profetens Ummah ligger nærmest med brukket rygg. NRK. https://www.nrk.no/norge/_profetens-ummah-ligger-naermest-med-brukket-rygg-1.12789740
-Svendsen, C. & Døvik, O. (2023, 09.08.2023). Terrordømt kvinne kastet ut av Norge. NRK.
-https://www.nrk.no/norge/terrordomtkvinne-kastet-ut-av-norge-1.16502689
-Svendsen, S. H. B. (2022). Hva er kritisk raseteori
-– og kan det brukes til å belyse rasisme i
-Norge? I C. A. Døving (Red.), Rasisme: Fenomenet, forskningen, erfaringene. Universitetsforlaget.
-Sveaass, N. & Johansen, L. E. E. (2006). Drømmen bortenfor: Traumatiserte flyktningers
-møte med psykologisk behandling. Tidsskrift
-for Norsk psykologforening, 43(12), 1282-1291.
-https://psykologtidsskriftet.no/vitenskapeligartikkel/2006/12/drommen-bortenfor-traumatiserte-flyktningers-mote-med-psykologisk
-SVT. (2023, 08.12.2023). Säpo: Försämrat säkerhetsläge. SVT. https://www.svt.se/nyheter/
-inrikes/sapo-forsamra–sakerhetslage--rmc4wf
-Switzer, R. & Beauduin, A. (2023). Embodied nativism in Denmark: rethinking violence and the
-far right. Ethnic and Racial Studies, 46(7),
-1335-1356.
-https://doi.org/10.1080/
-01419870.2022.2143716
-Syvertsen, M. R. (2022). Ungdomshjernen. Bonnier Norsk Forlag.
-Säkerhetspolisen. (2023, 17.08.2023). Höjning av
-terrorhotnivån till högt hot. sakerhetspolisen.se. https://www.sakerhetspolisen.se/ovriga-sidor/nyheter/nyheter/2023-08-17-hojning-av-terrorhotnivan-till-hogt-hot.html
-Sönmez, G. (2019). Factors behind the Rise and
-Fall of Left-Wing Terrorism in Western Europe: The Cases of Rote Armee Fraktion and
-Brigate Rosse. Güvenlik Stratejileri Dergisi,
-15(31), 469-496. https://dergipark.org.tr/en/
-pub/guvenlikstrtj/issue/49379/630849
-
-469
-
-Referanseliste
-
-Sørensen, S. B. (produsent). (2020). [TV-serie].
-Angrebet – Omars vej til Krudttønden. Danmarks Radio. https://www.dr.dk/drtv/serie/
-angrebet-_-omars-vej-til-krudttoenden_171857
-Sørensen, Ø. (2014). Venstreekstremismen og
-dens omland. I Ø. Sørensen, B. Hagtvet & N.
-Brandal (Red.), Venstreekstremisme: Ideer og
-bevegelser (s. 7-33). Dreyer forlag.
-Sørensen, Ø. & Brandal, N. (2018). Det norske demokratiet og dets fiender: 1918–2018. Dreyer.
-Tandberg, C. & Ravndal, J. A. (2023). Evaluering
-av politiets radikaliseringskontaktordning. politihøgskolen. https://phs.brage.unit.no/phsxmlui/bitstream/handle/11250/3095663/Evaluering%20av%20politiets%20radikaliseringskontaktordning%20NY.pdf?sequence=1&isAllowed=y
-Taraku, S. & Lysne, T. J. (2022, 24.07.2022). D–
-mokratiguider – Et tiltak for å øke valgdeltakelsen blant underrepresenterte grupper. tankesmiaagenda.
-https://www.tankesmienagenda.no/notater/demokratiguider-et-tiltakfor-a-oke-valgdeltakelsen-blant-underrepresenterte-grupper
-Taub, B. (2015, 24.05.2015). Journey to jihad. The
-New Yorker. https://www.newyorker.com/magazine/2015/06/01/journey-to-jihad
-Tawil, C. (2010). Brothers in Arms: The Story of alQa‘ida and the Arab Jihadists (R. Bray, Overs.).
-Saqi Books.
-Tech Against Terrorism. (2023). Early Terrorist
-Adoption of Generative AI. https://techagainstterrorism.org/news/early-terrorist-adoptionof-generative-ai
-Tech Against Terrorism. (u.å.). Forside. techagainstterrorism.org. https://techagainstterrorism.org/home
-Teigen, E. (2021, 03.03.2021). Kraftige reaksjoner
-etter Islam Nets kjøp av Oslo-eiendom til 60
-mill: – Dette må stoppes. Nettavisen. https://
-www.nettavisen.no/nyheter/kraftige-reaksjoner-etter-islam-nets-kjop-av-oslo-eiendom-til60-mill-dette-ma-stoppes/s/12-95-3424095905
-Tenk. (u.å.-a). Bildedeling på sosiale medier [Faktaark]. tenk.faktisk. https://cdn.sanity.io/files/ksbd2rdi/production/
-cb8e5c0120056d5c7ed965251d979d03243ea7a
-0.pdf
-Tenk. (u.å.-b). Nyheter i sosiale medier [Faktaark].
-tenk.faktisk. https://cdn.sanity.io/files/ksbd2rdi/production/af5fbbca9ae1703e23857829b716c39422547559.pdf
-Terapivakten. (u.å.). ACE-studien, hvordan blir vi
-påvirket av barndomstraumer?. terapivak-
+Bufdir. (u.å.-b). *Kompetanseteamet mot negativ sosial kontroll og æresrelatert vold*. Bufdir.no. https://www.bufdir.no/vold/aresrelatert/kompetanseteamet/
+
+Bufdir. (u.å.-c). *Tilskudd til tiltak mot rasisme, diskriminering og hatefulle ytringer*. Bufdir.no. https://www.bufdir.no/tilskudd/tiltak-mot-rasisme-diskriminering-og-hatefulle-ytringer/
+
+Bufdir. (u.å.-d). Råd og veiledning etter adopsjon. Bufdir.no. https://www.bufdir.no/adopsjon/rad-og-veiledning-etter-adopsjon/
+
+Buland, T., Mordal, S. & Mathiesen, I. H. (2020). *Utdannings- og yrkesrådgiving og sosialpedagogisk rådgiving i norsk skoleanno 2020: En kartlegging av ressurser og arbeidsoppgaver til rådgiving i skolen i Norge*. Utdanningsforbundet. https://www.utdanningsforbundet.no/globalassets/var-politikk/publikasjoner/eksterne-rapporter/radgiving-i-norsk-skole-anno-2020_sintef_norce.pdf
+
+Bundesamt für Verfassungsschutz. (u.å.). *Right-wing extremism*. Verfassungsschutz.de. https://www.verfassungsschutz.de/EN/topics/right-wing-extremism/right-wing-extremism_article.html
+
+Bundesministerium des Innern für Bau und Heimat. (2019). *Verfassungsschutzbericht 2019*. bmi.bund.de. https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb-2019-gesamt.pdf?\_\_blob=publicationFile&v=5.
+
+Bundesministerium für Familie, Senioren, Frauen und Jugend,. (2023, 16.02.2023). *Gesetz zur Stärkung von Maßnahmen zur Demokratieförderung, Vielfaltgestaltung, Extremismusprävention und politischen Bildung (Demokratiefördergesetz)*. Bmfsfj. https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-zur-staerkung-von-massnahmen-zur-demokratiefoerderung-vielfaltgestaltung-extremismuspraevention-und-politischen-bildung-demokratiefoerdergesetz–207726
+
+Bundesministerium für Familie, Senioren, Frauen und Jugend,. (u.å.-a). *Demokratie leben!.* Demokratie-leben.no. https://www.demokratie-leben.de/
+
+Bundesministerium für Familie, Senioren, Frauen und Jugend,. (u.å.-b). *Über «Demokratie leben!»*. Demokratie-leben. https://www.demokratie-leben.de/das-og/ueber-demokratie-leben
+
+Burheim, M. G. (2023). Det handler om mennesker. I juli-senteret (Red.), *22. juli-senteret*. 22. juli-senteret.
+
+Bury Council. (u.å.). *Prevent*. bury.gov. https://www.bury.gov.uk/my-neighbourhood/safety-in-the-community/prevent
+
+Bæck. U-. D. K., Holm, I. M. & Larsen, A. I. L. (2022). *U16 sin mentorordning i Tromsø kommune vekker forskningsinteresse.* uit. https://uit.no/nyheter/forskerhjornet/790235/u16_sin_mentorordning_i_tromso_kommune_vekker_for
+
+Bærum kommune, Samordning av lokale rus- og kriminalitetsforebyggende tiltak & Oslo politidistrikt. (2019). *Lokal handlingsplan for forebygging av hatkriminalitet og voldelig ekstremisme 2018–2021*. baerum.kommune. https://www.baerum.kommune.no/globalassets/om-barum-kommune/organisasjon/styrende-dokumenter/handlingsplan-for-forebygging-av-hatkriminalitet-korrektur-10-sept.pdf
+
+Bærum kommune og Asker og Bærum politidstrikt. (2015). *Lokal handlingsplan mot ekstremisme*. https://www.baerum.kommune.no/globalassets/om-barum-kommune/organisasjon/styrende-dokumenter/lokal-handlingsplan-mot-ekstremisme.pdf
+
+Bötticher, A. (2017). Towards Academic Consensus Definitions of Radicalism and Extremism. *Perspectives on Terrorism*, *11*(4), 73-77. http://www.jstor.org/stable/26297896
+
+Caiani, M. & Kröll, P. (2015). The transnationalization of the extreme right and the use of the Internet. *International Journal of Comparative and Applied Criminal Justice*, *39*(4), 331-351. https://doi.org/10.1080/01924036.2014.973050
+
+Caldwell, M., Andrews, J. T. A., Tanay, T. & Griffin, L. D. (2020). AI-enabled future crime. *Crime Science*, *9*(1), 14. https://doi.org/10.1186/s40163-020-00123-8
+
+Carbonnel, A. D. (2018, 16.03.2018). Belgium takes back Brussels’ Grand Mosque from Saudi government. *Reuters*. https://www.reuters.com/article/idUSKCN1GS2HP/
+
+Carter, E. (2018). Right-wing extremism/radicalism: reconstructing the concept. Journal of Political Ideologies, 23(2), 157-182. https://doi.org/10.1080/13569317.2018.1451227
+
+Carter, J. A., Maher, S. & Neumann, P. R. (2014). \#Greenbirds: Measuring Importance and Influence in Syrian Foreign Fighter Networks. The International Centre for the Study of Radicalisation and Political Violence. https://icsr.info/wp-content/uploads/2014/04/ICSR-Report-Greenbirds-Measuring-Importance-and-Influence-in-Syrian-Foreign-Fighter-Networks.pdf
+
+Center for Dokumentation og Indsats mod Ekstremisme. (2019, 21.02.2019). *Venstreekstremisme: Ideologi*. stopekstremisme. https://stopekstremisme.dk/ekstremisme/ekstremistiske-miljoer-i-danmark/venstreekstremisme-ideologi
+
+Center for Dokumentation og Indsats mod Ekstremisme. (2021). *Vurderingsværktøj*. stopekstremisme. https://stopekstremisme.dk/tilbud-og-vaerktojer/vurderingsvaerktoj-1
+
+Center for Dokumentation og Indsats mod Ekstremisme. (2022, 19.10.). *Om centeret.* stopekstremisme. Hentet 22.06.2023 fra https://stopekstremisme.dk/om-centeret
+
+Center for Dokumentation og Indsats mod Ekstremisme. (2023, 12.12.2023). *Hvem gør hvad i Danmark?.* stopekstremisme. https://stopekstremisme.dk/forebyggelsesindsats-1/hvem-gor-hvad-i-danmark/hvem-gor-hvad-i-danmark
+
+Center for Research on Extremism. (2022). *STV Codebook*. uio. https://www.sv.uio.no/c-rex/english/groups/rtv-dataset/rtv-codebook-2022.pdf
+
+Center for Terroranalyse. (2023). *Vurdering af terrortruslen mod Danmark*. pet. https://pet.dk/-/media/mediefiler/pet/dokumenter/analyser-og-vurderinger/vurdering-af-terrortruslen-mod-danmark/vurdering-af-terrortruslen-mod-danmark-2023.pdf
+
+Center mot våldsbejakande extremism. (2020). *Våldsbejakande djurrättsaktivism: En kunskapsöversikt*. cve. https://cve.se/download/18.843740f184cc4e52fa1188/1669904413958/CVE_Djurra%CC%88ttsaktivism.pdf
+
+Center mot våldsbejakande extremism. (2022a, 21.10.2022). *CVE:s stödtelefon för yrkesverksamma*. cve. https://www.regeringen.se/contentassets/d4fdc4bc1c314fdfb9aa6c7a3da9bc93/141514600webb.pdf
+
+Center mot våldsbejakande extremism. (2022b, 11.11. 2022). *Om CVE*. stopekstremisme. https://cve.se/omcve.4.361968e2184188c99bf43f.html
+
+Center mot våldsbejakande extremism. (2022c, 24.05.2022). *Operativt stöd*. cve.se. https://cve.se/operativtstod.4.2f4ed3a21806a388a2fd99.html
+
+Centers for Disease Control and Prevention. (2021, 06.04.2021). *About the CDC-Kaiser ACE Study*. cdc.gov. https://www.cdc.gov/violenceprevention/aces/about.html
+
+Centers for Disease Control and Prevention. (2023, 29.06.2023). *Adverse Childhood Experiences*. https://www.cdc.gov/violenceprevention/aces/index.html
+
+Cherney, A. (2016). Designing and implementing programmes to tackle radicalization and violent extremism: lessons from criminology. *Dynamics of Asymmetric Conflict*, *9*(1-3), 82-94. https://doi.org/10.1080/17467586.2016.1267865
+
+Chesney, R. & Citron, D. K. (2018). Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security. *California Law Review*. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3213954
+
+Child Rights International Network. (2022). *Preventing Safeguarding: The Prevent strategy and children’s rights*. crin. https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/t/62385835c6d6f61c4977be26/1647859768092/Preventing+Safeguarding+March+2022+CRIN.pdf
+
+Chrisafis, A. (2016, 05.07.2016). Paris attacks inquiry finds multiple failings by French intelligence agencies. *The Guardian*. https://www.theguardian.com/world/2016/jul/05/paris-attacks-inquiry-multiple-failings-french-intelligence-agencies
+
+Chrisafis, A. (2023, 28.08.2023). France to ban girls from wearing abayas in state schools. *The Guardian*. https://www.theguardian.com/world/2023/aug/28/france-to-ban-girls-from-wearing-abayas-in-state-schools
+
+Christchurch call. (u.å.). *Forside*. christchurchcall. https://www.christchurchcall.com/
+
+Christensen, T. W. & Bjørgo, T. (2018). *Hvordan håndtere hjemvendte fremmedkrigere og andre syriafarere?: Tiltak for ivaretakelse og oppfølging* (1/2018). uio. https://www.sv.uio.no/c-rex/english/publications/c-rex-reports/2018/hjemvendte-fremmedkrigere-c-rex-report-1-2018.pdf
+
+Christensen, T. W., Lindekilde, L., Sivenbring, J., Bjørgo, T., Magnæs Gjelsvik, I., Solhjell, R., Haugstvedt, H., Malmros, R. A., Kangasniem, M. & Kallio, H. (2023). “Being a Risk” or “Being at Risk”: Factors Shaping Negotiation of Concerns of Radicalization within Multiagency Collaboration in the Nordic Countries. *Democracy and Security*, 1-24. https://doi.org/10.1080/17419166.2023.2220117
+
+Clarke, C. P. (2021). Twenty Years After 9/11: What Is the Future of the Global Jihadi Movement?. *CTC Sentinel*, *14*(7), 91-105. https://ctc.westpoint.edu/wp-content/uploads/2021/09/CTC-SENTINEL-072021.pdf
+
+Clarke, C. P. (2022, 06.01.2022). Jan. 6 Didn’t Set Off A Wave of Right-Wing Terrorism. Here’s What Happened Instead. *Politico*. https://www.politico.com/news/magazine/2022/01/06/far-right-extremists-jan-6-domestic-terrorism-526505
+
+Cobain, I. & Taylor, M. (2016, 23.11.2016). Far-right terrorist Thomas Mair jailed for life for Jo Cox murder. *The Guardian*. https://www.theguardian.com/uk-news/2016/nov/23/thomas-mair-found-guilty-of-jo-cox-murder
+
+Collins, M. (2022, 11.06.2022). There’s a new breed of young, violent, far-right activist in Britain: ‘white jihadists’. *The Guardian*. https://www.theguardian.com/commentisfree/2022/jun/11/far-right-activists-britain-white-jihadists-neo-nazi-national-action-jailed
+
+Comerford, M. & Bryson, R. (2017). *Struggle Over Scripture: Charting the Rift Between Islamist Extremism and Mainstream Islam*. https://institute.global/policy/struggle-over-scripture-charting-rift-between-islamist-extremism-and-mainstream-islam
+
+Conway, M. (2017). Determining the Role of the Internet in Violent Extremism and Terrorism: Six Suggestions for Progressing Research. *Studies in Conflict & Terrorism*, *40*(1), 77-98. https://doi.org/10.1080/1057610X.2016.1157408
+
+Coordination Unit for Threat Analysis. (2023). *Strategic note: extremism and terrorism*. belgium. https://ocad.belgium.be/wp-content/uploads/2023/10/Strategic-Note-Extremism-and-Terrorisme_WEB.pdf
+
+Copsey, N. & Merrill, S. (2021, 14.04.2021). *Understanding 21st-Century Militant Anti-Fascism*. crestresearch. https://crestresearch.ac.uk/resources/understanding-21st-century-militant-anti-fascism/
+
+Cordesman, A. H. (2017). *Islam and the Patterns in Terrorism and Violent Extremism*. csis. https://www.csis.org/analysis/islam-and-patterns-terrorism-and-violent-extremism
+
+Corell, S. (2010). *Krigens ettertid*. Spartacus Forlag.
+
+Corell, S. (2021). *Likvidasjonen*. Gyldendal.
+
+Correctiv. (2024, 15.01.2024). Secret plan against Germany. *Correctiv.* https://correctiv.org/en/top-stories/2024/01/15/secret-plan-against-germany/
+
+Counter-terrorism Committee Executive Directorate. (2020). *Member states concerned by the growing and increasingly transnational threat of extreme right-wing terrorism*. un. https://www.un.org/securitycouncil/ctc/sites/www.un.org.securitycouncil.ctc/files/files/documents/2021/Jan/cted_trends_alert_extreme_right-wing_terrorism.pdf
+
+Counter Extremism Network Coordination Unit. (2016). *Structural quality standards: for work to intervene with and counter violent extremism*. girds. http://girds.org/publications/handbook-for-structural-quality-standards-in-deradicalization-work
+
+Counter Extremism Project. (2023). *France: Extremism and Terrorism*. counterextremism. https://www.counterextremism.com/countries/france-extremism-and-terrorism
+
+Counter Extremism Project. (u.å.). *Great Replacement Theory*. counterextremism. https://www.counterextremism.com/content/great-replacement-theory
+
+Court of Justice of the European Union. (2022). *Measures for the protection of the Union budget: the Court of Justice, sitting as a full Court, dismisses the actions brought by Hungary and Poland against the conditionality mechanism which makes the receipt of financing from the Union budget subject to the respect by the Member States for the principles of the rule of law*. europa.eu. https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-02/cp220028en.pdf
+
+Cowen, T. (2006). Terrorism as theater: Analysis and policy implications. *Public Choice*, *128*(1), 233-244. https://doi.org/10.1007/s11127-006-9051-y
+
+Crawford, B. & Keen, F. (2020). The Hanau Terrorist Attack: How Race Hate and Conspiracy Theories Are Fueling Global Far-Right Violence. *CTC Sentinel*, *13*(3), 1-8. https://ctc.westpoint.edu/wp-content/uploads/2020/03/CTC-SENTINEL-032020.pdf
+
+Crettiez, X. & Barros, Y. (2019). La Réalité De La Menace Djihadiste En France 2015–2018. *Chaire Citoyenneté, Sciences-Po Saint-Germain-en-Laye*. https://radical.hypotheses.org/files/2019/11/Chaire-Citoyennet%C3%A9-Realite-djihadistes.pdf
+
+Croce, M. D. (2021, 25.01.2021). Italy arrests ‘Black Sun’ terrorist who planned to kill women and Jews. *Il Manifesto*. https://global.ilmanifesto.it/italy-arrests-black-sun-terrorist-who-planned-to-kill-women-and-jews/
+
+Crumley, B. (2012, 26.03.2012). Terror in Toulouse: Brother of Jihadist Killer Held by Police. *Time.* https://world.time.com/2012/03/26/terror-in-toulouse-brother-of-jihadist-killer-held-by-police/
+
+CTEC. (2022, 04.10.2022). *Dangerous Organizations and Bad Actors: Sonnenkrieg Division*. middlebury. https://www.middlebury.edu/institute/academics/centers-initiatives/ctec/ctec-publications/dangerous-organizations-and-bad-actors-2
+
+CUTA. (u.å.). *Who We are*. cuta.belgium. https://cuta.belgium.be/who-we-are/#history-in-brief
+
+Dagsavisen. (2018, 03.09.2018). Mannefall i Sverigedemokraterna – flere innhentes av nazifortid. *Dagsavisen*. https://www.dagsavisen.no/nyheter/verden/2018/09/03/mannefall-i-sverigedemokraterna-flere-innhentes-av-nazifortid/
+
+Dagbladet. (2023, 21.10.2023). Ingen grenser for Israel. *Dagbladet*. https://www.dagbladet.no/meninger/ingen-grenser-for-israel/80378551
+
+Dalen, H. B. & Arnesen, P. K. (2020, 19.11.2020). *Folk deltar mer politisk*. ssb.no. https://www.ssb.no/kultur-og-fritid/artikler-og-publikasjoner/folk-deltar-mer-politisk
+
+Dalen, M. (2023). Røde Arme Fraksjon. I *Store norske leksikon*. https://snl.no/R%C3%B8de_Arme_Fraksjon
+
+Dalsgaard, L., Albæk, M. & Mikkelsen, N. R. (2019). *Terroristen fra Nørrebro: jagten på Omar el-Hussein*. Politiken forlag.
+
+Dalgaard-Nielsen, A., Eriksen, J. R., Hansen, M. L., Ilum, J., Ishaq, B., Ravndal, J. A. & Renå, H. (2020). *Evaluering av politiets og PSTs håndtering av terrorhendelsen i Bærum 10. august 2019*. politiet. https://www.politiet.no/globalassets/tall-og-fakta/al-noor---terrorhandlingen/evaluering_terrorhendelsen_i_baerum_01072020_original_digital.pdf
+
+Daniels, J. (2018). The Algorithmic Rise of the “Alt-Right”. *Contexts*, *17*(1), 60-65. https://journals.sfu.ca/jd/index.php/jd/article/view/8
+
+Danmarks Radio. (u.å.). *Tema: Koranlov*. https://www.dr.dk/nyheder/indland/tema/koranlov
+
+Dansk institut for menneskerettigheder. (2021). *Når algoritmer sagsbehandler – Rettigheder og retssikkerhed i offentlige myndigheders brug af profileringsmodeller*. https://menneskeret.dk/udgivelser/naar-algoritmer-sagsbehandler-rettigheder-retssikkerhed-offentlige-myndigheders-brug
+
+Data Act. (2023). *Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (PE/49/2023/REV/1)*. eur-lex.europa. https://eur-lex.europa.eu/eli/reg/2023/2854
+
+Data Governance Act. (2022). *Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724* (PE/85/2021/REV/1). eur-lex.europa. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868&qid=1707420232060
+
+Datatilsynet. (2018, 12.10.2021). *Om personopplysningsloven med forordning og når den gjelder*. datatilsynet.no. https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/
+
+Datatilsynet. (2019). *Høringsuttalelse fra Datat–lsynet – Forslag til ny lov om etterretningstjenesten*. regjeringen. https://www.regjeringen.no/no/dokumenter/horing---forslag-til-ny-lov-om-etterretningstjenesten/id2618620/?uid=e0b87829-2c74-4f2c-8066-c75801bcd0d5
+
+Datatilsynet. (u.å.). *Sjekkliste for vurdering av personvernkonsekvenser (DPIA)*. datatilsynet.no. https://www.datatilsynet.no/contentassets/8b767689abb14926af27820c9c2fb89e/sjekkliste-for-dpiafaser.pdf
+
+Davey, J. (2021). *Gamers Who Hate: An Introduction to ISD’s Gaming and Extremism Series*. isdglobal. https://www.isdglobal.org/wp-content/uploads/2021/09/20210910-gaming-reportintro.pdf
+
+Davey, J., Comerford, M., Guhl, J., Baldet, W. & Colliver, C. (2021). *A Taxonomy for the Classification of Post-Organisational Violent & Terrorrist Content*. isdglobal. https://www.isdglobal.org/wp-content/uploads/2021/12/A-Taxonomy-for-the-Classification-of-Post-Organisational-Violent-Extremist-Terrorist-Content.pdf
+
+Davies, L. (2009). Educating against Extremism: Towards a Critical Politicisation of Young People. *International Review of Education*, *55*(2/3), 183-203. http://www.jstor.org/stable/40270074
+
+Davies, L. (2014). Interrupting Extremism by Creating Educative Turbulence. *Curriculum Inquiry*, *44*(4), 450-468. http://www.jstor.org/stable/43941663
+
+Dawson, L. L. (2021). *A Comparative Analysis of the Data on Western Foreign Fighters in Syria and Iraq: Who Went and Why?.* icct. https://www.icct.nl/sites/default/files/2022-12/Dawson-Comparative-Analysis-FINAL-1.pdf
+
+de Graaf, B., van der Heide, L., Wanmaker, S. & Weggemans, D. (2013). The Anders Behring Breivik Trial: Performing Justice, Defending Democracy. *ICCT research paper*, *4*(6), 1-20. https://www.icct.nl/publication/anders-behring-breivik-trial-performing-justice-defending-democracy
+
+De nasjonale freds- og menneskerettighetssentrene. (2022). *Høringsinnspill fra De nasjonale freds- og menneskerettighetssentrene*. stortinget. https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/horingsinnspill/?dnid=28857&h=10004644
+
+De Saint Marc, G. D., Guglielminetti, L., Netten, J., Lacombe, S., van de Donk, M., Galesloot, J. & Woltman, P. (2015). *Handbook: Voices of victims of terrorism*. Radical Awareness Network & Working group voice of victims of terrorism,. https://home-affairs.ec.europa.eu/system/files/2020-09/ran_vvt_handbook_may_2016_en.pdf
+
+Dearden, L. (2022, 26.05.2022). The rise and fall of Britain’s first neo-Nazi terrorist group. *Independent*. https://www.independent.co.uk/independentpremium/long-reads/national-action-neo-nazis-history-arrests-b2087169.html
+
+Deloughery, K., King, R. D. & Asal, V. (2012). Close Cousins or Distant Relatives? The Relationship Between Terrorism and Hate Crime. *Crime and delinquency*, *58*(5), 663-688. https://journals.sagepub.com/doi/abs/10.1177/0011128712452956?journalCode=cadc
+
+Dembra. (u.å.-a). *For lærere*. dembra.no. https://www.dembra.no/no/for-laerere
+
+Dembra. (u.å.-b). *Om Dembra: Hva er Dembra?.* dembra. Hentet 28.06.2023 fra https://dembra.no/no/om-dembra/
+
+Dembra. (u.å.-c). *Samarbeidspartnere og støttespillere*. https://www.dembra.no/no/samarbeidspartnere-og-stottespillere
+
+Dembra. (u.å.-d). *Utarbeide en Dembra-plan*. dembra.no. https://www.dembra.no/no/undervisningsopplegg/utarbeide-en-dembra-plan
+
+Den internasjonale Røde Kors-komiteen. (2019). *International humanitarian law and the challenges of contemporary armed conflicts*. https://www.icrc.org/en/document/icrc-report-ihl-and-challenges-contemporary-armed-conflicts
+
+Den internasjonale Røde Kors-komiteen. (2023). *The Geneva Conventions and their Commentaries.* icrc.org. https://www.icrc.org/en/war-and-law/treatiescustomary-law/geneva-conventions
+
+Den nordiske motstandsbevegelsen. (2023, 07.10.2023). *Den nordiske motstandsbevegelsen støtter offensiven mot Israel*. motstandsbevegelsen.no. https://www.motstandsbevegelsen.info/den-nordiske-motstandsbevegelsen-stotter-offensiven-i-israel/
+
+Den norske legeforening. (2011, 27.12.2011). *World Medical Association – deklarasjonen*. legeforeningen.no. https://www.legeforeningen.no/om-oss/etikk/etiske-regler-koder-deklarasjoner-og-lignende/world-medical-association-deklarasjonen/
+
+Departementene. (2020). *Regjeringens handlingsplan mot rasisme og diskriminering på grunn av etnisitet og religion 2020–2023*. regjeringen. https://www.regjeringen.no/contentassets/589aa9f4e14540b5a5a6144aaea7b518/handlingsplan-mot-rasisme_uu_des-2019.pdf
+
+Departementene. (2021). *Regjeringens handlingsplan mot diskriminering på grunn av seksuell orientering, kjønnsidentitet, kjønnsuttrykk og kjønnskarakteristika*. regjeringen. https://www.regjeringen.no/contentassets/023227879f06471793113a7f116e71b9/210624-handlingsplan-lhbtiq\_-.pdf
+
+Det europeiske rådet. (2023). *Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world*. consilium. https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/
+
+Det Europeiske Wergelandsenteret. (u.å.). *Lærings- og refleksjonsmateriell om 22. juli*. 22juli-ressurser. https://22juli-ressurser.no/
+
+Det Europeiske Wergelandsenteret & Utøya. (u.å.). *Forebygging av ekstremisme – er skolen alltid svaret? 27. Mars på Utøya*. demokrativerksted. https://demokrativerksted.no/2023/01/09/konferanse/
+
+Det Mosaiske Trossamfund. (2023, 30.10.2023). Bekymringsmelding – et varsko for det norske demokratiet. *VG*. https://www.vg.no/nyheter/meninger/i/3EGb0d/bekymringsmelding-et-varsko-for-det-norske-demokratiet
+
+Det norske akademis ordbok. (u.å.-a). *Forebygge*. https://naob.no/ordbok/forebygge
+
+Det norske akademis ordbok. (u.å.-b). *Reintegrasjon*. https://naob.no/ordbok/reintegrasjon
+
+Det norske teatret. (u.å.). *Utafor*. detnorsketeatret.no. https://www.detnorsketeatret.no/framsyningar/utafor
+
+Dettmer, J. (2017, 18.07.2017). Far-right Group Plans to Patrol Mediterranean to Turn Back Migrants. *Voa*. https://www.voanews.com/a/far-right-group-plans-patrol-mediterranean-to-turn-back-migrants/3948733.html
+
+Deutscher Bundestag. (2020). *Gesetz gegen Rechtsextremismus und Hasskriminalität beschlossen*. bundestag. https://www.bundestag.de/dokumente/textarchiv/2020/kw25-de-rechtsextremismus-701104
+
+Deutsches Zentrum für Integrations- und Migrationsforschung. (2022, 05.05.2022). *Viele Menschen in Deutschland sind bereit zu Engagement gegen Rassismus*. dezim-institut. https://www.dezim-institut.de/presse/presse-detail/viele-menschen-in-deutschland-sind-bereit-zu-engagement-gegen-rassismus/
+
+Deutsches Zentrum für Integrations- und Migrationsforschung. (u.å.). *Nationaler Diskriminierungs- und Rassismusmonitor (NaDiRa)*. dezim-institut. https://www.dezim-institut.de/institut/rassismusmonitor/
+
+Devakumar, D., Selvarajah, S., Abubakar, I., Kim, S.-S., McKee, M., Sabharwal, N. S., Saini, A., Shannon, G., White, A. I. R. & Achiume, E. T. (2022). Racism, xenophobia, discrimination, and the determination of health. *The Lancet*, *400*(10368), 2097-2108. https://doi.org/10.1016/S0140-6736(22)01972-9
+
+Devarajan, S., Mottaghi, L., Do, Q.-T., Brockmeyer, A., Joubert, C., Bhatia, K. & Jelil, M. A. (2016). *Economic and Social Inclusion to Prevent Violent Extremism*. worldbank. https://documents1.worldbank.org/curated/en/409591474983005625/pdf/108525-REVISED-PUBLIC.pdf
+
+Dewey, J. (1993). *Dewey: The Political Writings* (D. A. Morris & I. Shapiro, Red.). Hackett Publishing Company.
+
+Deutsche Welle. (2023a, 11.07.2023). Germany designates Afd reginal party ‘extremist’. *Deutsche Welle*. https://www.dw.com/en/germany-designates-afd-regional-party-extremist/a-67334260
+
+Deutsche Welle. (2023b, 12.08.2023). Germany: AfD in Saxony classified as ‘extremist’. *Deutsche Welle*. https://www.dw.com/en/germany-afd-in-saxony-classified-as-extremist/a-67665643
+
+Dialogforum Østfold. (2018, 17.10.2018). *Om oss*. dialogforumostfold.no. https://dialogforumostfold.no/index.php/om-oss
+
+Dialogpilotene. (u.å.). *Forside*. https://www.dialogpilotene.no/
+
+Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration & Die Beauftragte der Bundesregierung für Antirassismus. (u.å.-a). *Community-basierte Anlauf- und Beratungsstellen für von Rassismus betroffene Menschen*. integrationsbeauftragte. https://www.integrationsbeauftragte.de/ib-de/staatsministerin/community-basierte-anlauf-und-beratungsstellen-fuer-von-rassismus-betroffene-menschen-2224534
+
+Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration & Die Beauftragte der Bundesregierung für Antirassismus. (u.å.-b). *Community-basierte Beratung gegen Rassismus*. integrationsbeauftragte. https://www.integrationsbeauftragte.de/ib-de/staatsministerin/community-basierte-beratung-gegen-rassismus-2172442
+
+Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration, & Die Beauftragte der Bundesregierung für Antirassismus. (u.å.-c). *Die Arbeit der Antirassismusbeauftragten*. integrationsbeauftragte. https://www.integrationsbeauftragte.de/ib-de/staatsministerin/antirassismus
+
+Digital Markets Act. (2022). *Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828* (PE/17/2022/REV/1). eur-lex.europa. http://data.europa.eu/eli/reg/2022/1925/oj
+
+Digital Services Act. (2022). *Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC* (PE/30/2022/REV/1). eur-lex. https://eur-lex.europa.eu/eli/reg/2022/2065/oj
+
+Direktoratet for forvaltning og økonomistyring. (2023). *Direktoratsrollen i utvikling. En gjennomgang av Politidirektoratet* (2023: 2). dfo. https://dfo.no/sites/default/files/2023-03/DF%C3%98-rapport%202023-2%20Direktoratsrollen%20i%20utvikling.%20En%20gjennomgang%20av%20Politidirektoratet.pdf
+
+Direktoratet for forvaltning og økonomistyring. (u.å.-a). *Innbyggerundersøkelsen 2021*. dfo.no. Hentet 15.06.2023 fra https://dfo.no/undersokelser/innbyggerundersokelsen-2021/tillit
+
+Direktoratet for forvaltning og økonomistyring. (u.å.-b). *Tilskudd.no*. dfo.no. https://tilskudd.dfo.no/
+
+Document 52021PC0206. (2021). *Proposal for a regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (artificial intelligence act) and amending certain union legislative acts* (COM/2021/206). eur-lex.europa. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206
+
+Dokument 7:1 (2019–2020). *Årsmelding 2019*. EOS-utvalget. https://www.stortinget.no/globalassets/pdf/dokumentserien/2019-2020/dok7-1-201920.pdf
+
+Dokument 7:1 (2022–2023). *Årsmelding 2022*. EOS-utvalget. https://eos-utvalget.no/wp-content/uploads/2023/06/EOS-utvalgets-arsmelding-for-2022.pdf
+
+Dokument 7:1 (2023–2024) *Særskilt melding til Stortinget om Etterretningstjenestens rolle i 25. juni-saken*. stortinget. https://www.stortinget.no/globalassets/pdf/dokumentserien/2023-2024/dok7-202324-001.pdf
+
+Dokument 8:13 S (2023–2024), Innst. 86 L (2023–2024), Lovvedtak 23 (2023-2024). *Representantforslag om å forebygge og bekjempe organisert kriminalitet.* stortinget. https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Vedtak/Sak/?p=95772
+
+Dokument 8:246 S (2022–2023). *Representantforslag om bedre forebygging av og mer kunnskap om voldelig ekstremisme og radikalisering*. stortinget. https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Vedtak/Sak/?p=94531
+
+Dokument 16 (2011–2012). (2011). *Rapport til Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i Grunnloven*. stortinget. https://www.stortinget.no/Global/pdf/Dokumentserien/2011-2012/dok16-201112.pdf
+
+Dokument 19 (2022–2023). *Sannhet og forsoning: grunnlag for et oppgjør med fornorskingspolitikk og urett mot samer, kvener/norskfinner og skogfinner*. stortinget. https://www.stortinget.no/globalassets/pdf/–nnhets--og-forsoningskommisjonen/rapport-til-stortinget-fra-–nnhets--og-forsoningskommisjonen.pdf
+
+Dokument nr. 15:1814 (2022–2023). *Skriftlig spørsmål fra Jan Tore Sanner (H) til forsknings- og høyere utdanningsministeren*. stortinget. stortinget.no. https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=93549
+
+Dostal, J. M. (2015). The Pegida Movement and German Political Culture: Is Right-Wing Populism Here to Stay? *The Political Quarterly*, *86*(4), 523-531. https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-923X.12204
+
+Dovidio, J. F., Glick, P. & Rudman, L. A. (Red.). (2005). *On the nature of prejudice: fifty years after Allport*. Blackwell Publishing.
+
+Doxsee, C. (2021). *Examining Extremism: The Militia Movement*. csis. https://www.csis.org/blogs/examining-extremism/examining-extremism-militia-movement
+
+Drammen kommune. (2022). *Fra ord til handling: Forebygging av utenforskap, radikalisering og voldelig ekstremisme*. drammen.kommune.no. https://www.drammen.kommune.no/globalassets/politikk-og-samfunn/planer/dokumenter/handlingsplan-urve-desember-2022.pdf
+
+Dyb, G. & Jensen, T. K. (2019). *Å leve videre etter katastrofen: stressreaksjoner og oppfølging etter traumer*. Gyldendal.
+
+Dyb, G., Stensland, S. Ø., Glad, K. A., Lingaas, I., Undset, A. B., Andreassen, A. L. & Porcheret, K. (2021). *«Opplevelser og reaksjoner hos de som var på Utøya 22. juli 2011»: En oppsummering av fjerde intervjurunde*. nkvts. https://www.nkvts.no/content/uploads/2021/05/Utoya_oppsummering-fjerde-intervjurunde-1.pdf
+
+Dyrendal, A. & Emberland, T. (2019). *Hva er konspirasjonsteorier*. Universitetsforlaget.
+
+Døving, C. A. (2022a). Innledning. I C. A. Døving (Red.), *Rasisme: Fenomenet, forskningen, erfaringene*. Universitetsforlaget.
+
+Døving, C. A. (2022b). *Rasisme: Fenomenet, forskningen, erfaringene*. Universitetsforlaget.
+
+Døving, C. A. & Emberland, T. (2018). Konspirasjonsteorier i det ytterliggående høyrelandskapet i Norge. I T. Bjørgo (Red.), *Høyreekstremisme i Norge: Utviklingstrekk, konspirasjonsteorier og forebyggingsstrategier.* Politihøgskolen. https://phs.brage.unit.no/phs-xmlui/bitstream/handle/11250/2568904/hoyreekstremisme.pdf?sequence=1&isAllowed=y
+
+Earle, P. C. (2019, 14.11.2019). The Birth of the Deep State: A History. *American Institute for Economic Research*. https://www.aier.org/article/the-birth-of-the-deep-state-a-history/?gclid=EAIaIQobChMI-Ib70a6xgQMVJ4doCR3r5wd8EAAYASAAEgKyKPD_BwE
+
+Efjestad, J. S. & Selman, C. (2021). *Taushetsplikt i forvaltningen*. Universitetsforlaget.
+
+Eggebø, H. & Stubberud, E. (2016). *Hatefulle ytringer. Delrapport 2: Forskning på hat og diskriminering* (2016: 15). samfunnsforskning. https://samfunnsforskning.brage.unit.no/samfunnsforskning-xmlui/bitstream/handle/11250/2442447/Rapport_15_16_HatYtr_Del2_endelig.pdf?sequence=1&isAllowed=y
+
+Eggen, N. S. & Vogt, K. (2021). Hadith. I *Store norske leksikon*. https://snl.no/hadith
+
+Eide, J. O. (2001, 29.01.2001). Vil dø for en ren rase. *Aftenposten*. https://www.aftenbladet.no/innenriks/i/2mQEl/vil-doe-for-en-ren-rase
+
+Eidsvik, Ø. L. & Nicolaisen, C. (2011, 17.10.2011). Sprer ville teorier om 22. juli. *Bergens Tidende.* https://www.bt.no/nyheter/lokalt/i/l4K1G/sprer-ville-teorier-om-22-juli
+
+Ekern, S. (2023, 23.11.2023). Sjokket i Nederland. *NRK*. https://www.nrk.no/urix/geert-wilders-vant-en-knusende-seier-i-nederland-1.16648165
+
+Ekholt, C. T. (2023, 14.05.2023). I dag ble Oslos «regnbuegate» bilfri. *Aftenposten*. https://www.aftenposten.no/oslo/i/Knqm86/i-dag-ble-oslos-regnbuegate-bilfri
+
+Ekman, M. (2022). The great replacement: Strategic mainstreaming of far-right conspiracy claims. *Convergence*, *28*(4), 1127-1143. https://journals.sagepub.com/doi/full/10.1177/13548565221091983
+
+Ekman, M., Osman, B., Dalsbro, A. & Leman, J. (2017, 08.04.2017). Så stödjer den misstänkta terroristen radikalislamism på Facebook. *Expo*. https://expo.se/2017/04/s%C3%A5-st%C3%B6djer-den-misst%C3%A4nkta-terroristen-radikalislamism-p%C3%A5-facebook
+
+Ekornås, B. (2018). Ekstreme –eivalg – en «løsning» for sårbare unge. I E. Reiss & L. Noor (Red.), *Radikalisering: fenomen og forebygging*. Frekk.
+
+el-Said, H. & Barrett, M. R. (2017). *Enhancing the Understanding of the Foreign Terrorist Fighters Phenomenon in Syria*. radicalisationresearch. https://radicalisationresearch.org/search/natodstl/enhancing-the-understanding-of-the-foreign-terrorist-fighters-phenomenon-in-syria/
+
+Ellefsen, R. & Sandberg, S. (2022). Everyday Prevention of Radicalization: The Impacts of Family, Peer, and Police Intervention. *Studies in Conflict & Terrorism*, 1-24. https://doi.org/10.1080/1057610X.2022.2037185
+
+Ellung, A. & Andersson, P. (2023, 17.10.2023). Uppgifter: Misstänkt gärningsman tidigare anklagad för terror. *TV 4*. https://www.tv4.se/artikel/5q8WWh9fNScL4I3RZnpzmW/det-haer-vet-vi-om-gaerningsmannen
+
+Élysée. (2023, 16.02.2023). *Réunion du Forum de l’Islam de France à l’élysée*. elysee.fr. https://www.elysee.fr/emmanuel-macron/2023/02/16/reunion-du-forum-de-lislam-de-france-a-lelysee
+
+Emberland, T. (2019). «HAT OG DEL»: Om arbeiderpartihat, konspirasjonssnakk, subversjonsmyter og Sylvi Listhaug. *Arr*, *30*(3). https://arrvev.no/artikler/hat-og-del
+
+Emeriau, M. & Laitin, D. D. (2020). *Integration Failures in France: A Search for Mechanisms*. standford. https://laitinresearch.stanford.edu/wp-content/uploads/2020/09/IPL_WPS-20-03.pdf
+
+Enstad, J. D. (2017). “Glory to Breivik!”: The Russian Far Right and the 2011 Norway Attacks. *Terrorism and Political Violence*, *29*(5), 773-792. https://doi.org/10.1080/09546553.2015.1008629
+
+EOS-utvalget. (2021). *Høringssvar fra EOS-u–valget – høring om forslag til endringer i politiloven, politiregisterloven og politiregisterfors–riften – PSTs etterretningsoppdrag og bruk av åpent tilgjengelig informasjon*. regjeringen. https://www.regjeringen.no/no/dokumenter/horing-endringer-i-politiloven-og-politiregisterloven-mv.-psts-etterretningsoppdrag-og-behandling-av-apent-tilgjengelig-informasjon.pdf/id2874615/?uid=7a31c030-56a8-4a4b-8730-d54b6af7adf8
+
+EOS-utvalget. (2022, 25.11.2022). *Sjå opptak av EOS-utvalgets årskonferanse 30. mars 2023 her*. eos-utvalget.no. https://eos-utvalget.no/eos-utvalgets-arskonferanse-30-mars-2023/
+
+EOS-utvalget. (2023). *Om EOS-utvalgets rolle knyttet til Bhatti og 25-juni-utvalget*. eos-utvalget.no. https://eos-utvalget.no/om-eos-utvalgets-rolle-knyttet-til-bhatti-og-25-juni-utvalget/
+
+EOS-utvalget. (u.å.). *Hvem er vi?*. eos-utvalget.no. https://eos-utvalget.no/hjem/om-eos/hvem-er-vi/
+
+Epeland, J. & Normann, T. M. (2021, 29.03.2021). *115 000 barn i husholdninger med vedvarende lavinntekt*. ssb. https://www.ssb.no/inntekt-og-forbruk/inntekt-og-formue/artikler/115-000-barn-i-husholdninger-med-vedvarende-lavinntekt
+
+Erdal, M. B. (2018). Å våge å være norske sammen. I H. Syse (Red.), *Norge etter 22. juli: Forhandlinger om verdier, identiteter og et motstandsdyktig samfunn (s. 27-46). Cappelen Damm Akademisk.*
+
+Erdal, S. F. & Granlund, L. (2021). Fire innfallsvinkler til undervisningen om 22. juli-terroren. I S. F. Erdal, L. Granlund & E. Ryen (Red.), *Samfunnsfagdidaktikk* (s. 136-153). Universitetsforlaget.
+
+Erdvik, I. B. & Ervik, R. (2022). *Frivillige organisasjoners arbeid for inkludering av barn og unge* (2022: 2). Senter for forskning på sivilsamfunn og frivillig sektor. https://samfunnsforskning.brage.unit.no/samfunnsforskning-xmlui/bitstream/handle/11250/2837166/Sivilsamfunn_Rapport_2_2022.pdf?sequence=1&isAllowed=y
+
+Eriksen, A. (1995). *Det var noe annet under krigen: 2 verdenskrig i norsk kollektivtradisjon*. Pax.
+
+Eriksen, D. (2016, 13.06.2016). Slik bruker IS Vestens popkultur til propaganda. *NRK*. https://www.nrk.no/urix/xl/slik-bruker-is-vestens-popkultur-til-propaganda-1.12991486
+
+Eriksen, T. B., Harket, H. & Lorenz, E. (2009). *Jødehat*. Cappelen Damm.
+
+Ervik, A. (2022). mem. I *Store norske leksikon*. Hentet 14. januar fra https://snl.no/me
+
+Espeland, U. (2023, 18.10.2023). *For ein dag! I dag var siste gongen på Utøya, i 2023. Eg har igjen fått vere med på vitnesamtale* \[Statusoppdatering\]. Facebook. https://www.facebook.com/story.php?story_fbid=10168041859650501&id=802305500&mibextid=WC7FNe
+
+Essed, P. (1991). *Understanding everyday racism: an interdisciplinary theory*. SAGE Publications.
+
+Essed, P. (2008). Everyday Racism. I D. T. Goldberg & J. Solomos (Red.), *A Companion to Racial and Ethnic Studies* (s. 202-216). Blackwell Publishers. https://onlinelibrary.wiley.com/doi/abs/10.1111/b.9780631206163.2002.00020.x
+
+Etterretningstjenesten. (2023a). *Fokus 2023: Etterretningstjenestens vurdering av aktuelle sikkerhetsutfordringer*. etterretningstjenesten.no. https://www.etterretningstjenesten.no/publikasjoner/fokus/fokus-norsk/Fokus2023%20-%20NO%20-%20Weboppslag%20v3.pdf/\_/attachment/inline/c1a9a458-aa1d-4bf6-a558-9cec57acde8f:9b2050d897a2b2db1bddc8e505db7b666e608b98/Fokus2023%20-%20NO%20-%20Weboppslag%20v3.pdf
+
+Etterretningstjenesten. (2023b, 09.02.2023). *Om Etterretningstjenesten*. etterretningstjenesten.no. https://www.etterretningstjenesten.no/om-oss/om-etterretningstjenesten
+
+Europakommisjonen. (2019, 07.10.2019). *Fighting Terrorism Online: EU Internet Forum committed to an EU-wide Crisis Protocol*. europa.eu. https://ec.europa.eu/commission/presscorner/detail/en/ip_19_6009
+
+Europakommisjonen . (2021a, 15.07.2021). *EU founding values: Commission starts legal action against Hungary and Poland for violations of fundamental rights of LGBTIQ People*. europa.eu. https://ec.europa.eu/commission/presscorner/detail/en/ip_21_3668
+
+Europakommisjonen. (2021b). *Working definition on right-wing extremism*. https://home-affairs.ec.europa.eu/system/files/2022-02/VRWE%20working%20definition_en.pdf
+
+Europakommisjonen. (2022). *Norway in the Digital Economy and Society Index*. https://digital-strategy.ec.europa.eu/en/policies/desi-norway
+
+Europakommisjonen. (2023). *Horizon Europe Work Programme 2023–2024: 6. Civil Security for Society*. ec.europa. https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-6-civil-security-for-society_horizon-2023-2024_en.pdf
+
+Europakommisjonen. (u.å.-a). *About RAN Practitioners*. europa.eu. https://home-affairs.ec.europa.eu/networks/radicalisation-awareness-network-ran/about-ran_en#who-are-we
+
+Europakommisjonen . (u.å.-b). *European Union Internet Forum (EUIF)*. europa.eu. https://home-affairs.ec.europa.eu/networks/european-union-internet-forum-euif_en
+
+Europakommisjonen. (u.å.-c). *Victims/survivors of terrorism Working Group*. ec.europa. https://home-affairs.ec.europa.eu/networks/radicalisation-awareness-network-ran/topics-and-working-groups/ran-vot_en
+
+Europaparlamentet. (2022, 15.09.2022). *MEPs: Hungary can no longer be considered a full democracy*. europarl. https://www.europarl.europa.eu/news/en/press-room/20220909IPR40137/meps-hungary-can-no-longer-be-considered-a-full-democracy
+
+Europarådet. (2016). *Kompetanse i demokratisk kultur: Å leve sammen som likeverdige i kulturelt mangfoldige demokratiske samfunn*. https://rm.coe.int/168070c07e
+
+Europaparlamentet. (2022, 15.09.2022). *MEPs: Hungary can no longer be considered a full democracy*. europarl. https://www.europarl.europa.eu/news/en/press-room/20220909IPR40137/meps-hungary-can-no-longer-be-considered-a-full-democracy
+
+Evans, A. T. & Williams, H. J. (2022). *How Extremism Operates Online: A Primer*. RAND Corporation. https://doi.org/10.7249/PEA1458-2
+
+Evelon. (2023, 09.11.2023). *Hva er generativ kunstig intelligens (GPT)?.* evelon.no. https://www.evelon.no/artikler/hva-er-generativ-kunstig-intelligens-gpt
+
+Expo. (2022, 13.10.2022). *Alternativ för Sverige (AFS)*. expo.se. https://norpublica.org/2020/05/17/rasehatets-fabelprosa/
+
+Ezzati, R. T. (2018). Grenser for fellesskap. I H. Syse, *Norge etter 22. juli: Forhandlinger om verdier, identiteter og et motstandsdyktig samfunn (s. 47-65). Cappelen Damm Akademisk*
+
+Fagerland, T. E., Røyneland, L. & Hussaini, M. (2017, 09.02.2017). Kronikk: Legg Utøya-minnestedet der det skjedde. *Aftenposten*. https://www.aftenposten.no/meninger/debatt/i/44yre/kronikk-legg-utoeya-minnestedet-der-det-skjedde
+
+Faiola, A. (2016, 01.02.2016). Soldiers of Odin: The far-right groups in Finland ‘protecting women’ from asylum seekers. *Independent*. https://www.independent.co.uk/news/world/europe/soldiers-of-odin-the-farright-groups-in-finland-protecting-women-from-asylum-seekers-a6846341.html
+
+Faktisk.no. (u.å.). *Forside*. faktisk.no. https://www.faktisk.no/
+
+Fangen, K. (1995). *Skinheads i rødt, hvitt og blått: en sosiologisk studie fra «innsiden»*. Norges forskningsråd.
+
+Fangen, K. (1999). *Pride and power: a sociological interpretation of the Norwegian radical nationalist underground movement* \[Doktorgradavhandling, Universitetet i Oslo\]. UiO DUO vitenarkiv. http://urn.nb.no/URN:NBN:no-30964
+
+Fangen, K. (2001). *En bok om nynazister.* Universitetsforlaget.
+
+Fangen, K. (2003). A death mask of masculinity: the brotherhood of Norwegian right-wing skinheads. I M. Fielitz & N. Thurston (Red.), *Post-Digital Cultures of the Far Right: Online Actions and Offline Consequences in Europe and the US*. Bielefeld.
+
+Fangen, K. & Carlsson, Y. (2013). Right-wing extremism in Norway: Prevention and intervention. *Right-wing extremism in Europe*, 327-444. progressicepost. https://www.progressivepost.eu/wp-content/uploads/Right-wing-Extremism-in-Europe.pdf#page=329
+
+Fangen, K. & Nilsen, M. R. (2020). Variations within the Norwegian Far Right: From neo-Nazism to anti-Islamism. *Journal of Political Ideologies, 278-297*. https://www.tandfonline.com/doi/full/10.1080/13569317.2020.1796347
+
+Fangen, K. & Olsen, T. (2002). *Bak nynazismen*. Cappelen Damm.
+
+Fangen, K. & Skjelsbæk, I. (2020). Editorial: special issue on gender and the far right. *Politics, Religion & Ideology*, *21*(4), 411-415. https://doi.org/10.1080/21567689.2020.1851866
+
+Fardan, C. R. (2023, 09.08.2023). Mange vet ikke hvordan dagens høyreekstremisme i Norge ser ut. *Aftenposten*. https://www.aftenposten.no/meninger/kronikk/i/jl71Kz/mange-vet-ikke-hvordan-dagens-hoeyreekstremisme-i-norge-ser-ut
+
+Farinelli, F. (2021). *Conspiracy theories and right-wing extremism – Insights and recommendations for P/CVE*. European Union. https://home-affairs.ec.europa.eu/networks/radicalisation-awareness-network-ran/publications/conspiracy-theories-and-right-wing-extremism-insights-and-recommendations-pcve-2021_en
+
+Farris, S. R. (2017). *In the Name of Women’s Rights: The Rise of Femonationalism*. Duke University Press.
+
+FATF. (2021). *What we do*. fatf-gafi.org. https://www.fatf-gafi.org/en/the-fatf/what-we-do.html
+
+FBI. (u.å.). *East African Embassy Bombings*. fbi.gov.com. https://www.fbi.gov/history/famous-cases/east-african-embassy-bombings
+
+Feldman, B. (2018, 24.04.2018). Posts Indicate Suspect in Toronto Attack Was Radicalized on 4chan. *Intelligencer*. https://nymag.com/intelligencer/2018/04/suspect-in-toronto-posts-about-incel-rebellion.html
+
+Fernquist, J., Kaati, L., Pelzer, B., Cohen, K. A. & Akrami, N. (2020). *Hope, cope & rope*. foi. https://www.foi.se/rapportsammanfattning?reportNo=FOI%20Memo%207040
+
+Fieschi, C. (2020). *Muslims and the secular city: How right-wing populists shape the French debate over Islam*. brookings. https://www.brookings.edu/articles/muslims-and-the-secular-city-how-right-wing-populists-shape-the-french-debate-over-islam/
+
+Figenschou, T. U. (2020). Nyhetsbruk, mistillit og mediekritikk i et medielandskap i rask endring. *Tidsskrift for samfunnsforskning*, *61*(1), 83-86. https://doi.org/10.18261/issn.1504-291X-2020-01-12
+
+Filter Nyheter. (2023, 31.07.2023). Koranbrenning-krisen vokser: Danmark og Sverige signaliserer lovendringer før muslimsk toppmøte. *Filter Nyheter*. https://filternyheter.no/koranbrenning-krisen-vokser-danmark-og-sverige-signaliserer-lovendringer-for-muslimsk-toppmote/
+
+Finsveen, J. N. (2020, 17.10.2020). Halshoggingen i Paris: Samuel Paty (47) ble halshogd. *Dagbladet*. https://www.dagbladet.no/nyheter/samuel-paty-47-ble-halshogd/72961839
+
+Fitzsimons, T. (2019, 29.01.2019). Conservative group hosts anti-transgender panel of feminists ‘from the left’. *NBC*. https://www.nbcnews.com/feature/nbc-out/conservative-group-hosts-anti-transgender-panel-feminists-left-n964246
+
+Fladberg, K. L. (2015, 05.02.2015). Ekstremisme inn i osloskolen. *Dagsavisen*. https://www.dagsavisen.no/nyheter/innenriks/2015/02/05/ekstremisme-inn-i-osloskolen/
+
+Fladmoe, A. & Nadim, M. (2019). *Erfaringer med hatytringer og hets blant LHBT-personer, andre minoritetsgrupper og den øvrige befolkningen*. samfunnsforskning. http://hdl.handle.net/11250/2584665
+
+Flexid stiftelsen. (u.å.). *Forside*. flexid.no. https://flexid.no/
+
+Flyktninghjelpen. (u.å.). *Vårt arbeid i Polen*. flyktninghjelpen.no. https://www.flyktninghjelpen.no/herjobbervi/europa/vart-arbeid-i-polen/
+
+Flynn, K. & Mathias, B. (2023). “How Am I Supposed to Act?”: Adapting Bronfenbrenner’s Ecological Systems Theory to Understand the Developmental Impacts of Multiple Forms of Violence. *Journal of Adolescent Research*. https://journals.sagepub.com/doi/abs/10.1177/07435584231159674
+
+Flaaen, H. M. (2021, 21.05.2021). Næringslivstopper på skolebenken for å bli mangfoldsledere. *Kapital*. https://www.kapital.no/karriere/ledelse/2021/05/21/7671400/kpmg-yara-tax-free-og-forsvaret-setter-seg-pa-skolebenken-for-a-bli-mangfoldsledere?zephr_sso_ott=uSD6JA
+
+FN-sambandet. (2023, 27.02.2023). *Ekstremisme og terrorisme*. fn. Hentet 06.11.2023 fra https://www.fn.no/tema/konflikt-og-fred/ekstremisme-og-terrorisme
+
+FNs høykommissær for menneskerettigheter. (2023, 04.11.2023). *UN Human Rights Chief condemns rise in hatred*. ohchr. https://www.ohchr.org/en/press-releases/2023/11/un-human-rights-chief-condemns-rise-hatred
+
+FNs kontor for narkotika og kriminalitet. (2017). *Handbook on Children Recruited and Exploited by Terrorist and Violent Extremist Groups: The Role of the Justice System*. unodc. https://www.unodc.org/documents/justice-and-prison-reform/Child-Victims/Handbook_on_Children_Recruited_and_Exploited_by_Terrorist_and_Violent_Extremist_Groups_the_Role_of_the_Justice_System.E.pdf
+
+FNs kontor for narkotika og kriminalitet. (u.å.). *Preventing and responding to violence against children recruited and exploited by terrorist and violent extremist groups* \[Faktaark\]. unodc. https://www.unodc.org/pdf/criminal_justice/endVAC/factsheet/UNODC-ENDVAC_Factsheet.pdf
+
+FNs sikkerhetsråd. (u.å.). *Delhi Declaration on countering the use of new and emerging technologies for terrorist purposes now available in Six languages*. un.org. https://www.un.org/securitycouncil/ctc/news/delhi-declaration-countering-use-new-and-emerging-technologies-terrorist-purposes-now-available
+
+Folkvord, I. (2020). *Stemmene etter 22. juli*. SAP Scandinavian Academic Press
+
+Foreldreveileder, Bærum kommune. (2015). *Foreldreveileder*. baerum.kommune. https://www.baerum.kommune.no/globalassets/aktuelt/dokumenter/foreldreveileder.pdf
+
+Foreningen FRI. (u.å.-a). *Forside*. foreningenfri.no. https://foreningenfri.no/
+
+Foreningen FRI. (u.å.-b). *Rk Justis*. foreningenfri.no. https://foreningenfri.no/rosa-kompetanse/rk-justis/
+
+Forskningsrådet. (2018). *Sluttrapport 2013–2018: Samfunnssi–kerhet – SAmRISK*. forskningsradet.no. https://www.forskningsradet.no/siteassets/publikasjoner/1254034759570.pdf
+
+Forskningsrådet. (2019, 14.08.2023). *Statlig grunnbevilgning til forskningsinstitutter og forskningskonsern*. forsknigsradet.no. https://www.forskningsradet.no/forskningspolitikk-strategi/instituttsektoren/basisfinansiering-forskningsinstitutt/
+
+Forskningsrådet. (2020). *Evaluering av Senter for ekstremismeforskning (C-REX)*. forskningsradet.no. https://www.forskningsradet.no/siteassets/tall-og-statistikk-seksjonen/evalueringer/c-rex-rapport-endelig.pdf
+
+Forskningsrådet. (2022a, 10.01.2023). *Indikatorrapporten*. forskningsradet.no. https://www.forskningsradet.no/indikatorrapporten/indikatorrapporten-dokument/bevilgninger-og-virkemidler/ny-4.3/
+
+Forskningsrådet. (2022b). *Indikatorrapporten 2022*. forskningsradet.no. https://www.forskningsradet.no/siteassets/indikatorrapporten/pdf-rapport/indikatorrapporten-2022_ferdig.pdf
+
+Forskningsrådet. (2022c, 19.12.2022). *Samarbeidsprosjekt for å forebygge og bekjempe vold, overgrep og hatkriminalitet*. forskningsradet.no. https://www.forskningsradet.no/utlysninger/2022/samarbeidsprosjekt-forebygge-bekjempe-vold-overgrep-hatkriminalitet/
+
+Forskningsrådet. (u.å.). *Horisont Europa*. forskningsradet.no. https://www.forskningsradet.no/horisont-europa/
+
+Forsvaret. (u.å.). *Internasjonale operasjoner og aktiviteter*. forsvaret.no. https://www.forsvaret.no/om-forsvaret/operasjoner-og-ovelser/internasjonale-operasjoner
+
+Forsvarets forskningsinstitutt. (2022, 05.07.2023). *Islamistisk terrorisme er mest dødelig*. ffi.no. https://www.ffi.no/aktuelt/arrangementer/ffi-frokost-hoyreekstrem-og-islamistisk-terror-–europa--likheter-og-forskjeller
+
+Forsvarets forskningsinstitutt. (u.å.-a). *Forsvarets forskningsinstitutt*. ffi.no. https://www.ffi.no/om-ffi
+
+Forsvarets forskningsinstitutt. (u.å.-b). *Terrorismeforskning*. ffi.no. https://www.ffi.no/forskning/prosjekter/terrorismeforskning
+
+Forsvarsdepartementet. (2022a). *Høringsnotat: Forslag til lov om endringer i etterretningstjenesteloven*. regjeringen. https://www.regjeringen.no/contentassets/6fe59ff0a1a84847adf77653c7662a0b/horingsnotat.pdf
+
+Forsvarsdepartementet. (2022b). *Tildelingsbrev Forsvarets forskningsinstitutt 2023*. regjeringen. https://www.regjeringen.no/contentassets/49e4cfe6111944d6850711617b89dd97/tildelingsbrev-ffi-2023-fra-fd-endelig.pdf
+
+Forsvarsdepartementet & Justis- og beredskapsdepartementet. (2018). *Støtte og samarbeid: en beskrivelse av totalforsvaret i dag*. regjeringen. https://www.regjeringen.no/contentassets/5a9bd774183b4d548e33da101e7f7d43/stotte-og-samarbeid-en-beskrivelse-av-totalforsvaret-i-da.pdf

@@ -1,1462 +1,376 @@
-# NOU 2022: 19, del 10 av 10 (side 124–134)
+# NOU 2022: 19, del 10 av 11
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/70d57d0c-nou-2022-19.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-19/id2950851/
 - Original-PDF: https://www.regjeringen.no/contentassets/d50144a8c2454c418f7fae33cae1751d/no/pdfs/nou202220220019000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 7 figurer, 214 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 124]
+# Kriterier i kompensasjonsordningen
 
-122
+*Kommisjonen* foreslår i kapittel 10 at målgruppen for en kompensasjonsordning for oljepionerene defineres med utgangspunkt i tidsperioden for pionertiden offshore, samt helseskadelige eksponeringer som er særskilte for offshorearbeidere innenfor dette tidsrommet. I tillegg til disse rammene for en kompensasjonsordning, må det vurderes hvilke kriterier som skal gjelde og hvordan det kan dokumenteres at den enkelte oljearbeider oppfyller vilkårene for å omfattes av kompensasjonsordningen.
 
-NOU 2022: 19
+Tre hovedgrupper av kriterier som kan inngå i ulike modeller for en kompensasjonsordning, vil være:
 
-Kapittel 15
+1.  Tidskriterier: tidsperiode når det gjelder pionertiden og varighet på arbeid offshore
 
-Oljepionerene – en kompensasjonsordning
+<!-- -->
 
-Tabell 15.1 Estimert størrelse på målgruppe som møter tids-, gruppe- og medisinske kriterier
-(usikkerhetsspenn i parentes)
-Modell
-1
+20. Gruppekriterier: aktivitetsområder og utvalgte grupper
 
-Modell
-2A
+21. Medisinske kriterier: varig arbeidsrelatert sykdom eller skade, uførhet, medisinsk invaliditet.
 
-Modell
-2B
+## Tidskriterier
 
-Modell
-2
+### Tidsperiode «pionertiden»
 
-Modell
-3
+*Kommisjonen* har diskutert avgrensing av pionertiden. På bakgrunn av tidligere framlagt dokumentasjon og diskusjoner og innlegg og diskusjoner, er *kommisjonen* enig om at «pionertiden» i norsk petroleumsvirksomhet generelt strekker seg til utgangen av 1985. Det er samtidig ulike meninger i *kommisjonen* om hvor lenge pionertiden varte med hensyn til kjemisk arbeidsmiljø, se kapittel 10.5.
 
-Modell
-4
+## Arbeidstakergrupper
 
-Modell
-5
+Definisjon av gruppekriteriene henger sammen med avgrensing av målgruppen for kompensasjonsordningen. Av prinsipielle hensyn, er det behov for å definere gruppekriterier slik at målgruppen «oljepionerer» avgrenses mot andre arbeidstakergrupper. En måte å gjøre dette er på er å ramme inn målgruppen ut fra kunnskap om eksponering for helseskadelige kjemikalier som er særskilt for offshore oljeindustri. Med dette utgangspunktet, foreslår *flertallet i kommisjonen, medlemmene Riise, Risa, Ikdahl, Nilsen, Karlsen og Solheim* at det bør være et kriterium for å omfattes av kompensasjonsordningen at oljearbeideren har arbeidet innenfor aktivitetsområdene boring og brønn og produksjon og vedlikehold.
 
-1966–
-1985
+*Medlemmene Erikstein og Nilsen* peker på at ingen yrkesgrupper offshore kan utelukkes å fra være kjemisk skadde oljepionerer.
 
-1966–
-1990
+*Medlemmet Erikstein* viser til sin særuttalelse i kapittel 10.5.5.
 
-1966–
-1995
+## Medisinske kriterier
 
-1966–
-1985
+Stortingets anmodningsvedtak 11. mai 2021 og kommisjonens mandat har som utgangspunkt at tidligere oljearbeidere kan ha fått helseplager og -skader på grunn av eksponering for kjemikalier i arbeidet. Kommisjonens mandat innebærer også blant annet å vurdere hvilke former for eksponering og helseskader som skal omfattes av en kompensasjonsordning. Det legges derfor til grunn at varig helseskade bør være et kriterium for å omfattes av kompensasjonsordningen. Kommisjonens dokumentasjonsgrunnlag viser at relevante helseeffekter i denne sammenheng vil være sykdommer som har sammenheng med eksponering for hydrokarboner, boreslam og benzen, se kapitlene 8.2.3 og 10.4.
 
-1966–
-1990
+I en kompensasjonsordning kan det i ulik grad stilles krav til dokumentasjon av sammenheng mellom eksponering/belastning og utvikling av varig sykdom eller skade, dvs. i hvilken grad medisinske kriterier skal legges til grunn for å komme inn under ordningen. Hvordan disse kravene utformes og følges opp har betydning for ordningens tilgjengelighet, kompleksitet og konsekvenser. *Kommisjonen* legger likevel til grunn at dersom man i det enkelte tilfelle skal foreta en vurdering av sammenheng mellom kjemisk eksponering og helseskade, eller av om sykdommen er forenlig med kjemisk eksponering, må dette være en faglig, medisinsk vurdering som bygger på dokumentert kunnskap om slike mulige sammenhenger. Denne vurderingen må bygge på den kunnskap som er tilgjengelig på søknadstidspunktet.
 
-1966–
-1995
+### Dokumentasjon av sammenheng mellom eksponering og sykdom
 
-1966–
-1985
+Dersom det skal stilles krav om sammenheng mellom skadelig eksponering som «pioneroljearbeider» og varig sykdom eller helseskade som kriterium for rett til kompensasjon, må det også vurderes hvilket årsakskrav som skal gjelde. Videre må det bestemmes hvilke krav som skal gjelde til dokumentasjon og bevisbyrde; nærmere bestemt hvem som skal bevise, eventuelt motbevise, at det er sammenheng mellom eksponering og helseeffekter, og hvor godt denne sammenhengen må dokumenteres. En generell gjennomgang av årsakssammenheng, bevisbyrde og beviskrav i yrkesskadesaker framgår av kapittel 7. Forenklet sett kan man i «oljepionerenes» sak sette opp ulike nivåer for dokumentasjon av sammenheng mellom eksponering og sykdom:
 
-1966–
-1990
+1.  Mest sannsynlig sammenheng: Sammenhengen mellom eksponering og helseskade må være mest sannsynlig eller mest nærliggende. Krav om mest sannsynlig sammenheng er i tråd med folketrygdlovens krav for å få godkjent yrkessykdom.
 
-1966–
-1995
+<!-- -->
 
-1966–
-1995
+22. Mulig sammenheng: Det er tilstrekkelig at en medisinsk undersøkelse viser at det er mulig at helseskader er relatert til kjemikalieskader i arbeidet. Skaden/sykdommen skal anses som forårsaket av arbeidet med mindre det kan påvises at dette åpenbart ikke er tilfellet. Eventuell tvil i saken vil i så fall komme oljepioneren til gode.
 
-1966–
-1990
+23. Ingen arbeidsmedisinsk vurdering av sammenheng i det enkelte tilfellet. Innvilget uførepensjon/uføretrygd fra folketrygden på grunn av sykdom som kan skyldes kjemikalieeksponering er tilstrekkelig som medisinsk kriterium, eventuelt i kombinasjon med egenerklæring. I de tilfeller hvor oljearbeideren har fått godkjent yrkessykdom, kan det framgå av vedtaket om sykdommen skyldes kjemikalieeksponering.
 
-250
+### Særlig om arbeidsmedisinske utredninger
 
-400
+Dersom en kompensasjonsordning skal ta utgangspunkt i en vurdering av sannsynlig eller mulig sammenheng mellom kjemikalieeksponering i arbeidet og helseskader i det enkelte tilfellet, må det også vurderes hvordan slike vurderinger skal gjennomføres. For å dokumentere om vilkåret om varig arbeidsrelatert sykdom eller skade er oppfylt, legges det til grunn at det må gjennomføres faglige, medisinske utredninger som bygger på dokumentert kunnskap om sammenheng mellom eksponering og helseeffekter. Hvor omfattende en slik undersøkelse må være, vil blant annet avhenge av hvilket krav som stilles til dokumentasjon om sammenheng i det enkelte tilfellet, se kapittel 11.3.2. Uansett vil det være behov for relevant arbeidsmedisinsk kompetanse i utredningsarbeidet. En utredning vil omfatte en samlet vurdering av kunnskap om eksponering, arbeidstid offshore og diagnose/helseeffekter. Fastleger/allmennmedisinere vil neppe ha den rette spisskompetansen i denne sammenheng. Fastleger vil imidlertid være et viktig kontaktpunkt for oljearbeideren, og kan henvise videre til relevant spesialistutredning.
 
-450
+Yrkesmedisinske spesialistutredninger foretas ved de fem arbeidsmedisinske avdelingene under regionale helseforetak i Tromsø, Bergen, Trondheim, Skien og Oslo, samt ved arbeidsmedisinsk poliklinikk ved Statens arbeidsmiljøinstitutt, se kapittel 8.3.2. De arbeidsmedisinske avdelingene har en faglig rolle i å vurdere den enkelte pasients eksponering og sykdom/symptombilde opp mot dagens kunnskap om sannsynlige sammenhenger mellom arbeidseksponering og helseeffekter. Det framlegges en spesialisterklæring om hvorvidt sykdommen er sannsynlig eller mulig arbeidsrelatert.
 
-450
+Flere tidligere oljearbeidere har gitt uttrykk for at det er krevende å gjennomgå systemet for yrkesmedisinske utredninger som grunnlag for oppfølging gjennom yrkesskadeordningene. Det vises også til at medisinske utredninger som ble lagt til grunn for kompensasjon i nordsjødykkersaken var omfattende og tidkrevende og tok tre hele dager. En slik ordning vil være krevende for oljearbeiderne, og vil også være samfunnsmessig ressurskrevende, siden målgruppen for en kompensasjonsordning for «oljepionerer» sannsynligvis vil være betydelig større enn gruppen nordsjødykkere. I en kompensasjonsordning for oljepionerene, er det derfor ønske om å legge rette for, så langt det er mulig, en forenklet arbeidsmedisinsk undersøkelse. Undersøkelsen vil gi grunnlag for en vurdering av mulig sammenheng mellom kjemisk eksponering og varig helseskade, eller eventuelt om sykdommen eller skaden er forenlig med kjemisk eksponering. En forenklet arbeidsmedisinsk utredning kan ta utgangspunkt i vitenskapelig støtte for sammenheng mellom eksponering og varig helseskade som har rammet oljearbeideren, på bakgrunn av tidsrom, eksponeringer, arbeidsoppgaver og helsetilstander som blir kriterier for kompensasjonsordningen.
 
-650
+Når det tidligere er stilt krav om arbeidsmedisinske utredninger i enkeltsaker, har det vært lagt til grunn at dette er fullverdige spesialistutredninger som gir en vurdering av hvorvidt sykdommen er sannsynlig eller mulig arbeidsrelatert. Forskjellen består i hvordan disse resultatene brukes og hvilke årsakskrav som legges til grunn for vurderingen av godkjent yrkessykdom i folketrygden eller innvilget kompensasjon. Yrkesmedisinske utredninger gir grunnlag for å vurdere medisinsk invaliditet og gradering av kompensasjon. I en del saker om oljepionerer, vil det allerede være gjennomført slike utredninger, blant annet når oljearbeideren allerede har fått godkjent yrkessykdom i folketrygden.
 
-800
+I forbindelse med en slik forenklet utredning, må arbeidsmedisineren vurdere de eksponeringene som oljearbeideren har vært utsatt for i de aktuelle tidsrom, med utgangspunkt i oljearbeiderens beskrivelse av sitt arbeid. Denne gjennomgangen struktureres i en forenklet yrkesanamnese. Det må videre beskrives hvordan diagnosen eller tilstanden er blitt karakterisert (av legespesialist), samt tidspunkt for når tilstanden ble fastslått og tidspunktet for når vedkommende søkte lege for tilstanden første gang. Det beskrives også om tilstanden har forverret eller forbedret seg i tidsrommet etter at diagnosen ble stilt. Oljearbeiderens funksjonsevne i perioden under eventuell løsemiddeleksponering og utvikling i funksjonsevne etter eksponeringsopphør beskrives kort med bruk av eksempler på hvilke arbeidsoppgaver vedkommende kunne/ikke kunne gjennomføre, funksjon i privatlivet, og utvikling i relevante ferdigheter, slik som evne til bilkjøring.
 
-550
+Endelig skal arbeidsmedisineren vurdere dokumentasjon på helseskade/diagnose som oljearbeideren bringer med seg til utredningen. Denne skal vurderes opp mot helseeffekter som kan falle inn under kompensasjonsordningen. Hvis helseeffekten faller inn under ordningen, skal det gjøres en vurdering av eksponeringens sammenheng med helseeffekten, slik at det kan konkluderes med sannsynlig, mulig eller lite sannsynlig sammenheng. Det kan utarbeides et skjemagrunnlag for å strukturere disse vurderingene og for å muliggjøre videre saksbehandling av det framsatte kravet om kompensasjon fra den enkelte.
 
-850
+*Kommisjonen* har vært i kontakt med Arbeidsmedisinsk forening for å avklare om det kan være realistisk å rekruttere arbeidsmedisinere til å gjennomføre forenklete arbeidsmedisinske utredninger av «oljepionerer» innenfor en ramme på om lag 2 timer. Tidsbruken er betraktelig redusert sammenlignet med arbeidsmedisinske utredninger i det ordinære yrkesskadeløpet, da det vil stilles andre krav til dokumentasjon av eksponeringen, og eksponeringene og helseskadene er avgrenset til de som er særskilte for denne gruppen. Arbeidsmedisinsk forening bekrefter at en slik løsning vil kunne la seg gjennomføre, under forutsetning av at det allerede foreligger en relevant diagnose i det enkelte tilfelle. Oljepionerer med mistanke om løsemiddelskade på sentralnervesystemet der det ikke foreligger en diagnose, eller der det ikke er klart at symptomer startet i løpet av den tiden vedkommende var eksponert, må eventuelt gjennomgå full arbeidsmedisinsk utredning eller en supplering av den «forenklete» undersøkelsen. I grensetilfeller med løsemiddelskademistanke, kan det derfor bli aktuelt med full løsemiddelutredning. Arbeidsmedisinsk avdeling ved Haukeland universitetssykehus har opplyst at de bruker 1,5 -2,0 ukeverk på å utrede mistenkt løsemiddelskade fra bunnen av.
 
-1000
+## Kommisjonens vurderinger
 
-8 550
+*Kommisjonen* har overordnet sett drøftet en definisjon av målgruppen for en kompensasjonsordning for oljepionerene. Innenfor rammen av denne definisjonen, må det videre vurderes hvilke vilkår den enkelte oljearbeider i utgangspunktet må oppfylle og dokumentere for å kunne omfattes av ordningen. Det legges til grunn at potensielle søkere til en kompensasjonsordning må kunne dokumentere:
 
-800
+- å ha arbeidet i petroleumsvirksomheten offshore i pionertiden som denne defineres for ordningen. Dersom det skal stilles krav om varighet på arbeid offshore, må hele denne perioden falle inn under den definerte pionertiden,
 
-(Usikkerhets- (100– (100– (150–
-spenn)
-850) 1250) 1550)
+og
 
-(150–
-1350)
+- å ha arbeidet innenfor nærmere aktivitetsområder/grupper som er definert som målgruppen for ordningen. Dokumentasjon for dette arbeidet offshore kan for eksempel framgå av attester, lønnsslipper, opplysninger innhentet fra arbeidsgiver, fagforeninger og skatteopplysninger mv.,
 
-(200–
-1950)
+og
 
-(300– (300– (450– (550– (5250–
-2450) 1300) 1950) 2150) 15700)
+- varig helseskade som har sannsynlig eller mulig sammenheng med særskilt eksponering offshore i pionertiden.
 
-(350–
-2500)
-
-Beste anslag
-
-Kilde: Estimater utarbeidet av Oslo Economics 2022b
-
-Statens arbeidsmiljøinstitutt (STAMI) om resultater fra arbeidsmedisinske utredninger av offshorearbeidere.3
-Modell 3 har like tids- og gruppekriterier som
-modell 1 og 2, men stiller i tillegg krav til minst tre
-års varighet på arbeid offshore. Videre er det krav
-om at søkeren mottar uføretrygd ved søknadstidspunkt eller mottok det før alderspensjon, på grunn
-av sykdom som kan skyldes kjemikalieeksponering. Det beste anslaget tilsier at 550 personer vil
-møte disse kriteriene blant sysselsatte som arbeidet før 1985, mens anslaget øker til 850 og 1000
-personer hvis den relevante tidsperioden utvides
-til henholdsvis 1990 og 1995. Anslagene bygger på
-en forutsetning om at 20 prosent av gruppen som
-møter tids- og gruppekriterier er uføre, samt at 25
-til 40 prosent av disse er uføre grunnet sykdom
-som kan skyldes kjemikalieeksponering.
-Modell 4 skiller seg ut ved at målgruppen for
-kompensasjonsordningen vil være vesentlig
-større enn i de øvrige modellene som følge av at
-en rekke helseeffekter skal omfattes av ordningen
-og tidskriteriet i modellen skal omfatte perioden
-1966–1995. I denne modellen stilles det ingen krav
-til årsakssammenheng mellom helseeffekter og
-kjemisk eksponering i arbeidet offshore. Det
-anslås at målgruppen for denne kompensasjonsordningen vil kunne være over 8550 personer
-(beste anslag).
-Modell 5 tilsvarer modell 2B, med unntak av at
-modell 5 omfatter sysselsatte innenfor alle yrkesgrupper offshore. Oslo Economics anslår at 800
-personer vil oppfylle disse kravene (beste anslag).
-Sammenlignet med modell 2 B, er dette bare en
-økning på 150 personer i det beste anslaget. Dette
-skyldes at hovedparten av personene som har fått
-sykdom eller skade som følge av kjemisk ekspo2
-3
+Hvordan helseskade skal dokumenteres varierer ut fra hvilken modell som velges for en kompensasjonsordning, se kapittel 12.
 
-Stenehjem, m.fl., 2021.
-Nordby, 2021.
+Av hensyn til den enkelte oljepioner og til de samfunnsmessige ressurser, mener *kommisjonen* at det, så langt det er mulig, bør legges til rette for forenklete arbeidsmedisinske undersøkelser i denne saken. Det er klarlagt at det anses som medisinsk faglig forsvarlig og praktisk mulig å basere ordningen på slike forenklete undersøkelser, i de tilfeller hvor det foreligger en relevant diagnose. En rekke oljearbeidere har allerede i forbindelse med yrkesskadesaker gjennomgått arbeidsmedisinske utredninger og kan dokumentere eller sannsynliggjøre at de har varig helseskade som er relevant for kompensasjonsordningen.
 
-nering antas å være omfattet av yrkesgruppene
-offshore som er inkludert i modell 1 og 2.
+Det må også vurderes om søker har varig ervervsmessig uførhet og/eller medisinsk invaliditet som skyldes sykdommer som kan oppstå på grunn av kjemikalieeksponering, dersom dette settes opp som kriterium i ordningen.
 
-15.2 Antatt organisering og
-søknadsprosess i de ulike
-kompensasjonsmodellene
-De økonomiske og administrative konsekvensene av en kompensasjonsordning for «oljepionerene», avhenger også av hvordan søknadsprosessen foregår og hvordan ordningen organiseres.
-I samtlige modeller legges det til grunn at det
-etableres en uavhengig nemnd som behandler
-søknadene om kompensasjon og at sakene forberedes av et sekretariat. I alle modeller med unntak
-av modell 3 legges det til grunn at søkeren må ha
-konsultasjon hos lege og henvises videre til en
-arbeidsmedisinsk avdeling for å gjennomføre en
-forenklet utredning, som dokumenterer at medisinske kriterier er oppfylt. Dersom potensielle
-søkere mangler diagnose, må søkeren gjennom
-en fullstendig arbeidsmedisinsk utredning for å få
-stilt diagnose. I modell 3 må potensielle søkere
-dokumentere at vedkommende mottar uføretrygd, eller tidligere har mottatt uføretrygd før
-alderspensjon, på grunn av sykdom som kan skyldes kjemikalieeksponering, eventuelt med bistand
-fra NAV. Søkere må også dokumentere sitt tidligere arbeidsforhold offshore og enkelte vil trolig
-ha behov for bistand fra arbeidsgiver eller Skatteetaten for å dokumentere arbeidsforholdet sitt.
+# Modeller for en kompensasjonsordning
 
-15.3 Estimerte utgifter til
-kompensasjon
-Utgiftene til utbetalinger av kompensasjonsbeløp
-vil være den største utgiften for offentlige budsjetter. Hvor stor kostnaden blir, vil avhenge av stør-
+I henhold til mandatet, skal kommisjonen gi en begrunnet vurdering av alternative forslag/modeller for utforming av kompensasjonsordningen, hvorav minimum ett forslag skal være kostnadsnøytralt. *Kommisjonen* presenterer i utgangspunktet tre modeller, som tar utgangspunkt i de foreslåtte kriteriene for en kompensasjonsordning. Forskjellene mellom modellene består i hovedsak av ulike krav til dokumentasjon av sammenheng mellom eksponering og sykdom. I modell 1 stilles det krav om sannsynlig sammenheng i tråd med folketrygdlovens krav for å få godkjent yrkessykdom: Årsakssammenhengen mellom eksponering og helseskade må være mest sannsynlig eller mest nærliggende. I modell 2 stilles det krav om dokumentasjon av helseskader som er forenlige med kjemikalieskader i arbeidet. I modell 3 stilles det ikke krav til dokumentert eller sannsynlig sammenheng i det enkelte tilfelle. Modell 3 bygger på at innvilget uføretrygd fra NAV på grunn av sykdom som kan skyldes kjemikalieeksponering, kan være tilstrekkelig medisinsk vilkår. Innenfor hver modell skilles det også på ulike sluttidspunkt for varigheten av pionertiden, henholdsvis 1985, 1990 eller 1995.
 
-[Side 125]
+*Kommisjonen* har i tillegg diskutert en modell hvor det stilles et strengere krav til dokumentert årsakssammenheng mellom eksponering i arbeidet og helseskade, i tråd med yrkesskadeforsikringsloven. Innenfor en slik modell vil det være skadelidte som har tvilsrisikoen for om det foreligger en yrkessykdom og om det er årsakssammenheng mellom skadelig eksponering og sykdommen. Det er vanlige beviskrav som gjelder, dvs. at det må være mer sannsynlig at skadelidte har en yrkessykdom enn at han ikke har det. *Kommisjonen* viser til at Arbeidsmiljøskaddes Landsforening oppgir at tidligere oljearbeidere ikke når gjennom med krav om yrkesskadeerstatning i rettssystemet, fordi det stilles strenge krav til at de må dokumentere årsakssammenheng mellom eksponering og helseskade, se kapittel 3.1.3. Et strengt krav om å dokumentere årsakssammenheng i det enkelte tilfelle vil derfor sannsynligvis ikke oppleves som en tilfredsstillende løsning i denne saken. *Kommisjonen* har derfor valgt å ikke gå videre med en vurdering av en slik modell.
 
-123
+Omtalen av en kostnadsnøytral løsning, «nullalternativet», framgår av kapittel 12.2.
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+*Kommisjonen* har følgende alternative hovedforslag til modeller for en kompensasjonsordning:
 
-Kapittel 15
+## Forslag til modeller
 
-Tabell 15.2 Beste anslag, kompensasjonsbeløp i ulike modeller i millioner kroner
-Modell
-1
+På bakgrunn av en samlet vurdering av hvilke kriterier som bør legges til grunn når det gjelder tidsperiode, grupper/eksponeringer og helseeffekter i en kompensasjonsordning, se kapitlene 10 og 11, har *kommisjonen* beskrevet tre modeller (modellene 1, 2 og 3). En modell er i tillegg foreslått av *medlemmet Erikstein* (modell 4). Ytterligere en modell er beskrevet etter ønske fra *medlemmet Nilsen* (modell 5), men denne modellen er ikke foreslått.
 
-Modell Modell Modell
-2A
-2B
-2
+### Modell 1: Sannsynlig sammenheng mellom eksponering i arbeidet og dokumentert helseskade
 
-Modell
-3
+Denne modellen forutsetter sannsynlig sammenheng mellom eksponering og helseskade, i tråd med folketrygdlovens krav for å få godkjent yrkessykdom: Årsakssammenhengen mellom eksponering og helseskade må være mest sannsynlig eller mest nærliggende. Det er vanlige beviskrav som gjelder, dvs. at det må være mer sannsynlig at skadelidte har en yrkessykdom enn at han ikke har det. Hvis dette vilkåret er oppfylt, snus og skjerpes bevisbyrden, dvs. at hvis søknaden skal avslås, må det sannsynliggjøres at sykdommen åpenbart har andre årsaker. Individuelle undersøkelser kan gi grunnlag for gradert kompensasjon, basert på uførhet eller varig medisinsk invaliditet. Modellen forutsetter en arbeidsmedisinsk utredning. Denne samlede spesialistvurderingen vil blant annet omfatte arbeidslengde offshore i det enkelte tilfellet.
 
-Modell
-4
+1.  Tid:
 
-Modell
-5
+    - Arbeid i petroleumsvirksomheten offshore i perioden 1966–1985/1990/1995
 
-1966– 1966– 1966–
-1985 1990 1995
+<!-- -->
 
-1966–
-1985
+24. Gruppe:
 
-1966–
-1990
+    - Arbeid innenfor aktivitetsområdene «boring og brønn» og «produksjon og vedlikehold» og spesifikke grupper innenfor disse områdene
 
-1966– 1966– 1966– 1966–
-1995 1985 1990 1995
+25. Medisinsk:
 
-1966–
-1995
+    - Dokumentert varig sykdom eller skade som mest sannsynlig skyldes eksponering for boreslam, hydrokarboner og/eller benzen i arbeidet offshore.
 
-1966–
-1990
+Alle tre kriterier må være oppfylt og dokumenteres.
 
-Kompensasjonsordning, 65 G
+*Kommisjonen* er enig om ikke å foreslå denne modellen.
 
-1 812 2 898 3 261
+### Modell 2: Mulig sammenheng mellom eksponering i arbeidet og dokumentert helseskade
 
-3 261
+Denne modellen krever varig sykdom eller skade som på gruppenivå er forenlig med eksponering for boreslam, hydrokarboner og/eller benzen i arbeidet. Skaden/sykdommen skal anses som forårsaket av arbeidet med mindre det kan påvises at dette åpenbart ikke er tilfellet. Modellen forutsetter arbeidsmedisinske spesialistutredninger i det enkelte tilfellet. Individuelle undersøkelser kan gi grunnlag for gradert kompensasjon, basert på uførhet eller varig medisinsk invaliditet. Den samlede spesialistvurderingen vil blant annet omfatte arbeidslengde offshore i det enkelte tilfellet. Individuelle undersøkelser kan gi grunnlag for gradert kompensasjon, basert på varig medisinsk invaliditet.
 
-4 710
+1.  Tid:
 
-5 797 3 985 6 159 7 246 61 953
+    - Arbeid i petroleumsvirksomheten offshore i perioden 1966–1985/1990/1995
 
-5 797
+<!-- -->
 
-Kompensasjonsordning, 30 G
+26. Gruppe:
 
-836 1 338 1 505
+    - Arbeid innenfor aktivitetsområdene «boring og brønn» og «produksjon og vedlikehold» og spesifikke grupper innenfor disse områdene
 
-1 505
+27. Medisinsk:
 
-2 174
+    - Dokumentert varig sykdom eller skade som har mulig sammenheng med kjemisk eksponering for boreslam, hydrokarboner og/eller benzen i arbeidet offshore.
 
-2 675 1 839 2 843 3 344 28 594
+Alle tre kriterier må være oppfylt og dokumenteres.
 
-2 675
+*Flertallet i kommisjonen*, *medlemmene Riise, Risa, Ikdahl, Nilsen, Karlsen og Solheim* støtter modell 2 med hensyn til gruppekriterier og medisinske kriterier, men er delt med hensyn til tidsperioden som anbefales, se kapitlene 10.5.1 og 10.5.2.
 
-Kompensasjonsordning, 250 000 kr
+Modell 2 A: *Kommisjonens medlemmer Riise, Risa og Solheim* foreslår at pionertiden i petroleumsvirksomheten offshore defineres som perioden 1966–1985.
 
-63
+Modell 2 B: *Kommisjonens medlemmer Ikdahl, Nilsen og Karlsen* foreslår at pionertiden i petroleumsvirksomheten offshore defineres som perioden 1966–1990.
 
-100
+### Modell 3: Uføretrygd som kan skyldes kjemikalieeksponering
 
-113
+«Uføremodellen» bygger på at innvilget uføretrygd fra NAV på grunn av sykdom som kan skyldes kjemikalieeksponering, kan være tilstrekkelig medisinsk vilkår. Det er ikke krav om å dokumentere sammenheng mellom kjemisk eksponering og sykdom eller skade. Derfor forutsetter ikke modellen arbeidsmedisinske utredninger i det enkelte tilfelle. Innenfor denne modellen kan det være relevant å stille krav om varighet på arbeid offshore. Kriteriene i kompensasjonsordningen bør sees i sammenheng. Varighet på arbeid offshore kan være et relevant kriterium i en ordning hvor det ikke stilles krav om sammenheng mellom eksponering og helseskader. *Kommisjonen* mener videre at innvilget uførhet kan være et kriterium i en ordning hvor det ikke stilles krav om sannsynlig sammenheng mellom eksponering og helseskade, og hvor det således ikke gjennomføres arbeidsmedisinsk utredning i det enkelte tilfellet.
 
-113
+1.  Tid:
 
-163
+    - Arbeid i petroleumsvirksomheten offshore i perioden 1966–1985/1990/1995
 
-200
+    - Arbeid i petroleumsvirksomheten offshore i minimum tre år (eventuelt fem eller ti år)
 
-138
+<!-- -->
 
-213
+28. Gruppe:
 
-250
+    - Arbeid innenfor aktivitetsområdene «boring og brønn» og «produksjon og vedlikehold» og spesifikke grupper innenfor disse områdene
 
-2 138
+29. Medisinsk:
 
-200
+    - Mottak av uføretrygd fra folketrygden på søknadstidspunktet eller innvilget uføretrygd før alderspensjon. Uførheten har sammenheng med sykdom som kan skyldes kjemikalieeksponering.
 
-Kompensasjonsordning, 180 000 kr
+Alle kriteriene må være oppfylt og dokumenteres.
 
-45
+*Kommisjonen* er enig om ikke å foreslå denne modellen.
 
-72
+I tillegg beskrives to modeller etter forslag fra *medlemmene Erikstein og Nilsen*, blant annet basert på at ingen yrkesgrupper som har arbeidet offshore skal utelukkes fra en kompensasjonsordning, se kapitlene 10.5.4 og 10.5.5.
 
-81
+### Modell 4
 
-81
+1.  Tid:
 
-117
+    - Arbeid i petroleumsvirksomheten offshore i perioden 1966–1995
 
-144
+<!-- -->
 
-99
+30. Gruppe:
 
-153
+    - Ingen yrkesgrupper som har arbeidet offshore utelukkes
 
-180
+31. Medisinske:
 
-1 539
+    - Relevante helseskader er utvidet betydelig
 
-144
+    - .
 
-Kompensasjonsordning, 70 000 kr
+*Kommisjonens medlem Erikstein* foreslår denne modellen.
 
-18
+### Modell 5
 
-28
+1.  Tid:
 
-32
+    - Arbeid i petroleumsvirksomheten offshore i perioden 1966–1990
 
-32
+<!-- -->
 
-46
+32. Gruppe:
 
-56
+    - Ingen yrkesgrupper som har arbeidet offshore utelukkes
 
-39
+33. Medisinske:
 
-60
+    - Dokumentert varig sykdom eller skade som har mulig sammenheng med kjemisk eksponering for boreslam, hydrokarboner og/eller benzen i arbeidet offshore.
 
-70
+Modell 5 er beskrevet etter ønske fra *medlemmet Nilsen,* som mener at ingen som har arbeidet offshore kan utelukkes fra å være kjemisk eksponert. Modellen foreslås imidlertid ikke, da den ikke anses som et realistisk og selvstendig alternativ.
 
-599
+## Kostnadsnøytralt alternativ – Nullalternativet
 
-56
+Dersom det ikke etableres en kompensasjonsordning, er det spørsmål om hvilke muligheter oljepionerer har til å fremme nye krav under gjeldende yrkesskadeordninger, herunder få en ny vurdering av tidligere avgjørelser eller avslag, det såkalte nullalternativet. Nullalternativet skal representere en forsvarlig videreføring av dagens situasjon, og vedtatt politikk, dvs. regelverk og lover mv., skal ligge til grunn for utformingen av alternativet.
 
-Kilde: Oslo Economics, 2022b
+### Folketrygdloven
 
-relsen på kompensasjonen. Følgende størrelser
-på kompensasjonsbeløpene er lagt til grunn i analysen: 65 G, 30 G, 250 000 kroner, 180 000 kroner
-og 70 000 kroner. Et kompensasjonsbeløp på 65 G
-tilsvarer nivået på kompensasjon som ble gitt i
-nordsjødykkersaken. Kompensasjonsnivået på 30
-G tilsvarer den maksimale erstatningen som kan
-gis som grunnerstatning i yrkesskadeforsikringsordningen. Nivået på 250 000 kroner tilsvarer
-maksimal erstatning som kan gis som rettferdsvederlag fra staten. De fleste som får innvilget rettferdsvederlag, får mellom 70 000 kroner og
-180 000 kroner.4 Disse beløpene er derfor også
-inkludert i kostnadsberegningene.
-Estimerte kompensasjonsutbetalinger innenfor de ulike modellene framgår av tabell 15.2. Forskjellene i estimerte kompensasjonsutbetalinger
-forklares av estimert størrelse på målgruppe som
-møter kriterier i de ulike modellene.
+Oljepionerer som i dag mener å ha en yrkessykdom, kan melde sykdommen til NAV dersom arbeidsgiver eller lege ikke har gjort det, se kapittel 6.5.1.
 
-kostnadene, ettersom dette er en omfordelingseffekt og ikke en virkning som medfører økt ressursbruk i samfunnet.
-Det oppstår imidlertid en skattefinansieringskostnad knyttet til å finansiere kompensasjonsutbetalinger over offentlige budsjetter, som
-er medberegnet i de samfunnsøkonomiske kostnadene. Skattefinansieringskostnaden er beskrevet i et rundskriv fra Finansdepartementet og stipuleres til 20 prosent av skattefinansierte utgifter i
-offentlig sektor.5 De samfunnsøkonomiske kostnadene for den enkelte kompensasjonsmodellen,
-på tvers av ulike størrelser av utbetalinger, er oppsummert i tabell 15.3.
+Oljepionerer som har fått godkjent yrkessykdom av den tidligere trygdeetaten eller av NAV, kan, dersom sykdommen forverrer seg, be NAV om en ny vurdering, eksempelvis med henblikk på menerstatning, eventuelt høyere menerstatning.
 
-De samlede samfunnsøkonomiske kostnadene
-består av kostnadene for det offentlige knyttet til
-medisinsk utredning, saksbehandling, administrasjons- og informasjonsarbeid, samt tidsbruk og
-utgifter for søkere og private aktører som fagforeninger og tidligere arbeidsgivere. Selve utbetalingene er ikke en del av de samfunnsøkonomiske
+Oljepionerer kan videre be NAV omgjøre et vedtak om for eksempel ikke å godkjenne en sykdom som yrkessykdom, eksempelvis på bakgrunn av ny forskning. Forvaltningsloven § 35 regulerer blant annet forvaltningsorganets mulighet til å endre eget vedtak uten at det er påklaget eller påanket. Fra og med 1. juli 2017 benyttes denne bestemmelsen ved behandling av krav om gjenopptak av saker som er endelig avgjort i NAV.[^245]
 
-15.4.1 Kostnader for offentlige virksomheter
-og private aktører
-I alle modeller forventes det å være kostnader til
-saksbehandling, administrasjon og informasjonsarbeid, som kommer i tillegg til utgiften til kompensasjonen. Dette omfatter kostnader for å
-bemanne sekretariat og nemnd, samt kostnader
-for informasjonsarbeid, støttefunksjoner og øvrig
-administrasjon. I modell 3 (uføremodellen) forventes det at NAV vil bruke ressurser til å bistå
-søkere med å framskaffe dokumentasjon om uførhet. I modell 1, modell 2, modell 4 og modell 5 vil
-det være ressursbruk i primærhelsetjenesten
-(pasientens lege), ved arbeidsmedisinske avde-
+Oljepionerer kan begjære gjenopptak av en ankesak for Trygderetten. Vilkårene for dette er at det er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, eller at det foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse.[^246]
 
-4
+### Yrkesskadeforsikringsloven
 
-5
+Oljepionerer som i dag mener å ha en yrkessykdom, kan melde sykdommen til arbeidsgivers forsikringsselskap, se kapittel 6.5.2.
 
-15.4 Samfunnsøkonomiske kostnader
+Som utgangspunkt er et erstatningsoppgjør endelig avgjort når det inngås en avtale eller det avsies dom i saken som blir rettskraftig. I enkelte saker kan imidlertid en etterfølgende forverring av skadelidtes helse medføre at det kan være grunnlag for et etteroppgjør. Et slikt oppgjør kan skje etter avtale, med hjemmel i særlovgivningen eller i henhold til generelle rettsregler.
 
-Statens sivilrettsforvaltning.
+Ved yrkesskade utmåles erstatningen etter standardiserte regler i yrkesskadeforskriften.[^247]
 
-Finansdepartementet, 2021.
+Forskriftens § 5-1 gir innen en frist på fem år adgang til revisjon av det opprinnelige erstatningsoppgjøret både ved vesentlige endringer i ervervsmessig uføregrad og i medisinsk invaliditet.[^248]
 
-[Side 126]
+Hvis et avslag er bygget på forskning som slo fast at eksponeringen ikke kunne ha forårsaket det aktuelle sykdomsbildet, mens ny forskning viser at standpunktet var feil, så vil det kunne gi rett til ny behandling av saken også i forsikringsselskapene. En forutsetning for dette er at saken faller inn under en relevant forsikring. For oljepionerer som gikk ut av arbeidslivet før yrkesskadeforsikringslovens ikrafttredelse, vil det derfor ikke være mulig å kreve erstatning fra forsikringsselskapet, med mindre vedkommende var omfattet av en tilsvarende forsikring også før 1991.[^249]
 
-124
+### Rettsmidler
 
-Kapittel 15
+Rettsmidler er en fellesbetegnelse for de midler som partene i sivile saker og straffesaker har til rådighet for å få prøvd på nytt en dom, kjennelse eller beslutning av en domstol.
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+Oljepionerer som i forbindelse med et søksmål har forlikt saken i retten, kan begjære forliket gjenopptatt. Et rettsforlik vil ha rettslig virkning tilsvarende rettskraftig dom. Et rettsforlik innebærer at tvisten saken gjelder er endelig avgjort og bare kan endres rettslig gjennom en gjenopptakelse av saken. En part kan i visse tilfeller få et rettsforlik opphevet gjennom søksmål.[^250]
 
-linger og eventuelt i øvrig spesialisthelsetjeneste.
-Oslo Economics’ anslag på kostnader i offentlige
-virksomheter framgår av tabell 15.3.
-Kostnadene for offentlige virksomheter i
-modell 1 og modell 2 er estimert å være like store
-ettersom modellene i hovedsak er like med unntak av kravet til årsakssammenheng mellom sykdom og kjemisk eksponering. Det antas at det vil
-være like mange søkere i begge modeller, men
-færre som mottar kompensasjon i modell 1 som
-følge av strengere krav til årsakssammenheng.
-Modell 3 er estimert å ha lavere kostnader
-sammenlignet med de andre modellene, ettersom
-det ikke stilles krav til arbeidsmedisinsk utredning. Det forutsettes at modellen ikke medfører
-kostnader i primærhelsetjenesten og i spesialisthelsetjenesten. Kostnader til saksbehandling
-antas også å være noe mindre som følge av at det
-antas at sakene vil kreve noe mindre tid å forberede og behandle.
-Modell 4 har vesentlig høyere kostnader enn
-de øvrige modellene som følge av at det antas at
-en betydelig andel av personer som har vært sysselsatt offshore i perioden 1966 til 1995 vil velge å
-søke. Modellen gir dermed både betydelig ressursbruk i helsetjenesten til utredning av tidligere
-offshorearbeidere, og vil kreve store ressurser til
-saksbehandling.
-Modell 5 har det nest høyeste kostnadsanslaget for offentlige virksomheter, ettersom modellen har flere potensielle søkere sammenlignet
-med modell 1, modell 2 og modell 3.
-Årsverksbehovet i sekretariatet og i helsetjenesten i de ulike modellene er synliggjort i tabell
-15.4. Oslo Economics har estimert at det vil oppstå et bemanningsbehov ved de arbeidsmedisinske avdelingene på mellom ti og 18 årsverk i
+Oljepionerer kan videre på visse vilkår begjære gjenopptatt rettskraftige rettsavgjørelser.[^251]
 
-modell 1 og 2, avhengig av hva slags tidskriterium
-som legges til grunn. Ettersom det totalt er seks
-arbeidsmedisinske avdelinger i Norge, vil hver
-avdeling måtte stille med ressurser i form av legespesialister i arbeidsmedisin tilsvarende om lag
-1,5–3 årsverk. I modell 5 anslås det at årsverksbehovet ved de arbeidsmedisinske avdelingene vil
-være om lag 18 årsverk (tre årsverk per avdeling).
-Modell 4 vil kreve betydelig ressursbruk ved
-arbeidsmedisinske avdelinger som følge av en
-stor forventet søkermasse til kompensasjonsordningen. Modellen innebærer at det vil være nødvendig å forsterke spesialisthelsetjenesten med i
-underkant av 380 årsverk, gitt at over 26 000
-søkere skal gjennomgå forenklet eller full utredning ved arbeidsmedisinske avdelinger. Ressursbruken i primærhelsetjenesten antas å være
-relativt begrenset i samtlige modeller, men vil
-være vesentlig høyere i modell 4 enn i øvrige
-modeller.
-Bemanningsbehovet i sekretariatet er estimert
-å være mellom fire og åtte årsverk i de ulike
-modellene, med unntak av modell 4. I modell 4 er
-årsverksbehovet i sekretariatet estimert å være
-vesentlig større enn i de andre modellene som
-følge av en stor søkermasse.
-Det er lagt til grunn at sekretariatet ikke dekker advokatbistand for søkere.
-Kostnadene for private aktører består i denne
-sammenheng av tidsbruk og utgifter for søkere
-og private aktører som fagforeninger og tidligere
-arbeidsgivere for å bistå søkere i søknadsprosessen. Disse kostnadene antas å være begrenset
-sammenlignet med kostnader for offentlige virksomheter. Kostnadene for private aktører er oppsummert i tabell 15.3.
+### Arbeid med en forbedret og forenklet yrkesskadeordning
 
-[Side 127]
+Den 11. mai 2021 ba Stortinget regjeringen om å legge fram et forslag til nødvendig forenkling av yrkesskadereglene, i samråd med partene i arbeidslivet, se kapittel 3.1.3. Disse skal være samkjørte med utviklingen i samfunnet og arbeidslivet, og sikre den enkelte arbeidstaker. Stortinget ba også regjeringen gjennomgå og om nødvendig oppdatere yrkessykdomslisten. Kommisjonen er kjent med at denne saken følges opp i Arbeids- og inkluderingsdepartementet.
 
-125
+## Kommisjonens vurderinger
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+Kommisjonens beskrivelse og forslag når det gjelder alternative modeller for en kompensasjonsordning tar utgangspunkt i forslag til målgruppe og kriterier som er foreslått i kapitlene 10 og 11. Modellene stiller blant annet i ulik grad krav til dokumentasjon om sammenheng mellom eksponering for kjemikalier i arbeidet og helseskader.
 
-Kapittel 15
+*Kommisjonen* har kommet til at en egen kompensasjonsordning for oljepionerene er en riktig og hensiktsmessig løsning. Begrunnelsen for en kompensasjonsordning er at et arbeidsmiljø med hensyn til kjemisk helsefare som er annerledes enn i arbeidslivet for øvrig, for noen har ført til alvorlige helseskader. For at en kompensasjonsordning skal kunne oppfattes som rettferdig og riktig, er det nødvendig at ordningen rammes inn slik at målgruppen avgrenses tydelig på bakgrunn av dokumentasjon om utviklingen i næringen i pionertiden og relevante eksponeringsforhold, sett i forhold til sammenlignbare arbeidstakergrupper på land. *Kommisjonen* mener derfor at det i en kompensasjonsordning bør forutsettes at den enkelte søker kan dokumentere mulig sammenheng mellom særskilt eksponering i «pionertiden» og varige helseskader.
 
-Tabell 15.3 Beste anslag, samfunnsøkonomiske kostnader ved en kompensasjonsordning i millioner kroner
-Modell
-1
+Modell 3 kan derfor, etter *kommisjonens* syn, ikke anbefales. Innenfor denne modellen kan det blant annet ikke skilles mellom oljearbeidere og andre, tilsvarende yrkesgrupper som var utsatt for kjemisk eksponering i samme periode. Det kan være vanskelig for den enkelte å dokumentere sammenheng mellom kjemikalieeksponering i arbeidet og uførhet, dersom det ikke framgår av et vedtak om godkjent yrkessykdom. Denne modellen kan omfatte svært mange potensielle søkere, men vil ikke være treffsikker med hensyn til målgruppen, da det ikke legges opp til en vurdering av sammenheng mellom arbeidsmiljø og helse.
 
-Modell Modell Modell
-2A
-2B
-2
+Modell 1 forutsetter arbeidsmedisinske utredninger og at det kan dokumenteres sannsynlig sammenheng mellom eksponering og helseskade, i tråd med folketrygdlovens krav for å få godkjent yrkessykdom. Denne modellen vil derfor i størst grad kunne treffe den definerte målgruppen for kompensasjonsordningen og oppleves som legitim. *Kommisjonen* har argumentert for at kompensasjonsordningen tar sikte på å forbedre situasjonen for flere skadelidte. Modellen kan slik sett være mindre treffsikker for å oppnå et slikt formål.
 
-1966– 1966– 1966–
-1985 1990 1995
+I modell 2 legges det også til grunn arbeidsmedisinske utredninger i det enkelte tilfelle, men kravet til dokumentert sammenheng mellom eksponering og helseskade er mindre strengt. Dette innebærer også at modell 2, samtidig som det forutsettes dokumentasjon om mulig sammenheng mellom særskilt kjemisk eksponering i pionertiden og varig helseskade, kan oppfattes å ha en enklere inngang for de berørte oljepionerene.
 
-1966–
-1985
+*Kommisjonens flertall, medlemmene Riise, Risa, Ikdahl, Nilsen, Solheim og Karlsen* mener derfor at modell 2 er den mest hensiktsmessige modellen. Dette flertallet er samtidig delt med hensyn til tidsperioden som anbefales, se kapitlene 10.5 og 12.1.2.
 
-1966–
-1990
+*Kommisjonens medlemmer Erikstein og Nilsen* mener at ingen yrkesgrupper offshore kan utelukkes fra å være kjemisk skadde oljepionerer. *Medlemmet Erikstein* foreslår en modell som vil omfatte alle yrkesgrupper, se modell 4.
 
-1966–
-1995
+Med hensyn til det kostnadsnøytrale alternativet, nullalternativet, viser *kommisjonen* til at oljepionerene i utgangspunktet har flere muligheter for å fremme nye krav under gjeldende yrkesskadeordninger, herunder få en ny vurdering av tidligere avgjørelser. Terskelen for å nå fram er imidlertid høy. Muligheten for gjenopptak av rettskraftige kjennelser fra Trygderetten og gjenåpning av rettskraftige forlik og rettskraftige dommer, er snever. For krav under yrkesskadeforsikringen gjelder korte frister for etteroppgjør, samt foreldelsesregler. Det er ikke regler om foreldelse ved krav overfor NAV om omgjøring etter forvaltningsloven. Avslagene kan derimot ikke påklages, men må eventuelt bringes direkte inn for tingretten. *Kommisjonen* mener på denne bakgrunn at et nullalternativ ikke vil være en riktig og hensiktsmessig måte å følge opp oljepionerene på.
 
-Modell
-3
-1966–
-1985
+*Kommisjonen* har kommet til at det er grunnlag for å anbefale en særskilt kompensasjonsordning for oljepionerer, se kapittel 9.3.
 
-1966–
-1990
+# Ansvar for og finansiering av kompensasjonsordningen
 
-Modell Modell
-4
-5
-1966–
-1995
+## Myndighetenes og arbeidsgivernes rolle
 
-1966–
-1995
+Det inngår i kommisjonens mandat å vurdere ansvaret for og finansieringen av en kompensasjonsordning for oljepionerene, herunder henholdsvis myndighetenes og arbeidsgivernes rolle. I forbindelse med vurderingen av ansvar knyttet til en kompensasjonsordning, kan det ses hen til tilsvarende vurderinger i nordsjødykkersaken. Ansvarsforholdene har i dykkersaken vært grundig vurdert gjennom en egen granskingskommisjon, stortingsbehandling og i rettsvesenet, se kapittel 4.1. *Kommisjonen* legger til grunn at vurderinger om ansvarsforholdene kan være de samme når det gjelder oljepionerene som for nordsjødykkerne, siden begge er grupper som arbeidet offshore i norsk petroleumsvirksomhet i «pionertiden». *Kommisjonen* viser til at Høyesterett i 2009 ga staten medhold i at staten ikke hadde et juridisk ansvar for dykkernes skader, fordi det ikke forelå tilstrekkelig tilknytning mellom staten og dykkervirksomheten. Selv om det ikke kunne konstateres et rettslig erstatningsansvar for staten for dykkernes skader, vedtok Stortinget, etter regjeringens anbefaling, en egen kompensasjonsordning for dykkerne, slik at staten tok et moralsk og politisk ansvar for dykkernes skader. Stortinget vedtok videre at kompensasjonsordningen skulle etableres og finansieres av staten. Det ble også vedtatt at rettighetshaver og operatørselskapene skulle inviteres til å delta i finansieringen av ordningen. Selskapene ønsket ikke å bidra til denne kompensasjonsordningen. Statoil ASA hadde imidlertid, i forkant av kompensasjonsordningen, iverksatt en ordning med økonomisk støtte til personer som hadde nedsatt arbeids- og ervervsevne etter å ha arbeidet som dykkere i petroleumsvirksomheten i Norge i perioden 1965–1990, se kapittel 4.1.
 
-1966–
-1990
+Saken om oljepionerene bygger i stor grad på at oljearbeidere som mener de har fått helseskader på grunn av kjemikalieeksponering i arbeidet, hevder at de ikke har nådd fram med krav om yrkesskadeerstatning. Da Stortinget vedtok at det skal arbeides fram en kompensasjonsordning for oljepionerene, ble det vist til at det er begått en «urett» overfor denne gruppen, og til tidligere særordninger på siden av det ordinære regelverket for andre grupper, som for nordsjødykkerne. Utgangspunktet for Stortingets ønske om en kompensasjonsordning, kan derfor synes å være å ta et politisk ansvar, framfor at «pioneroljearbeiderne» henvises til å måtte forfølge spørsmålet om et eventuelt rettslig ansvar.
 
-8
+## Kompensasjonens størrelse
 
-0,4
+Kommisjonen har ikke fått i oppdrag å vurdere eller foreslå størrelse på en kompensasjonsordning for oljepionerer, og tar derfor ikke stilling til nivå på kompensasjonen. Nivået på en kompensasjonsordning ble heller ikke vurdert av kommisjonen som utredet saken om nordsjødykkerne.[^252] En beskrivelse av ulike mulige nivåer på en kompensasjonsordning er likevel nødvendig som et grunnlag for en vurderingen av økonomiske og administrative konsekvenser av de ulike modeller som kommisjonen har beskrevet, se kapittel 15. Til grunn for en vurdering av økonomiske og administrative konsekvenser av kommisjonens forslag, foreslår *kommisjonen* tre alternative nivåer for en kompensasjonsordning:
 
-504
+1.  Nivå tilsvarende kompensasjon i nordsjødykkersaken – inntil 65 G.[^253]
 
-24
+Stortinget vedtok i 2004 en særskilt kompensasjonsordning som kunne gi den enkelte pionerdykker utbetaling på inntil 40 G, og i tillegg en oppreisning på 200 000 kroner, se kapittel 4.1. Stortinget vedtok videre i 2014 en tilleggskompensasjon til denne ordningen på 25 G. Kompensasjonen ble gradert på grunnlag av uføregrad eller medisinsk invaliditet. Totalt ble det gjennom kompensasjonsordningen utbetalt om lag 1,2 milliarder kroner til 270 dykkere og etterlatte.
 
-Kostnader for offentlige
-virksomheter:
-Lege
+34. Nivå tilsvarende grunnerstatning i yrkesskadeforsikringsordningen – inntil 30 G.
 
-0,2
+Grunnerstatningen i yrkesskadeforsikringsordningen bygger på ansvar, årsakssammenheng og økonomisk tap. Maksimal erstatning, 30 G, forutsetter 100 prosent uførhet og tidligere inntekt over 10 G.
 
-0,3
+35. Nivå tilsvarende rettferdsvederlag fra staten – inntil 250 000 kroner.
 
-0,4
+Rettferdsvederlag fra staten kan gis som en erkjennelse av at noen har blitt utsatt for en urett. Rettferdsvederlag er ikke noe man har krav på, og tar ikke sikte på å dekke det fulle økonomiske tapet. Beløpene er som regel lavere enn ved vanlige erstatningssaker. De fleste som får innvilget rettferdsvederlag, får mellom 70 000 og 180 000 kroner. Det maksimale beløpet man kan få er 250 000 kroner.
 
-0,2
+## Gradering av kompensasjon
 
-0,3
+Det kan vurderes om en kompensasjonsordning for oljepionerene bør graderes på bakgrunn av uføregrad eller medisinsk invaliditet i det enkelte tilfellet. Dette var for eksempel en ordning som ble lagt til grunn i nordsjødykkersaken. Dette forutsetter at det foreligger et vedtak om godkjent yrkessykdom eller uføretrygd, eller at det gjennomføres individuelle arbeidsmedisinske utredninger før søknad om kompensasjon, se modell 1 og 2, kapittel 12.[^254]
 
-0,4
+## Fratrekk for arbeidsgiverfinansierte ordninger
 
-Arbeidsmedisinsk
-utredning
+Det kan vurderes om utbetalinger gjennom kompensasjonsordningen skal ses i sammenheng med andre ytelser til oljearbeiderne. Det kan for eksempel ved utbetalingen av kompensasjon bli stilt som vilkår at denne utbetalingen skal gå til fradrag i en erstatning for samme skade som søkeren senere eventuelt blir tilkjent gjennom et erstatningssøksmål. Et slikt forbehold vil kunne være av betydning dersom selskapene/arbeidsgiver skal bidra til finansiering av ordningen. På samme måte kan det legges til grunn at tidligere arbeidsgiverfinansierte erstatningsutbetalinger, eventuelle forlik skal komme til fratrekk ved beregning av kompensasjon gjennom en kompensasjonsordning.
 
-14
+## Etterlatte
 
-19
+Det kan vurderes om en kompensasjon til oljepionerer skal gis til etterlatte i de tilfeller der oljearbeideren ikke lenger lever. I nordsjødykkersaken ble kompensasjon gitt etterlatte når det kunne godtgjøres at avdøde fylte vilkårene for å få kompensasjon. Som etterlatte ble ansett personer som fylte vilkårene for å få etterlattepensjon eller barnepensjon fra folketrygden. I tilleggsordningen fra 2014 ble også barn som ikke har krav på barnepensjon inkludert, se kapittel 4.1.
 
-23
+## Kommisjonens vurderinger
 
-14
+*Kommisjonen* antar at Stortingets anmodningsvedtak knyttet til en kompensasjonsordning for oljepionerene kan innebære en intensjon om statlig finansiering av ordningen, uavhengig av det rettslige ansvaret for oljearbeidernes helseskader. *Kommisjonen* viser videre til at pionertiden ligger langt tilbake i tid, og det kan være vanskelig å få på plass en kompensasjonsordning dersom ikke staten tar et ansvar for finansiering av ordningen. Samtidig mener *kommisjonen* det kan vurderes, som i dykkersaken, om rettighetshaverne/operatørselskapene skal inviteres til å bidra i finansieringen av kompensasjonsordningen. Det kan i den sammenheng vises til selskapenes/arbeidsgivernes ulovfestede objektive ansvar for oljearbeidernes skader, og til at en del oljepionerer hevder at det er vanskelig å nå fram med krav om yrkesskadeerstatning overfor arbeidsgivers forsikringsselskap. En rekke saker i andre næringer, hvor arbeidstakere er påført alvorlige helseskader gjennom arbeidet, er også fulgt opp gjennom avtaler og forlik mellom partene i virksomheten, for eksempel ved Falconbridge Nikkelverk og Norcem, se kapittel 7.5.5.
 
-19
+*Kommisjonen* legger til grunn at det vil være hensiktsmessig å etablere et system for utmåling av kompensasjon, avhengig av uføregrad eller medisinsk invaliditet. Kompensasjonen kan eventuelt graderes innenfor alle de tre modellene skissert i kapittel 12. I modell 3, som ikke forutsetter en arbeidsmedisinsk utredning, vil uførhet være et definert kriterium for å komme inn under ordningen.
 
-23
+*Kommisjonen* er videre enig om at tidligere arbeidsgiverfinansierte erstatningsutbetalinger, herunder eventuelle forlik bør komme til fratrekk ved beregning av kompensasjon gjennom en kompensasjonsordning. Det legges blant annet til grunn at det må opplyses om tidligere erstatninger etter forlik, selv om disse i utgangspunktet kan være fortrolige. Ordningen vil således til dels baseres på tillit mellom staten og den enkelte oljepioner. Når det gjelder fratrekk for utbetalt kompensasjon i en eventuell senere personskadeerstatningssak for samme skade, mener *kommisjonen* dette vil være et spørsmål som må avgjøres av retten i det enkelte tilfelle.
 
-Saksbehandling
+*Kommisjonen* finner det også riktig at kompensasjonen utbetales til etterlatte i de tilfeller avdøde fylte kriteriene i kompensasjonsordningen.
 
-11
+# Organisering og administrasjon
 
-16
+## Informasjon og formidling om ordningen
 
-18
+Ved etablering av en kompensasjonsordning for «oljepionerer», er det av stor betydning at informasjon om ordningen når ut til målgruppen. Målgruppen for denne ordningen vil være stor og sammensatt, se kommisjonens vurderinger i kapittel 10.5 og beregninger fra Oslo Economics, kapittel 15.1. En del av arbeidstakerne offshore i pionertiden var også utenlandske. Det vil således være nødvendig med en samlet og målrettet informasjonsinnsats fra alle aktører for å nå fram til tidligere oljearbeidere i målgruppen og eventuelt deres etterlatte, både i Norge og internasjonalt. Fra myndighetenes side må det utarbeides informasjon om ordningen, herunder om kriterier, krav til søknader og saksgang. Informasjonen må også oversettes til aktuelle språk. Myndighetene kan informere gjennom media og på aktuelle nettsider, herunder via Utenriksdepartementet og ambassader i aktuelle land. Partene og selskapene i næringen må aktivt bidra med informasjon via sine kanaler til tidligere ansatte, medlemmer, medlemsforeninger og -forbund. Sosiale medier vil i tillegg kunne være mulige kanaler for spredning av informasjon om ordningen.
 
-11
+En annen målgruppe for informasjon er arbeidsmedisinere og arbeidsmedisinske avdelinger som skal gjennomføre utredninger av potensielle søkere til kompensasjonsordningen. Det må utarbeides retningslinjer for de forenklete vurderingene, og det vil være hensiktsmessig med et samarbeid og koordinering mellom avdelingene som skal gjennomføre utredningene.
 
-16
+## Ordningens varighet
 
-18
+En kompensasjonsordning skal etableres for å kompensere for helseskadelige arbeidsforhold langt tilbake i tid. Stortinget har blant annet i sitt anmodningsvedtak understreket at det haster å få avklart kompensasjonsordningen. Det er derfor viktig både å komme raskt i gang og å følge opp ordningen. I forbindelse med etablering kan det settes tidsfrister for når potensielle søkere må ha meldt inn søknader til ordningen og for når ordningen skal være gjennomført og avsluttet. Søknadsfrist må legge til rette for rimelig tid til å utarbeide og nå ut med informasjon om ordningen til potensielle søkere. Frist for gjennomføring og avslutning av ordningen vil blant annet avhenge av hvilken modell som velges, ventetid på utredninger, saksbehandling mv.
 
-19
+## Alternativer for administrasjon av en kompensasjonsordning
 
-27
+Kommisjonen har vurdert ulike alternativer for administrasjon av en kompensasjonsordning. Til grunn for disse vurderingene, ligger blant annet at modellene må ta hensyn til kravene til behandling, dvs. innsamling og bruk av personopplysninger, se personopplysningsloven[^255] og EUs personvernforordning (GDPR – General Data Protection Regulation). Valg av modell, dvs. om det kreves en særskilt faglig utredning og vurdering i det enkelte tilfellet eller ikke, har betydning for hvordan ordningen bør organiseres og administreres. Med dette utgangspunktet, har kommisjonen vurdert følgende alternativ:
 
-32
+### Søknadsbehandling og utbetaling i offentlig regi
 
-371
+Det kan vurderes om NAV, særskilt Yrkessykdomskontoret, kan få ansvaret for administrasjon av en kompensasjonsordning. En slik ordning må eventuelt vurderes av og forankres hos Arbeids- og inkluderingsdepartementet og NAV.
 
-19
+Yrkessykdomskontoret har god kompetanse og erfaring med yrkessykdomssaker, og har blant annet hatt ansvaret for administrasjon av kompensasjonsordningen for nordsjødykkere fra 2014. Kontoret er en etablert enhet, det administrative rundt en slik ordning kan derfor bli relativt begrenset. En slik ordning kan innebære at saksbehandling og utbetaling foretas hos samme organ. Kontoret har et etablert system for håndtering av personopplysninger.
 
-Administrasjon og
-informasjonsarbeid
+NAV kan av noen oppleves som part i saken til tidligere oljearbeidere, og dermed ikke nøytrale. Noen oljepionerer kan derfor ha mindre tillit til NAV og NAVs vurderinger. Det kan videre være uklart om vanlige saksbehandlingsregler, frister, klageadgang mv. skal gjelde. Ordningen kan derfor oppleves som byråkratisk. Administrasjon av en kompensasjonsordning vil være ressurskrevende for NAV, og det er lite hensiktsmessig å bygge opp en slik ordning i en offentlig etat for en kort periode.
 
-12
+### Søknadsbehandling i regi av uavhengig nemnd
 
-12
+Det kan vurderes å etablere en uavhengig nemnd for å behandle søknader om kompensasjon. Dette vil være tilsvarende ordning som i nordsjødykkersaken.
 
-12
+En nemnd må eventuelt settes sammen med nødvendig kompetanse for å behandle søknader om kompensasjon. Sammensetningen av nemda bør sikre at de berørte opplever nemnda som nøytral. Nemnda må selv fortolke og følge opp sitt mandat. Etablering av en nemnd egner seg for et arbeid i en avgrenset periode.
 
-12
+Det må etableres en ordning for å ivareta kravene i personopplysningsloven og GDPR. Det kan vurderes om dette kan gjøres gjennom å knytte nemndas sekretariat opp mot en instans som lovlig kan håndtere personopplysninger, for eksempel NAV, Norsk pasientskadeerstatning (NPE) eller Sivilrettsforvaltningen. Etablering av en ny ordning med uavhengig nemnd og sekretariat kan kreve noe tid og ressurser.
 
-12
+### Sivilrettsforvaltningen og Stortingets utvalg for rettferdsvederlag
 
-12
+Ordningen med rettferdsvederlag er Stortingets ordning i regi av Statens sivilrettsforvaltning. Rettferdsvederlag skal være et «plaster på såret» og en erkjennelse av at noen har blitt utsatt for en urett. Man kan søke om rettferdsvederlag hvis man er kommet uheldig ut i forhold til andre i en sammenlignbar situasjon og har blitt påført en skade eller ulempe. Som hovedregel må skaden eller ulempen ha sammenheng med kritikkverdige forhold fra det offentliges side.
 
-12
+Innenfor rettferdsvederlagsordningen er det tidligere etablert særordninger for enkelte særskilte grupper. Sivilrettsforvaltningen saksbehandler og innstiller i de enkelte sakene og vedtakene fattes i Stortingets utvalg for rettferdsvederlag.
 
-12
+Rettferdsvederlag er ment å være en siste utvei for å få erstatning. Ordningen gjelder ikke for forhold som er regulert av trygde- eller forsikringsordninger. Saksbehandlingstiden i denne ordningen er lang.
 
-12
+## Kommisjonens vurderinger
 
-12
+Behov for kompetanse og ressurser knyttet til administrasjon av en kompensasjonsordning for oljepionerene, vil avhenge av hvilken modell som velges for ordningen. En modell som forutsetter at det skal gjøres en konkret vurdering av sannsynlig eller mulig sammenheng mellom eksponering og relevant helseskade, kombinert med dokumentasjon om tidsperiode offshore og arbeidsområde, forutsetter relevant faglig kompetanse og kapasitet i saksbehandlingen, for eksempel gjennom en tverrfaglig sammensatt nemnd. En enklere modell som baserer seg på dokumentasjon om innvilget uførhet framfor utredninger og sannsynlige eller mulige årsakssammenhenger, kan følges opp gjennom enklere saksbehandling.
 
-12
+*Kommisjonen* viser til kapittel 9.1, hvor det er pekt på at for at en kompensasjonsordning skal kunne oppfattes som rettferdig og riktig, er det nødvendig at ordningen rammes inn slik at målgruppen avgrenses tydelig på bakgrunn av dokumentasjon om utviklingen i næringen i «pionertiden» og relevante eksponeringsforhold. *Kommisjonen* mener derfor at det i en kompensasjonsordning bør forutsettes at den enkelte søker kan dokumentere sammenheng mellom særskilt eksponering i «pionertiden» og varige helseeffekter. *Kommisjonens flertall* har pekt på modell 2, se kapittel 12.1.2, som den mest hensiktsmessige modellen.
 
-Sum kostnader
-offentlige virksomheter
+*Kommisjonen* er enig om at etablering av en uavhengig nemnd vil være den klart mest hensiktsmessige løsningen for administrasjon av en slik ordning.
 
-37
+Med hensyn til effektiviteten i arbeidet, er det viktig at nemnda settes sammen med rett kompetanse og ikke er for stor. Det kan i denne sammenheng ses hen til nemnda i nordsjødykkersaken, som var tverrfaglig sammensatt med fem medlemmer, hvorav ett medlem fra LO, samt en sekretær. Nemndas leder var jurist.
 
-47
+For å sikre ordningens legitimitet, mener *kommisjonen* at det er viktig å sikre nemndas faglighet og uavhengighet. Nemnda bør inneha faglig kompetanse innenfor områdene arbeidsmedisin og juss, samt særskilt kunnskap om arbeidsmiljø, herunder kjemisk arbeidsmiljø offshore.
 
-54
+Myndighetene må utarbeide et konkret mandat for nemndas arbeid. *Kommisjonen* mener videre at det kan være hensiktsmessig at sekretariatet knyttes til en instans som har rutiner og systemer som kan håndtere personopplysninger i henhold til personvernregelverket (GDPR). En slik instans kan for eksempel være NAV eller Norsk pasientskadeerstatning (NPE). Størrelsen på sekretariatet vil avhenge av hvilken modell som velges. *Kommisjonen* mener også at søkere til kompensasjonsordningen bør bli informert om begrunnelse for vedtaket i sin sak, og hvordan dette er forankret i vilkårene for ordningen.
 
-37
-
-47
-
-54
-
-31
-
-39
-
-44
-
-896
-
-56
-
-Tidsbruk og utgifter
-for søker
-
-2
-
-3
-
-3
-
-2
-
-3
-
-3
-
-1
-
-2
-
-2
-
-75
-
-4
-
-Kostnader for fagforening og arbeidsgiver
-
-2
-
-4
-
-4
-
-2
-
-4
-
-4
-
-4
-
-7
-
-8
-
-93
-
-4
-
-Sum kostnader
-private aktører
-
-5
-
-6
-
-8
-
-5
-
-6
-
-8
-
-5
-
-8
-
-10
-
-168
-
-8
-
-65 G
-
-370
-
-589
-
-663
-
-660
-
-951
-
-1 170
-
-803 1 240 1 458 12 570
-
-1 171
-
-30 G
-
-175
-
-277
-
-312
-
-308
-
-444
-
-546
-
-374
-
-576
-
-678
-
-5 898
-
-546
-
-250 000 kr
-
-20
-
-29
-
-33
-
-30
-
-42
-
-51
-
-34
-
-50
-
-59
-
-607
-
-51
-
-180 000 kr
-
-16
-
-24
-
-27
-
-24
-
-33
-
-40
-
-26
-
-38
-
-45
-
-487
-
-40
-
-70 000 kr
-
-11
-
-15
-
-17
-
-14
-
-19
-
-22
-
-14
-
-20
-
-23
-
-299
-
-22
-
-65 G
-
-412
-
-642
-
-725
-
-702
-
-1 004
-
-1 232
-
-839 1 287 1 512 13 634
-
-1 235
-
-30 G
-
-217
-
-330
-
-374
-
-350
-
-497
-
-608
-
-410
-
-623
-
-732
-
-6 962
-
-610
-
-250 000 kr
-
-62
-
-82
-
-95
-
-72
-
-95
-
-113
-
-70
-
-97
-
-113
-
-1 671
-
-115
-
-180 000 kr
-
-58
-
-77
-
-89
-
-66
-
-86
-
-102
-
-62
-
-85
-
-99
-
-1 551
-
-104
-
-70 000 kr
-
-53
-
-68
-
-79
-
-56
-
-72
-
-84
-
-50
-
-67
-
-77
-
-1 363
-
-86
-
-Ingen krav til
-utredning
-
-Kostnader for private
-aktører:
-
-Skattefinansieringskostnad kompensasjon:
-
-Samfunnsøkonomisk
-kostnad kompensasjon:
-
-Kilde: Oslo Economics 2022b
-
-[Side 128]
-
-126
-
-NOU 2022: 19
-
-Kapittel 15
-
-Oljepionerene – en kompensasjonsordning
-
-Tabell 15.4 Beste anslag, årsverk for sekretariat og lege/arbeidsmedisiner
-Modell
-1
-
-Modell Modell Modell
-2A
-2B
-2
-
-Modell
-3
-
-1966–
-1985
-
-1966–
-1990
-
-1966–
-1995
-
-1966–
-1985
-
-1966–
-1990
-
-1966–
-1995
-
-1966–
-1985
-
-1966–
-1990
-
-Lege
-
-0,6
-
-0,9
-
-1,0
-
-0,6
-
-0,9
-
-1,0
-
-Arbeidsmedisiner
-
-10,2
-
-14,6
-
-17,5
-
-10,2
-
-14,6
-
-17,5
-
-Sekretariat
-
-4,0
-
-5,2
-
-6,1
-
-4,0
-
-5,2
-
-6,1
-
-4,7
-
-6,6
-
-Sum årsverk
-
-14,8
-
-20,7
-
-24,6
-
-14,8
-
-20,7
-
-24,6
-
-4,7
-
-6,6
-
-Modell Modell
-4
-5
-1966–
-1995
-
-1966–
-1995
-
-1966–
-1990
-
-22,3
-
-1,1
-
-379
-
-18,2
-
-7,5
-
-111
-
-6,3
-
-7,5
-
-513
-
-25,6
-
-Ingen krav til
-utredning
-
-Kilde: Oslo Economics 2022b
-
-15.5 Kommisjonens merknad
-Kommisjonen har ikke fått i oppdrag å vurdere
-eller foreslå størrelse på en kompensasjonsordning for oljepionerer, og tar derfor ikke stilling til
-nivå på kompensasjonen. Kommisjonen viser til at
-det er store variasjoner i økonomiske og administrative konsekvenser, avhengig av hvilken modell
-og hvilket kompensasjonsnivå som velges.
-
-15.6 Positive virkninger av en
-kompensasjonsordning
-Analysen fra Oslo Economics retter seg mot
-direkte kostnadsvirkninger for offentlige og private aktører. Nyttevirkninger har ikke blitt identifisert eller forsøkt prissatt i denne analysen. Oslo
-Economics har heller ikke vurdert mulige kostnadsvirkninger i form av potensielle ringvirkninger av en kompensasjonsordning.
-
-Det pekes likevel på at det er potensielle positive virkninger som følger av kompensasjonsordningen. Det er i særlig grad den skadelidte som vil
-oppleve de største nyttevirkningene. Mange av de
-skadelidte har arbeidet over lengre tid i krevende
-omstendigheter, og mange av de skadelidte kan
-ha opplevd redusert livskvalitet som følge av
-skade eller sykdom relatert til arbeidet offshore.
-Kompensasjonsordningen skal kompensere for
-byrden yrkessykdommen kan ha påført både skadelidte og pårørende. Det påpekes derfor at kompensasjonsordningen kan ha en betydelig positiv
-virkning på skadelidte og pårørende i form av
-bedre økonomi.
-En kompensasjonsordning kan også rette
-søkelyset mot viktigheten av gode og trygge
-arbeidsforhold. Dersom flere arbeidstakere og
-arbeidsgivere er klar over kravene som stilles til
-en trygg arbeidsplass, og har oppmerksomhet på
-trygge rammevilkår rundt arbeidsdagen, så kan
-dette gi potensielle positive virkninger i arbeidsmarkedet.
-
-[Side 129]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-127
-
-Referanser og litteraturliste
-
-Referanser og litteraturliste
-Litteraturlisten viser de viktigste kildene kommisjonen har brukt i arbeidet. Mange av kildene ligger på nettet og lenkene virket i desember 2022.
-Norske offentlige dokumenter som proposisjoner
-og lover er ikke tatt med i litteraturlisten siden
-disse ligger tilgjengelig på nettsidene til Stortinget eller departementene.
-Offentlige utredninger
-NOU 1976: 40 Arbeidsmiljøet på kontinentalsokkelen (Halden I). Oslo: Kommunal- og arbeidsdepartementet.
-NOU 1977: 36 Arbeidsmiljøet på kontinentalsokkelen (Halden II). Oslo: Kommunal- og arbeidsdepartementet.
-NOU 1988: 6 Erstatning og forsikring ved yrkesskade
-(Yrkesskadeerstatningslovutvalget). Oslo: Justis- og politidepartementet.
-NOU 1989: 15 Arbeidsmiljølovens virkeområde i
-petroleumsvirksomheten (Bull-utvalget). Oslo:
-Kommunal- og arbeidsdepartementet.
-NOU 1990: 20 Forenklet folketrygd. Oslo: Sosialdepartementet.
-NOU 1994: 20 Personskadeerstatning. Oslo: Justisog politidepartementet.
-NOU 2003: 5 Pionerdykkerne i Nordsjøen. Oslo:
-Arbeids- og administrasjonsdepartementet.
-NOU 2004: 3 Arbeidsskadeforsikring. Oslo: Sosialdepartementet.
-NOU 2021: 9 Den norske modellen og fremtidens
-arbeidsliv – Utredning om tilknytningsformer og
-virksomhetsorganisering. Oslo: Arbeids- og sosialdepartementet.
-
-Prop. 59 L (2020–2021) Endringer i forsvarsloven
-(klageadgang og foreldelse i erstatningssaker og
-Forsvarets bistand til offentlige myndigheter og
-andre beredskapsaktører).
-Innstillinger
-Innst. S. nr. 137 (2003–2004) om gransking av pionerdykkernes forhold i Nordsjøen.
-Innst. 382 S (2020–2021) om representantforslag om
-nødvendige endringer i regelverket for yrkesskade, herunder for de såkalte «oljepionerene».
-Stortingsmeldinger
-St.meld. nr. 80 (1982–83) Oljedirektoratets årsberetning 1982.
-St.meld. nr. 9 (1985–86) Oljedirektoratets årsberetning 1984.
-St.meld. nr. 50 (1987–88) Oljedirektoratets årsberetning 1987 og 1988 og sikkerheten i petroleumsvirksomheten.
-St.meld. nr. 51 (1992–93) Om sikkerhet og arbeidsmiljø i petroleumsvirksomheten på norsk kontinentalsokkel.
-St.meld. nr. 46 (1997–1998) Olje- og gassvirksomheten.
-St.meld. nr. 7 (2001–2002) Om helse, miljø og sikkerhet i petroleumsvirksomheten (Arbeids- og
-administrasjonsdepartementet).
-St.meld. nr. 12 (2005–2006) Helse, miljø og sikkerhet i petroleumsvirksomheten.
-Meld. St. 29 (2010–2011) Felles ansvar for eit godt
-og anstendig arbeidsliv.
-
-Lovproposisjoner
-
-Rettsavgjørelser
-
-Ot.prp. nr. 50 (1993–94) Om lov om endringer i lov
-4. februar 1977 nr. 4 om arbeidervern og
-arbeidsmiljø mv.
-Ot.prp. nr. 29 (1995–96) Om ny lov om folketrygd
-(folketrygdloven).
-Ot.prp. nr. 44 (1988–89) Om lov om yrkesskadeforsikring.
-
-Høyesterett
-HR-2000-8-B
-HR-2000-13-A
-HR-2000-60
-HR-2004-556-A
-HR-2005-634-A
-HR-2005-2000-A
-HR-2007-294-A
-
-[Side 130]
-
-128
-
-Referanser og litteraturliste
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-HR-2009-1931-A
-HR-2012-1232-A
-HR-2012-2348-A
-HR-2013-2590-A
-HR-2022-2178-A
-Den europeiske menneskerettsdomstolen
-EMD (2013): Vilnes og andre mot Norge, dom 5.
-desember 2013.
-Litteraturliste
-Arbeidsmedisinske fagpersoner. (2022). Informasjon om utredninger i denne perioden er basert
-på fagpersoners tilbakeblikk og ikke statistikk,
-og kan gi et bilde av hva som preget denne perioden innen feltet arbeidsmedisin knyttet til
-sykdom og utredninger offshore.
-Arbeidsmiljøskaddes Landsforening (2014). Rapport om pioneroljearbeiderne i Nordsjøen.
-Arbeidstilsynet (2020). Grunnlagsdokumenter for
-grenseverdier for kjemikalier: Benzen. Hentet
-fra Arbeidstilsynet: https://www.arbeidstilsynet.no/contentassets/
-e0c3d6ac910d43c1b15acbf4e83452ef/
-grunnlagsdokument-benzen-horingsutkastseptember-2020.pdf
-Arbeidstilsynet (2021). Grunnlagsdokumenter for
-grenseverdier for kjemikalier: Dieseleksos. Hentet fra Arbeidstilsynet: https://www.arbeidstilsynet.no/contentassets/
-4c49d6bdd1ee4f7281d4ebc6a0b6da93/dieseleksos-grunnlagsdokument-2021.pdf
-Arbeidstilsynet (2022a, 17. juni). Forskrift om tiltaks- og grenseverdier. Hentet fra Arbeidstilsynet:
-https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-tiltaks--og-grenseverdier/
-Arbeidstilsynet (2022b). Grenseverdier for kjemisk
-eksponering. Hentet fra Arbeidstilsynets temasider: https://www.arbeidstilsynet.no/tema/kjemikalier/grenseverdier-for-kjemisk-pavirking/
-Arbeidstilsynet (2022c, 17. juni). Vedlegg 1: Liste
-over grenseverdier for forurensninger i arbeidsatmosfæren. Hentet fra Arbeidstilsynet: https://
-www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-tiltaks--og-grenseverdier/vedlegg/1/
-Arbeidstilsynet (2022d). Asbest. Hentet fra Arbeidstilsynet: https://www.arbeidstilsynet.no/tema/
-kjemikalier/asbest/
-Asheim Leirvik, L. (2021). Gyldendal Rettsdata.
-Note 65-72 til lov om anke til Trygderetten (trygderettsloven).
-
-ATSDR (2007). Toxicological Profile for Benzene.
-Hentet fra Agency for Toxic Substances and
-Disease Registry: https://www.atsdr.cdc.gov/
-toxprofiles/tp3.pdf
-Bjørnson, Ø. (1993). 100 år for bedre arbeidsmiljø.
-Tiden Forlag.
-Capleton, A. C. og Levy, L. S. (2005). An overview
-of occupational benzene exposures and
-occupational exposure limits in Europe and
-North America. Chemico-Biological Interactions 153-154, 43-53.
-ECHA (2018). ANNEX 1 Background document in
-support of the Committee for Risk Assessment
-(RAC) evaluation of limit values for benzene in
-the
-workplace.
-Hentet
-fra
-https://
-echa.europa.eu/documents/10162/37b38de40e36-6058-eaa4-1ffc56938831
-European Parliament and the council of the European Union (2004). Directive 2004/37/EC. Hentet fra EUR-Lex: https://eur-lex.europa.eu/
-legal-content/EN/TXT/PDF/
-?uri=CELEX:02004L0037-20140325&from=en
-Finansdepartementet (2021). Rundskriv R-109/
-2021. Prinsipper og krav ved utarbeidelse av
-samfunnsøkonomiske analyser. Oslo: Finansdepartementet.
-Forskningsprogram 1978–1982 (1983). Sikkerhet
-på sokkelen. Rapportoversikt. Hentet fra https:/
-/www.nb.no/items/URN:NBN:no-nb_digibok_2013061308081?page=0
-Galea, K. S., Searl, A., Sánchez-Jiménez, A., Woldbæk, T., Halgard, K., Thorud, S., Steinsvåg, K.,
-Krüger, K., Maccalman, L., Cherrie, J. W. og
-Van Tongeren, M. (2012). Oil mist and vapour
-concentrations from drillingfluids: inter- and
-intra-laboratory comparison of chemical analyses. Annals of Occupational Hygiene 56 (1), 6169.
-Harris, S. E. og Skurdal Andresen, K. S. (2021).
-Gyldendal Rettsdata. Note 1564-1610 til tvisteloven.
-Hayes, K., Megson, D., Doyle, A. og O’Sullivan, G.
-(2021). Occupational risk of organophosphates
-and other chemical and radiative exposure in
-the aircraft cabin: A systematic review. Science
-of the Total Environment 796 (148742).
-Husby, S. (2006). Oversikt over kompensasjons- og
-oppreisningsordninger for pionerdykkerne i
-Nordsjøen. I O. K. Fauchald, H. Jakhelln, og A.
-Syse, Festskrift til Carl August Fleischer på hans
-70-årsdag 26. august 2006. Universitetsforlaget.
-IARC (1987). Overall Evaluations of Carcinogenicity: An Updating of IARC Monographs Volumes 1-42. IARC Monograph Supplement 7.
-
-[Side 131]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-IARC (2009). Chemical agents and related occupations: a review of human carcinogens. IARC
-Monogr Eval Carcinog Risks Hum, 100F.
-IARC (2018). Benzene. IARC Monogr Eval Carcinog Risks Hum, 120.
-Infante, P. F. (2001). Benzene: an historical perspective on the American and European occupational setting. I Environmental issue report No
-22/2001: Late lessons from early warnings: the
-precautionary principle. European Environment Agency.
-Karlsen, J. E. (1982). Arbeidervern på sokkelen:
-Arbeidsmiljø, faglig strategi og vernesamarbeid i
-oljevirksomheten. Oslo: Universitetsforlaget.
-Kortenkamp, A., og Faust, M. (2018). Regulate to
-reduce chemical mixture risk. Science 361
-(6399), 224-226.
-Kreftforeningen (2022). Yrker og kreft. Hentet fra
-Kreftforeningen: https://kreftforeningen.no/
-forebygging/kreftfremkallende-stoffer/yrkerog-kreft/
-Kreftregisteret (2016). Cancer in Norway 2015.
-Hentet
-fra
-Kreftregisteret:
-https://
-www.kreftregisteret.no/globalassets/cancerin-norway/2015/cin-2015-special-issue.pdf
-Mehlum, I. S. og Kjuus, H. (2005). Omfang og konsekvenser av abeidsskader og arbeidsbetinget sykdom på norsk kontinentalsokkel. Petroleumstilsynet.
-Mehlum, I. S., Kjuus, H. og Nordby, K.-C. (2015).
-Utredning av tidligere oljearbeidere med mulige
-kjemikalieskader. Vurdering av utredningspraksis. STAMI.
-Moen, B., Steinsvåg, K. og Bråtveit, M. (2004). Hva
-vet vi om kjemisk helsefare offshore? Tidsskr
-Nor Lægeforen 20 (124), 2627-2629.
-Nilsen, R. og Denstad, J.-P. (2020). Kartleggingsrapport. Pioneroljearbeiderne med ødelagt helse.
-Møtet med systemet, erstatninger, senskader og
-løsemiddelskader. Arbeidsmiljøskaddes Landsforening.
-Nordby, K.-C. (2021). 21/403 Utredningspraksis –
-yrkesskadde oljearbeidere. STAMI.
-Norsk olje og gass (2011). Kjemisk arbeidsmiljø i
-den norske petroleumsindustrien.
-Norsk olje og gass (2014). Anbefalte retningslinjer
-for identifisering, vurdering, kontroll og oppfølging av benzeneksponering. Hentet fra Offshore
-Norge: https://offshorenorge.no/contentassets/78f305f51b054d10b0b9f465100a678a/
-anbefalte-retningslinjer-for-identifisering-vurdering-kontroll-og-oppfolging-av-benzeneksponering-07.04.2014.pdf
-Norsk Oljemuseum (2005). Norsk Oljemuseum
-Årbok 2005.
-
-129
-
-Referanser og litteraturliste
-
-Oljedirektoratet (1973). Årsberetning.
-Oslo Economics (2022a). Oppfølging av arbeidstakere i petroleumsvirksomheten offshore i pionertiden.
-Oslo Economics (2022b). Økonomiske og administrative konsekvenser av en kompensasjonsordning for «oljepionerene».
-Partssammensatt Arbeidsgruppe (2005). Kjemisk
-eksponering på norsk sokkel.
-Pedersen, E., Hogetveit, A. C., og Andersen, A.
-(1973). Cancer of respiratory organs among
-workers at a nickel refinery in Norway. International Journal of Cancer 12 (1), 32-41.
-Petroleumstilsynet (2007). Pilotprosjekt – Kjemisk
-arbeidsmiljø offshore.
-Petroleumstilsynet (2022). Regelverksutvikling og
-myndighetsoppfølging i petroleumsnæringen
-(1963–1992).
-Reusch, M. og Skårberg, L. O. (2003). Yrkesskade:
-forsikring og trygd. Cappelen Damm.
-Ryggvik, H. og Smith-Solbakken, M. (2003). Norsk
-oljehistorie (3): Blod, svette og olje.
-Smith-Solbakken, M. (1997). Doktorgradsavhandling: Oljearbeiderkulturen: Historien om cowboyer og rebeller. Trondheim: NTNU.
-Solbu, K. (2010). Doktorgradsavhandling: Airborne
-organophosphates in the aviation industry.
-STAMI.
-STAMI (2009). Rapport om aktivitet og resultater
-knyttet til utredning av offshorearbeidere 20062008. Brev til AID 03.04.09.
-STAMI (2011). Systematisering av yrkeshygieniske
-måledata fra olje- og gassindustrien, 2007-2009.
-STAMI (2013). Eksponering for kjemikalier i norsk
-olje- og gassindustri – Dagens eksponeringsbilde.
-Statens pensjonskasse (2022, 4. mars). Fakta om
-kompensasjonsordningen for veteraner. Hentet
-fra
-Statens
-pensjonskasse:
-https://
-www.spk.no/Yrkesskadeforsikring/tjeneste-iinternasjonale-operasjoner/fakta-om-kompensasjonsordningen-for-veteraner/
-Statens sivilrettsforvaltning (u.å.). Rettferdsvederlag fra staten. Hentet fra Statens sivilrettsforvaltning: https://www.sivilrett.no/rettferdsvederlag.556840.no.html
-Stear, M. A. (2003). Controlling Health Risks from
-Workplace Exposure to Metalworking Fluids
-in the United Kingdom Engineering Industry.
-Applied Occupational and Environmental Hygiene 18, 877-882.
-Steinsvåg, K. (2007). Doktorgradsavhandling:
-Retrospective assessment of exposure to carcinogens in Norway’s offshore petroleum industry.
-Universitetet i Bergen.
-
-[Side 132]
-
-130
-
-Referanser og litteraturliste
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-Stene, S. (2009). Masteroppgave: Kjemisk arbeidsmiljø offshore – en historie om forbedring.
-Stavanger: Universitetet i Stavanger.
-Stenehjem, J. S., Babigumira, R., Hosgood, H. D.,
-Veierød, M. B., Samuelsen, S. O., Bråtveit, M.,
-Kirkeleit, J. m.fl. (2021). Cohort Profile: Norwegian Offshore Petroleum Workers (NOPW)
-Cohort. International Journal of Epidemiology
-50 (2), 398-399.
-Stenehjem, J. S., Kjærheim, K., Bråtveit, M., Samuelsen, S. O., Barone-Adesi, F., Rothman, N.,
-Lan, Q. og Grimsrud, T. K. (2015). Benzene
-exposure and risk of lymphohaematopoietic
-cancers in 25 000 offshore oil industry workers.
-British Journal of Cancer 112, 1603-1612.
-Stenehjem, J. S., Kjærheim, K., Rabanal, K. S. og
-Grimsrud, T. K. (2014). Cancer incidence
-among 41000 offshore oil industry workers.
-Occupational Medicine 64, 539-545.
-Store norske leksikon (2022, 3. juni). Asbest. Hentet fra Store norske leksikon: https://snl.no/
-asbest
-Strand, L. Å. og Andersen, A. (2001). Kartlegging
-av kreftrisiko og årsaksspesifikk dødelighet blant
-ansatte i norsk offshorevirksomhet: Innsamling
-av bakgrunnsdata og etablering av kohort.
-Kreftregisteret.
-Svingen, T. og Vinggaard, A. (2016). The risk of
-chemical cocktail effects and how to deal with
-
-the issue. Journal of Epidemiology and
-Community Health 70 (4), 322-323.
-Universitetet i Bergen (2022). Historisk eksponering: Kjemisk eksponering frem til 2009.
-Universitetet i Bergen og Uni Helse (2010). Historisk eksponering for kjemikalier i den norske oljeog gassindustrien – yrkeshygieniske eksponeringsmålinger inntil år 2007.
-Universitetet i Bergen, Seksjon for arbeidsmedisin
-(2005). Eksponering for kreftfremkallende faktorer i norsk offshore petroleumsvirksomhet 19702005.
-Universitetet i Bergen, Seksjon for arbeidsmedisin
-(2007). Kjemisk eksponering i petroleumsvirksomheten, relatert til produksjonsstrømmer, produsert vann og boreslam. UiB. Hentet fra
-https://w2.uib.no/filearchive/olf.pdf
-van Valen, E., Wekking, E., van der Laan, G., Sprangers, M., og van Dijk, F. (2009). The course of
-chronic solvent induced encephalopathy: A
-systematic review. NeuroToxicology 30, 11721186.
-Wittemann, E. (2021). Gyldendal Rettsdata. Note
-958-963 til tvisteloven.
-Aarhus, L., og Mehlum, I. S. (2017). Pasientutredninger ved de arbeidsmedisinske avdelinger i
-2016 og i perioden 2010-2016. STAMI.
-
-[Side 133]
-
-Norges offentlige utredninger
-2021
-Arbeids- og sosialdepartementet:
-NOU 2021: 2 Kompetanse, aktivitet og inntektssikring
-NOU 2021: 5 Grunnlaget for inntektsoppgjørene 2021
-NOU 2021: 8 Trygd over landegrensene
-NOU 2021: 9 Den norske modellen og fremtidens
-arbeidsliv
-
-Helse- og omsorgsdepartementet:
-NOU 2021: 11 Selvstyrt er velstyrt
-
-Finansdepartementet:
-NOU 2021: 1 Endringer i verdipapirhandelloven
-NOU 2021: 4 Norge mot 2025
-NOU 2021: 7 Trygg og enkel eiendomsmegling
-NOU 2021: 10 Ny lov om folkefinansiering av
-næringsvirksomhet
-
-Kulturdepartementet:
-NOU 2021: 3 Barneliv foran, bak og i skjermen
-
-Kommunal- og moderniseringsdepartementet:
-NOU 2021: 6 Myndighetenes håndtering av
-koronapandemien
-
-[Side 134]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-Omslagsfoto: Erling Steinegger/Norsk Oljemuseum
-(foto fra Drill Master, 1970-tallet)
-
-ME
-
-R K E T T RY
-
-1
-
-46
-
-20
-4
-
-KK
-K
-
-MI
-
-JØ
-
-SA
-
-L
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 12/2022
-
-De
-
-p M edia
-
-04
+Tidsfrister for ordningen bør defineres nærmere når det er avklart hvor lang tid som må avsettes til forsvarlig informasjon, utredningsarbeid, saksbehandling mv. Det må prioriteres tilstrekkelige ressurser til informasjon om ordningen, slik at man når den samlede målgruppen og ordningen oppleves som legitim og rettferdig.

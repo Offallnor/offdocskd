@@ -1,1087 +1,252 @@
-# NOU 2024: 3, del 12 av 40 (side 148–159)
+# NOU 2024: 3, del 12 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 148]
-
-146
-
-Kapittel 13
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 13
-
-Ekstremisme i sosiale medier og andre digitale flater
-Den nye digitale hverdagen har gjort det mulig
-for mennesker som ellers ikke ville ha møtt hverandre, å finne sammen uavhengig av geografiske
-barrierer, sosiale identiteter og politiske forskjeller.1 Sosiale medier har senket terskelen for hvem
-som kan ytre seg og delta i det offentlige rom og
-bidra i meningsutvekslingen. Samtidig blir personer som ytrer seg på digitale flater imidlertid også
-utsatt for hatytringer, hets og trakassering på
-grunn av sitt engasjement og sin reelle eller
-antatte gruppetilhørighet.2
-Sosiale medier blir stadig mer brukt av ekstremistiske partier, bevegelser, grupper og enkeltpersoner.3 Gratis eller rimelige strømmetjenester,
-fillagringsplattformer og ende-til-ende-krypterte
-kommunikasjonsapplikasjoner har gjort det
-enklere å dele ekstremistisk propaganda.4 Ulike
-ekstremistiske aktører kan raskt og rimelig nå ut
-med sitt budskap og alternative virkelighetsforståelser til et stort, globalt publikum.5
-Sosiale medier kan legge til rette for ekstremisme ved å muliggjøre hurtig og ofte anonym
-spredning av propaganda. Det er lett å komme
-over hatytringer og oppfordringer til ekstremistisk vold på ulike sosiale medier som TikTok,
-Instagram, YouTube, Meta og X. En studie av TikTok basert på et utvalg av 1030 videoer viste hvordan videodelingsappen brukes til å spre rasistiske
-konspirasjonsfortellinger om hvit overmakt,
-instruksjonsvideoer om våpenproduksjon, glorifisering av ekstremister og terrorister, målrettet
-hets av minoriteter og holocaustbenektelse.6
-Kunstig intelligens kan forsterke denne utviklingen. Ekstremister kan benytte sofistikerte redskaper for tekstbehandling eller manipulasjon av
-lyd, bilde og video for å skreddersy sine budskap.
-1
-2
-3
-4
-5
-6
-
-Koehler 2014; Bennett, Wells og Freelon 2011
-Se omtale i kapittel 11 Ekstremismens konsekvenser for
-utsatte grupper
-Politiets sikkerhetstjeneste 2021e
-Evans og Williams 2022
-Sunde 2013
-O’Connor 2021
-
-Kunstig intelligens kan også øke rekkevidden til
-ekstremistiske grupperinger fordi det vil gi dem
-mulighet til å nå ut i et helt annet omfang, til nye
-grupper og på nye språk. Kunstig intelligens
-omtales videre i kapittel 14.
-
-13.1 Ytre høyre og høyreekstremisme
-på internett
-13.1.1 Alternative medier og klikkåte
-I lys av digitaliseringen de siste tiårene har det
-både i Norge og internasjonalt vokst frem en
-rekke alternative medier som opererer i yttergrensene av journalistikken. Alternative medier
-kjennetegnes av at de har en tydelig ideologisk
-profil og et uavklart forhold til etiske retningslinjer.7 I Norge har alternative medier som document.no, det nedlagte resett.no og rights.no mobilisert mot det politiske etablissementet og mediene samt mot islam og mot at muslimsk kultur
-skal være en del av den norske offentligheten.8 I
-kommentarfelt med ulik grad av moderering er
-det mange nettdebattanter som deler sterkt muslimfiendtlig og konspiratorisk tankegods.
-Alternative medier produserer ofte ragebaits
-eller klikkåte, som det kan kalles på norsk. Klikkåte er saker som har som formål å fange publikums oppmerksomhet og gjøre folk opprørte eller
-sinte og slik skape interaksjon med en lenke eller
-sak.9 Med viral spredning kan dette gå ut over
-enkeltpersoner og bidra til polarisering. I Norge
-ble resett.no anklaget for å skape uriktige narrativer og forfølge enkeltpersoner.10 Tidligere
-redaksjonssjef Lars Akerhaug har skrevet følgende om sin tid i Resett:
-Resett vart ein trykkokar for rasistiske haldningar. Desse nettstadene eksisterer i ein slags
-7
-
-Ihlebæk og Figenschou 2022
-Berntzen 2011
-9 Bjørkelo 2021
-10
-Waatland 2019
-8
-
-[Side 149]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-symbiose. Ein gjev lesarane det dei vil ha, og
-dei reagerer i form av kommentarar, likes,
-delingar og ikkje minst donasjonar. Det er
-sjølvsagt ein negativ spiral. Og til skilnad frå
-politiske parti som FrP har du ikkje noko incentiv for å skyva dei mest ekstreme vekk frå deg.
-Mitt inntrykk var at det var denne gruppa som
-gav mest pengar. (Akerhaug, 2022)
-
-En del av dette bildet er også trolling, altså grenseoverskridende og sjokkerende utsagn på nettet.
-Målet er å skape negative emosjonelle reaksjoner
-hos en annen person eller gruppe. Trolling foregår også som større kampanjer organisert av land
-eller andre aktører, blant annet såkalte trollfabrikker. Trolling kan komme i form av memer, typisk
-bilder eller videoer som spres og utvikler seg
-gjennom kopier og etterligning, som spiller på
-temaer som skaper følelser, for eksempel rasisme
-eller kvinnehat.
-Mange internettbrukere som troller, mener
-ikke det de poster eller sier, og synes først og
-fremst det er gøy at andre tror på dem og blir fornærmet.11 Like fullt kan trolling påvirke opinionen ved at desinformasjon spres i stor skala. Desinformasjon er feil informasjon som spres bevisst
-for å villede folk.12 Derfor er desinformasjon et
-nyttig redskap i politiske påvirkningskampanjer.
-Desinformasjon er utbredt i tilknytning til væpnede konflikter slik en ser i krigen mellom Hamas
-og Israel og under Russlands krigføring i
-Ukraina.13 Desinformasjonskampanjer blir også
-stadig vanligere i forbindelse med demokratiske
-valg.14
-
-13.1.2 Subkultur på internett
-Organiserte høyreekstreme organisasjoner og
-ytre-høyre-aktører har åpne digitale plattformer
-som de bruker til å spre propaganda og kommunisere med tilhengere. En studie av ytre høyre i
-Norge har vist at alle de sentrale grupperingene
-har egne sider på Facebook.15
-Andre høyreekstreme subkulturer består av
-løst definerte nettverk uten sentralisert ledelse,
-hierarkiske strukturer og kriterier for medlemskap. I ulike subkulturer blir høyreekstrem propaganda produsert og spredt i transnasjonale internettfellesskap.16 Brukerne knyttes sammen av en
-11
-
-Phillips 2015
-12
-NOU 2022: 9; FNs generalforsamling 2021
-13
-Silverman og Kao 2022
-14 Bader 2018
-15 Haanshuus og Jupskås 2017
-
-147
-
-Kapittel 13
-
-subkulturell identitet, verdier og subkulturelle
-symboler og et språk hvor både vold og humor
-spiller en sentral rolle. Bruken av humor gjør også
-grensen mellom ekstreme ytringer og vitser mer
-flytende, og deling av ekstremt innhold kan enkelt
-bortforklares med at ytringene er ment som
-humor.
-Særlig på umodererte plattformer produserer
-og konsumerer anonyme brukere store mengder
-ekstremistisk innhold og propaganda. I slike fora
-kan brukere i mange land forme fiendebilder i fellesskap, i det som kan kalles global medproduksjon av innhold. Vold og dehumanisering blir trivialisert og promotert gjennom subkulturell internettatferd som trolling og produksjon av humor
-og memer. Memer er «formbare», noe som betyr
-at de får en ekstremistisk mening når de blir plassert innenfor en bredere ekstremistisk kontekst.17 Det krever et visst nivå av digital og teknologisk kompetanse å produsere og forstå memer
-som fremmer vold og konspirasjonsfortellinger.
-Dette innebærer også at ekstremistisk innhold
-dermed ikke alltid vil identifiseres av nærstående,
-moderatorer eller myndigheter.
-Trolling oppsto som et fenomen på ulike nettfora som 4chan, 8chan og Endchan. Innholdet ble
-mer og mer ekstremt, og grensene mellom humor
-og reelle høyreekstreme ytringer og oppfordringer til vold ble stadig mer uklare. Hvit-makt-terrorister som var inspirert av Christchurch-angrepet
-i 2019, hadde omgang med hverandre på chanfora. Det var også her terroristene forhåndsannonserte angrepene sine med manifester som
-inneholdt memer som sirkulerer på diverse plattformer som 4chan, 8chan, Discord eller Twitch.
-Hvit-makt-memer blander rasistiske og nazistiske
-symboler med referanser fra populærkultur, spillkultur og incel-kultur.18 Ekstremistiske ideologier, fiendebilder og konspirasjonsfortellinger blir
-promotert gjennom humor og memer, og terror
-og terrorister glorifiseres.19
-
-13.2 Ekstrem islamisme på internett
-Sosiale medier er en sentral arena for rekruttering
-og spredning av ekstrem islamistisk propaganda.20 I 2013 var sosiale medier som Facebook
-16
-
-Thorleifsson og Dücker 2021
-Miller-Idriss 2003
-18 Thorleifsson og Dücker 2021
-19
-Thorleifsson og Dücker 2021. Det vises for øvrig til omtale
-av høyreekstremisme i kapittel 6
-20 Se for eksempel Nesser, Stenersen og Oftedal 2016
-17
-
-[Side 150]
-
-148
-
-Kapittel 13
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-og YouTube avgjørende for at gruppen Profetens
-Ummah nådde ut med sitt budskap i Norge. De
-var i utgangspunktet en Facebook-gruppe, og det
-var der de startet med å mobilisere til demonstrasjoner organisert av gruppen. En av metodene
-Profetens Ummah brukte for å rekruttere unge
-muslimer til innsats og kamp, var å dele voldsomme bilder av døde eller sårede muslimer i
-krigssoner som Syria på Facebook.21
-Terrororganisasjonen IS har vært kjent for å
-produsere propaganda som glorifiserer livet i Den
-islamske stat, og formidle informasjon om hvordan man kan bli fremmedkriger. De har også delt
-videoer om hvordan barn blir trent opp til å bli ISsoldater,22 og oppskrifter på eksplosiver. Videoer
-av vold og henrettelser utført av IS har også blitt
-spredt på nett og gått viralt. IS har også brukt nettet til å oppfordre muslimer til soloterrorisme i
-landene de holder til i.23
-Fra forskningen er det også kjent at sosiale
-medier spilte en viktig rolle i IS’ operasjonelle
-strategi i Syria og Irak.24 Spesielt daværende Twitter var viktig for vestlige fremmedkrigere i disse
-områdene. Egenprodusert materiale ble spredt
-via Twitter til andre sosiale medier. Innholdet ble
-delt av fremmedkrigere på bakken og av deres
-allierte i Europa, inkludert den britiske organisasjonen Al Muhajiroun og den London-baserte predikanten Anjem Choudary, som også var i kontakt
-med medlemmene i Profetens Ummah.
-Uken før 25. juni-angrepet i 2022 på London
-pub og Per på hjørnet i Oslo sentrum hadde den
-terrorsiktede Arfan Bhatti lagt ut et budskap på
-sin åpne Facebook-profil om at homofile burde
-drepes. Innlegget inneholdt et brennende prideflagg.25 Også al-Qaida har via sin mediekanal AsSahab oppfordret til angrep mot Sverige og Danmark etter gjentatte koranbrenninger i 2023.26
-
-13.3 Gaming og ekstremisme
-Akkurat som sosiale medier har gaming (dataspill) blitt en integrert del av hverdagen for barn
-og voksne verden over. Spesielt unge «digitalt innfødte» har på en helt annen måte enn tidligere
-generasjoner vokst opp med tilgang til og forstå21
-
-Sunde 2013
-Eriksen 2016
-23 NTB 2017
-24 Klausen 2015
-25 25. juni-utvalget 2023
-26 Brekke og Sfrintzeris 2023. Det vises for øvrig til omtale av
-ekstrem islamisme i kapittel 7
-22
-
-else for ny teknologi.27 Spillsamfunn skaper fellesskap, lek, mening og mestring. Mange unge har
-trygge og gode hverdager i spillsamfunn som er
-verdifulle fellesskap for mange.
-Flere aktører har understreket at gaming bør
-anerkjennes på lik linje med fotball og andre tradisjonelle fritidsaktiviteter. Gaming har også blitt
-mindre stigmatisert og mer anerkjent enn tidligere.28 Utdaterte antakelser om en sammenheng
-mellom vold i spill og aksept for vold er tilbakevist. I regjeringens dataspillstrategi beskrives
-dataspill som en kulturform som blant annet kan
-stimulere til kreativitet, læring og tekniske ferdigheter. Strategien omtaler også viktigheten av
-trygge digitale møteplasser og at dette bør finnes i
-et samspill med fysiske møteplasser.29 Det finnes
-flere spillhus rundt omkring i landet hvor unge
-kan spille sammen med trygge voksenpersoner til
-stede.
-Samtidig kan spillkultur inkludere ekstremistiske uttrykksformer. Kvinnehat er for eksempel
-utbredt innen flere spillmiljøer.30 Fellesskap rundt
-slike holdninger skaper engasjement hos brukerne. Mens noen brukere forblir passive vitner
-til hatefullt innhold i spillmiljøer eller fora, er
-andre aktive deltakere og produserer selv innhold. Fellesskapsfølelsen som skapes i digitale
-subkulturer, er en sentral årsak til at deltakerne
-forblir aktive. For noen brukere er et slikt digitalt
-fellesskap eller brorskap en vei ut av ensomhet og
-isolasjon. Anonymitet kan bidra til at frustrasjon,
-krenkelser eller sinne som er rettet mot storsamfunnet, får utløp og støttes av meningsfeller. De
-digitale subkulturene og spillmiljøene tilbyr sosiale forbindelser og fyller et menneskelig behov:
-ønsket om å høre til. Man produserer kollektive
-identiteter som overskrider landegrenser. Dette
-gjelder særlig høyreekstreme nettsamfunn.31
-Ekstremister og radikalisatorer benytter seg av
-den omfattende rekkevidden til spillplattformer og
-spillkultur til rekruttering, spredning av propaganda,
-mobilisering og vold. Discord, en av de mest populære kommunikasjonsplattformene for spillmiljøer,
-fungerer som en møteplass for sosialisering og bygging av digitale fellesskap. Den blir også utnyttet av
-ekstremister. Det høyreekstreme partiet Alliansens
-skjulte server brukes til å spre antisemittisk og rasistisk innhold og rekruttere unge følgere.32
-27
-
-Prensky 2009
-Kommisjonens møter med ulike aktører, se vedlegg 1
-29 Kultur- og likestillingsdepartementet 2023e
-30 Parkin 2014
-31 Odag, Leiser og Boehnke 2019
-32
-Klungtveit og Skybakmoen 2021a
-28
-
-[Side 151]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Twitch, en strømmeplattform for spillinnhold,
-har også blitt brukt til å spre innhold som fremmer ideer om hvit makt. Steam, en nettplattform
-hvor man kan kjøpe, spille og lage egne spill, har
-vært tilholdssted for en rekke servere laget av
-høyreekstreme og nynazistiske grupper.33
-Bruk av spill og spillkultur i rekruttering og
-propaganda gjelder ikke kun høyreekstreme miljøer. «Spillifisering» av ekstrem islamisme er pekt
-på som en voksende trend, og det er tatt til orde for
-mer forskning for å finne ut hvor utbredt problemet
-er, og hvor effektivt gaming er som et verktøy for
-voldelige ekstremistiske organisasjoner.34
-Spill kan imidlertid også brukes i arbeidet
-med å forhindre og forebygge radikalisering og
-ekstremisme. Det EU-finansierte pilotprosjektet
-GameD forsøker å bruke spill til positive intervensjoner for å styrke og fremme demokratiske holdninger og toleranse.35 Spillkjendiser og influensere kan også bruke sin påvirkningskraft i forebyggende arbeid i spillmiljøer. Det er viktig at spillere er med på å utvikle forebyggende tiltak med
-spillsamfunn som målgruppe. Når gamerne myndiggjøres, kan de enklere gripe inn og ta til motmæle mot ekstremisme, rasisme, hets og trakassering.
-
-13.4 Digitale miljøers betydning for
-«enslige aktører» og soloterrorister
-De senere årene har en rekke terrorangrep blitt
-gjennomført av såkalte enslige aktører. Selv om
-gjerningspersonene har utført handlingen alene,
-har de hatt kontakt med meningsfeller i virtuelle
-samfunn hvor propaganda og oppfordring til terror deles på tvers av land og kontinenter.
-Brenton Tarrant, terroristen bak moskéangrepene i Christchurch på New Zealand i 2019, var
-inspirert av Anders Behring Breivik. I likhet med
-Breivik så Tarrant ut til å ha blitt radikalisert på
-nettet uten samhandling med organiserte høyreekstreme grupper. Tarrants angrep inspirerte i
-sin tur til en rekke terrorangrep som ble begått av
-enslige aktører i USA og Europa. Philip Manshaus, som selv har sagt at han ble radikalisert på
-nettet før drapet på stesøsteren og angrepet på AlNoor-moskeen i Bærum i 2019, var også inspirert
-av Tarrant.36 Da Manshaus forhåndsannonserte
-angrepet, varslet han dette med en referanse til
-33
-
-Davey 2021
-Mahmoud 2022
-35 SCENOR u.å.
-36
-Politiets sikkerhetstjeneste 2020b
-34
-
-149
-
-Kapittel 13
-
-incel-ideologien gjennom et meme.37 I memet ble
-tre andre terrorister hyllet og fremstilt som chads,
-en incel-referanse som beskriver en «alfahann»,
-altså en med dominant maskulinitet som befinner
-seg øverst i hierarkiet på kjønnsmarkedet. I digitale subkulturer dyrker man både en offerrolle og
-heroisk maskulinitet ved å glorifisere hvit-maktterrorister.38
-Når det gjelder ekstreme islamister, klarte
-europeisk kontraterror etter hvert å demme opp
-for de største og dødeligste IS-angrepene i Europa
-etter Bataclan-angrepet i Frankrike i 2015. Etter
-dette gikk ekstremistene over til å bruke soloterrorisme i større grad. En rekke av disse soloterroristene ble rekruttert, radikalisert og instruert
-gjennom kommunikasjonsapper som Telegram.39
-Terroristen som gjennomførte det dødelige
-angrepet i Drottninggatan i Stockholm i 2018, fikk
-instrukser på øret mens han gjennomførte terroren. Instruksene kom fra en person i utlandet via
-kommunikasjonsappen Zello. Bakmannen, eller
-entreprenøren, la også føringer på hva slags mål
-han skulle angripe.40 App-styrte jihadister ble
-såpass vanlig at bakmennene fikk navnet «virtuelle entreprenører» i forskningen.41
-
-13.5 Direktestrømming av ekstremisme
-og terror
-Ekstremister bruker sosiale medier på flere måter
-i forbindelse med terrorangrep. Direktestrømming av terrorangrep og muligheten til å se
-angrep gir en langvarig propagandaeffekt.
-En rekke høyreekstreme terrorister, fra New
-Zealand til Bærum, har fulgt en slags oppskrift
-bestående av forhåndsannonsering av angrepet,
-sirkulering av manifest og direktestrømming av
-terrorangrepene. Både Christchurch-terroristen
-og Halle-terroristen i Tyskland direktestrømmet
-angrepene for å dele dem på høyreekstreme nettfora og la meningsfeller «delta» i voldsutøvelsen
-gjennom tilbakemelding, spredning og rangering
-av angrepet. Christchurch-terroristen kunngjorde angrepene på forhånd i nettfora og direktesendte massedrapene i 17 minutter på Facebook
-Live.42 I de første 24 timene etter terrorangrepet
-37
-
-Prøitz, Langeland, Steinnes og Mainsah 2022
-Thorleifsson 2022a; Young 2019
-39 Nesser, Stenersen og Oftedal 2016
-40 Se Boks 21.1 Typologi –radikalisertes ulike roller og funksjoner
-41 Hughes og Meleagrou-Hitchens 2017
-42
-Macklin 2019
-38
-
-[Side 152]
-
-150
-
-Kapittel 13
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Tabell 13.1 Høyreekstreme terroristers bruk av digitale plattformer
-Sted
-
-Dato
-
-Terrorist og alder
-
-Manifest postet på Direktestrømming
-
-Christchurch i New
-Zealand
-
-15. mars 2019
-
-Brenton Tarrant (28)
-
-8chan/pol/
-
-Facebook
-
-Poway i USA
-
-27. april 2019
-
-John Earnest (19)
-
-8chan, /pol/
-
-Facebook (forsøk)
-
-El Paso i USA
-
-3. august 2019
-
-Patrick Crusius (21)
-
-8chan, /pol/
-
-Bærum i Norge
-
-10. august 2019
-
-Philip Manshaus (21) Endchan
-
-Facebook (forsøk)
-
-Halle i Tyskland
-
-9. oktober 2019
-
-Stephan Balliet (27)
-
-Twitch
-
-Meguca
-
-Kilde: Thorleifsson & Dücker, 2021, s. 7
-
-på New Zealand fjernet Facebook 1,5 millioner
-opplastede videoer som skulle vise angrepet.43
-Videoer og bilder fra terrorangrepet i
-Christchurch i 2019 er fremdeles lett å finne på
-TikTok.44
-Også Philip Manshaus la ut meldinger i lukkede fora på nettet kort tid før angrepet på moskeen i 2019, og han gjorde mislykkede forsøk på å
-direktesende angrepet på YouTube.45
-Et annet eksempel på direktestrømming av
-angrep fra ekstreme islamister er terroristen som i
-2016 gjennomførte et jihadistisk terrorangrep og
-dobbeltdrap i Magnanville i Frankrike. Han
-erklærte lojalitet til IS og direktesendte en video av
-drapene på Facebook Live.46 Da Hamas gjennomførte terrorangrepet mot Israel 7. oktober 2023,
-brukte de en ny terrortaktikk. De brøt seg inn i private hjem og tok kontroll over de sivile ofrenes
-smarttelefoner. Flere av overgrepene og drapene
-på sivile ble direktestrømmet på ofrenes egne kontoer i sosiale medier.47
-Også direktesendt dekning av rettssaker med
-terrordømte kan bli brukt som propagandamateriale på nettet. Under Breiviks prøveløslatelsesrettssak i 2022 tillot dommeren direktesending av
-rettsforhandlingene, med en innlagt forsinkelse.
-Noen medier, som Aftenposten og NRK, valgte å
-ikke sende direkte fra rettssalen. Flere medier
-videreformidlet imidlertid store deler av direktesendingen, og Breivik benyttet seg av dette til å
-formidle sitt høyreekstreme budskap til meningsfeller og følgere, med nazihilsen, appell og
-engelskspråklig budskap på papir, både på kofferten og på dressjakken. Noen medier sladdet bilder
-
-og videoer der budskapet var synlig. Hele Breiviks tale på én time ble sendt ut med kun to kutt i
-lyd. De to kuttene var begge på under et minutt.48
-I ettertid har det vist seg at direktesendingen ble
-spredt til nettfora i løpet av få minutter.
-Videoer og bilder av terrordømte blir brukt til
-å glorifisere terror og inspirere andre brukere i
-høyreekstreme nettsamfunn. Det er derfor viktig
-at redaksjoner har oppdatert kunnskap om hvordan ekstremister utnytter mediene, og at de viser
-etisk varsomhet i dekning av terror.
-
-Boks 13.1 Motfortellinger
-Noen av strategiene for å forebygge radikalisering og forhindre ekstremisme på nett har
-handlet om å tilby motfortellinger. Motfortellinger er budskap som gir et positivt alternativ
-til ekstremistisk propaganda, eller har som
-mål å bryte ned eller delegitimere ekstreme
-narrativer.1 Forskning tyder på at motfortellinger kan være effektive for å motvirke hatytringer, men mindre effektive for å motvirke voldelig ekstremisme. Studier har vist at de som
-deltar på høyreekstreme nettsteder, har mindre sannsynlighet enn ekstreme islamister til
-å bli engasjert og la seg påvirke av motfortellinger. Innenfor miljøer på nett som baserer
-seg på bilder og følelser, er dessuten motforestillinger som er forankret i en tekstlig tilnærming, et utilstrekkelig verktøy.2
-1
-2
-
-43
-
-Waterson 2019
-O’Connor 2021
-45
-Hammer 2022
-46 Hume, Isaac og Cruickshank 2016
-47 Minsberg 2023
-
-Silverman, Stewart, Amanullah og Birdwell 2016
-Thorleifsson og Ducker 2021
-
-44
-
-48
-
-Silvola 2022
-
-[Side 153]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-151
-
-Kapittel 14
-
-Kapittel 14
-
-Ekstremisme og kunstig intelligens
-Teknologiutviklingen gjør at enorme mengder
-digital informasjon kan samles inn, oppbevares,
-forvaltes og nyttiggjøres ved hjelp av maskiner.
-Kunstig intelligens kan analysere data og benyttes
-til beslutningsstøtte eller til maskingenererte
-beslutninger gjennom at maskinene programmeres til å utføre oppgaver som normalt krever
-menneskelig intelligens og skjønnsutøvelse. Ved
-hjelp av smart programvare kan maskiner gjen-
-
-kjenne mønstre, drive med erfaringsbasert
-læring, trekke logiske slutninger, foreta prediksjoner eller treffe beslutninger om handlinger og
-deretter utføre dem.1
-Kunstig intelligens kan produsere bilder, lyd
-og tekst som vil gjøre det lettere å forfalske og
-1
-
-Special Rapporteur on the promotion and protection of the
-right to freedom of opinion and expression 2022
-
-Boks 14.1 Kunstig intelligens
-Kunstig intelligens (KI) betyr datateknologi,
-• Datasyn dreier seg om å utvikle algoritmer
-både maskinvare og programvare, som kan imisom gjør det mulig for systemer å forstå og
-tere intelligent menneskelig oppførsel. KI Algotolke visuell informasjon, som bilder og videritmer beskriver fremgangsmåten for å løse en
-oer. Datasyn brukes i ansiktsgjenkjenning,
-oppgave, og kunstig intelligens gjør at programobjektgjenkjenning, medisinsk bildeanalyse
-vare kan lære fra akkumulert data gjennom å
-og mer.5
-• Robotikk vil si å kombinere maskinlæring og
-benytte intelligente algoritmer. Nedenfor beskrimekanikk for å utvikle roboter og autonome
-ves noen sentrale former for kunstig intelligens.
-systemer som kan utføre oppgaver i den
-• Maskinlæring er en av de mest fremtredende
-fysiske verden. Robotikk har vokst betydelig
-delene av KI. Maskinlæring innebærer å
-og finner anvendelse blant annet i fabrikker,
-utvikle algoritmer som gjør det mulig for
-helsevesen og logistikk.6
-maskiner å lære fra data og forbedre ytelsen
-1
-• Deepfakes er syntetisk manipulering av bilde
-over tid.
-og video som skaper bilder og lyd som ikke
-• Dyplæring er en type maskinlæring som går
-representerer virkeligheten.7
-ut på å bruke nettverk med mange lag for å
-• Generativ kunstig intelligens er kunstig intellihåndtere komplekse datarepresentasjoner.
-gens som kan generere nytt innhold, fremfor
-Dyplæring har hatt en enorm vekst fordi
-å kun analysere eller handle basert på eksisstore mengder data står til rådighet, og fordi
-terende data. Med skapende KI beveger en
-dataytelsen har økt.2
-• Forsterkningslæring er en gren av maskinlæseg over i en æra med maskinskapt virkeligringen og handler om å trene systemer i å ta
-het.8
-beslutninger ved hjelp av et system med
-1 Kommunal- og moderniseringsdepartementet 2020
-belønning og straff. Det er relevant for auto2
-Tidemann 2023
-nome systemer, spill og optimalisering.3
-3
-Konow 2022
-• Naturlig språkprosessering handler om å 4 Strålberg og Lindahl 2023
-utvikle datamaskiner som kan forstå, tolke og
-5
-Kommunal- og moderniseringsdepartementet 2020
-6 Evelon 2023
-generere menneskelig språk. Det inkluderer
-7 Bergesen 2022
-oppgaver som maskinoversettelse, tekstana4
-8 Strålberg og Lindahl 2023
-lyse, talegjenkjenning og chatbots.
-
-[Side 154]
-
-152
-
-Kapittel 14
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 14.2 Deepfakes
-Flere rangerer deepfakes som den mest alvorlige kriminalitetstrusselen fra KI.1 Mange er
-svært bekymret for at fremveksten av deepfakes skal vaske ut skillet mellom ekte og falske nyheter, kilder og medier. Videoer, bilder
-og lyd kan produseres kunstig, og teknologien
-er ennå i en startfase, men har allerede blitt
-brukt i en rekke tilfeller. Når man ikke vet om
-det man ser, er sant, vil også det som faktisk er
-virkelige opptak, lett kunne benektes. I
-forskningslitteraturen kalles dette løgnerens
-fordel, The Liar’s Dividend.2 Det innebærer at
-når usannheter brer seg, vil det særlig tjene
-løgnerne, som da «glir inn i mengden». Selve
-eksistensen av deepfake-teknologi gjør at det
-man ser og hører digitalt, ikke lenger kan tas
-for god fisk. Den som tas på fersken på video
-eller kamera, kan nekte for at opptaket eller
-bildet er ekte.
-1
-2
-
-Caldwell, Andrews, Tanay og Griffin 2020
-Chesney og Citron 2018
-
-manipulere informasjon for å nå ut til et bredere
-publikum. Når generativ KI blir allemannseie, kan
-både enkeltpersoner og tunge kommersielle eller
-politiske krefter utnytte teknologien. Radikaliserte enkeltindivider, ikke-statlige grupper med
-en ekstrem ideologi og fremmede statlige aktører
-får kraftfulle redskap som kan brukes til å øke
-fabrikkering og spredning av manipulerende eller
-falskt innhold. Risikoen for manipulert informasjon har blitt forsterket av bølgen av generativ KI,
-noe som også fører med seg spørsmål om sannhetsgehalten til all informasjon som leveres digitalt. Utviklingen vil påvirke hele det digitale
-medieøkosystemet, og det vil trolig være behov
-for nye metoder for å avgjøre om informasjonen
-på internett er pålitelig.2
-
-14.1 Ekstremisters bruk av kunstig
-intelligens
-
-Kunstig intelligens kan benyttes av ekstreme krefter og personer med en radikaliseringsagenda,
-som får mer kraftfulle verktøy for å spre sitt budskap. Ekstreme grupper og fremmede stater kan
-utnytte kunstig intelligens til manipulering,
-2
-
-Freedom House 2023
-
-påvirkning og desinformasjon. Ideologisk motiverte enkeltpersoner og grupper bruker spredning av desinformasjon og falske narrativer som
-verktøy til å rekruttere nye medlemmer eller radikalisere andre.3
-Både høyreekstreme og ekstreme islamister
-eksperimenterer allerede med kunstig intelligens
-for å produsere og spre propaganda.4 Eksempelvis har en nynazistisk meldingskanal på Telegram
-spredt KI-genererte bilder som er skapt ved at
-rasistisk og antisemittisk innhold er limt inn i en
-app som er tilgjengelig i Google Play-butikken.
-Andre høyreekstreme aktører har utviklet en
-«guide til memetisk krigføring», som gir råd om
-hvordan man kan bruke KI-genererte bildeverktøy til å produsere ekstremistiske memer. IS har
-publisert teknisk støtteveiledning i hvordan man
-kan bruke KI-verktøy til å produsere propaganda.
-En annen IS-bruker har transkribert propaganda
-ved hjelp automatisk talegjenkjenning (ASR).
-Ekstremistenes bruk av KI er i en «eksperimentell
-fase», og høsten 2023 var det lav risiko for utbredt
-bruk.5 Like fullt utgjør ekstremistenes eksperimentelle bruk av KI en ny utfordring for sikkerhet
-og forebygging i tiden fremover.
-
-14.2 Myndigheters bruk av kunstig
-intelligens
-
-Kunstig intelligens gir styresmaktene nye redskaper i kampen mot ekstremisme. Etter hvert som
-bekymringene for nasjonal sikkerhet har vokst i
-Norge og Europa for øvrig, har styresmaktene fått
-stadig større ambisjoner om å nyttiggjøre seg ny
-teknologi. Kunstig intelligens gir store muligheter
-til å identifisere og overvåke ekstremister. Det
-kan dreie seg om å identifisere mulige sikkerhetstrusler, inkludert terrorisme eller kontoer som
-genererer ekstremistisk innhold på nettbaserte
-plattformer. Kunstig intelligens og maskinlæring
-kan også gjøre det enklere for myndighetene å
-forutsi (predikere) fremtidige handlingsmønstre
-og terrorhandlinger eller fange opp radikaliseringstendenser. For eksempel bruker det engelske nasjonale sikkerhetsprogrammet Prevent
-kunstig intelligens til å forsøke å forutsi hvem
-som kan utgjøre en trussel fremover i tid.6 Forutsigelsene er basert på datainnsamling og profile3
-4
-5
-6
-
-Special Rapporteur on the promotion and protection of the
-right to freedom of opinion and expression 2022
-Tech Against Terrorism 2023
-Tech Against Terrorism 2023
-Se nærmere om Prevent i kapittel 43 Storbritannia
-
-[Side 155]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-ring utført av kunstig intelligens. Slike verktøy vil
-bli svært viktige i kampen mot radikalisering og
-ekstremisme fremover. Kunstig intelligens og
-andre teknologiske nyvinninger eksponerer samtidig samfunnet for virkemidler og effekter som
-gjør at digital overvåkning skjer i større omfang,
-raskere og mer effektivt. Iveren etter å beskytte
-demokratiet mot ekstreme krefter kan føre til at
-demokratiet svinner hen gjennom for mye overvåkning, kontroll og (forhånds)sensur.7
-En viktig bekymring internasjonalt handler
-om at ny teknologi og ekstremisme vil gjøre at
-statlige myndigheter tar i bruk stadig mer potente
-verktøy til omfattende overvåkning. Selv om økt
-politisk kontroll og undertrykkelse også er en
-fare i Norge, er utfordringene gjerne de utilsiktede effektene av at styresmaktene tar i bruk ny
-teknologi.
-Dersom verktøy basert på kunstig intelligens
-brukes til å overvåke miljøer som potensielt kan
-representere radikaliseringsfare, beveger man
-seg nær politisk overvåkning. Bruker man kunstig intelligens til profilering for å forhindre terror,
-kommer man raskt på kant med uskyldspresumpsjonen og andre menneskerettigheter som skal
-ivareta individets rettigheter i møte med en høyteknologisk stat. Kunstig intelligens gir for
-eksempel myndighetene muligheter til å drive
-med mer presise og subtile former for digital sensur. Overvåkningssystemer kan raskt tråle sosiale
-medier etter tegn til avvikende meninger, og store
-bulkinnsamlinger kan kobles til ansiktsgjenkjen7
-
-Se for eksempel Special Rapporteur on the promotion and
-protection of the right to freedom of opinion and expression 2022; The White House 2023
-
-153
-
-Kapittel 14
-
-ningsteknologi for å identifisere og overvåke
-meningsmotstandere.8
-En annen utfordring med KI-systemer er at de
-ikke blir bedre enn informasjonen de mates med.
-Dersom input-informasjonen er selektiv eller algoritmene er satt opp på måter som diskriminerer,
-vil også algoritmene diskriminere. Kunstig intelligens «arver» menneskenes fordommer og kan
-forsterke dem. I 2020 måtte britiske myndigheter
-trekke tilbake en kunstig intelligens-algoritme
-som var benyttet til visumbehandlinger, fordi den
-ble anklaget for å være rasistisk.9 I tillegg kan
-algoritmer identifisere nye mønstre i datagrunnlaget som gir grobunn for databasert diskriminering. I 2023 publiserte Likestillings- og diskrimineringsombudet en ny veileder for å avdekke og
-forebygge diskriminering i utvikling og bruk av
-kunstig intelligens.10
-Teknologiens konsekvenser for demokratiet
-og menneskerettighetene er i stor grad upløyd
-mark for alle stater i verden, og det er et område
-hvor solid kunnskap er vanskelig, fordi effektene
-inntrer i samtiden og fremtiden. Sammenlignet
-med andre land ligger Norge svært langt fremme
-med digitalisering av offentlig forvaltning, og
-Norge er slik sett et slags testlaboratorium
-sammen med øvrige nordiske naboer. Små, åpne,
-demokratiske og gjennomdigitaliserte samfunn i
-Norden er dobbelt eksponerte. Norge er både sårbar for radikaliseringskrefter som tar i bruk ny
-teknologi, og for farene ved egen bruk av teknologien for å møte radikaliserings- og terrorfaren.
-8
-
-Freedom House 2023
-McDonald 2020
-10 Likestillings- og diskrimineringsombudet 2023
-9
-
-[Side 156]
-
-154
-
-Kapittel 15
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 15
-
-Menneskerettighetene og ny teknologi
-«Ny teknologi» omfatter både teknologiske nyvinninger og velkjent teknologi som brukes på nye
-måter. Teknologiutviklingen fører til nye sikkerhetsutfordringer og utløser mer kraftfulle statlige
-inngrep som igjen kan undergrave menneskerettighetene.
-
-15.1 Digital overvåkning
-Digital overvåkning setter motsetningene mellom sikkerhet og demokrati på spissen. Begrunnelsen for overvåkning er borgernes sikkerhet og
-i siste instans retten til liv. Overvåkning gjør imidlertid inngrep i grunnpilarene i demokratiet: borgernes rett til å ha, gjøre seg opp og utveksle
-meninger og ideer fritt og uten statlig kontroll
-eller inngripen, altså retten til privatliv og personvern, tankefrihet, religionsfrihet og ytringsfrihet.
-Digital overvåkning fører derfor med seg en
-rekke menneskerettslige problemstillinger.
-Digitale løsninger må anvendes på en ansvarlig måte. Statlige myndigheter i Norge har for
-eksempel tilgang på store datamengder om borgerne. Dersom dataene kobles sammen av kraftige teknologiske analyseverktøy, gir det myndighetene mulighet til å skaffe svært inngående
-informasjon om hver enkelt. Kunstig intelligens
-kan sammenstille og analysere data om borgerne
-på helt nye måter, og dermed identifisere trusler
-fra utvalgte miljøer eller enkeltpersoner. Selv om
-det er teknologisk mulig for myndighetene å
-benytte kunstig intelligens i utstrakt grad i arbeidet med å forebygge radikalisering og ekstremisme, er det menneskerettighetene, ikke teknologien, som setter grensene her. Staten er forpliktet til å unngå eller slutte å bruke teknologiske
-løsninger som bryter med menneskerettighetene.
-Når det innføres ny teknologi, eller når teknologi brukes på nye måter, må staten sørge for å
-kartlegge de menneskerettslige konsekvensene av
-teknologibruken. En dansk rapport fra 2021 kartla
-rettighetsutfordringer ved bruk av profileringsteknologi i offentlig forvaltning, og konkluderte med
-
-at det burde innføres en rekke tiltak som sikrer at
-offentlige myndigheter benytter kunstig intelligens
-og profilering i samsvar med menneskerettighetene.1 Stater har ansvar for å forvalte sikkerhetsproblemer på nettet og sørge for at internett er et
-sikkert og tillitvekkende miljø hvor individer kan
-operere fritt, realisere sitt potensial og nyte godt av
-sine rettigheter.2 Det innebærer at staten har
-ansvaret for å hindre praksis som bryter med internettbrukernes rettigheter. Staten skal innføre sanksjoner mot overtredere3 og sørge for at ofre har tilgang til klageinstanser.4 Samtidig har staten negative menneskerettighetsforpliktelser, noe som innebærer at staten må avstå fra overvåkningsaktiviteter som bryter med menneskerettighetene. Staten
-må sørge for at overvåkning følges av effektive
-kontrollmekanismer.5 Dette må omfatte innsamling
-og oppfanging (interception) av data. Det gjelder
-også for ansamling av metadata og salg av persondata.6
-EMD har gjort det klart at stater som ligger
-langt fremme i utviklingen og bruken av ny teknologi, har et særlig ansvar for å finne en god
-balanse mellom teknologien og menneskerettighetene, særlig retten til privatliv.7 Overvåkning,
-innsamling, oppfanging av data, bulkdata og videresalg av persondata vil bare være i tråd med menneskerettighetene dersom inngrepet har hjemmel
-i lov, ikke er vilkårlig og tilfredsstiller kravene til
-nødvendighet og proporsjonalitet.
-Masseinnsamling og lagring av elektroniske
-data anses for å være et inngrep i retten til privatliv selv om innsamlingen ikke er knyttet til enkeltindivider.8 Slik masseinnsamling er kun tillatt
-1
-2
-3
-4
-5
-6
-7
-8
-
-Dansk institut for menneskerettigheder 2021
-FNs menneskerettighetsråd 2016
-FNs generalforsamling 2016
-FNs generalforsamling 2014
-Se for eksempel FNs generalforsamling 2014
-FNs generalforsamling 2016
-Hellestveit og Wilhelmsen 2022
-Den europeiske menneskerettighetsdomstolen 2010 Uzun
-mot Tyskland
-
-[Side 157]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-dersom overvåkningen er i tråd med de begrensningene i retten til privatliv som menneskerettighetene tillater.
-I to dommer fra 2021, Big Brother Watch og
-andre mot Storbritannia og Centrum for rattvisa
-mot Sverige, tok storkammeret i EMD stilling til
-lovligheten av hemmelig overvåkning av kommunikasjon i transitt, der både innholdet i kommunikasjonen og metadata samles inn. EMD la i disse
-avgjørelsene til grunn at masseinnsamling er en
-gradvis prosess. Omfanget av inngrepet i retten til
-privatliv tiltar etterhvert som man nærmer seg
-identifisering av enkeltindivid.9 Behovet for rettssikkerhetsmekanismer vil være størst mot slutten
-av prosessen, når personer kan identifiseres og
-innholdet i kommunikasjonen blir nærmere
-undersøkt.10 Også når innhentingen og lagringen
-ikke er rettet mot konkrete individer, vil inngrepet
-rammes av EMK artikkel 8 om retten til privatliv,
-og det må foreligge rettssikkerhetsmekanismer
-fra informasjonen samles inn til den slettes.
-PSTs og Etterretningstjenestens nye hjemler
-til informasjonsinnhenting omtales i del V.
-
-155
-
-Kapittel 15
-
-En rekke terrorister har de siste årene benyttet
-seg av plattformer med svake eller ingen regler
-for innholdsmoderering i radikaliseringsforløpet.
-På slike plattformer har de dannet nettsamfunn,
-spredt propaganda og planlagt terror. For eksempel har 8chan hatt som forretningsmodell å ikke
-drive med innholdsmoderering.11 Mange ekstremister opererer anonymt og bruker ulike typer
-krypterte nettplattformer og meldingsapper som
-Telegram og Signal for å unngå å bli sporet og
-oppdaget. Ekstremistisk og terroroppfordrende
-innhold blir ofte delt på tjenester med kryptering,
-noe som gjør det utfordrende å forebygge og forhindre terror.
-Ekstremister kan også «overliste» og manipulere algoritmiske rangeringsmetoder ved å lage
-titler og beskrivelser som sikrer at innleggene
-deres vises nær toppen av søkeresultatene for
-ikke-kontroversielle temaer. Høyreekstremister
-har eksempelvis merket Tiktok-videoer med
-#konservativ eller #trump for at de skal vises
-sammen med mer konvensjonelle innlegg.
-
-Ekstreme islamister bruker lignende strategier
-for å rekruttere, inkludert bruken av #katt for å nå
-ut med videoer til brukere som ellers ikke ville
-oppsøkt slikt innhold.12 Andre ekstremister kan ta
-over populære emneknagger. Ekstremister bruker også en rekke unnvikelsesteknikker som
-kommunisering i private grupper, opprettelse av
-flere kontoer og feilstaving av emneknagger for å
-unngå algoritmisk gjenkjenning.
-I møtet med ulovlig eller skadelig innhold kan
-stater ty til verktøy som å blokkere utvalgte IPadresser for enkelte individer, ta ned nettsider,
-benytte filterteknologi for å nekte tilgang til sider
-med bestemt innhold, blokkere e-poster og foreta
-andre typer inngrep i ytringsfriheten. Slike virkemidler kan imidlertid lett misbrukes. Inngrep av
-denne typen vil være i strid med ytringsfriheten
-etter EMK dersom de ikke har hjemmel i lov og
-ikke er nødvendige og proporsjonale.13
-Enkelte typer ytringer har et særlig sterkt
-menneskerettighetsvern. Det gjelder ytringer
-som angår myndighetenes maktbruk, politikk og
-demokratiske valg, samt rapportering av menneskerettigheter, myndighetsaktiviteter og korrupsjon. Inngrep fra myndighetene vil raskere anses
-for å bryte med EMK og menneskerettighetene
-når slike ytringer blir rammet. Direkte sensur fra
-myndighetene av politiske meningsytringer vil
-kunne komme på kant med retten til ytringsfrihet
-eller retten til fri meningsdannelse. Det gjelder
-selv om innholdet er sjokkerende, krenkende
-eller ekstremt. Statlig inngripen i ytringer krever
-hjemmel i lov. I tillegg kan økt statlig digital overvåkning medføre at borgerne modererer seg,
-bevisst eller ubevisst (nedkjølingseffekten). Digital kontroll, som lett blir oppfattet som sensur, kan
-også ha andre utilsiktede effekter. Når det er
-kunstig intelligens som står for sensuren, kan den
-kunstige intelligensen moderere bort innhold
-publisert av personer som tilhører den gruppen
-man ønsker å beskytte mot hatefulle ytringer, slik
-som minoriteter. En annen uheldig virkning er at
-dersom mer ytterliggående holdninger og strømninger fjernes, finnes det andre digitale plattformer som er mer utilgjengelige, for eksempel på
-«det mørke nettet». Dersom det brer seg en forestilling om at myndighetene driver med politisk
-sensur, kan denne typen nettverk få større oppslutning.
-
-9
-
-12
-
-15.2 Ekstremistisk innhold
-
-Den europeiske menneskerettighetsdomstolen 2021 Big
-Brother Watch og andre mot Storbritannia
-10 Den europeiske menneskerettighetsdomstolen 2021 Big
-Brother Watch og andre mot Storbritannia
-11
-NOU 2022: 9
-
-13
-
-Krutrök 2023
-Se for eksempel Den europeiske menneskerettighetsdomstolen 2015 Cengiz og andre mot Tyrkia og Den europeiske
-menneskerettighetsdomstolen 2012 Ahmet Yildirim mot
-Tyrkia
-
-[Side 158]
-
-156
-
-Kapittel 15
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Digitale plattformer eies, styres og kontrolleres gjerne av store utenlandske teknologiselskaper. Teknologiselskapene er samtidig kommersielle aktører som innretter sine plattformer for å
-maksimere inntjening. Innhold som er spisset
-eller radikalt, blir delt i større tempo og omfang
-enn innhold som er saklig. Spisset innhold er dermed også mer profitabelt. Denne mekanismen har
-gjort at man gjerne omtaler digitale plattformer
-som drivere for polarisering – forretningsmodellen og algoritmene legger til rette for, og belønner,
-stadig mer spisset, polariserende og radikalt innhold. Ytringsfrihetskommisjonen drøfter for
-eksempel om teknologiselskapenes egne algoritmer i seg selv kan forsterke polarisering.14
-Samtidig har teknologiselskapene i økende
-grad innført regler for moderering av innhold på
-sine plattformer. Store teknologiselskaper har
-utviklet brukerretningslinjer og protokoller for å
-motvirke at plattformene deres blir brukt til voldelig ekstremistisk aktivitet på nett. Likevel har
-modereringen og egenreguleringen på plattfor-
-
-mene blitt kraftig kritisert. Ytringsfrihetskommisjonen påpekte for eksempel at selskapene skal
-vurdere en enorm mengde innhold. Menneskelige moderatorer har også svært krevende
-arbeidsforhold siden de er vitne til store mengder
-poster som kan inneholde overgrep, drap og selvmord. Avgjørelser om hvilke poster plattformselskapene sletter, og hvilke brukere som utestenges fra plattformer, skaper stadig debatter.15
-Selskapene baserer seg ofte på hel- eller delautomatiserte systemer for å avdekke og blokkere
-uønsket innhold. Slike verktøy kan være med på å
-beskytte mot ulovlig og skadelig innhold. Dersom
-modereringspraksisen blir for utbredt, vil den derimot komme på kant med ytringsfriheten. En
-betydelig utfordring ligger i at retningslinjene
-som et stort teknologiselskap legger til grunn for
-sin plattform ikke nødvendigvis sammenfaller
-med det som er tillatt eller forbudt i Norge. Den
-mest effektive måten å få kontroll med de digitale
-plattformene, er derfor gjennom å regulere selskapene som står for plattformtjenestene.
-
-14
-
-15
-
-NOU 2022: 9
-
-NOU 2022: 9
-
-[Side 159]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-157
-
-Kapittel 16
-
-Kapittel 16
-
-Regulering av ekstremisme på nettet
-Store, multinasjonale selskaper står i spissen for å
-utvikle, forvalte og styre teknologiutviklingen.
-Amerikanske selskaper som Google, Amazon,
-Meta, Apple og Microsoft og kinesiske selskaper
-som Tiktok, Beidu, Alibaba, Tencent og Xiaomi
-leder an i en teknologiutvikling på nettet som verken Norge eller EU har direkte lovgivningsmyndighet over. Det er teknologiselskapene som setter rammene for den digitale aktiviteten. De står i
-stor grad selv for modereringen av sine flater. Teknologiselskapene representerer dermed en form
-for «regulerende myndighet» som på mange
-måter kontrollerer nettaktivitet både sterkere og
-mer direkte enn statlige myndigheter.
-EU har satt seg fore å begrense teknologiselskapenes makt. EUs digitale strategi Shaping
-Europe’s Digital Future fra 2020 inneholder lovgivningspakken Europe Fit for the Digitial Age som
-sikter på å regulere hvordan plattformer og digital
-infrastruktur utvikles, og pålegger samtidig statene både rett og plikt til å regulere teknologiske
-nyvinninger. Pakken består blant annet av EUs
-forordninger om data, dataforvaltning, digitale
-markeder, digitale tjenester og kunstig intelligens.
-Særlig de siste to har relevans for ekstremisme i
-det digitale rommet.
-EUs forordning om kunstig intelligens, Artificial Intelligence Act (AI Act(AIA)), som ble vedtatt
-av EU- kommisjonen høsten 2023, er verdens første omfattende regulering av teknologien kunstig
-intelligens. Hensikten med forordningen er å
-redusere risikoen som kunstig intelligens kan
-utgjøre for EU borgernes helse, sikkerhet og
-grunnleggende rettigheter. Forordningen deler
-teknologi basert på kunstig intelligens inn i fire
-ulike kategorier ut fra en risikovurdering: forbudt,
-farlig, kontrollert og ufarlig. Forordningen legger
-også opp til at kunstig generert innhold skal merkes, som ledd i kampen mot manipulering gjennom desinformasjon og feilinformasjon.1 AIA vil
-tre i kraft først i 2026, men allerede i 2024 får den
-effekt. EU-kommisjonen har blant annet oppfor1
-
-Det europeiske rådet 2023
-
-dret teknologiselskapene til å merke kunstig
-generert innhold allerede nå, som et ledd i oppfølgingen av de eksisterende retningslinjene for
-håndtering av desinformasjon på nettet.2
-Forordningen vil trolig anses som EØS-relevant og dermed innarbeides i norsk lov.3 AIA forutsetter nye reguleringsinstanser i hvert land, og
-etablerer et eget «kontor for kunstig intelligens»
-sentralt under EU-kommisjonen. Forordningen vil
-ikke gjelde for kunstig intelligens som benyttes til
-militære, forsvarsmessige eller nasjonale sikkerhetsformål. Den klare avgrensningen innebærer
-at forordningens strenge regime ikke vil gjelde
-bruk av kunstig intelligens hos de norske sikkerhetstjenestene. USA, Kina og andre sentrale teknologiske stater arbeider med å vedta lover som
-vil etablere lignende regimer de neste årene. I tillegg finnes det en rekke initiativer og samarbeidsfora hvor disse problemstillingene behandles, og
-som er omtalt i del VII Internasjonal forebyggende praksis.
-
-16.1 EUs forordning om digitale
-tjenester
-Forordning om digitale tjenester, (Digital Services
-Act(DSA)), retter seg særlig mot plattformselskapene. Den adresserer nye utfordringer som plattformøkonomien fører med seg, blant annet presiserer den plattforselskapenes plikter når det gjelder å fjerne ulovlig innhold.
-Formålet til DSA er blant annet å begrense
-spredning av falske nyheter, desinformasjon og
-ulovlig innhold på nettet. Forordningen stiller
-strenge krav til kontroll og innsyn, og pålegger
-plattformselskapene ansvar for innhold som spres
-på egne plattformer. De største selskapene må blant
-annet vurdere, håndtere og minimere risikoen ved
-tjenestene de tilbyr. Risikoen kan være forbundet
-med hvordan tjenestene er utformet, hvilke funksjo2
-3
-
-Goujard 2023
-Norges institusjon for menneskerettigheter 2023a
+# Ekstremismens konsekvenser for utsatte grupper
+
+Ekstremister retter sitt hat mot ulike grupper. Fiendebildet begrunnes ulikt i forskjellige ideologier, men det er påfallende hvordan noen grupper går igjen i fiendebildet til ulike ekstreme retninger. For eksempel retter både høyre-, og venstreekstremister og ekstreme islamister mye hat mot jøder. Grupper som inngår i fiendebildet til flere forskjellige ideologier, er særlig utsatt for hat og vold. Selv om fiendebildene kan overleve i århundrer, er de også elastiske i den forstand at nye grupper kan komme til. Hvem som utsettes for hat påvirkes av samfunnsutviklingen. For eksempel kan skeives synlighet i samfunnet generelt også føre til økt hat fra ekstreme grupper. I rapporten «Det kan skje igjen» fra Kunnskapsdepartementets arbeidsgruppe om antisemittisme og rasisme i skolen står følgende:
+
+Hvis Auschwitz skjer igjen, er det ikke sikkert at ofrene vil være jøder, rombefolkningen, romanifolket, homofile eller funksjonshemmete. Da kan det være andre grupper som skiller seg ut fra flertallet. (Kunnskapsdepartementet, 2011, s. 5)
+
+Grupper som inngår i ekstremistenes fiendebilder, er vanligvis etniske, religiøse, språklige eller seksuelle minoriteter, men også politikere, journalister og samfunnsdebattanter er utsatt. Kvinnehat er også utbredt blant ekstremister. Interseksjonalitet spiller videre inn; jo flere minoritetskategorier du tilhører, jo mer utsatt kan du være, både for voldelig ekstremisme og hets og for marginalisering av storsamfunnet. Skeive flyktninger i Norge er en gruppe som er særlig utsatt for vold og diskriminering.[^696] Enkeltpersoner som anses som representanter for grupper og individer med fremstående posisjoner i samfunnet, får gjerne en særlig rolle i ekstremisters verdensforståelse. Et eksempel er den tidligere nevnte filantropen og forretningsmannen George Soros, som er jødisk, og som det også finnes en rekke konspirasjonsfortellinger om.[^697]
+
+Trusler og hatefulle ytringer kan være belastende og ødeleggende for enkeltmennesker og deres nærstående. Rasisme og diskriminering kan blant annet påvirke folks helse negativt både direkte og indirekte.[^698] Trusler og hatefulle ytringer er skadelige for demokratiet dersom de fører til at mennesker avstår fra å ytre eller engasjere seg eller trekker seg ut av politikken og samfunnsdebatten.
+
+Mange av gruppene som er utsatt for trusler og hat fra ekstremister, er ofte også allerede marginaliserte. Ekstremisters fiendebilder er ikke løsrevet fra holdninger som finnes ellers i befolkningen, de har også sammenheng med politisk og statlig sanksjonert diskriminering eller historisk utestengelse i flere land. Holdningsundersøkelser de senere årene peker også på kunnskapsunderskudd i befolkningen og negative forestillinger om særlig utsatte grupper.[^699]
+
+Kommisjonen har hatt flere møter med grupper som inngår i ekstremisters fiendebilder eller på andre måter er marginalisert og utsatt for hets, trakassering og vold. Samlet sett er inntrykket at flere ikke opplever seg tilstrekkelig beskyttet og ivaretatt. De er bekymret for at myndighetene som skal beskytte dem, ikke har nok kunnskap om trusselen de lever med, og de er bekymret for at befolkningen generelt har lav kunnskap om hvem de er, og hvilke utfordringer de lever med.[^700] Regjeringens handlingsplan mot rasisme og diskriminering, som kom høsten 2023, inneholder flere tiltak som retter seg mot å ivareta utsatte grupper.[^701]
+
+Noen av gruppene eller personene i ekstremistenes fiendebilder har ressurser til å beskytte seg selv og er ikke marginaliserte. Hat og trusler mot øvrige myndighetspersoner behandles nedenfor. I tillegg til politikere og samfunnsdebattanter er det flere grupper og minoriteter som opplever ulike former for fordommer og negative holdninger i Norge i dag.
+
+For mange er det en stor belastning å leve med vissheten om at en selv og ens nærstående inngår i ekstreme gruppers fiendebilder. Det kan gjøre stor skade og være livsbegrensende å vite at mennesker som ligner deg, lever som deg eller har samme tro som deg, blir drept, skadet eller er utsatt for avhumaniserende holdninger eller handlinger. Kommisjonen har hatt samtaler med mennesker som trekker frem hverdagslige utfordringer med å tilhøre en minoritet. Konsekvensene for noen er at de «skjuler» hvem de er, unngår å vise frem sin tilhørighet eller på andre måter begrenser sine liv. Aktører kommisjonen har snakket med, trekker frem viktigheten av hva myndigheter og politiske representanter faktisk sier og gjør, og hvordan de omtaler minoriteter i offentligheten.
+
+De ulike minoritetene som er del av ekstremismens fiendebilder, er en uensartet gruppe med ulike behov og ulike opplevelser av støtte og inkludering. Samtidig er de utsatt for den samme trusselen om ytringer og handlinger som ofte er del av hverdagen, og som er både synlig og usynlig for majoritetsbefolkningen.
+
+Fordommer om at religiøse aktører utgjør «negative størrelser», oppleves som utbredt, og kunnskapen om det forebyggende arbeidet er lite kjent.[^702] Et presist offentlig ordskifte og riktig begrepsbruk er eksempelvis viktig for mange muslimer som har spilt inn til kommisjonen at det oppleves stigmatiserende og kunnskapsløst når islamisme i mange sammenhenger blir synonymt med ekstremisme. Flere har poengtert at det er viktig å ikke sidestille ekstremisme og radikalisme med sosialkonservatisme.[^703]
+
+Både grupper kommisjonen har snakket med, og myndigheter understreker betydningen av tillit og likebehandling. Integrerings – og mangfoldsdirektoratet rapporterer om tilfeller av tilbakemeldinger fra kommuner om forskjellsbehandling mellom ukrainere og andre flyktninger og mener det er grunn til å være obs på at dette kan generere polarisering.[^704]
+
+Handlingsplanen mot rasisme og diskriminering slår fast følgende: «Selv om det er godt dokumentert at rasisme og diskriminering forekommer i Norge, og at det er en alvorlig utfordring, er det fortsatt behov for mer kunnskap. Det gjelder omfang og virkning på ulike samfunnsarenaer. Ikke minst gjelder det hvordan rasisme og diskriminering kan forebygges og bekjempes, og kunnskap om hvilke virkemidler som fungerer best».[^705] For omtale av denne og andre relevante handlingsplaner vises det til del V.
+
+## Hatkriminalitet
+
+Hatkriminalitet er kriminelle handlinger som er motivert av hat eller negative holdninger til bestemte grupper av mennesker.[^706] I 2022 registrerte politiet 923 anmeldelser med et hatmotiv, og av disse utgjorde hatefulle ytringer 42 prosent.[^707] Hudfarge og nasjonal eller etnisk opprinnelse er det vanligste hatmotivet og utgjorde 55 prosent av alle registrerte hatmotiver, deretter kom seksuell orientering, som utgjorde 21 prosent. Ulike typer vold, herunder trusler, utgjorde om lag 30 prosent av anmeldelsene. De to siste årene har det vært en markant stigning i antall anmeldelser der det er et hatmotiv på grunnlag av seksuell orientering. Både politiet og forskere mener at det er store mørketall, og at mye hatkriminalitet i Norge ikke anmeldes.[^708] Funn i Nasjonal trygghetsundersøkelse har pekt mot at innvandrerbefolkningen er særlig utsatt.[^709] Personer med funksjonsnedsettelse og skeive er også mer utsatt enn resten av befolkningen.
+
+Hatkriminalitets- nettverket
+
+Likestillings- og diskrimineringsombudet har koordineringsansvar for Hatkriminalitetsnettverket, som består av frivillige brukerorganisasjoner, Justis- og beredskapsdepartementet, Bufdir, Kripos og politiets nasjonale kompetansemiljø på hatkriminalitet. Nettverket jobber aktivt rettet mot myndighetene for å forbedre arbeidet mot hatkriminalitet både på politisk nivå, i undervisningen og i politiet.<sup>1</sup>
+
+<sup>1</sup> Likestillings- og diskrimineringsombudet u.å.
+
+\[Boks slutt\]
+
+Kriminalisering av rasistiske organisasjoner
+
+Av FNs rasediskrimineringskonvensjon CERD artikkel 4 bokstav c følger det at statene skal forby «organisasjoner og organisert og annen propagandavirksomhet som fremmer og tilskynder til rasediskriminering». Bestemmelsen støter mot andre rettigheter, særlig retten til forenings- og ytringsfrihet. Det er uenighet om hvorvidt et slikt forbud vil utgjøre et for stort inngrep i andre rettigheter.
+
+Rasediskrimineringskomiteen, som følger med på statenes implementering av konvensjonen, har drøftet forholdet mellom bestemmelsen og andre menneskerettigheter og konkludert med at de ikke står i motstrid til hverandre.<sup>1</sup> Norske myndigheter har likevel ikke ønsket å kriminalisere slike organisasjoner.<sup>2</sup>
+
+I sin avsluttende rapport til Norge skriver komiteen følgende:
+
+*The Committee is deeply concerned that racist and neo-Nazi organizations have become more visible on social media and through demonstrations in the State party. The Committee remains concerned that the State party has not declared illegal and prohibited organizations that promote and incite racial hatred, in line with its obligations under article 4 (b) of the Convention (…)*
+
+*(…) the Committee recommends that the State party amend its legislation, in line with article 4 of the Convention, and prohibit the organization of groups that promote and incite racial hatred.* (FNs rasediskrimineringskomité, 2019, s. 4)
+
+I 2016 bestilte regjeringen en ekspertutredning om det strafferettslige diskrimineringsvernet som blant annet behandlet denne problemstillingen.<sup>3</sup> Utredningen støttet norske myndigheters syn om at forbud som bestemmelsen legger opp til vil kunne utgjøre et for stort inngrep i andre rettigheter. I tillegg ble det pekt på at et forbud kan styrke gruppefølelsen internt i rasistiske organisasjoner. Utredningen foreslo heller å gjeninnføre en bestemmelse som åpner for å straffeforfølge deltakelse i en organisasjon som har til formål å begå eller oppmuntre til en handling som kan straffes med fengsel i minst seks måneder. En slik bestemmelse ville ikke være spesifikt rettet mot rasistiske organisasjoner, men ville likevel kunne ramme slike. Saken ble delvis fulgt opp av Straffelovrådet, som i 2020 foreslo straff for deltakelse mv. i organisert kriminell sammenslutning.<sup>4</sup> I forslaget ble det presisert at bestemmelsen vil kunne ramme rasistiske organisasjoner som tar i bruk «relativt grove virkemidler» i sin rasistiske virksomhet.
+
+Basert på rådets forslag ble det i 2021 innført et slikt forbud i straffeloven § 199,<sup>5</sup> jf. straffeprosessloven § 222 e.<sup>6</sup>
+
+<sup>1</sup> FNs rasediskrimineringskomité 2013
+
+<sup>2</sup> Barne- og familiedepartementet 2017
+
+<sup>3</sup> Justis- og beredskapsdepartementet 2018
+
+<sup>4</sup> NOU 2020: 4
+
+<sup>5</sup> Straffeloven § 199. Straff for deltakelse mv. i en forbudt kriminell sammenslutning: Med fengsel inntil 3 år straffes den som deltar i, rekrutterer medlemmer til eller på annen måte viderefører aktiviteten til en kriminell sammenslutning som er forbudt etter straffeprosessloven § 222 e
+
+<sup>6</sup> Straffeprosessloven § 222 e: Etter begjæring fra statsadvokaten kan retten ved kjennelse forby en sammenslutning når
+
+a\. deltakere i sammenslutningen har begått gjentatte lovbrudd mot noens liv, helse eller frihet,
+
+b\. overtredelsene er egnet til å fremkalle frykt i befolkningen eller nærmiljøet for nye lovbrudd av samme art fra sammenslutningens deltakere, og
+
+c\. et forbud er nødvendig for å forebygge alvorlig kriminalitet
+
+\[Boks slutt\]
+
+Selv om de fleste tilfellene av hatkriminalitet ikke er ekstremistisk motivert, er hatkriminalitet ofte rettet mot grupper i ekstremistenes fiendebilder. Det finnes også grove eksempler på ekstremistisk motivert hatkriminalitet i Norge. Arve Beheim Karlsen var 17 år gammel da han druknet i Sogndalselva 23. april 1999 etter å ha blitt jaget av to jevnaldrende gutter som ropte rasistiske og truende utsagn etter ham, inkludert «drep denne negeren».[^710] Karlsen ble adoptert fra India i 1981 og var to måneder gammel da han ankom Norge.[^711] Det ble tatt ut drapssiktelse mot de to involverte personene, men denne ble senere henlagt. De ble tiltalt for rasistisk motiverte trusler og vold og rasistiske ytringer. Hovedmannen hadde utsatt Arve for rasistisk sjikane og truende og voldelig atferd over tid. Av dommen gikk det frem at personen var åpen om at han var rasist, og at ytringene han kom med, inkluderte «forbanna neger», «den jævla negeren», «nigger» og «berre ein liten neger». Fordi ytringene ikke ble ansett for å være fremsatt offentlig, ble de to tiltalte frifunnet for rasistiske ytringer etter datidens «rasismeparagraf».[^712] I forbindelse med straffeutmålingen gikk det frem at dommeren var usikker på hvor dypt rasismen stakk og at de rasistiske ytringene om Arve ikke hadde hatt negative konsekvenser i hans nærmiljø. Snarere kunne det ha vært positivt, i den forstand at «mange har innsett at dei måtta vere på vakt for å hjelpe» Arve. Dommeren kom likevel frem til at Arve fra 1993 til 1999 hadde blitt utsatt for omfattende mobbing og plaging på grunn av sin hudfarge og etniske bakgrunn. Retten kom frem til at overgrepene mot Arve var rasistisk motivert, og at begge de tiltalte hadde «rasistiske støttespelarar». Hovedmannen ble dømt for rasistisk motivert legemsfornærmelse, og begge ble dømt for rasistisk motiverte trusler. De fikk henholdsvis ett og tre års fengsel. Dommen ble gjenstand for debatt, ikke minst om hvilket vern som finnes for mennesker som utsettes for etnisk diskriminering.[^713]
+
+Hatkriminalitet blir også motivert av ekstrem islamisme. Den kjente norske ekstreme islamisten Arfan Bhatti ble i 2008 dømt for medvirkning til skyting mot synagogen i Oslo. Dommen sier følgende:
+
+«Det er tale om et meget alvorlig skadeverk rettet mot det religiøse samlingsstedet til en religiøs minoritetsgruppe i Norge. Skadeverket fremstår som en symbolsk handling som markerer raseri over en konflikt som norske jøder ikke kan gjøres medansvarlig for. Handlingen har sterke likhetstrekk med annen kriminalitet som er motivert av hat mot en bestemt gruppe på grunn av religion eller etnisk tilhørighet.» (Borgarting lagmannsrett, 2009)
+
+Den norske ekstreme islamisten Ubaydullah Hussain ble i 2014 dømt for hatefulle ytringer mot jøder.[^714]
+
+## Trusler og ekstremistisk vold mot myndighetspersoner, politikere og samfunnsdebattanter
+
+Terrorangrepet 22. juli 2011 var et målrettet angrep på Arbeiderpartiet, AUF, den daværende regjeringen og hele det norske maktapparatet. Flere konkrete personer var også pekt på av terroristen som særlige mål for angrepet. Når det gjelder trusler mot folkevalgte i Norge, vurderer PST det som lite sannsynlig at myndighetspersoner vil rammes av alvorlige voldshandlinger i Norge i 2023. Ifølge PST vil imidlertid krevende økonomiske tider kunne øke trusselaktiviteten.[^715]
+
+PST har på slutten av de siste tre stortingsperiodene gitt Politihøgskolen i oppdrag å kartlegge politikernes egne erfaringer med trusler og trakassering.[^716] Et overordnet funn fra disse undersøkelsene er at politikere fra alle partier og alle nivåer i politikken rammes av trusler og trakassering.[^717] Mange av de overlevende fra Utøya lever i dag med hat og trusler.[^718] I den siste undersøkelsen fra Politihøgskolen er også sentralstyremedlemmene i ungdomspartiene inkludert. Undersøkelsene viser en økning i alvorlige trusler mot folkevalgte, rikspolitikere og ungdomspolitikere de siste ti årene.[^719] Økningen gjelder i hovedsak direkte og indirekte trusler fremsatt via sosiale medier. Riksadvokaten har påpekt at påtalemyndigheten skal være særlig oppmerksom på utviklingen med hatefulle og truende straffbare handlinger mot politikere og andre samfunnsdebattanter.[^720]
+
+Sverige har hatt to angrep på politikere med dødelige utfall med drapene på statsminister Olof Palme i 1986[^721] og utenriksminister Anna Lindh i 2003.[^722] Den kjente svenske psykiateren Ing-Marie Wieselgren ble drept på den politiske Almedalsveckan i 2022.[^723] Myndighetspersoner andre steder i Vest-Europa har også blitt utsatt for angrep. Den britiske *Labour*-politikeren og parlamentsmedlemmet Jo Cox ble drept av en høyreekstrem terrorist 16. juni 2016.[^724] Cox var aktiv talskvinne for *remain*-kampanjen i forkant av den britiske folkeavstemningen om hvorvidt Storbritannia skulle bli værende i EU. I juni 2019 ble den tyske politikeren Walter Lübcke drept i sitt hjem.[^725] Lübcke var en uttalt tilhenger av Angela Merkels liberale holdning til asylsøkere under den store tilstrømningen av flyktninger til Europa i 2015. For dette mottok han dødstrusler og fikk derfor beskyttelse av myndighetene. Den nynazistiske drapsmannen hadde en rekke dommer for hatkriminalitet. Allerede som 15-åring hadde han forsøkt å sette fyr på boligen til en tyrkisk immigrantfamilie.[^726] Flere tyske ordførere overlevde angrep som de ble utsatt for av nynazister fordi de hadde en tilsvarende liberal holdning under flyktningkrisen.[^727]
+
+PST har utarbeidet råd til politikere som opplever hat og trusler.[^728] Trusler og hatefulle ytringer kan være belastende og ødeleggende for enkeltmennesker og deres nærstående. Trusler og hets mot politikere og myndighetspersoner og andre som ytrer seg, er en alvorlig utfordring for demokratiet siden den samlede belastningen for flere myndighetspersoner og politikere kan føre til at enkelte trekker seg fra den offentlige debatten eller avstår fra å stille til valg.[^729]
+
+Det er ikke nødvendigvis slik at trusler skremmer folk fra å innta politiske verv og posisjoner, men trusler kan true den representativiteten demokratiet er avhengig av. Undersøkelser viser for eksempel at kvinner og unge er særlig tilbøyelige til å trekke seg fra verv.[^730] Selv om rikspolitikere generelt er mer utsatt for hets og hatytringer enn lokalpolitikere, kan hatefulle ytringer og trusler oppleves enda mer alvorlig for lokalpolitikere ettersom de som fremsetter trusselen, høyst sannsynlig befinner seg i lokalområdet.[^731]
+
+Ungdomspolitikere kommisjonen har snakket med, sier at det kan være summen av ting som gjør at man trekker seg, selv om det man opplever, ikke er ulovlig. For demokratiet er det viktig at unge mennesker vil og kan engasjere seg, og at de deltar i det offentlige ordskiftet.
+
+## Antisemittisme
+
+Antisemittisme er fiendtlige holdninger og handlinger rettet mot jøder fordi de er jøder. Kommisjonen anerkjenner at det er ulike definisjoner, men forholder seg i det videre til definisjonen i regjeringens handlingsplan: «fiendtlige holdninger og handlinger rettet mot jøder eller det som oppfattes som jødisk, basert på bestemte forestillinger om jøder».[^732]
+
+Antisemittismen har lange historiske røtter i Europa og Norge.[^733] Paragraf 2 i Grunnloven, den såkalte «jødeparagrafen», nektet jøder og jesuitter adgang til landet. Inntil denne paragrafen ble opphevet i 1851, var det forbudt for jøder å bosette seg i Norge. De første jødene som immigrerte til Norge kom som flyktninger fra russiske pogromer på slutten av 1800-tallet.
+
+Antisemittiske konspirasjonsfortellinger om jøder spilte en sentral rolle i opptakten til holocaust under 2. verdenskrig. Det norske holocaust betegner forsøket på å tilintetgjøre de norske jødene gjennom drap og deportasjoner under 2. verdenskrig. Totalt ble 773 norske jøder og jødiske flyktninger deportert fra Norge til nazistiske døds- og konsentrasjonsleirer. Av de 38 som kom tilbake, var det ingen kvinner og barn.[^734] 230 familier ble helt utslettet.[^735]
+
+Forekomsten av antisemittiske holdninger i den norske offentligheten og i befolkningen både før og etter krigen var lenge lite undersøkt. Det har også tatt lang tid for myndighetene, historieformidlingen og den kollektive bevisstheten å erkjenne at nordmenn deltok i deportasjonen av sine jødiske medborgere til de nazistiske konsentrasjons- og dødsleirene høsten 1942 og vinteren 1943.[^736] Svært mange sider ved norsk antisemittisme og opptakten til deportasjonene og oppgjøret etter krigen har først blitt løftet frem i lyset de siste årene. Det er verdt å nevne antisemittisme i den norske pressen,[^737] fravær av norske gjerningsmenn i fortellinger om deportasjonene[^738] og den økonomiske likvidasjonen av jødenes bo,[^739] som var en forutsetning for deportasjonen ut av landet.
+
+Å hevde at holocaust er overdrevet eller ikke fant sted, såkalt holocaustfornektelse eller -forvrengning, har vært et sentralt element i antisemittismen etter 2. verdenskrig. Holocaustfornektelse kan beskrives som gjenbruk av gamle antijødiske konspirasjonsforestillinger, tilpasset det politiske klimaet i etterkrigstiden.[^740] Historiker Kjetil Braut Simonsen utdyper hvordan dette har artet seg:
+
+Benektelsen av folkemordet på de europeiske jødene dreier seg ikke bare om et feilaktig og forvridd syn på historien. Den hviler i siste instans på forestillinger om at jødene besitter en verdensomspennende makt. Sett ut ifra dette perspektivet finnes det en klar kontinuitetslinje fra den nasjonalsosialistiske antisemittismen under krigen til den høyreekstreme antisemittismen etter krigen. (Simonsen, 2021)
+
+Holocaustforvrengning handler om å anerkjenne at folkemordet har skjedd, men å bestride dets omfang, årsaker og konsekvenser. Holocaustforvrengning innebærer ofte et element av å tillegge jødene selv skylden for folkemordet, eller en anklage om at jødene misbruker holocaust til sin fordel.
+
+Antisemittisme kan blant annet utrykkes med referanse til konspirasjonsforestillinger om at jøder kontrollerer regjering, media eller banker med et ondsinnet ønske om makt og verdensherredømme. Det kan være knyttet til Israel-relatert kritikk som tar i bruk antisemittiske stereotypier, innvandringsfiendtlige holdninger eller anti-globaliseringsholdninger.
+
+Antisemittisme spres fra et bredt spekter av miljøer, både på den politiske ytre høyre, og venstresiden, i konspirasjonsmiljøer, i muslimske og kristne miljøer.[^741] Antisemittiske konspirasjonsfortellinger om jøder er en sentral komponent i mange høyreekstreme og ekstreme islamist strømninger og bevegelser nasjonalt og transnasjonalt, som omtalt ovenfor. Antisemittisme var sentralt i det høyreekstreme verdensbildet som motiverte Philip Manshaus sitt terrorangrep.[^742] I terrorfremmende propaganda fra IS og al-Qaida har «korsfarere» og «jøder» blitt brukt i samme setning som betegnelser på den samme fienden. Hatet begrunnes videre ut fra en overbevisning om at jøder har infiltrert vestlige myndigheter.[^743]
+
+Antisemittisme får næring og eskalerer i perioder med politisk, økonomisk og sosial uro.[^744] Antisemittiske konspirasjonsfortellinger har blitt produsert og endret seg i respons til kriser som migrasjonskrisen i 2015[^745], Covid-19 pandemien[^746] og den russiske invasjonen og krigføringen i Ukraina.[^747] Jøder har blitt beskyldt for å stå bak både migrasjon, virusspredning og krig for å oppnå makt og kontroll. I kontekst av Israel-Gaza krigen i 2023/24 oppstod nye konspirasjonsfortellinger om at Israel selv stod bak angrepet 7.oktober 2023.
+
+En nyere utvikling kjennetegnes av at ulike aktører fra en rekke miljøer speiler hverandres antisemittiske diskurser på tvers av ulike ideologier. Slike allianser av «hybridisert» og ideologikryssende antisemittisme forsterker antisemittisk innhold.[^748] Antisemittismens karakter og uttrykksmåter endres ikke kun i respons til ulike kriser og kritiske hendelser, men også av ny teknologi og internettkultur. I ulike fora fremmes dehumaniserende antisemittisme gjennom memetisk ironi og humor.[^749] Humoristiske memer blir brukt for å fremme dehumaniserende, antisemittisk propaganda og oppfordring til vold.[^750] Antisemittisme er ikke kun begrenset til ekstreme grupper eller perifere miljø, men finnes også på arenaer på og utenfor nett hvor flertallet av innbyggerne samhandler. Bruk av ordet jøde som skjellsord er normalisert og utbredt i norske skolegårder.[^751] En studie som kartla den danske digitale offentlighet på Facebook ved hjelp av maskinlæring, viste at når samtalene dreier seg om jøder, kan hver tiende kommentar karakteriseres som antisemittisk.[^752]
+
+Negative forestillinger om jøder er dokumentert i den norske befolkningen.[^753] HL-senteret har gjennomført tre befolkningsundersøkelser om nordmenns holdninger til jøder siden 2012.[^754] Studiene gir viktig innsikt i fordommer og syn på jøder blant nordmenn. Et av funnene i HL-senterets holdningsundersøkelse fra 2022 er at nordmenns holdninger til jøder har blitt mindre negative de siste ti årene.[^755] Samtidig er fordommer i form av antisemittiske stereotyper utbredt. Påstanden om at «verdens jøder arbeider i det skjulte for å fremme jødisk interesser», en konspirasjonsforestilling med lange linjer i antisemittismen, ble støttet av 14 prosent av respondentene.[^756] Stereotypiske forestillinger om jødisk makt og innflytelse er mer utbredt blant muslimer enn blant ikke-muslimer. Norske muslimer skårer omtrent likt og stadig lavere på målinger av motvilje og sosial avstand til jøder som andre. Fordommer mot jøder er imidlertid fremdeles klart mer utbredt blant muslimer enn i resten av befolkningen.[^757] Blant muslimer er det en tydelig diskrepans mellom de stereotypiske forestillingene om jøder og holdninger til jøder som naboer eller venner. Ifølge forskere tyder dette på at antisemittisme blant norske muslimer først og fremst er relatert til internasjonale forhold og i liten grad har betydning for mellommenneskelige relasjoner.[^758]
+
+Norske jøder erfarer selv en negativ utvikling knyttet til antisemittisme. Flere undersøkelser de siste årene har vist at norske jøders erfaringer med antisemittisme i stor grad kan knyttes til den israelsk-palestinske konflikten, og flere norske jøder opplever at de holdes personlig ansvarlig for Israels politikk.[^759] Flere aktører som kommisjonen har hatt møter med har pekt på behovet for økt kompetanse om antisemittisme i skolen.[^760] Flere aktører har pekt på at manglende kunnskap om antisemittisme på og utenfor nett er en utfordring i det forebyggende arbeidet mot radikalisering og ekstremisme.[^761]
+
+Israel-Palestina konflikten utgjør en sentral referanse for dagens antisemittisme.[^762] Regjeringens handlingsplan mot antisemittisme drøfter hvordan kritikk av Israel og israelske myndigheter kan være kraftig, ensidig og ubalansert uten å være antisemittisk. Samtidig er det eksempler på at det som oppfattes som negative handlinger utført av staten Israel, beskrives som resultat av iboende, negative karaktertrekk hos jøder, noe som kan være antisemittisk. Israel-kritikk kan ifølge HL-senteret defineres som: «antisemittisk når den tar i bruk antisemittiske stereotypier (for eksempel ved koblinger til den tradisjonelle anklagen om ritualmord og barnedrap), eller når negative syn på Israel fortoner seg som motstand mot jøder som kollektiv».[^763] Det hender med andre ord at israel-kritikk inkluderer antisemittiske forestillinger, og at ytringer med antisemittisk innhold fremmes i enkelte sammenhenger kamuflert som antisionisme.[^764] Antisemittiske holdninger og handlinger øker også når konflikten i Israel-Palestina og Midtøsten eskalerer. Etter Hamas' angrep 7. oktober 2023 og den påfølgende krigen[^765] er det rapportert om en kraftig økning i antisemittiske handlinger og ytringer internasjonalt.[^766]
+
+I Norge har antallet anmeldelser om antisemittisme doblet seg siden i fjor, og halvparten av anmeldelsene har kommet etter 7. oktober.[^767] Trusselen mot jødiske og israelske mål i Norge er skjerpet.[^768] Flere jøder i Norge har vært utsatt for truende hendelser.[^769]
+
+Det Mosaiske Trossamfund sendte ut det de kalte «et varsko for det norske demokratiet»:
+
+Ord fører til handlinger, og effekten av dette ordskiftet blir nå følt i hverdagen på en måte vi ikke kan huske i vår generasjon. Flere av våre medlemmer har de siste dagene opplevd truende hendelser mot sine hjem, fordi de er jødiske. (Det Mosaiske Trossamfund, 2023)
+
+I kontekst av Israel-Palestina konflikten har jødene blitt fremstilt som representanter for en spesielt arkaisk og voldelig religion, noe som er en nedarvet, antisemittisk fremstilling.[^770] Post 7.oktober angrepet reproduserte en lederartikkel i Dagbladet[^771] liknende forestillinger. I lederen der Israel ble kritisert for uproporsjonal gjengjeldelse mot sivilbefolkningen i Gaza ble uttrykk om jøder som «det utvalgte folk» og budet om «øye for øye, tann for tann» tatt i bruk. Disse spiller på at jøder anser seg selv som overlegne og er hevnlystige.[^772] Forståelsen av uttrykket «det utvalgte folk» «som» herskerdrøm og overlegenhetstanke med jødenes påståtte ambisjoner om verdensherredømme har dype røtter i antisemittisk tradisjon.[^773]
+
+I Europa har Israel-Palestina konflikten lenge vært en delmotivasjon for jihadistisk voldelig ekstremisme og terror rettet mot jødiske mål.[^774] Antisemittiske ytringer har også ført til domfellelse av ekstreme islamister i Norge. I 2006 avfyrte den norske islamisten Arfan Bhatti elleve skudd med automatvåpen mot synagogen i Oslo. Påtalemyndigheten mente at dette var en terrorhandling, men Bhatti ble dømt for medvirkning til grovt skadeverk på synagogen. I januar 2023 ble imamen Noor Ahmad dømt til 60 dagers betinget fengsel og bot på 12 000 kroner for hatefulle ytringer og oppfordring til drap på jøder.[^775]
+
+Regjeringens første handlingsplan mot antisemittisme kom i 2016. Den gjeldende handlingsplanens løpende tiltak er besluttet videreført ut 2024. Det er planlagt en ny handlingsplan mot antisemittisme.[^776]
+
+## Muslimfiendtlige holdninger og diskriminering av muslimer
+
+Muslimfiendtlighet er «(…) når muslimer tillegges iboende negative egenskaper og diskrimineres kun i kraft av å være muslimer.»[^777]
+
+En definisjon på muslimfiendtlighet er som følger:
+
+Muslimfiendtlighet er utbredte negative fordommer, uriktige eller sterkt overdrevne negative påstander om muslimer, og handlinger og praksiser som angriper, ekskluderer eller diskriminerer mennesker på bakgrunn av at de er eller antas å være muslimer. (Bangstad og Døving 2023, s 95)
+
+I akademiske fagmiljøer er begrepet islamofobi utbredt om en fordomsproduksjon som underbygger frykt for, hat mot og diskriminering av muslimer og de som oppfattes som muslimer. Islamofobi favner «formede meningssystemer», og er derfor ikke noen fobi i psykologisk forstand, men et ideologisk fiendebilde.[^778]
+
+Muslimfiendtlighet er et globalt fenomen og muslimer inngår i fiendebildene til en rekke ulike partier og bevegelser både i Vesten og globalt, i demokratiske og autoritære land. Muslimfiendtlig retorikk og propaganda sirkulerer på tvers av landegrenser, slik tilfellet er med en rekke ytre høyre transnasjonale partier og bevegelser som fremmer ensidige skremmebilder av muslimer. Muslimfiendtlighet eksisterer og omformes også i ulike geografiske og religiøse kontekster (for eksempel buddisme, hinduisme) hvor muslimske minoriteter avhumaniseres og blir forfulgt i land som India, Kina og Myanmar.[^779]
+
+Muslimer pekes på som den gruppen som dominerer i fiendebildet til ytre høyre i dag. Fordommer mot muslimer har i senere år blitt en sentral del av tankeverdenen til ytre høyre-grupper verden over, og forskere advarer mot å underdrive betydningen av dette.[^780] Særegent for hat mot muslimer er at hatet deles av i utgangspunktet svært forskjelligartede fraksjoner av ytre høyre, både nasjonalt og transnasjonalt.
+
+Muslimer og antatte muslimer har vært utsatt for flere ekstreme handlinger i Norge. Det første angrepet på en moské i Norge var da Nor moské i Oslo ble utsatt for et terrorangrep av en høyreekstrem i 1985. En kvinne mistet hørselen under angrepet. Det siste og mest alvorlige angrepet på norske muslimer til dags dato var terrorangrepet mot Al-Noor moskeen i Bærum i 2019. Gjerningsmannen hadde et mål om å drepe så mange muslimer som mulig og var inspirert av angrepet i Christchurch på New Zealand seks måneder tidligere. Muslimer inngikk i fiendebildet til Anders Behring Breivik da han drepte 77 mennesker 22. juli 2011. Med henvisning til den såkalte Eurabia-teorien hevdet han å forsvare sin kultur mot en pågående muslimsk invasjon.
+
+HL-senterets holdningsundersøkelse fra 2022 viste at ca. 31 prosent av respondentene hadde utpregede fordommer mot muslimer.[^781] Påstanden «muslimer har selv mye av skylden for økende muslimhets» ble støttet av 44 prosent av befolkningen ifølge undersøkelsen. 25 prosent støttet påstanden «muslimer ønsker å ta over Europa».[^782]
+
+Regjeringens handlingsplan mot diskriminering av og hat mot muslimer slår fast at muslimer som gruppe er mer sammensatt enn den offentlige debatten gir inntrykk av, og advarer om at en ensidig debatt kan bidra til å forsterke fordommer mot muslimer og mistenkeliggjøring av dem.[^783] Muslimske veivisere rapporterer om det de opplever som lav kunnskap om muslimsk liv og praksis, og de rapporterer om muslimfiendtlige holdninger og hat mot muslimer i Norge – særlig i distriktene. De etterlyser større mangfoldskompetanse i tjenesteapparatet.[^784] Folk som skal jobbe tett på muslimske familier, bør ha kompetanse om tro og kultur og forskjellen på dem.
+
+Flere aktører som kommisjonen har hatt møte med, har pekt på den muslimfiendtlige organisasjonen SIAN og deres aksjoner som en stor utfordring i det forebyggende arbeidet mot radikalisering og ekstremisme. På den ene siden kan aktiviteter som koranbrenning ifølge PST bidra til radikalisering og føre til ekstrem islamisme.[^785] På den andre siden kan det stilles spørsmål ved om SIANs holdninger og handlinger omfattes av det brede ekstremismebegrepet. SIAN-leder Lars Thorsen er dømt for hatefulle ytringer mot muslimer og har blant annet uttalt at muslimer er «en trussel mot rikets sikkerhet», og at de «må deporteres eller interneres på livstid».[^786]
+
+Enkelte forskere har påpekt at SIAN er en «perifer» gruppe med middelaldrende til gamle medlemmer med både begrenset voldspotensial og begrenset gjennomslag for sitt tankegods.[^787]
+
+Samtidig kan de menneskelige konsekvensene være store for norske muslimer som kan føle på frykt, sinne, redsel og avmakt i forbindelse med SIANS demonstrasjoner. I kommisjonens møte med ungdommer ga ungdommene uttrykk for at de følte på sinne og frustrasjon da SIAN demonstrerte i byen deres.
+
+Tidligere ble innvandringsmotstand fra ytre høyre begrunnet i rase, etnisitet og nasjonalitet, men det har skjedd en gradvis utvikling der hovedfienden i dag er islam og muslimer. Fortellingen om at det pågår en kulturkrig mellom vestlige samfunn og Islam, fikk særlig vind i seilene etter at det internasjonale terrornettverket al- Qaida angrep USA 11. september 2001. Det vokste frem et kontrajihadistisk nettverk på internett som er omtalt overfor. Det var denne typen tekster Breivik refererte til i det han kalte et manifest.
+
+Muslimfiendtlighet kan også oppstå som reaksjoner på internasjonale konflikter og krig i Midtøsten. Når kommisjonen ferdigstiller denne rapporten, er det usikkert hvilke konsekvenser konflikten mellom Israel og Hamas vil få for muslimer i Norge.[^788] Enkelte norske muslimer uttrykker at de opplever at de ikke anses som en del av det norske fellesskapet:[^789]
+
+Jeg sier alltid «vi» fordi jeg er herfra, men det er en ekkel bismak i ordet. Det er ikke noe «vi». Jeg ser det nå. Hadde det eksistert noe «vi», så hadde over 100 norske barn som er sperret inne i Gaza, fått 100.000 ganger mer spalteplass enn de får, og Norge hadde eksplodert, og vi hadde fylt gatene med sinne, og hele den norske pressen hadde sagt fordømme og ren ondskap. (Abdelmaguid, 2023)
+
+Handlingsplanen mot diskriminering av og hat mot muslimer utløp i 2023. Høsten 2023 ble det besluttet at handlingsplanen skulle forlenges til 2024, i likhet med handlingsplanen mot antisemittisme. En ny plan skal legges frem i 2025.[^790] I forbindelse med denne nyheten uttalte kultur- og likestillingsministeren følgende: «Vi har alle et ansvar for å bekjempe fordommer og rasisme. Regjeringen er opptatt av at krigen i Gaza ikke skal øke motsetningene i Norge».[^791] Internasjonalt rapporteres det om betydelig økning i tilfeller av muslimfiendtlige episoder som, i likhet med økningen i antisemittiske hendelser, blir tolket som et utslag av den eskalerte krigen i Midtøsten.[^792]
+
+## Antisiganisme: hets og diskriminering av rom
+
+Antisiganisme er en spesifikk form for rasisme mot og diskriminering av minoriteten rom. Europarådet tok i bruk begrepet i 2005. Rådet definerer vanligvis antisiganisme som «en ideologi basert på ideen om en rasemessig overlegenhet, en form for avhumanisering og institusjonell rasisme, næret av en historisk diskriminering».[^793] *Porrajmos* er betegnelsen for forsøket på å utrydde Europas rombefolkning under 2. verdenskrig.
+
+HL-senteret har siden 2006 arbeidet systematisk med å heve kunnskapsnivået i befolkningen om rom under krigen, et arbeid som også har foregått i fellesskap med representanter for den romske minoriteten.[^794] I 2015 kom en utredning om dette utført på oppdrag av det daværende Fornyings-, administrasjons- og kirkedepartementet (FAD). Norske myndigheters avvisning av 68 norske romer på grensen mellom Tyskland og Danmark i 1934 ble spesielt undersøkt. På den internasjonale romdagen, 8. april 2015, kom daværende statsminister Erna Solberg med en offisiell beklagelse til norske romer for den rasistiske ekskluderingspolitikken som ble ført både før og etter 2.verdenskrig, og de fatale følgene denne politikken fikk for norske romer under holocaust.[^795]
+
+Drapet på Mahmed Jamal Shirwac
+
+Den norsk-somaliske taxisjåføren Mahmed Jamal Shirwac ble drept av en passasjer i sin bil på Heimdal utenfor Trondheim 23. april 2008. I rettssaken trakk aktoratet frem at gjerningspersonen forut for drapet hadde utvist sterke antipatier mot innvandrere og muslimer og uttrykt et ønske om å brenne moskeer og drepe muslimer.<sup>1</sup> Han hadde også ifølge dommen uttalt seg negativt overfor innvandrere på «ulike nettsteder». Retten kom frem til at det ikke kunne ses bort fra at rasistiske og religiøse forestillinger var tiltaltes motiv for drapet. Det ble også slått fast at det neppe var en impulshandling, ettersom våpenet var medbrakt hjemmefra. Ettersom gjerningsmannen ble kjent psykotisk i den rettspsykiatriske vurderingen, anså imidlertid ikke retten at det var usannsynlig at skuddene kunne rammet hvem som helst. Retten ville derfor ikke uttale seg bestemt om hvilket motiv tiltalte hadde, noe de heller ikke anså som nødvendig for bevisvurderingen.
+
+I vurderingen av om gjerningspersonen skulle dømmes til tvungent psykisk helsevern uttalte flertallet: «Tiltalte var psykotisk, og hans motvilje mot muslimer var så sterk at han hadde gitt uttrykk for ønsket om å «drepe muslimer om sjansen byr seg». Dette viser at han i psykotisk tilstand utgjør en betydelig risiko for omgivelsene, særlig innvandrergrupper og personer med muslimsk bakgrunn.»
+
+<sup>1</sup> TTRON-2009-52277 (Trondheim tingrett)
+
+\[Boks slutt\]
+
+Det er mer utbredt med sosial avstand til rom enn til noen av de andre gruppene som inngår i HL-senterets holdningsundersøkelse.[^796] En tredjedel av den norske befolkningen ønsker ikke sosial kontakt med romer. HL-senteret anbefaler å følge med på denne utviklingen. Alle andre gruppebaserte fordommer har høyest forekomst i befolkningsdelene med lavest utdanning og inntekt, men det forholder seg motsatt med fordommer mot rom. Dette peker i retning av at fordommene mot denne gruppen også har utspring i en klassebasert forakt.[^797] Det er et tankekors at romer mangler en handlingsplan samtidig som de ifølge HL-senterets holdningsundersøkelse er sterkt utsatt for negative holdninger fra majoritetsbefolkningen. Noen forskere peker også på at antisiganisme er et lite innarbeidet begrep i norske offentlige dokumenter, og at dette står i kontrast til den dokumenterte rasismen minoriteten er utsatt for.[^798] Av norske minoriteter er rom også den eneste som ikke har fått en forsoningsprosess. I møte med kommisjonen fikk kommisjonen fortellinger om generasjonssmerte og en opplevelse av å ikke være en del av «den store fortellingen».[^799]
+
+Det berettes om lav kunnskap om romske livsvilkår og romsk historie i befolkningen og tjenesteapparatet. Romer opplever også diskriminering fra tjenester i førstelinjen og majoritetsbefolkningen.[^800] Hatprat og hets mot romer og romanifolk eller tatere kommer gjerne som påstander om at disse gruppene tigger, stjeler og snylter på samfunnet.[^801]
+
+## Hets og diskriminering av samer, kvener/norskfinner og skogfinner
+
+Samer er anerkjent som urfolk i Norge, mens kvener/norskfinner og skogfinner er anerkjent som nasjonale minoriteter på linje med jøder, romanifolk og rom.
+
+Fornorskingspolitikken fikk alvorlige konsekvenser for samer, kvener og skogfinner. Nedvurderingen av samisk, kvensk og skogfinsk språk og kultur førte til språk- og kulturtap og også kunnskapsløshet om gruppene i befolkningen. Sannhets- og forsoningskommisjonen har påpekt at mange av handlingsmønstrene, holdningene og samfunnsstrukturene som fornorskingspolitikken bidro til, ble videreført også etter at fornorskningspolitikken ble avviklet.[^802] Ifølge kommisjonen har arven etter fornorskingspolitikken ført til at minoritetene ofte blir sett ned på og utsatt for mobbing, hatprat, trakassering og til dels diskriminering i møtet med majoritetsbefolkningen. Den utbredte diskrimineringen av gruppene er fortsatt et alvorlig samfunnsproblem. Ett av fire utsagn på Facebook om samer er negativt, ifølge en rapport fra høsten 2023.[^803]
+
+Folkehelseundersøkelsen i Troms og Finnmark viste at én av tre samer i regionen har opplevd diskriminering.[^804] Mobbing og etnisk diskriminering er den kulturelle faktoren som bidrar sterkest til angst- og depresjonsvansker hos samisk ungdom.[^805] Saminorundersøkelsen, SAMINOR 3, som undersøker helse og levekår blant samer og kvener og norsk befolkning i utvalgte områder, ser blant annet på historiske traumer og langvarig påvirkning på helsen. Undersøkelsen varer til 2025.[^806] Regjeringen har besluttet å utarbeide en handlingsplan mot hets og diskriminering av samer. Den skal etter planen være ferdigstilt høsten 2024.[^807]
+
+Blant personer bosatt i Nord-Norge er andelen med et negativt inntrykk av samer og kvener eller norskfinner elleve prosent. Dette er nesten fire ganger landsgjennomsnittet.[^808] Hatprat eller hets rettet mot samer knytter seg gjerne til spørsmål om rettigheter til utmark og beitemark og til påstander om at samer ikke er urfolk.[^809] Under debatten om vindturbinene på Fosen[^810] opplevde mange samer økte fordommer og negative stereotypier på sosiale medier.[^811] Fosen-saken har ifølge Samisk nasjonalt kompetansesenter for psykisk helsevern og rus påvirket den samiske minoritetens helse, og den har ført til «minoritetsstress».[^812]
+
+Norges institusjon for menneskerettigheters undersøkelse fra 2022 viste at ni av ti i befolkningen over 18 år oppgir at de lærte lite eller ingenting om kvener/norskfinner, skogfinner, romer og romanifolk/tatere på skolen, mens halvparten oppga det samme om samer, og en tredjedel oppga det samme om jøder.[^813] Rapporten påpekte at undervisning om samer og jøder i skolen har økt i omfang, mens undervisning om kvener/norskfinner, skogfinner, romer og romanifolk/tatere har holdt seg stabilt på et lavt nivå. I tillegg pekte rapporten på at undervisning om samer og nasjonale minoriteter nedprioriteres i skolen og i lærerutdanningen.[^814]
+
+## Hets og trusler mot skeive
+
+Skytingen mot utesteder i Rosenkrantz’ gate i Oslo 25. juni 2022 skjedde natten før pridefeiringen. To mennesker ble drept, og flere ble skadet.
+
+Studier viser at mange skeive i Norge lever et godt liv, og det har skjedd flere fremskritt for skeive både i Norge og flere europeiske land.[^815] Samtidig anerkjenner regjeringens handlingsplan for kjønns- og seksualitetsmangfold at Norge fortsatt står overfor store utfordringer.[^816] Ifølge en undersøkelse fra Institutt for samfunnsforskning fra 2019 utsettes LHBTIQ+-personer dobbelt så ofte for hatytringer som den øvrige befolkningen.[^817] Mer enn én av fem LHBTIQ+-personer oppga at de hadde blitt utsatt for hatytringer det siste året, mens 15 prosent hadde blitt utsatt for konkrete trusler.
+
+Det pågår en polarisert global debatt rundt kjønn. Organisasjoner for skeives rettigheter som kommisjonen har snakket med[^818], melder om at hets og trakassering er særlig rettet mot transkjønnede, ikke-binære og andre som bryter med tradisjonelle normer for kjønnsuttrykk. De forteller at debatten er preget av kampanjer mot enkeltpersoner. Dette fører til tilbaketrekning, ensomhet og store psykososiale utfordringer.
+
+Aktører kommisjonen har snakket med, peker videre på at mediene og politiet har liten kunnskap om de bevegelsene som vokser frem, og om forbindelsene som finnes mellom radikal feminisme og kristenkonservativisme.[^819] De peker på at dette er grupper og individer som fører et voldelig og avhumaniserende språk og i tillegg er truende og ekstremt aktive. Aktørene mener at det er behov for holdningsendringer hos ulike instanser, herunder politiet, idet de ikke føler seg beskyttet i dag. Dette bekreftes også av politiets egen undersøkelse, hvor 30 prosent av respondentene i LHBTIQ+-undersøkelsen svarte at de har svært lav eller ganske lav tillit til at politiet kan ivareta behovene til LHBTIQ+-innbyggerne i Norge.[^820] Det finnes også en utrygghet i relasjonen mellom skeive og politiet.[^821]
+
+I andre halvår av 2022 viste politiet til en tredobling i antall anmeldelser av hatefulle ytringer på grunnlag av seksuell orientering, kjønnsidentitet og kjønnsuttrykk, sammenlignet med første halvår av 2022. Politiet anga at økningen kan ha sammenheng med terrorangrepet den 25. juni 2022. Det er uklart om den markante økningen skyldtes at det ble begått flere straffbare handlinger, eller om det kunne begrunnes i økt tilbøyelighet til å anmelde hatefulle ytringer.[^822]
+
+## Andre trusselutsatte
+
+Noen grupper i det norske samfunnet er marginaliserte og sårbare fordi de befinner seg i ekstremisters fiendebilder samtidig som de selv opplever å være i blindsonen til myndighetene og samfunnet for øvrig. Kommisjonen anerkjenner at dette er en utfordring, og at det er vanskelig å bli sett for grupper som allerede er marginalisert. Kommisjonen har møtt representanter for noen av disse gruppene. Det ligger i sakens natur at den etterfølgende omtalen ikke er uttømmende. Situasjonsbildet som er omtalt ovenfor, er i stadig endring, og det må også tas høyde for blindsoner som ennå ikke er avdekket.
+
+Grupper og enkeltindivider som utsettes for negativ sosial kontroll eller æresrelatert vold, støtes ut av miljøer eller utsettes for hets og trusler av ulike årsaker. Dette kan være mennesker som er særlig utsatt fordi trusselen de lever med, ofte kommer fra miljøer de vanskelig kan bryte ut av eller fjerne seg fra. Et kjent eksempel er saken der den tidligere nevnte Mohyeldeen Mohammad ble dømt til to års fengsel for trusler mot stortingspolitiker Abid Raja. Blant annet fremsatte han følgende ytringer: «Din skitne svin, må Allah brenne deg i Jahannam din uoppdratte murtad kafir hund! Du er en skam for pakkiser og muslimer, ikke kall deg muslim, for Wallahi du har INGENTING med islam å gjøre, skitne forræder!!!».[^823]
+
+Barn og unge er særlig utsatt for det som i hjelpetjenestene og regjeringens handlingsplan Frihet fra negativ sosial kontroll og æresrelatert vold, omtaler som «ekstrem kontroll».[^824]
+
+### Ahmadiyya-muslimer
+
+Ahmadiyya-muslimer ble utsatt for et terrorangrep i 1985 da en norsk nynazist sprengte en bombe ved moskéen deres, Nór, på Frogner i Oslo. Ahmadiyya er en forfulgt minoritet, og FNs menneskerettighetseksperter er utvetydige når de peker på behovet for et langt bedre beskyttelsesvern for denne minoriteten verden over.[^825] Handlingsplanen mot diskriminering av og hat mot muslimer angir at Ahmadiyya-minoriteten er utsatt i Sør-Asia og deler av Midtøsten.[^826] I et møte med kommisjonen fortalte medlemmer fra trossamfunnet at de opplever seg som en utsatt minoritet som både er gjenstand for fordommer fra majoritetssamfunnet og hat fra andre muslimer og muslimske trossamfunn i Norge.[^827] De oppfatter at andre muslimske samfunn anser Ahmadiyya som en indre trussel. Medlemmer av minoriteten mener at Norge er et trygt land å bo i, men at norske myndigheter har liten kunnskap om hvor utsatte de er, og at det mangler forståelse for at når hatet mot Ahmadiyya øker i Pakistan og i andre land, reflekteres hatet også i Norge.
+
+### Utenlandsadopterte
+
+Utenlandsadopterte er også en gruppe som opplever at de lenge har vært i en blindsone hva angår rasisme og diskriminering i storsamfunnet. 10. august 2019 drepte Philip Manshaus sin adopterte stesøster Johanne Zhangjia Ihle-Hanssen fordi han ønsket å skåne foreldrene fra den rasekrigen han mente ville komme raskt.[^828] Som tidligere nevnt ble Arve Beheim Karlsen, adoptert fra India, jaget mot og døde i Sogndalselva 24. april 1999. I lengre tid forut for hendelsen ble han utsatt for massiv rasistisk hets. Utenlandsadopterte har i møte med kommisjonen fortalt at de måtte rømme fra norske nynazister på 1990-tallet, og at de utsettes for rasisme også i dag.[^829]
+
+Videre vokser mange utenlandsadopterte opp i «norske» familier som ikke nødvendigvis har kompetanse til å kunne veilede og støtte den adopterte når hen utsettes for rasisme og diskriminering. Dette har gjort at mange har følt seg ensomme i håndteringen av disse opplevelsene. Det fortelles om tilfeller av rasisme og utrygghet i egen storfamilie. Erfaringene støttes av funn gjort av By- og regionsforskningsinstituttet NIBR ved Oslo Met, som viser at utenlandsadopterte forskjellsbehandles i samme grad som andre innvandrere, men at de har vanskelig for å bli trodd og finne støtte for dette, selv i nær familie.[^830] De har også et behov for at tjenesteapparatet skal ha større forståelse for situasjonen deres og de negative opplevelsene de har hatt. Bufetat tilbyr råd og veiledning til adopterte og deres familier etter adopsjon, herunder råd til hvordan det kan søkes innsyn i egen adopsjonssak eller råd og bistand til adopterte som vil søke etter sin opprinnelse. Også etterkommere etter adopterte kan få bistand av Bufetat. Det er også opprettet et nytt tilbud om samtalestøtte med terapeuter for adopterte over 16 år.[^831] Et av tiltakene i regjeringens handlingsplan mot rasisme og diskriminering er å styrke adoptivforeldres kunnskap om rasisme og diskriminering.[^832]
+
+### Personer med nedsatt funksjonsevne
+
+Personer med nedsatt funksjonsevne, som utgjør rundt 16 prosent av verdens befolkning og dermed er verdens største minoritet,[^833] inngår blant annet i høyreekstremes fiendebilder.[^834] I en rapport fra Norges institusjon for menneskerettigheter fra 2022 som er basert på dybdeintervjuer med personer med nedsatt funksjonsevne kom det frem at informantene utsettes for hets, trakassering og hatefulle ytringer. «Særlig de yngre informantene i undersøkelsen oppgir at de har opplevd hets og trakassering, særlig på nett. Dette gjør at flere vegrer seg for å ta del i det offentlige ordskiftet, og på annen måte benytte seg av ytringsfriheten sin».[^835] I tillegg fører mangel på tilgjengelig informasjon og fysiske barrierer til at de ikke får deltatt i det politiske liv. «\[D\]e får rett og slett ikke muligheten til å være samfunnsborgere på lik linje med oss andre».[^836]
+
+Hatkriminalitet mot personer med nedsatt funksjonsevne har vært forbudt i Norge siden 2013.[^837] I nasjonal trygghetsundersøkelse for 2020 gikk det frem at personer med nedsatt funksjonsevne er mer utsatt for hatkriminalitet enn personer uten funksjonsnedsettelse.[^838] I en rapport fra Nordlandsforskning fra 2016 kom det frem at 32 prosent av respondentene (307 av 947) hadde blitt utsatt for hatytringer. Politiets oversikt over hatkriminalitet viser at det har vært få anmeldelser av hatkriminalitet mot denne gruppen.[^839] Likestillings- og diskrimineringsombudet har uttalt at de frykter store mørketall om hatkriminalitet mot funksjonshemmede.[^840] Personer med nedsatt funksjonsevne opplever også utestenging og diskriminering i arbeidslivet.[^841] Utfordringene personer med nedsatt funksjonsevne møter er adressert i regjeringens handlingsplan Et samfunn for alle – Likestilling, demokrati og menneskerettigheter.[^842]
+
+Del III
+
+Ekstremisme i en digital tidsalder

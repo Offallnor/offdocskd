@@ -1,912 +1,134 @@
-# NOU 2022: 19, del 5 av 10 (side 58–68)
+# NOU 2022: 19, del 5 av 11
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/70d57d0c-nou-2022-19.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-19/id2950851/
 - Original-PDF: https://www.regjeringen.no/contentassets/d50144a8c2454c418f7fae33cae1751d/no/pdfs/nou202220220019000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 7 figurer, 214 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 58]
+## Forskning og kunnskapsutvikling
 
-56
+Med forarbeidene til arbeidsmiljøloven og anbefalinger om Oljedirektoratet som sentral myndighet på arbeidsmiljøområdet, ga både Industridepartementet og Kommunal- og arbeidsdepartementet Oljedirektoratet signaler om behov for utredning og forskning på arbeidsmiljøområdet.[^127] Petroleumsvirksomhet var et område man ikke hadde mye kunnskap om, og hvor det var behov for å gå dypere inn i hva denne nye virksomheten representerte av risiko for arbeidsmiljø, fysiske, psykiske og sosiale forhold mv. Med innføring av nye krav til arbeidsmiljø erkjente man også at det var stort behov for opplæring i hvordan krav i arbeidsmiljøregelverket skulle forstås og innfris, men også bedre kunnskap om hvilke konsekvenser petroleumsvirksomhet faktisk hadde for arbeidstakernes arbeidsmiljø og helse.
 
-NOU 2022: 19
+Fra midten av 1970-tallet satt Oljedirektoratet, ofte i samarbeid med andre myndigheter og FoU-miljøer, i gang en rekke FoU-prosjekter og utredninger. Dette arbeidet var ofte kombinert med opplærings- og veiledningsaktiviteter og omfattet en rekke arbeidsmiljøfaktorer, inkludert kjemisk arbeidsmiljø.[^128] Eksempler på tema var verne- og miljøarbeid, helsepersonale/helsetjeneste og bedriftshelsetjeneste, yrkeshygiene, kompetanse og kompetansekrav, arbeidstidsordninger mv. Petroleumstilsynet har funnet at denne kunnskapen ble formidlet til næringen og aktørene på konferanser, seminarer, kurs mv., og gjennom ulike typer publikasjoner, artikler og veiledninger. Det ble etablert tette koblinger mellom utvikling av forskningsbasert kunnskap og Oljedirektoratets oppfølging gjennom kontroll og reaksjonsmidler. Kunnskapen fikk også betydning for utvikling av regelverk, retningslinjer, veiledninger mv., og for mer konkrete forbedringsinitiativ rettet mot aktørene i næringen. I bevilgningene fra departementene i 1977 ble Oljedirektoratet gitt råderett til deler av den totale potten i et større forsknings- og utviklingsprogram, men størsteparten av midlene ble styrt inn mot Norges Teknisk- Naturvitenskapelige Forskningsråd (NTNF). Selv om størstedelen av forsknings- og utredningsmidlene totalt sett gikk til andre områder, som reservoar/geologi-, teknologi og sikkerhet/risiko mv., ble det også gjennomført forholdsvis store forsknings- og utredningsprosjekter på arbeidsmiljøområdet.
 
-Kapittel 7
+En nasjonal forskningsinnsats ble etablert gjennom særskilte bevilgninger til forskningsprogrammet «Sikkerhet på sokkelen 1978–1982». Arbeidsmiljø var ett av flere prioriterte områder, og programmet omfattet en rekke prosjekter og publikasjoner om arbeidsmiljø i petroleumsvirksomheten.[^129] Det ble blant annet gjennomført en spørreundersøkelse blant verneombud og tillitsvalgte i 1980. Undersøkelsen viser at det på det tidspunktet var relativt høy bevissthet om kjemisk helserisiko. Brannfarlige stoffer, støv, gasser, kjemikalier, løsemidler, etsende stoffer mv., ble av mange vurdert som viktige arbeidsmiljøfaktorer.[^130] Det var SINTEF og Rogalandsforskning som fikk midler gjennom programmet «Sikkerhet på sokkelen 1978–1982», som ellers var preget av et tett samarbeid mellom forskningsinstitusjonene, industrien, fagforeningene og myndighetene. Organisering av verneombudsordningen og arbeidsmiljøutvalg var et eksempel på tema for betydelig forskningsinnsats som senere ble reflektert i regelverket, blant annet gjennom krav til entreprenørerepresentasjon, felt-arbeidsmiljøutvalg for faste innretninger og felles stedlig arbeidsmiljøutvalg for flyttbare innretninger, se kapittel 7.8.5.
 
-7.6.4
+## Oppfølging av flyttbare innretninger
 
-Oljepionerene – en kompensasjonsordning
+Arbeidsmiljøloven ble ikke gjort gjeldende for flyttbare innretninger før i 1992. På arbeidsmiljøområdet var de flyttbare innretningene underlagt maritimt regelverk med Sjøfartsdirektoratet som tilsynsmyndighet fram til 1985, da tilsynsansvaret ble overført til Oljedirektoratet. Selv om dette regelverket hadde tatt opp i seg krav fra arbeidsmiljøloven, var det i stor grad harmonisert med internasjonalt regelverk og hadde svakere krav til arbeidsmiljø. Petroleumstilsynet har vist til at Oljedirektoratets forskrifter og tilsyn med boreanlegg og boreoperasjoner likevel medvirket til en økning i arbeidsmiljøstandard på flyttbare innretninger.[^131] Selv om det var maritimt regelverk som lå til grunn i perioden 1985 til 1992, gjennomførte Oljedirektoratet en rekke oppfølgingsaktiviteter og utøvde et tydelig påtrykk for forbedringer, se kapittel 7.8.2. Utvekslingen av borepersonell mellom faste og flyttbare innretninger bidro også til et press for lik standard. Fra fagforeningshold ble det også tatt til orde mot en praksis med ulik standard for samme aktivitet i samme næring mellom flyttbare og faste innretninger.
 
-Fagforbundenes rolle i arbeidet med
-kjemisk helserisiko
+Petroleumstilsynet peker videre på at en viktig faktor for utvikling på de flyttbare innretningene trolig var operatørselskapenes påseplikt og oppfølging. Det var operatørene som hadde overordnet ansvar for boreoperasjonene på flyttbare innretninger og det var også operatørene som ble vurdert i forbindelse med konsesjonstildeling. I forbindelse med kontrahering av en innretning ble det fra operatørselskapenes side stilt krav både til utforming, utstyr og reders systemer og oppfølgingsrutiner. Selv om sikkerhetsmessige forhold ble vektlagt, ble også arbeidsmiljøforhold etter hvert og i økende grad inkludert.
 
-rigger. Dette opplevdes ofte som vanskelig, da
-utenlandske leverandører på grunn av konkurranseforhold ikke ønsket å oppgi sammensetningsopplysninger. Kjemisk helserisiko ble fulgt opp av
-vernetjenesten, eller ved at vernetjenesten tok
-dette opp med forbundet. Det samme gjaldt for
-klubb/foreningsapparatet. Industri Energi opplyser i dag at NOPEF ikke hadde ekspertise eller
-kunnskap om kjemisk helserisiko, og anså slike
-forhold som utenfor forbundets evne og hovedoppgave.
+Det ble stadig vanskeligere å opprettholde to forskjellige regelverksregimer for en virksomhet som ble mer og mer integrert. Oljedirektoratets erfaringer ble viktige da arbeidsmiljøloven ble gjort gjeldende for flyttbare innretninger i 1992.
 
-Fram til midten av 1970-tallet var fagforbundene
-opptatt av tariffspørsmål om arbeidstid, lønn og
-stillingsvern, og prioriterte i liten grad sikkerhet
-og arbeidsmiljø. Verneombudene hadde lav status
-og det var vanskelig å rekruttere til dette vervet.
-Det var lite hjelp i fagforeningene for verneombudene, og det var vanskelig å komme videre med
-det lokale verne- og miljøarbeidet. Arbeidsmandsforbundet fikk sin første tariffavtale på mobile rigger fra 1972. Her ble det i avtalen vist til arbeidervernloven. Da Sjømannsforbundet overtok etter
-Arbeidsmandsforbundet i 1973, ble tariffavtalen,
-herunder henvisning til arbeidervernloven, også
-gjort gjeldende for de faste installasjonene. I prinsippet gjaldt kravene i arbeidervernloven derfor
-offshore allerede fra 1973.23
-I forbindelse med forarbeidet til den nye
-arbeidsmiljøloven på midten av 1970-tallet rettet
-fagforeningene offshore sin aktivitet i større grad
-mot hovedorganisasjonene i arbeidslivet, og
-hovedorganisasjonenes kontakt mot myndighetene. Det viktigste resultatet av denne aktiviteten
-var at myndighetene nedsatte Haldenutvalget,
-som fikk i oppdrag å vurdere hvordan arbeidsmiljøloven kunne tilpasses oljevirksomheten og
-hvilke kontrollordninger og -organer som skulle
-opprettes for arbeidsmiljøspørsmålene.24 Dette
-utvalget ble sammensatt av representanter for
-myndighetene, hovedorganisasjonene og forbundene på sokkelen. I forskrifter til arbeidsmiljøloven som trådte i kraft 1. juni 1979, ble det tatt inn
-en bestemmelsene om retten til å drive fagforeningsvirksomhet etter vanlig norsk praksis. En
-lignende bestemmelse var tatt inn i de generelle
-konsesjonsvilkårene ved tildeling av blokker på
-norsk sokkel. Med dette ble det lovmessige
-grunnlaget for å drive omfattende sikkerhets- og
-vernearbeid på norsk sokkel basert på de ansattes
-medvirkning og myndighetens kontroll lagt.
-NOPEF opprettet en HMS-avdeling i 1991.
-Avdelingen arbeidet med forskjellige HMS-problemstillinger, som sikkerhet, regelverk og kontakt med verneombud. Mange lokale foreninger
-og verneombud arbeidet for bedre ventilasjon og
-korrekte datablader for kjemikaliene som ble
-anvendt i boreslammet på installasjoner og bore-
+## Partenes organisering og oppfølging
 
-Oppfølging av arbeidsmiljøet på 1970- og 1980-tallet, og særlig helseskader relatert til kjemisk
-eksponering i arbeidet, har også vært en viktig
-problemstilling i andre bransjer enn i petroleumsnæringen. Fram til 1970-årene var arbeidervern
-først og fremst et spørsmål om å unngå akutte
-skader som fall og kuttskader, både i petroleumsnæringen og i arbeidslivet for øvrig. Standarden
-på arbeidsplassene innen bygg og anlegg, i verksteder, bergverk, smelteverk mv., var ofte beskjeden og kunne variere mye fra virksomhet til virksomhet.25 Innen yrkeshygiene var man opptatt av
-akutte forgiftninger. Arbeidstilsynet startet i 1947
-et laboratorium for kjemisk analyse og vurdering
-av eksponering i norsk arbeidsliv. I 1963 ble
-Yrkeshygienisk institutt (senere STAMI) opprettet med utgangspunkt i dette miljøet, underlagt
-Kommunal- og arbeidsdepartementet. Produktregisteret ble opprettet i 1981 og er norske myndigheters sentrale register over kjemikalier som
-importeres til og produseres i Norge. Registeret
-gir myndighetene tilgang til opplysninger om
-deklareringspliktige kjemikalier som brukes i
-Norge i et visst omfang, og brukes i arbeidet med
-å redusere bruk, eksponering, skade og utslipp av
-helse- og miljøfarlige stoffer.
-Øyvind Bjørnson beskriver i boken «100 år for
-bedre arbeidsmiljø» hvordan langtidsvirkninger
-etter den industrielle utvikling etter 1945 fikk oppmerksomhet fra tidlig på 1970-tallet.26 Dette ga
-grunnlag for en omfattende arbeidsmiljødebatt på
-1970-tallet.27 Mest oppmerksomhet fikk følgene
-av bruken av kjemiske stoffer. Nye produksjons-
+### Selskapenes organisering – arbeidsgiversiden
 
-23
+På arbeidsgiversiden var det fra oppstarten av petroleumsvirksomheten behov for felles organisering. North Sea Operators’ Committee ble etablert i 1965, som en sammenslutning av de sju daværende operatørselskapene på sokkelen. Komitéen skulle samordne tekniske og næringspolitiske interesser, og også arbeidsgiverrelaterte interesser. I 1979 ble arbeidsgiverdelen skilt ut som en egen organisasjon: Norske Operatørselskapers Arbeidsgiverforening (NOAF). I 1989 ble NOAF en del av det nyetablerte Oljeindustriens Landsforening (OLF), tilsluttet Næringslivets Hovedorganisasjon (NHO). OLF skiftet igjen navn i 2012 til Norsk olje og gass og til Offshore Norge i 2022. I dag er Offshore Norge en sammenslutning av over 100 virksomheter innen ulike aktiviteter på norsk sokkel. Organisasjonen skal ivareta felles interesser overfor både myndigheter, arbeidstakerorganisasjoner og andre samfunnsinstitusjoner.
 
-25
+Norsk Industri er en arbeidsgiverorganisasjon for industrien i Norge. Organisasjonen ble etablert i 2006, og er den største landsforeningen i NHO. Norsk Industri er en sammenslåing av Teknologibedriftenes landsforening (TBL) og Prosessindustriens Landsforening (PIL). Begge organisasjonene har røtter tilbake til opprettelsen av de første landsomfattende tariffavtalene i Norge tidlig på 1900-tallet. Norsk Industri har medlemsbedrifter innenfor alle typer fastlandsindustri med unntak for næringsmiddelindustrien, og organiserer selskaper innenfor landbasert petroleum, og også leverandørindustri til olje og gass offshore.
 
-24
+Norsk Petroleumsforening ble grunnlagt i 1972 som en medlemsorganisasjon for alle med interesse for petroleumsvirksomheten. Formålet var å skape nettverk og møteplasser for kunnskapsutveksling, blant annet gjennom organisering av konferanser. Foreningen var en av initiativtakerne til etablering av konferansen Offshore Northern Seas (ONS), som har vært arrangert i Stavanger annet hvert år siden 1974.
 
-Karlsen, 1982.
-NOU 1976: 40 Arbeidsmiljøet på kontinentalsokkelen (Halden I).
-NOU 1977: 36 Arbeidsmiljøet på kontinentalsokkelen (Halden II).
+### Selskapenes oppfølging av kjemisk helserisiko
 
-7.7
+Kommisjonen har innhentet skriftlig informasjon fra selskapene Equinor og ConocoPhillips om selskapenes oppfølging av kjemisk arbeidsmiljø fra oppstarten av norsk petroleumsvirksomhet. Redegjørelsen i kapittel 7.6.2 bygger på innspillene fra disse selskapene om aktivitet med hensyn til kompetanseutvikling og arbeidsmiljøtiltak på dette området.
 
-26
-27
+Kompetanse
 
-Arbeidsmiljø i andre næringer i den
-tidlige perioden
+Kommisjonen har fra selskapene fått opplyst at det fra oppstarten var ansatt og innleid medisinsk personell i operatørselskapene for å dekke akuttmedisinske behov ved skader og sykdom. Etter hvert bygget selskapene opp kompetanse og utviklet sterke fagmiljøer innen yrkeshygiene og arbeidsmedisin.
 
-Innlegg for kommisjonen fra flere tidligere helsepersonell
-med erfaringer fra pionertiden offshore.
-Bjørnson, 1993.
-Ot.prp. nr. 50 (1993–94) Om lov om endringer i lov 4.
-februar 1977 nr. 4 om arbeidervern og arbeidsmiljø mv.
+På slutten av 1970-tallet ble det prioritert å bygge opp helsetjenesten, rekruttere sykepleiere, yrkeshygienikere, leger og ergonomer. Sykepleiere ble stasjonert på hver av de faste innretningene og på land. I 1979/80 ble det ansatt to yrkeshygienikere i industrien og en i Oljedirektoratet. Dette ble starten på en profesjonalisering av risikovurderinger og økt oppmerksomhet på arbeidsmiljøfaktorer generelt og langtidseffekter spesielt. De amerikanske selskapene støttet i hovedsak denne utviklingen. Ledelsen var innforstått med at eksponering måtte kartlegges og resultatene dokumenteres. Dersom arbeidstakere ble eksponert ut over grenseverdier, kunne selskapet risikere å måtte utbetale store erstatningsbeløp.
 
-[Side 59]
+I Statoil var yrkeshygienisk og arbeidsmedisinsk kompetanse i bruk fra tidlig på 1980-tallet. I utbyggingen av feltene på 1980-tallet (Statfjord, Gullfaks mv.) var yrkeshygienisk kompetanse tilgjengelig og bidro til at innretningen ble utformet og utstyrt i henhold til gjeldende kunnskap om arbeidsmiljø.
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+Phillips Petroleum Company Norway gjennomførte yrkeshygieniske målinger fra begynnelsen av 1980-tallet. Målingene som ble gjennomført var fullskifts-målinger av aromatiske hydrokarboner (BTEX) ved bruk av 3M dosimeter. Dosimetrene ble analysert ved laboratorier i USA.
 
-metoder, bruken av kjemikalier og høyt arbeidstempo hadde ført til arbeidsrelaterte helseskader,
-spesielt i industrien. Særlig bidro kreftrapportene
-fra Falconbridge Nikkelverk på begynnelsen av
-1970-tallet til stor uro. Krav om mer forskning og
-informasjon, overvåking og kontroll sto sentralt i
-debatten om helseskader i tilknytning til bruk av
-kjemikalier.
-En annen problemstilling var om arbeidstakerne ble umyndiggjort i forhold til «eksperter»
-og ledelsen i virksomhetene i spørsmål som gjaldt
-arbeidsmiljøet. Arbeidsmiljøengasjementet ble i
-stor grad båret fram av grunnplanet i fagbevegelsen og var et samarbeid mellom den faglige og
-den politiske delen av arbeiderbevegelsen. Sentrale samarbeidsprosjekter, som blant annet LO/
-DNAs fellesprogram for et bedre arbeidsmiljø fra
-1973, ble viktige grunnlag for arbeidsmiljøreformen i 1977. Arbeidsmiljøloven ble delvis basert på
-det etablerte samarbeidet mellom arbeidstakere,
-arbeidsgivere og myndighetene, samtidig som
-tyngdepunktet i dette trepartssamarbeidet ble
-skjøvet over på partene i virksomheten. Som i
-petroleumsvirksomheten, var det i norsk arbeidsliv for øvrig en rekke streiker hvor lønnskrav sto
-sentralt, men umyndiggjøring og arbeidsmiljø
-spilte også en sentral rolle. Utover 1970-tallet ble
-det i økende grad lagt vekt på å forebygge arbeidsrelaterte helseskader, framfor at arbeidstakerne
-skulle ha økonomisk kompensasjon for risiko i
-arbeidsmiljøet. På samme tid var det også en
-økende interesse for å forebygge skader på ytre
-miljø. Gjennom oppmerksomheten på ytre miljø,
-fikk fagbevegelsen også økt bevissthet på kjemiske stoffer og hvordan disse kunne ødelegge
-naturen.
-Det finnes ikke nasjonal statistikk på bransjenivå som gjør at man direkte kan sammenligne
-HMS-nivået i petroleumsvirksomheten med andre
-tilsvarende sektorer/bransjer i Norge i pionertiden eller i dag. Det er imidlertid flere eksempler
-på saker der arbeidstakerne i landbasert arbeidsliv parallelt med den tidlige fasen av petroleumsvirksomheten fikk alvorlige og varige helseskader på grunn av kjemisk eksponering i
-arbeidsmiljøet, herunder:
+På 1980-tallet benyttet Phillips eksterne yrkeshygieniske konsulenter som bidro med vurderinger av kjemikaliebruk og verneutstyr. Blant annet ble det gjort vurderinger av borerigger hvor det skulle brukes oljebasert boreslam. Den første yrkeshygienikeren i Phillips ble ansatt 1986, og Phillips benyttet i likhet med andre utenlandske selskaper moderselskapets kompetanse til laboratorieanalyser, faglige vurderinger og kurs/opplæring. Hovedkontoret i Bartlesville hadde en egen yrkeshygienisk avdeling fra tidlig på 1970-tallet. De hadde eget laboratorium knyttet til selskapets forskningssenter. I fagavdelingen i USA arbeidet yrkeshygienikeren og toksikologer. Selskapet hadde interne grenseverdier for kjemiske agens og databaseløsninger for oppbevaring av yrkeshygieniske data.
 
-7.7.1 Nikkelforbindelser
-En undersøkelse av tidligere og daværende
-ansatte ved Falconbridge Nikkelverk i Kristiansand i 1972 viste at det var høy risiko for at de
-ansatte ved virksomheten skulle utvikle kreft.28
-Det ble vist til sammenheng mellom visse nikkelforbindelser og økt risiko for utvikling av kreft i
+I operatørselskapene ble det tidlig ansatt leger, og på innretningene var det pålagt med sykepleier om bord. Primært var dette for å ivareta medisinsk beredskap og medisinsk assistanse ved personskader og akutt sykdom. Personell med spesialisering innen akuttmedisin/anestesi ble foretrukket. Legene som ikke spesifikt hadde arbeidsmedisinsk kunnskap og erfaring var i stor grad pådrivere for å få ansatt yrkeshygienikere når dette behovet oppsto, dels gjennom krav i regelverket og dels gjennom arbeidsmiljøsaker som oppsto og utviklet seg på innretningene til havs. En rekke offshoresykepleiere tok videreutdanning i arbeidsmiljø. Det var vanlig at det var sykepleiernes oppgave å vedlikeholde kjemikaliekartoteket og bidra til at informasjonen ble brukt forebyggende i planlegging av arbeid.
 
-57
+Saker som selskapene arbeidet med
 
-Kapittel 7
+Med arbeidsmiljøloven i 1977 ble det organiserte vernearbeidet viktig for å identifisere og reise saker overfor selskapets ledelse. En rekke av disse sakene handlet om kjemisk helsefare. I de utenlandske selskapene var det lite tradisjon for formalisert arbeidstakermedvirkning, og det tok tid før ordningene ble innarbeidet og fungerte i henhold til intensjonen i arbeidsmiljøloven. I Oljedirektoratets årsrapport fra 1984 framgår det at det var varierende etterlevelse av regelverkskravene på dette området.
 
-nese, bihuler og lunge. Risikoen for lungekreft i
-hele gruppen av nikkelarbeidere var 4–5 ganger
-høyere enn i befolkningen, og forekomsten av
-nese-bihulekreft var økt med en faktor på rundt
-30. Produksjonsarbeiderne hadde høyest risiko.
-Funnet av økt kreftrisiko ble en kraftig vekker for
-norske medisinske fagmiljøer. Mange trodde det
-ville være umulig å påvise kreftfare i norsk
-arbeidsliv, og studien fra nikkelverket sjokkerte
-både myndighetene og allmenheten.29 Det kom
-videre fram at det lenge hadde vært kjent blant
-eksperter og ledelsen ved virksomheten at
-arbeidsmiljøet ved Falconbridge var dårlig. Kreftfaren hadde vært omtalt i tidligere rapporter, uten
-at det ble lagt særskilt vekt på dette. Arbeidstilsynet fulgte heller ikke opp saken før 1975, da Falconbridge fikk pålegg om omlegging av driften og
-bruk av verneutstyr, med frist 1. januar 1979.
+Det ble gjort et omfattende arbeid i næringen fra 1980-tallet med å få oversikt over og bedre kvalitet på yrkeshygieniske datablader. Dette ble ansett som viktige informasjonskilder for operativt personell på innretningen, men også for sykepleiere for medisinske formål og for ledelsen i forbindelse med planlegging. Det ble tidlig gjort en kobling mellom systemet for arbeidstillatelser og yrkeshygieniske datablader. En arbeidstillatelse som innebar bruk av kjemikalier ble stiftet sammen med databladene, og arbeidstakerne hadde instruks om å lese disse og ta forholdsregler.
 
-7.7.2 Seksverdig krom
-Waardal Kjemiske Fabrikk produserte sinkfosfat
-og sinkkromat, brukt som antirustmiddel i
-maling. Sinkkromat inneholder det kreftfremkallende stoffet seksverdig krom. I 1975 la Yrkeshygienisk institutt fram en undersøkelse som viste
-sammenheng mellom kromatstøvet på arbeidsplassen og overhyppighet av kreft, særlig lungekreft. Risikoen for lungekreft var 38 ganger større
-for arbeidstakere som hadde arbeidet i fabrikken i
-tre år eller mer, enn i befolkningen for øvrig. De
-som hadde arbeidet i fabrikken i fem år eller mer,
-hadde 54 ganger større risiko for lungekreft. Virksomheten fikk kritikk for manglende vilje til å
-etterkomme pålegg fra Arbeidstilsynet, og tilsynet
-fikk kritikk for å ikke ha kontrollert at virksomheten fulgte opp påleggene den hadde fått.30
-7.7.3 Asbest
-I 1975 gjennomførte Kreftregisteret en undersøkelse av kreftforekomst blant arbeidstakere ved
-Norsk Eternitfabrikk på Slemmestad.31 Med oppfølgingstid fra 1953 til 1975 observerte man økt
-kreftrisiko totalt og spesielt økt forekomst av lungekreft. De første resultatene ble rapportert i
-1976 og er videreført gjennom en ny undersøkelse
-hvor kohorten er fulgt opp fram til 1999. Nesten
-halvparten hadde vært ansatt i 10 år eller mer, og
-28
-29
-30
-31
+Selskapene ble tidlig klar over at kvaliteten på yrkeshygieniske datablader var mangelfull. Særlig gjaldt dette importerte kjemikalier og informasjon om innhold i kjemikaliene. De brukte enkeltvis og sammen store ressurser på å få orden på kjemikaliekartoteket.
 
-Pedersen, Hogetveit og Andersen, 1973.
-Kreftregisteret, 2016.
-Bjørnson, 1993.
-Kreftregisteret, 2016.
+Arbeidet med yrkeshygieniske datablader skapte oppmerksomhet og bevissthet omkring hvor mange og hvor farlige kjemikalier som faktisk var i bruk. Dette ble utgangspunkt for kartlegginger, men også for utvikling av selskapenes innkjøpssystemer. Helseskadelige kjemikalier ble «rødlistet» og krevde spesielle tillatelser for å kunne kjøpes inn. Det ble aktivt lett etter mindre helseskadelige kjemikalier med sikte på substitusjon. Blykromatholdig maling og kvarts i sand brukt til sandblåsing ble for eksempel forbudt i 1984.
 
-[Side 60]
+Særlig oppmerksomhet var det fra selskapenes side på kjemikalier som hadde kreftfremkallende komponenter. På 1970- og 1980-tallet var asbest et viktig tema, særlig for selskapene som stod for de første utbyggingene. Asbest hadde en rekke bruksområder og egenskaper som gjorde det til et attraktivt og robust materiale på innretningene til havs. I den tidlige utbyggingsfasen på Ekofisk og Frigg ble det benyttet mye asbest og kunnskapen omkring helsefarene var begrenset, og til dels kontroversiell. Da forbudet mot asbest ble gitt ved et enkeltvedtak i 1980 var petroleumsnæringen i hovedsak klar til å oppfylle kravet og hadde utviklet prosedyrer for sikker håndtering og fjerning av asbest og fått inn asbestforbud i sine spesifikasjoner for bygging og innkjøp. Totalforbudet mot asbest nasjonalt ble innført i 1985. Oljedirektoratet utarbeidet tidlig en veiledning om håndtering av asbest. Likevel har bruken av asbest vært omfattende, og det oppdages fremdeles asbest som ikke tidligere har blitt påvist.
 
-58
+Når det gjelder benzen har petroleumsnæringen i stor grad lagt til grunn strengere grenseverdier enn Arbeidstilsynets administrative normer. En gjennomgang i 2010[^132] viser at omfanget av historiske målinger er begrenset og en rekke kilder til benzeneksponering var fram til det tidspunktet ikke undersøkt. Statoil hadde i 2006 registrert 69 kartleggingsrapporter med 20 eksponeringsmålinger i tidsrommet 1985–1995. Først etter 2015 ble det gjennomført en mer helhetlig kartlegging av benzeneksponering hvor kildene til benzeneksponering ble systematisk undersøkt og kartlagt.
 
-NOU 2022: 19
+For kjemisk eksponering har selskapene i stor grad lagt til grunn grenseverdier fra American Conference of Governmental Industrial Hygiene (ACGIH), der disse har vært strengere enn Arbeidstilsynets administrative normer fra samme periode. Selskapene investerte gradvis mer i utformingsløsninger og teknologi som skapte bedre flyt i arbeidsprosessene og mer automatisering. I de fleste tilfellene medførte dette økt personsikkerhet og bedre arbeidsmiljø. Automatisering medførte oftest at personell ble flyttet vekk fra farlig arbeid og skadelig eksponering.
 
-Kapittel 7
+På 1980-tallet var det spesielt i de nordiske landene mye oppmerksomhet rettet mot varige langtidseffekter på sentralnervesystemet etter eksponering av løsemidler. I petroleumsvirksomheten hadde selskapene særlig søkelys på malere, mekanikere, elektrikere, automatikere og enkelte posisjoner i boring (tårnmenn). Det ble i mindre grad lagt vekt på løsemiddelegenskapene til råolje og naturgass. I hovedsak konkluderte selskapene i sine kartlegginger og vurderinger med at eksponeringen for løsemidler var for lav, for sporadisk eller for kortvarig til at de utgjorde en høy risiko for løsemiddelskade. I tillegg hevdet selskapene at det ble brukt tidsmessig verneutstyr som en ekstra forsikring og at bruk av verneutstyr var en del av en systematisk tilnærming som inkluderte valg av utstyr, opplæring, vedlikehold og oppfølging. Det ble også rettet oppmerksomhet mot overflatebehandling, og særlig bruk av isocyanatholdige malingsystemer. I de fleste selskapene førte dette etter hvert til forbud mot bruk av isocyanatholdige systemer for overflatebehandling.
 
-Oljepionerene – en kompensasjonsordning
+Sveising var også et tema som det ble jobbet mye med i det yrkeshygieniske fagmiljøet, og mange anbefalinger ble gitt for å forbedre sveisernes arbeidsmiljø. Tidlig på 1990-tallet ble det noe oppmerksomhet rundt tilsetningsstoffer i oljer brukt i turbiner på innretningene. Innenfor boring og brønn er det særlig eksponering for oljedamp og oljetåke som har fått oppmerksomhet.
 
-tid siden siste eksponering var minimum 20 år.
-Forekomsten av lungehinnekreft (mesoteliom)
-var mer enn 50 ganger høyere enn i den øvrige
-mannlige befolkningen og risiko for lungekreft
-var tredoblet.
-Det er gjennomført studier av kreftrisiko blant
-kvinnelige papir- og cellulosearbeidere i Norge i
-perioden 1920–1993. Studiene viste en økt risiko
-for kreft i eggstokker hos de med tre år eller lengre ansettelse, spesielt blant kvinner som arbeidet
-med papirsortering. Dette funnet ble fulgt opp i en
-kasus-kontrollstudie hvor man prøvde å kartlegge
-eksponering for asbest gjennom dybdeintervjuer.
-Resultatene viste en høyere risiko for eggstokkreft hos kvinner som hadde vært utsatt for asbesteksponering sammenlignet med kvinner uten
-eksponering. Resultatene fra disse norske studiene har blitt benyttet i IARCs arbeid med klassifikasjon av asbest som sikkert kreftfremkallende,
-og asbest blir nå ansett å kunne forårsake lungekreft, lungehinnekreft, strupekreft og eggstokkreft.32
+Etter at det kom retningslinjer og i 1985 forskriftsfestede krav om internkontroll, arbeidet selskapene med utvikling av styringssystem primært for sikkerhet, men etter hvert også arbeidsmiljø.
 
-eksponeringstid på sju år i fulltidsarbeid med løsemidler være tilstrekkelig til å framkalle slike skader. Skadene oppstår under eksponering, og funksjonstapet kan bestå helt eller delvis i ettertiden,
-også etter opphørt eksponering. Det er vanlig at
-skadelidte må slutte i arbeid på grunn av nedsatt
-arbeidsevne relatert til skadene når disse opptrer,
-slik at symptomdebut raskt følges av sykmelding
-som så følges av uførepensjonering. Ved utredning har man særlig lagt vekt på om den skadelidte har opplevd ruseffekt av løsemidler under
-arbeid, som en indikator på særskilt høy eksponering.
+### Arbeidstakernes organisering
 
-7.7.5
+I LO var det i den tidlige fasen av norsk petroleumsvirksomhet mye diskusjon om hvilke forbund som skulle ha hovedansvaret og organisere oljearbeiderne. Mange oljearbeidere hadde bakgrunn i industrien. I 1972 var 85 prosent av ansatte på norske rigger organisert i LO-forbundene Norsk Jern- og Metallarbeiderforbund, Norsk Arbeidsmandsforbund, Norsk Kjemisk Industriarbeiderforbund, Norsk Sjømannsforbund, Norsk Sjøoffisersforbund og Det norske maskinistforbund. Arbeidsmandsforbundet hadde organisasjonsansvaret for borepersonell, som fikk tariffavtale fra 1967. Borepersonellet var tilsluttet bransjeavtalen for anleggsvirksomhet, som ga oppsigelsesvern og tariffavtale som regulerte lønnsnivået.[^133] Det ble også tidlig dannet en rekke «husforeninger» for ansatte, tilknyttet enkelte operatørselskap. Ekofisk-Komiteen for Phillips-ansatte var den første av slike husforeninger, etablert i 1973.
 
-Erstatninger etter avtaler og forlik
-mellom partene
-I noen saker der eksponeringer i arbeidsmiljøet
-har ført til alvorlige helseskader blant arbeidstakerne, er det inngått avtaler mellom partene i virksomheten om særskilte erstatningsordninger.33
-Sakene ved Norsk Eternit Fabrik og Falconbridge
-Nikkelverk er eksempler på slike ordninger, se
-kapittel 7.7.1 og 7.7.3.
+Det LO-tilsluttede Norsk Olje- og Petrokjemisk Fagforbund (NOPEF) ble stiftet i 1977 for å organisere alle lønnstakere i petroleumsnæringen, uansett yrkesbakgrunn. I september 2006 slo NOPEF og Norsk Kjemisk Industriarbeiderforbund seg sammen og dannet det nye forbundet Industri Energi.
 
-7.7.4 Løsemidler
-De arbeidstakerne som har vært høyest eksponert for løsemidler har gjerne arbeidet med avfetting eller sprøyting med løsemiddelholdige produkter. Typiske yrker og bransjer hvor enkelte
-arbeidsoppgaver har medført høy eksponering for
-løsemidler er verkstedarbeidere, industrimalere,
-trykkerier (spesielt silketrykk) og GUP-industrien (glassfiberarmert plast). På midten av 1970tallet hadde virksomhetene lite kunnskap om skadevirkninger av løsemiddelbruk på kort og lang
-sikt, og om tiltak for å forebygge løsemiddelskader. I årene fra 1980 og utover ble det fra Arbeidstilsynet satt et betydelig fokus på maleres eksponering for løsemidler og mulig løsemiddelskade
-på sentralnervesystemet. Det ble meldt en rekke
-tilfeller av mistenkt yrkessykdom på grunn av
-løsemiddelskader i forbindelse med at problemstillingen ble kjent i bransjer med løsemiddeleksponering. Ved daglig eksponering for løsemidler
-over flere år så man at en rekke arbeidstakere fikk
-symptomer fra nervesystemet, og særskilt gikk
-dette ut over korttidshukommelse og konsentrasjonsevne. I dag har man internasjonalt anerkjent
-kunnskap om slike løsemiddelskader som tilsier
-at en eksponeringstid på 10–15 år i løsemiddelatmosfære kan føre til slike skader, og det er anerkjent at ved særskilt høy eksponering kan en
+Ekofisk-Komiteen gikk i 1977 sammen med husforeningen Statfjordansattes Forening (SAF) i Mobil og Elf Aquitaine Norway Offshore Forening (EANOR) i Elf og dannet paraplyorganisasjonen Operatørfagforeningenes samarbeidsutvalg (OFS). I 2005 gikk OFS sammen med YS og etablerte Sammenslutningen av Fagorganiserte i Energisektoren; SAFE.
 
-I 1982 anla i alt 31 arbeidstakere og etterlatte etter
-arbeidstakere ved Norsk Eternit Fabrik på Slemmestad sak mot A/S Norcem med krav om erstatning. Det ble hevdet at de skadde og døde
-arbeidstakerne hadde pådratt seg asbestose, lungekreft og kreft i brysthinnen mv. som følge av
-asbeststøvpåvirkning i arbeidet ved den Norcemeide eternittfabrikken. Etter rettsforhandlinger
-høsten 1983, ble det inngått forlik mellom partene. I henhold til forliket forpliktet Norcem seg til
-å utbetale et samlet beløp på 3 700 000 kroner til
-fordeling blant saksøkerne for sykdomstilfelle
-godkjent som yrkessykdom av Rikstrygdeverket i
-henhold til folketrygdloven kapittel 11. Beløpet
-var ment å kompensere for tapt arbeidsfortjeneste, tap i framtidig erverv, påløpte utgifter,
-menerstatning og tap av forsørger. Den totale
-erstatningssummen ble skjønnsmessig fordelt på
-de erstatningsberettigede på grunnlag av alminnelige erstatningsutmålingsprinsipper. Det var enighet om at erstatningsutbetalingen ikke innebar
-noen erkjennelse av rettslig ansvar for fabrikken
-og dens ledere, og at utbetalingen skjedde uten
-erkjennelse av rettslig ansvar for de sykdomstilfellene saken gjaldt.
+Selv om NOPEF og OFS etter hvert ble de to viktigste aktørene, var arbeidslivet på sokkelen preget av en stor oppsplitting i ulike arbeidstakerorganisasjoner. I 1981 var det 15 og i 1986 over 20 ulike organisasjoner for arbeidstakere i petroleumsnæringen.
 
-32
+### Fagforbundenes rolle i arbeidet med kjemisk helserisiko
 
-33
+Fram til midten av 1970-tallet var fagforbundene opptatt av tariffspørsmål om arbeidstid, lønn og stillingsvern, og prioriterte i liten grad sikkerhet og arbeidsmiljø. Verneombudene hadde lav status og det var vanskelig å rekruttere til dette vervet. Det var lite hjelp i fagforeningene for verneombudene, og det var vanskelig å komme videre med det lokale verne- og miljøarbeidet. Arbeidsmandsforbundet fikk sin første tariffavtale på mobile rigger fra 1972. Her ble det i avtalen vist til arbeidervernloven. Da Sjømannsforbundet overtok etter Arbeidsmandsforbundet i 1973, ble tariffavtalen, herunder henvisning til arbeidervernloven, også gjort gjeldende for de faste installasjonene. I prinsippet gjaldt kravene i arbeidervernloven derfor offshore allerede fra 1973.[^134]
 
-Kreftregisteret, 2016.
+I forbindelse med forarbeidet til den nye arbeidsmiljøloven på midten av 1970-tallet rettet fagforeningene offshore sin aktivitet i større grad mot hovedorganisasjonene i arbeidslivet, og hovedorganisasjonenes kontakt mot myndighetene. Det viktigste resultatet av denne aktiviteten var at myndighetene nedsatte Haldenutvalget, som fikk i oppdrag å vurdere hvordan arbeidsmiljøloven kunne tilpasses oljevirksomheten og hvilke kontrollordninger og -organer som skulle opprettes for arbeidsmiljøspørsmålene.[^135] Dette utvalget ble sammensatt av representanter for myndighetene, hovedorganisasjonene og forbundene på sokkelen. I forskrifter til arbeidsmiljøloven som trådte i kraft 1. juni 1979, ble det tatt inn en bestemmelsene om retten til å drive fagforeningsvirksomhet etter vanlig norsk praksis. En lignende bestemmelse var tatt inn i de generelle konsesjonsvilkårene ved tildeling av blokker på norsk sokkel. Med dette ble det lovmessige grunnlaget for å drive omfattende sikkerhets- og vernearbeid på norsk sokkel basert på de ansattes medvirkning og myndighetens kontroll lagt.
+
+NOPEF opprettet en HMS-avdeling i 1991. Avdelingen arbeidet med forskjellige HMS-problemstillinger, som sikkerhet, regelverk og kontakt med verneombud. Mange lokale foreninger og verneombud arbeidet for bedre ventilasjon og korrekte datablader for kjemikaliene som ble anvendt i boreslammet på installasjoner og borerigger. Dette opplevdes ofte som vanskelig, da utenlandske leverandører på grunn av konkurranseforhold ikke ønsket å oppgi sammensetningsopplysninger. Kjemisk helserisiko ble fulgt opp av vernetjenesten, eller ved at vernetjenesten tok dette opp med forbundet. Det samme gjaldt for klubb/foreningsapparatet. Industri Energi opplyser i dag at NOPEF ikke hadde ekspertise eller kunnskap om kjemisk helserisiko, og anså slike forhold som utenfor forbundets evne og hovedoppgave.
+
+## Arbeidsmiljø i andre næringer i den tidlige perioden
+
+Oppfølging av arbeidsmiljøet på 1970- og 1980-tallet, og særlig helseskader relatert til kjemisk eksponering i arbeidet, har også vært en viktig problemstilling i andre bransjer enn i petroleumsnæringen. Fram til 1970-årene var arbeidervern først og fremst et spørsmål om å unngå akutte skader som fall og kuttskader, både i petroleumsnæringen og i arbeidslivet for øvrig. Standarden på arbeidsplassene innen bygg og anlegg, i verksteder, bergverk, smelteverk mv., var ofte beskjeden og kunne variere mye fra virksomhet til virksomhet.[^136] Innen yrkeshygiene var man opptatt av akutte forgiftninger. Arbeidstilsynet startet i 1947 et laboratorium for kjemisk analyse og vurdering av eksponering i norsk arbeidsliv. I 1963 ble Yrkeshygienisk institutt (senere STAMI) opprettet med utgangspunkt i dette miljøet, underlagt Kommunal- og arbeidsdepartementet. Produktregisteret ble opprettet i 1981 og er norske myndigheters sentrale register over kjemikalier som importeres til og produseres i Norge. Registeret gir myndighetene tilgang til opplysninger om deklareringspliktige kjemikalier som brukes i Norge i et visst omfang, og brukes i arbeidet med å redusere bruk, eksponering, skade og utslipp av helse- og miljøfarlige stoffer.
+
+Øyvind Bjørnson beskriver i boken «100 år for bedre arbeidsmiljø» hvordan langtidsvirkninger etter den industrielle utvikling etter 1945 fikk oppmerksomhet fra tidlig på 1970-tallet.[^137] Dette ga grunnlag for en omfattende arbeidsmiljødebatt på 1970-tallet.[^138] Mest oppmerksomhet fikk følgene av bruken av kjemiske stoffer. Nye produksjonsmetoder, bruken av kjemikalier og høyt arbeidstempo hadde ført til arbeidsrelaterte helseskader, spesielt i industrien. Særlig bidro kreftrapportene fra Falconbridge Nikkelverk på begynnelsen av 1970-tallet til stor uro. Krav om mer forskning og informasjon, overvåking og kontroll sto sentralt i debatten om helseskader i tilknytning til bruk av kjemikalier.
+
+En annen problemstilling var om arbeidstakerne ble umyndiggjort i forhold til «eksperter» og ledelsen i virksomhetene i spørsmål som gjaldt arbeidsmiljøet. Arbeidsmiljøengasjementet ble i stor grad båret fram av grunnplanet i fagbevegelsen og var et samarbeid mellom den faglige og den politiske delen av arbeiderbevegelsen. Sentrale samarbeidsprosjekter, som blant annet LO/DNAs fellesprogram for et bedre arbeidsmiljø fra 1973, ble viktige grunnlag for arbeidsmiljøreformen i 1977. Arbeidsmiljøloven ble delvis basert på det etablerte samarbeidet mellom arbeidstakere, arbeidsgivere og myndighetene, samtidig som tyngdepunktet i dette trepartssamarbeidet ble skjøvet over på partene i virksomheten. Som i petroleumsvirksomheten, var det i norsk arbeidsliv for øvrig en rekke streiker hvor lønnskrav sto sentralt, men umyndiggjøring og arbeidsmiljø spilte også en sentral rolle. Utover 1970-tallet ble det i økende grad lagt vekt på å forebygge arbeidsrelaterte helseskader, framfor at arbeidstakerne skulle ha økonomisk kompensasjon for risiko i arbeidsmiljøet. På samme tid var det også en økende interesse for å forebygge skader på ytre miljø. Gjennom oppmerksomheten på ytre miljø, fikk fagbevegelsen også økt bevissthet på kjemiske stoffer og hvordan disse kunne ødelegge naturen.
+
+Det finnes ikke nasjonal statistikk på bransjenivå som gjør at man direkte kan sammenligne HMS-nivået i petroleumsvirksomheten med andre tilsvarende sektorer/bransjer i Norge i pionertiden eller i dag. Det er imidlertid flere eksempler på saker der arbeidstakerne i landbasert arbeidsliv parallelt med den tidlige fasen av petroleumsvirksomheten fikk alvorlige og varige helseskader på grunn av kjemisk eksponering i arbeidsmiljøet, herunder:
+
+### Nikkelforbindelser
+
+En undersøkelse av tidligere og daværende ansatte ved Falconbridge Nikkelverk i Kristiansand i 1972 viste at det var høy risiko for at de ansatte ved virksomheten skulle utvikle kreft.[^139] Det ble vist til sammenheng mellom visse nikkelforbindelser og økt risiko for utvikling av kreft i nese, bihuler og lunge. Risikoen for lungekreft i hele gruppen av nikkelarbeidere var 4–5 ganger høyere enn i befolkningen, og forekomsten av nese-bihulekreft var økt med en faktor på rundt 30. Produksjonsarbeiderne hadde høyest risiko. Funnet av økt kreftrisiko ble en kraftig vekker for norske medisinske fagmiljøer. Mange trodde det ville være umulig å påvise kreftfare i norsk arbeidsliv, og studien fra nikkelverket sjokkerte både myndighetene og allmenheten.[^140] Det kom videre fram at det lenge hadde vært kjent blant eksperter og ledelsen ved virksomheten at arbeidsmiljøet ved Falconbridge var dårlig. Kreftfaren hadde vært omtalt i tidligere rapporter, uten at det ble lagt særskilt vekt på dette. Arbeidstilsynet fulgte heller ikke opp saken før 1975, da Falconbridge fikk pålegg om omlegging av driften og bruk av verneutstyr, med frist 1. januar 1979.
+
+### Seksverdig krom
+
+Waardal Kjemiske Fabrikk produserte sinkfosfat og sinkkromat, brukt som antirustmiddel i maling. Sinkkromat inneholder det kreftfremkallende stoffet seksverdig krom. I 1975 la Yrkeshygienisk institutt fram en undersøkelse som viste sammenheng mellom kromatstøvet på arbeidsplassen og overhyppighet av kreft, særlig lungekreft. Risikoen for lungekreft var 38 ganger større for arbeidstakere som hadde arbeidet i fabrikken i tre år eller mer, enn i befolkningen for øvrig. De som hadde arbeidet i fabrikken i fem år eller mer, hadde 54 ganger større risiko for lungekreft. Virksomheten fikk kritikk for manglende vilje til å etterkomme pålegg fra Arbeidstilsynet, og tilsynet fikk kritikk for å ikke ha kontrollert at virksomheten fulgte opp påleggene den hadde fått.[^141]
+
+### Asbest
+
+I 1975 gjennomførte Kreftregisteret en undersøkelse av kreftforekomst blant arbeidstakere ved Norsk Eternitfabrikk på Slemmestad.[^142] Med oppfølgingstid fra 1953 til 1975 observerte man økt kreftrisiko totalt og spesielt økt forekomst av lungekreft. De første resultatene ble rapportert i 1976 og er videreført gjennom en ny undersøkelse hvor kohorten er fulgt opp fram til 1999. Nesten halvparten hadde vært ansatt i 10 år eller mer, og tid siden siste eksponering var minimum 20 år. Forekomsten av lungehinnekreft (mesoteliom) var mer enn 50 ganger høyere enn i den øvrige mannlige befolkningen og risiko for lungekreft var tredoblet.
+
+Det er gjennomført studier av kreftrisiko blant kvinnelige papir- og cellulosearbeidere i Norge i perioden 1920–1993. Studiene viste en økt risiko for kreft i eggstokker hos de med tre år eller lengre ansettelse, spesielt blant kvinner som arbeidet med papirsortering. Dette funnet ble fulgt opp i en kasus-kontrollstudie hvor man prøvde å kartlegge eksponering for asbest gjennom dybdeintervjuer. Resultatene viste en høyere risiko for eggstokkreft hos kvinner som hadde vært utsatt for asbesteksponering sammenlignet med kvinner uten eksponering. Resultatene fra disse norske studiene har blitt benyttet i IARCs arbeid med klassifikasjon av asbest som sikkert kreftfremkallende, og asbest blir nå ansett å kunne forårsake lungekreft, lungehinnekreft, strupekreft og eggstokkreft.[^143]
+
+### Løsemidler
+
+De arbeidstakerne som har vært høyest eksponert for løsemidler har gjerne arbeidet med avfetting eller sprøyting med løsemiddelholdige produkter. Typiske yrker og bransjer hvor enkelte arbeidsoppgaver har medført høy eksponering for løsemidler er verkstedarbeidere, industrimalere, trykkerier (spesielt silketrykk) og GUP-industrien (glassfiberarmert plast). På midten av 1970-tallet hadde virksomhetene lite kunnskap om skadevirkninger av løsemiddelbruk på kort og lang sikt, og om tiltak for å forebygge løsemiddelskader. I årene fra 1980 og utover ble det fra Arbeidstilsynet satt et betydelig fokus på maleres eksponering for løsemidler og mulig løsemiddelskade på sentralnervesystemet. Det ble meldt en rekke tilfeller av mistenkt yrkessykdom på grunn av løsemiddelskader i forbindelse med at problemstillingen ble kjent i bransjer med løsemiddeleksponering. Ved daglig eksponering for løsemidler over flere år så man at en rekke arbeidstakere fikk symptomer fra nervesystemet, og særskilt gikk dette ut over korttidshukommelse og konsentrasjonsevne. I dag har man internasjonalt anerkjent kunnskap om slike løsemiddelskader som tilsier at en eksponeringstid på 10–15 år i løsemiddelatmosfære kan føre til slike skader, og det er anerkjent at ved særskilt høy eksponering kan en eksponeringstid på sju år i fulltidsarbeid med løsemidler være tilstrekkelig til å framkalle slike skader. Skadene oppstår under eksponering, og funksjonstapet kan bestå helt eller delvis i ettertiden, også etter opphørt eksponering. Det er vanlig at skadelidte må slutte i arbeid på grunn av nedsatt arbeidsevne relatert til skadene når disse opptrer, slik at symptomdebut raskt følges av sykmelding som så følges av uførepensjonering. Ved utredning har man særlig lagt vekt på om den skadelidte har opplevd ruseffekt av løsemidler under arbeid, som en indikator på særskilt høy eksponering.
+
+### Erstatninger etter avtaler og forlik mellom partene
+
+I noen saker der eksponeringer i arbeidsmiljøet har ført til alvorlige helseskader blant arbeidstakerne, er det inngått avtaler mellom partene i virksomheten om særskilte erstatningsordninger.[^144] Sakene ved Norsk Eternit Fabrik og Falconbridge Nikkelverk er eksempler på slike ordninger, se kapittel 7.7.1 og 7.7.3.
 
 Norsk Eternit Fabrik
 
-NOU 1994: 20 Personskadeerstatning.
-
-[Side 61]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+I 1982 anla i alt 31 arbeidstakere og etterlatte etter arbeidstakere ved Norsk Eternit Fabrik på Slemmestad sak mot A/S Norcem med krav om erstatning. Det ble hevdet at de skadde og døde arbeidstakerne hadde pådratt seg asbestose, lungekreft og kreft i brysthinnen mv. som følge av asbeststøvpåvirkning i arbeidet ved den Norcem-eide eternittfabrikken. Etter rettsforhandlinger høsten 1983, ble det inngått forlik mellom partene. I henhold til forliket forpliktet Norcem seg til å utbetale et samlet beløp på 3 700 000 kroner til fordeling blant saksøkerne for sykdomstilfelle godkjent som yrkessykdom av Rikstrygdeverket i henhold til folketrygdloven kapittel 11. Beløpet var ment å kompensere for tapt arbeidsfortjeneste, tap i framtidig erverv, påløpte utgifter, menerstatning og tap av forsørger. Den totale erstatningssummen ble skjønnsmessig fordelt på de erstatningsberettigede på grunnlag av alminnelige erstatningsutmålingsprinsipper. Det var enighet om at erstatningsutbetalingen ikke innebar noen erkjennelse av rettslig ansvar for fabrikken og dens ledere, og at utbetalingen skjedde uten erkjennelse av rettslig ansvar for de sykdomstilfellene saken gjaldt.
 
 Falconbridge Nikkelverk
-Falconbridge Nikkelverk Aktieselskap forpliktet
-seg, etter avtale med Norsk Kjemisk Industriarbeiderforbund, til å utbetale erstatning ved
-yrkessykdommer oppstått som følge av arbeid
-med nikkel/nikkelforbindelser. Det var et vilkår
-for erstatning at skaden eller sykdommen ble godkjent av Rikstrygdeverket i henhold til folketrygdloven kapittel 11.
-Avtalen omfattet yrkessykdommer som lungekreft, strupekreft eller nesekreft konstatert før 1.
-januar 1985. For skade eller sykdom konstatert
-etter disse datoer hadde selskapet tegnet ansvarsforsikring med dekning på no fault-grunnlag. Det
-ble presisert i avtalen at erstatningsutbetalingene
-ikke innebar noen erkjennelse av erstatningsansvar. Ved erstatningsutbetaling frafalt skadelidte
-samtidig all rett til å reise ytterligere krav mot selskapet for tap eller skade som følge av påvirkning
-fra henholdsvis asbest/asbestholdige materialer
-og nikkel/nikkelforbindelser.
 
-7.8
+Falconbridge Nikkelverk Aktieselskap forpliktet seg, etter avtale med Norsk Kjemisk Industriarbeiderforbund, til å utbetale erstatning ved yrkessykdommer oppstått som følge av arbeid med nikkel/nikkelforbindelser. Det var et vilkår for erstatning at skaden eller sykdommen ble godkjent av Rikstrygdeverket i henhold til folketrygdloven kapittel 11.
 
-Arbeidsmiljømyndighetene –
-organisering og tilsyn med
-petroleumsvirksomheten
-
-Redegjørelsen i kapittel 7.8 bygger i stor grad på
-Petroleumstilsynets systematiske gjennomgang
-av regelverks- og tilsynshistorikk knyttet til kjemisk helserisiko, aktuelle tema, omfang, bruk av
-virkemidler mv.34
-Industridepartementet hadde det overordnede
-myndighetsansvaret for å føre kontroll med petroleumsvirksomheten fram til 11. januar 1978, da
-Olje- og energidepartementet ble opprettet. Myndighetsansvaret for sikkerhet og beredskap i
-petroleumsvirksomheten ble overført til Kommunal- og arbeidsdepartementet 1. januar 1979.
-Industridepartementet hadde fra 1969 delegert
-Arbeidstilsynet myndighet til å føre kontroll med
-innretningene, herunder håndtering av råstoffer,
-personlig verneutstyr og vernearbeid om bord.
-Arbeidstilsynet hadde imidlertid liten kapasitet og
-lav kompetanse om industrien, og tilsynsaktiviteten var begrenset.
-Oljedirektoratet ble opprettet i 1972 og hadde
-fra starten en egen kontrollavdeling. Direktoratet
-hadde avgjørende myndighet i saker vedrørende
-undersøkelse og utvinning av petroleumsforekomster, håndhevelsen av sikkerhetsforskrifter
-mv. for undersøkelse og boring etter petroleums-
-
-forekomster, kontroll med at gjeldende sikkerhetsforskrifter følges, pålegg, samtykker og godkjennelser, meddelelse av undersøkelsestillatelser, bistand til departementet i behandling av søknader om andre tillatelser, utforming av forskrifter
-mv.35
-
-7.8.1
-
-Petroleumstilsynet, 2022.
-
-Oljedirektoratets oppfølging av
-arbeidsmiljø
-
-Da Oljedirektoratet i 1977 ble tilsynsmyndighet
-for oppfølging av arbeidsmiljøloven, startet arbeidet med å rekruttere og bygge opp tilsyn og kontrollvirksomhet rettet mot arbeidsmiljøforhold.
-Oljedirektoratet rekrutterte medarbeidere med
-høy kompetanse innen arbeidsmiljø og yrkeshygiene. Petroleumstilsynet har i forbindelse med sitt
-utredningsarbeid intervjuet to av de første yrkeshygienikerne i direktoratet, som forteller om et
-arbeidsmiljø i petroleumsvirksomheten som var
-preget av en amerikansk, hierarkisk ledelseskultur og som ofte krasjet med norske samarbeidstradisjoner. Bevisstheten og kunnskapen om yrkeshygiene og kjemisk arbeidsmiljø beskrives som
-lav. Det høyest prioriterte området for de første
-yrkeshygienikerne ble dermed å jobbe for bedre
-produktkontroll i selskapene, å få bedre kunnskap
-om hvilke kjemikalier produktene inneholdt og å
-drive fram bedre metoder for å håndtere kjemikalier, løsninger og teknologi som kunne bidra til
-redusert eksponering.36
-
-7.8.2
-
-Oljedirektoratets bruk av virkemidler
-og reaksjonsmidler innen kjemisk
-arbeidsmiljø
-Oljedirektoratets oppfølging av arbeidsmiljøkrav
-startet i hovedsak fra 1975, da kongelig resolusjon
-av 3. oktober 1975 om sikkerhet mv. for undersøkelse og boring etter undersjøiske petroleumsforekomster ble forskriftsfestet, i 1976 da deler av
-arbeidervernloven ble gjort gjeldende, og med
-innføring av den nye arbeidsmiljøloven i 1977.
-Myndighetene benyttet ulike virkemidler og reaksjonsmidler, ofte i kombinasjon. Ett og samme
-tema ble ofte fulgt opp i flere virkemiddelspor,
-antagelig for å skape bedre effekter. Det ble etter
-hvert identifisert egne målområder for oppfølging
-av arbeidsmiljø, og oppfølging innen arbeidervern
-ble integrert som et kapittel i Oljedirektoratets
-årsberetninger fra og med 1976, under delen om
-Sikkerhetskontroll.
-35
-
-34
-
-59
-
-Kapittel 7
-
-36
-
-Oljedirektoratet, 1973.
-Petroleumstilsynet, 2022.
-
-[Side 62]
-
-60
-
-Kapittel 7
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-Tilsynsoppfølgingen innen kjemisk arbeidsmiljø foregikk i to hovedspor; gjennom rettighetshavernes ansvar for egenkontroll/internkontroll og
-produktkontroll, dvs. dels gjennom selskapenes
-ansvar for å etablere bedriftsregistre, klassifisere
-og merke kjemikalier mv., og dels ved å sikre forsvarlig håndtering av giftige og helsefarlige kjemikalier og produkter. Reaksjonsmiddelbruken var
-preget av pålegg gjennom likelydende brev,
-pålegg til enkeltaktører ved regelbrudd, enkeltvedtak (til alle), påbud, forbud, suspensjon av personell og anmeldelser. Veiledning og kommunikasjon mellom Oljedirektoratet og selskapene ble
-også enkelte ganger gitt som indirekte pålegg, for
-eksempel i brev med svar om mangler ved oppbygging og innhold i produktregistre, forslag til
-endring og forbedring av prosedyrer og retningslinjer mv. Tilsynsoppfølgingen var rettet mot etterlevelse av krav gjennom å få på plass systemer for
-produktkontroll, forsvarlig håndtering og bruk,
-erstatning av eller forbud mot helsefarlige produkter, og å ta i bruk bedre metoder, løsninger og teknologi for å redusere risiko forbundet med helsefarlige kjemikalier.
-På kjemikalieområdet ble det bygget opp et
-tett samarbeid med andre relevante myndigheter
-og faginstitusjoner, særlig med Arbeidstilsynet,
-Yrkeshygienisk institutt og Produktregisteret,
-blant annet for å sikre felles forståelse og oppfølging av krav i arbeidsmiljøregelverket. Oljedirektoratet deltok også på en rekke nasjonale og internasjonale arenaer for å:
-– Forvisse seg om at sikkerhet og arbeidsmiljø i
-petroleumsvirksomheten som et minimum tilfredsstilte anerkjent internasjonal standard.
-– Sikre tilgang på relevant informasjon til kompetansebygging og regelverksutvikling.
-– Bidra med innsikt og erfaring i internasjonal
-sammenheng for å kunne påvirke sikkerhet og
-arbeidsmiljø i positiv retning.
-Utover 1970-tallet fikk oppfølging av arbeidsmiljøkrav i tidlig fase større betydning. Det ble blant
-annet stilt krav om at arbeidsmiljø skulle hensyntas på lik linje med sikkerhet i prosjektering og
-design av innretninger og i selskapenes systemer
-for styring og kontroll av arbeidsmiljø.37 38 Det ble
-tydeligere poengtert at krav til arbeidsmiljø inngikk som en del av aktørenes systemer for internkontroll. På slutten av 1980-tallet fulgte Oljedirek-
-
-toratet opp om og eventuelt hvordan rammebetingelser i kontrakter kunne påvirke kontraktøransattes arbeidsmiljøforhold.
-Oljedirektoratet rapporterte i perioden 1973–
-1975 direkte til Industridepartementet om skader
-og ulykker i petroleumsvirksomheten.39 Fra 1976
-finner Petroleumstilsynet de første sporene i Oljedirektoratets årsberetninger av en samlet oversikt
-over skade- og ulykkesrapportering fra faste produksjonsinnretninger. Rutiner for rapportering
-ble i 1979 fulgt opp med en prosedyre for hvordan
-yrkesskader og personskader skulle varsles og
-meldes til myndighetene, og Oljedirektoratet samarbeidet med andre myndigheter for å få på plass
-et system for å kunne sammenlikne trender og
-nivå med andre industrier og næringer. I løpet av
-perioden ble rapporteringen og analysene bygget
-ut, blant annet med hensyn til hendelser etter type
-skader, hvilke personellgrupper som hadde vært
-involvert, utvikling over tid mv. Rapportering om
-hendelser som følge av kjemisk eksponering inngikk i dette arbeidet. Etter 1985 ble også rapporter om hendelser fra de flyttbare innretningene
-inkludert.
-Til tross for at regelsettene for arbeidsmiljø
-var ulike for faste og flyttbare innretninger fram til
-arbeidsmiljøloven ble gjort gjeldende på flyttbare
-innretninger fra 1992, se kapittel 5.1.4, finner
-Petroleumstilsynet, både direkte og mer indirekte, spor av at Oljedirektoratet fra 1985 fulgte
-opp aktørene på en slik måte at det fikk virkninger
-for arbeidsmiljøet på flyttbare innretninger. Særlig
-skjedde dette gjennom oppfølging av rettighetshavernes egenkontroll, etter hvert internkontroll, og
-oppfølging av krav i arbeidsmiljøloven og produktkontrolloven. Det antas at erfaring og resultater
-fra tilsyn, samarbeid, kunnskapsproduksjon og
-teknologiutvikling kombinert med informasjon og
-veiledning til næringen i stort, også førte til nye
-løsninger og forbedring knyttet til kjemiske
-arbeidsmiljøforhold på flyttbare innretninger.
-Etter hvert ble det bygget opp bredere kompetanse innen arbeidsmiljøområdet. Oljedirektoratet
-jobbet tverrfaglig både internt og ut mot næringen i adresseringen av problemstillinger som krever innsikt fra ulike disipliner. Dette bidro til et
-bedre begrunnet kunnskapsgrunnlag og til utvikling av nye metoder, løsninger og teknologi som
-både kunne gi mer effektiv drift og redusere kjemisk eksponering.
-
-37
-
-St.meld. nr. 50 (1987–88) Oljedirektoratets årsberetning
-1987 og 1988 og sikkerheten i petroleumsvirksomheten.
-38
-St.meld. nr. 51 (1992–93) Om sikkerhet og arbeidsmiljø i
-petroleumsvirksomheten på norsk kontinentalsokkel.
-
-39
-
-Brev 1. desember 1975 fra Oljedirektoratet til Industridepartementet.
-
-[Side 63]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-7.8.3
-
-Rettighetshavernes ansvar,
-egenkontroll og internkontroll
-
-Parallelt med utviklingen av sikkerhetsforskriftene, se kapittel 5.1, ble det utarbeidet retningslinjer for rettighetshavers ansvar for sikkerhetsmessig forsvarlig drift gjennom systemer for egenkontroll. Retningslinjen for rettighetshaveres egenkontroll ble gjort gjeldende i juni 1979, etter
-høring hos berørte parter. Retningslinjen representerte en utdyping og konkretisering av et av de
-viktigste grunnprinsippene for kontrollvirksomheten. Egenkontrollen var en kvalitetssikring selskapene selv måtte foreta for å sikre at myndighetenes lover og regler ble etterlevd. Retningslinjen
-viste i innledningen til arbeidsgivers og rettighetshavers ansvar for å etterleve krav som er gitt i
-lover og forskrifter, i denne sammenheng i
-arbeidsmiljøloven og sikkerhetsforskriftene. For å
-gjennomføre og følge opp sitt ansvar måtte rettighetshaver bygge opp et kontrollsystem for egen
-oppfølging.
-Kravet om egenkontroll ble ytterligere forsterket med forskriftsfestingen av internkontroll i
-1985. Rettighetshaverne ble dermed, med
-utgangspunkt i sitt overordnede ansvar, pålagt å
-dokumentere sine administrative styrings- og
-beslutningssystemer for å sikre ivaretagelsen av
-plikten til internkontroll overfor myndighetene.
-Myndighetenes systemrevisjoner, kombinert med
-stikkprøvekontroller, skulle imidlertid ikke bidra
-til å redusere rettighetshavers ansvar for å drive
-forsvarlig virksomhet, og næringen ble i praksis
-underlagt to tilsyn; sitt eget og myndighetenes.
-
-7.8.4
-
-Produktkontroll – bedriftsregistrene,
-oppbevaring og håndtering av
-helsefarlige stoffer
-Et viktig grep Oljedirektoratet tok for å konkret
-følge opp regelverkskrav innen kjemisk arbeidsmiljø, var knyttet til etterlevelse av arbeidsmiljøloven § 11 om giftige og andre helsefarlige stoffer
-mv. og § 18 om produsenter og importører av giftige og andre helsefarlige stoffer, herunder giftig
-eller helsefarlig biologisk materiale. I § 11 var kravene til virksomhetenes håndtering av giftige og
-helsefarlige stoffer konkretisert. Paragraf 18 presiserte nærmere kravene til håndtering og myndighetenes adgang til å kreve informasjon om innhold i produkter (stoffers sammensetning og
-egenskaper), undersøkelser av stoffer mv. I hjemmelsgrunnlaget for oppfølgingen lå også kravene i
-produktkontrolloven og kravene til selskapenes
-systemer for egenkontroll og etter hvert intern-
-
-61
-
-Kapittel 7
-
-kontroll. Disse kravene ble fulgt opp i ulike virkemiddelspor og med ulike reaksjonsmidler.
-Oljedirektoratets oppfølging av kjemisk
-arbeidsmiljø og bruk av virkemidler og reaksjonsmidler er i Petroleumstilsynets rapport illustrert
-gjennom utvalgte eksempler på kjemiske risikofaktorer, med utdypende beskrivelser av hvordan
-disse er fulgt opp.40 Faktorene asbest, kvikksølv,
-boreslam, benzen og H2S er valgt ut. Bruken av
-tre av disse, asbest, H2S og kvikksølv er mer generell og i stor grad felles for industrivirksomhet
-både på land og til havs. Utvikling av kunnskap og
-oppfølging av disse områdene løper derfor parallelt med utviklingen i industrien ellers. Faktorene
-boreslam og benzen vurderes imidlertid som mer
-spesifikke for petroleumsvirksomheten. Følgende kriterier er lagt til grunn for utvalg av faktorene:
-1. Eksponeringsrisiko er hovedsakelig knyttet til
-petroleumsvirksomhet, og i liten grad relevant
-for landbasert industri (boreslam, benzen).
-2. Det er faktorer med høyt iboende helsefarepotensial og eksponering assosiert med kroniske
-helseeffekter, som for eksempel økt risiko for
-utvikling av kreft, effekter på sentralnervesystem e.l.41
-3. Eksponeringsomfang berører et bredt utvalg
-av arbeidstakergrupper.
-4. Helseeffekter knyttet til aktuelle komponenter
-var kjent i perioden 1975-1995.
-De utvalgte risikofaktorene utgjør sentrale elementer også i dagens risikobilde knyttet til kjemisk arbeidsmiljø i petroleumsvirksomheten.
-Petroleumstilsynets arkivsystem, Oljedirektoratets årsberetninger mv. har vært sentrale kilder
-til informasjon om Oljedirektoratets oppfølging av
-kjemisk arbeidsmiljø i perioden 1966–1993. Gjennomgangen har vist at Oljedirektoratets oppfølging i stor grad var rettet mot de utvalgte kjemiske risikofaktorene, i tillegg til at det var stor
-oppmerksomhet på produktkontroll. Det var først
-etter at arbeidsmiljøloven ble gjort gjeldende for
-petroleumsvirksomhet i 1977, at man finner spor
-av en systematisk oppfølging av spesifikke
-arbeidsmiljøfaktorer fra Oljedirektoratets side. I
-tiden etter 1977 var Oljedirektoratets innsats
-innen kjemisk arbeidsmiljø i stor grad rettet mot
-oppfølging av arbeidsmiljøloven §§ 11 og 18, og
-40
-41
-
-Petroleumstilsynet, 2022.
-Kjemikalier med mer alvorlige, akutte helseeffekter (som
-for eksempel H2S) er i mindre grad vektlagt i dette. Det er
-likevel gjort en gjennomgang i arkiver for slike stoffer
-også.
-
-[Side 64]
-
-62
-
-Kapittel 7
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-produktkontrolloven § 3, hvor blant annet krav om
-substitusjon var hjemlet. Oljedirektoratets oppfølging av faktorer som blant annet asbest, kvikksølv
-og boreslam har en tydelig forankring i disse
-regelverkskravene. I brev 17. oktober 1978 sendte
-Oljedirektoratet et likelydende brev til alle operatører med en presisering av hvordan kravene i
-§§ 11 og 18 skulle forstås, og det ble lagt ved retningslinjer for hvordan et register etter § 11 burde
-bygges opp. Det ble vist til offentlige retningslinjer for utforming og innhold i slike registre. Det
-ble sendt nye likelydende brev til operatørene på
-samme område også i 1979 og i 1980, hvor Oljedirektoratet gjorde oppmerksom på at myndighetene hadde myndighet til å fjerne produkter som
-ikke var tilstrekkelig merket.
-For enkelte kjemiske faktorer, som blant annet
-asbest og kvikksølv, forelå det allerede på slutten
-av 1970-tallet kjente og godt dokumenterte sammenhenger mellom eksponering og utvikling av
-helseeffekter. Oljedirektoratets oppfølging av
-disse faktorene bar preg av en klar strategi og systematikk, som etter hvert førte til at asbest ble forbudt i petroleumsvirksomheten i 1980 og totalforbudt nasjonalt i 1985. I 1989 ble det gitt et generelt
-pålegg til industrien om å benytte kvikksølvfrie
-prøvetakingsmetoder for overføring av formasjonsvæsker.
-Oljedirektoratets oppfølging av boreslam
-fulgte flere spor, hvor oppmerksomheten var rettet mot både kunnskapsutvikling og -formidling,
-substitusjon og forbud mot bruk av enkelte tilsetningsstoffer, samt gjennomføring av tekniske tiltak i slamhåndteringsanlegg for å redusere eksponering. I perioden 1979–1984 ble flere prosjekter
-igangsatt for å undersøke sammensetning av
-boreslam og helseeffekter knyttet til eksponering.
-Samtidig ble det arbeidet med utfasing av enkeltkomponenter i boreslam, for å finne alternativer
-med lavere iboende helserisiko. Diesel i boreslam
-ble blant annet faset ut til fordel for mineraloljebaserte løsninger i 1983/84, og i perioden 1980–
-1985 ble det også nedlagt forbud mot bruk av
-asbest, attapulgitt og sepiolitt i boreslam.
-Oljedirektoratets oppmerksomhet var i perioden først og fremst rettet mot enkeltprodukter og
-produktkontroll. Kjemiske risikofaktorer som frigjøres gjennom prosess og produksjon, deriblant
-benzen og andre hydrokarboner, var i mindre
-grad gjenstand for systematisk oppfølging fra
-myndighetene. Fram mot 1988 var det samtidig en
-gradvis innskjerping av administrativ norm for
-benzen, fra 25 ppm i 1970 til 1 ppm i 1988. Risiko
-for oppkonsentrering av benzen i arbeidsatmosfære rundt prosessutstyr for råolje ble første gang
-
-gjort kjent i 1989. Dette framkommer av et informasjonsbrev fra et av operatørselskapene på
-norsk sokkel, hvor det ble opplyst om at det var
-målt høye nivåer av benzen rundt denne typen
-utstyr (> 11 ppm i ett område). Informasjonsbrevet ble sendt til både myndighetene og øvrige operatørselskaper på norsk sokkel. Benzen var på det
-tidspunktet et kjent kreftfremkallende stoff, og
-industrien var kjent med at benzen kunne oppkonsentreres rundt prosessutstyr for kondensat.
-Det framgår av Oljedirektoratets årsberetning
-1983 at det var en positiv utvikling med hensyn til
-oppbygging og vedlikehold av kartotek for yrkeshygieniske datablad, men at kvaliteten var varierende og til tider utilfredsstillende. Det ble stilt
-strengere kvalitetskrav for yrkeshygienisk dokumentasjon fra produsenter og leverandører av kjemiske produkter. Innsatsen ble rettet mot ulike
-aktører og det var tett samarbeid med Produktregisteret og relevante myndigheter.
-Oppfølgingen knyttet til etablering av registre,
-merking og bestemmelse av innhold var rettet
-mot hele næringskjeden; operatører, entreprenører og underentreprenører. Enkelte ganger var
-det utfordrende for operatørene å få denne informasjonen på plass, særlig fra enkelte boreselskap
-og boreleverandører som ønsket konfidensialitet
-rundt sine produkter.
-I tillegg til innsatsen rettet mot å opprette kjemikalieregistre, ble det satt i gang større kartleggingsprosjekter og analysevirksomhet knyttet til
-innhold i produkter som var i bruk i petroleumsvirksomheten, blant annet prosjekt om kartlegging av helserisiko for arbeidstakere som
-eksponeres for boreslam (1979) og Kjemikalieprosjektet (1982). I forbindelse med kjemikalieprosjektet innhentet Oljedirektoratet yrkeshygieniske datablader av kjemikalier brukt i boring og
-produksjon på faste innretninger, og det ble innhentet informasjon fra kjemikalieleverandørene.
-Et likelydende brev gikk ut til operatørselskapene
-1. september 1982, hvor Oljedirektoratet ba om
-opplysninger om kjemikalier som ble benyttet ved
-boring på flyttbare innretninger, inkludert informasjon om yrkeshygieniske datablader. Oppfølgingen skjedde via operatørselskapene og deres
-ansvar som rettighetshavere overfor sine entreprenører. Oljedirektoratet ønsket opplysninger
-om navn på kjemikalier som ble benyttet, navn på
-installasjonene og hvem som var leverandører av
-kjemikaliene.
-Oppbyggingen av registrene var på dette tidspunktet godt i gang og stoffkartotekene med tilhørende innhold, prosedyrer, veiledning og opplæring, begynte å komme på plass. Perioden bar
-
-[Side 65]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-preg av en kontrolletat som veiledet, presiserte og
-detaljerte ut krav, og som benyttet reaksjonsmidler. Dette kom til uttrykk i måten Oljedirektoratet
-jobbet mot næringen på for at registrene og systematikken rundt disse skulle komme på plass, men
-også rent konkret rettet mot utvikling av prosedyrer og retningslinjer for å få til en god praksis for
-håndtering av giftige og helsefarlige kjemikalier i
-felt.
-Oljedirektoratet samarbeidet i hele perioden
-med andre relevante myndigheter og fag- og
-forskningsmiljøer om ulike prosjekter og tema for
-å kartlegge innhold i en rekke produkter,
-bestemme helsefare og risiko. Et uttalt mål var å
-bygge opp bedre kunnskap om kjemikalier og å
-dokumentere den risiko som var knyttet til håndteringen av kjemikalier. Myndighetene ønsket
-også å bruke kunnskapen i en epidemiologisk
-sammenheng for å kunne dokumentere overhyppighet og effekter av langtidseksponering. Et
-annet uttalt mål var å påvirke næringen til bedre
-løsninger og produkter, og å gjennom tekniske tiltak og forbedringer redusere kjemisk eksponering. Oppfølgingen knyttet til boreslam utgjorde i
-så måte et eksempel hvor man oppnådde konkrete
-gevinster i form av bedre håndteringsrutiner og
-operasjonelle prosedyrer, lukking av slamprosessen, økt bruk av instrumentell overvåking og mer
-effektive punktventilasjonssystemer.
-
-7.8.5
-
-Verneombudsordninger og
-arbeidsmiljøutvalg
-Kongelig resolusjon av 3. oktober 1975 om sikkerhet mv. for undersøkelse og boring etter undersjøiske petroleumsforekomster stiller i § 111 krav til
-at «det skal organiseres en vernetjeneste om bord
-på plattformen, bestående av valgte representanter fra mannskapet og representanter for plattformens ledelse», og i kongelig resolusjon av 9. juli
-1976 ble en rekke av bestemmelsene i arbeidervernloven av 1956 gjort gjeldende i en kort periode før arbeidsmiljøloven ble vedtatt i 1977.
-Arbeidsmiljøloven ble ikke gjort gjeldende på
-flyttbare innretninger, men det var en uttalt forventning fra myndighetene at det skulle utvikles
-regler med tilsvarende vern på flyttbare boreplattformer som på faste innretninger. Kravet om verneombudsordninger og arbeidsmiljøutvalg ble
-fulgt opp av myndighetene, også når det gjaldt
-flyttbare innretninger.
-Fra 1975 rapporterte operatørselskapene og
-underleverandørene på de faste innretningene om
-status for etablering av verneombudsordninger og
-verneutvalg/arbeidsmiljøutvalg. Oljedirektoratet
-
-63
-
-Kapittel 7
-
-vurderte hver enkelt ordning, og gikk inn i konkrete problemstillinger knyttet til organisering,
-for eksempel hvor mange verneombud som skulle
-være i full stilling. Operatørene ble videre i 1979
-pålagt å sende inn månedlige rapporter om
-«arbeidsforhold på sokkelen», som blant annet
-skulle omfatte opplysninger om valgte verneombud, arbeidsmiljøutvalg, tariffavtaler, skiftplaner
-mv.
-Opplæring for verneombud, arbeidsmiljøutvalg og andre vernefunksjoner («safety»-funksjonen) ble profesjonalisert, og det kom strammere
-rammer for hvordan verneombudsordninger og
-arbeidsmiljøutvalg skulle og burde organiseres,
-hvilke oppgaver som skulle inngå, og om samarbeid og medvirkning. I februar 1979 ble det første
-40-timers kurset i arbeidsmiljøloven avholdt, hvor
-målsettingen var «å gi verneombud, medlemmer
-av arbeidsmiljøutvalg, arbeidsledere, sikkerhetspersonell og andre grundig kjennskap til arbeidsmiljøloven og tilpasningene som er gjort til denne
-i forbindelse med offshorearbeid».42
-I 1983 satt Oljedirektoratet organisering av
-vernesamarbeidet på dagsorden. Formålet var å
-sikre en mer hensiktsmessig organisering hvor
-alle grupper av arbeidstakere på innretningene
-var involvert. Direktoratet satt i gang en kartlegging av arbeidsmiljøutvalgene. Arbeidsforskningsinstituttene og Rogalandsforskning bisto
-Oljedirektoratet i arbeidet. Gjennomgangen av
-årsrapportene viste at arbeidsmiljøutvalgene i
-hovedsak var et forum for «brannslukking» i forbindelse med teknisk sikkerhet, skaderisiko og
-tradisjonelle velferds- og personalsaker. Arbeidet
-var lite preget av langsiktighet, strategisk planlegging, og de mer komplekse arbeidsmiljøspørsmål
-av organisatorisk og psykososial art ble i svært
-liten grad behandlet aktivt eller systematisk.43
-Oljedirektoratet oppsummerte i 1984 at vernesamarbeidet på produksjonsfeltene i Nordsjøen
-hadde varierende kvalitet, og at korrigerende tiltak burde kunne iverksettes uten for store konsekvenser for de etablerte ordningene. I 1987 ga
-Oljedirektoratet operatørselskapene pålegg om å
-etablere koordinerende arbeidsmiljøutvalg.
-Opplæring av verneombud i henhold til
-arbeidsmiljøloven kombinert med Oljedirektoratets aktiviteter med hensyn til etablering av registre og rutiner for merking og håndtering av giftige
-og helsefarlige stoffer, så ut til å sette seg både i
-vernetjenesten og blant de tillitsvalgte. Oljedirek42
-43
-
-Brev 5. februar 1979 fra Petroleum Training Institute til
-Oljedirektoratet.
-Petroleumstilsynet, 2022.
-
-[Side 66]
-
-64
-
-NOU 2022: 19
-
-Kapittel 7
-
-Oljepionerene – en kompensasjonsordning
-
-Boks 7.1
-i likelydende brev som ble sendt til alle operatøEksempel 1: Hovedverneombud fra Morco
-(borekontraktør på Ekofisk) sendte 11. juni 1980
-rene 12. juni samme år. Oljedirektoratet avslutbrev til en navngitt person (ikke spesifisert selter med at de regner med at saken er prøvd løst
-med alle parter. I samme periode jobber Oljeskap og stilling) på Ekofisk Bravo om manglende registrering og merking av giftige og heldirektoratet mot alle operatørene, inkludert
-sefarlige stoffer, med kopi til blant annet OljediPhillips, for å følge opp etablering og utforming
-av registre for giftige og helsefarlige stoffer.
-rektoratet og Arbeidstilsynet, med følgende
-Eksempel 2: Det vises i brev av 4. juli 1980
-beskjed:
-fra Norsk Olje- og Energimedarbeideres Fellesorganisasjon (NOEMFO) til Oljedirektoratet om
-«Under henvisning til § 11 i arbeidsmiljøloutfordringer knyttet til dieseleksos på boredekk
-ven ber jeg alle Morco’s verneombud om øyepå Nortrym. NOEMFO har vært i muntlig konblikkelig å følge innholdet i paragrafen. Dette
-takt med en representant fra sikkerhetsseksjomed merking av fremmede stoffer samt mannen i Oljedirektoratet som kan opplyse om at
-glende register over slik gjør at det nå settes
-Oljedirektoratet har to mann ute på Statfjord A
-sluttstrek for vår goodwill. Vi har arbeidet
-for å inspisere de samme problemene. Det oppflere år med dette problem. Konklusjon:
-lyses til Oljedirektoratet at riggen snart skal inn
-Ingen tillatelse blir gitt til noen å bruke stofpå verksted, og det uttrykkes et ønske om at
-fer som ikke er merket iht. loven. Vår tålmoOljedirektoratet tar kontakt med hovedvernedighet er herved oppbrukt.»
-ombudet om bord. Målet er å få gjennom tiltak
-for å sikre mannskapet mot uheldige skadevirkDet fremgår av Oljedirektoratets notater i saken
-ninger av eksosutslipp. Den 25. juli 1980 sender
-at den skal prioriteres raskt, og det innhentes
-Oljedirektoratet svar til NOEMFO om at eksosinnspill fra selskapet. Oljedirektoratet sendte
-rørene skal utbedres straks Nortrym legger til i
-svar til hovedverneombudet 23. juni 1980, hvor
-Florø.
-det refereres til pålegg om utforming av
-bedriftsregistre for kjemikalier og innhold i slike
-
-toratet fikk fra 1979 ulike henvendelser fra tillitsmannsapparatet og vernetjenesten om behov for
-bedre informasjon om kjemikalier, bekymringer
-knyttet til enkelte kjemikalier, spørsmål om verneutstyr mv. Eksemplene i boks 7.1 illustrerer et par
-saker i 1980 som omhandlet kjemisk arbeidsmiljø.
-
-7.8.6
-
-Verne- og helsepersonale og
-bedriftshelsetjeneste
-
-Helsemessige forhold og helsetjeneste
-«Helsemessige forhold» var Helsedirektoratets
-myndighetsområde, og Helsedirektoratet utarbeidet et eget regelverk for helsetjenesten offshore.
-Oljedirektoratet anmodet i 1974 om bistand fra fylkeslegen i Rogaland (delegert fra Helsedirektoratet) til å gjennomføre inspeksjoner av helsetjenesten på Ekofiskfeltet. Fylkeslegen i Rogaland
-ivaretok i fortsettelsen denne rollen både på faste
-og flyttbare innretninger. I tillegg fikk helsemyn-
-
-dighetene en rolle i forbindelse med inspeksjoner
-knyttet til ulike typer samtykker. Helsedirektoratet utviklet, i samarbeid med Sjøfartsdirektoratet,
-kurs og opplæring for bedriftssykepleiere i petroleumsvirksomheten for å formidle spesialkunnskap om tjeneste på borerigger. Helsemyndighetene hadde også ansvar for å inspisere mobile innretninger før de skulle tas i bruk eller tas inn på
-norsk kontinentalsokkel. På 1980-tallet finnes det
-eksempler på at operatørenes bedriftshelsetjenester gjennomførte inspeksjoner på flyttbare innretninger, og at resultater fra slike inspeksjoner
-ble innhentet av Helsedirektoratet i forbindelse
-med samtykkesøknader.
-Utviklingen av helsetjenesten på de faste innretningene til havs startet på begynnelsen av
-1970-tallet med en beredskapsenhet, med vekt på
-førstehjelpsfunksjoner, av og til bemannet med
-sykepleiere, men like ofte med en «medic» uten
-sykepleiefaglig bakgrunn. Etter hvert ble det stilt
-krav om offentlig godkjente sykepleiere. Leger
-
-[Side 67]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-ble tilknyttet fra land, men først og fremst med
-akuttmedisinske støttefunksjoner og ansvar for
-den medisinske ulykkesberedskapen
-Sjøfartsdirektoratet jobbet parallelt med å etablere helsetjeneste på sine innretninger, og tok i
-juni 1975 kontakt med Oljedirektoratet for å diskutere behovet for offentlig godkjent sykepleier om
-bord, og om denne stillingen kunne kombineres
-med andre stillinger. I 1978 ferdigstilte Sjøfartsdirektoratet sin instruks for sykepleiere i petroleumsvirksomheten. I henhold til instruksen skulle
-sykepleierne ivareta både forebyggende og helsemessige funksjoner, fysiske forhold og forhold av
-mentalhygienisk art. I tillegg kom førstehjelpsbehandling, tilsyn med hygieniske forhold,
-regelmessige og forebyggende undersøkelser om
-bord, journalføring, oppfølging av skader, deltagelse i verne- og sikkerhetsarbeidet, i møter og i
-realistiske øvelser.
-Verne- og helsepersonell og bedriftshelsetjenestene
-Forskrift om bedriftshelsetjeneste ble fastsatt ved
-kongelig resolusjon 26. oktober 1979 med hjemmel i arbeidsmiljøloven, og derved også gjort gjeldende for petroleumsvirksomheten. Fra begynnelsen av 1980-tallet ble det større oppmerksomhet
-rundt verne- og helsepersonale og bedriftshelsetjeneste i petroleumsvirksomheten, og det ble stilt
-spørsmål ved om næringens løsninger tilfredsstilte kravene i regelverket, særlig fra arbeidstakerorganisasjonene. NOPEF sendte 26. november
-1981 en henvendelse til Oljedirektoratet angående
-bedriftshelsetjenesten i Nordsjøen:
-«Undertegnede tillitsmenn og verneombud
-har diskutert bedriftshelsetjenesten i Nordsjøen.
-Det er vårt syn at systemet med «medic» og
-skadestuer på ingen måte tilfredsstiller rimelige krav til bedriftshelsetjeneste (jfr.
-arbeidsmiljøloven § 30). For å rette på disse
-skandaløse forholdene vil vi be Oljedirektoratet ta initiativ til at:
-– Arbeidstilsynets forskrifter for dette gjøres
-gjeldende og for oljevirksomheten til havs.
-– Operatørselskapene etablerer bedriftshelsetjeneste etter disse retningslinjene. På
-feltet bør denne også omfatte kontraktorog leiefirma.
-Gjennomføringen av denne bedriftshelsetjenesten på sokkelen bør skje i samarbeid med
-Direktoratet for arbeidstilsynet. Det er absolutt
-nødvendig at dette arbeidet blir høgt prioritert,
-
-65
-
-Kapittel 7
-
-og at det tas sikte på gjennomføring så raskt
-som mulig, i tråd med Arbeidstilsynets Framdriftsplan for utbygging av obligatorisk
-bedriftshelsetjeneste.»
-Brevet ble sendt til et stort antall kopimottakere
-og var undertegnet av ti tillitsvalgte og verneombud som i sum representerte arbeidstakersiden.
-Oljedirektoratet ba arbeidstakersiden om å konkretisere hva disse «skandaløse forholdene»
-omhandlet, men fikk ikke noe utfyllende svar.
-Oljedirektoratet arbeidet så videre med en bedre
-forankring av og innhold i næringens verne- og
-helsepersonale/bedriftshelsetjeneste i samarbeid
-med næringen, Arbeidstilsynet og gjennom kartlegging av de eksisterende ordningene.
-I 1983 kom Arbeidstilsynet med nye retningslinjer for gjennomføring av bedriftshelsetjeneste
-etter arbeidsmiljøloven og forholdet mellom
-bedriftshelsetjenesten
-og
-kommunehelsetjenesten. Det framgikk av disse retningslinjene at
-bedriftshelsetjenesten skulle være en forebyggende arbeidsmiljøtjeneste, og skulle skilles fra
-annen kommunal helsetjeneste. Oljedirektoratet
-gjennomførte i 1984 en egen kartlegging blant
-alle operatørselskap og kontraktører av hvilke
-ordninger som eksisterte i petroleumsvirksomheten. I årsberetning fra 1984 rapporterte Oljedirektoratet kort at: «Oljedirektoratet har i 1984 skaffet
-tilveie en oversikt over de helsetjenesteordninger
-som i dag eksisterer for ansatte i petroleumsvirksomheten til havs, både hva angår operatør og
-kontraktørselskapenes helsetjenester. Dette kartleggingsarbeidet vil utgjøre et bidrag til direktoratets oppfølging av arbeidsmiljøloven § 30, som
-blant annet pålegger arbeidsgiver å ha verne- og
-helsepersonell når det er nødvendig å gjennomføre særlig overvåking av arbeidsmiljøet.»44
-Oljedirektoratets strategi synes å ha vært å
-sikre seg at de hadde næringen, partene og overordnet departement med seg i arbeidet med å
-komme fram til løsninger for verne- og helsepersonell og bedriftshelsetjeneste som fungerte i
-petroleumsvirksomheten. Fra eksempler knyttet
-til Oljedirektoratets arbeidsmiljøtilsyn mot leverandørene utover på 1980-tallet finner man at det
-etterspørres dokumentasjon om betingelser i
-kontrakt mellom operatør og leverandør, leverandørenes
-bedriftshelsetjenesteordninger
-og
-årsrapporter fra bedriftshelsetjenestene. Slik
-Petroleumstilsynet tolker aktørenes responser
-på møtene og avklaringene som skjedde på
-44
-
-St.meld. nr. 9 (1985–86) Oljedirektoratets årsberetning 1984.
-
-[Side 68]
-
-66
-
-Kapittel 7
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-midten av 1980-tallet, knytter operatører og de
-ulike typene kontraktører seg til ulike varianter
-av bedriftshelsetjenesteordninger, men først og
-fremst gjennom operatørenes ansvar som rettig-
-
-hetshaver og som et krav i kontraktene mellom
-operatører og kontraktører.45
-45
-
-Petroleumstilsynet, 2022.
+Avtalen omfattet yrkessykdommer som lungekreft, strupekreft eller nesekreft konstatert før 1. januar 1985. For skade eller sykdom konstatert etter disse datoer hadde selskapet tegnet ansvarsforsikring med dekning på no fault-grunnlag. Det ble presisert i avtalen at erstatningsutbetalingene ikke innebar noen erkjennelse av erstatningsansvar. Ved erstatningsutbetaling frafalt skadelidte samtidig all rett til å reise ytterligere krav mot selskapet for tap eller skade som følge av påvirkning fra henholdsvis asbest/asbestholdige materialer og nikkel/nikkelforbindelser.

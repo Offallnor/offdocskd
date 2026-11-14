@@ -1,895 +1,476 @@
-# NOU 2015: 4, del 6 av 10 (side 67–77)
+# NOU 2015: 4, del 6 av 9
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2015/02683d74-nou-2015-4.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2015-4/id2402318/
 - Original-PDF: https://www.regjeringen.no/contentassets/cfd58282be3c43a3b244df40f41e5fb3/no/pdfs/nou201520150004000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 67]
+Denne formuleringen får tydelig frem at personer under 18 år ikke kan tape norsk statsborgerskap på samme vilkår som personer over 18 år. Skal personer under 18 år tape norsk statsborgerskap må dette skje på bakgrunn av andre bestemmelser i statsborgerloven. Formuleringen får også frem at man ikke kan frata statsborgerskap for handlinger som ble begått mens man ennå var mindreårig. Formuleringen tydeliggjør imidlertid ikke at den mindreårige ikke er ansvarlig for foreldrenes handlinger, men siden tap av statsborgerskap må anses som en strafferettslig reaksjon, er det en selvfølge at man ikke kan stille andre enn den som har begått eller medvirket til handlingen ansvarlig for handlingen. En formulering som fanger opp også dette, vil for eksempel være:
 
-NOU 2015: 4
-Tap av norsk statsborgerskap
+Personer under 18 år kan ikke tape sitt norske statsborgerskap som følge av at vedkommende selv eller dets foreldre har begått handlinger omtalt i første ledd.
 
-biliteringsmulighetene innenfor det norske samfunn for alltid løpe fra den enkelte.
-Når man så står overfor konkrete saker, kan
-samfunnets reaksjoner spenne ulikt alt etter hvor
-grove handlingene er. Det er lett å se for seg lokalsamfunn som slår ring om den hjemvendte 19åringen, som for det meste av tiden ute, lå vettskremt i en skyttegrav. På den annen side kan
-man også se for seg samfunnets krav om tap av
-statsborgerskap for de personer som har begått
-de mest grusomme handlinger, kanskje også på
-norsk jord, fordi handlingene oppleves som grovt
-illojale mot det norske samfunn og det vil være allment støtende om norsk statsborgerskap ikke
-tapes som et ledd i straffeforfølgningen av vedkommende.
-En annen begrunnelse for å ta statsborgerskapet fra personer som skader norske interesser,
-kan være at det anses som en rimelig reaksjon.
-Statsborgerskapet symboliserer lojalitet og tilhørighet til Norge. Det å delta i fremmed militær
-styrke eller skade landets vitale interesser er
-handlinger som bryter med samfunnskontrakten
-mellom stat og individ. Den alminnelige rettsfølelse kan tilsi at handlinger som strider så fundamentalt med tilliten i dette forholdet, bør lede til at
-norsk statsborgerskap går tapt.
+Hvilken språklig variant man velger vil i noen grad avhenge av hvordan bestemmelsen for øvrig formuleres. Det anbefales likevel at det benyttes en bestemmelse som etter sin ordlyd er enkel å forstå. Det anbefales derfor at den første av disse formuleringene anvendes, dvs. følgende formulering:
 
-9.2.5
+Ingen kan tape sitt norske statsborgerskap etter denne bestemmelsen for handlinger begått før fylte 18 år.
 
-Konsekvenser for integreringsprosessen
-Som pekt på av PRIO er statsborgerskapet i dag et
-viktig virkemiddel i integreringsprosessen. Dette
-gjør at både regelendring på dette feltet og diskusjoner omkring regelendring kan påvirke folks
-tanker om egen integrering i samfunnet. Det
-synes å være en økende tendens i Europa, også i
-Norge, til å knytte plikter til erverv av statsborgerskap i form av språkkunnskap og samfunnskunnskap. Et perspektiv kan være at muligheten for tap
-av statsborgerskap inngår som en del av den plikten man har til å opptre lojalt mot staten ved ikke å
-gå i fremmed makts tjeneste eller skade nasjonens
-vitale interesser.
-Utfordringen med å kommunisere et slikt budskap overfor norske statsborgere er imidlertid
-flere. For det første ligger det, som påvist av
-PRIO, er paradoks ved at Norge i utgangspunktet
-forbyr dobbelt statsborgerskap, men vurderer å
-frata norske statsborgere deres statsborgerskap
-dersom de også innehar et annet statsborgerskap.
-Dette paradokset kan bidra til at statsborgerskapet reduseres som virkemiddel i integreringsprosessen. Videre kan det oppleves som en
-ansvarsfraskrivelse fra norske myndigheter der-
+1.  **Betydningen av hvordan det norske statsborgerskapet er ervervet**
 
-67
+Et sentralt spørsmål ved vurderingen av om nye regler om tap av statsborgerskap, er hvorvidt det i den forbindelse bør gjøres forskjell på grunnlag av hvordan statsborgerskapet i sin tid ble ervervet. Som vist i punkt 3.3 kan norsk statsborgerskap erverves gjennom fødsel, adopsjon, søknad og melding.
 
-Kapittel 9
+Det kan vanskelig ses at internasjonale konvensjoner eller Grunnloven setter rettslige skranker for å innføre regler om tap av statsborgerskap utelukkende for personer som har ervervet statsborgerskap for eksempel etter søknad. De rettslige skrankene måtte i så fall la seg utlede av det generelle diskrimineringsvernet i Grunnloven § 98, EMK artikkel 14 og SP artikkel 26. En regel om tap av statsborgerskap utelukkende for personer som har ervervet statsborgerskap etter søknad, vil i sin kjerne ikke forskjellsbehandle personer på grunnlag av kjønn, etnisitet, religion eller andre typiske diskrimineringsgrunnlag. I noen grad vil det kunne argumenteres for at flere etniske nordmenn har ervervet statsborgerskap ved fødsel enn ved søknad, men det underslår ikke den realitet at også mange med ikke-vestlig og ikke-kristen bakgrunn vil være blant de norske statsborgere som har ervervet statsborgerskapet ved fødsel. Dette trekker i retning av at regler om tap av statsborgerskap utelukkende for personer som har ervervet statsborgerskap ved søknad eller melding vil utgjøre en ikke-diskriminerende regel, både i formell og reell forstand.
 
-som enkelte handlinger kan sanksjoneres med
-utestengelse fra det norske samfunn. I den
-utstrekning norske borgere ellers begår straffbare handlinger, tar norske myndigheter ansvar
-ved å straffeforfølge, reagere og deretter rehabilitere lovbrytere. Selv om rehabilitering viser seg å
-være nytteløst overfor enkelte av våre borgere,
-erkjenner staten like fullt et ansvar overfor disse
-personene. Regler om tap av stasborgerskap kan i
-stedet oppleves som om myndighetene ikke tar
-sin del av ansvaret for alle straffbare forhold.
-Som også påpekt av PRIO er integreringsprosessen en toveis prosess, der den enkelte selv
-søker tilpasninger til det samfunn man lever i,
-men hvor også samfunnet sitter med kunnskap og
-forståelse for at ikke alle har den samme bakgrunn, morsmål, tradisjoner og livssyn. Bare gjennom en slik erkjennelse i samfunnet, kan samfunnet være en aktør i integreringsprosessen. Det er i
-denne sammenhengen statsborgerskapet spiller
-en rolle, ved at statsborgerskap bidrar til en
-følelse av tilhørighet til samfunnet og til å bygge
-den enkeltes sosiale identitet. I den utstrekning
-statsborgerskapet kan fratas den enkelte på bakgrunn av straffbare forhold, vil dette kunne
-svekke tilliten til staten og samtidig svekke de
-øvrige virkemidlene som staten benytter i integreringsprosessen. Generell mistillit til offentlige
-myndigheter vil på grunnplan kunne ramme de
-etater som jobber tettest på integreringsprosessen, slik som for eksempel kommune, politi, skole
-og barnevern.
-Regler om tap av statsborgerskap for tjenestegjøring i fremmed militær styrke eller ved skade
-på nasjonens vitale interesser trenger ikke bare få
-negative konsekvenser for integreringsprosessen.
-Regler om dette kan bidra til at aktuelle miljøer
-sondrer mellom «dem» og «vi», dvs. at miljøene
-selv tydeliggjør hvem som er i faresonen og tar et
-ansvar i å forhindre at det begås alvorlige straffbare handlinger.
-På det tidspunkt man står overfor konkrete
-saker der personer taper sitt statsborgerskap eller
-står i reell fare for det, kan imidlertid disse personene få økt oppslutning eller sympati i enkelte lag
-av befolkningen. Det kan utvikle seg en form for
-heltestatus eller martyrstatus, kanskje særlig for
-unge, karismatiske personer. I realiteten vil nok
-slike personer lettere nøytraliseres gjennom lengre fengselsstraffer enn gjennom tap av statsborgerskap og deretter utvisning. Slik utvisning vil
-ikke forhindre dem fra å kommunisere med grupper i Norge via sosiale medier, og på den måten
-påvirke integreringsprosessen av enkelte grupper. Dette gjelder særlig overfor personer som sli-
+Etter Europarådskonvensjonen om statsborgerskap av 1997 artikkel 5 nr. 2 skal statene rette seg etter prisnippet om ikke-diskriminering også mellom personer som har fått statsborgerskapet ved fødsel og personer som har ervervet statsborgerskapet senere. Det framgår imidlertid av den forklarende rapporten til konvensjonen at dette er en intensjonserklæring og ikke en obligatorisk regel som skal følges i alle tilfeller.[^95]
 
-[Side 68]
+Selv om diskrimineringsvernet i internasjonale konvensjoner og Grunnloven ikke setter rettslige skranker for å innføre regler om tap av statsborgerskap for de personer som har ervervet statsborgerskap ved søknad, må det like fullt vurderes om det bør innføres en slik sondring. Svaret på dette spørsmålet beror i noen grad på hvordan reglene for øvrig utformes og hva man ønsker å oppnå med reglene.
 
-68
+Et viktig argument for å sondre mellom personer som har ervervet statsborgerskap gjennom søknad og personer som har ervervet det ved fødsel, er at regler om tap av statsborgerskap ikke skal lede til utrygghet i befolkningen generelt. Slik uttrygghet kan oppstå dersom man ikke fullt ut forstår reglene som kan lede til tap av statsborgerskap. Dette kan raskt være konsekvensen dersom det innføres mange ulike og til dels skjønnspregede regler om tap av statsborgerskap. Ulempen med en slik sondring er at den kan bli tatt til inntekt for at noen personer stemples som førsterangsborgere, mens andre stemples som annenrangsborgere. Personer som opplever seg stemplet som annenrangsborgere vil kunne etablere mindre grad av lojalitet til Norge enn de som har ervervet statsborgerskap ved fødsel. Konsekvensene kan i noen grad være økt fare for terror og radikalisering, men vil nok i all hovedsak kunne vise seg gjennom andre former for kriminalitet. Dette kan tale for at man formulerer enkle og absolutte regler for å unngå en slik uttrygghet for store deler av befolkningen.
 
-Kapittel 9
+Med utgangspunkt i vurderingen i kapittel 9 og den anbefalingen som foreligger i punkt 9.3, skulle det være liten grunn til å etablere regler om tap av statsborgerskap utelukkende for personer som har ervervet dette ved søknad. Det følger av den generelle anbefalingen i punkt 9.3 at regler om tap av statsborgerskap utelukkende bør omfatte situasjoner der nasjonens vitale interesser er sterkt skadet. Det vil i så tilfelle være helt unntaksvis at man står overfor situasjoner der det kan bli aktuelt å frata statsborgerskap på dette grunnlag. Skulle situasjonen inntreffe, bør det ikke være avgjørende for tap av statsborgerskap hvordan det i sin tid ble ervervet. Det ligger allerede en forutsetning om at vedkommende har et annet statsborgerskap og at vedkommende har en slik svak tilknytning til Norge at vedkommende ikke er vernet mot utsendelse etter reglene om vern om privatliv og familieliv i Grunnloven § 102 eller EMK artikkel 8.
 
-NOU 2015: 4
-Tap av norsk statsborgerskap
+For det tilfellet at det er politisk ønskelig med regler om tap av statsborgerskap i en større utstrekning enn det anbefalingen i punkt 9.3 legger opp til, kan det samtidig vurderes om det bør sondres mellom statsborgerskap ervervet ved fødsel og søknad. Ikke-diskrimineringsprinsippet i Europarådskonvensjonen av 1997 taler imidlertid i mot en slik løsning.
 
-ter med følelsen av stigmatisering, utenforskap og
-identitetskrise, kanskje som en konsekvens av at
-man opplever seg i skvis mellom flere kulturer.
-Når det større bildet skal tegnes, vil det – på
-bakgrunn av den mer overordnede målsetting –
-måtte foretas en form for kost-nytte-vurdering. I
-den grad man svekker statsborgerskapets funksjon som virkemiddel i integreringsprosessen, bør
-man i den andre enden se at man kan oppnå klare
-fordeler gjennom redusert deltakelse i fremmed
-militær styrke eller redusere faren for at nasjonale
-interesser blir skadelidende. Når man ser at den
-forebyggende effekten trolig er begrenset, er det
-ikke sikkert at regler om tap av statsborgerskap
-vil lønne seg når man foretar en slik kost-nyttevurdering.
+Dersom man vil sondre mellom statsborgerskap ervervet ved fødsel og søknad, bør statsborgerskap ervervet ved adopsjon sidestilles med statsborgerskap ervervet ved fødsel. Statsborgerloven bygger også ellers på prinsippet om likestilling mellom adopterte og egenfødte barn.
 
-9.2.6
+Hovedkonklusjonen til dette punktet er at det ikke anbefales å knytte adgangen til å tilbakekalle statsborgerskap ved skade på nasjonens vitale interesser til en sondring mellom hvordan statsborgerskapet i sin tid ble ervervet.
 
-Bevisvurderingen: Etterretningsinformasjon og faren for justismord
-I noen tilfeller vil det utvilsomt være klare og entydige bevis for at den som risikerer sitt statsborgerskap, har begått de handlinger vedkommende
-er anklaget for. Dette vil kanskje først og fremst
-være tilfelle for handlinger begått innenfor norsk
-jurisdiksjon og som er gjenstand for ordinær politietterforskning.
-Det er imidlertid sannsynlig at flere saker om
-tap av statsborgerskap må bygge sin bevisvurdering helt eller delvis på etterretningsinformasjon,
-særlig dersom tjenestegjøring i fremmed militær
-styrke som sådan kan lede til tap av statsborgerskap. Slik tjenestegjøring vil normalt ha funnet
-sted utenfor norsk jurisdiksjon. Dermed reduseres mulighetene for etterprøvbarhet av og offentlighet omkring de bevis som fremlegges i en straffesak mot vedkommende. Fra påtalemyndighetens side kan det by på utfordringer å gi fullstendig informasjon om hvilke kilder og vitner som
-benyttes, enten disse er innhentet av norsk eller
-utenlandsk etterretning. Fremleggelse av bevis
-uten fullt offentlig innsyn i slike saker vil i seg selv
-kunne svekke tilliten til norske myndigheter og til
-de prosesser myndighetene eventuelt måtte føre
-mot enkeltpersoner.
-I denne sammenhengen er det også et poeng
-at så lenge befolkningen – eller grupper i befolkningen – er i tvil om det gis fullstendig innsyn i
-den etterretningsinformasjon som benyttes for å
-bygge en sak mot enkeltpersoner, vil bruken av
-slik etterretningsinformasjon kunne bidra til spekulasjoner i massemedier og sosiale medier, og
-slik sett bidra til en økende mistillit til norske
-myndigheter. Selv om norske myndighetspersoner eller politikere skulle ha tillit til den etterret-
+1.  **Tidsbegrensinger i adgangen til å frata statsborgerskap**
 
-ningsinformasjonen som bygger saker mot enkeltpersoner, vil ikke det nødvendigvis avdempe den
-skepsis det må antas at deler av befolkningen har
-til norsk og utenlandsk etterretning.
-Manglende transparens i bevisvurderingen vil
-også, på helt generelt grunnlag, kunne øke faren
-for justismord, dvs. at feil person tas for handlingene eller at handlingene vedkommende er anklaget for faktisk aldri har inntruffet. I krig og krigsliknende situasjoner vil noen personer, enten de
-er hjelpearbeidere, helsepersonell eller øvrige
-sivile, åpenbart kunne befinne seg på «feil sted til
-feil tid», der etterretningen bare sitter med troverdig informasjon om bruddstykker av et hendelsesforløp. Selv om man i dag har de rettslige virkemidlene for å få gjenopptatt straffesaker etter
-beslutning fra gjenopptakelseskommisjonen, vil
-den som er fratatt sitt statsborgerskap og vist bort
-fra Norge, ha en lang og tung vei for å få sin sak
-gjenopptatt i ettertid. Dette taler for at det særlig
-utvises varsomhet med å vedta regler om tap av
-statsborgerskap for personer som utelukkende
-har tjenestegjort i fremmed militær styrke.
-
-9.2.7
-
-Effektuering av dom: Utfordringer
-relatert til utvisning, retur og videre
-overvåking
-En individualpreventiv effekt av regler om tap av
-statsborgerskap vil være at personer som utfører
-handlinger fratas rettigheter, blant annet rettigheten til ubetinget opphold i Norge. Et av formålene
-med tap av statsborgerskap for personer som har
-tjenestegjort i fremmed militær styrke eller sterkt
-har skadet Norges vitale interesser, er å kunne
-utvise dem fra Norge. Den som får det norske
-statsborgerskapet tilbakekalt er igjen utlending
-og som regel ikke vernet mot utvisning. Utvisning
-på bakgrunn av slike alvorlige handlinger det her
-er snakk om, vil antakelig innebære et varig innreiseforbud til Norge. Personen vil på denne
-måten fjernes fra det norske samfunnet også
-utover en eventuell fengselsstraff. Ved å stenge
-personen ute fra Norge, er personens mulighet til
-å gjøre skade på norsk territorium begrenset.
-Så snart dom om tap av statsborgerskap er
-rettskraftig, vil utlendingsmyndighetene kunne
-igangsette en prosess der pass og oppholdstillatelse inndras. I realiteten vil nok vedkommende
-også være ilagt en fengselsstraff, som – med mindre det foreligger særskilte soningsavtaler med
-fremmed stat – må sones i Norge. Det kan ikke
-utelukkes av fengselsstraffen er lang, kanskje det
-også vil være tale om forvaring, der vedkommende potensielt kan forbli fengslet resten av sitt
-
-[Side 69]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-liv. I disse tilfellene vil tap av statsborgerskap ikke
-få annen rettslig betydning enn at vedkommende
-ikke har stemmerett ved valg eller liknende. I så
-måte vil tap av statsborgerskap ha liten betydning,
-både som avskrekkende element og som straff for
-den enkelte.
-Det er i de tilfeller hvor vedkommende slippes
-fri etter endt soning at utfordringene begynner.
-Umiddelbart kan det synes enkelt dersom et utvisningsvedtak leder til at vedkommende straks forlater landet. Personer som er straffedømt i Norge,
-som har sonet sin straff, fratatt sitt norske statsborgerskap og har returnert – enten frivillig eller
-ufrivillig – til sitt andre hjemland, er i prinsippet
-en person som vil ha full bevegelsesfrihet i det landet vedkommende returneres til. Eksempelvis vil
-en person som har returnert til et land i NordAfrika – og som har sonet straff for tjenestegjøring i fremmed militær styrke i Norge – fritt
-kunne bevege seg inn i de samme konfliktområdene som tidligere, uten at norske myndigheter
-kan gripe inn. Dermed settes vedkommende kun
-ut av sirkulasjon for en kort stund, nemlig i den
-perioden vedkommende satt fengslet i Norge.
-Etter dette kan vedkommende være tilbake i konfliktområdene, men denne gangen uten at norske
-myndigheter lenger har virkemidler overfor
-denne personen.
-En slik returnert person vil trolig utgjøre en
-reell trussel mot norske interesser, særlig i utlandet. Det kan ikke utelukkes at vedkommende har
-et ønske om hevn og at han eller hun raskt slutter
-seg til grupper andre steder i verden der radikaliseringsprosessen kan fortsette uten innblanding
-fra offentlige myndigheter. Dette er personer som
-vil kunne ha et potensial til å få martyrstatus eller
-heltestatus i ulike subkulturer. Slike personer vil
-trolig måtte anses som svært farlige, både med
-tanke på terrorhandlinger og med tanke på
-rekrutteringen av andre norske statsborgere inn i
-et nettverk eller en organisasjon som etterretningstjenesten ikke har oversikt over. Tap av statsborgerskap vil således kunne vanskeliggjøre viktig etterretningsarbeid i form av etterkontroll med
-tidligere fremmedkrigere og terrorister.
-Det kan m.a.o. oppstå store problemer med de
-personene som returnerer til sitt annet hjemland.
-Like store problemer kan man få med de personene som av ulike grunner ikke kan returneres,
-for eksempel fordi de risikerer tortur eller dødsstraff i sitt annet hjemland. Disse personene må
-da oppholde seg på norsk jord på ubestemt tid.
-
-69
-
-Kapittel 9
-
-9.2.8 Utenrikspolitiske reaksjoner
-Avslutningsvis bør påpekes at en eventuell praktisering av regler om tap av statsborgerskap kan
-bidra til enkelte utenrikspolitiske utfordringer.
-Dette gjelder først og fremst i de situasjoner hvor
-vedkommende transporteres fra Norge til den staten hvor vedkommende fortsatt har sitt statsborgerskap i behold. Dette kan lede til politisk misnøye i den staten vedkommende returneres til. At
-de utenrikspolitiske reaksjonene vil komme dersom utvisningen skjer til et annet Schengen-land
-er nokså åpenbar. Eksempelvis vil franske
-myndigheter og fransk opinion trolig reagere på
-at personer med dobbelt norsk og fransk statsborgerskap fratas sitt norske statsborgerskap for å ha
-tjenestegjort i en fremmed militær styrke i MidtØsten, for deretter å bli «hjemtransportert» til
-Frankrike. Enda sterkere vil reaksjonene trolig
-være dersom vedkommende har gjort seg skyldig
-i en skade på nasjonens vitale interesser, for
-eksempel utført en terroraksjon mot norske
-oljeinstallasjoner i Nordsjøen. Norge vil i disse
-situasjonene trolig møte liten forståelse for utvisning og «hjemtransport» til et annet Schengenland.
-Utenrikspolitiske utfordringer av tilsvarende
-karakter vil trolig oppstå også ved utvisning til stater utenfor Schengen-området. Flere stater utenfor Schengen-området kan ha regler om tap av
-statsborgerskap ved tjenestegjøring i fremmed
-militær styrke, og land som Marokko, Egypt,
-Algerie og andre nordafrikanske stater vil trolig
-komme med skarpe reaksjoner på at personer
-som har vært bosatt i Norge med norsk statsborgerskap utvises til deres stater som følge av krigføring i Irak og Syria. I realiteten kan disse statene
-frata personene deres statsborgerskap før Norge
-rekker å gjøre det. I så måte bør det nok erkjennes at personer det her kan være tale om å utvise,
-er personer som ingen stater vil ha innenfor sin
-jurisdiksjon. Dermed kan det oppstå et kappløp,
-der det blir om å gjøre å frata personene statsborgerskapet først, og den som reagerer sist blir sittende igjen med «svarteper». Slike forhold vil
-neppe bidra til å bygge gode utenrikspolitiske
-relasjoner for Norge.
-En annen – og neppe like tilsiktet reaksjon – er
-i de tilfeller hvor tap av norsk statsborgerskap
-applauderes i de miljøene man har ment å ramme.
-FFI omtaler i sin rapport at en av IS’ målsettinger
-er å bryte forbindelsen mellom sine fremmedkrigere og deres vestlige statsborgerland. Dette gjøres blant annet gjennom offentlig brenning av
-vestlige pass, der filmene siden benyttes i mar-
-
-[Side 70]
-
-70
-
-NOU 2015: 4
-
-Kapittel 9
-
-Tap av norsk statsborgerskap
-
-kedsføringen for å rekruttere nye krigere. For det
-tilfelle at vestlige land samtidig trekker statsborgerskapet tilbake, er dette vestlig atferd som er
-ønsket fra IS, og som vil bidra i propagandaen for
-å rekruttere flere fremmedkrigere fra vestlige
-land. Tap av statsborgerskap ved tjenestegjøring i
-fremmed militær styrke kan bidra til å forsterke
-konflikter ytterligere.
-
-9.3
-
-Konklusjon og anbefaling
-
-En rekke hensyn gjør seg gjeldende ved vurderingen av om det bør innføres regler om tap av statsborgerskap ved tjenestegjøring i fremmed militær
-styrke eller ved sterk skade på nasjonens vitale
-interesser. Når argumenter og hensyn skal veies
-og oppsummeres før det treffes en endelig beslutning, er dette en avveining hvor man fort kan
-legge vekt på litt ulike hensyn.
-Et overordnet hensyn som trer tydelig frem er
-at myndighetene i størst mulig utstrekning må
-søke å oppnå en situasjon som på lengre sikt reduserer – ikke øker – faren for vold og frykt i samfunnet. Et annet overordnet hensyn er at de idealer som det norske samfunnet er tuftet på må ivaretas. Det gjelder særlig idealer som demokrati og
-menneskerettigheter. Disse to overordnede hensyn gjør at regelverket på dette området ikke kan
-gå på akkord med demokratiske eller menneskerettslige idealer. For befolkningen som sådan tilsier det at rettigheter som for eksempel ytringsfrihet, religionsfrihet eller diskrimineringsvern ikke
-må vike plassen i kampen mot terror og radikalisering. For den som risikerer å tape sitt statsborgerskap innebærer dette at idealer som for eksempel rettferdig rettergang, ikke må vike plass for
-sinne og frustrasjon i samfunnet.
-De sentrale argumentene for å innføre regler
-om tap av statsborgerskap er knyttet til reglenes
-signaleffekt i samfunnet, samfunnets behov for å
-beskytte seg mot enkeltpersoner gjennom fysisk
-utestengelse fra landet og behovet for en gjengjeldelse mot rystende og illojale handlinger mot landet. Den forebyggende effekten av slike regler må
-likevel anses som begrenset, all den tid det er lite
-som tyder på at liknende regler har hatt særlig
-forebyggende effekt i Danmark eller Storbritannia. Dette har kanskje først og fremst sammenheng med at de handlingene det her er tale om
-gjerne springer ut av sterke ideologiske og/eller
-religiøse overbevisninger. Troen i seg selv trenger
-ikke være ekstrem, men den enkelte er villig til å
-begå ekstreme handlinger for å påvirke samfunnet de lever i eller verden for øvrig. Med et slikt
-
-perspektiv for øye vil virkningen av regler om tap
-av statsborgerskap for de færreste være tungen
-på vektskålen i de avveiningene den enkelte tar
-før man sier seg villig til å begå ekstreme
-handlinger.
-Det vil samtidig foreligge et behov for å reintegrere særlig fremmedkrigere til samfunnet, slik at
-de ikke oppnår helte- eller martyrstatus i
-bestemte miljøer og slik at de selv ikke utgjør en
-fremtidig og løpende trussel mot norske interesser. Utvisning fra Norge kan øke sannsynligheten
-for at vekommende fortsetter som fremmedkriger, jf. punkt 9.2.3 foran. En regel om tap av
-statsborgerskap for fremmedkrigere vil slik
-kunne virke mot sin hensikt, ved at personer man
-burde ha som mål å rehabilitere, støtes ut av samfunnet og landet, til en rolle som profesjonelle krigere. Det kan videre være et problem å single ut
-hvilke konfliktsituasjoner som bør omfattes og
-hvor stor deltakelsen må være for å omfattes. Man
-kan også risikere at personene vil være vanskelig
-å returnere til sitt andre hjemland, slik at personene blir værende i Norge på ubestemt tid. Det er
-også grunn til at tro at en rekke land vil reagere
-negativt dersom Norge returnerer fremmedkrigere til dem.
-Dette siste vil nok også være tilfelle for skade
-på nasjonens vitale interesser, der gjerningspersonene har norsk statsborgerskap på gjerningstidspunktet og handlingene begås innenfor norsk
-jurisdiksjon. For skade på nasjonens vitale interesser, begått på norsk jord, vil det stort sett være
-mest nærliggende at Norge selv tar et oppgjør
-med lovbryterne, fremfor å sende dem til andre
-land. Dette kan imidlertid stille seg annerledes
-der norsk pass i første rekke benyttes som en inngangsbillett til Schengen-området for å utføre
-aksjoner her. Eller der tilhørigheten til hjemsendelseslandet for øvrig er sterkere enn tilknytningen til Norge.
-Disse vurderingene trekker i retning av at tjenestegjøring i fremmed militær styrke og skade
-mot nasjonens vitale interesser ikke nødvendigvis
-behandles på samme måte. For skade på nasjonens vitale interesser kan handlingene være av en
-slik grov karakter at de fremstår som sjokkerende
-og rystende. Mens fremmedkrigere som ikke har
-begått alvorlige forbrytelser, skulle ha en rimelig
-sjanse for å reintegreres i samfunnet, vil
-handlinger som for eksempel folkemord, forbrytelser mot menneskeheten og terror representere
-forbrytelser som allmennheten finner forkastelig.
-Det er i disse siste tilfellene at det kan fremstå
-som særlig anstøtelig at personer med dobbelt
-statsborgerskap får beholde sitt norske statsbor-
-
-[Side 71]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-gerskap, særlig dersom tilknytningen til Norge er
-svak.
-På bakgrunn av disse vurderinger anbefales
-det ikke at det politiske handlingsrom benyttes
-fullt ut for innføring av regler om tap av statsborgerskap. Det anbefales ikke at det gis regler om
-tap av statsborgerskap for tjenestegjøring i fremmed militær styrke som sådan. Men under noe tvil
-anbefales det at det gis regler om tap av statsborgerskap for enkelte, konkretiserte straffbare for-
-
-71
-
-Kapittel 9
-
-hold som er av en slik grov karakter at de må
-anses for å falle inn under betegnelsen «nasjonens
-vitale interesser». Dette vil være handlinger som
-er ytterst alvorlige og som fremstår som så rystende at det vil støte an mot den allmenne rettsfølelsen om personer som står bak disse handlingene får beholde sitt norske statsborgerskap når
-de allerede har et annet statsborgerskap.
-
-[Side 72]
-
-72
-
-NOU 2015: 4
-
-Kapittel 10
-
-Tap av norsk statsborgerskap
-
-Kapittel 10
-
-Hvordan bør regler om tap utformes?
-10.1 Innledende bemerkninger
-Det følger av anbefalingen i foregående kapittel at
-det bør gis regler om tap av statsborgerskap for
-handlinger som sterkt er til skade for nasjonens
-vitale interesser. Det bør likevel ikke være automatikk i tap av statsborgerskap i slike situasjoner.
-Regelen bør utformes som en «kan-regel» for
-domstolene, der tap av statsborgerskap utgjør en
-del av straffeutmålingen. Tap av statsborgerskap
-blir således å regne som et rettighetstap som – på
-lik linje med bl.a. fengsel, forvaring og bot – kan
-ilegges som et ledd i domstolenes utmåling av
-straff.
-En slik domstolstilnærming vil kunne ivareta
-de rettslige krav som Grunnloven og de internasjonale konvensjonsforpliktelsene setter til utforming av regler om tap av statsborgerskap: I første
-rekke vil en prosess for domstolene kunne ivareta
-de krav som stilles til straffedom, men i tillegg vil
-domstolene kunne foreta den nødvendige vurderingen av den enkeltes tilknytning til riket før det
-treffes endelig beslutning om tap av statsborgerskap. På den måten vil de rettslige krav være tilfredsstilt. Samtidig vil prosessen frem mot tap av
-statsborgerskap styres av gjeldende lovgivning på
-området, ikke av varierende politiske oppfatninger og strømninger.
-Disse utgangspunktene betinger at lovgivningen er klar og presis i relasjon til hvilke situasjoner som kan lede til tap av statsborgerskap og
-hvilke personer som potensielt omfattes av
-reglene. I de neste punktene vil det derfor vurderes og tas stilling til hvilke handlinger som bør
-omfattes av en slik regel (punkt 10.2), hvilke personer som potensielt bør omfattes (punkt 10.3) og
-hvordan den nærmere prosessen frem mot tap av
-statsborgerskap vil være (punkt 10.4). Til sist vil
-den lovtekniske plasseringen og den nærmere
-utformingen av reglene bli vurdert (punkt 10.5).
-
-10.2 Hvilke handlinger bør omfattes?
-10.2.1 Innledende om forbrytelser til skade
-på nasjonens vitale interesser
-Når det skal tas stilling til hvilke handlinger som
-bør kunne straffes med tap av statsborgerskap, er
-det for denne utredningen naturlig å ta utgangspunkt i de straffbare forhold som er regulert i
-straffeloven av 2005. Skal regler om tap av statsborgerskap tilfredsstille krav om klar og presis
-straffelovgivning, er det helt avgjørende at
-reglene kobles direkte til eksisterende straffehjemler. Dette reiser spørsmål om hvilke straffebestemmelser som bør kobles med regler om tap
-av statsborgerskap. Svaret på dette spørsmålet vil
-bero på hvilke straffebestemmelser som må anses
-som forbrytelser som er sterkt til skade for nasjonens vitale interesser.
-Europarådets konvensjon om statsborgerskap
-av 1997 artikkel 7 åpner for tap av statsborgerskap
-for den som sterkt har skadet nasjonens vitale
-interesser. Det er ikke tilstrekkelig at vedkommende har skadet nasjonens vitale interesser. I tillegg kreves at skaden er av kvalifisert karakter,
-dvs. at terskelen for når den enkelte kan tape sitt
-statsborgerskap er vesentlig høyere enn terskelen
-for å straffeforfølge for skade på nasjonens vitale
-interesser. I juridisk terminologi er «sterkt» et
-uttrykk som peker tilbake på de svært alvorlige
-handlinger. Dette innebærer at bare de forbrytelser som er av meget alvorlig karakter og allerede
-med høy strafferamme vil kunne tilfredsstille kravet om «sterkt» til skade på nasjonens vitale
-interesser.
-Internasjonalt er det lagt få føringer på hva
-som menes med «vitale interesser», og det må
-antas at nasjonalstatene har en relativt vid
-skjønnsmargin, så lenge man holder seg innenfor
-en rimelig rettslig forståelse av uttrykket. Det er
-innlysende at nasjonen må være berørt av handlingene, enten direkte eller indirekte ved at norske statsborgere sterkt skader andre nasjoners
-vitale interesser. Disse utgangspunktene singler
-
-[Side 73]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-ut de straffbare handlinger som er omtalt i kapitlene 16, 17 og 18 i straffeloven av 2005. I det følgende vil disse handlingene bli nærmere kommentert.
-
-10.2.2 Forbrytelser mot statsmaktene og
-statsstyret
-I straffeloven kapittel 17 er det gitt bestemmelser
-til vern om Norges selvstendighet og andre
-grunnleggende nasjonale interesser. Kapitlet
-omhandler blant annet regler om landssvik, forbrytelser mot Norges selvstendighet og fred, forbrytelser mot statsforfatningen og forbrytelser mot
-statsmaktene, statsstyret og sentrale samfunnsinstitusjoner. Bestemmelsene omhandler uten tvil
-situasjoner som skader nasjonens interesser.
-Det er likevel ikke alle handlinger i dette kapitlet som kvalifiserer til «sterk» skade på nasjonens
-vitale interesser. På generelt grunnlag er det vanskelig å sortere ut hvilke handlinger som har et
-potensial å skade nasjonens vitale interesser
-sterkt. Lovgiver har imidlertid foretatt en gradering av de ulike handlingene gjennom stadfesting
-av en øvre strafferamme for de ulike handlingene.
-For eksempel har grovt landssvik en øvre strafferamme på 21 års fengsel (§ 120), mens ulovlig
-etterretningsvirksomhet har en øvre strafferamme på 3 års fengsel (§ 126).
-Det er nærliggende å legge til grunn den graderingen av forbrytelser som lovgiver allerede har
-tatt utgangspunkt i, slik at det bare er de tilfeller
-som har en strafferamme på 21 års fengsel som
-anses å være «sterkt» til skade på nasjonens vitale
-interesser. Etter kapittel 17 er dette grov krenkelse av Norges selvstendighet og fred (§112),
-grov krenkelse av Norges statsforfatning (§114),
-grovt angrep på de høyeste statsorganenes virksomhet (§ 116), og grovt landssvik (§ 120).
-Det anbefales at det knyttes regler om tap av
-statsborgerskap til overtredelse av disse bestemmelsene, det vil si regler om at den som overtrer
-de bestemmelser i straffeloven av 2005 kapittel 17
-som har en øvre strafferamme på 21 års fengsel
-kan straffes med tap av sitt norske statsborgerskap.
-10.2.3 Terrorhandlinger
-I straffeloven kapittel 18 er det gitt bestemmelser
-om
-terrorhandlinger
-og
-terrorrelaterte
-handlinger. Etter sin art må terrorhandlinger
-anses for å utgjøre skade på nasjonens vitale
-interesser. Det er imidlertid ikke alle handlinger
-
-73
-
-Kapittel 10
-
-som omhandles i dette kapitlet som i rettslig forstand kan sies å skade nasjonens vitale interesser
-«sterkt».
-I første rekke er det de handlinger som oppfyller den objektive og subjektive gjerningsbeskrivelse i § 131 som sterkt kan skade nasjonens
-vitale interesser. Dette er hovedbestemmelsen om
-terror i norsk lovgivning og bestemmelsen forutsetter blant annet at den enkelte har hatt terrorhensikt. Bestemmelsen har en strafferamme på
-inntil 21 års fengsel, mens de grove terrorhandlinger har en øvre strafferamme på 30 års fengsel
-etter § 132.
-Terrorhandlinger kan direkte – gjennom
-anslaget – skade nasjonens vitale interesser
-«sterkt». Men også indirekte kan terrorhandlinger «sterkt» skade nasjonens vitale interesser ved
-at det spres frykt, eller utløses panikk, i befolkningen. En slik frykt i befolkningen kan føre til at folk
-holder seg hjemme fra jobb og skole, unngår
-bestemte områder, bygninger, plasser eller byer,
-m.m. Selv relativt små utslag i befolkningen, kan
-få betydning for økonomi og omsetning. Større
-utslag i befolkning kan utgjøre et demokratisk
-problem. Uansett effekt, på kort eller lang sikt, tilsier dette at den som dømmes for en terrorhandling utført i Norge eller i en annen stat, risikerer å
-tape sitt norske statsborgerskap som et ledd i
-straffeutmålingen.
-Øvrige straffebestemmelser i kapittel 18
-omhandler ulike former for handlinger som representerer voldelige anslag i samfunnet, såkalte terrorrelaterte eller terrorliknende handlinger.
-Disse bestemmelsene kan knyttes sammen med
-hovedbestemmelsen i § 131 dersom gjerningspersonen har hatt terrorhensikt. For det tilfellet at
-gjerningspersonen ikke har hatt terrorhensikt,
-kan vedkommende heller ikke straffes etter
-§§ 131 og 132, selv om vedkommende har overtrådt en av de øvrige bestemmelsene i kapittel 18.
-Når vedkommende ikke har hatt terrorhensikt, vil
-handlingene oftere kunne relateres til personlige
-tragedier eller til rene tilfeldigheter, slik at handlingen ikke er egnet til å spre allmenn frykt i
-befolkningen i samme grad som de rene terroraksjoner. Dette taler for at handlinger uten terrorhensikt normalt ikke vil skade nasjonens vitale
-interesser «sterkt».
-På denne bakgrunn anbefales at det gis regler
-om at den som overtrer straffeloven § 131 kan
-tape sitt norske statsborgerskap. Det foreslås at
-det kun vises til denne bestemmelsen siden det er
-denne bestemmelsen som rammer gjerningspersoner med terrorhensikt.
-
-[Side 74]
-
-74
-
-Kapittel 10
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-10.2.4 Folkemord, forbrytelse mot
-menneskeheten og krigsforbrytelser
-I straffeloven kapittel 16 er det gitt bestemmelser
-om de internasjonale forbrytelser. Dette er forbrytelser som også er straffbare etter folkeretten og
-hvor gjerningspersonen i prinsippet kan pådømmes av internasjonale straffedomstoler eller av en
-hvilken som helst nasjonal domstol, selv om handlingene ikke er begått innenfor denne statens
-jurisdiksjon.
-De internasjonale forbrytelsene er folkemord,
-forbrytelse mot menneskeheten og krigsforbrytelser. Forbrytelsene anses som internasjonale
-forbrytelser fordi de etter sin art er grenseoverskridende og rammer menneskeheten. Av den
-grunn må forbrytelsene også anses å være sterkt
-til skade for nasjonens vitale interesser. Hvorvidt
-det vil være hensiktsmessig å frata noen deres
-norske statsborgerskap på grunnlag av overtredelse av slike forbrytelser, kan det reises spørsmål om. Det kan likevel ikke utelukkes at enkelte
-personer med svak tilknytning til Norge stilles for
-retten i Norge for slike forbrytelser.
-Det anbefales på denne bakgrunn at det gis
-regler om at den som dømmes for overtredelse av
-straffeloven kapittel 16 kan tape sitt norske statsborgerskap, så lenge den øvre strafferammen er 21 eller
-30 års fengsel. Det foreslås at spørsmålet om hvorvidt det er hensiktsmessig å utmåle en slik straff for
-de internasjonale forbrytelsene avgjøres konkret av
-den domstol som har saken til behandling.
-
-10.3 Hvem bør omfattes av bestemmelsene
-10.3.1 Tap av statsborgerskap for
-mindreårige?
-Ved en eventuell innføring av regler om tap av
-statsborgerskap ved skade på nasjonens vitale
-interesser reises to hovedproblemstillinger i relasjon til mindreårige. Den første problemstillingen
-er relatert til de situasjoner hvor den mindreårige
-selv har skadet nasjonens vitale interesser. Den
-andre problemstillingen er relatert til de situasjoner hvor den mindreåriges foreldre har skadet
-nasjonens vitale interesser.
-Europarådets konvensjon om statsborgerskap
-fra 1997 omtaler kun den andre av disse problemstillingene, dvs. de situasjoner hvor foreldre taper
-statsborgerskap som følge av tjenestegjøring i
-fremmed militær styrke eller ved skade på nasjonens vitale interesser. For disse tilfellene setter
-konvensjonens artikkel 7 nr. 2 et absolutt forbud
-
-mot å tilbakekalle den mindreåriges statsborgerskap.
-Den første problemstillingen, der den mindreårige selv har skadet nasjonens vitale interesser,
-er ikke eksplisitt omtalt i denne eller andre konvensjoner. Barnekonvensjonen har imidlertid
-generelle bestemmelser om barn og statsborgerskap som langt på vei må forstås slik at de som
-utgangspunkt er til hinder for at mindreårige kan
-fratas statsborgerskap i disse situasjonene, jf.
-punkt 5.6 foran.
-Disse utgangspunktene reiser spørsmål om
-det ved en eventuell innføring av regler om tap av
-statsborgerskap som følge av tjenestegjøring i
-fremmed militær styrke eller ved skade på nasjonens vitale interesser, bør gjøres unntak for personer under 18 år. Alternativet er at regelen utformes på en skjønnsmessig måte, der det legges
-opp til en konkret vurdering fra sak til sak basert
-på hvor sterk tilknytning den mindreårige har til
-landet.
-Ved vurderingen av hvilken regel som bør
-utformes for mindreårige bør det tas hensyn til at
-man i dag ikke kjenner med sikkerhet hvilke konklusjoner de internasjonale organene vil komme
-til vedrørende tolkningen av Den europeiske menneskerettskonvensjon (EMK) artikkel 8 og barnekonvensjonen artikkel 7 og 8 hva gjelder barns
-tap av statsborgerskap ved tjenestegjøring i fremmed militær styrke eller ved skade på nasjonens
-vitale interesser.
-Den rettslige usikkerheten på dette området
-utgjør per i dag et argument som tilsier varsomhet. Konkret innebærer det at man ved utformingen av en bestemmelse om tap av statsborgerskap
-ikke bør la bestemmelsen omfatte personer under
-18 år. En slik absolutt regel vil være klar, forutsigbar og rettsteknisk enkel, i den forstand at det vil
-være lett for befolkningen å lese seg til at personer under 18 ikke kan tape statsborgerskap ved
-skade på nasjonens vitale interesser, eventuelt heller ikke som følge av tjenestegjøring i fremmed
-militær styrke. Dette vil etablere en rettslig trygghet for barn og ungdom.
-Øvrige argumenter som kan trekke i samme
-retning – som er av mer samfunnsmessig og psykologisk karakter enn rettslig karakter – er at
-barn og ungdom generelt er på søken etter egen
-identitet og etter tilhørighet i samfunnet. Noen
-kan ha dårligere forutsetninger enn andre for å
-finne sin plass, enten dette skyldes resurssvake
-eller fraværende foreldre, dårlige rollemodeller,
-svake skoleresultater, dårlige språkkunnskaper,
-dårlige kår, psykiske problemer eller annet. Siden
-mindreårige langt på vei er avhengig av voksne
-
-[Side 75]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-for å klare seg i samfunnet, er det nærliggende at
-statsborgerlandet har et rettslig og moralsk
-ansvar for den mindreårige frem til myndighetsalder, også på en slik måte at alvorlig klanderverdig
-oppførsel ikke kan lede til at den unge støtes ut av
-samfunnet gjennom tap av statsborgerskap.
-Et argument som kan trekke i en annen retning, er at normer og regler etablert av storsamfunnet i noen grad kan virke oppdragende og styrende på barn og unges holdninger og atferd.
-Man kan ikke se bort fra at regler om tap av statsborgerskap kan føre til at noen ungdommer avstår
-fra handlinger de ellers ville begått. Det er imidlertid svært vanskelig å forutsi slike reglers
-mulige preventive effekt, i sær overfor ungdom på
-leting etter identitet og tilhørighet.
-Et annet poeng er at enkelte mindreårige med
-norsk statsborgerskap vil ha en fjern tilknytning
-til landet. Mindreårige med dobbelt statsborgerskap kan ha vært uten fast bopel i Norge i hele sitt
-liv. I prinsippet kan den mindreåriges eneste tilknytning til landet være gjennom et norsk pass.
-Det er likevel grunn til å tro at det er relativt få
-mindreårige som har en slik svak tilknytning til
-Norge og som i så ung alder vil komme til å skade
-nasjonens vitale interesser. For disse personene
-er det uansett nærliggende å anta at en mulig trussel om tap av norsk statsborgerskap vil ha liten
-preventiv effekt på de valg vedkommende gjør.
-På denne bakgrunn anbefales at en eventuell
-fremtidig bestemmelse om enten tap av statsborgerskap for tjenestegjøring i fremmed militær
-styrke eller ved skade på nasjonens vitale interesser, ikke gjøres gjeldende overfor mindreårige.
-De avgjørende hensyn bak denne anbefalingen er
-at dette vil videreføre den rettstrygghet som barn
-og unge i Norge i dag har på dette området. Samtidig vil regelen være rettsteknisk enkel og håndtere. I tillegg tar en slik anbefaling hensyn til at
-Grunnloven § 104, jf. § 102, EMK artikkel 8 og
-barnekonvensjonens bestemmelser trekker opp
-meget snevre rammer for adgangen til å frata mindreårige deres statsborgerskap.
-I tråd med prinsippene i Grunnloven §§ 96 og
-97, vil en regel om at mindreårige ikke kan tape
-sitt statsborgerskap, være til hinder for at mindreårige taper sitt statsborgerskap etter fylte 18 år for
-handlinger begått forut for oppnådd myndighetsalder. Det vil således kun være handlinger begått
-etter fylte 18 år som kan tas i betraktning ved vurderingen av tap av statsborgerskap.
-En reservasjon om at mindreårige ikke kan
-tape statsborgerskap vil lovteknisk kunne gjennomføres ved en tilføyelse i en eventuell ny
-
-75
-
-Kapittel 10
-
-bestemmelse om tap av statsborgerskap. Dette
-kan formuleres på følgende vis:
-Ingen kan tape sitt norske statsborgerskap
-etter denne bestemmelsen for handlinger
-begått før fylte 18 år.
-Denne formuleringen får tydelig frem at personer
-under 18 år ikke kan tape norsk statsborgerskap
-på samme vilkår som personer over 18 år. Skal
-personer under 18 år tape norsk statsborgerskap
-må dette skje på bakgrunn av andre bestemmelser i statsborgerloven. Formuleringen får også
-frem at man ikke kan frata statsborgerskap for
-handlinger som ble begått mens man ennå var
-mindreårig. Formuleringen tydeliggjør imidlertid
-ikke at den mindreårige ikke er ansvarlig for foreldrenes handlinger, men siden tap av statsborgerskap må anses som en strafferettslig reaksjon, er
-det en selvfølge at man ikke kan stille andre enn
-den som har begått eller medvirket til handlingen
-ansvarlig for handlingen. En formulering som fanger opp også dette, vil for eksempel være:
-Personer under 18 år kan ikke tape sitt norske
-statsborgerskap som følge av at vedkommende
-selv eller dets foreldre har begått handlinger
-omtalt i første ledd.
-Hvilken språklig variant man velger vil i noen grad
-avhenge av hvordan bestemmelsen for øvrig formuleres. Det anbefales likevel at det benyttes en
-bestemmelse som etter sin ordlyd er enkel å forstå. Det anbefales derfor at den første av disse formuleringene anvendes, dvs. følgende formulering:
-Ingen kan tape sitt norske statsborgerskap
-etter denne bestemmelsen for handlinger
-begått før fylte 18 år.
-
-10.3.2 Betydningen av hvordan det norske
-statsborgerskapet er ervervet
-Et sentralt spørsmål ved vurderingen av om nye
-regler om tap av statsborgerskap, er hvorvidt det i
-den forbindelse bør gjøres forskjell på grunnlag
-av hvordan statsborgerskapet i sin tid ble ervervet. Som vist i punkt 3.3 kan norsk statsborgerskap erverves gjennom fødsel, adopsjon, søknad
-og melding.
-Det kan vanskelig ses at internasjonale konvensjoner eller Grunnloven setter rettslige skranker for å innføre regler om tap av statsborgerskap
-utelukkende for personer som har ervervet stats-
-
-[Side 76]
-
-76
-
-NOU 2015: 4
-
-Kapittel 10
-
-Tap av norsk statsborgerskap
-
-borgerskap for eksempel etter søknad. De rettslige skrankene måtte i så fall la seg utlede av det
-generelle diskrimineringsvernet i Grunnloven
-§ 98, EMK artikkel 14 og SP artikkel 26. En regel
-om tap av statsborgerskap utelukkende for personer som har ervervet statsborgerskap etter søknad, vil i sin kjerne ikke forskjellsbehandle personer på grunnlag av kjønn, etnisitet, religion eller
-andre typiske diskrimineringsgrunnlag. I noen
-grad vil det kunne argumenteres for at flere
-etniske nordmenn har ervervet statsborgerskap
-ved fødsel enn ved søknad, men det underslår
-ikke den realitet at også mange med ikke-vestlig
-og ikke-kristen bakgrunn vil være blant de norske
-statsborgere som har ervervet statsborgerskapet
-ved fødsel. Dette trekker i retning av at regler om
-tap av statsborgerskap utelukkende for personer
-som har ervervet statsborgerskap ved søknad
-eller melding vil utgjøre en ikke-diskriminerende
-regel, både i formell og reell forstand.
-Etter Europarådskonvensjonen om statsborgerskap av 1997 artikkel 5 nr. 2 skal statene rette
-seg etter prisnippet om ikke-diskriminering også
-mellom personer som har fått statsborgerskapet
-ved fødsel og personer som har ervervet statsborgerskapet senere. Det framgår imidlertid av den
-forklarende rapporten til konvensjonen at dette er
-en intensjonserklæring og ikke en obligatorisk
-regel som skal følges i alle tilfeller.1
-Selv om diskrimineringsvernet i internasjonale konvensjoner og Grunnloven ikke setter
-rettslige skranker for å innføre regler om tap av
-statsborgerskap for de personer som har ervervet
-statsborgerskap ved søknad, må det like fullt vurderes om det bør innføres en slik sondring. Svaret
-på dette spørsmålet beror i noen grad på hvordan
-reglene for øvrig utformes og hva man ønsker å
-oppnå med reglene.
-Et viktig argument for å sondre mellom personer som har ervervet statsborgerskap gjennom
-søknad og personer som har ervervet det ved fødsel, er at regler om tap av statsborgerskap ikke
-skal lede til utrygghet i befolkningen generelt.
-Slik uttrygghet kan oppstå dersom man ikke fullt
-ut forstår reglene som kan lede til tap av statsborgerskap. Dette kan raskt være konsekvensen dersom det innføres mange ulike og til dels skjønnspregede regler om tap av statsborgerskap. Ulempen med en slik sondring er at den kan bli tatt til
-1
-
-Explanatory Report punkt nr. 44 og 45 gjengitt i Ot.prp. nr.
-41 (2004–2005) Om lov om norsk statsborgerskap s. 271
-
-inntekt for at noen personer stemples som førsterangsborgere, mens andre stemples som
-annenrangsborgere. Personer som opplever seg
-stemplet som annenrangsborgere vil kunne etablere mindre grad av lojalitet til Norge enn de som
-har ervervet statsborgerskap ved fødsel. Konsekvensene kan i noen grad være økt fare for terror
-og radikalisering, men vil nok i all hovedsak
-kunne vise seg gjennom andre former for kriminalitet. Dette kan tale for at man formulerer enkle og
-absolutte regler for å unngå en slik uttrygghet for
-store deler av befolkningen.
-Med utgangspunkt i vurderingen i kapittel 9
-og den anbefalingen som foreligger i punkt 9.3,
-skulle det være liten grunn til å etablere regler om
-tap av statsborgerskap utelukkende for personer
-som har ervervet dette ved søknad. Det følger av
-den generelle anbefalingen i punkt 9.3 at regler
-om tap av statsborgerskap utelukkende bør
-omfatte situasjoner der nasjonens vitale interesser
-er sterkt skadet. Det vil i så tilfelle være helt unntaksvis at man står overfor situasjoner der det kan
-bli aktuelt å frata statsborgerskap på dette grunnlag. Skulle situasjonen inntreffe, bør det ikke være
-avgjørende for tap av statsborgerskap hvordan det
-i sin tid ble ervervet. Det ligger allerede en forutsetning om at vedkommende har et annet statsborgerskap og at vedkommende har en slik svak
-tilknytning til Norge at vedkommende ikke er vernet mot utsendelse etter reglene om vern om privatliv og familieliv i Grunnloven § 102 eller EMK
-artikkel 8.
-For det tilfellet at det er politisk ønskelig med
-regler om tap av statsborgerskap i en større
-utstrekning enn det anbefalingen i punkt 9.3 legger opp til, kan det samtidig vurderes om det bør
-sondres mellom statsborgerskap ervervet ved
-fødsel og søknad. Ikke-diskrimineringsprinsippet i
-Europarådskonvensjonen av 1997 taler imidlertid
-i mot en slik løsning.
-Dersom man vil sondre mellom statsborgerskap ervervet ved fødsel og søknad, bør statsborgerskap ervervet ved adopsjon sidestilles med
-statsborgerskap ervervet ved fødsel. Statsborgerloven bygger også ellers på prinsippet om likestilling mellom adopterte og egenfødte barn.
-Hovedkonklusjonen til dette punktet er at det
-ikke anbefales å knytte adgangen til å tilbakekalle
-statsborgerskap ved skade på nasjonens vitale
-interesser til en sondring mellom hvordan statsborgerskapet i sin tid ble ervervet.
-
-[Side 77]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-10.3.3 Tidsbegrensinger i adgangen til å frata
-statsborgerskap
 Innledning
-I kapitlet ovenfor anbefales det at nye regler om
-tap av statsborgerskap bør gjelde både de som har
-ervervet norsk statsborgerskap ved fødsel eller
-adopsjon, og også de som har ervervet det ved
-søknad eller melding.
-Dersom nye regler om tap av statsborgerskap
-kun skal gjelde de som har fått statsborgerskap
-ved søknad eller melding, kan man også vurdere å
-innføre en tidsbegrensning i regelen slik at den
-kun omfatter personer som har hatt statsborgerskap et visst antall år.
-Flere land har regler om at tap av statsborgerskap kun kan skje innen en viss periode etter at
-statsborgerskapet er ervervet.
+
+I kapitlet ovenfor anbefales det at nye regler om tap av statsborgerskap bør gjelde både de som har ervervet norsk statsborgerskap ved fødsel eller adopsjon, og også de som har ervervet det ved søknad eller melding.
+
+Dersom nye regler om tap av statsborgerskap *kun* skal gjelde de som har fått statsborgerskap ved søknad eller melding, kan man også vurdere å innføre en tidsbegrensning i regelen slik at den kun omfatter personer som har hatt statsborgerskap et visst antall år.
+
+Flere land har regler om at tap av statsborgerskap kun kan skje innen en viss periode etter at statsborgerskapet er ervervet.
+
 Tidsbegrensinger ved tilbakekall av ugyldige vedtak
-Noen land har slike regler når det gjelder adgangen til å tilbakekalle vedtak om statsborgerskap
-på grunn av ugyldighet. Dette gjelder for eksempel Tyskland og Finland. Der kan statsborgervedtak som er ugyldige på grunn av gale forutsetninger, kun tilbakekalles dersom dette skjer innen
-fem år etter at statsborgerskapet er ervervet.
-Ungarn og Nederland har liknende regler. Der er
-tidsgrensen henholdsvis satt til 10 og 12 år. Se
-kapittel 8 for en nærmere beskrivelse av andre
-lands rett.
-Etter gjeldende norsk rett har man ikke slike
-begrensinger når det gjelder adgangen til å tilbakekalle ugyldige statsborgervedtak, jf. statsborgerloven § 26 annet ledd. At det har gått lang tid
-siden ervervet, kan imidlertid være et moment
-som kan tillegges vekt i skjønnsavgjørelsen av om
-man skal tilbakekalle et ugyldig vedtak eller ikke.
-Tidsbegrensninger ved tilbakekall på grunn av
-opptreden til skade for statens vitale interesser
-Noen av de landene som har regler om tap av
-statsborgerskap på grunn av tjenestegjøring i
-fremmed militær styrke eller opptreden til skade
-for statens vitale interesser, har også tidsbegrensinger når det gjelder tap etter disse reglene. Belgia er et slikt eksempel. De belgiske reglene om
-tap av statsborgerskap for personer som er dømt
-for alvorlig kriminalitet, kan bare anvendes i saker
-der forbrytelsen er begått innen ti år etter at statsborgerskapet ble innvilget. Dette gjelder allikevel
-ikke der den det gjelder er dømt for krigsfor-
 
-77
+Noen land har slike regler når det gjelder adgangen til å tilbakekalle vedtak om statsborgerskap på grunn av ugyldighet. Dette gjelder for eksempel Tyskland og Finland. Der kan statsborgervedtak som er ugyldige på grunn av gale forutsetninger, kun tilbakekalles dersom dette skjer innen fem år etter at statsborgerskapet er ervervet. Ungarn og Nederland har liknende regler. Der er tidsgrensen henholdsvis satt til 10 og 12 år. Se kapittel 8 for en nærmere beskrivelse av andre lands rett.
 
-Kapittel 10
+Etter gjeldende norsk rett har man ikke slike begrensinger når det gjelder adgangen til å tilbakekalle ugyldige statsborgervedtak, jf. statsborgerloven § 26 annet ledd. At det har gått lang tid siden ervervet, kan imidlertid være et moment som kan tillegges vekt i skjønnsavgjørelsen av om man skal tilbakekalle et ugyldig vedtak eller ikke.
 
-brytelser, folkemord eller forbrytelser mot
-menneskeheten.
-Frankrike har regler som muliggjør tap av
-fransk statsborgerskap blant annet der en person
-har begått en forbrytelse mot statens fundamentale interesse, er dømt for en terrorhandling eller
-for å ha drevet spionasje. Det er imidlertid da et
-vilkår at grunnlaget for tilbakekallet oppstod før
-ervervet av fransk statsborgerskap eller innen ti
-år etter ervervet. Verken Belgia eller Frankrike
-har signert Europarådskonvensjonen av 1997. De
-har derfor ikke bundet seg til ikke-diskrimineringsprinsippet i konvensjonens artikkel 5 nr. 2.
-Det finnes også land som ikke har slike regler.
-Det gjelder for eksempel Storbritannia. Der kan
-tap av hensyn til allmennhetens beste skje, både i
-saker der statsborgerskapet er ervervet ved fødsel, og der det er ervervet ved søknad. Det er ikke
-noen tidsbegrensing når det gjelder antall år som
-har gått siden ervervet av det britiske statsborgerskapet.2
-Det samme gjelder de danske og nederlandske reglene om tap ved overtredelse av visse straffebestemmelser. Heller ikke der settes det en tidsbegrensing, og tap kan skje uavhengig av om
-statsborgerskapet er ervervet ved fødsel eller ved
-søknad.
-Etter dansk rett, vil det avgjørende heller være
-den straffbare handlingens grovhet og hvilken tilknytning den det gjelder har til Danmark. Det skal
-foretas en proposjonalitetsvurdering. Det vil si at
-domstolen skal gjøre en avveining av forholdets
-grovhet, mot betydningen tap av statsborgerskap
-vil ha for den det gjelder.3 Som nevnt i kapittel 8.2
-om dansk rett så fremgår det av forarbeidene til
-loven at det da skal legges vekt på personens tilknytning til Danmark og til utlandet. Varigheten
-og karakteren av personens opphold i Danmark er
-relevant, inkludert hvor personen har vokst opp.
-Videre vil familiemessige forhold i Danmark og i
-utlandet være relevante, samt personens språkkunnskaper.
-2
+Tidsbegrensninger ved tilbakekall på grunn av opptreden til skade for statens vitale interesser
 
-3
+Noen av de landene som har regler om tap av statsborgerskap på grunn av tjenestegjøring i fremmed militær styrke eller opptreden til skade for statens vitale interesser, har også tidsbegrensinger når det gjelder tap etter disse reglene. Belgia er et slikt eksempel. De belgiske reglene om tap av statsborgerskap for personer som er dømt for alvorlig kriminalitet, kan bare anvendes i saker der forbrytelsen er begått innen ti år etter at statsborgerskapet ble innvilget. Dette gjelder allikevel ikke der den det gjelder er dømt for krigsforbrytelser, folkemord eller forbrytelser mot menneskeheten.
 
-Det er imidlertid en utvidet adgang til tilbakekall i saker
-der britisk statsborgerskap er ervervet ved naturalisasjon.
-Etter § 40 nr. 4A kan statsborgerskap som er ervervet ved
-naturalisasjon, dvs. ved søknad eller liknende, tilbakekalles
-selv om det fører til statsløshet. Det er da et vilkår at tilbakekall er til allmennhetens beste fordi den det gjelder har
-opptrådt alvorlig til skade for statens vitale interesser. Det
-er i tillegg et krav at britiske myndigheter har en rimelig
-grunn til å anta at personen kan bli statsborger av et annet
-land eller territorium. Se nærmere punkt 8.3.3.
-Danske forarbeider 2003/1 LSF 138 https://www.retsinformation.dk/Forms/R0710.aspx?id=100345 hentet 11.3.2015
+Frankrike har regler som muliggjør tap av fransk statsborgerskap blant annet der en person har begått en forbrytelse mot statens fundamentale interesse, er dømt for en terrorhandling eller for å ha drevet spionasje. Det er imidlertid da et vilkår at grunnlaget for tilbakekallet oppstod før ervervet av fransk statsborgerskap eller innen ti år etter ervervet. Verken Belgia eller Frankrike har signert Europarådskonvensjonen av 1997. De har derfor ikke bundet seg til ikke-diskrimineringsprinsippet i konvensjonens artikkel 5 nr. 2.
+
+Det finnes også land som ikke har slike regler. Det gjelder for eksempel Storbritannia. Der kan tap av hensyn til allmennhetens beste skje, både i saker der statsborgerskapet er ervervet ved fødsel, og der det er ervervet ved søknad. Det er ikke noen tidsbegrensing når det gjelder antall år som har gått siden ervervet av det britiske statsborgerskapet.[^96]
+
+Det samme gjelder de danske og nederlandske reglene om tap ved overtredelse av visse straffebestemmelser. Heller ikke der settes det en tidsbegrensing, og tap kan skje uavhengig av om statsborgerskapet er ervervet ved fødsel eller ved søknad.
+
+Etter dansk rett, vil det avgjørende heller være den straffbare handlingens grovhet og hvilken tilknytning den det gjelder har til Danmark. Det skal foretas en proposjonalitetsvurdering. Det vil si at domstolen skal gjøre en avveining av forholdets grovhet, mot betydningen tap av statsborgerskap vil ha for den det gjelder.[^97] Som nevnt i kapittel 8.2 om dansk rett så fremgår det av forarbeidene til loven at det da skal legges vekt på personens tilknytning til Danmark og til utlandet. Varigheten og karakteren av personens opphold i Danmark er relevant, inkludert hvor personen har vokst opp. Videre vil familiemessige forhold i Danmark og i utlandet være relevante, samt personens språkkunnskaper.
+
+Bør man innføre tidsbegrensinger dersom man innfører en ny hjemmel for tap av statsborgerskap etter norsk rett?
+
+Innføring av en tidsbegrensing vil avgrense gruppen som kan fratas sitt statsborgerskap etter en eventuell ny bestemmelse. Dette kan ha både positive og negative konsekvenser. I den grad en tapsbestemmelse kan antas å ha forebyggende effekt, vil denne kanskje svekkes. I den grad bestemmelsen anses å ha negativ effekt for eksempel når det gjelder integrering, fremmedgjøring og radikalisering, vil en tidsbegrensing kunne ha positiv effekt.
+
+Dersom det skal utformes nye regler om tap av statsborgerskap så må man også ta hensyn til prinsippet om ikke-diskriminering i Europarådskonvensjonen om statsborgerskap av 1997 artikkel 5 nr. 2. Bestemmelsen gjelder ikke-diskriminering mellom personer som har fått statsborgerskapet ved fødsel og personer som har ervervet statsborgerskapet senere. Bestemmelsen gir uttrykk for en intensjonserklæring og er ikke en obligatorisk regel som skal følges i alle tilfeller.[^98] Bestemmelsen taler allikevel for at man ikke lager regler som gjør forskjell på de som har ervervet statsborgerskap ved søknad, og de som har ervervet statsborgerskap ved fødsel.
+
+Dersom regler om tap, kun innføres for de som har fått statsborgerskap ved søknad eller melding, vil innføring av en tidsbegrensing i regelen kunne demme opp for den uheldige forskjellen i rettsstilling som skapes mellom personer som har fått statsborgerskap ved fødselen og personer som har fått statsborgerskap senere.
+
+Hvis en regel bare gjelder de som har fått statsborgerskap ved søknad, får man fort et a-lag og et b-lag med statsborgere. Der noen har statsborgerskap som ikke kan fratas dem, mens andre ikke har de samme rettighetene. Dette kan oppfattes negativt i samfunnet, og ha negative konsekvenser både for integrering og for fremmedgjøring og radikalisering. Ved å sette en tidsgrense, vil alle statsborgere etter hvert komme over på a-laget. Dette kan virke positivt for integreringen.
+
+1.  **Hvordan kan statsborgerskapet tapes?**
+
+    1.  **Straffesak for domstolene**
+
+Tap av statsborgerskap for den som sterkt har skadet nasjonens vitale interesser må i henhold til vurderingen i punkt 7.3.2 anses som straff. Dette innebærer at tap av statsborgerskap må skje for de ordinære domstolene, ikke gjennom administrative beslutninger.
+
+I prinsippet kunne det fra myndighetenes side vært en fordel med administrativ behandling, i hvert fall på kort sikt. Administrativ behandling er gjerne enklere og mindre resurskrevende enn domstolsbehandling. Viktigere er kanskje at administrativt tap av statsborgerskap kan skje på et tidspunkt hvor vedkommende ikke oppholder seg i landet, slik at tap av statsborgerskap forhindrer vedkommende fra å returnere til landet. Samtidig vil man kunne senke beviskravene ved administrativ behandling sammenliknet med beviskravene i straffesaker for domstolene.
+
+Erfaringene fra Storbritannia, der tap av statsborgerskap kan skje gjennom administrativ beslutning, har imidlertid vært gjenstand for sterk kritikk internt i Storbritannia. Det er pekt på at administrativ behandling leder til manglende åpenhet, manglende ankemulighet, at den enkelte i praksis fanges i de konfliktområder man befinner seg i på et gitt tidspunkt, samt at myndighetene mister verdifull etterretningsinformasjon som man ellers kunne fått tilgang til dersom vedkommende hadde returnert til landet. Også i Norge ville faren for negative reaksjoner mot regelendring og gjennomføring av saker om tap av statsborgerskap trolig vært meget stor dersom tap av statsborgerskap kan besluttes administrativt, for eksempel i Utlendingsdirektoratet og Utlendingsnemnda.
+
+Tap av statsborgerskap må generelt anses som en alvorlig straffereaksjon, og i vår rettskultur skal slike alvorlige reaksjoner ilegges av domstolene. En domstolsprosess vil i større utstrekning enn administrativ behandling ivareta generelle rettsstatsidealer, der den enkelte blant annet gis rett til forsvarer og til å fremlegge bevis som styrker hans eller hennes sak. Vel så viktig er kanskje at domstolsprosessene ikke er politisk styrt, slik at det ikke oppstår allmenn spekulasjon omkring regjeringens rolle i saker vedrørende tap av statsborgerskap.
+
+Domstolsbehandling vedrørende tap av statsborgerskap for den som sterkt har skadet nasjonens interesser vil måtte skje i anledning straffesaken mot den enkelte. På den måten vil domstolene kunne ta i betraktning, og eventuelt foreta en forening, av de ulike aktuelle straffereaksjoner. Tap av statsborgerskap vil inngå som én mulig reaksjon, for eksempel i forening med fengsel eller forvaring. Tap av statsborgerskap vil således være et rettighetstap som inngår som en del av straffeutmålingen i den enkelte sak. I likhet med øvrige straffesaker, får da domstolene anledning til å ta hensyn til den samlede straffen for et lovbrudd, jf. straffeloven av 2005 § 29 annet ledd.
+
+En konsekvens av å innta tap av statsborgerskap som et rettighetstap som ledd i straffeutmålingen, er at det overlates til domstolenes skjønnsutøvelse hvorvidt tap av statsborgerskap skal skje i den enkelte situasjon. Vurderingen vil da først skje på bakgrunn av de straffbare forhold vedkommende er funnet skyldig i og dernest på bakgrunn av vedkommendes personlige og familiære forhold, særlig sett i lys av bestemmelser om respekt for privat- og familieliv i Grunnloven § 102 og EMK artikkel 8. Den samlede utmålingen av straff skal da stå i et rimelig forhold til lovbruddet, jf. straffeloven av 2005 § 29 annet ledd.
+
+1.  **Straffeloven av 2005 § 8: Adgangen til å strafforfølge forhold som er pådømt i utlandet**
+
+Når det i utlandet er avsagt endelig dom som går inn under
+
+a\) lov 25. mars 1977 nr. 22 om overføring av straffeforfølging fra eller til annet europeisk land,
+
+b\) lov 20. juli 1991 nr. 67 om overføring av domfelte, eller
+
+c\) internasjonal avtale innenfor Schengensamarbeidet,
+
+kan ikke straffesak reises eller straffedom avsies i Norge for samme straffbare forhold, når
+
+1.  vedkommende ble frifunnet eller funnet skyldig uten at det ble fastsatt noen reaksjon, eller
+
+<!-- -->
+
+1.  den idømte reaksjonen er helt fullbyrdet, er under fullbyrding eller er bortfalt etter domslandets regler.
+
+Dersom strafforfølgningen i domslandet ikke har skjedd etter krav fra norske myndigheter, kan forfølgning i Norge skje for saker som nevnt i første ledd bokstav a og b, når
+
+a\) handlingen er foretatt i et område som nevnt i § 4, jf. § 7,
+
+b\) lovbryteren på handlingstidspunktet hadde bosted i Norge eller var norsk statsborger, og allmenne hensyn tilsier forfølgning,
+
+c\) handlingen var rettet mot en person med norsk offentlig verv, eller mot en offentlig institusjon eller annet som er av offentlig karakter i Norge, eller lovbryteren selv hadde norsk offentlig verv, eller
+
+d\) Norge har folkerettslig rett eller plikt til strafforfølgning.
+
+Dersom strafforfølgningen i domslandet ikke har skjedd etter krav fra norske myndigheter, kan forfølgning i Norge skje for saker som nevnt i første ledd bokstav c, når
+
+a\) handlingen helt eller delvis ble foretatt i Norge. Ble handlingen bare delvis foretatt i Norge, gjelder unntaket likevel ikke dersom handlingen delvis ble foretatt på territoriet til den konvensjonspart som avsa dommen,
+
+b\) handlingen er straffbar i Norge som krigsforbrytelse, folkemord, lovbrudd mot statens selvstendighet og sikkerhet, lovbrudd mot statsforfatningen og det politiske system, eller som kapring, sabotasje mot infrastrukturen, grovt narkotikalovbrudd, ulovlig befatning med plutonium og uran, eller grov brannstiftelse eller annen særlig farlig ødeleggelse, eller
+
+c\) handlingen ble foretatt av en norsk tjenestemann og var et brudd på vedkommendes tjenesteplikter.
+
+1.  **Prosessregler**
+
+Tap av statsborgerskap ved skade på nasjonens vitale interesser vil følge de alminnelige regler for straffeprosessen som til enhver tid måtte gjelde, jf. lov 22. mai 1981 nr 25 om rettergang i straffesaker (straffeprosessloven) § 1. Riksadvokaten avgjør spørsmål om tiltalte når det gjelder forbrytelser som kan straffes med fengsel inntil 21 eller 30 år, jf. straffeprosessloven § 65.[^99] Dette gjelder med mindre det er Kongen i statsråd som skal avgjøre spørsmålet i henhold til straffeprosessloven § 64. Ved forsøk på overtredelse av straffebestemmelse med lengstestraff på 21 år, behøver ikke tiltalespørsmålet avgjøres av riksadvokaten. Forslaget i denne utredningen er at tap av statsborgerskap skal knyttes opp mot overtredelse av straffebud som kan føre til fengsel i 21 år eller mer. Det vil dermed som regel være riksadvokaten som avgjør om det skal nedlegges påstand om tap av statsborgerskap i forbindelse med straffesaken.
+
+Videre kan retten idømme rettighetstap, selv om det ikke er lagt ned påstand om det, jf. straffeprosessloven § 38 annet ledd annet punktum. Retten vil dermed også på eget initiativ kunne idømme tap av statsborgerskap, selv om det ikke er nedlagt påstand om dette.
+
+Med de unntak som følger av straffeloven 2005 § 8 vil straffesak kunne reises i Norge selv om forholdet allerede er pådømt i utlandet. Dersom en norsk statsborger dømmes for straffbare forhold i utlandet, vil det avhenge av § 8 hvorvidt det kan reises straffesak i Norge med påstand om tap av norsk statsborgerskap. Dersom tap av statsborgerskap knyttes til overtredelse av alvorlige straffebestemmelser, slik det foreslås i denne utredningen, vil staten kunne reise sak om tap av statsborgerskap i de fleste tilfeller der en person er dømt for slike forhold i utlandet.
+
+Fullbyrdet strafferettslig reaksjon ilagt i utlandet for en handling som også blir pådømt i Norge, skal så vidt mulig trekkes fra i den norske dommen, jf. straffeloven 2005 § 84. Bestemmelsen viderefører i det vesentlige straffeloven av 1902 § 13 fjerde ledd. Om § 13 fjerde ledd skriver Andenæs: «Reservasjonen «saavidt muligt» sikter til at det finnes straffer som gir mulighet for fradrag for tidligere utstått straff, for eksempel hvis dommen går ut på tap av offentlig stilling.»[^100]
+
+1.  **Lovteknisk plassering og forslag til lovendringer**
+
+    1.  **Statsborgerloven eller straffeloven?**
+
+De forutgående punktene leder frem til spørsmålet om den lovtekniske plasseringen av regler om tap av statsborgerskap ved skade på nasjonens vitale interesser bør skje i statsborgerloven eller straffeloven.
+
+Regler om erverv og tap av statsborgerskap er i dag utelukkende regulert i statsborgerloven. Dette taler for at eventuelle fremtidige regler om tap av statsborgerskap fortsatt bør inntas i statsborgerloven, slik at denne loven uttømmende regulerer de situasjoner hvor statsborgerskap kan tapes, tilbakekalles eller kjennes ugyldig på annet vis.
+
+Straffelovens system legger imidlertid til grunn at rettighetstap som straff skal være angitt i straffeloven. Det følger av straffeloven av 2005 § 29 første ledd at «straffene er \[…\] f) rettighetstap, jf. kapittel 10». Tap av statsborgerskap som følge av straffbare handlinger utgjør et rettighetstap som i henhold til straffelovens system forutsettes forankret i straffeloven, enten i straffeloven kapittel 10 eller gjennom en endring i straffeloven § 29 første ledd bokstav f). En forankring i straffeloven utelukker likevel ikke at tap av statsborgerskap primært er regulert i statsborgerloven.
+
+Slik lovgivningen er utformet per i dag anbefales at tap av statsborgerskap reguleres i statsborgerloven, men med henvisning til de straffebud i straffeloven som kan lede til tap av statsborgerskap. Statsborgerloven vil dermed fortsatt uttømmende regulere erverv og tap av statsborgerskap, riktignok supplert av konkrete straffebud i straffeloven.
+
+I tillegg til regulering i statsborgerloven – i den hensikt å opprettholde også straffelovens system – anbefales at det inntas en endring i straffeloven § 29 første ledd bokstav f) eller i straffeloven kapittel 10. Dette blir for å synliggjøre at rettighetstap i form av tap av statsborgerskap primært er regulert i statsborgerloven.
+
+1.  **Statsborgerloven kapittel 5**
+
+Som konkludert med i foregående punkt, bør en bestemmelse om tap av statsborgerskap som følge av skade på nasjonens vitale interesser plasseres i statsborgerloven. Tap og tilbakekall av statsborgerskap er regulert i lovens kapittel 5, og en ny bestemmelse om tap av statsborgerskap bør derfor inn i lovens kapittel 5.
+
+Statsborgerloven kapittel 5 strekker seg fra § 23 til § 26, og kapitlet har ingen ledige eller tomme paragrafer. Paragrafene 23 til 26 inneholder bestemmelser om tap av statsborgerskap for andre forhold enn straffbare forhold. Det faller derfor ikke naturlig å plassere regler om tap av statsborgerskap som følge av skade på nasjonens vitale interesser som et tredje eller fjerde ledd til en av de eksisterende paragrafer. Tap av statsborgerskap som følge av skade på nasjonens vitale interesser er av en slik grunnleggende karakter at regler om dette bør synliggjøres gjennom en egen bestemmelse.
+
+Fra et rettslig perspektiv har tap av statsborgerskap som følge av skade på nasjonens vitale interesser størst likhet med den eksisterende § 23 som omhandler tap av statsborgerskap dersom man aktivt søker annet statsborgerskap. En ny bestemmelse om tap av statsborgerskap ved skade på nasjonens vitale interesser kan plasseres som ny § 23a.
+
+Et annet alternativ vil være å plassere bestemmelsen sist i kapitlet, slik at det etableres en ny § 26a. Dermed bryter man ikke opp systematikken i de eksisterende bestemmelsene i statsborgerloven kapittel 5.
+
+Hvorvidt man velger å plassere tap av statsborgerskap som ny § 23a eller ny § 26a har ingen rettslig betydning. På denne bakgrunn anbefales at man i minst mulig utstrekning rører ved den eksisterende systematikken og plasserer ny bestemmelse som statsborgerloven § 26a.
+
+1.  **Ny statsborgerlov § 26a**
+
+Forslag til ny § 26a i statsborgerloven bør inneholde et første ledd som spesifiserer når tap av statsborgerskap kan skje. Første ledd bør således gi en beskrivelse av det rettslige utgangspunktet for at tap kan skje. Eventuelle senere ledd bør inneholde unntak eller modifikasjoner til det rettslige utgangspunktet i første ledd.
+
+På bakgrunn av de forutgående drøftelsene vil de rettslige utgangspunktene for tap av statsborgerskap være to. For det første må det synliggjøres hvilke straffbare forhold som kan lede til tap av statsborgerskap. For det andre må det synliggjøres at det bare er den som har annet statsborgerskap enn norsk statsborgerskap som kan tape sitt norske statsborgerskap etter disse reglene. Disse to utgangspunktene kan enten formuleres i en og samme setning, eller de kan formuleres i to setninger.
+
+Dersom de to rettslige utgangspunkter formuleres i én setning, kan første ledd lyde:
+
+Den som har norsk og annet statsborgerskap, kan tape sitt norske statsborgerskap ved overtredelse av straffeloven § 131 eller en bestemmelse som kan lede til fengsel i 21 år eller mer etter straffeloven kapitlene 16 eller 17.
+
+I tillegg kan det uttrykkelig formuleres at tap av statsborgerskap må skje ved dom eller som et ledd i straffeutmålingen. En slik formulering kan lyde:
+
+Den som har norsk og annet statsborgerskap, kan ved dom tape sitt norske statsborgerskap dersom vedkommende straffes for overtredelse av straffeloven § 131 eller en bestemmelse som kan lede til fengsel i 21 år eller mer etter straffeloven kapitlene 16 eller 17.
+
+Derom de to rettslige utgangspunktene formuleres i to setninger, kan bestemmelsen lyde:
+
+Den som overtrer straffeloven § 131 eller en bestemmelse som kan lede til fengsel i 21 år eller mer etter straffeloven kapitlene 16 eller 17, kan tape sitt norske statsborgerskap. Ingen kan tape sitt norske statsborgerskap dersom dette fører til statsløshet.
+
+Eller:
+
+Den som overtrer straffeloven § 131 eller en bestemmelse som kan lede til fengsel i 21 år eller mer etter straffeloven kapitlene 16 eller 17, kan tape sitt norske statsborgerskap, så fremt vedkommende har annet statsborgerskap.
+
+De ulike alternativene formidler de samme rettslige utgangspunkter. Det anbefales likevel at det første alternativet benyttes: Den er kortfattet, men samtidig presis. Den får tydelig frem at dobbelt statsborgerskap er en forutsetning for at overtredelse av straffeloven kan lede til tap av statsborgerskap. Og den følger samtidig den samme språklige stilen som de øvrige bestemmelsene i kapittel 5 i statsborgerloven.
+
+Det anbefales heller ikke at det inntas formuleringer om at tap av statsborgerskap skal skje ved dom eller liknende formuleringer. Dette er selvsagt når tap av statsborgerskap inngår som en del av straffeutmålingen i en straffesak. Uttrykk som «ved dom» eller liknende kan tvert i mot skape uklarhet om hvorvidt det er adgang til å treffe domsslutning om tap av statsborgerskap utenfor straffesaken.
+
+I forslagets annet ledd bør det fremkomme at reglene ikke kommer til anvendelse på mindreårige. Den nærmere formuleringen for dette ble behandlet i punkt 10.3.1 foran:
+
+Ingen kan tape sitt norske statsborgerskap etter denne bestemmelsen for handlinger begått før fylte 18 år.
+
+I tillegg til selve hovedteksten i ny § 26a i statsborgerloven bør bestemmelsen også ha en overskrift slik de øvrige paragrafer i statsborgerloven kapittel 5 har. Overskriften bør synliggjøre hvilke situasjoner som reguleres i paragrafen og en passende overskrift vil da være:
+
+**Tap av statsborgerskap ved straffbare forhold**
+
+Det anbefalte forslag til ny § 26a i statsborgerloven lyder da:
+
+**Tap av statsborgerskap ved straffbare forhold**
+
+Den som har norsk og annet statsborgerskap, kan tape sitt norske statsborgerskap ved overtredelse av straffeloven § 131 eller en bestemmelse som kan lede til fengsel i 21 år eller mer etter straffeloven kapitlene 16 eller 17.
+
+Ingen kan tape sitt norske statsborgerskap etter denne bestemmelsen for handlinger begått før fylte 18 år.
+
+1.  **Straffeloven § 29 og kapittel 10**
+
+Straffeloven 2005 § 29 lister opp ulike former for straff i første ledd bokstav a) til f). Rettighetstap er listet opp under bokstav f), med en videre henvisning til straffeloven kapittel 10. Dette gjør at rettighetstap i form av tap av statsborgerskap enten må synliggjøres i straffeloven § 29 første ledd bokstav f) eller i kapittel 10.
+
+I straffeloven kapittel 10 finner vi ingen oversikt over mulige rettighetstap, slik det er å forvente av nyere lovgivning. Kapitlet inneholder fire paragrafer (§§ 56-59), hvorav de to første paragrafene regulerer henholdsvis rettighetstap i form av tap av stilling etc. og såkalt kontaktforbud. De to siste paragrafene i kapitlet regulerer generelle spørsmål som ikrafttredelse, varighet og forening med andre straffer.
+
+Systematikken i straffeloven kapittel 10 gjør det umulig å legge til eller trekke fra nye rettighetstap uten å lage uorden i kapitlet. Ideelt sett burde den første paragrafen i dette kapitlet gitt en oversikt over hvilke rettighetstap som i øyeblikket er gjeldende rett, gjennom en enkel opplisting fra bokstav a), b), c) osv. Hadde straffeloven kapittel 10 hatt en slik naturlig innledende bestemmelse om hvilke rettighetstap vi har i norsk straffelovgivning, kunne tap av statsborgerskap vært naturlig føyet til som ett av flere rettighetstap. I så fall kunne det vært gjort en enkel tilføyelse i for eksempel en ny bokstav c), der det fremkommer at tap av statsborgerskap som følge av straffbare forhold er nærmere regulert i statsborgerloven § 26a.
+
+I stedet for en slik innledende bestemmelse om hvilke rettighetstap vi har, begynner straffeloven kapittel 10 rett på reguleringen av et helt konkret rettighetstap i § 56 og deretter en annen form for rettighetstap i § 57. Dette gjør at en nærmere regulering av tap av statsborgerskap for straffbare forhold i kapittel 10 enten må skje i ny § 56a eller § 57a. Dette vil imidlertid gjøre straffeloven kapittel 10 nokså uoversiktlig.
+
+Det er også grunn til å tro at det allerede i dag eksisterer svakheter med straffeloven kapittel 10, for eksempel savnes regler om tap av stemmerett. I henhold til Grunnloven § 53 bokstav a) kan lovgiver gi regler om tap av stemmerett dersom det foreligger straffbare forhold som foreskrevet i lov. Slike regler er ikke kommet til uttrykk i straffeloven kapittel 10, og det er heller ikke lett å se av dagens regelverk om tap av stemmerett overhodet er videreført med straffeloven av 2005.
+
+Det er derfor fristende å revidere kapittel 10 i straffeloven av 2005 slik at kapitlet generelt oppdateres, blir mer leservennlig og mer fleksibelt ved fremtidige endringer i reglene om rettighetstap. En slik reorganisering faller imidlertid utenfor denne utredningens mandat og er i sin alminnelighet en oppgave som ligger til Justis- og beredskapsdepartementets lovavdeling. For denne utredningen er det enkleste derfor at det vedtas et tillegg i straffeloven § 29 første ledd bokstav f) om at rettighetstap også er regulert i statsborgerloven § 26a.
+
+1.  **Endring i straffeloven § 29 første ledd bokstav f)**
+
+For å synliggjøre i straffeloven av 2005 at tap av statsborgerskap kan skje etter nærmere regler i statsborgerloven, foreslås en endring i straffeloven § 29 første ledd bokstav f). En slik endring kan formuleres som følger (forslag til endring fremhevet i kursiv):
+
+Straffene er \[…\] f) rettighetstap, jf. kapittel 10 *eller statsborgerloven § 26a*.
+
+Denne løsningen er ikke rettsteknisk optimal, men den får frem det grunnleggende rettslige utgangspunktet om at statsborgerloven inneholder regler om rettighetstap ved straffbare forhold ved siden av straffeloven kapittel 10. Med mindre Justis- og beredskapsdepartementets lovavdeling foreslår en revisjon av straffeloven kapittel 10 som innbefatter tap av statsborgerskap, anbefales at straffeloven § 29 første ledd bokstav f) endres i tråd med ordlyden ovenfor.
+
+*Del IV*
+
+*Økonomiske og administrative konsekvenser*
+
+1.  **Økonomiske, administrative og andre vesentlige konsekvenser**
+
+    1.  **Økonomiske og administrative konsekvenser**
+
+Innledning
+
+Det anbefales i denne utredningen at eventuelle regler om tap av statsborgerskap skal knyttes direkte opp til overtredelse av konkrete straffebestemmelser.
+
+Tapsbestemmelsene knyttes dermed til en straffeprosess, med tilhørende etterforskning, saksforberedelse, straffesak og eventuelt utvisning og uttransportering av den straffedømte ved tap av det norske statsborgerskapet. Det er imidlertid rimelig å anta at det vil være snakk om ganske få tilfeller.
+
+Det er vanskelig å si hva innføringen av denne tapsbestemmelsen vil koste i kroner, fordi det er for mange ulike scenario og forhold som må tas i betraktning. En beskrivelse av den administrative prosessen kan gi et inntrykk av forventede kostnader og tidsbruk.
+
+Saksforberedelser
+
+Antatt ressursbruk avhenger av forbrytelsens alvorlighetsgrad og omfang. Eksempelvis vil etterforskning av forbrytelser begått i utlandet normalt være mer ressurskrevende enn forbrytelser begått på norsk jord.
+
+Straffesaker der spørsmål om tap av statsborgerskap skal behandles, vil kreve noe mer ressurser til saksforberedelse og bevisføring utover det som er vanlig i straffesaker. Det skal dokumenteres om den det gjelder har dobbelt statsborgerskap og om tap av statsborgerskap vil være en forholdsmessig og lovlig reaksjon, jf. norsk lov og internasjonale konvensjoner Norge er bundet av.
+
+Påtalemyndigheten skal bevise tiltaltes tilknytning til Norge og til det andre landet vedkommende har statsborgerskap i. Det vil være nødvendig å innhente informasjon fra relevante institusjoner i både Norge og utland.
+
+Rettssak
+
+Tap av statsborgerskap, slik det er foreslått i denne utredningen, er en straff i form av et rettighetstap som må idømmes av domstolene. Domstolens utgifter ved en sak i tingretten er omtrent 11 500 kroner per dag, mens den i lagmannsretten er cirka 24 000 kroner per dag. Tallene inkluderer utgifter til dommere og saksbehandlere samt husleie, strøm med mer. Tallene inkluderer ikke utgifter til IKT.[^101]
+
+Spørsmålet om tap av statsborgerskap vil være en problemstilling som domstolene tar stilling til, som en del av straffeutmålingen, etter at domstolen har funnet den tiltalte skyldig. Ved vurderingen av om domstolene skal fradømme statsborgerskapet, må domstolen ta stilling til om vilkårene for tap av statsborgerskap er oppfylt, herunder gjøre en forholdsmessighetsvurdering. Tidsbruken på forholdsmessighetsvurderingen vil antagelig være ganske lik, uavhengig av hvor komplisert straffesaken ellers er. Siden tap av statsborgerskap blir et ytterligere spørsmål som skal prosederes og vurderes, vil dette normalt medføre økt tids- og ressursbruk for domstolene og påtalemyndighetene. Det er rimelig å anta at vurderingen som skal gjøres vil kreve om lag den samme ressursbruken som forholdsmessighetsvurderingen i en utvisningssak. Man kan anslå at spørsmålet om tap av statsborgerskap, vil føre til én til to dager lengre behandling i hver rettsinstans, og dermed noe økte kostnader for domstolene.
+
+Behandling i Høyesterett er en sannsynlig merutgift. Både påtalemyndighetene og den straffedømte har mulighet til å anke over straffeutmålingen til Høyesterett. Det er rimelig å anta at de fleste som taper sitt statsborgerskap vil ønske å prøve denne avgjørelsen for Høyesterett, selv om vedkommende ikke ønsker å anke den øvrige straffeutmålingen. Man kan anta at det må settes av en til fire dager til denne behandlingen.
+
+Forsvarere, tolker, sakkyndige, vitner og meddommere godtgjøres over Justis- og beredskapsdepartementets budsjett kapittel 466 Særskilte straffesaksutgifter. Det må påberegnes noe økte utgifter på denne posten, avhengig av antall saker der tiltalte har opptrådt sterkt til skade for nasjonens vitale interesser.
+
+Utvisning og uttransportering
+
+Utvisning og utsendelse vil være spørsmål som gjerne vil oppstå i kjølvannet av saker der norsk statsborgerskap tapes etter en eventuell ny tapsbestemmelse. Utgifter i forbindelse med utvisningssaken kan dermed være en indirekte konsekvens av tapet av det norske statsborgerskapet.
+
+Årsakene til at personer blir utvist fra Norge er enten brudd på utlendingsloven eller straffeloven, se kapittel 3.6. I 2013 var de gjennomsnittlige omkostningene for saksbehandling i Utlendingsdirektoratet per utvisningssak i underkant av 6 500 kroner.[^102] Det kan tenkes at saksbehandlingen i de tilfeller denne utredningen belyser, vil være mer ressurskrevende. Utlendingsdirektoratets avgjørelse kan påklages til Utlendingsnemnda, noe som vil føre til økt ressursbruk også der.
+
+En annen mulig merutgift oppstår dersom utvisningsvedtaket, eller avslag på omgjøringsbegjæringer, prøves for domstolene.
+
+De tilfellene der uttransportering blir relevant som følge av utvisning for brudd på straffeloven, vil normalt havne på prioriteringslisten til politiets utlendingsenhet. Dette vil også gjelde tilfeller der statsborgerskap er tapt i forbindelse med en straffesak og vedkommende utvises i etterkant. Ressursbruken vil dermed ikke gå utover eksisterende budsjettrammer.
+
+Dersom det oppstår saker der en person har tapt sitt statsborgerskap, men er vernet mot utsendelse, kan dette føre til økt ressursbruk og økte kostnader blant annet for politi, rettsvesen og utenrikstjenesten, herunder til arbeid med returavtaler.
+
+1.  **Andre vesentlige konsekvenser**
+
+Når det gjelder vurderingen av andre konsekvenser enn de økonomiske og administrative vises det til foregående kapitler i utredningen.
+
+Problemstillingens relasjon til menneskerettighetene vurderes særlig i kapittel 6 og 7, herunder diskrimineringsvern og barns rettigheter.
+
+I kapittel 9.1 gis en oppsummering av hvilke rettslige rammer de internasjonale konvensjonene setter. I kapittel 9.3 gis en oversikt over konsekvenser forslaget kan tenkes å få for den enkelte og for samfunnet. Blant annet omtales konsekvenser for forebygging av terror og radikalisering, integrering og utenrikspolitisk samarbeid.
+
+*Del V*
+
+*Forslag til lovendringer*
+
+1.  **Merknader til de enkelte bestemmelsene i lovforslaget**
+
+*Til statsborgerloven § 26a*
+
+**§ 26a** *Tap av statsborgerskap ved straffbare forhold.*
+
+*Den som har norsk og annet statsborgerskap, kan tape sitt norske statsborgerskap ved overtredelse av straffeloven § 131 eller en bestemmelse som kan lede til fengsel i 21 år eller mer etter straffeloven kapitlene 16 eller 17.*
+
+*Ingen kan tape sitt norske statsborgerskap etter denne bestemmelsen for handlinger begått før fylte 18 år.*
+
+*Første ledd* setter vilkår for når norsk statsborgerskap kan tapes som følge av straffbare forhold.
+
+Det er for det første et vilkår at den det gjelder har minst ett annet statsborgerskap på det tidspunkt hvor norsk statsborgerskap tapes. Dette innebærer at vedkommende ikke kan gjøres statsløs gjennom beslutning om tap av statsborgerskap. Hvorvidt vedkommende lett kan erverve et annet statsborgerskap eller burde ervervet et annet statsborgerskap, er ikke relevant for muligheten til å frata ham eller henne det norske statsborgerskapet. Den det gjelder må være faktisk innehaver av minst ett annet statsborgerskap for at det norske statsborgerskapet kan tapes. Det andre statsborgerskapet må være relatert til en stat som tilfredsstiller vilkårene for statsdannelse etter folkeretten. Hvorvidt staten eller selvstyremyndighetene er anerkjent av Norge er uten betydning, så lenge staten tilfredsstiller folkerettens krav. Se kapittel 5.9 for en nærmere redegjørelse av statsløsreservasjonen.
+
+Tap kan skje uavhengig av hvordan norsk statsborgerskap er ervervet. Tap kan også skje uavhengig av hvordan annet statsborgerskap er ervervet.
+
+Dernest er det et vilkår for tap av statsborgerskap etter denne bestemmelsen at vedkommende overtrer enten straffeloven § 131 eller en bestemmelse i straffeloven kapittel 16 eller en bestemmelse i straffeloven kapittel 17. For overtredelse av en bestemmelse i kapitlene 16 eller 17 må vedkommende ha overtrådt en bestemmelse som har en øvre strafferamme på 21 eller 30 års fengsel.
+
+Forbudet mot tilbakevirkende lover tilsier at tap av statsborgerskap utelukkende kan finne sted der de straffbare forhold er begått etter at lovendringen trådte i kraft. Se nærmere punkt 7.4.
+
+Tap av statsborgerskap etter denne bestemmelsen regnes som straff i form av rettighetstap. Hvorvidt vedkommende taper sitt norske statsborgerskap vil inngå som en del av domstolenes konkrete straffeutmåling. Det er dermed domstolene som skal avgjøre om statsborgerskapet skal tapes som en konsekvens av at vedkommende er funnet skyldig i straffbare forhold som foreskrevet i første ledd. Påtalemyndigheten avgjør om det skal reises straffesak etter gjeldende prosessregler og kan i den forbindelse nedlegge påstand om tap av norsk statsborgerskap. Retten kan videre idømme rettighetstap i en straffesak selv om det ikke er lagt ned påstand om det, jf. straffeprosessloven § 38 annet ledd annet punktum. Retten må imidlertid se til at tiltalte gis tilstrekkelig mulighet til å fremlegge opplysninger som kan tale mot at statsborgerskapet tapes. Med de unntak som følger av straffeloven 2005 § 8 kan straffesak om tap av statsborgerskap etter § 26a reises i Norge selv om forholdet for øvrig er pådømt i utlandet.
+
+Bestemmelsen er på lik linje med de fleste straffebestemmelser utformet som en skjønnsbestemmelse. Dersom vilkårene er oppfylt, *kan* domstolene som et ledd i straffeutmålingen, beslutte at statsborgerskapet tapes. Vurderingen må da skje på bakgrunn av karakteren og alvorlighetsgraden av det straffbare forhold som vedkommende er funnet skyldig i, samt vedkommendes personlige og familiære forhold, særlig sett i lys av bestemmelser om respekt for privat- og familieliv i Grunnloven § 102 og Den europeiske menneskerettskonvensjon (EMK) artikkel 8. Tap av statsborgerskap kan bare finne sted dersom dette anses som et rimelig og forholdsmessig tiltak.
+
+Tap av statsborgerskap kan ilegges sammen med for eksempel fengsel, forvaring eller bot. Den samlede utmålingen av straff skal stå i et rimelig forhold til lovbruddet, jf. straffeloven av 2005 § 29 annet ledd.
+
+*Annet ledd* bestemmer at ingen kan tape sitt norske statsborgerskap etter § 26a for handlinger begått før fylte 18 år. Dette innebærer at selv om den mindreårige er strafferettslig ansvarlig for handlingene, kan utmålingen av straff ikke inkludere tap av statsborgerskap. Det følger implisitt av bestemmelsen at mindreårige heller ikke kan tape norsk statsborgerskap fordi foreldre taper statsborgerskapet som følge av straffbare forhold.
+
+*Til straffeloven 2005 § 29 første ledd bokstav f*
+
+**§ 29.** Straffene
+
+Straffene er
+
+a\) fengsel, jf. kapittel 6,
+
+b\) forvaring, jf. kapittel 7,
+
+c\) samfunnsstraff, jf. kapittel 8,
+
+d\) ungdomsstraff, jf. kapittel 8 a,
+
+e\) bot, jf. kapittel 9, og
+
+f\) rettighetstap, jf. kapittel 10 *eller statsborgerloven § 26a*.
+
+Når det ved fastsetting av straff er aktuelt å ilegge flere strafferettslige reaksjoner, jf. første ledd og § 30, skal den samlede reaksjonen stå i et rimelig forhold til lovbruddet.
+
+Lovforslaget tar utgangspunkt i straffeloven av 2005 i det denne antagelig vil tre i kraft før eventuelle endringer i statsborgerloven m.v.
+
+Straffeloven av 2005 § 29 bestemmer hvilke reaksjoner som omfattes av straffelovens formelle straffebegrep. Ved å ta inn en henvisning til statsborgerloven § 26a i § 29 første ledd bokstav f), vil tap av statsborgerskap defineres som straff i form av rettighetstap etter straffeloven av 2005.
+
+Saker om tap av statsborgerskap etter § 26a skal behandles etter reglene i straffeprosessloven, jf. straffeprosessloven § 1. Straffeloven av 2005 § 59 om forening av rettighetstap med andre straffer vil gjelde også i saker der statsborgerskap tapes etter § 26a så langt bestemmelsen passer. Tilsvarende kommer straffeloven av 2005 § 58 første ledd til anvendelse så langt bestemmelsen passer. Av denne bestemmelsen følger det at rettighetstapet trer i kraft fra det tidspunkt hvor dommen er endelig avgjort.
+
+1.  **Lovforslag**
+
+Forslag til lov om endringer i statsborgerloven og straffeloven
+
+I
+
+I lov om norsk statsborgerskap 10. juni 2005 nr. 51 skal ny § 26a lyde:
+
+*§ 26a Tap av statsborgerskap ved straffbare forhold*
+
+*Den som har norsk og annet statsborgerskap, kan tape sitt norske statsborgerskap ved overtredelse av straffeloven § 131 eller en bestemmelse som kan lede til fengsel i 21 år eller mer etter straffeloven kapitlene 16 eller 17.*
+
+*Ingen kan tape sitt norske statsborgerskap etter denne bestemmelsen for handlinger begått før fylte 18 år.*
+
+II
+
+I lov om straff 20. mai 2005 nr. 28 skal § 29 første ledd bokstav f) lyde:
+
+f\) rettighetstap, jf. kapittel 10 *eller statsborgerloven § 26a*.
+
+III
+
+Loven gjelder fra den tid Kongen bestemmer.
+
+**Referanse- og litteraturliste**
+
+Andenæs, Johs., Magnus Matningsdal (red.) og Georg f. Rieber-Mohn (red.) (2004) *Alminnelig strafferett*, 5. utgave, Universitetsforlaget
+
+De Groot, Gerard-René og Maarten P. Vink (2014): *Best Practices in Involuntary Loss of Nationality in the EU,* CEPS paper in Liberty and Security No. 73 november 2014
+
+Eskeland, Ståle (2006): *Strafferett*, 2. utgave, Cappelen Damm Akademisk
+
+Fleischer, Carl August (2005): *Folkerett*, Universitetsforlaget
+
+Høstmælingen, Njål (red.), Elin S. Kjørholt (red.) og Kirsten Sandberg (red.) (2012): *Barnekonvensjonen – barns rettigheter i Norge*, 2. utgave, Universitetsforlaget
+
+Ruud, Morten og Geir Ulfstein (2011): *Innføring i folkerett,* Universitetsforlaget
+
+Dommer
+
+Den europeiske menneskerettsdomstolen (1968): *Case «Relating to Certain Aspects of the Laws on the Use of Languages in Education in Belgium» (avsagt 23. juli 1968)*
+
+Den europeiske menneskerettsdomstolen (1976): *Engel m.fl. mot Nederland (avsagt 8. juni 1976).*
+
+Den europeiske menneskerettsdomstolen (1979): *Sunday Times mot Storbritannia (avsagt 26. april 1979).* EMD-6538–74
+
+Den europeiske menneskerettsdomstolen (2001): *Boultif mot Sveits (avsagt 2.8.2001).* EMD-2000–54273
+
+Den europeiske menneskerettsdomstolen (2006): *Rodrigues da Silva m.fl. mot Nederland (avsagt 31.1.2006).* EMD-1999–50435
+
+Den europeiske menneskerettsdomstolen (2006): *Üner mot Nederland (avsagt 18.10.2006).* EMD-1999–46410
+
+Den europeiske menneskerettsdomsol (2008): *Darren Omoregie m.fl. mot Norge (dom avsagt 31.8.2008)*
+
+Den europeiske menneskerettsdomstolen (2011): *Genovese mot Malta (avsagt 11.10.2011).* EMD-2009–53124
+
+Den europeiske menneskerettsdomstolen (2012): *Kuric m.fl. mot Slovenia (avsagt 26.6.2012*). EMD-2006–26828
+
+Norske dommer:
+
+*HR-2015–289-A*
+
+*HR-2015–206-A*
+
+*Rt. 1958 side 479*
+
+*Rt. 1973 side 433*
+
+*Rt. 1998 side 1945 og 1947*
+
+*Rt. 2000 side 59*
+
+*Rt. 2004 side 357*
+
+*Rt. 2006 side 293*
+
+*Rt. 2007 side 667*
+
+*Rt. 2009 side 543*
+
+*Rt. 2009 side 780*
+
+*Rt. 2010 side 1445*
+
+*Rt. 2012 side 1985*
+
+Konvensjoner
+
+Den europeiske menneskerettskonvensjon av 1950
+
+Europarådets konvensjon om begrensning av tilfeller med dobbelt statsborgerskap og om militære forpliktelser i tilfeller av dobbelt statsborgerskap av 1963
+
+Europarådets konvensjon om statsborgerskap av 1997
+
+FNs konvensjon mot rasediskriminering av 1965
+
+FNs konvensjon om barns rettigheter av 1989
+
+FNs konvensjon om begrensning av statsløshet av 1961
+
+FNs konvensjon om sivile og politiske rettigheter av 1966
+
+FNs konvensjon om statsborgeskap av 1930
+
+FNs konvensjon om statsløses stilling av 1954
+
+FNs konvensjon om økonomiske, sosiale og kulturelle rettigheter av 1966
+
+FNs verdenserklæring om menneskerettigheter av 1948
+
+Offentlige publikasjoner
+
+Dokument 16 (2011–2012): *Rapport til Stortingets presidentskap fra Menneskerettighetsutvalget om menneskerettigheter i Grunnloven*
+
+Europarådets konvensjon om statsborgerskap (1997): *Explanatory Report*
+
+Justis- og beredskapsdepartementet (2014): *Handlingsplan mot radikalisering og voldelig ekstremisme*
+
+Justis- og beredskapsdepartementet (2014): *Høring – forslag om kriminalisering av visse handlinger knyttet til væpnet konflikt (fremmedkriger),* høringsbrev av 4.7.2014
+
+Ot.prp. nr. 41 (2004–2005) *Om lov om norsk statsborgerskap*, **Kommunal- og regionaldepartementet
+
+Ot.prp. nr. 75 (2006–2007) *Om lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)*, Arbeids- og inkluderingsdepartementet
+
+Prop. 64 L (2014–2015) Lov om ikraftsetting av straffeloven 2005, Justis- og beredskapsdepartementet
+
+UN Committee on the Elimination of Racial Discrimination, *General Recommendation No. 30: Discrimination against Non-Citizens* (2004)
+
+UN Committe on the Rights of the Child, *General comment No. 14 (2013) on the right of the child to have his or her best interests taken as a primary consideration (art.3, para. 1),* 29 May 2013
+
+UN High Commissioner for Refugees (UNHCR) (2013): *Expert Meeting on interpreting Article 5–6 of the 1961 Statelessness Convention and Avoiding Statelessness resulting from Loss and Deprivation of Nationality*. Summary Conclusions
+
+UN High Commissioner for Refugees (UNHCR), *Guidelines on Statelessness No. 4: Ensuring Every Child’s Right to Acquire a Nationality through Articles 1–4 of the 1961 Convention on the Reduction of Statelessness*, 21 December 2012, HCR/GS/12/04
+
+UN High Commissioner for Refugees (UNHCR), *Handbook on Protection of Stateless Persons*, 30 June 2014
+
+UN Human Rights Committee, *General Comment 27, Freedom of movement (Art.12)*, U.N. Doc CCPR/C/21/Rev.1/Add.9 (1999)

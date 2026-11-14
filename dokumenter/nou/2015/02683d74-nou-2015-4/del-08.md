@@ -1,966 +1,152 @@
-# NOU 2015: 4, del 8 av 10 (side 95–104)
+# NOU 2015: 4, del 8 av 9
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2015/02683d74-nou-2015-4.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2015-4/id2402318/
 - Original-PDF: https://www.regjeringen.no/contentassets/cfd58282be3c43a3b244df40f41e5fb3/no/pdfs/nou201520150004000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 95]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-satsen eller fordi de hadde giftet seg med en
-bosnisk statsborger. Hvor mange dette gjaldt er
-usikkert, og anslagene spriker mellom 400 og
-3000.4 I 2006 ble det igangsatt en prosess med å
-gjennomgå disse naturaliserte statsborgerskapene, og i desember 2008 hadde minst 600 av dem
-mistet sitt statsborgerskap og flere sendt hjem til
-sine opprinnelige hjemland.5 Denne prosessen
-har blitt kritisert for å være diskriminerende, lite
-transparent og utført etter amerikansk press
-(USA var faktisk også representert i kommisjonen
-som gikk gjennom statsborgerskapene.) Flere av
-de som ble sendt hjem til sine opprinnelige hjemland skal også ha blitt torturert.6
-Som en følge av det økende antall vestlige
-statsborgere som har oppsøkt konfliktområder og
-sluttet seg til ekstreme grupperinger de senere
-årene har flere land innført eller vurdert å innføre
-nye regler om tap av statsborgerskap. Så langt er
-det imidlertid kun Storbritannia som har implementert tiltaket. Fra 2002 og særlig i etterkant av
-terrorangrepet i London sommeren 2005, har
-Storbritannia gradvis lempet på restriksjonene
-som må oppfylles for at noen kan miste sitt britiske statsborgerskap, så lenge de har dobbelt
-statsborgerskap. Dette gjelder både de som er
-født britiske og de som har blitt naturaliserte
-statsborgere. Fra januar 2006 og til mai 2011 skal
-13 britiske statsborgere ha mistet sitt statsborgerskap, og nesten samtlige var anklagd for koblinger til islamistiske terrorgrupper.7 I desember
-2013 ble det rapportert at 37 britiske statsborgere
-hadde mistet sitt statsborgerskap etter 2010, og at
-20 av disse tilfellene forekom i 2013. Dette tallet
-inkluderer imidlertid også de som hadde fått innvilget statsborgerskap på feilaktig grunnlag. En
-undersøkelse fra februar 2013 fant at av 18 som
-kunne identifiseres hadde 17 mistet sitt statsborgerskap fordi de utgjorde en trussel mot rikets
-4
-
-5
-6
-
-7
-
-Stephanie Zosak, «Revoking Citizenship in the Name of
-Counterterrorism: The Citizenship Review Commission
-Violates Human Rights in Bosnia and Herzegovina,» Northwestern Journal of International Human Right, 2 (2010):
-216-232 og Jeanine de Roy van Zuijdewijn and Edwin Bakker «Returning Western Foreign Fighters: The Case of Afghanistan, Bosnia and Somalia,» The International Centre
-for Counter –Terrorism, June 2014.
-Zosak (2010).
-For denne kritikken se særlig Zosak (2010) og Darryl Li,
-«Universal Enemy?: «Foreign Fighters» and Legal Regimes
-of Exclusion and Exemption under the «Global War on Terror»,» Columbia Human Rights Law Review, 2 (2010): 355428. Se også Jonathan Finer, «In Bosnia, Former Fighters
-Face Expulsion,» Washington Post, 4 September 2007.
-Gibney (2013) og Katrin Bennhold, «Britain Increasingly
-Invokes Power to Disown Its Citizens,» New York Times, 9
-April 2014.
-
-95
-
-Vedlegg 1
-
-sikkerhet. Den eneste ikke-muslimen blant disse
-17 var den russisk-britiske Anna Chapman,
-anklagd for å være russisk spion. Av de identifiserte og navngitte tilfellene har flere av de britiske
-statsborgerne mistet sitt statsborgerskap grunnet koblinger til den al-Qaida relaterte terrorgruppa al-Shabaab i Somalia.8 Det er uklart hvor
-mange av Syriafarerne som har mistet sitt britiske
-statsborgerskap og lovforslagene her er under stadig revisjon og som i de fleste vestlige land er det
-en pågående diskusjon rundt denne problematikken.9
-Storbritannia har imidlertid i stor grad praktisert en «administrativ behandling» hvor prosessen rundt tap av statsborgerskap har foregått for
-lukkede dører i utlendingsforvaltningen og ikke
-gjennom åpne rettsaker med tiltalte tilstede. Dette
-har også medført at flere britiske statsborgere har
-blitt fratatt sitt statsborgerskap mens de har vært i
-utlandet. Denne ordningen har blitt kritisert både
-av jurister og av terrorforskere på grunn av manglende åpenhet, tiltaltes manglende mulighet til å
-anke og at det i praksis medfører at fremmedkrigerne blir fanget i konfliktområdet uten mulighet
-til å komme hjem igjen.10 To av de som mistet sitt
-britiske statsborgerskap ble kort tid etterpå drept
-i amerikanske droneangrep, mens en tredje sitter
-nå på isolat i et amerikansk høysikkerhetsfengsel
-anklagd for koblinger til den somaliske gruppen
-al-Shabaab.11 Forskere og analytikere har også
-påpekt at man risikerer å miste verdifull etterretningsinformasjon ettersom man blir forhindret fra
-muligheten til å avhøre eventuelt hjemvendte
-fremmedkrigere.12
-8
-
-9
-
-10
-
-11
-
-12
-
-Chris Woods og Alice K Ross, «‘Medieval Exile': The 42 Britons Stripped of their Citizenship,» The Bureau of Investigative Journalism, 26 February 2013.
-Se for eksempel Alice Ross, Patrick Galey, Nigel Morris,
-«Exclusive: No way back for Britons who join the Syrian
-fight, says Theresa May,» The Independent, 23 December
-2013, Alan Travis, «Counter-terrorism and security bill: proposals and pitfalls,» The Guardian, 24 November 2014.
-Shiraz Maher and Peter Neumann, «Offering Foreign Fighters in Syria and Iraq a Way Out,» The International Centre
-for the Study of Radicalisation and Political Violence,
-August 2014 og Alan Travis and Patrick Wintour, «Plan to
-refuse jihadis re-entry to UK breaches citizenship laws, say
-critics,» The Guardian, 14 November 2014,
-Alice K Ross «Stripped of his UK citizenship, now Mahdi
-Hashi is in solitary confinement in New York,» The Bureau
-of Investigative Journalism, 19 April 2014, og Chris Woods ,
-Alice K Ross , Oliver Wright, «British terror suspects
-quietly stripped of citizenship… then killed by drones,»
-The Independent, 28 February 2013.
-Dina Temple-Raston,«Britain Debates Revoking Passports
-Of Fighters Returning From Syria, Iraq,» NPR, 14 October
-2014.
-
-[Side 96]
-
-96
-
-Vedlegg 1
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-Et annet problem ved denne administrative
-behandlingen er at den også langt på vei kan bidra
-til å bekrefte fremmedkrigernes ideologiske verdenssyn og snarere forsterke deres tilknytning til
-konfliktområdet eller til en militant aktør i området og styrke deres overbevisning om at de har
-brutt med sitt hjemland. Samtidig vil det vanskeliggjøre retur for de fremmedkrigerne som eventuelt angrer og vil hjem.
-Den islamske staten (IS) oppmuntrer for
-eksempel fremmedkrigerne som er med i gruppa
-til å brenne sine pass for å demonstrere at deres
-lojalitet ikke er knyttet til en nasjonalstat, men kun
-til Islam og deres selverklærte islamske stat. IS
-gjør et stort poeng ut av dette i sin propaganda og
-det finnes en rekke filmklipp av fremmedkrigere
-som brenner sine vestlige pass.13 Flere sentrale
-IS-sympatisører i Vesten har frivillig sagt fra seg
-sitt gamle statsborgerskap eller bedt myndighetene om å oppheve statsborgerskapet til muslimer
-som vil slutte seg til den islamske staten.14 IS skal
-endog ha utstedt egne pass som viser at medlemmene i stedet er statsborgere av denne nye islamske «staten».15 Dette er også en måte å kontrollere fremmedkrigerne på, og det har blitt rapportert at IS og andre tilsvarende grupper ofte konfiskerer passene til fremmedkrigerne for å gjøre det
-vanskeligere for dem å forlate gruppa.16 Det foreligger også flere rapporter om at IS og al-Shabaab
-i Somalia har henrettet flere medlemmer, også
-vestlige fremmedkrigere, som vil forlate gruppa.17
-Det har blitt argumentert at fremmedkrigere
-som sverger ed til den islamske staten dermed
-også automatisk har frasagt seg sitt egentlige
-statsborgerskap. En viktig og prinsipiell innvending her kan være at det ikke bør være opp til en
-aktør som IS eller deres sympatisører å bestemme
-hvem som skal være norsk statsborger eller ei.
-Det kan også indirekte bidra til å styrke IS sitt
-13
-
-Pieter Van Ostaeyen,«Foreign fighters denounce their nationality – ISIS – Syria, » pietervanostaeyen.wordpress.com,
-13 April 2014.
-14
-Se for eksempel Rose Troup Buchanan «Anjem Choudary
-claims he would renounce British citizenship and live
-under Isis rule,» The Independent, 7 November 2014.
-15
-«ISIS allegedly issues ‘caliphate’ passport,» al-Arabiyya, 5
-July 2014.
-16
-Griff Witte, «Westerners fighting in Syria disillusioned with
-Islamic State but can’t go home,» The Washington Post, 12
-September 2014 og Nina Johnsrud, «Fanget som IS-krigere
-i Syria, » Dagsavisen, 25. september 2014.
-17
-Jeanine de Roy van Zuijdewijn and Edwin Bakker «Returning Western Foreign Fighters: The Case of Afghanistan,
-Bosnia and Somalia,» The International Centre for Counter
-–Terrorism, June 2014 og Mark Townsend, «Isis threatens
-to kill British jihadis wanting to come home,» The Guardian, 25 October 2014.
-
-argument om at de faktisk er en legitim og anerkjent stat og bidra til å bekrefte deres retorikk om
-at muslimer kun kan ha tilhørighet til denne staten og ikke til en nasjonalstat.
-
-2
-
-Konsekvenser for terrorisme
-
-En mulig positiv effekt av å frata norske fremmedkrigere deres statsborgerskap er at dette vil
-begrense fremmedkrigerens adgang til Norge og
-dermed også begrense deres mulighet til å utføre
-terror i Norge. På den annen side kan det også
-bidra til å øke trusselen mot norske interesser i
-utlandet, ettersom man ikke kan se bort fra den
-tidligere norske statsborgeren vil hevne seg på
-Norge. Man kan heller ikke se bort fra at andre
-norske statsborgere vil hevne seg på vegne av personen ved å gjennomføre et angrep i Norge. Det
-er heller ikke bare hjemvendte fremmedkrigere
-som utgjør en mulig terrortrussel. Flere land har i
-det siste opplevd at IS-sympatisører som ikke har
-vært fremmedkrigere har gjennomført mindre
-terrorangrep for å hevne seg mot land som er
-involvert i kampen mot IS. Et viktig bakteppe her
-er at talsmannen til IS i september 2014 oppfordret sympatisører til å angripe politi, soldater, og
-andre myndighetspersoner i land som har deltatt
-militært i offensiven mot IS.
-En mulig negativ konsekvens for terrortrusselen mot Norge er at ved å frata norske statsborgere deres statsborgerskap og å dermed i praksis
-landsforvise dem etter endt soning i Norge, er at
-det kan bli noe vanskeligere for norske myndigheter å kontrollere aktivitetene til den forhenværende norske statsborgeren. Man risikerer dermed en situasjon hvor en forhenværende norsk
-statsborger, med en potensiell martyrposisjon
-blant visse miljøer i Norge og et insentiv til å
-hevne seg mot Norge kan etablere seg i et konfliktområde eller oppsøke en internasjonal terrororganisasjon. Fra denne posisjonen kan den forhenværende norske statsborgeren via internett oppildne norske eller andre statsborgere til å angripe
-norske interesser i Norge eller i utlandet eller
-eventuelt å bruke sin posisjon innad i en terrorgruppe til å gjennomføre hevnangrep mot norske
-mål. Mullah Krekar har for eksempel ved flere
-anledninger oppfordret til hevnangrep mot norske
-mål hvis han skulle bli fengslet, og eventuelt
-deportert.18
-18
-
-Se for eksempel Arild M. Jonassen og Arild Færaas, «Krekar snakker om mulig bombing og selvmordsaksjon i
-Norge, » Aftenposten, 29. mars 2012.
-
-[Side 97]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-En annen faktor som kan være relevant når det
-gjelder terrorisme som følge av mulig tap av statsborgerskap er det som omtales i radikale islamistmiljøer som «sikkerhetspakten.» Dette er et noe
-ullent begrep som sentrale islamistiske militante
-ledere basert i Europa har referert til og som sier
-at det ikke er religiøst legitimt å angripe det landet
-som gir deg beskyttelse og mulighet til å praktisere Islam gjennom et visum, oppholdstillatelse,
-eller statsborgerskap. Det er imidlertid uklart
-hvor stor oppslutning ideen om en sikkerhetspakt
-fortsatt har i europeiske jihadistmiljøer. Enkelte
-ideologer har argumentert for at denne pakten
-blir opphevet i det øyeblikk den gjeldene stat sender soldater for å delta i en militær operasjon i et
-muslimsk land eller begynner å arrestere islamister.19 Men det finnes samtidig indikasjoner på at
-ideen om en sikkerhetspakt hos noen har redusert intensjonen om å angripe mål i Europa. Også
-innad i det ekstreme miljøet i Norge skal enkelte
-ha referert til denne sikkerhetspakten.20 I hvilken
-grad tap statsborgerskapet alene spiller inn her er
-vanskelig å si, men fra ekstremistisk hold kan det
-muligens bli argumentert at dette er et brudd på
-sikkerhetspakten og for den som har blitt fratatt
-statsborgerskapet vil sikkerhetspakten dermed
-ikke lenger være gjeldende.
-
-3
-
-Konsekvenser for radikalisering
-
-Tidligere forskning om radikalisering har vist at
-en rekke forskjellige faktorer kan føre til radikalisering og at radikaliseringsprosessen kan variere
-fra person til person. En faktor som flere har pekt
-på når det gjelder radikalisering blant muslimer i
-Vesten er opplevd utenforskap og identitetskrise.
-Dette henviser til en oppfatning av å befinne seg i
-en skvis mellom foreldregenerasjonens bakgrunn fra et muslimsk land og kultur og det vestlige samfunnet de vokser opp i og hvor de føler
-seg diskriminert på ulike måter.21
-I hvilken grad nye regler om tap av statsborgerskap vil virke preventivt eller radikaliserende
-vil dermed i stor grad avhenge av hvordan de nye
-reglene utformes og eventuelt praktiseres. I og
-med at tap av statsborgerskap må anses som en
-19
-
-For mer om denne sikkerhetspakten se Petter Nesser,
-«Ideologies of Jihad in Europe,» Terrorism and Political
-Violence 2 (2011): 173–200.
-20
-Se Lars Akerhaug, Norsk Jihad (Kagge Forlag: Oslo,
-2013), 222.
-21
-Anja Dalgaard-Nielsen, «Violent Radicalization in Europe:
-What We Know and What We Do Not Know,» Studies in
-Conflict & Terrorism, 9 (2010), 798.
-
-97
-
-Vedlegg 1
-
-særdeles streng straff som er svært lite brukt verken i Norge eller internasjonalt, og som i praksis
-også er en straff som vil vare livet ut, er det svært
-viktig at en slik eventuell straff framstår så objektiv som mulig. Det bør være så klare prinsipielle
-og allmenngyldige retningslinjer som mulig for
-hva som kan defineres som «fremmed makts tjeneste» og hva som utgjør «Norges vitale interesser». Hvis reglen om tap av statsborgerskap blir
-utformet slik at den kan oppfattes som at den kun
-rammer et spesifikt segment av befolkningen og
-at det ligger mer subjektive og politiske føringer
-bak hva som utgjør «Norges vitale interesser» og
-hva som er «fremmed makts tjeneste» kan dette
-oppfattes av den muslimske befolkningen som diskriminerende og muligens bidra til ytterligere
-radikalisering.
-Nye regler om tap av statsborgerskap møter
-her en ekstra utfordring ettersom folkeretten forplikter stater til ikke å gjøre noen statsløse. Dermed vil denne reglen i praksis kun gjelde de som
-har dobbelt statsborgerskap og kan bli oppfattet
-som diskriminerende ettersom man kan få en situasjon hvor samme overtredelse fører til ulik straff.
-Det finnes ingen tilgjengelig oversikt over hvor
-mange nordmenn som har dobbelt statsborgerskap men det er grunn til å anta at norske statsborgere med annen etnisk bakgrunn enn norsk er
-klart overrepresentert. De nye reglene vil dermed
-kun i liten grad ramme for eksempel etnisk norske konvertitter til Islam. Nettopp av denne grunn
-har flere advart mot at mulig av tap av statsborgerskap kan medføre to klasser av statsborgerskap
-og doble standarder som framstår som diskriminerende.22
-Forskere har observert at fremmedkrigere
-utgjør en heterogen gruppe. Ulike fremmedkrigere har dratt av ulike årsaker og gjort forskjellige
-ting mens de har vært ute. Enkelte forskere har
-derfor oppfordret til å ikke behandle alle (hjemvendte) fremmedkrigere likt, men å differensiere
-mellom de som har vært involvert i terrorisme
-eller som viser potensial til det og de som lettere
-kan reintegreres i samfunnet.23 Det å dømme en
-hjemvendt fremmedkriger som kanskje i utgangspunktet ikke representerer en trussel kan bidra til
-å radikalisere fremmedkrigeren og eventuelt også
-andre i samfunnet hvis straffen blir oppfattet som i
-overkant streng eller diskriminerende.
-Innføring av nye regler om tap av statsborgerskap vil sende et sterkt signal til potensielle frem22
-
-Craig Forcese, «A Tale of Two Citizenships: Citizenship
-Revocation for 'Traitors and Terrorists’,» Queen's Law
-Journal, 2 (2014): 551-586.
-
-[Side 98]
-
-98
-
-Vedlegg 1
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-medkrigere at utreisen kan få alvorlige konsekvenser. Samtidig har mange av fremmedkrigerne allerede så høy motivasjon og risikovilje at
-tap av statsborgerskap neppe vil virke avskrekkende på alle. Effekten er også litt avhengig hvordan de nye reglene blir utformet og hvorvidt det å
-tjene i fremmed makts tjeneste alene skal være
-grunn nok eller om personen i tillegg må ha skadet Norges vitale interesser.
-Et annet poeng er at enkelte forskere har
-påpekt viktigheten av et godt samarbeid mellom
-myndighetene og det muslimske miljøet, både for
-å hindre radikalisering og for å få informasjon om
-suspekt aktivitet i miljøet. Det muslimske miljøet
-kan formodentlig også spille en viktig rolle i å
-reintegrere hjemvendte fremmedkrigere. Økt
-politisering av spørsmålet om fremmedkrigere og
-en (generell) kriminalisering av fremmedkrigervirksomhet kan gjøre at flere i det muslimske miljøet vegrer seg for å kontakte myndighetene.24
-23
-
-Edwin Bakker, Christophe Paulussen and Eva Entenmann,
-«Dealing with European Foreign Fighters in Syria: Governance Challenges & Legal Implications,» The International
-Centre for Counter –Terrorism, December 2013, Shiraz
-Maher and Peter Neumann, «Offering Foreign Fighters in
-Syria and Iraq a Way Out,» The International Centre for the
-Study of Radicalisation and Political Violence, August 2014
-og Daniel Byman og Jeremy Shapiro, «Homeward Bound?
-Don't Hype the Threat of Returning Jihadists,» Foreign
-Affairs, November/December 2014.
-24
-Edwin Bakker, Christophe Paulussen and Eva Entenmann,
-«Dealing with European Foreign Fighters in Syria: Governance Challenges & Legal Implications,» The International
-Centre for Counter –Terrorism, December 2013.
-
-En mulig rettsak hvor en sentral person innenfor et ekstremistisk miljø i Norge risikerer å miste
-sitt norske statsborgerskap kan fort bli en langvarig prosess som skaper mye oppmerksomhet og
-som dette ekstreme miljøet vil bruke til å mobilisere og eventuelt radikalisere andre som er i ytterkant av miljøet. For å unngå ytterliggere radikalisering er det dermed viktig at denne prosessen
-framstår som så lite politisert som mulig og at det
-framstår som tydelig hva som er så spesielt med
-denne saken at personen risikerer å miste sitt
-statsborgerskap.
-
-4
-
-Konklusjon
-
-Ettersom det finnes så lite tidligere empiri og
-forskning på effekten av å innføre nye regler for
-tap av statsborgerskap er det vanskelig å konkludere hvilke konsekvenser dette eventuelt kan få
-for radikalisering og terrorisme i Norge. Dette
-notatet har skissert noen mulige positive og negative effekter, men effekten vil i stor grad avhenge
-av hvordan eventuelt nye regler blir praktisert og i
-hvilken grad de nye reglene blir kombinert med
-andre mulige tiltak for hjemvendte fremmedkrigere, for eksempel deradikaliseringsprogram. I
-og med at (potensielle) fremmedkrigere utgjør en
-heterogen gruppe vil effekten sannsynligvis varierer fra person til person og utfra hvor langt personen eventuelt er kommet i en radikaliseringsprosess.
-
-[Side 99]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-99
-
-Vedlegg 2
-
-Vedlegg 2
-
-Tap av statsborgerskap og integrering
-Redegjørelse om mulige konsekvenser av regelendring om tap av statsborgerskap for integreringsprosesser i det norske samfunnet. Utført av Marta
-Bivand Erdal og Tove Heggli Sagmo (PRIO) på
-oppdrag fra BLD i forbindelse med «Utredning av
-om det bør gjøres endringer i statsborgerregelverket
-– regler om tap av norsk statsborgerskap». Oktoberdesember 2014.
-
-1
-
-Innledning: Statsborgerskap, tap
-av statsborgerskap og integrering
-
-De siste årene har vært preget av fokus på nordmenn som har utført ekstreme handlinger ulike
-steder i verden. Nordmenns deltakelse i krigen i
-Syria for IS spesielt, men også terrorangrepet på
-kjøpesenteret West Gate i Nairobi er friskt i
-minne. I møte med slike alvorlige lovbrudd er det
-viktig med en debatt om hvilke sanksjoner som er
-rimelige, og som samtidig kan ha en preventiv
-effekt. I denne sammenheng er et forslag om
-regelendring som muliggjør tap av norsk statsborgerskap på bakgrunn av ekstreme handlinger et
-rimelig og legitimt innspill som bør gis en grundig
-vurdering.
-Vi har fått i oppdrag å diskutere mulige konsekvenser en regelendring om tap av statsborgerskap vil kunne få for integreringsprosesser i det
-norske samfunnet. Dette oppdraget, som politiske
-dokumenter om integrering, legger til grunn at
-det finnes sammenhenger mellom statsborgerskap og integrering. Det er imidlertid en utfordring for vår diskusjon at forståelsen av slike sammenhenger er uklart definert i politiske dokumenter som aktivt bruker begge begrep1. I tråd med
-fokuset på effekter på integrering generelt, ser vi
-bort fra konsekvensene en regelendring vil kunne
-få for det enkelte individ den måtte ramme, og for
-disse individenes familier som kan bli direkte
-berørt.
-1
-
-Furre, H., Viblemo, T.E., Gustafsson, M., Ersbøll, E.,
-Damsholt, T., Aagedal, O., Slottved, M., og Salomonsen, J.,
-(2010). Rettigheter og Tilhørighet: Evaluering av statsborgerregelverket. Kristiansand: Oxford Research.
-
-Det finnes lite forskning på samfunnsmessige
-følger av regelendringer om tap av statsborgerskap i andre land. Denne redegjørelsen bygger
-dermed på det som finnes av kunnskap om sammenhenger mellom statsborgerskap og integrering, samt forskning på menneskers opplevelse av
-tilhørighet. Vi har sett på offentlig debatt i Storbritannia og Danmark hvor det er blitt gjennomført
-tilsvarende endringer i løpet av de siste ti årene.
-Vi drøfter ut ifra dette mulige effekter av en regelendring om tap av statsborgerskap for det norske
-samfunnet. Det er selvfølgelig umulig å spå om
-fremtiden, og vår konsekvensanalyse er derfor
-nødvendigvis fundert på antakelser som er heftet
-med usikkerhet.
-I denne redegjørelsen går vi ikke inn i en diskusjon om årsaker til radikalisering til voldelig
-ekstremisme. Tematikk knyttet til radikalisering
-blir diskutert i en annen redegjørelse skrevet av
-Forsvarets Forskningsinstitutt (FFI) i forbindelse
-med den pågående utredningen om en mulig
-regelendring som muliggjør tap av statsborgerskap. Det er forøvrig klare berøringspunkter her
-og vi nevner begrepet radikalisering når vi diskuterer den politiske konteksten som dette lovforslaget springer ut ifra. Myndighetenes egen forståelse av radikalseing er: ‘en prosess der en person i
-økende grad aksepterer bruk av vold for å nå politiske, ideologiske eller religiøse mål’2. Men begrepet radikalisering brukes og forstås ulikt av forskjellige aktører i Norge, og det er uenighet om
-hvordan og hvorfor individer blir radikalisert og
-hva som skal til for å rehabilitere mennesker som
-har utført handlinger som kan karakteriseres som
-ekstreme. Når vi velger å bruke begrepet radikalisering, uten en inngående debatt om utfordringene knyttet til begrepet, er det fordi begrepet
-brukes og diskuteres i dagens offentlige debatt,
-og står sentralt i bakgrunnen for forslaget om
-regelendring om tap av statsborgerskap.
-2
-
-Handlingsplan mot radikalisering og voldelig ekstremisme.
-(2014). http://www.regjeringen.no/nb/dep/jd/dok/rapporter_planer/planer/20141/Handlingsplan-mot-radikalisering-og-voldelig-ekstremisme.html?id=762413
-
-[Side 100]
-
-100
-
-Vedlegg 2
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-1.1
-Tap av statsborgerskap
-Forslaget om tap av statsborgerskap har bakgrunn i et utspill fra Oslo FrP sommeren 2014
-omkring mulighet for tap av statsborgerskap for
-såkalte «fremmedkrigere» og her spesifikt med
-tanke på norske statsborgere som deltar i krigen i
-Syria sammen med IS. Motivasjonen bak et forslag om regelendring må sees i sammenheng med
-Regjeringens pågående arbeid for å forebygge
-radikalisering og ekstremisme, og handler dermed vel så mye om potensiell forebygging som
-om potensiell straff.
-Et forslag om regelendring om tap av statsborgerskap inneholder flere elementer og juridiske
-avveininger som i sin helhet og hver for seg, vil
-påvirke oppfatningen av denne regelendringen, og
-dermed den effekt den kan få på integreringsprosesser i det norske samfunnet. Et forslag om regelendring dreier seg om å muliggjøre tap av statsborgerskap for personer som i) har deltatt i utenlandsk militær styrke eller ii) utgjør en trussel
-mot statens vitale interesser. Videre ligger det til
-grunn at kun personer som ikke blir gjort statsløse gjennom tap av norsk statsborgerskap kan
-omfattes; altså kun personer som besitter to statsborgerskap. Dette er på grunn av Norges internasjonale forpliktelser, hvor hensikten er å unngå
-statsløshet3. Det gjøres også avveininger med
-tanke på gradering av hvem bestemmelsen kan
-gjelde for, blant annet om den kan gjelde for alle
-norske statsborgere (som har dobbelt statsborgerskap), bare dem som har fått norsk statsborgerskap ved søknad, bare dem som har hatt norsk
-statsborgerskap i en kortere periode, eller en
-annen type avgrensning.
-De juridiske avveiningene rundt hvem som
-kan omfattes av et forslag om regelendring er i
-seg selv vesentlige for denne redegjørelsen, da de
-gir rom for fortolkninger og ulike forståelser av
-hvem som inkluderes og hvem som ekskluderes
-fra det politiske fellesskap som statsborgerskapet
-innlemmer borgeren i. Det er rimelig at en stat
-kan se på deltakelse i utenlandsk militær styrke
-som en potensiell fare, og på samme måte, kan
-oppfatte bestemte personer, miljøer eller organisasjoner som en trussel mot «statens vitale interesser». Det er samtidig også åpenbart at hvilken
-mening som legges i disse to leddene, er avgjørende for hvilke følger en slik regelendring kan få
-for integreringsprosesser. Det er nærliggende å
-3
-
-Tap av statsborgerskap - norske og internasjonale regler
-https://lovdata.no/artikkel/tap_av_statsborgerskap__norske_og_internasjonale_regler/1458
-
-tenke seg at det kan finnes en rekke ekstreme
-eksempler innenfor begge ledd, hvor et stort flertall blant befolkningen i Norge, uavhengig av politiske, økonomiske, sosiale, etniske eller religiøse
-skillelinjer, ville stille seg bak en påstand om at
-ekstraordinære tiltak er påkrevd.
-Det er imidlertid like klart at det også vil finnes gråsonetilfeller, hvor en slik felles forståelse
-ikke kan forventes. Dette forslaget om regelendring kommer i en bestemt kontekst, krigen i
-Syria og Irak og kampen mot IS. Dette inngir både
-en bestemt fortolkningsnøkkel til hvem som skal
-kunne omfattes, og hvilke typer handlinger man
-kan tenkes å innlemme. Men en regelendring vil
-være permanent, og vil omfatte mange andre situasjoner og kontekster, som kanskje krever en
-annen fortolkningsnøkkel og som kan involvere
-andre typer handlinger og trusler.
-Hva som utgjør deltakelse i utenlandsk militær
-styrke, og hva som vil være en gjengs oppfatning
-av dette, er ikke gitt. Hva som innebærer en trussel mot statens vitale interesser, er heller ikke
-nødvendigvis åpenbart, og det kan også endres
-over tid. Staten har en plikt til å beskytte institusjoner og borgere mot trusler. Med tanke på hvordan en slik regelendring vil oppleves og forstås er
-mangfoldet i betydningen viktig å reflektere over.
-Hvilke effekter ulike regler kan ha for fellesskapsfølelse og tilhørighet, tillit til staten og til det norske samfunnet, kan slå ulikt ut i forskjellige deler
-av befolkingen, ut ifra politiske oppfatninger, eller
-nasjonal, etnisk og religiøs bakgrunn.
-
-1.2
-
-Statens mål med statsborgerskapet i
-integreringsprosesser
-Det er et uttalt mål for norsk integreringspolitikk
-at så mange som mulig av dem som bor i Norge
-på permanent basis skal bli norske statsborgere4.
-Statsborgerskapet er på denne måten konkret
-knyttet til politikk på integreringsfeltet, som en
-inkluderingsmekanisme i det politiske fellesskapet i Norge. Statsborgerskapsseremoniene som
-ble innført med den nye Statsborgerloven i 2005,
-er en symbolsk markering av nettopp dette. Avleggelsen av troskapsløftet til Norge fremhever hvor4
-
-Meld. St. 6 (2012–2013): En helhetlig integreringspolitikk.
-Mangfold og fellesskap; Brochmann, Grete, and Anniken
-Hagelund. 2010. Velferdens grenser: Innvandringspolitikk
-og velferdsstat i Skandinavia 1945–2010. Oslo: Universitetsforlaget;
-Furre, H., Viblemo, T.E., Gustafsson, M., Ersbøll, E.,
-Damsholt, T., Aagedal, O., Slottved, M.,og Salomonsen, J.,
-(2010). Rettigheter og Tilhørighet: Evaluering av statsborgerregelverket. Kristiansand: Oxford Research.
-
-[Side 101]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-dan statsborgerskapet forplikter både borgeren
-og staten5. Samtidig er det klart at integreringsprosesser foregår både før og etter at en person
-søker om, og får innvilget norsk statsborgerskap.
-Evalueringen av statsborgerskapslovgivningen6,
-peker på en grunnleggende svakhet ved statsborgerskapets rolle hva angår integreringsprosesser i
-Norge: det er ikke definert tydelig hva slags rolle
-dette skal være, hvilke mål man har, og hvilke
-midler som benyttes for å oppnå målene. Sammenhengene mellom statsborgerskapet og integrering behandles på en svært lite omfattende
-måte, men implisitt ligger en sterk antakelse om
-en sammenheng mellom statsborgerskap og integrering til grunn i offentlige dokumenter7.
-Statsborgerskapet er en relasjon mellom staten og borgeren basert på en rekke rettigheter og
-plikter. Det er også en relasjon mellom borgeren
-og de andre borgerne som danner det politiske
-felleskapet som staten er tuftet på. I dette fellesskapet er alle borgere i kraft av sitt statsborgerskap like for loven. Statsborgerskapet er dermed
-en institusjon som garanterer likeverd som juridisk prinsipp8. Både rettigheter og plikter er fundamentale deler av statsborgerskapet. Rettigheter
-fungerer som inkluderings- og ekskluderingsmekanismer i det politiske fellesskap, i norsk sammenheng sterkest symbolisert ved rett til å
-stemme ved Stortingsvalg. Mange andre rettigheter kan i norsk sammenheng ofte erverves av dem
-som har permanent oppholdstillatelse. Plikter har
-en etisk side, men også en instrumentell dimensjon. På den ene siden har borgeren en etisk plikt
-til å delta og bidra, men samtidig har staten også
-behov for at borgeren deltar, og plikten har dermed en instrumentell funksjon for statsborgerskapet og det politiske fellesskapets eksistens9. Pliktsiden av statsborgerskapet har de senere årene i
-Europeisk sammenheng blitt satt sterkere søkelys
-på, blant annet gjennom krav om språk- og sam5
-
-6
-
-7
-8
-
-Lov om norsk statsborgerskap. (2005) https://lovdata.no/
-dokument/NL/lov/2005-06-10-51,
-Innst. O. nr. 86 (2004–2005): Innstilling fra kommunalkomiteen om lov om norsk statsborgerskap (statsborgerloven).
-Ot.prp. nr. 41 (2004–2005): Om lov om norsk statsborgerskap. Kommunal- og regionaldepartementet.
-Furre, H., Viblemo, Marianna Gustafsson, Eva Ersbøll,
-Tine Damsholt, Olaf Aagedal, Mette Slottved, and Josef
-Salomonsen. (2010). Rettigheter og Tilhørighet: Evaluering
-av statsborgerregelverket. Kristiansand: Oxford Research.
-Meld. St. 6 (2012–2013): En helhetlig integreringspolitikk.
-Mangfold og fellesskap
-Karolewski, I.P. (2011). ‘Conceptualizing Welfare Citizenship.’ In Welfare Citizenship and Welfare Nationalism, edited by A. Suszycki. Helsinki: Nordic Centre of Excellence
-NORDWEL.
-
-101
-
-Vedlegg 2
-
-funnskunnskap i forbindelse med søknad om
-statsborgerskap (jmf. høring om krav til norsk- og
-samfunnskunnskap for dem som søker om norsk
-statsborgerskap10). Også et forslag om regelendring kan forstås i denne sammenheng, da staten setter klarere grenser for hva som er akseptabelt, og hva som er utenfor grensene til det akseptable i en stat-borger relasjon. Staten styrker med
-andre ord kravene eller pliktene som borgeren
-pålegges i kraft av statsborgerskapet.
-Statsborgerskapet er både en juridisk og en
-sosiologisk størrelse, hvor det altså er relasjonen
-mellom staten og borgeren som står i sentrum.
-Mens man i Danmark skiller mellom statsborgerskap (juridisk) og medborgerskap (sosiologisk),
-er dette ikke et begrepsapparat som brukes i
-Norge, til tross for ulike forsøk11. Utfordringen
-med dette skillet er at de to er så tett knyttet til
-hverandre. Juridiske rettigheter og plikter er på
-mange måter en forutsetning for å snakke om
-samfunnsmessig deltakelse, reell inkludering og
-utvikling av utvidede forståelser av det politiske
-fellesskap, også utover det kulturelt og språklig
-homogene. Fordelen med en utvidelse fra bare å
-bruke «statsborgerskap» knyttet til de juridiske
-dimensjonene, er at man bedre klarer å favne helheten i statsborgerskapet som institusjon. Denne
-helheten inkluderer både medlemskap, deltakelse, rettigheter/plikter og tilhørighet, hvor det
-er samspillet mellom det juridiske og det sosiologiske som muliggjør en realisering av statsborgerskapet12. Det engelske «citizenship»- begrepet
-brukes nettopp som en slik paraply, som innbefatter disse ulike sidene. I norsk sammenheng er
-imidlertid spørsmålet om begrepsbruk uavklart,
-mens de juridiske dimensjonene implisitt får forrang, gitt statsborgerskap- begrepets posisjon.
-Men nettopp med tanke på de sammenhenger
-som finnes mellom statsborgerskap og integrering, er det helt nødvendig å løfte blikket utover
-9
-
-10
-
-11
-
-12
-
-Karolewski, I.P. (2011). ‘Conceptualizing Welfare Citizenship.’ In Welfare Citizenship and Welfare Nationalism, edited by A. Suszycki. Helsinki: Nordic Centre of Excellence
-NORDWEL.
-Høring om innføring av språktest: http://www.regjeringen.no/nb/dep/bld/dok/hoyringar/hoeringsdok/2014/
-Horing--forslag-til-endringer-i-statsborgerskapsloven--kravom-at-sokere-mellom-18-og-67-ar-skal-beherske-et-minimum-av-norsk-muntlig-og-besta-en-test-i-samfunnskunnskap.html?id=772725
-Brochmann, G, og Hagelund, A. (2011). ‘Migrants in the
-Scandinavian welfare state. The emergence of a social
-policy problem.’ Nordic Journal of Migration Research 1
-(1):13-24. doi: 10.2478/v10202-011-0003-3.
-Stokke, K. (2013). ‘Conceptualizing the politics of citizenship.’ Publication on Power, Conflict and Democracy in
-South & Southeast Asia 5 (1).
-
-[Side 102]
-
-102
-
-Vedlegg 2
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-de rent juridiske og formelle sidene ved statsborgerskapet.
-
-1.3
-Integreringsprosesser
-Integrering dreier seg om tilpasningsprosesser,
-som uunngåelig skjer når mennesker bosetter seg
-nye steder13. Uavhengig av om integrering er
-begrepet man velger å bruke, er det disse prosessene staten er opptatt av med tanke på å utvikle et
-samfunn med velfungerende fellesskap. I Britisk
-kontekst er dette blitt omtalt som «social cohesion»14. Her understreker man at ønskelige utfall
-for samfunnet som helhet er betinget av alle aktørers handlinger, og at dette samtidig også er noe
-det må tilrettelegges for, fra statlig eller kommunalt hold.
-Tilpasningsprosessene hos dem som flytter
-inn i et nytt samfunn, og i dette samfunnets møte
-med nye beboere, er én dimensjon ved integreringsprosesser. Man kan beskrive dette som de
-empiriske mønstrene i hvordan mennesker og
-samfunnet gjennom sine institusjoner og felleskapsarenaer gradvis utvikler seg. Men integrering
-er også et normativt begrep, som forteller oss
-hvordan ting bør være. Samtidig dreier integrering seg om menneskers erfaringer i hverdagen,
-hvor tilhørighet og trygghet, inkludering og ekskludering, er viktige stikkord15. Integrering –
-enten det er som empiriske mønstre, normativt,
-eller som menneskers erfaringer – er prosesser
-som påvirker hele samfunnet og enkeltmennesker
-uavhengig av hvorvidt disse har minoritets- eller
-majoritetsbakgrunn.
-Integrering sees i norsk kontekst på som en
-middelvei mellom alternative ideologiske og normative tilnærminger, som assimilering eller multikulturalisme16. Mangfold er et begrep som brukes mer og mer i Norge, hvor det å skille mellom
-normative føringer og empiriske mønstre også er
-en utfordring. Det sistnevnte kan oppsummeres
-med et spørsmål: Er mangfold et mål, eller er det
-13
-
-Kivisto, P. (2003). ‘Social spaces, transnational immigrant
-communities, and the politics of incorporation.’ Ethnicities
-3 (1):5-28.
-14
-Kalra, VS, and Kapoor, N.( 2009). ‘Interrogating Segregation, Integration and the Community Cohesion Agenda.’
-Journal of Ethnic and Migration Studies 35 (9):1397-1415.
-doi: 10.1080/13691830903125893.
-15
-Erdal, MB. (2013). ‘Migrant Transnationalism and MultiLayered Integration: Norwegian-Pakistani Migrants' Own
-Reflections.’ Journal of Ethnic and Migration Studies 39
-(6):983-999. doi: 10.1080/1369183X.2013.765665.
-16
-Brochmann, G., og Hagelund, A. (2010). Velferdens grenser: Innvandringspolitikk og velferdsstat i Skandinavia
-1945–2010. Oslo: Universitetsforlaget.
-
-en realitetsbeskrivelse? Begge disse begrepene
-brukes i Norge så vel som internasjonalt, men i
-hvert land brukes de noe ulikt, med noe forskjellige politiske assosiasjoner, og med særegne historiske erfaringer. Den norske stat er aktivt involvert i integreringsprosesser på nasjonalt plan,
-hvor integrering også diskuteres i offentlige dokumenter. Det finnes flere berøringspunkter mellom
-statsborgerskap og integrering, og i Norge som i
-Europa forøvrig ser man en økende tendens til at
-statsborgerskapet sees som et viktig virkemiddel i
-integreringspolitikken17.
-Integrering er en relasjonell prosess, hvor
-individet tilpasser seg, men hvor også omgivelsene tilpasser seg, både de institusjonelle omgivelsene og menneskene som danner fellesskapet i
-samfunnet18. Når vi i denne redegjørelsen diskuterer mulige effekter av en regelendring om tap av
-statsborgerskap på integreringsprosesser, så tar
-vi inn over oss nettopp det at integreringsprosesser er relasjonelle, noe som foregår i samfunnet
-der individer møtes, der individer og institusjoner
-møtes, og der individer møtes på fellesskapsarenaer, både konkret i lokalsamfunn og nasjonalt i
-det offentlige ordskiftet. Dermed kan mulige konsekvenser av en regelendring om tap av norsk
-statsborgerskap belyses ved å gå inn i ulike typer
-relasjoner hvor integrering foregår, på ulike geografiske og institusjonelle nivåer og i det offentlige ordskiftet.
-
-1.4
-Oppbygning av diskusjonen
-En regelendring om tap av statsborgerskap vil trolig ha en påvirkning på integreringsprosesser,
-både i kraft av selve endringen, men også gjennom den diskusjonen som oppstår omkring forslaget. I denne redegjørelsen tar vi utgangspunkt i
-hvordan et forslag om regelendringen vil kunne
-oppfattes av ulike aktører og miljøer, og med
-tanke på det offentlige ordskifte og det politiske
-klima hva gjelder spørsmål om inkludering og
-ekskludering, integrering og mangfold (del 5). Vi
-17
-
-18
-
-Goodman, S.W. (2012). ‘Fortifying Citizenship: Policy Strategies for Civic Integration in Western Europe.’ World Politics 64:659-698. doi: 10.1017/S0043887112000184; Joppke,
-Christian. 2010. Citizenship and Immigration. Cambridge:
-Polity Press; Joppke, Christian. 2012. The role of the state
-in cultural integration: Trends, challenges and ways ahead.
-Migration Policy Institute; Kostakopoulou, D. 2010. ‘Matters of Control: Integration Tests, Naturalisation Reform
-and Probationary Citizenship in the United Kingdom.’
-Journal of Ethnic and Migration Studies 36 (5):829-846. doi:
-10.1080/13691831003764367.
-Ager, A., og Strang, A. 2008. ‘Understanding Integration: A
-conceptual Framework’. Journal of Refugee Studies, 21 (2):
-166-191. doi: 10.1093/jrs/fen016
-
-[Side 103]
-
-NOU 2015: 4
-Tap av norsk statsborgerskap
-
-gjør også rede for mulige effekter av et forslag om
-regelendring på forståelser av hva det vil si å være
-norsk statsborger, i tilknytning til muligheten for å
-kunne miste et norsk statsborgerskap (del 6).
-Videre ser vi også på hvordan integreringsarbeid
-på nasjonalt plan, kommunalt og på lokalt plan vil
-kunne påvirkes av en regelendring (del 4). Redegjørelsen avsluttes med en anbefaling i del 7. Vi
-begynner her med noen betraktninger omkring
-dilemmaer knyttet til dobbelt statsborgerskap, i
-forbindelse med et forslag om regelendring (del
-2), etterfulgt av en diskusjon av historisk kontekst
-og internasjonale erfaringer fra Danmark og Storbritannia (del 3).
-
-2
-
-Dilemmaer knyttet til dobbelt
-statsborgerskap
-
-2.1
-
-Dobbelt statsborgerskap som premiss
-for tap av statsborgerskap
-
-En endring av dagens regelverk som vil kunne
-muliggjøre tap av statsborgerskap har en prinsipiell side, og befinner seg samtidig i en bestemt
-kontekst: den samfunnsmessige situasjonen forslaget oppstår i, med krigen i Syria og norske
-«fremmedkrigere» som er involvert der. Tap av
-norsk statsborgerskap skjer i dag kun i tilfeller
-hvor en person søker om et annet lands statsborgerskap, og hvor dette meldes til norske myndigheter, eller dersom det norske statsborgerskapet
-er blitt innvilget på premisser som ikke oppfyller
-kravene. Tap av statsborgerskap på andre grunnlag, som ved forræderi, er ikke uvanlig i andre
-land, og er dermed et prinsipielt spørsmål om
-mekanismer for inkludering og ekskludering i det
-politiske fellesskap. En prinsipiell diskusjon om
-hvorvidt det finnes situasjoner hvor en statsborger kan fratas det norske statsborgerskapet bør
-sees på som rimelig. Samtidig har man i norsk
-sammenheng et pedagogisk problem overfor
-befolkningen, da det å kunne frata en person
-norsk statsborgerskap forutsetter at vedkommende har dobbelt statsborgerskap, noe som er
-uttalt uønsket i norsk lov.
-Dobbelt statsborgerskap er etter dagens Statsborgerskapslov uønsket, da denne loven legger et
-prinsipp om ett statsborgerskap til grunn. Det finnes likevel unntak, hvor personer med norsk
-statsborgerskap også har ett annet statsborgerskap. Slike unntak forekommer dersom personer
-ikke har mulighet til å løse seg fra et annet lands
-statsborgerskap, prinsipielt (som i Iran, hvor det
-ikke finnes åpning for dette) eller i praksis (som i
-Somalia, hvor det i lang tid ikke har vært et stats-
-
-103
-
-Vedlegg 2
-
-apparat som håndterer denne typen spørsmål).
-Videre finnes det unntak der det foreligger særskilte grunner til dette, hvor UDI gjør en vurdering om unntak fra regelen om å løse seg fra tidligere statsborgerskap, når personer søker om
-norsk statsborgerskap (som i Russland, hvor
-regler i bestemte regioner forhindrer utenlandske
-borgere fra å være i besittelse av eiendom). Andre
-unntak dreier seg hovedsakelig om barn som
-fødes inn i flere statsborgerskap, der man for
-eksempel blir født i USA av norske statsborgere,
-og automatisk får to statsborgerskap19.
-En regelendring om tap av norsk statsborgerskap vil kunne få forskjellige følger for personer
-med ulik statsborgerskapsstatus, selv om de
-handlinger de kan ha begått, skulle være identiske. Dette vil selvsagt også være tilfellet dersom
-man i Norge hadde en lov som åpnet for dobbelt
-statsborgerskap, men da ville det være mer åpenbart at dette er et valg den enkelte fritt foretar seg,
-enten å velge å kun ha ett statsborgerskap, eller i
-den grad man har rett til det i andre land, å også
-erverve eller beholde andre lands statsborgerskap. Det at forslaget om regelendring om tap av
-statsborgerskap i seg selv kan reise en debatt om
-å åpne opp for dobbelt statsborgerskap, da instrumentelt knyttet til et ønske om å kunne frata personer med to statsborgerskap deres norske statsborgerskap, er et interessant paradoks. En ny
-debatt om dobbelt statsborgerskap kan likevel
-bidra til en mer gjennomtenkt og helhetlig tilnærming til statsborgerskapet i Norge.
-De fleste Europeiske land som tillater dobbelt
-statsborgerskap, argumenterer for at dette bidrar
-til en sterkere tilhørighet til begge land. Slik man i
-norsk integreringspolitikk ikke ser noen motstrid
-mellom det å være norsk og det å ha tilknytning
-og tilhørighet til andre land20, slik ser man i statsborgerskapslovgivningen i andre land at det å ha
-to statsborgerskap ikke forstås som en utfordring
-mot den formelle tilknytning statsborgerskapet
-gir. I norsk sammenheng er forholdet mellom
-statsborgerskap og integrering ikke helt avklart,
-og det er heller ikke helt avklart hvordan man
-skal forstå det at man på den ene siden verdsetter
-tilknytning og tilhørighet til flere land, samtidig
-som man på den annen side opererer med en
-statsborgerskapspolitikk hvor formelle bånd til
-andre land umuliggjøres.
-19
-20
-
-UDI om statsborgerskap: http://www.udi.no/ord-og-begreper/losning-fra-tidligere-statsborgerskap/
-Meld. St. 6 (2012–2013): En helhetlig integreringspolitikk.
-Mangfold og fellesskap, se også: St.meld. nr. 15 (2008–
-2009): Interesser, ansvar og muligheter Hovedlinjer i norsk
-utenrikspolitikk
-
-[Side 104]
-
-104
-
-NOU 2015: 4
-
-Vedlegg 2
-
-2.2
-
-Tap av norsk statsborgerskap
-
-Tap av statsborgerskap: Noen mulige
-scenarier
-
-Et forslag om regelendring vil på grunn av Norges
-folkerettslige forpliktelser bare kunne gjelde dem
-med dobbelt statsborgerskap. Dette medfører at
-en slik regel som utgangspunkt vil virke ulikt, noe
-som kan anses som svært uheldig. I Norge er personer med to ulike statsborgerskap en sammensatt gruppe. Et forslag om regelendring kan i
-praksis få svært ulike følger, ettersom saker
-behandles administrativt eller i rettsvesenet. Det
-vil også ha en signaleffekt hvor man stiller spørsmål ved inkludering og ekskludering i det politiske fellesskap, på en annen måte enn det som er
-tilfellet i dag.
-De praktiske konsekvensene kan for eksempel
-slå ut ved at en person med norsk og syrisk statsborgerskap, en person med norsk og marokkansk
-statsborgerskap, en person med norsk og amerikansk statsborgerskap og en person med bare
-norsk statsborgerskap vil få svært ulike utfall
-basert på identiske handlinger. Gitt et eksempel
-hvor fire individer reiser til Syria eller Irak for å
-delta i utenlandsk militær styrke, og deres saker
-om dette skal behandles i Norge, så vil man først
-ha en juridisk vurdering av hvorvidt deres militære deltakelse omfattes av bestemmelsen eller
-ikke, hvor det er rom for vurderinger og avveininger, for eksempel relatert til om deres innsats var
-militær eller humanitær, og kanskje også hvilken
-side i konflikten de kjempet på. Dernest vil man i
-de tre tilfellene med dobbelt statsborgerskap
-kunne vurdere tap av statsborgerskap som en del
-av straffen, mens dette faller bort for personen
-som kun har norsk statsborgerskap. Denne personen kan ha innvandrerbakgrunn eller ikke, men
-er uansett beskyttet mot denne straffen i kraft av
-kun å besitte norsk statsborgerskap. Imidlertid vil
-det for de tre andre personene kunne ha ulike
-utfall, da den andre staten kan ha like bestemmelser som Norge, og også frata statsborgerskap, og
-derigjennom kan Norge bidra til å gjøre noen
-statsløs. Den andre staten kan true med tortur og
-dødsstraff, og dermed kan Norge ikke utvise sin
-tidligere borger likevel. I sistnevnte eksempel kan
-man tenke seg situasjoner hvor tidligere borgere
-ikke kan utvises, men lever uten gyldig oppholdstillatelse og statsborgerskap i Norge. Denne
-typen juridiske komplikasjoner vil medføre redusert forutsigbarhet for den enkeltes rettsstilling
-og kan bidra til å svekke den allmenpreventive
-effekt som søkes nådd med et forslag om regelendring, med å bidra til å hindre rekruttering av
-fremmedkrigere.
-
-3
-
-Historisk kontekst og
-internasjonale erfaringer
-
-3.1
-Historisk kontekst
-Hvem som er frihetskjempere og hvem som er
-terrorister har til alle tider vært gjenstand for diskusjon. Et eksempel på dette er den spanske borgerkrigen på 1930-tallet. Oppfatninger om denne
-borgerkrigen gikk rett inn i verdikampen som
-pågikk mellom høyre- og venstresiden i norsk
-politikk21. Generelt sett støttet høyresiden general Franco, mens venstresiden støtte republikken
-som ble styrt av kommunistene. Arbeiderpartiet
-regjerte i en mindretallsregjering og valgte en
-nøytral linje for å forhindre en regjeringskrise.
-For å tydeliggjøre denne linjen introduserte de en
-lov som kriminaliserte nordmenns deltagelse i
-krigen. Til tross for denne loven, er det antatt at
-over 200 nordmenn deltok i krigen. De kjempet på
-begge sider i konflikten og var både direkte og
-indirekte involvert i kamphandlinger22.
-Sivilsamfunnet har i stor grad påvirket norske
-myndigheters oppfatning av hva som er legitim
-politiske aktivisme. Myndighetene ga støtte til
-flere frigjøringsbevegelser i det sørlige Afrika fra
-begynnelsen av 70-tallet, men ekskluderte ANC
-og tilsvarende grupperinger i Sør Afrika. Etter
-stort press fra norske NGO’er endret Utenriksdepartementet sin politikk, og gikk inn for å gi
-direkte støtte til ANC og andre frigjøringsbevegelser i Sør Afrika fra 197723. Hva myndigheter oppfatter som legitim frigjøringskamp kan med andre
-ord endres over tid.
-NGO’er med humanitære prosjekter i områder
-som er kontrollert av en opprørsgruppe, som
-f.eks Norsk Folkehjelp i Sør Sudan frem til 2005,
-blir ofte en politisk aktør i konflikten24, og utfordrer grensen mellom det humanitære og militære
-ved å ta side i en konflikt. Militære aktører har i
-økende grad gitt direkte eller indirekte støtte til
-kortsiktige humanitær prosjekt eller mer langsiktige bistands prosjekter for å oppnå militære mål.
-En påstand fra humanitære aktører er at disse
-aktivitetene reduserer deres mulighet for å gi nøy21
-22
-23
-
-24
-
-Moen, J. S., og Sæther, R. (2009). Tusen dager: Norge og
-den spanske borgerkrigen 1936–1939. [Oslo]: Gyldendal.
-Moen, J. S., og Sæther, R. (2009). Tusen dager: Norge og
-den spanske borgerkrigen 1936-1939. [Oslo]: Gyldendal.
-Østbye, E.H.( 2000). «The South African Liberation
-Struggle: Official Norwegian Support.» In Norway and
-national liberation in Southern Africa, edited by T.L Eriksen. Stockholm, Sweden: Nordiska Afrikainstitutet.
-Rolandsen, Ø. H. (2005). Guerrilla Government : Political
-Changes in the Southern Sudan During the 1990s.
-[Uppsala]: Nordiska Afrikainstitutet.
+I 2006 ble reglene for tap av statsborgerskap endret, slik at statsborgerskapet kunne fratas personer dersom dette ble ansett å være «et bidrag til det felles beste». Da ble også en ankemulighet innført. Siden 2006 har 27 personer blitt fratatt sitt Britiske statsborgerskap med referanse til statens vitale interesser[^166]. Den britiske loven om tap av statsborgerskap muliggjør en administrativ prosess, uten rettssak. Dette har blitt kritisert av organisasjoner og aktivister, fordi det truer individets rettssikkerhet, herunder ankemuligheter[^167]. Denne loven har også blitt kritisert fra et prinsipielt moralsk og etisk ståsted[^168]. Kritikken peker på at stater som bygger på liberale og demokratiske verdier burde være moralsk forpliktet til å gi et menneske statsborgerskap i det landet han eller hun faktisk lever og har etablert sitt liv.
+
+Storbritannia har tillatt dobbelt statsborgerskap siden 1948[^169] og blir betegnet som et av de mest multikulturelle samfunnene i Europa. Som i mange andre land har britiske myndigheter hatt utfordringer med å finne en god balanse mellom det å fostre en positiv holdning til mangfold, samtidig som man skaper en nødvendig grad av enhetsfølelse i samfunnet. To-delingen mellom det formelle statsborgerskapet på den ene siden, og erfaringen av fellesskap i samfunnet på den andre siden, er blitt kritisert, blant annet i Parekh-rapporten «The future of multi-ethic Britain» (2000), som pekte på at staten ikke gjør nok for å bygge fellesskap, som politisk fellesskap eller definert på andre måter[^170]. Rapporten påpekte også at rasisme og strukturell diskriminering var blant de viktigste hindringene mot å bygge dette fellesskapet, og at mangelen på innsats for felleskapsbygging kunne føre til en sikkerhetsrisiko på sikt[^171]. Det er samtidig verdt å peke på at utviklingen i Storbritannia siden den tid både har vært preget av en mer inkluderende forståelse av det å være britisk[^172], og økt frykt for segregering og såkalte «home grown terrorists»[^173].
+
+Over 500 personer har de siste årene reist fra Storbritannia for å delta i fremmede militære styrker[^174]. Som i Norge og andre europeiske land foregår det i dag en opphetet politisk diskusjon omkring årsakene til radikalisering til voldelig ekstremisme, særlig med tanke på rekruttering til IS Den britiske statsministeren, David Cameron, mener at radikalisering til voldelig ekstremisme ikke kan forklares med fattigdom, ekskludering eller britisk utenrikspolitikk, men med ekstremistenes narrativ[^175] og i tråd med dette møtes utfordringene med økte restriksjoner, straff og overvåkning. Ett forslag fra november 2014 vil muliggjøre midlertidig tap av statsborgerskapet, i opptil to år. Dette vil også gjelde statsborgere som kun har ett statsborgerskap, hvilket i praksis vil si at de berørte personene vil kunne bli midlertidig statsløse.
+
+1.  **Internasjonale erfaringer og norske utfordringer**
+
+Hvilke slutninger og lærdommer er det mulig å trekke på bakgrunn av erfaringene fra Danmark og Storbritannia, med tanke på hvordan et forslag om regelendring om tap av statsborgerskap kan slå ut for integreringsprosesser i det norske samfunnet? Først og fremst viser eksemplene fra Danmark og Storbritannia at den norske stats interesse av å drøfte muligheten for tap av statsborgerskap som konsekvens av ekstreme handlinger, er en del av en internasjonal trend hvor dette spørsmålet sees som rimelig og relevant å stille.
+
+Samtidig har både Danmark og Storbritannia i forbindelse med konflikten i Syria, Irak og IS, sett relativ høy deltakelse av egne borgere i fremmede militære styrker. Hvorvidt lovgivningen, henholdsvis fra 2004 og 2006, har hindret endra flere fra å dra er usikkert, men det er vanskelig å konkludere med at lovene i vesentlig grad kan sies å ha lykkes med å avskrekke borgere fra deltakelse i fremmede militære styrker. Erfaringene med både administrative og rettslige modeller har sine spesifikke utfordringer. Samtidig er det vanskelig å sammenligne effektene av en lov i Danmark som er lite prøvd ut i rettssystemet, med en lov i Storbritannia der i alt 27 personer har mistet statsborgerskapet, og dernest hvilke følger disse har hatt på integrering, eller på arbeid med forebygging mot radikalisering til voldelig ekstremisme. De noe sprikende erfaringene tyder på at en regelendring, som den som vurderes i Norge, må sees som del av en større helhet, både samfunnsmessig og i forhold til det aktuelle juridiske rammeverket. Enhver effekt på integreringsprosesser er betinget av helheten som en slik regelendring inngår i.
+
+1.  **Mulige virkninger på integreringsprosesser nasjonalt og lokalt**
+
+    1.  **Endring av regelverket og virkning på integreringsprosesser**
+
+Både de juridiske og de sosiologiske dimensjonene av statsborgerskapet er viktige med tanke på mulige følger for integrering av en regelendring om tap av statsborgerskap. Opplevelsen av at vi er et (politisk) fellesskap, og av at det er et «vi» som et fellesskap som gir mening, er noe som går utover det rent juridiske ved statsborgerskapet. Her spiller ikke bare staten og den enkelte borger en rolle, men også relasjonen mellom ulike borgere blir viktig. Statsborgerskapets funksjon i denne sammenheng er å skape likeverdighet mellom borgerne: vi er alle like for loven. Såes det tvil om hvorvidt alle statsborgere er like for loven, eller om noen er «likere enn andre», settes statsborgerskapet som institusjon på prøve.
+
+Den relasjonelle forståelsen av integrering, hvor integrering sees som en to-veis prosess er også viktig. Integrering er ikke noe «innvandrere» gjør, det er en prosess hvor en tilpasning skjer, først og fremst hos personer som kommer til Norge, som lærer seg språket, finner ut av hverdagslivet, og deltar i arbeidslivet. Men integrering er også en prosess hvor det norske samfunnet tilpasser seg det faktum at ikke alle har norsk som morsmål og at mangfoldet i erfaringsbakgrunner, tradisjoner og livssyn øker. Sammenhengen mellom individer som tilpasser seg, og samfunnet med dets institusjoner som også er imøtekommende, er helt sentral her. Dette er fordi tillit til samfunnsinstitusjonene er avgjørende for hvordan slike tilpasningsprosesser utvikler seg over tid, for individer så vel som for samfunnet[^176].
+
+1.  **Tillit og borgernes relasjon til staten**
+
+En relasjonell forståelse av statsborgerskapet og av integreringsprosesser understreker betydningen av tillit, og her særlig av tillit til staten. Tillit til staten er fundamentet for at det politiske felleskapet som staten er tuftet på skal opprettholdes[^177]. Samtidig er tillit noe som opparbeides over tid, og ikke noe som kan pålegges eller iverksettes som et tiltak. Dette gjelder tillitsrelasjoner mellom staten og borgerne, uavhengig av minoritet- eller majoritetsbakgrunn.
+
+Tillit til staten er kjernen i borgerens relasjon til staten, som statsborgerskapet bygger på. I Norge er fokus ofte på velferdsstaten og dens rolle. Dette er også viktige perspektiv, særlig med tanke på at EU-innvandring endrer på mekanismer for inkludering- og ekskludering i velferdsstaten, hvor statsborgerskapets rolle i stor utstrekning tilsidesettes. Dette er prinsipielle spørsmål det i dag er debatt om, blant annet i dansk og britisk kontekst, hvor spørsmål stilles om det nasjonale statsborgerskapet bør styrkes, nettopp for å kunne fungere mer som en inkluderings- og ekskluderingsmekanisme i forhold til de velferdsrettigheter statsborgerne har[^178]. Men med tanke på forslaget om regelendringer her, er det spesielt rettsstatens rolle som er sentral, og det er derfor dette vi i denne redegjørelsen vil fremheve. Hvordan et forslag om regelendring skal effektueres, hvorvidt saker skal behandles gjennom administrative forordninger eller gjennom rettsvesenet er avgjørende for hvordan dette kan påvirke befolkningens tillit til den norske staten.
+
+Dersom et forslag om regelendring vedtas og saker skal behandles, vil en administrativ prosedyre gjøre prosessen mindre åpen for allmenheten, og den vil svekke rettsvernet for individet. En administrativ prosess vil innebære at saker ikke går for retten, at den anklagede ikke får oppnevnt forsvarer, og at det ikke er en domstol som avsier en dom i saken. Alt ordnes administrativt gjennom byråkratiet, og med svakere krav til bevisbyrde mot den anklagede. Dersom prosessen går gjennom rettsvesenet vil individets rettssikkerhet i større grad være sikret, og rettsstatens prinsipper i større grad opprettholdt. Den anklagede vil få oppnevnt forsvarer, saken vil gå for en domstol, og en dom vil bli avsagt i saken. Hvilke effekter hver av de to måtene å gjennomføre en slik regelendring i praksis på vil ha for tilliten til staten, avhenger av hvordan dette vil oppfattes: Er staten en effektiv garantist for vår trygghet fra terrorhandlinger, eller er staten en vilkårlig maktforvalter som ikke sikrer individene deres rettsikkerhet?
+
+Dette er dilemmaer som ikke er unike for et forslag om regelendring om tap av statsborgerskap, men de slår sterkt ut her. Tilliten til staten hos befolkningen som sådan settes på prøve når staten utvider sine fullmakter på bekostning av individets (borgerens) rettsikkerhet. Men i dette tilfellet vil regelendringen også kun gjelde én gruppe, som er definert på en måte som er løsrevet fra de saker enkeltpersoner kan rettsforfølges for. Altså personer som tilfeldigvis har dobbelt statsborgerskap. Deres to statsborgerskap trenger ikke uten videre ha noen direkte tilknytning til, eller være en foranledning for, de handlinger personen anklages for. Når denne gruppen også sammenfaller med deler av minoritetsbefolkningen, kan spørsmål om tillit til staten, rettsikkerhet og vilkårlighet raskt knyttes til etnisk og religiøs bakgrunn, og derigjennom til tilhørighet og lojalitet til det norske samfunnet blant minoritetsbefolkningen.
+
+Samtidig er det relevant å presisere at det blant personer med dobbelt statsborgerskap i Norge, som altså ville kunne rammes av et forslag om regelendring, også er mange som oppfattes (og ofte selv opplever seg) som del av majoritetsbefolkningen, f.eks. personer med norsk og fransk statsborgerskap, eller norsk og amerikansk statsborgerskap.
+
+Usikkerhet om prosedyrer og legitimitet kan være en utfordring med tanke på fare for mistenkeliggjøring av bestemte grupper, som følge av en åpning for tap av statsborgerskap. Mens tillit på tvers av skillelinjer kan være et bøtemiddel på gjensidig mistro mellom minoriteter og majoriteter, kan man i stedet her bidra til økt polarisering. En reell bekymring er faren for feil i slike prosesser, med risiko for justismord, hvor opprettelse kan være komplisert. Både reell fare for feil, og rykter om feil i slike prosesser, kan være svært skadelig i en samfunnskontekst hvor inkluderingsarbeid og tillitsbygging ellers sees som viktig.
+
+1.  **Tillit til staten og integreringseffekter av forslaget**
+
+Tilliten til den norske staten er jevnt over høy[^179] . Likevel er det miljøer både blant minoriteter og majoriteter der tilliten er lavere av ulike grunner. Et forslag om regelendring vil fortolkes innenfor de eksisterende referanserammer i det enkelte miljø. I miljøer der tillit til den norske stat, representert f.eks. ved barnevernet er lav[^180], kan en regelendring om tap av statsborgerskap bidra til en sementering av mistillit. Blant minoriteter kan en antagelse av at man selv som norske statsborgere ikke behandles likt, befeste seg. Hvorvidt en slik frykt er begrunnet eller ikke, er ikke poenget her[^181]. Poenget er at frykten i seg selv bidrar til mistillit, mens man trenger tillitsbygging, fellesskap og felles løsninger på samfunnsutfordringer der norske borgere er involvert.
+
+Hos dem som mener at staten har vært for passiv i kampen mot terror kan en regelendringen øke tilliten til at den norske stat tar terrortrusler på alvor og iverksetter tiltak som har som mål å øke sikkerheten for den norske befolkningen. Her vil hensynet til individet underkastes hensynet til fellesskapets trygghet, som det mest sentrale for staten å ivareta. I miljøer hvor argumentet om sikkerhet står høyt, kan et forslag om regelendring bidra til en fornyet tillit til staten, som fortsatt garantist for sikkerhet. Denne tilliten kan også antas å styrkes ved at staten eksplisitt setter grenser for hva som er akseptabel adferd blant borgerne, og utøver makt ved at tap av statsborgerskap blir en mulig konsekvens for uakseptabel adferd.
+
+Diskusjonen omkring tillit til staten og mulige integreringseffekter av et forslag om regelendringer med andre ord ikke svart-hvit. Samtidig er det noen sentrale prinsipielle momenter som må gjennomtenkes, særlig med tanke på likhet for loven som et grunnleggende prinsipp. Parallelt er det også naturlig å reflektere over hva som er mulige grenser for hva en stat skal tåle fra sine statsborgere, før staten setter strek, og sier at dette er uakseptabelt og uønsket. Spørsmålsstillingene blir da: hva skal statsborgerskapet innebære, hvilken relasjon skal det ha til integrering av borgere med familiære tilknytninger i utlandet, og i hvilken utstrekning kan staten si opp sin relasjon til egne borgere i ekstreme tilfeller, i motsetning til for eksempel å ta et rehabiliteringsansvar. Et slikt rehabiliteringsansvar dreier seg om at staten aktivt involverer seg gjennom rettssystemet, straff og soning, for å gjøre det som er mulig for å bidra til tilbakeføring av en borger som har sonet sin straff. I norsk kriminalpolitikk er rehabiliteringstanken sentral, og det er i så måte verdt å stille spørsmål ved om det er rimelig, selv med tanke på ekstreme handlinger, å vike så radikalt fra disse normene, i det som ofte vil være saker med unge mennesker, hvor muligheten for rehabilitering ikke synes å være urimelig liten.
+
+1.  **Mulige effekter nasjonalt og lokalt**
+
+Et regelendringsforslag vil kunne påvirke integreringsprosesser på ulike nivå, men kan antas å være mest uttalt som signaleffekter som påvirker relasjonene mellom mennesker på ulike arenaer. Inkluderingsarbeidet på nasjonalt plan, fra statlig hold, gjennom Stortingsmeldinger, lovverk og tiltak fremmer tillit og tilhørighet. Viktigheten av bånd på tvers av skillelinjer understrekes, og en ny forståelse av hvem «vi» er i en norsk kontekst som er mer religiøst og etnisk mangfoldig enn for femti år siden, er høyt på agendaen. Signaleffektene et forslag om regelendring kan ha, dreier seg om hvordan staten ser på befolkningen, og hvordan man behandler borgerne, som likeverdige, eller ikke. Hovedutfordringen med tanke på mulige effekter av et forslag om regelendring på integreringsprosesser på nasjonalt plan ligger i en risiko for dobbeltkommunikasjon om grunnlaget for inkluderings- og mangfoldsarbeid: Er det slik at staten på den ene siden oppfordrer til et inkluderende fellesskap, men på den annen side ikke likebehandler sine borgere? Spørsmålet her er hvorvidt en regelendring vil oppfattes som rimelig, på bakgrunn av de ekstreme og uakseptable handlinger som legges til grunn. Alternativet er at problemene knyttet til forskjellsbehandling og statsborgerskapet som en permanent relasjon mellom borgeren og staten, blir tungtveiende i måten forslaget oppfattes på.
+
+På nasjonalt plan foregår det mye viktig integrerings- og inkluderingsarbeid. Samtidig er det åpenbart at det er ute i kommunene, i bydelene og i nabolag der folk bor, at relasjoner mellom mennesker oppstår. Et forslag om regelendring vil på lokalt plan, som på nasjonalt plan, slå ut på ulike måter med tanke på den tilliten befolkningen har til staten, og dens institusjoner i lokalmiljøet. Mens det er liten grunn til å anta at en fornyet tillit til staten som beskytter mot terror vil gi utslag i endret tillit til institusjoner på lokalt plan, er det grunn til å knytte større usikkerhet til hvordan dette kan slå ut blant dem som kan oppleve en økt mistillit til den norske stat. For offentlige institusjoner som jobber nært med hele spekteret av den norske befolkningen, kan økt mistillit være en utfordring. For aktører som politiet, skolen og barnevernet er tillit hos enkeltmennesker og i lokalmiljøer et nødvendig premiss for et vellykket arbeid. Også frivillige organisasjoner og grupper er relevant å trekke inn her, samt tros- og livssynsamfunn, som alle er arenaer der integreringsprosesser kan skje, og hvor premissene for disse drøftes[^182]. Borgernes tillitsrelasjon til staten, til det offentlige Norge, vil også her kunne spille en rolle, med mulige utfordringer knyttet til økt mistillit. I så måte er det grunn til å reflektere over hvorvidt et forslag om regelendring kan komme til å koste samfunnet vel så mye som det potensielt kan spare samfunnet for. Blant tiltakene som lanseres i det forebyggende arbeidet mot radikalisering til voldelig ekstremisme, av ulike religiøse eller politiske typer, er arbeid som skaper tillit på tvers av ulike miljøer sentralt. Dermed finnes det en risiko for at et forslag om regelendring i praksis kan svekke andre tiltak som er en del av det samme forebyggende arbeidet som et forslag om regelendringer ment å bidra til.
+
+På lokalt plan er det rimelig å anta et effekten av en regelendring vil være størst på lokalmiljø og integreringsprosesser, dersom en sak om en person fra et bestemt sted blir behandlet. Det vil være ulike faktorer som vil påvirke hvordan en slik sak kan slå ut med tanke på ringvirkninger. Basert på de tidlige erfaringene som finnes av foreldre til unge mennesker som har reist til Syria for å delta i kamphandlinger for IS der, ser man flere som samarbeider og støtter opp om norske myndigheters arbeid med forebygging mot radikalisering til voldelig ekstremisme, men det er også noe ulik respons[^183]. Spørsmålet her er om opplevelsen av ekskludering, som tap av statsborgerskapet er det ytterste bevis på, vil sette familier og lokalmiljø i et dilemma hva angår deres tilhørighet og lojalitet til det norske samfunnet. Med tanke på at man i de konkrete saker som forslaget om regelendring knyttes til snakker om svært unge mennesker, kan det også reises spørsmål om hvorvidt hensynet til individets mulighet for soning, rehabilitering og endring vil veie tungt i reaksjonene i noen lokalmiljø. Dette kan bidra til en oppfatning av forslaget som noe som går utover det som kan anses som rimelig konsekvens for norske unge voksne.
+
+Samtidig er individer og lokalsamfunn også preget av de grusomhetene som den konkrete konteksten med krigen i Syria, Irak og IS’ herjinger fører til, med norsk-kurdiske familier som er direkte berørt, som også kan bidra til andre typer reaksjoner og solidaritet med ofrene for IS handlinger. Dette kan gi en motsatt effekt, hvor lokalsamfunn står sammen bak en fullstendig ekskludering, som en rimelig konsekvens for ekstreme handlinger, som er utenfor grensene av hva som kan behandles innenfor samfunnets regulære ordninger.
+
+Vurderingen av hva som er problematisk deltakelse i utenlandsk militær styrke, og hva som ikke er det, aktualiseres også i dagens konflikt i Syria og Irak, hvor norske statsborgere er med på begge sider i konflikten. Norsk-kurderes innsats på PKK – eller Peshmerga – siden i konflikten sees på som en legitim kamp mot umenneskelige overgrep fra IS. Samtidig er det klart at også dette i prinsippet er aktivitet som kan rammes av et forslag om regelendring om tap av statsborgerskap grunnet deltakelse i utenlandsk militær styrke.
+
+Et forslag om regelendring vil imidlertid også gjelde utover krigen i Syria og Irak og IS slik vi ser den i 2014. Andre konflikter, i andre geografiske områder, kan føre til andre typer reaksjoner og andre effekter på integreringsprosesser i ulike lokalmiljø. På sikt er et forslag om regelendring en del av en integrerings- og statsborgerskapspolitikken, og må forstås slik, heller enn som en enkeltstående regel.
+
+1.  **Oppfatninger i samfunnet**
+
+    1.  **Politisk klima, media og offentlig debatt**
+
+Det politiske klima i Norge er preget av økt fokus på radikalisering og mulige terrortrusseler mot Norge. Terroren 22. juli 2011, PSTs årlige offentlige redegjørelse av trusselnivået og PSTs åpenhet rundt en konkret terrortrussel mot Norge sommeren 2014 har økt folks bevissthet om potensielle farer. Den offentlige debatten har så langt fokusert på utfordringene knyttet til islamistisk[^184] ekstremisme og mindre fokus har vært rettet mot ekstremisme knyttet til andre religiøse tradisjoner og politiske ideologier, herunder høyreekstremisme. Det er muslimske nordmenns deltagelse i terrorhandlinger i Syria, Kenya, Somalia og Afghanistan, og en antagelse om den faren de kan utgjøre for det norske samfunnet i fremtiden, som ligger til grunn for dette forslaget, ikke Breiviks terrorhandlinger i Norge.
+
+I denne debatten er det sommeren og høsten 2014 vokst frem det som kan være en uheldig begrepsbruk, ikke fra Politiets Sikkerhetstjenestes (PST) side, men først og fremst i media. Utfordringen er knyttet til bruken av merkelappen «muslim» for å beskrive islamistisk ekstremisme. Dette medfører at muslimer i Norge opplever at de må bevise at de ikke er ekstremismer. I Brennpunkt-dokumentaren (NRK, oktober 2014) om terrorangrepet på kjøpesenteret West Gate i Kenya i 2013 uttaler Mehtab Asfar, generalsekretær i Islamsk Råd Norge at:
+
+«det er på tide at man forstår at muslimer er i mot ekstremisme, mot terrorisme, mot all form for vold og hatefulle ytringer. Derfor skal man ta det for gitt at den gjennomsnittlige muslimen, moskeen, imamer fordømmer dette. Hvis det skjer en slik handling skal man slippe å svare på det. Fordi dette har ingenting med islam å gjøre. Dette er ikke hva muslimer står for».
+
+Denne frustrasjonen over å måtte stå til rette for andres handlinger kan gi grobunn for at individer opplever seg mistenkeliggjort. Dette er noe som også tematiseres av Minotenk, som fremhever at spesielt unge muslimske menn i Norge i dag føler seg mistenkeliggjort, og opplever en trang form for norskhet, hvor de selv ikke passer inn[^185]. Redusert tillit og tilhørighet til storsamfunnet kan føre til isolasjon, noe som kan bidra til polarisering i samfunnet. Når sentrale stemmer fra muslimske miljøer uttrykker en sterk frustrasjon over måten muslimer i Norge blir fremstilt på, og at deres konstruktive medieutspill ikke fører til endring i medias ukritiske begrepsbruk i dekningen av islamistisk ekstremisme, er dette signaler som må tas på alvor. Samtidig er det viktig med bevissthet omkring at hverken «innvandrere» eller «muslimer» i Norge, er en ensartet gruppe, hva gjelder religiøsitet eller tilhørighet til det norske samfunnet, men også materielt og sosialt. Parallelt med mediedebattene om «fremmedkrigere» har det også gått diskusjoner om minoriteters adgang til arbeidslivet, som også danner en del av helheten her[^186].
+
+Hovedbudskapet i «Handlingsplan mot radikalisering og voldelig ekstremisme» fra 2014 og Stortingsmelding nr 6 «En helhetlig integreringspolitikk: Mangfold og Fellesskap» fra 2012 er at alle er delaktige og medansvarlige for enkeltindivers utvikling og følelse av inkludering i samfunnet. Dette fellesansvaret har ført til at debatter om relaterte tema som ytringsfrihetens grenser, diskriminering i arbeidsmarkedet og religionsutøvelse har fått mye oppmerksomhet i media de siste årene. Et forslag om regelendring og mulige effekter på integreringsprosesser må sees i lys av dette.
+
+1.  **Majoritets- og minoritetsperspektiver**
+
+PST har i en årrekke påpekt at den største terrortrusselen i Norge dreier seg om individer fra bestemte og små ekstreme islamistiske miljøer. Parallelt ser man en vedvarende oppslutning om et globalt verdensbilde, dels inspirert av det bildet Huntington skisserte med sin «Clash of Civilizations» tese[^187], som fremstiller en grunnleggende konflikt mellom Vesten og den muslimske verden. Det er rimelig å si at slike forenklede fiendebilder verken motvirker radikalisering til voldelig ekstremisme, eller øker tillit mellom ulike majoriteter og minoriteter i det norske samfunnet, eller andre steder i verden. Paradoksalt nok, er det nettopp denne typen fiendebilder i den muslimske verden, enten de er motivert av politiske synspunkter som i seg selv kan være legitime, som f.eks. at krigene i Afghanistan eller Irak og Vestlig deltakelse der er problematisk, eller de er religiøst eller ideologisk fundert, som på sin side også bidrar til radikalisering til voldelig ekstremisme i ulike islamistiske miljøer, selv om årsakene er sammensatte og kontekstualiserte i hvert enkelt tilfelle[^188]. Lignende fiendebilder bidrar i Europeiske samfunn til fremvekst av islamofobi[^189].
+
+På den andre siden berører tematikken om tap av statsborgerskap, gjennom den nødvendige forutsetningen om dobbelt statsborgerskap, alle minoriteter i Norge, inkludert personer med blandet bakgrunn, som ikke normalt ansees å være blant minoritetsbefolkningen. Dette gjelder særlig innvandrere fra Europa, Nord-Amerika og Oseania, med deres etterkommere. Et forslag om regelendring kan føre til en generell mistenkeliggjøring av mennesker med tilknytning til flere land, da det kun vil være disse som kan omfattes av bestemmelsen. Konsekvensen av dette er at et forslag om regelendring vil ha en avgrenset målgruppe i samfunnet, og derfor vil ha en diskriminerende effekt. Dette gir en signaleffekt, om at ikke alle er like for loven, og om at noen sees på som «vårt problem» som samfunn, mens andre borgere ikke sees på samme måte. Noen kan straffes en gang, gjennom rettsvesenet, andre blir i realiteten straffet «dobbelt», med ordinær straff, og i tillegg ved å bli fratatt statsborgerskapet. Dette er en uheldig dimensjon ved et forslag om regelendring, da det faktum at noen har (og andre ikke har) dobbelt statsborgerskap, sjelden vil være direkte knyttet til de handlinger den enkelte har vært involvert i, som skal rettsbehandles.
+
+I norsk kontekst blir dette mer utfordrende enn i andre land, fordi dobbelt statsborgerskap i prinsippet ikke tillates, med de unntak som gjelder. Så når man i andre land også vurderer eller har innført regler om tap av statsborgerskap på bakgrunn av blant annet deltakelse i utenlandsk militær styrke, så har man i utgangspunktet hatt et avklart forhold til at dobbelt statsborgerskap tillates. I Norge tillater man fortsatt ikke dobbelt statsborgerskap, samtidig som dette nødvendigvis innlemmes i en diskusjon omkring tap av statsborgerskap på grunn av juridiske premisser i internasjonale forpliktelser. Man tar dermed ikke opp spørsmålet om dobbelt statsborgerskap på bakgrunn av en anerkjennelse av at doble tilhørigheter, også med tanke på politiske fellesskap, i utgangspunktet kan være en ressurs. Dette utgjør en viktig prinsipiell forskjell, og et forslag om regelendrings effekt på integreringsprosesser i det norske samfunnet må også forståes i denne konteksten.
+
+1.  **Ulike reaksjoner i det offentlige rom**
+
+Et forslag om regelendring kan føre til ulike reaksjoner i den offentlige debatt i Norge. For å forenkle har vi delt inn i fire typer reaksjoner. De tre første er positive til et forslag om regelendring, men har ulik begrunnelse, mens den fjerde er negativ.
+
+En type positiv reaksjon til forslaget, kan være begrunnet med at noen handlinger er så ekstreme at de går utenom de vanlige reglene samfunnet og staten opererer med. Slike ekstreme handlinger kan da føre til ekstraordinære reaksjoner, som i dette tilfellet kan innbefatte tap av norsk statsborgerskap. En slik argumentasjon kan også bygge på at terrortrusselen i verden generelt, og mot Norge spesielt, er så overhengende at man støtter alle virkemidler for å kunne bekjempe denne trusselen. Denne reaksjonen har en pragmatisk og løsningsorientert tilnærming. Argumentasjon om at enkeltmenneskers skjebne må ofres for at fellesskapet skal trygges finner vi igjen fra debatten om overvåkning f.eks. etter 9/11 i amerikansk kontekst, hvor fellesskapets sikkerhetsbehov settes opp mot individets rett til et privatliv. Ideen om at et forslag om regelendring kan ha en avskrekkende effekt med tanke på fremtidig rekruttering til voldelige ekstremistiske miljø, kan her utveie andre hensyn. Et forslag om regelendring vil løfte frem prinsipper både om likhet for loven (ikke-diskriminering) og samtidig klassiske dilemmaer om felleskap vs. individets rettigheter, med tanke på rett til trygghet, til rettsikkerhet og til frihet. Dette er ikke nye dilemma, og det har historisk vært vanlig at det er ulike konklusjoner på hva som er det gode løsningene i ulike kontekster og avhengig av politisk klima og gjeldende trusselbilde.
+
+En annen positiv reaksjon kan komme fra personer med minoritetsbakgrunn som opplever seg indirekte berørt av det omfattende fokuset på «fremmedkrigere», særlig i muslimske miljøer. Det kan tenkes at en sterk fordømmelse av ekstreme handlinger, som en regelendring vil medføre, kan sees på som en klar måte å ta avstand fra de få som begår ekstreme handlinger. En opplevelse av en mer hardtslående linje fra statens side kan bidra til at enkelte får økt tillit til at staten bruker alle tilgjengelige midler i møte med ekstreme handlinger. En slik positiv holdning til et forslag om regelendring vil være avhengig av at tilliten til staten i utgangspunktet er svært høy. Dersom risikoen for økt mistenkeliggjøring av minoritetsbefolkningen oppleves som stor, kan dette føre til en mindre positiv reaksjon til forslaget.
+
+En tredje, helt ulik, og trolig nokså begrenset positiv reaksjon, kan antas å komme fra miljøer på ytterste høyre fløy i norsk politikk, som har synspunkter som kan karakteriseres som av «islamofob karakter», men også fra innvandringsmotstandere mer generelt. Et forslag om regelendring kan brukes for å legitimere bestemte politiske plattformer, og man kan forvente en retorikk som blir mer tydelig, og som kan bruke et forslag om regelendring egen argumentasjon omkring f.eks. inkludering i det norske politiske fellesskap. Dette kan føre til en offentlig debatt der løsningsforslag knyttes til utvisning og deportering, fremmes på bekostning av alternativer som kan ha en mer konstruktiv og samfunnsbyggende effekt. Denne positive reaksjonen til et forslag om regelendring kan bidra til økt polarisering i samfunnet, øke frykt og svekke tillit, og derigjennom være en kraft i motsatt retning av andre tiltak igangsatt som del av Handlingsplanen mot radikalisering og voldelig ekstremisme. Handlingsplanen diskuterer ikke eksplisitt tillitsnivåer i samfunnet, i motsetning til tilsvarende Handlingsplan fra Danmark. Det er naturlig å anta at forståelsen av den rollen tillit i samfunnet spiller er relativt lik i Norge og i Danmark, og det kan dermed stilles spørsmål omkring hvorfor man i norsk sammenheng ikke ser behov for å diskutere tillit mer eksplisitt i forhold til arbeidet med forebygging av ekstremisme.
+
+En tredje reaksjon vil være av negativ karakter av ulike prinsipielle årsaker, først og fremst knyttet til prinsippet om likhet for loven, og om at statsborgerskapet er en institusjon som knytter stat og borgere sammen. Loven er lik for alle borgere, og det er statens ansvar å straffe sine borgere, når disse bryter loven.
+
+Statsborgerskapet er en samfunnskontrakt mellom individet og staten. Individers tillit til at statsborgerskapet er stabilt er et viktig fundament for statsborgerskapet som institusjon. En endring i dette prinsippet reduserer derfor statsborgerskapet verdi. Videre **er det normalt slik at staten tar ansvar for sine borgere, også dem som utøver kriminelle handlinger. Disse får en rettferdig rettergang, og dersom de domfelles, soner de sin straff. I norsk praksis er også den rehabiliterende dimensjonen og tanken på fremtidig tilbakeføring til samfunnet viktig. Når norske borgere utøver terror, er det statens ansvar at disse borgerne stilles for retten for sine handlinger, får en dom, soner en straff, og går gjennom en rehabilitering som muliggjør tilbakeføring til samfunnet etter endt soning. Å utvise borgere og frata dem statsborgerskapet, kan derfor bli sett på som en form for ansvarsfraskrivelse.
+
+Likhet for loven, altså et lovverk som behandler alle borgere likt, er kanskje det fremste prinsippet som vil bli tematisert i en negativ reaksjon til et forslag om regelendring. Politikere som har begått mindre lovbrudd som f.eks. ikke betalt skatt på mindre arbeidsoppdrag, bygging uten de riktige tillatelser, feiloppføringer i ligningsattesten, får stor oppmerksomhet fordi prinsippet om likhet for loven står veldig sterkt i Norge. Den allmenne rettsfølelsen i samfunnet kan utfordres, da formuleringen av et mulig forsalg til regelendring først er diskriminerende med tanke på hvem den kan ramme (dobbelt statsborgerskap), og dernest åpner opp for vurderinger av hva som sees som «trusler mot statens vitale interesser». Oppfatninger om at lovverket skal brukes på en forutsigbar og konsekvent måte står sterkt i Norge. Upresise formuleringer er spesielt utsatt for subjektive vurderinger og er mer sårbare for politiske strømninger, og vil således trolig rammes av sterk kritikk, ikke bare fra minoritetsmiljøer, men også fra frivillige organisasjoner som arbeider med rettssikkerhet og menneskerettighetsspørsmål.
+
+Detaljene omkring hvordan en eventuell regelendring skal gjennomføres i praksis er viktige for oppfatningen av disse i det offentlige rom, og de relaterte effekter på integreringsprosesser. Avhengig av hvem som omfattes av et forslag om regelendring, og hvordan en slik endring vil implementeres, vil reaksjonene kunne variere. Det vil for eksempel kunne antas å være forskjell på effekt av en regelendring som skal gjelde alle norske borgere (som har dobbelt statsborgerskap), eller en regelendring som kun gjelder dem som har fått statsborgerskapet etter søknad (altså voksne innvandrere), eller kun dem som har hatt statsborgerskapet i en bestemt periode (som i Frankrike, f.eks. 10 år). Videre vil også reaksjoner og effekt avhenge av hvordan saker under denne regelen skal behandles. Som tidligere beskrevet har Danmark et lovverk som legger en straffeprosess i rettsvesenet til grunn, mens man i Storbritannia også har en åpning for en administrativ prosedyre, der en enhet tilsvarende UNE fatter slike beslutninger. Hvis en regelendring administreres av en domstol og straffen blir knyttet til spesielle straffeparagrafer kan man redusere noe av de prinsipielle motsetningene nevnt ovenfor, fordi man opprettholder rettstatens prinsipper, og dermed unngår en svekkelse av tillit til staten på dette punktet.
+
+1.  **Effekt av regelendring på oppfatninger i samfunnet**
+
+Oppfatninger i samfunnet og i den offentlige debatt av et forslag om regelendring om tap av statsborgerskap kan antas å bli rammet inn av pågående diskusjoner om radikalisering til voldelig ekstremisme. Samtidig er det viktig å løfte fram at det her dreier seg om mer grunnleggende prinsipper om hva statsborgerskapet skal være, og om den tilliten vi som borgere kan ha til rettstaten som en institusjon som behandler borgere likeverdig og som samtidig gir beskyttelse.
+
+Når det oppstår et brudd mellom mennesker rettsfølelse og myndigheters maktutøvelse, kan dette gi grobunn for mobilisering av folks politiske engasjement. Dette har vi for eksempel sett i forbindelse med Norges håndtering av asylbarn. Samfunnsengasjementet mobiliseres på lokalt så vel som nasjonalt plan når barns behov blir tilsidesatt for å statuere et innvandringspolitisk prinsipp. Det er mindre sannsynlig at et forslag om regelendring vil mobilisere et bredt politisk engasjement, men det betyr ikke nødvendigvis at det er en generell aksept for slike lover i samfunnet.
+
+Man kan forøvrig forvente er at det blir større debatt rundt denne endringen enn det man så i 2005 rundt Statsborgerskapsloven, fordi et forslag om regelendringer knyttet til radikaliseringsdebatten. Medias dekning av lovforslaget og eventuelle rettsaker vil ha stor påvirkning på hvordan dette blir oppfattet i samfunnet. Gitt den vagheten som ligger i et forslag om regelendring, både med tanke på hva som menes med utenlandsk militær styrke, og hva som menes med «statens vitale interesser», kan man anta at eventuelle saker som måtte bli behandlet administrativt, og eventuelle rettssaker og domsavsigelser vil bli fortolket og forenklet i media, så vel som i sosiale media og i samfunnet for øvrig. Det er trolig effekten av disse fortolkningene og reaksjonene som vil utgjøre den største effekten med tanke på integreringsprosesser i Norge. Spørsmål som hvem er «vi», hvor går skillene mellom «oss» og «dem», hvem kan vi stole på, er staten og rettstaten en garantist for oss alle, eller er noen «likere for loven»? Måten disse spørsmålene debatteres og svares på, vil ha avgjørende effekt for om inkluderingsarbeid lykkes, eller om segregering blir et økende problem. Dette er samfunnsutfordringer som eksisterer i dag, og et forslag om regelendring er selvsagt ikke den eneste faktoren som påvirker disse. Det er likevel rimelig å anta at som et utspill fra den norske staten, vil den fortolkes inn i denne typen spørsmål, og slik ha en effekt på inkluderings- og ekskluderingsprosesser i det norske samfunnet.
+
+1.  **Oppfatninger om hva det vil si å være norsk statsborger**
+
+    1.  **Det norske statsborgerskapet: det politiske fellesskap og nasjonen**
+
+I europeisk sammenheng har det de siste århundrene vært vanlig å se på det politiske fellesskapet i staten som identisk med nasjonen, som en kulturelt og språklig definert størrelse. Denne implisitte likheten mellom nasjonen og det politiske felleskap gjør at økt mangfold som følge av globalisering og migrasjon byr på utfordringer for statsborgerskapet som institusjon i mange europeiske land. Ulike land løser dette forskjellig. De fleste land i Europa, og alle land i Norden unntatt Norge, ser på dobbelt statsborgerskap som en måte å forene behovet for lojalitet fra sine borgere (og beboere), med behovet for å anerkjenne at mennesker kan ha flere parallelle tilknytninger til ulike land (og politiske felleskap)[^190].
+
+Samtidig er det åpenbart at det prinsipielt sett er flere måter å se denne spørsmålsstillingen på, noe som også er reflektert i mindretallets syn på endring av norsk statsborgerskapslovgivning midt på 2000-tallet[^191]. Mindretallets syn i utvalget som utredet ny Statsborgerskapslov vant frem. Regjeringen og Stortinget gikk den gang inn for å opprettholde en restriktiv linje på dobbelt statsborgerskap, riktignok uten å ta med de prinsipielle drøftelsene omkring hvorfor man ser på statsborgerskapet på denne måten, og hvilke følger dette har for statens syn på det politiske fellesskapet og dets relasjon til nasjonen[^192]. Dette er spørsmål som fortsatt i stor grad som står som kun delvis avklarte i norske offentlige dokumenter omkring statsborgerskap og integrering.
+
+I dagens norske statsborgerskapslov er forholdet mellom nasjonen og det politiske fellesskap altså dels uavklart. Lovgivningen baserer seg på en tanke om et enten-eller hva angår norsk statsborgerskap: enten er du norsk statsborger og ikke statsborger i noe annet land, eller så er du ikke norsk statsborger. Dette gir bestemte signaler om hvordan statsborgerskapet sees på som instrument i integreringsprosesser, hvor særlig plikt-dimensjonen og en eksklusiv lojalitet til den norske stat er fremtredende. Stater flest søker lojalitet hos sine borgere, for å sikre at relasjonen mellom stat og borgere, hvor både rettigheter og plikter inngår, blir en reell og tosidig relasjon. Et forslag om regelendring om tap av statsborgerskap må forstås som en del av en utvikling av statsborgerskapet hvor borgernes plikt og lojalitet understrekes[^193].
+
+Denne tendensen til å styrke plikt-siden i statsborgerskapet, fra statens side, er synlig i flere land i Europa. Dette er spesielt tilfellet med tanke på regulering av innvandring og integrering, hvor flere europeiske stater har valgt å innføre språkkrav knyttet til statsborgerskapet, og noen også krav om samfunnskunnskap[^194]. Statsborgerskapsseremonier og edsavleggelse er også en del av denne utviklingen, som man også ser i Norge[^195]. Ulike stater forsøker å balansere hensynet til statsborgerskapet som inkluderings- og ekskluderingsmekanisme med forskjellig utfall, hvor den restriktive linjen ser ut til å være noe sterkere enn den liberaliserende[^196]. Noen eksempler på slik balansering finner man i Danmark som har innført språkkrav og økt kravet til botid for dem som søker om dansk statsborgerskap, men hvor man samtidig har åpnet opp for å tillate dobbelt statsborgerskap[^197].
+
+Det politiske fellesskapet staten er tuftet på, er helt avhengig av relasjoner mellom borgerne, hvor staten har en viktig men begrenset tilretteleggende rolle. For at det politiske fellesskap skal oppleves som reelt, må det være en viss grad av fellesskapsfølelse og tilhørighet, som knytter individene sammen, på tvers av iboende skillelinjer, det være seg geografisk, sosialt, økonomisk, politisk, religiøst, eller med tanke på opprinnelse i andre deler av verden. Prinsipper som likhet for loven og rettsstaten som fundament for statens relasjon med borgerne er viktige premisser for et politisk fellesskap som skal oppleves som reelt, nettopp på tvers av skillelinjer. Diskusjon om et forslag om regelendring om tap av statsborgerskap går til kjernen av spørsmål om tilhørighet til et norsk politisk fellesskap, hvor det er lojalitet til den norske stat som står i fokus, snarere enn at det dreier seg om hva som oppfattes som «norske verdier» eller «norsk kultur». Spørsmål knyttet til verdier og kultur er viktige og har fått mye oppmerksomhet i det offentlige ordskiftet de senere år. For en diskusjon omkring det politiske fellesskap, er disse relevant i den grad de påvirker relasjonen mellom borgerne i det politiske fellesskap – horisontalt – borgerne i mellom. Samtidig er det fullt ut mulig å utvikle et politisk fellesskap basert på prinsipper om pluralisme, hvor likeverd ikke må sammenblandes med likhet[^198]. Hvordan et slikt politisk fellesskap, basert på en pluralistisk tilnærming kan se ut i Norge, er imidlertid i beskjeden grad tematisert i norske politiske dokumenter. Dette er spørsmål med iboende dilemmaer, som prinsipielt bør drøftes fra statlig hold, da vurderinger omkring disse dilemmaene gjentatte ganger reises i konkrete enkeltsaker, som f.eks. spørsmål om bruk av hijab av offentlige tjenestepersoner, eller omkring forvaltningen av den kristne kulturarv i norske institusjoner.
+
+1.  **Tilhørighet og identiteter i det norske samfunnet**
+
+Et forslag om regelendring kan påvirke forståelsen av statsborgerskapet med ulike virkninger på hvordan nasjonen som det forestilte fellesskapet forstås. Kort sagt reiser et slikt forslag spørsmålet om hvem «vi» er som nasjon. Personer som søker om norsk statsborgerskap og som deltar på de frivillige statsborgerskapsseremoniene avlegger en ed om troskap til den norske stat som symboliserer både deres rettigheter og deres plikter som nye statsborgere. Tap av statsborgerskap er prinsipielt sett mulig også i dagens norske kontekst, gitt at noen har ervervet statsborgerskapet på feil grunnlag. Dette er også en mulighet som i prinsippet alltid har eksistert, så lenge stater har utstedt statsborgerskap.
+
+Utfordringen i Norge i dag er at man i det offentlige ordskiftet, så vel som i politiske dokumenter, opererer med en sammenblanding av statsborgerskap og nasjonalitet, som innebærer at inkludering og ekskludering samtidig gjelder både statsborgerskap og nasjonalitet. Men det er idag en åpenbar friksjon i forståelsen av hva norsk nasjonal identitet innebærer, og hvorvidt alle norske statsborgere er allment akseptert som personer med norsk identitet, eller med en sammensatt identitet der norsk er en av flere deler. Bruken av begrepet «etnisk norsk» har blitt debattert det siste tiåret[^199], noe som reflekterer nettopp denne friksjonen, som dels bunner i et behov for språklig presisjon, og dels peker på prinsipielle avveininger omkring norskhet og statsborgerskap, omkring nasjonen og det politiske fellesskap.
+
+Det hersker altså ingen absolutt enighet om det norske forestilte felleskapet, om nasjonen og dens grenser. Samtidig foregår det et aktivt arbeid med tanke på å utvikle nye felleskapsforståelser, på tvers av ulike skillelinjer. I dette arbeidet har begrepet «uenighetsfelleskap» fått fornyet aktualitet, hvor det har blitt argumentert for at man trenger et «uenighetsfellesskap» på tvers av alle typer synspunkter, men hvor en grunnleggende respekt for demokratiske spilleregler må legges til grunn.
+
+Med tanke på integreringseffekter av et forslag om regelendring er det betimelig å spørre om hvilken effekt håndtering av borgere som har utført ekstreme handlinger, innenfor vs- utenfor fellesskapet kan ha, altså gjennom soning og rehabilitering, eller ved at deres statsborgerskap fratas dem. Både en inkluderende og en ekskluderende håndtering har potensialet til å svekke eller styrke det politiske fellesskapet i staten Norge og fellesskapsfølelser i nasjonen. Mye vil kunne avhenge av premissene for prosesser omkring tap av statsborgerskap, og grad av legitimitet i befolkningen, f.eks. med tanke på hvorvidt dette gjennomføres administrativt eller gjennom rettssystemet, men også på hvordan ekstreme handlinger defineres og forstås.
+
+Samtidig reiser dilemmaet et prinsipielt spørsmål om hvilken rolle demokratiske spilleregler skal ha, og hvilke konsekvenser det skal ha når disse brytes. Her kan elementer fra de siste års diskusjoner omkring ytringsfrihet være interessante å se til, hvor det er utfordringer knyttet til grenseoppganger mellom ytringsfrihet og religionsfrihet, men også individets rett til beskyttelse mot diskriminering og hatefulle ytringer («hate speech»). Et forslag om regelendring om tap av statsborgerskap går inn i et offentlig ordskifte der det hverken hersker enighet om hva nasjonen og det norske politiske fellesskap er eller skal være, ei heller omkring hva uenighetsfellesskapet er og hvor grensene for hva som er akseptabelt, og hva som er uakseptabelt skal gå. Med tanke på mulige integreringseffekter er det mest formålstjenlig å spørre: Hvilke løsninger på konkrete utfordringer er det som i størst mulig grad tjener til å bygge opp en felles tilhørighet og til å styrke det politiske felleskapet på tvers av ulike skillelinjer blant norske statsborgere?
+
+1.  **Anbefaling**
+
+I denne redegjørelsen har vi belyst ulike dilemmaer knyttet til et forslag om regelendring om tap av statsborgerskap, og dets konsekvenser for menneskers tilhørighet til det politiske fellesskapet, tillit til rettsstaten, og tilknytning til det nasjonale norske fellesskap. Mens tap av statsborgerskap som konsekvens av deltakelse i utenlandsk militær styrke eller etter trussel mot statens vitale interesser er en realitet i Danmark og Storbritannia, pågår diskusjonen i flere land i Europa. Her vil vi kort oppsummere våre vurderinger omkring dilemmaene som er knyttet til et forslag om regelendring, særlig med tanke på integreringseffekter:
+
+1.  **Regelendringen vil kun gjelde for en snever gruppe av befolkningen.**
+
+Dagens statsborgerskapslovgivning tillater ikke dobbelt statsborgerskap. Personer som har dobbelt statsborgerskap (norsk og et annet) har enten ikke mulighet til å frasi seg det andre statsborgerskapet eller de faller inn under unntaksbestemmelsene som gjør at man kan beholde et annet statsborgerskap, i tillegg til det norske. Det finnes ingen oversikt over hvor mange personer som har dobbelt statsborgerskap i Norge, men UDI begynte å føre statistikk over de som fikk lov til å beholde sitt opprinnelige statsborgerskap ved søknad om det norske i 2010. Denne statistikken viser at nesten 3000 mennesker har fått innvilget dobbelt statsborgerskap frem til 2014. Dette er 46 prosent av dem som har søkt om norsk statsborgerskap. Innvilgningsraten varier fra nesten 100 prosent (f.eks. Eritrea, Iran, Afghanistan) til 0 prosent (f.eks. India, Nederland, Nepal). Disse tallene viser at prinsippet om ett statsborgerskap i Norge er i ferd med å eroderes, samtidig som vi vet at det fortsatt er relativt få personer som har dobbelt statsborgerskap i Norge. Det er også relevant å peke på at det blant de gruppene regelendringen trolig er ment å treffe, med bakgrunn i krigen i Syria og dem som kjemper for IS, kan antas å være svært ulikt hvorvidt disse har dobbelt statsborgerskap. For eksempel er det mulig at personer med bakgrunn fra Somalia har to statsborgerskap, fordi disse sjelden har hatt anledning til å si fra seg dette statsborgerskapet, på grunn av en ikke-fungerende stat. For personer med bakgrunn fra Pakistan, der verken Norge eller Pakistan tillater dobbelt statsborgerskap, er det naturlig å anta at man ikke vil ha dobbelt statsborgerskap. Det er grunn til å stille spørsmålstegn ved om målet om å avskrekke befolkningen fra å delta i utenlandsk militær styrke eller i aktiviteter som er mot statens vitale interesser, kan nås med en slik regelendring, rett og slett fordi potensialet for å ramme de fleste ikke er tilstede. Det er trolig en større avskrekkende effekt i endringer i straffeloven, som vil kunne ramme enhver norsk borger.
+
+1.  **Regelendringen bryter med prinsippet om likhet for loven**
+
+Et forslag om regelendring kombinert med dagens prinsipp om ikke å tillate dobbelt statsborgerskap vil kunne skape en skjevhet i samfunnet der norske borgere gis ulik straff for samme kriminelle handling. En etnisk norsk konvertitt til Islam (med bare det norske passet) som har kjempet side om side med en norsk-marokkaner (med dobbelt statsborgerskap) i Syria, vil for eksempel bli behandlet ulikt. Dette vil skape en situasjon hvor en liten gruppe nordmenn har et statsborgerskap med lavere verdi enn resten av befolkningen. Et slikt hierarki blant norske statsborgere strider mot prinsippet om likhet for loven blant statsborgere.
+
+1.  **Regelendringen kan påvirke befolkningens tillit til staten**

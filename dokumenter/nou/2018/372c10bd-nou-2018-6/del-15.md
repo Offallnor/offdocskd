@@ -1,941 +1,402 @@
-# NOU 2018: 6, del 15 av 18 (side 174–184)
+# NOU 2018: 6, del 15 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/372c10bd-nou-2018-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-6/id2593665/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd4f61bba893409a9b715ee1971a0004/no/pdfs/nou201820180006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 26 figurer, 49 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 174]
+Både Tvisteløsningsnemnda og Diskrimineringsnemnda har skriftlig saksbehandling, men begge nemndene kan vurdere om det av hensyn til sakens opplysning likevel bør gjennomføres muntlige forhandlinger. Ved tilførsel av riktig kompetanse og tilstrekkelige ressurser, mener *utvalgets flertall* at begge disse vil kunne håndheve varslingsreglene i tråd med en tverrfaglig forståelse av varslingsprosesser og gjengjeldelse.
 
-174
+Tvisteløsningsnemnda er et eget forvaltningsorgan og er ikke underlagt Arbeidstilsynet, men Arbeidstilsynet fungerer som sekretariat for nemnda. Nemnda har blitt tilført økte ressurser og nye oppgaver som har utvidet fagfeltet vesentlig.[^528] *Utvalgets flertall* har vurdert om det kan være en fordel å legge saker om varslingsreglene i arbeidsmiljøloven til en etablert og kjent ordning for tvisteløsning i saker etter andre regler i den samme loven. I dag løser imidlertid denne nemnda saker av en litt annen karakter, der sakens opplysninger og bevis i større grad kan dokumenteres skriftlig, enn hva tilfellet kan være i saker om gjengjeldelse, oppreisning og erstatning.
 
-Kapittel 10
+Diskrimineringsnemnda vil nok, slik den er organisert i dag, i større grad enn Tvisteløsningsnemnda være i stand til å håndtere tvister om gjengjeldelse og krav om oppreisning og erstatning. Det bør likevel ikke ses bort fra hvilken symboleffekt det kan ha å legge slike oppgaver til denne nemnda, som er opprettet for andre formål. *Utvalgets flertall* viser da særlig til at oppfatningen om varsling som samfunnsnyttig avdekkingsmekanisme av alle typer kritikkverdige forhold kan påvirkes av å legge sakene til en nemnd som per i dag behandler saker om mulige kritikkverdige forhold i form av brudd på likestillings- og diskrimineringsloven.
 
-NOU 2018: 6
-Varsling – verdier og vern
+*Utvalgets flertall,* mener det bør etableres en ny egen tvistenemnd for varslingssaker, og viser til at nemnda da vil kunne sikres en sammensetning som kan bidra til håndheving av reglene i tråd med en tverrfaglig forståelse av varslingsprosesser og gjengjeldelse etter varsling. En rask og effektiv saksbehandling vil kreve tilstrekkelige ressurser, og hensynet til rettssikkerhet vil uansett kreve en viss saksbehandlingstid. Et tiltak for å redusere kostnadene noe, vil være å samlokalisere nemndas sekretariat med andre sekretariat eller lignende.
 
-10.13.3 Utvalgets vurdering og forslag
+*Utvalgets flertall* mener at det kan vurderes å samlokalisere den nye nemnda med Diskrimineringsnemda. Ved samlokalisering kan man ha felles sekretariat, og derved både bedre ressursanvendelse og mulighet for faglig utvikling. En slik varslingsnemnd bør settes sammen av personer med dommerkompetanse og tverrfaglig kunnskap om arbeidsliv og organisatoriske forhold.
+
+*Et mindretall i Varslingsutvalget, utvalgets leder og medlemmene Dalheim, Stenberg-Nilsen og Opstad Sunde,* mener at tvisteløsning av saker knyttet til varsling fortsatt bør behandles i de alminnelige domstolene. Det vises til *mindretallets* begrunnelse i punkt 12.5.5.
+
+1.  **Vurdering av behovet for ny uavhengig undersøkelsesmyndighet**
+
+    1.  **Innledning**
+
+Ved mistanke om alvorlige kritikkverdige forhold vil det være viktig at forholdet det er varslet om blir undersøkt. Innad i virksomhetene kan det bli igangsatt og gjennomført organinterne undersøkelser, og det skjer også jevnlig at private og offentlige virksomheter kjøper tjenester i form av granskinger utført av advokat- og revisorfirmaer mv.
+
+I aksjeselskaper er det normalt selskapets revisor og eventuelt bedriftsforsamlingen som utfører ordinært tilsyn med virksomheten. Etter aksjeloven kapittel 5 del VI, kan imidlertid selskapets aksjonærer foreslå og begjære gransking av selskapets stiftelse, forvaltning eller nærmere angitte forhold ved forvaltningen eller regnskapene. Dersom tingretten finner at granskingskravet har «rimelig grunn», skal den ta kravet til følge. Retten oppnevner granskere, og kostnadene ved granskingen må dekkes av selskapet. Andre med interesser i selskapet, som arbeidstakere, kreditorer og avtaleparter, er ikke omfattet av retten til å kreve gransking.
+
+Statlige tilsyns- og kontrollmyndigheter har det som del av sin ordinære virksomhet å granske og undersøke kritikkverdige forhold. Undersøkelser og etterforskning av kriminelle forhold blir gjennomført av politiet, herunder ØKOKRIM. I tillegg kommer forvaltningsrevisjon, kontrollutvalgenes funksjon i kommuner og fylkeskommuner, og annen demokratisk kontroll. Enkelte ganger blir det også oppnevnt undersøkelseskommisjoner av det offentlige for å utrede bestemte saksforhold.[^529]
+
+Ved siden av private undersøkelser og undersøkelser gjennomført av statlige myndigheter, kommer også kontrollen som gjennomføres av Riksrevisjonen. Som Stortingets revisjons- og kontrollorgan, skal Riksrevisjonen utføre sin virksomhet uavhengig og selvstendig, og gjennom revisjon bidra til å forebygge og avdekke misligheter og feil.[^530] Riksrevisjonen gjennomfører forvaltningsrevisjon der det blir gått i dybden i problemstillinger innenfor et begrenset forvaltningsområde.[^531] Riksrevisjonen har en elektronisk tipskanal og i 2016 ble det registrert 175 tips. Informasjonen de mottar blir vurdert etter vesentlighet og risiko i forbindelse med planlegging og gjennomføring av revisjonen. Avhengig av innholdet vil Riksrevisjonen vurdere å igangsette nærmere undersøkelser.
+
+1.  **Utvalgets vurdering**
+
+*Utvalget* har vurdert om det er behov for en form for uavhengig myndighet som kan undersøke og «ta tak i» alvorlige varslingssaker dersom verken virksomheten, tilsynsmyndighetene, politiet eller påtalemyndigheten gjør det.
+
+Et uavhengig organ kan ha myndighet til å undersøke og anbefale tiltak i saker der personer eller grupper melder fra om at private eller offentlige virksomheter ikke har håndtert en sak riktig eller har unnlatt å gripe inn ved varsel om svært alvorlige forhold. Varslingshuset i Nederland har en noe lignende ordning, ved at den ene avdelingen «carries out independent investigations on request of the whistleblower into a suspected wrongdoing/malpractice/ abuse, and into the treatment of the whistleblower». Se omtale i kapittel 6.
+
+Dersom det skal opprettes en slik mekanisme i Norge, vil dette måtte være for de alvorligste sakene og fungere som en sikkerhetsventil for saker som ikke håndteres riktig grunnet feilprioriteringer, manglende ressurser eller ulike typer interessekonflikter. Det vil kreve svært høy kompetanse og tilstrekkelige ressurser for å kunne sette seg inn i og vurdere saker på nær sagt alle retts- og samfunnsområder. Det kan ikke utelukkes at det kan oppstå grensesnitt til kompetansen til andre organer og enheter, som allerede kan være komplisert.
+
+Det er kostbart å etablere en ny organisasjon som skal ha ledelse og administrasjon mv. I mange tilfeller vil nok en slik uavhengig myndighets undersøkelser ikke erstatte, men komme i tillegg til andre undersøkelser. Det vil dermed bli flere som i større eller mindre grad har oppgaver som helt eller delvis vil kunne overlappe hverandre. Dagens organisering og praksis for håndtering av kritikkverdige forhold vil i de aller fleste tilfeller være tilstrekkelig. *Utvalget* mener derfor det er viktig å styrke eksisterende ordninger og strukturer, samt styrke ledelseskompetanse i forebygging og oppfølging av varslingssaker i egen virksomhet. Det vises i denne forbindelse til forslag til juridiske tiltak i kapittel 10 og forslag til informasjonstiltak i kapittel 11. Det vises også til *utvalgets* forslag i punkt 12.4.3 om at Varslingsombudet bør ha en særlig kompetanse til å kunne ta initiativ til uavhengige undersøkelser av alvorlige varslingssaker.
+
+1.  **Økonomiske tiltak**
+
+    1.  **Om behovet for økonomiske tiltak**
+
+Arbeidstakere som varsler har en viktig og samfunnsnyttig funksjon ved å bidra til å avdekke ulovlige og skadelige handlinger i virksomheten.[^532] For eksempel spilte varslere en avgjørende rolle i de mye omtalte skandalene knyttet til Enron-,Vimpelcom- og Unibuss-saken.
+
+Men det å varsle kan ha sin pris. I stedet for å bli møtt med anerkjennelse, risikerer de som velger å varsle å bli møtt med negative reaksjoner, tap av karrieremuligheter og negative sosiale reaksjoner, både i privatlivet og på jobb. Profilerte varslere som har stått frem i media illustrerer den belastningen varslere opplever, slik som for eksempel varslerne i Norweld-saken og Siemens-saken. I ettertid har begge to uttalt at de ikke ville ha varslet dersom de hadde forstått hvilke følger det ville få for dem.[^533]
+
+Fordi det å varsle kan være forbundet med slike ulemper og personlig risiko, vil en del potensielle varslere tie, også om alvorlige kritikkverdige forhold. På denne bakgrunn kan det være grunn til å stille spørsmål om det er nødvendig med andre typer tiltak som fremmer varsling og kompenserer for kostnader og ulemper, utover de tiltakene som er drøftet i kapittel 10, 11 og 12. *Utvalget* har derfor i samsvar med mandatet vurdert om det er behov for økonomiske tiltak for å fremme varsling og styrke varslervernet.
+
+Formålet med økonomiske tiltak, som kan bestå i ulike belønningsordninger eller økonomiske kompensasjonsordninger, er å motivere til varsling. For en potensiell varsler ligger insitamentet i slike tiltak i muligheten til å få kompensert kostnader og ulemper forbundet med varsling, inkludert fremtidig inntektstap, som ofte er høyere enn den personlige nytte, som i mange tilfeller kan være beskjeden.[^534]
+
+1.  **Om insentiver**
+
+Et insentiv er noe som motiverer mennesker til handling. Insentiver kan påvirke adferd og valg gjennom å gjøre et alternativ mer å foretrekke enn et annet. Det skilles mellom ytre insentiver og indre insentiver. Ytre økonomiske insentiver kan for eksempel være belønning i form av økonomisk gevinst.<sup>1</sup>
+
+<sup>1</sup> «Insentiver», Store norske leksikon.
+
+**\[Boks slutt\]**
+
+1.  **Situasjonen i Norge**
+
+I Norge har vi, i likhet med de fleste europeiske land, liten tradisjon for å bruke økonomiske belønningsordninger til varslere. Vernet av arbeidstakere som varsler er i Norge regulert ved varslingsreglene i kapittel 2 A i arbeidsmiljøloven. Gjeldende varslingsregler i arbeidsmiljøloven omfatter et ubetinget forbud mot gjengjeldelse ved varsling og et krav om varslingsrutiner i virksomheten. Arbeidstakere som utsettes for gjengjeldelse i strid med arbeidsmiljøloven kan kreve oppreisning og erstatning for økonomisk tap.
+
+Oppreisningsdommer for varslere som har vært utsatt for gjengjeldelse, har historisk vært på 100 000–150 000 kroner. Fra et samfunnsøkonomisk ståsted gjenspeiler nivået på idømte oppreisningssummer ikke de fulle kostnadene varsleren opplever, som i tillegg til de psykiske kostnadene og ressursbruken, kan inkludere tap av inntekt og ødelagte karrieremuligheter.[^535] I tillegg må arbeidstakere som krever erstatning for gjengjeldelse normalt gå til domstolen med sitt krav, og et slikt søksmål kan komme til å koste mer enn arbeidstakeren kan regne med å få i oppreisning.
+
+1.  **Ulike typer økonomiske tiltak i andre land og EU**
+
+De fleste land har i likhet med Norge lovfestet muligheten for erstatning for tap og oppreisning som følge av ulovlig gjengjeldelse etter varsling. Det er få land utenom USA som har regler om pengebelønning for varslere.
+
+I EU er det kun Slovakia som har regler om rett til belønning for varslere.[^536] Det har over mange år vært en debatt i EU om behovet for felles regler om vern av varslere. EU-kommisjonen har på bakgrunn av flere oppfordringer fra Europaparlamentet og fra Det europeiske råd satt i gang et arbeid med å vurdere forslag til regler om vern av varslere på EU-nivå, se nærmere punkt 5.5. I den forbindelse har Europaparlamentet bedt EU-kommisjonen om å vurdere hva som kreves for å sikre varslere et tilstrekkelig vern, herunder vurdere om varslere skal belønnes.
+
+USA har hatt regler om pengebelønning til varslere helt siden de første reglene om varslervern kom i 1863 og amerikansk rett inneholder ulike bestemmelser om slike belønningsordninger.[^537] Dodd-Frank Act 2010 kom i kjølvannet av finanskrisen og innførte regler om belønning for dem som varsler om mulige brudd på aksjelovgivningen.[^538] For å få arbeidstakere i finansbransjen til å fortelle om kritikkverdige forhold, tilbyr det amerikanske finanstilsynet, The Securities and Exchange Commision (SEC), varslere mellom 15 og 30 prosent av eventuelle bøter som gis som følge av varsel på over 1 million amerikanske dollar. Belønningene kan bli svært høye.[^539] I USA har det i de siste årene blitt utbetalt stadig større summer som belønning til varslere som har avdekket korrupsjon eller annen alvorlig kriminalitet. I 2015 ble det betalt ut 37 millioner amerikanske dollar i slike premier.[^540]
+
+Myndighetene i USA hevder at de siste årenes tilrettelegging for premiert varsling har ført til at langt flere kriminelle forhold avdekkes og straffes. Mange omfattende avsløringer har kommet frem som følge av varsling, og varslere har i enkelte tilfeller blitt godt belønnet.[^541] Blant de mest kjente varslersakene kan nevnes Bradley Birkenfield, som mottok 104 millioner dollar da han varslet om skatteunndragelse i den sveitsiske banken UBS og de ti ansatte som mottok til sammen 102 millioner dollar da de varslet om at Pfizer ulovlig hadde promotert medisin som manglet godkjenning. De som varslet om at Johnson & Johnson blant annet ga bestikkelser til leger og sykehjem mottok til sammen 167,7 millioner dollar. Den mest sentrale varsleren fikk en belønning på 28 millioner dollar.[^542]
+
+I Sør-Korea har de lignende regler som i USA, men har satt et tak for belønningen. I 2016 var dette på 1,7 millioner amerikanske dollar. I tillegg kan de gi en lavere premie til individer som kun indirekte har bidratt til å avdekke kriminelle forhold, uavhengig av arbeidsforhold eller relasjon til de påståtte kriminelle.[^543]
+
+1.  **Forskning og anbefalinger fra internasjonale organisasjoner og kompetansemiljø**
+
+Oversikter fra OECD tyder på at mange land med lovregulert varslerbeskyttelse ofte svikter når det gjelder implementering av vernet av varslere og reell beskyttelse mot gjengjeldelse. Det er mange eksempler på at varslere mister jobben, blir trakassert eller blir møtt med negative reaksjoner på jobb og privat/sosialt. Det rapporteres sjelden om rettslige reaksjoner mot dem som er ansvarlige for hevnaksjoner, og når det skjer, er det gjerne lange rettsprosesser, ofte på toppen av og etter at selve saken det varsles om er avsluttet. Erstatning for tap knyttet til konsekvenser av gjengjeldelsesaksjoner ved varsling krever normalt en rettslig prosess etter en prosess om ulovlighetene det er varslet om, og i praksis er det få eksempler på at varslere får slik erstatning.[^544]
+
+I Norge mener forskere at klimaet for å varsle i krevende saker ikke er forbedret i perioden 2010–2016. Andelen som rapporterer om negative konsekvenser som følge av varsling, økte i denne perioden, sammenlignet med tidligere resultater, se nærmere punkt 7.3 og Fafo 2017 I side 51. Disse funnene støttes også av nyhetsoppslag om profilerte varslersaker, blant annet om at det kan være vanskelig å si fra om alvorlige forhold i norsk oljeindustri.[^545]
+
+I sin utredning har Oslo Economics ut fra et samfunnsperspektiv pekt på behovet for økonomiske insentiver for å fremme og legge bedre til rette for at flere varsler om ulovlige og skadelige forhold, og har følgende betraktninger:
+
+Det at varsleren kun oppnår en liten del av nytten varselet medfører, og at kostnadene arbeidsgiver kan påføre han eller henne vil være høyere enn denne nytten, gjør at mange varslere velger å ikke varsle. Resultatet er at for mange kritikkverdige forhold får vedvare, med de kostnadene det medfører for arbeidstakere, brukere, kunder, offentlige myndigheter, andre virksomheter og samfunnet som helhet. [^546]
+
+Ifølge tradisjonell økonomisk tenkning er økonomiske insentiver regnet for å være smart, noe som har effekt. En rekke studier viser at pengebelønning fører til at flere kriminelle forhold avdekkes, herunder særlig korrupsjon og lignende forhold.[^547] Forskningsresultater fra andre land, særlig USA, kan tyde på at belønning styrker tilbøyeligheten til å varsle, men at effekten avhenger av graden av skadelige handlinger det varsles om. Jo mer opplagte de skadelige konsekvensene er, desto mindre betyr tiltak som anonymitet og belønning for motivasjonen til å varsle.[^548]
+
+I et innlegg for Varslingsutvalget pekte Tina Søreide, professor ved Norges Handelshøyskole, på at risikoen varslere utsetter seg for tilsier at det er nødvendig med tiltak som fremmer varsling. Hun presiserte imidlertid at pengebelønning som tiltak i denne sammenheng, er kontroversielt i Europa. Hun viste til at det er stor usikkerhet knyttet til hvorvidt slike tiltak vil ha noen effekt på varsling i Norge, og at hun var skeptisk til belønning som tiltak.[^549]
+
+Søreide, Andås og Solum har i en fagartikkel fra 2017 diskutert betydningen av økonomisk belønning som tiltak for å fremme varsling. Artikkelen bygger på faglitteratur og resultatene fra en spørreundersøkelse som de to sistnevnte gjennomførte i forbindelse med sin felles masteroppgave.[^550] I spørreundersøkelsen avvek resultatene fra annen forskning om belønningens betydning. Resultatene fra undersøkelsen indikerer at tilbøyeligheten til å varsle er uavhengig av muligheten for belønning. Selv om resultatene ikke er helt entydige, viser undersøkelsen at det er grunn til skepsis knyttet til om belønning har noen effekt på tilbøyeligheten til å varsle.[^551]
+
+Oppsummert mener forfatterne at pengebelønning som tiltak vil være mindre varslingsfremmende enn hva en ren kost-nytte-vurdering skulle tilsi. Forskningsgjennomgangen tyder på at belønning kan føre til at ekstern varsling vil skje på bekostning av rapportering internt til ledelsen i en organisasjon, og at finansielle insentiver kan øke feilvarsling og misbruk av varslerordningen. På denne bakgrunn advares det i faglitteraturen ifølge nevnte artikkel, om at pengepremier for varsling kan utvanne den moralske drivkraften til å varsle, og slik redusere folks tilbøyelighet til å si fra i situasjoner hvor pengepremier ikke er aktuelt.
+
+1.  **Utvalgets vurdering**
+
+I Norge har vi, som i resten av Europa, liten tradisjon for pengebelønning som motivasjon for å få arbeidstakere til å varsle om kritikkverdige forhold på arbeidsplassen. Mens varslere i USA kan få store pengesummer for å avsløre korrupsjon, skattesvindel og lignende ulovligheter, har europeiske land tradisjonelt vært tilbakeholdne med bruk av pengebelønninger til de som varsler om kritikkverdige forhold på arbeidsplassen.
+
+Forskning blant annet fra USA viser at det er en sammenheng mellom belønning, gjerne i sammenheng med konfidensiell varsling, og arbeidstakeres tilbøyelighet til å varsle. Forskere er imidlertid skeptiske til overføringsverdien av denne forskningen på grunn av ulikheter i kultur, organisering og historie.
+
+*Utvalget* legger til grunn at det er usikkert om, og eventuelt hvilken effekt økonomiske tiltak som pengebelønning eller kompensasjonsordninger vil ha på norske arbeidstakeres tilbøyelighet til å varsle, sett i lys av faglitteratur og undersøkelser som omtalt over. I faglitteraturen advarer forskere blant annet om at belønninger for varsling kan svekke den moralske drivkraften til å varsle, og slik redusere folks tilbøyelighet til å varsle i situasjoner hvor pengebelønning ikke er aktuelt. På denne bakgrunn kan belønningssystemer tenkes å ha en negativ effekt, ikke bare på potensielle varsleres følelse av moralsk forpliktelse til å ta ansvar, men også på folks ansvarsfølelse mer generelt i samfunnet.
+
+Belønningsordningene til varslere, særlig i USA, er koblet til avdekking av alvorlig økonomisk kriminalitet og myndighetenes økonomiske gevinst ved at varsling avslører denne type kriminalitet. Det er med andre ord en forutsetning at staten har en gevinst som følge av varslingen før man gis belønning. Det er også grunn til å vise til at de til dels meget generøse varslerbelønningene som utbetales til varslere i USA, legitimeres ved at det tar høyde for at varsleren ikke kommer til å få en ny jobb. Den typiske norske varslingen gjelder destruktiv ledelse, mobbing og trakassering, brudd på etiske retningslinjer og forhold som kan medføre fare for liv og helse. Dette er forhold som kan være mindre egnet for den type belønning som man bruker i enkelte andre land.
+
+*Utvalget* legger til grunn at tilbøyeligheten til å varsle må antas å ville være større, ut fra et naturlig moralsk ansvar, i arbeidsmiljø preget av åpenhet, tillit, god informasjonsflyt og medbestemmelse. Dette er forhold som i stor grad preger norsk arbeidsliv. Forskning viser også at en relativt høy andel av de som varsler blir behandlet bra, og at varslingen fører til at det kritikkverdige forholdet blir ordnet opp i, se nærmere omtale i punkt 7.3.
+
+*Utvalget* har på denne bakgrunn ikke funnet grunn til å foreslå rene økonomiske tiltak som belønning for å varsle eller annen form for økonomisk kompensasjon.
+
+*Utvalget* viser samtidig til at spørsmålet om økonomiske tiltak til varslere er et av flere tiltak for å styrke varslervernet som for tiden diskuteres i EU i det pågående arbeidet i EU-kommisjonen, jf. punkt 5.5. Dette blir et viktig arbeid å følge med på fremover for norske myndigheter.
+
+*Utvalget* mener for øvrig at nivået på oppreisningsbeløpene i saker om ulovlig gjengjeldelse for norske domstoler kan synes å ligge på et lavt nivå. Dette drøftes nærmere i punkt 10.13 om oppreisning ved gjengjeldelse.
+
+Belønning til varslere må ikke nødvendigvis være penger. Flere land anerkjenner varslere ved å gi dem en offisiell utmerkelse – heder og anerkjennelse – som et symbol for å understreke den viktige rollen de spiller og dempe tilbøyeligheter til gjengjeldelsesaksjoner. Gjennom utvalgets innspillskonferanse og på andre måter er det blitt tydelig for *utvalget* at det er behov for at varslerne oppnår en anerkjennelse eller et «klapp på skulderen» for det de gjør. Betydningen av slik anerkjennelse drøftes nærmere i punkt 9.6.3.
+
+*Del IV*
+
+*Økonomiske og administrative konsekvenser*
+
+1.  **Økonomiske og administrative konsekvenser**
+
+**\[:figur:figX-X.jpg\]**
+
+1.   
+
+<!-- -->
+
+1.  **Innledning**
+
+I dette kapitlet beskrives *utvalgets* vurdering av de forventede økonomiske og administrative konsekvensene av utvalgets forslag til tiltak for å styrke varslervernet i norsk arbeidsliv. For mer informasjon om nytten av varsling vises det til punkt 3.4 og utredningen om verdien av varsling fra Oslo Economics. I henhold til Oslo Economics’ analyse sparer varsling samfunnet for minst en halv milliard kroner årlig, se Oslo Economics (2017) side 45.
+
+*Utvalget* vil innledningsvis bemerke at den nærmere utformingen av tiltakene vil ha betydning for nytte- og kostnadsvirkningene og at disse bør utredes nærmere ved videre oppfølging.
+
+1.  **Juridiske tiltak**
+
+    1.  **En egen lov om varsling**
+
+*Utvalget* foreslår at det skal utredes og vedtas en egen lov om varsling, som i første omgang skal inneholde regler om Varslingsombudet og Varslingsnemnda. *Utvalget* understreker at en egen lov først og fremst vil bidra til å styrke ytringsfriheten og retten til å varsle. Loven vil ha stor symboleffekt og gjøre det lettere for varslere å finne frem til og ivareta sine rettigheter.
+
+I likhet med flere av de øvrige endringene som *utvalget* foreslår, vil det påløpe kostnader til utredning og utarbeidelse av lovforslag, høring mv. Utover dette vil en egen lov i seg selv ikke medføre kostnader, men kan bidra til at flere kritikkverdige forhold avdekkes enklere og uten konflikt.
+
+1.  **Endringer og presiseringer i arbeidsmiljølovens varslingsregler**
+
 Innledning
-Varslingsutvalget foreslår en ny bestemmelse om
-objektivt ansvar for økonomisk tap ved brudd på
-forbudet mot gjengjeldelse, utformet etter samme
-mønster som i diskrimineringslovgivningen. Det
-innebærer at en arbeidstaker som har blitt utsatt
-for gjengjeldelse på grunn av varsling kan kreve
-erstatning uavhengig av arbeidsgivers skyld.
-Utvalget foreslår at retten til erstatning og oppreisning reguleres i en samlet bestemmelse i
-arbeidsmiljøloven kapittel 2 A, se skisse til lovtekst nedenfor.
-Når det gjelder spørsmålet om brudd på
-arbeidsgivers aktivitetsplikt (omsorgsplikt) overfor varsleren skal kunne gi grunnlag for oppreisning og erstatning har utvalget delt seg i et
-flertall og mindretall. Utvalgsflertallet mener at
-manglende oppfyllelse av aktivitetsplikten overfor
-varsleren (omsorgsplikten) bør kunne sanksjoneres med erstatning og oppreisning etter alminnelige regler, og foreslår et andre ledd i samlebestemmelsen om erstatning og oppreisning.
-Mindretallet mener at brudd på omsorgsplikten i
-tilstrekkelig grad fanges opp av forbudet mot gjengjeldelse, som også omfatter unnlatelser. Det å
-ikke sørge for et fullt forsvarlig arbeidsmiljø, vil
-kunne sanksjoneres som en gjengjeldelse.
-Gjengjeldelse utøves ofte over tid og kan
-omfatte ulike elementer som ignorering, avvisning og direkte sanksjonering i form av mobbing,
-trakassering og marginalisering. Omsorgsplikten
-overfor varsleren vil utløses ved varsel i henhold
-til varslingsrutiner, eller der arbeidsgiver har
-grunn til å tro at det er varslet, jf. utvalgets forslag
-til en egen aktivitetspliktsbestemmelse i punkt
-10.9.2. Det antas derfor å være mulig å konstatere
-fra hvilket tidspunkt det foreligger brudd på
-omsorgsplikten overfor varsleren. Utvalget er
-således av den oppfatning, at brudd på arbeidsgivers omsorgsplikt, også kan inngå som et element
-ved vurderingen av om det har forekommet gjengjeldelse. Det kan imidlertid ikke utelukkes at
-brudd på omsorgsplikten i en konkret sak, kan
-være så alvorlig at det alene er tilstrekkelig til å
-konstatere brudd på forbudet mot gjengjeldelse.
-Der hvor arbeidsgiver ikke har oppfylt sin plikt til
-å implementere interne varslingsrutiner, vil det
-kunne få betydning for bevisvurderingen i
-arbeidsgivers disfavør.
-Nivået på oppreisning og erstatning for fremtidig inntektstap som tilkjennes i gjengjeldelsessaker etter varsling, er etter utvalgets vurdering lavt,
-og bør heves. Dette må likevel sees i sammen-
-
-heng med at erstatningsnivået helt generelt er
-relativt lavt i norsk rett. Se for øvrig drøfting
-nedenfor.
-Utvalget mener at det er arbeidsgiver som har
-størst mulighet for å redusere risikoen for konflikt
-i forbindelse med varsling. Når domstolen skal ta
-stilling til nivået på en eventuell oppreisning i en
-gjengjeldelsessak, bør det være et tungtveiende
-argument for å la det gå ut over arbeidsgiver hvis
-virksomheten ikke har gjort tilstrekkelig for å
-benytte seg av den muligheten. Arbeidsgiver som
-den sterke part i et arbeidsforhold har et særskilt
-ansvar for å legge til rette for varsling, sikre håndtering av varselet og ivaretakelse av arbeidstaker
-som varsler. Etter utvalgets mening er arbeidsgivers oppfyllelse av aktivitetsplikten sentral, og må
-tillegges betydelig vekt ved utmåling av erstatningen.
-Etter gjeldende rett må krav om oppreisning
-for ikke-økonomisk tap og erstatning for økonomisk tap settes frem for domstolene. Utvalget har
-også vurdert om slike krav bør kunne avgjøres
-administrativt ved nemnd eller lignende, med
-adgang til å bringe saken inn for domstolene dersom vedtaket ikke aksepteres. Se utvalgets flertallsforslag til en egen nemndsløsning i punkt
-12.5.7. Utvalgets mindretall, mener at slike saker
-fortsatt utelukkende bør behandles av domstolene, se omtale i samme punkt.
-Oppreisning og erstatning ved brudd på omsorgsplikten
-Varslingsutvalget er som nevnt innledningsvis, delt
-i synet på om brudd på omsorgsplikten skal
-kunne gi grunnlag for å reise erstatningssøksmål
-for domstolene.
-Utvalgets flertall, utvalgets leder og medlemmene Dahle, Dalheim, Eriksen, Jensen, Matthiesen,
-Rygh Monsen og Skog mener at manglende oppfyllelse av omsorgsplikten bør kunne sanksjoneres
-med erstatning og oppreisning etter alminnelige
-regler. Det er i flere sammenhenger påpekt at
-spørsmålet om det har skjedd gjengjeldelse er et
-vanskelig bevistema fordi gjengjeldelse kan bestå
-i forhold som det er vanskelig å dokumentere, og
-at det ofte er summen av slike som til slutt blir
-problematisk. I tillegg oppleves kravet til årsakssammenheng som utfordrende. Disse forholdene
-kan gjøre det vanskelig å nå frem i domstolene.
-Manglende overholdelse av omsorgsplikten vil
-kunne være et enklere bevistema enn spørsmålet
-om det har skjedd gjengjeldelse, og kan som
-sådan utløse rett til oppreisning og erstatning i
-flere tilfeller enn i dag. Samlet sett vil et opp-
-
-[Side 175]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-reisnings- og erstatningskrav på den måten «få
-flere ben å stå på». Flertallet mener at muligheten
-for arbeidstaker til å reise søksmål er sentralt og
-vil bety en ytterligere forsterkning av omsorgsplikten. Samtidig kan det føre til at varslere som
-blir utsatt for gjengjeldelse eller svikt i arbeidsgivers plikt til å sørge for et fullt forsvarlig arbeidsmiljø (omsorgsplikt overfor varsleren), får en utvidet mulighet til å kreve oppreisning og erstatning.
-I tillegg mener flertallet at arbeidsgivers brudd på
-omsorgsplikten er et forhold som bør vektlegges
-ved erstatningsutmålingen i en gjengjeldelsessak.
-Flertallets forslag til erstatningsregel er inntatt
-som andre ledd i skissen til lovbestemmelse
-nedenfor.
-Mindretallet, medlemmene Stenberg-Nilsen og
-Opstad Sunde, mener at det ikke er hensiktsmessig at brudd på arbeidsgivers omsorgsplikt skal
-sanksjoneres med erstatning og oppreisning etter
-alminnelige regler. Brudd på omsorgsplikten vil
-etter disse medlemmenes syn i tilstrekkelig grad
-fanges opp av forbudet mot gjengjeldelse, som
-også omfatter unnlatelser. Disse medlemmene
-mener at det er tilstrekkelig at brudd på omsorgsplikten får betydning ved en eventuell erstatningsutmåling.
-Objektivt erstatningsansvar for ikke-økonomisk tap
-(oppreisning)
-Utmåling av oppreisning for ikke-økonomisk tap
-vil bero på en rimelighetsvurdering. Ved vurderingen av oppreisningens størrelse, er det viktig å ta
-høyde for hvordan varslingssaker utvikler seg og i
-realiteten ofte er en langvarig prosess, og at den
-totale belastningen på varsleren kan bli svært stor.
-Disse forholdene bør spesifikt omtales i forarbeidene til en ny lovbestemmelse. Det er etter utvalgets mening viktig at domstolene vektlegger
-hvilke belastninger en pågående varslingssak og
-gjengjeldelseshandlinger kan påføre varsleren.
-Det forhold at både virksomhetene og samfunnet har behov for varslere, og ønsker at det skal
-varsles om kritikkverdige forhold, bør signaliseres gjennom et oppreisningsnivå som overstiger
-nivået i de ordinære stillingsvernsakene. Arten av
-og alvorlighetsgraden av gjengjeldelsen, den spesielle belastningen en ansatt påtar seg ved å varsle
-og konsekvensene varslingen kan få for varsleren,
-er alle momenter som etter utvalgets vurdering
-bør tas hensyn til ved utmåling av oppreisning
-etter gjengjeldelse. Utvalget mener også, som
-omtalt foran, at brudd på aktivitetsplikten, manglende varslingsrutiner og brudd på saksbehand-
-
-175
-
-Kapittel 10
-
-lingsregler bør være et moment for å gi forhøyet
-oppreisning.
-Dagens nivå på oppreisningserstatning i varslingssaker bør heves også fordi allmennpreventive og pønale hensyn bør være mer fremtredende. I en tvist om gjengjeldelse, hvor arbeidsgiver for eksempel har gjort en feil ved saksbehandlingen, bør det bli vektlagt ved utmålingen av oppreisningserstatning. I varslingssaker kan man stå
-overfor alvorlige forhold når en arbeidstaker har
-tatt en risiko ved å bidra til å avdekke et kritikkverdig forhold, og deretter blir «straffet» for det
-ved å bli utsatt for gjengjeldelse av arbeidsgiver.
-Det tas ofte til orde for at nivået på oppreisning i
-stillingsvernsaker generelt ikke bør bli høyere
-fordi nivået for oppreisningserstatning i straffesaker ligger så lavt. Det vises her til at sakstypene
-ikke er sammenlignbare. Partsforholdet i straffesaker er et annet, og dessuten er allmennpreventive og pønale element ved oppreisning i straffesaker ikke eneste sanksjon, men kommer i tillegg
-til annen straff som for eksempel fengsel.
-I tillegg til å gi tydelige signaler til domstolen i
-forarbeidene om at nivået på oppreisning må
-heves, mener utvalget at det bør presiseres i lovbestemmelsen at det må tas hensyn til arten og
-alvorlighetsgraden av gjengjeldelsen ved utmåling
-av oppreisningserstatningen. Dette fremgår av
-forarbeidene til gjeldende bestemmelse, og vil
-derfor ikke medføre noen materiell endring.67
-Forslag om objektivt erstatningsansvar for økonomisk tap (erstatning)
-Utvalget foreslår en bestemmelse om objektivt
-erstatningsansvar også for økonomisk tap ved
-brudd på gjengjeldelsesforbudet.
-Objektivt erstatningsansvar kan sies å bryte
-med det grunnleggende skyldansvaret i norsk
-rett. Det har imidlertid vært en utvikling på det
-arbeidsrettslige området i retning av objektivt
-ansvar for visse lovbrudd.68 Det er likevel flere
-hensyn som taler for at urettmessig behandling i
-form av gjengjeldelse for arbeidstakers varsel om
-kritikkverdige forhold bør ha samme erstatningsrettslige vern som urettmessig behandling i form
-av diskriminering eller urettmessig oppsigelse
-eller avskjed. De hensyn som gjør seg gjeldende i
-diskrimineringssaker kan også tilsi en lemping av
-kravene til skyld i saker om gjengjeldelse på
-grunn av varsling. Det kan også her ofte være vanskelig å føre bevis for at arbeidsgiver har utvist
-skyld. En regel om objektivt erstatningsansvar vil
-67
-
-Ot.prp. nr. 84 (2005–2006) s. 53.
-
-[Side 176]
-
-176
-
-Kapittel 10
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-dermed kunne bidra til å gjøre gjengjeldelsesvernet mer effektivt.
-Enkelte vil kunne anføre at en regel om objektivt ansvar innebærer at arbeidsgiver kan bli
-ansvarlig for sine arbeidstakeres handlinger.
-Dette vil gjelde selv om arbeidsgiver har forsøkt å
-stanse handlingene ved instrukser, advarsler mv.
-Arbeidsgiver kan også etter gjeldende regler identifiseres med arbeidstakernes handlinger i ansettelsesforholdet. Skadeserstatningsloven § 2-1 fastsetter at arbeidsgiver svarer for skade som voldes
-forsettlig eller uaktsomt under arbeidstakers utføring av arbeid eller verv for arbeidsgiveren, idet
-hensyn tas til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten, er
-tilsidesatt. Ansvaret omfatter imidlertid ikke
-skade som skyldes at arbeidstakeren går utenfor
-det som er rimelig å regne med etter arten av virksomheten eller saksområdet og karakteren av
-arbeidet eller vervet.
-En regel om objektivt erstatningsansvar vil
-muligens virke prosessfremmende. Kompleksiteten og bevissituasjonen i saker om varsling vil
-imidlertid neppe føre til en vesentlig lavere terskel
-for å reise søksmål. Det må dessuten tilføyes at i
-de tilfeller det er tale om gjengjeldelse i form av
-oppsigelse eller avskjed, vil det objektive erstatningsansvaret allerede følge av bestemmelsen i
-arbeidsmiljøloven § 15-12. En gjennomgang av
-rettspraksis i saker om varsling viser at de fleste
-tilfellene som har kommet for domstolene så
-langt, gjelder påstand om at arbeidstaker har blitt
-sagt opp som gjengjeldelse for varsling. En egen
-regel om objektivt erstatningsansvar vil derfor
-kun ha praktisk betydning utenom oppsigelses- og
-diskrimineringstilfellene.
-68
-
-Arbeidsmiljøloven og diskrimineringslovgivningen har
-flere bestemmelser om objektivt erstatningsansvar.
-Utgangspunktet er erstatningsbestemmelsen ved usaklig
-oppsigelse i arbeidsmiljøloven § 15-12.
-I forbindelse med revisjon av arbeidsmiljøloven kapittel 13
-og diskrimineringslovgivningen i 2013, ble reglene om
-erstatning ved diskriminering harmonisert, jf. Prop. 88 L
-(2012–2013) s. 97–98. Frem til dette hadde det vært ulike
-regler for erstatning knyttet til de ulike diskrimineringsgrunnlagene. Departementet pekte på at det var behov for
-like regler. Det ble dessuten fremhevet at det hadde vist
-seg svært vanskelig å påvise skyld i diskrimineringssaker,
-slik at den som utsettes for diskriminering i praksis sjelden
-ble tilkjent erstatning eller oppreisning. På denne bakgrunn ble det inntatt bestemmelser om erstatningsansvar
-uavhengig av skyld både for økonomisk tap og ikke-økonomisk skade i arbeidsmiljøloven § 13-9, diskrimineringsloven om seksuell orientering § 24, likestillingsloven § 28,
-diskrimineringsloven om etnisitet § 25 og diskrimineringsog tilgjengelighetsloven § 31. Fra 1. januar 2018 er bestemmelsene om objektivt ansvar for brudd på diskrimineringsforbudet i arbeidsforhold samlet i likestillings- og diskrimineringsloven § 38.
-
-Ved utmålingen av det økonomiske tapet vil
-domstolene måtte utvise skjønn, blant annet ved
-fastsetting av et eventuelt fremtidig økonomisk
-tap.69 Utvalget peker på at det vil kunne oppstå vanskelige spørsmål om årsakssammenheng og hva
-som er et påregnelig tap. En regel om objektivt
-erstatningsansvar vil ikke i seg selv løse disse spørsmålene, men vil bidra til en effektivisering av regelen ved at ansvarsgrunnlaget blir lettere å fastslå.
-Gjengjeldelse kan medføre helseskade for
-varsleren, og en etterfølgende tvist om dette, kan
-gjøre det svært vanskelig å fortsette i arbeidsforholdet eller å komme i nytt arbeid. Slike forhold
-bør hensyntas i utmålingen av erstatning for fremtidig inntektstap.
-Skisse til lovtekst
-§ 2 A-X. Erstatning og oppreisning
-1) Arbeidstaker som er blitt utsatt for gjengjeldelse i
-strid med § 2 A-X kan kreve erstatning og oppreisning uten hensyn til arbeidsgivers skyld.
-Erstatningen skal dekke økonomisk tap som
-følge av gjengjeldelsen. Oppreisning for ikke-økonomisk skade fastsettes til det beløp som retten
-finner rimelig under hensyn til partenes forhold,
-arten og alvorlighetsgraden av gjengjeldelsen
-samt omstendighetene for øvrig.
-2) Arbeidstaker kan ved brudd på arbeidsgivers
-ansvar for varsleren etter § 2 A-X nr. 2 kreve
-oppreisning og erstatning for økonomisk tap
-etter alminnelige regler. Oppreisning for ikkeøkonomisk skade fastsettes til det beløp som retten finner rimelig under hensyn til partenes forhold, arten og alvorlighetsgraden av bruddet
-samt omstendighetene for øvrig.
-Når det gjelder andre ledd vises det til at utvalget
-er delt, se nærmere ovenfor i punktet om «Oppreisning og erstatning ved brudd på omsorgsplikten».
-
-10.14 Straff
-10.14.1 Gjeldende rett
-Brudd på arbeidsmiljøloven kapittel 2 A kan straffes med hjemmel i arbeidsmiljøloven kapittel 19, jf.
-§ 19-1 fjerde ledd. Straff ved brudd på gjengjeldelsesforbudet er ikke omtalt i varslingsreglenes forarbeider og det må antas at straffesanksjonering
-
-69
-
-Rt-1997-1506.
-
-[Side 177]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-ikke har blitt ansett som den mest aktuelle reaksjonen ved overtredelse av gjengjeldelsesforbudet.
-Straffeansvar for forsettlig eller uaktsom overtredelse av arbeidsmiljøloven kapittel 2 A for
-arbeidsgiver reguleres i § 19-1. Den som medvirker til slike overtredelser kan også ilegges straff,
-men dersom medvirkeren er arbeidstaker, reguleres straffansvaret av § 19-2. Straffansvar for foretak reguleres av de generelle reglene om foretaksstraff i straffeloven §§ 27 og 28. Det vises til
-omtale av gjeldende rett i punkt 4.5.
-
-10.14.2 Erfaringer med reglene
-Selv om det er et mindretall (25 prosent) av varslere som oppgir at de blir utsatt for ulike former
-for gjengjeldelse, så er gjengjeldelse så alvorlig og
-kan få så store konsekvenser for den som varsler,
-at det er viktig å ta i bruk tilgjengelige virkemidler
-for å motvirke og forebygge gjengjeldelse i slike
-saker (allmennpreventiv effekt). Bekymringen for
-å bli møtt med gjengjeldelse er alene nok til å
-demotivere den som vurderer å varsle, enten
-bekymringen viser seg å være reelt begrunnet
-eller ikke. Ifølge OECD er det sjelden at de
-ansvarlige straffes for utført gjengjeldelse i varslingssituasjoner, selv i land med velutviklede
-systemer for å verne om varslerne.70
-10.14.3 Utvalgets vurdering
-Utvalget legger til grunn at straff ikke er det mest
-egnede tiltaket i varslingssaker, men bare bør brukes i særlige tilfeller. Perspektivet i enhver virksomhet bør være kontinuerlig forbedring slik at
-det ikke blir behov for økt bruk av straff som
-virkemiddel. Utvalget vil derfor ikke foreslå
-endringer i regelverket om straff.
-
-10.15 Tilsynet med arbeidsmiljølovens
-varslingsregler
-10.15.1 Gjeldende rett
-Arbeidsmiljøloven § 18-6 setter presise rammer
-for Arbeidstilsynets tilsynsaktivitet og påleggskompetanse og angir konkret hvilke bestemmelser det kan føres tilsyn med. Arbeidstilsynet fører
-risikobasert tilsyn, som innebærer at tilsynet
-innenfor rammen av eksisterende ressurser selv
-skal kunne foreta nødvendige prioriteringer av
-hvilke saker som skal gås nærmere inn i, føres tilsyn med og eventuelt følge opp med pålegg.
-
-Arbeidstilsynet har hatt hjemmel i arbeidsmiljøloven § 18-10 til å ilegge overtredelsesgebyr
-siden 2014. Adgangen til å ilegge overtredelsesgebyr samsvarer med Arbeidstilsynets påleggskompetanse. Et overtredelsesgebyr kan utgjøre maksimalt 15 ganger folketrygdens grunnbeløp.
-Arbeidstilsynets avgjørelse av om overtredelsesgebyr skal ilegges og i tilfelle hvor stort det skal
-være, vil bero på en konkret helhetsvurdering av
-om det er hensiktsmessig med en slik reaksjon.
-Arbeidstilsynet kan føre tilsyn med plikten til å
-utarbeide rutiner for intern varsling etter § 2 A-3.
-Manglende overholdelse av bestemmelsen kan
-medføre pålegg. I virksomheter med færre enn
-fem ansatte har Arbeidstilsynet også myndighet til
-å overprøve arbeidsgivers vurdering av om forholdene tilsier at det er behov for å utarbeide varslingsrutiner, jf. første ledd. Med de endringene
-som trådte i kraft fra 1. juli 2017, kan Arbeidstilsynet nå også kontrollere at innholdet i rutinene er i
-tråd med de minimumskravene som følger av § 2
-A-3 fjerde og femte ledd, samt at arbeidstakerne
-og deres tillitsvalgte har vært involvert i utarbeidelsen av rutinene, jf. § 2 A-3 tredje ledd. Se mer
-om gjeldende rett i punkt 4.2.5.
-
-10.15.2 Erfaringer med reglene
-Kjerneområdet for bruk av overtredelsesgebyr er
-når den aktuelle overtredelsen av arbeidsmiljøregelverket ikke er alvorlig nok til å politianmeldes,
-og hvor andre reaksjonsmidler ikke er tilstrekkelig
-effektive.71 Årsaken til de fleste overtredelsesgebyrene som Arbeidstilsynet ga i 2016 var brudd på
-bestemmelsene om arbeid i høyden og arbeidstid.
-10.15.3 Utvalgets vurdering
-Varslingsrutiner har vist seg å ha positiv sammenheng med varslingseffektiviteten i flere studier, se
-punkt 7.3.5. I en undersøkelse gjennomført av Fafo
-i 2016 svarte 47 prosent at de var kjent med at det
-er skriftlige varslingsrutiner der de jobber, mens 49
-prosent svarte nei, eller at de ikke visste.72
-Utvalget mener at Arbeidstilsynet bør vurdere
-om adgangen til å ilegge overtredelsesgebyr skal
-anvendes i større utstrekning enn i dag ved overtredelse av plikten til å utarbeide varslingsrutiner,
-herunder forslaget fra utvalget om krav til jevnlig
-evaluering av rutinene i samarbeid med arbeidstakerne og deres tillitsvalgte, jf. utvalgets forslag i
-punkt 10.10.3.
-71
-
-70
-
-OECD (2016).
-
-177
-
-Kapittel 10
-
-72
-
-Arbeidstilsynet, Årsrapport 2016 s. 12.
-Fafo 2017 I s. 23.
-
-[Side 178]
-
-178
-
-NOU 2018: 6
-
-Kapittel 11
-
-Varsling – verdier og vern
-
-Kapittel 11
-
-Opplærings- og kommunikasjonstiltak
-11.1 Behov for opplærings- og
-kommunikasjonstiltak
-Etter mandatets punkt 4 skal utvalget «drøfte hvilken rolle myndighetene, domstoler, fagforeninger,
-tillitsvalgte og verneombud har i varslingssaker,
-herunder vurdere om eksisterende aktører og
-organer dekker behovet for informasjon […] i
-varslingssaker.»
-Hvis et regelverk skal fungere, må det være
-kjent. I en undersøkelse som Fafo gjennomførte i
-2016 var det 38 prosent av de spurte arbeidstakerne som svarte at de ikke var kjent med
-arbeidsmiljølovens bestemmelser.1 Arbeidstakere, arbeidsgivere og den eller dem det varsles
-om kan ha et behov for informasjon om varsling
-og varslingsprosesser, utover det å kjenne til varslingsreglene i loven. Dette gjelder etter at det har
-oppstått en konflikt eller etter at varsleren mener
-seg utsatt for gjengjeldelse. Det kan likevel være
-særlig behov for en eller flere støttespillere på et
-tidligere tidspunkt, som kan bidra til en god prosess der sakene blir løst på lavest mulig nivå, jf.
-over om den ideelle prosess for varslingssaker i
-punkt 9.5.
-Gjennom innspillskonferansen og øvrig kunnskapsinnhenting er det blitt tydeliggjort for utvalget at en av de største utfordringene i varslingssaker knytter seg til mangel på kunnskap og erfaring. Det vises i denne sammenheng til at flere av
-de hovedutfordringene som er skissert i kapittel 9
-delvis kan forklares med mangel på kunnskap om
-og erfaring med varsling og varslingsprosesser.
-Det kan etter utvalgets vurdering legges til grunn
-at kunnskapsbehovet gjelder alle som kan bli
-involvert i varslingssaker, både arbeidstakere, verneombud, tillitsvalgte og ledelsen i virksomhetene. Økt kunnskap og erfaringsutveksling vil
-kunne virke konfliktforebyggende og bidra til
-bedre håndtering av varslingssaker og de som er
-involvert i disse. Arbeidsgiver- og arbeidstakerorganisasjonene har en viktig rolle og de bør derfor
-1
-
-Fafo 2016 I s. 26 flg.
-
-være godt skolert til å gi opplæring til de som skal
-håndtere varslingssaker ute i virksomhetene.
-I dette kapitlet drøftes og anbefales det ulike
-kommunikasjons- og informasjonstiltak som kan
-bidra til å styrke varslervernet i norsk arbeidsliv.
-
-11.2 Anbefalinger fra internasjonale
-organisasjoner og
-kompetansemiljø
-I rapporten Committing to Effective Whistleblower
-Protection fra 2016 gir OECD sine «Key
-Recommendations» til medlemsstatene, herunder en anbefaling om å «[c]learly communicate
-the processes in place and raise awareness
-through training, newsletters, and information
-sessions about reporting channels and procedures to facilitate disclosures.»
-Europarådets ministerkomité vedtok i 2014 en
-anbefaling til medlemsstatene om beskyttelse av
-varslere.2 Anbefalingen omfatter en rekke prinsipper som skal veilede medlemsstatene når de skal
-evaluere eller endre regelverket på området. Fra
-anbefalingen siteres følgende:
-VIII. Advice, awareness and assessment
-27. The national framework should be promoted widely in order to develop positive attitudes amongst the public and professions and to
-facilitate the disclosure of information in cases
-where the public interest is at stake.
-28. Consideration should be given to
-making access to information and confidential
-advice free of charge for individuals contemplating making a public interest report or
-disclosure. Existing structures able to provide
-such information and advice should be identified and their details made available to the
-general public. If necessary, and where possi2
-
-Recommendation CM/Rec(2014)7 on the protection of
-whistleblowers prepared by the European Committee on
-Legal Co-operating (CDCJ) of the Council of Europe.
-
-[Side 179]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-ble, other appropriate structures might be equipped in order to fulfil this role or new structures created.
-I 2016 tok EU-kommisjonen initiativ til å utrede
-situasjonen i medlemslandene når det gjelder
-varsling og vern av varslere, og vurdere behovet
-for nye tiltak, eventuelt på EU-nivå, jf. punkt 5.5. I
-den sammenhengen har kommisjonen fått gjennomført en studie hvor man har forsøkt å beregne
-den økonomiske gevinsten av vern av varslere i tilknytning til offentlige innkjøp.3 Studien har identifisert flere faktorer som bidrar til å effektivisere
-systemer for vern av varslere. Blant de viktigste er
-økt kunnskap om systemer for varsling og på hvilken måte varslere er vernet, samt opplæring i
-mottak og håndtering av varsel.4
-
-11.3 Opplæring og
-kompetanseutvikling
-11.3.1 Krav i arbeidsmiljøloven om opplæring
-av leder og verneombud
-Arbeidsmiljøloven § 3-5 slår fast at arbeidsgiver
-skal gjennomgå opplæring i helse-, miljø- og sikkerhetsarbeid. Plikten er personlig og kan ikke
-delegeres. For å kunne ta de riktige beslutningene med hensyn til arbeidsmiljøet, skal arbeidsgiver ha kunnskap om hvilke krav som gjelder,
-hva som skal til for å få et godt arbeidsmiljø og
-hvordan det skal arbeides systematisk med helse,
-miljø og sikkerhet i virksomheten. Når det gjelder
-arbeidstakere som har til oppgave å lede eller kontrollere andre arbeidstakere, skal arbeidsgiver
-sørge for at disse har nødvendig kompetanse til å
-føre kontroll med at arbeidet blir utført på en
-helse- og sikkerhetsmessig forsvarlig måte, jf.
-arbeidsmiljøloven § 3-2 første ledd bokstav b).
-Arbeidsgiver skal også sørge for at verneombud
-får den opplæringen som er nødvendig for å
-kunne utføre vervet på forsvarlig måte, jf. arbeidsmiljøloven § 6-5.
-I en undersøkelse gjennomført av Fafo i 2016
-er det 20 prosent av lederne som sier at de ikke
-kjenner varslingsreglene, og 14 prosent av tillitsvalgte og verneombud som sier det samme. Blant
-ansatte med tillitsverv var det 28 prosent som
-oppga at de hadde fått opplæring i hvordan varsel
-skal håndteres, mens 36 prosent av lederne svarte
-det samme.5
-3
-4
-5
-
-McGunn, Rossi og Fernandes (2017).
-Se omtale av rapporten i punkt 3.5.
-Fafo 2016 I s. 48 flg.
-
-179
-
-Kapittel 11
-
-Det er svært viktig at ledere og verneombud
-har kunnskap om varsling. Utvalget mener at det
-kan være grunnlag for økt oppmerksomhet på at
-opplæringskrav i arbeidsmiljøloven også bør
-omfatte varsling og varslingsprosesser, og viser i
-den forbindelse til at arbeidsgivers plikt til å utarbeide rutiner for intern varsling skal skje i tilknytning til det systematiske helse-, miljø- og sikkerhetsarbeidet, jf. arbeidsmiljøloven § 2 A-3 første
-ledd. Utvalget mener at opplæringskravet etter
-arbeidsmiljøloven §§ 3-5 og 6-5 også bør omfatte
-kunnskap om hva som skal til for å skape en åpenhetskultur og kunnskap om varsling og varslingsprosesser.
-
-11.3.2 Høyskole- og universitetsutdanning
-i HR, organisasjon og ledelse
-God skolering om varsling og varslingsprosesser
-bør være en del av enhver lederopplæring. Utvalget vil derfor anbefale at det sikres at varsling og
-håndtering av varslingssaker tas inn i læreplanen
-på relevante studier som HR, organisasjon og
-ledelse.
-11.3.3 Arbeidstilsynet – opplæring og
-samarbeid med andre myndigheter
-Et viktig ledd i å styrke varslervernet er å sette
-arbeidsgiver og arbeidstakernes representanter i
-stand til å håndtere interne varsel og varslere.
-Arbeidstilsynet planlegger derfor å gjennomføre
-en rekke seminarer for arbeidsgivere og hovedverneombud. Temaene vil blant annet være: hvorfor varsling er viktig og ønskelig, hva er varsling,
-regelverket om varsling, hvordan motta og håndtere interne varsel, behandling av varsleren og
-den omvarslede og ekstern varsling. Offentlig
-sektor er en stor og viktig arbeidsgiver og Fafo
-fant i 2016 at offentlig ansatte, og særlig arbeidstakere i staten, vurderte sine ytringsbetingelser
-som dårligere enn det arbeidstakere i privat sektor gjorde. Seminarene vil derfor prioritere offentlig sektor i 2018 og privat sektor i 2019. I tillegg vil
-Arbeidstilsynet standardisere og kvalitetssikre sitt
-opplegg for innlegg om håndtering av varsling
-som de tilbyr til virksomheter, organisasjoner og
-andre.
-Arbeidstilsynet har i 2016 og 2017 gjennomført
-flere workshops med andre offentlige myndigheter om hvordan offentlige myndigheter forstår
-varsling, hvordan myndighetene håndterer rollen
-som varslingsmottaker og samarbeid mellom
-myndighetene. Gjennom workshopene har myndighetene identifisert behov og tiltak for å bedre
-
-[Side 180]
-
-180
-
-Kapittel 11
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-samhandling om varsling. Myndighetenes forslag
-til tiltak er beskrevet i en felles handlingsplan, der
-det blant annet foreslås at det utarbeides et elæringsprogram for offentlige myndigheter og at
-det arrangeres kompetansehevende seminarer for
-ansatte som innehar særskilte oppgave knyttet til
-varsling. E-læringsverktøyet vil ha noen generelle
-deler som også vil kunne brukes på læringsplattformen til Difi, jf. punkt 11.3.5 nedenfor. I handlingsplanen fremgår det videre at det skal utarbeides felles retningslinjer for håndtering av varsel
-og varslere og en guide for veiledning i arbeidsmiljøloven kapittel 2 A. Hvis en varsler trenger
-ekstra veiledning vil hovedregelen være at
-arbeidstakeren skal settes i kontakt med Arbeidstilsynet.
-Utvalget ser svært positivt på det arbeidet
-Arbeidstilsynet gjør og de tiltakene de planlegger
-å sette i verk. Dette arbeidet må fortsette. Utvalget
-mener samtidig at det er behov for å videreutvikle
-denne innsatsen. Kunnskap må utvikles og spres
-slik at den kan forankres i den enkelte virksomhet, enten den er statlig, kommunal eller privat.
-Arbeidstilsynets opplegg for seminarer for
-arbeidsgivere og hovedverneombud om varsling
-bør etter utvalgets vurdering utarbeides i fellesskap med partene i arbeidslivet.
-I dagens og fremtidens mangfoldige mediesamfunn er det nødvendig å møte både borgere,
-arbeidstakere og arbeidsgivere på den plattform
-de er på til enhver tid. Dette vil kreve ressurser.
-Det er viktig at man stiller krav til effektiv utnyttelse av de ressursene som settes inn. For å oppnå
-resultater på dette området må man likevel styrke
-muligheten for økt ressursallokering. Dersom
-samfunnet ønsker resultater, må det stilles ressurser til disposisjon.
-
-11.3.4 Organisasjonene i arbeidslivet – kurs
-og holdningsarbeid
-Utvalget har merket seg at arbeidslivets organisasjoner, både på arbeidstaker- og arbeidsgiversiden, har bidratt til å øke kompetansen om varsling
-i norske virksomheter. Det er likevel grunn til å
-stille spørsmål ved om kunnskapen er tilstrekkelig implementert i den enkelte virksomhet. Utvalget mener at det er behov for at arbeidslivets parter øker innsatsen sin for å bidra til dette, for
-eksempel med andre tiltak eller prioriteringer for
-å heve kunnskapsnivået hos sine medlemmer.
-Utvalget er klar over at arbeidslivets organisasjoner har en rekke oppgaver og forpliktelser, og
-har forståelse for at økt innsats på enkeltområder
-kan virke krevende. I denne forbindelse vil utval-
-
-get vise til mandatet, som er å styrke varslervernet, og til målsettingen om at det skal avdekkes
-flest mulig kritikkverdige forhold. Samtidig vil
-utvalget vise til rapporten fra Oslo Economics,
-hvor det fremgår at varsling totalt sett er lønnsomt
-for samfunnet, og et meget effektivt virkemiddel
-for å oppdage og rette opp i kritikkverdige forhold, jf. punkt 3.4. Det vil med andre ord både
-gagne den enkelte virksomhet og samfunnet som
-helhet at arbeidslivets parter øker sin innsats på
-dette området, eksempelvis gjennom økt bruk av
-kurs og holdningsarbeid.
-
-11.3.5 Kurs for utvikling av ledere i staten
-i regi av Difi
-Direktoratet for forvaltning og IKT (Difi) har som
-sitt oppdrag å være det sentrale fagorganet for
-modernisering og omstilling av offentlig sektor. I
-den sammenhengen er opplæring og utvikling av
-ledere i staten en viktig oppgave. Ansvaret for
-kompetanseutvikling ligger i den enkelte virksomheten, men Difi støtter virksomhetenes arbeid
-gjennom kunnskap og råd, virkemidler, generelle
-verktøy og metoder.6 Fra januar 2018 har Difi
-overtatt støtte- og veiledningstjenestene for statlige arbeidsgivere fra Kommunal- og moderniseringsdepartementet. Arbeidsgivere, ledere og HRmedarbeidere kan finne særskilt informasjon på
-det nye nettstedet Arbeidsgiverportalen, og Difis
-veiledningstjeneste skal besvare alle henvendelser om støtte og rådgivning. Portalen har også en
-tjeneste for erfaringsdeling mellom statlige virksomheter. Difi har informasjon om varsling på
-sine nettsider og de har e-læringsprogram om
-samarbeid og medbestemmelse. Varsling er imidlertid ikke en del av det eksisterende kurstilbudet
-for lederutvikling.
-Utvalget mener det er svært viktig at Difi gjennom sitt tilbud kan bidra til at statlige arbeidsgivere, ledere og HR-medarbeidere opparbeider økt
-kompetanse på viktige temaer som ytringsfrihet,
-lojalitet, varsling og forsvarlig mottak og saksbehandling av varsel.
-
-11.3.6 Kompetanseutvikling for dommere og
-advokater
-Utvalget ønsker å peke på at det også for rettsanvendere i domstolene kan være behov for økt
-6
-
-Se mer om Difis tilbud på https://www.difi.no/fagomraderog-tjenester/kompetanseutvikling/ledelsesutvikling
-og
-https://arbeidsgiver.difi.no/strategisk-hr-og-ledelse/personalpolitikk/varsling.
-
-[Side 181]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-kunnskap om varsling og gjengjeldelse, og da særlig om de organisasjonspsykologiske trekkene
-ved disse prosessene. Utvalget mener dette blant
-annet kan ivaretas ved å innta temaet i Domstolsadministrasjonens introduksjonsprogram for nye
-dommere og nye dommerfullmektiger og ved å
-sette temaet på dagsorden på dommerseminarer
-mv.7 Utvalget mener også at det er et behov for at
-Advokatforeningen bidrar til kompetanseutvikling
-på dette området, for eksempel med kurs eller
-andre tiltak.
-
-11.4 Veiledere og informasjonsmateriell
-11.4.1 Innledning
-Utvalget konstaterer at hendelser som #metookampanjen vinteren 2017–2018 er med på å heve
-befolkningens interesse for og kunnskap om varsling, og behovet for god håndtering av både den
-som varsler og den det blir varslet om.8 Man kan
-imidlertid ikke basere seg på at slike mer enkeltstående kampanjer og tilhørende medieoppmerksomhet skal være tilstrekkelig. Det kreves målrettet og kontinuerlig innsats fra myndighetenes og
-arbeidsgivernes side dersom varige effekter skal
-oppnås. Utvalget vil derfor foreslå at Arbeidstilsynet får som oppdrag å tilrettelegge for kontinuerlig holdnings- og opplæringsvirksomhet i samarbeid med Varslingsombudet, som utvalget foreslår
-opprettet i kapittel 12. I en rekke ulike informasjons- og kommunikasjonstiltak vil det i etterkant
-være vanskelig å måle hvor stor effekt det enkelte
-tiltaket har. Samtidig er det de mange ulikeartede
-tiltak som samlet kan gi en synergieffekt, ut over
-det enkelte tiltaket. Utvalget mener at det er viktig
-å ha som utgangspunkt at det er mange gode tiltak på mange områder over tid som samlet sett
-kan bidra til å få avdekket flere kritikkverdige forhold og samtidig styrke varslervernet.
-11.4.2 Nasjonal varslingsveileder
-For å øke kompetansen til arbeidsgivere og
-arbeidstakere skal Arbeidstilsynet videreutvikle
-7
-
-8
-
-Domstoladministrasjonen (DA) har ansvaret for den sentrale administrasjonen av de alminnelige domstolene og
-skal være pådriver for tiltak som hever kvalitet og kompetanse. Det fremgår av strategisk plan for perioden 2014–
-2020 at DA skal arbeide for at «domstolene og DA prioriterer en systematisk kompetanseutvikling av medarbeiderne
-høyt». Strategisk og operativt arbeid med kompetanseutvikling for dommere og dommerfullmektiger ivaretas gjennom Kompetansekomitéen for dømmende funksjoner.
-Se mer om #metoo-kampanjen i boks 2.1.
-
-181
-
-Kapittel 11
-
-temasidene om varsling på www.arbeidstilsynet.no, slik at disse fungerer som en nasjonal veileder. Veilederen vil være elektronisk, men med
-mulighet for utskrift. Det er planlagt at informasjonsteksten skal kombineres med videosnutter
-og e-læring mv. Utvalget mener det er positivt at
-Arbeidstilsynet vil forbedre og videreutvikle nettsidene sine. Det er likevel også behov for ytterligere veilednings- og informasjonsmateriell for
-varslere og potensielle varslere, og for dem som
-skal kunne veilede, motta eller håndtere varsel.
-En nasjonal varslingsveileder bør etter utvalgets
-vurdering utarbeides i fellesskap med partene i
-arbeidslivet.
-
-11.4.3 Informasjon på myndighetenes
-nettsider
-Offentlige myndigheter er en lovlig varslingsmottaker for varsling om kritikkverdige forhold i
-arbeidsgivers virksomhet. Det er ikke alle tilsynsmyndigheter som har en tipsfunksjon lett tilgjengelig på forsiden av nettsiden sin. Dette kan skyldes flere forhold, deriblant at myndighetene allerede mottar svært mange henvendelser og bruker
-ressurser på å sortere, undersøke og svare ut
-disse.
-Kritikkverdige forhold som antas å være straffbare kan anmeldes til alle politidistrikt. Ett av politiets særorganer, ØKOKRIM, la nylig ut informasjon på nettsiden sin om at tips fra publikum er
-viktig for å avdekke mulige lovbrudd.9 De viser til
-at det er viktig å melde fra om mistanke om korrupsjon til det lokale politidistriktet eller til ØKOKRIM. Utvalget synes samtidig det er et paradoks
-at ØKOKRIM får tips i tillegg til alle andre saker
-de mottar fra ulike politidistrikt, og ikke har kapasitet til å ta inn mer enn 12–15 sakskompleks for
-etterforskning per år.10 Det kan derfor tenkes at
-det å legge til rette for økt varsling til myndighetene vil påvirkes av restansesituasjonen i politiet,
-som i flere tilfeller medfører at mindre alvorlige
-straffesaker blir henlagt på grunn av kapasitetsproblemer. I et samfunnsmessig perspektiv er det
-uheldig at det først legges inn ressurser for å følge
-opp et straffbart forhold, for så at saken henlegges av kapasitetsmessige årsaker. Utvalget konstaterer at politiet, herunder ØKOKRIM, ut fra sin
-ressurssituasjon neppe vil ha kapasitet til å ta tak i
-alle de anmeldelser man burde ha tatt tak i. Både
-9
-
-10
-
-https://www.okokrim.no/
-index.php?id=6066115&cat=411472
-(lest 5. januar 2018).
-NOU 2017: 11, tabell 9.3.
-
-[Side 182]
-
-182
-
-Kapittel 11
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Boks 11.1 Digitale løsninger for varsling
-Utvalget mener det må være enkelt å varsle og at
-det bør etableres digitale løsninger for å varsle
-om kritikkverdige forhold. Dette gjelder både for
-intern varsling og varsling til tilsynsmyndigheter
-og andre offentlige myndigheter. De hensyn som
-følger av personvernlovgivningen må ivaretas
-ved utformingen av slike løsninger. Dersom varslingsmottakeren er kjent med identiteten til den
-som varsler, må konfidensialitet om hvem det er
-som varsler ivaretas på vanlig måte. Digitale løsninger vil også kunne legge til rette for anonym
-varsling.
-
-Intern varsling
-Gjennom varslingsrutinene som den enkelte
-virksomhet skal utarbeide skal det tilrettelegges
-for at det skal være enkelt å varsle, og det skal tilrettelegges for konfidensialitet om varslerens
-identitet i tråd med personvernlovgivningen.
-Arbeidstakere, verneombud og tillitsvalgte
-må ha tillit til at virksomhetens digitale varslingsløsning ivaretar hensynet til konfidensialitet.
-Gjennom digitale løsninger kan man lage
-systemer som er til hinder for sporing. Mange
-virksomheter tilbyr slike løsninger.
-De fleste virksomheter har egne intranett
-eller andre løsninger for tilgang til de interne
-systemene. Virksomhetens varslingsrutiner bør
-ligge enkelt tilgjengelig, og det bør være tydelig
-angitt hvordan arbeidstakerne kan varsle. Gjennom skjematisk struktur og spørsmål kan varsleren velge hvor mye informasjon hun eller han
-ønsker å sende inn. Rutinene kan også ha informasjon om at desto flere opplysninger man sender inn, desto enklere vil det være for virksomheten å følge opp saken. Risikoen for at det kommer frem hvem som har varslet vil imidlertid
-være til stede selv om man har varslet anonymt
-eller man ikke ønsker at arbeidsgiver skal røpe
-identiteten til varsleren. Dette må også rutinene
-opplyse om.
-En digital varslingskanal innebærer at man
-varsler når man trykker på «send-knappen». Det
-vil dermed være notoritet over dette. Det vil
-gjøre det enklere for arbeidsgiver å fange opp at
-det her kan være en varsler med behov for vern.
-En mer avansert løsning vil kunne gi varsleren tilbakemelding om hvor saken er i prosessen, avhengig av type sak, og hvilke opplysninger som kan gis til varsleren. Slik kan systemet
-ivareta varslerens eventuelle behov for kunnskap
-om hvordan varselet blir håndtert.
-
-Varsling til tilsynsmyndigheter og andre offentlige
-myndigheter
-Tilsynsmyndigheter og andre offentlige myndigheter som mottar varsel om kritikkverdige forhold plikter å hindre at andre får kjennskap til
-arbeidstakerens identitet eller andre identifiserende opplysninger om han eller henne, jf.
-arbeidsmiljøloven § 2 A-4.
-Flere myndigheter har allerede etablert ulike
-løsninger for å sende inn tips eller varsel via sine
-nettsider, for eksempel Arbeidstilsynet og Mattilsynet. Utvalget foreslår at det opprettes et eget
-Varslingsombud, se nærmere i punkt 12.4. I den
-sammenheng vil det være hensiktsmessig med
-en elektronisk varslingskanal. På samme måte
-som for interne løsninger, må denne løsningen
-etableres slik at det ikke kan spores hvem som er
-avsender av informasjonen.
-Når noen har meldt fra i den digitale løsningen om et kritikkverdig forhold, bør varselet sendes direkte til den myndigheten som har primæransvaret for området. I mulige straffbare forhold
-bør sakene også sendes til politi/påtalemyndighet.
-Ifølge beregninger fra Oslo Economics, blir
-det hvert år varslet om mellom 50 000 og 160 000
-opplevde kritikkverdige forhold i norske virksomheter. Tall fra Fafo viser at bare 2 prosent av
-respondentene oppgir at de varslet til en offentlig
-myndighet. Arbeidstilsynet mottar om lag 2 400
-varsel hvert år. Utvalgets mandat er at man skal
-stimulere til økt bruk av varsling i Norge.
-Enklere løsninger for å varsle til offentlige
-myndigheter vil kunne føre til at antallet tips og
-varsel kan gå markant opp. For at relevant myndighet skal kunne vurdere de innkomne sakene
-på en hensiktsmessig måte, kan den digitale løsningen bygges opp slik at saken gis prioritet
-avhengig av hvordan svaralternativene er utfylt.
-En digital løsning for varsling til offentlige
-myndigheter kan bygges ut med systemer for
-relevante tilbakemeldinger med orientering om
-saksbehandlingsprosessen. Selv om en slik løsning må antas å være teknisk krevende og kostbar å etablere, er det fullt mulig å realisere, forutsatt et godt samarbeid mellom offentlige myndigheter. NAVs løsning Digital sykmelding er et
-godt eksempel på at samarbeid mellom flere
-aktører gir god samlet kommunikasjon med brukerne via digitale kanaler, henholdsvis den sykemeldte, legen, NAV og arbeidsgiver.
-
-[Side 183]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-økte ressurser og økt krav til prioritering av dette,
-herunder sterk lederoppmerksomhet, er påkrevet
-dersom endring skal kunne forventes.
-Utvalget er kjent med at det er varierende hvor
-naturlig ulike tilsynsmyndigheter finner det å
-skulle ha informasjon om varsling på nettsidene
-sine. Utvalget mener likevel det er svært viktig at
-alle myndigheter som mottar meldinger som kan
-regnes som et varsel fra arbeidstakere, har et
-minimum av informasjon om varslernes rettigheter på nettsidene sine. Utvalget viser også til
-offentlige myndigheters taushetsplikt etter
-arbeidsmiljøloven § 2 A-4, som det er viktig å
-informere om i denne sammenheng.
-
-11.5 Utvalgets samlede vurdering og
-forslag
-Utvalget vil understreke at Arbeidstilsynets pågående arbeid med varsling er viktig, og at det bør
-opprettholdes og videreutvikles. Utvalget mener
-likevel at det er behov for å sette i gang flere opplærings- og kommunikasjonstiltak for å styrke
-varslervernet og bidra til at varsling fungerer som
-en samfunnsnyttig avdekkingsmekanisme i norske virksomheter.
-Myndighetene, domstolene, fagforeningene,
-tillitsvalgte og verneombud kan ha viktige roller i
-
-183
-
-Kapittel 11
-
-varslingssaker. Utvalget mener det er behov for å
-sette i gang tiltak som kan bidra til økt kunnskap
-hos disse aktørene, med målsetting om at håndtering av varslingssaker og informasjon til varslere,
-arbeidsgivere og omvarslede skal bli bedre. Som
-det fremgår foran, har utvalget funnet grunnlag
-for å anbefale følgende opplærings- og kommunikasjonstiltak:
-– kunnskap om varsling, varslingsprosesser og
-hva som skal til for å skape en åpenhetskultur
-tas med i opplæringskrav etter arbeidsmiljøloven §§ 3-5 og 6-5
-– varsling og håndtering av varslingssaker tas
-inn i læreplanen på relevante studier
-– videreutvikling av Arbeidstilsynets arbeid med
-varsling
-– kurstilbud og holdningsarbeid i regi av partene
-i arbeidslivet
-– kurstilbud for statlige arbeidsgivere, ledere og
-HR-medarbeidere i regi av Difi
-– nasjonal varslingsveileder utarbeidet av
-Arbeidstilsynet i fellesskap med partene i
-arbeidslivet
-– lett tilgjengelig informasjon om varslingsreglene på relevante myndigheters nettsider
-– kontinuerlig holdnings- og opplæringsvirksomhet i regi av Arbeidstilsynet og Varslingsombudet
-
-[Side 184]
-
-184
-
-Kapittel 12
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 12
-
-Organisatoriske tiltak
-12.1 Behov for organisatoriske tiltak
-Etter mandatets punkt 4 skal utvalget «drøfte hvilken rolle myndighetene, domstoler, fagforeninger,
-tillitsvalgte og verneombud har i varslingssaker,
-herunder vurdere om eksisterende aktører og
-organer dekker behovet for informasjon, veiledning og tvisteløsning i varslingssaker.»
-Arbeidstakere, arbeidsgivere og den eller de
-det varsles om kan ha et behov for informasjon,
-veiledning, bistand eller annen oppfølging i saker
-om varsling. I mange tilfeller kan det være behov
-for en eller flere støttespillere på et tidlig tidspunkt, som kan bidra til en god prosess der saken
-blir løst på lavest mulig nivå, jf. ovenfor om den
-ideelle prosess for varslingssaker i punkt 9.5. Det
-kan også gjelde hvis det oppstår en konflikt eller
-der varsleren mener seg utsatt for gjengjeldelse.
-I dette kapitlet drøftes spørsmålet om ett eller
-flere særlige offentlige organ skal ha som oppgave å ivareta aktørene i en varslingssak som har
-behov for råd og bistand på ulike stadier i saken.
-Også andre aktører ville kunne spille viktige roller
-for å ivareta disse behovene, for eksempel
-arbeidstaker- og arbeidsgiverorganisasjoner,
-advokater og andre private tiltak. I dette kapitlet
-drøftes imidlertid bare mulige tiltak i offentlig
-regi.
-I forskningen er varslere i liten grad blitt spurt
-om ulike aktører dekket behovet deres for
-bistand. Det utvalget kan bygge på, er enkeltutspill fra varslere og andre som har engasjert seg i
-dette temaet. Flere advokater opplyser at varslere
-kontakter dem fordi de ikke får hjelp fra tillitsvalgte eller fagforeninger. Mange er heller ikke
-organisert. Varslere som har uttalt seg til media
-eller skrevet om sine saker har blant annet vist til
-at de følte seg helt alene og ikke visste hvem de
-kunne gå til for hjelp og støtte. Politiets Fellesforbund har på bakgrunn av erfaringene fra varslingssaker i politietaten advart medlemmene sine
-mot å varsle, og på landsmøtet i 2015 ble det
-enstemmig vedtatt at Politiets Fellesforbund skal
-
-fremme opprettelse av et varslingsombud og en
-varslingsdomstol.1 Det vises også til oppsummeringen fra innspillskonferansen i punkt 8.9.
-Utvalget har gjennom kunnskapsinnhenting og
-andre innspill fått en klar oppfatning av at mange
-varslere og potensielle varslere har behov for råd
-og veiledning i forbindelse med varslingsprosessen og savner «et sted å gå til». Selv om utgangspunktet som hovedregel bør være at konflikten
-løses på lavest mulig nivå, har utvalget forståelse
-for dette behovet. Utvalget legger til grunn at et
-slikt tiltak i så fall kan fylles med ulike oppgaver.
-Alternativt kan man se for seg at de ulike oppgavene kan løses av ulike eksisterende eller
-nyopprettede organer. Det vises i den forbindelse
-til at utvalget er kjent med at flere har tatt til orde
-for at det er behov for et varslingsombud, varslerhus, nasjonalt kunnskapssenter for varsling eller
-lignende, som kan gi informasjon og veiledning,
-gi konkrete råd og støtte i en varslingsprosess,
-være en felles varslingskanal, gi rådgivende eller
-bindende vurdering av om gjengjeldelsesforbudet
-er brutt og ta stilling til krav om oppreisning og
-erstatning.
-Det er viktig å ha med seg det overordnede bildet av at de fleste tilfeller der en arbeidstaker sier
-fra om et kritikkverdig forhold på arbeidsplassen
-blir håndtert på en grei måte og løses uten behov
-for bistand. I et mindretall av sakene oppstår det
-situasjoner der varslingen går ut over varslerens
-og kollegenes arbeidsmiljø. Fafos undersøkelser
-fra 2016 viser imidlertid at 25 prosent av dem som
-varslet ga uttrykk for at de fikk bare negative eller
-overveiende negative reaksjoner.2 Disse reaksjonene besto blant annet i refselse og irettesettelse,
-utestengelse fra arbeidsfellesskapet, mobbing, tjenestepåtale og oppsigelse. 15 prosent oppga at de
-opplevde reaksjonene så sterke at de ble sykemeldt og elleve prosent opplevde reaksjonene så
-1
-2
-
-Protokoll fra landsmøtet i Politiets Fellesforbund 2015, sak
-6.5.
-Fafo 2016 I s. 42.
+
+*Utvalget* foreslår flere endringer i varslingsreglene i arbeidsmiljøloven som i stor grad innebærer en lovfesting, klargjøring eller presisering av gjeldende rett. Det foreslås også endringer som skal bidra til bedre åpenhetskultur og oppmerksomhet om ytringsfrihet og varsling. Disse endringene forventes derfor ikke å medføre vesentlige økonomiske eller administrative konsekvenser for private eller offentlige virksomheter. *Utvalget* foreslår regler som tar sikte på å ta bedre vare på varsleren, men også at faktiske kritikkverdige forhold skal håndteres raskt og på lavest mulig nivå.
+
+Utvidelse av virkeområdet
+
+*Utvalget* foreslår å utvide virkeområdet for arbeidsmiljølovens varslingsregler til personer som ansees som arbeidstakere etter loven når de utfører arbeid, jf. § 1-6. Formålet er å beskytte disse gruppene og forebygge kritikkverdige forhold når de utfører arbeid. For eksempel vil arbeidsmiljølovens varslingsregler gjelde for innsatte og psykiatriske pasienter når disse utfører rehabiliterende arbeid i et fengsel eller helseinstitusjon. Forslaget innebærer at blant annet lærling- og praksisbedrifter, Forsvaret, kriminalomsorgen og helsevesenet må utarbeide varslingsrutiner for de gruppene som omfattes av § 1-6. Dersom de berørte virksomhetene kan gjøre de varslingsrutinene de har for egne ansatte gjeldende for de nye gruppene, kan kostnadene forbundet med dette begrenses.
+
+Det må avklares hvordan varslingsrettigheter for gruppene som foreslås inkludert i arbeidsmiljølovens virkeområde vil virke sammen med de rettighetene de allerede har som elever, vernepliktige, innsatte, pasienter mv. Ettersom flere av disse gruppene alt er omfattet av lignende regler, er det usikkert om en utvidelse av virkeområdet for varslingsreglene i arbeidsmiljøloven vil gi flere varsler og eventuelt flere saker om ulovlig gjengjeldelse. Det kan tenkes at en lovendring vil gi økt oppmerksomhet og flere saker, med tilhørende sakskostnader. I tillegg vil det i forbindelse med denne og øvrige foreslåtte lovendringer påløpe kostnader til utarbeidelse av lovforslag, gjennomføring av høringsrunder og forvaltning.
+
+Tydeliggjøring av sentrale begreper i loven
+
+*Utvalget* foreslår at det tydeliggjøres i loven hva som menes med blant annet kritikkverdige forhold, forsvarlig fremgangsmåte og gjengjeldelse. Forslagene innebærer i stor grad en lovfesting av gjeldende rett, og vil kunne bidra til større forståelse av lovens innhold både blant arbeidstakere og virksomhetene. Dette kan igjen bidra til at flere arbeidstakere varsler om kritikkverdige forhold i virksomheten, og at varslene håndteres godt og effektivt på lavest mulig nivå av arbeidsgiver.
+
+Arbeidsgivers aktivitetsplikt
+
+Klargjøringen av at arbeidsgiver har en aktivitetsplikt i varslingssaker innebærer blant annet at det inntrer en særlig omsorgsplikt for arbeidsgiver overfor den som varsler – og for den det varsles om. Det presiseres også at arbeidsgiver har en plikt til å følge opp det det er varslet om, og at arbeidsgiver innen rimelig tid skal sørge for at varselet blir tilstrekkelig undersøkt og behandlet. At varsler behandles raskt og forsvarlig kan bidra til bedre, og potensielt også mindre kostbare, varslingsprosesser. Rask håndtering av varsler kan i tillegg redusere belastningen for varsleren og bidra til å forbedre det kritikkverdige forholdet på et tidligere tidspunkt. *Utvalgets flertall* foreslår at brudd på aktivitetsplikten overfor varsleren skal utløse rett til oppreisning og erstatning etter alminnelige regler.
+
+Forslaget vil trolig bidra til at arbeidsgivere i større grad blir klar over og følger aktivitetsplikten. Dette vil medføre økt ressursbruk, men bidra til at flere kritikkverdige forhold forbedres. Aktivitetsplikten innebærer imidlertid ikke et dokumentasjonskrav for arbeidsgiver. Kostnadsmessig er dette et vesentlig poeng, ettersom det ville vært kostnadskrevende for norske arbeidsgivere å dokumentere at de oppfyller aktivitetsplikten for de mellom 50 000 og 160 000 varslene de mottar årlig. Videre må arbeidsgivere i en del tilfeller kunne svare varsleren at det av ulike grunner, for eksempel ressursmangel, ikke vil være mulig å rette opp det kritikkverdige forholdet umiddelbart, men at dette vil tas opp i styringsdialogen mellom ledelse og eier/departement.
+
+Krav til varslingsrutiner
+
+*Utvalget* foreslår en presisering i lovteksten om at varslingsrutinene skal inneholde krav til arbeidsgivers saksbehandling. Det skal fortsatt være slik at den enkelte arbeidsgiver kan tilpasse innholdet i rutinene ut fra behovet og risikovurderingen i egen virksomhet, også når det gjelder kravet til arbeidsgivers saksbehandling av varselet.
+
+*Utvalget* foreslår å innføre et krav om at virksomhetens varslingsrutiner skal evalueres jevnlig i samarbeid med arbeidstakerne og deres tillitsvalgte. Hvor ofte en slik evaluering skal gjennomføres, vil bero på hva som er behovet i den enkelte virksomhet og i tråd med hva som bestemmes i den enkelte rutine.
+
+1.  **Opplærings- og kommunikasjonstiltak**
+
+    1.  **Opplæring og kompetanseutvikling**
+
+*Utvalget* foreslår at flere eksisterende offentlige og private tilbud brukes til å gjøre varslingsreglene og god varslingspraksis bedre kjent:
+
+- krav i arbeidsmiljøloven om opplæring av leder og verneombud om varsling
+
+- høyskole- og universitetsutdanning i HR, organisasjon og ledelse
+
+- Arbeidstilsynet – opplæring og samarbeid med andre myndigheter
+
+- organisasjonene i arbeidslivet – kurs og holdningsarbeid
+
+- kurs i utvikling av ledere i staten i regi av Difi
+
+- kompetanseutvikling for dommere og advokater
+
+Formålet med bedre informasjon og styrket kompetanse er å bidra til et bedre ytringsmiljø, der arbeidstakere i større grad sier fra om kritikkverdige forhold og der varsler håndteres bedre og mer effektivt av arbeidsgivere.
+
+*Utvalget* legger til grunn at prioritering av opplæring og informasjon om varsling i disse sammenhenger vil kunne gjøres innenfor gjeldende budsjetter og eventuelt innarbeides delvis til erstatning for andre deler av kursutviklingen og kursinnholdet. Det forventes derfor at det ikke vil medføre behov for økte bevilgninger eller økt ressursbruk.
+
+1.  **Veileder og informasjonsmateriell**
+
+Nasjonal varslingsveileder
+
+*Utvalget* foreslår at det utvikles en nasjonal varslingsveileder i tillegg til veiledningen for arbeidslivet som er under utvikling av Arbeidstilsynet. Formålet med en egen veileder er blant annet å gi tydelig veilednings- og informasjonsmateriell for varslere, potensielle varslere og varslingsmottakere. En slik veileder kan tenkes å føre til færre henvendelser om regelverket til Arbeidstilsynets svartjeneste.
+
+Utvikling av statlige veiledningssider kan være kostbart. For eksempel var totalbudsjettet for Husbankens informasjonsside/veiviser «Bolig for velferd», 30 millioner kroner.[^552] I tillegg kommer driftsutgifter. Disse kostnadene kan trolig reduseres ved å samordne utvikling og drift med Arbeidstilsynets varslingsveileder.
+
+Informasjon om varsling på myndighetenes nettsider
+
+Videre foreslår *utvalget* å oppfordre offentlige myndigheter, blant annet tilsynsmyndigheter, til å ha godt synlig informasjon om muligheter for å varsle/tipse dem på sine hjemmesider. Formålet med forslaget er å gjøre det lettere å varsle til offentlige myndigheter slik at flere kritikkverdige forhold blir avdekket og forbedret.
+
+De relevante myndighetene har per i dag ulike tilnærminger til å gi kontaktinformasjon til publikum. Noen velger å ha kontaktinformasjonen lett synlig, mens andre har valgt å holde særlig telefonnummer skjult, blant annet fordi de vurderer at dette gir en mer effektiv bruk av begrenset saksbehandlingskapasitet. Dersom flere offentlige myndigheter gir lettere tilgjengelig informasjon om varslingsmuligheter, vil terskelen for varsling trolig reduseres og antallet saker som sendes inn vil kunne øke. Det vil være en forventing om at disse varslene skal behandles, noe som vil kunne kreve økte budsjetter og omprioritering.
+
+1.  **Organisatoriske tiltak**
+
+    1.  **Et nasjonalt Varslingsombud**
+
+*Utvalget* foreslår å opprette et eget nasjonalt Varslingsombud. Ombudet skal gi råd, veiledning og bistand i enkeltsaker og kunne anbefale fri rettshjelp. I tillegg foreslår *utvalget* at det vurderes om det vil være hensiktsmessig at ombudet administrerer en digital varslingsløsning for varsel til offentlige myndigheter.
+
+Råd, veiledning og bistand i enkeltsaker
+
+Et varslingsombud kan lette byrden for varslere, bidra til at flere tør å varsle og dermed at flere kritikkverdige forhold avdekkes og bringes til opphør.
+
+Omfanget av arbeidet til et varslingsombud er potensielt stort (alle kritikkverdige forhold i norske virksomheter). Aktiviteten vil hovedsakelig begrenses av budsjettet og bør rettes mot særlig viktige saker. Hvis det tas utgangspunkt i at Varslingsombudet vil motta like mange henvendelser som Likestillings- og diskrimineringsombudet (LDO), innebærer dette at de vil motta om lag 1 900 forespørsler om veiledning årlig.[^553] En organisasjon tilsvarende LDO med om lag 40 ansatte vil ha årlige driftskostnader på omtrent 43 millioner kroner.[^554] I tillegg kommer etableringskostnader, anslagsvis fire til åtte millioner kroner.
+
+Alternativer som er blitt vurdert, men som *utvalget* ikke anbefaler, er å gi Arbeidstilsynet eller LDO varslingsombudsrollen. Dette kunne gitt noe lavere kostnader, samdriftsfordeler og tilgang til kompetanse, men samtidig et langt mindre tydelig Varslingsombud.
+
+Anbefaling om fri rettshjelp
+
+*Utvalget* foreslår at et varslingsombud skal kunne anbefale fri rettshjelp, som vil kunne innvilges etter endelig godkjennelse av fylkesmannen.
+
+Fri rettshjelp vil være aktuelt for en mindre andel varslere. Med 50 000 til 160 000 varsler i Norge årlig kan imidlertid de samlede saksbehandlingskostnadene for stat og arbeidsgivere bli betydelige, avhengig av hvor mange varslere som får innvilget fri rettshjelp. Erfaringsmessig er det vanskelig å estimere kostnadene av krav på juridisk bistand. En måte å begrense kostnadene av fri rettshjelp på, er å gi ombudet og/eller Fylkesmannen et årlig budsjett, slik at midlene må prioriteres til de mest alvorlige sakene.
+
+Elektronisk videreformidling av varsel
+
+*Utvalget* foreslår at det vurderes om det vil være hensiktsmessig med en sentral, elektronisk løsning for mottak og sortering av varsler om alle typer kritikkverdige forhold til offentlige myndigheter, eller om det er bedre heller å bygge videre på eksisterende strukturer på myndighetenes nettsider mv. Fordelen med en sentral elektronisk løsning er at alle varslere kan henvende seg til samme sted. En risiko er at en brukervennlig elektronisk løsning kan føre til at arbeidstakere i større grad varsler rett til myndighetene fremfor først å varsle internt i virksomheten, noe som vil gi økte kostnader per sak. En annen utfordring er at de ulike myndighetene som mottar varsler gjennom den elektroniske løsningen ikke vil ha kapasitet til å behandle alle sakene som kommer inn. I tillegg kommer kostnader til utvikling og drift av løsningen.
+
+Uavhengige undersøkelser av alvorlige varslingssaker
+
+*Utvalget* foreslår at Varslingsombudet skal ha anledning til å anbefale at det oppnevnes en offentlig ad hoc undersøkelseskommisjon for de tilfellene der ombudet blir kjent med svært alvorlige varslingssaker av stor samfunnsmessig betydning. Et alternativ til dette kan være at ombudet knytter til seg et korps med relevante fagpersoner som kan gjennomgå varslingssaker der «alt går galt», og som i den forbindelse kan gjennomføre en uavhengig og samlet vurdering av saken og peke på læringspunkter og eventuelle behov for endringer. En slik løsning bør kun brukes i særlige tilfeller og ha funksjon som en sikkerhetsventil for de tilfellene der ordinære strukturer ikke synes å ivareta tungtveiende samfunnsinteresser.
+
+Det er usikkert hvor mange saker en granskningskommisjon vil kunne undersøke, og dette vil i stor grad avhenge av budsjett og sakenes kompleksitet. For eksempel kostet Wiersholms granskning av Bergenspolitiet i Monika-saken nesten 13 millioner kroner i direkte kostnader.[^555] Ved bruk av eksterne granskere må det etableres innkjøpsordninger i tråd med lov om offentlig anskaffelse.
+
+En ad hoc granskningskommisjon vil ha grensesnitt mot andre offentlige myndigheter som må avklares. Mens de fleste offentlige myndigheter er organisert etter type lovbrudd (diskriminering, arbeidslivskriminalitet, økonomisk kriminalitet, strafferettslige brudd mv.) vil en ad hoc granskningskommisjon operere på tvers av alle typer kritikkverdige forhold så lenge det er avslørt gjennom varsling. Retningslinjer for når en ad hoc granskningskommisjon skal gå inn i et samfunnsområde som ligger under ansvaret til en annen offentlig myndighet må avklares. Videre må det utredes hvilket rettslig grunnlag som skal kreves for at ad hoc granskningskommisjon skal kunne etableres, samt sette i gang en undersøkelse av og hente inn informasjon fra offentlige og private virksomheter.
+
+1.  **Varslingsnemnd**
+
+*Utvalgets flertall* foreslår at det etableres en nemnd som kan ta stilling til tvister i varslingssaker. En slik nemnd vil være et lavterskeltilbud som gjør det mulig for varslere å prøve saken sin uten å måtte gå til rettssak og risikere store saksomkostninger.
+
+Som for et varslingsombud er det potensielle virkeområdet for en varslingsnemnd stort, noe som trolig vil innebære at aktiviteten og driftskostnadene hovedsakelig vil begrenses av budsjettet. For eksempel behandlet Diskrimineringsnemnda om lag 60 saker i nemndsmøter i 2016, med en gjennomsnittlig saksbehandlingstid på 47 uker.[^556] Samlet bevilgning til nemnda det året var 6,1 millioner kroner. For 2018 er samlet bevilgning økt til 18,6 millioner kroner.[^557] Dette må delvis ses i sammenheng med at nemnda har fått flere oppgaver og er flyttet til Bergen.
+
+I tillegg til direkte kostnader ved drift av en nemnd, vil saksbehandlingen medføre indirekte kostnader for arbeidsgivere som blir involvert i prosessene, samt for arbeidstakere. Videre vil det være etableringskostnader forbundet med en ny nemnd, anslagsvis fire til åtte millioner kroner.
+
+*Utvalget* har også vurdert muligheten for å legge ansvaret for håndtering av saker om gjengjeldelse til enten Tvisteløsningsnemnda etter arbeidsmiljøloven eller Diskrimineringsnemnda, men konkludert med at disse vil være mindre egnet for varslingssaker enn en egen nemnd. Å legge ansvaret til en eksisterende nemnd kunne gitt noe grad av kompetanse- og ressurssynergier.
+
+1.  **Samlede økonomiske og administrative konsekvenser**
+
+    1.  **Samlede konsekvenser for virksomhetene**
+
+Det er mer enn 2,8 millioner arbeidsforhold i Norge. Omfanget av varslingssaker er usikkert, med anslag fra 50 000 til 160 000 varsel per år. *Utvalgets* forslag vil medføre at det stilles krav til at virksomhetene må ha klarere retningslinjer og økt kompetanse. Det kan først og fremst føre til riktigere og raskere behandling av varsler og medvirke til at kritikkverdige forhold opphører på et tidligere tidspunkt. Dette kan gi bedre arbeidsmiljø, bedre ivaretakelse av helse, miljø og sikkerhet, bedre kunde-/brukerbehandling og redusert fare for korrupsjon. Aktivitetsplikten forventes å bidra til en kvalitetsmessig bedre, men også mer ressurskrevende, behandling av varsel. Skjerpede krav til saksbehandlingsrutiner, for eksempel når det gjelder habilitet, kan medvirke til økt formalisering og at en økende andel av varslene ikke følges opp av nærmeste leder, men av andre i organisasjonen eller ved ekstern behandling fra for eksempel nabokommune eller ekstern gransker. Dersom man som et regneeksempel antar at en ekstern behandling av et varsel koster minst ett ukesverk i gjennomsnitt (17 600 kroner i merkostnader),[^558] og tydeligere krav om systematisk oppfølging bidrar til at fem prosent av varslingssakene i Norge behandles eksternt heller enn internt, kan arbeidsgiveres kostnader øke med 40 millioner kroner.[^559] I tillegg kommer eventuelle virkninger av ekstern behandling av varsler for produktiviteten i virksomhetene. Ekstern behandling av varsler kan oppleves som ryddig og kan i noen tilfeller bidra til å skape ro og tillit. Samtidig finnes det eksempler på at eksterne prosesser kan være langvarige og ta mye oppmerksomhet. Styrket varslervern kan også misbrukes av de ansatte. Dette kan gi konsekvenser for personalpolitikk og ledelsens tidsbruk.
+
+Etablering av, informasjon om, og rutinemessig gjennomgang av varslingsrutiner forventes å gi en årlig kostnad på 200–900 millioner kroner, avhengig av den praksis som etableres, fordelt på om lag 100 000 virksomheter med over fem ansatte i Norge.[^560] For de samlede kostnadene i virksomheten vil det være avgjørende at regelverket blir utformet slik at varsler følges opp raskt og på et lavest mulig nivå.
+
+1.  **Samlede konsekvenser for forvaltningen**
+
+De foreslåtte juridiske endringene medfører forarbeid og forvaltning av lovbestemmelser med tilhørende prosesskostnader. Endringer og presiseringer i arbeidsmiljølovens varslingsregler kan gi et bedre grunnlag for å forvalte varslingsordningen.
+
+Opplæring og kompetanseutvikling forutsettes gjennomført innenfor gjeldende budsjetter. En varslingsveileder forventes å koste 10–30 millioner kroner avhengig av valgte løsning. Det er usikkert hvordan elektroniske mottak av varsler vil skje i praksis. Kostnadene anslås til 10–90 millioner kroner avhengig av løsningens utforming og krav til IT-støtte. I tillegg kommer driftskostnader for løsningen og forvaltningen hos berørte aktører.
+
+Et varslingsombud forventes å ha årlige driftskostnader på 40–50 millioner kroner, samt opprettingskostnader på opptil 10 millioner kroner. I tillegg kommer kostnader som ombudet kan utløse som fri rettshjelp eller ad hoc granskning. Erfaringsmessig er det vanskelig å estimere kostnadene av krav på juridisk bistand. For eksempel ble det i Ot.prp. nr. 11 (2007–2008) forutsatt at utvidelsen av bistandsadvokatordningen ville medføre elleve millioner kroner i økte årlige utgifter. Ifølge Justis- og beredskapsdepartementet kostet ordningen 172 millioner kroner i 2016. Med en til to årlige granskninger forventes en ordning med ad hoc granskningskommisjoner å koste 20–30 millioner kroner inkludert forvaltningskostnader.
+
+En tvistenemnd etter modell fra Diskrimineringsnemnda forventes å koste 15–25 millioner kroner per år. Samlede konsekvenser er 100–150 millioner kroner i etableringskostnader og 100–300 millioner kroner i årlige kostnader.
+
+**Referanser og litteratur**
+
+Offentlige publikasjoner mv.
+
+Arbeids- og inkluderingsdepartementet (2005) *Ansattes ytringsfrihet*, Arbeidsgrupperapport avgitt 21. desember 2005.
+
+Besl. O. nr. 96 (2004–2005) *Om vedtak til lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)*.
+
+Besl. O. nr. 4 (2006–2007) *Om vedtak til lov om endringer i arbeidsmiljøloven (varsling).*
+
+Innst. O. nr. 100 (2004–2005) *Om lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).*
+
+Innst. O. nr. 6 (2006–2007) *Om lov om endringer i arbeidsmiljøloven (varsling).*
+
+NOU 1999: 27 *«Ytringsfrihed bør finde Sted» – Forslag til ny Grunnlov § 100.*
+
+NOU 2004: 5 *Arbeidslivslovutvalget – Et arbeidsliv for trygghet, inkludering og vekst.*
+
+NOU 2009: 9 *Lov om offentlige undersøkelseskommisjoner – Særskilt oppnevnte offentlige kommisjoner.*
+
+NOU 2011: 12 *Ytringsfrihet og ansvar i en ny mediehverdag.*
+
+NOU 2017: 8 *Særdomstoler på nye områder? – Vurdering av nye domstolsordninger for foreldretvister, barnevernsaker og utlendingssaker.*
+
+NOU 2017: 11 *Bedre bistand. Bedre beredskap.*
+
+Ot.prp. nr. 24 (2005–2006) *Om lov om endringer i lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).*
+
+Ot.prp. nr. 49 (2004–2005) *Om lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).*
+
+Ot.prp. nr. 53 (2005–2006*) Om lov om endringer i straffeloven 1902 og utleveringsloven (gjennomføring av FN-konvensjonen mot korrupsjon).*
+
+Ot.prp. nr. 84 (2005–2006) *Om lov om endringer i arbeidsmiljøloven (varsling).*
+
+St.meld. nr. 26 (2003–2004) *Om endring av Grunnloven § 100.*
+
+St.meld. nr. 19 (2008–2009) *Ei forvaltning for demokrati og fellesskap.*
+
+Prop. 115 L (2012–2013) *Lov om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven).*
+
+Prop. 72 L (2016–2017) *Endringer i arbeidsmiljøloven (varsling og arbeidstid).*
+
+Prop. 80 L (2016–2017) *Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven).*
+
+Prop. 1 S (2017–2018) For budsjettåret 2018. Arbeids- og sosialdepartementet.
+
+Fafo-rapporter om varsling
+
+Fafo 2010: Trygstad, S. C. (2010) *Med rett til å varsle…men hjelper det, og er det lurt?* Fafo-rapport 2010:08.
+
+Fafo 2014 II: Trygstad, S. C., Skivenes, M., Steen, J. R. og Ødegård, A. M. *Evaluering av varslingsbestemmelsene* (2014). Fafo-rapport 2014:05.
+
+Fafo 2016 I: Trygstad, S. C. og Ødegård, A. M. (2016) *Varsling og ytringsfrihet i norsk arbeidsliv 2016.* Rapportserie om varsling og ytring. Fafo-rapport 2016:33.
+
+Fafo 2016 II: Ødegård, A. M., Trygstad, S. C. og Steen, J. R. (2016) *Varsling og ytring blant medlemmer i sju fagforbund.* Rapportserie om varsling og ytring. Fafo-rapport 2016:34.
+
+Fafo 2017 I: Trygstad, S. C. (2017) *Kunnskapsstatus om varsling og varslingsprosesser*. Fafo-notat 2017:03.
+
+Fafo 2017 II: Trygstad, S. C., Ødegård A. M., Skivenes, M. og Svarstad, E. (2017) *Ytringsfrihet og varsling i norske kommuner og fylkeskommuner.* Fafo-rapport 2017:04.
+
+Fafo 2018: Trygstad, S. C., og Ødegård, A. M. (2018) *Varsling i norsk arbeidsliv. Den det varsles om, mottak og håndtering*. Fafo-notat 2018:06.
+
+Annen litteratur
+
+Agryris, C. (1982). *The executive mind and double-loop learning.* Organizational Dynamics, 11(2), 5-22. doi:10.1016/0090-2616(82)90002-X.
+
+Alford, C. F. (1999). *Whistle-blowers – How much we can learn from them depends on how much we can give up.* American Behavioral Scientist, 43(2), 264–277. doi:Doi 10.1177/00027649921955254.
+
+Alsos, K., Jesnes, K., Sletvold Øistad, B. og Nesheim, T. (2017). *Når sjefen er en app*. Fafo-rapport 2017:41.
+
+Andås, K., Solum, V. og Søreide T. (2017). *Bør varslere belønnes?* Magma 0217.
+
+Arntzen de Besche (2013). *Evaluering av varslingsreglene. En gjennomgang og analyse av rettspraksis og Sivilombudsmannens praksis.* Rapport til Arbeidsdepartementet.
+
+Auglend, R. L. og Jakhelln, H. (2017). *Varslingsrett, rapporteringsplikt og taushetsplikt.* Arbeidsrett vol. 14 nr. 2, 2017, s. 183–219.
+
+Baumeister, R. F., Bratslavsky, E., Finkenauer, C., og Vohs, K., D. (2001). *Bad is stronger than good.* Review of general psychology, 5(4), 323–370.
+
+Bjørkelo, B. (2010). *Whistleblowing at work. Antecedents and consequences.* Avhandling for graden philosophiae doctor (ph.d). Universitetet i Bergen.
+
+Bjørkelo, B., Einarsen, S., Nielsen, M. B., og Matthiesen, S. B. (2011). *Silence is golden? Characteristics and experiences of self-reported whistleblowers.* European Journal of Work and Organizational Psychology, 20(2), 206–238. doi:10.1080/13594320903338884.
+
+Bjørkelo, B., Matthiesen, S. B., og Einarsen, S. (2008). *Varslingens mange ansikter: en oppsummering av forskning og litteratur om varsling i arbeidslivet*. Søkelys på arbeidslivet, 25(1), 1–19.
+
+Brown, A. J. (red.) (2008): *Whistleblowing in the Australian Public Sector.* Canberra: The Australian National University.
+
+Brown A.J., Lewis D., Moberly R. og Vandekerckhove W. \[red.\] (2014). *International Handbook on Whistleblowing Research*.
+
+Devine, T. og Maassarani, T. F. (2011): *The Corporate Whistleblower’s Survival Guide*. Berret-Hoehler Publishers Inc.
+
+Difi-rapport 2013:11 *Merverdi eller unødig omvei? Om direktoratenes rolle i gjennomføring av nasjonal politikk.*
+
+Difi-rapport 2014:2 *Viltvoksende nemnder? Om organisering og regulering av statlige klagenemnder.*
+
+Enjolras, B., Rasmussen, T. og Steen-Johansen, K. \[red.\] (2014), *Status for ytringsfriheten i Norge.* Oslo: Institutt for samfunnsforskning.
+
+Eriksen, B. (2016). *Arbeidstakers rett til å varsle om «kritikkverdige forhold» etter arbeidsmiljøloven § 2-4 (1). Med særlig vekt på varsling i aksjeselskap.* Avhandling for graden philosophiae doctor (ph.d). Universitetet i Bergen.
+
+Evju, S. (2010) *Arbeidsrett: Utvalgte arikler 2001–2010*. Oslo: Universitetsforlaget.
+
+Falkum, E., Ingelsrud, M. H., Nordrik, B. (2016) *Medbestemmelsesbarometeret 2016*. AFI FOU resultat 2016:08.
+
+Falkum, E., Nordrik, B. (2016). *Norsk Ledelsesbarometer 2016*. AFI.
+
+Falkum, E., Nordrik, B. og Drange, I. (2017). *Ledelsesbarometeret 2017. Delrapport 2. Tillit, konflikt og omstilling.* Lederne.
+
+Fougner, J. (2016). *Endring i arbeidsforhold. Styringsrett og arbeidsplikt. 2. utgave*. Oslo: Universitetsforlaget.
+
+French, J. R., Raven, B., og Cartwright, D. (1959). *The bases of social power.* Classics of organization theory, 7.
+
+Gerhardsen, E. (1931/ 2000). *Tillitsmannen.*
+
+Gerhardsen, E (2006). *Tillitsmannen: en håndbok for tillitsvalgte*. Oslo: Gyldendal akademisk.
+
+Greene, A. D., og Latting, J. K. (2004). *Whistle-blowing as a form of advocacy: Guidelines for the practitioner and organization.* Social Work, 49(2), 219–230.
+
+Halvorsen, P. (2000). *Bærum-saken – hva skjedde med arbeidsmiljøet?* Tidsskrift for Norsk Legeforening, 120, 1359–1361.
+
+Hersh, M. A. (2002). *Whistleblowers – heroes or traitors?: Individual and collective responsibility for ethical behaviour* Annual Reviews in Control Volume 26, Issue 2, 2002, s. 243–262.
+
+Hind, R. og Fladmoe, A. (2013). *Ytringsfrihetsbarometeret.* TNS Gallup.
+
+House, J. (1981). *Work stress and social support*. Phillipines: Addison Wesley Publications.
+
+Hotvedt, M. J. og Ulseth, T. S. (2013). *Arbeidsavtalen og styringsrett: Harmoni i en domsoktett.* Arbeidsrett vol. 10 nr. 1, 2013, s. 112–138.
+
+Jakhelln, H. (2006) *Oversikt over arbeidsretten. 4.utgave.* Oslo: Damm.
+
+Jetlund, M. og Huseby, E. (2017). *Varslingsregler i ulike land og EU/EØS.* Rapport fra advokatfirmaet Schjødt på oppdrag for Arbeids- og sosidaldepartementet, avgitt 18. desember 2017. Schjødt 2017.
+
+Kommunal- og moderniseringdepartementet (2015) *Retningslinjer for utarbeidelse av lokale varslingsrutiner i staten.*
+
+Lennane, K. J. (1993). *Whistleblowing – a Health Issue.* British Medical Journal, 307(6905), 667–670.

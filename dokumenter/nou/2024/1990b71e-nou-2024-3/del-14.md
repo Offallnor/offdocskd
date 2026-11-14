@@ -1,1078 +1,382 @@
-# NOU 2024: 3, del 14 av 40 (side 177–189)
+# NOU 2024: 3, del 14 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 177]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-et formål de mener kan forsvares. I tillegg kan
-ekstrem islamisme appellere fordi den religiøse
-transformasjonen blir sett på som en mulighet til å
-gjøre opp for gamle synder.61 Det er likevel et
-sammensatt bilde, da de fleste i kriminelle nettverk er motstandere av voldelig ekstrem islamisme.62 Noen peker på at ekstreme islamistiske
-61
-
-Ystehede og Kanestrøm 2018
-
-175
-
-Kapittel 19
-
-grupper og kriminelle grupper i Europa rekrutterer fra den samme gruppen mennesker, noe som
-skaper synergier og overlappinger som har konsekvenser for hvordan personer radikaliseres og
-opererer.63
-62
-63
-
-Tutenges og Sandberg 2021
-Basra, Neumann og Brunner 2016
-
-[Side 178]
-
-176
-
-Kapittel 20
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 20
-
-Barn og radikalisering
-utvikle psykiske plager og sosial mistilpasning.
-De vil dermed ikke kunne utnytte og utvikle
-sine evner til beste for seg selv og de rundt seg.
-(Aase, Holt og Helland, 2022)
-
-20.1 Negative barndomsopplevelser
-Barndomsopplevelser og oppvekstsvilkår har stor
-innvirkning på den enkelte og kan få følger for
-blant annet helse og livsmestring senere i livet. De
-fleste barn i Norge har gode og trygge oppvekstsvilkår i familier med nettverk og miljø rundt seg.
-Det er imidlertid også flere som opplever ulike
-belastninger i hele eller deler av oppveksten.
-Dette kan være manglende omsorg og oppfølging
-fra nærstående, vold i hjemmet eller vedvarende
-lav inntekt i familien.1
-Selv om de fleste i Norge har gode levekår og
-relativt god økonomi, har andelen barn som lever
-i familier med vedvarende lavinntekt, økt de siste
-årene.2 Oppvekst i en familie med økonomiske
-utfordringer har konsekvenser for levekår,
-arbeidsdeltakelse og helse i voksen alder.3 Familier som strever med økonomiske, sosiale eller
-psykiske vansker, utgjør en risiko- og sårbarhetsfaktor for de barna som lever i den.4 I mange tilfeller vil foreldrene ikke kunne gi tilstrekkelig
-omsorg til barna sine. Barn som har foreldre med
-slike vansker, inkludert rusrelaterte problemer,
-har også en forhøyet risiko for å utvikle psykiske
-problemer og andre vansker.5
-Folkehelseinstituttet (FHI) beskriver det slik:
-[…] barn som vokser opp med foreldre som
-ikke klarer å gi tilstrekkelig omsorg eller følge
-opp barnets behov, barn som lever med vedvarende lav inntekt i husstanden, og barn som
-opplever andre belastninger, som mobbing,
-vold og overgrep, og barn som ikke møter et
-godt nok miljø for læring og sosialt samspill i
-barnehage og skole, vil ha økt risiko for å
-1
-2
-3
-4
-5
-
-Aase, Holt og Helland 2022
-Epeland og Normann 2021
-Meld. St. 28 (2022–2023)
-Ekornås 2018
-Ruud, Birkeland, Faugli, Hagen, Hellman, Hilsen, Kallander, Kufås, Løvås, Peck, Skogerbø, Skogøy, Stavnes, Thorsen og Weimand 2015
-
-Traumatiske opplevelser kan også inkludere tap
-av en forelder eller andre nærstående, krig og
-konflikt, opplevelser under flukt fra hjemlandet
-eller lignende. For flyktninger vil også migrasjonsstress kunne utgjøre en vesentlig belastning.
-Flyktningene har brutt opp fra sitt eget miljø, noe
-som innebærer tap av hjem, nettverk, kulturelt og
-språklig miljø, arbeid, status og rolle. Dette etterfølges av kravet om ny tilpasning og forventninger
-om mye ny læring (akkulturasjonsstress).6
-Oppsummert kan såkalte negative barndomsopplevelser gi langvarige negative helseeffekter7 og flere typer tilpasningsproblemer.
-Negative barndomsopplevelser kan dermed øke
-risikoen for problemer senere i livet.8 Mange av
-de negative opplevelsene overlapper med risikoog sårbarhetsfaktorer for radikalisering. Dette
-betyr ikke at alle med negative barndomsopplevelser vil bli radikalisert, men at risikoen er større
-både for radikalisering og andre former for kriminalitet, vold og destruktiv atferd. At barn har
-negative barndomsopplevelser, betyr heller ikke
-automatisk at de vil få psykiske helseutfordringer
-eller tilpasningsproblemer, men risikoen er større
-for det dersom ikke avbøtende tiltak blir satt inn.
-Internasjonalt har det såkalte ACE-rammeverket
-blitt brukt til forskning på radikalisering,9 selv om
-forskningen fortsatt er begrenset.10
-Unge som utsettes for vold og krenkelser fra
-foreldre, jevnaldrende eller andre, har større
-risiko for selv å bruke vold eller begå kriminelle
-handlinger. Noen av dem som blir radikalisert,
-har selv opplevd familievold. Når voldsutsatte
-6
-
-Sveaass og Johansen 2006
-Kvello 2015
-8 Centers for Disease Control and Prevention 2021
-9 Se eksempelvis Windisch, Simi, Blee og DeMichele 2022
-10
-Matei 2023
-7
-
-[Side 179]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-177
-
-Kapittel 20
-
-Boks 20.1 Adverse Childhood Experiences
-Deltakerne skal krysse av for «ja» eller «nei» på
-ACE-studien er en studie som ser på sammenspørsmål om utfordrende opplevelser i disse
-hengen mellom negative, traumatiske barnkategoriene. Studiens funn til nå viser en samdomsopplevelser og velferd og helse i voksen
-menheng mellom antall «ja» i spørreskjemaet og
-alder. Det er en langtidsstudie som følger mer
-antall negative opplevelser som voksen.
-enn 17 000 mennesker i USA. Studien startet i
-Studien har vist at negative barndomsopple1995 og pågår fortsatt. Deltakerne får spørsmål
-velser kan øke risikoen for problemer senere i
-om barndommen og blir fulgt opp jevnlig. Spørslivet, og at risiko øker eksponentielt ved stimålene, som handler om negative barngende antall kategorier av opplevd belastning.
-domsopplevelser, er delt inn i ulike kategorier:
-• Misbruk
-Blant annet viser studien at det er en sammen• Fysisk misbruk
-heng mellom negative barndomsopplevelser og
-• Emosjonelt misbruk
-kroniske helseproblemer, psykisk sykdom og
-• Seksuelt misbruk
-rusmisbruk i ungdomsårene og voksenlivet, og
-• Neglisjering/omsorgssvikt
-at negative barndomsopplevelser også kan ha en
-• Emosjonell neglisjering
-negativ innvirkning på blant annet utdanning og
-• Fysisk neglisjering
-jobbmuligheter.1
-• Vanskelige familiesituasjoner
-1 Centers for Disease Control and Prevention 2021;
-• Voldelig atferd mot mor
-Terapivakten u.å.
-• Rusmisbruk i hjemmet
-• Psykiske lidelser i hjemmet
-• Skilsmisse eller seperasjon av foreldre
-• Familiemedlem i fengsel
-
-barn utøver vold når de blir eldre, går de fra å føle
-seg maktesløse til å få en følelse av makt og kontroll. Å delta i ekstremistiske grupper kan forsterke en slik følelse.11 Tilsvarende kan personer
-som har levd et liv preget av endring og usikkerhet, få en opplevelse av mening og sammenheng
-når de slutter seg til ekstremister eller andre ytterliggående grupper.12
-PSTs undersøkelser av det ekstreme islamistiske miljøet i Norge viste at nesten en femtedel av
-personene i undersøkelsen mistet foreldrene sine
-i løpet av barne- og ungdomsårene.13 PST har sett
-på sammenhengene mellom de ulike risiko- og
-sårbarhetsfaktorene og kommet frem til at de personene i utvalget som hadde mistet foreldrene,
-scoret høyt også på andre variabler, som relasjonelle tilpasningsproblemer, rusproblemer og
-arbeidsledighet. Av dem som reiste til Syria, var
-det flere som hadde mistet foreldrene sine, enn de
-andre i undersøkelsen.
-
-11
-
-Ekornås 2018
-Grønnerød, Andersen og Hellevik 2016
-13 PST 2016
-12
-
-20.2 Barn som radikaliseres
-I en studie fra 2022 om ungdom og ekstremisme i
-Norge går det frem at de aller fleste av de drøyt
-2500 respondentene i alderen 16 til 19 år kategorisk ikke var villige til å forsvare bruk av vold for å
-oppnå oppmerksomhet om en sak eller skape
-samfunnsendring i Norge.14 Kun en liten gruppe
-på 3,7 prosent og 1,8 prosent var villig til dette i
-stor eller veldig stor grad. I disse gruppene var
-det en overrepresentasjon av gutter, personer
-med foreldre født i andre land, med islam som
-religion og personer med generelt lavere tillit til
-andre. Det var også en overrepresentasjon av de
-som hadde opplevd diskriminering, som hadde
-brukt sterkere rusmidler og vært i kontakt med
-politiet. I en samlet analyse var det likevel kun det
-å ha hatt undervisning om kritisk tenkning og
-demokratiske verdier som hadde selvstendig
-påvirkning på om deltagerne var villige til å forsvare bruk av vold eller ikke.
-Barn og unges meninger er under utvikling,
-og det er ikke uvanlig at man har mer ekstreme
-synspunkter som ung og senere vokser dette av
-14
-
-Haugstvedt og Bjørgo 2022
-
-[Side 180]
-
-178
-
-Kapittel 20
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-seg. Det er ikke alltid slik at provoserende ytringer eller aktiviteter på ekstreme nettsider er
-uttrykk for vilje og kapasitet til å bruke vold for å
-nå politiske, ideologiske eller religiøse mål.15
-Ungdomsopprør er også naturlig og kan ha positive sider. Ungdomshjernen gjør også at unge får
-en naturlig «rus» når de gjør noe spennende og
-tar risiko, og ønsket om dette «kicket» kan bli
-sterkere enn fornuften.16
-Det er likevel stor forskjell på å ha radikale politiske meninger og å teste grenser, og det å planlegge eller gjennomføre alvorlige angrep som
-omtalt i boks 20.2. Etterretningstjenesten har i sin
-trussel- og sikkerhetsvurdering for 2023 angitt at til
-tross for en nedgang i gjennomførte terroranslag
-både fra ekstreme islamister og høyreekstreme i
-Europa de siste årene, «avdekkes det stadig alvorlige saker om oppfordring til terrorangrep, opplæring og konkret angrepsplanlegging», og sakene
-«involverer ofte unge mennesker under myndighetsalder som har blitt radikalisert på nett».17
-Dette viser at også barn og unge har kapasitet til å
-utføre alvorlige straffbare handlinger som er forbundet med ekstremisme. I Storbritannia utgjør nå
-mindreårige en av fem som arresteres for terrorrelaterte lovbrudd, mens de i 2019 utgjorde under
-en av 20.18 Selv om det også i Norge ses en noe
-bekymringsfull utvikling, er man heldigvis ikke i
-nærheten av det samme omfanget her.
-Barn og unge kan være særlig sårbare for radikalisering, både som følge av informasjon de selv
-oppsøker, for eksempel på nett, og fordi de kan
-være mer mottakelige for påvirkning, manipulasjon og rekruttering til voldelig ekstremisme enn
-voksne. Barn har ikke nødvendigvis verktøyene til
-å vurdere eller bedømme informasjon som de finner på nettet, eller som blir fortalt til dem av
-voksne, og de har heller ikke en ferdigutviklet
-evne til konsekvenstenkning. FN peker på at barn
-er lettere å skremme og kontrollere, både fysisk
-og mentalt.19 Barn er også mer tilbøyelige til å
-vise lojalitet mot autoritetsfigurer, og de er spesielt tilbøyelige til å følge oppfatningene og oppførselen til dem de elsker og respekterer, et element
-som er spesielt relevant når familiemedlemmer
-fungerer som radikalisatorer.
-I ulike konfliktsoner rundt omkring i verden
-har tusenvis av barn de siste årene blitt bortført,
-rekruttert og utnyttet av terrororganisasjoner og
-15
-
-Gule 2021
-Syvertsen 2022
-17 Etterretningstjenesten 2023
-18 Stonehouse 2023
-19 FNs kontor for narkotika og kriminalitet 2017
-16
-
-voldelige ekstremistiske grupper, inkludert IS.20
-Mens rekruttering av barn til væpnede grupper
-går langt tilbake i historien, er det et nyere fenomen at barn rekrutteres av terrorister og voldelige ekstremistiske grupper, både i konfliktsoner
-og i fredstid.21
-I Norge og nabolandene er det sett tilfeller av
-at barn som har vokst opp her selv har reist til
-eller har blitt tatt med til konfliktområder kontrollert av terrororganisasjoner. I 2022 ble en svensk
-kvinne dømt til seks års fengsel for grov krigsforbrytelse og grovt brudd på folkeretten for å ha
-medvirket til at sønnen ble barnesoldat i IS i Syria.
-Dette var første gang i Sverige at noen var tiltalt
-for krigsforbrytelse gjennom bruk av barnesoldat.22 I Norge er det eksempler på at barn selv har
-reist til Syria, som de to søstrene fra Bærum,
-hvorav den ene var mindreårig.23 Det er også norske eksempler på foreldre som har tatt med sine
-barn til IS-kontrollerte områder i Syria.24 Den
-største radikaliseringsrisikoen for barn i Norge er
-nok likevel knyttet til ekstremistisk materiale og
-synspunkter som de eksponeres for i Norge, via
-internett, familie, venner, nettverk eller annet.
-Ett eksempel på dette er det norske høyreekstreme partiet Alliansen, som blant annet bruker
-Discord til å rekruttere unge. Discord er en kommunikasjonsplattform som brukes mye av dem som
-spiller dataspill. På Alliansens Discord-server har
-det vært flere elever i videregående skole sammen
-med etablerte nynazister fra voldsfremmende organisasjoner. Partilederen i Alliansen dukker selv opp
-for å gi instruksjoner til de yngste støttespillerne.
-Partilederen har møtt flere av deltakerne fysisk i
-valgkampsammenheng og stadig oppfordret nye
-ungdommer til å bli en del av nettverket. Alliansen
-har vært kjent for å bruke ulike metoder for å få norske ungdommer inn i miljøet. Blant annet spurte
-partilederen i 2020 på Alliansens Telegram-kanal
-om noen kunne skaffe til veie en liste over alle de
-4500 skoleelevene ved videregående skoler i hele
-Viken fylke.25 Listen inneholdt elevenes navn og
-kontaktinformasjon og var blitt lagt ut på internett
-ved en glipp av Viken fylkeskommune.
-Det er også sett eksempler på unge som har
-kommet i kontakt med ekstreme islamister på nettet. I 2021 ble for eksempel en 16-åring i Oslo
-20
-
-FNs kontor for narkotika og kriminalitet u.å.
-FNs kontor for narkotika og kriminalitet 2017
-22
-Stokke 2022
-23
-For mer informasjon, se Seierstad 2016
-24 For mer informasjon, se Svendsen og Alayoubi 2019;
-Pedersen 2017
-25 Klungtveit og Skybakmoen 2021b
-21
-
-[Side 181]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-179
-
-Kapittel 20
-
-pågrepet og dømt til fem år i fengsel for forsøk på
-terrorhandling i form av forberedelseshandlinger
-og deltakelse i terrororganisasjon (IS), blant
-annet fordi han forsøkte å lage nikotingift.26
-Selv om få barn har blitt arrestert for terrorrelaterte lovbrudd i Norge, er sistnevnte et av
-eksemplene på at barn i Norge har blitt dømt for
-alvorlig terrorrelatert kriminalitet og fått til dels
-streng straff. I 2021 kom PST med en temarapport
-om mindreårige involvert i terror og terrorrela-
-
-terte handlinger. Hovedfunnene i rapporten var at
-PST siden 2013 har sett en dreining mot at stadig
-yngre personer involveres i terror og terrorrelaterte handlinger i Norge og ellers i Vesten. Langt
-de fleste involverte er unge menn, og de har vokst
-opp i en livssituasjon preget av tilpasningsvansker,
-utenforskap, psykiske problemstillinger eller
-omsorgssvikt, eller de har traumatiserende opplevelser fra det landet de eventuelt har innvandret
-fra.27
-
-26
-
-27
-
-TOSL-2021-40978 (Oslo tingrett)
-
-Politiets sikkerhetstjeneste 2021b
-
-Boks 20.2 Mindreårige involvert i avvergede og gjennomførte terrorangrep i Europa
-Nedenfor er det noen eksempler på terrorrelasynspunkter, og at han hadde vist støtte til
-terte hendelser i Europa med mindreårig gjerterrorister som Christchurch-terroristen
-ningsperson i årene 2010–2022.
-Brenton Tarrant. Han hadde et manifest i en
-• I 2010 detonerte en 15-årig gutt en selvlaget
-notatbok der han hadde tegnet nazisymboler
-sprengningsanordning i inngangspartiet til et
-og listet opp navn på dømte terrorister. De
-asylmottak i Østerrike. Ingen ble direkte skafant også antisemittiske og anti-islamske fradet, men en beboer falt ut av sengen som
-ser og høyreekstreme symboler blant notafølge av eksplosjonen og pådro seg en hodetene. Han ble i 2023 funnet skyldig i blant
-skade. Gutten tilsto og sa at en kjent høyreekannet å ha planlagt et høyreekstremt terrorstremist hadde tvunget ham til handlingen
-angrep.5
-• I 2022 arresterte britiske sikkerhetstjenester
-for at han skulle bli inkludert i den høyreek1
-en 15 år gammel gutt fra Leeds mistenkt for å
-stremistiske gruppen.
-• I 2015 ble det kjent at tre unge ekstreme islaplanlegge et ekstremt islamistisk terrorbommister, den yngste en 17-åring, hadde planbeangrep. Han ble siktet for å ha kjøpt kniver
-lagt å angripe en fransk militærbase. Planen
-og bombedeler til et angrep og planlagt å
-ble avslørt via avlytting. De tre skal ha motdrepe mennesker i London sentrum sammen
-2
-tatt direktiver fra et IS-medlem i Syria. 17med en 20-årig annen mistenkt. 20-åringen
-åringen fikk instruks om å utføre et angrep
-hadde også kjøpt kjemikalier til bombefremmot basen ettersom han ikke kunne forlate
-stilling. Den 15 år gamle gutten næret spesiFrankrike og slutte seg til IS som følge av at
-elt hat mot homofile og så på videoer av bruhan ble overvåket.3 Ifølge franske tjenestale drap på homofile. Som 14-åring skal han
-temenn innebar planene kidnapping av en
-ha erklært at han ønsket å bli martyr. Etter to
-senioroffiser ved basen og halshugging av
-rettssaker endte det med en tiltaleoverensham på film ved hjelp av GoPro-kamera.4 De
-komst for begge de tiltalte. 15-åringen tilsto å
-mistenkte hadde koblet seg til hverandre via
-ha samlet inn informasjon som sannsynligvis
-sosiale medier og kommuniserte med en
-er nyttig for terrorisme (IS-propagandavikontakt i Syria ved hjelp av krypterte meldindeo) og å ha informasjon om terrorhandlinger. De hadde ikke noe kriminelt rulleblad,
-ger.6 Straffeutmålingen var ikke avklart da
-denne rapporten ble ferdigstilt.
-og de hadde et visst utdanningsnivå. IS-videoer ble antatt å ha spilt en betydelig rolle i
-1 APA/BVZ 2021
-radikaliseringsprosessen deres.
-2
-2015
-• I 2022 ble en britisk 15-åring arrestert fordi 3 AFP
-AFP 2015
-han var mistenkt for å ha planlagt et høyreek4
-RFI 2015
-stremt terrorangrep. Han ble arrestert da
-5 BBC 2023
-6 Metropolitian police 2023; Vinter 2023
-han krasjet farens bil da han skulle rekognosere området rundt en moské. Etterforskningen viste at 15-åringen hadde høyreekstreme
-
-[Side 182]
-
-180
-
-Kapittel 20
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-I tillegg til å planlegge og gjennomføre angrep
-har mindreårige spilt en rekke andre roller i terrorrelaterte handlinger. De har for eksempel opptrådt som radikalisator og veileder på nettet, administrator for terroroppfordrende grupper på sosiale medier og leder av nettbaserte, transnasjonale
-avdelinger av terrorgrupper. PST vurderer det
-som «meget sannsynlig» at de også fremover vil
-avsløre mindreårige som er involvert i terrorhandlinger.28
-Selv om PSTs rapport og enkelthendelser
-peker mot en bekymringsfull utvikling, er det som
-nevnt innledningsvis grunn til å utvise forsiktighet
-28
-
-Politiets sikkerhetstjeneste 2021c
-
-og ikke overdrive problematiseringen av at barn
-utforsker ekstreme standpunkter. Det er fortsatt
-relativt få alvorlige hendelser i Norge utført av
-mindreårige. Det er likevel viktig at det jobbes
-forebyggende, både med tanke på undervisning
-om kritisk tenkning og demokratiske verdier, i de
-delene av tjenesteapparatet som kan fange opp og
-sette inn tiltak for særlig sårbare og utsatte barn
-og unge, og hos tjenestene som har som oppgave
-å fange opp bekymringsfull og kriminell aktivitet.
-Som i alt arbeid rettet mot barn må slikt forebyggende arbeid bygge på hva som er til barnets
-beste, og det må legges til rette for at barns egne
-synspunkter høres.
-
-[Side 183]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-181
-
-Kapittel 21
-
-Kapittel 21
-
-Drivere og motivasjonsfaktorer
-Personer som aksepterer vold for å nå politiske,
-religiøse eller ideologiske mål, er i kjernen av
-radikalisering til voldelig ekstremisme. Det meste
-eller all voldelig ekstremisme bunner i politiske
-målsetninger og et ønske om politisk endring. I tillegg kan andre drivere, som sosial frustrasjon og
-søken etter spenning, tilhørighet og mening spille
-inn. Slike drivere og motivasjonsfaktorer må forstås i sammenheng med risiko- og sikkerhetsfaktorer som omtalt i kapitlene ovenfor. Hva som får
-noen til å bli med i en ekstremistisk gruppe eller
-gå i ekstremistisk retning er individuelt, og ofte vil
-kun personen det gjelder, kjenne til årsakene bak.
-I boken Fremmedkrigerne skriver Arntsen følgende:
-Svaret på hvorfor hver enkelt tok sitt valg finnes […] i livet de ble tildelt og senere levde ut:
-I de sosiale og økonomiske betingelser de ble
-født inn i. I deres nære relasjoner. I deres
-impulser og følelsesliv. I deres skuffelser og
-nederlag. I deres eventyrlyst og ønske om å
-være noe i denne verden.
-Men også i deres religiøsitet og jakt på
-eksistensielle avklaringer. I deres håp om et
-utopia. Og i deres villighet til å rettferdiggjøre
-ondskap og dehumanisere andre på veien til et
-slikt illusorisk samfunn. (Arntsen, 2016, s. 446)
-
-21.1 Internasjonal politikk, krig og
-konflikt
-Ekstremisme springer ut fra politiske uenigheter,
-polarisering, væpnet konflikt eller krig, og rammes deretter ofte inn i en ideologi som ekskluderende nasjonalisme eller ekstreme religiøse tankesett. I høyreekstremistiske miljøer er det ikke
-alltid reelle kriger eller konflikter som ligger til
-grunn for radikalisering. Mye av verdensbildet og
-ideologien springer like fullt ut fra en innbilt krig
-eller eksistensiell kamp og et ønske om politisk
-endring. Eksempler på dette er Eurabia-konspirasjonsfortellingen om at det pågår en planlagt «isla-
-
-misering» av Europa gjennom innvandring og The
-great replacement-konspirasjonsfortellingen om at
-den hvite, kristne befolkningen i Europa blir erstattet av ikke-europeere gjennom massemigrasjon og
-demografisk vekst. Disse er utbredt i høyreekstrem ideologi og var sentrale i Breiviks tankegods.
-Både Breivik og Manshaus oppga at de var motivert av å beskytte sitt eget folk og sin kultur mot en
-pågående demografisk omkalfatring og undergang
-forårsaket av innvandring og en potensiell rasekrig.
-Den høyreekstreme terroristen Brenton Tarrant
-skrev også i manifestet sitt at han fryktet et «folkemord på hvite» på grunn av lav fødselsrate og høy
-innvandring.1
-Ekstreme islamister har gjerne sitt politiske
-engasjementet knyttet til kriger og konflikter i
-muslimske land hvor muslimer er krigsofre. Noen
-ganger kan det være knyttet til det som oppleves
-som vestlig imperialisme. For en som radikaliseres, vil da verden i økende grad fremstå som en
-krig mellom en god og en ond sivilisasjon, den
-islamske og den vestlige.2 I ekstreme islamistiske
-miljøer, som Profetens Ummah, har aktivismen i
-all hovedsak kretset rundt konflikter og forhold i
-andre deler av verden hvor muslimer er involvert.
-Noen forstår dette som bekreftelser på at islam er
-i krig med en rekke land, hovedsakelig vestlige.3
-Opplevde fornærmelser mot islam og profeten
-Muhammed, for eksempel ved koranbrenning
-eller karikaturtegninger, er også motivasjonsfaktorer i radikaliseringen av ekstreme islamister og
-terrorister i Europa.4
-Flere av fremmedkrigerne som dro fra Norge
-til Syria, har forklart at det var konflikten i Syria,
-særlig historier om Assad-regimets overgrep mot
-1
-
-2
-3
-4
-
-Ording, Kolberg, Randen, Rognsvåg og Hansen 2019. For
-nærmere omtale av ovennevnte terrorister og høyreekstremisme, vises det til del II Ekstremisme og tilgrensende
-fenomener
-FN-sambandet 2023
-Vestel 2016
-Politiets sikkerhetstjeneste 2023a; Nesser 2018. Karikaturstriden er nærmere omtalt i kapittel 7 Islamisme og
-ekstrem islamisme og i kapittel 41 Danmark
-
-[Side 184]
-
-182
-
-Kapittel 21
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-barn og sunnimuslimer, som vekket et engasjement hos dem. De prøvde å oppsøke lærde og
-anså det som en plikt å reise ned og hjelpe det
-syriske folket.5 Mange av fremmedkrigerne fortalte senere at de reiste ned utelukkende for å
-drive med hjelpearbeid, uten å bli trodd på dette i
-etterfølgende rettssaker. Uansett var idealisme og
-en kamp mot urettferdighet en sterk motivasjonsfaktor for mange av dem som reiste.6
-PST uttalte i 2016 at ingen tematikk eller hendelse har bidratt til å radikalisere så mange som
-konflikten i Syria, og pekte på at radikaliseringen
-hovedsakelig ble utløst av begivenheter utenfor
-Norge, men at den ble forsterket gjennom etableringen av salafistiske nettverk i norske ungdomsmiljøer før og under Syria-konflikten.7 Dette
-viser at det er et samspill mellom motivasjonsfaktorer og forhold ute i verden og virksomhet her
-hjemme som kan forsterke hverandre og føre til
-radikalisering og voldelige ekstreme handlinger. I
-tillegg kan det samvirke med sosial frustrasjon og
-bli en viktig «push-faktor» som skyver en inn i
-ekstremisme når man har «lite å tape», noe som
-omtales nærmere nedenfor.
-Sinnet og opprørtheten som ligger bak noen
-unge muslimers handlinger og synspunkter på
-verden, handler ikke bare om opplevd urettferdighet, men er et resultat av faktiske og konkrete
-krenkelser, enten på det personlige, nasjonale
-eller transnasjonale plan.8 Konflikter i verden der
-muslimer er involvert, er det viktigste temaet som
-norske muslimer virkelig savner at det norske
-storsamfunnet adresserer på en bred og overbevisende måte. Sterke følelser skapt av forhold som
-oppleves som dypt urettferdige, kan spille en viktig rolle som drivkraft i prosessene som for noen
-kan føre til sympatier for ekstremistiske synspunkter og i verste fall til voldelige ekstremistiske
-handlinger.9
-Konflikten mellom Israel og Palestina har stor
-oppmerksomhet i Norge, med aktive støttemiljøer
-på begge sider som hver har tydelige fortellinger
-som gir tung følelsesmessig mobiliseringskraft. 7.
-oktober 2023 gjennomførte Hamas et terrorangrep mot Israel der over 1100 mennesker ble
-drept.10 Israels påfølgende omfattende krigføring
-på Gazastripen har i skrivende stund kostet over
-26 000 menneskeliv.11 I en pågående konflikt som
-
-også inkluderer en informasjonskrig, må det tas
-forbehold om at slike tall vil endres. Intensiveringen av krigen har medført sterk polarisering i
-Midtøsten og internasjonalt, med harde fronter
-mellom aktivister som støtter hver sin part i konflikten. Sterke bilder og brutal informasjon fra
-begge sider har blitt spredd ufiltrert til andre
-deler av verden, og har satt sinnene i kok hos støttespillere på begge sider. I desember 2023 klaget
-Sør-Afrika Israel inn for Den internasjonale domstolen i Haag for brudd på folkemordskonvensjonen. 26. januar 2024 kom domstolen med en midlertidig avgjørelse om at domstolen vil realitetsbehandle saken, og har pålagt Israel tiltak for å blant
-annet forhindre folkemord, og åpne for humanitær hjelp til Gaza.12
-Flere europeiske land stilte seg tidlig bak Israels rett til å forsvare seg og forbød støttemarkeringer for palestinerne og Hamas, blant annet med
-henvisning til Hamas’ terrorlisting i EU.13 Propalestinske aktivister viste på sin side støtte til
-palestinerne, og i noen tilfeller Hamas. Noen
-demonstrerte under slagordet «fra elven til havet
-– Palestina vil frigjøres». Det ble i flere land diskutert om dette slagordet skulle tolkes som at staten
-Israel ikke har eksistensberettigelse.14 I Norge
-handlet pro-palestinske demonstrasjoner og solidaritetsmarkeringer primært om støtte til den
-palestinske befolkningen og kritikk av Israels
-bombing av sivilbefolkningen i Gaza og dels om å
-anerkjenne Palestina som egen stat. I 2023 var
-markeringene fredelige, i motsetning til i 2009. Da
-var det voldsomme demonstrasjoner i Oslo mot
-Israel etter angrep mot Gaza, og flere av det som
-etter hvert ble medlemmene av Profetens Ummah
-møttes i forbindelse med dette. Også i 2023 pekte
-PST på at lovlige og fredelige demonstrasjoner til
-støtte for Gaza kan tiltrekke seg ekstremister som
-ønsker å utnytte situasjonen til å fremme en egen
-ekstremistisk agenda.15
-Konflikten mellom Israel og Palestina har i
-mange år motivert voldelig ekstremisme og terrorisme utenfor Midtøsten-regionen. Flere terrorangrep utført av ekstreme islamister i Europa, for
-eksempel angrepet mot en jødisk barneskole i
-Frankrike i 2012, har vært helt eller delvis motivert av israelske intervensjoner på Gaza.16 Dette
-er igjen aktualisert etter angrepet i oktober
-
-5
-
-11
-
-6
-
-12
-
-Arntsen 2016
-Lia og Nesser 2014
-7 Politiets sikkerhetstjeneste 2016
-8 Vestel 2016
-9 Vestel 2016
-10 AFP 2023b
-
-AP 2024b
-Den internasjonale domstolen 2023
-13 Solomon 2023
-14 Brady, Faiola, Rauhala, Adam og Ríos 2023
-15 Torres, Barka, Johansen og Venbakken 2023
-16 BBC 2012
-
-[Side 185]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-2023.17 Et terrorangrep utført av en IS-tilhenger i
-Paris i desember 2023 skal eksempelvis ha vært
-helt eller delvis motivert av konflikten.18 Al-Qaida
-har erklært støtte til Hamas sitt angrep mot Israel
-og oppfordret tilhengerne sine til å angripe israelske og allierte mål internasjonalt. I slutten av
-desember 2023 publiserte al-Qaidas avdeling i
-Jemen en video som inkluderte en bombeoppskrift og budskap om å stoppe den «amerikanske
-krigsmaskinen» for å hindre undertrykkelse av
-muslimer i Gaza og andre steder. Videoen oppfordrer soloterrorister til å angripe mål som kommersielle flyvninger og enkeltpersoner som Bill
-Gates og Elon Musk.19 DNMs støtte til Hamas’
-terrorangrep 7. oktober20 er et eksempel på såkalt
-ideologi-kryssende ekstremisme.
-Visse typer voldelige ekstremister har ideologiske, politiske og religiøse motiver i større grad
-enn andre. De er ofte ledertyper og kan spille en
-stor rolle i radikaliseringen av andre personer. Selv
-om andre radikaliserte kan motiveres av andre faktorer, skal man ikke undervurdere ideologi og politikk som motivasjonsfaktor, ettersom lederne av
-ekstremistiske grupperinger og terrororganisasjoner er de som bestemmer og legger føringene for
-de valgene som tas.
-Ideologi kan være en kraftfull grunn til å holde
-den ekstremistiske gruppen samlet. I krig, uansett om det er en faktisk krig eller en tenkt krig,
-holder man partene samlet ved å ha en felles sak å
-kjempe for. Gruppens felles tolkning av ideologi
-eller religion blir det som holder den sammen.
-Også for personer som i utgangspunktet hadde
-andre motivasjoner for å bli med i gruppen, kan
-ideologi styrke forpliktelsen til gruppen.21
-
-21.2 Religion
-Religion er også en driver for radikalisering ved at
-religionen misbrukes til å rettferdiggjøre synspunkter og handlinger. Dette gjelder særlig islam og kristendom. Religiøse symboler og fortellinger kan brukes til å glorifisere terrorister som helgenfigurer og
-inspirere andre til å gjennomføre terrorangrep. I
-verdensbildet til ekstreme islamistiske grupper
-foregår det en kamp mellom muslimene og Vesten,
-og høyreekstreme grupperinger har ofte muslimer i
-17
-
-Mehra 2023
-Seelow 2023
-19 Memri TV 2023
-20
-Den nordiske motstandsbevegelsen 2023
-21 Ekornås 2018
-18
-
-183
-
-Kapittel 21
-
-sitt fiendebilde og tror på konspirasjonsfortellinger
-om at muslimene skal ta over Europa.
-Noen motiveres av religionen i seg selv og bruker sin egen tolkning av religiøse skrifter til å rettferdiggjøre handlingene sine. Ekstreme islamister gjør
-dette med Koranen. Det er likevel funn som tyder på
-at ekstreme islamister generelt er lite religiøse og
-har mindre kjennskap til religiøse tekster før de
-radikaliseres til voldelige ekstremister. Religiøst
-motivert ekstremisme innebærer som regel en eller
-annen form for religiøs fundamentalisme, som ofte
-preges av avvisning av etablert, allmenn religiøs tradisjon til fordel for en mer bokstavelig tolkning av
-skriftene.22 De som har en lederrolle i ekstreme
-grupper, oppfattes imidlertid ofte som mer kunnskapsrike i religiøse spørsmål enn de andre.
-Det er også eksempler på at kristen tro misbrukes til ekstremisme. Selv om det er noe uklart
-hvorvidt religion i seg selv var en motivasjonsfaktor, hadde Philip Manshaus en kristen religiøs
-oppvåkning som sammenfalt i tid med hans høyreekstreme
-radikaliseringsprosess.
-Manshaus
-bedrev bibelstudier og deltok på flere samlinger i
-den læstadianske menigheten. Det var ikke kun
-den kristne religionen som sådan som trakk ham
-til det læstadianske miljøet, han likte også at det
-var kulturkonservativt og etnisk homogent.23
-
-21.3 Tilhørighet og trygghet
-For personer i områder med krig og konflikt kan
-det være aktuelt å søke trygghet og beskyttelse
-hos ekstremistiske grupper. I et trygt land i fredstid er det også mulig å ha en følelse av utrygghet
-og truet gruppeidentitet. Hva som utgjør en gruppeidentitet, knytter seg ofte til religion, etnisitet
-eller nasjonalitet. Identitet er ofte forbundet med
-stolthet og tilhørighet. Dersom man føler at ens
-identitet er truet, kan man utvikle antipati og hat
-mot grupper som påstås å utgjøre en trussel.24
-«Det var vi mot verden. Fellesskapsfølelsen og
-følelsen av brorskap var total», uttalte for eksempel en tidligere nynazist om massemønstringene
-han var med på tidlig på 2000-tallet.25
-For personer som opplever for eksempel muslimsk innvandring som noe fremmed og truende,
-kan ideologier som hevder å beskytte ens egen
-gruppeidentitet, fremstå som trygt. Dette kan
-gjøre at personene blir mer mottakelige for en slik
-22
-
-Vergani, Iqbal, Ilbahar og Barton 2020
-Selbekk 2020
-24
-Fardan 2023
-25 Klungtveit 2020
-23
-
-[Side 186]
-
-184
-
-Kapittel 21
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-ekstrem ideologi, i dette tilfellet høyreekstrem
-ideologi, og på sikt aksepterer og legitimerer vold
-for å bevare «tryggheten». Ideologi kan være viktig for å skape et fellesskap innad i den gruppen
-som ifølge ideologien er «de gode», ved at gruppen forenes mot en felles fiende og har samme
-mål og syn på verden.26
-Å oppleve at ens gruppeidentitet ikke passer inn
-eller er velkommen der man bor, kan også bidra til
-misnøye og på sikt ekstreme holdninger. En gruppeidentitet som stadig utsettes for press, kritikk,
-mistenkeliggjøring, hat og trusler, kan bidra til radikalisering.27 Muslimer som bor i Europa og som
-opplever hat og hets, rasisme og muslimfiendtlige
-holdninger hos politikere, kan føle manglende tilhørighet og trygghet der de bor. Mange europeiske
-muslimer kan også oppleve at konflikter i muslimske land ikke får den oppmerksomheten de mener
-konfliktene fortjener, og at europeiske politikere
-ikke viser nok handlekraft i å stanse disse konfliktene, fordømme overgrep mot muslimer eller hjelpe
-krigsflyktninger.28 Muslimske miljøer i Europa har
-også pekt på forskjellsbehandling fordi ukrainske
-flyktninger får mer hjelp29 og virker mer velkomne
-enn muslimske flyktninger. I noen tilfeller kan slike
-forhold og opplevd urettferdighet bidra til at noen
-europeiske muslimer blir mer mottakelige for ideologier som tegner bilder av en eksistensiell kamp
-mellom den muslimske verden og Vesten.30
-IS uttalte som en del av sin rekrutteringsstrategi at muslimske unge i Vesten aldri kom til å bli
-akseptert i sitt vestlige land, og at de verken var
-for eksempel somaliske eller pakistanske eller irakiske, men at de først og fremst var muslimer.
-Videre at IS ville akseptere dem og beskytte dem.
-Dette kan gi gjenklang hos de som verken føler tilhørighet til sine foreldres hjemland eller sitt eget
-hjemland, og som søker mot en universell muslimsk identitet som ikke tar hensyn til etnisitet
-eller nasjonal og kulturell bakgrunn.31
-Sosial nettverksteori og studier som viser at
-venner er sentrale for rekruttering til ekstremisme,
-bekrefter også at sosial tilhørighet og trygghet er
-viktige motivasjonsfaktorer for manges veivalg.32
-Flere av de norske unge mennene som dro til Syria
-som fremmedkrigere, kom fra samme vennekrets.
-Selv om de synes å ha hatt ulik motivasjon for å
-26
-
-FN-sambandet 2023
-27 FN-sambandet 2023
-28 Wolasmal 2022
-29 Wolasmal 2022
-30
-Det vises til omtale av ekstrem islamisme i kapittel 7
-31 Noor 2015
-32 Ekornås 2018
-
-reise, var sosiale faktorer som gruppepress eller
-lojalitet mot venner også sentrale i avgjørelsen om
-å dra.33 Dette er i tråd med den sosiale nettverksteorien om at sosiale bånd spiller en stor rolle i
-rekruttering til voldelig ekstremisme.34
-I tillegg til at sosiale bånd kan spille en viktig
-rolle for veien inn i ekstreme grupper, og at søken
-etter tilhørighet og trygghet kan være en viktig
-motivasjonsfaktor for mange, kan også sosiale dynamikker som lojalitet, tillitsforhold og gruppepress
-føre til at man blir værende, og at veien ut av det
-ekstreme fellesskapet kan virke mindre attraktiv.
-
-21.4 Sosial frustrasjon
-Mennesker som er marginaliserte og ikke ser
-hvordan de kan bedre sin økonomiske eller sosiale
-status, kan oppleve sosial frustrasjon.35 Frustrasjon
-over en vanskelig livssituasjon og et ønske om en
-ny start eller ny retning i livet kan være en viktig
-push-faktor som dytter mennesker inn i ekstremisme. Behovet for endring kan skyldes en problematisk fortid med kriminalitet, rusproblemer, familiekonflikter, en vanskelig oppvekst eller lignende.
-Sosial frustrasjon kan også skyldes at man av ulike
-grunner faller utenfor samfunnet, for eksempel på
-grunn av arbeidsledighet,36 eller at man har blitt
-utsatt for vold, diskriminering, sosial marginalisering eller lignende.37 Personer som bærer på
-denne typen sosial frustrasjon, kan i utgangspunktet være lite opptatt av ideologi.38 De har derimot
-mye sinne og aggresjon, som ofte rettes mot en
-eller flere bestemte fiender,39 noe som gjør at vold
-og voldelig ekstremisme kan bli tiltrekkende.
-Den sosiale frustrasjonen kan også være forbundet med kjønn og kjønnsroller. I ekstreme miljøer er hat mot kvinner og skeive noe som går
-igjen. Ekstremisme kan i visse tilfeller forstås som
-et forsøk på å gjenopprette tapt maskulinitet.40
-Opplevd urettferdighet kan spille en viktig
-rolle i en radikaliseringsprosess. Det kan gjøre en
-person mottakelig for ekstreme ideologier og miljøer fordi disse kan tilby en helhetlig forklaring på
-hvorfor man føler seg frustrert og urettferdig
-behandlet. Dette kan henge sammen med opplevd
-33
-
-Lia og Nesser 2014
-Sageman 2004
-35 Ekornås 2018
-36 FN-sambandet 2023
-37 Bjørgo 2011
-38
-Nesser 2018
-39 Bjørgo 2011
-40 Politiets sikkerhetstjeneste 2021a
-34
-
-[Side 187]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-følelse av manglende aksept i hjemlandet eller at
-andre får flere goder enn en selv, eller ens egen
-gruppe. Denne opplevde urettferdigheten og sinnet som kan følge av den, er noe radikalisatorer
-kan spille på.41
-Da DNMs øverste leder i Norge ble intervjuet
-i 2001, fortalte han at han og gjengen hans var «så
-utsatt» at de ikke klarte å stoppe å utøve vold selv
-når noen ble alvorlig skadet. De følte seg forfulgt
-av politi, medier og politikere, og de mente at
-slagsmålene ofte skyldtes at folk ville yppe med
-nynazistene på byen, mens «utlendingene» ble
-fremstilt som ofre.
-Alt det andre som har skjedd med oss, setter i
-gang en aggressivitet som gjør at jeg ikke klarer å slutte. Vi blir så forbannet at det er vanskelig å stoppe. Vi blir jaktet på, boikottet og
-urettferdig behandlet. (Eide, 2001)
-
-21.5 Spenning og heroisk maskulinitet
-De som deltar i voldelig ekstremisme i søken etter
-spenning, er gjerne tiltrukket av vold, våpen og
-uniformer. Ofte kombineres det med fantasier om
-en heroisk rolle i en storslagen kamp.42 Både høyreekstreme og jihadistiske bevegelser spiller på
-dette. I jihadistisk propaganda fremstilles jihadlivet som «action-orientert» og heroisk. For noen
-av de norske fremmedkrigerne i IS var søken
-etter spenning en motivasjonsfaktor. Det samme
-var ønsket om heder, status og anerkjennelse. De
-poserte med våpen i krigssoner på sosiale medier
-og ga sin støtte til krigerhelter.43 Høyreekstreme
-bevegelser og subkulturen deres kan være attraktiv for unge gutter som lengter etter aksept og en
-følelse av ære, makt og spenning.44
-Ekstremistiske bevegelser tilbyr også et kulturelt og kroppsliggjort univers med klesdrakt, symboler og musikk som skaper gruppeidentitet. I
-DNM marsjerer medlemmene i gatene i uniform
-og med faner.
-– Jeg ble hekta, det er ikke noe å legge skjul på.
-Det var drittøft, adrenalinet pumper jo når du
-går der, sier en ung norsk mann fra Østlandet
-som var med på flere av de internasjonale
-41
-
-Ekornås 2018
-FN-sambandet 2023
-43
-Ekornås 2018
-44 Fangen 2003
-42
-
-185
-
-Kapittel 21
-
-demonstrasjonene til Den nordiske motstandsbevegelsen rundt 2018. (Klungtveit, 2020, s.36)
-
-Andre høyreekstreme bevegelser har beveget seg
-bort fra den lett identifiserbare skinhead-stilen og
-bruker kodede ekstremistiske symboler. De nye
-markørene kan vanskelig skilles fra andre klær
-som er populære blant ungdom.45 Det dannes
-høyreekstreme meningsfellesskap, også på subtile og kodede måter, som gir tilhørighet og dehumaniserer grupper som inngår i fiendebildet. Voldelig ekstremisme gjør det mulig å leve ut fantasiene om å være en helt46 i det som oppleves som
-en reell kamp – enten det er mot et angivelig folkemord på hvite eller en angivelig kamp som Vesten fører mot verdens muslimer. Det kan også
-dreie seg om reelle konflikter på bakken, med
-reelle lidelser og reelle overgripere.
-Flere forskere har argumentert for at slike helteforestillinger er tett knyttet til ideer om maskulinitet.47 Heroisk maskulinitet spiller en rolle i
-rekrutteringen og mobiliseringen av høyreekstremister og ekstreme islamister.48 Terrorister som
-får heltestatus på grunn av angrep mot personer i
-høyreekstremistenes fiendebilde, kan gjøre at
-høyreekstremistene motiveres av ideen om
-berømmelse via spektakulær vold.49
-Høyreekstreme grupper spiller bevisst på opplevelsen av en maskulinitet som er krenket, og tilbyr måter å gjenvinne eller oppnå en heroisk maskulinitet på. Det er sammensatte bakenforliggende drivere for radikaliseringsprosesser, men
-det er spesielt konstruksjonen av maskulinitet
-innenfor bevegelsene som gjør at unge menn trekkes til det ekstremistiske fellesskapet.50
-For noen radikaliserte kan det være følelsen
-av brorskap og av å være en «ekte mann» som
-spiller en sentral rolle i at de trekkes inn i ekstremistiske bevegelser. Dette gjelder både høyreekstreme brorskapsorganisasjoner som Proud Boys,
-Active Clubs eller brorskap i chan-kulturen, som
-kun finnes i nettbasert form.51 I ekstremistiske
-bevegelser glorifiseres vold som en del av en livsstil og en stilisert versjon av maskulinitet.52
-45
-
-Miller-Idriss 2003
-FN-sambandet 2023
-47 Beutel og Perez 2016
-48
-FN-sambandet 2023
-49 Wikan 2023a
-50 Kimmel 2018
-51
-Kutner 2020
-52 Fangen 2003
-46
-
-[Side 188]
-
-186
-
-Kapittel 21
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 21.1 Typologi – radikalisertes ulike roller og funksjoner
-Det er utviklet typologier for å dele ekstremister
-Protesjeen har flere likhetstrekk med entreinn i «idealtyper» med tilhørende radikaliseprenøren, men står alltid under entreprenøren
-ringsforløp. De ulike idealtypene kjennetegnes
-på rangstigen. Vedkommende fungerer som en
-av ulike drivkrefter for radikaliseringen og inneslags høyre hånd eller nestkommanderende og
-har forskjellige roller og oppgaver i ekstremiser ofte yngre. De to har typisk vært venner over
-tiske grupper. Typologiene kan hjelpe med å
-lengre tid og har lik bakgrunn. Protesjeen er
-vekte betydningen av ulike motiver og skredbetrodd og får viktige oppgaver og detaljert inndersy mottiltak mot ulike radikaliseringsforløp.
-blikk i terrorplanene. Entreprenøren og protePetter Nesser har i sin forskning på jihadissjeen kan reise sammen og være på treningsleitiske terrorplott i Europa delt inn deltakerne i
-rer sammen. Hovedårsaken til protesjeens radifølgende fire idealtyper: «entreprenøren», «prokalisering er ofte den politiske frustrasjonen
-tesjeen», «den mistilpassede» (misfits) og
-over overgrep mot verdens muslimer. Entrepre«omstreiferen» (drifters).1 Tore Bjørgo har i sin
-nøren og protesjeen hans har altså ideologiske
-forskning operert med følgende hovedtyper
-og politiske motiver og koblinger til organiserte
-som han mener går igjen blant ulike ekstremisttransnasjonale ekstremistiske nettverk, som de
-grupper både i Norge og andre land: «ideologjerne selv oppsøker og lar seg bli rekruttert
-giske aktivister», «medløpere», «sosialt frusinn i. Dersom de skulle bli tatt, viser de sjelden
-trerte»2 og etter hvert også «eventyrere».3
-tegn til anger over sine ekstremistiske
-I Nessers typologi beskrives entreprenøren
-handlinger, og de holder på overbevisningen om
-som avgjørende for at en terrorcelle kan dannes
-at de har gjort det rette.4
-Mens entreprenøren er den som bygger terog utføre angrep. Det er typisk en mann, og ofte –
-rorceller, gjerne samme med sin protesje, har
-men ikke alltid – er han eldre, mer erfaren og
-man også dem som kan anses mer som «fotsolmer ressurssterk enn de andre medlemmene
-dater» i de ekstreme miljøene, det vil si dem
-med tanke på sosioøkonomisk bakgrunn og
-som utfører ordre og følger retningslinjene
-utdanning. Noen ganger er han familiemann.
-andre gir dem.5 De kan deles inn i to typer: «den
-Entreprenøren fremstår som en religiøs-politisk
-mistilpassede» og «omstreiferen». De mistilpasaktivist med en sterk rettferdighetssans og oppsede er typisk langt mindre ideologisk motivert,
-søker i tilfellet militant islamisme radikale mosinformert og oppdatert enn entreprenøren og
-keer og predikanter. Entreprenøren tar aktivt
-protesjeen. De har ikke lyktes helt i livet, de funkontakt med ekstremistiske nettverk, militante
-gerer kanskje dårlig sosialt og har lav utdangrupper og treningsleirer i konfliktsoner. Han
-ning, løs tilknytning til arbeidslivet og en vanrekrutterer, sosialiserer og trener de andre medskelig, ofte kriminell bakgrunn. De er typisk
-lemmene av terrorcellen eller det ekstremistiske
-drevet av personlig misnøye, utenforskap og et
-nettverket. Han tar en ledende rolle i den politiskønske om mål og mening. I noen tilfeller er motideologiske debatten i gruppen og kobler de
-ivasjonen for å gå inn i religiøs ekstremisme et
-andre medlemmene til radikale predikanter for at
-slags ønske om tilgivelse for gamle synder som
-de skal få ytterligere veiledning. Entreprenøren
-kriminalitet, rus eller annen atferd som er
-gir inntrykk av å ikke ty til vold primært for sin
-uforenlig med en tradisjonell religiøs oppvekst.
-egen del, men for det han identifiserer som «det
-Ofte har de en svakere og mer nølende personfelles beste» og av en religiøs plikt overfor de
-lighet og er derfor mer sårbare for påvirkning
-sanne troende, dvs. den muslimske verden. Ofte
-og rekruttering. De blir ofte oppsøkt av en entreer det en genuin bekymring for lidelsen til musliprenør eller protesje med felles bakgrunn som
-mer som blir berørt i diverse konflikter, som ligtilbyr å hjelpe dem med å finne «den rette vei».
-ger til grunn. Entreprenørens autoritet baserer
-Ofte blir de med i ekstremistiske nettverk for å
-seg på at entreprenøren er mer kunnskapsrik i
-løse sine personlige problemer eller av lojalitet
-politiske og religiøse spørsmål enn de andre og
-til venner på innsiden.
-ofte har karismatiske kvaliteter og en betydelig
-evne til å påvirke og manipulere andre.
-
-[Side 189]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-187
-
-Kapittel 21
-
-Boks 21.1 forts.
-Til slutt er det kategorien omstreifere. Denne
-kategorien har ingen tydelig sosial bakgrunnsprofil, men består av personer som dras inn i
-ekstremisme gjennom sosiale nettverk, lojaliteter, press og avhengighetsforhold. Dette støtter
-opp under teorier om radikalisering som påpeker betydningen av sosial dynamikk og gruppedynamikk for radikalisering og rekruttering av
-individer til ekstremistiske grupper. Omstreiferne mangler vanligvis en sterk agenda for
-hvorfor de omgås ekstremister og inngår i grupperinger eller nettverk, og de er primært drevet
-av sosiale forpliktelser og sosial belønning. De
-blir ofte engasjert via tilfeldigheter eller via sosiale bånd til «feil» personer, og mange av omstreiferne kunne etter all sannsynlighet gått i en helt
-annen retning ved å omgås andre. De får sjelden
-viktige oppgaver i planleggingen av angrep, kanskje fordi de oppfattes som noe flyktige og mindre trofaste mot saken, men de utgjør arbeidskraft og er sånn sett en viktig støttefunksjon.
-Det er noe uklart hva som gjør at omstreiferne
-blir radikalisert, men identitetssøken, eventyrlyst eller opplevd mangel på alternativer kan
-være mulige forklaringsfaktorer.6
-I Bjørgos typologi er «de ideologiske aktivistene» som oftest ressurssterke og primært drevet av politiske og ideologiske motiver. De lykkes på mange sosiale arenaer, og det er som
-oftest disse som radikaliserer venner og nær-
-
-miljø, og som tar kontakt med militante aktivister og organisasjoner. Denne kategorien ligner
-dermed entreprenøren. «Medløperne» kan ha
-en mer blandet bakgrunn, men er først og
-fremst drevet av et ønske om tilhørighet, vennskap og aksept, og dette, sammenholdt med
-behovet for anerkjennelse, gjør dem ofte lette å
-lede til å delta i militante aktiviteter. De blir
-gjerne gradvis radikalisert som en konsekvens
-av deltakelsen i gruppen og dens militante aktiviteter. De har mye til felles med omstreiferne,
-som er beskrevet ovenfor. «De sosialt frustrerte» har i likhet med «de mistilpassede» ofte
-en problematisk sosial bakgrunn, herunder
-erfaringer med vold, kriminalitet, diskriminering og sosial marginalisering. Ideologi spiller
-ikke så stor rolle for dem, men de har mye sinne
-og aggresjon, som ofte rettes mot en eller flere
-bestemte fiender.7 Den siste kategorien er de
-såkalte «eventyrerne», som ønsker spenning og
-er tiltrukket av våpen, uniformer, kamp mv.8
-1
-2
-3
-4
-5
-6
-7
-8
-
-Nesser 2010
-Bjørgo 2011
-Bjørgo 2015
-Nesser 2018
-Presentasjon av Petter Nesser, kommisjonsmøte, 15. september 2022
-Nesser 2018
-Bjørgo 2011
-Bjørgo 2015
+# Regulering av ekstremisme på nettet
+
+Store, multinasjonale selskaper står i spissen for å utvikle, forvalte og styre teknologiutviklingen. Amerikanske selskaper som Google, Amazon, Meta, Apple og Microsoft og kinesiske selskaper som Tiktok, Beidu, Alibaba, Tencent og Xiaomi leder an i en teknologiutvikling på nettet som verken Norge eller EU har direkte lovgivningsmyndighet over. Det er teknologiselskapene som setter rammene for den digitale aktiviteten. De står i stor grad selv for modereringen av sine flater. Teknologiselskapene representerer dermed en form for «regulerende myndighet» som på mange måter kontrollerer nettaktivitet både sterkere og mer direkte enn statlige myndigheter.
+
+EU har satt seg fore å begrense teknologiselskapenes makt. EUs digitale strategi *Shaping Europe’s Digital Future* fra 2020 inneholder lovgivningspakken *Europe Fit for the Digitial Age* som sikter på å regulere hvordan plattformer og digital infrastruktur utvikles, og pålegger samtidig statene både rett og plikt til å regulere teknologiske nyvinninger. Pakken består blant annet av EUs forordninger om data, dataforvaltning, digitale markeder, digitale tjenester og kunstig intelligens. Særlig de siste to har relevans for ekstremisme i det digitale rommet.
+
+EUs forordning om kunstig intelligens, *Artificial Intelligence Act* (AI Act(AIA)), som ble vedtatt av EU- kommisjonen høsten 2023, er verdens første omfattende regulering av teknologien kunstig intelligens. Hensikten med forordningen er å redusere risikoen som kunstig intelligens kan utgjøre for EU borgernes helse, sikkerhet og grunnleggende rettigheter. Forordningen deler teknologi basert på kunstig intelligens inn i fire ulike kategorier ut fra en risikovurdering: forbudt, farlig, kontrollert og ufarlig. Forordningen legger også opp til at kunstig generert innhold skal merkes, som ledd i kampen mot manipulering gjennom desinformasjon og feilinformasjon.[^919] AIA vil tre i kraft først i 2026, men allerede i 2024 får den effekt. EU-kommisjonen har blant annet oppfordret teknologiselskapene til å merke kunstig generert innhold allerede nå, som et ledd i oppfølgingen av de eksisterende retningslinjene for håndtering av desinformasjon på nettet.[^920]
+
+Forordningen vil trolig anses som EØS-relevant og dermed innarbeides i norsk lov.[^921] AIA forutsetter nye reguleringsinstanser i hvert land, og etablerer et eget «kontor for kunstig intelligens» sentralt under EU-kommisjonen. Forordningen vil ikke gjelde for kunstig intelligens som benyttes til militære, forsvarsmessige eller nasjonale sikkerhetsformål. Den klare avgrensningen innebærer at forordningens strenge regime ikke vil gjelde bruk av kunstig intelligens hos de norske sikkerhetstjenestene. USA, Kina og andre sentrale teknologiske stater arbeider med å vedta lover som vil etablere lignende regimer de neste årene. I tillegg finnes det en rekke initiativer og samarbeidsfora hvor disse problemstillingene behandles, og som er omtalt i del VII Internasjonal forebyggende praksis.
+
+## EUs forordning om digitale tjenester
+
+Forordning om digitale tjenester, (*Digital Services Act*(DSA)), retter seg særlig mot plattformselskapene. Den adresserer nye utfordringer som plattformøkonomien fører med seg, blant annet presiserer den plattforselskapenes plikter når det gjelder å fjerne ulovlig innhold.
+
+Formålet til DSA er blant annet å begrense spredning av falske nyheter, desinformasjon og ulovlig innhold på nettet. Forordningen stiller strenge krav til kontroll og innsyn, og pålegger plattformselskapene ansvar for innhold som spres på egne plattformer. De største selskapene må blant annet vurdere, håndtere og minimere risikoen ved tjenestene de tilbyr. Risikoen kan være forbundet med hvordan tjenestene er utformet, hvilke funksjoner de har, og hvordan de brukes. Risiko-regimet som EU oppretter under forordningen om kunstig intelligens vil inngå som en del av risikobildet som plattformselskapene må forholde seg til.
+
+DSA i kombinasjon med AIA innebærer at internettbaserte plattformer, særlig de store selskapene, pålegges en rekke krav. Plattformene må sørge for mekanismer som gjør det enkelt å fjerne ulovlig innhold og gå til anmeldelse. De må også kunne begrunne hvorfor noe fjernes, de må gi klageadgang, og de må rapportere hvor mye innhold som er blitt fjernet og redigert. Plattformselskapene må videre sikre at selgere på nettet kan spores på handelsplattformer. De største internettbaserte plattformene skal dessuten utarbeide risikovurderinger i forbindelse med systemiske trusler mot samfunnet. Pålegg går også ut på å dele data med myndigheter og forskere.[^922]
+
+DSA skal håndheves delvis av statene og delvis sentralt av EU. Hver stat skal utpeke kompetente myndigheter som gis tilsynsoppgaver nasjonalt. I tillegg skal hvert medlemsland utpeke en uavhengig nasjonal DSA-koordinator, som skal føre tilsyn med andre aktører som faller inn under DSA. På europeisk nivå gir DSA EU-kommisjonen fullmakt til å føre direkte tilsyn med de største selskapene, det vil si selskaper som når ut til mer enn ti prosent av EUs befolkning, omtrent 45 millioner mennesker.[^923] DSA utfordrer plattformenes utilstrekkelige egenregulering og «er den klart viktigste lovmessige nyvinningen for selskapenes innholdsansvar».[^924] Til tross for forbedringer som gir mer innsyn i hvordan selskapene opererer, og hvordan de bruker og behandler data, vil DSA ikke løse alle utfordringer med å redusere ekstremisme på nettet. Forordningen kan også ha noen negative virkninger.[^925]
+
+For det første pålegger DSA også mindre selskaper ansvar. De kan imidlertid mangle nok ressurser til å bekjempe ekstremisme på nettet. De største plattformene som Meta, Instagram, YouTube, Tiktok og X og Amazon har store teknologiske og menneskelige ressurser, og kan raskt fjerne ekstremistisk innhold. Mindre plattformer og oppstartsbedrifter kan derimot få utfordringer med å implementere og følge forskriftene. Kravene kan få en nedkjølende effekt på innovasjon og oppstartsbedrifter i teknologibransjen. Mangel på moderatorer kan gjøre det enkelt for ekstremistiske aktører å unngå moderering.[^926]
+
+DSA forbyr ekstremistisk innhold. Ekstremister bruker imidlertid sosiale medier og ny teknologi til å promotere ekstremistisk innhold og påvirke brukere, og er fleksible i sine metoder. De tilpasser seg raskt nye regler og utvikler strategier for å unngå utestengelse fra plattformer. Både høyreekstremister og ekstreme islamister kan unngå å bli sensurert eller utestengt fra plattformer ved å tilpasse budskapet, for eksempel ved å endre begreper. Det gjør at vanlige strategier for moderering på nett (forby ord, begreper og symboler) raskt blir ineffektive. Et eksempel er den før nevnte videoen av Christchurch-terroren i 2019, som Facebook Live fjernet kort tid etter hendelsen. Støttespillere la imidlertid ut kopier av opptaket på YouTube, LiveLeak, BitChute og forskjellige arkivsider. Moderatorene slet med å fjerne de forskjellige innleggene fordi brukere manipulerte videoen nøye ved å endre videokvaliteten og spille inn videoen på nytt for å unngå enkel gjenkjenning.
+
+DSAs modell for innholdsmoderering kan også gå glipp av enkelte av de metoder som brukes til å spre ekstremisme på sosiale medier. Algoritmiske rangeringsendringer kan dempe promotering av hatefullt innhold, men de hindrer ikke influensere i å spre ekstremistisk innhold på plattformene sine. For eksempel har høyreekstreme kvinner og alt-right-influensere utnyttet strukturen til sosiale medier for å nå ut med sin ideologi til et stort publikum.[^927] YouTube kan også brukes til å påvirke brukere til å bevege seg videre mot plattformer med svakere eller få regler for innholdsmoderering. Selv om DSA vil gi viktige redskaper for å forebygge spredning av ekstremistisk innhold på nett, vil også ekstreme krefter tilpasse seg og finne nye veier til å formidle og spre sitt budskap.
+
+Forordningen er for tiden til vurdering i Norge og de andre EFTA-landene, og det er opprettet en arbeidsgruppe ledet av Digitaliserings- og forvaltningsdepartementet.[^928] Arbeidsgruppen har blant annet begynt prosessen med å vurdere mulige modeller for den nasjonale håndhevingen. Av Norges posisjonsnotat om forordningen følger det at regjeringen anser det som en fordel om forordningen blir en del av EØS-avtalen.[^929] I september 2023 ble det publisert en rapport om DSA og aktører i det norske internettmarkedet. Rapporten fremhevet omfanget av aktører og kompleksiteten i markedet for internettbaserte plattformer. Rapporten fremhevet at nasjonal håndheving av forordningen er avhengig av høy teknologi- og regelverkskompetanse. Rapporten er bestilt av Nasjonal kommunikasjonsmyndighet, som er en mulig aktuell kandidat som DSA-koordinator og nasjonal tilsynsmyndighet.[^930]
+
+Del IV
+
+Radikalisering
+
+# Innledning
+
+Et av de store spørsmålene på ekstremismefeltet er hvorfor noen radikaliseres. For å svare på dette må man se nærmere på de som radikaliseres – hvem er de, og hva har de opplevd? Hva er det som motiverer og trekker noen inn i voldelig ekstremisme?
+
+Det er gjort flere forsøk på å forklare hvordan og hvorfor radikalisering skjer, og det finnes mange ulike teorier og modeller. Sosioøkonomiske forhold, ideologi og sosiale relasjoner som vennskap og slektskap er faktorer som ofte trekkes frem. Det er imidlertid ulike oppfatninger av hvordan disse faktorene samvirker, og hvordan de skal vektes.
+
+Kommisjonens mandat omfatter både voldelig ekstremisme og ekstremisme som aktiv motstand mot menneskerettigheter og demokrati. Denne delen handler om voldelig ekstremisme. Det finnes også flere forståelser av begrepet radikalisering. Kommisjonen legger til grunn PSTs forståelse av radikalisering.[^931] Dette er i tråd med mandatet. Denne går ut på at radikalisering er en prosess der en person utvikler aksept for eller vilje til aktivt å støtte eller delta i voldshandlinger for å oppnå politiske, religiøse eller ideologiske mål.
+
+Denne delen ser nærmere på eksisterende kunnskap om hvordan og hvorfor noen radikaliseres, hvem de radikaliserte er, og hvordan man kan fange opp dem som er i ferd med å bli radikalisert. Dette omfatter ulike modeller og teorier for å forklare og beskrive radikaliseringsprosesser, inkludert de som brukes av norske myndigheter. Risiko-, sårbarhets- og beskyttelsesfaktorer for voksne og barn og motivasjonsfaktorer for radikalisering og samspillet mellom fysiske og digitale miljøer omtales også. Det såkalte bekymringsarbeidet og bruken av risikovurderingsverktøy er også inkludert i denne delen. Arbeidet med å forebygge radikalisering og hjelpe personer ut av radikaliseringsprosesser er omtalt i del V. Kommisjonens egen gjennomgang av saker om norske ekstremister og deres radikalisering følger i del VIII.
+
+# Hvordan skjer radikalisering?
+
+Det finnes ulike teorier og modeller for å beskrive eller forklare radikaliseringsprosesser. I dette kapittelet redegjøres det for noen av disse.
+
+## Lineære modeller
+
+Noen av modellene som forsøker å beskrive radikaliseringsprosesser er stegvise og lineære. Et eksempel er å fremstille radikaliseringsprosessen som en trapp som gradvis blir smalere (*Staircase to Terrorism*). Det er få som vil gå helt til toppen av trappen og gjennomføre en terrorhandling.[^932]
+
+Trappen har flere etasjer:
+
+- Grunnetasjen omfatter alle mennesker i samfunnet. De som oppfatter levevilkårene sine som rimelige og aksepterer gjeldende politikk, vil forbli der.
+
+- De som beveger seg opp i første etasje, ønsker å kjempe mot opplevd urettferdighet og ser på muligheter for å forbedre situasjonen sin, for eksempel gjennom legitim politisk aktivisme og protest.
+
+- De som ikke er fornøyde med de tilgjengelige mulighetene eller virkemidlene, beveger seg opp i andre etasje. Her ser man etter noen å legge skylden på og retter sin politiske misnøye og sitt sinne mot myndighetene eller etablerer fiendebilder av andre.
+
+- I tredje etasje søker personen seg til andre som har samme tankesett, og som aksepterer at vold er et middel for å nå målet.
+
+- Går en person videre til fjerde etasje, innebærer det at gruppen som personen har søkt seg til, isolerer seg og etablerer et bilde av «oss mot dem».
+
+- I den siste etasjen tyr personene til slutt til vold for å oppnå politisk endring eller omveltning.
+
+Et sentralt poeng i denne modellen er at etasjene eller trinnene kommer i en bestemt rekkefølge, og at de bygger på hverandre.[^933]
+
+En annen kjent tilnærming kalles *Social Movement Theory* og inkluderer konseptet «kognitiv åpning»,[^934] som blant annet brukes på det offentlige nettstedet utveier.no.[^935] Målet med denne modellen er å forstå hvorfor personer som bor i Vesten, slutter seg til ekstreme islamistiske grupper. Teorien inkluderer fire prosesser som øker risikoen for at en person vil trekkes til ekstrem islamisme og til slutt bli overbevist om å bidra til terror.
+
+- Den første av fasene er en såkalt kognitiv åpning, som er en tilstand hvor personen er særlig sårbar og mottakelig. Tilstanden er gjerne forårsaket av en krise, traumatisk hendelse eller ubehagelig opplevelse, enten på individnivå eller som en mer kollektiv erfaring.
+
+- En slik åpning vil ofte sette i gang den andre fasen, som er en søken etter mening, ofte religiøst rettet.
+
+- Tredje fase kalles *frame alignment* (rammeforankring) og innebærer at den aktuelle personen fatter interesse for en ekstremistisk gruppe og opplever at gruppens verdensbilde gir mening.
+
+- Den fjerde og siste fasen kan ifølge teorien bare inntreffe etter at personen har gått gjennom de andre fasene. Her blir personen sosialisert inn i den ekstreme organisasjonen via religiøs opplæring og aktiviteter som tilrettelegger for indoktrinering.[^936]
+
+Gjennom en case-studie av den ekstreme grupperingen Al Muhajiroun i Storbritannia ble det dokumentert at karismatiske lederskikkelser og farsfigurer i ekstremistiske miljøer har stor betydning for rammeforankring og sosialisering.[^937]
+
+I den nasjonale veilederen for forebygging av radikalisering og voldelig ekstremisme brukes også en variant av en lineær modell, kalt radikaliseringstunnelen.[^938] Den beskriver hvordan individer som i utgangspunktet ikke har en intensjon om å bruke vold, utvikler denne intensjonen over tid dersom bestemte faktorer virker inn. Veilederen viser til at personen vil bli eksponert for et snevert og ensidig syn på verden, og den trekker frem blant annet betydningen av radikalisatorer, altså personer som motiverer eller inviterer inn i et ekstremt fellesskap, og utløsere i form av personlige kriser eller lignende. Det vektlegges at ikke alle går gjennom hele tunnelen, men at noen gjør det – enkelte raskere enn andre. Mens noen ender opp med voldsintensjon og ‑kapasitet, er det andre som ikke gjør det.[^939]
+
+Radikaliseringstunnelen har imidlertid ikke et godt forskningsmessig belegg, og modeller som fremstiller radikalisering som en lineær, stegvis prosess, har generelt blitt utfordret og kritisert. Noe av kritikken går på at det er lite empiri som understøtter modellene, og at det finnes flere eksempler på at personer som har begått ekstremistisk vold, ikke har gått gjennom alle stegene slik modellene beskriver. Modellene er også kritisert for å legge for mye vekt på kognitive prosesser sammenlignet med det sosiale.[^940] Den såkalte *bunch of guys*-teorien legger for eksempel til grunn at de sosiale båndene gjerne kommer først, enten ved at et vennenettverk utvikler seg til et terrornettverk, eller ved at en person blir rekruttert til ekstremistiske grupper av en venn eller slektning.[^941]
+
+## Andre tilnærminger til radikalisering
+
+Modellene ovenfor forutsetter en kausalitet mellom ekstreme holdninger eller ideer og voldelige handlinger. Endringer i holdninger forårsaker imidlertid ikke nødvendigvis endringer i handlinger. En alternativ tilnærming kan derfor være begrepsparene radikalisering/deradikalisering og deltakelse/avvikling (*engagement/disengagement*)».[^942] Radikalisering/deradikalisering handler om endring i holdningen til å bruke vold som politisk virkemiddel, mens det andre refererer til endret atferd, det vil si deltakelse i eller avvikling av voldelige aktiviteter. Denne tilnærmingen legger til grunn at holdninger ikke nødvendigvis forårsaker ekstremistisk vold eller deltakelse i ekstreme grupper. Årsaksforholdet kan like gjerne være motsatt. Dette innebærer på den ene siden at en ekstremist kan slutte å bruke vold uten å kvitte seg med sin ekstremistiske ideologi, og på den andre siden at en person kan fortsette med ekstremistisk vold selv om holdningene endrer seg.[^943]
+
+Et slikt skille mellom holdninger og handlinger kan imidlertid stå i motsetning til et holistisk blikk på ekstremismen.[^944] Denne tilnærmingen vektlegger at man bør ta høyde for hvordan slike prosesser forholder seg til hverandre, og være oppmerksom på den historiske og politiske konteksten ekstremismen oppsto og eksisterer i.[^945] At det ikke er noen absolutt sammenheng mellom holdning og handling i forbindelse med radikalisering, gjør det også vanskelig å vurdere når tiltak skal iverksettes.[^946]
+
+Det har blitt gjennomført empiriske studier som har undersøkt fellestrekk og faktorer ved personer som ender opp med å begå ekstremistisk vold.[^947] Disse studiene måler korrelasjon mellom bakgrunnsvariabler som alder, kjønn, sosioøkonomisk bakgrunn og ekstremistisk vold. De kan fortelle noe om hva som karakteriserer flertallet av dem som ender opp som voldelige ekstremister. En svakhet ved slike studier er at de ikke gir årsakssammenhengen. De forklarer ikke hvorfor det store flertallet med samme bakgrunn som ekstremister ikke blir ekstremister, og hvorfor mange som skiller seg fra gjennomsnittsekstremisten, for eksempel gjennom å ha relativt god sosioøkonomisk status, likevel blir voldelige ekstremister. Årsaksforholdene vil i mange tilfeller være så komplekse at individuelle egenskaper og historie ikke vil være nok til å gi en «terrorist-profil» som vil kunne anvendes på andre personer i nåtiden eller i fremtiden.[^948]
+
+Radikalisering kan skje innen alle typer livssyn, kulturell bakgrunn, ideologier og politiske retninger. Det kan være mange ulike innganger til radikaliseringsprosesser, og forløpene er individuelle og varierer i tempo, varighet og innhold.[^949] Flere som gjennomgår en form for radikaliseringsprosess, ender ikke opp med å begå ekstremistisk vold. Det finnes også eksempler på personer som ender opp med å begå for eksempel politisk vold, men som ikke kan sies å ha gjennomgått en «typisk» radikaliseringsprosess.[^950]
+
+Radikalisering er med andre ord ikke en enveisgate, og det er ikke automatikk i overgangen fra ekstreme politiske holdninger til voldelig ekstremisme. Noen beveger seg først i retning av voldsstøttende ideologi, men deretter bort derfra.[^951] Som gjennomgangen ovenfor viser, gir ikke forskningen entydige svar på hva som kjennetegner en radikaliseringsprosess. Radikalisering er et sammensatt fenomen, og selv om mange modeller søker å forklare radikalisering som en lineær prosess hvor den ene fasen etterfølges av den andre, er det nok flere holdepunkter for at radikalisering vanligvis er en ikke-lineær og dynamisk prosess.[^952]
+
+# Risiko-, sårbarhets- og beskyttelsesfaktorer
+
+## Hvilke faktorer kan påvirke en person som radikaliseres?
+
+Mange ulike forhold kan påvirke faren for at en person radikaliseres til voldelig ekstremisme. Eksempler på slike faktorer kan være traumer, løs tilknytning til arbeidslivet eller opplevd avmakt. I regjeringens nasjonale veileder for forebygging av radikalisering og voldelig ekstremisme brukes begrepet risikofaktorer, mens PST i sine rapporter bruker sårbarhetsfaktorer.[^953] Mens «risiko» språklig sett peker på faren for at personen radikaliseres og slik kan utgjøre en trussel for samfunnet, indikerer ordet «sårbarhet» i større grad at det handler om faktorer ved individene eller deres bakgrunn, delvis utenfor deres kontroll, som gjør dem mer utsatt for radikalisering. Disse to betegnelsene brukes ofte om de samme faktorene. I det følgende vil kommisjonen bruke begrepet risiko- og sårbarhetsfaktorer for å dekke begge perspektiver. Beskyttelsesfaktorer er på sin side forhold som demper risikoen for å utvikle problemer når risiko- og sårbarhetsfaktorer er til stede. Dette kan for eksempel være stabile sosiale relasjoner.
+
+For å forstå hva som kan være årsakene til radikalisering, er det viktig å ikke bare se på enkelte faktorer, men også å ta hensyn til samspillet mellom faktorene. I den nasjonale veilederen om radikalisering og voldelig ekstremisme illustreres dette gjennom den holistiske modellen, jf. figur 19.1.
+
+Den holistiske modellen
+
+Den holistiske modellen består av fire sirkler som representerer de fire ulike nivåene *individ*, *relasjon*, *samfunn* og *struktur.* Den innerste sirkelen viser til forklaringer som er knyttet til enkeltindividet, mens den andre handler om relasjonelle faktorer. Den tredje sirkelen representerer samfunnsnivået, som kan være for eksempel utdanning, arbeidsliv og sosiale nettverk. Den fjerde og ytterste sirkelen representerer større kulturelle og strukturelle forklaringer. Dette kan være diskriminerende strukturer i samfunnet og økonomisk status. Det er risiko- og beskyttelsesfaktorer på alle nivåene. Modellen brukes blant annet av Verdens helseorganisasjon (WHO).
+
+Kilde: Justis- og beredskapsdepartementet, 2015b
+
+En annen måte å illustrere de ulike nivåene på er en såkalt «økologisk modell».[^954] Modellen illustrerer at det er faktorer på mange ulike nivåer som kan spille inn i en persons radikaliseringsprosess, at faktorene vil ha forskjellig innvirkning på den enkelte, og at samspillet mellom dem vil være unikt i hver enkelt sak.
+
+Risiko- og sårbarhetsfaktorer
+
+Nedenfor er en oversikt over eksempler på risiko- og sårbarhetsfaktorer som ofte nevnes i sammenheng med radikalisering og voldelig ekstremisme. Oversikten er hentet fra SaLTos «Veileder ved bekymring – Hvordan forebygge og håndtere hatkriminalitet og voldelig ekstremisme».<sup>1</sup>
+
+Personlige faktorer
+
+- Marginalisert/diskriminert
+
+- Mangler/søker tilhørighet
+
+- Skolerelaterte problemer
+
+- Psykiske problemer
+
+- Mangler kunnskap
+
+- Traumatiske opplevelser
+
+- Tap av forsørger/omsorgsperson
+
+- Søkende etter svar
+
+- Individuell sårbarhet
+
+- Betrakter seg selv som offer
+
+- Mangler selvkontroll/impulsiv
+
+Familiemessige faktorer
+
+- Påvirkning av transnasjonalt familieliv og nettverk
+
+- Foreldre som sliter i foreldrerollen
+
+- Sosiale problemer i familien
+
+- Psykiske problemer i familien
+
+- Rusmisbruk
+
+- Fattigdom eller arbeidsledighet
+
+- Vold eller annen omsorgssvikt
+
+- Ekstreme sympatier hos venner/familie
+
+Sosiale faktorer
+
+- Lav sosial status
+
+- Mangler/søker tilhørighet
+
+- Marginalisert ungdom
+
+- Opplevd diskriminering
+
+- Negativ påvirkning av venner
+
+- Liten/ingen deltakelse i sosiale fellesskap
+
+- Arbeidsledig
+
+- Livsstil som omfatter kriminalitet
+
+- Utrygt lokalområde
+
+Ideologiske og kulturelle faktorer
+
+- Politisk debatt – kulturell identitet
+
+- Opplevelse av avmakt, ikke få komme til, bli kansellert
+
+- Misnøye med sosial og økonomisk urettferdighet
+
+- Legitimering og rettferdiggjøring av vold for å nå mål
+
+- Sympati for absolutte løsninger
+
+- Konspirasjonsteorier
+
+- Polariserende fiendebilder
+
+<sup>1</sup> Listen er hentet i sin helhet fra Oslo politidistrikt og Oslo kommune 2015
+
+\[Boks slutt\]
+
+Det er ofte en eller flere risiko- og sårbarhetsfaktorer som ligger til grunn hos den som radikaliseres.[^955] Både norske og andre europeiske studier av radikalisering viser at mange har hatt ulike typer problemer i livet i forkant av radikaliseringsprosessen.[^956] Noen studier har også vist at dette brukes bevisst av ekstreme miljøer og ledere i forsøket på å rekruttere personer.[^957] Risiko- og sårbarhetsfaktorer utgjør imidlertid ikke nødvendigvis de utløsende årsakene til radikalisering, men kan ses som medvirkende årsaker.[^958] At noen for eksempel har hatt en vanskelig oppvekst eller har psykiske vansker eller rusproblemer, behøver følgelig ikke å indikere fare for radikalisering og ekstremisme.[^959] Ofte handler det om helt grunnleggende menneskelige behov som ikke oppfylles.[^960] I beskrivelsen av risiko- og sårbarhetsfaktorer brukes ofte betegnelsen «opplevelsen av», for eksempel opplevd avmakt, utenforskap eller krenkelse. Uten å underkjenne den faktiske belastningen, er den subjektive oppfatningen av egen situasjon ofte utslagsgivende. For eksempel kan man objektivt sett befinne seg i en trygg sosioøkonomisk situasjon og likevel oppleve harme over at andre får de godene man mener man selv eller ens gruppe har krav på, slik man blant annet ser i høyreekstremistisk propaganda.[^961]
+
+Beskyttelsesfaktorer
+
+Nedenfor er en liste over noen beskyttelsesfaktorer som ofte nevnes i forbindelse med radikalisering og voldelig ekstremisme. Listen er hentet fra SaLTos «Veileder ved bekymring – Hvordan forebygge og håndtere hatkriminalitet og voldelig ekstremisme»<sup>1</sup>:
+
+Personlige faktorer
+
+- Reflektert ungdom
+
+- God skolesituasjon
+
+- Hobbyer eller aktiv i idrett
+
+- Mestringsfølelse
+
+- Robust
+
+- Opplevelse av mening
+
+- Opplevelse av tilhørighet
+
+- Selvtillit
+
+- Livskvalitet
+
+- God helse
+
+Familiemessige faktorer
+
+- Ressurssterk familie
+
+- Høy sosioøkonomisk status
+
+- Støttende foreldre
+
+- God kommunikasjon og samspill
+
+Sosiale faktorer
+
+- Positiv påvirkning av venner
+
+- Skole eller arbeid
+
+- Prososiale venner
+
+- Deltakelse i storsamfunnet
+
+- Deltakelse i organiserte eller/og uorganiserte aktiviteter
+
+- Trygt lokalområde/-samfunn
+
+Ideologiske og kulturelle faktorer
+
+- Forståelse for demokrati, valgfrihet, toleranse og respekt for mangfold
+
+- Kritisk til kilder og informasjon
+
+<sup>1</sup> Listen er hentet i sin helhet fra Oslo politidistrikt og Oslo kommune 2015
+
+\[Boks slutt\]
+
+De fleste mennesker har en eller flere beskyttende faktorer. Dette kan være alt fra personlige faktorer som evnen til kritisk tenkning eller mestringsfølelse, til faktorer som opplevelsen av gode familieforhold, gode sosiale nettverk eller et generelt stabilt miljø.[^962] Opplevd tilhørighet til samfunnet gjennom skole, trossamfunn, idrett eller andre aktiviteter i nærmiljøet kan også spille inn. I noen tilfeller kan imidlertid det som tilsynelatende fremstår som beskyttende faktorer, slik som familieforhold og sosialt nettverk, slå ut motsatt dersom familie eller venner selv er radikalisert.
+
+Norske radikaliserte: Kjønn, alder og lokasjon
+
+PST har gitt ut to rapporter om bakgrunnen til personer i ekstreme islamistiske miljøer og personer i høyreekstreme miljøer i Norge.<sup>1</sup>
+
+I begge de representative utvalgene som PST har gjort, er menn i betydelig overvekt. En forklaring på denne kjønnsfordelingen i høyreekstreme miljøer kan være at det maskuline blir idealisert og fremhevet, og at det er en tydelig antifeminisme og idealisering av tradisjonelle kjønnsrollemønstre. Dette kan være med på å gjøre disse miljøene mindre attraktive for kvinner. Når det gjelder ekstrem islamisme, er det menn som tilbys rollen som «hellig kriger». Dette endret seg noe etter fremveksten av IS, som i større grad enn al-Qaida laget propaganda rettet mot kvinner og fremhevet at kvinnene hadde en rolle i byggingen av den islamske staten ved å stifte familie. PST pekte på at før Syria-konflikten var det nesten ingen kvinner i de kjente ekstremistiske miljøene i Norge, mens kvinner på tidspunktet for rapporten utgjorde hele tolv prosent av utvalget.
+
+Når det gjelder alder, fant PST at personer som radikaliseres til høyreekstremisme, i dag utgjør et bredere aldersspenn enn det som var tilfellet på 1990-tallet fordi utvalget inkluderer flere eldre personer. Dette gjelder særlig den innvandrings- og islamfiendtlige høyreekstremismen. Noen forskere har påpekt at dette innebærer at man må tenke nytt rundt forebygging, ettersom mange av dem som er høyreekstreme, verken går på skole eller deltar på andre arenaer som ungdomsklubber.<sup>2</sup> Dette bredere aldersspennet skiller høyreekstremismen fra ekstreme islamistiske miljøer, som er preget av primært unge menn.
+
+I sitt utvalg har PST sett at de fleste personene i høyreekstreme miljøer er bosatt på Østlandet. Kun et mindretall er bosatt i hovedstaden, noe som ifølge PST kan tyde på at grobunnen for høyreekstreme holdninger er noe mindre i storbyer enn i mer landlige strøk. En langt større andel ekstreme islamister var derimot bosatt i Oslo.
+
+I del VIII omtales saksgjennomgangen der kommisjonen selv har gjennomgått 20 saker om norske radikaliserte.
+
+<sup>1</sup> Politiets sikkerhetstjeneste 2016; Politiets sikkerhetstjeneste 2019
+
+<sup>2</sup> Hansen, Lied, Krokene, Bratlie og Hovdal 2023
+
+\[Boks slutt\]
+
+## Sosiale og økonomiske forhold
+
+Risiko- og sårbarhetsfaktorer for radikalisering inkluderer utfordringer i en persons sosioøkonomiske situasjon. Slike utfordringer kan være lav sosial status, manglende utdanning, løs tilknytning til arbeidslivet, arbeidsledighet eller dårlig råd.
+
+De fleste i Norge har gode levekår og relativt god økonomi. Inntektsforskjellene i Norge har imidlertid økt de siste årene, slik det har gjort i andre land. Andelen lavinntektshusholdninger har blitt stadig større,[^963] og en av fem nordmenn har nå en sårbar økonomi.[^964] Det er vanskelig å ikke kunne eller oppleve å ikke kunne bedre sin økonomiske eller sosiale status i samfunnet. Dette kan føre til sosial frustrasjon.[^965] Økte sosiale forskjeller kan også forsterke en følelse av urettferdighet, noe som i seg selv er en risikofaktor.
+
+Arbeidslivet er noe som i all hovedsak er helsefremmende, da det er med på å gi økonomisk trygghet, struktur i hverdagen, tilhørighet og økt selvfølelse. En stor del av norske ekstremister er ikke i arbeid, eller har en løs tilknytning til arbeidslivet.[^966] Dette kan gi en opplevelse av manglende tilhørighet til samfunnet. Lediggang kan gi tid til å fordype seg i ekstremt tankegods. Kravene til formell utdanning er økende i norsk arbeidsliv, og kan gjøre det vanskelig for personer med lav utdanning å komme inn på arbeidsmarkedet.[^967]
+
+At personer som står utenfor arbeidslivet og har dårlig økonomi radikaliseres, kan kalles hypotesen om sosial ekskludering.[^968] Forskningen på dette er ikke helt entydig. En studie i Storbritannia viste at blant medlemmer av det høyreradikale partiet English Defence League var ikke arbeidsledigheten eller andelen bosatte i sosiale boliger større enn i befolkningen generelt. Imidlertid støttet studien opp om at de radikaliserte var lavt utdannede, og kun et fåtall hadde høyere utdanning.[^969]
+
+Også når det gjelder utdanningsnivå, er bildet sammensatt. Blant annet kan det være forskjell på utdanningsnivået til lederne og «fotsoldatene» i ekstreme grupper. I Norge er det gjennomgående lavt utdanningsnivå både i de ekstreme islamistiske miljøene og de høyreekstreme miljøene.[^970] Omtrent halvparten av de ekstreme islamistene og to femtedeler av høyreekstremistene har kun fullført grunnskolen. I de ekstreme islamistiske miljøene har så å si ingen fullført høyere utdanning, mens dette tallet er noe høyere i de høyreekstreme miljøene. Utdanningsnivået er imidlertid vist å være lavere enn i befolkningen generelt. I 2016 pekte PST på at siden undersøkelsen de gjorde av ekstreme islamistiske miljøer i Norge viste liten sosial variasjon, kunne det stilles spørsmål ved om dette er «det fulle norske bildet», eller om det også foregikk radikalisering i miljøer som var mer ressurssterke, uten at PST har fanget dette opp.[^971] Kommisjonen er ikke kjent med informasjon som tilsier at dette bildet har endret seg. I 2023 ble imidlertid en ung mann dømt til fem år i fengsel for deltagelse i al-Qaida mens han studerte medisin i utlandet. Han hadde samtidig flere risiko- og sårbarhetsfaktorer fra sin barndom.[^972]
+
+Forskning på islamistiske terrorplaner i Europa har vist at det store flertallet av de involverte manglet høyere utdanning, men at det finnes unntak i form av terrorister som var høyt utdannet, og som gjerne fungerte som leder av terrorcellen.[^973] Selv om det er variasjoner, viser studier at ekstreme islamistiske ledere internasjonalt jevnt over har et høyere utdanningsnivå.[^974] Det er vist at en uforholdsmessig stor andel av ekstreme islamister har ingeniørbakgrunn. De fleste av disse ble ikke rekruttert inn i ekstremisme, men var heller en som etablerte eller ledet gruppen eller nettverket.[^975]
+
+Ulike studier har også sett på utdanningsnivå og arbeidslivstilknytning hos fremmedkrigere som dro til Syria. I Europa kom flertallet fra de lavere sosioøkonomiske rekkene i samfunnet, med lavere utdanningsnivå og høyere nivåer av arbeidsledighet.[^976] Dette stemmer med bildet av de norske fremmedkrigerne som dro til Syria.[^977] Det er imidlertid noen landvariasjoner, blant annet syntes fremmedkrigere fra Storbritannia å ha noe høyere sosioøkonomisk status enn fremmedkrigere fra andre vestlige land.[^978]
+
+En komparativ analyse av ulike studier viste motstridende konklusjoner når det gjelder forholdet mellom arbeidsledighet og utstrømningen av fremmedkrigere, noe som kan være et tegn på at problemet handler om relativ deprivasjon[^979] og ikke faktisk fattigdom.[^980] Andre studier har vist et noe sammensatt bilde. En FN-rapport som inkluderte fremmedkrigere med bakgrunn fra Europa, Midtøsten og Nord-Afrika, kom frem til at det var et relativt lavt utdanningsnivå og en høy andel som enten var arbeidsledige eller hadde lavtlønnede jobber,[^981] mens en rapport fra Verdensbanken kom frem til at en høy andel av fremmedkrigerne[^982] fra Midtøsten og Nord-Afrika som hadde sluttet seg til IS, hadde videregående skole eller universitetsutdanning.[^983]
+
+Mange av fremmedkrigerne fra Norge var født i et annet land og kom til Norge i ungdomsårene. I PSTs undersøkelse av personer tilknyttet det ekstreme islamistiske miljøet i Norge hadde tre femtedeler selv innvandret til Norge, og kun en femtedel av dem med minoritetsbakgrunn var født og oppvokst i Norge. Dette bildet skiller seg fra andre land. PST har pekt på at gruppen som selv har innvandret til Norge, har måttet tilpasse seg det norske samfunnet i barndoms- og ungdomstiden. Mange har bakgrunn fra konfliktområder. Siden det er så mange av dem i undersøkelsen, er det grunn til å tro at dette er en situasjon mange av dem har funnet utfordrende, eller at de har med seg vanskelige livserfaringer fra tiden før de kom til Norge.[^984]
+
+## Radikalisering og psykisk helse
+
+Psykiske helseplager er vanlig i befolkningen. Mange vil få en diagnose i løpet av livet.[^985] Det antas at bare en av tre personer med alvorlige psykiske lidelser i Norge har en diagnose. Det er funnet at psykiske lidelser hos norske barn er mindre utbredt enn hos barn i andre vestlige land.[^986]
+
+Psykisk helse hos gjerningspersonen er ofte et tema når man prøver å forklare hvorfor noen begår ekstremistisk vold.[^987] Psykisk helse er for eksempel ofte et tema etter terrorhandlinger.[^988] PST beskrev det slik i en rapport fra 2022:
+
+Avklaringen av hvorvidt en person som utfører en alvorlig voldshandling er motivert av en ekstrem politisk, religiøs eller ideologisk målsetning eller andre forhold som psykisk sykdom, eller en sammensetning av disse, kan være svært vanskelig. I slike tilfeller vil avklaringen som regel berøre mandatene til både politi, PST og helsetjenestene. (Politiets sikkerhetstjeneste, 2022c)
+
+Det er vist at såkalte soloterrorister har 13 ganger så stor risiko for å ha en psykisk lidelse som ekstremister som er medlemmer av grupper. Disse personene er vanskeligere å oppdage når de ikke tilhører et kjent miljø eller har en forhistorie med vold eller ekstremistisk atferd.[^989]
+
+I undersøkelser gjort av PST hadde en tredjedel av personene fra det høyreekstreme miljøet i Norge en form for psykisk lidelse eller utviklingsforstyrrelse.[^990] For utvalget fra det ekstreme islamistiske miljøet var tallet cirka 20 prosent, men PST anslår at det kan være flere.[^991] I en komparativ studie som er utført i Norge om ekstrem islamistisk og høyreekstrem terror er det funnet at «terroristenes psykiske helse er et tema i 36 prosent av de høyreekstreme sakene. Det samme gjelder bare fire prosent av de islamistiske terrorsakene».[^992]
+
+Hva er psykisk helse?
+
+Psykisk helse som begrep er utfordrende å definere og konkretisere. Verdens helseorganisasjon (WHO) definerer psykisk helse som «en tilstand av velvære som setter individet i stand til å håndtere belastninger i livet, realisere sine egenskaper, leve godt og jobbe godt og bidra til (lokal)samfunnet».<sup>1</sup> Psykisk helse spenner i en slik definisjon fra det positive og mestrende («friske») i den ene enden til det som kan kalles plager og sykdom i den andre. Psykisk helse eller uttrykk for psykisk helse varierer også mye fra kultur til kultur.
+
+<sup>1</sup> Verdens helseorganisasjon 2022, uoffisiell oversettelse
+
+\[Boks slutt\]
+
+Psykiske lidelser kan være en risiko- eller sårbarhetsfaktor i forbindelse med radikalisering.[^993] Mange ekstremister som har psykiske lidelser, kan få en forsterket negativ utvikling i et radikaliseringsforløp.[^994]
+
+Selv om psykisk uhelse kan være en bakenforliggende faktor i radikaliseringsporsesser, er det ikke funnet klare og enkle årsakssammenhenger mellom psykisk helse og ekstremisme. Det er krevende å balansere behovet for å identifisere sårbarhet og forhøyet risiko for radikalisering uten å underbygge en feilaktig oppfatning av at personer med dårlig psykisk helse er farlige. Deltakelse i radikaliserte grupper, radikaliseringsprosesser og påfølgende radikale handlinger kan i seg selv være årsak til psykiske plager.[^995] På grunn av den uklare sammenhengen mellom radikalisering og psykisk helse er det fare for å uriktig innrette forebyggende tiltak mot personer med psykisk sykdom, en tilnærming som kan være både stigmatiserende og problematisk i lys av diskrimineringsvernet som beskytter personer med nedsatt funksjonsevne, inkludert de med psykisk sykdom.
+
+I en gjennomgang fra 2019 om psykisk helse og ekstremisme ble det pekt på at det er to parallelle forståelser av psykiske lidelsers betydning for voldelig ekstremisme.[^996] Der fremkom det at diagnostisert psykisk lidelse bare er påvist i en liten gruppe av dem som utøver ekstremistiske voldshandlinger. Handlingene forklares mer ut fra allmennpsykologiske og samfunnsmessige forhold, og betydningen av psykisk lidelse er tonet ned. Derimot ble det funnet en forhøyet forekomst av psykisk lidelse i studier av soloterrorister. I gjennomgangen argumenteres det for at det ikke lenger er nyttig å spørre om psykisk helse eller psykisk lidelse har noe å si for radikalisering, og at man heller bør spørre hvordan og i hvilke tilfeller psykisk helse påvirker radikaliseringen. Dette er mer i tråd med en moderne forståelse av psykisk helse. Man har gått bort fra en forståelse av at psykisk helse er en tilstand som eksisterer i individet uavhengig av kontekst, og mer i retning av å forstå psykisk helse som et samspill mellom personer, grupper og omstendigheter. Psykisk lidelse forstås også mer som ytterpunkter på ulike dimensjoner heller enn som ulike kategorier av fungering. Individer kan dermed vise betydelig grad av flere problematiske trekk uten at det vil klassifiseres som psykisk lidelse. Dette inngår i den enkeltes risiko eller sårbarhet for radikalisering og vil kunne bidra til en radikaliseringsprosess. Det er derfor viktig å kartlegge psykisk helse bredere enn bare med tanke på diagnoser. Hva kan være den enkeltes «triggere», og hva er de beskyttende faktorene for den enkelte?[^997]
+
+Risiko eller sårbarhet på individnivå kan forstås som sammenhengen mellom individuelle (genetiske) trekk og de belastende og beskyttende erfaringene den enkelte har med seg. Dette vil i et livsløp ikke være unike risiko eller sårbarheter for radikalisering, men heller generelle sårbarheter som for noen slår ut som radikalisering.
+
+Tilregnelighet
+
+I rettssaken etter 22. juli-angrepet fikk spørsmålet om gjerningspersonens tilregnelighet mye oppmerksomhet. To ulike rettsmedisinske vurderinger kom til ulike resultater. Breivik ble av domstolen funnet å være tilregnelig.<sup>1</sup> Etter reglene som da gjaldt, var kriteriene for utilregnelighet at en person var psykotisk, bevisstløs eller psykisk utviklingshemmet i høy grad på handlingstiden.<sup>2</sup> I rettssaken mot Philip Manshaus etter terrorforsøket mot Al-Noor moskeen og drapet på stesøsteren, anførte Manshaus’ advokat at han måtte ansees strafferettslig utilregnelig. Selv mente Manshaus at han var tilregnelig, og dette ble domstolens konklusjon.<sup>3</sup> 25. juni-saken er ikke behandlet i domstolene per januar 2024, men det har i media kommet frem informasjon om at det knytter seg usikkerhet til Matapours tilregnelighet.<sup>4</sup> Spørsmålet om forholdet mellom psykisk sykdom og ekstremisme har med andre ord kommet på spissen i alle saker om ekstremistisk terror begått i Norge.
+
+Sprikende konklusjoner om tilregnelighet fra sakkyndige-rapporter i forbindelse med 22. julirettssaken førte til en omfattende prinsipiell diskusjon om tilregnelighet i strafferetten og regjeringen oppnevnte i 2013 Tilregnelighetsutvalget. Utvalget avga i oktober 2014 sin utredning, NOU 2014: 10 Skyldevne, sakkyndighet og samfunnsvern. På bakgrunn av utvalgets rapport ble reglene om tilregnelighet endret i 2019. Etter gjeldende regler skal en person som i utgangspunktet har gjort noe straffbart frikjennes dersom de hadde en «sterkt avvikende sinnstilstand» eller «sterk bevissthetsforstyrrelse» og gjerningspersonen på handlingstiden var utilregnelig på grunn av «sterkt avvikende sinnstilstand», jf. straffeloven § 20 andre ledd. Bestemmelsen omfatter også høygradelig psykisk utviklingshemming. Ved vurderingen skal det legges vekt på graden av svikt i virkelighetsforståelse og funksjonsevne på gjerningstidspunktet. Reglene for strafferettslig tilregnelighet gjennomgikk altså en vesentlig endring, og det åpnes for stor grad av rettslig skjønn. I en dom fra Høyesterett i 2023 følger det at det overordnede utgangspunktet etter forarbeidene skal være «hvorvidt det er rimelig og rettferdig å straffe tiltalte, sett hen til personens helsemessige tilstand på handlingstidspunktet».<sup>5</sup> For å verne samfunnet, kan en person som ikke er strafferettslig tilregnelig dømmes til tvungen omsorg eller tvungent psykisk helsevern.<sup>6</sup>
+
+<sup>1</sup> RG-2012-1153 (Oslo tingrett)
+
+<sup>2</sup> Straffeloven av 2005 § 44
+
+<sup>3</sup> TAHER-2020-5113 (Asker og Bærum tingrett)
+
+<sup>4</sup> Revheim-Rafaelsen 2023
+
+<sup>5</sup> HR-2023-1243-A
+
+<sup>6</sup> Straffeloven kapittel 12
+
+\[Boks slutt\]
+
+Individuell psykologisk uhelse og psykisk lidelse er jevnt over sterkere til stede hos enslige aktører enn hos radikale eller ekstreme grupper. For disse individene kan det se ut som det i større grad er sykdommen som fører til radikaliseringen, heller enn ideologi.[^998] For ekstreme grupper ser det ut til å være psykologiske prosesser som i seg selv ikke kategoriseres som psykisk lidelse, men som er innenfor det normale, som spiller sterkest inn. Her vil gruppedannelse og normer samt behov for tilhørighet ha betydning. Det er også rimelig å anta at tilhørighet i en gruppe krever en viss psykologisk helse, og at de med størst plager derfor ikke deltar.[^999]
+
+Kongsbergangrepet
+
+13\. oktober 2021 angrep Espen Andersen Bråthen tilfeldige mennesker i sentrum av Kongsberg med kniv, sverd, pil og bue. Han drepte fem personer.<sup>1</sup> Gjerningspersonen hadde uttalte psykiske problemer og var kjent for politiet for kriminalitet og truende atferd. Han var også i politiet og PSTs søkelys på grunn av uttalelser som indikerte at han kunne være radikalisert til voldelig ekstremisme. Det hadde blant annet blitt gjennomført en bekymringssamtale med ham i 2017. Like etter oppsøkte Bråthen en myndighetsperson med en advarsel, og PST gjennomførte en analyse som resulterte i at politiet burde følge med på utviklingen med tanke på mulig radikalisering til ekstrem islamisme. Anbefalingen ble imidlertid ikke formidlet til Kongsberg-politiet. Både PST og politiet mente gjerningspersonen var psykisk ustabil og burde følges opp av helsevesenet. Han var innlagt på psykiatrisk institusjon i 2019. I 2020 kom det inn flere bekymringsmeldinger til politiet, men informasjonen ble ikke videreformidlet til PST. De siste 14 månedene forut for angrepet hadde ikke mannen kontakt med verken familien, politiet eller helsevesenet. I rettssaken konkluderte domstolen med at Bråthen ikke var strafferettslig tilregnelig på gjerningstidspunktet, og han ble dømt til tvungent psykisk helsevern.<sup>2</sup>
+
+<sup>1</sup> Henriksen, Brenden, Hoel, Kruke og Myhrer 2022
+
+<sup>2</sup> TBUS-2022-6117 (Buskerud tingrett)
+
+\[Boks slutt\]
+
+## Radikalisering og rus
+
+Forholdet mellom rus og radikalisering kan ses på ulike måter. For det første er det stort overlapp mellom forhold som øker risikoen for avhengighetsproblematikk, og risiko- og sårbarhetsfaktorer for radikalisering. I tillegg foreligger noen spesifikke interaksjoner mellom rusavhengighet og radikalisering.[^1000] I undersøkelser gjort av PST forekom rusproblemer hos 42 prosent av de høyreekstreme.[^1001] Det er funnet tilsvarende for ekstreme islamister.[^1002] Hos sistnevnte er det imidlertid store kjønnsforskjeller. Seks prosent av kvinnene hadde hatt befatning med rusmidler, mens hos mennene utgjorde andelen 43 prosent.
+
+Negative barndomsopplevelser, inkludert rusbruk eller eksponering for rus, øker risikoen for et bredt spekter av psykologiske, somatiske og atferdsmessige vansker.[^1003] Rus i familien, eksempelvis foreldre med rusutfordringer, skaper utrygghet som kan føre til at barna i familien opplever utfordringer på andre områder i livet.[^1004] Deltakelse i ekstreme grupper kan paradoksalt nok være veien ut av et dårlig miljø for dem som ruser seg eller begår kriminelle handlinger.
+
+Det er ikke gjort mange studier på spesifikk sammenheng mellom radikalisering og rus, men det kan se ut til at høyreekstremisme har rus både som en del av fiendebildet (eksempelvis at «muslimene smugler dop», «de ødelegger ungdommene våre») og som et anbefalt virkemiddel for å øke egen effektivitet mens man gjennomfører voldshandlinger.[^1005] For ekstrem islamisme er bildet mer sammensatt. Det har vært spekulert på om ideologi beskytter noe mot rusbruk, og de som tidligere har utviklet avhengighet, ser ut til å bruke ekstremisme til å sone egen rusatferd, som et middel til frelse.[^1006]
+
+Det er en sammenheng mellom psykiske lidelser og rusmiddelbruk. Det er mange i rusbehandling som har en psykisk lidelse, og psykiske lidelser kan være rusutløst. Det overordnede målet med rusmiddelpolitikken er å redusere negative konsekvenser for enkeltpersoner og samfunnet. Det er kommunene som skal gi forsvarlige helse- og omsorgstjenester og bidra i det helsefremmende og forebyggende arbeidet på rusfeltet.[^1007]
+
+## Kriminalitet
+
+En stor andel personer i de høyreekstreme miljøene i Norge har begått straffbare handlinger, mange av dem voldsrelaterte. I tillegg har en stor andel selv blitt utsatt for voldshandlinger.[^1008] Også andre undersøkelser har vist forekomst av kriminalitet hos høyreekstremister. Aktive medlemmer i den nynazistiske organisasjonen DNM har vært dømt opptil flere ganger for grove voldshandlinger, annen type vold, brudd på våpenloven med mer.[^1009]
+
+Også mange av personene fra det ekstreme islamistiske miljøet har vært involvert i straffbare forhold før de ble radikalisert. I de representative utvalgene PST har benyttet i sine undersøkelser, gjelder dette to tredjedeler av mennene og en tredjedel av kvinnene.[^1010] Forskning på ekstreme islamistiske miljøer i Europa viser et variert bilde. Det er ikke uvanlig å ha begått lovbrudd, inkludert vold, i forkant av en terrorhandling, men personer uten rulleblad er også involvert i hendelser.[^1011] Nokså mange av personene som har vært involvert i IS-relatert vold var bosatt i Europa og har hatt en bakgrunn med «vanlig» kriminalitet og vold. De har beveget seg fra det man kan kalle «gatekriminalitet» til politisk-religiøs kriminalitet.[^1012] Mens det før ikke var noen måte å bli «ordentlig muslim» på utenom å slutte med kriminalitet, tilbyr voldelig ekstrem islamisme en moralsk utvei for de kriminelle. Det gjør det mulig for dem å bruke kompetansen de har fra gata, til et formål de mener kan forsvares. I tillegg kan ekstrem islamisme appellere fordi den religiøse transformasjonen blir sett på som en mulighet til å gjøre opp for gamle synder.[^1013] Det er likevel et sammensatt bilde, da de fleste i kriminelle nettverk er motstandere av voldelig ekstrem islamisme.[^1014] Noen peker på at ekstreme islamistiske grupper og kriminelle grupper i Europa rekrutterer fra den samme gruppen mennesker, noe som skaper synergier og overlappinger som har konsekvenser for hvordan personer radikaliseres og opererer.[^1015]

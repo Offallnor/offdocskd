@@ -1,1439 +1,339 @@
-# NOU 2017: 3, del 8 av 12 (side 101–113)
+# NOU 2017: 3, del 8 av 11
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/0b38fa64-nou-2017-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-3/id2537191/
 - Original-PDF: https://www.regjeringen.no/contentassets/d0171db48e3c4ce4a2a6ae39d7242b90/no/pdfs/nou201720170003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 12 tabeller, 88 figurer, 847 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 101]
+Det forventes en fortsatt nedgang i antall etterlatte barn som følge av en fortsatt forventet nedgang i dødeligheten i de aktuelle aldersgruppene. Reduksjonen i denne dødeligheten mer enn oppveier for økningen i befolkningen i alderen 0–20 år. I en ny modell hvor også barn som har mistet én forelder kan motta ytelser fram til 20 år, såfremt de fortsatt er under utdanning, forventes antall barn som har rett til ytelser å øke fra i underkant av 10 500 til i overkant av 13 000 i 2021. Det er da lagt til grunn at 90 prosent av 19-åringene og 60 prosent av 20-åringene i befolkningen er under utdanning, og at disse andelene for barn som har mistet foreldre, ikke avviker fra barnebefolkningen generelt. Antall barn som har rett til en etterlatteytelse forventes fortsatt å reduseres jevnt og utgjøre om lag 7 500 barn med en videreføring av dagens barnepensjon og 9 200 barn med en ny modell i 2040. I 2070 forventes antall etterlatte barn i framskrivningen å være 4 600 barn med en videreføring av dagens barnepensjon og om lag 5 600 barn med en ny modell.
 
-99
+**\[:figur:fig7-12.jpg\]**
 
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
+1.  Antall etterlatte barn. Historisk 1997–2015 og framskrevet 2016–2070
 
-Samlet ytelse
+Arbeids- og velferdsdirektoratet
 
-Kapittel 7
+**\[:figur:fig7-13.jpg\]**
 
-Ytelse per barn
+1.  Folketrygdens utgifter til etterlatte barn, dagens barnepensjon og framtidig ytelse. Historisk 1967–2015 og framskrevet 2016–2070. Mill. 2016-kroner
 
-26 000
+Arbeids- og velferdsdirektoratet
 
-26 000
+Figur 7.13 viser folketrygdens utgifter til ytelser til etterlatte barn i 2015 og framskrevet fra 2016 til 2070. Folketrygdens utgifter til ytelser til etterlatte barn forventes å utgjøre om lag 360 millioner kroner i 2020 med en videreføring av dagens modell for barnepensjon. En framtidig ytelse hvor ytelsen til barn som har mistet én forelder økes til 50 prosent av grunnbeløpet og mulig utbetalingsperiode forlenges til 20 år, samt hvor ytelsen til barn som har mistet begge foreldrene standardiseres til 120 prosent av grunnbeløpet, forventes å øke utgiftene i 2020 til i overkant av 620 millioner kroner, det vil si en økning på nesten 73 prosent. Det anslås at 35 prosent av økningen i utgifter i 2020 skyldes forlenget utbetalingsperiode og at 65 prosent av økningen skyldes økte og standardiserte satser for ytelser til etterlatte barn.
 
-24 000
+1.  **Eventuell konvertering av løpende barnepensjoner**
 
-24 000
+Utvalget legger opp til at nye tilfeller av barnepensjon skal innvilges etter nye regler fra det tidspunktet de trer i kraft. Utvalget antar at nye tilfeller også bør omfatte barn som i dag har barnepensjon etter å ha mistet én forelder, og som etter ikrafttredelse av nye regler også mister den andre forelderen.
 
-22 000
+Utvalget foreslår at mottakere av barnepensjon som vil få bedre ytelser med nytt regelverk, skal få den nye ytelsen, selv om de har fått innvilget barnepensjon etter dagens regelverk. I tilfeller hvor det nye regelverket vil gi en lavere ytelse foreslås det at de barna som har en løpende ytelse når nytt regelverk trer i kraft, får beholde denne etter det gamle regelverket.
 
-22 000
+Alle barn som har mistet én forelder vil komme bedre ut med nye regler. Barn som har mistet begge foreldrene kommer bedre ut med nye regler dersom de i dag har ytelser beregnet med minsteytelsen for første det barnet og ytelsen er beregnet for to eller flere søsken.
 
-20 000
+Barn som i dag har en trygdetidsavkortet ytelse vil også i hovedsak komme bedre ut med nye regler.
 
-20 000
+1.  **Utvalgets samlede vurdering**
 
-18 000
+Utvalget har vurdert ytelser til etterlatte barn som har mistet én forelder i sammenheng med forslaget til en framtidig ytelse til etterlatte voksne. Etter utvalgets oppfatning kan forslaget om å utmåle ytelsen til etterlatte under 67 år etter en fast sats og gjøre den tidsbegrenset, være et argument for å øke ytelsene til etterlatte barn som har mistet én av foreldrene.
 
-18 000
+Når det gjelder ytelser til etterlatte barn som har mistet begge foreldrene, har utvalget vurdert at det bør skje en tilnærming av disse til ytelsene til etterlatte barn som har mistet én forelder. Utvalget begrunner dette med at utbygging av velferdssystemet har bidratt til at foreldreløse barn i dag på sentrale områder er i en annen situasjon enn foreldreløse barn var da folketrygden ble innført for femti år siden. Det er i dag rimelig å legge til grunn at foreldreløse mindreårige barn ikke forsørger seg selv. Om ingen overtar foreldreansvar for barnet etter begge foreldrenes bortgang, kommer barnet inn under barnevernets omsorg.
 
-16 000
+Utvalget foreslår etter dette å øke nivået på ytelsen til barn som har mistet én forelder. Utvalget foreslår videre at dagens ordning der eldste barn som har mistet begge foreldre får en ytelse som avhenger av foreldrenes opptjening, skal erstattes med en fast sats for ytelsen. Utvalget foreslår samtidig at nivået på ytelsene til barn som har mistet én av eller begge foreldrene ikke skal avhenge av om barnet deler en samlet ytelse med søsken eller ikke.
 
-16 000
+Utvalget har i begrunnelsen for å gå bort fra dagens system med avtrappende satser ved flere barn lagt vekt på at det ikke er sterke holdepunkter for at en husholdning med flere barn gir mer omfattende stordriftsfordeler enn en husholdning med ett barn. Utvalget mener at en framtidig ytelse til etterlatte barn som gis som en fast sats per barn, uavhengig av husholdningens størrelse, også vil bidra til forenkling av regelverket.
 
-14 000
+Ytelsen til barn som har mistet én forelder foreslås økt til 50 prosent av grunnbeløpet, og ytelsen til barn som har mistet begge foreldrene foreslås standardisert på et nivå som tilsvarer 120 prosent av grunnbeløpet. Forslaget innebærer en forbedret ytelse til alle barn som har mistet én forelder, og en minst like god ytelse som i dag til barn som har mistet begge foreldrene og ikke mottar ytelsen som det eneste barnet, når en legger minsteytelsen til grunn for det første barnet. For barn som har mistet begge foreldrene og mottar ytelsen som det eneste etterlatte barnet, innebærer forslaget en reduksjon i forhold til dagens barnepensjon.
 
-14 000
+I og med at ulike forhold trekker i retning både av en høyere og en lavere ytelse for barn over en viss alder, ser utvalget det som lite formålstjenlig å ha satser som avhenger av barnets alder. Det at dagens satser for barnepensjon ikke avhenger av barnets alder, trekker også i retning av å ikke ha satser som varierer med barnas alder.
 
-12 000
+Mens det etter gjeldende regler kan ytes barnepensjon til 20 år til barn som har mistet begge foreldrene og fortsatt er under utdanning, stopper barnepensjon til barn som har mistet én forelder i dag når barnet fyller 18 år. I dag er barn under foreldrenes omsorg lenger enn tidligere. Etter utvalgets oppfatning bør barnepensjonen løpe til 20 år, uavhengig av om barnet har mistet én av eller begge foreldrene. Utbetalingsperioden foreslås altså forlenget til barnet er 20 år for barn som har mistet én forelder, forutsatt at barnet fortsatt er under utdanning. Utvalget mener det bør vurderes om en slik felles aldersgrense også kan omfatte barn som får innvilget barnepensjon etter dødsfall som skyldes yrkesskade, en ytelse som i dag kan ytes frem til fylte 21 år.
 
-12 000
+Utvalget foreslår at mottakere av barnepensjon som vil få bedre ytelser med nytt regelverk, vil få den nye ytelsen, selv om de har fått innvilget barnepensjon etter dagens regelverk. I tilfeller hvor det nye regelverket vil gi en lavere ytelse, foreslås det at de barna som har en løpende ytelse når nytt regelverk trer i kraft, får beholde denne etter det gamle regelverket.
 
-10 000
+1.  **Ytelser til etterlatte alderspensjonister**
 
-10 000
+    1.  **Innledning**
 
-8 000
+Innføringen av nytt regelverk for alderspensjon i folketrygden i 2011 nødvendiggjør endringer i de særskilte reglene for beregning av alderspensjon til gjenlevende. Tilleggspensjonen til en gjenlevende alderspensjonist beregnes på grunnlag av det gunstigste av vedkommendes egen tilleggspensjon eller 55 prosent av summen av avdødes og gjenlevendes tilleggspensjon. Gjeldende regelverk for etterlatteytelsene i folketrygdloven er bygd på opptjenings- og beregningsregler som tidligere var felles for alle pensjonsytelsene i folketrygdloven.
 
-8 000
+I prinsippet kunne fornyelsen av regelverket vært innrettet mot en tilpasning til de nye opptjenings- og beregningsreglene. Men pensjonsreformen er ikke primært en lovteknisk revisjon. Den reflekterer først og fremst endringer i og forventninger om den videre utviklingen i samfunnet. Dette tilsier at det gjøres en prinsipiell vurdering også av særreglene for alderspensjon til gjenlevende.
 
-6 000
+Utvalget er i sitt mandat bedt om å foreta en vurdering av ordningen med gjenlevendefordeler i egen alderspensjon, og i hvilken grad det er grunnlag for å videreføre en slik ordning. Særreglene ble utformet i en tid da minstenivået i folketrygden var mye lavere enn i dag. På grunn av lav yrkesdeltaking hadde kvinner på den tiden ofte ingen eller bare svært liten inntekt og opptjening av egen pensjon. Disse reglene legger derfor stor vekt på hensynet til inntektssikring framfor hensynet til insentiver til yrkesdeltaking og egen pensjonsopptjening. Datidens arbeidsdeling mellom ektefeller gjorde det naturlig å se husholdningen som en enhet, og dermed ble prinsippet om avledete rettigheter til pensjon tillagt betydelig vekt i utformingen av systemet. De overordnede avveiningene mellom ulike prinsipper og hensyn i folketrygden er omtalt i kapittel 3.
 
-6 000
+Trekk ved samfunnsutviklingen som er illustrert i kapittel 5, viser at grunnlaget for disse avveiningene er betydelig endret siden 1967. Yrkesdeltakingen blant kvinner har økt vesentlig. Økt likestilling mellom kjønnene, høyere alder ved etablering av familie, høyere skilsmisserater, gjennomsnittlig færre barn per familie, høyere utdanningsnivå, samt utbygging av offentlige ordninger for tilsyn av små barn og omsorg for eldre og pleietrengende, er forhold som har bidratt til denne utviklingen. Flere folketrygdytelser regnes i dag som pensjonsgivende inntekt, og det gis pensjonsopptjening til personer som utfører ubetalt omsorgsarbeid. Etterlatteytelser er ikke pensjonsgivende. Minstesikringen i folketrygden er vesentlig forbedret siden 1967. Minsteytelsen i alderspensjon etter folketrygdloven kapittel 19 består av et minste pensjonsnivå, med ulike satser avhengig av sivilstand mv. Pensjonen består av grunnpensjon og i mange tilfeller noe tilleggspensjon. Videre ytes det et pensjonstillegg/særtillegg for at pensjonen skal nå opp til minste pensjonsnivå. Pensjonstillegget/særtillegget avkortes mot tilleggspensjonen. Gruppen av gjenlevende med lave inntekter har også nytt godt av den generelle forbedringen av minstesikringen. Ettersom særtillegg/pensjonstillegg avkortes mot samlet tilleggspensjon inkludert verdien av eventuelle gjenlevenderettigheter, har effekten av særreglene for beregning av alderspensjon til gjenlevende blitt gradvis mindre.
 
-4 000
+For omtrent fire av ti av det totale antall gjenlevende alderspensjonister i 2015 ga særreglene ingen økning i utbetalt alderspensjon. Dette skyldes enten at gjenlevende har høyere egenopptjent pensjon, eller at økningen i tilleggspensjon i sin helhet ble motsvart av redusert særtillegg eller pensjonstillegg. Personene som får en økning i tilleggspensjonen motsvart av en reduksjon i særtillegget eller pensjonstillegget hadde i gjennomsnitt lavere alderspensjon enn andre etterlatte alderspensjonister. Særreglene bidrar derfor i liten grad til omfordeling til fordel for dem med lavest inntekt, og det kan hevdes at avdødes pensjonsopptjening er et lite treffsikkert grunnlag for å beregne tilleggsytelser til etterlatte ektefeller. Har avdøde hatt lav pensjonsopptjening, får gjenlevende liten eller ingen økning i samlet pensjon. Mulighet til å få sin pensjon som gjenlevende beregnet på grunnlag av avdødes trygdetid i Norge, kan likevel gi enkelte vesentlig bedre ytelse enn om gjenlevendes egen trygdetid ble lagt til grunn.
 
-4 000
+Framtidige alderspensjoner er påvirket av en rekke forhold. Framskrivninger av pensjonsopptjening tyder på at forskjellen mellom menns og kvinners pensjonsopptjening vil fortsette å avta, selv om menn som gruppe fortsatt vil ha høyere alderspensjoner enn kvinner. Framskrivningene viser også at over tid vil den egenopptjente pensjonen for gifte, samboende og etterlatte kvinner nærme seg nivået på enslige kvinners pensjon.
 
-2 000
+Ytelser som er avledet av husholdnings- eller forsørgerstatus, har derfor ikke lenger den samme betydning for å unngå fattigdom. Pensjonsopptjening er i større grad individualisert gjennom reformer de siste årene, noe som utvalget har bygd videre på. Et viktig utgangspunkt for utvalgets arbeid har vært hensynet til balansen mellom fordeling og økonomisk effektivitet. Slik særreglene fungerer i dagens samfunn, bidrar de verken til god fordeling eller til å understøtte økonomisk effektivitet. Basert på både prinsipielle betraktninger og de empiriske analysene som utvalget har gjort, er det etter utvalgets oppfatning ikke tilstrekkelige argumenter for å innføre slike regler i det nye alderspensjonssystemet. Det legges derfor opp til en gradvis avvikling av disse reglene. I dette kapitlet er det redegjort for de analysene som ligger bak denne anbefalingen, og hvordan en slik gradvis avvikling kan gjennomføres.
 
-2 000
+1.  **Fordelingsvirkninger av dagens ordning**
 
-0
+For et gitt nivå på gjenlevendes inntekt, øker verdien av gjenlevenderettighetene med avdødes tidligere inntekt, jf. figur 8.1. Dette illustrerer at ordningen favoriserer par som har skjevfordelt inntekten seg imellom, hvis den som har tjent mest, dør først.
 
-0
-1 barn
+**\[:figur:fig8-1.jpg\]**
 
-2 barn
+1.  Verdi av gjenlevenderettigheter i alderspensjon i kroner for noen kombinasjoner av avdødes og gjenlevendes årlige inntekt. G=90 068 kroner (1. mai 2015)
 
-3 barn
+Arbeids- og sosialdepartementet
 
-4 barn
+Figuren viser hva verdien av gjenlevenderettighetene i alderspensjonen utgjør ved ulike nivåer for avdødes og gjenlevendes årlige inntekt. Det er tatt utgangspunkt i en person fra 1948-kullet som blir gjenlevende og tar ut alderspensjon når vedkommende fyller 67 år. Det er antatt 40 års opptjening for både avdøde og gjenlevende, full trygdetid på 40 år og en jevn inntekt over yrkeskarrièren.
 
-5 barn
+Ettersom særtillegg/pensjonstillegg avkortes mot samlet tilleggspensjon, inkludert eventuelle gjenlevenderettigheter, har gjenlevende liten fordel av særreglene hvis både avdøde og gjenlevende hadde lav inntekt og pensjonsopptjening. På grunn av samspillet mellom særtillegg/pensjonstillegg og tilleggspensjon, vil en gjenlevende som har hatt en inntekt på 2 ganger grunnbeløpet ende opp med en verdi av gjenlevenderettigheten på omtrent samme nivå som en som har hatt inntekt på om lag 5 ganger grunnbeløpet, uavhengig av avdødes tidligere inntekt. Også i tilfeller hvor både gjenlevende og avdøde har hatt høye inntekter opp mot opptjeningstaket på 12 ganger grunnbeløpet, vil gjenlevende kunne få høyere alderspensjon etter særreglene. Dagens ordning kan vanskelig hevdes å ha godt begrunnede fordelingsvirkninger.
 
-6 barn
+1.  **Utvikling i antall gjenlevende alderspensjonister**
 
-Figur 7.2 Barnepensjon ved tap av begge foreldrene. Ytelse per barn og samlet ytelse etter antall barn per
-måned1. 2016
-1
+Den demografiske utviklingen har stor betydning for hvor mange alderspensjonister det vil være i Norge i framtiden. Antall alderspensjonister, basert på middelalternativet i Statistisk sentralbyrås befolkningsframskrivninger fra 2014, er antatt å bli mer enn fordoblet fra 2015 til 2060, til om lag 1,9 millioner alderspensjonister.
 
-Det er lagt til grunn at ytelsen til det første barnet utgjør minstenivået for etterlattepensjon med full trygdetid.
+Antall gjenlevende alderspensjonister vil også være påvirket av den demografiske utviklingen, herunder utviklingen i dødelighet og i samlivsmønster. Framskrivninger som er gjort ved å bruke Statistisk sentralbyrås mikrosimuleringsmodell, MOSART, tyder på at antall gjenlevende alderspensjonister vil øke fram mot 2040, for deretter å avta, jf. figur 8.2.
 
-skal dele en samlet ytelse enn når det bare er ett
-barn som har krav på ytelse, selv når en legger en
-minsteytelse til grunn for det første barnet.
+**\[:figur:fig8-2.jpg\]**
 
-7.2.2
+1.  Antall gjenlevende alderspensjonister. Framskrevet fra 2016
 
-Dagens mottakere av barnepensjon
+Statistisk sentralbyrå
 
-I desember 2015 ble det betalt ut barnepensjon til
-om lag 12 000 barn i alderen 0–21 år som har mistet én forelder. Fordeling etter alder er vist i figur
+Ifølge disse framskrivningene vil antall gjenlevende, kvinnelige alderspensjonister falle med 7 000 fra 2015 til 2020. Antallet vil deretter øke svakt igjen, og nå 2015-nivået rett før 2040. Deretter vil antallet gjenlevende, kvinnelige alderspensjonister falle fram mot 2070.
 
-1800
+I tillegg til endring i størrelsen på årskullene, vil nedgang i andelen gifte og fortsatt forventet økning i levealderen for menn bidra til at færre kvinner blir etterlatte. Mens om lag 90 prosent av kvinner født i 1930 var gift eller gjenlevende ved fylte 70 år, faller denne andelen gradvis over tid, og framskrivninger tyder på at om lag 50 prosent av kvinner født rundt 1980 vil være gift eller gjenlevende ved 70 års alder. Da er også samboere som etter dagens regelverk er likestilt med gifte, inkludert. Flere menn kan i framtiden forventes å leve lenger enn ektefellen, og kvinnelige gjenlevende vil i gjennomsnitt leve en kortere periode som gjenlevende. Figur 8.2 illustrerer at antall mannlige gjenlevende alderspensjonister ventes å øke med om lag 15 000 fra 2015 til 2040, og at antallet deretter vil holde seg tilnærmet uendret.
 
-1800
+1.  **Alternative utforminger**
 
-1600
+Som allerede nevnt, tilsier de store endringene i samfunnet at det er lite aktuelt å videreføre dagens særregler for beregning av alderspensjon til gjenlevende. Utvalget har likevel sett det nyttig å utarbeide en slik modell som et sammenligningsgrunnlag for andre alternativer. Det er derfor skissert et referansealternativ hvor det innarbeides nye, regler for beregning av alderspensjon til gjenlevende i folketrygdloven kapittel 20. Dette alternativet er basert på hovedtrekkene ved ny alderspensjon, herunder at opptjeningen skjer gjennom en pensjonsbeholdning. Utvalget har også utarbeidet ulike modeller hvor særreglene om beregning av alderspensjon til gjenlevende fases ut i takt med utfasingen av de gamle opptjeningsreglene i folketrygdloven kapittel 19.
 
-1600
+Det er tatt utgangspunkt i:
 
-1400
+- Referansealternativ: Videreføring med tilpasning til opptjeningsmodellen i den reformerte alderspensjonen
 
-1400
+- Reformalternativ: Gradvis avvikling
 
-1200
+Reformalternativet er vurdert i tre varianter:
 
-1200
+- Utfasing i takt med utfasing av gamle opptjeningsregler: Årskullene 1954–1962 får beregnet alderspensjon med eventuelle gjenlevenderettigheter på pensjonsopptjening etter kapittel 19. Verdien av gjenlevenderettighetene inngår som en del av gjenlevendes egen alderspensjon og reguleres på samme måte som resten av pensjonen. Eventuelle gjenlevendetillegg etter § 20-19 a før 2020 unntas fra regulering og videreføres nominelt.
 
-1000
+- En viss grad av likebehandling på tvers av generasjoner: Årskullene 1954–1962 får beregnet alderspensjon med eventuelle gjenlevenderettigheter på pensjonsopptjening etter kapittel 19. Alle personer født fra 1944 og senere får verdien av alderspensjonen videreført nominelt inntil den når verdien av den egenopptjente alderspensjonen (regulert på ordinær måte). Dette inkluderer eventuelle gjenlevendetillegg etter § 20-19 a innvilget før 2020.
 
-1000
+- Moderert likebehandlingsalternativ: Årskullene 1954–1962 får beregnet alderspensjon inkludert eventuelle gjenlevenderettigheter på pensjonsopptjening etter kapittel 19. Verdien av gjenlevenderettighetene for personer født fra 1944 og senere holdes nominelt uendret (resten av pensjonen reguleres på ordinær måte). Dette inkluderer eventuelle gjenlevendetillegg innvilget etter § 20-19 a innvilget før 2020.
 
-800
+Som nevnt i punkt 8.1, har utvalget tatt utgangspunkt i den overordnede avveiningen i de offentlige inntektssikringssystemene mellom hensynene til fordeling og til økonomisk effektivitet. I vurderingen av de ulike alternativene er det derfor lagt særlig vekt på:
 
-800
+- inntektsfordeling innenfor og mellom generasjoner
 
-600
+- insentiver til arbeid og egen pensjonsopptjening
 
-600
+I tillegg er det lagt vekt på:
 
-400
+- muligheter for forenkling av pensjonssystemet på noe sikt
 
-400
+- behovet for å styrke pensjonssystemets finansielle bærekraft
 
-200
+Utvalget foreslår at dagens ytelser til gjenlevende under 67 år erstattes med en tidsbegrenset ytelse som skal gi hjelp til omstilling, se kapittel 6. Det har vært vurdert om utredningen burde inkludere et alternativ med en tidsbegrenset ytelse også til gjenlevende alderspensjonister. Formålet ville være å gi tid til omstilling til å leve av én alderspensjon. En slik omstillingsytelse kunne for eksempel utformes ved at avdødes alderspensjon utbetales til gjenlevende to-tre måneder etter dødsfallet. En slik ordning ville behandle alle gjenlevende etter alderspensjonister likt, uavhengig av vedkommendes økonomiske situasjon. Dette ville derfor være en enkel ytelse å administrere. Slike generelle ordninger bidrar imidlertid ikke til å redusere økonomisk ulikhet mellom gjenlevende. Det er påregnelig at én i et parforhold vil overleve den andre, og de fleste eldre kan innrette sin økonomi ut fra at én av dem på et tidspunkt blir alene. Videre er minstepensjonen i Norge på et nivå som skal sikre personer som ikke har vesentlig annen inntekt eller formue en rimelig levestandard. Utvalget har derfor ikke foretatt noen nærmere vurdering av et slikt alternativ.
 
-200
-0
+1.  **Alderspensjonsreglene som rammeverk**
 
-0
-0 år 1 år 2 år 3 år 4 år 5 år 6 år 7 år 8 år 9 år 10 år 11 år 12 år 13 år 14 år 15 år 16 år 17 år 18 år 19 år 20 år 21 år
+Folketrygdloven kapittel 20 inneholder ikke regler om særskilt beregning av alderspensjon til gjenlevende. Fra 2016 kan det tas ut alderspensjon fra folketrygden som er delvis basert på nye opptjeningsregler i folketrygdloven kapittel 20. 1954-kullet fylte 62 år i 2016, og det var derfor nødvendig å avklare hvordan alderspensjon skulle beregnes for gjenlevende i dette årskullet. I påvente av at Stortinget tar stilling til nye regler for folketrygdens ytelser til etterlatte, er det innført midlertidige regler om gjenlevendetillegg til alderspensjon i § 20-19 a. Bestemmelsen sikrer at gjenlevende i de første årskullene som kan ta ut alderspensjon delvis opptjent etter nye regler i kapittel 20, beholder den samme verdien av gjenlevenderettighetene som de ville ha fått ved en full opptjening etter reglene i kapittel 19. Den midlertidige løsningen gjelder for årskullene 1954 til og med 1957, for uttak av pensjon i perioden 2016 til 2019.
 
-Figur 7.3 Antall barn som mottar barnepensjon etter å ha mistet én forelder etter alder. Desember 2015
-Kilde: Arbeids- og velferdsdirektoratet
+For personer født i 1954, beregnes pensjonen med 9/10 med reglene fra kapittel 19 og 1/10 fra kapittel 20. Andelen som beregnes etter reglene i folketrygdloven kapittel 19 avtar gradvis for hvert årskull, mens andelen beregnet etter reglene i kapittel 20 øker tilsvarende. Fra og med de som er født i 1963, beregnes alderspensjonen fullt ut etter reglene i kapittel 20. Hovedtrekk i pensjonsreformen er nærmere beskrevet i boks 3.1.
 
-[Side 102]
+Pensjonsreformen er innført med ulik effekt for ulike årskull:
 
-100
+|  |  |  |  |
+|----|----|----|----|
+| – | 1943: | Ny regulering av løpende pensjoner. |  |
+|  |  |  |  |
+| – | 1943/1944–1953: | Ny regulering av løpende pensjoner og bruk av forholdstall ved beregning av pensjonen. |  |
+|  |  |  |  |
+| – | 1954 | –1962: | Beregning av alderspensjon delvis etter gamle regler i folketrygdloven kapittel 19, delvis etter nye regler i kapittel 20. |
+|  |  |  |  |
+| – | 1963 | Pensjonsberegning fullt ut etter folketrygdloven kapittel 20. |  |
+|  |  |  |  |
 
-NOU 2017: 3
+Noen av de viktigste forskjellene mellom reglene i folketrygdloven kapittel 19 og 20 er:
 
-Kapittel 7
+- Tidligere var det opptjening av pensjonsrettigheter for inntekt over ett grunnbeløp. I ny alderspensjon gis det opptjening fra første krone i inntekt.
 
-Folketrygdens ytelser til etterlatte
+- I de nye reglene er det et opptjeningstak på 7,1 ganger grunnbeløpet. Tidligere var det opptjening opp til inntekt på 12 ganger grunnbeløpet. Samtidig bidrar opptjening på 18,1 prosent (opp til 7,1 ganger grunnbeløpet) til bedre opptjening for midlere inntekter.
 
-50
+- Grunnpensjon og særtillegg/pensjonstillegg i den gamle alderspensjonen er erstattet av garantipensjon. Særtillegget/pensjonstillegget avkortes 100 prosent mot tilleggspensjonen (inklusive eventuelle gjenlevenderettigheter). Garantipensjonen i den nye alderspensjonen avkortes med 80 prosent mot inntektspensjonen.
 
-50
+  1.  **Referansealternativ: videreføring og tilpasning til ny alderspensjon**
 
-45
+      1.  **Innledning**
 
-45
+En videreføring av særregler for beregning av alderspensjon til gjenlevende som i folketrygdloven kapittel 19, krever tilpasninger til den nye alderspensjonen beregnet etter kapittel 20. Essensen i en slik videreføringsmodell vil være at det fortsatt skal foretas en ny beregning av gjenlevendes alderspensjon basert på en kombinasjon av avdødes og gjenlevendes pensjonsrettigheter. Gjennom slike særregler kan gjenlevendes alderspensjon øke med en del av differansen mellom alderspensjon beregnet på grunnlag av egen opptjening og avdødes alderspensjon.
 
-40
+Som følge av innfasing av ny alderspensjon i folketrygdloven kapittel 20 og utfasing av regelverket i folketrygdloven kapittel 19, vil det gjennom en relativt lang periode bli beregnet alderspensjon etter to ulike regelsett. En ny modell vil være fullt innfaset for tilfeller der gjenlevende er født i 1963 eller senere, og som får hele sin pensjon beregnet etter det nye regelverket (kapittel 20). Disse kan tidligst ta ut alderspensjon fra fylte 62 år i 2025. I en ny modell for alderspensjon til gjenlevende, vil pensjonene i sin helhet være beregnet på grunnlag av avdødes og gjenlevendes pensjonsbeholdninger når det nye regelverket er fullt innfaset.
 
-40
+Det må avklares hvordan framtidig pensjonsopptjening skal behandles i de tilfellene avdøde ikke har tatt ut alderspensjon. Fram til 2011 var tidligste uttaksalder 67 år, og det var derfor naturlig å framskrive opptjeningen til denne alderen. I det nye alderspensjonssystemet er det fleksibelt uttak fra 62 års alder, mens det gis opptjening for arbeidsinntekt inntil 75 års alder. De som ikke har tilstrekkelig opptjening til tidlig uttak, har rett til alderpensjon ved fylte 67 år. Uføretrygdede gis opptjening av rettigheter til alderspensjon inntil de fyller 62 år.
 
-35
+Ved lov av 11. desember 2009 nr. 112, ble det foretatt flere endringer i folketrygdlovens regelverk i forbindelse med tilpasning til pensjonsreformen. De vedtatte endringene innebærer at dersom ektefellen dør før fylte 67 år, skal pensjonen til gjenlevende beregnes som om den avdøde hadde hatt opptjening fram til 67 år. Begrunnelsen var å sikre gjenlevende den samme omregnede alderspensjonen som i det tidligere regelverket, jf. Ot.prp. nr. 106 (2008–2009) Om lov om endringer i folketrygdloven mv. Med tilsvarende begrunnelse har utvalget derfor lagt til grunn hypotetisk opptjening av alderspensjon fram til 67 års alder i dette alternativet. Det gjelder uavhengig av om avdøde hadde tatt ut alderspensjon eller ikke.
 
-35
+I folketrygdloven kapittel 19 beregnes grunnpensjonen ut fra avdødes trygdetid, beregnet etter folketrygdloven kapittel 3, fram til vedkommende ville ha fylt 67 år, og reduseres forholdsmessig dersom trygdetiden var mindre enn 40 år. Med full trygdetid vil pensjonen på et minstenivå etter kapittel 19 utgjøre summen av grunnpensjon og særtillegg/pensjonstillegg. Beregnet etter kapittel 20 vil minstenivået med full trygdetid utgjøre garantipensjonen.
 
-30
+I de fleste tilfeller har begge ektefellene/samboerene med felles barn full trygdetid ved nådd pensjonsalder. I et samfunn med mer mobilitet over landegrensene vil imidlertid andelen par hvor én eller begge ikke oppnår full trygdetid, øke i framtiden. I et referansealternativ som så langt mulig skal tilsvare reglene i folketrygdloven kapittel 19, har utvalget sett det som hensiktsmessig å legge trygdetidsreglene i kapittel 19, jf. kapittel 3, til grunn. Valg av trygdetidsberegning kan bety mye i enkelttilfeller, men gir lite utslag på folketrygdens totale utgifter til gjenlevenderettigheter i alderspensjon.
 
-30
+I et alternativ med videreføring av særregler for beregning av alderspensjon til gjenlevende, vil gjenlevendes alderspensjon beregnes ut fra det høyeste av egen pensjonsopptjening og en kombinasjon av egen og avdødes pensjonsopptjening. Ny alderspensjon består av opptjent inntektspensjon og eventuelt garantipensjon. Til personer som har liten eller ingen pensjonsopptjening gis det garantipensjon. Garantipensjon avkortes med 80 prosent av inntektspensjon. Det vil si at gjenlevende beholder 20 prosent av den økningen i inntektspensjonen som gjenlevenderettighetene gir. Dersom inntektspensjonen, inkludert eventuelle gjenlevenderettigheter, overstiger nivået hvor det utbetales garantipensjon, vil det ikke bli noen avkortning.
 
-25
+I utforming av en videreføringsmodell, må det tas stilling til om det er avdødes eller gjenlevendes delingstall/forholdstall som skal legges til grunn ved beregning av alderspensjon til gjenlevende. Problemstillingen er nærmere drøftet i forbindelse med nevnte lovendringer 11. desember 2009, se Ot.prp. nr. 106 (2008–2009) Om endringer i folketrygdloven mv. side 12 og 24. Det framgår at hele alderspensjonen, medregnet rettigheter etter avdød ektefelle, justeres med den gjenlevendes forholdstall og eventuelle pensjonsgrad. Utvalget ser det derfor som naturlig å legge samme løsning til grunn i videreføringsalternativet.
 
-25
+1.  **Nærmere om utforming av og egenskaper ved alternativet**
 
-20
+*Prosentsats for beregning av kombinert inntektspensjon*
 
-20
+En rekke forskjeller mellom de gamle og nye beregningsreglene for folketrygdens alderspensjon innebærer at det å beregne alderspensjonen til gjenlevende i et tilpasset system som 55 prosent av summen av avdødes og gjenlevendes inntektspensjoner ikke vil gi de samme utbetalingene på individnivå.
 
-15
+Det er derfor foretatt beregninger av hvilken prosentsats som ville gi utgifter for folketrygden i et slikt videreføringsalternativ så nær mulig det utgiftene ville ha blitt ved å opprettholde beregningene slik de gjøres i den gamle alderspensjonen. Beregningene er foretatt ved hjelp av SSBs mikrosimuleringsmodell MOSART og NAVs mikrosimuleringsmodell TRIM. Det understrekes at det er usikkerhet knyttet til slike beregninger.
 
-15
+Det viser seg at grunnleggende trekk ved gammelt og nytt system er såpass forskjellige at det neppe er mulig å gjenskape dagens system inn i det nye. En av grunnene til dette er at samspillet mellom tilleggspensjon (inkludert verdien av eventuelle gjenlevenderettigheter), grunnpensjon og særtillegg/pensjonstillegg i det gamle systemet er forskjellig fra samspillet mellom inntektspensjon (inkludert eventuelle gjenlevenderettigheter) og garantipensjonen i det nye systemet.
 
-10
+Lavere utbetalinger av kombinert inntektspensjon fordi garantipensjonen blir avkortet, synes i de beregningene som er foretatt i stor grad å motvirke effekten av økt pensjon som følge av opptjening fra første krone i inntekt. Beregningen tyder på at en prosentsats på opp mot 55 prosent vil gi omtrent samme totale utbetalinger som hvis det tidligere systemet var blitt videreført. Alle pensjonskomponenter, både i gammelt og nytt system, er tatt hensyn til i disse beregningene. Fordelingen på individnivå vil imidlertid bli forskjellig i gammelt og nytt system. Det er særlig gjenlevende som har en pensjon rett over garantipensjonen og hvor avdøde hadde relativt høy pensjon, som vil komme godt ut i det nye systemet.
 
-10
+Overgangen fra særtillegg/pensjonstillegg i den gamle alderspensjonen til garantipensjonen i det reformerte systemet har endret fordelingsegenskapene i alderspensjonen, ved at det løfter pensjonsnivået for de laveste 2–3 inntektsdesilene. Gjenlevende med lave pensjoner vil derfor være i en bedre økonomisk situasjon enn tidligere. Det kan være argumenter for å se bort fra denne effekten i et eventuelt videreføringsalternativ. Det er derfor foretatt beregning av et alternativ hvor merutgiftene til inntektspensjon tar sikte på å tilsvare utgiftene til grunnpensjon/tilleggspensjon slik de ville ha blitt med gamle opptjeningsregler. Beregningene viser at en sats som er kalibrert på denne måten, blir ned mot 50 prosent.
 
-5
+**\[:figur:fig8-3.jpg\]**
 
-5
-0
+1.  Prosentsats for beregning av kombinert inntektspensjon etter alder for 1963-kullet. Prosent
 
-0
-Ett barn
+Statistisk sentralbyrå
 
-To barn
+Figur 8.3 viser kalibrert prosentsats for 1963-kullet ved å inkludere alle pensjonskomponentene, og ved å holde pensjonstillegg og garantipensjon utenfor. De kalibrerte prosentsatsene varierer noe med alder. Dette skyldes seleksjon, hvor dødelighet varierer med (tidligere) uførhet og utdanningsnivå (inntekt), slik at de som lever lenge har noe høyere opptjening, spesielt i ny opptjeningsmodell. Kalibrering av satsen på høyere alderstrinn bidrar til å redusere satsen noe. Prosentsatsen beregnet ut fra alle pensjonskomponentene ligger i intervallet fra 53 opp mot 55 prosent. Ved å holde pensjonstillegg og garantipensjon utenfor, blir prosentsatsen ned mot 51 prosent.
 
-Tre barn
+Beregning av den kombinerte pensjonsbeholdningen ved å bruke en prosentsats på 50, innebærer at det bare er i de tilfeller avdøde hadde høyere opptjening enn gjenlevende at gjenlevende kan få et tillegg til sin alderspensjon. Den mer avgrensede definisjonen av provenynøytralitet i dette tilfellet innebærer lavere utgifter til gjenlevenderettigheter over tid sammenlignet med en hypotetisk videreføring av dagens system. Tidligere beregninger av en hypotetisk videreføring av dagens regler i kapittel 19, tyder på at utgiftene til gjenlevenderettigheter ville nær dobles over de neste 25 årene.
 
-Fire barn
+Uansett prosentsats vil videreføring av særregler for alderspensjon til gjenlevende i ny opptjeningsmodell innebære en omfordeling sammenlignet med gamle regler. Omfordelingen vil gå fra de som hadde en relativt lav pensjon, men utover minste pensjonsnivå, til de med relativt høy pensjon og til de med enda lavere pensjon som tidligere ville forblitt minstepensjonister. Ettersom den marginale effekten på inntektspensjonen vil være fem ganger så høy blant gjenlevende med relativt høy pensjon sammenlignet med gjenlevende med de laveste pensjonene, er det åpenbart at gruppen med relativt høye pensjoner ville komme best ut av omfordelingen.
 
-Fem barn
+I den videre behandlingen av videreføringsalternativet er det lagt til grunn at gjenlevendes inntektspensjon etter folketrygdloven kapittel 20 beregnes som det beste av egen eller 50 prosent av summen av egen og avdødes pensjonsbeholdning.
 
-Seks barn
+*Ny alderspensjon – overgangskullene 1954–1962*
 
-Figur 7.4 Andel barn som har mistet én forelder og mottar barnepensjon etter hvor mange søsken som deler
-samlet ytelse. Desember 2015. Prosent
-Kilde: Arbeids- og velferdsdirektoratet
+På grunn av den gradvise innfasingen av de nye reglene for alderspensjon, kan alderspensjonen for avdøde og gjenlevende i lang tid framover bli beregnet etter ulike regelsett. Hvis en som er født i 1953 eller tidligere er gift med en som er født i 1963 eller senere, vil førstnevnte ha sin pensjon beregnet fullt ut etter gamle regler, sistnevnte fullt ut etter nye regler. I andre tilfeller vil ektefellene tilhøre årskull som resulterer i ulike kombinasjoner av beregningsregler. Skal det videreføres regler hvor den gjenlevende kan få sin alderspensjon delvis beregnet på grunnlag av avdødes opptjening, må det derfor etableres en måte å beregne summen av avdødes og gjenlevendes pensjoner i de tilfeller de er beregnet ut fra ulike regelsett.
 
-7.3.1 I om lag 75 prosent av tilfellene er det fars
-død som har utløst utbetaling av barnepensjon.
-65 prosent av barna som mottar barnepensjon
-etter å ha mistet én forelder, er i alderen 12–18 år.
-Om lag halvparten av barna som mottar barnepensjon etter å ha mistet én forelder, deler ikke
-1
+Det må tas stilling til om det er avdødes eller gjenlevendes regeltilknytning som skal legges til grunn ved den kombinerte pensjonsberegningen. Ved beregning av gjenlevendetillegg til alderspensjon (folketrygdloven § 20-19 a) legges den gjenlevendes regeltilknytning til grunn. Det kan være naturlig å bruke tilsvarende løsning i tilfeller hvor avdøde og gjenlevende har tjent opp sin egen alderspensjon på grunnlag av ulike regelsett. Det vil si at det er gjenlevendes fødselsår som avgjør om de kombinerte pensjonsrettighetene skal beregnes etter nye opptjeningsregler, gamle opptjeningsregler eller en kombinasjon av nytt og gammelt regelverk.
 
-Barn over 18 år som har mistet én forelder kan motta barnepensjon til fylte 21 år dersom dødsfallet skyldes
-yrkesskade.
+*Noen typetilfeller*
 
-barnepensjonen med søsken, mens om lag 35 prosent deler den samlete ytelsen med ett søsken.
-Under 3 prosent av mottakerne har ytelser som
-indikerer at de er del av søskenflokker på fire
-barn eller mer, jf. figur 7.4.
-Per desember 2015 ble det utbetalt barnepensjon til 163 barn som har mistet begge foreldrene
-sine. Figur 7.5 viser foreldreløse barn med barnepensjon etter alder. 60 prosent av barna som mot-
+Om gjenlevende faktisk vil få en høyere alderspensjon som følge av en kombinert pensjonsbeholdning, og hvor mye høyere pensjonen eventuelt vil bli, avhenger av hvor stor opptjening ektefellene har, men også av forskjellene mellom den opptjeningen hver av dem har. Dette vil gjøre seg gjeldende på samme måte som ved beregning av alderspensjon til gjenlevende etter dagens regler i folketrygdloven kapittel 19. Om lag 186 000 alderspensjonister fylte ved utgangen av 2015 vilkårene for å få alderspensjonen beregnet etter særreglene for gjenlevende. Ifølge beregninger foretatt av NAV var det 117 000 personer av de 186 000 som oppfylte vilkårene der den kombinerte beregningen av tilleggspensjonen var høyere enn det som var nivået på egenopptjent tilleggspensjon. Nivået på verdien gjenlevenderettighetene varierer mye; blant mottakerne i 2015 var maksimalt beløp opp mot 1,7 ganger grunnbeløpet (kan i prinsippet være langt høyere). Beregninger fra NAV viser at den gjennomsnittlige størrelsen på gjenlevenderettighetene for mottakere fra årskullene 1911–1953 i 2015 var på nesten 38 000 kroner. Det er først og fremst i tilfeller hvor gjenlevende har fordel av avdødes trygdetid at særreglene kan gi gjenlevende mye høyere pensjon enn den egenopptjente pensjonen.
 
-30
+Ettersom opptjenings- og beregningsreglene i ny alderspensjon er basert på andre prinsipper enn i de gamle reglene, vil beregning av pensjon basert på samme opptjeningshistorikk kunne bli forskjellig i de to modellene. I tillegg er det skisserte videreføringsalternativet noe forskjellig fra gjeldende regler for beregning av alderspensjon til gjenlevende. En slik tilpasning av særreglene vil derfor ikke kunne gjenskape eksakt de samme resultater på individnivå.
 
-30
+Enkle typetilfeller kan gi et inntrykk av noen sider ved modellen. I 2015 var kvinner i gjennomsnitt 74,8 år da de fikk innvilget alderspensjon etter de særlige beregningsreglene, mens menn i gjennomsnitt var 76,9 år. 24 prosent var 67 år gamle. Dette vil i første rekke omfatte nye alderspensjonister med direkte overgang fra etterlattepensjon, uføretrygd og gjenlevende som før uttak av alderspensjon hadde for høy inntekt til å få utbetalt etterlattepensjon. I 2015 ble det innvilget 15 400 alderspensjoner etter særreglene.
 
-25
+I typetilfellene nedenfor foretas en sammenligning av årlig pensjon ved fylte 75 år for en enslig med og uten gjenlevenderettigheter i alderspensjonen. Det er lagt vekt på å illustrere hvordan verdien av gjenlevenderettighetene kan variere ved å se på noen ulike kombinasjoner av inntekt og opptjeningstid for avdøde og gjenlevende. Det er tatt utgangspunkt i to årskull av gjenlevende; 1953-kullet som er de siste som har full opptjening etter reglene i folketrygdloven kapittel 19, og 1963-kullet som er første kullet med full opptjening etter reglene i folketrygdloven kapittel 20. Ettersom det kan forekomme svært mange kombinasjoner av inntekt og opptjeningstid, gir ikke disse eksemplene noen fullstendig oversikt over mulige konsekvenser. De illustrerer likevel hvordan reglene kan slå ulikt ut. Alle typeeksempler er beregnet ved å bruke grunnbeløpet fra 1. mai 2016 på 92 576 kroner.
 
-25
+*Gjenlevende er født i 1953:*
 
-20
+Det forutsettes at:
 
-20
+- Gjenlevende har all opptjening etter det gamle regelverket i folketrygdloven kapittel 19.
 
-15
+- Både gjenlevende og avdøde har hatt 40 års trygdetid i Norge.
 
-15
+- Gjenlevende tar ut alderspensjon ved fylte 67 år.
 
-10
+- Alderspensjonen reguleres med lønnsvekst fratrukket 0,75 prosent.
 
-10
+I tabell 8.1 er det gjengitt fem ulike typetilfeller. Betydningen av de særlige reglene for å beregne gjenlevendes alderspensjon er illustrert gjennom ulike kombinasjoner av inntekt for ektefellene. Det er også sett på betydningen av variasjon i gjenlevendes opptjeningstid.
 
-5
+1.  Alderspensjon beregnet med ulike kombinasjoner av inntekt og opptjeningstid. Gjenlevende født 1953. G=92 576 kroner (1. mai 2016)
 
-5
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+|  | Alternativ 1 | Alternativ 2 | Alternativ 3 | Alternativ 4 | Alternativ 5 |
+|  |  |  |  |  |  |
+| Årlig inntekt, gjenlevende | 5 G i 30 år | 1 G i 30 år | 6 G i 40 år | 6 G i 40 år | 8 G i 40 år |
+| Årlig inntekt, avdøde | 6 G i 40 år | 4 G i 40 år | 5 G i 40 år | 7 G i 45 år | 7 G i 40 år |
+| Alderspensjon i kroner ved 75 år |  |  |  |  |  |
+| – enslig | 187 200 | 170 200 | 259 900 | 259 900 | 312 100 |
+| – med gjenlevenderettighet | 237 700 | 170 200 | 259 900 | 295 200 | 320 600 |
+| Verdi av gjenlevenderettighet | 50 500 | 0 | 0 | 35 300 | 8 500 |
+|  |  |  |  |  |  |
 
-0
+*Gjenlevende er født i 1963:*
 
-0
-0 år 1 år 2 år 3 år 4 år 5 år 6 år 7 år 8 år 9 år 10 år 11 år 12 år 13 år 14 år 15 år 16 år 17 år 18 år 19 år 20 år 21 år
+Det forutsettes at:
 
-Figur 7.5 Antall foreldreløse barn med barnepensjon etter alder. Desember 2015
-Kilde: Arbeids- og velferdsdirektoratet
+- Gjenlevende har all opptjening etter det nye regelverket i folketrygdloven kapittel 20.
 
-[Side 103]
+- Både gjenlevende og avdøde har hatt 40 års trygdetid i Norge.
 
-101
+- Gjenlevende tar ut alderspensjon ved fylte 67 år.
 
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
+- Alderspensjonen reguleres med lønnsvekst fratrukket 0,75 prosent.
 
-Kapittel 7
+- Gjenlevendes inntektspensjon beregnes ut fra det høyeste av egen pensjonsbeholdning og 50 prosent av summen av egen og avdødes pensjonsbeholdning.
 
-60
+Siden de nye reglene i kapittel 20 har en del trekk som skiller det fra de gamle reglene i kapittel 19, er det for sammenligningens skyld sett på de samme typetilfellene som for 1953-kullet, se tabell 8.2.
 
-60
+1.  Alderspensjon beregnet med ulike kombinasjoner av inntekt og opptjeningstid. Gjenlevende født 1963. G=92 576 kroner (1. mai 2016)
 
-50
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+|  | Alternativ 1 | Alternativ 2 | Alternativ 3 | Alternativ 4 | Alternativ 5 |
+|  |  |  |  |  |  |
+| Årlig inntekt, gjenlevende | 5 G i 30 år | 1 G i 30 år | 6 G i 40 år | 6 G i 40 år | 8 G i 40 år |
+| Årlig inntekt, avdøde | 6 G i 40 år | 4 G i 40 år | 5 G i 40 år | 7 G i 45 år | 7 G i 40 år |
+| Alderspensjon i kroner ved 75 år |  |  |  |  |  |
+| – enslig | 184 500 | 161 000 | 234 300 | 234 300 | 277 300 |
+| – med gjenlevenderettighet | 193 300 | 173 700 | 234 300 | 271 000 | 277 300 |
+| Verdi av gjenlevenderettighet | 8 800 | 12 700 | 0 | 36 700 | 0 |
+|  |  |  |  |  |  |
 
-50
+Tabell 8.1 viser at i alternativene 1, 4 og 5 vil gjenlevende få en høyere alderspensjon i det gamle systemet. I videreføringsalternativet, illustrert i tabell 8.2, vil gjenlevende få høyere alderspensjon i alternativene 1, 2 og 4.
 
-40
+Alternativ 2 representerer et tilfelle hvor gjenlevende har lav opptjening gjennom lav inntekt og kort opptjeningstid. Personen har, uansett hvilke beregningsregler som legges til grunn, en pensjon på minstepensjonsnivået. Den kombinerte beregningen av tilleggspensjonen gir i seg selv et høyere beløp enn nivået på gjenlevendes egen tilleggspensjon, men økningen avkortes mot særtillegg/pensjonstillegg helt opp til minstepensjonsnivået.
 
-40
+Etter reglene i folketrygdloven kapittel 20 avkortes garantipensjonen med 80 prosent av opptjent inntektspensjon. I videreføringsalternativet gir særlige beregningsregler for gjenlevende en økningen i inntektspensjon som, i motsetning til i gammel alderspensjon, ikke avkortes fullt ut, og gjenlevende får i dette eksemplet dermed en viss økning av samlet pensjon.
 
-30
+I videreføringsalternativet vil samlet pensjon for gjenlevende bli høyere enn den egenopptjente pensjonen bare i de tilfellene hvor avdøde hadde høyere opptjening enn gjenlevende. Dette er grunnen til at alternativ 5 gir høyere alderspensjon i gammelt system, men ikke i videreføringsalternativet.
 
-30
+I alternativ 3 får ikke gjenlevende noen økning i alderspensjonen i noen av tilfellene. Det skyldes at gjenlevendes egen tilleggspensjon/inntektspensjon i dette tilfellet er høyere enn 55/50 prosent av summen av avdødes og gjenlevendes tilleggspensjoner/inntektspensjoner.
 
-20
+*Gjenlevenderettigheter i nytt og gammelt opptjeningssystem*
 
-20
+Forskjellen mellom de gamle reglene i kapittel 19 og videreføringsalternativet er ytterligere belyst i figur 8.4.
 
-10
+**\[:figur:fig8-4.jpg\]**
 
-10
+1.  Sammenligning av egenopptjent alderspensjon og verdi av gjenlevenderettighet i gammel og ny opptjeningsmodell for 1963-kullet. G=92 576 kroner (1. mai 2016)
 
-0
+Arbeids- og velferdsdirektoratet
 
-Minsteytelse
-Fire barn
+Figur 8.4 viser egenopptjent alderspensjon og verdi av gjenlevenderettigheter for ulike kombinasjoner av inntekt for en person fra 1963-kullet. «Gammel» er beregnet etter gjeldende særregler for beregning av alderspensjon til gjenlevende i kapittel 19 og «ny» som i det skisserte videreføringsalternativet. I alternativ 1–5 i figur 8.4 benyttes tilsvarende inntektskombinasjoner som i alternativ 1–5 for typetilfellene beregnet på 1963-kullet i avsnittet over.
 
-Over minsteytelse
-Fire barn
+Disse eksemplene viser at fordelingen på individnivå kan bli ganske forskjellig i den skisserte nye modellen sammenlignet med hva den ville ha blitt innenfor dagens system. Komplisert samspill mellom de ulike elementene i pensjonssystemet gjør at effektene kan bli forskjellige avhengig av kombinasjonen av ektefellenes inntekt og opptjeningstid. Det er derfor vanskelig å trekke klare konklusjoner. Eksemplene illustrerer imidlertid at både dagens system og videreføringsmodellen kan ha fordelingsvirkninger som mangler en god begrunnelse.
 
-Minsteytelse
-Tre barn
+1.  **Virkninger av videreføringsalternativet på folketrygdens utgifter til alderspensjon**
 
-Over minsteytelse
-Tre barn
+Ved hjelp av Statistisk sentralbyrås mikrosimuleringsmodell, MOSART, er det foretatt framskrivninger for å belyse utviklingen i utgifter til gjenlevenderettigheter i alderspensjonen, basert på en videreføringsmodell. Den demografiske utviklingen har stor betydning for antall gjenlevende alderspensjonister i framtiden, jf. omtalen i punkt 8.3. Framskrivningene er basert på middelalternativet i Statistisk sentralbyrås befolkningsframskrivninger fra 2014.
 
-Minsteytelse
-To barn
+I alternativet med videreføring av særregler om beregning av alderspensjon til gjenlevende, vil utgiftene fortsette å øke i en del år framover. Utgiftene til gjenlevenderettigheter i alderspensjon forventes å nå en topp i 2030 med 5,9 milliarder kroner, målt i 2015-kroner, jf. figur 8.5.
 
-Over minsteytelse
-To barn
+**\[:figur:fig8-5.jpg\]**
 
-Minsteytelse
-Ett barn
+1.  Utgifter til gjenlevenderettigheter i videreføringsalternativet. Mrd. 2015-kroner
 
-Over minsteytelse
-Ett barn
+Statistisk sentralbyrå
 
-0
+Etter 2030 vil effekten av de nye opptjeningsreglene i kapittel 20 gradvis få større betydning ved beregning av alderspensjon til gjenlevende i videreføringsalternativet, ettersom det etter hvert blir flere etterlatte født i 1954 og senere. Kvinner fra disse årskullene vil ha høyere pensjonsopptjening enn tidligere årskull, men mange vil ha opptjening som gir et nivå på pensjonen som ligger innenfor det lange avtrappingsintervallet for garantipensjonen. Mange gjenlevende alderspensjonister vil derfor få store deler av en økning i inntektspensjonen motvirket av en reduksjon av garantipensjonen med 80 prosent. Et forventet fall i antall etterlatte alderspensjonister, jf. figur 8.2 bidrar også til reduserte utgifter til gjenlevenderettigheter i alderspensjon.
 
-Figur 7.6 Antall foreldreløse barn etter nivå på ytelsen. Desember 2015
-Kilde: Arbeids- og velferdsdirektoratet
+Utgiftene til gjenlevenderettigheter i alderspensjon for menn vil øke gjennom hele framskrivningsperioden. Fra 2020 til 2070 forventes verdien av gjenlevenderettighetene til menn å fordobles. Likevel vil verdien av gjenlevenderettighetene fortsatt utgjøre en liten andel av samlet alderspensjon for etterlatte menn.
 
-tar barnepensjon etter å ha mistet begge foreldrene er i aldersgruppen 12–18 år.
-De foreldreløse barna hadde ved utgangen av
-2015 månedlige ytelser som varierte fra om lag
-6 000 kroner i måneden til over 20 000 kroner i
-måneden. Ytelsen per barn varierer mye og
-avhenger sterkt av antall søsken som deler en
-samlet barnepensjon.
-Figur 7.6 viser fordelingen av barn som mottok barnepensjon på grunnlag av minsteytelsen
-eller hadde barnepensjon beregnet på grunnlag
-av en etterlattepensjon over minstenivået i desember 2015, samt etter om de delte samlet ytelse
-med ett eller flere søsken.
-Av de 163 foreldreløse barna med barnepensjon i desember 2015, mottok 100 barn ytelsen
-alene. Om lag halvparten av alle barnepensjonene
-til foreldreløse var minsteytelser, og en del av barnepensjonene som ikke var minsteytelser var bare
-marginalt bedre enn denne. En del barn delte
-ytelsen med ett søsken, noen få delte med to søsken og ett barn delte ytelsen med tre søsken.
+De samlede utgiftene vil avta noe allerede før antall etterlatte alderspensjonister begynner å gå ned. Dette skyldes at gjenlevende som har fått sin alderspensjon beregnet etter særreglene i det gamle systemet, etter hvert vil erstattes av yngre årskull av gjenlevende som vil få alderspensjon beregnet etter videreføringsalternativet, noe som i gjennomsnitt vil gi noe lavere ytelser.
 
-7.3
+1.  **Utvalgets vurdering av videreføringsalternativet**
 
-Bakgrunn for gjeldende regler og
-grunnlaget for utforming av en
-framtidig ytelse til etterlatte barn
+Selv om modellen er en tilpasset videreføring av dagens særregler, viser drøftingen ovenfor at den ikke uten videre vil gi samme ytelser på individnivå. Dette skyldes først og fremst at opptjenings- og beregningsprinsippene i den nye alderspensjonen avviker vesentlig fra det tidligere systemet. De beregningene som er presentert foran, illustrerer dette. Likevel vil denne modellen videreføre mange av hovedtrekkene ved særreglene for beregningen av alderspensjon til gjenlevende i folketrygdloven kapittel 19.
 
-7.3.1
+Alternativet er imidlertid i liten grad tilpasset de behovene for reform som er oppsummert tidligere i utredningen. Kvinners økte yrkesdeltaking, samt innføring og senere forbedring av ordningen med pensjonsopptjening som følge av ubetalte omsorgsoppgaver, innebærer at yngre årskull av kvinner har vesentlig høyere egenopptjent pensjon enn tidligere. Inntektssikringen for pensjonister uten eller med lav egen opptjening er dessuten styrket gjennom betydelig forbedring av minstenivået i folketrygdens alderspensjon.
 
-Innledning
+En videreføring av særregler der gjenlevendes alderspensjon fortsatt kan beregnes delvis med avdødes rettigheter gjennom tilpasning til den nye alderspensjonen, vil heller ikke gjøre noe med de lite målrettede fordelingseffektene av reglene. Typetilfellene illustrerer noen hovedtrekk:
 
-I følge St.meld. nr. 75 (1963–64) utgjorde tidligere
-«forsørgertrygd for barn» et fast beløp per barn
-når én forelder var falt fra og det dobbelte per
+- Reglene er i hovedsak til fordel for gjenlevende når avdøde har hatt en del høyere pensjonsopptjening enn gjenlevende.
 
-barn når begge foreldrene var døde. Da barnepensjonen ble tatt inn som en del av folketrygden, ble
-barnepensjonen vesentlig styrket. Samtidig ble
-ytelsen gjort avtrappende ved flere barn.
-I stortingsmeldingen ble det vist til at en vurderte «å legge disse ytelser til grunn som minstepensjoner, eventuelt med en viss forhøyelse av
-pensjonen for første barn, og å gi tilleggspensjoner på tilsvarende måte som alders- og enkepensjoner i forhold til forsørgerens arbeidsinntekt».
-En ble imidlertid stående ved at barnepensjonen
-burde fastsettes uavhengig av avdøde forsørgers
-arbeidsinntekt hvis det samtidig ble ytt enkepensjon. Så lenge enkepensjonen var relatert til den
-avdødes inntekt, ville den samlede familieytelsen
-også være det. For det tilfellet begge foreldrene
-var døde, ble det lagt til grunn at «det første barnet trer inn i den pensjonsrett som moren ville ha
-hatt som enke». Når én av ektefellene var død, var
-systemet altså tenkt slik at den gjenlevende ektefellen skulle få pensjon etter den avdøde, mens
-barna fikk en relativt liten barnepensjon. Samlet
-for familien var dette tenkt å kompensere for inntektsbortfallet.
-Dagens barnepensjon synes å forutsette at
-husholdningen består som en enhet etter foreldres bortgang. Utvalget antar at dette kan være
-rimelig å legge til grunn når én forelder er død og
-barnet eller barna fortsatt har en mor eller en far.
-Barna og den etterlatte forelderen vil i slike tilfeller mest trolig fortsatt være del av den samme
-husholdningen, og barnepensjonen vil da også
+- Sammenlignet med dagens system, vil gjenlevende med egen opptjening som gir pensjon akkurat over avtrappingsintervallet hvor det utbetales garantipensjonen, og hvor avdøde har lang opptjeningstid nær taket på 7,1 ganger grunnbeløpet, komme særlig godt ut.
 
-[Side 104]
+- Økning i inntektspensjonen som følge av gjenlevenderettighetene gir en reduksjon i garantipensjonen.
 
-102
-
-Kapittel 7
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-som regel utbetales til den gjenlevende forelderen.
-I tilfeller hvor begge foreldrene er døde, er det
-mindre sannsynlig at husholdningen består etter
-foreldrenes bortgang. Hvordan livssituasjonen til
-barn som har mistet begge foreldrene er, for
-eksempel om søsken bor samlet etter begge foreldrenes bortgang, vil nok variere. Det er likevel
-vanskelig å begrunne den sterke avtrappingen i
-ytelsen som følger av dagens system når flere søsken har mistet begge foreldrene, sammenlignet
-med ytelsen når ett barn mottar den alene. Det er
-ikke klart om en ved innføringen av ordningen
-tenkte seg at det eldste barnet rent faktisk trådte
-inn i en forsørgerrolle overfor eventuelle søsken,
-men begrunnelsen om å opprettholde et visst inntektsnivå samlet for familien, både i det tilfellet
-den ene forelderen falt fra og i det tilfellet begge
-foreldrene falt fra, kan tyde på dette. I den grad
-situasjonen til foreldreløse barn har endret seg
-med endrede samfunnsforhold, bør dette også gi
-seg utslag i hvordan ytelsen til helt foreldreløse
-barn utformes.
-Utvalget har forsøkt å bringe på det rene hvilken rolle ytelser til etterlatte barn spiller i forsørgelsen av barn, sett i sammenheng med andre velferdsordninger som er etablert for å sikre barn
-som av ulike grunner vokser opp uten én av eller
-begge foreldrene, jf. punkt 7.3.2. Det er imidlertid
-ikke tatt sikte på å gi noen fullstendig gjennomgang av relevante økonomiske ordninger for barn.
-Utvalget viser i denne forbindelse til at Barneog likestillingsdepartementet har nedsatt et utvalg
-som skal utrede det offentlige tjenestetilbudet og
-overføringsordningene til familier med barn
-under 18 år, herunder overgangsstønad til enslig
-mor eller far og bidragsforskott. Utvalget legger
-til grunn at Barnefamilieutvalget vil ha en helhetlig tilnærming når de vurderer de ulike offentlige
-ytelsene som tilgodeser barn som av ulike grunner vokser opp uten én av eller begge foreldrene.
-7.3.2
-
-Foreldres forsørgelsesplikt for barn og
-velferdsordninger som ivaretar barn
-uten foreldre
-
-Foreldre har plikt til å forsørge barna sine økonomisk. Tilsvarende plikt påhviler andre som har foreldreansvar for barn. Forsørgelsesplikten varer i
-utgangspunktet til barnet fyller 18 år, men kan vare
-lenger enn dette dersom barnet fortsetter vanlig
-skolegang. Som hovedregel forsørges barn av
-begge foreldrene. Når et barn ikke vokser opp i
-samme husholdning som begge foreldrene, enten
-dette er fordi én av eller begge foreldrene er døde
-
-eller det er andre grunner til at de ikke bor
-sammen med barnet, kan ulike økonomiske ordninger som skal sikre forsørgelse av barnet tre inn.
-Per 1. januar 2016 bodde om lag 270 000 barn,
-det vil si 24 prosent av totalt 1 123 100 barn i alderen 0–17 år sammen med bare én av foreldrene,
-mens om lag 11 300 barn, det vil si 1 prosent av
-barna, ikke bodde sammen med noen av foreldrene. Til sammenlikning mottok 12 200 barn barnepensjon etter å ha mistet én forelder i desember
-2015, mens det tilsvarende tallet for barn som
-hadde mistet begge foreldrene var 163.
-Barn som vokser opp med én forelder
-Om foreldrene lever hver for seg, har den av foreldrene som ikke bor sammen med barnet plikt til å
-bidra til forsørgelsen av barnet gjennom å betale
-sin andel av kostnadene til oppfostringen, i form
-av underholdsbidrag til den forelderen barnet bor
-hos. Bidrag er i utgangspunktet et rent privat
-anliggende som avtales mellom foreldrene. I de
-tilfeller foreldrene ikke blir enige om en passende
-størrelse på bidraget, kan de be om at NAV fastsetter og krever inn bidraget fra den bidragspliktige.
-Beregningen av bidraget tar utgangspunkt i
-hva det koster å forsørge barnet. Kostnadene fastsettes basert på Statens institutt for forbruksforskning (SIFO) sitt standardbudsjett for forbruksutgifter.
-De fastsatte satsene som inngår i beregningen
-av underholdskostnaden varierer med barnets
-alder og utgjør fra om lag 5 000 kroner i måneden
-for barn under 5 år til om lag 8 200 kroner måneden for barn over 15 år, etter at ordinær barnetrygd er trukket fra. For barn over 18 år, som ikke
-lenger har rett til barnetrygd, utgjør underholdskostnaden om lag 9 200 kroner per måned.
-Underholdskostnaden fordeles mellom foreldrene
-etter størrelsen på inntektene deres, før det eventuelt gjøres samværsfradrag basert på omfanget av
-den bidragspliktiges samvær. Når et barn har inntekt over et visst beløp (for tiden 153 000 kroner
-per år), regnes barnet som selvforsørget, og den
-bidragspliktige kan da ikke pålegges å betale
-bidrag.
-Om en legger til grunn at to foreldre i utgangspunktet er i stand til å bidra om lag likt til barnets
-forsørgelse, kan underholdskostnaden med fratrekk for ordinær barnetrygd for barn under 18 år
-delt på to gi en indikasjon på hvilket månedlig tilskudd som faller bort dersom en bidragspliktig
-faller fra og ikke lenger kan bidra økonomisk til
-barnets oppfostring, verken direkte eller i form av
-
-[Side 105]
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-kostnadsavlastning gjennom samvær. Dette vil i så
-fall utgjøre et beløp på mellom om lag 2 500 kroner per måned og om lag 4 500 kroner per måned,
-avhengig av barnets alder. Dagens satser for barnepensjon for det tilfellet at én av barnets forsørgere har falt bort, utgjør i størrelsesorden 2 000 til
-3 000 kroner per barn per måned, avhengig av
-antall søsken som deler en samlet ytelse. I mange
-tilfeller vil dermed barnepensjonen ikke fullt ut
-kompensere for bortfall av forsørgerens bidrag til
-underholdet av barnet.
-I tilfeller der bidrag ikke blir betalt eller ikke
-innkrevet på grunn av manglende inntektsevne
-eller betalingsvilje hos den bidragspliktige, kan
-det ytes såkalt bidragsforskott. Det samme gjelder i tilfeller der det ikke er fastslått hvem som
-er far til barnet. Da nåværende lov om bidragsforskott ble innført i 1989, var størrelsen på
-bidragsforskottet på om lag samme nivå som
-barnepensjon når én av foreldrene er død. I
-Ot.prp. nr. 99 (1991–92) ble denne sammenhengen benyttet som begrunnelse for endringer
-i folketrygdloven som innebar at rett til barnepensjon bare skulle foreligge dersom avdøde
-hadde den nødvendige trygdetilknytning til
-Norge, idet det ble vist til at dersom det ikke ble
-gitt barnepensjon, ville det bli tilstått bidragsforskott i stedet. At barnepensjon og bidragsforskott var, og fortsatt er, alternative ytelser, og
-at lovgiver viste til at ytelsene var på om lag
-samme nivå, kan tyde på at lovgiver har hatt en
-tanke om at et barn med bare én forelder som
-bidrar i forsørgelsen, bør ha om lag samme nivå
-på en ytelse fra det offentlige, uavhengig av årsaken til at det ikke forsørges av to foreldre.
-Bidragsforskottet utgjør i dag maksimalt 1 910
-kroner per måned. Dette maksimumsbeløpet, kalt
-forhøyet forskott, kan ytes til barn over 11 år i tilfelle inntekten til forsørgeren er 264 200 kroner
-per år eller lavere. Forhøyet bidragsforskott til
-barn under 11 år utgjør 1 530 kroner per måned.
-Dersom årsinntekten er høyere enn 264 200 kroner, men lavere enn 489 600 kroner per år, ytes
-ordinært forskott eller redusert forskott, avhengig av forskottsmottakerens inntekt. Ordinært forskott utgjør 1 150 kroner per måned og redusert
-forskott utgjør 770 kroner per måned, uavhengig
-av barnets alder. Ved årsinntekter over 489 600
-kroner ytes det ikke bidragsforskott. Til sammenlikning utgjør barnepensjonen altså om lag 3 000
-kroner per måned for barn som har mistet én forelder, og et noe mindre månedlig beløp dersom
-barnet har søsken. Samtidig må det tas i betraktning at bidragsforskott ikke beskattes. Bidragsforskottet vil for de fleste innebære et svært mye
-
-103
-
-Kapittel 7
-
-lavere økonomisk bidrag enn et underholdsbidrag
-beregnet etter NAVs veiledende satser. Underholdsbidrag er heller ikke skattepliktig.
-I tilfeller hvor barnets foreldre er ugifte, skilte
-eller separerte kan det ytes overgangsstønad etter
-folketrygdloven kapittel 15. Ytelsen utgjør 2,25
-ganger grunnbeløpet, avkortes 45 prosent mot
-mottakerens arbeidsinntekt over 50 prosent av
-grunnbeløpet og skattlegges som lønn. Som
-hovedregel er maksimal periode med overgangsstønad tre år og det stilles krav til at mottaker er i
-yrkesrettet aktivitet fra barnet er ett år. Utvalgets
-forslag til utforming av en ytelse til etterlatte
-under 67 år vil altså likne utformingen av overgangsstønaden til enslige forsørgere og på samme
-måte inngå i de samlede offentlige ytelsene til aleneforsørgere med mindreårige barn. Til forskjell
-fra overgangsstønaden, vil imidlertid omstillingsstøtten til etterlatte kunne gis også til etterlatte
-uten barn de forsørger.
-Barn som vokser opp uten foreldre
-Barn under 18 år som har mistet foreldrene, kan bli
-ivaretatt av andre som overtar foreldreansvar, bli
-adoptert eller plasseres i fosterhjem eller institusjon. Utvalget har ikke hatt tilgang til noen oversikt
-over fordelingen mellom disse omsorgsformene.
-Når barn blir adoptert, vil retten til barnepensjon i mange tilfeller falle bort. Dette gjelder for
-det første når barnet blir adoptert av et ektepar
-etter at de biologiske foreldrene er døde. For det
-andre gjelder det når én av foreldrene er død, den
-gjenlevende gifter seg igjen og den nye ektefellen
-adopterer barnet. Ved adopsjon ellers beholder
-barnet pensjonsretten, men pensjonen beregnes
-som om én av foreldrene var død. Adopterte barn
-er i alle økonomiske henseende likestilt med biologiske barn. De har samme krav på økonomisk
-forsørgelse og samme rett til arv etter sine adoptivforeldre.
-Situasjonen er annerledes når barnet ikke blir
-adoptert, men andre voksne (gjerne slektninger)
-overtar foreldreansvaret for barnet etter foreldrenes dødsfall. Det følger eksplisitt av barneloven
-§ 66 at de som overtar foreldreansvaret har
-samme fostringsplikt som foreldrene. Barnet er
-derved sikret underhold fram til det er 18 år, eventuelt til det har avsluttet vanlig skolegang. I disse
-tilfellene beholder barnet likevel retten til barnepensjon. Når en enslig person får foreldreansvar
-for et barn med rett til barnepensjon og samtidig
-mottar overgangsstønad til enslig mor eller far
-etter kapittel 15, faller barnepensjonen likevel
-bort dersom barnet har mistet én forelder, og den
-
-[Side 106]
-
-104
-
-NOU 2017: 3
-
-Kapittel 7
-
-Folketrygdens ytelser til etterlatte
-
-beregnes som om barnet har mistet én forelder
-dersom begge foreldrene er døde.
-Dersom et barn etter dødsfall står uten noen
-som har foreldreansvar for det, og ingen gjør krav
-på foreldreansvaret eller tingretten avslår alle
-krav om foreldreansvar, skal retten melde fra til
-barnevernstjenesten. Barneverntjenesten skal
-plassere barnet etter reglene i lov 17. juli 1992 nr.
-100 om barneverntjenester. Dette innebærer at
-barnet plasseres i fosterhjem, institusjon eller lignende.
-Dersom barnet plasseres i fosterhjem, som er
-det klart mest benyttede plasseringsalternativet
-etter barnevernloven, får fosterforeldre dekket
-utgifter og blir kompensert for ansvaret de har
-påtatt seg i form av en fosterhjemsgodtgjørelse.
-Fosterhjemsgodtgjørelsen består av en skattepliktig arbeidsgodtgjørelse og en skattefri utgiftsdekning som skal dekke kost, klær og fritidsaktiviteter. Størrelsen på utgiftsdekningen avtales mellom
-fosterforeldrene og barneverntjenesten. Etter veiledende satser fra 1. juli 2016 utgjør den fra om lag
-5 000 kroner i måneden for barn i alderen 0–6 år,
-opp til om lag 7 400 kroner i måneden for barn
-som er 15 år og eldre. De veiledende satsene er
-altså på nivå med satsene som benyttes i beregningen av underholdsbidrag. Det påpekes at de
-fleste barn som plasseres i fosterhjem vil ha foreldre, enten én eller begge, som fortsatt lever og
-som da kan bli pålagt å bidra økonomisk til barnets underhold, jf. barnevernloven § 9-2. Dette
-bidraget innbetales til kommunen og fungerer
-som hel eller delvis refusjon av kommunens kostnader i forbindelse med plasseringen.
-Det antas at barnepensjon til barn som bor i
-fosterhjem med verges samtykke kan benyttes til
-barnets forbruk som går ut over det utgiftsdekningen til fosterforeldre er tenkt å dekke. Barnet selv
-kan imidlertid også bli pålagt å bidra økonomisk
-til sitt eget underhold. Det følger av barnevernloven § 9-3 at kommunen, når et barn er plassert
-utenfor hjemmet som følge av et vedtak etter
-loven, kan kreve at barnet, så lenge plasseringen
-varer, skal dekke kostnadene ved oppfostringen
-helt eller delvis. Egenbetaling fra barnet skal kun
-kreves dersom dette «anses rimelig». Ved vurderingen av dette kriteriet vises det til Ot.prp. nr. 44
-(1991–92) s. 98 hvor det blant annet heter:
-«Departementet mener at det i alle tilfelle må
-kreves at utgiftsdekning etter § 9-2 og § 9-3 må
-begrenses til de tilfelle dette må anses rimelig
-ut fra foreldrenes eller barnets økonomiske
-situasjon. Når det gjelder egenbetaling fra barnet er det ikke tilstrekkelig å vurdere barnets
-
-nåtidige økonomiske situasjon, også barnets
-framtidige økonomiske situasjon må inngå i
-vurderingen. Det er en kjensgjerning at disse
-barna ofte har en vanskeligere økonomisk
-situasjon etter endt fosterhjems- eller institusjonsplassering enn andre barn.»
-Under behandlingen i Stortinget ble det tatt inn i
-lovteksten ytterligere begrensninger i adgangen til
-å kreve egenbetaling av barnet, ved at det ikke kreves dekning i barnets formue, avkastning av denne,
-eller barnets egne, opparbeidede midler. Derved
-blir også hensynet til barnets framtidige økonomiske situasjon ivaretatt, i hvert fall et stykke på vei.
-Det er følgelig begrenset hvilke midler på barnets hånd som kan danne grunnlag for krav om
-egenbetaling. Det er likevel ikke i loven fastsatt
-noen begrensning i adgangen til å kreve at
-løpende offentlige ytelser som barnepensjon,
-anvendes til egenbetaling, jf. at slike ytelser som
-utgangspunkt nettopp vil ha som formål å dekke
-underholdskostnader. Med hjemmel i barnevernloven § 9-3 er det i forskrift 21. desember 1992 nr.
-1246 gitt nærmere bestemmelser om kommunens
-adgang til å kreve innbetalt til seg barnepensjon
-som barnet oppebærer etter lov om folketrygd.
-Det er opp til kommunen å avgjøre om det skal
-stilles noe slikt krav, men det følger av forskriften
-§ 3 at barnet uansett har rett til å få utbetalt til seg
-et beløp som årlig minst tilsvarer 25 prosent av
-grunnbeløpet i Folketrygden samt 10 prosent av
-tilleggspensjonen eller særtillegget.
-Utvalget har forsøkt å ta rede på hvordan
-denne forskriften praktiseres. Fra sentralenheten
-for fylkesnemndene for barnevern og sosiale
-saker er det opplyst at enheten i tidsrommet
-2006–2015 har registrert i alt ni saker hvor kommunen krever egenbetaling fra barnet etter barnevernloven § 9-3. I hvor mange av disse sakene
-kommunen krever barnepensjon innbetalt til seg
-er uvisst, men det er grunn til å anta at det ikke er
-særlig utbredt at det kreves refusjon i barnepensjon for oppholdsutgifter.
-Det vises til at folketrygdlovens kapittel 18 om
-barnepensjon har liknende bestemmelser om
-reduksjon i barnepensjon under opphold i en institusjon med fri kost og losji under statlig ansvar.
-Barnepensjonen under oppholdet utgjør 10 prosent av grunnbeløpet dersom barnet har mistet én
-av foreldrene og 45 prosent av grunnbeløpet dersom barnet har mistet begge foreldrene eller barnet har mistet sin mor og farskapet ikke er fastslått. Barnepensjonen blir imidlertid ikke redusert under opphold i somatiske sykehusavdelinger. Arbeids- og velferdsetaten kan også
-
-[Side 107]
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-bestemme at barnepensjonen ikke skal reduseres
-eller reduseres mindre enn etter hovedregelen,
-dersom barnet har faste og nødvendige utgifter til
-bolig. Det utbetaltes i utgangspunktet ikke barnepensjon under straffegjennomføring.
-Etter det utvalget har grunn til å tro er det per
-i dag ingen eller svært få barn som får sin barnepensjon redusert etter disse bestemmelsene. Det
-var i 2012 ingen mottakere av barnepensjon som
-fikk redusert ytelse på grunn av opphold i institusjon (folketrygdloven § 18-8). Det var heller ingen
-mottakere av barnepensjon som fikk stans i utbetalingen på grunn av straffegjennomføring (folketrygdloven § 18-9). Dette var tilfellet også i 2010
-og 2011, mens det var én mottaker av barnepensjon som fikk stans i utbetalingen etter folketrygdloven § 18-9 i 2009.
-Utvalgets vurdering
-Med bakgrunn i denne gjennomgangen, mener
-utvalget det kan legges til grunn at barn er sikret
-forsørgelse frem til de er minst 18 år, enten de
-vokser opp sammen med foreldrene sine eller
-ikke, og uavhengig av årsaken til at de vokser opp
-uten én av eller begge foreldrene.
-Utvalget viser videre til at det varierer i
-hvilken grad barnepensjon anvendes i det
-løpende underholdet av barn, men at dette
-vanskelig kan tas hensyn til i utformingen av en
-framtidig ytelse. Særlig er det usikkert i hvilken
-grad barnepensjon til barn som har mistet begge
-foreldrene og som blir plassert av barnevernet i
-institusjon eller fosterhjem, benyttes i det
-løpende underholdet. Som vist, ser det ut til at
-kommunens adgang til å kreve refusjon i barnepensjon for oppholdsutgifter, brukes i ganske
-liten grad, men utvalget har ikke kunnet fremskaffe noen opplysninger om hvordan den
-løpende, fulle barnepensjonen som barnet har
-rett til, faktisk blir benyttet.
-Når det gjelder hvilket nivå en framtidig ytelse
-til etterlatte barn som har mistet én av eller begge
-foreldrene bør ha, legger utvalget etter dette til
-grunn at ytelsen kan fastsettes på et relativt selvstendig grunnlag ut fra en samlet vurdering av
-relevante forhold. Utvalget legger likevel til grunn
-at heller ikke en framtidig ytelse vil være den
-eneste kilden til dekning av utgiftene ved oppfostring av barn.
-
-7.3.3
-
-105
-
-Kapittel 7
-
-Elementer i utformingen av en framtidig
-ytelse til etterlatte barn
-
-Utvalget har kommet frem til at følgende elementer bør inngå i utformingen av en framtidig ytelse
-til etterlatte barn:
-Ytelsen til etterlatte barn bør fastsettes uavhengig av
-avdødes inntekt
-Utvalget foreslår i kapittel 6 at ytelser til etterlatte
-voksne under 67 år i framtiden skal utmåles uavhengig av avdødes tidligere inntekt eller opptjening.
-Det er i begrunnelsen for forslaget blant annet pekt
-på at dette vil forenkle systemet for ytelser til etterlatte. Utvalget legger til grunn at en slik forenkling
-også bør anvendes i utformingen av ytelsene til
-etterlatte barn. Utvalget vil derfor legge til grunn at
-en framtidig ytelse til etterlatte barn skal fastsettes
-uavhengig av avdødes inntekt og opptjening.
-For barn som har mistet én forelder innebærer ikke dette noen endring av prinsippet som
-ligger til grunn for dagens barnepensjon. For
-barn som har mistet begge foreldrene innebærer
-dette at en i større grad likestiller etterlatte barn,
-ved at barn av foreldre som har lav inntekt og opptjening i folketrygden, isolert sett vil få en like høy
-ytelse som barn av mer velstående foreldre.
-Ytelsen til etterlatte barn bør være uavhengig av
-barnets alder
-Det kan diskuteres om ytelsen til etterlatte barn
-bør variere med barnets alder. Det vises til at en i
-Sverige har et system som gir høyere ytelser dersom det yngste barnet er under 12 år enn dersom
-det yngste barnet er over 12 år. Argumentet for en
-slik utforming synes å være at omsorg for små
-barn kan medføre at den enslige forsørgeren har
-mer begrensede muligheter til å skaffe seg egen
-inntekt enn en enslig forsørger med større og presumptivt mer selvstendige barn.
-I motsatt retning trekker at det normalt koster
-mer å forsørge eldre barn enn yngre barn. I en del
-sammenhenger øker derfor det økonomiske tilskuddet med barnets alder. Dette gjelder blant
-annet for forhøyet bidragsforskott hvor det gis et tillegg til den fastsatte satsen slik at det økonomiske
-bidraget utgjør et høyere beløp til barn over 11 år
-enn til barn under 11 år. I regelverket for beregning
-av underholdsbidrag legges det likeledes til grunn
-at underholdskostnaden som skal fordeles mellom
-foreldrene øker med barnets alder, i henhold til fire
-ulike aldersklasser. Et barn går over i en ny aldersklasse 1. juli det året det fyller 6, 11 og 15 år.
-
-[Side 108]
-
-106
-
-Kapittel 7
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-I og med at ulike forhold trekker i retning
-både av en høyere og en lavere ytelse for barn
-over en viss alder, ser utvalget det som lite formålstjenlig å ha satser som avhenger av barnets alder.
-Det at dagens satser for barnepensjon ikke avhenger av barnets alder, trekker også i retning av satser som ikke varierer med barnas alder.
-Ytelsen til etterlatte barn bør fastsettes uavhengig av
-antall søsken
-Utvalget har tidligere i utredningen pekt på at
-bortfall av stordriftsfordeler kan være et argument for å kompensere for inntektsbortfall ved en
-forsørgers død. At det er stordriftsfordeler i husholdningen kommer til uttrykk ved at utgiftene
-per person innenfor en husholdning er lavere, jo
-flere personer som inngår i husholdningen.
-Eksistensen av stordriftsfordeler kan muligens også forklare at satsene for barnepensjon ble
-gjort avtrappende ved flere barn ved innføringen
-av barnepensjonen i folketrygden, i motsetning til
-det som gjaldt etter tidligere lovgivning. Utvalget
-kan imidlertid ikke se at det ble gitt noen særskilt
-begrunnelse for dette.
-Det er rimelig å tenke seg at det er noen stordriftsfordeler også knyttet til å ha flere barn i en
-husholdning kontra det å ha ett barn i en husholdning. Hvor mye en sparer i utgifter per barn
-av å ha flere barn, vil nok være svært individuelt
-og avhenge av en rekke forhold, som for eksempel barnas kjønn, nærhet i alder mellom barna
-og levestandard generelt. Det er imidlertid nærliggende å anta at de ytterligere stordriftsfordelene det ligger i «ett ekstra barn» er begrensede.
-Det kan derfor være argumenter for at ytelser til
-etterlatte barn i stedet bør utgjøre en fast sats
-per barn, uavhengig av hvor mange barn det er i
-en søskenflokk. Det vil i så fall innebære at en
-legger til grunn at en husholdning med flere
-barn ikke har mer omfattende stordriftsfordeler
-enn en husholdning med ett barn. I ekvivalensskalaene til OECD og EU, som er mye brukt til å
-analysere hvilket inntektsnivå som er nødvendig
-for å oppnå en viss økonomisk velferd, benyttes
-faste vekter per barn, uavhengig av antall barn i
-husholdningen. Det vises i denne sammenhengen til at økningen i satsene for grunnpensjon for
-gifte og samboende pensjonister tilsvarende kan
-ses som at stordriftsfordeler i husholdningen
-tillegges mindre vekt i pensjonssystemet enn tidligere.
-Det er som tidligere nevnt rimelig å legge til
-grunn at ytelsen til etterlatte barn uansett ikke
-skal være den eneste kilden til forsørgelse, og der-
-
-med ikke fullt ut skal dekke det ekstra inntektsbehovet som oppstår som følge av at det er ett barn
-mer i husholdningen.
-Når det gjelder barn som har mistet begge foreldrene, er situasjonen en litt annen. Det er lite
-sannsynlig i dagens samfunn at foreldreløse barn
-utgjør en separat husholdning etter foreldrenes
-død. Det antas at barn som har mistet begge foreldrene blir forsørget inntil en alder hvor de forutsetningsvis er i stand til å forsørge seg selv, det vil
-si til de er 18 år eller til de har fullført videregående utdanning. Etter utvalgets oppfatning bør
-ytelser til etterlatte barn som har mistet begge foreldrene derfor løsrives fra tankegangen om inntektssikring og heller innrettes som et supplement i forsørgelsen og/eller som et bidrag til at
-barnet kan opparbeide seg midler til senere egenforsørgelse. Dette taler etter utvalgets oppfatning
-for at også ytelsen til etterlatte barn som har mistet begge foreldrene, bør utformes med en fast
-sats per barn. Med en slik tilnærming, vil en redusere effekten av at antall barn i familien kan ha
-stor betydning for nivået på ytelsen til hvert av
-barna. Utvalget vurderer at en ytelse til etterlatte
-barn som har mistet begge foreldrene, og som
-utformes med en fast sats uavhengig av antall søsken, bør innebære en reduksjon i nivået på ytelsen
-til barn som ikke deler ytelsen med søsken, i forhold til dagens barnepensjon.
-Det vil også innebære en administrativ forenkling å benytte faste satser per barn, ved at ytelsene
-til barn i en søskenflokk ikke da må regnes om
-når noen av barna når den alderen de ikke lenger
-har rett til ytelsen. Det vil da heller ikke lenger
-være behov for særskilt beregning ved flere
-barnekull slik tilfellet er i dag.
-Ytelsen til etterlatte barn bør fastsettes uavhengig av
-trygdetid
-Utvalget foreslår enhetlige satser, uavhengig av
-avdøde forelders inntekt og pensjonsopptjening.
-Avdøde forelder må ha oppfylt kravet til botid og
-barnet må være medlem av folketrygden for at det
-skal foreligge rett til ytelse. Innretningen på utvalgets forslag til ny ytelse til etterlatte barn tilsier at
-det ikke bør legges til grunn noen trygdetidsberegning. De internasjonale avtalene Norge er tilknyttet, er imidlertid omfattende og kompliserte.
-Det vil derfor være behov for en grundig vurdering av mulige konsekvenser for personer med
-rettigheter fra flere land i den videre oppfølgingen
-av utvalgets forslag.
-I motsetning til for etterlatte voksne, må en
-framtidig ytelse til etterlatte barn fortsatt være en
-
-[Side 109]
-
-107
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-avledet ytelse i den forstand at det er avdøde foreldres botid som har betydning for retten til ytelse,
-ikke barnets egen.
-Ytelsen til alle etterlatte barn bør fortsette til 20 år
-dersom barnet er under utdanning
-Barnepensjon utbetales til barnet er 18 år når én
-av foreldrene er død og kan utbetales til barnet er
-20 år dersom begge foreldrene er døde og barnet
-fortsatt er under utdanning, eventuelt er lærling
-eller praktikant med lav lønn. Barnepensjon etter
-dødsfall som skyldes yrkesskade kan utbetales til
-barnet fyller 21 år dersom barnet er under utdanning, også selv om bare én av foreldrene er døde.
-Som ledd i at utvalget ønsker å prioritere barn,
-foreslår utvalget å forlenge ytelsesperioden til 20
-år også til barn som bare har mistet én forelder. I
-dag er det vanlig at barn er under foreldres
-omsorg lenger enn tidligere. I tillegg vil de fleste
-unge være under utdanning til endt videregående
-skole. Utvalget mener at det bør vurderes om en
-felles aldersgrense også kan omfatte barn som får
-innvilget barnepensjon etter dødsfall som skyldes
-yrkesskade. Et felles regelverk for alle etterlatte
-barn på dette området ville bidra til forenkling av
-det samlede regelverket.
-Etter det utvalget erfarer, er det få barn som
-har barnepensjon etter dødsfall som skyldes
-yrkesskade. Blant barn som har mistet én forelder,
-var det 37 barn over 18 år som mottok ytelse per
-desember 2015, og som dermed må ha fått innvilget barnepensjon etter de særskilte bestemmelsene. I og med at det må søkes om fortsatt barne-
-
-Kapittel 7
-
-pensjon når barnet fyller 18 år, finnes det imidlertid ikke informasjon om hvor mange av de yngre
-barna som på et senere tidspunkt kan komme inn
-under de særskilte yrkesskadebestemmelsene.
-
-7.4
-
-Satser i en framtidig ytelse til
-etterlatte barn
-
-7.4.1
-
-Barn som har mistet én av foreldrene
-
-Utvalget foreslår etter en samlet vurdering et nivå
-på en framtidig ytelse til etterlatte barn som har
-mistet én forelder på 50 prosent av grunnbeløpet.
-I figur 7.7 er en slik ytelse illustrert per måned per
-barn etter antall barn. Med gjennomsnittlig
-grunnbeløp for 2016 vil ytelsen utgjøre om lag
-3 800 kroner per måned, mens den i dag utgjør
-mellom om lag 2 000 og om lag 3 000 kroner per
-barn per måned, avhengig av antall barn som skal
-dele en samlet ytelse.
-I desember 2015 var det 12 193 barn som mottok barnepensjon etter å ha mistet én forelder. Nær
-90 prosent av barna hadde ytelser beregnet på bakgrunn av full trygdetid (40 år). Gjennomsnittlig
-ytelse per barn var om lag 32 200 kroner (0,36 ganger grunnbeløpet med gjennomsnittlig grunnbeløp
-for 2015) per år. En økning av satsen til 50 prosent
-av grunnbeløpet, vil isolert sett i gjennomsnitt
-representere en forbedring av ytelsene beregnet på
-grunnlag av full trygdetid på omlag 40 prosent.
-Utvalget har vurdert om det er behov for et tak
-på samlet ytelse til barn som har mistet én forelder fordi samlet ytelse til en stor søskenflokk kan
-bli svært høy når satsene ikke er avtrappende
-
-Dagens (40/25 pst. av G)
-
-50 pst. av G
-
-6 000
-
-6 000
-
-5 000
-
-5 000
-
-4 000
-
-4 000
-
-3 000
-
-3 000
-
-2 000
-
-2 000
-
-1 000
-
-1 000
-
-0
-
-0
-1 barn
-
-2 barn
-
-3 barn
-
-4 barn
-
-5 barn
-
-6 barn
-
-Figur 7.7 Ytelse til etterlatte barn som har mistet én forelder. Ytelse per barn per måned etter antall barn.
-2016
-
-[Side 110]
-
-108
-
-NOU 2017: 3
-
-Kapittel 7
-
-Folketrygdens ytelser til etterlatte
-
-Dagens (40/25 pst. av G)
-
-50 pst. av G
-
-24 000
-
-24 000
-
-22 000
-
-22 000
-
-20 000
-
-20 000
-
-18 000
-
-18 000
-
-16 000
-
-16 000
-
-14 000
-
-14 000
-
-12 000
-
-12 000
-
-10 000
-
-10 000
-
-8 000
-
-8 000
-
-6 000
-
-6 000
-
-4 000
-
-4 000
-
-2 000
-
-2 000
-
-0
-
-0
-1 barn
-
-2 barn
-
-3 barn
-
-4 barn
-
-5 barn
-
-6 barn
-
-Figur 7.8 Ytelse til etterlatte barn som har mistet én forelder. Samlet ytelse per måned etter antall barn. 2016
-
-med antall barn, jf. figur 7.8. Samtidig ville et tak
-for samlet ytelse bryte med logikken bak utformingen av en ytelse som har til hensikt å
-behandle alle barn likt. Det er svært få tilfeller av
-svært store søskenflokker. I praksis er det derfor
-ikke grunn til å tro at et fravær av et tak for samlet
-ytelse vil kunne bli noe problem.
-7.4.2
-
-Barn som har mistet begge foreldrene
-
-Utvalget mener at også ytelsen til helt foreldreløse
-barn bør utformes med en fast sats uavhengig av
-om barnet har søsken eller ikke, og viser til at
-utviklingen av forsørgings- og omsorgsformer,
-blant annet med høyere generelt inntektsnivå og
-bedre utbygde ordninger enn i 1967, trekker i retning av å løsrive ytelsen fra prinsippet om at første
-barn trer inn i foreldrenes pensjonsrett. Dette
-innebærer at nivået på ytelsen bør være lavere for
-første barn enn i dag.
-Utvalget foreslår ut fra en samlet vurdering et
-nivå på en framtidig ytelse til barn som har mistet
-begge foreldrene på 120 prosent av grunnbeløpet.
-Utvalget viser til at en slik sats ville gi en månedlig
-ytelse i 2016 på om lag 9 200 kroner. Dette tilsvarer også den høyeste satsen for underholdskostnaden, jf. punkt 7.3.2.
-Figur 7.9 viser en slik ytelse per måned per
-barn etter antall barn. Med gjennomsnittlig
-
-grunnbeløp for 2016 vil ytelsen altså utgjøre om
-lag 9 200 kroner per måned, mens den i dag utgjør
-fra om lag 5 500 kroner per barn per måned når
-fire barn deler en samlet ytelse, til om lag 15 300
-kroner per måned for ett barn, dersom en legger
-minsteytelsen til grunn for det første barnet.
-Figur 7.10 viser samlet barnepensjon per
-måned etter hvor mange barn det er i en søskenflokk. Med en sats på 120 prosent av grunnbeløpet for alle barn, kan samlet ytelse med seks barn
-bli nesten 56 000 kroner per måned. Per desember 2015 var imidlertid det høyeste antall søsken
-som mottok barnepensjon etter å ha mistet begge
-foreldrene, fire.
-En sats på 120 prosent av grunnbeløpet til
-barn som har mistet begge foreldrene innebærer
-at alle barn som er to eller flere i en søskenflokk
-får en like god eller bedre ytelse enn barnepensjon gir i dag, dersom en legger til grunn minsteytelsen for det første barnet. En slik sats innebærer likevel en gjennomsnittlig reduksjon i
-ytelsen på 34 prosent i forhold til gjennomsnittlig
-ytelse i desember 2015, fordi svært mange av mottakerne mottok barnepensjonen alene.
-De fleste barn som ikke deler en samlet barnepensjon med søsken vil altså i framtiden kunne få
-en lavere ytelse enn de ville ha fått med dagens
-regelverk. Også barn som får ytelsene beregnet
-på bakgrunn av høye etterlattepensjoner, vil i
-
-[Side 111]
-
-109
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-Dagens (200/40/25 pst. av G)
-
-Kapittel 7
-
-120 pst. av G
-
-18 000
-
-18 000
-
-16 000
-
-16 000
-
-14 000
-
-14 000
-
-12 000
-
-12 000
-
-10 000
-
-10 000
-
-8 000
-
-8 000
-
-6 000
-
-6 000
-
-4 000
-
-4 000
-
-2 000
-
-2 000
-
-0
-
-0
-1 barn
-
-2 barn
-
-3 barn
-
-4 barn
-
-5 barn
-
-6 barn
-
-Figur 7.9 Ytelse til etterlatte barn som har mistet begge foreldrene. Ytelse per barn per måned etter antall
-barn. 2016
-
-visse tilfeller kunne komme dårligere ut med nytt
-regelverk. Dette vil imidlertid bare gjelde nye tilfeller, som skal beregnes etter nye regler. Det forutsettes at allerede innvilget barnepensjon løper
-til pensjonen opphører ved fylte 18 eller 20 år. Det
-forutsettes også at en tidligere innvilget barnepensjon vil kunne bli forhøyet dersom nytt regelverk
-
-vil gi en høyere ytelse, jf. nærmere omtale i punkt
-7.6. For eksempel vil barn som ikke deler en samlet barnepensjon med søsken, og som i utgangspunktet ville få en lavere ytelse med nytt regelverk, likevel kunne komme bedre ut med ny
-ytelse ettersom det foreslås at en framtidig ytelse
-ikke skal reduseres ved manglende trygdetid.
-
-Dagens (200/40/25 pst. av G)
-
-120 pst. av G
-
-56 000
-
-56 000
-
-52 000
-
-52 000
-
-48 000
-
-48 000
-
-44 000
-
-44 000
-
-40 000
-
-40 000
-
-36 000
-
-36 000
-
-32 000
-
-32 000
-
-28 000
-
-28 000
-
-24 000
-
-24 000
-
-20 000
-
-20 000
-
-16 000
-
-16 000
-
-12 000
-
-12 000
-
-8 000
-
-8 000
-
-4 000
-
-4 000
-
-0
-
-0
-1 barn
-
-2 barn
-
-3 barn
-
-4 barn
-
-5 barn
-
-6 barn
-
-Figur 7.10 Ytelse til etterlatte barn som har mistet begge foreldrene. Samlet ytelse per måned etter antall
-barn. 2016
-
-[Side 112]
-
-110
-
-Kapittel 7
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-Utvalget legger vekt på at en framtidig ytelse
-til etterlatte barn som har mistet begge foreldrene
-både bør kunne være et supplement i forsørgelsen
-og bidra til at barnet kan opparbeide seg midler.
-Utvalget viser i denne sammenheng til gjennomgangen i punkt 7.3.2, som blant annet viser at barnepensjonen i dag ikke alltid blir benyttet (fullt ut)
-til løpende underhold. Det vises også til at de
-fleste barn som har foreldre i live, i praksis vil få
-visse bidrag fra foreldrene, enten direkte eller
-indirekte, også etter at forsørgelsesplikten er opphørt. Det vil ikke være urimelig om barn som har
-mistet begge foreldrene og ikke har noen slik
-mulighet, kan få anledning til å spare opp noe av
-barnepensjonen.
-Utvalget mener at det, tatt i betraktning at
-ytelsen til etterlatte barn som har mistet begge
-foreldrene og som ikke har søsken foreslås utmålt
-med en lavere sats enn dagens barnepensjon, bør
-vurderes om det fortsatt skal være anledning til å
-redusere eller kreve tilbakebetalt barnepensjon i
-tilfeller barn har opphold i institusjon eller lignende hvor kost og losji er dekket av det offentlige, jf. 7.3.2. Utvalget mener at dagens regler kan
-medvirke til å forverre situasjonen for barn som
-er i en allerede vanskelig situasjon ved at de ikke
-har mulighet til å opparbeide seg midler til senere
-egenforsørgelse. Utvalget mener derfor at det i
-oppfølgingen av utredningen bør vurderes om det
-er behov for å videreføre bestemmelsene i folketrygdloven § 18-8 og om kommuner fortsatt bør
-ha anledning til å kreve refusjon i barnepensjon
-ved plassering utenfor hjemmet etter barnevernloven, jf. forskrift 21. desember 1992 nr. 1246. I
-denne sammenhengen bør en også vurdere om
-folketrygdlovens regler om bortfall eller omregning av barnepensjon når en enslig person har fått
-foreldreansvar etter barnelova § 38 for et barn
-med rett til barnepensjon, jf. folketrygdlovens
-§ 18-6, og mottar overgangsstønad til enslig mor
-eller far etter kapittel 15, er hensiktsmessig og
-rettferdig utformet med tanke på barn i ulike livssituasjoner.
-7.4.3
-
-Skattemessig behandling av ytelser til
-etterlatte barn
-
-I mandatet er det forutsatt at også ytelser til
-etterlatte barn i framtiden skal skattlegges som
-lønn, mens barnepensjon i dag i utgangspunktet
-skattlegges som pensjonsinntekt. Skattlegging
-som lønn innebærer økt trygdeavgift og økt minstefradrag i forhold til hvordan barnepensjon i
-dag beskattes. Med satsene for 2016, ville trygdeavgiften økt fra 5,1 til 8,2 prosent og minstefra-
-
-draget fra 73 600 til 91 450 kroner. Hvordan
-ytelsen til etterlatte barn faktisk blir beskattet,
-både dagens og en framtidig ytelse, avhenger av
-hvem som er mottaker av ytelsen, og mottakerens inntektsforhold for øvrig.
-Barnepensjon til barn over 16 år lignes hos
-barnet selv. Et barn som bare mottar barnepensjon som følge av at én av foreldrene er døde,
-betaler i dag ikke skatt. Barn som har arbeidsinntekt i tillegg skal ha et særskilt inntektsfradrag, jf. skatteloven § 6-49. For barn som betaler
-skatt, vil den foreslåtte økningen i ytelsen til
-etterlatte barn som har mistet én forelder mer
-enn oppveie at trygdeavgiften også øker. I tillegg
-bidrar økt minstefradrag til lavere skatt, med
-mindre arbeidsinntekten er så høy at minstefradraget har nådd øvre grense.
-For barn som har mistet begge foreldrene, vil
-skatteomleggingen isolert sett (ved uendret bruttoytelse) bidra til økt inntekt etter skatt. Dette
-skyldes at økningen i minstefradraget mer enn
-oppveier økningen i trygdeavgift.
-Barnepensjon til barn på 16 år eller yngre lignes hos etterlatt forelder. Skattemessig behandling av barnepensjonen avhenger da av forelderens skatteposisjon. Dersom forelderen ikke har
-rett til skattebegrensning, blir trygdeavgiften på
-en framtidig ytelse til barn ved skatteomleggingen
-høyere, men det gis også et høyere minstefradrag,
-der effekten av økt minstefradrag mer enn oppveier effekten av økt trygdeavgift, selv uten en
-økning i nivået på ytelsen. Den foreslåtte økningen av ytelsen til etterlatte barn som har mistet én
-forelder, trekker ytterligere i retning av økt inntekt etter skatt.
-Det følger av utvalgets mandat at skattebegrensningsregelen skal oppheves for mottakere av etterlatteytelse som er under 67 år. Dersom forelderen i dag har rett til skattebegrensning, er den skattemessige behandlingen av barnepensjon avhengig av forelderens etterlattepensjon, men også øvrige inntekter og fradrag.
-Marginalskatten på inntekter utover etterlattepensjon varierer i dag mellom 0 og 55 prosent
-under skattebegrensningen. Det er derfor ikke
-entydig om omlegging av skattereglene for
-ytelsen til etterlatte barn vil gi høyere eller lavere
-inntekt etter skatt for mottakere av etterlattepensjon og barnepensjon.
-I punkt 6.5.1 vises effekten av omleggingen av
-ytelsen til etterlatte under 67 år, herunder
-endrede avkortingsregler og endrede skatteregler, før og etter skatt. Det framgår at etterlatte
-med etterlattepensjon på minstenivå og som har
-arbeidsinntekt på inntil om lag 350 000 kroner i
-
-[Side 113]
-
-111
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-Kapittel 7
-
-13 000
-
-13 000
-
-12 000
-
-12 000
-
-11 000
-
-11 000
-
-10 000
-
-10 000
-
-9 000
-
-9 000
-
-8 000
-
-8 000
-
-7 000
-
-7 000
-
-6 000
-
-6 000
-
-5 000
-
-5 000
-
-4 000
-
-4 000
-
-3 000
-
-3 000
-
-2 000
-
-2 000
-
-1 000
-
-1 000
-0
-
-0
-0
-
-50 100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1 000 1 050 1 100
-
-Figur 7.11 Differanse i samlet inntekt etter skatt1 for etterlatt med ett barn for ulike nivåer på den etterlattes
-inntekt i tusen kroner
-1
-
-Differansen = nye ordninger – dagens ordninger.
-Nye ordninger: Samlet inntekt for en etterlatt med en ny etterlatteytelse (2,25 ganger grunnbeløpet, 45 prosent avkortning mot den
-etterlattes egen inntekt og skattlagt som lønn, herunder med eventuelt særfradrag for enslig forsørger) og ny ytelse for ett etterlatt
-barn (0,5 ganger grunnbeløpet), skattlagt som lønn.
-Dagens ordninger: Samlet inntekt med dagens minstenivå for etterlattepensjon (2 ganger grunnbeløpet, 40 prosent avkortning mot
-den etterlattes egen inntekt og skattlagt etter dagens regler, herunder skattebegrensning) og dagens barnepensjon for ett barn (0,4
-ganger grunnbeløpet), skattlagt som pensjonsinntekt.
-
-varierende grad vil få redusert inntekt etter skatt.
-Den maksimale reduksjonen som følge av skatteomleggingen, gitt ingen andre fradrag enn standardfradrag, vil være om lag 21 000 kroner og inntreffer ved en inntekt på om lag 100 000 kroner.
-Dersom barnepensjon er en del av den etterlatte forelders inntekt, vil den maksimale reduksjonen som følge av skatteomleggingen bli lavere.
-Når en tar hensyn til økningen i ytelsen til etterlatte til barn som har mistet én forelder, og til at
-skatteleggingen av ytelsen til etterlatte barn også
-legges om, modereres nedgangen i inntekt etter
-skatt ytterligere. I tillegg til dette, vil etterlatte
-med barn få rett til særfradrag for enslig forsørger, som de ikke har nytte av under skattebegrensningsregelen. En etterlatt med barn som i
-utgangspunktet har minsteytelsen for etterlattepensjon, vil samlet sett komme bedre ut enn før
-omleggingen av etterlatteytelsene og skatteomleggingen, for alle nivåer på den etterlattes
-arbeidsinntekt, jf. figur 7.11.
-Utvalget viser til at virkningene av skatt er
-komplekse og det har ikke vært del av utvalgets
-arbeid å belyse alle de skattemessige konsekvensene av forslagene. Utvalgets klare intensjon er å
-styrke ytelsene til etterlatte barn for på den måten
-
-å hindre barnefattigdom ved bortfall av forsørger.
-Utvalget forutsetter at dette legges til grunn i den
-videre oppfølgingen av utvalgets utredning.
-
-7.5
-
-Virkninger på folketrygdens
-utgifter til etterlatte barn
-
-Antall barn som får rett til ytelser fra folketrygden
-etter å ha mistet foreldre, har gått ned over tid.
-Per 31. desember 1967 var antall etterlatte barn
-om lag 26 182, mens det i 1997 ble utbetalt barnepensjon til om lag 13 500 barn. I 2015 var antall
-etterlatte barn redusert til om lag 12 000. En generell økning i foreldrenes levealder, som mer enn
-motvirker effekten av at alderen for når en får
-barn øker, er med på å forklare nedgangen i antall
-etterlatte barn over tid.
-Figur 7.12 viser antall etterlatte barn fra 1997
-til 2015 og framskrevet fra 2016 til 2070. Andelen
-barn med barnepensjon i ettårige aldersgrupper
-er framskrevet med utviklingen i dødeligheten for
-foreldre. Mellomalternativet i Statistisk sentralbyrås befolkningsframskrivning fra juni 2016 er lagt
-til grunn, og gjennomsnittlig alder ved fødsel er
-holdt konstant. Antall etterlatte barn er bestemt av
+Kombinasjonen av gifte kvinners økte yrkesdeltaking, mindre stabile samliv og flere énpersonhusholdninger forsterker også fordelingsvirkninger som kan oppfattes å mangle en god begrunnelse. To personer med lik egen pensjonsopptjening kan i mange tilfeller få ulik alderspensjon. Dette gjelder både dersom man sammenlikner gjenlevende med enslige som får sin alderspensjon beregnet etter alminnelige regler, og sammenlikning innad i gruppen av gjenlevende. For mange gjenlevende gir egen pensjonsopptjening en høyere alderspensjon enn en pensjon beregnet delvis med avdødes opptjening. Verdien av gjenlevenderettigheter varier mye, og bestemmes av forholdet mellom avdødes og gjenlevendes inntekt.

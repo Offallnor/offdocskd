@@ -1,859 +1,202 @@
-# NOU 2024: 3, del 35 av 40 (side 439–449)
+# NOU 2024: 3, del 35 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 439]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-hlsenteret.no.
-https://www.hlsenteret.no/
-forskning/minoriteter-rasisme-og-konspirasjonsteorier/konspirasjonsteorier-innenforh%C3%B8yreekstremismen/index.html
-HL-senteret. (u.å.-a). Forskning. hlsenteret.no.
-https://www.hlsenteret.no/forskning/
-HL-senteret. (u.å.-b). Jødisk historie og antisemittisme. hl-senteret.no. Hentet 20.09.2023
-fra https://www.hlsenteret.no/forskning/jodisk-historie-og-antisemittisme/
-HL-senteret. (u.å.-c). Minnesmerket for deporterte
-norske jøder. hlsenteret.no. https://www.hlsenteret.no/utstillinger/qr/gormley/index.html
-Hobolt, S. B. (2016). The Brexit vote: a divided nation, a divided continent. Journal of European
-Public Policy, 23(9), 1259-1277. https://
-doi.org/10.1080/13501763.2016.1225785
-Hoel, P. A. (2022, 02.01.2022). Skandalehøst gir
-fall i tillit på måling. Derfor er omdømme-tapet
-dramatisk. Vårt land. https://www.vl.no/nyheter/2022/01/02/skandalehost-gir-fall-i-tillitderfor-far-stortinget-en-tung-jobb/
-Hoffman, B. (1984). Right-wing terrorism in Europe since 1980 (P-7029). Rand. https://
-www.rand.org/content/dam/rand/pubs/papers/2005/P7029.pdf
-Hoffman, B. (1995). “Holy terror”: The implications of terrorism motivated by a religious imperative. Studies in Conflict & Terrorism, 18(4),
-271-284.
-https://doi.org/10.1080/
-10576109508435985
-Hoffmann, C., Kopperud, Ø. & Moe, V. (2012).
-Antisemittisme i Norge?: Den norske befolkningens holdninger til jøder og andre minoriteter.
-HL-senteret.
-https://www.hlsenteret.no/
-forskning/jodisk-historie-og-antisemittisme/
-holdningsundersokelsene/holdningsundersokelsen-2012/HL_Rapport_2012_web.pdf
-Hoffmann, C. & Moe, V. (2017). Holdninger til jøder og muslimer i Norge 2017. nhri. https://
-www.nhri.no/wp-content/uploads/2018/03/
-Rapport-fra-HL-senteret-om-Holdninger-tilj%C3%B8der-og-muslimer-i-Norge-i-2017-befolkningsunders%C3%B8kelse-og-minoritetsstudie-2017.pdf
-Hofoss, E. (2021). Da terrorforskerne på Kjeller
-havnet i verdenspressens søkelys. ffi.no. https://
-www.ffi.no/aktuelt/nyheter/da-terrorforskerne-pa-kjeller-havnet-i-verdenspressens-sokelys
-Holck, P. & Skålevåg, S. A. (2020). Hippokratiske
-ed. I Store norske leksikon. https://snl.no/
-hippokratiske_ed
-Holm, G. (2023, 30.11.2023). Russland klassifiserer LHBT+ som «ekstremister». NRK. https://
-
-437
-
-Referanseliste
-
-www.nrk.no/urix/russland-klassifiserer-lhbt_som-_ekstremister_-1.16659536
-Holm, I. M., Jacobsen, I. D. & Larsen, A. L.
-(2023). Samtykke fra mindreårige. Tidsskrift for
-familierett, arverett og barnevernrettslige spørsmål, 21(4), 246-260. https://www.idunn.no/
-eprint/VNDIWQK7RCABE7R6VZIJ/full#fn7
-Holmboe, M. (2017). Tale eller tie: Om plikt til å
-avverge alvorlige lovbrudd og uriktige domfellelser. Gyldendal Juridisk.
-Holmboe, M. (2022). Taushets- og opplysningsplikt i helsesektoren – menneskerettighet mot
-menneskerettighet. I H. S. A. M. K. Bahus
-(Red.), Menneskerettigheter i helse- og omsorgstjenesten (s. 96–121). Universitetsforlaget.
-Holmboe, M. (2023a). Konfliktrådsloven kommentarutgave. Universitetsforlaget/Juridika.
-Holmboe, M. (2023b). Taushetsplikt og informasjonsdeling i det forebyggende arbeidet mot ekstremisme og radikalisering. [Vedlegg 4 i rapporten]
-Holmboe, M., Leer-Salvesen, K. & Vatnar, S. K. B.
-(2019) Avverging av mishandling i nære relasjoner – en flerfaglig tilnærming: del II, Tidsskrift for familierett, arverett og barnevernrettslige spørsmål, 17(3), 263-280. https://doi.org/
-10.18261/issn.0809-9553-2019-03-0
-Holmboe, M., Lenth, G. & Sæther, K. E. (2022/
-2023). Politiregisterloven. Karnov lovkommentarer.
-https://lovdata.no/pro/#document/
-NL/lov/2010-05-28-16
-Holmøy, O., Birkrem, T., Lien, T. & Flaten, K.
-(2019). Miljøterapeuter i skolen – et uforløst potensial.
-fontene. https://fontene.no/fagartikler/miljoterapeute–i-skolen--et-uforlost-potensial-6.47.654240.497e12dd76
-Holter, T. (2015, 17.04.2015). Ekstremisme på timeplanen. Fredrikstad blad. https://www.fb.no/ekstremisme-pa-timeplanen/s/5-59110123
-Home Department. (2018). CONTEST – The United Kingdom’s Strategy for Countering Terrorism. https://www.gov.uk/government/collections/contest
-Home Department. (2023). The United Kingdom’s
-Strategy for Countering Terrorism 2023.
-gov.uk.
-https://assets.publishing.service.gov.uk/media/
-650b1b8d52e73c000d54dc82/CONTEST_2023_English_updated.pdf
-Home Office. (2011). Prevent Strategy (Cm 8092).
-official-documents.gov.uk. https://assets.publishing.service.gov.uk/media/
-5a78966aed915d07d35b0dcc/prevent-strategyreview.pdf
-
-[Side 440]
-
-438
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Home Office. (2021, 01.04.). Revised Prevent duty
-guidance: for England and Wales. gov.uk.
-https://www.gov.uk/government/publications/prevent-duty-guidance/revised-preventduty-guidance-for-england-and-wales
-Home Office. (2023a). Channel duty guidance: Protecting people susceptible to radicalisation.
-gov.uk.
-https://assets.publishing.service.gov.uk/media/
-651e71d9e4e658001459d997/
-14.320_HO_Channel_Duty_Guidance_v3_Final_Web.pdf
-Home Office. (2023b, 12.05.2023). Guidance. Get
-help for radicalisation concerns. https://
-www.gov.uk/guidance/get-help-if-youre-worried-about-someone-being-radicalised#aboutprevent
-Home Office. (2023c, 15.09.2023). Proscribed terrorist groups or organisations. gov.uk. https://
-www.gov.uk/government/publications/proscribed-terror-groups-or-org–isations--2/proscribed-terrorist-groups-or-organisations-accessible-version
-Home Office & Rudd, A. (2016, 16.12.2016). National Action becomes first extreme right-wing
-group to be banned in UK. https://
-www.gov.uk/government/news/nationalaction-becomes-first-extreme-right-winggroup-to-be-banned-in-uk
-Hopperstad, M. S., Haram, O., Andersen, G.,
-Sandnes, Å. H. & Tobiassen, M. (2023,
-15.02.2023). VG kan nå avsløre meldingene Etjenesten sendte til islamisten. VG. https://
-www.vg.no/nyheter/i/venev4/den-hemmelige-operasjonen
-Hopperstad, M. S., Haram, O., Bergo, I., Olsen, P.
-S., Christensen, S. B. & Rydning, E. (2023,
-07.11.2023). Etterlyst norsk islamist siktet for
-Oslo-terroren. VG. https://www.vg.no/nyheter/innenriks/i/l3Rra7/etterlyst-norsk-islamist-siktet-for-oslo-terroren
-Hughes, S. & Meleagrou-Hitchens, A. (2017,
-28.01.2017). The Reach of ISIS’s Virtual Entrepreneurs into the United States. Lawfare.
-https://www.lawfaremedia.org/article/reachisiss-virtual-entrepreneurs-united-states
-Hultgreen, G. (2002, 26.–8.2002). – Jeg lever for islam, og hater norske verdier. Dagbladet.
-https://www.dagbladet.no/nyheter/jeg-leverfor-islam-og-hater-norske-verdier/65831673
-Human Rights Watch. (2016). Grounds for concern: Belgium’s counterterror responses to the
-Paris and Brussels Attacks. hrw.com. https://
-www.hrw.org/sites/default/files/report_pdf/
-belgium1116_web_6.pdf
-
-Humberset, K. & Bunjaku, S. (2012, 28.06.2012).
-Selacis minnefond til Kosovo. NRK. https://
-www.nrk.no/osloogviken/selacis-minnefondtil-kosovo-1.8225782
-Hume, T., Isaac, L. & Cruickshank, P. (2016,
-14.06.2016). French terror attacker threatened
-Euro 2016 in Facebook video, source says.
-CNN. https://edition.cnn.com/2016/06/14/
-europe/french-policeman-terror-attack/index.html
-Hülsemann, L. & Wilke, P. (2023, 07.11.2023). AfD
-in Saxony-Anhalt classified as right-wing extremist. Politico. https://www.politico.eu/article/
-afd-saxony-anhalt-classified-right-wing-extremist-germany/
-Hvitvasking. (u.å.). Bekjempelse av hvitvasking og
-terrorfinansiering i Norge. hvitvasking.no.
-https://hvitvasking.no/bekjempelse-avhvitvasking-og-terrorfinansiering-i-norge/
-Høeg, E., Jakobsen, H. Ø. & Time, J. K. (2023,
-22.09.2023). Norge er et tillitssamfunn. Var det
-denne uken det raknet? Morgenbladet. https://
-www.morgenbladet.no/aktuelt/politikk/2023/
-09/22/norge-er-et-tillitssamfunn-var-detdenne-uken-det-raknet/
-Høgestøl, S. A. E. (2018). En generell kriminalisering av fremmedkrigere: den norske modellen
-og påtaleskjønn i straffeloven § 145. I A. Andersson, S. A. E. Høgestøl & A. C. Lie (Red.),
-Fremmedkrigere: Forebygging, straffeforfølgning og rehabilitering i Skandinavia. Gyldendal juridisk.
-Høy-Petersen, N. & Fangen, K. (2018). Hate
-Crime Policy: Global Controversies and the
-Norwegian Approach. I G. Overland, A. J. Andersen, K. E. Førde, K. Grødum & J. Salomonsen (Red.), Violent Extremism in the 21st Century. Cambridge Scholars Publishing.
-Haanshuus, B. P. & Jupskås, A. R. (2017). Høyreklikk! En analyse av ytre høyrepå sosiale medier i Norge. Tidsskrift for samfunnsforskning,
-58(2), 145-165. https://doi.org/10.18261/
-issn.1504-291X-2017-02-01
-Haarr, A. G. G. & Partapuoli, K. H. (2012). Om trakassering av muslimer og innvandrere etter eksplosjonen i Regjeringskvartalet 22.07.2011.
-Antirasistisk senter.
-I tjeneste for Norge. (u.å.). International Security
-Assistance Force (ISAF). itjenestefornorge.no.
-https://www.itjenestefornorge.no/operasjoner/international-security-assistance-force-isaf
-ICDP Norge. (u.å.). Hva er ICDP?. icdp.no.
-https://www.icdp.no/hva-er-icdp/
-Ighoubah, F. (2021, 19.05.2021). Terrortiltalt 16åring hadde profilbilde av Arfan Bhatti på chat-
-
-[Side 441]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-teappen Telegram. Avisa Oslo. https://
-www.ao.no/terrortiltalt-16-aring-hadde-profilbilde-av-arfan-bhatti-pa-chatteappen-telegram/s/5-128-102164
-Ihlebæk, K. A. & Figenschou, T. U. (2022). Innenfor eller utenfor? Høyrevridde alternative medier og forhandling om grenser i den journalistiske institusjonen. Tidsskrift for samfunnsforskning, 63(4), 241-259. https://doi.org/
-10.18261/tfs.63.4.1
-Ihlen, Ø., Lindholm, J., Johansson, B. & Blach-Ørsten, M. (2023). Communicating a pandemic:
-crisis management and Covid-19 in the Nordic
-countries. Nordicom.
-Ilan, J. & Sandberg, S. (2019). How ‘gangsters’ become jihadists: Bourdieu, criminology and the
-crime–terrorism nexus. European Journal of
-Criminology, 16(3), 278-294. https://doi.org/
-10.1177/1477370819828936
-Institute for Economics and Peace. (u.å.). Global
-Terrorism Index (GTI). visionofhumanity.
-https://www.visionofhumanity.org/maps/global-terrorism-index/#/
-Institute for Strategic Dialogue. (2021). The
-networks and narratives of anti-refugee disinformation in Europe. ISDGlobal. https://www.isdglobal.org/wp-content/uploads/2021/07/
-The-networks-and-narratives-of-anti-migrantdiscourse-in-Europe.pdf
-Institute
-for
-Strategic
-Dialogue.
-(2023,
-15.12.2023). Cross-ideological antisemitism and
-the October 7th attacks. isdglobal. https://
-www.isdglobal.org/digital_dispatches/crossideological-antisemitism-and-the-october-7-thattacks/
-Institute for Strategic Dialogue. (u.å.-a). Incels. isdglobal.com.
-https://www.isdglobal.org/
-explainers/incels/
-Institute for Strategic Dialogue. (u.å.-b). White
-Genocide.
-isdglobal.
-https://www.isdglobal.org/explainers/white-genocide-conspiracy/
-Institutt for kriminologi og rettssosiologi. (2020,
-26.06.2023). Forebygging av ekstremisme (avsluttet). jus.uio.no. https://www.jus.uio.no/
-ikrs/forskning/prosjekter/jihadistisk/forebygging%20av%20ekstremisme/index.html
-Integrerings- og mangfoldsdirektoratet. (2023a,
-10.11.2023). Ber kommunene bosette 37 000
-flyktninger i 2024. NTB Kommunikasjon.
-https://kommunikasjon.ntb.no/pressemelding/18020638/ber-kommunene-bosette-37000-flyktninger-i-2024?publisherId=89626&lang=no
-
-439
-
-Referanseliste
-
-Integrerings- og mangfoldsdirektoratet. (2023b,
-14.09.2023). Dette gjør IMDi. imdi.no. https://
-www.imdi.no/om-imdi/dette-gjor-imdi/
-Integrerings- og mangfoldsdirektoratet. (u.å.). Tilskudd til integreringsarbeid i regi av frivillige
-organisasjoner. imdi.no. https://www.imdi.no/
-tilskudd/2024/tilskudd-til-integreringsarbeidi-regi-av-frivillige-organisasjoner-2024/
-Intelligence and Security Committee of Parliament. (2022). Extreme Right-Wing Terrorism.
-independent.gov.
-https://isc.independent.gov.uk/wp-content/uploads/2022/07/
-E02710035-HCP-Extreme-Right-Wing-Terrorism_Accessible.pdf
-Interlinkages database. (2023, 14.12.2023). Sweden: 9 cases. interlinkagesdatabase. https://interlinkagesdatabase.icct.nl/cases/Sweden
-Investigation committee terrorist attacks 22
-march 2016. (2018). Summary of the activities
-and recommandations. lachambre. https://
-www.lachambre.be/kvvcr/pdf_sections/publications/attentats/Brochure_Terrorists_Attacks.pdf
-Ipsos & Lund & Co. (2020). Hatefulle ytringer og
-trusler mot lokale folkevalgte (FoU-prosjekt nr.
-204030). KS. https://www.ks.no/contentassets/87ce0e5d6454422dadfdd51b860f8a3c/
-Hatefulle-ytringer-og-trusler-mot-lokale-folkevalgte.pdf
-Islam
-Net.
-(u.å.).
-YouTube.
-https://
-www.youtube.com/c/IslamNetVideo
-Islamsk Råd Norge & Mellomkirkelig råd for Den
-norske kirke. (2011). Fellesuttalelse mot religiøs ekstremisme. kirken. https://www.kirken.no/globalassets/kirken.no/aktuelt/bilder-2014/ekstremisme_fellesuttalelse_muslim_kristen_nov_2011.pdf
-Ismaeli, A. & Riaz, W. (2023, 16.05.2023). Politi-dokumenter: Bombedømt russer hadde tett kontakt med Bhatti. Så dukket han uventet opp i
-Norge. Aftenposten. https://www.aftenposten.no/norge/i/69KlWo/politi-dokumenterbombedoemt-russer-hadde-tett-kontakt-medbhatti-saa-dukket-han-uventet-opp-i-norge
-Iversen, L. L. (2017). Uenighetsfellesskap: Kan
-skolen være et treningsrom for offentlig uenighet? I M. von der Lippe & S. Undheim (Red.),
-Religion i skolen (s. 101-116). Universitetsforlaget.
-Jacobsen, S. E., Andersen, P. L., Nordø, Å. D., Sletten, M. & Arnesen, D. (2021). Sosial ulikhet i
-barn og unges deltakelse i organiserte fritidsaktiviteter (2021: 1). Senter for forskning på sivilsamfunn og frivillig sektor. https://samfunnsforskning.brage.unit.no/samfunnsforskning-
-
-[Side 442]
-
-440
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-xmlui/bitstream/handle/11250/2728534/Sosial%2bulikhet%2bi%2bbarn%2bog%2bunges%2bdeltakelse%2bi%2borganiserte%2bfritidsaktiviteter.pdf?sequence=2&isAllowed=y
-Jacobsen, Y. (2006). Vi styrter!. Skyline.
-Jackson, S. (2022). What is anti-government extremism?. Perspectives on terrorism, 16(8), 9-19.
-https://www.universiteitleiden.nl/binaries/
-content/assets/customsites/perspectives-onterrorism/2022/issue-6/pot-xvi-6-a2-jackson.pdf
-Jakobsen, H. Ø., Belgaux, C. & Hustad, K. (2023,
-09.06.2023). Overvåkningsstaten eksploderer.
-Bare en håndfull mennesker ser den i kortene.
-Morgenbladet. https://www.morgenbladet.no/
-aktuelt/2023/06/09/overvakningsstaten-eksploderer-bare-en-handfull-mennesker-serden-i-kortene/
-Jakobsen, M. H. (2023). Resultater fra LHBTIQ+
-undersøkelsen på Pride 2022 (2/2023). politiet.
-https://www.politiet.no/globalassets/dokumenter-strategier-og-horinger/pod/rapporter/pod-rapport-09-2023-resultater-fra-lhbtiqundersokelsen-pa-pride-2022.pdf
-Jenkins, J. P. & Duignan, B. (2023). Militia
-movement. I The editors of Encyclopaedia Britannica (Red.), Encyclopedia Britannica. Britannica. https://www.britannica.com/event/
-militia-movement
-Jentoft, M. (2021, 21. september 2021). Skripal-saken – Den tredje mann identifisert. NRK.
-https://www.nrk.no/urix/skripal-saken-_-dentredje-mann-identifisert-1.15660362
-Jernrosene. (u.å.). Historien. jernrosene.no.
-https://www.jernrosene.no/historien
-Jerome, L., Elwick, A. & Kazim, R. (2019,
-02.07.2019). The impact of the prevent duty on
-schools: What does the evidence tell us?. bera.
-https://www.bera.ac.uk/blog/the-impact-ofthe-prevent-duty-on-schools-what-does-the-evidence-tell-us
-Johansen, E. B. & Høeg, E. (2023, 10.11.2023). Et
-smuldrende vi? Krigen i Gaza utfordrer fellesskap i Norge. Morgenbladet. https://www.morgenbladet.no/aktuelt/2023/11/10/et-smuldrende-vi-krigen-i-gaza-utfordrer-fellesskap-inorge/
-Johnsen, N., Byermoen, T., Arntsen, E. O., Vikås,
-M. & Worren, V. K. (2019, 18.05.2019). Arven
-etter IS. VG. https://www.vg.no/spesial/
-2019/arven-etter-is/
-Johnson, B. & Feldman, M. (2021). Siege Culture
-After Siege: Anatomy of a Neo-Nazi Terrorist
-Doctrine. icct. https://www.icct.nl/sites/de-
-
-fault/files/2022-12/siege-culture-neo-nazi-terrorist-doctrine.pdf
-Jones, S. G. (2009). In the Graveyard of Empires.
-W.W. Norton & Company.
-Judt, T. (2005). Postwar: a history of Europe since
-1945. Penguin Press.
-Jupskås, A. R. (2012). Ekstreme Europa, ideologi,
-årsaker og konsekvenser. Cappelen Damm.
-Jupskås, A. R. (2016). The Norwegian Progress
-Party: Between a Business Firm and a Mass
-Party. I R. Heinisch & O. Mazzoleni. Understanding populist party organization. https://
-doi.org/10.1057/978-1-137-58197-6_7
-Jupskås, A. R. (2019). Høyreekstremisme. I Store
-norske leksikon. https://snl.no/h%C3%B8yreekstremisme
-Jupskås, A. R. (2020). What is Populism. uio.
-https://www.sv.uio.no/c-rex/english/groups/
-compendium/what-is-populism.html
-Jupskås, A. R. (2021). Noen utviklingstrekk ved ytre
-høyre i Norge, 2000–2020. uio. https://
-www.sv.uio.no/c-rex/forskning/22-juliforskning/hoyreekstremisme-norge/ytrehoyre_norge_notat.pdf
-Jupskås, A. R. (2023, 20.07.2023). Befolkningens
-syn på 22. juli har endret seg. Aftenposten.
-https://www.aftenposten.no/meninger/kronikk/i/LlBmlx/befolkningens-syn-paa-22-julihar-endret-seg
-Jupskås, A. R. & Bjørgo, H. (2023). The Evolution
-of the Extreme Right in Norway Since the
-1990s. I K. Kondor & M. Littler (Red.), The
-Routledge Handbook of Far-Right Extremism in
-Europe. Routledge.
-Jupskås. A. R. & Solheim, Ø. B. (2021,
-11.06.2021). Hvordan forstår nordmenn 22.
-juli-terroren i dag?. VG. https://www.vg.no/
-nyheter/meninger/i/0KPVK0/hvordan-forstaar-nordmenn-22-juli-terroren-i-dag
-Justis- og beredskapsdepartementet. (2013). Terrorberedskap – Oppfølging av NOU 2012: 14
-Rapport fra 22. juli-kommisjonen. regjeringen.
-https://www.regjeringen.no/no/dokumenter/meld-st-21-20122013/id718216/
-Justis- og beredskapsdepartementet. (2014).
-Handlingsplan mot radikalisering og voldelig
-ekstremisme. regjeringen. https://www.regjeringen.no/contentassets/
-6d84d5d6c6df47b38f5e2b989347fc49/handlingsplan-mot-radikalisering-og-voldelig-ekstremisme_2014.pdf
-Justis- og beredskapsdepartementet. (2015a). Nasjonal veileder for forebygging av radikalisering
-og voldelig ekstremisme. regjeringen. https://
-www.regjeringen.no/contentassets/
-
-[Side 443]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-b702f87f25274ea5a55eee0800cd7860/nasjonalveileder-for-forebygging-av-radikalisering-ogvoldelig-ekstremisme.pdf
-Justis- og beredskapsdepartementet. (2015b,
-07.04.2015). Risiko-og beskyttelsesfaktorer. regjeringen. https://www.regjeringen.no/no/
-sub/radikalisering/veile–r/risiko--og-beskyttelsesfaktorer/id2398414/
-Justis- og beredskapsdepartementet. (2017). Tildelingsbrev 2017: politidirektoratet. regjeringen. https://www.regjeringen.no/contentassets/23751a30c2a24f23ac8f646973dc9bf4/
-2017/tildelingbrev-2017-pod.pdf
-Justis- og beredskapsdepartementet. (2018). Høring – utredning om det strafferettslige diskrimineringsvernet. regjeringen. https://www.regjeringen.no/no/dokumenter/horing---utredning-om-det-strafferettslige-diskrimineringsvernet/id2606774/?expand=horingsnotater
-Justis- og beredskapsdepartementet. (2019). Behandling av saker om grunnleggende nasjonale
-interesser som gjelder utlendinger som har oppholdt seg i tidligere ISIL-kontrollerte områder,
-eller har annen tilknytning til ISIL eller andre
-terrornettverk i Syria og Irak (GI-02/2019). regjeringen. https://www.regjeringen.no/no/
-dokumenter/gi-022019-behandling-av-sakerutlendinger-som-har-oppholdt-seg-i-tidligereisil-kontrollerte-omrader-eller-har-annen-tilknytning-til-isil-eller-andre-terrornettverk-i-syria-og-irak/id2643969/
-Justis- og beredskapsdepartementet. (2020a). Forslag til endringer i forvaltningsloven m.m. – utvidet adgang til informasjonsdeling – oppfølging av enkelte forslag i NOU 2019:5. regjeringen. https://www.regjeringen.no/contentassets/f5d917180d014853a561e06439db53c4/
-horingsnotat---forslag-til-endringer-i-forvaltningsloven-m.m.---storre-adgang-til-informasjonsdeling.pdf
-Justis- og beredskapsdepartementet. (2020b).
-Handlingsplan mot radikalisering og voldelig
-ekstremisme. regjeringen. https://www.regjeringen.no/contentassets/a7b49e7bffae4130a8ab9d6c2036596a/handlingsplanmot-radikalisering-og-voldelig-ekstremisme2020-web.pdf
-Justis- og beredskapsdepartementet. (2021). Høring
-om forslag til forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet. regjeringen.
-https://www.regjeringen.no/no/dokumenter/horing-forskrift-arbeidslivskriminalitet/
-id2866210/?expand=horingsnotater
-
-441
-
-Referanseliste
-
-Justis- og beredskapsdepartementet. (2022a). Nasjonal kontraterrorstrategi.
-regjeringen.
-https://www.regjeringen.no/contentassets/
-a74960882df34d28a5e272071b4e7d80/nasjonal-kontraterrorstrategi_revidering-2022.pdf
-Justis- og beredskapsdepartementet. (2022b). Tildelingsbrev 2023 Kriminalomsorgen. Regjeringen. https://www.regjeringen.no/contentassets/b04b5cf8bb32490c990a82fd90fa05a0/tildelingsbrev-2023-2209232-002.pdf
-Justis- og beredskapsdepartementet. (2022c).
-Fastsettelse av forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger i det tverretatlige samarbeidet mot arbeidslivskriminalitet
-(a-kriminformasjonsforskriften). regjeringen. https://www.regjeringen.no/contentassets/3cdf58f7db4d42cabef768c846b2f638/kongelig-resolusjon-omfastsettelse-av-forskrift-om-deling-av-taushetsbelagte-opplysninger-og-behandling-av-personopplysninger-i-det-tverretatlige-samarbeidetmot-ar.pdf
-Justis- og beredskapsdepartementet. (2023a). Høring – forslag til endringer i politiregisterforskriften og kommunikasjonskontrollforskriften.
-regjeringen. https://www.regjeringen.no/no/
-dokumenter/horing-forslag-til-endringer-i-politiregisterforskriften-og-kommunikasjonskontrollforskriften/id3014731/?expand=horingsnotater
-Justis- og beredskapsdepartementet. (2023b,
-28.04.2023). Reglene om PSTs etterretningsoppdrag trer i kraft 1. september 2023. regjeringen.
-https://www.regjeringen.no/no/aktuelt/reglene-om-psts-etterretningsoppdrag-trer-ikraft-1.-september-2023/id2974710/
-Justis- og beredskapsdepartementet. (2023c).
-Taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen – en veileder. regjeringen.
-https://www.regjeringen.no/contentassets/
-e04496ee95104dfebe4383ece33ddc3c/no/
-pdfs/g-0454-b.pdf
-Justis- og beredskapsdepartementet. (2023d,
-03.07.2023). Justis- og beredskapsdepartementet
-har mottatt PST og politiets plan for oppfølging
-av evalueringsutvalgets rapport. regjeringen.
-https://www.regjeringen.no/no/aktuelt/justis-og-beredskapsdepartementet-har-mottattpst-og-politiets-plan-for-oppfolging-av-evalueringsutvalgets-rapport/id2989204/
-Justis- og beredskapsdepartementet. (u.å.). Veileder for exit-arbeid. https://www.regjeringen.no/contentassets/96b0668f2d17474bbeb3bde7e6842730/veileder-for-exit-arbeid-endelig.pdf
-
-[Side 444]
-
-442
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Justis- og beredskapsdepartementet, Barne- og familiedepartementet & Helse- og omsorgsdepartementet. (2023, 21.06.2023). Nytt utvalg
-skal se på hvordan Norge best kan ivareta personer med alvorlige psykiske lidelser som har begått kriminalitet. regjeringen. https://www.regjeringen.no/no/aktuelt/nytt-utvalg/
-id2986018/
-Justis- og politidepartementet. (2010). Felles–
-trygghet – felles ansvar. Handlingsplan for å
-forebygge radikalisering og voldelig ekstremisme. regjeringen. https://www.regjeringen.no/globalassets/upload/jd/vedlegg/
-handlingsplaner/hp_ekstremisme.pdf
-Justitsministeriet. (2016). Forebyggelse og bekæmpelse af ekstremisme og radikalisering – National handlingsplan (2016/17:2). justisministeriet.
-https://www.justitsministeriet.dk/sites/default/files/media/Pressemeddelelser/
-pdf/2016/National-handlingsplan-Forebyggelse-og-bekaempelse-af-ekstremisme-og-radikalisering.pdf
-Justitsministeriet. (2020). Vejledning om udveksling af personoplysninger som led i indsatsen
-mod radikalisering og ekstremisme: Med særligt
-fokus på infohusene. datatilsynet. https://
-www.datatilsynet.dk/Media/8/9/Vejledning%20om%20udveksling%20af%20personoplysninger%20som%20led%20i%20indsatsen%20mod%20radikalisering%20og%20ekstremisme.pdf
-Justitsministeriet. (2023). Forslag til Lov om
-ændring af straffeloven (Forbud mod utilbørlig
-behandling af genstande med væsentlig religiøs
-betydning for et trossamfund) (dok. nr.:
-2953059). https://www.justitsministeriet.dk/
-wp-content/uploads/2023/08/Lovforslag.pdf
-Jødedommen. (u.å.-a). Tilbud til skoler. jødedommen.no. Hentet 19.06.2023 fra http–//
-www.xn–jdedommen-l8a.no/veiviser-tilbud-tilskoler/
-Jødedommen. (u.å.-b). Veiviser: tilbud til skoler. jodedommen.no. http–//www.xn–jdedommenl8a.no/jodiske-veivisere/
-Jødisk informationcenter, Nordic Safe Cities, Analyse & Tal & Common Consultancy. (2023).
-Online antisemitisme i den offentlige debat på
-Facebook. nordicsafecities. https://nordicsafecities.org/wp-content/uploads/AMOS-Onlineantisemitisme-i-Danmark_2023.pdf
-Jødisk museum Oslo. (u.å.). Forside. jodiskmuseumoslo. https://www.jodiskmuseumoslo.no/
-Jødisk museum Trondheim. (u.å.). Forside. jodiskmuseum. https://www.jodiskmuseum.org/
-
-Jørgenssen, S. A. (2023, 10.05.2023). Regeringen
-brugte PET-vurdering til at afvise Muhammed-forslag. Jyllands-posten. https://jyllandsposten.dk/politik/ECE15790764/regeringenbrugte-petvurdering-til-at-afvise-muhammedforslag/
-Kavlifondet. (2019, 15.02.2019). Hanne’s Shelter,
-South Africa. kavlifondet.no. https://kavlifondet.no/en/category/projects-en/humanitarian-projects-en/hannes-shelter-south-africa/
-Keiserud, E., Sæther, K. E., Holmboe, M., Jahre,
-H.-P., Matningsdal, M. & Smørdal, J. G. (2023).
-Straffeprosessloven: Lovkommentar. Universitetsforlaget/Juridika.
-Kenes, B. (2021). NMR: A Nordic neo-Nazi organization with aims of establishing totalitarian rule
-across Scandinavia. populismstudies. https://
-www.populismstudies.org/wp-content/uploads/2021/05/ECPS-Organisational-ProfileSeries-4.pdf
-Kepel, G. (2003). Muslim Extremism in Egypt: The
-Prophet and Pharaoh. University of California
-Press.
-Kepel, G. (2006). Jihad: The Trail of Political Islam. Tauris.
-Kepel, G. (2017). Terror in France: The Rise of the
-Jihad in the West. Princeton University Press.
-Khemilat, F. (2021, 15.08.2021). France’s new ‘separatism’ law stigmatises minorities and could
-backfire badly. The conversation. https://theconversation.com/frances-new-separatismlaw-stigmatises-minorities-and-could-backfirebadly-162705
-Khosrokhavar, F. (2017). Radicalization: Why
-Some People Choose the Path of Violence. The
-New Press.
-Kierulf, A. (2022). Når lyttet De sist til vår største
-minoritet?. nhri. https://www.nhri.no/2022/
-nar-lyttet-de-sist-til-var-storste-minoritet/
-Kierulf, A., (Programleder), Bjørke, D. & Spurkland, K. (2023, 14.11.2023). Ubehagelige samtaler: Kan skeive stole på politiet? [Audio podkast episode]. I Universitetsplassen. https://
-www.uio.no/om/aktuelt/universitetsplassen/
-nyheter/2023/kan-skeive-stole-pa-politiet.html
-Kijewski, L. (2023, 22.04.2023). Hungarian president vetoes anti-LGBTQ law. Politico. https://
-www.politico.eu/article/hungary-presidentkatalin-novak-vetoes-viktor-orban-anti-lgbtqlaw/
-Kimmel, M. (2013). Angry white men: American
-masculinity at hte end of an era. Nation Books.
-Kimmel, M. (2018). Healing from Hate: How Young Men Get Into and Out of Extremism. University of California Press.
-
-[Side 445]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-King, E. (2016, 01.12.2016). Belgium to revoke nationality of Sharia4Belgium leader. Politico.
-https://www.politico.eu/article/belgium-torevoke-nationality-of-sharia4belgium-leaderfouad-belkacem/
-King, T. (2015, 02.12.2015). Belgium is a failed
-state. Politico. https://www.politico.eu/article/belgium-failed-state-security-servicesmolenbeek-terrorism/
-Kirkelig dialogsenter. (u.å.). Forside. kirkeligdialogsenter.no. https://kirkeligdialogsenter.no/
-Kirkens bymisjon. (u.å.). A-senteret. https://kirkensbymisjon.no/a-senteret/
-Kjerschow, P. (1930). Almindelig borgerlig straffelov av 22.ogi 1902 ... og lov om den almindelige borgerlige straffelovs ikrafttreden. Aschehoug.
-Klausen, J. (2015). Tweeting the Jihad: Social Media Networks of Western Foreign Fighters in
-Syria and Iraq. Studies in Conflict & Terrorism,
-38(1),
-1-22.
-https://doi.org/10.1080/
-1057610X.2014.974948
-Klepper, D. & Swenson, A. (2022, 16.09.2022).
-Trump openly embraces, amplifies QAnon
-conspiracy theories. AP. https://apnews.com/
-article/technology-donald-trump-conspiracytheories-government-and-politicsdb50c6f709b1706886a876ae6ac298e2
-Klungtveit, H. S. (2018, 05.10.2018). Filter avslører: Norske venstreekstremister knyttes til ni
-angrep på kort tid. Filter Nyheter. https://filternyheter.no/norske-venstreekstreme-bak-niangrep-pa-kort-tid-politiet-frykter-blodig-svarfra-nynazister/#_=_
-Klungtveit, H. S. (2020). Nynazister blant oss: på
-innsiden av den nye høyreekstremismen. Kagge
-forlag.
-Klungtveit, H. S. & Skybakmoen, J. (2021a,
-07.05.2021). Alliansen-ungdom til Filter Nyheter: «Noen har appetitt for det». Filter Nyheter.
-https://filternyheter.no/alliansen-ungdom-tilfilter-nyheter-noen-har-appetitt-for-det/
-Klungtveit, H. S. & Skybakmoen, J. (2021b,
-06.05.2021). Filter avslører: Slik kobler Alliansen tenåringer med nynazister i valgkampen.
-Filter Nyheter. https://filternyheter.no/filteravslorer-slik-kobler-alliansen-tenaringer-mednynazister-i-valgkampen/
-Klungtveit, H. S. (2023). Ukjente meldinger fra
-Manshaus: Skrev om transpersoner på nazinettsted åtte dager før terroren. Filter nyheter.
-https://filternyheter.no/ukjente-meldingerfra-manshaus-skrev-om-transpersoner-pa-nazinettsted-atte-dager-for-terroren/
-
-443
-
-Referanseliste
-
-Knight, B. (2017, 06.06.2017). What is PEGIDA?.
-Deutsche Welle. https://www.dw.com/en/german-issues-in-a-nutshell-pegida/a-39124630
-Knudsen, P. Ø. (2007). Blekingegadebanden: Den
-danske celle. Gyldendal.
-Knudsen, R. A. & Stormoen, O. M. (2020). Risikovurderingsverktøy mot terrorisme og ekstremisme: Erfaringer fra kriminalomsorgen i Nederland, Storbritannia og Sverige (10 / 2020).
-nupi. https://www.rvtsost.no/app/uploads/sites/5/nupi_report_10_2020_knudsenstormoen_risikovurderingsverktoy-mot-terrorismeog-ekstremisme.cleaned.pdf
-Knutsen, C. H., Dahlum, S., Allern, E. H., Hagfors,
-S. B., Klausen, J. E., Søyland, M. & Wig, T.
-(2023). Tilstandsanalyse av det norske Demokratiet. regjeringen. https://www.regjeringen.no/contentassets/
-b242728c615c40f3a720a56acd56971a/tinde_2023_rapport_endelig_versjon.pdf
-Koehler, D. (2014). The Radical Online: Individual
-Radicalization Processes and the Role of the
-Internet. Journal for deradicalization, 1, 116134. https://journals.sfu.ca/jd/index.php/jd/
-article/view/8
-Koehler, D. (2016). Right-Wing Terrorism in the
-21st Century: The ‘National Socialist Underground’ and the History of Terror from the FarRight in Germany. Routledge.
-Koehler, D. (2018). Recent Trends in German
-Right-Wing Violence and Terrorism: What are
-the Contextual Factors behind ‘Hive Terrorism’? Perspectives on Terrorism, 12(6), 72-88.
-https://www.jstor.org/stable/26544644
-Koehler, D. (2019). The Halle, Germany,
-Synagogue Attack and the Evolution of the
-Far-Right Terror Threat. CTC Sentinel, 12(11),
-14-20. https://ctc.westpoint.edu/wp-content/
-uploads/2020/02/CTC-SENTINEL-112019.pdf
-Kolberg, M. (2012, 26.03.2012). Politiet mener
-broren skjøv Toulouse-morderen mot jihadisme. NRK. https://www.nrk.no/urix/--skjovtoulouse-morderen-mot-jihad-1.8050231
-Kommunal- og distriktsdepartementet. (2022a,
-22.12.2022). Forordning om digitale tjenester
-(Digital –ervices Act – DSA). regjeringen.
-https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2021/feb/forordning-omdigitale-tjenester-digital-services-act-dsa/
-id2860429/
-Kommunal- og distriktsdepartementet. (2022b).
-Om tillitsreformen. regjeringen. https://
-www.regjeringen.no/contentassets/c93c9caad6d44466bff45b8fd6b85ed2/no/pdfs/h2535-om-tillitsreformen.pdf
-
-[Side 446]
-
-444
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kommunal- og distriktsdepartementet. (2023a,
-13.09.2023). Hva er et eldreråd?. regjeringen.
-https://www.regjeringen.no/no/tema/kommuner-og-regioner/kommunalrett-og-kommunal-inndeling/veileder-for-eldrerad/hva-er-eteldrerad/id2666685/
-Kommunal- og distriktsdepartementet. (2023b,
-04.11.2023). Styrker innsatsen mot antisemittisme. regjeringen. https://www.regjeringen.no/no/aktuelt/styrker-innsatsen-mot-antisemittisme/id3012774/
-Kommunal- og distriktsdepartementet (2024) Forslag til forordning om kunstig intelligens (KIforordningen). https://www.regjeringen.no/
-no/sub/eos-notatbasen/notatene/2021/juni/
-forslag-til-forordning-om-kunstig-intelligens-kiforordningen/id2884935/
-Kommunal- og moderniseringsdepartementet.
-(2016). Handlingsplan mot antisemittisme. regjeringen. https://www.regjeringen.no/globalassets/departementene/kdd/umi/dss-handlingsplan-antisemittisme.pdf
-Kommunal- og moderniseringsdepartementet.
-(2020). Nasjonal strategi for kunstig intelligens.
-regjeringen. https://www.regjeringen.no/contentassets/
-1febbbb2c4fd4b7d92c67ddd353b6ae8/no/
-pdfs/ki-strategi.pdf
-Kommunal- og moderniseringsdepartementet.
-(2021). Handlingsplan mot antisemittisme
-2021–2023 – en videreføring. regjeringen.
-https://www.regjeringen.no/contentassets/
-9c3f6754f04844da971a26331b732b3f/209394antisemittisme-web.pdf
-Konfliktrådet. (2022, 13.12.2023). SlT-modellen.
-konfliktraadet. https://konfliktraadet.no/sltmodellen/
-Konfliktrådet. (u.å.-a). Handlingsplan mot radikalisering og voldelig ekstremisme. konfliktraadet.no. https://konfliktraadet.no/om-konfliktradet/handlingsplan-mot-radikalisering-ogvoldelig-ekstremisme/
-Konfliktrådet. (u.å.-b). Om konfliktrådet. konfliktraadet.no. https://konfliktraadet.no/
-Konow, F. B. (2022). Deep Reinforcement Learning
-in Real-Time Optimization [Masteroppgave,
-Norges teknisk-naturvitenskapelige universitet]. https://ntnuopen.ntnu.no/ntnu-xmlui/
-handle/11250/3021959?locale-attribute=en
-Kotonen, T. (2019). The soliders of Odin Finland:
-From a local movement to an international
-franchise. I T. Bjørgo & M. Mareš (Red.), Vigilantism against migrants and minorities.
-Routledge.
-
-Kotonen, T., Malmros, R. A., Sivenbring, J., Christensen, C. B., Emberland, T., Karcher, N.,
-Lööw, H., Malkki, L., Mattsson, C., Jupskås, A.
-R., Ritol, V., Sallamaa, D. & Silvennoinen, O.
-(2023). “When neo-nazis march on norwegian
-streets, you hear a lot of swedish” (2023: 503).
-pub.norden. https://pub.norden.org/temanord2023-503/
-Kott, S. (2012, 02.05.2012). Højesteret: Øksemanden begik terror. Jyllands-posten. https://jyllands-posten.dk/indland/article4684768.ece
-Krak, N. (2017, 02.05.2017). Officiel liste over hadprædikanter vækker forundring. Kristeligt
-Dagblad. https://www.kristeligt-dagblad.dk/
-kirke-tro/officiel-liste-over-hadpraedikantervaekker-forundring
-Kriminalomsorgen. (2018). Retningslinjer for straffegjennomføringsloven. Forebygging og håndtering av radikalisering og voldelig ekstremisme i
-kriminalomsorgen.
-kriminalomsorgen.no.
-https://img3.custompublish.com/getfile.php/
-4356263.823.7tikt77amzntps/Retningslinjer+for+forebygging+og+h%C3%A5ndtering+av+radikalisering+og+voldelig+ekstremisme+i+kriminalomsorgen.pdf?return=kriminalomsorgen.custompublish.com
-Kriminalomsorgen. (u.å.-a). Importmodellen. kriminalomsorgen.no. https://www.kriminalomsorgen.no/importmodellen-helsetjenesternav-tjenester-utdanning-etc-i-fengsel.592416.ny.html
-Kriminalomsorgen. (u.å.-b). Personundersøking.
-kriminalomsorgen.no. https://www.kriminalomsorgen.no/personundersoekelse.535032.no.html
-Kriminalomsorgen. (u.å.-c). Religion og livssyn.
-kriminalomsorgen.no. https://www.kriminalomsorgen.no/religion.527950.ny.html
-Kriminalomsorgen. (u.å.-d). Statistikk og publikasjoner. kriminalomsorgen.no. https://www.kriminalomsorgen.no/statistikk-og-publikasjoner.518716.no.html
-Kriminalomsorgens høgskole og utdanningssenter. (2016). Radikalisering og voldelig ekstremisme: håndbok for ansatte i kriminalomsorgen
-med særskilt fokus på håndtering i fengsel (2/
-2016). krus.no. https://krus.brage.unit.no/
-krus-xmlui/bitstream/handle/11250/
-2425537/Radikalisering%20og%20voldelig%20ekstremisme.pdf?sequence=1&isAllowed=y
-Kriminalomsorgens høgskole og utdanningssenter. (2019). Mentorordningen i kriminalomsorgen; en prosessevaluering. Rapport til Kriminalomsorgsdirektoratet ved Justis- og beredskapsde-
-
-[Side 447]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-partementet.
-krus.
-https://
-krus.brage.unit.no/krus-xmlui/bitstream/
-handle/11250/2584996/Mentorordningen%20i%20kriminalomsorgen.pdf
-Kriminalomsorgens høgskole og utdanningssenter. (2020, 20.01.2022). KRUS3201 Radikalisering og voldelig ekstremisme i kriminalomsorgen. https://www.krus.no/krus3201-radikalisering-og-voldelig-ekstremisme-i-kriminalomsorgen.6336151-537912.html
-Kriminalomsorgsdirektoratet. (2019). Årsrapport
-2019. https://www.regjeringen.no/contentassets/b04b5cf8bb32490c990a82fd90fa05a0/
-arsrapport-2019-kdi.pdf
-Kriminalomsorgsdirektoratet. (2023). Årsrapport
-2022.
-Kriminalomsorgen.
-https://
-img3.custompublish.com/getfile.php/
-5181741.823.wlqustlizblbwa/Kriminalomsorgens+%C3%A5rsrapport+2022+m.+vedlegg.pdf?return=www.kriminalomsorgen.no
-Kriminalomsorgsdirektoratet, Politidirektoratet &
-Politiets sikkerhetstjeneste. (2023). Vedrørende mulighet for bruk av risikovurderingsverktøy for politiet, PST og kriminalomsorgen i
-arbeidet mot radikalisering og voldelig ekstremisme [Upublisert].
-Kripos. (2022). Vold begått av personer med alvorlige psykiske lidelser. politiet. https://www.politiet.no/globalassets/tall-og-fakta/vold/voldbegatt-av-personer-med-alvorlige-psykiske-lidelser2.pdf
-Kristiansand kommune. (2021). Kriminalitetsforebyggende plan 2016–2024: Sammen om en tryggere
-hverdag.
-Kristiansand.kommune.no.
-https://www.kristiansand.kommune.no/contentassets/6ba5acec23c0445aa1fe1ad1906fc280/sammen-om-en-tryggerehverdag_kriminalitetsforebyggende-plan20162024.pdf
-Krosby, S. L. (2018, 21.11.2018). VG: Russer (18)
-skulle bruke egen bil i nytt terrorangrep. TV2.
-https://www.tv2.no/nyheter/innenriks/vgrusser-18-skulle-bruke-egen-bil-i-nytt-terrorangrep/10231926/
-Kruse, E. (2018). Hvordan jobbe forebyggende
-mot ekstremisme i en norsk kommune? I E.
-Reiss & L. Noor (Red.), Radikalisering: Fenomen og forebygging. Minotenk/Frekk forlag.
-Krutrök, M. E. (2023). «Please. Do. Not. Share.
-Videos. Share. Cats»: Counteracting Terrorist
-and Violent Extremist Content on Twitter
-during Terrorist Attacks. Journalism and Media, 4(1), 364-376. https://www.mdpi.com/
-2673-5172/4/1/24
-
-445
-
-Referanseliste
-
-Krzyżanowski, M. & Ekström, M. (2022). The normalization of far right populism and nativist
-authoritarianism: discursive practices in media, journalism and the wider public sphere/s.
-Discourse & Society, 33(6), 719-729.
-Kultur- og likestillingsdepartementet. (2023a,
-16.11.2023). Regjeringen trapper opp arbeidet
-mot samehets. https://www.regjeringen.no/
-no/aktuelt/regjeringen-trapper-opp-arbeidetmot-samehets/id3014593/
-Kultur- og likestillingsdepartementet. (2023b).
-Rom for deltakelse: regjeringens kulturfrivillighetsstrategi (2023–2025) (V-1042 B). regjeringen. https://www.regjeringen.no/contentassets/a1e73651f91042d690d9d5afaae13cd9/
-no/pdfs/rom-for-deltakelse.pdf
-Kultur- og likestillingsdepartementet. (2023c).
-Rom for demokrati og dannelse: Utvidet nasjonal bibli–tekstrategi – ut 2025. regjeringen.
-https://www.regjeringen.no/contentassets/
-e22ed9ad6d0d409a87398712d5ceb4fb/no/
-pdfs/nasjonal-bibliotekstrategi.pdf
-Kultur- og likestillingsdepartementet. (2023d,
-08.11.2023). Styrker innsatsen mot diskriminering av og hat mot muslimer. regjeringen.
-https://www.regjeringen.no/no/aktuelt/styrker-innsatsen-mot-diskriminering-av-og-hatmot-muslimer/id3013543/
-Kultur- og likestillingsdepartementet. (2023e).
-Tid for spill – regjeringens dataspillstrategi
-2024–2026. regjeringen. https://www.regjeringen.no/contentassets/
-7464f476cb4744e59554c2cb4b192df5/no/
-pdfs/dataspillstrategi.pdf
-Kultur- og likestillingsdepartementet, Arbeids- og
-inkluderingsdepartementet, Barne- og familiedepartementet,
-Forsvarsdepartementet,
-Helse- og omsorgsdepartementet, Justis- og
-beredskapsdepartementet, Kommunal- og distriktsdepartementet, Kunnskapsdepartementet og Utenriksdepartementet. (2023). Regjeringens handlingsplan for kjønns- og seksualitetsmangfold (2023–2026). https://www.regjeringen.no/no/dokumenter/regjeringenshandlingsplan-for-kjonns-og-seksualitetsmangfold-20232026/id2963172/?ch=1
-Kulturdepartementet. (2011, 22.12.2011). Minnesmerker og hedring etter angrepene 22. juli. regjeringen. https://www.regjeringen.no/no/
-dokumentarkiv/stoltenberg-ii/kud/Nyheterog-pressemeldinger/Pressemeldinger/2011/
-minnesmerker-og-hedring-etter-angrepene-/
-id667724/
-Kulturdepartementet. (2020a). Et samfunn for alle
-– Likestilling, demokrati og menneskerettighe-
-
-[Side 448]
-
-446
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-ter. regjeringen. https://www.regjeringen.no/
-contentassets/
-4538c7392f3d417a8d7cc48965a603c9/et-samfunn-for-alle---regjeringens-handlingsplan-forlikestilling-av-personer-med-funksjonsnedsettelse-des-2019.pdf
-Kulturdepartementet. (2020b). Handlingsplan mot
-diskriminering av og hat mot muslimer 2020–
-2023. regjeringen. https://www.regjeringen.no/contentassets/b2a6fd21c6a94bae83d5a3425593da30/handlingsplan-mot-diskriminering-av-og-hat-mot-muslimer-20202023.pdf
-Kulturdepartementet & Kunnskapsdepartementet. (2019). Rom for demokrati og dannelse: Nasjonal bibliotekstrategi 2020–2023. regjeringen. https://www.regjeringen.no/contentassets/18da5840678046c1ba74fe565f72be3d/nasjonal-biblioteksstrategi-endelig-uu.pdf
-Kunnskapsdepartementet. (2007). Utdanning –
-fra barnehage til voksenopplæring. Regjeringen.
-https://www.regjeringen.no/globalassets/upload/kd/vedlegg/kd_f4133b_web.pdf
-Kunnskapsdepartementet. (2011). Det kan skje
-igjen: Rapport fra Kunnskapsdepartementets arbeidsgruppe om antisemittisme og rasisme i skolen.
-Regjeringen. https://www.regjeringen.no/globalassets/upload/kd/vedlegg/
-grunnskole/eidsvagutvalget/eidsvag_rapport_det_kan_skje_igjen.pdf
-Kunnskapsdepartementet. (2017a). Freds- og menneskerettighetssentrene: En felles strategi for
-freds- og menneskerettighetssentrene. regjeringen. https://www.regjeringen.no/no/dokumenter/en-felles-strat–i-for-freds--og-menneskerettighetssentrene/id2574209/
-Kunnskapsdepartementet. (2017b). Overordnet
-del – verdier og prinsipper for grunnopplæringen. Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet
-2020. https://www.udir.no/lk20/overordnetdel/?lang=nob
-Kunnskapsdepartementet. (2019). Læreplan i
-samfunnsfag (SAF01-04). Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet
-2020. https://www.udir.no/lk20/saf01-04/omfaget/tverrfaglige-temaer?lang=nno&curriculum-resources=true
-Kunnskapsdepartementet. (2023, 24.03.2023). Ny
-opplæringslov skal gjøre flere unge klare for arbeidslivet. regjeringen. https://www.regjeringen.no/no/aktuelt/ny-opplaringslov-skalgjore-flere-unge-klare-for-arbeidslivet/
-id2968010/
-
-Kunst i offentlige rom. (u.å.-a). Deportasjonsmonumentet på Akershusstranda. koro.no. https://
-koro.no/prosjekter/deportasjonsmonumentet-pa-akershusstranda/
-Kunst i offentlige rom. (u.å.-b). Nasjonalt minnested etter 22. juli i det nye regjeringskvartalet.
-koro.no.
-https://koro.no/prosjekter/nasjonalt-minnested-etter-22-juli-i-det-nye-regjeringskvartalet/
-Kunzelman, M. (2020, 16.10.2020). AP Explains:
-what’s behind Trump’s town hall answer on
-QAnon. AP. https://apnews.com/article/
-trump-town-hall-qanon-explained-b4614edad1aae27a0cbcb9dfe0c0c44c
-Kutner, S. (2020). Swiping Right: The Allure of Hyper Masculinity and Cryptofascism for Men Who
-Join the Proud Boys. icct. https://www.icct.nl/
-sites/default/files/2022-12/Swiping-RightThe-Allure-of-Hyper-Masculinity-and-Cryptofascism-for-Men-Who-Join-the-Proud-Boys.pdf
-Kuttner, C. (u.å.). Medienschouts bundesweit. claudia-kuttner.de.
-https://www.claudia-kuttner.de/medienscouts-bundesweit
-Kvalsvik, P-. I. (2022, 13.04.2022). Full splid i
-Raudt om Steigan.no. NRK. https://
-www.nrk.no/mr/raud-ungdom-meiner-einikkje-kan-ha-tillitsverv-i-raudt-om-ein-er-medeigar-i-steigan.no-1.15930789
-Kvam herad. (2022, 25.08.2022). Utekontakt.
-kvam.no.
-https://www.kvam.no/tenester/
-barn-ungdom-og-familie/ungdom/utekontakt/
-Kvanvik, S. H. (2021, 30.11.2021). Halvparten av
-utenlandsadopterte i Norge har opplevd forskjellsbehandling. oslomet. https://www.oslomet.no/forskning/forskningsnyheter/halvparten-utenlandsadopterte-har-opplevd-forskjellsbehandling
-Kvello, Ø. (2015). Barn i risiko: skadelige omsorgssituasjoner. Gyldendal.
-Kverndokk, K. (2007). Pilegrim, turist og elev: Norske skoleturer til døds- og konsentrasjonsleirer
-[Doktorgradavhandling, Linköpings Universitet].
-http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A16775&dswid=-460
-Kverndokk, K. (2013). Negotiating Terror, Negotiating Love: Commemorative Convergence in
-Norway after the Terrorist Attack on 22 July
-2011. I I. C. A (Red.), Therapeutic Uses of Storytelling. An interdisiplinary Approach to Narration as Therapy. Nordic Academic Press.
-Lacroix, S. (2016). Egypt’s Pragmatic Salafis: The
-Politics of Hizb al-Nour. Carnegie Endowment
-for international peace, (1st Novemeber).
-https://carnegieendowment.org/2016/11/
-
-[Side 449]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-01/egypt-s-pragmatic-salafis-politics-of-hizb-alnour-pub-64902
-Lag (1990:52) med särskilda bestämmelser om
-vård av unga. (1990). Lag (1990:52) med
-särskilda bestämmelser om vård av unga
-(1990:52). riksdagen. https://www.riksdagen.se/sv/dokument-och-lagar/dokument/
-svensk-forfattningssamling/lag-199052-medsarskilda-bestammelser-om-vard_sfs-1990-52/
-Laizans, J. & Dagenborg, J. (2016, 02.03.2016).
-Anti-immigrant ‘Soldiers of Odin’ expand from
-Finland to Nordics, Baltics. Reuters. https://
-www.reuters.com/article/idUSKCN0W411Z/
-Langberg, Ø. K. (2019, 20.07.2019). Verdien av
-bombesår og forvridd armeringsjern må ikke
-undervurderes. Aftenposten. https://www.aftenposten.no/meninger/kommentar/i/QoEm3J/verdien-av-bombesaar-og-forvridd-armeringsjern-maa-ikke-undervurderes-oeystein-k-langberg
-Langøien, L. J., Jardim, P. S. J. & Nøkleby, H.
-(2021). Effekt av politiets forebyggende tiltak rettet mot radikalisering og seksuallovbrudd blant
-ungdom.
-fhi. https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2021/effektav-politiets-forebyggende-tiltak-rettet-mot-radikalisering-og-seksuallovbrudd-blant-ungdomrapport-2021.pdf
-Larsen, J. M. (2021, 24.03.2004). Dømt til livstid
-for
-Lindh-drapet.
-Dagsavisen.
-https://
-www.dagsavisen.no/nyheter/verden/2004/
-03/24/domt-til-livstid-for-lindh-drapet/
-Lassen, R. (2023). Barnevernsloven. Karnov lovkommentar.
-https://lovdata.no/pro/#document/NL/lov/2021-06-18-97?searchResultContext=1266&rowNumber=1&totalHits=10998
-Lauritzen, S. M. (2023). Antisiganisme i Norge.
-Norsk sosiologisk tidsskrift, 7(1), 23-40. https://
-doi.org/10.18261/nost.7.1.3
-Le Monde. (2022, 23.03.2022). What you need to
-know about Paris attacks and the situation in
-France. Le Monde. https://www.lemonde.fr/
-en/archives/article/2022/03/23/what-youneed-to-know-about-paris-attacks-and-the-situation-in-france_5979045_113.html
-Le Monde & AFP. (2022, 20.10.2022). Suspect in
-Charlie Hebdo attack gets life sentence on appeal. Le Monde. https://www.lemonde.fr/en/
-france/article/2022/10/20/suspect-in-charliehebdo-attack-gets-life-sentence-on-appeal_6001152_7.html
-Le Monde & AFP. (2023a, 07.09.2023). French
-court upholds abaya ban in public schools. Le
-Monde. https://www.lemonde.fr/en/educa-
-
-447
-
-Referanseliste
-
-tion/article/2023/09/07/french-court-upholds-abaya-ban-in-public-schools_6128068_104.html
-Le Monde & AFP. (2023b, 28.11.2023). France to
-seek ban on three far-right extremist groups.
-Le
-Monde.
-https://www.lemonde.fr/en/
-france/article/2023/11/28/france-seeks-toban-three-right-wing-extremistgroups_6294835_7.html
-Le Monde & AFP. (2023c, 08.12.2023). Six teenagers convicted for their roles in beheading of
-French teacher in 2020. Le Monde. https://
-www.lemonde.fr/en/france/article/2023/12/
-08/six-french-teenagers-convicted-over-theirroles-in-killing-of-teacher_6325438_7.html
-Leeuwen, L. v. & Weggemans, D. (2018). Characteristics of Jihadist Terrorist Leaders: A Quantitative Approach. Perspectives on Terrorism,
-12(4), 55-67. https://pt.icct.nl/sites/default/files/2023-06/research%20note%201_2.pdf
-Legathåndboken. (u.å.). Minnestipend 22. juli. legathandboken.no. https://www.legathandboken.no/Sosiale/Barn-og-ungdom/Minnestipend-22.-juli
-Leidig, E. (2023). The Women of the Far Right: Social Media Influencers and Online Radicalization. Columbia University Press. http://
-www.jstor.org/stable/10.7312/leid21016
-Leidig, E. & Kunkeler, C. S. (2023). The Women of
-the Far Right: Social Media Influencers and Online
-Radicalization.
-uio.
-https://
-www.sv.uio.no/c-rex/english/news-andevents/right-now/2023/women-of-the-farright.html
-Leigh, M. (u.å.). Belgium is No Failed State. German Marshall Fund of the United States.
-https://www.gmfus.org/news/belgium-no-failed-state
-Leirvik, M. S., Hernes, V., Liodden, T. M. & Tronstad, K. R. (2021). Rasisme, diskriminering og
-tilhørighet blant utenlandsadopterte i Norge
-(2021: 15). oslomet. https://oda.oslomet.no/
-oda-xmlui/bitstream/handle/11250/2828907/
-2021-15%20til%20nett.pdf?sequence=1&isAllowed=y
-Leirvik, O. (2015). Religionsdialog og livssynspolitikk. Kirke og Kultur, 120(2), 97-106. https://
-doi.org/10.18261/ISSN1504-3002-2015-02-02
-Leithe-Rief, H. E. (2021). Lærerrollen i møtet med
-22. juli-senteret: en kvalitativ undersøkelse av
-hvordan lærere forholder seg til egne minner i
-møtet med undervisning og skolebesøk til 22. julisenteret [Masteroppgave, MF vitenskapelig
-høyskole]. https://mfopen.mf.no/mf-xmlui/
-bitstream/handle/11250/2825458/
+# Styrket oppslutning om demokrati og menneskerettigheter
+
+Menneskerettighetene bygger på en forståelse om alle menneskers ukrenkelige verdi, uavhengig av kjønn, alder, legning, rase, religion, politiske oppfatninger eller nasjonalitet. Den liberale, demokratiske styringsformen forutsetter også at grunnleggende menneskerettigheter som ytrings- og organisasjonsfrihet respekteres.
+
+Et åpent demokrati er avhengig av akademisk og faglig frihet i forskning og formidling. Dette gjelder samtlige kunnskapsinstitusjoner, og spesielt de som er underlagt myndighetsstyring hvor veien til politisering og instruks kan være kortere. Demokrati, menneskerettigheter og akademisk frihet er under press i flere land, og spesielt i land som går i autoritær retning. Dette viser behovet for den brede motstandskraften mot autoritære strømninger og aktører som bryter ned demokratiske institusjoner og angriper grunnleggende rettigheter.
+
+Både demokrati og menneskerettigheter avvises i ekstreme ideologier. Oppslutning om fellesskapets verdier forutsetter at den enkelte både kjenner til og forstår verdiene, og at de føler seg inkludert i de rettighetene og pliktene fellesskapet innebærer.
+
+I vårt arbeid har vi møtt både offentlige aktører og sivilsamfunnsaktører som arbeider for å styrke oppslutningen og kunnskapen om menneskerettigheter og demokrati.
+
+Det er positivt med ulike aktører som arbeider mot det samme målet for samfunnet og befolkningen på dette feltet. Vi ser imidlertid at det også kan være utfordringer knyttet til dette i form av konkurrerende virksomhet og noe overlappende innsats og arbeid. Det er viktig at det legges opp til samarbeid og dialog der det er mulig, og at tilgjengeliggjorte ressurser også er med på å bygge opp under samhandling og god ressursutnyttelse.
+
+Kommisjonen mener skolen er en sentral arena i arbeidet med å styrke oppslutningen om demokrati og menneskerettigheter. Skolen omtales gjerne som «samfunnets viktigste fellesarena», ettersom så godt som alle går gjennom skolen i løpet av livet. Skolen som arena for fellesskap, kunnskap og demokratisk dannelse er unik. Det gjøres allerede svært mye godt arbeid i skolen, og mange andre aktører arbeider opp mot skolen, for eksempel gjennom kompetansehevingstilbudet Dembra. Freds- og menneskerettighetssentrene har også en viktig rolle i dette arbeidet. Kommisjonen mener likevel det er nødvendig med ytterligere kompetanse og ressurser på området for å møte behov og etterspørsel, også i forlengelsen av vektleggingen av det tverrgående temaet demokratisk medborgerskap i de nye læreplanene.
+
+Dette kapittelet omhandler kommisjonens vurderinger og anbefalinger om styrking av arbeid med demokrati, medborgerskap og minner, demokrati og menneskerettigheter i skolen, sikring av spor og gjenstander etter terrorangrep, sivilsamfunnets rolle i det forebyggende arbeidet og tros- og livssynsstøtte i fengsler.
+
+## Styrking av arbeidet med demokratisk medborgerskap, historiebevissthet og minner
+
+### Styrking av undervisningen ved freds- og menneskerettighetssentrene
+
+Det er et kontinuerlig behov for kunnskap om og ferdigheter i demokrati og undervisning om menneskerettigheter. Kunnskap om historiske erfaringer med fordommer, krenkelser og rasisme er også nødvendig for vår forståelse og innsikt. Kommisjonen erfarer at de syv stiftelsene som utgjør freds- og menneskerettighetssentrene, er viktige regionale og lokale utgangspunkter for dette arbeidet med sitt faglig gode tilbud. Dette kommer i tillegg til andre bidragsytere til arbeidet med å bygge demokratisk motstandskraft og historiebevissthet hos nye generasjoner. Dette gjelder blant annet Stiftelsen 10. august, Utøya og 22. juli-senteret, som flere av sentrene også samarbeider med.
+
+Freds- og menneskerettighetssentrene er viktige minne- og læringsarenaer, ikke minst på grunn av sitt arbeid rettet mot norske skoleelever. Undervisningen foregår både ved sentrene og ved at undervisere eller formidlere reiser rundt. Flere av sentrene tilbyr også digitale besøk og har utarbeidet nettressurser til bruk i skoler. Arbeidet som utføres med fokus på demokrati og menneskerettigheter, skal bidra til økt forståelse av og refleksjon rundt disse temaene blant barn og unge og andre som besøker sentrene. Dette arbeidet er også holdningsfremmende og anses som en vesentlig forebyggende innsats for det som kommisjonen har definert som den bredere ekstremismen.
+
+Sentrene er lokalisert på ulike steder i Norge og favner ulike geografiske områder. Narviksenteret er det nordligste freds- og menneskerettighetssenteret og skal som senter i realiteten dekke hele Nord-Norge. De ulike sentrene utfyller hverandre og samarbeider. Dette er en styrke for feltet og arbeidet.
+
+Freds- og menneskerettighetssentrene opplever at det er en økende etterspørsel etter tilbudet deres. De bidrar gjennom sine lokasjoner rundt om i Norge med å skape eierskap til nær norsk historie i nye generasjoner, samtidig som de bruker dialogbasert undervisning med vekt på demokratisk medborgerskap i tråd med nye læreplaner. Kommisjonen anser at dette arbeidet bør understøttes slik at flere som ønsker undervisning og besøk hos eller av sentrene, kan få anledning til dette uavhengig av bosted. Et styrket undervisningstilbud gjennom økt kapasitet vil ha positiv effekt på målgruppene og bidra til at arbeidet med demokratisk medborgerskap styrkes. Kommisjonen mener derfor at det bør opprettes flere undervisningsstillinger ved sentrene. Dette forutsetter at nivået på undervisningen holder et fortsatt høyt nivå gjennom opplæring og utvikling. Dette vil bidra til å styrke det forebyggende arbeidet. Kommisjonen forutsetter at antall ressurser per senter vil måtte tilpasses dagens behov og etterspørsel og ses i sammenheng med den øvrige strukturen i de ulike sentrene.
+
+Kommisjonens anbefaling:
+
+- Det opprettes flere undervisningsstillinger ved freds- og menneskerettighetssentrene øremerket deres arbeid med demokratisk medborgerskap og menneskerettigheter.
+
+### 22. juli-senteret
+
+22\. juli-senteret er en av aktørene som bidrar til å forvalte historien etter 22. juli og holde minnet om angrepet i nasjonens kollektive bevissthet. Senteret er et nasjonalt minne- og læringssenter som formidler kunnskap om terrorangrepet gjennom ulike virkemidler slik som utstillinger og vitneberetninger, for å nevne noen. Kommisjonen anerkjenner den viktige jobben som 22. juli-senteret utfører hver dag for å formidle kunnskap om terrorangrepet i 2011.
+
+Senteret er organisert under Kunnskapsdepartementet og er slik sterkere knyttet til myndighetene enn freds- og menneskerettighetssentrene og øvrige minne- og læringssentre, som Utøya og Stiftelsen 10. august. Den tette sammenkoblingen har vært naturlig all den tid senteret ble opprettet få år etter at angrepet skjedde. Den er også forståelig, gitt senterets plassering i regjeringskvartalet. 22. juli-senteret ble for øvrig opprettet med en midlertidig horisont og skulle etter planen opphøre etter gjenreisningen av regjeringskvartalet. Disse planene ble senere endret, og 22. juli-senteret ble både et permanent minne- og læringssenter og skal flytte tilbake i tilknytning til Høyblokka i regjeringskvartalet når den er ferdigstilt.
+
+Forventningene fra skoleverket, fagmiljøer og befolkningen er endret med tiden som har gått siden 22. juli. Etter kommisjonens syn er det viktig at de politisk krevende og kontroversielle diskusjonene fortsetter å få en naturlig plass i ettertidens formidling av 22. juli ved senteret.
+
+Senteret må stå fritt til å utføre sitt samfunnsoppdrag og utvikle sitt arbeid i tråd med faglige vurderinger, samfunnsutviklingen generelt og ordskiftet om 22. juli spesielt. Kommisjonen mener det kan vurderes om det ville være større faglige og ressursmessige fordeler ved at senteret knyttes sterkere til freds- og menneskerettighetssentrene og at dette eventuelt vurderes etter at senteret er på plass i permanente lokaler.
+
+### Evaluering av tilskuddsordningen for turer til minne- og læringssteder
+
+Mange norske skolelever har reist til tidligere konsentrasjons- og dødsleirer etter 2. verdenskrig i Polen og Tyskland. Utdanningsdirektoratet har en tilskuddsordning for slike turer, som også dekker andre reisemål slik som minnesteder i Norge.
+
+Kommisjonen anerkjenner viktigheten av at norske skoleelever får besøke åsteder og minnesteder etter krig og terror, enten i Norge eller i utlandet. Dette er et viktig bidrag til å skape en historiebevissthet hos nye generasjoner. Fysiske besøk ved åsteder eller andre minnesteder kan sette i gang refleksjoner omkring ekstremismens konsekvenser og fortidige hendelsers betydning for mennesker som lever i dag.
+
+Ekstremismekommisjonen mener det er viktig at reiser til slike steder er godt pedagogisk forankret og faglig fundert, og at skolene i forkant og etterkant både sikrer at besøket er innrammet av et gjennomtenkt undervisningsopplegg, og sørger for at inntrykk og andre behov som måtte melde seg, også ivaretas. Dette ivaretas i varierende grad i dag etter hva kommisjonen erfarer.
+
+Etter kommisjonens syn er det viktig at et stort antall barn og unge har fått delta på slike turer så langt, og at mange får muligheten i fremtiden. Samtidig må det sikres at muligheten for slike reiser er like stor blant ulike skoleklasser, og at sosioøkonomisk status ikke hindrer enkeltelever i å dra på slike reiser.
+
+Kommisjonens anbefaling:
+
+- Den nasjonale tilskuddsordningen for skoleturer som forvaltes av Utdanningsdirektoratet, evalueres med spesielt henblikk på faglig forankring og likebehandling av elever.
+
+## Demokrati og menneskerettigheter i skolen
+
+Kommisjonen har hatt flere møter med ungdommer, ungdomsorganisasjoner, skolerepresentanter og aktører som arbeider og samarbeider med skoler om blant annet demokratisk kompetanse og medvirkning. Mange har pekt på viktigheten av at barn og unge har kompetanse i og ferdigheter innen demokrati og menneskerettigheter. Flere har også pekt på viktigheten av at skolepersonalet har kompetanse om radikalisering og ekstremisme.
+
+Skolen har en sammensatt og viktig rolle i samfunnet og er en av få arenaer som alle er i kontakt med i løpet av livet. Der kan man møte mennesker på tvers av kultur, religion, bakgrunn og livsstil, som man kanskje ikke hadde møtt på andre arenaer i livet.
+
+Forebygging av fordommer og diskriminering er en del av skolens mandat i henhold til formålsparagrafen og den overordnede delen av læreplanverket.[^2188] I flere sammenhenger trekkes skolen frem som en arena for forebygging av hat og antidemokratiske holdninger samt voldelig ekstremisme, altså begge kommisjonens definisjoner av ekstremisme. Samtidig kan man spørre om samfunnet forventer for mye av skolen – også på dette området. Og om det alltid er lærerne som skal få og ta mer ansvar. Skolen består imidlertid av ansatte innenfor ulike fagområder, fra helsesykepleiere og miljøterapeuter til rektorer og renholdspersonale. Spørsmålet som ble stilt på skolekonferansen som kommisjonen avholdt med Det Europeiske Wergelandsenteret (EWC) og Utøya i mars 2023, var: «er skolen alltid svaret?» Nedenfor peker kommisjonen på noen områder hvor skolen er særskilt viktig eller i en unik posisjon til å bidra i det forebyggende arbeidet.
+
+### Inkluderende læringsmiljø, demokratilæring og elevenes demokratiske medvirkning
+
+Arbeidet med demokrati og medborgerskap og inkluderende læringsmiljø har blitt styrket gjennom læreplanverket for kunnskapsløftet, LK20, og det tverrfaglige temaet demokrati og medborgerskap. Det er imidlertid et kontinuerlig behov for å støtte skolene i å utvikle god sammenheng mellom fagdidaktisk og pedagogisk arbeid med læringsmiljø for å styrke elevenes demokratiske motstandskraft.
+
+Systematisk og langsiktig arbeid med inkludering og demokratisk motstandsdyktighet kan skape langvarige positive effekter i voksenlivet. Å skape demokratibevissthet og engasjement er en del av dette, og det kan gjøres gjennom ulike kanaler som elevdemokrati, skolevalg og annet. Kommisjonen har i løpet av sitt arbeid selv sett, og fått innspill, om viktigheten av slik innsats. Tilgjengelige tilskuddsordninger, som tilskuddsordningen for lokal kompetanseutvikling i barnehage og grunnopplæring,[^2189] kan bidra til å styrke kompetansen på aktuelle temaer og dermed bistå skolene i dette arbeidet. I tillegg finnes også andre ressurser som skolene kan benytte til dette arbeidet slik som kompetansehevingstilbudet Dembra og freds- og menneskerettighetssentrene. Tilgangen på slike ressurser avhenger imidlertid ofte av skoleledelsen og skolens prioriteringer. Det er uheldig dersom det er ulike muligheter til tilgang på ressurser som styrker læringsmiljøet og skolens demokratiske kultur. Dette henger muligvis sammen med at noen kan se på arbeid med demokrati og inkluderende læringsmiljø som temaer som kan nedprioriteres i forhold til «målbar» kunnskap og ferdigheter som inngår i vurderinger, eksamener og nasjonale prøver. Selv om sistnevnte også er viktig, er skolens rolle som fellesarena en sentral komponent i det brede forebyggende arbeidet mot radikalisering og ekstremisme.
+
+Anerkjennelse av skolen som en ressurs og faktor innen undervisning om demokrati og medborgerskap er kommet på plass gjennom læreplanverket. For at skolene skal kunne følge opp dette arbeidet på en god måte, anses den eksisterende tilskuddsordningen for kompetanseutvikling i barnehager og skoler som en aktuell ordning for å sette skolene i bedre stand til å håndtere oppgavene. Lokale analyser av behov og faglig dialog med universiteter og høyskoler, som ordningen forutsetter, anses som en styrke for at arbeidet vil være målrettet i henhold til lokale behov. Arbeidet må være langsiktig og forutsigbart for alle parter.
+
+Kommisjonens anbefaling:
+
+- Implementeringen av føringene i LK20 om inkluderende læringsmiljø, demokratilæring og elevenes demokratiske medvirkning i skolene over hele Norge må styrkes gjennom tilskuddsordningen for kompetanseutvikling.
+
+### Styrke «laget rundt barnet» i barnehagen og skolen
+
+Et inkluderende barnehage- og skolemiljø der alle barn har det bra og opplever mestring og sosialt fellesskap, er en viktig del av det byggende arbeidet. Gode barnehager og skoler har stor verdi for samfunnet på mange måter, blant annet fordi de kan motvirke utenforskap og fremme demokratisk kultur. Mange pedagoger gjør i dag et svært godt arbeid i norske skoler og barnehager. Kommisjonen vil imidlertid også peke på viktigheten av tverrfaglighet og samarbeid mellom ulike aktører.
+
+Miljøterapeuter har en kompetanse som utfyller allerede eksisterende ressurser i skolen (helsesykepleiere og annet helsepersonell, pedagoger og spesialpedagoger), med fokus på aktivitetslære, sosialpedagogikk, systemteori, kommunikasjonskompetanse og en dialogisk tilnærming. Et tverrfaglig «lag rundt barnet» vil derfor kunne være et godt tiltak for sårbare barn og unge, som igjen kan forebygge marginalisering og muligens i siste ledd radikalisering og ekstremisme. Det at disse profesjonsgruppene er til stede i skolen, har dessuten vist seg å styrke skole-hjem-samarbeidet, også i saker der det er bekymring for radikalisering. I dette laget har også andre ansatte i skolen, slik som rådgivere, en viktig rolle. Forskning som har blitt gjennomført de siste årene,[^2190] viser behovet for systematisk og langsiktig innsats på dette området.
+
+For å kunne realisere et «lag rundt barnet» må det komme på plass mer midler og ressurser. Samtidig er det forståelig at pedagogisk personell og skolehelsetjenesten må prioriteres. Kommisjonen ønsker likevel å påpeke viktigheten av tverrfaglig innsats. Kommisjonen har ikke utredet dette videre, men vil peke på at det kan være mulig å gjøre dette arbeidet i en trinnprosess: I det første trinnet utlyses midler gjennom en tilskuddsordning som kommuner/fylkeskommuner kan søke på for å ansette miljøterapeuter. Miljøterapeutene møtes i fagnettverk for å utveksle erfaringer. Det gjennomføres samtidig forskning på ordningen. Etter en evaluering kan det eventuelt iverksettes et trinn to, der skoler har krav på ressurser som gir dem mulighet til å ansette minst én miljøterapeut per et gitt antall elever.
+
+### Styrking av Dembra
+
+Kommisjonen mener det er viktig at skoler i hele landet jobber systematisk og langsiktig med inkludering og demokratisk motstandskraft. Kompetansehevingstilbudet Dembra utgjør ett av flere aktuelle tilbud til skoler for å jobbe med fordommer, rasisme og andre krenkelser. Kommisjonen forstår at etterspørselen er stor etter Dembras ressurser og tilbud.
+
+Dembra er rettet mot både skoler og lærerutdanningen. Tilbudet er institusjonsorientert og forskningsbasert og skal bidra til å skape demokratisk skolekultur. I lærerutdanningen bidrar Dembra med systematisk fokus på lærerstudentenes profesjonskompetanse og styrking av faglig forankring i det forebyggende arbeidet.
+
+Kommisjonen har inntrykk av at Dembra tilbyr faglig solide verktøy som lærere og skoleledere kan nyttiggjøre seg i sitt arbeid, enten de står overfor konkrete utfordringer eller ønsker veiledning rundt hvordan skolen kan jobbe langsiktig med å bygge demokratisk kompetanse. Dembras verktøy tilpasses skolens behov i dialog mellom veilederen og skolen. Dette vurderes som en styrke fordi det er skolen selv som vet «hvor skoen trykker», og som også skal jobbe med verktøyene. Tiltaket har god effekt slik kommisjonen forstår det. Det er også påvist av andre.[^2191] Med solid forankring i freds- og menneskerettighetssentrene kan Dembra nå ut til mange. Det er viktig at dette gjøres etter en helhetlig plan og med langsiktig finansiering.
+
+Mange norske elever og lærere nås imidlertid ikke av Dembra-tilbudet. For eksempel finnes det ikke en Dembra-veileder nord for Narvik. Dembra-veilederen der skal imidlertid nå ut til hele Nord-Norge. Dembra har også en nettressurs som gjør at tilbudet kan nå ut til mange uten selve tilknytningen til sentrene eller en Dembra-veileder. Dette bidrar til at flere kan ha mulighet til å benytte tilbudet. Digital informasjon og opplæring kan imidlertid ikke erstatte direkte veiledning, men være et tilleggstilbud.
+
+En satsing på demokratibygging anses som en egnet og positiv innsats for samfunnet generelt, og mer spesifikt for forebygging av radikalisering og ekstremisme. Dembra har slik kommisjonen erfarer, potensial til å ekspandere, både i antall elever og lærere som mottar tilbudet innenfor det eksisterende programmet, og på nye felt, utover skolen. Det anses positivt at så mange som mulig får tilgang til verktøyene som Dembra tilbyr. Dembra er også velegnet til bruk på andre arenaer enn dem som i dag er målgruppen til tilbudet. Demokratiske ferdigheter er også viktig for voksne. Flere ulike profesjoner og arbeidsplasser kan ha særlig bruk for verktøyene som Dembra tilbyr. Det jobbes med systematisk mangfoldskompetanse ved mange norske arbeidsplasser.[^2192] Kommisjonen har sett tilsvarende satsinger i Tyskland, hvor det jobbes konkret med mangfoldskompetanse og demokratibygging på arbeidsplasser.[^2193] Dembra kan også være aktuelt for barnehager.
+
+Som omtalt ovenfor mener kommisjonen at det er behov for å styrke det demokratibyggende arbeidet ved freds- og menneskerettighetssentrene. Dette gjelder også for Dembra. Spesielt Nord-Norge har behov for styrking ettersom de i dag må kunne sies å ha det dårligste ressursmessige tilbudet på grunn av både geografiske forhold og at det kun er én Dembra-veileder ved Narviksenteret. Det er imidlertid også andre områder av Norge som i mindre grad dekkes fysisk av dette tilbudet grunnet geografiske forhold.
+
+Dembra-arbeidet holder et høyt faglig nivå i dag. Det er tilpasset ulike mottakere av ressursene og er etterspurt. Et styrket Dembra-tilbud anses å virke positivt inn på målgruppen og arbeidet med demokratisk medborgerskap. Slik sett vil en styrking også bidra til samfunnsmessige gevinster. Ved en styrking av innsatsen er det viktig å påse at tilbudet ikke blir et «samlebåndtilbud», men et tilbud som fortsetter å holde faglig høy kvalitet. En styrking gjennom flere ressurser må derfor også ses i sammenheng med Dembras organisatoriske og faglige struktur.
+
+Kommisjonens anbefaling:
+
+- Dembra styrkes som et landsdekkende tilbud til elever og lærere, særlig med tanke på skoler i distriktet.
+
+### Veiviserordninger
+
+Veiviserordningene skal være et tilbud for å bygge ned barrierer og alminneliggjøre minoritetenes liv og praksis som del av det norske samfunnet. De skal også bidra til økt kunnskap og forståelse og redusere fordommer, hets og andre negative holdninger og handlinger. Ordningene er et supplement til læreplanverket som skal dekke opplæring i demokratisk medborgerskap, og som vektlegger demokratiske ferdigheter. Det supplerer også skolenes ansvar for undervisning om kulturelt og religiøst mangfold og minoriteter. Det er tidligere etablert jødiske og samiske veiviserordninger. I senere tid er det også etablert en muslimsk veiviserordning, som har tilsvarende målsettinger for arbeidet. Denne ordningen har ikke tilsvarende formalisert tilknytning til opplæring i akademia eller tilsvarende forankring slik som de andre to ordningene. Det finnes også en egen ordning for informasjon om rom, som driftes av Kirkens bymisjons Romano kher. Det er positivt at det er etablert en informasjonsordning om rom hvor skoleklasser kan få informasjon. Ordningens rekkevidde er imidlertid begrenset.
+
+Veiviserordningen har flere fordeler. For det første er den dialogbasert, det vil si at skoleklasser, eller andre interesserte, får møte en eller flere representanter for en minoritet. Dette betyr at det er førstehånds kunnskap og inntrykk som gjør seg gjeldende. Dette kan ha en positiv, oppklarende og informativ effekt. I tillegg forstår kommisjonen det slik at veiviserne er åpne for alle typer spørsmål som dekker en stor bredde av tematikk. Dette kan ufarliggjøre det å være jødisk, samisk eller muslim. Veiviserne kommisjonen har snakket med, har fortalt om et stort behov for direkte møter.
+
+Veiviserordningen vurderes som et positivt arbeid som oppfyller målsettingen. Det er en ordning som har potensial til å kunne nå ut til mange unge over hele landet. Den store etterspørselen etter veivisere viser dessuten at det er et populært tilbud. Kommisjonen har også merket seg den forskningsmessige forankringen og forpliktende utdanningen som den jødiske og samiske ordningen har. Dette anses som en fordel. Kommisjonen ser det som fordelaktig og berikende at de tre veiviserordningene for muslimer, samer og jøder har kontakt og utveksler erfaringer seg imellom.
+
+Som det ble påpekt i en utredning om tiltak for å forebygge diskriminering av og hat mot muslimer, med ungdom som målgruppe,[^2194] finnes det flere gode tiltak og prosjekter som er rettet mot skole og ungdom knyttet til forebygging av rasisme og diskriminering og å fremme dialog og kunnskap. Regjeringen har tidligere støttet den ovennevnte utredningens konklusjoner om å styrke eksisterende ordninger heller enn å innføre en muslimsk veiviserordning.[^2195] Kommisjonen anerkjenner at det finnes mange relevante tiltak som bidrar inn mot det samme målet som veiviserordningen. Vi vurderer imidlertid at muligheten til å møte representanter for en gruppe i direkte samtaler er unik og verdifull. Førstehåndskontakt kan vanskelig erstattes av andre ordninger. Med dette mener ikke kommisjonen at andre innsatser ikke er verdifulle og viktige, men at veiviserordninger har spesielt gode virkemidler som bidrar positivt både for gruppene det gjelder, og for samfunnets forståelse og kjennskap til ulike minoriteter i Norge. Kvaliteten på veiviserordningen er også av vesensbetydning.
+
+Kommisjonen vurderer at det er god forskningsmessig dekning for å si at gruppene som i dag har veiviserordninger, utsettes for ulike typer ekstremisme i Norge. Dette er også vist ved at veiviserne selv kan utsettes for sjikane og hets når de kommer på besøk rundt i landet. Dagens veiviserordninger anses som et viktig og riktig supplement til andre viktige innsatser og skolenes egen opplæring på feltet.
+
+De jødiske og samiske veiviserordningene bør videreføres slik at flere som ønsker, kan få besøk av dem. Det understrekes også at ordningene bør evalueres jevnlig.
+
+Kommisjonen mener det også bør vurderes en større bredde i veiviserordningen ved at flere minoriteter kan få muligheten til slike ordninger. En formalisering av den muslimske veiviserordningen, hvor det sikres at det interne mangfoldet er representert, er naturlig å peke på i den sammenhengen. Det samme er en veiviserordning for rom. Med dette mener ikke kommisjonen å forbigå dagens veiviserordninger for disse to gruppene. Kommisjonen ønsker å understreke viktigheten av nettopp en slik innsats.
+
+Kommisjonens anbefaling:
+
+- Den muslimske veiviserordningen formaliseres med nødvendige tilpasninger.
+
+Det forutsettes tilknytning til en forskningsinstitusjon, slik tilfellet er for de allerede etablerte veiviserordningene for jøder og samer. Det forutsettes videre at mangfoldet i den norsk-muslimske minoriteten gjenspeiles.
+
+- Det vurderes tilsvarende veiviserordninger for andre minoriteter eller utsatte grupper, for eksempel en formalisering av veiviserordningen for rom.
+
+## Planverk for sikring av spor og gjenstander etter terrorangrep i Norge
+
+Forebygging av ekstremisme og radikalisering handler også om å skape bevissthet omkring ekstremismens store omkostninger. Kommisjonen mener at ofre, etterlatte, pårørende og andre berørte av ekstremisme, må ha en stemme og anerkjennes av både myndigheter og samfunnet som ressurser både nasjonalt og internasjonalt. Dette kan blant annet gjøres ved å sikre minnesteder og opplæring og støtte støttegrupper og andre interessenters arbeid og innsats for å opprettholde samtalen om og oppmerksomheten rundt vanskelige temaer og sår i samfunnet.
+
+Vitneberetninger og historiske spor er viktige bidragsytere til samfunnets minne- og læringsarbeid. Vitneberetninger og vitnesamtaler er unike i undervisningssammenheng. Slike fortellinger hvor direkte berørte etter terror eller andre hendelser deltar, er også ettertraktet på skoler og andre arenaer. Kommisjonen erfarer at slike samtaler gjerne gjennomføres uten faglig forankring på skoler og andre steder. Vitneberetninger bør anerkjennes som en særlig form for undervisning, hvor både elever og vitner skal ivaretas. Det er et behov for at den faglig funderte undervisningen med direkte berørte koordineres bedre enn tilfellet er i dag, samtidig som man kan vurdere å oppskalere og gjøre tilbudet nasjonalt. Dette bør følges opp i det videre.
+
+Arbeidet med å ivareta gjenstander og spor etter terrorhendelser i Norge er av stor betydning for både direkte berørte og storsamfunnet, nå og i fremtiden. Flere aktører tilknyttet terrorhendelser, slik som Utøya, 22. juli-senteret og Stiftelsen 10. august, har bidratt til å sikre, ivareta og vise frem spor og gjenstander etter terrorangrepene. Å vise spor i utstillinger eller i annen dokumentasjon er verdifullt som synlige vitnesbyrd om terrorens konsekvenser. Dette er kulturarv som ikke må gå tapt for ettertiden.
+
+Etter kommisjonens syn bør ivaretakelsen av gjenstander og andre viktige historiske spor etter terror sikres gjennom langsiktige strategier og museumsetiske regelverk og standarder for samlingsbevaring. Det bør etableres planverk som gjør det klart hvem som har ansvar for bevaring av spor[^2196] og gjenstander etter terror, og hvordan gjenstander skal forvaltes etter slike hendelser. Dette bør gjøres for å sikre at det ikke er tilfeldig hva som blir tatt vare på, at dette ansvaret ikke påhviler direkte berørte eller tilfeldige, og at gjenstandene oppbevares i tråd med den gjenstandsforvaltningen som er fastsatt. Ansvaret for en plan og systematisering av gjenstander og spor bør tillegges en aktør med kompetanse og myndighet på området.
+
+Kommisjonens anbefaling:
+
+- Det utarbeides et planverk for sikring av spor og gjenstander etter terrorangrep i Norge.
+
+Dette må omfatte vurderinger av ivaretakelse av gjenstander og spor etter terrorhendelser, slik at dette utføres i henhold til museale standarder for samlingsforvaltning.
+
+## Sivilsamfunnets rolle i det forebyggende arbeidet
+
+I regjeringens handlingsplan mot radikalisering og voldelig ekstremisme understrekes det at sivilsamfunnet, slik som frivillige organisasjoner og tros- og livssynssamfunn, gjør en viktig innsats i det generelle forebyggende arbeidet. Også andre relevante handlingsplaner, inkludert den nye handlingsplanen mot rasisme og diskriminering, peker på sivilsamfunnets innsats. Kommisjonen deler synet på at sivilsamfunnsaktørene er vesentlige i det forebyggende arbeidet. De legger ned en betydelig innsats som bidrar til forebygging av radikalisering og ekstremisme. Kommisjonen oppfatter at de anser at de blant annet bidrar til å ruste folk til å leve hele liv med tilhørighet til samfunnet. I møter med kommisjonen har det blitt trukket frem et behov for en helhetlig tankegang om sivilsamfunnets forebyggende innsats.
+
+Selv om nasjonale myndigheter anerkjenner sivilsamfunnets rolle i det forebyggende arbeidet, er det kommisjonens syn at det er stor variasjon i hvilken grad sivilsamfunnet faktisk involveres eller benyttes i dette arbeidet, samt at det er usikkerhet rundt hva sivilsamfunnets bidrag faktisk kan være. Noen steder finnes det generelle samarbeidsavtaler for samarbeid mellom frivillighet og kommunal sektor, og noen kommuner har såkalt frivillighetspolitikk. Disse er ikke spesifikt rettet mot radikalisering eller ekstremisme, men legger et generelt grunnlag for samarbeid og samhandling. Hovedbildet kommisjonen sitter igjen med, er likevel at samarbeid mellom det offentlige og sivilsamfunnet ikke gis tilstrekkelig prioritet, og at det mangler kunnskap om hva sivilsamfunnet kan bidra med.
+
+Sivilsamfunnet bidrar med inkludering, mestring og meningsbryting. Sivilsamfunnet utgjør en viktig møteplass for mange, uavhengig av alder og bakgrunn. En rekke organisasjoner arbeider også mot gruppefiendtlighet og rasisme. Uenighetsfellesskap er viktig i et forebyggende perspektiv. Mange organisasjoners demokratiske oppbygging og utgangspunkt er også en god øvelse i demokrati i praksis, i tillegg til at organisasjonene bidrar med arenaer for sosial kontakt, engasjement og læring. Kommisjonen vil også fremheve partene i arbeidslivet, som er sentrale blant annet innen arbeidsliv, helse og kriminalitetsbekjempelse. Partssamarbeidet gir etter kommisjonens syn en inngang til å forbedre folks liv, følge med på utviklingstrekk og utveksle erfaringer over tid, som mange andre land ikke har.
+
+Flere aktører i sivilsamfunnet og unge som kommisjonen har fått innspill fra, mener at spesielt gaming er stigmatisert og misforstått, også på grunn av koblingene til vold og ekstremistisk innhold på enkelte plattformer og fora. Samtidig er det en reell samfunnsutfordring at ulike ekstremistiske miljøer bruker videospill, spillplattformer og spillrelatert innhold for å spre propaganda og rekruttere unge. Det er derfor behov for kritisk refleksjon over både spillinnholdet og brukeratferd for å kunne bygge motstandskraft mot ekstremisme i spillsamfunn. Kommisjonen merker seg at det er etablert spillhus flere steder i landet som er fysiske møteplasser for unge, og som skaper en positiv og samlende kultur. Det finnes også heldigitale møteplasser som bidrar til at ungdom kan samles og ha et aktivitetstilbud. Kommisjonen vil fremheve viktigheten av slike arenaer og at spillsamfunnene involveres i det forebyggende arbeidet.
+
+I tillegg til å bidra i det brede forebyggende arbeidet kan sivilsamfunnet spille en rolle i forebygging rettet mot enkeltpersoner, blant annet ved å utgjøre alternative arenaer for en person som er på vei inn i en radikaliseringsprosess. I saksgjennomgangen fant kommisjonen at mange av dem som ble radikalisert, hadde et sterkt engasjement for internasjonale konflikter. Gjennom organisasjonslivet kan et slikt engasjement få et konstruktivt utløp. Der det foreligger en konkret radikaliseringsbekymring, er det imidlertid vesentlig at sivilsamfunnet får god oppfølging fra relevante offentlige myndigheter. Dette kan i noen tilfeller skape utfordringer med tanke på deling av personopplysninger, og vil da måtte skje på bakgrunn av samtykke.
+
+Selv om sivilsamfunnets ulike organisasjoner utfører mye godt arbeid, kan det etter kommisjonens syn være en fordel at ledere i trossamfunn, idrettslag og frivillige organisasjoner får mer kunnskap om radikalisering og ekstremisme. Kommisjonen anser det positivt at det er foreslått et kurstilbud for denne gruppen i regjeringens handlingsplan mot radikalisering og ekstremisme. Tiltaket kom som en del av den løpende utvidelsen av handlingsplanen for flere år siden, men er fortsatt ikke gjennomført. Kommisjonen har imidlertid forstått det slik at tiltaket skal følges opp i nær fremtid. Det er etter kommisjonens syn ikke tilfredsstillende at dette har tatt så lang tid.
+
+I møte med kommisjonen har mange organisasjoner pekt på at mangel på langsiktig finansiering skaper usikkerhet. Mange aktører får støtte gjennom midlertidige prosjekt- og tilskuddsmidler. Kommisjonen har imidlertid identifisert en rekke tilskuddsordninger som sivilsamfunnsaktørene kan søke på. Kommisjonen erfarer at mange av de samme organisasjonene får støtte under ulike ordninger. En av utfordringene på dette området er at mange av tilskuddsordningene ikke er kjent for alle, og at ordningene kan kreve mer administrative og organisatoriske krefter og ferdigheter enn enkelte organisasjoner har eller kan skaffe seg. Samtidig anerkjenner kommisjonen at organisasjoner som mottar tilskudd fra myndighetene, må ha et apparat for å sikre riktig bruk og rapportering av fellesskapets midler, og at dette krever en viss grad av profesjonalisering som utelukker enkelte organisasjoner.
+
+Som andre sivilsamfunnsorganisasjoner har flere trossamfunn tilbud til lokalmiljøet som bidrar i det forebyggende arbeidet. Trossamfunnene kan blant annet tilby samlende aktiviteter, inkludering og tilhørighet. Kommisjonen har fått inntrykk av at mye godt arbeid legges ned av ulike trossamfunn når det gjelder å bygge motstandskraft mot radikalisering og ekstremisme. Dette gjelder både internt i ulike menigheter og trossamfunn og på tvers av religioner gjennom dialogarbeid og annen møtevirksomhet og innsats. Paraplyorganisasjoner som samler ulike tros- og livssynssamfunn, bidrar til gjensidig forståelse og samarbeid. Dette er også en viktig langsiktig innsats i det forebyggende arbeidet og har vist seg vesentlig når Norge har blitt utsatt for terror.
+
+Kommisjonens anbefaling:
+
+- Sivilsamfunnet, inkludert organisasjoner, tros- og livssynssamfunn, partene i arbeidslivet og spillsamfunn, involveres i større grad i det forebyggende arbeidet mot radikalisering og ekstremisme på lokalt, regionalt og nasjonalt nivå.
+
+Møteplasser for barn og voksne i lokalmiljøet
+
+Et av sivilsamfunnets mange viktige bidrag i det forebyggende arbeidet er at de skaper møteplasser for barn og voksne. Eksempler på møteplasser som kan fylle en slik funksjon, er biblioteker, lokale samfunnshus, religiøse forsamlingshus, utearealer, fritidsklubber og skolelokaler etter skoletid. Møteplasser kan også være digitale plattformer og ikke bare fysiske. Det kan også være en kombinasjon gjennom de tidligere nevnte spillhusene som finnes flere steder i Norge.
+
+Det er viktig at møteplasser er tilgjengelige. Dette omfatter at bruk av møteplasser er kostnadsfrie, eller at offentlige eide lokaler har lave leiekostnader, eventuelt at man kan få økonomisk støtte ved behov. Det omfatter også at tilgjengelige møteplasser gjøres kjent i nærmiljøene. Det er avgjørende at lokale myndigheter og sivilsamfunn samarbeider godt om etablering, drift og bruk av møteplasser.
+
+Vi mener at tilgjengelige møteplasser for barn og voksne er sentralt i forebyggingen av radikalisering og ekstremisme. Kommisjonen vurderer at det er flere mulige anbefalinger på feltet for å sikre lik tilgang, slik som rettighetsfesting av møteplasser i nærmiljøet og etablering av nye tilskuddsordninger for dette. Vi har imidlertid ikke utredet dette videre. Vi har kommet til at vi på generelt grunnlag vil understreke hvor viktig inkluderende møteplasser er for den enkelte, og derigjennom samfunnet, når det gjelder å bygge opp motstandskraft mot radikalisering og ekstremisme. Det er derfor vesentlig at møteplasser for uorganisert og organisert aktivitet sikres og gjøres tilgjengelige for både barn og voksne.
+
+## Tros- og livssynsstøtte i fengsler
+
+Innsatte i norske fengsler skal gis mulighet til å utøve religion og livssyn.[^2197] Så langt det er praktisk mulig, skal det avsettes egnede lokaler i fengslene til religiøs eller livssynsmessig seremoni, og innsatte skal gis tilgang til samtale og veiledning i ulike menneskelige, åndelige og eksistensielle spørsmål.
+
+Norske fengsler drives etter den såkalte importmodellen, som betyr at ulike instanser ute i samfunnet leverer tjenester til de innsatte i fengslene. Det gjelder også religiøse tjenester. Det er variasjon i hvilket tilbud som gis den enkelte innsatte innen religion- og livssynsstøtte.
+
+Den norske kirke har utviklet en egen tjenesteordning for fengselsprester som angir rammene for, organiseringen av og innholdet i tjenesten. Etter det kommisjonen erfarer, er dette en solid ordning som fungerer godt. Kirkens tjeneste i fengsler er ikke begrenset til kirkens egne medlemmer. De har i oppdrag å bistå alle mennesker, uavhengig av deres tros- og livssynstilhørighet, med veiledning i åndelige og eksistensielle spørsmål. Fengselsprestene er forpliktet til å invitere inn religiøse ledere fra andre trossamfunn dersom innsatte ber om det. Det finnes også andre organisasjoner som tilbyr livssynstjenester i fengsler. Flere tros- og livssynssamfunn har imidlertid ikke en tilsvarende ordning. Slik kommisjonen forstår det, er det for eksempel ikke vanlig praksis at imamer mottar lønn eller andre godtgjørelser for å besøke muslimske innsatte i norske fengsler. En årsak kan være at det er opp til det enkelte trossamfunnet å selv velge å prioritere tjenester for innsatte i fengsler.
+
+Religions- og livssynsfrihet er en grunnleggende menneskerettighet, og kommisjonen mener det er viktig at alle har samme mulighet til åndelig og eksistensiell veiledning. Hensynet til ulike minoriteter må også ivaretas i norske fengsler. Enkelte har pekt på at manglende eller lite tilgjengelige åndelige eller andre samtalepartnere eller annen støtte kan danne grunnlag for radikalisering. Videre at lav tilstedeværelse av imamer, dårlig kunnskap om islam og lite tilrettelegging for religionsutøvelse for muslimer kan øke potensialet for radikalisering til ekstrem islamisme. Kommisjonen har også fått inntrykk av at kunnskap om og forståelse av ulike former for ekstremisme og religion varerier blant ansatte i kriminalomsorgen, og at eksempelvis normale religiøse uttrykk i fengsler feilaktig kan oppfattes eller tolkes som ekstremisme. Det å være mer oppmerksom på og anerkjenne religion og religionsutøvelse, særlig islam, og å bruke imamer mer er pekt på som viktige tiltak for å forebygge radikalisering i norske fengsler.
+
+Kommisjonen mener at det bør iverksettes tiltak for å bidra til at det blir et større mangfold blant tros- og livssynsledere som arbeider i fengsler. Å gi innsatte økt mulighet til å utøve sin religion og sitt livssyn, herunder besøk av en religiøs leder, vil kunne bidra til å redusere risikoen for at innsatte føler seg diskriminert, at de søker seg til «sterkere» medfanger, eller at manglende tilgang på religiøs eller åndelig veiledning blir en faktor i en radikaliseringsprosess. Kommisjonen vurderer at særlig imamer som tilbyr åndelig og eksistensiell veiledning i fengsler, kan bidra til å forebygge radikalisering, både ved å normalisere ansattes forhold til islam og muslimer og ved å være til stede for de innsatte i deres eventuelle søken etter en muslimsk identitet.
+
+Det er flere mulige tiltak som kan bidra til økt tilgang på tros- og livssynsledere i fengsel. Etter kommisjonens vurdering er begrensede økonomiske ressurser en viktig motvirkende faktor i dag. Å få økonomisk kompensasjon og refusjon for eventuelle utgifter vil kunne bidra til at flere tros- og livssynssamfunn kan bidra med besøk og veiledning til innsatte. Kommisjonen vurderer at en statlig tilskuddsordning med definerte mål og tildelingskriterier vil være en hensiktsmessig måte å tildele tros- og livssynssamfunn økonomisk kompensasjon på, ved besøk hos innsatte i norske fengsler. Tilskuddsordningen må stille krav til sikkerhet og opplæring for dem som skal utføre livssynsstøtte i fengsler, og må være tilgjengelig for alle tros- og livssynssamfunn. Det må også stilles krav til kompetanse hos de religiøse lederne i tros- og livssynssamfunn som tildeles midler. De som tildeles økonomisk støtte og skal møte innsatte i fengsler, må ellers oppfylle kriminalomsorgens krav.
+
+Ved innføring av en tilskuddsordning eller eventuelt annen ordning for å sikre tilgang på tros- og livssynsstøtte i fengsler, kan det vurderes om utviklingen av denne skal skje i samarbeid med allerede etablerte ordninger for tros- og livssynsbetjening av innsatte. Man kan også benytte seg av kompetansen Den norske kirke har opparbeidet seg gjennom sin fengselsprestordning. Kriminalomsorgsdirektoratet iverksatte i mars 2022 et pilotprosjekt med livssynsmedarbeidere i kriminalomsorgen med en ramme på to år. Erfaringene fra dette prosjektet vil også være viktig kunnskap å ta med seg videre i arbeidet.
+
+Kommisjonens anbefaling:
+
+- Det etableres en statlig finansiert tilskuddsordning til å utøve tros- og livssynsarbeid i fengsler og å lære opp og veilede dem som utfører det.

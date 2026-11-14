@@ -1,1226 +1,344 @@
-# NOU 2018: 6, del 3 av 18 (side 34–45)
+# NOU 2018: 6, del 3 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/372c10bd-nou-2018-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-6/id2593665/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd4f61bba893409a9b715ee1971a0004/no/pdfs/nou201820180006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 26 figurer, 49 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 34]
+1.  **Grunnloven § 100**
 
-34
-
-NOU 2018: 6
-
-Kapittel 3
-
-Varsling – verdier og vern
-
-miske investeringer (økonomiske forhold),
-destruktiv ledelse (psykososiale arbeidsmiljøforhold), feil med ventelister på sykehus (systemsvikt) og påstått juks med karaktersetting i
-skolen (bruker-/kunderelaterte forhold). Disse
-fire eksemplene dekker de fire hovedkategoriene
-av kritikkverdige forhold som det varsles mest om
-i Norge, jf. punkt 7.3.
-I eksemplene har Oslo Economics beskrevet
-virkningene av to forskjellige måter å håndtere et
-varsel på. Resultatene er oppsummert i figur 3.2.
-På bakgrunn av sin analyse har Oslo Economics kommet frem til et sett av kriterier som må
-være oppfylt for at et varsel skal gi mest mulig
-nytte og lavest mulige kostnader for samfunnet
-som helhet:
-1. Arbeidstaker varsler – sier ifra om det kritikkverdige forholdet
-2. Det aktuelle forholdet er faktisk kritikkverdig
-3. Varselet tas til følge og det kritikkverdige
-forholdet bedres
-4. Varselet behandles på lavest mulig nivå
-(kan påvirke både sannsynligheten for at
-det tas til følge og prosesskostnader)
-5. Varsleren oppfattes å ha bidratt positivt til
-virksomheten/samfunnet og anerkjennes
-for det, slik at andre motiveres til varsling
-og andre kritikkverdige forhold avdekkes
-og forhindres.7
-
-3.4.4
-
-Omfang av kritikkverdige forhold og
-varsling
-Omfanget av kritikkverdige forhold og varsel
-er usikkert. På grunnlag av svar på en spørreundersøkelse gjennomført av Fafo i 2016
-(Trygstad og Ødegård) har vi laget et grovt
-
-estimat på at det i Norge varsles om mellom
-50 000 og 160 000 opplevde kritikkverdige forhold årlig. Av disse varslene anslår vi at om lag
-18 000 til 60 000 blir tatt til følge. At ikke flere
-varsel tas til følge kan blant annet skyldes at det
-ikke er i arbeidsgivers interesse å rette opp alle
-forholdene, samt at en del av forholdene det
-varsles om ikke faktisk er kritikkverdige.
-Vi kjenner ikke til hvor mange varslingssaker som dreier seg om faktisk kritikkverdige
-forhold. Feilvarsling er trolig mer utbredt i
-saker der det er uklart om forholdet er kritikkverdig, for eksempel varsel om destruktiv
-ledelse, enn i saker om klare lovbrudd, for
-eksempel varsel om korrupsjon.8
-I figuren under gis en oversikt over det beregnede
-omfanget av kritikkverdige forhold og forhold det
-blir varslet om.
-Ifølge Oslo Economics illustrerer figur 3.3
-hovedutfordringene ved varsling, men i tillegg det
-potensialet som ligger i å legge bedre til rette for
-varsling: Det er 25 000 til 140 000 kritikkverdige
-forhold det ikke blir varslet om, og det er 7 000 til
-80 000 varsel som ikke tas til følge.
-Oslo Economics har sett på om det lar seg
-beregne i hvilket omfang varslingsreglene misbrukes. Misbruk kan tenkes for eksempel for å få
-gjennomslag for et faglig synspunkt, i interne
-maktkamper eller i forbindelse med nedbemanning eller oppsigelser på annet grunnlag. Oslo
-Economics viser til at de ikke har informasjon om
-i hvilket omfang det foregår misbruk, men at statistikk om oppsigelsessaker tyder på at misbruk, i
-hvert fall i den sammenhengen, er et begrenset
-problem.9
-8
-
-7
-
-9
-
-Ibid. s. 31.
-
-Ibid. s. 32.
-Ibid. s. 34.
-
-10 000 - 160 000 forhold som viser seg ikke å være kritikkverdige
-
-100 000 - 320 000 opplevde
-kritikkverdige forhold årlig
-
-25 000 - 140 000 faktisk kritikkverdige forhold blir ikke varslet om
-7 000 - 80 000 varsler om faktisk
-kritikkverdige forhold tas ikke til følge
-25 000 - 140 000 faktisk kritikkverdige
-forhold blir varslet
-
-18 000 - 60 000 faktisk kritikkverdige
-forhold blir forbedret
-
-Figur 3.3 Omfanget av varsling – grovt estimat på antall kritikkverdige forhold og varsler per år
-Kilde: Oslo Economics (Trygstad & Ødegård 2016)
-
-[Side 35]
-
-35
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-3.4.5
-
-10
-
-Virkninger av varsling for samfunnet
-som helhet
-
-Kapittel 3
-
-Direkte nytte
-
-Takket være varsling har vi bedre arbeidsmiljø,
-bedre ivaretakelse av helse, miljø og sikkerhet,
-bedre kunde/bruker-behandling og en mer
-velfungerende økonomi og høyere skatteinntekter enn vi ville hatt uten varsling. I tillegg til
-direkte å avdekke og forbedre kritikkverdige
-forhold gir varsling indirekte nytte ved å forebygge andre kritikkverdige forhold.10
-
-Den direkte nytten av varsling oppstår ved at
-tusenvis av kritikkverdige forhold forbedres årlig.
-De kritikkverdige forholdene som det varsles om,
-og som forbedres, fordeler seg på noen hovedgrupper:
-– psykososiale arbeidsmiljøforhold
-– systemsvikt
-– bruker- og kunderelaterte forhold
-– økonomirelaterte forhold
-
-Ibid. s. 35.
-
-Å avdekke og forbedre slike kritikkverdige forhold kan bidra til forbedret arbeidsmiljø, bedre
-ivaretakelse av helse, miljø og sikkerhet, bedre
-
-Direkte nytte av varsling
-Nytten av å forbedre 18 000 til
-60 000 kritikkverdige forhold årlig
-
-+
-
-Indirekte nytte av varsling
-Nytten av å forhindre kritikkverdige
-forhold
-
-Effektivitet av
-varsling
-som kontrollmekanisme
-
-=
-Kostnaden av varsling
-Kostnaden av å avdekke, undersøke og
-utbedre eventuelle kritikkverdige forhold
-
-Figur 3.4 Virkninger av varsling for samfunnet som helhet
-Kilde: Oslo Economics
-
-Bedre arbeidsmiljø
-6 000 til 19 000 forbedrede
-forhold
-
-Bedre ivaretakelse av
-helse, miljø og sikkerhet
-5 000 til 18 000
-forbedrede forhold
-
-Bidra til at etiske retningslinjer følges
-
-Rette opp alvorlige feil
-(gir også nytte i form av
-bedre ivaretakelse av helse,
-miljø og sikkerhet)
-
-Avdekke og
-stanse
-underslag,
-tyveri og
-økonomiske
-misligheter
-
-Sørge for at lovpålagt
-taushetsplikt følges
-
-Utbedre forhold som kan medføre
-fare for liv og helse
-
-Bidra til å stanse trakassering på
-bakgrunn av etnisitet/livssyn/
-kjønn/legning
-
-En velfungerende økonomi
-og høyere skatteinntekter
-2 000 til 7 000
-forbedrede forhold
-
-Stanse bruk av rusmidler på jobb
-Stanse ulovlige kjemikalier/utspill
-
-Figur 3.5 Direkte nytte av varsling for samfunnet som helhet
-Kilde: Oslo Economics (Trygstad & Ødegård 2016)
-
-Stanse sosial
-dumping/
-uakseptable
-lønns- og
-Forbedre behandling av
-kunder/brukere som strider arbeidsvilkår
-med gjeldende lovverk
-Stanse svart
-Stanse vold eller
-arbeid/skattpb.
-urettmessig maktmisbruk
-Stanse
-mot kunder/brukere
-korrupsjon
-
-Andre typer forhold
-
-Bidra til å stanse destruktiv ledelse som
-er ødeleggende for arbeidsmiljøet
-
-Bedre kunde/
-brukerbehandling
-4 000 til 14 000
-forbedrede forhold
-
-[Side 36]
-
-36
-
-NOU 2018: 6
-
-Kapittel 3
-
-Varsling – verdier og vern
-
-kunde- og brukerbehandling, en mer velfungerende økonomi og høyere skatteinntekter.11
-Basert på Fafo-undersøkelsen fra 2016,12 har
-Oslo Economics beregnet at om lag 32 prosent av
-de kritikkverdige forholdene som tas til følge
-hvert år hovedsakelig bidrar til bedre arbeidsmiljø, rundt 30 prosent av varslene bidrar hovedsakelig til forbedret helse, miljø og sikkerhet, om
-lag 23 prosent til bedre kunde- og brukerbehandling og rundt 11 prosent bidrar hovedsakelig til en
-mer velfungerende økonomi og høyere skatteinntekter, se figur 3.5.
-
-samarbeid i karteller.15 En studie fra USA viser at
-straffefritak eller straffereduksjon først fører til en
-økning i anmeldelser av kartellvirksomhet og deretter til nedgang i varsel. Dette funnet støttes også
-av andre undersøkelser. Både teoretiske og
-eksperimentelle studier av indirekte nytte av varsling bygger opp under resultatene fra den empiriske studien som det er vist til over.16
-Kostnader
-
-Å forhindre kritikkverdige forhold gir samme
-nytte som å avdekke og forbedre kritikkverdige
-forhold, men ingen av prosesskostnadene. Å forebygge kritikkverdige forhold er derfor fra et samfunnsøkonomisk perspektiv, svært lønnsomt.
-Forskning på indirekte nytte viser at varsling
-gir forebyggende virkninger, men at det krever at
-varslervernet er riktig utformet, og at varsleren
-kompenseres for sine kostnader.14 Det er få empiriske studier av varsling i arbeidslivet som ser på
-virkningene, men det finnes studier av et beslektet fenomen som finnes både i Norge, EU og USA.
-Dette gjelder regler om straffefritak eller straffereduksjon ved varsel om for eksempel ulovlig pris-
-
-I vurderingen av kostnader ved varsling, understreker Oslo Economics at det må skilles mellom
-kostnader som stammer fra det kritikkverdige forholdet og kostnader som stammer fra varselet.
-Det må også skilles mellom kostnader som er
-nettokostnader for samfunnet som helhet, og
-kostnader som kun er en omfordelingsvirkning
-fra dem det varsles om til andre grupper i samfunnet.
-Nettokostnader for samfunnet, det vil si virkninger som medfører økt ressursbruk for samfunnet som helhet, kan inndeles i avdekkingskostnader, prosesskostnader og opprettingskostnader.
-Avdekkingskostnader er kostnader knyttet til
-å finne ut om det har skjedd noe kritikkverdig. I
-varslingssaker vil disse kostnadene ofte være nær
-null fordi arbeidstakerne kan oppdage kritikkverdige forhold som en konsekvens av å være på
-jobb. Opprettingskostnader er kostnader som er
-nødvendige for å rette opp i et forhold som er vurdert å være faktisk kritikkverdig, og kommer som
-sådan ikke av varselet selv. Oslo Economics legger til grunn at samfunnets lover og regler er hensiktsmessig utformet og at kostnaden med å
-endre et kritikkverdig forhold er nødvendig og
-dermed lønnsomt for samfunnet som helhet.17
-Fordi avdekkingskostnadene ofte er null og
-opprettingskostnader er nødvendige for å forbedre forhold som samfunnet mener er kritikkverdige, er det i hovedsak prosesskostnadene
-som samfunnet bør ta hensyn til og forsøke å
-minimere.18
-Prosesskostnader inkluderer kostnader med å
-gjøre varslerens informasjon kjent, oppklare om
-det er skjedd noe kritikkverdig og eventuelle
-etterfølgende kostnader som følger av varselet
-(for eksempel kostnader som følge av gjengjeldelse). Dette er samfunnsøkonomiske kostnader i
-form av økt ressursbruk for samfunnet på grunn
-
-11
-
-15
-
-12
-
-16
-
-Indirekte nytte
-Varsling kan også gi indirekte virkninger ved å
-bidra til mer varsling og færre kritikkverdige forhold. Det er i stor grad håndteringen av varslingssaker som avgjør om den indirekte virkningen blir
-positiv eller negativ.
-Oslo Economics gir følgende forklaring på
-hvordan varsling gir indirekte nytte:
-Den indirekte nytten, eller forebyggingsvirkningen, oppstår ved at godt håndterte varsler
-gjør medarbeidere trygge på at de kan si ifra
-om kritikkverdige forhold, noe som øker sannsynligheten for at det varsles. Personer som er
-ansvarlige for kritikkverdige forhold vil ta hensyn til den økte sannsynligheten for at lov- og
-regelbrudd blir oppdaget. Økt sannsynlighet
-for å bli varslet om (oppdaget) gjør det mindre
-attraktivt å igangsette og opprettholde kritikkverdige forhold. Resultatet er at færre kritikkverdige forhold oppstår og vedvarer.13
-
-Ibid. s. 35.
-Fafo 2016 I.
-13
-Oslo Economics (2017) s. 39.
-14
-Ibid. s. 39–41.
-
-17
-18
-
-Se konkurranseloven kapittel 7.
-Oslo Economics (2017) s. 40–41.
-Ibid. s. 43.
-Ibid. s. 41.
-
-[Side 37]
-
-37
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 3
-
-46 % av varsel
-
-14 % av varsel
-Tillitsvalgt
-
-4%
-
-Andre Annen leder, intern
-varslingsmottaker,
-HMS-ansvarlig
-
-Toppledelsen Ekstern
-varslings
-mottaker,
-styret
-
-Tilsyn
-
-Nærmeste leder
-
-14 %
-
-2%
-
-14 %
-6%
-
-Media/granskning/rettssak
-
-Kostnad per sak
-
-Hvem arbeidstakere først varsler til (andel av total i %)
-
-Figur 3.6 Prosesskostnader forbundet med varsling for samfunnet som helhet
-Kilde: Oslo Economics (Trygstad & Ødegård 2016)
-
-av selve varselet. Prosesskostnadene er blant annet
-avhengig av hvilket nivå varslingssaken håndteres
-på. Kostnadene er generelt lavere jo lavere ned i
-hierarkiet det varsles. Som Oslo Economics påpeker, vil et muntlig varsel til nærmeste leder gi prosesskostnader tilnærmet lik null, mens en sak
-som ender i media og kanskje i en rettssak, kan
-medføre betydelige kostnader, se figur 3.6.
-Norske arbeidstakere følger som regel «linja»
-når de varsler, og nesten halvparten av alle varsel
-går til nærmeste leder. Oslo Economics antar at
-disse varslingene har lave prosesskostnader. Varsel som går til tillitsvalgte eller høyere opp i
-systemet internt i virksomheten vil føre til noe
-høyere prosesskostnader, jo høyere opp i
-systemet man kommer. Det er svært få varslingssaker som omtales i media eller som ender med
-domstolsbehandling. Det kan dermed legges til
-grunn at prosesskostnadene forbundet med varsling ikke er svært høye, men at de ville økt betraktelig dersom langt flere hadde valgt å varsle
-eksternt til noen utenfor virksomheten.
-Varslingssaker kan også omfordele ressurser
-mellom berørte grupper og vil i slike tilfeller ikke
-ha noen reell effekt for samfunnet. Nytten for en
-gruppe motsvares av like store kostnader for en
-annen. Slike omfordelingsvirkninger vil ikke
-påvirke den samfunnsøkonomiske virkningen av
-et tiltak. Som et eksempel peker Oslo Economics
-på Siemens-saken, der skandalen førte til omsetningssvikt for Siemens, samtidig som deres konkurrenter fikk en omsetningsøkning.19
-
-19
-
-Oslo Economics (2017) s. 44.
-
-Effektivitet
-Effektivitet sier noe om hvor stor måloppnåelse et
-tiltak har, sammenlignet med ressursbruken.
-Oslo Economics har sammenlignet varsling med
-andre mulige kontrollmekanismer som kan brukes til å avdekke kritikkverdige forhold i et samfunn. I rapporten skilles det mellom to typer kontrollmekanismer: «utsidekontroll», det vil si kontrollmekanismer som forsøker å få frem informasjon fra utsiden av virksomheten, for eksempel
-politi og revisjon, og «innsidekontroll», det vil si
-kontroll ved hjelp av personer på innsiden av virksomheten, for eksempel varslere (arbeidstakere
-og innleide) og aksjonærer.
-Utenlandske studier som undersøker betydningen av ulike kontrollmekanismer for å avsløre
-regnskapsjuks, viser at det i stor grad avdekkes
-ved «innsidekontroll». En undersøkelse som er
-gjengitt i en artikkel i The Economist i 2015 viser
-for eksempel at 42 prosent av all regnskapsjuks
-ble avdekket ved hjelp av tips. Varsling har også
-betydning som bidrag til andre kontrollmekanismer, for eksempel til politiet. Oslo Economics
-viser til en undersøkelse fra 2017 som dokumenterer at sjansen for domfellelse for regnskapsjuks
-som er avdekket ved varsling øker med 9 prosent,
-sammenlignet med saker uten varsel.20
-I rapporten har Oslo Economics laget et regneeksempel hvor de har beregnet en hypotetisk
-merkostnad for samfunnet av å erstatte varsling
-med andre kontrollmekanismer. Det tas utgangspunkt i at det avdekkes og forbedres 18 000 til
-60 000 kritikkverdige forhold hvert år på grunn av
-20
-
-Ibid.
-
-[Side 38]
-
-38
-
-NOU 2018: 6
-
-Kapittel 3
-
-Varsling – verdier og vern
-
-varsling. Det er avdekkingskostnadene Oslo Economics ser på i regneeksemplet. Basert på en
-antakelse om at en eksternt ansatt kontrollør
-(politi, revisor eller lignende) ville brukt en halv til
-tre måneder på å avdekke et kritikkverdig forhold, vil det kreve 750 til 15 000 årsverk å avdekke
-det samme antallet kritikkverdige forhold som
-avdekkes ved hjelp av varsling i dag. Basert på
-disse anslagene sparer varsling samfunnet årlig
-for en halv til tolv milliarder kroner.21
-
-3.4.6
-
-Utfordringer med gjeldende
-varslingspraksis – mulige tiltak og
-virkninger av disse
-
-Myndighetene kan hovedsakelig legge bedre
-til rette for varsling ved å gjennomføre tiltak
-som gjør det mer attraktivt for arbeidstakere å
-si ifra om kritikkverdige forhold.22
-I rapportens avsluttende kapittel ser Oslo Economics nærmere på utfordringene med gjeldende
-varslingspraksis, mulige nye tiltak og virkninger
-av disse. I rapporten er det slått fast at varsling i
-henhold til dagens regler og praksis gir direkte
-nytte ved at 18 000 til 60 000 kritikkverdige forhold forbedres årlig. I tillegg gir varsling, som vi
-har sett, også indirekte nytte ved å forhindre
-mange kritikkverdige forhold. Oslo Economics
-peker likevel på noen utfordringer som tyder på at
-dagens varslingsmekanisme ikke fungerer optimalt fra et samfunnsmessig og samfunnsøkonomisk ståsted:
-– Halvparten av alle arbeidstakere som opplever
-kritikkverdige forhold, velger ikke å varsle.
-Dette gjør at mange tusen faktisk kritikkverdige forhold ikke avdekkes eller utbedres, med
-de kostnadene det medfører.
-– Under halvparten av varslene tas til følge. Dermed vedvarer flere tusen kritikkverdige forhold som kunne vært utbedret.
-– En av fire arbeidstakere som varsler får bare
-negative eller overveiende negative reaksjoner,
-med de kostnadene det gir i form av ressursbruk, potensielt tapt inntekt og psykiske
-kostnader.
-– Flere arbeidsgivere opplever at varslingssaker
-som ikke behandles på lavt nivå kan være forbundet med høye prosesskostnader.
-– Varsel om forhold som viser seg ikke å være
-kritikkverdige kan koste ressurser for arbeids-
-
-giver og kan være (urettmessig) belastende for
-den det varsles om.23
-Insentivproblemet
-På grunnlag av sin analyse, peker Oslo Economics
-på en viktig årsak som de fra et samfunnsøkonomisk perspektiv, mener har stor betydning. Det er
-hva Oslo Economics kaller insentivproblemet.
-Arbeidsgiveren og den eller de som er ansvarlige
-for det kritikkverdige forholdet, vil i flere tilfeller
-ha høyere kostnader enn nytte av å ordne opp.
-Det kan forklare hvorfor arbeidsgivere og den det
-varsles om noen ganger vil forsøke å stanse og
-avskrekke varslere. Dette kan innebære at varslingen medfører kostnader for varsleren, som ikke
-kan oppveie den nytte varsleren vil ha av at det
-kritikkverdige forholdet forbedres. Dermed er det
-færre varsel som blir tatt til følge, mange som ikke
-varsler, og mange kritikkverdige forhold som ikke
-blir avdekket og forbedret.
-Hovedmål med tiltak
-Fra et samfunnsøkonomisk ståsted må hovedmålet med tiltak for å legge bedre til rette for varsling være at det blir avdekket, forbedret og forhindret flest mulig kritikkverdige forhold. Hvis dette
-målet skal nås, må man øke andelen arbeidstakere
-som sier fra og øke andelen varsel som tas til
-følge. Samtidig må man minimere kostnadene
-knyttet til varslingsprosessen og omfanget av feilvarslinger og misbruk.24 Se også figur 3.7.
-I rapporten bruker Oslo Economics begrepet
-tiltak i samme betydning som i Veileder for samfunnsøkonomisk analyse, utgitt av Direktoratet
-for økonomistyring i 2014: «Tiltak omfatter handlinger og aktiviteter som initieres av offentlige
-myndigheter for å løse et samfunnsproblem.»25
-På grunnlag av sine funn har Oslo Economics
-sett på enkelte typer styringstiltak: økonomiske,
-organisatoriske, informative og juridiske, se figur
-3.8.
-Økonomiske tiltak
-Oslo Economics har særlig sett på finansielle
-insentiver for varslene. Hensikten med finansielle
-insentiver er å belønne og kompensere potensielle
-varslere for at kostnaden ved å varsle kan være
-høyere enn den personlige nytten.
-23
-
-21
-
-Ibid. s. 45.
-22
-Ibid. s. 48.
-
-24
-25
-
-Ibid. s. 49.
-Ibid.
-Ibid. s. 50.
-
-[Side 39]
-
-39
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 3
-
-Øke andelen varsler som tas til følge fra 36 % til 100 %
-
-Kritikkverdige
-forhold
-
-Øke andelen som
-varsler fra ca. 50 %
-til 100 %
-
-Medarbeider
-opplever
-kritikkverdig
-forhold
-
-Forhold faktisk
-kritikkverdig
-
-Varsler
-
-Varsling fører
-til endring i
-varslet forhold
-
-Direkte nytte: Avdekke og forbedre gjeldende
-kritikkverdige forhold
-
-Varsling fører
-ikke til endring
-
-Direkte kostnader: Ressurser brukt på
-varslingsprosess, tilhørende inntekts/verditap og
-psykologisk kostnad, sammenlignet med ikke-varsling
-Minimere kostnader for varsler, arbeidsgiver og andre
-
-Varsler ikke
-
-Indirekte nytte og kostnader: Nytte og kostnader av
-å forebygge og avdekke flere/færre kritikkverdige
-forhold på sikt
-
-Forhold ikke kritikkverdig
-
-Ingen feil varsling
-Ingen misbruk av varsling
-
-Figur 3.7 Mål for tiltak for å legge bedre til rette for varsling (ideal)
-Kilde: Oslo Economics
-
-Økonomiske tiltak
-
-Organisatoriske tiltak
-
-Informasjonstiltak
-
-Juridiske tiltak
-
-Finansielle insentiver
-- erstatningsutmåling
-ved ulovlig
-gjengjeldelse
-
-Eierstyring av
-offentlige virksomheter
-- fremme ytringsklima
-- ansette varslere
-
-Utvikle veiledere om
-- kritikkverdige forhold
-- varsling
-- varslingsprosesser
-
-Lovendringer
-som styrker varslervernet
-
-Varslertjeneste
-- «Varslerhus»
-- tilsyn eller ombud
-
-Kompetanseutvikling
-
-Samle bestemmelser
-om varslervern i en
-særlov
-
-Hedre varslere
-
-Figur 3.8 Mulige tiltak for å legge bedre til rette for varsling
-Kilde: Oslo Economics
-
-Det er særlig i USA at man har tatt i bruk
-finansielle insentiver i form av belønning for å
-varsle. I finansbransjen tilbys for eksempel varsleren en belønning på mellom 10 og 30 prosent av
-bøter over 1 million dollar. Belønningsordningen
-har ført til en økning av antallet varsel og siden
-2016 er det utbetalt 130 millioner dollar til 30 til 40
-varslere til sammen.26
-Det er ikke tradisjon for denne typen finansielle insentiver i Norge. Oslo Economics foreslår i
-stedet at myndighetene vurderer å øke oppreisningsbeløpene i saker om ulovlig gjengjeldelse, som i tråd med norsk rett er relativt
-beskjedne også i varslingssaker.
-Organisatoriske tiltak
-Offentlige myndigheter kan, i kraft av å være en
-stor arbeidsgiver, påvirke situasjonen for varslere
-gjennom eierstyring. For det første kan staten
-26
-
-Ibid. s. 51.
-
-som arbeidsgiver legge til rette for et godt
-ytringsklima. For det andre kan det stilles krav til
-ansettelsespolitikken, for eksempel gjennom å
-vektlegge positivt tidligere varsling som en del av
-vurderingen av arbeidssøkere.
-Oslo Economics vurderer også om staten kan
-eller bør opprette en egen «varslertjeneste». Det
-vises i den sammenheng til varslingshuset i Nederland, som er et rådgivnings- og klageorgan for
-varslere i offentlig regi. Som et annet eksempel,
-viser Oslo Economics til Helsetilsynets eksterne
-varslingskanal for å varsle om alvorlige hendelser
-i helseforetakene.
-Oslo Economics’ funn tyder på at uformelle,
-muntlige varslingsprosesser både kan gi lave prosesskostnader og høyest nytte i form av rask og
-fullstendig retting av det kritikkverdige forholdet.
-Likevel er det slik at det kan være nødvendig med
-alternative løsninger, for eksempel der ytringsklimaet er vanskelig eller den konkrete saken er
-svært betent. En varslertjeneste kan bistå varslere
-i varslingssaker som avvises, eller som ikke kan
-
-[Side 40]
-
-40
-
-NOU 2018: 6
-
-Kapittel 3
-
-Varsling – verdier og vern
-
-løses av virksomhetene. Varslere kan slippe å stå
-alene og en varslertjeneste kan gjøre det enklere å
-varsle anonymt. Samlet kan dette bidra til at flere
-kritikkverdige forhold blir varslet om og at flere
-forhold forbedres.
-En varslertjeneste vil også ha kostnader; for
-samfunnet, som må betale for tjenesten, og for
-arbeidsgivere, som kan måtte håndtere en mer
-formell og omstendelig prosess. Oslo Economics
-viser imidlertid til at risikoen ved å igangsette et
-slikt tiltak kan reduseres, for eksempel ved å
-starte med å etablere et tilbud innenfor et begrenset samfunnsområde (som Helsetilsynet), eller for
-bestemte kritikkverdige forhold (korrupsjon).
-Det bør også vurderes om det er hensiktsmessig
-med en felles varslertjeneste eller om det kan bygges videre på eksisterende strukturer, som for
-eksempel Helsetilsynet, Arbeidstilsynet og Likestillings- og diskrimineringsombudet.27
-Informasjonstiltak
-Under denne overskriften trekker Oslo Economics frem tre forskjellige tiltak: utvikle veiledere,
-kompetanseutvikling og å hedre varslere.
-Når det gjelder nasjonale veiledere, vises det
-til at det allerede finnes en del slike veiledere, for
-eksempel har KS nylig gitt ut en ny veileder:
-«Varsling – Hvordan utvikle gode rutiner for varsling i kommuner og fylkeskommuner». I arbeidet
-med rapporten har Oslo Economics avdekket at
-det er mangel på kunnskap om sentrale begreper
-når det gjelder varsling, og viser spesielt til at det
-er stor usikkerhet om hva som kan regnes som et
-kritikkverdig forhold. Informasjon og veiledning
-er tiltak som er lite kostbare å utvikle. Nasjonale
-varslingsveiledere bør utvikles særskilt for ulike
-deler av samfunnslivet. Slike veiledere vil øke
-kunnskapen om varsling, kunne bidra til at flere
-tør å varsle, mer kostnadseffektive varslingsprosesser og at man i mindre grad bruker varslingsprosesser til å håndtere andre saker, for eksempel
-personalsaker og faglig uenighet.
-Kompetanseutvikling for arbeidsgivere og
-arbeidstakere vil være et mer langsiktig og kostbart tiltak, men potensielt en mer effektiv metode
-for å øke kunnskapen om varsling. Offentlige
-myndigheter kan bidra til at kunnskap om varsling og ytringsklima inkluderes i de ulike fag- og
-lederutdanningene.
-Å hedre varslere kan, på samme måte som
-økonomiske insentiver, bidra til å øke nytten og
-senke kostnadene ved varsling for varslerne, og
-
-dermed føre til at flere varsler. Hedring av varslerne vil synliggjøre nytten av varsling og bidra til
-at varsling oppfattes mer positivt. Heder kan
-styrke den moralske motivasjonen for å varsle.
-Det finnes allerede enkelte tiltak som hedrer
-varslere, blant annet er Fritt Ords pris i noen tilfeller blitt utdelt til varslere. Oslo Economics mener
-imidlertid at det er rom for flere tiltak for å hedre
-varslere, både internt i virksomhetene og for varsling generelt. Tiltak for å hedre varslere kan være
-et lite kostbart bidrag til at det varsles mer.
-Juridiske tiltak
-Med juridiske tiltak mener Oslo Economics «virkemidler for å endre personers og virksomheters
-atferd gjennom lover og forskrifter, reguleringer,
-tilsyn og kontroll mm.»28
-Oslo Economics drøfter ikke konkrete lovendringstiltak, men viser generelt til at utfordringen
-for lovgiver er å gi regler som er gode både for tilfeller hvor et varsel viser seg å være riktig, og for
-tilfeller hvor det ikke foreligger noe kritikkverdig
-forhold.
-Avslutningsvis i rapporten stiller Oslo Economics spørsmålet om nytten av tiltak for å legge
-bedre til rette for varsling vil overstige kostnadene. Oslo Economics har ikke foretatt en samfunnsøkonomisk analyse av eksemplene på tiltak
-som de har brukt i rapporten, men mener at de på
-grunnlag av analyser av tiltak fra andre land, har
-grunnlag for å si at det er sannsynlig at flere tiltak
-for å legge bedre til rette for varsling er lønnsomme, avhengig av hvordan det konkrete tiltaket
-er utformet. De viser i den sammenheng til en
-nytte-kostnadsvurdering knyttet til The False
-Claims Act i USA, som viser nytte-kostnadsforhold på mellom 14:1 og 52:1, det vil si at for hver
-dollar man investerer, gis mellom 14 og 52 dollar i
-nytte. Oslo Economics viser også til EU-rapporten
-som er referert nedenfor i punkt 3.5.29
-
-3.5
-
-I 2016 tok EU-kommisjonen initiativ til å utrede
-situasjonen i medlemslandene når det gjelder
-varsling og vern av varslere, og vurdere behovet
-for nye tiltak, eventuelt på EU-nivå, jf. punkt 5.5. I
-28
-
-27
-
-Ibid. s. 54.
-
-EU-rapport: Beregning av
-økonomisk gevinst av vern av
-varslere i tilknytning til offentlige
-innkjøp
-
-29
-
-Ibid. s. 55.
-Oslo Economics (2017) s. 56.
-
-[Side 41]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-den sammenhengen har kommisjonen fått gjennomført en studie hvor man har forsøkt å beregne
-den økonomiske gevinsten av vern av varslere i tilknytning til offentlige innkjøp.30
-EU-kommisjonen har valgt å fokusere på
-offentlige innkjøp fordi det er en viktig del av økonomien i de fleste landene og fordi det er et
-område som er utsatt for korrupsjon. Som
-utgangspunkt må det antas at et godt varslervern
-vil oppfordre til varsling, som igjen vil føre til mindre misbruk av offentlige midler.
-I studien trekkes to hovedkonklusjoner: Vern
-av varslere er svært økonomisk lønnsomt. For å
-oppnå denne effekten, må regelverk og systemer
-være gjennomført på en effektiv måte.
-Studien inkluderer en detaljert undersøkelse
-av kostnadene ved å etablere og vedlikeholde et
-system for vern av varslere i sju land som allerede
-har regler og tiltak på plass: Frankrike, Irland, Italia, Nederland, Romania, Slovakia og Storbritannia. Beregningen av den potensielle nytten av et
-system for vern av varslere ble utført på grunnlag
-av nærmere angitte økonomiske modeller. Når
-man sammenlignet kostnader og potensiell nytte
-ble det tatt utgangspunkt i tre ulike scenarier: At
-varsling kan avdekke henholdsvis 30, 40 og 50
-prosent av tilfellene av korrupsjon og bedrageri i
-offentlige innkjøp. Hovedkonklusjonen er helt
-klar: I alle landene oversteg den potensielle nytten
-i svært stor grad kostnadene. Se EU-rapporten
-kapittel 2 for en nærmere beskrivelse av metodene.
-30
-
-McGunn, Rossi og Fernandes (2017).
-
-41
-
-Kapittel 3
-
-Ved beregning av kostnadene av regler og
-systemer for å ivareta varslerne har man tatt hensyn til fem kategorier av kostnader: Utvikling av
-lovgivning, etablering og vedlikehold av interne
-varslingskanaler, etablering og drift av eksterne
-varslingskanaler, kostnader knyttet til prosesser
-om gjengjeldelse i domstolene og gratis juridisk
-rådgivning til potensielle varslere. Alt i alt er kostnadene for å etablere og vedlikeholde regelverk
-og systemer for vern av varslere relativt lave, sammenlignet med den potensielle nytten. For Frankrikes del kom man til at forholdet mellom kost og
-nytte varierte mellom 22:1 og 37:1, det vil si at for
-hver euro som blir investert i vern av varslere så
-kan man spare inn mellom 22 og 37 euro på grunn
-av lavere omfang av korrupsjon og bedrageri.
-Studien viste stor variasjon mellom landene:
-For Irland var forholdstallene mellom 1,4:1 og
-2,3:1, mens for Romania var forholdstallene mellom 319:1 og 532:1. De store variasjonene skyldes
-flere forhold. På kostnadssiden er det for eksempel store forskjeller med hensyn til hvor grundig
-man har gått frem i forbindelse med etablering og
-vedlikehold av regler og systemer. På nyttesiden
-gjør det utslag at det er store forskjeller mellom
-landenes totale økonomi, hvor stor andel av økonomien offentlige innkjøp utgjør, og den generelle
-risikoen for korrupsjon.
-I studien ble det også identifisert flere faktorer
-som bidrar til å effektivisere systemer for vern av
-varslere. Blant de viktigste er økt kunnskap om
-systemer for varsling og på hvilken måte varslere
-er vernet, interne varslingsrutiner, systemer som
-gjør det mulig å varsle anonymt og opplæring i
-mottak og håndtering av varsel.
-
-[Side 42]
-
-42
-
-NOU 2018: 6
-
-Kapittel 4
-
-Varsling – verdier og vern
-
-Kapittel 4
-
-Gjeldende rett i Norge
-
-4.1
-
-Ytringsfrihet
-
-4.1.1
-
-Grunnloven § 100
-
-Ytringsfriheten er en grunnleggende forutsetning
-for en demokratisk styreform, en vesentlig basis
-for kulturell utvikling og et sentralt element i
-enkeltmenneskets frihet. Ytringsfriheten kan
-komme i konflikt med andre sentrale verdier, som
-
-Boks 4.1 Grunnloven § 100
 Ytringsfrihet bør finne sted.
-Ingen kan holdes rettslig ansvarlig for å ha
-meddelt eller mottatt opplysninger, ideer og
-budskap med mindre det lar seg forsvare
-holdt opp imot ytringsfrihetens begrunnelse i
-sannhetssøken, demokrati og individets frie
-meningsdannelse. Det rettslige ansvar bør
-være foreskrevet i lov.
-Frimodige ytringer om statsstyret og hvilken som helst annen gjenstand er tillatt for
-enhver. Det kan bare settes klart definerte
-grenser for denne rett der særlig tungtveiende
-hensyn gjør det forsvarlig holdt opp imot
-ytringsfrihetens begrunnelser.
-Forhåndssensur og andre forebyggende
-forholdsregler kan ikke benyttes med mindre
-det er nødvendig for å beskytte barn og unge
-mot skadelig påvirkning fra levende bilder.
-Brevsensur kan ikke settes i verk utenfor
-anstalter.
-Enhver har rett til innsyn i statens og kommunenes dokumenter og til å følge forhandlingene i rettsmøter og folkevalgte organer. Det
-kan i lov fastsettes begrensninger i denne rett
-ut fra hensyn til personvern og av andre
-tungtveiende grunner.
-Det påligger statens myndigheter å legge
-forholdene til rette for en åpen og opplyst
-offentlig samtale.
 
-for eksempel vern om det enkelte menneskes verdighet og integritet, og ytringsfriheten trenger
-derfor en presisering.1 Grunnloven § 100, som
-siden vedtakelsen i 1814 har sikret «trykkefrihed»
-i Norge, ble vedtatt endret av Stortinget 30. september 2004. Se mer om bakgrunnen for grunnlovsendringen i punkt 4.1.2 om Ytringsfrihetskommisjonen nedenfor. Grunnloven § 100 gir nå et
-grunnlovsvern for retten til ytringsfrihet ved å
-legge til grunn at «[y]tringsfrihet bør finne sted».
-Retten til ytringsfrihet er også beskyttet av flere
-overnasjonale regelsett, som Den europeiske
-menneskerettskonvensjon artikkel 10, som er
-omtalt i punkt 4.1.3 nedenfor.
-Ytringsfrihet begrunnes ved henvisning til tre
-prinsipper: sannhetsprinsippet, autonomiprinsippet («individets frie meningsdannelse») og demokratiprinsippet.2 Ytringsfriheten skal med det ivareta en rekke formål og hensyn, dels med betydning for samfunnet, og dels med betydning for det
-enkelte menneske. Disse overordnede hensynene
-er fremhevet i Grunnloven § 100 andre ledd, der
-det er slått fast at «[i]ngen kan holdes rettslig
-ansvarlig for å ha meddelt eller mottatt opplysninger, ideer og budskap med mindre det lar seg forsvare holdt opp imot ytringsfrihetens begrunnelse
-i sannhetssøken, demokrati og individets frie
-meningsdannelse.»
-Ansattes ytringsfrihet er beskyttet av den
-alminnelige bestemmelsen om ytringsfrihet i
-Grunnloven § 100. Den nye bestemmelsen innebar en styrking av grunnlovsvernet for ansattes
-ytringsfrihet, se punkt 4.1.4. Bestemmelsen
-beskytter mot inngrep i ansattes ytringsfrihet fra
-offentlige myndigheter og i betydelig utstrekning
-også fra private.
+Ingen kan holdes rettslig ansvarlig for å ha meddelt eller mottatt opplysninger, ideer og budskap med mindre det lar seg forsvare holdt opp imot ytringsfrihetens begrunnelse i sannhetssøken, demokrati og individets frie meningsdannelse. Det rettslige ansvar bør være foreskrevet i lov.
 
-4.1.2 Ytringsfrihetskommisjonen
-Den regjeringsoppnevnte Ytringsfrihetskommisjonen hadde som mandat å foreta en grunnleg1
-2
+Frimodige ytringer om statsstyret og hvilken som helst annen gjenstand er tillatt for enhver. Det kan bare settes klart definerte grenser for denne rett der særlig tungtveiende hensyn gjør det forsvarlig holdt opp imot ytringsfrihetens begrunnelser.
 
-NOU 1999: 27, punkt 1.2.
-NOU 1999: 27, punkt 2.2.
+Forhåndssensur og andre forebyggende forholdsregler kan ikke benyttes med mindre det er nødvendig for å beskytte barn og unge mot skadelig påvirkning fra levende bilder. Brevsensur kan ikke settes i verk utenfor anstalter.
 
-[Side 43]
+Enhver har rett til innsyn i statens og kommunenes dokumenter og til å følge forhandlingene i rettsmøter og folkevalgte organer. Det kan i lov fastsettes begrensninger i denne rett ut fra hensyn til personvern og av andre tungtveiende grunner.
 
-NOU 2018: 6
-Varsling – verdier og vern
+Det påligger statens myndigheter å legge forholdene til rette for en åpen og opplyst offentlig samtale.
 
-gende gjennomtenkning av ytringsfrihetens stilling i samfunnet, og et kjernepunkt for arbeidet
-skulle være en revisjon av ytringsfrihetens grunnlovsvern.3 Kommisjonen avga innstillingen sin i
-1999, NOU 1999: 27 «Ytringsfrihed bør finde Sted»,
-med forslag til ny Grunnlov § 100 om ytringsfrihet.
-Kommisjonens hovedsynspunkt var at «Norge
-skal være et åpent samfunn der den enkelte har
-frihet til å ytre seg og holde seg informert. En
-opplyst, aktiv og kritisk offentlighet er demokratiets grunnvoll. Dette fastslås i forslagets 1. ledd
-med ordene «Ytringsfrihed bør finde Sted». For
-ordens skyld gjøres oppmerksom på at ordet
-«bør» skal leses som «skal» på moderne norsk.»4
-Ytringsfrihetskommisjonen var opptatt av
-ytringsfrihet som praktisk realitet:
-Ytringsfriheten vil med den nye bestemmelsen
-bli bedre vernet enn det som følger av nåværende Grl. § 100. Ved sterkt å betone ytringsfrihetens tre hovedbegrunnelser i selve bestemmelsen (2. ledd) tilsikter kommisjonen en realistisk avveining mellom hensynene bak
-inngrep i ytringsfriheten og den skade eller forstyrrelse som inngrepet kan påføre de tre prosessene ytringsfriheten skal verne, dvs. sannhetssøkningen, demokratiet og individets frie
-meningsdannelse. Disse tre prosessene – som
-forutsetter tvangsfri kommunikasjon – er nærmere beskrevet i utredningen. Ytringsfriheten
-vil på denne måten ikke framstå som et
-abstrakt prinsipp – med tilhørende fare for nedprioritering – men som en praktisk realitet av
-til dels universell betydning.5
-I utredningen behandles også spørsmålet om
-ansattes ytringsfrihet, og utgangspunktet er at
-arbeidstakere omfattes av det samme ytringsfrihetsvernet som alle borgere. Fra kommisjonens
-omtale av ansattes ytringsfrihet siteres:
-Kommisjonen ser det ikke som hensiktsmessig å forslå særlige regler om ansattes ytringsfrihet i selve Grunnloven. Utgangspunktet
-etter vårt forslag til ny § 100 blir derfor – som i
-dag – at den ansatte omfattes av det samme
-ytringsfrihetsvernet som enhver annen borger.
-Rettslig sanksjonerte begrensninger i den
-ansattes klassiske ytringsfrihet må tilfredsstille
-vilkårene i Grl. § 100, 2. ledd, 1. pkt., dvs.
-3
-4
-5
+**\[Boks slutt\]**
 
-Ibid., punkt 1.2.
-Ibid., punkt 1.1.1 Kommisjonens forslag.
-Ibid.
+Ytringsfrihet begrunnes ved henvisning til tre prinsipper: sannhetsprinsippet, autonomiprinsippet («individets frie meningsdannelse») og demokratiprinsippet.[^54] Ytringsfriheten skal med det ivareta en rekke formål og hensyn, dels med betydning for samfunnet, og dels med betydning for det enkelte menneske.
 
-43
+Disse overordnede hensynene er fremhevet i Grunnloven § 100 andre ledd, der det er slått fast at «\[i\]ngen kan holdes rettslig ansvarlig for å ha meddelt eller mottatt opplysninger, ideer og budskap med mindre det lar seg forsvare holdt opp imot ytringsfrihetens begrunnelse i sannhetssøken, demokrati og individets frie meningsdannelse.»
 
-Kapittel 4
+Ansattes ytringsfrihet er beskyttet av den alminnelige bestemmelsen om ytringsfrihet i Grunnloven § 100. Den nye bestemmelsen innebar en styrking av grunnlovsvernet for ansattes ytringsfrihet, se punkt 4.1.4. Bestemmelsen beskytter mot inngrep i ansattes ytringsfrihet fra offentlige myndigheter og i betydelig utstrekning også fra private.
 
-begrensningen må la seg forsvare «holdt op
-imod Ytringsfrihedens Begrundelse i Sandhedssøgen, Demokrati og Individets frie
-Meningsdannelse». I tillegg kommer kravet i 2.
-pkt. om at begrensingen («det retslige
-Ansvar») må være klart foreskrevet ved lov.
-I praksis vil trolig bestemmelsen i vårt forslag til ny Grl. § 100, 3. ledd være av større
-betydning, fordi de fleste begrensninger i
-ansattes ytringsfrihet ikke vil være rettslig
-sanksjonerte lovbestemmelser, men reglement
-og instrukser mv. fastsatt av arbeidsgiver. Slike
-instrukser kan ikke inneholde bestemmelser
-som krenker retten til «Frimodige ytringer, om
-Statsstyrelsen og enhver anden Gjenstand».
-[…]
-Et ansettelsesforhold reiser særlige
-ytringsfrihetsspørsmål fordi arbeidsgiver –
-innenfor visse rammer – har krav på den ansattes lojalitet. For å overholde lojalitetsplikten
-kan den ansatte bli nødt til å avstå fra visse
-ytringer. Lojalitetsplikten innebærer derfor en
-begrensning i den ansattes ytringsfrihet.
-Konflikten mellom ytringsfrihet og den
-ansattes lojalitetsplikt er av stor praktisk betydning: Rundt halvparten av Norges befolkning
-er i en eller annen sammenheng ansatt hos
-andre. Sett hen bl. a. til dette, er det utilfredsstillende at reglene som begrenser ansattes
-ytringsfrihet i så stor grad er ulovfestet og delvis underutviklet.
-[…]
-En nærmere redegjørelse for hvilke
-begrensninger som kan godtas etter Grl. § 100,
-2. og 3. ledd, vil kreve en omfattende analyse.
-Kommisjonen har ikke mandat eller kapasitet
-til å gjennomføre et slikt arbeid. Vi nøyer oss
-med å vise til enkelte momenter og prinsipper
-som bør inngå i vurderingene.
-Det er neppe mulig å foreta et generelt
-skille mellom ansatte hos private og ansatte i
-det offentlige. For privatansatte vil lojaliteten i
-første rekke være knyttet til at man ikke skal
-skade arbeidsgivers økonomiske interesser,
-ved f. eks. å røpe interne forhold som kan ha
-konkurransemessig betydning eller unødig
-skader bedriftens rykte. Disse hensyn gjør seg
-imidlertid normalt også gjeldende for ansatte i
-offentlig virksomhet. For mange offentlig
-ansatte kommer i tillegg at de arbeider for
-organ som utøver offentlig myndighet og/eller
-er sekretariat for politiske ledere. Dette gjør at
-de ansattes ytringsfrihet kan måtte tåle
-begrensninger begrunnet også i et annet hensyn, nemlig det demokratiske systems legitimi-
+1.  **Ytringsfrihetskommisjonen**
 
-[Side 44]
+Den regjeringsoppnevnte Ytringsfrihetskommisjonen hadde som mandat å foreta en grunnleggende gjennomtenkning av ytringsfrihetens stilling i samfunnet, og et kjernepunkt for arbeidet skulle være en revisjon av ytringsfrihetens grunnlovsvern.[^55] Kommisjonen avga innstillingen sin i 1999, NOU 1999: 27 «*Ytringsfrihed bør finde Sted*», med forslag til ny Grunnlov § 100 om ytringsfrihet.
 
-44
+Kommisjonens hovedsynspunkt var at «Norge skal være et åpent samfunn der den enkelte har frihet til å ytre seg og holde seg informert. En opplyst, aktiv og kritisk offentlighet er demokratiets grunnvoll. Dette fastslås i forslagets 1. ledd med ordene «Ytringsfrihed bør finde Sted». For ordens skyld gjøres oppmerksom på at ordet «bør» skal leses som «skal» på moderne norsk.»[^56]
 
-NOU 2018: 6
+Ytringsfrihetskommisjonen var opptatt av ytringsfrihet som praktisk realitet:
 
-Kapittel 4
+Ytringsfriheten vil med den nye bestemmelsen bli bedre vernet enn det som følger av nåværende Grl. § 100. Ved sterkt å betone ytringsfrihetens tre hovedbegrunnelser i selve bestemmelsen (2. ledd) tilsikter kommisjonen en realistisk avveining mellom hensynene bak inngrep i ytringsfriheten og den skade eller forstyrrelse som inngrepet kan påføre de tre prosessene ytringsfriheten skal verne, dvs. sannhetssøkningen, demokratiet og individets frie meningsdannelse. Disse tre prosessene – som forutsetter tvangsfri kommunikasjon – er nærmere beskrevet i utredningen. Ytringsfriheten vil på denne måten ikke framstå som et abstrakt prinsipp – med tilhørende fare for nedprioritering – men som en praktisk realitet av til dels universell betydning.[^57]
 
-Varsling – verdier og vern
+I utredningen behandles også spørsmålet om ansattes ytringsfrihet, og utgangspunktet er at arbeidstakere omfattes av det samme ytringsfrihetsvernet som alle borgere. Fra kommisjonens omtale av ansattes ytringsfrihet siteres:
 
-tet og funksjon. Men dette argumentet må
-veies opp mot offentlige ansattes plikt til lojalitet – ikke bare mot sine overordnede – men til
-det demokratiske system i seg selv, herunder
-hensynet til en best mulig informert offentlig
-debatt. Som de folkevalgtes tjener kan ikke den
-enkelte offentlige tjenestemann kjøre sololøp
-dersom dette skaper store vansker for den etaten han eller hun skal tjene.
-Det er ikke entydig hva som menes med
-lojalitet. Noen kan mene at dette bør gi arbeidsgiver en generell beskyttelse mot offentlig kritikk fra ansatte. Det er etter vårt syn et for
-omfattende krav. Det vil være mer i tråd med de
-allmenne prinsipper for begrensninger i
-ytringsfriheten om det stadfestes – som et minstekrav – at bare ytringer som påviselig unødvendig skader arbeidsgiver, som arbeidsgiver,
-kan ansees som illojale. Lojalitetsplikten er
-knyttet opp til arbeidsgivers styringsrett, noe
-som betyr at arbeidsgiver er i en bedre posisjon
-enn den ansatte med hensyn til å avgjøre hva
-som ligger i plikten. Dette bør imidlertid også
-gi arbeidsgiver bevisbyrden for at skadelig illojalitet foreligger.
-Ansettelsesforhold og arbeidsmiljø er i dag
-ansett som et offentlig anliggende, og i forlengelsen av det kan det argumenteres for at allmennheten har legitim interesse i et visst innsyn i forhold på den enkelte arbeidsplass. For
-den generelle demokratiske debatt om arbeidsmiljøspørsmål er det ikke nødvendigvis godt
-nok at kritikkverdige forhold kun blir gjort
-kjent for offentlig etablerte tilsynsorgan (f. eks.
-Arbeidstilsynet).
-Hensynet til allmennheten er generelt en
-omstendighet som taler for stor ytringsfrihet
-for ansatte. Særlig er det viktig å ha for øye at
-kvaliteten på den offentlige debatt forringes
-når de som jobber konkret med de aktuelle
-sakene ikke får eller vil delta i ordskiftet – ikke
-minst gjelder dette offentlig ansatte.
-Situasjonen her er kompleks og det er
-neppe mulig å operere med klare kategorier av
-offentlig ansatte, for så å innrømme de ulike
-kategoriene ulik grad av ytringsfrihet. Likevel
-kan man antydningsvis skille mellom ansatte
-som jobber i en form for politisk sekretariat og
-ansatte som sitter med rent faglige oppgaver.
-Den sistnevnte gruppen – enten de har faglig
-ansvar for utdanning, helse, kommunikasjon
-eller forsvar, for nevne noe – bør ha både rett
-og plikt til å redegjøre for problemer, utfordringer og mulige løsninger på sitt fagfelt. De besitter en faktisk kompetanse som ikke bør sten-
+Kommisjonen ser det ikke som hensiktsmessig å forslå særlige regler om ansattes ytringsfrihet i selve Grunnloven. Utgangspunktet etter vårt forslag til ny § 100 blir derfor – som i dag – at den ansatte omfattes av det samme ytringsfrihetsvernet som enhver annen borger. Rettslig sanksjonerte begrensninger i den ansattes klassiske ytringsfrihet må tilfredsstille vilkårene i Grl. § 100, 2. ledd, 1. pkt., dvs. begrensningen må la seg forsvare «holdt op imod Ytringsfrihedens Begrundelse i Sandhedssøgen, Demokrati og Individets frie Meningsdannelse». I tillegg kommer kravet i 2. pkt. om at begrensingen («det retslige Ansvar») må være klart foreskrevet ved lov.
 
-ges ute fra det offentlige rom. I tillegg til organlojalitet kommer følgelig den generelle lojalitet
-til det samfunn man skal tjene.
-[…]
-Under særlige vilkår kan åpenbar illojalitet
-være tillatt og ønskelig. Vi tenker her på situasjoner der den ansatte varsler allmennheten
-om at vedkommendes arbeidsplass er innblandet i korrupt, ulovlig, umoralsk eller annen skadelig aktivitet. Slik varsling omtales på engelsk
-som «whistle blowing». Situasjonen vil kjennetegnes av fire forhold: 1) Det foreligger et
-påstått kritikkverdig forhold, 2) det finnes en
-ansatt – en innenfor systemet – som kjenner
-forholdet og tar affære, 3) det foreligger offentliggjøring av informasjon om forholdet, og 4)
-det foreligger en mottaker av informasjonen
-som på ett eller annet vis kan sette i gang en
-opprydningsprosess.
-[…]
-Lojalitetsplikt kan ha begrensende virkning
-også for andre enn arbeidstakere. For eksempel er det vanlig å snakke om lojalitet innenfor
-organisasjonslivet, og mange foreninger har
-eksklusjon som reaksjon overfor påstått illojale
-medlemmer. Igjen er kommisjonens utgangspunkt at det beste middel mot usaklige ytringer
-er saklige ytringer, og at disiplinære tiltak først
-kan forsvares når det foreligger skade og andre
-utveier er utprøvd.
-Den nye Grunnloven § 100 ble vedtatt 30. september 2004 og trådte ikraft umiddelbart. Grunnlovsendringen innebar en styrking av grunnlovsvernet for ansattes ytringsfrihet. For det første følger
-grensen for ansattes ytringsfrihet nå direkte av en
-tolkning av Grunnloven. Grunnloven binder ikke
-bare Stortinget som lovgiver, men også private og
-offentlige arbeidsgivere. Inngrep i ytringsfriheten
-kan bare skje på de vilkår som fremgår av grunnlovsbestemmelsen. For det andre må det antas at
-arbeidstakers ytringsfrihet er utvidet. Det vises
-blant annet til NOU 1999: 27 punkt 6.2.4.1 og
-St.meld. nr. 26 (2003–2004) punkt 4.11.
+I praksis vil trolig bestemmelsen i vårt forslag til ny Grl. § 100, 3. ledd være av større betydning, fordi de fleste begrensninger i ansattes ytringsfrihet ikke vil være rettslig sanksjonerte lovbestemmelser, men reglement og instrukser mv. fastsatt av arbeidsgiver. Slike instrukser kan ikke inneholde bestemmelser som krenker retten til «Frimodige ytringer, om Statsstyrelsen og enhver anden Gjenstand».
 
-4.1.3
+\[…\]
 
-Den europeiske
-menneskerettskonvensjon artikkel 10
+Et ansettelsesforhold reiser særlige ytringsfrihetsspørsmål fordi arbeidsgiver – innenfor visse rammer – har krav på den ansattes lojalitet. For å overholde lojalitetsplikten kan den ansatte bli nødt til å avstå fra visse ytringer. Lojalitetsplikten innebærer derfor en begrensning i den ansattes ytringsfrihet.
 
-Etter menneskerettsloven §§ 2 og 3 gjelder Den
-europeiske menneskerettskonvensjon (EMK)
-som norsk lov og skal ved motstrid gå foran annen
-norsk lov. Etter EMK artikkel 10 nr. 1 har enhver
-rett til ytringsfrihet. Ytringsfriheten er ikke ubegrenset, jf. artikkel 10 nr. 2. Inngrep i ytringsfriheten må imidlertid være nødvendige i et demokra-
+Konflikten mellom ytringsfrihet og den ansattes lojalitetsplikt er av stor praktisk betydning: Rundt halvparten av Norges befolkning er i en eller annen sammenheng ansatt hos andre. Sett hen bl. a. til dette, er det utilfredsstillende at reglene som begrenser ansattes ytringsfrihet i så stor grad er ulovfestet og delvis underutviklet.
 
-[Side 45]
+\[…\]
 
-NOU 2018: 6
-Varsling – verdier og vern
+En nærmere redegjørelse for hvilke begrensninger som kan godtas etter Grl. § 100, 2. og 3. ledd, vil kreve en omfattende analyse. Kommisjonen har ikke mandat eller kapasitet til å gjennomføre et slikt arbeid. Vi nøyer oss med å vise til enkelte momenter og prinsipper som bør inngå i vurderingene.
 
-Boks 4.2 EMK artikkel 10
-1. Enhver har rett til ytringsfrihet. Denne rett
-skal omfatte frihet til å ha meninger og til å
-motta og meddele opplysninger og ideer
-uten inngrep av offentlig myndighet og
-uten hensyn til grenser. Denne artikkel
-skal ikke hindre stater fra å kreve lisensiering av kringkasting, fjernsyn eller kinoforetak.
-2. Fordi utøvelsen av disse friheter medfører
-plikter og ansvar, kan den bli undergitt
-slike formregler, vilkår, innskrenkninger
-eller straffer som er foreskrevet ved lov og
-som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet,
-territoriale integritet eller offentlige trygghet, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, for å
-verne andres omdømme eller rettigheter,
-for å forebygge at fortrolige opplysninger
-blir røpet, eller for å bevare domstolenes
-autoritet og upartiskhet.
+Det er neppe mulig å foreta et generelt skille mellom ansatte hos private og ansatte i det offentlige. For privatansatte vil lojaliteten i første rekke være knyttet til at man ikke skal skade arbeidsgivers økonomiske interesser, ved f. eks. å røpe interne forhold som kan ha konkurransemessig betydning eller unødig skader bedriftens rykte. Disse hensyn gjør seg imidlertid normalt også gjeldende for ansatte i offentlig virksomhet. For mange offentlig ansatte kommer i tillegg at de arbeider for organ som utøver offentlig myndighet og/eller er sekretariat for politiske ledere. Dette gjør at de ansattes ytringsfrihet kan måtte tåle begrensninger begrunnet også i et annet hensyn, nemlig det demokratiske systems legitimitet og funksjon. Men dette argumentet må veies opp mot offentlige ansattes plikt til lojalitet – ikke bare mot sine overordnede – men til det demokratiske system i seg selv, herunder hensynet til en best mulig informert offentlig debatt. Som de folkevalgtes tjener kan ikke den enkelte offentlige tjenestemann kjøre sololøp dersom dette skaper store vansker for den etaten han eller hun skal tjene.
 
-tisk samfunn for å verne andres omdømme eller
-rettigheter eller for å forebygge at fortrolige opplysninger blir røpet. Innskrenkninger skal ifølge
-ordlyden være «foreskrevet ved lov». Innskrenkninger ved ulovfestede regler som for
-eksempel lojalitetsplikten i ansettelsesforhold, må
-regnes som lov i denne sammenheng.6 Hvor
-omfattende begrensninger som kan aksepteres vil
-avhenge av en konkret vurdering i hvert enkelt tilfelle. I denne vurderingen skal det blant annet legges til grunn et proporsjonalitetsprinsipp.
-Utgangspunktet er at EMK artikkel 10 verner
-mot inngrep fra staten (i vid forstand). Vernet gjelder derfor direkte inngrep i ytringsfriheten, for
-eksempel når staten som arbeidsgiver begrenser
-sine ansattes ytringsfrihet. Det samme gjelder
-også i privat eller kommunal sektor hvis arbeidsgivers beslutninger skulle bli overprøvd av domstolene, for eksempel i en oppsigelsessak. Ifølge
-praksis fra Den europeiske menneskerettsdomstol (EMD) er statene forpliktet til å sikre, gjennom lovgivning og domstolsprøving, at private
+Det er ikke entydig hva som menes med lojalitet. Noen kan mene at dette bør gi arbeidsgiver en generell beskyttelse mot offentlig kritikk fra ansatte. Det er etter vårt syn et for omfattende krav. Det vil være mer i tråd med de allmenne prinsipper for begrensninger i ytringsfriheten om det stadfestes – som et minstekrav – at bare ytringer som påviselig unødvendig skader arbeidsgiver, som arbeidsgiver, kan ansees som illojale. Lojalitetsplikten er knyttet opp til arbeidsgivers styringsrett, noe som betyr at arbeidsgiver er i en bedre posisjon enn den ansatte med hensyn til å avgjøre hva som ligger i plikten. Dette bør imidlertid også gi arbeidsgiver bevisbyrden for at skadelig illojalitet foreligger.
 
-arbeidsgivere ikke griper urettmessig inn i sine
-ansattes ytringsfrihet.
+Ansettelsesforhold og arbeidsmiljø er i dag ansett som et offentlig anliggende, og i forlengelsen av det kan det argumenteres for at allmennheten har legitim interesse i et visst innsyn i forhold på den enkelte arbeidsplass. For den generelle demokratiske debatt om arbeidsmiljøspørsmål er det ikke nødvendigvis godt nok at kritikkverdige forhold kun blir gjort kjent for offentlig etablerte tilsynsorgan (f. eks. Arbeidstilsynet).
 
-4.1.4
+Hensynet til allmennheten er generelt en omstendighet som taler for stor ytringsfrihet for ansatte. Særlig er det viktig å ha for øye at kvaliteten på den offentlige debatt forringes når de som jobber konkret med de aktuelle sakene ikke får eller vil delta i ordskiftet – ikke minst gjelder dette offentlig ansatte.
 
-Ytringsfrihetens grenser
-i arbeidsforhold
-Som det fremgår av punkt 4.1.1 ovenfor, er det
-klare utgangspunktet at ansatte har ytringsfrihet
-på linje med alle andre. Det innebærer at de i
-utgangspunktet har rett til å uttale seg kritisk om
-faktiske forhold på arbeidsplassen eller delta i
-debatt om spørsmål som berører virksomheten,
-også dersom virksomheten blir skadelidende. Et
-ansettelsesforhold reiser likevel særlige ytringsfrihetsspørsmål fordi arbeidsgiver, innenfor visse
-rammer, har krav på den ansattes lojalitet.
-I St.meld. nr. 26 (2003–2004) Om endring av
-Grunnloven § 100 er det lagt til grunn at »[d]et
-må anses som fullt forsvarlig, vurdert opp mot
-ytringsfrihetens begrunnelser, å holde fast ved at
-det foreligger et lojalitetsforhold mellom den
-ansatte og arbeidsgiveren (og andre overordnende i arbeidsforholdet).»7 Ansatte kan derfor
-bli nødt til å avstå fra å ytre seg i visse situasjoner
-fordi den ulovfestede lojalitetsplikten kan gi
-grunnlag for en begrensning i den ansattes
-ytringsfrihet. Når det gjelder ytringer om kritikkverdige forhold i arbeidsgivers virksomhet, er
-dette nå gitt en særlig regulering i arbeidsmiljøloven kapittel 2 A, omtalt nedenfor i punkt 4.2. For
-ytringer om andre typer forhold, som politiske og
-moralske synspunkter på forhold i arbeidsgivers
-virksomhet og andre typer ytringer, vil arbeidstakers ytringsfrihet og vurderingen av hvilke
-begrensninger som kan gjøres i den, fremdeles
-være regulert av Grunnloven § 100 slik denne er
-praktisert i rettspraksis.
-Omfanget av norske domstolers og Sivilombudsmannens praksis knyttet til Grunnloven
-§ 100, jf. også rettspraksis fra EMD, innebærer at
-det ikke kan gis en enkel og presis redegjørelse
-for grensen mellom lojale og illojale ytringer. Samtidig er det nettopp denne grensen som ansatte,
-arbeidsgivere og andre etterspør sikker kunnskap
-om, både før og etter at noen har ytret seg på en
-slik måte at det kan reises spørsmål om illojalitet.8
-For en fremstilling av dette komplekse vurderingstemaet vises det til forarbeidene til varslingsreglene, der praksis om Grunnloven § 100 er
-omtalt i Ot.prp. nr. 84 (2005–2006) punkt 4.2.
-7
+Situasjonen her er kompleks og det er neppe mulig å operere med klare kategorier av offentlig ansatte, for så å innrømme de ulike kategoriene ulik grad av ytringsfrihet. Likevel kan man antydningsvis skille mellom ansatte som jobber i en form for politisk sekretariat og ansatte som sitter med rent faglige oppgaver. Den sistnevnte gruppen – enten de har faglig ansvar for utdanning, helse, kommunikasjon eller forsvar, for nevne noe – bør ha både rett og plikt til å redegjøre for problemer, utfordringer og mulige løsninger på sitt fagfelt. De besitter en faktisk kompetanse som ikke bør stenges ute fra det offentlige rom. I tillegg til organlojalitet kommer følgelig den generelle lojalitet til det samfunn man skal tjene.
 
-6
+\[…\]
 
-Ot.prp. nr. 84 (2005–2006), punkt 3.2.
+Under særlige vilkår kan åpenbar illojalitet være tillatt og ønskelig. Vi tenker her på situasjoner der den ansatte varsler allmennheten om at vedkommendes arbeidsplass er innblandet i korrupt, ulovlig, umoralsk eller annen skadelig aktivitet. Slik varsling omtales på engelsk som «whistle blowing». Situasjonen vil kjennetegnes av fire forhold: 1) Det foreligger et påstått kritikkverdig forhold, 2) det finnes en ansatt – en innenfor systemet – som kjenner forholdet og tar affære, 3) det foreligger offentliggjøring av informasjon om forholdet, og 4) det foreligger en mottaker av informasjonen som på ett eller annet vis kan sette i gang en opprydningsprosess.
 
-45
+\[…\]
 
-Kapittel 4
+Lojalitetsplikt kan ha begrensende virkning også for andre enn arbeidstakere. For eksempel er det vanlig å snakke om lojalitet innenfor organisasjonslivet, og mange foreninger har eksklusjon som reaksjon overfor påstått illojale medlemmer. Igjen er kommisjonens utgangspunkt at det beste middel mot usaklige ytringer er saklige ytringer, og at disiplinære tiltak først kan forsvares når det foreligger skade og andre utveier er utprøvd.
 
-8
+Den nye Grunnloven § 100 ble vedtatt 30. september 2004 og trådte ikraft umiddelbart. Grunnlovsendringen innebar en styrking av grunnlovsvernet for ansattes ytringsfrihet. For det første følger grensen for ansattes ytringsfrihet nå direkte av en tolkning av Grunnloven. Grunnloven binder ikke bare Stortinget som lovgiver, men også private og offentlige arbeidsgivere. Inngrep i ytringsfriheten kan bare skje på de vilkår som fremgår av grunnlovsbestemmelsen. For det andre må det antas at arbeidstakers ytringsfrihet er utvidet. Det vises blant annet til NOU 1999: 27 punkt 6.2.4.1 og St.meld. nr. 26 (2003–2004) punkt 4.11.
 
-St.meld. nr. 26 (2003–2004), punkt 4.11.5.
-Ibid.
+1.  **Den europeiske menneskerettskonvensjon artikkel 10**
+
+Etter menneskerettsloven §§ 2 og 3 gjelder Den europeiske menneskerettskonvensjon (EMK) som norsk lov og skal ved motstrid gå foran annen norsk lov.
+
+Etter EMK artikkel 10 nr. 1 har enhver rett til ytringsfrihet.
+
+Ytringsfriheten er ikke ubegrenset, jf. artikkel 10 nr. 2. Inngrep i ytringsfriheten må imidlertid være nødvendige i et demokratisk samfunn for å verne andres omdømme eller rettigheter eller for å forebygge at fortrolige opplysninger blir røpet. Innskrenkninger skal ifølge ordlyden være «foreskrevet ved lov». Innskrenkninger ved ulovfestede regler som for eksempel lojalitetsplikten i ansettelsesforhold, må regnes som lov i denne sammenheng.[^58] Hvor omfattende begrensninger som kan aksepteres vil avhenge av en konkret vurdering i hvert enkelt tilfelle. I denne vurderingen skal det blant annet legges til grunn et proporsjonalitetsprinsipp.
+
+1.  **EMK artikkel 10**
+
+1\. Enhver har rett til ytringsfrihet. Denne rett skal omfatte frihet til å ha meninger og til å motta og meddele opplysninger og ideer uten inngrep av offentlig myndighet og uten hensyn til grenser. Denne artikkel skal ikke hindre stater fra å kreve lisensiering av kringkasting, fjernsyn eller kinoforetak.
+
+2\. Fordi utøvelsen av disse friheter medfører plikter og ansvar, kan den bli undergitt slike formregler, vilkår, innskrenkninger eller straffer som er foreskrevet ved lov og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, territoriale integritet eller offentlige trygghet, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, for å verne andres omdømme eller rettigheter, for å forebygge at fortrolige opplysninger blir røpet, eller for å bevare domstolenes autoritet og upartiskhet.
+
+**\[Boks slutt\]**
+
+Utgangspunktet er at EMK artikkel 10 verner mot inngrep fra staten (i vid forstand). Vernet gjelder derfor direkte inngrep i ytringsfriheten, for eksempel når staten som arbeidsgiver begrenser sine ansattes ytringsfrihet. Det samme gjelder også i privat eller kommunal sektor hvis arbeidsgivers beslutninger skulle bli overprøvd av domstolene, for eksempel i en oppsigelsessak. Ifølge praksis fra Den europeiske menneskerettsdomstol (EMD) er statene forpliktet til å sikre, gjennom lovgivning og domstolsprøving, at private arbeidsgivere ikke griper urettmessig inn i sine ansattes ytringsfrihet.
+
+1.  **Ytringsfrihetens grenser i arbeidsforhold**
+
+Som det fremgår av punkt 4.1.1 ovenfor, er det klare utgangspunktet at ansatte har ytringsfrihet på linje med alle andre. Det innebærer at de i utgangspunktet har rett til å uttale seg kritisk om faktiske forhold på arbeidsplassen eller delta i debatt om spørsmål som berører virksomheten, også dersom virksomheten blir skadelidende. Et ansettelsesforhold reiser likevel særlige ytringsfrihetsspørsmål fordi arbeidsgiver, innenfor visse rammer, har krav på den ansattes lojalitet.
+
+I St.meld. nr. 26 (2003–2004) *Om endring av Grunnloven § 100* er det lagt til grunn at »\[d\]et må anses som fullt forsvarlig, vurdert opp mot ytringsfrihetens begrunnelser, å holde fast ved at det foreligger et lojalitetsforhold mellom den ansatte og arbeidsgiveren (og andre overordnende i arbeidsforholdet).»[^59] Ansatte kan derfor bli nødt til å avstå fra å ytre seg i visse situasjoner fordi den ulovfestede lojalitetsplikten kan gi grunnlag for en begrensning i den ansattes ytringsfrihet. Når det gjelder ytringer om kritikkverdige forhold i arbeidsgivers virksomhet, er dette nå gitt en særlig regulering i arbeidsmiljøloven kapittel 2 A, omtalt nedenfor i punkt 4.2. For ytringer om andre typer forhold, som politiske og moralske synspunkter på forhold i arbeidsgivers virksomhet og andre typer ytringer, vil arbeidstakers ytringsfrihet og vurderingen av hvilke begrensninger som kan gjøres i den, fremdeles være regulert av Grunnloven § 100 slik denne er praktisert i rettspraksis.
+
+Omfanget av norske domstolers og Sivilombudsmannens praksis knyttet til Grunnloven § 100, jf. også rettspraksis fra EMD, innebærer at det ikke kan gis en enkel og presis redegjørelse for grensen mellom lojale og illojale ytringer. Samtidig er det nettopp denne grensen som ansatte, arbeidsgivere og andre etterspør sikker kunnskap om, både før og etter at noen har ytret seg på en slik måte at det kan reises spørsmål om illojalitet.[^60]
+
+For en fremstilling av dette komplekse vurderingstemaet vises det til forarbeidene til varslingsreglene, der praksis om Grunnloven § 100 er omtalt i Ot.prp. nr. 84 (2005–2006) punkt 4.2.
+
+1.  **Arbeidsmiljølovens regler om varsling**
+
+    1.  **Formålet med varslingsreglene**
+
+Bestemmelsene om varsling ble innført for å bidra til å styrke den reelle ytringsfriheten i ansettelsesforhold, fremme åpenhet og bidra til bedre ytringsklima i den enkelte virksomhet.[^61]
+
+Bakgrunnen for at det kun var deler av ansattes ytringsfrihet som ble foreslått regulert i arbeidsmiljøloven, er omtalt slik i forarbeidene:
+
+Departementet mener at det er varsling som det er viktigst å regulere i loven. Det er i forhold til varsling vi ser at det er størst behov for avklaring av retten og vern av arbeidstakerne. Departementet mener at forholdene må legges til rette for at arbeidstakere skal melde fra om kritikkverdige forhold i virksomheten, slik at disse opphører og eventuelt avdekkes for allmennheten. Dette gjelder ikke minst i forhold til korrupsjon og annen økonomisk kriminalitet. Dette følger blant annet av FN-konvensjonen mot korrupsjon. Departementet legger til grunn at en del arbeidstakere ikke sier fra om kritikkverdige forhold på grunn av usikkerhet eller uvitenhet om når man kan si fra, hvem de kan si fra til eller hvordan de skal si fra.
+
+Å begrense arbeidsmiljølovens regler til bare å gjelde varsling vil også gi en bedre sammenheng med lovens øvrige bestemmelser. Loven har allerede enkelte regler som relaterer seg til varslingsproblematikken, mens regler om faglige og politiske ytringer ville brakt inn et helt nytt tema i arbeidsmiljøloven.[^62]
+
+Et hovedformål med forslaget til ny § 2-4 var å signalisere at varsling både er lovlig og ønsket.[^63] Det ble også lagt til grunn at «ansattes rett til å varsle blir mer reell dersom det etableres et sterkt gjengjeldelsesvern for den som varsler.»[^64] I innstillingen til Odelstinget fra arbeids- og sosialkomiteen er det også vist til et annet formål med reglene:
+
+Flertallet viser til Regjeringens understreking av at arbeidstaker som utgangspunkt alltid har rett til å varsle, men at en ved å lovfeste krav om at varsling skal være forsvarlig, også gir rammer for hvordan varsling skal skje. Flertallet er enig med Regjeringen i at det er behov for noen kjøreregler som skal gjelde mellom arbeidsgiver og arbeidstaker når kritikkverdige forhold i virksomheten avdekkes.[^65]
+
+Varslingsreglene må også ses i sammenheng med prinsippene som begrunner ytringsfriheten og formålet med arbeidsmiljøloven som sådan, se omtale i punkt 4.1 og 10.4.
+
+1.  **Arbeidsmiljølovens formålsbestemmelse**
+
+*§ 1-1. Lovens formål*
+
+Lovens formål er:
+
+a\) å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som gir full trygghet mot fysiske og psykiske skadevirkninger,​ og med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,
+
+b\) å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet,
+
+c\) å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,
+
+d\) å gi grunnlag for at arbeidsgiver og arbeidstakerne i virksomhetene selv kan ivareta og utvikle sitt arbeidsmiljø i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig myndighet,
+
+e\) å bidra til et inkluderende arbeidsliv.
+
+**\[Boks slutt\]**
+
+Arbeidsmiljøloven kapittel 2 A Varsling
+
+Arbeidsmiljølovens regler om varsling var opprinnelig plassert i to ulike kapitler i loven, i kapittel 2 om arbeidsgivers og arbeidstakers plikter og i kapittel 3 om virkemidler i arbeidsmiljøarbeidet. For å synliggjøre reglene og gjøre dem mer brukervennlige ble de samlet i et nytt kapittel 2 A fra 1. juli 2017.[^66]
+
+1.  **Arbeidsmiljøloven kapittel 2 A. Varsling**
+
+*§ 2 A-1. Rett til å varsle om kritikkverdige forhold i virksomheten*
+
+\(1\) Arbeidstaker har rett til å varsle om kritikkverdige forhold i arbeidsgivers virksomhet. Innleid arbeidstaker har også rett til å varsle om kritikkverdige forhold i virksomheten til innleier.
+
+\(2\) Arbeidstakers fremgangsmåte ved varslingen skal være forsvarlig. Arbeidstaker har uansett rett til å varsle i samsvar med varslingsplikt eller virksomhetens rutiner for varsling. Det samme gjelder varsling til tilsynsmyndigheter eller andre offentlige myndigheter.
+
+\(3\) Arbeidsgiver har bevisbyrden for at varsling har skjedd i strid med denne bestemmelsen.
+
+*§ 2 A-2. Vern mot gjengjeldelse ved varsling*
+
+\(1\) Gjengjeldelse mot arbeidstaker som varsler i samsvar med § 2 A-1 er forbudt. Overfor innleid arbeidstaker gjelder forbudet både for arbeidsgiver og innleier. Dersom arbeidstaker fremlegger opplysninger som gir grunn til å tro at det har funnet sted gjengjeldelse i strid med første eller andre punktum, skal det legges til grunn at slik gjengjeldelse har funnet sted hvis ikke arbeidsgiveren eller innleieren sannsynliggjør noe annet.
+
+\(2\) Første ledd gjelder tilsvarende ved gjengjeldelse mot arbeidstaker som gir til kjenne at retten til å varsle etter § 2 A-1 vil bli brukt, for eksempel ved å fremskaffe opplysninger.
+
+\(3\) Den som er blitt utsatt for gjengjeldelse i strid med første eller andre ledd, kan kreve oppreisning uten hensyn til skyld hos arbeidsgiver eller innleier. Oppreisningen fastsettes til det beløp som retten finner rimelig under hensyn til partenes forhold og omstendighetene for øvrig. Erstatning for økonomisk tap kan kreves etter alminnelige regler.
+
+*§ 2 A-3. Plikt til å utarbeide rutiner for intern varsling*
+
+\(1\) Dersom forholdene i virksomheten tilsier det, plikter arbeidsgiver å utarbeide rutiner for intern varsling i samsvar med § 2 A-1 i tilknytning til det systematiske helse-, miljø- og sikkerhetsarbeidet.
+
+\(2\) Arbeidsgiver plikter alltid å utarbeide slike rutiner dersom virksomheten jevnlig sysselsetter minst 5 arbeidstakere.
+
+\(3\) Rutinene skal utarbeides i samarbeid med arbeidstakerne og deres tillitsvalgte.
+
+\(4\) Rutinene skal ikke begrense arbeidstakers rett til å varsle etter § 2 A-1.
+
+\(5\) Rutinene skal være skriftlige og minst inneholde:
+
+a\) oppfordring til å varsle om kritikkverdige forhold,
+
+b\) fremgangsmåte for varsling,
+
+c\) fremgangsmåte for mottak, behandling og oppfølging av varsling.
+
+\(6\) Rutinene skal være lett tilgjengelig for alle arbeidstakere i virksomheten.
+
+*§ 2 A-4. Taushetsplikt ved varsling til offentlig myndighet*
+
+\(1\) Når tilsynsmyndigheter eller andre offentlige myndigheter mottar varsel om kritikkverdige forhold, plikter enhver som utfører arbeid eller tjeneste for mottakerorganet å hindre at andre får kjennskap til arbeidstakers navn eller andre identifiserende opplysninger om arbeidstaker.
+
+\(2\) Taushetsplikten gjelder også overfor sakens parter og deres representanter. Forvaltningsloven §§ 13 til 13 e gjelder ellers tilsvarende.
+
+**\[Boks slutt\]**
+
+Arbeidsmiljøloven kapittel 2 A har fire bestemmelser:
+
+- § 2 A-1. Rett til å varsle om kritikkverdige forhold i virksomheten (tilsvarer i hovedsak tidligere § 2-4).
+
+- § 2 A-2. Vern mot gjengjeldelse ved varsling (tilsvarer i hovedsak tidligere § 2-5).
+
+- § 2 A-3. Plikt til å utarbeide rutiner for intern varsling (presisering og utvidelse av tidligere § 3-6).
+
+- § 2 A-4. Taushetsplikt ved varsling til offentlig myndighet (ny bestemmelse).
+
+Varslingsreglene har ikke bestemmelser om arbeidsgivers plikt til å undersøke eller endre det kritikkverdige forholdet som det varsles om. Arbeidsgivers plikter og håndhevingen av disse vil følge av andre regler. Se mer om dette i punkt 4.3.
+
+Varslingsreglene gjelder i arbeidsforhold
+
+Varslingsreglene i arbeidsmiljøloven gjelder i arbeidstaker-/arbeidsgiverforhold. Reglene er ment å styrke den reelle ytringsfriheten i arbeidsforhold, og det er «arbeidstaker» som har fått et særlig vern ved varsling om kritikkverdige forhold i «arbeidsgivers virksomhet», jf. § 2 A-1. Hvem som skal regnes som arbeidstaker reguleres av arbeidsmiljøloven § 1-8, som bestemmer at med arbeidstaker menes i denne loven «enhver som utfører arbeid i annens tjeneste». Arbeidstakere som varsler i rollen som verneombud eller tillitsvalgt, omfattes også av varslingsreglene. Det er ikke gjort noen unntak for arbeidstakere med særpregede roller i virksomheten.
+
+Bestemmelsene i kapittel 2 A gjelder alle virksomheter i privat og offentlig sektor og for både faste, midlertidige og innleide arbeidstakere. Med innleid arbeidstaker menes i denne sammenhengen innleie av arbeidstakere med grunnlag i arbeidsmiljøloven §§ 14-12 og 14-13. Dette innebærer at innleide arbeidstakere likestilles med innleievirksomhetens egne arbeidstakere når det gjelder retten til å varsle om kritikkverdige forhold i innleievirksomheten.
+
+1.  **Rett til å varsle om kritikkverdige forhold i virksomheten**
+
+Hva er varsling
+
+Det følger av § 2 A-1 første ledd at arbeidstaker har rett til å varsle om «kritikkverdige forhold i arbeidsgivers virksomhet». Dette er utgangspunktet og hovedregelen, som presiseres og modifiseres i bestemmelsens øvrige ledd. Formålet med reguleringen av retten til å varsle er å signalisere at varsling er både lovlig og ønsket.[^67]
+
+Loven stiller ikke noe formkrav til et varsel, og det gjelder heller ikke noe krav om at formålet med varselet skal fremkomme. Man kan varsle muntlig eller skriftlig per brev, e-post, tekstmelding, digitale løsninger mv.
+
+Reglene om varsling i arbeidsmiljøloven er ikke til hinder for anonym varsling.[^68]
+
+Retten til å varsle gjelder både intern og ekstern varsling. Av forarbeidene fremgår det at med intern varsling menes tilfeller hvor arbeidstaker «sier fra til kolleger, verneombud, tillitsvalgte, representant for ledelsen eller andre i virksomheten».[^69] Det fremgår videre at «\[k\]ritiske ytringer som er en del av den alminnelige interne kommunikasjonen i virksomheten også \[skal\] regnes som varsling i forhold til bestemmelsen».[^70] I virksomheter som har etablert eksterne varslingsmottak, for eksempel gjennom avtale med revisor- eller advokatfirmaer, vil varsling til slike varslingsmottak regnes som intern varsling. Med ekstern varsling menes «uttalelser, opplysninger, dokumenter osv. som gis til media, faglige forum, tilsynsmyndigheter osv. utenfor virksomheten».[^71]
+
+Varslingsreglene gjelder for varsling om «kritikkverdige forhold». Loven gir ikke noen definisjon eller nærmere beskrivelse av hva som ligger i begrepet kritikkverdige forhold, og den skiller ikke mellom ulike alvorlighetsgrader av kritikkverdige forhold. Det følger av forarbeidene at opplysninger om straffbare forhold og mislighold av andre lovbestemte påbud eller forbud klart vil omfattes av bestemmelsen.[^72] Begrepet omfatter også brudd med virksomhetens etiske retningslinjer, dersom disse er tydelig uttalte og nedfelt i skriftlige dokumenter som er gjort kjent for ansatte og ledelse. Brudd på alminnelige etiske standarder som det er bred tilslutning til i samfunnet omfattes også. Det fremgår av forarbeidene at hva som er kritikkverdig bør fortolkes i lys av at forholdene normalt bør ha en viss allmenn interesse før arbeidstaker kan gå ut med dem.[^73] I forarbeidene er det også vist til at «\[f\]or at det skal være tale om varsling må det i tillegg dreie seg om opplysninger som ikke er allment tilgjengelige, men som arbeidstaker har kommet til i kraft av ansettelsesforholdet».[^74]
+
+Hva er ikke varsling
+
+I forarbeidene er det vist til at kritikk av forhold som ikke er ulovlige eller uetiske ikke er naturlig å regne som varsling, som for eksempel sykepleiere som går ut med kritikk av budsjett- eller bemanningssituasjonen på sykehuset der de arbeider.[^75] Det samme gjelder kritikk basert på ren faglig uenighet. Det kan likevel være grunn til å peke på at selv om slike forhold i utgangspunktet ikke vil karakteriseres som varsling, kan det likevel utvikle seg til å bli en varslingssak om kritikkverdige forhold dersom det skjer en forverring, forholdet endrer karakter eller blir håndtert på en kritikkverdig måte.[^76] Forhold som en arbeidstaker mener er kritikkverdig kun ut fra sin politiske eller personlige etiske overbevisning faller utenfor hva som anses som et kritikkverdig forhold etter arbeidsmiljøloven § 2 A-1.
+
+Ytringer om forhold som gjelder arbeidsplassen og som ikke regnes som varsling etter arbeidsmiljøloven er vernet av Grunnloven § 100, med de begrensninger som eventuelt vil følge av den ulovfestede lojalitetsplikten. Se nærmere om dette i punkt 4.1.
+
+1.  **Krav om å varsle på en forsvarlig måte**
+
+Arbeidstakers fremgangsmåte ved varslingen skal være forsvarlig, jf. § 2 A-1 andre ledd første punktum.[^77] Hvis arbeidsgiver vil bestride at varslingen skjedde på en forsvarlig måte, er det arbeidsgiver som må føre bevis for det, jf. § 2 A-1 tredje ledd. Forsvarlighetskravet var ment som en lovfesting av grensene for ytringsfriheten i varslingssituasjoner, slik disse gjaldt da reglene om varsling kom inn i arbeidsmiljøloven i 2007.[^78] Formålet med regelen er å stille visse krav til måten varslingen skjer på – ikke å begrense retten til å si fra. I innstillingen til Odelstinget fra arbeids- og sosialkomiteen er dette omtalt slik:
+
+Flertallet understreker at formålet med § 2-4 er å lovfeste arbeidstakers rett til å varsle om kritikkverdige forhold i virksomheten og at forsvarlighetsbegrepet i denne sammenheng ikke må tolkes strengt og begrensende. Flertallet mener i denne sammenheng at når forsvarligheten av en varsling vurderes, må hensynet til helse, miljø og sikkerhet i virksomheten, til bruker/mottakere av virksomhetens tjenester og til samfunnets interesser av at varsling finner sted, gis større vekt enn hensynet til virksomhetenes interne interesser.[^79]
+
+Det følger av § 2 A-1 første og andre ledd samlet at utgangspunktet og hovedregelen er at arbeidstaker har full ytringsfrihet om kritikkverdige forhold i arbeidsgivers virksomhet og at begrensninger i ytringsfriheten må begrunnes særskilt. Forarbeidene presiserer at det ikke skal stilles strenge krav til arbeidstaker, som må ha en vid skjønnsmargin med hensyn til valg av fremgangsmåte.[^80] Det er i forarbeidene presisert at:
+
+Det skal svært mye til for at en skal kunne si at arbeidstakers fremgangsmåte ikke er forsvarlig. Regelen skal være en sikkerhetsventil som skal verne mot unødvendige skader på arbeidsgivers interesser. Regler om taushetsplikt, ærekrenkelse mv. i andre lover kan også begrense ytringsfriheten. Slike regler gjelder uten hensyn til retten til å varsle etter arbeidsmiljøloven § 2-4.[^81]
+
+Arbeidstaker har alltid rett til å varsle i samsvar med varslingsplikt eller virksomhetens rutiner for varsling, jf. § 2 A-1 andre ledd andre punktum. Arbeidstaker har også alltid rett til å varsle til tilsynsmyndigheter eller andre offentlige myndigheter, jf. § 2 A-1 andre ledd tredje punktum. Varsling etter disse tre fremgangsmåtene skal dermed alltid regnes som forsvarlig fremgangsmåte for varsling etter § 2 A-1.
+
+Hva som ellers er en forsvarlig fremgangsmåte vil avhenge av en konkret og skjønnsmessig helhetsvurdering. Vurderingstemaet vil i hovedsak være om arbeidstaker har forsvarlig grunnlag for kritikken og om arbeidstaker har tatt tilstrekkelig hensyn til arbeidsgivers og virksomhetens saklige interesser med hensyn til måten det varsles på. De konkrete momentene i vurderingen vil blant annet være om arbeidstaker var i aktsom god tro om opplysningenes riktighet, hvem det ble sagt fra til og hvordan, hva slags opplysninger det er tale om, ytringens skadepotensiale og opplysningenes allmenninteresse.
+
+Kravet til forsvarlig fremgangsmåte vil variere etter hvem arbeidstaker varsler til, det vil si om arbeidstaker tar opp forholdene internt eller går til media eller offentligheten for øvrig.
+
+Arbeidsgiver kan ikke påberope seg § 2 A-1 andre ledd for å beskytte straffbar, lovstridig, uetisk eller skadelig virksomhet.[^82]
+
+Forsvarlig grunnlag for kritikken
+
+Kravet om at ytringen skal bygge på et forsvarlig grunnlag betyr at arbeidstakeren skal være i aktsom god tro om at det faktisk foreligger kritikkverdige forhold, og ikke gå ut med grunnløse eller svakt funderte påstander.[^83] Kravet relaterer seg for det første til riktigheten av faktiske opplysninger. For det andre omfatter det vurderinger og slutninger som arbeidstaker gir uttrykk for på grunnlag av de faktiske opplysningene, for eksempel om forholdene er lovstridige. Det er ikke avgjørende om arbeidstakeren i etterkant viser seg å ta feil. Det avgjørende vil være hva arbeidstakeren hadde rimelig grunn til å tro ut fra sin posisjon og kompetanse og med de opplysninger som var tilgjengelige på tidspunktet da varslingen skjedde. Det kan tas hensyn til om arbeidstakeren enkelt kunne avkreftet mistanken gjennom ytterligere undersøkelser. Hvor streng aktsomhet som kreves vil avhenge blant annet av arbeidstakerens stilling og faglige kompetanse, tidsaspektet og hva slags opplysninger det gjelder, men det kan ikke stilles for strenge krav til arbeidstakers aktsomhet.[^84]
+
+Som eksempel kan det vises til sak avgjort av Høyesterett i 2003 som gjaldt spørsmål om erstatning for påstått urettmessig avskjed.[^85] Avskjedigelsen hadde sin bakgrunn i en e-post der arbeidstaker hadde kommet med kritikk og rettet alvorlige beskyldninger mot en av arbeidsgivers kunder. Selv om Høyesterett åpnet for at ansatte kunne fremme kritiske ytringer, ble beskyldningene ansett for å ligge utenfor hva som kunne godtas. Avskjedigelsen ble av denne grunn ansett rettmessig. Fra dommen siteres følgende:
+
+Begge parter har i prosedyren for Høyesterett tatt opp spørsmålet om i hvilken grad lojalitetsplikten i et ansettelsesforhold vil kunne innebære en begrensning i arbeidstakerens ytringsfrihet. A har fremhevet at en «whistleblower» – en våken medarbeider med en kritisk holdning som tør si ifra – representerer en verdi både for bedriften og for samfunnet. Dette er jeg ikke uenig i. Derfor må man innen rommelige grenser akseptere kritiske ytringer både innad i en bedrift og utad av den karakter som omfattes av det første og til dels også av det annet forhold som jeg har nevnt i det foregående. Men ytringsfriheten kan ikke i denne saken etablere noe vern mot reaksjoner fra en arbeidsgiver når ytringene rettet mot ledende medarbeidere om alvorlige straffbare forhold helt savner grunnlag i reelle forhold. Jeg finner det derfor ikke nødvendig å foreta noen nærmere grensegang på dette punkt.[^86]
+
+Forsvarlig fremgangsmåte ved intern varsling
+
+Arbeidstaker har alltid rett til å varsle i samsvar med virksomhetens rutiner for varsling. Det samme gjelder for varsling i samsvar med varslingsplikt og ved varsling til offentlige myndigheter. Hvis det ikke er utarbeidet rutiner for varsling, bør arbeidstaker normalt ta opp de kritikkverdige forholdene med en representant for virksomhetens ledelse.[^87] Som regel vil det være naturlig å varsle i linja først, det vil si til nærmeste leder. Varsling til ledelsen kan også skje til ledere høyere opp i linja. Arbeidstaker kan også varsle internt via tillitsvalgt, verneombud, kollega, advokat eller annen rådgiver.
+
+Intern varsling vil bare helt unntaksvis kunne falle utenfor varslingsretten etter § 2 A-1. I forarbeidene er det vist til at dette kan gjelde dersom «de kritikkverdige forholdene tas opp på en helt utilbørlig måte som unødvendig skader samarbeidsklima, arbeidsmiljøet eller enkeltpersoner i virksomheten, for eksempel ved gjentatte grunnløse påstander rettet mot kolleger».[^88] Arbeidstaker må i mange tilfeller akseptere at arbeidsgiver etter undersøkelser konkluderer med at forholdene ikke er kritikkverdige eller at det ikke er behov for å gjøre tiltak. Det kan likevel være forsvarlig at forholdet tas opp på nytt gjennom intern eller ekstern varsling.
+
+Forsvarlig fremgangsmåte ved varsling til offentligheten
+
+Forsvarlighetskravet skjerpes når det gjelder offentlig varsling. Med offentlig varsling menes varsling til media eller offentliggjøring på blogger, hjemmesider eller andre kommunikasjonskanaler med en stor og åpen mottakerkrets. Det samme må gjelde hvis opplysningene lett kan spres til mange uten at arbeidstakeren har oversikt eller kontroll over dette, for eksempel hvis det sendes ut en e-post til flere mottakere utenfor virksomheten.
+
+Ved vurderingen av om varsling til offentligheten er forsvarlig, skal det som hovedregel legges stor vekt på om arbeidstaker har varslet internt først. Dette vil imidlertid ikke vektlegges hvis opplysningene gjelder kriminelle eller andre alvorlige forhold, eller hvis arbeidstaker av andre årsaker hadde grunn til å tro at intern varsling ville vært uhensiktsmessig. Det vil for det første være tilfelle hvis arbeidstaker har grunn til å tro at intern varsling i seg selv kan medføre gjengjeldelser, for eksempel ut fra trusler eller andre uttalelser fra kolleger eller ledelse, fordi andre ansatte har blitt utsatt for slik gjengjeldelse eller ut fra det generelle ytringsklimaet i virksomheten. Videre kan det være uhensiktsmessig å varsle internt hvis det er behov for å handle raskt, for eksempel på grunn av fare for bevisforspillelse eller fare for liv eller helse. Intern varsling kan også være uhensiktsmessig hvis arbeidstaker eller kolleger tidligere har tatt opp samme, tilsvarende eller andre kritikkverdige forhold uten at noe er skjedd.
+
+Krav om en viss allmenn interesse
+
+Retten til å ytre seg og retten til å varsle om kritikkverdige forhold er sterkere dersom de hensynene som ligger bak ytringsfriheten taler for at allmennheten får vite om forholdene, for eksempel hvis det gjelder kriminelle forhold, opplysninger av betydning for allmennhetens kontroll med offentlig forvaltning eller kvaliteten på varer og tjenester. Kravet om allmenn interesse skal ikke vurderes strengt.[^89] Det som faller utenfor er varsling om forhold som kun er av intern eller personlig interesse, slik tilfellet normalt vil være ved for eksempel interne personkonflikter. Det kan likevel ikke utelukkes at også interne eller personlige konflikter kan ha allmenn interesse, avhengig av hvilke personer og hva slags virksomhet det er tale om.
+
+1.  **Forbud mot gjengjeldelse ved varsling**
+
+Forbudet mot gjengjeldelse
+
+Etter arbeidsmiljøloven § 2 A-2 første ledd første punktum er det forbudt å gjengjelde arbeidstaker som har varslet i samsvar med § 2 A-1. Overfor innleid arbeidstaker gjelder forbudet både for arbeidsgiver og innleier, jf. bestemmelsens andre punktum.
+
+Forbudet mot gjengjeldelse gjelder der arbeidstaker varsler i samsvar med § 2 A-1. Det er følgelig ikke opp til arbeidsgiver eller en annen varslingsmottaker å «gi» arbeidstaker et såkalt varslervern. Det særskilte vernet utløses når det er fremsatt en ytring som oppfyller vilkårene i § 2 A-1.
+
+Begrepet «gjengjeldelse» skal forstås vidt.[^90] Enhver ugunstig behandling som kan ses som en følge av og en reaksjon på varsling, skal i utgangspunktet regnes som gjengjeldelse. Forbudet gjelder formelle sanksjoner som oppsigelse, suspensjon og avskjed, samt ordensstraff hjemlet i statsansatteloven.
+
+Forbudet gjelder også mer uformelle sanksjoner som for eksempel endringer i arbeidsoppgaver og interne overføringer.
+
+Et praktisk eksempel er personvernbrudd som for eksempel urettmessig utlevering av personopplysninger, herunder avsløring av en varslers identitet, «dobbeltføring» av personalmappe eller urettmessig krav om innsyn i arbeidstakers e-post og private filer. Det samme gjelder gjengjeldelse av mer subtil art, som mobbing og trakassering, som også vil være et brudd på arbeidsmiljøloven § 4-3 tredje ledd.
+
+Andre eksempler på handlinger som vil kunne kvalifisere som gjengjeldelse er å iverksette private granskninger som rettes mot arbeidstakeren som har varslet, fremfor på forholdet det er varslet om, og der grunnleggende rettsvern ikke sikres etterlevd. Brudd på interne varslingsrutiner som er etablert i henhold til arbeidsmiljøloven § 2 A-3 vil etter forholdene også kunne være gjengjeldelse.
+
+Vernet mot gjengjeldelse omfatter også tilfeller der varslingen ikke har skjedd ennå, men der arbeidstaker fremskaffer opplysninger eller på andre måter gir til kjenne at han eller hun vil kunne komme til å varsle, jf. § 2 A-2 andre ledd. Et eksempel på en slik situasjon er at arbeidstakeren har gjort undersøkelser, kopiert dokumenter eller truet med å varsle dersom ikke forholdene endres. Bestemmelsen verner bare lovlige handlinger, og er ikke i seg selv noen hjemmel for arbeidstaker til å drive «etterforskning» av kritikkverdige forhold i strid med for eksempel personopplysningslovens regler.[^91]
+
+Forbudet omfatter også gjengjeldelse mot arbeidstakere som tar opp en sak om diskriminering, og er også delvis overlappende med vernet mot gjengjeldelse i likestillings- og diskrimineringsloven § 14.[^92]
+
+Forbudet mot gjengjeldelse utelukker ikke at arbeidsgiver kan komme med motytringer. Det må likevel trekkes en grense mot motargumenter og reaksjoner som har karakter av gjengjeldelse, for eksempel hvis arbeidstaker «kalles inn på teppet» og får instrukser eller advarsler. Arbeidsgivers reaksjoner må uansett ikke ha karakter av trakassering.[^93]
+
+Gjengjeldelsesforbudet setter krav til arbeidsgivers utøvelse av styringsretten. Forbudet vil gjelde for arbeidsgivers egne handlinger, inkludert handlinger til den som utøver styringsretten i arbeidsgivers sted, jf. arbeidsmiljøloven § 1-8, og handlinger til arbeidstakere som handler etter instruks fra arbeidsgiver. Forbudet mot å gjengjelde gjelder ikke for kunder, kontraktsparter eller nye arbeidsgivere som arbeidstakeren søker jobb hos.
+
+Gjengjeldelsesforbudet i § 2 A-2 supplerer og er delvis overlappende med arbeidsmiljølovens og statsansattelovens stillingsvernsregler og forbudet mot trakassering i arbeidsmiljøloven. En oppsigelse som skyldes forsvarlig varsling om kritikkverdige forhold vil både være et brudd på gjengjeldelsesforbudet i § 2 A-2 første ledd, og være en usaklig oppsigelse etter arbeidsmiljøloven § 15-7. Det samme må legges til grunn for andre lovregulerte gjengjeldelser som avskjed, suspensjon og ordensstraff. Arbeidstaker vil likevel ikke være vernet mot oppsigelser eller andre reaksjoner som er lovlige av andre grunner.
+
+Forbudet mot gjengjeldelse gjelder ved varsling som er innenfor lovens grenser etter § 2 A-1. Bestemmelsen skal imidlertid ikke tolkes antitetisk. Selv om arbeidstaker ikke hadde rett til å si fra på den måten han eller hun gjorde, vil ikke dette gi arbeidsgiver rett til å møte ytringen med gjengjeldelse. I slike tilfeller gjelder blant annet arbeidsmiljølovens krav om saklighet ved oppsigelse, krav om forsvarlig arbeidsmiljø, det alminnelige saklighetskravet i offentlig forvaltning og ulovfestede saklighetsnormer.
+
+Delt bevisbyrde
+
+Etter arbeidsmiljøloven § 2 A-2 første ledd tredje punktum gjelder en regel om delt bevisbyrde i tvister om gjengjeldelse.
+
+Delt bevisbyrde betyr at arbeidstaker først må legge frem opplysninger som gir grunn til å tro at det har funnet sted gjengjeldelse i strid med § 2 A-2. Det skal ikke stilles strenge beviskrav, og det følger av forarbeidene at det normalt vil være nok at arbeidstaker kan vise at varslingen har skjedd og at oppsigelse eller annen handling kom tett på varslingen i tid.[^94] Deretter må arbeidsgiver sannsynliggjøre at det ikke er skjedd gjengjeldelse i strid med loven. Arbeidsgiver må sannsynliggjøre at handlingen var begrunnet i andre forhold enn varslingen, det vil si at det er sannsynlighetsovervekt for manglende årsakssammenheng.
+
+Bevisbyrderegelen gjelder i alle tvister om gjengjeldelse som påstås å være begrunnet i arbeidstakerens ytringer om kritikkverdige forhold, herunder ved oppsigelse og andre stillingsverntvister som behandles etter reglene i arbeidsmiljøloven kapittel 15 og 17 eller etter stillingsvernreglene i statsansatteloven. Regelen gjelder også i tvister der arbeidstakeren har klaget over eller på andre måter varslet om diskriminering i strid med arbeidsmiljøloven § 13-1.[^95] Tilsvarende prinsipp om delt bevisbyrde i gjengjeldelsestvister gjelder også etter blant annet arbeidsmiljøloven § 13-8 og likestillings- og diskrimineringsloven § 37.[^96]
+
+Objektivt erstatningsansvar for ikke-økonomisk tap (oppreisning)
+
+Den som er blitt utsatt for gjengjeldelse i strid med § 2 A-2 første eller andre ledd, kan kreve oppreisning uavhengig av økonomisk tap og uavhengig av om det påvises skyld på arbeidsgivers eller innleiers side, jf. § 2 A-2 tredje ledd.[^97] Regelen om objektivt erstatningsansvar for ikke-økonomisk tap ved ulovlig gjengjeldelse har samme utforming som diskrimineringsregelen i arbeidsmiljøloven § 13-9 og skal fortolkes på samme måte.[^98]
+
+Oppreisningen skal fastsettes til det beløp som retten finner rimelig under hensyn til partenes forhold og omstendighetene for øvrig. Vurderingen av hva som er rimelig vil i høy grad være skjønnsmessig, og en rekke momenter vil være relevante ved utmålingen. Etter forarbeidene vil arten og alvorlighetsgraden av gjengjeldelseshandlingene stå sentralt.[^99]
+
+Det foreligger ikke høyesterettspraksis om oppreisning etter arbeidsmiljølovens regler om gjengjeldelse etter varsling. Fra underinstansene er det et begrenset antall saker der det har blitt utmålt oppreisningserstatning grunnet gjengjeldelse.[^100] I dom fra Borgarting lagmannsrett fra 2009 ble det idømt 100 000 kroner i oppreisningserstatning.[^101] Under utmålingen la lagmannsretten vekt på at massiv og gjentatt trakassering hadde utgjort en meget stor belastning og at arbeidsforholdene førte til langvarig sykmelding og fravær fra arbeidslivet. I dom fra Agder lagmannsrett fra 2009 viste retten til at arbeidsgivers gjengjeldelse i form av utestengelse var hensynsløs og graverende og idømte 150 000 kroner i oppreisningserstatning.[^102]
+
+Bestemmelsen om erstatning for ikke-økonomisk tap i § 2 A-2 vil i prinsippet også gjelde oppsigelse og andre stillingsverntvister som behandles etter arbeidsmiljøloven kapittel 15 og 17. I disse tilfellene vil arbeidstaker også ha rett til erstatning etter § 15-12 andre ledd, § 15-13 fjerde ledd eller § 15-14 fjerde ledd.[^103]
+
+Det gjelder ikke noen særlig søksmålsfrist for krav om erstatning for ikke-økonomisk tap etter § 2 A-2 tredje ledd. Alminnelige foreldelsesfrister vil likevel gjelde og arbeidstaker kan ikke vente med å reise søksmål i ubegrenset tid etter at påstått gjengjeldelse har funnet sted.
+
+Arbeidsmiljølovens regler om varsling har ingen bestemmelser om erstatning for økonomisk tap, men viser til at slik erstatning kan kreves etter alminnelige regler, se § 2 A-2 tredje ledd tredje punktum.
+
+1.  **Plikt til å utarbeide rutiner for varsling**
+
+Arbeidsmiljøloven § 2 A-3 regulerer arbeidsgivers plikt til å utarbeide rutiner for varsling.[^104] Med varslingsrutiner menes ulike former for retningslinjer, kjøreregler, instrukser, reglementer mv. Plikten til å utarbeide varslingsrutiner er knyttet til virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid (internkontroll) etter reglene i arbeidsmiljøloven kapittel 3.
+
+Alle arbeidsgivere har plikt til å utarbeide rutiner for intern varsling «dersom forholdene i virksomheten tilsier det», jf. § 2 A-3 første ledd.[^105] Det følger av bestemmelsens andre ledd at arbeidsgivere i virksomheter som jevnlig sysselsetter minst fem arbeidstakere alltid plikter å utarbeide varslingsrutiner.[^106]
+
+Ved beregningen av antall arbeidstakere skal alle med et ansettelsesforhold i virksomheten medregnes, både faste og midlertidig ansatte. Arbeidstakere som er innleid i virksomheten skal også telles med. Hva som ligger i vilkåret «jevnlig sysselsetter» vil måtte vurderes konkret og skjønnsmessig, der omfang og varighet i bruken av midlertidige og innleide arbeidstakere over tid vil være sentrale momenter.[^107]
+
+Når det gjelder begrepet «dersom forholdene i virksomheten tilsier det», skal det legges til grunn samme forståelse som etter tidligere § 3-6.[^108] Det betyr at behovet for rutiner i virksomheter med færre enn fem ansatte vil avhenge av en konkret vurdering av risikoforholdene i virksomheten og om forholdene ligger til rette for å varsle om eventuelle kritikkverdige forhold.[^109] Det følger av arbeidsmiljøloven § 3-1 at arbeidsgiver har plikt til å vurdere risikoforholdene i virksomheten i relasjon til helse, miljø og sikkerhet. Arbeidsgiver må også vurdere andre risikoforhold, for eksempel mulighetene for korrupsjon eller fare for liv eller helse. Små virksomheter kan også tenkes å drive innenfor områder eller bransjer der risikoforholdene tilsier at det er behov for interne rutiner for varsling, for eksempel revisor- eller advokatfirmaer.
+
+Plikten til å utarbeide rutiner etter § 2 A-3 faller inn under Arbeidstilsynets tilsyns- og påleggskompetanse, jf. arbeidsmiljøloven §§ 18-1 og 18-6. Arbeidstilsynet vil i forbindelse med tilsyn kunne gi pålegg om å utarbeide rutiner, dersom de vurderer at forholdene i virksomheten tilsier at det er behov for dette.
+
+Krav til arbeidstakermedvirkning
+
+Varslingsrutiner skal utarbeides i samarbeid med arbeidstakerne og deres tillitsvalgte, jf. § 2 A-3 tredje ledd. Bestemmelsen innebærer at arbeidstakerne og deres tillitsvalgte skal medvirke i arbeidet med å utrede og vurdere hvilke rutiner som virksomheten skal fastsette for å sikre at de ansatte skal kunne si fra om kritikkverdige forhold. Det er likevel arbeidsgiver som har ansvaret for å fastsette rutinene. Dersom det ikke oppnås enighet, vil det ligge innenfor arbeidsgivers styringsrett å fastsette rutiner innenfor de rammene som følger av lovens regler.[^110]
+
+Når det gjelder begrepet «tillitsvalgte» skal det legges til grunn samme forståelse som for arbeidsmiljøloven for øvrig, slik at blant andre verneombud eller andre valgte tillitspersoner kan opptre som representanter for arbeidstakerne.[^111]
+
+Rutinene må ikke begrense arbeidstakers lovfestede rett til å varsle
+
+Retten til å varsle i tråd med § 2 A-1 er ufravikelig og kan ikke begrenses gjennom rutiner for varsling. Dette er presisert i § 2 A-3 fjerde ledd for å gi en påminnelse om at varslingsrutinene ikke kan formuleres på en slik måte at de begrenser muligheten til å varsle.
+
+Krav til skriftlighet og innhold

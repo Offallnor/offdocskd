@@ -1,922 +1,318 @@
-# NOU 2018: 6, del 12 av 18 (side 144–153)
+# NOU 2018: 6, del 12 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/372c10bd-nou-2018-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-6/id2593665/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd4f61bba893409a9b715ee1971a0004/no/pdfs/nou201820180006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 26 figurer, 49 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 144]
+Etter *utvalgets* mening vil en tydelig presisering av aktivitetsplikten til arbeidsgiver i varslingssaker kunne bidra til å skape en bedre ytringskultur i virksomheten og som sådan bidra til at både saken og varsleren blir håndtert på en måte som sikrer en god og rask prosess på lavest mulig nivå. Hvor omfattende aktivitetsplikten vil være er avhengig av en konkret vurdering i den enkelte sak.
 
-144
+En regulering av arbeidsgivers aktivitetsplikt om ivaretakelse av arbeidstaker og håndtering av mottatte varsler vil også kunne få betydning for arbeidstakers grunnlag for ekstern varsling, se punkt 10.8.4 om krav til forsvarlig fremgangsmåte ved varsling.
 
-Kapittel 10
+*Utvalget* har vurdert hva som skal til for å utløse aktivitetsplikten.
 
-NOU 2018: 6
-Varsling – verdier og vern
+For at arbeidsgiver skal ha mulighet til å oppfylle aktivitetsplikten i varslingssaker slik denne foreslås regulert, forutsetter det at det på en eller annen måte må kunne bringes på det rene, med en viss notoritet, at det har kommet et varsel om kritikkverdige forhold.
 
-fall bety at reglene hemmer istedenfor å fremme
-varsling.
-Utvalget har på bakgrunn av innspill et klart
-inntrykk av at det er mange som mener at «kritikkverdige forhold» er et utydelig begrep, og at
-det er vanskelig å skille for eksempel mellom hva
-som er personalkonflikter og arbeidsmiljøkonflikter som berører flere, faglig uenighet eller uforsvarlighet. Videre er inntrykket at det av mange
-oppfattes som uklart hva kravet til «forsvarlig
-fremgangsmåte» betyr. Det vises til nærmere
-omtale av innspillskonferansen i punkt 8.9. I innspill til utvalget ble det også etterlyst en regel som
-tydeliggjør arbeidsgivers plikt til å sørge for forsvarlig mottak og behandling av både varsel og
-varsler (aktivitetsplikt).
-Det er mange kjente varslingssaker og også
-nyere saker i kjølevannet av #metoo-kampanjen
-som viser at det er varsleren, og ikke saken det
-varsles om, som kommer i fokus. Man blir først og
-fremst opptatt av om det er varslet forsvarlig eller
-om lojalitetsplikten til arbeidsgiver er overholdt,
-heller enn å fokusere på om varslingen gjelder
-regelbrudd eller andre kritikkverdige forhold.
-Utvalget mener at det er behov for tydeligere
-avgrensning i lovgivningen av hva som er et varsel
-og hvordan man skal varsle. En bedre kultur knyttet til verdien av et godt ytringsklima vil være et
-viktig bidrag, også for å flytte oppmerksomheten
-fra varsleren til varselet.
-Arbeidstakernes ytringsfrihet har sitt fundament i Grunnloven § 100. Arbeidsmiljølovens
-regler om varsling handler først og fremst om å gi
-arbeidstakere vern mot gjengjeldelse når de varsler om kritikkverdige forhold i arbeidsgivers virksomhet. Forskning viser at tre av fire arbeidstakere ikke opplever negative reaksjoner når de
-varsler, og at det store flertallet – 75 prosent – av
-de som oppga å ha varslet om et kritikkverdig forhold de siste 12 månedene, fikk positive reaksjoner på sin varsling. Samtidig indikerer undersøkelsene at halvparten av dem som observerer kritikkverdige forhold i norske virksomheter velger
-å ikke si fra. Et stort flertall av disse oppgir som
-begrunnelse at de frykter for negative konsekvenser i form av gjengjeldelse, se nærmere om dette i
-punkt 7.3. På utvalgets innspillskonferanse var det
-mange innspill knyttet til at vernet mot gjengjeldelse ikke er tilstrekkelig effektivt, herunder at
-lovens bevisbyrderegel ikke fungerer etter hensikten og at nivået på oppreisningsbeløp som tilkjennes i gjengjeldelsessaker er lavt. Utvalget
-drøfter også disse problemstillingene i kapitlet
-her.
+*Utvalget* mener at arbeidsgivers plikt til å følge opp et varsel i tråd med aktivitetsplikten bør utløses når arbeidstaker varsler internt i henhold til virksomhetens varslingsrutiner. *Utvalget* legger til grunn at man ved utarbeidelse av interne varslingsrutiner vil komme frem til en måte eller rutine for å varsle på, som vil gi et naturlig og tydelig startpunkt for arbeidsgivers aktivitetsplikt.
 
-10.2 Hva kan løses med juridiske tiltak
-Juridiske tiltak i form av lovendringer vil få
-direkte effekt på den rettslige reguleringen av rettigheter og plikter for arbeidstaker, arbeidsgiver
-og innleier i saker som behandles etter reglene
-om varsling i arbeidsmiljøloven. Lovgivningstiltak
-kan også ha symboleffekt og bidra til kulturendringer. At lovreglene om varsling klargjøres
-og gjøres lettere tilgjengelige for brukerne vil
-kunne bidra til å heve kunnskapen om varsling.
-Lovtiltak kan i denne sammenheng tenkes å
-omfatte mer enn klargjøring eller innføring av nye
-forbud og rettigheter ved varsling og i varslingsprosesser. Også regler om de ulike aktørenes
-rolle og myndighet for å dekke behovet for informasjon, veiledning og tvisteløsning i varslingssaker vil måtte hjemles i lov, se drøftelser nedenfor i
-kapittel 12 og om vurdering av andre typer tiltak i
-kapittel 11.
-Utvalget har på grunnlag av sin kunnskapsinnhenting og i tråd med mandatet kommet til at det
-er viktig å foreslå endringer i varslingsbestemmelsene i arbeidsmiljøloven, i tillegg til en anbefaling
-om en egen lov om varsling. Endringene i arbeidsmiljøloven skal bidra til å styrke vernet av varslere
-i arbeidslivet gjennom en hensiktsmessig klargjøring av reglenes virkeområde, innhold og
-avgrensninger. Dette kapitlet omhandler først og
-fremst arbeidsmiljøloven, det vil si varsling i
-arbeidslivet.
-Vurderingen av om lovens kriterier er oppfylt
-beror på flere skjønnsmessige vurderinger der et
-sett ulike momenter skal vektlegges, og som i dag
-ikke fremgår av lovteksten. Etter utvalgets oppfatning er det viktig at varslingsbestemmelsene i
-arbeidsmiljøloven både enkeltvis og sett i sammenheng bidrar til å legge til rette for en god varslingsprosess der det tilrettelegges for varsling,
-saker løses raskt og på et lavest mulig nivå, uten
-fare for gjengjeldelse og at oppmerksomheten rettes mot innholdet i varselet og ikke mot den som
-varsler.
-Varslingsutvalget foreslår lovendringer som
-klargjør lovens virkeområde, rekkevidden av varslingsreglene og lovens begreper. Utvalget foreslår
-presiseringer i loven som skal klargjøre sammenhengen mellom ytringsfrihet for arbeidstakere og
-varsling. Videre foreslås tiltak som skal bidra til å
-få i gang dialog, informasjon, opplæring og
-bevissthet rundt et godt ytringsklima og verdien
-av varsling som et gode for samfunnet. Utvalget
-foreslår å klargjøre hva som skal utløse de ulike
-aktørenes rettigheter og plikter ved varsling og i
-varslingsprosesser, og å i den sammenheng tyde-
+I små virksomheter som ikke har plikt til å utarbeide varslingsrutiner, eller i virksomheter hvor man ikke har etterkommet plikten til å utarbeide rutiner, vil også arbeidsgiver kunne ha aktivitetsplikt når det varsles. Det samme gjelder dersom arbeidstaker ikke varsler i samsvar med virksomhetens rutiner, for eksempel hvis hun eller han ikke har vært kjent med rutinene. Etter *utvalgets* oppfatning er det behov for å presisere at det også i disse tilfellene vil kunne utløses en aktivitetsplikt for arbeidsgiver. *Utvalget* foreslår derfor, som en slags «sikkerhetsventil» for slike tilfeller, at aktivitetsplikten også skal utløses, uavhengig av hvilken måte det varsles på, dersom det varsles på en måte som gir arbeidsgiver «grunn til å tro» at det har kommet et varsel. Hvis for eksempel arbeidstaker sender et brev til sin arbeidsgiver hvor det klart fremgår at det er en melding eller beskjed om et kritikkverdig forhold, vil det være tilstrekkelig til å si at arbeidsgiver må anses å ha «grunn til å tro», selv om bedriften også har en annen varslingskanal som ifølge rutinene skal brukes. Varsling via andre interne eller eksterne varslingskanaler, herunder varsling i samsvar med lov (varslingsplikt) eller via tillitsvalgte eller verneombud, vil også etter forholdene kunne være egnet til å gi arbeidsgiver grunn til å tro at det er varslet, og således utløse aktivitetsplikten. Forslaget her må ses i sammenheng med *utvalgets* vurdering vedrørende formkrav til et varsel i punkt 10.10.3.
 
-[Side 145]
+*Varslingsutvalget* er for øvrig delt i synet på om brudd på aktivitetsplikten skal kunne gi grunnlag for å reise erstatningssøksmål for domstolen. Se nærmere om dette i punkt 10.13.3.
 
-NOU 2018: 6
-Varsling – verdier og vern
-
-liggjøre kravene til arbeidsgivers saksbehandling
-av varselet. Utvalget har også drøftet spørsmål
-knyttet til anonymitet og konfidensialitet ved varsling. Utvalget foreslår å klargjøre lovens regler om
-gjengjeldelsesforbud og bevisbyrde og foreslår en
-ny regel om objektivt erstatningsansvar ved gjengjeldelse. Utvalget har også diskutert om reglene
-om oppreisning og straff er tilstrekkelig effektive
-tiltak for å hindre gjengjeldelse ved varsling.
-
-145
-
-Kapittel 10
-
-Boks 10.1 Tipsflom om svart arbeid
-A-krim-gruppen er veldig avhengig av tips.
-Det er veldig ofte at tipsene fører til konkrete
-resultater, sier Gro Ellingsen i Arbeidstilsynet
-til NRK Rogaland.1
-1
-
-https://www.nrk.no/rogaland/tipsflom-om-svart-arbeid-1.13822800 (lest 7. mars 2018)
-
-Offentlig og privat sektor
-Varslingsreglene i arbeidsmiljøloven gjelder for
-arbeidstakere og innleide arbeidstakere i privat og
-offentlig sektor. Spørsmålet om betydningen av
-varsling og vern av varslere er svært aktuelt i
-offentlig sektor, eksempelvis innen helsevesen,
-kommunale tjenester og i politiet, hvor både brukere, pårørende og allmennheten kan ha
-interesse av å vite hva som foregår og eventuelt få
-informasjon om lovbrudd og andre kritikkverdige
-forhold. Allmennhetens interesse i det som tidligere ble sett på som rene virksomhetsinterne forhold, kan sies å ha økt i takt med en samfunnsutvikling, der det i stadig større grad legges til rette
-for brukerorientering og kundekrav. Rettsutviklingen synes også innenfor privat sektor å ha gått i
-retning av en økende legitimering av private selskapers samfunnsansvar.
-Det er viktig å avdekke kritikkverdige forhold
-hos dem som sitter med makt og som bruker
-offentlige bevilgede midler til sin virksomhet. Her
-kan arbeidstakernes varsel om kritikkverdige forhold spille en viktig rolle i tillegg til offentlig kontroll, slik som riksrevisjon, forvaltningsrevisjon,
-kontrollutvalgenes funksjon i kommuner og fylkeskommuner og annen demokratisk kontroll.
-Men også i privat sektor er det utfordringer
-som samfunnet har en sterk interesse i at avdekkes. I privat sektor er det også stor grad av maktutfoldelse. Det kan i denne sammenhengen vises
-til at arbeidslivskriminalitet (A-krim) har utviklet
-seg til et stort problem for samfunnet og arbeidslivet i Norge.2 Tips eller varsling er viktige verktøy
-for å avdekke og få bukt med disse utfordringene,
-herunder brudd på helse-, miljø- og sikkerhetsregler, ulovlig arbeids- og oppholdstillatelser og
-skatte- og trygdekriminalitet.
-Selv om det kan være ulike krav med hensyn
-til lojalitet og åpenhet i privat og offentlig sektor,
-mener Varslingsutvalget at det ikke er grunnlag
-for prinsipielt å skille mellom privat og offentlig
-2
-
-Prop. 1 S (2017–2018) Arbeids- og sosialdepartementet, s.
-208-209.
-
-sektor rettslig sett. Det er på denne bakgrunn viktig å legge forholdene til rette for at kritikkverdige
-forhold kan avdekkes, uavhengig av sektor. Det er
-samtidig viktig å ivareta hensynet til arbeidsgiver
-og de skadevirkninger negativ omtale kan ha for
-en virksomhets omdømme.
-Etter utvalgets syn bør derfor tiltak for å styrke
-varslervernet i offentlig og privat sektor i utgangspunktet vurderes samlet. Når det gjelder lovens
-begreper og vurderingstema, kan det imidlertid
-tenkes at litt ulike momenter vil ha betydning for
-henholdsvis offentlig og privat sektor.
-
-10.3 Behov for en egen lov om varsling
-Ifølge mandatet skal utvalget vurdere fordeler og
-ulemper ved dagens plassering av varslingsbestemmelsene i arbeidsmiljøloven og sammenholde disse med fordeler og ulemper ved en særlov, og gi sin anbefaling om lovplasseringen.
-Varslingsutvalget mener at lovregler om varsling i arbeidslivet fortsatt skal være regulert i
-arbeidsmiljøloven. Arbeidsmiljøloven er den
-grunnleggende loven for arbeidslivet i Norge. De
-mest sentrale bestemmelsene som regulerer et
-arbeidsforhold finnes i arbeidsmiljøloven, og
-loven er godt kjent og mye brukt. Reglene om
-varsling og vern mot gjengjeldelse ved varsling
-har og en klar sammenheng med mange andre
-deler av arbeidsmiljøloven, særlig gjelder det kravet til et fullt forsvarlig arbeidsmiljø og reglene
-om systematisk helse-, miljø- og sikkerhetsarbeid,
-samt stillingsvernsreglene. Utvalget foreslår derfor at regler som regulerer varsling i arbeidsforhold videreføres i arbeidsmiljøloven.
-Varslingsutvalgets flertall, utvalgets leder og
-medlemmene Dahle, Dalheim, Eriksen, Jensen,
-Matthiesen, Rygh Monsen, Skog og Stenberg-Nilsen
-mener at det er ønskelig med en egen lov om varsling. Flertallet mener at en egen lov vil kunne
-bidra til økt oppmerksomhet om varsling, om verdien av varsling og et godt ytringsklima. Flertallet
-
-[Side 146]
-
-146
-
-Kapittel 10
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-har drøftet symboleffekten av en egen lov. For
-mange som observerer kritikkverdige forhold og
-vurderer hva de skal gjøre, ville det kanskje vært
-lettere å finne frem til regelverket hvis det var en
-egen lov om varsling. En egen lov om varsling
-kunne også gitt et tydelig signal om at varsling er
-viktig og at vern av varslere prioriteres.
-Mindretallet, medlemmet Opstad Sunde, er
-usikker på om det er hensiktsmessig med en egen
-lov om varsling, og ønsker en særskilt utredning
-og evaluering av spørsmålet før det konkluderes
-med at en slik lov bør gis.
-Varslingsutvalget foreslår i punkt 12.4 at det
-skal etableres et særskilt Varslingsombud. Etter
-utvalgets mening bør en ny lov om varsling inneholde regler om Varslingsombudets organisasjon
-og virksomhet. Se nærmere om dette i punkt
-12.4.3. Et flertall i utvalget, slik som det fremgår i
-punkt 12.5, foreslår at det oppnevnes en egen
-tvistenemnd for varslingssaker. Utvalget mener at
-lovregulering av en slik nemnd også bør reguleres
-i samme lov som Varslingsombudet. Samtidig presiserer utvalget at ordningen med ombud og
-nemnd bør iverksettes straks, selv om det tar noe
-lengre tid å få utredet en ny varslingslov. Det innebærer at en ombuds- og nemndsordning eventuelt
-bør lovfestes i en egen varslingsombuds- og
-nemndslov, eventuelt hjemles i arbeidsmiljøloven.
-En nærmere redegjørelse for hva som bør
-være virkeområde og nærmere innhold i en egen
-varslingslov (utover regler om Varslingsombud og
--nemnd) vil kreve en omfattende analyse. Varslingsutvalget har ikke hatt mandat eller kapasitet
-til å gjennomføre et slikt utredningsarbeid. Utvalget understreker imidlertid at selv om det ikke
-skulle bli opprettet et eget Varslingsombud, så bør
-det likevel tilrettelegges for egen lov.
-Varslingsutvalget vil også peke på at det kan
-være grunn til å følge samfunnsutviklingen på
-dette feltet nøye, også debatten knyttet til varsling
-internasjonalt.3 Sakene om seksuell trakassering
-og maktmisbruk som er avdekket gjennom
-#metoo-kampanjen det siste året, viser tydelig at
-det også innenfor andre områder enn i arbeidslivet og det tradisjonelle arbeidsforholdet foregår
-kritikkverdige forhold, og at den som varsler om
-slike forhold, bør bli ivaretatt. Også i andre sammenhenger kan det være slik, for eksempel innenfor religiøse organisasjoner, idrettsorganisasjoner
-og andre frivillige organisasjoner. I mange av
-3
-
-I internasjonal litteratur omtales en ny gruppe, såkalte «bell
-ringers», som i likhet med «whistleblowers» har en varslingsfunksjon, men som ikke er arbeidstakere eller andre
-innsidere som har tilknytning til organisasjonen slik som
-whistleblowers. Se Brown m.fl. (2014) s. 71–73.
-
-disse tilfellene kan det på tilsvarende måte som i
-arbeidslivet være maktkonstellasjoner og relasjoner som tilsier at aktørene i en varslingsprosess
-har behov for den beskyttelse som for eksempel
-gode varslingsrutiner vil kunne gi.
-Utvalget mener at det er viktig at myndighetene har dette under oppsikt og vurderer om det
-er et behov for lovregulering av et varslingsvern
-også på andre samfunnsområder som nevnt over.
-Utvalget vil anbefale at det igangsettes en egen
-utredning av dette spørsmålet. I den forbindelse
-vil en egen varslingslov på sikt være lettere å bre
-ut til områder utenfor arbeidslivet.
-Utvalget vil samtidig oppfordre alle samfunnsaktører til å arbeide aktivt for en god og trygg
-åpenhetskultur i alle deler av samfunnslivet.
-Arbeidsmiljølovens regler kan være en mal eller
-et eksempel for hvordan regler og retningslinjer
-for varsling kan utformes også på andre områder.
-Varslingsutvalgets medlem Jensen har følgende
-særmerknad:
-Dette medlemmet mener det haster med å utarbeide en egen lov om varsling, og anbefaler at
-dette arbeidet igangsettes så raskt som mulig. En
-egen varslingslov, med enkelte parallelle bestemmelser i arbeidsmiljøloven, vil ha stor symbolkraft
-og vil dessuten gjøre det enklere for alle varslere å
-orientere seg om sine grunnleggende rettigheter,
-uavhengig av hvorvidt varselet skjer i et ansettelsesforhold som omfattes av arbeidsmiljøloven.
-Slik dette medlemmet oppfatter utvalgets flertall,
-legges det i for stor grad vekt på varsling som et
-arbeidsmiljøfenomen. En egen lov om varsling vil
-kunne fremheve det samfunnsmessige perspektivet ved varsling, slik det er uttrykt ønske om fra
-mange hold.
-En egen lov om varsling vil etter dette medlemmets oppfatning naturlig også omfatte andre grupper enn de som omfattes av arbeidsmiljøloven.
-Blant annet er det naturlig at de grupper som regnes opp i arbeidsmiljøloven § 1-6 bør være omfattet, se liste i punkt 10.6.4.
-Dette medlemmet mener at disse gruppene bør
-være omfattet av varslervernet, uavhengig av om
-de «utfører arbeid i virksomhet som er omfattet av
-loven», slik utvalgets flertall legger opp til. Etter
-dette medlemmets oppfatning vil flertallets forslag
-på dette punktet dessuten være svært krevende å
-håndtere bevismessig og er, etter dette medlemmets syn, ikke i tråd med prinsippet om at det er
-det samfunnsmessige perspektivet ved varslingen
-som er det sentrale.
-I tillegg til grupper som nevnt ovenfor mener
-dette medlemmet at det også bør vurderes å innlemme andre grupper, for eksempel tillitsvalgte i
-
-[Side 147]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-organisasjoner, politiske partier og lignende, samt
-ulike grupper som utfører arbeid eller tjenester
-regulert gjennom andre avtaleformer, for eksempel bemanningsentreprise.
-Dette medlemmet mener at en egen lov om
-varsling bør inneholde følgende elementer:
-– Formålsbestemmelse
-– Virkeområde
-– Definisjoner
-– Arbeidstakers ytringsrett – henvisning til
-Grunnlovens § 100
-– Hvilke forhold som omfattes av varslingsreglene
-– Fremgangsmåten ved varsling
-– Gjengjeldelsesforbud
-– Taushetsplikt
-– Etterforskningsforbud
-– Varslerombud.
-
-Boks 10.2 Arbeidsmiljølovens
-formålsbestemmelse
-§ 1-1. Lovens formål
-Lovens formål er:
-a) å sikre et arbeidsmiljø som gir grunnlag
-for en helsefremmende og meningsfylt
-arbeidssituasjon, som gir full trygghet mot
-fysiske og psykiske skadevirkninger, og
-med en velferdsmessig standard som til
-enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,
-b) å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet,
-c) å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,
-d) å gi grunnlag for at arbeidsgiver og
-arbeidstakerne i virksomhetene selv kan
-ivareta og utvikle sitt arbeidsmiljø i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig
-myndighet,
-e) å bidra til et inkluderende arbeidsliv.
-
-10.4 Arbeidsmiljølovens
-formålsbestemmelse
-10.4.1 Gjeldende rett
-Arbeidsmiljøloven § 1-1 angir lovens formål. Formålsbestemmelsen skal først og fremst gi veiledning, ved at den angir retning, gir inspirasjon og
-gir uttrykk for lovens overordnede visjon og verdisyn.
-Formålsbestemmelsen gir også informasjon
-om hensikten med regelverket og viktige forutsetninger som ligger til grunn for reglene. Den vil
-derfor ha en mer eller mindre direkte rettslig
-betydning, selv om formålsbestemmelsen i seg
-selv ikke innebærer noen bindende materiell
-regulering. Tolkning av lovens materiellrettslige
-bestemmelser skal skje i lys av formålet og formålsangivelsen og kan derfor etter omstendighetene være avgjørende for tolkningsresultatet.4
-10.4.2 Erfaringer med reglene
-Både forskning og undersøkelser som er gjennomført de senere årene, bekrefter inntrykket
-som ble fremhevet i begge rapportene fra evalueringen av varslingsreglene5, om at det er behov
-for en bevisstgjøring og holdningsendring om
-varsling og ytringsfrihet i arbeidslivet. Ulike
-undersøkelser Fafo har gjennomført om varsling
-og ytringsfrihet i norsk arbeidsliv viser at selv om
-4
-5
-
-Ot.prp. nr. 49 (2004–2005) s. 69.
-Arntzen de Besche (2013) og Fafo 2014 II.
-
-147
-
-Kapittel 10
-
-det i hovedsak oppleves å være et godt
-ytringsklima på norske arbeidsplasser, oppleves
-det ikke alltid som like lett å si fra. Se nærmere
-om disse i punkt 7.3. En undersøkelse utført blant
-medlemmer i ulike arbeidstakerorganisasjoner
-bekrefter dette inntrykket og viser og at det er
-visse bransjeforskjeller, blant annet betrakter
-ansatte i staten ytringsklimaet som dårligere enn
-ansatte i privat og kommunal sektor.6
-Utvalget har gjennom sin kunnskaps- og erfaringsinnhenting, blant annet på innspillskonferansen, fått flere innspill som understreker at det må
-gis tydelige signaler om at det er viktig med en
-åpen ytringkultur og at man erkjenner verdien av
-varslere og varsling. Utvalget mener at det er
-behov for lovendringer og lovregler som tydeligere enn dagens regelverk kan signalisere og
-anerkjenne ytringsfrihet og varsling som noe
-ønsket og positivt i norsk arbeidsliv.
-6
-
-Fafo 2016 II. Rapporten presenterer en undersøkelse blant
-medlemmer i sju fagforbund: Norsk Sykepleierforbund,
-Den norske legeforening, Forbundet for Ledelse og Teknikk (FLT), Utdanningsforbundet, Norsk Tjenestemannslag (NTL), Juristforbundet og Politiets Fellesforbund. Se også omtale i Fafo 2017 I.
-
-[Side 148]
-
-148
-
-Kapittel 10
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-10.4.3 Utvalgets vurdering og forslag
-Gode reelle muligheter til å si fra om feil og mangler er et vesentlig trekk ved et godt arbeidsmiljø
-og en sunn bedriftskultur. Det er viktig at forholdene legges til rette for at arbeidstakere melder
-fra om kritikkverdige forhold i virksomheten.
-Ytringsklimaet har stor betydning for hvordan kritikkverdige forhold blir håndtert.
-Som nevnt innledningsvis mener utvalget at
-lovgivning også kan bidra til å skape eller påvirke
-kultur. Det omfattende røykeforbudet i den
-såkalte «røykeloven», som trådte i kraft i 2004, er
-et mye brukt eksempel på at regler kan utvikle
-kultur.7 Utvalget legger til grunn at det er behov
-for forsterkede regler for å initiere og påvirke
-ytringskultur. Det vil være et viktig signal dersom
-arbeidsmiljølovens formålsparagraf inneholder en
-bestemmelse som uttrykkelig vektlegger hensynet til ytringsklima som en sentral faktor for et sikkert og godt arbeidsmiljø.
-Arbeidsmiljøloven er primært en vernelov for
-arbeidstakerne. Virksomhetenes og samfunnets
-behov er derfor i utgangspunktet ikke en del av
-arbeidsmiljølovens formålsbestemmelse, selv om
-dette også er forhold som hensyntas i loven. I lovforarbeidene til arbeidsmiljøloven understrekes
-det at det er viktig at formålsbestemmelsen primært fokuserer på arbeidervern og arbeidsmiljø,
-mens hensynet til virksomhetenes interesser og
-generelle samfunnsinteresser først og fremst vil
-komme til uttrykk og må anses ivaretatt gjennom
-utformingen av lovens enkeltbestemmelser.8 Samtidig kan det argumenteres for at et godt ytringsklima også gir et vern for arbeidstakerne, all den
-tid det minsker muligheten for å bli utsatt for gjengjeldelse ved varsling, samt at det bidrar til åpenhet og senker konfliktnivået, til beste for alle.
-Her skal det også understrekes at reglene om
-varsling i arbeidsmiljøloven skal ivareta flere hensyn. Reglene bygger både på det grunnleggende
-hensynet til et godt ytringsklima og hensynet til
-virksomheten og samfunnsinteressen generelt i at
-kritikkverdige forhold avdekkes, samtidig som et
-hovedformål er å gi arbeidstakere som varsler
-vern mot gjengjeldelse. I forarbeidene til varslingsreglene er det lagt til grunn at det er arbeidsgivers ansvar å sørge for å tilrettelegge for et godt
-ytringsklima i virksomheten, blant annet gjennom
-etablering av varslingsrutiner. Etter utvalgets oppfatning vil en tilføyelse i loven om behovet for et
-godt ytringsklima derfor kunne passe godt inn i
-7
-8
-
-Tobakkskadeloven § 25.
-Ot.prp. nr. 49 (2004–2005) s. 72.
-
-formålsbestemmelsens overordnede og prinsipielle karakter.
-Samtidig som hensynet til ytringsfrihet og et
-godt ytringsklima er spesielt aktuelt når det gjelder lovens særlige kapittel om varsling, vil det
-også ha relevans for andre bestemmelser i loven,
-særlig kapittel 3 og 4 om krav til arbeidsmiljøet og
-virkemidler i arbeidsmiljøarbeidet. Det kan også
-tale for at hensynet til et godt ytringsklima bør
-reflekteres i lovens formålsbestemmelse.
-På denne bakgrunn foreslår utvalget at lovens
-formålsbestemmelse utvides til også å omfatte
-hensynet til et godt ytringsklima. En ny bokstav
-b) i arbeidsmiljøloven § 1-1 kan eksempelvis formuleres slik:
-b) å legge til rette for et godt ytringsklima i virksomheten.
-
-10.5 Forholdet mellom varslingsreglene
-og ytringsfriheten
-10.5.1 Gjeldende rett
-Utgangspunktet er at arbeidstakere har ytringsfrihet på linje med alle andre. Ansattes ytringsfrihet
-er beskyttet av den alminnelige bestemmelsen om
-ytringsfrihet i Grunnloven § 100 med de begrensninger som eventuelt vil følge av den ulovfestede
-lojalitetsplikten som gjelder i alle arbeidsforhold.
-Ansatte har rett til å uttale seg kritisk om faktiske
-forhold på arbeidsplassen eller delta i debatt om
-spørsmål som berører virksomheten. Et ansettelsesforhold reiser likevel visse særlige spørsmål,
-fordi arbeidsgiver, innen visse rammer, har krav
-på den ansattes lojalitet. For å overholde lojalitetsplikten til arbeidsgiver kan den ansatte etter forholdene bli nødt til å avstå fra visse ytringer. Se
-nærmere om ytringsfrihetens grenser i arbeidsforhold i punkt 4.1.5.
-Varslingsreglene i arbeidsmiljøloven skal
-bidra til å styrke den reelle ytringsfriheten i
-arbeidsforhold.9 Bestemmelsene har som formål
-at det skal gjelde klare og presise regler for
-arbeidstakere som sier fra om kritikkverdige forhold i virksomheten.10
-10.5.2 Utvalgets vurdering og forslag
-Det er blitt hevdet at dagens varslingsregler er
-defensive med hensyn til behovet for økt åpenhet
-og gir sterke signaler om begrensninger i ytrings9
-10
-
-Ot.prp. nr. 84 (2005–2006) s. 33.
-Prop. 72 L (2016–2017) s. 11.
-
-[Side 149]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-friheten og retten til å varsle, slik at hovedregelen
-og utgangspunktet om ytringsfrihet er underkommunisert. Både på innspillskonferansen og i andre
-innspill til utvalget er det flere som har pekt på vi
-bør ha et regelverk som legger til rette for en
-åpenhetskultur og et godt ytringsklima i virksomhetene. Norges nasjonale institusjon for menneskerettigheter anbefaler i sin årsmelding for 2016
-at arbeidsmiljølovens bestemmelser om varsling
-bør utformes slik at de ivaretar ytringsfriheten på
-best mulig måte.11
-Etter utvalgets oppfatning kan det være grunn
-til å vurdere om varslingsreglene bør inneholde
-en henvisning til den generelle ytringsfriheten i
-Grunnloven § 100. Selv om en slik henvisning
-ikke er nødvendig rettslig sett, kan det være
-ønskelig både av opplysningshensyn og pedagogiske hensyn at loven inneholder en slik klargjøring. Det er likevel usikkert hvilken effekt det vil
-kunne ha på arbeidstakernes tilbøyelighet til å
-varsle, og om det vil bidra til at arbeidstakere i
-større grad vil benytte seg av sin ytringsfrihet i
-arbeidsforholdet.
-En utfordring er at ethvert forsøk på formuleringer av ytringsfriheten i arbeidsmiljølovens
-regler om varsling kan bli oppfattet som å innebære en begrensning av ytringsfriheten etter
-Grunnloven § 100. Det kan i denne sammenheng
-vises til at det i departementets høringsbrev i 2005
-ble fremmet følgende forslag:
-§ 2-4. Arbeidstakers ytringsfrihet
-Arbeidstaker har rett til på egne vegne å
-ytre seg om forhold som berører virksomheten, jf. Grunnloven § 100, herunder ytringer
-om politiske og faglige spørsmål.12
-Forslaget ble ikke fulgt opp i Ot.prp. nr. 84 (2005–
-2006) med følgende begrunnelse:
-Hensikten med en generell bestemmelse om
-arbeidstakers ytringsfrihet, vil for det første
-være å gi klare signaler om at ansattes ytringsfrihet er svært vid og at arbeidstakeres deltakelse i politisk og faglig debatt i utgangspunktet både er lovlig og ønskelig. For det andre vil
-det være et formål å gi partene større klarhet
-og forutberegnelighet enn i dag når det gjelder
-11
-
-Norges nasjonale institusjon for menneskerettigheter, Årsmelding 2016.
-12 Arbeids- og sosialdepartementets høringsbrev datert
-23.12.2005: Høring – forslag til nye regler om ansattes
-ytringsfrihet/varsling. Forslaget ble fremmet på grunnlag
-av rapporten Ansattes ytringsfrihet, som ble laget i regi av
-Arbeids- og sosialdepartementet i 2005.
-
-149
-
-Kapittel 10
-
-ytringsfrihetens grenser. Høringsrunden viser
-imidlertid at forslaget til en generell bestemmelse om ansattes ytringsfrihet, slik det er formulert i høringsutkastet, vil kunne gi inntrykk
-av en for snever ytringsfrihet. Dersom dette
-skulle bli tilfellet, vil bestemmelsen åpenbart
-virke mot sin hensikt og ikke gi den veiledning
-og forutberegnelighet som etterstrebes. Samtidig er det etter departementets oppfatning vanskelig å komme fram til en alternativ lovtekst
-som er dekkende, treffende og mer informativ
-enn høringsforslaget. Departementet mener
-dessuten at det er varsling som det er viktigst å
-regulere i loven, […]. På denne bakgrunn er
-departementet kommet fram til at det ikke vil
-legge fram forslag om regulering av ansattes
-ytringer generelt.13
-Utvalget ønsker ikke å foreslå en generell bestemmelse om ansattes ytringsfrihet, som var det som
-lå i forslaget fra 2005. Etter utvalgets mening er
-det, av rent informative og pedagogiske hensyn,
-likevel behov for å tydeliggjøre at retten til å
-varsle om kritikkverdige forhold er en del av den
-alminnelige ytringsfriheten. Utvalget foreslår derfor å ta inn en henvisning til Grunnloven § 100 i
-varslingsreglene i arbeidsmiljøloven, som ikke er
-ment å innebære noen rettslig endring.
 Skisse til lovtekst
-Varslingsutvalget har delt seg med hensyn til utforming av en skisse til lovtekst.
-Varslingsutvalgets flertall, medlemmene Dahle,
-Eriksen, Jensen, Matthiesen, Rygh Monsen og Skog
-foreslår en tydelig henvisning til Grunnloven
-§ 100 og den alminnelige ytringsfriheten, med følgende formulering, som enten kan tas inn som en
-egen paragraf eller som et første ledd i arbeidsmiljøloven § 2 A-1:
-Arbeidstaker har rett til å ytre seg om forhold i
-virksomheten, i overensstemmelse med Grunnloven § 100.
-Flertallet mener at en slik henvisning er viktig,
-primært av pedagogiske hensyn. Flertallet viser til
-at det er en utfordring at den alminnelige ytringsfriheten på den ene siden og varslingsreglene på
-den andre har helt ulikt utgangspunkt. Varslingsreglene innebærer en «speilvending» av ytringsfriheten etter Grunnloven § 100 og Den europeiske
-menneskerettserklæringen (EMK) artikkel 10.
-13
 
-Ot.prp. nr. 84 (2005–2006) s. 36–37.
+*Varslingsutvalget* har utarbeidet følgende skisse til en lovbestemmelse om arbeidsgivers aktivitetsplikt, som er ment å være en presisering av gjeldende rett:
 
-[Side 150]
+*§ 2 A-X. Arbeidsgivers aktivitetsplikt ved varsling*
 
-150
+*1) Arbeidsgivers plikter knyttet til varselet*
 
-NOU 2018: 6
+*Når det er varslet om kritikkverdige forhold i henhold til § 2 A-X i samsvar med varslingsrutiner, skal arbeidsgiver innen rimelig tid sørge for at varselet blir tilstrekkelig undersøkt og behandlet i samsvar med virksomhetens rutiner for varsling. Det samme gjelder når arbeidsgiver for øvrig har grunn til å tro at det er varslet om kritikkverdige forhold.*
 
-Kapittel 10
+*2) Arbeidsgivers plikter overfor varsleren (omsorgsplikt)*
 
-Varsling – verdier og vern
+*Når det er varslet om kritikkverdige forhold i henhold til § 2 A-X i samsvar med varslingsrutiner, skal arbeidsgiver sørge for et fullt forsvarlig arbeidsmiljø for varsleren, herunder å sørge for tiltak som er egnet til å motvirke gjengjeldelse. Det samme gjelder når arbeidsgiver for øvrig har grunn til å tro at det er varslet om kritikkverdige forhold.*
 
-Etter § 100 og artikkel 10 har man ytringsfrihet
-om dette ikke er (tilstrekkelig begrunnet) forbudt. Det vises til at varslingsregelen er motsatt.
-Den har som utgangspunkt å redegjøre for hvilke
-positive vilkår som må være oppfylt for at man
-skal bli «godkjent» som varsler. På denne bakgrunn fremstår det fortsatt, etter flertallets oppfatning, som om varsling er «forbudt» dersom vilkårene ikke er oppfylt. Flertallet mener at det må
-komme klarere frem at varsling er en utvidelse av
-den alminnelige ytringsfriheten, ved at ytringer
-som oppfyller kriteriene for varsling nyter et forsterket vern. Dette mener flertallet at kan gjøres
-ved å legge inn en tydelig henvisning fra varslingsreglene i arbeidsmiljøloven til ytringsfriheten
-og § 100, før man fastsetter hva det kan varsles om
-og fremgangsmåten ved varsling.
-Varslingsutvalgets mindretall, utvalgets leder og
-medlemmene Dalheim, Stenberg-Nilsen og Opstad
-Sunde foreslår følgende skisse til lovtekst som
-innebærer en nøytral henvisning til Grunnloven
-§ 100 i arbeidsmiljøloven § 2 A-1 første ledd:
-Arbeidstaker har rett til å varsle om kritikkverdige forhold i arbeidsgivers virksomhet, jf.
-Grunnloven § 100.
-Mindretallet ønsker å presisere at forslaget er formulert som en ren henvisningsbestemmelse som
-ikke er ment å innebære noen endring eller innskrenking av ytringsfriheten etter Grunnloven
-§ 100.
+1.  **Varslingsrutiner**
 
-10.6 Hvem skal omfattes av
-varslingsreglene
-10.6.1 Gjeldende rett
-Arbeidsmiljølovens utgangspunkt er at den gjelder forholdet mellom arbeidsgiver og arbeidsgivers egne ansatte. Det er imidlertid flere unntak
-fra dette, for eksempel reguleres forholdet til persongrupper som ikke er arbeidstakere i utgangspunktet i § 1-6 og forholdet til innleide og selvstendige i § 2-2 og §§ 14-12 til 14-14.
-Det samme utgangspunktet gjelder for varslingsreglene i arbeidsmiljøloven kapittel 2 A. Retten til å varsle om kritikkverdige forhold etter § 2
-A-1, og den tilhørende beskyttelsen mot gjengjeldelse i § 2 A-2, er i utgangspunktet begrenset til å
-gjelde i arbeidstaker- og arbeidsgiverforhold, jf.
-arbeidsmiljøloven § 1-8.
+    1.  **Gjeldende rett**
 
-Varslingsbestemmelsene i arbeidsmiljøloven
-kapittel 2 A ble med virkning fra 1. juli 2017 utvidet til også å gjelde innleide arbeidstakere. Det
-innebærer at innleide arbeidstakere likestilles
-med innleievirksomhetens egne arbeidstakere
-når det gjelder retten til å varsle om kritikkverdige forhold i innleievirksomheten. Varslingsreglene i arbeidsmiljøloven gjelder etter dette alle
-virksomheter i privat og offentlig sektor, for både
-faste, midlertidige og innleide arbeidstakere.
+Dersom forholdene i virksomheten tilsier det, plikter arbeidsgiver å utarbeide rutiner for intern varsling i samsvar med § 2 A-1. Rutinene skal utarbeides i tilknytning til det systematiske helse-, miljø- og sikkerhetsarbeidet, jf. arbeidsmiljøloven § 2 A-3 første ledd. Virksomheter med minst fem ansatte har alltid plikt til å utarbeide interne varslingsrutiner, jf. § 2 A-3 andre ledd.[^460] Se nærmere om gjeldende rett i punkt 4.2.5.
 
-10.6.2 Internasjonale anbefalinger og andre
-lands rett
-Europarådets rekommandasjon om vern av varslere anbefaler at regelverk for varslere bør
-omfatte alle som arbeider innen offentlig og privat
-sektor, uavhengig av ansettelsesforholdets karakter og om det er lønnet arbeid eller ikke.14 Det
-anbefales i den sammenheng at potensielle
-arbeidstakere også bør omfattes, selv etter at
-arbeidsforholdet er opphørt, og om mulig i en
-rekrutteringsprosess. I kommentardelen til
-rekommandasjonen anbefales medlemslandene
-også å vurdere om vernet skal utvides til å omfatte
-for eksempel konsulenter, underentreprenører
-mv.15
-Etter britisk og svensk rett gjelder varslervernet for arbeidstakere i offentlig og privat virksomhet. Etter de svenske varslingsreglene er innleide
-arbeidstakere likestilte med innleievirksomhetens
-egne ansatte og har et særskilt vern mot gjengjeldelse fra innleier ved varsel om kritikkverdige forhold i innleievirksomheten. Innleide arbeidstakere har imidlertid ikke tilsvarende vern mot
-gjengjeldelse i forhold til egen arbeidsgiver
-(bemanningsforetaket) når varselet gjelder forhold i innleievirksomheten. I slike situasjoner gjelder vanlige stillingsvernsregler etter svensk rett.
-Se omtale i punkt 5.6 om andre lands regelverk
-om varsling.
-14
+Rutinebestemmelsen i § 2 A-3 stiller visse krav til virksomhetenes varslingsrutiner. Rutinene skal være skriftlige og som minimum inneholde en oppfordring til å varsle om kritikkverdige forhold, fremgangsmåte for varsling og fremgangsmåte for mottak, behandling og oppfølging av varsling, jf. § 2 A-3 femte ledd. Ut over dette stiller ikke loven noen konkrete krav til arbeidsgivers fremgangsmåte eller til saksbehandlingen ved mottak av et varsel. Dette må tilpasses behovet og situasjonen i den enkelte virksomhet og bransje.[^461]
 
-15
+Arbeidstakerne og deres tillitsvalgte skal medvirke ved utarbeidelse av varslingsrutinene, og arbeidsgiver skal sørge for at rutinene er lett tilgjengelig for alle ansatte i virksomheten, jf. § 2 A-3 tredje og femte ledd.
 
-Europarådets rekommandasjon punkt II, Personal scope:
-«3. The personal scope of the national framework should
-cover all individuals working in either the public or private
-sectors, irrespective of the nature of their working relationship and whether they are paid or not.
-4. The national framework should also include individuals
-whose work–based relationship has ended and, possibly,
-where it is yet to begin in cases where information concerning a threat or harm to the public interest has been acquired during the recruitment process or other pre-contractual negotiation stage.»
-Recommendation CM/Rec (2014)7 on the protection of
-whistleblowers prepared by the European Committee on
-Legal Co-operating (CDCJ) of the Council of Europe.
+1.  **Erfaringer med reglene**
 
-[Side 151]
+Endringene i lovens krav om varslingsrutiner som trådte i kraft fra 1. juli 2017, tar sikte på å gi brukerne tydeligere veiledning om hvem som skal ha plikt til å iverksette tiltak for å legge til rette for intern varsling i virksomheten, hvilke tiltak som i tilfelle kreves og hvordan kravet skal etterkommes. Formålet var å gjøre det enklere for arbeidsgiverne å lage rutiner som vil fungere etter sin hensikt og derved øke forutsigbarheten for varslerne. Et skjerpet krav til når det skal etableres varslingsrutiner, vil også fungere som en pådriver for at enda flere arbeidsgivere blir klar over plikten og faktisk etablerer rutiner for varsling.[^462]
 
-NOU 2018: 6
-Varsling – verdier og vern
+Forskning viser at varslingsrutiner kan bidra både til at varslingseffektiviteten øker, gjøre varsling mindre risikofylt og til bedre forutsigbarhet i varslingsprosessen, se nærmere punkt 7.3.5. I denne sammenhengen kan det også vises til at varsling i henhold til virksomhetenes varslingsrutiner alltid er forsvarlig etter § 2 A-1 andre ledd.
 
-10.6.3 Behov for å innlemme nye grupper
-Arbeidsmiljølovens regler om varsling gjelder for
-arbeidstakere og innleide arbeidstakere som varsler om kritikkverdige forhold i egen arbeidsgivers
-eller innleiers virksomhet. Innleide arbeidstakere
-har vern mot gjengjeldelse både hos innleier og
-egen arbeidsgiver. Hvem som er å anse som
-arbeidstaker og innleid arbeidstaker er definert
-henholdsvis i arbeidsmiljøloven §§ 1-8, 14-2 og 14-3.
-Personer som ikke er ansatt i virksomheten, herunder tidligere ansatte og arbeidssøkere, selvstendige næringsdrivende og andre persongrupper er ikke omfattet.
-Utvalget viser til at et hovedformål med
-reglene om varsling er å bidra til at ulovlige og
-uønskede forhold avdekkes og håndteres. Det er
-derfor i utgangspunktet en like sterk allmenninteresse i at kritikkverdige forhold kommer frem og
-opphører, uavhengig av hvem som oppdager de
-kritikkverdige forholdene.
-Alle som er i et ansettelseslignende forhold
-eller som har nær tilknytning til en virksomhet på
-annen måte (oppdragstakere, kunder mv.) vil i
-utgangspunktet ha samme mulighet til å oppdage
-kritikkverdige forhold og ha behov for å si fra om
-dette. Det vil også i slike tilfeller kunne foreligge
-en ubalanse i styrkeforholdet mellom partene
-som i mange tilfeller kan tilsi et behov for vern
-mot gjengjeldelse. Gode grunner kan dermed tale
-for at persongrupper med en nær tilknytning til
-virksomheten bør ha samme rett som arbeidstakere til å varsle om kritikkverdige forhold og ha et
-vern mot gjengjeldelse.
-En praktisk situasjon er forholdet til arbeidssøkere og situasjoner der arbeidsforholdet nylig er
-avsluttet. En enda mer praktisk situasjon i et
-moderne arbeidsliv er forholdet til grupper som
-er knyttet til arbeidsmarkedet gjennom andre
-kontraktsformer enn den tradisjonelle arbeidskontrakten, slik som selvstendige oppdragstakere, arbeidstakere i entrepriseforhold mv. Entrepriser er ikke omfattet av arbeidsmiljølovens
-regler om innleie, og det betyr at en arbeidstaker
-som utfører arbeid i kraft av entreprise, ikke vil ha
-varslervern hvis vedkommende varsler om kritikkverdige forhold andre steder enn hos egen
-arbeidsgiver. Enkelte av høringsinstansene som
-kommenterte forslagene til endringer i varslingsreglene som trådte i kraft 1. juli 2017, tok til orde
-for utvidelse av virkeområdet til å omfatte flere
-grupper, herunder særlig selvstendige oppdragstakere, arbeidstakere hos virksomhetens underleverandører. Andre, som NHO, la i sin høringsut-
+Effekten av varslingsrutiner er imidlertid avhengig av hvordan rutinene er utformet og hvor godt kjent de er og om de følges opp og brukes. Undersøkelser Fafo har gjort, senest i 2016, viser at rundt halvparten av norske arbeidstakere svarer at de er kjent med at det er skriftlige varslingsrutiner der de jobber, mens de øvrige svarer nei eller vet ikke.[^463]
 
-151
+1.  **Fra KS’ nye veileder**
 
-Kapittel 10
+Arbeidet med å utarbeide rutiner for varsling bør gå hånd i hånd med arbeidet for å utvikle en åpen kultur i kommuner og fylkeskommuner. Å skape en god ytringskultur er arbeidsgivers ansvar. KS tror at behovet for varsling blir mindre der ledere møter kritikk og andre ytringer på en konstruktiv måte, og hvor ledere anerkjenner og drøfter etiske dilemmaer med sine medarbeidere. Alle må vite hvor de eventuelt kan rette opplysninger om kritikkverdige forhold. Varsleren må også føle seg trygg på at opplysningene blir behandlet på en seriøs måte og at varsling ikke fører til gjengjeldelse.<sup>1</sup>
 
-talelse avgjørende vekt på ulikhetene mellom innleie og ansettelse, og uttalte blant annet at:
-[u]tvidelse av varslervernet til å omfatte innleide arbeidstakere ville øke risikoen for unødige konflikter. For eksempel vil bevisvurderingen knyttet til om avslutning av oppdrag er
-ulovlig gjengjeldelse, gjerne være vanskelig.16
+<sup>1</sup> KS: Veileder om ytringsfrihet og varsling.
 
-10.6.4 Utvalgets vurdering og forslag
-Nedenfor vurderer utvalget spørsmålet om virkeområdet for arbeidsmiljølovens varslingsregler
-bør utvides til å omfatte flere grupper med nær og
-noe mer perifer tilknytning til virksomheten.
-Tidligere ansatte og arbeidssøkere
-Slik loven er formulert er det et krav at den som
-varsler er arbeidstaker. Arbeidstakerbegrepet i
-arbeidsmiljøloven omfatter ikke tidligere ansatte
-eller arbeidssøkere ettersom disse ikke «utfører
-arbeid» i virksomheten.
-Etter gjeldende rett vil en arbeidstaker kunne
-reise sak om erstatning for gjengjeldelse i strid
-med loven dersom det skjer mens vedkommende
-er i et arbeidsforhold. Gjengjeldelse som skjer
-etter at arbeidsforholdet er opphørt, omfattes i
-utgangpunktet ikke av forbudet i § 2 A-2. Dette
-gjelder situasjonen der både varslingen og gjengjeldelsen skjer etter at arbeidsforholdet er avsluttet. Det kan imidlertid stille seg annerledes i en
-situasjon hvor det varsles mens arbeidsforholdet
-består, men gjengjeldelsen skjer eller fortsetter
-etter at arbeidsforholdet har opphørt. I praksis
-kan det for eksempel dreie seg om gjengjeldelseshandlinger som manglende referanser, negativ
-omtale overfor potensielle nye arbeidsgivere, trakassering, trusler mv. Behovet for vern vil kunne
-være like sterkt i slike tilfeller. Ettersom det er
-spørsmål om beskyttelse av en arbeidstaker som
-faktisk har benyttet sin varslingsrett etter loven
-mens vedkommende var i arbeid, taler reelle hensyn for at denne situasjonen omfattes av forbudet
-mot gjengjeldelse.17
-Utvalget ser at både arbeidssøkere og tidligere
-ansatte kan ha behov for å være omfattet av
-reglene, i større utstrekning enn det som kan utle16
-17
+**\[Boks slutt\]**
 
-Prop. 72 L (2016–2017) s. 16.
-En slik forståelse av virkeområdet er lagt til grunn i en lagmannsrettsdom inntatt i RG-2008-53, der et krav om innsyn
-i arbeidstakers e-post etter at arbeidsforholdet var avsluttet,
-ble ansett som en fortsettelse av gjengjeldelsen mot
-arbeidstaker, som startet mens arbeidsforholdet fremdeles
-bestod.
+1.  **Utvalgets vurdering og forslag**
 
-[Side 152]
+*Varslingsutvalget* presiserer at det er gått kort tid siden arbeidsmiljølovens nye regler om varslingsrutiner trådte i kraft. Langt på vei har disse endringene svart på de behov for endringer som evaluering og forskning har vist at var nødvendige. *Utvalget* legger til grunn at de må få virke i en lengre periode før man kan svare på om regelendringen har fungert etter sin hensikt. *Utvalget* mener derfor at det ikke er nødvendig å foreslå omfattende revisjon av denne bestemmelsen.
 
-152
+*Utvalget* har likevel vurdert om det bør gjøres noe med enkelte elementer i bestemmelsen om varslingsrutiner. Nedenfor vurderes presisering av krav til arbeidsgivers saksbehandling, krav om jevnlig evaluering av varslingsrutinene, tydeligere kobling mellom krav om varslingsrutiner og virksomhetens systematiske HMS-arbeid, samt arbeidstakers medvirkningsplikt.
 
-Kapittel 10
+*Utvalget* har sett flere eksempler på varslingsrutiner som også omhandler situasjonen for den det er varslet om. *Utvalge*t vil presisere at dette er noe som bør fremgå av alle varslingsrutiner. Også den det varsles om har krav på at hensynet til kontradiksjon og personvern ivaretas i prosessen. Hvis en varslingssak skal få et godt utfall, er det viktig at alle de involverte opplever at de blir tilstrekkelig ivaretatt.
 
-NOU 2018: 6
-Varsling – verdier og vern
+Krav til arbeidsgivers saksbehandling
 
-des av gjeldende rett i dag. Utvalget ønsker likevel
-ikke å foreslå noen slik utvidelse. Behovet anses
-ikke like stort for disse gruppene, sammenlignet
-med de som er arbeidstakere – og er i et ansettelsesforhold. Disse gruppene har for øvrig uansett
-ytringsfrihet og er ikke på samme måte bundet av
-den lojalitetsplikten som gjelder mens et arbeidsforhold består. Det vil også være utfordrende for
-arbeidsgiver å ivareta sine forpliktelser overfor
-personer med en svakere tilknytning til virksomheten. Både tidligere ansatte og arbeidssøkere vil
-i tillegg i større grad kunne varsle anonymt og
-benytte seg av ulike varslingskanaler mv. Det vil
-også kunne være vanskelige avgrensningstilfeller
-og bevismessige utfordringer ved å innlemme
-disse gruppene i virkeområdet til varslingsreglene, herunder forbudet mot gjengjeldelse.
-Personer som anses som arbeidstakere etter
-arbeidsmiljøloven § 1-6
-Arbeidsmiljøloven § 1-6 lister opp persongrupper
-som faller utenfor arbeidstakerbegrepet i § 1-8,
-men som likevel skal anses som arbeidstakere
-etter lovens regler om helse, miljø og sikkerhet
-når de utfører arbeid i virksomhet som går inn
-under loven. Dette gjelder blant annet elever ved
-institusjoner som har undervisning eller
-forskning som formål, vernepliktige, pasienter i
-helseinstitusjoner mv. Disse gruppene arbeider
+Ifølge arbeidsmiljøloven § 2 A-3 femte ledd bokstav c) skal virksomhetenes varslingsrutiner inneholde retningslinjer for «fremgangsmåten for mottak, behandling og oppfølging av varsling». Som nevnt over, stilles det ingen konkrete krav i loven til arbeidsgivers fremgangsmåte eller til saksbehandlingen av et varsel.
 
-Boks 10.3 Arbeidsmiljøloven § 1-6
-Personer som ikke er arbeidstakere
-(1) Følgende personer anses som arbeidstakere i forhold til lovens regler om helse, miljø
-og sikkerhet når de utfører arbeid i virksomhet som går inn under loven:
-a) elever ved institusjoner som har undervisning eller forskning som formål,
-b) vernepliktige,
-c) sivile tjenestepliktige og tjenestepliktige i
-sivilforsvaret,
-d) innsatte i kriminalomsorgens anstalter,
-e) pasienter i helseinstitusjoner, attføringsinstitusjoner o.l.,
-f) personer som i opplæringsøyemed eller i
-forbindelse med arbeidsrettede tiltak
-utplasseres i virksomheter uten å være
-arbeidstakere,
-g) personer som uten å være arbeidstakere
-deltar i arbeidsmarkedstiltak.
+Der hvor saksbehandlingen av varslersaker finner sted, skal dette skje i tråd med personvernreglene og de reglene om forvaltning og kontroll som gjelder for den aktuelle virksomhet. Se nærmere omtale i punkt 4.9 av hvilke krav som følger av personopplysningsloven.
 
-ikke på grunnlag av en ansettelseskontrakt, men
-er tilknyttet virksomheten på andre grunnlag (lovbestemte plikter og rettigheter, andre typer avtaler mv.).
-Det er i utgangspunktet gode grunner som
-taler for at disse gruppene når de utfører arbeid i
-virksomheten bør ha de samme rettighetene og
-det samme vernet som arbeidsgivers egne
-arbeidstakere og innleide arbeidstakere, ut fra
-samfunnets interesse i avdekking av kritikkverdige forhold. En regel om at disse gruppene skal
-være omfattet av varslervernet når de utfører
-arbeid, men ellers ikke, kan skape noen vanskelige avgrensninger, for eksempel knyttet til hvilken rolle eller funksjon vedkommende var i da
-han eller hun observerte det kritikkverdige. Disse
-personene vil imidlertid kunne ha tilgang til
-samme informasjon som virksomhetens egne
-arbeidstakere og innleide, og derfor også ha
-mulighet til både å oppdage uregelmessigheter og
-behov for å kunne melde fra om dette. I rollen
-som arbeidstakere vil også disse persongruppene
-i samme grad som arbeidstakere kunne anses å
-ha behov for vern mot ulike typer gjengjeldelse,
-dersom de varsler når de utfører arbeid i virksomhet som faller inn under loven. Samtidig finnes det
-annet regelverk som også ivaretar interessene til
-noen av disse gruppene, herunder pasientrettighetsloven, opplæringsloven mv.
-Utvalget mener derfor at disse gruppene har
-behov for å omfattes av varslingsreglene i arbeidsmiljøloven når de utfører arbeid i virksomheten.
-Utvalget har ikke utredet spørsmålet om behovet for lovregler om varsling for disse gruppene
-når de ikke utfører arbeid. Dette er et spørsmål
-som utvalget mener må vurderes i en større gjennomgang av behovet for lovregler om varsling på
-andre samfunnsområder enn i arbeidslivet, se
-punkt 10.3.3. Se også særmerknad fra medlemmet
-Jensen i samme punkt.
-Andre grupper med tilknytning til virksomheten
-som kan være utsatt for gjengjeldelse ved varsling
-I et moderne arbeidsliv vil virksomheter benytte
-seg av ulike og stadig nye samarbeidsformer. Teknologiske nyvinninger i form av digitale plattformer har gjort det mulig å formidle tjenester og
-arbeidskraft på nye, mer effektive måter. Med
-dette har mulighetene for å kunne tilby arbeidskraft gjennom andre tilknytningsformer enn fast
-ansettelse økt. Når nye og så langt atypiske tilknytningsformer øker, utfordres etablerte reguleringer på mange områder, slik som skatt, konkurranse, HMS, trygderettigheter, lønnsdannelse mv.
+Virksomheter som omfattes av forvaltningslovgivningen, er underlagt en annen detaljregulering enn privat sektor. Forvaltningsloven inneholder regler om habilitet og alminnelige krav til saksbehandlingen. Dette omfatter regulering av grunnleggende partsrettigheter.
 
-[Side 153]
+Utover kravet til varslingsrutiner gjelder det ingen krav i arbeidsmiljøloven om at varslersaker skal saksbehandles og følges opp. Reglene om varsling i arbeidsmiljøloven inneholder ingen krav til at virksomheten må foreta seg noe med den informasjonen varsleren har gitt.
 
-NOU 2018: 6
-Varsling – verdier og vern
+*Utvalget* har merket seg at det i høringen til endringene i arbeidsmiljølovens rutinebestemmelse var flere som tok til orde for at det bør stilles konkrete krav til saksbehandlingsregler for varslingssaker, som blant annet må inneholde korte frister for tiltak og tilbakemelding til varsleren. På utvalgets innspillskonferanse og i andre innspill til utvalget er det pekt på at virksomhetene må ha tydelige og gode varslingsrutiner som sikrer habil og forsvarlig saksbehandling, samt informasjon og veiledning til de berørte, og at dette er særlig viktig i små virksomheter.
 
-Gjeldende regulering i arbeidslivet tar som
-kjent utgangspunkt i virksomheter med egne
-ansatte. Vekst i den såkalte delings- eller plattformøkonomien innebærer vekst i andelen som
-ikke er arbeidstakere i tradisjonell forstand, men
-som i stedet er oppdragstakere i en eller annen
-form. Usikker inntekt og manglende forutsigbarhet i en oppdragsbasert økonomi kan være belastende for den enkelte og dennes familie, og det er
-derfor viktig å være bevisst på de utfordringer en
-utvikling i retning av slike løsere tilknytningsformer i arbeidslivet kan medføre.
-I et høringsbrev fra Arbeids- og sosialdepartementet 29. juni 2017 om endringer i arbeidsmiljøloven om fast ansettelse, midlertidig ansettelse
-og innleie fra bemanningsforetak, skisseres status
-og utvikling i norsk arbeidsliv. Faste ansettelsesforhold er fortsatt den sentrale tilknytningsformen. Det foreligger ikke sikre tall som viser antallet arbeidstakere som jobber i bemanningsforetak
-eller som selvstendig næringsdrivende eller er
-ansatt hos entreprenør eller underleverandør som
-virksomheten benytter seg av, entreprise mv.18 I
-en statusrapport om tilknytningsformer i norsk
-arbeidsliv fra 2016 anslås det at innleide arbeidstakere utgjør mellom 1,5 og 2 prosent av alle
-årsverk i Norge.19 I en ny rapport fra 2017 fremgår det at 5,8 prosent av sysselsatte i Norge er
-selvstendige. Av disse er 4,3 prosent selvstendige
-uten ansatte, mens 1,6 prosent er selvstendige
-med ansatte.20 Med unntak av innleide arbeidstakere er verken selvstendig næringsdrivende,
-entreprise eller andre av de nevnte gruppene per i
-dag omfattet av arbeidsmiljølovens regler om
-varsling. Inntrykket av at dette, i hvert fall så
-langt, dreier seg om relativt små grupper, bekreftes i en ny rapport fra Fafo om delings- eller plattformøkonomien.21 Dette er likevel ikke til hinder
-for å tenke gjennom hvilket behov for vern denne
-gruppen bør ha, også fordi løsere eller andre tilknytningsforhold ventelig vil øke i omfang fremover. Spørsmålet er hvordan disse gruppene kan
-fanges opp på en rettslig adekvat måte og hvordan
-et eventuelt regelverk skulle kunne kontrolleres.
-Varslingsreglene i arbeidsmiljøloven ble gjort
-gjeldende for innleide arbeidstakere med virkning
-fra 1. juli 2017. Reglene gjelder imidlertid ikke for
-18
+*Utvalget* mener på den ene siden at det er viktig at virksomheten har rutiner som sikrer forutsigbarhet og ivaretar rettssikkerheten for alle de involverte i oppfølgingen av et varsel, av hensyn både til arbeidstaker som varsler, virksomheten og den det varsles om. Her kan konkrete saksbehandlingsregler som en del av reglene om varslingsrutiner bidra til å gjøre regelverket mer effektivt og tydelig. På den andre siden må dette avveies mot hensynet til at varslingssaker bør løsest på et lavest mulig nivå og at rutiner og saksbehandlingskrav ikke må medføre at prosessen blir unødvendig omfattende. Det er derfor viktig at rutinene utformes slik at de er tilstrekkelig fleksible til å passe for saker av ulik karakter og alvorlighetsgrad.
 
-Utgangspunktet i et entrepriseforhold er gjerne at en underentreprenør bringer med seg sine egne arbeidstakere for
-å utføre et arbeid på oppdrag fra en oppdragsgiver. Underentreprenøren har ansvaret for resultatet av det arbeidet
-som utføres. Se Prop. 74 L (2011–2012) s. 26.
-19
-Nergaard (2016).
-20
-Nergaard (2017).
-21
-Alsos, Jesnes, Sletvold Øistad og Nesheim (2017) s. 7–9.
+På denne bakgrunnen mener *utvalget* at det i dagens generelt formulerte krav i § 2 A-3 femte ledd bokstav b, om at rutinene skal angi arbeidsgivers «fremgangsmåte for mottak, behandling og oppfølging av varsling», bør presiseres at rutinene skal inneholde krav til arbeidsgivers saksbehandling.
 
-153
+Det kan i tillegg presiseres i forarbeidene hva varslingsrutinene mer konkret bør inneholde, men det bør fortsatt være slik at den enkelte virksomhet kan tilpasse innholdet i varslingsrutinene til behovet i egen virksomhet. Det må være et minstekrav at rutinene omtaler at arbeidsgiver innen rimelig tid skal sørge for at varselet blir tilstrekkelig undersøkt og undergitt en habil vurdering, jf. også *utvalgets* forslag til aktivitetsplikt i punkt 10.9 over.
 
-Kapittel 10
+Krav om jevnlig evaluering av virksomhetens varslingsrutiner
 
-arbeidstakere som utfører arbeid hos en oppdragsgiver gjennom et entrepriseforhold. Hva
-som er en entreprise er ikke lovregulert, og grensedragningen mellom tilknytningsformene entreprise og innleie kan være vanskelig, og hvor det
-avgjørende vil være hvem av partene som har
-ansvaret for ledelsen og resultatet av det arbeidet
-som utføres.22
-Varslingsutvalget mener at det kan være grunn
-til å vurdere å utvide varslingsbestemmelsene til
-også å gjelde ved entreprise og til eventuelle
-andre grupper som har en nær tilknytning til virksomheten de utfører arbeid i, herunder selvstendige. Etter arbeidsmiljøloven § 2-2 er arbeidsgiver
-pålagt visse plikter overfor disse persongruppene
-som ikke er egne ansatte. Dette vil for eksempel
-kunne gjelde personer som utfører renhold, vakttjeneste eller kantinedrift, som i mange tilfeller
-arbeider skulder ved skulder med virksomhetens
-egne ansatte, men som har sitt ansettelsesforhold
-i en annen virksomhet. Mange av de samme argumentene som tilsa å innlemme innleide arbeidstakere i varslingsreglene gjør seg også gjeldende
-for disse gruppene, se Prop. 72 L (2016–2017)
-side 17.
-Disse persongruppene vil på grunn av sin
-nære tilknytning til virksomheten, i likhet med
-virksomhetens egne arbeidstakere, kunne være i
-posisjon til å oppdage kritikkverdige forhold der
-de utfører arbeid eller har oppdrag. Allmennhetens interesse i at alle kritikkverdige forhold blir
-avdekket, kan dermed tale for at også disse gruppene bør ha et tilsvarende varslervern som virksomhetens ordinære arbeidstakere og innleide.
-Personer som utfører arbeid, men som ikke
-omfattes av de særskilte varslingsreglene i
-arbeidsmiljøloven kapittel 2 A i virksomheten der
-arbeidet eller oppdraget utføres, kan oppleve det
-som vanskelig eller uhensiktsmessig å varsle om
-kritikkverdige forhold. Også disse gruppene kan
-være utsatt for gjengjeldelse ved varsling. Gjengjeldelse kan for eksempel bestå i alt fra negative
-uformelle reaksjoner til manglende fornyelse av
-kontrakter, manglende referanser mv.
-En viktig begrunnelse for å inkludere innleide
-arbeidstakere i virkeområdet til varslingsreglene
-var at innleide arbeidstakere utfører arbeid i innleievirksomheten, under innleievirksomhetens
-ledelse og kontroll. I forarbeidene vises det til at
-innleide arbeidstakere kan utsettes for mange av
-de samme gjengjeldelseshandlingene som fast
-ansatte arbeidstakere.23 Dette vil ikke på samme
-22
-23
+I henhold til arbeidsmiljøloven § 2 A-3 tredje ledd skal varslingsrutiner utarbeides i samarbeid med arbeidstakerne og deres tillitsvalgte. I forarbeidene til bestemmelsen er det vist til at arbeidstakermedvirkning er viktig og at forskning viser at medvirkning fra de ansatte i utarbeidelse av rutinene har betydning for arbeidstakernes tillit til rutinene.[^464]
 
-Rt-2013-998 (Statoil).
-Prop. 72 L (2016–2017) s. 17.
+En varslingsrutine vil ha begrenset verdi dersom den ikke er kjent blant de ansatte og reelt implementert i virksomheten. Det hjelper ikke å ha rutiner dersom de ligger bortgjemt i en skuff og ikke anvendes eller «øves» på. Etter § 2 A-3 skal arbeidsgiver sørger for at rutinene er tilgjengelige slik at de ansatte ved behov lett kan finne frem til rutinene, for eksempel ved at rutinene legges ut på virksomhetens nettsider, intranettet eller andre elektroniske løsninger. *Utvalget* vil understreke at det både er viktig at varslingsrutiner er godt kjent, slik at de blir anvendt når de trengs og at de blir et levende verktøy i virksomheten. *Utvalget* vil derfor foreslå at det innføres et krav om at virksomhetens varslingsrutiner skal evalueres jevnlig. Denne evalueringen bør også foregå i samarbeid med arbeidstakerne og deres tillitsvalgte. Kravet til arbeidstakermedvirkning betyr at arbeidstakerne og deres tillitsvalgte skal medvirke i arbeidet med en evaluering av erfaringene med hvordan rutinene har fungert og behovet for justeringer eller endringer. Det er likevel arbeidsgiver som har ansvar for å fastsette endringer i rutinene.
+
+*Utvalget* har vurdert om det burde stilles krav om at rutinene skal evalueres minst en gang per år. *Utvalget* er imidlertid opptatt av at plikten til å evaluere ikke gjennomføres som ren rutine, uten noe egentlig innhold. Det er derfor mer hensiktsmessig med en regel om at rutinene skal evalueres jevnlig, slik at dette kan skje ved behov og i tråd med hva som bestemmes i den enkelte rutine. *Utvalget* viser i denne sammenheng også til kapittel 9 om varslingsprosessen, hvor det i den ideelle prosessen pekes på at det i etterkant av en varslingssak bør foretas en evaluering av saken og hvordan den ble håndtert. I en slik sammenheng vil det også være aktuelt å se på varslingsrutinene og vurdere behov for justeringer eller endringer.
+
+Arbeidstilsynet fører tilsyn med at virksomheten oppfyller kravene til varslingsrutiner. Tilsynskompetansen vil naturlig også omfatte en slik plikt til evaluering som foreslås her, og kan være en ny inngang til en god dialog med virksomhetene. Arbeidsmiljøloven har flere slike bestemmelser om jevnlig evaluering av ulike plikter og tiltak, jf. for eksempel arbeidsmiljøloven § 9-2 tredje ledd, som også Arbeidstilsynet fører tilsyn med.
+
+Tydeligere kobling av krav om varslingsrutiner og virksomhetens systematiske HMS-arbeid
+
+Plikten til å utarbeide varslingsrutiner er knyttet til virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid (internkontroll) etter reglene i arbeidsmiljøloven kapittel 3, jf. arbeidsmiljøloven § 2 A-3 første ledd. Kravene til internkontroll er nærmere regulert i internkontrollforskriften.[^465] Som nevnt i kapittel 1 har utvalget hatt et møte med Arbeidstilsynets direktør, der blant annet spørsmålet om en tydeligere kobling mellom disse to regelsettene ble drøftet.
+
+Helse-, miljø- og sikkerhetsarbeid er i likhet med behandling av varslingssaker, en dynamisk prosess som har til formål å sikre et godt arbeidsmiljø for varsleren og de øvrige berørte i virksomheten, gjennom bevissthet om de konkrete risikoforhold, herunder varslerens sårbarhet i situasjonen. Internkontrollforskriften har regler som skal sikre tilstrekkelige rutiner for å oppdage mangler, risiko mv. knyttet til helse, miljø og sikkerhet på arbeidsplassen. Dette kan ses i sammenheng med kravet til varslingsrutiner som skal utarbeides etter § 2 A-3. Alle virksomheter skal ha et internkontrollsystem, og internkontrollforskriften er en forskrift som er godt kjent og som brukes i virksomhetene. Etter Arbeidstilsynets oppfatning vil en integrering av varsling i internkontrollsystemet, gjerne kombinert med en plikt til spesifikk regulering i internkontrollforskriften som omhandler varsling, kunne fungere som en «brekkstang» for de ansatte og arbeidsgiver til å sette spørsmålet om varsling og varslingsrutiner på dagsorden. En kobling til internkontrollforskriften vil medføre at det kan spille mindre rolle om en kritisk ytring vurderes som varsling eller melding om et avvik, ettersom virksomhetene i større grad allerede vil ha på plass systemer og rutiner for å forstå hvordan et kritikkverdig forhold skal håndteres. En slik løsning vil sikre skriftlighet og at rutiner og risikovurdering med hensyn til varsling kan dokumenteres ved tilsyn. Den vil også bli omfattet av Arbeidstilsynets tilsyn med internkontrollforskriften og virksomhetenes systematiske HMS-arbeid for øvrig.
+
+*Utvalget* mener på denne bakgrunn at det kan være fornuftig å vurdere en slik kobling som Arbeidstilsynet tar til orde for. Det legges til grunn at dette kan bidra til at varslingssaker løses på et lavest mulig nivå og til at rutiner og saksbehandlingskrav ikke må medføre at prosessen blir stor og omfattende i de mange tilfellene det ikke er nødvendig.
+
+Arbeidstakers medvirkningsplikt
+
+*Varslingsutvalget* har vurdert et forslag om å presisere i lovteksten at varsling om kritikkverdige forhold skal være en del av arbeidstakers medvirkningsplikt etter arbeidsmiljøloven. En slik regel kan ses på som en videreføring og presisering av medvirkningsplikten som arbeidstaker allerede har i dag, til blant annet å melde fra om alvorlige feil og mangler på arbeidsplassen, om trakassering og om skader eller sykdom på grunn av forhold på arbeidsplassen, jf. arbeidsmiljøloven § 2-3 andre ledd. [^466]
+
+*Utvalget* mener at det kan være unødvendig krevende for arbeidstakerne med en ytterligere handlingsplikt på dette området. Den enkelte arbeidstaker må selv kunne vurdere om man ønsker å påpeke eventuelle kritikkverdige forhold. Det vil også være stor usikkerhet knyttet til hvordan man i praksis skal håndtere en slik regel, og hva slags sanksjoner overtredelser skulle føre til.
+
+Etiske retningslinjer i den enkelte virksomhet kan også omfatte en oppfordring eller plikt til å varsle om nærmere angitte forhold. *Utvalget* ønsker imidlertid ikke å foreslå en rettsliggjøring av en slik mer etisk dimensjonert handlingsplikt for arbeidstaker.
+
+Formkrav til varselet
+
+Det gjelder ikke i dag noe formkrav til et varsel, se kapittel 4. Et varsel kan være både muntlig og skriftlig, og loven stiller ikke krav om at det må angis at det er et varsel. Et viktig hensyn bak dette er at formkrav ikke skal legge begrensninger på ytringsfriheten og retten til å varsle. Det kan også ofte være slik at varslingsprosesser utvikler seg over tid og at noe som starter som en kritisk ytring i en ordinær diskusjon, etter hvert utvikler seg til en varslingssak. Arbeidstaker skal være vernet mot gjengjeldelse ved varsel om kritikkverdige forhold i virksomheten, uavhengig av om arbeidstaker aktivt og uttalt påtar seg en rolle som varsler eller ikke.
+
+*Utvalget* ønsker likevel å understreke viktigheten av at det er en viss notoritet i varslingsprosessen. Det kan være behov for klarhet for både varsleren og virksomheten om en person ønsker at den kritiske ytringen skal behandles som et varsel i henhold til virksomhetens varslingsrutiner, og også den mulige eksponering det kan medføre å bli oppfattet som en varsler. Varslingsprosessen innebærer, og det vil etter utvalgets forslag i dette kapitlet bli tydeliggjort, at det fra det tidspunktet det varsles, inntre visse plikter for den som mottar varselet og et forbud mot gjengjeldelse mot den som har varslet, se blant annet forslag om aktivitetsplikt for arbeidsgiver foran i punkt 10.9.
+
+De nye minstekravene til varslingsrutiner som ble satt i kraft fra 1. juli 2017, inneholder blant annet krav om at rutinene skal angi hvem det kan varsles til og hvordan det kan varsles. Dersom virksomheten har stilt krav til en bestemt form og fremgangsmåte for varsling, eksempelvis krav om skriftlighet eller varsling via elektronisk varslingssystem, skal dette i tilfelle fremgå av rutinene. Lovreguleringen er lagt opp slik at hver virksomhet kan finne sin egen «oppskrift» på hva som er en hensiktsmessig fremgangsmåte for varsling hos dem. *Utvalget* legger til grunn at det ikke er behov for å foreslå noen ny bestemmelse om formkrav, men vil vise til og understreke viktigheten av de kravene som allerede gjelder. Samtidig ønsker *utvalget* å understreke at varslingsrutinene ikke skal begrense arbeidstakers rett til å varsle, jf. § 2 A-3 fjerde ledd.
+
+Skisse til lovtekst
+
+*Utvalget* har utarbeidet følgende skisse til lovtekst for forslagene til endringer i reglene om varslingsrutiner:
+
+*§ 2 A-3. Plikt til å utarbeide rutiner for intern varsling*
+
+\(1\) …
+
+\(2\) …
+
+\(3\) Rutinene skal utarbeides *og evalueres jevnlig* i samarbeid med arbeidstakerne og deres tillitsvalgte.
+
+\(4\) …
+
+\(5\) Rutinene skal være skriftlige og minst inneholde:
+
+a\) …
+
+b\) …
+
+c\) fremgangsmåte for *arbeidsgivers saksbehandling ved* mottak, behandling og oppfølging av varsling.
+
+\(6\) …
+
+1.  **Anonym varsling og konfidensialitet om varslerens identitet**
+
+    1.  **Gjeldende rett**
+
+Mange varslere ønsker å kunne varsle anonymt. Anonym varsling innebærer at arbeidstakers identitet forblir ukjent for alle, inkludert varslingsmottaker. Selv om reglene om varsling i arbeidsmiljøloven kapittel 2 A ikke har bestemmelser om anonym varsling, er det likevel ingenting i veien for at arbeidstaker varsler anonymt. Det er ikke et krav etter gjeldende varslingsregler at en varslingsrutine skal inneholde en ordning for anonym varsling. Arbeidsgiver bestemmer selv om det er ønskelig å legge til rette for anonym varsling i virksomheten eller ikke.
+
+Behovet for anonymitet kan langt på vei reduseres gjennom god ivaretakelse av krav til konfidensialitet om varslerens identitet. Konfidensialitet innebærer at varslingsmottaker skal behandle et mottatt varsel, så langt det er mulig, uten å røpe varslerens identitet til andre enn de som har behov for eller rett til slik kunnskap. En slik konfidensialitetsplikt følger av personopplysningsloven.
+
+Konfidensialitet kan også ivaretas ved bruk av en ekstern varslingsordning, der eksterne varslingsmottakere plikter å bevare arbeidstakers konfidensialitet så langt det er mulig, også overfor arbeidsgiver, og selv rapportere de kritikkverdige forholdene og sin anbefaling om håndtering av varselet, direkte til for eksempel selskapets styre eller daglig leder.
+
+Offentlige myndigheter har taushetsplikt om varslerens identitet hvis de mottar varsler om kritikkverdige forhold, jf. arbeidsmiljøloven § 2 A-4. Arbeidstilsynet har en tilsvarende plikt overfor alle som melder fra om forhold som er i strid med arbeidsmiljøloven, jf. arbeidsmiljøloven § 18-2. Se nærmere om gjeldende rett i punkt 4.2.6.
+
+I offentlige virksomheter der forvaltningsloven gjelder, vil den det varsles om i mange tilfeller være part og dermed ha rett til å gjøre seg kjent med saken etter innsynsreglene i forvaltningsloven §§ 18 og 19.[^467] Disse åpner imidlertid for at det kan gjøres unntak fra partsinnsyn for enkelte opplysninger. Praktisk i varslingssaker er § 19 andre ledd, bokstav b) som gir anledning til å unnta fra partsinnsyn opplysninger «som av særlige grunner ikke bør meddeles videre», forutsatt at det ikke er av «vesentlig betydning» for partene å gjøre seg kjent med opplysningene.
+
+1.  **Internasjonale anbefalinger og andre lands rett**
+
+Europarådets rekommandasjon har et punkt om konfidensialitet, der det går frem at «Whistleblowers should be entitled to have the confidentiality of their identity maintained, subject to fair trial guarantees.»[^468]
+
+I Europa, særlig på bakgrunn av historiske erfaringer, har mange land tradisjonelt vært skeptiske til å etablere det som oppfattes som interne anklagesystemer. Holdningen i mange land har vært at en varsler må gi seg tilkjenne for at varselet skal kunne bli tatt alvorlig. Det er likevel stadig flere myndigheter som krever at varslere også skal kunne rapportere anonymt om straffbare forhold. I flere land, som for eksempel Tyskland, Nederland og Ungarn, er det innført elektroniske mottakersystemer som skal sikre varslerens anonymitet.[^469]
+
+Erfaringene med de store varslersakene i USA har vist hvilken risiko arbeidstakere kan utsette seg for ved varsling, når de utfordrer sterke interesser og maktstrukturer. Plikten til å etablere varslingsordninger hvor arbeidstaker kan velge å opptre anonymt er derfor i USA, på bakgrunn av disse erfaringene, ansett som avgjørende for å senke terskelen for å varsle. I USA er plikten til å etablere en anonym varslingskanal for økonomisk kriminalitet sentral etter den amerikanske børsloven, Sarbanes-Oxley Act 2002 (SOX). Norske selskaper som er omfattet av SOX fordi de er registrert på amerikansk børs, er forpliktet etter amerikansk rett til å etablere rutiner som tilfredsstiller kravene i SOX.[^470]
+
+1.  **Utvalgets vurdering**
+
+Det å stå åpent frem med kritikk mot ansatte eller kolleger i virksomheten der en arbeider, kan være en belastning som en del arbeidstakere ikke ønsker å ta. Frykten for gjengjeldelser fra arbeidsgiver eller negative reaksjoner fra kolleger kan gjøre at arbeidstakere kan kvie seg ytterligere. *Varslingsutvalget* vil understreke at en god åpenhets- og ytringskultur er det viktigste virkemidlet for å få frem de kritikkverdige forholdene, som samtidig vil redusere behovet for å kunne varsle anonymt.
+
+En mulighet for å varsle anonymt vil i noen tilfeller kunne være avgjørende for at det i det hele tatt varsles om det kritikkverdige forholdet. Det kan bidra til å senke terskelen for å si fra og vil på den måten kunne bidra til at flere kritikkverdige forhold kan avdekkes ved varsling. Se også omtale av forskning i punkt 7.3 og det generelle utfordringsbildet i punkt 9.6.1.
+
+I Norge har vi, som resten av Europa, liten tradisjon for anonym varsling som virkemiddel for å få arbeidstakere til å varsle om kritikkverdige forhold på arbeidsplassen.
+
+Innføring av en rett til å være anonym vil reise en rekke problemstillinger:
+
+- Det vil ikke alltid være praktisk mulig at varsleren forblir anonym. Selv om det er varslet anonymt, kan ledelse og kolleger ut fra sammenhengen likevel forstå hvem det er som kan ha sagt fra. Mange virksomheter vil også være relativt «gjennomsiktige» fordi de har få ansatte.[^471] En rett til anonym varsling vil i slike tilfeller kunne ha begrenset verdi.
+
+- Dersom det ikke legges til rette for sikker kommunikasjon med den anonyme varsleren, vil anonym varsling kunne gjøre det vanskeligere å undersøke det kritikkverdige forholdet det er meldt fra om.
+
+- Det kan også være en fare for at anonymitet kan åpne for sladder og stimulere til en negativ «angiverkultur» ved at terskelen for å si fra blir for lav. Anonymitet vil i mindre grad ansvarliggjøre den som står bak varslingen. Varsling som er trakasserende i sitt innhold, kan bli vanskeligere å unngå.
+
+*Utvalget* ønsker ikke å foreslå en rett til å kunne varsle anonymt der arbeidsgiver pålegges å tilrettelegge for sikre anonyme varslingsordninger. *Utvalget* har stor forståelse for at dette i mange tilfeller kan være ønskelig og til en viss grad også kan bidra til at flere varsler, særlig om kritikkverdige forhold der ledelsen er involvert eller der det dreier seg om straffbare forhold som korrupsjon og annen økonomisk kriminalitet. Likevel mener *utvalget* at ulempene og begrensningene med anonym varsling veier tyngre.
+
+Som et alternativ har *utvalget* drøftet om det i stedet kan tenkes å ha en egenverdi å presisere i loven at det er mulig å varsle anonymt, og om man av opplysningshensyn bør ta inn i regelverket en henvisning til personopplysningslovens regler om konfidensialitet. Det kan være viktig at arbeidsgiver er oppmerksom på at brudd på personopplysningsloven kan medføre høye overtredelsesgebyr, og etter den nye lovgivningen som skal settes i kraft fra mai 2018, vil nivået på overtredelsesgebyrene økes vesentlig.[^472] *Utvalge*t vil imidlertid oppfordre lovgiver til å se nærmere på disse problemstillingene når det er tilstrekkelig klarlagt hvilken betydning de nye personvernreglene vil komme til å få i forbindelse med varsling.
+
+Virksomhetenes varslingsrutiner bør inneholde informasjon om en eventuell mulighet og prosedyre for anonym varsling. Det vil imidlertid alltid være viktig at arbeidstakerne gjøres kjent med dilemmaene knyttet til anonym varsling. I en rutine kan det både informeres om utfordringene knyttet til anonym varsling, samtidig som det understrekes hvilke krav som gjelder til konfidensialitet for arbeidsgivers behandling av personopplysninger.
+
+Det finnes eksempler på virksomheter, kommuner og statlige etater som benytter elektroniske mottakersystemer der arbeidsgiver kan kommunisere med anonyme varslere gjennom systemet uten at varsler avslører sin identitet for arbeidsgiver. Da vil arbeidsgiver ha mulighet for å opplyse saken nærmere selv om varsleren er anonym. Flere store mediehus har også etablert muligheter til å kommunisere med varslere via krypterte løsninger.[^473]
+
+*Utvalget* har vurdert om det bør lovfestes et forbud mot at arbeidsgiver eller offentlig myndighet setter i verk tiltak for å finne ut hvem som har varslet i tilfeller der det er varslet anonymt. Dette kan umiddelbart virke fornuftig, men vil samtidig reise noen vanskelige problemstillinger: Hva vil være et forbudt eller lovlig tiltak, hva hvis det er grunn til å anta at det er begått ulovlige handlinger mv. *Utvalget* mener det er viktig at anonyme varslere ivaretas med hensyn til kartlegging av hvem som står bak varslingen. Selv om en slik kartlegging eller etterforskning ikke omfattes direkte av lovens gjengjeldelsesbegrep, vil slik etterforskning indirekte kunne rammes av forbudet mot gjengjeldelse dersom den fører til reaksjoner mot varsleren. Det vises også til *utvalgets* forslag om en aktivitetsplikt, herunder en omsorgsplikt, som blant annet innebærer at arbeidsgiver skal iverksette tiltak som er egnet til å motvirke gjengjeldelse, se nærmere punkt 10.9.2.
+
+Spørsmålet om å foreslå et etterforskningsforbud, vil kreve en bredere utredning enn det *utvalget* har hatt mulighet for innenfor sin ramme. Spørsmålet kan i tilfelle også ses i sammenheng med at offentlige myndigheters taushetsplikt om varslerens identitet etter arbeidsmiljøloven § 2 A-4, kun gjelder under den forvaltningsmessige behandlingen av saken. Ved senere sivil tvist eller straffesak vil spørsmålet om taushetsplikt for opplysninger om varslerens identitet bli vurdert etter reglene i prosesslovgivningen. *Utvalget* har ikke drøftet nærmere forholdet mellom taushetsplikten for offentlige myndigheter i § 2 A-4 og begrensningene i forklaringsplikten i straffeprosessloven § 118 og tvisteloven § 22-3. *Utvalget* mener at dette er et spørsmål som bør klargjøres i det videre lovarbeidet.
+
+*Varslingsutvalgets medlem Jensen* har følgende særmerknad: *Dette medlemmet* mener det bør tydeliggjøres at taushetsplikten etter dagens arbeidsmiljølov § 2 A-4 også omfattes av fritaket for forklaringsplikt i straffeprosessloven § 118 og tvisteloven § 22-3. Dette fremstår som den mest naturlige tolkning av dagens rettstilstand og det bør være tilstrekkelig å understreke poenget i lovforarbeidene.
+
+*Dette medlemmet* mener også det bør innføres et forbud mot at arbeidsgiver iverksetter tiltak for å avdekke identiteten til varslere som har krav på beskyttelse av sin identitet gjennom taushetsplikten i arbeidsmiljøloven § 2 A-4. Det fremstår som ulogisk at arbeidsgiver skal kunne drive etterforskning for å finne ut hvem som har varslet om et potensielt kritikkverdig forhold, samtidig som ansatte i den etaten det er varslet til har lovpålagt taushetsplikt om den samme varslerens identitet. *Dette medlemmet* er ikke enig at slikt forbud krever «en bredere utredning enn det utvalget har hatt mulighet for innenfor sin ramme», slik flertallet har konkludert. Tvert imot mener *dette medlemmet* at utfordringen kan løses med et enkelt tillegg, i form av et nytt tredje ledd i arbeidsmiljøloven § 2 A-4, for eksempel slik:
+
+*(3) Ved varsel som utløser taushetsplikt etter denne paragrafen, er det ikke tillatt for arbeidsgiver å iverksette tiltak for å avdekke varslerens identitet.*
+
+1.  **Forbud mot gjengjeldelse og delt bevisbyrde**
+
+    1.  **Gjeldende rett**
+
+*Forbud mot gjengjeldelse*
+
+Gjengjeldelse mot arbeidstaker som har varslet i samsvar med § 2 A-1 er forbudt, jf. arbeidsmiljøloven § 2 A-2 første ledd første punktum. Overfor innleid arbeidstaker gjelder forbudet både for arbeidsgiver og innleier, jf. første ledd andre punktum. Brudd på gjengjeldelsesforbudet gir grunnlag for oppreisning og erstatning.
+
+Ifølge lovens forarbeider skal begrepet «gjengjeldelse» forstås vidt, og i utgangspunktet omfatte «enhver ugunstig behandling som kan ses som en følge av og en reaksjon på varsling».[^474] Forbudet gjelder formelle sanksjoner som oppsigelse, suspensjon og avskjed, samt ordensstraff hjemlet i statsansatteloven. Forbudet gjelder også mer uformelle sanksjoner som for eksempel endringer i arbeidsoppgaver og interne overføringer.
+
+Forbudet mot gjengjeldelse supplerer og er delvis overlappende med stillingsvernsregler i arbeidsmiljøloven og statsansatteloven og forbudet mot trakassering i arbeidsmiljøloven. Gjengjeldelsesforbudet setter krav til arbeidsgivers utøvelse av styringsretten, men er også en understrekning av arbeidsgivers plikt til å sikre et fullt forsvarlig arbeidsmiljø i virksomheten og hindre at arbeidstakere blir utsatt for psykososiale belastninger, jf. arbeidsmiljøloven §§ 4-1 og 4-3. Dette ansvaret omfatter en plikt til å forebygge og håndtere konflikt i virksomheten. Til dette kommer også arbeidsgivers ulovfestede omsorgsplikt for sine arbeidstakere. En som varsler kommer lett i en sårbar posisjon. Det må arbeidsgiver være klar over og ta hensyn til.
+
+Se nærmere om gjeldende rett i punkt 4.2.4.
+
+Delt bevisbyrde
+
+Det kan i praksis være vanskelig for en arbeidstaker å dokumentere at en gjengjeldelseshandling faktisk har funnet sted, og at det foreligger årsakssammenheng mellom varslingen og den påståtte gjengjeldelsen. Dette er et krevende bevistema, og for å styrke arbeidstakers vern i forbindelse med varsling, gjelder det en særskilt regel om delt bevisbyrde i slike saker, jf. § 2 A-2 første ledd andre punktum.
+
+Regelen innebærer at selve bevisvurderingen er todelt. For det første må arbeidstaker legge frem «opplysninger som gir grunn til å tro» at gjengjeldelse har funnet sted. Forarbeidene presiserer at det ikke skal stilles for strenge beviskrav. Normalt vil det være tilstrekkelig at arbeidstaker kan vise at han eller hun har varslet, og at oppsigelse eller annen ugunstig reaksjon fra arbeidsgiver kom tett på varslingen i tid. Deretter går ansvaret for bevisføringen over til arbeidsgiver, som må sannsynliggjøre at reaksjonen ikke var gjengjeldelse i strid med loven, men begrunnet i andre saklige forhold. Se mer om gjeldende rett i punkt 4.2.4.
+
+1.  **Erfaringer med reglene**
+
+Gjennomgang og analyse av rettspraksis, redegjort for av Arntzen de Besche, og senere gjennomgang av rettspraksis, gir et hovedinntrykk av at domstolene har fulgt opp intensjonene i forarbeidene om at gjengjeldelsesforbudet gjelder for gjengjeldelse i vid forstand.[^475] Det er få eksempler der domstolene har avvist en påstand om gjengjeldelse fordi behandlingen etter sin art ikke faller inn under lovens gjengjeldelsesbegrep.
+
+Det er få rettsavgjørelser som bidrar til forståelsen av reglene om delt bevisbyrde, og det er derfor vanskelig å trekke sikre slutninger om reglene om delt bevisbyrde har fungert etter sin hensikt.[^476]
+
+Innspill som utvalget har fått gjennom sin kunnskapsinnhenting gir inntrykk av at kravet om å sannsynliggjøre at det har funnet sted gjengjeldelse, praktiseres for strengt i enkelte tilfeller. En grunn til dette kan være at det ofte er en vanskelig bevissituasjon i gjengjeldelsessaker. Det kan dreie seg om uformelle og mer eller mindre subtile måter å gjengjelde på, som generelt kan være vanskelig å dokumentere eller sannsynliggjøre i etterkant. Gjengjeldelsen kan ha skjedd over tid og må i tilfelle vurderes samlet. Det er avgjørende at domstolen har tilstrekkelig kunnskap om varsling som fenomen og prosess, slik at vurderingen av om det er skjedd gjengjeldelse blir foretatt i riktig kontekst.
+
+1.  **Utvalgets vurdering og forslag**
+
+*Varslingsutvalget* mener at begrepet «gjengjeldelse» bør beholdes i lovteksten. *Utvalget* mener samtidig at innholdet i forbudet mot gjengjeldelse kan gjøres mer forståelig ved at eksempler på hva som kan anses som gjengjeldelse etter gjeldende rett tas inn i selve lovteksten. En slik eksemplifisering vil også kunne gi en viss veiledning for arbeidsgivere som er usikre på grensen for saklig utøvelse av styringsretten i situasjoner der en arbeidstaker har varslet om et kritikkverdig forhold i virksomheten.
+
+Det som i praksis synes å være det avgjørende for om det legges til grunn at det har skjedd gjengjeldelse eller ikke, er spørsmålet om årsakssammenheng og bevissituasjonen, altså om det kan sannsynliggjøres at den negative behandlingen har vært en reaksjon på varslingen eller ikke. Det er arbeidsgiver som har best tilgang til virksomhetsrelaterte opplysninger og som dermed vil ha best grunnlag for å føre bevis som kan sannsynliggjøre at den påståtte gjengjeldelsen skyldes andre saklige forhold. *Utvalget* mener derfor at regelen om delt bevisbyrde bør videreføres.
+
+Nedenfor har *utvalget* utarbeidet en skisse til lovtekst som følger opp de vurderingene *utvalget* har gjort ovenfor. Forslaget utgjør ingen endring i gjeldende rett. Opplistingen er ikke uttømmende.
+
+Skisse til lovtekst
+
+*§ 2 A-X. Forbud mot gjengjeldelse*
+
+*Det er forbudt å gjengjelde en arbeidstaker som varsler. Det samme gjelder medvirkning til og instruks om gjengjeldelse.*
+
+*Med gjengjeldelse menes enhver ugunstig handling, praksis eller unnlatelse som kan ses som en følge av eller en reaksjon på varslingen, for eksempel:*
+
+*a) formelle sanksjoner som advarsel, suspensjon, oppsigelse, avskjed, ordensstraff og tilrettevisning,*
+
+*b) uformelle sanksjoner som endring i arbeidsoppgaver, intern overføring og degradering,*
+
+*c) trusler, trakassering, usaklig forskjellsbehandling, sosial ekskludering og annen utilbørlig opptreden.*
+
+*Forbudet gjelder for arbeidsgiver og innleier, og den som leder virksomheten i arbeidsgivers eller innleiers sted.*
+
+*§ 2 A-X. Delt bevisbyrde*
+
+*Dersom arbeidstaker legger frem opplysninger som gir grunn til å tro at det har funnet sted gjengjeldelse, må arbeidsgiver sannsynliggjøre at det likevel ikke har funnet sted slik gjengjeldelse.*
+
+1.  **Oppreisning og erstatning ved gjengjeldelse**
+
+    1.  **Gjeldende rett**
+
+Objektivt erstatningsansvar for ikke-økonomisk tap (oppreisning)
+
+Arbeidstaker som er utsatt for gjengjeldelse kan kreve oppreisning uten hensyn til skyld hos arbeidsgiver eller innleier, jf. arbeidsmiljøloven § 2 A-2 tredje ledd. Bestemmelsen hjemler et objektivt erstatningsansvar for ikke-økonomisk tap ved brudd på gjengjeldelsesforbudet.
+
+Oppreisningen skal utmåles skjønnsmessig under hensyn til partenes forhold og omstendighetene for øvrig. Forarbeidene presiserer at det blant annet skal legges vekt på arten og alvorlighetsgraden av gjengjeldelsen.[^477] Rettspraksis knyttet til erstatning og oppreisning for usaklig oppsigelse etter § 15-12 andre ledd vil kunne gi en viss veiledning.[^478]
+
+Erstatningsansvar for økonomisk tap (erstatning)
+
+Etter gjeldende rett kan den som har blitt utsatt for gjengjeldelse kreve erstatning for økonomisk tap etter vanlige erstatningsregler, jf. arbeidsmiljøloven § 2 A-2 tredje ledd. Det betyr at de alminnelige vilkårene for erstatningsansvar må være oppfylt: ansvarsgrunnlag (skyld) og årsakssammenheng mellom den skadevoldende handlingen (gjengjeldelsen) og det økonomiske tapet. Bestemmelsen om erstatning er utformet etter mønster av den tidligere bestemmelsen i arbeidsmiljøloven § 13-9, som bygget på et tilsvarende skille mellom økonomisk tap og oppreisning ved diskriminering i strid med arbeidsmiljøloven kapittel 13.[^479]
+
+Bestemmelsen vil i prinsippet også gjelde stillingsvernstvister som behandles etter reglene i arbeidsmiljøloven kapittel 15 og 17, dersom gjengjeldelsen har skjedd i form av oppsigelse, avskjed, suspensjon mv. I disse tilfellene vil imidlertid arbeidstaker også ha rett til erstatning etter § 15-12 andre ledd, § 15-13 fjerde ledd eller § 15-14 fjerde ledd.[^480]
+
+1.  **Erfaringer med reglene**
+
+Det foreligger ikke høyesterettspraksis om oppreisningserstatning etter arbeidsmiljølovens regler om gjengjeldelse etter varsling. Fra underinstansene er det også et begrenset antall saker der det har blitt utmålt oppreisning på dette grunnlaget, se punkt 4.11 og 7.2.[^481] Sammenlignet med nivået på oppreisning tilkjent i oppsigelsessaker og diskrimineringssaker, er nivået i gjengjeldelsessaker generelt noe lavere.
+
+I en dom fra Borgarting lagmannsrett fra 2009 ble det idømt 100 000 kroner i oppreisningserstatning og gitt erstatning for inntektstap.[^482] Det ble ikke gitt erstatning for fremtidig inntektstap. Under utmålingen av oppreisningen la lagmannsretten vekt på at massiv og gjentatt trakassering hadde utgjort en meget stor belastning og at arbeidsforholdene førte til langvarig sykmelding og fravær fra arbeidslivet. Fra dommen siteres:
+
+For det tredje har A krevd erstatning for tap i fremtid erverv. Dette er begrunnet i at han ikke vil ha noen fremtid i NDT-bransjen, og at han kan ha behov for omskolering. A har anført at beløpet må fastsettes skjønnsmessig, og at en slik erstatning må begrenses oppad til en to-års periode. Lagmannsretten finner ikke å kunne etterkomme dette kravet. A er fortsatt formelt ansatt i X, men det fremstår som mest sannsynlig at han ikke vil kunne gå tilbake til noen jobb i X. A mottar i dag ifølge han selv rehabiliteringspenger. Det er også usikkert om A ikke lenger vil ha noen fremtid i NDT-bransjen når man ser hen til lagmannsrettens resultat i denne saken. Endelig har A en tapsbegrensningsplikt. På denne bakgrunn tas ikke kravet om erstatning for fremtidig erverv til følge.
+
+\[…\]
+
+Oppreisningen fastsettes til det beløp som retten finner rimelig under hensyn til partenes forhold og omstendighetene for øvrig, jf. arbeidsmiljøloven § 2-5 tredje ledd andre punktum. Det fremgår av forarbeidene at dette skal fortolkes på samme måte som den tilsvarende regelen i § 13-9, se Ot.prp. nr. 84 (2005–2006) side 53. Her skal det blant annet legges vekt på arten og alvorlighetsgraden av den ulovlige gjengjeldelsen, og også forhold på arbeidstakerens side vil kunne trekkes inn. Det skal ikke tas hensyn til eventuelt økonomisk tap. Praksis knyttet til § 15-2 andre ledd vil også kunne gi en viss veiledning ved erstatningsutmålingen.
+
+Lagmannsretten kan ikke se at det foreligger høyesterettspraksis eller relevant underrettspraksis om oppreisning etter arbeidsmiljøloven § 2-5 tredje ledd.
+
+Etter lagmannsrettens syn må det tillegges betydning den massive og gjentatte trakassering A har vært utsatt for fra Fs side. Det synes å være på det rene at dette har vært til en meget stor belastning for A, og han har vært utsatt for et sterkt menneskelig press. Forholdene på Oslo-kontoret har også ført til at han i lengre tid har vært sykemeldt. Han er heller ikke i dag tilbake i arbeid. Lagmannsretten er forøvrig enig i at en slik erstatning bør ha et visst pønalt preg.
+
+Oppreisningen må utmåles skjønnsmessig. Lagmannsretten finner at beløpet passende kan fastsettes til 100 000 kroner.
+
+I en dom fra Agder lagmannsrett fra 2009 viste retten til at arbeidsgivers gjengjeldelse i form av utestengelse var hensynsløs og graverende og idømte 150 000 kroner i oppreisningserstatning. Det ble tilkjent erstatning for økonomisk tap med 400 000 kroner.[^483] Fra dommen siteres:
+
+I likhet med tingretten har lagmannsretten kommet til at det foreligger ansvarsgrunnlag for økonomisk tap både på grunn av kommunens gjengjeldelse og på bakgrunn av den ikke formriktige og usaklige oppsigelsen, jf aml § 2-5 tredje ledd, jf § 14-11 andre ledd og § 15-12 andre ledd. Som påstått av A kan erstatning for økonomisk tap passende fastesettes til 400 000 kroner. På bakgrunn av den behandlingen hun har vært utsatt for, er det etter lagmannsrettens oppfatning årsakssammenheng mellom gjengjeldelsen/oppsigelsen og inntektstap i to år. \[…\] Lagmannsretten legger til grunn at hun har gått glipp av ca 250 000 kroner i brutto inntekt hvert år. Til fradrag går mottatte inntekter på ca 75 000 kroner frem til mai 2008 og sykepenger, til sammen ca 100 000 kroner. Dagpenger fra NAV skal ikke trekkes fra, men må håndteres i et etterfølgende oppgjør mellom etaten og A.
+
+Erstatning for ikke økonomisk skade (oppreisning) fastsettes skjønnsmessig under hensyn til partenes forhold og omstendighetene for øvrig. Det skal blant annet legges vekt på arten og alvorlighetsgraden av den ulovlige gjengjeldelsen, jf. Ot.prp. nr.84 (2005–2006) side 53. Lagmannsretten finner kommunens gjengjeldelse i form av utestengelse som hensynsløs og graverende. Ved sin anke har dessuten kommunen bidratt til at saken har trukket i langdrag. Oppreisningsbeløpet kan passende fastsettes i overensstemmelse med påstanden til 150 000 kroner.
+
+1.  **Utvalgets vurdering og forslag**
+
+Innledning
+
+*Varslingsutvalget* foreslår en ny bestemmelse om objektivt ansvar for økonomisk tap ved brudd på forbudet mot gjengjeldelse, utformet etter samme mønster som i diskrimineringslovgivningen. Det innebærer at en arbeidstaker som har blitt utsatt for gjengjeldelse på grunn av varsling kan kreve erstatning uavhengig av arbeidsgivers skyld. *Utvalget* foreslår at retten til erstatning og oppreisning reguleres i en samlet bestemmelse i arbeidsmiljøloven kapittel 2 A, se skisse til lovtekst nedenfor.
+
+Når det gjelder spørsmålet om brudd på arbeidsgivers aktivitetsplikt (omsorgsplikt) overfor varsleren skal kunne gi grunnlag for oppreisning og erstatning har *utvalget* delt seg i et flertall og mindretall. *Utvalgsflertallet* mener at manglende oppfyllelse av aktivitetsplikten overfor varsleren (omsorgsplikten) bør kunne sanksjoneres med erstatning og oppreisning etter alminnelige regler, og foreslår et andre ledd i samlebestemmelsen om erstatning og oppreisning. *Mindretallet* mener at brudd på omsorgsplikten i tilstrekkelig grad fanges opp av forbudet mot gjengjeldelse, som også omfatter unnlatelser. Det å ikke sørge for et fullt forsvarlig arbeidsmiljø, vil kunne sanksjoneres som en gjengjeldelse.
+
+Gjengjeldelse utøves ofte over tid og kan omfatte ulike elementer som ignorering, avvisning og direkte sanksjonering i form av mobbing, trakassering og marginalisering. Omsorgsplikten overfor varsleren vil utløses ved varsel i henhold til varslingsrutiner, eller der arbeidsgiver har grunn til å tro at det er varslet, jf. *utvalgets* forslag til en egen aktivitetspliktsbestemmelse i punkt 10.9.2. Det antas derfor å være mulig å konstatere fra hvilket tidspunkt det foreligger brudd på omsorgsplikten overfor varsleren*. Utvalget* er således av den oppfatning, at brudd på arbeidsgivers omsorgsplikt, også kan inngå som et element ved vurderingen av om det har forekommet gjengjeldelse. Det kan imidlertid ikke utelukkes at brudd på omsorgsplikten i en konkret sak, kan være så alvorlig at det alene er tilstrekkelig til å konstatere brudd på forbudet mot gjengjeldelse. Der hvor arbeidsgiver ikke har oppfylt sin plikt til å implementere interne varslingsrutiner, vil det kunne få betydning for bevisvurderingen i arbeidsgivers disfavør.
+
+Nivået på oppreisning og erstatning for fremtidig inntektstap som tilkjennes i gjengjeldelsessaker etter varsling, er etter *utvalgets* vurdering lavt, og bør heves. Dette må likevel sees i sammenheng med at erstatningsnivået helt generelt er relativt lavt i norsk rett. Se for øvrig drøfting nedenfor.
+
+*Utvalget* mener at det er arbeidsgiver som har størst mulighet for å redusere risikoen for konflikt i forbindelse med varsling. Når domstolen skal ta stilling til nivået på en eventuell oppreisning i en gjengjeldelsessak, bør det være et tungtveiende argument for å la det gå ut over arbeidsgiver hvis virksomheten ikke har gjort tilstrekkelig for å benytte seg av den muligheten. Arbeidsgiver som den sterke part i et arbeidsforhold har et særskilt ansvar for å legge til rette for varsling, sikre håndtering av varselet og ivaretakelse av arbeidstaker som varsler. Etter *utvalgets* mening er arbeidsgivers oppfyllelse av aktivitetsplikten sentral, og må tillegges betydelig vekt ved utmåling av erstatningen.
+
+Etter gjeldende rett må krav om oppreisning for ikke-økonomisk tap og erstatning for økonomisk tap settes frem for domstolene. *Utvalget* har også vurdert om slike krav bør kunne avgjøres administrativt ved nemnd eller lignende, med adgang til å bringe saken inn for domstolene dersom vedtaket ikke aksepteres. Se *utvalgets flertallsforslag* til en egen nemndsløsning i punkt 12.5.7. *Utvalgets mindretall*, mener at slike saker fortsatt utelukkende bør behandles av domstolene, se omtale i samme punkt.
+
+Oppreisning og erstatning ved brudd på omsorgsplikten
+
+*Varslingsutvalget* er som nevnt innledningsvis, delt i synet på om brudd på omsorgsplikten skal kunne gi grunnlag for å reise erstatningssøksmål for domstolene.

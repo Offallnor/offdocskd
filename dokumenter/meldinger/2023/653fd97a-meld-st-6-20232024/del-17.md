@@ -1,1361 +1,154 @@
-# Meld. St. 6 (2023–2024), del 17 av 17 (side 192–206)
+# Meld. St. 6 (2023–2024), del 17 av 18
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2023/653fd97a-meld-st-6-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-6-20232024/id3018556/
 - Original-PDF: https://www.regjeringen.no/contentassets/5d8550e1045d4f8684acdf893bd10b50/no/pdfs/stm202320240006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 21 tabeller, 58 figurer, 843 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 192]
+### Pensjonsmessig uttelling for arbeid
 
-190
+Utformingen av pensjonssystemet er et resultat av en avveining mellom en rekke, dels motstridende, hensyn. Hensynet til god minstesikring må veies opp mot hensynet til at arbeid skal gi uttelling i form av høyere pensjon. Eldre over en viss alder kan ikke forventes å være selvforsørgende gjennom arbeid. Det er derfor i noen grad ikke det samme motsetningsforholdet mellom fordelingshensyn og hensynet til at det skal lønne seg å være i arbeid, som gjør seg gjeldende for andre minsteytelser for arbeidsføre i folketrygden. På den andre siden vil for gunstige minsteytelser svekke uttellingen for arbeid gjennom yrkeslivet. Et sosialt bærekraftig pensjonssystem må ikke bare ha god minstesikring, det må også sikre at de som har vært i arbeid får uttelling for dette i form av høyere pensjon enn de som ikke har vært i arbeid. Dette er viktig både for arbeidslinja og for oppslutningen og legitimiteten til pensjonssystemet. Det er bred politisk enighet om at personer som har vært i jobb skal ha en høyere pensjon enn de som ikke har det.
 
-2023–2024
+Et sentralt argument for å innføre en inntektspensjon som gir uttelling fra første krone, var å bli kvitt den såkalte «minstepensjonsfella». Når garantipensjonen avkortes med 80 prosent mot inntektspensjon, innebærer det at arbeidsinntekt gir uttelling fra første krone, i motsetning til det tidligere systemet hvor mange år i arbeid kunne gi null uttelling pensjonsmessig. Det betyr samtidig at den reelle pensjonsmessige uttellingen av økt arbeidsinntekt for personer med opptjening lavere enn det som kun gir inntektspensjon, blir lavere enn det opptjeningsprosenten tilsier. For personer med en opptjening som tilsier at de vil motta garantipensjon blir den marginale pensjonsopptjeningen en femdel av 18,1 prosent, altså 3,62 prosent.
 
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
+For at garantipensjonen skal avkortes helt, slik at samlet pensjon bare består av inntektspensjon, må opptjeningen være så høy at den årlige inntektspensjonen er minst 25 prosent høyere enn garantipensjonen. Opptjent inntektspensjon avhenger av antall år med pensjonsopptjening og gjennomsnittlig pensjonsgivende inntekt i disse årene.
 
-2 500
+Nivået på årlig alderspensjon fra folketrygden (inntektspensjon og eventuell garantipensjon<sup>1</sup> det første året ved uttak fra 67 år for ulike kombinasjoner av inntekt (4–7,1 G) og opptjeningsår (30–50 år). Garantipensjonen satt lik 1,91 G. 1963-kullet
 
-2 000
+<sup>1</sup> Garantipensjonen er satt lik 1,91 G som var gjennomsnittsnivået for enslige i 2023.
 
-1 500
+Figur 10.7 viser samlet pensjon første år målt i G, for ulike kombinasjoner av inntekt som yrkesaktiv og antall opptjeningsår. Det er benyttet delingstall for 1963-kullet ved 67 år, men garantipensjonen er satt lik gjennomsnittlig garantipensjon for enslige i 2023. I figuren framkommer de ulike grensene for opptjeningsår som innebærer at garantipensjonen er helt avkortet ved at kurvene blir brattere, som altså medfører at ett ekstra år med opptjening gir fem ganger mer pensjon før skatt. Med en jevn pensjonsgivende inntekt på 7,1 G er det tilstrekkelig med 30 opptjeningsår for at pensjonen utelukkende skal bestå av inntektspensjon. Med en inntekt på 6 G, som var nær gjennomsnittslønnen for heltidsansatte i 2022, kreves det minst 36 opptjeningsår for at ikke deler av pensjonen skal være garantipensjon. Den grå kurven har derfor en knekk ved 36 opptjeningsår og kurven stiger bare svakt ved færre år. Med en inntekt som yrkesaktiv på 5 G kreves det 43 opptjeningsår for at hele pensjonen skal bestå av inntektspensjon, og med en gjennomsnittlig inntekt på 4 G, vil også personer med 50 opptjeningsår motta en avkortet garantipensjon. Med kun 30 års opptjening med en gjennomsnittlig inntekt på 4 G, vil samlet pensjon fra folketrygden bli 2,2 G.
 
-1 000
+Figur 10.7 viser at økt opptjening i ny alderspensjon alltid gir uttelling i form av høyere pensjon. Hvor stor uttellingen blir avhenger av gjennomsnittlig pensjonsgivende inntekt og antall opptjeningsår. Boks 10.4 viser tilsvarende som figur 10.6 og figur 10.7, men med økte minsteytelser.
 
-500
+Med garantipensjonssatsen for enslige for 2023 på 1,91 G og gjeldende anslag for delingstall, vil en pensjonsbeholdning under 38,7 G for 1963-kullet innebære at man vil motta noe garantipensjon. Figur 10.8 viser gjennomsnittlig pensjonsbeholdning etter alder ved uttak av pensjon fra 62 til 67 år for 1954-kullet. Figuren viser at for gruppene med uttak ved 65 år og 67 år, er gjennomsnittlig pensjonsbeholdning under 38,7 G. For de andre gruppene er gjennomsnittlig pensjonsbeholdning lik eller over grensen, som innebærer at personer med pensjonsuttak ved denne alderen i gjennomsnitt har så høy opptjening at de ikke vil motta noe garantipensjon. Samtidig ligger gjennomsnittlig pensjonsbeholdning for flere av gruppene svært nær grensen, som trolig innebærer at svært mange vil motta en avkortet garantipensjon.
 
-0
-1970
+Gjennomsnittlig pensjonsbeholdning i G for 1954-kullet og grense for å motta garantipensjon. Etter uttaksalder mellom 62 og 67 år
 
-1980
+Kilde: Arbeids- og velferdsdirektoratet.
 
-1990
+Pensjonsopptjening på annet grunnlag enn arbeidsinntekt
 
-2000
+Inntektspensjon tjenes ikke bare opp på grunnlag av arbeidsinntekt. Ved overgangen til det nye pensjonssystemet ble det innført nye ordninger og gjort endringer i eksisterende ordninger for pensjonsopptjening på annet grunnlag enn arbeidsinntekt, jf. omtale i avsnitt 2.3. En ny ordning ble innført for førstegangstjeneste, og det ble vedtatt justeringer i ordningen for pensjonsopptjening for arbeidssøkere som mottar dagpenger, og for personer som har omsorg for barn eller eldre. Ordningene er opprettet av hensyn til den sosiale profilen i pensjonssystemet. De innebærer at de aller fleste som hovedsakelig har bodd i Norge vil få et pensjonsnivå over garantipensjonsnivået, siden både avtjent førstegangstjeneste, omsorgsarbeid og mottak av trygdeytelser kan gi opptjening av inntektspensjon.
 
-2010
+Virkninger av økte minsteytelser
 
-2020
+De ekstraordinære økningene i minste pensjonsnivå har vært viktige for å bedre levekårene for utsatte grupper av eldre. Samtidig har økninger i minsteytelsene andre konsekvenser for pensjonssystemets virkemåte. Utformingen av ny alderspensjon innebærer at konsekvensene av økninger i minsteytelsene blir særlig store.
 
-2030
+Både i ny og gammel ordning vil økte minsteytelser endre forholdet mellom grunnsikringen og standardsikringen i pensjonssystemet, og slik redusere uttellingen for at man har vært i arbeid. Økte minsteytelser i ny folketrygd vil svekke arbeidsinsentivene for en større gruppe, fordi mange vil motta en avkortet garantipensjon. Samtidig vil økte minsteytelser innebære at færre kan ta ut pensjonen tidlig. Gode insentiver til arbeid og muligheter til tidliguttak for mange var viktige hensyn da ny alderspensjon ble utformet.
 
-Regjeringens forslag
+Figur 10.9 viser samme prinsippskisser av de to modellene for alderspensjon fra folketrygden som i figur 10.6, men her inkludert en økning i minstenivåene. En økning i minste pensjonsnivå fører til at den horisontale linjen over arealet for pensjonstillegget i venstre panel i figuren vil flyttes oppover (stiplet linje). Dette vil øke pensjonen til de som mottar minsteytelsen, men det vil også føre til at flere med opptjent tilleggspensjon blir minstepensjonister. Den siste gruppen vil være personer som mottok pensjon lavere enn den nye minstesatsen.
 
-2040
+En tilsvarende økning i garantipensjonsnivået (ny alderspensjon) er illustrert i høyre panel. Det framkommer at for en gitt sats vil langt flere i utgangspunktet motta garantipensjon, enn minstenivået i gammel ordning. Alle med egenopptjent pensjon lavere enn 125 prosent av garantipensjonssatsen vil motta garantipensjon. Dersom garantipensjonen økes berøres dermed flere. En økning i garantipensjonssatsen øker derfor kostnadene mer enn en økning i minste pensjonsnivå (gammel alderspensjon). Det vil også innebære at flere får lavere uttelling pensjonsmessig ved økt opptjening. Effekten av dette er illustrert i figur 10.9.
 
-2050
+Økte minstenivåer i gammel og ny folketrygd. Prinsippskisser med full trygdetid
 
-2060
+Figur 10.10 viser det samme som figur 10.7, med unntak av at satsen for garantipensjonen er økt til minste pensjonsnivå for enslige i 2023, dvs. til om lag 2,15 G. Ved sammenligning med figur 10.7 framgår det at en slik økning reduserer den pensjonsmessige uttellingen av økt opptjening vesentlig. Med en inntekt som yrkesaktiv på 7,1 G, kreves det nå om lag 34 opptjeningsår for at hele pensjonen skal bestå av inntektspensjon, altså fire år mer enn tilsvarende i figur 10.7. Med en inntekt på 6 G kreves det nå om lag 40 opptjeningsår for at pensjonen kun skal bestå av inntektspensjon, som også er en økning på om lag 4 år. Først etter 48 år med inntekt på 5 G vil pensjonen kun bestå av inntektspensjon, en økning på fem år sammenlignet med figur 10.7.
 
-2070
+Nivået på årlig alderspensjon fra folketrygden (inntektspensjon og eventuell garantipensjon<sup>1</sup>) det første året ved uttak fra 67 år for ulike kombinasjoner av inntekt (4–7,1 G) og opptjeningsår (30–50 år). Garantipensjonen satt lik 2,15 G. 1963-kullet
 
-2080
+<sup>1</sup> Garantipensjonen er satt lik 2,15 G, som tilsvarer minste pensjonsnivå for enslige i 2023.
 
-2090
+Økte minstenivåer vil også medføre at færre vil oppfylle kravet for uttak av alderspensjon før fylte 67 år og dermed begrense muligheten til fleksibelt uttak for de som av ulike årsaker ønsker å ta ut alderspensjonen tidlig. Denne effekten vil være større jo større økningen i minstenivåene er. Pensjonsutvalget viser til beregninger som anslår at andelen som kan ta ut alderspensjonen ved 62 år i årskullene fra 1963-kullet blir redusert med rundt 20 prosentpoeng dersom minstenivåene øker til EU60.
 
-2100
+\[Boks slutt\]
 
-Referansebanen
+### Muligheten til å gå av tidlig
 
-Figur 11.1 Antall alderspensjonister 1970–2100. Framskrevet 2023–2100. Tusen personer
+I henhold til folketrygdloven § 19-11 er det et vilkår for uttak av pensjon før 67 år at summen av grunnpensjon, tilleggspensjon og pensjonstillegg når vedkommende fyller 67 år, minst tilsvarer minste pensjonsnivå (særskilt sats for enslige), med full trygdetid, når vedkommende fyller 67 år. Tilsvarende er det et vilkår for å ta ut alderspensjon opptjent etter folketrygdloven kapittel 20 før fylte 67 år, at summen av inntektspensjon og garantipensjon minst tilsvarer garantipensjonsnivået (høy sats) med full trygdetid når vedkommende fyller 67 år. Det følger av begge kapitler at den livsvarige delen av en eventuell AFP i privat sektor medregnes i grunnlaget for vurderingen av om vilkåret er oppfylt.
+
+Økte muligheter både til å gå av tidlig og til å kombinere pensjon og arbeid ble ved utformingen av ny alderspensjon framhevet som en betydelig velferdsreform for den enkelte. For at alle skulle sikres et minste inntektsnivå i alderdommen, ble det satt et vilkår om et visst nivå på pensjonen for å kunne ta ut pensjon før 67 år.
+
+Figur 10.11 viser andeler som er anslått å kunne ta ut 100 prosent alderspensjon fra folketrygden i ulike deler av økonomien, blant personer født i 1960 som fylte 62 år i 2022. Det går fram at andelene varierer betydelig. Andelene som kan ta ut folketrygden ved 62 år er høyest blant ansatte i bedrifter med privat AFP, som omfatter 32 prosent av populasjonen. Blant disse er det for 1960-kullet anslått at 93 prosent av mennene og 88 prosent av kvinnene kan ta ut alderspensjon fra 62 år. Blant ansatte i offentlig sektor, som omfatter 31 prosent av populasjonen, er de tilsvarende andelene 62 og 24 prosent. Når andelene er såpass lave henger det sammen med at 1960-kullet i offentlig sektor fortsatt skal ha AFP som tidligpensjon i alderen 62–66 år. Figuren viser derfor hvor mange som kan ta ut alderspensjon fra folketrygden blant de som *ikke* har tatt ut offentlig AFP, ikke hvor mange i offentlig sektor som faktisk kan gå av ved 62 år. Lavest andel som kan ta ut folketrygden ved 62 år finner vi blant kvinner i gruppen «andre» med 13 prosent. Gruppen «andre» omfatter hovedsakelig personer som ikke er yrkesaktive, og som ikke mottar uføretrygd eller gjenlevendepensjon.
+
+Andel som kan ta ut 100 prosent alderspensjon ved 62 år blant personer født i 1960 som ikke mottar uføretrygd, gjenlevendepensjon eller offentlig AFP.<sup>1</sup> Prosent
+
+<sup>1</sup> «Andre» omfatter hjemmeværende og mottakere av særalderspensjon, arbeidsavklaringspenger og dagpenger.
+
+Kilde: Arbeids- og velferdsdirektoratet.
+
+### Oppsummering av regjeringens vurderinger av minstenivåene
+
+Siden innføringen av folketrygden har det vært en betydelig vekst i minsteytelsene i pensjonssystemet. De eldres økonomiske situasjon generelt har bedret seg vesentlig de siste tiårene, og omfanget av økonomiske problemer er mindre enn i yngre aldersgrupper, selv om det er stor variasjon mellom ulike grupper. De norske minsteytelsene er relativt sjenerøse sammenlignet med minsteytelsene i andre land. Et godt nivå på dagens minsteytelser vil imidlertid bare sikre framtidens pensjonister dersom reguleringen opprettholder nivåene i tilstrekkelig grad. Nivået på minsteytelsene i dag og reguleringen av minsteytelsene framover bør derfor vurderes samlet. De ekstraordinære økningene i minsteytelsene de siste årene kan tyde på at reguleringsreglene som ble innført med pensjonsreformen ikke har hatt tilstrekkelig oppslutning. Minstenivåene i ny alderspensjon har en annen utforming enn minstepensjonen i den gamle ordningen, og de ulike egenskapene innebærer at nivåene bør vurderes ulikt, herunder må det tas i betraktning at i ny opptjeningsmodell vil nær sagt alle som i hovedsak har bodd i Norge få et høyere pensjonsnivå enn minstenivået.
+
+Regjeringen mener at pensjonssystemet bør ha gode minstenivåer, men det bør også gjelde i framtiden. I tråd med Pensjonsutvalgets vurderinger mener regjeringen at gunstigere regulering bør prioriteres, jf. forslag omtalt i avsnitt 10.5.
+
+Videre mener regjeringen, i likhet med Pensjonsutvalget, at det er sterkere grunner for å differensiere minsteytelsene etter sivilstand, enn pensjon over minstenivå. Samtidig er garantipensjonen i mindre grad en ren grunnsikring, enn minste pensjonsnivå i gammel alderspensjon. Regjeringen vurderer at minsteytelsene i ny alderspensjon fortsatt bør være høyere for enslige enn for gifte, men foreslår ingen endringer i nivået på satsene.
+
+## Regjeringens vurderinger av reguleringen av minsteytelsene
+
+Gode minstenivåer er et viktig bidrag til å sikre gode levekår for alle pensjonister. Det bidrar også til sosial omfordeling og til mindre forskjeller. Dette er hensyn som står sentralt i den norske modellen og som har bred politisk oppslutning. Pensjonssystemet bør ha gode minstenivåer, og det bør gjelde også i framtiden.
+
+Regjeringen mener, i tråd med Pensjonsutvalgets vurderinger, at det bør etableres et nytt system for regulering av minsteytelsene, ved at minsteytelsene framover reguleres med lønnsveksten. Formålet er å sikre gode levekår også for framtidens pensjonister, og samtidig etablere et forutsigbart system som reduserer behovet for, og omfanget av, ekstraordinære økninger som vedtas uten at de langsiktige konsekvensene er belyst.
+
+### Regulering av minsteytelsene med velstandsutviklingen
+
+Siden 2022 har minsteytelsene blitt regulert med gjennomsnittet av lønns- og prisveksten, tilsvarende som for løpende pensjoner som er høyere enn minstenivåene, jf. Prop. 41 L (2021–2022). Endringen innebærer at alle løpende pensjoner reguleres likt, og er prinsipielt viktig for å forhindre at pensjonister over lengre tid kan få en utvikling i pensjonen som avviker fra gjennomsnittet av lønns- og prisvekst. Omleggingen til regulering med gjennomsnitt av lønns- og prisvekst har videre egenskaper som bidrar til en jevnere regulering, og har fått bred støtte, jf. omtale i kapittel 7.
+
+Minsteytelsene ble fram til 2022 regulert med lønnsveksten fratrukket virkningen av levealdersjustering, men likevel ikke mindre enn reguleringen av løpende pensjon høyere enn minsteytelsene. Dette var i tråd med forslaget fra Pensjonskommisjonen og det som ble lagt til grunn i St.meld. nr. 5 (2006–2007). I Prop. 41 L (2021–2022) ble det pekt på at det innebærer en betydelig forenkling at alle pensjoner reguleres på samme måte. En følge av endringen er at man ikke trenger å framskrive pensjon og minstenivå for å kunne vurdere om vilkåret for tidliguttak er oppfylt.
+
+Å regulere minsteytelsene med gjennomsnittet av lønns- og prisveksten gir en svakere regulering når reallønnsveksten er høy enn de reglene som gjaldt fra 2011. Så lenge reallønnsveksten er høyere enn det dobbelte av virkningen av levealdersjusteringen, vil minsteytelsene bli regulert svakere med gjennomsnittet av lønns- og prisveksten enn med de tidligere reglene. Effekten blir omvendt når reallønnsveksten er lav. Regulering med lønns- og prisvekst gir en jevnere regulering enn det tidligere systemet, og det hindrer at pensjonistene får redusert kjøpekraft i år der reallønnsveksten er lav. Sistnevnte gunstige egenskap har vært særlig tydelig ved reguleringen fra mai 2023. Reglene innebar da at veksten i alderspensjonene var større enn lønnsveksten.
+
+Hvis målet for minstenivået i pensjonssystemet er å sikre et velferdsnivå knyttet til konkrete utgiftsbehov og forebygge fattigdom i mer absolutt forstand, kan det tilsi at minsteytelsen som et minimum reguleres med prisveksten, men ikke fullt ut trenger å økes i tråd med gjennomsnittlig lønnsvekst. En justering med mindre enn lønnsveksten, men høyere enn prisveksten, ligger til grunn for pensjonsreformen så langt. Med reallønnsvekst over tid innebærer imidlertid gjeldende reguleringsregler at minsteytelsene reduseres i verdi over tid, sammenlignet med gjennomsnittslønnen, selv om pensjonistene også vil få økt kjøpekraft gjennom pensjonisttilværelsen. Dersom arbeidsføre kompenserer fullt ut for effekten av levealdersjusteringen vil forholdet mellom gjennomsnittlig alderspensjon til nye arbeidsføre alderspensjonister og minsteytelsene øke.
+
+Når minstenivåene reguleres lavere enn lønnsveksten og reallønnen øker, vil minstepensjonister bli hengende etter den generelle velstandsutviklingen. Målt som andel av en gjennomsnittslønn, vil minstenivåene bli gradvis lavere over tid. Gradvis lavere minstenivå, som andel av lønn, kan skape problemer for pensjonssystemets sosiale bærekraft, selv om minstenivåene øker mer enn prisene. Gjeldende regler for regulering av minstenivåene vil på sikt medføre økte forskjeller mellom pensjonister som mottar minsteytelsene, og de som er i arbeid. Dersom arbeidsføre kompenserer for levealdersjusteringen ved å bli stående lenger i arbeid, vil også de økonomiske forskjellene mellom pensjonistene øke. Pensjonsutvalget viser til en studie[^56] som finner at lønnsregulering er mest vanlig internasjonalt. Dagens reguleringsregime vil dermed på sikt kunne innebære at minstenivåene i det norske pensjonssystemet blir mindre sjenerøse i forhold til minstenivåene i andre land.
+
+Eldres inntektssituasjon har generelt bedret seg mye de siste tiårene. Det er i dag en meget lav andel blant gifte og samboende alderspensjonister som har en inntekt lavere enn 60 prosent av medianinntekten i samfunnet (EU60). Samtidig er det fortsatt en betydelig andel aleneboende minstepensjonister som har en samlet inntekt som er lavere enn 60 prosent av medianinntekten i samfunnet, selv om avstanden opp til denne grensen er liten. Bildet modifiseres av at mange pensjonister har en betydelig finansiell formue og en boligformue, som bidrar til å redusere de reelle boutgiftene sammenlignet med familier i etableringsfasen.
+
+Regjeringen deler Pensjonsutvalgets bekymring for at ekstraordinære økninger gjennomføres uten at konsekvensene er tilstrekkelig belyst. Endringer i pensjonsregelverket fordrer en grundig og helhetlig vurdering. Pensjonssystemet er komplekst, og det er viktig at pensjonssystemet er forutsigbart. Økninger i minsteytelsene har konsekvenser for pensjonssystemets virkemåte. Økte minstenivåer har særlig stor betydning hvis de omfatter garantipensjonen i ny alderspensjon. I framtiden vil økt garantipensjon, som påvirker alle i avkortingsintervallet for garantipensjonen, være en lite målrettet og kostbar måte å forebygge lavinntekt blant eldre på.
+
+Hovedformålet med minsteytelsene er å forebygge fattigdom blant eldre. Dersom minstenivået i utgangspunktet er fastsatt ut fra hva som er et akseptabelt relativt nivå sammenlignet med lønnsnivået, vil det å regulere minsteytelsene svakere enn lønnsveksten innebære at minstenivået blir gradvis lavere enn dette nivået. Regjeringen mener pensjonssystemet må ha gode minsteytelser, men dette bør gjelde også i framtiden. Regjeringen mener derfor, i tråd med Pensjonsutvalgets vurderinger, at det bør etableres et nytt system for regulering av minsteytelsene.
+
+Pensjonsutvalgets prinsipielle standpunkt er at minsteytelsene ved den normerte pensjoneringsalderen bør reguleres i takt med velstandsutviklingen i samfunnet, målt ved den gjennomsnittlige lønnsveksten.
+
+I beregningene i denne stortingsmeldingen, og i Perspektivmeldingen, er det forutsatt at yrkesaktive ikke fullt ut vil kompensere for levealdersjusteringen ved å jobbe lenger. Det betyr en noe svakere inntektsutvikling for pensjonister enn for yrkesaktive. Det er dette prinsippet som er lagt til grunn for forslaget om alderspensjon til uføre. I tråd med dette er et alternativ til Pensjonsutvalgets standpunkt at minsteytelsene i stedet følger velstandsutviklingen til pensjonistene, slik at forholdet mellom minsteytelsene og gjennomsnittlig pensjon holdes stabilt over tid. Regulering med lønnsvekst fratrukket en fast faktor på tre promille antas å gi en utvikling der forholdet mellom minsteytelsene og gjennomsnittlig pensjon er stabilt. Før en vet hvordan arbeidsføre tilpasser seg, ville en slik regulering være en forsiktig tilnærming.
+
+Dersom arbeidsføre ikke kompenserer fullt ut for effekten av levealdersjusteringen ved å stå lenger i jobb, men tar ut noe av den forventede velstandsutviklingen i fritid, vil utviklingen i minstenivåene bli gunstigere enn velstandsutviklingen for pensjonistene som gruppe. I ny folketrygd, med garantipensjon, vil langt flere enn minstepensjonistene motta noe garantipensjon. En gunstigere utvikling av garantipensjonen enn for gjennomsnittlig pensjon vil altså komme langt flere enn de som kun mottar garantipensjon til gode. Dette betyr at regulering av garantipensjon med lønnsvekst er et svært kostbart grep, som ikke kun treffer dem med de laveste pensjonene.
+
+Når regjeringen likevel foreslår at minsteytelsene skal reguleres med lønnsvekst, er dette blant annet begrunnet med at regjeringen anser at dette vil være mer sosialt bærekraftig over tid. I perioder med lav reallønnsvekst vil et fast fratrekk kunne gi en negativ reallønnsutvikling for minsteytelsene, selv om lønnstakerne får positiv reallønnsutvikling. Regjeringen mener et slikt system ikke vil ha legitimitet over tid, og anser at det vil øke faren for hyppige endringer i minstenivåene, slik vi har sett det siste tiåret.
+
+Formålet med å endre reguleringen av minsteytelsene er å sikre gode levekår også for framtidens pensjonister, og samtidig etablere et forutsigbart system som reduserer behovet for, og omfanget av, ekstraordinære økninger som vedtas uten at de langsiktige konsekvensene er belyst.
+
+Regulering med lønnsveksten vil bety at minsteytelsene på sikt opprettholder sin relative verdi, både i forhold til det generelle lønnsnivået i samfunnet, og i forhold til nivået på alderspensjonen på uttakstidspunktet for yrkesaktive som kompenserer for virkningen av levealdersjustering. Minstenivåene vil imidlertid øke sammenlignet med alderspensjonen til yrkesaktive som ikke kompenserer for virkningen av levealdersjusteringen. Forslaget i kapittel 8 om å øke aldersgrensene i pensjonssystemet med økt levealder har til hensikt å påvirke pensjoneringsnormene i befolkningen, slik at man i større grad kompenserer for levealdersjusteringen. Hvor høy alderspensjon yrkesaktive i framtiden faktisk får er usikkert. Arbeidsføre kan framover velge å ta ut noe av velstandsveksten i form av økt fritid som alderspensjonister, og dermed ikke kompensere fullt ut for levealdersjusteringen.
+
+Utformingen av pensjonssystemet er et resultat av en avveining mellom ulike hensyn. God minstesikring er ett av flere hensyn som skal ivaretas. Pensjonssystemet må også bidra til standardsikring, som innebærer at pensjonen må stå i et rimelig forhold til tidligere arbeidsinntekt. Dersom yrkesaktive ikke kompenserer for virkningen av levealdersjusteringen framover vil lønnsregulering av minsteytelsene på sikt kunne svekke forholdet mellom standardsikringen og grunnsikringen i betydelig grad. Dette vil innebære en svakere sammenheng mellom yrkesaktivitet og pensjon, som også vil kunne svekke legitimiteten og betalingsviljen for folketrygdens alderspensjon. Regjeringen mener derfor at de jevnlige evalueringene av pensjonsreformen bør se særskilt på utviklingen i forholdet mellom minsteytelsene og gjennomsnittlig pensjonsnivå. Dersom forholdet mellom standard- og grunnsikringen på sikt blir svekket i betydelig grad, bør det vurderes justeringer i reguleringsreglene som motvirker dette.
+
+### Årskullspesifikk minsteytelse
+
+Lønnsregulering av minsteytelsene ved normert pensjoneringsalder innebærer ingen endringer i reglene for regulering av løpende pensjoner. Siden normert pensjoneringsalder avhenger av fødselsår vil det si at minstenivåene blir årskullspesifikke. Med reallønnsvekst vil endringen gi minst like høy pensjon som med dagens regler, og for de aller fleste mottakere av minsteytelsene vil det bety høyere pensjon. Hvor mye gunstigere avhenger av fødselsår. Sammenlignet med dagens regler vil lønnsregulering av minsteytelsene og årskullspesifikke minstenivåer bli stadig mer gunstig for yngre årskull. Dette skyldes at minsteytelsens utgangsnivå ved normert pensjoneringsalder vil opprettholde sin verdi målt i G. Dette er illustrert med satsen for garantipensjon for enslige i figur 10.12. I figuren er det forutsatt at garantipensjonen ved normalder lønnsreguleres fra 2024. Selv om løpende pensjon reguleres som i dag, vil utgangspunktet være et stadig høyere nivå, sammenlignet med gjeldende regler. Størrelsene i figuren er målt i faste lønninger, og ikke i faste priser. Det innebærer at kjøpekraften til pensjonene, dvs. pensjon korrigert for prisvekst, øker selv om verdien målt i faste lønninger synker. Anslått økning i kjøpekraften til garantipensjon for enslige med de to alternativene er illustrert i figur 10.13. Fra figuren framgår det at med forslaget blir kjøpekraften i år 2100 om lag 75 prosent høyere enn med dagens regler. Det framgår videre at også dagens regler gir en betydelig økning i kjøpekraften over tid. I år 2100 anslås det at dagens regler vil gi en kjøpekraft som ligger om lag 75 prosent høyere enn dagens nivå.
+
+Garantipensjon for enslige 1967–2100 i fast grunnbeløp i to alternativer.<sup>1</sup> Tusen 2023-kroner (lønnsdeflatert)
+
+<sup>1</sup> Minstepensjon/minste pensjonsnivå for enslige fram til 2016. I referansebanen er det forutsatt en årlig reallønnsvekst på 1,5 prosent.
+
 Kilde: Statistisk sentralbyrå.
 
-år, selv om pensjonen kan tas ut fleksibelt fra 62
-år. Dersom grensen på 67 år øker, mener utvalget
-det kan bidra til at flere står lenger i jobb. Denne
-«normdanningseffekten» er ikke med i anslaget
-på sysselsettingsvirkningen av utvalgets forslag.
-Høyere minsteytelser og skjerming av uføre
-kan gjøre det mer lønnsomt å motta andre folketrygdytelser. Det kan redusere insentivene til å
-stå lenger i arbeid og gjøre at flere vil motta disse
-ytelsene. For uføretrygd gjelder dette særlig for
-de som ikke har rett til AFP. Det er lagt inn en viss
-økning i andelene blant eldre som mottar korttidsytelser, men omfanget av dette er usikkert.
-I beregningene er det antatt at økt nedre
-aldersgrense i liten grad vil påvirke sysselsettingen og at de fleste som ville tatt ut alderspensjon med en lavere aldersgrense i stedet blir
-uføre. Dette kan være for pessimistisk.
-Økte aldersgrenser vil også redusere antallet
-som mottar alderspensjon. Det skyldes både at økt
-nedre aldersgrense gjør at flere må stå lenger i
-jobb, men også fordi de som uansett ville fortsatt i
-jobb, må vente med å ta ut alderspensjonen. I
-desember 2022 var vel 75 prosent av de 62-åringene
-som hadde tatt ut alderspensjon fortsatt i jobb.
-Hoveddelen av de som hadde tatt ut pensjonen tidlig var altså fortsatt i jobb. Når disse må ta ut pensjonen senere, får de en høyere årlig pensjon.
-Figur 11.1 viser antallet som mottar alderspensjon fra folketrygden i referansebanen og med
-regjeringens forslag. Det går fram at antallet har
-økt relativt mye siden 2011. Det skyldes både at det
+Garantipensjon for enslige 1967–2100 i faste priser i to alternativer.<sup>1</sup> Tusen 2023-kroner (prisdeflatert)
 
-ble åpnet for å ta ut alderspensjon fra 62 år i 2011 og
-befolkningsutviklingen; fra 2011 til 2023 økte antall
-personer i aldersgruppen 62–70 år med 88 500 personer. Antallet som mottar alderspensjon vil øke
-ytterligere framover, og økningen er klart størst i
-referansebanen. I 2040 er det 71 000 flere som mottar alderspensjon i referansebanen enn med regjeringens forslag, og forskjellen øker til 225 000 i
-2060 og til 329 000 i 2080.
-Økte aldersgrenser vil føre til at det blir flere
-som mottar uføretrygd. Det har flere årsaker. For
-det første skal uføre, med regjeringens forslag,
-kunne få uføretrygd fram til den normerte pensjoneringsalderen og da gå over på alderspensjon.
-Det vil dermed være en del med uføretrygd i
-alderen fra 67 år til den normerte pensjoneringsalderen som mottar alderspensjon i referansebanen. For det andre vil en del av de som ellers
-ville tatt ut alderspensjonen tidlig, men som
-mister den muligheten, bli uføre.
-Figur 11.2 viser utviklingen i antallet som mottar uføretrygd. Det går fram at veksten fortsetter
-fram til tidlig på 2030-tallet i begge alternativene.
-Deretter flater kurven ut i referansebanen, mens
-veksten fortsetter med regjeringens forslag. I
-2040 er det 22 000 flere som mottar uføretrygd
-med regjeringens forslag enn i referansebanen,
-og forskjellen øker til 75 000 i 2060 og til 113 000 i
-2080. Utflatingen i referansebanen skyldes blant
-annet økende utdanningsnivå i befolkningen;
-andelen som blir uføretrygdet faller med økende
-utdanningsnivå.
+<sup>1</sup> Minstepensjon/minste pensjonsnivå for enslige fram til 2016. Det er forutsatt en årlig reallønnsvekst på 1,5 prosent.
 
-[Side 193]
-
-2023–2024
-
-191
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-600
-
-500
-
-400
-
-300
-
-200
-
-100
-
-0
-1970
-
-1980
-
-1990
-
-2000
-
-2010
-
-2020
-
-2030
-
-Regjeringens forslag
-
-2040
-
-2050
-
-2060
-
-2070
-
-2080
-
-2090
-
-2100
-
-Referansebanen
-
-Figur 11.2 Antall uføretrygdede 1970–2100. Framskrevet 2023–2100. Tusen personer
 Kilde: Statistisk sentralbyrå.
 
-I tillegg til økningen i antallet som mottar
-uføretrygd, vil det også bli en økning i antall mottakere av de andre inntektssikringsytelsene i
-folketrygden.
+Lønnsregulering av en felles minsteytelse for alle årskull ville gitt en gunstigere regulering av minsteytelsene enn av løpende pensjoner. Det ville isolert sett gi høyere pensjoner enn med regjeringens forslag.
 
-11.2.3 Garantipensjon og garantipensjonister
-Et viktig forslag i denne meldingen er at minsteytelsen til nye alderspensjonister skal reguleres i
-takt med lønnsveksten, målt ved endringen i
-grunnbeløpet. Kjøpekraften til minsteytelsene –
-pensjon korrigert for prisvekst – vil dermed også
-årlig øke med 1,5 prosent. I referansebanen reguleres minsteytelsene med gjennomsnittet av
-lønns- og prisveksten, og siden det er lagt til
-grunn en årlig reallønnsvekst på om lag 1,5 prosent, så vil minsteytelsene årlig reduseres med
-0,75 prosent målt i faste lønninger, men kjøpekraften vil årlig øke med 0,75 prosent. Figur 11.3
-og figur 11.4 viser utviklingen i garantipensjonsnivåene for henholdsvis enslige og gifte og samboende. For begge grupper er nivået på garantipensjonen i 2040 11,3 prosent lavere i referansebanen enn med regjeringens forslag. I 2060 har
-forskjellen økt til 23,7 prosent og i 2080 til 34,4
-prosent. Nivåene i referansebanen i 2080 er to
-tredjedeler av nivåene i 2023.
-I den gamle modellen for alderspensjon fungerte minstenivåene som et gulv for samlet pensjon; hvis summen av grunn- og tilleggspensjon
-var lavere enn gulvet (minste pensjonsnivå) ble
-det gitt et tillegg som sikret at samlet pensjon ble
+En felles minsteytelse som lønnsreguleres vil samtidig innebære at en pensjon som i utgangspunktet var høyere enn minstenivået, etter hvert vil kunne komme ned på og under minstenivået. I dag gis det i slike tilfeller et tillegg som sikrer at pensjonen ikke kommer under minstenivået.[^57] Siden både minsteytelsene og pensjon over minsteytelsene etter gjeldende regler reguleres med gjennomsnittet av lønns- og prisveksten, vil det imidlertid med dagens regler kun være ved ekstraordinære økninger av minstenivåene at løpende pensjon kan komme under minstenivået. Prinsippet om at alle skal få pensjonsmessig uttelling ved å jobbe er sentralt i ny alderspensjon. Et sentralt argument for å innføre en inntektspensjon som gir uttelling fra første krone, var å bli kvitt den såkalte «minstepensjonsfella» i det gamle pensjonssystemet. Lønnsregulering av ett felles minstenivå for alle årskull ville i praksis bety en gjeninnføring av en form for «minstepensjonsfelle», i det personer med forholdsvis lav opptjening uansett på sikt ville bli «tatt igjen» av minstenivået. Dette ville svekke sammenhengen mellom yrkesaktivitet og pensjonsnivå i pensjonssystemet. Lønnsregulering av minsteytelsen ved normert pensjoneringsalder sikrer dermed at minsteytelsene opprettholder sin relative verdi i forhold til det generelle lønnsnivået i samfunnet, samtidig som årskullspesifikke minstenivåer ivaretar prinsippet om at alle skal få pensjonsmessig uttelling for arbeid.
 
-lik gulvet. Hvis summen av grunn- og tilleggspensjon var høyere enn gulvet, var samlet pensjon
-upåvirket av minstenivåene.
-I den nye modellen for alderspensjon avkortes
-garantipensjonen med 80 prosent av opptjent inntektspensjon. Mange vil derfor motta både inntektspensjon og en avkortet garantipensjon. For
-disse vil effekten av økt årlig inntekt på den framtidige pensjonen bare være 20 prosent av effekten
-for de som har så høy inntektspensjon at de ikke
-mottar noe garantipensjon. Den pensjonsmessige
-gevinsten av arbeid blir dermed lavere. Jo høyere
-full garantipensjon er, desto flere vil motta en
-avkortet garantipensjon.
-Figur 11.5 viser andelen i ulike årskull som vil
-motta en avkortet garantipensjon ved avgang. De
-første årene er andelen lavest med regjeringens
-forslag. Det skyldes at uføre i disse årskullene får
-en høyere alderspensjon. Det går videre fram at i
-referansebanen ligger andelen relativt stabilt i
-overkant av 30 prosent for årskullene før 2000kullet og faller deretter ned mot 27 prosent. Med
-regjeringens forslag øker andelen garantipensjonister til over 50 prosent for de som er født i år 2013
-eller senere. Den pensjonsmessige uttellingen for
-arbeid er dermed svakere enn i referansebanen
-for rundt 20 prosent av arbeidstakerne. Det er
-imidlertid usikkert hvor viktig denne effekten er.
-Det krever god innsikt i pensjonsreglene for å forstå denne mekanismen, og for personer i første
-del av yrkeskarrieren kan det også være vanskelig
-å vurdere hvor høy den framtidige pensjonen fra
+Reglene som gjaldt før 2022 innebar en gunstigere regulering av minsteytelsene enn av pensjon over minstenivået, dersom effekten av levealdersjusteringen var mindre enn 0,75 prosent. En uheldig egenskap ved dette systemet var at man ved tidlig uttak av lav pensjon kunne bli «tatt igjen» av minsteytelsen, og dermed få en høyere samlet pensjonsutbetaling når minsteytelsen ble regulert gunstigere enn løpende pensjoner. Dette trakk isolert sett i retning av at det var lønnsomt for personer med moderat opptjening å ta ut pensjonen så tidlig som mulig. Denne problemstillingen ville igjen bli aktuell i et system med en felles minsteytelse som reguleres med lønnsveksten. Det ville i tillegg bli *mer* lønnsomt enn i det gamle systemet å ta ut pensjonen tidlig, som følge av at minsteytelsen ville reguleres med lønnsvekst, men uten et fratrekk for effekten av levealdersjusteringen.
 
-[Side 194]
+Med pensjonsreformen og innføring av fleksibelt uttak er uttaksbeslutningen i langt større grad enn tidligere blitt en finansiell beslutning. Med en felles minsteytelse som reguleres gunstigere enn løpende pensjoner vil det dermed bli lønnsomt, og fullt lovlig, å ta ut pensjon tidlig for å maksimere samlet pensjonsutbetaling. Å legge til rette for en slik tilpasning vil være uheldig og lite i tråd med det sentrale målet om at flere skal stå lenger i arbeid.
 
-192
+Årskullspesifikk minsteytelse vil videre innebære at alle løpende pensjoner fortsatt reguleres likt. Det vil være et enklere system enn med innføring av en felles lønnsregulert minsteytelse for alle årskull, samtidig som løpende pensjoner over minsteytelse skal reguleres med gjennomsnittet av lønns- og prisveksten. Regjeringen mener derfor, i tråd med flertallet i Pensjonsutvalget, at alle som har tatt ut pensjon bør få regulert pensjonen med gjennomsnittet av lønns- og prisveksten, selv om pensjonen da kan bli lavere enn minsteytelsen til nye pensjonister. Det foreslås dermed at minsteytelsene blir årskullspesifikke.
 
-2023–2024
+### Vilkår for tidliguttak
 
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
+Når minsteytelsene reguleres med lønnsveksten, og løpende pensjoner reguleres med gjennomsnittet av lønns- og prisveksten, vil det ikke lenger være noe forutsigbart forhold mellom minsteytelsene og verdien av løpende pensjoner. Nivået på minsteytelsen ved normert pensjoneringsalder vil derfor ikke være en kjent størrelse før det enkelte årskull når normalderen. Det er dermed et spørsmål hvordan kriteriet for tidliguttak skal utformes.
 
-250
+Årlig pensjon på uttakstidspunktet må være høyere enn minstenivået på uttakstidspunktet, når minstenivået skal reguleres gunstigere enn løpende pensjoner. Hvor mye høyere vil avhenge av faktisk lønns- og prisvekst fra uttakstidspunktet fram til normert pensjoneringsalder. Kriteriet for tidliguttak må dermed inneholde en form for framskriving av minstenivået ved normert pensjoneringsalder. Dette kan gjøres på ulike måter. Én tilnærming kan være å framskrive minstenivået på uttakstidspunktet tillagt en fast faktor. Dersom det legges til grunn en gjennomsnittlig årlig reallønnsvekst på 1,5 prosent, og det faste tillegget er 0,75 prosent, vil framskrevet minsteytelse bli lik det faktiske nivået ved normert pensjoneringsalder, dersom reallønnsveksten blir som forventet. I perioder med svak reallønnsvekst vil denne framgangsmåten imidlertid innebære at det framskrevne minstenivået blir høyere enn det faktiske minstenivået ved normert pensjoneringsalder. Det vil bety at vilkåret for tidliguttak blir «strengere» enn det som faktisk er nødvendig, slik at personer som egentlig har nok opptjening ved en gitt alder må ta ut pensjon senere enn dette. Det vil videre innebære at pensjonen som mottas når man når normert pensjoneringsalder blir høyere enn det årskullspesifikke minstenivået.
 
-200
+I perioder med sterk reallønnsvekst vil det motsatte være tilfelle: Det vil være mulig å ta ut pensjon tidligere enn det som følger av nivået på minsteytelsen ved normert pensjoneringsalder, og pensjonen til personer med tidlig uttak vil dermed kunne falle under det årskullspesifikke minstenivået ved normert pensjoneringsalder.
 
-150
+Generelt vil en streng utforming av kriteriet gjøre det vanskelig å ta ut pensjon tidlig, men samtidig gi høyere pensjon ved normert pensjoneringsalder, og vice versa. Valg av framgangsmåte for å vurdere vilkåret for tidliguttak innebærer slik en avveining mellom muligheten til å ta ut pensjon tidlig og nivået på pensjonen. Regjeringen mener at hensynet til et tilfredsstillende pensjonsnivå bør tillegges mest vekt, og mener at det ved utformingen av kriteriet for tidliguttak bør legges inn en sikkerhetsmargin, slik at sannsynligheten for at faktisk minstenivå kommer under det årskullspesifikke minstenivået ved normert pensjoneringsalder reduseres.
 
-100
-
-50
-
-0
-1967
-
-1979
-
-1991
-
-2003
-
-2015
-
-2027
-
-2039
-
-2051
-
-2063
-
-2075
-
-2087
-
-2099
-
-2075
-
-2087
-
-2099
-
-Referansebanen
-
-Regjeringens forslag
-
-Figur 11.3 Garantipensjon1 for enslige. Tusen 2023-kroner (lønnsdeflatert)
-1
-
-Minstepensjon/minste pensjonsnivå før 2016.
-Kilde: Statistisk sentralbyrå.
-
-250
-
-200
-
-150
-
-100
-
-50
-
-0
-1967
-
-1979
-
-1991
-
-2003
-
-2015
-
-2027
-
-Regjeringens forslag
-
-2039
-
-2051
-
-2063
-
-Referansebanen
-
-Figur 11.4 Garantipensjon1 for gifte og samboende. Tusen 2023-kroner (lønnsdeflatert)
-1
-
-Minstepensjon/minste pensjonsnivå før 2016.
-Kilde: Statistisk sentralbyrå.
-
-folketrygden vil bli og dermed også om den vil
-inneholde garantipensjon. For personer som er
-sent i yrkeskarrieren og har passert nedre aldersgrense for å ta ut pensjon, vil trolig «pensjonsbelønningen» ved å utsette uttaket av pensjon være
-mye viktigere enn belønningen ved å få økt opptjening av inntektspensjon. De som vil motta en
-
-avkortet garantipensjon vil ha et lavt eller moderat
-nivå på samlet pensjon og dermed i større grad
-være avhengig av pensjonsinntekten når de slutter i arbeid. De vil dermed i mindre grad kunne
-velge uttakstidspunkt uavhengig av når de slutter
-i arbeid.
-
-[Side 195]
-
-2023–2024
-
-193
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-60
-50
-40
-30
-20
-10
-0
-1950
-
-1960
-
-1970
-
-1980
-
-1990
-
-2000
-
-2010
-
-2020
-
-Fødselsår
-Regjeringens forslag
-
-Referansebanen
-
-Figur 11.5 Andel garantipensjonister ved avgang etter fødselsår.1 Prosent
-1
-
-Personer med minst fem års botid.
-Kilde: Statistisk sentralbyrå.
-
-11.2.4 Pensjonsnivåer og
-fordelingskonsekvenser
-Det er i både i referansebanen og med regjeringens forslag forutsatt at arbeidsføre bare kompenserer for to tredjedeler av virkningen av levealdersjustering. Gjennomsnittlig alderspensjon for
-arbeidsføre blir derfor redusert i begge alternativene, se figur 11.6. Med regjeringens forslag er
-den gjennomsnittlige årlige reduksjonen målt i
-faste lønninger på to promille fra 1963- til 2020kullet. Nedgangen fra 1962- til 1963-kullet skyldes
-at personer i offentlig sektor som er født i 1963
-skal ha nye pensjonsordninger med fleksibel
-tjenestepensjon og fleksibel AFP. Dette er antatt å
-føre til at mange ansatte i offentlig sektor i 1963kullet tar ut alderspensjonen fra folketrygden tidligere enn 1962-kullet, som hadde AFP som en tidligpensjonsordning fram til 67 år. 1963-kullet får
-dermed en lavere gjennomsnittlig alderspensjon
-fra folketrygden enn 1962-kullet. I referansebanen
-er den gjennomsnittlige årlige reduksjonen målt i
-faste lønninger på fire promille.
-Forskjellen mellom alternativene er klart
-større for uføres alderspensjon, se figur 11.7. Det
-skyldes for det første at det er ulik grad av skjerming av uføre i de to alternativene. I referansebanen er det ingen skjerming av uføres alderspensjon, de tjener opp alderspensjon til 62 år i ny
-opptjeningsmodell og går over på alderspensjon
-ved 67 år. Med regjeringens forslag er reglene slik
-
-at uføre skjermes for om lag to tredjedeler av virkningen av levealdersjusteringen; de tjener opp
-alderspensjon til 65 år og går over på alderspensjon ved den normerte pensjoneringsalderen.
-For det andre har forskjellen på reguleringen av
-minsteytelsene i de to alternativene større betydning for uføre enn for arbeidsføre siden flere uføre
-mottar en (avkortet) garantipensjon.
-Den gjennomsnittlige årlige nedgangen i
-uføres alderspensjon fra 1963 til 2020-kullet med
-regjeringens forslag er én promille, altså litt mindre enn for arbeidsføre. Dette skyldes i hovedsak
-at mange uføre har lav pensjonsopptjening, som
-igjen fører til at en høyere andel uføre mottar
-garantipensjon. Når garantipensjonssatsene reguleres med lønnsveksten, vil garantipensjonen
-utvikle seg gunstigere enn gjennomsnittlig pensjonsnivå i yngre årskull. Grupper med lavere
-opptjening, herunder uføre, vil da over tid komme
-bedre ut enn gjennomsnittet av alle alderspensjonister. I referansebanen er den gjennomsnittlige årlige nedgangen i faste lønninger på sju
-promille.
-Stortinget har en rekke ganger sluttet seg til
-prinsippet om at uføres alderspensjon over tid bør
-følge utviklingen i arbeidsføres alderspensjon, og
-dette er også et bærende prinsipp i Pensjonsutvalgets rapport. Arbeidsføres alderspensjon
-avhenger av hvor lenge arbeidsføre står i arbeid,
-og i beregningen er det forutsatt at arbeidsføre
-
-[Side 196]
-
-194
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-350
-300
-250
-200
-150
-100
-50
-0
-1950
-
-1960
-
-1970
-
-1980
-
-1990
-
-2000
-
-2010
-
-2020
-
-Fødselsår
-Referansebanen
-
-Regjeringens forslag
-
-Figur 11.6 Gjennomsnittlig alderspensjon til arbeidsføre etter fødselsår.1 Tusen 2023-kroner (lønnsdeflatert)
-1
-
-Personer med minst 20 års botid. Det er forutsatt at arbeidsføre kompenserer for to tredjedeler av virkningen av levealdersjusteringen.
-Kilde: Statistisk sentralbyrå.
-
-300
-250
-200
-150
-100
-50
-0
-1950
-
-1960
-
-1970
-
-1980
-
-1990
-
-2000
-
-2010
-
-2020
-
-Fødselsår
-Regjeringens forslag
-
-Referansebanen
-
-Figur 11.7 Gjennomsnittlig alderspensjon til uføre etter fødselsår.1 Tusen 2023-kroner (lønnsdeflatert)
-1
-
-Personer med minst 20 års botid.
-Kilde: Statistisk sentralbyrå.
-
-kompenserer for to tredjedeler av virkningen av
-levealdersjustering.
-Figur 11.8 viser utviklingen i forholdet mellom
-uføres og arbeidsføres alderspensjon. Fra 1954- til
-1963-kullet reduseres forholdet med fem prosentpoeng i referansebanen, hovedsakelig på grunn av
-levealdersjusteringen. Opptjening til 65 år i ny
-
-opptjeningsmodell får gradvis større betydning
-fordi den nye opptjeningsmodellen fases gradvis
-inn over disse årskullene.
-For 1963-kullet øker forholdet i begge alternativene på grunn av omleggingen av offentlig
-tjenestepensjon.
-
-[Side 197]
-
-2023–2024
-
-195
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-95
-90
-85
-80
-75
-70
-65
-60
-1950
-
-1960
-
-1970
-
-1980
-
-1990
-
-2000
-
-2010
-
-2020
-
-Fødselsår
-Regjeringens forslag
-
-Referansebanen
-
-Figur 11.8 Forholdet mellom uføres og arbeidsføres alderspensjon etter fødselsår.1 Prosent
-1
-
-Personer med minst 20 års botid. Det er forutsatt at arbeidsføre kompenserer for to tredjedeler av virkningen av levealdersjusteringen.
-Kilde: Statistisk sentralbyrå.
-
-Etter 1963-kullet er det først en moderat økning
-i forholdet med regjeringens forslag. Det skyldes,
-som nevnt, blant annet at uføre har mer garantipensjon, som ikke levealdersjusteres. Fra rundt
-1995-kullet stabiliserer forholdet seg med flertallets
-forslag. I referansebanen reduseres forholdet fra
-85 prosent for personer født i 1963 til 70 prosent for
-personer født i 2020.
-Både høyere regulering av minsteytelsene og
-mer skjerming av uføres alderspensjon, gjør at
-pensjonene blir høyere med regjeringens forslag
-enn i referansebanen. Dette kommer særlig dem
-med de laveste pensjonene til gode, se figur 11.9.
-Figuren viser fordelingen av alderspensjonen i
-2060 etter prosentiler. Alderspensjonistene er
-altså ordnet etter størrelsen på alderspensjonen
-fra folketrygden og delt i 100 like store grupper.
-Forskjellen mellom de to alternativene er størst,
-både absolutt og relativt, rundt den tjuende prosentilen. Her er gjennomsnittlig alderspensjon
-knapt 16 prosent og i underkant av 33 000 kroner,
-høyere med regjeringens forslag enn i referansebanen.
-Forskjellene mellom alternativene er særlig
-stor blant uføre, se figur 11.10. Her er forskjellen
-mellom alternativene størst rundt prosentil 35; om
-
-lag 23 prosent. Vel 28 prosent av de uføre har en
-alderspensjon under 250 000 kroner med regjeringens forslag, mens det samme gjelder nesten 58
-prosent i referansebanen.
-
-11.2.5 Konsekvenser for folketrygdens
-økonomi
-Regjeringens forslag vil gi relativt sterk vekst i
-folketrygden utgifter. Figur 11.11 og tabell 11.1
-viser utviklingen i pensjonsutgiftene i tre alternativer: referansebanen, regjeringens forslag og et
-alternativ uten pensjonsreform. I beregningen av
-regjeringens forslag er pensjonsutgifter lik summen av utgiftene til alderspensjon og økningen i
-utgiftene til uføretrygd, arbeidsavklaringspenger,
-etterlattepensjon, dagpenger, sykepenger mv.
-sammenlignet med referansebanen. Figuren viser
-at det er relativ stor forskjell på de tre alternativene, og både referansebanen og regjeringens
-forslag har betydelig lavere utgifter enn alternativet uten pensjonsreform. Vi ser også at
-referansebanen og regjeringens forslag har et
-relativt likt forløp fram mot 2040, men deretter er
-det en økende forskjell.
-
-[Side 198]
-
-196
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-400
-350
-300
-250
-200
-150
-100
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-Prosentil
-
-60
-
-70
-
-80
-
-90
-
-100
-
-Referansebanen
-
-Regjeringens forslag
-
-Figur 11.9 Fordeling av alderspensjon fra folketrygden i 2060 etter prosentiler.1 Tusen 2023-kroner
-(lønnsdeflatert)
-1
-
-Alltid bosatte. Forutsatt uttak samtidig med avgang. Gifte og samboende får samlet pensjon delt med en vekt på 1,7.
-Kilde: Statistisk sentralbyrå.
-
-400
-350
-300
-250
-200
-150
-100
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-Prosentil
-Regjeringens forslag
-
-60
-
-70
-
-80
-
-90
-
-100
-
-Referansebanen
-
-Figur 11.10 Fordeling av alderspensjon fra folketrygden blant tidligere uføretrygdede i 2060 etter
-prosentiler.1 Tusen 2023-kroner (lønnsdeflatert)
-1
-
-Alltid bosatte. Forutsatt uttak samtidig med avgang. Gifte og samboende får samlet pensjon delt med en vekt på 1,7.
-Kilde: Statistisk sentralbyrå.
-
-Den midterste delen av tabell 11.1 viser at selv i
-referansebanen, som er en videreføring av 2023reglene, blir det sterk vekst i pensjonsutgiftene; de
-øker med 108 mrd. 2023-kroner i 2060 og 115 mrd.
-2023-kroner i 2080. Nederste del av tabellen viser at
-
-regjeringens forslag øker utgiftene med rundt
-30 mrd. 2023-kroner i 2060 sammenlignet med
-referansebanen og mer enn dobbelt så mye i 2080.
-Flere forhold bidrar til at utgiftene er høyere
-med regjeringens forslag enn i referansebanen.
-
-[Side 199]
-
-2023–2024
-
-197
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-700
-600
-500
-400
-300
-200
-100
-0
-2010
-
-2020
-
-2030
-
-2040
-
-2050
-
-2060
-
-Regjeringens forslag
-
-Ingen pensjonsreform
-
-2070
-
-2080
-
-2090
-
-2100
-
-Referansebanen
-
-Figur 11.11 Pensjonsutgifter.1 Mrd. 2023-kroner (lønnsdeflatert)
-1
-
-Pensjonsutgifter er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv.
-sammenlignet med referansebanen.
-Kilde: Statistisk sentralbyrå.
-
-Tabell 11.1 Pensjonsutgifter.1 Mrd. 2023-kroner (lønnsdeflatert)
-Ingen pensjonsreform
-
-Referansebanen
-
-Regjeringens forslag
-
-2023
-
-304,9
-
-297,0
-
-297,0
-
-2040
-
-453,6
-
-374,0
-
-378,6
-
-2060
-
-559,1
-
-404,8
-
-435,1
-
-2080
-
-641,4
-
-411,6
-
-477,5
-
-2100
-
-645,4
-
-380,2
-
-469,3
-
-2040
-
-148,7
-
-77,0
-
-81,6
-
-2060
-
-254,1
-
-107,8
-
-138,0
-
-2080
-
-336,5
-
-114,6
-
-180,5
-
-Mrd. 2023-kroner
-
-Økning fra 2023. Mrd. 2023-kroner
-
-Endring fra referansebanen i mrd. 2023-kroner
-2040
-
-79,6
-
-4,6
-
-2060
-
-154,3
-
-30,2
-
-2080
-
-229,8
-
-65,9
-
-1
-
-Pensjonsutgifter er utgifter til alderspensjon og økte utgifter til uføretrygd, AAP, etterlattepensjon, dagpenger, sykepenger mv.
-sammenlignet med referansebanen.
-Kilde: Statistisk sentralbyrå.
-
-[Side 200]
-
-198
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-Tabell 11.2 Endring i pensjonsutgifter fra referansebanen til regjeringens forslag. Mrd. 2023-kroner
-(lønnsdeflatert)
-2040
-
-2060
-
-2080
-
-374,0
-
-404,8
-
-411,6
-
--1,2
-
-2,3
-
-12,2
-
-herunder vekst i utgifter til alderspensjon
-
--4,3
-
--6,0
-
-1,1
-
-herunder vekst i utgifter til uføretrygd, AAP og etterlatte
-
-1,8
-
-4,1
-
-4,8
-
-herunder vekst i utgifter til andre folketrygdytelser for personer 62 år
-og eldre
-
-1,3
-
-4,2
-
-6,3
-
-+ Lønnsregulere satsene for minsteytelsene
-
-3,1
-
-10,6
-
-19,7
-
-+ Uføre går over på alderspensjon ved normert pensjoneringsalder
-
-2,7
-
-17,3
-
-34,0
-
-herunder utgifter til alderspensjon til tidligere uføre
-
--4,1
-
--7,8
-
--4,9
-
-herunder vekst i direkte utgifter til uføretrygd
-
-6,8
-
-25,1
-
-38,9
-
-4,6
-
-30,2
-
-65,9
-
-herunder vekst i utgifter til alderspensjon
-
--5,5
-
--3,3
-
-15,8
-
-herunder vekst i utgifter til uføretrygd, AAP og etterlatte
-
-8,8
-
-29,3
-
-43,6
-
-herunder vekst i utgifter til andre folketrygdytelser for personer 62 år
-og eldre
-
-1,3
-
-4,2
-
-6,4
-
-378,6
-
-435,1
-
-477,5
-
-Samlede pensjonsutgifter i referansebanen
-+ Økte aldersgrenser for arbeidsføre og opptjening til 65 år for uføre
-
-Sum utgiftsvekst
-
-Samlede pensjonsutgifter med regjeringens forslag
-Kilde: Statistisk sentralbyrå.
-
-Tabell 11.2 er et forsøk på å anslå hvor mye de
-enkelte endringene bidrar til utgiftsveksten fra
-referansebanen til regjeringens forslag. Dette er
-ingen triviell oppgave fordi det er store samspillseffekter mellom de ulike endringene. Tabellen er
-laget ved å starte med referansebanen og deretter
-endre én og én forutsetning i tråd med regjeringens forslag. Rekkefølgen på endringene
-påvirker den beregnede kvantitative betydningen
-av hver endring.
-Tabell 11.2 viser at økte aldersgrenser for
-arbeidsføre isolert sett har liten betydning for pensjonsutgiftene på mellomlang sikt, men vil øke
-utgiftene på lang sikt. De tre kursiverte linjene i
-tabellen viser hva som bidrar til utviklingen:
-Utgiftene til alderspensjon reduseres på kort sikt
-fordi det blir færre alderspensjonister når aldersgrensene øker. Etter hvert fører imidlertid økt
-opptjening av pensjonsrettigheter til at utgiftene
-til alderspensjon øker noe i 2080. Det som bidrar
-til at utgiftene øker på lang sikt, er veksten i
-utgiftene til andre ytelser fra folketrygden. Veksten
-skyldes at flere vil motta disse ytelsene når nedre
-aldersgrense for å motta alderspensjon øker. Med
-
-de nyeste prognosene for delingstall vil den nedre
-aldersgrensen for å kunne ta ut alderspensjon ha
-økt med nærmere tre og et halvt år i 2060.
-Overgangen fra å regulere minsteytelsene
-med gjennomsnittet av lønns- og prisveksten i
-referansebanen til å regulere minsteytelsene i takt
-med lønnsveksten, gir høyere pensjoner til alle som
-mottar hel eller avkortet garantipensjon. Det gir
-en gradvis sterkere økning i utgiftene, og i 2080
-øker lønnsreguleringen utgiftene med nærmere
-20 mrd. 2023-kroner sammenlignet med referansebanen. Dette er i all hovedsak resultatet av at
-utgiftene til alderspensjon øker.
-Også skjermingen av uføres alderspensjon øker
-utgiftene betydelig. Bak dette ligger det at
-aldersgrensen for når uføre går over på alderspensjon følger den normerte pensjoneringsalderen (mens opptjeningsalderen ligger fast på 65
-år). Det er særlig utgifter til uføretrygd – som
-skal betales ut lenger når overgangen til alderspensjon skjer ved en høyere alder – som øker,
-mens utgiftene til alderspensjon til tidligere
-uføre går ned fordi alderspensjonen betales ut en
-kortere periode.
-
-[Side 201]
-
-2023–2024
-
-199
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-35
-30
-25
-20
-15
-10
-5
-0
-2010
-
-2020
-
-2030
-
-2040
-
-Ingen pensjonsreform
-
-2050
-
-2060
-
-Regjeringens forslag
-
-2070
-
-2080
-
-2090
-
-2100
-
-Referansebanen
-
-Figur 11.12 Bidragsrate. Prosent
-Kilde: Statistisk sentralbyrå.
-
-Regjeringens forslag gir økt sysselsetting og høyere pensjoner. Finansieringsgrunnlaget for økte
-pensjonsutgifter blir dermed høyere. Bidragsraten er et mål på finansieringsbyrden til pensjonssystemet som har blitt benyttet siden Pensjonskommisjonen1, se boks 5.1 i avsnitt 5.3 for definisjon av bidragsraten. I beregningene til denne
-meldingen er bidragsraten målt som forholdet
-mellom pensjonsutgiftene og summen av samlede
-lønnsutbetalinger og halvparten av pensjonsutgiftene. Grunnen til at bare halvparten av pensjonsutgiftene regnes med, er at skatt på alderspensjon
-er lavere enn skatt på lønnsinntekt. Siden pensjonsutgiftene i denne meldingen omfatter mer
-enn utgiftene til alderspensjon, er bidragsraten
-ikke direkte sammenlignbar med bidragsraten i
-tidligere regjeringsdokumenter, for eksempel
-Ot.prp. nr. 37 (2008–2009) der lovforslaget om ny
-alderspensjon i folketrygden ble lagt fram.
-Bidragsraten kan tolkes som den skattesatsen
-som må settes på pensjoner og lønninger dersom
-pensjonsutgiftene skulle betales ved å skattlegge
-inntekt samme år.
-Figur 11.12 viser bidragsraten i de tre beregningsalternativene. I 2010 er bidragsraten i underkant av tolv prosent, og uten pensjonsreform passerer den 30 prosent i første del av 2070-tallet.
-Veksten er vesentlig svakere i de to andre alternativene, og relativt lik fram mot 2040. I referanse1
-
-NOU 2004: 1 Modernisert folketrygd. Bærekraftig pensjon for
-framtida.
-
-banen avtar veksten etter 2040, men det er fortsatt
-en økning fram til slutten av 2070-tallet da bidragsraten nærmer seg 20 prosent. Selv med pensjonsreformen er det altså en betydelig vekst i bidragsraten. Med regjeringens forslag øker bidragsraten
-mer etter 2040 enn i referansebanen, og i 2060 er
-forskjellen 1,2 prosentpoeng og i 2080 er den 2,6
-prosentpoeng.
-Det er bare en del av skatteinntektene fra økt
-arbeidstilbud som vil gå til å finansiere pensjonsutgiftene, og den resterende delen kan benyttes til
-andre formål for staten. Som et alternativ til
-bidragsraten, har Statistisk sentralbyrå utviklet et
-forenklet mål på hva skattesatsen måtte være, dersom hele økningen i skattebasen som følge av en
-regelverksendring skulle bli brukt til å lette
-finansieringsbyrden av pensjonsutgiftene.2 Dette
-målet, kalt netto skattesats, er en brøk der telleren
-er pensjonsutgiftene fratrukket en fjerdedel av
-økningen i skattebasen fra referansebanen, mens
-nevneren er lik skattebasen i den alternative
-beregningen. Skattebasen er her definert som
-summen av alle utbetalinger av lønn, pensjoner,
-uføretrygd og arbeidsavklaringspenger. Slik netto
-skattesats er konstruert, blir endringen i netto
-skattesats fra referansebanen et mål på hvordan
-en alternativ beregning samlet bidrar til å styrke
-2
-
-Se nærmere beskrivelse i Fredriksen, Dennis, Herman
-Kruse og Nils Martin Stølen (2022). Dynamisk justering av
-aldersgrensene i pensjonssystemet. Belyst ved modellen
-MOSART. Rapporter 2022/22. Oslo: Statistisk sentralbyrå.
-
-[Side 202]
-
-200
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-20
-18
-16
-14
-12
-10
-8
-6
-4
-2
-0
-2010
-
-2020
-
-2030
-
-2040
-
-2050
-
-Regjeringens forslag
-
-2060
-
-2070
-
-2080
-
-2090
-
-2100
-
-Referansebanen
-
-Figur 11.13 Netto skattesats. Prosent
-Kilde: Statistisk sentralbyrå.
-
-eller svekke bærekraften i statsfinansene. Netto
-skattesats bør ikke tolkes som et mål på finansieringsbyrden av pensjonsutgiftene i den alternative
-beregningen.
-Figur 11.13 viser netto skattesats i referansebanen og med regjeringens forslag. Vi ser at forløpet er relativt likt forløpet på bidragsraten i figur
-11.12, men nivåene er lavere, og både den absolutte og relative forskjellen mellom kurvene er
-mindre enn i figur 11.12. I 2060 er netto skattesats
-0,8 prosentpoeng høyere med regjeringens forslag enn i referansebanen, og i 2080 er forskjellen
-1,6 prosentpoeng.
-
-11.2.6 Samlet vurdering
-Pensjonssystemet må være økonomisk og sosialt
-bærekraftig. Pensjonsreformen har bidratt til å
-styrke den økonomiske bærekraften vesentlig,
-men regjeringen mener det nå er behov for å
-styrke den sosiale bærekraften. Forslagene i
-denne meldingen vil bidra til det.
-Gjeldende regler for uføres alderspensjon er
-ikke bærekraftige på sikt. Regjeringens forslag vil
-gi et vesentlig løft i uføres gjennomsnittlige alderspensjon, se figur 11.7. Uføres gjennomsnittlige
-alderspensjon bør over tid følge utviklingen i
-arbeidsføres
-gjennomsnittlige
-alderspensjon.
-Utviklingen i arbeidsføres gjennomsnittlige alderspensjon er avhengig av hvor lenge arbeidsføre
-velger å stå i arbeid, og dette er usikkert. Hvordan
-forholdet mellom uføres og arbeidsføres alders-
-
-pensjon utvikler seg, er dermed også usikkert. Det
-må derfor etter en tid vurderes om nye regler for
-uføres alderspensjon gir en rimelig utvikling.
-Minsteytelsene i pensjonssystemet reguleres
-nå med gjennomsnittet av lønns- og prisveksten.
-Over tid betyr det at minsteytelsene reduseres i
-verdi sammenlignet med en gjennomsnittslønn.
-Regjeringens forslag vil bety at verdien opprettholdes og gi mer robuste regler. Minsteytelsene
-vil følge utviklingen i grunnbeløpet i folketrygden,
-på samme måte som minsteytelsene for uføretrygd og arbeidsavklaringspenger. Bedre regulering av minsteytelsene vil bety høyere alderspensjon for mange, og bidra til å løfte pensjonen
-særlig for de som har de laveste pensjonene, se
-figur 11.9.
-Økte aldersgrenser er en naturlig videreutvikling av pensjonsreformen som vil styrke både den
-økonomiske og sosiale bærekraften i pensjonssystemet. Det vil gi økt sysselsetting, og mange vil
-få en høyere alderspensjon. Det vil også redusere
-kostnadene ved forslaget om bedre regulering av
-minsteytelsene.
-Forslagene i denne meldingen vil etter hvert
-gi en vesentlig økning i folketrygdens utgifter
-sammenlignet med en videreføring av dagens
-regler, se figur 11.11 og tabell 11.1. Å videreføre
-dagens regler er imidlertid ikke noe realistisk
-alternativ på lang sikt. Regjeringens forslag vil
-fortsatt gi en betydelig innsparing sammenlignet
-med om pensjonsreformen ikke var gjennomført,
-og kan bidra til å befeste pensjonsreformen.
-
-[Side 203]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-11.3 Administrative konsekvenser
-Forslagene om økte aldersgrenser, økt opptjening
-for uføre og endret regulering av minstenivåene
-vil samlet ha betydelige økonomiske og administrative konsekvenser for Arbeids- og velferdsetaten. Arbeids- og velferdsdirektoratet har særlig
-trukket fram at følgende områder berøres:
-– Systemendringer i saksbehandlingssystemene
-for pensjon og uføretrygd
-– Systemendringer i øvrige saksbehandlingssystemer
-– Endringer i selvbetjeningsløsninger/søknadsløsninger
-– Endringer i informasjonsbrev og på nettsiden
-nav.no
-– Opplæring og informasjon
-Videre vil forslagene kunne medføre økt ressursbehov knyttet til utvikling av digitale informasjonsverktøy, veiledning og tettere oppfølging av
-økt antall brukere på helserelaterte ytelser.
-Arbeids- og velferdsdirektoratet vurderer at det er
-for tidlig å si noe konkret om administrative kostnader og gjennomføringsevne.
-Arbeids- og velferdsdirektoratet har i høringsrunden pekt på at saksbehandlingen på alderspensjonsområdet i dag i stor grad er automatisert.
-Arbeids- og velferdsdirektoratet uttaler at det er
-avgjørende at saksbehandlingssystemer er oppdatert med eventuelle lovendringer før gjennomgripende endringer trer i kraft. I motsatt fall vil saksbehandlingen måtte gjøres manuelt, noe som med
-dagens ressurssituasjon ikke lar seg gjennomføre.
-For å opprettholde automatiseringsgraden, og forhindre en kraftig økning i ressursbehov i saksbehandlingsenhetene, er direktoratet opptatt av at
-det gis god tid fra lovforslag vedtas til de trer i
-kraft, og at det bevilges tilstrekkelige økonomiske
-midler til at direktoratet kan ivareta de systemtekniske utfordringene som må løses før endringene
-kan iverksettes.
-For at økte aldersgrenser skal fungere godt i
-det samlede pensjonssystemet bør aldersgrensene
-for supplerende pensjoner, herunder tjenestepensjoner og AFP, følge utviklingen i aldersgrensene i
-folketrygden. Dette betyr at det også vil være
-betydelige administrative kostnader for andre
-aktører, herunder tjenestepensjonsleverandører. I
-høringsrunden har også tjenestepensjonsleverandørene trukket fram viktigheten av forutsigbarhet,
-
-201
-
-både for den enkelte, men også for deres medlemsvirksomheter. De peker videre på behovet for
-at det gis tilstrekkelig tid til administrative forberedelser før ikrafttredelse av nytt regelverk.
-Samlet vil tilpasninger i regelverket som følger
-av forslagene som skisseres i denne stortingsmeldingen kreve betydelige tilpasninger i
-pensjonsleverandørenes administrative systemer.
-Blant annet må IKT-systemene tilpasses
-endringene i regelverket. Det gjelder både kalkulatorene som benyttes til å gi anslag på framtidige
-pensjonsutbetalinger og systemene som faktisk
-beregner pensjonen når den skal betales ut.
-Videre skal systemene bidra til god informasjon til
-den enkelte og sørge for effektiv drift. Nye IKTløsninger bør også sikre god informasjonsutveksling mellom Arbeids- og velferdsdirektoratet og andre aktører. Det er for tidlig å gi et kvalifisert anslag på kostnadene knyttet til systemtilpasninger på det nåværende tidspunkt. Dette
-skyldes blant annet at ambisjonsnivået for denne
-Stortingsmeldingen ikke er å avklare detaljutformingen av regelverket. Hovedformålet med
-forslagene i denne stortingsmeldingen er å peke
-ut en retning som styrker den sosiale profilen i
-folketrygdens alderspensjon.
-Arbeids- og inkluderingsdepartementet vil i
-forbindelse med utformingen av konkrete
-endringsforslag
-kartlegge
-hvilke
-systemendringer som er nødvendige for at Arbeids- og
-velferdsetaten kan gjennomføre forslagene med
-en forsvarlig drift. Departementet kommer tilbake
-med et konkret forslag til nødvendige tiltak og
-tidsplaner for implementering etter at Stortinget
-har vedtatt hovedprinsippene for framtidens pensjonssystem.
-Regjeringen er opptatt av at systemutviklingen
-bør bidra til god informasjon til den enkelte og
-sørge for effektiv drift. Den konkrete regelverksutformingen bør derfor vektlegge forenkling,
-muligheten for automatiserte løsninger og god
-samhandling mellom ulike aktører. Arbeids- og
-inkluderingsdepartementet vil ha dialog med
-berørte instanser i utformingen av konkrete
-endringsforslag, og konkrete endringsforslag vil
-bli sendt på alminnelig høring. Den konkrete
-regelverksutformingen vil gi berørte aktører et
-bedre grunnlag for å vurdere administrative kostnader og implementeringstid, og Stortinget vil bli
-forelagt anslag på administrative konsekvenser i
-forbindelse med lovarbeidet.
-
-[Side 204]
-
-202
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-Arbeids- og inkluderingsdepartementet
-tilrår:
-Tilråding fra Arbeids- og inkluderingsdepartementet 15. desember 2023 om et forbedret
-pensjonssystem med en styrket sosial profil blir
-sendt Stortinget.
-
-2023–2024
-
-[Side 205]
-
-[Side 206]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-Omslagsillustrasjon: DepMedia
-Foto:
-Mann med barn på ryggen: NTB
-To kvinner som ser på dokument: Maskot
-Ung kvinne som fikser kabel: Johner
-To menn som klemmer: Maskot
-Øyne voksen og barn: Plainpicture
-
-ME
-
-R K E T T RY
-
-1
-
-46
-
-20
-4
-
-KK
-K
-
-MI
-
-JØ
-
-SA
-
-L
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 12/2023
-
-De
-
-p M edia
-
-04
+Når delingstallene fastsettes benyttes det et fratrekk som reflekterer forventninger om framtidig reallønnsvekst. For å sikre at pensjonsreglene er konsistente bør derfor utgangspunktet for framskrivingen av minstenivået på uttakstidspunktet også være forventet reallønnsvekst, når kriteriet for tidliguttak skal vurderes. Med reglene for regulering av pensjon under utbetaling og dagens forventning om reallønnsvekst på 1,5 prosent, vil dette i utgangspunktet innebære at minstenivået framskrives tillagt en fast faktor på 0,75 prosent. Som påpekt vil det kunne bety at pensjonen som mottas ved normert pensjoneringsalder vil bli lavere enn det årskullspesifikke minstenivået, dersom reallønnsveksten blir høyere enn forventet. Et tillegg til faktoren på 0,75 prosent vil imidlertid redusere sannsynligheten for at pensjonen kommer under det årskullspesifikke minstenivået. I den videre oppfølgingen vil regjeringen derfor vurdere om det er behov for en slik sikkerhetsmargin.

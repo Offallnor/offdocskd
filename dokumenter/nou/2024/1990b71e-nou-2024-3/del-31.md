@@ -1,1003 +1,328 @@
-# NOU 2024: 3, del 31 av 40 (side 393–404)
+# NOU 2024: 3, del 31 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 393]
+## En forpliktende samhandlingsmodell
 
-NOU 2024: 3
+Det forebyggende arbeidet mot voldelig ekstremisme skal ifølge regjeringens handlingsplan gjøres av ulike aktører i fellesskap. For å gi denne felles innsatsen de nødvendige organisatoriske og juridiske rammene som legger til rette for et best mulig samarbeid, foreslår kommisjonen en ny, forpliktende samhandlingsmodell.
 
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
+Med en forpliktende samhandlingsmodell mener kommisjonen et samarbeid mellom tjenester i et hensiktsmessig geografisk område for å vurdere og følge opp bekymringer knyttet til radikalisering og voldelig ekstremisme når de oppstår, samt følge opp allerede radikaliserte personer med mål om reintegrering. For å være *forpliktende* må samhandlingsmodellen skiftliggjøres med forhåndsdefinerte samarbeidspartene, for eksempel politiet, lokalt PST, kommunen, Nav, barnevernstjenesten og helseinstitusjoner.
 
-misme i henhold til kommisjonens bredere definisjon av ekstremisme. Det kan også være aktuelt å
-styrke allerede pågående forskning og ha mulighet til å følge med på trender og trusler som dukker opp. Økt støtte til Terra vil kunne føre til færre
-midler til andre forskningsområder eller annen
-aktivitet. Dette er en løpende vurdering som de
-bevilgende myndighetene må gjøre. Alternativt
-kan midler komme fra ulike konkurranseutsatte
-forskningsområder og vurderes ut fra ulike kriterier og i sammenligning med andre forskningstilbydere.
-Som med andre former for ekstremisme vil
-trusler, avvergede hendelser og faktiske hendelser innen ekstrem islamisme komme og gå. Dette
-kan ikke være utslagsgivende for oppdrag og midler. Dette gjelder spesielt i det som kan betraktes
-som «roligere» perioder uten store hendelser eller
-spesielt synlig ekstremistisk aktivitet. For å sikre
-institusjonell kunnskap og forståelse gjennom
-ulike samfunnsmessige utviklingstrekk er det
-vesentlig med kontinuerlig forskning også på
-dette området. Dette er også viktig for å opprettholde kunnskap, ressurser og kontakter. Samtidig
-er komparativ forskning viktig for forståelse og
-innsikt. Som omtalt i kapittel 31 Forskning har
-Terra og C-REX et pågående samarbeid om trusler fra høyreekstreme og ekstrem islamisme i
-Europa.
-Terra har opparbeidet seg særegen kompetanse og innsikt på et forskningsfelt som har stor
-betydning for norsk og internasjonal kunnskap
-om ekstrem islamisme. Kommisjonen anser at
-videre forskning på området er avgjørende, og
-understreker viktigheten av at Terra sikres videre
-finansiering og oppdrag. En styrking av fagmiljøet
-med fokus på tilgrensende og komparative områder innen forskningen kan med fordel vurderes.
-Dette kan være gjennom økte midler som eventuelt kan brukes til økte forskningsressurser eller til
-nye eller forsterkede forskningsområder innen
-ekstrem islamisme. Dette er uavhengig av utviklingen av ekstrem islamisme i norsk kontekst,
-ettersom den transnasjonale og grenseløse ekstremismen gjør at fortsatt forskning på tematikken
-også i Norge vil være verdifull. Det vil også bidra
-til å sikre institusjonell kunnskap og rekruttering
-til et fagfelt som er i kontinuerlig endring.
-Kommisjonens anbefaling:
+Samarbeidsmodellen er hovedsakelig ment for å drøfte konkrete saker, men vil også kunne fungere som et fagnettverk og en arena for kompetanseheving ved behov. I saker om enkeltpersoner vil det variere hvilke tjenester som bør delta. Det finnes allerede samhandlingsmodeller i flere norske byer og kommuner organisert etter SLT-modellen eller lignende, der ekstremisme er ett av flere områder det jobbes med. Målet med en forpliktende samhandlingsmodell for radikalisering og ekstremisme er ikke å erstatte eksisterende, gode samarbeidsfora, men å tydeliggjøre at radikalisering og ekstremisme må være et fokusområde for disse. Kommisjonen har for eksempel fått opplyst at ikke alle SLT/Salto-koordinatorer i Oslo har hatt radikalisering som en del av deres oppgaver.
 
-•
+Nedenfor følger kommisjonens drøftelser og anbefalinger rundt sentrale elementer i samhandlingsmodellen: kommunens rolle, samarbeidsfora, informasjonsdeling, vurderingsverktøy og reintegrering. Noen av disse anbefalingene er avhengige av hverandre. Samarbeidsfora og vurderingsverktøy er for eksempel langt mindre nyttig dersom man ikke kan dele informasjon. En organisering av samarbeidet i en formell struktur er også et vilkår for at aktørene faktisk kan dele informasjon etter hjemlene for informasjonsdeling som anbefales nedenfor.
 
-Forsvarets forskningsinstitutts forskningsprosjekt Terra videreføres og styrkes finansielt.5
+### Kommunens mandat og kontaktpunkt for forebygging av radikalisering og voldelig ekstremisme
 
-391
+Av regjeringens handlingsplan mot radikalisering og voldelig ekstremisme følger det at kommunene er forventet å arbeide mot radikalisering og voldelig ekstremisme innenfor det ordinære kommunale apparatet og ved bruk av eksisterende virkemidler og samarbeidsstrukturer. Mange av de viktigste forebyggende tiltakene som sysselsetting, livsopphold, god omsorg og bolig ligger til kommunene.
 
-Kapittel 53
+Personer som radikaliseres, har ofte flere ulike sårbarhets- og risikofaktorer. Det kan for eksempel være utfordringer som omsorgssvikt, psykisk uhelse, arbeidsledighet, utdanning, tilpasningsproblemer og manglende tilhørighet. Som det kommer frem i kommisjonens saksgjennomgang, har mange av de radikaliserte hatt traumatiske opplevelser tidlig i livet. Dessuten kommer det både barn og voksne til Norge fra konfliktområder med opplevelser som gjør dem særlig sårbare. Dette er forhold som kommunale aktører blant annet innen barnevernet, helsetjenesten, sosialtjenesten og skolen har ansvar for å følge opp. At disse tjenestene oppfyller sitt lovpålagte ansvar, er avgjørende for det forebyggende arbeidet. Lenge før det er snakk om en radikaliseringsbekymring, kan et velfungerende offentlig tjenestetilbud være avgjørende for enkeltpersoners utvikling. I det følgende fokuserer vi imidlertid på kommunenes arbeid knyttet til konkrete radikaliseringsbekymringer og reintegrering.
 
-Samarbeid innen forskning
-At forskere samarbeider og utveksler erfaringer
-og kunnskap, er viktig. Slike samarbeid bidrar til å
-styrke forskningen samtidig som den holdes relevant. I dag er det samarbeid mellom ulike forskningsmiljøer, også mellom sentrale forskningsmiljøer innen ekstremismeforskning i Norge. Det
-skjer både gjennom Konsortiet for terrorismeforskning og gjennom andre forskningssamarbeid og
-fora. Dette bidrar til viktig kunnskapsutvikling.
-Samarbeid er etter hva kommisjonen forstår,
-generelt preget av ulike samhandlingsrutiner og
-initiativ eller basert på krav om samarbeid i
-forskningsutlysninger. Samarbeid kan også henge
-sammen med at det også i forskningen kan være
-personavhengige relasjoner og arbeid. Dette kan
-være styrkende i enkelte sammenhenger, men
-utfordrer institusjonelle samhandlingsbånd og
-kontinuitet.
-Det foreslåtte akademiske rådet for det nasjonale senteret for innsats mot radikalisering og voldelig ekstremisme, vil kunne være et forum for
-kontakt og dialog mellom ulike forskningsmiljø i
-Norge. Det kan også være aktuelt med samarbeid
-gjennom undervisning i det foreslåtte nye studieemnet om radikalisering og ekstremisme, som
-omtales nedenfor.
-Forskning på feltet drar også nytte av internasjonale kontakter og samarbeid. Norske forskere
-innenfor ekstremisme har gode og relevante internasjonale forbindelser, både gjennom ulike
-forskningsnettverk og samarbeid og gjennom internasjonale institusjoner. Å lære av hverandre og å
-kunne identifisere internasjonale utviklingstrekk
-og trekke paralleller til Norge er viktig for en dynamisk og kontinuerlig kunnskapsutvikling på feltet.
-Det er viktig at det legges til rette for gode muligheter for internasjonalt samarbeid og kontakt fremover. Dette henger nødvendigvis sammen med at
-ekstremisme er et globalt fenomen, og at forskningssamarbeid og deling av kunnskap og data kan
-bidra til større forståelse av utvikling, trender og
-nasjonale særegenheter. Videre at andre land kan
-ha sammenlignbare utfordringer og allerede gjennomførte forskningsprosjekter som er relevante
-for Norge, eller omvendt. Som omtalt ovenfor kan
-det nasjonale senteret som kommisjonen foreslår
-være et mulig fremtidig kontaktpunkt for internasjonale forskere og andre som ønsker å komme i
-5
+Flere aktører har gitt innspill til kommisjonen om at det er behov for tydeligere føringer og en rolleavklaring for kommunene i det forebyggende arbeidet mot voldelig ekstremisme. Kommisjonen har merket seg at det er stor variasjon i hvordan det forebyggende arbeidet organiseres i forskjellige deler av Norge. Dette skyldes blant annet ulik størrelse på kommunene, lokale utfordringer og erfaringer og enkeltpersoners engasjement. Det er etter kommisjonens syn hensiktsmessig med noe lokal tilpasning i arbeidet, og vi anerkjenner at det er mange kommuner som ikke har behov for å jobbe opp mot radikalisering og voldelig ekstremisme i det daglige. Norske kommuner har allerede en lang rekke lovpålagte oppgaver som mange kommuner sliter med å oppfylle.
 
-Kommisjonsmedlem Petter Nesser deltok ikke i behandlingen av denne anbefalingen fordi han er ansatt som sjefsforsker ved FFI
+Gitt de svært alvorlige konsekvensene for liv og samfunn ekstremisme kan ha, mener kommisjonen likevel det er nødvendig at det fastsettes et minimumsnivå for hva en norsk kommune bør ha på plass av tiltak og systemer på dette feltet. Kommisjonen mener at kommunene bør få et tydelig mandat, og at det er hensiktsmessig å gjøre dette ved å etablere funksjonen kontaktpunkt for forebygging av radikalisering og voldelig ekstremisme i alle kommuner.
 
-[Side 394]
+Formålet med å etablere denne funksjonen er at kommunen ved behov vil ha en ressurs som har radikalisering og voldelig ekstremisme som ansvarsområde, og som kan møte denne utfordringen i den lokale konteksten. Med kontaktpunkt menes en som kan kontaktes av både privatpersoner og andre tjenester.
 
-392
+I rapporten fra evalueringen av politiets radikaliseringskontaktordning ble det foreslått at ansvaret for å koordinere personrettede tiltak ved bekymringsmeldinger og i enkeltsaker som kan forebygge radikalisering og voldelig ekstremisme, bør ligge hos kommunene.[^2149] Forfatterne mener forebyggende tiltak i denne sammenhengen bør dreie seg om å forhindre at intensjonen om å begå voldelig ekstremisme oppstår, hovedsakelig gjennom sosialforebyggende tiltak. Samtidig understreker forfatterne at i det øyeblikket en slik intensjon oppstår i kombinasjon med kapasitet til å utføre handlingen, er det PST som må overta ansvaret for å lede det forebyggende arbeidet, som i så fall vil dreie seg om å avverge en eventuell hendelse. Ansvarsfordelingen mellom politiet og PST drøftes videre nedenfor.
 
-Kapittel 53
+Kommisjonen er enig i premisset for anbefalingen i evalueringsrapporten om at der det ikke foreligger grunn til å frykte fremtidig kriminalitet, er det ikke politiets eller PSTs ansvar å følge opp den aktuelle personen. Samtidig har mange kommuner per i dag ikke kompetanse eller ressurser til å stå for en slik oppfølging. Etter kommisjonens syn vil et lokalt kontaktpunkt være godt egnet til å påta seg en slik rolle. Samtidig er det viktig å understreke at det må være god kommunikasjon mellom kommunen og politiet eller PST dersom det skjer endringer som tilsier at trusselvurderingen må justeres. Dette henger også tett sammen med muligheten til informasjonsdeling og utviklingen av vurderingsverktøy omtalt nedenfor.
 
-NOU 2024: 3
+I mange kommuner vil det trolig ikke være behov for at funksjonen som kontaktpunkt utgjør en fulltidsstilling. I en del mindre kommuner mener kommisjonen at det vil være tilstrekkelig å legge funksjonen til eksisterende stillinger. Der det finnes SLT-koordinatorer, vil disse være et naturlig kontaktpunkt. Samtidig mener kommisjonen at kontaktpunktet skal gjøre mer enn å koordinere. Kontaktpunktet skal også kunne følge opp personer og enten inneha kompetanse om radikalisering, voldelig ekstremisme og reintegrering eller innhente slik kompetanse ved behov, for eksempel gjennom samarbeidsforaene som omtalt nedenfor eller fra et nasjonalt senter som anbefalt ovenfor.
 
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
+Det er likevel ikke hensiktsmessig at kontaktpunktet overtar oppgaver som per i dag hører naturlig til i andre tjenesters eksisterende oppdrag. Kontaktpunktets mandat må derfor tydeliggjøre hvilke tiltak som kan settes inn, og forholdet til andre kommunale tjenester. I tillegg må kontaktpunktet ha klare juridiske rammer for arbeidet og systemer for dokumentasjon av arbeidet. I kommisjonens saksgjennomgang kom det frem at mange SLT/Salto-koordinatorer ikke har fagsystemer. Skal kontaktpunktene følge opp enkeltpersoner må slike systemer komme på plass.
 
-kontakt med norske forskningsmiljøer på radikalisering og ekstremisme.
+Etter kommisjonens syn kan kontaktpunktet ved behov, særlig i små kommuner, etableres som en del av interkommunale samarbeid, hvor kommuner i en region går sammen om å etablere funksjonen. For større bykommuner kan det være aktuelt å ha ett kontaktpunkt per bydel. Det viktigste er at vedkommende som innehar funksjonen, har riktig kompetanse, og at innbyggere og andre deler av tjenesteapparatet lett kan komme i kontakt med den eller dem som innehar funksjonen. Det er viktig med en god forankring i kommunen når funksjonen etableres. For å synliggjøre funksjonen og sikre at arbeidet prioriteres, bør rollen være organisatorisk nært kommunens ledelse.
 
-53.2 Et tverrsektorielt studieemne for
-dem som jobber med forebygging
-av radikalisering og ekstremisme
-For å øke kompetansen hos dem som jobber med
-forebygging av radikalisering og ekstremisme, er
-det viktig at kurs- og studietilbudet er tilstrekkelig, og at de får muligheter til å faktisk delta på
-kurs og ta studier. Det finnes studiesteder i dag
-som tilbyr relevante studier for dem som arbeider
-med dette, men kommisjonen mener det er viktig
-at det finnes et felles tverrsektorielt studieemne
-om ekstremisme.
-Formålet med et slikt studieemne er å øke
-kunnskapen om radikalisering og ekstremisme,
-bidra til nettverksbygging og samhandling. Studieemnet skal gi faglig påfyll for dem som arbeider på feltet på ulike myndighetsnivå. Emnet bør
-derfor være relevant for en variert gruppe, både
-for ansatte i førstelinjen og for dem som jobber i
-direktorater eller departementer. Samtidig er det
-viktig at studieemnet er praksisnært. På den
-måten vil man dra nytte av hverandres kompetanse og øke forståelsen for hverandres roller og
-ansvar. Arbeidsgivere bør oppfordres til å tilrettelegge slik at det lar seg gjøre å kombinere studieemnet med jobb.
-Studieemnet bør som et minimum ta for seg
-følgende temaer:
-• hva er ekstremisme? Forståelse av ulike
-ekstreme retninger, deres fiendebilder og
-dagens trusselbilde.
-• hvem radikaliseres? Sårbarhets- og risikofaktorer.
-• radikalisering og ekstremisme på digitale flater.
-• hvordan håndtere en radikaliseringsbekymring?
-• de ulike aktørenes mandater, ansvar og oppgaver opp mot barn og voksne. Modeller for
-samarbeid og regelverk om informasjonsdeling.
-• forebyggingsstrategier.
-• reintegrering.
-Studieemnet bør tilbys regelmessig og gjøres
-kjent blant relevante aktører. Det bør også vurderes hvordan det legges til rette for deltakelse fra
-hele landet på best mulig måte. Hvilken institusjon som skal tilby emnet, opptakskrav og andre
-kriterier må utredes nærmere.
+Etter kommisjonens syn vil en slik funksjon i kommunen gjøre det lettere for innbyggere, skoler og helseinstitusjoner mv. å finne frem hvem en kan ta kontakt med om en sak eller bekymring. Denne funksjonen i kommunen vil være en naturlig samarbeidspartner for den lokale radikaliseringskontakten i politiet. Kontaktpunkter bør også etablere tillitsfulle relasjoner til ulike aktører i kommunen som skoler, ungdomsklubber og religiøse institusjoner. Et fast kontaktpunkt vil også kunne legge et grunnlag for bedre samhandling internt i kommunen. Kontaktpunktet kan også bidra til samarbeid på tvers av kommuner gjennom regionale fora.
+
+Kommisjonen kommer ikke med egne anbefalinger om barnevernets rolle i det forebyggende arbeidet mot ekstremisme. Ved å oppfylle sin lovpålagte rolle vil barnevernet allerede kunne ha stor betydning for å forebygge ekstremisme ved å sikre barn god omsorg og gode oppvekstvilkår. I saker der barn og ungdom radikaliseres er det likevel klart at barnevernet vil ha en naturlig rolle. Det samme kan være aktuelt der foreldre blir radikalisert til voldelig ekstremisme. Barnevernet bør i slike saker jobbe tett med det kommunale kontaktpunktet.
+
+Kommisjonen har fått flere innspill om at dersom kommunens mandat ikke lovfestes, vil dagens situasjon i stor grad opprettholdes. Det følger av kommuneloven at det kommunale selvstyret ikke bør begrenses, med mindre det er en grunn for å gjøre det av hensyn til nasjonale mål, jf. kommuneloven § 2-2. I dette tilfellet er det nasjonale hensynet å forebygge radikalisering og voldelig ekstremisme som i verste fall kan lede til terror eller andre former for ekstremistisk vold, med de enorme omkostningene dette har for enkeltpersoner og samfunnet som helhet. Etter kommisjonens syn foreligger det tungtveiende nasjonale hensyn som tilsier en begrensing av det kommunale selvstyret. På den andre siden er voldelig ekstremisme ikke et utbredt problem i Norge, og det finnes en rekke andre oppgaver som norske kommuner skal og bør prioritere.
+
+Ettersom funksjonen kan legges til en eksisterende stilling eller organiseres gjennom interkommunalt samarbeid, vil et kontaktpunkt i kommunen ikke nødvendigvis være meget ressurskrevende og slik sett utgjøre et mindre inngrep i selvstyret. I de fleste byer og større kommuner finnes det allerede lignende funksjoner, og disse vil kunne fortsette sitt arbeid om enn med noe justering. Kommisjonen merker seg at også store kommuner med lang og omfattende erfaring fra det forebyggende arbeidet har etterspurt en tydeligere rolle for kommunene i det forebyggende arbeidet. Kommisjonen mener derfor at kommunens ansvar på området bør lovfestes.
+
+Kommisjonen har ikke tatt stilling til om en slik hjemmel bør inkluderes i eksisterende lovverk, eller om det er nødvendig med en egen lov. Dersom kommunenes mandat på dette feltet skal lovfestes, bør det som en del av lovarbeidet vurderes om samarbeidet med andre aktører skal reguleres. Statsforvalteren er et viktig bindeledd mellom kommunene og sentrale myndigheter. Dersom kommunens ansvar i det forebyggende arbeidet lovfestes, vil det være naturlig å gi Statsforvalteren en rolle med å gjennomføre tilsyn knyttet til opprettelsen og utførelsen av kontaktpunktet i kommunene.
 
 Kommisjonens anbefaling:
 
-•
+- Funksjonen kontaktpunkt for forebygging av radikalisering og voldelig ekstremisme etableres i alle kommuner. Kommunens rolle i det forebyggende arbeidet og kontaktpunktfunksjonen fastsettes i lov.
 
-Det opprettes et tverrsektorielt studieemne for
-dem som jobber med forebygging av radikalisering og ekstremisme.
+### Lokale og regionale samarbeidsarenaer
 
-53.3 Styrket kompetanse hos ansatte
-i skolen
-Hvor stort skolens ansvar bør være i forebyggende sammenheng, og hvordan skolen bør
-snakke om og følge opp radikaliseringsbekymringer, er utfordrende spørsmål. For stort fokus på
-ekstremisme kan ha negative og utilsiktede konsekvenser. Det er viktig at skolens forebyggende
-arbeid ikke bereder grunnen for en fryktkultur
-som kan skade tillits- og omsorgsrelasjoner. Det
-kan føre til at forebyggingsarbeidet hemmes.
-Samtidig må ansatte i skolen være i stand til å
-gjenkjenne tegn på radikalisering og vite hva som
-skal gjøres, og hvem som eventuelt skal kontaktes. Gjennom økt kunnskap om at skolens sentrale
-mandat handler om å blant annet bidra til inkluderende fellesskap og opplæring i demokrati og
-menneskerettigheter blir det mindre «farlig» å
-snakke om radikalisering. Kommisjonen mener
-det er nødvendig med en mer systemisk tilnærming til hele sektoren med hensyn til arbeid mot
-radikalisering og ekstremisme og hva som faktisk
-skal være og er skolens ansvar.
-Dersom ansatte ved skoler skal kunne oppdage tegn på radikalisering og/eller bistå ved
-bekymringer rundt dette eller når skoleelever gir
-uttrykk for negative holdninger mot personer
-eller grupper, må de ha fenomenkunnskap, pedagogiske verktøy og kjennskap til aktørkartet. Skolens ansatte må besitte kompetanse, både om
-ulike former for ekstremisme, om hvordan en
-radikaliseringsprosess kan arte seg, og om hvordan skolen skal forholde seg ved en slik eventuell
-situasjon, herunder rutiner og kontaktpersoner.
-Ved en eventuell opprettelse av et nasjonalt
-senter som anbefalt ovenfor vil senteret kunne
-bistå aktører på lokalt nivå, inkludert skolen, med
-tidsriktig og relevant kunnskap om ulike ekstremismeformer og forebygging. Skolen vil også
-kunne få veiledning fra kommunale kontaktpunkt
-som foreslått over, lokale SLT-koordinatorer, radikaliseringskontakter i politiet og RVTS. I noen
-saker kan det også være aktuelt at skolen deltar i
-samhandlingsarenaer som kommisjonen anbefaler ovenfor.
-Kommisjonen mener det er viktig å sørge for
-styrket kompetanse også hos ansatte i skole- og
+Lokale samarbeidsfora
 
-[Side 395]
+Det finnes i dag en rekke gode eksempler på tverretatlig samarbeid mellom tjenester i arbeidet med å forebygge voldelig ekstremisme på lokalt nivå. Mange kommuner har tatt i bruk SLT-modellen, som mange steder fungerer godt. Både Oslo og Bergen har sine egne tilpassede modeller. Mens Oslo har Salto, har Bergen tverretatlig operativt team (TOT) i tillegg til SLT. Kommisjonen har stor forståelse for at tilnærmingen til feltet må tilpasses den lokale konteksten og størrelsen på kommunen. Samtidig gir denne variasjonen noen utfordringer. For eksempel har ikke alle SLT-koordinatorene radikalisering og voldelig ekstremisme som ansvarsområde. Dette kan være en naturlig prioritering i den lokale konteksten, men fører til at det ikke er noen med radikalisering som ansvarsområde i kommunen. Noen SLT-koordinatorer har direkte kontakt med personer som er radikaliserte, mens andre utelukkende administrerer samhandling mellom tjenester. Kommisjonen har også fått informasjon om koordinatorer som kun prioriterer saker som gjelder barn og unge, ikke voksne. Som kommisjonen anbefaler ovenfor bør det opprettes et kontaktpunkt for forebygging av radikalisering og voldelig ekstremisme i alle kommuner. Fokuset i det følgende er imidlertid på samarbeidsarenaer.
 
-NOU 2024: 3
+Kommisjonen merker seg at det i rapporten om evalueringen av politiets radikaliseringskontaktordning er anbefalt at kommunene pålegges å etablere tverrsektorielle arbeidsgrupper som politiet kan bistå og delta i. Kommisjonen har også fått innspill om at alle kommuner burde være pålagt å etablere SLT-modellen. Etter kommisjonens syn kan dette være hensiktsmessig fordi det vil gi en lik modell i hele landet. Samtidig ser kommisjonen at det også innenfor SLT-modellen er stor variasjon. Kommisjonen mener derfor det heller bør være slik at alle kommuner har et tverretatlig samarbeid mot voldelig ekstremisme som omfatter personer i alle aldre, samtidig som kommunene beholder sin valgfrihet i hvordan dette organiseres. Kommisjonen mener også at mange norske kommuner har så få innbyggere og så liten berøring med tematikken at det kan være mer hensiktsmessig å organisere det forebyggende samarbeidet på regionalt heller enn lokalt nivå. Dette er også i tråd med anbefalingen fra evalueringen av radikaliseringskontaktordningen, hvor det er foreslått at flere kommuner kan gå sammen om et slikt samarbeid.
 
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
+Regionale samarbeidsfora
 
-lærerutdanninger om forebygging og skolens
-rolle med tanke på ulike forebyggingsnivåer.
-Dette gjelder både for voldelig ekstremisme og er
-også relevant når det kommer til ekstremisme i
-bred forstand knyttet til avhumaniserende, antidemokratiske holdninger. Det må være en systemisk forankring og bevissthet rundt dette arbeidet, som ikke bare bør omfatte lærere, men også
-andre ansatte. Etter kommisjonens syn er det særlig viktig at skolens ledelse har et bevisst forhold
-til problematikken.
-Kommisjonens anbefaling:
+Kommisjonen har besøkt og fått innspill fra aktører som tilhører samme region, som Plattform i Agder og SAMVER i Rogaland, og som over tid har jobbet aktivt sammen for å håndtere utfordringer knyttet til radikalisering og voldelig ekstremisme. Samarbeid på regionalt nivå kan legge til rette for at aktørene kan enes om arbeidsform og arbeidsfordeling samt diskutere og håndtere ulike problemstillinger. Dette vil være særlig nyttig for små kommuner som har lite berøring med tematikken, og som i slike regionale fora kan hente informasjon fra større kommuner som har flere saker. Eksempler på aktører som kan delta i slike regionale samarbeidsfora, er radikaliseringskoordinatorer i politidistriktene, lokalt PST, RVTS, helseinstitusjoner og kommunene i regionene.
 
-•
+Dersom det allerede finnes etablerte regionale eller lokale samhandlingsmodeller, kan disse benyttes og eventuelt utvikles videre i stedet for å etablere nye forum eller nettverk. Det bør være opp til regionene selv å velge hvilke aktører som skal være representert i et regionalt samarbeid. Aktørene bør møtes regelmessig, og ved behov, for å dele informasjon, erfaring og beste praksis. Dette kan bidra til at det bygges tillit mellom aktørene, og at det etableres en felles forståelse av utfordringene regionen står ovenfor når det gjelder radikalisering og voldelig ekstremisme. Det er også mulig at en slik struktur vil gjøre det lettere for PST å dele åpne trusselvurderinger med aktørene, ettersom de har konkrete kontaktpersoner å videreformidle informasjonen til.
 
-Kompetansehevende tilbud innen forebygging
-av radikalisering og ekstremisme gjøres systematisk tilgjengelig for ansatte i skolen.
+Kommisjonen anbefaler at ansvaret for å etablere og skape en møteplass for aktørene i regionen legges til statsforvalteren i samarbeid med RVTS. Disse aktørene har erfaring med å skape møteplasser og sikre kvalitets- og kompetanseutvikling for aktører på andre områder. RVTS har i tillegg kompetanse på fenomenforståelse og tilpassede tiltaks- og samarbeidsstrukturer på ekstremismefeltet. Selv om en regional samarbeidsstruktur vil være til nytte for aktørene, kan det være utfordrende å sikre at aktørene faktisk forplikter seg til å gjennomføre beslutninger og tiltak. Det må derfor vurderes nærmere hvilken beslutningsmyndighet et slikt forum skal ha, og hvordan implementering av beslutninger skal følges opp.
 
-53.4 Forebygging av ekstremisme og
-radikalisering i en digital tidsalder
-Både barn og voksne lever i større grad enn tidligere sine liv på nett. Samtidig preges samfunnet
-av et stadig mer fragmentert informasjonslandskap. Internasjonale plattformselskaper og kommersielle aktører påvirker hva slags informasjon
-vi alle får, og utvikler verktøy som gjør det lett å
-lage innhold som kan virke overbevisende. Barn
-kan være særlig sårbare for ekstremistisk innhold
-på sosiale medier. Fra forskning vet vi at ekstremister aktivt rekrutterer unge på nett.
-Gjennom flere store hendelser de siste årene,
-blant annet covid-19-pandemien, den pågående
-krigen i Ukraina og krigen mellom Israel og
-Hamas som startet høsten 2023, har behovet for å
-møte informasjon med motstandsdyktighet blitt
-enda tydeligere. Dette er kunnskap som stadig må
-oppdateres i møte med nye hendelser. Ulike aktører tar i bruk ny teknologi og kraftige virkemidler
-for å høste klikk og engasjement. Polarisering og
-konspirasjonsteorier skaper «informasjonsforurensing» som gjør det vanskelig å vurdere hva vi
-kan stole på. Barn, unge og voksne får mye informasjon via sosiale medier og en algoritmestyrt
-feed, noe som styrker behovet for en stadig oppdatert kompetanse innenfor kildebevissthet og kritisk mediebruk.
-De skadelige sidene ved barn og unges digitale hverdag krever tiltak for å beskytte barna og
-de unge, men også for å styrke barns, foreldres og
-andre omsorgspersoners digitale dannelse og
-dømmekraft slik at de blir i stand til å avgjøre hvilken informasjon som er til å stole på. For å sikre et
-robust samfunn som kan møte morgendagens
+Særlig om samarbeid mellom helse og politi
 
-393
+Slik kommisjonen forstår det, inngår kommunale helsetjenester, inkludert psykisk helseteam eller lignende, i SLT-samarbeid flere steder i landet. Etter kommisjonens forståelse inkluderer slike samarbeid sjeldent helseinstitusjoner som distriktspsykiatriske sentre eller psykiatriske sykehus.
 
-Kapittel 53
+Kommisjonen merker seg at det av rundskrivet om samarbeid mellom politiet og helsetjenesten som ble oppdatert i juli 2023 følger at det bør etableres lokale samarbeidsavtaler mellom politiet og helsetjenesten.[^2150] Med rundskrivet følger det en mal for samarbeidsavtale mellom enkelte politidistrikt og sykehus. Etter kommisjonens syn vil slike samarbeidsavtaler være positivt også for arbeidet mot voldelig ekstremisme og radikalisering. Det kan imidlertid stilles spørsmål om hvorfor samarbeidsavtalene kun gjelder sykehus, og ikke for eksempel distriktspsykiatriske sentre.
 
-utfordringer, må vi sikre at unge ikke bygger sine
-meninger, holdninger og handlinger på uriktig
-informasjon, men forstår hvordan teknologi kan
-utfordre evnen til å avgjøre hva vi kan stole på.
-Kommisjonen har merket seg det viktige arbeidet
-som gjøres av Tenk, skoleavdelingen til Faktisk.no, for å styrke kildebevissthet og kritisk
-mediebruk. Dette er et viktig arbeid som må videreføres.
-Kommisjonen deler bekymringen fra sikkerhetsmyndighetene som peker på at digitale plattformer er den viktigste arenaen for radikalisering
-av høyreekstreme, og at trusselen fra ekstreme
-islamister primært vil komme fra personer som
-deltar i digitale nettverk. For å møte ekstremismetrusselen må også de som arbeider forebyggende, forstå hva som skjer i borgernes digitale
-liv. Kommisjonen er også opptatt av plattformselskapenes ansvar for skadelig innhold. Det skjer nå
-en betydelig regelverksutvikling på europeisk
-nivå, og det er etter kommisjonens syn avgjørende
-at Norge ikke blir hengende etter i dette arbeidet.
-I tråd med den teknologiske utviklingen har
-også politiet og sikkerhetsmyndigheter tatt i bruk
-nye virkemidler og verktøy i sitt forebyggende
-arbeid, blant annet ved å samle informasjon om
-enkeltpersoner og grupper på digitale flater. At
-det forebyggende arbeidet skjer i den digitale sfæren, er nødvendig, men skaper også utfordringer
-når det gjelder borgernes personvern og rett til
-privatliv.
-Kommisjonen har ovenfor foreslått mer forskning på ekstremisme, digitalisering og kunstig
-intelligens. Kommisjonen har også kommet med
-en anbefaling om å inkludere radikalisering på
-nett i et tverrsektorielt studieemne. I det følgende
-vil kommisjonen også komme med anbefalinger
-om behovet for kunnskap og kompetanse hos
-myndighetene, som er nødvendig for å håndtere
-dette problemkomplekset.
+Kommisjonen anbefaler at helsetjenesten inngår i de samarbeidsforaene mot forebygging av radikalisering og voldelig ekstremisme som er beskrevet ovenfor, og at RVTS får en særskilt rolle i regionale samarbeidsfora som anbefalt overfor. Samtidig anerkjenner kommisjonen at de fleste sakene der det er avgjørende med et godt samarbeid mellom politiet og helsetjenesten, ikke handler om ekstremisme, men om andre saker som ligger i skjæringspunktet mellom rus, kriminalitet og psykisk sykdom.
 
-53.4.1 Oppsøkende og forebyggende arbeid
-på nett
-Kommisjonen har i sitt arbeid sett at det er relativt
-få aktører som jobber med å forebygge radikalisering på nett i Norge. Selv om det gjøres mye godt
-arbeid av politiets nettpatrulje, er deres handlingsrom begrenset, blant annet av personvernregelverket. Etter kommisjonens syn er det ønskelig
-med økt tilstedeværelse på nett, samtidig som retten til privatliv og den enkeltes personvern ivaretas.
-Det er mange paralleller mellom tradisjonelt
-oppsøkende ungdomsarbeid gjennom uteteam,
-
-[Side 396]
-
-394
-
-Kapittel 53
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-utekontakter og ungdomskontakter i Norge og
-muligheter for oppsøkende arbeid på nett knyttet
-til radikalisering. Det er også eksempler på oppsøkende tjenester som tester ut metoder for arbeid
-på digitale flater som ikke handler om radikalisering, men mer generell forebygging. Det finnes
-dessuten enkelteksempler på tiltak og initiativ
-som prøver ut oppsøkende arbeid på nett rettet
-mot radikalisering og ekstremisme. Disse kan
-benyttes som inspirasjon.6
-Samtidig reiser oppsøkende og forebyggende
-arbeid på nett utfordrende spørsmål om privatliv
-og personvern. Det er også stor usikkerhet om
-rettslige rammer for et slikt arbeid, både for politiet og for kommunale aktører. Kommisjonen
-mener derfor det bør gjøres en egen utredning
-om forebyggende og oppsøkende arbeid på nett.
-Etter kommisjonens syn bør forebygging av
-ekstremisme og radikalisering være et sentralt
-tema for en slik utredning, men det vil også kunne
-være aktuelt å inkludere forebygging av andre forhold, for eksempel knyttet til psykisk uhelse, rus
-og kriminalitet.
-Kommisjonen mener det er behov for en
-utredning som inkluderer eksperter på forebygging, oppsøkende arbeid, teknologi og personvern. I en slik utredning er det viktig at berørte
-parter, for eksempel spillsamfunn, inkluderes.
-Dersom utredningen skal omhandle forebygging
-rettet mot personer under 18 år, må barn og unge
-høres, og barne- og ungdomsorganisasjonene bør
-involveres i arbeidet direkte.
-Kommisjonens anbefaling:
-
-•
-
-Det settes ned et utvalg som skal utrede oppsøkende og forebyggende arbeid på nett for politiet og kommunene.
-
-53.4.2 Gjennomføring av og tilsyn med EUs
-forordning om digitale tjenester
-i Norge
-EUs forordning om digitale tjenester (Digital Services Act, DSA) er etter kommisjonens syn et viktig steg i riktig retning for å begrense spredning
-av ekstremistisk innhold på digitale plattformer
-og ansvarliggjøre plattformselskapene.
-Kommisjonen er enig i vurderingen i Norges
-posisjonsnotat som slår fast at det er en fordel for
-Norge om forordningen tas inn i EØS-avtalen.7
-Kommisjonen har forståelse for at det er flere juri6
-7
-
-Ahlerup og Ranstorp 2022
-Kommunal- og distriktsdepartementet 2022a
-
-diske og praktiske utfordringer som må løses når
-forordningen skal gjennomføres i norsk rett. I likhet med Ytringsfrihetskommisjonen vil kommisjonen understreke viktigheten av at innlemmelse av
-forordningen prioriteres.
-Kommisjonen merker seg også rapporten som
-ble publisert i september 2023, om DSA og aktører i det norske internettmarkedet.8 Rapporten
-kom med en tydelig anbefaling om den nasjonale
-håndhevingen av forordningen, som handler om
-behovet for høy teknologi- og regelverkskompetanse. Rapporten er bestilt av Nasjonal kommunikasjonsmyndighet, som er en mulig aktuell kandidat som DSA-koordinator og nasjonal tilsynsmyndighet. Kommisjonen har ikke vurdert hvilket
-organ som bør inneha denne rollen, men vil
-understreke viktigheten av en faglig sterk og
-robust tilsynsmyndighet.
-Kommisjonens anbefaling:
-
-•
-
-Digitaliserings- og forvaltningsdepartementet
-prioriterer gjennomføringen av EUs forordning om digitale tjenester i Norge og sikrer at
-organet som utpekes som tilsynsmyndighet,
-tildeles midler og personellressurser til å etablere et solid fagmiljø.
-
-53.4.3 Legalitetskontroll av nye
-overvåkningsmuligheter
-Teknologisk utvikling gir nye muligheter for organene som skal ivareta nasjonale sikkerhetsinteresser. Dette gjelder også i det forebyggende arbeidet. PSTs og Etterretningstjenestens nye hjemler
-for innhenting av data fra åpne kilder og grenseoverskridende kommunikasjon er eksempler på
-dette. Med slike vide hjemler er det avgjørende at
-man har gode kontrollmuligheter. Menneskerettighetene er en ramme rundt hele kommisjonens
-arbeid, og må også opprettholdes i de hemmelige
-tjenestenes forebyggende arbeid som kommisjonen ikke har hatt innsyn i.
-Stortingets kontrollutvalg for etterretnings-,
-overvåknings- og sikkerhetstjeneste (EOS-utvalget) fører tilsyn med de hemmelige tjenestenes
-arbeid. EOS-utvalgets rolle er å undersøke om det
-tjenestene gjør, er lovlig i henhold til det gjeldende regelverket. Formålet med kontrollen er å
-sikre at enkeltpersoners rettssikkerhet og personvern blir ivaretatt. En utfordring som kommisjonen er blitt gjort oppmerksom på, er at lovgivningen henger etter den teknologiske utviklingen i
-8
-
-Lie, Kvalbein og Mageli 2023
-
-[Side 397]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-en slik grad at det kan gjøre utvalgets arbeid vanskelig. Manglende regulering kan føre til uklarhet
-om et inngrep er lovlig eller ikke. Denne tregheten kan etter kommisjonens oppfatning skyldes
-både manglende prioritering, manglende kunnskap og manglende ressurser hos lovgiver. I alle
-tilfeller er det nødvendig at både Forsvarsdepartementet og Justis- og beredskapsdepartementet
-følger opp dette og sikrer at lovene som regulerer
-de hemmelige tjenestene, er oppdatert i tråd med
-den teknologiske utviklingen. Dette er nødvendig
-for å ha et klart lovgrunnlag for inngrep og for
-EOS-utvalgets legalitetskontroll.
-Kommisjonen merker seg også at EOS-utvalget ble betydelig styrket da Etterretningstjenesten fikk hjemler til tilrettelagt innhenting, men
-at en tilsvarende styrking ikke skjedde da PST
-nylig fikk utvidet sine hjemler for innsamling av
-informasjon fra åpne kilder. I lys av den betydelige
-utvidelsen som denne lovendringen innebar,
-mener kommisjonen det er grunn til en ytterligere
-styrking av EOS-utvalget, slik at utvalget har tilstrekkelige økonomiske og personellmessige ressurser til å håndtere utvidelsen.
-
-395
-
-Kapittel 53
-
-Radikalisering og ekstremisme er fenomener
-som krysser landegrenser. Dette reflekteres også
-i arbeidet til tjenestene, både i form av samarbeid
-mellom dem og deres samarbeid med andre lands
-tilsvarende tjenester. EOS-utvalget har imidlertid
-ikke en tilsvarende mulighet for samarbeid med
-tilsvarende kontrollorganer i andre land. Kommisjonen har ikke hatt anledning til å gå dypere inn i
-denne problemstillingen, men mener dette er noe
-som bør utredes videre.
-Kommisjonens anbefaling:
-
-•
-
-•
-
-Ansvarlige departementer må ha kompetanse
-og arbeide raskere for å sikre at regelverket for
-forebygging av voldelig ekstremisme er oppdatert i tråd med den teknologiske utviklingen.
-EOS-utvalget må sikres tilstrekkelig med personell og økonomiske ressurser for å kunne
-kontrollere tjenestene. Muligheten for nordisk
-eller europeisk samarbeid mellom kontrollorganer bør utredes.
-
-[Side 398]
-
-396
-
-Kapittel 54
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 54
-
-Bedre ivaretakelse av og medvirkningsmuligheter
-for utsatte grupper
-Mange mennesker i Norge lever med konsekvensene av ekstremisme, både som hatobjekter og
-ofre for voldelig ekstremisme. En vedvarende
-trussel og usikkerhet kan føre til begrenset livsutfoldelse, uhelse og marginalisering. En annen
-konsekvens kan være opplevde eller faktiske
-begrensede friheter, slik som det å kunne elske
-den man vil eller å kunne ytre seg i det offentlige
-rom. Historisk og langsiktig utsatthet kan medføre smerte som kan gå i arv. Hets, fordommer
-eller negative forestillinger fra andre, som ikke
-nødvendigvis er ekstremister, kan bidra til opplevelsen av utsatthet og ekskludering, også gjennom generasjoner. I den forbindelse er det viktig å
-huske på at det ikke er statisk hvem som til
-enhver tid utgjør trusselutsatte grupper, fordi
-dette kan endres med tiden og samfunnsutviklingen for øvrig. Felles for gruppene som befinner
-seg i ekstremisters fiendebilder, er også at det ofte
-i samfunnet for øvrig eksisterer enten fordommer
-og/eller mangel på kunnskap om gruppene. Dette
-gjelder også i tjenesteapparatet.
-Det er storsamfunnets og myndighetenes
-ansvar å verne om og beskytte minoriteter og
-andre utsatte grupper. For å gjøre dette må de
-relevante myndighetene tilegne seg nødvendig
-kunnskap og kompetanse om trusselutsatte grupper, deres situasjon og historie. For å opparbeide
-en slik forståelse, frembringe kunnskap og bygge
-tillit kan oppgjør med tidligere urett og offentlige
-beklagelser være viktig. Sannhets- og forsoningskommisjonen er et ferskt og viktig eksempel på
-dette. Kommisjonen merker seg at det ikke har
-vært en sannhetsprosess for romene, en gruppe
-som er særlig utsatt for fordommer og hat.
-Alle mennesker har behov for å gjenkjenne
-seg selv og sine historier, ikke bare i lys av fortellinger om forfølgelse og folkemord eller i tematiseringer av rasisme i samtiden, men også i lys av
-fortellinger om tilhørighet og tillit til det norske
-samfunnet. Kommisjonen merker seg at det ikke
-eksisterer en nasjonal læringsarena, et museum
-eller lignende for migrasjon til og fra Norge.
-
-Kommisjonen er bekymret for at samfunnsdebattanter og politikere utsettes for hat og trusler
-på grunn av sitt engasjement og synlighet i offentligheten. Dette er en alvorlig utfordring for demokratiet. Den teknologiske utviklingen er en
-bidragsyter, ved å legge til rette for økt eksponering og spredning. Det kan være lettere å
-uttrykke seg negativt på sosiale medier og digitale
-flater mot personer som engasjerer seg. Kommisjonen har fått innspill om at lokal- og ungdomspolitikere opplever at de ikke er tilstrekkelig beskyttet mot hat og trusler. Trusselen mot myndighetspersoner og politikere er også fremhevet i PSTs
-nasjonale trusselvurdering i 2023. For å sikre
-demokratiske prosesser og meningsbryting må
-myndighetene påse at deltakere i samfunnsdebatten vernes. Det er viktig at lokalt politi ved behov
-kan få støtte og veiledning fra politidistriktet eller
-PST i slike saker.
-Kommisjonen vil understreke at det ikke er
-myndighetenes ansvar alene, alle borgere i samfunnet har også et ansvar for å ta til motmæle og
-stå opp mot hets og hat. Det vises i den forbindelse til kommisjonens demokratiske håndbok, jf.
-boks 51.1.
-Dette kapittelet omhandler kommisjonens vurderinger og anbefalinger om politiets og PSTs
-arbeid med trusselutsatte grupper og myndighetenes arbeid mot hatkriminalitet. Kommisjonen
-har også en kort drøftelse om regulering av rasistiske organisasjoner.
-
-54.1 Politiet og PST i møte med
-trusselutsatte grupper
-Kommisjonen har hatt flere møter med grupper
-som inngår i ekstremisters fiendebilder eller på
-andre måter er marginalisert og utsatte for hets,
-trakassering og vold. Samlet sett er inntrykket at
-flere opplever at de ikke er tilstrekkelig beskyttet
-og ivaretatt, og at de selv må ta et stort ansvar for
-egen sikkerhet.
-
-[Side 399]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kommisjonen har snakket med grupper og
-enkeltindivider som sier det er en tilleggsbelastning at medmennesker, beslutningstakere og
-andre viktige aktører mangler tilstrekkelig kunnskap til å beskytte og ivareta dem, både i det daglige, når truende eller farlige hendelser oppstår,
-og i etterkant av slike hendelser. Dette gjelder
-både fenomenkunnskap om ulike former for
-ekstremisme og hvordan hat arter seg mot ulike
-grupper, og i hvilke uttrykksformer det kommer.
-Kommisjonen har også merket seg kritikken som
-ble rettet mot politiet og PST om manglende dialog
-med de berørte miljøene i forbindelse med evalueringene av drapet og terrorangrepet i Bærum i
-2019 og terrorangrepet ved utesteder ved London
-Pub i Oslo sentrum i 2022. Når kunnskap mangler, vil forståelsen, oppfølgingen og, ved behov,
-beskyttelsen også kunne være fraværende.
-Ekstremistenes fiendebilder kan også endre seg,
-og nye grupper kan utpekes som «fienden». Myndighetene må derfor sikre at de har oppdatert
-kunnskap om hvilke grupper som til enhver tid
-inngår i ekstremistenes fiendebilder.
-Det gjøres mye godt arbeid fra politiets og
-PSTs side for å verne og beskytte trusselutsatte
-grupper. Flere steder i landet er det dialog mellom
-politiet og utsatte grupper, enten i form av faste
-møtepunkter eller møter i tilknytning til konkrete
-hendelser. Som for forebyggingsarbeidet ellers
-mangler det imidlertid etablerte strukturer for
-ivaretakelse av og medvirkningsmuligheter for
-utsatte grupper. Kommisjonen har sett at det er
-variasjoner med hensyn til hvor hyppig kontakten
-med og den faktiske involveringen av trusselutsatte grupper skjer.
-Kommisjonen ser et behov for å etablere
-strukturer for samhandling og informasjonsutveksling, slik at arbeidet settes i system og ikke
-forekommer tilfeldig eller følger ulik praksis
-rundt om i landet. Gjennom mer informasjonsdeling og dialog vil gjensidig tillit kunne bygges og
-videreutvikles. Dette vil bidra til en relasjonsbygging som kan være avgjørende dersom angrep
-eller trusler rettes mot en spesiell gruppe eller et
-spesielt arrangement.
-Kommisjonens anbefaling:
-
-•
-
-•
-
-Politiet og PST må arbeide med å tilegne seg
-bedre kunnskap og kontinuerlig kompetanseheving om utsatte grupper og deres situasjon i
-et skiftende trusselbilde.
-Politiet og PST har ansvar for å etablere faste
-møtepunkter for dialog og utveksling av informasjon med trusselutsatte grupper.
-
-397
-
-Kapittel 54
-
-54.2 Innsats mot hatkriminalitet
-Etter kommisjonens forståelse er det en økende
-oppmerksomhet rundt de negative konsekvensene som hatkriminalitet, hets og hatefulle ytringer har for individer og samfunn. Kommisjonen
-merker seg blant annet at politiet har fått økte
-bevilgninger på området, og at det er etablert et
-nasjonalt kompetansemiljø innen hatkriminalitet i
-politiet, som skal støtte alle politidistriktene. Det
-er etter kommisjonens syn viktig at Justis- og
-beredskapsdepartementet fortsetter å gi tydelige
-føringer om at hatkriminalitet skal ha høy prioritet
-i politiet.
-Det er variasjon i hvor mange saker om hatkriminalitet de ulike politidistriktene behandler.
-Kompetansen kan derfor ikke forventes å være
-like høy i hele landet. For å sikre lik og korrekt
-behandling og unngå uriktige henleggelser er det
-etter kommisjonens syn viktig at lokalt politi bruker det nasjonale kompetansemiljøet i saker som
-gjelder hatkriminalitet.
-Kommisjonen støtter også Ytringsfrihetskommisjonens anbefalinger om å styrke politiets kompetanse til å vurdere hatefulle ytringer og om å
-undersøke kvaliteten på politiets arbeid.1 Kommisjonen støtter også Ytringsfrihetskommisjonens
-anbefaling om å bevilge støtte til organisasjoner i
-sivilsamfunnet som jobber med aktive mottiltak
-mot hatefulle ytringer.
-Kommisjonen merker seg at hatefulle ytringer
-er omtalt i enkelte eksisterende nasjonale handlingsplaner, for eksempel den nylig offentliggjorte
-handlingsplanen mot rasisme og diskriminering.
-Vi merker oss også at regjeringens strategi for
-hatefulle ytringer gikk ut i 2020 og ikke er fornyet.
-Flere aktører, inkludert Likestillings- og diskrimineringsombudet, har tatt til orde for en dedikert
-handlingsplan mot hatkriminalitet. Kommisjonen
-mener det er gode grunner for å utvikle en slik
-handlingsplan, både for å se det gode arbeidet
-som gjøres i sammenheng, hvilke forbedringspunkter som foreligger og for å sikre ressurser til
-arbeidet. Et slikt arbeid vil også være en god
-mulighet til å involvere berørte grupper.
-Kommisjonen har også fått flere innspill om at
-det mangler psykososial støtte for personer som
-utsettes for hets og hatkriminalitet. Det finnes i dag
-støttesentre for kriminalitetsutsatte i alle politidistriktene som i utgangspunktet skal kunne tilby slik
-støtte. Disse er imidlertid lite kjent som et sted
-man kan henvende seg dersom man utsettes for
-hatkriminalitet. Det er også kommisjonens forstå1
-
-NOU 2022: 9
-
-[Side 400]
-
-398
-
-Kapittel 54
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-else at sentrene ikke har et særskilt fokus på hatkriminalitet.
-Kommisjonens anbefaling:
-
-•
-
-•
-•
-
-Politiets forsterkede innsats for forebygging av
-hatkriminalitet fortsetter og forankres i føring
-fra Justis- og beredskapsdepartementet. Lokalt
-politi må bruke kompetansen til det nasjonale
-kompetansemiljøet i behandlingen av saker om
-hatkriminalitet.
-Det utarbeides en nasjonal handlingsplan mot
-hatkriminalitet i samarbeid med berørte grupper.
-Støttesentrene for kriminalitetsforebygging øker
-sin kompetanse på hatkriminalitet og gjøres
-kjent blant trusselutsatte grupper.
-
-54.3 Forbud mot rasistiske
-organisasjoner?
-Kommisjonen har fått innspill om at det bør vurderes å forby rasistiske organisasjoner. Kommisjonen har forståelse for at dette kan være et ønske
-fra dem som lever med hat, hets og trusler fra
-slike organisasjoner. Den høyreekstreme organisasjonen Den nordiske motstandsbevegelsen er
-trukket frem som et eksempel på en organisasjon
-
-som skaper stor frykt, og som kan begrense gruppers og enkeltpersoners livsutfoldelse.
-Diskusjonen om å forby rasistiske organisasjoner er ikke ny, dette har blitt grundig drøftet og
-utredet over flere år. Blant annet har Norge fått
-kritikk fra FNs rasediskrimineringskomité for å
-ikke forby slike organisasjoner.
-Selv om kommisjonen anerkjenner de negative
-effektene rasistiske organisasjoner kan ha, mener
-vi at å forby slike organisasjoner også kan ha
-negative konsekvenser. For det første kan slike
-forbud føre til et sterkere indre fellesskap i miljøer
-som ellers har en løsere organisatorisk sammensetning. For det andre kan et slikt forbud gjøre
-inngrep i andre menneskerettigheter som retten
-til organisasjons- og ytringsfrihet. For det tredje
-finnes det andre straffebud som kan brukes mot
-de som deltar i slike organisasjoner. Enkeltpersoner kan for eksempel straffes for hatefulle ytringer eller andre former for hatkriminalitet. Etter en
-helhetsvurdering valgte kommisjonen ikke å gå
-videre med forslaget om å kriminalisere rasistiske
-organisasjoner. Endelig mener kommisjonen at
-anbefalingene som følger i neste kapittel, om å
-styrke oppslutningen om demokrati og menneskerettigheter, vil sette oss som samfunn i bedre
-stand til å hindre at slike organisasjoner opprettes
-og får gjennomslag og oppslutning i Norge.
-
-[Side 401]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-399
-
-Kapittel 55
-
-Kapittel 55
-
-Styrket oppslutning om demokrati og menneskerettigheter
-Menneskerettighetene bygger på en forståelse
-om alle menneskers ukrenkelige verdi, uavhengig
-av kjønn, alder, legning, rase, religion, politiske
-oppfatninger eller nasjonalitet. Den liberale,
-demokratiske styringsformen forutsetter også at
-grunnleggende menneskerettigheter som ytringsog organisasjonsfrihet respekteres.
-Et åpent demokrati er avhengig av akademisk
-og faglig frihet i forskning og formidling. Dette
-gjelder samtlige kunnskapsinstitusjoner, og spesielt de som er underlagt myndighetsstyring hvor
-veien til politisering og instruks kan være kortere.
-Demokrati, menneskerettigheter og akademisk
-frihet er under press i flere land, og spesielt i land
-som går i autoritær retning. Dette viser behovet
-for den brede motstandskraften mot autoritære
-strømninger og aktører som bryter ned demokratiske institusjoner og angriper grunnleggende rettigheter.
-Både demokrati og menneskerettigheter avvises i ekstreme ideologier. Oppslutning om fellesskapets verdier forutsetter at den enkelte både
-kjenner til og forstår verdiene, og at de føler seg
-inkludert i de rettighetene og pliktene fellesskapet innebærer.
-I vårt arbeid har vi møtt både offentlige aktører og sivilsamfunnsaktører som arbeider for å
-styrke oppslutningen og kunnskapen om menneskerettigheter og demokrati.
-Det er positivt med ulike aktører som arbeider
-mot det samme målet for samfunnet og befolkningen på dette feltet. Vi ser imidlertid at det også
-kan være utfordringer knyttet til dette i form av
-konkurrerende virksomhet og noe overlappende
-innsats og arbeid. Det er viktig at det legges opp
-til samarbeid og dialog der det er mulig, og at tilgjengeliggjorte ressurser også er med på å bygge
-opp under samhandling og god ressursutnyttelse.
-Kommisjonen mener skolen er en sentral
-arena i arbeidet med å styrke oppslutningen om
-demokrati og menneskerettigheter. Skolen omtales gjerne som «samfunnets viktigste fellesarena»,
-ettersom så godt som alle går gjennom skolen i
-løpet av livet. Skolen som arena for fellesskap,
-
-kunnskap og demokratisk dannelse er unik. Det
-gjøres allerede svært mye godt arbeid i skolen, og
-mange andre aktører arbeider opp mot skolen, for
-eksempel gjennom kompetansehevingstilbudet
-Dembra. Freds- og menneskerettighetssentrene
-har også en viktig rolle i dette arbeidet. Kommisjonen mener likevel det er nødvendig med ytterligere kompetanse og ressurser på området for å
-møte behov og etterspørsel, også i forlengelsen av
-vektleggingen av det tverrgående temaet demokratisk medborgerskap i de nye læreplanene.
-Dette kapittelet omhandler kommisjonens vurderinger og anbefalinger om styrking av arbeid
-med demokrati, medborgerskap og minner,
-demokrati og menneskerettigheter i skolen, sikring av spor og gjenstander etter terrorangrep,
-sivilsamfunnets rolle i det forebyggende arbeidet
-og tros- og livssynsstøtte i fengsler.
-
-55.1 Styrking av arbeidet med
-demokratisk medborgerskap,
-historiebevissthet og minner
-55.1.1 Styrking av undervisningen ved fredsog menneskerettighetssentrene
-Det er et kontinuerlig behov for kunnskap om og
-ferdigheter i demokrati og undervisning om menneskerettigheter. Kunnskap om historiske erfaringer med fordommer, krenkelser og rasisme er
-også nødvendig for vår forståelse og innsikt. Kommisjonen erfarer at de syv stiftelsene som utgjør
-freds- og menneskerettighetssentrene, er viktige
-regionale og lokale utgangspunkter for dette
-arbeidet med sitt faglig gode tilbud. Dette kommer i tillegg til andre bidragsytere til arbeidet
-med å bygge demokratisk motstandskraft og
-historiebevissthet hos nye generasjoner. Dette
-gjelder blant annet Stiftelsen 10. august, Utøya og
-22. juli-senteret, som flere av sentrene også samarbeider med.
-Freds- og menneskerettighetssentrene er viktige minne- og læringsarenaer, ikke minst på grunn
-av sitt arbeid rettet mot norske skoleelever. Under-
-
-[Side 402]
-
-400
-
-Kapittel 55
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-visningen foregår både ved sentrene og ved at
-undervisere eller formidlere reiser rundt. Flere av
-sentrene tilbyr også digitale besøk og har utarbeidet nettressurser til bruk i skoler. Arbeidet som
-utføres med fokus på demokrati og menneskerettigheter, skal bidra til økt forståelse av og refleksjon
-rundt disse temaene blant barn og unge og andre
-som besøker sentrene. Dette arbeidet er også holdningsfremmende og anses som en vesentlig forebyggende innsats for det som kommisjonen har
-definert som den bredere ekstremismen.
-Sentrene er lokalisert på ulike steder i Norge
-og favner ulike geografiske områder. Narviksenteret er det nordligste freds- og menneskerettighetssenteret og skal som senter i realiteten dekke
-hele Nord-Norge. De ulike sentrene utfyller hverandre og samarbeider. Dette er en styrke for feltet
-og arbeidet.
-Freds- og menneskerettighetssentrene opplever at det er en økende etterspørsel etter tilbudet
-deres. De bidrar gjennom sine lokasjoner rundt
-om i Norge med å skape eierskap til nær norsk
-historie i nye generasjoner, samtidig som de bruker dialogbasert undervisning med vekt på demokratisk medborgerskap i tråd med nye læreplaner.
-Kommisjonen anser at dette arbeidet bør understøttes slik at flere som ønsker undervisning og
-besøk hos eller av sentrene, kan få anledning til
-dette uavhengig av bosted. Et styrket undervisningstilbud gjennom økt kapasitet vil ha positiv
-effekt på målgruppene og bidra til at arbeidet med
-demokratisk medborgerskap styrkes. Kommisjonen mener derfor at det bør opprettes flere undervisningsstillinger ved sentrene. Dette forutsetter
-at nivået på undervisningen holder et fortsatt høyt
-nivå gjennom opplæring og utvikling. Dette vil
-bidra til å styrke det forebyggende arbeidet. Kommisjonen forutsetter at antall ressurser per senter
-vil måtte tilpasses dagens behov og etterspørsel
-og ses i sammenheng med den øvrige strukturen i
-de ulike sentrene.
-Kommisjonens anbefaling:
-
-•
-
-Det opprettes flere undervisningsstillinger ved
-freds- og menneskerettighetssentrene øremerket deres arbeid med demokratisk medborgerskap og menneskerettigheter.
-
-55.1.2 22. juli-senteret
-22. juli-senteret er en av aktørene som bidrar til å
-forvalte historien etter 22. juli og holde minnet om
-angrepet i nasjonens kollektive bevissthet. Senteret er et nasjonalt minne- og læringssenter som
-
-formidler kunnskap om terrorangrepet gjennom
-ulike virkemidler slik som utstillinger og vitneberetninger, for å nevne noen. Kommisjonen anerkjenner den viktige jobben som 22. juli-senteret
-utfører hver dag for å formidle kunnskap om terrorangrepet i 2011.
-Senteret er organisert under Kunnskapsdepartementet og er slik sterkere knyttet til myndighetene enn freds- og menneskerettighetssentrene
-og øvrige minne- og læringssentre, som Utøya og
-Stiftelsen 10. august. Den tette sammenkoblingen
-har vært naturlig all den tid senteret ble opprettet
-få år etter at angrepet skjedde. Den er også forståelig, gitt senterets plassering i regjeringskvartalet.
-22. juli-senteret ble for øvrig opprettet med en
-midlertidig horisont og skulle etter planen opphøre etter gjenreisningen av regjeringskvartalet.
-Disse planene ble senere endret, og 22. juli-senteret ble både et permanent minne- og læringssenter og skal flytte tilbake i tilknytning til Høyblokka
-i regjeringskvartalet når den er ferdigstilt.
-Forventningene fra skoleverket, fagmiljøer og
-befolkningen er endret med tiden som har gått
-siden 22. juli. Etter kommisjonens syn er det viktig at de politisk krevende og kontroversielle diskusjonene fortsetter å få en naturlig plass i ettertidens formidling av 22. juli ved senteret.
-Senteret må stå fritt til å utføre sitt samfunnsoppdrag og utvikle sitt arbeid i tråd med faglige
-vurderinger, samfunnsutviklingen generelt og
-ordskiftet om 22. juli spesielt. Kommisjonen
-mener det kan vurderes om det ville være større
-faglige og ressursmessige fordeler ved at senteret
-knyttes sterkere til freds- og menneskerettighetssentrene og at dette eventuelt vurderes etter at
-senteret er på plass i permanente lokaler.
-
-55.1.3 Evaluering av tilskuddsordningen for
-turer til minne- og læringssteder
-Mange norske skolelever har reist til tidligere
-konsentrasjons- og dødsleirer etter 2. verdenskrig
-i Polen og Tyskland. Utdanningsdirektoratet har
-en tilskuddsordning for slike turer, som også dekker andre reisemål slik som minnesteder i Norge.
-Kommisjonen anerkjenner viktigheten av at
-norske skoleelever får besøke åsteder og minnesteder etter krig og terror, enten i Norge eller i
-utlandet. Dette er et viktig bidrag til å skape en
-historiebevissthet hos nye generasjoner. Fysiske
-besøk ved åsteder eller andre minnesteder kan
-sette i gang refleksjoner omkring ekstremismens
-konsekvenser og fortidige hendelsers betydning
-for mennesker som lever i dag.
-
-[Side 403]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Ekstremismekommisjonen mener det er viktig
-at reiser til slike steder er godt pedagogisk forankret og faglig fundert, og at skolene i forkant og
-etterkant både sikrer at besøket er innrammet av
-et gjennomtenkt undervisningsopplegg, og sørger
-for at inntrykk og andre behov som måtte melde
-seg, også ivaretas. Dette ivaretas i varierende grad
-i dag etter hva kommisjonen erfarer.
-Etter kommisjonens syn er det viktig at et
-stort antall barn og unge har fått delta på slike
-turer så langt, og at mange får muligheten i fremtiden. Samtidig må det sikres at muligheten for
-slike reiser er like stor blant ulike skoleklasser, og
-at sosioøkonomisk status ikke hindrer enkeltelever i å dra på slike reiser.
-
-401
-
-Kapittel 55
-
-lærerne som skal få og ta mer ansvar. Skolen
-består imidlertid av ansatte innenfor ulike fagområder, fra helsesykepleiere og miljøterapeuter til
-rektorer og renholdspersonale. Spørsmålet som
-ble stilt på skolekonferansen som kommisjonen
-avholdt med Det Europeiske Wergelandsenteret
-(EWC) og Utøya i mars 2023, var: «er skolen alltid svaret?» Nedenfor peker kommisjonen på
-noen områder hvor skolen er særskilt viktig eller
-i en unik posisjon til å bidra i det forebyggende
-arbeidet.
-
-Kommisjonen har hatt flere møter med ungdommer, ungdomsorganisasjoner, skolerepresentanter og aktører som arbeider og samarbeider med
-skoler om blant annet demokratisk kompetanse
-og medvirkning. Mange har pekt på viktigheten
-av at barn og unge har kompetanse i og ferdigheter innen demokrati og menneskerettigheter.
-Flere har også pekt på viktigheten av at skolepersonalet har kompetanse om radikalisering og
-ekstremisme.
-Skolen har en sammensatt og viktig rolle i
-samfunnet og er en av få arenaer som alle er i kontakt med i løpet av livet. Der kan man møte mennesker på tvers av kultur, religion, bakgrunn og
-livsstil, som man kanskje ikke hadde møtt på
-andre arenaer i livet.
-Forebygging av fordommer og diskriminering er en del av skolens mandat i henhold til formålsparagrafen og den overordnede delen av
-læreplanverket.1 I flere sammenhenger trekkes
-skolen frem som en arena for forebygging av hat
-og antidemokratiske holdninger samt voldelig
-ekstremisme, altså begge kommisjonens definisjoner av ekstremisme. Samtidig kan man spørre
-om samfunnet forventer for mye av skolen –
-også på dette området. Og om det alltid er
-
-55.2.1 Inkluderende læringsmiljø,
-demokratilæring og elevenes
-demokratiske medvirkning
-Arbeidet med demokrati og medborgerskap og
-inkluderende læringsmiljø har blitt styrket gjennom læreplanverket for kunnskapsløftet, LK20, og
-det tverrfaglige temaet demokrati og medborgerskap. Det er imidlertid et kontinuerlig behov for å
-støtte skolene i å utvikle god sammenheng mellom fagdidaktisk og pedagogisk arbeid med
-læringsmiljø for å styrke elevenes demokratiske
-motstandskraft.
-Systematisk og langsiktig arbeid med inkludering og demokratisk motstandsdyktighet kan
-skape langvarige positive effekter i voksenlivet.
-Å skape demokratibevissthet og engasjement er
-en del av dette, og det kan gjøres gjennom ulike
-kanaler som elevdemokrati, skolevalg og annet.
-Kommisjonen har i løpet av sitt arbeid selv sett,
-og fått innspill, om viktigheten av slik innsats.
-Tilgjengelige tilskuddsordninger, som tilskuddsordningen for lokal kompetanseutvikling i barnehage og grunnopplæring,2 kan bidra til å styrke
-kompetansen på aktuelle temaer og dermed bistå
-skolene i dette arbeidet. I tillegg finnes også
-andre ressurser som skolene kan benytte til
-dette arbeidet slik som kompetansehevingstilbudet Dembra og freds- og menneskerettighetssentrene. Tilgangen på slike ressurser avhenger
-imidlertid ofte av skoleledelsen og skolens prioriteringer. Det er uheldig dersom det er ulike
-muligheter til tilgang på ressurser som styrker
-læringsmiljøet og skolens demokratiske kultur.
-Dette henger muligvis sammen med at noen kan
-se på arbeid med demokrati og inkluderende
-læringsmiljø som temaer som kan nedprioriteres
-i forhold til «målbar» kunnskap og ferdigheter
-som inngår i vurderinger, eksamener og nasjonale prøver. Selv om sistnevnte også er viktig, er
-skolens rolle som fellesarena en sentral kompo-
-
-1
-
-2
+Kommisjonen merker seg i denne sammenheng anbefalingen fra Kongsberg-utvalget, som tok til orde for en egen samarbeidsmodell for politiet, helsetjenesten og sosialtjenesten.[^2151] Dette minner om modellen man har i Danmark, med tre ulike samarbeidskonstellasjoner med ulikt hovedfokus. Selv om helsetjenesten bør delta i samarbeidsfora for forebygging av voldelig ekstremisme i saker der det er relevant, vil dette mange steder utgjøre relativt få saker og derfor ikke være tilstrekkelig til å etablere tillitsfulle relasjoner. Kommisjonen mener derfor at i tillegg til at helsetjenester inngår i samarbeidsfora for forebygging av voldelig ekstremisme, bør Kongsberg-utvalgets anbefaling om formaliserte samarbeid med et bredere fokusområde også følges opp. Vi mener imidlertid at det ikke faller innenfor vårt mandat å gi konkrete anbefalinger om et slikt forhold som går utover forebygging av ekstremisme.
 
 Kommisjonens anbefaling:
 
-•
+- Alle kommuner inngår i forpliktende samarbeidsstrukturer for forebygging av voldelig ekstremisme.
 
-Den nasjonale tilskuddsordningen for skoleturer som forvaltes av Utdanningsdirektoratet,
-evalueres med spesielt henblikk på faglig forankring og likebehandling av elever.
+- Det etableres regionale samarbeidsfora for forebygging av radikalisering og voldelig ekstremisme.
 
-55.2 Demokrati og
-menneskerettigheter i skolen
+### Informasjonsdeling
 
-Lenz og Andersen 2019
+Innledning
 
-Utdanningsdirektoratet 2023
+Informasjonsdeling er etter kommisjonens syn avgjørende for et fungerende tverretatlig forebyggende arbeid. Det kan være ulike grunner til at informasjon ikke deles. Noe handler om utforming og tolkning av regelverk. Samtidig kan kultur og tillit i relasjonen mellom ulike aktører ha mye å si. For eksempel var det ikke lovgivningen som gjorde at informasjonsdelingen mellom tjenestene ikke fungerte godt nok i dagene før angrepet 25. juni 2022. Kommisjonen forstår det slik at tjenestene følger opp 25. juni-utvalgets anbefalinger om forbedringer på dette punktet, og forventer at god samhandling har høy prioritet fremover.
 
-[Side 404]
+Etter kommisjonens syn er samarbeidsarenaer som beskrevet ovenfor en forutsetning for god informasjonsflyt mellom aktører som PST, politiet og andre aktører i det forebyggende arbeidet mot voldelig ekstremisme. For at aktørene skal kunne dele informasjon med hverandre i slike fora, er man imidlertid avhengig av et velfungerende regulatorisk rammeverk. Formålet med informasjonsdelingen er på den ene siden å få informasjon til å gjøre riktige trusselvurderinger, og på den andre siden å sette inn gode forebyggende tiltak.
 
-402
+Informasjonsdeling og de begrensningene som følger av aktørenes taushetsplikt, har vært tema i en lang rekke møter kommisjonen har hatt med aktører på både lokalt og nasjonalt nivå. Kommisjonen har også gjennomført egne møter og konsultasjoner med representanter for aktører som vil bli særlig berørt av våre anbefalinger på dette området.
 
-Kapittel 55
+Kommisjonens gjennomgang av gjeldende regelverk i kapittel 34 Taushetsplikt og informasjonsdeling viser at det er en rekke uklarheter og mye usikkerhet rundt forståelsen av reglene for taushetsplikt, opplysningsplikt og opplysningsrett. Kommisjonen merker seg at fellesnordisk forskning peker på at det i Norge er større uklarheter knyttet til regelverket enn i våre naboland, og at denne usikkerheten kan være hemmende for god samhandling.[^2152]
 
-NOU 2024: 3
+Selv om usikkerhet om regelverket kan påvirke informasjonsdelingen, mener kommisjonen at det ikke bare er anvendelsen av regelverket, men også regelverket i seg selv som setter begrensinger for informasjonsdeling.
 
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
+I det følgende drøfter kommisjonen hvordan forståelsen av det gjeldende regelverket kan styrkes, og om det bør gjøres endringer i regelverket, både for aktørene som er bundet av forvaltningslovens regler, og for helsepersonells profesjonsbaserte taushetsplikt.
 
-nent i det brede forebyggende arbeidet mot radikalisering og ekstremisme.
-Anerkjennelse av skolen som en ressurs og
-faktor innen undervisning om demokrati og medborgerskap er kommet på plass gjennom læreplanverket. For at skolene skal kunne følge opp
-dette arbeidet på en god måte, anses den eksisterende tilskuddsordningen for kompetanseutvikling i barnehager og skoler som en aktuell ordning for å sette skolene i bedre stand til å håndtere oppgavene. Lokale analyser av behov og faglig dialog med universiteter og høyskoler, som
-ordningen forutsetter, anses som en styrke for at
-arbeidet vil være målrettet i henhold til lokale
-behov. Arbeidet må være langsiktig og forutsigbart for alle parter.
+Styrket kunnskap om eksisterende regelverk
+
+Veileder for taushetsplikt og informasjonsdeling på ekstremismefeltet
+
+Kommisjonens gjennomgang viser at det er grunn til å tro at nødrettshjemlene og reglene om avvergingsplikt som gir anledning til å dele informasjon, tolkes strengere av noen aktører enn det som følger av rettskildene. Det samme gjelder de mange unntakene fra taushetsplikten i det eksisterende regelverket, som kan gi grunnlag for informasjonsdeling mellom tjenester.
+
+For å avbøte på noe av usikkerheten rundt regelverket offentliggjorde Justis- og beredskapsdepartementet i februar 2023 en ny veileder om taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen. Veilederen er omfattende og grundig, men omtaler ikke særlige spørsmål knyttet til informasjonsdeling i det forebyggende arbeidet mot voldelig ekstremisme og radikalisering. Etter kommisjonens syn vil veilederen ha større nytte for dem som arbeider med voldelig ekstremisme og radikalisering, dersom den omhandler disse spørsmålene spesifikt. Kommisjonen legger til grunn at gjennomgangen av regelverket i denne rapporten i kombinasjon med den vedlagte rapporten utarbeidet av professor Morten Holmboe, som også har arbeidet med veilederen, gjør at en slik oppdatering kan gjennomføres raskt og uten vesentlige omkostninger.[^2153]
+
 Kommisjonens anbefaling:
 
-•
+- Justis- og beredskapsdepartementet oppdaterer veilederen om taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen til å omfatte særlige spørsmål knyttet til det forebyggende arbeidet mot radikalisering og voldelig ekstremisme.
 
-Implementeringen av føringene i LK20 om
-inkluderende læringsmiljø, demokratilæring
-og elevenes demokratiske medvirkning i skolene over hele Norge må styrkes gjennom tilskuddsordningen for kompetanseutvikling.
+Kurs og opplæring i reglene om taushetsplikt og informasjonsdeling
 
-55.2.2 Styrke «laget rundt barnet»
-i barnehagen og skolen
-Et inkluderende barnehage- og skolemiljø der alle
-barn har det bra og opplever mestring og sosialt
-fellesskap, er en viktig del av det byggende arbeidet. Gode barnehager og skoler har stor verdi for
-samfunnet på mange måter, blant annet fordi de
-kan motvirke utenforskap og fremme demokratisk kultur. Mange pedagoger gjør i dag et svært
-godt arbeid i norske skoler og barnehager. Kommisjonen vil imidlertid også peke på viktigheten
-av tverrfaglighet og samarbeid mellom ulike aktører.
-Miljøterapeuter har en kompetanse som utfyller allerede eksisterende ressurser i skolen (helsesykepleiere og annet helsepersonell, pedagoger
-og spesialpedagoger), med fokus på aktivitetslære, sosialpedagogikk, systemteori, kommunikasjonskompetanse og en dialogisk tilnærming. Et
-tverrfaglig «lag rundt barnet» vil derfor kunne
-være et godt tiltak for sårbare barn og unge, som
-igjen kan forebygge marginalisering og muligens
-i siste ledd radikalisering og ekstremisme. Det at
-disse profesjonsgruppene er til stede i skolen, har
-dessuten vist seg å styrke skole-hjem-samarbeidet, også i saker der det er bekymring for radikalisering. I dette laget har også andre ansatte i skolen, slik som rådgivere, en viktig rolle. Forskning
-som har blitt gjennomført de siste årene,3 viser
+En skriftlig veileder har begrenset nytte dersom innholdet i den ikke er kjent. Kommisjonen kjenner ikke til at det er planlagt kursing eller opplæring i veilederen som er omtalt ovenfor. Kommisjonen mener tjenesteapparatet bør få hjelp til å forstå det komplekse regelverket for taushetsplikt og informasjonsdeling. Bedre forståelse av og trygghet i anvendelsen av regelverket vil bidra til riktig, men ikke nødvendigvis mer, informasjonsdeling. Dette gjelder særlig der taushetsplikten er svært streng, for eksempel på helsefeltet. Det er også en utfordring at dagens fragmenterte regelverk er utfordrende å få «under huden», og at personer som ikke jobber direkte med disse spørsmålene til daglig, vanskelig kan forventes å prioritere dette høyt.
 
-behovet for systematisk og langsiktig innsats på
-dette området.
-For å kunne realisere et «lag rundt barnet» må
-det komme på plass mer midler og ressurser.
-Samtidig er det forståelig at pedagogisk personell
-og skolehelsetjenesten må prioriteres. Kommisjonen ønsker likevel å påpeke viktigheten av tverrfaglig innsats. Kommisjonen har ikke utredet
-dette videre, men vil peke på at det kan være
-mulig å gjøre dette arbeidet i en trinnprosess: I
-det første trinnet utlyses midler gjennom en tilskuddsordning som kommuner/fylkeskommuner kan søke på for å ansette miljøterapeuter. Miljøterapeutene møtes i fagnettverk for å utveksle
-erfaringer. Det gjennomføres samtidig forskning
-på ordningen. Etter en evaluering kan det eventuelt iverksettes et trinn to, der skoler har krav på
-ressurser som gir dem mulighet til å ansette minst
-én miljøterapeut per et gitt antall elever.
+Kommisjonen mener likevel det er riktig å iverksette tiltak for å øke relevante aktørers kunnskap om det gjeldende regelverket. Slik opplæring bør gjennomføres som en del av de profesjonsbaserte opplærings- og utdanningsløpene for radikaliseringskontakter og koordinatorer i politiet og kriminalomsorgen. Etter kommisjonens syn er det imidlertid et selvstendig poeng at ulike aktører, inkludert politiet og PST, også får en større forståelse av andre aktørers taushetsplikt. Dette kan bidra til bedre samarbeid fordi det vil oppstå færre misforståelser og forventninger om å få informasjon fordi man selv har delt. Taushetsplikt og informasjonsdeling bør derfor også være en del av et felles studieemne for dem som jobber forebyggende. Kommisjonen anbefaler et slikt studium nedenfor i kapittel 53.2. Regelverksforståelse er også ferskvare, ettersom både lover, forskrifter og praksis kan endres over tid. Det bør derfor også gjennomføres et årlig kurs med fokus på taushetsplikt og informasjonsdeling i det forebyggende arbeidet.
 
-55.2.3 Styrking av Dembra
-Kommisjonen mener det er viktig at skoler i hele
-landet jobber systematisk og langsiktig med inkludering og demokratisk motstandskraft. Kompetansehevingstilbudet Dembra utgjør ett av flere aktuelle tilbud til skoler for å jobbe med fordommer,
-rasisme og andre krenkelser. Kommisjonen forstår
-at etterspørselen er stor etter Dembras ressurser
-og tilbud.
-Dembra er rettet mot både skoler og lærerutdanningen. Tilbudet er institusjonsorientert og
-forskningsbasert og skal bidra til å skape demokratisk skolekultur. I lærerutdanningen bidrar
-Dembra med systematisk fokus på lærerstudentenes profesjonskompetanse og styrking av faglig
-forankring i det forebyggende arbeidet.
-Kommisjonen har inntrykk av at Dembra tilbyr faglig solide verktøy som lærere og skoleledere kan nyttiggjøre seg i sitt arbeid, enten de står
-overfor konkrete utfordringer eller ønsker veiledning rundt hvordan skolen kan jobbe langsiktig
-med å bygge demokratisk kompetanse. Dembras
-verktøy tilpasses skolens behov i dialog mellom
-veilederen og skolen. Dette vurderes som en
-styrke fordi det er skolen selv som vet «hvor
-skoen trykker», og som også skal jobbe med verktøyene. Tiltaket har god effekt slik kommisjonen
-forstår det. Det er også påvist av andre.4 Med
-3
+På slike kurs kan deltakerne ta opp spørsmål, dele erfaringer fra samarbeid seg imellom og delta i en tverrsektoriell dialog. Kursene kan med fordel være digitale for å nå hele landet. Ulempen med digitale kurs er imidlertid at deltakerne ikke får møttes og etablert faglige nettverk. Som omtalt ovenfor, anbefaler kommisjonen å dekke dette behovet på andre måter, for eksempel gjennom lokale og regionale samarbeidsarenaer. Dersom et nasjonalt senter for innsats mot voldelig ekstremisme som nevnt ovenfor blir realisert, kan senteret ha ansvaret for å organisere kursingen.
 
-4
+Kommisjonens anbefaling:
 
-Buland, Mordal og Mathiesen 2020; Borg, Drange, Fossestøl og Jarning 2014; Borg, Christensen, Fossestøl og Pålshaugen 2015; Gjertsen, Hansen og Juberg 2018; Holmøy,
-Birkrem, Lien og Flaten 2019
-Proba samfunnsanalyse 2023c
+- Kurs og opplæring i reglene om taushetsplikt og informasjonsdeling gjøres tilgjengelig for aktørene i førstelinjetjenesten.
+
+Forskrift om informasjonsdeling etter forvaltningsloven
+
+Behov for forskriftsregulering
+
+Aktørene som er underlagt forvaltningsloven har hjemler som i en viss utstrekning kan brukes til informasjonsutveksling i det forebyggende arbeidet mot radikalisering og ekstremisme. Det er imidlertid uklart når og hvordan disse hjemlene kan anvendes. Kommisjonen legger vekt på innspill vi har fått fra aktører som arbeider med radikalisering i sitt daglige virke, og som er i tvil om regelverket, selv etter at de har gjort flere forsøk på å få avklart hvilke regler som gjelder, blant annet ved å be om hjelp fra sin kommuneadvokat. I tråd med Forvaltningslovutvalget og Justis- og beredskapsdepartementets konklusjoner som omtalt i kapittel 34 Taushetsplikt og informasjonsdeling legger kommisjonen til grunn at dagens regelverk ikke i tilstrekkelig grad dekker behovet for deling av taushetsbelagte opplysninger. Det er derfor et behov for endringer i regelverket.
+
+Med hjemmel i forvaltningsloven § 13 g kan det gis forskrift om adgang til informasjonsdeling og annen behandling av taushetsbelagte opplysninger. En slik forskrift kan regulere deling av informasjon fra aktører som er omfattet av forvaltningslovens regler om taushetsplikt. En forskrift etter forvaltningsloven § 13 g vil senke terskelen for informasjonsdeling for aktørene som arbeider forebyggende mot radikalisering og voldelig ekstremisme.
+
+Som det følger av den vedlagte rapporten om taushetsplikt og informasjonsdeling i det forebyggende arbeidet, vil en forskrift etter § 13 g kunne dekke behovet for informasjonsdeling for flere aktører som er sentrale i det forebyggende arbeidet mot ekstremisme og radikalisering.[^2154] I forarbeidene til forvaltningsloven § 13 g vises det blant annet til det forebyggende arbeidet på ekstremismefeltet.[^2155] Kommisjonen har fått innspill om at det er behov for egne bestemmelser i særlovgivningen i tillegg til forskriften. Dette ble vurdert av Justis- og beredskapsdepartementet i forarbeidene til forvaltningsloven § 13 g, og kommisjonen ser ikke behov for å gjøre en ny vurdering av dette spørsmålet. Etter kommisjonen syn vil en forskrift hjemlet i forvaltningsloven § 13 g dekke behovet for informasjondeling fra aktører som er regulert av forvaltningsloven på ekstremismefeltet. Som det følger nedenfor, stiller dette seg annerledes på helseområdet.
+
+Menneskerettighetene og personvernregelverket
+
+Kommisjonen tar i vurderingen av de menneskerettslige implikasjonene av en ny forskrift utgangspunkt i norske myndigheters menneskerettslige forpliktelse til å beskytte borgerne mot vold, slik den følger av retten av liv.[^2156] Et velfungerende forebyggende arbeid vil kunne sette myndighetene bedre i stand til å beskytte borgerne mot ekstremistisk vold. Samtidig vil utlevering av personopplysninger etter en forskrift vedtatt etter forvaltningsloven § 13 g kunne utgjøre et inngrep i retten til privatliv etter Grunnloven § 102 første ledd første punktum, Den europeiske menneskerettighetskonvensjonen (EMK) artikkel 8 nr. 1 og FNs konvensjon om sivile og politiske rettigheter artikkel 17. Retten til privatliv er imidlertid ikke absolutt, og det kan gjøres inngrep i rettigheten dersom det foreligger tilstrekkelig hjemmel og et legitimt formål, og inngrepet er forholdsmessig.
+
+En forskrift etter § 13 g vil kunne oppfylle det menneskerettslige hjemmelskravet. I forarbeidene er det understreket at selve forskriften må være tilstrekkelig klar for å oppfylle hjemmelskravet.[^2157] Det er ulike syn på hva som menes med radikalisering og ekstremisme. I en eventuell forskrift må det derfor tydelig defineres hva som menes med begrepene. Kommisjonens mandat omfatter både voldelig ekstremisme og ekstremisme i bred forstand. En eventuell forskrift vil kun omhandle forebygging av voldelig ekstremisme, og PSTs definisjon vil derfor gi god veiledning.[^2158]
+
+Når det gjelder et legitimt formål, følger det av EMK artikkel 8 nr. 2 at inngrepet må være nødvendig av hensyn til «den nasjonale sikkerhet, offentlige trygghet eller landets økonomiske velferd, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, eller for å beskytte andres rettigheter og friheter».[^2159] Formålet med forebygging av voldelig ekstremisme og radikalisering vil falle inn under dette vilkåret.
+
+Vurderingen av om delingen av informasjon vil være forholdsmessig, vil i utgangspunktet knyttes til det enkelte inngrepet, ikke hjemmelen som sådan.[^2160] Om det er forholdsmessig å dele informasjon, må derfor vurderes konkret i det enkelte tilfellet, noe som også reflekteres i ordlyden i § 13 g («så langt delingen ikke utgjør et uforholdsmessig inngrep overfor den opplysningene gjelder»). Av forarbeidene til § 13 g følger det at momenter som bør inngå i denne vurderingen, er om innhenting av samtykke eller anonymisering kan ivareta behovet for informasjon.[^2161]
+
+Gjelder opplysningene som skal deles barn, må barns rettigheter, særlig barnets beste og barnets rett til å bli hørt, vektlegges jf. Grunnloven § 104.
+
+I tillegg til at en eventuell forskrift må være i tråd med menneskerettighetene, må den være lovlig etter EUs personvernforordning. Etter personvernforordningen må det foreligge et behandlingsgrunnlag, og dette må fastsettes i nasjonal rett, jf. artikkel 6. Av forarbeidene til forvaltningsloven § 13 g følger det at en forskrift gitt i medhold av bestemmelsen vil utgjøre et behandlingsgrunnlag etter personvernforordningen, som også gir grunnlag for en viderebehandling som er uforenlig med det opprinnelige innsamlingsformålet.[^2162] En slik forskrift vil også gi grunnlag for behandling av særlige kategorier av personopplysninger, jf. personvernforordningen artikkel 9 nr. 2. Spørsmål knyttet til utformingen av en mulig forskrift og forholdet til personvernregelverket omtales videre i vedlegg 2.
+
+Informasjonsplikt?
+
+I norsk rett kan det i noen tilfeller foreligge en *opplysningsplikt,* særlig der det er fare for noens liv eller helse. Kommisjonen har fått innspill om at en informasjonsrett, men ikke -plikt, overlater den vanskelige vurderingen av om opplysninger bør deles eller ikke, til den enkelte. Forvaltningsloven § 13 g åpner imidlertid ikke for å pålegge noen en informasjonsplikt.
+
+Noen aktører har pekt på at slike vurderinger er særlig vanskelige fordi brudd på taushetsplikten kan føre til straffeansvar. Kommisjonen vil i denne sammenhengen peke på at det av forarbeidene til forvaltningsloven § 13 g følger at den som etter en forsvarlig vurdering av de momentene som er fastsatt i den enkelte forskriften, kommer til at det ikke er uforholdsmessig å dele taushetsbelagte opplysninger, ikke bør straffes, selv om det senere blir avgjort at den konkrete delingen utgjorde et «uforholdsmessig inngrep».[^2163]
+
+Selv om kommisjonen har forståelse for at det kan være ønskelig å «slippe» å gjøre vanskelige forholdsmessighetsvurderinger, vil en informasjonsplikt etter kommisjonens syn gjøre for store inngrep i den enkeltes privatliv. Ettersom begrepene radikalisering og ekstremisme ikke er entydig definerte rettslige begreper, vil det også være vanskelig å trekke grensene for når en eventuell plikt til informasjonsdeling vil inntreffe.
+
+Kommisjonen har ikke gått videre med spørsmålet om informasjonsplikt.
+
+Kommisjonens nærmere vurdering
+
+Ulike hensyn gjør seg gjeldende for og mot å senke terskelen for deling av taushetsbelagt informasjon.
+
+Radikalisering og ekstremisme er alvorlige samfunnsutfordringer som kan få store konsekvenser for individers liv, helse og trygghet. Ekstremistisk vold kan også ha store omkostninger for samfunnet som helhet. Et sentralt spørsmål i vurderingen av hvorvidt informasjon bør deles, er hvordan sikringsplikten og samfunnets behov for sikkerhet skal vektes mot hensynet til privatliv. På den ene siden står ønsket om å dele informasjon mellom tjenester for å kunne gjøre gode trusselvurderinger og iverksettelse av eventuelle avvergende eller forebyggende tiltak. Mot dette står hensynet til den enkeltes privatliv og andre sivile rettigheter.
+
+Kommisjonen legger til grunn at tillit mellom tjenestetilbudet og dem som skal motta tjenestene, er avgjørende i det forebyggende arbeidet. Flere aktører har spilt inn til kommisjonen at det å senke terskelen for å dele taushetsbelagt informasjon kan skade denne tilliten. Selv om det kan være vanskelig å dokumentere en slik effekt, mener kommisjonen det er grunn til å utvise forsiktighet med å utfordre slike tillitsrelasjoner. De som står i fare for å radikaliseres kan også allerede ha lav tillit til tjenesteapparatet og offentlige myndigheter generelt. Kommisjonen er enig i Holmboes vurdering i den vedlagte rapporten om at dersom folk opplever at hjelpeapparatets terskel for å dele informasjon er lav eller ikke-eksisterende, kan det påvirke deres vilje til å dele informasjon med hjelpeapparatet. Det kan også tenkes at enkelteksempler som blir kjent i mediene, vil påvirke atferden vel så mye som regelverket.
+
+Eksempler på informasjon det kan være aktuelt å dele etter en ny forskrift er at en klient, bruker eller elev viser tegn på radikalisering gjennom bruk av tegn og symboler eller omgang med kjente ekstremister eller miljøer, kanskje i kombinasjon med en livskrise eller påfallende adferd. En særlig utfordring i det forebyggende arbeidet mot radikalisering og voldelig ekstremisme er at en del radikaliseringsbekymringer ikke nødvendigvis har noe med kriminalitet å gjøre, men handler om uønskede holdninger og ytringer. Kommisjonen mener at en lavere terskel for informasjonsdeling ikke innebærer at ytringer som er ubehagelige eller i strid med majoritetens verdier i seg selv, skal gi grunn for å dele personopplysninger, fordi dette etter vårt syn vil gjøre for store inngrep i den enkeltes sivile rettigheter, når det gjelder både privatliv og ytringsfrihet. Samtidig mener kommisjonen at det vil finnes uttalelser som kan danne grunnlag for å dele informasjon, for eksempel uttalelser som klart gir uttrykk for å legitimere vold for å oppnå bestemte formål. Det kan også være forskjell på enkeltstående uttalelser og gjentatte, ekstreme uttalelser.
+
+Mer informasjonsdeling skal ikke bare muliggjøre gode trusselvurderinger, men også gi tjenesteapparatet den informasjonen som trengs for å sette inn riktige og individuelt tilpassede tiltak for å redusere en persons risiko- og sårbarhetsfaktorer. Norske myndigheter har et uttalt mål om bred og tidlig intervensjon i det forebyggende arbeidet mot voldelig ekstremisme. Dersom informasjon ikke kan deles før det foreligger en avvergingssituasjon, er det etter kommisjonens syn misvisende å snakke om «tidlig forebygging», da målet i en slik situasjon vil være å stoppe en konkret straffbar handling.
+
+Innføringen av en forskrift hjemlet i forvaltningsloven § 13 g vil innebære at hensynet til samfunnets og individers sikkerhet vil tillegges større vekt på bekostning av den enkelts privatliv. Etter kommisjonens syn er det likevel mulig å utforme forskriften slik at hensynet til privatliv blir godt ivaretatt. Argumenter mot informasjonsdeling i en konkret sak, for eksempel at bekymringen ikke er alvorlig nok, eller at opplysningene er gitt under berettiget forventning om konfidensialitet eller vil kunne skade en eksisterende tillitsrelasjon, vil bli vektlagt i den konkrete forholdsmessighetsvurderingen i hver enkelt sak og kan medføre at deling ikke tillates. Kommisjonen legger også vekt på at uklarhet og usikkerhet rundt forståelsen av regelverket i dag tilsynelatende gjør at tillit og personlige relasjoner blir utslagsgivende for om informasjon deles. Dette er ikke en holdbar situasjon verken for den opplysningene gjelder eller den som skal dele opplysningene.
+
+Etter en helhetlig vurdering der ulike hensyn er veid opp mot hverandre, mener kommisjonen at terskelen for informasjonsdeling bør senkes ved at det innføres en forskrift etter forvaltningsloven § 13 g. En forutsetning er at denne utformes på en måte som ikke skaper flere uklarheter, og at det gis tydelig veiledning i anvendelsen av forskriften. Kommisjonen har selv prøvd å behandle noen sentrale spørsmål knyttet til forskriften og har utformet et forslag til forskrift. Dette følger som vedlegg 2.
+
+Kommisjonens anbefaling:
+
+- Justis- og beredskapsdepartementet fastsetter en forskrift om deling av taushetsbelagt informasjon i det forebyggende arbeidet mot radikalisering og voldelig ekstremisme etter forvaltningsloven § 13 g.
+
+Større adgang til å dele taushetsbelagt informasjon på helsefeltet
+
+Behov for lovendring?
+
+Spørsmålet om helsevesenets informasjonsdeling og samhandling med andre aktører, særlig politiet, har lenge vært en utfordring, særlig innen psykisk helsevern. Helsepersonells taushetsplikt følger ikke av forvaltningsloven og kan derfor ikke reguleres gjennom en forskrift etter forvaltningsloven § 13 g. Dersom adgangen til å dele informasjon skal utvides for helsepersonell, krever dette lovendring.
+
+Aktører i både justis- og helsesektoren har tatt opp utfordringene knyttet til helsepersonells taushetsplikt med kommisjonen. Flere har pekt på uklarhet i regelverket og usikkerhet blant helsepersonellet som skal anvende det, slik kommisjonen også har sett i sin gjennomgang av regelverket og anvendelsen av dette i kapittel 34.
+
+Kommisjonen har forståelse for at regelverkets kompleksitet gjør det utfordrende å anvende i praksis. Samtidig er det kommisjonens syn at terskelen for å dele informasjon på helsefeltet er svært høy, og at dette er en klar intensjon fra lovgiver. Vi forstår at det er gode grunner for denne høye terskelen, særlig med hensyn til tilliten til helsetjenesten. Samtidig ser kommisjonen at det også er tungtveiende grunner til å vurdere og justere terskelen for i hvilke tilfeller informasjon kan og bør deles.
+
+Kommisjonen legger vekt på funnene fra evalueringsutvalgene etter hendelsene i Bærum i 2019, Kongsberg i 2021 og i Oslo sentrum i 2022 som på ulike måter peker på svakheten ved at helseopplysninger ikke kan deles før det foreligger en avvergingssituasjon, siden det da kan være for sent å dra nytte av opplysningene i en vurdering av personens voldspotensial. Tidlig intervensjon i forebyggingen av voldelig ekstremisme er et nasjonalt mål. Å vente med informasjonsdeling til man er i en avvergingssituasjon, legger ikke til rette for slikt tidlig forebyggende arbeid. Det skaper også en betydelig risiko for at varselet kommer så sent at lovbruddet ikke lar seg avverge.
+
+Kommisjonen mener etter dette at det er grunn til å vurdere lovendringer på helseområdet for å senke terskelen for deling av taushetsbelagt informasjon i det forebyggende arbeidet mot radikalisering og ekstremisme.
+
+Menneskerettighetene og personvernregelverket
+
+På samme måte som for en forskrift etter forvaltningsloven § 13 g vil det å senke terskelen for å dele taushetsbelagt informasjon utgjøre et inngrep i retten til privatliv etter Grunnloven § 102 første ledd første punktum, Den europeiske menneskerettighetskonvensjonen artikkel 8 nr. 1 og FNs konvensjon om sivile og politiske rettigheter artikkel 17. Som omtalt ovenfor er retten til privatliv ikke absolutt, og det kan gjøres inngrep i rettigheten dersom det foreligger tilstrekkelig hjemmel og et legitimt formål og inngrepet er forholdsmessig. Overordnet vil vurderingen tilsvare den menneskerettslige vurderingen for en eventuell forskrift etter forvaltningsloven § 13 g. Noen særlige forhold gjør seg imidlertid gjeldende i spørsmål om utlevering av helseopplysninger fordi de er gitt en særlig status av Den europeiske menneskerettighetsdomstolen.[^2164] Dersom informasjonsdeling fører til at personer som har behov for helsehjelp, ikke oppsøker helsetjenestene i frykt for at informasjon deles videre, kan dette i verste fall føre til at liv går tapt.
+
+En eventuell lovendring på helsefeltet må være i tråd med EUs personvernforordning. Kommisjonen viser til omtalen ovenfor og vedlegg 2 som gjelder en forskrift etter forvaltningsloven § 13 g. Dersom terskelen for informasjonsdeling fra helsetjenestene skal senkes, må det i regelverksutformingen gjøres tilsvarende vurderinger og presiseringer i forbindelse med lovarbeidet.
+
+Kommisjonens nærmere vurdering
+
+Som for en forskrift etter forvaltningsloven § 13 g reiser en eventuell regelverksendring på dette området prinsipielle spørsmål om vekting av sikkerhet på den ene siden og hensynet til privatliv på den andre. Denne balansegangen er særlig utfordrende på helsefeltet av hensynet til det særskilte tillitsforholdet mellom en behandler og en pasient. Retten til selvbestemmelse står også særlig sterkt som verdi på dette feltet.
+
+Hensynet til konfidensialitet gjelder med særlig styrke i forholdet mellom en behandler og en pasient og kan tilsi at informasjon som har fremkommet i en slik relasjon, ikke bør deles med mindre man står i en avvergings- eller nødrettssituasjon. Dette er gjeldende rett. I verste fall er man redd for at personer ikke vil søke helsehjelp i frykt for at informasjon vil bli delt videre. Om dette faktisk vil være tilfelle ved en eventuell lovendring, er ikke mulig å forutse. Det er imidlertid gode grunner til å utvise forsiktighet når slik grunnleggende tillit settes på spill.
+
+Samtidig er kommisjonen bekymret for at helsepersonell blir stående alene i vurderinger av om en pasient kan komme til å begå ekstremistisk vold. Etter dagens regelverk kan en behandler være bekymret for en pasient som er alvorlig psykisk syk, og som fantaserer om å begå ekstremistisk vold, uten at avvergingsplikten og muligheten til å for eksempel kontakte politiet nødvendigvis utløses. Dersom det ikke foreligger en avverge- eller nødrettssituasjon vil behandleren ikke kunne ta kontakt med politiet for å få informasjon til å belyse en voldrisikovurdering uten å selv bryte sin egen taushetsplikt. Informasjon som vil være særlig viktig, er typisk om personen tidligere har begått vold. Det kan også være vanskelig for behandleren å vite om pasienten nærmer seg en så konkret planlegging at avvergingsplikten inntrer uten informasjon fra andre.
+
+En behandler vil heller ikke kunne ta kontakt med politiet for å dele informasjon om at en radikalisert person gjennomgår en alvorlig livskrise som kan gjøre hen mer farlig, med mindre det er snakk om fare for en konkret straffbar handling. Helsepersonell vil heller ikke kunne gi informasjon til politiet eller PST dersom de tar kontakt om en bekymring som er alvorlig, men som likevel ikke utløser avvergingsplikten. Etter kommisjonens syn er ikke dette en holdbar situasjon.
+
+Kommisjonen legger også vekt på helsesektorens behov for samarbeid og informasjonsdeling med andre aktører utover politi og PST. For eksempel kan fast bosted og sysselsetting ha stor betydning for en person som skrives ut fra behandling i helsevesenet.
+
+Etter en helhetlig vurdering mener kommisjonen at tungtveiende grunner taler for at terskelen for informasjonsdeling på helseområdet bør senkes. Etter kommisjonens syn er det mulig å formulere en eventuell hjemmel for informasjonsdeling fra helsepersonell på en slik måte at den enkeltes rett til privatliv blir ivaretatt på en god måte, og at kun nødvendig informasjon deles, uten at det gjøres uforholdsmessige inngrep overfor den enkelte.
+
+Kongsberg-utvalgets utredning
+
+Evalueringen av Kongsberg-hendelsen i 2021 fremhevet særlige utfordringer i saker der det både er bekymring for radikalisering og alvorlig psykisk sykdom. Evalueringsutvalget etter hendelsen foreslo blant annet en ny hjemmel for informasjondeling etter inspirasjon fra blant annet den danske retsplejeloven § 115:
+
+Taushetsplikt etter \[de ulike aktørers lovbestemte taushetsplikt\] er ikke til hinder for at det gis opplysninger til andre offentlige organer eller institusjoner som inngår i et formalisert forebyggende arbeid knyttet til psykisk syke og kriminelt belastede personer når dette anses nødvendig for å kunne forebygge alvorlig kriminalitet og verne samfunnet.
+
+Den foreslåtte bestemmelsen inneholder tre sentrale begrensninger: Den vil bare gjelde
+
+- for aktørene når de deltar i det formaliserte samarbeidet
+
+- for pasienter/klienter som er registrert som gjenstand for et slik samarbeid
+
+- så langt hensynet til risikoreduserende forebygget arbeid tilsier det
+
+(Henriksen, Brenden, Hoel, Kruke og Myhrer 2022, s. 201)
+
+Kommisjonen har drøftet om dette forslaget kan bøte på utfordringene som beskrevet over.
+
+Forslaget fra Kongsberg-utvalget har flere likhetstrekk med en delingsadgang etter forvaltningsloven § 13 g, ved at deling forutsetter et etablert samarbeid og at det må gjøres en konkret vurdering i hvert enkelt tilfelle om delingen er nødvendig. For best mulig indre sammenheng mellom reglene kan det etter kommisjonens syn være en fordel at en mulig ny lovbestemmelse i helselovgivningen i størst mulig grad speiler den hjemmelen som er gitt for informasjonsdeling i forvaltningsloven § 13 g. I tillegg mener kommisjonen det kan være hensiktsmessig å fremheve forebygging av ekstremistisk vold i bestemmelsen.
+
+Når det gjelder de tre vilkårene som Kongsberg-utvalget lister opp, mener kommisjonen at det første treffer godt. Aktørene må delta i samarbeidet for å kunne dele. Kommisjonen er også enig i det siste vilkåret om at informasjon bare kan deles når «risikoreduserende forebygget arbeid tilsier det». Etter kommisjonens syn bør begge disse vilkårene fremkomme direkte av bestemmelsens ordlyd.
+
+Det tredje vilkåret, om at informasjonsdelingen kun gjelder «pasienter/klienter som er registrert som gjenstand for et slik samarbeid» reiser etter kommisjonens syn flere utfordringer. Særlig er det vanskelig å se for seg hvem som skal stå for et slikt register, og hvordan en person skal registreres der før informasjon fra helsesiden er delt. Flere aktører som kommisjonen har hatt møte med, har også pekt på denne problemstillingen. Etter kommisjonens syn bør dette vilkåret derfor ikke inkluderes i en eventuell lovbestemmelse.
+
+Basert på drøftelsen ovenfor kan følgende formulering etter kommisjonens syn være hensiktsmessig:
+
+Der det foreligger et etablert samarbeid mellom organer er taushetsplikten etter \[de ulike aktørers lovbestemte taushetsplikt\] ikke til hinder for at det gis opplysninger til andre organer eller institusjoner som inngår i et slikt samarbeid, når dette anses nødvendig for å kunne forebygge ekstremistisk vold eller annen alvorlig kriminalitet og verne samfunnet. Delingen må ikke utgjøre et uforholdsmessig inngrep overfor den opplysningene gjelder.
+
+Særlig om informasjonsinnhenting til voldsrisikovurdering
+
+Forslaget som er beskrevet ovenfor, må ses i sammenheng med kommisjonens anbefaling om å etablere eller videreutvikle formaliserte tverretatlige samarbeid i det forebyggende arbeidet mot radikalisering og voldelig ekstremisme. Etter kommisjonens syn er det avgjørende at det etableres slike formaliserte strukturer, og at helsetjenesten involveres i de sakene der det er relevant. I tillegg kan det, som kommisjonen beskriver ovenfor, være hensiktsmessig at det etableres ytterligere møtepunkter for politiet og helsetjenesten.
+
+Uavhengig av om det etableres slike samarbeidsfora, mener kommisjonen at helsepersonell som et absolutt minimum må gis en tydelig hjemmel til å innhente informasjon fra politiet og andre sentrale aktører for å gjøre voldsrisikovurderinger. Da vil det være nødvendig å opplyse om pasientforholdet og ofte også om hva som gjør at helsepersonellet finner grunn til å søke nærmere opplysninger. Slike forhold er taushetsbelagt. I den vedlagte rapporten om taushetsplikt og informasjonsdeling i det forebyggende arbeidet, fremmes for eksempel et forslag om endring i psykisk helsevernloven for at helsepersonell uten hinder av taushetsplikten skal kunne dele informasjon for å gjøre voldsrisikovurderinger.[^2165]
+
+Et annet alternativ kan være å knytte helsepersonells adgang til å innhente informasjon fra andre til behovet for å avklare om det foreligger en avvergingssituasjon. Dette kan gjøres ved å fastsette i lov at dersom det er nødvendig for å avklare om det foreligger en konkret fare for et lovbrudd som nevnt i straffeloven § 196, kan helsepersonell uten hinder av taushetsplikt dele informasjon med andre for å skaffe tilstrekkelig informasjon. Et tredje alternativ er at det legges til en ny bestemmelse i helsepersonelloven § 23 om at taushetsplikten ikke skal være til hinder for at helsepersonell deler opplysningene med andre så langt det er nødvendig for å unngå fare for liv eller helse.
+
+Kommisjonens konklusjon
+
+På grunnlag av drøftelsene ovenfor har kommisjonen konkludert med at terskelen for informasjonsdeling for helsepersonell bør senkes for å sikre et godt forebyggende arbeid mot radikalisering og voldelig ekstremisme. Samtidig anerkjenner kommisjonen at det å senke terskelen for informasjonsdeling reiser en rekke vanskelige, prinsipielle spørsmål. I tillegg til spørsmålene om vektingen mellom hensynet til privatliv, eventuelle konsekvenser for tillit til helsetjenesten og hensynet til sikkerhet har det i innspill til kommisjonen blitt stilt spørsmål om hvordan en eventuell informasjonsdeling som skjer som en del av PSTs skjulte, forebyggende arbeid, skal journalføres. Kommisjonen merker seg at PST i forbindelse med revideringen av rundskrivet om samarbeid mellom politiet og helsetjenesten kom med konkrete innspill på dette området, som bør følges opp ved vurderingen av en eventuell lovendring.[^2166] Et annet spørsmål som også er uavklart er eventuell videre bruk av opplysninger som deles i forebyggende eller avvergende øyemed, for eksempel i en etterfølgende rettssak.
+
+Spørsmålet om helsepersonells taushetsplikt berører også et felt som er mye større enn forebygging av radikalisering og voldelig ekstremisme, og det er derfor grunn til å drøfte denne problemstillingen under et bredere mandat enn det kommisjonen har hatt anledning til. Kommisjonen har sett på flere mulige måter å senke terskelen for informasjonsdeling for helsepersonell, men har ikke hatt kapasitet til å gå dypt inn i vurderingen av hvilken tilnærming som vil være den beste. Kommisjonen mener dette arbeidet bør følges opp i en videre utredning. Det er viktig at det i forbindelse med et slikt lovarbeid gis praktisk veiledning om når informasjon kan deles etter eventuelle nye hjemler.
+
+Kommisjonens anbefaling:
+
+- Det gjennomføres nødvendige lovendringer på helseområdet for større adgang til å dele taushetsbelagt informasjon i det forebyggende arbeidet mot radikalisering og voldelig ekstremisme.
+
+### Vurderingsverktøy
+
+Det foreligger per i dag ingen nasjonale føringer for eller standardisering av hvilke metoder som skal anvendes for å gjøre risikovurderinger på ekstremismefeltet. En nylig studie anbefaler at norske myndigheter tar et større ansvar for å standardisere dette arbeidet og utvikler et system og metoder for strukturerte risikovurderinger.[^2167] Kommisjonen har også mottatt innspill fra ulike aktører om dette temaet og flere anbefalinger om å se hen til det danske vurderingsverktøyet.[^2168]
+
+Kommisjonen mener det er gode grunner til å vurdere å utvikle et risikovurderingsverktøy i Norge som del av det forebyggende arbeidet mot radikalisering og voldelig ekstremisme. I likhet med hvordan det danske verktøyet omtales, vil kommisjonen i det følgende omtale det som et *vurderingsverktøy*.
+
+Dette henger sammen med det kommisjonen ser på som et todelt formål med et felles vurderingsverktøy. På den ene siden handler det om samfunnssikkerhet – å identifisere hvilke personer som utgjør en risiko, og redusere eller håndtere en eventuell trussel. På den andre siden handler det om å hjelpe og gi muligheter til personen det gjelder, ved at man basert på en tverrfaglig kartlegging av sårbarhet, risiko, behov og ressurser finner aktuelle tiltak som kan tilbys personen som støtte til å komme seg ut av ekstremisme.
+
+Forutsetninger for innføring – sammenheng med andre anbefalinger
+
+På grunn av dette todelte målet er det ikke tilstrekkelig at verktøyet brukes for å gjøre en vurdering av risiko. For å oppfylle formålene må resultatet av vurderingen følges opp med tiltak som både reduserer risiko og forhåpentligvis gir personen positive endringsmuligheter. Dette understøtter behovet for å etablere et forpliktende samarbeid mellom ulike aktører i tjenesteapparatet, som beskrevet ovenfor. Ofte er det politiet eller PST som mottar en bekymringsmelding, men de har ofte bare «harde» forebyggende tiltak til rådighet. Andre aktører, for eksempel Nav, boligkontoret i kommunen eller lignende, har tilgang til andre verktøy.
+
+For at et felles vurderingsverktøy skal fungere etter sin hensikt, er også enklere adgang til informasjonsdeling mellom tjenestene en forutsetning. Et felles vurderingsverktøy gir ikke mening uten etablerte samarbeidsarenaer og adgang til å dele informasjon mellom aktørene, og henger derfor tett sammen med anbefalingene ovenfor.
+
+En av fordelene ved å innføre et felles tverrfaglig vurderingsverktøy er at man får etablert en ensartet systematikk på tvers av kommuner og politidistrikt. Verktøyet kan systematisere og strukturere informasjonsinnhenting og vurderinger samt profesjonalisere arbeidet gjennom at vurderingene standardiseres og kvalitetssikres.[^2169] Man får utarbeidet et felles språk, som gjør det lettere å vurdere når informasjon kan deles. Ved at et felles vurderingsverktøy tas i bruk på etablerte samarbeidsarenaer, sikrer man også at den rette faglige kompetansen er til stede når en radikaliseringsbekymring skal håndteres.
+
+At nasjonale myndigheter tar ansvar for å utvikle og gi opplæring og veiledning i et verktøy, vil gi en trygghet til praktikere på feltet, som etter hva kommisjonen har erfart, ofte har hatt følelsen av å stå nokså alene i arbeidet, særlig de som i dag ikke deltar i tverrfaglige samarbeid. Endelig vil et slikt vurderingsverktøy bidra til å øke kvaliteten på vurderingene som gjøres, ved at de drøftes i et faglig, profesjonelt fellesskap. Det vil gi praktikere et hjelpemiddel for å systematisk innhente og vurdere informasjon om personer i målgruppen, slik at saken blir best mulig opplyst. Dette bidrar også til å synliggjøre hvilke ressurser personene har, og hvilke tiltak som bør iverksettes.[^2170]
+
+I vurderingen av om en sak skal tas inn i et slikt tverretatlig samarbeid, vil den etaten som har mottatt bekymringen, også måtte gjøre en vurdering i forkant. At hver aktør eller etat på den måten bevisstgjøres og tvinges til å gjøre gode vurderinger internt for å avgjøre om saken når terskelen for å tas inn i et tverretatlig samarbeid, kan også øke kvaliteten på arbeidet med den enkelte bekymringen, uansett alvorlighetsgrad.
+
+Oppsummert vil verktøyet, forutsatt muligheten for informasjonsdeling mellom aktører i et tverrfaglig samarbeid, legge til rette for faglige, kvalifiserte helhetsvurderinger av en sak, med mulighet for å følge opp med tiltak som reduserer risiko for radikalisering og forhåpentligvis hjelper personen videre i ønsket retning.
+
+Det er også en rekke utfordringer knyttet til innføring av et felles vurderingsverktøy. En av dem er at det er utfordrende å utvikle et verktøy som skal brukes på tvers av sektorer. De ulike involverte aktørene som vil inngå i et samarbeid, vil ha varierende samfunnsoppdrag, formål, organisering, regelverk, informasjon, kompetanse, behov, ressurser med mer. Et felles vurderingsverktøy vil også være ressurskrevende, både for nasjonale myndigheter som skal utvikle verktøyet og gi opplæring og veiledning, og for lokale og regionale aktører som skal ta verktøyet i bruk. Dette er heller ikke en engangsinvestering – de ulike aktørene må ikke bare ha kapasitet til å gjøre vurderingene, men også til å oppdatere vurderingene dersom forhold ved personen endrer seg.
+
+Når det gjelder slike vurderingsverktøy, er mengdetrening viktig. Det kan stilles spørsmål ved om det er nok saker med bekymring for voldelig ekstremisme til at praktikerne får den tilstrekkelige mengdetreningen. Videre vil det kreve dels omfattende informasjonsinnhenting for å få nok informasjon til å kunne gjennomføre gode vurderinger med et slikt tverrfaglig verktøy, noe som kan være en utfordring. I de fleste lignende tverrfaglige samarbeid kommisjonen kjenner til, jobbes det for at personen gir samtykke til deling av informasjon, noe som innebærer at personen som blir vurdert, involveres i vurderingen. I noen saker, enten på grunn av sakens karakter og eventuell gradert informasjon eller på grunn av et eventuelt hasteaspekt, vil dette kunne være utfordrende, særlig for PST og politiet.[^2171]
+
+Kommisjonens nærmere vurdering
+
+Kommisjonen mener at et felles vurderingsverktøy vil være nyttig med tanke på deling av informasjon på tvers av etater og også på tvers av kommuner og politidistrikt. Med et slikt verktøy kan aktørene utvikle et felles språk som gjør det mulig å få felles forståelse av når bekymringen er alvorlig nok til at det er nødvendig å dele informasjon. Det vil også kunne gjøre det enklere og mer attraktivt å inngå i forpliktende samarbeidsstrukturer lokalt og regionalt som anbefalt overfor, dersom en felles og systematisk metode for å vurdere bekymringer er tilgjengelig, og man i tillegg kan få opplæring og veiledning i bruk av verktøyet fra nasjonalt hold.
+
+Det er viktig at praktikere ikke senker terskelen for å ta inn saker i det tverrfaglige samarbeidet for at man skal få den tilstrekkelige mengdetreningen, men at de forholder seg til regelverket for informasjonsdeling og gjør gode forholdsmessighetsvurderinger. Mengdetrening kan ivaretas ved at man møtes med en viss regelmessighet og eventuelt øver med fiktive caser dersom man ikke har aktuelle saker. Jevnlige møtepunkter på de etablerte samarbeidsarenaene vil også gjøre det lettere å ta kontakt og samles raskt når det faktisk oppstår saker hvor det kreves at det gjøres tverrfaglige vurderinger.
+
+En annen utfordring gjelder ulike samfunnsoppdrag og roller hos aktørene som skal ta del i det tverrfaglige samarbeidet og vurderingene. Etter kommisjonens syn vil det være en styrke å få belyst saken fra ulike sektor-/profesjonsperspektiver. Samtidig er kommisjonen bevisst på diskusjonen rundt en økende «sikkerhetisering» av for eksempel skolen og helse- og sosialtjenester. Ulike aktører har ulike mandater og samfunnsoppdrag og derfor ulike institusjonelle logikker. Dersom helse- og sosialtjenestene skal bruke et vurderingsverktøy, blir det doble formålet som omtalt ovenfor sentralt. Formålet er altså ikke utelukkende å vurdere risikoen for at en person utøver ekstremistisk vold, men også å kunne forebygge og hjelpe personen ut av situasjonen som ligger til grunn for bekymringen. Samtidig vil politiet være opptatt av at en eventuell risiko håndteres og tas ned ved bruk av de virkemidlene som trengs. Å sikre at alle – både politiet, helse- og sosialtjenester med flere – opplever det legitimt å delta i vurderingene, vil være sentralt.
+
+Basert på tilgjengelig forskning og samtaler med praktikere og myndigheter i Danmark vurderer kommisjonen at det danske vurderingsverktøyet i stor grad har fått til dette. Praktikere som kommisjonen har snakket med i Norge, og som har kjennskap til det danske vurderingsverktøyet, er også i stor grad positive. Selv om verktøyet vil kreve tilpasninger til norsk regelverk, norske strukturer og norske forhold, vurderer kommisjonen at det er gjort en grundig jobb med utviklingen av verktøyet, som det vil være naturlig for norske myndigheter å ta utgangspunkt i. På sikt vil dette også ved behov kunne gjøre samarbeid mellom Norge og Danmark enklere i saker som involverer voldelig ekstremisme, og landene vil faglig sett kunne dra nytte av hverandres erfaringer.
+
+Kommisjonen har kommet til at selv om det er hensyn som må tas, og utfordringer som må løses, er det mye som taler for at et felles vurderingsverktøy, innenfor rammene av en forpliktende samhandlingsmodell, vil være et viktig bidrag for å forbedre og profesjonalisere arbeidet med forebygging av radikalisering og ekstremisme i Norge.
+
+For å lykkes med dette er det kommisjonens vurdering at nasjonale myndigheter må ta ansvaret for å utvikle et felles risikovurderingsverktøy på fagfeltet, ta eierskap til et slikt verktøy og evaluere og videreutvikle det ved behov, og gi støtte og opplæring til aktørene som skal bruke det. Fortrinnsvis anbefaler kommisjonen at oppgaven med å utvikle og eie et slikt verktøy bør ligge hos det nasjonale senteret som anbefalt ovenfor.
+
+Gitt det kommunale selvstyret i Norge og at kommunene i landet har svært ulike forhold og ulik størrelse, anbefaler vi i første omgang at kommunene ikke skal være pålagt å benytte verktøyet. Vi anbefaler i stedet at dette skal være den metoden og det verktøyet som anbefales nasjonalt for vurdering av risiko for radikalisering og voldelig ekstremisme, og at aktørene selv kan forplikte seg til å bruke det som en del av et lokalt eller regionalt samarbeid. Det kan videre være en fordel at vurderingsverktøyet, etter at det er utviklet, piloteres i noen lokale tverrfaglige samarbeidsfora som allerede eksisterer.
+
+Kommisjonens anbefaling:
+
+- Det utvikles et felles vurderingsverktøy i arbeidet mot radikalisering og voldelig ekstremisme i Norge, etter modell fra det danske vurderingsverktøyet, men tilpasset norske forhold og juridiske rammer.
+
+### Reintegrering
+
+Norge har ikke et nasjonalt exit- eller reintegreringsprogram. Arbeidet med reintegrering er en del av det tverretatlige forebyggingsarbeidet, og utfordringene som gjelder reintegreringsarbeidet, synes i stor grad å være sammenfallende med det vi har sett for det øvrige tverretatlige forebyggende arbeidet i Norge. Reintegrering vil være en del av det tverrfaglige samarbeidet som anbefalt overfor og kunnskaps- og kompetanseløftet som omtales nedenfor i kapittel 53.
+
+I en rapport om reintegrering fra OsloMet ser forfatterne nærmere på hvordan man arbeider med reintegrering i de nordiske landene.[^2172] Rapporten gjennomgår også oppdatert forskning på feltet. Forfatterne gir en rekke anbefalinger, som blant annet handler om mer samarbeid og økt kunnskap og veiledning til dem som arbeider med slike saker.
+
+Det finnes en offentlig veileder for exitarbeid, publisert i 2020. Kommisjonen har gjennom sitt arbeid ikke fått inntrykk av at veilederen er kjent i tjenesteapparatet, eller at det er gjort noe spesifikt for å spre den.
+
+Etter kommisjonens syn bør veilederen oppdateres i lys av kunnskapen som kommer frem i rapporten fra OsloMet, og annen oppdatert kunnskap på feltet. En oppdatert veileder vil kunne gi dem som arbeider med reintegrering, en trygghet og retning. Kommisjonen anerkjenner at hvert tilfelle vil være forskjellig, og at personer som er i målgruppen for reintegrering, vil ha ulike behov. Samtidig mener vi at det også på dette området er et potensial for klarere nasjonale retningslinjer og en mer ensartet håndtering. Vi har merket oss at Stortinget har bedt regjeringen sikre bedre reintegrering, blant annet gjennom å oppdatere veilederen for exitarbeid.[^2173]
+
+Som del av arbeidet med å oppdatere veilederen bør myndighetene også vurdere om det bør etableres et sterkere samarbeid mellom myndigheter og sivile aktører, slik som er tilfellet i Sverige og Finland. Dette er i tråd med anbefalingen i rapporten fra OsloMet, der det argumenteres for at dette vil kunne gi mer nyansert kunnskap og innsats og være en styrke i arbeidet med reintegrering i Norge. Rapporten peker på at det i det forebyggende arbeidet mot ekstremisme og radikalisering generelt og reintegrering spesielt er et stort fokus på psykisk syke enkeltaktører og at det er for lite fokus på politisk, religiøst eller ideologisk overbeviste individer. Kommisjonen kjenner seg ikke nødvendigvis igjen i dette bildet, siden kombinasjonen av risiko- og sårbarhetsfaktorer og ideologi og politikk har vært fremhevet av mange av aktørene kommisjonen har møtt. Vi er likevel enig i viktigheten av å være oppmerksomme på politiske, ideologiske og internasjonale faktorer i den enkeltes radikalisering. Det er etter kommisjonens syn viktig at dette også vektlegges i reintegreringen, og at de som skal være mentorer, får tilstrekkelig opplæring i slike faktorer.
+
+I saksgjennomgangen fant vi at enkeltpersoner i ekstreme islamistiske miljøer kan ha stor betydning for andres radikalisering, og at uten disse radikalisatorene kunne livet kanskje tatt en annen retning for flere som har sonet dommer for terrorrelatert kriminalitet i Norge. I tillegg døde flere av disse «rekruttene» som fremmedkrigere i Syria. Med tanke på den destruktive kraften som ligger i enkeltpersoners virksomhet, mener kommisjonen det er avgjørende at aktører prioriterer slike enkeltpersoner høyt i det forebyggende og reintegrerende arbeidet, dette gjelder både politiet, kommuner og andre.
+
+Kommisjonen har fått mange positive tilbakemeldinger om mentorordningen, både fra kommuner og kriminalomsorgen. Samtidig har vi sett eksempler på saker der det ikke fungerer like godt, fordi personen som får tilbud om mentor, ikke ønsker å åpne seg for en fremmed. Det tilsier at det i noen saker vil være bedre å gi veiledning til noen som allerede har en etablert relasjon til personen. Fra saksgjennomgangen har kommisjonen også inntrykk av at mange mentorer har en funksjon som miljø- eller sosialarbeider overfor den radikaliserte. Det kan være riktig for mange saker, men for de mer ideologisk orienterte ekstremistene som kan bidra til å radikalisere andre, mener kommisjonen det kan være grunn til å velge mentorer med en annen bakgrunn og dypere kunnskap om forhold som religion og internasjonal politikk, for eksempel forskere, for å kunne utfordre den radikaliserte på slike temaer. Dette kan også være aktuelt for høyreekstreme med høyere utdanning.
+
+Kommisjonens anbefaling:
+
+- Personer som kan radikalisere andre, må prioriteres i det forebyggende og reintegrerende arbeidet.
+
+- Myndighetenes veileder om exitarbeid oppdateres i tråd med ny kunnskap, inkludert større grad av involvering av sivilsamfunnet og et større fokus på rollen til politikk, ideologi og religion.

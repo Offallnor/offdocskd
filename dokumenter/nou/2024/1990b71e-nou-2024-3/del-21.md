@@ -1,991 +1,298 @@
-# NOU 2024: 3, del 21 av 40 (side 264–274)
+# NOU 2024: 3, del 21 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 264]
-
-262
-
-Kapittel 33
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-SaLTo er Oslo kommune og Oslo politidistrikts samarbeidsmodell for å koordinere og samordne rus- og kriminalitetsforebyggende arbeid
-overfor barn og unge. SaLTo følger også opp radikalisering, hatkriminalitet og voldelig ekstremisme. Dette er en byomfattende innsats, og
-arbeidet er aldersuavhengig.4 Som for SLT-ordningen erfarer kommisjonen at det er utfordringer knyttet til ulik praktisering av ordningen i
-ulike bydeler. Kommisjonen forstår det slik at heller ikke i Oslo har koordinatorene egne saksbehandlingssystemer.
-
-Boks 33.1 Eksempelsak V –
-vellykket forebygging
-En middelaldrende mann som hadde en relativt høy posisjon i en høyreekstrem organisasjon, var i kontakt med tjenesteapparatet og
-ytret etter hvert et ønske om et annet liv, av
-ulike grunner. Det ble etablert et tverretatlig
-samarbeid for å bistå mannen med å bryte
-med miljøet, noe som innebar å flytte til en
-annen by. Det ble stilt krav om enkelte
-endringer hos mannen, samt oppmøte og oppfølging av det som ble avtalt mellom partene,
-før hjelpetiltak og ressurser ble tildelt. Svært
-mange offentlig ansatte i Nav, i skole/barnehage, på boligkontor og i helsevesenet samt
-politiet og PST var involvert. Dette gjorde at
-mange personer med ulike innfallsvinkler,
-kompetanse, erfaringer og virkemidler på forhånd hadde tenkt gjennom hva som kunne bli
-utfordrende (for eksempel bosted, naboer,
-boområde og skolekrets), og kunne drøfte
-praktiske løsninger som gjorde aktørene tryggere på beslutningene som skulle tas. Et godt
-tverretatlig samarbeid førte til at mannen og
-hans familie ble reintegrert på nytt sted, hvor
-de voksne blant annet fikk arbeid. Oppfølgingen er tett, og utviklingen ser ut til å være
-svært god.
-
-33.1.2 Politiråd
-Politiråd er et formalisert samarbeid mellom den
-øverste ledelsen i en kommune og det lokale politiet. Det er ment å være et strategisk organ for det
-lokale kriminalitetsforebyggende arbeidet, inkludert forebygging av voldelig ekstremisme. Kunnskap og erfaring utveksles mellom politi og kommune, med mål om en samordnet innsats. I politirådet sitter typisk ordfører og kommunedirektør,
-politistasjonssjef, kommunalsjef eller virksomhetsleder og SLT-koordinator, dersom kommunen
-har en slik. Etableringen av politiråd i 2007
-skjedde som en følge av en erkjennelse av at politiet ikke kan forebygge kriminalitet alene, og at
-selv om det fantes samarbeid i førstelinjen, manglet det samarbeid på ledernivå. Ulike evalueringer har vist at ordningen i hovedsak fungerer
-etter intensjonen.5
-33.1.3 Andre samarbeidsordninger
-Det er etablert flere ulike modeller både i kommuner og regioner, for å arbeide mot radikalisering
-og ekstremisme.
-I Bergen har man opprettet et tverretatlig operativt team (TOT), som består av medlemmer fra
-kommunen, Vest politidistrikt og RVTS Vest. TOT
-har som mål å gi bistand til personer som står i
-fare for å bli radikalisert, har returnert fra irregulær krigføring i konfliktområder eller inngår i
-ekstreme nettverk.6 Teamet drøfter enkeltsaker,
-foreslår tiltak og evaluerer iverksatte tiltak.7
-
-4
-5
-6
-7
-
-Oslo kommune 2023
-Rambøll 2014
-Presentasjon av TOT i kommisjonsmøte, 15. februar 2023
-Dette gjelder i hovedsak saker hvor det er gitt samtykke.
-Dersom det ikke har vært mulig å oppnå samtykke, drøftes
-saker anonymt uten detaljer
-
-SAMVER er en samordningsgruppe som skal
-bidra til at Stavanger-regionen har god evne til å
-forebygge, avdekke og håndtere radikalisering og
-voldelig ekstremisme. Gruppen, som ble etablert i
-2015, består av flere kommuner (Stavanger, Sandnes, Sola, Time, Randaberg, Hå), Rogaland fylkeskommune, PST, Sør-Vest politidistrikt, Kriminalomsorgen region sørvest, og RVTS.8 SAMVER
-skal fremme samarbeid og koordinering mellom
-aktørene som deltar, og har fire årlige møter.
-Norsk Institutt for Forebygging av Radikalisering og Voldelig Ekstremisme, eller Plattform, er et
-samarbeid mellom fagmiljø innen politi, kommuner
-og forskning som arbeider for å forebygge radikalisering og voldelig ekstremisme i Agder.9 Plattform
-utarbeider kunnskap og ressurser som formidles
-og benyttes i det forebyggende arbeidet i Agder.
-8
-9
-
-Presentasjon av Samver i kommisjonsmøte, 15. februar
-2023
-Plattform u.å.
-
-[Side 265]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-33.2 Samarbeid mellom politiet og
-helsetjenesten
-Det finnes ikke et formalisert forebyggende
-arbeid rettet mot psykisk syke og kriminelt belastede personer i dag. Dette er en utfordring flere
-aktører har tatt opp med kommisjonen. Særlig
-kan manglende samarbeid føre til problemer der
-en person har alvorlig psykisk sykdom og det
-samtidig foreligger en radikaliseringsbekymring.
-I juli 2023 kom det nye retningslinjer for samarbeid mellom politiet og helsetjenesten.10 Formålet med rundskrivet er å klargjøre ansvars- og oppgavefordeling, samt legge til rette for godt samarbeid. Av rundskrivet følger det at helseforetakene
-og lokalt politidistrikt skal ha faste kontaktpunkter for henvendelser mellom etatene og at det bør
-inngås lokale samarbeidsavtaler mellom helseforetak og politi. I flere politidistrikt er samarbeidet mellom politiet og helsevesenet allerede formalisert. Rundskrivet tar også for seg informasjonsdeling mellom helsetjenesten og politi eller
-PST.
-
-33.3 Samarbeid mellom de hemmelige
-tjenestene
-Samarbeidet mellom PST og E-tjenesten er regulert i en instruks gitt av Forsvarsdepartementet.
-Av instruksen følger det at tjenestene skal ha et
-«nært og tillitsfullt samarbeid generelt og i konkrete saker», holde hverandre orientert om generelle forhold som utviklingstrekk og metode og
-samarbeide i konkrete saker.11 Instruksen regulerer også Felles etterretnings- og kontraterrorsen10
-
-Helsedirektoratet 2023a
-
-263
-
-Kapittel 33
-
-ter (FEKTS), som er et permanent senter med
-representasjon fra begge tjenestene.
-Samarbeidet mellom PST og E-tjenesten kom
-på spissen i forbindelse med terrorangrepet 25.
-juni 2022, der E-tjenesten i forkant delte informasjon med PST om et mulig terrorangrep mot
-Norge i dagene før angrepet skjedde. Et av funnene fra evalueringsutvalget etter hendelsen var
-at deler av PSTs kontraterroravdeling utviste
-skepsis til informasjonen som ble delt av E-tjenesten. I følge utvalget kunne skepsisen knyttes
-til «et mer generelt ønske i kontraterroravdelingen om å være best i sitt fag og gjøre de beste
-vurderingene».12 Utvalget pekte også på at noe av
-forklaringen på skepsisen i kontraterroravdelingen i PST mot å overreagere på det som ble
-oppfattet som usikker og uspesifikk etterretning,
-kunne ha noe å gjøre med både generell arbeidsbelastning i PST og de juridiske rammevilkårene
-PST må forholde seg til. Det ble også pekt på at Etjenesten ikke opplyste at det var tjenesten selv
-som hadde innhentet informasjonen, og at dette
-kunne gjort at PST vurderte opplysningene annerledes. Dersom PST hadde fulgt opp informasjonen fra E-tjenesten, mener utvalget at det er mulig
-at angrepet kunne vært avverget.
-Utvalget anbefalte at «PSTs kontraterroravdeling bør videreutvikle sitt samarbeid med E-tjenesten gjennom tiltak som kan skape mer tillit til
-hverandres vurderinger. I tillegg bør PST avklare
-forventninger til hva som kan og bør deles av
-detaljer knyttet til egeninnhentet informasjon fra
-både PST og E-tjenesten.»13
-11
-
-Instruks om samarbeidet mellom Etterretningstjenesten
-og Politiets sikkerhetstjeneste 2006
-12 25. juni-utvalget 2023, s. 64
-13 25. juni-utvalget 2023, s. 25
-
-[Side 266]
-
-264
-
-Kapittel 34
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 34
-
-Taushetsplikt og informasjonsdeling
-Mange aktører er involvert i det forebyggende
-arbeidet mot radikalisering og ekstremisme i
-Norge. For at disse tjenestene skal kunne samarbeide om enkeltsaker, er det en forutsetning at de
-kan dele informasjon seg imellom. Ofte vil det
-være spørsmål om å dele personopplysninger som
-er underlagt taushetsplikt.
-I dette kapittelet drøftes hensynene bak regelverket om taushetsplikt og informasjonsdeling,
-hvilke regler som gjelder for de ulike aktørene, og
-hvordan regelverket påvirker forebygging av voldelig ekstremisme. Fremstillingen er ikke uttømmende. Kapittelet handler om indikativ, personrettet forebygging av voldelig ekstremisme.
-Som en del av kommisjonens utredning ble det
-innhentet en rapport fra professor Morten Holmboe ved Politihøgskolen om taushetsplikt og informasjonsdeling i det forebyggende arbeidet mot voldelig ekstremisme og radikalisering. Holmboe har
-også gitt verdifulle bidrag til teksten i dette kapittelet og tilgrensende områder i kommisjonens rapport. Holmboes rapport følger i vedlegg 4.
-Kommisjonen har i denne fremstillingen blant
-annet sett hen til Partnerdrapsutvalgets grundige
-gjennomgang av tilsvarende spørsmål.1
-
-34.1 Informasjonsdeling mellom
-aktører med ulike
-samfunnsoppdrag
-Aktørene som arbeider med forebygging av voldelig ekstremisme, er underlagt taushetsplikt enten
-de arbeider i politiet, kommunen, helsevesenet,
-barnevernet eller andre deler av tjenesteapparatet.2 Taushetsplikten for de nevnte aktørene er
-regulert i ulike lover. Plikten er til dels ulikt formulert, og det er ulike regler for plikt og rett til å
-dele informasjon.
-
-Reglene om taushetsplikt skal sikre tillit til at
-opplysninger om personen det gjelder, forvaltes
-forsvarlig og ikke spres unødvendig.3 Denne tilliten kan være avgjørende for at tjenesteapparatet
-mottar opplysninger som i neste omgang er nødvendig for å iverksette forebyggende tiltak mot
-voldelig ekstremisme. På den andre siden kan
-informasjonsdeling på tvers av etater være avgjørende for å forhindre alvorlige voldshendelser.4
-Man kan si at taushetsplikten befinner seg i et verdimessig spenningsfelt.5
-Denne spenningen ble blant annet fremhevet i
-evalueringen av politiet og PSTs innsats under terrorhendelsen i Bærum 10. august 2019, der evalueringsutvalget pekte på at myndighetene i sitt
-arbeid med å forebygge radikalisering og voldelig
-ekstremisme må gjøre en vanskelig avveining
-mellom personvern og sikkerhet. Evalueringsutvalget anbefalte tettere samarbeid og «behov for
-en lavere terskel for å utveksle taushetsbelagt
-informasjon innenfor dette området, samtidig som
-det i så fall må suppleres med gode og sterke kontrollmekanismer for å forhindre misbruk».6 Utvalget pekte også på at det er et betydelig antall personer i Norge som er involvert i voldelig ekstremisme og har utfordringer i forbindelse med oppvekst, skolegang og mental helse, noe som understreket behovet for en helhetlig tilnærming fra
-tjenesteapparatet.
-Balansen mellom informasjonsdeling og taushetsplikt i forebyggende arbeid er et spørsmål
-som gjør seg gjeldende på en rekke endre områder ut over forebygging av ekstremisme. Problematikken er blant annet tatt opp av Partnerdrapsutvalget,7 Barnevoldsutvalget8 og andre. I desember 2023 behandlet Stortinget flere saker knyttet
-3
-4
-5
-6
-
-1
-2
-
-NOU 2020: 17
-Se kapittel 25–32 for en oversikt over aktørenes ansvar og
-roller
-
-7
-8
-
-Justis- og beredskapsdepartementet 2023c
-Se NOU 2020: 17
-Rasmussen 1997
-Dalgaard-Nielsen, Eriksen, Hansen, Ilum, Ishaq, Ravndal
-og Renå 2020, s. 16
-NOU 2020: 17
-NOU 2017: 12
-
-[Side 267]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-til organisert kriminalitet og ungdomskriminalitet, og det ble i den forbindelse fattet vedtak om at
-regjeringen skal gjennomføre «en juridisk gjennomgang av relevant lovverk knyttet til taushetsplikt og informasjonsplikt for alle relevante instanser som jobber med barn og unge som har høy
-risiko for å begå alvorlige lovbrudd, med spesielt
-henblikk på mulighetsrommet for informasjonsflyt».9
-Selv om det er gode grunner til å ønske mer
-informasjonsdeling og samarbeid mellom tjenestene, både for å forebygge ekstremisme og andre
-samfunnsutfordringer, må det samtidig tas i
-betraktning at ulike aktører har ulike mandater og
-samfunnsoppdrag og derfor ulike institusjonelle
-logikker10 eller verdifokus.11 Ytterpunktene i en
-slik forståelse kan være politiets ansvar for samfunnssikkerhet på den ene siden og helse- og
-sosialtjenestenes mandat til å yte sosial omsorg og
-skape tillitsfulle relasjoner til enkeltindivider på den
-andre. De ulike aktørenes plassering i dette verdimessige spenningsfeltet kan forklare logikken bak
-regelverket og kan prege hvilken holdning personell innenfor disse sektorene har til utveksling av
-informasjon.12 Mens politiet har en vid adgang til å
-dele informasjon for å avverge eller forebygge lovbrudd, har helsepersonell en svært streng taushetsplikt. Olsen-utvalget, som undersøkte drap
-begått av personer med kjent psykisk lidelse i perioden 2004–2009, pekte på viktigheten av forståelse
-for dette i forholdet mellom aktørene:
-Det er også viktig at de som skal samarbeide
-eller utveksle informasjon, er klar over hva
-som er de sentrale verdier for de andre etatene,
-og hvordan dette har preget regelverk og holdninger. Ordene «samarbeid» og «informasjonsutveksling» skaper lett en tro på at det er en
-likevekt i systemet som innebærer at den
-enkelte etat kan forvente å få tilbake «like mye»
-informasjon som den har formidlet. Det følger
-av det ovenstående at det verken er eller bør
-være slik. (NOU 2010: 3, s. 115)
-
-Når man tar de ulike aktørenes mandat og samfunnsoppdrag i betraktning, er det altså gode grunner til at de skal ha ulike regler for taushetsplikt og
-deling. Selv om reglene er velbegrunnet, er det
-9
-
-Dokument 8:13 S (2023–2024), Innst. 86 L (2023–2024),
-Lovvedtak 23 (2023–2024)
-10 Christensen, Lindekilde, Sivenbring, Bjørgo, Magnæs
-Gjelsvik, Solhjell, Haugstvedt, Malmros, Kangasniem og
-Kallio 2023
-11 NOU 2010: 3
-12 NOU 2010: 3
-
-265
-
-Kapittel 34
-
-ikke gitt at dagens taushetspliktregler er hensiktsmessig utformet for samfunnets og enkeltmenneskenes behov.13 Forholdet mellom konfidensialitet
-og informasjonsdeling er heller ikke statisk, og det
-har skjedd en rekke endringer i regelverket i årenes løp.14 Hvordan ulike, legitime hensyn skal
-veies mot hverandre, er noe som samfunnet og
-beslutningstakere hele tiden må ta stilling til.
-Når regelverk skal utvikles, er det grunn til å
-være årvåken og på vakt mot stadig mer «sikkerhetisering» av samfunnet, der hensynet til samfunnssikkerhet stadig oftere veier tyngre enn andre hensyn. Forskning fra de nordiske landene viser at en
-sikkerhetslogikk som tidligere var forbeholdt politi
-og sikkerhetstjenester, også stadig oftere gjør seg
-gjeldende i andre deler av tjenesteapparatet.15 Den
-samme forskningen viser imidlertid at «omsorgslogikken» også er mer til stede i politiets arbeid.
-Flere aktører har spilt inn til kommisjonen at å
-senke terskelen for å dele taushetsbelagt informasjon kan skade tilliten mellom tjenesteapparatet
-og borgerne. Det er pekt på at de som står i fare
-for å radikaliseres kan være sosialt marginalisert,
-og allerede ha lav tillit til myndighetene. Deling av
-personsensitiv informasjon kan oppleves som et
-ytterligere tillitsbrudd som forsterker en negativ
-utvikling. I forskningen er det imidlertid ikke
-avklart om en vid adgang til å dele taushetsbelagt
-informasjon vil føre til at folk blir mer forsiktige
-med å betro seg til hjelpeapparatet om vanskelige
-situasjoner i livet. For avvergingsplikt (mandatory
-reporting) fant en norsk studie av internasjonal litteratur at «[e]mpirical research appears to be
-scarce, with moderate to high degree of bias and
-with only limited recent development».16
-I spørsmål om taushetsplikt og informasjonsdeling i saker der det foreligger en radikaliseringsbekymring, er det viktig å ha høy bevissthet om hva
-som menes med en slik bekymring. Det kan for
-eksempel være utfordrende å skille svært ubehagelige ytringer og holdninger fra ytringer som tilsier
-at en person er i ferd med å bli radikalisert i retning
-voldelig ekstremisme. Begge typene ytring kan
-være innenfor ytringsfrihetens grenser. Å fornekte
-holocaust er for eksempel ikke ulovlig i Norge.17
-God fenomenforståelse vil være viktig for å
-kunne plukke opp mer eller mindre subtile tegn
-13
-
-Se Holmboe 2023b i vedlegg 4
-NOU 2010: 3
-15 Christensen, Lindekilde, Sivenbring, Bjørgo, Magnæs
-Gjelsvik, Solhjell, Haugstvedt, Malmros, Kangasniem og
-Kallio 2023
-16 Vatnar 2019
-17 Nuotio 2023
-14
-
-[Side 268]
-
-266
-
-Kapittel 34
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-på at en person er i en radikaliseringsprosess.18
-Det er imidlertid ikke realistisk at enhver person
-som arbeider i tjenesteapparatet, har tilstrekkelig
-forståelse til å slå fast hvor bekymret det er grunn
-til å være. I noen tilfeller vil ulike deler av tjenesteapparatet også sitte på ulike biter med informasjon. Hadde puslespillbitene blitt satt sammen,
-ville man kunne se at saken er alvorlig, men hver
-for seg vet man ikke nødvendigvis nok. Evalueringsutvalget etter terroren i Bærum i 2019
-uttrykte det slik:
-Utvalgets intervjuer med ulike aktører indikerer at i mange tilfeller vil ikke taushetsplikten
-kunne omgås fordi det ofte mangler vesentlig
-informasjon i denne typen saker. At mangel på
-informasjon forhindrer deling av informasjon
-er én utfordring innen dette feltet. (DalgaardNielsen, Eriksen, Hansen, Ilum, Ishaq, Ravndal
-og Renå 2020, s. 15)
-
-Forskning på det forebyggende arbeidet i de nordiske landene peker på at Norge har betydelig
-flere gråsoner i regelverket enn de andre landene.19 Når regelverket er uklart, kan det påvirke
-tilliten mellom aktørene som skal samarbeide på
-forebyggingsfeltet.20 Samtidig kan det fremstå
-som at eventuelle problemer som oppstår som
-følge av uklarheter i regelverket, er lettere å håndtere når det foreligger etablerte og tillitsfulle relasjoner mellom aktørene:
-The interviewed practitioners across the four
-countries repeatedly mentioned trustful relations
-and a belief in people’s professional and ethical
-conduct as facilitating information sharing. For
-some practitioners, trust and relations trump
-secrecy regulations, and colleagues who are
-known to be trustworthy can be given information in «gray situations». (Christensen, Lindekilde, Sivenbring, Bjørgo, Magnæs Gjelsvik,
-Solhjell, Haugstvedt, Malmros, Kangasniem og
-Kallio, 2023)
-
-Tilsvarende har kommisjonen fått informasjon om
-at regelverket er en mindre hindring der det foreligger etablerte og langvarige samarbeidsrelasjoner hvor man har tillit til hverandre.
-18
-
-Det vises til kapittel 18 Hvordan skjer radikalisering?
-Christensen, Lindekilde, Sivenbring, Bjørgo, Magnæs
-Gjelsvik, Solhjell, Haugstvedt, Malmros, Kangasniem og
-Kallio 2023
-20 Solhjell, Sivenbring, Kangasniemi, Kallio, Christensen,
-Haugstvedt og Gjelsvik 2022
-19
-
-34.2 En tredeling: Taushetsplikt,
-opplysningsplikt og
-opplysningsrett
-Det er hensiktsmessig å dele reglene om taushetsplikt og informasjonsdeling i tre:21
-• Så langt taushetsplikten rekker, kan ikke opplysningene deles.
-• I en mellomsone står opplysninger som tjenesteutøveren kan dele, uten å være forpliktet
-til det.22
-• I en del tilfeller har man plikt til å dele opplysningene selv om de ellers er underlagt taushetsplikt.23
-Når opplysningene er underlagt taushetsplikt, har
-man ofte taushetsplikt overfor allmennheten, men
-ikke overfor bestemte mottakere. Om et forvaltningsorgan har rett til å dele informasjon med et
-annet forvaltningsorgan, eller om man har plikt til å
-dele opplysningene med politiet for å avverge et
-alvorlig lovbrudd, bortfaller ikke taushetsplikten
-overfor allmennheten. Taushetsplikten viker altså så
-langt det er nødvendig for å dele informasjon i henhold til den aktuelle lovhjemmelen, men ikke lenger.
-Brudd på opplysnings- eller handleplikt (avvergeplikt) kan være straffbart, se for eksempel nærmere om straffeloven § 196 nedenfor. Brudd på
-taushetsplikten kan også straffes etter straffeloven
-§§ 209 og 210 og det finnes noen straffebestemmelser i særlovgivningen, for eksempel helsepersonelloven § 67. Det er bare forsettlige eller grovt
-uaktsomme brudd på taushetsplikten som kan
-straffes. Uaktsomheten er grov bare dersom handlingen er «svært klanderverdig og det er grunnlag
-for sterk bebreidelse» i følge straffeloven § 23
-andre ledd. Det skal dermed en del til for å bli straffet for brudd på taushetsplikten, og det er vanskelig
-å se for seg straff for brudd på taushetsplikten dersom det er gjort en samvittighetsfull, faglig vurdering av relevante hjemler for opplysningsrett eller
--plikt. Frykt for tjenestemessige reaksjoner eller
-uformelle sanksjoner fra fagfellesskapet kan imidlertid også gjøre at man blir tilbakeholden med å
-dele opplysninger.
-Forholdet mellom taushetsplikt, opplysningsrett og opplysningsplikt kan illustreres slik:
-
-21
-
-Se for eksempel Justis- og beredskapsdepartementet 2023c
-og NOU 2020: 17
-22 For eksempel etter reglene i forvaltningsloven § 13 b
-23 For eksempel for å avverge alvorlige lovbrudd, jf. straffeloven § 196
-
-[Side 269]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Taushetsplikt
-
-Opplysningsrett
-
-Opplysningsplikt
-
-Figur 34.1 Taushetsplikt, opplysningsrett og
-opplysningsplikt
-
-geplikten kan ses på som et ledd i statens plikt til å
-sikre borgernes menneskerettigheter, særlig retten til liv, som omtalt i kapittel 3.2.26
-For at avvergeplikten skal gjelde, må det altså
-være sikkert eller mest sannsynlig at det aktuelle
-lovbruddet vil skje eller følgene av lovbruddet inntreffe, jf. straffeloven § 196 første ledd. Det er ikke
-noe selvstendig vilkår at risikoen for handlingen
-er akutt. Avvergeplikt kan oppstå selv om det er
-lenge til handlingen ventes å bli begått.27
-Avvergeplikten er personlig, og den enkelte
-må bruke sitt faglige skjønn for å vurdere om en
-slik utvikling er «mest sannsynlig». Som ved
-andre straffebestemmelser må det tas utgangspunkt i hvordan den enkelte opplever situasjonen,
-jf. straffeloven § 25.28
-Det er verdt å merke seg at den som har opplysninger som kan utløse en avvergeplikt, ikke alltid har en enkel oppgave. Brudd på avvergeplikten kan straffes, men det er et spillerom for feilvurderinger. I forarbeidene til revisjonen av
-bestemmelsen i 2020 er dette omtalt:
-Flere av straffebudene som inntas i oppregningen er straffebud med sterkt vurderingspregete
-vilkår. Det kan være vanskelig å avgjøre om gjerningsbeskrivelsen i det aktuelle straffebudet er
-oppfylt. En praktisk situasjon er at personer som
-får kunnskap som kan medføre en avvergingsplikt, også har straffesanksjonert taushetsplikt. I
-slike tilfeller må terskelen for å godta rettsuvitenhet som unnskyldningsgrunn ikke være høy.
-Avvergingsplikten legger etter omstendighetene en nokså inngripende handleplikt på
-enkeltindividet. Det må være tilstrekkelig å
-foreta en forstandig vurdering av om vilkårene
-er oppfylt. Sentralt i vurderingen bør være om
-situasjonen var slik at det for en alminnelig borger, ut fra en etisk vurdering, ville være naturlig å forsøke å avverge den. (Prop. 66 L (2019–
-2020), s. 157–158)
-
-Kilde: Justis- og beredskapsdepartementet 2023c punkt 1.3.2
-
-34.3 Opplysningsplikt
-Det finnes situasjoner der lovverket pålegger en
-plikt til å opplyse, varsle eller handle uavhengig av
-taushetsplikt. Formålet er at taushetsplikten ikke
-skal hindre at riktige instanser involveres for å
-løse løse alvorlige eller akutte situasjoner der det
-er fare for liv og helse.24
-Avvergeplikten i straffeloven § 196
-Avvergeplikten følger av straffeloven § 196:
-Med bot eller fengsel inntil 1 år straffes den
-som unnlater gjennom anmeldelse eller på
-annen måte å søke å avverge en straffbar handling eller følgene av den, på et tidspunkt da
-dette fortsatt er mulig og det fremstår som sikkert eller mest sannsynlig at handlingen er
-eller vil bli begått (…)
-
-Bestemmelsen innebærer at alle, uavhengig av
-taushetsplikt, har plikt til å søke å avverge visse
-straffbare handlinger, blant annet terror, drap og
-grov vold.25 Straffebudene som er omfattet av
-avvergeplikten, fremgår av bestemmelsen. Avver24
-
-NOU 2020:17 og Stang 2013
-
-267
-
-Kapittel 34
-
-Det er ikke varsleren som har ansvar å bevise at
-mistanken som gjorde at informasjon ble delt etter
-avvergeplikten var riktig.29 Dette ansvaret påligger instansen som skal undersøke saken videre,
-som i de fleste tilfeller vil være politiet.30 Den som
-25
-
-Se mer presist de straffebudene som er listet opp i straffeloven § 196
-26 Holmboe 2022
-27 Ørum, Holmboe og Vatnar 2022
-28 NOU 2020: 17
-29 NOU 2020: 17
-30 Holmboe, Leer-Salvesen og Vatnar 2019
-
-[Side 270]
-
-268
-
-Kapittel 34
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-er pålagt avvergeplikt, kan ikke røpe mer taushetsbelagt informasjon enn det som er nødvendig
-for å avverge det aktuelle lovbruddet.31
-Det er verdt å merke seg at det for en del
-alvorlige straffbare handlinger er fastsatt regler
-som rammer også det som vanligvis ville vært
-«straffri forberedelse».32 For eksempel rammes
-forsøk på en terrorhandling allerede den som
-«foretar handlinger som legger til rette for og
-peker mot gjennomføringen», jf. straffeloven § 131
-tredje ledd. Det er altså tilstrekkelig for å etablere
-avvergeplikt at avvergeren mener det er sikkert
-eller mest sannsynlig at gjerningspersonen vil
-overtre denne utvidede forsøksgrensen.
-Avvergeplikten i straffeloven § 196 gjelder
-også for en del typer forbund om å begå nærmere
-definerte straffbare handlinger.33 Avvergeplikten
-vil også gjelde når det er sikkert eller mest sannsynlig at noen vil forsøke å inngå slike forbund.34
-Det kreves ikke at man mener at det er mest sannsynlig at gjerningspersonen vil lykkes, så lenge
-man mener at det er sikkert eller mest sannsynlig
-at personen vil overtre forsøksgrensen.35
-I en sak som gjelder radikalisering til voldelig
-ekstremisme, må et konkret ønske eller konkrete
-planer om å begå ekstremistisk vold være kjent
-for at avvergeplikten skal tre i kraft. Det vil ikke
-være nok i seg selv at en person for eksempel støtter en voldelig ideologi eller på annen måte gir
-uttrykk for å akseptere vold for å oppnå et politisk
-eller religiøst formål.
-
-arbeid for et forvaltningsorgan, varsle barnevernet blant annet dersom det er grunn til å tro at et
-barn blir utsatt for alvorlig omsorgssvikt, eller
-hvis barnet viser alvorlige atferdsvansker blant
-annet ved å begå alvorlige eller gjentatte lovbrudd, jf. barnevernsloven § 13-2.37 Varslingsplikten gjelder også yrkesutøvere som opptrer i medhold av helsepersonelloven, psykisk helsevernloven, helse- og omsorgstjenesteloven, familievernkontorloven og privatskoleloven.38 Formålet med
-tiltaket er imidlertid å beskytte barnet selv, ikke å
-ivareta samfunnsvernet.39
-Etter helsepersonelloven § 31 har helsepersonell plikt til å «varsle politi og brannvesen dersom
-dette er nødvendig for å avverge alvorlig skade på
-person eller eiendom.» Denne plikten går noe
-lenger enn avvergeplikten etter straffeloven § 196,
-fordi helsepersonelloven favner flere lovbrudd enn
-de som er listet opp i straffeloven § 196, som utløser avvergeplikt.40 Det er likevel antatt at det er en
-«høy terskel» for at varslingsplikt skal inntre.41
-Samtlige av disse opplysningspliktene kan
-komme til anvendelse i saker som gjelder radikalisering til voldelig ekstremisme for barn og
-voksne.
-
-34.4 Taushetsplikt: hovedregel og
-unntak
-
-Etter straffeloven § 287 har alle en hjelpeplikt som
-innebærer å «etter evne å hjelpe en person som er
-i åpenbar fare for å miste livet eller bli påført betydelig skade på kropp eller helse, eller […] ved
-anmeldelse eller på annen måte etter evne å
-avverge brann, oversvømmelse, sprengning eller
-lignende ulykke som medfører fare for menneskeliv eller betydelig skade på kropp og helse».
-Denne plikten går foran taushetsplikten.36
-I tillegg til opplysningspliktene som følger av
-straffeloven, skal enhver som utfører tjeneste eller
-
-Taushetsplikt skal hindre at bestemte opplysninger, ofte formulert som «personlige forhold », blir
-kjent for andre enn dem som skal ha opplysningene. Regelverket innebærer både en plikt til å
-hindre at opplysninger gjøres kjent for uvedkommende og et forbud mot å videreformidle opplysninger.42
-I norsk rett deles ofte taushetsplikten opp i forvaltningsmessig taushetsplikt og yrkesmessig
-taushetsplikt. Den forvaltningsmessige taushetsplikten gjelder for de som har en tilknytning til
-forvaltningsorganer. Den yrkesmessige taushetsplikten gjelder for visse yrkesutøvere, for eksempel helsepersonell.43 Ansatte i tjenesteapparatet er
-ofte underlagt både yrkesmessig og forvaltnings-
-
-31
-
-37
-
-Andre opplysningsplikter
-
-NOU 2020: 17
-Holmboe 2017
-33 § 133 (terrorforbund), § 193 (forbund om anslag mot infrastrukturen), § 256 (forbund om grov frihetsberøvelse),
-§ 279 (forbund om drap eller å volde betydelig skade på
-kropp og helse), § 329 (forbund om ran) og § 357 (forbund
-om fremkalling av fare for allmennheten.
-34 Holmboe 2017
-35 Kjerschow 1930
-36
-NOU 2015: 3
-32
-
-Stang 2023
-Se blant annet helsepersonelloven § 33 og sosialtjenesteloven § 45
-39 Lassen 2023
-40 NOU 2020:17
-41 Hauglid 2022
-42 Justis- og beredskapsdepartementet 2023c og NOU 2020:
-17
-43 Justis- og beredskapsdepartementet 2023c og NOU 2020:
-17
-38
-
-[Side 271]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-messig taushetsplikt. Som hovedregel er den
-yrkesmessige taushetsplikten strengere enn den
-forvaltningsmessige, både for hvilke opplysninger
-som er taushetsbelagt, og adgangen til å dele.
-Taushetsplikten gir den som opplysningene
-gjelder, trygghet om at opplysningene ikke bringes videre til uvedkommende. Den som er vernet,
-skal sikres kunnskap og forutberegnelighet om
-når opplysningene kan videreformidles.44 Selv om
-det i dag ikke finnes noen særskilte unntakshjemler fra taushetsplikt knyttet til ekstremisme og
-radikalisering i taushetspliktregelverket, finnes
-det en rekke begrensninger/unntak der andre
-hensyn er vurdert til å veie tyngre enn hensynene
-bak taushetsplikten. Hensynet til samfunnets
-behov for sikkerhet kan være et slikt hensyn.
-Ulike unntakshjemler presenteres i det videre.
-Dersom den som opplysningene gjelder, samtykker til at opplysningene kan gis videre, gjelder
-ikke taushetsplikten.45 Det samme gjelder dersom opplysningene anonymiseres. Samtykke kan
-være en løsning der personen er åpen for hjelp fra
-tjenesteapparatet. I Bergens tverretatlige operative team, der deltakere fra kommunen, Vest politidistrikt og RVTS Vest samarbeider om å forebygge ekstremisme, har de for eksempel hatt god
-erfaring med å innhente samtykke fra personer
-som teamet har jobbet med.46 Men alle saker er
-ulike. Det kan være saker der personen ikke vil gi
-samtykke, eller der det kan vanskeliggjøre arbeidet at personen er klar over at informasjon deles.
-Samtykke kan også være mer aktuelt i et forebyggende arbeid som handler om å yte tjenester til
-personen, som for eksempel arbeidstiltak, bolig
-eller fritidsaktiviteter, og mindre aktuelt der formålet er å hindre eller avverge en straffbar handling.
-Aktørenes ulike samfunnsoppdrag kan også
-gjøre samtykke mindre aktuelt. Dette gjelder særlig deling av informasjon til og fra PST, der tjenestens forebyggende arbeid kan være ukjent for personen det gjelder. I andre tilfeller kan det imidlertid være aktuelt også for PST å innhente samtykke. 25. juni-utvalget anbefalte i sin rapport at
-politiet og PST i større grad søker å skaffe seg
-samtykke fra den det gjelder, slik at helseopplysninger kan deles.47 Samtykke kan imidlertid ikke
-44
-
-NOU 2010: 3
-Et samtykke fra den berettigede til å dele taushetsbelagte
-personopplysninger, må også oppfylle kravene til samtykke
-i personvernforordningen (GDPR). Justis- og beredskapsdepartementet 2023c, s. 29
-46 Presentasjon av tverretatlig operativt team på kommisjonsmøte 15. februar 2023
-47 25. juni-utvalget 2023
-45
-
-269
-
-Kapittel 34
-
-brukes som behandlingsgrunnlag for offentlige
-myndigheter etter personvernforordningen.
-Det vil ikke være brudd på taushetsplikten å
-dele informasjon anonymt. Anonymisering kan
-fungere godt når man vil drøfte en sak med relevante aktører som man ellers ikke kan dele informasjon med. På mindre steder kan det imidlertid
-være lett å identifisere en person ut fra relativt få
-opplysninger. Anonyme drøftelser er derfor mest
-aktuelt på større steder, men også der kan det
-være vanskelig å vite hvilke opplysninger som kan
-deles før en aktør har tilstrekkelig informasjon til
-å identifisere en person.
-
-34.5 Politiet
-Politiet har en relativt vid adgang til å dele informasjon med andre aktører, også i saker som gjelder radikalisering og voldelig ekstremisme. Etter
-politiloven § 24 er politiets behandling av opplysninger til politimessige formål regulert i politiregisterloven,48 mens forvaltningsloven §§ 13 til 13 f
-gjelder for politiets øvrige virksomhet med noen
-tillegg og begrensninger.49
-Hovedregelen om politiets yrkesmessige taushetsplikt følger av politiregisterloven § 23, og
-denne omfatter, som etter forvaltningsloven, personlige forhold. Etter andre ledd gjelder taushetsplikten «også for opplysninger som det ut fra hensynet til etterforskingen i den enkelte sak, hensynet til spanings- og etterretningsvirksomheten
-eller hensynet til politiets operative virksomhet og
-organiseringen av denne er nødvendig å holde
-hemmelig».
-Politiet kan etter politiregisterloven § 27 dele
-taushetsbelagt informasjon med andre instanser
-både for å forebygge og avverge lovbrudd. Politiet
-kan også utlevere opplysninger som en del av
-samarbeidet med andre instanser som «inngår i et
-kriminalitetsforebyggende samarbeid når det er
-nødvendig for å forebygge kriminalitet», inkludert
-voldelig ekstremisme, jf. fjerde ledd.
-Etter politiregisterloven § 30 første ledd kan
-politiet utlevere ellers taushetsbelagte opplysninger dersom det er nødvendig for å fremme andre
-organers lovpålagte oppgaver, eller for å hindre at
-48
-
-Politiregisterloven implementerer Direktiv (EU) 2016/680
-om beskyttelse av fysiske personer ved behandling av personopplysninger for å forebygge, etterforske, avdekke eller
-straffeforfølge lovbrudd mv
-49
-Justis- og beredskapsdepartementet 2023c. Se nærmere
-om regelverket i Myhrer 2022; Fredriksen 2021; Holmboe,
-Lenth og Sæther 2022/2023; Keiserud, Sæther, Holmboe,
-Jahre, Matningsdal og Smørdal 2023
-
-[Side 272]
-
-270
-
-Kapittel 34
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-andre offentlige organers virksomhet blir utøvet på
-en uforsvarlig måte. Politiet kan derfor for eksempel dele informasjon med helsepersonell når det
-skal gjøres en voldsrisikovurdering av en psykiatrisk pasient som har gitt uttrykk for at hen ønsker
-å begå ekstremistisk vold.50 Det kan imidlertid
-være vanskelig for helsepersonell å be om denne
-informasjonen uten å bryte egen taushetsplikt.
-Politiet kan bare dele opplysninger i den utstrekning det er forholdsmessig i den konkrete situasjonen. Politiet kan ellers dele taushetsbelagte opplysninger med andre når den som har krav på taushet,
-samtykker til det, jf. politiregisterloven § 24 nr. 1.
-Unntakene fra taushetspliktreglene er snevrere
-for opplysninger som er innhentet ved bruk av kommunikasjonskontroll (for eksempel avlytting), jf.
-straffeprosessloven § 216 i. Unntakene fra taushetsplikt som gjelder etter forvaltningsloven, politiloven
-og politiregisterloven, gjelder ikke for opplysninger
-innhentet ved kommunikasjonskontroll.51
-Gjennom innspill til kommisjonen har det
-kommet frem at politiet ønsker at andre tjenester
-skal dele mer informasjon med dem. Kommisjonen er imidlertid ikke kjent med informasjon som
-tilsier at regelverket står i veien for politiets anledning til å dele informasjon. Det er likevel verdt å
-påpeke at regelverket ikke er lett tilgjengelig. Politiets taushetsplikt er regulert i fem ulike lover:
-politiregisterloven, forvaltningsloven, domstolloven, straffeprosessloven og politiloven.52
-
-34.6 PST
-PST har i utgangspunktet den samme vide adgangen til å dele informasjon som politiet har, og
-reglene beskrevet ovenfor gjelder også for PST.
-Informasjon som PST selv har innhentet, og analyser de selv har produsert, er underlagt de samme
-reglene som politiet etter politiregisterloven. Av
-politiregisterforskriften § 21-7 følger det at politiregisterlovens regler om taushetsplikt gjelder for
-PST med mindre noe annet følger av sikkerhetsloven med forskrift. Dette innebærer at PST kan
-utlevere nedgraderte opplysninger dersom det er
-adgang til dette etter reglene om taushetsplikt i
-politiregisterloven kapittel 6, jf. politiregisterloven § 19.53 Bruk av informasjon innhentet ved
-bruk av forebyggende tvangsmidler jf. politiloven
-50
-
-Se mer om voldsrisikovurderinger i kapittel 28.3
-Justis- og beredskapsdepartementet 2023c
-52 Myhrer 2022
-53
-25. juni-utvalget 2023
-
-§ 17 d er også snevrere enn politiets generelle
-taushetsplikt jf. § 17 f.
-Evalueringsutvalget etter 25. juni 2022 fant at
-informasjonsdelingen mellom politiet og PST
-utspilte seg som en «enveisflyt av informasjon fra
-politiet til PST, mens informasjonsdeling fra PST
-til politiet langt på vei har uteblitt.».54 Utvalget
-mente at PST hadde relevant informasjon, men
-ikke delte den. Ifølge utvalget hadde dette flere
-årsaker, blant annet usikkerhet i PST om hva som
-kan deles med politiet. Det er også en utfordring
-at politiet ikke kan lagre gradert informasjon
-skriftlig i sine systemer. Utvalget anbefalte derfor
-at PST i større grad nedgraderer og deler relevant
-informasjon med politiet. Aktører i politiet har
-også gitt innspill til kommisjonen om at mangel på
-deling av informasjon fra PSTs side er en utfordring for samarbeidet. I evalueringen av politiets
-radikaliseringskontaktordning kom det frem at
-flere politiinformanter mener dette har bedret seg
-de siste årene.55 Evalueringen fant likevel at det
-var stor variasjon i om informasjon ble tilstrekkelig utvekslet i samarbeidet mellom politiet og PST,
-og at dette delvis skyldes en «hemmelighetskultur» i PST. Det ble blant annet pekt på at PST ikke
-deler informasjon som gir politiet forståelse av
-vurderinger som er gjort, slik at politiet i noen
-saker får ansvaret for en farlig person uten å forstå
-hvorfor. I samtaler med kommisjonen har aktører
-også fortalt at det kan oppstå vanskelige situasjoner når PST kontakter politi eller kommunale
-aktører for å be om informasjon eller informasjonsinnhenting uten å dele informasjon om hva
-bekymringen knytter seg til.
-I EOS-utvalgets årsmelding for 2022 får PST
-kritikk for å søke å få en kilde til å dele taushetsbelagt informasjon:
-Utvalget har kritisert PSTs bruk av en kilde i
-en forebyggende sak. PST ba kilden om informasjon uten å ha gjort tilstrekkelige etiske vurderinger av om dette ville bety at kilden måtte
-bryte sin taushetsplikt. Da PST fikk opplysninger som tjenesten måtte forstå kunne være
-taushetsbelagt, ba de ikke kilden om å avslutte
-undersøkelsene. (Dokument 7:1 (2022–2023),
-s. 19–20)
-
-Enkelte aktører har tatt opp lignende situasjoner
-med kommisjonen og beskrevet at de kan føle seg
-
-51
-
-54
-55
-
-25. juni-utvalget 2023, s. 69
-Tandberg og Ravndal 2023
-
-[Side 273]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 34.1 Kort om gradert
-informasjon
-Sikkerhetsloven skal forebygge, avdekke og
-motvirke sikkerhetstruende virksomhet. Etter
-sikkerhetsloven § 5-1 er informasjon skjermingsverdig dersom det kan skade nasjonale
-sikkerhetsinteresser at informasjonen blir
-kjent for uvedkommende. § 5-3 regulerer gradering av slik informasjon. Alle som får tilgang
-til sikkerhetsgradert informasjon som ledd i
-arbeidet eller tjenesten for en virksomhet som
-omfattes av loven, har taushetsplikt om innholdet. Informasjon fra PSTs forebyggende
-arbeid vil typisk være gradert etter sikkerhetsloven og må derfor behandles på et forsvarlig
-sikkerhetsnivå, jf. § 5-2. Informasjon med
-norsk sikkerhetsgradering kan omgraderes av
-virksomheten som har utstedt informasjonen,
-en overordnet virksomhet, det departementet
-som er ansvarlig for det forebyggende sikkerhetsarbeidet innenfor sektoren, og av Nasjonal sikkerhetsmyndighet jf. virksomhetssikkerhetsforskriften.
-presset til å dele informasjon med PST på uklart
-hjemmelsgrunnlag.
-
-34.7 Helsepersonell
-Hovedregel og unntak
-Spørsmålet om informasjonsdeling og samhandling fra helsevesenet til andre aktører, særlig
-politi, har lenge vært en utfordring, særlig innenfor psykisk helsevern.56 For leger er taushetsplikten historisk forankret i den hippokratiske ed57 og
-Genève-erklæringen vedtatt av Verdens legeforening i 1948.58 Hovedregelen om taushetsplikt for
-helsepersonell følger av helsepersonelloven § 21,
-som pålegger taushetsplikt for opplysninger om
-«folks legems- eller sykdomsforhold» og «andre
-personlige forhold». Helsepersonells taushetsplikt
-er ikke til hinder for at opplysninger deles dersom
-den som har krav på taushet, samtykker til det, jf.
-helsepersonelloven § 22. Lovens § 23 inneholder
-flere unntak fra hovedregelen. Særlig relevant i
-saker der en pasient fryktes å være radikalisert til
-voldelig ekstremisme, er § 23 nr. 1 og nr. 4.
-56
-
-Se for eksempel: Undersøkelseskommisjonen 2021
-Holck og Skålevåg 2020
-58 Den norske legeforening 2011
-57
-
-271
-
-Kapittel 34
-
-Av helsepersonelloven § 23 nr. 1 følger det at
-taushetsplikten ikke er til hinder for at opplysningene gis «den som fra før er kjent med opplysningene». Hvis politiet har bidratt med å frakte en
-pasient til en helseinstitusjon, kan det spørres om
-politiet dermed er «kjent med» innleggelsen.
-Kongsberg-utvalget legger til grunn at det er tilfelle.59 Utvalgets redegjørelse bygger på redegjørelsen om drap i Norge mellom 2004 og 200960 og
-er i tråd med Helsedirektoratets retningslinjer:
-«Der politiet for eksempel allerede vet at en person er pasient, typisk fordi politiet bisto ved innleggelsen, kan helsetjenesten kontakte politiet og
-be om informasjon».61 Det kan imidlertid diskuteres om politiets transport av en person til sykehuset gjør at «politiet» er kjent med innleggelsen
-selv om transporten er loggført, ettersom det er
-en relativt liten personkrets som er kjent med
-transporten.62 Mæland-utvalget holder spørsmålet åpent.63 Regelen i helsepersonelloven § 23 nr. 1
-gir etter dette ikke et sikkert grunnlag for å
-spørre politiet om voldshistorikk – heller ikke når
-politiet har brakt pasienten til helsevesenet.64
-Dette er en betydelig utfordring, særlig når det
-skal gjøres voldsrisikovurdering av pasienten.
-Av § 23 nr 4 følger det at helsepersonell kan
-dele ellers taushetsbelagte opplysninger når
-«tungtveiende private eller offentlige interesser
-gjør det rettmessig å gi opplysningene videre».
-Bestemmelsen gir adgang til å dele informasjon i
-nødrettssituasjoner.65 I en dom fra Høyesterett
-som gjelder forståelsen av § 23 nr. 4, uttalte førstvoterende det følgende:
-Tungtveiende hensyn taler for at pasienter fritt
-skal kunne snakke med helsepersonell – især
-med psykiatere og psykologer – om sine tanker
-og følelser, også om de mest belastende, som
-drapstanker. Som det framgår av de spesielle
-merknadene til helsepersonelloven § 21 (…)
-skal pasienten føle seg trygg på at de opplysninger som gis i forbindelse med helsehjelpen
-‘ikke nyttes i andre sammenhenger’. Risiko for
-at deres uttalelser og betroelser skal kunne
-påføre dem straffansvar, vil kunne ødelegge
-det grunnleggende tillitsforholdet mellom pasi-
-
-59
-
-Henriksen, Brenden, Hoel, Kruke og Myhrer 2022
-NOU 2010: 3
-61 Helsedirektoratet 2023a punkt 11.1
-62
-Se Holmboe 2023b i vedlegg 4
-63 Mæland-utvalget 2008
-64 Se Holmboe 2023b i vedlegg 4
-65 Ot.prp. nr. 13 (1998–99)
-60
-
-[Side 274]
-
-272
-
-Kapittel 34
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-ent og behandler, og i sin tur redusere behandlingsmulighetene. (Rt. 2008, s. 1491)
-
-En revidering av et felles rundskriv fra 2015 om
-«Helsetjenesten og politiets ansvar for psykisk
-syke» ble publisert i juli 2023.66 Det reviderte
-rundskrivet handler blant annet om deling av
-informasjon fra helse til PST. I tråd med omtalen
-ovenfor slås det fast at terskelen for å dele informasjon er svært høy.
-Videre bruk av opplysningene
-Når helsepersonell gir ellers taushetsbelagte opplysninger til andre instanser, viker taushetsplikten
-bare så langt det er nødvendig for å forebygge
-eller avverge lovbrudd. I en del tilfeller vil opplysningene gjelde allerede begåtte forhold, for
-eksempel trusler. Dette er behandlet i to dommer
-fra Høyesterett fra 2008.67 Den første avgjørelsen
-dreide seg om tiltaltes samtykke til at behandleren forklarte seg for tingretten, kunne trekkes
-ved ankebehandlingen i lagmannsretten. Det ser
-ut til å være forutsatt at helsepersonellet som rettmessig hadde varslet om trusselen, bare kunne
-forklare seg for retten dersom pasienten, altså den
-tiltalte, samtykket. Den andre avgjørelsen handlet
-om en uttalelse fremsatt overfor helsepersonell
-om å drepe en politimann kunne straffes som trussel etter straffeloven 1902 § 227. I denne saken
-fremgår det av lagmannsrettens dom at den aktuelle psykiateren forklarte seg for lagmannsretten,
-uten at det presiseres i den publiserte avgjørelsen
-hva som var grunnlaget for at forklaringen ble tillatt avgitt uten hinder av taushetsplikt. I denne
-avgjørelsen la Høyesterett til grunn at det kunne
-være nødvendig for å avverge lovbruddet å kunne
-varetektsfengsle og dømme gjerningspersonen.
-Slik kommisjonen forstår reglene, vil en taushetsbelagt opplysning som er gitt for å forebygge
-eller avverge lovbrudd, bare kunne gjentas som
-vitneforklaring i en strafferettslig forfølgning av
-pasienten dersom pasienten har samtykket, eller
-dersom straffeforfølgning er nødvendig for å
-(fortsette å) avverge det mulige lovbruddet. Problemstillingen er imidlertid i liten grad avklart.
-Samme problemstilling kan for øvrig også oppstå
-der helsepersonellet blir kjent med andre lovbrudd, for eksempel der pasienten har forsett om
-å fullbyrde en terrorhandling og foretar
-handlinger som legger til rette for og peker mot
-gjennomføringen (straffeloven § 131 tredje ledd).
-66
-67
-
-Helsedirektoratet 2023a
-Høyesteretts avgjørelser i Rt. 2008 s. 504; Rt. 2008 s. 1491
-
-Det kan også være andre tilfeller der en allerede
-begått straffbar handling gir grunn til å handle for
-å avverge mer alvorlige lovbrudd.
-Erfaringer med regelverket
-Både aktører i politiet og helsesektoren har tatt
-opp utfordringer ved den strenge taushetsplikten
-med kommisjonen. PST har også ved flere anledninger, blant annet i sin temarapport om radikalisering og psykisk sykdom, tatt til orde for at
-adgangen til informasjonsdeling bør utvides.68
-Norsk Institutt for forskning om oppvekst, velferd og aldring (NOVA) publiserte i 2013 en kartlegging av rettsoppfatninger og praktisering av
-bestemmelser om taushetsplikt, opplysningsplikt
-og opplysningsrett.69 Av rapporten følger det
-blant annet:
-Helsepersonell oppfattes som ekstra restriktive
-når det gjelder å dele opplysninger uten samtykke. Dette antas også å gjelde der det finnes
-unntak etter loven, fordi unntakene er lite kjent
-eller fordi helsepersonell vurderer det slik at
-unntakene ikke bør benyttes, ut fra mer etiske
-vurderinger og hensynet til tillitsforholdet mellom hjelper og pasient. (Stang, Aamodt, Sverdrup, Kristoffersen og Winsvold, 2013, s. 78)
-Olsen-utvalget,70 Partnerdrapsutvalget71 og Barnevoldsutvalget72 fant på samme måte at det råder
-stor usikkerhet om hvordan regelverket skal forstås. Evalueringene både etter drapene i Kongsberg i 2021 og etter drapet og moskeangrepet i
-Bærum i 2019 pekte på at de begrensede mulighetene for informasjonsutveksling mellom det psykiske helsevernet og politiet er en stor utfordring.
-Bærum-utvalget uttalte følgende om terskelen
-for en avvergesituasjon før informasjon kan deles:
-[Det er] et misforhold mellom alvorlighetsgraden av denne typen hendelser på den ene siden
-og den såkalte avvergingspliktens krav om at
-det skal fremstå som «sikkert eller mest sannsynlig» at den kriminelle handlingen, i dette tilfellet et terrorangrep, vil bli begått, for at taushetsplikten skal kunne oppheves. En situasjon
-der man med høy grad av sikkerhet kan forvente at en terrorhandling vil bli begått, men
-68
-
-Politiets sikkerhetstjeneste 2022c
-Stang, Aamodt, Sverdrup, Kristoffersen og Winsvold 2013
-70 NOU 2010: 3
-71 NOU 2020: 17
-72
-NOU 2017: 12
-69
+# Sivilsamfunnet
+
+Sivilsamfunnet kan forstås som den delen av samfunnslivet som ikke ligger innenfor offentlig sektor eller næringslivet.[^1487] Sivilsamfunnet utfører flere oppgaver og har ulike roller i samfunnet. Dette kan være både som interessepolitiske organisasjoner og som velferdsaktører, for eksempel gjennom å tilby behandlingstilbud for rusavhengige.[^1488] Tradisjonelt er forholdet mellom sivilsamfunnet og offentlig sektor preget av tillit og samarbeid. Samarbeid mellom lokale myndigheter og sivile aktører som foreninger og frivillige kan bidra til å skape velfungerende og inkluderende lokalsamfunn.
+
+Når du setter folk sammen, skapes arena for fellesskap. (Kommisjonens samtale med Senter for nordlige folk, 17. april 2023)
+
+De siste årene har flere aktører blitt involvert i forebygging av ekstremisme i de nordiske landene i takt med at en større bredde av aktører har fått en rolle, slik som frivillige organisasjoner.[^1489]
+
+Sivilsamfunnet har potensial til å bidra til forebygging i alle av forebyggingstrekantenes nivåer, både hva gjelder voldelig ekstremisme og ekstremisme i bred forstand.
+
+## Sivilsamfunnets rolle i det forebyggende arbeidet
+
+Kommisjonen har i løpet av sitt arbeid sett hvor viktig sivilsamfunnets innsats er. Sivilsamfunnet bidrar i hovedsak med det kommisjonen har omtalt som byggende og universelt forebyggende innsats. Innsatsen går blant annet ut på å ha aktive nærmiljøer som legger til rette for gode liv og like muligheter for deltakelse på ulike arenaer. Mange organisasjoner står for en betydelig del av sosiale aktiviteter og velferdsaktivitet som kan bidra til et meningsfylt liv og til å gi befolkningen større motstandskraft mot ekstremisme.[^1490] Sivilsamfunnet kan tilby fellesskap og tilhørighet, tillitsbygging og bistand ved behov[^1491] samt holdningsskapende arbeid.[^1492] Det kan også bidra med læring og opplæring. Mange organisasjoner er også demokratisk organisert. Dette bidrar til demokratiopplæring.
+
+I tillegg er det noen organisasjoner som arbeider mer spesifikt innenfor forebygging av radikalisering og ekstremisme.[^1493] Eksempler på dette er organisasjoner som arbeider mot gruppefiendtlighet og ekstremt holdningsgods, organisasjoner som fremmer dialog, og organisasjoner som følger opp utsatte eller sårbare grupper. Relevant i denne sammenhengen er også minneorganisasjoner og organisasjoner som følger opp ofre og etterlatte etter terror.[^1494]
+
+Sivilsamfunnet kan også unntaksvis være involvert i intervensjoner overfor enkeltpersoner i risikosonen.[^1495] Dette er forebygging på selektivt nivå.[^1496] De kan også bli kontaktet av kommune eller politi ved konkrete bekymringer.[^1497] Uansett innsats er det viktig for aktørene i sivilsamfunnet at roller, ansvar og forebyggingsnivå er avklart. Som for andre samfunnsaktører er kompetanse og kvalitet også viktig.
+
+I den siste handlingsplanen mot radikalisering og voldelig ekstremisme står det at «forebygging av voldelig ekstremisme krever at kommunale-, fylkeskommunale-, regionale-, statlige og sivilsamfunnsaktører samarbeider».[^1498] Ett tiltak i planen som er rettet mot sivilsamfunnet er et kurstilbud til ledere i trossamfunn, idrettslag eller andre frivillige organisasjoner med vekt på radikalisering og voldelig ekstremisme.[^1499] Målet er å gi lederne kunnskap til å kjenne igjen bekymringstegn og vite hvordan man kan håndtere en eventuell bekymring. Tiltaket er ikke gjennomført enda. Barne- og familiedepartementet har opplyst at tiltaket tas inn i arbeidet med å videreutvikle veiledningen og dialogen mellom myndighetene og tros- og livssynssamfunnene.[^1500]
+
+Sivilsamfunnet er også fremhevet i andre handlingsplaner som er relevante for kommisjonens mandat,[^1501] og av andre:
+
+Vi mener det er viktig å anerkjenne det forebyggende arbeidet som allerede skjer i sivilsamfunnet og sosiale nettverk. Dette betyr sannsynligvis mye mer enn forskjellige offentlige tiltak og tiltaksplaner. (Lid & Heierstad, 2019a, s. 218)
+
+Organisasjoner i sivilsamfunnet får midler gjennom ulike kanaler. Informasjon om ulike tilskuddsordninger er vesentlig for like muligheter. Forutsigbare økonomiske rammer er viktig for å kunne sette sivilsamfunnet i stand til å gjennomføre aktivitet og innsats. Dette kan være en utfordring. En annen utfordring er tilgang på lokaler og møteplasser for å kunne gjennomføre aktiviteter. Sivilsamfunnets rolle i forebyggingen er også i varierende grad anerkjent og kjent, og sivilsamfunnet nyttiggjøres ulikt rundt i Norge etter hva kommisjonen forstår. Det kan også være avhengig av personlige relasjoner og kontakt. Mange kommuner samarbeider imidlertid godt med sivilsamfunnet. Det er funnet at det er viktig å ha en aktiv frivillighetskoordinator i kommunal stilling som har ansvaret for samhandling med sivilsamfunnet.[^1502]
+
+Samarbeid mellom sivilsamfunnet og andre aktører
+
+Et vellykket eksempel på samarbeid og koordinering mellom offentlig og frivillig sektor i arbeidet med personer med rus- og soningsbakgrunn finnes hos Røde Kors-tilbudet «Nettverk etter soning» i Oslo. Her er NAV-ansatte plassert sammen med «Nettverk etter soning» og Voksenopplæringen. Hensikten er å gi helhetlige og sammenhengende tjenester til personer fra den aktuelle målgruppen.<sup>1</sup> Samarbeidet mellom disse aktørene har vist seg å gi bedre individuell oppfølging etter løslatelse og gjennom overgangen fra fengsel til samfunn.
+
+<sup>1</sup> Andvig og Karlsson 2021
+
+\[Boks slutt\]
+
+## Sivilsamfunnsarenaer
+
+### Fritidsaktiviteter
+
+Deltakelse i uorganiserte og organiserte fritidsaktiviteter er viktig for å oppleve fellesskap, utvikle identitet og kjenne på mestring.[^1503] Slike aktiviteter bidrar til at barn, unge og voksne kan få venner og får ha sosial kontakt med andre. Aktiv deltakelse kan blant annet bidra til demokratilæring og motvirke fattigdom, utenforskap og ensomhet.[^1504] Aktiviteter i regi av idretts-, kultur- og fritidsorganisasjoner utgjør den største delen av den organiserte fritiden blant barn og unge.[^1505]
+
+FNs barnekonvensjon artikkel 31 fastslår at alle barn har rett til hvile, fritid og lek og til å delta i kunst- og kulturliv. Representanter for regjeringen har sammen med flere ulike sivile organisasjoner underskrevet en fornyelse av Fritidserklæringen. Den angir at alle barn og unge skal ha mulighet til å delta i fritidsaktiviteter. Videre skal barn og unge involveres og ha innflytelse på egen lek og egne fritidsaktiviteter.[^1506]
+
+Å ha tilstrekkelig med fritid og en balanse mellom familie og skole/arbeid og andre aktiviteter er også viktig. Dette bidrar til høyere livskvalitet.[^1507] Disse kan anses som såkalte beskyttelsesfaktorer mot radikalisering, uavhengig av alder. Flere aktører som kommisjonen har møtt, har pekt på at fritidstilbudenes rolle som fellesarena er viktig i tillegg til den konkrete aktiviteten som tilbys. Tøyen sportsklubb[^1508] og Tøyen orkester[^1509] i Oslo er eksempler på aktører som legger til rette for at alle kan delta uavhengig av økonomi og bakgrunn. I møte med kommisjonen har aktører som jobber med ungdom i levekårsutsatte områder, sagt at de tilbyr et alternativ til mer destruktive retninger barn og unge kan ende opp med å gå i. Dette ble oppsummert på følgende måte i et møte med kommisjonen: «Enten engasjerer du ungdommen, ellers engasjerer de seg selv».[^1510]
+
+Møhlenpris idrettslag
+
+Møhlenpris idrettslag er et idrettslag som ble opprettet som et inkluderingstiltak i bydeler med levekårsutfordringer i Bergen. Minoritetsungdom var de primære målgruppene. Mange av innbyggerne i områdene har ikke-vestlig bakgrunn. Idrettslaget har lavterskelaktiviteter og er opptatt av inkludering, mestring og sosial kompetanse. Laget tilbyr tilknytning til grupper og aktiviteter for dem som ønsker å være under dens fane. Det opererer som en nettverksbyggende arena der idrett er et middel heller enn et mål. Ett av tiltakene er utdanning av «juniormentorer» som rekrutterer ungdom i nærmiljøet. De tilbyr gratis aktiviteter og mulighet til å tilegne seg kunnskap og kompetanse til å delta i fellesskapet. De jobber også med holdningsendringer og å skape positive nettverk.<sup>1</sup>
+
+<sup>1</sup> Kommisjonens møte med Møhlenpris idrettslag, 28. november 2022
+
+\[Boks slutt\]
+
+Kultur kan også brukes til å sette søkelyset på radikalisering og ekstremisme. Et eksempel er forestillingen «Utafor», som i 2018 ble satt opp på Det Norske Teatret i Oslo. Stykket tok for seg historiene til fire unge personer som alle hadde hatt et forhold til det å være utenfor samfunnet. De hadde også opplevd blant annet terror, ekstremisme og fordommer.[^1511] Kulturaktiviteter inngår i folkehelsebegrepet og er viktig for livskvalitet og for å redusere sosiale helseforskjeller.
+
+Festivaler og kulturarrangementer er grenseoverskridende i sin natur og er pauser fra hverdagen. Dette skaper mulighetsrom. (Kommisjonens møte med Riddu Riddu, 17. april 2023)
+
+I 2023 kom regjeringen med en kulturfrivillighetsstrategi.[^1512] Strategien påpeker at mange kulturtilbud mangler arenaer der folk kan møtes. At det er mangel på møtearenaer for ulike aktiviteter, har kommisjonen også fått tilbakemelding om i møter med flere ulike aktører. I mange kommuner finnes det muligheter for å leie og låne lokaler, men tilgangen og kostnaden påvirker om aktiviteten kan tilbys.[^1513] Kommisjonen erfarer at kommunene har ulik praksis for å sette leiepriser og gi tilgang. Leiekostnadene kan også avhenge av aldersgruppen som ønsker å leie.
+
+Dataspill er både underholdning, opplevelser og en kulturform som kan tilby fellesskap og være en arena for sosial interaksjon.[^1514] Flere steder i Norge er det opprettet såkalte spillhus hvor unge får en sosial arena for å trene e-sport, game med venner, spille brettspill og gjøre andre aktiviteter. Dette bidrar til å legitimere gaming som en fritidsaktivitet på lik linje med andre fritidsaktiviteter. I kommisjonens møte med Spillhuset i Bergen, som åpnet i 2022, ble det blant annet nevnt at huset har «fordomsfri anerkjennelse av gaming», og at de jobber aktivt for å inkludere.[^1515] Møteplasser trenger ikke å være fysiske. NOVA er en nasjonal digital møteplass for ungdom på tvers av kommuner og fylker.[^1516]
+
+### Organisasjoner
+
+Med organisasjon menes for eksempel idrettslag, interesseorganisasjoner eller arbeidslivsorganisasjoner.[^1517] Sistnevnte er vesentlige deler av den såkalte norske modellen og fremmer medlemmenes interesser og ivaretar arbeidslivets deltakere.[^1518] Dette skal bidra til høy yrkesdeltakelse og gode velferdsordninger, som igjen bidrar til gode liv og samfunnsdeltakelse.[^1519]
+
+Omtrent halvparten av befolkningen er medlem i en organisasjon.[^1520] Blant ungdom er det mest vanlig å være medlem av et idrettslag.[^1521] Det finnes imidlertid et bredt spekter av ulike barne- og ungdomsorganisasjoner, slik som Natur og Ungdom, Noereh, Juba, Den norske Turistforening Ung, Norges unge muslimer, KFUK-KFUM og Mental Helse Ungdom.[^1522]
+
+Landsrådet for Norges barne- og ungdomsorganisasjoner
+
+Landsrådet for Norges barne- og ungdomsorganisasjoner (LNU) jobber for felles interesser, bygge kompetanse og støtte den unge frivilligheten i Norge. LNU har støtteordninger som gir barne- og ungdomsorganisasjoner muligheten til å gjennomføre ulike prosjekter og aktiviteter.
+
+Barne- og ungdomstinget er LNUs øverste demokratiske organ, hvor representanter fra medlemsorganisasjonene møtes for å bestemme hva LNU skal jobbe med, diskutere politiske saker og utveksle kunnskap på tvers av organisasjoner. LNU har rundt 100 medlemsorganisasjoner, blant annet politiske ungdomspartier, miljøorganisasjoner, religionssamfunn og organisasjoner innenfor friluftsliv.<sup>1</sup>
+
+<sup>1</sup> Innspillsmøte med barne- og ungdomsorganisasjoner, 7. februar 2023
+
+\[Boks slutt\]
+
+Frivillige organisasjoner
+
+Frivillige organisasjoner bidrar til kompetanse, læring og inkludering for personer i alle aldre gjennom sine aktiviteter og tilbud. De gir innbyggerne anledning til å møtes, engasjere seg og være en del av et fellesskap. En sterk og mangfoldig frivillighet er med på å skape robuste lokalsamfunn.[^1523] Frivillige er ofte organisert gjennom lokallag i kommunene. Disse lokallagene har gjerne forbindelseslinjer opp til nasjonale organisasjoner, men de har også horisontale relasjoner til kommunen og andre lokale aktører.[^1524] Frivillighet Norge[^1525] har sammen med Kommunenes sentralforbund (KS) utarbeidet en plattform for samspill og samarbeid mellom kommunal og frivillig sektor. Denne plattformen ble fornyet i 2023.[^1526]
+
+For mange voksne kan frivillig arbeid være en vei inn i arbeidslivet og samfunnet. Engasjementet bidrar til inkludering og bygging av kompetanse og nettverk. Kommisjonen har møtt representanter for prosjektet Medkvinner hos Tromsø Røde Kors. Prosjektet er drevet av frivillige kvinner fra innvandrermiljøene. Hensikten er blant annet å utvikle støttenettverk og gi innvandrerfamilier som har behov for bistand, informasjon om tilbud som finnes i Tromsø.[^1527] Kommisjonen forstår at kvinnene på bakgrunn av sitt arbeid i prosjektet får erfaring som er nyttig for å komme inn i arbeidslivet.
+
+Tilskuddsordninger for frivillige organisasjoner
+
+Frivillige organisasjoner finansieres blant annet gjennom statlige tilskudd. Barne- og ungdomsorganisasjoner får grunnstøtte over statsbudsjettet.<sup>1</sup> Det blir også gitt støtte til målrettede ordninger og tiltak som skal styrke barn og unges mulighet til å delta og rekruttere flere i organiserte fritidsaktiviteter og fellesskap.<sup>2</sup> Den øremerkede bevilgningen til tilskudd til inkludering av barn og unge ble økt i 2023. Målgruppen for ordningen er barn og unge i alderen 0 til 24 år som av ulike årsaker står i fare for å havne i utenforskap.<sup>3</sup> Prosjektene som tildeles midler, skal bidra til at alle barn og unge får mulighet til mestring og samfunnsdeltakelse.<sup>4</sup> Økningen skal blant annet dekke kostnader for åpne møteplasser som fritidsklubber samt deltakelse i fritidsaktiviteter, utstyrssentraler og loser som skal hjelpe unge med å fullføre utdanningsløp. Tilskuddsordningen forvaltes av Bufdir, og i 2023 tilgjengeliggjorde den 664 millioner kroner.<sup>5</sup> Dette ble økt til 708,3 millioner kroner i 2024.<sup>6</sup> Frivillige organisasjoner og andre, for eksempel tros- og livssynssamfunn, kan også søke om tilskudd til tiltak som bidrar til å motvirke rasisme, diskriminering og hatefulle ytringer. Blant prosjektene som tidligere har fått støtte, er dialogmøter, podkaster, nettsider og utstillinger. I 2023 ble det bevilget 19,6 millioner kroner til ordningen.<sup>7</sup> Integrerings- og mangfoldsdirektoratet har også tilskuddsordninger for frivillige organisasjoner rettet mot integreringsarbeid.<sup>8</sup> Organisasjonene kan også få støtte gjennom andre ordninger, eksempelvis gjennom Frifond.<sup>9</sup> I 2022 ble det opprettet en egen nettside med samlet oversikt over statlige tilskudd som frivillige organisasjoner kan søke på.<sup>10</sup>
+
+<sup>1</sup> Barne- og familiedepartementet u.å.
+
+<sup>2</sup> Meld. St. 15 (2022–2023)
+
+<sup>3</sup> Barne- og familiedepartementet 2023a
+
+<sup>4</sup> Bufdir 2023b
+
+<sup>5</sup> Bufdir 2023b
+
+<sup>6</sup> Prop. 1 S (2023–2024); Innst. 14 S (2023–2024)
+
+<sup>7</sup> Bufdir u.å.-c
+
+<sup>8</sup> Integrerings- og mangfoldsdirektoratet u.å.
+
+<sup>9</sup> Frifond u.å.
+
+<sup>10</sup> Direktoratet for forvaltning og økonomistyring u.å.
+
+\[Boks slutt\]
+
+Politiske organisasjoner
+
+Den hverdagslige politiske deltakelsen i Norge er økende. Mye av denne aktiviteten foregår på digitale flater. Undersøkelser viser at eldre personer er mer aktive politiske debattanter på internett, mens yngre personer deltar mer i demonstrasjoner. Personer med høy utdanning er mer politisk aktive enn personer med lavere utdanning.[^1528]
+
+En politisk organisasjon er enhver organisasjon som involverer seg i den politiske prosessen, blant annet politiske partier og en rekke typer ikke-statlige organisasjoner som tverrpolitiske organisasjoner, partitilknyttede organisasjoner, kampanjegrupper og lignende. De politiske partiene spiller en viktig rolle i den demokratiske infrastrukturen. Ikke bare stiller de kandidater til valg på lokalt, regionalt og nasjonalt plan. De er også i seg selv viktige arenaer for politisk påvirkning. Slik påvirkning er sentral for å skape tillit til samfunnet og innsikt i demokratiske prosesser. Partiene kan også være en viktig arena for meningsbrytning og utvikling av debattkultur.
+
+De norske ungdomspartiene er egne organisasjoner og er tilknyttet et moderparti som de deler ideologisk syn med. Ungdomspartiene tilbyr møtearenaer for unge mennesker med politisk engasjement og kan fungere som rekrutterings- og skoleringsarena for moderpartiene. Å delta i et ungdomsparti gir innsikt i hvordan samfunnet og demokratiet fungerer, og hvordan beslutninger fattes.
+
+I forbindelse med stortingsvalg eller kommune- og fylkestingsvalg avholdes det skolevalg ved alle landets videregående skoler. Ved skolevalget i 2023 var det ca. 190 000 stemmeberettigede, og valgdeltakelsen var på 76,2 prosent.[^1529] Skolevalget gir elever på videregående skoler forståelse av og kjennskap til politikk og demokratiske prosesser.
+
+Interesseorganisasjoner
+
+Interesseorganisasjoner skal ivareta interessene til spesielle samfunnsgrupper eller områder. Eksempler på slike organisasjoner er Adopsjon i endring[^1530], FRI – Foreningen for kjønns- og seksualitetsmangfold[^1531] og Støttegruppen etter 22. juli.[^1532] Interesseorganisasjoner har ofte en rådgivende funksjon overfor myndighetene, og de ønsker å påvirke gjennom å gjøre myndighetene oppmerksom på medlemmenes interesser. I tillegg jobber disse organisasjonene ofte med kunnskapsformidling om gruppen de representerer og har aktiviteter rettet mot medlemmene sine.[^1533] Interesseorganisasjoner kan tilby nettverk og fellesskap med andre og gir støtte i krevende situasjoner.
+
+### Tros- og livssynssamfunn
+
+Tros- og livssynssamfunn er samarbeidspartnere for kommuner og andre lokale aktører i det forebyggende arbeidet mot ekstremisme. Dette oppfattes som en viktig innsats blant flere tjenester.[^1534] De kan tilby både ressurser og kompetanse og bidra i både det brede forebyggingsarbeidet og med mer målrettet innsats når det er behov.[^1535] Kommisjonen har gjennomført flere møter med representanter for ulike tros- og livssynsorganisasjoner i løpet av sitt arbeid.[^1536] Tros- og livssynssamfunn tilbyr fellesskap og holdepunkter for mange mennesker i samfunnet. Felles tilhørighet, verdier og andre faktorer gjør at tros- og livssynssamfunn kan bidra til å styrke den enkeltes motstandskraft mot radikalisering.[^1537]
+
+Flere sentrale religiøse aktører i Norge har markert seg tydelig mot ekstremisme. I 2011 kom Islamsk Råd Norge og Mellomkirkelig råd med en fellesuttalelse mot religiøs ekstremisme, som oppfordret til å forebygge og motarbeide alle former for religiøs ekstremisme. Uttalelsen var rettet til religiøse ledere i trossamfunn, menigheter og forsamlinger.[^1538] Høsten 2023 kom det også en fellesuttalelse fra religiøse ledere i Samarbeidsrådet for tros- og livssynssamfunn (STL) og ledere fra skeive organisasjoner og religiøse skeive.[^1539]
+
+Kunnskap og kompetanse
+
+Tros- og livsynssamfunn kan være forebyggingsarenaer gjennom sin kompetanse og legitimitet til å fortolke religionens skrifter og praksiser. Religiøs opplæring som bidrar til forståelse av ulike tolkninger av religiøse tekster, kan også gjøre den enkelte mer motstandsdyktig mot ekstremistisk argumentasjon.[^1540]
+
+Universitetet i Oslo tilbyr et kurs om å være religiøs leder i et samfunn med mange trosretninger.[^1541] Det er beregnet på ledere med utenlandsk bakgrunn. Kurset har etter det kommisjonen forstår pågått i snart 20 år. Kurset skal blant annet bidra til at religiøse ledere fra ulike trossamfunn og tradisjoner møtes. En evaluering av kurset er under arbeid.[^1542] Kommisjonen har for øvrig merket seg at Stortinget har bedt regjeringen om å utrede og fremme forslag om insentiver slik at flere religiøse ledere eller andre relevante ressurser i religiøse samfunn kan ta godkjent religiøs tilleggsutdanning.[^1543]
+
+I samtaler med ulike aktører og gjennom arbeidet har kommisjonen fått inntrykk av at det mangler kunnskap om religiøst liv og praksis generelt, men at det også mangler kunnskap om konkrete trosretninger spesielt i tjenesteapparatet. Aktører i offentlige tjenester savner også tilstrekkelig kunnskap om religiøse aktører og mangfoldet innad i religiøse trosretninger og ulike religiøse praksiser. Videre oppleves det at flere tjenester er usikre når det gjelder religiøse organisasjoner.[^1544] Kommisjonen oppfatter også at det kan mangle arenaer der religiøse aktører og offentlige tjenester kan samhandle. Slike arenaer kunne ha styrket det forebyggende arbeidet. Videre er sivilsamfunnets rolle i forebygging av radikalisering og ekstremisme ikke tilstrekkelig avklart. Dette er en utfordring som inkluderer tros- og livssynsarbeidet.
+
+Tros- og livssynsdialog
+
+Religionsdialog kan sies å ha vært spesielt rettet mot å verne minoriteter og å hindre at religion blir et skille mellom «noen» og «andre».[^1545] Det er flere organisasjoner som jobber med dialog og samarbeid på tvers av religion og livssyn, og som også har dialog med myndighetene om tros- og livssynsspørsmål.[^1546] Slik dialog fremmer forståelse av og respekt for både ulikheter og felles verdier i samfunnet, og den er et viktig bidrag til å forebygge radikalisering.[^1547] Viktigheten av dialog mellom ulike trossamfunn er også fremhevet i en evalueringsrapport av handlingsplaner mot antisemittisme.[^1548] Ulike paraplyorganisasjoner skaper dialog og samarbeid på tvers av livssyn og er viktige dialogpartnere for offentlige styresmakter i ulike spørsmål.[^1549] STL[^1550] er en slik organisasjon. Den har bred representasjonen av religioner. Muslimsk Dialognettverk og Islamsk Råd Norge er paraplyorganisasjoner for ulike islamske trossamfunn i Norge. Norges Kristne Råd er en tilsvarende organisasjon for ulike kristne trossamfunn.
+
+I enkelte kommuner i Norge er det etablert lokale arenaer for dialog på tvers av tro og livssyn og tjenester. Slike fora kan involvere representanter fra ulike trossamfunn, kommunen, og politiet.[^1551] Kommisjonen erfarer at Oslo politidistrikt samarbeider med om lag 140 ulike tros- og livssynssamfunn.[^1552] Dette er et eksempel på relasjonsdannende arbeid som er viktig i det forebyggende arbeidet. Slike møteplasser bidrar til å gi myndighetene og trossamfunn en anledning til å bli kjent og bygge gjensidig tillit til hverandre.[^1553] Det bidrar også til enklere samarbeid ved hendelser og andre behov.
+
+De kirkelige dialogsentrene er gjennom kurs, ressursmateriell og dialoggrupper eksempler på regelmessig dialogarbeid på tvers av tro og livssyn, og som ofte har samarbeid med lokale myndigheter. Det finnes i alt fem av dem, alle i større byer.[^1554] Holdnings- og utdanningsprosjektet Dialogpilotene ble for øvrig startet etter et initiativ fra Kirkelig dialogsenter Oslo.[^1555] Det finnes også dialogsentre der eierskapet er delt mellom partene. Dialogforum Østfold er et eksempel på dette. Det er drevet av muslimske organisasjoner og kristne kirker og organisasjoner sammen, og det har som mål å forsterke samhandlingen og dialogen mellom kristne og muslimer og arbeide for fredelige lokalsamfunn.[^1556] Et tredje eksempel på arenaer for religionsdialog er lokale dialoggrupper.[^1557] Disse er selvstendige enheter, og kan følge STLs vedtekter og mål. Et eksempel er Drammen og omegn tros- og livssynsforum.
+
+Religions- og livssynsdialog har bidratt til at religiøse ledere fra ulike tros- og livssynssamfunn raskt etter terrorangrepene i Norge i 2011, 2019 og 2022 har kunnet stå sammen og fordømme volden og også stå sammen i sorgarbeidet i ettertid. De har også kunnet vise hverandre støtte og solidaritet ved andre vanskelige hendelser, slik som karikaturstriden tidlig på 2000-tallet.[^1558] STL fordømte i oktober 2023 drap på sivile og viste dyp bekymring for situasjonen på Gaza, på Vestbredden og i Israel.[^1559]
+
+Tilskudd og støtte til dialogarbeid
+
+Det bevilges midler til driftstilskudd til dialog- og paraplyorganisasjonene på tros- og livssynsfeltet. I 2023 var tildelingene på mellom 1,5 og 5,6 millioner kroner.<sup>1</sup> Kriteriene for tildeling og målene for støtten er fastsatt i statsbudsjettet.<sup>2</sup> Barne- og familiedepartementet lyser også ut tilskudd til dialogtiltak og kunnskapsutvikling på tros- og livssynsfeltet.<sup>3</sup> Tilskuddsordningen skal bidra til å fremme tros- og livssynsdialog og til å fremme offentlig debatt om tros- og livssynspolitiske tema samt å utvikle kunnskapen om og heve kompetansen på tros- og livssynspolitiske tema. Størrelsen på potten varierer fra år til år, men er som regel på mellom tre og seks millioner kroner.<sup>4</sup> I 2023 var potten på 3,2 millioner kroner.<sup>5</sup> Kommisjonen forstår det slik at selv om midlene er åpne for alle relevante søkere, er det ofte de samme som søker fra år til år.
+
+Barne- og familiedepartementet har også tildelt midler direkte til STL som del av oppfølgingen av handlingsplanen for kjønns- og seksualitetsmangfold.<sup>6</sup> De fikk en million kroner til dialog mellom tros- og livssynssamfunn, LHBT+-organisasjoner og organisasjoner for skeive religiøse om utfordringer som skeive opplever i tros- og livssynssamfunn. Det er også tidligere tildelt midler til tiltak i regi av frivilligheten for sårbare grupper, barn og unge som også inkluderte tros- og livssynssamfunn. I 2022 ble det tildelt 9,5 millioner kroner til slike tiltak. Dette var del av en ekstraordinær bevilgningspakke og er ikke faste midler.<sup>7</sup> STL fikk i desember 2023 to millioner kroner i ekstra tilskudd med bakgrunn i at konflikten i Israel og de palestinske områdene ble vurdert å sette tros- og livssynsdialogen i Norge under press. Tilskuddet ble gitt for å styrke arbeidet med den brede tros- og livssyndialogen, inkludert arbeid rettet mot ungdom.<sup>8</sup>
+
+<sup>1</sup> Prop. 1 S (2022–2023)
+
+<sup>2</sup> Organisasjonene skal ifølge statsbudsjettet for 2022–2023 være «brubyggjarar mellom trussamfunn og ha god kontakt med organisasjonane dei representerer». Formålet med driftstilskuddene er «særleg å styrkje aktivitetane desse organisasjonane har som brubyggjarar mellom ulike trus- og livssynssamfunn og som kontaktledd til det offentlege. Det er òg eit mål å styrkje aktivitetane retta inn mot sivilsamfunnet for å auke kunnskapen om dei ulike trus- og livssynssamfunna.»
+
+<sup>3</sup> Forskrift om tilskudd til dialog, debatt, samarbeid og kunnskapsutvikling på tros- og livssynsfeltet 2022
+
+<sup>4</sup> Korrespondanse mellom kommisjonens sekretariat og Barne- og familiedepartementet, 25. oktober 2023
+
+<sup>5</sup> Barne- og familiedepartementet 2023d
+
+<sup>6</sup> Kultur- og likestillingsdepartementet, Arbeids- og inkluderingsdepartementet, Barne- og familiedepartementet, Forsvarsdepartementet, Helse- og omsorgsdepartementet, Justis- og beredskapsdepartementet, Kommunal- og distriktsdepartementet, Kunnskapsdepartementet og Utenriksdepartementet 2023
+
+<sup>7</sup> Korrespondanse mellom kommisjonens sekretariat og Barne- og familiedepartementet, 25. oktober 2023
+
+<sup>8</sup> Korrespondanse mellom kommisjonens sekretariat og Barne- og familiedepartementet, 10. januar 2024
+
+\[Boks slutt\]
+
+Krav for tilskudd etter trossamfunnsloven
+
+Norske tros- og livssynssamfunn finansieres primært av statsstøtte. Den norske kirke får tilskudd fra stat og kommune til sin virksomhet, jf.
+
+Grunnloven § 16 og trossamfunnsloven kapittel 3. Tros- og livssynssamfunn utenom Den norske kirke kan søke om tilskudd fra staten i tråd med trossamfunnslovens bestemmelser. Tilskuddet skal per medlem tilsvare om lag det som Den norske kirke får fra stat og kommune per medlem.[^1560]
+
+Frivillig.no
+
+Rekruttering av frivillige er en utfordring for mange organisasjoner. Likevel viser befolkningsundersøkelser at mange ikke er spurt om å bidra eller vet hvor de kan henvende seg for å begynne som frivillige. Frivillig.no ble lansert i 2015. Det er en nettside for rekruttering av nye frivillige til organisasjoner i hele Norge. Frivillighet Norge står bak nettstedet.<sup>1</sup>
+
+<sup>1</sup> Frivillighet Norge u.å.-a
+
+\[Boks slutt\]
+
+Av trossamfunnsloven § 6 kan trossamfunn nektes tilskudd blant annet på grunnlag av vold eller tvang, trusler eller andre alvorlige krenkelser av andres rettigheter og friheter. Tilskudd kan også nektes dersom trossamfunnet oppfordrer eller gir støtte til slike krenkelser eller mottar bidrag fra stater som ikke respekterer retten til tros- og livssynsfrihet. Sommeren 2023 foreslo Barne- og familiedepartementet et såkalt demokratikrav som innebærer at tros- og livssynssamfunn som motarbeider den demokratiske styreformen, kan nektes tilskudd og registrering etter trossamfunnsloven.[^1561] Oppfordring og støtte til terrorhandlinger og voldelig ekstremisme var omfattet av forslaget til nektingsgrunnlag. Det samme var vold og trusler mot folkevalgte og politikere. Høringssvarene pekte på flere prinsipielle motforestillinger mot demokratikravet og flere var kritiske fordi de mener det er for uklart hva som rammes.[^1562] Saken var fortsatt til behandling da arbeidet med denne rapporten ble avsluttet.
+
+Faktisk.no
+
+Faktisk.no er en ideell organisasjon som jobber for å bidra til det norske samfunnets motstandsdyktighet mot feil- og desinformasjon. Faktisk.no består av avdelingene redaksjonen, skoleavdelingen Tenk og utviklingsavdelingen Innsikt.<sup>1</sup> Formålet med Faktisk.nos journalistikk er å bidra til en faktabasert offentlighet og et opplyst ordskifte. Redaksjonen i Faktisk.no publiserer faktasjekker og undersøkende journalistikk, Faktasjekkene tar for seg eksempelvis påstander fra sentrale politikere og konspirasjonsteorier spredt i sosiale medier. Faktisk.no har blant annet kartlagt hvordan innhold fra alternative medier spres i sosiale medier. I tillegg driver Faktisk.no periodevis samarbeidsprosjektet Faktisk Verifiserbar, en felles desk for den norske mediebransjen, som primært jobber med å bekrefte eller avkrefte bilder og video fra pågående konflikter. Faktisk.no er også engasjert i ulike internasjonale initiativ.<sup>2</sup>
+
+Tenk er skoleavdelingen til Faktisk.no. Tenk utvikler undervisningsopplegg og ressurser for opplæring i kildebevissthet og kritisk mediebruk for barn og unge. Tenk bidrar også til oppdatert kunnskap om kildebevissthet og kritisk mediebruk for profesjoner som jobber med barn og unge. På nettsiden Tenk.faktisk.no publiseres undervisningsopplegg, ressurser og støttemateriell som er gratis og fritt tilgjengelig for alle. Internasjonalt samarbeider Tenk med flere *media literacy*-organisasjoner.<sup>3</sup>
+
+<sup>1</sup> Faktisk.no u.å.
+
+<sup>2</sup> Korrespondanse mellom kommisjonens sekretariat og faktisk.no, 9. november 2023
+
+<sup>3</sup> Presentasjon av faktisk.no på kommisjonsmøte, 3. mai 2023
+
+\[Boks slutt\]
+
+# Forskning
+
+Formålet med forskning er å skaffe til veie ny viten og kunnskap og å bygge videre på eksisterende kunnskap. Forskning på radikalisering og ekstremisme bidrar til bedre situasjonsforståelse og oppdatert kunnskap om fenomenene for beslutningstakere, aktører i førstelinjen, sivilsamfunnet, utdanningssektoren og befolkningen. Forskere kan se utviklingstrekk i sammenheng, følge med på nye trender og internasjonale miljøer og sammenligne tiltak nasjonalt og internasjonalt.
+
+Et av tiltakene i handlingsplanen mot radikalisering og voldelig ekstremisme er å utarbeide forskningsstrategier for å styrke koordinering av forskningen på feltet, herunder internasjonal forskning. Status på dette er at det gjennomføres flere aktiviteter og innsatser med midler fra ulike departementer som understøtter dette tiltakets mål.[^1563] Den nasjonale kontraterrorstrategien, har også et eget innsatsområde for kunnskap og kompetanse, med fokus på forskning.[^1564] Forskning er også fremhevet i handlingsplaner som dekker den bredere ekstremismen, slik som tiltak om mer forskning på rasisme og diskriminering i den inneværende handlingsplanen mot rasisme og diskriminering. Det samme gjelder forskning på antisemittisme og forskning på muslimfiendtlighet som angitt i de respektive to handlingsplanene. Forskning på bred ekstremisme foregår imidlertid også på andre områder, slik som eksempelvis forskning på konspirasjonsteorier. Stortinget har for øvrig bedt regjeringen sikre at det gis støtte til forskning på alle former for ekstremisme.[^1565]
+
+Å forske på ekstremisme kan ha sikkerhetsmessige konsekvenser for forskere, som blant annet kan utsettes for trusler. Dette gjelder både når forskere formidler forskningsfunn, og når forskere blir brukt som vitner eller fagpersoner i saker som berører konkrete radikaliserte personer eller ekstreme miljøer. Forskeres sikkerhet er et ansvar som forskningsorganisasjoner som arbeidsgivere må forholde seg til og følge opp. Frykt for egen sikkerhet må ikke hindre forskere i å utvikle relevant forskning på ekstremisme.
+
+Utviklingen av ekstremismeforskningen i Norge
+
+Tidligere forskningsarbeider på nyere ekstremisme i Norge konsentrerte seg om fremvoksende nynazistiske miljøer på 1990-tallet og høyreekstreme grupperinger.[^1566] På 1990-tallet ble det også forsket på rasistisk og fremmedfiendtlig vold.[^1567] Et kjennetegn på denne forskningen var nærhet til og kunnskapsutvikling med tjenesteapparatet og frivillige organisasjoner. Fra 2005 manglet det helhetlig forskning på feltet. Etter 22. juli 2011 ble det forsket på konsekvenser av terrorangrepet, mens det i en periode var mindre forskning på høyreekstreme bevegelser og atferd.[^1568] Det ble oppfattet at forskningen og kunnskapen om høyreekstremisme i forskningsmiljøene kunne forsvinne.[^1569]
+
+Etter terrorangrepet i USA 11. september 2001 og den påfølgende krigen mot terror, tiltok forskningen på terrortrusselen fra ekstrem islamisme.[^1570] Som følge av flere gjennomførte angrep og avvergede terrorangrep i Europa og mer oppmerksomhet på rekruttering til ekstrem islamisme ble det viktig å følge med på denne trusselen.[^1571] Norsk deltakelse i internasjonale militære operasjoner[^1572] samt norske bidrag til forebygging og bekjempelse av voldelig ekstremisme og terrorisme gjennom FN[^1573] og andre kanaler gjorde det nødvendig å bygge nasjonal kompetanse på transnasjonale ekstreme islamister. Militant ekstrem islamisme ble en sentral del av forskningen gjennom 2000-tallet. Dette ble ytterligere forsterket på 2010-tallet da flere nordmenn deltok som fremmedkrigere i IS. Forskningen på dette området fikk tidlig robuste og internasjonalt anerkjente miljøer.
+
+Det har generelt blitt forsket mindre på forebygging og bredere ekstremisme knyttet til ekstrem islamisme etter hva kommisjonen erfarer. I en kunnskapsoppsummering fra 2015 ble det pekt på at forskning på forebygging av ekstremisme var fragmentert og mangelfull.[^1574] Siden den gang har det blitt forsket mer på forebygging av ekstremisme og reintegrering i Norge og Norden, inkludert dilemmaer i dette arbeidet.[^1575] Flere aktører har i sine møter med kommisjonen likevel etterlyst mer forskning på ekstremisme og radikalisering. Det er blant annet pekt på et behov for en oppdatert gjennomgang av hva kommunene gjør på feltet, og hva som virker. Generelt mangler det effektforskning på forebyggingsarbeid.[^1576]
+
+Forskningsfinansiering
+
+Offentlige forskningsmidler kan komme over statsbudsjettet direkte fra et departement eller gjennom Norges forskningsråd, heretter Forskningsrådet.<sup>1</sup> Forskningsrådet har også såkalte senterutlysninger, som er større tildelinger som løper over flere år.<sup>2</sup> Senter for ekstremismeforskning (C-REX) er et eksempel på et slikt senter. Andre offentlige institusjoner, private aktører og internasjonale organisasjoner tildeler også midler til forskning.<sup>3</sup> Eksempler på finansieringsordninger er EUs forsknings- og innovasjonsprogram Horisont Europa.<sup>4</sup> Det samme er nordiske forskningsmidler, slik som midler fra Nordisk ministerråd gjennom Nordforsk.<sup>5</sup>
+
+Grunnbevilgninger skal bidra til å sikre langsiktighet og kontinuitet i forskningen og kvalitet og kapasitet hos forskningsinstitusjonene.<sup>6</sup> Grunnfinansieringen til de ulike forskningsinstansene skal gjøre det mulig å sette i gang og oppdatere forskning basert på nylige hendelser eller utviklingstrekk. Oppdragsbaserte midler dekker mer kortsiktige behov og konkrete oppdrag. Noen tildelinger fra Forskningsrådet kan være til langsiktige satsinger og til å styrke kvaliteten og kapasiteten i forskningssystemet. Andre tildelinger kan handle om kortsiktige politiske og forvaltningsmessige behov.<sup>7</sup> Noen av midlene kommer med klare føringer, mens andre er mer åpne.<sup>8</sup>
+
+<sup>1</sup> Forskningsrådet 2019
+
+<sup>2</sup> Samtale mellom kommisjonens sekretariat og Norges forskningsråd, 20. oktober 2023
+
+<sup>3</sup> Forskningsrådet 2022b
+
+<sup>4</sup> Aktuelt område for søknader for ekstremisme og radikalisering er «Civil Security for society», Forskningsrådet u.å. For mer informasjon: Europakommisjonen 2023
+
+<sup>5</sup> NordForsk u.å. Nordforsks utlysninger samfinansieres med nasjonale forskningsråd og andre forskningsfinansiører
+
+<sup>6</sup> Samtale mellom kommisjonens sekretariat og Norges forskningsråd 20. oktober 2023. Grunnforskning som begrep anvendes som motsetning til anvendt forskning. Det er utarbeidet retningslinjer for grunnbevilgning til forskningsinstitutter og forskningskonsern som gjelder noen av aktørene som er aktuelle for ekstremismeforskning
+
+<sup>7</sup> Korrespondanse mellom kommisjonens sekretariat og Norges forskningsråd, 23. oktober 2023
+
+<sup>8</sup> Forskningsrådet 2022a
+
+\[Boks slutt\]
+
+## Forskningsaktører
+
+### Senter for ekstremismeforskning
+
+Senter for ekstremismeforskning (C-REX) forsker på høyreekstremisme, hatkriminalitet og politisk vold. Senteret ble opprettet i 2016 etter en utlysning fra Forskningsrådet.[^1577] Utlysningen og opprettelsen var en respons på terrorangrepet 22. juli 2011. Senteret ble opprettet for en periode på fem år og videreført fra 2021 for fem nye år. Finansieringen av C-REX tar slutt 31. januar 2026.[^1578] Senteret er opprettet ved Universitet i Oslo for å bygge opp et tverrfaglig miljø som skal utvikle empiriske og teoretiske kunnskaper om årsaker til og konsekvenser av høyreekstremisme og relaterte fenomener.[^1579]
+
+C-REX har etablert en solid forskningsplattform[^1580] og er internasjonalt anerkjent.[^1581] Senteret er synlig i samfunnsdebatten, driver med formidling og har et bredt nasjonalt og internasjonalt nettverk.[^1582] Senteret deltar i en rekke forskningsprosjekter som er finansiert av ulike instanser.[^1583] Datasettet *Right-wing terrorism and violence* (RTV) driftes av C-REX. Datasettet dokumenterer høyreekstrem terrorisme fra 1990-tallet og frem til i dag i 18 land.[^1584]
+
+Senteret har tre fast ansatte i tillegg til 13 ansatte i midlertidige stillinger, som stipendiater, postdoktorer og forskere.[^1585] To av de ansatte er i faste vitenskapelige stillinger. Kommisjonen erfarer at mangel på faste stillinger fører til hyppig utskiftning og utfordringer med kontinuitet. I 2019 ble det gjennomført en evaluering av senteret, som blant annet pekte på svært gode forskningsresultater og engasjement på feltet. Evalueringen viste også at det var forbedringspotensiale på noen områder.[^1586] Kommisjonen forstår det slik at senteret har fulgt opp evalueringen.
+
+Både senteret, politiske aktører og andre har tatt til orde for at senteret må vidreføres.[^1587] Det er tidligere angitt at senterets eventuelle videre finansiering vil bli vurdert i forbindelse med de ordinære budsjettprosessene nærmere 2026.[^1588] Stortinget har bedt regjeringen sørge for finansiering av senteret etter 2026.[^1589]
+
+### Forsvarets forskningsinstitutt
+
+Forsvarets forskningsinstitutt (FFI) er forsvarssektorens egen forskningsinstitusjon og forsker på et bredt spekter av temaer.[^1590] Instituttet utfører også oppdragsforskning for ulike aktører utenfor forsvarssektoren.[^1591] FFI tildeles midler som skal sikre instituttet nødvendig langsiktighet i forskningen og en fri forskningsrolle, og skal bidra til å opprettholde kompetanse og finansiere FFIs rolle som rådgiver for forsvarssektoren.[^1592]
+
+FFI har siden 1999 studert transnasjonal terrorisme og asymmetriske trusler mot norsk og internasjonal sikkerhet gjennom en serie av forskningsprosjekter kalt Terra.[^1593] Etter terrorangrepet i USA 11. september 2001 har forskningen vært rettet mer mot ekstrem islamisme. I dag leverer Terra forskning på transnasjonal jihadisme,[^1594] samt teknologi, ideologi, historie, radikaliseringsprosesser og rekruttering.[^1595] FFI har nylig avsluttet delen av prosjektet som omhandlet «transnasjonal jihadisme etter kalifatets fall».[^1596]
+
+Terra er internasjonalt anerkjent med flere publikasjoner samt utstrakt forskningsformidling.[^1597] Prosjektet har utvidet kunnskapen om islamistisk terrorisme, noe som har vært nyttig for beslutningstakere både i Norge og internasjonalt.[^1598] Prosjektet leverer også jevnlig kunnskap og informasjon til andre deler av forvaltningen nasjonalt og lokalt, som politi og sikkerhetstjenester.
+
+FFI har i samarbeid med C-REX innledet komparative studier av ekstrem islamistisk og høyreekstrem terror i Europa.[^1599] Formålet med forskningen er å gi norske myndigheter og offentligheten større situasjonsforståelse og å sette søkelyset på aktørene bak terrorhandlinger. Foreløpige funn ble presentert i 2022.[^1600]
+
+Terra har hatt et stabilt og lite forskermiljø over lang tid med gode internasjonale nettverk. I og med at det er tilknyttet forsvarssektoren, er prosjektet innrettet slik at det har tilknytning til og tillit i sikkerhetsapparatet. Sikkerhetsaspektet gjør imidlertid at mangfoldet blant forskerne blir utfordret på grunn av sikkerhetsklarering.[^1601] Terra fornyes hvert tredje år og har ingen garantier for fortsatt finansiering internt i organisasjonen eller av andre.[^1602] Dette kan være utfordrende for å beholde kompetanse og nødvendig langsiktighet og kontinuitet i forskningen. Selv om det har vært kontinuitet blant forskerne på Terra, er miljøet sårbart da det består av relativt få forskere.
+
+### Norsk Utenrikspolitisk Institutt
+
+Norsk Utenrikspolitisk Institutt (NUPI) har i flere tiår vært et ledende forskningsmiljø innenfor internasjonale spørsmål.[^1603] NUPI forsker på terrorisme, kontraterror, anti-radikalisering og ekstremisme, spesielt i et internasjonalt og globalt perspektiv. NUPI jobber med terrorisme- og ekstremismerelaterte temaer i forbindelse med spesifikke geografiske regioner og har spesialkompetanse på både aktørsiden og mottiltaksiden av ekstremisme og terrorisme.[^1604] NUPI har også ledet det EU-finansierte PREVEX-prosjektet[^1605], som i perioden fra 2020 til 2023 forsket på hvorfor noen samfunn har større sannsynlighet for å oppleve voldelig ekstremisme.
+
+Konsortiet for terrorismeforskning
+
+NUPI utgjør den daglige ledelsen og sekretariatet i Konsortiet for terrorismeforskning.[^1606] Konsortiet er et langvarig samarbeidsprosjekt mellom NUPI, FFI, Politihøgskolen og C-REX. Det blir finansiert av flere departementer og noe fra privat sektor. I tillegg til å arrangere en åpen seminarrekke som formidler relevant forskning til allmenheten, bidrar konsortiets forskere og ledelse med oppdatert kunnskap til norske beslutningstakere på feltet.[^1607] Konsortiet bidrar til forutsigbarhet og stabilitet i Norges terrorisme- og kontraterrorforskning og til et forskningsmiljø på feltet preget av samarbeid, koordinering og synergier.
+
+### Universiteter og høyskoler
+
+Målene for forskning og høyere utdanning er omtalt i langtidsplanen for forskning og høyere utdanning,[^1608] som blant annet skal bidra til langsiktighet, forutsigbarhet og koordinering på tvers av sektorer.
+
+Blant relevante forskningstemaer ved universiteter og høyskoler kan det nevnes konspirasjonsteorier, rasisme og diskriminering, konservative religiøse samfunn, militant islamisme, høyreekstrem ideologi og terrorisme, radikalisering og ekstremistiske fenomener, årsaksforklaringer, trusler mot demokratiet og forebygging. Både Politihøgskolen, Oslo Met og Universitet i Oslo har og har hatt prosjekter som handler om ekstremisme og radikalisering.[^1609] Forskere fra Norge er også med i et prosjekt om sosiale medier og feilinformasjon som blant annet skal se på demokratiske utfordringer i medielandskapet.[^1610] Et annet eksempel på relevant forskning er hvordan hatkriminalitet blir behandlet i strafferettssystemet.[^1611] Forskningen på feltet er etter hva kommisjonen erfarer, ulikt organisert og finansiert med ulik midlertidig varighet.
+
+Flere instanser tilbyr også ulike studier innenfor temaet ekstremisme, for eksempel tilbyr OsloMet en nettbasert videreutdanning innenfor ekstremisme og radikalisering.[^1612] BI tilbyr et mastergradsprogram i sikkerhetsledelse og konflikthåndtering[^1613] samt terrorisme og terrorbekjempelse.[^1614] NTNU har siden høsten 2021 tilbudt studier i konspirasjonsteorier til lærere på ungdomstrinnet og videregående skoler.[^1615] Det er usikkert hvor lenge NTNU vil tilby emnet.[^1616] Politihøgskolen tilbyr blant annet et studium innenfor forebygging og etterforsking av hatkriminalitet.[^1617] KRUS har også hatt et tilbud om studier innenfor radikalisering og voldelig ekstremisme i kriminalomsorgen.[^1618] Studiet er under revisjon og det vil vurderes om det skal tilbys igjen.[^1619] Universitetet i Oslo tilbyr et studie om demokrati og dets indre fiender.[^1620]
+
+### Andre forskningsinstitusjoner
+
+Det gjennomføres også relevante forskningsprosjekter på ekstremisme og terror og tilgrensende temaer ved ulike norske tankesmier og sentre. Eksempler på dette er Fredsforskningsinstituttet Oslo (PRIO), Forskningsstiftelsen FAFO og Institutt for samfunnsforskning (ISF).[^1621] Det gjennomføres også holdningsundersøkelser på ulike institutter som er relevante for den langsiktige forståelsen for og kunnskapen om holdninger mot minoriteter og andre.[^1622]
+
+To av freds- og menneskerettighetssentrene er etablerte forskningsinstitusjoner hvor forskning danner kunnskap for arbeidet med å forebygge og forhindre ulike former for rasisme og gruppefiendtlighet. HL-senteret forsker blant annet på holocaust og minoriteters vilkår, herunder nye former for fordommer og rasisme rettet mot ulike minoriteter.[^1623] Senteret forsker også på høyreekstremisme i samtiden, i samarbeid med andre relevante aktører. Senteret har blant annet gjennomført en studie om høyreekstreme konspirasjonsteorier.[^1624] Falstadsenteret har blant annet forsket på minneprosesser og minnekultur relatert til senterets historie og i samfunnet mer generelt.[^1625] Ved Arkivet i Kristiansand gjennomføres det for øvrig et prosjekt på innvandringsmotstand og antirasisme i Agder fra 1960-tallet og frem til i dag.[^1626]
+
+Nasjonalt kunnskapssenter om vold og traumatisk stress (NKVTS) forsker blant annet på vold og overgrep, terrorisme og væpnede konflikter. Senteret har som hovedoppgave å bidra med forskning og utviklingsarbeid, formidling, undervisning, veiledning og rådgivning.[^1627] De har flere pågående relevante arbeider på feltet for å utvikle kompetanse på helsesektorens arbeid med voldelig ekstremisme. De har nylig avsluttet et forskningsprosjekt om psykisk helses rolle i forebyggingsarbeidet.[^1628] NKVTS har også gjennomført en studie av politiets forbyggende arbeid mot radikalisering.[^1629] NKVTS har ansvar for Utøyastudien, som handler om terrorens påvirkning på liv og helse blant de overlevende og deres foreldre.[^1630] I tillegg har NKVTS gjennomført en studie av ansatte i regjeringskvartalet etter terroren den 22. juli 2010.[^1631]
+
+I tillegg til forskning på ekstremisme ved ulike universiteter, høyskoler og forskningsinstanser har også journalister, forfattere, tankesmier og andre kastet lys over ekstremisme gjennom bøker, artikler, debattinnlegg, podkaster og annet.[^1632] Kommisjonen erfarer at journalister og andre får lettere tilgang på relevant informasjon og datamateriale, mens forskere ikke kan benytte seg av tilsvarende materiale grunnet strenge forskningsetiske hensyn og krav om personvern, informert samtykke samt anonymisering.[^1633]

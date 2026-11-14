@@ -1,2165 +1,334 @@
-# NOU 2018: 6, del 8 av 18 (side 90–107)
+# NOU 2018: 6, del 8 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/372c10bd-nou-2018-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-6/id2593665/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd4f61bba893409a9b715ee1971a0004/no/pdfs/nou201820180006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 26 figurer, 49 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 90]
+Det finnes ikke noen fullstendig oversikt over hvor mange varslingssaker som behandles av domstolene. En gjennomgang av tilgjengelig rettspraksis i 2013 viste at antallet saker for domstolene har økt betydelig etter at arbeidsmiljøloven fikk regler om varsling.[^326] En årsak til det kan være økt kunnskap om retten til å varsle om kritikkverdige forhold blant arbeidstakere, arbeidsgivere, tilsynsmyndigheter, advokater og domstoler.
 
-90
+1.  **Utfordringer for aktørene**
 
-NOU 2018: 6
+*Begrenset påvirkningsmulighet*
 
-Kapittel 7
+Det er svært vanskelig å påvirke eller endre enkeltpersoners handlinger, mellommenneskelige relasjoner og maktstrukturer.
 
-–
-–
-–
-–
-–
-–
-–
-–
+*Habilitetsutfordringer*
 
-Varsling – verdier og vern
+Personlige relasjoner, interessefellesskap og virksomhetsstørrelse kan gjøre det vanskelig å sikre habile aktører i en varslingsprosess.
 
-klanderverdig eller respektløs atferd overfor
-pasienter, brukere eller kunder
-voldelig atferd
-brudd på instrukser for helse, miljø og sikkerhet
-trakassering og mobbing
-destruktiv/dårlig ledelse
-underslag, bestikkelser/korrupsjon
-utslipp av alvorlige miljøgifter
-brudd på taushetsplikt
+*Risiko*
 
-I Fafos undersøkelser var inngangsspørsmålet om
-man i løpet av de siste tolv månedene hadde vært
-vitne til, avdekket eller opplevd kritikkverdige forhold på egen arbeidsplass som burde vært stoppet. Andelen som svarte ja på spørsmålet sank fra
-34 prosent i 2010 til 19 prosent i 2013 og til 16 prosent i 2016, se tabell 7.1.
-Fafo stilte det samme spørsmålet på nytt i forbindelse med en rapport om ytringsfrihet og varsling i kommuner og fylkeskommuner som ble
-laget på oppdrag fra KS i 2017.37 I denne undersø-
+Tillitsvalgte og verneombud kan selv bli utsatt for gjengjeldelse. De vil derfor kunne vegre seg mot å bistå varslere i frykt for å bli identifisert med varsleren. Videre vil det kunne variere hvor stor gjennomslagskraft de har overfor ledelsen i virksomheten, og hvor stor støtte den tillitsvalgte har i sin organisasjon.
 
-kelsen var det 21 prosent som svarte ja på spørsmålet om de i løpet av de siste tolv månedene
-hadde vært vitne til, avdekket eller opplevd kritikkverdige forhold. I SSBs levekårsundersøkelse
-om arbeidsmiljø i 2016 ble det stilt spørsmål om
-varsling. Her svarte 15 prosent at de hadde observert at noen på jobben hadde handlet kritikkverdig de siste tolv månedene.38
-I Fafo 2017 I drøftes mulige forklaringer på
-nedgangen i omfanget av opplevde kritikkverdige
-forhold, og kunnskapsstatusen viser blant annet
-til at dette kan skyldes at omfanget av kritikkverdige forhold har sunket, at terskelen for å definere
-noe som et kritikkverdig forhold har blitt høyere
-eller at norske arbeidstakere rett og slett har blitt
-mer likegyldige overfor alvorlige hendelser eller
-uønsket praksis.39
-37
-38
-39
+*Begrenset myndighet*
 
-Fafo 2017 II.
-SSBs levekårsundersøkelse om arbeidsmiljø 2016 (LKU
-2016).
-Fafo 2017 I s. 30.
+Det er domstolene som har myndighet til å ta stilling til om det er skjedd en forsvarlig varsling, om det er skjedd gjengjeldelse og om det er grunnlag for oppreisning eller erstatning. Arbeidstilsynet har myndighet innenfor den offentligrettslige reguleringen i arbeidsmiljøloven. Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda har kun myndighet i diskrimineringssaker. Sivilombudsmannen har myndighet i saker som angår offentlig forvaltning.
 
-Tabell 7.2 Hvilke kritikkverdige forhold det blir varslet om N = 299
-Forholdet varselet handlet om
+*Begrenset kapasitet*
 
-Antall
+For alle aktører handler det om riktig bruk av ressursene. Fagforeningsadvokater, Sivilombudsmannen, Arbeidstilsynet og alle andre må prioritere ressursene ut i fra hvilke parametre de blir målt på (minst prosessrisiko, prinsipielle saker, størst risiko for skade på helse, miljø og sikkerhet mv.). Regjeringens avbyråkratiseringsreform fører til at alle statlige aktører, inkludert domstolene, får reduserte bevilgninger hvert år. Nedgang i organisasjonsgraden kan bidra til reduserte ressurser i fagforeningene.
 
-Prosent
+1.  **Hva påvirker prosessen og utfallet av en varslingssak**
 
-Destruktiv ledelse som er ødeleggende for arbeidsmiljøet
+    1.  **Begrepet varsling – som psykologisk fenomen**
 
-63
+Varsling er når en person i organisasjonen, ansatt eller tidligere ansatt, varsler om ulovlig, umoralsk eller uakseptabel praksis i et arbeidsforhold til personer som er i stand til å stoppe det kritikkverdige.[^327] Se også punkt 2.2 og punkt 4.2.
 
-21
+Near og Miceli, som formulerte definisjonen på varsling, definerte med hensikt varslingen ganske generelt. Det er ikke en såkalt preskriptiv definisjon, som stiller krav til innhold for å bli kategorisert som varsling. Dette betyr at varsling kan ta ulike former. Det kan være varsling til leder etter at en selv har blitt utsatt for mobbing, eller det kan være varsling om at man har observert korrupte handlinger. Varslingen kan gjøres åpent, men kan også være anonym. Den kan gjøres av en enkelt person, men kan også gjøres av flere som står samlet bak varselet. For eksempel var Sherron Watkins, en varsler som ble kåret til «Årets navn» av Time Magazine i 2001, og som varslet om regnskapstriksing og korrupsjon i skandaleselskapet Enron i USA, egentlig leder for en revisjonsgruppe innen organisasjonen.[^328] Det er mindre sannsynlig at man blir gjenstand for gjengjeldelse dersom det er flere som varsler sammen.[^329]
 
-Annen trakassering/mobbing
+Varsleren kan tilhøre organisasjonen der det kritikkverdige har funnet sted, men varslingen kan også skje i ettertid, etter at arbeidsforholdet er avsluttet. Noen ganger skjer varsling av utenforstående, for eksempel pasienter eller pårørende på et sykehus, eller kunder til en bedrift.
 
-51
+Varsling kan avgrenses mot nærliggende begreper, uten at det så langt har vært vanlig å gjøre det. Det er viktig å unngå at ulike begreper blir for omfattende og at innholdet inflateres. Går det et skille mellom for eksempel mobbing og varsling? Kan man kalle det en klage, når en person rapporterer om kritikkverdig atferd mot egen person, men varsling når det kritikkverdige rammer flere eller har prinsipielle sider som overskrider den enkelte person? Det kan også forstås som varsling når en klage om mobbing eller seksuell trakassering ikke når frem, og man må gå videre med det hele, for eksempel til Arbeidstilsynet. Varsling ut fra en organisatorisk forståelse bør betegne at det reageres på noe som er alvorlig.
 
-17
+Det kan skjelnes mellom varsling og sladring. Når man rapporterer om trivielle forhold, eller man har en baktanke med varslingen, for eksempel et hevnmotiv, kan det betegnes som sladring. I land der man opererer med til dels store belønninger for å varsle, når man hindrer skattesnyting for eksempel, blir det vanskelig å skjelne mellom varsling og sladring. Den som varsler, kan i en slik situasjon ha et opplagt økonomisk motiv.
 
-Forhold som kan medføre fare for liv eller helse
+I den norske debatten, ikke minst i juridiske kretser, har man vært opptatt av om varslingen er lojal eller illojal. I den psykologiske og samfunnsvitenskapelige faglitteraturen har temaet lojal kontra illojal varsling i liten grad vært på dagsordenen.[^330] En meta-studie, som sammenfatter resultatet til et større antall studier, har funnet at nesten alle varslere rapporterer internt først, og slik sett er lojale, og går først ut eksternt etter at interne forsøk ikke har ført frem.[^331]
 
-30
+1.  **Hvordan påvirke organisasjonskultur**
 
-10
+Schein gir åtte råd for hvordan organisasjonskultur kan påvirkes:<sup>1</sup>
 
-Bruk av rusmidler på jobb
+1\. Øke bevisstheten blant de ansatte om hva som er hensiktsmessige og uhensiktsmessige sider ved dagens kultur.
 
-26
+Å skyte på pianisten, for å bruke et gammelt uttrykk, er for eksempel ikke særlig hensiktsmessig når noen varsler om kritikkverdige forhold som bedriften er lite tjent med.
 
-9
+2\. Bli bevisst på hvordan man ønsker å ha det.
 
-Underslag/tyveri eller økonomiske misligheter
+Man kan for eksempel ønske seg en kultur preget av åpenhet, der arbeidstakerne tar opp forhold som er problematiske, uten å være redd for konsekvensene. Argyris kaller slik åpenhet for Modell 2 kommunikasjon, der de nødvendige spørsmål stilles og beskjeder gis uten forbehold eller avkortet dialog.<sup>2</sup> Det motsatte er Modell 1 kommunikasjon. Da er kommunikasjonen preget av defensivitet. Folk tør ikke stille «farlige» spørsmål eller snakke om sensitive tema, for eksempel om regelbrudd eller ulovligheter. Argyris mente at det gikk an å trene opp graden av åpenhet, altså Modell 2 kommunikasjon.<sup>3</sup>
 
-25
+3\. Sørge for at rutiner, systemer og strukturer er i overensstemmelse med ønsket kultur.
 
-8
+I vår sammenheng blir det sentralt at organisasjonen har et godt system for varsling som arbeidstakerne får grundig innføring i.
 
-Brudd på etiske retningslinjer
+4\. Belønne atferd som stemmer med ønsket kultur, og sanksjonere atferd som ikke stemmer med ønsket kultur.
 
-21
+Overført til varsling innebærer dette at varslingsatferd må verdsettes, og ikke føre til negative karrieremessige konsekvenser eller represalier for de som har gitt beskjed. Punktet innebærer også at kritikkverdig atferd må opphøre, og at de som har bedrevet slik atferd, blir møtt med reaksjoner.
 
-7
+5\. Organisasjonen bør ha fokus på noen få områder når man prøver å endre en organisasjonskultur.
 
-Behandling av brukere/kunder som strider mot gjeldende lov
+Hvis man for eksempel ønsker å bli bedre når det gjelder varsling, bør man vie varsling stor oppmerksomhet, uten at varsling må konkurrere om oppmerksomheten med en rekke andre HR-temaer samtidig.
 
-14
+6\. Systematisk rekruttering av ansatte som har de rette holdninger og verdier, men også egnet kompetanse.
 
-5
+7\. Omplassere eller skifte ut sterke bærere av uønsket kultur.
 
-Seksuell trakassering/trakassering på bakgrunn av kollegers kjønn/seksuell legning
+Det vil gjelde ansatte som utfører kritikkverdige handlinger, om de ikke viser vilje til å endre atferd. Ansatte som ser at ulovlig eller kritikkverdig atferd finner sted, uten å gjøre noe, vil også være eksempel på personer som ikke opptrer i tråd med ønsket kultur.
 
-12
+8\. Utvikle eller selektere ledere som fungerer som rollemodeller for de ansatte.
 
-4
+Lederne må opptre i pakt med de ønskede verdier, for eksempel må ledere kunne håndtere et varsel, uten å ty til «la-det-skure-ledelse», det vil si la være å gjøre noe.
 
-Manglende vilje til å rette opp alvorlige feil ved tjenesten
+<sup>1</sup> Schein (2010).
 
-12
+<sup>2</sup> Argyris (1982).
 
-4
+<sup>3</sup> Noonan (2007).
 
-Sosial dumping/uakseptable lønns- og arbeidsvilkår
+**\[Boks slutt\]**
 
-6
+1.  **Organisasjonskultur**
 
-2
+Et tema som er svært relevant når det gjelder varsling, er organisasjonskultur. Den antakelig mest kjente definisjonen på organisasjonskultur er formulert av Edgar Schein.[^332] Han ser på organisasjonskultur som et mønster av grunnleggende antakelser som gradvis har utviklet seg i en organisasjon etter hvert som man må forholde seg til press og forventninger innad i organisasjonen, eller fra omgivelsene. Disse grunnleggende antakelsene, for eksempel hvordan man forholder seg til varsling, har fungert så bra at de oppleves som sanne i forhold til bedriften. De fungerer med andre ord, slik at de læres bort til nykommere som en praksis eller tenkemåte som må følges. En organisasjon kan for eksempel ha langt mer fokus på å unnvike oppmerksomhet rundt avvik og «røde» tall enn en konkurrerende virksomhet, som er mer preget av åpenhet. Organisasjonskulturen kommer til uttrykk gjennom ulike symboler i organisasjonen, for eksempel gjennom årsfester og hvordan man feirer suksess og måloppnåelse, men også gjennom hvordan virksomheten takler spørsmål rundt varsling.
 
-Vold eller urettmessig maktbruk mot brukere/kunder
+Kulturen påvirker hvordan ansatte føler og fortolker virkeligheten rundt seg og hvordan man oppfører seg. I en såkalt «fryktkultur» vil de ansatte være i en jobbsituasjon preget av engstelse og usikkerhet, som ofte gir en mer defensiv kommunikasjon.[^333] I kulturer preget av trygghet vil de ansatte mer være seg selv, og det er lettere å ha en åpen tone i kommunikasjonen for eksempel mellom ledere og ansatte.
 
-2
+Organisasjonskultur dreier seg også om de grunnleggende normer, verdier og virkelighetsoppfatninger som karakteriserer en organisasjon. *Normer* er regler og praksis som gjelder i organisasjonen, altså spilleregler som de ansatte har å følge. Typisk med normer er at det knytter seg sanksjonsmuligheter til dem. En arbeidstaker som bryter en norm, blir sanksjonert eller straffet, alt fra å blir kritisert for regelbrudd, til at man blir gitt muntlig eller skriftlig advarsel, eller i verste fall blir oppsagt eller avskjediget.
 
-1
+*Verdier* er de verdimessige standpunkt eller ideal som organisasjonen etterstreber, som man opplever som verdifulle og som fungerer som en spore eller inspirasjon for arbeidsinnsats og produktivitet i hverdagen. Blir for eksempel varslingsaktivitet hegnet om og verdsatt, eller anses varsling som manifestasjon av upålitelighet og noe som bringer bedriften i vansker?
 
-Korrupsjon
+*Virkelighetsoppfatninger* er de antakelser organisasjonsmedlemmene har om bedriften, om de ansatte og om daglig fungering, for eksempel om man opplever bedriften som høy-effektiv eller som en kultur preget av slapphet og lite effektivitet. De virkelighetsoppfatninger personer har om bedriften, blir en del av organisasjonskulturen, for eksempel at «hos oss er det farlig å varsle».
 
-4
+Ledere har en stor innvirkning på dannelsen av en organisasjonskultur, særlig ledere som har etablert en virksomhet. En organisasjonskultur blir opprettholdt ved at nykommere blir opplært i gjeldende praksis, «slik gjør vi det her hos oss». En kultur kan også ha dysfunksjonelle sider, som for eksempel dårlig håndtering av varsling og av varslere. Det vil kunne fungere som et negativt læringssignal overfor hele organisasjonen, om at varsling er risikabelt, det er ikke den enkeltes ansvar å gi beskjed. Det kan skje det som sosialpsykologene kaller for en ansvarspulverisering.
 
-1
+1.  **Konsekvenser av å varsle**
 
-Brudd på lovpålagt taushetsplikt
+    1.  **Varsling og mottak av varsel**
 
-4
+Hvem man varsler til og hvordan den personen håndterer varselet, har stor betydning for om varselet blir fulgt opp, men også for om varsleren blir møtt med sanksjoner.[^334] [^335] Derfor er det viktig at ledere er skolerte og har kunnskap om varsling.
 
-1
+Man kan få inntrykk av at det er stor risiko forbundet med å varsle, uansett omstendigheter. Det er imidlertid størst sjanse for at man blir møtt med represalier om man varsler om kritikkverdig atferd utført av toppledelsen, eller varsler om noe som egentlig er ulovligheter som gjennomsyrer hele organisasjonskulturen. Dersom man varsler mot personer lengre nede i systemet, er det mindre sjanse for at man rammes av represalier eller trakassering, enn når man varsler om organisasjonskriminalitet fra ledelsens side.[^336] Denne forskjellen med hensyn til hva man varsler om og til hvem og forskjeller i grad av negative sanksjoner ble også funnet i en større norsk studie om varsling.[^337]
 
-Trakassering på bakgrunn av kollegers etnisitet/livssyn
+Varslingen kan være til en person innad i organisasjonen, vanligvis en leder, men kan også være gitt til noen utenforstående, for eksempel en offentlig instans. Det regnes alltid som forsvarlig varsling i henhold til arbeidsmiljøloven når man varsler til en av kontrollinstansene det norske statsapparatet består av. Eksempler på slike kontrollinstanser er Mattilsynet og Arbeidstilsynet.
 
-3
+Varselet kan tas til følge, og det kritikkverdige kan opphøre. Den omvarslede kan bli møtt med sanksjoner og i verste fall bli straffeforfulgt. Det kan også skje at varselet ignoreres, eller i hvert fall ikke tas til følge. Grunner til at et varsel blir ignorert, kan dreie seg om makt og innflytelse, der den sterkeste «vinner». Varsleren kan bli møtt med en såkalt «drittpakke» der man spar opp negative ting vedrørende personens fortid, og man stiller spørsmålstegn ved personens troverdighet. Om ord står mot ord er det en viss sjanse for at man lytter til den som har mest innflytelse, personen som har mest legitim makt. [^338]
 
-1
+Ifølge litteraturen er det mindre sjanse for at vikarer og ny-ansatte varsler, altså personer med lite innflytelse, sammenlignet med personer som er mer etablerte i systemet.[^339]
 
-Svart arbeid/skatteunndragelse
+1.  **Negative reaksjoner og gjengjeldelse**
 
-2
+En norsk studie beregnet at om lag 16 prosent av varslingene ble møtt med negative reaksjoner.[^340] Studien fra 2008 viste at det er større sjanse for negative reaksjoner eller represalier, når man har foretatt såkalt «hard» varsling, eller det som Miethe kaller varsling om alvorlige organisasjonsmessige kritikkverdige forhold (corporate crime).[^341] Det var færre personer som ble møtt med sanksjoner når de hadde varslet om såkalte yrkesmessige kritikkverdige forhold, som vi gjerne kan kalle «myk» varsling. I den siste Fafo-undersøkelsen om varsling, som ble gjennomført i 2016, ble det funnet et prevalenstall på 25 prosent, altså at hver fjerde varsler ble møtt med negative reaksjoner.[^342] Se nærmere om norsk og internasjonal forskning i punkt 7.3.
 
-1
+Gjengjeldelse som følge av varsling kan defineres som «uønsket handling mot varsleren som en direkte respons på varslingen».[^343] Noen ganger er de negative reaksjonene så sterke at de må betegnes som mobbing. Gjengjeldelse omfatter både formelle og uformelle sanksjoner og kan ofte ha de samme kjennetegnene som mobbing, det vil si gjentakende og systematisk trakassering over tid. En typisk og sterk reaksjon er det vi kan kalle «den kalde skulders taktikk» – utfrysing, ostrasisme på fagspråket.[^344] Flere studier har påvist at ostrasisme er en vanlig sanksjonsmetode overfor varslere. De blir simpelthen oversett eller ignorert.[^345] [^346] I Fafo-undersøkelsen fra 2016 var det 29 prosent som ble refset og irettesatt av leder, 23 prosent ble fratatt arbeidsoppgaver, mens 16 prosent ble møtt med ostrasisme, utestengsel fra arbeidsfellesskapet.[^347]
 
-Bruk av ulovlige kjemikalier/ulovlig utslipp av miljøgifter
+Når varsling har blitt kartlagt i representative befolknings- eller yrkesundersøkelser, fremkommer et mer nyansert eller positivt bilde av varsling enn når det gjennomføres såkalte «offerundersøkelser», der personer har blitt utsatt for negativ behandling. Varslere kan også oppleve positive reaksjoner. I Fafo-undersøkelsen fra 2016 rapporterte 54 prosent om positive tilbakemeldinger fra ledelsen, mens 51 prosent fikk positive tilbakemeldinger fra kollegene.[^348]
 
-1
+Figur 7.3 gir en oversikt over positive og negative reaksjoner. I studien av Matthiesen, Bjørkelo og Nielsen fra 2008, ble det påvist at varslerne vurderte de positive reaksjonene de hadde blitt møtt med til å ha en klart svakere styrkegrad på en skala fra 1–10 enn de negative reaksjonene de hadde blitt møtt med.[^349] Dette stemmer godt overens med psykologisk forskning generelt sett, som har påvist at negative forhold generelt oppleves sterkere enn positive forhold, «bad is stronger than good».[^350]
 
-Annet
+Bjørkelo har studert sammenhengen mellom varsling, gjengjeldelse, mobbing på arbeidsplassen og helseproblemer.[^351] Varslere kan slite med fysiske og psykiske problemer i etterkant av det å ha varslet, slik som depresjon, angst, søvnproblemer og posttraumatiske stresslignende symptomer.[^352] Andre har også funnet at varslere kan rammes av harde negative reaksjoner i etterkant av å ha varslet.[^353] En overordnet konklusjon hos Bjørkelo var at varsling kan føre til rettslige tap og store personlige konsekvenser, selv om varslingsforholdet ble ansett som legitimt.[^354]
 
-19
+Studier viser også at enkelttilfeller av gjengjeldelse kan utvikle seg til mer langvarig mobbing på arbeidsplassen.[^355] Dette kan være med på å forklare de alvorlige helseproblemene hos den aktuelle intervjupersonen som ble påvist flere år etter at varslingen fant sted. Gjengjeldelse og bruk av ulike represalier skjer ifølge Miceli og Near særlig når a) varsleren mangler støtte hos ledelsen, b) når han eller hun «går ut», det vil si bruker offentlige kanaler som aviser og TV, c) forholdet som avdekkes er alvorlig, d) bedriften er «avhengig» av de uetiske aktivitetene, samt e) det finnes sikre bevis for de kritikkverdige forholdene.[^356] Det sistnevnte punktet viser at det å ha sikre bevis ikke nødvendigvis beskytter mot represalier.
 
-7
+Risikoen ved det å varsle har medført at man også har frarådet personer mot å gå inn i rollen som varsler.[^357] At varslere blir straffet, kan føre til en negativ form for organisasjonslæring, der andre ansatte i virksomheten stimuleres til å forbli passive om noe negativt inntreffer. Risikoen ved å varsle anses som for høy. Organisasjonslæring dreier seg om vedlikehold eller endring av praksis, for eksempel når det gjelder varsling. Praksis er noe som nykommere læres opp i. Medlemmene i en organisasjon kan ha en felles kollektiv hukommelse om hvordan organisasjonen håndterer varsling og følger opp personer som har varslet. Denne kollektive hukommelsen kan være negativ, for eksempel at man husker episoder der kritikkverdig atferd har blir meddelt til passive ledere, som har fulgt opp varslingen på en dårlig måte.
 
-Totalt
+Nærmere om gjengjeldelsesbegrepet
 
-299
+På bakgrunn av det vidtrekkende gjengjeldelsesbegrepet i arbeidsmiljøloven § 2 A-2 er det interessant å se hen til forskning knyttet til det amerikanske «Goverment Accountability Project» (GAP).[^358] Gjengjeldelse kan omfatte mange ulike handlinger, også i samme sak. I det amerikanske prosjektet har man identifisert ulike typer negative handlinger som typisk opptrer i kjølvannet av varsling. Det skilles her mellom henholdsvis direkte gjengjeldelseshandlinger rettet mot varsleren (retaliation) og tildekningshandlinger hvor det sentrale er å fjerne fokus fra innholdet det varsles om (cover ups).
 
-100
+De rene gjengjeldelseshandlingene har ifølge den amerikanske forskningen som mål å overvelde varsleren i en kamp om arbeidstakers «overlevelse», herunder undergrave varslerens troverdighet, karriere, familie, økonomi og tilregnelighet inntil vedkommende er brakt til taushet og forholdene det ble varslet om, er glemt («shoot the messenger»). Arbeidstaker kan imidlertid oppleve «angrep» på ytterligere ett nivå: Handlinger som aktivt «begraver» selve varselet ved å tildekke de omvarslede forhold («bury the message»).
 
-Kilde: Fafo 2018
+Typiske gjengjeldelseshandlinger mot varsleren som ble identifisert i det amerikanske prosjektet er at det fokuseres på varsleren fremfor på innholdet i varselet, negativ omdømmebygging rundt varsleren, bruk av direkte trusler, isolering, bruk av feller, bruk av vold, tap av arbeidsoppgaver, frysing av karriereutvikling og «svartelisting» i en hel bransje/industri. Typiske tildekningsstrategier som ble identifisert er bruk av ulovlige klausuler som pålegger taushetsplikt, bruk av formålsløse granskninger, skille ekspertise fra autoritet hvor det kun er de lojale som får fatte beslutninger og ikke ekspertene, institusjonalisering av interessekonflikter (manglende system for objektiv og habil saksbehandling av varsler), tilbakehold av informasjon, unngå å skrive referat, omskriving av fakta og ofring av «syndebukker».[^359]
 
-[Side 91]
+Konkret identifisering av typiske gjengjeldelseshandlinger, slik den amerikanske forskningen gir anvising på, samt skillet mellom de to typene handlinger, er nyttig for å forstå en bevissituasjon i en konkret varslingssak hvor det påstås gjengjeldelse. Skillet har likevel ingen betydning for hvilke handlinger som utgjør gjengjeldelse etter arbeidsmiljøloven § 2 A-2. Handlinger innenfor begge de to nevnte kategoriene kan etter forholdene rammes av gjengjeldelsesforbudet.
 
-NOU 2018: 6
-Varsling – verdier og vern
+1.  **Hjelper det å varsle?**
 
-91
+I flere av de norske undersøkelsene om varsling ble det spurt om varslingseffektivitet. Varslingseffektivitet er at det kritikkverdige forholdet opphører, enten fullt og helt, eller i hvert fall delvis.[^360] Annenhver varsling, 51 prosent, førte til ønsket resultat.[^361] Effektivitetstallene varierer i ulike undersøkelser mellom 59 og 36 prosent.[^362] I en undersøkelse der ulike fagforbund sammenlignes, varierer imidlertid tallene mellom 43 prosent (Norsk Sykepleierforbund) til så lavt som 24 prosent (Politiets Fellesforbund). Det er bekymringsfullt dersom varsling fremstår ineffektivt, eller at tallet på såkalte vellykkede varslinger viser en nedadgående tendens, som Trygstad tar opp i sitt notat.[^363] Se nærmere om norsk og internasjonal forskning i punkt 7.3.
 
-Kapittel 7
+En vellykket varsling vil være der varsleren oppdager noe kritikkverdig og gir beskjed om dette til en leder som følger opp med tiltak for å bringe det kritikkverdige til opphør. Et eksempel på et varsel vil være å rapportere til ledelsen at man mener å ha observert en kollega bli mobbet på jobben, og dette vil personen bidra til å stoppe. Et annet varsel kan være at man har sett gjentatte brudd på sikkerhetsinstrukser, og det ikke har nyttet å få personene det gjelder til å stoppe med sin skjødesløse atferd. På en ferge var det for eksempel en tung metallsikkerhetsdør som alltid skulle være lukket under overfart, for å holde to seksjoner atskilt. Denne ble imidlertid holdt åpen, ellers ville mannskapet måtte gå omveier når de skulle utføre sitt arbeid. En av mannskapet aksepterte imidlertid ikke at døren ble holdt ulovlig åpen, og varslet oppover i systemet.
 
-I Fafos undersøkelse fra 2016 er destruktiv
-ledelse, mobbing og trakassering, brudd på etiske
-retningslinjer og forhold som kan medføre fare for
-liv og helse blant de kritikkverdige forholdene
-som ble hyppigst observert. I den andre enden av
-skalaen finner man økonomiske misligheter som
-korrupsjon og skatteunndragelser. Tabell 7.2 gir
-en oversikt over hvilke forhold det blir varslet
-hyppigst om.40
-I 2016 la Fafo også frem en rapport om varsling i sju fagforbund.41 Andelen som hadde observert kritikkverdige forhold de siste tolv månedene
-varierte nokså mye mellom de ulike forbundene.
-Mens 32 prosent av respondentene fra Sykepleierforbundets medlemmer hadde gjort slike observasjoner, var det 24 prosent av respondentene fra
-Juristforbundets medlemmer som svarte det
-samme. I Fafo 2017 I uttales følgende:
+Som vist vil varslingen oftest skje internt. Om dette viser seg nytteløst, og det kritikkverdige er av tilstrekkelig alvorlighetsgrad, vil varsleren gå eksternt. Ekstern varsling var tilfellet da en lege meldte en kollega til Helsetilsynet for det legen mente var brudd på forbudet om barmhjertighetsdrap.[^364] Etter denne varslingen mot sin kollega følte legen seg tvunget til å slutte i jobben på grunn av en uholdbar arbeidssituasjon, der han følte seg mobbet og frosset ut av legestanden.[^365]
 
-variasjoner mellom ulike yrker og næringer. Figur
-7.2 viser at yrkesgruppene som oppgir å ha observert kritikkverdige forhold i størst grad er vernepleiere og sosialarbeidere (30 prosent), lege o.l.
-og politi/vakt o.l. (begge 28 prosent) og skipsbefal/flygere (27 prosent). Yrkene renholder (7 prosent), metallarbeider, revisor, finansrådgiver (alle
-8 prosent) har i minst grad lagt merke til kritikkverdige forhold på jobb.
-Figur 7.3 viser at det er særlig i næringene
-overnatting/servering, helse- og sosialtjenester
-og forretningsmessig tjenesteyting at kritikkverdige forhold har blitt observert. I omsetning og
-drift av eiendom, finans og forsikring og i faglig,
-vitenskapelig og teknisk tjenesteyting forekommer dette i mindre grad.
+Saken viser at varslere kan bli møtt med gjengjeldelse selv om varslerens innsats har medført systemendringer i etterkant. Varsleren på Bærum sykehus opplevde dette. Helsetilsynet skjerpet regelverket rundt livsforlengende behandling, og den omvarslede legen fikk en skriftlig advarsel.[^366]
 
-Forskning viser også at omfanget av observerte kritikkverdige forhold varierer, blant
-annet etter bransjer, virksomheter, hvilke
-gruppe arbeidstakere som besvarer undersøkelsene og hvilke typer kritikkverdige forhold
-respondentene blir forelagt når de besvarer
-undersøkelser.42
+Andre ganger kan varslere sparkes fra jobben eller bli utsatt for nedbemanning på grunn av sin innsats. Per-Yngve Monsen opplevde dette da han varslet ledelsen i Tyskland om at Siemens Business System overfakturerte Forsvaret.[^367] Etter arbeidsmiljøloven er det arbeidsgiver som har bevisbyrden med hensyn til å sannsynliggjøre at for eksempel en slik nedbemanning som Monsen opplevde, ikke hadde noe å gjøre med varslingen.
 
-I fire store norske undersøkelser som har vært
-gjennomført blant arbeidstakere på tvers av bransjer og sektorer, har arbeidstakerne som hadde
-observert kritikkverdige forhold blitt spurt om de
-varslet. Undersøkelsene er gjort mellom 2006 og
-2016 og tallene varierer fra 53 prosent til 78 prosent, se tabell 7.3. I den siste levekårsundersøkelsen om arbeidsmiljø fra SSB, LKU 2016, svarer 75
-prosent at de varslet om observerte kritikkverdige forhold. En viktig forklaring på likheter og
-forskjeller i varslingsaktivitet er trolig at det brukes ulike definisjoner, blant annet av hva som er
-kritikkverdige forhold, hva som er varsling, i tillegg til ulik formulering av spørsmålene. I levekårsundersøkelsene var spørsmålsstillingen «sa du
-fra», mens i undersøkelsene i regi av Fafo ble
-begrepet «varsling» brukt.46 Det er grunn til å tro
-at disse begrepene oppfattes forskjellig hos dem
-som har svart. Varsling kan nok oppfattes som en
-mer alvorlig handling enn å «si fra». Dette kan
-være noe av forklaringen på at andelen varslere er
-høyere i levekårsundersøkelsen.
-Undersøkelsen som er gjort blant medlemmene i konkrete fagforbund, viser nokså store forskjeller: 65 prosent av respondentene fra medlemmene i Sykepleierforbundet varslet, mens det
-
-Undersøkelser fra andre land viser det samme bildet. I en amerikansk undersøkelse blant internrevisorer hadde 80 prosent observert kritikkverdige
-forhold, mens andelen var 37 prosent i en undersøkelse gjort blant sivile og militære arbeidstakere på en amerikansk militærbase.43 I en australsk undersøkelse fra 2008 ble forekomsten av
-kritikkverdige forhold undersøkt blant 7600 statlige ansatte. Blant disse var andelen som hadde
-vært vitne til, avdekket eller opplevd kritikkverdige forhold om lag 35 prosent årlig.44 Forskjellene i resultatene fra en sammenlignende studie
-om kritikkverdige forhold og varsling i ulike land,
-viser at kulturelle forskjeller mellom ulike land og
-arbeidsplasser også har betydning for varslingsprosesser.45
-Tall fra den siste levekårsundersøkelsen om
-arbeidsmiljø fra SSB (2016) viser at 20 prosent i
-kommunal sektor og 17,5 prosent i statlig sektor
-observerte kritikkverdige forhold, mens 14 prosent i privat sektor gjorde det samme. Det er store
-40
-
-Fafo 2017 I s. 32.
-Fafo 2016 II. Se også punkt 7.1.
-42
-Fafo 2017 I s. 35.
-43
-Se nærmere henvisninger i Fafo 2017 I s. 33 flg.
-44
-Brown (2008).
-45
-Miceli og Near (2013).
-41
-
-Hvor mange velger å varsle (varslingsaktivitet)
-
-46
-
-I levekårsundersøkelsene var spørsmålet om man hadde
-varslet formulert slik: «Sa du fra om noen av disse/denne
-handlingen(e) videre til noen som du mente kunne stoppe
-det?» Her ble kritikkverdig forhold definert som «handlinger som er så kritikkverdige at de burde stoppes». I
-Fafo-undersøkelsene var spørsmålet om man hadde varslet
-formulert slik: «Du har svart at du har opplevd/avdekket
-følgende kritikkverdige forhold (listet opp) de siste 12
-månedene som burde være stoppet. Varslet du om ett eller
-flere av disse forholdene?»
-
-[Side 92]
-
-92
-
-NOU 2018: 6
-
-Kapittel 7
-
-Varsling – verdier og vern
-
-30
-
-Vernepleier/sosialarbeider
-Politi/vakt o.l.
-Lege o.l.
-Skipsbefal/flyger
-Sykepleier
-Presisjonshåndverker
-Mekaniker
-Pleie- og omsorgsarbeider
-Anleggsarbeider
-Andre helserelaterte yrker
-Grunnskolelærer
-Leder,utdanning/helse
-Operatør industri
-Fysioterapeut o.l.
-Profesjonell kunstner
-Lektor/pedagog
-Sjåføryrker
-Kundeserviceyrker
-Lager-/transportmedarbeider
-Kokk, kjøkkenassistent
-Leder, industri/bygg
-Tømrer
-Alle yrker
-Leder, tjenesteyting
-Førskolelærer
-Rådgiver admin./samf./jus.
-Servitøryrker
-Ingeniør
-Barnehage-/skoleassistent
-Selger
-Elektriker o.l.
-Leder, andre sektorer
-Saksbehandler
-Butikkmedarbeider
-Kommunikasjonsyrker
-Kontormedarbeider
-Byggearbeider
-IKT-rådgiver/-tekniker
-Toppleder
-Bonde/fisker
-Salgsagent/megler
-Sivilingeniør o.l.
-Vaktmester
-Revisor, finansrådgiver
-Metallarbeider
-Operatør næringsmidler
-Renholder
-
-28
-28
-27
-23
-22
-21
-19
-19
-19
-19
-18
-17
-17
-17
-17
-16
-16
-16
-16
-15
-15
-15
-15
-14
-14
-14
-14
-14
-14
-14
-13
-13
-13
-13
-12
-12
-11
-11
-11
-10
-10
-10
-8
-8
-8
-7
-0
+Personer som blir møtt med represalier etter varsling, vil ofte utsettes for en negativ behandling eller sanksjoner som har visse fellestrekk. Donald Soeken var ansatt som sosialarbeider i USA, der han blant annet jobbet med personer som hadde varslet om kritikkverdige forhold. Disse hadde alle det til felles at de hadde blitt utsatt for tøffe sanksjoner i ettertid. Ekteparet Soeken beskrev en fasemodell for varsling, basert på erfaringene.[^368]
 
-5
+De sju trinnene i modellen (figur 8.2):
 
-10
+**\[:figur:figX-X.jpg\]**
 
-15
+1.  Fasemodell på varsling og sanksjoner mot varslere
 
-20
+Soeken og Soeken (1987)
 
-25
+Trinn 1) Oppdagelse av forholdet, som kan føre til sinne, sjokk eller en følelse av å bli sviktet.
 
-30
+Trinn 2) Varsleren reflekterer over om han eller hun skal si fra om forholdet (varsle). For mange er utsiktene til å konfrontere noen med at de har gjort noe ulovlig eller uetisk så truende at de får store søvnvansker, ifølge Soeken. Mange blir «besatt» av det kritikkverdige forholdet og av evalueringen av om man skal varsle eller ei.
 
-35
+Trinn 3) Konfrontasjon. Når beslutningen om varsling er tatt, er noe av stresset borte vedrørende uvissheten om hva man bør gjøre.
 
-Prosent
+Trinn 4) Gjengjeldelse. Har varsleren gitt beskjed helt åpenlyst, frykter han eller hun å bli møtt med gjengjeldelse, å bli straffet for å ha varslet. Gjengjeldelsen kan komme fra arbeidsgiver, ledere eller kolleger. Varsleren er som regel ikke forberedt på dette, selv om han eller hun kan ha fryktet gjengjeldelse på et tidligere stadium.
 
-Figur 7.2 Prosentandel som oppgir å ha observert at noen på jobben handlet kritikkverdig siste 12 mnd., etter
-yrke
-Kilde: SSB, LKU 2016
+Trinn 5) Den uavklarte tiden. Perioden som går fra det har blitt varslet til det blir en endelig løsning, kan oppleves som en lang og vanskelig tid og fører ofte med seg psykiske plager for varsleren. Hvis varsleren mister jobben i løpet av prosessen, kommer også økonomiske problemer som en følge. Skilsmisse, tap av ektefelle og kontakt med barn, venner og familie kan bli en realitet. Uten terapeutisk hjelp vil mange varslere forbli på dette trinnet.
 
-[Side 93]
+Trinn 6) Avklaring er for eksempel når saken er ferdig behandlet i domstolene, eller at varsleren slutter å forfølge den. Følelsesmessig opplever varslerne ofte både lettelse og skuffelse i denne fasen. De kan oppleve sorg hvis resultatet av en eventuell rettssak har vært utilfredsstillende, og kan da ha behov for en «sørgetid».
 
-93
+Trinn 7) Løsning kjennetegnes ved at varsleren har akseptert situasjonen og «kommet til seg selv». Personen klarer å legge bak seg det som har skjedd, og fortsette med sitt liv.
 
-NOU 2018: 6
-Varsling – verdier og vern
+Kjennetegn på saker som løses uten store konflikter
 
-Kapittel 7
+Det er lettere å unngå uforsonlige konflikter når toppledelse og selve organisasjonen som system ikke er involvert. Det er også lettere når de stridende parter har kunnskap om varsling og er etisk bevisste. Hvis virksomheten har etablerte varslingsrutiner som både de ansatte og deres ledere forholder seg til, vil sannsynligheten for destruktive konflikter minimeres.
 
-Overnatting/servering
+Skolering av tillitsvalgte og verneombud vil også være verdifullt. I likhet med personalorienterte ledere, som for eksempel transformasjonsledere som gir personlig oppfølgning til medarbeiderne, og LMX-ledere[^369] som behersker kombinasjonen mellom formell og uformell kommunikasjon med de ansatte, så vil også tillitsvalgte og verneombud kunne bidra med sosial støtte til varslere.[^370] [^371] Sosial støtte er verdifullt og vil kunne være stressdempende, også i stressituasjoner som innebærer varsling av kritikkverdig atferd.[^372] Verneombud og tillitsvalgte vil kunne bistå varslere og bidra til at den valgte fremgangsmåten for varsling fremstår minst mulig konflikteskalerende. Å holde varslingen unna offentligheten og i stedet løse problemene og utfordringene internt, kan være et eksempel på hva tillitsvalgte og verneombud kan bidra med i en situasjon der det har skjedd noe kritikkverdig.
 
-20
+De to australske forskerne Greene og Latting foreslår en fremgangsmåte for hvordan varslere bør gå frem, bestående av ti trinn (se boks 8.1).[^373] I hovedsak går rådene deres ut på at arbeidstakere bør varsle forsvarlig via formelle kanaler, sørge for at flere kommer til samme konklusjon som dem med hensyn til det kritikkverdige forholdet, samt dokumentere alt man gjør i forbindelse med varslingen.
 
-Helse-/sosialtjenester
+1.  **Råd til varslere**
 
-20
-19
+- Se an situasjonen og vurder om du er forberedt på å stå frem.
 
-Forretningsmessig tj.yting
-18
+- Start med kollegene som står for forseelsen(e).
 
-Undervisning
-Transport/lagring
+- Sørg for at fremgangsmåten din er forsvarlig.
 
-17
+- Anta at andre internt i organisasjonen er interessert.
 
-Off. administrasjon/forsvar/trygd
+- Samle bevis og støtte fra andre.
 
-17
-16
+- Dokumenter saksgangen nøye.
 
-Utvinning av råolje/naturgass
-Private tjenester ellers
+- Gå gjennom de formelle kanalene i virksomheten.
 
-15
+- Få råd fra folk som ikke er berørt i eller av saken, slik som utenforstående eksperter.
 
-Alle næringer
+- Få emosjonell støtte hos venner og gode kolleger.
 
-15
+- Gå eksternt som siste utvei.
 
-Bygge-/anleggsvirksomhet
+Greene og Latting (2004), modifisert av Bjørkelo, Matthiesen og Einarsen (2008).
 
-15
-14
+**\[Boks slutt\]**
 
-Kraft-/vannforsyning
-13
+Flere av rådene til Greene og Latting kan være nyttige for både interne og eksterne varslere, ikke minst det å dokumentere fremgangsmåte og å få råd og emosjonell støtte i prosessen.[^374] På den annen side kan det velmenende rådet om å gå eksternt som siste utvei, stoppe en varsler som ikke kan ta det kritikkverdige opp med den eller de det gjelder på grunn av fare for bevisforspillelse eller fordi forseelsene er en integrert del av virksomhetens drift. Noen ganger er det derfor nødvendig å gå utenfor virksomheten, et behov som først og fremst er ivaretatt gjennom adgangen til å varsle til tilsynsmyndigheter og andre offentlige myndigheter i arbeidsmiljøloven § 2 A-1.
 
-Varehandel/reparasjon av motorvogner
-Jord-/skogbruk/fiske
+For den som mottar varsel, er det viktig å huske på at varslerens hensikt i utgangspunktet er positiv for virksomheten.[^375] Varsleren er ansvarlig eller prososial.[^376] Den som mottar et varsel, har en stor mulighet til å bidra til at kritisk informasjon, ofte av stor betydning for virksomheten eller for samfunnet, kommer frem og kan lede til en ønsket utvikling. Det er viktig å sjekke om varsleren har konkrete eksempler, dokumentasjon eller bevis, slik at ikke varselet forblir diffust eller abstrakt. Man må skille mellom et varsel og udokumenterbare beskyldninger. Prinsippet om kontradiksjon må ivaretas, det vil si at den som beskyldes for klanderverdig atferd, må bli hørt og få anledning til å komme med sin versjon. Det er viktig at leder eller den som mottar varselet, møter varsleren med sympati eller empati og at man erkjenner at det å varsle ofte har vært en krevende beslutning, der personen er redd for konsekvensene for egen posisjon eller fremtid i organisasjonen. Varslingen må håndteres konfidensielt.
 
-12
+Det er viktig å gi varsleren tilstrekkelig tid, gjerne slik at mottaker av varselet og varsleren møtes ved mer enn én anledning. Varsleren forventer at leder, tillitsvalgt eller den som mottar varselet, er tydelig på hva man har tenkt å gjøre, hvordan man vil følge opp varselet, og at man som mottaker står ved sitt ord. Dersom informasjonen eller problemet man får seg forelagt er omfattende eller komplekst, kan det være lurt å be om betenkningstid med hensyn til hvordan man har tenkt å handle. Det anbefales skriftlighet med hensyn til konkrete avtaler man blir enige om for hvordan man vil følge opp. Det er vanlig høflighet og folkeskikk å takke personer som gjør noe prisverdig.
 
-Industri
+1.  **Eksempelsaker**
 
-12
-11
+    1.  **Monika-saken**
 
-Informasjon/kommunikasjon
-10
+Robin Schaefer varslet i slutten av desember 2013 første gang om det han vurderte som alvorlige mangler ved etterforskningen som ble gjort i forbindelse med at åtte år gamle Monika Sviglinskaja ble funnet død i hjemmet sitt på Sotra 14. november 2011.[^377] Schaefer varslet flere ganger internt om sine vurderinger uten at saken ble gjenåpnet. Han redegjorde også for vurderingene sine for Monikas families bistandsadvokat. Schaefer ble sykmeldt flere ganger i perioden på grunn av den påvirkningen den interne behandlingen av saken og den manglende viljen til å gjenoppta saken hadde på ham.
 
-Uoppgitt
-Faglig/vitenskapelig/tekn. tj.yting
+Som følge av kontakten med Schaefer begjærte bistandsadvokaten saken gjenåpnet i april 2014, og i mai 2014 slo Bergens Tidende opp saken. Politiet besluttet at saken skulle gjenåpnes dagen etter oppslaget.[^378] I etterkant uttalte Schaefer seg til media om manglene ved etterforskningen og den interne håndteringen av varslene hans, og ga også ut en bok om saken og sine egne opplevelser i 2015.[^379] På denne måten varslet han også allmennheten om forholdene.
 
-9
+I mars 2015 ga Justis- og beredskapsdepartementet advokatfirmaet Wiersholm i oppdrag å undersøke arbeidsrettslige forhold knyttet til Schaefers varslingssak. Wiersholm leverte sin rapport i juni 2015.[^380] I rapporten konkluderte advokatfirmaet med at Robin Schaefer ved sin opptreden hadde varslet om kritikkverdige forhold etter arbeidsmiljøloven § 2-4, og at varslene til politimesteren, bistandsadvokaten, pressen og allmennheten var forsvarlige og dermed lovlige i henhold til loven. Videre konkluderte rapporten med at Schaefer var utsatt for ulovlig gjengjeldelse ved at Schaefers arbeidsmiljø ikke forble fullt forsvarlig og at han gradvis ble marginalisert, noe som til slutt førte til at han ble sykmeldt.
 
-Finans/forsikring
+På bakgrunn av Wiersholm-rapporten, la Justis- og beredskapsdepartementet til grunn at Schaefer hadde varslet om alvorlige, kritikkverdige forhold på en forsvarlig måte, og at han hadde blitt utsatt for ulovlig gjengjeldelse. Departementet utbetalte på denne bakgrunnen 200 000 kroner til Schaefer i oppreisningserstatning.
 
-9
-6
+Saken ble også tatt inn for Spesialenheten for politisaker, som skulle vurdere om det hadde skjedd straffbare brudd på arbeidsmiljøloven. Spesialenheten henla saken som intet straffbart forhold. Denne avgjørelsen ble påklaget til Riksadvokaten, som i sin avgjørelse 5. oktober 2016 konkluderte med at det kunne reises kritikk mot politidistriktets samlede håndtering av Schaefer, men at forsømmelsene ikke var graverende nok til at noen kunne straffes for brudd på arbeidsmiljøloven. Riksadvokaten drøftet forholdet mellom rapporteringsplikten og varslingsregelverket og la til grunn at det siste først ble aktualisert ved sviktende oppfølging av rapportering i henhold til rapporteringsplikten. Det ble samtidig konkludert med at kravene til arbeidsgivers oppfølging i det alt vesentlige er sammenfallende enten det er snakk om rapportering eller varsling. Etter Riksadvokatens syn var Schaefer å anse som varsler da han uttalte seg til media i september 2014.
 
-Omsetning/drift av eiendom
-0
+1.  **Unibuss-saken**
 
-5
+Jan Erik Skog var ansatt som busselektriker i Unibuss AS og satt i selskapets styre som ansattrepresentant. Skog varslet fra slutten av 90-tallet gjennom mange år gjentatte ganger om forhold han oppfattet som kameraderi og korrupsjon i det kommunale busselskapet.[^381] Skog tok først saken opp internt i selskapet, så med morselskapet, uten å nå frem med bekymringene sine. Skog og Rune Aasen, leder av Oslo Sporveiers Arbeiderforening, utarbeidet en rapport i samarbeid med Erling Folkvord fra partiet Rødt. Folkvord la rapporten frem for kommunens kontrollutvalg, som ba kommunerevisjonen om å undersøke påstandene. Kommunerevisjonen jobbet med saken i om lag ett år, og deretter ble rapporten presentert for byråden for miljø og samferdsel.
 
-10
+Saken ble imidlertid ikke fulgt opp før det i 2011 ble kjent at en person i et selskap som produserer busser, innrømmet å ha betalt flere millioner kroner til innkjøpssjefen i Unibuss.
 
-15
+I september 2011 ble de første pågripelsene i forbindelse med korrupsjonssaken gjort, og en rekke personer ble dømt for forhold i tilknytning til korrupsjonssaken.[^382]
 
-20
+Skog har ikke uttrykt at han har opplevd gjengjeldelse i forbindelse med varslingen, men har uttalt til media at «veggen han møtte hver gang han slo alarm, tok hardt på opp gjennom årene».[^383]
 
-25
-Prosent
+Stiftelsen Fritt Ords pris for 2015 ble tildelt Robin Schaefer og Jan Erik Skog, som varslet i Unibuss-saken, for «deres modige innsats for å avdekke kritikkverdige forhold i norsk arbeidsliv».[^384]
 
-Figur 7.3 Prosentandel som oppgir å ha observert at noen på jobben handlet kritikkverdig siste 12 mnd., etter
-næring
-Kilde: SSB, LKU 2016
+1.  **Norweld-saken**
 
-bare gjaldt for 38 prosent av respondentene fra
-Juristforbundets medlemmer.47
-Studier gjort i andre land viser at omtrent halvparten av dem som har observert noe kritikkverdig velger å varsle. Det er imidlertid store variasjoner, blant annet avhengig av om de aktuelle
-arbeidstakerne har varslingsplikt eller ikke. En
+Pål Stenstad ble i mars 2007 ansatt som tekniker i Norweld Control Services AS, som drev med industriell radiografi.[^385] Relativt kort tid etter at han hadde startet i jobben sin, oppdaget han en rekke kritikkverdige og ulovlige forhold ved virksomheten. Dette dreide seg blant annet om at selskapet ikke fulgte strålevernforskriften og forskrift om transport av farlig gods og også drev med juks med registrering av stråling.
 
-gjennomgang av undersøkelser gjort i USA over
-en lengre tidsperiode viser for eksempel at bare ti
-prosent av psykiatere og universitetsprofessorer
-varsler, mens 90 prosent av ledere av interne revisjonsenheter, som gjerne har varslingsplikt, gjør
-det samme.48 I en større kartlegging der mer enn
-13 000 statlige ansatte i USA tok del, var det 48
+Stenstad tok opp de kritikkverdige forholdene med sin avdelingsleder, som ikke var enig i hans vurdering av situasjonen i virksomheten. Deretter tok han forholdene opp med administrerende direktør ved hovedkontoret i Stavern, og til slutt med Arbeidstilsynet.
 
-[Side 94]
+Etter at han tok opp forholdene med sin leder, hevdet Stenstad at han ble utsatt for trakassering, mobbing, sjikanering og utfrysning fra avdelingslederen. Situasjonen førte til at han ble sykmeldt. Stenstad fremsatte krav om erstatning og oppreisning etter arbeidsmiljøloven § 2-5, jf. § 2-4 for gjengjeldelse etter varsling.
 
-94
+Stenstad nådde ikke frem med erstatnings- og oppreisningskravet sitt i tingretten, men anket saken videre til lagmannsretten. Lagmannsretten la til grunn at Stenstad hadde varslet om til dels svært kritikkverdige forhold på arbeidsplassen. Videre la retten til grunn at Stenstad ved å først ta opp forholdene med sin nærmeste leder, deretter med administrerende direktør, før han så gikk til Arbeidstilsynet, hadde «gått frem på en helt korrekt måte» og dermed varslet forsvarlig.[^386] Etter lagmannsrettens syn hadde Stenstad også blitt utsatt for ulovlig gjengjeldelse i form av trakassering som følge av at han varslet om de kritikkverdige forholdene. I tillegg til erstatning for faktisk påløpte utgifter, herunder utgifter til juridisk bistand og lidt inntektstap, tilkjente lagmannsretten ham på denne bakgrunnen 100 000 kroner i oppreisningserstatning.
 
-NOU 2018: 6
+1.  **Holmestrand kommune**[^387]
 
-Kapittel 7
+En kvinnelig ansatt ved et bofellesskap i Holmestrand kommune varslet i 2007 virksomhetslederen om hvordan lederen i bofellesskapet forholdt seg til beboere og ansatte.[^388] Kvinnen tok opp forholdene på vegne av seg selv og flere ansatte i bofellesskapet. Forholdene hun tok opp var blant annet at lederen kom med nedsettende kommentarer til både brukere og ansatte, at enkelte ansatte følte seg mobbet, trakassert og baksnakket og at flere kolleger sykmeldte seg på grunn av vedkommendes lederstil.
 
-Varsling – verdier og vern
+I etterkant av at den kvinnelige ansatte sa fra om disse forholdene til virksomhetslederen, ble ansettelsesforholdet hennes avsluttet. Virksomhetslederen sørget også for at hun ble utestengt fra arbeidsoppdrag i samtlige av kommunens boliger, og kommunen stoppet aktivt kvinnens forsøk på å få andre kommunale stillinger. Som følge av dette, fremsatte kvinnen krav om erstatning og oppreisning blant annet på grunn av gjengjeldelse etter varsling.
 
-Tabell 7.3 Omfang av varslingsaktivitet i ulike undersøkelser. Prosent
-Undersøkelse
+I forbindelse med behandlingen av kravet i lagmannsretten la domstolen til grunn at kvinnen hadde varslet da hun tok opp lederens lederstil, og at det ikke kunne være til hinder for å anse henne som varsler at arbeidsgiveren allerede var kjent med hele eller vesentlige deler av de kritikkverdige forholdene. Videre sa lagmannsretten at kvinnen hadde varslet forsvarlig ved at hun hadde stått frem som talsperson for de ansatte om forholdet overfor ledelsen i møter. Lagmannsretten la videre til grunn at kommunen hadde utsatt kvinnen for ulovlig gjengjeldelse ved å aktivt utestenge henne fra å få oppdrag og nye ansettelser i kommunen.
 
-LKU 2006
+På denne bakgrunnen kom lagmannsretten til at kvinnen hadde rett på erstatning og oppreisning som følge av den ulovlige gjengjeldelsen. I tillegg til erstatning for inntektstap i to år, ble kvinnen tilkjent 150 000 kroner i oppreisningserstatning.
 
-Fafo 2010
+1.  **Eksempler på varslingsrutiner**
 
-Fafo 2014 I
+    1.  **Innledning**
 
-LKU 2016
+Arbeidsmiljøloven § 2 A-3 pålegger virksomheter som har behov for det eller som jevnlig sysselsetter minst fem arbeidstakere å utarbeide rutiner for intern varsling. Bestemmelsen angir rammene for hva rutinene skal inneholde, men den nærmere utformingen og innholdet i rutinene må tilpasses den enkelte virksomheten. I det følgende gis det en gjennomgang av ulike varslingsrutiner innenfor henholdsvis statlig, kommunal og privat sektor. Gjennomgangen er kun ment som en illustrasjon på hvordan varslingsrutiner kan se ut, og vi har særlig sett på hvordan rutinene behandler følgende tema:
 
-Fafo 2016 I
+- forbudet mot gjengjeldelse
 
-Fafo 2017 II
+- muligheten til å varsle anonymt
 
-Andel som har
-rapportert (varslet)
-om kritikkverdige
-forhold
+- informasjon til varsleren underveis i prosessen
 
-78 %
+- habilitet
 
-53 %
+- hvorvidt det er etablert en ekstern varslingskanal
 
-62 %
+  1.  **Statlig sektor**
 
-75 %
+Forsvarssektoren
 
-53 %
+Forsvarsdepartementet har utarbeidet retningslinjer for varsling i forsvarssektoren.[^389] Retningslinjene er en punktvis oversikt over hvordan man kan eller bør gå frem i forbindelse med varsling, hvordan varsler skal håndteres og følges opp mv. Vedlagt retningslinjene er en varslingsplakat, som gir en kortfattet oversikt over relevant informasjon i forbindelse med varsling. Også skjema for varsling og en protokoll for mottak av varsel, som som hovedregel skal benyttes i forbindelse med varslinger, er lagt ved retningslinjene. Retningslinjene åpner for varsling fra forsvarspersonell, konsulenter, innleide, håndverkere, eksterne personer og andre uten direkte tilknytning til virksomhetene.
 
-60 %
+Retningslinjene for varsling i forsvarssektoren behandler vernet mot gjengjeldelse i punkt 4.1. Her fremgår det at saksbehandleren som mottar varselet, har et særlig ansvar for å sørge for at gjengjeldelse ikke skjer. Varslingsmottaker skal også vurdere og avklare behov for å iverksette tiltak for å forhindre gjengjeldelse. Hva som regnes som gjengjeldelse, er nærmere definert i retningslinjene som blant annet fratakelse av arbeidsoppgaver, omplassering, forbigåelse, mobbing, trakassering og andre negative reaksjoner. Det presiseres at «saklig motargumentasjon og fremføring av fakta som svekker eller avkrefter påstander om kritikkverdige forhold» ikke regnes som gjengjeldelse. Den vedlagte protokollen for mottak av varsel har et punkt om tiltak for å forhindre gjengjeldelse mot varsleren som skal fylles ut av den som håndterer varselet.
 
-Antall respondenter
-i undersøkelsen
+I punkt 3.10 i retningslinjene omtales anonym varsling. Det fremgår at selv om anonym varsling kan «gjøre det enklere å ta opp kritikkverdige forhold», bør dette «benyttes unntaksvis», ettersom åpenhet normalt vil sikre en bedre saksgang og bedre resultat for involverte parter. Det presiseres videre at en varsler aldri kan garanteres komplett anonymitet, ettersom domstolen vil kunne kreve opplysninger om varslerens identitet fra forvaltningen. Av punkt 5.1 fremgår det at også anonyme varsler skal tas alvorlig og behandles, og at undersøkelser for å identifisere anonyme varslere ikke skal forekomme. Av punkt 5.1 fremgår også at saksbehandleren som mottar varselet, skal vurdere hvem som skal involveres i den videre behandlingen av saken, og at det kan bli aktuelt å oversende varselet til en varslingsenhet eller andre steder, for eksempel på grunn av egen habilitet.
 
-9 200
+Det fremgår av punkt 5.8.2 i retningslinjene at saksbehandlere som mottar varselet skal orientere varsleren om at varselet er mottatt, at saken vil bli behandlet og hva som er forventet saksbehandlingstid. Videre fremgår det at varsleren som hovedregel skal orienteres om utfallet av saken, og at det må vurderes om varsleren har rett på informasjon etter personopplysningsloven.
 
-6 000
+Det er etablert egne varslingskanaler for de ulike virksomhetene i forsvarssektoren, i tillegg til at alle kan varsle til Forsvarsdepartementets varslingsenhet. Forsvarsdepartementet har ikke etablert en ekstern varslingskanal.
 
-2 152
+Utenrikstjenesten
 
-7 791
+Utenriksdepartementet har utarbeidet en varslingsplakat for varsling om kritikkverdige forhold i utenrikstjenesten.[^390] Varslingsplakaten er en skjematisk oversikt over blant annet hva et varsel bør inneholde, i tillegg til retningslinjer for hvordan og til hvem man kan varsle. Det fremgår at alle ansatte, hospitanter, praktikanter, konsulenter og også personer uten tilknytning til utenrikstjenesten kan varsle etter retningslinjene. I tillegg til varslingsplakaten, har Utenrikstjenesten utarbeidet rutiner for håndtering av nærmere angitte kritikkverdige forhold. Det gjelder ulike former for avhengighet,[^391] konflikter, trakassering eller annen utilbørlig opptreden[^392] og økonomiske misligheter.[^393]
 
-3 155
+På varslingsplakaten konstateres det kort at gjengjeldelse som følge av varsling er forbudt, mens dette utdypes noe i retningslinjene for håndtering av konflikter, trakassering eller annen utilbørlig opptreden punkt 7, hvor det fremgår at som ulovlig gjengjeldelse regnes «fratakelse av arbeidsoppgaver eller forbigåelse ved mulighet for faglig eller lønnsmessig utvikling, mobbing eller trakassering, alle andre negative sanksjoner som er en følge av varslingen», og at slik gjengjeldelse ikke skal skje fra verken ledere eller medarbeidere.
 
-1 232
+Retningslinjene nevner flere steder at det er mulig å varsle anonymt.
 
-Hele
-Hele
-Hele
-Hele
-Hele
-arbeidslivet arbeidslivet arbeidslivet arbeidslivet arbeidslivet
+Varslingsplakaten slår fast at et prinsipp for håndtering av varsel i utenrikstjenesten er informasjon til partene og ivaretakelse av de berørte parter. Videre fremgår det av plakaten at varsleren skal, hvis det er mulig, ha en bekreftelse på at varslingen er mottatt, og at retten til informasjon for øvrig følger av offentleglova, forvaltningsloven og personopplysningsloven. Det følger av retningslinjene for håndtering av mistanke om økonomiske misligheter punkt 4 at Sentral kontrollenhet, en sentral kontrollenhet i Utenriksdepartementet for saker hvor det varsles om og behandles mistanke om økonomiske misligheter, skal bekrefte at varselet er mottatt. Retningslinjene for håndtering av konflikter, trakassering eller annen utilbørlig opptreden punkt 7 slår fast at partene skal holdes løpende orientert om sakens utvikling, når saksbehandlingen planlegges sluttført og om utfallet av vurderingen.
 
-Kommuner
-og fylkeskommuner
+Det følger av varslingsplakaten at habilitet skal vurderes etter forvaltningslovens regler, og at arbeidsgiveren må foreta en konkret vurdering av hvem, interne eller eksterne, som skal håndtere saken, alt etter hvilken type sak og hvem varslingen er rettet mot. Retningslinjene for håndtering av mistanke om økonomiske misligheter punkt 4 slår fast at Sentral kontrollenhet i utgangspunktet håndterer varslingssaker om mistanke om økonomiske misligheter, men det presiseres at det ofte vil være nødvendig å engasjere et uavhengig, internasjonalt anerkjent revisjonsfirma i forbindelse med slike varsel.
 
-Omfang
+Utenriksdepartementet har opprettet en ekstern varslingskanal som kan benyttes av enhver i forbindelse med varslinger.
 
-frem at 39 prosent ikke varsler på bakgrunn av
-frykt for ubehageligheter.51 Figur 7.4 gir oversikt
-over hvordan svarene fordeler seg i undersøkelsen Fafo gjorde i 2016.52
-Internasjonal forskning tyder på at det til dels
-er de samme årsakene som oppgis som begrunnelse for at det ikke varsles i andre land, som i
-Norge. Forskningen viser imidlertid at jo mer
-alvorlig og hyppig det kritikkverdige forholdet er,
-jo mer varsles det.53
-I internasjonal forskning trekkes det frem tre
-forhold som bidrar til et godt varslingsklima og
-som dermed øker varslingsaktiviteten:
-– at det å varsle utløser undersøkelser
+1.  **Kommunal sektor**
 
-prosent av de som hadde vært vitne til kritikkverdige forhold som varslet om det kritikkverdige.49
-En studie av offentlig ansatte i Norge, USA og
-Australia viste at mellom 40 og 83 prosent i det
-norske utvalget hadde vært vitne til kritikkverdig
-atferd. Prosenttallet varierte med hva man hadde
-vært vitne til, og hele 76 prosent hadde varslet.
-Tilsvarende tall for varslingsaktivitet for Australia
-var 39 prosent, og for USA varierte prosenttallet
-mellom 26 og 48 prosent.50
-Frykt for represalier er den viktigste grunnen
-til at arbeidstakere som har observert kritikkverdige forhold ikke varsler. I Fafo 2016 I går det
-47
+Oslo kommune
 
-Fafo 2016 II s. 42.
-Fafo 2017 I s. 42 flg.
-49
-Matthiesen (2016).
-50
-Miceli og Near (2013).
-48
+Oslo kommune har en lokal og en sentral ordning for varsling. Den lokale er ment å være hovedkanalen for ansatte, mens den sentrale ordningen er åpen for alle, herunder innbyggere, leverandører, brukere av tjenester og ansatte.[^394] I det følgende omtales kun den sentrale ordningen.
 
-51
+Kommunens sentrale varslingsordning er en ekstern varslingskanal som har som formål å gjøre det enkelt og trygt å varsle om korrupsjon, misligheter og andre lovbrudd i Oslo kommune eller mot Oslo kommune.[^395] Informasjon om den sentrale varslingsordningen ligger på Oslo kommunes nettsider.
 
-Fafo 2017 I s. 41 flg. med videre henvisninger.
-Ibid.
-Ibid.
+Nettsidene omtaler ikke forbudet mot gjengjeldelse ved varsling etter arbeidsmiljøloven.
 
-52
-53
+Det fremgår av oversikten over den sentrale ordningen at man kan velge å varsle anonymt og at dette i så fall ikke vil gå utover behandlingen av varselet. Kommunen opplyser om at dersom man ikke kan identifisere enkeltpersoner eller taushetsbelagte forhold, vil varselet kunne bli offentlig etter begjæring om innsyn.
 
-Tror ubehaglighetene ved å melde fra ville blitt for store
+Videre fremgår det at varsel blir behandlet av et sentralt varslingsråd, som beslutter videre prosess, og at oppfølgingen av varselet vil avhenge av hvilke forhold varselet gjelder. Den enkelte vil få informasjon om hvilken oppfølging varselet vil få og informasjon når saken er ferdig behandlet. Dersom det er gjort funn i saken, vil varsleren som hovedregel få en kort orientering om dette.
 
-39
+Sandnes kommune
 
-Har sett at det å melde i fra medfører store personlige
+Sandnes kommune har utarbeidet varslingsrutiner som er tilgjengelig sammen med kommunens etiske retningslinjer.[^396] I tillegg er det utarbeidet et skjema man kan bruke for å varsle. Rutinene gjelder for medarbeidere i Sandnes kommune.
 
-28
+Av rutinene følger det at arbeidstakere som varsler, ikke skal utsettes for gjengjeldelse som følge av varselet. Det presiseres at «enhver ugunstig behandling som er en reaksjon på ytringen» i utgangspunktet skal anses som gjengjeldelse. Videre følger det at forbudet først og fremst vil gjelde «formelle sanksjoner som oppsigelse, suspensjon og avskjed samt ordensstraff hjemlet i tjenestemannsloven», men at også «uformelle sanksjoner som for eksempel endring i arbeidsoppgaver, utfrysning, interne overføringer og såkalt tjenestelig tilrettevisning» vil være omfattet av forbudet. Videre følger det av retningslinjene at forbudet ikke utelukker at arbeidsgiver kommer med motytringer.
 
-Det ville ødelegge mine karrieremuligheter
+Retningslinjene legger opp til at man kan varsle anonymt, men varslere oppfordres om å oppgi sin identitet av hensyn til oppfølging av saken.
 
-20
-
-Var usikker på om det faktisk var et kritkkkverdig forhold
-
-20
-
-Andre varslet
-
-17
-
-Jeg er ikke modig nok
-
-16
-
-Kjente ikke til varslingsrutinene
-
-15
-
-Vil ikke sladre på kolleger
-
-14
-
-Det var ikke mitt bord
-
-13
-
-Vil ikke sladre på leder(e)
-Det ville være i strid med min arbeidsavtale/lojalitetsplikten
-
-10
-3
-
-Forholdet ble oppdaget for kort tid siden,
-1
-og jeg planlegger å varsle 0
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-Figur 7.4 Begrunnelser for hvorfor man ikke har varslet. Flere svar mulig. N = 173. Prosent
-Kilde: Fafo 2016 I
-
-80
-
-90
-
-100
-
-[Side 95]
-
-95
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 7
-
-Tabell 7.4 Andel varslere som opplevde at det kritikkverdige forholdet stoppet helt eller delvis etter
-varslingen (varslingseffektivitet)
-Undersøkelse
-
-Varslingseffektivitet
-
-Matthiesen
-m.fl. 2008
-
-Fafo
-2010
-
-Bjørkelo
-m.fl. 2010
-
-Fafo
-2014 II
-
-Fafo
-2016 I
-
-51 %
-
-50 %
-
-59 %
-
-54 %
-
-36 %
-
-Kilde: Trygstad 2017 I
-
-–
-–
-
-at den som varsler får støtte
-at den som varsler ikke blir utsatt for sanksjoner54
-
-Hvem er varslerne
-Tall fra SSBs levekårsundersøkelse om arbeidsmiljø viser ingen vesentlig forskjell mellom kvinner
-og menn når det gjelder hvem som observerte
-kritikkverdige forhold og hvem som varslet, verken i 2006 eller i 2016. Det er noen flere blant de
-eldste aldersgruppene enn blant de yngste som
-observerte kritikkverdige forhold, men forskjellen er ikke stor. Når det gjelder hvem som varslet,
-var det aldersgruppen 40–54 år som varslet mest
-(77 prosent) og aldersgruppen 16–24 år som varslet minst (71 prosent). Universitets- og høyskoleutdannede varslet mer (76 prosent) enn de med
-videregående skole som høyeste utdanning (68
-prosent).
-Internasjonal forskning kan tyde på at flere
-kvinner enn menn velger å varsle.55 Man finner
-også at varslere gjerne er sentralt plasserte, velkvalifiserte arbeidstakere, og både norsk og internasjonal forskning viser at ansiennitet har betydning, i den forstand at de som har jobbet lenge i
-større grad sier fra om kritikkverdige forhold.
-Norsk forskning viser at ansatte med lederansvar
-varsler mer enn andre, noe som også er i tråd med
-internasjonal forskning.56
-Man vet lite om varsling og personlighet.57 I
-sin doktoravhandling så Brita Bjørkelo på om det
-var forskjeller i personlighet mellom arbeidstakere som varsler og dem som ikke varsler, men
-kom til at slike forskjeller ikke lot seg måle.58
-Matthiesen med medforfattere fant i 2008 at
-varslere opplevde lavere trivsel og mindre grad av
-rettferdighet på arbeidsplassen, noe som også kan
-være knyttet til selve varslersituasjonen.59 I sin
-
-artikkel fra 2016 viser Matthiesen til at varsling
-der man tar affære etter at kritikkverdig atferd har
-funnet sted i arbeidsfellesskapet, utgjør et handlingsforløp med stor situasjonsstyrke.60 Matthiesen
-viser også til forskning av Miceli, Near og Dworkin som relaterer varsling til maktteori.61 Vellykket varsling har sammenheng med varslerens
-makt og innflytelse. Dette aspektet er sannsynligvis viktig også for mottakeren av varselet. Det er
-større sjanse for at man velger passivitet og neglisjering dersom den som mottar varselet opplever
-å ha en svak posisjon i virksomheten. Matthiesen
-viser også til forskning av Schein om organisasjonskulturens betydning for varsling.62
-
-7.3.4
-
-Hvem varsles det til
-(varslingsmottakere)
-Både norske og internasjonale undersøkelser
-viser at arbeidstakere varsler internt, og gjerne til
-nærmeste leder, før de eventuelt går videre med
-saken.63
-Gjennomgående viser de norske undersøkelsene at nærmere sju av ti arbeidstakere varsler til
-en leder først. I breddeundersøkelsen som Fafo
-gjennomførte i 2016 fremgår det at 14 prosent av
-arbeidstakerne valgte å varsle til tillitsvalgte eller
-verneombud først.64 I den samme undersøkelsen
-fremgår det at bare to prosent varslet til et internt
-varslingsmottak, og tilsvarende til et eksternt
-varslingsmottak. Det var også bare to prosent som
-varslet først til tilsynsmyndighetene. Tallene er
-omtrent de samme for ansatte i kommunal- og fylkeskommunal sektor.65 Av undersøkelsen i kommunal- og fylkeskommunal sektor fremgår det at
-ingen varslet til offentligheten først.66
-Matthiesen med medforfattere fant i 2008 at
-det var 83 prosent som bare varslet internt, mens
-60
-
-54
-
-Ibid. s. 43 med videre henvisninger.
-55
-Fafo 2017 I s. 45.
-56
-Ibid.
-57
-Mesmer-Magnus og Viswesvaran (2005).
-58
-Fafo 2017 I s. 44–45 med henvisning til Bjørkelo (2010).
-59
-Ibid.
-
-61
-62
-63
-64
-65
-66
-
-Matthiesen (2016).
-Miceli, Near og Dworkin (2008).
-Schein (2010).
-Fafo 2017 I s. 40 flg.
-Fafo 2016 I s. 35.
-Fafo 2017 II s. 85.
-Ibid. s. 84.
-
-[Side 96]
-
-96
-
-NOU 2018: 6
-
-Kapittel 7
-
-Varsling – verdier og vern
-
-13 prosent varslet eksternt etter først å ha varslet
-internt, og kun tre prosent varslet eksternt først.67
-Fafo 2017 I viser til forskning som indikerer at
-flertallet av de som varsler eksternt, har varslet
-flere steg internt først.68
-
-7.3.5
-
-Hjelper det å varsle
-(varslingseffektivitet)
-I Fafos undersøkelser forstås varslingseffektivitet
-som at det kritikkverdige forholdet stoppes helt
-eller delvis i rimelig tid etter varslingen.69 I en
-rekke undersøkelser som er gjennomført mellom
-2008 og 2016 har det vært stilt spørsmål om varslingseffektivitet. I tabellen 7.4 gjengis andelene
-som har svart at det hjalp å varsle, det vil si at de
-kritikkverdige forholdene opphørte eller ble
-bedre.
-Fafos undersøkelser indikerer at varslingseffektiviteten gikk markant ned i 2016. I Fafo 2016 I
-fremgår det at 36 prosent svarte at det kritikkverdige forholdet opphørte eller at det ble en viss forbedring, mens 41 prosent svarte at det ikke ble
-noen vesentlig endring.70 Ifølge Fafo 2017 I
-bekreftes denne tendensen i undersøkelsen blant
-medlemmer i sju fagforbund, selv om det er store
-forskjeller mellom forbundene. Blant Sykepleierforbundets medlemmer svarte 43 prosent av
-respondentene at det hjalp å varsle, mens andelen
-
-var 24 prosent blant medlemmene i Politiets Fellesforbund.71
-I LKU 2016 svarte 49 prosent at det hjalp å
-varsle, det vil si at forholdet som det ble meldt fra
-om enten opphørte eller ble bedre. Her svarte
-33 prosent at det ikke ble noen vesentlig endring
-eller at det ble verre. En større andel blant menn
-enn blant kvinner opplevde at forholdet opphørte
-eller ble bedre, tilsvarende opplevde en større
-andel kvinner ingen vesentlig endring, se figur 7.5.
-I Fafo 2016 I ble det undersøkt hva som påvirker varslingseffektiviteten. Det kunne ikke påvises noen sammenheng med hvilken type sak det
-ble varslet om. Fafo fant imidlertid at følgende forhold øker varslingseffektiviteten:
-– om man jobber i en virksomhet som har varslingsrutiner
-– om den ansvarlige for de kritikkverdige forholdene er en underordnet eller kollega
-– om man ikke har vært gjennom omorganiseringsprosesser de siste to årene72
-Funnene er i overensstemmelse med det Fafo finner i andre studier, der også varslingsrutiner har
-vist seg å ha positiv sammenheng med varslingseffektiviteten. Tidligere funn viser også at dersom
-den ansvarlige for det kritikkverdige forholdet er
-en overordnet, er dette med på å redusere effektiviteten.73 I Fafos undersøkelser fra 2010 og 2013
-fant de at arbeidstakere som hadde tillitsvalgte på
-
-67
-
-Fafo 2017 I s. 40 med videre henvisninger.
-Ibid.
-69
-Ibid. s. 50.
-70 Fafo 2016 I s. 40.
-68
-
-71
-72
-73
-
-Ibid.
-Ibid.
-Skivenes og Trygstad (2015) og Fafo 2010.
-
-40
-35
-
-35
-
-35
-
-32
-
-Prosent
-
-25
-
-26
-22
-
-21
-
-20
-15
-
-30
-
-29
-
-30
-
-17
-
-17
-14
-
-12
-
-10
-5
-
-3
-
-3
-
-3
-
-0
-Det opphørte
-
-Det ble bedre
-
-Det ble ingen vesentlig
-endring
-Mann
-
-Kvinne
-
-Totalt
-
-Figur 7.5 Hva skjedde med forholdet du meldte fra om? (N=1655)
-Kilde: SSB, LKU 2016
-
-Det ble verre
-
-Vet ikke, det har gått for
-kort tid til å si noe
-
-[Side 97]
-
-97
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 7
-
-Tabell 7.5 Reaksjoner fra ledelse og styret på varselet. Prosent
-Reaksjoner (%)
-Positive
-reaksjoner
-
-Ingen
-reaksjoner
-
-Negative
-reaksjoner
-
-Mann
-
-57
-
-30
-
-14
-
-Kvinne
-
-57
-
-29
-
-13
-
-16–24
-
-61
-
-30
-
-9
-
-25–39
-
-55
-
-30
-
-15
-
-40–54
-
-59
-
-29
-
-12
-
-55–66
-
-54
-
-28
-
-17
-
-Ungdomsskole (n = 683)
-
-51
-
-33
-
-16
-
-Videregående grunnutdanning (n = 2385)
-
-53
-
-37
-
-11
-
-Videregående avsluttende utdanning (n = 2799)
-
-59
-
-28
-
-13
-
-Påbygging til videregående utdanning (n = 333)
-
-58
-
-29
-
-14
-
-Universitets- og høyskoleutdanning, inntil 4 år (n = 2701)
-
-60
-
-27
-
-13
-
-Universitets- og høyskoleutdanning, mer enn 4 år (n = 880)
-
-54
-
-33
-
-13
-
-personlig eid firma
-
-68
-
-21
-
-12
-
-aksjeselskap, organisasjon eller lignende
-
-56
-
-30
-
-15
-
-kommunal virksomhet
-
-57
-
-30
-
-13
-
-fylkeskommunal virksomhet
-
-62
-
-31
-
-8
-
-statlig virksomhet
-
-58
-
-31
-
-11
-
-1–9 ansatte
-
-58
-
-31
-
-11
-
-10–49 ansatte
-
-59
-
-27
-
-14
-
-50–199 ansatte
-
-49
-
-35
-
-15
-
-≥ 200 ansatte
-
-62
-
-26
-
-13
-
-Totalt
-
-57
-
-30
-
-14
-
-Kjønn
-
-Alder (år)
-
-Utdanning
-
-Eierforhold
-
-Bedriftsstørrelse
-
-Kilde: SSB, LKU 2016
-
-arbeidsplassen i større grad oppnådde å få forholdet endret til det bedre da de varslet. Fafo finner
-også en svak tendens til tilsvarende sammenhenger i undersøkelsen fra 2016, men sammenhengen er kun signifikant på 10-prosentnivå.74
-
-74
-
-Fafo 2017 I s. 51.
-
-7.3.6
-
-Hva skjer med varsleren og det
-kritikkverdige forholdet det varsles om
-
-Innledning
-I LKU 2016 svarer 76 prosent at de ble møtte med
-positive reaksjoner fra kolleger da de varslet.75
-LKU 2016 har også spørsmål om hvilke reaksjoner varslerne ble møtt med fra ledelsen og styret.
-Som det fremgår av tabell 7.5 svarer 57 prosent at
-75
-
-SSB, LKU 2016.
-
-[Side 98]
-
-98
-
-Kapittel 7
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-de ble møtt med positive reaksjoner, mens 14 prosent svarer at de ble møtt med negative reaksjoner. Det er ingen forskjell mellom kjønnene. Når
-det gjelder eierforhold er det små forskjeller mellom gruppene, og det er i virksomheter med 50–
-199 ansatte at varsleren i minst grad opplever
-positive reaksjoner (49 prosent mot et gjennomsnitt på 57).
-I Fafo 2016 I ble de som svarte at de hadde
-varslet spurt om hvilke reaksjoner de fikk. Av
-disse svarte 29 prosent at de fikk bare positive
-eller overveiende positive reaksjoner. Videre
-svarte 17 prosent at de ikke fikk noen reaksjoner,
-mens 22 prosent svarte at reaksjonene var blandede. Til sammen svarte 25 prosent at de fikk
-overveiende negative eller bare negative reaksjoner.
-I undersøkelsen vises det til noen eksempler
-på positive reaksjoner:
-– fikk beskjed om at det var fint at vi sa fra
-– ført til at jeg nå jobber sammen med ledelsen
-– fikk positive reaksjoner fra styret76
-Når det gjelder de som har fått negative reaksjoner, svarte 29 prosent at de ble refset og irettesatt
-av leder, 23 prosent svarte at de ble fratatt arbeidsoppgaver, mens omtrent 16 prosent svarte at de
-ble utstengt fra arbeidsfellesskapet. Videre svarte
-15 prosent at de opplevde reaksjonene så sterke at
-de ble sykemeldte, se figur 7.6.77
-På spørsmål om de vurderte reaksjonene som
-så negative at det kunne gi grunnlag for å søke
-vern mot gjengjeldelse, svarte 14 prosent ja, mens
-70 prosent svarte nei.
-I undersøkelsen pekes det på at utviklingen
-med hensyn til hvor mange som opplever både
-positive og negative reaksjoner synes å gå feil vei.
-I undersøkelser som ble gjort i 2010 og i 2014 var
-det henholdsvis 55 og 47 prosent som svarte at de
-fikk bare positive eller overveiende positive reaksjoner, mens 8 og 13 prosent fikk overveiende
-eller bare negative reaksjoner.78
-
-Gjengjeldelse
-Etter arbeidsmiljøloven § 2 A-2 er gjengjeldelse
-mot arbeidstaker som varsler etter en forsvarlig
-fremgangsmåte forbudt. Begrepet «gjengjeldelse»
-er ikke definert i lovbestemmelsen, men det er
-presisert i forarbeidene at begrepet skal forstås
-vidt og at enhver ugunstig behandling som kan
-ses som en følge av og en reaksjon på varsling, i
-utgangspunktet skal regnes som gjengjeldelse.79
-Se for øvrig punkt 4.2.4.
-I forskningslitteraturen defineres gjengjeldelse som «uønsket handling mot varsleren som
-en direkte respons på varslingen».80 Gjengjeldelse
-kan ofte ha de samme kjennetegnene som mobbing, det vil si gjentakende og systematisk trakassering over tid.81 Ifølge Bjørkelo (2010) kan gjengjeldelse foregå åpent og skjult og medføre psykiske problemer, herunder symptomer på posttraumatisk stress.82
-Hvor mange varslere opplever gjengjeldelse
-I Fafo 2017 I vises det til en rekke undersøkelser
-som er gjennomført, hvor varslere er blitt spurt om
-hvilke reaksjoner de opplevde etter å ha varslet.
-De fleste som varsler blir ikke møtt med sanksjoner. Andelen som oppgir at de er blitt sanksjonert mot er imidlertid markant høyere i 2016 sammenlignet med undersøkelser fra tidligere år, se
-tabell 7.6.83
-Hva skjer med varslere som opplever gjengjeldelse
-I Fafo 2016 I er arbeidstakere som har varslet
-spurt om de ville varslet igjen, hvis de kom i en tilsvarende situasjon. Det er 71 prosent som svarer
-at det er sannsynlig eller overveiende sannsynlig
-at de vil varsle igjen, mens 18 prosent sier at det er
-ganske eller overveiende usannsynlig. Det er en
-ganske sterk sammenheng mellom hvilke reaksjo79
-80
-81
-
-76
-
-Fafo 2016 I s. 41–42.
-77
-Ibid. figur 5.3.
-78
-Fafo 2010, Fafo 2014 I og Fafo 2016 I s. 41.
-
-82
-83
-
-Ot.prp. nr. 84 (2005–2006) s. 52.
-Se for eksempel Bjørkelo (2010).
-For en nærmere diskusjon, se Matthiesen, Bjørkelo og
-Burke (2011).
-Bjørkelo (2010).
-Fafo 2017 I.
-
-Tabell 7.6 Andel varslere som opplevde at de ble sanksjonert mot da de varslet, prosent
-Undersøkelse
-
-Sanksjonerte varslere
-Kilde: Trygstad 2017 I
-
-Matthiesen m.fl. 2008
-
-Fafo 2010
-
-Fafo 2014 II
-
-Fafo 2016 I
-
-18 %
-
-13 %
-
-13 %
-
-25 %
-
-[Side 99]
-
-99
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 7
-
-Fikk positive tilbakemeldinger fra ledelsen
-
-54
-
-Fikk positive tilbakemeldinger fra mine kolleger
-
-51
-
-Andre positive reaksjoner
-
-15
-
-Jeg fikk utvidet mitt ansvarsområde
-
-2
-
-Jeg fikk lønnsopprykk/annen økonomisk belønning
-
-2
-
-Jeg ble refset og irettesatt av leder
-
-29
-
-Jeg ble fratatt arbeidsoppgaver
-
-23
-
-Andre negative reaksjoner
-
-23
-
-Jeg ble utestengt fra arbeidsfellesskapet
-
-16
-
-Jeg opplevde reaksjonene så sterke at jeg ble sykemeldt
-
-15
-
-Jeg fikk ødelagt mine karrieremuligheter i virksomheten
-
-14
-
-Jeg opplevde reaksjonene så sterke at jeg sa opp min stilling
-
-11
-
-Jeg ble mobbet
-
-10
-
-Jeg fikk tjenestepåtale
-
-9
-
-Jeg fikk oppsigelse
-0
-
-4
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-100
-
-Figur 7.6 Ulike positive og negative reaksjoner som varsleren fikk. Flere svar mulig. N = 139. Prosent.
-Kilde: Fafo 2016 I
-
-Boks 7.1 Jobbfast – Poliklinikk for psykososiale belastninger i arbeidslivet
-En statusrapport som ble laget etter at JobbInntil det ble besluttet nedlagt tilbød Jobbfast
-fast hadde vært i drift i fire år viste at tilbudet
-poliklinisk tverrfaglig utredning, behandling og
-nådde målgruppen, blant annet oppga om lag
-rehabilitering av pasienter med nedsatt helse
-95 prosent av pasientene at de ble mobbet på
-som følge av psykososiale konflikter i arbeidsliarbeidsplassen, og 55 prosent av pasientene
-vet, som følge av blant annet mobbing, trakasseoppga at de ved minst en anledning har tatt på
-ring og varsling. Jobbfast ble etablert ved Yrkesseg rollen som varsler. Samlet sett ga resultamedisinsk avdeling på Haukeland universitetstene fra undersøkelsen av pasientgruppen ett år
-sjukehus, Helse Bergen, i 2012. Etableringen
-etter endt behandling, tydelige indikasjoner på
-kom som et svar på at man hadde lovverk, retat Jobbfast ga et tilbud som kunne føre til
-ningslinjer og kampanjer på plass i Norge, men
-bedring både i mental helse og i arbeidsdeltaikke et klinisk tilbud som ivaretok de med redukelse. Fremtidig forskning antas fortsatt å være
-sert helse som følge av mobbing, varsling og
-nødvendig for å nærmere belyse effekten av tilkonflikt i arbeidslivet. Forskning tilknyttet polibudet med tanke på helse og arbeidsdeltakelse.
-klinikken skulle gi kunnskap om hva som skal til
-I forbindelse med behandlingen av budsjetfor at pasientene får bedre helse og kan fungere
-tet for 2018 besluttet Helse Bergen i desember
-godt i arbeidslivet. Kunnskapen skulle formidles
-2017 å legge ned Jobbfast. Beslutningen ble tatt
-til andre aktører i helsevesenet og arbeidslivet.
-på grunnlag av en helhetsvurdering i lys av den
-Jobbfast tilbød tre dagers utredning/behandling
-økonomiske situasjonen helseforetaket var i, der
-og en tilbakemeldingssamtale med pasient og
-det ble sett hen til det faglige tilbudet, gjennomhenvisende lege fire uker senere. Jobbfast oppstrømming av pasienter og om Jobbfast var en
-trådte ikke som sakkyndig i tvister/rettstvister
-del av Helse Bergens oppdrag.
-og tok ikke stilling til om det hadde foregått
-brudd på arbeidsmiljøloven.
-
-[Side 100]
-
-100
-
-Kapittel 7
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-ner varslerne har blitt møtt med, og sannsynligheten for at de vil varsle igjen. Sanksjoner fører til
-stillhet.84
-
-7.3.7
-
-Hva skjer med den det varsles om
-
-Fra forskningen på varslingsprosesser i norsk
-arbeidsliv vet vi lite om den eller de det varsles
-om, altså den eller de som utpekes som ansvarlige
-for kritikkverdige forhold i virksomheten. I Fafos
-undersøkelser har de som varslet blitt spurt om
-hvem som var ansvarlig for det siste kritikkverdige forholdet de varslet om. Svarene fra undersøkelsen i 2016 fordelte seg slik:
-– nærmeste leder/annen leder: 42 prosent
-– toppledelsen/styret: 24 prosent
-– kolleger: 28 prosent
-– underordnet: 5 prosent
-– andre: 1 prosent85
-I 66 prosent av tilfellene er det en overordnet som
-pekes ut som den ansvarlige for det kritikkverdige
-forholdet det er blitt varslet om.
-Det er lite kunnskap om hvordan det oppleves
-å bli utpekt som den ansvarlige, hvordan de ivaretas og hvilke reaksjoner de får hvis de faktisk er
-ansvarlig for det kritikkverdige forholdet som varselet gjelder. Det har blitt forsket mye på varslere
-og varslingsprosesser de seneste årene, men så
-langt utvalget er kjent med har ikke de nevnte
-spørsmålene knyttet til den det har blitt varslet
-om, blitt undersøkt tidligere, verken i Norge eller
-i andre land. I tilknytning til arbeidet i Varslingsutvalget har Arbeids- og sosialdepartementet på
-denne bakgrunn gitt Fafo i oppdrag å gjennomføre en undersøkelse hvor disse problemstillingene blir kartlagt. Resultatene ble fremlagt i Fafonotatet Varsling i norsk arbeidsliv. Den det varsles
-om, mottak og håndtering i mars 2018.86
-Fafo viser til at det er noen åpenbare metodiske utfordringer knyttet til en slik undersøkelse.
-Det er for det første usikkert hvor mange yrkesaktive som har erfaring med varsling. Tidligere
-undersøkelser viser at mellom 16 og 19 prosent av
-yrkesaktive oppgir at de i løpet av de siste 12
-månedene har vært vitne til eller avdekket kritikkverdige forhold som er så alvorlige at de burde
-stoppes. Omtrent halvparten av disse varsler. Av
-varslingsmottakere svarer seks av ti at de tok for84
-
-Fafo 2016 I s. 45–46.
-Fafo 2016 I s. 36.
-86
-Trygstad og Ødegård (2018) Varsling i norsk arbeidsliv.
-Den det varsles om, mottak og håndtering. Fafo-notat
-2018:06 (Fafo 2018).
-85
-
-holdet opp med den det gjaldt, det vil si at fire av ti
-av dem det ble varslet om, kanskje ikke fikk vite
-noe om det. Sist, men ikke minst, er det en utfordring at ikke så mange av dem det er varslet om
-ønsker å besvare en spørreundersøkelse. Fafo
-valgte derfor å gå bredt ut og inkludere både varslere, kolleger av varslere, varslingsmottakere, den
-ansvarlige og kolleger av den ansvarlige, og også
-ta med forhold som ligger tilbake i tid.
-Undersøkelsen hadde 895 respondenter,
-hvorav 23 som har opplyst at de har blitt utpekt
-som ansvarlig for det kritikkverdige forholdet.
-Blant disse hadde halvparten en lederrolle på det
-tidspunktet da varselet kom, mens en var verneombud. Det er et lavt antall. De 23 respondentene
-har imidlertid i stor grad gitt utfyllende kommentarer og informasjon i undersøkelsen. Datagrunnlaget er dermed fyldigere for denne gruppen.
-Samtidig gir svar fra de som mottar og håndterer
-varslene og fra kolleger til de utpekte, ny og god
-kunnskap også om den det varsles om. Svar fra
-disse er også benyttet i undersøkelsen.87
-Utvalget vil understreke at det er behov for
-ytterligere forskning knyttet til situasjonen for
-den det blir varslet om. Adekvat ivaretakelse av
-alle aktørene i en varslingsprosess er nødvendig
-for å sikre at sakene løses på lavest mulig nivå.
-I undersøkelsen blir det stilt følgende spørsmål om den det varsles om, den som blir utpekt
-som ansvarlig for det kritikkverdige forholdet:
-– I hvilken grad får de mulighet til å forsvare seg
-og gi sin forklaring?
-– Hvilke typer reaksjoner blir de møtt med?
-– I hvilken grad får de utpekte støtte i prosessen?
-Den som ble utpekt som ansvarlig
-Tre av fire av de som ble utpekt som ansvarlige
-svarte at de fikk mulighet til å forklare seg. Tabell
-7.7 viser hvilke reaksjoner de ble møtt med. På
-spørsmål om de fikk støtte fra noen på arbeidsplassen svarte de slik:
-– støtte fra leder: 8
-– støtte fra fagforening/tillitsvalgt: 9
-– støtte fra verneombud: 4
-– støtte fra kolleger: 8
-– fikk ikke hjelp/støtte fra noen: 4
-– hadde ikke behov for hjelp/støtte: 1
-Disse fikk også spørsmål om hvordan de reagerte
-da de fikk vite at de var utpekt som den ansvarlige
-for det kritikkverdige forholdet. Tre svarer at de
-87
-
-Se nærmere i Fafo 2018, kapittel 2, for utdypende informasjon om metode og utvalg.
-
-[Side 101]
-
-101
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Tabell 7.7 Reaksjoner rettet mot den utpekte.
-N = 22
-
-Kapittel 7
-
-Varslingsmottakerne
-
-Ble utestengt fra fellesskapet/trakassert
-
-3
-
-Ble fratatt arbeidsoppgaver/ansvar
-
-3
-
-Ble refset/irettesatt av leder
-
-4
-
-Fikk ødelagt karrieremulighetene
-
-1
-
-Ble sykemeldt
-
-3
-
-Sa opp min stilling/tilbud om sluttpakke
-
-3
-
-Fikk tjenestepåtale/advarsel
-
-2
-
-Ble gransket/overvåket
-
-4
-
-Ble suspendert
-
-2
-
-Fikk oppsigelse
-
-1
-
-Fikk ingen reaksjoner
-
-12
-
-Varslingsmottakerne utgjør 270 (30 prosent) av
-respondentene. Av disse var 62 prosent ledere,
-mens 21 prosent var tillitsvalgte eller verneombud. Femtifem prosent opplyste at de hadde fått
-opplæring i å håndtere varslingssaker.
-Av forholdene de mottok varsel om var følgende fem på topp:
-– bruk av rusmidler på jobb
-– annen trakassering/mobbing
-– destruktiv ledelse som er ødeleggende for
-arbeidsmiljøet/brudd på etiske retningslinjer
-– trakassering på bakgrunn av kollegers kjønn/
-seksuell legning
-– underslag/tyveri eller økonomiske misligheter
-Ni av ti av varslingsmottakerne deler varslerens
-bekymring knyttet til det kritikkverdige forholdet.
-Dette er sammenfallende med kollegenes oppfatning, både kollegene til varsleren og kollegene til
-den det varsles om.88
-Figur 7.7 sier noe om i hvilken grad den
-ansvarlige fikk mulighet til å forklare seg og
-hvilke reaksjoner som ble gitt. Figuren viser at
-forholdet fikk alvorlige følger, som advarsel eller
-oppsigelse for den det varsles om, i om lag halvparten av tilfellene.
-
-Kilde: Fafo 2018
-
-var enige i at de var ansvarlig for det kritikkverdige, mens fire var uenige i at forholdet var kritikkverdig. Ni svarer at de opplevde seg urettmessig utpekt, altså at de fikk skylden for noe som
-andre var ansvarlig for. Fire opplevde å bli utpekt
-for forhold utenfor deres kontroll.
-
-88
-
-Fafo 2018.
-
-Ansvarlig fikk en rettslig tilrettevisning/advarsel
-
-31
-
-Ansvarlig fikk mulighet til å forklare seg, saken ble løst
-
-23
-
-Ansvarlig fikk oppsigelse
-
-22
-
-Ingen ting skjedde, saken ble håndtert dårlig
-
-9
-
-Ansvarlig sluttet
-
-5
-
-Varslet kom nylig, ikke fått noen konsekvenser ennå
-
-3
-
-Annet
-
-3
-
-Ingen ting skjedde, forholdet var ikke kritikkverdig
-
-3
-
-Vet ikke
-
-1
-0
-
-10
-
-20
-
-30
-
-40
-
-Figur 7.7 Reaksjoner rettet mot den ansvarlige. Flere svar mulig N=238
-Kilde: Fafo 2018
-
-50
-
-60
-
-70
-
-80
-
-90
-
-100
-
-[Side 102]
-
-102
-
-NOU 2018: 6
-
-Kapittel 7
-
-Varsling – verdier og vern
-
-Ansvarlig fikk en rettslig tilrettevisning/advarsel
-
-24
-
-Ingen ting skjedde, saken ble håndtert dårlig
-
-23
-
-Ansvarlig fikk oppsigelse
-
-23
-
-Ansvarlig fikk mulighet til å forklare seg, saken ble løst
-
-17
-
-Ingen ting skjedde, forholdet var ikke kritikkverdig
-
-5
-
-Varslet kom nylig, ikke fått noen konsekvenser ennå
-
-4
-
-Vet ikke
-
-4
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-100
-
-Figur 7.8 Kollegers vurdering av reaksjoner rettet mot den utpekte ansvarlige. N=220
-Kilde: Fafo 2018
-
-Kollegene
-
-Svar fra alle aktørene
-
-Svar fra kollegene til den som er utpekt som
-ansvarlig og til varsleren, utgjør 229 respondenter
-(26 prosent). Figur 7.8 viser kollegenes vurdering
-av hvilke reaksjoner den ansvarlige fikk. Det er
-ikke signifikante forskjeller mellom svarene fra
-disse gruppene, og svarene er slått sammen.
-Undersøkelsen viser at typen kritikkverdige
-forhold har sammenheng med reaksjoner rettet
-mot den utpekte ansvarlige:
-– Kolleger som svarer at det kritikkverdige
-dreide seg om økonomiske forhold svarer i
-større grad enn andre at den ansvarlige fikk
-oppsigelse (34 versus 20 prosent).
-– Kolleger som svarer at det kritikkverdige
-gjaldt psykososiale arbeidsmiljøproblemer svarer i større grad enn andre at den utpekte
-ansvarlige «ikke fikk noen reaksjoner fordi forholdet ble håndtert for dårlig» (28 versus 13
-prosent).
-– Kolleger som svarer at det kritikkverdige forholdet gjaldt HMS-problemer, svarer i større
-grad enn andre at forholdet ble endret til det
-bedre (65 versus 54 prosent).
-
-Alle aktørene har fått spørsmål om hvordan varslersaken har påvirket forholdet mellom arbeidstakerne. Det var ikke signifikante forskjeller i svarene og de presenteres derfor samlet i figur 7.10.
-
-Fafo har også sett på hvilken innvirkning varslingssaker har på arbeidsplassen og arbeidsforholdene. I figur 7.9 presenteres varslingsmottakernes og kollegenes svar. Det var ingen signifikante
-forskjeller mellom svarene fra kollegene til varsleren og den utpekte ansvarlige.
-
-7.3.8 Varslingsmottakere
-Mottak og håndtering av varsel
-I undersøkelsen som presenteres i Fafo 2016 I ble
-ledere med personalansvar, tillitsvalgte og verneombud stilt spørsmål om de hadde mottatt varsel
-om kritikkverdige forhold fra medarbeider eller
-kollega i løpet av de siste tolv månedene. Blant
-disse sentrale varslingsmottakerne svarte 21 prosent bekreftende på dette. Det var ingen signifikante forskjeller i svarene mellom gruppene.89
-Deltakerne i undersøkelsen fikk også spørsmål om hva de gjorde med varselet. En stor andel,
-89 prosent, svarte at de delte varslerens bekymring. Halvparten oppga at de undersøkte saken og
-tok det opp med den eller de det gjaldt. Videre
-oppga 45 prosent at de sendte saken til overordnede eller til varslingsenhet i virksomheten. Bare
-et lite mindretall oppga at de lot saken i bero eller
-ikke fant den alvorlig nok til å gå videre med, og
-
-89
-
-Fafo 2016 I s. 48 flg.
-
-[Side 103]
-
-103
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-Kapittel 7
-
-88
-
-Gir oss muligheter til å rette opp feil i virksomheten
-
-70
-84
-82
-
-Er krevende fordi det tar mye tid og ressurser
-Er krevende fordi det tar oppmerksomheten bort fra
-kjerneoppgaver
-
-70
-67
-69
-
-Er krevende fordi vi har for liten trening i håndtering
-
-78
-61
-
-Varslingssaker håndteres greit, vi har gode rutiner
-
-32
-54
-
-Er krevende fordi påstand står mot påstand
-
-63
-0
-
-10
-
-20
-
-Mottakere: helt/delvis enig (N=234)
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-100
-
-Kolleger: helt/delvis enig (N=217)
-
-Figur 7.9 Hvordan varslingssaken påvirker forhold på arbeidsplassen
-Kilde: Fafo 2018
-
-Ansvarlig for varslingsforholdet ble irettesatt
-
-39
-
-34
-
-Varsler fikk negative reaksjoner
-
-47
-
-14
-
-55
-
-11
-
-44
-
-Konfliktnivået ble redusert
-
-39
-
-31
-
-Arbeidsmiljøet ble dårligere
-
-0%
-
-10%
-
-57
-
-20%
-Ja
-
-17
-
-Nei
-
-30%
-
-40%
-
-50%
-
-60%
-
-12
-
-70%
-
-80%
-
-90%
-
-100%
-
-Vet ikke
-
-Figur 7.10 Hvilken betydning fikk saken for de involverte og arbeidsmiljøet. Lavest N=837
-Kilde: Fafo 2018
-
-én prosent sendte saken videre til tilsynsmyndighetene, se figur 7.11.90
-Kunnskap og opplæring hos varslingsmottakere
-Det fremkommer i Fafo 2016 I at ledere og
-arbeidstakere med tillitsverv i større grad enn
-andre kjenner til varslingsbestemmelsene i
-arbeidsmiljøloven, se også foran under punkt
-7.3.2. I undersøkelsen ble det også stilt spørsmål
-
-til de samme gruppene om de hadde fått opplæring i hvordan varsel skal håndteres. Blant ansatte
-med tillitsverv var det 28 prosent som oppga at de
-hadde fått slik opplæring, og 36 prosent av
-lederne svarte det samme.91
-
-7.3.9 Varslingsrutiner
-Varslingsrutiner kan bidra til å gjøre varsling mindre risikofylt og til bedre forutsigbarhet i vars-
-
-[Side 104]
-
-104
-
-NOU 2018: 6
-
-Kapittel 7
-
-Varsling – verdier og vern
-
-50
-
-Jeg undersøkte saken og tok den opp med den/de det gjaldt
-
-37
-
-Jeg sendte saken videre til min overordnede
-Jeg sendte saken videre til virksomhetens
-varslingsgruppe/enhet
-
-8
-
-6
-
-Jeg avventet og lot saken bero
-Jeg undersøkte saken, men fant den ikke
-alvorlig og lot den ligge
-
-3
-
-1
-
-Jeg sendte saken videre til tilsynsmyndighetene
-
-8
-
-Annet
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-100
-
-Figur 7.11 Hva varslingsmottakerne gjorde med saken, i prosent. N=208
-Kilde: Fafo 2016 I
-
-lingsprosessen, for eksempel er varsling i henhold
-til virksomhetens varslingsrutiner alltid forsvarlig.
-Effekten av varslingsrutiner vil være avhengig av
-hvordan rutinene er utformet og hvor godt kjent
-de er.
-Fafo har i flere omganger stilt spørsmål til norske arbeidstakere om de er kjent med at det er
-skriftlige varslingsrutiner der de jobber. I 2016
-svarte 47 prosent ja på dette spørsmålet, mens 49
-prosent svarte nei eller at de ikke visste.92 I evalueringen av varslingsreglene som Fafo har gjennomført, ble det stilt en rekke spørsmål om varslingsrutiner.93 I evalueringen ble det gjennomført
-dybdeintervjuer med 40 virksomheter som hadde
-varslingsrutiner. Oppsummert viste svarene at de
-viktigste grunnene til at virksomhetene hadde
-varslingsrutiner var at det var i tråd med lovverket
-og i tråd med god virksomhetsstyring. Evalueringen viste at i offentlig sektor var det mer vanlig at
-tillitsvalgte og verneombud var involvert i utformingen av rutinene, mens man i privat sektor
-gjerne benyttet advokater eller andre rådgivere.
-Et klart flertall av virksomhetene svarte at rutinene inneholdt regler om varslingsplikt. I de fleste
-tilfellene åpnet rutinene for flere varslingskanaler.
-Arbeidstakerne ble oppfordret til å varsle «i linja»,
-men både øvrig ledelse, tillitsvalgte og verneom-
-
-bud var aktuelle interne kanaler. Svarene viste at
-det var vanlig å legge til rette for konfidensiell
-varsling, men mer sjeldent med anonym varsling.
-Informasjon om varslingsrutiner ble gjerne gitt på
-oppslagstavler og intranett.94
-Vandekerchove og Lewis har undersøkt hva
-internasjonal forskningslitteratur viser med hensyn til hva varslingsrutiner bør inneholde.95 De
-har oppsummert sine undersøkelser i følgende
-punkter:
-– hvem kan bruke varslingsrutinene
-– hvilke saker omfattes av rutinene
-– hvem kan det varsles til
-– hvordan kan det varsles (skriftlig/muntlig,
-anonymt osv.)
-– hvordan skal varsel følges opp
-– er varsling rett eller plikt
-– hvordan skal varsleren beskyttes mot gjengjeldelse
-– hvordan skal feilaktige varsel håndteres
-Lewis har også tatt til orde for at det er klare fordeler forbundet med å gi tillitsvalgte og fagforeninger en definert rolle i virksomhetens varslingsrutiner.96
-Trade unions have always acted as watchdogs
-and are likely to be keen to negotiate appropri-
-
-90
-
-Ibid.
-Ibid.
-92
-Fafo 2017 I s. 23.
-93
-Fafo 2014 II.
-91
-
-94
-95
-96
-
-Fafo 2014 II s. 192–193.
-Fafo 2017 I s. 27–28 med videre henvisninger.
-Ibid.
-
-[Side 105]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-ate arrangements, especially for dealing with
-disputes.97
-Med virkning fra 1. juli 2017 ble det i arbeidsmiljøloven kapittel 2 A innført et krav om at alle virksomheter med minst fem ansatte skal ha vars97
-
-Lewis, D’Angelo og Clarke (2015) s. 13.
-
-105
-
-Kapittel 7
-
-lingsrutiner og minstekrav til hva rutinene skal
-inneholde. Flere av punktene i listen over er
-omfattet av minstekravene i loven, herunder plikt
-til å samarbeide med de ansatte og deres tillitsvalgte om utarbeidelse av rutinene, se nærmere
-punkt 4.2.5.
-
-[Side 106]
-
-106
-
-Figur 8.1
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-2018
-
-[Side 107]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-107
-
-Kapittel 8
-
-Kapittel 8
-
-Varsling i praksis
-8.1
-
-Innledning
-
-I henhold til mandatet skal utvalget, på grunnlag
-av relevant forskning og eksempelsaker, redegjøre for hvilke forhold som påvirker prosessen
-og utfallet av en varslingssak. Utvalget skal på
-egnet måte innhente erfaringer og synspunkter
-fra personer, arbeidsgivere, virksomheter og varslingsmottakere som har praktisk erfaring med
-varslingssaker i ulike sektorer. Utvalget skal også
-drøfte hvilken rolle de ulike aktørene i varslingssaker har og om de fyller behovet for informasjon,
-veiledning og tvisteløsning. Det meste av dette
-har utvalget valgt å samle i kapitlet her, under
-overskriften «Varsling i praksis».
-Kapitlet handler om hvem som er aktørene i
-en varslingsprosess på arbeidsplassen, i organisasjonene og blant de offentlige myndighetene, herunder domstolene. Alle disse spiller viktige roller
-på ulike stadier i prosessen, som varslingskanaler,
-veiledere, varslingsmottakere og som tvisteløsere.
-Punkt 8.5 og 8.6 er basert på tekstinnspill fra
-utvalgsmedlem Stig Berge Matthiesen, psykolog
-og professor ved Institutt for ledelse og organisasjon ved BI i Bergen. Der tas det psykologiske og
-organisatoriske perspektivet i varslingssaker opp.
-I kapitlet gjennomgås noen eksempler på varslingssaker som er mer eller mindre kjente fra
-media eller på annen måte. Det er godt kjent gjennom forskning at varslingsrutiner er svært viktige
-for gode varslingsprosesser og for å motvirke konflikt. Utvalget har derfor valgt å trekke frem noen
-eksempler fra ulike sektorer. Det finnes selvsagt
-mange flere. Det er også noen varslingsrutiner
-som har blitt presentert for utvalget, uten at vi har
-funnet plass til å omtale dem her.
-Varslingsutvalget gjennomførte en innspillskonferanse i mai 2017 med deltakere fra relevante
-aktører i varslingsprosessene. Utvalget fikk
-mange viktige og gode innspill, som har hatt
-betydning for fremstilling og forslag i mange deler
-av utredningen. En oppsummering av konferansen er tatt med i punkt 8.9.
-
-8.2
-
-Varslingsmottakere
-
-Begrepet «varslingsmottaker» er ikke definert
-eller brukt i arbeidsmiljøloven, men kan forstås
-som den eller de som mottar og behandler et varsel om kritikkverdige forhold.
-Ved intern varsling vil varslingsmottaker være
-arbeidsgiver eller en representant for arbeidsgiver. Dette kan være ulike nivåer av ledere i linjen,
-personalsjef eller andre i ledelsen, daglig leder,
-styreleder, internrevisjon eller revisjonsutvalg,
-interne varslingsmottak eller varslingssekretariat. Dersom virksomheten har en ordning med et
-eksternt varslingsmottak, vil varsling til dette
-også regnes som intern varsling.
-Offentlige myndigheter er en ekstern varslingsmottaker som det alltid er forsvarlig å varsle til.
-Dette er forutsatt i arbeidsmiljøloven § 2 A-1 andre
-ledd, der det fremkommer at arbeidstakere og innleide alltid skal kunne varsle til offentlige myndigheter. Ved ekstern varsling til offentlige myndigheter er det mange ulike organer som kan være
-aktuelle varslingsmottakere. De mest praktiske er
-tilsynsmyndigheter og politiet. Fylkesmannen, Sivilombudsmannen og Riksrevisjonen er andre instanser som også mottar tips og varsel om kritikkverdige forhold innenfor sine respektive fagområder.
-
-8.3
-
-Varslingskanaler
-
-Begrepet «varslingskanal» er ikke definert eller
-brukt i arbeidsmiljøloven, men kan forstås som en
-kanal som en arbeidstaker kan bruke som et mellomledd dersom det ikke er ønskelig eller hensiktsmessig å varsle direkte til den som ellers vil
-være relevant varslingsmottaker i saken. Bruken
-av varslingskanaler kan være regulert i virksomhetenes varslingsrutiner. Den eller de som nyttes
-som varslingskanal, kan enten gjøre virksomheten kjent med det kritikkverdige forholdet eller ta
-tak i saken selv, der det er hensiktsmessig.
-Eksempler på interne varslingskanaler kan
-være kolleger, verneombud, tillitsvalgte, arbeids-
+Det følger av retningslinjene at det skal gis tilbakemelding til varsleren innen én måned etter at varselet er mottatt om at saken er mottatt, om progresjon og om når saken forventes ferdigbehandlet. Videre fremgår det at varsleren skal få tilbakemelding «om saken er henlagt eller fulgt opp» og om varsleren skal få ytterligere informasjon må vurderes konkret.

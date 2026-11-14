@@ -1,1294 +1,888 @@
-# NOU 2026: 5, del 11 av 14 (side 197–211)
+# NOU 2026: 5, del 11 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cea47c9-nou-2026-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-5/id3155079/
 - Original-PDF: https://www.regjeringen.no/contentassets/ff40476a92434880bcad7f8ec8d2b31e/no/pdfs/nou202620260005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 109 tabeller, 76 figurer, 12002 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 197]
-
-bygg- og anleggsnæringen. Svak vekst i det private konsumet har hittil trukket aktiviteten i
-varehandelen ned. Den svake kronekursen forsterker todelingen, ved at den fremmer eksport
-og demper aktiviteten i næringer som importerer innsatsvarer fra utlandet.
-Konkurranseevnen i frontfaget er god. Over noen år har andelen av verdiskapingen som går
-til arbeidstakerne falt. Situasjonen krever derfor en god lønnsvekst slik at
-lønnskostnadsandelen bringes tilbake til et historisk normalt nivå
-Akademikerne la følgende prinsipper til grunn for inntektsoppgjørene 2025:
-«Akademikerne jobber for et fleksibelt og trygt arbeidsliv, et bærekraftig, innovativt
-næringsliv med høy produktivitet og lønnsomhet og en konkurransedyktig offentlig sektor.
-Akademikerne bygger sin politikk på at høy kompetanse og kunnskap lønner seg både for
-den enkelte og for samfunnet. Arbeidsledigheten er lav, og det er stor etterspørsel etter høyt
-utdannet arbeidskraft. Høy kompetanse og effektiv bruk av denne kompetansen blir
-viktigere. Høyt utdannede ansatte er viktige for å sikre kvaliteten på velferdstjenestene og
-det offentlige tjenestetilbudet til innbyggerne. En velfungerende offentlig sektor og
-forutsigbare og konkurransedyktige rammebetingelser legger grunnlaget for nødvendig
-næringsutvikling.
-
-e
-v
-ga
-
-Investering i kunnskap og høyere utdanning er nødvendig for å sikre nødvendig omstilling
-for å ruste oss for fremtiden.
-
-t
-u
-g
-
-I lønnspolitikken jobber Akademikerne for en lokal og markedsbasert lønnsdannelse som tar
-utgangspunkt i situasjonen og behovene i den enkelte virksomhet. Lønnspolitikken er lokal
-kollektiv lønnsdannelse. Lønn er et viktig personalpolitisk virkemiddel, og hvor
-differensiering ut fra utdannelse, kompetanse, kunnskap, innsats og ansvar er nødvendig.
-Det er de lokale parter som best kjenner forholdene og utfordringene i virksomhetene.
-
-i
-p
-
-ø
-l
-re
-
-I den norske modellen står frontfagsmodellen sentralt, knyttet til lønnsdannelsen.
-Akademikerne slutter opp om frontfagsmodellen, men det er viktig å buke den fleksibiliteten
-som ligger i modellen.
-
-o
-F
-
-Anslaget som gis av NHO i forståelse med LO, må på ingen måte oppfattes eller praktiseres
-som et ferdig forhandlet resultat for etterfølgende tariffoppgjør. Anslaget er en hjelp i
-koordineringen av lønnsdannelsen siden lønnsveksten inneværende år er ukjent når anslaget
-kommuniseres. Den faktiske lønnsveksten måles av Teknisk beregningsutvalg året etter
-forhandlingene. Det er denne faktiske lønnsveksten i frontfagsområdet som over tid skal
-være en norm for øvrige tariffområder.
-Lokale kollektive forhandlinger i virksomhetene i privat sektor følger tariffavtalte kriterier,
-og det er viktig at disse kriteriene brukes etter hensikten. Virksomhetene har ulike behov og
-ulik økonomisk situasjon. De fire tariffavtalte kriteriene bidrar til en lønnsvekst som bygger
-på blant annet lønnsevne og konkurransesituasjon. De økonomiske rammene og
-forhandlingsresultatet i virksomhetene skal og vil variere.
-I offentlig sektor har vi også tariffavtalte kriterier for lønnsutvikling som brukes. De lokale
-parter forholder seg til tariffavtalenes lønns- og forhandlingssystem, og gjennomfører lokale
-kollektive forhandlinger ut fra virksomhetenes behov og økonomiske situasjon. For store
-deler av offentlig sektor vet vi at det er utfordringer med å beholde og/eller rekruttere
-arbeidskraft. Offentlig sektor er preget av en sammenpresset lønnsstruktur, og lønnsgapet til
-sammenlignbare stillinger er betydelig mellom offentlig og privat sektor. Offentlig sektor
-må kunne være konkurransedyktig både på lønnsnivå og lønnsutvikling for å kunne tiltrekke
-seg og beholde riktig kompetanse.
-195
-
-[Side 198]
-
-Akademikerne forventer at tariffoppgjørene bidrar til reallønnsvekst for våre medlemmer, og
-at tariffpartene kan finne gode forhandlingsløsninger i de ulike sektorene uten politisk
-innblanding.
-Oppgjørene må bidra til å sikre en konkurransedyktig offentlig sektor i en rimelig balanse til
-privat sektor. I offentlig sektor er hoveddelen av Akademikernes medlemsgrupper omfattet
-av lønns- og forhandlingssystemer med kun lokal lønnsdannelse. Lønnsdannelse ved lokale
-kollektive forhandlinger gir de lokale partene et helt nødvendig handlingsrom for å kunne
-beholde og rekruttere den kompetansen det er behov for.
-For privat sektor er det store variasjoner i virksomhetene når det gjelder den økonomiske
-situasjon. Vi ser en tendens til fallende lønnsandeler i privat sektor som betyr at den høye
-lønnsomheten i mange industrinæringer i hovedsak tilfaller eierne, noe som kan gå ut over
-virksomhetenes muligheter til å beholde og rekruttere den arbeidskraften det er behov for.»
-Administrasjonen i KS forhandlet mellomtariffoppgjøret pr. 1.5.2025 etter følgende
-fullmakt/mandat:
-
-e
-v
-ga
-
-KS legger til grunn at forhandlingene om lønnsendringer ved mellomoppgjøret pr. 1. mai
-2025 og øvrige lokale forhandlinger i kommunesektoren i 2025 tar særlig hensyn til den
-anstrengte kommuneøkonomien.
-
-t
-u
-g
-
-Administrasjonen gis fullmakt til å forhandle ved mellomoppgjøret i 2025 etter følgende
-hovedlinjer:
-
-i
-p
-
-1. Forhandlingene gjennomføres med en økonomisk ramme på linje med anslaget for rammen
-fra frontfaget.
-
-ø
-l
-re
-
-2. Den disponible økonomiske rammen brukes til sentrale lønnstillegg.
-3. Profilen på sentrale lønnstillegg balanseres for å ivareta alle stillingsgrupper, dog slik at
-rekrutteringsutfordringene for fagarbeidere og høyskolegrupper hensyntas.
-
-o
-F
-
-Sentralstyret i Virke vedtok følgende forhandlingsfullmakt for oppgjørene i 2025:
-«Sentralstyret gir forhandlingsutvalget fullmakt til å gjennomføre og vedta tariffoppgjørene i
-tråd med den økonomiske ramme som er satt i frontfaget, med en innretning tilpasset den
-enkelte overenskomst.»
-
-1.2
-
-Oppgjørene i privat sektor
-
-1.2.1 LO-NHO-området
-Under mekling ble LO og NHO, samt YS og NHO, enige om en forhandlingsløsning 31. mars.
-Løsningen innebar et generelt tillegg på 5 kroner per time med virkning fra 1. april. For
-overenskomster med et gjennomsnittlig lønnsnivå under 90 prosent av gjennomsnittlig
-industriarbeiderlønn (tilsvarer 545 963 kroner) ble det gitt ytterligere 2 kroner der det er lokal
-forhandlingsrett og 4 kroner der det ikke er lokal forhandlingsrett fra 1. april.
-I årslønnsveksten fra 2024 til 2025 er tarifftilleggene fra 1. april for industriarbeidere beregnet å
-bidra med 1,3 prosentpoeng, mens overhenget var 1,6 prosent. På bakgrunn av vurderinger gjort av
-NHO, i forståelse med LO, ble årslønnsveksten i industrien samlet i NHO-området anslått til 4,4
-prosent i 2025, se boks 1.1 for nærmere omtale.
-196
-
-[Side 199]
-
-Boks 1.1 Frontfagsrammen, mellomoppgjøret 2025
-NHO hadde, i forståelse med LO, følgende vurdering av årets ramme.
-31. mars 2025
-
-Bakgrunn
-
-Frontfagsmodellen er bærebjelken i den norske lønnsdannelsen. I henhold til Holden IV-utvalget
-(2023) skal lønnsveksten i industrien for arbeidere og funksjonærer samlet være normgivende for
-lønnsveksten i resten av økonomien. Derfor ble det i Holden III-utvalget (2013) enighet om at
-NHO, i forståelse med LO, burde "angi en troverdig ramme for den samlede årslønnsveksten i
-industrien".
-Ved tidspunktet for en forhandlingsløsning i frontfaget er overheng og tarifftillegg kjente størrelser,
-mens årets lønnsglidning er ukjent. Lønnsglidningen favner all lønnsvekst utover tarifftilleggene.
-Foruten bidrag fra lokale forhandlinger, innebærer det også bidrag fra blant annet endringer i
-uttelling fra garantiordninger, akkord og uregelmessige tillegg og sammensetningseffekter.
-
-e
-v
-ga
-
-Realisert årslønnsvekst i industrien i NHO-området har i de elleve årene etter Holden IIIutvalget i 2013 vært 3,2 prosent i gjennomsnitt, identisk med gjennomsnittlig rammeanslag.
-I det enkelte år har avviket i gjennomsnitt utgjort 0,2 prosentpoeng, med om lag like mange
-over- og undervurderinger.
-
-t
-u
-g
-
-Den økonomiske situasjonen og utsiktene
-
-OECD og IMFs anslår aktivitetsveksten hos Norges handelspartnere til 1,9 prosent i år, som
-er noe svakere enn i tiåret før pandemien. Veksten ventes å bli klart høyere i USA enn i
-euro-området. Geopolitisk uro og handelsspenninger trekker isolert sett vekstutsiktene ned,
-mens økte forsvarsinvesteringer virker motsatt.
-
-i
-p
-
-ø
-l
-re
-
-Som et ledd i sin "America First"-politikk har Trump økt de amerikanske importtollene på
-utenlandske varer, deriblant fra Canada, Mexico og Kina, samt på stål og aluminium. Omfanget av tolltrusler er imidlertid større, og inkluderer toll på varer fra EU, biler, databrikker
-m.m. Uvissheten om toller, omfang og varighet har skapt uforutsigbarhet om rammebetingelsene for internasjonal handel og økt den handelspolitiske usikkerheten. Både økte
-handelsbarrierer og større usikkerhet vil isolert sett gi lavere økonomisk aktivitet. Hvor
-sterke virkningene blir, vil avhenge av hvor høye tollsatsene blir, hvor lenge de får virke,
-men også av hva som skjer med valutakursene, eventuelle budsjettmessige eller
-pengepolitiske tiltak, samt i hvilken grad bedriftene evner å tilpasse seg, til nye produkter,
-markeder og produksjonssteder.
-
-o
-F
-
-I fjor var samlet lønnsvekst i de største forhandlingsområdene i hele økonomien 5,2 prosent, mens
-konsumprisene steg med 3,1 prosent, slik at reallønnen i forhandlingsområdene økte med 2,0
-prosent. I år anslår TBU en konsumprisvekst på 2,7 prosent. Styringsrenten har vært holdt på 4,5
-prosent siden desember 2023. I mars indikerte Norges Bank at styringsrenten vil senkes til 4 prosent
-innen utgangen av 2025.
-Renteøkningene i 2021-23 rammet boligetterspørsel og -bygging. Boliginvesteringene falt med
-drøyt 19 prosent i fjor, etter 18 prosent fall året før. I løpet av tre år er boligigangsettingen nær
-halvert. Ved utgangen av 2024 var boligarealet under bygging på sitt laveste siden 2009. Det er
-ulikt syn på når boliginvesteringene vil vokse igjen, og hvor sterk veksten blir. Det er likevel ventet
-at bolig-investeringene som årsgjennomsnitt blir lavere i år enn i fjor.
-Målt ved personsysselsettingen pluss antall ledige stillinger flatet etterspørselen etter arbeidskraft ut
-i fjor. Mens antall sysselsatte steg med 0,6 prosent, vokste utførte timeverk 0,2 prosent. I år anslås
-197
-
-[Side 200]
-
-sysselsettingen å øke med om lag 0,4 – 0,8 prosent. AKU-arbeidsledigheten økte fra 3,6 prosent i
-2023 til 4,0 prosent i fjor, men månedstall viser at arbeidsledigheten var stabil gjennom 2024 og i
-starten av 2025. Det ventes at arbeidsledigheten vil være stabil framover.
-Aktiviteten ventes å ta seg opp i norsk økonomi i år. Anslått fastlandsvekst varierer fra 1,2 – 2,0
-prosent. Økt kjøpekraft, lavere rente og et arbeidsmarked med uendret arbeidsledighet vil støtte opp
-under et forbruksledet aktivitetsoppsving i år. Oljeinvesteringene ventes å øke ytterligere noe i år,
-om enn i et mindre tempo enn de to siste årene, og vil holde aktiviteten oppe i leverandørindustrien.
-En fortsatt relativt svak krone og et mildt oppsving hos våre handelspartnere vil samtidig gi et løft i
-eksporten. I tillegg vil ekspansiv budsjettpolitikk øke offentlig etterspørsel de neste årene.
-Nærmere om situasjonen og utsikter for industrien
-Lønnsdannelsen har et ansvar for å bidra til at industriens konkurranseevne er tilstrekkelig god, og
-bidra til å sikre bedrifter og arbeidsplasser. På inntektssiden steg produktiviteten i industrien, målt
-ved bruttoproduktet per timeverk, med 1,2 prosent i fjor. Prisene på industriens bruttoprodukt steg
-med 2,5 prosent. I perioden 2014-2023 steg prisene i industrien i gjennomsnitt med 4,3 prosent
-årlig, mens den gjennomsnittlige årlige produktivitetsveksten var 0,5 prosent, 1,6 prosentpoeng
-lavere enn hos handelspartnerne.
-
-e
-v
-ga
-
-På kostnadssiden ble norsk industris konkurranseevne i 2024 styrket med 0,3 prosent målt mot
-handelspartnerne i EU og Storbritannia. Kronesvekkelsen bidro til å styrke konkurranseevnen med
-1,3 prosentpoeng, mens høyere vekst i arbeidskraftkostnadene per time i Norge enn blant disse
-handelspartnerne bidro i motsatt retning. Industriens effektive kronekurs har hittil i år vært 0,8
-prosent svakere enn gjennomsnittet for fjoråret, mens kursen i mars har vært 1,0 prosent sterkere
-enn i februar. Lønnskostnadsveksten per sysselsatt i hele økonomien hos våre handelspartnere er
-anslått til 3,6 prosent i år, mot 4,5 prosent i fjor.
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-Industriaktiviteten økte med 1,7 prosent i 2024, særlig drevet av leverandørindustrien som følge av
-økte oljeinvesteringer. I fjerde kvartal falt imidlertid aktiviteten med 0,5 prosent. Eksporten av
-industrivarer økte med 2,0 prosent i fjor. Ifølge SSBs konjunkturbarometer steg industriens ordretilgang fra eksportmarkedet fra høsten 2023, men falt noe i fjerde kvartal i fjor. Industribedriftene
-venter økt ordretilgang i første kvartal. Vanligvis har den faktiske økningen blitt noe svakere enn
-den ventede, men selv hensyntatt dette peker barometeret mot oppgang i første kvartal, som isolert
-sett peker mot økt produksjon for eksport i første kvartal. Kapasitetsutnyttingen i industrien er
-fremdeles så vidt under det historiske gjennomsnittet.
-
-o
-F
-
-Industriens driftsresultat var på 76 mrd. kroner i 2024 ifølge foreløpige nasjonalregnskapstall, om
-lag uendret i nominelle kroner fra året før. Dette tilsvarer 28 prosent av industriens verdiskaping,
-målt med faktorinntekten. Motsvarende er lønnskostnadenes andel av 72 prosent.
-Lønnskostnadsandelen i industrien varierer som følge av konjunkturbevegelser, men har likevel
-vært rimelig stabil over tid. Nå ligger lønnsandelen 9 prosentpoeng under gjennomsnittet fra 1970,
-og driftsresultatet tilsvarende over.
-Det er store forskjeller i lønnsandelene mellom de ulike industrinæringene både i nivå og over tid,
-og over konjunkturene. Mens råvarebasert industri og øvrige industrinæringer trekker
-lønnskostnads-andelen ned, har verkstedsdelen av industrien lenge hatt en relativt høy
-lønnskostnadsandel. De siste årene har denne falt.
-Rammeanslag
-På bakgrunn av vurderinger gjort av NHO, i forståelse med LO, anslås årslønnsveksten i industrien
-samlet i NHO-området til 4,4 prosent i 2025. Av dette bidrar overhenget med 1,6 prosentpoeng for
-industriarbeidere og 1,9 prosentpoeng for industrifunksjonærer. For industriarbeidere i NHO198
-
-[Side 201]
-
-området er bidraget fra tarifftilleggene beregnet til 1,3 prosentpoeng. Resterende bidrag til årslønnsveksten i industrien som helhet er anslått lønnsglidning.
-Anslått bidrag fra glidningen uttrykker et gjennomsnitt, som verken skal være et gulv eller tak for
-lokale forhandlinger.
-Lokale lønnsforhandlinger skal være reelle og baseres på de fire kriterier, det vil si bedriftens
-økonomi, produktivitet, framtidsutsikter og konkurranseevne.
-Det er viktig at andre forhandlingsområder, samt lønnsutviklingen for ledere og funksjonærer,
-tilpasser seg den rammen som enigheten i frontfaget innebærer.
-[Boks slutt]
-1.2.2 Oppgjørene i privat sektor utenom LO-NHO-området
-Meklingsresultatet mellom YS og NHO ble som mellom LO og NHO.
-Garantiordningen på Landsoverenskomsten, Kontoroverenskomsten og Avtale for reiselivsbransjen
-mellom HK og Virke resulterte i at minstelønnssatsens øverste trinn fikk et tillegg fra 1. februar
-2025 på 3,57 kroner per time.
-
-e
-v
-ga
-
-I mellomoppgjøret for 2025 mellom LO og Virke ble det gitt et generelt tillegg på 5 kroner per
-time. Minstelønnssatsene (unntatt ungdomstrinnene) ble økt med til sammen 7 kroner per time
-fra 1. april 2025 og minstelønnssatsen på Grossistoverenskomsten Fellesforbundet ble økt med
-til sammen 6 kroner per time fra 1. april 2025.
-
-t
-u
-g
-
-For Virke-bedrifter i varehandelen gir garantitilleggene og de avtalte tilleggene et samlet bidrag til
-årslønnsveksten fra 2024 til 2025 på 0,7 prosentpoeng, hhv. 0,2 og 0,5 prosentpoeng. Sammen med
-overhenget på 1,3 prosent gir dette en årslønnsvekst på 2,0 prosent før bidraget fra lønnsglidningen
-i 2025.
-
-i
-p
-
-ø
-l
-re
-
-For de fleste andre overenskomster mellom LO og Virke ble det gitt et generelt tillegg på 5 kroner
-per time per 1. april 2025. På enkelte overenskomster ble det gitt ytterligere 2 eller 4 krone per time
-avhengig av lønnsnivå for området og hvorvidt det er avtale om lokale forhandlinger.
-
-o
-F
-
-Funksjonæravtalene mellom Virke og YS forbundene Negotia og Parat fikk ved mellomoppgjøret
-for 2025 samme resultat som Kontoroverenskomsten mellom HK/LO og Virke. Reiselivsavtalen
-mellom Virke og YS/Parat fikk et sentralt tillegg på 5 kroner per time og minstelønnssatsene ble økt
-med ytterligere 2 kroner per time. Garantiordningen på Reiselivsavtalen mellom Parat og Virke
-resulterte i at minstelønnssatsen trinn 3 fikk et tillegg fra 1. februar 2025 på 3,57 kroner per time.
-Mellomoppgjøret 2025 på HUK-området ble gjennomført 17. juni. Det ble enighet mellom Virke og
-arbeidstakerorganisasjonene. Oppgjøret omfattet forhandlinger om sju tariffavtaler innen helse,
-utdanning og kultur med over 30 arbeidstakerorganisasjoner. Forhandlingsresultatet på de ulike
-overenskomstene fulgte resultatene i de korresponderende offentlige tariffområdene.
-I mellomoppgjøret for 2025 mellom Finansforbundet og Finans Norge i NHO ble det fra 1. mai gitt
-et generelt tillegg på lønnsregulativets satser på 1,7 prosent til alle som omfattes av
-lønnsbestemmelsene i Sentralavtalen. Tillegget ble ved forhandlingene anslått å bidra med 1,1
-prosentpoeng til årslønnsveksten fra 2024 til 2025. Tillegget gjøres også gjeldende for medlemmene
-av LO ved Handel og Kontor i Norge og Fagforbundet.
-
-1.3
-
-Oppgjørene i offentlig sektor
-
-I det statlige tariffområdet startet forhandlingene i hovedoppgjøret 2025 den 24. april. Staten
-v/Digitaliserings- og forvaltningsdepartementet forhandlet med hhv. Akademikerne, LO Stat, Unio
-199
-
-[Side 202]
-
-og YS Stat. Det ble ført forhandlinger fram til den 30. april da det ble oppnådd enighet med
-Akademikerne, Unio og YS Stat, mens det ble brudd med LO Stat. Forhandlingene med LO Stat
-gikk til mekling der det med Riksmeklers mellomkomst 28. mai ble oppnådd enighet.
-I avtalene med Akademikerne og Unio er hele den økonomiske rammen avsatt til lokale
-forhandlinger. Med virkning fra 1. mai 2025 avsettes det 3,30 prosent av lønnsmassen til lokale
-forhandlinger. I rammen for avtalene med Akademikerne og Unio er det lagt til grunn et overheng
-uten streik.
-I avtalen med YS Stat gis det et generelt tillegg på 1,05 prosent av fastlønnen. Det avsettes 2,70
-prosent av lønnsmassen til lokale forhandlinger. De generelle og lokale tilleggene får virkning fra 1.
-mai.
-Avtalen med LO Stat har følgende økonomiske hovedpunkter (alle tillegg med virkning fra 1. mai):
-- Et generelt tillegg på 6 600 kroner.
-
-- Et generelt tillegg på 1,50 prosent av fastlønnen.
-
-- Det avsettes 1,35 prosent av lønnsmassen til lokale forhandlinger.
-
-e
-v
-ga
-
-I kommunesektoren begynte forhandlingene mellom KS og LO Kommune, Unio, YS Kommune og
-Akademikerne kommune 24. april 2025. Den 30. april ble det en forhandlingsløsning mellom KS
-og Unio og Akademikerne kommune. LO Kommune og YS kommune gikk til mekling. I meklingen
-den 27. mai 2025 aksepterte LO kommune og YS kommune meklers skisse til løsning. Den innebar
-en lønnsregulering lik forhandlingsresultatet, og ytterligere lønnstillegg med virkning fra 1.1.2026.
-
-t
-u
-g
-
-i
-p
-
-Lønnstilleggene avtalt i meklingen med virkning fra 1.1.2026 gjelder for medlemmer av LO
-kommune og YS kommune. For stillinger uten særskilt krav til utdanning gis et tillegg på 1 200
-kroner, mens øvrige stillingsgrupper i HTA kapittel 4 gis et tillegg på 1 300 kroner.
-
-ø
-l
-re
-
-KS og Unio ble senere enige om at de samme kronetilleggene også skulle gis til medlemmer av
-Unios forbund, fra samme dato. Akademikerne kommune valgte å ikke godta tilleggene fra
-1.1.2026.
-
-o
-F
-
-Oppgjøret i 2025 har følgende økonomiske hovedpunkter:
-- For stillinger med hovedsakelig sentral lønnsdannelse gis lønnstillegg med virkning fra 1.
-mai 2025 på mellom 14 500 og 21 200 kroner per år, som vist i tabell 1.1.
-- Ledere i HTA kapittel 4 får et generelt tillegg på 2,8 prosent fra 1. mai 2025.
-
-- For stillingsgruppen «Stillinger med krav om fagbrev og 2-årig fagskoleutdanning» heves
-garantilønnsnivået med 20 000 kroner utover det sentrale tillegget, med virkning fra 1. mai
-2025.
-For stillinger med hovedsakelig sentral lønnsdannelse i KS-området (HTA kap. 4) er anslått
-årslønnsvekst 4,4 prosent. Av dette utgjør overhenget til 2025 2,3 prosentpoeng, anslått glidning 0,2
-prosentpoeng, og lønnstillegg som beskrevet i strekpunktene over 1,9 prosentpoeng.
-I hovedoppgjøret i Oslo kommune gis et prosentvis tillegg på lønnstabellen på 3,62 prosent,
-minimum 20 100 kroner med virkning fra 1. mai 2025.
-
-200
-
-[Side 203]
-
-Tabell 1.1 Garantilønn2 og lønnstillegg etter ansiennitet i KS-området. Ingen ansiennitet
-(0 år) og maksimal ansiennitet (16 år)
-
-Stillingsgrupper
-Stillinger uten særskilt krav
-om utdanning
-
-Garantilønn
-inkl. tillegg
-1. mai 2024
-382 500
-
-Ansiennitet 0 år
-Garantilønn
-inkl. tillegg Tillegg 1.
-1. mai 2025 mai 2025
-397 000
-14 500
-
-Ansiennitet 16 år
-Garantilønn
-Tillegg
-Andel
-inkl. tillegg
-1. mai kvinner,
-1. mai 2025
-2025 prosent1
-494 200
-14 500
-74
-
-Andel
-kvinner,
-prosent1
-70
-
-Fagarbeiderstillinger/
-tilsvarende
-fagarbeiderstillinger
-
-437 300
-
-452 500
-
-15 200
-
-71
-
-528 300
+# Arbeidsmarkedet
 
-15 200
-
-78
+- Sysselsettingsandelen i aldersgruppen 15–74 år falt med 0,1 prosentpoeng fra 2024 til 2025, til 69,6 prosent i 2025. Månedstall viser at det var små endringer i sysselsettingsandelen gjennom 2025.
 
-Stillinger med krav om
-fagbrev og 1-årig
-fagskoleutdanning
+- Som årsgjennomsnitt økte AKU-arbeidsledigheten fra 4,0 prosent i 2024 til 4,5 prosent i 2025. Etter å ha økt gjennom første halvdel av 2025, holdt den seg stabil på rundt 4,5 prosent ut året. Det var små endringer i andelen registrert som helt ledige gjennom fjoråret, og som årsgjennomsnitt utgjorde de 2,1 prosent av arbeidsstyrken i 2025. Summen av helt ledige og tiltaksdeltakere hos Nav (bruttoledigheten) endret seg lite gjennom 2025, og på årsbasis var bruttoledigheten uendret fra 2024 til 2025 på 2,6 prosent.
 
-459 300
+- Tilgang på ledige stillinger hos Nav falt samlet sett med 1,1 prosent fra 2024 til 2025, mens tall fra SSB viste en reduksjon i gjennomsnittlig beholdning av ledige stillinger på 11,5 prosent i samme periode. Både tilgangen på og beholdningen av ledige stillinger var likevel på et høyere nivå enn gjennomsnittet de siste ti årene.
 
-474 500
+## Sysselsetting og befolkning
 
-15 200
+Arbeidsmarkedet gjennom 2025 og starten av 2026
 
-79
+Sysselsettingsandelen fra Arbeidskraftundersøkelsen (AKU), som måler andelen av befolkningen i aldersgruppen 15–74 år i jobb, var relativt uendret gjennom 2025, og var ved inngangen til 2026 på 69,3 prosent, se figur 7.1A. Andelen i arbeidsstyrken, som måler andelen av befolkningen i aldersgruppen 15–74 år som enten er i jobb eller er arbeidsledig, var relativt stabil gjennom 2025. Ifølge tall fra AKU økte den litt gjennom første halvdel av 2025 for deretter å avta noe gjennom andre halvår, og som årsgjennomsnitt økte den med 0,2 prosentpoeng til 72,9 prosent i 2025.
 
-549 700
+Tilgangen på ledige stillinger per virkedag registrert hos Nav i 2025 var om lag på samme nivå som året før, på litt over 1 900 stillinger målt som gjennomsnitt gjennom året, se figur 7.1A. Nivået ved inngangen til 2026 var noe lavere enn gjennomsnittet for de to foregående årene sett under ett, men fortsatt betydelig høyere enn i årene før koronapandemien.
 
-15 200
+Andelen registrert som helt ledige endret seg lite gjennom fjoråret og har fortsatt å holde seg stabil inn i 2026. I februar 2026 var 2,1 prosent av arbeidsstyrken registrert som helt ledige, som er samme nivå som årsgjennomsnittet i fjor og 0,1 prosentpoeng høyere enn i 2024. Summen av registrerte helt ledige og tiltaksdeltakere (bruttoledigheten) hos Nav endret seg også lite gjennom 2025, og lå på 2,5 prosent i februar 2026, se figur 7.1B.[^28]<sup>,</sup>[^29] Det er 0,1 prosentpoeng lavere enn gjennomsnittet i fjor.
 
-85
+Trendtall for arbeidsledigheten fra AKU viste en jevn økning i arbeidsledigheten i første halvdel av 2025, fra 4,1 prosent i januar 2025 til 4,6 prosent i juni, før den deretter lå rundt 4,5 prosent ut året og starten av 2026.[^30]<sup>,</sup>[^31] Som årsgjennomsnitt økte AKU-arbeidsledigheten med 15 000 personer fra 2024 til 2025, tilsvarende en økning fra 4,0 til 4,5 prosent.[^32]
 
-Stillinger med krav om
-fagbrev og 2-årig
-fagskoleutdanning
+Økningen i AKU-arbeidsledigheten i første halvår 2025 var i stor grad preget av økt arbeidstilbud, ved at flere som tidligere sto utenfor arbeidsstyrken begynte å søke jobb og dermed ble klassifisert som arbeidsledige i AKU.[^33] Spesielt innen aldersgruppen 15–24 år gikk AKU-arbeidsledigheten opp i første halvdel av 2025, og av økningen på 9 000 personer i denne aldersgruppen i første halvår av 2025 sammenlignet med samme periode året før var det 5 000 flere studenter og elever som ønsket å jobbe.[^34]
 
-459 300
+Ser vi på antall arbeidsledige i AKU delt etter ønsket arbeidstid, utgjør personer som ønsker fulltidsarbeid om lag halvparten av de arbeidsledige i AKU. Om lag 71 000 arbeidsledige personer i AKU ønsket å arbeide 37 timer eller mer i 2025, en økning på 7 000 personer fra 2024. Det var nesten halvparten av den samlede oppgangen i arbeidsledigheten.
 
-494 500
+Utviklingen i arbeidsmarkedet. Januar 2023–februar 2026
 
-15 200
+Kilder: Statistisk sentralbyrå og Arbeids- og velferdsdirektoratet
 
-569 700
+Befolkningens tilknytning til arbeidsmarkedet i 2025
 
-15 200
+Kilder: Statistisk sentralbyrå
 
-71
+Figur 7.2 gir en oversikt over personer etter arbeidsmarkedsstatus i 2025. Om lag 4,2 millioner bosatte personer var i arbeidsfør alder (15–74 år), hvorav 72,9 prosent var i arbeidsstyrken. Arbeidsstyrken er definert som summen av sysselsatte og arbeidsledige. Sysselsatte utgjorde 69,6 prosent av bosatte personer i yrkesaktiv alder, mens arbeidsledige utgjorde 4,5 prosent av arbeidsstyrken. 24,6 prosent av de sysselsatte jobbet deltid i 2025. Dette tilsvarer 713 000 personer, herunder 402 000 personer som jobbet kort deltid og 302 000 personer som jobbet lang deltid.[^35] Av deltidssysselsatte var 66 000 delvis arbeidsledige i 2025, om lag samme nivå som året før. De delvis arbeidsledige utgjorde 9,3 prosent av de deltidssysselsatte i 2025.
 
-Lærer og stillinger med krav
-om 3-årig U/H-utdanning
+Sysselsettingsandelen, andelen i arbeidsstyrken og befolkningen
 
-507 400
+Ifølge tall fra AKU økte *befolkningen* i yrkesaktiv alder (15–74 år) med 28 000 personer fra 2024 til 2025. Sysselsettingen av bosatte i Norge økte ifølge AKU med 14 000 personer som årsgjennomsnitt i 2025, mens antall arbeidsledige økte med 15 000 personer. Sammenlignet med 2024 var 2 000 færre personer utenfor arbeidsstyrken i 2025.
 
-522 600
+Både sysselsettingsandelen og andelen i arbeidsstyrken påvirkes av demografiske forhold, atferdsendringer og konjunktursituasjonen.[^36] Finanskrisen i 2008–2009 og oljeprisfallet i 2014 bidro til et fall i sysselsettingsandelen og andelen i arbeidsstyrken, før gjeninnhenting og noen år med oppgang i sysselsettingsandelen. Virkningene av koronapandemien i 2020 ga en ny nedgang i både sysselsettingsandelen og andelen i arbeidsstyrken. Endret sammensetning av befolkningen påvirker også andelen i arbeidsstyrken. I en analyse av perioden 2000–2017 trakk flere eldre og økt innvandring sysselsettingen og andelen i arbeidsstyrken ned, mens økt utdanningsnivå trakk i motsatt retning.[^37]<sup>,</sup>[^38]<sup>,</sup>[^39]
 
-15 200
+Figur 7.3A viser at *andelen i arbeidsstyrken* økte fra 72,7 prosent i 2024 til 72,9 prosent i 2025, mens *sysselsettingsandelen* var 69,6 prosent i 2025, 0,1 prosentpoeng lavere enn i 2024.[^40] For personer i aldersgruppen 15–24 år var økningen i andelen i arbeidsstyrken betydelig større enn gjennomsnittet. Det var også oppgang i sysselsettingsandelen i denne gruppen i fjor, men økningen var mer moderat enn oppgangen i andelen i arbeidsstyrken.
 
-84
+I figur 7.3B er sysselsettingsandelen i 2015 og 2025 fordelt på kjønn og alder. Både i 2015 og 2025 var sysselsettingsandelen for de over 24 år høyere for menn enn for kvinner. Profilen over livsløpet er om lag den samme for begge kjønn. Figur 7.3C viser differansen mellom sysselsettingsandelen i 2025 og 2015 for menn og kvinner, fordelt på alder. For de yngre aldersgruppene var sysselsettingsandelen i 2025 høyere enn i 2015, og spesielt for personer som var 20 år eller yngre. For denne aldersgruppen, som inkluderer mange som kombinerer jobb og utdanning, økte sysselsettingsandelen med 8,5 prosentpoeng.[^41] Blant personer 62 år og eldre har andelen sysselsatte også økt de siste ti årene, og noe av dette kan blant annet skyldes bedre helse, økt utdanningsnivå og virkninger av pensjonsreformen i 2011.[^42]<sup>,</sup>[^43]<sup>,</sup>[^44] For personer i slutten av 30-årene og opp til fylte 50 år var det derimot en nedgang i sysselsettingsandelen over samme tiårsperiode.
 
-Adjunkt og stillinger med
-krav om 4-årig U/Hutdanning
+Utviklingen i sysselsettingsandel og arbeidsledighet
 
-548 400
+<sup>1</sup> AKU-tall for sysselsettingsandel og andel i arbeidsstyrken (figur 7.3A) er bruddjustert, mens AKU-tall for arbeidsledige (figur 7.3D) er målt som bruddjusterte trendtall. Se boks 7.2 i NOU 2024: 6 for detaljer om bruddjusteringen av AKU. Sysselsettingsandel og endring i sysselsettingsandel i henholdsvis figur 7.3B og figur 7.3C er målt ved tall fra registerbasert sysselsetting.
 
-563 600
+<sup>2</sup> Helt ledige og tiltaksdeltakere hos Nav (bruttoledigheten) er definert annerledes enn den tidligere definisjonen av bruttoledighet (helt ledige og arbeidssøkere på tiltak hos Nav), og de nye tidsseriene kan ikke sammenlignes med tidligere publiserte tidsserier grunnet at de nye seriene inneholder noen grupper tiltaksdeltakere som ikke er registrert som arbeidssøkere. Tidsseriene som vises i figur 7.3D, er derimot sammenlignbare over tid. Se boks 7.1 for mer om de nye tidsseriene.
 
-15 200
+Kilder: Statistisk sentralbyrå og Arbeids- og velferdsdirektoratet
 
-72
+Modernisering av systemer og gjennomgang av regelverk hos Nav, samt nye sesongjusterte tidsserier fra Nav
 
-Adjunkt med
-tilleggsutdanning og
-stillinger med krav om 5årig U/H-utdanning2
+Våren 2025 startet Nav et stort arbeid med å fornye datasystemene sine og gjennomgang av regelverk. Dette gjaldt blant annet:
 
-562 000
+- Et nytt system for arbeidssøkere
 
-599 200
+- Et nytt system for å vurdere oppfølgingsbehov/vedtak
 
-Lektor og stillinger med
-krav om mastergrad2
-Lektor med
-tilleggsutdanning2
+- En gjennomgang av reglene for hvem som har rett til å stå registrert som arbeidssøker
 
-o
-F
+Denne moderniseringen av fagsystemene hos Nav har medført justeringer og brudd i statistikken fra og med april 2025, og sist oppdatert i januar 2026. Effektene på Navs statistikk av disse endringene er oppsummert i tabell 7.1.
 
-g
-i
-p
+Effekter på Navs statistikk av endringer i datasystemer og gjennomgang av regelverk
 
-ø
-l
-re
+03J1xx2
 
-15 200
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 42%" />
+<col style="width: 40%" />
+</colgroup>
+<tbody>
+<tr>
+<td>Gruppe</td>
+<td>Årsak og endringer</td>
+<td>Effekt på statistikk</td>
+</tr>
+<tr>
+<td>Arbeidssøkere på tiltak</td>
+<td><p>Nytt arbeidssøkerregister: innebærer at det er frivillig å være registrert som arbeidssøker ved arbeidsrettet oppfølging fra Nav</p>
+<p>Flere endringer fra arbeidssøker på tiltak til andre på tiltak, og mindre grad av endring fra «arbeidssøker på tiltak» til «helt ledig» og «delvis ledig»</p></td>
+<td>Om lag 2 800 personer ble omklassifisert fra «arbeidssøkere på tiltak» (hovedsakelig midlertidig lønnstilskudd) til «andre på tiltak» fra mars til april 2025</td>
+</tr>
+<tr>
+<td>Helt og delvis ledige</td>
+<td><p>Nytt arbeidssøkerregister: lettere å<br />
+registrere om man er i arbeid eller ikke</p>
+<p>Flere bytter mellom status som helt ledig og delvis ledig, og mindre overgang fra arbeidssøker på tiltak til helt ledig/delvis ledig</p></td>
+<td>Summen av helt og delvis ledige ble om lag 2,4 prosent lavere enn uten endringene<br />
+(= 0,07 prosentpoeng lavere andel av arbeidsstyrken) i perioden april–juli 2025</td>
+</tr>
+</tbody>
+</table>
 
-614 100
+Kilder: Rapportene *Effekt på arbeidsmarkedsstatistikken i perioden april til juli 2025 grunnet modernisering av fagsystemer i Nav*, *Påvirkning på arbeidsmarkedsstatistikken i forbindelse med modernisering av fagsystemer i Nav våren 2025*, og *Effekt på arbeidsmarkedsstatistikken grunnet teknisk feil i Arbeidssøkerregisteret*, Arbeids- og velferdsdirektoratet
 
-629 300
+Fra og med januar 2026 publiserer Nav nye tidsserier for *helt ledige og tiltaksdeltakere* (bruttoledighet) og *arbeidssøkere*, hvor endringen fra tidligere er at de nye seriene inneholder noen grupper tiltaksdeltakere som ikke er registrert som arbeidssøkere.
 
-15 200
-
-633 600
-
-648 800
-
-15 200
-
-e
-v
-ga
-614 400
-
-18 000
-
-86
-
-ut
-
-646 200
-
-18 800
-
-80
-
-705 000
-
-19 600
-
-72
-
-72
-
-765 500
-
-20 400
-
-80
-
-63
-
-799 200
-
-21 200
-
-69
-
-64
-
-Per 1. desember 2024.
-Note: Ledere, fagledere og arbeidsledere i stillingskodene 7003, 7004, 7451, 7453, 7458, 7459, 7951 og 7654 i
-hovedtariffavtalen kapittel 4 gis et lønnstillegg på 4,1 prosent av den enkeltes grunnlønn pr. 30.04.2025.
-Virkningsdato er 1.5.2025.
-1
-
-Kilde: KS
-
-1.4
-
-Oppgjørene i Spekter-området
-
-Forhandlingsordningen er hjemlet i fem hovedavtaler som er inngått mellom Spekter og hhv.
-hovedorganisasjonene LO, YS, Unio, Akademikerne og mellom Spekter og Sammenslutningen av
-akademikerorganisasjoner i Spekter, SAN. I tråd med forhandlingsmodellen i Spekter forhandles
-det først på nasjonalt nivå (A-nivå) om overenskomstens generelle del mellom Spekter og den
-enkelte hovedorganisasjon. Denne delen er felles for alle virksomheter innenfor et
-overenskomstområde og forplikter arbeidsgiver og den aktuelle hovedorganisasjonens medlemmer.
-Deretter forhandles overenskomstens spesielle del (B-delen) mellom den enkelte virksomhet på den
-ene siden og på den andre siden hovedorganisasjonenes forbund eller forhandlingsgrupper.
-Resultatet fra de lokale B-dels forhandlingene godkjennes av Spekter og hovedorganisasjonene i
-avsluttende sentrale forhandlinger.
-201
-
-[Side 204]
-
-Spekter-området ekskl. helseforetakene
-I mellomoppgjøret i 2025 ble det på A-dels nivå for medlemmene i LO og YS avtalt et generelt
-tillegg på 9 750 kroner per år. Det ble gitt et ytterliggere tillegg på 3 900 kroner per år til
-arbeidstakere med en årslønn på 545 964 kroner eller lavere. Tilleggene har virkning fra 1. april
-2025. For medlemmer i Unio og SAN forhandles alle lønnstillegg lokalt i virksomhetene. Basert på
-de oppgjørene som er avsluttet gir de avtalte tilleggene på A-dels nivå i Spekter-bedrifter eksklusive
-helseforetakene et bidrag til årslønnsveksten i 2025 på 0,8 prosentpoeng. Lønnstillegg avtalt på den
-enkelte virksomhet (B-nivå) anslås i gjennomsnitt å gi et bidrag på 2,2 prosentpoeng. Sammen med
-overhenget på 1,3 prosent gir dette en årslønnsvekst fra 2024 til 2025 på 4,3 prosent før bidrag fra
-lønnsglidningen.
-Helseforetakene
-Spekter og Akademikerne Helse ble enige om at det ikke skulle forhandles om sentrale tillegg i
-2025 til medlemmer av Den norske Legeforening. Oppgjøret ble gjennomført i sin helhet lokalt.
-Spekter og forbundene i LO og YS kom til enighet i de sentrale forbundsvise forhandlingene den
-15. mai 2025. Det ble gitt et generelt tillegg til medlemmer i stillingsgruppe 1 på 15 400 kroner.
-Medlemmer i stillingsgruppe 2 og 3 fikk et generelt tillegg på 16 000 kroner med et ytterligere
-tillegg på 1 000 kroner til de med 16 års ansiennitet eller mer. Medlemmer i stillingsgruppe 4 og 5
-fikk et generelt tillegg i størrelsesordenen 16 000 – 20 500 kroner. For medlemmer i stillinger som
-ikke er omfattet av ansiennitetsstigen ble det gitt et generelt tillegg på 3,1 prosent, dog ikke mindre
-enn 18 000 kroner. Alle tillegg ble gitt med virkning fra 1. juni 2025. Minstelønnssatsene ble hevet
-slik det framgår av tabell 1.2. Det ble avtalt at det ikke skulle gjennomføres lokale forhandlinger i
-2025.
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-I de sentrale forbundsvise forhandlingene (A2) mellom Spekter og Norsk Sykepleierforbund kom
-partene til enighet den 6. mai 2025. Det ble gitt et generelt tillegg til alle medlemmer av Norsk
-Sykepleierforbund omfattet av ansiennitetsstigen i størrelsesordenen 16 000 – 20 500 kroner. For
-medlemmer i stillinger som ikke er omfattet av ansiennitetsstigen ble det gitt et generelt tillegg på
-3,1 prosent, dog ikke mindre enn 18 000 kroner. For alle medlemmer av Norsk sykepleierforbund
-ble de generelle tilleggene gitt med virkning fra 1. mai 2025. Minstelønnssatsene ble hevet slik det
-framgår av tabell 1.3. Det ble avtalt at det ikke skulle gjennomføres lokale forhandlinger i 2025.
-
-o
-F
-
-ø
-l
-re
-
-Spekter og Norsk Fysioterapeutforbund, Norsk Ergoterapeutforbund og Utdanningsforbundet kom
-til enighet i forbundsvise sentrale forhandlinger den 12. mai 2025.
-Det ble gitt et generelt tillegg til alle medlemmer av Norsk Fysioterapeutforbund og Norsk
-Ergoterapeutforbund omfattet av ansiennitetsstigen i størrelsesordenen 16 000 – 19 000 kroner. For
-medlemmer i stillinger som ikke er omfattet av ansiennitetsstigen ble det gitt et generelt tillegg på
-3,1 prosent, dog ikke mindre enn 18 000 kroner. For ledere ble det gitt et tillegg på 3,5 prosent, dog
-ikke mindre enn 20 000 kroner. For alle medlemmer av Norsk Fysioterapeutforbund og Norsk
-Ergoterapeutforbund ble de generelle tilleggene gitt med virkning fra 1. juni 2025 med unntak av
-ledere hvor det generelle tillegget ble gitt med virkning 1. mai. Det ble gitt et generelt tillegg på
-2,97 prosent til alle medlemmer av Utdanningsforbundet, dog minimum kr. 16 000. Tilleggene ble
-gitt med virkning fra 1. januar 2025. Minstelønnssatsene ble hevet slik det framgår av tabell 1.3.
-Det ble avtalt at det ikke skulle gjennomføres lokale forhandlinger i 2025.
-Bidraget til årslønnsveksten i 2025 fra oppgjørene med forbundene i Unio, LO og YS er anslått til
-2,0 prosentpoeng. Sammen med overhenget på 2,0 prosent gir dette en årslønnsvekst på 4,0 prosent
-før bidrag fra lønnsglidningen.
-
-202
-
-[Side 205]
-
-Tabell 1.2 Minstelønnssatser for stillingsgrupper i Spekter-området for LO- og YSforbundene. Ingen ansiennitet (0 år) og maksimal ansiennitet (10 år/16 år)
-Ansiennitet 0 år
-1. juli
-1.juni
-2024
-2025
-
-Ansiennitet 10 år/16 år
-1.juni
-2025
-
-Endring
-
-1. juli
-2024
-
-Endring
-
-Stillinger hvor det
-ikke kreves særskilt
-utdanning*
-
-395 000
-
-410 400
-
-15 400
-
-485 000
-
-500 400
-
-15 400
-
-Fagarbeiderstillinger/3
-års videregående
-utdanning m.m.*
-
-436 000
-
-452 000
-
-16 000
-
-527 000
-
-544 000
-
-17 000
-
-Stillinger med krav
-om høyskoleutdanning
-
-485 000
-
-501 000
-
-16 000
-
-589 000
-
-608 000
-
-19 000
-
-Stillinger med krav
-om høyskoleutdanning
-med spesialutdanning
-
-538 000
-
-555 000
-
-17 000
-
-675 000
-
-694 000
-
-19 000
-
-e
-v
-ga
-
-* Maksimal ansiennitet for stillinger hvor det ikke kreves særskilt utdanning, samt Fagarbeiderstillinger/3 års
-videregående utdanning mv. er 16 år.
-
-t
-u
-g
-
-Kilde: Spekter
-
-Tabell 1.3 Minstelønnssatser for stillingsgrupper i Spekter-området for medlemmer i
-Unio-forbundene med A2-forhandlinger. Ingen ansiennitet (0 år) og maksimal
-ansiennitet (10 år)
-
-Grunnstillinger
-Stillinger med
-spesialkompetanse
-Kilde: Spekter
-
-1.5
-
-1. mai/jul
-2024
-
-1. jan/mai/jun
-2025
-
-485 000
-
-501 000
-
-538 000
-
-555 000
-
-o
-F
-
-i
-p
-
-ø
-l
-re
-Ansiennitet 0 år
-
-Endring
-
-Ansiennitet 10 år
-1.juli 1.jan/mai/jun
-2024
-2025
-
-Endring
-
-16 000
-
-589 000
-
-608 000
-
-19 000
-
-17 000
-
-675 000
-
-694 000
-
-19 000
-
-Konflikter i 2025-oppgjøret
-
-Det er ikke registrert noen konflikter i forbindelse med lønnsoppgjørene i 2025.
-
-203
-
-[Side 206]
-
-Vedlegg 2.
-
-2 Definisjoner av en del lønnsbegreper m.m.
-I dette vedlegget defineres en del sentrale begreper som bl.a. brukes i kapitlene om
-lønnsutviklingen. Beregning av årslønn og årslønnsvekst før og ved overgang til nytt datagrunnlag
-fra 2015 er beskrevet i tidligere rapporter, senest NOU 2017: 10 Grunnlaget for inntektsoppgjørene
-2017. Her beskrives bare datasituasjonen som gjelder fra og med 2015.
-
-Statistikker om lønn fra Statistisk sentralbyrå
-Statistikk om lønn fra Statistisk sentralbyrå (SSB) bygger på opplysninger fra a-meldinger gjennom
-a-ordningen. A-ordningen omfatter alle arbeidsgivere og er en samordnet rapportering av
-opplysninger om lønn, arbeidsforhold og skatt til Skatteetaten, NAV og SSB regulert av aopplysningsloven.
-Alle arbeidsgivere som har betalt ut lønn, kontantytelser eller naturalytelser må levere a-melding.
-Datamaterialet omfatter dermed alle ansatte i alle foretak med rapporteringsplikt til de nevnte
-forvaltningsorganene. 84 A-meldingen rapporteres månedlig. Utbetalinger rapporteres for den
-måneden de er utbetalt, men ikke nødvendigvis opptjent.
-
-e
-v
-ga
-
-t
-u
-g
-
-All statistikk i SSB som omhandler lønn for lønnstakere og jobber har nå a-ordningen som
-datakilde. Til ulike statistikker kan det være ulike beregningsmetoder. Det blir laget både
-månedslønn og årslønnsberegninger. SSB produserer også lønnsstatistikk på oppdrag for
-tarifformål.
-
-Månedslønn
-
-i
-p
-
-ø
-l
-re
-
-Lønnsbegrepet månedslønn i statistikken omfatter avtalt lønn 85, bonus 86 og uregelmessige tillegg. 87
-Månedslønn omfatter ikke overtidsgodtgjørelse og naturalytelser, men det gis statistikk over
-overtidsgodtgjørelse som en del av statistikken. Ved beregning av månedslønn er deltidsansatte
-regnet om til heltidsekvivalenter.
-
-o
-F
-
-SSB publiserer en kvartalsvis statistikk, «Antall arbeidsforhold og lønn», med månedslønn for
-midtmåneden i hvert kvartal. En gang i året publiseres en lønnsstatistikk som har noe mer
-detaljering i kjennemerker og flere statistiske mål. Det er denne statistikken som er benyttet i de
-fleste tabeller i kapittel 2 i rapporten (og kalles ofte lønnsstatistikken), tellingstidspunktet er
-november. Målingen av avtalt månedslønn er lik i begge statistikkene. Til og med 2019 var
-tellingstidspunktet for den årlige statistikken september. De andre lønnskomponentene,
-uregelmessige tillegg og bonuser er gjennomsnitt fra 1. januar til og med november i den årlige
-statistikken, mens de i kvartalsstatistikken beregnes for tellingsmåneden, midtmåneden i kvartalet.
-
-84
-
-Selvstendig næringsdrivendes inntekt fra egen virksomhet er ikke omfattet.
-
-85
-
-Avtalt lønn inkludert faste tillegg.
-
-Bonus omfatter her også produksjonstillegg, provisjoner, gratialer mv., som ofte ikke er knyttet til bestemte
-arbeidsoppgaver og kan opptre ujevnt.
-86
-
-87
-Uregelmessige tillegg omfatter bl.a. tillegg for ubekvem arbeidstid, utkallingstillegg, skifttillegg, smusstillegg,
-offshoretillegg og andre tillegg som følge av arbeidets art. Uregelmessige tillegg er som regel knyttet til spesielle
-arbeidsoppgaver eller arbeidstider.
-
-204
-
-[Side 207]
-
-Et hovedformål med kvartalsvis lønnsstatistikk er måling av lønnsendring gjennom året til bruk i
-konjunkturovervåkingen.
-Eventuelle etterbetalinger av lønn i tellingsmåneden innarbeides i SSBs årslønnsberegning, men er ikke
-med i månedslønn.
-
-Årslønn
-Årslønn er den beregnede lønnen i et arbeidsforhold for et kalenderår, der lønnen regnes om til å
-tilsvare heltidsarbeid hele året og beregnes i som om det er full lønn under ferie og annet fravær.
-Det betyr bl.a. at variasjon i sykefravær ikke påvirker beregnet årslønn eller årslønnsvekst direkte,
-men kan gi opphav til sammensetningseffekter. Årslønnen omfatter avtalt lønn, bonus og
-uregelmessige tillegg. Naturallønn, lønn for overtidsarbeid og sluttvederlag er derimot ikke
-inkludert.
-Ved beregning av årslønn er deltidsansatte regnet om til heltidsekvivalenter. Et årsverk for
-heltidsansatte består ikke av det samme antall arbeidstimer for alle lønnstakergrupper. Forskjeller
-kan for eksempel skyldes omfang av skiftarbeid og turnus.
-
-e
-v
-ga
-
-I rapporten anvendes både SSBs årslønnsberegninger for utbetalt og påløpt årslønn, og beregninger
-av årslønn og årslønnsvekst for forhandlingsområdene. Innholdet i årslønnsbegrepet er i
-utgangspunktet det samme, men det er forskjeller i kilder, populasjon og metode. Under gis en
-oversikt over årslønnsberegningene.
-
-t
-u
-g
-
-i
-p
-
-Utbetalt årslønn
-Årslønnen er summen av utbetalt avtalt lønn, bonus og uregelmessige tillegg i kalenderåret. Ved
-beregning av utbetalt årslønn inkluderes bare måneder med utbetalt lønn for det enkelte
-arbeidsforhold. Det betyr for eksempel at sykmeldte og permitterte bare teller med i
-lønnspliktperioden. Det er en forskjell fra definisjonen av årslønn over, der lønnstaker tillegges full
-lønn i perioder med midlertidig fravær uten lønnsutbetaling. Etterbetalinger utbetalt i tellingsåret
-telles med også når de er tjent opp året før, mens opptjent lønn som utbetales året etter ikke kommer
-med. Forannevnte innebærer at denne beregningen av årslønn ofte omtales som utbetalt eller
-bokført.
-
-o
-F
-
-ø
-l
-re
-
-Påløpt årslønn
-Påløpt årslønn (tidligere kalt årslønn i nasjonalregnskapet) beregnes ut fra definisjonen av årslønn
-innledningsvis. Kildegrunnlaget er hentet fra a-ordningen. Populasjonen er alle lønnstakere i
-bedriftene som inngår i produksjonsavgrensningen for Norge, som er den samme populasjonen som
-for utbetalt årslønn.
-Beregningsmetodene for påløpt og utbetalt kan variere noe. Blant annet vil etterbetalinger i den
-utbetalte årslønnen plasseres i den måneden de kommer til utbetaling, mens påløpt årslønn beregner
-når etterbetalingene er opptjent og benevnes derfor som påløpt. Feriepengetillegg inkluderes
-derimot det året de kommer til utbetaling, og ferietrekk for de fastlønnede trekkes fra samme år som
-trekket er foretatt.
-Påløpt og utbetalt årslønn benyttes i kapittel 2 for å vise årslønnsvekst for hele økonomien, i kapittel
-9 samt i vedlegg 6.
-
-205
-
-[Side 208]
-
-Årslønn i forhandlingsområdene
-Beregningene av årslønn og årslønnsvekst for forhandlingsområdene bygger på lønnsstatistikk for
-de enkelte gruppene, og på opplysninger om lønnstillegg og reguleringstidspunkter i de enkelte år.
-A-ordningen utgjør grunnlaget for statistikken og årslønnsberegningene, med unntak av for KS og
-Spekter øvrige bedrifter, der arbeidsgiverorganisasjonene samler inn data.
-Beregningene er basert på opplysninger om time- eller månedslønn eksklusive overtidstillegg.
-Månedslønnen består av avtalt lønn, bonus og uregelmessige tillegg. Beregningene inneholder de
-samme lønnskomponentene for alle grupper. Noen av lønnskomponentene som inngår kan være
-bransjespesifikke tillegg, slik som for eksempel skifttillegg og ulempetillegg.
-For NHO-bedrifter beregnes årslønn fra måneder med utbetalt lønn, basert på opplysninger for alle
-måneder i året 88, og ut fra dette beregnes lønnsglidning og overheng sammen med kunnskap om
-tariffmessig lønnsøkning. Datagrunnlaget består av avtalt lønn, bonus og uregelmessige tillegg samt
-timer per måned, og omfatter for NHO-bedrifter en rekke personopplysninger som er nødvendige
-for å knytte materialet mot tariffavtaler og beregne årslønn på en nøyaktig og sammenlignbar måte.
-For NHO-bedrifter blir årslønnsberegningene for tariffavtaler/næringsområder vektet opp med
-NHOs register («statistikkregister») til større grupper som for eksempel industriarbeidere,
-industrifunksjonærer, industriansatte i alt, arbeidere i alt, etc. (lærlinger og unge under 18 år er ikke
-med i statistikken). Både bonus og uregelmessige tillegg inngår i beregningen med gjennomsnittlig
-nivå over 12 måneder, og får dermed ikke virkning på lønnsoverhenget. I beregning av
-lønnsoverheng, er det justert for etterbetalinger der dette er kjent ved glatting av nivåene noe tilbake
-i tid.
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-Lønnsnivået for statistikkåret (t) kan ikke alltid sammenlignes direkte med lønnsnivåtall for foregående
-år, for å beregne årslønnsveksten. Det er lønnsutviklingen for statistikkårets populasjon i NHOs
-overenskomster og større grupper, som skal måles. I beregningen av årslønnsvekst tas det derfor hensyn
-til eventuelle endringer i populasjonene når dette påvirker lønnsnivået, for eksempel bevegelser i
-medlemsmassen. Hvert år etableres det dermed lønnsnivå for begge de to seneste årene som inngår i
-beregning av lønnsveksten, år t (statistikkåret) og år t-1.
-For forhandlingsområdene i tabell 1.1 utenom NHO-bedrifter, beregnes årslønn ved å ta
-utgangspunkt i lønnsstatistikk for samme måned to påfølgende år. Økningen i månedslønnen over
-denne 12-månedersperioden deles i tariffmessig lønnsøkning og lønnsglidning. Tariffmessig
-lønnsøkning anslås på grunnlag av tariffavtaler og kan fordeles på bestemte tidspunkter.
-Lønnsglidningen beregnes som en restpost, og blir fordelt på ett eller flere tidspunkter, bl.a. ut fra
-kunnskap om virkningstidspunkt for lokalt avtalte tillegg. Under forutsetning av at det ikke gis
-sentrale tillegg helt på slutten av året, eller det foreligger andre opplysninger om lønnsutviklingen,
-legger utvalget til grunn at lønnsnivået på tellingspunktet holder seg på samme nivå ut året. Deretter
-beregnes et gjennomsnittlig lønnsnivå, eller årslønn, for det aktuelle året. Lønnsøkning som
-kommer etter tellingstidspunktet, trekker opp årslønnen i det påfølgende året og bidrar til
-årslønnsvekst i det året.
-KS samler inn data for ansatte i kommuner, fylkeskommuner og ansatte som arbeider i
-virksomheter som følger tariffavtaler hvor KS og Oslo kommune er part. Tellingstidspunktet er 1.
-desember. KS har også en egen undersøkelse av virkningstidspunkter brukt for lønnstillegg ved
-lokale forhandlinger.
-
-o
-F
-
-ø
-l
-re
-
-I den tidlige beregningen i februar beregnes lønnsnivåene for desember dersom foreløpige tall for desember ikke
-foreligger.
-88
-
-206
-
-[Side 209]
-
-Spekter samler inn data fra Spekters medlemsvirksomheter som ikke er helseforetak.
-Tellingstidspunktet er 1. desember, og det er lønnen for november som måles. Virkningstidspunkt
-for lønnstillegg ved lokale forhandlinger i de fleste virksomheter i Spekter øvrige er 1. april.
-Lønnsnivået i hvert område/overenskomst skal reflektere statistikkårets populasjon, og
-lønnsutviklingen for denne. I beregning av årslønnsvekst tas det derfor hensyn til eventuelle
-endringer i statistikkpopulasjonene når dette påvirker lønnsnivået, for eksempel bevegelser i
-medlemsmassen i arbeidsgiverorganisasjonene. Hvert år etableres et lønnsnivå for de to seneste
-årene som inngår i beregning av lønnsveksten, år t og t-1. Det betyr at lønnsnivået for det seneste
-året (t) ikke alltid kan sammenlignes direkte med lønnsnivåer i statistikken årene før. Samtidig kan
-lønnsnivået i det første året (t-1) være forskjellig fra det som ble etablert året før basert på et annet
-datagrunnlag.
-Av forhandlingsområdene i tabell 1.1 er beregningene avgrenset til heltidsansatte for Virkebedrifter i varehandelen. For de øvrige områdene beregnes årslønnsveksten for heltids- og
-deltidsansatte under ett. Heltidsansatte er ansatte med stillingsprosent lik 100. Se også omtalen
-under arbeidstid.
-Det er også andre forskjeller mellom SSBs statistikker og forhandlingsstatistikk. Unge arbeidstakere
-(under 18 år), lærlinger, ledere og ansatte over 72 år er for eksempel ikke med i flere
-forhandlingsstatistikker, men er inkludert i lønnsstatistikken fra SSB. Ledere inngår i all
-lønnsstatistikk fra SSB, men er kun med i de aggregerte tallene for Virke-området i lønnsstatistikk
-for forhandlingsområder.
-
-Lønnssummer
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-SSB startet i april 2020 publiseringen av en ny, månedlig statistikk over lønnssummer som
-beskriver utviklingen av grunnlag for arbeidsgiveravgift, beregnet arbeidsgiveravgift og
-kontantlønn. Grunnlaget for arbeidsgiveravgift er delt opp på lønn og andre
-arbeidsgiveravgiftspliktige godtgjørelser, tilskudd og premier til pensjonsordninger fratrukket
-arbeidstakeres egenandeler, og refusjoner av sykepenger som medfører reduksjon av
-avgiftsgrunnlaget. Refusjoner av sykepenger omfatter i en normalsituasjon avgiftspliktig lønn og
-andre ytelser arbeidsgiver har forskuttert etter arbeidsgiverperioden for ansatte med sykefravær eller
-som var i foreldrepermisjon. Som en del av de midlertidige nasjonale tiltakene i 2020 ble
-«Refusjoner av sykepenger» utvidet til og brukes også for refusjon av lønn til permitterte (fra 13.
-mars 2020) og lønn til ansatte med koronarelatert fravær (fra 20. mars 2020). Ordningen med
-refusjon av lønn til permitterte gjaldt til og med 31. august 2020. Ordningen med refusjon for lønn
-til ansatte med koronarelatert fravær ble forlenget til 30. juni 2022.
-
-o
-F
-
-ø
-l
-re
-
-Lønnsoverheng
-Lønnsoverhenget beskriver hvor mye lønnsnivået ved utløpet av ett år ligger over
-gjennomsnittsnivået for året. Det forteller dermed hvor stor årslønnsveksten fra ett år til det neste vil
-bli dersom det ikke gis lønnstillegg i det andre året og det ikke er sammensetningseffekter som
-redegjort for i boks 1.1 i kapittel 1.
-Dersom alle lønnstillegg ble gitt med virkning fra begynnelsen av året og lønnsnivået ikke endret
-seg gjennom året, ville lønnsoverhenget per definisjon være null. Tarifftillegg og lønnsøkninger
-ellers blir imidlertid gitt på ulike tidspunkter for ulike lønnstakergrupper og spredt utover hele året.
-Lønnstillegg som gis sent i året, fører til større overheng til neste år enn tilsvarende tillegg som gis
-tidlig i året.
-207
-
-[Side 210]
-
-For bonusutbetalinger anvendes årsgjennomsnittet i lønnsnivået ved utgangen av året i
-overhengsberegningen, slik at bonus ikke påvirker overhenget. Bonusutbetalinger skyldes ofte
-spesielle forhold i ett år, men kan også forventes utbetalt i ett eller annet omfang hvert år, selv om
-utbetalingen ikke er knyttet til bestemte arbeidsoppgaver.
-Størrelsen på overhenget vil ofte være beheftet med usikkerhet når det ikke foreligger fullstendig
-informasjon om lønn for hele kalenderåret på beregningstidspunktet. Dermed blir lønnsoverhenget i
-noen grad et tolkingsspørsmål, bl.a. knyttet til tidspunktene for når lønnsøkningen skjer. En
-konsekvent praksis for å håndtere dette i beregningene medvirker til å redusere usikkerheten. Dette
-er bakgrunnen for at utvalgets beregninger av lønnsoverheng for tariffområder ikke har vært fullt ut
-i samsvar med den prinsipielle definisjonen av overheng. Under forutsetning av at det ikke gis
-sentrale tillegg på slutten av året, eller det foreligger andre opplysninger om lønnsutviklingen, har
-utvalget lagt til grunn at lønnsnivået på tellingspunktet for lønnsstatistikken holder seg på samme
-nivå ut året. Det betyr at overhenget for tariffområder har vært beregnet på grunnlag av lønnsnivået
-på tellingspunktet i forhold til gjennomsnittet for året. Dette har vært en praktisk tilpasning fordi vi
-før a-ordningen ble innført fra og med 2015 hadde lite informasjon om lønnsveksten mot slutten av
-året og fordi overhengsberegningene for forhandlingsområder må være ferdige i god tid før
-forhandlingene starter opp.
-
-e
-v
-ga
-
-Utvalget benytter fortsatt denne metoden for forhandlingsområdene utenom NHO-bedrifter. For
-NHO-bedrifter bygger beregningene av årslønn og overheng nå på opplysninger om utbetalt lønn
-for alle måneder i året, når disse foreligger. Gjennomsnittslønnen for månedene oktober–desember
-representerer lønnsnivået ved utgangen av året. I foreløpig rapport i februar blir lønnen i desember
-beregnet på grunnlag av foregående måneder og år, dersom informasjon for desember ikke
-foreligger.
-
-t
-u
-g
-
-i
-p
-
-Valget av metode for beregning av overheng påvirker ikke størrelsen på samlet, beregnet lønnsvekst
-sett over flere år, men påvirker fordelingen av årslønnsveksten mellom år og fordelingen mellom
-overheng og bidrag fra lønnsglidning i det enkelte året.
-
-o
-F
-
-ø
-l
-re
-
-Tariffmessig lønnsøkning
-
-Tariffmessig lønnsøkning er lønnsøkning fastsatt i tariffavtaler. Tariffmessig lønnsøkning kan være
-generelle tillegg, lavlønnstillegg, garantitillegg, tillegg på minstelønnssatser etc. som følge av
-sentrale eller forbundsvise forhandlinger. Tariffmessig lønnsøkning beregnes på grunnlag av
-tariffavtaler og kan fordeles på bestemte tidspunkter i løpet av året.
-
-Lønnsglidning
-Lønnsglidning framkommer beregningsmessig som forskjellen mellom total lønnsøkning i en
-bestemt periode og tariffmessig lønnsøkning i den samme perioden. Lønnsglidningen blir dermed
-en restpost. Det er et sammensatt lønnsbegrep som bl.a. kan omfatte lønnstillegg som er gitt på de
-enkelte arbeidsplasser og økt fortjeneste pga. økt akkord. Det inkluderer også endringer i
-gjennomsnittlig lønnsnivå som følge av sammensetningseffekter, jf. boks 1.1 i kapittel 1. Tillegg
-ved lokale forhandlinger i privat sektor og for stillinger med bare lokal lønnsdannelse i kommunene
-regnes som lønnsglidning. For ansatte i staten og i kommunene med sentral lønnsdannelse, er tillegg
-ved lokale forhandlinger normalt en del av rammen fastsatt sentralt. I den grad det ved lokale
-forhandlinger gis tillegg ut over hva som er fastsatt sentralt, vil dette framkomme som
-lønnsglidning. Eksempelvis kan etatene/virksomhetene i staten overføre penger fra driftsbudsjettet
-til lønnsmidler. I tillegg kan partene lokalt føre forhandlinger på særlig grunnlag.
-208
-
-[Side 211]
-
-I utvalgets rapporter presenteres tall for bidraget fra lønnsglidningen til årslønnsveksten i de store
-tariffområdene, jf. tabell 1.3 i kapittel 1. I tabellen dekomponeres årslønnsveksten i bidrag fra
-overheng fra året før og bidrag fra tarifftillegg og lønnsglidning i beregningsåret. Normalt betyr
-lønnsglidningen og tarifftilleggene mer for årslønnsveksten enn det som framgår av
-dekomponeringen fordi en del av lønnsendringene i beregningsåret inngår i lønnsoverhenget og
-dermed i årslønnsveksten i året etter, jf. definisjonen av lønnsoverheng over.
-
-Arbeidstid
-Den lovbestemte alminnelige arbeidstiden er 40 t/uke, men kan overstige dette. Avtalefestet
-normalarbeidstid er den arbeidstid per uke som gjelder for vedkommende lønnstakergruppe ifølge
-tariffavtaler. Den er vanligvis 37,5 t/uke. Ved arbeidstidsordninger som skift-, turnus- og nattarbeid,
-er både lovfestet og avtalt arbeidstid lavere enn dette. Mellom LO og NHO er for eksempel
-avtalefestet arbeidstid 36,5 t/uke for vanlig 2-skiftarbeid, 35,5 t/uke for døgnkontinuerlig skift- og
-sammenlignbart turnusarbeid og 33,6 t/uke for helkontinuerlig skift- og sammenlignbart
-turnusarbeid.
-
-e
-v
-ga
-
-For arbeidere i NHO-bedrifter baseres beskrivelsen av lønnsutviklingen på timefortjenesten
-omregnet til 37,5 t/uke. I en del bransjer/tariffområder hvor det forekommer skiftarbeid, er
-timelønnssatsen for dette arbeidet fastsatt slik at fortjenesten per uke er den samme uansett hvilken
-arbeidstidsordning som gjelder. For å kunne sammenligne lønnstall bransjer imellom, omregnes
-timefortjenestene slik at de tilsvarer en ukentlig arbeidstid på 37,5 timer. Med utgangspunkt i
-faktisk timelønn medfører omregning til 37,5 t/uke at bransjer med mye skiftarbeid vil få et relativt
-lavere lønnsnivå enn før omregningen i forhold til bransjer hvor det er lite skiftarbeid.
-
-t
-u
-g
-
-i
-p
-
-I a-meldingen rapporteres stillingsprosent (hvor stor andel arbeidsforholdet utgjør av full stilling) og
-antall arbeidstimer per uke for full stilling. Dette gjelder også for arbeidstakere som har en
-varierende arbeidstid fra uke til uke. Det innhentes også opplysninger om ulike
-arbeidstidsordninger, for eksempel døgnkontinuerlig/helkontinuerlig skift eller turnusarbeid.
-
-ø
-l
-re
-
-I den publiserte lønnsstatistikken fra SSB defineres heltidsansatte som «ansatte med stillingsprosent
-større eller lik 100». Alle med stillingsprosent lavere enn 100 regnes som deltidsansatte. Ved å
-kombinere informasjon om stillingsprosent og antall timer per uke i full stilling, beregnes en avtalt
-arbeidstid per uke for hver ansatt. Definisjonen av en heltidsstilling vil derved bestemmes av hva
-som er oppgitt som avtalt arbeidstid per uke for full stilling. Majoriteten av de heltidsansatte har en
-ukentlig avtalt arbeidstid på 37,5 timer, men varierer fra så lavt som 28 timer per uke til over 40
-timer per uke.
-
-o
-F
-
-For å kunne sammenligne årslønn eller lønn per måned mellom heltids- og deltidsansatte omregnes
-lønnen til de deltidsansatte til hva den ville vært hvis de jobbet heltid. Arbeidstiden per måned
-standardiseres slik at beregnet månedslønn ikke påvirkes av endringer i kalenderen fra et år til et
-annet.
-
-Lønn per utførte timeverk i nasjonalregnskapet
-Lønn per utførte timeverk i nasjonalregnskapet er definert som forholdet mellom utbetalt lønn (inkl.
-overtidsbetaling, men ekskl. arbeidsgivers trygde- og pensjonspremier) og antall utførte timeverk
-for lønnstakere. I utførte timeverk inngår overtidstimer, mens fravær som innebærer at timeverk
-ikke blir utført, ikke er med selv om fraværet er lønnet. Antall utførte timeverk er også påvirket av
-bevegelige helligdager og skuddår, som gir endringer i antall arbeidsdager fra ett år til et annet. De
-fleste årene er endringen på mellom én og tre dager, og mange år er antall virkedager det samme
-som året før.
-209
+*Helt ledige og tiltaksdeltakere* (bruttoledighet) er personer som er registrert som helt ledige (personer uten arbeid de siste to ukene) og tiltaksdeltakere hos Nav som (i) ikke er på helserelaterte tiltak (arbeidsrettet rehabilitering, helsemessig utredning eller behandling og tilrettelegging) eller (ii) er personer med nedsatt arbeidsevne. *Arbeidssøkere* er personer som er registrert som arbeidssøkere hos Nav, og er summen av helt ledige, delvis ledige og tiltaksdeltakere som definert over. Grunnet at noen tiltaksdeltakere ikke er registrert som arbeidssøkere er ikke tallene for bruttoledigheten og arbeidssøkere før og etter januar 2017 fullt ut sammenliknbare.
+
+\[Boks slutt\]
+
+Innvandring og ikke-bosatte lønnstakere
+
+*Nettoinnvandringen* til Norge i 2025 var lavere enn året før. Det må ses i sammenheng med redusert nettoinnvandring fra Ukraina. I 1.–4. kvartal 2025 var nettoinnvandringen fra Ukraina i gjennomsnitt om lag 1 500 personer per kvartal, mot 3 700 personer i samme periode i 2024. Det bidro til at samlet nettoinnvandring til Norge i 1.–4. kvartal 2025 var 35 prosent lavere enn i 1.–4. kvartal 2024.[^45]<sup>,</sup>[^46] Av alle ukrainere bosatt i Norge som innvandret etter Russlands invasjon av Ukraina i februar 2022 var 39,5 prosent i jobb i januar 2026 ifølge foreløpige tall.[^47] Det er en økning fra januar 2025, da tilsvarende andel var 30,0 prosent. Den lave andelen som var i jobb må ses i sammenheng med at mange deltar i introduksjonsprogrammet for nyankomne flyktninger, og ved utgangen av juni 2025 var om lag 58 prosent av flyktninger fra Ukraina med endt introduksjonsprogram sysselsatt.[^48]<sup>,</sup>[^49]<sup>,</sup>[^50]
+
+Ikke-bosatte lønnstakere, antall (venstre akse) og andel av alle lønnstakere (høyre akse). 1 000 personer og prosent, endelige tall, sesongjustert. Januar 2016–desember 2025
+
+Kilde: Statistisk sentralbyrå
+
+I 2025 var det i gjennomsnitt 87 200 *ikke-bosatte lønnstakere* (målt som gjennomsnitt av kvartalstallene), en oppgang på 1,2 prosent fra 2024. Det var likevel 5,8 prosent færre enn i 2019, året før koronapandemien. Figur 7.4 viser at antall ikke-bosatte lønnstakere fortsatt er under trenden fra før koronapandemien ifølge sesongjusterte månedstall. Innen industrien i alt var oppgangen i antall ikke-bosatte lønnstakere fra 2024 til 2025 på 0,7 prosent. Bygge- og anleggsvirksomheten, hvor det gjennom 2025 har vært en aktivitetsnedgang innen byggenæringen, sysselsetter nesten hver fjerde ikke-bosatte lønnstaker.[^51] I denne næringen var det en nedgang i antall ikke-bosatte lønnstakere fra 2024 til 2025 på 5,5 prosent.
+
+## Sysselsetting i ulike næringer
+
+Ifølge foreløpig nasjonalregnskap økte antall sysselsatte med 0,7 prosent fra 2024 til 2025, med høyest vekst i 1. kvartal 2025. Veksten i antall timeverk var også høyest i 1. kvartal 2025. På årsbasis økte antall timeverk med 0,5 prosent fra 2024 til 2025.
+
+*Sysselsettingsutviklingen etter næring* er vist i tabell 7.2 og figur 7.5.[^52] Antall sysselsatte og timeverk innen utvinning av råolje og naturgass økte jevnt gjennom 2023, men veksten avtok noe gjennom 2024 og 2025. Innen verfts- og verkstedindustrien dempet også veksten seg fra 2024 til 2025, men her var veksten i både sysselsetting og antall timeverk generelt mer moderat enn innen utvinning av råolje og naturgass. I industrien samlet var det noe tiltakende sysselsettingsvekst i 2025 sammenlignet med 2023 og 2024. Dette er vist i figur 7.5A.
+
+Innen bygge- og anleggsvirksomhet falt både sysselsettingen og antall timeverk jevnt gjennom 2023 og 2024, og fallet fortsatte gjennom 2025, se figur 7.5B. Innen faglig, vitenskapelig og teknisk tjenesteyting vokste både sysselsettingen og antall timeverk gjennom 2023 og 2024, men veksttakten var mer moderat gjennom 2025.
+
+Etter en kraftig vekst i sysselsettingen innen overnattings- og serveringsvirksomhet etter koronapandemien var utviklingen gjennom 2023 og 2024 mer moderat, mens den har tatt seg noe mer opp igjen gjennom 2025. Antall timeverk innen denne næringen økte også gjennom 2024 og 2025.
+
+Sysselsettingen innen forretningsmessig tjenesteyting, som blant annet omfatter utleie av arbeidskraft, falt kraftig gjennom 2023. Noe av dette må ses i sammenheng med nye regler for innleie av arbeidskraft iverksatt fra og med april 2023. Nedgangen i sysselsettingen i næringen utleie av arbeidskraft var derimot ikke like kraftig i 2024, og stabiliserte seg i løpet av 2025.[^53] Sysselsettingen innen varehandel og reparasjon av motorvogner hadde en flat utvikling gjennom både 2024 og 2025, mens antall timeverk falt noe i løpet av de to årene sett under ett.
+
+Utviklingen i sysselsettingen i offentlig forvaltning er vist i figur 7.5C. Veksten i sysselsettingen i statsforvaltningen gjennom 2025 var noe høyere enn i 2023 og 2024, og for antall timeverk tok veksten seg ytterligere opp i 2025, spesielt i 3. kvartal. Sysselsettingen i kommuneforvaltningen var om lag uendret som årsgjennomsnitt fra 2024 til 2025, mens veksten i antall timeverk økte noe fra 2024 til 2025.
+
+Sysselsatte etter næring. Sesongjustert endring fra 1. kvartal 2013. Indeks (2013 = 100). 1. kvartal 2013–4. kvartal 2025
+
+Kilde: Statistisk sentralbyrå
+
+Sysselsatte og timeverk ifølge nasjonalregnskapet. 2023–2025
+
+10J3xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 12%" />
+<col style="width: 9%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="2" style="text-align: center;">Nivå</td>
+<td style="text-align: center;"></td>
+<td colspan="7" style="text-align: center;">Endring fra året før i prosent</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">Sysselsetting</td>
+<td style="text-align: right;">Timeverk</td>
+<td style="text-align: right;"></td>
+<td colspan="3" style="text-align: center;">Sysselsetting</td>
+<td style="text-align: center;"></td>
+<td colspan="3" style="text-align: center;">Timeverk</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">2025*</td>
+<td style="text-align: right;">2025*</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024*</td>
+<td style="text-align: right;">2025*</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024*</td>
+<td style="text-align: right;">2025*</td>
+</tr>
+<tr>
+<td>I alt</td>
+<td style="text-align: right;">3 013,2</td>
+<td style="text-align: right;">4 174,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">0,5</td>
+</tr>
+<tr>
+<td>Olje og utenriks sjøfart</td>
+<td style="text-align: right;">34,1</td>
+<td style="text-align: right;">52,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">2,0</td>
+</tr>
+<tr>
+<td>Fastlands-Norge</td>
+<td style="text-align: right;">2 979,1</td>
+<td style="text-align: right;">4 122,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">0,5</td>
+</tr>
+<tr>
+<td>Industri og bergverksdrift</td>
+<td style="text-align: right;">239,4</td>
+<td style="text-align: right;">367,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">1,9</td>
+</tr>
+<tr>
+<td>Annen vareproduksjon</td>
+<td style="text-align: right;">338,1</td>
+<td style="text-align: right;">529,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">-1,4</td>
+<td style="text-align: right;">-1,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-0,7</td>
+<td style="text-align: right;">-1,6</td>
+<td style="text-align: right;">-1,5</td>
+</tr>
+<tr>
+<td>– Primærnæringer</td>
+<td style="text-align: right;">70,0</td>
+<td style="text-align: right;">117,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-0,8</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">-0,8</td>
+</tr>
+<tr>
+<td>– Elektrisitetsforsyning</td>
+<td style="text-align: right;">19,2</td>
+<td style="text-align: right;">30,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">3,6</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">2,7</td>
+</tr>
+<tr>
+<td>– Bygge- og anleggsvirksomhet</td>
+<td style="text-align: right;">248,9</td>
+<td style="text-align: right;">381,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">-2,4</td>
+<td style="text-align: right;">-2,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-0,9</td>
+<td style="text-align: right;">-2,6</td>
+<td style="text-align: right;">-2,0</td>
+</tr>
+<tr>
+<td>Tjenesteytende næringer ekskl.<br />
+offentlig forvaltning</td>
+<td style="text-align: right;">1 487,0</td>
+<td style="text-align: right;">1 995,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">0,1</td>
+<td style="text-align: right;">0,5</td>
+</tr>
+<tr>
+<td>– Tjenester tilknyttet utvinning av råolje og naturgass</td>
+<td style="text-align: right;">39,6</td>
+<td style="text-align: right;">61,3</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">7,4</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">6,1</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">5,1</td>
+</tr>
+<tr>
+<td>– Varehandel</td>
+<td style="text-align: right;">372,0</td>
+<td style="text-align: right;">446,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-1,0</td>
+<td style="text-align: right;">-0,8</td>
+<td style="text-align: right;">-0,6</td>
+</tr>
+<tr>
+<td>– Samferdsel (ekskl. utenriks sjøfart)</td>
+<td style="text-align: right;">129,5</td>
+<td style="text-align: right;">187,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">1,4</td>
+</tr>
+<tr>
+<td>– Annen tjenesteyting</td>
+<td style="text-align: right;">985,5</td>
+<td style="text-align: right;">1 360,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,1</td>
+<td style="text-align: right;">0,8</td>
+</tr>
+<tr>
+<td>Offentlig forvaltning</td>
+<td style="text-align: right;">914,6</td>
+<td style="text-align: right;">1 231,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">0,8</td>
+</tr>
+<tr>
+<td>– Statsforvaltningen (inkl.<br />
+helseforetakene)</td>
+<td style="text-align: right;">337,7</td>
+<td style="text-align: right;">501,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">1,6</td>
+</tr>
+<tr>
+<td>– Kommune-forvaltningen</td>
+<td style="text-align: right;">576,9</td>
+<td style="text-align: right;">730,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">-0,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,0</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">0,2</td>
+</tr>
+</tbody>
+</table>
+
+\* Foreløpige tall
+
+Kilde: Tabell 09174 i Statistikkbanken, Statistisk sentralbyrå
+
+## Arbeidsledighet
+
+AKU-arbeidsledigheten sett under ett var 4,5 prosent i 2025, opp fra 4,0 prosent i 2024. Målt som trendtall økte arbeidsledigheten gjennom første halvår 2025, for deretter å stabilisere seg på i underkant av 140 000 personer i andre halvår 2025, se figur 7.3D. Arbeidsledigheten målt som andel av arbeidsstyrken var 0,4 prosentpoeng over gjennomsnittet for tiårsperioden før koronapandemien.
+
+Økningen i AKU-arbeidsledigheten i første halvår 2025 var i stor grad preget av økt arbeidstilbud, ved at flere som tidligere sto utenfor arbeidsstyrken begynte å søke jobb og dermed ble klassifisert som arbeidsledige i AKU. Spesielt innen aldersgruppen 15–24 år gikk AKU-arbeidsledigheten opp i første halvdel av 2025, hvor mye var drevet av at flere studenter og elever (definert som personer under utdanning siste fire uker) i denne aldersgruppen ønsket å jobbe. Fra 2024 til 2025 økte ledigheten blant personer under 25 år med 11 000 personer, tilsvarende mer enn 70 prosent av den samlede veksten i AKU-ledigheten. Det var også en økning i AKU-ledigheten blant personer i aldersgruppen 25–39 år i 2025. I denne aldersgruppen gikk antall sysselsatte, ifølge AKU, ned fra 2024 til 2025 samtidig som antall i arbeidsstyrken forble uendret, som medførte økt arbeidsledighet i denne gruppen.[^54]
+
+Ser vi på antall arbeidsledige i AKU delt etter ønsket arbeidstid utgjør personer som ønsker fulltidsarbeid om lag halvparten av de arbeidsledige i AKU. Om lag 71 000 arbeidsledige personer i AKU ønsket å arbeide 37 timer eller mer i 2025, som var en økning på 7 000 personer fra 2024. Det var nesten halvparten av den samlede oppgangen i arbeidsledigheten.
+
+Tall fra AKU viser at det i 2025 i gjennomsnitt var 58 000 arbeidsledige kvinner og 78 000 arbeidsledige menn, se tabell 7.3. Generelt jobber det flere menn enn kvinner i konjunkturutsatte næringer (som for eksempel bygg og anlegg), noe som tilsier at arbeidsledigheten kan øke mer for menn enn for kvinner i en nedgangskonjunktur.[^55]
+
+Arbeidsledige ifølge AKU. I 1 000 personer. 2020–2025
+
+10J2tx2
+
+<table>
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 33%" />
+<col style="width: 8%" />
+<col style="width: 1%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td style="text-align: right;">Nivå</td>
+<td style="text-align: right;"></td>
+<td colspan="6" style="text-align: center;">Endring fra året før</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td style="text-align: right;">2025</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td colspan="2">Arbeidsledige i alt</td>
+<td style="text-align: right;">136</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">-8</td>
+<td style="text-align: right;">-32</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">15</td>
+</tr>
+<tr>
+<td></td>
+<td>Kvinner</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">-4</td>
+<td style="text-align: right;">-14</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr>
+<td></td>
+<td>Menn</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">-3</td>
+<td style="text-align: right;">-18</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">12</td>
+</tr>
+</tbody>
+</table>
+
+Kilde: Tabell 13618 i Statistikkbanken, Statistisk sentralbyrå
+
+*Langtidsledige* regnes hos Nav som helt ledige personer som ikke har vært i jobb eller på arbeidsmarkedstiltak i minst 26 eller minst 53 uker.[^56] Dette inkluderer også helt permitterte som fortsatt har et arbeidsforhold. I februar 2026 viste tallene fra Nav at 19 800 personer var langtidsledige i minst 26 uker, og for 2025 som gjennomsnitt var 17 700 personer langtidsledige, se tabell 7.4.[^57] Tall fra AKU viser at det i 4. kvartal 2025 var 11 000 personer med lange arbeidsledighetsperioder (her definert som sammenhengende arbeidsledig i over ett år).[^58] For 2025 sett under ett var antall personer med lange arbeidsledighetsperioder uendret fra 2024.
+
+Ifølge Nav økte antall *registrert helt ledige* (sesongjustert) i første halvår 2025 for deretter å holde seg på et stabilt nivå gjennom andre halvår, se figur 7.3D. Antall registrert helt ledige har avtatt de første månedene i år. I februar i år var 62 000 personer registrert som helt ledige, som er litt lavere enn gjennomsnittet i 2025, se tabell 7.4. Summen av *helt ledige og tiltaksdeltakere* økte også noe gjennom første halvår i fjor, men ble noe redusert gjennom andre halvår. Det har fortsatt inn i 2026. I februar i år var 76 000 personer enten helt ledige eller tiltaksdeltakere, sesongjustert. Det er lavere enn årsgjennomsnittet på 79 000 for 2025 (målt med sesongjusterte tall). Tall fra Nav viser at andelen av de helt ledige (ikke sesongjustert) som var permitterte i februar 2026 var på 7,4 prosent, se figur 7.6. Dette tilsvarte 4 900 personer. Av de 9 200 helt og delvis permitterte i februar 2026 var 3 600 personer fra bygg og anlegg og ingeniør- og IKT-fag, to konjunktursensitive yrkesgrupper, mens om lag 2 200 personer var fra industriarbeid.
+
+Registrerte arbeidsledige og personer på tiltak (ikke bruddjustert) hos Nav.<sup>1</sup> I 1 000 personer. 2020–2025
+
+11J2xt2
+
+<table>
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 3%" />
+<col style="width: 42%" />
+<col style="width: 7%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3"></td>
+<td style="text-align: right;">Nivå</td>
+<td style="text-align: right;"></td>
+<td colspan="6" style="text-align: center;">Endring fra året før</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td style="text-align: right;">2025</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td colspan="3">Registrert helt ledige, gjennomsnitt</td>
+<td style="text-align: right;">63,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">78,5</td>
+<td style="text-align: right;">-53,1</td>
+<td style="text-align: right;">-36,7</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">3,2<sup>4</sup></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Langtidsledige i minst 26 uker<sup>2</sup></td>
+<td style="text-align: right;">17,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">8,2</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">-15,1</td>
+<td style="text-align: right;">-1,8</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;">1,8<sup>4</sup></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Langtidsledige i minst 53 uker<sup>2</sup></td>
+<td style="text-align: right;">7,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">5,0</td>
+<td style="text-align: right;">-5,9</td>
+<td style="text-align: right;">-2,6</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">0,8<sup>4</sup></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Helt permitterte, gjennomsnitt</td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">57,6</td>
+<td style="text-align: right;">-36,8</td>
+<td style="text-align: right;">-17,6</td>
+<td style="text-align: right;">-0,8</td>
+<td style="text-align: right;">-0,5</td>
+<td style="text-align: right;">0,2<sup>4</sup></td>
+</tr>
+<tr>
+<td colspan="3">Arbeidssøkere på tiltak, gjennomsnitt<sup>3</sup></td>
+<td style="text-align: right;">13,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-1,3</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">-3,3</td>
+<td style="text-align: right;">-2,1</td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">-1,5<sup>4</sup></td>
+</tr>
+<tr>
+<td colspan="3">Andre på tiltak, gjennomsnitt<sup>3</sup></td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-0,3</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">1,4<sup>4</sup></td>
+</tr>
+<tr>
+<td colspan="3">Delvis ledige, gjennomsnitt</td>
+<td style="text-align: right;">22,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">60,3</td>
+<td style="text-align: right;">-29,7</td>
+<td style="text-align: right;">-31,4</td>
+<td style="text-align: right;">-3,7</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">0,0<sup>4</sup></td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Gjennomsnittlige månedstall. Det er brudd i Navs statistikk over antall arbeidsledige fra og med november 2018 på grunn av ny registreringsmetode. Bruddet anses å være tilnærmet ferdig per januar 2019. Dermed er tall fra januar 2020 sammenlignbare med året før. Fra og med 1. januar 2021 overtok Nav ansvaret for statistikken om registrerte ledige fordelt etter utdanning og innvandrerbakgrunn.
+
+<sup>2</sup> Alle arbeidsledige med en sammenhengende arbeidsledighetsperiode på minst 26 eller minst 53 uker (varighet som helt ledig) som ikke har vært i jobb eller vært i arbeidsmarkedstiltak.
+
+<sup>3</sup> Fra mars til april 2025 ble om lag 2 800 personer omklassifisert fra arbeidssøkere på tiltak til andre tiltak, se boks 7.1. Endringen fra 2024 til 2025 tar ikke høyde for dette bruddet, og må derfor tolkes med stor forsiktighet.
+
+<sup>4</sup> Omlegging av systemer hos Nav i starten av 2025 medførte brudd i tallene for helt ledige, delvis ledige og arbeidssøkere på tiltak publisert av Nav i 2025, se boks 7.1. Dermed må endringene fra 2024 til 2025 for disse tidsseriene tolkes med stor forsiktighet.
+
+Kilde: Arbeids- og velferdsdirektoratet
+
+I januar 2025 var andelen helt ledige og tiltaksdeltakere (sesongjustert) høyest innen reiseliv og transport, med 3,7 prosent, og lå om lag på dette nivået gjennom 2025 og starten av 2026, se figur 7.7.[^59] Målt i antall var reduksjonen i helt ledige og tiltaksdeltakere fra februar 2025 til februar 2026 størst innen bygg og anlegg, med 940 færre helt ledige og tiltaksdeltakere.
+
+Utvikling i helt ledige og arbeidssøkere på tiltak (ikke bruddjustert).<sup>1</sup> Andel av arbeidsstyrken (ikke sesongjustert). Januar 2021–februar 2026
+
+<sup>1</sup> Stiplet vertikal linje viser tidspunkt for brudd i tidsserien for antall helt ledige og arbeidssøkere på tiltak i april 2025 som følge av endringer i Navs systemer, se boks 7.1.
+
+Kilde: Arbeids- og velferdsdirektoratet
+
+Utvikling i helt ledige og tiltaksdeltakere, utvalgte yrker. Andel av arbeidsstyrken (sesongjustert). Januar 2023–februar 2026
+
+Kilder: Arbeids- og velferdsdirektoratet og Beregningsutvalget
+
+## Ledige stillinger
+
+Årlig er det store strømmer i arbeidsmarkedet. Tilgang og beholdning av ledige stillinger brukes som indikatorer for etterspørsel etter arbeidskraft, for eksempel for å si noe om konjunktursvingninger. Flere ledige stillinger kan imidlertid også være et uttrykk for økt mangel på arbeidskraft, mismatch i arbeidsmarkedet (kompetansemessig eller geografisk) eller at flere bytter jobb.
+
+Navs bedriftsundersøkelse fra våren 2025 viser at det var utfordringer med å rekruttere arbeidskraft innen helse- og sosialtjenester, hvor 29,0 prosent av virksomheter i undersøkelsen svarte at de hadde alvorlige rekrutteringsproblemer. Tilsvarende gjennomsnitt for alle virksomheter i undersøkelsen var 16,9 prosent. Dette er vist i figur 7.8. Andelen virksomheter innen helse- og sosialtjenester med alvorlige rekrutteringsproblemer falt sammenlignet med 2024, da andelen var på 36,2 prosent, og peker i retning av noe mindre rekrutteringsproblemer i denne næringen.
+
+Norges Banks Regionalt nettverk 1/2026 fra mars 2026 viste at 21 prosent av bedrifter i undersøkelsen rapporterte at knapphet på arbeidskraft begrenset deres produksjon.[^60] Det var lavere enn nivåene i foregående runder i september og desember 2025 (Regionalt nettverk 3/2025 og Regionalt nettverk 4/2025). Som tidligere rapporterte oljeleverandører i større grad om knapphet enn gjennomsnittet, men her har andelen mer enn halvert seg fra starten av 2025.
+
+Virksomheter med alvorlige rekrutteringsproblemer. Prosent. Våren 2025
+
+Kilde: Navs bedriftsundersøkelse 2025, Arbeids- og velferdsdirektoratet
+
+I 2025 var det en nedgang i *tilgangen* på ledige stillinger registrert hos Nav (målt som sum av tilgang på ledige stillinger per år) på 5 600 (tilsvarende en reduksjon på 1,1 prosent), se tabell 7.5. Nivået på tilgangen på ledige stillinger i 2025 var fortsatt høyt, med 82 000 flere ledige stillinger enn gjennomsnittet de foregående ti årene. Nedgangen i tilgangen på ledige stillinger fra 2024 til 2025 var spesielt stor innen akademiske yrker (-56,8 prosent), meglere og konsulenter (-8,0 prosent) og helse, pleie og omsorg (-5,6 prosent). Målt i antall var tilgangen på ledige stillinger i 2025 størst i helse, pleie og omsorg med 113 400, til tross for nedgangen fra 2024.
+
+SSBs tall for gjennomsnittlig *beholdning* av ledige stillinger falt med 11 600 eller 11,5 prosent fra 2024 til 2025. Sesongjusterte tall viser at antall ledige stillinger utviklet seg svakest i 2. kvartal 2025, med en nedgang på 8,9 prosent i forhold til foregående kvartal. Nedgangen var særlig stor for bygge- og anleggsvirksomhet og forretningsmessig tjenesteyting. Gjennom året har antall ledige stillinger variert, men nivået er fortsatt gjennomgående høyt sammenliknet med årene før koronapandemien.
+
+Sesongjusterte tall for ledige stillinger som andel av totalt antall stillinger (sum av antall stillinger og arbeidsforhold) lå på 3,0 prosent i 1. kvartal 2025, før den falt til 2,7 prosent i 4. kvartal. Selv om omfanget av ledige stillinger har gått klart tilbake etter toppen i 2023, var nivået i 4. kvartal fortsatt over gjennomsnittet før koronapandemien. I 4. kvartal hadde næringene pleie- og omsorgstjenester i institusjon og forretningsmessig tjenesteyting høyere forholdstall enn gjennomsnittet, mens undervisning og industri hadde færre ledige stillinger som andel av totalt antall stillinger. Forholdstallene for hver næring i 4. kvartal 2025 er vist i figur 7.9.
+
+Ledige stillinger. I 1 000 stillinger, om ikke annet er angitt. 2020–2025
+
+09J2xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 37%" />
+<col style="width: 8%" />
+<col style="width: 1%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: right;">Nivå</td>
+<td style="text-align: right;"></td>
+<td colspan="6" style="text-align: center;">Endring fra året før</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">2025</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr>
+<td>Tilgang ledige stillinger, Nav<sup>1</sup></td>
+<td style="text-align: right;">485,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-1,8</td>
+<td style="text-align: right;">126,5</td>
+<td style="text-align: right;">30,2</td>
+<td style="text-align: right;">-106,9</td>
+<td style="text-align: right;">23,2</td>
+<td style="text-align: right;">-5,6</td>
+</tr>
+<tr>
+<td>Ledige stillinger (nivå), SSB<sup>2</sup></td>
+<td style="text-align: right;">89,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-9,8</td>
+<td style="text-align: right;">26,1</td>
+<td style="text-align: right;">18,0</td>
+<td style="text-align: right;">11,3</td>
+<td style="text-align: right;">-16,8</td>
+<td style="text-align: right;">-11,6</td>
+</tr>
+<tr>
+<td>Ledige stillinger (prosent og<br />
+prosentpoeng), SSB<sup>3</sup></td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-0,3</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">-0,5</td>
+<td style="text-align: right;">-0,4</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Total tilgang gjennom året, ikke gjennomsnitt per måned.
+
+<sup>2</sup> Statistikken baserer seg på en utvalgsundersøkelse som gjennomføres hvert kvartal. Statistikken viser nivået og utviklingen for antall ledige stillinger totalt og fordelt på næring, målt som en beholdningsstørrelse. Statistikken er sammenlignbar med tilsvarende statistikk i europeiske land. Nivået fra SSBs statistikk for ledige stillinger er høyere enn Navs månedlige statistikk, da SSBs statistikk blant annet også inneholder ledige stillinger som utelukkende er utlyst på bedriftenes egne hjemmesider.
+
+<sup>3</sup> Ledige stillinger i prosent av antall stillinger (sum av ledige stillinger og antall arbeidstakerforhold).
+
+Kilder: Tabell 08836 i Statistikkbanken, Statistisk sentralbyrå og Arbeids- og velferdsdirektoratet
+
+Ledige stillinger som andel av totalt antall stillinger.<sup>1</sup> Etter næring. Prosent (sesongjustert). 4. kvartal 2025
+
+<sup>1</sup> Stiplet vertikal linje viser gjennomsnittlig ledige stillinger som andel av totalt antall stillinger.
+
+Kilde: Statistisk sentralbyrå
+
+## Midlertidig ansatte og deltid
+
+Midlertidig ansatte utgjorde ifølge AKU 8,3 prosent av alle ansatte i 2025, hvor 10,2 prosent av kvinner var midlertidig ansatte og 6,5 prosent av menn var midlertidig ansatt. Den samlede andelen var uendret fra 2024 til 2025. Flere personer som tidligere ville vært klassifisert som selvstendig næringsdrivende ble fra 2021 definert som ansatte etter omleggingen av AKU. Det kan forklare noe av økningen fra 2020 til 2021.[^61] Tallene fra og med 2021 er dermed ikke sammenlignbare med de tidligere årene, se figur 7.10.
+
+Midlertidig ansatte, i prosent av alle ansatte. Ikke-bruddjustert.<sup>1</sup> 2009–2025
+
+<sup>1</sup> Tidsserien er ikke bruddjustert for bruddet fra 2020 til 2021 (markert med stiplet linje), og dermed er nivåene i 2021–2025 ikke sammenlignbare med tidligere år og endring fra 2020 til 2021 er ikke sammenlignbar.
+
+Kilde: Statistisk sentralbyrå
+
+Heltidssysselsatte lønnstakere utgjorde ifølge AKU 75,4 prosent av de sysselsatte i 2025. Innslaget av deltid var 0,1 prosentpoeng ned fra året før, på 24,6 prosent. Andelen deltidssysselsatte med kort deltid (1–19 timer per uke) økte, mens andelen med lang deltid over 20 timer avtok. 106 000 personer i gruppen deltidssysselsatte lønnstakere i 2025 ønsket å kunne jobbe mer, noe som tilsvarte 2,5 prosent av befolkningen og 14,9 prosent av alle deltidssysselsatte.[^62]<sup>,</sup>[^63] Det var en økning på 0,4 prosentpoeng fra 2024.
+
+SSB publiserer tall for et utvidet arbeidsledighetsbegrep. I tillegg til arbeidsledige personer inkluderes deltidssysselsatte som ønsket og kunne jobbe mer, personer utenfor arbeidsstyrken som har søkt jobb, men ikke er tilgjengelig, og personer utenfor arbeidsstyrken som ikke har søkt jobb, men som er tilgjengelig. Denne utvidede arbeidsledigheten utgjorde 8,5 prosent av befolkningen i 2025, en økning på 0,4 prosentpoeng fra 2024.[^64]
+
+## Lønnstakernes tilknytning til utdanning og velferdsordninger
+
+Tabell 7.6 viser at det i 2024 var 69,9 prosent av lønnstakerne som ikke kombinerte arbeid med andre statuser, og at 13,9 prosent kombinerte arbeid med et utdanningsforløp. Sistnevnte andel har økt fra 11,9 prosent i 2016.
+
+Lønnstakernes tilknytning til utdanning og velferdsordninger.<sup>1</sup> 2022–2024
+
+09J2xt2
+
+<table>
+<colgroup>
+<col style="width: 38%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+<col style="width: 1%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+<col style="width: 1%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="2" style="text-align: center;">2022</td>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">2023</td>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">Personer</td>
+<td style="text-align: right;">Prosent</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">Personer</td>
+<td style="text-align: right;">Prosent</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">Personer</td>
+<td style="text-align: right;">Prosent</td>
+</tr>
+<tr>
+<td>Kun lønnstakere</td>
+<td style="text-align: right;">1 894 585</td>
+<td style="text-align: right;">70,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1 892 774</td>
+<td style="text-align: right;">70,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1 900 149</td>
+<td style="text-align: right;">69,9</td>
+</tr>
+<tr>
+<td>Lønnstakere</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>– under ordinær utdanning</td>
+<td style="text-align: right;">363 205</td>
+<td style="text-align: right;">13,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">371 129</td>
+<td style="text-align: right;">13,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">376 652</td>
+<td style="text-align: right;">13,9</td>
+</tr>
+<tr>
+<td>– som mottar arbeidsavklaringspenger</td>
+<td style="text-align: right;">28 127</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">29 591</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">31 736</td>
+<td style="text-align: right;">1,2</td>
+</tr>
+<tr>
+<td>– som mottar uføretrygd</td>
+<td style="text-align: right;">48 958</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">48 964</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">49 065</td>
+<td style="text-align: right;">1,8</td>
+</tr>
+<tr>
+<td>– som mottar AFP/alderspensjon</td>
+<td style="text-align: right;">112 932</td>
+<td style="text-align: right;">4,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">117 575</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">121 596</td>
+<td style="text-align: right;">4,5</td>
+</tr>
+<tr>
+<td>– ellers</td>
+<td style="text-align: right;">223 567</td>
+<td style="text-align: right;">8,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">238 230</td>
+<td style="text-align: right;">8,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">238 595</td>
+<td style="text-align: right;">8,8</td>
+</tr>
+<tr>
+<td>Lønnstakere samlet</td>
+<td style="text-align: right;">2 671 374</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2 698 263</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2 717 793</td>
+<td style="text-align: right;">100</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Statistikken over sysselsatte (lønnstakere) og kombinasjon av utdanning og mottak av ytelser omfatter bosatte i alderen over 15 år. Tellingstidspunktet er 4. kvartal hvert år og statistikken foreligger til og med 2024. For personer som er aktive i flere statuser samtidig, synliggjøres den høyest prioriterte statusen, hvor arbeidsstyrken blir prioritert høyest. I kategorien «ellers» inngår blant annet mottakere av dagpenger, sykepenger, kontantstøtte, sosialhjelp og personer med ukjent status.
+
+Kilde: Tabell 12837 i Statistikkbanken, Statistisk sentralbyrå

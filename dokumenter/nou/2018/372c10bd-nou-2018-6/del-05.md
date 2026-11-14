@@ -1,959 +1,334 @@
-# NOU 2018: 6, del 5 av 18 (side 56–65)
+# NOU 2018: 6, del 5 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/372c10bd-nou-2018-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-6/id2593665/
 - Original-PDF: https://www.regjeringen.no/contentassets/bd4f61bba893409a9b715ee1971a0004/no/pdfs/nou201820180006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 26 figurer, 49 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 56]
-
-56
-
-NOU 2018: 6
-
-Kapittel 4
-
-Varsling – verdier og vern
-
-opplysninger kan være arbeidssted, stilling mv.69
-Av hensyn til retten til kontradiksjon gjelder det
-ikke taushetsplikt om innholdet i varselet, for
-eksempel faktiske opplysninger, sammendrag
-eller annen bearbeidelse av faktum, dersom vilkårene for innsyn etter offentlighetsloven eller forvaltningsloven ellers er oppfylt.
-Taushetsplikten vil ikke være til hinder for at
-arbeidstakerens navn eller andre identifiserende
-opplysninger kan gjøres kjent ved en sivil tvist
-eller straffesak for domstolene. Spørsmålet om
-taushetsplikt vil da bli vurdert etter reglene i prosesslovgivningen.
-Arbeidsmiljøloven § 2 A-4 regulerer ikke taushetsplikt for offentlige myndigheter i rollen som
-arbeidsgivere. Det betyr at bestemmelsen ikke
-gjelder ved intern varsling i en offentlig virksomhet, for eksempel hvis en ansatt i en tilsynsetat
-varsler om kritikkverdige forhold i etaten til sin
-egen arbeidsgiver.
-Etter arbeidsmiljøloven § 18-2 har Arbeidstilsynet en særlig plikt til å holde melders navn og
-andre identifiserende opplysninger hemmelig ved
-melding om forhold som er i strid med arbeidsmiljøloven. Denne regelen gjelder vern av kilder
-helt generelt, også for publikum og andre som
-melder fra til Arbeidstilsynet. Se mer om denne
-bestemmelsen i punkt 4.4.4 nedenfor.
-
-4.3
-
-Forholdet til andre regler
-i arbeidsmiljøloven
-
-4.3.1 Virkemidler i arbeidsmiljøarbeidet
-Arbeidsgiver har etter arbeidsmiljøloven § 3-1
-plikt til å gjennomføre systematisk helse-, miljøog sikkerhetsarbeid (internkontroll) på alle plan i
-virksomheten, i samarbeid med arbeidstakerne
-og deres tillitsvalgte. Internkontroll skal sikre at
-virksomheten har tilstrekkelig gode systemer for
-å oppdage feil og mangler mv. knyttet til helse,
-miljø og sikkerhet. Arbeidsgiver skal kartlegge og
-risikovurdere faktorer i arbeidsmiljøet og iverksette rutiner for å avdekke overtredelser av lovens
-krav. Bestemmelsene i kapittel 2 A, med blant
-annet krav til rutiner for intern varsling i virksomheten, utdyper kravet til virkemidler når det gjelder varsling.
-4.3.2 Krav til arbeidsmiljøet
-Arbeidsmiljøloven kapittel 4 inneholder grunnleggende krav til arbeidsmiljøet og arbeidsorganise69
-
-Ibid.
-
-ringen. Utgangspunktet er at arbeidsmiljøet i virksomheten skal være fullt forsvarlig ut fra en
-enkeltvis og samlet vurdering av faktorer i
-arbeidsmiljøet som kan innvirke på arbeidstakers
-fysiske eller psykiske helse og velferd, jf. § 4-1.
-Loven presiserer at arbeidstaker ikke skal utsettes for trakassering eller annen utilbørlig opptreden, se § 4-3 tredje ledd. Vern mot diskriminering
-er regulert i arbeidsmiljøloven kapittel 13 og stillingsvernet i kapittel 15. Sett i sammenheng med
-disse reglene, innebærer trakasseringsforbudet i
-kapittel 4 at arbeidsmiljøloven gir vern mot en
-rekke former for behandling av arbeidstaker som
-kan være gjengjeldelse, også i tilfeller som ikke
-dekkes av varslingsreglene i kapittel 2 A. Eksempler på dette er direkte eller indirekte forskjellsbehandling eller trakassering på grunn av arbeidstakers politiske ytringer eller medlemskap i arbeidstakerorganisasjon.
-
-4.4
-4.4.1
-
-Tilsynet med arbeidsmiljølovens
-varslingsregler
-
-Arbeidstilsynets oppgaver og
-virkemidler
-Arbeidstilsynet har som hovedoppgave å føre tilsyn med at virksomhetene følger arbeidsmiljølovens krav. Arbeidstilsynet er organisert med et
-direktorat i Trondheim og sju regioner med
-underliggende tilsynskontor.
-Arbeidstilsynets tilsynsansvar og virkemidler
-er regulert i arbeidsmiljøloven kapittel 18. Tilsynsmyndigheten har to elementer: kontroll og reaksjon. Arbeidstilsynet fører tilsyn med at bestemmelsene i arbeidsmiljøloven og i medhold av
-arbeidsmiljøloven blir overholdt, jf. § 18-1 første
-ledd, og kan reagere dersom det er avvik fra
-lovens bestemmelser. Arbeidstilsynet gir pålegg
-og treffer enkeltvedtak som er nødvendige for
-gjennomføringen av bestemmelsene i og i medhold av arbeidsmiljøloven. Arbeidstilsynets kompetanse til å gi pålegg og treffe enkeltvedtak er
-likevel begrenset til de bestemmelsene i loven
-som anses å være offentligrettslige og som er oppregnet i § 18-6.
-Arbeidstilsynet har et visst skjønn når det gjelder hvilke saker som det prioriteres å gå nærmere
-inn i, føre tilsyn med og eventuelt følge opp med
-pålegg. Arbeidstilsynet fører risikobasert tilsyn,
-som innebærer at etaten innenfor rammen av
-eksisterende ressurser selv skal kunne foreta nødvendige prioriteringer.
-Bestemmelser som anses å gjelde privatrettslige forhold, slik som §§ 2 A-1 og 2 A-2 om retten
-
-[Side 57]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-til å varsle og vernet mot gjengjeldelse, er ikke
-underlagt Arbeidstilsynets påleggs- og vedtakskompetanse. Det betyr at Arbeidstilsynets kompetanse når det gjelder disse reglene er begrenset til
-veiledning.
-Som omtalt foran kan Arbeidstilsynet føre tilsyn med plikten til å utarbeide rutiner for intern
-varsling etter § 2 A-3. Manglende overholdelse av
-bestemmelsen kan medføre pålegg. I virksomheter med færre enn fem ansatte har Arbeidstilsynet
-også myndighet til å overprøve arbeidsgivers vurdering av om forholdene tilsier at det er behov for
-å utarbeide varslingsrutiner, jf. § 2 A-3 første ledd.
-Med de endringene som trådte i kraft fra 1. juli
-2017, kan Arbeidstilsynet også kontrollere at innholdet i rutinene er i tråd med de minimumskravene som følger av § 2 A-3 fjerde og femte ledd,
-samt at arbeidstakerne og deres tillitsvalgte har
-vært involvert i utarbeidelsen av rutinene, jf. § 2
-A-3 tredje ledd.
-Veiledning er et virkemiddel som benyttes når
-det er nødvendig å skape økt motivasjon eller
-kunnskap om lovens bestemmelser og hvordan
-disse kan overholdes. Arbeidstilsynet veileder om
-kapittel 2 A på egne nettsider, på seminarer, kurs
-og i tilsyn. Arbeidstilsynet veileder også arbeidsgivere og arbeidstakere som oppsøker Arbeidstilsynets lokale kontor eller kontakter Arbeidstilsynets
-svartjeneste.70 Arbeidstilsynet veileder i spørsmål om forsvarlig varsling, gjengjeldelse, begrepet «kritikkverdige forhold», styringsretten i varslingssaker mv. Arbeidstilsynet kan også gi veiledning om hva som er god sakshåndtering i en varslingssak.
-
-4.4.2 Arbeidstilsynet som varslingsmottaker
-Arbeidstilsynet mottar tips og varsel fra arbeidstakere om forhold som de mener er i strid med
-arbeidsmiljøloven eller annet regelverk. Slike varsel kommer oftest inn til Arbeidstilsynets regioner, Svartjenesten eller via Arbeidstilsynets nettside. Arbeidstilsynet mottar til sammen over 7 000
-tips og varsel hvert år, hvorav de fleste gjelder
-mulige brudd på arbeidsmiljøregelverket. Arbeids70
-
-Svartjenesten er Arbeidstilsynets førstelinjetjeneste som
-gir generell veiledning om arbeidsmiljøloven, tobakkskadeloven og ferieloven. I 2017 var det om lag 92 000 henvendelser fordelt på telefon, e-post, innsynsbegjæringer, Facebook og ung.no. Om lag 60 prosent av henvendelsene var
-fra arbeidstakere som har spørsmål om ansettelse, oppsigelse, arbeidsavtaler, arbeidstid, ferieloven og manglende
-utbetalinger fra arbeidsgiver. Nærmere 40 prosent av henvendelsene kom fra arbeidsgivere som ønsket veiledning
-om arbeidstid, ansettelse og oppsigelse, tilrettelegging for
-sykmeldte og hvilke krav som stilles til arbeidsutstyr mv.
-
-57
-
-Kapittel 4
-
-tilsynet vurderer meldingene og kan følge opp
-med tilsyn. Arbeidstilsynet kan gi reaksjoner som
-pålegg, stans, overtredelsesgebyr eller anmeldelse når forholdene tilsier dette. Når det gjelder
-varsleren, vurderer Arbeidstilsynet om han eller
-hun er i en vanskelig situasjon, for eksempel om
-det er risiko for å bli utsatt for belastende behandling, gjengjeldelse eller manglende medvirkning,
-og kan gi råd og veiledning i slike spørsmål. Varsel som gjelder brudd på andre myndigheters
-regelverk blir henvist til riktig instans. På grunn
-av mengden tips og varsel vil mange av henvendelsene etter en vurdering ikke følges opp
-direkte, men inngå i Arbeidstilsynets grunnlag for
-fremtidig risikobasert tilsyn.
-
-4.4.3
-
-Beskyttelse av kilder ved melding til
-Arbeidstilsynet
-
-Etter arbeidsmiljøloven § 18-2 har Arbeidstilsynet
-en særlig plikt til å holde melders navn og andre
-identifiserende opplysninger hemmelig ved melding om forhold som er i strid med loven. Taushetsplikten gjelder enhver som utfører arbeid
-eller tjeneste for Arbeidstilsynet.71 Taushetsplikten gjelder også overfor anmeldte, typisk overfor
-arbeidsgiver. Formålet med bestemmelsen er å
-sikre at arbeidstakere og andre uten frykt for
-represalier skal kunne melde fra om lovstridige
-forhold til Arbeidstilsynet. Bestemmelsen går
-foran reglene om partsoffentlighet i forvaltningsloven. Det er presisert at forvaltningsloven §§ 13
-til 13 e gjelder tilsvarende, og den som melder et
-forhold kan samtykke i at navnet skal frigis, jf. forvaltningsloven § 13 a nr. 1.
-Etter ordlyden i § 18-2 gjelder taushetsplikten
-forhold som er i strid med loven. Ettersom formålet med bestemmelsen er å sikre at den som varsler om et forhold ikke blir møtt med represalier,
-for eksempel fra arbeidsgiver, må taushetsplikten
-gjelde selv om det skulle vise seg at det anmeldte
-forhold faktisk ikke er i strid med loven.
-Taushetsplikten gjelder under hele den forvaltningsmessige behandlingen av saken. Ved
-eventuell senere sivil tvist eller straffesak vil
-spørsmålet om taushetsplikt for opplysninger om
-melderens identitet bli vurdert etter reglene i prosesslovgivningen.
-Arbeidsgiver eller representant for denne har i
-utgangspunktet rett til, og kan pålegges, å være til
-stede under kontroll fra Arbeidstilsynet, jf. § 18-4
-andre ledd. Tilsynspersonellet kan likevel bestemme
-71
-
-Bestemmelsen gjelder tilsvarende for Petroleumstilsynet,
-jf. arbeidsmiljøloven § 18-1 andre ledd andre punktum.
-
-[Side 58]
-
-58
-
-NOU 2018: 6
-
-Kapittel 4
-
-Varsling – verdier og vern
-
-at retten ikke skal gjelde ved intervju av arbeidstaker. Dette unntaket er ment å ivareta hensynet til
-at arbeidstaker skal kunne uttale seg fritt til tilsynspersonellet uten frykt for å bli møtt med
-represalier fra arbeidsgiver.72
-
-4.5
-
-Regler om straff i arbeidsmiljøloven
-
-4.5.1 Innledning
-En stor andel av arbeidsmiljølovens bestemmelser
-er straffesanksjonert. Brudd på arbeidsmiljøloven kapittel 2 A kan straffes med hjemmel i
-arbeidsmiljøloven kapittel 19, jf. § 19-1 fjerde ledd.
-Straff ved brudd på gjengjeldelsesforbudet er ikke
-omtalt i varslingsreglenes forarbeider, og det må
-antas at straffesanksjonering ikke har blitt ansett
-som den mest aktuelle reaksjonen ved overtredelse av gjengjeldelsesforbudet.
-Det er ikke kjent om det er ilagt straff for
-brudd på varslingsreglene. Til sammenligning finnes det en rekke eksempler på at det er ilagt foretaksstraff etter arbeidsulykker, se for eksempel
-dom fra Høyesterett inntatt i Rt-2012-770, og straff
-mot enkeltpersoner, se for eksempel dom fra Borgarting lagmannsrett med referanse LB-2015186392.
-4.5.2
-
-Ansvar for arbeidsgiver og innehaver
-av virksomhet
-Ved forsettlig eller uaktsom overtredelse av
-bestemmelse eller pålegg gitt i eller i medhold av
-arbeidsmiljøloven kapittel 2 A, kan arbeidsgiver
-ilegges bøter eller fengsel i inntil ett år, eller
-begge deler, jf. § 19-1 første og fjerde ledd. Den
-som medvirker til slike overtredelser kan også
-ilegges straff, men dersom medvirkeren er
-arbeidstaker, reguleres straffansvaret av § 19-2.73
-Straffansvar for foretak reguleres av de generelle reglene om foretaksstraff i straffeloven §§ 27
-72
-73
-
-Ot.prp. nr. 67 (1999–2000), punkt 5.3.2.2.
-Ved særlig skjerpende omstendigheter kan fengsel i inntil
-tre år benyttes, jf. § 19-1 andre ledd. I vurderingen av om
-det foreligger særlig skjerpende omstendigheter skal det
-særlig vektlegges om overtredelsen har eller kunne ha
-medført alvorlig fare for liv eller helse, eller om den er foretatt eller fortsatt til tross for pålegg eller henstilling fra
-offentlig myndighet, vedtak av arbeidsmiljøutvalget eller
-henstilling fra verneombud eller bedriftshelsetjenesten.
-Dersom en overtredelse har eller kunne ha medført alvorlig fare for liv eller helse, skjerpes aktsomhetskravet.
-Arbeidsgiver kan da straffes, med mindre vedkommende
-har opptrådt fullt forsvarlig i enhver henseende når det gjelder de plikter som følger av loven eller bestemmelser i
-medhold av loven.
-
-og 28. Arbeidsmiljøloven § 19-3 viser til disse
-reglene.
-
-4.5.3 Ansvar for arbeidstaker
-Straffansvar for arbeidstakere er regulert i § 19-2.
-En arbeidstaker kan straffes ved forsettlig eller
-uaktsom overtredelse av plikter etter loven.
-Arbeidstakers plikter er i første rekke medvirknings- og varslingsplikt slik dette er bestemt i
-arbeidsmiljøloven § 2-3 eller pålagt i forskrifter
-med hjemmel i arbeidsmiljøloven.74 En arbeidstaker som medvirker til brudd på forbudet mot gjengjeldelse, kan også straffes med hjemmel i § 19-2
-jf. § 19-1.
-Uaktsom overtredelse straffes med bøter, jf.
-§ 19-2 første ledd, mens forsettlig eller grovt uaktsom overtredelse straffes med bøter eller fengsel i
-inntil tre måneder, jf. § 19-2 andre ledd.75 Av § 19-2
-tredje ledd andre punktum fremgår det at det særlig skal vektlegges om overtredelsen var i strid
-med særskilt arbeids- eller sikkerhetsinstruks, og
-om arbeidstakeren forsto eller burde ha forstått at
-overtredelsen kunne medføre alvorlig fare for
-andres liv eller helse. Medvirkning kan straffes
-med bøter, jf. § 19-2 første ledd.
-
-4.6
-
-Regler om tvisteløsning
-i arbeidsmiljøloven
-
-Tvister etter arbeidsmiljøloven kapittel 2 A og
-krav om oppreisning og erstatning for økonomisk
-tap etter arbeidsmiljøloven § 2 A-2 kan forfølges i
-det ordinære domstolsystemet. Slike tvister
-omfattes ikke av ansvarsområdet til Tvisteløsningsnemnda etter arbeidsmiljøloven.
-I søksmål om rettigheter eller plikter etter
-arbeidsmiljøloven gjelder domstolloven og tvisteloven, med de særregler som går frem av arbeidsmiljøloven kapittel 17. I arbeidsmiljøloven er det
-gitt særlige regler som på flere punkter er forskjellige fra tvistelovens regler om rettergang i
-sivile saker. Arbeidsmiljøloven § 17-4 setter søksmålsfrister i tvister om oppsigelse, avskjed, suspensjon mv. Retten skal påskynde behandlingen
-74
-
-75
-
-I dom inntatt i Rt-1983-176 ble en arbeidstaker ilagt 300 kroner i bot fordi han ikke hadde varslet om eller utbedret en
-feil eller mangel som han burde forstå kunne medføre fare
-for liv eller helse og som han selv var i stand til å rette eller
-utbedre uten større vanskeligheter. Avgjørelsen gjelder
-arbeidsmiljøloven (1977) § 16 nr. 1 tredje ledd, som tilsvarer arbeidsmiljøloven (2005) § 2-3 andre ledd bokstav b).
-Ved særlig skjerpende omstendigheter kan fengsel inntil
-ett år anvendes, jf. § 19-2 tredje ledd.
-
-[Side 59]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-av slike tvister mest mulig og om nødvendig skal
-saken berammes utenom tur, jf. § 17-1 fjerde ledd.
-Det gjelder ikke søksmålsfrist for krav om oppreisning eller erstatning etter § 2 A-2 tredje ledd.
-Som bakgrunn for dette er det i forarbeidene vist
-til at søksmålsfrister kan bety at gjengjeldelsesvernet svekkes. Gjengjeldelse kan skje midt i en vanskelig og konfliktfylt situasjon som kan være en
-stor belastning for arbeidstakeren, og ofte vil
-«gjengjeldelsestidspunktet» være vanskelig å stipulere. Arbeidstakeren bør derfor få tid til å områ
-seg og få oversikt over situasjonen og et eventuelt
-økonomisk tap.
-Under hovedforhandling og under ankebehandling i lagmannsretten skal retten settes med
-meddommere fra et særskilt arbeidslivskyndig
-utvalg, med mindre partene og retten er enige i at
-meddommere er unødvendig, jf. § 17-7. Domstoladministrasjonen oppnevner ett eller flere særskilte arbeidslivskyndige meddommerutvalg for
-hvert fylke. Minst to femdeler av meddommerne i
-hvert utvalg oppnevnes etter forslag fra arbeidsgiverorganisasjon og minst to femdeler oppnevnes
-etter forslag fra arbeidstakerorganisasjon, jf. § 17-6.
-
-4.7
-
-Annen regulering av varsling
-
-4.7.1 Varslingsplikt
-Ovenfor i punkt 4.1 og 4.2 er det gjort rede for
-regler om ytringsfriheten og retten til å varsle i
-ansettelsesforhold. Det finnes imidlertid også
-regler i lov, reglement, instruks mv. om plikt til å
-varsle, rapportere eller på annen måte melde fra
-om uregelmessigheter og andre kritikkverdige
-forhold på arbeidsplassen.76 Det er alltid forsvarlig å varsle i samsvar med varslingsplikt, jf. presiseringen av dette i arbeidsmiljøloven § 2 A-1 andre
-ledd andre punktum. I forarbeidene er det vist til
-at det «ikke under noen omstendighet [vil] være
-rimelig at arbeidsgiver skal kunne reagere mot en
-som «følger boka» og gjør sin plikt. For å unngå
-misforståelser finner departementet det hensiktsmessig å presisere dette uttrykkelig i loven.»77 I
-innstillingen til Odelstinget fra arbeids- og sosialkomiteen er dette temaet omtalt slik:
-Flertallet vil videre understreke at det som
-reguleres gjennom forslagene til endringer i
-arbeidsmiljøloven, gjelder adgang til varsling
-
-59
-
-Kapittel 4
-
-når varslingsplikt ikke er lovfestet. Flertallet vil
-her vise til at det finnes regler i lov, reglementer, instrukser osv. om plikt til å varsle om uregelmessigheter og andre kritikkverdige forhold på arbeidsplassen. Dersom arbeidstaker
-har plikt til å varsle, så har arbeidstaker også
-adgang til å varsle. Varsling i samsvar med
-varslingsplikt er alltid forsvarlig i forhold til
-arbeidsgiver.78
-I det følgende vises det til enkelte eksempler på
-lovbestemt varslingsplikt.
-Arbeidsmiljøloven
-Arbeidstakere har en viss plikt til å varsle om feil
-eller mangler på arbeidsplassen. Etter arbeidsmiljøloven § 2-3 andre ledd bokstav b), d) og e) plikter arbeidstaker:
-– straks å underrette arbeidsgiver og verneombudet, og i nødvendig utstrekning andre
-arbeidstakere, når arbeidstakeren blir oppmerksom på feil eller mangler som kan medføre fare for liv eller helse, og vedkommende
-ikke selv kan rette på forholdet,
-– å sørge for at arbeidsgiver eller verneombudet
-blir underrettet så snart arbeidstaker blir kjent
-med at det forekommer trakassering eller diskriminering på arbeidsplassen,
-– å melde fra til arbeidsgiver dersom arbeidstaker blir skadet i arbeidet eller pådrar seg sykdom som arbeidstaker mener har sin grunn i
-arbeidet eller forholdene på arbeidsstedet.
-Verneombud har en særskilt varslingsplikt etter
-§ 6-2 tredje ledd. Blir verneombudet kjent med
-forhold som kan medføre ulykkes- eller helsefare
-skal verneombudet straks melde fra til arbeidstakerne på stedet og til arbeidsgiver. Er det ikke
-innen rimelig tid tatt hensyn til meldingen, skal
-verneombudet underrette Arbeidstilsynet eller
-arbeidsmiljøutvalget.
-Helsepersonelloven79
-Etter helsepersonelloven § 17 skal helsepersonell
-av eget tiltak gi tilsynsmyndighetene informasjon
-om forhold som kan medføre fare for pasienters
-sikkerhet. Det skal ikke gis informasjon om taushetsbelagte opplysninger. Alle leger, psykologer,
-tannleger, farmasøyter, jordmødre, sykepleiere,
-
-76
-
-Se også Auglend og Jakhelln (2017) Varslingsrett, rapporteringsplikt og taushetsplikt.
-77
-Ot.prp. nr. 84 (2005–2006), punkt 8.2.3.5 Varslingsplikt og
-rutiner om varsling.
-
-78
-79
-
-Innst. O. nr. 6 (2006–2007), punkt 2.5 Komiteens merknader.
-Lov 2. juli 1999 nr. 64 om helsepersonell m.v.
-
-[Side 60]
-
-60
-
-Kapittel 4
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-hjelpepleiere, vernepleiere, helsefagarbeidere,
-ambulansepersonell, fysioterapeuter, omsorgsarbeidere mv. som yter helsehjelp har varslingsplikt
-etter denne bestemmelsen. Varslingsplikten gjelder også for forhold utenfor eget arbeidssted.
-Bestemmelsen fastslår at helsepersonell på
-eget initiativ plikter å gi tilsynsmyndighetene opplysninger om forhold som kan sette pasienters liv
-og helse i fare. Det er tilstrekkelig at forholdet
-representerer en fare, slik at skade ikke behøver å
-ha inntrådt. Lovens formulering «[f]are for pasienters sikkerhet» skal tolkes strengt og innebærer
-at forholdet må være av en slik art at det er påregnelig eller sannsynlig at pasienters helsetilstand
-kan forverres eller at pasienter påføres skade,
-smitte eller lignende.80 Med «forhold som kan
-medføre fare» menes tiltak, rutiner, teknisk utstyr,
-svikt og mangler i organiseringen av tjenesten,
-herunder mangel på helsepersonell. Det kan også
-være enkeltpersoner som på bakgrunn av manglende personlige eller faglige kvalifikasjoner
-representerer en alvorlig fare for pasienters sikkerhet, for eksempel på bakgrunn av psykiske
-lidelser, rusmiddelmisbruk, manglende oppdatering av faglige kvalifikasjoner eller vilje til å innrette seg etter egne kvalifikasjoner.
-
-4.7.2 Varslingsregler i skipsarbeidsloven
-Skipsarbeidsloven fra 2013 regulerer rettigheter
-for arbeidstakere på norske skip.81 Loven har
-regler om varsling i §§ 2-6 og 2-7.
-I skipsarbeidsloven § 2-6 er det slått fast at
-arbeidstaker har rett til å varsle om kritikkverdige
-forhold i rederiet eller hos arbeidsgiver. Arbeidstakers fremgangsmåte ved varslingen skal være
-forsvarlig, og arbeidstaker har uansett rett til å
-varsle i samsvar med varslingsplikt eller fastsatte
-rutiner for varsling. Det samme gjelder varsling til
-tilsynsmyndigheter eller andre offentlige myndigheter. Det er arbeidsgiveren og rederiet som har
-bevisbyrden for at varsling har skjedd i strid med
-§ 2-6. Bestemmelsen bygger på arbeidsmiljøloven
-§ 2-4 (§ 2 A-1) og må langt på vei forstås på samme
-måte.82 I skipsarbeidsloven § 9-7 er det gitt regler
-om rett til å fremsette klage til rederiet om forhold
-som gjelder skipstjenesten eller arbeidsforholdet
-for øvrig. Regelen om klagerett i § 9-7 er ment å
-dekke intern kritikk og rederiets håndtering av
-
-80
-
-Ot.prp. nr. 13 (1998–99), merknad til § 17.
-81
-Lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip.
-82
-Prop. 115 L (2012–2013), merknad til § 2-6.
-
-slike forhold, mens § 2-6 særlig tar sikte på offentlig varsling.83
-Gjengjeldelse mot arbeidstakere som varsler i
-henhold til § 2-6 er forbudt, jf. § 2-7 første ledd.
-Bestemmelsen tilsvarer § 2-5 (§ 2 A-2) i arbeidsmiljøloven, og har tilsvarende regler om delt bevisbyrde og hjemmel for oppreisning. Begrepet gjengjeldelse skal forstås vidt, og det er i forarbeidene
-vist til at «[e]nhver ugunstig behandling som kan
-ses som en følge av og en reaksjon på varsling,
-skal i utgangspunktet regnes som gjengjeldelse.»
-Forbudet mot gjengjeldelse supplerer, og er delvis
-overlappende med, forbudet mot trakassering i
-skipsarbeidsloven og stillingsvernsregler i skipsarbeidsloven og statsansatteloven. Forbudet er
-også delvis overlappende med vernet mot gjengjeldelse i likestillings- og diskrimineringsloven.
-I § 9-7 andre ledd er det bestemt at «[r]ederiet
-skal sørge for at klager blir tilstrekkelig undersøkt, og skal etablere prosedyrer for rettferdig,
-effektiv og rask behandling av klager.» Denne
-bestemmelsen er i tråd med ILOs Maritime
-Labour Convention 2006, som legger til grunn at
-klager skal søkes løst på laveste nivå i første
-omgang.84 På bakgrunn av at det i § 9-7 oppstilles
-en plikt for rederiet til å etablere interne rutiner
-for klagesaksbehandling, fant ikke departementet behov for en særskilt bestemmelse som i
-arbeidsmiljøloven om plikt til å legge til rette for
-varsling.85
-Der hvor arbeidsgiver er en annen enn rederiet, vil varslingsreglene gjelde både for rederiets
-og arbeidsgivers virksomhet, alt etter hvem som
-gjengjelder lovlig varsling.86 Det er altså ikke
-avgjørende om det som varslingen gjelder har tilknytning til rederiet, arbeidsgiver eller skipets
-eier.
-
-4.8
-
-Arbeidsgivers styringsrett og
-omsorgsplikt
-
-4.8.1 Arbeidsgivers styringsrett
-Arbeidsgiver har overordnet resultatansvar for
-virksomheten, og har i kraft av dette behov for å
-kunne styre virksomheten. Arbeidsgivers styringsrett er ulovfestet og har tradisjonelt blitt definert som arbeidsgivers rett til å organisere, lede,
-kontrollere og fordele arbeidet, samt til å ansette
-og si opp arbeidstakere.87 Arbeidsgiver kan,
-83
-84
-85
-86
-
-Ibid.
-Ibid., merknad til § 9-7.
-Ibid., punkt 12.3.2.4.
-Ibid., merknad til § 2-6.
-
-[Side 61]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-innenfor rammene av den arbeidsavtalen som er
-inngått, ensidig foreta beslutninger som påvirker
-den ansattes arbeidssituasjon i større eller mindre
-grad. Det er flere forhold som begrunner styringsretten. Den tradisjonelle begrunnelsen er knyttet
-til partenes ulike posisjoner i arbeidsforholdet. Et
-annet hensyn er arbeidsforholdets dynamiske
-særpreg og at arbeidskontrakten er ufullstendig.88 Med dette menes at den ofte er tidsubestemt og mangler en uttømmende oversikt over
-arbeidsoppgaver og arbeidsplikt. Arbeidsgiver
-kan i kraft av styringsretten tilpasse arbeidsplikten i takt med endrede markedsforhold og den
-teknologiske utviklingen.89 Styringsretten kompenserer dermed for mangler i reguleringen av
-arbeidspliktens innhold i arbeidskontrakten.
-I juridisk teori skilles det mellom beslutninger
-som gjelder virksomhetsledelse på overordnet
-nivå og arbeidsledelse i den daglige virksomhet.90
-Virksomhetsledelse omfatter den overordnede
-organisering av virksomheten hvor det tas beslutninger om disposisjoner som for eksempel nedleggelse og salg av virksomheten.91 Her er de
-materielle begrensningene i styringsretten isolert
-sett få, og de angår i hovedsak saksbehandlingen
-og ikke beslutningens innhold. Arbeidsgiver har
-dermed en vid styringsrett ved slike beslutninger,
-til tross for at de kan få omfattende konsekvenser
-for arbeidstaker. Arbeidsledelse omfatter beslutninger med virkning for det individuelle arbeidsforholdet, omfatter blant annet hvilke arbeidsoppgaver den enkelte skal utføre, til hvilke tider de
-skal utføres, omplassering, advarsler, oppsigelse
-og kontrolltiltak overfor arbeidstaker.92 Her foreligger det flere materielle begrensinger som setter strengere rammer for styringsretten, og utøvelsen av styringsretten må uansett ligge innenfor
-rammene av det arbeidsforholdet som er inngått.
-Styringsretten har endret seg i takt med samfunnsutviklingen og stadig økende reguleringslovgivning. Beslutninger i kraft av styringsretten må
-skje innenfor de ytre grensene som følger av lov,
-tariffavtale og den individuelle arbeidskontrakten.93 I tillegg kommer det generelle kravet om at
-arbeidsgivers beslutninger er underlagt visse allmenne saklighetsnormer.94 Hva som nærmere lig-
-
-ger i saklighetskravet er ikke helt klart. Beslutningene må bygge på et forsvarlig faktisk grunnlag
-og ikke være vilkårlige eller basert på utenforliggende hensyn.95 Høyesterett har også underlagt
-styringsrettsbeslutninger konkrete behovs- og
-rimelighetsvurderinger.96
-En stadig mer omfattende vernelovgivning,
-særlig i arbeidsmiljøloven, begrenser også styringsretten. Arbeidsgiver er blant annet underlagt
-en rekke generelle plikter knyttet til det å sikre et
-forsvarlig psykososialt arbeidsmiljø, jf. arbeidsmiljøloven kapittel 4. Dette ansvaret omfatter en plikt
-til å forebygge og håndtere konflikter i virksomheten. Arbeidsgiver har også en ulovfestet omsorgsplikt for sine arbeidstakere, som kan få betydning
-for utøvelse av styringsretten.
-
-4.8.2
-
-Arbeidsgivers ansvar for arbeidsmiljø
-og konflikthåndtering
-Arbeidsgiver har et overordnet ansvar for at
-arbeidsmiljøet i virksomheten er fullt forsvarlig, jf.
-arbeidsmiljøloven §§ 2-1, 3-1 og 4-1. Ansvaret
-omfatter både det fysiske og det psykososiale
-arbeidsmiljøet. Ansvaret for det psykososiale
-arbeidsmiljøet er nærmere regulert i arbeidsmiljøloven § 4-3. Ansvaret omfatter blant annet plikt til
-å forebygge og håndtere konflikt, herunder hindre mobbing og trakassering, jf. bestemmelsens
-tredje ledd. Etter internkontrollforskriften skal
-den som er ansvarlig for virksomheten sørge for
-systematisk internkontroll for å forebygge og
-håndtere den risikoen som til enhver tid er knyttet
-til helse, miljø og sikkerhet i virksomheten. I en
-varslingssituasjon vil arbeidsgivers generelle plikt
-til å sikre et fullt forsvarlig arbeidsmiljø supplere
-de pliktene arbeidsgiver har til å arbeide preventivt med interne rutiner for varsling etter arbeidsmiljøloven § 2 A-3, og sikre det konkrete varslervernet i henhold til arbeidsmiljøloven § 2 A-2 jf.
-§ 2 A-1.97
-94
-95
-96
-
-87
-
-Rt-2000-1602 (Nøkk) s. 1610. Uttalelsen ble fulgt opp i Rt2001-418 (Kårstø) s. 428.
-88
-Evju (2010) s. 31.
-89
-Fougner (2016) s. 148–149.
-90
-Ibid. s. 163.
-91
-Skjønberg, Hognestad og Hotvedt (2017) s. 110 og Fougner (2016) s. 158.
-92
-Fougner (2016) s. 160.
-93
-Jakhelln (2006) s. 24.
-
-61
-
-Kapittel 4
-
-97
-
-Se blant annet Rt-2001-418 (Kårstø) og Rt-2011-841 (Undervisningsinspektør).
-Fougner (2016) s. 164.
-Se blant annet Rt-2000-1602 (Nøkk), Rt-2002-1576 (Hakon),
-Rt-2008-1246 (Statoil), Rt-2009-1465 (Seinvakt) og Rt-2010412 (Fokus Bank). Se også Hotvedt og Ulseth (2013) s.
-112–138.
-En underrettsavgjørelse om varsling som illustrerer hvordan de alminnelige bestemmelsene utfyller særbestemmelsene om varsling, er en dom i Hardanger tingrett av 19.
-oktober 2012 (Bygdaheimen). Her understreket retten
-arbeidsgivers alminnelige handlingsplikt til å håndtere
-denne type helseskadelige psykososiale fenomen som tillegg til anvendelsen av særbestemmelsen om varslervernet
-i arbeidsmiljøloven § 2 A-2 (daværende § 2-5).
-
-[Side 62]
-
-62
-
-NOU 2018: 6
-
-Kapittel 4
-
-Varsling – verdier og vern
-
-Arbeidsgivers ansvar for arbeidsmiljøet etter
-lovens generelle bestemmelser og de konkrete
-lovbestemmelsene knyttet til varsling vil innebære begrensninger i arbeidsgivers styringsrett i
-en varslingssituasjon.
-
-4.8.3 Arbeidsgivers omsorgsplikt
-Arbeidsgivers omsorgsplikt kommer til uttrykk i
-mange av arbeidsmiljølovens verneregler, men
-må også anses som et ulovfestet, alminnelig
-arbeidsrettslig prinsipp som ikke er begrenset til
-de spesifikke omsorgspliktene som er nedfelt i
-lovgivningen. Omsorgsplikten kan ses som et
-utslag av at arbeidsgiver, som den sterkeste kontraktspart, har et særlig omsorgsansvar overfor
-arbeidstaker.98
-Arbeidsgivers omsorgsplikt vil utgjøre et selvstendig grunnlag for å ivareta den som har varslet,
-og som dermed kan være i en særlig sårbar situasjon. Omsorgsplikten vil videre innebære en forpliktelse til å ivareta hensynet til en arbeidstaker
-som har fått mistanke rettet mot seg.
-4.8.4
-
-Styringsrett og omsorgsplikt
-i varslingssituasjonen
-Det særskilte varslervernet i arbeidsmiljøloven
-§ 2 A-2, jf. § 2 A-1, arbeidsgivers alminnelige plikt
-til å sørge for et forsvarlig arbeidsmiljø, og de
-ulovfestede omsorgspliktene arbeidsgiver har, er
-rettsregler som vil få betydning for arbeidsgivers
-utøvelse av styringsretten i en varslingssituasjon.
-Beslutninger som ellers anses som legitim utøvelse av styringsretten, vil etter omstendighetene
-kunne bli ansett som gjengjeldelshandlinger dersom de er en reaksjon på varslingen.
-Arbeidsgiver må kunne sannsynliggjøre at utøvelsen av styringsretten ikke skyldes arbeidstakers varsel om et kritikkverdig forhold, men har
-et saklig grunnlag. Den delte bevisbyrden, som er
-en del av det særskilte varslervernet, får dermed
-betydning for styringsrettens grenser.
-I granskningsrapporten etter «Monika-saken»,
-som gjaldt spørsmålet om politietterforsker Robin
-Schaefer var blitt utsatt for gjengjeldelse etter å ha
-varslet om feil ved etterforskningen av dødsfallet
-til åtte år gamle Monika, uttales følgende om forholdet mellom arbeidsgivers styringsrett og arbeidsmiljølovens gjengjeldelsesforbud:
-Rettssystematisk representerer gjengjeldelsesforbudet en begrensning i arbeidsgivers utø98
-
-Skjønberg, Hognestad og Hotvedt (2017) s. 59.
-
-velse av styringsretten. Gjengjeldelseshandlinger vil i prinsippet være et resultat av utøvelse
-av styringsrett eller unnlatt bruk av styringsrett.99
-Det finnes lite rettspraksis som er tydelig på hva
-som skjer når styringsretten møter gjengjeldelsesforbudet. I mange av de sakene som har vært til
-behandling i ting- og lagmannsrettene er de
-påståtte gjengjeldelseshandlingene anført å være
-lovlige handlinger under utøvelse av arbeidsgivers styringsrett.
-Den såkalte «e-postkjennelsen» kan være et
-eksempel på at gjengjeldelsesforbudet innebærer
-en begrensning i arbeidsgivers styringsrett. Kjennelsen gjaldt krav om innsyn i arbeidstakers epost i kjølvannet av «Siemens-saken».100 Arbeidstaker hadde fått medhold i at oppsigelsen av ham
-var ugyldig fordi den i realiteten var en gjengjeldelse for at han hadde varslet om mulige økonomiske lovbrudd.101 Etter rettssaken krevde
-Siemens innsyn i arbeidstakers e-postkonto, og
-henviste blant annet til at det var nødvendig for å
-forberede den forestående straffesaken. Arbeidstaker bestred kravet og begjærte midlertidig forføyning under henvisning til personopplysningsloven § 8 bokstav f). Retten konkluderte med at det
-ikke forelå tilstrekkelig tungtveiende grunner for
-innsyn, og fremholdt videre at man som varsler
-har «krav på et særskilt vern» og et behov for
-«beskyttelse mot ytterligere tiltak som kunne oppfattes som en slags «hevnaksjon» sett i lys av det A
-har vært igjennom i forbindelse med varslingen
-og den påfølgende oppsigelsessak».102 Arbeidsgiver argumenterte for at arbeidstaker hadde skrevet under på selskapets rutiner som regulerte utøvelsen av arbeidsgivers styringsrett, og at disse ga
-rett til innsyn. Retten uttalte på dette punktet:
-Retten er enig med saksøker i at disse retningslinjene samt reglene for arbeidsgivers styringsrett, er laget for en normalsituasjon, og ikke
-kan tillegges nevneverdig vekt i den konkrete
-sak. Omstendighetene i den foreliggende sak
-er at arbeidsgiver har krenket tidligere
-99
-
-Wiersholm (2015) s. 93.
-Kjennelse fra Oslo Byfogdembete 11. september 2007 (RG2008-53).
-101
-Ved kjennelse fra Oslo tingrett av 29. september 2005,
-TOSLO-2004-99016 (Siemens), ble oppsigelsen av A kjent
-ugyldig, og SBS ble dømt til å betale A en erstatning på kroner 1 500 000. Retten fant det etter en samlet vurdering
-sannsynliggjort at den egentlige årsak til oppsigelsen var at
-A hadde varslet Siemens i Tyskland.
-102
-Kjennelse fra Oslo Byfogdembete 11. september 2007 (RG2008-53) s. 9.
-100
-
-[Side 63]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-arbeidstakers vern, jf. tingrettens kjennelse, og
-således ikke med rimelighet kan påberope seg
-de nevnte forhold som grunnlag for innsyn.103
-Rettens uttalelse er basert på en konkret avveining og et uttrykk for hvordan handlinger som
-ellers er å anse som rettmessig utøvelse av styringsretten, i en varslingssituasjon kan være ulovlige gjengjeldelseshandlinger. Avgjørelsen illustrerer at arbeidsgiver plikter å sikre arbeidstaker
-et reelt varslervern.104
-En annen avgjørelse som kan illustrere forholdet mellom varslervernet og styringsretten er
-«Miljøarbeider-dommen».105 Saken gjaldt en
-arbeidstaker som hadde varslet om en kritikkverdig lederstil fra en av sine overordnede. I kjølvannet av varselet ble vedkommende utestengt fra
-videre vikariat og ble strøket fra turnuslister. Vedkommende var senere i prosess med å inngå midlertidig ansettelse ved en annen enhet i samme
-kommune, men denne prosessen ble raskt avviklet. I en normalsituasjon vil det ligge innenfor styringsretten å fatte beslutninger om det løpende
-behovet for vikarer og hvem som skal ansettes.
-Lagmannsretten la til grunn at arbeidstaker «som
-en dyktig og betrodd medarbeider i kommunen,
-aldri ville opplevd slik massiv utestengelse hvis
-det ikke hadde vært som gjengjeldelse».106 Kommunen kunne ikke sannsynliggjøre noe annet saklig grunnlag for utestengelsen.
-Rettspraksis tyder på at det foretas en konkret
-vurdering av om arbeidsgivers handlinger er saklig begrunnet i andre forhold enn varselet.
-
-4.9
-
-Personvern
-
-4.9.1 Behandling av personopplysninger
-Når en virksomhet, offentlig myndighet eller
-andre mottar et varsel, vil det i de fleste tilfeller
-innebære en registrering og lagring av opplysninger som kan knyttes til varsleren, den omvarslede
-eller andre enkeltpersoner. Det følger av personopplysningsloven at alle opplysninger som kan
-knyttes til en enkeltperson regnes som en «personopplysning» etter loven, jf. § 2 første ledd nr. 1.
-Personopplysningsloven gjelder i utgangspunktet for enhver bruk av personopplysninger,
-herunder innhenting, registrering, lagring mv.,
-som skjer med elektroniske hjelpemidler eller
-103
-
-Ibid.
-
-104 Eriksen (2016) s. 241–242.
-105
-106
-
-LA-2009-57115 (Miljøarbeider).
-Ibid. s. 7.
-
-63
-
-Kapittel 4
-
-dersom opplysningene inngår i et register, jf. personopplysningsloven § 2 første ledd nr. 2 og § 3.
-Loven gjelder dermed for slik behandling av personopplysninger som skjer i forbindelse med varsling, og den gjelder uavhengig av om behandlingen utføres av for eksempel forvaltningen, private
-sammenslutninger eller enkeltpersoner.107 Loven
-stiller en rekke krav for at behandling av personopplysninger skal være lovlig. Loven § 8 oppstiller
-vilkår for hva som er lovlige grunnlag (behandlingsgrunnlag) for behandling av personopplysninger.108 Dersom det behandles sensitive personopplysninger, må i tillegg vilkårene i § 9 være
-oppfylt.109 Det innebærer at sensitive personopplysninger bare kan behandles dersom vilkårene
-for behandling i § 8 er oppfylt og behandlingen i
-tillegg oppfyller et av vilkårene i § 9 første ledd
-bokstav a til h.110
-Den som er ansvarlig for å behandle personopplysningene i forbindelse med en varslingssak
-har etter personopplysningsloven § 11 plikt til å
-sørge for at nærmere angitte grunnkrav er oppfylt, herunder at opplysningene kun brukes til
-uttrykkelig angitte og saklige formål og at opplysningene ikke senere brukes til formål som er
-uforenlig med det opprinnelige formålet med mindre den opplysningene gjelder samtykker, jf. § 11
-bokstav b og c. Hvorvidt gjenbruk for et nytt formål er forenlig med det opprinnelige formålet for
-behandlingen må vurderes konkret og individuelt,
-hvor blant annet ulempen for den opplysningene
-gjelder og hvor nær bruken ligger det opprinnelige formålet vil være relevante momenter.111 Den
-behandlingsansvarlige har også plikt til å sørge
-for at opplysningene er «tilstrekkelige og relevante for formålet med behandlingen» (bokstav
-d), at opplysningene er «korrekte og oppdaterte»
-
-107
-
-Ot.prp. nr. 92 (1998–99) s. 104.
-Det følger av § 8 at personopplysninger bare kan behandles
-dersom den opplysningene gjelder har samtykket, dersom
-det er lovfestet adgang til behandlingen eller dersom
-behandlingen er nødvendig for et av formålene i bokstav a
-til f, herunder for «å utføre en oppgave av allmenn
-interesse» (bokstav d) eller for å «vareta en berettiget
-interesse» og hensynet til den opplysningene gjelder ikke
-overstiger denne berettigede interessen (bokstav f).
-109
-Hva som regnes som sensitive personopplysninger er definert i personopplysningsloven § 2 første ledd nr. 8.
-110
-Behandling av sensitive personopplysninger vil dermed
-kunne være lovlig for eksempel fordi det er fastsatt i lov
-(bokstav b), behandlingen er «nødvendig for å fastsette,
-gjøre gjeldende eller forsvare et rettskrav» (bokstav e) eller
-behandlingen er nødvendig for at den behandlingsansvarlige kan «gjennomføre sine arbeidsrettslige plikter eller rettigheter» (bokstav f).
-111
-Ot.prp. nr. 92 (1998–99) s. 113.
-108
-
-[Side 64]
-
-64
-
-NOU 2018: 6
-
-Kapittel 4
-
-Varsling – verdier og vern
-
-og «ikke lagres lenger enn det som er nødvendig»
-for formålet (bokstav e).112
-Personopplysningsloven stiller også krav til
-hvordan personopplysninger skal håndteres av
-den som har ansvar for behandlingen. Av personopplysningsloven § 13 følger det krav om informasjonssikkerhet, herunder krav om «konfidensialitet, integritet og tilgjengelighet». Hva som skal til
-for å oppfylle kravene til informasjonssikkerhet
-må vurderes konkret.113 Videre oppstiller personopplysningsloven § 14 en plikt til å etablere rutiner for internkontroll som skal sikre at kravene
-loven stiller blir etterlevd. Kravene til informasjonssikkerhet og internkontroll er nærmere presisert i kapittel 2 og 3.114
-Behandling av personopplysninger i forbindelse med intern og ekstern varsling er unntatt
-melde- og konsesjonsplikt, jf. personopplysningsforskriften § 7-21e.
-
-4.9.2
-
-Den registrertes rettigheter
-
-Dersom det er behandlet personopplysninger som
-er «uriktige», «ufullstendige» eller som det ikke er
-adgang til å behandle, kan den registrerte, den
-personopplysningene gjelder, begjære retting av
-de mangelfulle opplysningene, jf. § 27. Den registrerte kan også i noen tilfeller kreve at opplysninger som er sterkt belastende for ham eller henne
-skal sperres eller slettes, jf. § 28 tredje ledd.
-Videre gir personopplysningsloven den registrerte flere rettigheter til informasjon. Ettersom
-loven gir rettigheter til den registrerte, vil varsleren og den omvarslede i utgangspunktet ha de
-samme rettighetene. Hvorvidt den enkelte har
-krav på innsyn eller informasjon i det enkelte tilfellet, vil imidlertid kunne falle forskjellig ut for
-varsleren og den omvarslede.
-Personopplysningsloven § 18 gir enhver rett til
-å få generell informasjon om behandlingen av personopplysninger. I andre ledd er den som er registrert gitt rett til mer utfyllende informasjon.
-Bestemmelsen slår fast at den registrerte blant
-annet har rett til å få innsyn i hvilke opplysninger
-som behandles om vedkommende og hvilke sikkerhetstiltak som gjelder for behandlingen.
-Den det behandles personopplysninger om vil
-videre ha rett til å få nærmere bestemte opplysnin112
-
-Plikten til å rette mangelfulle personopplysninger og forbudet mot å lagre unødvendige personopplysninger er nærmere presisert i personopplysningsloven §§ 27 og 28.
-113
-Ot.prp. nr. 92 (1998–99) s. 114.
-114
-Forskrift 15. desember 2000 nr. 1256 om behandling av personopplysninger.
-
-ger uoppfordret, avhengig av hvem personopplysningene er samlet inn fra. Dersom det samles inn
-opplysninger fra den registrerte, har vedkommende etter personopplysningsloven § 19 krav på
-nærmere angitt informasjon, herunder om formålet med behandlingen av personopplysningene,
-om opplysningene vil bli utlevert til andre, og
-eventuelt til hvem, og annen informasjon som gjør
-den registrerte i stand til å benytte seg av sine rettigheter etter personopplysningsloven. Dersom
-det samles inn personopplysninger fra andre enn
-den registrerte, gis den registrerte i tillegg
-enkelte rettigheter i § 20. Bestemmelsen slår fast
-at den registrerte i slike tilfeller uoppfordret skal
-få informasjon om hva som samles inn, i tillegg til
-de opplysningene som vedkommende har rett på
-etter § 19. Det er gjort unntak fra dette utgangspunktet dersom innsamlingen følger uttrykkelig
-av lov, dersom det er umulig eller uforholdsmessig vanskelig eller dersom den registrerte allerede kjenner til den informasjonen behandlingsansvarlig er pliktig å gi, jf. § 20 andre ledd.
-I personopplysningsloven § 23 er det gitt generelle unntak fra de omtalte rettighetene som følger av blant annet §§ 18, 19 og 20. Retten til å gi
-innsyn og plikten til å gi informasjon gjelder for
-eksempel ikke for opplysninger som det er
-«påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølgning» av straffbare handlinger eller dersom opplysningene er underlagt lovbestemt taushetsplikt.
-Sistnevnte unntak innebærer for eksempel at
-offentlige myndigheters taushetsplikt etter
-arbeidsmiljøloven § 2 A-4 går foran den registrertes rett til innsyn og informasjon etter personopplysningsloven. Videre er det gjort unntak for opplysninger som utelukkende finnes i tekst som er
-utarbeidet for den interne saksforberedelsen og
-ikke er utlevert til andre, og opplysninger som det
-vil være i strid med «åpenbare og grunnleggende»
-private eller offentlige interesser å informere om,
-herunder hensynet til den registrerte selv.
-
-4.9.3 Personvernforordningen
-Personvernforordningen ble vedtatt i EU i april
-2016 og trer i kraft i EU-medlemslandene 25. mai
-2018.115
-Justis- og beredskapsdepartementet sendte 6.
-juli 2017 et forslag om gjennomføring av person115
-
-Forordning 2016/679 av 27. april 2016 om beskyttelse av
-fysiske personer med hensyn til behandling av personopplysninger og om fri bevegelighet for slike opplysninger og
-om oppheving av direktiv 95/46/EF.
-
-[Side 65]
-
-NOU 2018: 6
-Varsling – verdier og vern
-
-vernforordningen i norsk rett på høring.116 Det
-tas sikte på at den nye loven skal tre i kraft 25. mai
-2018.117 I høringen foreslo departementet å gi en
-ny personopplysningslov som gjennomfører forordningen ved inkorporasjon. I tillegg foreslo
-departementet enkelte lovbestemmelser som
-utfyller forordningen, samt å oppheve gjeldende
-personopplysningslov og -forskrift. I hovedsak
-innebærer gjennomføringen av personvernforordningen en videreføring av de sentrale prinsippene
-og reglene som gjelder i norsk rett i dag. Likevel
-medfører forordningen også noen endringer i
-norsk rett, herunder en styrking av de registrertes rettigheter på enkelte områder, en utvidet plikt
-for virksomheter til å vurdere personvernkonsekvenser ved behandling av personopplysninger og
-bortfall av melde- og konsesjonsplikten.
-Enkelte endringer som følger av høringsnotatet vil også kunne få konsekvenser for behandlingen av personopplysninger i forbindelse med varslingssaker. Etter forordningen anses ikke opplysninger om at en person har vært mistenkt, siktet,
-tiltalt eller dømt for en straffbar handling som en
-sensitiv personopplysning. Forordningen artikkel
-10 slår i stedet fast at behandling av personopplysninger om «straffedommer og lovovertredelser»
-bare kan utføres under offentlige myndigheters
-kontroll eller dersom behandlingen har hjemmel i
-medlemsstatens nasjonale rett. I høringen legger
-også Justis- og beredskapsdepartementet til
-grunn at adgangen til å gjøre unntak fra retten til
-innsyn og informasjon dersom opplysningene kun
-finnes i interne dokumenter ikke kan videreføres.118
-Proposisjon om ny personopplysningslov ventes fremmet for Stortinget våren 2018.
-
-4.10 Kildevern
-4.10.1 Innledning
-Arbeidstakere som varsler til media har etter
-Norsk presseforbunds «Vær Varsom-plakat» et
-absolutt kildevern dersom fortrolighet er avtalt
-eller forutsatt. Dette prinsippet bygger på at kildevernet er en forutsetning for at pressen skal
-kunne fylle sin samfunnsoppgave og sikre tilgangen på vesentlig informasjon. «Vær Varsom-plakatens» regler om kildevern er ikke juridisk bin116
-
-Ny Personopplysningslov – Gjennomføring av personvernforordningen i norsk rett, høringsnotat 6. juli 2017, snr. 17/
-4200.
-117
-Ibid. s. 3.
-118
-Ibid. s. 50.
-
-65
-
-Kapittel 4
-
-dende, men legges i praksis alltid til grunn av
-redaktører og journalister.
-Teksten i punkt 4.10.2 og 4.10.3 nedenfor er
-hentet fra NOU 2011: 12 Ytringsfrihet og ansvar i
-en ny mediehverdag kapittel 12 Kildevern og anonymitetsrett i media. Prosesslovgivningen inneholder bestemmelser om kildevern som grunnlag
-for unntak fra regler om forklaringsplikt.
-
-4.10.2 Kildevernet i prosesslovgivningen
-Hovedregelen i norsk prosesslovgivning er at
-den som blir innkalt som vitne, plikter å møte
-og forklare seg. På strafferettens område er
-forklaringsplikten begrunnet i hensynet til
-effektiv kriminalitetsbekjempelse. Et relevant
-eksempel kan være når en kilde begår et straffbart brudd på taushetsplikt. Taushetsplikten
-beskytter legitime interesser. Å oppklare hvem
-som har lekket, kan være viktig ut fra de hensyn som taushetsplikten skal ivareta i det konkrete tilfelle. På sivilrettens område er hovedregelen om forklaringsplikt begrunnet i hensynet til effektiv beskyttelse av privates rettigheter, effektiv konfliktløsning og behovet for å
-opplyse saken så grundig som mulig.
-Det grunnleggende formålet bak forklaringsplikten er å realisere målsettingen om riktige avgjørelser. I det store bildet er dette av
-avgjørende betydning for tilliten til domstolene
-og deres demokratiske funksjon.
-Bestemmelsene om kildevern er altså unntak fra alminnelige bestemmelser om forklaringsplikt. Prinsippet om kildevern innebærer
-at medarbeidere i medier med tilsvarende formål som aviser og kringkasting ikke trenger å
-vitne i retten om hvem deres kilder er. Reglene
-beskytter mot å måtte oppgi kilden til både
-publisert og upublisert materiale. Fanebestemmelsene om kildevern utfylles av andre prosessuelle bestemmelser som både sikrer kildevernets effektivitet og ytterligere bidrar til å styrke
-den frie pressens uavhengige stilling. For
-eksempel følger det av straffeprosessloven
-§ 204 at det ikke kan tas beslag i dokumenter
-hvis innhold et vitne kan nekte å forklare seg
-om. Straffeprosessloven § 197, andre ledd,
-andre pkt. oppstiller en særbestemmelse ved
-beslutning om ransaking av redaksjonslokaler.
-[…]
-Hensynene bak den alminnelige hovedregelen om forklaringsplikt gjør at prinsippet om
-kildevern ikke er absolutt. Både tvisteloven
-§ 22-11 og straffeprosessloven § 125 åpner for
+Gjennomgangen og analysene i rapporten fra Arntzen de Besche bygger på fire avgjørelser fra Høyesterett, 29 avgjørelser fra lagmannsrettene, 19 tingrettsavgjørelser, fem avgjørelser fra Arbeidsretten og elleve saker fra Sivilombudsmannen.
+
+Kritikkverdige forhold
+
+Mange av sakene i domsmaterialet gjelder spørsmål om det er varslet om kritikkverdige forhold. Gjennomgangen av rettspraksis fra tingretten og lagmannsretten viser at domstolene i stor grad legger det samme generelle, rettslige utgangspunktet til grunn. Det er ved den skjønnsmessige anvendelsen av reglene at domstolenes vurderinger kan variere, både med hensyn til det materielle innholdet og yttergrensen for vilkåret.
+
+Det har vært en rekke saker om varsling om brudd på helse-, miljø- og sikkerhetsbestemmelsene, men også saker om andre typer lovbrudd, som for eksempel brudd på strålevernforskriften og skatteregelverket. Praksis fra domstolene viser at det ikke innfortolkes noe krav om kvalifisert brudd for at lovbrudd skal anses som kritikkverdig forhold.
+
+Rapporten viser videre til saker om arbeidstakers varslervern, hvor det har vært tvil om det var en varsling eller en faglig diskusjon eller uenighet på faglig grunnlag mellom ansatte og ledelsen. Praksis viser at varsling om brudd på etiske normer blir ansett som varsling om kritikkverdige forhold, selv om det i sakene også kan være elementer av faglig uenighet. Avgjørelsene som gjennomgås i rapporten viser at domstolene foretar en konkret og skjønnsmessig vurdering i den enkelte saken.
+
+Krav om en viss allmenn interesse
+
+I forarbeidene til varslingsreglene fra 2007 fremheves det at de forholdene som det varsles om bør ha en viss allmenn interesse. Forhold som arbeidstaker mener er kritikkverdige ut fra egen politisk eller etisk overbevisning omfattes ikke.[^175] Enkelte saker handler om spørsmålet om varsling om interne forhold og personalkonflikter omfattes av varslingsreglene. Analysen av rettspraksis synes ikke å vise at kravet om en viss allmenn interesse innebærer noen vesentlig avgrensning av retten til å varsle. Det er imidlertid lagt til grunn i domstolens praksis at varsling som kun gjelder eget arbeidsforhold ikke er omfattet av reglene.
+
+Rettspraksis viser at varsling om opplysninger som er allment kjente ikke anses som varsling etter arbeidsmiljølovens regler. Et eksempel er fra Asker og Bærum tingretts dom 27. november 2009, hvor domstolen har følgende uttalelse:
+
+Mangelen på kvinnelige forskere, særlig innen teknologifag, er allment kjent. Påpekning av at slike forhold gjør seg gjeldende også på Simula, kan etter rettens oppfatning ikke være varsling i arbeidsmiljølovens § 2-4s forstand.[^176]
+
+I en sak fra Agder lagmannsrett 2. november 2009 (Miljøarbeider) uttaler domstolen følgende:
+
+Det kan for øvrig ikke være til hinder for å anse en arbeidstaker som varsler at en arbeidsgiver allerede er kjent med hele eller vesentlige deler av de kritikkverdige forholdene. I så fall ville det medføre en effektiv innskrenkning av varslervernet i strid med hensynene bak aml § 2-4.[^177]
+
+Arbeidsgiver i saken hadde anført at opplysninger om at en leder var anklaget for mobbing og trakassering var kjent fra før.
+
+Kravet til forsvarlig fremgangsmåte
+
+Kravet til forsvarlig varsling inneholder to elementer, som begge innebærer en avgrensning av varslingsretten. Med forsvarlig varsling menes for det første at arbeidstaker må være i aktsom god tro med hensyn til riktigheten av de forhold som det varsles om. For det andre menes at fremgangsmåten må være forsvarlig.
+
+I rapporten fra Arntzen de Besche vises det til at det ikke ble funnet mange eksempler på at spørsmålet om god tro med hensyn til innholdet i varselet har vært fremme i rettspraksis. Det vises til et eksempel fra Borgarting lagmannsrett 2. mai 2011.[^178] Saken gjaldt en inspektør ved Oslo fengsel som varslet om en rekke forhold i virksomheten. Retten kom til at de fleste av varslingene var forsvarlige, men enkelte var det likevel ikke. For disse ble det vist til at det var forhold hvor arbeidstaker enkelt kunne ha brakt de faktiske forholdene på det rene. Han var dermed ikke i god tro.
+
+I en sak fra Borgarting lagmannsrett fant retten at varslingen var forsvarlig, selv om varselet ble brukt som pressmiddel i en forhandlingssituasjon. Retten påpekte at loven ikke stiller krav om ideelle motiver for varslingen.[^179]
+
+Intern varsling vil normalt være forsvarlig og bare unntaksvis regnes som uforsvarlig. Et eksempel fra Borgarting lagmannsrett gjaldt en professor som ga informasjon til en student om feil ved sensuren.[^180] Professoren ble ikke ansett å ha varslet forsvarlig, og det kan vel stilles spørsmål ved om dette var å anse som intern varsling.
+
+Adgangen til å varsle til tilsynsmyndighetene er uten videre lagt til grunn av domstolene, se for eksempel Borgarting lagmannsretts dom 1. november 2010.[^181]
+
+Adgangen til offentlig varsling er omtvistet, ikke minst fordi slik varsling har vesentlig større skadepotensiale enn når det varsles internt. Arntzen de Besche har likevel vist til få rettsavgjørelser hvor spørsmålet om offentlig varsling har kommet på spissen. Det er nevnt ett eksempel fra Trondheim tingrett hvor arbeidstaker i et avisintervju varslet om manglende overtidsbetaling. Dette ble ansett som uforsvarlig varsling, blant annet fordi forholdet kunne vært avklart internt.[^182]
+
+Arntzen de Besche er av den oppfatning at gjennomgangen indikerer at domstolene praktiserer forsvarlighetskravet i tråd med forarbeidenes intensjoner.[^183]
+
+Gjengjeldelse og delt bevisbyrde
+
+Arntzen de Besche har sett på rettspraksis vedrørende gjengjeldelse og delt bevisbyrde. Gjennomgangen viser at det åpnes for at gjengjeldelse kan omfatte en rekke ulike negative reaksjoner. Innsyn i arbeidstakers e-post og innføring av rutiner for tilgang til arkiver nevnes som eksempler. Også utøvelse av arbeidsgivers styringsrett kan være gjengjeldelse hvis beslutningen er forårsaket av et varsel. Det finnes få avgjørelser som gir grunnlag for å trekke noen nedre grense for hva som kan være gjengjeldelse. Det er ingen avgjørelser som omtaler anvendelsen av regelen om delt bevisbyrde, men flere av avgjørelsene i domsmaterialet legger delt bevisbyrde til grunn.[^184]
+
+I rapporten ble også rettspraksis fra før ikrafttredelse av varslingsreglene i arbeidsmiljøloven vurdert. Man fant at det hadde skjedd en utvikling i rettspraksis etter ikrafttredelse av reglene som tyder på at avgjørelsesgrunnlaget er klarere og at hensynet til ytringsfriheten er mer fremtredende.[^185]
+
+En gjennomgang av rettspraksis etter at Arntzen de Besches rapport ble avgitt, viser at det fortsatt er mange saker som gjelder spørsmålet om gjengjeldelse og at arbeidstaker ofte ikke vinner frem. Det kan være en vanskelig bevissituasjon i gjengjeldelsessaker, ettersom det kan dreie seg om uformelle og mer eller mindre subtile måter å gjengjelde på, som generelt kan være vanskelig å dokumentere eller sannsynliggjøre i etterkant. Det er få rettsavgjørelser som bidrar til forståelsen av reglene om delt bevisbyrde, og det er derfor vanskelig å trekke sikre slutninger om reglene om delt bevisbyrde har fungert etter sin hensikt.[^186] Det kan skyldes at varsling og ulovlig gjengjeldelse kommer opp som en av flere påstander i en oppsigelsessak. I enkelte av sakene kan det også se ut som om vurderingen er preget av at det er uklart om det egentlig er varslet.[^187]
+
+1.  **Internasjonale regler og anbefalinger**
+
+    1.  **Innledning**
+
+Utvalget skal ifølge mandatet redegjøre for internasjonal rett på området og innhente erfaringer fra andre land. I denne sammenhengen er utvalget også bedt om å se på reguleringer og anbefalinger om varsling fra internasjonale organer, som for eksempel EU og OECD.
+
+I dette kapitlet gis en oversikt over relevante internasjonale regler og anbefalinger om varsling, presentert punktvis under de respektive internasjonale organisasjonene som reguleringene og anbefalingene hører under.
+
+Internasjonale strategier og tiltak for harmonisering av helhetlig nasjonal regulering av varsling finnes kun i begrenset omfang, og det som finnes er gjerne begrunnet ut fra ulike formål og utfordringer i visse sektorer og på ulike rettsområder. Beskyttelse av varslere er blant annet anerkjent som et viktig verktøy i kampen mot ulike former for økonomisk kriminalitet. At varsling er et aktuelt tiltak for å bekjempe korrupsjon kommer tydelig til uttrykk i visse internasjonale regelverk, herunder OECDs anbefalinger. Annet internasjonalt regelverk slik som Den europeiske menneskerettskonvensjonen (EMK), som har til formål å verne grunnleggende menneskerettigheter, herunder ytringsfrihet, omtales ikke her. Se omtale av EMK i punkt 4.1.3.
+
+Generelle regler om varsling finnes ikke på EU-nivå i dag, men behovet for felles regler for å beskytte varslere er et viktig og dagsaktuelt tema i EU. EU-kommisjonen gjennomførte våren 2017 en offentlig høring av en såkalt «roadmap» om lovregulering som verner arbeidstakere som varsler.[^188] Europaparlamentets Employment Committee har i en uttalelse av 24. oktober 2017 anmodet Kommisjonen om å foreslå regler på området.[^189] EU-kommisjonen har varslet at det vil komme et lovforslag i løpet av første halvår i 2018.[^190]
+
+Internasjonale reguleringer som omtales i dette kapitlet er på ulik måte bindende for Norge. Noen rettsakter er direkte bindende, mens andre har mer preg av anbefalinger. Vår lovgivning om varsling, herunder både arbeidsmiljølovens regler og regler om varsling i særlovgivningen, er vurdert å være godt i samsvar med våre forpliktelser etter de internasjonale konvensjonene som vi er tilsluttet. En gjennomgang av all relevant nasjonal gjennomføringslovgivning anses derfor ikke nødvendig i denne utredningen.
+
+1.  **FN**
+
+FN-konvensjonen mot korrupsjon trådte i kraft 14. desember 2005 og har som formål å fremme internasjonalt samarbeid for å forebygge og bekjempe korrupsjon.[^191] Konvensjonen har blant annet en bestemmelse om varsling og krav om tiltak for å gjøre det enklere for offentlig ansatte å rapportere om korrupsjon. Medlemsstatene er forpliktet til å vurdere tiltak for å legge til rette for at offentlige ansatte skal kunne melde fra om korrupsjon til kompetent myndighet når de under utøvelsen av sine funksjoner blir oppmerksomme på slike handlinger. Konvensjonen forplikter også statene til å vurdere å innarbeide hensiktsmessige tiltak for å beskytte mot enhver form for represalier mot enhver som i god tro og med rimelig grunn melder fra til kompetent myndighet om forhold som er straffbare etter konvensjonen. Norge ratifiserte konvensjonen i 2006 og den er gjennomført i norsk rett ved endringer i straffeloven og utleveringsloven samme år.[^192]
+
+1.  **Europarådet**
+
+Norge har ratifisert Europarådets sivilrettslige konvensjon om korrupsjon, *Civil Law Convention on Corruption*, 4. november 1999. Konvensjonen regulerer vern for den som varsler om korrupsjon. Nasjonal rett må gi hensiktsmessig vern for arbeidstakere som på grunnlag av rimelig mistanke og i god tro melder fra om korrupsjon til ansvarlige personer eller myndigheter. Arbeidstakere i offentlig og privat sektor skal være vernet mot uberettigede sanksjoner som for eksempel oppsigelse eller unnlatt forfremmelse, som bygger på at arbeidstakeren har varslet om korrupsjon.
+
+Europarådets resolusjon om beskyttelse av varslere anerkjenner betydningen av varslere i offentlig og privat sektor, *Council of Europe’s Resolution 1729 (2010) on the Protection of whistleblowers by the Parliamentary Assembly*. I resolusjonen blir medlemslandene oppfordret til å evaluere og endre lovgivningen i henhold til en rekke nærmere angitte føringer og prinsipper.
+
+Europarådets ministerkomité vedtok i 2014 en anbefaling til medlemsstatene om beskyttelse av varslere.[^193] Medlemsstatene oppfordres til å gjøre det enklere å rapportere og avsløre forhold som er av offentlig interesse. Videre oppfordres statene til å beskytte varslere ved nasjonale regler, institusjonelle rammer og tariffavtaler. Anbefalingen omfatter en rekke prinsipper for å veilede medlemsstatene når de skal evaluere eller endre regelverket på området, herunder detaljerte krav til varslingskanaler og konkrete krav til arbeidsgivers behandling av mottatte varsel.
+
+1.  **OECD**
+
+En OECD-rapport fra 2016 gir en oversikt og vurdering av lover og praksis om varsling i de 34 medlemslandene og gir også anbefalinger til regulering av varslervernet.[^194] Ifølge rapporten har flere OECD-land vedtatt å beskytte varslere gjennom lovgivning i løpet av de siste 5 årene enn i de siste 25 årene til sammen. Av de 32 OECD-landene som svarte på en undersøkelse om varsling i 2014, rapporterte 27 land at de hadde lovgivning om varsling eller annen rettslig beskyttelse for varslere under visse omstendigheter.
+
+OECD gir en rekke anbefalinger i rapporten, blant annet at medlemslandene implementerer generell varslerbeskyttelse som dekker alle som utfører funksjoner relatert til en organisasjons eller virksomhets formål. Økt bevisstgjøring om varslingsprosessen gjennom opplæring og informasjon om varslingskanaler og prosedyrer som tilrettelegger for varsling er et annet av de anbefalte tiltakene for å fremme mer omfattende beskyttelse av varslere.
+
+1.  **EU**
+
+    1.  **Innledning**
+
+I EU finnes det ikke noen generell regulering av varsling på direktivnivå. Det finnes enkelte direktiver som anerkjenner og regulerer varsling på ulike samfunnsområder. Disse omtales kort nedenfor.
+
+Som nevnt i innledningen er vern av varslere som varsler om kritikkverdige forhold et viktig og aktuelt tema i EU. EU-kommisjonen har tatt initiativ til å utrede situasjonen i medlemslandene og er i gang med en utredning av mulige tiltak, både lovgivning og andre tiltak som skal sikre varslere et bedre vern. Situasjonen i EU i dag er at det på nasjonalt nivå i medlemslandene er svært ulike typer varslingsregelverk. Det er per i dag åtte medlemsstater med generelle lovregler som gir vern mot gjengjeldelse. 15 medlemsland har sektorlovgivning som gir varslere vern på visse områder og sektorer, blant annet vern av varsling om korrupsjon. Ni europeiske land er i gang med å utrede nye regler om varslervern, herunder Finland som utreder forslag til egne «varslerkanaler» som ledd i en nasjonal strategi for bekjempelse av korrupsjon. Formålet med lovgivningsinitiativet fra Kommisjonen er todelt: Å sikre et gjennomgående effektivt nivå for beskyttelse for varslere i EU uten frykt for gjengjeldelse og å bidra til å forhindre og bekjempe korrupsjon, fremme selskapers samfunnsansvar og overholdelse av lover og regler.[^195]
+
+1.  **EU-regler om varsling på ulike områder**
+
+Det finnes ulike EU-direktiver som anerkjenner og regulerer varsling innenfor ulike sektorer. Nedenfor gis en kort omtale av EU/EØS-rettslig regulering av varsling på følgende områder: hvitvasking og terrorfinansiering, forretningshemmeligheter, finansmarkeder (innsidehandel og markedsmisbruk mv.) og sikkerhet i sivil luftfart, jernbane og olje- og gassvirksomhet. Redegjørelsen bygger til dels på rapporten *Varslingsregler i ulike land og EU/EØS*, som er utført av advokatfirmaet Schjødt på oppdrag fra Arbeids- og sosialdepartementet til bruk for utvalget[^196] og oppdateringer fra de ansvarlige fagdepartementene.
+
+Hvitvasking og terrorfinansiering
+
+EUs fjerde hvitvaskingsdirektiv (2015/849/EU) som ble vedtatt i mai 2015, har i artikkel 33 regler som pålegger varslingsplikt for ledere og ansatte i relevante virksomheter herunder kredittinstitusjoner, finansinstitusjoner, revisorer, regnskapsførere, skatterådgivere og eiendomsmeglere til EUs finansielle etterretningsenheter ved mistanke om terrorfinansiering og hvitvasking.
+
+Ifølge direktivet kan medlemslandene utpeke et særskilt organ til å motta slike varsel. Varsling skal ikke medføre ansvar eller anses som brudd på taushetsplikt, og de som varsler skal beskyttes mot gjengjeldelse.
+
+Direktivet er EØS-relevant, men er foreløpig ikke inntatt i EØS-avtalen. Gjennomføring av direktivet er blitt utredet av Hvitvaskingslovutvalget i to utredninger, NOU 2015: 12 og NOU 2016: 27. Utredningene med forslag til ny hvitvaskingslov har vært på høring og ligger nå til vurdering i Finansdepartementet.
+
+Forretningshemmeligheter
+
+EU-direktiv (2016/943/EU) om beskyttelse av fortrolig know-how og forretningsopplysninger (forretningshemmeligheter) mot rettsstridig tilegnelse, bruk og videreformidling, ble vedtatt i 2016.
+
+Direktivet har regler om at videreformidling av forretningshemmeligheter mv. er tillatt hvis det faller innenfor rammen av ytringsfriheten, retten til å varsle blant annet for å avdekke forseelser og uregelmessigheter eller ulovlig aktivitet hvis varslerens hensikt var å beskytte den allmenne offentlige interesse. EU-direktivet er EØS-relevant, men er ikke tatt inn i EØS-avtalen.
+
+Sikkerhet i sivil luftfart og jernbanesikkerhet
+
+I sivil luftfart har flere personer med ulik tilknytning til flyet obligatorisk rapporteringsplikt om en rekke kategorier av forhold som utgjør en vesentlig risiko for luftfartssikkerheten. Det følger av forordning 376/2014/EU om rapportering, analyse og oppfølging av hendelser i sivil luftfart at arbeidsgiver ikke har anledning til å rette sanksjoner mot ansatte som har rapportert om forhold i henhold til regelverket. Forordningen er implementert i luftfartsloven kapittel XII om varsling, rapportering og undersøkelse av luftfartsulykker og luftfartshendelser m.m.
+
+Direktiv 2004/49/EF om jernbanesikkerhet (jernbanesikkerhetsdirektivet) ble vedtatt i 2004. Direktivet inneholder ikke særskilte regler om rapportering av ulykker og hendelser, men i norsk rett ble reglene for jernbane utviklet etter mønster fra tilsvarende regler for sivil luftfart. For å sikre at alle nødvendige opplysninger kommer frem, inneholder jernbaneundersøkelsesloven § 25 en bestemmelse om at arbeidsgiver ikke har anledning til å rette sanksjoner mot ansatte som har rapportert i henhold til regelverket.
+
+Finansmarkeder – innsidehandel og markedsmisbruk mv.
+
+*Markedsmisbruksforordningen*
+
+Markedsmisbruksforordningen (596/2014/EU) fastsetter felles regler for innsidehandel, urettmessig videreformidling av innsideinformasjon og markedsmanipulasjon (markedsmisbruk) for å sikre de finansielle markedene i EU og forbedre investorbeskyttelsen og tilliten til disse markedene. Forordningen inneholder blant annet krav til medlemsstatene om innføring av effektive mekanismer for rapportering av overtredelser av forordningen, som minimum skal omfatte:
+
+- særlige prosedyrer for mottakelse av varsel og oppfølging av disse
+
+- passende beskyttelse mot gjengjeldelse for arbeidstakere som varsler
+
+- beskyttelse av anonymiteten til varslere
+
+- krav til interne prosedyrer for arbeidstakeres varsling
+
+- adgang til å fastsette bestemmelser om økonomiske insentiver
+
+- særskilt administrativt kompetent myndighet som skal sikre gjennomføringen av forordningen
+
+Gjennomføringsdirektivet til markedsmisbruksforordningen om innsidehandel (2015/2392/EU) gir regler som spesifiserer prosedyrene som følger av markedsmisbruksforordningen, blant annet regler om:
+
+- særskilt personell til å håndtere varsling
+
+- informasjon om hvordan varsling mottas på kompetente myndigheters nettsider
+
+- særskilte krav til prosedyrene for varsling
+
+- kommunikasjonskanaler
+
+- prosedyrer for å beskytte varslere i arbeidsforhold mot gjengjeldelse, diskriminering eller urettferdig behandling
+
+Både forordningen og gjennomføringsdirektivet er EØS-relevant, men er foreløpig ikke tatt inn i EØS-avtalen. Forslag til gjennomføring i norsk rett har vært utredet av Verdipapirlovutvalget, NOU 2017: 14. Forslag til gjennomføring av forordningen har vært på høring høsten 2017 og er under oppfølging i Finansdepartementet.
+
+*Kapitalkravdirektivet*
+
+Kapitalkravdirektivet (2013/36/EU) om adgang til å drive som kredittinstitusjon og verdipapirforetak inngår som en del av det nye kapitalkravregelverket i EU, som regulerer virksomheten i kredittinstitusjoner og verdipapirforetak, det såkalte CRD IV-regelverket.
+
+Direktivets artikkel 71 har blant annet regler om mekanismer som tilskynder varsling, herunder prosedyrer for mottakelse av rapporter og oppfølging av og beskyttelse mot gjengjeldelse for ansatte som varsler. I tillegg stilles krav til varslingsprosedyrer og kanal for intern varsling.
+
+*Verdipapirmarkedsdirektivet*
+
+Direktiv om markedet for finansielle instrumenter og om endring av direktiv 2002/92 EF og direktiv 2011/61/EF (MiFID II) har regler i artikkel 73 om ordninger for rapportering av overtredelser som minimum skal omfatte prosedyrer og kommunikasjonskanaler, beskyttelse mot gjengjeldelse for arbeidstakere i finansinstitusjoner som varsler og vern av identiteten til varslere. Videre er det krav om interne varslingsprosedyrer og kanal for varsling for investeringsselskaper, markedsoperatører og tilbydere av datarapporteringstjenester. Nytt direktiv og forordning som regulerer markedet for finansielle instrumenter, MiFID II/MiFIR, ble vedtatt i EU våren 2014 og trådte i kraft i EU 3. januar 2018, men er foreløpig ikke innlemmet i EØS-avtalen.[^197]
+
+Av hensyn til at det gjelder tilsvarende regler i EU og i Norge, fastsatte Finanstilsynet 4. desember 2017 to forskrifter som samsvarer med de tilsvarende reglene i EU, MiFID II-forskriften og MIFIR-forskriften. Finansdepartementet jobber med forslag til en helhetlig gjennomgang av det norske børs- og verdipapirregelverket med utgangspunkt i de nye reglene og Verdipapirutvalgets utredning.[^198]
+
+*CSD-forordningen*
+
+Forordningen (909/2014/EU) som regulerer verdipapiroppgjør og verdipapirsentraler er EØS-relevant, men foreløpig ikke tatt inn i EØS-avtalen. Ifølge artikkel 65 skal medlemsstatene sikre at vedkommende myndighet innfører effektive ordninger for å oppmuntre til rapportering om faktiske eller mulige overtredelser av forordningen. Forordningen fastsetter at medlemslandene skal kreve at institusjonene det gjelder har innført egnede fremgangsmåter som arbeidstakerne kan følge når de rapporterer internt gjennom en særskilt, uavhengig og selvstendig (varslings)kanal. I tilknytning til en arbeidsgrupperapport som Finansdepartementet sendte på høring 8. desember 2016 er det blant annet foreslått en særskilt bestemmelse som gir Finanstilsynet og Finansdepartementet taushetsplikt om identiteten til den som varsler, gir tips eller lignende opplysninger om overtredelser av verdipapirregisterloven med tilhørende forskrifter. Arbeidsgruppens rapport er til behandling i Finansdepartementet.
+
+*Forsikringsdistribusjonsdirektivet*
+
+Direktivet (2016/97/EU) fastsetter regler for salg av forsikringsprodukter, herunder å stadfeste krav til informasjon og regler om god forretningsskikk. Etter artikkel 35 i direktivet skal medlemslandene etablere effektive mekanismer som fremmer varsling, vern mot gjengjeldelse og i utgangspunktet sikrer mulighet til anonymitet for den som varsler. Finansdepartementet har under behandling et høringsbrev med forslag til gjennomføring av direktivet i norsk rett.
+
+Datalagring – personvern
+
+*Personvernforordningen*
+
+Personvernforordningen (2016/679/EU) om beskyttelse av individer ved behandling av personopplysninger og om fri flyt av slike opplysninger skal erstatte personverndirektivet. Den nye forordningen stiller strengere krav til behandlingen av personopplysninger. Bestemmelsene vil kunne ha betydning for behandling av personopplysninger i tilknytning til mottak av varsel.
+
+Alle offentlige myndigheter og virksomheter som oppfyller nærmere angitte vilkår har dessuten plikt til å ha personvernombud. Ombudet skal fungere som rådgiver i virksomheten og følge opp virksomhetens implementering og overholdelse av personvernlovgivning og virksomhetens egne retningslinjer.
+
+Justis- og beredskapsdepartementet sendte i juli 2017 på høring forslag til ny personopplysningslov som skal gjennomføre EUs personvernforordning i norsk rett. Se omtale i punkt 4.9.
+
+1.  **Regulering av varsling i andre land**
+
+    1.  **Innledning**
+
+Varsling er regulert i varierende grad i andre land, og det er til dels store forskjeller i reguleringsmåten i de ulike landene. USA var først ute med særskilte lovregler om vern av varslere i 1989 ved sin føderale *Whistleblower Protection Act* for offentlig ansatte. Etter hvert har flere land, også i Europa, vedtatt særskilte lover eller lovregler om vern av varslere. Antall land med ny lovgivning om vern av varslere antas å ville øke i de kommende år. Flere internasjonale regelverk krever eller anbefaler landene å vedta lovregler om vern av varslere. Dette er blant annet på bakgrunn av økt kunnskap og oppmerksomhet om betydningen av varsling som instrument for forebygging, avdekking og opphør av lovbrudd, korrupsjon og annen uakseptabel adferd, se kapittel 5. Som nevnt i punkt 5.5 er flere av EUs medlemsland i gang med å utrede nye regler om varslervern.
+
+Nedenfor følger en gjennomgang av situasjonen i Norden og enkelte andre land i Europa som har særskilt regulering av varsling. Kapitlet gir også en oversikt over reguleringen i USA, Canada, Australia og New Zealand. Disse er blant de landene som har gått lengst i regulering av varsling og var tidligst ute med lovregulering.
+
+1.  **Norden**
+
+Danmark har ikke lovregler som særskilt beskytter arbeidstakere som varsler. I Danmark er det enkelte varslingsregler i særlovgivningen, særlig innen finanssektoren der det blant annet stilles krav om at virksomhetene skal ha interne varslingsrutiner. Utenom disse særskilte reguleringene, er arbeidstakere som varsler i Danmark beskyttet av den alminnelige ytringsfriheten og det generelle arbeidsrettslige vernet mot trakassering og usaklig oppsigelse. Heller ikke Finland har egen lovgivning om varsling, og også her er det det generelle ytringsfrihetsvernet og arbeidsrettslovgivningen som gjelder.[^199]
+
+Sverige fikk en ny varslerlov som trådte i kraft 1. januar 2017, lov om særskilt beskyttelse av arbeidstakere som varsler om «allvarliga missförhållanden» i arbeidsgiverens virksomhet.[^200] Loven har som formål å gi arbeidstakere som varsler, supplerende beskyttelse mot gjengjeldelse, i tillegg til vernet som følger av den generelle arbeidsrettslige reguleringen. Loven gjelder både i privat og offentlig sektor og gir vern til alle arbeidstakere uavhengig av ansettelsesform, herunder også innleide arbeidstakere. Arbeidstakere som utsettes for gjengjeldelse i strid med loven, har rett til erstatning fra arbeidsgiver. Bevisbyrden er delt mellom partene. Dersom arbeidstakeren kan vise til forhold som gir grunn til å tro at det har funnet sted gjengjeldelse i strid med loven, er det arbeidsgiver som må bevise at slik gjengjeldelse ikke har funnet sted.
+
+Med varsling om «allvarliga missförhållanden» menes etter den svenske loven varsling om lovbrudd som kan straffes med fengsel eller forhold som er sammenlignbare med dette. I vurderingen av om forholdet er sammenlignbart med straffbare lovbrudd som medfører fengsel skal det tas hensyn til om det finnes en allmenninteresse i at forholdet kommer frem. Eksempler på forhold som omfattes av reglene er:
+
+- ulike typer økonomisk kriminalitet (som skatteunndragelse, bedrageri, underslag mv.)
+
+- ulike typer korrupte handlinger (som for eksempel å gi og ta imot bestikkelser)
+
+- risiko for liv, helse og sikkerhet
+
+- skade og risiko for skade på miljøet
+
+- brudd på interne regler og prinsipper
+
+Den svenske loven har egne bestemmelser om varsling internt, varsling til arbeidstakerorganisasjon og varsling eksternt til offentligheten eller myndighetene. Ved ekstern varsling må arbeidstakeren ha grunnlag for påstanden om at det kun kan varsles eksternt dersom arbeidstakeren først har varslet internt uten at arbeidsgiveren har fulgt opp varselet og orientert arbeidstakeren om dette. Dette gjelder likevel ikke hvis det er rimelig grunn til ikke å varsle internt først, eksempelvis ved akutt fare, særlig alvorlige lovbrudd eller der det er risiko for bevisforspillelse.
+
+Loven håndheves av domstolene, og det er ingen særskilt myndighet som har ansvaret for å overvåke gjennomføringen. Arbeidstilsynet i Sverige fører tilsyn med fysisk og psykisk sikkerhet på arbeidsplassen, og eventuell gjengjeldelse som påvirker psykisk trygghet eller velferd til en arbeidstaker vil falle inn under tilsynets kompetanse.
+
+1.  **Noen andre europeiske land**
+
+Ifølge EU-kommisjonen er det i dag 8 land i Europa med generelle lovregler om vern av varslere og 15 land med regler om varsling som er avgrenset til eksempelvis offentlig sektor eller til visse spesifikke forhold, slik som korrupsjon og annen økonomisk kriminalitet, se nærmere i punkt 5.5. I dette punktet gis en oversikt over lovregulering av varsling i enkelte utvalgte relevante europeiske land.
+
+1.  **Nederland**
+
+Nederland fikk en ny lov om varsling med den engelske tittelen *The Dutch House for Whitleblowers Act (Whistleblowers Act)* 1. juli 2016. Loven gir regler om arbeidstakeres rett til å varsle og gjelder både i privat og offentlig sektor, herunder også for tidligere ansatte i virksomheten.
+
+For at varslingen skal være vernet av *Whistleblowers Act* stilles som vilkår at varselet er i det offentliges interesse og gjelder en «wrongdoing» som arbeidstaker har rimelig grunn til mistanke om, basert på kunnskap fra arbeidsforholdet. En uttømmende liste over hva slags forhold som anses som «wrongdoing» er listet opp i loven, eksempelvis lovbrudd og forhold som kan utgjøre fare for helse, miljø og sikkerhet.
+
+For at arbeidstaker skal være vernet etter *Whistleblowers Act* må vedkommende først varsle internt i tråd med varslingsrutiner som gjelder for virksomheten. Når den interne prosedyren er avsluttet, kan varsleren varsle eksternt. Etter lovens system skal ekstern varsling enten gjøres til offentlig ansvarlig myndighet på området for det aktuelle forholdet eller til det selvstendige administrative varslingsorganet som er etablert ved loven, House for Whistleblowers / Varslerhuset.
+
+Loven pålegger virksomheter som har minst 50 ansatte å ha varslingsrutiner og inneholder minimumskrav til innholdet i rutinene. Loven forbyr gjengjeldelse ved varsling og gir arbeidstaker et vidt vern mot gjengjeldelse fra arbeidsgiver. Brudd på gjengjeldelsesforbudet sanksjoneres etter arbeidsrettslovgivningen og den generelle kontraktsretten.
+
+Det nederlandske Varslerhuset er et administrativt varslerorgan som ble etablert ved loven. Varslerhuset skal blant annet gi råd og veiledning til varslere. Varslerhuset kan også foreta undersøkelser etter krav fra varslere, når de mottar varslinger og det ikke er andre offentlige organer som på grunnlag av lov skal undersøke forholdene.[^201]
+
+1.  **Storbritannia**
+
+Storbritannia har generelle regler om vern mot gjengjeldelse for arbeidstakere som varsler i *Public Interest Disclosures Act 1998 (PIDA)*, som er en endringslov til *Employment Rights Act 1996 (ERA)*. Varslingsreglene i *ERA* gjelder for «workers», som omfatter blant annet nåværende og tidligere arbeidstakere, innleide og selvstendig næringsdrivende innen visse yrker.
+
+Varsling som vernes av *ERA* er varsling som etter arbeidstakers rimelige oppfatning gjelder ett eller flere relevante kritiske forhold, såkalte «wrongdoings». En uttømmende liste over relevante forhold, både de som har skjedd eller som sannsynligvis kan skje, er inntatt i loven. Dette omfatter blant annet lovbrudd og kontraktsbrudd og forhold som kan utgjøre fare for helse, miljø og sikkerhet. Det er et vilkår at arbeidstaker må ha rimelig grunn til å tro at varslingen skjer i offentlighetens interesse. Varslingen skal som utgangspunkt skje internt, men kan skje eksternt på nærmere bestemte vilkår, avhengig av hvem det varsles til. Det er ingen generelle regler som pålegger arbeidsgivere å ha varslingsrutiner, men det er krav om varslingsrutiner innenfor enkelte sektorer, blant annet innen finans og forsikring. Arbeidstakere er vernet mot oppsigelse og mot enhver urettmessig behandling (gjengjeldelse) som følge av varslingen. Vernet omfatter også gjengjeldelseshandlinger begått av kolleger.
+
+Storbritannia har ingen organer som har ansvar for å håndheve de generelle reglene om varsling. Krav må fremsettes for et arbeidsrettslig tribunal, og det er et vilkår om at mekling må være forsøkt gjennom et særskilt organ «The Advisory Conciliation and Arbitration Service». Ved oppsigelse på grunn av varsling kan arbeidstaker kreve gjeninntreden eller erstatning. Varsleren kan også kreve å få beholde stillingen mens en eventuell tvist blir behandlet. Kolleger som begår urettmessige handlinger mot varslere kan holdes erstatningsansvarlige. Dersom det foreligger et økonomisk tap, har arbeidstaker rett til erstatning for dette.
+
+1.  **Irland**
+
+I Irland er varsling særskilt regulert i *The Protected Disclosures Act 2014 (PDA)*.
+
+*PDA* gir vern til «workers», som omfatter enhver person som etter enhver type kontrakt utfører enhver form for arbeid eller tjeneste (personlig eller ved andre), praktikanter og innleide fra vikarbyrå.
+
+Varsling som vernes av *PDA* er varsling om informasjon som arbeidstaker har rimelig grunn til å tro viser en eller flere «wrongdoings» og som arbeidstaker har blitt klar over gjennom sitt arbeidsforhold. Loven gir en uttømmende liste over relevante forhold som omfattes.
+
+For at varsleren skal være vernet må varselet være gjort i henhold til en såkalt «tretrinnsprosedyre», der arbeidstaker først skal varsle internt til arbeidsgiver (intern varsling), så til en særskilt angitt tredjepart («prescribed person») eller andre / ekstern varsling.
+
+Krav om kompensasjon på bakgrunn av usaklig oppsigelse og krav på bakgrunn av ulovlig gjengjeldelse kan fremsettes til «Adjudication Officer», med «Labour Court» og «High Court» som ankeinstanser. Maksimal kompensasjon ved usaklig oppsigelse på grunn av varsling er satt til fem årslønner. Arbeidstaker kan fremsette krav om gjeninntreden til «Circuit Court», som kan gi ordre om gjeninnsettelse til det er tatt stilling til spørsmålet om usaklig oppsigelse. Erstatningskrav kan fremmes for sivile domstoler.
+
+«Department of Public Expenditure and Reform» har hovedansvaret for loven og kan kreve opplysninger fra arbeidsgiver, men ikke gi bøter eller rettsforfølge arbeidsgiver for brudd på loven.
+
+1.  **USA, Australia og New Zealand**
+
+    1.  **USA**
+
+USA, som var tidligst ute med varslerlovgivning, har en rekke varslingsbestemmelser innen ulike rettsområder, blant annet verdipapirrett, arbeidsrett og miljørett. For ansatte i den føderale offentlige myndighet gjelder *Whistleblower Protection Act* av 1989. En annen sentral varslingslov er *Dodd-Frank Act* som forbyr gjengjeldelse mot varslere som varsler om mulig brudd på verdipapirlovgivning og *Occupational Safety and Health Act (OSHA)*. Andre lover som har regler om varsling er blant annet *Age Discrimimation in Employment Act*, *Health Care Act* og *False Claims Act*.[^202]
+
+De ulike varslingsreglene har ulike virkeområder. *Whistleblower Protection Act* omfatter både nåværende og tidligere ansatte, samt søkere til ledige stillinger. Enkelte lover dekker også oppdragstakere, underleverandører og agenter. Blant annet omfatter gjengjeldelsesvernet etter *Sarbanes-Oxley Act* (som gjelder offentlig sektor) også arbeidstakere hos private oppdragstakere og underleverandører som utfører oppdrag for offentlig virksomhet.
+
+Det er ulike krav ved varsling, etter hvilken lov som kommer til anvendelse. I de fleste lovene er det et vilkår for varsling at varsleren har rimelig grunn til å tro at forholdene det varsles om er korrekte. De prosessuelle kravene varierer også etter hvilke lover som kommer til anvendelse i det enkelte tilfellet. For eksempel må en varsling i henhold til *False Claims Act* leveres i en forseglet konvolutt til en føderal domstol, mens varsling til eksempelvis finansmyndighetene kan gjøres på deres hjemmesider.
+
+USA har en rekke belønningssystemer som skal gi varslere insentiver til å varsle. For eksempel kan en som varsler om brudd på verdipapirlovgivningen etter *Dodd-Frank Act*, få en belønning på mellom 10 og 30 prosent av eventuelle bøter som virksomheten blir ilagt. Se nærmere om dette i kapittel 13.
+
+Generelt har arbeidstaker som blir utsatt for ulovlig gjengjeldelse rett til å bli holdt skadesløs. Arbeidstaker kan som oftest kreve å bli gjeninnsatt i stillingen ved oppsigelse og få utbetalt lønn og erstatning for saksomkostninger. I noen tilfeller kan varsleren få immunitet mot straffeforfølgning. Det gjelder for eksempel ved varsling om prissamarbeid og kartellvirksomhet.
+
+1.  **Australia**
+
+I Australia er varsling regulert både på føderalt nivå og på delstatsnivå. Her omtales kun føderal lovgivning. Det er ingen særskilt, generell regulering som gir vern til arbeidstakere som varsler i Australia, men særregulering på enkelte områder. *Fair Work Act 2009 (FWA)* gir vern mot gjengjeldelse for arbeidstakere som varsler om forhold knyttet til arbeidsforholdet. I offentlig sektor er den mest sentrale reguleringen av varsling i *The Public Interest Disclosure Act 2013*. Loven gir adgang for offentlige tjenestemenn til å varsle om forhold av offentlig interesse. I privat sektor er varsling regulert blant annet av *Corporations Act 2001*. Arbeidstakere kan også ha vern ved varsling etter andre regler, som for eksempel alminnelige arbeidsrettslige regler, likestillingslovgivning, selskapsrettslig lovgivning, HMS-lovgivning mv. Australia har ikke et belønningssystem tilsvarende det som finnes i USA, men det diskuteres om det skal innføres på føderalt nivå.[^203]
+
+Gjengjeldelse ved varsling i offentlighetens interesse kan gi rett til å kreve gjeninntreden der arbeidstaker har fått oppsigelse. I tillegg kan det kreves kompensasjon for tap eller skade, pålegg om unnskyldning til varsleren eller andre typer pålegg som domstolen finner hensiktsmessig. Også bøter og fengselsstraff kan være aktuelle sanksjoner. Klage på gjengjeldelse etter *FWA* kan fremsettes for mekling til et tribunal for arbeidsforhold, «Fair Work Commission», før de eventuelt kan fremmes for domstolen dersom partene ikke kommer til enighet. En «Fair Work Ombudsman» kan fremsette krav på vegne av arbeidstaker. Det finnes også et kontor, «Office of the Whistleblower», som skal sørge for god behandling av informasjon som «Australian Security and Investment Commission» (ASIC) mottar av varslere.
+
+1.  **New Zealand**
+
+I New Zealand er varsling regulert i flere ulike lover, slik som i USA. Landet har imidertid også en generell lov om varsling, *Protected Disclosures Act 2000 (PDA)*, som gir vern til arbeidstakere som varsler om alvorlige forhold («serious wrongdoing»), herunder risiko for helse, miljø, sikkerhet, lovbrudd og myndighetsmisbruk. Etter *PDA* skal varslingen som hovedregel foretas i henhold til interne retningslinjer. Loven gir konkret anvisning på når det er adgang til å varsle direkte til andre instanser, uten å følge de interne retningslinjene. Blant annet kan arbeidstakere i offentlig virksomhet varsle til en minister eller ombudsmannen i New Zealand. Loven gir ikke vern for varsling som skjer til andre tredjepersoner, herunder media, enn det som følger av loven.
+
+*PDA* i New Zealand gir vern mot gjengjeldelse for arbeidstakere som varsler i tråd med lovens vilkår. Arbeidstaker kan klage arbeidsgiver inn for et eget særorgan for tvister i arbeidsforhold eller til en arbeidsrettsdomstol. I New Zealand er det ingen særlige organer som håndhever varslingsreglene.[^204]
+
+1.  **Forskning og kunnskap**
+
+    1.  **Status – ytringsfrihetens vilkår i Norge**
+
+        1.  **Innledning**
+
+Retten til ytringsfrihet er en grunnleggende menneskerettighet som også verner om ansattes rett til å ytre seg på egne vegne. Ansattes rettslige grunnlag for å ytre seg og rettslige krav til eventuelle begrensninger i ytringsfriheten er omtalt i punkt 4.1 og 4.2. Opplevelsen av den enkeltes ytringsbetingelser er subjektiv av natur og vil også avhenge av hva man skal ytre seg om og i hvilken kontekst. Da Ytringsfrihetskommisjonen gjorde sitt arbeid i perioden fra 1996–1999 forelå det lite forskning på ytringsfrihetens vilkår i det offentlige rom i Norge. I Ytringsfrihetskommisjonens utredning fra 1999 oppsummerer kommisjonen situasjonen slik:
+
+Hvordan den offentlige samtale fungerer, er et komplisert empirisk spørsmål. Det finnes en del forskning på området, men i forhold til det omfattende generelle problem er den sparsom. Mye må derfor bygge på inntrykk. Når det gjelder det samlede inntrykk, er konklusjonen rimelig klar: Enten man sammenligner i tid eller i rom, det vil si enten man sammenligner med hvordan ytringsfrihetens vilkår var tidligere, eller man sammenligner med andre land, må det kunne slås fast at vi har høy grad av ytringsfrihet, inkludert informasjonsfrihet, i dette land. Norge er et typisk åpent samfunn, med et rimelig godt utbygget system for offentlig kommunikasjon.[^205]
+
+Det er i senere år forsket en del på i hvilken grad retten til å ytre seg oppleves reell. I punkt 7.1 gjennomgås sentral, norsk forskning fra perioden 2013–2017 om ytringsfrihetens vilkår i samfunnet generelt og i arbeidslivet spesielt. Det vil også bli gjort rede for ulike undersøkelser utført blant medlemmer i arbeidstaker- og arbeidsgiverorganisasjoner.
+
+Det foreliggende materialet gir ikke grunnlag for sikre slutninger om statusen for ytringsfrihetens vilkår i norsk arbeidsliv i dag, men det viser at opplevelsen av retten til å ytre seg og retten til å varsle blant annet påvirkes av kultur, samfunnsutvikling, konformitetspress og den enkeltes selvsensur.
+
+1.  **Forskning om ytringsfrihetens vilkår i samfunnet**
+
+Ytringsfrihetsbarometeret 2013
+
+Ytringsfrihetsbarometeret ble laget i 2013 av TNS Gallup på oppdrag fra stiftelsen Fritt Ord og UNESCOs norske ekspertgruppe for ytringsfrihet. Dette er den første systematiske undersøkelsen om befolkningens holdninger til og opplevelse av ytringsfrihet i Norge. Hovedfunnene er oppsummert slik:
+
+Ytringsfrihet som idé står sterkt i Norge, og mange prioriterer opprettholdelse av ytringsfrihet som et viktig mål for Norge de neste 10 årene.
+
+Forsvaret for ytringsfriheten fremstår imidlertid ikke som like klar hvis ytterliggående grupper eller personer ønsker å benytte seg av den.
+
+Ytringsfriheten oppleves i stor grad å være reell i Norge, men samtidig mener et betydelig mindretall at kvinner og minoriteter ofte trakasseres når de ytrer seg offentlig.
+
+Toleranse for varsling i arbeidslivet har stor oppslutning, men mange opplever at jobben begrenser deres ytringsfrihet.
+
+Religiøse minoriteter må kunne tåle kritikk, men samtidig mener mange at man bør vise varsomhet.
+
+De fleste mener at krenkende og feilaktige ytringer i media bør kunne straffes, at politisk TV-reklame bør forbys og at personer med ytterliggående meninger bør kunne overvåkes.
+
+Når det gjelder medienes idealer, mener de fleste at mediene informerer om vesentlige forhold, men langt færre mener mediene legger til rette for at personer med kontroversielle synspunkter slipper til.
+
+Nesten 1 av 6 har opplevd trusler /trakassering med bakgrunn i deres ytringer.[^206]
+
+Status for ytringsfriheten i Norge 2013–2017
+
+Status for ytringsfriheten i Norge er et forskningsprosjekt om ytringsfrihetens vilkår, ledet av Institutt for samfunnsforskning på oppdrag fra stiftelsen Fritt Ord. Prosjektet har i perioden 2013–2017 kartlagt befolkningens og enkeltgruppers erfaringer med og holdninger til ytringsfrihet, og hvor grensene går for hva som kan ytres i norsk offentlighet.[^207]
+
+Hovedfunnene fra første runde av prosjektet er presentert i *Status for ytringsfriheten i Norge. Hovedrapport fra prosjektet*.[^208] Rapporten tar utgangspunkt i tre endringstendenser: verdimangfoldet i Norge, medieutviklingen og internasjonale liberalistiske tendenser.[^209]
+
+Fra rapportens konklusjoner gjengis følgende:
+
+*Det ufrie arbeidslivet*
+
+Digitalisering og mediatisering har også konsekvenser for utøvelsen av ytringsfriheten på arbeidsplassen og i arbeidslivet. På tross av at ytringsfriheten på arbeidsplassen er beskyttet av grunnloven og arbeidsmiljøloven, bidrar flere forhold til å begrense arbeidstakernes egentlige muligheter for ytring. Med økt mediefokus rettet mot dem, har private bedrifter og offentlige etater blitt mer opptatt av omdømmebygging og bruker dermed formelle og uformelle virkemidler for å hindre ansattes kritiske offentlige uttalelser som kan undergrave organisasjonens omdømme. En samfunnskontekst kjennetegnet av mindre sikre ansettelsesforhold, hvor jobber i økende grad er utsatt for konkurranse og karriereutviklingsmuligheter ofte er knyttet til arbeidstakerens lojalitet til arbeidsgiveren, innebærer mer føyelighet og større grad av selvbegrensning fra arbeidstakernes side. Digitalisering setter ytringsfriheten på arbeidsplassen under press på to måter. For det første øker risikoen for at kritisk informasjon om interne forhold i en privat eller offentlig organisasjon kommer ut i mediene med lett tilgang til offentligheten gjennom sosiale medier. For det andre kan bedriftenes og offentlige etatenes forsøk på å kontrollere omdømmet sitt forsterkes av den økte risikoen.
+
+I vår analyse av arbeidslivet har vi pekt på at norske ansattes muligheter til å uttale seg offentlig om arbeidsplassen sin ser ut til å være begrenset, både formelt og uformelt. Vi har spesielt pekt på utviklingen i offentlig sektor, som kan sies å ha beveget den politiske organisasjon i retning av selskapet som idealtype, der forming av omdømme er blitt viktig. Vi har pekt på at det generelt er en ganske stor aksept i befolkningen for at arbeidsgivere, av hensyn til virksomhetens økonomi og omdømme, begrenser arbeidstakernes mulighet som privatperson til å kritisere arbeidsplassen på sosiale medier. Det finnes også en viss aksept for at arbeidsgiver begrenser ansattes offentlige omtale av alvorlige kritikkverdige forhold på arbeidsplassen av hensyn til omdømmet.
+
+*Frihet og sivil dannelse*
+
+Den digitale demokratiseringen av offentligheten som vi er vitne til vil kunne ha uheldige og paradoksale effekter på offentligheten og ytringsfrihetskulturen hvis den ikke balanseres av en felles etisk referanseramme. Digitaliseringen av offentligheten utvider den enkeltes frihetsrom ved å gi hver enkelt mulighet til å ytre sine meninger i det offentlige rommet. Men hvis denne økte friheten benyttes individuelt, uten noen former for etisk selvregulering, resulterer den kollektivt sett i en tilstand hvor friheten blir redusert for alle. \[…\]
+
+Paradoksalt nok er ytringsfriheten i Norge i dag under press fordi ytringsmulighetene aldri har vært større. I et nettverks- og kunnskapssamfunn er informasjon og kommunikasjon blitt en sentral strategisk og kritisk ressurs for både private og offentlige aktører, individer og organisasjoner. Samtidig er tilgangen til ulike former for medier allmenngjort – alle har muligheten til å bidra til meningsdannelsen, til konkurransen om å definere virkeligheten. I en slik kontekst blir ytringskultur og ytringsetikk avgjørende for ytringsfriheten. Lovgivningen som garanterer ytringsfrihet og begrenser mulige eksesser er nødvendig, men ikke tilstrekkelig. Uten felles normer for utøvelse av ytringsfrihet – uten *sivil dannelse* – tømmes den formelle friheten for innhold, og ytringsrommet risikerer å bli mindre. Mye tyder på at den norske debatten om ytringsfrihet i hovedsak er juridisk innrettet. Våre undersøkelser peker på at debatten må favne bredere. Til slutt må det påpekes at selv om mange av de forholdene som potensielt begrenser ytringsfriheten er knyttet til de normer som utvikles, vil strukturelle, økonomiske og juridiske forhold kunne ha stor betydning for ytringsfriheten, enten direkte eller indirekte. Den juridiske utredningen som er presentert i denne rapporten peker på et tydelig spenningsforhold mellom utviklingen i to rettslige områder som er sentrale når vi ser på ytringsfriheten i Norge i de siste 15 årene. Mens den publisistiske friheten er blitt styrket, og nå i liten grad utgjør noen skranke for ytringsfriheten, er informasjonsfriheten blitt sterkt svekket gjennom endringer i retten til overvåkning av norske borgeres kommunikasjon. En mulig konsekvens av denne utviklingen er at pressens adgang til ulike former for informasjon svekkes, siden kilder vil vegre seg for å uttale seg, og at individer blir mer forsiktige med å ytre seg gjennom sosiale medier og i andre fora som registreres digitalt – en såkalt nedkjølingseffekt. Denne utviklingen gir oss en sterk påminnelse om at jussen i stor grad kan påvirke normer og adferd i bred forstand. Utviklingen minner oss også om en annen type spenning mellom frihet og regulering som ligger i digitaliseringen enn den vi for øvrig har diskutert i denne rapporten. På den ene siden gir digitaliseringen økt mulighet og frihet til ytring for individene. På den andre siden øker mulighetene for kontroll og overvåkning, både fra statlige og private aktører.[^210]
+
+Hovedfunnene fra andre runde av prosjektet Status for ytringsfriheten i Norge er presentert i boken *Boundary Struggles: Contestations of Free Speech in the Norwegian Public Sphere.*[^211] Funn og konklusjoner er publisert på norsk i rapporten *Offentlighetens grenser. Sosiale normer og politisk toleranse*.[^212] Et av hovedfunnene fra prosjektet er klare tendenser til selvsensur:

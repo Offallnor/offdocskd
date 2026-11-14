@@ -1,1744 +1,352 @@
-# NOU 2017: 3, del 10 av 12 (side 127–141)
+# NOU 2017: 3, del 10 av 11
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/0b38fa64-nou-2017-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-3/id2537191/
 - Original-PDF: https://www.regjeringen.no/contentassets/d0171db48e3c4ce4a2a6ae39d7242b90/no/pdfs/nou201720170003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 12 tabeller, 88 figurer, 847 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 127]
+I september 2016 var det i alt om lag 318 000 mottakere av uføretrygd. På samme tidspunkt var det 6 446 mottakere av uføretrygd som hadde gjenlevendetillegg. Av disse hadde 5 853 en konvertert ytelse, mens 593 var nye uføre som mottok gjenlevendetillegg etter folketrygdloven § 12-18. Av de uføre med gjenlevendetillegg er andelen kvinner på tilnærmet 95 prosent. I september 2016 var gjennomsnittlig alder 61 år for konverterte og 59 år for nye uføre med gjenlevendetillegg. Blant uføre med gjenlevendetillegg i september 2016 varierte årlig gjenlevendetillegg fra under 50 kroner til om lag 275 000 kroner. Det er gjenlevende uføre med kort botid som vil kunne få svært høye tillegg. Gjennomsnittlig årlig gjenlevendetillegg var på om lag 51 000 kroner. For nye uføre utgjør gjenlevendetillegget i gjennomsnitt om lag 10 000 kroner mindre enn hva som er tilfelle for de konverterte. Gjenlevendetillegget utgjør 18 prosent av samlet uføretrygd for alle med gjenlevendetillegg sett under ett. Noe over 6 prosent av de uføre med gjenlevendetillegg hadde redusert trygdetid. I mange tilfeller hvor gjenlevende har lav egen trygdetid vil avdødes trygdetid benyttes i beregningen av gjenlevendetillegget, og for mange med redusert trygdetid vil gjenlevendetillegget utgjøre en vesentlig andel av samlet uføretrygd. Dette gjelder både for nye uføre og for personer med konvertert ytelse.
 
-125
+1.  **Utvalgets vurdering**
 
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
+Utvalget forutsetter at det ikke innvilges nye gjenlevendetillegg til uføretrygd etter bestemmelsen i folketrygdloven § 12-18 fra det tidspunkt nye regler trer i kraft.
 
-Kapittel 8
+Utvalget har vurdert om det skal gjelde like utfasingsregler for personer med konvertert uførepensjon og nye uføre med tillegg etter folketrygdloven § 12-18. I Prop. 130 L (2010–2011) ble det klart sagt at «etterlattefordeler» til uføre som har fått uføreytelsen konvertert skal vurderes i det videre arbeidet med etterlattepensjonen. Tillegg som er konvertert fra gammelt regelverk er likevel ikke tidsavgrenset slik tilfellet er for gjenlevendetillegg etter folketrygdloven § 12–18. I Prop. 66 L (2013–2014) er det lagt vekt på at en tidsbegrensning av tillegget ville hindre at tillegget ble oppfattet som varig, noe som kunne skape behov for overgangsordninger som løper over lang tid.
 
-7
+Det at tillegget for uføre med konvertert ytelse ikke er tidsbegrenset, taler derfor for at det er grunner til å behandle konverterte uføre og nye uføre ulikt. Et argument for å la uføre med konvertert ytelse få beholde gjenlevendetillegg kan være at de fleste som har uføretrygd med gjenlevendetillegg er i relativt høy alder, og vil gå over på regelverket for alderspensjon når de blir 67 år. Ved en slik løsning unngår en å måtte utarbeide særskilte overgangsregler for deler av denne gruppen. Hvilke rettigheter vedkommende da eventuelt vil få som gjenlevende alderspensjonist, vil avhenge av hvilket årskull den gjenlevende tilhører, på samme måte som for gjenlevende som ikke er uføre.
 
-7
+Den gruppen som mottar gjenlevendetillegg etter folketrygdloven § 12-18 er i gjennomsnitt litt yngre enn de som mottar konverterte tillegg. Det gjennomsnittlige nivået på tillegget er også lavere. På kort sikt er det likevel store likhetstrekk mellom gruppene. Det kan derfor virke urimelig dersom alle konverterte uføre får beholde gjenlevendetillegget urørt, mens alle nye uføretrygdede mister gjenlevendetillegget etter fem år. For å fordele effekten av reformen på tvers av generasjoner vil utvalget foreslå at verdien av gjenlevenderettigheter i alderspensjon holdes nominelt uendret for personer som er født i 1944 og senere. Utvalget mener derfor at en tilsvarende løsning kan være naturlig også for gjenlevenderettigheter i uføretrygd. Det er enkelt å identifisere verdien av gjenlevenderettighetene både for konverterte og nye tilfeller ettersom gjenlevenderettigheter for begge grupper nå framkommer som et eget tillegg til uføretrygden. Med en slik løsning vil man få like utfasingsregler for personer med konverterte gjenlevendetillegg og nye uføre med gjenlevendetillegg etter folketrygdloven § 12-18, og reglene for uføre vil tilsvare utfasingsreglene for alderspensjonister.
 
-6
+Det følger direkte av loven at gjenlevendetillegg etter folketrygdloven § 12-18 skal gis for et tidsrom på fem år. Utvalget legger til grunn at personer som har fått dette tillegget, ikke kan sies å ha en berettiget forventning om at tillegget skal beholdes ut over dette tidsrommet. Det vil således være en fordel for disse når utvalget likevel foreslår at tilleggene skal videreføres nominelt.
 
-6
+I punkt 6.6 peker utvalget på hensyn som er relevante i vurderingen for hvilke grupper av gjenlevende som bør ha rett til den nye etterlatteytelsen. Utvalget viser til at en utvidelse av personkretsen sammenliknet med etter dagens regler også bør føre til at ny etterlatteytelse skal falle bort dersom gjenlevende gifter seg på nytt eller blir samboer, og ikke som i dag bare ved inngåelse av ekteskap eller dersom gjenlevende får barn med en ny samboer. Utvalget mener at det er rimelig at dette også gjøres gjeldende for personer som allerede har gjenlevendetillegg etter folketrygdloven § 12-18.
 
-5
+1.  **Oppsummering**
 
-5
+Etter utvalgets oppfatning bør vurderingen av om det skal være særlige rettigheter for gjenlevende uføre, baseres på de samme prinsipper som det er lagt vekt på for andre grupper av gjenlevende. Personer med uføretrygd har allerede en løpende ytelse til livsopphold. En person som er 100 prosent ufør, vil med minstesatsen for uføretrygd ha en høyere ytelse enn utvalgets forslag til ny etterlatteytelse på 2,25 ganger grunnbeløpet. Mange uføre har også en høyere uføretrygd enn minstesatsen.
 
-4
+Det er videre vanskelig å se gode grunner for å opprettholde regler som gir særlige rettigheter til gjenlevende uføre når særregler for beregning av alderspensjon til gjenlevende foreslås avviklet. Utvalget mener at regler som gir gjenlevende uføre høyere ytelse enn andre uføre på grunn av sivilstand, ikke bør videreføres.
 
-4
+Utvalget vil samtidig presisere at personer med gradert uføretrygd forutsettes å ha en restarbeidsevne som kan utnyttes i inntektsgivende arbeid. Det må da være mulig å få en ordinær etterlatteytelse, men denne må samordnes med uføretrygden. Det forutsettes at ny etterlatteytelse skal avkortes krone for krone mot andre ytelser med samme formål i samsvar med generelle prinsipper i folketrygden.
 
-3
+Utvalget foreslår at gjenlevendetillegg i uføretrygd som er innvilget før nytt regelverk trer i kraft, videreføres nominelt. Dette foreslås å gjelde både for konverterte ytelser og for tillegg som er innvilget etter folketrygdloven § 12-18. På denne måten vil reglene for utføretrygdede tilsvare utfasingsreglene for alderspensjonister.
 
-3
+1.  **Tilleggsmandat – folketrygdlovens bestemmelser om etterlatte med flyktningstatus**
 
-2
+    1.  **Innledning**
 
-2
+Regjeringen varslet i Prop. 1 S Tillegg 1 (2015–2016) en gjennomgang av folketrygdens særskilte bestemmelser for personer med flyktningstatus. Arbeids- og sosialdepartementet sendte 4. juli 2016 på høring forslag til endringer i folketrygdloven, med tilhørende forskrifter, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg.
 
-1
+I høringsnotatet heter det:
 
-1
+«Det er flere formål med de tiltakene som foreslås i dette høringsnotatet. Norge skal ha tilstrekkelige og forsvarlige ordninger for dem som får oppholdstillatelse. Samtidig er det viktig at norske velferdsordninger ikke er slik innrettet at de fører til vridninger i migrasjonsstrømmene, ved at de i seg selv gir asylsøkere insentiver til å velge Norge som destinasjonsland. Ordningene må oppleves som, og reelt være, rettferdige, bærekraftige og hensiktsmessige. Ordningene må også i størst mulig grad likebehandle flyktninger og norske statsborgere med hensyn til trygderettigheter. Ordningene må ikke undergrave arbeidsinsentivene til dem som får opphold i Norge.»
 
-0
+For ytelser til gjenlevende ektefelle og barnepensjon, foreslås det i høringsnotatet at særordningene foreløpig videreføres, blant annet for å kunne få utvalgets tilråding før det tas endelig stilling til hvorvidt særfordelene for etterlatte flyktninger skal videreføres. Utvalget fikk i brev datert 6. juli 2016 i tilleggsmandat å foreta en slik vurdering, og legge fram tilrådinger om hvordan slike bestemmelser i så fall skal utformes. Dersom utvalget tilråder endringer i gjeldende bestemmelser, skal behovet for overgangsordninger vurderes.
 
-0
-1967
+1.  **Definisjoner**
 
-1977
+Begrepene «asylsøker», «flyktning» og «botid» er definert i høringsnotatet av 4. juli 2016.
 
-1987
+Begrepet «asylsøker» brukes om personer som kommer til Norge og søker asyl i perioden fra asylsøknaden er framsatt og fram til det foreligger et endelig vedtak i saken. Dersom asylsøkere får opphold i Norge, vil oppholdsgrunnlaget være avgjørende for hvilke trygderettigheter den enkelte deretter vil få.
 
-1997
+Begrepet «flyktning» er i folketrygdloven definert som en person som er innvilget opphold i Norge etter § 28 i utlendingsloven. Denne bestemmelsen omfatter både personer som er å anse som flyktninger i FNs flyktningkonvensjon og personer som gis opphold på grunn av den generelle sikkerhetssituasjonen i hjemlandet. Personer som får opphold i Norge på grunnlag av sterke menneskelige hensyn, omfattes ikke av folketrygdens særskilte bestemmelser for flyktninger.
 
-2007
+Folketrygdloven § 3-5 definerer begrepene botid og trygdetid. Det er trygdetid som legges til grunn ved beregning av folketrygdytelsen. Botid benyttes i forbindelse med eksport av ytelser til andre land og koordinering av ytelser hvis mottakeren har delrettigheter i flere land. I høringsnotatet benyttes «botid» som en generell henvisning til en viss opptjeningsperiode som brukes i vurderingen av retten til eller størrelsen på enkelte norske trygdeytelser. I dette kapitlet er folketrygdlovens begrepsbruk lagt til grunn.
 
-2017
+1.  **Bakgrunn**
 
-2027
+Arbeiderpartiet, Høyre, Fremskrittspartiet, Kristelig Folkeparti, Senterpartiet og Venstre inngikk 19. november 2015 en avtale om tiltak for å møte flyktningkrisen. I avtalen er det listet opp 18 punkter, hvorav punktene 6, 16 og 17 har betydning for vurdering av det tilleggsmandatet utvalget har fått.
 
-2037
+Punkt 6 i avtalen lyder:
 
-2047
-
-2057
+«Sørge for at nivået på ytelsene til asylsøkere skal være av en slik art at Norge ikke fremstår som økonomisk attraktivt i forhold til sammenlignbare europeiske land. \[…\]»
 
-2067
-
-Figur 8.5 Utgifter til gjenlevenderettigheter i videreføringsalternativet. Mrd. 2015-kroner
-Kilde: Statistisk sentralbyrå
+Punkt 16 i avtalen lyder:
 
-Etter 2030 vil effekten av de nye opptjeningsreglene i kapittel 20 gradvis få større betydning ved
-beregning av alderspensjon til gjenlevende i videreføringsalternativet, ettersom det etter hvert blir
-flere etterlatte født i 1954 og senere. Kvinner fra
-disse årskullene vil ha høyere pensjonsopptjening
-enn tidligere årskull, men mange vil ha opptjening
-som gir et nivå på pensjonen som ligger innenfor
-det lange avtrappingsintervallet for garantipensjonen. Mange gjenlevende alderspensjonister vil derfor få store deler av en økning i inntektspensjonen
-motvirket av en reduksjon av garantipensjonen med
-80 prosent. Et forventet fall i antall etterlatte alderspensjonister, jf. figur 8.2 bidrar også til reduserte
-utgifter til gjenlevenderettigheter i alderspensjon.
-Utgiftene til gjenlevenderettigheter i alderspensjon for menn vil øke gjennom hele framskrivningsperioden. Fra 2020 til 2070 forventes verdien
-av gjenlevenderettighetene til menn å fordobles.
-Likevel vil verdien av gjenlevenderettighetene
-fortsatt utgjøre en liten andel av samlet alderspensjon for etterlatte menn.
-De samlede utgiftene vil avta noe allerede før
-antall etterlatte alderspensjonister begynner å gå
-ned. Dette skyldes at gjenlevende som har fått sin
-alderspensjon beregnet etter særreglene i det
-gamle systemet, etter hvert vil erstattes av yngre
-årskull av gjenlevende som vil få alderspensjon
-beregnet etter videreføringsalternativet, noe som i
-gjennomsnitt vil gi noe lavere ytelser.
-
-8.6.4
-
-Utvalgets vurdering av videreføringsalternativet
-
-Selv om modellen er en tilpasset videreføring av
-dagens særregler, viser drøftingen ovenfor at
-den ikke uten videre vil gi samme ytelser på individnivå. Dette skyldes først og fremst at opptjenings- og beregningsprinsippene i den nye
-alderspensjonen avviker vesentlig fra det tidligere systemet. De beregningene som er presentert foran, illustrerer dette. Likevel vil denne
-modellen videreføre mange av hovedtrekkene
-ved særreglene for beregningen av alderspensjon til gjenlevende i folketrygdloven kapittel 19.
-Alternativet er imidlertid i liten grad tilpasset
-de behovene for reform som er oppsummert tidligere i utredningen. Kvinners økte yrkesdeltaking, samt innføring og senere forbedring av ordningen med pensjonsopptjening som følge av
-ubetalte omsorgsoppgaver, innebærer at yngre
-årskull av kvinner har vesentlig høyere egenopptjent pensjon enn tidligere. Inntektssikringen for
-pensjonister uten eller med lav egen opptjening
-er dessuten styrket gjennom betydelig forbedring av minstenivået i folketrygdens alderspensjon.
-En videreføring av særregler der gjenlevendes
-alderspensjon fortsatt kan beregnes delvis med
-avdødes rettigheter gjennom tilpasning til den nye
-alderspensjonen, vil heller ikke gjøre noe med de
-
-[Side 128]
-
-126
-
-Kapittel 8
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-lite målrettede fordelingseffektene av reglene.
-Typetilfellene illustrerer noen hovedtrekk:
-– Reglene er i hovedsak til fordel for gjenlevende
-når avdøde har hatt en del høyere pensjonsopptjening enn gjenlevende.
-– Sammenlignet med dagens system, vil gjenlevende med egen opptjening som gir pensjon
-akkurat over avtrappingsintervallet hvor det
-utbetales garantipensjonen, og hvor avdøde
-har lang opptjeningstid nær taket på 7,1 ganger
-grunnbeløpet, komme særlig godt ut.
-– Økning i inntektspensjonen som følge av gjenlevenderettighetene gir en reduksjon i garantipensjonen.
-Kombinasjonen av gifte kvinners økte yrkesdeltaking, mindre stabile samliv og flere énpersonhusholdninger forsterker også fordelingsvirkninger
-som kan oppfattes å mangle en god begrunnelse.
-To personer med lik egen pensjonsopptjening kan
-i mange tilfeller få ulik alderspensjon. Dette gjelder både dersom man sammenlikner gjenlevende
-med enslige som får sin alderspensjon beregnet
-etter alminnelige regler, og sammenlikning innad
-i gruppen av gjenlevende. For mange gjenlevende
-gir egen pensjonsopptjening en høyere alderspensjon enn en pensjon beregnet delvis med avdødes
-opptjening. Verdien av gjenlevenderettigheter
-varier mye, og bestemmes av forholdet mellom
-avdødes og gjenlevendes inntekt.
-Utvalget observerer at det å innføre særskilte
-beregningsregler for gjenlevende i det nye alderspensjonssystemet kan motvirke fordelings- og
-insentiveffekter som har vært viktige premisser i
-pensjonsreformen. Rettigheter avledet av ektefellens inntekt og pensjonsopptjening reduserer
-insentivene til arbeid og egen pensjonsopptjening.
-Dette har betydning for bærekraften i pensjonssystemet. Effekten på inntektsfordelingen er ikke
-entydig. Et hovedtrekk ved særreglene er at de er
-til fordel for gjenlevende som har hatt lav inntekt
-sammenlignet med den avdøde. Slike forskjeller
-mellom ektefellenes pensjon sier imidlertid ikke
-noe om selve nivået. Selv par der begge har høy
-pensjonsopptjening vil kunne få en økning i
-alderspensjon etter dagens særregler. Det er et
-paradoks at disse reglene ofte vil gi et ekstra tillegg til pensjonen for personer som selv har tjent
-opp gode pensjoner. En videreføring av særlige
-beregningsregler vil være kostbar, og ut fra utvalgets vurdering er dette ikke noen hensiktsmessig
-prioritering av offentlige midler. Både lavere utbetalinger av gjenlevenderettigheter i alderspensjon
-og økte skatteinntekter av arbeidsinntekter vil
-styrke bærekraften i systemet. Innføring av sær-
-
-skilte regler for beregning av gjenlevendes alderspensjon i folketrygdloven kapittel 20, vil også videreføre et komplekst regelverk. Ut fra en samlet
-vurdering vil utvalget anbefale at det ikke innføres
-særregler for beregning av alderspensjon til gjenlevende i det nye alderspensjonssystemet.
-
-8.7
-
-Reformalternativ: Avvikling og
-overgangsordninger
-
-8.7.1
-
-Innledning
-
-For mange gjenlevende alderspensjonister vil
-dagens særregler bare gi liten eller ingen økning
-i alderspensjonen. For disse vil valg av avviklingsprofil ha mindre betydning for deres økonomiske
-situasjon. For andre kan imidlertid verdien av
-gjenlevenderettighetene utgjøre en betydelig del
-av den totale alderspensjonen, og hvordan avviklingen skjer vil kunne være viktig for dem. Utvalget har derfor lagt til grunn at det vil være uheldig med en brå avvikling av særreglene. Mange
-som allerede i dag er alderspensjonister vil først
-bli gjenlevende mange år fram i tid, men har ikke
-mulighet til å omgjøre de valgene de gjorde som
-yngre med hensyn til yrkesdeltakelse. Dette vil
-også gjelde en del personer som nærmer seg pensjonsalderen. Riktignok kan det være vanskelig
-for den enkelte å få oversikt over hvor mye høyere alderspensjonen eventuelt vil bli hvis en ektefelle eller samboer dør, men en bør unngå å innføre nye regler som kan sies å sette disse gruppene i en urimelig vanskelig økonomisk situasjon. Veldig rask utfasing kan også virke urimelig
-for nære årskull hvis én person får en stor økning
-i alderspensjonen, mens en annen med helt tilsvarende bakgrunn som er litt yngre får lite eller
-ingen økning.
-Det at endring av reglene for etterlatteytelsene
-skal være en del av pensjonsreformen, kan på den
-annen side være et argument for en rask utfasing
-av særreglene for beregning av alderspensjon til
-gjenlevende:
-– Hovedprinsippene i pensjonsreformen vil
-kunne rendyrkes på et tidligst mulig tidspunkt.
-– Det vil raskere kunne oppnås budsjettinnsparinger som vil bidra til å styrke folketrygdens
-finansielle bærekraft.
-Utvalget har lagt vekt på å finne en rimelig
-balanse mellom behov for forutsigbarhet for de
-som allerede har nådd en relativt høy alder, og
-pensjonsreformens mål om trygging av folketrygdens framtid gjennom gode arbeidsinsentiver og
-styrking av den finansielle bærekraften.
-
-[Side 129]
-
-127
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-Utvalget foreslår at utfasingen av de særlige
-beregningsreglene knyttes til utfasing av opptjeningsreglene i kapittel 19. Det vil si at gjenlevende
-i årskullene fra 1954 til 1962 får beregnet alderspensjon med eventuelle gjenlevenderettigheter
-knyttet til den andelen av alderspensjonen som er
-opptjent etter reglene i kapittel 19. Dette omfatter
-også tillegg etter folketrygdloven § 20-19 a.
-Reglene vil da være fullt ut avviklet fra og med
-1963-kullet. 1962-kullet, med 1/10 av alderspensjonen beregnet etter kapittel 19, vil være det siste
-årskullet som vil kunne få gjenlevenderettigheter i
-alderspensjonen.
-Utvalget har vurdert flere alternative måter å
-gjennomføre denne utfasingen på, og disse belyses nærmere i de kommende punktene. Effekter
-av alternativene er belyst blant annet ved bruk av
-typetilfeller. Felles forutsetninger for disse typetilfellene er:
-–
-–
-–
-–
-–
-–
-–
-
-Gjenlevende tok ut alderspensjon ved 67 år, og
-ble etterlatt ved 75 års alder
-Begge hadde 40 års trygdetid
-Årlig inntekt for gjenlevende (i G): 5
-Antall opptjeningsår for gjenlevende: 30
-Årlig inntekt for avdøde (i G): 6
-Antall opptjeningsår for avdøde: 40
-G = 92 576 kroner
-
-8.7.2
-
-Utfasing fra og med 1954-kullet
-
-Hovedtrekk ved alternativet
-Hovedtrekkene ved alternativet kan oppsummeres ved:
-
-–
-
-–
-
-–
-–
-
-Kapittel 8
-
-Særregler for alderspensjon til gjenlevende
-gjelder kun for opptjening etter kapittel 19. Det
-innføres ikke særlige beregningsregler for
-alderspensjon til gjenlevende i den delen av
-pensjonen som er opptjent etter nye regler i
-kapittel 20.
-Verdien av gjenlevenderettigheter beregnet på
-grunnlag av opptjening etter kapittel 19 beholdes livsvarig, og reguleres på ordinær måte
-sammen med resten av pensjonen.
-Det innvilges ikke nye gjenlevendetillegg etter
-§ 20-19 a etter utgangen av 2019.
-Personer fra årskullene 1954–1957 som har fått
-innvilget gjenlevendetillegg etter § 20-19 a i
-løpet av perioden 2016–2019, får beholde tillegget livet ut, men det videreføres nominelt fra og
-med 2020.
-
-Noen typetilfeller
-For å belyse viktige sider ved dette alternativet
-er det lagt vekt på hvordan den valgte utfasingen
-vil slå ut på pensjonen og på verdien av
-gjenlevenderettighetene. For å rendyrke denne
-effekten er andre forhold av betydning for pensjonsopptjeningen, som inntekt og opptjeningsår,
-holdt konstant. I typetilfellene varierer gjenlevendes fødselsår fra 1953 til 1963. Beregningen er
-for øvrig basert på de forutsetningene som er
-omtalt i punkt 8.7.1.
-Figur 8.6 viser hvordan verdien av gjenlevenderettighetene beregnet på grunnlag av opptjening etter kapittel 19 avtar fra årskull til årskull
-gjennom utfasingsperioden. Mens verdien av
-
-Egenopptjent alderspensjon
-
-Verdi av gjenlevenderettigheter
-
-250 000
-
-250 000
-
-200 000
-
-200 000
-
-150 000
-
-150 000
-
-100 000
-
-100 000
-
-50 000
-
-50 000
-
-0
-
-0
-1953
-
-1954
-
-1955
-
-1956
-
-1957
-
-1958
-
-1959
-
-1960
-
-1961
-
-1962
-
-1963
-
-Figur 8.6 Alderspensjon for typetilfeller etter årskull i kroner. G=92 576 kroner (1. mai 2016)
-Kilde: Arbeids- og velferdsdirektoratet
-
-[Side 130]
-
-128
-
-NOU 2017: 3
-
-Kapittel 8
-
-Folketrygdens ytelser til etterlatte
-
-–
-
-gjenlevenderettighetene i dette eksemplet er om
-lag 50 000 kroner for en som er født i 1953, gis det
-ikke gjenlevenderettigheter til personer som er
-født i 1963 og senere. Verdien av rettighetene
-avtar med om lag 5 000 kroner fra ett årskull til
-det neste. Denne sammenligningen omfatter
-personer som blir gjenlevende etter at nytt regelverk trer i kraft. Forskjellene vil være større hvis
-en sammenligner personer som kommer inn
-under det nye regelverket med personer som har
-gjenlevendetillegg etter § 20-19 a.
-Det er i dette alternativet lagt til grunn at personer som har fått innvilget gjenlevendetillegg
-etter § 20-19 a innen utgangen av 2019, får videreført den nominelle verdien av tillegget. Dette vil
-kunne føre til forskjeller i samlet pensjon for to
-personer som med hensyn til pensjonsberegningen kun adskiller seg ved at den ene ble gjenlevende før 2020 og den andre etter.
-Dette kan illustreres ved typetilfelle 1 der personen er født i 1957, blir gjenlevende i 2019 og tar
-ut alderpensjon samme år:
-– Det beregnes alderspensjon for opptjening
-etter kapittel 20 som for 1957-kullet utgjør 4/
-10.
-– Det beregnes alderspensjon med gjenlevenderettigheter for opptjening etter kapittel 19 som
-for 1957-kullet utgjør 6/10. Verdien av gjenlevenderettighetene utgjør 11 600 kroner.
+«Stortinget ber regjeringen i løpet av våren 2016 igangsette et arbeid med sikte på innføring av botidskrav for mottak av kontantstøtte og ytelser som ikke støtter opp om arbeid og aktivitet.»
 
-Egenopptjent alderspensjon
+Punkt 17 i avtalen lyder:
 
-–
+«Stortinget ber regjeringen gjennomgå særordninger for flyktninger og asylsøkere i folketrygden og sørge for at det stilles aktivitets- og opptjeningskrav til disse der det er naturlig, med sikte på at dette fremmes for Stortinget så raskt som mulig.»
 
-Det beregnes også et gjenlevendetillegg etter
-§ 20-19 a. Gjenlevendetillegget etter § 20-19 a
-utgjør i dette tilfellet 7 700 kroner ved uttak. I
-dette alternativet videreføres tillegget nominelt
-og faller i reell verdi over tid.
-Egen alderspensjon, og verdi av gjenlevenderettigheter etter kapittel 19, reguleres på ordinær måte.
+I høringsnotatet opplyses det at etter det Arbeids- og sosialdepartementet har kunnet bringe på det rene, har Sverige ingen særregler for eldre flyktninger. Flyktninger kan, som andre eldre med utilstrekkelig egen opptjening, motta «äldreförsörjningsstöd», som er en ytelse som tilsvarer den norske ordningen med supplerende stønad. Uføre flyktninger kan under visse betingelser få medregnet tid i opprinnelseslandet ved beregningen av minsteytelsen, slik at de i praksis kan få full minsteytelse. I Danmark ble særreglene for alderspensjon avviklet i september 2015. Danmark har nå kun særregler for uføre, ved at flyktninger får medregnet tiden i opprinnelseslandet ved vurdering av retten til og beregningen av minsteytelsen. Utvalget har ikke gjort egne undersøkelser av eksistensen av og innholdet i slike bestemmelser i andre land.
 
-I tillegg er det sett på et typetilfelle 2 hvor personen også er født i 1957 og tar ut alderspensjon ved
-62 år i 2019. Det forutsettes at vedkommende:
-– Blir gjenlevende i 2020.
-– Får beregnet alderspensjon for opptjening
-etter kapittel 20 med 4/10.
-– Får beregnet alderspensjon med gjenlevenderettigheter for opptjening etter kapittel 19 med
-6/10. Verdien av gjenlevenderettighetene
-utgjør 11 500 kroner.
-– Får ikke gjenlevendetillegg etter § 20-19 a
-ettersom det forutsettes at disse reglene ble
-avviklet ved utgangen av 2019.
-– Egen alderspensjon, og verdien av gjenlevenderettigheter etter kapittel 19, reguleres på
-ordinær måte.
-I figur 8.7 er utviklingen i samlet pensjon for
-de to personene sammenlignet over tid. Personen
-som blir gjenlevende i 2019 og personen som blir
-gjenlevende i 2020, vil ha samme nivå på egen-
+1.  **Om forslagene i departementets høringsnotat**
 
-Verdi av gjenlevenderettigheter, kap. 19
+I departementets høringsnotat av 4. juli 2016 foreslås det endringer i en rekke særbestemmelser om flyktninger og asylsøkere. Som nevnt foran, fikk utvalget 6. juli 2016 i tilleggsmandat å vurdere folketrygdens særregler for etterlatte flyktninger. I påvente av utvalgets utredning er derfor særreglene for ytelser til etterlatte flyktninger og for barnepensjon til barn med flyktningebakgrunn ikke omfattet av forslagene i høringsnotatet.
 
-Verdi av gjenlevenderettigheter, § 20-19 a
+For rett til en rekke av folketrygdens ytelser stilles det i dag som hovedregel krav om en viss forutgående botid. I høringsnotatet foreslås det å heve inngangsvilkåret for rett til pensjoner, uføretrygd, arbeidsavklaringspenger og stønad til enslig mor eller far, fra tre til fem år. Forslaget omfatter samtlige pensjonsytelser, også etterlatteytelsene. I dag gjøres det unntak fra botidskravene for flyktninger, men disse unntakene foreslås opphevet, slik at de samme kravene skal gjelde for alle medlemmer i folketrygden. Som nevnt er likevel de særlige bestemmelsene om etterlatteytelser til flyktninger, ikke omfattet av det utsendte forslaget.
 
-220 000
+Videre gjelder det et alminnelig vilkår for uføretrygd, alderspensjon og etterlatteytelser om minst 40 års trygdetid for rett til fulle ytelser. Ved kortere trygdetid reduseres ytelsen forholdsmessig. For flyktninger gjøres det i dag unntak også fra dette kravet. Dette innebærer at flyktninger som ellers oppfyller vilkårene, er garantert ytelser på minstenivået uavhengig av faktisk trygdetid. I høringsnotatet foreslås det at disse særreglene, som automatisk gir personer med flyktningstatus fulle minsteytelser i alderspensjon fra folketrygden, erstattes av ordningen med supplerende stønad. Det foreslås også at det innenfor ordningen med supplerende stønad innføres en ny ytelse for uføre flyktninger under 67 år, som erstatning for de særskilte bestemmelsene i dagens regelverk. For etterlatteytelsene er det som nevnt foreløpig ikke foreslått tilsvarende endringer.
 
-220 000
+Det framgår av høringsnotatet at begrunnelsen for å oppheve særordningene for flyktninger, er hensynet til likebehandling med andre grupper, som for eksempel personer som får opphold på humanitært grunnlag og norske statsborgere som kommer tilbake til landet fra lange utenlandsopphold. I begrunnelsen for den generelle økningen i botid for rett til ytelse, fra tre til fem år, er det blant annet lagt vekt på at pensjoner er langtidsytelser, og at det derfor er rimelig at det stilles visse krav til mottakerens tilknytning til Norge. Videre framheves det at det vil kunne virke svært kompliserende, både regelteknisk og datateknisk, dersom det stilles ulike krav til botid for de forskjellige komponentene og ytelsene i folketrygdene.
 
-200 000
+I tillegg til høringsnotatets forslag om at de alminnelige vilkårene om botid skal gjelde for flyktninger, foreslås det opphevelse av en særregel om at tiden som asylsøker skal medregnes ved vurderingen av retten til og beregningen av pensjoner og uføretrygd. På grunn av unntaket for flyktninger fra de alminnelige vilkårene om botid, har likevel denne særregelen i dag mindre betydning. Men hvis alle unntaksreglene for flyktninger oppheves, vil det få betydning at botid/trygdetid først regnes fra det tidspunktet opphold er innvilget, og ikke fra det tidspunktet vedkommende faktisk kom til landet.
 
-200 000
+1.  **Om tilleggsmandatet**
 
-180 000
+I tilleggsmandatet heter det:
 
-180 000
+«Utvalget bes foreta en vurdering av om ordningen med særskilte bestemmelser for flyktninger med hensyn til folketrygdens etterlatteytelser bør videreføres og legge fram tilrådinger om hvordan slike bestemmelser i så fall skal videreføres.»
 
-160 000
+Tilleggsmandatet til utvalget er altså åpent i sin form. Høringsnotatet gir likevel noen avgrensninger av hva utvalget bes om å vurdere.
 
-160 000
+Som nevnt i punkt 10.4, omfatter forslaget til den generelle økningen i botidskrav også etterlatteytelsene. Utvalget er ikke bedt om å vurdere det generelle forslaget, men kun om å utrede særreglene for rett til etterlatteytelser til flyktninger. Dette omfatter både unntaket fra forutgående botid, enten kravet forblir tre år eller økes til fem, og de særlige reglene for beregning av ytelsen. Utvalgets mandat er å vurdere behov for endringer i etterlatteytelsene innenfor lov om folketrygd. Tilleggsmandatet er løst innenfor rammen av utvalgets opprinnelige mandat. Dette betyr at utvalget ikke har sett det som sitt mandat å gå inn på en diskusjon av alternative inntektssikringsordninger for denne gruppen.
 
-140 000
+*Alderspensjon til gjenlevende*
 
-140 000
+I høringsnotatets punkt 5.2, side 43–44, heter det:
 
-120 000
+«Departementet foreslår videre at retten til å få pensjon til gjenlevende ektefelle etter de særskilte bestemmelsene for flyktninger skal opphøre ved overgangen til alderspensjon, og at denne gruppen da får rett til supplerende stønad på lik linje med andre flyktninger som er over 67 år. Departementet foreslår imidlertid at personer som allerede ved lovens ikrafttredelse mottar pensjon til gjenlevende ektefelle etter de særskilte bestemmelsene for flyktninger, ved overgangen til alderspensjon får også denne ytelsen beregnet etter de særskilte bestemmelsene, så fremt de har maksimalt 5 år igjen til pensjonsalderen og har vært medlemmer i folketrygden i minst 20 år etter fylte 16 år.»
 
-120 000
+Forslaget medfører at etterlatte som har pensjon etter særregler for flyktninger, ved overgang til alderspensjon ikke lenger skal ha rett til noen særskilt behandling. Det foreslås overgangsregler. Utvalget legger til grunn at forslaget til overgangsregel omfatter både de som har etterlattepensjon og uføretrygd med gjenlevendetillegg etter særordningen for flyktninger.
 
-100 000
+Reglene for alderspensjon ligger utenfor utvalgets mandat. Forholdet mellom egen alderspensjon og gjenlevenderettigheter er ikke eksplisitt drøftet i høringsnotatet. Hvis særreglene for flyktninger ved beregning av alderspensjon avvikles slik det er foreslått av departementet, er det naturlig å legge til grunn at det heller ikke skal foretas noen særskilt beregning av alderspensjon for gjenlevende. Utvalget foreslår dessuten en gradvis avvikling av de særskilte bestemmelsene for beregning av gjenlevendes alderspensjon. Utvalget har derfor ikke sett noen grunn til å foreta noen nærmere vurdering av dette spørsmålet.
 
-100 000
+*Etterlattepensjon til gjenlevende under 67 år og barnepensjon*
 
-80 000
+Ut fra dette har utvalget avgrenset sin oppgave til å vurdere flyktningefordelene i:
 
-80 000
+- Etterlattepensjon til gjenlevende under 67 år
 
-60 000
+- Barnepensjon
 
-60 000
+Gjennomgangen av gjeldende rett i kapittel 4 viser at de særlige reglene for rett til og beregning av ytelser for flyktninger består av to deler:
 
-40 000
+- Rett til etterlatteytelser uavhengig av om det gjeldende botidskravet er oppfylt (inngangsfordel)
 
-40 000
+- Særskilt beregning – full minsteytelse uavhengig av avdødes opptjening (beregningsfordel)
 
-20 000
+Garantien er subsidiær, og flyktninger som har opptjent egne rettigheter i folketrygden som er minst like gode som garantien, får ikke noe mer enn den egenopptjente pensjonen.
 
-20 000
+For å beholde rett til en ytelse som er gitt eller beregnet etter de særskilte bestemmelsene for flyktninger, er det et absolutt krav at vedkommende fortsatt er medlem i folketrygden. Dersom medlemskapet opphører, for eksempel ved flytting til utlandet, bortfaller retten til pensjon som er gitt eller beregnet etter disse bestemmelsene. Den ytelsen som eventuelt kan tas med til utlandet, vil være begrenset til det flyktningen selv måtte ha opptjent rett til etter de ordinære reglene.
 
-0
+Høringsfristen for de forslagene departementet har sendt på høring, er satt til 1. november 2016. Utvalget har således ikke hatt noe endelig vedtak til nye bestemmelser å forholde seg til i sitt arbeid. Utvalget har derfor brukt høringsnotatets forslag som referanseramme der det har vært naturlig. Hvis det vedtas nye regler som avviker fra de som er sendt på høring, legges det til grunn at departementet tar hensyn til det i den videre oppfølging av utvalgets utredning.
 
-62 år
+1.  **Ytelser til etterlatte under 67 år**
 
-67 år
+    1.  **Utvalgets foreslåtte modell for en ny ytelse**
 
-72 år
+Utvalget har i kapittel 6 foreslått at dagens etterlattepensjon til gjenlevende ektefeller under 67 år erstattes av en tidsbegrenset ytelse. Det foreslås et nivå på 2,25 ganger grunnbeløpet, uavhengig av tidligere inntekt, og som hovedregel med en varighet på inntil tre år. Det foreslås at etterlatte må fylle botidskravet på tre eller fem år for å kunne ha rett til ytelsen, men at det ikke stilles ytterligere krav til trygdetid for å få rett til den fulle ytelsen. Ytelsen skal avkortes mot egen inntekt. En slik ny stønad for etterlatte vil ha mange likhetstrekk med overgangsstønaden for enslige forsørgere. Både prinsipielt og praktisk vil ytelsen endre karakter fra å være en pensjonsytelse til å bli en omstillingsstønad.
 
-77 år
+Utvalget har blant annet lagt vekt på at ytelser til arbeidsføre i yrkesaktiv alder bør innrettes med sikte på at personene skal komme i arbeid eller øke sin arbeidsinnsats for å kunne forsørge seg ved egen inntekt. Forslaget er bygd på et prinsipp om at fokus skal være på etterlattes omstillingsbehov istedenfor på mottak av en ytelse som er avledet av avdødes pensjonsrettigheter.
 
-82 år
+1.  **Om etterlatte med flyktningebakgrunn**
 
-87 år
+I høringsnotatet foreslås botidskravet for etterlatteytelsen generelt å økes fra tre til fem år. Dagens unntak fra botidskravet for flyktninger foreslås foreløpig ikke opphevet da departementet vil avvente utvalgets forslag til framtidig løsning. Som et generelt argument for å oppheve særreglene for flyktninger, legges det blant annet vekt på at det vil gi en likebehandling med norske statsborgere og andre grupper med lovlig opphold i Norge.
 
-Eksempel 2
+Gjennomsnittsalderen blant asylsøkerne er relativt lav. Mange flyktninger kommer dessuten alene, men en del av dem får senere innvilget familiegjenforening eller stifter familie i Norge. Tall fra NAV viser at i perioden juni 2009 til juni 2016 er det innvilget i alt 71 etterlattepensjoner etter særreglene for flyktninger. Det er ikke mulig å se noen klar trend i antall nye tilfeller per år. Det antas på noe usikkert grunnlag at det totale antallet mottakere av etterlattepensjon ligger i intervallet 150–200 personer. I tillegg er det noen få mottakere som ikke selv er flyktning, men hvor den avdøde var flyktning.
 
-Eksempel 1
+Det er vanskelig å se klare argumenter for at ytelser til etterlatte flyktninger skal bygge på andre prinsipper om botid i Norge enn det som gjelder for flyktningers rett til andre ytelser. Dersom forslagene i høringsnotatet blir fulgt opp og fører til at det blir innført samme krav til botid for flyktninger som for andre i relasjon til alle andre ytelser, mener utvalget at det er vanskelig å holde fast ved unntaksregler utelukkende for etterlatte flyktninger. Utvalget vil samtidig understreke at flyktninger som mister sin ektefelle før eller relativt kort tid etter at de har kommet til Norge, ofte vil være i en sårbar fase. De har nylig vært gjennom en fluktsituasjon, og er kanskje fortsatt i en etableringsfase i Norge. Hvis de ennå ikke har klart å etablere seg i arbeidsmarkedet, er det spesielt viktig å forhindre innlåsing på passive trygdeytelser, men å sikre målrettet bistand til integrering og til å komme i arbeid. Samtidig kan et eventuelt bortfall av de særlige rettighetene de har til ytelser fra folketrygden innebære at de er mer utsatt for fattigdom. Det er derfor viktig å finne en balansert kombinasjon av inntektssikring og hjelp til selvforsørgelse. Avveiningen mellom offentlig inntektssikring og forsørgelse gjennom inntektsgivende arbeid som et sentralt prinsipp i folketrygden er drøftet i kapittel 3. Gruppen av flyktninger er svært sammensatt. Det må likevel legges til grunn at barrieren for å komme inn i arbeidsmarkedet er relativt høy for en del av dem. Utvalget vil understreke at etterlatte flyktninger som har behov for hjelp for å etablere seg i arbeidsmarkedet må få tilstrekkelig og hensiktsmessig bistand.
 
-Eksempel 2
+Kommunene har omfattende oppgaver når det gjelder bosetting og integrering av flyktninger. Det er derfor viktig å unngå at eventuelt bortfall av særlige rettigheter for etterlatte flyktninger fører til at det blir vanskeligere å få dem bosatt i kommunene. Det må også sikres at de som trenger det, får tilgang til arbeidsinkluderende tiltak, og at den stønad de mottar i denne perioden er tilstrekkelig til å forhindre fattigdom.
 
-Eksempel 1
+1.  **Ytelser til etterlatte barn**
 
-Eksempel 2
+    1.  **Utvalgets foreslåtte modell for en ny ytelse**
 
-Eksempel 1
+I utvalgets forslag til ny modell for ytelse til etterlatte barn legges det opp til like satser for hvert barn, uavhengig av antall søsken og avdøde forelders inntekt. Det foreslås en høyere sats per barn i de tilfellene begge foreldrene er døde enn hvis barnet har mistet én av foreldrene, se nærmere omtale i kapittel 7. Det legges opp til å videreføre inngangskravet om botid og medlemskap fra gjeldende rett, men ingen ytterligere krav til trygdetid for å få den fulle ytelsen.
 
-Eksempel 2
+1.  **Om etterlatte barn med flyktningebakgrunn**
 
-Eksempel 1
+I høringsnotatet er det generelle botidskravet også for rett til barnepensjon foreslått økt fra tre til fem år. Som for etterlattepensjon gjelder det for barnepensjon i dag et generelt unntak fra botidskravet for flyktninger. I påvente av utvalgets utredning er det ikke i høringsnotatet fremmet noe forslag om å oppheve dette unntaket. Med utgangspunkt i den begrunnelsen som er gitt i høringsnotatet for forslaget om en generell økning i botidskravet fra tre til fem år, jf. punkt 10.4, og dersom unntakene fra kravet til botid for flyktninger oppheves i relasjon til andre ytelser, er det vanskelig å se at det er rom for å gjøre unntak fra de generelle reglene for etterlatte barn med flyktningebakgrunn.
 
-Eksempel 2
+Ifølge tall fra UDI var 10 prosent av de som ble registrert som asylsøkere i perioden januar – mai 2016 enslige mindreårige. Tall fra NAV viser at i perioden juni 2009 til juni 2016 er det innvilget i alt 97 barnepensjoner etter særreglene for flyktninger. På usikkert grunnlag er det totale antall mottakere antatt å være i intervallet 150 –200 personer. Det er også et svært begrenset antall av mottakere som selv ikke er flyktning, men hvor avdøde forelder var flyktning.
 
-Eksempel 1
+Utvalget vil samtidig understreke at det å unngå barnefattigdom er viktig for å gi barn en god oppvekst. Tilgang til utdanning, helsetjenester etc. er grunnleggende i det norske velferdssystemet. I tillegg er familienes inntektssituasjon viktig. De barna som har kommet til Norge i en fluktsituasjon, og i tillegg mister den ene eller begge foreldrene sine, vil være i en sårbar situasjon.
 
-Eksempel 2
+Generelt sett har Norge et omfattende opplegg for bosetting av mindreårige, enslige flyktninger, noe som også inkluderer ekstra tilskudd til de kommunene hvor bosettingen skjer. For mindreårige flyktninger som bor sammen med én forelder, vil denne forelderens inntekt være avgjørende for deres livssituasjon. De mest sårbare vil trolig være barn med én forelder som ikke har egen arbeidsinntekt, og som heller ikke har rett til ytelser fra folketrygden. Det er derfor særlig viktig at etterlatte med forsørgeransvar får nødvendig bistand, jf. utvalgets argumentasjon under punkt 10.6.
 
-Eksempel 1
+Selv om utvalget som hovedprinsipp har avskåret seg fra å vurdere alternative inntektssikringsordninger for flyktninger, vil utvalget peke på at mindreårige flyktninger som ikke oppfyller kravene til barnepensjon, kan ha krav på bidragsforskott. Rett til bidragsforskott er knyttet til at barnet er under 18 år, oppholder seg i Norge og ikke bor sammen med begge foreldrene. Hvis barnet bor sammen med en gjenlevende forelder her i Norge, er det forelderens inntektssituasjon som avgjør om det foreligger slik rett, og hvor mye som eventuelt blir utbetalt. Den høyeste satsen for bidragsforskott er per 1. juli 2016 1 530 kroner per måned for barn under 11 år og 1 910 kroner per måned for barn over 11 år.
 
-Eksempel 2
+For enslige mindreårige flyktninger er retten blant annet avhengig av hva slags omsorgsform barnet har. Hvis det foreligger rett til bidragsforskott, vil barnet kunne ha rett til en ytelse tilsvarende to ganger forhøyet sats. For barn under 11 år tilsvarer det per 1. juli 2016 3 060 kroner per måned og 3 820 kroner per måned for barn over 11 år. I februar 2016 var det totalt 117 barn som mottok dobbelt bidragsforskott. Det foreligger ikke informasjon om hvor mange av dem som har flyktningebakgrunn.
 
-Eksempel 1
+Utvalget vil understreke at bidragsforskottets bidrag til å hindre barnefattigdom er avhengig av nivået på forskuddssatsen. Da nåværende lov om bidragsforskott ble innført i 1989, var størrelsen på bidragsforskottet på omtrent samme nivå som barnepensjon når én av foreldrene er død, jf. Ot.prp. nr. 99 (1991–92). Over tid har imidlertid satsene for bidragsforskottet sakket akterut i forhold til barnepensjonene. Det vises til at Barnefamilieutvalget, som er oppnevnt av Barne- og likestillingsdepartementet har vurdering av bidragsforskottet som del av sitt mandat. Kommunene har omfattende oppgaver når det gjelder bosetting og integrering av flyktninger. Det er derfor viktig å unngå at eventuelt bortfall av særlige rettigheter for etterlatte barn med flyktningstatus fører til at det blir vanskeligere å få dem bosatt i kommunene.
 
-0
+1.  **Oppsummering**
 
-92 år
+Gjennomsnittsalderen blant asylsøkerne er relativt lav. Lav dødelighet i yngre aldersgrupper bidrar trolig til at det er relativt få etterlatte i denne gruppen. Det er vanskelig å se klare argumenter for at ytelser til etterlatte flyktninger skal bygge på andre prinsipper om botid i Norge enn det som gjelder for flyktningers rett til andre ytelser. Utvalget vil samtidig understreke at flyktninger som mister ektefelle eller forelder før eller relativt kort tid etter at de har kommet til Norge, ofte vil være i en sårbar fase. Eventuelt bortfall av de særskilte rettighetene de har til ytelser fra folketrygden innebærer at de er mer utsatt for fattigdom. Utvalget påpeker derfor viktigheten av at kommunene har de ressurser som er nødvendige for å ivareta sine oppgaver når det gjelder bosetting og integrering av flyktninger.
 
-Figur 8.7 Alderspensjon med og uten gjenlevendetillegg etter § 20-19 a etter alder. I kroner. G=92 576 kroner
-(1. mai 2016)
-Kilde: Arbeids- og velferdsdirektoratet
+1.  **Økonomiske og administrative konsekvenser**
 
-[Side 131]
+    1.  **Innledning**
 
-129
+Utvalget foreslår at etterlattepensjon til gjenlevende under 67 år erstattes av en tidsbegrenset omstillingsstønad. Ytelsen skal utgjøre 2,25 ganger grunnbeløpet uavhengig av avdødes tidligere inntekt. Det foreslås også at barnepensjonene ytes med en flat sats, uavhengig av antall barn i familien, og differensieres bare etter om én av eller begge foreldrene er døde. Videre foreslås det en gradvis avvikling av de særskilte reglene for beregning av alderspensjon til gjenlevende alderspensjonister og av gjenlevendetillegget til uføretrygden.
 
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
+Disse endringene vil ha virkning på folketrygdens utgifter. Forslagene vil kreve vesentlige endringer i NAVs saksbehandlingsløsninger og andre relaterte IT-systemer. En periode med overgang fra gammelt til nytt regelverk vil også ha visse administrative konsekvenser. Slike forhold er omtalt i dette kapitlet.
 
-Videreføring
+1.  **Virkninger på folketrygdens utgifter**
 
-Kapittel 8
+Overgang til en ytelse til etterlatte som i utgangspunktet gir utbetalinger i maksimalt tre år, vil bidra til å øke brutto utgifter noe på helt kort sikt. Dette skyldes at gjennomsnittlig ytelse før skatt øker noe. Bortfall av skattebegrensningsregelen og omlegging til beskatning på samme måte som lønnsinntekt vil imidlertid motvirke denne effekten.
 
-Avvikling over årskullene 1954–1963
+Etter tre år faller både antall etterlatte med stønad og utgiftene til om lag en tredel av det en videreføring av gjeldende regler ville ha gitt. I 2050 er folketrygdens utgifter til ytelser til etterlatte under 67 år anslått til om lag 170 millioner kroner, sammenlignet med om lag 500 millioner kroner med en videreføring av dagens etterlattepensjon.
 
-7
+En klarere arbeidsretting av ytelsen kan forventes å bidra til at færre vil motta den, eventuelt i en kortere periode eller med sterkere avkortning enn i dag. Det er imidlertid vanskelig å tallfeste slike effekter.
 
-7
+Det legges opp til en styrking og forenkling av barnepensjonen. Det foreslås enhetlige satser, uavhengig av antall søsken. Satsen vil være høyere hvis begge foreldrene er døde enn hvis barnet har mistet én av foreldrene. Det foreslås å forlenge varigheten av barnepensjonen til 20 år også for barn som har mistet én forelder, gitt at barnet fortsatt er i utdanning eller under opplæring.
 
-6
+Styrkingen av barnepensjonen er anslått å øke de årlige kostnadene til ytelsen med om lag 250 millioner kroner per år. Det er da lagt til grunn at om lag 75 prosent av 18- og 19-åringene er i utdanning eller opplæring som vil gi rett til fortsatt barnepensjon. Ettersom antall etterlatte barn er forventet å avta, vil merutgiften være mindre på lang sikt.
 
-6
+Det foreslås en gradvis avvikling av de særskilte reglene for beregning av alderspensjon til gjenlevende i takt med utfasingen av de gamle opptjeningsreglene for alderspensjon i folketrygdloven kapittel 19. Det vil si at personer som er født i 1962 vil være det siste årskullet som kan få utbetalt høyere alderspensjon etter særreglene. Dette foreslås kombinert med en nominell videreføring av verdien av gjenlevenderettighetene i alderspensjonen for personer som er født i 1944 og senere.
 
-5
+Utvalgets forslag vil gradvis føre til betydelige innsparinger på folketrygdens budsjett.
 
-5
+Antatte innsparinger er beregnet ut fra det videreføringsalternativet utvalget har benyttet i sine analyser. Dette videreføringsalternativet er en del annerledes enn dagens regelverk i folketrygdloven kapittel 19. Sammenlignet med dette videreføringsalternativet vil utvalgets forslag gi mindreutgifter på i størrelsesorden 450 millioner kroner i 2025. Innsparingene vil øke til over 2,5 milliarder kroner per år rundt 2050.
 
-4
+Det såkalte videreføringsalternativet vil gi noe lavere kostnader enn en hypotetisk videreføring av bestemmelsene i folketrygdloven kapittel 19. En sammenligning med en hypotetisk videreføring av dagens regelverk ville derfor ha gitt enda større innsparinger. Basert på tidligere beregninger, er det i utvalgets mandat lagt til grunn at en videreføring av dagenes regler ville ha ført til nær en fordobling av disse utgiftene i løpet av de neste 25 årene.
 
-4
+Grove beregninger tyder på at utgiftene til gjenlevendetillegg til uføretrygd i 2020 vil være om lag 230 millioner kroner. En nominell videreføring av de gjenlevendetillegg som er innvilget før 2020, kombinert med at personer som blir etterlatte og uføre etter 2020 får etterlatteytelsen avkortet krone for krone mot uføretrygden, vil innebære at utgiftene faller gradvis over tid. Rundt 2040, når gjenlevendetillegg innvilget før 2020 er så å si utfaset og erstattet av nye regler for kombinasjon av uføretrygd og etterlatteytelser, viser estimater at de årlige utgiftene kan bli vel 50 millioner kroner per år. Denne framskrivningen er basert på mellomalternativet i SSBs befolkningsframskrivning fra 2016.
 
-3
+1.  **Behov for utvikling av saksbehandlingsløsninger**
 
-3
+En forsvarlig systemstøtte for å behandle alle typer etterlattesaker etter nytt regelverk vil kreve betydelige endringer i NAVs saksbehandlingsløsninger, systemer for inntektskontroller og eventuelle etteroppgjør, systemstøtte for oppfølging av aktivitetskrav etc. For å utarbeide et endelig budsjettanslag er det behov for å ha et fullstendig, utdetaljert lovverk å forholde seg til, og dette kan dermed først foreligge på et senere tidspunkt. Et foreløpig kostnadsestimat, basert på foreliggende informasjon, viser likevel at det vil påløpe utviklingskostnader på i overkant av 100 millioner kroner. Det er da lagt opp til at saksbehandlingen automatiseres så langt mulig, at avkortning av stønad mot arbeidsinntekt automatiseres og at inntektsrapportering kan gjøres så enkelt som mulig ved hjelp av en selvbetjeningsløsning. Enkle systemer og rutiner for innrapportering av inntekt og avkortning av stønad mot arbeidsinntekt er svært viktig for å legge til rette for gradvis økning av arbeidsinnsatsen i de tilfeller det er en nødvendig del av omstillingen. Sterkere arbeidsretting av ytelsen vil stille nye krav til systemstøtte for veilederne og for effektive og smidige inntektskontroller og eventuelle etteroppgjør.
 
-2
+1.  **Administrative konsekvenser**
 
-2
+Før det foreligger en fullstendig lovtekst, er det vanskelig å gi en fullstendig oversikt over de administrative konsekvensene av reformen. Forslagene gir likevel grunnlag for å identifisere viktige administrative oppgaver som må gjennomføres.
 
-1
+Forut for innføringen må det utarbeides informasjon om lovendringene. I den grad de som allerede er mottakere av slike ytelser blir berørt, må de ha informasjon direkte relatert til sin sak. Forslagene innebærer også store endringer for framtidige etterlatte, sammenlignet med dagens regler. Det må derfor utarbeides tydelig informasjon om reformen for et bredt publikum, da det kan ha betydning for hvordan personer innretter seg og planlegger framtiden. Denne informasjonen må derfor foreligge i god tid før lovendringen trer i kraft. Dette vil kunne innebære behov for informasjon til utenlandske trygdemyndigheter, eventuelt også informasjon på andre arenaer der utlandsboende kan bli informert. Informasjon gjennom digitale kanaler vil være viktig og ha høy prioritet.
 
-1
+I tillegg til nødvendig systemutvikling, se punkt 11.3, vil det være behov for oppdatering av eksisterende og utvikling av nytt materiell til bruk for bruker og saksbehandler. Dette kan dreie seg om søknadsskjemaer, saksbehandlingsrutiner, rundskriv, brev osv. Forslagene skiller seg en god del fra gjeldende regler, og det må planlegges og gjennomføres et opplæringsløp for saksbehandlere og veiledere i NAV. Det forventes at det i en overgangsperiode vil bli en del merarbeid i forbindelse med re-behandling av ytelser, og noe manuell saksbehandling må påregnes.
 
-0
+Siden forslaget går ut på at etterlattepensjonen blir erstattet av en tidsbegrenset omstillingsstønad, der det forventes at etterlatte under 67 år etter hvert skal kunne være selvforsørget, vil NAV måtte bistå aktivt med å tilrettelegge for framtidig arbeid gjennom aktivitetskrav, tiltak og utdanning. Dette kan medføre at NAV får økte utgifter til oppfølging av personer i denne gruppen.
 
-0
-1967
+Gjennomføringen av reformen vil innebære en rekke administrative engangsoppgaver og tilpasninger til et nytt regelverk, noe som vil gi ekstra kostnader i denne perioden. Forslagene vil etter hvert redusere antall mottakere av etterlatteytelser, og et enklere regelverk vil etter innføringsfasen også virke til en enklere administrasjon av ordningen. Hvis det utvikles systemløsninger med mer automatisering og selvbetjening enn i dag, vil det bidra til effektivisering. Det er imidlertid på nåværende tidspunkt ikke tilstrekkelig grunnlag for å estimere disse gjennomføringskostnadene eller de administrative innsparingene som kan innhentes på litt lengre sikt. Slike anslag må utarbeides med utgangspunkt i et konkret lovforslag.
 
-1977
+1.  **Forholdet til offentlige tjenestepensjoner**
 
-1987
+Som omtalt i kapittel 5, ble etterlattepensjonen i offentlige tjenestepensjoner lagt om fra brutto- til nettoordninger i 2001. Overgangen til nettoordningen er gradvis, og det vil ta lang tid før majoriteten av utbetalingene av etterlattepensjoner er etter nettoordningen. Utvalgets mandat vedrørende etterlattepensjoner knyttet til arbeidsforhold har vært begrenset til å gi en beskrivelse av slike ordninger.
 
-1997
+Lov om samordning av pensjons- og trygdeytelser regulerer forholdet mellom brutto etterlattepensjoner fra en offentlig tjenestepensjonsordning og folketrygden. I hovedtrekk utbetales ytelsen fra folketrygden fullt ut, mens det gjøres samordningsfradrag i tjenestepensjonen. Reglene om å gjøre samordningsfradrag for folketrygden er utformet ut fra nivået på og utformingen av dagens etterlatteytelser i folketrygden. Nettopensjoner fra offentlig tjenestepensjonsordning samordnes ikke med folketrygden etter samordningsloven. Satsen i nettoordninger er fastsatt under en forutsetning om at det ligger en (fiktiv) ytelse fra folketrygden i bunnen. Nivået på samlet pensjon vil dermed kunne påvirkes av endringer i reglene i folketrygdloven.
 
-2007
+Eventuelle behov for endringer i samordningsreglene, og hvilke økonomiske og administrative konsekvenser slike endringer i så fall vil ha, vil derfor måtte avklares i den videre oppfølgingen av utredningen.
 
-2017
+**Litteraturliste**
 
-2027
+Arbeids- og sosialdepartementet. Høring om forslag til endringer i trygderegelverket i lys av asylsøkersituasjonen. 4. juli 2016
 
-2037
+Europaparlaments- og rådsforordning (EF) nr. 883/2004 av 29. april 2004 om koordinering av trygdeordninger
 
-2047
+Hernæs, Erik, Simen Markussen, John Piggott, Knut Røed (2016). Pension reform and labor supply. Journal of Public Economics Vol 142, 39–55
 
-2057
+Innst. S. nr. 247 (1964–1965) Innstilling fra sosialkomiteen om folkepensjon
 
-2067
+Innst. 319 L (2014–2015) Lov om endringer i folketrygdloven (midlertidig gjenlevendetillegg til ny alderspensjon)
 
-Figur 8.8 Utgifter til gjenlevenderettigheter. Mrd. 2015-kroner
-Kilde: Statistisk sentralbyrå
+Innst. S. nr. 180 (1995–96) Innstilling fra sosialkomiteen om 1) velferdsmeldingen, 2) forslag fra stortingsrepresentant Erling Folkvord om endring i retten til uførepensjon og 3) forslag fra stortingsrepresentant Erling Folkvord om minstestandard for stønad til livsopphold
 
-opptjent alderspensjon uten gjenlevenderettigheter etter kapittel 19 og § 20-19 a når de har blitt
-gjenlevende. Forskjellen i egenopptjent alderspensjon uten gjenlevenderettigheter ved 62 års
-alder skyldes at den ene (som blir gjenlevende i
-2019) har pensjonsberegning som enslig, mens
-den andre (som blir gjenlevende i 2020) har
-beregning som gift.
-Personen som blir gjenlevende i 2019 vil i
-tillegg ha et gjenlevendetillegg beregnet etter
-§ 20-19 a. Den forskjellen som dette tillegget
-utgjør, er på 7 400 kroner (2016-kroner) ved fylte
-63 år. Siden tillegget videreføres nominelt, vil
-den reelle verdien avta over tid, og dermed også
-forskjellen i de to personenes alderspensjon.
-Utover gjenlevende og avdødes opptjening,
-vil størrelsen på tillegget beregnet etter § 20-19 a
-avhenge av når gjenlevende er født. Tillegget vil
-kun utgjøre 1/10 av samlede gjenlevenderettigheter for 1954-kullet, men vil øke til 4/10 for
-1957-kullet. Gitt en bestemt verdi på samlede
-gjenlevenderettigheter (fra kapittel 19 og 20), vil
-derfor verdien av § 20-19 a-tillegget øke for hvert
-årskull.
-Beregninger som tar utgangspunkt i en person
-som er født i 1957, tar ut alderspensjon ved fylte
-62 år og blir gjenlevende samme år, viser at vedkommende maksimalt vil kunne få et gjenlevendetillegg etter § 20-19 a på rundt 34 000 kroner. I
-beregningen er det lagt til grunn at både avdøde
-og gjenlevende har full trygdetid.
+James, Estelle (2009). Rethinking Survivor Benefits. SP Discussion Paper No. 0928. The World Bank
 
-Virkninger på folketrygdens utgifter
-Utgiftene til gjenlevenderettigheter i alderspensjon er i dette alternativet forventet å øke fram
-mot 2030, hvor de når en topp på nærmere 5,7 milliarder 2015-kroner, jf. figur 8.8. Utgiftene vil deretter avta, og den maksimale årlige innsparingen
-sammenlignet med videreføringsalternativet er
-forventet å nå vel 2,5 milliarder 2015-kroner rundt
-2055.
-Utvalgets vurdering av alternativet
-Rent praktisk vil dette alternativet være enklest å
-gjennomføre av de avviklingsalternativene som
-utvalget har vurdert. Avviklingen skjer på en måte
-som kun har effekt for årskull som omfattes av
-innfasingen av de nye opptjeningsreglene for
-alderspensjon. Dette reduserer omfanget av administrative oppgaver. Det kan også begrense utfordringene med informasjon til befolkningen. Alternativet vil på lang sikt føre til betydelige reduksjoner i folketrygdens utgifter. Sammenlignet med
-dagens nivå, vil likevel utgiftene fortsette å øke en
-del år framover, og flate ut først rundt 2027.
-Samtidig kan det innvendes mot alternativet at
-effekten av reformen i all hovedsak skyves over
-på yngre generasjoner og at det derfor i begrenset
-grad ivaretar hensynet til likebehandling på tvers
-av generasjoner. Økt likestilling mellom kjønnene,
-større omfang av lønnet arbeid blant gifte kvinner,
-bedre minstesikring og veksten i norsk økonomi
+Kostøl, Andreas Ravndal og Magne Mogstad (2013). How Financial Incentives Induce Disability Insurance Recipients to Return to Work. NBER Working Paper No. 19016
 
-[Side 132]
+Løken, Lommerud og Reiso (2014). Mothers and their children: Evaluating a work-encouraging welfare reform. Working Papers in Economiscs 4/14, Universitetet i Bergen
 
-130
+Norsk Monitor – en sosiokulturell studie: http://ipsos-mmi.no/Norsk-Monitor
 
-NOU 2017: 3
-
-Kapittel 8
+NOU 1990: 20 Forenklet folketrygdlov
 
-Folketrygdens ytelser til etterlatte
+NOU 2004: 1 Modernisert folketrygd
 
-har også kommet mange eldre årskull til gode, og
-det kan argumenteres for at de bør bidra til å sikre
-bærekraften i pensjonssystemet. Utvalget vil derfor ikke foreslå dette alternativet.
+NOU 2007: 4 Ny uførestønad og ny alderspensjon til uføre
 
-8.7.3
+NOU 2012: 15 Politikk for likestilling
 
-Utfasing fra og med 1944-kullet
+OECD (2015) Pension at a Glance 2015
 
-Hovedtrekk ved alternativet
-Det å gi reformen en effekt for alle gjenlevende,
-uavhengig av alder og når de har blitt eller blir
-gjenlevende, sikrer mest mulig likebehandling
-på tvers av generasjoner og når vedkommende
-ble etterlatt. Utvalget har derfor også vurdert
-modeller som får effekt utover årskullene 1954–
-1962.
-Hvis nye regler blir innført i 2020, vil en viss
-andel av et bestemt årskull allerede ha fått innvilget alderspensjon beregnet etter særreglene for
-gjenlevende etter gammelt regelverk, mens
-andre i samme årskull vil bli gjenlevende først
-senere. En del som vil få pensjonsberegning fullt
-ut etter kapittel 19, vil bli etterlatt på samme tidspunkt som personer som helt eller delvis vil få
-sin pensjon beregnet etter reglene i kapittel 20.
-En måte å la reformen få en virkning for alle,
-også de som allerede har en alderspensjon
-beregnet etter særreglene, er å videreføre den
-nominelle verdien av alderspensjonen inkludert
-gjenlevenderettigheter inntil den når det nivået
-gjenlevendes egenopptjente alderspensjon vil
-være med ordinær årlig regulering. På det tidspunktet vil verdien av gjenlevenderettighetene
-være lik null. En slik løsning ble valgt da det ved
-lov 21. desember 1990 nr. 80 ble innført behovsprøving av forsørgingstillegg til alderspensjon.
-For å hindre nominell nedgang i løpende pensjon
-fikk alderspensjonister som allerede hadde fått
-innvilget ektefelletillegg etter de gamle reglene
-et såkalt garantitillegg. Den totale pensjonen
-skulle deretter holdes nominelt uendret til
-grunnpensjonen og tilleggspensjonen samlet
-hadde steget til et høyere nivå enn «frysbeløpet».
-For mange innebar dette at ektefelletillegget falt
-bort i sin helhet allerede ved den årlige reguleringen av pensjonene i mai 1991.1
-Samtidig bør det tas med i vurderingen at gjennomsnittlig alderspensjon er høyere for yngre årskull enn for de eldre. Gjennomsnittlig alderspensjon eksklusive verdien av gjenlevenderettigheter
-for personer født i 1943 og tidligere var i 2015 om
-1
+Ot.prp. nr. 17 (1965–66) Om lov om folketrygd
 
-Høyesterett behandlet spørsmålet om lovendringen var i
-strid med tilbakevirkningsforbudet i Grunnloven § 97 i den
-såkalte Borthen-saken. Høyesterett kom enstemmig til at
-lovendringen ikke var i strid med Grunnloven.
+Ot.prp. nr. 44 (1991–92) Om lov om barneverntjenester (barnevernloven)
 
-lag 215 000 kroner, mens den var om lag 232 000
-kroner for personer født i perioden 1944–1953.
-Gjennomsnittet dras noe ned av de yngste alderspensjonistene, som har hatt mulighet til tidlig
-uttak fra fylte 62 år. Tidliguttak innebærer en
-lavere årlig pensjon enn ved senere uttak. Gjennomsnittlig alderspensjon for personer født i
-årene 1944–1953 vil øke når de som har et senere
-uttakstidspunkt blir alderspensjonister. For personer født i perioden 1944–1948 var gjennomsnittlig
-pensjon i 2015 om lag 235 000 kroner.
-Utvalget vil ut fra dette foreslå at personer som
-er født i 1943 og tidligere unntas fra reformen.
-Dette gjelder uavhengig av om det på ikrafttredelsestidspunktet allerede løper en alderspensjon
-som er beregnet etter særreglene for gjenlevende, eller om personer fra disse årskullene først
-på et senere tidspunkt blir gjenlevende. Denne
-gruppen har i gjennomsnitt lavere pensjoner enn
-yngre årskull, og de vil ha nådd en høy alder på
-det tidspunktet nye regler kan forventes å tre i
-kraft.
-Personer som er født mellom 1944 og 1953 har
-all sin opptjening etter reglene i kapittel 19. Men
-gjennom bruk av forholdstall i beregning av
-alderspensjonen, vil disse årskullene ha hatt
-mulighet til å øke nivået på årlig pensjon ved å
-utsette uttakstidspunktet.
-I punkt 8.7.2 har utvalget utredet et alternativ
-hvor særreglene for beregning av alderspensjon
-til gjenlevende utfases i takt med opptjeningsreglene i kapittel 19 for årskullene 1954–1962.
-For å få en mer solidarisk effekt på tvers av generasjoner, har utvalget også vurdert et alternativ
-hvor særreglene utfases som beskrevet i punkt
-8.7.2, samtidig som nivået på alderspensjonen,
-inkludert verdien av gjenlevenderettigheter,
-holdes nominelt uendret for alle årskull født fra
-og med 1944. Fra det tidspunkt pensjonen når
-nivået av den egenopptjente alderspensjon, regulert på ordinær måte, reguleres pensjonen på
-ordinær måte.
-Hovedtrekkene i alternativet kan oppsummeres ved:
-– Særregler om beregning av alderspensjon til
-gjenlevende gjelder kun for opptjening etter
-folketrygdloven kapittel 19.
-– Det innvilges ikke nye gjenlevendetillegg etter
-§ 20-19 a etter utgangen av 2019.
-– Gjenlevendetillegg etter § 20-19 a som er innvilget i perioden 2016–2019, inngår som en del av
-den samlede alderspensjonen per 1. januar 2020.
-– Samlet alderspensjon, inkludert verdien av
-gjenlevenderettigheter, holdes nominelt på
-nivået ved innføringen av nytt regelverk for alle
+Ot.prp. nr. 99 (1991–92) Om lov om endringer i lov 17 juni 1966 nr. 12 om folketrygd (Trygdedekning, pensjonsopptjening og pensjonsberegning for personer med utenlandsopphold i yrkesaktiv alder)
 
-[Side 133]
+Ot.prp. nr. 4 (2001–2002) Om lov om endringer i folketrygdloven og i enkelte andre lover (samleproposisjon høsten 2001)
 
-131
+Ot.prp. nr. 37 (2008–2009) Om lov om endringer i folketrygdloven (ny alderspensjon)
 
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
+Ot.prp. nr. 106 (2008–2009) Om lov om endringer i folketrygdloven mv. (tilpasninger i folketrygdens regelverk som følge av pensjonsreformen)
 
-Egenopptjent alderspensjon
+Ot.prp. nr. 106 (2009–2010) Om lov om endringer i folketrygden mv.
 
-Kapittel 8
+Pedersen, Axel West og Elin Halvorsen (2016). Closing the gender gap in pensions. A microsimulation analysis of the Norwegian NDC pension system. Paper til 2016 Annual ESPAnet Conference, 1.-3. September, Rotterdam
 
-Verdi av gjenlevenderettigheter
+Proba samfunnsanalyse og Actecan (2012). Vurdering av folketrygdens etterlattepensjonsordning. Proba-rapport 2012-06
 
-300 000
+Prop. 19 L (2010–2011) Ny uføretrygd og alderspensjon til uføre
 
-300 000
+Prop. 130 L (2010–2011) Endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)
 
-250 000
+Prop. 66 L (2013–2014) Endringer i folketrygdloven, lov om Statens pensjonskasse og enkelte andre lover (tilpasninger til ny uføretrygd i folketrygden og ny uførepensjonsordning for offentlig tjenestepensjon)
 
-250 000
+Prop. 95 L (2014–2015) Endringer i folketrygdloven (midlertidig gjenlevendetillegg til ny alderspensjon)
 
-200 000
+Prop. 1 S Tillegg 1 (2015–2016) Endring av Prop. 1 S (2015–2016) Statsbudsjettet 2016 og Prop. 1 LS (2015–2016) Skatter, avgifter og toll 2016 (økt antall asylankomster)
 
-200 000
+Sosial- og helsedepartementet. Høring om forslag til endringer i etterlattepensjonsordningen i folketrygden. 22. september 1999
 
-150 000
+SOU 1987: 55 Efterlevandepension – Reformering av den allmänna försäkringens efterlevandeförmåner
 
-150 000
+Statistisk Sentralbyrå (2007/11). Pensjonsreformen: Virkninger på statsfinanser, effektivitet og fordeling
 
-100 000
+St.meld. nr. 75 (1963–64) Om folkepensjon
 
-100 000
+St.meld. nr. 35 (1994–95) Velferdsmeldingen
 
-50 000
+St.meld. nr. 5 (2006–2007) Opptjening og uttak av alderspensjon.
 
-50 000
+The Global Gender Gap Report 2015. The World Economic Forum
 
-0
+http://ec.europa.eu/social/main.jsp?catId=858&langId=en
 
-0
-2011
+https://www.pensionsmyndigheten.se
 
-2016
+http://www.kela.fi/web/sv
 
-2021
+https://www.tyoelake.fi/sv/Sidor/Etusivu.aspx
 
-2026
+https://www.borger.dk/
 
-2031
+https://www.klp.no/person/pensjon/offentlig-tjenestepensjon/etterlattepensjon#tab7-7149
 
-2036
+1.  **\[Vedleggsnr. Resett\]**
 
-2041
+**Etterlatteytelser i de nordiske landene**
 
-Figur 8.9 Alderspensjon for et typetilfelle født i 1944, uttak av alderspensjon fra 67 år og gjenlevende fra
-75 år. I kroner. G=92 576 kroner (1. mai 2016)
-Kilde: Arbeids- og velferdsdirektoratet
+I dette vedlegget gis en overordnet presentasjon av allmenne etterlatteordninger i de nordiske landene. Alle de nordiske landene har bostedsbaserte pensjonsytelser. Alderspensjon og uføretrygd/førtidspensjon gis på et minstenivå selv om det ikke er innbetalt premie eller opptjent pensjonsrettigheter i et arbeidsforhold. I land utenfor Norden er det vanlig at rett til pensjon er knyttet til innbetaling fra arbeidsforhold. I mange av disse landene er det dessuten fortsatt betydelig lavere sysselsetting blant kvinner. Ytelser til etterlatte dekker således et annet behov enn i Norden, ettersom mange kvinner er avhengig av pensjonsrettigheter opptjent av mannen. Dette kan forklare en fortsatt stor utbredelse av ytelser til etterlatte i Europa og andre «vestlige» land.
 
-–
+I Danmark og Sverige ble det gjennomført store reformer i regelverket for etterlatteytelser på 1980- og 1990-tallet, og etterlatteytelsene er under utredning også i Finland. Selv om det fortsatt utbetales ytelser etter overgangsordninger i både Danmark og Sverige, har utvalget valgt å ikke beskrive avviklede ordninger i dette vedlegget.
 
-som er født i 1944 og senere inntil pensjonen
-når verdien av den egenopptjente alderspensjonen (regulert på ordinær måte).
-Verdien av allerede innvilgede gjenlevenderettigheter holdes nominelt uendret på nivået
-ved innføringen av nytt regelverk for alle som
-er født i 1944 og senere, alternativt på det initiale nivået for gjenlevenderettigheter som innvilges på et senere tidspunkt.
+Framstillingen nedenfor er avgrenset til etterlatteytelsene. Den gir derfor ingen fullstendig oversikt over hva slags pensjons- og stønadssystem det enkelte land har, og eventuelle andre ytelser etterlatte kan få. Det er også behov for å se de ulike elementene i etterlatteytelsene under ett. For eksempel har Danmark vid personkrets, men meget begrensede ytelser.
 
-Et typetilfelle
-I tillegg til selve avviklingen av de særlige beregningsreglene fra og med 1954-kullet til og med
-1962-kullet, slik det er beskrevet i punkt 8.7.2,
-kommer det i dette alternativet en effekt av at den
-samlede alderspensjonen holdes nominelt uendret inntil den når nivået på den egenopptjente
-pensjonen. Med en forutsetning om nominell
-lønnsvekst på 4 prosent som er lagt til grunn i
-denne framskrivningen, vil verdien av gjenlevenderettighetene fases ut relativt raskt. Effekten av
-en slik modell kan illustreres ved å se på utviklingen i samlet pensjon over tid for en gjenlevende
-alderspensjonist.
-Det er tatt utgangspunkt i en person som er
-født i 1944, som er det eldste årskullet som vil bli
-omfattet av dette alternativet. Beregningen er for
-øvrig basert på de forutsetningene som er omtalt i
-punkt 8.7.1.
+Alle beløp som oppgis i euro i vedlegget har blitt regnet om til norske kroner med en eurokurs på 9,2. Svenske og danske kroner er ikke omregnet.
 
-Av figur 8.9 framgår det at verdien av gjenlevenderettighetene i dette tilfellet initialt vil gi en
-betydelig økning i samlet pensjon. Men ettersom
-den samlede pensjonen holdes nominelt uendret,
-avtar verdien raskt. I dette eksemplet når verdien
-null etter ni år. En lavere lønnsvekst enn forutsatt
-vil gi et mer gradvist verdifall.
-Ettersom mange blir gjenlevende i høy alder,
-kan likevel verdien av gjenlevenderettighetene
-også i en slik modell utgjøre et vesentlig økonomisk tilskudd i en stor del av gjenstående levetid.
-Virkninger på folketrygdens utgifter til alderspensjon
-Dersom hele alderspensjonen, inkludert verdien av
-gjenlevenderettigheter, holdes nominelt uendret
-for alle født i 1944 og senere, vil det umiddelbart gi
-budsjettmessige effekter. Etter noe tid vil også den
-gradvise avviklingen av de særlige beregningsreglene bidra vesentlig til lavere utgifter. Utgiftstoppen i dette alternativet vil bli nådd siste året før
-reformen trer i kraft (2019), med utbetalinger på
-knapt 5 milliarder 2015-kroner, jf. figur 8.10.
-Størrelsen på reduksjonen i statsbudsjettets
-utgifter til alderspensjon, målt i nominelle kroner,
-vil avhenge av lønns- og prisveksten framover.
-Med forutsetningen om 4 prosent lønnsvekst som
-er lagt til grunn i Statistisk sentralbyrås
-MOSART-beregning, vil den årlige innsparingen
-målt i forhold til videreføringsalternativet i punkt
+Ytelser til voksne etterlatte i de nordiske landene
 
-[Side 134]
+Sverige: I Sverige kan det utbetales omställningspension til voksne etterlatte i 12 måneder etter dødsfallet. Omsorg for barn gir rett til forlenget stønadsperiode.
 
-132
+Danmark: Dersom både avdøde og gjenlevende var pensjonist (alder eller ufør), kan det utbetales efterlevelsespension fra det danske folkepensjonssystemet i tre måneder etter dødsfallet. Fra arbeidsmarkedets tilleggspensjonssystem ATP utbetales et engangsbeløp.
 
-NOU 2017: 3
+Finland: I Finland kan det utbetales efterlevandepension til gjenlevende ektefelle både fra Folkpensionsanstalten (FPA) og fra Arbetspensioneringen.
 
-Kapittel 8
+Island: Det utbetales ikke ytelser til voksne etterlatte fra det islandske folkepensjonssystemet. Til gjenlevende som er under 67 år, kan det utbetales en dødsgodtgjørelse i seks måneder etter dødsfallet. Omsorg for barn kan gi rett til forlenget stønadsperiode. Fra arbeidspensjonssystemet kan det på visse vilkår ytes etterlattepensjon. Dette behandles ikke videre her.
 
-Folketrygdens ytelser til etterlatte
+*Personkrets*
 
-Videreføring
+Det er tilsynelatende små, men likevel viktige forskjeller med hensyn til hvem som har rett til etterlatteytelser i de nordiske landene. I samtlige land kan det utbetales ytelser til ektefelle og registrert partner. I Finland og på Island har ikke samboere rett til ytelser, heller ikke dersom de har felles barn. Sverige står, sammen med Norge, i en mellomstilling. Der har også samboere som har barn med avdøde rett til ytelser. Danmark går lengst i å likestille gifte og samboende, ved at samboere har samme rett til efterlevelsespension som gifte/registrerte partnere. Samboere som er registrert har også rett til engangsutbetaling fra ATP, mens samboere som ikke er registrert kan søke om å få engangsbeløpet utbetalt til seg.
 
-Nominell videreføring av hele alderspensjonen fom. 1944-kullet
+I Sverige og Danmark er det et vilkår for rett til ytelser at gjenlevende og avdøde bodde sammen på tidspunktet for dødsfallet. Dette innebærer at fraskilte normalt ikke vil ha rett til ytelser. Finland står sammen med Norge i en mellomstilling, ved at en fraskilt kan ha rett til ytelser på visse vilkår.
 
-7
+*Varige eller tidsbegrensede ytelser*
 
-7
+Ytelsene i de nordiske landene varier mellom alt fra engangsutbetalinger til livsvarige ytelser.
 
-6
+Danmark skiller seg ut ved at det kun utbetales et engangsbeløp fra ATP. Dersom både avdøde og gjenlevende er pensjonister (alder eller ufør), kan avdødes folkepensjon utbetales i inntil tre måneder etter dødsfallet.
 
-6
+På Island kan det utbetales en dødsgodtgjørelse til gjenlevende ektefelle i inntil seks måneder. Utbetalingsperioden kan forlenges til 12 måneder dersom gjenlevende har omsorg for barn under 18 år. Under ekstraordinære omstendigheter kan ytelsen betales ut i ytterligere 36 måneder.
 
-5
+Den svenske omställningpensionen utbetales i utgangspunktet i ett år. Dersom gjenlevende har omsorg for barn mellom 12 og 18 år, forlenges utbetalingsperioden med ett år, slik at det ytes omställningspension i en periode på to år. Dersom gjenlevende har omsorg for barn under 12 år, forlenges utbetalingsperioden automatisk frem til det yngste barnet fyller 12 år. Omställingspensionen opphører i alle tilfeller når gjenlevende fyller 65 år.
 
-5
+I Finland utbetales Begynnelsespension fra FPA til gjenlevende ektefelle/registrert partner som er under 65 år. Ytelsen utbetales i seks måneder. Etter de seks månedene kan det utbetales Fortsättningspension fra FPA fram til gjenlevende er 65 år. Det utbetales også ytelser fra finsk Arbetspension. Denne ytelsen kan i prinsippet utbetales helt til gjenlevendes død.
 
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-1
-
-1
-
-0
-
-0
-1967
-
-1977
-
-1987
-
-1997
-
-2007
-
-2017
-
-2027
-
-2037
-
-2047
-
-2057
-
-2067
-
-Figur 8.10 Utgifter til gjenlevenderettigheter i alderspensjon. Mrd. 2015-kroner
-Kilde: Statistisk sentralbyrå
-
-8.6 øke raskt, og nå en topp på 4 milliarder 2015kroner litt før 2040.
-
-8.7.4
-
-En mildere utfasing på tvers av
-generasjoner
-
-Hovedtrekk ved alternativet
-Utvalgets vurdering av alternativet
-En rask avvikling gjennom en nominell videreføring av nivået på hele pensjonen har isolert sett
-flere fordeler. Utgiftene til alderspensjon vil falle
-allerede fra innføringen av nytt regelverk, og dermed raskt bidra til å styrke folketrygdens finansielle bærekraft.
-Med de lønnsvekstforutsetningene som er lagt
-til grunn, vil verdien av gjenlevenderettighetene
-på individnivå falle relativt raskt. Men nye årskull
-inntil 1962-kullet vil fortsatt kunne få beregnet
-alderspensjon etter særlige beregningsregler for
-gjenlevende på pensjonsopptjening etter kapittel
-19. Det vil derfor også i dette alternativet gå lang
-tid før hele systemet er avviklet.
-Samtidig vil dette alternativet kunne få urimelig stor negativ effekt på den samlede alderspensjonen for en del av de eldste gjenlevende. I denne
-gruppen er det fortsatt en del som har en betydelig del av sin yrkeskarrière fra perioden før folketrygden ble innført. Det vil også være mange kvinner fra årskull som har hatt liten egen pensjonsopptjening. Utvalget vil derfor ikke anbefale dette
-alternativet.
-
-Utvalget har også vurdert et alternativ som gir
-likebehandling på tvers av generasjoner, men
-hvor det samtidig er lagt vekt på bedre å skjerme
-personer som allerede har nådd en høy alder.
-Dette gjøres ved å holde verdien av gjenlevenderettighetene nominelt uendret, mens resten av
-alderspensjonen reguleres på vanlig måte. For
-øvrig har dette alternativet samme utforming som
-alternativet i punkt 8.7.3.
-Hovedtrekkene i alternativet kan oppsummeres ved:
-– Særregler for beregning av alderspensjon til
-gjenlevende ektefelle gjelder kun opptjening
-etter folketrygdloven kapittel 19.
-– Det innvilges ikke nye gjenlevendetillegg etter
-folketrygdloven § 20-19 a etter utgangen av
-2019.
-– Gjenlevendetillegg som er innvilget etter folketrygdloven § 20-19 a i perioden 2016–2019, inngår som en del av den totale alderspensjonen
-per 1. januar 2020.
-– Verdien av allerede innvilgede gjenlevenderettigheter holdes nominelt uendret på nivået ved
-innføringen av nytt regelverk for alle som er
-
-[Side 135]
-
-133
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-Egenopptjent alderspensjon
-
-Kapittel 8
-
-Verdi av gjenlevenderettigheter
-
-250 000
-
-250 000
-
-200 000
-
-200 000
-
-150 000
-
-150 000
-
-100 000
-
-100 000
-
-50 000
-
-50 000
-
-0
-
-0
-2020
-
-2025
-
-2030
-
-2035
-
-2040
-
-2045
-
-2050
-
-Figur 8.11 Alderspensjon for et typetilfelle født i 1953, uttak av alderspensjon fra 67 år og gjenlevende fra
-75 år. I kroner. G=92 576 kroner (1. mai 2016)
-Kilde: Arbeids- og velferdsdirektoratet
-
-født i 1944 og senere, alternativt på det initiale
-nivået for gjenlevenderettigheter som innvilges på et senere tidspunkt.
-Noen typetilfeller
-Ettersom verdien av gjenlevenderettighetene unntas fra regulering, avtar den reelle verdien. Verdien av gjenlevenderettighetene vil i dette alternativet likevel aldri falle helt bort. Dette er belyst
-gjennom et eksempel som viser hvordan samlet
-pensjon, fordelt på egenopptjent pensjon og verdi
-av gjenlevenderettigheter, utvikler seg over tid.
-Utviklingen over tid er illustrert ved å se på en
-person født i 1953. Beregningen er for øvrig
-basert på de forutsetningene som er omtalt i
-punkt 8.7.1.
-I dette eksemplet utgjør den initiale verdien av
-gjenlevenderettighetene for gjenlevende født i
-1953 vel 50 000 kroner, jf. figur 8.11. Etter 10 år er
-realverdien redusert til om lag 34 000 kroner, og
-etter 20 år til om lag 23 000 kroner. Siden personen i eksemplet antas å bli etterlatt ved 75 års
-alder, er den gjenlevende da 95 år.
-Selve avviklingen innebærer at den initiale verdien av gjenlevenderettighetene vil avta for hvert
-årskull fra og med 1954 til og med 1962. I tillegg
-kommer virkningen av nominell videreføring for
-alle i årskullene fra og med 1944 til og med 1962.
-For å illustrere hvordan dette utfasingsalternativet vil slå ut på den samlede pensjonen og på ver-
-
-dien av gjenlevenderettighetene for ulike årskull,
-er det sett på et typetilfelle der gjenlevendes fødselsår varierer fra 1940 til 1963. Det er her lagt til
-grunn at vedkommende ble gjenlevende ved fylte
-75 år, slik at det er den initiale verdien av gjenlevenderettigheten som er vist. For å rendyrke
-denne effekten er andre forhold av betydning for
-pensjonsopptjeningen holdt konstant.
-Figur 8.12 viser at i dette valgte tilfellet, vil
-hvert årskull født i 1954 og senere få en reduksjon
-i verdien av gjenlevenderettighetene på grovt regnet 5 000 kroner, sammenlignet med gjenlevende
-som ble født året før. På grunn av bruk av forholdstall/delingstall, faller verdien av gjenlevenderettighetene svakt også for årskull født i 1953
-og tidligere.
-Verdien av gjenlevenderettighetene vil variere
-med den pensjonsopptjeningen som både gjenlevende og avdøde har hatt. For noen kan verdien
-være større enn vist i figur 8.12. Reduksjonen fra
-ett årskull til det neste vil for disse være større,
-men forløpet blir det samme. For andre gir de
-særlige beregningsreglene liten eller ingen
-økning i pensjon utover egenopptjent pensjon, og
-reduksjonen fra ett årskull til neste målt i kroner
-blir mindre. Videre vil alder for uttak av alderspensjon og når personen blir gjenlevende, påvirke
-verdien av gjenlevenderettighetene. Utfasingsforløpet vil imidlertid bli det samme.
-Ettersom verdien av gjenlevenderettighetene
-holdes nominelt fast for årskull født i 1944 og
-
-[Side 136]
-
-134
-
-NOU 2017: 3
-
-Kapittel 8
-
-Folketrygdens ytelser til etterlatte
-
-Egenopptjent alderspensjon
-
-Verdi av gjenlevenderettigheter
-
-1963
-
-1962
-
-1961
-
-1960
-
-1959
-
-1958
-
-1957
-
-1956
-
-1955
-
-1954
-
-1953
-
-1950
-
-0
-
-1952
-
-50 000
-
-1951
-
-50 000
-
-1949
-
-100 000
-
-1948
-
-100 000
-
-1947
-
-150 000
-
-1946
-
-150 000
-
-1945
-
-200 000
-
-1944
-
-200 000
-
-1943
-
-250 000
-
-1942
-
-250 000
-
-1941
-
-300 000
-
-1940
-
-300 000
-
-0
-
-Figur 8.12 Alderspensjon og verdi av gjenlevenderettigheter når gjenlevende er 75 år etter årskull. I kroner.
-G=92 576 kroner (1. mai 2016)
-Kilde: Arbeids- og velferdsdirektoratet
-
-senere, vil verdien av rettighetene over tid utgjøre
-en mindre andel av den samlede pensjonen. I motsetning til i alternativet i punkt 8.7.3, vil verdien av
-gjenlevenderettighetene aldri forsvinne helt. Men
-over tid vil det likevel oppstå et visst gap mellom
-de som er født før og de som er født i eller etter
-1944. Figur 8.13 viser verdien av gjenlevenderettighetene ved fylte 85 år for ulike årskull, gitt at
-
-personen ble gjenlevende ved 75 år, og forutsatt
-en årlig nominell lønnsvekst på 4 prosent.
-Effekt av ulike forutsetninger om nominell lønnsvekst
-Alderspensjon reguleres hvert år med lønnsvekst fratrukket 0,75 prosent. En høyere nominell lønnsvekst enn 4 prosent, slik det er lagt til
-
-Egenopptjent alderspensjon
-
-Verdi av gjenlevenderettigheter
-
-300 000
-
-300 000
-
-250 000
-
-250 000
-
-200 000
-
-200 000
-
-150 000
-
-150 000
-
-100 000
-
-100 000
-
-50 000
-
-50 000
-0
-1963
-
-1962
-
-1961
-
-1960
-
-1959
-
-1958
-
-1957
-
-1956
-
-1954
-
-1955
-
-1953
-
-1952
-
-1951
-
-1950
-
-1949
-
-1948
-
-1947
-
-1946
-
-1945
-
-1944
-
-1943
-
-1942
-
-1941
-
-1940
-
-0
-
-Figur 8.13 Alderspensjon og verdi av gjenlevenderettigheter når gjenlevende er 85 år etter årskull. I kroner.
-G=92 576 kroner (1. mai 2016)
-Kilde: Arbeids- og velferdsdirektoratet
-
-[Side 137]
-
-135
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-Nominell lønnsvekst på 2,5 prosent
-
-Kapittel 8
-
-Nominell lønnsvekst på 5,0 prosent
-
-25
-
-25
-
-20
-
-20
-
-15
-
-15
-
-10
-
-10
-
-5
-
-5
-
-0
-
-0
-67 år
-
-72 år
-
-77 år
-
-82 år
-
-87 år
-
-Figur 8.14 Verdi av gjenlevenderettigheter som andel av samlet alderspensjon ved ulik forutsetning for
-nominell årslønnsvekst etter alder. Alderspensjonist blir gjenlevende ved 75 år. Prosent
-Kilde: Arbeids- og velferdsdirektoratet
-
-grunn i beregningene, vil føre til en raskere
-reduksjon av verdien av gjenlevenderettighetene. Men dette vil på den annen side motvirkes
-av en gunstigere regulering av egenopptjent
-alderspensjon.
-Lavere lønnsvekst enn forutsatt vil derimot
-innebære at reduksjonen av verdien av gjenlevenderettighetene får en slakere profil. Dette motvirkes av en svakere regulering av egenopptjent
-alderspensjon. I tilfeller hvor lønnsveksten er
-lavere enn 0,75 prosent, vil verdien av en nominelt
-videreført gjenlevenderettighet utgjøre en økende
-andel av samlet alderspensjon.
-For å få et inntrykk av hvor sensitive resultatene er for valg av forutsetning om framtidig
-årlig nominell lønnsvekst, er det foretatt en
-beregning med en høyere lønnsvekstforutsetning (5 prosent per år) og med en lavere vekst
-(2,5 prosent per år). Verdien av gjenlevenderettighetene som andel av den totale alderspensjonen vil holde seg høyest i alternativet med lav
-nominell lønnsvekst. Forskjellen i verdien av
-gjenlevenderettighetene som andel av total alderspensjon i de to alternativene, er likevel relativt
-moderat, jf. figur 8.14.
-Virkning på folketrygdens utgifter til alderspensjon
-Budsjettframskrivninger ved bruk av MOSARTmodellen viser at også i dette alternativet vil utgiftene til gjenlevenderettigheter i alderspensjon
-fortsette å øke i noen år framover, jf. figur 8.15.
-
-Økningen vil derimot bli vesentlig lavere enn i
-videreføringsalternativet, og utgiftstoppen nås tidligere. Utgiftstoppen vil bli nådd i 2025. Deretter
-vil utgiftene avta inntil det ikke lenger betales ut
-pensjoner som er opptjent etter folketrygdloven
-kapittel 19. På slutten vil imidlertid de årlige utgiftene bli lave, både fordi det vil være få mottakere
-og fordi de vil ha en liten andel av pensjonen opptjent etter reglene i kapittel 19.
-En mer gradvis utfasing sammenlignet med
-alternativet i punkt 8.7.3 innebærer at innsparingene kommer senere, og samlet sett over tid blir
-vesentlig lavere. Innsparingene er likevel betydelige. Den årlige innsparingen når toppen rundt
-2050, hvor de framskrevne utgiftene er om lag 2,6
-milliarder 2015-kroner lavere enn i videreføringsalternativet.
-Utvalgets vurdering av alternativet
-I alle de vurderte utfasingsalternativene foreslår
-utvalget å avvikle særreglene om beregning av
-alderspensjon til gjenlevende i takt med utfasing
-av de gamle opptjeningsreglene i kapittel 19.
-Dette vil over tid bidra til å redusere kompleksiteten i pensjonssystemet. En utfasing av reglene
-over et annet tidsintervall vil ytterligere komplisere pensjonssystemet i en lang periode gjennom
-innføring av og kombinasjoner med nye, midlertidige elementer. Det vil likevel gå tid før en slik forenkling vil ha særlig effekt. 1962-kullet, som vil
-være de siste som kan få alderspensjon beregnet
-
-[Side 138]
-
-136
-
-NOU 2017: 3
-
-Kapittel 8
-
-Folketrygdens ytelser til etterlatte
-
-Videreføring
-
-Nominell videreføring av gjenlevenderettighetene fom. 1944-kullet
-
-7
-
-7
-
-6
-
-6
-
-5
-
-5
-
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-1
-
-1
-0
-
-0
-1967
-
-1977
-
-1987
-
-1997
-
-2007
-
-2017
-
-2027
-
-2037
-
-2047
-
-2057
-
-2067
-
-Figur 8.15 Utgifter til gjenlevenderettigheter i alderspensjon. Mrd. 2015-kroner
-Kilde: Statistisk sentralbyrå
-
-etter særreglene, fyller 67 år i 2029. Mange blir
-gjenlevende ved høy alder, slik at mange av de
-som er født i 1962 vil bli etterlatt lenge etter dette.
-Særreglene er ikke knyttet til kjønn. Flertallet
-av dem som har en fordel av reglene, er likevel
-fortsatt kvinner. Selv om kvinner fortsatt har
-lavere inntekt og pensjonsopptjening enn menn,
-har de fleste kvinner i dag lange yrkeskarrièrer og
-er selvforsørgende. I det nye alderspensjonssystemet gir all opptjening høyere pensjon, og ved
-innføringen av det nye regelverket ble det derfor
-gitt omsorgsopptjening med tilbakevirkende kraft.
-I tillegg gir det nye regelverket noe høyere opptjening for lave og midlere inntekter enn i gammel
-alderspensjon ved at all opptjening inntil en årlig
-inntekt på 7,1 ganger grunnbeløpet gir uttelling.
-Ettersom kvinner i gjennomsnitt har lavere inntekter enn menn, er dette trekk ved pensjonsreformen som særlig kommer kvinner til gode.
-Personer født i 1944 og senere har mesteparten av sin yrkeskarrière etter at folketrygden ble
-innført i 1967. Dette har gitt seg utslag i høyere
-gjennomsnittlige pensjoner enn for tidligere årskull. Menns pensjonsopptjening har økt gradvis
-
-for alle årskull som har vært omfattet av folketrygden. For de eldste årskullene av kvinner, som i
-stor grad var hjemmeværende, var det liten utvikling i egen opptjening inntil sysselsettingen blant
-kvinner skjøt fart på 1970-tallet. Kvinner født på
-begynnelsen av 1940-tallet og senere har hatt en
-vesentlig høyere sysselsetting og pensjonsopptjening enn de eldste årskullene.
-Ut fra hensynet til et bærekraftig pensjonssystem, en rimelig fordeling av de økonomiske byrdene mellom generasjoner og at en endring ikke
-bør slå for ulikt ut fra ett årskull til et annet, mener
-utvalget at det er rimelig at reformen får en viss
-effekt for årskull født fra og med 1944. Utvalget
-mener at dette alternativet oppfyller de sentrale
-kriteriene i mandatet for arbeidet. Alternativet vil
-støtte opp under sentrale mål ved pensjonsreformen. Insentivene til arbeid vil bedres, og på litt
-sikt vil en avvikling av særreglene bidra til mindre
-kompleksitet i pensjonssystemet. Alternativet vil
-bidra til å styrke folketrygdens finansielle stabilitet, og bidrar til god fordeling på tvers av generasjoner.
-
-[Side 139]
-
-137
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-Videreføring
-Nominell videreføring av gjenlevenderettighetene fom. 1944-kullet
-Uten gjenlevenderettigheter
-
-Kapittel 8
-
-Nominell videreføring av hele alderspensjonen fom. 1944-kullet
-Avvikling over årskullene 1954 - 1963
-
-275 000
-
-275 000
-
-250 000
-
-250 000
-
-225 000
-
-225 000
-
-200 000
-
-200 000
-
-175 000
-
-175 000
-
-150 000
-
-150 000
-
-125 000
-
-125 000
-
-100 000
-1967
-
-100 000
-1977
-
-1987
-
-1997
-
-2007
-
-2017
-
-2027
-
-2037
-
-2047
-
-2057
-
-2067
-
-Figur 8.16 Gjennomsnittlig alderspensjon for gjenlevende menn. 2015-kroner
-Kilde: Statistisk sentralbyrå
-
-8.8
-
-Utvikling i gjenlevendes
-alderspensjoner
-
-Det er forventet at antall mannlige, gjenlevende
-alderspensjonister vil øke noe framover som følge
-av mindre forskjeller i forventet levealder mellom
-kjønnene. Høyere pensjonsopptjening blant kvinner vil også bidra til at flere gjenlevende menn kan
-få høyere alderspensjon som følge av de særlige
-beregningsreglene. Likevel vil denne gruppen
-fortsatt være liten. Gjennomsnittlig alderspensjon
-for gjenlevende menn blir derfor ikke vesentlig
-påvirket av om en viderefører særreglene eller om
-reglene avvikles, jf. figur 8.16. Hvis den høye
-andelen av tidliguttak fra fylte 62 år blant menn
-fortsetter, vil det bidra til reduksjon i den årlige
-utbetalingen, uavhengig av om vedkommende er
-gjenlevende eller ikke.
-For kvinner er utviklingen annerledes, se figur
-8.17. Gjenlevende kvinners egenopptjente årlige
-alderspensjon vil fortsette å øke svakt. Kvinner tar
-i mindre grad enn menn ut alderspensjon fra 62 år.
-Nedgangen i årlig gjennomsnittsytelse på grunn
-av tidliguttak, motvirkes av stadig høyere pensjonsopptjening blant yngre kvinner.
-
-Økningen i kvinners egenopptjente alderspensjon er likevel ikke sterk nok til å forhindre at
-gjenlevende kvinner i gjennomsnitt vil ha lavere
-pensjon enn gjenlevende menn på det tidspunkt
-særreglene er faset ut. Framskrivningene illustrerer imidlertid at nedgangen i gjennomsnittlig årlig
-alderspensjon for gjenlevende kvinner relativt sett
-vil være mindre enn for menn, trass i utfasingen
-av særreglene. En sammenligning av gjennomsnittlig årlig alderspensjon inkludert verdien av
-gjenlevenderettigheter i 2020 med egenopptjent
-alderspensjon i 2060, viser at menns gjennomsnittlige alderspensjon vil falle med 17 prosent, mens
-den vil falle med 12 prosent for kvinner. Bak gjennomsnittsbeløpene vil det skjule seg ulike individuelle historier, slik at utslagene på individnivå
-kan bli både større og mindre.
-For eldre årskull, hvor gifte kvinner ofte hadde
-mange år helt eller delvis ute av arbeidslivet, er
-gjennomsnittlig alderspensjon for gifte kvinner
-vesentlig lavere enn for enslige kvinner, se figur
-8.18. All opptjening, både etter folketrygdloven
-kapittel 19 og 20, er her omregnet til pensjonsbeholdning for å få sammenlignbare tall. Høyere
-yrkesdeltaking blant gifte kvinner og innføring av
-
-[Side 140]
-
-138
-
-NOU 2017: 3
-
-Kapittel 8
-
-Folketrygdens ytelser til etterlatte
-
-Videreføring
-Nominell videreføring av gjenlevenderettighetene fom. 1944-kullet
-Uten gjenlevenderettigheter
-
-Nominell videreføring av hele alderspensjonen fom. 1944-kullet
-Avvikling over årskullene 1954 - 1963
-
-275 000
-
-275 000
-
-250 000
-
-250 000
-
-225 000
-
-225 000
-
-200 000
-
-200 000
-
-175 000
-
-175 000
-
-150 000
-
-150 000
-
-125 000
-
-125 000
-
-100 000
-1967
-
-100 000
-1977
-
-1987
-
-1997
-
-2007
-
-2017
-
-2027
-
-2037
-
-2047
-
-2057
-
-2067
-
-Figur 8.17 Gjennomsnittlig alderspensjon for gjenlevende kvinner. 2015-kroner
-Kilde: Statistisk sentralbyrå
-
-omsorgsopptjening har bidratt til at denne forskjellen er kraftig redusert. Framskrivningene kan tyde
-på at for nye alderspensjonister noen år fram i tid er
-det liten forskjell på den egenopptjente alderspensjonen for gifte og enslige kvinner på samme alder.
-
-Gift/samboende eller etterlatt
-
-De som er født i 1963 er det første årskullet
-som har all sin opptjening fra reglene i folketrygdloven kapittel 20, og som ikke vil få noen gjenlevenderettigheter etter noen av de avviklingsmodellene utvalget har vurdert. Mesteparten av
-
-Enslig, skilt eller separert
-
-3 400 000
-
-3 400 000
-
-3 200 000
-
-3 200 000
-
-3 000 000
-
-3 000 000
-
-2 800 000
-
-2 800 000
-
-2 600 000
-
-2 600 000
-
-2 400 000
-
-2 400 000
-
-2 200 000
-2 200 000
-1943 1944 1945 1946 1947 1948 1949 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963
-
-Figur 8.18 Gjennomsnittlig egenopptjent pensjonsbeholdning for kvinner etter årskull og sivilstand. I kroner.
-G=91 740 kroner (gjennomsnitt 2016)
-Kilde: Arbeids- og velferdsdirektoratet
-
-[Side 141]
-
-NOU 2017: 3
-Folketrygdens ytelser til etterlatte
-
-økningen i kvinners yrkesdeltaking er faset inn
-for dette årskullet. Framskrivningene viser at det
-er få kvinner fra dette årskullet som forventes å
-ende opp med liten eller ingen pensjonsopptjening. De som får lav opptjening, er gjennomgående gift eller samboende med menn med vesentlig lavere pensjonsopptjening enn gjennomsnittet
-for menn. Selv om man skulle ha valgt videreføringsalternativet med særlige beregningsregler
-for gjenlevende i ny alderspensjon, ville verdien av
-eventuelle gjenlevenderettigheter i disse tilfellene bli lave.
-
-8.9
-
-Oppsummering av utvalgets
-anbefalinger
-
-I punkt 8.1 er det gitt en oversikt over forhold
-utvalget har lagt vekt på i sine vurderinger av
-behovet for gjenlevenderettigheter i alderspensjon i framtiden. Utvalget har lagt vekt på fordeling og likebehandling både innenfor og på tvers
-av generasjoner, arbeidsinsentiver, muligheter til
-på sikt å forenkle regelverket og behovet for å
-styrke pensjonssystemets finansielle bærekraft for
-å møte den demografiske utviklingen. Det har
-også vært viktig for utvalget å sette forslagene inn
-i en overordnet ramme. Et tildelingsprinsipp
-basert på å sikre inntekt ved tap av forsørger er
-vurdert opp mot stimulering til egen opptjening
-gjennom inntektsgivende arbeid. Et tildelingsprinsipp basert på avledede rettigheter er vurdert opp
-mot prinsippet om individuelle rettigheter.
-De ulike alternativene som er gjennomgått i
-dette kapitlet viser at innføring av særlige beregningsregler i ny alderspensjon for gjenlevende vil
-være kostbart, og det er vanskelig å finne fram til
-løsninger som har gode fordelingseffekter. Modning av pensjonssystemet har bidratt til at gjennomsnittlige alderspensjoner har økt. Nivået på
-minstesikringen er dessuten vesentlig forbedret.
-Kvinners økte sysselsetting har bidratt til høyere
-egenopptjent alderspensjon. Det er videre innført
-
-139
-
-Kapittel 8
-
-pensjonsopptjening for ubetalt omsorgsarbeid.
-Kvinner som gruppe får dermed stadig høyere
-pensjoner opptjent gjennom egne, individuelle rettigheter. Ytelser som er avledet av ektefellens inntekt og pensjonsopptjening reduserer insentivene
-til yrkesdeltaking og egen opptjening. Utvalget vil
-derfor ikke foreslå et alternativ med videreføring
-av særlige beregningsregler basert på en kombinasjon av gjenlevendes og avdødes opptjening,
-men vil heller gå inn for en gradvis utfasing. En
-slik gradvis avvikling vil på sikt bidra til et enklere
-regelverk, selv om det tar lang tid før alle utbetalinger er avsluttet.
-Utvalget mener det er mest hensiktsmessig at
-utfasing skjer samtidig med utfasingen av gamle
-opptjeningsregler i folketrygdloven kapittel 19.
-Dette skjer gradvis for årskull født fra 1954 til
-1962. Det vil si at det kun er pensjonsopptjening
-etter kapittel 19 som kan gi gjenlevenderettigheter. Samtidig legges det vekt på at mange av
-dagens pensjonister har hatt sin opptjening etter
-et regelverk som har gitt dem bedre ytelser enn
-det som vil være tilfelle for framtidige generasjoner. Alt i alt mener utvalget at det er argumenter
-for å fordele effekten av reformen over ulike generasjoner. Det innebærer at større innsparinger
-kan oppnås raskere, noe som kan bidra til å styrke
-pensjonssystemets finansielle bærekraft.
-Hensynet til likebehandling mellom personer
-født på ulike tidspunkt og mellom personer fra
-ulike årskull som blir etterlatte samtidig, taler
-etter utvalgets vurdering for å la reformen ha
-effekt fra og med 1944-årskullet. De klart største
-innsparingene ville oppnås ved en nominell videreføring av samlet pensjon inntil den når nivået for
-den egenopptjente pensjonen. Hensynet til likebehandling må imidlertid balanseres slik at personer
-fra årskull som har hatt mer begrensede muligheter til pensjonsopptjening, ikke kommer urimelig
-dårlig ut. Utvalget foreslår derfor at særreglene
-avvikles gradvis for årskullene 1954–1962, og at
-verdien av gjenlevenderettighetene for alle som er
-født i 1944 og senere videreføres nominelt.
+*Inntektsavkortning*

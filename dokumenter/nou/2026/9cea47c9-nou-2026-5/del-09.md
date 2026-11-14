@@ -1,2721 +1,384 @@
-# NOU 2026: 5, del 9 av 14 (side 161–179)
+# NOU 2026: 5, del 9 av 31
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/9cea47c9-nou-2026-5.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-5/id3155079/
 - Original-PDF: https://www.regjeringen.no/contentassets/ff40476a92434880bcad7f8ec8d2b31e/no/pdfs/nou202620260005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 109 tabeller, 76 figurer, 12002 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 161]
+# Internasjonal økonomi
 
-prosent fra 2024 til 2025, mens veksten i reallønn etter skatt var på 1,7 prosent. Veksten i reallønn
-etter skatt innen de store forhandlingsområdene var fra 1,4 til 1,8 prosent.
-Tabell 10.2 Reallønnsvekst etter skatt for typeeksempler i utvalgte
-forhandlingsområder.1 Vekst i prosent
-2024
+- Veksten i verdensøkonomien holdt seg oppe gjennom fjoråret til tross for stor uro internasjonalt.
 
-Årslønn i
-20252, kr
+- IMF oppjusterte i januar vekstanslagene for globalt BNP i 2025 med 0,1 prosentpoeng til 3,3 prosent. Handels- og geopolitiske spenninger ble motvirket av teknologidrevet investeringsvekst og av en mer ekspansiv penge- og finanspolitikk.
 
-Grupper
-Industriarbeidere
+- Usikkerheten i verdensøkonomien har økt etter krigsutbruddet i Midtøsten i slutten av februar. Hormuzstredet, der rundt 20 prosent av verdens olje sendes igjennom, har siden angrepet vært tilnærmet stengt for skipsfart. Det har bidratt til en markert oppgang og store svingninger i olje- og gasspriser. Internasjonale børsindekser har variert noe, men jevnt over falt. Lange renter har trukket opp. Det indikerer at krigen i Midtøsten vil fortsette å være et betydelig usikkerhetsmoment i tiden framover.
 
-637 400
+- I januar kom president Trump med utspill om Grønland og økt toll mot Europa. Usikkerheten rundt toll ble tatt noe ned etter at USAs Høyesterett 20. februar slo fast at presidenten ikke har fullmakt til å innføre toll med hjemmel i IEEPA. USA har nå i stedet innført 10 prosent toll på import fra alle land.
 
-Vekst i
-reallønn
-etter
-Lønnsvekst2
-skatt
-5,7
-2,6
+- Inflasjonen var mer stabil gjennom fjoråret etter å ha gått ned de to foregående årene. Inflasjonen er nær eller på målet i flere økonomier, men ligger fortsatt en del over målet i viktige land som Storbritannia og USA.
 
-2025
+- Foreløpige nasjonalregnskapstall viser at den økonomiske aktiviteten hos Norges 25 viktigste handelspartnere steg med 1,8 prosent i 2025. Siste tilgjengelige anslag fra OECD og IMF pekte mot en vekst i BNP hos våre handelspartnere på 2,0 prosent i år, men hendelsene den senere tid peker mot en nedjustering av anslagene. Til sammenlikning var veksten hos våre handelspartnere 2,4 prosent som gjennomsnitt for årene 2011–2019, altså i perioden mellom den internasjonale finanskrisen og pandemien.
 
-Vekst i
-reallønn
-Lønnsvekst2 etter skatt
-4,9
-1,8
+## Utviklingen i internasjonal økonomi den senere tid
 
-Industrifunksjonærer
+De siste årene har vært preget av mye uroligheter. Koronapandemien, krig i Europa og økte energi- og matvarepriser trakk inflasjon og renter opp og dempet den økonomiske veksten. Sentralbankene økte sine styringsrenter godt inn i 2023. Etter å ha nådd toppen i 2022, avtok inflasjonen til rundt to prosent mot slutten av 2024. I fjor var inflasjonen mer stabil i mange økonomier. Styringsrentene er også blitt satt ned. Presidentskiftet i USA i januar i fjor bidro til økt usikkerhet, blant annet om rammevilkårene for internasjonal handel. Selv om fjoråret var preget av mye uro, viste den økonomiske aktiviteten seg motstandsdyktig og veksten holdt seg oppe. Arbeidsledigheten ligger fortsatt på historisk sett nokså lave nivåer hos flere av våre viktigste handelspartnere, samtidig som sysselsettingsandelen er høy.
 
-1 005 700
+Foreløpige nasjonalregnskapstall viser en oppgang i bruttonasjonalproduktet i USA på 2,2 prosent fra 2024 til 2025, ned fra en vekst på 2,8 prosent året før. For euroområdet var det en oppgang på 1,4 prosent fra 2024 til 2025. Disse anslagene er basert på begrenset informasjon og blir erfaringsmessig revidert. I Tyskland, der BNP falt i 2023 og 2024, var det svak positiv vekst i 2025. Aktivitetsutviklingen i den energiintensive industrien var svak og blir fortsatt påvirket av høye energipriser, mens privat konsum ser ut til å ha tatt seg opp det siste året. Også i Storbritannia tok veksten seg opp i fjor. I Frankrike gikk veksten litt ned fra 2024 til 2025 blant annet som følge av usikkerhet både innenlands og internasjonalt som trolig har utsatt konsum- og investeringsbeslutninger. I Sverige tok veksten seg opp gjennom fjoråret. Økt reallønn sammen med nedgang i inflasjonen gjennom andre halvdel av fjoråret bidro til å trekke opp privat konsum.
 
-4,7
+Bruttonasjonalprodukt (BNP). Indeks 4. kvartal 2019=100
 
-1,5
+Kilder: OECD, Eurostat, Statistics Sweden (SCB) og U.S. Bureau of Economic Analysis (BEA)
 
-4,9
+Beholdningen av ledige stillinger i USA lå nokså stabilt fra høsten 2024 til høsten 2025, etter en klar nedgang i etterkant av pandemien. De siste månedene har ledige stillinger falt litt igjen. Antall arbeidsledige per ledige stilling har tatt seg litt opp, til i overkant av 1, som er litt høyere enn nivåene før pandemien. Veksten i antall sysselsatte har avtatt siden begynnelsen av 2022. Fra 4. kvartal 2024 til 4. kvartal 2025 økte sysselsettingen med 0,2 prosent. I euroområdet økte antall sysselsatte med 0,6 prosent fra 4. kvartal 2024 til 4. kvartal 2025. Veksten i antall sysselsatte har vært avtagende siden 1. kvartal 2023. Både Frankrike og Tyskland trekker ned, med om lag nullvekst i sysselsettingen gjennom fjoråret.
 
-1,6
+I OECD-området var yrkesdeltakelsen og sysselsettingsandelen for aldersgruppen 15–64 år på historisk sett høye nivåer, henholdsvis 74,1 og 70,3 prosent i 3. kvartal 2025. Yrkesdeltakelsen var 68,8 prosent for kvinner og 80,9 prosent for menn. I USA har yrkesdeltakelsen flatet ut det siste året, mens sysselsettingsandelen har gått noe ned.
 
-Ansatte i Virkebedrifter i varehandel
+Arbeidsledigheten (AKU) i OECD-området har ligget på eller like under 5,0 prosent siden våren 2022. Mens ledigheten har avtatt i EU de siste fire årene, har den steget noe i Sverige, Storbritannia og USA, til hhv. 8,0, 5,2 og 4,4 prosent rundt årsskiftet, jf. figur 5.2.
 
-690 600
+Arbeidsledighet (AKU) i prosent av arbeidsstyrken
 
-5,1
+Kilde: OECD
 
-2,1
+I USA har lønnsveksten avtatt, til en 12-månedersvekst i timelønningene på 3,8 prosent i februar, mot 4,1 prosent ett år tidligere. Den europeiske sentralbankens (ECB) lønnsindikator (forhandlede lønnsavtaler) viser at lønnsveksten i euroområdet var 2,9 prosent i 4. kvartal 2025, mot 4,2 prosent ett år tidligere. Lønnsveksten har avtatt det siste året, etter å ha økt i 2022–2024.
 
-4,4
+Tolvmånedersvekst i konsumpriser. Prosent
 
-1,4
+Kilder: Eurostat og U.S. Bureau of Labor Statistics (BLS)
 
-Statsansatte
+Etter å ha falt gjennom 2023 og 2024, holdt inflasjonen hos våre viktigste handelspartnere seg mer stabil gjennom fjoråret, se figur 5.3. For euroområdet holdt den harmoniserte konsumprisindeksen seg rundt 2 prosent gjennom store deler av fjoråret og inflasjonen var i februar i år 1,9 prosent. I USA varierte inflasjonen målt ved konsumprisindeksen mellom 2,3 prosent og 3,0 prosent gjennom 2025, og var i februar i år 2,4 prosent. Hvis en holder mat og energi utenom, ofte omtalt som underliggende inflasjon eller kjerneinflasjon, var veksten i euroområdet 2,4 prosent i februar i år og i USA 2,5 prosent, jf. figur 5.4. I Storbritannia tok prisveksten seg opp mot slutten av 2024 og første halvdel av 2025 og nådde en topp på 3,9 prosent i juli i fjor. Siden har prisveksten gått noe ned og var i januar i år 3,0 prosent.
 
-786 400
+Krigen i Midtøsten har bidratt til en markert oppgang i olje- og gasspriser. Spotprisen på olje lå rundt 70 dollar per fat før krigsutbruddet og økte til nærmere 120 dollar per fat på sitt høyeste. Siden har den avtatt igjen og var rundt 112 dollar per fat 19. mars. Gassprisen har økt mer, med en nesten dobling i dagene etter angrepet, og spotprisen var rundt 60 EUR/Mwh (TTF) 19. mars. Den kraftige oppgangen må blant annet ses i sammenheng med at Qatars største anlegg for produksjon av LNG (Ras Laffan) ble stengt etter et iransk droneangrep. Se også omtale i kapittel 3.1.
 
-5,4
+Tolvmånedersvekst i konsumpriser utenom mat- og energivarer. Prosent
 
-2,2
+Kilder: Eurostat og U.S. Bureau of Labor Statistics (BLS)
 
-4,8
+Lavere prisvekst har gitt rom for lavere renter, og siden begynnelsen av 2024 har sentralbankene i USA, eurosonen, Storbritannia og Sverige i gjennomsnitt kuttet sine signalrenter med 1,9 prosentpoeng, ned mot antatte normalnivåer. I euroområdet har styringsrenten ligget på 2 prosent siden sommeren i fjor, se figur 5.5. I USA holdt Federal Reserve styringsrenten uendret i intervallet 3,5–3,75 på rentemøtene i januar og mars i år, etter å ha satt ned renten tre ganger i løpet av fjoråret.
 
-1,7
+Styringsrenter. Prosent
 
-Kommuneansatte
+Kilder: Den europeiske sentralbanken (ECB), Federal Reserve (Fed), Bank of England (BoE), Riksbanken og Norges Bank
 
-674 300
+Renten på amerikanske statsobligasjoner med 10 års løpetid, som er referanse for en rekke finansielle størrelser globalt, holdt seg relativ stabil gjennom fjoråret med en liten nedgang gjennom høsten. Det må ses i sammenheng med forventninger om lavere rente fra Fed. I Europa holdt lange renter seg stabile gjennom store deler av fjoråret. Det er noen forskjeller mellom landene. I Frankrike har lange renter trukket litt opp. Det kan ses i sammenheng med budsjetturo i landet. Rentedifferansen mellom tyske og franske tiårs statsobligasjoner gikk også opp gjennom fjoråret. For flere andre europeiske land fortsatte rentedifferansene å avta i det europeiske statsgjeldsmarkedet gjennom fjoråret. I markedet pekes det på flere mulige årsaker til rentekonvergensen internt i euroområdet, blant annet lavere gjeldsgrad for flere av de gjeldstyngede eurolandene i sør. Krigsutbruddet i Midtøsten har ført til at lange renter har økt, etter en liten nedgang i begynnelsen av året.
 
-5,4
+De siste årene har omfattende offentlige støttetiltak overfor husholdninger og bedrifter som følge av blant annet pandemien og økte energipriser bidratt til store budsjettunderskudd og økt offentlig gjeld. I tillegg har forsvarsutgiftene økt i flere land. I USA økte den offentlige gjelden fra 109 prosent av BNP i 2019 til 125 prosent av BNP i 2025, i EU fra 84 til 88 prosent. Samtidig har mange land fremdeles betydelige underskudd i offentlige finanser. Budsjettunderskuddet i USA i fjor tilsvarte 5,9 prosent av BNP, mens for euroområdet anslås underskuddet til 3,2 prosent av BNP. Mange land har behov for å styrke offentlige finanser, både for å være bedre rustet til framtidige sjokk, og for å kunne møte økte behov knyttet til demografiske endringer, forsvar og grønn omstilling.
 
-2,3
+Offentlig gjeld. Prosent av BNP
 
-4,6
+Kilde: IMF
 
-1,6
+## De økonomiske utsiktene
 
-Lønnstaker med
-gjennomsnittlig
-årslønn3
+OECD kom i desember 2025 (Economic Outlook) og IMF i januar 2026 (World Economic Outlook Update) med oppdaterte anslag for verdensøkonomien. IMFs rapport har kun anslag for utvalgte land. I det følgende benyttes OECDs anslag fra desember supplert med IMFs anslag fra januar for de landene IMF har kommet med nye anslag for. Både OECD og IMF legger til grunn gjeldende politikk i sine anslag. Konsekvensene av krigen i Midtøsten er ikke med i anslagene og det er grunn til å tro at de vil bli nedjustert ved neste publisering. Anslagene omtales kort nedenfor, se også tabell 5.1.
 
-746 700
+Mens OECD ventet at verdensøkonomien skal vokse med 2,9 prosent i 2026 og 3,1 prosent i 2027, ventet IMF en vekst på hhv. 3,3 og 3,2 prosent. Det er store forskjeller mellom land og regioner når det gjelder den økonomiske utviklingen. For fremvoksende økonomier, som blant annet inkluderer Kina og India, ble veksten ventet å holde seg i overkant av 4 prosent. For de avanserte økonomiene ble det ventet en vekst på i underkant av 2 prosent. Ifølge OECD ble veksten understøttet av at effektene av økte tollsatser avtok samtidig som de finansielle forholdene bedret seg og lavere inflasjon økte kjøpekraften og forbruket.
 
-5,6
+Basert på OECD og IMFs tall steg BNP for Norges 25 viktigste handelspartnere med 1,8 prosent i 2025, og tallene indikerte en vekst på 2,0 prosent i 2026 og 1,9 prosent 2027.
 
-2,3
+Årlig BNP-vekst i USA ble anslått å øke fra 2,2 prosent i fjor til 2,4 prosent i år. Ifølge IMF ble veksten støttet opp av finanspolitikken og lavere styringsrente samtidig som virkningene av høyere handelsbarrierer gradvis avtok. For 2027 ble veksten anslått til 2,0 prosent. Til sammenlikning var veksten 2,4 prosent som gjennomsnitt for årene 2011–2019.
 
-4,9
+I euroområdet ble BNP-veksten anslått til 1,3 prosent i 2026 og 1,4 prosent i 2027. IMF trakk frem at økninger i offentlige utgifter, særlig i Tyskland sammen med fortsatt sterk utvikling i Irland og Spania, trakk veksten litt opp neste år. De regnet også med at euroområdet i mindre grad ville dra nytte av den teknologidrevne investeringsboomen enn andre regioner. Industriproduksjonen i Europa ble fortsatt påvirket negativt av den langvarige oppgangen i energipriser som følge av Russlands invasjon av Ukraina.
 
-1,7
+I Kina ble veksten anslått å avta fra 5,0 prosent i 2025 til 4,5 prosent i 2026 og 4,0 prosent i 2027. Dempet forbrukeretterspørsel, svakt investeringsbilde og dempet eksport bidro til å trekke ned veksten. Til sammenlikning var veksten 7,3 prosent som gjennomsnitt for årene 2011–2019.
 
-t
-u
-g
+Inflasjonen ble ventet å holde seg stabil eller falle noe framover. I USA ble det ventet at de økte tollsatsene gradvis ville slå gjennom i inflasjonen, før kjerneinflasjonen nådde målet på 2 prosent i løpet av 2027. I euroområdet ble inflasjonen ventet å holde seg rundt 2 prosent.
 
-e
-v
-ga
+Styringsrentene ble gradvis satt ned gjennom fjoråret, men i en litt lavere takt enn i 2024. Framover ventes det nå renteøkninger, men i litt ulikt tempo.
 
-Lønnstakere med gjennomsnittlig årslønn, årslønnsvekst og standard fradrag.
-Tallene er hentet fra tabell 1.1. og tabell 2.1. Gjennomsnittlig årslønn på 746 700 kroner i 2025 er beregnet av utvalget
-fra siste nivåanslag fra SSB og årlig vekst deretter.
-3
-Typeeksempel for lønnstaker som har standard fradrag og lønn lik gjennomsnittlig årslønn.
-1
-2
+Vekst i BNP for verden og Norges 25 viktigste handelspartnere<sup>1</sup>
 
-i
-p
+<sup>1</sup> BNP-veksten hos Norges handelspartnere er vektet sammen med eksportvekter fra 2025, som er basert på handelsstatistikk fra SSB for eksport av fastlandsvarer til ulike land, se tabell 5.2.
 
-ø
-l
-re
+Kilder: OECD, IMF og Beregningsutvalget
+
+Det er atskillig usikkerhet knyttet til anslagene og den økonomiske utviklingen videre, særlig på nedsiden. Betingelsene for internasjonal handel kan endres fort, og usikkerheten om det transatlantiske samarbeidet har økt.
+
+Etter at OECD og IMF kom med anslag, har krigsutbruddet i Midtøsten bidratt til ny uro internasjonalt. Det er stor usikkerhet om den videre utviklingen i Midtøsten. Hvor store konsekvensene blir, vil avhenge av hvor lenge konflikten vil vare og hvor omfattende den blir. Dersom uroen skulle vedvare, kan økte energipriser gi økt inflasjon og lavere økonomisk vekst.
+
+Så langt fremstår utslagene i verdensøkonomien av økt amerikansk toll som overraskende små, men trolig har vi ikke sett de fulle effektene ennå. Det kan blant annet skyldes at bedrifter har forskuttert økte kostnader ved å importere varer tidligere enn de ellers ville gjort. Handelsrestriksjoner vil kunne føre til høyere importpriser og økte produksjonskostnader, som igjen vil føre til lavere vekst både i USA og i resten av verden. Trolig er president Trumps mulighet til å innføre tollsatser blitt mindre etter avgjørelsen i USAs Høyesterett som kom 20. februar i år. Dommen fjernet blant annet det rettslige grunnlaget for den landspesifikke «gjensidighetstollen» pålagt nesten alle verdens land i april i fjor. Trump-administrasjonen har etter dommen innført 10 prosent toll på import fra alle land, med mulighet for økning til 15 prosent. Denne tollsatsen er begrunnet med en lovhjemmel som begrenser varigheten til 150 dager før Kongressen må godkjenne eventuell videreføring.
+
+De faktiske produktivitetseffektene av teknologiinvesteringene den senere tiden, trekkes også frem av IMF som et usikkerhetsmoment. Dersom forventningen til produktivitetsgevinstene viser seg å være for optimistiske og resultatene skuffer, kan det føre til et kraftig fall i investeringene i denne sektoren og gi en mer langvarig korreksjon i aksjemarkedet. Det kan også komme en reprising i finansmarkedene dersom inflasjonen blir høyere enn ventet og pengepolitikk blir mer restriktiv. Uventet annonsering av ny politikk kan også gi store utslag i finansmarkedene.
+
+Høy statsgjeld i mange land, er også en kilde til usikkerhet. Den høye og økende gjelden kan indikere at flere land har en innretning av offentlig finanser som ikke vil kunne opprettholdes over tid. De høye gjeldsnivåene begrenser myndighetenes evne til å finansiere offentlige utgifter og føre en aktiv finanspolitikk i økonomiske nedgangstider. Gjelden er høy i EU. Med svak økonomisk vekst, en utfordrende demografisk utvikling og offentlige finanser i ulage i mange land, står EU overfor krevende utfordringer.
+
+På den positive siden kan mindre politisk og geopolitisk usikkerhet og avtaler om lavere tollsatser fra dagens nivå styrke veksten. Veksten i Europa har også tatt seg opp samtidig som inflasjonen har kommet ned og ligger nå rundt inflasjonsmålet til ECB.
+
+Internasjonale hovedtall. Prosentvis endring fra året før
+
+14J3xt2
+
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 7%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
+<col style="width: 7%" />
+<col style="width: 6%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
+<col style="width: 7%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="5" style="text-align: center;">Bruttonasjonalprodukt</td>
+<td style="text-align: center;"></td>
+<td colspan="3" style="text-align: center;">Konsumprisindeksen<sup>1</sup></td>
+<td style="text-align: center;"></td>
+<td colspan="3" style="text-align: center;">Arbeidsledighet (nivå)</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">2025*</td>
+<td colspan="3" style="text-align: center;">2026</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2025*</td>
+<td colspan="2" style="text-align: center;">2026</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2025*</td>
+<td colspan="2" style="text-align: center;">2026</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">OECD<sup>2</sup></td>
+<td style="text-align: right;">IMF<sup>3</sup></td>
+<td style="text-align: right;">CF<sup>4</sup></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">OECD<sup>2</sup></td>
+<td style="text-align: right;">CF<sup>4</sup></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">OECD<sup>2</sup></td>
+<td style="text-align: right;">CF</td>
+</tr>
+<tr>
+<td>Euroområdet</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">6,4</td>
+<td style="text-align: right;">6,3</td>
+<td style="text-align: right;">6,2</td>
+</tr>
+<tr>
+<td>Tyskland</td>
+<td style="text-align: right;">-0,5</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">3,6</td>
+<td style="text-align: right;">6,3</td>
+</tr>
+<tr>
+<td>Frankrike</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">7,6</td>
+<td style="text-align: right;">7,7</td>
+<td style="text-align: right;">7,8</td>
+</tr>
+<tr>
+<td>Spania</td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">10,5</td>
+<td style="text-align: right;">10,1</td>
+<td style="text-align: right;">9,9</td>
+</tr>
+<tr>
+<td>Italia</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">6,2</td>
+<td style="text-align: right;">6,0</td>
+<td style="text-align: right;">5,7</td>
+</tr>
+<tr>
+<td>Sverige</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">8,9</td>
+<td style="text-align: right;">8,6</td>
+<td style="text-align: right;">-</td>
+</tr>
+<tr>
+<td>Storbritannia</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">3,4</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">5,3</td>
+</tr>
+<tr>
+<td>USA</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">4,5</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td style="text-align: right;">-0,2</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">0,9</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;">2,5</td>
+</tr>
+<tr>
+<td>Kina</td>
+<td style="text-align: right;">5,0</td>
+<td style="text-align: right;">5,0</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-0,1</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">-</td>
+</tr>
+<tr>
+<td>Norges handelspartnere<sup>5</sup></td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">2,0<sup>6</sup></td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+</tbody>
+</table>
+
+\* Foreløpige nasjonalregnskapstall der det foreligger ellers IMFs eller OECDs siste anslag.
+
+<sup>1</sup> Prisveksten i Tyrkia er høy, 34,9 prosent i fjor, og OECD anslår prisveksten til 20,8 prosent i inneværende år. Det innebærer at Tyrkia trekker opp prisveksten hos våre handelspartnere. Konsumprisveksten hos våre handelspartnere ekskludert Tyrkia for inneværende år anslås til 1,8 prosent.
+
+<sup>2</sup> OECD Economic Outlook, December 2025
+
+<sup>3</sup> IMF World Economic Outlook, Update, January 2026. Rapporten har kun anslag for utvalgte land.
+
+<sup>4</sup> Consensus Forecast, mars 2026. Rapporten har kun anslag for utvalgte land.
+
+<sup>5</sup> For konsumprisindeksen er handelspartneraggregatet vektet med importvekter.
+
+<sup>6</sup> Basert på tall fra OECD og IMF (der tall foreligger).
+
+Kilder: IMF, OECD og Beregningsutvalget
+
+Norges 25 viktigste handelspartnere målt ved eksportvekter<sup>1</sup> (fastlandsvarer). Prosent
+
+05J1xx2
+
+|               |      |     |           |      |
+|---------------|-----:|-----|-----------|-----:|
+|               | Vekt |     |           | Vekt |
+| Nederland     |  8,1 |     | Brasil    |  1,6 |
+| Sverige       |  9,1 |     | Finland   |  1,5 |
+| USA           |  8,8 |     | Japan     |  1,4 |
+| Storbritannia |  9,6 |     | Tyrkia    |  0,9 |
+| Tyskland      |  8,6 |     | Litauen   |  1,0 |
+| Danmark       |  6,0 |     | Canada    |  1,1 |
+| Polen         |  5,0 |     | Sveits    |  0,9 |
+| Kina          |  5,5 |     | Romania   |  0,6 |
+| Belgia        |  2,7 |     | Østerrike |  0,6 |
+| Frankrike     |  2,7 |     | Tsjekkia  |  0,5 |
+| Spania        |  2,7 |     | Taiwan    |  0,3 |
+| Italia        |  2,7 |     | Russland  |  0,1 |
+| Sør-Korea     |  1,7 |     |           |      |
+
+<sup>1</sup> BNP-veksten hos Norges handelspartnere er vektet sammen med eksportvekter fra 2025, som er basert på handelsstatistikk fra SSB for eksport av fastlandsvarer til ulike land. Summerer seg ikke til 100 da dette kun er et utvalg land. Eksportvektene avviker fra konkurransevektene som brukes i kapittel 8, der både omfanget av eksport og import inngår i vektgrunnlaget, se omtale i boks 8.1. Forskjellen skyldes at utvalget i dette kapitlet ønsker å fange opp utviklingen i de norske eksportmarkedene, mens kapittel 8 presenterer tall som skal reflektere utviklingen i konkurranseflaten til norsk næringsliv i eksport- og hjemmemarkedet.
 
 Kilder: Statistisk sentralbyrå og Beregningsutvalget
-
-Beregningsutvalget har også sett på kjøpekraftsutviklingen for ulike husholdningstyper. I tabell 10.3
-har en beregnet utvikling i realinntekt for lønnstakere med en lønnsinntekt på henholdsvis 350 000
-kroner, 600 000 kroner, 700 000 kroner, 1 200 000 og 1 800 000 kroner. Beregningene er utført for
-enslige lønnstakere uten barn, med ett barn og med to barn, og for ektepar med to barn. Resultatene
-er avhengige av forutsetningene som er valgt. De generelle forutsetningene for beregningene er
-nærmere omtalt i boks 10.1.
-
-o
-F
-
-159
-
-[Side 162]
-
-Tabell 10.3 Beregnet vekst i reallønn1 etter skatt for utvalgte lønnstakerhusholdninger
-med en lønnsvekst lik årslønnsveksten i alt. Vekst i prosent
-Lønnsinntekt i
-2025 (kr)
-
-Familiesituasjon
-
-350 000
-
-Enslig lønnstaker uten barn
-
-2,4
-
-1,8
-
-Enslig lønnstaker med 1 barn
-
-3,5
-
-2,1
-
-Enslig lønnstaker med 2 barn
-
-4,7
-
-2,9
-
-600 000
-
-Enslig lønnstaker uten barn
-
-2,5
-
-1,8
-
-700 000
-
-Enslig lønnstaker uten barn
-
-2,5
-
-1,8
-
-Enslig lønnstaker med 1 barn
-
-3,2
-
-2,0
-
-Enslig lønnstaker med 2 barn
-
-3,9
-
-2,5
-
-e
-v
-ga
-
-1 200 000
-
-2024 2025
-
-Ektepar med to barn, hvor den ene ektefellen tjener 450 000 kr
-og den andre 250 000 kr
-
-3,9
-
-2,7
-
-Enslig lønnstaker uten barn
-
-2,2
-
-1,6
-
-2,7
-
-1,7
-
-3,2
-
-2,1
-
-Ektepar med to barn, hvor den ene ektefellen tjener 800 000 kr
-og den andre 400 000 kr
-
-3,3
-
-2,3
-
-Ektepar med to barn, hvor den ene ektefellen tjener 1 200 000
-kr og den andre 600 000 kr
-
-3,0
-
-2,1
-
-5,6
-
-4,9
-
-Enslig lønnstaker med 1 barn
-Enslig lønnstaker med 2 barn
-
-1 800 000
-
-Nominell lønnsvekst2
-
-o
-F
-
-g
-i
-p
-
-ø
-l
-re
-
-ut
-
-For husholdningstyper med barn legges det til grunn at barna er mellom 6 og 18 år gamle.
-2
-Lønnsutviklingen slik den framkommer av kolonnen «Årslønn påløpt» i tabell 2.1.
-1
-
-Kilder: Statistisk sentralbyrå og Beregningsutvalget
-
-Utvalget har i beregningene i tabell 10.3 lagt til grunn en lønnsvekst på 5,6 prosent for 2024 og 4,9
-prosent for 2025, slik det framkommer i SSBs statistikk for påløpt årslønn. Sammen med prisvekst
-på 3,1 prosent både i 2024 og 2025, gir det en reallønnsvekst før skatt på 2,4 prosent i 2024 og 1,8
-prosent i 2025. Veksten i reallønn etter skatt for typeberegningene avviker fra dette som følge av
-endringer i skattereglene og barnetrygden. Lavere priser for barnehager/SFO fører til redusert vekst
-i konsumprisindeksprisen for alle, men vil først og fremst ha betydning for de med barn i
-barnehage/SFO.
-I 2025 ble satsene i trinnskatten på trinn 1 og 2 holdt uendret, mens innslagspunktene ble økt med
-4,5 prosent. Siden veksten i innslagspunktet var lavere enn lønnsveksten på 5 prosent førte det
-isolert sett til økt skatt. Skattesatsen i trinn 3-5 ble økt med 0,1 prosentpoeng. Innslagspunktene ble
-økt med 4,1 prosent i trinn 3, 0,5 prosent i trinn 4 og 4,5 prosent i trinn 5. Lavere vekst i
-innslagspunktene i trinnskatten enn i lønnsveksten bidrar til økt skatt.
-Øvre grense i minstefradraget for lønnsinntekter ble redusert med 11,9 prosent fra 2024 til 2025,
-noe som virker innstrammende på lønn etter skatt. Personfradraget ble derimot økt med 23 prosent
-fra 2024 til 2025, noe som isolert sett gir økt lønn etter skatt.
-160
-
-[Side 163]
-
-Tidligere har enslige forsørgere fått støtte både gjennom et skattefradrag og gjennom utvidet
-barnetrygd fra Nav. Skattefradraget for enslige forsørgere var i 2022 på 52 746 kroner. Fra mars
-2023 ble støtten til enslige forsørgere lagt om ved å erstatte skattefradraget med en økning i satsen
-for utvidet barnetrygd. Fra september 2024 ble den ordinære barnetrygden for barn over 6 år økt
-slik at det nå er samme sats for barn under og over 6 år. Samlet økte barnetrygden for barn over 6 år
-med 19,1 prosent og for barn under 6 år med 7,6 prosent fra 2024 til 2025. Husholdningstypene
-med lav lønn og barn over 6 år får størst inntektsvekst som følge av økt barnetrygd, fordi
-barnetrygden utgjør en større del av inntekten jo lavere lønnen er og jo flere barn husholdningen
-har.
-Boks 10.1 Beregninger av endringer i reallønn etter skatt
-Beregningene av endringer i reallønn etter skatt i dette avsnittet bygger på følgende forutsetninger:
-Inntektstakeren mottar bare én inntektsart (lønn).
-Det er bare tatt hensyn til skatteregler som berører alle eller de fleste lønnstakere. Det vil blant
-annet si at det kun gis standard fradrag i inntekt (personfradrag og minstefradrag).
-
-e
-v
-ga
-
-Barnetrygd er regnet som negativ skatt. Det er ikke tatt hensyn til andre overføringer fra offentlige
-budsjetter, herunder kontantstøtten som ble innført 1. august 1998.
-Det er brukt samme prisindeks (konsumprisindeksen) for alle husholdningstyper ved omregning til
-reallønn. Konsumprisindeksen økte med 3,1 prosent både i 2024 og 2025.
-
-t
-u
-g
-
-Beregninger basert på så enkle forutsetninger som her, må brukes med forsiktighet.
-Beregningsutvalget mener likevel av flere grunner at denne type beregninger kan ha interesse:
-
-i
-p
-
-1. Resultatene indikerer i hvilken retning endringer i sentrale skatteregler isolert sett trekker.
-
-ø
-l
-re
-
-2. Siden det bare forhandles om lønn, kan beregninger der en kun endrer lønnsinntekten være av
-særlig interesse.
-Den nominelle lønnsinntekten etter skatt beregnes ved å trekke inntektsskatter og avgifter til
-folketrygden fra lønnsinntekten. For barnefamilier tas det også hensyn til barnetrygden.
-Lønnsinntekt etter skatt beregnet på denne måten gir uttrykk for hva lønnstakeren har til disposisjon
-av lønnsinntekten (og eventuelt barnetrygden) til betaling av gjeldsrenter og til kjøp av varer og
-tjenester etter at samlede skatter er betalt. Reallønn etter skatt beregnes ved å deflatere den
-nominelle lønnsinntekten etter skatt med konsumprisindeksen. Endringen i reallønn etter skatt blir
-da den prosentvise forskjellen mellom årets og fjorårets reallønn etter skatt.
-
-o
-F
-
-[Boks slutt]
-10.1.2 Endringer i skatteregler for lønnstakere fra 2025 til 2026
-Skattesatsene i trinnskattens trinn 1-3 er holdt uendret på hhv. 1,7 prosent og 4,0 og 13,7 prosent fra
-2025 til 2026. Innslagspunktene i trinn 1-3 ble økt med 5 prosent. Trinnskattesatsene i trinn 4-5 er
-satt opp med 0,1 prosentpoeng til henholdsvis 16,8 og 17,8 prosent i 2026. Innslagspunktene for
-trinn 4 og 5 er økt med 4 prosent fra 2025 til 2026.
-For trygdeavgiften er satsen for lønnsinntekt redusert med 0,1 prosentpoeng, fra 7,7 til 7,6 prosent.
-Den nedre grensen for å betale trygdeavgift er holdt uendret på 99 650 kroner. Personfradraget er
-økt fra 108 550 kroner i 2025 til 114 540 kroner i 2026. Øvre grense i minstefradraget for lønn og
-trygd er økt fra 92 000 kroner i 2025 til 95 700 kroner i 2026.
-Maksimalt fradrag for innbetalt fagforeningskontingent mv. er økt 8 250 kroner i 2025 til 8 700
-kroner i 2026. Satsen for reisefradraget økte fra 1,83 kroner per kilometer i 2025 til 1,9 kroner per
-161
-
-[Side 164]
-
-kilometer i 2026. Nedre grense for fradraget ble redusert fra 15 250 kroner per kilometer i 2025 til
-12 000 kroner i 2026, mens øvre beløpsgrense ble økt fra 100 880 kroner til 120 000 kroner.
-Beløpsgrensene i foreldrefradraget ble redusert fra 25 000 kroner til 15 000 kroner for ett barn og
-tillegget per barn utover det første ble redusert fra 15 000 kroner til 10 000 kroner. Satsen for
-skattefradrag for boligsparing for ungdom ble videreført på 10 prosent og det maksimale årlige
-sparebeløpet på 27 500 kroner ble nominelt videreført. Satsene for barnetrygd var fra 1. januar 2026
-på 1 766 kroner per måned både for barn under 6 år og barn over 6 år. Det særskilte fradraget i
-Finnmark og Nord-Troms ble økt fra 30 000 kroner til 45 000 kroner.
-Det vises til tabell 4.1 i vedlegg 4 for en oversikt over skattesatser, grenser og fradrag for årene
-2015–2026.
-
-10.2 Inntektsutviklingen for pensjonister og trygdede
-Pensjonssystemet hovedformål er å sikre den enkelte et rimelig inntektsnivå i forhold til tidligere
-inntekt. I tillegg skal pensjonssystemet gi en akseptabel grunnsikring for personer uten eller med
-liten tilknytning til arbeidsmarkedet. Pensjonsreformen har gjort det mulig å velge selv når uttaket
-av alderspensjon fra folketrygden skal starte i intervallet 62-75 år. Uttaksbeslutningen kan i langt
-større grad enn tidligere nå ses på som en ren finansiell beslutning. Dette har gitt den enkelte større
-mulighet til å bestemme fordelingen av pensjonsutbetalingene over livsløpet etter 62 år.
-
-e
-v
-ga
-
-t
-u
-g
-
-I dette avsnittet redegjøres det nærmere for inntektsutviklingen for pensjonister og trygdede før og
-etter skatt med hovedvekt på utviklingen i pensjon. Samlede pensjons- og trygdeytelser består av
-pensjon og trygd fra folketrygden, ytelser fra tjenestepensjonsordninger, AFP og individuelle
-pensjonsordninger.
-
-i
-p
-
-Utviklingen i grunnbeløpet i folketrygden, minstepensjonene for enslige og ektepar og pensjonene
-til enslige uføre de siste ti årene framgår av tabell 4.2 i vedlegg 4.
-
-ø
-l
-re
-
-I kapittel 6 i rapporten «Arbeid, pensjon og inntekt i den eldre befolkningen» 78 fra Pensjonspolitisk
-arbeidsgruppe er det en grundig omtale av utviklingen i samlet inntektsnivå, endringer i samlet
-inntekt over tid, lavinntekt for ulike aldersgrupper og sammensetningen av samlet inntekt i den
-eldre befolkningen. Omtalen av inntektsutviklingen for trygdede og pensjonister er derfor mer
-kortfattet her. På noen områder er det likevel vist til og gitt en kort omtale av hovedpoeng i
-rapporten fra Pensjonspolitisk arbeidsgruppe.
-
-o
-F
-
-10.2.1 Utviklingen i pensjons- og trygdeytelser
-Tabell 10.4 viser nominell og reell årlig vekst i samlede overføringer for personer som har
-hovedinntekt fra pensjon eller trygd. Overføringer inkluderer både ytelser fra folketrygden
-(alderspensjon, uføretrygd, arbeidsavklaringspenger mv.) og andre ytelser, herunder fra
-tjenestepensjonsordninger og AFP. Overføringer utgjorde 84,9 prosent av gruppens samlede inntekt
-i 2024.
-
-78
-
-https://www.regjeringen.no/no/dokumenter/arbeid-pensjon-og-inntekt-i-den-eldre-befolkningen/id3103413/
-162
-
-[Side 165]
-
-Tabell 10.4 Utvikling i overføringer1 for trygdede og pensjonister2. Prosent
-Årlig nominell
-Gjennomsnittlige
-Årlig realvekst i
-vekst i
-overføringer i
-overføringer
-overføringer
-2024-kroner
-
-Overføringer som
-andel av samlet
-inntekt før skatt
-
-2015
-2016
-2017
-2018
-2019
-2020
-2021
-
-4,9
-2,9
-2,2
-2,9
-3,3
-2,2
-3,8
-
-2,7
--0,7
-0,4
-0,2
-1,1
-1,0
-0,3
-
-380 700
-378 100
-379 600
-380 300
-384 400
-388 100
-389 400
-
-86,9
-88,8
-88,8
-88,8
-88,9
-89,3
-86,4
-
-2022
-
-4,0
-
--1,6
-
-383 000
-
-88,6
-
-2023
-
-6,2
-
-0,7
-
-385 500
-
-87,0
-
-2024
-
-4,3
-
-1,2
-
-390 200
-
-84,9
-
-e
-v
-ga
-
-Inkluderer både offentlig og privat tjenestepensjon. Inkluderer ikke dagpenger, sykepenger og foreldrepenger.
-Omfatter personer med sosioøkonomisk status pensjonist/trygdet. Det gjelder alle personer som ikke er yrkesaktive og
-mottar trygde-/pensjonsytelser og yrkesaktive personer som har større inntekt fra trygde-/pensjonsytelser enn lønn
-(inkl. dagpenger, sykepenger og foreldrepenger) eller næringsinntekt. En person er yrkesaktiv når næringsinntekten
-(inkl. absoluttverdi av årets underskudd i næring) og lønn (inkl. dagpenger, sykepenger og foreldrepenger)
-overstiger 2G. Det var 1 198 366 personer definert som trygdet eller pensjonist i 2014 og 1 456 519 personer i 2024.
-Kilder: Statistisk sentralbyrå og Beregningsutvalget
-1
-2
-
-t
-u
-g
-
-i
-p
-
-Tabell 10.5 viser utvikling i grunnbeløpet, minstepensjonene, gjennomsnittlig alderspensjon og
-uføretrygd, samt reguleringen av løpende alderspensjon fra folketrygden.
-
-ø
-l
-re
-
-Tabell 10.5 Grunnbeløp, pensjon og uføretrygd. Årlig gjennomsnitt. Prosentvis endring
-fra året før og gjennomsnittlig endring per år. 2016–2025
-
-o
-F
-
-2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
-
-Grunnbeløp
-
-2016– Gj. sn.
-2025 per år1
-
-2,5
-
-1,7
-
-2,7
-
-3,2
-
-2,0
-
-3,8
-
-4,8
-
-5,9
-
-5,1
-
-4,8
-
-43,0
-
-3,6
-
-Minste pensjonsnivå/
-alderspensjon for enslige
-
-2,8
-
-3,3
-
-3,6
-
-3,2
-
-4,1
-
-5,8
-
-5,3
-
-8,7
-
-4,6
-
-4,9
-
-57,0
-
-4,6
-
-Minste pensjonsnivå/
-alderspensjon for
-ektepar/samboende
-
-2,9
-
-3,1
-
-2,5
-
-2,5
-
-1,4
-
-3,9
-
-4,1
-
-6,9
-
-4,6
-
-3,4
-
-41,3
-
-3,5
-
-Alderspensjon i
-gjennomsnitt
-
-2,5
-
-1,9
-
-2,3
-
-2,7
-
-1,5
-
-4,2
-
-4,5
-
-7,0
-
-3,1
-
-4,7
-
-39,7
-
-3,4
-
-Regulering av løpende
-alderspensjoner
-
-1,7
-
-0,9
-
-1,9
-
-2,4
-
-1,3
-
-3,8
-
-4,1
-
-6,9
-
-4,6
-
-3,4
-
-35,5
-
-3,1
-
-Uføretrygd i gjennomsnitt
-
-2,9
-
-2,2
-
-2,8
-
-3,1
-
-2,1
-
-3,8
-
-4,8
-
-5,9
-
-5,5
-
-5,2
-
-45,6
-
-3,8
-
-Memo: Samlet
-årslønnsvekst2
-
-1,7
-
-2,3
-
-2,8
-
-3,5
-
-3,1
-
-3,5
-
-4,3
-
-5,2
-
-5,6
-
-5,0
-
-43,7
-
-3,7
-
-Memo: KPI
-
-3,6
-
-1,8
-
-2,7
-
-2,2
-
-1,3
-
-3,5
-
-5,8
-
-5,5
-
-3,1
-
-3,1
-
-37,7
-
-3,3
-
-1
-2
-
-Geometrisk gjennomsnitt.
-Lønnsutviklingen slik den framkommer av kolonnen «Påløpt årslønn» i tabell 2.1.
-163
-
-[Side 166]
-
-Kilder: Arbeids- og velferdsdirektoratet, Statistisk sentralbyrå og Beregningsutvalget
-
-Tabell 10.6 viser utviklingen i samlede lønns- og pensjonsinntekter for ulike aldersgrupper, og for
-henholdsvis alle og for mottakere av alderspensjon. I aldersgruppene 67 år og over mottar nesten
-alle alderspensjon, og utviklingen er dermed ganske parallell for de to gruppene. Over tid har
-veksten i samlede lønns- og pensjonsinntekter for aldersgruppene over 67 år vært noe høyere enn
-årslønnsveksten i økonomien, blant annet som en følge av stadig høyere pensjonsopptjening blant
-nye pensjonister.
-Tabell 10.6 Utviklingen i samlede lønns- og pensjonsinntekter1. Årlig nominell vekst.
-Prosent
-Alle
-62–66 år
-
-67–69 år
-
-Mottakere av alderspensjon fra folketrygden
-67 år og
-eldre
-
-70–74 år
-
-62–66 år
-
-67–69 år
-
-70–74 år
-
-67 år og
-eldre
-
-2014
-6,8
-3,6
-4,7
-4,5
-2,4
-3,6
-4,6
-4,5
-2015
-5,2
-2,6
-2,9
-3,0
-1,5
-2,5
-2,9
-3,0
-2016
-3,2
-1,9
-2,6
-2,7
-2,2
-2,0
-2,6
-2,7
-2017
-3,1
-2,7
-1,8
-2,5
-2,0
-2,4
-1,8
-2,5
-2018
-3,6
-3,6
-1,9
-3,0
-2,6
-3,2
-1,9
-2,9
-2019
-4,4
-3,5
-2,7
-3,4
-3,5
-3,4
-2,7
-3,4
-2020
-1,6
-2,1
-1,2
-2,1
-1,0
-1,9
-1,2
-2,0
-2021
-4,9
-4,3
-4,1
-4,6
-3,9
-4,2
-4,1
-4,5
-2022
-5,2
-4,8
-4,4
-4,7
-4,1
-4,8
-4,7
-4,8
-2023
-5,5
-6,5
-6,4
-6,8
-5,4
-6,6
-6,6
-7,0
-2024
-5,4
-4,5
-4,1
-4,2
-3,9
-4,3
-4,2
-4,2
-Antall
-937
-personer i
-313
-861
-174
-433
-259
-630
-636
-82 605
-163 112 256 287
-918 651
-2024
-1
-Summen av lønns- og pensjonsinntekter. Pensjonsinntekter omfatter alderspensjon, offentlig og privat tjenestepensjon
-og AFP.
-Kilde: Statistisk sentralbyrå
-
-o
-F
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-For gruppen «alle» i aldersgruppen 62–66 år har veksten vært høyere enn for de som er mottakere
-av alderspensjon fra folketrygden. Utviklingen har sammenheng med at stadig flere i denne
-aldersgruppen kombinerer arbeid og alderspensjon.
-Figur 10.1 viser prosentvis realvekst i gjennomsnittlig samlet inntekt og inntektskomponentenes del
-av endringen i perioden 2014-2024.
-For aldersgruppen 62-66 år er det økt yrkesinntekt som har bidratt sterkest til økningen i samlet
-inntekt. Også for aldersgruppen 67-69 år har yrkesinntekt i stor grad bidratt til økningen i samlet
-inntekt. For de mellom 70 og 79 år er det kapitalinntekter som har bidratt mest til veksten i samlet
-inntekt. Det er gruppen 80-84 år som har hatt den høyeste inntektsveksten med 19 prosent i
-perioden 2014-2024. Det er alderstrygd som har bidratt mest, men også kapitalinntekter har bidratt
-mye til inntektsveksten.
-
-164
-
-[Side 167]
-
-25
-
-20
-
-15
-
-10
-
-5
-
-0
-
-e
-v
-ga
-
--5
-
--10
-62-66 år
-
-67-69 år
-
-70-74 år
-
-75-79 år
-
-80-84 år
-
-t
-u
-g
-
-Yrkesinntekt
-
-Kapitalinntekter
-
-Alderspensjon
-
-AFP, samlet
-
-Tjenestepensjon
-
-Andre overføringer
-
-i
-p
-
-85 år +
-
-Uføretrygd
-
-Samlet inntekt
-
-Figur 10.1 Prosentvis realvekst i samlet inntekt før skatt og inntektskomponentenes del
-av endringen. 2014-2024
-Kilde: Statistisk sentralbyrå.
-
-ø
-l
-re
-
-Tabell 10.7 viser veksten i gjennomsnittlig utbetalt alderspensjon og uføretrygd som ikke har
-yrkesinntekt i tillegg til pensjon/trygd. I gjennomsnitt over perioden 2014-2024 har veksten i
-alderpensjon vært høyest, mens veksten i uføretrygd har vært noe høyere enn årslønnsveksten. Det
-er da sett bort fra 2015 hvor uførereformen gav en svært høy vekst i utbetalt uføretrygd.
-
-o
-F
-
-165
-
-[Side 168]
-
-Tabell 10.7 Utvikling i gjennomsnittlig utbetalt alderspensjon og uføretrygd til bosatte
-personer som ikke har yrkesinntekt. Prosent endring fra året før og andel av
-alderspensjonister og uføretrygdede som ikke har yrkesinntekt. 2014-2024
-Alderspensjon
-
-Uføretrygd
-
-Samlet
-årslønnsvekst
-
-Andel av
-alderspensjonister
-som ikke har
-yrkesinntekt.
-
-Andel av
-uføretrygdede
-som ikke har
-yrkesinntekt
-
-3,1
-2,8
-
-0,73
-0,72
-
-0,66
-0,66
-
-2014
-2015
-
-4,5
-2,8
-
-2,6
-
-2016
-
-3,3
-
-19,5
-3,9
-
-1,8
-
-0,72
-
-0,67
-
-2017
-
-2,5
-
-1,9
-
-2,3
-
-0,73
-
-0,67
-
-2018
-
-2,8
-
-2,6
-
-2,8
-
-0,73
-
-0,67
-
-2019
-
-2,8
-
-3,9
-
-3,5
-
-0,72
-
-0,66
-
-2020
-
-1,8
-
-3,0
-
-3,1
-
-0,74
-
-0,68
-
-2021
-
-4,6
-
-3,7
-
-3,5
-
-0,75
-
-0,68
-
-2022
-
-4,3
-
-4,5
-
-4,3
-
-0,75
-
-0,68
-
-2023
-
-7,1
-
-6,0
-
-5,2
-
-0,74
-
-0,68
-
-2024
-
-4,9
-
-4,9
-
-5,6
-
-0,73
-
-0,67
-
-1
-
-g
-t
-u
-
-e
-v
-a
-
-Den høye nominelle veksten skyldes uførereformen fra 2015. Innføring av lønnsbeskatning av uføretrygd ble
-kompensert med en økning i brutto uføreytelse.
-Kilde: Statistisk sentralbyrå.
-1
-
-g
-i
-p
-
-Boks 10.2 Regelverksendringer på pensjonsområdet
-
-ø
-l
-re
-
-Innledning
-Det samlede pensjonssystemet består av alderspensjon fra folketrygden, tjenestepensjoner
-(pensjoner opptjent i arbeidsforhold) inkludert avtalefestet pensjon (AFP) samt individuell
-pensjonssparing. Hovedkomponentene i folketrygdens alderspensjon etter gammel
-opptjeningsmodell, er grunnpensjon, særtillegg/pensjonstillegg og tilleggspensjon. Fra 2016 er den
-nye alderspensjonen bestående av inntektspensjon og garantipensjon faset gradvis inn for personer
-født fra og med 1954. Personer født 1963 og senere er fullt ut omfattet av de nye
-opptjeningsreglene.
-
-o
-F
-
-Mellom 2011 og 2020 ble alderspensjon under utbetaling regulert med lønnsveksten og deretter
-fratrukket 0,75 prosent. I 2021 ble alderpensjon regulert særskilt i tråd med lønnsveksten, og fra og
-med 2022 reguleres alderspensjon under utbetaling med gjennomsnittet av lønns- og prisvekst.
-Historisk har gjennomsnittlig alderspensjon økt mer enn grunnbeløpet fordi pensjonister med høy
-opptjening har kommet til og erstattet pensjonister med lav opptjening som har falt fra. I de siste
-årene har denne effekten blitt svakere fordi mange har tatt ut pensjon fra 62 år og dermed fått lavere
-årlig pensjon.
-Som følge av reguleringsreglene for alderspensjon fra 2011, fastsettes satsene for minste
-pensjonsnivå for alderspensjonister med et kronebeløp. Satsene for minstenivåene ble i perioden
-2011-2020 regulert med lønnsveksten justert for effekten av levealdersjusteringen for 67-åringer i
-reguleringsåret. Særskilte økninger i satsene har likevel forekommet en rekke ganger etter 2015. I
-2021 ble minste pensjonsnivå regulert særskilt i tråd med lønnsveksten, på samme måte som for
-løpende alderspensjon. Fra 2022 reguleres minstenivåene med gjennomsnittet av pris- og
-lønnsvekst. Minste pensjonsnivå for alderspensjon per 1. mai 2025 utgjør 200 144 kroner for lav
-166
-
-[Side 169]
-
-sats (gift med alderspensjonist med høy tilleggspensjon), 231 645 kroner for ordinær sats (gift med
-minstepensjonist) og 279 933 kroner for særskilt sats (enslig).
-Personer født 1963 og senere får garantipensjon som minste pensjonsytelse, istedenfor
-minstepensjon. For personer født mellom 1954 og 1962 blir minstepensjonen gradvis erstattet av
-garantipensjon. Garantipensjonen har to satser: ordinær sats og høy sats. Garantipensjon reguleres
-på samme måte som minste pensjonsnivå. Fra 1. mai 2024 er ordinær sats for garantipensjon
-224 248 kroner (gjelder for personer med partner som har trygd, alderspensjon eller årlig inntekt
-større enn 2 G). Høy sats er 242 418 kroner (gjelder for enslige og personer med partner hvis
-partneren verken har trygd, alderspensjon samt årlig inntekt større enn 2 G).
-Ny folketrygd og privat AFP
-Fra 2011 ble alderpensjonen i folketrygden lagt om. Det ble blant annet innført fleksibelt uttak av
-pensjon fra 62 år, levealdersjustering og nye regler for årlig regulering av pensjon. Samtidig ble
-AFP i privat sektor tilpasset den nye folketrygden ved at den ble omgjort fra en
-tidligpensjonsordning for alderen 62–66 år til et livsvarig tillegg til alderspensjonen fra
-folketrygden. Etter hovedoppgjøret i 2018 ble det gjort enkelte endringer i ordningen. Det har også
-blitt gjennomført en felles utredning om en mulig omlegging av ordningen. I hovedoppgjøret 2018
-ble det også avtalt en sliterordning som utbetaler ekstra ytelse til de som tar ut AFP ved 62–64 år
-uten arbeidsinntekt ved siden av. Det første årskullet som kunne søke om slitertillegg er de født i
-1957. Disse mottok 1/7 av full ytelse. Senere årskull blir tillagt ytterligere 1/7 av ytelsen, frem til
-1963-kullet som får full ytelse. Full årlig ytelse tilsvarer 0,25 G.
-
-t
-u
-g
-
-e
-v
-ga
-
-i
-p
-
-Privat tjenestepensjon
-Også tjenestepensjonene er i endring. Økte kostnader og arbeidsgivernes ønske om mer forutsigbare
-pensjonskostnader har ført til sterk vekst i antall arbeidstakere i privat sektor som omfattes av
-innskuddsordninger. Ytelsesordningene, som tidligere dominerte det private
-tjenestepensjonsmarkedet, har i all hovedsak blitt avviklet eller lukket. Innføringen av obligatorisk
-tjenestepensjon (OTP) i 2006 medførte at antall innskuddsordninger økte kraftig, særlig blant
-bedrifter som ikke hadde pensjonsordning tidligere. Fra 2014 trådte den nye tjenestepensjonsloven i
-kraft med regler for en ny type tjenestepensjon i privat sektor, ofte kalt «hybrid» fordi den
-kombinerer elementer fra innskudds- og ytelsespensjon. Det er foreløpig etablert relativt få
-pensjonsordninger basert på det nye regelverket for hybridpensjon, men etter 2020 har det vært flere
-aktive medlemmer i hybridordningene enn i ytelsesordningene.
-Fra 1. januar 2021 fikk om lag 1,5 millioner arbeidstakere i privat sektor samlet sin
-pensjonsopptjening fra innskuddspensjonsordninger på en egen pensjonskonto. Ved utløpet av
-januar 2026 var det ifølge Finans Norge etablert mer enn 2,1 mill. pensjonskontoer. Egen
-pensjonskonto innebærer at arbeidstakere som er ansatt i en bedrift med innskuddspensjonsordning,
-skal få samlet sin tidligere pensjonsopptjening fra innskuddspensjonsordninger på én
-pensjonskonto. Pensjonsopptjening fra tidligere arbeidsforhold skal samles og forvaltes sammen
-med pensjonskapitalen arbeidstakeren tjener opp i sitt nåværende arbeidsforhold. Pensjonskontoen
-skal følge arbeidstakeren gjennom de arbeidsforhold der arbeidstakeren har
-innskuddspensjonsordning. Formålet med egen pensjonskonto er å gi arbeidstakerne reduserte
-kostnader til pensjonssparing og mer oversikt over egen pensjon.
-Reglene om pensjon fra første krone og dag trådte i kraft 1. januar 2022, og innebærer blant annet at
-det stilles krav om at det skal spares minst 2 prosent av medlemmers inntekt fra første krone i alle
-private tjenestepensjonsordninger. Det tidligere kravet om 20 prosent stilling for rett på
-
-o
-F
-
-ø
-l
-re
-
-167
-
-[Side 170]
-
-medlemskap i ordningene er opphevet. Aldersgrensen for medlemskap er satt ned fra 20 til 13 år
-som i folketrygden. Ansatte får rett på medlemskap i ordningene når inntekten overstiger grensene
-for rapporteringspliktig lønn i a-ordningen. Denne grensen er som hovedregel på 2 000 kroner, men
-er 10 000 kroner for skattefrie organisasjoner mv.
-Offentlig tjenestepensjon
-Arbeids- og sosialdepartementet og partene i offentlig sektor kom 3. mars 2018 til enighet om en ny
-pensjonsløsning for offentlig ansatte basert på opptjening etter en såkalt påslagsmodell.
-Departementet fulgte opp med en lovproposisjon våren 2019. De nye opptjeningsreglene trådte i
-kraft 1. januar 2020 og gjelder for offentlig ansatte født i 1963 eller senere.
-I pensjonsavtalen i offentlig sektor heter det videre at ny offentlig AFP utformes etter mønster av
-den private AFP-ordningen. Departementet fulgte opp dette med et lovforslag om ny AFP for
-medlemmer av Statens pensjonskasse, som ble vedtatt av Stortinget 21. mars 2024. Ny offentlig
-AFP gjelder for offentlig ansatte født i 1963 eller senere. 1963-kullet fylte 62 år i 2025 og fikk da
-mulighet å ta ut ny offentlig AFP.
-Arbeids- og inkluderingsdepartementet og partene i offentlig sektor ble 25. august 2023 enige om
-nye pensjonsregler for offentlig ansatte med særaldersgrense. Avtalen innebærer at pensjonsalderen
-for de som har særaldersgrense skal økes gradvis i takt med øvrige aldersgrenser i
-pensjonssystemet. Det innføres også et nytt særalderspåslag som kommer til utbetaling i tillegg til
-de ordinære pensjonsytelsene. Yrkesgruppene med de laveste aldersgrensene, 60 og 63 år, beholder
-også rett til en tidligpensjon i et visst antall år før utbetalingen av ordinære pensjonsytelser starter.
-Arbeids- og inkluderingsdepartementet og partene i offentlig sektor ble 13. januar 2025 enige om en
-endring sammenlignet med avtalen fra august 2023 som innebærer et høyere fribeløp før
-tidligpensjon blir avkortet mot inntekt fra ikke medlemspliktig stilling. Lovforslag som følger opp
-avtalene ble fremmet i Prop. 108 L (2024-2025) og Stortinget vedtok lovendringene 2. juni 2025
-(lovvedtak 76 (2024–2025). De nye reglene trådte i kraft 1. januar 2026.
-
-o
-F
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-Antall minstepensjonister
-Siden 2011 har minstepensjonister hatt en litt bedre utvikling i pensjonen enn alderspensjonister
-med høyere pensjon. Økt minste pensjonsnivå, særlig for enslige, og økt grunnpensjon for
-gifte/samboende førte til at minstepensjonen både for enslige og ektepar økte mer enn lønnsveksten
-i både 2016 og 2017. Disse endringene førte også til at flere blir omfattet av minstesatsene. Arbeidsog velferdsdirektoratet har anslått at økningene i minstepensjon i 2016 og i 2017, herunder også økt
-grunnpensjon for gifte og samboende i 2016, medførte tilnærmet 25 000 flere minstepensjonister.
-Økningen i minste pensjonsnivå i 2019 og 2021 medførte en ytterligere økning på henholdsvis om
-lag 12 000 og 9 800 minstepensjonister.
-Selv om økningen i minstesatsene isolert sett har ført til flere minstepensjonister, har antall
-minstepensjonister gått ned i mange år. Det skyldes dels at yngre kull av alderspensjonister har mer
-opptjening til alderspensjon enn de eldre kullene, dels de nye opptjeningsreglene for alderspensjon
-som omfatter stadig flere personer. Per desember 2025 var det 119 649 minstepensjonister.
-Minstepensjonistene utgjorde 11,0 prosent av alle alderspensjonister i desember 2025. Andelen
-kvinner i gruppen med minstepensjon har falt gradvis fra om lag 87 prosent i desember 2014 til om
-lag 83 prosent i desember 2025.
-
-168
-
-[Side 171]
-
-Uføretrygd
-Etter uførereformen i 2015 utgjør uføretrygden 66 prosent av et beregningsgrunnlag som består av
-et gjennomsnitt av årsinntekten opp til 6 G for de tre beste av de fem siste årene før uførhet.
-Uføretrygden justeres i forhold til uføregraden. Ved lavt eller intet beregningsgrunnlag mottas en
-garantert minsteytelse fra folketrygden. Minsteytelsen for uføretrygdede etter økningen fra 1. juli
-2024 er 2,529 G for enslige og 2,329 G for ektefeller/samboere. Personer som er født uføre eller blir
-uføre i ung alder har en høyere minsteytelse, 2,959 G for enslige og 2,709 G for
-ektefeller/samboere. Uføre som forsørger barn mottar barnetillegg. Uføretrygden skattlegges som
-lønn. Per desember 2025 var det registrert 374 900 mottakere av uføretrygd.
-Per september 2025 var det ifølge Nav 18,7 prosent av de med uførevedtak som var registrert med
-et arbeidsforhold. Før uførereformen i 2015 ble uføregraden revurdert og trygdeutbetalingene
-redusert dersom arbeidsinntekten overskred en friinntekt på 1 G. De nye reglene fra 2015 innebærer
-at arbeidsinntekt over en fastsatt inntektsgrense fører til reduksjon av uføretrygden, men uten at
-uføregraden blir revurdert. For personer med 100 prosent uføregrad er inntektsgrensen 0,4 G. For de
-med gradert uføretrygd fastsettes en individuell inntektsgrense. Dersom inntekten blir høyere enn
-80 prosent av inntekt før uførhet, blir det ikke utbetalt uføretrygd det aktuelle året.
-
-e
-v
-ga
-
-Omleggingen av uføreytelsen i folketrygden gjorde det nødvendig å tilpasse uføreytelsene fra
-tjenestepensjonsordningene. Uførepensjon fra de offentlige tjenestepensjonsordningene beregnes fra
-2015 som et direkte tillegg til uføretrygden fra folketrygden og er uavhengig av størrelsen på
-uføretrygden. Fra 1. januar 2017 følger alle uføreordninger i privat sektor nytt regelverk, som
-innebærer at det i hovedsak vil være mulig å gi uføredekning på linje med den nye uføreordningen i
-offentlig sektor. Det er imidlertid fortsatt frivillig for foretak i privat sektor om de vil knytte
-uførepensjon til tjenestepensjonsordningen og i hvilken grad de vil utnytte rammene i loven.
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-Reform av ytelser til etterlatte
-Stortinget vedtok 10. desember 2020 en reform av folketrygdens etterlatteytelser. Omleggingen av
-etterlatteytelsene er en del av pensjonsreformen, og følger opp Etterlatteutvalgets utredning (NOU
-2017: 3). De nye reglene trådte i kraft 1. januar 2024, og innebærer at ytelsen til voksne etterlatte
-under 67 år er endret til en tidsavgrenset omstillingsstønad med aktivitetsplikt, der formålet er at
-den etterlatte skal bli selvforsørget. Personer som mottok gjenlevendepensjon ved utgangen av 2023
-vil som hovedregel kunne beholde denne i inntil tre år, tilsvarende som for nye tilfeller som får
-innvilget den nye omstillingsstønaden. Videre blir særreglene for å beregne uføretrygd og
-alderspensjon til etterlatte faset ut. Ytelsen til etterlatte barn (barnepensjon) er styrket og regelverket
-for ytelsen er forenklet.
-[Boks slutt]
-
-o
-F
-
-Tabell 10.8 viser gjennomsnittlig nivå og nominell vekst i alderspensjon fra folketrygden for ulike
-aldersgrupper de siste ti årene. Tabellen viser at den nominelle veksten i gjennomsnittlig
-alderspensjon avtok i årene 2012–2017. I årene 2018–2021 økte den, med unntak av i 2020, hvor
-veksten var den laveste i tiårsperioden. Nye alderspensjonister har gjennomgående høyere
-pensjonsopptjening enn de som faller fra. Nye uttaksregler trekker isolert sett pensjonene ned. Økt
-innslag av pensjonister med kort botid og yrkeskarriere i Norge som har tjent opp lavere pensjoner
-trekker også ned pensjonsnivået. For nye alderspensjonister bidrar levealdersjusteringen isolert sett
-til lavere alderspensjon og denne effekten øker for nye årskull.
-Etter pensjonsreformen i 2011 og fram til 2019 var veksten i gjennomsnittlig alderspensjon lavere i
-aldersgruppene 62–66 år og 67–69 år enn for gruppen 70-74 år. Denne utviklingen må ses i
-169
-
-[Side 172]
-
-sammenheng med innfasingen av mulighet for tidlig uttak av alderspensjon. 1949-kullet var 61 år
-ved inngangen til 2011, og dermed første årskull som kunne ta ut alderspensjon fra fylte 62 år.
-I årene 2016–2018 (da 1949-kullet var i alderen 67–69 år) var veksten særlig lav i gruppen 67–69
-år. Det må ses i sammenheng med at denne kohorten erstattet en kohort som ikke hadde hatt
-mulighet for tidlig uttak av alderspensjon. Veksten i alderspensjon for gruppen 70–74 år lå over
-gjennomsnittet for alle i perioden 2012–2016, men har vært lavere de senere årene. De som mottar
-alderspensjon i aldersgruppen 62–66 år har betydelige yrkesinntekter, og mange fortsetter i arbeid
-samtidig som de tar ut alderspensjon. Ifølge tall fra Arbeids- og velferdsdirektoratet var 59,3
-prosent av alderspensjonister 62–66 år registrert med et arbeidsforhold ved slutten av 2024. Denne
-andelen har ligget i underkant av 60 prosent siden 2016.
-Gjennomsnittlig samlet inntekt for de som kombinerer arbeid og uttak av alderspensjon er høy. På
-den annen side får de som tar ut alderspensjon før 67 år en lavere årlig alderspensjon resten av livet
-enn om de hadde ventet til 67 år.
-Tabell 10.8 Utvikling i gjennomsnittlig årlig alderspensjon1,2 fra NAV før skatt, nivå og
-prosentvis årlig nominell vekst
-Alle mottakere
-
-62–66 år
-
-67–69 år
-
-e
-v
-ga
-
-70–74 år
-
-67 år og eldre
-
-Alderspensjon.
-Kroner
-
-Årlig
-vekst.
-Pst.
-
-Alderspensjon.
-Kroner
-
-Årlig
-vekst.
-Pst.
-
-Alderspensjon.
-Kroner
-
-Årlig
-vekst.
-Pst.
-
-Alderspensjon.
-Kroner
-
-Årlig
-vekst.
-Pst.
-
-Alderspensjon.
-Kroner
-
-Årlig
-vekst.
-Pst.
-
-2012
-
-202 946
-
-4,7
-
-212 546
-
-0,5
-
-219 306
-
-4,4
-
-209 184
-
-5,0
-
-202 247
-
-4,7
-
-2013
-
-210 831
-
-3,9
-
-213 426
-
-0,4
-
-4,5
-
-210 594
-
-4,1
-
-2014
-
-218 589
-
-3,7
-
-215 579
-
-1,0
-
-228 496
-
-4,5
-
-218 901
-
-3,9
-
-2015
-
-224 140
-
-2,5
-
-216 930
-
-0,6
-
-235 662
-
-3,1
-
-224 952
-
-2,8
-
-2016
-
-229 724
-
-2,5
-
-219 906
-
-1,4
-
-242 496
-
-2,9
-
-230 848
-
-2,6
-
-2017
-
-234 247
-
-2,0
-
-222 705
-
-1,3
-
-2018
-
-239 630
-
-2,3
-
-226 327
-
-1,6
-
-2019
-
-246 090
-
-2,7
-
-231 101
-
-2,1
-
-g
-i
-p
-
-218 688
-
-2020
-
-249 877
-
-1,5
-
-232 913
-
-2021
-
-259 725
-
-3,9
-
-2022
-
-271 365
-
-2023
-
-ut
-
-226 296
-
-3,2
-
-231 716
-
-2,4
-
-234 310
-
-1,1
-
-235 936
-
-0,7
-
-236 060
-
-0,1
-
-247 076
-
-1,9
-
-235 554
-
-2,0
-
-237 481
-
-0,6
-
-251 591
-
-1,8
-
-241 104
-
-2,4
-
-242 074
-
-1,9
-
-255 638
-
-1,6
-
-247 697
-
-2,7
-
-0,8
-
-245 353
-
-1,4
-
-256 055
-
-0,2
-
-251 628
-
-1,6
-
-239 577
-
-2,9
-
-254 253
-
-3,6
-
-262 542
-
-2,5
-
-261 707
-
-4,0
-
-4,5
-
-247 785
-
-3,4
-
-264 002
-
-3,8
-
-271 583
-
-3,4
-
-273 554
-
-4,5
-
-290 231
-
-7,1
-
-261 888
-
-5,7
-
-279 647
-
-5,9
-
-288 539
-
-6,2
-
-292 733
-
-7,0
-
-2024
-
-299 137
-
-3,1
-
-270 127
-
-3,1
-
-287 341
-
-2,8
-
-295 804
-
-2,5
-
-301 574
-
-3,0
-
-2025
-
-313 168
-
-4,7
-
-276 810
-
-2,5
-
-298 851
-
-4,0
-
-309 928
-
-4,8
-
-316 145
-
-4,8
-
-1
-
-o
-F
-
-ø
-l
-re
-
-Tallene er korrigert for uttaksgrad ved at de er omregnet til 100 prosent utbetalt pensjon. Gjennomsnittlig
-alderspensjon omfatter ikke etterbetalinger.
-
-Kilde: Arbeids- og velferdsdirektoratet
-
-Pensjonsforliket
-Regjeringen la 15. desember 2023 fram Meld. St. 6 (2023-2024) Et forbedret pensjonssystem med
-en styrket sosial profil. I meldingen sluttet regjeringen seg i all hovedsak til forslagene fra flertallet i
-Pensjonsutvalget i NOU 2022:7 Et forbedret pensjonssystem. Hovedformålet med forslagene i
-meldingen var å styrke den sosiale profilen i folketrygdens alderspensjon.
-
-170
-
-[Side 173]
-
-29. februar 2024 ble det inngått en avtale mellom regjeringspartiene, Arbeiderpartiet og
-Senterpartiet, og partiene Høyre, Sosialistisk Venstreparti, Venstre, Kristelig Folkeparti og
-Miljøpartiet De Grønne om pensjonssystemet. Hovedelementene i avtalen er bl.a.:
--
-
-Aldersgrensene i folketrygden skal økes i tråd med forslaget i Meld. St. 6 (2023-2024).
-Dette innebærer en gradvis økning av aldersgrensene fra og med 1964-kullet.
-
--
-
-Sosiale rettigheter som sykepenger, dagpenger og AAP utvides i tråd med endringen av
-normert pensjonsalder, dvs. at den øvre alderen slike ytelser kan mottas til økes i takt med
-økningen av aldersgrensene i folketrygden.
-
--
-
-Det skal etableres en sliterordning i folketrygden. Ordningen skal etableres etter modell av
-sliterordningen i privat AFP og ha en årlig ytelse på 0,25 G for de som går av fem år før
-normert pensjonsalder og trappes gradvis ned ved høyere avgangsalder. - Partene skal
-involveres i utformingen av sliterordningen.
-
--
-
-Plikten til å fratre ved oppnådd særaldersgrense gjeninnføres ikke. Hvilke stillinger som i
-fremtiden skal ha særaldersgrenser, samt hvilke aldersgrenser som skal gjelde, avklares i en
-egen prosess, som avtalt med partene.
-
--
-
-Den alminnelige aldersgrensen for statsansatte og andre medlemmer i Statens pensjonskasse
-økes fra 70 til 72 år
-
--
-
-Det skal også utredes tiltak for å gjøre det lettere å stå videre i arbeid utover de ordinære
-aldergrensene i aldersgrenseloven (staten) og arbeidsmiljøloven, herunder vurdere
-bedriftsinterne aldersgrenser.
-
--
-
-Alderspensjonen til uføre skal styrkes i tråd med forslaget i Meld. St. 6 (2023-2024).
-Dette innebærer i utgangspunktet at uføre skjermes for 2/3-deler av effekten av
-levealdersjusteringen, og at uføres videre skjerming skal speile yrkesaktives
-avgangsmønster.
-
--
-
-Det skal etableres en overgangsordning for uføre i kullene 1954–1962. Overgangsordningen
-skal ivareta kullene som ikke har skjermingstillegg i den delen av pensjon som utmåles etter
-gamle regler.
-
--
-
-Minsteytelsene skal reguleres i tråd med forslaget i Meld. St. 6 (2023-2024). Dette innebærer
-at minstesatsene skal G-reguleres, samtidig som alle løpende ytelser skal reguleres med
-gjennomsnittet av lønns- og prisvekst. Regulering med snitt av lønns- og prisvekst etter
-uttak, sikrer at de som mottar minsteytelsene i likhet med andre pensjonister, får økt
-kjøpekraft når lønnsmottagerne får det.
-
--
-
-Det skal utarbeides en helhetlig strategi for informasjon på pensjonsområdet.
-
--
-
-Grensen for individuell sparing til pensjon med skattefradrag, IPS, skal økes til minst 25 000
-kroner.
-
--
-
-Pensjonssystemet skal evalueres om lag hvert tiende år, for å følge med på utviklingen i
-systemets sosiale og økonomiske bærekraft. Dette inkluderer bl.a. en evaluering av
-levealdersjustering av aldersgrensene sett opp mot reell avgangsalder.
-
-o
-F
-
-e
-v
-ga
-
-t
-u
-g
-
-i
-p
-
-ø
-l
-re
-
-10.2.2 Realvekst etter skatt i pensjon og trygd
-Husholdninger med eldre personer har hatt en sterk samlet realvekst i inntekt etter skatt de siste
-tiårene. Figur 10.2 viser at den reelle medianinntekten etter skatt økte mer for husholdninger med
-personer over 65 år enn for husholdninger samlet i perioden 1990–2024. Endringer i
-171
-
-[Side 174]
-
-sammensetningen av gruppen er en viktig forklaring på dette. Stadig flere alderspensjonister har
-opptjent rettigheter til tilleggspensjon. I tillegg er det etter pensjonsreformen blitt mer vanlig med
-yrkesinntekt blant mottakere av alderspensjon. For alle husholdninger under ett økte median
-realinntekt etter skatt med 3,0 prosent fra 2023 til 2024. For par uten barn hvor eldste person var 65
-år eller eldre og aleneboende 65 år og eldre økte median realinntekt etter skatt med hhv. 3,8 prosent
-og 3,2 prosent fra 2023 til 2024.
-
-240
-220
-200
-180
-160
-
-e
-v
-ga
-
-140
-120
-
-t
-u
-g
-
-100
-80
-1990
-
-1995
-
-2000
-
-2005
-
-2010
-
-2015
-
-i
-p
-
-Alle husholdninger
-Aleneboende 65 år eller eldre
-
-2020
-
-ø
-l
-re
-
-Par uten barn, eldste person 65 år eller eldre
-
-Figur 10.2 Medianinntekt etter skatt for ulike husholdningstyper. Indeks i faste priser.
-1990=100. 1990–2024
-
-o
-F
-
-Kilde: Statistisk sentralbyrå.
-
-En måte å måle inntektsfordeling på er å dele befolkningen inn i ulike grupper basert på størrelsen
-på inntekten, og måle hvordan inntekten i de forskjellige gruppene har utviklet seg. En ofte brukt
-grupperingsenhet er en desilfordeling. En desilfordeling for samlet inntekt betyr at populasjonen er
-delt i 10 grupper, slik at hver gruppe inneholder like mange personer. Desil 1 referer da til den
-gruppen med de 10 prosentene med lavest inntekt, desil 2 refererer til de 10 prosentene med nest
-lavest inntekt, osv.
-I figur 10.3 nedenfor er den eldre befolkningen desilfordelt etter inntekt etter skatt i 2014 og 2024,
-og det er derfor ulike personer i hvert desil i 2014 og 2024. Figuren viser hvordan inntektsveksten
-er fordelt på ulike desiler. Økningen i inntekt etter skatt har vært sterkest i de fem nederste desilene.
-At realveksten har vært sterkest for de med lavest samlet inntekt, reflekterer trolig en økning i
-minstepensjonen i perioden.
-
-172
-
-[Side 175]
-
-16,0
-14,0
-12,0
-10,0
-8,0
-6,0
-4,0
-2,0
-0,0
-Desil 1
-
-Desil 2
-
-Desil 3
-
-Desil 4
-
-Desil 5
-
-Median samlet inntekt
-
-Desil 6
-
-Desil 7
-
-Desil 8
-
-e
-v
-ga
-
-Desil 9 Desil 10
-
-Median inntekt etter skatt
-
-t
-u
-g
-
-Figur 10.3 Realvekst i median samlet inntekt før og etter skatt for personer 62 år og
-eldre. Prosent 2014-2024.
-Kilde: Statistisk sentralbyrå.
-
-i
-p
-
-Tabell 10.9 viser beregnet vekst i utbetalt pensjon og realvekst etter skatt for ulike
-husholdningstyper som mottar alderspensjon eller uføretrygd. Minste pensjonsnivå økte med 4,9
-prosent for enslige med minste pensjonsnivå og med 3,4 prosent for pensjonistektepar med minste
-pensjonsnivå i 2025. Realvekst i pensjonsinntekt etter skatt var hhv. 1,8 og 0,3 prosent.
-
-o
-F
-
-ø
-l
-re
-
-Pensjonistenes inntektsforhold bestemmes også av tilleggspensjon (inntektspensjon i ny
-alderspensjon) fra folketrygden, andre pensjonsordninger og andre inntekts- og formuesforhold.
-Tabellen inneholder derfor også beregninger for enslige alderspensjonister med pensjon på
-henholdsvis 300 000 kroner og 600 000 kroner og for pensjonistektepar med en samlet inntekt på
-650 000 kroner og 850 000 kroner. I beregningene forutsettes det at disse husholdningene kun har
-alderspensjon (inkludert tjenestepensjon) som inntekt og ikke betaler skatt på formue. Dette
-tilsvarer forutsetningene som ligger til grunn i tabell 10.3, jf. boks 10.1.
-Den nominelle veksten i alderspensjonene svarer til den årlige reguleringen av alderspensjon fra
-folketrygden. Fra 2022 blir alderspensjon under utbetaling regulert med gjennomsnittet av lønns- og
-prisvekst.
-Etter skatt var det en reell vekst i pensjonsinntekt i 2025 på 1,1 prosent for enslige med 300 000
-kroner i alderspensjon.
-For enslige uføre økte realverdien av minsteytelsen med 2,4 prosent etter skatt, mens den økte med
-2,5 prosent for ektepar/samboende der begge har minsteytelse i 2025.
-
-173
-
-[Side 176]
-
-Tabell 10.9 Beregnet realvekst i pensjon og trygd etter skatt for utvalgte
-husholdningstyper. Vekst i prosent fra året før
-2024
-Pensjon/
-trygd i
-2025 (kr) Familiesituasjon
-
-2025
-
-Nominell
-vekst1
-
-Realvekst
-etter skatt
-
-Nominell
-vekst1
-
-Realvekst
-etter skatt
-
-324 005
-
-Enslig ufør, minsteytelse
-
-6,2
-
-2,8
-
-5,8
-
-2,4
-
-596 764
-
-Ektepar ufør, begge har minsteytelse
-
-6,3
-
-2,9
-
-5,9
-
-2,5
-
-274 667
-
-Enslig minstepensjonist
-
-4,6
-
-1,5
-
-4,9
-
-1,8
-
-457 766
-
-Ektepar, begge har minstepensjon
-
-4,6
-
-1,5
-
-3,4
-
-0,3
-
-300 000
-
-Enslig alderspensjonist
-
-4,6
-
-1,6
-
-3,4
-
-1,1
-
-600 000
-
-Enslig alderspensjonist
-
-4,6
-
-1,5
-
-3,4
-
-0,4
-
-650 000
-
-Ektepar med alderspensjon hvor den ene har
-400 000 kroner og den andre har 250 000
-kroner1
-
-4,6
-
-850 000
-
-Ektepar hvor den ene har 550 000 kroner og
-den andre har 300 000 kroner
-
-4,6
-
-e
-v
-ga
-1,5
-
-3,4
-
-0,7
-
-1,5
-
-3,4
-
-0,7
-
-t
-u
-g
-
-Nominell vekst er lik gjennomsnittet av pris og lønnsvekst.
-Kilde: Beregningsutvalget
-1
-
-i
-p
-
-10.2.3 Endringer i de særskilte skattereglene for pensjonister fra 2025 til 2026
-AFP- og alderspensjonister får et skattefradrag, som i 2026 utgjør maksimalt 37 100 kroner, mens
-det i 2025 var på 36 000 kroner. Størrelsen på skattefradraget justeres årlig slik at personer som kun
-har minstepensjon som inntekt, ikke betaler inntektsskatt. Skattefradraget trappes ned mot
-pensjonsinntekt over to trinn. I 2026 er innslagspunktet på det første trinnet 284 950 kroner, og
-nedtrappingssatsen er 16,7 prosent. Det betyr at skattefradraget reduseres med 16,7 øre per
-pensjonskrone som mottas over 284 950 kroner. På det andre trinnet er innslagspunktet 436 050
-kroner i 2026, og nedtrappingssatsen er 6,0 prosent. Det betyr at skattefradraget reduseres med 6 øre
-per pensjonskrone som mottas over 436 050 kroner. Disse satsene gjør at skattefradraget fases helt
-ut ved en pensjonsinntekt på 633 000 kroner (forutsatt at skattyter har standard fradrag).
-Skattefradraget fastsettes uavhengig av ektefellens inntekt.
-
-o
-F
-
-ø
-l
-re
-
-Trygdeavgift på pensjon har vært 5,1 prosent siden 2014. Satsen i minstefradraget i pensjonsinntekt
-er 40 prosent i 2026, uendret fra 2025. Den øvre grensen i minstefradraget for pensjonsinntekt er
-økt fra 73 150 kroner i 2025 til 75 400 kroner i 2026.
-
-10.3 Fordeling av inntekt
-Beregningsutvalget legger i dette avsnittet fram statistikk som belyser fordelingen av inntekt for
-personer. Det er spesielt lagt vekt på å redegjøre for enkelte trekk ved fordelingen av lønns-,
-nærings- og kapitalinntekt. I boks 10.4 beskrives inntektsbegrepene som legges til grunn nærmere.
-10.3.1 Fordelingen av inntekt etter skatt for yrkestilknyttede
-I dette avsnittet ses det på sammensetningen og fordelingen av inntekt for personer som er
-yrkestilknyttet. For å få en best mulig oversikt over utviklingen og sammensetningen av inntekt for
-de personene som antas å være yrkestilknyttet på fulltid, er det nødvendig å skille ut de personene
-som har reduserte stillingsbrøker som for eksempel studenter med deltidsjobb. Utvalget har valgt å
-174
-
-[Side 177]
-
-definere yrkestilknyttede som de personene som har en sum av lønnsinntekt og næringsinntekt
-(inkludert dagpenger, sykepenger og foreldrepenger) som minst utgjør 60 prosent av
-gjennomsnittlig industriarbeiderlønn. Samlet sett utgjør denne gruppen om lag 2,3 mill. personer i
-2024. Til sammenligning var det om lag 2,9 mill. sysselsatte personer i 2024.
-Tabell 10.10 viser sammensetningen av de ulike inntektskomponentene for yrkestilknyttede i 2014
-og 2024 etter at individene er sortert etter stigende inntekt etter skatt (desiler), jf. boks 10.4.
-Tabellen viser at lønnsinntekt er den viktigste inntektskilden i alle desiler, og at lønnsandelen har
-økt for alle desiler unntatt desil 10. Lønn er den viktigste inntektskilden også i desil 10, men
-lønnsandelen utgjør klart mindre del av inntekten jo høyere opp i fordelingen man kommer. Dette
-trekket er mer framtredende i 2024 enn i 2014.
-Andelen næringsinntekt for alle yrkestilknyttede sett under ett falt fra 5,4 prosent i 2014 til 4,8
-prosent i 2024. Andelen er relativt høy for desil 1 og faller så til og med desil 4 og 5. Deretter stiger
-næringsinntektsandelen og er høyest for desil 10.
-For desil 10 betyr kapital- og næringsinntekt atskillig mer enn i de øvrige inntektsgruppene, noe
-som reduserer betydningen av lønn. Kapital- og næringsinntekter svinger mer fra år til år enn andre
-inntekter vanligvis gjør. Det gjør at sammensetningen av inntekt gjerne svinger mer for 10. desil
-enn for andre inntektsgrupper. Svingninger i kapital- og næringsinntekter kan også skyldes
-skattetilpasninger. I 2015 og 2021 ble det gjort store uttak av utbytte som må ses i sammenheng
-med økt utbytteskatt fra 2016 og fra 2022.
-
-o
-F
-
-t
-u
-g
-
-e
-v
-ga
-
-i
-p
-
-ø
-l
-re
-
-175
-
-[Side 178]
-
-Tabell 10.10 Sammensetning av inntekt innenfor de ulike desilene for yrkestilknyttede1.
-Andel i prosent av gruppens samlede inntekt før skatt der ikke annet framgår.
-Desilfordelt etter inntekt etter skatt. 2024-kroner. 2014 og 2024
-2024
-Desil
-
-Lønnsinntekt2
-
-Næringsinntekter
-
-Kapitalinntekter3
-
-Dagpenger,
-sykepenger og
-foreldrepenger
-
-Andre
-overføringer4
-
-Gj.snittlig samlet
-inntekt før skatt
-Andel
-Kroner
-
-Utlignet
-skatt5
-
-Inntekt
-etter
-skatt
-
-1
-87,1
-3,8
--1,7
-9,2
-1,6
-100
-447 700
-25,2
-74,8
-2
-86,2
-2,0
-1,0
-8,6
-2,3
-100
-533 400
-22,1
-77,9
-3
-86,2
-1,8
-1,2
-8,1
-2,7
-100
-594 700
-22,7
-77,3
-4
-86,6
-1,8
-1,4
-7,3
-2,8
-100
-651 300
-23,4
-76,6
-5
-87,3
-1,8
-1,6
-6,6
-2,8
-100
-707 700
-24,2
-75,8
-6
-87,3
-2,0
-1,9
-5,8
-3,0
-100
-770 100
-25,2
-74,8
-7
-87,2
-2,5
-2,3
-4,8
-3,2
-100
-849 400
-26,5
-73,5
-8
-86,7
-3,3
-2,9
-3,6
-3,5
-100
-965 400
-28,3
-71,7
-9
-85,1
-4,6
-4,1
-2,5
-3,7
-100 1 165 300
-30,8
-69,2
-10
-66,8
-10,9
-18,7
-1,0
-2,6
-100 2 192 400
-36,8
-63,2
-Alle
-81,7
-4,8
-6,1
-4,5
-2,9
-100
-887 700
-28,7
-71,3
-Herav desil 10 delt opp i persentilene:
-91/92
-83,2
-6,0
-5,5
-1,8
-3,6
-100 1 380 700
-32,8
-67,2
-93/94
-81,7
-6,8
-6,6
-1,6
-3,4
-100 1 506 500
-33,8
-66,2
-95/96
-79,3
-8,1
-8,1
-1,3
-3,2
-100 1 693 900
-35,0
-65,0
-97/98
-73,3
-10,9
-11,8
-0,9
-3,1
-100 2 036 100
-36,5
-63,5
-99
-63,9
-14,4
-18,4
-0,6
-2,7
-100 2 651 300
-38,1
-61,9
-100
-41,9
-15,1
-41,6
-0,2
-1,2
-100 6 038 300
-40,7
-59,3
-2014
-Desil
-1
-84,3
-5,8
--2,1
-10,2
-1,8
-100
-423 600
-25,3
-74,7
-2
-84,6
-3,1
-0,7
-9,0
-2,5
-100
-508 200
-23,7
-76,3
-3
-85,6
-2,8
-0,9
-7,9
-2,8
-100
-566 600
-24,3
-75,7
-4
-86,3
-2,7
-1,0
-7,0
-3,0
-100
-619 400
-24,7
-75,3
-5
-86,7
-3,0
-1,1
-6,2
-3,0
-100
-673 000
-25,2
-74,8
-6
-87,3
-3,2
-1,3
-5,2
-3,0
-100
-733 000
-25,9
-74,1
-7
-87,3
-3,7
-1,6
-4,2
-3,2
-100
-807 300
-26,9
-73,1
-8
-86,2
-4,6
-2,1
-3,3
-3,7
-100
-919 000
-28,5
-71,5
-9
-84,7
-5,9
-3,0
-2,3
-4,2
-100 1 118 500
-30,8
-69,2
-10
-70,6
-9,9
-15,6
-0,9
-3,0
-100 2 043 300
-34,9
-65,1
-Alle
-82,2
-5,4
-4,9
-4,3
-3,2
-100
-841 200
-28,7
-71,3
-Herav desil 10 delt opp i persentilene:
-91/92
-83,5
-6,8
-4,2
-1,6
-3,9
-100 1 329 200
-32,7
-67,3
-93/94
-82,8
-7,1
-5,0
-1,4
-3,7
-100 1 449 800
-33,6
-66,4
-95/96
-80,6
-8,1
-6,6
-1,1
-3,7
-100 1 625 200
-34,6
-65,4
-97/98
-76,5
-9,6
-9,7
-0,8
-3,4
-100 1 951 500
-35,8
-64,2
-99
-68,9
-11,7
-15,9
-0,5
-3,0
-100 2 506 200
-36,4
-63,6
-100
-47,5
-13,5
-37,3
-0,2
-1,5
-100 5 216 100
-35,4
-64,6
-1
-Yrkestilknyttede er definert som personer med de sosioøkonomiske statusene lønnstaker og selvstendig
-næringsdrivende med yrkesinntekt inkl. dagpenger, sykepenger og foreldrepenger på minst 60 prosent av
-gjennomsnittlig industriarbeiderlønn. Disse utgjorde 2 066 241 personer i 2014 og 2 290 863 personer i 2024.
-2
-Lønnsinntekt er definert som kontantlønn og naturalytelser.
-3
-Kapitalinntekter er definert som brutto renteinntekter, utbytte, netto realisasjonsgevinster, netto inntekt ved utleie og
-andre kapitalinntekter.
-4
-Overføringer eksklusiv dagpenger, foreldrepenger og sykepenger.
-5
-Inkluderer negative overføringer. Negative overføringer omfatter pensjonspremie i arbeidsforhold og betalt
-barnebidrag gjennom offentlige ordninger.
-176
-
-o
-F
-
-ø
-l
-re
-
-i
-p
-
-t
-u
-g
-
-e
-v
-ga
-
-[Side 179]
-
-Kilde: Statistisk sentralbyrå.
-
-Tabell 10.11 viser hvordan de samlede inntektene fra de ulike inntektskomponentene fordeler seg
-på inntektsdesilene (etter skatt) i 2014 og 2024.
-Den øverste persentilens andel av inntekt etter skatt er økt fra 25,3 prosent i 2014 til 25,9 prosent i
-2024. Samlet sett har inntekt etter skatt for yrkestilknyttede økt med 5,5 prosent fra 2014 til 2024.
-Veksten har vært høyest i desil 1-7, mens desil 8-10 har hatt lavere vekst enn gjennomsnittet for
-yrkestilknyttede. I den øverste persentilen var imidlertid veksten i inntekt etter skatt på 6,3 prosent.
-I vedleggstabell 4.17 er det gitt en nærmere oversikt over fordelingen av ulike kategorier
-kapitalinntekter for yrkestilknyttede.
-
-o
-F
-
-t
-u
-g
-
-e
-v
-ga
-
-i
-p
-
-ø
-l
-re
-
-177

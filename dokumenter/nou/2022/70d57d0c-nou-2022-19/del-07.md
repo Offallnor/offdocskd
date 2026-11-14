@@ -1,897 +1,889 @@
-# NOU 2022: 19, del 7 av 10 (side 87–97)
+# NOU 2022: 19, del 7 av 11
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2022/70d57d0c-nou-2022-19.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2022-19/id2950851/
 - Original-PDF: https://www.regjeringen.no/contentassets/d50144a8c2454c418f7fae33cae1751d/no/pdfs/nou202220220019000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 7 figurer, 214 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 87]
+# Kjemikalieeksponering og helseeffekter
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+## Kjemisk eksponering i petroleumsvirksomheten offshore
 
-85
+Universitetet i Bergen har foretatt en gjennomgang av tilgjengelige stasjonære og personlige yrkeshygieniske målinger som grunnlag for kommisjonens arbeid og vurderinger.[^157] Siden personlige målinger generelt gir et bedre bilde av arbeidstakerens eksponering, er det ikke lagt vekt på stasjonære målinger. Gjennomgangen viser at det ble gjennomført lite målinger før 1990, og informasjonen om bakgrunnen for målingene og målestrategi er mangelfull fra denne perioden.
 
-Kapittel 9
+Benzen, BTEX, oljetåke og oljedamp
 
-Kapittel 9
+Benzen er et aromatisk hydrokarbon som finnes i produsert olje, gass og kondensat. Benzen er klassifisert som kreftfremkallende ved svært lave nivåer. Det er et løsemiddel og kan ved høye nivåer gi skader på hjerne og sentralnervesystemet. Benzen finnes ofte sammen med andre benzenlignende kjemikalier; n-heksan, toluen, etylbenzen og xylen.
 
-Vil etablering av en kompensasjonsordning være en riktig og
-hensiktsmessig oppfølging av denne gruppen?
-9.1
+BTEX er samlebetegnelse brukt om benzen, toluen, etylbenzen og xylen som ofte finnes som samtidige eksponeringsfaktorer ved arbeid med råolje og prosessering.
 
-Prinsipielle utgangspunkt
+Oljetåke er oljedråper (hydrokarboner) i luft.
 
-I vurderingen av om det vil være en riktig og hensiktsmessig løsning å etablere en egen kompensasjonsordning for oljepionerene, må det ses hen til
-hvilke prinsipielle spørsmål en slik oppfølging av
-saken kan reise. Kommisjonen mener at de prinsippspørsmål som er relevante i denne saken, særlig vil gjelde likebehandlings- og diskrimineringsspørsmål.
-Likebehandlingsprinsippet innebærer at like
-tilfeller skal behandles likt i den grad ikke relevante hensyn begrunner forskjellsbehandling.
-Dersom det skal foreslås tiltak rettet mot særskilte grupper, må det derfor begrunnes saklig
-hvorfor eller på hvilken måte denne gruppen bør
-løftes fram og behandles på en annen måte enn
-andre, sammenlignbare grupper. Det gjelder også
-i saken om oljepionerene. I denne saken må det
-blant annet klargjøres om det var særskilte forhold knyttet til eksponering, regelverk og myndighetsoppfølging som skilte seg vesentlig fra landbasert arbeidsmiljø i den samme perioden. Sammenlignbare grupper kan være arbeidstakergrupper i landbasert industri, andre yrkesgrupper som
-jobbet offshore og ansatte i oljeindustrien på land
-i «pionertiden». Det må videre vurderes om eventuelle forskjeller er så store at disse kan forsvare
-en ordning i tillegg til det alle yrkesgrupper får
-gjennom de lovbestemte yrkesskadeordningene.
-De etablerte yrkesskadeordningene i folketrygdloven og yrkesskadeforsikringsloven som beskrives i kapittel 6, har som utgangspunkt at ordningene skal være like for alle. Likebehandlings- og
-forutberegnelighetshensyn tilsier at det i størst
-mulig grad legges opp til en felles behandlingsmåte for alle yrkesskadeerstatningskrav, uavhengig av yrke eller næring, nasjonalitet eller kjønn.
-Ordningene bygger på etablerte, lovbestemte
-ansvarsforhold, hvor arbeidsgiver blant annet har
-ansvaret for et fullt forsvarlig arbeidsmiljø og for å
-forebygge og kompensere for helseskader som
+Oljedamp er damp fra hydrokarboner.
 
-kan oppstå på grunn av eksponeringer i arbeidet.
-Etablering av særskilte kompensasjonsordninger
-på siden av dette systemet, og som eventuelt skal
-finansieres av staten, kan oppfattes som et brudd
-på disse etablerte ansvarsforholdene. Det er pekt
-på utfordringer med dagens yrkesskadeordninger, blant annet at kravene til dokumentert eller
-sannsynlig årsakssammenheng mellom eksponering og helseskade er for strenge, og «nåløyet»
-blir for trangt. Dette er spørsmål som nå er satt på
-den politiske dagsorden, se kapittel 2.2 og 3.1.3.
-Oslo Economics’ undersøkelse om erfaringer
-med yrkesskadeforsikringsordningen viser at de
-fleste yrkesskadesaker (60–80 prosent) blir godkjent av forsikringsselskapene, og at få saker går
-til rettslig behandling, se kapittel 6.7. Oslo Economics har samtidig fått opplyst at det er vanlig at
-det inngås forlik i disse sakene, og at dette kan
-henge sammen med usikre årsakssammenhenger
-som gjør forlik relevante både for forsikringsselskapet og den yrkesskadde. Kommisjonen legger
-derfor til grunn at forlik har vært en løsning for
-begge parter i disse sakene.
-Det er tidligere etablert særskilte kompensasjonsordninger for militære veteraner og nordsjødykkere, som er finansiert av staten og som kommer i tillegg til de ordinære yrkesskadeordningene, se kapittel 4. Begrunnelsene for kompensasjonsordningene var særtrekk ved disse gruppenes arbeidsforhold. Når det gjelder nordsjødykkerne, ble det pekt på at disse gjorde et
-banebrytende arbeid i Nordsjøen fra 1965 til 1990,
-under svært vanskelige og ukjente forhold.
-Mange av dykkerne pådro seg helseplager og skader som en følge av dykkingen.1 Nordsjødykkerne utførte også arbeidsoperasjoner og var
-eksponert for arbeidsmiljøbelastninger som ikke
-kan sammenlignes med andre yrkesgrupper i
-arbeidslivet for øvrig. Den særskilte kompensa1
+Rammeslutt
 
-Innst. S. nr. 137 (2003–2004) Innstilling fra kommunalkomiteen om gransking av pionerdykkernes forhold i Nordsjøen.
+Selv om det foreligger begrenset dokumentasjon i form av målinger før 1990-tallet, kan man med dagens kunnskap om eksponering offshore, likevel si noe kvalitativt om hva oljearbeiderne har vært eksponert for. Kunnskapsutviklingen fram til i dag indikerer også at grupper som man tidligere antok ikke var høyt eksponerte, likevel kan ha vært utsatt for tilstrekkelig høy eksponering til at det har gitt varige helseskader.
 
-[Side 88]
+I denne gjennomgangen legges det vekt på å gi en oversikt over kunnskap om kjemikalieeksponering som er særskilt for petroleumsvirksomheten offshore. Oljearbeidere eksponeres for en rekke kjemikalier, hvorav noen er mer spesialiserte for arbeidet offshore, som hydrokarboner, benzen og boreslam. Andre kjemikalier som oljearbeidere eksponeres for er også aktuelle i virksomhet på land, slik som hydrogensulfid (H<sub>2</sub>S), asbest i bygningsinstallasjoner og til isolering, krystallinsk silika og biocider.[^158] Rapporten fra Universitetet i Bergen omtaler blant annet målinger gjort for biocideksponering, H<sub>2</sub>S og organofosfater.
 
-86
+### Boring og brønnaktiviteter
 
-NOU 2022: 19
+Under boring fjernes stein og jord fra borehullet. Boreslam består av baseolje og tilsetningsstoffer og benyttes i forbindelse med boring av brønner, se boks 8.2. Boreslammet skal oppfylle flere formål; det skal avkjøle og smøre borekrona, frakte utboret kaks tilbake til innretningen og fungere som en sikkerhetsbarriere mot trykket i brønnen. Boreslam blandes i slamtank og pumpes ved høyt trykk inn i borestrengen, se figur 8.1. Borevæsken som strømmer tilbake fra brønnen tar med seg utboret kaks til shaker, der kaks blir skilt fra boreslammet. Kaksen blir håndtert som avfall, mens slammet føres tilbake til slamtank der egenskapene justeres med tilsetningsstoffer og igjen kan føres inn i borestrengen.
 
-Kapittel 9
+Skjematisk framstilling av boreprosessen med slam
 
-Oljepionerene – en kompensasjonsordning
+Paaske, S. Benny Mason. (https://ndla.no/article/350)
 
-sjonsordningen for psykiske belastningsskader
-blant veteraner i perioden 1978–2009 ble etablert
-for å imøtekomme en rekke utfordringer knyttet
-til håndteringen av eldre erstatningskrav fra veteraner som hadde blitt påført denne typen skader.
-Det er videre vist til at personell som tjenestegjør i
-internasjonale operasjoner til tider oppholder seg
-i meget risikofylte områder, og under krevende
-forhold med stort skadepotensial.2
-Et annet prinsipielt spørsmål er om en kompensasjonsordning kan begrunnes med at oljearbeiderne i pionertiden arbeidet i en næring som
-hadde stor samfunnsmessig betydning og bidro til
-store inntekter til staten. I nordsjødykkersaken
-ble det av noen framholdt som et argument at dykkerne hadde bidratt til statens omfattende oljeinntekter og dermed «fortjente» en særskilt kompensasjonsordning. I den offentlige debatten i kjølvannet av nordsjødykkersaken ble det blant annet
-stilt spørsmål ved de etiske sidene ved et slikt
-argument – at den samfunnsmessige verdien av
-den enkeltes arbeid måles gjennom direkte inntekter til staten. Mange yrker og bransjer med
-høy arbeidsmiljøbelastning og høye offentlige
-utgifter, spesielt i offentlig sektor, bidrar til viktig
-samfunnsnytte og bærekraft, for eksempel brannfolk, helsepersonell m.fl. Folketrygden og
-yrkesskadeforsikringsordningen skal ivareta alle
-arbeidstakere som får yrkesskader likt, uavhengig
-av yrke eller næring. Kommisjonen mener derfor
-at en egen kompensasjonsordning for oljepionerene ikke kan begrunnes med at denne gruppen
-har bidratt til statens oljeinntekter.
-Med utgangspunkt i likebehandlingsprinsippet, mener kommisjonen at også kjønnsforskjeller
-og likestilling er en relevant problemstilling i
-denne saken. De kompensasjonsordningene som
-er etablert tidligere, har vært for mannsdominerte grupper og yrker som har hevdet seg tydelig i offentligheten; veteranene og nordsjødykkerne. Oljepionerene har sånn sett likhetstrekk
-med disse gruppene. I forbindelse med saken om
-kvikksølveksponering blant tannhelsesekretærer,
-se kapittel 4.3, ble det pekt på at kvinner og kvinnedominerte yrker ikke på samme måte får gjennomslag i yrkesskadeordningene, og de er heller
-ikke tilbudt oppfølging gjennom særskilte kompensasjonsordninger. Et initiativ om en egen ordning for tannhelsesekretærer i 2014 ble ikke fulgt
-opp. I debatten rundt oppfølging av saken om
-tannhelsesekretærene, ble det pekt på kjønnsfor2
+Når borekrona er utslitt, når det skal startes på ny seksjon, når det gjennomføres målinger eller når andre grunner tilsier det, må borestrengen trekkes ut av brønnen. Under dette arbeidet sirkuleres slammet og det kan renne ut slam på boredekk. Ved frakobling av rør kunne det tidligere bli mye søl på boredekk og det kunne være nødvendig med manuell tørking av borestreng. Dette arbeidet har over tid blitt mer automatisert og fjernoperert, blant annet gjennom myndighetenes krav på midten av 1980-tallet om automatisk rørhåndtering for å redusere ulykkesrisiko.
 
-Prop. 59 L (2020–2021) Endringer i forsvarsloven (klageadgang og foreldelse i erstatningssaker og Forsvarets bistand til
-offentlige myndigheter og andre beredskapsaktører).
+Boreslam
 
-skjeller i oppfølging av særskilte grupper og at
-dette er en utfordring ut fra et likestillingsperspektiv. I kvinnedominerte yrker er det også høyere forekomst av helseplager og sykdom som kan
-skyldes arbeidet, men som ikke omfattes av
-«yrkessykdomslisten», dvs. muskel-skjelettlidelser, se kapittel 6.3, eller der det er vanskeligere å
-sannsynliggjøre eller påvise en sammenheng med
-eksponering i arbeidet. Kommisjonen viser på
-denne bakgrunn til at særordninger for mannsdominerte grupper kan oppfattes som en utfordring
-ut fra et likestillingsperspektiv.
+Boreslam benyttes for å stabilisere borehullet under boring. Hovedegenskapene til borevæsken er å stå imot trykket fra formasjonen samt å frakte borekaks til overflaten. Boreslam består av væske som tilsettes ulike stoffer for å oppnå egenskapene som kreves under de gitte forholdene, med hensyn til tetthet, viskositet, filtreringstap og avleiring. Borevæsken kan forurenses med hydrokarboner, inkludert benzen fra de geologiske formasjonene det bores i, eller fra hydrokarboner som tilsettes borevæsken for å forbedre boreegenskapene.<sup>1</sup> Tilsetningsstoffer i borevæsken har vært dominert av vektmaterialer og uorganiske kjemikalier, blant annet i form av barytt (kvartsholdig), asbest, emulgatorer (fettsyrer), avleiringshemmere (som kaliumkarbonat) og ulike biocider (formaldehyd).
 
-9.2
+02N1tx2
 
-Begrunnelse for en egen
-kompensasjonsordning for
-oljepionerene
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 80%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: right;">Periode</th>
+<th>Boreslam hovedsakelig basert på:</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">Før 1979</td>
+<td>Vann</td>
+</tr>
+<tr>
+<td style="text-align: right;">1979–1984</td>
+<td>Diesel – aromatinnhold &gt;15 prosent</td>
+</tr>
+<tr>
+<td style="text-align: right;">1985–1997</td>
+<td>Lavaromatiske mineraloljer –<br />
+aromatinnhold 1–10 prosent</td>
+</tr>
+<tr>
+<td style="text-align: right;">1990–2002</td>
+<td>Syntetiske baseoljer basert på eter, ester eller olefin</td>
+</tr>
+<tr>
+<td style="text-align: right;">Fra 1998</td>
+<td>Ikke-aromatiske boreslam – aromatinnhold &lt;0,01 prosent</td>
+</tr>
+</tbody>
+</table>
 
-For at en egen kompensasjonsordning for gruppen «oljepionerer» skal kunne oppfattes som en
-rettferdig, riktig og hensiktsmessig oppfølging,
-har kommisjonen vurdert om det er forhold, eventuelt hvilke forhold, som skiller offshoreansatte
-fra ansatte på land i den perioden som kommisjonen kommer fram til er «pionertiden», se kapittel
-10.1. I denne diskusjonen har kommisjonen lagt til
-grunn kunnskapsgrunnlaget som framgår av del I
-i utredningen.
-Kommisjonen har drøftet om blant annet følgende forhold saklig sett kan begrunne en egen
-kompensasjonsordning for oljepionerene:
+<sup>1</sup> Universitetet i Bergen, 2022
 
-9.2.1
+Rammeslutt
 
-Oljevirksomheten i «pionertiden» var
-en ny industri i norsk sammenheng,
-med nye og ukjente forhold
-Norsk petroleumsvirksomhet var fra oppstarten
-en næring preget av arbeidsprosesser med liten
-forankring i annen norsk industri, samt av rask
-teknologisk utvikling. Oljearbeiderne var også
-den første tiårsperioden løst integrert og sto delvis på siden av norsk arbeidsliv. 3
-Til forskjell fra landbasert virksomhet er det
-utfordrende forhold knyttet til vær og hav
-(«metocean») offshore. Dette innebar at mye av
-virksomheten på norske plattformer måtte bygges
-inn. Det var arbeidstidsordninger med 12-timers
-skift og komprimert arbeidstid, og oljearbeiderne
-kunne ikke forlate plattformene i arbeidsperiodene, slik som det også er i dag. Amerikanske
-ledere kom fra anlegg i Mexico-gulfen, hvor forholdene var annerledes enn i Nordsjøen. Oppgavene var ukjente for norske arbeidstakere som
-3
+Oljebasert boreslam gir risiko for å puste inn hydrokarbonforurensing fra oljetåke, oljedamp og benzen fra selve boreslammet og forurensing fra formasjonene i slambehandlingsområdene, slamtank, sentrifuger og shaker.
 
-Smith-Solbakken, 1997.
+Før 1999 er det er manglende dokumentasjon på eksponering for enkeltkomponenter i baseoljene eller komponenter i boreslammet som kan stamme fra berggrunn/reservoar, inkludert benzen. Målingene er hovedsakelig på kvantifisering av oljetåke og oljedamp. Det er målt noe på benzen, toluen, etylbenzen og xylen. Oljedampen kan inneholde benzen, men siden det ikke er analysert spesifikt for benzen, er det vanskelig å si noen om hvilke nivåer av benzen oljedampnivåene kan indikere.
 
-[Side 89]
+Den personlige eksponeringen for oljedamp og oljetåke har over tid gått ned. Figur 8.2 viser eksponeringsnivåer for oljedamp på flyttbare og faste installasjoner i shakerområdet. Beregningene er basert på 521 personlige målinger av oljedamp i shakerområdet ved boring med oljebasert boreslam fra perioden 1979–2009. For flyttbare installasjoner er målingene fra perioden 1990–2009.
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+I perioden 1979–1983, da diesel var en vanlig tilsetning i boreslammet, viser målinger at eksponeringen for dieseldamp kunne være svært høy i shakerrom (median 1280 mg/m<sup>3</sup> n=23). Arbeidsoppgaver som ble utført var blant annet kontroll og inspeksjon, prøvetaking som tetthetsprøver, vedlikehold, spyling, lapping og skifting av rister og utspading av slam. Disse oppgavene ble hovedsakelig utført av boredekksarbeidere. Både oljetåke- og oljedampeksponering ble redusert som følge av tekniske tiltak som bygging av shakerbu og bedre ventilasjon.
 
-begynte å jobbe offshore i den tidligste perioden –
-fra 1966 til midten av 1970-tallet. Antall sysselsatte
-som arbeidet med undersøkelse, boring og produksjon økte betydelig etter hvert som flere felt
-ble satt i drift. Fra midten av 1980-tallet var det
-utflating i antallet sysselsatte.4
-Den tidligste perioden (1966–1974) bar preg
-av at myndighetene i første rekke var opptatt av å
-sikre nasjonale økonomiske interesser, regulere
-dette og legge til rette for vekstvilkår for ny industriell virksomhet. De tidligste stortingsmeldingene om virksomheten omhandlet først og fremst
-ressursspørsmål og perspektiver for denne nye
-industrien. For selskapene og for norske interesser var det viktig at produksjonen kom i gang så
-raskt som mulig. I møte med kommisjonen, har
-oljepionerer pekt på at arbeidet var preget av
-fokus på å holde driften i gang, med minst mulig
-«nedetid», se kapittel 2.3.2.
-Petroleumsvirksomheten var og er fremdeles
-organisert med et stort innslag av leverandører og
-underleverandører. På innretningene til havs er
-tre av fire arbeidstakere ansatt i et leverandørselskap og dette har over tid vært relativt stabilt. En
-slik type organisering er kommunikasjonsmessig
-krevende, blant annet med mange grenseflater og
-tilsvarende mange muligheter for misforståelser
-og uklare ansvarsforhold.
+Utvikling i nivåer for oljedamp i shakerområdet ved bruk av oljebaserte baseoljer
 
-9.2.2 Ledelses- og arbeidskultur
-De første årene av norsk petroleumsvirksomhet
-var preget av utenlandske selskaper med en ledelses- og arbeidskultur som var fremmed for norske
-arbeidstakere. Kommisjonen har blitt fortalt at
-dersom arbeidstakere hadde innvendinger til
-arbeidet, kunne de bli sendt hjem, se møte med
-oljepionerene, kapittel 2.3.2. Petroleumstilsynet
-har i forbindelse med sitt utredningsarbeid intervjuet to av de første yrkeshygienikerne i Oljedirektoratet, som forteller om et arbeidsmiljø i
-petroleumsvirksomheten i 1977 som var preget av
-en amerikansk, hierarkisk ledelseskultur og som
-ofte krasjet med norske samarbeidstradisjoner.
-Bevisstheten og kunnskapen om yrkeshygiene og
-kjemisk arbeidsmiljø beskrives også som lav. Den
-amerikanske «company-linjen» ble imidlertid
-betydelig svekket etter hvert, ikke minst på grunn
-av innføring av arbeidsmiljøloven i 1977 og at oljearbeiderne ble supplert med folk fra norsk industrimiljø som var fortrolige med innarbeidede rettigheter i norsk arbeidsliv og med norsk bedriftsdemokrati som ballast. 5 Fra midten av 1970-tallet
+Universitet i Bergen 2022
 
-ble det etablert verneombudsordninger og
-arbeidsmiljøutvalg i selskapene, og med arbeidsmiljøloven ble det organiserte vernearbeidet en
-viktig faktor for å identifisere og reise saker overfor selskapets ledelse. En rekke av disse sakene
-handlet om kjemisk helsefare. I løpet av 1970-tallet var det en gradvis endring på eierskapssiden i
-norsk petroleumsvirksomhet, og amerikanske
-boreentrepenører ble supplert av norske redere.
-Norsk arbeidslivskultur, med vekt på partssamarbeid og medvirkning ble implementert i virksomhetene. I de utenlandske selskapene var det likevel lite tradisjon for formalisert arbeidstakermedvirkning og det tok tid før ordningene ble innarbeidet og fungerte i henhold til intensjonen i
-arbeidsmiljøloven. I Oljedirektoratets årsrapporter framgår det at det var varierende etterlevelse
-av regelverkskravene på dette området.
-Trepartssamarbeidet kom på plass i norsk
-petroleumsvirksomhet fra 1980-tallet. I partssamarbeidet mellom arbeidsgivere, arbeidstakere og
-myndigheter ble rammevilkår fastsatt, regelverk
-utformet og forpliktende avtaler etablert.6 Kravet
-om verneombudsordninger og arbeidsmiljøutvalg ble fulgt opp av myndighetene, også når det
-gjaldt flyttbare innretninger.
+I slamtankområdet er det utført få målinger før 1998 og resultatene fra disse viser stor spredning og at eksponeringen for dieseldamp kunne være svært høy (median 1076 mg/m<sup>3</sup> n=17). Tårnmenn og assisterende tårnmenn utførte arbeid i området rundt slamtankene med inspeksjon, prøvetaking og slamveiing, tømming og spyling av tankene. Det var her som på shaker en nedgang i eksponeringsverdier, men noe høyere verdier på flyttbare installasjoner sammenliknet med faste installasjoner. Anlegg der borekaksen fjernes før den blir lagret eller injisert (SMACC-anlegg) hadde tilsvarende nivåer for oljetåke og oljedamp. Nivåer av BTEX var hovedsakelig lave i slamtankområdet og shaker, inkludert SMACC-anlegg.
 
-9.2.3 Kjemisk arbeidsmiljø
-Kommisjonen viser til at oljearbeidere i den tidlige
-fasen ble utsatt for kjemisk eksponering, og til
-dels høy eksponering. Arbeidet offshore innebar
-også eksponering som var ulik tilsvarende virksomhet på land i Norge, herunder eksponering
-for hydrokarboner, benzen og boreslam. Studier
-har vist økt risiko for ulike kreftformer knyttet til
-bloddannende organer og økt risiko for hudkreft
-hos oljearbeiderne. Det ble i Kreftregisterets studier funnet sammenheng mellom benzeneksponering og ulike kreftformer som lymfekreft og blodkreft, og økt risiko for hudkreft på underarm og
-hånd, som sannsynligvis kommer av lokalt
-hudopptak av benzen og PAHer fra råolje, se
-kapittel 8.2.4.
-I den grad kjemisk helserisiko var på dagsorden i oppstarten av norsk petroleumsvirksomhet,
-var det knyttet til ulykker med akutte forgiftninger
-eller etseskader. Bevisstheten og kunnskapen om
-yrkeshygiene og kjemisk arbeidsmiljø beskrives
-som lav, men kom gradvis utover på 1970-tallet.
-Innen kjemisk arbeidsmiljø kom systemtenkingen
-inn i regelverket med innføring av arbeidsmiljølo5
+Selv om det er få målinger av BTEX antas det at eksponeringen på mange områder har gått ned som følge av tekniske forbedringer.
 
-4
+Måledataene gir en indikasjon på eksponeringsnivå ved ulike arbeidsoppgaver, men antallet målinger per arbeidsoppgave og antallet installasjoner målinger er utført ved, er for lite til å kunne si om målingene er representative.
 
-Oslo Economics, 2022a.
+Tilsetting av tørrstoff til boreslammet ble tidligere gjort manuelt fra sekk i mikseanlegget ved hopper (trakt, uten automatisk sekkekutter). De mest brukte var barytt og bentonitt som inneholdt krystallinsk silika. Det var myndighetskrav om at kvartsinnholdet skulle være mindre enn fem prosent. Eksponeringen for krystallinsk silika var sannsynligvis lav, og langt lavere enn ved for eksempel tunneldrift og bearbeiding av stein i steinbrudd.
 
-87
+Utvalgte historiske endringer innen boring
 
-Kapittel 9
+04J1xt2
 
-6
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 26%" />
+<col style="width: 26%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th> </th>
+<th>Før 1980</th>
+<th>1980–1990</th>
+<th>1990–2000</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Boreslam</td>
+<td rowspan="3">Hovedsakelig vannbasert</td>
+<td>1979–1984: dieselbasert</td>
+<td>1985–1997:<br />
+lavaromatisk</td>
+</tr>
+<tr>
+<td>1985–1997: lavaromatisk</td>
+<td>1998–: ikke-aromatisk</td>
+</tr>
+<tr>
+<td> </td>
+<td>1990–: syntetiske</td>
+</tr>
+<tr>
+<td rowspan="2">Tilsetningsstoffer i<br />
+boreslam</td>
+<td>–1984: asbest, attpulgitt</td>
+<td rowspan="2">Krystallinsk silika</td>
+<td rowspan="2">Krystallinsk silika</td>
+</tr>
+<tr>
+<td>Krystallinsk silika</td>
+</tr>
+<tr>
+<td>Gjengefett til<br />
+rørhåndtering</td>
+<td>Blyholdig</td>
+<td>Blyholdig</td>
+<td>–1995: Blyholdig</td>
+</tr>
+<tr>
+<td>Biocid</td>
+<td>Formaldehyd</td>
+<td>Formaldehyd</td>
+<td>Glutaraldehyd,<br />
+nitrittbasert</td>
+</tr>
+<tr>
+<td rowspan="3">Mikse- / sekkerom</td>
+<td>Åpne miksesystemer</td>
+<td>Delvis lukket<br />
+miksesystem</td>
+<td>Hovedsakelig automatiske kutteanlegg</td>
+</tr>
+<tr>
+<td>Manuell sekkekutting</td>
+<td>Automatisering av<br />
+kutting</td>
+<td>Noe manuell miksing</td>
+</tr>
+<tr>
+<td> </td>
+<td>Noe manuell miksing</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="3">Shakerrom</td>
+<td rowspan="3">Åpne systemer</td>
+<td rowspan="3">Liten andel installasjoner med shakerbu</td>
+<td>Flere installasjoner med shakerbu</td>
+</tr>
+<tr>
+<td>Ventilasjonsforbedringer</td>
+</tr>
+<tr>
+<td>Anbefaling om åndedrettsvern på shaker</td>
+</tr>
+<tr>
+<td>Slamtank</td>
+<td>Åpne tanker og renner</td>
+<td>Delvis lukkede tanker og renner</td>
+<td>Varierende grad av åpne og lukkede tanker og renner</td>
+</tr>
+<tr>
+<td rowspan="2">Boredekk</td>
+<td>Asbest fra bremsebånd</td>
+<td>Asbest fra bremsebånd</td>
+<td rowspan="2">1985–1995: Innføring av automatisk rørhåndtering (redusert asbesteksponering)</td>
+</tr>
+<tr>
+<td>Manuell rørhåndtering</td>
+<td>1985–1995: Innføring av automatisk rørhåndtering (redusert asbesteksponering)</td>
+</tr>
+</tbody>
+</table>
 
-Smith-Solbakken, 1997.
-Smith-Solbakken, 1997.
+Universitetet i Bergen 2022
 
-[Side 90]
+Asbest ble brukt som tilsetning i vannbasert boreslam før asbestforbudet ble innført i 1980, og mulig til andre formål, slik som på land fram til totalforbudet i 1985. Flosal, et tilsetningsstoff med høyt asbestinnhold, ble tilsatt i løs form fra 20 kilos sekker som ble åpnet manuelt og tømt i hopper, noe som sannsynligvis har medført kortvarig høy støveksponering.
 
-88
+Tabell 8.1. viser oversikt over ulike endringer innen boring som har hatt betydning for kjemisk eksponering.
 
-Kapittel 9
+### Produksjon og vedlikehold
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+#### Produksjon og prosess
 
-ven (særlig §§ 11 og 18), kombinert med krav i
-produktkontrolloven. Grenseverdiene (administrative normer) ble endret etter hvert som ny
-kunnskap kom til. Dette var også situasjonen i
-landbasert virksomhet. Noen kjemiske risikofaktorer, som asbest, kvikksølv og H2S, var i stor
-grad felles for industrivirksomhet på land og til
-havs. Utvikling av kunnskap og oppfølging av
-disse områdene løper derfor parallelt med utviklingen i industrien ellers i arbeidslivet. Oljedirektoratet fulgte opp bruken av asbest fra midten av
-70-tallet. Oljedirektoratet innførte forbud mot
-bruk av asbestholdige kjemikalier i borevæske på
-sokkelen i 1980, mens totalforbudet mot bruk av
-asbest i Norge kom i 1985. Det antas at erfaring
-og resultater fra tilsyn, samarbeid, kunnskapsproduksjon og teknologiutvikling kombinert med
-informasjon og veiledning til næringen i stort,
-også førte til nye løsninger og forbedring knyttet
-til kjemiske arbeidsmiljøforhold på flyttbare innretninger.
-Oppfølging av kjemisk arbeidsmiljø utover
-1980-tallet skilte seg ikke særlig fra andre sammenlignbare yrkesgrupper på land. Det var mye
-bruk av kjemikalier, men lite kunnskap om kjemikaliene som ble brukt. Arbeidstakerne tok med
-seg erfaringer og kunnskap om kjemikaliebruk
-fra landbasert industri til virksomheten offshore.
-Fra siste halvdel av 1970-tallet ble det rettet oppmerksomhet mot arbeidsmiljøutfordringer ved
-boreslam. Oljedirektoratet gjennomførte i 1980 et
-prosjekt med kvalitativ og kvantitativ bestemmelse av komponenter i dieselbasert boreslam.
-For malere offshore er kommisjonen kjent med
-at det ble rapportert om akutteffekter under
-arbeid ved utblanding og påføring av maling. Men
-det var også svært vanlig med slik rapportering av
-akutteffekter blant de som ble utredet for løsemiddelskade etter arbeid på land eller i sjøfarten, også
-blant malere i landbaserte virksomheter – både
-blant industrimalere og malere med oppdrag i
-boliger og næringslokaler. Bruk av løsemidler i
-maling og lakk har blitt gradvis faset ut for de aller
-fleste produktene etter hvert som det er utviklet
-vannbaserte produkter med tilstrekkelig god kvalitet og varighet av overflatebeskyttelseseffekt.
+Petroleumsstrømmene fra brønnen består av en blanding av råolje, gass, vann og sand. På produksjonsplattformer blir denne blandingen ført i et lukket prosessystem og separert. Råolje og gass sendes til en terminal på land via rør eller fraktes med skip, mens det produserte vannet enten blir reinjisert i brønnen, eller renset og sluppet ut i sjøen. Potensiell eksponeringsfare for petroleumsstrømmer oppstår ved åpning av prosessystemene.
 
-9.2.4
+Råoljens sammensetning varierer fra felt til felt, og består av en kompleks blanding av hydrokarboner, og et stort antall oksygen-, nitrogen- og svovelforbindelser, samt små mengder (0,0001–0,1 prosent) metaller. Av kreftfremkallende stoffer finnes blant annet benzen, polyaromatiske hydrokarboner (PAH) og fenoler. Produsert vann varierer både i mengde og sammensetning mellom oljefeltene. Vannet består av olje, kjemiske stoffer som finnes naturlig i reservoaret og kjemikalier som tilsettes under produksjonsprosessen. Forbruket av de ulike gruppene av tilsetningsstoffer, som har ulike funksjoner, varierer mellom de ulike feltene.
 
-Forebyggende helse-, miljø- og
-sikkerhetsarbeid (HMS)
-Fra oppstarten av norsk petroleumsvirksomhet
-var det ansatt og innleid medisinsk personell i
-operatørselskapene for å dekke akuttmedisinske
-behov ved skader og sykdom blant arbeidstakere
-på innretningene. Når det gjaldt det forebyggende
+Innholdet i det produserte vannet varierer fra felt til felt og stammer fra formasjonsvæske, injisert vann og tilsetningsstoffer fra produksjonsprosessen. Oljen kan finnes som små dråper og løst i vannet, og inneholder polyaromatiske hydrokarboner (PAH), naftalen, phenantren og dibenzotiofen (NPD), benzen, toluen, etylbenzen, xylen (BTEX) og C<sub>8</sub>/C<sub>9</sub> alkylfenoler. I tillegg finnes det også naturlig forekommende tungmetaller, som kobber, krom og kvikksølv.[^159]
 
-HMS-arbeidet var det imidlertid fram til arbeidsmiljøloven i 1977 oppmerksomhet på ulykker og
-ytre miljø, framfor kjemisk arbeidsmiljø. Det var
-lite verneutstyr tilgjengelig, og det som var tilgjengelig var av varierende kvalitet. Det var også i
-mindre grad opplæring i og krav om bruk av verneutstyr. Selskapenes søkelys var rettet mot å forhindre ulykker og skader. Arbeidsmiljø og samarbeid mellom partene var i liten grad på dagsorden
-før midten av 1970-tallet. Stort press på framdrift
-og svake arbeidstakerrettigheter kan ha medført
-at sikkerheten, både på borerigger og i forbindelse med utbygging av de første feltene, ikke fikk
-nok prioritet. Fram til midten av 1970-tallet var
-arbeidsmiljø ikke et viktig tema for fagforeningene, men dette endret seg under arbeidet med
-den nye arbeidsmiljøloven. I 1979–1980 ble det
-ansatt to yrkeshygienikere i industrien og en i
-Oljedirektoratet. Dette ble starten på en profesjonalisering av risikovurderinger og økt oppmerksomhet på arbeidsmiljøfaktorer og langtidseffekter. Det ble blant annet gjort et omfattende arbeid
-i bransjen fra 1980-tallet med å få oversikt over og
-bedre kvalitet på yrkeshygieniske datablader.
-Arbeidet med yrkeshygieniske datablader skapte
-oppmerksomhet og bevissthet omkring hvor
-mange og hvor farlige kjemikalier som faktisk var
-i bruk.
-Kunnskapsutvikling om arbeidsmiljø ble satt
-på dagsorden fra midten av 1970-tallet, se kapittel
-7.4. En nasjonal forskningsinnsats ble etablert
-gjennom særskilte bevilgninger til forskningsprogrammet «Sikkerhet på sokkelen 1978–1982».
-Arbeidsmiljø var ett av flere prioriterte områder,
-og programmet omfattet en rekke prosjekter og
-publikasjoner om arbeidsmiljø i petroleumsvirksomheten. Det ble etablert tette koblinger mellom
-utviklingen av forskningsbasert kunnskap og
-Oljedirektoratets oppfølging i kontroll og reaksjonsmiddelsporet. Kunnskapen fikk også betydning for utviklingen av regelverk, retningslinjer,
-veiledninger mv., og for mer konkrete forbedringsinitiativ rettet mot aktørene i næringen. En
-spørreundersøkelse i regi av forskningsprogrammet blant verneombud og tillitsvalgte i 1980 viste
-at det på det tidspunktet var relativt høy bevissthet
-om kjemisk helserisiko. Brannfarlige stoffer, støv,
-gasser, kjemikalier, løsemidler, etsende stoffer
-mv., ble av mange vurdert som viktige arbeidsmiljøfaktorer.7
-Selv om utviklingen viser at mange tiltak ble
-iverksatt, mener kommisjonen at det var krevende
-å få et jevnt trykk på forbedringer av det kjemiske
-7
+Mens hovedmengden målinger innen boring og brønn er av hydrokarboner i oljetåke og oljedamp og i liten grad av benzen, se kapittel 8.1.1, har det vært gjort flest målinger av benzen i produksjon, men ingen personlige målinger før 1990. Stillingskategorier er registrert, og flesteparten av målingene er gjort på prosesstekniker og prosessoperatør, laboratorietekniker, mekaniker og dekksarbeidere. Det er ved de uspesifiserte/ikke angitte oppgavene man finner absolutt flest målinger, etterfulgt av arbeidsoppgaven prøvetaking.
 
-Karlsen, 1982.
+Råolje, kondensat og produsert vann inneholder alle både benzen, toluen, etylbenzen og xylen. Personlige målinger utført på personell i produksjonsområdet (prosessoperatører, mekanikere, laboranter mv.) og arbeidsoperasjoner med potensial for benzeneksponering viser lavere eksponering for toluen, etylbenzen og xylen sammenlignet med både benzen og med deres respektive grenseverdier.
 
-[Side 91]
+Selv om langtidsmålingene generelt viser nivåer som er lavere enn dagens grenseverdi, er det målinger som viser høye nivåer av benzen, slik som for arbeidsoperasjonene pigging og rengjøring av tanker og separatorer, se tabell 8.2.
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+Benzennivåer i produksjon og prosessområdet prøvetakingstid over 15 minutter
 
-arbeidsmiljøet. Arbeidet var sjelden koordinert,
-og det ble utviklet parallelle systemer for sikkerhet og arbeidsmiljø. Fagmiljøene var ikke organisert sammen og det var ulike faglige tradisjoner
-som gjorde seg gjeldende. Denne organiseringen
-kan ha ført til ulik oppmerksomhet på arbeidsmiljøspørsmål og sikkerhetsspørsmål.
+07J1xt2
 
-9.2.5 Regelverk
-Selv om de tidligste sikkerhetsforskriftene inneholdt enkelte krav om vern av ansattes arbeidsmiljø og helse, bærer både 1967-resolusjonen og de
-senere sikkerhetsforskriftene preg av å først og
-fremst regulere sikkerhet og storulykkesrisiko.
-Oljedirektoratet definerte fra midten av 1970-tallet
-arbeidsmiljø som en del av det utvidede sikkerhetsbegrepet og arbeidsmiljø ble i økende grad
-inkludert i selskapenes innsats for å gjøre seg
-attraktive til kommende konsesjonsrunde. Det var
-først fra midten av 1970-tallet med Halden-utvalget,8 Oljedirektoratets første sikkerhetsforskrift i
-1975, at deler av arbeidervernloven blir gjort gjeldende i 1976 og med ny arbeidsmiljølov i 1977, at
-utviklingen skjøt fart for arbeidsmiljøoppfølgingen
-i petroleumsvirksomheten. Denne utviklingen
-bidro til at de samme kravene ble stilt til arbeidsmiljøet i petroleumsnæringen til havs som i tilsvarende industri på land. Arbeidsmiljøloven ble gjort
-gjeldende på faste innretninger i 1977 og på flyttbare innretninger i 1992. Petroleumsloven og
-internkontrollforskriften trådte i kraft i 1985.
-9.2.6 Myndighetsoppfølging
-Industridepartementet hadde i oppstarten ansvar
-for oppfølging av petroleumsvirksomheten.
-Departementet delegerte fra 1969 myndighet til
-Arbeidstilsynet til å føre kontroll med innretningene, herunder håndtering av råstoffer, personlig
-verneutstyr og vernearbeid om bord. I 1979 ble
-myndighetsansvaret for sikkerhet og beredskap i
-petroleumsvirksomheten overført til Kommunalog arbeidsdepartementet.
-Arbeidstilsynet hadde liten kapasitet og lav
-kompetanse på oljeindustrien, og tilsynsaktiviteten var begrenset. Petroleumsvirksomheten var
-ny for tilsynene. Det ble delegert myndighet til
-flere kontrollinstanser og fastsatt forskrifter med
-ulik og til tider motstridende myndighetsoppfølging. Det var også eksempler på at etater hadde
-utviklet detaljforskrifter der hjemmelsgrunnlaget
-8
+<table>
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 9%" />
+<col style="width: 13%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 11%" />
+<col style="width: 14%" />
+</colgroup>
+<thead>
+<tr>
+<th>Arbeidsoppgaver &gt; 15 min</th>
+<th>Agens</th>
+<th>Tidsperiode</th>
+<th>Antall</th>
+<th>Median (ppm)</th>
+<th>Min – Max<sup>2</sup> (ppm)</th>
+<th>Grenseverdi<sup>1<br />
+</sup>(ppm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Uspesifiserte prosesstekniske</td>
+<td rowspan="20">Benzen</td>
+<td>1990–99</td>
+<td>98</td>
+<td>0,01</td>
+<td>&lt;lod-0,97</td>
+<td rowspan="20">0,12</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>195</td>
+<td>0,01</td>
+<td>&lt;lod-11,9</td>
+</tr>
+<tr>
+<td rowspan="2">Åpning av HC systemer</td>
+<td>1990–99</td>
+<td>3</td>
+<td>0,02</td>
+<td>&lt;lod-0,02</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>50</td>
+<td>0,01</td>
+<td>&lt;lod-4,0</td>
+</tr>
+<tr>
+<td rowspan="2">Prøvetaking</td>
+<td>1990–99</td>
+<td>15</td>
+<td>0,06</td>
+<td>&lt;lod-0,7</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>104</td>
+<td>&lt;lod</td>
+<td>&lt;lod-1,5</td>
+</tr>
+<tr>
+<td rowspan="2">Laboratoriearbeid</td>
+<td>1990–99</td>
+<td>11</td>
+<td>0,01</td>
+<td>&lt;lod-0,06</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>13</td>
+<td>0,01</td>
+<td>&lt;lod-0,04</td>
+</tr>
+<tr>
+<td rowspan="2">Flotasjon</td>
+<td>1990–99</td>
+<td>32</td>
+<td>0,05</td>
+<td>&lt;lod-0,7</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>8</td>
+<td>0,05</td>
+<td>0,002–0,4</td>
+</tr>
+<tr>
+<td rowspan="2">Vedlikehold av filtre</td>
+<td>1990–99</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>9</td>
+<td>&lt;lod</td>
+<td>&lt;lod-0,03</td>
+</tr>
+<tr>
+<td rowspan="2">Pigging</td>
+<td>1990–99</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>7</td>
+<td>0,14</td>
+<td>0,01–0,6</td>
+</tr>
+<tr>
+<td rowspan="2">Rengjøring / vedlikehold</td>
+<td>1990–99</td>
+<td>2</td>
+<td>0,01</td>
+<td>&lt;lod-0,014</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>6</td>
+<td>0,005</td>
+<td>&lt;lod-0,20</td>
+</tr>
+<tr>
+<td rowspan="2">Rengjøring av separator / tank</td>
+<td>1990–99</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>26</td>
+<td>0,22</td>
+<td>&lt;lod-17,0</td>
+</tr>
+<tr>
+<td rowspan="2">Annet separator- og tankarbeid</td>
+<td>1990–99</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>&gt;1999</td>
+<td>95</td>
+<td>0,05</td>
+<td>&lt;lod-14,0</td>
+</tr>
+</tbody>
+</table>
 
-NOU 1976: 36 Arbeidsmiljøet på kontinentalsokkelen (Halden
-I).
+<sup>1</sup> Grenseverdier er omregnet til 12 timers skift
 
-89
+<sup>2</sup> \<lod betyr at analyseresultatet er under deteksjonsgrensen for analysen
 
-Kapittel 9
+Universitetet i Bergen 2022
 
-delvis var å finne i sokkellovgivingen og delvis i
-annen lovgiving. Sett under ett innebar dette en
-nokså omfattende, fragmentarisk og komplisert
-regulering og tilsynsordning. Det var lite koordinering, og oppfølgingen var til tider preget av en
-«motpartkultur». Lossius-kommisjonen omtaler
-dette som en kompetansestrid mellom ulike
-departementer og deres underliggende organer,
-om regelverk og regelverksforvaltning på norsk
-sokkel, som hadde sin bakgrunn i spørsmålet om
-hvorfor det skulle være ulik jurisdiksjon for de
-som arbeidet på faste innretninger sammenliknet
-med skip eller flyttbare innretninger.9 Det var
-også noen andre, mindre markerte uenigheter
-mellom arbeidsmiljø-, helse- og sjøfartsmyndighetene om hvordan krav, regelverk og ordninger
-skulle følges opp i kjølvannet av arbeidsmiljøloven.
-Det var usikkerhet rundt hvilke krav som
-gjaldt for arbeidervern og arbeidsmiljø i den tidlige perioden, fram til opprettelsen av Oljedirektoratet i 1972. Oljedirektoratet hadde fra starten en
-egen kontrollavdeling.
-Oljedirektoratets oppfølging av arbeidsmiljøkrav startet i hovedsak fra 1975 da kongelig
-resolusjon 3. oktober 1975 om sikkerhet mv. for
-undersøkelse og boring etter undersjøiske petroleumsforekomster ble forskriftsfestet, og videre i
-1976 da deler av arbeidervernloven ble gjort gjeldende, og ikke minst med innføring av den nye
-arbeidsmiljøloven i 1977. Direktoratet benyttet et
-bredt spekter av virkemidler og reaksjonsmidler i
-dette oppfølgingsarbeidet, ofte i kombinasjon.
-Tilsynsoppfølgingen innen kjemisk arbeidsmiljø foregikk i to hovedspor; gjennom rettighetshavernes ansvar for egenkontroll/internkontroll, og
-gjennom oppfølging av bedriftenes systemer for
-produktkontroll. Oppfølgingen ble rettet mot operatørene og hele deres leverandørkjede, inkludert
-brukerne av produktene og deres produktleverandører.
-På kjemikalieområdet ble det ved innføring av
-arbeidsmiljøloven bygget opp et tett samarbeid
-med andre relevante myndigheter og faginstitusjoner, særlig med Arbeidstilsynet, Yrkeshygienisk institutt og Produktregisteret, blant annet
-for å sikre felles forståelse og oppfølging av krav i
-arbeidsmiljøregelverket. I tillegg var det utstrakt
-samarbeid med myndigheter og fagmiljøer nasjonalt og internasjonalt. Reaksjonsmiddelbruken
-var preget av pålegg gjennom likelydende brev,
-pålegg til enkeltaktører ved regelbrudd, forbud
-9
+Det er ingen tydelige tidstrender i benzennivåene. Det er likevel grunn til å anta at tekniske modifikasjoner har redusert eksponering for benzen over tid. Eksempler på modifikasjoner er alternativer til flotasjonsanlegg, utvikling innen rengjøring av pigger og erstatning av manuell prøvetakning med innebygd eller automatisert prøvetaking.
 
-NOU 2003: 5 Pionerdykkerne i Nordsjøen.
+Måledataene gir en indikasjon på eksponeringsnivå ved ulike arbeidsoppgaver, men antallet målinger per arbeidsoppgave og antallet installasjoner målinger er utført ved, er for lite til å kunne si om dette er representative målinger.
 
-[Side 92]
+#### Vedlikehold
 
-90
+Arbeidstakerne som har arbeidet med vedlikehold har vært eksponert for mange ulike forurensninger. Stillingskategorier som inngår under vedlikehold er blant annet mekanikere, sveisere, elektrikere og overflatebehandlere, som ofte har vært ansatt i kontraktørselskaper.
 
-Kapittel 9
+Ved overflatebehandling offshore ble det i stor grad brukt maling som inneholdt de samme kjemikalier som ble brukt i tilsvarende arbeid på land. Eksponeringen kunne være høy, både offshore og på land. Eksponering i forbindelse med overflatebehandling offshore kan derfor sammenlignes med eksponering i andre bransjer, for eksempel billakkering og maling av stålkonstruksjoner på broer og skip.
 
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
+Det er ikke gjort tilgjengelig eksponeringsmålinger for asbest, men det er kjent at flere av stillingskategoriene som hører til vedlikehold sannsynligvis har vært eksponert for asbest i sitt arbeid. Tilsvarende eksponeringsforhold for asbest finnes i de samme yrkene på land.
 
-mot bruk av ulike stoffer, suspensjon av personell,
-anmeldelser mv.
+Det har vært brukt organiske løsemidler til rengjøring av maskindeler og arbeidsutstyr både offshore og på land. Sannsynligvis var bruken av løsemidler noe større på 1980-tallet og begynnelsen av 1990-tallet enn den har vært etter 1995. Løsemidler som ble brukt offshore og i landbasert virksomhet inneholdt for eksempel klorerte hydrokarboner, aceton, white spirit og diesel.
 
-9.2.7
+### Oppsummert om eksponering og personellgrupper
 
-Forskjell mellom faste og flyttbare
-innretninger med hensyn til regelverk
-og myndighetsoppfølging
-Oljedirektoratet førte tilsyn med flyttbare innretninger fra 1985, men arbeidsmiljøloven ble ikke
-gjort gjeldende før i 1992. Maritimt regelverk som
-gjaldt på flyttbare innretninger, var i stor grad harmonisert med internasjonalt regelverk og hadde
-svakere krav til arbeidsmiljø enn arbeidsmiljøloven. Det er usikkert i hvor stor grad dette førte til
-ulik arbeidsmiljøstandard mellom faste og flyttbare innretninger. Til tross for at regelsettene for
-arbeidsmiljø var ulike for faste og flyttbare innretninger fram til arbeidsmiljøloven ble gjort gjeldende på flyttbare innretninger fra 1992, finner
-Petroleumstilsynet likevel, både direkte og mer
-indirekte, spor av at Oljedirektoratet fra 1985
-fulgte opp aktørene på en slik måte at det fikk
-virkninger for arbeidsmiljøet også på flyttbare innretninger. Særlig skjedde dette gjennom oppfølging av rettighetshavernes egenkontroll (etter
-hvert internkontroll) og oppfølging av krav i
-arbeidsmiljøloven og produktkontrolloven. Med
-utgangspunkt i retningslinjene for internkontroll
-tok Oljedirektoratet i 1982 et initiativ overfor norske redere og operatører for å få etablert funksjonsdyktige internkontrollsystemer. Dette resulterte i at det ble igangsatt arbeid hos operatører
-og redere med å utvikle og dokumentere slike
-systemer. Utenlandske borefartøyer ble også
-omfattet i denne oppfølgingen gjennom operatørenes påseansvar. Den viktigste faktoren for utvikling på de flyttbare innretningene var trolig operatørselskapenes oppfølging. Det var operatørene
-som hadde overordnet ansvar for boreoperasjonene på flyttbare innretninger og det var også operatørene som ble vurdert i forbindelse med konsesjonstildeling. I forbindelse med kontrahering av
-en innretning ble det fra operatørselskapenes side
-stilt krav både til utforming, utstyr og reders
-systemer og oppfølgingsrutiner. Selv om sikkerhetsmessige forhold ble vektlagt, ble også
-arbeidsmiljøforhold etter hvert og i økende grad
-inkludert. Kravet om verneombudsordninger og
-miljøutvalg ble fulgt opp av myndighetene, også
-når det gjaldt flyttbare innretninger.
-Det antas at erfaring og resultater fra tilsyn,
-samarbeid, kunnskapsproduksjon og teknologiutvikling kombinert med informasjon og veiledning
-til næringen i stort, også førte til nye løsninger og
+Det foreligger flest målinger av benzen fra produksjon og prosess, noe fra boring og brønn, og ingen fra vedlikehold fra den tidlige perioden offshore. Dette kan komme av at kunnskapen om hvor det var risiko for benzeneksponering var begrenset, eller at man antok at nivåene var så lave sammenlignet med datidens grenseverdi at måling ikke var nødvendig.
 
-forbedringer knyttet til kjemiske arbeidsmiljøforhold på flyttbare innretninger.
-Det ble stadig vanskeligere å opprettholde to
-forskjellige regelverksregimer for en virksomhet
-som ble mer og mer integrert. Oljedirektoratets
-erfaringer ble viktige da arbeidsmiljøloven ble
-gjort gjeldende for flyttbare innretninger i 1992.
+I den tidlige perioden offshore var det færre ansatte på plattformene, og det var mer ansvar og flere arbeidsoppgaver innenfor hver stillingskategori. Det kan ikke utelukkes at oljearbeidere utførte arbeid som i utgangspunktet ikke var deres oppgaver.
 
-9.3
+Tabell 8.3 gir en oversikt over noen av de viktigste aktiviteter innen petroleumsvirksomhet som kan ha vært forbundet med eksponering for boreslam, hydrokarboner og benzen, og hvilke personellgrupper som kan ha vært berørt.
+
+Oversikt over personellgrupper som kan ha vært eksponert for boreslam, hydrokarboner og benzen.
+
+02J1xx2
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Aktivitet</th>
+<th>Berørte personellgrupper</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="7"><em>Håndtering av boreslam</em></td>
+<td>Borepersonell:</td>
+</tr>
+<tr>
+<td>– Dekksarbeidere</td>
+</tr>
+<tr>
+<td>– Boredekksarbeidere</td>
+</tr>
+<tr>
+<td>– Tårnmenn og assisterende tårnmenn</td>
+</tr>
+<tr>
+<td>– Riggmekanikere</td>
+</tr>
+<tr>
+<td>– Slamloggere</td>
+</tr>
+<tr>
+<td>– Sementerere</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="8"><em>Prøvetaking, vedlikehold og rengjøring av<br />
+hydrokarbonførende tanker og systemer, og<br />
+systemer for produsert vann</em></td>
+<td>Produksjon og vedlikehold:</td>
+</tr>
+<tr>
+<td>– Prosessoperatører</td>
+</tr>
+<tr>
+<td>– Laboratorieteknikere</td>
+</tr>
+<tr>
+<td>– Mekanikere</td>
+</tr>
+<tr>
+<td>– Elektrikere</td>
+</tr>
+<tr>
+<td>– Automatikere</td>
+</tr>
+<tr>
+<td>– Maskinister</td>
+</tr>
+<tr>
+<td>– Teknisk cleanere</td>
+</tr>
+</tbody>
+</table>
+
+## Sammenheng mellom kjemisk eksponering og helseeffekter
+
+### Grenseverdier og eksponeringsnivåer
+
+Kunnskapen om sammenhengen mellom kjemikalier man kan utsettes for i arbeidet og hvordan dette påvirker helsen utvikles stadig. Denne kunnskapen benyttes i det forebyggende arbeidet i bedriftene og påvirker fastsettingen av grenseverdier, tidligere administrative normer. Disse grenseverdiene er fastsatt i regelverket.[^160]
+
+Grenseverdiene kan ikke sees på som grensen mellom trygge og farlige nivåer, og selv om helserisiko ansees som liten dersom nivåene av luftforurensing, kjemikaliet i luften, er lik eller under grenseverdi, skal nivåene alltid holdes så lave som mulig. Dette er spesielt viktig ved hard fysisk arbeidsbelastning eller hvis man utsettes for flere kjemikalier samtidig.[^161]
+
+Utviklingen i kunnskap om dose-respons ved kjemikalieeksponering peker i mange tilfeller i retning av at tillatt eksponering blir senket med tiden, dvs. at grenseverdien blir satt lavere. Benzen er et eksempel på hvordan ny kunnskap om et stoffs påvirkning på helsen har endret grenseverdien. Tidlig var den administrative normen for benzen 25 ppm (parts per million), men fra 1988 ble den redusert til 1 ppm. Fra 2013 ble normen videreført som grenseverdi, og fra 2020 ble grenseverdien redusert ytterligere til 0,2 ppm.[^162] [^163]
+
+#### Eksponering når arbeidstiden er over åtte timer
+
+Når arbeidstiden er over åtte timer, øker også potensialet for eksponering. Det kan også føre til mindre hvile eller restitusjonstid. Det vitenskapelige grunnlaget for vurdering av kjemikaliers effekter bygger på et eksponeringsmønster med åtte timers arbeidsdag i fem dager og to fridager i uken. Det samme gjelder myndighetenes fastsetting av grenseverdier. Offshore har arbeidstidsordningene vært ulik arbeidstiden på land. Arbeidstidsordningene offshore har endret seg fra oppstarten i 1966, da det var vanlig med en uke på og en uke av. Normalen ble etter hvert 14 dager med daglig arbeidstid på 12 timer, mens friperiodene har variert i lengde. Fram til 1992 var friperioden på to–tre uker. Fra begynnelsen av 2000-tallet ble friperioden økt til fire uker. På slutten av 1980-tallet åpnet regelverket for overtid inntil fire timer daglig og muligheter for en ekstra arbeidsuke ved særlige forhold og etter dispensasjon fra myndighetene.
+
+Det komprimerte arbeidsmønsteret kan få betydning for eksponeringsforholdene og helseeffekter. Kjemikalier med lang biologisk halveringstid kan med et offshore-arbeidsmønster med lang eksponeringstid og kort restitusjonstid medføre opphoping av kjemikalier i kroppen og høyere skaderisiko. Dette vil variere med egenskapene til hvert enkelt kjemikalium og karakteristika ved eksponeringen. Et jevnt og vedvarende eksponeringsmønster over hele arbeidsperioden vil vurderes forskjellig fra et mønster med kortvarige eksponeringstopper. I tråd med yrkeshygienisk praksis har eksponeringsmønstre i stor grad vært reflektert i risikovurderinger som er gjort i forbindelse med eksponeringskartlegging.
+
+I 1995 ble det innført et krav om en sikkerhetsfaktor på 0,6 av gjeldende grenseverdi som en administrativ kompensasjon for det konsentrerte arbeidstidsmønsteret. Da vurderes eksponeringen mot grenseverdi justert for dette. I dag settes grenseverdien offshore til 60 prosent av grenseverdien gitt for åtte timers arbeidsdag.
+
+#### Samtidig eksponering for flere kjemikalier
+
+Når arbeidstakere utsettes for flere kjemikalier samtidig i en blanding (ofte kalt cocktail), er det holdepunkter for at effektene av eksponering for blandinger i all hovedsak skal vurderes som additive, dvs. at hver komponent i blandingen bidrar med sin effekt uavhengig av de andre komponentene i blandingen. Dette er godt kjent fra blant annet løsemiddeleksponering, der samlet effekt vurderes ved beregning av additiv faktor. Bidragene fra enkeltkomponentene summeres opp som andeler av grenseverdi for hver komponent, og summen av komponentenes bidrag adderes og vurderes opp mot verdien 1,0 som tilsvarer at komponentene samlet skal regnes å tilsvare grenseverdi for blandingen. Studier har vist at additive effekter også kan oppstå for samtidig eksponering der nivåene av hvert enkelt kjemikalium er under laveste nivå for negative helseeffekter, LOAEL (Lowest Observed Adverse Effect Level).[^164] [^165]
+
+Synergiske effekter, der effekten av samlet eksponering overgår summen av hver enkelt agens, og antagonistiske effekter, der samlet effekt er mindre enn summen, er sjeldnere og det er begrenset med kunnskap om når slike effekter oppstår. Kombinasjonseffekter av ulike stoffer er ikke vanlig når det er ulike virkemekanismer eller ulike målorganer for skaden.
+
+### Yrkesrelatert kreft
+
+I Norge kan rundt tre prosent av kreftforekomst blant menn og 0,1 prosent blant kvinner relateres til kreftfremkallende stoffer på arbeidsplassen.[^166] Kreft utgjør over halvparten av yrkesrelaterte dødsfall i vestlige land. De vanligste yrkesrelaterte kreftformer er lungekreft, lungehinnekreft (mesoteliom) og blærekreft. Omtrent hvert femte tilfelle av lungekreft har sammenheng med eksponering for stoffer på jobben. Studier viser at risikoen ved yrkesfaktorer forsterkes av røyking. De mest kjente kreftfremkallende stoffene er asbest, benzen, dieseleksos, røntgen- og gammastråling, stekeos og sveiserøyk. Når det gjelder benzen er det de seneste 15 årene tilkommet mer kunnskap som tilsier at benzen er kreftfremkallende på et lavere nivå og relatert til flere kreftformer enn det som tidligere har vært kjent.
+
+### Dagens kunnskap om helseeffekter av kjemikalier typiske for virksomheten offshore
+
+Eksponeringene som er særskilte for petroleumsvirksomheten offshore sammenlignet med landbasert industri er relatert til håndtering av hydrokarboner, benzen og boreslam.[^167] Etter kjemikalieregelverket skal toksiske virkninger av kjemiske stoffer og blandinger risikovurderes ut fra virkninger observert i toksikologiske og epidemiologiske studier.[^168] Toksikologiske data stammer fra forsøk på celler eller på dyr, og epidemiologiske data stammer fra undersøkelser i grupper av eksponerte mennesker. Denne kunnskapen bygges opp over tid og vi vet i dag mer om hva som kan forårsake sykdom og hvilke sykdommer enn tidligere.
+
+For kreftsykdommer er de aktuelle risikoutløsende eksponeringene offshore håndtering av løs asbest for tilsetning til boreslam og eksponering for benzen i hydrokarbonstrømmen, under produksjon og vedlikeholdsarbeid ved åpning av eller tilgang i hydrokarbonførende utstyr. Hydrokarboneksponering kan også gi løsemiddelskader ved høye nivåer.
+
+For asbesteksponering er det et kunnskapsgrunnlag for en sterk sammenheng med utvikling av lungehinnekreft (mesoteliom), og det er kjent at sykdommen kan debutere med symptomer så lenge som 50–60 år etter eksponeringsopphør. Videre er det en økt risiko også for lungekreft etter eksponering for asbest, men for å gi en dobling av risiko må asbesteksponeringen ha vært langvarig og intens. For benzeneksponering er det kunnskapsgrunnlag for sammenheng med utvikling av blodkreft, lymfekreft og lungekreft. Akutt blodkreft opptrer vanligvis innenfor ti år etter eksponeringsopphør og lymfekreft og lungekreft opptrer vanligvis innenfor 30 år etter eksponeringsopphør.
+
+Det foreligger informasjon om at boreslam også kan ha blitt tilsatt andre kreftfremkallende stoffer, slik som kvartsholdig støvende materiale, kromlignosulfonat og formaldehyd. Det antas at eksponeringen for disse stoffene har vært svært mye høyere i samtidig landbasert virksomhet enn offshore, slik at eksponering for kvarts og formaldehyd ikke kan sies å være i særstilling blant oljepionerene.
+
+Basert på dagens kunnskap er det dokumentert sammenheng mellom eksponering for boreslam, benzen og hydrokarboner og sykdommer som blodkreft, lungekreft, lymfekreft, lungehinnekreft (mesoteliom) og løsemiddelskader på sentralnervesystemet.[^169] [^170]
+
+#### Råolje
+
+Eksponering for råolje gjennom hudkontakt eller innånding kan omfatte alle komponentene i råoljen. Benzen er en av de lette, fordampbare, komponentene som er nevnt særskilt nedenfor. En del av komponentene tas i noen grad opp gjennom huden. Opptak gjennom åndedrett og gjennom huden fører til eksponering av de indre organene for de ulike komponentene som tas opp. Dette innebærer blant annet eksponering for organiske løsemidler, hvorav noen komponenter, slik som benzen, har særskilte toksiske egenskaper.
+
+#### Boreslam
+
+Boreslam på hud kan gi hudskader, typisk i form av toksisk kontakteksem. Videre kan hudopptak bidra til totaleksponering for løsemidler, sammen med innånding av oljedamp og oljetåke.
+
+Dieselholdig boreslam vil avdampe lettflyktige komponenter under bruk i åpent system, som i shakerrom og ved åpning av borestreng. Boreslam kan inneholde formasjonsvæske, og formasjonsvæsken kan inneholde benzen. Diesel ble faset ut som basis for boreslam fra 1985. Eksponering for oljedamp og oljetåke må vurderes sammen med annen løsemiddeleksponering og vil gi et bidrag til additiv faktor som kan brukes til å vurdere eksponering opp mot grenseverdiene for enkeltkomponenter av løsemidler.
+
+Løsemiddeleksponering kan føre til løsemiddelskader på nervesystemet.[^171] Grenseverdien for oljetåke er satt med hensyn til lungeeffekter, mens oljedampgrensen defineres etter behovet for å beskytte mot generell løsemiddeleksponering.[^172] Disse skadene oppstår typisk etter noen års eksponering – tidligere ble ti års eksponering vanligvis sagt å øke risikoen for slike skader, men høyere eksponeringsnivåer og mer toksiske løsemidler kan gi skader etter eksponeringstid ned mot sju år. Løsemiddelskadene vil ikke forverres etter opphørt eksponering.
+
+#### Benzen
+
+Benzeneksponering forekommer offshore ved kontakt med hydrokarboner under boring, produksjon og vedlikehold.
+
+Allerede på 1920-tallet ble benzenforgiftning i form av aplastisk anemi knyttet til svært høye eksponeringsnivåer, 200–1000 ppm.[^173]
+
+I 1979 ble benzen klassifisert som sikkert benmargskreftfremkallende. Benzen har stått på en EU-liste over kreftfremkallende og mutagene stoffer relevant for arbeidslivet siden 2004.[^174] Siden den tid er kreftsykdommer som relateres til benzensykdommer utvidet til ulike typer lymfekreft[^175] og lungekreft.[^176] Benzen er klassifisert som immunhemmende.[^177]
+
+Benzen bidrar også, som andre løsemidler, til påvirkning på hjernen og kan bidra til utvikling av løsemiddelskade. Det har vært antatt at nivåene av benzeneksponering som alene gir løsemiddelpåvirkning må være over 300 ppm.[^178] [^179] Dette er langt høyere verdier enn det man vanligvis finner ved industriell benzeneksponering, med unntak av der benzen brukes med høy anrikningsgrad. Offshore er innholdet av benzen i råoljen 0,5–1 prosent (2014) [^180] og det er lite sannsynlig at benzennivåene kan bli så høye at de kan gi løsemiddelpåvirkning. Det er heller ikke funnet tilsvarende nivåer for eksponering for benzen ved målinger i petroleumssektoren.[^181]
+
+#### Asbest
+
+Asbest er naturlig forekommende silikatfibre og er kjent kreftfremkallende.[^182] Eksponering for asbestfibre kan forårsake lungekreft, lungehinnekreft (mesoteliom), strupekreft, eggstokkreft og asbestose (asbestrelatert støvlunge). Asbest mistenkes også å øke risikoen for enkelte andre kreftsykdommer, som tarmkreft. Andre sykdommer som asbesteksponering kan forårsake er perikarditt (betennelse i hjerteposen) og asbestpleuritt (væske i lungesekken).[^183] Asbest ble mye brukt i perioden fra 1945 til 1980 i bygninger, industri, båter og offshore-installasjoner, mye på grunn av isolasjonsevne og varmebestandighet. Det er blitt brukt i maling og sementvarer som asbestsement og eternitt, varmeisolasjon (asbestull), i bremsebånd og bremseklosser for biler og større kjøretøy.[^184]
+
+I tidlig fase ble asbest brukt som tilsetning i boreslam og da i løs form, noe som tilsvarer den håndteringen som ble gjort i produksjon av asbestsement (eternitt) og som medførte svært høye eksponeringsnivåer, men som ikke er direkte sammenlignbare med arbeidet offshore. Videre har asbest blitt benyttet i bremsebelegg, pakninger/isolasjon i maskiner og rundt rør, i takplater og brannisolasjon på lik linje med i landbasert virksomhet på samme tid.[^185] Slik eksponering kan settes i forbindelse med økt risiko for lungehinnekreft, men sannsynligvis bare en beskjeden risikoøkning for lungekreft. Oljedirektoratet innførte forbud mot bruk av asbestholdige kjemikalier i borevæske på sokkelen i 1980, mens totalforbud mot bruk av asbest i Norge kom i 1985.
+
+#### Oppsummert om kjemisk eksponering og helseeffekter offshore
+
+Basert på dagens kunnskap er det dokumentert sammenheng mellom eksponering for boreslam, benzen og hydrokarboner og sykdommer som blodkreft, lungekreft, lymfekreft, lungehinnekreft (mesoteliom), og løsemiddelskader på sentralnervesystemet.
+
+Tabell 8.4 gir en oversikt over stoffer og bruksområder offshore og helseeffekter.
+
+Kjemikalieeksponering offshore og kjente helseeffekter
+
+03J1xx2
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Kjemisk stoff/ blanding</th>
+<th>Eksponeringskilder</th>
+<th>Kjente helseskader</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hydrokarboner</td>
+<td>Hydrokarboner fra råolje, boreslam og prosess</td>
+<td>Løsemiddelskader på nervesystemet. Enkelte løsemidler har spesielle toksiske egenskaper, som f.eks. benzen</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Boreslam</td>
+<td rowspan="2">Boreslam fra boreprosess</td>
+<td>Toksisk kontakteksem ved hudeksponering</td>
+</tr>
+<tr>
+<td>Løsemiddelskader</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">Benzen</td>
+<td rowspan="5">Finnes i råolje i inntil 1 prosent<br />
+konsentrasjon og kan oppkonsentreres der avdamping fra råolje skjer i lukket system og under prosessering av oljen</td>
+<td>Blodkreft</td>
+</tr>
+<tr>
+<td>Lymfekreft</td>
+</tr>
+<tr>
+<td>Lungekreft</td>
+</tr>
+<tr>
+<td>Påvirkning på immunsystemet</td>
+</tr>
+<tr>
+<td>(Løsemiddelpåvirkning ved svært høye konsentrasjoner)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">Asbest</td>
+<td rowspan="5">Offshore benyttet som tilsetning i boreslam, i bremsebelegg, pakninger/isolasjon i maskiner og rundt rør, takplater og brannisolasjon og i borevæsker</td>
+<td>Blant annet:</td>
+</tr>
+<tr>
+<td>Mesoteliom</td>
+</tr>
+<tr>
+<td>Lungekreft</td>
+</tr>
+<tr>
+<td>Eggstokkreft</td>
+</tr>
+<tr>
+<td>Asbestose (støvlungesykdom)</td>
+</tr>
+</tbody>
+</table>
+
+#### Kjemikalieeksponering som forekommer både offshore og i landbasert virksomhet
+
+Mange av eksponeringene offshore kan sammenliknes med eksponering i arbeidsmiljø på land. Dette gjelder blant annet for isocyanater, H<sub>2</sub>S, turbinoljer og ultrafine partikler. Oljearbeiderne kan utsettes for turbinoljen og dens tilsetninger ved service og kjøring av maskiner. Eksponering ved service og kjøring av maskiner på tomgang vil være høyere i luftfartssammenheng enn offshore. Det er også antatt at flybesetning og flypassasjerer kan eksponeres for komponentene i turbinolje gjennom oljetåke i kabinluften («fume events»), der årsaken til hendelsene er lekkasje av olje til luftsystemet som henter luft fra kompressoren i jetmotorene for å generere trykk i trykkabinen. Det er gode holdepunkter for at eksponeringene er lave, selv om det kan gjenfinnes komponenter fra turbinolje i filter i flykabiner. Forskning gjennom flere år indikerer at det er lite sannsynlig at bruk av turbinoljer med 1–3 prosent tilsetning av organofosfater ved arbeid i fly eller på plattform kan gi kroniske effekter på nervesystemet.[^186] [^187] Den samme typen oljetilsetninger brukes også i landbaserte turbiner og hydraulikksystemer. Organofosfateksponering i lav konsentrasjon kan per i dag ikke knyttes til betennelsesliknende tilstander i sentralnervesystemet. Men det er funn som kan tyde på at eksponering for ultrafine partikler fra forbrenningsprosesser kan knyttes til Parkinsons sykdom og Alzheimers sykdom, og mulig amyotrofisk lateral sklerose (ALS). Det innføres i 2023 en grenseverdi på 50 µg/m<sup>3</sup> for ultrafine partikler i yrke i Norge, målt som elementært karbon relatert til eksos fra dieselmotorer. Det er særlig virksomheter som anvender forbrenningsmotorer i tunnel og lukkede rom som i dag har problemer med å holde forurensningsnivået under den foreslåtte grenseverdien.[^188]
+
+Hudeksponering ved service vil kunne være et problem med all håndtering av hydraulikkoljer og turbinoljer. Fravær av akutte forgiftningssymptomer trekker i retning av at det ikke er en tilstrekkelig eksponering til å kunne gi effekter på sentralnervesystemet av eksponeringen ved slikt arbeid.
+
+Tabell 8.5 viser eksponeringskilder som er felles for arbeid offshore og i landbasert virksomhet.
+
+Kjemikalieeksponering og kjente helseeffekter som forekommer både offshore og på land
+
+04J1xx2
+
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 26%" />
+<col style="width: 26%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th>Kjemisk stoff/<br />
+blanding</th>
+<th>Eksponeringskilder offshore i Norge</th>
+<th>Eksponeringskilder i landbasert virksomhet i Norge</th>
+<th>Viktigste kjente helseskader</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Isocyanater</td>
+<td>Overflatebehandling, brann i skumplast (kan frigjøre isocyanat ved brann)</td>
+<td>Overflatebehandling, brann i skumplast (kan frigjøre isocyanat ved brann)</td>
+<td>Lungeeffekter: Akutt lungeskade, varig lungeskade kan oppstå som følge av akutte forgiftninger og sees også ved lave påvirkningsgrader</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>H<sub>2</sub>S</td>
+<td>I sur olje, produsert vann</td>
+<td>Renseanlegg og kloakk og i gjødselkjellere</td>
+<td>Akutteffekter på nervesystemet ved høy eksponering, pustestans</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Organofosfater</td>
+<td>Turbinoljer i 1–3 % tilsetning</td>
+<td>Turbinoljer og hydraulikkoljer i tilsetning 1–3 %. Organofosfater finnes i høy konsentrasjon i enkelte plantevernmidler</td>
+<td>Kroniske skader på nervesystemet kjent ved gjentatt eksponering for høye konsentrasjoner av enkelte plantevernmidler og av tricresylfosfat (TCP) med innhold av ortocresylgrupper</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ultrafine partikler</td>
+<td>Forbrenningsmotorer, (eksos fra fly, helikopter, dieselmotorer og gassturbiner). Forbrenningsprosesser ved brann. Høytemperaturprosesser som sveising, pyrolyse av organiske kjemiske forbindelser</td>
+<td>Forbrenningsmotorer, (eksos fra fly, helikopter, dieselmotorer og gassturbiner). Forbrenningsprosesser ved brann. Høytemperaturprosesser som sveising, pyrolyse av organiske kjemiske forbindelser</td>
+<td>Hjerte-kar- og lungesykdommer, betennelsestilstander i nervesystemet ved høye eksponeringsnivåer (arbeidstaker som arbeider i avstengte arbeidsatmosfærer med aktuell forurensningskilde)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Krystallinsk silika</td>
+<td>Tilsetning i form av barytt og bentonitt i boreslam</td>
+<td>Boring i betong, særlig i tanker eller trange rom. Bearbeiding av kvartsholdig stein og betong</td>
+<td><p>Lungekreft</p>
+<p>KOLS</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Formaldehyd</td>
+<td>Biocid tilsatt til boreslam for å hindre bakterievekst</td>
+<td>Brukt i produksjon av gummi, plastikk, sponplater, kosmetikk, tekstiler og lær. Formaldehyd brukes også som konserveringsmiddel, vevsfikseringsvæske og desinfeksjonsmiddel</td>
+<td><p>Irritasjon av luftveier og øyne</p>
+<p>Kreft i nese/bihuler<br />
+Blodkreft</p></td>
+</tr>
+</tbody>
+</table>
+
+### Kunnskap om kjemikalierelatert skade/sykdom i grupper av tidligere oljearbeidere
+
+I 2004 ble det oppsummert fra nasjonal og internasjonal litteratur i publikasjonen «Hva vet vi om kjemisk helsefare offshore».[^189] Det framgår her at det allerede i 1983 var bekymring for mulig kreftfare og behov for oppfølging av arbeidstakerne som følge av dette, men at det likevel var lite studier på området fram til 2004.
+
+Det har fra 2000-tallet blitt gjort et omfattende arbeid for å få kunnskap om nivåer og hvilke kjemiske eksponeringer oljearbeidere kan ha vært utsatt for i de tidlige årene offshore, se kapittel 3.1.1.[^190] Prosjekter for å gi økt kunnskap om sykdom blant offshorearbeidere ble også satt i gang med etablering av offshorekohorten i regi av Kreftregisteret i 1998. Spørreskjema ble sendt til 61 000 mulige offshorearbeidere fra personallister, og 28 000 offshorearbeidere besvarte henvendelsen. Informasjon som utdanning, arbeidshistorikk før, etter og i friperioder offshore, samt livsstilsfaktorer ble registrert i perioden 1965–1998, med oppfølgingsperiode i 1999–2020.[^191] I 2004 ble det også etablert en ny registerbasert kohort. Disse to kohortene omfatter til sammen 41 000 offshoreansatte. De første publiserte resultater basert på offshorekohorten kom i 2014.[^192]
+
+Studiene påviste blant annet en overhyppighet av kreftformer knyttet til bloddannende organer og pekte på en mulig sammenheng med eksponering for benzen. Det ble funnet sammenheng mellom benzeneksponering og ulike kreftformer, som lymfekreft og blodkreft.
+
+Risiko for blodkreft og lymfekreft ser ut til å øke med økende benzeneksponering. Resultatene pekte i retning av at benzeneksponering ved offshorearbeid økte risikoen for flere typer blodkreft og lymfekreft, men studien hadde få tilfeller og risikoestimatene ble derfor usikre. Funnene er på linje med andre studier som har studert benzeneksponering og blod- og lymfekreft blant petroleumsarbeidere. Det er også funnet økt risiko for blodkreft ved lave doser av benzeneksponering. [^193] [^194] For kreftformer totalt ble det funnet en liten overhyppighet for gruppen som hadde første ansettelse før 1986. Dette ble ikke observert for de som ble ansatt senere.[^195]
+
+## Registrerte skader og sykdom knyttet til kjemisk eksponering
+
+### Arbeidsrelatert sykdom – oppfølging av leges meldeplikt
+
+I henhold til arbeidsmiljøloven § 5-3, skal enhver lege som gjennom sitt arbeid får kunnskap om at en arbeidstaker kan lide av en arbeidsbetinget sykdom, melde dette skriftlig til Arbeidstilsynet for landbasert virksomhet og Petroleumstilsynet for petroleumsvirksomheten, se kapittel 6.5.3.
+
+Arbeids- og sosialdepartementet tok i 2005 initiativ til en kartlegging av helserisiko knyttet til kjemikaliebruk på sokkelen, tilbake til oppstart av virksomheten. Arbeidet ble gjennomført i regi av en partssammensatt arbeidsgruppe under ledelse av Petroleumstilsynet, se kapittel. 3.1.1.[^196] Arbeidsgruppen viste til at det var vanskelig å få et fullstendig bilde av omfanget av helseskader forårsaket av kjemikalier offshore, da det (i 2005) ikke var kilder som kunne gi et fullstendig bilde. Det framgår videre av denne rapporten at det registreres om lag 70 tilfeller årlig av sykdom knyttet til kjemisk eksponering offshore, og flest tilfeller innenfor boring og vedlikehold. Som hyppigste årsak til sykdommene ble eksponering for mineralske smøreoljer, andre organisk-kjemiske forbindelser og epoksy oppgitt.
+
+Generelt er det en underrapportering til myndighetene av arbeidsrelatert sykdom. Det er likevel sannsynligvis bedre rapporteringsgrad på sokkelen enn på land.[^197] Petroleumstilsynet har hatt relativt tett dialog med bedriftslegene i operatørselskapene for å få en felles praksis for rapportering, og det har vært gjennomført tilsyn med alle operatørselskapene og noen av deres hovedentreprenører med hensyn til kriterier og rutiner for registrering av arbeidsbetinget sykdom. Det kan likevel være underrapportering offshore grunnet noe ulik meldepraksis, der noen selskaper har strengere krav til årsakssammenheng med arbeidet med hensyn til de sykdommer som meldes. Lang latenstid kan også være årsak til underrapportering. Dersom sykdom ikke oppstår før etter at personen har sluttet å arbeide offshore, vil det være mindre sannsynlig at det rapporteres til tilsynsmyndighetene.[^198] Arbeidsgruppen vurderte det slik at Petroleumstilsynets register over arbeidsbetinget sykdom offshore er den kilden som kan gi mest informasjon om dette, men på grunn av underrapportering og ulike kriterier for rapportering fra forskjellige selskaper, blir også dette registeret ufullstendig.[^199]
+
+Figur 8.3 viser de første resultatene fra Oljedirektoratets database om melding av arbeidsbetinget sykdom. Det framgår her hvordan arbeidsbetingede sykdommer fordelte seg etter ulike diagnosegrupper. De høyeste rapporteringene finnes for muskel/skjelett, øre (støyindusert hørselstap) og hud, fulgt av lunge, toksiske effekter, fordøyelsesorganer og nevroser.
+
+Fordeling av arbeidsbetinget sykdom etter diagnosegrupper 1992
+
+Oljedirektoratets årsberetning 1992
+
+### Utredninger ved arbeidsmedisinske avdelinger
+
+Informasjon om utredninger ved de arbeidsmedisinske avdelingene gir en oversikt over hvor mange som har blitt vurdert for mistenkt yrkessykdom og hvilke sykdommer, symptomer og eksponeringer som har vært aktuelle, også for eksponeringer tilbake i tid. Eksponeringen som kan ha forårsaket sykdommen kan ligge langt tilbake i tid, ofte flere tiår.
+
+Arbeidsgruppen nedsatt i 2005 hadde kontakt med de arbeidsmedisinske avdelingene for å få kunnskap om arbeidsrelatert sykdom offshore. Inntrykket etter denne kontakten var at relativt få ble henvist, og at henviste saker i hovedsak gjaldt mulige løsemiddelskader, hudallergi og eksponering for turbinolje.[^200]
+
+De sakene som utredes ved de arbeidsmedisinske avdelingene representerer i liten grad helseeffekter av samtidens eksponering offshore. Sett hen til den lange latenstiden ved enkelte helseeffekter av kjemisk eksponering, kan deler av eksponeringen ha skjedd i pionertiden, selv om utredningene først ble foretatt på 2000-tallet. Latenstiden varierer mellom ulike stoffer, og for noen stoffer, som asbest, er det godt kjent at det kan ta opptil 50 år fra eksponeringen til sykdom oppstår når den aktuelle sykdommer er kreft i lungehinne (mesoteliom). Benzenrelatert kreft kan oppstå fra 5–15 år etter eksponering, mens ved løsemiddeleksponering vil symptomdebut være umiddelbar og tilstanden vil ikke forverres etter at eksponeringen opphører.
+
+I 2009 etablerte de arbeidsmedisinske avdelingene et felles, anonymt utredningsregister (Pasientutredningsregisteret) for å få bedre oversikt over arbeidsmedisinske pasientutredninger i Norge. Det ble da mulig å hente ut informasjon om definerte undergrupper av utredede, for eksempel basert på yrke, bransje eller eksponering.[^201] Det ble også utarbeidet oversikter for perioden 2006–2008. Før 2006 finnes det ikke systematiserte oversikter.
+
+#### Årene 2002–2006
+
+Det store flertallet av saker i denne perioden, 2002–2006, ble utredet ved den arbeidsmedisinske avdelingen på Haukeland universitetssykehus.[^202] I kjølvannet av utredning for helseskader relatert til dykking, kom det henvisninger som omhandlet spørsmål om kjemisk eksponering og mistanke om løsemiddelskade på sentralnervesystemet blant oljearbeidere. Det ble også henvist saker med mistanke om andre sykdommer, som luftveis- og hudproblemer, og enkelte saker med mistenkt arbeidsrelatert kreft.
+
+Inntrykket av utredningene samlet sett, var at eksponeringene, etter datidens standard, i et flertall av sakene ble vurdert å ikke være tilstrekkelig til å gi økt risiko for løsemiddelskade. Unntak fra dette var oftest knyttet til en arbeidshistorie med løsemiddeleksponering fra annet arbeid på land eller i sjøfarten i tillegg til offshoreeksponeringen. I disse tilfellene kunne offshore løsemiddeleksponering være avgjørende for at samlet eksponering ble vurdert som tilstrekkelig til å gi økt risiko for løsemiddelskade. Enkelte av sakene blant overflatebehandlere ble også vurdert som tilstrekkelig til å gi løsemiddelskade, basert på en samlet eksponering fra landbasert og offshorebasert virksomhet.
+
+#### Årene etter 2006
+
+I perioden 2006–2008 ble det ved de arbeidsmedisinske avdelingene registrert 76 ferdig utredede pasienter. En rekke offshoreyrker var representert, som prosessoperatører (11 personer), mekanikere (diesel/turbin, 15 personer) og kranmekanikere (fire personer). Helseproblemene varierte betydelig, men symptomer fra hud, nervesystem og luftveier dominerte. Halvparten ble vurdert å ha sykdom som sannsynlig (32 prosent) eller overveiende sannsynlig (18 prosent) hadde sammenheng med arbeidsmiljøet. En rekke pasienter hadde imidlertid hatt annet arbeid med relevant eksponering, både på land og til sjøs, og helseskaden kunne derfor også skyldes eksponering fra arbeidsforhold utenom offshoreyrket.[^203]
+
+Det fremgår av Pasientutredningsregisteret at i perioden 2010–2014 ble 61 prosent av utredningene av offshorepasienter vurdert som sannsynlig eller mulig arbeidsrelatert.[^204] Tilsvarende for alle næringer for 2010–2016 var 64 prosent.[^205]
+
+Tabell 8.6 viser hoveddiagnosegruppene blant offshorearbeidere i perioden 2010–2014. Innenfor disse var det sykdommer i åndedrettsorganer som i størst grad ble vurdert som sannsynlig arbeidsrelatert (45 prosent), deriblant astma. Deretter fulgte svulster som sannsynlig arbeidsrelatert (38 prosent), deriblant lungekreft.[^206]
+
+Hoveddiagnoser blant kjemikalieksponerte offshorepasienter 2010–2014.
+
+02J1xt1
+
+<table>
+<colgroup>
+<col style="width: 91%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Svulster</td>
+<td>43</td>
+</tr>
+<tr>
+<td>Sykdommer i nervesystemet</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Åndedrettssykdommer</td>
+<td>47</td>
+</tr>
+<tr>
+<td>Hudsykdommer</td>
+<td>64</td>
+</tr>
+<tr>
+<td>Øyesykdommer</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Øresykdommer</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Sirkulasjonssykdommer</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Muskel-skjelettsykdommer</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Sykdommer i urin- og kjønnsorganer</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Misdannelser/deformiteter/kromosomavvik</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Symptomdiagnoser</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Skader/forgiftninger</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Kontaktdiagnoser</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>241</td>
+</tr>
+</tbody>
+</table>
+
+Mehlum, Kjuus og Nordby 2015
+
+Blant dem som ble utredet i perioden 2010–2014 arbeidet 35 prosent som prosess- og maskinoperatører. Herunder var oljearbeidere (operatører innen olje- og gassutvinning) representert i 52 utredningssaker, brønnservice i fem saker og håndverkere i 100 saker. Håndverkergruppen inkluderte overflatebehandlere og lakkerere (24 saker), industrimekanikere (23 saker) og sveisere (16 saker).
+
+Del II
 
 Kommisjonens vurderinger
-
-Kommisjonen viser til at en eventuell kompensasjonsordning for oljepionerene må utformes slik
-at den oppleves som rettferdig, se omtale av det
-prinsipielle utgangspunktet i kapittel 9.1. Kommisjonen har blant annet vurdert om «oljepionerenes» arbeidsforhold var så ekstraordinære at det
-vil være riktig og hensiktsmessig å opprette en
-egen kompensasjonsordning for en del tidligere
-oljearbeidere. Dette innebærer blant annet at ordningen må målrettes mot personer som har blitt
-utsatt for en særskilt situasjon og eksponering, og
-som skiller seg fra situasjonen til andre, sammenlignbare arbeidstakere i den samme perioden.
-Kommisjonen har vurdert hvilke arbeidstakergrupper offshore som har hatt rammebetingelser
-og utfordringer når det gjelder kjemisk arbeidsmiljø i en periode som var så forskjellig fra arbeidet
-på land at det tilsier en særskilt oppfølging av
-denne gruppen. Utfordringer som gjelder generelt i arbeidslivet/industrien kan ikke legges til
-grunn for en vurdering av om en kompensasjonsordning vil være en hensiktsmessig og riktig løsning for oljepionerene.
-På bakgrunn av gjennomgangen og diskusjonen
-av rammebetingelsene beskrevet i kapittel 9.2,
-samt dokumentasjonsgrunnlaget knyttet til dette,
-mener kommisjonen at det er grunnlag for å anbefale en særskilt kompensasjonsordning for oljepionerer. Kommisjonen legger vekt på at de første
-årene av norsk petroleumsvirksomhet var preget
-av nybrottsarbeid, en ny industri, nye arbeidsmetoder, rask teknologisk utvikling og ukjente
-eksponeringsforhold. Utenlandske selskaper uten
-kjennskap til norsk arbeidslivskultur preget miljøet de første årene. Oljepionerer har fortalt at det
-var lite verneutstyr tilgjengelig, og det som var tilgjengelig var av dårlig kvalitet. Myndighetene var
-i første rekke opptatt av å sikre nasjonale økonomiske interesser og å legge til rette for vekst i
-oljeindustrien. Tilsynet var de første årene fragmentert, og med begrenset erfaring og kompetanse på området. Det var oppmerksomhet på
-storulykkerisiko og skader, men i mindre grad
-arbeidsmiljø. Fokus på partssamarbeid, med-
-
-[Side 93]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-virkning og det organiserte vernearbeidet kom
-først på plass på midten av 1970-tallet, da norske
-selskaper i større grad overtok ledelsen i næringen, samt ved innføring av arbeidervernloven i
-1976 og arbeidsmiljøloven i 1977. Kjemisk eksponering var på mange områder lik annen industrivirksomhet, og på disse områdene kan det være
-vanskelig å peke på oljearbeiderne som en særskilt utsatt gruppe eller skille oljearbeiderne fra
-sammenlignbare arbeidstakergrupper på land.
-Samtidig var det også noen helseskadelige eksponeringer som var særskilte for grupper innenfor
-petroleumsnæringen; boreslam, hydrokarboner
-
-91
-
-Kapittel 9
-
-og benzen. Lange skift og komprimert arbeidstid
-kunne også påvirke effekten av eksponeringen.
-Kommisjonen mener derfor at dokumentasjonsgrunnlaget tilsier at en kompensasjonsordning
-kan være en riktig og hensiktsmessig oppfølging
-av noen yrkesgrupper innenfor oljeindustrien i en
-begrenset tidsperiode. For at en kompensasjonsordning skal kunne oppfattes som rettferdig og
-riktig, er det nødvendig at målgruppen avgrenses
-tydelig på bakgrunn av dokumentasjon om utviklingen i næringen i pionertiden og relevante
-eksponeringsforhold.
-
-[Side 94]
-
-92
-
-NOU 2022: 19
-
-Kapittel 10
-
-Oljepionerene – en kompensasjonsordning
-
-Kapittel 10
-
-Målgruppen for en kompensasjonsordning
-10.1 Definisjon av målgruppen
-Kommisjonen har diskutert relevante avgrensinger av målgruppen for en kompensasjonsordning.
-Avgrensingen skal på overordnet nivå definere en
-gruppe arbeidstakere som kan ha lidd en særskilt
-«urett», sammenlignet med andre sammenlignbare grupper, samt begrunne denne avgrensingen. Kommisjonen legger til grunn at rammebetingelsene og utfordringene når det gjelder kjemisk
-arbeidsmiljø i en periode var så annerledes offshore enn i arbeidslivet for øvrig at det tilsier en
-særskilt oppfølging av denne gruppen arbeidstakere. Kommisjonen foreslår å avgrense målgruppen for en kompensasjonsordning med utgangspunkt i tre forhold:
-1. Tidsperiode: Arbeid i «pionertiden»
-2. Eksponering: Aktivitetsområder og utvalgte
-grupper arbeidstakere
-3. Helseskader.
-Kommisjonen har vurdert hvordan tidsrommet for
-oljepionerenes arbeid i norsk petroleumsvirksomhet bør avgrenses, dvs. hvor lenge den aktuelle
-perioden (pionertiden) varte. Kommisjonen har
-tre ulike forslag, se kapittel 10.5.
-Kommisjonen har videre vurdert hvordan målgruppen bør avgrenses med hensyn til aktuelle
-eksponeringer og helseskader. Flertallet i kommisjonen mener dette vil være grupper arbeidstakere som var særlig utsatt for eksponering som
-var ulik kjemisk eksponering i arbeidslivet for
-øvrig i den aktuelle tidsperioden, se kapittel
-10.5.4, samt varige helseskader som kunnskapsmessig kan føres tilbake til disse eksponeringene,
-se kapittel 8.2.3.
-
-10.2 Arbeid i «pionertiden»
-En «pioner» defineres som en person eller gruppe
-som har vært nyskapende og banebrytende og
-har vært først ute på et bestemt område. Pionertiden og oljepionerene defineres også i flere sam-
-
-menhenger som perioden i starten av norsk petroleumsvirksomhet – fra slutten av 1960-tallet til tidlig 1970-tallet.1 I andre sammenhenger beskrives
-pionertiden offshore som perioden 1966–1977. 2 I
-saken om nordsjødykkerne, ble pionerperioden
-definert som perioden 1966–1990, da det ble fastsatt egne forskrifter om bemannede undervannsoperasjoner, som var funksjonelle og tilpasset
-prinsippet om internkontroll.3 Dette internkontrollprinsippet var allerede innført for petroleumsvirksomheten gjennom petroleumsloven i
-1985. Dykkeaktivitet foregikk i all hovedsak fra
-fartøy, og var ikke omfattet av arbeidsmiljøloven.
-Kommisjonen viser til at de første årene av
-norsk petroleumsvirksomhet – «pionertiden» –
-var preget av banebrytende arbeid og utenlandske, i stor grad amerikanske, selskaper som i liten
-grad hadde forståelse for norske arbeidslivstradisjoner. De dominerende utenlandske selskapene
-tok med seg en arbeidskultur som var fremmed
-for mange norske arbeidstakere, spesielt de med
-fagforeningsbakgrunn og erfaringer fra mer ordnede forhold i industrien på land. Arbeidsmiljø og
-samarbeid mellom partene var i liten grad på
-dagsorden. De første riggene hadde arbeidstakere av ulik nasjonalitet og ofte med bakgrunn
-som sjøfolk. Norsk arbeidskraft ble rekruttert på
-lavere nivå. Det var ikke krav til formell kompetanse, og opplæringen skjedde i stor grad gjennom arbeidet. Mange skader, lange arbeidsdager
-og farlige operasjoner dominerte arbeidslivet i
-Nordsjøen i 1970-årene. Rapporteringen av dødsfall, ulykker, nestenulykker og funksjonssvikt
-fulgte ulike prosedyrer i 1970-årene og ble ansett
-som utilfredsstillende. Få ulykker ble rapportert,
-og nestenulykker ble ikke omtalt. Det tok lang tid
-å få aksept for avtaler som var inngått mellom partene. Sikkerhetstilstanden var noe bedre på de
-norske plattformene, men ifølge fagbevegelsen
-selv var utviklingen kommet så kort at det ikke
-1
-2
-3
-
-Norsk Oljemuseum, 2005.
-Stene, 2009.
-NOU 2003: 5 Pionerdykkerne i Nordsjøen.
-
-[Side 95]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-var tid til systematisk arbeid med sikkerhet. Pionertiden fram mot midten av 1970-tallet har derfor
-vært karakterisert som «cowboy»- eller «klondyke»-tiden i norsk offshorevirksomhet.
-Dagens HMS-regime i norsk petroleumsvirksomhet ble gradvis utviklet fra begynnelsen av
-1970-tallet. Arbeidervernloven ble gjort gjeldende i 1976, og arbeidsmiljøloven gjaldt for faste
-installasjoner fra 1977, på linje med i industrien på
-land. Det ble stilt krav om organisert vernetjeneste, og fagforeningene NOPEF og OFS ble etablert i 1977. Oppfølging av blant annet kjemisk
-arbeidsmiljø ble satt på dagsorden gjennom utvikling av fagmiljøer, tilsyn, produktkontroll, krav til
-sikkerhetsdatablader mv. fra starten av 1980-tallet.
-Fra 1980-tallet ble også trepartssamarbeidet etablert i norsk petroleumsvirksomhet.
-HMS-regimet i petroleumsvirksomheten ble
-utviklet på bakgrunn av erfaringer siden oppstarten av norsk petroleumsvirksomhet. Særlig Alexander Kielland-ulykken, 27. mars 1980, hvor 123
-mennesker omkom, førte til omfattende
-endringer både i regelverket og tilsynsstrategien.
-1985 er et skjæringspunkt i utviklingen, da petroleumsloven trådte i kraft og internkontrollbasert
-tilsynsstrategi ble iverksatt. Fra et regelverk som i
-detalj spesifiserte kravene til konstruksjoner, teknisk utstyr og operasjoner, ble det utviklet et
-regelverk med stor grad av funksjonskrav som
-legger vekt på aktørenes ansvar for egen virksomhet. Tilsynet med virksomheten fokuserte på
-ansvarliggjøring av aktørene og aktørenes systematiske oppfølging av egen virksomhet.
-
-10.3 Eksponering: Aktivitetsområder
-og utvalgte grupper
-For at en særskilt kompensasjonsordning for
-oljepionerene skal være saklig begrunnet, må det
-synliggjøres hvilke forhold ved denne gruppens
-situasjon som skiller den fra andre arbeidstakergrupper som det ellers kan være naturlig å sammenligne denne gruppen med. En slik saklig
-begrunnelse kan være at noen grupper oljearbeidere i pionertiden ble eksponert for kjemikalier av
-en art og på en måte som var særlig helseskadelig
-og særskilt for oljeindustrien, dvs. som var ulik
-eksponering i annen, landbasert virksomhet i den
-samme perioden. Utfordringer som gjelder generelt i arbeidslivet eller industrien, kan ikke legges
-til grunn for et forslag om en særskilt kompensasjonsordning. Det finnes svært lite måledata om
-kjemisk eksponering offshore i tidlig fase av
-norsk petroleumsvirksomhet. Annen dokumenta-
-
-93
-
-Kapittel 10
-
-sjon som finnes, viser likevel at det forekom
-eksponering og at denne eksponeringen til dels
-kunne være høy, se kapittel 8.
-Kommisjonen legger til grunn at oljearbeidere
-i pionertiden ble eksponert for kjemikalier som
-kunne føre til alvorlige og varige helseskader.
-Kommisjonens dokumentasjonsgrunnlag viser at
-en slik særskilt eksponering kan knyttes til arbeid
-med hydrokarboner, boreslam og benzen, se
-kapittel 8.2.3. Dette er helseskadelige eksponeringsfold man ikke finner for andre tilsvarende
-grupper i landbasert virksomhet. Eksponering for
-asbest, kvikksølv og H2S er for eksempel av mer
-generell karakter, og i stor grad felles for industrivirksomhet både på land og til havs. Med dette
-utgangspunktet vil relevante aktivitetsområder og
-grupper for en kompensasjonsordning kunne
-være:
-
-10.3.1 Boring og brønnaktiviteter
-Boring og brønn er et aktivitetsområde særskilt
-for petroleumsvirksomhet og kan ikke sammenlignes med andre virksomheter på land, heller
-ikke eksponeringsmessig. Fra 1966 til 1969 var
-det nesten bare boreaktivitet fra flyttbare innretninger, fra 1974 startet boring også fra faste innretninger på Ekofiskfeltet. Boring var i de første
-årene mer enn andre aktivitetsområder preget av
-en røff arbeidskultur og begrensede rettigheter
-for arbeidstakerne. Eksponering var i hovedsak
-knyttet til hydrokarboner, boreslam og kjemikalier som dette var sammensatt av. Typiske grupper innenfor boring som er relevante for vurdering av relevant eksponering i pionertiden er:
-– Dekksarbeidere
-– Boredekksarbeidere
-– Tårnmenn og assisterende tårnmenn
-– Riggmekanikere
-– Slamloggere
-– Sementerere.
-10.3.2 Produksjon og vedlikehold
-Under prosessering av olje og gass skilles olje,
-gass og vann for transport via rørledning eller lasting til skip. Vannet renses og slippes til sjø. En del
-av gassen reinjiseres til reservoaret som trykkstøtte for økt produksjon. Det er kontakt med
-hydrokarboner fra reservoaret som er dominerende kilde til eksponering og benzen regnes for å
-være den kritiske komponenten. I utgangspunktet
-håndteres hydrokarbonene i lukkede systemer,
-primært for å redusere sannsynlighet for brann og
-eksplosjoner.
-
-[Side 96]
-
-94
-
-Kapittel 10
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-Produksjon og vedlikehold offshore er en kjerneaktivitet med grupper som i pionertiden kan ha
-hatt betydelig kjemikalieeksponering. Eksponeringen er i stor grad knyttet til tilstedeværelsen av
-hydrokarboner. Dette framstår som relativt
-avgrensede aktiviteter og grupper, men i noe mindre grad enn ved boring. Relevante arbeidstakergrupper innenfor produksjon og vedlikehold er:
-– Prosessoperatører
-– Laboratorieteknikere
-– Mekanikere
-– Elektrikere
-– Automatikere
-– Maskinister
-– Teknisk cleanere.
-
-der på sentralnervesystemet, se kapittel 8.2.3.
-Kunnskap om helseeffekter av kjemikalieeksponering utvikler seg imidlertid over tid. Man vet
-mer i dag enn for noen år tilbake, og ny kunnskap
-om sammenheng mellom eksponering og helseeffekter vil kunne utvikles i framtiden. Saken til den
-enkelte kjemikalieskadde oljearbeider må likevel
-bygge på den kunnskap som er tilgjengelig på
-søknadstidspunktet for en kompensasjonsordning. Kommisjonen viser til at slik kunnskap stadig utvikles. Blant annet forskes det i dag på sammenhenger mellom yrke og kreft, og kommisjonen
-peker på at det er viktig at slik forskningsinnsats
-videreføres i fremtiden.
-
-Med hensyn til aktivitetsområder og utvalgte
-grupper i målgruppen, viser medlemmene Erikstein og Nilsen til sin merknad i kapittel 10.5.4.
-
-10.5 Kommisjonens vurderinger
-
-10.4 Helseeffekter
-Stortingets anmodningsvedtak 11. mai 2021 og
-kommisjonens mandat har som utgangspunkt at
-tidligere oljearbeidere kan ha fått helseplager og skader på grunn av eksponering for kjemikalier i
-arbeidet. Kommisjonens mandat innebærer også
-blant annet å vurdere hvilke former for eksponering og hvilke helseskader som skal omfattes av
-en kompensasjonsordning. Kommisjonen legger
-derfor til grunn at varig helseskade skal være et
-vilkår for å omfattes av kompensasjonsordningen.
-Kommisjonens vurderinger legger vekt på det
-kunnskapsgrunnlaget som knytter eksponeringen
-den enkelte har vært utsatt for til den sykdommen
-som vedkommende kan ha pådratt seg.
-Dokumentasjonsgrunnlaget viser at en særskilt kjemisk eksponering offshore i pionertiden
-kan knyttes til arbeid med boring og produksjonsprosesser der arbeidstakerne kan ha blitt utsatt
-for kjemikalier i form av hydrokarboner, benzen,
-og boreslam, se kapitlene 8 og 10.3. Dette er
-eksponeringsforhold offshore som man ikke finner for andre tilsvarende grupper i landbasert
-virksomhet.
-I kommisjonens arbeid med avgrensning av
-mulige arbeidsrelaterte sykdommer som skyldes
-eksponering i pionertiden offshore, er det lagt til
-grunn at det må være et kunnskapsgrunnlag for å
-knytte eksponeringene til sykdommer som skal
-kunne utløse kompensasjon. Basert på dagens
-kunnskap er det dokumentert sammenheng mellom eksponering for boreslam, benzen og hydrokarboner og kreftsykdommer og løsemiddelska-
-
-Kommisjonen er enig om at perioden til og med
-1985 var en del av pionertiden. Petroleumsloven
-trådte i kraft 1. juli 1985, og internkontrollbasert
-tilsynsstrategi ble iverksatt. Arbeidsforholdene
-offshore ble bragt inn i et helhetlig system. Dette
-innebar at oljesektoren ble omsluttet av den norske arbeidslivsmodellen, som hadde blitt utviklet
-over lang tid på fastlandet. Historien om kjemisk
-eksponering for de som arbeidet offshore er samtidig preget av en gradvis utvikling av både regelverk, praktisering, tilsynsordninger og kunnskap.
-«Pionertiden» kan derfor ikke sies å ha et entydig
-sluttpunkt. Et slikt sluttpunkt er likevel helt nødvendig for å etablere og gjennomføre en kompensasjonsordning i praksis. Avgrensing av «pionerperioden» må derfor baseres på skjønnsmessige
-vurderinger. Kommisjonen er delt i synet på når
-pionertiden må anses som avsluttet. Det blir argumentert for tre ulike sluttpunkt for perioden:
-Medlemmene Nilsen, Karlsen og Ikdahl mener
-pionerperioden varte til og med 1990.
-Medlemmene Riise, Risa og Solheim mener
-perioden varte til og med 1985.
-Medlemmet Erikstein mener perioden varte til
-og med 1995.
-
-10.5.1 Tidsperiode 1966–1990
-Medlemmene Nilsen, Karlsen og Ikdahl viser til at
-da petroleumsloven ble vedtatt i 1985, ble det etablert et mer helhetlig system rundt virksomhet
-offshore. Oljesektoren kan til en viss grad sies å
-ha blitt omsluttet av den norske arbeidslivsmodellen, som hadde blitt utviklet over lang tid på fastlandet. Som beskrevet i kapittel 9.2.1, var dette
-viktig.
-
-[Side 97]
-
-NOU 2022: 19
-Oljepionerene – en kompensasjonsordning
-
-Disse medlemmer finner det likevel klart at
-ikrafttredelsen av petroleumsloven ikke kan ses
-som pionertidens «sluttpunkt» når det er snakk
-om kjemisk eksponering. Etter at lovverkets rammer var på plass, kom en periode der man bare
-gradvis fikk realisert de systemene og ordningene
-loven la grunnlag for. Loven var ikke et endepunkt, men et rammeverk/et veikart som pekte ut
-veier som måtte gås opp videre for å sikre gode
-nok arbeidsforhold også for oljearbeidere. Å gå
-denne veien tok tid, særlig for håndtering av helsefare knyttet til kjemisk eksponering.
-Disse medlemmer finner det klart dokumentert
-at kjemisk eksponering bare fikk begrenset oppmerksomhet i HMS-arbeid på 1980-tallet. I kjølvannet av storulykker som Alexander Kielland-forliset, samt det vedvarende høye antallet enkelttilfeller av skader og ulykker, ble søkelyset satt på å
-unngå ulykker, både store og små, samt utslipp til
-luft og sjø. Kjemisk eksponering, som kan gi sykdom lenge etter eksponeringen, fikk ikke samme
-oppmerksomhet. Myndigheter, media, politikere,
-forskningsmiljøene og fagbevegelsen hadde alle
-fokus på å unngå personskader og storulykker.
-Disse medlemmer vil peke på en rekke forhold
-som samlet sett innebærer at et skjæringstidspunkt på 1985 er for tidlig. Mange av faktorene er
-berørt andre steder i denne utredningen, men for
-helhetsbildets skyld kommenteres de samlet her.
-Om utviklingen av sikkerhetsregelverket
-I etterkant av petroleumslovreformen i 1985 satt
-Oljedirektoratet i gang en omfattende omstrukturering av det tekniske regelverket, se også kapittel 5.1.4. I perioden 1985 til 1992 ble antallet forskrifter redusert fra 24 til 13 på teknologiområdet.
-Videre ble det i 1995 fastsatt ny forskrift på
-arbeidsmiljøområdet (Forskrift om systematisk
-oppfølging av arbeidsmiljøet i petroleumsvirksomheten, (SAM-forskriften).4
-I en stortingsmelding fra 1998 har Oljedirektoratet selv beskrevet det slik: «Arbeidet med et nytt
-regelverk for sikkerhet og arbeidsmiljø i petroleumsvirksomheten ble ferdigstilt ved fastsettelsen
-av forskrift for systematisk oppfølging av arbeidsmiljøet i 1995. Dermed framstår hele det regelverk som forvaltes av Oljedirektoratet med hjemmel i petroleumsloven og arbeidsmiljøloven helhetlig og i samsvar med moderne forvaltningsprinsipper.»5
-
-Om utvikling av arbeidsmiljøregelverket
-Arbeidsmiljøreguleringen skiller seg fra sikkerhetsregelverket. Også etter petroleumsloven i
-1985 fantes det to ulike spor i dette regelverket,
-for henholdsvis faste og flyttbare innretninger, se
-også kapittel 5.1.4.
-I NOU 1989: 15 Arbeidsmiljølovens virkeområde i petroleumsvirksomheten pekte et regjeringsoppnevnt utvalg (Bull-utvalget) på at mens regelverket på sikkerhetssiden ble samordnet i forbindelse med petroleumsloven i 1985, var det samme
-ikke tilfelle for regelverket for arbeidsmiljø. Utvalget fant at «dagens regulering fremstår som oppsplittet og lite helhetlig.» Utvalget beskriver
-videre «et uoversiktlig og komplisert reguleringssystem, med vage avgrensningskriterier» og at
-«tilsynsordningen er komplisert med mulighet for
-kompetansestrid mellom myndighetsorganer».6
-Utvalget skriver også at «For så vidt angår
-arbeidsmiljø har det fra Oljedirektoratets side
-vært sett som en ulempe at de ikke har ansvaret
-for alle arbeidsmiljømessige spørsmål i petroleumsvirksomheten. Dermed får ikke direktoratet
-det totalansvar for sikkerhet og arbeidsmiljø som
-var en målsetting ved petroleumslovens ikrafttredelse.»7
-Også Petroleumstilsynets rapport til kommisjonen tar opp dette. Rapporten framholder at
-Petroleumstilsynet i sin gjennomgang fant «både
-direkte og mer indirekte – spor av at Oljedirektoratet følger opp aktørene på en slik måte at det får
-virkninger for arbeidsmiljøet på flyttbare innretninger.»8 Petroleumstilsynets rapport beskriver
-likevel at Oljedirektoratet fant det utfordrende å
-følge opp arbeidsmiljøforhold på flyttbare innretninger, og siterer fra Oljedirektoratets årsberetning fra 1998: «Arbeidsmiljølovens virkeområde
-vanskeliggjør således et nasjonalt tilsyn med
-arbeidsmiljøforhold fra myndighetenes side.»9
-Rapporten omtaler en «kompetansestrid» mellom
-departementene som pågikk fra midten av 1970tallet og frem til 1990-tallet.10
-Først i 1992 ble dette problemet løst, da det
-tosporede systemet ble forlatt og arbeidsmiljøloven ble gjort gjeldende for flyttbare innretninger.
-5
-
-6
-7
-
-4
-
-St.meld. nr. 46 (1997–98), Olje- og gassvirksomheten, pkt.
-11.2.1.
-
-95
-
-Kapittel 10
-
-8
-9
-
-Hovedpunktene i Oljedirektoratets årsberetninger for
-1995, 1996 og 1997, som gjengitt i St.meld. nr. 46 (1997–98)
-Olje- og gassvirksomheten, pkt. 13.2.
-NOU 1989: 15 Arbeidsmiljølovens virkeområde i petroleumsvirksomheten, s. 20.
-NOU 1989: 15 Arbeidsmiljølovens virkeområde i petroleumsvirksomheten, s. 30.
-Petroleumstilsynet, 2022 s. 45.
-Petroleumstilsynet, 2022 s. 40.

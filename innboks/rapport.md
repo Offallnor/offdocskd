@@ -1,44 +1,11 @@
-# Siste kjøring av innboksen (2026-11-14 06:54)
+# Siste kjøring av innboksen (2026-11-14 06:58)
 
-- **nou201620160013000dddrtfz.zip**: lest inn i «NOU 2016: 13» (103978 ord, PDF-teksten hadde 107581).
+- **nou201520150004000dddrtfz.zip**: lest inn i «NOU 2015: 4» (64393 ord, PDF-teksten hadde 67231).
+- **nou201720170003000dddrtfz.zip**: lest inn i «NOU 2017: 3» (76152 ord, PDF-teksten hadde 83628).
+- **nou201820180006000dddrtfz.zip**: lest inn i «NOU 2018: 6» (118134 ord, PDF-teksten hadde 124386).
 - **nou202020200002000ddddocx (1).docx**: ikke lest inn – fant ikke dokumentet; gi filen samme navn som tittelen (for eksempel «NOU 2019 2.docx») eller id-en.
-- **prp201420150095000dddrtfz.zip**: lest inn i «Prop. 95 L (2014-2015)» (3061 ord, PDF-teksten hadde 3040).
-- **prp201420150156000dddrtfz.zip**: lest inn i «Prop. 156 L (2014–2015)» (12437 ord, PDF-teksten hadde 15966).
-- **prp201620170085000dddrtfz.zip**: lest inn i «Prop. 85 L (2016–2017)» (53105 ord, PDF-teksten hadde 56257).
-- **prp201720180061000dddrtfz.zip**: lest inn i «Prop. 61 L (2017–2018)» (51780 ord, PDF-teksten hadde 55166).
-- **prp201820190087000ddddocx.docx**: lest inn i «Prop. 87 L (2018–2019)» (96387 ord, PDF-teksten hadde 104820).
-- **prp201920200010000ddddocx.docx**: lest inn i «Prop. 10 L (2019–2020)» (14419 ord, PDF-teksten hadde 15453).
-- **prp201920200027000ddddocx.docx**: lest inn i «Prop. 27 L (2019–2020)» (8380 ord, PDF-teksten hadde 9148).
-- **prp201920200060000ddddocx.docx**: lest inn i «Prop. 60 L (2019–2020)» (7998 ord, PDF-teksten hadde 8486).
-- **prp201920200061000ddddocx.docx**: lest inn i «Prop. 61 LS (2019–2020)» (50524 ord, PDF-teksten hadde 55120).
-- **prp201920200072000ddddocx.docx**: lest inn i «Prop. 72 L (2019–2020)» (5113 ord, PDF-teksten hadde 5472).
-- **prp201920200087000ddddocx.docx**: lest inn i «Prop. 87 L (2019–2020)» (15531 ord, PDF-teksten hadde 16425).
-- **prp201920200125000ddddocx.docx**: lest inn i «Prop. 125 L (2019–2020)» (1513 ord, PDF-teksten hadde 1583).
-- **prp201920200135000ddddocx.docx**: lest inn i «Prop. 135 L (2019–2020)» (31231 ord, PDF-teksten hadde 33455).
-- **prp201920200141000ddddocx.docx**: lest inn i «Prop. 141 LS (2019–2020)» (33165 ord, PDF-teksten hadde 38711).
-- **prp202020210013000ddddocx.docx**: lest inn i «Prop. 13 L (2020–2021)» (78163 ord, PDF-teksten hadde 81889).
-- **prp202020210024000ddddocx.docx**: lest inn i «Prop. 24 L (2020–2021)» (15934 ord, PDF-teksten hadde 16982).
-- **prp202420250108000ddddocx.docx**: lest inn i «Prop. 108 L (2024–2025)» (85166 ord, PDF-teksten hadde 90843).
-- **prp202420250133000ddddocx.docx**: lest inn i «Prop. 133 L (2024–2025)» (18862 ord, PDF-teksten hadde 19748).
-- **prp202420250134000ddddocx.docx**: lest inn i «Prop. 134 L (2024–2025)» (11779 ord, PDF-teksten hadde 12701).
-- **prp202420250135000ddddocx.docx**: lest inn i «Prop. 135 L (2024–2025)» (12117 ord, PDF-teksten hadde 12993).
-- **prp202420250159000ddddocx.docx**: lest inn i «Prop. 159 L (2024–2025)» (24485 ord, PDF-teksten hadde 25743).
-- **prp202520260007000ddddocx.docx**: lest inn i «Prop. 7 L (2025–2026)» (14305 ord, PDF-teksten hadde 15179).
-- **prp202520260008000ddddocx.docx**: lest inn i «Prop. 8 L (2025–2026)» (28044 ord, PDF-teksten hadde 30469).
+- **nou202220220019000ddddocx.docx**: lest inn i «NOU 2022: 19» (58379 ord, PDF-teksten hadde 62339).
+- **nou202420240003000ddddocx.docx**: lest inn i «NOU 2024: 3» (245665 ord, PDF-teksten hadde 258760).
+- **nou202620260005000ddddocx.docx**: lest inn i «NOU 2026: 5» (101382 ord, PDF-teksten hadde 104660).
 - **prp202520260033000ddddocx.docx**: ikke lest inn – fant ikke dokumentet; gi filen samme navn som tittelen (for eksempel «NOU 2019 2.docx») eller id-en.
-- **prp202520260043000ddddocx.docx**: lest inn i «Prop. 43 L (2025–2026)» (17589 ord, PDF-teksten hadde 18653).
-- **prp202520260051000ddddocx.docx**: lest inn i «Prop. 51 L (2025–2026)» (26482 ord, PDF-teksten hadde 28269).
-- **prp202520260062000ddddocx.docx**: lest inn i «Prop. 62 L (2025–2026)» (12471 ord, PDF-teksten hadde 13277).
-- **prp202520260069000ddddocx.docx**: lest inn i «Prop. 69 L (2025–2026)» (22873 ord, PDF-teksten hadde 24129).
-- **prp202520260070000ddddocx.docx**: lest inn i «Prop. 70 L (2025–2026)» (7535 ord, PDF-teksten hadde 7844).
-- **prp202520260075000ddddocx.docx**: lest inn i «Prop. 75 L (2025–2026)» (2566 ord, PDF-teksten hadde 2686).
-- **prp202520260078000ddddocx.docx**: lest inn i «Prop. 78 L (2025–2026)» (9124 ord, PDF-teksten hadde 9927).
-- **prp202520260093000ddddocx.docx**: lest inn i «Prop. 93 L (2025–2026)» (22794 ord, PDF-teksten hadde 23845).
-- **prp202620270007000ddddocx.docx**: lest inn i «Prop. 7 LS (2026–2027)» (52851 ord, PDF-teksten hadde 56440).
-- **prp202620270009000ddddocx.docx**: lest inn i «Prop. 9 L (2026–2027)» (12318 ord, PDF-teksten hadde 13317).
-- **stm201520160030000dddrtfz.zip**: lest inn i «Meld. St. 30 (2015–2016)» (67128 ord, PDF-teksten hadde 72262).
-- **stm201520160033000dddrtfz.zip**: lest inn i «Meld. St. 33 (2015–2016)» (49856 ord, PDF-teksten hadde 54324).
-- **stm201620170023000dddrtfz.zip**: lest inn i «Meld. St. 23 (2016–2017)» (2111 ord, PDF-teksten hadde 2158).
-- **stm201620170040000dddrtfz.zip**: lest inn i «Meld. St. 40 (2016–2017)» (29027 ord, PDF-teksten hadde 28812).
-- **stm201720180012000dddrtfz.zip**: lest inn i «Meld. St. 12 (2017–2018)» (30002 ord, PDF-teksten hadde 32129).
-- **stm202520260006000ddddocx.docx**: lest inn i «Meld. St. 6 (2025–2026)» (2303 ord, PDF-teksten hadde 2385).
+- **stm202320240006000ddddocx.docx**: lest inn i «Meld. St. 6 (2023–2024)» (110195 ord, PDF-teksten hadde 116090).

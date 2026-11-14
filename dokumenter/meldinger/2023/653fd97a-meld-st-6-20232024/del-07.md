@@ -1,1075 +1,390 @@
-# Meld. St. 6 (2023–2024), del 7 av 17 (side 72–83)
+# Meld. St. 6 (2023–2024), del 7 av 18
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2023/653fd97a-meld-st-6-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-6-20232024/id3018556/
 - Original-PDF: https://www.regjeringen.no/contentassets/5d8550e1045d4f8684acdf893bd10b50/no/pdfs/stm202320240006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 21 tabeller, 58 figurer, 843 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 72]
-
-70
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-helhetlig bilde av samlet pensjon ved ulike
-uttakstidspunkt når pensjon fra private- og
-offentlige tjenestepensjonsordninger inkluderes. Utvalget mener det bør utarbeides en helhetlig strategi for informasjon på pensjonsområdet.»
-«Utvalget mener at det bør vurderes om
-NAV mer aktivt skal gå ut og spre informasjon
-om pensjonsreformen. Eventuelt kan dette
-gjøres i samarbeid med Norsk Pensjon og leverandører av privat og offentlig tjenestepensjon.
-I tillegg til at informasjonen må være fullstendig og lett forståelig, må det også være et mål å
-øke interessen for slik informasjon slik at den
-når flere. […] Det kan i denne sammenhengen
-også vurderes om innrapportering av all pensjonsopptjening til Altinn kan være et element i
-en slik plan. Når all informasjon om opptjeningstid kan vises og hentes ut samlet, så vil
-det også være enklere å ta med seg informasjonen videre til NAV eller andre brukeren ønsker
-å søke veiledning hos.»
-I tillegg til dette mente Pensjonsutvalget at det
-kan være hensiktsmessig å gi noe mer veiledning
-om valg av uttakstidspunkt; blant annet ved at det
-framgår ved hvilken alder en må stå i arbeid til for
-å ha kompensert for levealdersjusteringen. Videre
-at informasjon burde gjøres tilgjengelig på flere
-språk enn i dag slik at brukere som ikke har
-norsk som morsmål, eller som har arbeidet i
-Norge en kort periode for å senere reise tilbake til
-hjemlandet, lettere kan få informasjon.
-
-4.5.5 Høringsuttalelser
-Flere høringsinstanser har uttalt seg om pensjonsportaler og behov for informasjon om pensjon.
-Disse støtter utvalgets anbefalinger. Det er særlig
-forslaget om at det bør utarbeides en helhetlig
-strategi på pensjonsområdet som høringsinstansene har gitt innspill på.
-Arbeids- og velferdsdirektoratet viser til at de
-fleste brukerhenvendelser i dag besvares på telefon, men at dette er ressurskrevende og at bedre
-digitale løsninger vil kunne redusere behovet for
-personlig veiledning. Direktoratets egne brukerundersøkelser viser at dagens løsning ikke
-presenterer den framtidige pensjonen på en tilfredsstillende måte og at det kan gjøre at brukerne ikke forstår sine rettigheter og valgmuligheter fullt ut. De sier seg enige med utvalget i at
-det er rom for forbedringer av portalene og skriver at utviklingen av løsningen bør skje i samsvar
-med tilbakemeldinger fra brukerne med formål
-
-2023–2024
-
-om bedre innsikt i egne pensjonsrettigheter og
-konsekvensene av ulike valg. Direktoratet mener
-det vil være hensiktsmessig å utvikle en ITløsning som viser hvordan alderspensjonen
-utvikler seg i verdi etter uttakstidspunktet og som
-illustrerer hvordan skatteregler påvirker utbetalt
-pensjon. Direktoratet er enig med Pensjonsutvalget i at det er en svakhet at pensjonskalkulatorer
-generelt ikke vurderer om en person er tilsluttet
-en AFP-ordning og dermed kan ha rett til avtalefestet pensjon.
-Statens pensjonskasse er positiv til utvalgets forslag og til at det bør utarbeides en helhetlig strategi for informasjon på pensjonsområdet, og
-mener dette arbeidet bør involvere alle hovedaktørene. De viser til at de ser at medlemmene av
-pensjonskassen har behov for konkret rådgivning
-for å ta gode og riktige valg og at det å se forventet
-pensjon (etter skatt) samlet er en forutsetning for
-dette.
-Unio skriver følgende i sitt høringssvar: «For
-de fleste er pensjon svært komplisert og det må
-erkjennes at pensjonsreformen ikke har bidratt
-til enkelhet. Stadig endring av pensjonsbegreper
-og systemer gjør det vanskelig for den enkelte å
-følge med. Behovet for forutsigbarhet henger
-også sammen med tillit til systemet. Vi er enig i
-at det har skjedd forbedring av pensjonsinformasjonen som er tilgjengelig for befolkningen i
-ulike nettportaler, men det er en stor utfordring å
-etablere portaler som gir en samlet oversikt over
-«alt». Det treffes pensjonsbeslutninger på basis
-av den informasjon den enkelte klarer å tilegne
-seg. Dersom en ikke forstår hvordan alt henger
-sammen, vil beslutningsgrunnlaget være
-mangelfullt og det kan tas feil pensjonsvalg. Det
-er viktig at den enkelte forstår konsekvensene av
-sine valg. Det offentlige bør ta et tydelig ansvar
-for en helhetlig strategi for informasjon på pensjonsområdet.»
-Den Norske Aktuarforening (DNA) viser til at
-både Arbeids- og velferdsdirektoratet og Norsk
-Pensjon har oppgitt til utvalget at dagens løsning
-med et delt ansvar og utveksling av data for prognoseformål etter deres oppfatning fungerer godt,
-og at de ikke ser noen åpenbare behov for
-endringer. DNA mener derimot at det absolutt er
-rom for forbedringer og at det kan hentes inspirasjon fra Sverige når det gjelder samarbeidsform.
-Prognosene for den samme pensjonsordningen
-bør være like på de forskjellige nettstedene, og
-basert på en enighet om hvordan slike prognoser
-skal beregnes og med en tydeliggjøring av usikkerheten ved prognosene. DNA viser også til at
-systemeierne har egne interesser å ta hensyn til,
-
-[Side 73]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-og ikke nødvendigvis en felles målsetting med
-innholdet i portalene.
-Oslo Pensjonsforsikring tar opp at en av hovedutfordringene er pensjonssystemets fragmenterte natur, samt betydningen av økende grad av
-individuell historikk og egne valg og tilpasninger.
-Kommunal Landspensjonskasse viser til at videreutvikling av portaler og digitale grensesnitt for
-utveksling av informasjon mellom flere aktører er
-et omfattende arbeid, og systemutviklingen må
-sette nye ytelser og nytt regelverk først. Norsk
-Pensjon er den eneste høringsinstansen som kommenterer innrapportering av all pensjonsopptjening via Altinn. De viser til at deres infrastruktur
-kan legge til rette for rapportering av pensjonsopptjening til Altinn.
-
-4.5.6 Regjeringens vurderinger
-I årene som kommer vil det være store årskull
-som nærmer seg, eller er i alder for, uttak av
-alderspensjon. Disse skal vurdere om de fortsatt
-skal arbeide, eventuelt i kombinasjon med uttak
-av pensjon. Dersom forslagene som presenteres i
-meldingen følges opp av Stortinget, vil kompleksiteten i pensjonsreformen øke. Økt satsing på kommunikasjon og informasjon vil da bli etterspurt.
-God informasjon og veiledning om hvordan ulike
-valg vil påvirke framtidig pensjon er også viktig
-for tilliten til, og oppslutningen om, pensjonssystemet.
-Regjeringen vil, etter at meldingen er behandlet av Stortinget, ta initiativ til at det utarbeides en
-helhetlig strategi for informasjon på pensjonsområdet. Strategien skal se på mulige løsninger for
-helhetlig informasjon hvor et alternativ vil være å
-se på et tettere samarbeid mellom Arbeids- og velferdsdirektoratet, de ulike tjenestepensjonsleverandørene og andre relevante aktører. Som en del
-av arbeidet kan det vurderes om det bør opprettes
-et overordnet organ med ansvar for informasjon
-om pensjon, slik det er gjort i Sverige.
-
-4.6
-
-Andre faktorer som har betydning
-for pensjoneringsbeslutningen
-
-4.6.1
-
-Trivsel i jobben
-
-I tillegg til økonomiske insentiver og informasjon
-om økonomiske konsekvenser av valg av uttakstidspunkt er det mange andre faktorer som kan
-påvirke beslutningen om å forlate arbeidslivet.
-Både trivsel i jobben, tradisjoner og normer,
-helsetilstanden og om ektefellen er pensjonist kan
-ha betydning.
-
-71
-
-Et godt arbeidsmiljø er viktig både for de sysselsattes helse og trivsel og for virksomhetenes
-produktivitet og resultater. Det er godt dokumentert at arbeidsmiljøet er viktig for sykefravær og
-uførhet, arbeidsinkludering og tidligpensjonering.
-I Norsk seniorpolitisk barometer 2022 er et godt
-arbeidsmiljø den enkeltfaktoren som flest mener
-er viktig for at de skal fortsette i arbeid etter at de
-har rett til å ta ut pensjon; hele 73 prosent svarer
-at det er meget viktig og ytterligere 19 prosent at
-det er ganske viktig. Sammen med gode arbeidskamerater, svarer respondentene at disse faktorene er viktige for å fortsette i jobb: arbeidet gir
-økt livskvalitet/er interessant, grad av autonomi
-på jobben og å føle seg nyttig. Halvparten svarer
-også at det er meget viktig om nærmeste leder
-ønsker at du fortsetter.
-Gjennomsnittlig ønsket avgangsalder er nå 65
-år etter å ha økt fra 62 år fra undersøkelsen startet
-opp i 2003. Samtidig har andelen yrkesaktive som
-gleder seg til egen pensjonisttilværelse økt fra 36
-til 42 prosent fra 2020 til 2022, noe som er bekymringsfullt med tanke på at det er et politisk mål at
-seniorer i årene som kommer står lenger i arbeid.
-Forebyggende arbeidsmiljøarbeid er et viktig
-virkemiddel i arbeidet med å styrke arbeidslinjen i
-Norge. Gjennom samarbeidet om IA-avtalen er det
-satt i gang tiltak som skal bidra til å forebygge og
-redusere sykefravær og frafall og legge til rette for
-inkludering og forlengede yrkeskarrierer. Dette
-arbeidet må innrettes og tilpasses de særskilte
-utfordringene som finnes på den enkelte arbeidsplass.
-Utviklingen i frafall som følge av tidligpensjonering har som andel av ansatte mellom 62–66 år
-vært fallende siden 2016, med unntak av 2020.
-Andelen lå i 2022 på 11,9 prosent, som er en nedgang på 3,8 prosent siden 2018.
-
-4.6.2 Helsetilstand
-Dårlig helse er en faktor som kan bidra til å redusere muligheten til forlengede yrkeskarrierer. For
-personer med så dårlig helse at det begrenser
-muligheten til å jobbe, vil mottak av eksisterende
-ytelser som sykepenger, arbeidsavklaringspenger
-og uføretrygd være mulige inntektssikringsordninger.
-Det kan også være forhold på arbeidsplassen
-som bidrar til at folk slites ut. Høy arbeidsbelastning og stress er viktige årsaker. Dette er forhold
-som ikke nødvendigvis skyldes yrket i seg selv,
-men kan knyttes til arbeidsmiljøfaktorer på den
-enkelte arbeidsplass. Det å måtte pensjonere seg
-på grunn av slitenhet kan oppleves som en belast-
-
-[Side 74]
-
-72
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-ning for den enkelte knyttet til tap av inntekt, men
-også muligheten til å benytte fagkunnskap og
-kompetanse. Det ligger et stort potensial i bedre
-tilrettelegging og organisering av arbeidet.
-Samtidig har det vært en positiv utvikling i
-helse og arbeidsmiljø. I perioden 2000–2015 økte
-levealderen for 60-åringer i Norge med 2,2 år,
-hvor 1,6 år, eller om lag to tredjedeler, var en
-økning i antall år uten sykdommer eller plager.
-Dette tyder på at sykdommer og plager inntreffer
-i høyere alder enn tidligere. Helsegevinsten har
-ikke bare kommet de aller eldste til gode, men
-også den delen av befolkningen som er i slutten av
-yrkesaktiv alder. Det har stor verdi å beholde
-erfaren arbeidskraft i arbeidsmarkedet, og samtidig vil arbeidsmiljøutvikling også komme yngre
-ansatte til gode.
-
-4.6.3
-
-Familieforhold og kjønn
-
-Mange av de som står overfor et valg mellom pensjonering og fortsatt yrkesaktivitet, har en ektefelle eller samboer. Valget mellom fortsatt arbeid
-og pensjonering treffes ikke bare ut fra hensyn til
-egen økonomi, ønske om mer fritid eller egen
-helse. For flerperson-husholdninger vil også felles
-inntekt og felles nytte av samvær ha betydning.
-Det kan også være forhold som handler om forsørgelse av voksne barn som trekker i retning av
-å fortsette å arbeide. For andre vil også omsorgsoppgaver for eksempel knyttet til ivaretagelse av
-yngre eller eldre familiemedlemmer trekke i retning av tidligere tilbaketrekning fra arbeidslivet.
-Menn går av med pensjon omtrent ett år senere
-enn kvinner, og gjennomsnittlig alder er vel 66 for
-menn og drøyt 65 år for kvinner. Forskningen gir
-støtte til at insentivendringer som er rettet mot
-individer kan ha større effekt enn de som kan
-måles bare ved å se på endret atferd hos den som
-berøres direkte. Det betyr at en del par der den
-ene ønsker å utsette avgangen fra arbeidslivet
-som følge av levealdersjusteringen, trolig vil få
-følge av sin ektefelle.
-
-2023–2024
-
-4.6.4 Arbeidsmarkedet for seniorer
-Sysselsettingen blant personer over 60 år har økt
-betydelig de siste 20 årene og sysselsettingen
-blant eldre i Norge er høy sammenliknet med
-andre europeiske land. Som i andre land faller
-andelen som er jobb i Norge raskt med alderen
-etter fylte 60 år, og det er få arbeidstakere over 70
-år. Mens 75 prosent av 60-åringene var sysselsatt i
-2022, var andelen sysselsatte bare 32 prosent for
-67-åringer og 19 prosent for 70-åringer. Den gradvis lavere andelen i jobb blant eldre gjenspeiles i
-at flere mottar uføretrygd eller alderspensjon.
-Det at flere eldre arbeidstakere ønsker å stå
-lenger i jobb, er ikke alene nok til å øke sysselsettingen. Økonomiske insentiver har stor betydning, både for arbeidsgivere og for den enkelte.
-For arbeidsgivere er det viktig at betingelser og
-forhold er lagt til rette for at det skal lønne seg å
-beholde eller ansette eldre arbeidstakere. For de
-som er i et ansettelsesforhold, avhenger sysselsettingen også av ulike lovbestemmelser som opphør av arbeidsforhold på grunn av alder. De som
-er selvstendig næringsdrivende, er avhengig av at
-tjenestene de tilbyr etterspørres. For å øke sysselsettingen blant eldre, må det arbeides for at færre
-skal slutte i den jobben de har, samtidig som det
-må bli lettere for seniorer som er ledige å få jobb.
-Det er samtidig viktig med god mobilitet i arbeidsmarkedet blant eldre, slik at det blir mer vanlig å
-finne ny jobb. I årene framover vil omstillinger,
-både i privat og offentlig sektor, gjøre det nødvendig at både arbeidstakere og arbeidsgivere legger
-til rette for at kompetansen fornyes slik at den
-samsvarer med samfunnets og næringslivets
-behov. Kompetansetiltak og rådgivning særlig rettet mot arbeidstakere som har vært noen år i
-arbeidslivet, kan være et framtidsrettet virkemiddel som kan gjøre seniorer mer attraktive i
-arbeidsmarkedet.
-
-[Side 75]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-73
-
-5 Pensjonssystemets økonomiske bærekraft
-5.1
-
-Innledning og sammendrag
-
-Folketrygden skal være en bærebjelke i velferdssamfunnet. Det fordrer at pensjonssystemet er
-økonomisk bærekraftig over tid. Det vil også gi
-trygghet for den enkeltes pensjon og alderdom.
-Pensjonskommisjonen vurderte at folketrygden, før pensjonsreformen, sto overfor store
-utfordringer knyttet til pensjonssystemets langsiktige bæreevne. Pensjonskommisjonens rapport
-viste at økonomien i folketrygden vil komme
-under økende press som følge av svakere vekst i
-den yrkesaktive befolkningen, høyere gjennomsnittlige ytelser og stigende levealder blant pensjonistene. Pensjonskommisjonen foreslo kraftige
-tiltak for å bedre pensjonssystemets økonomiske
-bærekraft. Levealdersjustering og nye regler for å
-regulere løpende pensjon er innført for å dempe
-veksten i utgiftene til alderspensjon fra folketrygden. I dette kapittelet gir regjeringen en overordnet vurdering av den økonomiske bærekraften
-til folketrygden.
-Vurderinger av pensjonssystemets økonomiske bærekraft bør gjøres ut fra en bredere tilnærming enn isolerte vurderinger av for eksempel bidragsraten eller forventede pensjonsutgifter
-framover. Den må også ses i sammenheng med
-bærekraften i offentlige finanser generelt og
-andre utfordringer for velferdsstaten. Perspektivmeldingen presenterer hvert fjerde år perspektiv
-på utviklingen i norsk økonomi og offentlige
-finanser på mellomlang og lang sikt. Siste melding
-ble lagt fram i februar 2021, jf. Meld. St. 14 (2020–
-2021). Beskrivelsen av velferdsstatens samlede
-økonomiske bærekraft i dette kapittelet tar
-utgangspunkt i perspektivmeldingen fra 2021.
-Regjeringen tar sikte på å legge fram en ny perspektivmelding våren 2024, med oppdaterte langsiktige framskrivinger for norsk økonomi.
-Oppdaterte beregninger viser at bidragsraten
-for folketrygdens alderspensjon de nærmeste
-årene vil stige en del, men etter hvert stabilisere
-seg. Stabilisering over tid er en viktig forutsetning
-for et bærekraftig system. En betydelig økning i
-
-pensjonsutgiftene de nærmeste tiårene lå også til
-grunn for pensjonsreformen i 2009. Beregningene
-viser videre at uten pensjonsreformen ville bærekraften vært kraftig svekket. Levealdersjusteringen i pensjonsreglene bidrar til å dempe og
-stabilisere utgiftsveksten framover.
-Endringer i befolkningsframskrivingene innebærer at forsørgelsesbyrden på lengre sikt nå
-anslås å bli større enn Pensjonskommisjonens
-framskrivinger viste. Endringene henger sammen
-med betydelig oppjustering i forventet levealder.
-Endringene understreker behovet for å ha mekanismer i pensjonssystemet som bidrar til å dempe
-og/eller stabilisere slike effekter.
-Pensjonsreformen og innføring av levealdersjustering har gjort pensjonssystemet langt mer
-økonomisk robust for endringer i levealder. Fra
-1900 og fram til i dag har befolkningsvekst hovedsakelig skjedd gjennom flere i yrkesaktiv alder
-(20–66 år). Framover vil antallet i denne aldersgruppen ligge stabilt for deretter å reduseres. All
-befolkningsvekst framover kommer i aldersgruppen 67 år og over. Særlig vil andelen over
-75 år øke.
-Perspektivmeldingen 2021 tegner et krevende
-bilde av finansieringsgrunnlaget for velferdsstaten framover. Vekst i pensjonsutgiftene vil konkurrere med bruk av offentlige midler til andre
-viktige formål.
-Regjeringen mener, som Pensjonsutvalget, at
-nedsiderisikoen for offentlige finanser framover
-bør vektlegges. Det tilsier at en bør være forsiktig
-med endringer i pensjonssystemet som øker
-utgiftene. Det vil være særlig viktig å sikre at
-endringer opprettholder gode insentiver til å stå i
-arbeid, og ikke vesentlig svekker levealdersjusteringen.
-I avsnitt 5.2 oppsummeres Pensjonsutvalgets
-vurderinger av den økonomiske bærekraften til
-pensjonssystemet. Regjeringens vurderinger presenteres i avsnitt 5.3. Avsnitt 5.4 vurderer velferdsstatens samlede økonomiske bærekraft, med
-utgangspunkt i Perspektivmeldingen 2021.
-
-[Side 76]
-
-74
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-5.2
-
-Pensjonsutvalgets vurderinger
-
-I mandatet for utvalget sies det blant annet:
-«Pensjonsreformens langsiktige mål er å
-styrke bærekraften både ved at veksten i utgiftene til alderspensjon begrenses og gjennom at
-styrkede insentiver til arbeid vil bedre pensjonssystemets finansieringsgrunnlag. […]
-[Det] oppnevnes et utvalg som skal
-beskrive pensjonssystemet og evaluere om de
-langsiktige målene i reformen vil kunne nås.
-Utvalget skal videre se på mulige justeringer
-for å sikre pensjonssystemets økonomiske og
-sosiale bærekraft. […]
-[M]ålet om at flere står lenger i arbeid, […]
-vil […] bidra til å styrke den økonomiske bærekraften gjennom økt verdiskaping og økte
-skatteinntekter. […] Utvalget skal drøfte i hvilken grad det langsiktige målet i reformen om å
-begrense utgiftsveksten vil kunne nås.»
-Utgiftene til alderspensjon fra folketrygden er den
-største enkeltposten på statsbudsjettet. Statens
-evne til å finansiere utgiftene til alderspensjon
-avhenger imidlertid også av utviklingen i andre
-utgifter og av hvordan statsbudsjettets inntekter,
-primært skatteinntekter, men også inntektene fra
-Statens pensjonsfond utland, utvikler seg.
-Utvalgets mandat tar utgangspunkt i utfordringer for offentlige finanser mer generelt, jf.:
-«Aldringen av befolkningen medfører at offentlige finanser stilles overfor store utfordringer i
-årene framover. […] Det ligger […] an til at
-handlingsrommet i finanspolitikken de neste
-årene blir vesentlig mindre enn vi er blitt vant
-til, som betyr behov for økte offentlige inntekter og/eller reduserte offentlige utgifter.
-Finansieringen av fremtidens velferdssamfunn
-vil kreve gode og bevisste valg i årene som
-kommer. Dersom målene med pensjonsreformen ikke nås, vil utfordringene bli betydelig mer krevende.»
-Utvalget vurderte både i hvilken grad
-utgiftsveksten i pensjonssystemet isolert sett er
-bærekraftig, og i hvilken grad pensjonssystemet
-er bærekraftig i lys av andre utviklingstrekk.
-Utvalget la til grunn overordnede vurderinger av
-finansieringsutfordringene for offentlige finanser
-framover slik de er beskrevet i Meld. St. 14 (2020–
-2021) Perspektivmeldingen 2021.
-Utvalget konkluderer med at pensjonsreformen var nødvendig for å begrense
-
-2023–2024
-
-utgiftsveksten til alderspensjon fra folketrygden
-og bedre bærekraften i offentlige finanser. Utvalget viser til at oppdaterte beregninger tilsier at
-reformen vil kunne virke etter hensikten, og at
-målet om å begrense utgiftsveksten vil kunne nås.
-Utvalget viser til at bidragsraten, se boks 5.1, er et
-mål for pensjonssystemets finansieringsbyrde.
-Beregninger i NOU 2022: 7 viser at anslaget for
-bidragsraten i 2050 ved en videreføring av dagens
-regelverk er oppjustert fra knapt 17 prosent i 2009
-til vel 18 prosent. Bidragsraten stabiliserer seg ut
-over århundret på rundt 18–19 prosent.
-Utvalget slår fast at utgiftene til pensjon vil øke
-betydelig de nærmeste tiårene, noe som også lå til
-grunn for Pensjonskommisjonens vurderinger.
-Beregningene viser videre at uten pensjonsreformen ville finansieringsbyrden blitt enda
-høyere enn tidligere antatt, og den ville ha fortsatt
-å stige.
-Utvalget registrerer at de offentlige finansene,
-og pensjonssystemet som en del av dette, i enda
-større grad enn antatt ved pensjonsreformens
-start, vil avhenge av overføringer fra pensjonsfondet.
-Utvalget peker på at det er mange forhold som
-har endret seg siden pensjonsreformen. Levealderen har økt betydelig, og befolkningsframskrivingene viser en sterkere vekst i levealderen,
-særlig for menn, enn det som ble forutsatt av
-Pensjonskommisjonen. På den andre siden har
-utviklingen i verdien av Statens pensjonsfond vært
-betydelig mer positiv enn tidligere anslått.
-Utvalget peker på at oljepengebruken som
-allerede er faset inn, har gått til mange formål,
-som det ikke vil være lett å nedprioritere. Framover vil det i liten grad være mulig å øke utgiftene
-til alderspensjon, uten å måtte stramme inn på
-andre områder. Perspektivmeldingen viser, med
-de forutsetningene som ble lagt til grunn, at
-rommet for økt oljepengebruk er begrenset framover.
-Perspektivmeldingen 2021 la til grunn at standarden på offentlige tjenester fortsatt vil øke noe
-framover, men at veksten vil bli betydelig mindre
-enn vi har vært vant til. Dessuten viste Perspektivmeldingen et betydelig inndekningsbehov. Vekst i
-produktiviteten vil innebære at framtidige generasjoner trolig vil være rikere enn oss, og det kan
-argumenteres for at de selv bør finansiere standardhevinger og konsekvenser av økende levealder. Utvalget vurderer at neste generasjon, ut fra
-det vi nå ser for oss, ikke bør ha grunnlag for å
-hevde at vår generasjon burde ha strammet inn
-pensjonssystemet på 2020-tallet. Selv om neste
-generasjon må forvente å stå lenger i jobb for å
-
-[Side 77]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-opprettholde pensjonsnivået, vil dette være
-knyttet til at forventet levealder vil øke, og dermed antakelig også den helsemessige funksjonsdyktigheten ved ulike alderstrinn.
-Utvalget peker på flere forhold som er viktige
-ved en vurdering av framtidig økonomisk bærekraft. Bærekraften vil i stor grad avhenge av at vi
-sikrer et tilstrekkelig høyt arbeidstilbud. Utvalget
-vurderer at hvis vi ikke lykkes med det, vil det være
-svært utfordrende å sikre både tilstrekkelige inntekter og tilstrekkelig arbeidskraft til velferdsstaten, herunder til å dekke økende behov for
-helse- og omsorgstjenester. Utvalget slår fast at det
-derfor er svært viktig at pensjonssystemet fortsatt
-støtter opp under insentivene til å stå i arbeid.
-Utvalget skriver at man kan håpe på at sysselsettingen øker mer og at Statens pensjonsfond
-vokser raskere enn det som nå legges til grunn,
-men en bør ikke planlegge ut fra dette. Utvalget
-mener at vi bør vektlegge den nedsiderisikoen
-som finnes for offentlige finanser framover. Det tilsier at en bør være forsiktig med å vedta nye justeringer av pensjonssystemet som øker utgiftene.
-Dette må også ses i lys av at pensjonsregler i noen
-grad er beskyttet av Grunnloven, slik at det kan
-bli krevende å stramme inn ordninger med rask
-effekt på et senere tidspunkt hvis en først har økt
-pensjonsrettighetene.
-Utvalget vektlegger at pensjonsbeslutninger
-er langsiktige. Mange beslutninger om pensjonsregler som vi tar i dag, vil først få virkning på lengre sikt. Hvis vi vurderte at pensjonssystemet
-ikke ville være økonomisk bærekraftig mot
-midten av dette århundret, ville det være behov
-for å gjøre justeringer nå, for å ivareta pensjonsrettigheter og lage rimelige overgangsordninger.
-Utvalget mener at utviklingen framover, med
-dagens regelverk og ut fra framskrivinger, ikke tilsier at det er behov for større innstramminger og
-systemendringer. Utvalget peker imidlertid på at
-vi står overfor en usikker framtid. Forutsetninger
-om pensjonsfondets avkastning framover kan vise
-seg å være for optimistiske. Hvis forutsetningene
-for pensjonssystemets bærekraft – for eksempel
-forholdet mellom antall arbeidstakere og pensjonister – svikter i betydelig grad, må sterkere tiltak
-for å stabilisere utgiftene vurderes.
-På denne bakgrunnen mener utvalget at pensjonssystemet ikke bør justeres slik at det svekker
-bærekraften, men at justeringene som kan og bør
-gjøres, må bidra til en balansert og holdbar utvikling. For å bidra til en balanse mellom generasjonene, mener utvalget derfor at bidragsraten i
-utgangspunktet ikke bør øke særlig mye ut over
-det som ligger i dagens regelverk.
-
-75
-
-Utvalget slår fast at dette kan bli krevende. De
-peker på flere forhold ved dagens regelverk som
-ikke i tilstrekkelig grad bidrar til å sikre den
-sosiale bærekraften. Utvalget mener at det framover vil være særlig viktig å sikre at eventuelle
-justeringer opprettholder gode insentiver til å stå i
-arbeid, og ikke vesentlig svekker levealdersjusteringen, som er den mekanismen i pensjonsreformen som særlig ivaretar den økonomiske
-bærekraften.
-Utvalget vurderer også at tilstrekkelig oppslutning om reformen er avgjørende for å sikre bærekraftige pensjonsordninger. Nå som ny alderspensjon fases inn, og levealdersjusteringen får større
-effekt over tid, er det avgjørende at det er oppslutning om de samlede pensjonsreglene, og at oppslutningen hviler på at konsekvensene av reglene
-er forstått og akseptert ut fra en helhetsvurdering.
-Pensjonssystemet er komplekst, og endringer på
-ett område kan få utilsiktede konsekvenser på
-andre områder. Enkelte justeringer som hver for
-seg kan framstå som fornuftige kan, om de blir
-mange nok, over tid bidra til å undergrave pensjonsreformen og målet om et bærekraftig pensjonssystem. Utvalget vurderer derfor at det kan
-være hensiktsmessig at endringer i pensjonsreglene gjennomføres på bakgrunn av brede evalueringer, for eksempel hvert tiende år.
-
-5.3
-
-Regjeringens vurderinger
-
-5.3.1 Innledning
-Dette avsnittet gir en overordnet vurdering av den
-økonomiske bærekraften til folketrygden basert
-på de siste befolkningsframskrivingene.1 Regjeringen har fått oppdaterte anslag for utgifter og
-bidragsrater ved gjeldende regelverk og ved et
-tenkt senario uten pensjonsreformen. Forutsetningene er noe endret sammenlignet med beregningene i NOU 2022: 7, men resultatene gir det
-samme overordnede bildet.
-5.3.2
-
-Vurdering av måloppnåelsen for
-pensjonsreformen
-
-Statistisk sentralbyrå har tidligere vurdert effekter av pensjonsreformen, se Fredriksen m.fl.
-(2019) som belyser virkninger på inntektssiden og
-utgiftssiden for offentlige finanser, både for folketrygden og for offentlig tjenestepensjon og både
-1
-
-Tømmerås, Ane M. og Michael J. Thomas (2022) Nasjonale
-befolkningsframskrivinger 2022. Rapporter 2022/29. Oslo:
-Statistisk sentralbyrå. Se også www.ssb.no/folkfram.
-
-[Side 78]
-
-76
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-2023–2024
-
-Boks 5.1 Definisjon av bidragsraten
-pensjonister (pensjonsfradrag og lavere trygdeBidragsraten, slik den har vært anvendt i beregninger av pensjonsforpliktelser, tilsvarer den
-avgift), som gir lavere skatt for pensjonister enn
-skattesatsen som er nødvendig for å finansiere
-for yrkesaktive med samme inntekt. I beregutbetalingene av alderspensjon fra folketrygden,
-ningene er denne andelen forutsatt å ligge fast,
-gitt at finansieringsbyrden utelukkende legges
-selv om den vil kunne endres over tid.
-på arbeids- og pensjonsinntekter i samme år.
-Arbeidsinntektene tar utgangspunkt i penBåde utgiftene og finansieringsgrunnlaget deflasjonsgivende inntekt, men fratrukket enkelte
-teres med lønn, noe som får fram utviklingen i
-trygdeytelser (arbeidsavklaringspenger, overfinansieringsbyrden over tid.1 Rent teknisk har
-gangsstønad og uføretrygd). Arbeidsinntekt
-bidragsraten i arbeidet med pensjonsreformen
-består dermed av lønn og næringsinntekt, samt
-vært definert som:
-trygdeytelser som er nært knyttet til yrkesdeltakelse (sykepenger, dagpenger og foreldreP
-BR =
-penger). Bidragsraten er et hypotetisk mål, i den
-W + 0,5 × P
-forstand at den ikke er knyttet til hvordan utgiftene til alderspensjon faktisk finansieres. Tilder P er de samlede pensjonsutgiftene, og W er
-nærmingen er blant annet brukt i Ot.prp. nr. 37
-de samlede arbeidsinntektene. I nevneren i
-(2008–2009) Om lov om endringer i folketrygduttrykket ganges P med 0,5 fordi pensjoner
-loven (ny alderspensjon) der det endelige lovforgrovt sett antas skattlagt med halvparten av det
-slaget om pensjonsreformen ble fremmet.
-lønnsinntekter skattlegges. Dels vil pensjonister
-betale lavere skatt fordi inntektsnivået er lavere
-1 Stensnes, Kyrre, Nils Martin Stølen og Inger Texmon
-enn for yrkesaktive, og i et progressivt skatte(2007). Pensjonsreformen: Virkninger på statsfinanser,
-system vil det gi lavere gjennomsnittsskatt for
-effektivitet og fordeling. Rapporter 2007/11. Oslo: Statistisk sentralbyrå.
-pensjonister. Dels er det egne skatteregler for
-
-for alderspensjon og for uføretrygd.2 Resultatene
-viser at 2011-reformen alene i 2060 vil ha redusert
-finansieringsbehovet med 235 mrd. 2017-kroner.3
-I det følgende presenteres oppdaterte beregninger av utviklingen i bidragsraten med de forutsetninger og begrensninger som ligger i denne.
-Det er tatt utgangspunkt i framskrivninger av en
-referansebane for folketrygdens alderspensjon
-som avviker noe fra det som lå til grunn i NOU
-2022: 7, se boks 5.1 og boks 5.2.
-Formålet med en referansebane for pensjonsberegninger er å beskrive hvordan utgiftene og
-2
-
-3
-
-Fredriksen, Dennis, Erling Holmøy, Birger Strøm og Nils
-Martin Stølen (2019). Betydningen av pensjonsreformen
-for arbeidstilbud og offentlige finanser. Søkelys på arbeidslivet, Nr. 04/2019. Oslo: Universitetsforlaget.
-Knapt halvparten kan ifølge artikkelen knyttes til økte inntekter, mens noe over halvparten knyttes til reduserte
-utgifter i folketrygden og offentlig tjenestepensjon. Inntektsøkningen kommer som følge av bedre arbeidsinsentiver og denne kommer relativt raskt mens utgiftsreduksjonene kommer over tid, jf. at muligheten for tidliguttak gir
-merutgifter i om lag ti år etter reformen i 2011.
-
-bidragsraten vil kunne utvikle seg, gitt at dagens
-regelverk og utviklingstrender videreføres. Referansebanen er utviklet ut fra det som er vurdert
-som hensiktsmessige forutsetninger, og skiller
-seg ikke mye fra det som benyttes i andre sammenhenger av Statistisk sentralbyrå eller Finansdepartementet. I boks 5.2 beskrives modellen
-som benyttes for disse beregningene kort, og
-hvordan forutsetningene skiller seg fra det utvalget la til grunn.
-I det følgende beskrives utviklingen i bidragsraten slik den simuleres med oppdatert referansebane, sammenlignet med hvordan den ble vurdert
-under forberedelsen av pensjonsreformen.
-Det har vært gjort enkelte endringer i pensjonsreglene fra 2011 til i dag. Disse har, med unntak av ytelser til etterlatte, i hovedsak dreid seg
-om å gjøre reglene for gammel alderspensjon
-gunstigere. Effektene av disse endringene er
-betydelige på kort sikt, men vil i stor grad være
-faset ut til 2050. Samlet kostnad akkumulert fram
-
-[Side 79]
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-77
-
-Boks 5.2 MOSART
-Modell for skolegang, arbeidsmarked og trygd
-inntektene blir dermed lavere i den nye refe(MOSART) er en demografisk basert mikroransebanen. Denne forutsetningen er i tråd med
-simuleringsmodell. Modellen tar i de fleste
-Perspektivmeldingen hvor det er lagt til grunn
-framskrivinger utgangspunkt i den fullstendige
-at den arbeidsføre befolkningen kompenserer
-populasjonen av individer i de norske registerfor nærmere to tredjedeler av virkningen av
-levealdersjusteringen.
-dataene og simulerer det videre livsforløpet for
-alle individene.
-Nye befolkningsframskrivinger fra 2022 er innModellen simulerer en rekke hendelser over
-arbeidet i beregningene.
-livsløpet som inn- og utvandring, fødsler, død,
-Den demografiske utviklingen og utviklingen i
-forandringer i ekteskapsstatus, skolegang,
-sysselsettingen i 2021 og 2022 er innarbeidet.
-effekten av utdanningsnivå, trygdestatus og
-Den høye innvandringen har gjort at befolkningsveksten har vært relativt sterk i disse to
-arbeidstilbud med arbeidsinntekt. Modellen er
-særlig egnet til å studere sammenhengen melårene, og også sysselsettingen har økt mer enn
-tidligere lagt til grunn.
-lom disse nevnte hendelsene, og er svært rik i
-Reguleringen av pensjoner i 2022 og 2023 er
-modelleringen av pensjons- og trygdesystemet.
-innarbeidet. Det gjør blant annet at minstenivåDette gjør MOSART til et særlig egnet verktøy
-for å beregne virkninger av ulike regelverksene i 2023 som andel av grunnbeløpet er høyere
-enn i beregningene i NOU 2022: 7.
-endringer for pensjons- og trygdesystemet;
-Beregningene er gjort i 2023-(lønns)kroner.
-både budsjettmessige konsekvenser og konsekvenser for individene på både kort, mellomlang
-Noen viktige forutsetninger i referanseog lang sikt.
-banen er:
-Det er laget en referansebane til denne melA. Avgangsalderen øker mindre enn det som er
-nødvendig for å kompensere for effekten av
-dingen som skiller seg noe fra referansebanen i
-levealdersjusteringen. Det forutsettes at
-NOU 2022: 7. Hensikten er at referansebanen
-avgangsalderen økes slik at virkningen,
-skal ta utgangspunkt i regelverket for pensjonssammen med opptjeningseffekten, betyr at
-systemet nøyaktig slik det er utformet i dag,
-arbeidsføre kompenserer for 2/3 av virkuten å forskuttere noen endringer.
-Sammenlignet med referansebanen i NOU
-ningen av levealdersjusteringen. Denne for2022: 7 er den viktigste forskjellen at regulerutsetningen er i tråd med Perspektivingen av minsteytelsene ble vedtatt endret i 2022;
-meldingen.
-B. Levealdersjusteringen øker mye mellom
-disse reguleres nå med gjennomsnittet av (for1953- og 1963-kullet, delvis på grunn av overventet) lønns- og prisvekst. Dette gir en svakere
-gang fra forholdstall til delingstall. Det er
-utvikling i minsteytelsene framover i den nye
-lagt inn en mer moderat vekst i avgangsreferansebanen enn i referansebanen i NOU
-2022: 7 der minsteytelsene ble regulert med
-alderen over disse årskullene.
-lønnsveksten
-fratrukket
-virkningen
-av
-C. Overgangssannsynlighetene til arbeidslevealdersjustering.
-avklaringspenger og uføretrygd holdes på
-gjennomsnittlig observert nivå over årene
-I tillegg er det forutsatt at arbeidsføre kom2016–2020.
-penserer for to tredjedeler av virkningen av levealdersjustering, mens det i beregningene for
-D. Nivå for tidliguttak for alderspensjon redusePensjonsutvalget ble forutsatt at arbeidsføre
-res med om lag 10–15 prosent sammenlignet
-kompenserer fullt ut for virkningen av
-med det observerte nivået.
-levealdersjustering. Sysselsettingen og skatte-
-
-[Side 80]
-
-78
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-2023–2024
-
-Boks 5.2 forts.
-E. Ut ifra befolkningsframskrivingene legges
-det inn innvandrere etter landbakgrunn
-(Vest-Europa+, Østlig EU og resten av
-verden), kjønn og alder. Nye innvandrere tildeles tre kjennetegn; utdanning, om de kommer rett i jobb og forventet inntektsnivå (et
-restledd som følger hver person over hele
-livsløpet). Alle tre kjennetegn er basert på
-statistikk fra nyere år. En stor andel av innvandrerne vil få uoppgitt utdanning, og det
-er en variabel som påvirker yrkesdeltaking
-og pensjonering. Å stå uten arbeid eller
-utdanningsaktivitet i voksen alder, er et
-kjennetegn som i stor grad svekker videre
-yrkesdeltaking.
-Personer som kommer som innvandrere
-til Norge etter fylte 16 år, tar med seg sine
-kjennetegn, mens personer som er født av
-innvandrere eller ankommer Norge før fylte
-16 år, opptrer på samme måte som de øvrige
-individene i modellen, med unntak av utdanningsvalg og fruktbarhet. Disse forskjellene
-gir lite utslag i resultatene. Personer som tar
-med seg kjennetegn som innvandrere, vil i
-større grad enn den øvrige befolkningen ha
-lavt eller uoppgitt utdanningsnivå. Det gir utslag i lavere yrkesdeltakelse og gjelder særlig for innvandrere fra ikke-vestlige land.
-Landbakgrunn påvirker ikke direkte
-yrkesdeltaking og pensjonering, men indirekte gjennom de kjennetegnene de får tildelt.
-
-F. Utdanningsmønstre:
-Dagens
-mønster
-videreføres. Det kommer dermed en vesentlig økning i utdanningsnivået i den eldre
-delen av befolkningen i framskrivingene,
-spesielt blant kvinner. I MOSART påvirker
-utdanningsnivået yrkesdeltaking, uføretrygding og pensjonering ellers.
-G. Arbeid: Yrkesprosenter og arbeidstid holdes
-på gjennomsnittet av de fem siste årene. Ved
-økt avgangsalder legges det inn en viss
-økning i nivået på arbeidsinntekten for gitt
-alder. Inntektsnivået faller med økende alder
-i siste del av yrkeslivet, trolig på grunn av
-kortere arbeidstid, men det er kanskje også
-knyttet til nedtrapping i innhold og svakere
-posisjon i lønnsforhandlinger. Dette svekker
-opptjeningseffekten av økt avgangsalder.
-Denne effekten forskyves til høyere alder
-ved økende levealder.
-H. Samliv: Overganger i samlivsstatus holdes
-på gjennomsnittet av de fem siste årene.
-Kvinner som har stått utenfor arbeidsmarkedet og som blir skilt (eller enker), vil ha små
-pensjonsrettigheter. Det blir trolig flere
-skilte framover (generasjonseffekter), men
-samtidig har kvinner også høyere yrkesdeltaking enn før.
-
-til 2050 er anslått til om lag 107 mrd. kroner.4
-Endringene dreier seg om:
-Grunnpensjonen til gifte og samboende i gammel opptjeningsmodell ble økt fra 0,85 G til 0,9 G
-fra september 2016. Dette fikk en helårsvirkning i
-2017 på om lag 2,7 mrd. kroner. Fra 2021 vil de
-årlige merkostnadene falle gradvis som følge av
-innfasingen av ny opptjeningsmodell for alders-
-
-pensjon. Summert over perioden til 2050 gir dette
-knapt 50 mrd. kroner i merutgifter.
-Minstepensjonen har blitt økt ekstraordinært i
-flere omganger, i 2016, 2017, 2019, 2020 og 2021.5
-Merutgiftene som følge av disse økningene i minstepensjonen er ventet å nå toppen i 2024, med om
-lag 2 mrd. kroner. Etter dette vil de årlige merkostnadene avta, ettersom endringene kun gjelder
-pensjon beregnet etter gamle opptjeningsregler,
-og siden det blir stadig færre minstepensjonister.
-Summert over perioden til 2050 gir dette om lag
-37 mrd. kroner i merutgifter.
-
-4
-
-Tallene er fra Arbeids- og velferdsdirektoratet og er basert
-på deres beregningsmodell TRIM. Beregningene avviker
-noe fra kortsiktige beregninger som er foretatt i budsjettsammenheng. Det er i tillegg vedtatt endringer i flyktningefordeler, inkludert økt krav til botid, som gjelder både gammel og ny folketrygd. Reduserte utgifter i folketrygden
-motvirkes delvis av økte utgifter til supplerende stønad
-utenfor folketrygden.
-
-5
-
-Minste pensjonsnivå for enslige økte også med 4 000 kroner fra 1. januar 2023. Dette er ikke med i tallene i dette
-avsnittet, men er inne i referansebanen.
-
-[Side 81]
-
-2023–2024
-
-79
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-700
-600
-500
-400
-300
-200
-100
-0
-1960
-
-1980
-
-2000
-
-2020
-
-Ingen pensjonsreform
-
-2040
-
-2060
-
-2080
-
-2100
-
-Referansebanen
-
-Figur 5.1 Utgifter til alderspensjon fra folketrygden. Mrd. 2023-kroner (lønnsdeflatert). Framskrevet etter
-2022
-Kilde: Statistisk sentralbyrå.
-
-For 2021 ble det vedtatt en gunstigere regulering av alderspensjonene enn hva som hadde vært
-tilfellet med regelverket som gjaldt fram til 2020.
-Den særskilte reguleringen i 2021 er anslått til
-1,8 mrd. kroner for 2021. Den årlige merkostnaden vil deretter avta gradvis. Summert over perioden til 2050 gir dette om lag 45 mrd. kroner i merutgifter.
-Det er vedtatt endringer i etterlatteordningen.
-Etterlatteytelsen knyttet til gammel alderspensjon videreføres nominelt, dvs. uten regulering. Dette gir en akkumulert innsparing på rundt
-24 mrd. kroner fram til 2050. Det er samtidig vedtatt at det ikke skal gis tillegg i alderspensjonen
-for etterlatte i ny folketrygd.
-Samlede utgifter til alderspensjon
-Samlet vil utgiftene til alderspensjon øke framover, helt fram til rundt år 2080, hvor utgiftene i
-2023-kroner utgjør 412 mrd. kroner, se figur 5.1.
-Utgiftene stiger ganske raskt fram til om lag 2040
-og vokser svakere etter dette.
-I en situasjon uten pensjonsreform kunne
-utgiftene i 2080 komme til å bli 641 mrd. kroner,
-dvs. 230 mrd. kroner mer enn med pensjonsreformen. Alternativet «Uten pensjonsreform» innebærer en videreføring av 2010-regler. Det betyr
-blant annet ingen levealdersjustering og lønnsregulering av minsteytelser og løpende pensjoner.
-Både det at pensjonene ikke levealdersjusteres og
-
-at løpende pensjoner og minsteytelser reguleres
-med lønnsvekst bidrar til økte utgifter. Videre er
-arbeidstilbudet lavere enn i referansebanen, ettersom det i referansebanen er forutsatt at arbeidsføre kompenserer for 2/3-deler av effekten av
-levealdersjusteringen.
-Utvikling i bidragsraten
-Figur 5.2 viser utviklingen i bidragsraten, se boks
-5.1, med og uten pensjonsreformen. Hovedbildet
-er at bidragsraten stiger fra om lag 15 prosent i
-2023, og etter hvert stabiliserer seg på rundt 18–
-19 prosent. Veksten er særlig sterk fram mot 2040.
-En stabilisering over tid er en viktig forutsetning
-for et bærekraftig system. I tillegg må nivået være
-bærekraftig.
-Bidragsraten i 2050 er anslått til 18,3 prosent i
-referansebanen. Det er noe høyere enn det som
-ble beregnet i forbindelse med pensjonsreformen i
-Ot.prp. nr. 37 (2008–2009). Nivået fortsetter å stige
-noe utover århundret, men mer avdempet.
-Bidragsraten når noe over 19 prosent i 2080. I
-alternativet uten pensjonsreform fortsetter
-bidragsraten å stige sterkt utover århundret, og
-overstiger 31 prosent. Det er i dette alternativet
-både forutsatt økte utgifter og noe lavere arbeidstilbud. Dette viser at uten pensjonsreformen ville
-den økonomiske bærekraften vært kraftig svekket.
-Bildet som tegnes er at pensjonssystemet fram
-til 2050 ville ha vært enda mindre bærekraftig
-
-[Side 82]
-
-80
-
-2023–2024
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-35
-30
-25
-20
-15
-10
-5
-0
-1960
-
-1980
-
-2000
-
-2020
-
-2040
-
-Ingen pensjonsreform
-
-2060
-
-2080
-
-2100
-
-Referansebanen
-
-Figur 5.2 Bidragsrate. Framskrevet etter 2022. Prosent
-Kilde: Statistisk sentralbyrå.
-
-Tabell 5.1 Bidragsrate for alderspensjon i 2050. Anslag i NOU 2004: 1, i Ot.prp. nr. 37 (2008–2009) og nye
-anslag basert på oppdaterte forutsetninger. Prosent
-Pensjonskommisjonen NOU 2004: 1
-
-Ot.prp. nr. 37 (2008–2009)
-
-Oppdaterte anslag
-
-Uten reform
-
-23,2
-
-21,0
-
-24,7
-
-Med reform
-
-18,8
-
-16,6
-
-18,3
-
-Kilde: Statistisk sentralbyrå.
-
-uten pensjonsreformen, enn det som ble lagt til
-grunn i 2004 og i 2009. Behovet for pensjonsreformen, vurdert ut fra bidragsraten, kan altså
-anslås å være en del større enn det som ble antatt
-da reformen ble vedtatt og også noe større enn de
-opprinnelige anslagene fra Pensjonskommisjonen,
-som vist i tabell 5.1.
-Forskjellen fra Ot.prp. nr. 37 (2008–2009) i
-alternativet med reform skyldes i stor grad effekten av tidliguttak av pensjon, som på kort sikt har
-økt pensjonsutgiftene mer enn man forutså. I
-anslaget fra 2009 ble det antatt at uttaksalder var
-lik avgangsalder, noe som kraftig undervurderte
-uttaket.
-Et annet viktig element er at befolkningen i
-dagens befolkningsframskrivinger har betydelig
-lengre forventet levetid enn i framskrivingene
-som lå til grunn i 2009. Det påvirker særlig anslaget for bidragsraten uten reform. Oppjusteringen
-av anslaget på bidragsraten med reform er mindre
-enn uten reform. Dette skyldes at i det nye
-systemet blir pensjonen lavere når levealderen
-
-øker, noe som gjør at bidragsraten også vil være
-mer uavhengig av endringer i levealder.
-Utvikling i yrkesdeltakelse
-En viktig hensikt med pensjonsreformen var å forbedre insentivene til å stå i arbeid. Fredriksen
-m.fl. (2019) anslo at pensjonsreformen kan føre til
-nesten ti prosent flere årsverk i 2060 enn uten
-reformen.6
-Vurderinger så langt tyder på en betydelig
-økning av arbeidstilbudet på grunn av pensjonsreformen.
-I referansebanen legges det til grunn at yrkesaktive forlenger yrkeskarrieren slik at de kompenserer for to tredjedeler av virkningen av
-levealdersjusteringen. Hvis yrkeskarrieren ikke
-6
-
-Fredriksen, Dennis Erling Holmøy, Birger Strøm og Nils
-Martin Stølen (2019). Betydningen av pensjonsreformen
-for arbeidstilbud og offentlig finanser. Søkelys på arbeidslivet 04/2019. Oslo: Universitetsforlaget.
-
-[Side 83]
-
-2023–2024
-
-81
-
-Meld. St. 6
-Et forbedret pensjonssystem med en styrket sosial profil
-
-forlenges, vil pensjonsopptjeningen bli mindre og
-utgiftene lavere. Men bidragsraten svekkes.
-Størrelsen på pensjonsutbetalingene følger i
-stor grad proporsjonalt med volumet av pensjonsgivende inntekt over yrkeskarrieren. En del elementer i pensjonsreformen bidrar likevel til at
-bidragsraten øker hvis folk jobber mindre, dvs.
-reduserer pensjonsgivende inntekt gjennom livet.
-– Redusert arbeidstilbud vil komme før reduserte pensjonsutgifter i tid, og dermed øke
-bidragsraten.
-– Redusert arbeidstilbud vil føre til at flere vil få
-garantipensjon. Det gir mindre reduksjon i
-pensjonsutgifter enn reduksjonen i pensjonsgivende inntekt.
-– Redusert arbeidstilbud vil også kunne redusere omfanget av inntekt over 7,1 G som ikke
-gir økt pensjonsopptjening i folketrygden.
-Dette vil bidra til en mindre reduksjon av pensjonsutgifter enn reduksjonen i pensjonsgivende inntekt.
-Bidragsraten er altså i stor grad avhengig av hvilken utvikling vi vil få i yrkesdeltakelsen framover.
-Videre påvirker økt arbeidstilbud offentlige
-finanser betydelig mer enn det som framkommer
-av bidragsraten. En økning av pensjonsgivende
-inntekter vil ikke bare finansiere pensjonsutgifter
-(som altså i noen grad øker proporsjonalt med
-økningen i pensjonsgivende inntekter), men også
-andre offentlige utgifter (utdanning, rettsvesen,
-forvaltning, samferdsel), som ikke, eller i liten
-
-grad, øker med veksten i pensjonsgivende inntekter.
-Oppsummering
-Hovedbildet er at bidragsraten stiger fra om lag 15
-prosent i 2023, men etter hvert stabiliserer seg på
-rundt 18–19 prosent. Veksten er særlig sterk fram
-mot 2040. En stabilisering over tid er en viktig forutsetning for et bærekraftig system. At utgiftene
-til pensjon vil øke betydelig de nærmeste tiårene,
-lå også til grunn for pensjonsreformen i 2009.
-Levealdersjusteringen bidrar til å dempe og
-stabilisere utgiftsveksten framover. Bidragsraten
-fortsetter å stige sterkt utover århundret i alternativet uten pensjonsreform og overstiger 31 prosent i 2080. Dette tilsier at uten pensjonsreformen
-ville bærekraften vært kraftig svekket. Dempningen i bidragsraten er noe avhengig av hvilke
-forutsetninger som legges til grunn. Særlig er
-utviklingen i arbeidstilbudet viktig.
-
-5.3.3 Betydningen av demografi
-Fra 1900 og fram til i dag har befolkningsvekst
-hovedsakelig skjedd gjennom at det har blitt flere
-i yrkesaktiv alder (20–66 år). Framover vil aldersgruppen 20–66 år slutte å vokse, og etter hvert vil
-den krympe. Figur 5.3 viser befolkningen, faktisk
-fram til 2022 og framskrevet med SSBs middelalternativ fra 2022, fordelt på aldersgrupper fra
-1900 til 2100.
-
-7000
-6000
-5000
-4000
-3000
-2000
-1000
-0
-1900
-
-1920
-
-1940
-
-1960
-0–14
-
-1980
-
-2000
-
-2020
-
-2040
-
-15–19
-
-20–66
-
-67–74
-
-75+
-
-2060
-
-2080
-
-2100
-
-Figur 5.3 Befolkning fordelt på aldersgrupper 1900 til 2100 i 1000 personer. Registrert og middelalternativet
-i befolkningsframskrivingene fra 2022 (BF2022)
-Kilde: Statistisk sentralbyrå.
+# Insentiver til arbeid og utviklingen i yrkesaktiviteten etter pensjonsreformen
+
+## Innledning og sammendrag
+
+Et sentralt mål med pensjonsreformen er å gjøre pensjonssystemet mer bærekraftig på lang sikt. For å oppnå dette, er det lagt stor vekt på at reformen skal gi sterkere økonomisk belønning for å jobbe mer, både gjennom yrkeskarrieren og ved lengre yrkesliv. Dette kapittelet gir en overordnet beskrivelse av hvordan pensjonsreformen har påvirket insentivene til å arbeide.
+
+Det er særlig tre elementer i pensjonsreformen som har påvirket insentivene til arbeid:
+
+8.  Nye opptjeningsregler for alderspensjon med alleårsopptjening.
+
+9.  Nye regler for uttak av pensjon som innebærer at en gitt opptjening gir høyere årlig pensjon desto senere den tas ut og at pensjonen ikke avkortes mot arbeidsinntekt.
+
+10. Levealdersjustering som betyr at når levealderen øker, så vil en gitt pensjonsopptjening gi en lavere årlig pensjon ved en gitt alder for uttak av pensjon.
+
+I yrkesaktiv alder er det med ny alderspensjon i folketrygden, en tydeligere og tettere sammenheng mellom arbeidsinntekt og opptjening av pensjonsrettigheter. For de som har tilbakelagt størstedelen av yrkeslivet og begynner å planlegge overgangen til pensjonisttilværelsen, er det særlig lagt vekt på å gi sterkere økonomiske insentiver til å utsette avgangen fra yrkeslivet.
+
+Avsnitt 4.2 gjennomgår de økonomiske insentivene i folketrygdens alderspensjon. Pensjonsreformen omfatter alle de sentrale pensjonsordningene i Norge, og avsnitt 4.3 gjennomgår arbeidsinsentivene i det samlede pensjonssystemet. Avsnitt 4.3 følger også opp anmodningen fra Stortinget om å vurdere tiltak som styrker insentivene til å jobbe lenger for offentlig ansatte i årskullene før 1963. Avsnitt 4.4 beskriver kort utviklingen i yrkesaktiviteten etter pensjonsreformen.
+
+Hvis pensjonssystemet skal virke etter hensikten, slik at den enkelte settes i stand til å ta informerte valg, er det viktig at brukerne får god informasjon om egen pensjonsopptjening og prognoser for pensjon som viser konsekvensene av ulike valg. I avsnitt 4.5 diskuteres betydningen av god informasjon.
+
+I tillegg til økonomiske insentiver og informasjon om økonomiske konsekvenser av valg av uttakstidspunkt, er det mange andre faktorer som kan påvirke beslutningen om å forlate arbeidslivet. Både trivsel i jobben, helsetilstanden og om ektefellen er pensjonist kan ha betydning. Videre vil arbeidsmarkedet for eldre ha betydning. Disse andre faktorene beskrives i avsnitt 4.6.
+
+## Økonomiske insentiver i folketrygdens alderspensjon
+
+### Folketrygden før pensjonsreformen
+
+Da folketrygden ble innført i 1967, var aldersgrensen 70 år. Det var ikke mulig å ta ut alderspensjon fra folketrygden før 70 år, og arbeid etter 70 år ga ikke pensjonsopptjening. Insentivene til arbeid i pensjonssystemet lå dermed i hovedsak i at arbeid fram til fylte 70 år ga opptjening av tilleggspensjon og dermed høyere årlig pensjon fra 70 år. Arbeidsinntekt i mer enn 40 år ga normalt ikke høyere alderspensjon. Pensjonen kom til utbetaling ved 70 år, uavhengig av om den enkelte jobbet eller ikke, og de som fortsatte i arbeid fikk ikke avkortet alderspensjonen.
+
+Fra 1967 til 2010 skjedde det mange endringer i reglene for alderspensjon fra folketrygden som påvirket insentivene til arbeid. Da aldersgrensen i folketrygden ble senket fra 70 til 67 år i 1973, ble det innført et «ventetillegg» for de som valgte å ikke ta ut alderspensjonen fra 67 år. Ventetillegget utgjorde 0,75 prosent av løpende pensjon per ventemåned og ga en relativt sterk økning i årlig pensjon for de som ventet med å ta ut pensjonen. Ifølge Ot.prp. nr. 11 (1983–1984) var ventetillegget fastsatt ut fra «forsikringstekniske beregninger» slik at samlet utbetalt alderspensjon i gjennomsnitt skulle bli uavhengig av når pensjonen ble tatt ut.
+
+I et system der den årlige pensjonen ikke øker ved senere uttak, er det naturlig å avkorte pensjonen mot arbeidsinntekt. Hvis ikke vil det alltid lønne seg å ta ut pensjonen så tidlig som mulig. Når utbetalt pensjon avkortes mot inntekt, er det langt mindre økonomisk attraktivt å arbeide lenger enn dersom en kan ta ut pensjonen uten at den avkortes. Avkortingsregler innebærer en implisitt beskatning av pensjonen og påvirker insentivene til å fortsette i jobb.
+
+Samtidig med at aldersgrensen ble senket og ventetillegget innført i 1973, ble det likevel innført avkorting av alderspensjonen for de som tok ut alderspensjon før 70 år og fortsatt var i jobb. Etter lovendringen var det anledning til å ta ut ¼, ½, ¾ eller full pensjon, men slik at pensjonen og framtidig arbeidsinntekt til sammen ikke oversteg 80 prosent av tidligere arbeidsinntekt. Innføringen av ventetillegget økte likevel den økonomiske motivasjonen til å utsette uttaket av alderspensjonen.
+
+Ordningen med ventetillegg ble opphevet fra 1984. Departementets begrunnelse i Ot.prp. nr. 11 (1983–1984) var at ordningen virket sosialt urettferdig ved at mulighetene til å utsette uttak av pensjon var mer avhengig av forholdene i arbeidslivet enn av den enkeltes egne ønsker.
+
+Etter at ventetillegget ble opphevet, var insentivene til å vente med å ta ut alderspensjon og fortsette å arbeide etter 67 år svakere. En kunne tjene opp pensjonsrettigheter fram til fylte 70 år, men flertallet av de som arbeidet etter 67 år hadde allerede full opptjening. I tillegg var uttak av alderspensjon betinget av at en sluttet helt eller delvis i arbeid.
+
+Fra 1. januar 1992 kom det nye regler om kombinasjon av alderspensjon og arbeidsinntekt før fylte 70 år, jf. Ot.prp. nr. 77 (1989–1990). Summen av pensjon og arbeidsinntekt kunne ikke utgjøre mer enn 100 prosent av tidligere arbeidsinntekt, mot tidligere 80 prosent.
+
+Fra 1. januar 1997 ble bestemmelsen om at summen av pensjon og arbeidsinntekt ikke kunne utgjøre mer enn tidligere arbeidsinntekt endret. Som tidligere kunne det utbetales en redusert pensjon i tillegg til arbeidsinntekt, men alderspensjonen ble redusert med 40 prosent av arbeidsinntekter som oversteg grunnbeløpet, mot tidligere 50 prosent. I 2002 ble inntektsgrensen for avkorting økt fra ett til to grunnbeløp. Hernæs og Jia (2013) fant at endringen i 2002 økte arbeidstilbudet, og særlig for de som hadde en arbeidsinntekt rundt 1 G.[^9]
+
+For å legge bedre til rette for at eldre arbeidstakere skulle stå lenger i arbeid, ble inntektsprøvingen av alderspensjonen helt opphevet for 67-åringer fra 2008. De påfølgende to årene ble inntektsprøvingen for 68- og 69-åringer også opphevet.[^10]
+
+I det tidligere pensjonssystemet kunne personer som hadde flere år med arbeidsinntekt få samme alderspensjon fra folketrygden som personer uten yrkestilknytning. Dette skyldes at særtillegget ble avkortet krone for krone mot tilleggspensjonen. Denne effekten har gjerne blitt omtalt som «minstepensjonsfella». Videre kunne besteårsregelen, regelen om at tilleggspensjonen ble beregnet med utgangspunkt i de 20 beste inntektsårene, gi forskjeller i tilleggspensjonen mellom personer med ellers lik livsinntekt. Besteårsregelen var til gunst for personer med stor variasjon i pensjonsgivende inntekt gjennom yrkeslivet.
+
+### Folketrygden etter pensjonsreformen
+
+Et sentralt mål ved utformingen av den nye folketrygden var å styrke insentivene til arbeid, både i løpet av yrkeskarrieren og mot slutten av karrieren. Flere elementer i reformen bidrar til dette.
+
+Det er nå en tettere sammenheng mellom arbeidsinntekten i det enkelte år og opptjeningen av pensjonsrettigheter. Alleårsregelen innebærer at arbeid gjennom hele yrkeslivet, fra 13 til 75 år, gir pensjonsopptjening. Sammenlignet med før reformen, gir dette bedre arbeidsinsentiver, selv om sammenhengen mellom tidligere yrkesinntekt og alderspensjon er svakere for de som vil motta garantipensjon som en del av alderspensjonen. Kapittel 10 gir en nærmere beskrivelse av forholdet mellom garantipensjon og inntektspensjon og av hvordan garantipensjonen påvirker den pensjonsmessige uttellingen av arbeid.
+
+Det er særlig alleårsopptjening og nøytrale uttaksregler som stimulerer til lengre yrkeskarrierer. Alleårsopptjening gir høyere pensjonsopptjening, mens de nøytrale uttaksreglene gir økt pensjon ved senere uttak. Videre avkortes ikke pensjon under utbetaling mot samtidig arbeidsinntekt.
+
+På lang sikt vil levealdersjusteringen ha stor betydning for pensjonsnivåene og trolig også for arbeidstilbudet. Levealdersjusteringen innebærer at inntekten som pensjonist blir lavere enn for eldre årskull ved en gitt uttaksalder, dersom levealderen fortsetter å øke. Dette vil trolig påvirke lengden på yrkeskarrierene fordi mange vil velge å kompensere for inntektsnedgangen ved å jobbe lenger.
+
+Med pensjonsreformen ble det gjort svært mange endringer i pensjonssystemet. Det er derfor vanskelig å identifisere hvor stor betydning hvert enkelt element har hatt for økningen i arbeidsinnsatsen. Levealdersjustering og alleårsopptjening vil få gradvis større betydning over tid, og så langt har trolig endringen i reglene for uttak av pensjon, inkludert omleggingen av AFP i privat sektor, hatt størst betydning.
+
+Insentiver til å stå lenger i arbeid
+
+Sysselsettingen blant eldre i Norge har økt siden 2000 og er høy sammenlignet med andre europeiske land. Et viktig bidrag til at sysselsettingen blant eldre arbeidstakere har økt er trolig pensjonsreformen, som siden 2011 har gitt sterkere insentiver til å stå lengre i arbeid.
+
+Det som hittil har hatt størst betydning for insentivene til å jobbe lenger er trolig avviklingen av reglene som innebar at samlet alderspensjon i tiden som pensjonist ble høyere jo tidligere en pensjonerte seg. Innføringen av nøytrale uttaksregler fra 62 til 75 år skulle bidra til at arbeidstakerne i større grad enn før ble stilt overfor de reelle samfunnsøkonomiske kostnadene knyttet til egen pensjoneringsbeslutning. Individer har ulike preferanser, og innføring av fleksibel uttaksalder i pensjonssystemet har gitt en velferdsgevinst til de som før pensjonsreformen ikke hadde mulighet til tidlig uttak. Det samme gjelder alle som også uten pensjonsreformen ville tatt ut pensjonen sent. Personer med privat AFP, som ville gått av tidlig med den tidligere AFP-ordningen, får nå en lavere samlet pensjon dersom de går av tidlig; den relative prisen på fritid har økt markant sammenlignet med systemet før 2011.
+
+Etter omleggingen til ny AFP i privat sektor i 2011, ble det påvist sterke effekter på arbeidstilbudet for ansatte i privat sektor med AFP. Blant annet har Hernæs m.fl. (2016)[^11] vist at omleggingen av AFP-ordningen hadde effekt ved at personer i alderen 63–64 år i gjennomsnitt økte arbeidstilbudet med 7–8 timer per uke.
+
+Selv om pensjonsreglene er nøytralt utformet og gir gode insentiver til å stå i arbeid, avhenger valg av uttaksalder også av den samlede kompensasjonsgraden i systemet ved ulike uttaksaldre. Hvis det samlede pensjonsnivået oppfattes som tilstrekkelig, kan en del velge å ta ut pensjon selv om kompensasjonsgraden vil øke ytterligere ved senere uttak av pensjon.
+
+Skattereglene for pensjonsinntekt innebærer imidlertid at uttaket ikke er nøytralt etter skatt. Selv om det er flere faktorer, også forhold som ikke handler om økonomi, som har betydning for beslutningen om tidspunkt for uttak, så bidrar skattefradraget for pensjonsinntekt isolert sett til at det kan lønne seg å ta ut pensjon tidlig. Skattefradraget, som ble innført i 2011 som erstatning for den tidligere skattebegrensningsregelen, gir null skatt for lave pensjonsinntekter, men avkortes mot høyere pensjonsinntekter. Størrelsen på skattefradraget er uavhengig av arbeidsinntekt og annen inntekt som kommer i tillegg. For de som av ulike grunner vil gå av tidlig, kan skattefradraget for pensjonsinntekt gi et ekstra insentiv til å gjøre nettopp det.
+
+En studie av Lien (2021)[^12] ser på økonomisk lønnsomhet ved uttak av alderspensjon når flere forhold, som både skattevirkninger, rentenivå og levealder, tas i betraktning. Hovedkonklusjonen er at for de fleste vil det lønne seg å vente med å ta ut pensjonen. For en gjennomsnittlig mann som tar ut pensjon fra 67 år, vil samlet pensjon som pensjonist være tre prosent høyere etter skatt enn ved uttak fra 62 år, mens for kvinner er den tilsvarende forskjellen rundt fire prosent. Det som særlig gir utslag, er at levealderen som ligger inne i beregningen av alderspensjonen beregnes ut fra historiske tall for levealder som er lavere enn den framskrevne forventede levealderen. Å vente med pensjonsuttak lønner seg da ofte, og særlig for kvinner som har høyere forventet levealder enn menn. Om også ny AFP i privat sektor medregnes, vil gevinsten av utsatt uttak bli enda større siden livsvarig AFP gir høyere samlet pensjon. Det skyldes hovedsakelig at livsvarig AFP gir høyere samlet pensjon, som gjør at skattefradraget for pensjonsinntekt blir lavere.
+
+Pensjonsutvalget viser til tall fra Arbeids- og velferdsdirektoratet hvor det går fram at det har vært en høyere dødelighet blant de som startet uttaket av alderspensjon ved 62 år i 2011 (1949-kullet) sammenliknet med de som ikke gjorde det. Effekten gjelder begge kjønn, men er størst blant menn. Dette tyder på at det er en seleksjon ved at personer med lav forventet levealder oftere velger tidliguttak av pensjon enn personer med høy forventet levealder.[^13]
+
+Mange tar ut alderspensjonen før de slutter i arbeid. For å sikre at beslutningen om uttak av alderspensjon er basert på innsikt i de økonomiske konsekvensene, er det viktig at den enkelte har tilgang på god informasjon om egne pensjonsrettigheter og konsekvensene av ulike valg. Betydningen av god informasjon er omtalt i avsnitt 4.5.
+
+Det er foreløpig vanskelig å vurdere hvor stor effekt levealdersjusteringen har hatt på pensjoneringsmønsteret. Hovedårsaken er at pensjonsreformen er en stor systemomlegging med mange endringer, og det er derfor vanskelig å vurdere den isolerte effekten av hvert av enkeltelementene. I motsetning til de fleksible uttaksreglene som gjelder alle fra og med 1943-kullet, virker levealdersjusteringen gradvis sterkere over tid. Effekten vil etter hvert bli så sterk at det er grunn til å forvente at levealdersjusteringen vil bli det viktigste enkelttiltaket for å nå målet om lengre yrkeskarrierer på lang sikt.
+
+En studie av Fredriksen m.fl. (2019)[^14] anslo at tilbudte årsverk i 2020 ville bli nærmere 80 000, eller 3,4 prosent, høyere enn om 2011-reformen ikke hadde funnet sted. Levealdersjusteringen framover vil forsterke effektene på sysselsettingen. I 2060 er effekten av full reform, som også inkluderer de nye ordningene i offentlig sektor, beregnet til 240 000 årsverk, eller 9,4 prosent.
+
+## Økonomiske insentiver i det samlede pensjonssystemet
+
+### AFP og tjenestepensjon i privat sektor
+
+Privat AFP
+
+Ny avtalefestet pensjon (AFP) i privat sektor ble avtalt mellom LO og NHO i lønnsoppgjøret 2008 og innført fra 2011. Ordningen ble lagt om fra en tidligpensjonsordning til en ordning som gir et livsvarig tillegg til alderspensjonen fra folketrygden og den har nøytrale uttaksregler som i folketrygden. Omleggingen av AFP i privat sektor til en påslagsordning hadde avgjørende betydning for at arbeidsinsentivene ved omleggingen til fleksibelt uttak i folketrygden skulle virke etter intensjonen.
+
+Ny AFP beregnes på grunnlag av pensjonsgivende inntekt i folketrygden fram til fylte 62 år, og som i folketrygden er det en øvre grense på 7,1 G på årlig inntekt som gir opptjening. De som tar ut AFP før 67 år får en høyere AFP fram til 67 år, såkalt tonivåuttak. Reglene er utformet slik at samlet utbetaling av AFP over perioden som pensjonist ikke skal påvirkes av uttakstidspunkt. Høyere AFP før 67 år motsvares av en lavere utbetaling fra 67 år, og utbetalingsreglene er dermed nøytrale. Årlig AFP øker ikke ved uttak etter 70 år.
+
+AFP i privat sektor skiller seg fra en ordinær tjenestepensjonsordning der en gradvis tjener opp rettigheter gjennom et ansettelsesforhold. Siden AFP beregnes på grunnlag av pensjonsgivende inntekt i folketrygden, og ikke inntekt fra arbeid i en AFP-bedrift, er arbeidsinsentivene i ordningen knyttet til pensjonsgivende inntekt i folketrygden og ikke pensjonsgrunnlaget i AFP-bedriften. Videre er det individuelle vilkår, både ved fylte 62 år og på uttakstidspunktet. Særlig viktig er vilkårene om at en i sju av de siste ni årene før fylte 62 år må ha vært i arbeid i en AFP-bedrift og at en må være ansatt og reell arbeidstaker de siste tre årene før uttak.
+
+Siden ulike grupper, avhengig av om de jobber i offentlig eller privat sektor og om de har ny AFP eller ikke, har blitt berørt av nye pensjonsregler på ulike måter, kan en ved å sammenligne utviklingen i yrkesaktivitet mellom disse gruppene få en indikasjon på om pensjonsreformen har påvirket yrkesaktiviteten blant eldre.
+
+Blant annet har Hernæs m.fl. (2016)[^15] vist at omleggingen av AFP-ordningen hadde signifikante effekter på arbeidstilbudet i privat sektor. Analysen viser at sysselsettingen ved 64 år økte med 20 prosentpoeng og at arbeidsinntekten ved 63–64 år økte med om lag en tredjedel. Effektene er tilnærmet uavhengig av kjønn, utdanning, inntekt og av om den enkelte oppfyller vilkåret for uttak fra 62 år. Mesteparten av effekten kommer gjennom at flere har fortsatt lenger i arbeid med om lag samme inntekt som tidligere, og dermed i liten grad at gradvis nedtrapping fra arbeidslivet har blitt mer vanlig.
+
+Også Hernæs (2017)[^16] finner effekt av pensjonsreformen blant arbeidstakerne i private AFP-bedrifter. I analysen ses det på ulike grupper av arbeidstakere i privat sektor:
+
+- Privat sektor med AFP og tilstrekkelig opptjening. Etter reformen kommer denne gruppen bedre ut økonomisk av å fortsette i arbeid.
+
+- Privat sektor med AFP uten tilstrekkelig opptjening. Denne gruppen får mye høyere avkastning av fortsatt arbeid etter reformen, men vil som følge av å ikke ha tilstrekkelig opptjening, ikke kunne ta ut alderspensjon fra 62 år og mister muligheten til å ta ut AFP fra 62 år.
+
+- Privat sektor uten AFP med tilstrekkelig opptjening for tidliguttak. Siden disse ikke hadde mulighet for AFP verken før eller etter reformen, var insentivene for arbeid uendret, men med ny mulighet for uttak av alderspensjon fra 62 år.
+
+Hovedfunnet fra analysen er at de som ikke lenger fikk pensjonen avkortet mot arbeidsinntekt, arbeidet mye mer. De finner også tegn på at det ble noe lavere andel med uføretrygd blant de som fikk adgang til ny alderspensjon, og noe høyere andel med uføretrygd blant de som mistet adgangen til pensjon fra 62 år. Dette var personer som tidligere kunne motta privat AFP, men som ikke hadde tilstrekkelig opptjening til å ta ut alderspensjon fra 62 år.
+
+Privat tjenestepensjon
+
+Ifølge tall fra Finans Norge var det ved utgangen av 2022 nesten to millioner medlemskap i private tjenestepensjonsordninger. Pensjonen fra disse ordningene blir ikke redusert mot arbeidsinntekt eller mot folketrygdens alderspensjon. I alle de tre hovedtypene av kollektive tjenestepensjonsordningene i privat sektor, er det nå alleårsopptjening til 75 år.
+
+Innskuddsordningene er den klart dominerende tjenestepensjonsordningen blant de yrkesaktive i privat sektor. Pensjonen kan tas ut fra 62 år, og må utbetales over minst ti år og minst til fylte 77 år. Siden pensjonen omregnes hvert år basert på gjenstående pensjonskapital og utbetalingsperiode, er ikke levealdersjustering en aktuell problemstilling.
+
+Ytelsesordningene var enerådende i markedet for privat tjenestepensjon fram til 2001. Etter pensjonsreformen kan ytelsespensjon tas ut fra 62 år, og årlig pensjon øker ved utsatt uttak. Omregningen til en årlig pensjon skal ta utgangspunkt i forventet gjenstående levetid i pensjonsleverandørens forsikringstekniske beregningsgrunnlag på uttakstidspunktet. Ytelsesordningene er dermed tilpasset den fleksible alderspensjonen i folketrygden.
+
+Hybridordningene ble innført i 2016 og kombinerer elementer fra både ytelses- og innskudds-ordningene. Hybridpensjonen kan tas ut fra 62 år og øker ved senere uttak tilsvarende som i ytelsesordningene.
+
+Samlet gir de private tjenestepensjonsordningene økonomiske insentiver til å jobbe etter 62 år og er dermed tilpasset den reformerte alderspensjonen fra folketrygden.
+
+### AFP og tjenestepensjonsordninger i offentlig sektor
+
+Selv om det i forhandlingene mellom arbeidstakerne og arbeidsgiverne i 2009 ikke ble enighet om å tilpasse AFP og offentlig tjenestepensjon fullt ut til det nye pensjonssystemet, ble også AFP og tjenestepensjon i offentlig sektor påvirket av pensjonsreformen i 2011. Den gamle AFP-ordningen ble videreført som en tidligpensjonsordning, og det ble ikke åpnet opp for fleksibelt uttak av AFP utover det reduksjonen i stillingsbrøk tilsa.
+
+Samlet ble det små endringer i arbeidsinsentivene i offentlig sektor i alderen 62–66 år i 2011, og klart svakere bedring av insentiver enn i privat sektor. Hernæs (2017) finner likevel en økning i andelen sysselsatte etter 62 år blant offentlig ansatte med tilstrekkelig opptjening i tjenestepensjonsordningen, selv om økningen er klart mindre enn i gruppen med AFP i privat sektor. En mulig forklaring kan være at reformen ga mulighet til å fortsette i arbeid med samtidig uttak av alderspensjon i folketrygden.
+
+Det ble imidlertid innført levealdersjustering av offentlig tjenestepensjon, og tilsvarende regler for årlig regulering av AFP og offentlig tjenestepensjon som i folketrygden. Offentlig tjenestepensjon kunne fortsatt først tas ut fra 67 år under forutsetning av at en sluttet å arbeide eller reduserte stillingsandelen. Det ble mulig å kompensere for effekten av levealdersjusteringen ved å utsette uttaket etter 67 år, men kun fram til forholdstallet er 1,000, dvs. fram til bruttopensjonen er lik det den ville ha vært uten levealdersjustering.
+
+Samordningsreglene måtte tilpasses at alderspensjon fra folketrygden kunne tas ut fleksibelt. Dette ble gjennomført ved at tjenestepensjonen ble samordnet med alderspensjonen fra folketrygden *som om* folketrygden ble tatt ut samtidig med tjenestepensjonen, altså uavhengig av når folketrygden faktisk ble tatt ut. Dette sikret at den offentlige tjenestepensjonsordningen ikke kompenserte for tidlig uttak av alderspensjonen fra folketrygden. Levealdersjusteringen av samordningsfradraget blir bestemt av når tjenestepensjonen tas ut og gjennomføres uten noen begrensing på forholdstallet.
+
+For de som tar ut folketrygden samtidig med tjenestepensjonen, innebærer reglene at samlet pensjon øker ved utsatt uttak inntil forholdstallet er 1,000. Ved senere uttak er effekten på samlet årlig pensjon liten, og folketrygden vil utgjøre en stadig større andel av pensjonen, mens tjenestepensjonen gradvis vil bli en lavere del.[^17]
+
+Reglene fra 2011 var en innstramming for de som fortsatte i arbeid etter 67 år, siden disse fra 2008 og fram til 2011 hadde kunnet ta ut folketrygden fra 67 år uten at det fikk konsekvenser for nivået på tjenestepensjonen. For å opprettholde nivået på samlet årlig pensjon måtte de som tok ut pensjon fra 2011 vente med å ta ut alderspensjonen fra folketrygden til de tok ut tjenestepensjonen for at ikke nivået på samlet årlig pensjon skulle reduseres. Insentivene til å jobbe både før og etter 67 år var derfor svake etter 2011 for ansatte i offentlig sektor.
+
+3\. mars 2018 ble det inngått en avtale mellom Arbeids- og sosialdepartementet og LO, Unio, YS, Akademikerne, KS og Spekter om en ny pensjonsløsning for ansatte i offentlig sektor. Avtalen ble fulgt opp med lovforslag i Prop. 87 L (2018–2019), og ved Stortingets behandling av proposisjonen ble det vedtatt en ny pensjonsløsning for personer født fra og med 1963. Bruttoordningen erstattes dermed av en påslagsordning som beregnes uavhengig av folketrygden. Videre skal dagens AFP erstattes av en ny AFP etter mønster av privat AFP.
+
+Den nye tjenestepensjonsordningen i offentlig sektor er tilpasset pensjonsreformen og vil gi gode insentiver til fortsatt arbeid etter 62 år. Den nye ordningen omfatter personer født i 1963 eller senere som får opptjening i den nye alderspensjonsordningen med alleårsopptjening fra 2020. Fleksibelt uttak av offentlig tjenestepensjon fra 62 år får derfor først virkning fra 2025 når 1963-kullet fyller 62 år.
+
+Personer født før 1963 beholder de gamle ordningene, dvs. bruttordningen for tjenestepensjon og AFP som en tidligpensjonsordning. For disse ligger den økonomiske belønningen ved å fortsette i arbeid mellom 62 år og 67 år primært i at arbeidet gir lønn, som er høyere enn pensjonen ville vært.
+
+Som en følge av pensjonsavtalen fra mars 2018, ble det gjort visse endringer i reglene for levealdersjustering av bruttopensjon som skal samordnes med gammel folketrygd. Endringene innebærer at bruttopensjonen kan bli høyere enn 66 prosent. Insentivene er imidlertid fortsatt svakere enn i privat sektor, og svakest for de eldste årskullene.
+
+Etter at Stortinget vedtok nye regler for samordning og levealdersjustering av offentlig tjenestepensjon, har det en rekke ganger blitt fremmet forslag om å justere reglene. En hovedinnvending har vært at tjenestepensjon etter samordning reduseres for de som utsetter uttak av tjenestepensjon til etter at de har kompensert for effekten av levealdersjusteringen. Temaet, som ofte blir kalt «samordningsfellen», er behandlet av Stortinget flere ganger, blant annet i Innst. 187 L (2018–2019), jf. Representantforslag 46 L (2018–2019), i Innst. 71 L (2020–2021), jf. Representantforslag 141 L (2019–2020), og i Innst. 175 L (2022–2023), jf. Representantforslag 53 L (2022–2023).
+
+Ved behandlingen av Representantforslag 141 L (2019–2020) fattet Stortinget følgende anmodningsvedtak:
+
+Vedtak 238
+
+«Stortinget ber regjeringen utrede lovendringer for å redusere kravet til innbetaling av premie fra medlemmer i SPK, kommunale pensjonskasser og andre offentlige brutto tjenestepensjonsordninger fra det tidspunktet den enkelte har kompensert for levealdersjusteringen.»
+
+Vedtak 239
+
+«Stortinget ber regjeringen komme tilbake til Stortinget med vurderinger av hvordan en ytterligere kan styrke arbeidslinjen for offentlig ansatte født i årene 1944–1962.»
+
+Ved behandlingen av Representantforslag 53 L (2022–2023), hadde et flertall i komiteen, bestående av representantene fra Arbeiderpartiet og Høyre, følgende merknad, jf. Innst. 175 L (2022–2023):
+
+«Uten å ta stilling til de konkrete forslagene nå mener dette flertallet det er naturlig å behandle eventuelle endringer av pensjonssystemet i en helhetlig gjennomgang og ikke i det gjeldende representantforslaget. Dette flertallet ber derfor om at regjeringen kommer tilbake med omtale av problemstillingene og forslag til tiltak som styrker incentivene til å jobbe lenger for årskullene før 1963 i sin varslede stortingsmelding som oppfølging av NOU 2022: 7 *Et forbedret pensjonssystem*.»
+
+Regjeringen ser at insentivene til å jobbe etter 67 år har vært dårlige for årskullene 1943–1953 ved at det har vært en begrenset tid etter 67 år hvor utsatt uttak gir økt årlig samlet pensjon. Regjeringen mener imidlertid at dette følger av at partene i lønnsoppgjøret i 2009 valgte å videreføre bruttoordningen og AFP som tidligpensjon. Litt upresist kan man si at partene valgte å videreføre et system hvor konsekvensene for samlet pensjon ved å gå av tidlig er små, og at dette går på bekostning av å premiere de som står lenge i jobb.
+
+Aldersgrensen i offentlig sektor er 70 år og det er svært få som står i ordinær jobb i offentlig sektor etter 70 år. I 2024 vil alle født i årskullene 1943–1953 være over 70 år. Av de som jobber i offentlig sektor etter 70 år, jobber mange på pensjonistvilkår. De som jobber på pensjonistvilkår, er ikke medlemmer av offentlig tjenestepensjonsordning og arbeid på pensjonistvilkår påvirker derfor ikke beregningen av tjenestepensjonen.
+
+Et overveiende flertall av de som er født før 1954 har allerede gått av med pensjon. Å endre regelverket for denne gruppen, vil følgelig ha en svært beskjeden effekt på insentivene til å stå i jobb. En eventuell regelverksendring for denne gruppen vil primært gi endret pensjon for de som allerede har gått av med pensjon, og mange av dem vil også ha vært pensjonister i lang tid. Regjeringens vurdering er derfor at regelverket ikke bør endres for personer født før 1954. Anmodningen fra Stortinget gjelder tiltak som kan styrke insentivene til utsatt avgang. Regjeringens vurdering er derfor at regelendringer som primært vil gi høyere pensjon til personer som har gått ut av arbeidslivet svarer dårlig på Stortingets anmodning.
+
+For personer som er født i 1954–1962 er regjeringens vurdering at regelverket kan endres for å forsterke arbeidsinsentivene. Mange av disse er fremdeles i jobb og kan velge å stå lenger i jobb dersom uttellingen for dette bedres. Offentlig ansatte født i 1954–1962 er omfattet av den sterkere levealdersjusteringen i ny alderspensjon fra folketrygden. Opptjening av tjenestepensjon skjer imidlertid i sin helhet i en modell der en ikke får opptjening utover 30 år. I tillegg er denne tjenestepensjonen en bruttopensjon, der økt opptjening i folketrygden også gir økt samordningsfradrag, slik at samlet pensjon i hovedsak ikke påvirkes av folketrygdens nye opptjeningsmodell. En kan derfor argumentere for at offentlig ansatte født i 1954–1962 får ulempene med sterkere levealdersjustering, men at tjenestepensjonsordningen motvirker fordelene ved en opptjeningsmodell der det er enklere å kompensere for levealdersjusteringen.
+
+Fra og med 1963-kullet vil det bli langt gunstigere både å stå i jobb til ordinær aldersgrense, og utover den. For de som står lenge i jobb, til 70 år eller lenger, blir det svært store forskjeller i pensjonsnivåene mellom 1962- og 1963-kullet.
+
+En regelendring som svarer på Stortingets anmodning, som vil styrke arbeidsinsentivene til årskullene som gradvis blir berørt av den sterkere levealdersjusteringen, er å fjerne den særskilte nedre grensen på delingstallet ved beregning av den delen av brutto alderspensjon som levealdersjusteres med delingstall, og som samordnes med ny alderspensjon fra folketrygden. Dette vil innføre full fleksibilitet etter 67 år, der tjenestepensjonen blir høyere jo senere den tas ut, uten begrensning før fylte 75 år, for den delen av tjenestepensjonen som er knyttet til ny alderspensjon fra folketrygden. Med en slik løsning vil fleksibiliteten fases gradvis inn fra og med 1954-kullet, og vil gjelde 90 prosent av pensjonen for 1962-kullet, slik at man får en gradvis overgang til de nye reglene som gjelder fullt fra og med 1963-kullet.
+
+Regjeringen legger stor vekt på at mange i 1954–1962-kullene fortsatt står i jobb og kan forlenge sin arbeidsinnsats i offentlig sektor dersom den pensjonsmessige uttellingen blir bedre, også i høy alder. Regjeringens vurdering er derfor at det bør gis økt uttellingen for den delen av tjenestepensjonen som samordnes med ny alderspensjon fra folketrygden og som levealdersjusteres med delingstall. Regjeringen legger derfor, parallelt med denne stortingsmeldingen, fram en lovproposisjon som foreslår å fjerne den særskilte nedre grensen på delingstallet for den delen av bruttopensjonen som levealdersjusteres med delingstall.
+
+Anmodningen fra Stortinget er også å vurdere kravet til innbetaling av premie fra det tidspunkt den enkelte har kompensert for levealdersjusteringen, jf. vedtak 238. Regjeringen viser til at innbetalt medlemspremie til offentlig tjenestepensjonsordning dekker langt mer enn det som bidrar til høyere alderspensjon, blant annet uføredekning og etterlattedekning. Det er videre i dag ingen differensiering av medlemspremien etter i hvilken grad inntekten bidrar til økt tjenestepensjon. Tjenestepensjonen gir et mye høyere bidrag i årlig opptjening for høye inntekter enn for lave inntekter. Det er også mange som har full opptjening i bruttoordningen lenge før fylte 67 år. De som har full opptjening, har ingen pensjonsmessig uttelling av å utsette uttak av pensjon etter fylte 62 år. Endelig vil de som ikke har full opptjening likevel ha pensjonsmessig uttelling også etter at de har kompensert for levealdersjusteringen. Å knytte kravet til premiebetaling til hvorvidt det er kompensert for levealdersjusteringen eller ikke, vil altså være svært lite målrettet dersom formålet er at det ikke skal betales medlemspremie for tjenestetid som ikke bidrar til økt alderspensjon. Regjeringens vurdering er derfor at regelverket for innbetaling av premie ikke endres.
+
+## Utvikling i yrkesaktivitet og avgangsalder
+
+I årene som kommer vil det være årskull på mellom 60 000 og 70 000 personer som nærmer seg, eller er i alder for, uttak av alderspensjon. Disse skal vurdere om de fortsatt skal arbeide, eventuelt i kombinasjon med uttak av pensjon. Mens uttaksalder måler alderen ved uttak av AFP eller alderspensjon (uavhengig av om en fortsetter i arbeid), måler avgangsalderen når en trer ut av arbeidslivet. Det er noen aldre som peker seg ut der 62, 65, 67 og 70 år er de vanligste aldrene der folk slutter å jobbe. Ved 62 år er første mulighet for å ta ut folketrygd, og de som fyller vilkårene for AFP kan i tillegg ta ut AFP fra privat sektor eller offentlig sektor. Mange yrkesgrupper tar også ut særalderspensjon fra 62 år. 67 år er i dag den vanligste avgangsalderen. De ulike aldersgrensene har trolig en symboleffekt, ved at mange velger å tre ut av arbeidslivet ved en valgt alder uten at valget om å gå av kan knyttes direkte til regler som inntreffer ved disse aldrene. Som vist i figur 4.1 under, har den mest vanlige avgangsalderen forskjøvet seg fra 62 år (før pensjonsreformen) til 67 år (etter pensjonsreformen).
+
+Avgang fra arbeidslivet i 2010 og 2022 etter avgangsalder. Andel i prosent
+
+Avgang omfatter også de som har overgang til uføretrygd eller andre helserelaterte trygdeytelser.
+
+Kilde: Arbeids- og velferdsdirektoratet.
+
+Figur 4.2 viser median avgangsalder blant arbeidsføre i årskullene 1940–1955 fordelt på sektor og AFP-tilhørighet. Med arbeidsføre menes personer som var yrkesaktive ved 61 år og som verken mottok uføretrygd eller arbeidsavklaringspenger i alderen 61–66 år. Figuren er også vist i kapittel 9, både avgrenset til de som arbeidet minst 20 timer per uke og til de som arbeidet en time eller mer per uke ved 61 år.
+
+Median avgangsalder blant arbeidsføre<sup>1</sup> etter sektor og fødselsår
+
+<sup>1</sup> Var yrkesaktiv med arbeid på minst 20 timer per uke ved 61 år, mottok verken arbeidsavklaringspenger eller uføretrygd i alderen 61–67 år og var i live til minst 67 år.
+
+Kilde: Arbeids- og velferdsdirektoratet.
+
+For alle årskull har avgangsalderen i virksomheter med tilgang til AFP vært lavere enn i virksomheter uten AFP. Før pensjonsreformen var tidligste mulige avgangsalder i private virksomheter uten AFP 67 år. For denne gruppen lå faktisk avgangsalder for arbeidsføre rundt 67 år for årskullene som gikk av før fleksibelt uttak ble innført i 2011. At inntektsprøvingen av alderspensjon ble opphevet for 67-åringer fra 2008, er trolig årsaken til økningen i avgangsalder fra 1940- til 1941-årskullet. På tross av at pensjonsreformen gav personer uten AFP mulighet til å ta ut pensjonen tidligere, har median avgangsalder i private virksomheter uten AFP holdt seg stabilt rundt 67 år.
+
+I private virksomheter med AFP var median avgangsalder 65,4 år for 1955-kullet. Den var også 65,4 år for ansatte i offentlig sektor. Både i offentlige og private virksomheter med AFP har median avgangsalder økt, både før og etter 2011, til og med 1949-årskullet. I private virksomheter med AFP har median avgangsalder nærmet seg avgangsalderen i offentlig sektor etter at ny privat AFP er faset inn. Fra 1950- til 1953-kullet falt median avgangsalder fra private virksomheter med AFP, mens den økte noe for 1954-kullet og 1955-kullet. Nedgangen kan skyldes overgangen til a-ordningen i 2015 da en god del personer som var registrert som arbeidstakere i Aa-registeret, antakelig feilaktig registrert, forsvant fra registeret ved årsskiftet. I offentlig sektor har median avgangsalder fra 1949- til 1955-kullet holdt seg nokså stabil. Overgangen til a-ordningen gjelder alle sektorer, og det er derfor usikkert i hvor stor grad dataomleggingen påvirker resultatene.
+
+For å få et bredere bilde av yrkesaktiviteten i hele befolkningen, ikke bare blant arbeidsføre som går direkte fra arbeid og over på alderspensjon eller AFP, har Arbeids- og velferdsdirektoratet utarbeidet en indikator for forventet yrkesaktivitet etter 50 år. Indikatoren viser forventet antall årsverk etter fylte 50 år som et gjennomsnitt for hele befolkningen, ikke bare for dem som var i arbeid, se figur 4.3.
+
+De siste 20 årene har det vært en klar vekst i yrkesaktiviteten blant eldre, både fordi andelen uføre har gått ned, utdanningsnivået er høyere og fordi flere kvinner har fulle yrkeskarrierer. Etter pensjonsreformen har også fleksible uttaksregler medvirket til økt yrkesaktivitet. I perioden før pensjonsreformen, fra 2001 til 2010, økte forventet yrkesaktivitet med 1,3 år. Fra 2011 til 2022 økte antall forventede yrkesaktive år etter 50 år med ytterligere 1,0 år. I 2022 kunne en 50-åring dermed forvente å ha om lag tolv gjenstående årsverk i arbeidslivet.
+
+Figur 4.3 viser at forventet yrkesaktivitet etter 50 år er høyere for menn enn for kvinner. En vesentlig årsak til det er at figuren viser antall årsverk, og flere kvinner enn menn arbeider deltid. Samtidig er det en høyere andel kvinner enn menn som blir uføre etter 50 år. I tillegg er det en større andel kvinner enn menn i offentlig sektor og som tar ut AFP fra 62 år. Økningen i forventet gjenstående yrkesaktivitet har imidlertid vært sterkere for kvinner enn menn, og kjønnsforskjellen har dermed blitt noe redusert over tid. Det skyldes at de årskullene med kvinner som nå passerer 50 år, har vært mer yrkesaktive gjennom hele sitt voksenliv enn eldre årskull.
+
+Forventet yrkesaktivitet etter fylte 50 år. Årsverk
+
+Kilde: Arbeids- og velferdsdirektoratet.
+
+Innføring av nøytrale uttaksregler trekker i retning av at det er mer lønnsomt å arbeide, og levealdersjustering av alderspensjonen reduserer inntekten som pensjonist og stimulerer til lengre yrkeskarrierer. De senere årene har avgangsalderen også blitt høyere, og det er bred enighet om at pensjonsreformen har påvirket atferden ved at avgangsalderen er forskjøvet oppover. Det tyder på at insentivene i pensjonsreformen har blitt forstått. Sammenlignet med de andre nordiske landene, skiller Norge seg imidlertid ut med særlig lav økning i gjennomsnittlig avgangsalder i tiden som har gått etter innføring av pensjonsreformen. Flere forhold må virke sammen for at avgangsalderen skal øke. Flere faktorer som trivsel i jobben, arbeidsmarkedet for personer som nærmer seg, eller er i alder for, tidligpensjonering vil sammen med bedre informasjon kunne ha betydning for valg av avgangstidspunkt.
+
+## Betydning av god informasjon
+
+### Innledning
+
+Pensjonsreformen har gitt flere valgmuligheter, både ved at flere enn før kan velge å ta ut alderspensjon før 67 år, gradert uttak og kombinasjon av arbeid og uttak av alderspensjon. Dette legger et større ansvar for årlig pensjon på den enkelte. Med det følger også et myndighetsansvar for å tilrettelegge for god og tilgjengelig informasjon. Et viktig spørsmål er hvordan myndighetene, herunder Arbeids- og velferdsetaten, framover skal få innbyggerne til å nyttiggjøre seg digital informasjon, og veilede de som ikke har digital kompetanse eller kan nås digitalt.
+
+De aller fleste tjener opp pensjonsrettigheter i flere ulike pensjonsordninger. Alle har rett til alderspensjon i folketrygden og de aller fleste tjener i tillegg opp rett til pensjon fra en eller flere ulike tjenestepensjonsordninger. Videre er det mange som kvalifiserer til AFP, enten fra privat eller offentlig sektor, og en del sparer også til pensjon gjennom individuelle, skattefavoriserte pensjonsordninger.
+
+Det kan oppleves krevende for den enkelte bare å ha oversikt over *hvilke* pensjonsordninger de har rett til pensjon fra og *hva* de ulike ordningene gir i pensjon. Dette skyldes både at pensjonen utbetales av ulike instanser, men også at de ulike pensjonsordningene ofte har ulike opptjeningsregler og/eller uttaksregler. Blant annet blir ytelsene fra ordningen presentert ulikt, enten som en beholdningsstørrelse hvor pensjonen avhenger av uttakstidspunkt eller som en ytelse ved en gitt avgangsalder.
+
+Forskning viser at informasjon om pensjonsordninger må tilpasses ulike grupper etter blant annet alder, familiesituasjon og kunnskapsnivå. Pensjonsreformen har som nevnt gitt den enkelte flere valgmuligheter, noe som i seg selv er et gode. Samtidig viser forskning at når mennesker står overfor ulike og komplekse valg, tar de ikke nødvendigvis gode beslutninger. I slike situasjoner vil folk ofte ønske hjelp og veiledning til å ta valg basert på egne preferanser og omstendigheter.[^18] Menneskelig atferd motiveres mer av kortsiktige enn langsiktige perspektiver, av normer og av hvordan valgene presenteres mv. Mastrobuoni (2011)[^19] viser at pensjonsatferden ikke påvirkes hvis pensjonsytelsen kun oppgis ved en bestemt pensjonsalder. Giesecke og Yang (2017)[^20] ser nærmere på om personer ville ha gjort en annen tilpasning om de hadde fått mer informasjon om konsekvensen ved å velge ulike avgangsaldre. Resultatene viser at ønsket pensjoneringstidspunkt utsettes med nesten to år når det gis tydelig informasjon om forventet pensjonsformue ved ulike avgangsaldre.
+
+### Informasjon for å ta valg
+
+I forarbeidene til ny alderspensjon, se Ot.prp. nr. 37 (2008–2009), sto det beskrevet hvordan Arbeids- og velferdsetaten ville gi informasjon ut til den enkelte:
+
+«Internettbaserte selvbetjeningsløsninger er godt egnet til å synliggjøre konsekvensene av ulike valg, for eksempel av uttakstidspunkt og av ulike kombinasjoner mellom arbeid og pensjon. \[…\]
+
+I tillegg til selvbetjeningsløsningen, legger Arbeids- og velferdsdirektoratet opp til at den enkelte kan få informasjon om opptjente rettigheter, konsekvensene av levealdersjustering og mulighetene til å kombinere arbeid og pensjon. Arbeids- og velferdsetaten vil ha spesielt fokus på de gruppene som i størst grad blir berørt av det nye regelverket. Departementet vil understreke behovet for å informere også grupper som av ulike grunner ikke kan eller vil bruke selvbetjeningsløsningen. Disse skal kunne henvende seg på et av Arbeids- og velferdsetatens kontorer eller kundesentre, og få den samme informasjon der som de kan få ved å benytte portalen, samt veiledning om de mulighetene som foreligger.»
+
+I Arbeids- og sosialkomiteens innstilling (Innst. O. nr. 67 (2008–2009)) om ny alderspensjon fra folketrygden (Ot.prp. nr. 37 (2008–2009)) står det følgende: «God informasjon og veiledning er en forutsetning for at den enkelte kan forstå de pensjonsmessige konsekvensene av egne valg, fordi fremtidens alderspensjonssystem vil være mer fleksibelt og inneholde flere valgmuligheter enn i dag.».
+
+I årene etter at forslaget om ny alderspensjon ble lagt fram har det skjedd en rask digital utvikling med utvidet bruk av digital veiledning og informasjon på NAV.no. Samtidig skal NAV sikre god tilgjengelighet til brukerne, uavhengig av hvordan man kontakter NAV, slik at informasjon også når ut til de som ikke er digitale.
+
+Informasjon og veiledning fra Arbeids- og velferdsetaten skal være korrekt, ha et klart språk og være tilpasset brukernes forutsetninger og behov i størst mulig grad. Samhandlingen mellom Arbeids- og velferdsdirektoratet, SPK og andre pensjonsleverandører, herunder Fellesordningen for AFP i privat sektor, og deres informasjon og kompetanse er en forutsetning for velinformerte valg ved pensjonering.
+
+### Visning av informasjon i portalene
+
+Dersom pensjonsportalene skal virke etter hensikten, er det viktig at brukerne oppfatter portalene som troverdige og at de gir relevant og forståelig informasjon. Dette innebærer blant annet at:
+
+- brukerne må kunne stole på at informasjonen i portalen er korrekt,
+
+- informasjonen må presenteres på en relevant og forståelig måte,
+
+- prognosene må bygge på realistiske forutsetninger, og forutsetningene bør så langt det lar seg gjøre, være like for alle ytelser og mellom portalene.
+
+Pensjonsportalen «Din pensjon» ble utviklet av Arbeids- og velferdsetaten (NAV) mellom 2007 og 2011. I portalen kan brukerne simulere forventet framtidig pensjon med ulike forutsetninger om uttaksalder, uttaksgrad og kombinasjon av pensjonsuttak og fortsatt arbeid for å se hvordan dette påvirker størrelsen på alderspensjonen. Videre gir portalen detaljert informasjon om opptjeningshistorikk i folketrygden. Brukerne kan også søke om alderspensjon fra folketrygden i portalen, samt endre uttaksgrad, stoppe og sette i gang igjen utbetaling av løpende alderspensjon. «Din pensjon» viser relativt detaljert hvordan alderspensjonen fra folketrygden er beregnet.
+
+Statens pensjonskasse (SPK) sin portal viser prognoser for alderspensjon fra folketrygden og offentlig tjenestepensjon/AFP. De arbeider med å tilrettelegge for utveksling av opptjente rettigheter mellom de som leverer offentlig tjenestepensjon slik at prognoser skal kunne leveres samlet for all offentlig tjenestepensjon. I dette arbeidet vil SPK legge til rette for at også andre leverandører av offentlig tjenestepensjon kan bruke samme løsning som SPK.
+
+Pensjonsportalen Norsk Pensjon ble opprettet fra 2009 med det formål å gi enkeltpersoner en samlet oversikt over forventet alderspensjon fra ulike pensjonsordninger. Portalen eies av sju av de største livsforsikringsforetakene i Norge og av Pensjonskasseforeningen.[^21] Portalen finansieres av de rundt 60 ulike pensjonsleverandørene som leverer informasjon til portalen.
+
+For å kunne gi en samlet oversikt over pensjonsrettigheter og illustrere konsekvensene av ulike valg, må informasjon fra mange ulike kilder sammenstilles. De to pensjonsportalene «Din pensjon» – etablert av NAV – og Norsk Pensjon har siden 2009 hatt en samarbeidsavtale om innsamling og utveksling av pensjonsinformasjon. Avtalen innebærer at NAV har ansvar for å beregne prognoser for alderspensjon fra folketrygden og for offentlig og privat AFP, mens Norsk Pensjon har ansvar for å gi prognoser for private tjenestepensjoner og individuelle pensjonsordninger. De senere årene har Norsk Pensjon utlevert pensjonsinformasjon til sine eiere og til pensjonsleverandører som de har inngått avtale med. Det er i denne løsningen det gjøres flest prognoser. I 2021 var tallet for slike prognoser 25,4 millioner oppslag gjennom Norsk Pensjon.
+
+Tabell 4.1 gir en oversikt av informasjon om alderspensjon i portalene til NAV, SPK og Norsk Pensjon.
+
+Visning i pensjonsportalene
+
+05J1xx2
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>Viser beholdning ved siste årsskiftet</td>
+<td>Viser utbetaling av alderspensjon før skatt</td>
+<td>Kan velge uttaksalder/uttaksmåned</td>
+<td>Kan velge uttaksgrad</td>
+</tr>
+<tr>
+<td>NAV</td>
+<td>JA</td>
+<td>Folketrygd, privat AFP og privat tjenestepensjon</td>
+<td><p>Alder 62–75/</p>
+<p>måned</p></td>
+<td>JA</td>
+</tr>
+<tr>
+<td>SPK</td>
+<td>NEI</td>
+<td>Folketrygd, offentlig AFP og offentlig tjenestepensjon</td>
+<td>Alder 62–75</td>
+<td>NEI</td>
+</tr>
+<tr>
+<td>Norsk Pensjon</td>
+<td>NEI</td>
+<td>Folketrygd, privat og offentlig AFP og privat og offentlig tjenestepensjon</td>
+<td><p>Alder 62–75</p>
+<p>Tall for tjenestepensjon gjelder ved 67 år</p></td>
+<td>JA</td>
+</tr>
+</tbody>
+</table>
+
+Tabellen viser informasjon for personer født i 1963 og senere.
+
+Kilde: Arbeids- og inkluderingsdepartementet.
+
+Generelt gir NAVs portal god informasjon om hvordan folketrygden beregnes. Integrasjonen mot Norsk Pensjon gjør at privat tjenestepensjon også kommer opp i NAVs portal. NAV har per i dag ikke oversikt over eventuell tilslutning til AFP-bedrift eller om vedkommende fyller vilkårene, men NAV beregner prognoser for AFP fra privat sektor når den enkelte krysser av for om man er tilsluttet en AFP-ordning i privat sektor. Informasjon om offentlig tjenestepensjon, også for årskull født fra 1963, vil komme på plass da det arbeides med en integrasjonsløsning med SPK.
+
+Norsk Pensjon er den eneste portalen som viser prognoser for alderspensjon både fra folketrygden og fra tjenestepensjonsordninger/AFP i privat og offentlig sektor, samt opptjent individuell pensjonssparing. Per i dag får ikke brukerne informasjon om samlet offentlig tjenestepensjon i portalen. Det som vises, er hvilken offentlig tjenestepensjonsordning en har vært eller er medlem i, med lenke til pensjonsleverandøren hvor en finner nærmere informasjon om opptjeningstid og prognoser for offentlig tjenestepensjon. For de som har medlemskap i to eller flere offentlige pensjonsordninger, må pensjonsopptjeningen ses i sammenheng, og her er ikke portalene ferdig utviklet. Den enkelte krysser selv av for rett til AFP fra privat sektor. For en offentlig ansatt som feilaktig krysser av på dette valget, vil samlet pensjon da inkludere AFP både fra offentlig og privat sektor. Selv om Norsk Pensjon gir en oversikt over samlet pensjon, er det potensial for å forbedre kvaliteten på informasjonen som presenteres.
+
+Samarbeidsavtalen mellom NAV og Norsk Pensjon innebærer at de to portalene viser mer eller mindre identiske prognoser på forventet pensjon. Portalene har imidlertid enkelte særtrekk, spesielt knyttet til hvor mange detaljer brukeren får tilgang til om rettighetene i de ulike pensjonsordningene. Overordnet gir Din pensjon mer detaljert informasjon om folketrygden, mens Norsk Pensjon gir flere detaljer om tjenestepensjoner og individuelle ordninger. Det at det gis informasjon om pensjon fra flere aktører med ansvar for ulike deler av pensjonssystemet innebærer at det kan være vanskelig for den enkelte å få fullstendig informasjon om sine pensjonsrettigheter. Det er derfor rom for forbedringer og i så måte kan det være nyttig å se på hvilken strategi og samarbeidsformer andre land har valgt. Se boks 4.1 for en kort beskrivelse av informasjon i Sverige.
+
+Informasjon om pensjon i Sverige
+
+I Sverige er informasjonen som brukeren presenteres for utviklet gjennom forbrukertesting. Pensjonsprognosen som vises på Pensionsmyndigheten (tilsvarende NAV) er produsert av «minPension», som er et samarbeid mellom Pensionsmyndigheten og de ulike pensjonsselskapene. Hvor mye samlet pensjon ved pensjonsalder beregnes til, sammenlignes med nåværende månedslønn. Beløp for månedlig pensjon gis både for alderspensjon (allmän pension), tjenestepensjon og privat pensjonsordning, både i graf og tabell og både før og etter skatt. Grafikken er utformet slik at avgangsalder kan velges ved hjelp av en slider som visualiserer at pensjonen øker med utsatt avgangsalder og forventet levetid ved prognosealder er også oppgitt. Målet med informasjonen er å øke interessen for pensjon og informasjonen er tilpasset både yngre og eldre aldersgrupper.
+
+Pensionsmyndigheten i Sverige har også en aktiv profil på sosiale medier, blant annet ved at det legges ut spørsmål og svar av allmenn interesse. Det kan være svar på alderspensjon, men også spørsmål i tilknytning til andre ytelser som for eksempel bostøtte. På «Den orange bloggen» legges det ut aktuell informasjon ikke bare om alderspensjonen (den allmänna pensionen), men også om temaer som uttakstidspunkt for pensjon, fortsatt arbeid og uttak av pensjon og skatt på pensjon. I Sverige er det også mulig å få et personlig møte med en veileder på Statens servicecenter, som i 2021 hadde totalt 118 kontorer. I løpet av 2020 tok servicecenteret imot 2,4 millioner besøkende. Statens servicecenter er en statlig myndighet under Finansdepartementet. Servicecentrene er et samarbeid mellom Arbetsförmedlingen, Försäkringskassan, Pensionsmyndigheten og Skatteverket.
+
+\[Boks slutt\]
+
+### Pensjonsutvalgets vurderinger
+
+I Pensjonsutvalgets mandat står det at utvalget skal konsentrere sin utredning om folketrygdens alderspensjon og eventuelle grenseflater mot andre ordninger, og utvalget ble bedt om å se særskilt på informasjon og kommunikasjon:
+
+«Det vil ta lang tid før ny alderspensjon er fullt innfaset, og pensjonssystemet kan for mange fremstå som komplisert. Utvalget skal redegjøre for hvordan regelendringene som følger av pensjonsreformen har blitt kommunisert ut til og gjort tilgjengelig for den enkelte.»
+
+I sitt arbeid vurderte utvalget om ansvaret for innsamling og sammenstilling av informasjon, i stedet for dagens delte løsning, burde vært lagt til NAV, og at leverandørene i den forbindelse fikk rapporteringsplikt til NAV. En slik løsning kunne gjort det enklere å standardisere prognoser. Utvalget anbefalte ikke en slik løsning, men i rapportens kapittel 7 *Insentiver i det samlede pensjonssystemet* har utvalget følgende to forslag:
+
+«Utvalget mener at dagens pensjonsportaler gir god informasjon, men at prognoseberegningene fortsatt kan videreutvikles og forbedres. Blant annet bør det bli mulig å få et mer helhetlig bilde av samlet pensjon ved ulike uttakstidspunkt når pensjon fra private- og offentlige tjenestepensjonsordninger inkluderes. Utvalget mener det bør utarbeides en helhetlig strategi for informasjon på pensjonsområdet.»
+
+«Utvalget mener at det bør vurderes om NAV mer aktivt skal gå ut og spre informasjon om pensjonsreformen. Eventuelt kan dette gjøres i samarbeid med Norsk Pensjon og leverandører av privat og offentlig tjenestepensjon. I tillegg til at informasjonen må være fullstendig og lett forståelig, må det også være et mål å øke interessen for slik informasjon slik at den når flere. \[…\] Det kan i denne sammenhengen også vurderes om innrapportering av all pensjonsopptjening til Altinn kan være et element i en slik plan. Når all informasjon om opptjeningstid kan vises og hentes ut samlet, så vil det også være enklere å ta med seg informasjonen videre til NAV eller andre brukeren ønsker å søke veiledning hos.»
+
+I tillegg til dette mente Pensjonsutvalget at det kan være hensiktsmessig å gi noe mer veiledning om valg av uttakstidspunkt; blant annet ved at det framgår ved hvilken alder en må stå i arbeid til for å ha kompensert for levealdersjusteringen. Videre at informasjon burde gjøres tilgjengelig på flere språk enn i dag slik at brukere som ikke har norsk som morsmål, eller som har arbeidet i Norge en kort periode for å senere reise tilbake til hjemlandet, lettere kan få informasjon.
+
+### Høringsuttalelser
+
+Flere høringsinstanser har uttalt seg om pensjonsportaler og behov for informasjon om pensjon. Disse støtter utvalgets anbefalinger. Det er særlig forslaget om at det bør utarbeides en helhetlig strategi på pensjonsområdet som høringsinstansene har gitt innspill på.
+
+*Arbeids- og velferdsdirektoratet* viser til at de fleste brukerhenvendelser i dag besvares på telefon, men at dette er ressurskrevende og at bedre digitale løsninger vil kunne redusere behovet for personlig veiledning. Direktoratets egne brukerundersøkelser viser at dagens løsning ikke presenterer den framtidige pensjonen på en tilfredsstillende måte og at det kan gjøre at brukerne ikke forstår sine rettigheter og valgmuligheter fullt ut. De sier seg enige med utvalget i at det er rom for forbedringer av portalene og skriver at utviklingen av løsningen bør skje i samsvar med tilbakemeldinger fra brukerne med formål om bedre innsikt i egne pensjonsrettigheter og konsekvensene av ulike valg. Direktoratet mener det vil være hensiktsmessig å utvikle en IT-løsning som viser hvordan alderspensjonen utvikler seg i verdi etter uttakstidspunktet og som illustrerer hvordan skatteregler påvirker utbetalt pensjon. Direktoratet er enig med Pensjonsutvalget i at det er en svakhet at pensjonskalkulatorer generelt ikke vurderer om en person er tilsluttet en AFP-ordning og dermed kan ha rett til avtalefestet pensjon.
+
+*Statens pensjonskasse* er positiv til utvalgets forslag og til at det bør utarbeides en helhetlig strategi for informasjon på pensjonsområdet, og mener dette arbeidet bør involvere alle hovedaktørene. De viser til at de ser at medlemmene av pensjonskassen har behov for konkret rådgivning for å ta gode og riktige valg og at det å se forventet pensjon (etter skatt) samlet er en forutsetning for dette.
+
+*Unio* skriver følgende i sitt høringssvar: «For de fleste er pensjon svært komplisert og det må erkjennes at pensjonsreformen ikke har bidratt til enkelhet. Stadig endring av pensjonsbegreper og systemer gjør det vanskelig for den enkelte å følge med. Behovet for forutsigbarhet henger også sammen med tillit til systemet. Vi er enig i at det har skjedd forbedring av pensjonsinformasjonen som er tilgjengelig for befolkningen i ulike nettportaler, men det er en stor utfordring å etablere portaler som gir en samlet oversikt over «alt». Det treffes pensjonsbeslutninger på basis av den informasjon den enkelte klarer å tilegne seg. Dersom en ikke forstår hvordan alt henger sammen, vil beslutningsgrunnlaget være mangelfullt og det kan tas feil pensjonsvalg. Det er viktig at den enkelte forstår konsekvensene av sine valg. Det offentlige bør ta et tydelig ansvar for en helhetlig strategi for informasjon på pensjonsområdet*.»*
+
+*Den* *Norske Aktuarforening* (DNA) viser til at både Arbeids- og velferdsdirektoratet og Norsk Pensjon har oppgitt til utvalget at dagens løsning med et delt ansvar og utveksling av data for prognoseformål etter deres oppfatning fungerer godt, og at de ikke ser noen åpenbare behov for endringer*.* DNA mener derimot at det absolutt er rom for forbedringer og at det kan hentes inspirasjon fra Sverige når det gjelder samarbeidsform. Prognosene for den samme pensjonsordningen bør være like på de forskjellige nettstedene, og basert på en enighet om hvordan slike prognoser skal beregnes og med en tydeliggjøring av usikkerheten ved prognosene. DNA viser også til at systemeierne har egne interesser å ta hensyn til, og ikke nødvendigvis en felles målsetting med innholdet i portalene.
+
+*Oslo Pensjonsforsikring* tar opp at en av hovedutfordringene er pensjonssystemets fragmenterte natur, samt betydningen av økende grad av individuell historikk og egne valg og tilpasninger. *Kommunal Landspensjonskasse* viser til at videreutvikling av portaler og digitale grensesnitt for utveksling av informasjon mellom flere aktører er et omfattende arbeid, og systemutviklingen må sette nye ytelser og nytt regelverk først. *Norsk Pensjon* er den eneste høringsinstansen som kommenterer innrapportering av all pensjonsopptjening via Altinn. De viser til at deres infrastruktur kan legge til rette for rapportering av pensjonsopptjening til Altinn.
+
+### Regjeringens vurderinger
+
+I årene som kommer vil det være store årskull som nærmer seg, eller er i alder for, uttak av alderspensjon. Disse skal vurdere om de fortsatt skal arbeide, eventuelt i kombinasjon med uttak av pensjon. Dersom forslagene som presenteres i meldingen følges opp av Stortinget, vil kompleksiteten i pensjonsreformen øke. Økt satsing på kommunikasjon og informasjon vil da bli etterspurt. God informasjon og veiledning om hvordan ulike valg vil påvirke framtidig pensjon er også viktig for tilliten til, og oppslutningen om, pensjonssystemet.
+
+Regjeringen vil, etter at meldingen er behandlet av Stortinget, ta initiativ til at det utarbeides en helhetlig strategi for informasjon på pensjonsområdet. Strategien skal se på mulige løsninger for helhetlig informasjon hvor et alternativ vil være å se på et tettere samarbeid mellom Arbeids- og velferdsdirektoratet, de ulike tjenestepensjonsleverandørene og andre relevante aktører. Som en del av arbeidet kan det vurderes om det bør opprettes et overordnet organ med ansvar for informasjon om pensjon, slik det er gjort i Sverige.
+
+## Andre faktorer som har betydning for pensjoneringsbeslutningen
+
+### Trivsel i jobben
+
+I tillegg til økonomiske insentiver og informasjon om økonomiske konsekvenser av valg av uttakstidspunkt er det mange andre faktorer som kan påvirke beslutningen om å forlate arbeidslivet. Både trivsel i jobben, tradisjoner og normer, helsetilstanden og om ektefellen er pensjonist kan ha betydning.
+
+Et godt arbeidsmiljø er viktig både for de sysselsattes helse og trivsel og for virksomhetenes produktivitet og resultater. Det er godt dokumentert at arbeidsmiljøet er viktig for sykefravær og uførhet, arbeidsinkludering og tidligpensjonering. I Norsk seniorpolitisk barometer 2022 er et godt arbeidsmiljø den enkeltfaktoren som flest mener er viktig for at de skal fortsette i arbeid etter at de har rett til å ta ut pensjon; hele 73 prosent svarer at det er meget viktig og ytterligere 19 prosent at det er ganske viktig. Sammen med gode arbeidskamerater, svarer respondentene at disse faktorene er viktige for å fortsette i jobb: arbeidet gir økt livskvalitet/er interessant, grad av autonomi på jobben og å føle seg nyttig. Halvparten svarer også at det er meget viktig om nærmeste leder ønsker at du fortsetter.
+
+Gjennomsnittlig ønsket avgangsalder er nå 65 år etter å ha økt fra 62 år fra undersøkelsen startet opp i 2003. Samtidig har andelen yrkesaktive som gleder seg til egen pensjonisttilværelse økt fra 36 til 42 prosent fra 2020 til 2022, noe som er bekymringsfullt med tanke på at det er et politisk mål at seniorer i årene som kommer står lenger i arbeid.
+
+Forebyggende arbeidsmiljøarbeid er et viktig virkemiddel i arbeidet med å styrke arbeidslinjen i Norge. Gjennom samarbeidet om IA-avtalen er det satt i gang tiltak som skal bidra til å forebygge og redusere sykefravær og frafall og legge til rette for inkludering og forlengede yrkeskarrierer. Dette arbeidet må innrettes og tilpasses de særskilte utfordringene som finnes på den enkelte arbeidsplass.
+
+Utviklingen i frafall som følge av tidligpensjonering har som andel av ansatte mellom 62–66 år vært fallende siden 2016, med unntak av 2020. Andelen lå i 2022 på 11,9 prosent, som er en nedgang på 3,8 prosent siden 2018.
+
+### Helsetilstand
+
+Dårlig helse er en faktor som kan bidra til å redusere muligheten til forlengede yrkeskarrierer. For personer med så dårlig helse at det begrenser muligheten til å jobbe, vil mottak av eksisterende ytelser som sykepenger, arbeidsavklaringspenger og uføretrygd være mulige inntektssikringsordninger.
+
+Det kan også være forhold på arbeidsplassen som bidrar til at folk slites ut. Høy arbeidsbelastning og stress er viktige årsaker. Dette er forhold som ikke nødvendigvis skyldes yrket i seg selv, men kan knyttes til arbeidsmiljøfaktorer på den enkelte arbeidsplass. Det å måtte pensjonere seg på grunn av slitenhet kan oppleves som en belastning for den enkelte knyttet til tap av inntekt, men også muligheten til å benytte fagkunnskap og kompetanse. Det ligger et stort potensial i bedre tilrettelegging og organisering av arbeidet.
+
+Samtidig har det vært en positiv utvikling i helse og arbeidsmiljø. I perioden 2000–2015 økte levealderen for 60-åringer i Norge med 2,2 år, hvor 1,6 år, eller om lag to tredjedeler, var en økning i antall år uten sykdommer eller plager. Dette tyder på at sykdommer og plager inntreffer i høyere alder enn tidligere. Helsegevinsten har ikke bare kommet de aller eldste til gode, men også den delen av befolkningen som er i slutten av yrkesaktiv alder. Det har stor verdi å beholde erfaren arbeidskraft i arbeidsmarkedet, og samtidig vil arbeidsmiljøutvikling også komme yngre ansatte til gode.
+
+### Familieforhold og kjønn
+
+Mange av de som står overfor et valg mellom pensjonering og fortsatt yrkesaktivitet, har en ektefelle eller samboer. Valget mellom fortsatt arbeid og pensjonering treffes ikke bare ut fra hensyn til egen økonomi, ønske om mer fritid eller egen helse. For flerperson-husholdninger vil også felles inntekt og felles nytte av samvær ha betydning. Det kan også være forhold som handler om forsørgelse av voksne barn som trekker i retning av å fortsette å arbeide. For andre vil også omsorgsoppgaver for eksempel knyttet til ivaretagelse av yngre eller eldre familiemedlemmer trekke i retning av tidligere tilbaketrekning fra arbeidslivet. Menn går av med pensjon omtrent ett år senere enn kvinner, og gjennomsnittlig alder er vel 66 for menn og drøyt 65 år for kvinner. Forskningen gir støtte til at insentivendringer som er rettet mot individer kan ha større effekt enn de som kan måles bare ved å se på endret atferd hos den som berøres direkte. Det betyr at en del par der den ene ønsker å utsette avgangen fra arbeidslivet som følge av levealdersjusteringen, trolig vil få følge av sin ektefelle.
+
+### Arbeidsmarkedet for seniorer
+
+Sysselsettingen blant personer over 60 år har økt betydelig de siste 20 årene og sysselsettingen blant eldre i Norge er høy sammenliknet med andre europeiske land. Som i andre land faller andelen som er jobb i Norge raskt med alderen etter fylte 60 år, og det er få arbeidstakere over 70 år. Mens 75 prosent av 60-åringene var sysselsatt i 2022, var andelen sysselsatte bare 32 prosent for 67-åringer og 19 prosent for 70-åringer. Den gradvis lavere andelen i jobb blant eldre gjenspeiles i at flere mottar uføretrygd eller alderspensjon.
+
+Det at flere eldre arbeidstakere ønsker å stå lenger i jobb, er ikke alene nok til å øke sysselsettingen. Økonomiske insentiver har stor betydning, både for arbeidsgivere og for den enkelte. For arbeidsgivere er det viktig at betingelser og forhold er lagt til rette for at det skal lønne seg å beholde eller ansette eldre arbeidstakere. For de som er i et ansettelsesforhold, avhenger sysselsettingen også av ulike lovbestemmelser som opphør av arbeidsforhold på grunn av alder. De som er selvstendig næringsdrivende, er avhengig av at tjenestene de tilbyr etterspørres. For å øke sysselsettingen blant eldre, må det arbeides for at færre skal slutte i den jobben de har, samtidig som det må bli lettere for seniorer som er ledige å få jobb. Det er samtidig viktig med god mobilitet i arbeidsmarkedet blant eldre, slik at det blir mer vanlig å finne ny jobb. I årene framover vil omstillinger, både i privat og offentlig sektor, gjøre det nødvendig at både arbeidstakere og arbeidsgivere legger til rette for at kompetansen fornyes slik at den samsvarer med samfunnets og næringslivets behov. Kompetansetiltak og rådgivning særlig rettet mot arbeidstakere som har vært noen år i arbeidslivet, kan være et framtidsrettet virkemiddel som kan gjøre seniorer mer attraktive i arbeidsmarkedet.

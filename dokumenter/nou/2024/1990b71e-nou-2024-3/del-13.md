@@ -1,1182 +1,239 @@
-# NOU 2024: 3, del 13 av 40 (side 160–176)
+# NOU 2024: 3, del 13 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 160]
-
-158
-
-Kapittel 16
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-ner de har, og hvordan de brukes. Risiko-regimet
-som EU oppretter under forordningen om kunstig
-intelligens vil inngå som en del av risikobildet som
-plattformselskapene må forholde seg til.
-DSA i kombinasjon med AIA innebærer at
-internettbaserte plattformer, særlig de store selskapene, pålegges en rekke krav. Plattformene må
-sørge for mekanismer som gjør det enkelt å fjerne
-ulovlig innhold og gå til anmeldelse. De må også
-kunne begrunne hvorfor noe fjernes, de må gi klageadgang, og de må rapportere hvor mye innhold
-som er blitt fjernet og redigert. Plattformselskapene må videre sikre at selgere på nettet kan spores på handelsplattformer. De største internettbaserte plattformene skal dessuten utarbeide
-risikovurderinger i forbindelse med systemiske
-trusler mot samfunnet. Pålegg går også ut på å
-dele data med myndigheter og forskere.4
-DSA skal håndheves delvis av statene og delvis sentralt av EU. Hver stat skal utpeke kompetente myndigheter som gis tilsynsoppgaver nasjonalt. I tillegg skal hvert medlemsland utpeke en
-uavhengig nasjonal DSA-koordinator, som skal
-føre tilsyn med andre aktører som faller inn under
-DSA. På europeisk nivå gir DSA EU-kommisjonen
-fullmakt til å føre direkte tilsyn med de største selskapene, det vil si selskaper som når ut til mer enn
-ti prosent av EUs befolkning, omtrent 45 millioner
-mennesker.5 DSA utfordrer plattformenes utilstrekkelige egenregulering og «er den klart viktigste lovmessige nyvinningen for selskapenes
-innholdsansvar».6 Til tross for forbedringer som
-gir mer innsyn i hvordan selskapene opererer, og
-hvordan de bruker og behandler data, vil DSA
-ikke løse alle utfordringer med å redusere ekstremisme på nettet. Forordningen kan også ha noen
-negative virkninger.7
-For det første pålegger DSA også mindre selskaper ansvar. De kan imidlertid mangle nok ressurser til å bekjempe ekstremisme på nettet. De
-største plattformene som Meta, Instagram,
-YouTube, Tiktok og X og Amazon har store teknologiske og menneskelige ressurser, og kan raskt
-fjerne ekstremistisk innhold. Mindre plattformer
-og oppstartsbedrifter kan derimot få utfordringer
-med å implementere og følge forskriftene. Kravene kan få en nedkjølende effekt på innovasjon
-og oppstartsbedrifter i teknologibransjen. Mangel
-
-på moderatorer kan gjøre det enkelt for ekstremistiske aktører å unngå moderering.8
-DSA forbyr ekstremistisk innhold. Ekstremister bruker imidlertid sosiale medier og ny teknologi til å promotere ekstremistisk innhold og
-påvirke brukere, og er fleksible i sine metoder. De
-tilpasser seg raskt nye regler og utvikler strategier for å unngå utestengelse fra plattformer. Både
-høyreekstremister og ekstreme islamister kan
-unngå å bli sensurert eller utestengt fra plattformer ved å tilpasse budskapet, for eksempel ved å
-endre begreper. Det gjør at vanlige strategier for
-moderering på nett (forby ord, begreper og symboler) raskt blir ineffektive. Et eksempel er den
-før nevnte videoen av Christchurch-terroren i
-2019, som Facebook Live fjernet kort tid etter
-hendelsen. Støttespillere la imidlertid ut kopier av
-opptaket på YouTube, LiveLeak, BitChute og forskjellige arkivsider. Moderatorene slet med å
-fjerne de forskjellige innleggene fordi brukere
-manipulerte videoen nøye ved å endre videokvaliteten og spille inn videoen på nytt for å unngå
-enkel gjenkjenning.
-DSAs modell for innholdsmoderering kan også
-gå glipp av enkelte av de metoder som brukes til å
-spre ekstremisme på sosiale medier. Algoritmiske
-rangeringsendringer kan dempe promotering av
-hatefullt innhold, men de hindrer ikke influensere i å
-spre ekstremistisk innhold på plattformene sine. For
-eksempel har høyreekstreme kvinner og alt-rightinfluensere utnyttet strukturen til sosiale medier for
-å nå ut med sin ideologi til et stort publikum.9
-YouTube kan også brukes til å påvirke brukere til å
-bevege seg videre mot plattformer med svakere
-eller få regler for innholdsmoderering. Selv om DSA
-vil gi viktige redskaper for å forebygge spredning av
-ekstremistisk innhold på nett, vil også ekstreme
-krefter tilpasse seg og finne nye veier til å formidle
-og spre sitt budskap.
-Forordningen er for tiden til vurdering i Norge
-og de andre EFTA-landene, og det er opprettet en
-arbeidsgruppe ledet av Digitaliserings- og forvaltningsdepartementet.10 Arbeidsgruppen har blant
-annet begynt prosessen med å vurdere mulige
-modeller for den nasjonale håndhevingen. Av Norges posisjonsnotat om forordningen følger det at
-regjeringen anser det som en fordel om forordningen blir en del av EØS-avtalen.11 I september 2023
-
-4
-
-8
-
-5
-
-6
-7
-
-Kommunal- og distriktsdepartementet 2022a
-DSA kaller disse plattformene og søkemotorene for Very
-large online platforms (VLOPs) og Very large search engines
-(VLOSEs)
-NOU 2022: 9, s. 138
-Malone 2022
-
-Malone 2022
-Leidig 2023
-10 Korrespondanse mellom kommisjonens sekretariat og
-Digitaliserings- og forvaltningsdepartementet, 31. januar
-2024
-11 Kommunal- og distriktsdepartementet 2022a
-9
+# Innledning
 
-[Side 161]
+Norge er blant de mest digitaliserte landene i verden.[^843] Både voksne og barn lever store deler av sin hverdag på nettet, og med sosiale medier og ny medieteknologi blir mennesker stadig mer sammenflettet. En hyperkoblet verden der milliarder av mennesker kan kommunisere over høyhastighetsnett, gir mange muligheter. For eksempel åpner det for en bredere deltakelse i den offentlige debatten og mer involvering av befolkningen i demokratiske prosesser. Like fullt har den teknologiske utviklingen mange og store fallgruver, både for samfunnet generelt og for ekstremismefeltet spesielt.
 
-NOU 2024: 3
+Ekstremister bruker sosiale medier og ny teknologi til radikalisering, rekruttering, opplæring, terrorplanlegging, innsamling av informasjon, kommunikasjon, forberedelse, propaganda og finansiering.[^844] Den raske utviklingen innebærer at plattformene hvor ekstreme holdninger deles og videreutvikles, blir mer avanserte. Ny teknologi kan spre informasjon på nye måter som gjør at desinformasjon, hatefulle ytringer, voldelig ekstremisme eller annet skadelig innhold når ut til et bredere publikum og kan få større negative ringvirkninger enn tidligere. Nye ekstremistiske nettsamfunn og kommunikasjonsmåter dukker opp i stor skala og i et raskt tempo som gjør det utfordrende å holde seg oppdatert på trender og trusselbilder. Selve størrelsen på den digitale verdenen av tekst, videoer og bilder gjør det nærmest umulig å ha full oversikt i sanntid.
 
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
+Teknologiutviklingen gjør at geografisk avstand betyr mindre. På mange samfunnsområder er denne delen av globaliseringen positiv. Når det gjelder drivere for radikalisering og ekstremisme, er bildet mer nyansert. Radikaliseringstrender kan raskere migrere eller «smitte» fra et land til et annet. Nye teknologiske instrumenter gjør det også enklere å oversette innhold fra og til norsk. Teknologiutviklingen gjør derfor at samfunnet i enda større grad smelter sammen med resten av verden. Det blir vanskeligere å «holde verden ute».
 
-ble det publisert en rapport om DSA og aktører i
-det norske internettmarkedet. Rapporten fremhevet omfanget av aktører og kompleksiteten i markedet for internettbaserte plattformer. Rapporten
-fremhevet at nasjonal håndheving av forordningen er avhengig av høy teknologi- og regelverks-
+Revolusjonerende utvikling innen kunstig intelligens gjør også at metodene for å spre ytringer, meninger og tankegods endrer seg raskt. I 2021 viste den britiske MI6-sjefen i sin åpne trusselvurdering til at teknologiutviklingen det neste tiåret kunne gå lenger enn det siste århundret.[^845]
 
-159
+Samtidig gir teknologiutviklingen nye redskaper i innsatsen mot radikalisering og ekstremisme. Ny teknologi, inkludert kunstig intelligens, gir styresmaktene kraftfulle verktøy til å kontrollere utviklingen gjennom preventive tiltak som overvåkning og kontroll av informasjon. Hensikten med tiltakene mot voldelig ekstremisme bør i siste instans være å bevare demokratiet og et sterkt menneskerettighetsvern for alle. Teknologien muliggjør likevel etter hvert så omfattende inngrep i borgernes sivile rettigheter at det ikke er ønskelig for samfunnet å ta i bruk alle virkemidler som finnes. Dersom samfunnet ikke finner en god balanse mellom rettighetsvern på den ene siden og inngrep med overvåkning og kontroll på den andre, kan iveren etter å beskytte samfunnet og grunnleggende verdier ende opp med å svekke menneskerettighetene og demokratiet som man søker å verne.
 
-Kapittel 16
+Det er vanskelig å forutse hvordan teknologiutviklingen vil påvirke radikalisering og voldelig ekstremisme. Myndighetenes tiltak og regulering blir derfor reaktiv og «hengende etter». Når styresmaktene benytter ny teknologi i kampen mot radikalisering og voldelig ekstremisme, må tempoet og omfanget kalibreres godt.
 
-kompetanse. Rapporten er bestilt av Nasjonal
-kommunikasjonsmyndighet, som er en mulig
-aktuell kandidat som DSA-koordinator og nasjonal
-tilsynsmyndighet.12
-12
+Det teknologiske landskapet er dynamisk og i stadig endring. Det samme gjelder måten ekstremistene utnytter teknologien. Kommisjonen har valgt å se nærmere på noen overordnede utviklingstrekk og trender. Denne delen handler om hvordan ekstremister bruker sosiale medier og andre digitale flater, hvordan kunstig intelligens og andre nye teknologier kan påvirke ekstremismefeltet, menneskerettslige utfordringer og hvordan myndighetene forsøker å møte disse utfordringene gjennom regulering.
 
-Lie, Kvalbein og Mageli 2023
+# Ekstremisme i sosiale medier og andre digitale flater
 
-[Side 162]
+Den nye digitale hverdagen har gjort det mulig for mennesker som ellers ikke ville ha møtt hverandre, å finne sammen uavhengig av geografiske barrierer, sosiale identiteter og politiske forskjeller.[^846] Sosiale medier har senket terskelen for hvem som kan ytre seg og delta i det offentlige rom og bidra i meningsutvekslingen. Samtidig blir personer som ytrer seg på digitale flater imidlertid også utsatt for hatytringer, hets og trakassering på grunn av sitt engasjement og sin reelle eller antatte gruppetilhørighet.[^847]
 
-160
+Sosiale medier blir stadig mer brukt av ekstremistiske partier, bevegelser, grupper og enkeltpersoner.[^848] Gratis eller rimelige strømmetjenester, fillagringsplattformer og ende-til-ende-krypterte kommunikasjonsapplikasjoner har gjort det enklere å dele ekstremistisk propaganda.[^849] Ulike ekstremistiske aktører kan raskt og rimelig nå ut med sitt budskap og alternative virkelighetsforståelser til et stort, globalt publikum.[^850]
 
-NOU 2024: 3
+Sosiale medier kan legge til rette for ekstremisme ved å muliggjøre hurtig og ofte anonym spredning av propaganda. Det er lett å komme over hatytringer og oppfordringer til ekstremistisk vold på ulike sosiale medier som TikTok, Instagram, YouTube, Meta og X. En studie av TikTok basert på et utvalg av 1030 videoer viste hvordan videodelingsappen brukes til å spre rasistiske konspirasjonsfortellinger om hvit overmakt, instruksjonsvideoer om våpenproduksjon, glorifisering av ekstremister og terrorister, målrettet hets av minoriteter og holocaustbenektelse.[^851]
 
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-2024
-
-[Side 163]
-
-Del IV
-Radikalisering
+Kunstig intelligens kan forsterke denne utviklingen. Ekstremister kan benytte sofistikerte redskaper for tekstbehandling eller manipulasjon av lyd, bilde og video for å skreddersy sine budskap. Kunstig intelligens kan også øke rekkevidden til ekstremistiske grupperinger fordi det vil gi dem mulighet til å nå ut i et helt annet omfang, til nye grupper og på nye språk. Kunstig intelligens omtales videre i kapittel 14.
 
-[Side 164]
-
-[Side 165]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-163
-
-Kapittel 17
-
-Kapittel 17
-
-Innledning
-Et av de store spørsmålene på ekstremismefeltet
-er hvorfor noen radikaliseres. For å svare på dette
-må man se nærmere på de som radikaliseres –
-hvem er de, og hva har de opplevd? Hva er det
-som motiverer og trekker noen inn i voldelig
-ekstremisme?
-Det er gjort flere forsøk på å forklare hvordan
-og hvorfor radikalisering skjer, og det finnes
-mange ulike teorier og modeller. Sosioøkonomiske forhold, ideologi og sosiale relasjoner som
-vennskap og slektskap er faktorer som ofte trekkes frem. Det er imidlertid ulike oppfatninger av
-hvordan disse faktorene samvirker, og hvordan de
-skal vektes.
-Kommisjonens mandat omfatter både voldelig
-ekstremisme og ekstremisme som aktiv motstand
-mot menneskerettigheter og demokrati. Denne
-delen handler om voldelig ekstremisme. Det finnes også flere forståelser av begrepet radikalisering. Kommisjonen legger til grunn PSTs forståelse av radikalisering.1 Dette er i tråd med mandatet. Denne går ut på at radikalisering er en prosess der en person utvikler aksept for eller vilje til
-
-aktivt å støtte eller delta i voldshandlinger for å
-oppnå politiske, religiøse eller ideologiske mål.
-Denne delen ser nærmere på eksisterende
-kunnskap om hvordan og hvorfor noen radikaliseres, hvem de radikaliserte er, og hvordan man kan
-fange opp dem som er i ferd med å bli radikalisert.
-Dette omfatter ulike modeller og teorier for å forklare og beskrive radikaliseringsprosesser, inkludert de som brukes av norske myndigheter.
-Risiko-, sårbarhets- og beskyttelsesfaktorer for
-voksne og barn og motivasjonsfaktorer for radikalisering og samspillet mellom fysiske og digitale
-miljøer omtales også. Det såkalte bekymringsarbeidet og bruken av risikovurderingsverktøy er
-også inkludert i denne delen. Arbeidet med å forebygge radikalisering og hjelpe personer ut av radikaliseringsprosesser er omtalt i del V. Kommisjonens egen gjennomgang av saker om norske
-ekstremister og deres radikalisering følger i del
-VIII.
-1
-
-Se kapittel 4.2 Hva er radikalisering?
-
-[Side 166]
-
-164
-
-Kapittel 18
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 18
-
-Hvordan skjer radikalisering?
-Det finnes ulike teorier og modeller for å beskrive
-eller forklare radikaliseringsprosesser. I dette
-kapittelet redegjøres det for noen av disse.
-
-18.1 Lineære modeller
-Noen av modellene som forsøker å beskrive radikaliseringsprosesser er stegvise og lineære. Et
-eksempel er å fremstille radikaliseringsprosessen
-som en trapp som gradvis blir smalere (Staircase
-to Terrorism). Det er få som vil gå helt til toppen
-av trappen og gjennomføre en terrorhandling.1
-Trappen har flere etasjer:
-• Grunnetasjen omfatter alle mennesker i samfunnet. De som oppfatter levevilkårene sine
-som rimelige og aksepterer gjeldende politikk,
-vil forbli der.
-• De som beveger seg opp i første etasje, ønsker
-å kjempe mot opplevd urettferdighet og ser på
-muligheter for å forbedre situasjonen sin, for
-eksempel gjennom legitim politisk aktivisme
-og protest.
-• De som ikke er fornøyde med de tilgjengelige
-mulighetene eller virkemidlene, beveger seg
-opp i andre etasje. Her ser man etter noen å
-legge skylden på og retter sin politiske misnøye og sitt sinne mot myndighetene eller etablerer fiendebilder av andre.
-• I tredje etasje søker personen seg til andre som
-har samme tankesett, og som aksepterer at
-vold er et middel for å nå målet.
-• Går en person videre til fjerde etasje, innebærer det at gruppen som personen har søkt
-seg til, isolerer seg og etablerer et bilde av «oss
-mot dem».
-• I den siste etasjen tyr personene til slutt til vold
-for å oppnå politisk endring eller omveltning.
-Et sentralt poeng i denne modellen er at etasjene
-eller trinnene kommer i en bestemt rekkefølge,
-og at de bygger på hverandre.2
-1
-
-Moghaddam 2005
-
-En annen kjent tilnærming kalles Social
-Movement Theory og inkluderer konseptet «kognitiv åpning»,3 som blant annet brukes på det offentlige nettstedet utveier.no.4 Målet med denne
-modellen er å forstå hvorfor personer som bor i
-Vesten, slutter seg til ekstreme islamistiske grupper. Teorien inkluderer fire prosesser som øker
-risikoen for at en person vil trekkes til ekstrem
-islamisme og til slutt bli overbevist om å bidra til
-terror.
-• Den første av fasene er en såkalt kognitiv
-åpning, som er en tilstand hvor personen er
-særlig sårbar og mottakelig. Tilstanden er
-gjerne forårsaket av en krise, traumatisk hendelse eller ubehagelig opplevelse, enten på
-individnivå eller som en mer kollektiv erfaring.
-• En slik åpning vil ofte sette i gang den andre
-fasen, som er en søken etter mening, ofte religiøst rettet.
-• Tredje fase kalles frame alignment (rammeforankring) og innebærer at den aktuelle personen fatter interesse for en ekstremistisk
-gruppe og opplever at gruppens verdensbilde
-gir mening.
-• Den fjerde og siste fasen kan ifølge teorien
-bare inntreffe etter at personen har gått gjennom de andre fasene. Her blir personen sosialisert inn i den ekstreme organisasjonen via religiøs opplæring og aktiviteter som tilrettelegger
-for indoktrinering.5
-Gjennom en case-studie av den ekstreme grupperingen Al Muhajiroun i Storbritannia ble det dokumentert at karismatiske lederskikkelser og farsfigurer i ekstremistiske miljøer har stor betydning
-for rammeforankring og sosialisering.6
-
-2
-3
-4
-5
-6
-
-Førde, Andersen og Hellevik 2023
-Wiktorowicz 2005
-Utveier.no omtales i kapittel 28.4 Regionale ressurssentre
-om vold, traumatisk stress og selvmordsforebygging
-Førde, Andersen og Hellevik 2023
-Wiktorowicz 2005
-
-[Side 167]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-I den nasjonale veilederen for forebygging av
-radikalisering og voldelig ekstremisme brukes
-også en variant av en lineær modell, kalt radikaliseringstunnelen.7 Den beskriver hvordan individer som i utgangspunktet ikke har en intensjon
-om å bruke vold, utvikler denne intensjonen over
-tid dersom bestemte faktorer virker inn. Veilederen viser til at personen vil bli eksponert for et
-snevert og ensidig syn på verden, og den trekker
-frem blant annet betydningen av radikalisatorer,
-altså personer som motiverer eller inviterer inn i
-et ekstremt fellesskap, og utløsere i form av personlige kriser eller lignende. Det vektlegges at
-ikke alle går gjennom hele tunnelen, men at noen
-gjør det – enkelte raskere enn andre. Mens noen
-ender opp med voldsintensjon og -kapasitet, er det
-andre som ikke gjør det.8
-Radikaliseringstunnelen har imidlertid ikke et
-godt forskningsmessig belegg, og modeller som
-fremstiller radikalisering som en lineær, stegvis
-prosess, har generelt blitt utfordret og kritisert.
-Noe av kritikken går på at det er lite empiri som
-understøtter modellene, og at det finnes flere
-eksempler på at personer som har begått ekstremistisk vold, ikke har gått gjennom alle stegene
-slik modellene beskriver. Modellene er også kritisert for å legge for mye vekt på kognitive prosesser
-sammenlignet med det sosiale.9 Den såkalte bunch
-of guys-teorien legger for eksempel til grunn at de
-sosiale båndene gjerne kommer først, enten ved at
-et vennenettverk utvikler seg til et terrornettverk,
-eller ved at en person blir rekruttert til ekstremistiske grupper av en venn eller slektning.10
-
-18.2 Andre tilnærminger til
-radikalisering
-Modellene ovenfor forutsetter en kausalitet mellom ekstreme holdninger eller ideer og voldelige
-handlinger. Endringer i holdninger forårsaker
-imidlertid ikke nødvendigvis endringer i
-handlinger. En alternativ tilnærming kan derfor
-være begrepsparene radikalisering/deradikalisering og deltakelse/avvikling (engagement/disengagement)».11 Radikalisering/deradikalisering handler om endring i holdningen til å bruke vold som
-politisk virkemiddel, mens det andre refererer til
-endret atferd, det vil si deltakelse i eller avvikling
-7
-
-Justis- og beredskapsdepartementet 2015a
-Regjeringen 2016c
-9 Førde, Andersen og Hellevik 2023
-10
-Sageman 2004; Førde, Andersen og Hellevik 2023
-11 Bjørgo og Horgan 2009
-8
-
-165
-
-Kapittel 18
-
-av voldelige aktiviteter. Denne tilnærmingen legger til grunn at holdninger ikke nødvendigvis forårsaker ekstremistisk vold eller deltakelse i
-ekstreme grupper. Årsaksforholdet kan like
-gjerne være motsatt. Dette innebærer på den ene
-siden at en ekstremist kan slutte å bruke vold
-uten å kvitte seg med sin ekstremistiske ideologi,
-og på den andre siden at en person kan fortsette
-med ekstremistisk vold selv om holdningene
-endrer seg.12
-Et slikt skille mellom holdninger og
-handlinger kan imidlertid stå i motsetning til et
-holistisk blikk på ekstremismen.13 Denne tilnærmingen vektlegger at man bør ta høyde for hvordan slike prosesser forholder seg til hverandre, og
-være oppmerksom på den historiske og politiske
-konteksten ekstremismen oppsto og eksisterer
-i.14 At det ikke er noen absolutt sammenheng mellom holdning og handling i forbindelse med radikalisering, gjør det også vanskelig å vurdere når
-tiltak skal iverksettes.15
-Det har blitt gjennomført empiriske studier
-som har undersøkt fellestrekk og faktorer ved
-personer som ender opp med å begå ekstremistisk vold.16 Disse studiene måler korrelasjon mellom bakgrunnsvariabler som alder, kjønn, sosioøkonomisk bakgrunn og ekstremistisk vold. De
-kan fortelle noe om hva som karakteriserer flertallet av dem som ender opp som voldelige ekstremister. En svakhet ved slike studier er at de ikke
-gir årsakssammenhengen. De forklarer ikke hvorfor det store flertallet med samme bakgrunn som
-ekstremister ikke blir ekstremister, og hvorfor
-mange som skiller seg fra gjennomsnittsekstremisten, for eksempel gjennom å ha relativt god
-sosioøkonomisk status, likevel blir voldelige
-ekstremister. Årsaksforholdene vil i mange tilfeller være så komplekse at individuelle egenskaper
-og historie ikke vil være nok til å gi en «terroristprofil» som vil kunne anvendes på andre personer
-i nåtiden eller i fremtiden.17
-Radikalisering kan skje innen alle typer livssyn, kulturell bakgrunn, ideologier og politiske
-retninger. Det kan være mange ulike innganger til
-radikaliseringsprosesser, og forløpene er individuelle og varierer i tempo, varighet og innhold.18
-12
-
-Førde, Andersen og Hellevik 2023
-Neumann 2013
-14 Førde, Andersen og Hellevik 2023
-15 Kriminalomsorgens høgskole og utdanningssenter 2016
-16 Førde, Andersen og Hellevik 2023 med videre henvisninger
-17
-Førde, Andersen og Hellevik 2023
-18 Justis- og beredskapsdepartementet 2015a
-13
-
-[Side 168]
-
-166
-
-Kapittel 18
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Flere som gjennomgår en form for radikaliseringsprosess, ender ikke opp med å begå ekstremistisk vold. Det finnes også eksempler på personer som ender opp med å begå for eksempel politisk vold, men som ikke kan sies å ha gjennomgått
-en «typisk» radikaliseringsprosess.19
-Radikalisering er med andre ord ikke en
-enveisgate, og det er ikke automatikk i overgangen fra ekstreme politiske holdninger til voldelig
-ekstremisme. Noen beveger seg først i retning av
-voldsstøttende ideologi, men deretter bort der19
-
-Kruse 2018
-
-fra.20 Som gjennomgangen ovenfor viser, gir ikke
-forskningen entydige svar på hva som kjennetegner en radikaliseringsprosess. Radikalisering er et
-sammensatt fenomen, og selv om mange modeller
-søker å forklare radikalisering som en lineær prosess hvor den ene fasen etterfølges av den andre,
-er det nok flere holdepunkter for at radikalisering
-vanligvis er en ikke-lineær og dynamisk prosess.21
-20
-21
-
-Lenz 2020a
-Ahmed og Obaidi 2020
-
-[Side 169]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-167
-
-Kapittel 19
-
-Kapittel 19
-
-Risiko-, sårbarhets- og beskyttelsesfaktorer
-19.1 Hvilke faktorer kan påvirke en
-person som radikaliseres?
-Mange ulike forhold kan påvirke faren for at en
-person radikaliseres til voldelig ekstremisme.
-Eksempler på slike faktorer kan være traumer, løs
-tilknytning til arbeidslivet eller opplevd avmakt. I
-regjeringens nasjonale veileder for forebygging av
-radikalisering og voldelig ekstremisme brukes
-begrepet risikofaktorer, mens PST i sine rapporter bruker sårbarhetsfaktorer.1 Mens «risiko»
-språklig sett peker på faren for at personen radikaliseres og slik kan utgjøre en trussel for samfunnet, indikerer ordet «sårbarhet» i større grad at
-det handler om faktorer ved individene eller deres
-bakgrunn, delvis utenfor deres kontroll, som gjør
-dem mer utsatt for radikalisering. Disse to betegnelsene brukes ofte om de samme faktorene. I det
-følgende vil kommisjonen bruke begrepet risikoog sårbarhetsfaktorer for å dekke begge perspektiver. Beskyttelsesfaktorer er på sin side forhold
-som demper risikoen for å utvikle problemer når
-1
-
-Justis- og beredskapsdepartementet 2015b; PST 2019; PST
-2016
-
-Struktur
-
-Samfunn
-
-Relasjon
-
-risiko- og sårbarhetsfaktorer er til stede. Dette
-kan for eksempel være stabile sosiale relasjoner.
-For å forstå hva som kan være årsakene til radikalisering, er det viktig å ikke bare se på enkelte
-faktorer, men også å ta hensyn til samspillet mellom faktorene. I den nasjonale veilederen om radikalisering og voldelig ekstremisme illustreres dette
-gjennom den holistiske modellen, jf. figur 19.1.
-En annen måte å illustrere de ulike nivåene på
-er en såkalt «økologisk modell».2 Modellen illustrerer at det er faktorer på mange ulike nivåer
-som kan spille inn i en persons radikaliseringsprosess, at faktorene vil ha forskjellig innvirkning på
-den enkelte, og at samspillet mellom dem vil være
-unikt i hver enkelt sak.
-Det er ofte en eller flere risiko- og sårbarhetsfaktorer som ligger til grunn hos den som radikaliseres.3 Både norske og andre europeiske studier
-av radikalisering viser at mange har hatt ulike typer
-problemer i livet i forkant av radikaliseringsprosessen.4 Noen studier har også vist at dette brukes
-2
-3
-4
-
-Flynn og Mathias 2023
-Lenz 2020b
-Politiets sikkerhetstjeneste 2016
-
-Individ
-
-Figur 19.1 Den holistiske modellen
-Den holistiske modellen består av fire sirkler som representerer de fire ulike nivåene individ, relasjon, samfunn og struktur. Den innerste sirkelen viser til forklaringer som er knyttet til enkeltindividet, mens den andre handler om relasjonelle faktorer. Den
-tredje sirkelen representerer samfunnsnivået, som kan være for eksempel utdanning, arbeidsliv og sosiale nettverk. Den fjerde
-og ytterste sirkelen representerer større kulturelle og strukturelle forklaringer. Dette kan være diskriminerende strukturer i
-samfunnet og økonomisk status. Det er risiko- og beskyttelsesfaktorer på alle nivåene. Modellen brukes blant annet av Verdens
-helseorganisasjon (WHO).
-Kilde: Justis- og beredskapsdepartementet, 2015b
-
-[Side 170]
-
-168
-
-Kapittel 19
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-bevisst av ekstreme miljøer og ledere i forsøket på
-å rekruttere personer.5 Risiko- og sårbarhetsfaktorer utgjør imidlertid ikke nødvendigvis de utløsende årsakene til radikalisering, men kan ses som
-medvirkende årsaker.6 At noen for eksempel har
-hatt en vanskelig oppvekst eller har psykiske vansker eller rusproblemer, behøver følgelig ikke å
-indikere fare for radikalisering og ekstremisme.7
-Ofte handler det om helt grunnleggende menneskelige behov som ikke oppfylles.8 I beskrivelsen
-av risiko- og sårbarhetsfaktorer brukes ofte betegnelsen «opplevelsen av», for eksempel opplevd
-avmakt, utenforskap eller krenkelse. Uten å
-underkjenne den faktiske belastningen, er den
-5
-6
-7
-8
-
-Wiktorowicz 2005
-Sjøen 2019
-Utveier u.å.-a
-Lenz 2020b
-
-subjektive oppfatningen av egen situasjon ofte
-utslagsgivende. For eksempel kan man objektivt
-sett befinne seg i en trygg sosioøkonomisk situasjon og likevel oppleve harme over at andre får de
-godene man mener man selv eller ens gruppe har
-krav på, slik man blant annet ser i høyreekstremistisk propaganda.9
-De fleste mennesker har en eller flere beskyttende faktorer. Dette kan være alt fra personlige
-faktorer som evnen til kritisk tenkning eller mestringsfølelse, til faktorer som opplevelsen av gode
-familieforhold, gode sosiale nettverk eller et generelt stabilt miljø.10 Opplevd tilhørighet til samfunnet gjennom skole, trossamfunn, idrett eller andre
-aktiviteter i nærmiljøet kan også spille inn. I noen
-tilfeller kan imidlertid det som tilsynelatende
-9
-10
-
-Lenz 2020b
-Basit 2018
-
-Boks 19.1 Risiko- og sårbarhetsfaktorer
-Nedenfor er en oversikt over eksempler på risiko• Fattigdom eller arbeidsledighet
-• Vold eller annen omsorgssvikt
-og sårbarhetsfaktorer som ofte nevnes i sammen• Ekstreme sympatier hos venner/familie
-heng med radikalisering og voldelig ekstremisme. Oversikten er hentet fra SaLTos «Veileder
-Sosiale faktorer
-ved bekymring – Hvordan forebygge og håndtere
-1
-hatkriminalitet og voldelig ekstremisme».
-• Lav sosial status
-• Mangler/søker tilhørighet
-• Marginalisert ungdom
-Personlige faktorer
-• Opplevd diskriminering
-• Negativ påvirkning av venner
-• Marginalisert/diskriminert
-• Liten/ingen deltakelse i sosiale fellesskap
-• Mangler/søker tilhørighet
-• Arbeidsledig
-• Skolerelaterte problemer
-• Livsstil som omfatter kriminalitet
-• Psykiske problemer
-• Utrygt lokalområde
-• Mangler kunnskap
-• Traumatiske opplevelser
-• Tap av forsørger/omsorgsperson
-Ideologiske og kulturelle faktorer
-• Søkende etter svar
-• Individuell sårbarhet
-• Politisk debatt – kulturell identitet
-• Betrakter seg selv som offer
-• Opplevelse av avmakt, ikke få komme til, bli
-• Mangler selvkontroll/impulsiv
-kansellert
-• Misnøye med sosial og økonomisk urettferdighet
-Familiemessige faktorer
-• Legitimering og rettferdiggjøring av vold for
-å nå mål
-• Påvirkning av transnasjonalt familieliv og
-• Sympati for absolutte løsninger
-nettverk
-• Konspirasjonsteorier
-• Foreldre som sliter i foreldrerollen
-• Polariserende fiendebilder
-• Sosiale problemer i familien
-• Psykiske problemer i familien
-1 Listen er hentet i sin helhet fra Oslo politidistrikt og Oslo
-• Rusmisbruk
-kommune 2015
-
-[Side 171]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-169
-
-Kapittel 19
-
-Boks 19.2 Beskyttelsesfaktorer
-Nedenfor er en liste over noen beskyttelsesfakFamiliemessige faktorer
-torer som ofte nevnes i forbindelse med radikalisering og voldelig ekstremisme. Listen er hentet
-• Ressurssterk familie
-fra SaLTos «Veileder ved bekymring – Hvordan
-• Høy sosioøkonomisk status
-forebygge og håndtere hatkriminalitet og volde• Støttende foreldre
-1:
-lig ekstremisme»
-• God kommunikasjon og samspill
-Personlige faktorer
-
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-
-Reflektert ungdom
-God skolesituasjon
-Hobbyer eller aktiv i idrett
-Mestringsfølelse
-Robust
-Opplevelse av mening
-Opplevelse av tilhørighet
-Selvtillit
-Livskvalitet
-God helse
-
-Sosiale faktorer
-
-•
-•
-•
-•
-•
-•
-
-Ideologiske og kulturelle faktorer
-
-•
-•
-1
-
-fremstår som beskyttende faktorer, slik som familieforhold og sosialt nettverk, slå ut motsatt dersom familie eller venner selv er radikalisert.
-
-19.2 Sosiale og økonomiske forhold
-Risiko- og sårbarhetsfaktorer for radikalisering
-inkluderer utfordringer i en persons sosioøkonomiske situasjon. Slike utfordringer kan være lav
-sosial status, manglende utdanning, løs tilknytning til arbeidslivet, arbeidsledighet eller dårlig
-råd.
-De fleste i Norge har gode levekår og relativt
-god økonomi. Inntektsforskjellene i Norge har
-imidlertid økt de siste årene, slik det har gjort i
-andre land. Andelen lavinntektshusholdninger har
-blitt stadig større,11 og en av fem nordmenn har
-nå en sårbar økonomi.12 Det er vanskelig å ikke
-kunne eller oppleve å ikke kunne bedre sin økonomiske eller sosiale status i samfunnet. Dette kan
-11
-12
-
-Meld. St. 28 (2022–2023)
-With 2023
-
-Positiv påvirkning av venner
-Skole eller arbeid
-Prososiale venner
-Deltakelse i storsamfunnet
-Deltakelse i organiserte eller/og uorganiserte aktiviteter
-Trygt lokalområde/-samfunn
-
-Forståelse for demokrati, valgfrihet, toleranse og respekt for mangfold
-Kritisk til kilder og informasjon
-Listen er hentet i sin helhet fra Oslo politidistrikt og Oslo
-kommune 2015
-
-føre til sosial frustrasjon.13 Økte sosiale forskjeller
-kan også forsterke en følelse av urettferdighet,
-noe som i seg selv er en risikofaktor.
-Arbeidslivet er noe som i all hovedsak er helsefremmende, da det er med på å gi økonomisk
-trygghet, struktur i hverdagen, tilhørighet og økt
-selvfølelse. En stor del av norske ekstremister er
-ikke i arbeid, eller har en løs tilknytning til
-arbeidslivet.14 Dette kan gi en opplevelse av manglende tilhørighet til samfunnet. Lediggang kan gi
-tid til å fordype seg i ekstremt tankegods. Kravene
-til formell utdanning er økende i norsk arbeidsliv,
-og kan gjøre det vanskelig for personer med lav
-utdanning å komme inn på arbeidsmarkedet.15
-At personer som står utenfor arbeidslivet og
-har dårlig økonomi radikaliseres, kan kalles hypotesen om sosial ekskludering.16 Forskningen på
-dette er ikke helt entydig. En studie i Storbritannia viste at blant medlemmer av det høyreradikale
-13
-
-Ekornås 2018
-Politiets sikkerhetstjeneste 2016; Politiets sikkerhetstjeneste 2019
-15 Politiets sikkerhetstjeneste 2019
-16
-Pfundmair, Wood, Hales og Wesselmann 2022
-14
-
-[Side 172]
-
-170
-
-Kapittel 19
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 19.3 Norske radikaliserte: Kjønn, alder og lokasjon
-PST har gitt ut to rapporter om bakgrunnen til
-tilfellet på 1990-tallet fordi utvalget inkluderer
-personer i ekstreme islamistiske miljøer og perflere eldre personer. Dette gjelder særlig den
-soner i høyreekstreme miljøer i Norge.1
-innvandrings- og islamfiendtlige høyreekstreI begge de representative utvalgene som
-mismen. Noen forskere har påpekt at dette innePST har gjort, er menn i betydelig overvekt. En
-bærer at man må tenke nytt rundt forebygging,
-forklaring på denne kjønnsfordelingen i høyreettersom mange av dem som er høyreekstreme,
-ekstreme miljøer kan være at det maskuline blir
-verken går på skole eller deltar på andre arenaer
-idealisert og fremhevet, og at det er en tydelig
-som ungdomsklubber.2 Dette bredere aldersspennet
-skiller
-høyreekstremismen
-fra
-antifeminisme og idealisering av tradisjonelle
-ekstreme islamistiske miljøer, som er preget av
-kjønnsrollemønstre. Dette kan være med på å
-primært unge menn.
-gjøre disse miljøene mindre attraktive for kvinI sitt utvalg har PST sett at de fleste personer. Når det gjelder ekstrem islamisme, er det
-nene i høyreekstreme miljøer er bosatt på Østmenn som tilbys rollen som «hellig kriger».
-landet. Kun et mindretall er bosatt i hovedstaDette endret seg noe etter fremveksten av IS,
-den, noe som ifølge PST kan tyde på at grobunsom i større grad enn al-Qaida laget propaganda
-nen for høyreekstreme holdninger er noe minrettet mot kvinner og fremhevet at kvinnene
-dre i storbyer enn i mer landlige strøk. En langt
-hadde en rolle i byggingen av den islamske stastørre andel ekstreme islamister var derimot
-ten ved å stifte familie. PST pekte på at før Syriabosatt i Oslo.
-konflikten var det nesten ingen kvinner i de
-I del VIII omtales saksgjennomgangen der
-kjente ekstremistiske miljøene i Norge, mens
-kommisjonen selv har gjennomgått 20 saker om
-kvinner på tidspunktet for rapporten utgjorde
-norske radikaliserte.
-hele tolv prosent av utvalget.
-Når det gjelder alder, fant PST at personer
-1 Politiets sikkerhetstjeneste 2016; Politiets sikkerhetstjesom radikaliseres til høyreekstremisme, i dag
-neste 2019
-utgjør et bredere aldersspenn enn det som var
-2 Hansen, Lied, Krokene, Bratlie og Hovdal 2023
-
-partiet English Defence League var ikke arbeidsledigheten eller andelen bosatte i sosiale boliger
-større enn i befolkningen generelt. Imidlertid
-støttet studien opp om at de radikaliserte var lavt
-utdannede, og kun et fåtall hadde høyere utdanning.17
-Også når det gjelder utdanningsnivå, er bildet
-sammensatt. Blant annet kan det være forskjell på
-utdanningsnivået til lederne og «fotsoldatene» i
-ekstreme grupper. I Norge er det gjennomgående
-lavt utdanningsnivå både i de ekstreme islamistiske miljøene og de høyreekstreme miljøene.18
-Omtrent halvparten av de ekstreme islamistene
-og to femtedeler av høyreekstremistene har kun
-fullført grunnskolen. I de ekstreme islamistiske
-miljøene har så å si ingen fullført høyere utdanning, mens dette tallet er noe høyere i de høyreekstreme miljøene. Utdanningsnivået er imidlertid
-vist å være lavere enn i befolkningen generelt. I
-
-2016 pekte PST på at siden undersøkelsen de
-gjorde av ekstreme islamistiske miljøer i Norge
-viste liten sosial variasjon, kunne det stilles spørsmål ved om dette er «det fulle norske bildet», eller
-om det også foregikk radikalisering i miljøer som
-var mer ressurssterke, uten at PST har fanget
-dette opp.19 Kommisjonen er ikke kjent med informasjon som tilsier at dette bildet har endret seg. I
-2023 ble imidlertid en ung mann dømt til fem år i
-fengsel for deltagelse i al-Qaida mens han studerte medisin i utlandet. Han hadde samtidig flere
-risiko- og sårbarhetsfaktorer fra sin barndom.20
-Forskning på islamistiske terrorplaner i
-Europa har vist at det store flertallet av de involverte manglet høyere utdanning, men at det finnes unntak i form av terrorister som var høyt
-utdannet, og som gjerne fungerte som leder av
-terrorcellen.21 Selv om det er variasjoner, viser
-studier at ekstreme islamistiske ledere internasjo-
-
-17
-
-19
-
-18
-
-Goodwin, Cutts og Janta-Lipinski 2016
-Politiets sikkerhetstjeneste 2016; Politiets sikkerhetstjeneste 2019
-
-Politiets sikkerhetstjeneste 2016
-LB-2023-126527 (Borgarting lagmannsrett)
-21
-Nesser 2018
-20
-
-[Side 173]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-nalt jevnt over har et høyere utdanningsnivå.22
-Det er vist at en uforholdsmessig stor andel av
-ekstreme islamister har ingeniørbakgrunn. De
-fleste av disse ble ikke rekruttert inn i ekstremisme, men var heller en som etablerte eller ledet
-gruppen eller nettverket.23
-Ulike studier har også sett på utdanningsnivå
-og arbeidslivstilknytning hos fremmedkrigere
-som dro til Syria. I Europa kom flertallet fra de
-lavere sosioøkonomiske rekkene i samfunnet,
-med lavere utdanningsnivå og høyere nivåer av
-arbeidsledighet.24 Dette stemmer med bildet av
-de norske fremmedkrigerne som dro til Syria.25
-Det er imidlertid noen landvariasjoner, blant
-annet syntes fremmedkrigere fra Storbritannia å
-ha noe høyere sosioøkonomisk status enn fremmedkrigere fra andre vestlige land.26
-En komparativ analyse av ulike studier viste
-motstridende konklusjoner når det gjelder forholdet mellom arbeidsledighet og utstrømningen av
-fremmedkrigere, noe som kan være et tegn på at
-problemet handler om relativ deprivasjon27 og
-ikke faktisk fattigdom.28 Andre studier har vist et
-noe sammensatt bilde. En FN-rapport som inkluderte fremmedkrigere med bakgrunn fra Europa,
-Midtøsten og Nord-Afrika, kom frem til at det var
-et relativt lavt utdanningsnivå og en høy andel
-som enten var arbeidsledige eller hadde lavtlønnede jobber,29 mens en rapport fra Verdensbanken kom frem til at en høy andel av fremmedkrigerne30 fra Midtøsten og Nord-Afrika som hadde
-sluttet seg til IS, hadde videregående skole eller
-universitetsutdanning.31
-Mange av fremmedkrigerne fra Norge var født
-i et annet land og kom til Norge i ungdomsårene. I
-PSTs undersøkelse av personer tilknyttet det
-ekstreme islamistiske miljøet i Norge hadde tre
-femtedeler selv innvandret til Norge, og kun en
-22
-
-Leeuwen og Weggemans 2018
-Gambetta og Hertog 2016
-24 Dawson 2021
-25 Politiets sikkerhetstjeneste 2016; Arntsen 2016
-26 Dawson 2021
-27 Relativ deprivasjon handler om hvordan mennesker opplever sin økonomiske situasjon eller status når de sammenligner med sine egne forventninger, med sin egen fortid
-eller med andre grupper i samfunnet
-28 Dawson 2021
-29 el-Said og Barrett 2017
-30
-Rapporten sier at tallene må brukes med varsomhet, da de
-er basert på selvrapportering. Det må derfor tas høyde for
-at noen av fremmedkrigerne kan ha oppgitt et høyere nivå
-enn de faktisk hadde. Tallene gjelder fremmedkrigere som
-sluttet seg til IS i 2013–2014
-31
-Devarajan, Mottaghi, Do, Brockmeyer, Joubert, Bhatia og
-Jelil 2016
-23
-
-171
-
-Kapittel 19
-
-femtedel av dem med minoritetsbakgrunn var født
-og oppvokst i Norge. Dette bildet skiller seg fra
-andre land. PST har pekt på at gruppen som selv
-har innvandret til Norge, har måttet tilpasse seg
-det norske samfunnet i barndoms- og ungdomstiden. Mange har bakgrunn fra konfliktområder.
-Siden det er så mange av dem i undersøkelsen, er
-det grunn til å tro at dette er en situasjon mange
-av dem har funnet utfordrende, eller at de har
-med seg vanskelige livserfaringer fra tiden før de
-kom til Norge.32
-
-19.3 Radikalisering og psykisk helse
-Psykiske helseplager er vanlig i befolkningen.
-Mange vil få en diagnose i løpet av livet.33 Det
-antas at bare en av tre personer med alvorlige psykiske lidelser i Norge har en diagnose. Det er funnet at psykiske lidelser hos norske barn er mindre
-utbredt enn hos barn i andre vestlige land.34
-Psykisk helse hos gjerningspersonen er ofte et
-tema når man prøver å forklare hvorfor noen
-begår ekstremistisk vold.35 Psykisk helse er for
-eksempel ofte et tema etter terrorhandlinger.36
-PST beskrev det slik i en rapport fra 2022:
-Avklaringen av hvorvidt en person som utfører
-en alvorlig voldshandling er motivert av en
-ekstrem politisk, religiøs eller ideologisk målsetning eller andre forhold som psykisk sykdom, eller en sammensetning av disse, kan
-være svært vanskelig. I slike tilfeller vil avklaringen som regel berøre mandatene til både
-politi, PST og helsetjenestene. (Politiets sikkerhetstjeneste, 2022c)
-
-Det er vist at såkalte soloterrorister har 13 ganger
-så stor risiko for å ha en psykisk lidelse som
-ekstremister som er medlemmer av grupper.
-Disse personene er vanskeligere å oppdage når de
-ikke tilhører et kjent miljø eller har en forhistorie
-med vold eller ekstremistisk atferd.37
-32
-
-Politiets sikkerhetstjeneste 2016
-RVTS 2021
-34 Kvello 2015
-35
-Se for eksempel Politiets sikkerhetstjeneste 2022c. Det er
-for øvrig nedsatt et utvalg som skal se nærmere på hvordan
-man kan ivareta personer med alvorlige psykiske lidelser
-som har begått kriminalitet. Utvalget skal levere sin utredning innen 1. september 2024. For mer informasjon, se Justis- og beredskapsdepartementet, Barne- og familiedepartementet og Helse- og omsorgsdepartementet 2023
-36 RVTS 2021
-37 Ekornås 2018
-33
-
-[Side 174]
-
-172
-
-Kapittel 19
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 19.4 Hva er psykisk helse?
-Psykisk helse som begrep er utfordrende å
-definere og konkretisere. Verdens helseorganisasjon (WHO) definerer psykisk helse som
-«en tilstand av velvære som setter individet i
-stand til å håndtere belastninger i livet, realisere sine egenskaper, leve godt og jobbe godt
-og bidra til (lokal)samfunnet».1 Psykisk helse
-spenner i en slik definisjon fra det positive og
-mestrende («friske») i den ene enden til det
-som kan kalles plager og sykdom i den andre.
-Psykisk helse eller uttrykk for psykisk helse
-varierer også mye fra kultur til kultur.
-1
-
-Verdens helseorganisasjon 2022, uoffisiell oversettelse
-
-I undersøkelser gjort av PST hadde en tredjedel
-av personene fra det høyreekstreme miljøet i
-Norge en form for psykisk lidelse eller utviklingsforstyrrelse.38 For utvalget fra det ekstreme islamistiske miljøet var tallet cirka 20 prosent, men
-PST anslår at det kan være flere.39 I en komparativ
-studie som er utført i Norge om ekstrem islamistisk og høyreekstrem terror er det funnet at «terroristenes psykiske helse er et tema i 36 prosent av
-de høyreekstreme sakene. Det samme gjelder bare
-fire prosent av de islamistiske terrorsakene».40
-Psykiske lidelser kan være en risiko- eller sårbarhetsfaktor i forbindelse med radikalisering.41
-Mange ekstremister som har psykiske lidelser,
-kan få en forsterket negativ utvikling i et radikaliseringsforløp.42
-Selv om psykisk uhelse kan være en bakenforliggende faktor i radikaliseringsporsesser, er det
-ikke funnet klare og enkle årsakssammenhenger
-mellom psykisk helse og ekstremisme. Det er krevende å balansere behovet for å identifisere sårbarhet og forhøyet risiko for radikalisering uten å
-underbygge en feilaktig oppfatning av at personer
-med dårlig psykisk helse er farlige. Deltakelse i
-radikaliserte grupper, radikaliseringsprosesser og
-påfølgende radikale handlinger kan i seg selv
-være årsak til psykiske plager.43 På grunn av den
-uklare sammenhengen mellom radikalisering og
-38
-
-Politiets sikkerhetstjeneste 2019
-Politiets sikkerhetstjeneste 2016
-40 Forsvarets forskningsinstitutt 2022
-41 Politiets sikkerhetstjeneste 2022c
-42 Politiets sikkerhetstjeneste 2022c
-43
-Grønnerød, Andersen og Hellevik 2016
-39
-
-psykisk helse er det fare for å uriktig innrette forebyggende tiltak mot personer med psykisk sykdom, en tilnærming som kan være både stigmatiserende og problematisk i lys av diskrimineringsvernet som beskytter personer med nedsatt funksjonsevne, inkludert de med psykisk sykdom.
-I en gjennomgang fra 2019 om psykisk helse
-og ekstremisme ble det pekt på at det er to parallelle forståelser av psykiske lidelsers betydning
-for voldelig ekstremisme.44 Der fremkom det at
-diagnostisert psykisk lidelse bare er påvist i en
-liten gruppe av dem som utøver ekstremistiske
-voldshandlinger. Handlingene forklares mer ut fra
-allmennpsykologiske og samfunnsmessige forhold, og betydningen av psykisk lidelse er tonet
-ned. Derimot ble det funnet en forhøyet forekomst av psykisk lidelse i studier av soloterrorister. I gjennomgangen argumenteres det for at det
-ikke lenger er nyttig å spørre om psykisk helse
-eller psykisk lidelse har noe å si for radikalisering,
-og at man heller bør spørre hvordan og i hvilke tilfeller psykisk helse påvirker radikaliseringen.
-Dette er mer i tråd med en moderne forståelse av
-psykisk helse. Man har gått bort fra en forståelse
-av at psykisk helse er en tilstand som eksisterer i
-individet uavhengig av kontekst, og mer i retning
-av å forstå psykisk helse som et samspill mellom
-personer, grupper og omstendigheter. Psykisk
-lidelse forstås også mer som ytterpunkter på ulike
-dimensjoner heller enn som ulike kategorier av
-fungering. Individer kan dermed vise betydelig
-grad av flere problematiske trekk uten at det vil
-klassifiseres som psykisk lidelse. Dette inngår i
-den enkeltes risiko eller sårbarhet for radikalisering og vil kunne bidra til en radikaliseringsprosess. Det er derfor viktig å kartlegge psykisk
-helse bredere enn bare med tanke på diagnoser.
-Hva kan være den enkeltes «triggere», og hva er
-de beskyttende faktorene for den enkelte?45
-Risiko eller sårbarhet på individnivå kan forstås som sammenhengen mellom individuelle
-(genetiske) trekk og de belastende og beskyttende erfaringene den enkelte har med seg. Dette
-vil i et livsløp ikke være unike risiko eller sårbarheter for radikalisering, men heller generelle sårbarheter som for noen slår ut som radikalisering.
-Individuell psykologisk uhelse og psykisk
-lidelse er jevnt over sterkere til stede hos enslige
-aktører enn hos radikale eller ekstreme grupper.
-For disse individene kan det se ut som det i større
-grad er sykdommen som fører til radikaliserin44
-45
-
-Gøtzsche-Astrup og Lindekilde 2019
-Aarre 2022
-
-[Side 175]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-173
-
-Kapittel 19
-
-Boks 19.5 Tilregnelighet
-I rettssaken etter 22. juli-angrepet fikk spørsmårapport ble reglene om tilregnelighet endret i
-let om gjerningspersonens tilregnelighet mye
-2019. Etter gjeldende regler skal en person som
-oppmerksomhet. To ulike rettsmedisinske vuri utgangspunktet har gjort noe straffbart frikjenderinger kom til ulike resultater. Breivik ble av
-nes dersom de hadde en «sterkt avvikende
-domstolen funnet å være tilregnelig.1 Etter
-sinnstilstand» eller «sterk bevissthetsforstyrreglene som da gjaldt, var kriteriene for utilregrelse» og gjerningspersonen på handlingstiden
-nelighet at en person var psykotisk, bevisstløs
-var utilregnelig på grunn av «sterkt avvikende
-eller psykisk utviklingshemmet i høy grad på
-sinnstilstand», jf. straffeloven § 20 andre ledd.
-handlingstiden.2 I rettssaken mot Philip MansBestemmelsen omfatter også høygradelig psyhaus etter terrorforsøket mot Al-Noor moskeen
-kisk utviklingshemming. Ved vurderingen skal
-og drapet på stesøsteren, anførte Manshaus’
-det legges vekt på graden av svikt i virkelighetsadvokat at han måtte ansees strafferettslig utilforståelse og funksjonsevne på gjerningstidsregnelig. Selv mente Manshaus at han var tilregpunktet. Reglene for strafferettslig tilregnelignelig, og dette ble domstolens konklusjon.3 25.
-het gjennomgikk altså en vesentlig endring, og
-juni-saken er ikke behandlet i domstolene per
-det åpnes for stor grad av rettslig skjønn. I en
-januar 2024, men det har i media kommet frem
-dom fra Høyesterett i 2023 følger det at det
-informasjon om at det knytter seg usikkerhet til
-overordnede utgangspunktet etter forarbeidene
-Matapours tilregnelighet.4 Spørsmålet om forskal være «hvorvidt det er rimelig og rettferdig
-holdet mellom psykisk sykdom og ekstremisme
-å straffe tiltalte, sett hen til personens helsemeshar med andre ord kommet på spissen i alle
-sige tilstand på handlingstidspunktet».5 For å
-verne samfunnet, kan en person som ikke er
-saker om ekstremistisk terror begått i Norge.
-strafferettslig tilregnelig dømmes til tvungen
-Sprikende konklusjoner om tilregnelighet
-omsorg eller tvungent psykisk helsevern.6
-fra sakkyndige-rapporter i forbindelse med
-22. julirettssaken førte til en omfattende prinsi1 RG-2012-1153 (Oslo tingrett)
-piell diskusjon om tilregnelighet i strafferetten
-2 Straffeloven av 2005 § 44
-og regjeringen oppnevnte i 2013 Tilregnelig3
-TAHER-2020-5113 (Asker og Bærum tingrett)
-hetsutvalget. Utvalget avga i oktober 2014 sin
-4 Revheim-Rafaelsen 2023
-utredning, NOU 2014: 10 Skyldevne, sakkyndig5
-HR-2023-1243-A
-6 Straffeloven kapittel 12
-het og samfunnsvern. På bakgrunn av utvalgets
-
-gen, heller enn ideologi.46 For ekstreme grupper
-ser det ut til å være psykologiske prosesser som i
-seg selv ikke kategoriseres som psykisk lidelse,
-men som er innenfor det normale, som spiller
-sterkest inn. Her vil gruppedannelse og normer
-samt behov for tilhørighet ha betydning. Det er
-også rimelig å anta at tilhørighet i en gruppe krever en viss psykologisk helse, og at de med størst
-plager derfor ikke deltar.47
-
-19.4 Radikalisering og rus
-Forholdet mellom rus og radikalisering kan ses
-på ulike måter. For det første er det stort overlapp
-mellom forhold som øker risikoen for avhengig46
-
-Meloy og Yakeley 2014 gjengitt i Grønnerød, Andersen og
-Hellevik 2016
-47
-Grønnerød, Andersen og Hellevik 2016
-
-hetsproblematikk, og risiko- og sårbarhetsfaktorer for radikalisering. I tillegg foreligger noen spesifikke interaksjoner mellom rusavhengighet og
-radikalisering.48 I undersøkelser gjort av PST
-forekom rusproblemer hos 42 prosent av de høyreekstreme.49 Det er funnet tilsvarende for
-ekstreme islamister.50 Hos sistnevnte er det imidlertid store kjønnsforskjeller. Seks prosent av
-kvinnene hadde hatt befatning med rusmidler,
-mens hos mennene utgjorde andelen 43 prosent.
-Negative barndomsopplevelser, inkludert rusbruk eller eksponering for rus, øker risikoen for
-et bredt spekter av psykologiske, somatiske og
-atferdsmessige vansker.51 Rus i familien, eksempelvis foreldre med rusutfordringer, skaper
-48
-
-Pacholska og Wojciechowski 2023
-Politiets sikkerhetstjeneste 2019
-50 Politiets sikkerhetstjeneste 2016
-51
-Centers for Disease Control and Prevention 2023
-49
-
-[Side 176]
-
-174
-
-Kapittel 19
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 19.6 Kongsbergangrepet
-13. oktober 2021 angrep Espen Andersen Bråthen tilfeldige mennesker i sentrum av Kongsberg med kniv, sverd, pil og bue. Han drepte
-fem personer.1 Gjerningspersonen hadde
-uttalte psykiske problemer og var kjent for
-politiet for kriminalitet og truende atferd. Han
-var også i politiet og PSTs søkelys på grunn av
-uttalelser som indikerte at han kunne være
-radikalisert til voldelig ekstremisme. Det
-hadde blant annet blitt gjennomført en bekymringssamtale med ham i 2017. Like etter oppsøkte Bråthen en myndighetsperson med en
-advarsel, og PST gjennomførte en analyse
-som resulterte i at politiet burde følge med på
-utviklingen med tanke på mulig radikalisering
-til ekstrem islamisme. Anbefalingen ble imidlertid ikke formidlet til Kongsberg-politiet.
-Både PST og politiet mente gjerningspersonen var psykisk ustabil og burde følges opp av
-helsevesenet. Han var innlagt på psykiatrisk
-institusjon i 2019. I 2020 kom det inn flere
-bekymringsmeldinger til politiet, men informasjonen ble ikke videreformidlet til PST. De
-siste 14 månedene forut for angrepet hadde
-ikke mannen kontakt med verken familien,
-politiet eller helsevesenet. I rettssaken konkluderte domstolen med at Bråthen ikke var
-strafferettslig tilregnelig på gjerningstidspunktet, og han ble dømt til tvungent psykisk
-helsevern.2
-1
-2
-
-Henriksen, Brenden, Hoel, Kruke og Myhrer 2022
-TBUS-2022-6117 (Buskerud tingrett)
-
-utrygghet som kan føre til at barna i familien opplever utfordringer på andre områder i livet.52 Deltakelse i ekstreme grupper kan paradoksalt nok
-være veien ut av et dårlig miljø for dem som ruser
-seg eller begår kriminelle handlinger.
-Det er ikke gjort mange studier på spesifikk
-sammenheng mellom radikalisering og rus, men
-det kan se ut til at høyreekstremisme har rus både
-som en del av fiendebildet (eksempelvis at «muslimene smugler dop», «de ødelegger ungdommene
-våre») og som et anbefalt virkemiddel for å øke
-egen effektivitet mens man gjennomfører voldshandlinger.53 For ekstrem islamisme er bildet mer
-52
-53
-
-Ekornås 2018
-Pacholska og Wojciechowski 2023
-
-sammensatt. Det har vært spekulert på om ideologi beskytter noe mot rusbruk, og de som tidligere har utviklet avhengighet, ser ut til å bruke
-ekstremisme til å sone egen rusatferd, som et
-middel til frelse.54
-Det er en sammenheng mellom psykiske lidelser og rusmiddelbruk. Det er mange i rusbehandling som har en psykisk lidelse, og psykiske lidelser kan være rusutløst. Det overordnede målet
-med rusmiddelpolitikken er å redusere negative
-konsekvenser for enkeltpersoner og samfunnet.
-Det er kommunene som skal gi forsvarlige helseog omsorgstjenester og bidra i det helsefremmende og forebyggende arbeidet på rusfeltet.55
-
-19.5 Kriminalitet
-En stor andel personer i de høyreekstreme miljøene i Norge har begått straffbare handlinger,
-mange av dem voldsrelaterte. I tillegg har en stor
-andel selv blitt utsatt for voldshandlinger.56 Også
-andre undersøkelser har vist forekomst av kriminalitet hos høyreekstremister. Aktive medlemmer i
-den nynazistiske organisasjonen DNM har vært
-dømt opptil flere ganger for grove voldshandlinger,
-annen type vold, brudd på våpenloven med mer.57
-Også mange av personene fra det ekstreme
-islamistiske miljøet har vært involvert i straffbare
-forhold før de ble radikalisert. I de representative
-utvalgene PST har benyttet i sine undersøkelser,
-gjelder dette to tredjedeler av mennene og en
-tredjedel av kvinnene.58 Forskning på ekstreme
-islamistiske miljøer i Europa viser et variert bilde.
-Det er ikke uvanlig å ha begått lovbrudd, inkludert vold, i forkant av en terrorhandling, men personer uten rulleblad er også involvert i hendelser.59 Nokså mange av personene som har vært
-involvert i IS-relatert vold var bosatt i Europa og
-har hatt en bakgrunn med «vanlig» kriminalitet og
-vold. De har beveget seg fra det man kan kalle
-«gatekriminalitet» til politisk-religiøs kriminalitet.60 Mens det før ikke var noen måte å bli
-«ordentlig muslim» på utenom å slutte med kriminalitet, tilbyr voldelig ekstrem islamisme en
-moralsk utvei for de kriminelle. Det gjør det mulig
-for dem å bruke kompetansen de har fra gata, til
-54
-
-Pacholska og Wojciechowski 2023
-Helse- og omsorgsdepartementet 2022
-56
-Politiets sikkerhetstjeneste 2019
-57 Hansen, Svendsen, Skille og Døvik 2017
-58 Politiets sikkerhetstjeneste 2016
-59 Nesser 2018
-60
-Ilan og Sandberg 2019
-55
+## Ytre høyre og høyreekstremisme på internett
+
+### Alternative medier og klikkåte
+
+I lys av digitaliseringen de siste tiårene har det både i Norge og internasjonalt vokst frem en rekke alternative medier som opererer i yttergrensene av journalistikken. Alternative medier kjennetegnes av at de har en tydelig ideologisk profil og et uavklart forhold til etiske retningslinjer.[^852] I Norge har alternative medier som document.no, det nedlagte resett.no og rights.no mobilisert mot det politiske etablissementet og mediene samt mot islam og mot at muslimsk kultur skal være en del av den norske offentligheten.[^853] I kommentarfelt med ulik grad av moderering er det mange nettdebattanter som deler sterkt muslimfiendtlig og konspiratorisk tankegods.
+
+Alternative medier produserer ofte *ragebaits* eller klikkåte, som det kan kalles på norsk. Klikkåte er saker som har som formål å fange publikums oppmerksomhet og gjøre folk opprørte eller sinte og slik skape interaksjon med en lenke eller sak.[^854] Med viral spredning kan dette gå ut over enkeltpersoner og bidra til polarisering. I Norge ble resett.no anklaget for å skape uriktige narrativer og forfølge enkeltpersoner.[^855] Tidligere redaksjonssjef Lars Akerhaug har skrevet følgende om sin tid i Resett:
+
+Resett vart ein trykkokar for rasistiske haldningar. Desse nettstadene eksisterer i ein slags symbiose. Ein gjev lesarane det dei vil ha, og dei reagerer i form av kommentarar, likes, delingar og ikkje minst donasjonar. Det er sjølvsagt ein negativ spiral. Og til skilnad frå politiske parti som FrP har du ikkje noko incentiv for å skyva dei mest ekstreme vekk frå deg. Mitt inntrykk var at det var denne gruppa som gav mest pengar. (Akerhaug, 2022)
+
+En del av dette bildet er også trolling, altså grenseoverskridende og sjokkerende utsagn på nettet. Målet er å skape negative emosjonelle reaksjoner hos en annen person eller gruppe. Trolling foregår også som større kampanjer organisert av land eller andre aktører, blant annet såkalte trollfabrikker. Trolling kan komme i form av memer, typisk bilder eller videoer som spres og utvikler seg gjennom kopier og etterligning, som spiller på temaer som skaper følelser, for eksempel rasisme eller kvinnehat.
+
+Mange internettbrukere som troller, mener ikke det de poster eller sier, og synes først og fremst det er gøy at andre tror på dem og blir fornærmet.[^856] Like fullt kan trolling påvirke opinionen ved at desinformasjon spres i stor skala. Desinformasjon er feil informasjon som spres bevisst for å villede folk.[^857] Derfor er desinformasjon et nyttig redskap i politiske påvirkningskampanjer. Desinformasjon er utbredt i tilknytning til væpnede konflikter slik en ser i krigen mellom Hamas og Israel og under Russlands krigføring i Ukraina.[^858] Desinformasjonskampanjer blir også stadig vanligere i forbindelse med demokratiske valg.[^859]
+
+### Subkultur på internett
+
+Organiserte høyreekstreme organisasjoner og ytre-høyre-aktører har åpne digitale plattformer som de bruker til å spre propaganda og kommunisere med tilhengere. En studie av ytre høyre i Norge har vist at alle de sentrale grupperingene har egne sider på Facebook.[^860]
+
+Andre høyreekstreme subkulturer består av løst definerte nettverk uten sentralisert ledelse, hierarkiske strukturer og kriterier for medlemskap. I ulike subkulturer blir høyreekstrem propaganda produsert og spredt i transnasjonale internettfellesskap.[^861] Brukerne knyttes sammen av en subkulturell identitet, verdier og subkulturelle symboler og et språk hvor både vold og humor spiller en sentral rolle. Bruken av humor gjør også grensen mellom ekstreme ytringer og vitser mer flytende, og deling av ekstremt innhold kan enkelt bortforklares med at ytringene er ment som humor.
+
+Særlig på umodererte plattformer produserer og konsumerer anonyme brukere store mengder ekstremistisk innhold og propaganda. I slike fora kan brukere i mange land forme fiendebilder i fellesskap, i det som kan kalles global medproduksjon av innhold. Vold og dehumanisering blir trivialisert og promotert gjennom subkulturell internettatferd som trolling og produksjon av humor og memer. Memer er «formbare», noe som betyr at de får en ekstremistisk mening når de blir plassert innenfor en bredere ekstremistisk kontekst.[^862] Det krever et visst nivå av digital og teknologisk kompetanse å produsere og forstå memer som fremmer vold og konspirasjonsfortellinger. Dette innebærer også at ekstremistisk innhold dermed ikke alltid vil identifiseres av nærstående, moderatorer eller myndigheter.
+
+Trolling oppsto som et fenomen på ulike nettfora som 4chan, 8chan og Endchan. Innholdet ble mer og mer ekstremt, og grensene mellom humor og reelle høyreekstreme ytringer og oppfordringer til vold ble stadig mer uklare. Hvit-makt-terrorister som var inspirert av Christchurch-angrepet i 2019, hadde omgang med hverandre på chan-fora. Det var også her terroristene forhåndsannonserte angrepene sine med manifester som inneholdt memer som sirkulerer på diverse plattformer som 4chan, 8chan, Discord eller Twitch. Hvit-makt-memer blander rasistiske og nazistiske symboler med referanser fra populærkultur, spillkultur og incel-kultur.[^863] Ekstremistiske ideologier, fiendebilder og konspirasjonsfortellinger blir promotert gjennom humor og memer, og terror og terrorister glorifiseres.[^864]
+
+## Ekstrem islamisme på internett
+
+Sosiale medier er en sentral arena for rekruttering og spredning av ekstrem islamistisk propaganda.[^865] I 2013 var sosiale medier som Facebook og YouTube avgjørende for at gruppen Profetens Ummah nådde ut med sitt budskap i Norge. De var i utgangspunktet en Facebook-gruppe, og det var der de startet med å mobilisere til demonstrasjoner organisert av gruppen. En av metodene Profetens Ummah brukte for å rekruttere unge muslimer til innsats og kamp, var å dele voldsomme bilder av døde eller sårede muslimer i krigssoner som Syria på Facebook.[^866]
+
+Terrororganisasjonen IS har vært kjent for å produsere propaganda som glorifiserer livet i Den islamske stat, og formidle informasjon om hvordan man kan bli fremmedkriger. De har også delt videoer om hvordan barn blir trent opp til å bli IS-soldater,[^867] og oppskrifter på eksplosiver. Videoer av vold og henrettelser utført av IS har også blitt spredt på nett og gått viralt. IS har også brukt nettet til å oppfordre muslimer til soloterrorisme i landene de holder til i.[^868]
+
+Fra forskningen er det også kjent at sosiale medier spilte en viktig rolle i IS’ operasjonelle strategi i Syria og Irak.[^869] Spesielt daværende Twitter var viktig for vestlige fremmedkrigere i disse områdene. Egenprodusert materiale ble spredt via Twitter til andre sosiale medier. Innholdet ble delt av fremmedkrigere på bakken og av deres allierte i Europa, inkludert den britiske organisasjonen Al Muhajiroun og den London-baserte predikanten Anjem Choudary, som også var i kontakt med medlemmene i Profetens Ummah.
+
+Uken før 25. juni-angrepet i 2022 på London pub og Per på hjørnet i Oslo sentrum hadde den terrorsiktede Arfan Bhatti lagt ut et budskap på sin åpne Facebook-profil om at homofile burde drepes. Innlegget inneholdt et brennende pride-flagg.[^870] Også al-Qaida har via sin mediekanal As-Sahab oppfordret til angrep mot Sverige og Danmark etter gjentatte koranbrenninger i 2023.[^871]
+
+## Gaming og ekstremisme
+
+Akkurat som sosiale medier har *gaming* (dataspill) blitt en integrert del av hverdagen for barn og voksne verden over. Spesielt unge «digitalt innfødte» har på en helt annen måte enn tidligere generasjoner vokst opp med tilgang til og forståelse for ny teknologi.[^872] Spillsamfunn skaper fellesskap, lek, mening og mestring. Mange unge har trygge og gode hverdager i spillsamfunn som er verdifulle fellesskap for mange.
+
+Flere aktører har understreket at gaming bør anerkjennes på lik linje med fotball og andre tradisjonelle fritidsaktiviteter. Gaming har også blitt mindre stigmatisert og mer anerkjent enn tidligere.[^873] Utdaterte antakelser om en sammenheng mellom vold i spill og aksept for vold er tilbakevist. I regjeringens dataspillstrategi beskrives dataspill som en kulturform som blant annet kan stimulere til kreativitet, læring og tekniske ferdigheter. Strategien omtaler også viktigheten av trygge digitale møteplasser og at dette bør finnes i et samspill med fysiske møteplasser.[^874] Det finnes flere spillhus rundt omkring i landet hvor unge kan spille sammen med trygge voksenpersoner til stede.
+
+Samtidig kan spillkultur inkludere ekstremistiske uttrykksformer. Kvinnehat er for eksempel utbredt innen flere spillmiljøer.[^875] Fellesskap rundt slike holdninger skaper engasjement hos brukerne. Mens noen brukere forblir passive vitner til hatefullt innhold i spillmiljøer eller fora, er andre aktive deltakere og produserer selv innhold. Fellesskapsfølelsen som skapes i digitale subkulturer, er en sentral årsak til at deltakerne forblir aktive. For noen brukere er et slikt digitalt fellesskap eller brorskap en vei ut av ensomhet og isolasjon. Anonymitet kan bidra til at frustrasjon, krenkelser eller sinne som er rettet mot storsamfunnet, får utløp og støttes av meningsfeller. De digitale subkulturene og spillmiljøene tilbyr sosiale forbindelser og fyller et menneskelig behov: ønsket om å høre til. Man produserer kollektive identiteter som overskrider landegrenser. Dette gjelder særlig høyreekstreme nettsamfunn.[^876]
+
+Ekstremister og radikalisatorer benytter seg av den omfattende rekkevidden til spillplattformer og spillkultur til rekruttering, spredning av propaganda, mobilisering og vold. Discord, en av de mest populære kommunikasjonsplattformene for spillmiljøer, fungerer som en møteplass for sosialisering og bygging av digitale fellesskap. Den blir også utnyttet av ekstremister. Det høyreekstreme partiet Alliansens skjulte server brukes til å spre antisemittisk og rasistisk innhold og rekruttere unge følgere.[^877]
+
+*Twitch,* en strømmeplattform for spillinnhold, har også blitt brukt til å spre innhold som fremmer ideer om hvit makt. *Steam*, en nettplattform hvor man kan kjøpe, spille og lage egne spill, har vært tilholdssted for en rekke servere laget av høyreekstreme og nynazistiske grupper.[^878]
+
+Bruk av spill og spillkultur i rekruttering og propaganda gjelder ikke kun høyreekstreme miljøer. «Spillifisering» av ekstrem islamisme er pekt på som en voksende trend, og det er tatt til orde for mer forskning for å finne ut hvor utbredt problemet er, og hvor effektivt gaming er som et verktøy for voldelige ekstremistiske organisasjoner.[^879]
+
+Spill kan imidlertid også brukes i arbeidet med å forhindre og forebygge radikalisering og ekstremisme. Det EU-finansierte pilotprosjektet *GameD* forsøker å bruke spill til positive intervensjoner for å styrke og fremme demokratiske holdninger og toleranse.[^880] Spillkjendiser og influensere kan også bruke sin påvirkningskraft i forebyggende arbeid i spillmiljøer. Det er viktig at spillere er med på å utvikle forebyggende tiltak med spillsamfunn som målgruppe. Når gamerne myndiggjøres, kan de enklere gripe inn og ta til motmæle mot ekstremisme, rasisme, hets og trakassering.
+
+## Digitale miljøers betydning for «enslige aktører» og soloterrorister
+
+De senere årene har en rekke terrorangrep blitt gjennomført av såkalte enslige aktører. Selv om gjerningspersonene har utført handlingen alene, har de hatt kontakt med meningsfeller i virtuelle samfunn hvor propaganda og oppfordring til terror deles på tvers av land og kontinenter.
+
+Brenton Tarrant, terroristen bak moskéangrepene i Christchurch på New Zealand i 2019, var inspirert av Anders Behring Breivik. I likhet med Breivik så Tarrant ut til å ha blitt radikalisert på nettet uten samhandling med organiserte høyreekstreme grupper. Tarrants angrep inspirerte i sin tur til en rekke terrorangrep som ble begått av enslige aktører i USA og Europa. Philip Manshaus, som selv har sagt at han ble radikalisert på nettet før drapet på stesøsteren og angrepet på Al-Noor-moskeen i Bærum i 2019, var også inspirert av Tarrant.[^881] Da Manshaus forhåndsannonserte angrepet, varslet han dette med en referanse til incel-ideologien gjennom et meme.[^882] I memet ble tre andre terrorister hyllet og fremstilt som *chads,* en incel-referanse som beskriver en «alfahann», altså en med dominant maskulinitet som befinner seg øverst i hierarkiet på kjønnsmarkedet. I digitale subkulturer dyrker man både en offerrolle og heroisk maskulinitet ved å glorifisere hvit-makt-terrorister.[^883]
+
+Når det gjelder ekstreme islamister, klarte europeisk kontraterror etter hvert å demme opp for de største og dødeligste IS-angrepene i Europa etter Bataclan-angrepet i Frankrike i 2015. Etter dette gikk ekstremistene over til å bruke soloterrorisme i større grad. En rekke av disse soloterroristene ble rekruttert, radikalisert og instruert gjennom kommunikasjonsapper som Telegram.[^884] Terroristen som gjennomførte det dødelige angrepet i Drottninggatan i Stockholm i 2018, fikk instrukser på øret mens han gjennomførte terroren. Instruksene kom fra en person i utlandet via kommunikasjonsappen Zello. Bakmannen, eller entreprenøren, la også føringer på hva slags mål han skulle angripe.[^885] App-styrte jihadister ble såpass vanlig at bakmennene fikk navnet «virtuelle entreprenører» i forskningen.[^886]
+
+## Direktestrømming av ekstremisme og terror
+
+Ekstremister bruker sosiale medier på flere måter i forbindelse med terrorangrep. Direktestrømming av terrorangrep og muligheten til å se angrep gir en langvarig propagandaeffekt.
+
+En rekke høyreekstreme terrorister, fra New Zealand til Bærum, har fulgt en slags oppskrift bestående av forhåndsannonsering av angrepet, sirkulering av manifest og direktestrømming av terrorangrepene. Både Christchurch-terroristen og Halle-terroristen i Tyskland direktestrømmet angrepene for å dele dem på høyreekstreme nettfora og la meningsfeller «delta» i voldsutøvelsen gjennom tilbakemelding, spredning og rangering av angrepet. Christchurch-terroristen kunngjorde angrepene på forhånd i nettfora og direktesendte massedrapene i 17 minutter på Facebook Live.[^887] I de første 24 timene etter terrorangrepet på New Zealand fjernet Facebook 1,5 millioner opplastede videoer som skulle vise angrepet.[^888] Videoer og bilder fra terrorangrepet i Christchurch i 2019 er fremdeles lett å finne på TikTok.[^889]
+
+Også Philip Manshaus la ut meldinger i lukkede fora på nettet kort tid før angrepet på moskeen i 2019, og han gjorde mislykkede forsøk på å direktesende angrepet på YouTube.[^890]
+
+Høyreekstreme terroristers bruk av digitale plattformer
+
+05J1xx2
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Sted | Dato | Terrorist og alder | Manifest postet på | Direktestrømming |
+| Christchurch i New Zealand | 15\. mars 2019 | Brenton Tarrant (28) | 8chan/pol/ | Facebook |
+| Poway i USA | 27\. april 2019 | John Earnest (19) | 8chan, /pol/ | Facebook (forsøk) |
+| El Paso i USA | 3\. august 2019 | Patrick Crusius (21) | 8chan, /pol/ |  |
+| Bærum i Norge | 10\. august 2019 | Philip Manshaus (21) | Endchan | Facebook (forsøk) |
+| Halle i Tyskland | 9\. oktober 2019 | Stephan Balliet (27) | Meguca | Twitch |
+
+Kilde: Thorleifsson & Dücker, 2021, s. 7
+
+Et annet eksempel på direktestrømming av angrep fra ekstreme islamister er terroristen som i 2016 gjennomførte et jihadistisk terrorangrep og dobbeltdrap i Magnanville i Frankrike. Han erklærte lojalitet til IS og direktesendte en video av drapene på Facebook Live.[^891] Da Hamas gjennomførte terrorangrepet mot Israel 7. oktober 2023, brukte de en ny terrortaktikk. De brøt seg inn i private hjem og tok kontroll over de sivile ofrenes smarttelefoner. Flere av overgrepene og drapene på sivile ble direktestrømmet på ofrenes egne kontoer i sosiale medier.[^892]
+
+Også direktesendt dekning av rettssaker med terrordømte kan bli brukt som propagandamateriale på nettet. Under Breiviks prøveløslatelsesrettssak i 2022 tillot dommeren direktesending av rettsforhandlingene, med en innlagt forsinkelse. Noen medier, som Aftenposten og NRK, valgte å ikke sende direkte fra rettssalen. Flere medier videreformidlet imidlertid store deler av direktesendingen, og Breivik benyttet seg av dette til å formidle sitt høyreekstreme budskap til meningsfeller og følgere, med nazihilsen, appell og engelskspråklig budskap på papir, både på kofferten og på dressjakken. Noen medier sladdet bilder og videoer der budskapet var synlig. Hele Breiviks tale på én time ble sendt ut med kun to kutt i lyd. De to kuttene var begge på under et minutt.[^893] I ettertid har det vist seg at direktesendingen ble spredt til nettfora i løpet av få minutter.
+
+Motfortellinger
+
+Noen av strategiene for å forebygge radikalisering og forhindre ekstremisme på nett har handlet om å tilby motfortellinger. Motfortellinger er budskap som gir et positivt alternativ til ekstremistisk propaganda, eller har som mål å bryte ned eller delegitimere ekstreme narrativer.<sup>1</sup> Forskning tyder på at motfortellinger kan være effektive for å motvirke hatytringer, men mindre effektive for å motvirke voldelig ekstremisme. Studier har vist at de som deltar på høyreekstreme nettsteder, har mindre sannsynlighet enn ekstreme islamister til å bli engasjert og la seg påvirke av motfortellinger. Innenfor miljøer på nett som baserer seg på bilder og følelser, er dessuten motforestillinger som er forankret i en tekstlig tilnærming, et utilstrekkelig verktøy.<sup>2</sup>
+
+<sup>1</sup> Silverman, Stewart, Amanullah og Birdwell 2016
+
+<sup>2</sup> Thorleifsson og Ducker 2021
+
+\[Boks slutt\]
+
+Videoer og bilder av terrordømte blir brukt til å glorifisere terror og inspirere andre brukere i høyreekstreme nettsamfunn. Det er derfor viktig at redaksjoner har oppdatert kunnskap om hvordan ekstremister utnytter mediene, og at de viser etisk varsomhet i dekning av terror.
+
+# Ekstremisme og kunstig intelligens
+
+Teknologiutviklingen gjør at enorme mengder digital informasjon kan samles inn, oppbevares, forvaltes og nyttiggjøres ved hjelp av maskiner. Kunstig intelligens kan analysere data og benyttes til beslutningsstøtte eller til maskingenererte beslutninger gjennom at maskinene programmeres til å utføre oppgaver som normalt krever menneskelig intelligens og skjønnsutøvelse. Ved hjelp av smart programvare kan maskiner gjenkjenne mønstre, drive med erfaringsbasert læring, trekke logiske slutninger, foreta prediksjoner eller treffe beslutninger om handlinger og deretter utføre dem.[^894]
+
+Kunstig intelligens
+
+Kunstig intelligens (KI) betyr datateknologi, både maskinvare og programvare, som kan imitere intelligent menneskelig oppførsel. KI Algoritmer beskriver fremgangsmåten for å løse en oppgave, og kunstig intelligens gjør at programvare kan lære fra akkumulert data gjennom å benytte intelligente algoritmer. Nedenfor beskrives noen sentrale former for kunstig intelligens.
+
+- *Maskinlæring* er en av de mest fremtredende delene av KI. Maskinlæring innebærer å utvikle algoritmer som gjør det mulig for maskiner å lære fra data og forbedre ytelsen over tid.<sup>1</sup>
+
+- *Dyplæring* er en type maskinlæring som går ut på å bruke nettverk med mange lag for å håndtere komplekse datarepresentasjoner. Dyplæring har hatt en enorm vekst fordi store mengder data står til rådighet, og fordi dataytelsen har økt.<sup>2</sup>
+
+- *Forsterkningslæring* er en gren av maskinlæringen og handler om å trene systemer i å ta beslutninger ved hjelp av et system med belønning og straff. Det er relevant for autonome systemer, spill og optimalisering.<sup>3</sup>
+
+- *Naturlig språkprosessering* handler om å utvikle datamaskiner som kan forstå, tolke og generere menneskelig språk. Det inkluderer oppgaver som maskinoversettelse, tekstanalyse, talegjenkjenning og *chatbots*.<sup>4</sup>
+
+- *Datasyn* dreier seg om å utvikle algoritmer som gjør det mulig for systemer å forstå og tolke visuell informasjon, som bilder og videoer. Datasyn brukes i ansiktsgjenkjenning, objektgjenkjenning, medisinsk bildeanalyse og mer.<sup>5</sup>
+
+- *Robotikk* vil si å kombinere maskinlæring og mekanikk for å utvikle roboter og autonome systemer som kan utføre oppgaver i den fysiske verden. Robotikk har vokst betydelig og finner anvendelse blant annet i fabrikker, helsevesen og logistikk.<sup>6</sup>
+
+- *Deepfakes* er syntetisk manipulering av bilde og video som skaper bilder og lyd som ikke representerer virkeligheten.<sup>7</sup>
+
+- *Generativ kunstig intelligens* er kunstig intelligens som kan generere nytt innhold, fremfor å kun analysere eller handle basert på eksisterende data. Med skapende KI beveger en seg over i en æra med maskinskapt virkelighet.<sup>8</sup>
+
+<sup>1</sup> Kommunal- og moderniseringsdepartementet 2020
+
+<sup>2</sup> Tidemann 2023
+
+<sup>3</sup> Konow 2022
+
+<sup>4</sup> Strålberg og Lindahl 2023
+
+<sup>5</sup> Kommunal- og moderniseringsdepartementet 2020
+
+<sup>6</sup> Evelon 2023
+
+<sup>7</sup> Bergesen 2022
+
+<sup>8</sup> Strålberg og Lindahl 2023
+
+\[Boks slutt\]
+
+Kunstig intelligens kan produsere bilder, lyd og tekst som vil gjøre det lettere å forfalske og manipulere informasjon for å nå ut til et bredere publikum. Når generativ KI blir allemannseie, kan både enkeltpersoner og tunge kommersielle eller politiske krefter utnytte teknologien. Radikaliserte enkeltindivider, ikke-statlige grupper med en ekstrem ideologi og fremmede statlige aktører får kraftfulle redskap som kan brukes til å øke fabrikkering og spredning av manipulerende eller falskt innhold. Risikoen for manipulert informasjon har blitt forsterket av bølgen av generativ KI, noe som også fører med seg spørsmål om sannhetsgehalten til all informasjon som leveres digitalt. Utviklingen vil påvirke hele det digitale medieøkosystemet, og det vil trolig være behov for nye metoder for å avgjøre om informasjonen på internett er pålitelig.[^895]
+
+Deepfakes
+
+Flere rangerer deepfakes som den mest alvorlige kriminalitetstrusselen fra KI.<sup>1</sup> Mange er svært bekymret for at fremveksten av deepfakes skal vaske ut skillet mellom ekte og falske nyheter, kilder og medier. Videoer, bilder og lyd kan produseres kunstig, og teknologien er ennå i en startfase, men har allerede blitt brukt i en rekke tilfeller. Når man ikke vet om det man ser, er sant, vil også det som faktisk er virkelige opptak, lett kunne benektes. I forskningslitteraturen kalles dette løgnerens fordel, *The Liar’s Dividend*.<sup>2</sup> Det innebærer at når usannheter brer seg, vil det særlig tjene løgnerne, som da «glir inn i mengden». Selve eksistensen av deepfake-teknologi gjør at det man ser og hører digitalt, ikke lenger kan tas for god fisk. Den som tas på fersken på video eller kamera, kan nekte for at opptaket eller bildet er ekte.
+
+<sup>1</sup> Caldwell, Andrews, Tanay og Griffin 2020
+
+<sup>2</sup> Chesney og Citron 2018
+
+\[Boks slutt\]
+
+## Ekstremisters bruk av kunstig intelligens
+
+Kunstig intelligens kan benyttes av ekstreme krefter og personer med en radikaliseringsagenda, som får mer kraftfulle verktøy for å spre sitt budskap. Ekstreme grupper og fremmede stater kan utnytte kunstig intelligens til manipulering, påvirkning og desinformasjon. Ideologisk motiverte enkeltpersoner og grupper bruker spredning av desinformasjon og falske narrativer som verktøy til å rekruttere nye medlemmer eller radikalisere andre.[^896]
+
+Både høyreekstreme og ekstreme islamister eksperimenterer allerede med kunstig intelligens for å produsere og spre propaganda.[^897] Eksempelvis har en nynazistisk meldingskanal på Telegram spredt KI-genererte bilder som er skapt ved at rasistisk og antisemittisk innhold er limt inn i en app som er tilgjengelig i Google Play-butikken. Andre høyreekstreme aktører har utviklet en «guide til memetisk krigføring», som gir råd om hvordan man kan bruke KI-genererte bildeverktøy til å produsere ekstremistiske memer. IS har publisert teknisk støtteveiledning i hvordan man kan bruke KI-verktøy til å produsere propaganda. En annen IS-bruker har transkribert propaganda ved hjelp automatisk talegjenkjenning (ASR). Ekstremistenes bruk av KI er i en «eksperimentell fase», og høsten 2023 var det lav risiko for utbredt bruk.[^898] Like fullt utgjør ekstremistenes eksperimentelle bruk av KI en ny utfordring for sikkerhet og forebygging i tiden fremover.
+
+## Myndigheters bruk av kunstig intelligens
+
+Kunstig intelligens gir styresmaktene nye redskaper i kampen mot ekstremisme. Etter hvert som bekymringene for nasjonal sikkerhet har vokst i Norge og Europa for øvrig, har styresmaktene fått stadig større ambisjoner om å nyttiggjøre seg ny teknologi. Kunstig intelligens gir store muligheter til å identifisere og overvåke ekstremister. Det kan dreie seg om å identifisere mulige sikkerhetstrusler, inkludert terrorisme eller kontoer som genererer ekstremistisk innhold på nettbaserte plattformer. Kunstig intelligens og maskinlæring kan også gjøre det enklere for myndighetene å forutsi (predikere) fremtidige handlingsmønstre og terrorhandlinger eller fange opp radikaliseringstendenser. For eksempel bruker det engelske nasjonale sikkerhetsprogrammet *Prevent* kunstig intelligens til å forsøke å forutsi hvem som kan utgjøre en trussel fremover i tid.[^899] Forutsigelsene er basert på datainnsamling og profilering utført av kunstig intelligens. Slike verktøy vil bli svært viktige i kampen mot radikalisering og ekstremisme fremover. Kunstig intelligens og andre teknologiske nyvinninger eksponerer samtidig samfunnet for virkemidler og effekter som gjør at digital overvåkning skjer i større omfang, raskere og mer effektivt. Iveren etter å beskytte demokratiet mot ekstreme krefter kan føre til at demokratiet svinner hen gjennom for mye overvåkning, kontroll og (forhånds)sensur.[^900]
+
+En viktig bekymring internasjonalt handler om at ny teknologi og ekstremisme vil gjøre at statlige myndigheter tar i bruk stadig mer potente verktøy til omfattende overvåkning. Selv om økt politisk kontroll og undertrykkelse også er en fare i Norge, er utfordringene gjerne de utilsiktede effektene av at styresmaktene tar i bruk ny teknologi.
+
+Dersom verktøy basert på kunstig intelligens brukes til å overvåke miljøer som potensielt kan representere radikaliseringsfare, beveger man seg nær politisk overvåkning. Bruker man kunstig intelligens til profilering for å forhindre terror, kommer man raskt på kant med uskyldspresumpsjonen og andre menneskerettigheter som skal ivareta individets rettigheter i møte med en høyteknologisk stat. Kunstig intelligens gir for eksempel myndighetene muligheter til å drive med mer presise og subtile former for digital sensur. Overvåkningssystemer kan raskt tråle sosiale medier etter tegn til avvikende meninger, og store bulkinnsamlinger kan kobles til ansiktsgjenkjenningsteknologi for å identifisere og overvåke meningsmotstandere.[^901]
+
+En annen utfordring med KI-systemer er at de ikke blir bedre enn informasjonen de mates med. Dersom input-informasjonen er selektiv eller algoritmene er satt opp på måter som diskriminerer, vil også algoritmene diskriminere. Kunstig intelligens «arver» menneskenes fordommer og kan forsterke dem. I 2020 måtte britiske myndigheter trekke tilbake en kunstig intelligens-algoritme som var benyttet til visumbehandlinger, fordi den ble anklaget for å være rasistisk.[^902] I tillegg kan algoritmer identifisere nye mønstre i datagrunnlaget som gir grobunn for databasert diskriminering. I 2023 publiserte Likestillings- og diskrimineringsombudet en ny veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens.[^903]
+
+Teknologiens konsekvenser for demokratiet og menneskerettighetene er i stor grad upløyd mark for alle stater i verden, og det er et område hvor solid kunnskap er vanskelig, fordi effektene inntrer i samtiden og fremtiden. Sammenlignet med andre land ligger Norge svært langt fremme med digitalisering av offentlig forvaltning, og Norge er slik sett et slags testlaboratorium sammen med øvrige nordiske naboer. Små, åpne, demokratiske og gjennomdigitaliserte samfunn i Norden er dobbelt eksponerte. Norge er både sårbar for radikaliseringskrefter som tar i bruk ny teknologi, og for farene ved egen bruk av teknologien for å møte radikaliserings- og terrorfaren.
+
+# Menneskerettighetene og ny teknologi
+
+«Ny teknologi» omfatter både teknologiske nyvinninger og velkjent teknologi som brukes på nye måter. Teknologiutviklingen fører til nye sikkerhetsutfordringer og utløser mer kraftfulle statlige inngrep som igjen kan undergrave menneskerettighetene.
+
+## Digital overvåkning
+
+Digital overvåkning setter motsetningene mellom sikkerhet og demokrati på spissen. Begrunnelsen for overvåkning er borgernes sikkerhet og i siste instans retten til liv. Overvåkning gjør imidlertid inngrep i grunnpilarene i demokratiet: borgernes rett til å ha, gjøre seg opp og utveksle meninger og ideer fritt og uten statlig kontroll eller inngripen, altså retten til privatliv og personvern, tankefrihet, religionsfrihet og ytringsfrihet. Digital overvåkning fører derfor med seg en rekke menneskerettslige problemstillinger.
+
+Digitale løsninger må anvendes på en ansvarlig måte. Statlige myndigheter i Norge har for eksempel tilgang på store datamengder om borgerne. Dersom dataene kobles sammen av kraftige teknologiske analyseverktøy, gir det myndighetene mulighet til å skaffe svært inngående informasjon om hver enkelt. Kunstig intelligens kan sammenstille og analysere data om borgerne på helt nye måter, og dermed identifisere trusler fra utvalgte miljøer eller enkeltpersoner. Selv om det er teknologisk mulig for myndighetene å benytte kunstig intelligens i utstrakt grad i arbeidet med å forebygge radikalisering og ekstremisme, er det menneskerettighetene, ikke teknologien, som setter grensene her. Staten er forpliktet til å unngå eller slutte å bruke teknologiske løsninger som bryter med menneskerettighetene.
+
+Når det innføres ny teknologi, eller når teknologi brukes på nye måter, må staten sørge for å kartlegge de menneskerettslige konsekvensene av teknologibruken. En dansk rapport fra 2021 kartla rettighetsutfordringer ved bruk av profileringsteknologi i offentlig forvaltning, og konkluderte med at det burde innføres en rekke tiltak som sikrer at offentlige myndigheter benytter kunstig intelligens og profilering i samsvar med menneskerettighetene.[^904] Stater har ansvar for å forvalte sikkerhetsproblemer på nettet og sørge for at internett er et sikkert og tillitvekkende miljø hvor individer kan operere fritt, realisere sitt potensial og nyte godt av sine rettigheter.[^905] Det innebærer at staten har ansvaret for å hindre praksis som bryter med internettbrukernes rettigheter. Staten skal innføre sanksjoner mot overtredere[^906] og sørge for at ofre har tilgang til klageinstanser.[^907] Samtidig har staten negative menneskerettighetsforpliktelser, noe som innebærer at staten må avstå fra overvåkningsaktiviteter som bryter med menneskerettighetene. Staten må sørge for at overvåkning følges av effektive kontrollmekanismer.[^908] Dette må omfatte innsamling og oppfanging (*interception*) av data. Det gjelder også for ansamling av metadata og salg av persondata.[^909]
+
+EMD har gjort det klart at stater som ligger langt fremme i utviklingen og bruken av ny teknologi, har et særlig ansvar for å finne en god balanse mellom teknologien og menneskerettighetene, særlig retten til privatliv.[^910] Overvåkning, innsamling, oppfanging av data, bulkdata og videresalg av persondata vil bare være i tråd med menneskerettighetene dersom inngrepet har hjemmel i lov, ikke er vilkårlig og tilfredsstiller kravene til nødvendighet og proporsjonalitet.
+
+Masseinnsamling og lagring av elektroniske data anses for å være et inngrep i retten til privatliv selv om innsamlingen ikke er knyttet til enkeltindivider.[^911] Slik masseinnsamling er kun tillatt dersom overvåkningen er i tråd med de begrensningene i retten til privatliv som menneskerettighetene tillater.
+
+I to dommer fra 2021, *Big Brother Watch og andre mot Storbritannia* og *Centrum för rättvisa mot Sverige,* tok storkammeret i EMD stilling til lovligheten av hemmelig overvåkning av kommunikasjon i transitt, der både innholdet i kommunikasjonen og metadata samles inn. EMD la i disse avgjørelsene til grunn at masseinnsamling er en gradvis prosess. Omfanget av inngrepet i retten til privatliv tiltar etterhvert som man nærmer seg identifisering av enkeltindivid.[^912] Behovet for rettssikkerhetsmekanismer vil være størst mot slutten av prosessen, når personer kan identifiseres og innholdet i kommunikasjonen blir nærmere undersøkt.[^913] Også når innhentingen og lagringen ikke er rettet mot konkrete individer, vil inngrepet rammes av EMK artikkel 8 om retten til privatliv, og det må foreligge rettssikkerhetsmekanismer fra informasjonen samles inn til den slettes.
+
+PSTs og Etterretningstjenestens nye hjemler til informasjonsinnhenting omtales i del V.
+
+## Ekstremistisk innhold
+
+En rekke terrorister har de siste årene benyttet seg av plattformer med svake eller ingen regler for innholdsmoderering i radikaliseringsforløpet. På slike plattformer har de dannet nettsamfunn, spredt propaganda og planlagt terror. For eksempel har 8chan hatt som forretningsmodell å ikke drive med innholdsmoderering.[^914] Mange ekstremister opererer anonymt og bruker ulike typer krypterte nettplattformer og meldingsapper som Telegram og Signal for å unngå å bli sporet og oppdaget. Ekstremistisk og terroroppfordrende innhold blir ofte delt på tjenester med kryptering, noe som gjør det utfordrende å forebygge og forhindre terror.
+
+Ekstremister kan også «overliste» og manipulere algoritmiske rangeringsmetoder ved å lage titler og beskrivelser som sikrer at innleggene deres vises nær toppen av søkeresultatene for ikke-kontroversielle temaer. Høyreekstremister har eksempelvis merket Tiktok-videoer med \#konservativ eller \#trump for at de skal vises sammen med mer konvensjonelle innlegg. Ekstreme islamister bruker lignende strategier for å rekruttere, inkludert bruken av \#katt for å nå ut med videoer til brukere som ellers ikke ville oppsøkt slikt innhold.[^915] Andre ekstremister kan ta over populære emneknagger. Ekstremister bruker også en rekke unnvikelsesteknikker som kommunisering i private grupper, opprettelse av flere kontoer og feilstaving av emneknagger for å unngå algoritmisk gjenkjenning.
+
+I møtet med ulovlig eller skadelig innhold kan stater ty til verktøy som å blokkere utvalgte IP-adresser for enkelte individer, ta ned nettsider, benytte filterteknologi for å nekte tilgang til sider med bestemt innhold, blokkere e-poster og foreta andre typer inngrep i ytringsfriheten. Slike virkemidler kan imidlertid lett misbrukes. Inngrep av denne typen vil være i strid med ytringsfriheten etter EMK dersom de ikke har hjemmel i lov og ikke er nødvendige og proporsjonale.[^916]
+
+Enkelte typer ytringer har et særlig sterkt menneskerettighetsvern. Det gjelder ytringer som angår myndighetenes maktbruk, politikk og demokratiske valg, samt rapportering av menneskerettigheter, myndighetsaktiviteter og korrupsjon. Inngrep fra myndighetene vil raskere anses for å bryte med EMK og menneskerettighetene når slike ytringer blir rammet. Direkte sensur fra myndighetene av politiske meningsytringer vil kunne komme på kant med retten til ytringsfrihet eller retten til fri meningsdannelse. Det gjelder selv om innholdet er sjokkerende, krenkende eller ekstremt. Statlig inngripen i ytringer krever hjemmel i lov. I tillegg kan økt statlig digital overvåkning medføre at borgerne modererer seg, bevisst eller ubevisst (nedkjølingseffekten). Digital kontroll, som lett blir oppfattet som sensur, kan også ha andre utilsiktede effekter. Når det er kunstig intelligens som står for sensuren, kan den kunstige intelligensen moderere bort innhold publisert av personer som tilhører den gruppen man ønsker å beskytte mot hatefulle ytringer, slik som minoriteter. En annen uheldig virkning er at dersom mer ytterliggående holdninger og strømninger fjernes, finnes det andre digitale plattformer som er mer utilgjengelige, for eksempel på «det mørke nettet». Dersom det brer seg en forestilling om at myndighetene driver med politisk sensur, kan denne typen nettverk få større oppslutning.
+
+Digitale plattformer eies, styres og kontrolleres gjerne av store utenlandske teknologiselskaper. Teknologiselskapene er samtidig kommersielle aktører som innretter sine plattformer for å maksimere inntjening. Innhold som er spisset eller radikalt, blir delt i større tempo og omfang enn innhold som er saklig. Spisset innhold er dermed også mer profitabelt. Denne mekanismen har gjort at man gjerne omtaler digitale plattformer som drivere for polarisering – forretningsmodellen og algoritmene legger til rette for, og belønner, stadig mer spisset, polariserende og radikalt innhold. Ytringsfrihetskommisjonen drøfter for eksempel om teknologiselskapenes egne algoritmer i seg selv kan forsterke polarisering.[^917]
+
+Samtidig har teknologiselskapene i økende grad innført regler for moderering av innhold på sine plattformer. Store teknologiselskaper har utviklet brukerretningslinjer og protokoller for å motvirke at plattformene deres blir brukt til voldelig ekstremistisk aktivitet på nett. Likevel har modereringen og egenreguleringen på plattformene blitt kraftig kritisert. Ytringsfrihetskommisjonen påpekte for eksempel at selskapene skal vurdere en enorm mengde innhold. Menneskelige moderatorer har også svært krevende arbeidsforhold siden de er vitne til store mengder poster som kan inneholde overgrep, drap og selvmord. Avgjørelser om hvilke poster plattformselskapene sletter, og hvilke brukere som utestenges fra plattformer, skaper stadig debatter.[^918]
+
+Selskapene baserer seg ofte på hel- eller delautomatiserte systemer for å avdekke og blokkere uønsket innhold. Slike verktøy kan være med på å beskytte mot ulovlig og skadelig innhold. Dersom modereringspraksisen blir for utbredt, vil den derimot komme på kant med ytringsfriheten. En betydelig utfordring ligger i at retningslinjene som et stort teknologiselskap legger til grunn for sin plattform ikke nødvendigvis sammenfaller med det som er tillatt eller forbudt i Norge. Den mest effektive måten å få kontroll med de digitale plattformene, er derfor gjennom å regulere selskapene som står for plattformtjenestene.

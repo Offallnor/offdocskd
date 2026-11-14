@@ -1,1069 +1,305 @@
-# NOU 2024: 3, del 18 av 40 (side 229–240)
+# NOU 2024: 3, del 18 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 229]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-26.4 Kommunens arbeid med
-forebygging av voldelig
-ekstremisme
-26.4.1 Kommunens rolle i det forebyggende
-arbeidet mot voldelig ekstremisme
-Kommunens rolle i det forebyggende arbeidet
-mot radikalisering og voldelig ekstremisme har
-vært fremhevet i regjeringens handlingsplan
-siden den første kom i 2010. Kommunen er viktig i
-det forebyggende arbeidet mot voldelig ekstremisme fordi mange forebyggende tiltak ligger til
-kommunale aktører, for eksempel knyttet til helsetjenester, bolig og utdanning.25 Ulike kommunale aktører er også i kontakt med mange innbyggere, og kan fange opp de som «faller utenfor».26
-I regjeringens handlingsplan mot radikalisering og voldelig ekstremisme er kommunen stort
-sett omtalt i generelle ordelag. I møte med kommisjonen har flere kommunale aktører tatt til orde
-for at kommunene mangler et tydelig mandat i
-arbeidet med forebygging av voldelig ekstremisme, noe som skaper usikkerhet og stor variasjon mellom kommuner. Flere kommuner kommisjonen har vært i kontakt med har ikke arbeidet
-med radikalisering og voldelig ekstremisme før
-det faktisk har oppstått en konkret radikaliseringsbekymring eller etablering av et ekstremistisk miljø. Usikkerhet rundt kommunens rolle og
-mandat kan gjøre det vanskelig å sikre at feltet får
-tilstrekkelig prioritet og ressurser. Det kan også
-oppstå usikkerhet om lovlighet av forebyggende
-tiltak som mangler forankring i lovverket.
-Kommisjonen har også fått innspill om at usikkerheten og det manglende mandatet til kommunen kan føre til konkrete utfordringer med dokumentasjon av arbeidet som utføres, og dermed også
-kvalitetssikring av tjenestene som gis. Eksempler
-på dette kan være hvor og hvordan et mentortiltak
-skal dokumenteres. Skal mentortiltaket gis gjennom en allerede eksisterende kommunal tjeneste?
-Og hvis ikke – hvor skal arbeidet da dokumenteres?
-Dersom kommunen er part i drøftelser av bekymringer, hvor dokumenteres vurderingene som gjøres? I evalueringen av politiets radikaliseringskontaktordning i 2023 ble det anbefalt at kommunene
-får et tydeligere mandat på dette feltet.27
-Selv om kommunens mandat i det forebyggende arbeidet mot voldelig ekstremisme er usikkert, er det mange kommuner som gjør mye for å
-25
-
-Lid, Winsvold, Søholt, Hansen, Heierstad og Klausen 2016
-Justis- og politidepartementet 2010, s. 21
-27 Tandberg og Ravndal 2023
-26
-
-227
-
-Kapittel 26
-
-forebygge voldelig ekstremisme. Flere kommuner
-har eller har hatt egne handlingsplaner som
-omfatter hatkriminalitet, radikalisering og voldelig ekstremisme.28 Kristiansand kommune har for
-eksempel en kriminalitetsforebyggende plan som
-også inkluderer radikalisering og voldelig ekstremisme.29 Færder kommune har en handlingsplan
-mot hatefulle ytringer, radikalisering og voldelig
-ekstremisme.30 Handlingsplaner kan bidra til å
-gjøre kommunen mer oppmerksom på problemkomplekset, tydeliggjøre hvem som har ansvar for
-hva, og forankre målet om bedre samordning
-internt i kommunen.31 Det kan også bidra til
-lokalt søkelys på voldelig ekstremisme og være et
-signal til lokalbefolkningen om at lokale myndigheter bidrar i dette arbeidet.
-Forebyggingen av voldelig ekstremisme i norske kommuner skjer innenfor arbeidet og strukturene som allerede er etablert, og som ikke er spesielt rettet mot ekstremisme. Noen kommuner
-som benytter seg av SLT-modellen, har implementert arbeidet med å forebygge radikalisering og
-voldelig ekstremisme der.32 Det varierer hvordan
-arbeidet er innrettet, og hvilke funksjoner og roller som er involvert i kommunene. Hvilke kommunale aktører som involveres i å håndtere en
-konkret radikaliseringsbekymring, kan også
-avhenge av blant annet personens alder, sakens
-natur og alvorlighetsgrad.
-Slik kommisjonen forstår det, møter mange
-norske kommuner utfordringer med radikalisering på samme måte som de møter kjente utfordringer, som for eksempel rus og boligmangel.
-Overføringsverdien kan imidlertid være begrenset. Ekstremisme og radikalisering er særegne
-fenomener som kan kreve andre tiltak enn de
-kommunen allerede kjenner.33 En av grunnene til
-at kommunen har samme tilnærming til så ulike
-utfordringer, er mangel på kunnskap.34 Mangel på
-kunnskap kan gjøre det vanskelig å identifisere
-personer i risikosonen. Kommunen kan i verste
-fall ikke innse at det er behov for å sette inn tiltak.
-Mange små kommuner vil ha få eller ingen saker,
-og får derfor ikke trening i å håndtere slike
-28
-
-Eksempler på kommunale handlingsplaner: Bærum kommune, Samordning av lokale rus- og kriminalitetsforebyggende tiltak og Oslo politidistrikt 2019; Drammen kommune 2022
-29 Kristiansand kommune 2021
-30 Færder kommune 2023
-31
-Proba samfunnsanalyse 2023b
-32 Se nærmere omtale i kapittel 33 Samarbeid mellom aktører
-i det forebyggende arbeidet
-33
-Lid og Heierstad 2019a
-34 Lid og Heierstad 2019a
-
-[Side 230]
-
-228
-
-Kapittel 26
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 26.4 Intervju med Verdal kommune og Levanger kommune
-Ekstremismekommisjonen har høsten 2023
-Da kommunene fikk kjennskap til utreiste
-vært i kontakt med kriminalitetsforebyggende
-innbyggere, var viktige samarbeidsaktører helrådgivere i Verdal og Levanger kommune, om
-seforetaket, PST, lokalt politi, kommuneoverderes erfaringer med arbeidet med å forebygge
-lege, ordfører og kommunedirektør. Helseforeradikalisering og ekstremisme. Kommunene
-taket og PST var i denne sammenhengen svært
-har erfaring med fremmedkrigere som dro til
-viktige eksterne samarbeidsaktør, spesielt for
-IS. Nedenfor følger utdrag fra et intervju med
-SLT-koordinatorene. Det var ingen automatikk i
-rådgiverne.
-samarbeid mellom disse aktørene, og SLTHva tenker dere er den største utfordringen for
-ansvarlig ble en viktig koordinator for å få på
-kommuner når det gjelder å skulle forebygge radiplass et samarbeid.
-kalisering og ekstremisme?
-Når en fremmedkriger først returnerer og
-Det vi opplever som den største utfordringen
-blir dømt, opplever vi fra kommunene at fengsenår det gjelder forebygging, er ansattes, innbyglet har en god modell for arbeid med ansvarsgeres og enkelte samarbeidsaktørers fenomengrupper/samarbeidsgrupper. Vi har flere gankunnskap. Ofte opplever vi at andre synes det er
-ger reflektert over at hvis alle dømte i norske
-skummelt eller farlig å snakke med innbyggere
-straffesaker hadde hatt tilbud om samme type
-om radikaliseringsuttrykk. Vi ser ofte at vi komoppfølging, ville sannsynligvis tilbakefallspromer i en situasjon hvor førstelinjen kjenner på
-senten vært lavere.
-en usikkerhet og ønsker at andre snakker med
-Gode ansvarsgruppemøter gjør kommuog følger opp med utgangspunkt i førstelinjens
-nene i stand til å rigge gode tilbud når dømte er
-bekymring. Det kan føre til at bekymringer går
-ferdig sonet og skal tilbake til samfunnet.
-alt for langt før de blir håndtert.
-Har dere et råd om kommunenes arbeid på felVårt mål i forebyggingen er å øke kunnskap
-tet?
-og trygghet, slik at det blir like naturlig for førAlle kommuner i Norge, uavhengig av størstelinjetjenesten å stille spørsmål og undre seg
-relse, kan komme borti innbyggere som står i
-over bekymringer for radikalisering, som kjærfare for å bli eller har blitt radikalisert. Økt forlighetssorg, selvskading eller bekymring for at
-ståelse av og kunnskap om radikalisering blir
-en ungdom utsettes for vold i heimen.
-derfor viktig for å kunne forebygge godt eller
-Det er derfor viktig å følge opp diskusjoner i
-bidra med avradikalisering. Det er lett å tro at
-klasserom og utfordre hverandre når det gjelder
-det kun er innbyggere i de store byene som radiradikale meninger. En radikal mening er ikke
-kaliseres, og at det ikke angår oss i de små komautomatisk lik at vedkommende er radikalisert
-munene.
-og kan ty til vold for å oppnå målet. Denne samDe små kommunene har heller ikke muligtalen skal ikke gjennomføres av «noen andre»,
-het til å rigge et stort apparat som står klart hvis
-men av den som har den beste relasjonen. Når
-problemstillingen dukker opp. Det bør derfor tildet gjelder dette emnet, kan det fort blir en stillrettelegges for en modell som er enkel for alle
-het i klasserommet i stedet for at det stilles åpne
-kommuner, uavhengig av størrelse eller strukspørsmål. Når det åpnes for diskusjoner, kan det
-tur, å håndtere/bruke. Vi er for kommuners
-være med på å øke kunnskap og snu hatuttrykk
-selvråderett, men enkelte fagfelt, som dette, bør
-eller ekstreme radikale uttrykk.
-følge en fast struktur og krav fra departement
-Hvilke aktører samarbeidet kommunen med,
-og bør komme med en tydelig kommandolinje
-og hvordan opplevde dere samarbeidet da deres
-og tiltaksplan.
-kommuner hadde innbyggere med kjent radikalisering?
-
-[Side 231]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 26.5 Eksempelsak III –
-vellykket forebygging
-Barnevernet mottok en bekymringsmelding
-om en gutt på ungdomsskolen som hadde
-bodd kort tid i Norge. Han bodde med én forelder, ønsket seg tilbake til hjemlandet til den
-andre forelderen og var dårlig integrert. Det
-ble observert at gutten uttrykte konservative
-religiøse synspunkter hjemme og på skolen.
-Familien var bekymret for guttens nettaktivitet. Det viste seg at han var i kontakt med terrororganisasjoner på nett og med imamer som
-hadde en ekstrem tolkning av Koranen. Både
-gutten og forelderen samtykket til oppfølging
-av tverretatlig gruppe i kommunen, hvor informasjon kunne deles mellom ulike etater, inkludert politiet. Foreldre ble tilbudt foreldreveiledning via barnevernstjenesten. Gutten fikk
-mentoroppfølging av en som hadde kunnskap
-om islam og snakket guttens morsmål. Mentoren hjalp gutten med å få andre religiøse forbilder og til å utvikle kildekritisk kompetanse.
-Mentor var også i tett kontakt med begge foreldre underveis. Gutten ble også tilbudt blant
-annet bedre språkopplæring og lønnet arbeid i
-bedrift. Tiltakene var vellykkede. Mentorløpet
-varte i over to år med en gradvis nedtrapping.
-Gutten hadde ved endt tiltak et sunt nettverk
-av venner, gode skoleresultater og en annen
-tolkning og tilnærming til islam enn før.
-
-saker.35 En desentralisert tilnærming kan også
-føre til at mindre kommuner håndterer få saker,
-slik at tjenestene får lite trening i innsatser og tiltak.36 Manglende overbyggende støtte for kommunene på feltet er også en utfordring.37
-35
-
-Kommisjonens møte med Kommunesektorens interesseorganisasjon (KS), 2. mars 2023. En NKVTS-rapport om psykisk helse og forebygging av ekstremisme som ble publisert da denne rapporten var i avslutningsfasen, peker blant
-annet på at ekstremisme også kan oppstå i kommuner som
-ikke har kapasitet eller kompetanse til å håndtere problematikken. «Det er dermed nødvendig i større grad å overføre kunnskap og informasjon på tvers av kommunene slik
-at eksisterende kompetanse og praksis kan formidles på
-nasjonalt nivå. Det brede forebyggingsarbeidet må forankres både lokalt og nasjonalt.» Hellevik 2024, s. 68
-36 Presentasjon av Stian Lid på kommisjonsmøte, 15. mars
-2023
-37 Kommisjonens møte med KS, 2. mars 2023 og med Justisog beredskapsdepartementet, 5. desember 2022
-
-229
-
-Kapittel 26
-
-26.4.2 Reintegrering og mentorordninger
-i norske kommuner
-Flere kommuner startet å utvikle mentorordninger i 2015 for å følge opp personer involvert i voldelig ekstremisme, blant andre dem som blir løslatt etter soning og skal tilbake til sine hjemkommuner.38 En mentor kan brukes både i et forebyggende perspektiv og til å hjelpe mennesker ut av
-et ekstremt verdensbilde eller ekstreme grupper.
-Regjeringen utarbeidet i 2017 en veileder for kommuner som ønsker å etablere en mentorordning i
-arbeidet mot radikalisering.39 En mentor skal
-kunne hjelpe med kommunale prosesser for å
-minske følelsen av utenforskap og å knytte menteen sterkere til samfunnet.
-RVTS Vest tilbyr opplæring for mentorer. Mentorene får opplæring i radikalisering og voldelig
-ekstremisme som fenomen og prosess. Utskolerte mentorer får tilbud om å delta i regionale
-mentornettverk koordinert av de ulike RVTS-ene
-avhengig av regional tilhørighet.40 Arbeidet med å
-reintegrere hjemvendte fremmedkrigere har blitt
-en viktig oppgave i enkelte kommuner41 og RVTS
-har deltatt i kommunale og interkommunale nettverk der temaet er ivaretakelse av returnerte
-fremmedkrigere og deres familier.
-
-26.5 Barnevernet
-Barnevernets oppgave er å beskytte barn mot
-omsorgssvikt og sikre barn trygghet og
-utviklingsmuligheter.42 Barnevernet er delt i en
-kommunal del (barnevernstjenesten) og en statlig
-del som har ansvar for barne- og familievernet
-(Bufetat). Det er Barne-, ungdoms- og familiedirektoratet (Bufdir) som er faglig direktorat for
-hele barnevernet og etatsstyrer av den statlige
-delen.43 Barnevernets arbeid er regulert av barnevernsloven, og de skal sikre at barn og unge
-som lever under forhold som kan skade helse og
-utvikling, får nødvendig hjelp, omsorg og beskyttelse.44 Barnevernet har det samme ansvaret for å
-38
-
-Christensen og Bjørgo 2018
-Regjeringen 2017
-40
-Mentorradikalisering u.å.
-41 Lid og Heierstad 2019a
-42
-Bufdir u.å.-a
-43 Barne- og familiedepartementet 2023b Oslo kommune har
-en annen organisering som innebærer at kommunen har
-ansvaret også for den delen av barnevernet som ellers er
-statlig, se barnevernsloven § 16-6
-44
-Barnevernsloven § 1-1
-39
-
-[Side 232]
-
-230
-
-Kapittel 26
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-følge opp barn som er asylsøkere, som de har for
-andre barn i Norge.
-Gjennomgangen av risiko- og sårbarhetsfaktorer i rapportens del IV viser at mange forhold som
-kjennetegner norske radikaliserte springer ut av
-deres barndom. Dette kan for eksempel være dårlig omsorg, tap av omsorgsperson eller vold i
-hjemmet. Dette kan skje lenge før en person er i
-en radikaliseringsprosess. Det er barnevernets
-rolle å forebygge og avverge at barn vokser opp
-under forhold de kan ta skade av. For å sette inn
-tiltak er barnevernet avhengig av informasjon, for
-eksempel gjennom en bekymringsmelding. Etter
-barnevernsloven § 13-2 har alle som arbeider i forvaltningen meldeplikt til barnevernet på gitte vilkår.
-Ut over å redusere risiko- og sårbarhetsfaktorer for radikalisering kan barnevernet ha en rolle
-når et barn går inn i en radikaliseringsprosess. I
-slike saker kan barnevernet følge opp barnet og
-familien, for eksempel i form av hjelpetiltak etter
-barnevernloven kapittel 3. Dersom lovens vilkår
-er oppfylt, kan barneverns- og helsenemnda fatte
-tvangsvedtak. I saker som gjelder barn av radikaliserte kan det også være aktuelt for barnevernet å
-involvere seg.45 Barnevernet kan iverksette frivillige tiltak, som dialog med barnet eller familien.
-Barnevernet kan oppdage tegn på radikalisering hos barn og voksne som er i kontakt med tje45
-
-Se omtale av barnevernets rolle i 25. juni-saken i kapittel
-34.10
-
-nesten. For å kjenne igjen bekymringstegn og
-sette inn riktige tiltak må ansatte ha fenomenkunnskap og kjennskap til effektive forebyggende
-strategier. Det kan ofte være behov for å samhandle med andre aktører som jobber mer direkte
-med radikalisering og ekstremisme.46
-
-Boks 26.6 Alle har et ansvar –
-Hva mener ungdom?
-Hva kan ungdom gjøre for å forebygge
-ekstremisme:
-«Vi kan lære om det på skolen, og snakke
-med andre om det.»
-«Sjekke begge sider av en sak, for ikke å
-bli overbevist om den ene siden.»
-«Man kan snakke mer om det og anerkjenne dem som har disse meningene.»
-«Ignorere.»
-«Forske på hva som gjør at de oppfører seg
-sånn, og prøve å forandre på det.»
-«Lære mer om det på skolen fra tidlig
-alder, slik at man vet hva man risikerer å bli
-utsatt for, og sånn.»1
-1
-
-46
-
-Utdrag fra ungdommers tanker om ekstremisme i
-kommisjonens møte med ungdom, jf. vedlegg 1
-
-Taushetsplikt og informasjonsdeling er omtalt i kapittel 34
-
-[Side 233]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-231
-
-Kapittel 27
-
-Kapittel 27
-
-Skolen
-Skolen er en fellesarena i samfunnet hvor alle som
-vokser opp i Norge, møtes. Derfor kan skolen ha
-stor betydning i å forebygge ekstremisme i bred
-forstand. Skolens forebyggende arbeid handler
-primært om de nedre nivåene i forebyggingstrekanten, det byggende og universelt forebyggende
-arbeidet, særlig demokratibygging. Skolen kan
-også ha en rolle i selektivt forebyggende arbeid
-for å redusere risiko- og sårbarhetsfaktorer hos
-enkeltelever og i indikativ forebygging ved en
-alvorlig bekymring om voldelig ekstremisme.
-Skole og utdanning kan også være viktige arenaer
-og virkemidler i reintegrerende arbeid. Skolens
-praksis skal likevel ikke preges av tanken om
-samfunnssikkerhet. En slik tilnærming kan bidra
-til å svekke elevenes rettigheter og begrense
-muligheten deres til fullverdig deltakelse og utvikling. Skolens grunnleggende pedagogiske mandat
-og fokus på barnets beste, skal også være retningsgivende for de tilfellene der skolen fanger
-opp og håndterer konkrete radikaliseringsbekymringer.
-
-27.1 Organisering, roller og ansvar i det
-forebyggende arbeidet
-Utdanningssektoren omfatter barnehage, grunnskole, videregående opplæring, fagskoleutdanning, høyere utdanning og opplæring for voksne.
-Nasjonale standarder blir sikret gjennom lov, forskrift og lære- og rammeplaner.1
-I Norge har alle barn rett til grunnopplæring.2
-Kommunene, fylkeskommunene og de frittstående skolene skal sørge for grunnopplæringen fra
-første klasse på barneskolen til fullført videregående opplæring.3
-Det er flere yrkesgrupper som arbeider på
-skoler, og som har kompetanse som supplerer
-læreres pedagogiske utdanning. Dette er ansatte
-1
-2
-3
-
-Kunnskapsdepartementet 2007
-Grunnloven § 109; Kunnskapsdepartementet 2017b
-Prop. 1 S (2019–2020)
-
-som kan ha oppgaver på andre lærings- og aktivitetsområder som er fordelaktig for at elevene skal
-få en helhetlig oppfølging. Et «lag rundt barnet»4
-er en ambisjon internt i skolen for samarbeid mellom ulike yrkesgrupper. Det har i flere år vært
-jobbet med en slik målsetting, og det finnes også
-forskning som har pekt på et behov for systematisk og langsiktig satsing på feltet.5
-Skolens styringsdokumenter
-Opplæringsloven regulerer skolehverdagen i skolen og til alle som har opplæring i en bedrift, og
-voksne som får grunnskoleopplæring. Gjennom
-formålsparagrafen i opplæringsloven § 1-1 har
-samfunnet gitt grunnopplæringen et omfattende
-mandat. Opplæringen skal gi alle elever ferdigheter, holdninger og verdier som setter dem i
-stand til å mestre sitt eget liv, delta i arbeids- og
-samfunnslivet og ta vare på seg selv og andre i
-samfunnet. Alle skal ha mulighet til å realisere sitt
-potensial i en inkluderende skole. Skolens formål
-inkluderer å «opne dører mot verda og framtida
-og gi elevane og lærlingane historisk og kulturell
-innsikt og forankring». Gjennom formålsparagrafen i opplæringsloven forplikter skolen seg til at
-elevene får erfaring med grunnleggende menneskeverd og likeverd. Formålsparagrafen fastsetter
-også at elevene skal få innsikt i kulturelt mangfold
-og lære kritisk tenkning og bidra til kunnskap om
-demokratiet. Skolens samfunnsoppdrag er altså
-todelt, og inkluderer både sosial og faglig utvikling. Skolen og barnehagens arbeid med å utvikle
-inkluderende sosiale og faglige læringsfellesskap
-er sentralt i det byggende og forebyggende arbeidet.
-
-4
-
-5
-
-Laget rundt barnet er et uttrykk for en ambisjon om å samordne aktører i utdanningssektoren og andre, jf. Proba
-samfunnsanalyse 2023c
-Se eksempelvis Buland, Mordal og Mathiesen 2020; Borg,
-Drange, Fossestøl og Jarning 2014; Borg, Christensen, Fossestøl og Pålshaugen 2015; Gjertsen, Hansen og Juberg
-2018; Holmøy, Birkrem, Lien og Flaten 2019
-
-[Side 234]
-
-232
-
-Kapittel 27
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 27.1 Undervisning om 22. juli
-2011
-Alle elevene som går ut av 10. klasse, skal ha
-lært om terrorangrepene 22. juli 2011. Når og
-hvordan er opp til lærerne og skolene.1 I læreplanene som ble innført i 2020, blir terrorangrepet nevnt eksplisitt under samfunnsfag for
-1. til 10. trinn under det tverrfaglige temaet
-demokrati og medborgerskap. Kunnskapen
-om 22. juli 2011 kobles til videreutviklingen av
-demokratiet på den ene siden og forebygging
-av ekstreme holdninger, ekstreme handlinger
-og terror på den andre. En slik kobling mellom demokratibygging og terrorforebygging
-har blitt kritisert fordi det å fremheve terror
-uforholdsmessig mye kan bidra til at elevene
-utvikler terrorangst.2 Læring om 22. juli kan
-kobles til mange demokratiske problemstillinger og utfordringer, ikke bare terror.3 I 2018
-fikk Det Europeiske Wergelandsenteret og
-Institutt for lærerutdanning ved NTNU i oppdrag fra Utdanningsdirektoratet å utvikle et
-lærings- og refleksjonsmateriell om 22. juli.
-Det er frivillig å bruke, og siden 2020 har det
-ligget fritt tilgjengelig på nett.4
-1
-2
-3
-4
-
-Kunnskapsdepartementet 2019
-Sjøen 2023
-Anker og von der Lippe 2015; Erdal og Granlund 2021
-Det Europeiske Wergelandsenteret u.å.
-
-Læreplanene er forskrifter til opplæringsloven
-og styrer innholdet i opplæringen. Læreplanverket består av en overordnet del, fag- og timefordeling og læreplaner i fag.6 Overordnet del av læreplanverket utdyper verdigrunnlaget i opplæringslovens formålsparagraf og de overordnede prinsippene fra grunnopplæringen. Overordnet del
-beskriver det grunnsynet som skal prege pedagogisk praksis i hele grunnopplæringen som menneskeverdet, kritisk tenkning og etisk bevissthet
-samt demokrati og medvirkning.7 De tverrfaglige
-temaene er «knyttet til samfunnsutfordringer som
-er aktuelle over tid»8, og skal bidra til å gi elevene
-forståelse og kompetanse til å aktivt delta i å løse
-disse utfordringene. Grunntanken er at når elevene blir rustet til å foreta selvstendige og kritiske
-
-Boks 27.2 Kunnskap om vern av
-urfolk og minoriteter
-Vern av mindretallet er et viktig demokratisk
-prinsipp, og alle deltakerne i skolefellesskapet
-må utvikle bevissthet om både minoritets- og
-majoritetsperspektiver samt skape rom for
-samarbeid, dialog og meningsbryting.1 Dette
-krever et profesjonelt skjønn. Som en del av
-den demokratiske opplæringen skal elevene
-lære om vern av mindretallet. I henhold til de
-demokratiske verdiene og prinsippene som er
-skissert i den overordnede delen av læreplanen, skal elevene få kunnskap om urfolk og
-minoriteter, og hvordan rettighetene deres
-skal ivaretas.
-1
-
-vurderinger av virkeligheten de møter, kan det
-motvirke meningstap og avmaktsfølelse.
-
-27.2 Menneskerettigheter og
-demokratibygging i skolen
-27.2.1 Demokrati og kritisk tenkning
-Fra barna begynner i barnehagen, skal de delta i
-demokratiske prosesser for å få bidra og medvirke i
-hverdagen. Ved å delta i barnehagens fellesskap
-skal barn få mulighet til å ytre seg, lytte til andre og
-respektere andre.9 Barnehagen skal også arbeide
-mot diskriminering, fordommer og rasisme.10 Skolen skal bidra til å forberede elever til full og likeverdig samfunnsdeltakelse,11 der hverdagslige
-lærings- og sosiale samhandlingsprosesser kan
-styrke elevenes demokratiske motstandsdyktighet.
-På mange skoler arbeider man med å gi elevene en grunnleggende erfaring av å bli anerkjent
-og kjenne tilhørighet, å føle mestring, å bli hørt og
-å kunne medvirke. I dette ligger en kraft som kan
-motvirke mange av de underliggende faktorene
-og drivkreftene bak radikaliseringsprosesser.12
-Dette arbeidet gjøres gjennom flere tilnærminger,
-som å etablere et inkluderende læringsmiljø, praktisere demokrati og tenke kritisk. I kommisjonens
-møter med ungdommer har det blant annet kom9
-
-6
-7
-8
-
-Utdanningsdirektoratet u.å.-a
-Kunnskapsdepartementet 2017b
-Meld. St. 28 (2015–2016)
-
-Kunnskapsdepartementet 2017b
-
-Forskrift om rammeplan for barnehagens innhold og oppgaver 2017
-10 Prop. 1 S (2023–2024)
-11 Prop. 1 S (2023–2024)
-12
-Davies 2009; Davies 2014
-
-[Side 235]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-met frem at det er viktig å snakke om muslimhat,
-homo- og transfobi, og andre former for gruppefiendtlighet.13 Skolen skal bidra med å forebygge
-rasistiske og gruppefiendtlige holdninger og
-skape rom for mangfold i fellesskapet.14
-I en tid der alle er utsatt for store mengder
-med informasjon, kan feilinformasjon og propaganda som sprer antidemokratiske og avhumaniserende budskap, være vanskelig å identifisere.
-Kritisk tenkning er en nødvendig demokratisk
-«sikringsmekanisme». I kommisjonens møter
-med ungdom har kildekritikk blitt fremhevet som
-en vesentlig ferdighet som kan bidra til å forebygge ekstremisme.15 Barn og unge trenger verktøy for å kunne drøfte og vurdere informasjon og
-virkelighetsbeskrivelser som de møter, uten at
-disse verktøyene i seg selv skal snevre inn ytringsrommet eller muligheten for å uttrykke uenighet.
-Evnen til kritisk selvrefleksjon er en slik demokratisk sikringsmekanisme. Det å så tvil i møte med
-forenklede ideologiske forestillinger og fiendebilder kan ha avgjørende betydning for å hindre eller
-snu radikalisering.16
-
-Arbeidet med demokrati i skolen har blitt styrket gjennom læreplanverket for Kunnskapsløftet
-2020 (LK20). Læreplanverket legger vekt på
-kunnskap om demokratiske institusjoner og
-ferdigheter for å delta i demokratisk samhandling,
-men også konkrete erfaringer med deltakelse og
-reell medvirkning. Læring om, gjennom og for
-demokrati er nødvendig for å sette elevene i stand
-til å bli aktive deltakere i demokratiske prosesser.17 Demokratilæring begrenses imidlertid ikke
-til klasserommet, men berører samtlige aspekter
-av skolehverdagen. Læringen kan omfatte saker i
-lokalmiljøet eller på samfunnsnivå som engasjerer
-elevene. Demokrati må praktiseres for å læres.
-Når elevene kan få kunnskap og utøve demokrati i
-praksis ved å faktisk påvirke saker, prosesser og
-beslutninger som angår dem i hverdagen, blir
-demokratiet troverdig og engasjerende.
-Det finnes også flere eksterne aktører som
-står for tiltak rettet mot skolen for å forebygge fordommer, diskriminering, rasisme og andre negative holdninger, og eventuelt handlinger, mot
-minoriteter, utsatte grupper eller andre.18 De
-17
-
-13
-
-Se vedlegg 1
-14 Prop. 1 S (2023–2024)
-15 Se vedlegg 1
-16
-Mattsson 2018; Mattsson 2019
-
-233
-
-Kapittel 27
-
-18
-
-Stray 2011
-Det vises i den forbindelse til omtalen av vitneobservasjoner, Freds- og menneskerettighetssentre, og veiviserordningen i del VI Oppgjør, minne og læring og Dembra
-nedenfor
-
-Verdier
-
-Holdninger
-
-– Verdsetting av menneskeverd og menneskerettigheter
-– Verdsetting av kulturelt mangfold
-– Verdsetting av demokrati, rettferdighet,
-likeverd og rettssikkerhet
-
-– Åpenhet for kulturelle forskjeller og andres tro,
-livssyn og praksis
-– Respekt
-– Samfunnsbevissthet
-– Ansvarsfølelse
-– Tro på egen mestringsevne
-– Toleranse for tvetydighet
-
-Kompetansene
-Ferdigheter
-
-Kunnskap og kritisk forståelse
-
-– Autonome læringsevner
-– Analytiske evner og kritisk tenkning
-– Evne til å lytte og observere
-– Empati
-– Fleksibilitet og tilpasningsevne
-– Språklige, kommunikative og flerspråkelige evner
-– Samarbeidsevner
-– Konfliktløsningsevner
-
-– Kunnskap om og kritisk forståelse av selvet
-– Kunnskap om og kritisk forståelse av språk
-og kommunikasjon
-– Kunnskap om og kritisk forståelse av verden:
-politikk, jus, menneskerettigheter, kultur, kulturer,
-religioner, historie, media, økonomi, miljø, bærekraft
-
-Figur 27.1 Kompetanse i demokratisk kultur
-Kompetanse i demokratisk kultur. Å leve sammen som likeverdige i kulturelt mangfoldige demokratiske samfunn. Sammendrag.
-Kilde: Europarådet 2016. © Council of Europe
-
-[Side 236]
-
-234
-
-Kapittel 27
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-fleste tiltakene er rettet mot ungdomsskoler og
-videregående skoler.19
-Europarådets referanserammeverk Competences for democratic culture (RFCDC) er utviklet for
-å støtte utdanningssystemer, utdanningsinstitusjoner og profesjonsutøvere i utdanningsfeltet i å
-jobbe systematisk med demokrati og medborgerskap i skolen. «Sommerfuglen», jf. figur 27.1, kan
-brukes i skolens profesjonsfellesskap for arbeidet
-med undervisning og læringsmiljø.20 Modellen
-viser alle de spesifikke verdiene, holdningene, ferdighetene, kunnskapen og den kritiske forståelsen som gjør en person i stand til å delta effektivt
-og hensiktsmessig i en demokratisk kultur.
-
-27.2.2 Å etablere inkluderende og trygge
-skole- og læringsmiljøer
-Opplæringslovens kapittel 9 A fastslår at alle
-elever har rett til et trygt og godt læringsmiljø, og
-forplikter skolen til å jobbe systematisk med
-dette.21 Av § 9 A-3 følger det at «[s]kolen skal ha
-nulltoleranse mot krenking som mobbing, vald,
-diskriminering og trakassering». Nulltoleranseprinsippet innebærer at elevene skal bli hørt og
-trodd på sin egen opplevelse av situasjonen, og
-gjennom aktivitetsplikten er skolen forpliktet til å
-iverksette umiddelbare tiltak for å gjenopprette et
-trygt skolemiljø for den berørte eleven.22
-Demokrati handler om aktiv deltakelse hvor
-uenigheter synliggjøres. Når det settes trygge rammer rundt det å være uenig og løse konflikter, vil
-både elever og lærere oppleve trygghet, slik at
-ulike holdninger og oppfatninger får lov til å
-komme frem.23 Å etablere et inkluderende læringsmiljø på skolen er en måte å styrke demokratisk
-motstandskraft på. Ved mange skoler gjøres det et
-viktig arbeid med å la elevene oppleve anerkjennelse og tilhørighet, føle mestring og bli hørt. Dette
-arbeidet kan motvirke mange av risiko- og sårbarhetsfaktorene som inngår i radikaliseringsprosesser, og drivkreftene bak radikaliseringsprosesser.24
-Ungdommer som kommisjonen har møtt, har truk19
-
-Dette er også funnet i en evaluering av handlingsplaner
-mot antisemittisme. Proba samfunnsanalyse 2023a
-20 Lenz 2020c
-21 Jf. §§ 9 A-1 og A-2. Bestemmelsene blir videreført i den nye
-opplæringsloven av 2023 (ikke trådt i kraft)
-22 Denne paragrafen endres til paragraf 12 i den nye opplæringsloven av 2023. I endringen ble det også lagt til omtale
-av at skolen ikke skal godta krenkende oppførsel som
-eksempelvis mobbing, vold, diskriminering og trakassering
-23 Utdanningsforbundet 2022
-24
-Davies 2009; Davies 2014
-
-ket frem viktigheten av å ha mulighet til å være
-uenige og diskutere ulike tema på skolen. De
-ønsker flere trygge rom å diskutere det man er
-uenige om. De siste årene har det vært mye oppmerksomhet på at lærerstudenter og lærere skal
-heve kompetansen på og få videreutdanning i
-undervisning om kontroversielle temaer,25 og det
-er stor etterspørsel etter slike tilbud.
-Skolen er forpliktet til å fange opp og håndtere
-fordomsfulle uttrykk for å ivareta de berørte elevenes rett til et godt og trygt læringsmiljø. Derfor
-trenger lærere og andre ansatte i skolen kompetanse til å identifisere underliggende fordommer
-og gruppefiendtlige holdninger i det som kan
-fremstå som konflikter eller mobbedynamikker
-mellom enkeltelever. Flere rapporter har dokumentert at elever opplever å ikke bli trodd på eller
-møter en bagatellisering av rasistiske hendelser.26
-Det å ikke bli hørt eller sett kan skape avmaktsfølelser hos den enkelte og skape utenforskapsdynamikker i elevgruppen. Når man skal gjenopprette et trygt skolemiljø for elever som har vært
-utsatt for enten mobbing, vold, diskriminering
-eller trakassering i skoletiden, kreves det ulike
-pedagogiske tilnærminger.27 Dette skal ivareta
-både den som er utsatt for krenkelsene, og den
-eller dem som har stått for krenkelsene.
-I kommisjonens møter med ulike ungdomsrepresentanter har skolen og lærere blitt fremhevet
-som viktige aktører for å forebygge radikalisering
-og ekstremisme blant ungdom. Tilbakemeldingene kommisjonen har fått, har også understreket
-viktigheten av å lære om ekstremisme på skolen. I
-enkelte av kommisjonens møter med elever og
-personer med tilknytning til skolesektoren har
-også andre yrkesgrupper på skolen blitt fremhevet som viktige ressurser for barn og unge i dette
-arbeidet, for eksempel miljøterapeuter (sosionomer, vernepleiere og barnevernspedagoger) og
-helsesykepleiere.28 Dette er et viktig supplement
-for å sikre en helhetlig oppfølging av elevene. Det
-at disse profesjonsgruppene er til stede i skolen,
-har dessuten vist seg å styrke skole-hjem-samarbeidet, også i saker der det er bekymring for radikalisering.29 Kommisjonen erfarer at det er varier25
-
-Se for eksempel Universitetet i Bergen u.å.; Utdanningsforbundet u.å.
-26 Wasvik 2017; Unicef 2022
-27 Moldrheim 2014; Lenz og Moldrheim 2019
-28 Seminar på Utøya 27. mars 2023 og kommisjonens møter
-med ungdom, jf. vedlegg 1
-29 Kommisjonens samtaler med representanter for ulike kommuner både i møter, seminarer og innspillsmøter samt innspill gitt på skoleseminar på Utøya 27. mars 2023, jf. vedlegg 1
-
-[Side 237]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 27.3 Samtalefellesskap
-Kritisk tenkning er en fagovergripende og
-sentral ferdighet elevene trenger for å utvikle
-seg som ansvarlige medborgere. Det er en fin
-balansegang mellom individuell utvikling og
-opplevelsen av å høre hjemme i et sosialt og
-faglig fellesskap. I et trygt samtalefelleskap
-kan elevene utvikle kritisk tenkeevne og selvrefleksjon. Her kan elever og lærere stille
-spørsmål og tåle uenighet. I utforskende samtaler øver de opp evnen til å lytte til hverandre
-på en respektfull måte. Begrepet uenighetsfellesskap rommer et gyldig VI – der mangfold
-og ulikhet er verdsatt. Fellesskapet er ikke
-bygget på likhet, men på ønsker og vilje til dialog og samarbeid. Slike uenighetsfellesskap
-krever øvelse og bevisstgjøring hos elevene
-og vil gi erfaringer om likeverd og hva demokrati vil si i praksis.1
-1
-
-Iversen 2017
-
-ende om skoler har miljøterapeuter eller ikke, noe
-som fører til ulik praksis og ressurser for elever
-avhengig av skole.
-Skoleeiere skal sørge for kompetansetiltak i
-skolen i samarbeid med universitet og høyskoler.
-Tiltakene skal være basert på egne behov og dialog med høyere utdanningsinstitusjoner. Utdanningsdirektoratet har en tilskuddsordning for
-lokal kompetanseutvikling i barnehage og grunnopplæring.30 Midlene skal brukes til etterutdanning og kompetanseutvikling i profesjonsfellesskapet.31 Den kollektive kompetanseutviklingen
-skal styrke kunnskap og kompetanse og slik
-fremme utvikling, læring og trivsel og bidra til et
-likeverdig tilbud for alle barn og unge. Denne ordningen kan være aktuell for kompetanseutvikling
-om radikalisering og ekstremisme, samt styrking
-av kompetanse relatert til universell forebygging i
-skolen.
-
-27.2.3 Dembra
-Dembra står for Demokratisk beredskap mot
-rasisme, antisemittisme og udemokratiske holdninger og er et kompetansehevingstilbud til støtte
-for skoler og lærerutdanning i hele landet. Kjer30
-31
-
-Utdanningsdirektoratet 2023
-Statsforvalteren 2023
-
-235
-
-Kapittel 27
-
-nen i Dembra er å forebygge utenforskap og udemokratiske holdninger gjennom å bygge demokratisk kompetanse, med inkludering og deltakelse, kritisk tenking og mangfoldskompetanse
-som sentrale prinsipper. Dembra tilbyr veiledning,
-kurs og nettbaserte ressurser for skoler og lærerutdanningen. Målgruppen i skolen er barneskoler, ungdomsskoler og videregående opplæring.
-Over 150 skoler har benyttet seg av Dembra,
-og mer enn 4300 lærere har deltatt i Dembra så
-langt.32 I tillegg har personell på 13 lærerutdanningsinstitusjoner vært involvert i Dembra.33 I
-lærerutdanningen bidrar Dembra til å styrke profesjonskompetansen relatert til forebygging av
-fordommer og gruppefiendtlighet blant studentene slik at fremtidige lærere innehar oppdatert
-kunnskap samt pedagogisk og fagdidaktisk kompetanse. Gjennom forsknings- og utviklingsprosesser bidrar Dembra også til økt kompetanse
-blant ansatte i universitets- og høyskolesektoren. I
-det videre omtales Dembra i skolen.
-Dembra tilbys gjennom seks av de syv fredsog menneskerettighetssentrene, som er nærmere
-omtalt i kapittel 39.1 Freds- og menneskerettighetssentre, med prosjektledelse og sekretariat på
-HL-senteret. Arbeidet ved en skole begynner med
-en kartlegging av lokale utfordringer, noe som
-omfatter utarbeidelsen og implementering av
-lokale tiltak, samt kompetanseheving for hele personalet.34 Skoler som deltar i Dembra, gjennomfører samlinger for alle lærere og ledere ved skolen.
-En rekke temaer tas opp på disse samlingene slik
-som antisemittisme, rasisme og andre gruppefordommer, radikalisering, ekstremisme og udemokratiske holdninger, demokratisk beredskap, kritisk tenkning og konflikthåndtering. Det gjennomføres også spørreundersøkelse blant skolens
-elever og lærere til hjelp i skolens egenanalyse.
-Tiltak for skolen blir utviklet og gjennomført av
-skolen selv, men med veiledning fra kursholderne.35 Veilederne følger opp skolenes utviklingsarbeid i ett til to år. Satsningsområdet varierer fra skole til skole, nettopp fordi alle skoler har
-hver sine utfordringer og ambisjoner. Eksempler
-kan være utenforskap på sosiale medier, et trygt
-samtalefellesskap i klasserommet, kritisk tenkning med undervisningsøkter på tvers av trinn
-eller at læreren bevisst blander ulike elevgrupper.
-Slik tilpasses arbeidet med Dembra til alt fra store
-byskoler til små bygdeskoler. Når satsingen er
-32
-
-Dembra u.å.-b, Hva er Dembra?
-Dembra u.å.-b, Hva er Dembra?
-34 Dembra u.å.-c, Samarbeidspartnere og støttespillere
-35 Dembra u.å.-a, For lærere
-33
-
-[Side 238]
-
-236
-
-Kapittel 27
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 27.4 Dembras prinsipper for
-forebygging
-1
-Dembras prinsipper for forebygging er
-utviklet ut fra hvilke læringserfaringer og hvilken institusjonell praksis som fremmer en
-demokratisk skolekultur og forebygger fordommer, utenforskap og diskriminering.
-• Prinsipp 1: inkludering og deltakelse
-• Prinsipp 2: kunnskap og kritisk tenkning
-• Prinsipp 3: mangfoldskompetanse
-• Prinsipp 4: eierskap og forandring
-• Prinsipp 5: skolen som helhet
-1
-
-Dembra u.å.-b, Hva er Dembra?
-
-bestemt, utvikler skolen en plan med oversikt
-over både eksisterende og nye tiltak rettet mot
-området. Skolen kan ha mange tiltak eller prosjekter gående samtidig, uten at disse nødvendigvis
-har alle ansattes oppmerksomhet. Fordi skolen
-selv bestemmer hva som skal være satsningsområdet deres, består ikke Dembra av et ferdig kurstilbud. Dembra baserer seg ikke på en teori eller
-metode, men trekker veksler på forskning fra fagfeltene forebygging og skoleutvikling.36
-Det er stor etterspørsel etter Dembras tilbud
-til skoler. Kommisjonen har inntrykk av at Dembra tilbyr faglig solide verktøy som lærere og skoleledere kan nyttiggjøre seg i sitt arbeid, enten de
-står overfor konkrete utfordringer eller ønsker
-veiledning for hvordan skolen kan jobbe langsiktig med å bygge demokratisk kompetanse. I en
-evaluering av handlingsplanen mot antisemittisme
-kom det frem at Dembra har positiv effekt og fungerer godt i skolen. Det er imidlertid også funnet
-at Dembra, som andre tiltak rettet mot skolen,
-ikke når frem til mange nok.37 Dette er også inntrykket kommisjonen har fått i sitt arbeid. Evalueringsrapporten foreslår at Dembra kan utvides
-eller justeres, og at andre tiltak eventuelt også kan
-settes inn.
-
-36
-37
-
-Lenz og Nustad 2016
-Proba samfunnsanalyse 2023a
-
-27.3 Forebygging av voldelig
-ekstremisme i skolen
-Utdanning kan redusere noen voldelige fenomen, men terrorisme er kanskje ikke ett av
-dem. (Østby, Urdal og Dupuy 2019, uoffisiell
-oversettelse)
-Skolen har ikke ansvar for å håndtere eller
-avverge tilfeller av radikalisering og voldelig
-ekstremisme. Det vil imidlertid kunne forekomme tilfeller der det er en bekymring for at
-enkelte elever eller grupper av elever på en skole
-er i fare for radikalisering eller har blitt radikalisert. I disse tilfellene er det avgjørende at skolens
-ansatte har kompetanse til å fange opp faresignalene, men også til å erkjenne hvor deres egen
-kompetanse og mandat slutter, og når andre aktører bør involveres. For tillitsrelasjonen mellom
-elevene og skolens ansatte er det avgjørende at de
-ansatte konsentrer seg om sitt pedagogiske mandat: å støtte utviklingen av og vise omsorg for hver
-elev. Dette kan være en vanskelig avveining og
-forutsetter en avklaring av mandatet og når de
-skal kontakte andre instanser for videre vurdering.
-Ved bekymringer for om en elev er i faresonen
-for å radikaliseres eller for å begå voldelige
-handlinger, kan det oppstå dilemmaer og avveininger mellom den grunnleggende pedagogiske ivaretakelse av eleven og behovet for å avverge
-skade. Et av disse dilemmaene kan handle om tillit. Når elever strever med ulike utfordringer, blir
-de ekstra sårbare for alt som kan oppleves som
-svik. I mange tilfeller er mistillit mot offentlige
-institusjoner og deres representanter en del av
-utfordringsbildet.
-Skolens ansvar for å vise omsorg for eleven
-slutter ikke når andre aktører trekkes inn. Tydelige signaler om at eleven anerkjennes og er velkommen som en del av skolefellesskapet, kan
-være avgjørende for å hindre selvforsterkende
-negative dynamikker. Dersom ansatte ved en
-skole er bekymret for radikalisering hos barn
-eller ungdom, skal de så tidlig som mulig følge det
-opp gjennom de rutinene den enkelte skole har.
-Den som er bekymret, bør først ta en samtale med
-eleven, og om bekymringen fortsatt er til stede,
-skal det meldes videre. Skolen har ansvar for å formidle bekymring for radikalisering til lokalt politi
-og/eller barnevern hvis eleven er under 18 år.38
-38
-
-Utveier.no 2022
-
-[Side 239]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 27.5 Eksempelsak IV –
-vellykket forebygging
-En gutt på ungdomsskolen ble fanget opp av
-PST på grunn av høyreekstrem aktivitet på
-nett. Han var mye alene hjemme, og var aktiv
-med gaming under pandemien. Han var litt
-politisk interessert, og interessen ble sterkere
-etter at han chattet med andre på nettet, blant
-andre en representant for et høyreekstremt
-politisk parti. Det politiske synet hans ble mer
-høyrevridd, og han ble blant annet opptatt av å
-begrense innvandring, finne informasjon om
-tidligere naziledere og andre høyreekstreme
-forhold. Han sluttet med sport og var mindre
-med venner på fritiden. Det ble etablert en
-tverretatlig gruppe i kommunen bestående av
-blant annet forelder, politi, kontaktlærer, miljøarbeider og en representant fra forebyggende
-avdeling i kommunen. Tiltak ble igangsatt,
-som mer tid med aleneforelder, deltakelse i
-sportslige aktiviteter og mer tid med venner.
-Miljøarbeider og kontaktlærer på skolen ble
-tett involvert.
-
-Dersom det oppstår en alvorlig radikaliseringsbekymring knyttet til en elev må de ansatte
-vite hvor de skal henvende seg. Å ha etablerte
-relasjoner med for eksempel SLT-koordinator i
-kommunen, Dembra-veileder og politiets radikaliseringskontakt kan da ha stor betydning.39 Langsiktig lokalt samarbeid mellom skoler og førstelinjetjenestene, som politi og helse, gjør det enklere
-for skolen å arbeide med forebygging rettet mot
-enkeltelever. Kommisjonen har fått innspill om at
-politiet savner en tettere samhandling med skolen, og at skolen mangler i fora for samarbeid mellom aktørene.40
-I de fleste saker vil det ikke finnes entydige
-signaler når en person radikaliseres. En radikaliseringsprosess identifiseres gjennom et sammenfall av flere elementer som samlet kan peke mot
-en bekymringsfull utvikling.41 Derfor må skolen
-ha ansatte med kompetanse på radikaliseringsmekanismer. Det er også et behov for institusjonelle
-rutiner og en kultur for deling av bekymring. Sko-
-
-237
-
-Kapittel 27
-
-Boks 27.6 Universitets- og
-høyskolesektoren
-Kunnskapsdepartementet ga Råd for samfunnssikkerhet og beredskap i kunnskapssektoren, Beredskapsrådet,1 i oppdrag å utvikle
-en tiltaksliste for forebygging av radikalisering og voldelig ekstremisme i sektoren i samarbeid med universitets- og høyskolesektoren.
-Tiltakslisten bygger på prinsippene om akademisk frihet2 og verdigrunnlaget som høyere
-utdanning er tuftet på. Tiltakene handler blant
-annet om å stimulere til mer debatt og fri
-meningsutveksling og å sørge for at enkeltpersoner og minoriteters stemmer blir sett og
-hørt. Tiltakslisten trekker også frem viktigheten av å være opptatt av studenters psykiske
-helse og opplevelse av ensomhet og utenforskap, særlig under det første året med høyere
-utdanning. Det trekkes også frem at lederansvaret for forebygging av radikalisering og voldelig ekstremisme blant annet innebærer å
-utarbeide risiko- og sårbarhetsanalyser og å
-håndtere bekymring.3
-Det er utarbeidet en egen nettside, sikresiden.no, hvor studenter og ansatte kan få informasjon om hva de selv kan gjøre i uønskede
-situasjoner, hvor de kan få hjelp, og hvordan
-de kan bidra til å forebygge uønskede hendelser.4
-1
-
-2
-
-3
-4
-
-Beredskapsrådet ble etablert av Kunnskapsdepartementet i januar 2017 og består av 14 medlemmer fra
-høyere offentlige og private utdanningsinstitusjoner,
-folkehøyskolene, fagskoler, studentorganisasjoner og
--samskipnader samt Utdanningsdirektoratet
-Akademisk frihet innebærer at forskere og studenter
-fritt kan undersøke ethvert fagfelt og gi uttrykk for faglige synspunkter. Det innebærer at forskere skal kunne
-formidle ideer eller fakta, også slike som er ubehagelige for myndighetene eller politiske/religiøse grupperinger
-Beredskapsrådet u.å.
-Sikresiden u.å.
-
-lens pedagogiske grunnsyn bør ligge til grunn for
-slike avveininger og ha som mål å hindre og reversere uheldig utvikling gjennom pedagogisk «stillasbygging»42 og «ett lag» rundt eleven.
-
-39
-
-Kommisjonens samtaler med ulike representanter for skolesektoren i møter og innspillsmøter, jf. vedlegg 1
-40 Kommisjonens møter med ulike representanter for politiet
-41
-Det vises til ytterligere omtale av radikalisering i del IV
-
-42
-
-Begrepet støttende stillas, scaffolding, kommer fra sosiokulturell læringsteori og ble introdusert av Jerome Bruner.
-Wheeler 2014
-
-[Side 240]
-
-238
-
-Kapittel 28
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 28
-
-Helse- og omsorgssektoren
-God helse er en forutsetning for menneskers
-mulighet til å nå sitt fulle potensial og for å bidra i
-samfunnet. Helse henger sammen med sosiale
-forhold som oppvekstsvilkår, barnehager og skoler.1 Velfungerende tilbud innenfor helse- og
-omsorgssektoren er altså en del av helheten som
-skal forebygge ekstremisme gjennom å sørge for
-et godt liv. Dette kapittelet handler imidlertid primært om forebygging av voldelig ekstremisme i
-forebyggingstrekantens øvre nivåer, selektiv og
-indikativ forebygging.2 Selv om det ikke er mulig
-å peke på en direkte link mellom psykisk helse og
-ekstremistisk vold, er det kjent at mange radikaliserte sliter med psykisk uhelse.3
-Det er kommunene som har ansvaret for primærhelsetjenesten, mens staten er ansvarlig for
-spesialisthelsetjenesten gjennom helseforetakene.4
-Det gjelder både for fysisk og psykisk helse.5
-Forskjellige helse- og omsorgstjenester er i kontakt med store deler av befolkningen, og kan spille
-en viktig rolle i å redusere risiko- og sårbarhetsfaktorer for radikalisering hos den enkelte. Slike tjenester kan også ha en rolle i å identifisere personer
-som er radikalisert eller står i fare for å bli det. Samtidig skal helse- og omsorgstjenestene ikke preges
-for mye av en sikkerhetslogikk. Deres mandat er
-primært å yte gode tjenester til borgerne, og er
-avhengig av tillit for å gjøre dette. Helsetjenestene
-kan også være viktige i reintegrering gjennom oppfølging og behandling av personer som har blitt
-radikalisert.6 Personer det er knyttet bekymring til,
-eller personer som ønsker å trekke seg ut av
-ekstreme miljøer eller tankesett, kan også ha behov
-for psykisk helsehjelp. Radikaliseringsprosesser og
-eventuelle påfølgende handlinger kan medføre psykiske skadevirkninger for de involverte.7
-
-Helse- og omsorgssektorens rolle i forebygging av radikalisering og voldelig ekstremisme
-har vært fremhevet siden regjeringens første
-handlingsplan ble lansert i 2010.8 I regjeringens
-kontraterrorstrategi fra 2022 er et av de prioriterte samarbeidsområdene at det «skal legges
-bedre til rette for samhandling på tvers av sektorer i saker hvor psykiske lidelser og ekstremisme
-er eller kan være relevant».9
-
-28.1 Kommunale helse- og
-omsorgstjenester
-Kommunene skal sørge for gode og forsvarlige
-helse- og sosialtjenester til alle som trenger det,
-uavhengig av alder eller diagnose.10 Kommunen
-er også ansvarlig for helsefremmende og forebyggende arbeid.11 Kommunen skal ha oversikt over
-befolkningens helse og sårbarhets- og beskyttelsesfaktorer, og den skal sette inn tiltak som bygger helse og forebygger plager og lidelser.12
-Fastlegen er en sentral helseressurs for de
-fleste. Vedkommende har en viktig rolle i å koordinere pasientens behov for medisinske tjenester
-og samarbeide med de øvrige tjenestene i kommunenes helse- og omsorgstjenester, Nav og spesialisthelsetjenesten.13 Når det oppstår en bekymring om radikalisering, kan derfor fastlegen være
-den første som oppdager dette.
-Skolehelsetjenesten skal gi helsetilbud til
-elever på barne- og ungdomsskolen samt videregående skole. Tjenesten skal i samarbeid med skolen
-fremme helse, læring og trivsel. Det er helsesyke7
-
-Justis- og beredskapsdepartementet 2020b
-Justis- og politidepartementet 2010
-9 Justis- og beredskapsdepartementet 2022b. Samarbeid mellom politi og helsevesenet drøftes i kapittel 33.2. Taushetsplikt og informasjonsdeling for og mellom ulike aktører
-omtales i kapittel 34
-10 Regjeringen u.å.
-11 Helse- og omsorgstjenesteloven § 1
-12 Folkehelseloven kapittel 2
-13
-Helse- og omsorgsdepartementet 2023a
-8
-
-1
-2
-3
-4
-5
-6
-
-Regjeringen 2018, mål nr. 3: God helse og livskvalitet
-Se kapittel 4.7 Hva er forebygging?
-Se del IV Radikalisering
-Dette gjelder også private tilbydere med driftsavtale med
-regionale helseforetak
-Helse- og omsorgsdepartementet 2023a
-Justis- og beredskapsdepartementet 2020b
+# Justissektoren
+
+Justissektoren brukes som en fellesbetegnelse på instansene som jobber for å opprettholde rettsstaten, sikre rettferdighet og beskytte samfunnet og borgerne. Justis- og beredskapsdepartementet har ansvaret for å følge opp flere virksomheter som har en viktig rolle i å forebygge radikalisering og voldelig ekstremisme, som politiet, PST, kriminalomsorgen og konfliktrådene.
+
+Politiets og kriminalomsorgens forebyggende arbeid ligger primært i de øverste nivåene i forebyggingstrekanten, indikativ forebygging og reintegrering, og handler om å forebygge kriminalitet i forbindelse med ekstremisme. Eksempler på dette kan være hatkriminalitet, vold og terror. Justissektoren kan også drive med selektiv forebygging, som handler om å redusere risikofaktorer, fordi andre typer kriminalitet vil kunne være risikofaktor for radikalisering og voldelig ekstremisme.
+
+I tillegg til sitt arbeid med voldelig ekstremisme, har politiet og kriminalomsorgen befatning med utslag av dehumaniserende holdninger som inngår i den brede formen for ekstremisme, særlig gjennom sitt arbeid med hatefulle ytringer. Det er imidlertid ikke politiets eller kriminalomsorgens jobb å forebygge uønskede holdninger. Eventuelle tiltak som politiet eller kriminalomsorgen gjør på et slikt grunnlag, kan utgjøre ulovlige og menneskerettighetsstridige inngrep i innbyggernes liv.
+
+## Politiet
+
+### Politiets organisering, roller og ansvar
+
+Politiet er underlagt Justis- og beredskapsdepartementet og er organisert med et direktorat, POD, tolv politidistrikter, fem særorganer med nasjonale oppgaver[^1213] og fire andre underliggende enheter.[^1214] Det er påtalemyndigheten i politiet som har ansvar for etterforskingen, beslutter bruk av tvangsmidler og avgjør spørsmål om påtale i straffesakene.[^1215]
+
+POD har det overordnede ansvaret for faglig ledelse, styring, oppfølging og utvikling av politidistriktene og særorganene i politiet, med visse unntak, inkludert PST. POD skal både faglig og administrativt legge til rette for at distriktene kan ivareta oppgavene på best mulig måte. POD har også en generell instruksjonsmyndighet overfor politidistriktene, særorganene og de andre underlagte enhetene, der ikke annet er regulert i lov, med unntak av påtalefunksjonen i politiet.[^1216] PODs fagmyndighet skal inkludere arbeidet med ekstremisme og radikalisering. Direktoratet organiserer også en årlig nasjonal konferanse om forebygging av radikalisering og voldelig ekstremisme. Denne skal samle ulike aktører som forskere, sivilsamfunn og tjenester. Som tidligere omtalt kom det i evalueringen av radikaliseringskontaktordningen frem flere alvorlige svakheter ved PODs faglige ledelse på feltet. Politiet er en etat med mange oppgaver, og POD har i møte med kommisjonen trukket frem at det er viktig med tydelige føringer i tildelingsbrevet fra Justis- og beredskapsdepartementet for å kunne sørge for god prioritering i politietaten.[^1217] Det har for eksempel vært få bestillinger til POD i tildelingsbrevene fra departementet om radikaliseringskontaktordningen. De få bestillingene som har kommet, har imidlertid heller ikke blitt fulgt opp på en tilfredsstillende måte av POD.[^1218]
+
+Politiets oppgaver er nedfelt i politiloven. Politiet skal blant annet bidra til å redusere kriminalitet og øke tryggheten for innbyggerne. Forebygging er et virkemiddel for å oppnå dette og er kjernen i politiets samfunnsoppdrag.[^1219] I politiets strategidokument «I forkant av kriminaliteten» beskrives forebyggende arbeid som «arbeidet politiet utfører, alene eller i samarbeid med andre, for å redusere forekomsten av kriminelle handlinger og uønskede hendelser, redusere skadevirkningene og hindre gjentakelse».[^1220] For å løse sine oppgaver, inkludert forebygging, trenger politiet etterretningsinformasjon som gir beslutningsstøtte i form av kunnskap om problemer og trusler.[^1221]
+
+Politiet arbeider både i det forebyggende sporet og i straffesakssporet. Etter straffeprosessloven § 224 kan politiet iverksette etterforsking når det foreligger rimelig grunn til å undersøke om det foreligger et straffbart forhold. Påtalemyndigheten avgjør om det skal tas ut tiltale. I bestemte tilfeller kan det iverksettes avvergende etterforsking.[^1222] Strafferettslig forfølgning kan sies å forebygge på grunn av straffens avskrekkende effekt.[^1223]
+
+Alle politidistriktene og særorganene skal følge opp de prioriterte tiltakene som beskrives i den reviderte nasjonale kontraterrorstrategien.[^1224] Politidistriktene, Kripos, Økokrim og Politihøgskolen har også føringer om at de skal følge opp politiets forpliktelser i handlingsplanen mot radikalisering og voldelig ekstremisme. Den nasjonale enhet for bekjempelse av organisert og annen alvorlig kriminalitet (Kripos) er et av politiets særorgan og har en nasjonal rolle i kompetanseheving, rådgivning og metodeutvikling for politidistriktenes tilstedeværelse og politiarbeid på internett. Kripos har utarbeidet tipsportalen til politiet, der publikum kan tipse om bekymring for radikalisering. Nasjonalt cyberkrimsenter (NC3) åpnet i 2019 og er en avdeling under Kripos som skal forebygge, avdekke og bekjempe trusler og kriminalitet i det digitale rom. Senteret «utvikler metoder og gir bistand til politidistriktene samt etterforsker egne saker innen cyberkriminalitet».[^1225]
+
+Politiet må samarbeide med andre offentlige aktører, næringsliv, frivillige organisasjoner og sivilsamfunnet for øvrig.[^1226] Det er som regel ikke politiet som har de mest relevante tiltakene å sette inn i det forebyggende arbeidet, da disse typisk ligger hos andre etater som helsesektoren, kommunen, skolesektoren, barnevernet eller Nav. En stor del av politiets forebyggende arbeid går ut på å formidle informasjon og kontakt til andre relevante aktører. For at dette arbeidet skal fungere godt, er det viktig å ha kontaktpersoner og samarbeidspartnere hos de andre aktørene.
+
+### Radikaliseringskontaktordningen
+
+I regjeringens handlingsplan mot radikalisering og voldelig ekstremisme fra 2014 ble det besluttet at det skulle etableres forebyggingskontakter i alle politidistrikter som skulle arbeide med radikalisering og voldelig ekstremisme.[^1227] Opprettelsen av radikaliseringskontaktordningen innebar en tydelig forventning fra nasjonale myndigheter om at politiet skal arbeide forebyggende mot voldelig ekstremisme. Alle politidistrikter har i dag en dedikert ansatt som skal være både fagperson og koordinator på feltet i politidistriktet.[^1228] I noen politidistrikter heter funksjonen radikaliseringskontakt, mens andre bruker navnet radikaliseringskoordinator.[^1229] Flere politidistrikter har også en eller flere lokale radikaliseringskontakter i tillegg til politidistriktets dedikerte kontakt eller koordinator. Begrepene brukes altså forskjellig i ulike distrikter.
+
+Radikaliseringskontaktene eller -koordinatorene skal være kontaktpunkter for lokalsamfunnet ved bekymring om radikalisering og voldelig ekstremisme, gi råd og videreformidle henvendelser til rette instans.[^1230] De skal ha kunnskap om tilgjengelige ressurser, drive bevisstgjøringsarbeid og være kontaktpunkter for PST og de lokale samarbeidsaktørene. De skal også ha en rådgivende funksjon overfor politirådene og Samordning av lokale rus- og kriminalitetsforebyggende tiltak (SLT-koordinatorer)[^1231] og andre lokale samordningsstrukturer.[^1232] PST skal ha tett dialog med og oppfølging av de lokale radikaliseringskontaktene og -koordinatorene og gi dem relevant opplæring i fenomenkunnskap.[^1233] Radikaliseringskontakten vil ofte være den som mottar bekymringsmeldinger fra både offentlige instanser og andre aktører.
+
+Som omtalt innledningsvis i denne delen, kom det høsten 2023 en evaluering av politiets radikaliseringskontaktordning som var utført på oppdrag fra POD og Justis- og beredskapsdepartementet. Evalueringsrapporten så på den erfarte effekten av ordningen, politiets interne organisering av ordningen, PODs nasjonale koordinering av ordningen, samt radikaliseringskontaktenes samarbeid med nasjonale samarbeidspartnere, herunder PST, og lokale samarbeidspartnere i kommunene.
+
+Evalueringens hovedfunn var at nesten ti år etter at radikaliseringskontaktordningen ble innført, er det fremdeles uklart hva som er politiets rolle, ansvar og oppgaver i arbeidet med å forebygge radikalisering og voldelig ekstremisme. Evalueringen fant at POD i liten grad ivaretok sin oppgave med å koordinere ordningen. POD har heller ikke tilrettelagt godt for erfaringsdeling og kompetanseutvikling. Slik kommisjonen forstår det, har POD gitt Kripos i oppdrag å ivareta et fagnettverk for distriktenes radikaliseringskontakter og -koordinatorer, blant annet gjennom å legge til rette for faste møter.[^1234] Denne oppgaven har tidligere ligget hos POD. I evalueringsrapporten kom det frem at dette ikke fungerte godt, da det var ulik forståelse mellom POD og medlemmene i fagnettverket om hva som var intensjonen med møtene.
+
+Evalueringsrapporten fant videre at det var betydelig variasjon i måten politidistriktene organiserer sine radikaliseringskontakter på. Dette skyldes manglende retningslinjer, instrukser og nasjonal koordinering. Evalueringen påpekte også at til tross for at det er kommunene som sitter på de mest aktuelle forebyggende tiltakene, har ikke kommunene, i motsetning til politiet, fått i oppdrag å sette av ressurser til å forebygge radikalisering og voldelig ekstremisme. I evalueringen omtales politiets rolle som et «umulig oppdrag» fordi det er PST som har et tydelig lovfestet mandat på området, mens det er kommunen som har de fleste tiltakene. Basert på disse funnene anbefalte rapporten at kommunene får et tydelig mandat til å koordinere personrettede tiltak som kan forebygge radikalisering, og at PST overtar oppfølgingen når det foreligger en trussel. Evalueringen foreslo at radikaliseringskontaktenes rolle i disse sakene skulle være som etterretningsstøtte.
+
+Evalueringen fant også at det ikke foreligger noen fast opplæring for politiets radikaliseringskontakter og at det ikke er et definert kunnskapsgrunnlag som arbeidet kan basere seg på. Utvalgene som evaluerte angrepene i Bærum i 2019, Kongsberg i 2021 og Oslo i 2022, pekte på det samme problemet. Ekstremisme eller radikalisering er heller ikke nevnt i program- eller rammeplan for politiutdanningen.[^1235] I evalueringen av radikaliseringskontaktordningen ble det anbefalt at POD samarbeider med PST og relevante forskningsmiljøer som Politihøgskolen om å utvikle en grunnopplæring for politiets radikaliseringskontakter. Politihøgskolen startet utvikling av et studieemne i forebygging av radikalisering og voldelig ekstremisme høsten 2023.[^1236]
+
+Eksempelsak I – vellykket forebygging
+
+Det ble meldt bekymring til politiet om en ugift ung mann. Han hadde droppet ut av skolen, sto utenfor arbeidslivet og hadde lite sosialt nettverk. Samholdet i familien var dysfunksjonelt. Han var mistroisk til systemet og hadde erfaring med og tilgang til våpen. Gjennom tidligere utagering hadde han utvist volds- og skadepotensial samt kapasitet, og han var kjent for politiet fra tidligere på grunn av oppdrag relatert til blant annet psykisk uhelse. Bekymringen som politiet mottok, handlet om ekstreme ytringer og at innmelder fryktet at mannen kunne komme til å begå alvorlig vold mot uskyldige mennesker. Han hadde utviklet et fiendebilde mot ulike grupper, som personer med nedsatt funksjonsevne, personer som brukte rusmidler, skilte personer og kvinner. Kripos ble anmodet om å gjøre søk på åpne kilder rundt mannen for å se om det fantes indikatorer på radikalisering, men fant ikke noe. Bekymringen ble først håndtert av politiet. Radikaliseringskontakten i politiet opprettet kontakt med Nav, helsetjenesten og etter hvert mannen selv og hans familie. Taushetsplikten ble opphevet på bakgrunn av samtykke, slik at de ulike aktørene kunne dele informasjon med hverandre. Det ble sentralt å kartlegge hans psykiske helse for eventuell behandling, for så å koble på to mentorer etter at han samtykket til dette. Mentorforløpet gikk bra og kunne etter hvert trappes ned til én mentor. Mannen fjernet seg fra tidligere synspunkter og har uttalt at han ikke lenger har noe hat eller negativt syn på noen menneskegrupper i samfunnet. Han tror selv at han utviklet fiendebildene på grunn av blant annet sin dårlige psykiske helse kombinert med kunnskap om religion og ideologi som forsterket synspunktene.
+
+\[Boks slutt\]
+
+### Forebyggende samtaler
+
+Et tiltak som politiet kan benytte i arbeidet mot radikalisering og voldelig ekstremisme, er forebyggende samtaler. Slike samtaler kan ha ulike innretninger og formål, og de omtales med ulike benevnelser som «bekymringssamtaler» og «avklaringssamtaler». Bekymringssamtalen er forankret i politiloven § 13 fjerde ledd:
+
+Dersom politiet har grunn til å tro at en person under 15 år har begått en ellers straffbar handling, eller at en person under 18 år har begått en straffbar handling, kan den mindreårige og foreldrene pålegges å møte for politiet til samtale for å forebygge ytterligere lovbrudd.
+
+En bekymringssamtale er et verktøy for politiets samtaler med unge og deres foresatte om risikoatferd og kriminalitet. Bekymringssamtalen brukes for å kartlegge og identifisere risiko- og beskyttelsesfaktorer i unges liv med tanke på kriminalitet.[^1237] Samtalen kan også gi politiet opplysninger om kriminalitet som må formidles videre, og kan inneholde informasjon som har etterretningsverdi. POD har utviklet en veileder for bekymringssamtalene.[^1238] Barn med uønsket atferd, som ikke er lovbruddsatferd, eller barn som er i risikosonen for straffbare handlinger, kan ikke pålegges slik samtale. Disse kan inviteres til frivillig samtale hos politiet.
+
+Det er forsket lite på effekten av forebyggende samtaler. I verste fall kan de virke mot sin hensikt, for eksempel ved at den som kalles inn til samtale, føler seg stemplet som kriminell.[^1239] Det kan være problematisk når unge og deres foresatte tenker de er i en samtale med politiet med formål om å hjelpe, uten at politiet eksempelvis informerer om at de kan benytte informasjonen som kommer frem, til andre politimessige formål.[^1240] I november 2023 sendte Justis- og beredskapsdepartementet på høring et forslag om en forskriftsendring som vil gjøre det mulig å utlevere opplysninger fra bekymringssamtaler til forskere uten anonymisering.[^1241]
+
+Politiet gjennomfører også såkalte avklaringssamtaler i det forebyggende arbeidet mot radikalisering til voldelig ekstremisme. Avklaringssamtalen er rettet mot personer over 18 år. Bruk av samtalen er basert på samtykke, og politiet kan ikke pålegge noen å møte til slik samtale.
+
+I motsetning til bekymringssamtalen er ikke avklaringssamtalen uttrykkelig forankret i politiloven, og det har ført til usikkerhet rundt hjemmelsgrunnlaget for samtalene.[^1242] Det er også reist spørsmål om slike samtaler kan være i strid med legalitetsprinsippet og det menneskerettslige vernet av privatliv på grunn av manglende hjemmelsgrunnlag.[^1243]
+
+Tipsordningen politi.no
+
+05N1xt2
+
+|             |      |      |      |      |
+|-------------|------|------|------|------|
+| Årstall     | 2019 | 2020 | 2021 | 2022 |
+| Antall tips | 202  | 233  | 189  | 246  |
+
+Politiet er avhengig av å motta informasjon fra befolkningen for å kunne oppdage og forebygge bekymringer om radikalisering. Tipsløsningen er et viktig virkemiddel i dette arbeidet. På politi.no kan innbyggerne tipse om personer, grupper eller organisasjoner som via internett eller i andre sammenhenger oppfordrer til eller bruker vold for å nå sine politiske, ideologiske eller religiøse mål.
+
+Et av tiltakene i regjeringens handlingsplan mot radikalisering og voldelig ekstremisme fra 2014 var å styrke politiets tilstedeværelse på internett. Kripos fikk oppgaven med å etablere tipsmottak på nett for politiet.<sup>1</sup> Denne er senere videreutviklet.<sup>2</sup>
+
+Det er ansatte ved Nasjonalt Cyberkrimsenter (NC3) på Kripos som mottar og håndterer tipsene som blir sendt inn via denne løsningen. Når Kripos mottar denne typen tips, gjøres det en konkret vurdering av innholdet i tipset. Tipset ses i sammenheng med annen kunnskap og informasjon, og det innhentes mer informasjon om nødvendig. Videre håndteres tipsene i samarbeid med politidistriktet som er involvert, sammen med distriktets radikaliseringskontakt.<sup>3</sup>
+
+<sup>1</sup> Justis- og beredskapsdepartementet 2014
+
+<sup>2</sup> Justis- og beredskapsdepartementet 2020b
+
+<sup>3</sup> Korrespondanse mellom kommisjonens sekretariat og Kripos, 8. mai 2023
+
+\[Boks slutt\]
+
+### Dialog- og mangfoldsarbeid i politiet
+
+Politiet har som ambisjon å styrke arbeidet med mangfold, dialog og tillit. I 2022 ble det lagt frem en handlingsplan på området.[^1244] Planen legger særlig vekt på tiltak som retter seg mot etniske og religiøse minoriteter, blant annet samer, andre nasjonale minoriteter og personer med innvandrerbakgrunn, skeive og personer med nedsatt funksjonsevne.[^1245] Lokalt politi skal etter handlingsplanen holde dialogmøter med skeive miljøer, muslimske organisasjoner, jødiske trossamfunn og andre minoriteter. Det ble etablert dialog mellom politiet og Sametinget i arbeidet med Sametingets handlingsplan mot samehets.[^1246] Politiet arbeider med å utvikle en veileder for å anmelde samehets.[^1247]
+
+I samarbeid med Rosa kompetanse er det utarbeidet et nettkurs som skal øke politiets kunnskap om kjønns- og seksualitetsmangfold.[^1248] I forbindelse med pride i Oslo 2023 ble det arrangert et fagseminar om kjønnsidentitet og kjønnsuttrykk.[^1249] Kommisjonen har også fått opplyst at PST og politiet sammen har gjennomført dialogmøter med relevante organisasjoner i 2023. Disse møtene har favnet flere skeive organisasjoner og pride-arrangører landet over. Temaet for møtene var trusselvurdering av pride, og politiets, PSTs og PODs oppfølging av anbefalinger fra 25. juni-utvalgets rapport. Det var også anledning til å stille spørsmål og komme med innspill til oppfølgingen.[^1250]
+
+Alle politidistriktene og særorganene i politiet skal ha etablert en egen rolle som mangfoldskoordinator, med fagansvar for mangfoldsarbeidet.[^1251] Mangfoldskoordinatorene jobber i stor grad utadrettet overfor innbyggerne. Det er også utviklet et konsept kalt «Rettferdig politi», som skal bidra til kompetanseheving innenfor temaer som dialog, kommunikasjon og konflikthåndtering. Politiets dialog og møte med etniske og religiøse minoriteter er særlig vektlagt, og opplæringen skal gjennomføres i samtlige politidistrikter.[^1252]
+
+Kommisjonen har hatt flere møter med grupper som inngår i ekstremisters fiendebilder eller på andre måter er marginalisert og utsatt for hets, trakassering og vold. Slike grupper inkluderer etniske, religiøse, språklige og seksuelle minoriteter.[^1253] På tross av arbeidet som beskrevet ovenfor, er inntrykket at flere ikke opplever seg tilstrekkelig beskyttet og ivaretatt. De er bekymret for at myndighetene som skal beskytte dem, ikke har nok kunnskap om trusselen de lever med, og har lav kunnskap om hvem de er, og utfordringene de lever med generelt. Dialogmøter med trusselutsatte minoritetsgrupper er en del av PODs oppfølgingsplan etter 25. juni-evalueringen.[^1254]
+
+### Politiets arbeid med hatkriminalitet
+
+Kriminelle handlinger kan være motivert av hat eller negative holdninger til bestemte kategorier mennesker. Slik kriminalitet kan for eksempel være hatefulle ytringer, rasistisk motivert skadeverk eller vold. Hatkriminalitet kan være et uttrykk for voldelig ekstremisme, men dekker imidlertid et bredere spekter av kriminelle handlinger enn vold og kan utføres av personer med for eksempel fordommer uten ideologisk forankring.[^1255]
+
+Hatkriminalitet har vært en sentral prioritering i rundskriv fra Riksadvokaten[^1256] og fått mer oppmerksomhet i politiet, både gjennom grunnutdanningen ved Politihøgskolen og i politidistriktene.[^1257] Oslo politidistrikt opprettet en egen hatkrimgruppe i 2014.
+
+I 2022 ble 923 anmeldelser registrert som hatkriminalitet. Det var en økning på 13 prosent fra 2021. Politiet antar at utviklingen har en sammenheng med at befolkningen har blitt mer bevisst på hatkriminalitet, og at politiet også har fått større kompetanse. Selv med større bevissthet og kompetanse tror politiet det er store mørketall, altså at mennesker blir utsatt for hatkriminalitet som aldri blir anmeldt.[^1258] Det kreves personlig oppmøte på en politistasjon for å anmelde hatkriminalitet, noe som kan oppleves som for belastende for den enkelte. Det kan også være lav tillit til politiet blant personer som utsettes for hatkriminalitet.[^1259]
+
+I en rapport om holdninger til samer og nasjonale minoriteter i Norge anbefaler Norges institusjon for menneskerettigheter (NIM) at alle politidistriktene bør samle inn og publisere statistikk om hatefulle ytringer og hatkriminalitet mot samer og nasjonale minoriteter.[^1260] Bakgrunnen for anbefalingen var at det kun er Oslo politidistrikt som publiserer slik statistikk. Bortsett fra for antisemittisme,[^1261] finnes det derfor ikke ikke tall for rapporterte tilfeller av hatkriminalitet knyttet til andre grupper i Norge. POD arbeider for å følge opp anbefalingen fra NIM.
+
+Politiet fikk i 2021 oppdrag om å etablere et nasjonalt kompetansemiljø for hatkriminalitet. Syv millioner kroner ble tildelt Oslo politidistrikt med bakgrunn i distriktets brede erfaring og kompetanse på fagfeltet.[^1262] Kompetansemiljøet er derfor organisatorisk lagt til Oslo politidistrikt, men tjenesten favner hele landet. Målet for kompetansemiljøet er at mørketallene skal bli mindre, og at den som blir utsatt for hatkriminalitet, skal bli møtt av et kompetent politi uavhengig av hvor i landet den enkelte bor.[^1263] Mandatet til kompetansemiljøet er å heve kompetansen til politiet om hatkriminalitet, hvordan hatkriminalitet kan komme til uttrykk, fysisk og digitalt, samt bistå alle landets politidistrikt med kunnskap og veiledning på fagfeltet.[^1264]
+
+Politiet skal være i stand til å avdekke, forebygge og bekjempe hatkriminalitet uansett hvor i landet den skjer.[^1265] Kompetansemiljøet avholdt sin første nasjonale digitale konferanse høsten 2022. Formålet var å gi en grunnleggende innføring i hatkriminalitet med temaer som fenomenforståelse, identifisering og registrering av saker til etterforsking og påtale. Etter angrepet 25. juni 2022 har kompetansemiljøet styrket sin utadrettede virksomhet, spesielt blant skeive organisasjoner.[^1266] I løpet av 2023 skal alle politidistrikt ha fått på plass en egen hatkriminalitetskontakt, og det nasjonale kompetansemiljøet skal besøke alle distriktene og ha opplæring for utpekte ressurspersoner. Disse ressurspersonene skal igjen sørge for kompetanseheving i sitt distrikt.[^1267]
+
+Støttesenter for kriminalitetsutsatte er etablert i hvert politidistrikt for å styrke offeromsorgen.[^1268] Sentrene ble opprettet i 2017 og har som formål å tilby psykososial støtte, informasjon og veiledning til personer utsatt for integritetskrenkende kriminalitet. Ved sentrene kan kriminalitetsutsatte, inkludert de som utsettes for hatkriminalitet, få hjelp til å anmelde, støtte gjennom straffesaken og hjelp til å søke voldsoffererstatning. Støttesentrene har i hovedsak helse- og sosialfaglige ansatte.[^1269] I Riksrevisjonens undersøkelse av myndighetenes innsats mot vold i nære relasjoner gikk det frem at det har vært utfordringer med å få på plass bemanning, og at noen politidistrikter har nedprioritert sentrene av økonomiske grunner.[^1270] Det arbeides med nasjonale retningslinjer som skal bidra til å etablere en felles standard for støttesentrenes virksomhet og arbeid. Kommisjonen er ikke kjent med om hatkriminalitet inngår i disse nasjonale retningslinjene.
+
+Psykiatrigruppen
+
+Psykiatrigruppen består av en gruppe etterforskere og jurister i Oslo politidistrikt. Gruppens mandat er å etterforske og avgjøre om det skal reises påtale i straffesaker mot et forhåndsdefinert utvalg av personer i Oslo politidistrikt som alle er antatt utilregnelige. Gruppen ble etablert på fast basis i 2018. Gruppen består av syv etterforskere og fem jurister. Gruppen følger i dag opp rundt 70 personer som begår enten alvorlig eller gjentatt kriminalitet.
+
+Kartlegging av en persons tilregnelighet gjøres ved blant annet registersøk, foreløpig rettspsykiatrisk undersøkelse, full rettspsykiatrisk undersøkelse og innhenting av helseopplysninger. Sistnevnte avhenger av fritak fra taushetsplikt. Gruppens mål er først og fremst å forebygge kriminalitet fra disse personene. Ettersom politiet har begrensede virkemidler overfor utilregnelige lovbrytere, forutsetter det forebyggende arbeidet godt samarbeid med andre etater. Dette kan være for eksempel adekvat helsehjelp, inkludert medisinering og utredning, bolig med riktig omsorgsnivå og sosialhjelp.
+
+Der man lykkes i det forebyggende arbeidet og kriminaliteten avtar eller reduseres til det samfunnet kan tåle, henlegges sakene. Der man ikke lykkes i det administrative sporet med å forebygge ytterligere kriminalitet, eller der hvor de straffbare forholdene er av særlig alvorlig art og det er nødvendig av hensyn til samfunnsvernet, tar politiet ut tiltale med påstand om dom på overføring til tvungent psykisk helsevern eller tvungen omsorg, jf. straffeloven §§ 62 og 63.
+
+Psykiatrigruppen følger også med på alle som er på dom til tvungent psykisk helsevern eller tvungen omsorg i Oslo politidistrikt. Dersom politiet får kjennskap til omstendigheter ved den domfelte som er av betydning for samfunnsvernet, varsler gruppen den faglig ansvarlige i helsevesenet og setter på den måten spesialisthelsetjenesten i stand til å gjøre vurderinger ut fra den domfeltes situasjon «her og nå».
+
+I møte med kommisjonen pekte gruppen på utfordringer i sitt arbeid både hva gjelder taushetspliktsregelverk og kapasitet i helsetjenesten til å følge opp samarbeidet. Gruppens erfaring var at samarbeidet klart fungerte best der de hadde faste kontaktpunkter og etablerte relasjoner med ansatte i helseinstitusjonen.<sup>1</sup>
+
+<sup>1</sup> Kommisjonens møte med Psykiatrigruppen, 27. juni 2023. Samarbeid mellom politi og helse omtales i kapittel 33 og 34
+
+\[Boks slutt\]
+
+### Politiets nettpatruljer
+
+I 2017 fikk politiet i oppdrag fra Justis- og beredskapsdepartementet å starte innføringen av patruljering på nett.[^1271] I dag er det en nettpatrulje i hvert politidistrikt. Målet er å forebygge kriminalitet, bidra til trygghet i det digitale rom og styrke folks tillit til politiet. Nettpatruljene samarbeider med lokalt politi i sitt distrikt og interne ressurser som blant annet etterretningsseksjonen, radikaliseringskontakter og PST. Hele distriktet skal kunne bruke sin nettpatrulje som en ressurs innenfor politiarbeid på internett, kontakt med tjenestetilbydere og søk og sikring på sosiale medier.[^1272]
+
+Kort om utviklingen av terrorlovgivningen
+
+Formålet med terrorlovgivningen er å gi myndighetene verktøyene de trenger for å forebygge og bekjempe terrorisme samt straffe dem som begår terrorhandlinger. Straffeloven kapittel 18 handler om terrorhandlinger og terrorrelaterte handlinger. Straffeloven § 131 forbyr gjennomføring og forsøk på terrorhandlinger. Forberedelser som «legger til rette for og peker mot gjennomføringen», straffes for forsøk etter § 131 tredje ledd. Paragraf 136 og 136 a forbyr oppfordring, rekruttering, opplæring til terrorhandlinger og deltakelse i terrororganisasjon.
+
+Før terrorangrepet i New York den 11. september 2001 hadde ikke Norge egne bestemmelser om terror. Kort tid etter angrepet vedtok FN sikkerhetsresolusjon nr. 1373. For å etterleve Norges folkerettslige forpliktelser i resolusjonen og FN-konvensjonen om bekjempelse av finansiering av terrorisme innførte Norge i 2002 bestemmelser om straffeloven av 1902 om terrorhandlinger (§ 147 a) og finansiering av terrorhandlinger (§ 147 b).<sup>1</sup> I 2008 ble straffeloven § 147 c, som kriminaliserte oppfordring, rekruttering og opplæring til terrorhandlinger, vedtatt. Formålet var at Norge så snart som mulig skulle ratifisere Europarådskonvensjonen om forebygging av terrorisme.<sup>2</sup> I 2013 ble også medlemskap i, rekruttering til og finansiell eller materiell støtte til terrororganisasjon i straffeloven av 1902 § 147 d vedtatt.<sup>3</sup> Bakgrunnen var blant annet at internasjonalt samarbeid ble satt på prøve ettersom Norge hadde andre regler enn europeiske samarbeidspartnere, og dels fordi PST i større grad fryktet at Norge kunne bli et samlingssted for sentrale personer i listeførte terrorgrupper, en såkalt *safe haven*.<sup>4</sup>
+
+I 2016 ble lovgivningen rundt fremmedkrigervirksomhet utvidet fra bare å gjelde terrororganisasjoner til å generelt kriminalisere deltakelse i militær virksomhet i en væpnet konflikt, jf. straffeloven § 145. I 2019 ble det også gjort lovendringer for å følge opp folkerettslige forpliktelser og internasjonale anbefalinger på terrorområdet, inkludert reiser med terrorformål jf. straffeloven § 136 b.<sup>5</sup>
+
+<sup>1</sup> Ot.prp. nr. 61 (2001–2002)
+
+<sup>2</sup> Ot.prp. nr. 79 (2007–2008)
+
+<sup>3</sup> Det ble samtidig vedtatt en tilsvarende bestemmelse i straffeloven av 2005 § 136 a. Straffeloven av 2005 har i kapittel 18 straffebestemmelser som i det alt vesentlige tilsvarer de øvrige terrorbestemmelsene i straffeloven av 1902.
+
+<sup>4</sup> Prop. 131 L (2012–2013)
+
+<sup>5</sup> Prop. 100 L (2018–2019)
+
+\[Boks slutt\]
+
+## Politiets sikkerhetstjeneste
+
+### PSTs organisering, roller og ansvar
+
+PST er direkte underlagt Justis- og beredskapsdepartementet. Tjenesten er organisert med Den sentrale enhet (DSE) i Oslo og elleve underliggende enheter, én i hvert politidistrikt. I PST-saker er politidistriktene utenfor Oslo underordnet sjefen for PST, mens Oslo politidistrikt er underlagt DSE i slike saker.
+
+PST er en tredelt tjeneste som omfatter innenlands etterretningstjeneste, sikkerhetstjeneste og politi- og påtalemyndighet. PSTs primære oppgaver og ansvar er å forebygge og etterforske straffbare handlinger mot rikets sikkerhet.[^1273] Som en del av dette skal PST ha oversikt over ekstreme miljøer og radikaliserte enkeltpersoner som kan være i stand til å bruke vold for å nå sine mål.[^1274]
+
+PST har etter politiloven et ansvar for å forebygge og etterforske politisk motivert vold og ulike former for terrorrelatert kriminalitet som for eksempel terror, terrorfinansiering eller deltakelse i terrororganisasjon.[^1275] Etterforskning i saker som gjelder sabotasje, politisk motivert vold, terrorhandlinger og terrorfinansiering, skal som hovedregel etterforskes av andre deler av politiet enn PST, med mindre den overordnede påtalemyndigheten bestemmer noe annet.[^1276] Terroren 22. juli 2011 og terrorforsøket og drapet i Bærum ble for eksempel etterforsket av Oslo politidistrikt, ikke PST.
+
+Etterforskingsarbeidet til PST reguleres av de samme reglene som for politiet ellers. De kan med andre ord iverksette etterforsking når det foreligger rimelig grunn til å undersøke om det foreligger et straffbart forhold.[^1277] Skader som påføres samfunnet gjennom et straffbart forhold under PSTs ansvarsområde, kan potensielt bli svært store. Muligheten for å iverksette avvergende etterforsking er derfor særlig viktig for PST.[^1278] Avvergende etterforsking betyr at man kan bruke flere tvangsmidler enn i en forebyggingssak som omtalt under. Domstolene kan gi tillatelse til slik etterforsking dersom inngrepet vil gi opplysninger som vil kunne bidra til å avverge handlingen, for eksempel et planlagt terrorangrep.
+
+### PSTs forebyggende arbeid
+
+PST kan opprette forebyggende saker hvis de har grunn til å undersøke om noen forbereder et lovbrudd som ligger innenfor PSTs mandat. I PSTs forebyggende arbeid mot terror kan tjenesten ta i bruk en rekke tvangsmidler, inkludert kameraovervåkning og avlytting.[^1279] PST må få godkjenning av domstolene for å bruke slike midler.[^1280] PST kan også bruke ulovfestede metoder i forebyggende øyemed.[^1281] Slike metoder inkluderer bruk av åpne skriftlige kilder, spaning og bruk av menneskelige kilder og kontakter.
+
+I likhet med politiet bruker PST forebyggende samtaler i sitt arbeid. Disse er frivillige. PSTs mål med samtalene å avklare, forebygge, reversere eller forhindre en uønsket utvikling eller hendelse. PST deler de forebyggende samtalene i bekymringssamtale og avklaringssamtale. En bekymringssamtale brukes oftest for å kartlegge og avklare mulige årsaker til en uheldig utvikling eller bekymring knyttet til en person samt for å bidra til en positiv endring. Den kan også brukes for å formidle et budskap fra PST til en person. En avklaringssamtale benyttes oftest for å avklare eller avdekke indikasjoner på en konkret bekymring. Et typisk eksempel vil være å følge opp et tips.[^1282]
+
+Slike samtaler kan tenkes å ha en preventiv effekt og bidra til at personer som man er bekymret for, ikke velger å omsette sine ekstreme ideer og holdninger i straffbare handlinger. Som for politiet må en mulig preventiv effekt av en slik samtale veies opp mot eventuelle utilsiktede konsekvenser av en bekymringssamtale. I evalueringen etter angrepet i Bærum i 2019 ble det pekt på at «en samtale med PST kan oppleves som så inngripende at den bekrefter en allerede eksisterende oppfattelse av et ‘oss mot dem’ og dermed forsterker en allerede pågående radikaliseringsprosess.» PST vurderte å ha en bekymringssamtale med Manshaus, men av hensyn til forholdsmessighet, beskyttelse av kilden og de begrensede opplysningene som forelå, kom de til at dette ikke var hensiktsmessig.[^1283]
+
+I rapporten fra 25. juni-utvalget går det frem at det er mulig at 25. juni-angrepet 2022 kunne vært forhindret dersom PST hadde opprettet en forebyggende sak mot gjerningspersonen Zaniar Matapour i månedene før angrepet. Utvalget mener PST har evne til å identifisere aktuelle trusler og gjøre treffsikre vurderinger, men at PST har færre forebyggende saker enn de har anledning til. Dette henger også sammen med et annet av utvalgets funn: at PST har satt av for få personer til å jobbe med forebyggende kontraterrorvirksomhet i forhold til omfanget av oppgaver de er satt til å løse. PST har etter angrepet blitt tilført mer ressurser. Utvalget hadde også flere kritiske merknader til PST sitt samarbeid med andre aktører.[^1284] Dette omtales nedenfor og i kapittel 33 Samarbeid mellom aktører i det forebyggende arbeidet.
+
+### PSTs rolle som nasjonal etterretningstjeneste og bruk av åpent tilgjengelige kilder
+
+Av politiloven § 17 a følger det at PST er Norges innenlands etterretningstjeneste. Lovbestemmelsen ble tatt inn 1. september 2023.[^1285] Av høringsnotatet om lovbestemmelsen følger det at det også før denne lovendringen var forutsatt og forventet at PST skulle drive etterretning innenfor sitt mandat, uten at dette fremgikk direkte av regelverket. PST hadde derfor begrensede muligheter til å arbeide med enkelte typer trusler, inkludert kartlegging av radikalisering og ekstreme subkulturer innenfor digitale nettverk.[^1286] Forarbeidene fremhever også behovet for at PSTs trusselvurderinger, for eksempel om forhold som kan medføre fare for radikalisering, skal kunne baseres på et bredere informasjonstilfang.
+
+Samtidig som PSTs rolle som innenlands etterretningstjeneste ble regulert i politiloven, ble det vedtatt nye regler for behandling av åpent tilgjengelig informasjon til etterretningsformål. Lovendringen innebærer at PST kan behandle åpent tilgjengelig informasjon dersom det antas å være nødvendig for utarbeidelse av analyser og etterretningsvurderinger.[^1287] I forarbeidene ble det vist til at digitale plattformer er de viktigste arenaene for radikalisering av høyreekstreme, og at trusselen fra ekstreme islamister primært vil komme fra personer som deltar i digitale nettverk. Selv om PST allerede hadde hjemler til å innhente åpent tilgjengelig informasjon, mente departementet at rollen som nasjonal etterretningstjeneste krever tilgang til større mengder åpen tilgjengelig informasjon for å ivareta oppgave fullt ut.[^1288]
+
+Lovendringen innebærer at PST kan lagre, systematisere og analysere store mengder åpent tilgjengelig informasjon fra internett og sosiale medier for å utarbeide analyser og etterretningsvurderinger, selv om den enkelte opplysning isolert sett ikke er nødvendig for dette formålet. Det opprinnelige forslaget møtte kraftig motbør, særlig med tanke på mulige brudd på menneskerettighetene.[^1289] Den endelige hjemmelen ble derfor innskrenket.[^1290] Hjemmelen trer først i kraft etter tekniske og forskriftsmessige endringer.[^1291]
+
+Bekjempelse av terrorfinansiering
+
+Terrorvirksomhet er en særlig alvorlig kriminalitetstype, som i vesentlig grad også er avhengig av finansiering og støtte fra sympatisører og bakmenn. Norges innsats mot hvitvasking, terrorfinansiering og finansiering av spredning av masseødeleggelsesvåpen koordineres i Kontaktforum for bekjempelse av hvitvasking og terrorfinansiering. Kontaktforum ledes av Justis- og beredskapsdepartementet og består i tillegg av representanter fra Finansdepartementet, Utenriksdepartementet, Finanstilsynet, POD, PST, Riksadvokatembetet, skatteetaten, tolletaten og Økokrim.<sup>1</sup>
+
+Enheten for finansiell etterretning (EFE) i Økokrim behandler meldinger om mistenkelige transaksjoner. EFE behandler meldingene og videreformidler relevant informasjon til politiet, inkludert PST, forvaltningsorganer med kontrolloppgaver samt andre lands kontrollorganer.
+
+PST skal forhindre at terror og terrorfinansiering foregår i og fra Norge, samt avverge at Norge utnyttes som transittland for penger til terrorformål.
+
+<sup>1</sup> Hvitvasking.no
+
+\[Boks slutt\]
+
+## Kriminalomsorgen
+
+### Kriminalomsorgens organisering, rolle og ansvar
+
+Kriminalomsorgens samfunnsoppdrag er å ivareta ansvaret for at varetektsfengsling og straffereaksjoner blir gjennomført på en måte som er betryggende for samfunnet, og som motvirker nye straffbare handlinger. Det er straffegjennomføringsloven som regulerer hvordan straff skal gjennomføres, både i og utenfor fengsel. Kriminalomsorgsdirektoratet har det faglige administrative ansvaret i kriminalomsorgen. Kriminalomsorgen er inndelt i fem regioner, som hver har ansvaret for straffegjennomføringen innenfor regionens grenser.
+
+Kriminalomsorgen har også en egen utdanningsinstitusjon, Kriminalomsorgens høgskole og utdanningssenter (KRUS), som blant annet tilbyr grunnutdanning for fengselsbetjenter. KRUS har ansvar for at det gis opplæring om radikalisering og voldelig ekstremisme i grunnutdanningen, og å tilby relevant etter- og videreutdanning. De har også ansvar for å utarbeide opplæringsmateriell, og de samarbeider med direktoratet om å gjennomføre opplæring av kriminalomsorgens radikaliseringskontakter og radikaliseringskoordinatorer.[^1292]
+
+Kriminalomsorgens rolle og oppgaver innenfor forebygging av radikalisering og voldelig ekstremisme er nedfelt i «Retningslinjer om forebygging og håndtering av radikalisering og voldelig ekstremisme i kriminalomsorgen».[^1293] Kriminalomsorgen skal legge til rette for at terrordømte og andre radikaliserte innsatte blir godt reintegrert i samfunnet, samt arbeide for å hindre at innsatte radikaliserer andre innsatte.[^1294]
+
+Ved slutten av 2022 var det 18 personer i målgruppen for arbeidet mot radikalisering og voldelig ekstremisme i kriminalomsorgen. Fire av disse var fremmedkrigere. 14 var siktet, tiltalt eller dømt for terrorhandlinger eller hatefulle ytringer eller vurdert som sårbare for radikalisering.[^1295]
+
+Et forebyggende tiltak som kriminalomsorgen trekker frem som viktig i arbeidet mot radikalisering i fengsel, er evnen til å tilby innsatte en «meningsfull soning». Det innebærer tilrettelegging av aktiviteter og tilrettelegging av personlige behov. Denne tilretteleggingen kan bidra til å redusere risikoen for at noen innsatte trekkes mot ekstreme grupper, og bidra til at de som allerede er radikalisert, får mulighet til å kutte kontakten med ekstreme miljøer på utsiden.[^1296]
+
+Eksempler på tiltak i kriminalomsorgen når det foreligger bekymring om radikalisering
+
+- «bevisst plassering av innsatte det er knyttet bekymring til, i fengselet med tanke på fellesskap med medinnsatte, ansattes kompetanse og aktiviseringstilbud i avdelingen
+
+- særskilte rutiner for dokumentasjon og system for informasjonsflyt internt i fengselet
+
+- oppfølging av informasjonsutveksling med politi/PST og eventuelt kriminalomsorgen regionalt og sentralt
+
+- etablering av tverrfaglig gruppe eller ansvarsgruppe
+
+- målrettet tilnærming fra kontaktbetjent, sosialkonsulent og avdelingsleder i tilbakeføringsarbeidet
+
+- særskilt oppmerksomhet på løslatelse og sikkerhetstiltak, som jobb, bolig, nettverk ved løslatelse og lignende
+
+- bevisst kontaktetablering til programvirksomheten, prest eller andre som kan bidra i å skape alternative meninger/oppfatninger eller handlingsalternativer
+
+- målrettet og styrt kontroll med tilgang på medier, bøker og lignende
+
+- målrettet arbeid med nettverksetablering eller styrking av eksisterende nettverk
+
+- etablering av mentorforløp»<sup>1</sup>
+
+<sup>1</sup> Kriminalomsorgens høgskole og utdanningssenter 2016
+
+\[Boks slutt\]
+
+### Radikaliseringskontakter og ‑koordinatorer i kriminalomsorgen
+
+Kriminalomsorgen har etablert egne radikaliseringskontakter i alle lokale enheter[^1297] og en radikaliseringskoordinator i hver region.[^1298] En radikaliseringskontakt skal kunne gjennomføre opplæring i sin enhet og delta i arbeidet med å vurdere tiltak i enkeltsaker og gjennomføre samarbeidsmøter med politi og PST.[^1299] Det er lagt opp til at betjenter og andre ansatte skal kunne ta kontakt med sin lokale radikaliseringskontakt hvis de er bekymret for en innsatt, eller hvis de har behov for veiledning i forbindelse med kartlegging, utarbeidelse av tiltak, eller målrettet dialog og samtaler med en innsatt.[^1300]
+
+Det varierer mellom regionene hvordan radikaliseringskontaktene jobber. Noen kan jobbe med konkrete saker, mens andre fungerer mer som fagperson og rådgiver.[^1301] En av grunnene til at radikaliseringskontaktene jobber ulikt, kan være at det er ulikt hvor mange fengslede radikaliserte det til enhver tid er i enhetene. Radikaliseringskoordinatorene har et særskilt ansvar for å koordinere arbeidet, bidra med kunnskap og kompetanse i håndteringen og samarbeidet på tvers av enhetene i kriminalomsorgen og samarbeidende etater. Ofte er rollen som radikaliseringskontakt eller -koordinator en liten del av arbeidsoppgavene til den som innehar rollen.[^1302] En evaluering av forebyggingstiltak mot radikalisering under straffegjennomføring viste at 85 prosent av respondentene[^1303] som jobbet direkte med innsatte hadde liten eller ingen kjennskap til ordningen med radikaliseringskontakter og radikaliseringskoordinatorer.[^1304] Undersøkelsen viste også at rollene var avhengige av personlig engasjement og faglig interesse.[^1305] Dette gjør kvaliteten på videreføringen av arbeidet sårbart hvis radikaliseringskontakter eller ‑koordinatorer slutter eller blir borte over lengre tid. Kriminalomsorgsdirektoratet har opplyst at de har fulgt opp evalueringen gjennom blant annet et etterfølgende møte med radikaliseringskontakter og ‑koordinatorer. Direktoratet har påpekt at den økonomiske situasjon gjør det krevende å følge opp alle anbefalingene. Videre har direktoratet pekt på at ressursene ikke er samstemt med behovet for kunnskapsheving og behovet for økt stillingsprosent for rollen som radikaliseringskontakt og ‑koordinator.[^1306]
+
+Kriminalomsorgsdirektoratet har opplyst at de har startet dialog med POD om hvordan de kan se funn og anbefalinger fra de to evalueringene om radikaliseringskontaktene i henholdsvis kriminalomsorgen og politiet i sammenheng, og hvordan de kan samarbeide i den videre oppfølgingen av rapportene.[^1307]
+
+### Kriminalomsorgens kunnskap om ekstremisme og radikalisering
+
+Kriminalomsorgen har i dag en overordnet strategi hvor innsatte som potensielt skaper utfordringer gjennom radikalisering, spres i ulike fengsler. Dette innebærer at arbeidet med å håndtere potensiell radikalisering vil være aktuelt for flere fengsler.[^1308] Kriminalomsorgen har også utarbeidet en egen håndbok for ansatte som særlig fremhever håndteringen av radikalisering og voldelig ekstremisme i fengsel.[^1309] I tillegg tilbys opplæring om radikalisering og voldelig ekstremisme ved KRUS. Dette gjelder både for fengselsbetjentutdanningen og for etterutdanning. PST bistår med fagkompetanse ved forespørsel.[^1310]
+
+Selv om det er iverksatt flere gode tiltak for kompetanseheving blant ansatte i kriminalomsorgen, viste en evaluering fra 2022 at den generelle fenomenkunnskapen i kriminalomsorgen er for lav.[^1311] Særlig er det flere ansatte som etterspør kunnskap om høyreradikalisering og høyreekstremisme.[^1312] Den samme evalueringen viste at kriminalomsorgens ansatte har lite kjennskap til egne ressurser, som håndboken og retningslinjene. To tredjedeler av respondentene hadde kun hørt om eller var helt ukjent med retningslinjene relatert til radikalisering, og tilsvarende for ovennevnte håndbok.[^1313]
+
+Fenomenkunnskap vurderes å være spesielt relevant for ansatte i friomsorgen, hvor den domfelte har en større grad av autonomi og risiko for å knytte seg til radikale miljøer, både fysisk og på nett. I den nevnte evalueringsrapporten fra 2022 er det trukket frem et eksempel på at en ansatt i friomsorgen ved et hjemmebesøk oppdaget et opphengt flagg med symboler som kunne knyttes til ekstremisme og meldte bekymring til politiet, som da kunne følge opp i forbindelse med løslatelse. Friomsorgen kan således være en viktig aktør for å oppdage bekymringsverdige tilfeller, som det kan være vanskelig for andre aktører å få innsikt i.
+
+### Religionsutøvelse i fengsler
+
+Straffegjennomføringsloven slår fast at kriminalomsorgen skal gi innsatte mulighet til å utøve religion og livssyn.[^1314] Egnede lokaler for tros- og livssynssamtaler og seremonier skal tilbys så langt det er mulig.[^1315] Kriminalomsorgen jobber ut fra en importmodell. Det vil si at ulike instanser ute i samfunnet leverer tjenester til de innsatte i fengslene, på samme måte som de leverer tjenester til personer utenfor fengslene. Dette gjelder eksempelvis skole og utdanning, tannlege, helsetjenester og Nav.[^1316] Religiøse ledere, som prester og imamer, kommer også utenfra. Ved noen fengsler tjenestegjør imidlertid en eller flere fengselsprester. Det er i dag over 30 fengselsprester som er finansiert av Den norske kirke. Frelsesarmeen har også flere fengselskapellaner på landsbasis.[^1317] Den katolske kirke har en fengselsprest for fengsler i Oslo og deler av Østlandet.[^1318] Samarbeidet mellom tros- og livssynssamfunnene og kriminalomsorgen er formalisert i et eget rundskriv.[^1319]
+
+Gjennom regjeringens handlingsplan for å forebygge radikalisering og voldelig ekstremisme fra 2014, fikk kriminalomsorgen i oppdrag å etablere team av livssynsmedarbeidere.[^1320] Åtte år senere, i 2022, ble det satt i verk et toårig prosjekt ved Kongsvinger fengsel med livssynsmedarbeidere for å innhente erfaringer før det eventuelt tas en beslutning om mer permanente ordninger for tros- og livssynsbetjening. Bakgrunnen for prosjektet er at et bedre livssynstjenestetilbud kan bidra til å redusere risikoen for at innsatte opplever diskriminering og manglende tilgang på religiøs eller åndelig veiledning, og at det blir en faktor i en radikaliseringsprosess.[^1321] Videre er formålet med prosjektet å legge bedre til rette for at innsatte i fengsel kan praktisere sin tro eller sitt livssyn gjennom straffegjennomføringen. I den forbindelse har prosjektet tilknyttet seg en imam[^1322], og Human-Etisk Forbund har, i samarbeid med kriminalomsorgen, midlertidig ansatt en fengselshumanist.[^1323]
+
+Basert på erfaringer fra andre land kan det være grunn til å tro at samarbeid mellom livssynsmedarbeidere fra ulike trosretninger kan bidra til å forebygge radikalisering i fengslene.[^1324] Det er påpekt at å ha representanter for flere tros- og livssynssamfunn i fengslene vil kunne skape en bedre balanse mellom trosretninger og være en motvekt mot ekstremisme.[^1325] Det å være mer oppmerksom på og anerkjenne religion og religionsutøvelse, særlig islam, og å bruke imamer mer er pekt på som viktige tiltak for å forebygge radikalisering i norske fengsler.[^1326] Fravær av religiøse ledere kan medføre at enkelte innsatte begynner å fungere som religiøse autoriteter.[^1327]
+
+Noe forskning viser at konvertering eller revertering til islam bidrar til å spre en viss grad av frykt og skepsis blant ansatte. Konvertering til islam, samt muslimer som øker intensiteten i religionsutøvelsen, blir ofte og feilaktig vurdert å være en form for radikalisering.[^1328] Evalueringen av forebyggingstiltak mot radikalisering under straffegjennomføring pekte på at det fremstår som om det er mye usikkerhet knyttet til hva som er ordinær religionsutøvelse innenfor islam på den ene siden, og hva som er tegn på radikal og ekstrem islamisme på den andre.[^1329]
+
+### Mentorordningen i kriminalomsorgen
+
+Kriminalomsorgen fikk i oppdrag å prøve ut en mentorordning for innsatte i 2014.[^1330] Siden 2016 har de hatt et tilbud til innsatte og domfelte i målgruppen med ekstern mentor.[^1331] Målgruppen for mentorordningen er personer som er innsatt eller domfelt for terrorhandling eller hatkriminalitet.[^1332] Straffeårsaken er imidlertid kun et utgangspunkt, og det avgjørende er hvorvidt den domfelte eller den innsatte er sårbar for radikalisering og rekruttering til voldelig ekstremisme. Målet med mentorordningen er at den domfelte gjennom dialog med mentor kan oppleve personlig vekst og utvikling, og at denne dialogen skal forebygge ny kriminalitet. Ordningen er basert på frivillighet for den som soner.
+
+Mentorene rekrutteres fra sivilsamfunnet og skal være samtalepartnere forankret i samfunnets verdier som skal støtte den domfelte. Mentorene er håndplukket på bakgrunn av verdier, profesjonell kompetanse, personlighet og engasjement.[^1333] Når den domfelte skal løslates eller straffegjennomføringen avsluttes, skal den ansvarlige kommunen kontaktes for at mentorforløpet eventuelt kan videreføres. Det er Kriminalomsorgsdirektoratet som har ansvaret for å kontakte og initiere samarbeid med kommuner og andre som kan bidra.[^1334]
+
+### Tilbakeføring etter soning
+
+For at terrordømte skal tilbakeføres i samfunnet på en god måte, må kriminalomsorgen og andre aktører gjøre en koordinert innsats.[^1335] Dette inkluderer politiet, Nav, helsetjenester, utdanningsinstitusjoner og kommunale velferdstjenester. Hvis det oppstår bekymring for radikalisering, kan det etableres en tverrfaglig og tverrsektoriell gruppe. Denne gruppen kan drøfte utfordringer samt utarbeide, iverksette og følge opp tiltak rettet mot den domfelte. I hvilken grad personopplysninger kan deles i et slikt samarbeid, avhenger av de enkelte aktørenes taushetsplikt.[^1336]
+
+Hvis det er fare for at personen begår ny kriminalitet etter løslatelse, må kriminalomsorgen også ha dialog med politiet og PST. Radikaliseringskontakten i kriminalomsorgen kan fungere som et kontaktpunkt i samarbeidet med slike eksterne parter.[^1337]
+
+Før en person løslates, gjennomføres det en kartlegging av den innsatte for å planlegge tilbakeføring til samfunnet. Behov som avdekkes, deles med eksterne samarbeidspartnere etter samtykke fra den innsatte. Dette skal føre til at den innsatte får et tilpasset tilbud og tilrettelegging. Ved løslatelse vil også kommunen være en sentral samarbeidspartner. I en undersøkelse utført av Riksrevisjonen kom det frem at mange som blir løslatt, mangler bolig og har økonomiske problemer. En av årsakene er at samarbeidet mellom kriminalomsorgen og velferdstjenestene ikke fungerer godt nok.[^1338] Dette er også understreket i Kriminalomsorgsdirektoratets årsrapport for 2022, hvor det kom frem at det ikke er tilstrekkelig tilgang til hjelp fra Nav i forbindelse med tilbakeføringsarbeidet.[^1339]
+
+## Konfliktrådene
+
+Konfliktrådet er en del av strafferettspleien og er underlagt Justis- og beredskapsdepartementet. Konfliktrådtjenesten er landsdekkende og er organisert med et sekretariat (Sekretariatet for konfliktrådene (Sfk)) og tolv konfliktråd lokalisert 22 steder i landet. Tilbudet er gratis og frivillig.[^1340] Konfliktrådene mekler mellom parter i konflikter som følge av straffbare handlinger eller mellom parter i sivile konflikter. Konfliktrådet skal bidra til å formidle og bygge kunnskap om kriminalitetsforebygging, med vekt på samhandling lokalt. Gjennom straffereaksjonene ungdomsstraff, ungdomsoppfølging og oppfølging i konfliktråd ivaretar konfliktrådet et spesielt ansvar for unge i konflikt med loven.
+
+Sfk leder og koordinerer arbeidet i Direktoratsgruppen mot radikalisering og voldelig ekstremisme og forvalter den nasjonale tilskuddsordningen på feltet. Det er kommuner og fylkeskommuner som kan søke om midler til tiltak under ordningen blant annet til kompetanseheving og til lokale og digitale forebyggingssystemer.[^1341]
+
+Sfk driver utviklingsarbeid, sammen med kriminalomsorgen, med å styrke tilbudet om gjenopprettende prosess i straffegjennomføringen for terrordømte. Arbeid mot radikalisering og voldelig ekstremisme ses også i sammenheng med Sfks forvaltning av nasjonale oppgaver innenfor SLT.[^1342] Denne samordningsmodellen og funksjonen er i mange kommuner også sentral i arbeidet med å forebygge radikalisering og voldelig ekstremisme lokalt.[^1343]
+
+Sfk har påpekt at mange kommuner mangler kunnskap om hvor de kan henvende seg for å søke tilskudd eller informasjon om hvilke muligheter som finnes for å be om ressurser.[^1344] Det er oftest kommuner med SLT-koordinatorer som søker på tilskuddsordningen som Konfliktrådet administrerer, og ofte er det de samme kommunene som søker. Det betyr ikke at kommuner uten SLT-koordinator ikke har behov for midler for å forebygge radikalisering og voldelig ekstremisme, men at det kanskje mangler kunnskap om hvor og hvordan man kan søke, og hvordan man skal følge opp eventuelt mottatt tilskudd og/eller mangel på ressurser som kan sette seg inn i det og gjøre jobben som kreves.
+
+## Samarbeid mellom aktørene i justissektoren
+
+Samarbeid på tvers av sektorer behandles i kapittel 33 Samarbeid mellom aktører i det forebyggende arbeidet.
+
+### Samhandling og ansvarfordeling mellom PST og politiet
+
+Både politiet og PST har ansvar for å forebygge ekstremisme. Et effektivt forebyggende arbeid forutsetter at PST og politiet samarbeider godt, og at ansvaret mellom de to aktørene er avklart. Evalueringen av politiets radikaliseringskontaktordning pekte på at det er PST som etter politiloven § 17 b har det juridiske ansvaret for å forebygge voldelig ekstremisme, og at det derfor er uklart hva som skal være politiets rolle.[^1345] Også 25. juni-utvalget pekte på at politiet og PST har et «til dels overlappende ansvar som medfører uklarhet om hvem som har ansvar for å forebygge hva innen dette området».[^1346]
+
+Kommisjonen har i sitt arbeid sett gode eksempler på samarbeid mellom PST og lokalt politi, både på et overordnet nivå og i konkrete saker. Kommisjonen har imidlertid også fått informasjon om at samarbeidet ikke alltid er like enkelt, og at dette ofte handler om uklar rollefordeling og manglende informasjonsdeling i håndtering av enkeltsaker. PST kan sitte på gradert informasjon som de ikke deler med politiet, og samtidig forvente at politiet skal bistå eller følge opp saken.
+
+### Samhandling mellom PST, politiet og kriminalomsorgen
+
+I 2019 ble det gjennomført en omfattende oppdatering og utvidelse av retningslinjene for håndtering av radikalisering og voldelig ekstremisme i kriminalomsorgen.[^1347] Et sentralt ledd i arbeidet var kriminalomsorgens samarbeid med politiet og PST, blant annet om utveksling av informasjon. Videre er det fastsatt rutiner som skal bidra til å sikre en god og forsvarlig tilbakeføring til samfunnet etter gjennomført straff.
+
+Evalueringen av forebyggingstiltak mot radikalisering under straffegjennomføring fra 2022 viste at det var delte meninger om hvordan samarbeidet mellom radikaliseringskontakter, koordinatorer og eksterne samarbeidspartnere fungerer. Over halvparten syntes imidlertid samarbeidet med PST og politiet fungerte godt.[^1348]
+
+For omtale om informasjonsdeling mellom kriminalomsorgen, PST og politiet (Infoflyt) vises det til kapittel 34 Taushetsplikt og informasjonsdeling.

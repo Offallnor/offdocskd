@@ -1,1249 +1,342 @@
-# NOU 2024: 3, del 23 av 40 (side 289–302)
+# NOU 2024: 3, del 23 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 289]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-287
-
-Kapittel 37
-
-Kapittel 37
-
-Kollektivt minnearbeid
-Det er makt i historiske fortellinger. Hvordan fortiden forstås og fortolkes av offentlige myndigheter og i den offentlige samtalen, former både
-nåtiden og fremtiden. Fortellinger om historiske
-hendelser kan ha en viktig betydning og rolle i å
-mobilisere patriotisme i befolkningen og bidra til
-å skape fellesskap eller motstand. Den kollektive
-hukommelsen og historiefortellingen i en nasjon
-kan både forene og splitte.
-Minnene i landskapet og historiene som fortelles i bøker og i taler, kan både inkludere og ekskludere. Det å kunne finne noen som ligner en
-selv i historien kan være meningsfullt og skape tilhørighet. Motsatt kan fravær av historier og sentrale hendelser om grupper eller fellesskap man
-føler tilhørighet til, skape opplevelser av avmakt.
-Historieformidling er ikke uforanderlig eller statisk, men alltid gjenstand for forskyvning og forandring.1 I dag er det allment kjent at den fortellingen som i generasjoner dominerte om okkupasjonsårene under krigen mellom 1940 og 1945,
-hadde vesentlige blindsoner.2 Hvor utbredt antisemittiske holdninger var i den norske offentligheten og i befolkningen både før og etter krigen,
-var lenge lite undersøkt. Norske romer som ble
-gjort statsløse på 1930-tallet, har også inntil nylig
-eksistert i blindsonen av den nasjonale fortellingen om 2. verdenskrig i Norge. Historiefortellingen om krigen har også vektlagt noen regioner i
-Norge over andre. Særlig fikk Finnmark og NordTroms lenge mindre plass enn regionens sentrale
-betydning i krigsårene skulle tilsi.3 Innsatsen og
-tapet til samer, kvener og skogfinner under 2. verdenskrig har også levd i skyggen av andre fortellinger. Del II Ekstremisme og tilgrensende fenomener omtaler ulike utsatte grupper ytterligere.
-Myndighetene har ofte brukt lang tid på å
-anerkjenne grupper som har lidd overlast. Offentlige dokumenter, taler, utvalg, forskning og aktører i sivilsamfunnet kan bidra til å forsterke eller
-
-nyansere felles fortellinger slik at de oppleves
-som aktuelle for det store fellesskapet. Rapporten
-«Inndragning av jødisk eiendom i Norge under 2.
-verdenskrig» fra 1997 har hatt betydning for holocausterindringen som finnes i Norge i dag.4
-Utredningen «Å bli dem kvit» har vært et viktig
-bidrag for å kartlegge hva som skjedde med norske romer før, under og etter 2. verdenskrig, og
-for å kartlegge tiltak som finnes for norske romer
-i dag.5 Et nyere eksempel er Sannhets- og
-forsoningskommisjonens rapport fra 2023, som
-gransket fornorskingspolitikken og urett begått
-overfor samer, kvener/norskfinner og skogfinner
-i Norge.6
-Norske myndigheters anerkjennelse av historisk urett skjer i et samspill med et landskap av
-minnesteder og institusjoner som vokser frem.
-HL-senteret er et direkte resultat av det såkalte
-kollektive oppgjøret etter utslettelsen av 230
-jødiske familier og jødiske institusjoner i Norge
-under 2. verdenskrig.7 Slike handlinger inngår i
-den store samtalen som oppstår når minner lever
-videre midt iblant oss og får betydning for fremtiden.
-
-1
-
-5
-
-2
-3
-
-22. juli-senteret 2023a
-Eriksen 1995
-Petterson 2008
-
-37.1 Minnesteder
-I dag finnes større og mindre minnesteder i byer
-og steder i Norge som fungerer både som aktive
-påminnere om menneskers levde liv og som brutale vitnesbyrd over den uretten de ble utsatt for.
-Minnestedene fungerer som steder å gå til for å
-minnes og bearbeide fortiden, både for direkte
-berørte og for den øvrige befolkningen. Slike minnesteder har også en annen viktig funksjon: De
-forteller om det som skjedde. Ettersom mange
-minnesteder er plassert ved åsteder for historiske
-hendelser, forteller de også ofte at det skjedde
-4
-6
-7
-
-NOU 1997: 22
-Rosvoll, Lien og Brustad 2015
-Dokument 19 (2022–2023)
-HL-senteret 2023a
-
-[Side 290]
-
-288
-
-Kapittel 37
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-akkurat der. Minnesteder har blitt opprettet både
-av staten, i regi av kommuner og på initiativ fra
-sivilsamfunnsaktører. Ulike minnesteder i et samfunn kan legge til rette for en «demokratisk minnekultur» som inneholder flere fortellinger om en
-og samme hendelse.8
-Det bør være rom for ulike fortolkninger av
-historiske hendelser, men sentrale, etterprøvbare
-fakta er viktig å hegne om i møte med konkurrerende virkelighetsforståelser. Når det råder ulike
-forståelser av hva som har skjedd, og hvorfor det
-har skjedd, kan det oppstå konflikt og splittelse. I
-dag kan spredning av desinformasjon via alternative og sosiale medier ytterligere forsterke effekten av konkurrerende fortolkninger. Når aktører
-bevisst søker å undergrave etterprøvbare fakta
-eller hendelsesforløp, kan det bidra til å svekke tilliten til mediene og myndighetene.9 Mange historiske hendelser har i ettertid gitt grunnlag for
-konspirasjonsfortellinger og dyp splittelse og
-polarisering i befolkninger.
-Tilstedeværelse eller fravær av nasjonale minnesteder, og dessuten minnestedenes formspråk
-og plassering, kan fortelle noe om hvordan offentlige myndigheter plasserer hendelsen i et kollektivt minne. Offentlig minnearbeid beskrives
-gjerne som en forhandlingsprosess mellom aktører med ulike interesser og tenkemåter.
-Etablering av nasjonale minnesteder er per
-definisjon et minnepolitisk tiltak. Det vil si at
-det har til formål å påvirke hvordan medlemmer av et fellesskap forholder seg til fortidens
-hendelser. Gjennom å initiere eller støtte
-denne typen kulturprodukter peker offentlige
-myndigheter ut de delene og versjonene av historien som de finner det verdt å gi plass i et kollektivt minne. (Hjorth, 2018)
-
-Kommisjonen har inntrykk av at minnestedene som er etablert flere steder etter 22. juli terroren, og 22. juli-senteret og Utøya tillegges stor
-verdi. Stiftelsen 10. augusts minne- og læringssenter ved Al-Noor-moskeen, som åpnet 9. desember
-8
-9
-
-Nustad og Lenz 2021
-Moe, Fladmoe, Thorbjørnsrud og Finstad 2022
-
-Boks 37.1 Minner om levde liv
-«Sted for erindring» er det nasjonale minnesmerket for det norske holocaust. Det er plassert utenfor muren til Akershus festning og er
-vendt mot stedet der 529 jøder ble deportert
-med skipet «DS Donau» 26. november 1942. I
-1943 ble ytterligere 158 jøder sendt fra Filipstadkaia med skipet «Gotenland».1
-Siden det første minnesmerket ble lagt i
-Køln i 1994, er det plassert nærmere 100 000
-snublesteiner i 30 land i Europa. De første snublesteinene i Norge ble lagt i 2010 i Calmeyersgate 15, der det jødiske museet er etablert i
-en tidligere synagoge. I dag finnes det snublesteiner over hele Norge, og nedleggingen av
-snublesteiner organiseres av de jødiske museene i Oslo og Trondheim.2
-1
-2
-
-Kunst i offentlige rom u.å.-a
-Snublestein u.å.
-
-2022, er også et viktig bidrag til den kollektive
-hukommelsen. For samfunnet og den øvrige
-befolkningen er i tillegg sporene og gjenstandene,
-både materielle og immaterielle, fra angrepene et
-imperativ om å ikke glemme og om å fortsette en
-åpen og demokratisk samtale om årsakene til og
-konsekvensene av det som fant sted. Dette er en
-del av samfunnsrollen til minnesteder. Gjenstander og andre viktige historiske spor etter terrorangrep er også viktig kulturarv som ikke må gå
-tapt for ettertiden, men som bør sikres gjennom
-langsiktige strategier for samlingsbevaring. Kommisjonen erfarer at det er behov for et forsterket
-planverk og strategi i Norge for ivaretakelse av
-både materielle og immaterielle spor etter terror.
-Et eksempel på sistnevnte er vitneberetninger.
-Faglig forankring og anerkjennelse av denne formen for formidling er viktig og er i dag varierende. Et eksempel på det første er gjenstander og
-fysiske bygninger. Erfaringer fra sporsikring og
-bevaring etter blant annet 22. juli vil være viktig
-ved et slikt arbeid.
-
-[Side 291]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-289
-
-Kapittel 37
-
-Boks 37.2 22. juli og nasjonale minnesteder
-Allerede i desember 2011 besluttet regjeringen
-dette mulig. Minnestedet har derfor fått benevat det skulle opprettes nasjonale minnesteder
-nelsen «virtuelt minnested».7
-I utformingen av minnestedet og området på
-etter 22. juli – i regjeringskvartalet og i Hole
-Utøyakaia la Statsbygg vekt på at samarbeid
-kommune, ved Utøya.1 I 2014 vant den svenske
-kunstneren Jonas Dahlberg konkurransen med
-med den nasjonale støttegruppen etter 22. juli,
-designet for tre minnesmerker: Memory Wound
-AUF, Hole kommune og lokalsamfunnet var et
-ved Utøya og Time and Movement og Dialogue
-viktig premiss i arbeidet.8
-At lokasjonen og prosessen ble endret, demfor the Future som skulle være henholdsvis midpet ikke motstanden fra de av naboene som var i
-lertidig og permanent minnested i regjeringssterkest opposisjon til minnestedet, og naboene
-kvartalet.2 Det oppstod uenighet rundt Memory
-Wound. Minnestedet Memory Wound skulle
-gikk i 2020 til sak mot AUF og staten, uten å
-bestå av et førti meter langt og tre meter dypt
-vinne frem.9
-Da minnestedet på Utøyakaia åpnet 18. juni
-kutt i en odde på Sørbråten, et «sår» som var
-2022, talte statsminister Jonas Gahr Støre:
-ment å sette ord på tapet, med navnene på de
-drepte inngravert i steinveggen.3 Lokalt i Hole
-Å bestemme, utvikle og bygge et minnested
-kommune var mottakelsen sammensatt. Noen
-er ikke enkelt. Ikke nå heller. Men vi, fellesnaboer, som også hadde deltatt i redningsarbeiskapet i Norge, klarte det. Og til alle som
-det 22. juli, protesterte mot utformingen og plasbidro – en varm og hjertelig takk. Og jeg
-seringen og mot manglende involvering av lokalhåper at det blir et sted for oss alle. Et sted for
-samfunnet i minnestedsprosessen.4 I juni 2016
-å hedre. Og et sted for å minnes. I fellesskap.
-stevnet nabogruppen den norske staten for retMed verdighet. I respekt. Fordi vi aldri skal
-ten, for å få stoppet minnestedsplanene. Forglemme. (Statsministerens kontor 2022b)
-handlingsforsøkene lyktes ikke, og tidspunktet
-for rettssaken ble satt til april 2017. Noen måneDet permanente minnestedet i regjeringskvartader før rettssaken foreslo støttegruppen etter
-let skal ligge på Johan Nygaardsvolds plass, rett
-22. juli, AUF og historiker Tor Einar Fagerland å
-ved inngangen til det nye, permanente 22. juliflytte det nasjonale minnestedet fra Sørbråten til
-senteret. KORO har fått i oppdrag å lede arbeikaia vis-à-vis Utøya, Utøyakaia.5 Statsbygg fikk i
-dets første fase. Etter en åpen internasjonal preoppdrag å utrede forslaget. Saken skapte debatt
-kvalifisering og en lukket konkurranse skal det
-og fikk stor medieomtale. I juni 2017 besluttet
-kåres et endelig vinnerforslag i 2025.10
-regjeringen at det nasjonale minnestedet i Hole
-kommune skulle etableres ved Utøyakaia, og
-1
-Kulturdepartementet 2011
-kontrakten med både KORO, som til da hadde
-2 På grunn av den planlagte gjenreisningen av regjeringshatt ansvaret for prosjektet, og kunstneren
-kvartalet ble det planlagt for et midlertidig minnesmerke
-Jonas Dahlberg ble avsluttet. Det var Statsbygg
-som kunne stå inntil det permanente minnesmerket kommer på plass når det nye regjeringskvartalet står ferdig.
-som fikk i oppdrag fra det nåværende KommuDet midlertidige minnesmerket sto ferdig i 2018. Hjorth
-nal- og distriktsdepartementet å overta arbeidet
-2021
-3
-med minnestedet på Utøyakaia, som da gikk
-Helsvig 2017
-4
-over fra å være et kunstprosjekt til å bli et byggeHjorth og Gjermshusengen 2017
-5 Fagerland, Røyneland og Hussaini 2017
-prosjekt.6
-6 Hjorth 2018
-Selv om minnestedet Memory Wound aldri
-7 Hjorth 2019
-ble en realitet, har det likevel vært en bidrags8
-Statsbygg u.å.
-yter i det felles minnearbeidet og kollektive ord9 TRING-2020-100356 (Ringerike tingrett)
-skiftet etter 22. juli. Ikke minst har den digitale
-10 Kunst i offentlige rom u.å.-b
-spredningen av skissene av minnesmerket gjort
-
-[Side 292]
-
-290
-
-Kapittel 37
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 37.3 Minnesteder etter terror og ekstremisme
-26.01.2001:
-En byste til minne om Benjamin Hermansen ble
-i 2002 avduket ved stedet der han ble drept på
-Holmlia ett år tidligere,1 på initiativ fra hans venner. Hvert år mottar en norsk skole en pris for
-sitt arbeid mot rasisme og diskriminering. Prisen bærer Benjamin Hermansens navn.2
-22. juli 2011:
-Samfunnets mottakelse av 22. juli-senteret i 2015
-og minne- og læringsstedet Hegnhuset på Utøya
-i 2016, bar preg av at mange mente at det hadde
-stor verdi å løfte frem historien om 22. juli på
-hvert av åstedene.3 «Rundt spor på åstedene
-kunne man bygge engasjement og kunnskap for
-nye generasjoner.»4 En rekke andre minnesteder
-har også hatt betydning etter 22. juli. «Lysningen» på Utøya er de berørtes eget private minnested, utformet og utarbeidet i stor grad av
-dem selv.5 «Jernrosene» som er plassert i Domkirkeparken i Oslo, er utformet av smeder fra
-hele verden, i samarbeid med overlevende og
-etterlatte.6 Noen kommuner opprettet egne minnesteder.7 Mange mottok skulpturen av kunstneren Nico Widerberg, som ble gitt norske kommuner av en anonym donor.8 Flere gater,9
-bygg10 og minnefond11 bærer navn etter mennesker som ble drept 22. juli 2011.
-10. august 2019:
-Ved moskeen som ble angrepet 10. august 2019,
-er det i dag et minne- og læringssenter. Mos-
-
-keen har fortsatt spor etter angrepet som er blitt
-bevart i utstillingen.12 Stiftelsen 10. august angir
-at de jobber for å «skrive inn» drapet på Johanne
-Zhangjia Ihle-Hansen og terrorangrepet på AlNoor-moskeen i den norske kollektive hukommelsen.13
-25. juni 2022:
-Etter terrorangrepet mot London Pub og Per på
-hjørnet 25. juni 2022 ble Rosenkrantz’ gate malt i
-regnbuens farger til støtte for det skeive miljøet
-som ble rammet. Ett år senere besluttet Oslo
-kommune at gaten, som har fått tilnavnet Regnbuegata, skal gjøres bilfri.14 Daglig leder for
-London Pub sa følgende om hendelsen i en avisartikkel:
-Vi i miljøet vil ikke tenke på det som skjedde.
-Vi vil endre det forferdelige som skjedde, til
-kjærlighet. (Ekholt, 2023)
-1
-
-Oslo kommune u.å.-a
-Benjaminprisen u.å.
-3 Regjeringen 2015, Langberg 2019, Aarnes 2016
-4 22. juli-senteret 2023a
-5 Utøya u.å.-b
-6 Jernrosene u.å.
-7 Trondheim kommune 2021
-8 Vartdal og Weiby 2012
-9 Aarnes, Johansen og Hansen 2021
-10 Grøttum 2011; Kavlifondet 2019
-11
-Humberset og Bunjaku 2012, Tore Eikelands legat u.å.,
-Legathåndboken u.å.; Stenberg og Bringsvor 2022
-12 Stiftelsen 10. august u.å.-b
-13 Stiftelsen 10. august u.å.-a
-14
-Ekholt 2023
-2
-
-[Side 293]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-291
-
-Kapittel 38
-
-Kapittel 38
-
-Det offentlige ordskiftet etter terroren 22. juli 2011
-I den umiddelbare tiden etter terrorangrepet 22.
-juli 2011 var både det norske dagliglivet, offentligheten og politikken preget av sjokk, umiddelbar
-sorgbearbeidelse, samling og ritualer. Medienes
-rolle i denne tiden har blitt beskrevet som at
-«norsk presse forlot den sedvanlige fokuseringen
-på politisk konflikt og kritikk, og gikk inn i en
-rolle som både forteller, ritualskaper og vokter av
-en eksepsjonell medieoffentlighet».1
-Forskere har brukt benevnelsen «kjærlighetsfortellingen» eller «kjærlighets- og demokratifortellingen» for å beskrive hvordan den tidlige
-responsen på terroren, som artet seg i form av
-massemønstringer med roser på gater og torg,
-fikk leve videre som en større fortolkningsramme
-i den kollektive bevisstheten, lenge etter 22. juli.2
-Rosetogene som fant sted etter terroren, både
-samlet og symboliserte folket i møte med terroren og ga trøst, svar og mulighet til å bidra og
-delta for alle som ønsket det.3 Særlig huskes sitatet som gikk viralt på sosiale medier: «Om en
-mann kan vise så mye hat, tenk hvor mye kjærlighet vi alle kan vise sammen».4
-Den konsensusorienterte fortellingen, hvis
-budskap var at terroren var et angrep på hele
-Norge og det norske demokratiet, bidro til å fylle
-et umiddelbart kollektivt behov for mening, orientering og fellesskap.5 Den største kritikken mot
-denne fortellingen har handlet om at den fikk leve
-for lenge uten å gi plass til hvorfor angrepet
-skjedde, og hvem som var de direkte berørte.6
-Den har også blitt kritisert for å skjønnmale historien om 22. juli. «Fortellingen skygget for den
-vanskeligere og langt mindre harmoniske, men
-nødvendige samtalen om sinnet, sorgen og traumene som de berørte opplevde, og ikke minst om
-1
-2
-3
-4
-5
-6
-
-Thorbjørnsrud og Figenschou 2018
-Lenz 2018
-Rafoss 2018
-Gannestad 2011
-Lenz 2018; Rafoss 2020; Kverndokk 2013
-Valen 2021; Skjervø, Kjær og Huitfelt 2021
-
-årsakene til 22. juli.»7 Kjærlighetsfortellingen slik
-den kom til uttrykk i rosetogene, i de mange
-talene og i konsertene, snakket videre om ett
-stort «vi», men ikke alle følte seg inkludert.
-Senere har mange, med og uten minoritetsbakgrunn, mistenkt at befolkningen ville reagert
-annerledes dersom terroristen hadde en annen
-bakgrunn enn han viste seg å ha.8
-Det er dokumentert at muslimer og andre synlige minoriteter i timene før det ble offentlig at terroristen var en hvit høyreekstremist, opplevde å
-bli fysisk angrepet og sjikanert på gaten.9
-Norske muslimer har fortalt at de første timene
-etter terroren i 2011 var preget av frykt, mens journalister og eksperter spekulerte i at muslimer sto
-bak. Tidligere daglig leder i Stiftelsen 10. august
-Hawa Muuse beskrev den første tiden slik:
-Jeg husker hvordan jeg selv scrollet gjennom
-nettavisene på jakt etter fakta om det som hadde
-skjedd. Ingen av de første reaksjonene tydet på
-at man som muslim var en borger på lik linje
-med resten av befolkningen. (Muuse, 2021)
-Det ble ikke ført en bred offentlig debatt om terrorens ideologiske opphav og hvilke ideologier
-som også fremover kunne utgjøre en trussel i
-Norge. De felles reaksjonene etter terrorangrepet
-omfattet derfor ikke en bred felles bearbeidelse
-eller drøftelse av det høyreekstreme tankegodset
-som lå bak terroren, eller hvordan lignende trusler skulle møtes fremover. Terroristens fiendebilder og målutvelgelse var dermed ikke et hovedanliggende i det offentlige ordskiftet i de første
-årene etter 22. juli. Flere debatter knyttet til tematikken fant sted i årene etter angrepet, men dette
-ble ikke en større nasjonal samtale om det ideologiske bakteppet for terroren.
-7
-8
-9
-
-22. juli-senteret 2023a
-Erdal 2018; Ezzati 2018
-Haarr og Partapuoli 2012
-
-[Side 294]
-
-292
-
-NOU 2024: 3
-
-Kapittel 38
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Norge rådet tre forskjellige fortellinger, eller
-narrativer, om 22. juli. Forskerne oppsummerte
-narrativene på denne måten:
-• Demokratinarrativet: At «demokratiet snarere
-enn venstresiden var målet» for terrorangrepet.
-
-38.1 Motstridende, felles fortellinger
-C-REX kartla i 202110 nordmenns syn på terrorangrepet. Denne forskningen viste at det blant folk i
-10
-
-Solheim og Jupskås 2021. De etterfølgende kulepunktene
-er hentet fra denne kilden
-
-17 %
-
-Norwegian Democracy
-
-13 %
-
-The Labor Party
-
-18 %
-
-Little to do with politics
-
-7%
-
-None of these
-
-1%
-
-55 %
-
-35 %
-
-2%
-
-60 %
-
-42 %
-
-7%
-
-Multicultural Norway
-
-The Left Wing
-
-43 %
-
-6%
-
-42 %
-
-21 %
-
-13 %
-
-0
-
-20
-
-40
-
-60
-
-Percentage
-Answer
-
-More than one
-
-Only this one
-
-Figur 38.1 Hvem var offer for terroren
-Nordmenns syn på hvem som var offer for 22. juli-terroren, våren 2021.
-Kilde: Solheim & Jupskås, 2021
-
-Harder to express one's opinion
-
-38.1
-
-Too little talk of attacks
-
-20.5
-
-22.3
-
-The attacks were used for political gain
-
-16.3
-
-12.1
-
-19.4
-
-32.9
-
-15.2
-
-11 8.4 3.9 6.1
-25.3
-
-9.7
-
-10 2.8 3.9
-
-12.9 11.1 6.3 12
-
-Not confronted right wing extremism
-
-6.1 7.4 9.1
-
-16.6
-
-Values stronger after attacks
-
-5.3 4.3 9.1
-
-22.6
-
-28.3
-
-18.1
-
-2.6 2.4 6.2 17.9
-
-29.6
-
-24.9
-
-Handled attacks well
-80
-
-60
-
-40
-
-20
-
-22.8
-
-0
-
-17
-
-21
-12.3
-16.4
-
-20
-
-40
-
-60
-
-6
-
-Agree completely
-
-Percentage
-Agreement:
-
-Disagree completely
-
-Figur 38.2 Tiden etter terroren
-Befolkningens syn på tiden etter 22. juli, våren 2021.
-Kilde: Solheim & Jupskås, 2021
-
-2
-
-3
-
-4
-
-5
-
-80
-
-[Side 295]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-293
-
-Kapittel 38
-
-Boks 38.1 Terror – nært og fjernt
-«Kvelden 13. november 2015 ble 130 mennesker
-merksomhet. Det ble distribuert et mem på sosidrept i en serie terrorangrep i Paris. På Stade de
-ale medier som viste Eiffeltårnet flettet sammen
-France, i konsertlokalet Bataclan og på en rekke
-med det libanesiske flaggets sedertre. Et mem
-kafeer og utesteder. Terrorgruppen IS tok
-som, samtidig som det uttrykte medfølelse med
-ansvar for angrepene, som ble møtt med interofrene etter begge angrepene, bidro til å synlignasjonal fordømmelse fra statsledere over hele
-gjøre medienes ulike dekning av terrorangrep i
-verden.
-ulike deler av verden. De fleste ofre for islamisDagen før hadde IS tatt ansvar for et annet
-tisk terror er muslimer, men det er først og
-angrep i den sørlige forstaden Bouri el Baraineh
-fremst terroristen, som fremstilles som muslim.
-i Beirut i Libanon, befolket av hovedsakelig sjiGjennom samtaler om ubalanse i dekningen av
-amuslimer. 43 mennesker døde umiddelbart,
-terror nært og fjernt, kunne vi understreke for
-deriblant den norske statsborgeren og familiefaelever med familiebakgrunn fra Somalia og Libaren Bilal Hammoud, som var der på ferie med
-non at dette er historier vi heller ikke skal
-familien sin. Om lag 240 mennesker ble skadet,
-glemme, slik vi i samtaler om 22. juli ofte parablant dem Hammouds kone. Angrepet var det
-fraserer «aldri glemme»-mantraet etter andre
-største i Libanon siden borgerkrigen sluttet i
-verdenskrig og holocaust. Memet etter Paris og
-1990, men ble sparsommelig dekket av norske
-Beirut ble sentralt i vårt første undervisningsog øvrige vestlige medier. Paris-angrepene ble
-opplegg, som etter hvert, dessverre, ble fylt
-derimot dekket i dager og uker. Vi fikk historier
-med flere bilder fra nye terrorangrep andre steom de døde, navn og beretninger fra etterlatte
-der i verden.»1
-familier. I sosiale medier la folk Trikoloren til
-1 22. juli-senteret 2023a
-sine profilbilder på Facebook. Raskt ble også
-denne ubalansen et tema som fikk en del opp-
-
-Boks 38.2 Et angrep på ytringsfriheten
-«Massedrapet 22. juli var det mest alvorlige
-angrepet på demokratiet og et politisk parti i
-Norge i nyere tid. Det var også et angrep på
-ytringsfriheten. Terroristen drepte AUF-medlemmene på grunn av deres politiske meninger og engasjement. Hans uttalte ønske var å
-bringe en bestemt form for politiske meninger
-i Norge til taushet ved å drepe og skremme de
-som ytret og sto for disse meningene, og de
-som kunne ytre og fremme dem i mange år
-framover. Utøya er et eksempel uten sidestykke på angrep på ytringsfriheten i Norge.»1
-1
-
-•
-
-•
-
-NOU 2022: 9, s. 186
-
-Mangfoldsnarrativet: At angrepet «ikke bare var
-rettet mot demokratiet, men også mot det flerkulturelle Norge, Arbeiderpartiet og venstresiden. Årsaken var høyreekstrem ideologi.»
-Ytre høyre-narrativet: «En radikalt annerledes
-forståelse av 22. juli. Ifølge dette narrativet var
-
-ikke målutvelgelsen politisk, selv om årsaken
-var innvandringspolitikken. Narrativet illustrerer således hvordan deler av befolkningen legitimerer (noen av) terroristens holdninger,
-samtidig som de tar avstand fra hans handlinger.»
-En ny offentlig debatt
-AUF kom selv på banen i forbindelse med tiårsmarkeringen i 2021 og fortalte om at det opplevdes som en kollektiv berøringsangst både i befolkningen og blant meningsbærende aktører i samfunnsdebatten. AUF beskrev hvordan berøringsangsten de opplevde, gjaldt i de daglige samtalene
-i folks liv og særlig i den offentlige debatten.11
-AUF tok til orde for en ny offentlig debatt om konsekvensene av 22. juli og ga også tydelig uttrykk
-for at de opplevde seg lite hørt i forsøkene på å
-løfte samtalen om de politiske ideene bak terrorangrepet. I stedet opplevde de å ha blitt anklaget
-for å utnytte terroren og for å misbruke den politisk. Både undersøkelsen fra C-REX samme år og
-Retrievers undersøkelse av hvordan mediene dek11
-
-Skjervø, Kjær og Huitfeldt 2021
-
-[Side 296]
-
-294
-
-Kapittel 38
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Boks 38.3 Samfunnsdebatten og mediedekningen etter 22. juli
-Fra 2011 til august 2022 ble det skrevet mer enn
-debatten et år etter terroren.1 «I 2021-debatten
-500 000 norske nyhetsartikler, kommentarer og
-påpeker AUF at de har møtt mye motstand når
-andre oppslag om terrorangrepet 22. juli. En
-de har uttalt seg i offentligheten etter 22. juli. De
-gjennomgang av disse oppslagene har vist at
-påpeker at de har blitt anklaget og mistenkeligdekningen endret seg fra fakta og hendelsesforgjort for å bruke terroren til sin politiske fordel.
-tellinger til undersøkende dekning av beredTallfestingen av forekomsten av begrepene
-skapsinnsatsen og gjerningsmannens tilregneytringsansvar og Utøya-kort/22. juli-kort bidrar
-lighet etter terroren. Spørsmål om ytringsfrihet,
-til å bekrefte utfordringene som AUF mener de
-det politiske motivet bak angrepet og medienes
-har hatt».2
-rolle av dekningen utgjorde bare 15 prosent av
-1 Retriever 2022
-dekningen det første året etter terroren. Høyre2
-Retriever 2022
-ekstremisme ble bare omtalt i ti prosent av oppslagene og var en liten del av den politiske
-
-Boks 38.4 Terror på timeplanen
-En artikkel i mai 2015 hevdet at det var lite sysgjennom det arbeidet som gjøres ved mange
-tematikk i hvordan 22. juli ble undervist om i
-skoler i for- og etterkant av slike besøk.3
-I tillegg kan en medvirkende faktor ha vært
-norske klasserom. Elever rapporterte om minat dagens skoleelever ikke var født eller var velneseremonier ved skoler høsten 2011, men få
-dig små 22. juli 2011. «Terrorangrepene er til
-forsøk på å lete etter årsaker eller konsekvenser
-stede i bevisstheten til skoleelever, men i minav terroren.1 Det ble gjennomført en undersøkelse basert på intervjuer blant lærere. De som
-dre grad som personlige minner og i større grad
-ble spurt, oppga ulike grunner til at de var tilbasom del av et kollektivt minne som forvaltes og
-keholdne med å bringe temaet inn i klasseromvidereformidles mellom generasjoner».4 Lektor- og lærerutdanninger er også oppmerkmet. Nærhet i tid var en av dem. Manglende
-somme på at majoriteten av dagens studenter
-kunnskap om terroren og manglende redskaper
-ikke har personlige minner om terroren, og at
-til hvordan de kunne undervise om den, var en
-de har behov for både å lære om de faktiske henannen. Lærerne unnvek også temaet av omsorg
-2
-delsene og få redskaper til hvordan de kan ta
-for seg selv og elevene.
-I dag er bildet et annet. 22. juli 2011 er i læretemaet inn i klasseromsundervisningen.5
-planen for grunnskolen. Undervisningstilbu1 Anker og von der Lippe 2015
-dene på 22. juli-senteret og Utøya antas å ha
-2 Anker og von der Lippe 2016
-vært en medvirkende faktor for at 22. juli er inne
-3
-Frøyland 2010; Leithe-Rief 2021; Wenell 2023
-som tema i skolen i større grad i dag, ikke minst
-4 22. juli-senteret 2023a
-5
-
-ket terroren gjennom elleve år, støtter denne
-beskrivelsen.12 At AUF tok til orde for en ny politisk samtale om motivene og det ideologiske
-grunnlaget for terrorangrepet 22. juli, bidro trolig
-til å endre medienes dekning og til at nye perspektiver på konsekvensene av terroren fikk plass i det
-offentlige ordskiftet etter 2021.13
-12
-13
-
-Retriever 2022; Solheim og Jupskås 2021
-Retriever 2022; Jupskås 2023
-
-Granlund, Erdal og Heie 2020
-
-Ytringsfrihetskommisjonen påpekte at «voldelig ekstremisme og terrorisme stiller mediene
-overfor et vanskelig dilemma – fordi medienes
-oppgave og funksjon blir brukt imot dem. Terror
-har oppmerksomhet som et av sine fremste mål.
-Og det er mediene som skaffer terroristene et
-publikum.»14
-14
-
-NOU 2022: 9, s. 29
-
-[Side 297]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Medias rolle ble på ny aktualisert i løpet av
-sluttarbeidet med denne rapporten, ved rettssaken i januar 2024 i forbindelse med at Breivik
-hadde saksøkt staten fordi han mener at soningsforholdene bryter med menneskerettighetene.15
-Kommisjonen merker seg at fravær av åpne
-samtaler om terror og ekstremistisk vold, der
-også de ubehagelige og vanskelige aspektene
-15
-
-Revheim-Rafaelsen og Mjaaland 2023
-
-295
-
-Kapittel 38
-
-behandles med gjensidig respekt, kan bidra til
-polarisering og i verste fall nøre opp under ideologiske fiendebilder og konspirasjonsfortellinger.
-Den offentlige debatten og hvordan den føres,
-som del av den demokratiske beredskapen, har
-derfor betydning for folks holdninger. Den felles
-responsen på terror i form av offentlige ytringer
-og debatt kan påvirke samfunnets evne til å
-senere forebygge eller forhindre radikalisering og
-ekstremisme.
-
-[Side 298]
-
-296
-
-Kapittel 39
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Kapittel 39
-
-Minne og læring
-39.1 Freds- og
-menneskerettighetssentre
-Ulike minne- og læringsarenaer etter krig og terror er vesentlige ressurser for samfunnets kollektive hukommelse. Dette er institusjoner som
-bidrar i arbeidet med å gi nye generasjoner eierskap til krevende sider ved historien og samfunnet de er en del av.
-Freds- og menneskerettighetssentrene er syv
-uavhengige stiftelser som på hver sin måte bidrar
-til å fremme demokratiske verdier og holdninger,
-særlig rettet mot barn og unge.1 Felles for sentrene er at de bidrar med dokumentasjon,
-forskning, undervisning og formidling innenfor
-områdene demokrati, fred og menneskerettigheter, minoriteter og folkemord. Sentrene bidrar
-også med gjennomføring av Dembra i sine regioner.2 Sentrene er etablert i ulike deler av landet.
-Minnesteder, gjenstandssamlinger og arkivmateriale inngår i formidlingsarbeidet. De syv sentrene er HL-senteret, Falstadsenteret, Arkivet
-freds- og menneskerettighetssenter, Nansen
-Fredssenter, Narviksenteret, Raftostiftelsen og
-Det Europeiske Wergelandsenteret (EWC). Narviksenteret er det nordligste av de syv. Sentrene
-har digitale undervisningsressurser på nett og tilbyr utadrettet informasjonsvirksomhet.3 Samlet
-besøkte cirka 130 000 personer sentrene i 2022. I
-2022 deltok cirka 50 000 elever i undervisningen
-til sentrene. Sentrene opplever økt etterspørsel
-etter sine tilbud, inkludert Dembra.4 Sentrene har
-påpekt et behov for å styrke undervisningsressursene ved sentrene, særlig knyttet til demokratisk
-medborgerskap og menneskerettigheter.5 Det er
-1
-2
-3
-
-4
-5
-
-Kunnskapsdepartementet 2017a
-Dembra u.å. Dembra er omtalt i kapittel 27.2.3 Dembra
-De nasjonale freds- og menneskerettighetssentrene 2022;
-Kommisjonens møte med Freds- og menneskerettighetssentrene, 7. februar 2023
-Prop. 1 S (2023–2024)
-De nasjonale freds- og menneskerettighetssentrene 2022
-
-en utfordring at skoleelever, og andre som ønsker
-tilsvarende undervisning, ikke får imøtekommet
-dette grunnet ressurser, og eventuelt geografisk
-beliggenhet.
-Sentrene får bevilgning over Kunnskapsdepartementets budsjett. Forsknings- eller erfaringsbasert undervisning er en sentral del av virksomheten ved alle sentrene og en av betingelsene for statlig tilskudd. Sentrene har ulik profil. Seks av sentrene har primært skoleklasser som sitt publikum,
-mens EWC har et mer voksent nedslagsfelt.6 To av
-sentrene, Falstadsenteret og Narviksenteret, har
-også besøk av grupper som får spesielt tilrettelagte
-tilbud. Dette gjelder besøk av flyktninger og innvandrere tilknyttet voksenopplæringen, enslige
-asylsøkere, unge med psykiske lidelser, personer i
-kriminalomsorgen og grupper med spesielle
-arbeidstreningstilbud. Sentrene er selvstendige
-enheter med ulike mandater, men de har gjennom
-de siste årene blitt stadig mer konsolidert som en
-samlet kraft i det brede forebyggende arbeidet,
-særlig i utdanningssektoren.7
-Det finnes også øvrige nasjonale og regionale
-institusjoner utenfor freds- og menneskerettighetssentrene som har et beslektet samfunnsoppdrag. Eksempler er Nobels Fredssenter,8 Gjenreisningsmuseet for Finnmark og Nord-Troms,9
-Grinimuseet,10 Jødisk Museum i Oslo,11 Jødisk
-museum Trondheim,12 RiddoDuottarMuseat,13
-Glomdalsmuseet14 og Romano kher.15
-6
-
-Kunnskapsdepartementet 2017a
-Kunnskapsdepartementet 2017a
-8 For mer informasjon, se Nobels fredssenter u.å.
-9 For mer informasjon, se Gjenreisningsmuseet for Finnmark og Nord-Troms u.å.
-10 For mer informasjon, se Grinimuseet u.å.
-11 For mer informasjon, se Jødisk museum Oslo u.å.
-12 For mer informasjon, se Jødisk museum Trondheim u.å.
-13 For mer informasjon, se RiddoDuottarMuseat u.å.
-14 For mer informasjon, se Glomdalsmuseet u.å.
-15 Romsk kultur- og ressurssenter u.å.-b
-7
-
-[Side 299]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-297
-
-Kapittel 39
-
-39.2 22. juli-senteret
-22. juli-senteret er et nasjonalt minne- og læringssenter som formidler kunnskap om terrorangrepet i regjeringskvartalet og på Utøya 22. juli 2011.
-Gjennom utstillinger, undervisning og dokumentasjon bidrar senteret til en historiebevisst forvaltning av minnet om terrorangrepet, både for skoleverket og for allmenheten. For tiden er 22. julisenteret plassert i Teatergata 10 mens Høyblokka
-i regjeringskvartalet restaureres. Et nytt permanent 22. juli-senter skal etter planen åpne på den
-opprinnelige lokasjonen, i tilknytning til Høyblokka, hvor det er spor etter angrepet i 2011.16
-22. juli-senteret fikk i 2017 tildelt en engangssum over statsbudsjettet for å utvikle et nytt
-undervisningstilbud med vitneberetninger i sentrum.17 I undervisningstilbudet «Min historie –
-personlige fortellinger fra og om 22. juli» inviteres
-skoleklasser til møter med vitner som forteller
-sine historier. Elevene engasjeres gjennom refleksjonsoppgaver og gruppearbeid om 22. juli, og de
-får høre fortellinger fra og komme i dialog med
-mennesker som på ulike måter opplevde terroren
-på nært hold.18 Tilbudet legger vekt på å få frem
-ulike perspektiver og varierte opplevelser fra 22.
-juli i vitneberetningene, i tråd med bevisstheten
-rundt hvordan historien og fremstillingen av terroren kan være ulik blant ulike berørte.19
-16
-
-22. juli-senteret 2023b
-Burheim 2023
-18 Burheim 2023
-19 Burheim 2023
-17
-
-Boks 39.1 Vitneberetninger
-«Personlige fortellinger omgis av en «aura av
-autentisitet», særlig når de omtales som vitneberetninger, fordi de fortelles av noen som
-selv opplevde en gitt hendelse. I omgangen
-med slike fortellinger er det likevel viktig med
-et kildekritisk og historiebevisst perspektiv.
-Det innebærer ingen diskreditering av vitnenes fortellinger, men nettopp å verdsette dem
-som personlige fortellinger og ta hensyn til at
-de bunner i traumatiske opplevelser.»
-(Storeide, 2018)
-
-Undervisningstilbudet bidrar til å vise frem de
-menneskelige konsekvensene terroren har hatt
-og fortsatt har. Det er stor etterspørsel etter vitneberetninger i hele landet etter 22. juli-terroren.
-Berørte fra hele landet deltar som vitner i undervisningen, og 22. juli-senteret underviser også
-andre som utfører vitnesamtaler, i metoder og fallgruver ved denne typen undervisning. I perioden
-2022–2024 har senteret videreutviklet samarbeid
-og samarbeidsavtaler med andre institusjoner
-som Utøya, EWC, Rafto, Falstadsenteret og Nasjonal støttegruppe etter 22. juli om undervisning
-med vitner. Senteret har i dag det største kompetansemiljøet i Norge på dette fagfeltet.
-22. juli-senteret var det største statlige initiativet som i stor skala satte terroren på dagsordenen, i den offentlige samtalen og i det fysiske land-
-
-Boks 39.2 Et vitne forteller
-Facebook-status fra Unni Espeland, mor til
-Eg vil ta med meg det ei jente sa før vi drog:
-Andrine Bakkene Espeland som døde på Utøya
-«Jeg kunne ha lest all verdens bøker og ikke for22. juli 20111:
-stå så mye. Nå skjønner jeg mye mer, fordi jeg
-«For ein dag! I dag var siste gongen på
-har fått oppleve to mennesker som var midt i
-Utøya, i 2023.
-det.»
-Eg har igjen fått vere med på vitnesamtale,
-Desse ungdomane har ikkje eigne minner
-der ungdom frå 9. og 10. trinn frå ulike stader i
-frå 22. juli-11.
-landet vårt lytta og stilte spørsmål. Dei er på tre
-Det gjer også at vi aldri må slutte å snakke
-dagars demokrativerkstad
-om det.
-Eg er takksam for at eg får vere med å forVi må heller aldri slutte å snakke om kva
-midle det grusame, men også håp og glede
-som skaper terrorisme, ekstremisme, hat, utanElevane stiller spørsmål om så mangt, ope
-forskap og kva vi kan gjere for å motverke
-og ærleg. Som eit spørsmål i dag: «Hvordan var
-det.»
-stemninga i bilen da dere kjørte hjem fra Ullevål
-1 Espeland 2023. Gjengitt med tillatelse fra Espeland
-etter å ha venta der, ei hel natt?»
-
-[Side 300]
-
-298
-
-Kapittel 39
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-skapet, da det åpnet 22. juli 2015. Senteret ble i
-utgangspunktet etablert med en varighet på inntil
-fem år. Driftsetaten Departementenes sikkerhetsog serviceorganisasjon (DSS) fikk ansvaret for
-driften.20 I 2019 ble 22. juli-senteret reorganisert
-som en permanent virksomhet underlagt Kunnskapsdepartementet. Siden høsten 2019 har senteret produsert fire utstillinger, nye undervisningsopplegg, digitale ressurser, filmer, nye nettsider
-og en rekke arrangementer. Senteret får føringene sine via et årlig tildelingsbrev.
-22. juli-senterets organisatoriske tilknytning
-har tidligere vist seg å være krevende. Det har
-ført til pålegg om justeringer av senterets undervisningspraksis. Da 22. juli-senteret knyttet 22.
-juli- undervisning til aktuell samfunnsdebatt i
-2018, ble dette sanksjonert av daværende politisk
-ledelse og departement som instruerte 22. julisenteret om å fjerne en kilde fra 22. juli-senterets
-undervisningsopplegg.21 Kritikken som fulgte fra
-fagmiljøet viste en betydelig diskrepans mellom
-hva som forventes av 22. juli-senteret, og de rammevilkårene senteret var gitt for sitt samfunnsoppdrag.22 Etter reorganiseringen under Kunnskapsdepartementet har senteret fortsatt med å løfte
-frem krevende spørsmål knyttet til samtalen om
-22. juli.23
-23 000 mennesker besøkte 22. juli-senteret i
-2023. Av disse var 13 000 elever, lærere eller
-lærerstudenter. I tillegg til undervisning av skoleklasser gjennomfører 22. juli-senteret lærerkurs
-og lærerstudentkurs. Nærmere 800 studenter
-eller lærere deltok på slike kurs i regi av senteret i
-2023.24
-
-39.3 Utøya AS
-Gjenreisningen av Utøya har vist at det går an
-for et samfunn, sted og organisasjon å reise seg
-og komme tilbake igjen uten at du fortrenger
-fortiden. (Jørgen Watne Frydnes, daværende
-daglig leder Utøya A/S i møte med kommisjonen, 24. mai 2023)
-
-20
-
-Regjeringen 2015
-Newth 2018; Hjorth og Lenz 2023; Folkvord 2020
-22 Se for eksempel Anker, Hovde, Døving, Førland, Korbøl,
-Korsvoll, Kvamme, Lenz, von der Lippe, Nustad, Jørgensen, Heldal, Sæther og Eriksen 2018; Avelin 2019
-23 Folkvord 2020
-24 Korrespondanse mellom kommisjonens sekretariat og 22.
-juli-senteret, 31. januar 2024
-21
-
-Siden 1950 har Arbeidernes Ungdomsfylking
-(AUF) vært eier av Utøya i Tyrifjorden. Øya har
-fungert som politisk sentrum for norsk arbeiderbevegelse både frem til 22. juli 2011 og etter terrorangrepet. Den første sommerleiren for AUF på
-Utøya etter 22. juli 2011 ble avholdt sommeren
-2015.
-I dag har Utøya også en viktig rolle som
-minne- og læringssenter. Utøya forvalter 22. julihistorien på det ene åstedet for terrorangrepet,
-med et spesielt formål om å formidle kunnskap
-om 22. juli 2011 til nye generasjoner. Siden
-læringsstedet Hegnhuset på Utøya åpnet i 2016,25
-har tusenvis av ungdommer deltatt på Demokrativerksted. I Demokrativerkstedet formidles kunnskap om terrorangrepet der det skjedde. Hegnhuset er bygget rundt bevarte deler av Kafébygget
-der 13 ungdommer mistet livet 22. juli. De fysiske
-sporene etter terroren på øya er i sin synligste
-form der.26 Ungdom som deltar i Demokrativerkstedet, jobber med temaer knyttet til demokrati og
-trusler mot demokratiet, med vekt på ungdomsengasjement og demokratisk medborgerskap. Opp
-mot 12 000 skoleelever, konfirmanter og aktive i
-ungdomsråd, ungdomsorganisasjoner og fritidsklubber deltar på ulike læringstilbud i Demokrativerkstedet hvert år.27
-Utøya tilbyr kurs, konferanser og seminarer
-for voksne målgrupper knyttet til aktuelle samfunnstemaer som ekstremisme, ytringsfrihet,
-rasisme og demokrati. Utøya brukes årlig som
-arena for kurs i kriseledelse, til lærerkurs og til
-kurs for fagbevegelsen. I tillegg har Utøya et voksende internasjonalt program. I 2023 deltok unge
-voksne fra over 60 land på ulike arrangementer på
-Utøya. Hver sommer organiseres flere sommerleirer på øya.28
-Utøya er alltid tilgjengelig for etterlatte, overlevende og andre berørte av terroren 22. juli. Minnearbeid er en viktig del av Utøyas formål. Erfaringene fra gjenreisingen av Utøya som et sted for
-minne, læring og engasjement brukes stadig mer
-i andre land og steder rammet av terror og krig.
-Utøya har en rekke samarbeidspartnere nasjonalt og internasjonalt. Utøya samarbeider med
-den nasjonale støttegruppen etter 22. juli, EWC og
-andre freds- og menneskerettighetssentre, ulike
-ungdomsorganisasjoner og diverse aktører innen
-25
-
-Utøya u.å.-a
-Utøya u.å.-a
-27 Korrespondanse mellom kommisjonens sekretariat og
-Utøya, 8. november 2023
-28 Korrespondanse mellom kommisjonens sekretariat og
-Utøya, 8. november 2023
-26
-
-[Side 301]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-forskning, i sivilsamfunnet og i fagbevegelsen.
-Som åsteder for det samme terrorangrepet er 22.
-juli-senteret og Utøya knyttet sammen, og de samarbeider blant annet om å sikre og ivareta spor og
-gjenstander etter terrorangrepet. Dette brukes i
-utstillinger og til dokumentasjon.29
-Utøya driftes av Utøya AS, et nonprofit-aksjeselskap. Selskapet mottar ingen statsstøtte eller
-annen offentlig støtte.
-
-39.4 Stiftelsen 10. august
-Kort tid etter 10. august 2019 ble Stiftelsen 10.
-august etablert etter initiativ fra moskeen som ble
-utsatt for terrorangrepet, Al-Noor-moskeen.30 Stiftelsen samarbeider med flere av de ovennevnte
-sentrene og en rekke andre organisasjoner.
-Minne- og læringssenteret 10. august forvalter
-historien om angrepet på norske muslimer og drapet på Johanne Zhangjia Ihle-Hansen.31 Hennes
-familie og berørte medlemmer av moskeen har
-vært med på å gi innspill til utformingen av utstillingen i minne- og læringssenteret. Utstillingen
-inkluderer også spor og gjenstander etter terrorangrepet. Hovedmålgruppen er elever i ungdomsskolen og videregående skole, men andre grupper benytter også stedet for samtaler. Stiftelsens
-mål er å styrke demokratisk forståelse, tillit og
-medborgerskap hos nye generasjoner og å tilby
-verktøy til handlingskompetanse i møte med ytterliggående tankegods og radikaliseringsprosesser.
-Stiftelsen ønsker, i samarbeid med Al-Noor-moskeen, å være en viktig stemme for minoriteter
-som utsettes for rasisme og diskriminering.32
-
-39.5 Andre
-Ulike organisasjoner tilbyr informasjons- eller
-kunnskapshevende tiltak knyttet til dagsaktuelle
-og historiske utfordringer som hets, hatefulle
-ytringer, rasisme og diskriminering. Nedenfor
-omtales to konkrete ordninger. Andre organisasjoner som kan nevnes, er Dialogpilotene33, kurskonseptet Flexid34 og stopphatprat.no.35 Kompe29
-
-Korrespondanse mellom kommisjonens sekretariat og
-Utøya, 8. november 2023
-30 Kommisjonens møte med stiftelsen 10. august, 13. mars
-2023
-31 Stiftelsen 10. august u.å.-c
-32 Møte med Stiftelsen 10. august, 13. mars 2023
-33
-For mer informasjon, se Dialogpilotene u.å.
-34 For mer informasjon, se Flexid stiftelsen u.å.
-
-299
-
-Kapittel 39
-
-tansehevingstilbudet Dembra er omtalt nærmere i
-kapittel 27.2.3 Dembra.
-
-39.5.1 Skoleturer
-Mange norske skoleelever reiser med selskaper
-som tilbyr turer til tidligere nazistiske konsentrasjons- og dødsleirer eller andre minnesteder i
-utlandet og Norge. Det kan søkes om støtte til
-slike turer gjennom Utdanningsdirektoratets tilskuddsordning for skoleturer.36 Tilskuddsordningen er knyttet til handlingsplanen mot antisemittisme.
-Finansieringen av disse tilbudene har vært diskutert i lys av gratisprinsippet i skolen. Tildelingen fra tilskuddsordningen har en øvre begrensning på inntil en tredjedel av den samlede turkostnaden for turdeltakerne. Utgifter utover dette må
-tilskuddsmottakerne finansiere selv.37 Turene
-skal ifølge tilskuddsordningen være omfattet av et
-faglig forankret pedagogisk tilbud.38 Det har
-lenge vært knyttet usikkerhet til det faglige utbyttet av slike skoleturer blant skoleelever, og turene
-er i liten grad evaluert.39 Det er etter det kommisjonen forstår, stor variasjon i hvor gjennomarbeidet opplegget for undervisningen er. Noen er godt
-forberedt før turen, andre baserer undervisningsopplegget på den formidlingen som finnes på lokasjonen de besøker i Norge eller i utlandet.40
-Aktørene som tilbyr slike reiser, forvalter en
-viktig historisk arv. Hvite Busser har siden 1992
-arrangert ulike kunnskapsreiser for norsk ungdom. De opplyser at de samarbeider med alle
-besøksdestinasjoner for å sikre best mulig faglig
-resultat for elever som reiser med dem. De samarbeider med skolene som reiser for å sikre at reisen
-blir en del av et større faglig opplegg.41 Aktive
-fredsreiser har siden 1998 tilbudt flere ulike reiser
-til skoleklasser, både i Norge og Europa. Nettsidene omtaler reisene de tilbyr, som holdningsskapende tematurer og dokumentasjonsreiser.42 Gjennom reisene skal ungdom få innsikt i tidligere hendelser og kunne trekke linjer frem til i dag.
-35
-
-For mer informasjon, se Stopp hatprat u.å.
-Utdanningsdirektoratet u.å.-b
-37
-Utdanningsdirektoratet u.å.-b
-38 Utdanningsdirektoratet u.å.-b
-39 Kverndokk 2007; Proba samfunnsanalyse 2023b
-40
-Kommisjonens sekretariats samtale med Utdanningsdirektoratet, 20. november 2023
-41 Korrespondanse mellom kommisjonens sekretariat og
-Hvite busser, 20. oktober 2023
-42 Aktive fredsreiser u.å.
-36
-
-[Side 302]
-
-300
-
-Kapittel 39
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-39.5.2 Veivisere
-Veivisere er representanter for et trossamfunn eller
-en gruppe i samfunnet som møter elever eller
-andre for å fortelle om sin religion og/eller kultur
-og erfaringer. Disse møtene skal gi kunnskap og
-bryte ned fordommer, negative forestillinger og
-misoppfatninger som i verste fall kan føre til hatefulle ytringer og hets. Veiviserordningen skal være
-et supplement til undervisning i skolen. I dag finnes det samiske43, jødiske44 og muslimske45 veivisere, hvorav de to førstnevnte inngår i formaliserte
-ordninger. Veiviserne har uformelt samarbeid og
-dialog seg imellom. I tillegg har Kirkens bymisjon
-gjennom det romske kultur- og ressurssenteret
-Romano kher tilbudet «Rom viser vei».46
-Den samiske veiviserordningen ble evaluert i
-2007.47 Den jødiske veiviserordningen ble evaluert som del av en samlet evaluering av handlingsplaner mot antisemittisme 2016–2023.48 Etter hva
-kommisjonen erfarer, er ikke romske eller muslimske veivisere evaluert i senere tid.
-
-det. Til noen steder, må en rådgiver reise sammen
-med veiviserne på grunn av opplevelser med diskriminerende ytringer fra elever og lærere. Dette
-er naturligvis belastende for veiviserne som opplever dette. Samiske veivisere opplyser til kommisjonen at dette gjør ordningen dyrere enn den
-ellers skulle vært.52
-Jødiske veivisere
-
-Samisk veiviserordning startet i 2004 som et prøveprosjekt. Det ble en fast ordning rundt fire år
-senere. Det er i dag ansatt fire samiske veivisere,
-og ordningen mottar støtte fra Kommunal- og distriktsdepartementet. De samiske veiviserne går
-gjennom et utdanningsprogram med samisk kultur- og samfunnskunnskap ved Samisk høgskole i
-Kautokeino. Veiviserne opplever stor og økende
-etterspørsel og får forespørsler fra ulike instanser.49 Veiviserne forstår det slik at den økte etterspørselen blant annet skyldes at de nye læreplanene legger vekt på samisk kultur.50 Veiviserne
-har fått en økt tildeling i 2024 på bakgrunn av den
-store etterspørselen. Økningen skal dekke to
-ekstra veivisere.51
-Kommisjonen forstår det slik at veiviserne har
-ulike erfaringer om hva de møter av kunnskap og
-fordommer på besøk til skoler ulike steder i lan-
-
-Det jødiske veiviserprogrammet ble opprettet
-først som et pilotprosjekt initiert av Det Mosaiske
-Trossamfund og med støtte fra regjeringen.53
-Støtten til den jødiske veiviserordningen ble deretter videreført som et tiltak i den første handlingsplanen mot antisemittisme i 2016.54 Den ble
-deretter videreført i handlingsplanen for 2021–
-2023.55 Denne handlingsplanen er forlenget ut
-2024. Jødiske veivisere får tilskudd fra Kommunalog distriktsdepartementet.56
-Dette er fulltidsjobben til veiviserne etter et
-utdanningsprogram ved Universitetet i Oslo.
-Jødiske veivisere besøker videregående skoler
-som aktivt tar kontakt med dem for et besøk, eller
-de tar ved noen tilfeller selv kontakt med skoler.
-Veiviserne har i samtaler med kommisjonen
-påpekt at de identifiserer kunnskapsmangel blant
-elever de møter. Det kan for eksempel dreie seg
-om forventninger til hvordan de ser ut, og til at de
-har konservative verdier.57 De har imidlertid
-gode erfaringer med å reise rundt på skolebesøk
-og snakke om hvordan det er å være jøde i Norge
-for å bryte ned fordommer gjennom kunnskap og
-dialog. Jødiske veivisere trekkes i en evaluering
-av ulike handlingsplaner mot antisemittisme frem
-som et vellykket tiltak som «gir unge norske jøder
-et ansikt, og kan gi elevene et bredere bilde av hva
-en jøde «er»».58 Det finnes en bekymring for at
-veiviserne ikke når ut til mange nok, samtidig
-som det er bred enighet og en erkjennelse blant
-veiviserne selv om at tilbudet ikke kan oppskaleres, siden det er krevende å rekruttere veivisere.59
-
-43
-
-52
-
-Samiske veivisere
-
-Samiske veivisere u.å.-a
-Jødedommen u.å.-b
-45 Muslimske veivisere u.å.
-46 Romsk kultur- og ressurssenter, Romano Kher u.å.-a
-47 Statkonsult 2007
-48 Proba samfunnsanalyse 2023a
-49
-Samiske veivisere u.å.-b
-50 Kommisjonens møte med samiske veivisere, 9. mai 2023
-51 Prop. 1 S (2023–2024); Innst. 16 S (2023–2024)
-44
-
-Kommisjonens møte med samiske veivisere, 9. mai 2023
-Proba samfunnsanalyse 2023a
-54
-Kommunal- og moderniseringsdepartementet 2016
-55 Kommunal- og moderniseringsdepartementet 2021
-56 Jødedommen u.å.-a
-57
-Kommisjonens møte med jødiske veivisere, 19. desember
-2022
-58 Proba samfunnsanalyse 2023a
-59 Proba samfunnsanalyse 2023a
-53
+# Taushetsplikt og informasjonsdeling
+
+Mange aktører er involvert i det forebyggende arbeidet mot radikalisering og ekstremisme i Norge. For at disse tjenestene skal kunne samarbeide om enkeltsaker, er det en forutsetning at de kan dele informasjon seg imellom. Ofte vil det være spørsmål om å dele personopplysninger som er underlagt taushetsplikt.
+
+I dette kapittelet drøftes hensynene bak regelverket om taushetsplikt og informasjonsdeling, hvilke regler som gjelder for de ulike aktørene, og hvordan regelverket påvirker forebygging av voldelig ekstremisme. Fremstillingen er ikke uttømmende. Kapittelet handler om indikativ, personrettet forebygging av voldelig ekstremisme.
+
+Som en del av kommisjonens utredning ble det innhentet en rapport fra professor Morten Holmboe ved Politihøgskolen om taushetsplikt og informasjonsdeling i det forebyggende arbeidet mot voldelig ekstremisme og radikalisering. Holmboe har også gitt verdifulle bidrag til teksten i dette kapittelet og tilgrensende områder i kommisjonens rapport. Holmboes rapport følger i vedlegg 4.
+
+Kommisjonen har i denne fremstillingen blant annet sett hen til Partnerdrapsutvalgets grundige gjennomgang av tilsvarende spørsmål.[^1679]
+
+## Informasjonsdeling mellom aktører med ulike samfunnsoppdrag
+
+Aktørene som arbeider med forebygging av voldelig ekstremisme, er underlagt taushetsplikt enten de arbeider i politiet, kommunen, helsevesenet, barnevernet eller andre deler av tjenesteapparatet.[^1680] Taushetsplikten for de nevnte aktørene er regulert i ulike lover. Plikten er til dels ulikt formulert, og det er ulike regler for plikt og rett til å dele informasjon.
+
+Reglene om taushetsplikt skal sikre tillit til at opplysninger om personen det gjelder, forvaltes forsvarlig og ikke spres unødvendig.[^1681] Denne tilliten kan være avgjørende for at tjenesteapparatet mottar opplysninger som i neste omgang er nødvendig for å iverksette forebyggende tiltak mot voldelig ekstremisme. På den andre siden kan informasjonsdeling på tvers av etater være avgjørende for å forhindre alvorlige voldshendelser.[^1682] Man kan si at taushetsplikten befinner seg i et verdimessig spenningsfelt.[^1683]
+
+Denne spenningen ble blant annet fremhevet i evalueringen av politiet og PSTs innsats under terrorhendelsen i Bærum 10. august 2019, der evalueringsutvalget pekte på at myndighetene i sitt arbeid med å forebygge radikalisering og voldelig ekstremisme må gjøre en vanskelig avveining mellom personvern og sikkerhet. Evalueringsutvalget anbefalte tettere samarbeid og «behov for en lavere terskel for å utveksle taushetsbelagt informasjon innenfor dette området, samtidig som det i så fall må suppleres med gode og sterke kontrollmekanismer for å forhindre misbruk».[^1684] Utvalget pekte også på at det er et betydelig antall personer i Norge som er involvert i voldelig ekstremisme og har utfordringer i forbindelse med oppvekst, skolegang og mental helse, noe som understreket behovet for en helhetlig tilnærming fra tjenesteapparatet.
+
+Balansen mellom informasjonsdeling og taushetsplikt i forebyggende arbeid er et spørsmål som gjør seg gjeldende på en rekke endre områder ut over forebygging av ekstremisme. Problematikken er blant annet tatt opp av Partnerdrapsutvalget,[^1685] Barnevoldsutvalget[^1686] og andre. I desember 2023 behandlet Stortinget flere saker knyttet til organisert kriminalitet og ungdomskriminalitet, og det ble i den forbindelse fattet vedtak om at regjeringen skal gjennomføre «en juridisk gjennomgang av relevant lovverk knyttet til taushetsplikt og informasjonsplikt for alle relevante instanser som jobber med barn og unge som har høy risiko for å begå alvorlige lovbrudd, med spesielt henblikk på mulighetsrommet for informasjonsflyt».[^1687]
+
+Selv om det er gode grunner til å ønske mer informasjonsdeling og samarbeid mellom tjenestene, både for å forebygge ekstremisme og andre samfunnsutfordringer, må det samtidig tas i betraktning at ulike aktører har ulike mandater og samfunnsoppdrag og derfor ulike institusjonelle logikker[^1688] eller verdifokus.[^1689] Ytterpunktene i en slik forståelse kan være politiets ansvar for samfunnssikkerhet på den ene siden og helse- og sosialtjenestenes mandat til å yte sosial omsorg og skape tillitsfulle relasjoner til enkeltindivider på den andre. De ulike aktørenes plassering i dette verdimessige spenningsfeltet kan forklare logikken bak regelverket og kan prege hvilken holdning personell innenfor disse sektorene har til utveksling av informasjon.[^1690] Mens politiet har en vid adgang til å dele informasjon for å avverge eller forebygge lovbrudd, har helsepersonell en svært streng taushetsplikt. Olsen-utvalget, som undersøkte drap begått av personer med kjent psykisk lidelse i perioden 2004–2009, pekte på viktigheten av forståelse for dette i forholdet mellom aktørene:
+
+Det er også viktig at de som skal samarbeide eller utveksle informasjon, er klar over hva som er de sentrale verdier for de andre etatene, og hvordan dette har preget regelverk og holdninger. Ordene «samarbeid» og «informasjonsutveksling» skaper lett en tro på at det er en likevekt i systemet som innebærer at den enkelte etat kan forvente å få tilbake «like mye» informasjon som den har formidlet. Det følger av det ovenstående at det verken er eller bør være slik. (NOU 2010: 3, s. 115)
+
+Når man tar de ulike aktørenes mandat og samfunnsoppdrag i betraktning, er det altså gode grunner til at de skal ha ulike regler for taushetsplikt og deling. Selv om reglene er velbegrunnet, er det ikke gitt at dagens taushetspliktregler er hensiktsmessig utformet for samfunnets og enkeltmenneskenes behov.[^1691] Forholdet mellom konfidensialitet og informasjonsdeling er heller ikke statisk, og det har skjedd en rekke endringer i regelverket i årenes løp.[^1692] Hvordan ulike, legitime hensyn skal veies mot hverandre, er noe som samfunnet og beslutningstakere hele tiden må ta stilling til.
+
+Når regelverk skal utvikles, er det grunn til å være årvåken og på vakt mot stadig mer «sikkerhetisering» av samfunnet, der hensynet til samfunnssikkerhet stadig oftere veier tyngre enn andre hensyn. Forskning fra de nordiske landene viser at en sikkerhetslogikk som tidligere var forbeholdt politi og sikkerhetstjenester, også stadig oftere gjør seg gjeldende i andre deler av tjenesteapparatet.[^1693] Den samme forskningen viser imidlertid at «omsorgslogikken» også er mer til stede i politiets arbeid.
+
+Flere aktører har spilt inn til kommisjonen at å senke terskelen for å dele taushetsbelagt informasjon kan skade tilliten mellom tjenesteapparatet og borgerne. Det er pekt på at de som står i fare for å radikaliseres kan være sosialt marginalisert, og allerede ha lav tillit til myndighetene. Deling av personsensitiv informasjon kan oppleves som et ytterligere tillitsbrudd som forsterker en negativ utvikling. I forskningen er det imidlertid ikke avklart om en vid adgang til å dele taushetsbelagt informasjon vil føre til at folk blir mer forsiktige med å betro seg til hjelpeapparatet om vanskelige situasjoner i livet. For avvergingsplikt (*mandatory reporting*) fant en norsk studie av internasjonal litteratur at *«\[e\]mpirical research appears to be scarce, with moderate to high degree of bias and with only limited recent development»*.[^1694]
+
+I spørsmål om taushetsplikt og informasjonsdeling i saker der det foreligger en radikaliseringsbekymring, er det viktig å ha høy bevissthet om hva som menes med en slik bekymring. Det kan for eksempel være utfordrende å skille svært ubehagelige ytringer og holdninger fra ytringer som tilsier at en person er i ferd med å bli radikalisert i retning voldelig ekstremisme. Begge typene ytring kan være innenfor ytringsfrihetens grenser. Å fornekte holocaust er for eksempel ikke ulovlig i Norge.[^1695]
+
+God fenomenforståelse vil være viktig for å kunne plukke opp mer eller mindre subtile tegn på at en person er i en radikaliseringsprosess.[^1696] Det er imidlertid ikke realistisk at enhver person som arbeider i tjenesteapparatet, har tilstrekkelig forståelse til å slå fast hvor bekymret det er grunn til å være. I noen tilfeller vil ulike deler av tjenesteapparatet også sitte på ulike biter med informasjon. Hadde puslespillbitene blitt satt sammen, ville man kunne se at saken er alvorlig, men hver for seg vet man ikke nødvendigvis nok. Evalueringsutvalget etter terroren i Bærum i 2019 uttrykte det slik:
+
+Utvalgets intervjuer med ulike aktører indikerer at i mange tilfeller vil ikke taushetsplikten kunne omgås fordi det ofte mangler vesentlig informasjon i denne typen saker. At mangel på informasjon forhindrer deling av informasjon er én utfordring innen dette feltet. (Dalgaard-Nielsen, Eriksen, Hansen, Ilum, Ishaq, Ravndal og Renå 2020, s. 15)
+
+Forskning på det forebyggende arbeidet i de nordiske landene peker på at Norge har betydelig flere gråsoner i regelverket enn de andre landene.[^1697] Når regelverket er uklart, kan det påvirke tilliten mellom aktørene som skal samarbeide på forebyggingsfeltet.[^1698] Samtidig kan det fremstå som at eventuelle problemer som oppstår som følge av uklarheter i regelverket, er lettere å håndtere når det foreligger etablerte og tillitsfulle relasjoner mellom aktørene:
+
+*The interviewed practitioners across the four countries repeatedly mentioned trustful relations and a belief in people’s professional and ethical conduct as facilitating information sharing. For some practitioners, trust and relations trump secrecy regulations, and colleagues who are known to be trustworthy can be given information in «gray situations».* (Christensen, Lindekilde, Sivenbring, Bjørgo, Magnæs Gjelsvik, Solhjell, Haugstvedt, Malmros, Kangasniem og Kallio, 2023)
+
+Tilsvarende har kommisjonen fått informasjon om at regelverket er en mindre hindring der det foreligger etablerte og langvarige samarbeidsrelasjoner hvor man har tillit til hverandre.
+
+## En tredeling: Taushetsplikt, opplysningsplikt og opplysningsrett
+
+Det er hensiktsmessig å dele reglene om taushetsplikt og informasjonsdeling i tre:[^1699]
+
+- Så langt taushetsplikten rekker, *kan ikke opplysningene deles*.
+
+- I en mellomsone står opplysninger som tjenesteutøveren *kan* dele, uten å være forpliktet til det.[^1700]
+
+- I en del tilfeller har man *plikt til å dele* opplysningene selv om de ellers er underlagt taushetsplikt.[^1701]
+
+Når opplysningene er underlagt taushetsplikt, har man ofte taushetsplikt overfor allmennheten, men ikke overfor bestemte mottakere. Om et forvaltningsorgan har rett til å dele informasjon med et annet forvaltningsorgan, eller om man har plikt til å dele opplysningene med politiet for å avverge et alvorlig lovbrudd, bortfaller ikke taushetsplikten overfor allmennheten. Taushetsplikten viker altså så langt det er nødvendig for å dele informasjon i henhold til den aktuelle lovhjemmelen, men ikke lenger.
+
+Brudd på opplysnings- eller handleplikt (avvergeplikt) kan være straffbart, se for eksempel nærmere om straffeloven § 196 nedenfor. Brudd på taushetsplikten kan også straffes etter straffeloven §§ 209 og 210 og det finnes noen straffebestemmelser i særlovgivningen, for eksempel helsepersonelloven § 67. Det er bare forsettlige eller grovt uaktsomme brudd på taushetsplikten som kan straffes. Uaktsomheten er grov bare dersom handlingen er «svært klanderverdig og det er grunnlag for sterk bebreidelse» i følge straffeloven § 23 andre ledd. Det skal dermed en del til for å bli straffet for brudd på taushetsplikten, og det er vanskelig å se for seg straff for brudd på taushetsplikten dersom det er gjort en samvittighetsfull, faglig vurdering av relevante hjemler for opplysningsrett eller ‑plikt. Frykt for tjenestemessige reaksjoner eller uformelle sanksjoner fra fagfellesskapet kan imidlertid også gjøre at man blir tilbakeholden med å dele opplysninger.
+
+Forholdet mellom taushetsplikt, opplysningsrett og opplysningsplikt kan illustreres slik:
+
+Taushetsplikt, opplysningsrett og opplysningsplikt
+
+Kilde: Justis- og beredskapsdepartementet 2023c punkt 1.3.2
+
+## Opplysningsplikt
+
+Det finnes situasjoner der lovverket pålegger en plikt til å opplyse, varsle eller handle uavhengig av taushetsplikt. Formålet er at taushetsplikten ikke skal hindre at riktige instanser involveres for å løse løse alvorlige eller akutte situasjoner der det er fare for liv og helse.[^1702]
+
+Avvergeplikten i straffeloven § 196
+
+Avvergeplikten følger av straffeloven § 196:
+
+Med bot eller fengsel inntil 1 år straffes den som unnlater gjennom anmeldelse eller på annen måte å søke å avverge en straffbar handling eller følgene av den, på et tidspunkt da dette fortsatt er mulig og det fremstår som sikkert eller mest sannsynlig at handlingen er eller vil bli begått (…)
+
+Bestemmelsen innebærer at alle, uavhengig av taushetsplikt, har plikt til å søke å avverge visse straffbare handlinger, blant annet terror, drap og grov vold.[^1703] Straffebudene som er omfattet av avvergeplikten, fremgår av bestemmelsen. Avvergeplikten kan ses på som et ledd i statens plikt til å sikre borgernes menneskerettigheter, særlig retten til liv, som omtalt i kapittel 3.2.[^1704]
+
+For at avvergeplikten skal gjelde, må det altså være *sikkert* eller *mest sannsynlig* at det aktuelle lovbruddet vil skje eller følgene av lovbruddet inntreffe, jf. straffeloven § 196 første ledd. Det er ikke noe selvstendig vilkår at risikoen for handlingen er akutt. Avvergeplikt kan oppstå selv om det er lenge til handlingen ventes å bli begått.[^1705]
+
+Avvergeplikten er personlig, og den enkelte må bruke sitt faglige skjønn for å vurdere om en slik utvikling er «mest sannsynlig». Som ved andre straffebestemmelser må det tas utgangspunkt i hvordan den enkelte opplever situasjonen, jf. straffeloven § 25.[^1706]
+
+Det er verdt å merke seg at den som har opplysninger som kan utløse en avvergeplikt, ikke alltid har en enkel oppgave. Brudd på avvergeplikten kan straffes, men det er et spillerom for feilvurderinger. I forarbeidene til revisjonen av bestemmelsen i 2020 er dette omtalt:
+
+Flere av straffebudene som inntas i oppregningen er straffebud med sterkt vurderingspregete vilkår. Det kan være vanskelig å avgjøre om gjerningsbeskrivelsen i det aktuelle straffebudet er oppfylt. En praktisk situasjon er at personer som får kunnskap som kan medføre en avvergingsplikt, også har straffesanksjonert taushetsplikt. I slike tilfeller må terskelen for å godta rettsuvitenhet som unnskyldningsgrunn ikke være høy.
+
+Avvergingsplikten legger etter omstendighetene en nokså inngripende handleplikt på enkeltindividet. Det må være tilstrekkelig å foreta en forstandig vurdering av om vilkårene er oppfylt. Sentralt i vurderingen bør være om situasjonen var slik at det for en alminnelig borger, ut fra en etisk vurdering, ville være naturlig å forsøke å avverge den. (Prop. 66 L (2019–2020), s. 157–158)
+
+Det er ikke varsleren som har ansvar å bevise at mistanken som gjorde at informasjon ble delt etter avvergeplikten var riktig.[^1707] Dette ansvaret påligger instansen som skal undersøke saken videre, som i de fleste tilfeller vil være politiet.[^1708] Den som er pålagt avvergeplikt, kan ikke røpe mer taushetsbelagt informasjon enn det som er nødvendig for å avverge det aktuelle lovbruddet.[^1709]
+
+Det er verdt å merke seg at det for en del alvorlige straffbare handlinger er fastsatt regler som rammer også det som vanligvis ville vært «straffri forberedelse».[^1710] For eksempel rammes forsøk på en terrorhandling allerede den som «foretar handlinger som legger til rette for og peker mot gjennomføringen», jf. straffeloven § 131 tredje ledd. Det er altså tilstrekkelig for å etablere avvergeplikt at avvergeren mener det er sikkert eller mest sannsynlig at gjerningspersonen vil overtre denne utvidede forsøksgrensen.
+
+Avvergeplikten i straffeloven § 196 gjelder også for en del typer forbund om å begå nærmere definerte straffbare handlinger.[^1711] Avvergeplikten vil også gjelde når det er sikkert eller mest sannsynlig at noen vil forsøke å inngå slike forbund.[^1712] Det kreves ikke at man mener at det er mest sannsynlig at gjerningspersonen vil lykkes, så lenge man mener at det er sikkert eller mest sannsynlig at personen vil overtre forsøksgrensen.[^1713]
+
+I en sak som gjelder radikalisering til voldelig ekstremisme, må et konkret ønske eller konkrete planer om å begå ekstremistisk vold være kjent for at avvergeplikten skal tre i kraft. Det vil ikke være nok i seg selv at en person for eksempel støtter en voldelig ideologi eller på annen måte gir uttrykk for å akseptere vold for å oppnå et politisk eller religiøst formål.
+
+Andre opplysningsplikter
+
+Etter straffeloven § 287 har alle en hjelpeplikt som innebærer å «etter evne å hjelpe en person som er i åpenbar fare for å miste livet eller bli påført betydelig skade på kropp eller helse, eller \[…\] ved anmeldelse eller på annen måte etter evne å avverge brann, oversvømmelse, sprengning eller lignende ulykke som medfører fare for menneskeliv eller betydelig skade på kropp og helse». Denne plikten går foran taushetsplikten.[^1714]
+
+I tillegg til opplysningspliktene som følger av straffeloven, skal enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, varsle barnevernet blant annet dersom det er grunn til å tro at et barn blir utsatt for alvorlig omsorgssvikt, eller hvis barnet viser alvorlige atferdsvansker blant annet ved å begå alvorlige eller gjentatte lovbrudd, jf. barnevernsloven § 13-2.[^1715] Varslingsplikten gjelder også yrkesutøvere som opptrer i medhold av helsepersonelloven, psykisk helsevernloven, helse- og omsorgstjenesteloven, familievernkontorloven og privatskoleloven.[^1716] Formålet med tiltaket er imidlertid å beskytte barnet selv, ikke å ivareta samfunnsvernet.[^1717]
+
+Etter helsepersonelloven § 31 har helsepersonell plikt til å «varsle politi og brannvesen dersom dette er nødvendig for å avverge alvorlig skade på person eller eiendom.» Denne plikten går noe lenger enn avvergeplikten etter straffeloven § 196, fordi helsepersonelloven favner flere lovbrudd enn de som er listet opp i straffeloven § 196, som utløser avvergeplikt.[^1718] Det er likevel antatt at det er en «høy terskel» for at varslingsplikt skal inntre.[^1719]
+
+Samtlige av disse opplysningspliktene kan komme til anvendelse i saker som gjelder radikalisering til voldelig ekstremisme for barn og voksne.
+
+## Taushetsplikt: hovedregel og unntak
+
+Taushetsplikt skal hindre at bestemte opplysninger, ofte formulert som «personlige forhold », blir kjent for andre enn dem som skal ha opplysningene. Regelverket innebærer både en plikt til å hindre at opplysninger gjøres kjent for uvedkommende og et forbud mot å videreformidle opplysninger.[^1720]
+
+I norsk rett deles ofte taushetsplikten opp i forvaltningsmessig taushetsplikt og yrkesmessig taushetsplikt. Den forvaltningsmessige taushetsplikten gjelder for de som har en tilknytning til forvaltningsorganer. Den yrkesmessige taushetsplikten gjelder for visse yrkesutøvere, for eksempel helsepersonell.[^1721] Ansatte i tjenesteapparatet er ofte underlagt både yrkesmessig og forvaltningsmessig taushetsplikt. Som hovedregel er den yrkesmessige taushetsplikten strengere enn den forvaltningsmessige, både for hvilke opplysninger som er taushetsbelagt, og adgangen til å dele.
+
+Taushetsplikten gir den som opplysningene gjelder, trygghet om at opplysningene ikke bringes videre til uvedkommende. Den som er vernet, skal sikres kunnskap og forutberegnelighet om når opplysningene kan videreformidles.[^1722] Selv om det i dag ikke finnes noen særskilte unntakshjemler fra taushetsplikt knyttet til ekstremisme og radikalisering i taushetspliktregelverket, finnes det en rekke begrensninger/unntak der andre hensyn er vurdert til å veie tyngre enn hensynene bak taushetsplikten. Hensynet til samfunnets behov for sikkerhet kan være et slikt hensyn. Ulike unntakshjemler presenteres i det videre.
+
+Dersom den som opplysningene gjelder, samtykker til at opplysningene kan gis videre, gjelder ikke taushetsplikten.[^1723] Det samme gjelder dersom opplysningene anonymiseres. Samtykke kan være en løsning der personen er åpen for hjelp fra tjenesteapparatet. I Bergens tverretatlige operative team, der deltakere fra kommunen, Vest politidistrikt og RVTS Vest samarbeider om å forebygge ekstremisme, har de for eksempel hatt god erfaring med å innhente samtykke fra personer som teamet har jobbet med.[^1724] Men alle saker er ulike. Det kan være saker der personen ikke vil gi samtykke, eller der det kan vanskeliggjøre arbeidet at personen er klar over at informasjon deles. Samtykke kan også være mer aktuelt i et forebyggende arbeid som handler om å yte tjenester til personen, som for eksempel arbeidstiltak, bolig eller fritidsaktiviteter, og mindre aktuelt der formålet er å hindre eller avverge en straffbar handling.
+
+Aktørenes ulike samfunnsoppdrag kan også gjøre samtykke mindre aktuelt. Dette gjelder særlig deling av informasjon til og fra PST, der tjenestens forebyggende arbeid kan være ukjent for personen det gjelder. I andre tilfeller kan det imidlertid være aktuelt også for PST å innhente samtykke. 25. juni-utvalget anbefalte i sin rapport at politiet og PST i større grad søker å skaffe seg samtykke fra den det gjelder, slik at helseopplysninger kan deles.[^1725] Samtykke kan imidlertid ikke brukes som behandlingsgrunnlag for offentlige myndigheter etter personvernforordningen.
+
+Det vil ikke være brudd på taushetsplikten å dele informasjon anonymt. Anonymisering kan fungere godt når man vil drøfte en sak med relevante aktører som man ellers ikke kan dele informasjon med. På mindre steder kan det imidlertid være lett å identifisere en person ut fra relativt få opplysninger. Anonyme drøftelser er derfor mest aktuelt på større steder, men også der kan det være vanskelig å vite hvilke opplysninger som kan deles før en aktør har tilstrekkelig informasjon til å identifisere en person.
+
+## Politiet
+
+Politiet har en relativt vid adgang til å dele informasjon med andre aktører, også i saker som gjelder radikalisering og voldelig ekstremisme. Etter politiloven § 24 er politiets behandling av opplysninger til politimessige formål regulert i politiregisterloven,[^1726] mens forvaltningsloven §§ 13 til 13 f gjelder for politiets øvrige virksomhet med noen tillegg og begrensninger.[^1727]
+
+Hovedregelen om politiets yrkesmessige taushetsplikt følger av politiregisterloven § 23, og denne omfatter, som etter forvaltningsloven, personlige forhold. Etter andre ledd gjelder taushetsplikten «også for opplysninger som det ut fra hensynet til etterforskingen i den enkelte sak, hensynet til spanings- og etterretningsvirksomheten eller hensynet til politiets operative virksomhet og organiseringen av denne er nødvendig å holde hemmelig».
+
+Politiet kan etter politiregisterloven § 27 dele taushetsbelagt informasjon med andre instanser både for å forebygge og avverge lovbrudd. Politiet kan også utlevere opplysninger som en del av samarbeidet med andre instanser som «inngår i et kriminalitetsforebyggende samarbeid når det er nødvendig for å forebygge kriminalitet», inkludert voldelig ekstremisme, jf. fjerde ledd.
+
+Etter politiregisterloven § 30 første ledd kan politiet utlevere ellers taushetsbelagte opplysninger dersom det er nødvendig for å fremme andre organers lovpålagte oppgaver, eller for å hindre at andre offentlige organers virksomhet blir utøvet på en uforsvarlig måte. Politiet kan derfor for eksempel dele informasjon med helsepersonell når det skal gjøres en voldsrisikovurdering av en psykiatrisk pasient som har gitt uttrykk for at hen ønsker å begå ekstremistisk vold.[^1728] Det kan imidlertid være vanskelig for helsepersonell å be om denne informasjonen uten å bryte egen taushetsplikt. Politiet kan bare dele opplysninger i den utstrekning det er forholdsmessig i den konkrete situasjonen. Politiet kan ellers dele taushetsbelagte opplysninger med andre når den som har krav på taushet, samtykker til det, jf. politiregisterloven § 24 nr. 1.
+
+Unntakene fra taushetspliktreglene er snevrere for opplysninger som er innhentet ved bruk av kommunikasjonskontroll (for eksempel avlytting), jf. straffeprosessloven § 216 i. Unntakene fra taushetsplikt som gjelder etter forvaltningsloven, politiloven og politiregisterloven, gjelder ikke for opplysninger innhentet ved kommunikasjonskontroll.[^1729]
+
+Gjennom innspill til kommisjonen har det kommet frem at politiet ønsker at andre tjenester skal dele mer informasjon med dem. Kommisjonen er imidlertid ikke kjent med informasjon som tilsier at regelverket står i veien for politiets anledning til å dele informasjon. Det er likevel verdt å påpeke at regelverket ikke er lett tilgjengelig. Politiets taushetsplikt er regulert i fem ulike lover: politiregisterloven, forvaltningsloven, domstolloven, straffeprosessloven og politiloven.[^1730]
+
+## PST
+
+PST har i utgangspunktet den samme vide adgangen til å dele informasjon som politiet har, og reglene beskrevet ovenfor gjelder også for PST. Informasjon som PST selv har innhentet, og analyser de selv har produsert, er underlagt de samme reglene som politiet etter politiregisterloven. Av politiregisterforskriften § 21-7 følger det at politiregisterlovens regler om taushetsplikt gjelder for PST med mindre noe annet følger av sikkerhetsloven med forskrift. Dette innebærer at PST kan utlevere nedgraderte opplysninger dersom det er adgang til dette etter reglene om taushetsplikt i politiregisterloven kapittel 6, jf. politiregisterloven § 19.[^1731] Bruk av informasjon innhentet ved bruk av *forebyggende tvangsmidler* jf. politiloven § 17 d er også snevrere enn politiets generelle taushetsplikt jf. § 17 f.
+
+Evalueringsutvalget etter 25. juni 2022 fant at informasjonsdelingen mellom politiet og PST utspilte seg som en «enveisflyt av informasjon fra politiet til PST, mens informasjonsdeling fra PST til politiet langt på vei har uteblitt.».[^1732] Utvalget mente at PST hadde relevant informasjon, men ikke delte den. Ifølge utvalget hadde dette flere årsaker, blant annet usikkerhet i PST om hva som kan deles med politiet. Det er også en utfordring at politiet ikke kan lagre gradert informasjon skriftlig i sine systemer. Utvalget anbefalte derfor at PST i større grad nedgraderer og deler relevant informasjon med politiet. Aktører i politiet har også gitt innspill til kommisjonen om at mangel på deling av informasjon fra PSTs side er en utfordring for samarbeidet. I evalueringen av politiets radikaliseringskontaktordning kom det frem at flere politiinformanter mener dette har bedret seg de siste årene.[^1733] Evalueringen fant likevel at det var stor variasjon i om informasjon ble tilstrekkelig utvekslet i samarbeidet mellom politiet og PST, og at dette delvis skyldes en «hemmelighetskultur» i PST. Det ble blant annet pekt på at PST ikke deler informasjon som gir politiet forståelse av vurderinger som er gjort, slik at politiet i noen saker får ansvaret for en farlig person uten å forstå hvorfor. I samtaler med kommisjonen har aktører også fortalt at det kan oppstå vanskelige situasjoner når PST kontakter politi eller kommunale aktører for å be om informasjon eller informasjonsinnhenting uten å dele informasjon om hva bekymringen knytter seg til.
+
+I EOS-utvalgets årsmelding for 2022 får PST kritikk for å søke å få en kilde til å dele taushetsbelagt informasjon:
+
+Utvalget har kritisert PSTs bruk av en kilde i en forebyggende sak. PST ba kilden om informasjon uten å ha gjort tilstrekkelige etiske vurderinger av om dette ville bety at kilden måtte bryte sin taushetsplikt. Da PST fikk opplysninger som tjenesten måtte forstå kunne være taushetsbelagt, ba de ikke kilden om å avslutte undersøkelsene. (Dokument 7:1 (2022–2023), s. 19–20)
+
+Enkelte aktører har tatt opp lignende situasjoner med kommisjonen og beskrevet at de kan føle seg presset til å dele informasjon med PST på uklart hjemmelsgrunnlag.
+
+Kort om gradert informasjon
+
+Sikkerhetsloven skal forebygge, avdekke og motvirke sikkerhetstruende virksomhet. Etter sikkerhetsloven § 5-1 er informasjon skjermingsverdig dersom det kan skade nasjonale sikkerhetsinteresser at informasjonen blir kjent for uvedkommende. § 5-3 regulerer gradering av slik informasjon. Alle som får tilgang til sikkerhetsgradert informasjon som ledd i arbeidet eller tjenesten for en virksomhet som omfattes av loven, har taushetsplikt om innholdet. Informasjon fra PSTs forebyggende arbeid vil typisk være gradert etter sikkerhetsloven og må derfor behandles på et forsvarlig sikkerhetsnivå, jf. § 5-2. Informasjon med norsk sikkerhetsgradering kan omgraderes av virksomheten som har utstedt informasjonen, en overordnet virksomhet, det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet innenfor sektoren, og av Nasjonal sikkerhetsmyndighet jf. virksomhetssikkerhetsforskriften.
+
+\[Boks slutt\]
+
+## Helsepersonell
+
+Hovedregel og unntak
+
+Spørsmålet om informasjonsdeling og samhandling fra helsevesenet til andre aktører, særlig politi, har lenge vært en utfordring, særlig innenfor psykisk helsevern.[^1734] For leger er taushetsplikten historisk forankret i den hippokratiske ed[^1735] og Genève-erklæringen vedtatt av Verdens legeforening i 1948.[^1736] Hovedregelen om taushetsplikt for helsepersonell følger av helsepersonelloven § 21, som pålegger taushetsplikt for opplysninger om «folks legems- eller sykdomsforhold» og «andre personlige forhold». Helsepersonells taushetsplikt er ikke til hinder for at opplysninger deles dersom den som har krav på taushet, samtykker til det, jf. helsepersonelloven § 22. Lovens § 23 inneholder flere unntak fra hovedregelen. Særlig relevant i saker der en pasient fryktes å være radikalisert til voldelig ekstremisme, er § 23 nr. 1 og nr. 4.
+
+Av helsepersonelloven § 23 nr. 1 følger det at taushetsplikten ikke er til hinder for at opplysningene gis «den som fra før er kjent med opplysningene». Hvis politiet har bidratt med å frakte en pasient til en helseinstitusjon, kan det spørres om politiet dermed er «kjent med» innleggelsen. Kongsberg-utvalget legger til grunn at det er tilfelle.[^1737] Utvalgets redegjørelse bygger på redegjørelsen om drap i Norge mellom 2004 og 2009[^1738] og er i tråd med Helsedirektoratets retningslinjer: «Der politiet for eksempel allerede vet at en person er pasient, typisk fordi politiet bisto ved innleggelsen, kan helsetjenesten kontakte politiet og be om informasjon».[^1739] Det kan imidlertid diskuteres om politiets transport av en person til sykehuset gjør at «politiet» er kjent med innleggelsen selv om transporten er loggført, ettersom det er en relativt liten personkrets som er kjent med transporten.[^1740] Mæland-utvalget holder spørsmålet åpent.[^1741] Regelen i helsepersonelloven § 23 nr. 1 gir etter dette ikke et sikkert grunnlag for å spørre politiet om voldshistorikk – heller ikke når politiet har brakt pasienten til helsevesenet.[^1742] Dette er en betydelig utfordring, særlig når det skal gjøres voldsrisikovurdering av pasienten.
+
+Av § 23 nr 4 følger det at helsepersonell kan dele ellers taushetsbelagte opplysninger når «tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre». Bestemmelsen gir adgang til å dele informasjon i nødrettssituasjoner.[^1743] I en dom fra Høyesterett som gjelder forståelsen av § 23 nr. 4, uttalte førstvoterende det følgende:
+
+Tungtveiende hensyn taler for at pasienter fritt skal kunne snakke med helsepersonell – især med psykiatere og psykologer – om sine tanker og følelser, også om de mest belastende, som drapstanker. Som det framgår av de spesielle merknadene til helsepersonelloven § 21 (…) skal pasienten føle seg trygg på at de opplysninger som gis i forbindelse med helsehjelpen ‘ikke nyttes i andre sammenhenger’. Risiko for at deres uttalelser og betroelser skal kunne påføre dem straffansvar, vil kunne ødelegge det grunnleggende tillitsforholdet mellom pasient og behandler, og i sin tur redusere behandlingsmulighetene. (Rt. 2008, s. 1491)
+
+En revidering av et felles rundskriv fra 2015 om «Helsetjenesten og politiets ansvar for psykisk syke» ble publisert i juli 2023.[^1744] Det reviderte rundskrivet handler blant annet om deling av informasjon fra helse til PST. I tråd med omtalen ovenfor slås det fast at terskelen for å dele informasjon er svært høy.
+
+Videre bruk av opplysningene
+
+Når helsepersonell gir ellers taushetsbelagte opplysninger til andre instanser, viker taushetsplikten bare så langt det er nødvendig for å forebygge eller avverge lovbrudd. I en del tilfeller vil opplysningene gjelde allerede begåtte forhold, for eksempel trusler. Dette er behandlet i to dommer fra Høyesterett fra 2008.[^1745] Den første avgjørelsen dreide seg om tiltaltes samtykke til at behandleren forklarte seg for tingretten, kunne trekkes ved ankebehandlingen i lagmannsretten. Det ser ut til å være forutsatt at helsepersonellet som rettmessig hadde varslet om trusselen, bare kunne forklare seg for retten dersom pasienten, altså den tiltalte, samtykket. Den andre avgjørelsen handlet om en uttalelse fremsatt overfor helsepersonell om å drepe en politimann kunne straffes som trussel etter straffeloven 1902 § 227. I denne saken fremgår det av lagmannsrettens dom at den aktuelle psykiateren forklarte seg for lagmannsretten, uten at det presiseres i den publiserte avgjørelsen hva som var grunnlaget for at forklaringen ble tillatt avgitt uten hinder av taushetsplikt. I denne avgjørelsen la Høyesterett til grunn at det kunne være nødvendig for å avverge lovbruddet å kunne varetektsfengsle og dømme gjerningspersonen.
+
+Slik kommisjonen forstår reglene, vil en taushetsbelagt opplysning som er gitt for å forebygge eller avverge lovbrudd, bare kunne gjentas som vitneforklaring i en strafferettslig forfølgning av pasienten dersom pasienten har samtykket, eller dersom straffeforfølgning er nødvendig for å (fortsette å) avverge det mulige lovbruddet. Problemstillingen er imidlertid i liten grad avklart. Samme problemstilling kan for øvrig også oppstå der helsepersonellet blir kjent med andre lovbrudd, for eksempel der pasienten har forsett om å fullbyrde en terrorhandling og foretar handlinger som legger til rette for og peker mot gjennomføringen (straffeloven § 131 tredje ledd). Det kan også være andre tilfeller der en allerede begått straffbar handling gir grunn til å handle for å avverge mer alvorlige lovbrudd.
+
+Erfaringer med regelverket
+
+Både aktører i politiet og helsesektoren har tatt opp utfordringer ved den strenge taushetsplikten med kommisjonen. PST har også ved flere anledninger, blant annet i sin temarapport om radikalisering og psykisk sykdom, tatt til orde for at adgangen til informasjonsdeling bør utvides.[^1746]
+
+Norsk Institutt for forskning om oppvekst, velferd og aldring (NOVA) publiserte i 2013 en kartlegging av rettsoppfatninger og praktisering av bestemmelser om taushetsplikt, opplysningsplikt og opplysningsrett.[^1747] Av rapporten følger det blant annet:
+
+Helsepersonell oppfattes som ekstra restriktive når det gjelder å dele opplysninger uten samtykke. Dette antas også å gjelde der det finnes unntak etter loven, fordi unntakene er lite kjent eller fordi helsepersonell vurderer det slik at unntakene ikke bør benyttes, ut fra mer etiske vurderinger og hensynet til tillitsforholdet mellom hjelper og pasient. (Stang, Aamodt, Sverdrup, Kristoffersen og Winsvold, 2013, s. 78)
+
+Olsen-utvalget,[^1748] Partnerdrapsutvalget[^1749] og Barnevoldsutvalget[^1750] fant på samme måte at det råder stor usikkerhet om hvordan regelverket skal forstås. Evalueringene både etter drapene i Kongsberg i 2021 og etter drapet og moskeangrepet i Bærum i 2019 pekte på at de begrensede mulighetene for informasjonsutveksling mellom det psykiske helsevernet og politiet er en stor utfordring.
+
+Bærum-utvalget uttalte følgende om terskelen for en avvergesituasjon før informasjon kan deles:
+
+\[Det er\] et misforhold mellom alvorlighetsgraden av denne typen hendelser på den ene siden og den såkalte avvergingspliktens krav om at det skal fremstå som «sikkert eller mest sannsynlig» at den kriminelle handlingen, i dette tilfellet et terrorangrep, vil bli begått, for at taushetsplikten skal kunne oppheves. En situasjon der man med høy grad av sikkerhet kan forvente at en terrorhandling vil bli begått, men samtidig er interessert i den kommende gjerningspersonenes helseopplysninger for videre behandling av saken, er vanskelig å se for seg, noe som antyder at regelverket ikke er godt nok tilpasset denne særegne formen for kriminalitet. (Dalgaard-Nielsen, Eriksen, Hansen, Ilum, Ishaq, Ravndal og Renå 2020, s. 15-16)
+
+De samme utfordringene ble omtalt i Evalueringsutvalget etter 25. juni 2022, som pekte på at helseopplysninger kan være relevante på et tidlig stadium i et radikaliseringsforløp, mens det fremdeles er muligheter til å forebygge.[^1751] Også Kongsberg-utvalget mente at dagens hjemler ikke er tilstrekkelig for et velfungerende tverretatlig samarbeid som omhandler psykisk syke og kriminelt belastede personer. Utvalget kom derfor med et forslag til lovendring i særlovgivingen:
+
+Taushetsplikt etter \[de ulike aktørers lovbestemte taushetsplikt\] er ikke til hinder for at det gis opplysninger til andre offentlige organer eller institusjoner som inngår i et formalisert forebyggende arbeid knyttet til psykisk syke og kriminelt belastede personer når dette anses nødvendig for å kunne forebygge alvorlig kriminalitet og verne samfunnet.
+
+Den foreslåtte bestemmelsen inneholder tre sentrale begrensninger: Den vil bare gjelde for aktørene når de deltar i det formaliserte samarbeidet for pasienter/klienter som er registrert som gjenstand for et slik samarbeid så langt hensynet til risikoreduserende forebygget arbeid tilsier de. (Henriksen, Brenden, Hoel, Kruke, og Myhrer, s. 201–202)
+
+## Forvaltningsmessig taushetsplikt
+
+### Hovedregel og unntak
+
+Hovedregelen om forvaltningsmessig taushetsplikt er forvaltningsloven § 13, som blant annet fastsetter at opplysninger om «personlige forhold» er taushetsbelagt. Personlige forhold omfatter blant annet opplysninger om fysisk og psykisk helse og om politisk eller religiøs overbevisning.[^1752] Den forvaltningsmessige taushetsplikten gjelder for ethvert organ for stat eller kommune, jf. forvaltningsloven § 1. De forholdene det vil være aktuelt å dele i en sak om en enkeltpersons radikalisering, vil i all hovedsak være å anse som personlige forhold, som i utgangspunktet er taushetsbelagt.
+
+Det følger av forvaltningsloven § 13 andre ledd at «fødested, fødselsdato og personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted» ikke er å anse som personlige forhold, med mindre slike opplysninger røper et klientforhold eller andre forhold som må anses som personlige.
+
+Selv om offentlige organer er underlagt hovedregelen om taushetsplikt, blant annet for personlige forhold, foreligger det flere hjemler for å utveksle informasjon. De sentrale reglene om begrensninger i den forvaltningsmessige taushetsplikten står i forvaltningsloven §§ 13 a og 13 b.
+
+Noen av disse bestemmelsene er mer relevante i arbeidet med radikalisering og ekstremisme. Dette gjelder særlig forvaltningsloven § 13 a nr. 3 og § 13 b første ledd nr. 5, 6 og 7.
+
+Av § 13 a nr. 3 følger det at informasjon som er «alminnelig kjent», kan deles uten hinder av taushetsplikten. Der en radikaliseringsbekymring kommer til uttrykk offentlig, for eksempel der en person kommer med utsagn på offentlig sted eller skriver i offentlig tilgjengelige medier, kan informasjon deles etter denne bestemmelsen.
+
+Etter forvaltningsloven § 13 b første ledd nr. 5 er taushetsplikt ikke til hinder for at et forvaltningsorgan gir andre forvaltningsorganer «opplysninger om en persons forbindelse med organet og om avgjørelser som er truffet». I en sak om radikalisering kan for eksempel en kommunal aktør etter denne bestemmelsen dele informasjon med politiet/PST om kontakt de har hatt med personen, og eventuelle vedtak som er fattet. Av forvaltningsloven § 13 b første ledd nr. 5 følger det videre at taushetsplikten heller ikke er til hinder for å dele «opplysninger som det er nødvendig å gi for å fremme avgiverorganets oppgaver etter lov, instruks eller oppnevningsgrunnlag». Krav om at det er «nødvendig» å gi opplysningene, tolkes ikke særlig strengt i tilfeller hvor det er nær og saklig sammenheng mellom avgiverorganet og mottakerorganets virksomhet.[^1753] Om en offentlig aktør kan dele av hensyn til egne oppgaver, må vurderes konkret i det enkelte tilfellet. Det kan ikke legges til grunn at aktører «automatisk» har som oppgave å forebygge radikalisering og voldelig ekstremisme – det må finnes konkrete holdepunkter for det i lov, instruks eller oppnevningsgrunnlag. Vurderingen for de enkelte aktørene er nærmere omtalt nedenfor.
+
+Etter § 13 b første ledd nr. 6 er taushetsplikten ikke til hinder for at et forvaltningsorgan «anmelder eller gir opplysninger \[…\] om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet, når det finnes ønskelig av allmenne omsyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver». I forebyggingsøyemed kan et lovbrudd som er begått, i noen tilfeller indikere at man er i ferd med å begå noe mer alvorlig, for eksempel det å ulovlig skaffe våpen eller sprengstoff. Det er grunn til å understreke at bare deler av politiet hører til påtalemyndigheten. Det er fremholdt i juridisk teori at spørsmålet om det er adgang «til å dele taushetsbelagte opplysninger med personer i politiet som ikke hører til påtalemyndigheten, vil bero på hvorvidt politiet dekkes av alternativet ‘kontrollmyndighet’».[^1754] Om det foreligger «allmenne omsyn», avhenger blant annet av hvor grovt lovbruddet er.
+
+En relativt ny regel er § 13 b første ledd nr. 7, som gir adgang til å dele «opplysningene med andre så langt det er nødvendig for å unngå fare for liv eller helse». I forarbeidene er det forutsatt at bestemmelsen skal ha en snever rekkevidde, og at den kun åpner for deling i nødrettslignende tilfeller.[^1755]
+
+### Erfaringer med regelverket
+
+I Forvaltningslovutvalgets rapport fra 2019 går det frem at utvalget mener forvaltningslovens bestemmelser om taushetsplikt og deling av taushetsbelagte opplysninger er «innfløkte, og de reiser flere tolkningsspørsmål som skaper usikkerhet i praksis.»[^1756] Utvalget peker på at denne usikkerheten sett i sammenheng med at brudd på taushetsplikten er straffbartgjør kan gjøre at forvaltningen blir «mer tilbakeholden med å utveksle opplysninger enn det hensynet til parten eller samfunnsmessige hensyn tilsier.»[^1757]
+
+I Forvaltningslovutvalgets rapport ble det videre slått fast at dagens hjemler i forvaltningsloven ikke dekker behovet for deling av taushetsbelagte opplysninger i tilstrekkelig grad. Utvalget mente det var grunn til å anta at regelutformingen i seg selv kan utgjøre et hinder for å dele opplysninger. Også andre kilder peker på regelverksutformingen som et hinder. Blant annet konkluderte evalueringen etter angrepet i Bærum i 2019 med at terskelen for å utlevere informasjon fra sosialtjenesten, skolen, og helsevesenet i saker med en potensielt alvorlig, men foreløpig ubekreftet radikaliseringsbekymring fremstår som høy og til hinder for politiets oppdrag på dette området.[^1758]
+
+Forvaltningslovutvalgets rapport ble i 2021 delvis fulgt opp i en proposisjon til Stortinget om endringer i forvaltningsloven.[^1759] I proposisjonen kommer det frem at flere aktører har gitt uttrykk overfor Justis- og beredskapsdepartementet for at de opplever at taushetsplikten står i veien for informasjonsdeling i «mange tilfeller der dagens regler åpner for slik deling».[^1760] Etter departementets syn skyldes dette trolig at mange tolker reglene om taushetsplikt mer absolutt enn det er grunnlag for. Manglende forståelse av regelverket er også pekt på i tidligere offentlige utredninger.[^1761]
+
+I februar 2023 offentliggjorde Justis- og beredskapsdepartementet en ny veileder om taushetsplikt, opplysningsrett og opplysningsplikt i forvaltningen som skulle avklare regelverket.[^1762] I høringsrunden, som hadde svarfrist våren 2022, mottok departementet innspill om at veilederen også burde ta for seg spørsmål om informasjonsdeling ved radikaliseringsbekymring og forholdet mellom for eksempel kommune og PST.[^1763] Da veilederen ble offentliggjort i februar 2023, var disse spørsmålene likevel ikke berørt.
+
+I den nevnte proposisjonen støttet også departementet et stykke på vei Forvaltningslovutvalgets vurderinger av mangler med regelverket, og det foreslo å innføre en forskriftshjemmel for deling av taushetsbelagt informasjon i forvaltningsloven § 13 g.[^1764] Bestemmelsen ble innført i 2021.[^1765]
+
+### Forvaltningsloven § 13 g
+
+Forvaltningsloven § 13 g har følgende ordlyd:
+
+Kongen kan gi forskrift om at taushetsplikt etter § 13 ikke skal være til hinder for at bestemte organer kan dele opplysninger for å utføre oppgaver som er lagt til avgiver- eller mottakerorganet, så langt delingen ikke utgjør et uforholdsmessig inngrep overfor de opplysningene gjelder, og om annen behandling av opplysninger i forbindelse med delingen. Der det foreligger et etablert samarbeid mellom organer, kan forskrifter etter første punktum om nødvendig også omfatte opplysninger som etter annen lov er underlagt særlige begrensninger i adgangen til å dele opplysninger etter § 13 b første ledd.
+
+Etter § 13 g kan det altså gis forskrift om adgang til informasjonsdeling og annen behandling av taushetsbelagte opplysninger. Det foreligger foreløpig én slik forskrift, a-kriminformasjonsforskriften.[^1766] En forskrift etter § 13 g kan regulere deling av informasjon fra aktører som er omfattet av forvaltningslovens regler om taushetsplikt, og utvide adgangen til å dele informasjon av hensyn til mottakerorganet. Det kan ikke gis forskrift om delingsadgang for organer som er underlagt taushetsplikt etter andre lover, for eksempel helsepersonelloven. Mottakerorganet må imidlertid ikke være underlagt forvaltningslovens regler.
+
+Opplysninger kan bare deles for «å utføre oppgaver som er lagt til avgiver- eller mottakerorganet». Oppgavene kan følge av lov eller annet grunnlag.[^1767] Hvilke organer som skal være omfattet, må angis i forskriften.[^1768]
+
+Delingen kan bare skje så langt det ikke utgjør et «uforholdsmessig inngrep» overfor den opplysningene gjelder. Av forarbeidene følger det at hva som er forholdsmessig, må vurderes konkret, og at vilkåret ikke skal tolkes for strengt.[^1769] Forholdsmessighetskriteriet innebærer også at det må vurderes om innhenting av samtykke eller anonymisering kan ivareta behovet for informasjon. Forskriften skal angi hvilke vilkår eller momenter som skal inngå i forholdsmessighetsvurderingen.
+
+Organer som har en særlig streng taushetsplikt, for eksempel barnevern, Nav og sosialtjenesten, kan dele informasjon som er underlagt denne særlig strenge taushetsplikten bare dersom det foreligger et «etablert samarbeid mellom organer». Slike samarbeid kan bygge på praksis over noe tid eller på et formelt grunnlag som lov, forskrift eller avtale.[^1770]
+
+Da forslaget til forskriftshjemmelen i § 13 g ble sendt på høring, var forebyggingsområdet et felt som ble særlig fremhevet i høringsbrevet.[^1771] Utdraget er også gjengitt i lovens forarbeider:
+
+\[Et\] område hvor det foreligger et sterkt behov for informasjonsdeling, er innenfor forebyggingsfeltet. Det er svært viktig å fange opp ungdom og andre grupper som typisk kan være i faresonen for å utvikle rusmisbruk, bli innblandet i kriminell virksomhet eller å utvikle eller slutte seg til ekstreme miljøer eller ideer. (Justis- og beredskapsdepartementet, 2020a, s. 31)
+
+## Kommunalt ansatte som SLT-koordinator eller utekontakt
+
+Kommunene er bundet av reglene i forvaltningsloven. Dersom det oppstår en radikaliseringsbekymring i en kommune, kan det bli stilt spørsmål om informasjon kan deles internt i kommunen, for eksempel fra en SLT-koordinator til skolehelsetjenesten, eller fra en kommunalt ansatt til PST. I det følgende behandles situasjoner der man er bundet av forvaltningsloven. Taushetsplikt for ansatte i NAV, skole og barnevern behandles nedenfor.
+
+En typisk situasjon som kan oppstå, er at det reises spørsmål om en SLT-koordinator i en kommune kan dele informasjon med PST. Som beskrevet ovenfor kan det ikke uten videre legges til grunn at en kommune har som oppgave å forebygge radikalisering og voldelig ekstremisme og derfor kan dele etter forvaltningsloven § 13 b første ledd nr. 5.
+
+Kommisjonen har fått tilbakemeldinger fra personer som jobber i kommunal sektor, om at regelverket er uklart, og at det er vanskelig for den enkelte å vurdere om informasjon kan deles eller ikke. Det er blitt tatt opp med kommisjonen at selv om kommunene har en sentral plass i regjeringens handlingsplan mot radikalisering og voldelig ekstremisme, foreligger det ikke et formelt grunnlag for kommunens ansvar på dette området. I tillegg har kommisjonen fått innspill om at kommunale aktører kan føle seg presset av politiet eller PST til å dele informasjon som de ikke har hjemmel til å dele. I en forskningsartikkel fra 2023 som blant annet så på samarbeidet mellom kommuner og politi i de nordiske landene, ble det pekt på at det i Norge var særlig mange gråsoner eller uklarheter i regelverket om informasjonsdeling og taushetsplikt.[^1772]
+
+## Barnevernstjenesten
+
+Ansatte i barnevernet er underlagt de alminnelige taushetspliktsreglene i forvaltningsloven §§ 13 flg. jf. barnevernsloven § 13-1. Barnevernets taushetsplikt er likevel noe strengere fordi opplysninger om blant annet fødested og fødselsdato også er taushetsbelagt etter barnevernsloven § 13-1 andre ledd. Videre kan opplysninger kun gis til andre forvaltningsorganer «når det er nødvendig for å ivareta oppgaver etter denne loven» etter § 13-1 tredje ledd.
+
+Barnevernets formål er å «sikre at barn og unge som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp, omsorg og beskyttelse til rett tid», jf. barnevernsloven § 1-1. Om det er nødvendig å dele informasjon om noens radikalisering for å oppfylle dette formålet, må vurderes konkret. Det er sannsynlig at barnevernets taushetsplikt ikke vil være til hinder for at informasjon kan deles i saker om alvorlig bekymring for radikalisering hos barn eller voksne som er i kontakt med barnevernet, før man når en avvergesituasjon.
+
+Barnevernet har imidlertid mindre mulighet enn andre forvaltningsorganer til å dele informasjon med politiet, blant annet anmeldelse av lovbrudd, og kan bare gjøre dette dersom det anses nødvendig for å ivareta oppgaver etter barnevernsloven. Etter barnevernsloven § 13-1 tredje ledd siste punktum gjelder ikke forvaltningsloven § 13 b første ledd nr. 6, som gir anledning til blant annet å anmelde lovbrudd.[^1773]
+
+Barnevernet har etter dette en vid adgang til å formidle opplysninger dersom dette er nødvendig for å fremme barnevernets oppgaver og ansvar i den enkelte sak, men taushetsplikten til barnevernet er noe strengere enn i forvaltningsloven når det gjelder å formidle opplysninger for å ivareta andre hensyn.[^1774]
+
+I evalueringsrapporten etter 25. juni-utvalget kom det frem at barnevernet hadde viktig informasjon om gjerningspersonens radikalisering, særlig opplysninger om en påfallende endring i atferd om lag ti dager før angrepet.[^1775] I utvalgets samtaler med representanter fra barnevernet kom det frem at dersom de på dette tidspunktet hadde hatt et etablert kontaktpunkt i politiet i forbindelse med gjerningspersonenes radikalisering, ville de med høy grad av sannsynlighet varslet dette kontaktpunktet i politiet om denne påfallende atferdsendringen. Etter utvalgets vurdering er det mulig at denne muligheten til å innhente og videreformidle informasjon fra barnevernet kunne bidratt til å forhindre at angrepet fant sted.
+
+## Skolen
+
+For skolen gjelder forvaltningslovens regler om taushetsplikt, jf. opplæringsloven § 15-1. Reglene gjelder både offentlige skoler, godkjente private skoler og friskoler.[^1776]
+
+Forvaltningsloven § 13 b første ledd nr. 5 innebærer at skolen kan gi informasjon om at en person er elev ved skolen, og informasjon om eventuelle vedtak som er fattet, for eksempel om utvisning. I vurderingen av om skolen kan dele mer informasjon om en radikaliseringsbekymring etter lovens § 13 b første ledd nr. 5, kan det legges vekt på at opplæringsloven har en bred formålsparagraf i § 1-1, og at demokrati, medborgerskap og inkludering er en del av skolens oppgaver, som beskrevet i kapittel 27. Det kan derfor argumenteres for at der det foreligger en alvorlig bekymring for radikalisering av en elev, bør skolen kunne dele informasjon med for eksempel politiet/PST.[^1777] Samtidig er det viktig å ha høy bevissthet rundt relasjonen til eleven og risikoen for sikkerhetisering av skolen.
+
+## Kriminalomsorgen
+
+Ansatte i kriminalomsorgen er i utgangspunktet underlagt de alminnelige taushetspliktsreglene i forvaltningsloven §§ 13 flg., men med enkelte tillegg og begrensinger jf. straffegjennomføringsloven § 7 bokstav h og i.
+
+Forvaltningsloven § 13 b første ledd nr. 5 innebærer at kriminalomsorgen kan gi informasjon om at en person har sonet i fengsel, og eventuelle vedtak som er fattet i den forbindelse. I vurderingen av om kriminalomsorgen kan dele informasjon om en radikaliseringsbekymring etter forvaltningsloven § 13 b første ledd nr. 5, må det ses hen til lovens formålsparagraf i § 2, hvor det følger at kriminalomsorgen både skal sikre straffegjennomføring og motvirke nye straffbare handlinger og trygge samfunnet. Av rundskriv om informasjonsutveksling mellom kriminalomsorgen og politiet/påtalemyndigheten følger det at kriminalomsorgen med hjemmel i § 13 b første ledd nr. 5 blant annet kan gi politiet/påtalemyndigheten opplysninger om «hvilket fengsel og regime den innsatte/domfelte er underlagt, hvilke andre innsatte som er på samme avdeling, hvem som har kontakt med hverandre og lignende observasjoner».[^1778] Det kan videre også gis opplysninger «om og hvorfor den innsatte/dømte er underlagt særskilte kontrolltiltak, om denne er forflyttet, ilagt reaksjoner på brudd (tidligere også kalt ‘refselser’), permisjoner, hvem som er gitt besøkstillatelser og når».[^1779] Oppsummert konkluderer rundskrivet som følger: «\[v\]ed behov er unntakene fra taushetsplikten svært omfattende. I praksis settes det svært få skranker for kriminalomsorgens avgivelse av opplysninger.»[^1780]
+
+Kriminalomsorgen har dermed relativt vid adgang til å dele informasjon med politiet og påtalemyndigheten. Situasjonen vil imidlertid stille seg annerledes for kriminalomsorgens mulighet til å dele informasjon med for eksempel Nav eller en kommune som deltar i en tverrfaglig gruppe i forbindelse med løslatelse. I slike tilfeller vil kriminalomsorgen i større grad være avhengig av samtykke fra den innsatte for å kunne dele informasjon.
+
+I saker med alvorlig kriminalitet og høy risiko er det etablert et eget system for informasjonsutveksling mellom politiet og kriminalomsorgen som heter Infoflyt. Infoflyt er regulert i straffegjennomføringsloven kapittel 1 B. For at en sak skal kunne behandles i Infoflyt, må kriminalomsorgen vurdere sakens alvorlighet og risiko, jf. straffegjennomføringsloven § 4f andre ledd. Saker som gjelder norske radikaliserte som er dømt for terrorrelatert kriminalitet, vil i mange tilfeller nå terskelen. Dersom saken når terskelen for deling, kan kriminalomsorgen og politiet/PST blant annet dele informasjon om vedkommendes besøkende, telefon- eller brevkontakter, familiemedlemmer, venner, bekjente og andre som har eller søker kontakt, jf. § 4f tredje ledd.
+
+## Konfliktråd
+
+Konfliktrådene behandler saker som er overført til mekling eller til gjennomføring av ungdomsoppfølging, oppfølging i konfliktråd eller ungdomsstraff.[^1781] Det er fastsatt regler om taushetsplikt i konfliktrådsloven § 9.[^1782] I § 9 første ledd siste punktum står det at «også partenes navn, fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted» regnes som personlige forhold og dermed i utgangspunktet er underlagt taushetsplikt etter forvaltningsloven. For øvrig gjelder reglene i forvaltningsloven §§ 13 til 13 e og § 13 f «så langt de passer».
+
+Forvaltningssamarbeidet ved gjennomføringen av ungdomsoppfølging, oppfølging i konfliktråd og ungdomsstraff bygger blant annet på den siktedes[^1783] samtykke. Henvisningen til forvaltningslovens regler gjør imidlertid at det er adgang til å dele informasjon etter disse bestemmelsene.
+
+I en proposisjon med forslag til endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv som ble fremmet 29. september 2023, er det foreslått flere endringer i konfliktrådslovens regler. Blant annet foreslås det en uttrykkelig bestemmelse om at når lovbryteren («ungdommen») og dennes verge samtykker, «kan konfliktrådet, andre offentlige organer, tjenesteytere, herunder helsepersonell, og andre aktører dele personopplysninger om ungdommen».[^1784] Det er forutsatt i proposisjonen at forslaget ikke er ment å innebære noen begrensninger i andre hjemler for å dele taushetsbelagt informasjon.
+
+Konfliktrådene kan altså dele opplysninger som det er nødvendig å gi for å fremme konfliktrådenes oppgaver, og også opplysninger om lovbrudd til «påtalemyndigheten eller vedkommende kontrollmyndighet, når det finnes ønskelig av allmenne omsyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver». Konfliktrådene kan også dele opplysninger med andre så langt det er nødvendig for å unngå fare for liv eller helse.[^1785]
+
+Når konfliktrådet behandler en sak om ungdomsoppfølging, oppfølging i konfliktrådet eller ungdomsstraff, vil det uansett ligge i rollen at man kan overføre saken til påtalemyndigheten dersom det foreligger brudd på vilkår eller nye straffbare handlinger.[^1786] En ungdomskoordinator som oppdager brudd på en ungdomsplan,[^1787] vil i første omgang kalle den siktede inn til en samtale for å motvirke nye brudd.[^1788] Ungdomsplanen kan for eksempel inneholde pålegg om at den siktede ikke skal ha kontakt med bestemte personer i et kriminelt miljø, eller at den siktede skal delta i kriminalitetsforebyggende programmer. I noen tilfeller kan brudd på slike vilkår skape bekymring for at den siktede er i ferd med å radikaliseres. Etter forvaltningsloven § 13 b nr. 5 må ungdomskoordinatoren kunne orientere for eksempel politiet om at det er truffet en avgjørelse om å innkalle den siktede til en innskjerpingssamtale.
+
+Ved gjennomføring av ungdomsstraff er representanter fra kriminalomsorgen og politiet obligatoriske deltakere i det såkalte oppfølgingsteamet.[^1789] Da kan ungdomskoordinatoren drøfte oppfølgingen av den siktede direkte i teamet. I hvilken grad tjenestepersoner fra politiet eller kriminalomsorgen kan dele opplysningene videre med kolleger, avhenger av taushetspliktreglene i disse etatene.
+
+## Arbeids- og velferdsforvaltningen
+
+Nav har en statlig og en kommunal del. Nav-loven § 7 regulerer taushetsplikten for arbeids- og velferdsetaten (statlig). Taushetsplikten for kommunalt ansatte i Nav er regulert i sosialtjenesteloven § 44. Etter begge bestemmelsene gjelder i utgangspunktet reglene om taushetsplikt i forvaltningsloven, men reglene er strengere enn etter forvaltningsloven i den forstand at taushetsplikten også omfatter fødested og fødselsdato m.m., jf. Nav-loven § 7 første ledd siste punktum og sosialtjenesteloven § 44. Begge lovene begrenser også muligheten til å melde fra om lovbrudd etter forvaltningsloven § 13 b første ledd nr. 6 dersom det ikke er nødvendig for å fremme Navs oppgaver, jf. Nav-loven § 7 tredje ledd og sosialtjenesteloven § 44 tredje ledd.
+
+Forvaltningsloven § 13 b første ledd nr. 5 innebærer at Nav (både statlig og kommunalt) kan gi informasjon til andre forvaltningsorganer om at en person har mottatt ytelser eller annen hjelp/støtte, og om vedtak fattet i denne sammenheng. I vurderingen av om Arbeids- og velferdsforvaltningen kan dele mer informasjon om en radikaliseringsbekymring etter forvaltningsloven § 13 b første ledd nr. 5, må det ses hen til lovenes formålsparagrafer.
+
+Statlig del av Nav har i utgangspunktet ikke et slikt mandat. For den kommunale delen av Nav kan situasjonen stille seg noe annerledes fordi Nav kommunalt har bredere oppgaver, jf. sosialtjenesteloven §§ 1 og 12. Etter sosialtjenesteloven § 13 andre ledd skal kommunalt Nav samarbeide «med andre sektorer, forvaltningsnivåer og tjenesteytere dersom samarbeid er nødvendig for å gi en person oppfølging og et helhetlig og samordnet tjenestetilbud.» På den bakgrunn kan det argumenteres for at den kommunale delen av NAV kan dele informasjon etter en konkret vurdering i en sak om radikalisering og voldelig ekstremisme med hjemmel i forvaltningsloven § 13 b første ledd nr. 5. Regelverket er imidlertid uklart.
+
+## Tollmyndighetene
+
+Hovedregelen om tollmyndighetenes taushetsplikt følger av vareførselsloven § 7-10.
+
+Etter vareførselsloven § 7-10 fjerde ledd gjelder ikke forvaltningsloven §§ 13, 13 b, 13 c og 13 e som utfyllende bestemmelser for taushetsplikten etter denne bestemmelsen. Det må da trolig legges til grunn at § 13 g heller ikke gjelder. Derimot gjelder forvaltningsloven § 13 a om begrensninger i taushetsplikten når det ikke er behov for beskyttelse.[^1790]
+
+For tollmyndighetene er det fastsatt i § 7-11 første ledd at taushetsplikten ikke er til hinder for at opplysninger «utleveres til andre offentlige myndigheter dersom det er nødvendig for å utføre mottakerorganets oppgaver etter lov eller for å hindre at virksomhet blir utøvd på en uforsvarlig måte». Nærmere regler er gitt i vareførselsforskriften § 7-11 første ledd.[^1791] Det er uttrykkelig fastsatt at opplysninger alltid kan gis til politiet og påtalemyndigheten «dersom det er grunn til å undersøke om noen forbereder, begår eller har begått en handling som kan medføre høyere straff enn fengsel i seks måneder».
+
+I 22. juli-kommisjonens rapport er det omtalt at Tolletaten 3. desember 2010 oversendte informasjon til PST om at Breivik var en av 41 personer som hadde kjøpt kjemikalier fra et firma i Polen som også hadde solgt stoff som kan brukes til å fremstille sprengstoff.[^1792] Breiviks kjøp var på i overkant av 100 kroner og det laveste av transaksjonene. Informasjonen ble ikke fulgt opp. Selv om beløpet var lavt, mente kommisjonen at tipset sammenholdt med annen informasjon som PST hadde, burde blitt prioritet. Kommisjonen fant at PSTs håndtering var kritikkverdig. Etter 22. juli-kommisjonens syn kunne en oppfølging avdekket at Breivik også hadde gjort innkjøp av blant annet visir og skuddsikker vest, og våpenkortet hans kunne vært undersøkt. Dette ville «krevd betydelig pågåenhet, og i noen grad utfordret Tolldirektoratets taushetsbestemmelser».[^1793]
+
+Ny vareførselslov og -forskrift trådte i kraft 1. januar 2023. Dagens regler for informasjonsdeling er videre enn tidligere og ville så vidt denne kommisjonen forstår, ikke gitt problemer i samarbeidet mellom PST og tollmyndighetene i dag.
+
+## Etterretningstjenesten
+
+Av etterretningstjenesteloven § 10-1 første ledd følger det at E-tjenesten skal samarbeide med andre norske myndigheter om «grenseoverskridende trusler, forsvar mot og håndtering av alvorlige hendelser i det digitale rom samt andre prioriterte saksområder». I §§ 10-2 og 10-4 er det angitt hvilke vilkår som gjelder for at tjenesten skal kunne dele informasjon og overskuddsinformasjon med andre norske myndigheter. Overskuddsinformasjon er informasjon som ikke er interessant til etterretningsformål, jf. § 1-3 bokstav g. Etter § 10-2 første ledd bokstav a kan informasjon deles for å «fremme mottakerens oppgaver» forutsatt at de de andre vilkårene i bestemmelsen er oppfylt. Der en person i utlandet, enten hen er norsk eller har en annen nasjonalitet, utgjør en fare for Norge, kan E-tjenesten etter dette dele informasjon med PST.
+
+I 25. juni-saken ble det delt informasjon fra E-tjenesten til PST. Som omtalt i kapittel 34.6 er det foreslått forbedringer i samarbeidet og informasjonsdelingen mellom PST og E-tjenesten.
+
+Overskuddsinformasjon som er innhentet med tilrettelagt innhenting, altså elektronisk kommunikasjon som transporteres over den norske grensen som omtalt i kapittel 34.15, kan kun utleveres dersom det er nødvendig for å forhindre alvorlig fare for noens liv, helse eller frihet, eller det er nødvendig for å forhindre at noen blir uriktig tiltalt eller domfelt for en straffbar handling jf. § 7-13.
+
+Etter § 10-1 skal E-tjenesten også «etablere og opprettholde etterretningssamarbeid med andre land, forsvarsallianser som Norge deltar i, og andre internasjonale organisasjoner». Etter § 10-3 kan informasjon utleveres internasjonalt dersom vilkårene i § 10-2 er oppfylt, det er under nasjonal kontroll og det er i Norges interesse. Det må også settes vilkår etter § 10-3 første ledd bokstav b.
+
+## Utlendingsforvaltningen
+
+Forvaltningslovens regler om taushetsplikt gjelder for utlendingsforvaltningen, jf utlendingsloven § 80. Utlendingsmyndighetene har etter § 84 a plikt til å dele informasjon med politiet for at politiet skal kunne gjøre sine oppgaver etter utlendingsloven eller grenseloven kapittel 3 om grensepassering og inn- og utreisekontroll. Utlendingsmyndighetene kan også dele informasjon med politiet som er nødvendig for politimessige formål, inkludert forebygging av kriminalitet jf. § 84 a andre og tredje ledd. Disse hjemlene vil kunne brukes i saker som gjelder forebygging av ekstremistisk vold.
+
+Organer som behandler saker etter utlendingsloven kan pålegge flere ulike aktører, inkludert politiet, barnevernet, kommunene, arbeids- og velferdsforvaltningen å dele opplysninger om utlendinger dersom der er nødvendig for opplysning av saken, jf. utlendingsloven § 84. Etter § 84 b skal også ansatte på mottak dele informasjon med utlendingsmyndighetene, med mindre det er snakk om enslige, mindreårige asylsøkere jf. andre ledd. Politiet skal imidlertid få utlevert nærmere bestemmende opplysninger om enslige mindreårige asylsøkere, inkludert navn, fødselsdato og nasjonalitet jf. § 84 b andre ledd.
+
+## Sivilsamfunnet
+
+Generelt er ikke ansatte i frivillige organisasjoner bundet av en lovfestet taushetsplikt. Etter omstendighetene kan det gjelde en avtalefestet taushetsplikt. Når frivillige organisasjoner tar på seg oppdrag for forvaltningen, kan taushetsplikten følge av forvaltningsloven §§ 13 mv.
+
+Den som utfører oppgaver for tros- og livssynssamfunn, er ikke omfattet av en generell regel om taushetsplikt.[^1794] I straffeloven § 211 står det at «prester eller forstandere i registrerte trossamfunn, \[…\] meklingsmenn i ekteskapssaker, og disses hjelpere» har taushetsplikt om «hemmeligheter som er betrodd dem eller deres foresatte i anledning av stillingen eller oppdraget». Denne taushetsplikten er en sterk taushetsplikt, der unntaksreglene i forvaltningsloven ikke gjelder.[^1795] Det vil være vanskelig for en prest, forstander eller hjelper å delta i et kriminalitetsforebyggende samarbeid uten samtykke fra den som har krav på taushet.
+
+Del VI
+
+Oppgjør, minne og læring

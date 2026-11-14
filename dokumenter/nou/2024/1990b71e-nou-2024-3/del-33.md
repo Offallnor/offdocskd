@@ -1,944 +1,272 @@
-# NOU 2024: 3, del 33 av 40 (side 417–427)
+# NOU 2024: 3, del 33 av 47
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/1990b71e-nou-2024-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-3/id3027182/
 - Original-PDF: https://www.regjeringen.no/contentassets/b09f8768c15d4d4f9ac8acfab0bf05e3/no/pdfs/nou202420240003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 tabeller, 20 figurer, 66 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 417]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Attacks in Sri Lanka. CTC Sentinel, 12(5), 1-10.
-https://ctc.westpoint.edu/wp-content/uploads/2019/05/CTC-SENTINEL-052019.pdf
-Analyse & Tall. (2023). Negative holdninger og stereotypier om samer på Facebook. Ogtal. https:/
-/www.ogtal.dk/assets/files/2023-09-14_Negative-holdninger-og-stereotypier-om-samer-paaFacebook_final.pdf
-Andersson, M. (2022). Rase: Et omdiskutert begrep i bevegelse. I C. A. Døving (Red.), Rasisme: Fenomenet, forskningen, erfaringene.
-Universitetsforlaget.
-Andvig, E. & Karlsson, B. (2021). Samordnede
-velferdstjenester til personer etter soning –
-glippsoner og broer. Tidsskrift for velferdsforskning, 24(3), 1-14. https://doi.org/10.18261/
-issn.2464-3076-2021-03-01
-Anker, T., Hovde, O. B., Døving, A., Førland, S. E.,
-Korbøl, K., Korsvoll, N. H., Kvamme, O. A.,
-Lenz, C., von der Lippe, M., Nustad, P., Jørgensen, C. S., Heldal, J. S., Sæther, E. & Eriksen,
-E.-A. V. (2018). Overstyring av 22. juli-senterets formidlingsvirksomhet. VG. https://
-www.vg.no/nyheter/meninger/i/Xw06dm/
-overstyring-av-22-juli-senterets-formidlingsvirksomhet
-Anker, T. & von der Lippe, M. (2015). Når terror
-ties i hjel – En diskusjon om 22. juli og demokratisk medborgerskap i skolen. Norsk pedagogisk tidskrift, 99(2), 85-96. https://www.idunn.no/doi/10.18261/ISSN1504-2987-2015-0203
-Anker, T. & von der Lippe, M. (2016). Tid for terror: Læreres håndtering av kontroversielle
-spørsmål i skolens religions- og livssynsundervisning. Prismet, 67(4), 261-272. https://journals.uio.no/prismet/article/view/4478/3931
-AP. (2024a, 13.02.2024). Germany’s top security official wants easier ways to track right-wing
-extremist financing. AP. https://apnews.com/
-article/germany-far-right-extremism-disinformation-security-ff0defca86f4507510c54ab6c4e8eae4
-AP. (2024b, 27.01.2024). Live updates | UN court
-keeps genocide case against Israel alive as
-Gaza death toll surpasses 26,000. AP. https://
-apnews.com/article/israel-hamas-war-live-updates-1-26-2024-49a168140cbca3778095e8fb437aba37
-APA/BVZ. (2021, 11.10.2021). Anschlag auf
-Asylunterkunft nach elf Jahren geklärt. BVZ.
-https://m.bvz.at/in-ausland/graz-anschlagauf-asylunterkunft-nach-elf-jahren-geklaertoesterreich-asyl-ermittlung-explosion295197319
-
-415
-
-Referanseliste
-
-Arbeids- og inkluderingsdepartementet. (2021).
-Frihet fra negativ sosial kontroll og æresrelatert
-vold (2021–2024).
-regjeringen. https://
-www.regjeringen.no/no/dokumenter/frihetfra-negativ-sosial-kontroll-og-aresrelatert-vold/
-id2861094/
-Arbeids- og inkluderingsdepartementet. (2023a).
-Handlingsplan mot rasisme og diskriminering –
-ny innsats 2024–2027. regjeringen. https://
-www.regjeringen.no/contentassets/
-8da2b05800224771a3548ba4007817e4/no/
-pdfs/handlingsplan-mot-rasisme-og-diskriminering.pdf
-Arbeids- og inkluderingsdepartementet. (2023b).
-Trepartssamarbeid på arbeidslivsområdet. Regjeringen. https://www.regjeringen.no/no/
-tema/arbeidsliv/arbeidsmiljo-og-sikkerhet/
-innsikt/trepartssamarbeid/id2396817/
-Arendt, H. (1976). The Origins of Totalitarianism.
-Harcourt.
-Argentino, M.-A., Amarasingam, A. & Conley, E.
-(2022). “One Struggle”: Examining Narrative
-Syncretism between Accelerationists and SalafiJihadists. The International Centre for the
-Study of Radicalisation. https://icsr.info/wpcontent/uploads/2022/01/ICSR-Report-OneStruggle-Examining-Narrative-Syncretism-between-Accelerationists-and-Salafi%E2%80%91Jihadists.pdf
-Arkivet. (u.å.). Innvandringsmotstand og antirasisme på Agder. Arkivet.no. https://arkivet.no/
-forskning/forskningsprosjekter/innvandringsmotstand-og-antirasisme-paa-agder
-Arnesen, D., Enjolras, B., Fladmoe, A. T., Hansen,
-V. W. & Sivesind, K. H. (2023). Frivillighet før
-og etter pandemiens tid. Koronapandemiens betydning for frivillig innsats og lokale og nasjonale frivillige organisasjoner (2023:7). samfunnsforskning.
-https://samfunnsforskning.brage.unit.no/samfunnsforskning-xmlui/handle/11250/3108661
-Arntsen, E. O. (2016). Fremmedkrigerne: fra en
-norsk småby til Den islamske stat. Kagge Forlag.
-Ashour, O. (2009). The De-Radicalization of Jihadists. Routledge.
-Aukrust, Ø. (2023, 21.04.2023). Senter for ekstremismeforskning kan bli nedlagt uten friske
-penger.
-UNIForum.
-https://www.uniforum.uio.no/nyheter/2023/04/senter-for-ekstremismeforskning.html
-Avelin, A. L. (2019, 09.01.2019). Forventer motstand.
-Museum.
-https://tidsskriftetmuseum.no/forvent-motstand/
-
-[Side 418]
-
-416
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Bader, M. (2018). Disinformation in Elections. Security and Human Rights, 29(1-4), 24-35.
-https://doi.org/https://doi.org/10.1163/
-18750230-02901006
-Bangstad, S. (Red.). (2020). Report on Islamophobia or anti-Muslim hatred submitted to the UN
-Special Rapporteur on Freedom of Religion or
-Belief, Dr Ahmed Shaheed, Nov 30 2020.
-ohchr. https://www.ohchr.org/sites/default/
-files/Documents/Issues/Religion/Islamophobia-AntiMuslim/Civil%20Society%20or%20Individuals/SindreBangstad.pdf.
-Bangstad, S. (2022). De andres kultur og religion.
-I C. A. Døving (Red.), Rasisme: Fenomenet,
-forskningen, erfaringene (s. 219-233). Universitetsforlaget.
-Bangstad, S. & Døving, C. A. (2023). Hva er rasisme. Universitetsforlaget.
-Bangstad, S. & Helland, F. (2018). Serving the Norwegian nation with Islamophobia: Analysing the
-rhetoric about Islam and Muslims of Hege Storhaug and Human Right’s Service. Uio. https://
-www.duo.uio.no/bitstream/handle/10852/
-76045/The+rhetoric+of+Islamophobia.pdf?sequence=1
-Bangstad, S. & Linge, M. (2022). Qur’an burning
-in Norway: stop the Islamisation of Norway
-(SIAN) and far-right capture of free speech in
-a Scandinavian context. Ethnic and Racial Studies,
-1-22.
-https://doi.org/10.1080/
-01419870.2023.2268168
-Bar-On, T. (2011). Transnationalism and the
-French Nouvelle Droite. Patterns of Prejudice,
-45(3). https://www.tandfonline.com/doi/abs/
-10.1080/0031322X.2011.585013
-Barne- og familiedepartementet. (2017). Norges
-23./24. rapport til komiteen som overvåker FNs
-konvensjon om avskaffelse av alle former for rasediskriminering.
-Regjeringen. https://
-www.regjeringen.no/no/dokumenter/norges23.24.-rapport-til-fns-rasediskrimineringskomite/id2571158/
-Barneog
-familiedepartementet.
-(2023a,
-15.03.2023). 160 millionar til aktivitetar for
-barn og unge. Regjeringen. https://www.regjeringen.no/no/aktuelt/160-millionar-til-aktivitetar-for-barn-og-unge/id2966614/
-Barne- og familiedepartementet. (2023b). Ansvarsfordelinga i barnevernet. Regjeringen.
-https://www.regjeringen.no/no/tema/familie-og-barn/barnevern/ansvarsfordelinga-ibarnevernet1/id2353984/
-Barne- og familiedepartementet. (2023c). Høring
-– endringer i trossamfunnsloven. Regjeringen.
-https://www.regjeringen.no/no/dokumen-
-
-ter/horing-endringer-i-trossamfunnsloven/
-id2989476/
-Barneog
-familiedepartementet.
-(2023d,
-27.02.2023). Tilskudd til dialog, debatt, samarbeid og kunnskapsutvikling på tros- og livssynsfeltet. Regjeringen. https://www.regjeringen.no/no/aktuelt/tilskudd-til-dialog-debattsamarbeid-og-kunnskapsutvikling-pa-tros-oglivssynsfeltet/id2964156/
-Barne- og familiedepartementet. (u.å.). Fordelingsutvalget for tilskudd til frivillige barne- og
-ungdomsorganisasjoner. Regjeringen. https://
-www.regjeringen.no/no/dep/bfd/org/styrerrad-og-utvalg/permanente-utvalg/fordelingsutvalget-for-tilskudd-til-friv/id418036/
-Barne- og likestillingsdepartementet. (2018). Et
-samfunn for alle: Regjeringens strategi for likestilling av mennesker med funksjonsnedsettelse
-for perioden 2020–2030. regjeringen. https://
-www.regjeringen.no/contentassets/
-bc8396c163f148dc8d4dc8707482e2be/et-samfunn-for-alle---regjeringens-strategi-for-likestilling-av-mennesker-med-funksjonsnedsettelsefor-perioden-2020203.pdf
-Barrett, R. (2014). The Islamic State. The Soufan
-Group.
-Barrett, R. (2017). Beyond the Caliphate. The Soufan Centre.
-Basit, S. H. (2018). Konspirasjonsteorier og radikaliseringsprosesser. I E. Reiss & L. Noor
-(Red.), Radikalisering: fenomen og forebygging.
-Minotenk Frekk.
-Basra, R., Neumann, P. R. & Brunner, C. (2016).
-Criminal Pasts, Terrorist Futures: European Jihadists and the New Crime-Terror Nexus. icsr.
-https://icsr.info/wp-content/uploads/2016/
-10/ICSR-Report-Criminal-Pasts-TerroristFutures-European-Jihadists-and-the-NewCrime-Terror-Nexus.pdf
-Bawer, B. (2012). The New Quislings. HarperCollins Publishers.
-BBC. (2012, 22.03.2012). Mohamed Merah: Who
-was Toulouse gunman?. BBC News. https://
-www.bbc.com/news/world-europe-17456541
-BBC. (2015, 11.02.2015). Sharia4Belgium trial:
-Belgian court jails members. BBC News.
-https://www.bbc.com/news/world-europe31378724
-BBC. (2018, 26.04.2018). Elliot Rodger: How
-misogynist killer became ‘incel hero’. BBC
-News. https://www.bbc.com/news/world-uscanada-43892189
-BBC. (2021, 03.03.2021). Toronto van attack: Minassian guilty of killing 10 people. BBC News.
-https://www.bbc.com/news/uk-56269095
-
-[Side 419]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-BBC. (2023, 30.03.2023). Right-wing Haworth
-teenager idolised convicted terrorists. BBC
-News.
-https://www.bbc.com/news/uk-england-leeds-65069082
-Beam,
-L.
-(1983).
-Leaderless
-resistance.
-Umich.edu.
-https://public.websites.umich.edu/~satran/Ford%2006/Wk%2021%20Terrorism%20Networks%20leaderless-resistance.pdf
-Beauchamp, Z. (2019, 18.11.2019). Accelerationism: the obscure idea inspiring white supremacist killers around the world. Vox. https://
-www.vox.com/the-highlight/2019/11/11/
-20882005/accelerationism-white-supremacychristchurch
-Belouezzane, S. (2023, 17.02.2023). Macron
-struggles to find a representative for Islam in
-France. Le Monde. https://www.lemonde.fr/
-en/france/article/2023/02/17/macronstruggles-to-find-a-representative-for-islam-infrance_6016247_7.html
-Benjamin, D. & Simon, S. (2017, 21.03.2017). Why
-Steve Bannon Wants You to Believe in the
-Deep State. Politico magazine. https://
-www.politico.com/magazine/story/2017/03/
-steve-bannon-deep-state-214935/
-Benjaminprisen. (u.å.). Forside. Benjaminprisen.no. https://benjaminprisen.no/
-Benjaminsen, H., Njie, R. A. & Hamre, M. (2022,
-29.10.2022). Nazister marsjerte over barnas
-tegninger: – Skandaløst. NRK. https://
-www.nrk.no/norge/nazister-marsjerte-overbarnas-tegninger_-_-skandalost-1.16157933
-Bennett, W. L., Wells, C. & Freelon, D. (2011).
-Communicating Civic Engagement: Contrasting Models of Citizenship in the Youth Web
-Sphere. Journal of Communication, 61(5), 835856. https://doi.org/https://doi.org/10.1111/
-j.1460-2466.2011.01588.x
-Beredskapsrådet. (u.å.). Forslag til tiltak for forebygging av radikalisering og voldelig ekstremisme i universitets- og høyskolesektoren. Uis.
-https://www.uis.no/sites/default/files/inlineimages/sWBMKjJGyIRbgKawg7TooFToi44iZwj6PlrYk9lP14eWwQHkno.pdf
-Berg, O. T. & Schou, A. (2022). Anarkisme. I Store
-norske leksikon. https://snl.no/anarkisme
-Berge, O. K., Haugsevje, Å. D. & Løkka, N.
-(2019). Kulturell berikelse – politisk besvær:
-Gjennomgang av politikken overfor nasjonale
-minoriteter 2000–2019 (TF-rapport nr. 490).
-Telemarksforsking. https://kudos.dfo.no/documents/12995/files/13135.pdf
-
-417
-
-Referanseliste
-
-Bergen kommune. (2024, 12.01.2024). Oppsøkende
-sosialt arbeid. Bergen.kommune. https://
-www.bergen.kommune.no/innbyggerhjelpen/
-helse-og-omsorg/barnevern-og-foreldrestotte/stotte-til-familier-og-ungdom/oppsokende-sosialt-arbeid
-Berger, J. M. (2016). The Turner Legacy: The Storied Origins and Enduring Impact of White Nationalism’s Deadly Bible.
-Icct. https://
-www.icct.nl/sites/default/files/import/publication/ICCT-Berger-The-Turner-Legacy-September2016-2.pdf
-Bergesen, M. (2022, 01.09.2022). Fremtidens
-svindlere kan bruke deepfake. Bør vi bekymre
-oss? Online. https://www.online.no/sikkerhet/hva-er-deepfake-og-er-det-farlig/
-Berntzen, L. E. (2011). Den eksistensielle trusselen,
-en sosiologisk studie av politisk motstand mot islam, muslimsk kultur og innvandring til Norge.
-https://bora.uib.no/bora-xmlui/handle/
-1956/4905
-Berntzen, L. E. (2018). Ytre høyre: ideologier,
-grupper, vold og rekruttering. I E. Reiss & L.
-Noor (Red.), Radikalisering: fenomen og forebygging. Frekk forlag.
-Berntzen, L. E. (2020). Liberal Roots of Far Right
-Activism: The Anti-Islamic Movement in the
-21st Century. Routledge.
-Berntzen, L. E. & Tøllefsen, T. O. (2021). Pegida. I
-Store norske leksikon. https://snl.no/Pegida
-Berntzen, L. E. N. & Ravndal, J. A. (2021). Monster or Hero? Far-right Responses to Anders
-Behring Breivik and the July 22, 2011 Terrorist Attacks. Perspectives on terrorism. https://
-www.jstor.org/stable/27030881
-Bertossi, C. (2020). How the french understand immigrant integration and citizenship.
-Europa.eu.
-https://migrant-integration.ec.europa.eu/sites/default/files/2021-02/bertossi_immigrant_integration_2020.pdf
-Beutel, A. & Perez, K. (2016). From WWI to ISIS,
-Using Shame and Masculinity in Recruitment
-Narratives. Start. https://www.start.umd.edu/
-news/wwi-isis-using-shame-and-masculinityrecruitment-narratives
-Beutel, A. J. & Johnson, D. (2021). The Three Percenters: A Look Inside an Anti-Government Militia. Newlines Institute for Strategy and Policy.
-https://newlinesinstitute.org/wp-content/uploads/20210225-Three-Percenter-PRNISAP-rev051021.pdf
-BI. (u.å.-a). Sikkerhetsledelse og konflikthåndtering. Bi.no. https://www.bi.no/studier-ogkurs/kurs/masterprogram-sikkerhet/Sikkerhetsledelse-og-konflikthandtering/
-
-[Side 420]
-
-418
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-?gclid=EAIaIQobChMIsrO2vdzPgQMVUAuiAx1YuQayEAAYASAAEgIVUfD_BwE&gclsrc=aw.ds#forkunnskaper_197481
-BI. (u.å.-b). Terrorisme og terrorbekjempelse. Bi.no.
-https://www.bi.no/studier-og-kurs/kurs/masterprogram-sikkerhet/terrorisme-og-terrorbekjempelse/
-Bitsch, A. (2021). Brorskapet: en historie om drapet
-pa Benjamin Hermansen. Gyldendal.
-Bitsch, A. (2022a). Den norske skyld: en beretning
-fra rettsaken mot Philip Manshaus. Res publica.
-Bitsch, A. (2022b, 08.09.2022). Digitalt kvinnehat i
-vekst. Kilden. https://kjonnsforskning.no/nb/
-2022/09/digitalt-kvinnehat-i-vekst
-Bjelland, H. F. & Bjørgo, T. (2014). Trusler og trusselhendelser mot politikere: En spørreundersøkelse blant norske stortingsrepresentanter og
-regjeringsmedlemmer. Politihøgskolen. http://
-hdl.handle.net/11250/226703
-Bjørgo, T. (1997). Racist and Right-Wing Violence
-in Scandinavia: Patterns, Perpetrators, and Responses. Tano Aschehoug.
-Bjørgo, T. (Red.). (2011). Forbygging av terrorisme
-og annen kriminalitet. Politihøgskolen. https:/
-/phs.brage.unit.no/phs-xmlui/bitstream/
-handle/11250/175076/forebygging%20av%20terrorisme.pdf?sequense=1&isAllowed=y.
-Bjørgo, T. (2015). Veier inn i voldelig ekstremisme
-– og ut igjen. Regjeringen. https://files.nettsteder.regjeringen.no/wpuploads01/
-blogs.dir/251/files/2019/05/Veier-inn-i-voldelig-ekstremisme-%E2%80%93-og-ut-igjen.pdf
-Bjørgo, T. (2018a). Introduksjon til rapporten. I T.
-Bjørgo (Red.), Høyreekstremisme i Norge :
-Utviklingstrekk, konspirasjonsteorier og forebyggingsstrategier.
-Politihøgskolen.
-https://
-phs.brage.unit.no/phs-xmlui/bitstream/
-handle/11250/2568904/hoyreekstremisme.pdf?sequence=1&isAllowed=y
-Bjørgo, T. (Red.). (2018b). Høyreekstremisme i
-Norge: Utviklingstrekk, konspirasjonsteorier og
-forebyggingsstrategier. Politihøgskolen. https:/
-/phs.brage.unit.no/phs-xmlui/bitstream/
-handle/11250/2568904/hoyreekstremisme.pdf?sequence=1&isAllowed=y
-Bjørgo, T. & Braddock, K. (2022). Anti-Government Extremism: A New Threat? Perspectives
-on Terrorism, 16(6), s. 2-8. https://www.universiteitleiden.nl/binaries/content/assets/
-customsites/perspectives-on-terrorism/2022/
-issue-6/pot-xvi-6-a1-intro-aangepast.pdf
-Bjørgo, T. & Carlsson, Y. (1999). Vold, rasisme og
-ungdomsgjenger: forebygging og bekjempelse.
-Tano Aschehoug.
-
-Bjørgo, T. & Gjelsvik, I. M. (2015). Forskning på
-forebygging av radikalisering og voldelig ekstremisme: En kunnskapsstatus. (2015: 2). Politihøgskolen. https://phs.brage.unit.no/phs-xmlui/bitstream/handle/11250/284584/
-forskning_paa_forebygging.pdf?sequence=4&isAllowed=y
-Bjørgo, T. & Gjelsvik, I. M. (2018). Utvikling og utbredelse av høyreekstremisme i Norge. I T.
-Bjørgo (Red.), Høyreekstremisme i Norge :
-Utviklingstrekk, konspirasjonsteorier og forebyggingsstrategier.
-Politihøgskolen.
-https://
-phs.brage.unit.no/phs-xmlui/bitstream/
-handle/11250/2568904/hoyreekstremisme.pdf?sequence=1&isAllowed=y
-Bjørgo, T. & Gjelsvik, I. M. (2020). Sheep in Wolf’s
-Clothing? The Taming of the Soldiers of Odin
-in Norway. I T. Bjørgo & M. Mareš (Red.), Vigilantism against Migrants and Minorities.
-Routledge.
-Bjørgo, T. & Horgan, J. G. (Red.). (2009). Leaving
-Terrorism Behind: Individual and Collective
-Disengagement. Routledge.
-Bjørgo, T., Jupskås, A. R., Thomassen, G. &
-Strype, J. (2022). Patterns and Consequences
-of Threats Towards Politicians: Results from
-Surveys of National and Local Politicians in
-Norway. Perspectives on Terrorism, 16(6), 110119.
-https://www.duo.uio.no/bitstream/
-handle/10852/101107/Patterns%2Band%2Bconsequences%2Bof%2Bthreats%2Btowards%2Bpoliticians.pdf?sequence=1&isAllowed=y
-Bjørgo, T. & Ravndal, J. A. (2018, 07.07.2018).
-What is the problem with the Nordic Resistance
-Movement?. uio. https://www.sv.uio.no/c-rex/
-english/news-and-events/right-now/2018/
-the-nordic-resistance-movement.html
-Bjørgo, T. & Ravndal, J. A. (2019). Extreme-Right
-Violence and Terrorism: Concepts, Patterns,
-and Responses. icct. https://www.icct.nl/sites/
-default/files/import/publication/ExtremeRight-Violence-and-Terrorism-Concepts-Patterns-and-Responses-4.pdf
-Bjørgo, T. & Silkoset, E. (2017). Trusler og trusselhendelser: En spørreundersøkelse blant stortingsrepresentanter og regjeringsmedlemmer.
-Politihøgskolen. http://hdl.handle.net/11250/
-226703
-Bjørgo, T., Solhjell, R., Lindekile, L. & Sovenbring,
-J. (2023). The Same, But Different: Policies,
-Perceptions and Practices of Multiagency PVE
-work in Norway, Sweden, Denmark and Finland.
-uio.
-https://www.sv.uio.no/c-rex/
-
-[Side 421]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-english/news-and-events/right-now/2023/
-same-but-different.html
-Bjørgo, T., Thomassen, G. & Strype, J. (2021).
-Trakassering og trusler mot politikere: En spørreundersøkelse blant medlemmer av Stortinget,
-regjeringen og sentralstyrene i partiene og ungdomspartiene.
-Politihøgskolen.
-https://
-hdl.handle.net/11250/2976766
-Bjørkelo, K. A. (2021). Ragebait. I Store norske leksikon. https://snl.no/ragebait
-Blanc, T. & Roy, O. (Red.). (2021). Salafism: Challenged by radicalization?: Violence, politics, and
-the advent of post-salafism. Publications Office
-of the European Union. https://data.europa.eu/doi/10.2870/309942.
-Bloom, M. & Moskalenko, S. (2021). Pastels and
-Pedophiles: Inside the Mind of Qanon. Stanford
-University Press. http://ebookcentral.proquest.com/lib/ngsso/detail.action?docID=6611974
-Bloom, M. M. (2022). The First incel? The legacy
-of Marc Lépine. The Journal of Intelligence,
-Conflict, and Warfare, 5(1), 39-74. https://
-journals.lib.sfu.ca/index.php/jicw/article/
-view/4214
-Bodø kommune. (2021). Mandat og grunnsyn: bli
-sett, hørt og respektert.
-Bodø.kommune.
-https://bodo.kommune.no/getfile.php/
-1349713-1632119285/Helse%20og%20velferd/
-Utekontakten/Utekontaktens%20mandat%20og%20grunnsyn%202021.pdf
-Boese, V. A., Edgell, A. B., Hellmeier, S., Maerz, S.
-F. & Lindberg, S. I. (2021). How democracies
-prevail: democratic resilience as a two-stage
-process. Democratization, 28(5), 885-907.
-https://doi.org/10.1080/
-13510347.2021.1891413
-Bonilla-Silva, E. (2022). Racism without racists: Color-Blind Racism and the Persistence of Racial
-Inequality in America. Rowman & Littlefield.
-Borchgrevink, A. S. (2012). En norsk tragedie: Anders Behring Breivik og veien til Utøya. Gyldendal.
-Borg, E., Christensen, H., Fossestøl, K. & Pålshaugen, Ø. (2015). Hva læreren ikke kan!: et
-kunnskapsgrunnlag for satsning på bruk av flerfaglig kompetanse i skolen (6/2015). oslomet.
-https://oda.oslomet.no/oda-xmlui/bitstream/
-handle/20.500.12199/6261/r2015-6.pdf?sequence=1&isAllowed=y
-Borg, E., Drange, I., Fossestøl, K. & Jarning, H.
-(2014). Et lag rundt læreren: en kunnskapsoversikt (8/2014).
-oslomet. https://oda.oslomet.no/oda-xmlui/bitstream/handle/
-20.500.12199/6234/r2014-
-
-419
-
-Referanseliste
-
-8_Et%20lag%20rundt%20l%C3%A6reren.pdf?sequence=1&isAllowed=y
-Borum, R. (2015). Assessing Risk for Terrorism
-Involvement. Journal of Threat Assessment
-and Management, 2(2), 63-87. https://
-www.apa.org/pubs/journals/features/tamtam0000043.pdf
-Brabant, M. (2015, 30.09.2015). Cartoons controversy 10 years on. Deutche Welle. https://
-www.dw.com/en/free-speech-at-issue-10years-after-muhammad-cartoons-controversy/
-a-18747856
-Brady, K., Faiola, A., Rauhala, E., Adam, K. &
-Ríos, B. (2023, 26.10.2023). European bans on
-pro-Palestinian protests prompt claims of bias.
-The Washington Post. https://www.washingtonpost.com/world/2023/10/26/palestine-protest-ban-france-germany/
-Brandal, N. & Thorsen, D. E. (2021). Valg eller
-nødvendighet? Voldens rolle i venstreekstreme bevegelser og partier. I Ø. Sørensen,
-B. Hagtvet & N. Brandal (Red.), Politisk vold
-(s. 177-208). Dreyer.
-Brandtzæg, B. A., Magnussen, E., Vike, H., Heian,
-M. T., Kvernenes, M. S., Jupskås, A. R. &
-Ruud, S. S. (2022). Lokaldemokrati og lokalpolitikeres arbeidsvilkår: Rekruttering, motivasjon
-og deltakelse i lokalpolitisk arbeid. Regjeringen.
-https://www.regjeringen.no/contentassets/
-a1de937bf67a44dda49f1f95ab9a0c92/sluttrapport_lokaldemokrati_tf.pdf
-Brandtzæg, P. B. (2019). Det algoritmiske selvet:
-identitet blant unge og barn på internett – før,
-nå og i fremtiden. I B. Bratvold (Red.), Barn i
-norge 2019: identitet. vfb. https://vfb.no/content/uploads/2020/04/WEB_BiNrapporten2019.pdf
-Brekke, A., Zondag, M. H. W. & Døvik, O. (2021,
-01.03.2021). Terrortiltalt IS-kvinne: – Jeg var
-så forelsket. NRK. https://www.nrk.no/
-norge/is-kvinnen_-_-jeg-tenkte-ikke-klart-paden-tiden-1.15396110
-Brekke, J.-P., Beyer, A. & Enjolras, B. (2019). Antisemittisme på nett og i sosiale medier i Norge:
-Kjennetegn, avsendere og motvirkning. Samfunnsforskning.
-https://samfunnsforskning.brage.unit.no/samfunnsforskning-xmlui/handle/11250/2589085
-Brekke, T. (2019). Christianity Betrayed: Conspiracy Theory about a Leftist-Muslim Plot
-against Christianity in Norway. Journal of Religion and Society, 21. https://www.duo.uio.no/
-bitstream/handle/10852/73902/2/Christianity%2Bbetrayed_Conspiracy%2Btheory%2Babout%2Ba%2Bleftist-Mus-
-
-[Side 422]
-
-420
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-lim%2Bplot%2Bagainst%2Bchristianity%2Bin%2Bnorway_Torkel%2Bbrekke%2Bmarch%2B2019.pdf
-Brekke, T. (2020, 14.08.2020). Kritisk raseteori er
-et kolonialistisk prosjekt. Morgenbladet.
-https://www.morgenbladet.no/ideer/essay/
-2020/08/14/kritisk-raseteori-er-et-kolonialistisk-prosjekt/?_cb=EulhEUkAq1CKIKfhnBmy
-Brekke, T. (2021). Strukturell rasisme og andre
-alt-i-ett-begreper. Tidsskrift for samfunnsforskning, 62(1), 94-98. https://www.idunn.no/
-doi/10.18261/issn.1504-291X-2021-01-07
-Brekke, A. A. T. & Farestvedt, I. B. (2023,
-26.01.2023). Paludan: − Jeg skal brenne en
-koran hver fredag til Sverige slippes inn i
-Nato. VG. https://www.vg.no/nyheter/utenriks/i/vew68m/paludan-jeg-skal-brenne-enkoran-hver-fredag-til-sverige-slippes-inn-i-nato
-Brekke, A. A. T. & Sfrintzeris, Y. (2023,
-16.08.2023). Danmarks etterretningstjeneste
-tar al-Qaeda-trusler «meget alvorlig». VG.
-https://www.vg.no/nyheter/utenriks/i/VPMR5l/danmarks-etterretningstjeneste-tar-alqaeda-trusler-meget-alvorlig
-Brown, K., Mondon, A. & Winter, A. (2023). The
-far right, the mainstream and mainstreaming:
-towards a heuristic framework. Journal of Political Ideologies, 28(2), 162-179. https://
-doi.org/10.1080/13569317.2021.1949829
-Bruland, B. (2017). Holocaust i Norge: registrering,
-deportasjon, tilintetgjørelse. Dreyers forl.
-Bruland, R. S. (2015, 15.11.2015). Belgia vil rydde
-opp i «Jihad-bydelen». NRK. https://
-www.nrk.no/urix/belgia-vil-rydde-opp-i-_jihadbydelen_-1.12655107
-Bruno, V. A., Downes, J. F. & Scopelliti, A. (2021,
-15.11.2021). Post-Fascism in Italy: “So why this
-flame, Mrs. Giorgia Meloni?”. Centre for Analysis of the Radical Right. https://www.radicalrightanalysis.com/2021/11/15/post-fascismin-italy-so-why-this-flame-mrs-giorgia-meloni/
-Bråten, B. & Sønsterudbråten, S. (2017). Veiledningserfaringer: Forsøk med veiledning
-(ICDP) av foreldre med radikaliseringsbekymringer og foreldre i asylmottak (2017:02).
-https://www.fafo.no/images/pub/2017/
-20610.pdf
-Bu, F., Nymoen, M., Setten, K. & Ødegården, T. E.
-(2023, 07.09.2023). Ett parti overrasker blant
-unge velgere: – Et varsku. TV 2. https://
-www.tv2.no/nyheter/innenriks/ett-parti-overrasker-blant-unge-velgere-et-varsku/
-16022039/
-
-Bufdir. (2020, 26.11.2020). Lovbrudd: Retningslinjer for barnevernets ansvar for barn som begår
-lovbrudd. Bufdir.no. https://www.bufdir.no/
-fagstotte/produkter/
-lovbrudd_retningslinjer_for_barnevernets_an
-svar_for_barn_som_begar_lovbrudd/
-Bufdir. (2021). Utredning av tiltak for å forebygge
-diskriminering av og hat mot muslimer med
-ungdom som målgruppe. Bufdir.no. https://
-www2.bufdir.no/globalassets/global/nbbf/
-bufdir/
-utredning_av_tiltak_for_a_forebygge_diskrimi
-nering_av_og_hat_mot_muslimer_med_ungdom_som_malgruppe.pdf
-Bufdir. (2023a). Levekårsstatus for personer med
-nedsatt funksjonsevne. Bufdir.no https://
-www2.bufdir.no/Statistikk_og_analyse/nedsatt_funksjonsevne/
-Bufdir. (2023b, 16.05.2023). Til sammen 664 millioner kroner til inkludering av barn og unge.
-Bufdir.no. https://www.bufdir.no/aktuelt/tilsammen-664-millioner-kroner-til-inkluderingav-barn-og-unge/
-Bufdir. (u.å.-a). Hva gjør barnevernet?. Bufdir.no.
-https://www.bufdir.no/barnevern/hva-gjorbarnevernet/
-Bufdir. (u.å.-b). Kompetanseteamet mot negativ sosial kontroll og æresrelatert vold. Bufdir.no.
-https://www.bufdir.no/vold/aresrelatert/
-kompetanseteamet/
-Bufdir. (u.å.-c). Tilskudd til tiltak mot rasisme, diskriminering og hatefulle ytringer. Bufdir.no.
-https://www.bufdir.no/tilskudd/tiltak-mot-rasisme-diskriminering-og-hatefulle-ytringer/
-Bufdir. (u.å.-d). Råd og veiledning etter adopsjon.
-Bufdir.no. https://www.bufdir.no/adopsjon/
-rad-og-veiledning-etter-adopsjon/
-Buland, T., Mordal, S. & Mathiesen, I. H. (2020).
-Utdannings- og yrkesrådgiving og sosialpedagogisk rådgiving i norsk skoleanno 2020: En kartlegging av ressurser og arbeidsoppgaver til rådgiving i skolen i Norge. Utdanningsforbundet.
-https://www.utdanningsforbundet.no/globalassets/var-politikk/publikasjoner/eksternerapporter/radgiving-i-norsk-skole-anno2020_sintef_norce.pdf
-Bundesamt für Verfassungsschutz. (u.å.). Rightwing extremism. Verfassungsschutz.de. https:/
-/www.verfassungsschutz.de/EN/topics/
-right-wing-extremism/right-wing-extremism_article.html
-Bundesministerium des Innern für Bau und Heimat. (2019). Verfassungsschutzbericht 2019.
-bmi.bund.de. https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/the-
-
-[Side 423]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-men/sicherheit/vsb-2019-gesamt.pdf?__blob=publicationFile&v=5.
-Bundesministerium für Familie, Senioren, Frauen
-und Jugend,. (2023, 16.02.2023). Gesetz zur
-Stärkung von Maßnahmen zur Demokratieförderung, Vielfaltgestaltung, Extremismusprävention und politischen Bildung (Demokratiefördergesetz). Bmfsfj. https://www.bmfsfj.de/
-bmfsfj/service/gesetze/gesetz-zur-staerkungvon-massnahmen-zur-demokratiefoerderungvielfaltgestaltung-extremismuspraeventionund-politischen-bildung-demokratiefoerdergesetz–207726
-Bundesministerium für Familie, Senioren, Frauen
-und Jugend,. (u.å.-a). Demokratie leben!. Demokratie-leben.no. https://www.demokratieleben.de/
-Bundesministerium für Familie, Senioren, Frauen
-und Jugend,. (u.å.-b). Über «Demokratie leben!». Demokratie-leben. https://www.demokratie-leben.de/das-og/ueber-demokratie-leben
-Burheim, M. G. (2023). Det handler om mennesker. I juli-senteret (Red.), 22. juli-senteret. 22.
-juli-senteret.
-Bury Council. (u.å.). Prevent. bury.gov. https://
-www.bury.gov.uk/my-neighbourhood/safetyin-the-community/prevent
-Bæck. U-. D. K., Holm, I. M. & Larsen, A. I. L.
-(2022). U16 sin mentorordning i Tromsø kommune vekker forskningsinteresse. uit. https://
-uit.no/nyheter/forskerhjornet/790235/u16_sin_mentorordning_i_tromso_kommune_vekker_for
-Bærum kommune, Samordning av lokale rus- og
-kriminalitetsforebyggende tiltak & Oslo politidistrikt. (2019). Lokal handlingsplan for forebygging av hatkriminalitet og voldelig ekstremisme 2018–2021. baerum.kommune. https:/
-/www.baerum.kommune.no/globalassets/
-om-barum-kommune/organisasjon/styrendedokumenter/handlingsplan-for-forebyggingav-hatkriminalitet-korrektur-10-sept.pdf
-Bærum kommune og Asker og Bærum politidstrikt. (2015). Lokal handlingsplan mot ekstremisme.
-https://www.baerum.kommune.no/globalassets/om-barum-kommune/
-organisasjon/styrende-dokumenter/lokalhandlingsplan-mot-ekstremisme.pdf
-Bötticher, A. (2017). Towards Academic Consensus Definitions of Radicalism and Extremism.
-Perspectives on Terrorism, 11(4), 73-77. http://
-www.jstor.org/stable/26297896
-Caiani, M. & Kröll, P. (2015). The transnationalization of the extreme right and the use of the In-
-
-421
-
-Referanseliste
-
-ternet. International Journal of Comparative
-and Applied Criminal Justice, 39(4), 331-351.
-https://doi.org/10.1080/
-01924036.2014.973050
-Caldwell, M., Andrews, J. T. A., Tanay, T. & Griffin, L. D. (2020). AI-enabled future crime.
-Crime Science, 9(1), 14. https://doi.org/
-10.1186/s40163-020-00123-8
-Carbonnel, A. D. (2018, 16.03.2018). Belgium takes back Brussels’ Grand Mosque from Saudi
-government.
-Reuters.
-https://www.reuters.com/article/idUSKCN1GS2HP/
-Carter, E. (2018). Right-wing extremism/radicalism: reconstructing the concept. Journal of
-Political Ideologies, 23(2), 157-182. https://
-doi.org/10.1080/13569317.2018.1451227
-Carter, J. A., Maher, S. & Neumann, P. R. (2014).
-#Greenbirds: Measuring Importance and Influence in Syrian Foreign Fighter Networks.
-The International Centre for the Study of Radicalisation and Political Violence. https://
-icsr.info/wp-content/uploads/2014/04/ICSRReport-Greenbirds-Measuring-Importanceand-Influence-in-Syrian-Foreign-FighterNetworks.pdf
-Center for Dokumentation og Indsats mod Ekstremisme. (2019, 21.02.2019). Venstreekstremisme:
-Ideologi. stopekstremisme. https://stopekstremisme.dk/ekstremisme/ekstremistiske-miljoer-i-danmark/venstreekstremisme-ideologi
-Center for Dokumentation og Indsats mod Ekstremisme. (2021). Vurderingsværktøj. stopekstremisme. https://stopekstremisme.dk/tilbudog-vaerktojer/vurderingsvaerktoj-1
-Center for Dokumentation og Indsats mod Ekstremisme. (2022, 19.10.). Om centeret. stopekstremisme. Hentet 22.06.2023 fra https://stopekstremisme.dk/om-centeret
-Center for Dokumentation og Indsats mod Ekstremisme. (2023, 12.12.2023). Hvem gør hvad i
-Danmark?. stopekstremisme. https://stopekstremisme.dk/forebyggelsesindsats-1/hvemgor-hvad-i-danmark/hvem-gor-hvad-i-danmark
-Center for Research on Extremism. (2022). STV
-Codebook. uio. https://www.sv.uio.no/c-rex/
-english/groups/rtv-dataset/rtv-codebook2022.pdf
-Center for Terroranalyse. (2023). Vurdering af terrortruslen mod Danmark. pet. https://pet.dk//media/mediefiler/pet/dokumenter/analyser-og-vurderinger/vurdering-af-terrortruslen-mod-danmark/vurdering-af-terrortruslenmod-danmark-2023.pdf
-Center mot våldsbejakande extremism. (2020).
-Våldsbejakande djurrättsaktivism: En kun-
-
-[Side 424]
-
-422
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-skapsöversikt. cve. https://cve.se/download/
-18.843740f184cc4e52fa1188/1669904413958/
-CVE_Djurra%CC%88ttsaktivism.pdf
-Center mot våldsbejakande extremism. (2022a,
-21.10.2022). CVE:s stödtelefon för yrkesverksamma. cve. https://www.regeringen.se/contentassets/d4fdc4bc1c314fdfb9aa6c7a3da9bc93/141514600webb.pdf
-Center mot våldsbejakande extremism. (2022b,
-11.11. 2022). Om CVE. stopekstremisme.
-https://cve.se/omcve.4.361968e2184188c99bf43f.html
-Center mot våldsbejakande extremism. (2022c,
-24.05.2022). Operativt stöd. cve.se. https://
-cve.se/operativtstod.4.2f4ed3a21806a388a2fd99.html
-Centers for Disease Control and Prevention.
-(2021, 06.04.2021). About the CDC-Kaiser ACE
-Study. cdc.gov. https://www.cdc.gov/violenceprevention/aces/about.html
-Centers for Disease Control and Prevention.
-(2023, 29.06.2023). Adverse Childhood Experiences. https://www.cdc.gov/violenceprevention/aces/index.html
-Cherney, A. (2016). Designing and implementing
-programmes to tackle radicalization and violent extremism: lessons from criminology. Dynamics of Asymmetric Conflict, 9(1-3), 82-94.
-https://doi.org/10.1080/
-17467586.2016.1267865
-Chesney, R. & Citron, D. K. (2018). Deep Fakes: A
-Looming Challenge for Privacy, Democracy,
-and National Security. California Law Review.
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3213954
-Child Rights International Network. (2022). Preventing Safeguarding: The Prevent strategy and
-children’s rights. crin. https://static1.squarespace.com/static/5afadb22e17ba3eddf90c02f/
-t/62385835c6d6f61c4977be26/
-1647859768092/Preventing+Safeguarding+March+2022+CRIN.pdf
-Chrisafis, A. (2016, 05.07.2016). Paris attacks inquiry finds multiple failings by French intelligence agencies. The Guardian. https://
-www.theguardian.com/world/2016/jul/05/paris-attacks-inquiry-multiple-failings-french-intelligence-agencies
-Chrisafis, A. (2023, 28.08.2023). France to ban
-girls from wearing abayas in state schools. The
-Guardian.
-https://www.theguardian.com/
-world/2023/aug/28/france-to-ban-girls-fromwearing-abayas-in-state-schools
-Christchurch call. (u.å.). Forside. christchurchcall.
-https://www.christchurchcall.com/
-
-Christensen, T. W. & Bjørgo, T. (2018). Hvordan
-håndtere hjemvendte fremmedkrigere og andre
-syriafarere?: Tiltak for ivaretakelse og oppfølging (1/2018). uio. https://www.sv.uio.no/crex/english/publications/c-rex-reports/2018/
-hjemvendte-fremmedkrigere-c-rex-report-12018.pdf
-Christensen, T. W., Lindekilde, L., Sivenbring, J.,
-Bjørgo, T., Magnæs Gjelsvik, I., Solhjell, R.,
-Haugstvedt, H., Malmros, R. A., Kangasniem,
-M. & Kallio, H. (2023). “Being a Risk” or
-“Being at Risk”: Factors Shaping Negotiation
-of Concerns of Radicalization within Multiagency Collaboration in the Nordic Countries.
-Democracy and Security, 1-24. https://doi.org/
-10.1080/17419166.2023.2220117
-Clarke, C. P. (2021). Twenty Years After 9/11:
-What Is the Future of the Global Jihadi
-Movement?. CTC Sentinel, 14(7), 91-105.
-https://ctc.westpoint.edu/wp-content/uploads/2021/09/CTC-SENTINEL-072021.pdf
-Clarke, C. P. (2022, 06.01.2022). Jan. 6 Didn’t Set
-Off A Wave of Right-Wing Terrorism. Here’s
-What Happened Instead. Politico. https://
-www.politico.com/news/magazine/2022/01/
-06/far-right-extremists-jan-6-domestic-terrorism-526505
-Cobain, I. & Taylor, M. (2016, 23.11.2016). Farright terrorist Thomas Mair jailed for life for
-Jo Cox murder. The Guardian. https://
-www.theguardian.com/uk-news/2016/nov/
-23/thomas-mair-found-guilty-of-jo-cox-murder
-Collins, M. (2022, 11.06.2022). There’s a new
-breed of young, violent, far-right activist in Britain: ‘white jihadists’. The Guardian. https://
-www.theguardian.com/commentisfree/2022/
-jun/11/far-right-activists-britain-white-jihadists-neo-nazi-national-action-jailed
-Comerford, M. & Bryson, R. (2017). Struggle Over
-Scripture: Charting the Rift Between Islamist
-Extremism and Mainstream Islam. https://institute.global/policy/struggle-over-scripturecharting-rift-between-islamist-extremism-andmainstream-islam
-Conway, M. (2017). Determining the Role of the
-Internet in Violent Extremism and Terrorism:
-Six Suggestions for Progressing Research.
-Studies in Conflict & Terrorism, 40(1), 77-98.
-https://doi.org/10.1080/
-1057610X.2016.1157408
-Coordination Unit for Threat Analysis. (2023).
-Strategic note: extremism and terrorism. belgium. https://ocad.belgium.be/wp-content/
-uploads/2023/10/Strategic-Note-Extremismand-Terrorisme_WEB.pdf
-
-[Side 425]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Copsey, N. & Merrill, S. (2021, 14.04.2021). Understanding 21st-Century Militant Anti-Fascism.
-crestresearch. https://crestresearch.ac.uk/
-resources/understanding-21st-century-militant-anti-fascism/
-Cordesman, A. H. (2017). Islam and the Patterns
-in Terrorism and Violent Extremism. csis.
-https://www.csis.org/analysis/islam-and-patterns-terrorism-and-violent-extremism
-Corell, S. (2010). Krigens ettertid. Spartacus Forlag.
-Corell, S. (2021). Likvidasjonen. Gyldendal.
-Correctiv. (2024, 15.01.2024). Secret plan against
-Germany. Correctiv. https://correctiv.org/en/
-top-stories/2024/01/15/secret-plan-againstgermany/
-Counter-terrorism Committee Executive Directorate. (2020). Member states concerned by the
-growing and increasingly transnational threat
-of extreme right-wing terrorism. un. https://
-www.un.org/securitycouncil/ctc/sites/
-www.un.org.securitycouncil.ctc/files/files/documents/2021/Jan/cted_trends_alert_extreme_right-wing_terrorism.pdf
-Counter Extremism Network Coordination Unit.
-(2016). Structural quality standards: for work to
-intervene with and counter violent extremism.
-girds.
-http://girds.org/publications/handbook-for-structural-quality-standards-in-deradicalization-work
-Counter Extremism Project. (2023). France: Extremism and Terrorism.
-counterextremism.
-https://www.counterextremism.com/countries/france-extremism-and-terrorism
-Counter Extremism Project. (u.å.). Great Replacement Theory. counterextremism. https://
-www.counterextremism.com/content/greatreplacement-theory
-Court of Justice of the European Union. (2022).
-Measures for the protection of the Union budget:
-the Court of Justice, sitting as a full Court, dismisses the actions brought by Hungary and Poland against the conditionality mechanism
-which makes the receipt of financing from the
-Union budget subject to the respect by the Member States for the principles of the rule of law. europa.eu.
-https://curia.europa.eu/jcms/
-upload/docs/application/pdf/2022-02/
-cp220028en.pdf
-Cowen, T. (2006). Terrorism as theater: Analysis
-and policy implications. Public Choice, 128(1),
-233-244. https://doi.org/10.1007/s11127-0069051-y
-Crawford, B. & Keen, F. (2020). The Hanau Terrorist Attack: How Race Hate and Conspiracy
-
-423
-
-Referanseliste
-
-Theories Are Fueling Global Far-Right Violence. CTC Sentinel, 13(3), 1-8. https://
-ctc.westpoint.edu/wp-content/uploads/2020/
-03/CTC-SENTINEL-032020.pdf
-Crettiez, X. & Barros, Y. (2019). La Réalité De La
-Menace Djihadiste En France 2015–2018.
-Chaire Citoyenneté, Sciences-Po Saint-Germain-en-Laye. https://radical.hypotheses.org/
-files/2019/11/Chaire-Citoyennet%C3%A9-Realite-djihadistes.pdf
-Croce, M. D. (2021, 25.01.2021). Italy arrests
-‘Black Sun’ terrorist who planned to kill women and Jews. Il Manifesto. https://global.ilmanifesto.it/italy-arrests-black-sun-terroristwho-planned-to-kill-women-and-jews/
-Crumley, B. (2012, 26.03.2012). Terror in Toulouse: Brother of Jihadist Killer Held by Police.
-Time. https://world.time.com/2012/03/26/
-terror-in-toulouse-brother-of-jihadist-killerheld-by-police/
-CTEC. (2022, 04.10.2022). Dangerous Organizations and Bad Actors: Sonnenkrieg Division.
-middlebury. https://www.middlebury.edu/institute/academics/centers-initiatives/ctec/
-ctec-publications/dangerous-organizationsand-bad-actors-2
-CUTA. (u.å.). Who We are. cuta.belgium. https://
-cuta.belgium.be/who-we-are/#history-in-brief
-Dagsavisen. (2018, 03.09.2018). Mannefall i Sverigedemokraterna – flere innhentes av nazifortid. Dagsavisen. https://www.dagsavisen.no/
-nyheter/verden/2018/09/03/mannefall-i-sverigedemokraterna-flere-innhentes-av-nazifortid/
-Dagbladet. (2023, 21.10.2023). Ingen grenser for
-Israel. Dagbladet. https://www.dagbladet.no/
-meninger/ingen-grenser-for-israel/80378551
-Dalen, H. B. & Arnesen, P. K. (2020, 19.11.2020).
-Folk deltar mer politisk. ssb.no. https://
-www.ssb.no/kultur-og-fritid/artikler-og-publikasjoner/folk-deltar-mer-politisk
-Dalen, M. (2023). Røde Arme Fraksjon. I Store
-norske leksikon. https://snl.no/R%C3%B8de_Arme_Fraksjon
-Dalsgaard, L., Albæk, M. & Mikkelsen, N. R.
-(2019). Terroristen fra Nørrebro: jagten på
-Omar el-Hussein. Politiken forlag.
-Dalgaard-Nielsen, A., Eriksen, J. R., Hansen, M.
-L., Ilum, J., Ishaq, B., Ravndal, J. A. & Renå, H.
-(2020). Evaluering av politiets og PSTs håndtering av terrorhendelsen i Bærum 10. august
-2019. politiet. https://www.politiet.no/globalassets/tall-og-fakta/al-noor---terrorhandlingen/evaluering_terrorhendelsen_i_baerum_01072020_original_digital.pdf
-
-[Side 426]
-
-424
-
-Referanseliste
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Daniels, J. (2018). The Algorithmic Rise of the
-“Alt-Right”. Contexts, 17(1), 60-65. https://journals.sfu.ca/jd/index.php/jd/article/view/8
-Danmarks Radio. (u.å.). Tema: Koranlov. https://
-www.dr.dk/nyheder/indland/tema/koranlov
-Dansk institut for menneskerettigheder. (2021).
-Når algoritmer sagsbehandler – Rettigheder og
-retssikkerhed i offentlige myndigheders brug af
-profileringsmodeller. https://menneskeret.dk/
-udgivelser/naar-algoritmer-sagsbehandler-rettigheder-retssikkerhed-offentlige-myndigheders-brug
-Data Act. (2023). Regulation (EU) 2023/2854 of
-the European Parliament and of the Council of
-13 December 2023 on harmonised rules on fair
-access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU)
-2020/1828 (PE/49/2023/REV/1). eur-lex.europa. https://eur-lex.europa.eu/eli/reg/2023/
-2854
-Data Governance Act. (2022). Regulation (EU)
-2022/868 of the European Parliament and of
-the Council of 30 May 2022 on European data
-governance and amending Regulation (EU)
-2018/1724 (PE/85/2021/REV/1). eur-lex.europa. https://eur-lex.europa.eu/legal-content/
-EN/TXT/?uri=CELEX%3A32022R0868&qid=1707420232060
-Datatilsynet. (2018, 12.10.2021). Om personopplysningsloven med forordning og når den gjelder.
-datatilsynet.no. https://www.datatilsynet.no/
-regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/
-Datatilsynet. (2019). Høringsuttalelse fra Datat–
-lsynet – Forslag til ny lov om etterretningstjenesten.
-regjeringen. https://www.regjeringen.no/no/dokumenter/horing---forslag-til-nylov-om-etterretningstjenesten/id2618620/
-?uid=e0b87829-2c74-4f2c-8066-c75801bcd0d5
-Datatilsynet. (u.å.). Sjekkliste for vurdering av personvernkonsekvenser (DPIA). datatilsynet.no.
-https://www.datatilsynet.no/contentassets/
-8b767689abb14926af27820c9c2fb89e/sjekkliste-for-dpiafaser.pdf
-Davey, J. (2021). Gamers Who Hate: An Introduction to ISD’s Gaming and Extremism Series.
-isdglobal. https://www.isdglobal.org/wp-content/uploads/2021/09/20210910-gaming-reportintro.pdf
-Davey, J., Comerford, M., Guhl, J., Baldet, W. &
-Colliver, C. (2021). A Taxonomy for the Classification of Post-Organisational Violent & Terrorrist Content. isdglobal. https://www.isdglobal.org/wp-content/uploads/2021/12/A-Taxo-
-
-nomy-for-the-Classification-of-Post-Organisational-Violent-Extremist-Terrorist-Content.pdf
-Davies, L. (2009). Educating against Extremism:
-Towards a Critical Politicisation of Young People. International Review of Education, 55(2/
-3), 183-203. http://www.jstor.org/stable/
-40270074
-Davies, L. (2014). Interrupting Extremism by Creating Educative Turbulence. Curriculum Inquiry, 44(4), 450-468. http://www.jstor.org/stable/43941663
-Dawson, L. L. (2021). A Comparative Analysis of
-the Data on Western Foreign Fighters in Syria
-and Iraq: Who Went and Why?. icct. https://
-www.icct.nl/sites/default/files/2022-12/Dawson-Comparative-Analysis-FINAL-1.pdf
-de Graaf, B., van der Heide, L., Wanmaker, S. &
-Weggemans, D. (2013). The Anders Behring
-Breivik Trial: Performing Justice, Defending
-Democracy. ICCT research paper, 4(6), 1-20.
-https://www.icct.nl/publication/andersbehring-breivik-trial-performing-justice-defending-democracy
-De nasjonale freds- og menneskerettighetssentrene. (2022). Høringsinnspill fra De nasjonale
-freds- og menneskerettighetssentrene. stortinget. https://www.stortinget.no/no/Hva-skjerpa-Stortinget/Horing/horingsinnspill/
-?dnid=28857&h=10004644
-De Saint Marc, G. D., Guglielminetti, L., Netten,
-J., Lacombe, S., van de Donk, M., Galesloot, J.
-& Woltman, P. (2015). Handbook: Voices of
-victims of terrorism. Radical Awareness
-Network & Working group voice of victims of
-terrorism,. https://home-affairs.ec.europa.eu/
-system/files/2020-09/ran_vvt_handbook_may_2016_en.pdf
-Dearden, L. (2022, 26.05.2022). The rise and fall of
-Britain’s first neo-Nazi terrorist group. Independent. https://www.independent.co.uk/independentpremium/long-reads/nationalaction-neo-nazis-history-arrests-b2087169.html
-Deloughery, K., King, R. D. & Asal, V. (2012).
-Close Cousins or Distant Relatives? The Relationship Between Terrorism and Hate Crime.
-Crime and delinquency, 58(5), 663-688. https:/
-/journals.sagepub.com/doi/abs/10.1177/
-0011128712452956?journalCode=cadc
-Dembra. (u.å.-a). For lærere. dembra.no. https://
-www.dembra.no/no/for-laerere
-Dembra. (u.å.-b). Om Dembra: Hva er Dembra?.
-dembra. Hentet 28.06.2023 fra https://dembra.no/no/om-dembra/
-
-[Side 427]
-
-NOU 2024: 3
-
-Felles innsats mot ekstremisme: Bedre vilkår for det forebyggende arbeidet
-
-Dembra. (u.å.-c). Samarbeidspartnere og støttespillere. https://www.dembra.no/no/samarbeidspartnere-og-stottespillere
-Dembra. (u.å.-d). Utarbeide en Dembra-plan. dembra.no. https://www.dembra.no/no/undervisningsopplegg/utarbeide-en-dembra-plan
-Den internasjonale Røde Kors-komiteen. (2019).
-International humanitarian law and the challenges of contemporary armed conflicts. https://
-www.icrc.org/en/document/icrc-report-ihland-challenges-contemporary-armed-conflicts
-Den internasjonale Røde Kors-komiteen. (2023).
-The Geneva Conventions and their Commentaries. icrc.org. https://www.icrc.org/en/warand-law/treatiescustomary-law/geneva-conventions
-Den nordiske motstandsbevegelsen. (2023,
-07.10.2023). Den nordiske motstandsbevegelsen
-støtter offensiven mot Israel. motstandsbevegelsen.no.
-https://www.motstandsbevegelsen.info/den-nordiske-motstandsbevegelsenstotter-offensiven-i-israel/
-Den norske legeforening. (2011, 27.12.2011).
-World Medical Association – deklarasjonen. legeforeningen.no.
-https://www.legeforeningen.no/om-oss/etikk/etiske-regler-koder-deklarasjoner-og-lignende/world-medical-association-deklarasjonen/
-Departementene. (2020). Regjeringens handlingsplan mot rasisme og diskriminering på grunn
-av etnisitet og religion 2020–2023. regjeringen.
-https://www.regjeringen.no/contentassets/
-589aa9f4e14540b5a5a6144aaea7b518/handlingsplan-mot-rasisme_uu_des-2019.pdf
-Departementene. (2021). Regjeringens handlingsplan mot diskriminering på grunn av seksuell
-orientering, kjønnsidentitet, kjønnsuttrykk og
-kjønnskarakteristika. regjeringen. https://
-www.regjeringen.no/contentassets/
-023227879f06471793113a7f116e71b9/210624handlingsplan-lhbtiq_-.pdf
-Det europeiske rådet. (2023). Artificial intelligence act: Council and Parliament strike a deal
-on the first rules for AI in the world. consilium.
-https://www.consilium.europa.eu/en/press/
-press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-dealon-the-first-worldwide-rules-for-ai/
-Det Europeiske Wergelandsenteret. (u.å.). Lærings- og refleksjonsmateriell om 22. juli. 22juliressurser. https://22juli-ressurser.no/
-Det Europeiske Wergelandsenteret & Utøya.
-(u.å.). Forebygging av ekstremisme – er skolen
-alltid svaret? 27. Mars på Utøya. demokrati-
-
-425
-
-Referanseliste
-
-verksted.
-https://demokrativerksted.no/
-2023/01/09/konferanse/
-Det Mosaiske Trossamfund. (2023, 30.10.2023).
-Bekymringsmelding – et varsko for det norske
-demokratiet. VG. https://www.vg.no/nyheter/meninger/i/3EGb0d/bekymringsmelding-et-varsko-for-det-norske-demokratiet
-Det norske akademis ordbok. (u.å.-a). Forebygge.
-https://naob.no/ordbok/forebygge
-Det norske akademis ordbok. (u.å.-b). Reintegrasjon. https://naob.no/ordbok/reintegrasjon
-Det norske teatret. (u.å.). Utafor. detnorsketeatret.no.
-https://www.detnorsketeatret.no/
-framsyningar/utafor
-Dettmer, J. (2017, 18.07.2017). Far-right Group
-Plans to Patrol Mediterranean to Turn Back
-Migrants. Voa. https://www.voanews.com/a/
-far-right-group-plans-patrol-mediterranean-toturn-back-migrants/3948733.html
-Deutscher Bundestag. (2020). Gesetz gegen Rechtsextremismus und Hasskriminalität beschlossen.
-bundestag. https://www.bundestag.de/dokumente/textarchiv/2020/kw25-de-rechtsextremismus-701104
-Deutsches Zentrum für Integrations- und Migrationsforschung. (2022, 05.05.2022). Viele Menschen in Deutschland sind bereit zu Engagement
-gegen Rassismus. dezim-institut. https://
-www.dezim-institut.de/presse/presse-detail/
-viele-menschen-in-deutschland-sind-bereit-zuengagement-gegen-rassismus/
-Deutsches Zentrum für Integrations- und Migrationsforschung. (u.å.). Nationaler Diskriminierungs- und Rassismusmonitor (NaDiRa). deziminstitut. https://www.dezim-institut.de/institut/rassismusmonitor/
-Devakumar, D., Selvarajah, S., Abubakar, I., Kim,
-S.-S., McKee, M., Sabharwal, N. S., Saini, A.,
-Shannon, G., White, A. I. R. & Achiume, E. T.
-(2022). Racism, xenophobia, discrimination,
-and the determination of health. The Lancet,
-400(10368),
-2097-2108.
-https://doi.org/
-10.1016/S0140-6736(22)01972-9
-Devarajan, S., Mottaghi, L., Do, Q.-T., Brockmeyer, A., Joubert, C., Bhatia, K. & Jelil, M. A.
-(2016). Economic and Social Inclusion to Prevent Violent Extremism. worldbank. https://
-documents1.worldbank.org/curated/en/
-409591474983005625/pdf/108525-REVISEDPUBLIC.pdf
-Dewey, J. (1993). Dewey: The Political Writings (D.
-A. Morris & I. Shapiro, Red.). Hackett Publishing Company.
-Deutsche Welle. (2023a, 11.07.2023). Germany designates Afd reginal party ‘extremist’. Deutsche
+# Kunnskaps- og kompetanseløft i det forebyggende arbeidet
+
+Et bredt og solid kunnskapsgrunnlag er en forutsetning for at innsatsen med å forebygge ekstremisme i Norge skal fungere best mulig. Kunnskap danner grunnlag for forståelse, målrettet innsats og videreutvikling av ekstremismefeltet. Skal vi oppdage og forhindre at personer blir radikalisert eller begår voldelige handlinger, trenger vi fenomenforståelse og kunnskap om bakenforliggende mekanismer samt gode forebyggings- og reintegreringteknikker. Kunnskap er ferskvare, noe som fører til behov for kontinuerlig kunnskapsutvikling og formidling.
+
+Gjennom vårt arbeid har vi møtt mange dyktige fagfolk og andre aktører som arbeider med å forebygge ekstremisme og å øke kunnskapen om dette, for eksempel i kommuner og politiet. Samtidig ser kommisjonen at mange mangler nødvendig og oppdatert kunnskap. Det kan være mange årsaker til dette, som at det finnes få tilgjengelige ressurser for faglig oppdatering, eller at det er vanskelig å vite hvor man skal henvende seg for informasjon. Det kan også være at det ikke finnes egnede strukturer for å tilgjengeliggjøre kunnskapen. For andre handler det om at man ikke har hatt befatning med problemstillingen og derfor ikke ser behovet for å prioritere dette feltet.
+
+Ekstremismefeltet er i stadig endring, og med en svært rask teknologisk utvikling som benyttes av ekstreme krefter, kan det være utfordrende for tjenesteapparatet å holde tritt. Etter kommisjonens syn kan et nasjonalt senter for innsats mot radikalisering og voldelig ekstremisme som foreslått ovenfor ha en viktig rolle i å tilgjengeliggjøre forskning og relevant kunnskap for tjenesteapparatet.
+
+Det er flere anerkjente forskningsmiljøer i Norge som forsker på både voldelig ekstremisme og ekstremisme i bred forstand. Kommisjonen har imidlertid identifisert områder hvor det er behov for prioritert forskningsinnsats fremover. Kommisjonen er også bekymret for at den langsiktige forskningen på ekstremisme ikke er sikret, blant annet på grunn av økonomiske rammer og manglende prioritering fra oppdragsgivere.
+
+Kommisjonen har fått innspill om et behov for å systematisere og tilgjengeliggjøre kunnskap for dem som arbeider direkte med forebygging av ekstremisme. Anbefalingene som kommisjonen foreslår ovenfor om bedre organisering og mer forpliktende samarbeid, vil bidra til økt kunnskap og kompetanse i tjenesteapparatet. Samtidig ser kommisjonen behov for å komme med anbefalinger som går spesifikt på å heve kunnskapen og kompetansen i det forebyggende arbeidet.
+
+Dette kapittelet handler om kommisjonens vurderinger og anbefalinger om forskning, et tverrsektorielt studieemne for dem som arbeider med forebygging, styrking av kompetanse i skolen og behovet for økt kunnskap og kompetanse i møte med ekstremisme i en digital tidsalder.
+
+## Mer forskning og stabile rammevilkår
+
+### Fremtidige forskningsbehov
+
+Forskning av høy kvalitet er den viktigste kilden til kunnskap om radikalisering, ekstreme ideologier, hvordan ekstremisme rammer grupper, individer og samfunn og hvordan denne utfordringen kan møtes. Kommisjonen har fått mange innspill om at det derfor må satses på forskning på dette feltet. Forskning er også fremhevet i ulike handlingsplaner som er relevante for ekstremismefeltet.
+
+Forskning på radikalisering og ekstremisme i Norge har pågått over mange år i flere forskningsmiljøer og dekker mange temaer. Tilgang til og bruk av forskningsresultater og kunnskapsgrunnlag er viktig for å kunne tilpasse innsatsen og forstå ekstremismens årsaker og hvordan den kan forebygges. Det utgjør også et grunnlag for forståelsen av utfordringer, trender og behov på feltet. Kunnskapen må derfor nå ut til både myndigheter, tjenesteapparatet og allmennheten.
+
+Forskningen brukes til å gi råd til myndighetene. Den brukes også som kunnskapsbank for tjenesteapparatet, til debatt og til allmenn opplysning slik som til media, i undervisning og i akademia. For tjenesteapparatet er kunnskapen fra forskningen vesentlig også fordi den kan bidra med bredere innsikt og kunnskap enn den de selv kan bygge opp på bakgrunn av egne mandater, ressurser og rammer for informasjonslagring.
+
+Hva det forskes på, påvirkes naturligvis av den tiden man lever i. Både høyreekstremisme og ekstrem islamisme er ansett som trusler mot det norske og internasjonale samfunnet, blant annet på grunn av brutale terrorangrep i nyere tid. Disse ideologiske retningene har derfor fått særlig oppmerksomhet i forskningen. Kommisjonen er opptatt av at det legges til rette for kontinuitet og bredde i forskningen på ekstremismefeltet i Norge, uavhengig av enkelthendelser eller former for ekstremisme som er dominerende i det norske trusselbildet. Det er i den forbindelse også viktig med kunnskap som ser sammenhenger nasjonalt og internasjonalt. Forskning på radikalisering og ekstremisme må derfor ha et langsiktig perspektiv, samtidig som den må være relevant og oppdatert i henhold til samtidens utfordringer og særskilte hendelser. Kommisjonen ønsker også å fremheve viktigheten av forskning på ekstremisme i bred forstand, slik som forskning på demokratibygging og holdninger til minoriteter.
+
+Andre forhold som påvirker hva man kan forske på er forskningsetiske krav og tilgang på kilder. I dagens teknologitette samfunn er kilder for forskningen både å finne på digitale flater, i fysiske miljøer og i møte med ulike aktører og personer. På nettet er forskningsmaterialet spredt på ulike plattformer og apper og i sosiale medier. Kommisjonen mener at det er behov for bred, langsiktig og fleksibel forskning på radikalisering og ekstremisme fremover. I det følgende vil kommisjonen fremheve fire hovedområder som vi mener bør prioriteres.
+
+Ekstremisme og ny teknologi
+
+Radikalisering i den digitale tidsalder er et forskningsområde som omfatter både voldelig ekstremisme og ekstremisme i bred forstand. Det dukker stadig opp ny teknologi og nye plattformer og nettrender som er relevant for radikalisering og ekstremisme. Det er svært utfordrende å holde følge med den teknologiske utviklingen og trendene som stadig endrer seg. Hvordan vil for eksempel kunstig intelligens påvirke feltet, som virkemiddel både for ekstremister og myndigheter? For å kunne forebygge spredning av ekstremistisk tankegods og voldsplanlegging i sosiale medier trengs kunnskap om kultur og atferd på de ulike plattformene der radikaliseringen skjer.
+
+Kommisjonen mener derfor at det må prioriteres å forske på:
+
+- kunstig intelligens og ekstremisme
+
+Dette inkluderer både ekstremisters og terroristers bruk av kunstig intelligens og myndigheters bruk av kunstig intelligens i forebygging av ekstremisme og terrorisme.
+
+- digitalisering og ekstremisme
+
+Det er behov for forskning på hvordan digitale plattformer, inkludert sosiale medier, brukes for å mobilisere mennesker til voldelig ekstremisme og terrornettverk. Dette inkluderer danning av terrorceller på nett og terroristers atferd på nett, samt bruk av digitale plattformer og sosiale medier i radikaliseringsprosesser, propaganda, rekruttering og finansiering av ekstreme grupper og terrorvirksomhet. I tillegg må det forskes mer på digitale plattformer og sosiale mediers polariserende effekter. Videre må det forskes på rasisme, hatytringer mv. på slike flater.
+
+Forebygging
+
+Det er etter kommisjonens syn et stort behov for forskning på effektene av ulike former for forebyggende arbeid mot radikalisering og ekstremisme. Slik forskning kan bidra til bedre forebygging ved at de mest effektive strategiene prioriteres og eventuelle negative effekter avdekkes.
+
+Kommisjonen mener derfor at det må prioriteres å forske på
+
+- effekter og konsekvenser av eksisterende arbeid og tiltak for å forebygge radikalisering og voldelig ekstremisme
+
+Dette gjelder ulike sektorer og ulike forebyggingsnivåer, inkludert politiets og PSTs bruk av forebyggende samtaler, tverrfaglig samarbeid, bruk av mentor og forebyggende tiltak i fengsel.
+
+- sammenhengen mellom forebyggende tiltak og avvergingsrate
+
+Dette gjelder både for ekstrem islamisme, høyreekstremisme og andre former for ekstremisme.
+
+- tros- og livssynsdialog og samarbeid med religiøse aktører i det forebyggende arbeidet
+
+- familiens betydning for den enkeltes radikaliseringsprosess og familiens rolle i det forebyggende arbeidet
+
+- hvordan det oppleves å være gjenstand for en radikaliseringsbekymring og bli møtt med forebyggende, avvergende eller reintegrerende tiltak fra myndighetene
+
+- hverdagsmotstand[^2179] mot ekstremisme i samfunnet
+
+Ulike former for ekstremisme og tilgrensende fenomener
+
+Kommisjonen mener det er behov for videre forskning på ulike former for ekstremisme, både voldelig ekstremisme og ekstremisme i bred forstand. Det er viktig å videreføre og styrke forskningen på høyreekstremisme, ekstrem islamisme og venstreekstremisme samt nye trusseltyper slik som antistatlige bevegelser og sammensmelting av ulike tradisjoner og ideologier («salatbar»). Dette vil sikre et mangfold av forskningsaktivitet på et felt i kontinuerlig utvikling og endring. I den forbindelse er det vesentlig at man ivaretar allerede innhentede data og oppretter nye datasett om nye trusselaktører. I lys av samfunnsutviklingen i land som Norge ofte sammenligner seg med, er det også viktig med forskning på polarisering.
+
+Kommisjonen mener derfor at det må prioriteres å forske på
+
+- ekstreme retninger som kan utgjøre en trussel mot enkeltpersoner, grupper eller samfunnet som helhet i dag eller i fremtiden
+
+- komparativ forskning mellom ulike former for ekstremisme
+
+- ekstremisme som aktiv avvisning av demokrati og grunnleggende menneskerettigheter, både blant minoritets- og majoritetsbefolkningen
+
+<!-- -->
+
+- Dette inkluderer langsiktig forskning på utviklingen av holdninger til ulike minoriteter i Norge, hatkriminalitet, rasisme og polarisering.
+
+De som radikaliseres
+
+Selv om det både i eksisterende forskning og kommisjonens saksgjennomgang fremkommer at det er en del fellestrekk blant dem som radikaliseres, finnes det ekstremister i alle aldre og i ulike deler av samfunnet. Både menn og kvinner radikaliseres. Hvordan og hvorfor noen radikaliseres, kan også forandre seg over tid. Samfunnet må følge med på utviklingen av hvem som radikaliseres til ulike former for ekstremisme, og hvilke roller de har i sine miljøer. Det er også viktig med forskning på hvordan den større samfunnsutviklingen påvirker radikalisering.
+
+Kommisjonen mener derfor at det må prioriteres å forske på
+
+- hvem som radikaliseres, og hvilke forhold som påvirker radikaliseringsprosessen
+
+- hvilken rolle de radikaliserte har i sine miljøer på og utenfor nett, med særlig fokus på dem som radikaliserer andre
+
+Kommisjonens anbefaling:
+
+- Forskningen på ekstremisme styrkes. Dette gjelder både voldelig ekstremisme og ekstremisme som avvisning av demokrati og menneskerettigheter. Kommisjonen mener det bør forskes spesielt på områdene ekstremisme og ny teknologi, forebygging, ulike former for ekstremisme og tilgrensende fenomener og dem som radikaliseres.
+
+### Organisering og finansiering av forskning på ekstremisme
+
+Forskningen på radikalisering og ekstremisme i Norge utføres ved flere sterke forskningsmiljøer. Forskningen er organisert og finansiert ulikt forskjellige steder. Mens noen miljøer eller institusjoner har et bredt nedslagsfelt, har andre mer spisset forskningsfokus.
+
+Etter kommisjonens syn er det positivt at det finnes en bredde av aktører på forskningsfeltet, og at det samarbeides mellom de ulike forskningsmiljøene. Dette sikrer at erfaringer utveksles, og at kunnskapen utvikles videre. For å opprettholde gode råd, kunnskap og formidling er kontinuitet i forskningsmiljøer vesentlig. Robuste miljøer bidrar med langsiktighet i forskningen og institusjonell kompetanse.
+
+Vi ser at tilgangen til ressurser i noen grad kan preges av hvilken tematikk som er høyest på samfunnsdebattens agenda. Det er naturlig at forskning på ulike samfunnsområder er påvirket av samfunnsutviklingen og trender. Samtidig mener kommisjonen at ekstremismeforskningen ikke bør være sensasjonspreget. Den bør være innrettet slik at den kan bidra til å svare ut forhold som påvirker samfunnet både på kort og lang sikt. Dette forutsetter forutsigbare og tilstrekkelige økonomiske rammer, etablerte strukturer og organisering. Finansieringsmuligheter og rammer gir både muligheter og begrensninger og er et av forskningens dilemmaer. Oppfatninger om hva som skal prioriteres forskningsmessig, vil variere mellom ulike aktører og sektorer og også være prisgitt de bevilgende aktørene og deres systemer for vurderinger av kandidater og prioriterte forskningsområder. Midler til forskning på radikalisering og ekstremisme bør gjøres tilgjengelig for ulike forskningsaktører for å dekke en bredde på feltet og ulike forskningsperspektiver. Videre må rammene for forskningen legge til rette for både langsiktig forskning og kortsiktige forskningsbehov som kan dukke opp. Stortinget har bedt regjeringen sikre at det gis støtte til forskning på alle former for ekstremisme.[^2180]
+
+Forskning på ekstremisme og radikalisering kan omhandle både tematikk og personer som gjør at forskere kan komme i ekstreme gruppers søkelys. En del av disse miljøene er farlige. Kommisjonen understreker derfor viktigheten av å ivareta ansattes sikkerhet i forbindelse med forskning på ekstremisme.
+
+Om bredden av forskningsmiljøer innen radikalisering og ekstremisme
+
+Det er flere forskningsmiljøer som gjennomfører relevant og god forskning på områder innen radikalisering og ekstremisme i Norge. Noen har spesialiserte forskningsområder som dekker enkeltdeler innen ekstremismefeltet, andre arbeider også med andre forskningsfelt, men har kompetanse og ressurser til å konkurrere seg til eller påta seg forskningsoppdrag innen radikalisering og ekstremisme. Kommisjonen mener at de mange ulike miljøene er en styrke for arbeidet og feltet.
+
+Fordelen med en bredde i forskningen, i både tematikk og forskningsaktører, er at et større omfang av fokusområder dekkes, i tillegg til at flere nye perspektiver og teorier kan komme ut av forskningen. Dette kan eksempelvis gjelde spørsmålet om og på hvilke måter forebyggende arbeid mot radikalisering og ekstremisme bidrar til såkalt «sikkerhetisering». Mangfoldet bidrar også til større muligheter for internasjonalt samarbeid.
+
+Kommisjonen anerkjenner den brede og gode forskningen som gjennomføres ved ulike forskningsmiljøer i Norge i dag. Dette fører til økt kunnskap i samfunnet, hos myndighetene og andre. Bredden i tematikk anses som gunstig ettersom den dekker både voldelig ekstremisme og ekstremisme som aktiv avvisning av demokrati og motarbeidelse av menneskerettigheter. Denne forskningen må videreføres og styrkes.
+
+Senter for forskning på høyreekstremisme
+
+Det er etterspørsel etter forskningsbasert kunnskap om høyreekstremisme blant både fagpersoner og beslutningstakere, nasjonalt og internasjonalt. Dette har også kommet frem under kommisjonens møter med ulike aktører.
+
+Senter for ekstremismeforskning (C-REX) ble opprettet i 2016 med et mandat om å finne årsaker til og konsekvenser av høyreekstremisme og relaterte fenomener. Senteret skulle sikre kompetanse og kunnskap om ekstremismen som hadde ført til store ødeleggelser og traumer etter terrorangrepet 22. juli 2011. C-REX har opparbeidet seg bred anerkjennelse. Senterets arbeid har vært viktig for forståelsen av høyreekstreme og høyreradikale bevegelser i Norge og Europa. Flere aktører som kommisjonen har snakket med, har pekt på at det er viktig at senteret ikke er et midlertidig svar på terrorangrepet, og at det sikres videre finansiering når nåværende finansiering av senteret tar slutt i 2026. Stortinget har også bedt regjeringen sikre fortsatt finansiering av senteret etter 2026.[^2181]
+
+Kommisjonen mener det er viktig med videre forskning på høyreekstremisme i Norge og at denne forskningen har stabil finansiering og organisatoriske rammer som sikrer kontinuitet og tilrettelegging for relevant og god forskning. Kommisjonen har vurdert ulike alternativer for senterets fremtid, inkludert konkurranseutsetting og sammenslåing med andre forskningsmiljøer.
+
+Når det gjelder spørsmålet om å slå senteret sammen med en eller flere forskningsinstanser, for eksempel Forsvarets forskningsinstitutt (FFI), ville dette kunne bidratt til at kompetansen på feltet samles. Et alternativ til FFI kunne vært at C-REX ble lagt til Politihøgskolen, og at en slik sammenslått enhet kunne forske på ekstremisme, mens FFI kunne bestå som i dag og forske på blant annet terror. Selv om en sammenslåing av miljøer ville kunne bidratt til synergieffekter og i større grad sikre kontinuitet i forskningen, mener kommisjonen at det bør finnes et dedikert senter for forskning på høyreekstremisme.
+
+Konkurranseutsetting er vanlig praksis for forskningsfinansiering i Norge. Nettopp slik ble dagens C-REX opprettet. Kommisjonen har derfor også vurdert om midler for et senter for ekstremismeforskning bør utlyses. Ved en eventuell utlysning av slike midler når finansieringen av C-REX tar slutt i 2026, vil det være flere aktuelle kandidater utover dagens senter. Kommisjonen legger imidlertid vekt på at det er svært tidkrevende å bygge opp solide forskningsmiljøer, kompetanse og internasjonale nettverk slik C-REX har gjort. Alt dette kan gå tapt om senteret ikke videreføres.
+
+Norge har i perioder manglet tilstrekkelig forskning på og ny kunnskap om høyreekstremisme. Kommisjonen vurderer at et kontinuerlig tilfang av ny forskning og kunnskap på området må sikres. Ved en eventuell etablering av et permanent senter vil dette skille seg fra ordinær forskningsfinansiering i Norge. Etablering av et permanent senter kan danne praksis for andre samfunnsområder, men også skape urealistiske forventninger hos andre forskningsorganisasjoner som mener at de er berettiget til samme ordning. Kommisjonen mener likevel det er riktig å videreføre C-REX som et permanent senter. Dette vil kunne sikre et kontinuerlig forskningsfaglig og formidlingsmessig søkelys på høyreekstremisme. Bakteppet for opprettelsen av dagens senter angir også at en mer permanent løsning vil bidra til en varig anerkjennelse av terrorangrepets årsaker og konsekvenser og tidligere manglende forskning på høyreekstremisme. Kommisjonen anerkjenner det symbolske ved en slik permanent etablering. Det vil føre til kontinuitet i forskningen og blant forskerne og høy kvalitet på forskningen og formidlingen. Opparbeidet kompetanse forventes også å forbli ved senteret og i Norge.
+
+Et fremtidig permanent C-REX må fortsatt forske på høyreekstremisme. Det er også naturlig at senteret kan få ansvar for flere områder innen ekstremismeforskningen, slik som tilgrensende tematikk og komparativ forskning mellom høyreekstremisme og andre former for ekstremisme.
+
+Selv om C-REX etableres som et permanent senter med tilsvarende forskningsoppdrag som i dag, betyr det ikke at det permanente senteret må ha samme struktur og organisering som C-REX har i dag. Evalueringen av senteret fra 2019 og etterfølgende tiltak og andre erfaringer fra senteret bør tas med i vurderingen av mulige fremtidige justeringer. Dersom det blir opprettet et permanent senter, bør man dessuten vurdere antall faste forskningsstillinger i enheten for å unngå for stor grad av midlertidighet og sørge for en tilfredsstillende kjerne av forskere. Samarbeid med andre nasjonale og internasjonale aktører bør også være en del av mandatet.
+
+Dersom C-REX etableres permanent, vil det kunne være en viktig kunnskapsleverandør inn mot det nasjonale senteret for innsats mot radikalisering og voldelig ekstremisme som kommisjonen foreslår ovenfor. Forskningen kan tilgjengeliggjøres for førstelinjen og andre som har behov for oppdatert kunnskap og kompetanse.
+
+C-REX’ tilhørighet til forskningsinstitusjoner og fysiske plassering er ikke vurdert av kommisjonen. Dette bør vurderes i forbindelse med en eventuell etablering av et slikt permanent senter.
+
+Kommisjonens anbefaling:
+
+- Senter for ekstremismeforskning, C-REX, videreføres som et permanent senter og fortsetter med dagens mandat om høyreekstremisme samt tilgrensende temaer.[^2182]
+
+Forsvarets forskningsinstitutt/Terra
+
+FFI forsker på flere sentrale samfunnsområder som er relevante for radikalisering og ekstremisme, slik som Terra. Terra er en serie forskningsprosjekter som har pågått siden 1999 og har omhandlet terrorisme og asymmetriske trusler. De har bidratt med informasjon og kunnskap til samfunnet om transnasjonal jihadisme. Forskningsmiljøet er, som C-REX, nasjonalt og internasjonalt anerkjent og benyttet på ulike arenaer og av ulike aktører. I likhet med C-REX har ikke Terra langsiktig og sikret finansiering. De har imidlertid fått tildelt midler kontinuerlig siden 1999. Ekspertmiljøer som Terra er viktige for kontinuerlig, relevant og spisset forskning.
+
+Kommisjonen mener at forskningsmiljøet og kompetansen knyttet til Terra er av stor viktighet og betydning for myndighetenes og samfunnets forståelse av og kjennskap til terror og ekstrem islamisme. Det bidrar også til en løpende situasjonsforståelse. Terra-miljøet er bygget opp over lang tid og har opparbeidet seg uerstattelig kompetanse og erfaring innenfor sitt forskningsfelt. Det er viktig at den kompetansen og kunnskapen ivaretas og sikres i det videre. Alternativet er forvitring av opparbeidet kunnskap og at sentrale ressurser går ut av forskningen eller til andre forskningsmiljøer. Det vil være uheldig for et anerkjent forskningsmiljø med sentrale forskerressurser og forskningsområder. Noen sentrale tiltak for å bidra til at arbeidet fortsetter, kan være styrking av allerede tilgjengeliggjorte midler, utvidelse av mandatet og eventuelt flere ansatte som kan dekke et bredere ansvarsfelt og flere områder. Flere ansatte vil kunne bidra til et større perspektiv på forskningen, herunder ekstrem islamisme i henhold til kommisjonens bredere definisjon av ekstremisme. Det kan også være aktuelt å styrke allerede pågående forskning og ha mulighet til å følge med på trender og trusler som dukker opp. Økt støtte til Terra vil kunne føre til færre midler til andre forskningsområder eller annen aktivitet. Dette er en løpende vurdering som de bevilgende myndighetene må gjøre. Alternativt kan midler komme fra ulike konkurranseutsatte forskningsområder og vurderes ut fra ulike kriterier og i sammenligning med andre forskningstilbydere.
+
+Som med andre former for ekstremisme vil trusler, avvergede hendelser og faktiske hendelser innen ekstrem islamisme komme og gå. Dette kan ikke være utslagsgivende for oppdrag og midler. Dette gjelder spesielt i det som kan betraktes som «roligere» perioder uten store hendelser eller spesielt synlig ekstremistisk aktivitet. For å sikre institusjonell kunnskap og forståelse gjennom ulike samfunnsmessige utviklingstrekk er det vesentlig med kontinuerlig forskning også på dette området. Dette er også viktig for å opprettholde kunnskap, ressurser og kontakter. Samtidig er komparativ forskning viktig for forståelse og innsikt. Som omtalt i kapittel 31 Forskning har Terra og C-REX et pågående samarbeid om trusler fra høyreekstreme og ekstrem islamisme i Europa.
+
+Terra har opparbeidet seg særegen kompetanse og innsikt på et forskningsfelt som har stor betydning for norsk og internasjonal kunnskap om ekstrem islamisme. Kommisjonen anser at videre forskning på området er avgjørende, og understreker viktigheten av at Terra sikres videre finansiering og oppdrag. En styrking av fagmiljøet med fokus på tilgrensende og komparative områder innen forskningen kan med fordel vurderes. Dette kan være gjennom økte midler som eventuelt kan brukes til økte forskningsressurser eller til nye eller forsterkede forskningsområder innen ekstrem islamisme. Dette er uavhengig av utviklingen av ekstrem islamisme i norsk kontekst, ettersom den transnasjonale og grenseløse ekstremismen gjør at fortsatt forskning på tematikken også i Norge vil være verdifull. Det vil også bidra til å sikre institusjonell kunnskap og rekruttering til et fagfelt som er i kontinuerlig endring.
+
+Kommisjonens anbefaling:
+
+- Forsvarets forskningsinstitutts forskningsprosjekt Terra videreføres og styrkes finansielt.[^2183]
+
+Samarbeid innen forskning
+
+At forskere samarbeider og utveksler erfaringer og kunnskap, er viktig. Slike samarbeid bidrar til å styrke forskningen samtidig som den holdes relevant. I dag er det samarbeid mellom ulike forskningsmiljøer, også mellom sentrale forskningsmiljøer innen ekstremismeforskning i Norge. Det skjer både gjennom Konsortiet for terrorismeforskning og gjennom andre forskningssamarbeid og fora. Dette bidrar til viktig kunnskapsutvikling.
+
+Samarbeid er etter hva kommisjonen forstår, generelt preget av ulike samhandlingsrutiner og initiativ eller basert på krav om samarbeid i forskningsutlysninger. Samarbeid kan også henge sammen med at det også i forskningen kan være personavhengige relasjoner og arbeid. Dette kan være styrkende i enkelte sammenhenger, men utfordrer institusjonelle samhandlingsbånd og kontinuitet.
+
+Det foreslåtte akademiske rådet for det nasjonale senteret for innsats mot radikalisering og voldelig ekstremisme, vil kunne være et forum for kontakt og dialog mellom ulike forskningsmiljø i Norge. Det kan også være aktuelt med samarbeid gjennom undervisning i det foreslåtte nye studieemnet om radikalisering og ekstremisme, som omtales nedenfor.
+
+Forskning på feltet drar også nytte av internasjonale kontakter og samarbeid. Norske forskere innenfor ekstremisme har gode og relevante internasjonale forbindelser, både gjennom ulike forskningsnettverk og samarbeid og gjennom internasjonale institusjoner. Å lære av hverandre og å kunne identifisere internasjonale utviklingstrekk og trekke paralleller til Norge er viktig for en dynamisk og kontinuerlig kunnskapsutvikling på feltet. Det er viktig at det legges til rette for gode muligheter for internasjonalt samarbeid og kontakt fremover. Dette henger nødvendigvis sammen med at ekstremisme er et globalt fenomen, og at forskningssamarbeid og deling av kunnskap og data kan bidra til større forståelse av utvikling, trender og nasjonale særegenheter. Videre at andre land kan ha sammenlignbare utfordringer og allerede gjennomførte forskningsprosjekter som er relevante for Norge, eller omvendt. Som omtalt ovenfor kan det nasjonale senteret som kommisjonen foreslår være et mulig fremtidig kontaktpunkt for internasjonale forskere og andre som ønsker å komme i kontakt med norske forskningsmiljøer på radikalisering og ekstremisme.
+
+## Et tverrsektorielt studieemne for dem som jobber med forebygging av radikalisering og ekstremisme
+
+For å øke kompetansen hos dem som jobber med forebygging av radikalisering og ekstremisme, er det viktig at kurs- og studietilbudet er tilstrekkelig, og at de får muligheter til å faktisk delta på kurs og ta studier. Det finnes studiesteder i dag som tilbyr relevante studier for dem som arbeider med dette, men kommisjonen mener det er viktig at det finnes et felles tverrsektorielt studieemne om ekstremisme.
+
+Formålet med et slikt studieemne er å øke kunnskapen om radikalisering og ekstremisme, bidra til nettverksbygging og samhandling. Studieemnet skal gi faglig påfyll for dem som arbeider på feltet på ulike myndighetsnivå. Emnet bør derfor være relevant for en variert gruppe, både for ansatte i førstelinjen og for dem som jobber i direktorater eller departementer. Samtidig er det viktig at studieemnet er praksisnært. På den måten vil man dra nytte av hverandres kompetanse og øke forståelsen for hverandres roller og ansvar. Arbeidsgivere bør oppfordres til å tilrettelegge slik at det lar seg gjøre å kombinere studieemnet med jobb.
+
+Studieemnet bør som et minimum ta for seg følgende temaer:
+
+- hva er ekstremisme? Forståelse av ulike ekstreme retninger, deres fiendebilder og dagens trusselbilde.
+
+- hvem radikaliseres? Sårbarhets- og risikofaktorer.
+
+- radikalisering og ekstremisme på digitale flater.
+
+- hvordan håndtere en radikaliseringsbekymring?
+
+- de ulike aktørenes mandater, ansvar og oppgaver opp mot barn og voksne. Modeller for samarbeid og regelverk om informasjonsdeling.
+
+- forebyggingsstrategier.
+
+- reintegrering.
+
+Studieemnet bør tilbys regelmessig og gjøres kjent blant relevante aktører. Det bør også vurderes hvordan det legges til rette for deltakelse fra hele landet på best mulig måte. Hvilken institusjon som skal tilby emnet, opptakskrav og andre kriterier må utredes nærmere.
+
+Kommisjonens anbefaling:
+
+- Det opprettes et tverrsektorielt studieemne for dem som jobber med forebygging av radikalisering og ekstremisme.
+
+## Styrket kompetanse hos ansatte i skolen
+
+Hvor stort skolens ansvar bør være i forebyggende sammenheng, og hvordan skolen bør snakke om og følge opp radikaliseringsbekymringer, er utfordrende spørsmål. For stort fokus på
+
+ekstremisme kan ha negative og utilsiktede konsekvenser. Det er viktig at skolens forebyggende arbeid ikke bereder grunnen for en fryktkultur som kan skade tillits- og omsorgsrelasjoner. Det kan føre til at forebyggingsarbeidet hemmes. Samtidig må ansatte i skolen være i stand til å gjenkjenne tegn på radikalisering og vite hva som
+
+skal gjøres, og hvem som eventuelt skal kontaktes. Gjennom økt kunnskap om at skolens sentrale mandat handler om å blant annet bidra til inkluderende fellesskap og opplæring i demokrati og menneskerettigheter blir det mindre «farlig» å snakke om radikalisering. Kommisjonen mener det er nødvendig med en mer systemisk tilnærming til hele sektoren med hensyn til arbeid mot radikalisering og ekstremisme og hva som faktisk skal være og er skolens ansvar.
+
+Dersom ansatte ved skoler skal kunne oppdage tegn på radikalisering og/eller bistå ved bekymringer rundt dette eller når skoleelever gir uttrykk for negative holdninger mot personer eller grupper, må de ha fenomenkunnskap, pedagogiske verktøy og kjennskap til aktørkartet. Skolens ansatte må besitte kompetanse, både om ulike former for ekstremisme, om hvordan en radikaliseringsprosess kan arte seg, og om hvordan skolen skal forholde seg ved en slik eventuell situasjon, herunder rutiner og kontaktpersoner.
+
+Ved en eventuell opprettelse av et nasjonalt senter som anbefalt ovenfor vil senteret kunne bistå aktører på lokalt nivå, inkludert skolen, med tidsriktig og relevant kunnskap om ulike ekstremismeformer og forebygging. Skolen vil også kunne få veiledning fra kommunale kontaktpunkt som foreslått over, lokale SLT-koordinatorer, radikaliseringskontakter i politiet og RVTS. I noen saker kan det også være aktuelt at skolen deltar i samhandlingsarenaer som kommisjonen anbefaler ovenfor.
+
+Kommisjonen mener det er viktig å sørge for styrket kompetanse også hos ansatte i skole- og lærerutdanninger om forebygging og skolens rolle med tanke på ulike forebyggingsnivåer. Dette gjelder både for voldelig ekstremisme og er også relevant når det kommer til ekstremisme i bred forstand knyttet til avhumaniserende, antidemokratiske holdninger. Det må være en systemisk forankring og bevissthet rundt dette arbeidet, som ikke bare bør omfatte lærere, men også andre ansatte. Etter kommisjonens syn er det særlig viktig at skolens ledelse har et bevisst forhold til problematikken.
+
+Kommisjonens anbefaling:
+
+- Kompetansehevende tilbud innen forebygging av radikalisering og ekstremisme gjøres systematisk tilgjengelig for ansatte i skolen.
+
+## Forebygging av ekstremisme og radikalisering i en digital tidsalder
+
+Både barn og voksne lever i større grad enn tidligere sine liv på nett. Samtidig preges samfunnet av et stadig mer fragmentert informasjonslandskap. Internasjonale plattformselskaper og kommersielle aktører påvirker hva slags informasjon vi alle får, og utvikler verktøy som gjør det lett å lage innhold som kan virke overbevisende. Barn kan være særlig sårbare for ekstremistisk innhold på sosiale medier. Fra forskning vet vi at ekstremister aktivt rekrutterer unge på nett.
+
+Gjennom flere store hendelser de siste årene, blant annet covid-19-pandemien, den pågående krigen i Ukraina og krigen mellom Israel og Hamas som startet høsten 2023, har behovet for å møte informasjon med motstandsdyktighet blitt enda tydeligere. Dette er kunnskap som stadig må oppdateres i møte med nye hendelser. Ulike aktører tar i bruk ny teknologi og kraftige virkemidler for å høste klikk og engasjement. Polarisering og konspirasjonsteorier skaper «informasjonsforurensing» som gjør det vanskelig å vurdere hva vi kan stole på. Barn, unge og voksne får mye informasjon via sosiale medier og en algoritmestyrt *feed*, noe som styrker behovet for en stadig oppdatert kompetanse innenfor kildebevissthet og kritisk mediebruk.
+
+De skadelige sidene ved barn og unges digitale hverdag krever tiltak for å beskytte barna og de unge, men også for å styrke barns, foreldres og andre omsorgspersoners digitale dannelse og dømmekraft slik at de blir i stand til å avgjøre hvilken informasjon som er til å stole på. For å sikre et robust samfunn som kan møte morgendagens utfordringer, må vi sikre at unge ikke bygger sine meninger, holdninger og handlinger på uriktig informasjon, men forstår hvordan teknologi kan utfordre evnen til å avgjøre hva vi kan stole på. Kommisjonen har merket seg det viktige arbeidet som gjøres av Tenk, skoleavdelingen til Faktisk.no, for å styrke kildebevissthet og kritisk mediebruk. Dette er et viktig arbeid som må videreføres.
+
+Kommisjonen deler bekymringen fra sikkerhetsmyndighetene som peker på at digitale plattformer er den viktigste arenaen for radikalisering av høyreekstreme, og at trusselen fra ekstreme islamister primært vil komme fra personer som deltar i digitale nettverk. For å møte ekstremismetrusselen må også de som arbeider forebyggende, forstå hva som skjer i borgernes digitale liv. Kommisjonen er også opptatt av plattformselskapenes ansvar for skadelig innhold. Det skjer nå en betydelig regelverksutvikling på europeisk nivå, og det er etter kommisjonens syn avgjørende at Norge ikke blir hengende etter i dette arbeidet.
+
+I tråd med den teknologiske utviklingen har også politiet og sikkerhetsmyndigheter tatt i bruk nye virkemidler og verktøy i sitt forebyggende arbeid, blant annet ved å samle informasjon om enkeltpersoner og grupper på digitale flater. At det forebyggende arbeidet skjer i den digitale sfæren, er nødvendig, men skaper også utfordringer når det gjelder borgernes personvern og rett til privatliv.
+
+Kommisjonen har ovenfor foreslått mer forskning på ekstremisme, digitalisering og kunstig intelligens. Kommisjonen har også kommet med en anbefaling om å inkludere radikalisering på nett i et tverrsektorielt studieemne. I det følgende vil kommisjonen også komme med anbefalinger om behovet for kunnskap og kompetanse hos myndighetene, som er nødvendig for å håndtere dette problemkomplekset.
+
+### Oppsøkende og forebyggende arbeid på nett
+
+Kommisjonen har i sitt arbeid sett at det er relativt få aktører som jobber med å forebygge radikalisering på nett i Norge. Selv om det gjøres mye godt arbeid av politiets nettpatrulje, er deres handlingsrom begrenset, blant annet av personvernregelverket. Etter kommisjonens syn er det ønskelig med økt tilstedeværelse på nett, samtidig som retten til privatliv og den enkeltes personvern ivaretas.
+
+Det er mange paralleller mellom tradisjonelt oppsøkende ungdomsarbeid gjennom uteteam, utekontakter og ungdomskontakter i Norge og muligheter for oppsøkende arbeid på nett knyttet til radikalisering. Det er også eksempler på oppsøkende tjenester som tester ut metoder for arbeid på digitale flater som ikke handler om radikalisering, men mer generell forebygging. Det finnes dessuten enkelteksempler på tiltak og initiativ som prøver ut oppsøkende arbeid på nett rettet mot radikalisering og ekstremisme. Disse kan benyttes som inspirasjon.[^2184]
+
+Samtidig reiser oppsøkende og forebyggende arbeid på nett utfordrende spørsmål om privatliv og personvern. Det er også stor usikkerhet om rettslige rammer for et slikt arbeid, både for politiet og for kommunale aktører. Kommisjonen mener derfor det bør gjøres en egen utredning om forebyggende og oppsøkende arbeid på nett. Etter kommisjonens syn bør forebygging av ekstremisme og radikalisering være et sentralt tema for en slik utredning, men det vil også kunne være aktuelt å inkludere forebygging av andre forhold, for eksempel knyttet til psykisk uhelse, rus og kriminalitet.
+
+Kommisjonen mener det er behov for en utredning som inkluderer eksperter på forebygging, oppsøkende arbeid, teknologi og personvern. I en slik utredning er det viktig at berørte parter, for eksempel spillsamfunn, inkluderes. Dersom utredningen skal omhandle forebygging rettet mot personer under 18 år, må barn og unge høres, og barne- og ungdomsorganisasjonene bør involveres i arbeidet direkte.
+
+Kommisjonens anbefaling:
+
+- Det settes ned et utvalg som skal utrede oppsøkende og forebyggende arbeid på nett for politiet og kommunene.
+
+### Gjennomføring av og tilsyn med EUs forordning om digitale tjenester i Norge
+
+EUs forordning om digitale tjenester (*Digital Services Act*, DSA) er etter kommisjonens syn et viktig steg i riktig retning for å begrense spredning av ekstremistisk innhold på digitale plattformer og ansvarliggjøre plattformselskapene.
+
+Kommisjonen er enig i vurderingen i Norges posisjonsnotat som slår fast at det er en fordel for Norge om forordningen tas inn i EØS-avtalen.[^2185] Kommisjonen har forståelse for at det er flere juridiske og praktiske utfordringer som må løses når forordningen skal gjennomføres i norsk rett. I likhet med Ytringsfrihetskommisjonen vil kommisjonen understreke viktigheten av at innlemmelse av forordningen prioriteres.
+
+Kommisjonen merker seg også rapporten som ble publisert i september 2023, om DSA og aktører i det norske internettmarkedet.[^2186] Rapporten kom med en tydelig anbefaling om den nasjonale håndhevingen av forordningen, som handler om behovet for høy teknologi- og regelverkskompetanse. Rapporten er bestilt av Nasjonal kommunikasjonsmyndighet, som er en mulig aktuell kandidat som DSA-koordinator og nasjonal tilsynsmyndighet. Kommisjonen har ikke vurdert hvilket organ som bør inneha denne rollen, men vil understreke viktigheten av en faglig sterk og robust tilsynsmyndighet.
+
+Kommisjonens anbefaling:
+
+- Digitaliserings- og forvaltningsdepartementet prioriterer gjennomføringen av EUs forordning om digitale tjenester i Norge og sikrer at organet som utpekes som tilsynsmyndighet, tildeles midler og personellressurser til å etablere et solid fagmiljø.
+
+### Legalitetskontroll av nye overvåkningsmuligheter
+
+Teknologisk utvikling gir nye muligheter for organene som skal ivareta nasjonale sikkerhetsinteresser. Dette gjelder også i det forebyggende arbeidet. PSTs og Etterretningstjenestens nye hjemler for innhenting av data fra åpne kilder og grenseoverskridende kommunikasjon er eksempler på dette. Med slike vide hjemler er det avgjørende at man har gode kontrollmuligheter. Menneskerettighetene er en ramme rundt hele kommisjonens arbeid, og må også opprettholdes i de hemmelige tjenestenes forebyggende arbeid som kommisjonen ikke har hatt innsyn i.
+
+Stortingets kontrollutvalg for etterretnings-, overvåknings- og sikkerhetstjeneste (EOS-utvalget) fører tilsyn med de hemmelige tjenestenes arbeid. EOS-utvalgets rolle er å undersøke om det tjenestene gjør, er lovlig i henhold til det gjeldende regelverket. Formålet med kontrollen er å sikre at enkeltpersoners rettssikkerhet og personvern blir ivaretatt. En utfordring som kommisjonen er blitt gjort oppmerksom på, er at lovgivningen henger etter den teknologiske utviklingen i en slik grad at det kan gjøre utvalgets arbeid vanskelig. Manglende regulering kan føre til uklarhet om et inngrep er lovlig eller ikke. Denne tregheten kan etter kommisjonens oppfatning skyldes både manglende prioritering, manglende kunnskap og manglende ressurser hos lovgiver. I alle tilfeller er det nødvendig at både Forsvarsdepartementet og Justis- og beredskapsdepartementet følger opp dette og sikrer at lovene som regulerer de hemmelige tjenestene, er oppdatert i tråd med den teknologiske utviklingen. Dette er nødvendig for å ha et klart lovgrunnlag for inngrep og for EOS-utvalgets legalitetskontroll.
+
+Kommisjonen merker seg også at EOS-utvalget ble betydelig styrket da Etterretningstjenesten fikk hjemler til tilrettelagt innhenting, men at en tilsvarende styrking ikke skjedde da PST nylig fikk utvidet sine hjemler for innsamling av informasjon fra åpne kilder. I lys av den betydelige utvidelsen som denne lovendringen innebar, mener kommisjonen det er grunn til en ytterligere styrking av EOS-utvalget, slik at utvalget har tilstrekkelige økonomiske og personellmessige ressurser til å håndtere utvidelsen.
+
+Radikalisering og ekstremisme er fenomener som krysser landegrenser. Dette reflekteres også i arbeidet til tjenestene, både i form av samarbeid mellom dem og deres samarbeid med andre lands tilsvarende tjenester. EOS-utvalget har imidlertid ikke en tilsvarende mulighet for samarbeid med tilsvarende kontrollorganer i andre land. Kommisjonen har ikke hatt anledning til å gå dypere inn i denne problemstillingen, men mener dette er noe som bør utredes videre.
+
+Kommisjonens anbefaling:
+
+- Ansvarlige departementer må ha kompetanse og arbeide raskere for å sikre at regelverket for forebygging av voldelig ekstremisme er oppdatert i tråd med den teknologiske utviklingen.
+
+- EOS-utvalget må sikres tilstrekkelig med personell og økonomiske ressurser for å kunne kontrollere tjenestene. Muligheten for nordisk eller europeisk samarbeid mellom kontrollorganer bør utredes.
