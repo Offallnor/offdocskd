@@ -4,7 +4,7 @@
 - Publisert: 2022-10-10
 - Eier: Kunnskapsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/kompetanse-for-fremtidens-barnehage/id2933368
-- Original-PDF: /dokument/edf766e7-ab36-45ce-a85b-e1d8dca99f44/filer/3fd24aa8-4f44-4009-98c9-f475ae089271.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/edf766e7-ab36-45ce-a85b-e1d8dca99f44/filer/3fd24aa8-4f44-4009-98c9-f475ae089271.pdf
 - Tekst: hentet fra PDF. OBS: 2 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/edf766e7-ab36-45ce-a85b-e1d8dca99f44
 - Hentet: 2026-11-13

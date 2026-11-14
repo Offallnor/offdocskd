@@ -1,7 +1,7 @@
 # Tildelingsbrev Arbeids- og velferdsdirektoratet 2025, del 3 av 4 (side 37–55)
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/tildelingsbrev/2025/64f38e2a-tildelingsbrev-arbeids-og-velferdsdirektoratet-2025.md
-- Original-PDF: /dokument/b2574829-fa8e-4418-8011-7b5d64f38e2a/filer/4f848d07-fd23-4969-9e81-d9aa648e6718.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/b2574829-fa8e-4418-8011-7b5d64f38e2a/filer/4f848d07-fd23-4969-9e81-d9aa648e6718.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 
 ---

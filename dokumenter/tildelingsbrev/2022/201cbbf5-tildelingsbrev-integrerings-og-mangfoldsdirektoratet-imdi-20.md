@@ -5,7 +5,7 @@
 - Eier: Arbeids- og inkluderingsdepartementet
 - Mottaker: Integrerings- og mangfoldsdirektoratet
 
-- Original-PDF: /dokument/6c9c3528-889e-435c-b1e1-28cc201cbbf5/filer/43e28288-5e47-48f2-8696-17e5fd3da080.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/6c9c3528-889e-435c-b1e1-28cc201cbbf5/filer/43e28288-5e47-48f2-8696-17e5fd3da080.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/6c9c3528-889e-435c-b1e1-28cc201cbbf5
 - Hentet: 2026-11-13

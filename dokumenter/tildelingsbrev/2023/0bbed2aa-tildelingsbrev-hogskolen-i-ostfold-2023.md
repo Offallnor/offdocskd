@@ -5,7 +5,7 @@
 - Eier: Kunnskapsdepartementet
 - Mottaker: Høgskolen i Østfold
 - Les hele dokumentet: https://www.hiof.no/om/styringsdokumenter-rapporter/styringsdokumenter/
-- Original-PDF: /dokument/4d840556-9ee4-4f55-b138-b3d90bbed2aa/filer/5ab973ae-969a-4c29-93ee-198689e07b24.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/4d840556-9ee4-4f55-b138-b3d90bbed2aa/filer/5ab973ae-969a-4c29-93ee-198689e07b24.pdf
 - Tekst: hentet fra PDF. OBS: 98 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/4d840556-9ee4-4f55-b138-b3d90bbed2aa
 - Hentet: 2026-11-13

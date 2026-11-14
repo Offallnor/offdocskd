@@ -4,7 +4,7 @@
 - Publisert: 2025-08-01
 - Eier: Arbeids- og inkluderingsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/handlingsplan-mot-sosial-dumping-og-arbeidslivskriminalitet/id3114970/
-- Original-PDF: /dokument/1b77a3ea-ef01-48d5-a332-5a3d310ed64f/filer/dbb2bff2-3059-4cbc-8b2d-49cc3caf5454.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/1b77a3ea-ef01-48d5-a332-5a3d310ed64f/filer/dbb2bff2-3059-4cbc-8b2d-49cc3caf5454.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/1b77a3ea-ef01-48d5-a332-5a3d310ed64f
 - Hentet: 2026-11-13

@@ -5,7 +5,7 @@
 - Eier: Kunnskapsdepartementet
 - Mottaker: Sámi allaskuvla Samisk høgskole
 - Les hele dokumentet: https://www.samas.no/nb/a/tildelingsbrev
-- Original-PDF: /dokument/6d1f62bf-8125-491e-97e1-9f3cb7075a70/filer/55b363b2-a8dc-4d95-a4ba-27af7c1fd414.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/6d1f62bf-8125-491e-97e1-9f3cb7075a70/filer/55b363b2-a8dc-4d95-a4ba-27af7c1fd414.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/6d1f62bf-8125-491e-97e1-9f3cb7075a70
 - Hentet: 2026-11-13

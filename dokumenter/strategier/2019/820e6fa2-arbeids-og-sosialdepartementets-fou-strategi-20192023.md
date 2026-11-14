@@ -4,7 +4,7 @@
 - Publisert: 2019-05-21
 - Eier: Arbeids- og inkluderingsdepartementet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/arbeids--og-sosialdepartementets-fou-strategi-20192023/id2645870/
-- Original-PDF: /dokument/3c281c28-3319-4275-ac61-65b8820e6fa2/filer/90f89881-bd14-44ab-a66e-058b1779ce48.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/3c281c28-3319-4275-ac61-65b8820e6fa2/filer/90f89881-bd14-44ab-a66e-058b1779ce48.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/3c281c28-3319-4275-ac61-65b8820e6fa2
 - Hentet: 2026-11-13

@@ -5,7 +5,7 @@
 - Eier: Kunnskapsdepartementet
 - Mottaker: Norges musikkhøgskole
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2024/id3018875/
-- Original-PDF: /dokument/02b43a53-7036-4176-9a6e-913c651cad90/filer/e7e693fe-241a-4d50-9ada-42517cf4b02a.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/02b43a53-7036-4176-9a6e-913c651cad90/filer/e7e693fe-241a-4d50-9ada-42517cf4b02a.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/02b43a53-7036-4176-9a6e-913c651cad90
 - Hentet: 2026-11-14

@@ -5,7 +5,7 @@
 - Eier: Kunnskapsdepartementet
 - Mottaker: Høgskulen i Volda
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2023/id2952224/
-- Original-PDF: /dokument/74143351-9e90-46ef-ab92-e2277e2324ec/filer/9b0271c5-b597-4652-ad31-d2785555ff01.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/74143351-9e90-46ef-ab92-e2277e2324ec/filer/9b0271c5-b597-4652-ad31-d2785555ff01.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/74143351-9e90-46ef-ab92-e2277e2324ec
 - Hentet: 2026-11-14

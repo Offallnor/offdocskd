@@ -5,7 +5,7 @@
 - Eier: Kunnskapsdepartementet
 - Mottaker: Utdanningsdirektoratet
 
-- Original-PDF: /dokument/40803111-d134-41e6-812b-c70639c169fc/filer/77302f36-ff4e-4545-8136-d01661c42e04.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/40803111-d134-41e6-812b-c70639c169fc/filer/77302f36-ff4e-4545-8136-d01661c42e04.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/40803111-d134-41e6-812b-c70639c169fc
 - Hentet: 2026-11-13

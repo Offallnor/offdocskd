@@ -1,7 +1,7 @@
 # Meld. St. 34 (2023–2024), del 7 av 12 (side 85–96)
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2024/c7a3ff4f-meld-st-34-20232024.md
-- Original-PDF: /dokument/f00a6655-6244-4d9b-a126-62c9c7a3ff4f/filer/03a0aabb-722f-41dd-b757-4a17c74c7fd4.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/f00a6655-6244-4d9b-a126-62c9c7a3ff4f/filer/03a0aabb-722f-41dd-b757-4a17c74c7fd4.pdf
 - Tekst: hentet fra PDF. OBS: 1 tabell, 17 figurer, 56 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 
 ---

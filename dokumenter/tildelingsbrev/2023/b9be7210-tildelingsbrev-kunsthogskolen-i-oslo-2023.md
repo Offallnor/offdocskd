@@ -5,7 +5,7 @@
 - Eier: Kunnskapsdepartementet
 - Mottaker: Kunsthøgskolen i Oslo
 - Les hele dokumentet: https://khio.no/om-kunsthogskolen-i-oslo/organisasjon#styringsdokument
-- Original-PDF: /dokument/38c2c102-688b-4120-bdb1-6246b9be7210/filer/293ed3eb-8437-478a-906e-3099e238f363.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/38c2c102-688b-4120-bdb1-6246b9be7210/filer/293ed3eb-8437-478a-906e-3099e238f363.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/38c2c102-688b-4120-bdb1-6246b9be7210
 - Hentet: 2026-11-13

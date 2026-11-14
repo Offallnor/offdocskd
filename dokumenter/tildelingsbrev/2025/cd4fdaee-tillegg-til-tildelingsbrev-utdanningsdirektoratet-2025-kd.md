@@ -5,7 +5,7 @@
 - Eier: Kunnskapsdepartementet
 - Mottaker: Utdanningsdirektoratet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629613
-- Original-PDF: /dokument/067b2ed2-17b7-487f-bcc6-54adcd4fdaee/filer/2af16381-b9d0-4162-9a92-a34f26e5c837.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/067b2ed2-17b7-487f-bcc6-54adcd4fdaee/filer/2af16381-b9d0-4162-9a92-a34f26e5c837.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/067b2ed2-17b7-487f-bcc6-54adcd4fdaee
 - Hentet: 2026-11-14

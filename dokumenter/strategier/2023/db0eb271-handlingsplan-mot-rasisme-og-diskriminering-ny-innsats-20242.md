@@ -4,7 +4,7 @@
 - Publisert: 2023-11-23
 - Eier: Arbeids- og inkluderingsdepartementet
 
-- Original-PDF: /dokument/96bcc75c-f825-4f24-83b0-3649db0eb271/filer/d0c4e85a-cfa8-4be0-bc5e-5ee169a95599.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/96bcc75c-f825-4f24-83b0-3649db0eb271/filer/d0c4e85a-cfa8-4be0-bc5e-5ee169a95599.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/96bcc75c-f825-4f24-83b0-3649db0eb271
 - Hentet: 2026-11-13

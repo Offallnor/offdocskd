@@ -325,6 +325,8 @@ def main():
         os.makedirs(os.path.join(ROT, os.path.dirname(sti)), exist_ok=True)
         kudos = "https://kudos.dfo.no/dokument/" + r["uuid"]
         kilde = (liste(r.get("source_file_urls")) or [""])[0]
+        if kilde.startswith("/"):   # Kudos oppgir egne filer med relativ sti
+            kilde = "https://kudos.dfo.no" + kilde
         side = (r.get("external_public_url") or "").strip()
         hode = [f"# {r.get('title') or ''}", "", f"- Type: {t}", f"- Publisert: {r.get('publish_date') or ''}",
                 f"- Eier: {', '.join(liste(r.get('owners')))}"]

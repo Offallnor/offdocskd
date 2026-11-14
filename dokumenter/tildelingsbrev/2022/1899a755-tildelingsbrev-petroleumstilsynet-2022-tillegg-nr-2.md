@@ -5,7 +5,7 @@
 - Eier: Arbeids- og inkluderingsdepartementet
 - Mottaker: Havindustritilsynet
 
-- Original-PDF: /dokument/981b57e8-eae4-437b-9f34-853e1899a755/filer/15fb7816-1394-42f0-9039-a5a428384fc8.pdf
+- Original-PDF: https://kudos.dfo.no/dokument/981b57e8-eae4-437b-9f34-853e1899a755/filer/15fb7816-1394-42f0-9039-a5a428384fc8.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/981b57e8-eae4-437b-9f34-853e1899a755
 - Hentet: 2026-11-13

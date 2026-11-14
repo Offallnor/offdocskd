@@ -22,6 +22,7 @@ GRENSE = (0.7, 1.5)   # ordtall i ny tekst delt på ordtall i PDF-teksten
 def finn(navn, rader):
     """Dokumentet filnavnet passer med, eller en forklaring på hvorfor det ikke ble funnet."""
     stamme = os.path.splitext(navn)[0]
+    stamme = re.sub(r" ?\(\d+\)$", "", stamme)   # «… (1).docx» når fila er lastet ned flere ganger
     m = re.search(r"KU-[0-9a-f-]{36}", stamme)
     if m:
         r = rader.get(m.group(0))
@@ -37,6 +38,17 @@ def finn(navn, rader):
     if len(kjerne) >= 8:
         treff = [r for r in rader.values()
                  if re.sub(r"pdfs$", "", os.path.splitext(os.path.basename(r.get("kilde") or ""))[0].lower()) == kjerne]
+        if len(treff) == 1:
+            return treff[0], ""
+    # Filnavnet fra regjeringen.no gir også tittelen: nou2020 2020 0002, prp2025 2026 0033, stm2015 2016 0016.
+    m = re.match(r"(nou|prp|stm)(\d{4})(\d{4})(\d{4})", stamme.lower())
+    if m:
+        art, a1, a2, nr = m.group(1), m.group(2), m.group(3), int(m.group(4))
+        if art == "nou":
+            mønster = rf"NOU {a1}: {nr}$"
+        else:
+            mønster = rf"{'Prop' if art == 'prp' else 'Meld'}\. (?:St\. )?{nr} [A-Z]* ?\({a1}[–-]{a2}\)$"
+        treff = [r for r in rader.values() if re.match(mønster, r["tittel"].strip())]
         if len(treff) == 1:
             return treff[0], ""
     s = slug(stamme, 200)
